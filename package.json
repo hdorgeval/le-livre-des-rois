@@ -1,0 +1,19 @@
+{
+  "name": "le-livre-des-rois",
+  "version": "1.0.0",
+  "description": "Le livre des rois: histoire légendaire des rois de Perse par Ferdowsi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdorgeval/le-livre-des-rois.git"
+  },
+  "author": "Henri d'Orgeval",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hdorgeval/le-livre-des-rois/issues"
+  },
+  "homepage": "https://github.com/hdorgeval/le-livre-des-rois#readme"
+}
