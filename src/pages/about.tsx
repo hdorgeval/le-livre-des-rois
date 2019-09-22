@@ -11,7 +11,7 @@ export default () => (
         <p>
           L&apos; objectif est de transcrire l&apos;oeuvre de Ferdowsi au format Markdown de façon à
           la rendre vivante et à pouvoir l&apos;enrichir de récits connexes tels que ceux apportés à
-          la Bibliothèque Royale par M. Anquetil Du Perron en 1762.
+          la Bibliothèque Royale par M. Anquetil du Perron en 1762.
         </p>
         <p>
           Tous les documents dont il est fait référence sur ce site sont issus de la Bibliothèque
