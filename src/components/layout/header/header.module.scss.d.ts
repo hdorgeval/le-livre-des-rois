@@ -4,6 +4,4 @@ export const button: string;
 export const buttonToggleTheme: string;
 export const buttonIcon: string;
 export const buttonGithub: string;
-export const buttonTwitter: string;
-export const buttonLinkedin: string;
 export const link: string;

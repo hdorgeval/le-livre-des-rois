@@ -1,0 +1,14 @@
+@import '../styles/global.module.scss';
+
+.content {
+  padding: 20px;
+
+  .header {
+    color: red;
+  }
+
+  .error-message {
+    font-size: 20px;
+    color: $color-pallete-2;
+  }
+}
