@@ -1,0 +1,27 @@
+{
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "eslint.alwaysShowStatus": true,
+    "eslint.autoFixOnSave": true,
+    "eslint.options": {
+        "extensions": [".js", ".ts", ".tsx", ".css", ".scss"]
+    },
+    "eslint.validate": [
+        "javascript",
+        "javascriptreact",
+        {
+            "language": "typescript",
+            "autoFix": true
+        },
+        {
+            "language": "typescriptreact",
+            "autoFix": true
+        }
+    ],
+    "prettier.eslint": true,
+    "prettier.singleQuote": true,
+    "prettier.trailingComma": "all",
+    "prettier.requireConfig": true,
+    "jest.autoEnable": false,
+}
