@@ -9,7 +9,7 @@ export default () => (
       <div className={styles.content}>
         <h2>Le concept</h2>
         <p>
-          L&apos; objectif est de translater l&apos;oeuvre de Ferdowsi au format Markdown de façon à
+          L&apos; objectif est de transcrire l&apos;oeuvre de Ferdowsi au format Markdown de façon à
           la rendre vivante et à pouvoir l&apos;enrichir de récits connexes tels que ceux apportés à
           la Bibliothèque Royale par M. Anquetil Du Perron en 1762.
         </p>
