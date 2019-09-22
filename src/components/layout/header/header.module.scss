@@ -12,31 +12,30 @@
   }
 
   .button {
-    background-color: $color-pallete-1;
+    --text-transform: uppercase;
+    background-color: $color-palette-1;
+    color: white;
     display: inline-block;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 12px;
-    --text-transform: uppercase;
-    color: white;
     font-weight: bold;
     height: 30px;
-    min-width: 15px;
     line-height: 30px;
-    padding-left: 10px;
-    margin-right: 10px;
-    padding-right: 10px;
     margin-bottom: 10px;
+    margin-right: 10px;
+    min-width: 15px;
+    padding-left: 10px;
+    padding-right: 10px;
     vertical-align: middle;
 
     &:hover {
-      background-color: $color-pallete-2;
+      background-color: $color-palette-2;
     }
   }
 
   .button-toggle-theme {
     @extend .button;
-    border-top-width: 0px;
-    border-bottom-width: 0px;
+    border: 0px;
     margin-left: 10px;
   }
 
@@ -51,8 +50,12 @@
     @extend .button-icon;
   }
 
+  .button-home {
+    @extend .button-icon;
+  }
+
   .link {
-    color: $color-pallete-1;
+    color: $color-palette-1;
 
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 17px;
@@ -60,7 +63,7 @@
     text-decoration: none;
 
     &:hover {
-      color: $color-pallete-2;
+      color: $color-palette-2;
     }
 
     &:not(:last-child) {
