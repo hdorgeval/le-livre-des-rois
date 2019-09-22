@@ -1,8 +1,4 @@
 body {
-  font-family: Arial, Helvetica, sans-serif;
-  font-size: 17px;
-  line-height: 22px;
-  margin: 0px;
 
   --color-palette-1: #222f3e;
   --color-palette-2: #0984e3;
@@ -15,15 +11,14 @@ body {
   --color-palette-9: #576574;
   --color-palette-link-1: var(--color-palette-3);
   --color-palette-link-2: var(--color-palette-5);
-}
 
-body.dark {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
   line-height: 22px;
   margin: 0px;
-  background-color: var(--color-palette-9);
+}
 
+body.dark {
   --color-palette-1: #777777;
   --color-palette-2: #0984e3;
   --color-palette-3: #777777;
@@ -35,4 +30,10 @@ body.dark {
   --color-palette-9: #222f3e;
   --color-palette-link-1: var(--color-palette-2);
   --color-palette-link-2: var(--color-palette-2);
+
+  background-color: var(--color-palette-9);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 17px;
+  line-height: 22px;
+  margin: 0px;
 }

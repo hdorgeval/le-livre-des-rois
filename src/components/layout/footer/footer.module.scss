@@ -4,18 +4,18 @@ $footer-height: 100px;
 
 .container {
   background-color: $color-palette-9;
-  width: $container-width;
+  bottom: 0;
   height: $footer-height;
   position: absolute;
-  bottom: 0;
+  width: $container-width;
 
   .footer {
-    margin: 0 auto;
-    max-width: $site-width;
-    height: $footer-height;
-    line-height: $footer-height;
     color: $color-palette-7;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    height: $footer-height;
+    line-height: $footer-height;
+    margin: 0 auto;
+    max-width: $site-width;
     padding: 0px 20px 0px 20px;
 
     a {

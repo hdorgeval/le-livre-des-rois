@@ -1,13 +1,13 @@
 @import '../../styles/global.module.scss';
 
 .container {
-  position: relative;
   min-height: 100vh;
+  position: relative;
 
   .content {
-    padding-bottom: 100px;
     margin: 0 auto;
     max-width: $site-width;
+    padding-bottom: 100px;
 
     a {
       color: $color-palette-link-1;
