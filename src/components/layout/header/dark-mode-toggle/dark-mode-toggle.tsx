@@ -14,7 +14,7 @@ export const DarkModeToggle: React.FC = () => (
         className={styles.buttonToggleTheme}
         onClick={() => (theme === 'dark' ? toggleTheme('light') : toggleTheme('dark'))}
       >
-        {theme === 'dark' ? 'light' : 'dark'}
+        {theme === 'dark' ? 'Light' : 'Dark'}
       </button>
     )}
   </ThemeToggler>
