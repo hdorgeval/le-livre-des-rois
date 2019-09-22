@@ -1,0 +1,71 @@
+@import '../../../styles/global.module.scss';
+
+.container {
+  max-width: $site-width;
+  min-height: 50px;
+  margin: 0 auto;
+  padding-top: 10px;
+
+  .row {
+    text-align: right;
+    padding: 5px;
+  }
+
+  .button {
+    background-color: $color-pallete-1;
+    display: inline-block;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 12px;
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    height: 30px;
+    min-width: 15px;
+    line-height: 30px;
+    padding-left: 10px;
+    margin-right: 10px;
+    padding-right: 10px;
+    margin-bottom: 10px;
+    vertical-align: middle;
+
+    &:hover {
+      background-color: $color-pallete-2;
+    }
+  }
+
+  .button-toggle-theme {
+    @extend .button;
+    border-top-width: 0px;
+    border-bottom-width: 0px;
+    margin-left: 10px;
+  }
+
+  .button-icon {
+    @extend .button;
+    background-size: 16px 16px;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  .button-github {
+    @extend .button-icon;
+    background-image: url('../../../images/github.png');
+  }
+
+  .link {
+    color: $color-pallete-1;
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    font-weight: bold;
+    text-decoration: none;
+
+    &:hover {
+      color: $color-pallete-2;
+    }
+
+    &:not(:last-child) {
+      padding-right: 30px;
+    }
+  }
+}

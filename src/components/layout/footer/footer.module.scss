@@ -1,0 +1,22 @@
+@import '../../../styles/global.module.scss';
+
+$footer-height: 100px;
+
+.container {
+  background-color: $color-pallete-9;
+  width: $container-width;
+  height: $footer-height;
+  position: absolute;
+  bottom: 0;
+
+  .footer {
+    margin: 0 auto;
+    max-width: $site-width;
+    height: $footer-height;
+    line-height: $footer-height;
+    color: $color-pallete-7;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 0px 20px 0px 20px;
+  }
+
+}

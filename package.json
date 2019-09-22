@@ -22,6 +22,7 @@
   },
   "dependencies": {
     "gatsby": "2.15.20",
+    "gatsby-plugin-dark-mode": "1.1.0",
     "gatsby-plugin-sass": "2.1.15",
     "gatsby-plugin-typescript": "2.1.9",
     "node-sass": "4.12.0",
@@ -39,6 +40,7 @@
     "eslint-config-prettier": "6.3.0",
     "eslint-plugin-prettier": "3.1.1",
     "eslint-plugin-react": "7.14.3",
+    "gatsby-cli": "2.7.49",
     "prettier": "1.18.2",
     "rimraf": "3.0.0",
     "stylelint": "11.0.0",
