@@ -25,6 +25,8 @@
     "gatsby-plugin-dark-mode": "1.1.0",
     "gatsby-plugin-sass": "2.1.15",
     "gatsby-plugin-typescript": "2.1.9",
+    "gatsby-source-filesystem": "2.1.26",
+    "gatsby-transformer-remark": "2.6.24",
     "node-sass": "4.12.0",
     "react": "16.9.0",
     "react-dom": "16.9.0"

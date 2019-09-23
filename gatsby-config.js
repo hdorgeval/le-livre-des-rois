@@ -6,7 +6,19 @@
 
 module.exports = {
   /* Your site config here */
-  plugins: ['gatsby-plugin-typescript', 'gatsby-plugin-sass', 'gatsby-plugin-dark-mode'],
+  plugins: [
+    'gatsby-plugin-typescript',
+    'gatsby-plugin-sass',
+    'gatsby-plugin-dark-mode',
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'mardown',
+        path: `${__dirname}/src/markdown`,
+      },
+    },
+    'gatsby-transformer-remark',
+  ],
   siteMetadata: {
     title: 'Le Livre des Rois',
   },

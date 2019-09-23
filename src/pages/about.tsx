@@ -1,5 +1,5 @@
 import styles from './about.module.scss';
-import { Layout, Title } from '../components';
+import { Layout, Title, FirdousiArticles } from '../components';
 import React from 'react';
 
 export default () => (
@@ -9,7 +9,7 @@ export default () => (
       <div className={styles.content}>
         <h2>Le concept</h2>
         <p>
-          L&apos; objectif est de transcrire l&apos;oeuvre de Ferdowsi au format Markdown de façon à
+          L&apos; objectif est de transcrire l&apos;oeuvre de Firdousi au format Markdown de façon à
           la rendre vivante et à pouvoir l&apos;enrichir de récits connexes tels que ceux apportés à
           la Bibliothèque Royale par M. Anquetil du Perron en 1762.
         </p>
@@ -36,6 +36,8 @@ export default () => (
           </a>
           .
         </p>
+        <p></p>
+        <FirdousiArticles />
       </div>
     </div>
   </Layout>

@@ -1,0 +1,51 @@
+@import '../../styles/global.module.scss';
+
+.article-box {
+  margin-bottom: 30px;
+  border-bottom: 1px dotted $color-palette-6;
+  display: inline-block;
+  width: $container-width;
+  transition: all 0.25s ease;
+  box-shadow: inset 0 0 0 0 $color-palette-4;
+
+  &:hover {
+    cursor: pointer;
+
+    @media screen and (min-width: 960px) {
+      box-shadow: inset $site-width 0 0 0 $color-palette-7;
+    }
+
+  }
+
+  .left {
+    float: left;
+    width: 150px;
+    height: 150px;
+    background-color: $color-palette-5;
+  }
+
+  .right {
+    margin-left: 150px;
+    padding: 15px;
+    color: $color-palette-3;
+    margin-top: -20px;
+
+    .date {
+      margin-top: -15px;
+      margin-bottom: 20px;
+      font-size: 12px;
+    }
+
+    .time-to-read {
+      margin-top: -15px;
+      margin-bottom: 20px;
+      font-size: 12px;
+    }
+
+    h3 {
+      color: $color-palette-3;
+    }
+
+  }
+
+}
