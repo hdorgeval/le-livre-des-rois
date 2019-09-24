@@ -39,5 +39,5 @@ export interface MarkdownFrontmatter {
   date: string;
   image: string;
   keywords: string;
-  title: string;
+  landscape: string;
 }

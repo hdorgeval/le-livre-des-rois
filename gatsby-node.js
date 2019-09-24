@@ -1,0 +1,53 @@
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const { createFilePath } = require('gatsby-source-filesystem');
+// eslint-disable-next-line @typescript-eslint/no-var-requires
+const path = require('path');
+
+exports.onCreateNode = ({ node, getNode, actions }) => {
+  if (node.internal.type === 'MarkdownRemark') {
+    const slug = createFilePath({
+      node,
+      getNode,
+      basePath: 'markdown',
+    });
+    // eslint-disable-next-line no-console
+    console.log(`onCreateNode > slug = '${slug}'`);
+    const { createNodeField } = actions;
+    createNodeField({
+      node,
+      name: 'slug',
+      value: slug,
+    });
+  }
+};
+
+exports.createPages = ({ graphql, actions }) => {
+  const { createPage } = actions;
+  return new Promise((resolve) => {
+    graphql(`
+      {
+        allMarkdownRemark {
+          edges {
+            node {
+              fields {
+                slug
+              }
+            }
+          }
+        }
+      }
+    `)
+      .then((result) => {
+        result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+          createPage({
+            path: node.fields.slug,
+            component: path.resolve('./src/templates/markdown-template/markdown-template.tsx'),
+            context: {
+              slug: node.fields.slug,
+            },
+          });
+        });
+      })
+      .then(resolve);
+  });
+};

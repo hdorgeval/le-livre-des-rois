@@ -1,7 +1,7 @@
 ---
-title: 'Les dynasties du livre des rois'
 date: '2019-09-22'
-image: 'https://source.unsplash.com/150x150/?dynasty'
+image: 'https://source.unsplash.com/_pc8aMbI9UQ'
+landscape: 'https://source.unsplash.com/B4op5oZ4x5Q'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
 keywords: 'Firdousi'
 order: '4'

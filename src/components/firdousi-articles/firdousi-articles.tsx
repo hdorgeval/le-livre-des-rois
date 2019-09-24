@@ -14,7 +14,6 @@ export const FirdousiArticles: React.FC = () => {
           node {
             excerpt(truncate: true, pruneLength: 200)
             frontmatter {
-              title
               image
               keywords
               date(formatString: "MMMM YYYY", locale: "fr")
@@ -29,6 +28,9 @@ export const FirdousiArticles: React.FC = () => {
               words
               paragraphs
               sentences
+            }
+            fields {
+              slug
             }
           }
         }

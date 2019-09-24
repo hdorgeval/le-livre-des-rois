@@ -1,0 +1,22 @@
+---
+date: '2019-09-22'
+image: 'https://source.unsplash.com/FNM9O27EM24'
+landscape: 'https://source.unsplash.com/20XFiqpMN50'
+source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
+keywords: 'Firdousi'
+order: '3'
+---
+
+# L'oeuvre de Firdousi
+
+Le nom de Firdousi marque un moment décisif dans l'histoire du vieil Iran.
+
+Il y avait trois siècles que la dynastie sassanide s'était effondrée ; la Perse avait accepté l'Islam, et les derniers fidèles de Zoroastre avaient dû chercher ailleurs un refuge.
+
+Cependant les derniers souverains sassanides avaient déjà conçu le vaste projet dont Firdousi devait être l'héritier : présenter sous forme d'une immense chronique la suite des Histoires de la Perse, depuis les temps mythiques jusqu'à la dynastie d'Ardéchir.
+
+Ces premiers textes furent rédigés en moyen-iranien (pehlewî), et c'est aux matériaux et traditions qui survécurent à l'instauration de l'Islam que Firdousi emprunta les thèmes de son Châh Nâmeh ou « Livre des Rois. »
+
+Il en composa les premiers fragments à Toûs, sa ville natale dans le Khorassan, alors qu'il était âgé de trente-six ans. Appelé ensuite à la cour de Mahmoud, sultan de Ghazna, il put, grâce à la protection de ce prince, réaliser le projet de sa vie.
+
+Il ne lui consacra pas moins de trente-cinq années de travail, et l'épopée atteignit près de 60.000 vers.
