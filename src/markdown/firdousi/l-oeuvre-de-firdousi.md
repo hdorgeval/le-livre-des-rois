@@ -1,5 +1,5 @@
 ---
-date: '2019-09-22'
+date: ''
 image: 'https://source.unsplash.com/FNM9O27EM24'
 landscape: 'https://source.unsplash.com/20XFiqpMN50'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut

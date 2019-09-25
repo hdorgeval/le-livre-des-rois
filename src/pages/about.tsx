@@ -19,11 +19,19 @@ export default () => (
           <a href="https://gallica.bnf.fr" target="_blank" rel="noopener noreferrer">
             gallica.bnf.fr
           </a>
-          )
+          ) et issus des &nbsp;
+          <a
+            href="https://www.notesdumontroyal.com/recherche/le+livre+des+rois"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Notes du mont Royal
+          </a>
+          .
         </p>
         <p>
-          Compte-tenu de l&apos;importance de l&apos;oeuvre de Ferdowsi, ce site sera toujours en
-          mode &apos;work in progress&apos;.
+          Compte-tenu de l&apos;importance de l&apos;oeuvre de Firdousi, ce site sera en mode
+          &apos;work in progress&apos; pour une durée indéterminée.
         </p>
         <p>
           Les contributeurs sont les bienvenus sur la source de ce site situé sur{' '}
@@ -36,7 +44,18 @@ export default () => (
           </a>
           .
         </p>
-        <p></p>
+        <p>
+          Pour toute question/suggestion/feedback, veuillez ouvrir une{' '}
+          <a
+            href="https://github.com/hdorgeval/le-livre-des-rois/issues"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            issue
+          </a>{' '}
+          sur GitHub;
+        </p>
+        <br />
         <FirdousiArticles />
       </div>
     </div>

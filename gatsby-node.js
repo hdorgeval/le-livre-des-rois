@@ -3,8 +3,12 @@ const { createFilePath } = require('gatsby-source-filesystem');
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const path = require('path');
 
-exports.onCreateNode = ({ node, getNode, actions }) => {
+exports.onCreateNode = async ({ node, getNode, actions }) => {
+  // eslint-disable-next-line no-console
+  console.log(`onCreateNode > ${node.internal.type}`);
   if (node.internal.type === 'MarkdownRemark') {
+    // eslint-disable-next-line no-console
+    console.log(`onCreateNode > MarkdownRemark`);
     const slug = createFilePath({
       node,
       getNode,
@@ -21,7 +25,7 @@ exports.onCreateNode = ({ node, getNode, actions }) => {
   }
 };
 
-exports.createPages = ({ graphql, actions }) => {
+exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
   return new Promise((resolve) => {
     graphql(`

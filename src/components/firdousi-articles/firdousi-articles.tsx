@@ -14,9 +14,9 @@ export const FirdousiArticles: React.FC = () => {
           node {
             excerpt(truncate: true, pruneLength: 200)
             frontmatter {
+              date
               image
               keywords
-              date(formatString: "MMMM YYYY", locale: "fr")
             }
             id
             timeToRead
