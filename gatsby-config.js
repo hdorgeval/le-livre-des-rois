@@ -7,9 +7,11 @@
 module.exports = {
   /* Your site config here */
   plugins: [
-    'gatsby-plugin-typescript',
-    'gatsby-plugin-sass',
+    'gatsby-transformer-remark',
     'gatsby-plugin-dark-mode',
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-sass',
+    'gatsby-plugin-typescript',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -17,7 +19,6 @@ module.exports = {
         path: `${__dirname}/src/markdown`,
       },
     },
-    'gatsby-transformer-remark',
   ],
   siteMetadata: {
     title: 'Le Livre des Rois',

@@ -1,9 +1,14 @@
 import styles from './index.module.scss';
-import { Layout, Title } from '../components';
+import { Layout, Title, SEO } from '../components';
 import React from 'react';
 
 const Index: React.FC = () => (
   <Layout>
+    <SEO
+      title="Le Livre des Rois"
+      contentType="website"
+      description="Histoire légendaire des rois de Perse"
+    />
     <div>
       <Title text="Le Livre des Rois" subtitle="Histoire légendaire des rois de Perse" />
       <div className={styles.content}>

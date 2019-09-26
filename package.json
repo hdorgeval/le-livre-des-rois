@@ -23,19 +23,22 @@
   "dependencies": {
     "gatsby": "2.15.20",
     "gatsby-plugin-dark-mode": "1.1.0",
+    "gatsby-plugin-react-helmet": "3.1.8",
     "gatsby-plugin-sass": "2.1.15",
     "gatsby-plugin-typescript": "2.1.9",
     "gatsby-source-filesystem": "2.1.26",
     "gatsby-transformer-remark": "2.6.24",
     "node-sass": "4.12.0",
     "react": "16.9.0",
-    "react-dom": "16.9.0"
+    "react-dom": "16.9.0",
+    "react-helmet": "5.2.1"
   },
   "devDependencies": {
     "@types/node": "12.7.5",
     "@types/node-sass": "4.11.0",
     "@types/react": "16.9.2",
     "@types/react-dom": "16.9.0",
+    "@types/react-helmet": "5.0.10",
     "@typescript-eslint/eslint-plugin": "2.3.0",
     "@typescript-eslint/parser": "2.3.0",
     "eslint": "6.4.0",
