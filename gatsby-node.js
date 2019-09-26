@@ -17,7 +17,7 @@ exports.onCreateNode = async ({ node, getNode, actions }) => {
     // eslint-disable-next-line no-console
     console.log(`onCreateNode > slug = '${slug}'`);
     const { createNodeField } = actions;
-    createNodeField({
+    await createNodeField({
       node,
       name: 'slug',
       value: slug,

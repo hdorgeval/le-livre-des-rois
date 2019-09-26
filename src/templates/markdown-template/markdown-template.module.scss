@@ -41,6 +41,33 @@
       text-align: justify;
     }
 
+    blockquote {
+      position: relative;
+      font-style: italic;
+      margin-left: 8px;
+      font-family: 'Times New Roman', Georgia, serif;
+      border-left: 0.3em solid $color-palette-2;
+      padding-left: 13px;
+
+      &:before {
+        content: '\201C';
+        position: absolute;
+        top: 0.0em;
+        left: -0.10em;
+        font-size: 3em;
+        font-family: 'Times New Roman', Georgia, serif;
+        color: $color-palette-3;
+        --z-index: -1;
+      }
+
+      p {
+        color: $color-palette-3;
+        margin: 7px;
+        line-height: 30px;
+        text-align: justify;
+      }
+    }
+
   }
 
 }

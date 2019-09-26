@@ -1,5 +1,5 @@
 import styles from './index.module.scss';
-import { Layout, Title, SEO } from '../components';
+import { Layout, Title, SEO, Episodes } from '../components';
 import React from 'react';
 
 const Index: React.FC = () => (
@@ -38,6 +38,7 @@ const Index: React.FC = () => (
           ses louanges.
         </p>
       </div>
+      <Episodes />
     </div>
   </Layout>
 );
