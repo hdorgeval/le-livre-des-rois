@@ -19,6 +19,14 @@ module.exports = {
         path: `${__dirname}/src/markdown`,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: 'UA-148920239-1',
+        anonymize: true,
+        respectDNT: true,
+      },
+    },
   ],
   siteMetadata: {
     title: 'Le Livre des Rois',
