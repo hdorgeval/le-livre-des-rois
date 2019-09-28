@@ -12,6 +12,7 @@ export interface SEOProps {
 export type ContentType = 'article' | 'website';
 export const SEO: React.FC<SEOProps> = ({ title, description, image, url, contentType }) => (
   <Helmet>
+    <html lang="fr" />
     <title>{title}</title>
     {url && <link rel="canonical" href={url} />}
     {description && <meta name="description" content={description} />}

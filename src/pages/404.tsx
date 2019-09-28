@@ -8,7 +8,9 @@ export default () => (
     <div className={styles.content}>
       <h1 className={styles.header}>Oops</h1>
       <p className={styles.errorMessage}>La page que vous cherchez n&apos;existe pas</p>
-      <Link to="/">Le Livre des Rois</Link>
+      <Link to="/" aria-label="Le livre des rois">
+        Le Livre des Rois
+      </Link>
     </div>
   </Layout>
 );

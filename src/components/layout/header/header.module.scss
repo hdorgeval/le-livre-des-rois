@@ -13,7 +13,7 @@
 
   .button {
     --text-transform: uppercase;
-    background-color: $color-palette-1;
+    background-color: $color-palette-3;
     color: white;
     display: inline-block;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -37,6 +37,7 @@
     @extend .button;
     border: 0px;
     margin-left: 10px;
+    cursor: pointer;
   }
 
   .button-icon {

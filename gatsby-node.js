@@ -28,7 +28,7 @@ exports.onCreateNode = async ({ node, getNode, actions }) => {
 exports.createPages = async ({ graphql, actions }) => {
   const { createPage } = actions;
   return new Promise((resolve) => {
-    graphql(`
+    return graphql(`
       {
         allMarkdownRemark {
           edges {
@@ -42,7 +42,7 @@ exports.createPages = async ({ graphql, actions }) => {
       }
     `)
       .then((result) => {
-        result.data.allMarkdownRemark.edges.forEach(({ node }) => {
+        return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
           createPage({
             path: node.fields.slug,
             component: path.resolve('./src/templates/markdown-template/markdown-template.tsx'),

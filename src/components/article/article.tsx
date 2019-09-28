@@ -15,7 +15,7 @@ export const Article: React.FC<ArticleProps> = ({
   const sanitizedExcerpt = excerpt.replace(firstHeading, '');
 
   return (
-    <Link to={fields.slug}>
+    <Link to={fields.slug} aria-label={firstHeading}>
       <article className={styles.articleBox}>
         <div className={styles.left}>
           <img src={`${frontmatter.image}/150x150`} alt={firstHeading} />

@@ -26,7 +26,7 @@
     }
 
     p {
-      color: $color-palette-3;
+      color: $color-palette-1;
       margin-bottom: 10px;
       font-size: 18px;
       line-height: 30px;
@@ -34,7 +34,7 @@
     }
 
     li {
-      color: $color-palette-3;
+      color: $color-palette-1;
       margin-bottom: 10px;
       font-size: 18px;
       line-height: 30px;
@@ -56,12 +56,12 @@
         left: -0.10em;
         font-size: 3em;
         font-family: 'Times New Roman', Georgia, serif;
-        color: $color-palette-3;
+        color: $color-palette-1;
         --z-index: -1;
       }
 
       p {
-        color: $color-palette-3;
+        color: $color-palette-1;
         margin: 7px;
         line-height: 30px;
         text-align: justify;

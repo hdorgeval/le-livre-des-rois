@@ -10,7 +10,10 @@ export const Layout: React.FunctionComponent = ({ children }) => (
     <div className={styles.content}>{children}</div>
     <Footer>
       {' '}
-      <Link to="/about">A propos</Link> du livre des rois 2019
+      <Link to="/about" aria-label="A propos">
+        A propos
+      </Link>{' '}
+      du livre des rois 2019
     </Footer>
   </div>
 );
