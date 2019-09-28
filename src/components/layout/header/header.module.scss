@@ -54,6 +54,10 @@
     @extend .button-icon;
   }
 
+  .button-tags {
+    @extend .button-icon;
+  }
+
   .link {
     color: $color-palette-1;
     font-family: Verdana, Geneva, Tahoma, sans-serif;

@@ -11,6 +11,27 @@ body {
   --color-palette-link-1: var(--color-palette-3);
   --color-palette-link-2: var(--color-palette-5);
 
+  --color-palette-tag-1: rgba(8, 147, 45, 0.9);
+  --color-palette-tag-2: rgba(17, 170, 132, 0.9);
+  --color-palette-tag-3: rgba(201, 162, 6, 0.9);
+  --color-palette-tag-4: rgba(0, 31, 112, 0.9);
+  --color-palette-tag-5: rgba(191, 3, 185, 0.9);
+  --color-palette-tag-6: rgba(73, 130, 7, 0.9);
+  --color-palette-tag-7: rgba(183, 55, 16, 0.9);
+  --color-palette-tag-8: rgba(80, 142, 8, 0.9);
+  --color-palette-tag-9: rgba(0, 84, 96, 0.9);
+  --color-palette-tag-10: rgba(77, 4, 150, 0.9);
+  --color-palette-tag-11: rgba(3, 19, 99, 0.9);
+  --color-palette-tag-12: rgba(72, 122, 2, 0.9);
+  --color-palette-tag-13: rgba(48, 1, 158, 0.9);
+  --color-palette-tag-14: rgba(168, 0, 2, 0.9);
+  --color-palette-tag-15: rgba(186, 141, 9, 0.9);
+  --color-palette-tag-16: rgba(130, 2, 49, 0.9);
+  --color-palette-tag-17: rgba(0, 48, 96, 0.9);
+  --color-palette-tag-18: rgba(90, 109, 3, 0.9);
+  --color-palette-tag-19: rgba(96, 0, 137, 0.9);
+  --color-palette-tag-20: rgba(7, 53, 99, 0.9);
+
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
   line-height: 22px;
@@ -29,6 +50,27 @@ body.dark {
   --color-palette-9: #222f3e;
   --color-palette-link-1: var(--color-palette-2);
   --color-palette-link-2: var(--color-palette-2);
+
+  --color-palette-tag-1: rgba(125, 239, 117, 0.5);
+  --color-palette-tag-2: rgba(111, 172, 237, 0.5);
+  --color-palette-tag-3: rgba(252, 148, 146, 0.5);
+  --color-palette-tag-4: rgba(239, 192, 127, 0.5);
+  --color-palette-tag-5: rgba(159, 252, 187, 0.5);
+  --color-palette-tag-6: rgba(241, 180, 247, 0.5);
+  --color-palette-tag-7: rgba(132, 197, 237, 0.5);
+  --color-palette-tag-8: rgba(244, 154, 134, 0.5);
+  --color-palette-tag-9: rgba(143, 132, 244, 0.5);
+  --color-palette-tag-10: rgba(119, 232, 249, 0.5);
+  --color-palette-tag-11: rgba(242, 167, 230, 0.5);
+  --color-palette-tag-12: rgba(204, 196, 255, 0.5);
+  --color-palette-tag-13: rgba(244, 137, 129, 0.5);
+  --color-palette-tag-14: rgba(249, 237, 142, 0.5);
+  --color-palette-tag-15: rgba(157, 252, 128, 0.5);
+  --color-palette-tag-16: rgba(184, 107, 239, 0.5);
+  --color-palette-tag-17: rgba(173, 249, 122, 0.5);
+  --color-palette-tag-18: rgba(185, 220, 247, 0.5);
+  --color-palette-tag-19: rgba(216, 132, 255, 0.5);
+  --color-palette-tag-20: rgba(242, 187, 116, 0.5);
 
   background-color: var(--color-palette-9);
   font-family: Arial, Helvetica, sans-serif;
