@@ -1,7 +1,7 @@
 import 'jest';
-import { getFirstMarkdownInDirectory, readAllLinesInFile } from '../../fs';
-import { getTagsFrom } from '../../markdown-tags';
-import { updateFrontmatter } from '..';
+import { getFirstMarkdownInDirectory, readAllLinesInFile } from '../../../fs';
+import { getTagsFrom } from '../../../markdown-tags';
+import { updateFrontmatter } from '../..';
 
 test('Should update tag section in frontmatter', () => {
   // Given

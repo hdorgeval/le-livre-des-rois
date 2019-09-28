@@ -22,7 +22,7 @@ export const Article: React.FC<ArticleProps> = ({
         </div>
         <div className={styles.right}>
           <h3>{firstHeading}</h3>
-          <div className={styles.timeToRead}>{`durée de lecture: ${timeToRead} mn`}</div>
+          <div className={styles.timeToRead}>{`durée de lecture: ${timeToRead * 2} mn`}</div>
           <div>{sanitizedExcerpt}</div>
         </div>
       </article>

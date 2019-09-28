@@ -2,7 +2,7 @@
 date: ''
 image: 'https://source.unsplash.com/_hF6pftEah4'
 landscape: 'https://source.unsplash.com/zOUC2BWW8ms'
-source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
+source: tome IV - livre des rois - P. 223
 tags:
   [
     'Balkh',
