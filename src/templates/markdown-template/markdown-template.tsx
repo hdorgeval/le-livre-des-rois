@@ -1,6 +1,6 @@
 import styles from './markdown-template.module.scss';
 import { MarkdownRemarkResponse } from '../../graphql';
-import { Layout, Title } from '../../components';
+import { Layout, Title, SEO } from '../../components';
 import React from 'react';
 import { graphql } from 'gatsby';
 
@@ -14,6 +14,7 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data }) => {
 
   return (
     <Layout>
+      <SEO title="Le Livre des Rois" contentType="website" description={firstHeading} />
       <div className={styles.container}>
         <Title text={firstHeading} subtitle=""></Title>
         <div

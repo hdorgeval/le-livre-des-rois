@@ -4,7 +4,11 @@ import React from 'react';
 
 export default () => (
   <Layout>
-    <SEO title="Tags" contentType="website" description="tous les tags du livre des Rois" />
+    <SEO
+      title="Le Livre des Rois"
+      contentType="website"
+      description="tous les tags du livre des Rois"
+    />
     <div>
       <Title text="Le Livre des Rois" subtitle="Tags" />
       <div className={styles.content}>
