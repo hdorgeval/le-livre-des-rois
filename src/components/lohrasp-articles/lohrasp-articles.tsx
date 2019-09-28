@@ -16,7 +16,7 @@ export const LohraspArticles: React.FC = () => {
             frontmatter {
               date
               image
-              keywords
+              tags
             }
             id
             timeToRead

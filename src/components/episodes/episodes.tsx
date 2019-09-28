@@ -7,7 +7,7 @@ export const Episodes: React.FC = () => {
     id: 'lohrasp',
     excerpt: 'Règne de Lohrasp Son règne dura 120 ans',
     frontmatter: {
-      keywords: '',
+      tags: [],
       date: '',
       image: 'https://source.unsplash.com/pKMFZmVHsNk',
       landscape: 'https://source.unsplash.com/j1HU-Oll7KI',

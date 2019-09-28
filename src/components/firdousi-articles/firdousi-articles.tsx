@@ -16,7 +16,7 @@ export const FirdousiArticles: React.FC = () => {
             frontmatter {
               date
               image
-              keywords
+              tags
             }
             id
             timeToRead

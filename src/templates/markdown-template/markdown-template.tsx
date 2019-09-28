@@ -42,7 +42,7 @@ export const query = graphql`
       html
       frontmatter {
         landscape
-        keywords
+        tags
       }
       headings {
         value

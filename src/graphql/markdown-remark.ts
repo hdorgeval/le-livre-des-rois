@@ -38,6 +38,6 @@ export interface MarkdownExtraFields {
 export interface MarkdownFrontmatter {
   date: string;
   image: string;
-  keywords: string;
+  tags: string[];
   landscape: string;
 }
