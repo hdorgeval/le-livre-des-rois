@@ -1,3 +1,4 @@
+export * from './article/article';
 export * from './episodes/episodes';
 export * from './firdousi-articles/firdousi-articles';
 export * from './layout/layout';

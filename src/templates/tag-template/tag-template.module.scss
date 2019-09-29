@@ -1,0 +1,14 @@
+@import '../../styles/global.module.scss';
+
+.content {
+
+  p,
+  h2 {
+    color: $color-palette-1;
+  }
+
+  a {
+    color: $color-palette-link-1;
+  }
+
+}

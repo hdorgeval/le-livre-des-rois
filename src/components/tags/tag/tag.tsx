@@ -1,5 +1,6 @@
 import styles from './tag.module.scss';
 import React from 'react';
+import { Link } from 'gatsby';
 // import randomColor from 'randomcolor';
 
 export interface TagProps {
@@ -70,7 +71,10 @@ export const Tag: React.FC<TagProps> = ({ text, size, index }) => {
           // }),
         }}
       >
-        {text}{' '}
+        <Link to={`/tag/${text}`} aria-label={`voir tous les articles liés à ${text}`}>
+          {text}
+        </Link>{' '}
+        {''}
       </span>
     </div>
   );

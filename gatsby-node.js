@@ -4,11 +4,10 @@ const { createFilePath } = require('gatsby-source-filesystem');
 const path = require('path');
 
 exports.onCreateNode = async ({ node, getNode, actions }) => {
+  const { createNodeField } = actions;
   // eslint-disable-next-line no-console
   console.log(`onCreateNode > ${node.internal.type}`);
   if (node.internal.type === 'MarkdownRemark') {
-    // eslint-disable-next-line no-console
-    console.log(`onCreateNode > MarkdownRemark`);
     const slug = createFilePath({
       node,
       getNode,
@@ -16,7 +15,6 @@ exports.onCreateNode = async ({ node, getNode, actions }) => {
     });
     // eslint-disable-next-line no-console
     console.log(`onCreateNode > slug = '${slug}'`);
-    const { createNodeField } = actions;
     await createNodeField({
       node,
       name: 'slug',
@@ -25,33 +23,68 @@ exports.onCreateNode = async ({ node, getNode, actions }) => {
   }
 };
 
-exports.createPages = async ({ graphql, actions }) => {
+async function createAllPAgesForMarkdownFiles(graphql, actions) {
   const { createPage } = actions;
-  return new Promise((resolve) => {
-    return graphql(`
-      {
-        allMarkdownRemark {
-          edges {
-            node {
-              fields {
-                slug
-              }
+  const tagTemplate = path.resolve('src/templates/markdown-template/markdown-template.tsx');
+  const { data } = await graphql(`
+    {
+      allMarkdownRemark {
+        edges {
+          node {
+            fields {
+              slug
             }
           }
         }
       }
-    `)
-      .then((result) => {
-        return result.data.allMarkdownRemark.edges.forEach(({ node }) => {
-          return createPage({
-            path: node.fields.slug,
-            component: path.resolve('./src/templates/markdown-template/markdown-template.tsx'),
-            context: {
-              slug: node.fields.slug,
-            },
-          });
-        });
-      })
-      .then(resolve);
+    }
+  `);
+
+  const markdowns = data.allMarkdownRemark.edges.map((edge) => edge.node);
+  markdowns.forEach((markdown) => {
+    // eslint-disable-next-line no-console
+    console.log(`Creating page for markdown ${markdown.fields.slug}`);
+    createPage({
+      path: markdown.fields.slug,
+      component: path.resolve(tagTemplate),
+      context: {
+        slug: markdown.fields.slug,
+      },
+    });
   });
+}
+
+async function createAllPagesForTags(graphql, actions) {
+  const { createPage } = actions;
+  const tagTemplate = path.resolve('src/templates/tag-template/tag-template.tsx');
+  const { data } = await graphql(`
+    {
+      allMarkdownRemark {
+        group(field: frontmatter___tags) {
+          fieldValue
+          totalCount
+        }
+      }
+    }
+  `);
+
+  const tags = data.allMarkdownRemark.group;
+
+  tags.forEach((tag) => {
+    const path = `tag/${tag.fieldValue}`;
+    // eslint-disable-next-line no-console
+    console.log(`Creating page for tag ${tag.fieldValue}`);
+    createPage({
+      path: path,
+      component: tagTemplate,
+      context: {
+        tag: tag.fieldValue,
+      },
+    });
+  });
+}
+
+exports.createPages = async ({ graphql, actions }) => {
+  await createAllPAgesForMarkdownFiles(graphql, actions);
+  await createAllPagesForTags(graphql, actions);
 };
