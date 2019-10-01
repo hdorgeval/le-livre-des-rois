@@ -88,3 +88,8 @@ exports.createPages = async ({ graphql, actions }) => {
   await createAllPAgesForMarkdownFiles(graphql, actions);
   await createAllPagesForTags(graphql, actions);
 };
+
+exports.onPostBootstrap = () => {
+  // eslint-disable-next-line no-console
+  console.log('onPostBootstrap');
+};
