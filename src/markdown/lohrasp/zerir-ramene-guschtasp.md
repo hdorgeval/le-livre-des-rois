@@ -38,7 +38,7 @@ Pendant ce temps Zerir avait lancé son cheval sur les traces de Guschtasp, et n
 
 Lorsqu’on entendit un bruit de chevaux sur la route, les héros qui accompagnaient Guschtasp sortirent de leur campement; Guschtasp écouta attentivement et dit aux grands:
 
-> Ceci ne «peut être que le hennissement du cheval de Zerir, qui a la voix d’un lion, et si c’est Zerir qui vient, il n’arrive pas seul, mais il est accompagné d’une armée avide de combats.
+> Ceci ne peut être que le hennissement du cheval de Zerir, qui a la voix d’un lion, et si c’est Zerir qui vient, il n’arrive pas seul, mais il est accompagné d’une armée avide de combats.
 
 Dans ce moment apparurent sur la route une poussière violette et un drapeau à figure d’éléphant, et l’on vit le Sipehbed Zerir courant devant ses troupes avec la rapidité́ du vent.
 
@@ -48,7 +48,9 @@ Ils s’embrassèrent et s’assirent joyeusement sur la prairie. Guschtasp, le 
 
 Un des chefs les plus illustres dit à Guschtasp:
 
-> Ô héros à la ceinture d’or! Les astrologues du peuple d’ Iran, tous ceux que nous savons avoir approfondi la science, prononcent sur ton horoscope que tu es un Keï Khosrou, que tu seras assis comme roi sur le trône du pouvoir; mais maintenant que tu vas devenir sujet du roi de l’ Inde, nous ne t’approuvons pas.
+> Ô héros à la ceinture d’or!
+>
+> Les astrologues du peuple d’ Iran, tous ceux que nous savons avoir approfondi la science, prononcent sur ton horoscope que tu es un Keï Khosrou, que tu seras assis comme roi sur le trône du pouvoir; mais maintenant que tu vas devenir sujet du roi de l’ Inde, nous ne t’approuvons pas.
 >
 > Il n’y a pas parmi les siens un adorateur de Dieu, et jamais ils ne s’entendront avec toi.
 >

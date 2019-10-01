@@ -29,9 +29,9 @@ Un Hirbed répondit:
 >
 > Il a agrandi ton royaume, les ennemis baissent la tête par crainte de lui.
 >
-> Envoie de tous côtés des hommes, des grands pleins de cœur et qui peuvent te venir en aide; et s’il revient, ne lui montre pas de l’aigreur; fais preuve de vertu et ne prétends pas être l’égal du ciel, qui a vu bien des rois couronnés comme toi , mais qui n’a accordé́ sa faveur à personne pour toujours.
+> Envoie de tous côtés des hommes, des grands pleins de cœur et qui peuvent te venir en aide; et s’il revient, ne lui montre pas de l’aigreur; fais preuve de vertu et ne prétends pas être l’égal du ciel, qui a vu bien des rois couronnés comme toi , mais qui n’a accordé sa faveur à personne pour toujours.
 >
-> Confie à Guschtasp une armée, pose sur sa tête un diadème glorieux. Je ne vois pas dans le monde entier de héros comme lui, si ce n’est Rustem, le Pehlewan illustre; jamais oreille n’a entendu parler d’un prince son égal en stature, en beauté́, en prudence et en intelligence.
+> Confie à Guschtasp une armée, pose sur sa tête un diadème glorieux. Je ne vois pas dans le monde entier de héros comme lui, si ce n’est Rustem, le Pehlewan illustre; jamais oreille n’a entendu parler d’un prince son égal en stature, en beauté, en prudence et en intelligence.
 
 Lohrasp envoya quelques-uns de ses grands et fit chercher son fils dans le monde entier.
 
