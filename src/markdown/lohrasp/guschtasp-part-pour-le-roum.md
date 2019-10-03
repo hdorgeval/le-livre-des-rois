@@ -2,7 +2,7 @@
 date: ''
 image: 'https://source.unsplash.com/x4vH0C-rPg8'
 landscape: 'https://source.unsplash.com/UAFXj9dRpwo'
-source: tome IV - livre des rois - P. 227
+source: tome IV - livre des rois - P. 231
 tags: ['Guschtasp', 'Hirbed', 'Lohrasp', 'Pehlewan', 'Roum', 'Rustem']
 order: '4'
 ---
