@@ -1,5 +1,6 @@
 export const noises = [
   'Abandonnons',
+  'Ainsi',
   'Appelé',
   'Aussitôt',
   'Bien',
@@ -55,4 +56,5 @@ export const noises = [
   "J'ai",
   "L'histoire",
   "L'oeuvre",
+  'Près',
 ];
