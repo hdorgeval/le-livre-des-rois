@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/2pQk8FPOK1s'
 landscape: 'https://source.unsplash.com/ZN60gTem64E'
 source: tome IV - livre des rois - P. 233
-tags: ['Bessad', 'Bourab', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kaisars', 'Kaiser', 'Roum', 'Selm']
+tags: ['Bessad', 'Bourab', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kaisars', 'Roum', 'Selm']
 order: '5'
 ---
 
@@ -88,7 +88,7 @@ Le chamelier lui répondit:
 
 Guschtasp le salua et le quitta, se dirigeant vers la ville, en grande détresse; ses soucis pesaient sur son esprit, et il se rendit au quartier des forgerons.
 
-Là il y avait un homme notable, nommé Bourab ,un bon et joyeux forgeron, qui ferrait les chevaux du roi, et que le Kaiser estimait hautement; il avait trente-cinq ouvriers et apprentis qui se fatiguaient avec le marteau et le fer.
+Là il y avait un homme notable, nommé Bourab ,un bon et joyeux forgeron, qui ferrait les chevaux du roi, et que le Kaisar estimait hautement; il avait trente-cinq ouvriers et apprentis qui se fatiguaient avec le marteau et le fer.
 
 Guschtasp resta longtemps assis dans son atelier, et à la fin l’artisan s’ennuya de le voir là et lui dit :
 

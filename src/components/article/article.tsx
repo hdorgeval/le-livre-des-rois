@@ -25,7 +25,7 @@ export const Article: React.FC<ArticleProps> = ({
           <h3>{firstHeading}</h3>
           <div className={styles.details}>
             <span>{`durée de lecture: ${timeToRead * 2} mn`}</span>
-            {totalCount && <span>{`, ${totalCount} episode${totalCount > 1 ? 's' : ''}`}</span>}
+            {totalCount && <span>{`, ${totalCount} épisode${totalCount > 1 ? 's' : ''}`}</span>}
           </div>
           <div>{sanitizedExcerpt}</div>
         </div>

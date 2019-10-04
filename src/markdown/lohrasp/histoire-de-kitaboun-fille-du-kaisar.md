@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/ibKI6M5XZz4'
 landscape: 'https://source.unsplash.com/rEXWtuKw8Rs'
 source: tome IV - livre des rois - P. 238
-tags: ['Destour', 'Dieu', 'Guschtasp', 'Kaisar', 'Kaiser', 'Kitaboun', 'Pléiades', 'Roum']
+tags: ['Destour', 'Dieu', 'Guschtasp', 'Kaisar', 'Kitaboun', 'Pléiades', 'Roum']
 order: '7'
 ---
 
@@ -47,7 +47,7 @@ Lorsque le Destour qui l’avait instruite vit cet acte, il courut à l’insta
 >
 > Nous ne savons qui il est, mais on dirait que tout ce que Dieu peut donner de majesté́ repose sur lui.
 
-Kaiser répondit :
+Kaisar répondit :
 
 > A Dieu ne plaise que j’aie une fille qui amène de l’appartement des femmes le déshonneur sur ma famille!
 >
