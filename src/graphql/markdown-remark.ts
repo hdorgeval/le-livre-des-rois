@@ -8,6 +8,7 @@ export interface MarkdownRemarkResponse {
 export interface AllMarkdownRemark {
   edges: MardownNodeWrapper[];
   group: MarkdownGroupedTag[];
+  totalCount: number;
 }
 
 export interface MarkdownGroupedTag {
