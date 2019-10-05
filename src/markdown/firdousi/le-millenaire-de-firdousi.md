@@ -14,7 +14,6 @@ tags:
     'Livre',
     'Millenaire',
     'Mohl',
-    'Moyen',
     'Perse',
     'Philippe',
     'Rois',
