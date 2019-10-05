@@ -10,7 +10,7 @@ export interface TagProps {
 }
 export const Tag: React.FC<TagProps> = ({ text, size, index }) => {
   const getStyleByIndex = (i: number) => {
-    const konwnIndex = (i + 1) % 20;
+    const konwnIndex = (i % 20) + 1;
     switch (konwnIndex) {
       case 1:
         return styles.color1;
