@@ -10,7 +10,7 @@ export const getTagsFrom = (markdownFile: PathLike): string[] => {
     .filter((line) => !line.startsWith('tags:'))
     .filter((line) => !line.startsWith('---'))
     .join(' ')
-    .split(/\n|\r|\s|,|;|\.|:|\?/)
+    .split(/\n|\r|\s|,|;|\.|:|!|\?/)
     .map((word) => word.trim())
     .filter((word) => word.length > 2)
     .filter((word) => word.match(/^[A-Z]/))
