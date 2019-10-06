@@ -12,7 +12,7 @@ export const LohraspArticles: React.FC = () => {
       ) {
         edges {
           node {
-            excerpt(truncate: true, pruneLength: 200)
+            excerpt(truncate: true, pruneLength: 120)
             frontmatter {
               date
               image
