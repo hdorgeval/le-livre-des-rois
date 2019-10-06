@@ -17,7 +17,7 @@ tags:
     'Sedeh',
     'Temple',
   ]
-order: '1'
+order: '01'
 ---
 
 # Lohrasp fonde le Temple du Feu à Balkh

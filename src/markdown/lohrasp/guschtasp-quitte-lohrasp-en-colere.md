@@ -25,7 +25,7 @@ tags:
     'Zal',
     'Zerir',
   ]
-order: '2'
+order: '02'
 ---
 
 # Guschtasp quitte Lohrasp en colère

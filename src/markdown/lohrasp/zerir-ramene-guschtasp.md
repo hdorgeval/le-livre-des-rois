@@ -21,7 +21,7 @@ tags:
     'Sipehbed',
     'Zerir',
   ]
-order: '3'
+order: '03'
 ---
 
 # Zerir ramène Guschtasp

@@ -4,7 +4,7 @@ image: 'https://source.unsplash.com/2pQk8FPOK1s'
 landscape: 'https://source.unsplash.com/ZN60gTem64E'
 source: tome IV - livre des rois - P. 233
 tags: ['Bessad', 'Bourab', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kaisars', 'Roum', 'Selm']
-order: '5'
+order: '05'
 ---
 
 # Guschtasp arrive à Roum
