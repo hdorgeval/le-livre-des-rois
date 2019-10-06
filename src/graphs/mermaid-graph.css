@@ -1,0 +1,11 @@
+div {
+  font-family: serif, 'Courier New', Courier, monospace;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+span {
+  font-family: serif, 'Courier New', Courier, monospace;
+  font-style: italic;
+  font-size: 1.1rem;
+}

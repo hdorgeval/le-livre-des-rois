@@ -31,6 +31,23 @@
         "--nolazy",
         "--inspect-brk"
       ]
+    },
+    {
+      "type": "node",
+      "name": "mermaid-current-file",
+      "request": "launch",
+      "args": [
+        "--input",
+        "${file}",
+        "--output",
+        "${fileDirname}/${fileBasenameNoExtension}.svg",
+        "--cssFile",
+        "${workspaceFolder}/src/graphs/mermaid-graph.css"
+      ],
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal",
+      "internalConsoleOptions": "neverOpen",
+      "program": "${workspaceFolder}/node_modules/mermaid.cli/index.bundle.js",
     }
   ]
 }

@@ -3,19 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/ibKI6M5XZz4'
 landscape: 'https://source.unsplash.com/ipT2Cp4U8bc'
 source: tome IV - livre des rois - P. 243
-tags:
-  [
-    'Boum',
-    'Dieu',
-    'Fasikoun',
-    'Guschtasp',
-    'Heischoui',
-    'Kaisar',
-    'Kitaboun',
-    'Mirin',
-    'Roum',
-    'Selm',
-  ]
+tags: ['Dieu', 'Fasikoun', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun', 'Mirin', 'Roum', 'Selm']
 order: '9'
 ---
 
@@ -84,9 +72,9 @@ Quand le vin couleur de rubis eut rougi les joues des convives, Heischoui dit a�
 >
 > Tu m’appelles ton meilleur ami sur la terre, tu ne connais personne mieux que moi; or Mirin a pris refuge auprès de moi; c’est un homme illustre et riche, il sait écrire, c’est un savant et un homme habile qui peut calculer les mouvements du ciel sublime; il sait prédire, d’après les sages de Roum, la prospérité ou la désolation de tout pays;
 >
-> il tire son origine de la famille de Selm, dont il connaît les noms de père en fils; il possède l’épée de Selm, l’épée que Selm ne quittaitjamais; c’est un cavalier, un héros, un lion vaillant, qui atteint avec sa flèche un aigle dans le ciel.
+> il tire son origine de la famille de Selm, dont il connaît les noms de père en fils; il possède l’épée de Selm, l’épée que Selm ne quittait jamais; c’est un cavalier, un héros, un lion vaillant, qui atteint avec sa flèche un aigle dans le ciel.
 >
-> Maintenant il voudrait encore grandir et s’allier au Kaisar de Boum; il a parlé au Kaisar et a reçu une réponse, et cette réponse fait trembler son cœur.
+> Maintenant il voudrait encore grandir et s’allier au Kaisar de Roum; il a parlé au Kaisar et a reçu une réponse, et cette réponse fait trembler son cœur.
 >
 > Le Kaisar lui a dit : Tu trouveras dans la forêt de Fasikoun un loup grand comme un dromadaire, et lorsque tu l’auras tué, tu deviendras dans le Roum mon hôte honoré, tu deviendras un prince puissant et mon gendre, et le monde m’accordera ce qui est mon droit.
 >

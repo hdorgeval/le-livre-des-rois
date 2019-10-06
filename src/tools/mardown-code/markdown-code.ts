@@ -1,3 +1,4 @@
+import { HtmlAST } from '../../graphql';
 import extractFromAst from 'unist-util-visit';
 // eslint-disable-next-line import/no-unresolved
 import { Node, Parent } from 'unist';
@@ -6,18 +7,6 @@ type Test<T extends Node> = TestType<T> | TestObject<T> | TestFunction<T>;
 type TestFunction<T extends Node> = (node: unknown, index?: number, parent?: Parent) => node is T;
 type TestType<T extends Node> = T['type'];
 type TestObject<T extends Node> = Partial<T>;
-
-export interface HtmlAST extends Node {
-  type: 'element' | 'root' | 'text';
-  tagName?: 'code' | 'pre' | 'h1';
-  properties?: HtmlProperties;
-  value?: string;
-  children?: HtmlAST[];
-}
-
-export interface HtmlProperties {
-  className?: string[];
-}
 
 const codeNodeWithClassNameFilter = (className: string) => (node: HtmlAST): boolean => {
   if (node.tagName !== 'code') {

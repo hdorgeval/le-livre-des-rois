@@ -3,24 +3,63 @@ const { createFilePath } = require('gatsby-source-filesystem');
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const path = require('path');
 
-exports.onCreateNode = async ({ node, getNode, actions }) => {
+async function createSlugFieldNodeOnMarkdownRemarkNode({ node, getNode, actions }) {
+  if (node.internal.type !== 'MarkdownRemark') {
+    return;
+  }
+
   const { createNodeField } = actions;
+  const slug = createFilePath({
+    node,
+    getNode,
+    basePath: 'markdown',
+  });
+  // eslint-disable-next-line no-console
+  console.log(`onCreateNode > slug = '${slug}'`);
+  await createNodeField({
+    node,
+    name: 'slug',
+    value: slug,
+  });
+}
+
+async function createSvgContentFieldOnFileNode({ node, actions, loadNodeContent }) {
+  if (node.internal.type !== 'File') {
+    return;
+  }
+
+  if (node.internal.mediaType !== 'image/svg+xml') {
+    return;
+  }
+
+  // eslint-disable-next-line no-console
+  console.log(`onCreateNode > ${node.internal.mediaType}`);
+
+  const { createNodeField } = actions;
+  const content = `${await loadNodeContent(node)}`
+    .replace(/<style>.*<\/style>/g, '')
+    .replace(/<style>.*<\/style>/g, '');
+
+  await createNodeField({
+    node,
+    name: 'svgContent',
+    value: content,
+  });
+}
+
+exports.onCreateNode = async ({ node, getNode, actions, loadNodeContent }) => {
   // eslint-disable-next-line no-console
   console.log(`onCreateNode > ${node.internal.type}`);
-  if (node.internal.type === 'MarkdownRemark') {
-    const slug = createFilePath({
-      node,
-      getNode,
-      basePath: 'markdown',
-    });
-    // eslint-disable-next-line no-console
-    console.log(`onCreateNode > slug = '${slug}'`);
-    await createNodeField({
-      node,
-      name: 'slug',
-      value: slug,
-    });
-  }
+  await createSlugFieldNodeOnMarkdownRemarkNode({
+    node,
+    getNode,
+    actions,
+  });
+  await createSvgContentFieldOnFileNode({
+    node,
+    actions,
+    loadNodeContent,
+  });
 };
 
 async function createAllPAgesForMarkdownFiles(graphql, actions) {

@@ -32,6 +32,8 @@ body {
   --color-palette-tag-19: rgba(96, 0, 137, 0.9);
   --color-palette-tag-20: rgba(7, 53, 99, 0.9);
 
+  --bgcolor-palette-1: var(--color-palette-5);
+
   font-family: Arial, Helvetica, sans-serif;
   font-size: 17px;
   line-height: 22px;
@@ -71,6 +73,8 @@ body.dark {
   --color-palette-tag-18: rgba(185, 220, 247, 0.5);
   --color-palette-tag-19: rgba(216, 132, 255, 0.5);
   --color-palette-tag-20: rgba(242, 187, 116, 0.5);
+
+  --bgcolor-palette-1: var(--color-palette-9);
 
   background-color: var(--color-palette-9);
   font-family: Arial, Helvetica, sans-serif;

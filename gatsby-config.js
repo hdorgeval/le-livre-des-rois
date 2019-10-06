@@ -20,11 +20,26 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'graphs',
+        path: `${__dirname}/src/graphs`,
+      },
+    },
+    {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
         trackingId: 'UA-148920239-1',
         anonymize: true,
         respectDNT: true,
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-react-svg',
+      options: {
+        rule: {
+          include: /graphs/,
+        },
       },
     },
   ],

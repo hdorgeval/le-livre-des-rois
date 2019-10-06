@@ -1,5 +1,6 @@
 import 'jest';
-import { HtmlAST, extractCodeFrom } from './markdown-code';
+import { extractCodeFrom } from './markdown-code';
+import { HtmlAST } from '../../graphql';
 
 test('Should get graph data', () => {
   // Given

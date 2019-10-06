@@ -1,4 +1,4 @@
-import { MarkdownNode, AllMarkdownRemarkResponse } from '../../../graphql';
+import { MarkdownNode, AllMarkdownRemarkResponse, emptyHtmlAst } from '../../../graphql';
 import { Article } from '../..';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
@@ -35,6 +35,7 @@ export const Lohrasp: React.FC = () => {
     },
     headings: [{ depth: 1, value: 'Règne de Lohrasp' }],
     html: '<h1>Règne de Lohrasp</h1>Son règne dura 120 ans.',
+    htmlAst: emptyHtmlAst,
     fields: {
       slug: '/regne-de-lohrasp/',
     },

@@ -1,0 +1,39 @@
+@import '../../../styles/global.module.scss';
+
+.mermaid-graph {
+
+  border-bottom: 1px dotted var(--color-palette-6);
+
+  rect {
+    fill: transparent;
+    stroke: $color-palette-tag-8;
+    stroke-width: 2px;
+  }
+
+  div {
+    font-family: serif, 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: $color-palette-tag-8;
+    --margin-top: 5px;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+
+  span {
+    font-family: serif, 'Courier New', Courier, monospace;
+    font-style: italic;
+    color: $color-palette-tag-5;
+    --margin-top: 5px;
+    --font-weight: bold;
+    font-size: 1.1rem;
+    background-color: $bgcolor-palette-1;
+    height: 2rem;
+  }
+
+  path {
+    stroke: purple;
+    stroke-width: 1;
+    fill: $color-palette-tag-5;
+  }
+
+}
