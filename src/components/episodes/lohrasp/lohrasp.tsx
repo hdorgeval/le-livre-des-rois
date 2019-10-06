@@ -6,7 +6,10 @@ import { graphql, useStaticQuery } from 'gatsby';
 export const Lohrasp: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
-      allMarkdownRemark(limit: 10, filter: { fileAbsolutePath: { glob: "**/lohrasp/*.md" } }) {
+      allMarkdownRemark(
+        limit: 100
+        filter: { fileAbsolutePath: { glob: "**/markdown/lohrasp/*.md" } }
+      ) {
         totalCount
         edges {
           node {
