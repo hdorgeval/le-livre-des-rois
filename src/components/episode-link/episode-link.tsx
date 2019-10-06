@@ -1,10 +1,10 @@
-import styles from './article.module.scss';
+import styles from './epidode-link.module.scss';
 import { MarkdownNode } from '../../graphql';
 import React from 'react';
 import { Link } from 'gatsby';
 
-export type ArticleProps = MarkdownNode & { key: string } & { totalCount?: number };
-export const Article: React.FC<ArticleProps> = ({
+export type EpisodeLinkProps = MarkdownNode & { key: string } & { totalCount?: number };
+export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
   excerpt,
   fields,
   frontmatter,

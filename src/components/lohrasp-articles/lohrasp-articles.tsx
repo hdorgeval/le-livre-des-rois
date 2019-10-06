@@ -1,5 +1,5 @@
 import { AllMarkdownRemarkResponse } from '../../graphql';
-import { Article } from '../article/article';
+import { EpisodeLink } from '../episode-link/episode-link';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
@@ -43,7 +43,7 @@ export const LohraspArticles: React.FC = () => {
       {data.allMarkdownRemark.edges
         .map((nodeWrapper) => nodeWrapper.node)
         .map((node) => (
-          <Article {...node} key={node.id} />
+          <EpisodeLink {...node} key={node.id} />
         ))}
       ;
     </>

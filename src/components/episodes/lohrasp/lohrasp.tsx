@@ -1,5 +1,5 @@
 import { MarkdownNode, AllMarkdownRemarkResponse, emptyHtmlAst } from '../../../graphql';
-import { Article } from '../..';
+import { EpisodeLink } from '../..';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
@@ -45,5 +45,5 @@ export const Lohrasp: React.FC = () => {
     timeToRead: timeToRead,
     wordCount: { words: 0, paragraphs: 0, sentences: 0 },
   };
-  return <Article {...lohraspNode} key="lohrasp" totalCount={totalNumberOfEpsiodes} />;
+  return <EpisodeLink {...lohraspNode} key="lohrasp" totalCount={totalNumberOfEpsiodes} />;
 };

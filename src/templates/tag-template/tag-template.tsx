@@ -1,5 +1,5 @@
 import styles from './tag-template.module.scss';
-import { Layout, SEO, Title, Article } from '../../components';
+import { Layout, SEO, Title, EpisodeLink } from '../../components';
 import { AllMarkdownRemarkResponse, PageContext } from '../../graphql';
 import React from 'react';
 import { graphql } from 'gatsby';
@@ -22,7 +22,7 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
           {data.allMarkdownRemark.edges
             .map((nodeWrapper) => nodeWrapper.node)
             .map((node) => (
-              <Article {...node} key={node.id} />
+              <EpisodeLink {...node} key={node.id} />
             ))}
         </div>
       </div>
