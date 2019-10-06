@@ -3,7 +3,7 @@ import { EpisodeLink } from '../episode-link/episode-link';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
-export const LohraspArticles: React.FC = () => {
+export const LohraspEpisodes: React.FC = () => {
   // prettier-ignore
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
