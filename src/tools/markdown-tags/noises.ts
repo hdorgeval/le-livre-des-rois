@@ -37,6 +37,7 @@ export const noises = [
   'Hélas',
   'Hier',
   'Histoire',
+  'Histoires',
   'Ils',
   'J’ai',
   'J’appelle',

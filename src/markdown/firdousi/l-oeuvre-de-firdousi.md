@@ -8,7 +8,6 @@ tags:
     'Châh',
     'Firdousi',
     'Ghazna',
-    'Histoires',
     'Iran',
     'Khorassan',
     'Livre',
