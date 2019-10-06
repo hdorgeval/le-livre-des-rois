@@ -17,7 +17,7 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
 
   return (
     <Link to={fields.slug} aria-label={firstHeading}>
-      <article className={styles.articleBox}>
+      <article className={styles.container}>
         <div className={styles.left}>
           <img src={`${frontmatter.image}/150x150`} alt={firstHeading} />
         </div>
