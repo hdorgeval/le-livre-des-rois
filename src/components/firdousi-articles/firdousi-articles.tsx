@@ -45,7 +45,6 @@ export const FirdousiArticles: React.FC = () => {
         .map((node) => (
           <EpisodeLink {...node} key={node.id} />
         ))}
-      ;
     </>
   );
 };

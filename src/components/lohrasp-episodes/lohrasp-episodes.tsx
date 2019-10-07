@@ -45,7 +45,6 @@ export const LohraspEpisodes: React.FC = () => {
         .map((node) => (
           <EpisodeLink {...node} key={node.id} />
         ))}
-      ;
     </>
   );
 };
