@@ -28,7 +28,6 @@
     "gatsby-plugin-dark-mode": "1.1.0",
     "gatsby-plugin-google-analytics": "2.1.20",
     "gatsby-plugin-react-helmet": "3.1.10",
-    "gatsby-plugin-react-svg": "2.1.2",
     "gatsby-plugin-sass": "2.1.17",
     "gatsby-plugin-typescript": "2.1.11",
     "gatsby-source-filesystem": "2.1.29",
