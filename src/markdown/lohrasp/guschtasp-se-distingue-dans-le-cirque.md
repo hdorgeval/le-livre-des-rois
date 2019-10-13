@@ -99,7 +99,7 @@ Elle répondit :
 >
 > il dit que son nom est Farrukhzad. Mon opinion est qu’il est de grande famille, car il est avide de combats et un vaillant héros.
 
-Là- dessus le Kaisar rentra dans son palais, et le ciel tourna ainsi pendant quelque temps sur le monde.
+Là-dessus le Kaisar rentra dans son palais, et le ciel tourna ainsi pendant quelque temps sur le monde.
 
 Un matin Guschtasp se leva, et ce jeune homme plein de sens se rendit auprès du Kaisar.
 
