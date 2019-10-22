@@ -46,10 +46,13 @@ Le Kaisar répondit :
 
 > Tu es le plus sage des hommes et le plus capable de faire réussir mes désirs.
 
-Guschtasp, ayant écouté ces paroles, monta sur
-un cheval ardent et se rendit au camp de Zerir, un diadème sur la tête , un cheval aux pieds de vent sous lui.
+Guschtasp, ayant écouté ces paroles, monta sur un cheval ardent et se rendit au camp de Zerir, un diadème sur la tête , un cheval aux pieds de vent sous lui.
 
-Lorsque les troupes aperçurent Guschtasp, le fils orgueilleux de Lohrasp , elles se portèrent à sa rencontre à pied, le cœur plein de douleur, le visage inondé de larmes. Tous se prosternèrent devant lui , joyeux de ce que leurs peines, qui avaient duré si longtemps , étaient terminées. Aussitôt qu’il fut près de Zerir, il mit pied à terre, las de ces luttes; il le serra dans ses bras comme un frère aîné et, aussitôt qu’il put parler, il se mit à lui faire des questions.
+Lorsque les troupes aperçurent Guschtasp, le fils orgueilleux de Lohrasp, elles se portèrent à sa rencontre à pied, le cœur plein de douleur, le visage inondé de larmes.
+
+Tous se prosternèrent devant lui , joyeux de ce que leurs peines, qui avaient duré si longtemps , étaient terminées.
+
+Aussitôt qu’il fut près de Zerir, il mit pied à terre, las de ces luttes; il le serra dans ses bras comme un frère aîné et, aussitôt qu’il put parler, il se mit à lui faire des questions.
 
 Ils s’assirent sur le trône, entourés des grands, des puissants et des héros de l’lran.
 
@@ -71,7 +74,9 @@ Quand Guschtasp vit ces bonnes dispositions, cette détermination et cet accomp
 
 > Tout ce que tu peux désirer de l’Iran est accompli, et les paroles que j’entends dépassent toute espérance.
 >
-> Zerir et l’armée comptent que tu viendras en pompe dans ce lieu; tous se lieront à toi par un traité, tous donneront leur vie en gage de leur loyauté. Si tu ne crains pas la fatigue, traverse le désert, car les affaires de ce monde vont à ton gré.
+> Zerir et l’armée comptent que tu viendras en pompe dans ce lieu; tous se lieront à toi par un traité, tous donneront leur vie en gage de leur loyauté.
+>
+> Si tu ne crains pas la fatigue, traverse le désert, car les affaires de ce monde vont à ton gré.
 
 Lorsque le messager fut arrivé auprès du Kaisar, il lui raconta tout ce qu’il avait vu et entendu, et le Kaisar se leva aussitôt, monta à cheval et partit.
 
@@ -87,7 +92,7 @@ Le roi accepta ses excuses, serra sa tête contre sa poitrine et lui dit :
 >
 > Envoie-moi celle qui m’a choisi, car elle a partagé mes douleurs et mes longues peines.
 
-Le Kaisar s’éloigna , souffrant de fatigue et de honte , et énumérant dans son cœur méchant bien d’autres griefs.
+Le Kaisar s’éloigna, souffrant de fatigue et de honte, et énumérant dans son cœur méchant bien d’autres griefs.
 
 Il envoya à Kitaboun des trésors, un diadème rouge et cinq rubis, mille esclaves et servantes de Roum, un collier orné de joyaux dignes d’une reine, cinq charges de chameaux de brocart chinois, et un homme intelligent, comme gardien de ces trésors.
 
