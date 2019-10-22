@@ -9,6 +9,11 @@
 
   a {
     color: $color-palette-link-1;
+
+    &:hover {
+      text-decoration: underline;
+      text-decoration-color: $color-palette-link-1;
+    }
   }
 
   div {
