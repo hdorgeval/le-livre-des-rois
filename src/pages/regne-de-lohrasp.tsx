@@ -1,4 +1,4 @@
-import styles from './about.module.scss';
+import styles from './regne-de-lohrasp.module.scss';
 import { Layout, Title, LohraspEpisodes, SEO } from '../components';
 import React from 'react';
 

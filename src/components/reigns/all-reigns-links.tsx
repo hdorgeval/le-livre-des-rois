@@ -1,4 +1,9 @@
-import { LohraspReignLink } from './lohrasp-reign-link/lohrasp-reign-link';
+import { LohraspReignLink, GuschtaspReignLink } from './';
 import React from 'react';
 
-export const AllReignsLinks: React.FC = () => <LohraspReignLink />;
+export const AllReignsLinks: React.FC = () => (
+  <>
+    <LohraspReignLink />
+    <GuschtaspReignLink />
+  </>
+);
