@@ -8,7 +8,7 @@ export const LohraspReignLink: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 100
-        filter: { fileAbsolutePath: { glob: "**/markdown/lohrasp/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/lohrasp/**/*.md" } }
       ) {
         totalCount
         edges {
