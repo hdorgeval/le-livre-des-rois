@@ -50,7 +50,7 @@ Lorsque Guschtasp fut monté sur le trône de son père, qu’il eut hérite
 
 Il dit :
 
-> Je suis le roi, l’adorateur de Dieu le très-saint qui m’a donné́ ce diadème.
+> Je suis le roi, l’adorateur de Dieu le très-saint qui m’a donné ce diadème.
 >
 > Il me l’a donné, ce puissant diadème, pour que je pusse chasser les loups du troupeau des brebis.
 >
@@ -60,7 +60,7 @@ Il dit :
 
 Et il rendit la justice de telle façon que les brebis pouvaient boire au ruisseau à côté des loups.
 
-Plus tard, la fille illustre du Kaisar, dont le nom était Nahid et à qui le puissant roi avait donné́ le nom de Kitaboun, mit au monde deux fils semblables à des lunes brillantes.
+Plus tard, la fille illustre du Kaisar, dont le nom était Nahid et à qui le puissant roi avait donné le nom de Kitaboun, mit au monde deux fils semblables à des lunes brillantes.
 
 L’un d’eux était le fortuné Isfendiar, un prince guerrier, un cavalier vaillant; l’autre était Beschouten, un héros qui frappait de l’épée, un prince illustre, un destructeur des armées.
 
