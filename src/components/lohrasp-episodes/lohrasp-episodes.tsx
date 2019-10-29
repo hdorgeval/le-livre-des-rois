@@ -8,7 +8,7 @@ export const LohraspEpisodes: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
       allMarkdownRemark(
-        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/lohrasp/**/*"}, frontmatter: {order: {}}}
+        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/lohrasp/**/*.md"}, frontmatter: {order: {}}}
       ) {
         edges {
           node {

@@ -54,6 +54,29 @@
       font-size: 18px;
       line-height: 30px;
       text-align: justify;
+
+      sup {
+        vertical-align: bottom;
+
+        &:before {
+          content: '[';
+        }
+
+        &:after {
+          content: ']';
+        }
+
+        a {
+          color: $color-palette-3;
+          text-decoration: none;
+
+          &:hover {
+            text-decoration: underline;
+            color: $color-palette-link-1;
+            text-decoration-color: $color-palette-link-1;
+          }
+        }
+      }
     }
 
     li {
