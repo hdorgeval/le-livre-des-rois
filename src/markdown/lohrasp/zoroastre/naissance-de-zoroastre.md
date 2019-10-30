@@ -14,6 +14,7 @@ tags:
     'Magiciennes',
     'Magiciens',
     'Magie',
+    'Pline',
     'Poroschasp',
     'Prince',
     'Printemps',
@@ -31,7 +32,7 @@ Au bout de neuf mois, Dogdo accoucha d'un fils, qui fut nommé Zoroastre.
 
 Tout le monde fut surpris de le voir rire en naissant, & l’on présagea de-là quelque chose de grand.
 
-Les artères de sa tête battaient si fort, qu'elles soulevaient la main qui appuyait dessus; ce qui annonçait l’étendu des connaissances qu’il devait avoir.
+Les artères de sa tête battaient si fort, qu'elles soulevaient la main qui appuyait dessus; ce qui annonçait l’étendu des connaissances qu’il devait avoir [^2].
 
 Parmi les femmes qui étaient dans l'appartement de Dogdo, il s'en trouva de Magiciennes, que ce prodige consterna.
 
@@ -54,3 +55,4 @@ Informé de ce qui était arrivé à sa naissance, Douranseroun pâlit de col
 Rouge de colère, il quitta l’oreiller de Zoroastre, & les Magiciens s’enfuirent de ce lieu repliés sur eux-mêmes comme la couleuvre.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760
+[^2]: Ce fait est aussi rapporté par Pline (Histoire Naturelle Tome 6). Pline écrit: "On rapporte que Zoroastre est le seul homme qui ait ri le jour même de sa naissance; et l'on ajoute que, pour présager sa science future; son cerveau palpitait avec tant de force, qu'il repoussait la main qu'on posait dessus."
