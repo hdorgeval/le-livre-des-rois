@@ -3,6 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/XHl1gkHd6iM'
 landscape: 'https://source.unsplash.com/USBmmRQNutE'
 source: tome II - Vie de Zoroastre - P. 19 (P.159) - Zend-Avesta - Anquetil du Perron
+map: 'https://gallica.bnf.fr/ark:/12148/btv1b85930155/f1.item.r=carte%20perse.zoom'
 tags:
   [
     'Ahriman',
@@ -106,13 +107,13 @@ Ormuzd lui dit:
 >
 > La punition qui attend le pécheur est aux Enfers : les insensés mentent, lorsqu'ils disent qué je fais le mal.
 
-Zoroastre pria Ormuzd de lui donner l’immortalité́, pour qu'il pût confirmer les hommes de tous les siècles dans la pratique de la Loi.
+Zoroastre pria Ormuzd de lui donner l’immortalité, pour qu'il pût confirmer les hommes de tous les siècles dans la pratique de la Loi.
 
 Mais Ormuzd lui répondit:
 
 > Si je vous rends immortel, le corps du Dew Tourberatorsch le sera aussi ; & alors il n'y aura pas de résurrection.
 >
-> Si je vous accordais l’immortalité́, vous me demanderiez vous-même la mort.
+> Si je vous accordais l’immortalité, vous me demanderiez vous-même la mort.
 
 Ormuzd lui présenta en même temps quelque chose de semblable à du miel;
 
@@ -122,5 +123,7 @@ Ormuzd lui montra tous les évènements depuis le premier homme jusqu’à la re
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: La mer Caspienne.
-[^3]: Plusieurs montagnes ont porté ce nom. Il y a l’Albordj de Géorgie située à l’est de la mer Caspienne. Il y a l’ Albordj dans le cœur de la Perse, dont le Pyrée est célèbre. Albordj signifie montagne élevée (heranm berézéetîm).
+[^3]: Plusieurs montagnes ont porté ce nom. Il y a l’Albordj de Géorgie située à l’ouest de la mer Caspienne. Il y a l’ Albordj dans le cœur de la Perse, dont le Pyrée est célèbre. Albordj signifie montagne élevée (heranm berézéetîm).
 [^4]: Les six premiers Esprits célestes après Ormuzd
+
+![albordj](images/albordj.jpg) Extrait carte de la Perse publiée en 1650
