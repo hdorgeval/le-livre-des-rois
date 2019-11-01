@@ -11,6 +11,7 @@ tags:
     'Amschaspands',
     'Anges',
     'Araxe',
+    'Astres',
     'Bahman',
     'Caspienne',
     'Ciel',
@@ -20,19 +21,26 @@ tags:
     'Dews',
     'Dieu',
     'Djemschid',
+    'Enfer',
     'Enfers',
     'Esprits',
+    'Guerschasp',
     'Géorgie',
     'Juste',
     'Loi',
     'Monde',
     'Mondes',
+    'Nature',
     'Ormuzd',
+    'Parses',
     'Perse',
     'Peuples',
+    'Poroschasp',
     'Pyrée',
+    'Sectateurs',
     'Soleil',
     'Suprême',
+    'Terre',
     'Tourberatorsch',
     'Zend',
     'Zend-Avesta',
@@ -121,9 +129,36 @@ Zoroastre le mangea, & vit comme en songe les cœurs & les pensées des hommes a
 
 Ormuzd lui montra tous les évènements depuis le premier homme jusqu’à la résurrection , & ce qui devait arriver dans le dernier mille du Monde.
 
+A la vue des maux & des crimes qui allaient désoler la Terre, Zoroastre consentit à ne pas être immortel.
+
+Ormuzd lui apprit encore ce qui concernait la révolution du Ciel, l’influence bonne ou mauvaise des Astres, les secrets de la Nature, la grandeur des Amschaspands & le bonheur égal dont tous les Êtres doivent jouir dans le Ciel.
+
+Zoroastre vit dans l'Enfer le visage du mauvais Ahriman, & délivra de ce séjour ténébreux une personne qui avait fait le bien & le mal [^5].
+
+Ahriman l'ayant aperçu, poussa un grand cri, en disant:
+
+> Quittez cette Loi pure, jetez-la dans la poussière.
+>
+> Vous aurez dans le Monde tout ce que vous pouvez désirer.
+>
+> Ne vous inquiétez pas de votre fin, ou du moins ne détruisez pas mon peuple , ô pur Zoroastre, vous fils de Poroschasp, qui êtes né de celle qui vous a porté.
+
+Zoroastre lui répondit
+
+> Mauvaise gloire, c’est à toi & à tes Sectateurs que l'Enfer convient;
+>
+> mais par la miséricorde de Dieu, je couvrirai ton œuvre de honte & d’ignominie.
+
+Lorsque Zoroastre fut rempli de la connaissance de Dieu, il vit une montagne de feu, & il lui fut ordonné de passer dedans: il la traversa , sans que fon corps en reçut la moindre atteinte.
+
+On fit fondre ensuite différents métaux, on les lui versa sur le corps; & il ne perdit pas un seul poil.
+
+Après cela on lui ouvrit le ventre; on en tira ce qui y était :tout cela se fit par l'ordre d'Ormuzd.
+
+Celui que Dieu protège, le fer dans sa main est comme la cire : il n'a rien à craindre ni de l’eau, ni du feu.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: La mer Caspienne.
-[^3]: Plusieurs montagnes ont porté ce nom. Il y a l’Albordj de Géorgie située à l’ouest de la mer Caspienne. Il y a l’ Albordj dans le cœur de la Perse, dont le Pyrée est célèbre. Albordj signifie montagne élevée (heranm berézéetîm).
+[^3]: Plusieurs montagnes ont porté ce nom. Il y a l’Albordj de Géorgie située à l’ouest de la mer Caspienne. Il y a l’ Albordj dans le cœur de la Perse, dont le Pyrée est célèbre. Albordj signifie montagne élevée (heranm berézéetîm). ![albordj](images/albordj.jpg) Extrait d'une carte de la Perse publiée en 1650 qui montre les fleuves Araxe et Cyrus, la côte ouest de la mer Caspienne et le mont Albordj.
 [^4]: Les six premiers Esprits célestes après Ormuzd
-
-![albordj](images/albordj.jpg) Extrait carte de la Perse publiée en 1650
+[^5]: Quelques Parses croient qu'il est ici question de Djemschid qui, sur la fin de son règne, voulut se faire adorer, D'autres rapportent ce trait à Guerschasp, fameux guerrier, qui était en Enfer pour avoir frappé le feu.
