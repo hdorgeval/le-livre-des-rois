@@ -5,10 +5,12 @@ landscape: 'https://source.unsplash.com/20XFiqpMN50'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
 tags:
   [
+    'Ardéchir',
     'Châh',
     'Firdousi',
     'Ghazna',
     'Iran',
+    'Islam',
     'Khorassan',
     'Livre',
     'Mahmoud',

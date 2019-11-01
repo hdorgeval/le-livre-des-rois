@@ -5,15 +5,18 @@ landscape: 'https://source.unsplash.com/MfNHW8vlbLs/'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
 tags:
   [
+    'Anquetil-Duperron',
     'Bel',
     'Burnouf',
     'Eugène',
+    'Europe',
     'Firdousi',
     'France',
     'Jules',
     'Livre',
     'Millenaire',
     'Mohl',
+    'Occident',
     'Perse',
     'Philippe',
     'Rois',

@@ -6,8 +6,10 @@ source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
 tags:
   [
     'Achéménides',
+    'Alexandre',
     'Ardéchir',
     'Arsacides',
+    'Avesta',
     'Firdousi',
     'Gayomarth',
     'III',

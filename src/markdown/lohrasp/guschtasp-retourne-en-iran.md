@@ -12,6 +12,7 @@ tags:
     'Farrukhzad',
     'Gouderz',
     'Guschtasp',
+    'Iran',
     'Iraniens',
     'Kaisar',
     'Kaous',

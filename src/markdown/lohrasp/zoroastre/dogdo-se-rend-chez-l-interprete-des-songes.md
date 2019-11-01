@@ -7,6 +7,7 @@ tags:
   [
     'Astre',
     'Astres',
+    'Astronome',
     'Ciel',
     'Dews',
     'Dieu',
@@ -16,6 +17,7 @@ tags:
     'Livres',
     'Loi',
     'Monde',
+    'Orient',
     'Paradis',
     'Poroschasp',
     'Roi',
