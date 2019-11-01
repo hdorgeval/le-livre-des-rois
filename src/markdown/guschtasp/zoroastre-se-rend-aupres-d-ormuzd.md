@@ -10,10 +10,13 @@ tags:
     'Afrin',
     'Ahriman',
     'Albordj',
+    'Amschaspand',
     'Amschaspands',
     'Anges',
     'Araxe',
+    'Ardibehescht',
     'Astres',
+    'Atesch-gâh',
     'Bahman',
     'Caspienne',
     'Ciel',
@@ -30,6 +33,8 @@ tags:
     'Guerschasp',
     'Guschtasp',
     'Géorgie',
+    'Herbeds',
+    'Iran',
     'Juste',
     'Loi',
     'Magiciens',
@@ -51,6 +56,7 @@ tags:
     'Suprême',
     'Terre',
     'Tourberatorsch',
+    'Urmi',
     'Zend',
     'Zend-Avesta',
     'Zoroastre',
@@ -206,6 +212,32 @@ Ensuite Ormuzd enseigna à Zoroastre le Zend-Avesta, & lui dit:
 
 Ces instructions remplirent de joie Zoroastre; il remercia Ormuzd qui montre & donne la pureté.
 
+Lorsqu’il sortit de la présence d'Ormuzd le cœur satisfait, l'Amschaspand Bahman, qui veille sur les animaux, vint au-devant de lui, & lui dit:
+
+> Je vous livre les animaux & les troupeaux: que les Mobeds apprennent à en avoir soin.
+>
+> Il ne faut tuer ni les animaux jeunes, ni ceux qui sont encore utiles.
+>
+> Dites cela aux jeunes; dites-le aux vieux.
+>
+> Je vous apprends ce qu'il est nécessaire de savoir, moi qui ai reçu les animaux des mains d'Ormuzd: il ne faut pas les confier à de mauvais gardiens.
+
+Bahman quittat Zoroastre, lorsque le brillant Ardibehescht l’aborda, & lui dit:
+
+> Serviteur du Dieu pur, parlez de ma part au Roi Guschtasp, & dites-lui:
+>
+> > je vous ai confié tous les feux.
+> >
+> > Ordonnez aux Mobeds, aux Destours, aux Herbeds d’en avoir soin, de ne les éteindre ni dans l’eau, ni dans la boue; d’avoir dans chaque ville un Atesch-gâh [^8] & de célébrer en l'honneur de cet élément les fêtes ordonnées par la Loi: car l'éclat du feu vient de celui de Dieu.
+>
+> Qu'y a-t-il de plus beau dans le Monde?
+>
+> Il ne demande que du bois, des odeurs: que le jeune & le vieux lui en donnent, & il les exaucera.
+>
+> Je vous le livre, comme Ormuzd me l’a remis.
+>
+> Celui qui n’exécutera pas mes paroles, ira en Enfer.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: La mer Caspienne.
 [^3]: Plusieurs montagnes ont porté ce nom. Il y a l’Albordj de Géorgie située à l’ouest de la mer Caspienne. Il y a l’ Albordj dans le cœur de la Perse, dont le Pyrée est célèbre. Albordj signifie montagne élevée (heranm berézéetîm). ![albordj](images/albordj.jpg) Extrait d'une carte de la Perse publiée en 1650 qui montre les fleuves Araxe et Cyrus, la côte ouest de la mer Caspienne et le mont Albordj.
@@ -213,3 +245,4 @@ Ces instructions remplirent de joie Zoroastre; il remercia Ormuzd qui montre & d
 [^5]: Quelques Parses croient qu'il est ici question de Djemschid qui, sur la fin de son règne, voulut se faire adorer, D'autres rapportent ce trait à Guerschasp, fameux guerrier, qui était en Enfer pour avoir frappé le feu.
 [^6]: Trentième descendant de Zoroastre.
 [^7]: C’est à dire adresser à Ormuzd des louanges accompagnées de remerciements.
+[^8]: C'est-à-dire un lieu destiné au feu.
