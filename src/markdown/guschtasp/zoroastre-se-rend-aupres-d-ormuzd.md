@@ -10,6 +10,7 @@ tags:
     'Afrin',
     'Ahriman',
     'Albordj',
+    'Amerdad',
     'Amschaspand',
     'Amschaspands',
     'Anges',
@@ -20,13 +21,16 @@ tags:
     'Bahman',
     'Caspienne',
     'Ciel',
+    'Créateur',
     'Cyrus',
     'Daëti',
     'Destours',
     'Dew',
     'Dews',
     'Dieu',
+    'Disciples',
     'Djemschid',
+    'Docteur',
     'Enfer',
     'Enfers',
     'Espendarmad',
@@ -37,9 +41,13 @@ tags:
     'Herbeds',
     'Iran',
     'Juste',
+    'Justice',
+    'Khordad',
+    'Kosti',
     'Loi',
     'Magiciens',
     'Mahrespand',
+    'Ministres',
     'Mobeds',
     'Monde',
     'Mondes',
@@ -262,6 +270,36 @@ Espendarmad vint ensuite trouver Zoroastre, lui fit différents souhaits, & lui
 >
 > Dites cela aux hommes.
 
+Zoroastre n'eut pas plutôt quitté Espendarmad, que Khordad [^9] se présenta à lui, & lui dit:
+
+> je vous confie l'eau qui coule, l’eau creusée, l'eau des fleuves, celle qui vient de loin, des montagnes, l’eau des puits & des sources.
+>
+> Apprenez aux hommes que l’eau donne la force aux êtres animés, qu'elle fait tout verdir.
+>
+> Il ne faut rien y mêler de mort, ni d'impur.
+>
+> Que votre nourriture cuite avec de l'eau pure, soit sainte.
+>
+> Exécutez ainsi les ordres du grand Ormuzd.
+
+Lorsque Khordad eut achevé, Amerdad parla à Zoroastre au sujet des fruits & des arbres. Il lui dit:
+
+> Il ne faut pas les gâter, ni les arracher sans raison, parce qu'ils font le bonheur de l'homme & des quadrupèdes.
+
+Zoroastre reçut encore les instructions suivantes des Esprits célestes:
+
+> Recommandez aux Destours d’aller dans le Monde entier, & de porter les hommes à embrasser la Loi que vous avez reçue d’Ormuzd.
+>
+> Etablissez dans chaque lieu un Docteur qui enseigne la Loi & la Justice, qui récite l’Avesta, & prie le Créateur du Monde.
+>
+> Que tous les hommes se tournent du côté de la justice.
+>
+> Qu'ils ceignent le Kosti, qui est la marque des Disciples de la Loi sainte.
+>
+> Qu'ils conservent pures les quatre choses précieuses dont le corps de l’homme est composé, le vent, l'eau, le feu & la terre: alors tout sera heureux & béni de l'Être Suprême.
+
+Telles sont les instructions que Zoroastre reçut d’Ormuzd & des Esprits célestes ses Ministres.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: La mer Caspienne.
 [^3]: Plusieurs montagnes ont porté ce nom. Il y a l’Albordj de Géorgie située à l’ouest de la mer Caspienne. Il y a l’ Albordj dans le cœur de la Perse, dont le Pyrée est célèbre. Albordj signifie montagne élevée (heranm berézéetîm). ![albordj](images/albordj.jpg) Extrait d'une carte de la Perse publiée en 1650 qui montre les fleuves Araxe et Cyrus, la côte ouest de la mer Caspienne et le mont Albordj.
@@ -270,3 +308,4 @@ Espendarmad vint ensuite trouver Zoroastre, lui fit différents souhaits, & lui
 [^6]: Trentième descendant de Zoroastre.
 [^7]: C’est-à-dire adresser à Ormuzd des louanges accompagnées de remerciements.
 [^8]: C'est-à-dire un lieu destiné au feu.
+[^9]: Khordad chef des années, des mois, des jours, du temps, préside à l’eau pure.
