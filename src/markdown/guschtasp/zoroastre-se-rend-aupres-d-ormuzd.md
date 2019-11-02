@@ -29,6 +29,7 @@ tags:
     'Djemschid',
     'Enfer',
     'Enfers',
+    'Espendarmad',
     'Esprits',
     'Guerschasp',
     'Guschtasp',
@@ -248,6 +249,18 @@ Cet Amschaspand lui dit:
 > que celui qui a des armes, une épée, une lance, une massue, un poignard, les nettoient tous les ans.
 >
 > La vue de ces armes fait fuir ceux qui ont de mauvais desseins; il ne faut les confier ni au méchant, ni à l'ennemi.
+
+Espendarmad vint ensuite trouver Zoroastre, lui fit différents souhaits, & lui dit:
+
+> Ô homme de la Loi pure, l'ordre de celui qui bénit les hommes, est qu'ils préservent la Terre du sang, des immondices & des morts.
+>
+> Portez tout cela dans les endroits où la terre n’est pas labourée, où l’eau & les hommes ne passent pas.
+>
+> Des fruits sans nombre seront la récompense du travail & du labour.
+>
+> Le meilleur Roi, est celui qui rend la Terre fertile.
+>
+> Dites cela aux hommes.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: La mer Caspienne.
