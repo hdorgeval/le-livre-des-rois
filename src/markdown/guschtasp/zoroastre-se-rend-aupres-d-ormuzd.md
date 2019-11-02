@@ -51,6 +51,7 @@ tags:
     'Poroschasp',
     'Pyrée',
     'Roi',
+    'Schahriver',
     'Sectateurs',
     'Soleil',
     'Suprême',
@@ -238,11 +239,21 @@ Bahman quittat Zoroastre, lorsque le brillant Ardibehescht l’aborda, & lui dit
 >
 > Celui qui n’exécutera pas mes paroles, ira en Enfer.
 
+Zoroastre, quittant Ardibehescht, aperçut Schahriver qui venait à lui.
+
+Cet Amschaspand lui dit:
+
+> Ô pur, lorsque vous serez sur la Terre, annoncez mes paroles aux hommes;
+>
+> que celui qui a des armes, une épée, une lance, une massue, un poignard, les nettoient tous les ans.
+>
+> La vue de ces armes fait fuir ceux qui ont de mauvais desseins; il ne faut les confier ni au méchant, ni à l'ennemi.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: La mer Caspienne.
 [^3]: Plusieurs montagnes ont porté ce nom. Il y a l’Albordj de Géorgie située à l’ouest de la mer Caspienne. Il y a l’ Albordj dans le cœur de la Perse, dont le Pyrée est célèbre. Albordj signifie montagne élevée (heranm berézéetîm). ![albordj](images/albordj.jpg) Extrait d'une carte de la Perse publiée en 1650 qui montre les fleuves Araxe et Cyrus, la côte ouest de la mer Caspienne et le mont Albordj.
 [^4]: Les six premiers Esprits célestes après Ormuzd
 [^5]: Quelques Parses croient qu'il est ici question de Djemschid qui, sur la fin de son règne, voulut se faire adorer, D'autres rapportent ce trait à Guerschasp, fameux guerrier, qui était en Enfer pour avoir frappé le feu.
 [^6]: Trentième descendant de Zoroastre.
-[^7]: C’est à dire adresser à Ormuzd des louanges accompagnées de remerciements.
+[^7]: C’est-à-dire adresser à Ormuzd des louanges accompagnées de remerciements.
 [^8]: C'est-à-dire un lieu destiné au feu.
