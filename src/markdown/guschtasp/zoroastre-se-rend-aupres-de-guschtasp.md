@@ -25,6 +25,7 @@ tags:
     'Prince',
     'Roi',
     'Sages',
+    'Sciences',
     'Trône',
     'Zend',
     'Zend-Avesta',
@@ -74,5 +75,17 @@ Il ordonna ensuite d'apporter un siège, y fit asseoir Zoroastre, & lui commanda
 Zoroastre s'étant assis, dit des choses que jamais personne n'avait entendues.
 
 On lui fit diverses questions auxquelles il répondit de la manière la plus satisfaisante.
+
+Alors les Sages étendirent un tapis sur le plancher, y firent asseoir Zoroastre, & se mirent autour de lui.
+
+Chacun l’interrogea séparément sur les Sciences anciennes.
+
+L'étendue de ses connaissances les étonna, & ils le quittèrent fatigués eux-mêmes des questions qu’ils lui avoient faites.
+
+Ce spectacle intéressa Guschtasp: il fit approcher Zoroastre, le questionna aussi sur les Sciences anciennes; & étant satisfait de ses réponses, il lui donna près de ses appartements un logement magnifique.
+
+Les Sages confus se retirèrent dans leurs maisons, & employèrent la nuit à chercher dans leur science de quoi embarrasser Zoroastre.
+
+Zoroastre, quant à lui, passa la nuit en prières, remerciant Dieu de l'avoir fait triompher de leurs efforts.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
