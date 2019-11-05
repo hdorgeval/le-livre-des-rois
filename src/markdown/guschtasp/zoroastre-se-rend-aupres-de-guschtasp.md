@@ -88,4 +88,44 @@ Les Sages confus se retirèrent dans leurs maisons, & employèrent la nuit à c
 
 Zoroastre, quant à lui, passa la nuit en prières, remerciant Dieu de l'avoir fait triompher de leurs efforts.
 
+Le lendemain, dès que le jour parut, les Ministres & les Sages se rendirent à l'ordinaire auprès du Roi.
+
+Zoroastre y vint aussi.
+
+On parla de bien des choses, & il eut toujours l'avantage.
+
+Les Ministres étonnés se disaient:
+
+> Qu’est-ce que cela?
+
+Zoroastre lançait contre eux sa langue, comme une épée aiguë.
+
+Il leur expliqua de cent manières tout ce qu'ils lui demandèrent sur les Sciences.
+
+Alors Guschtasp le combla d’honneurs. Il voulut savoir quel était son état, son nom, sa famille, la ville où il était né, de qui il descendait.
+
+Zoroastre satisfit le Roi sur tous ces objets, & lui dit:
+
+> Demain, jour Ormuzd, faites assembler les Grands de votre Cour, les Généraux d'armée, & les Sages;
+>
+> je répondrai à tout ce qu'on me demandera; & je dévoilerai tout ce que je sais.
+
+Ces paroles plurent au Roi, qui ordonna pour le lendemain une Assemblée générale.
+
+Zoroastre retiré chez lui, passa la nuit en prières.
+
+Pour les Ministres, tout furieux, ils se disaient:
+
+> Quoi!
+>
+> Un Étranger nous enlève auprès du Roi le nom dont nous jouissions.
+>
+> Accordons-nous, concertons-nous pour rendre inutile tout ce qu'il dira.
+
+Ils se retirèrent dans leurs maisons, & passèrent la nuit sans dormir.
+
+Le lendemain ils s’assemblèrent chez le Roi avec les Généraux d'armée, ne respirant qu'envie & que fureur.
+
+Zoroastre y vint aussi, triompha de leur jalousie, & rendit leurs projets inutiles.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
