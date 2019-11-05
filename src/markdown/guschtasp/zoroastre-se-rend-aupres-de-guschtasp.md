@@ -128,4 +128,26 @@ Le lendemain ils s’assemblèrent chez le Roi avec les Généraux d'armée, ne 
 
 Zoroastre y vint aussi, triompha de leur jalousie, & rendit leurs projets inutiles.
 
+Les Savants & les Ministres étant réduits au silence, Zoroastre parut grand devant Guschtasp, & lui dit:
+
+> Je suis envoyé de la part du Dieu qui a fait les sept Cieux, la Terre & les Astres; ce Dieu qui donne la vie & la nourriture journalière, & qui prend soin de son serviteur, lui qui vous a donné la Couronne, qui vous protège, qui a tiré votre corps du néant.
+>
+> C’est par son ordre que vous agissez.
+>
+> C’est par son ordre que vous commandez à vos serviteurs.
+
+Zoroastre parla ainsi, & présenta l’Avesta à Guschtasp, en lui disant:
+
+> Dieu m’a envoyé aux Peuples pour qu’ils écoutent cette parole, l’ordre d’ Ormuzd, qui est l’ Avesta Zend.
+>
+> Si vous exécutez l’ordre de Dieu, vous serez couvert de gloire dans l’autre monde, comme vous l’êtes dans celui-ci.
+>
+> Si vous ne l’exécutez pas, Dieu irrité brisera votre gloire, & votre fin sera l’Enfer.
+>
+> Écoutez les instructions d’Ormuzd; n’obéissez plus aux Dews, & suivez mes paroles.
+
+Ce Prince lui répondit:
+
+> Quels miracles ferez-vous, pour prouver la vérité de votre mission, pour que j’obéisse à ce que vous dites, que j’y soumette le Monde entier, & vous protège contre l’injustice ?
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
