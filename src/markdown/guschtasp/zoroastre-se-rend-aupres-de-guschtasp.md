@@ -148,6 +148,54 @@ Zoroastre parla ainsi, & présenta l’Avesta à Guschtasp, en lui disant:
 
 Ce Prince lui répondit:
 
-> Quels miracles ferez-vous, pour prouver la vérité de votre mission, pour que j’obéisse à ce que vous dites, que j’y soumette le Monde entier, & vous protège contre l’injustice ?
+> Quels miracles ferez-vous, pour prouver la vérité de votre mission, pour que j’obéisse à ce que vous dites, que j’y soumette le Monde entier, & vous protège contre l’injustice?
+
+Zoroastre dit à Guschtasp:
+
+> Celui qui pratique ce que j'enseigne, fera d’assez grands prodiges.
+> Dieu m'a dit:
+>
+> > Si le Roi vous demande des miracles, dites-lui: quand vous lirez le Zend-Avesta, vous n’aurez pas besoin de miracles.
+> >
+> > Le Livre que je vous apporte est lui-même le plus grand prodige.
+> >
+> > Par lui vous saurez ce qui est dans les deux Mondes, le cours des Astres, vous embrasserez la voie droite.
+
+Lisez-moi donc le Zend-Avesta, lui dit Guschtasp.
+
+Zoroastre en lut une section entière, que le Roi ne gouta pas.
+
+Son cœur ne fut pas disposé à embrasser la Loi, parce que la grandeur de l’Avesta passait son intelligence, comme un enfant qui ne fait point de cas des pierres précieuses, comme un ignorant qui ne connaît point le prix de la science.
+
+Ce Prince dit à Zoroastre:
+
+> J'approuve les souhaits que vous avez faits pour moi;mais il faut aller doucement dans cette affaire.
+>
+> Je l'examinerai; je vous proposerai mes doutes.
+>
+> Je veux lire le Zend-Avesta, & savoir ce qu’il contient, pour ne pas suivre le mensonge.
+>
+> Je me rendrai à ce que je verrai clairement.
+>
+> Venez à votre ordinaire tous les matins.
+>
+> À quelque heure que vous vous présentiez, vous aurez vos entrées libres.
+
+Zoroastre fut charmé de voir le Roi dans de si bonnes dispositions, & lui promit de faire, pour dissiper ses doutes, tous les miracles qu’il exigerait.
+
+Quelque temps après les Sages dirent au Roi que la doctrine de Zoroastre leur paraissait pure; mais qu’il fallait, pour s’assurer de sa mission, exiger de lui un miracle extraordinaire.
+
+Guschtasp leur demanda:
+
+> Quel miracle lui demander?
+
+Les sages répondirent:
+
+> Nous le lierons fortement;
+>
+> nous le frotterons avec des drogues, dont nous connaissons la vertu, & nous verserons sur son corps un man [^2] d’airain fondu.
+>
+> S’il périt dans l’épreuve, ce sera la punition de son imposture; s’il en sort sain et sauf, il faudra suivre sa doctrine.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
+[^2]: Le man est une mesure qui vaut 40 astars. Chaque astar contient 15 meschkals. Chaque meschkal pèse 6 danks, le dank 8 hebehs, le hebeh un grain d’orge. Le man, en Perse, pèse donc 28800 grains d’orge (soit environ 1,5kg).
