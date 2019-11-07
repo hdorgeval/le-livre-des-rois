@@ -197,5 +197,29 @@ Les sages répondirent:
 >
 > S’il périt dans l’épreuve, ce sera la punition de son imposture; s’il en sort sain et sauf, il faudra suivre sa doctrine.
 
+Zoroastre accepta la proposition, présenta le Zend-avesta, qu'il prétendait avoir reçu du Ciel, & dit:
+
+> Ô Dieu, si c'est vous qui m’avez envoyé ce Livre, ne permettez pas que l’airain me fasse de mal.
+
+Il ordonna ensuite qu’on versât l’airain, qui coula sur sa poitrine sans le blesser.
+
+Zoroastre fit encore d’autres miracles.
+
+On lui mit dans la main du feu qui ne le brula pas; & le même prodige s'opérait à l'égard de celui dans la main duquel il mettait du feu.
+
+Il planta aussi un cyprès à côté du Palais du Roi; & cet arbre en peu de jours devint si gros, que dix grandes cordes pouvaient à peine l’entourer.
+
+Il fit ensuite dresser une grande salle sur les branches les plus élevées de cet arbre.
+
+Alors Guschtasp entrainé par cette foule de prodiges, embrassa la Loi de Zoroastre.
+
+Le nouveau Prophète lui expliquait tous les jours le Zend-Avesta, & se retirait ensuite dans l'appartement qu’on lui avait donné.
+
+La faveur dont jouissait Zoroastre, enflamma la jalousie des Ministres.
+
+Ils concertèrent entre eux les moyens de le perdre.
+
+Il fallait le noircir aux yeux de Guschtasp.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Le man est une mesure qui vaut 40 astars. Chaque astar contient 15 meschkals. Chaque meschkal pèse 6 danks, le dank 8 hebehs, le hebeh un grain d’orge. Le man, en Perse, pèse donc 28800 grains d’orge (soit environ 1,5kg).
