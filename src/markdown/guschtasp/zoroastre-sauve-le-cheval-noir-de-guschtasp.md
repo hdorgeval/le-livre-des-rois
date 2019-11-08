@@ -40,4 +40,38 @@ À peine le Soleil était-il levé, que le geôlier courut annoncer à Guschta
 
 Ce Prince ordonna qu'on le fit sortir de prison, & qu’on l'amenât en sa présence.
 
+L' ordre fut sur le champ exécuté.
+
+Zoroastre parut devant Guschtasp, & fit des vœux pour la prospérité de son règne.
+
+Ce Prince l’écouta avec plaisir, le fit asseoir, lui conta l’histoire de son cheval, & ajouta:
+
+> Je ne comprends rien à ce que vous me dites: mais si vous êtes vrai Prophète, guérissez mon cheval.
+
+Zoroastre répondit:
+
+> Ô Roi, ne croyez pas cette guérison impossible.
+>
+> Promettez-moi seulement quatre choses, & les quatre jambes de votre cheval paraîtront.
+
+Guschtasp lui répondit:
+
+> Apprenez-moi quelles sont ces quatre choses, & je vous promets de les exécuter.
+
+Zoroastre ajouta :
+
+> Je les déclarerai au Roi devant le cheval noir.
+
+Ils s’avancèrent en même temps vers l'écurie, suivis de toute la Cour.
+
+Zoroastre parut étonné en voyant l’état dans lequel était le cheval noir, & dit au Roi:
+
+> La première chose que je vous demande, c’est de croire fermement que je suis le Prophète du Dieu qui a formé votre visage, & qui y a marqué votre caractère.
+>
+> Si votre cœur s'accorde avec vos lèvres, vos souhaits seront accomplis;
+>
+> autrement n’attendez rien de mes prières.
+
+Guschtasp lui promit de ne jamais quitter la Loi, ni la justice, & d’honorer Dieu comme il le lui ordonnerait.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
