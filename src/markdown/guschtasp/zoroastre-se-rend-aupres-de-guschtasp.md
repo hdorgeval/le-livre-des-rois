@@ -6,26 +6,45 @@ source: tome II - Vie de Zoroastre - P. 29 (P.169) - Zend-Avesta - Anquetil du P
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b85930155/f1.item.r=carte%20perse.zoom'
 tags:
   [
+    'Assemblée',
+    'Astres',
     'Avesta',
     'Balkh',
     'Chef',
+    'Ciel',
+    'Cieux',
     'Cour',
+    'Couronne',
     'Dews',
     'Dieu',
     'Divan',
     'Esprits',
     'Guschtasp',
     'Génies',
+    'Généraux',
+    'Impur',
+    'Livre',
+    'Loi',
+    'Magicien',
     'Magiciens',
+    'Ministres',
     'Monde',
+    'Mondes',
     'Orientaux',
     'Ormuzd',
     'Palais',
+    'Perse',
+    'Peuples',
     'Philosophes',
     'Prince',
+    'Prophète',
     'Roi',
     'Sages',
+    'Savants',
     'Sciences',
+    'Soleil',
+    'Suprême',
+    'Terre',
     'Trône',
     'Zend',
     'Zend-Avesta',
@@ -197,7 +216,7 @@ Les sages répondirent:
 >
 > S’il périt dans l’épreuve, ce sera la punition de son imposture; s’il en sort sain et sauf, il faudra suivre sa doctrine.
 
-Zoroastre accepta la proposition, présenta le Zend-avesta, qu'il prétendait avoir reçu du Ciel, & dit:
+Zoroastre accepta la proposition, présenta le Zend-Avesta, qu'il prétendait avoir reçu du Ciel, & dit:
 
 > Ô Dieu, si c'est vous qui m’avez envoyé ce Livre, ne permettez pas que l’airain me fasse de mal.
 
@@ -220,6 +239,70 @@ La faveur dont jouissait Zoroastre, enflamma la jalousie des Ministres.
 Ils concertèrent entre eux les moyens de le perdre.
 
 Il fallait le noircir aux yeux de Guschtasp.
+
+Pour cela les plus habiles d’entre les Ministres & les Sages, composèrent un enchantement, qu'ils portèrent secrètement chez lui.
+
+Zoroastre ignorait ce qui se passait.
+
+Lorsqu’il sortait de son appartement, pour aller chez le Roi, il avait coutume de mettre sa clef dans le Palais.
+
+Les Ministres informés de cela, allèrent trouver le portier, qui, gagné par un présent, leur donna la clef du Prophète.
+
+Ils portèrent aussitôt dans sa chambre du sang, des immondices, des cheveux, des morceaux de cadavre, une tête de chat, une de chien , des os de morts.
+
+Ils mirent tout dans un sac, le placèrent dans l’oreiller de Zoroastre, refermèrent la porte, & promirent au portier de garder le secret.
+
+Lorsque le Soleil parut, ils allèrent trouver le Roi qui était avec Zoroastre, & lisait le Zend-Avesta.
+
+Ce Prince en admirait les lettres & le style, sans en comprendre encore le sens.
+
+Ses Ministres lui dirent:
+
+> Ne vous laissez pas aller aux paroles de Zoroastre.
+>
+> Le Zend-Avesta n'est qu’enchantement.
+>
+> Cet homme passe la nuit à faire des sortilèges.
+>
+> Il couvrira votre État de maux. Vous êtes notre Roi. Nous vous disons ce que nous savons. Vous ne connaissez pas cet imposteur.
+>
+> Au reste, vous êtes le Maitre de commander ce qu'il vous plaira.
+
+Guschtasp réfléchissant sur ces paroles, voulut s’assurer de la vérité, & ordonna d'apporter tout ce qui était dans l’appartement de Zoroastre.
+
+Le nouveau Prophète peu effrayé de l’accusation, indiqua tranquillement au portier le lieu où était la clef.
+
+On apporta donc ce qui était dans la chambre de Zoroastre, son manger, ses habits, le tapis sur lequel il dormait, son sac, ses livres, son gobelet; on retourna tout, & on y trouva des ongles, des os de morts, etc.
+
+Tout fut étalé devant Guschtasp, qui appela ses Ministres, & le leur montra.
+
+A la vue de ces objets, ils témoignèrent leur indignation, & chargèrent Zoroastre de malédictions.
+
+Il lui dirent:
+
+> Impur!
+>
+> Ne sont-ce pas là les armes des Magiciens?
+>
+> Tu ne crains pas le Dieu Suprême.
+
+Ce spectacle surprit étrangement Zoroastre. Ses yeux s’obscurcirent à la vue du cadavre. Il protesta à Guschtasp qu'il ne comprenait rien à ce qu'il voyait; qu'au reste on pouvait interroger le portier.
+
+Mais cet homme que les Ministres avaient corrompu, assura que personne n’était entré dans sa chambre; que le vent même n’aurait pu pénétrer dans l’appartement de Zoroastre, si lui-même, Zoroastre, ne lui eût donné entrée: & le Roi tranquillisé par ces différents témoignages, dit à Zoroastre:
+
+> Chien! plus vil que la poussière, ne mérites-tu la lance & le pal?
+>
+> Tout ce qui est devant toi t'appartient.
+>
+> Quelqu'un a t-il apporté du Ciel ce qui est dans ton oreiller & dans ton sac?
+
+Il jeta ensuite le Zend-Avesta, & sans écouter davantage Zoroastre, il le fit charger de fers & ordonna de le resserrer étroitement.
+
+Il n'y a pas, disait ce Prince, de plus grand Magicien que cet homme; il bouleverserait le Monde entier.
+
+On mena donc Zoroastre en prison.
+
+Le geôlier eut ordre de lui porter chaque jour un pain & une cruche d’eau, & de bien prendre garde qu’il ne s’échappât.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Le man est une mesure qui vaut 40 astars. Chaque astar contient 15 meschkals. Chaque meschkal pèse 6 danks, le dank 8 hebehs, le hebeh un grain d’orge. Le man, en Perse, pèse donc 28800 grains d’orge (soit environ 1,5kg).
