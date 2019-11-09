@@ -4,7 +4,31 @@ image: 'https://source.unsplash.com/x4vH0C-rPg8'
 landscape: 'https://source.unsplash.com/Frns32I1RKQ'
 source: tome II - Vie de Zoroastre - P. 35 (P.175) - Zend-Avesta - Anquetil du Perron
 map: ''
-tags: []
+tags:
+  [
+    'Ciel',
+    'Cour',
+    'Dieu',
+    'Espendiar',
+    'Guschtasp',
+    'Héros',
+    'Loi',
+    'Législateur',
+    'Monde',
+    'Médecins',
+    'Ormuzd',
+    'Palais',
+    'Philosophes',
+    'Prince',
+    'Prophète',
+    'Roi',
+    'Sages',
+    'Soleil',
+    'Trône',
+    'Zend',
+    'Zend-Avesta',
+    'Zoroastre',
+  ]
 order: '05'
 ---
 
@@ -118,5 +142,35 @@ Cette femme pure lui répondit:
 > Je me soumets à votre parole, & ne suivrai jamais que la voie pure.
 
 Zoroastre la combla de bénédictions, revint à l'écurie, fit une prière en présence du peuple, & la troisième jambe du cheval sortit.
+
+Le nouveau Prophète dit encore au Roi:
+
+> Il faut que par votre ordre le portier vienne ici, & découvre celui qui a mis dans cette maison les choses qui m’ont noirci auprès de vous.
+>
+> S'il dit la vérité, le cheval guérira entièrement.
+>
+> S’il ment, le mal est sans remède.
+
+Guschtasp fit venir le portier, & l’intimida, en lui disant:
+
+> Découvre moi la vérité, Si tu mens, je vais devant le peuple faire séparer ta tête de ton corps.
+
+Cet homme, tremblant comme le roseau agité du vent, se prosterna, demanda grâce, & rapporta ce qui s’était passé, avouant que les Sages & les Philosophes l’avaient corrompu & même menacé.
+
+Il Ajouta:
+
+> Comment aurais-je résisté à des gens que vous honoriez de votre confiance?
+>
+> Mais puisque le Roi me pardonne, qu'ai-je à craindre de cette abominable race?
+
+Cet aveu confirma Guschtasp dans les dispositions où il était à l'égard de Zoroastre.
+
+Il ordonna qu'on empalât les quatre premiers Philosophes.
+
+Zoroastre rendit grâces à Dieu. Il prononça ensuite une autre prière, la quatrième jambe du cheval sortit de fon ventre, & cet animal bondit comme un tigre.
+
+Le Roi transporté de ce qu’il voyait, courut à Zoroastre, & lui donna mille baisers.
+
+Tous ceux qui étaient présents, lui firent compliment, Guschtasp le conduisit vers son Trône, l'y fit asseoir, & le pria d'oublier le chagrin qu'il lui avait causé.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
