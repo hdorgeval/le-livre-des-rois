@@ -74,4 +74,23 @@ Zoroastre parut étonné en voyant l’état dans lequel était le cheval noir, 
 
 Guschtasp lui promit de ne jamais quitter la Loi, ni la justice, & d’honorer Dieu comme il le lui ordonnerait.
 
+Alors Zoroastre pria celui qui a fait tout ce qui existe, & pleura devant lui.
+
+Le peuple qui avait entendu les paroles du Roi, était attentif à ce qui allait arriver.
+
+Après avoir prié quelque temps, le nouveau Prophète frotta de la main les jambes droites du cheval, commençant par celle de devant; & aussitôt elle sortit.
+
+Guschtasp, témoin de ce miracle ,fut transporté de joie.
+
+Tous ceux qui étaient présents prirent part à cet évènement, & marquèrent leur reconnaissance à Zoroastre.
+
+Ce Législateur dit ensuite à Guschtasp:
+
+> Ordonnez au Héros Espendiar de protester devant
+> vous qu'il sera le soutien de la Loi, & me protégera contre mes ennemis.
+
+Espendiar était présent: il consentit à ce que demandait Zoroastre, & promit de le défendre de son corps, de son âme, de son épée, & jura d’ôter la vie à quiconque l’attaquerait.
+
+Zoroastre pleura encore devant Dieu, la jambe droite de derrière sortit, & toute l’assemblée combla de bénédictions le nouveau Prophète.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
