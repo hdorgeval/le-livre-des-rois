@@ -93,4 +93,30 @@ Espendiar était présent: il consentit à ce que demandait Zoroastre, & promit 
 
 Zoroastre pleura encore devant Dieu, la jambe droite de derrière sortit, & toute l’assemblée combla de bénédictions le nouveau Prophète.
 
+Il restait encore deux jambes du cheval à guérir.
+
+Zoroastre dit à Guschtasp:
+
+> Il faut que quelqu'un me mène dans l'intérieur de votre Palais, pour que votre maison entende ma parole, & suive la Loi pure que j'ai reçue d'Ormuzd.
+
+Guschtasp ordonna à un serviteur de le conduire dans l’intérieur des appartements.
+
+Zoroastre entra donc dans l’enceinte des femmes; & se tenant derrière une toile, qui les séparait de lui, il s'adressa à la mère d’Espendiar, la félicita sur ce qu'elle avait un mari tel que Guschtasp, & un fils tel qu'Espendiar.
+
+Il lui dit également:
+
+> Vos désirs seront accomplis dans ce Monde, & votre fin fera heureuse.
+>
+> Le Dieu du Ciel m'a envoyé au Roi, pour lui annoncer la Loi.
+>
+> Lui, & fon fils l'ont embrassée;
+>
+> il faut aussi que vous, fille des filles, vous croyez de cœur & fermement, ce que je vous annonce.
+
+Cette femme pure lui répondit:
+
+> Je me soumets à votre parole, & ne suivrai jamais que la voie pure.
+
+Zoroastre la combla de bénédictions, revint à l'écurie, fit une prière en présence du peuple, & la troisième jambe du cheval sortit.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
