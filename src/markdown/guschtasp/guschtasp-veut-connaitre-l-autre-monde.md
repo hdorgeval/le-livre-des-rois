@@ -42,4 +42,53 @@ Zoroastre instruit de ce que Guschtasp désirait, lui dit:
 
 Guschtasp y consentit, & lui dit, qu'il désirait de voir le lieu de gloire qui lui était destiné dans le Ciel.
 
+Zoroastre lui promit d’adresser pour cela sa prière à Ormuzd, & se retira dans son appartement.
+
+Avant que de se coucher, il conjura Ormuzd de lui accorder ce que le Roi demandait: il fit pour cela les Néaeschs ordonnés par la Loi, & Dieu lui montra en songe ce qu’il désirait de savoir.
+
+Dès que le jour parut, Guschtasp s’assit fur un Trône d'or, la tête couverte d’une couronne de même métal, & ornée de diamants.
+
+Zoroastre s’approcha du Roi, le salua, & entra dans le Divan.
+
+Il ne faisait que de s’asseoir, lorsque l'on vint annoncer qu'il y avait à la porte quatre cavaliers, armés de toutes pièces, couverts de cuirasses, & hauts comme des montagnes.
+
+Qu'est-ce que cela, dit Guschtasp à Zoroastre?
+
+À peine achevait-il ces paroles, que les quatre cavaliers revêtus d’habits de différentes couleurs, la lance à la main, & répandant la terreur, s’avancèrent vers le Trône du Roi.
+
+L'un était Bahman [^2] & l’autre Ardibehescht [^3] suivi de Khordad [^4] & d’Adergouschasp.
+
+Ils dirent à Guschtasp:
+
+> Dieu nous a envoyés vers vous, Ô Roi des Villes, pour vous dire d’obéir à Zoroastre, de ne pas l’inquiéter, & vos souhaits seront accomplis;
+>
+> vous serez préservé de l'Enfer;
+>
+> car c’est moi, dit Ormuzd, qui ai envoyé Zoroastre: je lui ai soumis le Monde entier.
+
+Ce spectacle & ce discours saisi d’effroi Guschtasp.
+
+Il perdit pour quelque temps la parole & le sentiment.
+
+Revenu à lui, ce Prince dit aux cavaliers:
+
+> Je suis le moindre des serviteurs d’Ormuzd.
+>
+> Vous me voyez prêt à exécuter vos ordres.
+
+Après cette réponse, les quatre cavaliers se retirèrent précipitamment comme la flèche partie de l'arc.
+
+Toute la Cour était saisie de crainte.
+
+Le Roi se levant dit à Zoroastre:
+
+> Pardonnez-moi le mal que je vous ai fait: je vous livre mon corps & mon âme, selon l'ordre d’Ormuzd.
+
+Zoroastre lui répondit:
+
+> Ne vous inquiétez de rien; vous verrez ce que vous avez demandé.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
+[^2]: Bahman est le second Amschaspand. Il veille sur les animaux et les troupeaux.
+[^3]: Ardibehescht est le troisième Amschaspand. Il donne le feu.
+[^4]: Khordad est le sixième Amschaspand. Il donne l'eau.
