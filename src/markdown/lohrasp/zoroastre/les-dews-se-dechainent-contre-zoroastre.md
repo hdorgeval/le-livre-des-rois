@@ -29,7 +29,7 @@ tags:
     'Suprême',
     'Terre',
     'Tourberatorsch',
-    'Tout-Puissant',
+    'Tout-puissant',
     'Trône',
     'Zend',
     'Zend-Avesta',
@@ -206,7 +206,7 @@ Zoroastre lui répondit:
 >
 > Ce bras te précipitera dans la poussière.
 >
-> Par l’ordre du Dieu Tout-Puissant, je détruirai tes œuvres, j'affligerai ton âme & briserai ton corps.
+> Par l’ordre du Dieu Tout-puissant, je détruirai tes œuvres, j'affligerai ton âme & briserai ton corps.
 
 Ce discours effraya les Magiciens.
 

@@ -4,7 +4,46 @@ image: 'https://source.unsplash.com/G2ifDHnHZ6Y'
 landscape: 'https://source.unsplash.com/DKix6Un55mw'
 source: tome II - Vie de Zoroastre - P. 38 (P.178) - Zend-Avesta - Anquetil du Perron
 map: ''
-tags: []
+tags:
+  [
+    'Amschaspand',
+    'Ardibehescht',
+    'Bahman',
+    'Ciel',
+    'Cour',
+    'Daroun',
+    'Dews',
+    'Dieu',
+    'Divan',
+    'Djamasp',
+    'Empire',
+    'Enfer',
+    'Espendiar',
+    'Guschtasp',
+    'Kerdar',
+    'Khordad',
+    'Loi',
+    'Ministre',
+    'Monde',
+    'Mondes',
+    'Néaeschs',
+    'Office',
+    'Ormuzd',
+    'Paschoutan',
+    'Prince',
+    'Prophète',
+    'Roi',
+    'Saints',
+    'Sciences',
+    'Sujets',
+    'Tout-puissant',
+    'Trône',
+    'Univers',
+    'Villes',
+    'Zend',
+    'Zend-Avesta',
+    'Zoroastre',
+  ]
 order: '06'
 ---
 
@@ -46,7 +85,7 @@ Zoroastre lui promit d’adresser pour cela sa prière à Ormuzd, & se retira da
 
 Avant que de se coucher, il conjura Ormuzd de lui accorder ce que le Roi demandait: il fit pour cela les Néaeschs ordonnés par la Loi, & Dieu lui montra en songe ce qu’il désirait de savoir.
 
-Dès que le jour parut, Guschtasp s’assit fur un Trône d'or, la tête couverte d’une couronne de même métal, & ornée de diamants.
+Dès que le jour parut, Guschtasp s’assit sur un Trône d'or, la tête couverte d’une couronne de même métal, & ornée de diamants.
 
 Zoroastre s’approcha du Roi, le salua, & entra dans le Divan.
 
@@ -88,7 +127,36 @@ Zoroastre lui répondit:
 
 > Ne vous inquiétez de rien; vous verrez ce que vous avez demandé.
 
+Zoroastre célébra l'Office du Daroun, pour lequel il offrit du vin, des parfums, du lait & une grenade.
+
+Ayant béni ces choses, en récitant l’Avesta en zend, il but du vin, & présenta la coupe au Roi qui but aussitôt, & s'endormit comme un homme ivre.
+
+Ce Prince resta dans cet état pendant trois jours.
+
+Son âme alla au Ciel près du Trône de Dieu, & y vit son Kerdar [^5] pur & brillant, la place qui lui était destinée, & celle des Saints.
+
+Zoroastre présenta ensuite le lait à Paschoutan, second fils de Guschtasp.
+
+Ce jeune Prince le but, & devint immortel.
+
+Il donna les odeurs à Djamasp, Ministre de Guschtasp, qui reçut en même temps toutes les Sciences, & connut ce qui devait arriver jusqu'à la résurrection.
+
+Enfin il présenta plusieurs pépins de la grenade à Espendiar, qui les mangea; & fon corps devint comme une pierre & invulnérable: c'est pour cela qu'il a été́ appellé corps de cuivre (rouin tan).
+
+Au bout de trois jours le Roi se réveilla & remercia Dieu, lui disant: Dieu des deux Mondes, jamais votre Empire ne finira.
+
+Il appela ensuite Zoroastre, lui rapporta ce qu'il avait vû, & ordonna à tous ses Sujets d’embrasser sa Loi.
+
+Alors Zoroastre étant assis sur un Trône élevé, le Roi lui dit:
+
+> Lisez-moi le Zend-Avesta, pour que tous mes doutes soient dissipés, & que je sache la Loi parfaitement.
+
+Cette proposition remplit de joie le nouveau Prophète: il commença par invoquer le nom de Dieu, & lut au Roi plusieurs sections du Zend-Avesta.
+
+A cette lecture les Dews effrayés s’enfuirent sous terre.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Bahman est le second Amschaspand. Il veille sur les animaux et les troupeaux.
 [^3]: Ardibehescht est le troisième Amschaspand. Il donne le feu.
 [^4]: Khordad est le sixième Amschaspand. Il donne l'eau.
+[^5]: Kerdar : le principe de ses bonnes œuvres
