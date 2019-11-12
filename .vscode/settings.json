@@ -19,9 +19,5 @@
             "autoFix": true
         }
     ],
-    "prettier.eslint": true,
-    "prettier.singleQuote": true,
-    "prettier.trailingComma": "all",
-    "prettier.requireConfig": true,
     "jest.autoEnable": false,
 }
