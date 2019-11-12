@@ -1,19 +1,24 @@
 import { noises } from './noises';
+import { favorites } from './favorites';
 import { readAllLinesInFile } from '../fs';
-import { updateFrontmatter } from '../markdown-frontmatter';
+import { updateFrontmatter, removeFrontMatterIn } from '../markdown-frontmatter';
 import { PathLike, writeFileSync } from 'fs';
 import { EOL } from 'os';
 
 export const getTagsFrom = (markdownFile: PathLike): string[] => {
   const allLines = readAllLinesInFile(markdownFile);
-  const allTags = allLines
-    .filter((line) => !line.startsWith('tags:'))
-    .filter((line) => !line.startsWith('---'))
+  const allLinesExceptFrontmatter = removeFrontMatterIn(allLines);
+  const allTags = allLinesExceptFrontmatter
     .join(' ')
     .split(/\n|\r|\s|,|;|\.|:|!|'|\?/)
     .map((word) => word.trim())
     .filter((word) => word.length > 2)
-    .filter((word) => word.match(/^[A-Z]/))
+    .filter((word) => {
+      if (word.match(/^[A-Z]/)) {
+        return true;
+      }
+      return favorites.includes(word);
+    })
     .filter((word) => !noises.includes(word));
 
   const uniqueTags = Array.from(new Set(allTags)).sort();

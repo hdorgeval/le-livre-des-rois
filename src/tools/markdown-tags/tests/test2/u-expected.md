@@ -3,20 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/_hF6pftEah4'
 landscape: 'https://source.unsplash.com/zOUC2BWW8ms'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
-tags:
-  [
-    'Balkh',
-    'Berzin',
-    'Chine',
-    'Créateur',
-    'Feu',
-    'Juge',
-    'Khosrou',
-    'Lohrasp',
-    'Roum',
-    'Sedeh',
-    'Temple',
-  ]
+tags: ["Balkh", "Berzin", "Chine", "Créateur", "Feu", "Juge", "Khosrou", "Lohrasp", "Roum", "Sedeh", "Temple"]
 order: '1'
 ---
 
