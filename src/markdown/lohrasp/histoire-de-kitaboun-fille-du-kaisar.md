@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/ibKI6M5XZz4'
 landscape: 'https://source.unsplash.com/rEXWtuKw8Rs'
 source: tome IV - livre des rois - P. 238
-tags: ['Destour', 'Dieu', 'Guschtasp', 'Kaisar', 'Kitaboun', 'Pléiades', 'Roum']
+tags: ['Destour', 'Dieu', 'Guschtasp', 'Kaisar', 'Kitaboun', 'Pléiades', 'Roum', 'cyprès']
 order: '07'
 ---
 

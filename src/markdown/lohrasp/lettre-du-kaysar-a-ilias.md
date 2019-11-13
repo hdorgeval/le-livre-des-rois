@@ -16,6 +16,7 @@ tags:
     'Mihras',
     'Mirin',
     'Roum',
+    'cyprès',
   ]
 order: '14'
 ---

@@ -18,10 +18,10 @@ tags:
     'Koschti',
     'Mihr',
     'Mobeds',
-    'Zend-Avesta',
     'Zerdouscht',
     'Zerir',
     'Zoroastre',
+    'cyprès',
   ]
 order: '07'
 ---
