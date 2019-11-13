@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 269
 tags:
   [
     'Ahren',
+    'cyprès',
     'Dieu',
     'Farrukhzad',
     'Guschtasp',
@@ -16,7 +17,6 @@ tags:
     'Mihras',
     'Mirin',
     'Roum',
-    'cyprès',
   ]
 order: '14'
 ---

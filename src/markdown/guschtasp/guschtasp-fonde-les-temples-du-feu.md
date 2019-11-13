@@ -8,6 +8,7 @@ tags:
   [
     'Balkh',
     'Chine',
+    'cyprès',
     'Dieu',
     'Div',
     'Djemschid',
@@ -21,7 +22,6 @@ tags:
     'Zerdouscht',
     'Zerir',
     'Zoroastre',
-    'cyprès',
   ]
 order: '07'
 ---
