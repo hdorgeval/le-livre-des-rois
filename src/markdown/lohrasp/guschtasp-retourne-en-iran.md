@@ -26,6 +26,7 @@ tags:
     'Roum',
     'Schapour',
     'Seigneur',
+    'tribut',
     'Zerir',
   ]
 order: '18'

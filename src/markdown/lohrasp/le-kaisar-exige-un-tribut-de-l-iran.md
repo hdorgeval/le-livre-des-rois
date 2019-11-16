@@ -3,7 +3,19 @@ date: ''
 image: 'https://source.unsplash.com/9yvADFNcXOc'
 landscape: 'https://source.unsplash.com/9yvADFNcXOc'
 source: tome IV - livre des rois - P. 274
-tags: ['Farrukhzad', 'Guschtasp', 'Iran', 'Kaisar', 'Kalous', 'Khazars', 'Lohrasp', 'Roum', 'Zerir']
+tags:
+  [
+    'Farrukhzad',
+    'Guschtasp',
+    'Iran',
+    'Kaisar',
+    'Kalous',
+    'Khazars',
+    'Lohrasp',
+    'Roum',
+    'tribut',
+    'Zerir',
+  ]
 order: '16'
 ---
 

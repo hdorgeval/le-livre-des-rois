@@ -17,6 +17,7 @@ tags:
     'Mihras',
     'Mirin',
     'Roum',
+    'tribut',
   ]
 order: '14'
 ---
