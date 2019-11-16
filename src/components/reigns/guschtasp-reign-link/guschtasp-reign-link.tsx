@@ -1,5 +1,6 @@
 import { MarkdownNode, AllMarkdownRemarkResponse, emptyHtmlAst } from '../../../graphql';
 import { EpisodeLink } from '../..';
+import { toHours } from '../../../tools';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
@@ -42,8 +43,15 @@ export const GuschtaspReignLink: React.FC = () => {
     fields: {
       slug: '/regne-de-guschtasp/',
     },
-    timeToRead: timeToRead,
+    timeToRead: toHours(timeToRead) * 2,
     wordCount: { words: 0, paragraphs: 0, sentences: 0 },
   };
-  return <EpisodeLink {...guschtaspNode} key="guschtasp" totalCount={totalNumberOfEpsiodes} />;
+  return (
+    <EpisodeLink
+      {...guschtaspNode}
+      key="guschtasp"
+      totalCount={totalNumberOfEpsiodes}
+      timeUnit="hour"
+    />
+  );
 };

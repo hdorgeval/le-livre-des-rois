@@ -1,6 +1,7 @@
 import styles from './tag-template.module.scss';
 import { Layout, SEO, Title, EpisodeLink } from '../../components';
 import { AllMarkdownRemarkResponse, PageContext } from '../../graphql';
+import { toMinutes } from '../../tools';
 import React from 'react';
 import { graphql } from 'gatsby';
 
@@ -21,8 +22,14 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
         <div className={styles.content}>
           {data.allMarkdownRemark.edges
             .map((nodeWrapper) => nodeWrapper.node)
+            .map((node) => {
+              return {
+                ...node,
+                timeToRead: toMinutes(node.timeToRead * 2),
+              };
+            })
             .map((node) => (
-              <EpisodeLink {...node} key={node.id} />
+              <EpisodeLink {...node} key={node.id} timeUnit="minute" />
             ))}
         </div>
       </div>

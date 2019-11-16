@@ -3,7 +3,10 @@ import { MarkdownNode } from '../../graphql';
 import React from 'react';
 import { Link } from 'gatsby';
 
-export type EpisodeLinkProps = MarkdownNode & { key: string } & { totalCount?: number };
+export type EpisodeLinkProps = MarkdownNode & { key: string } & {
+  totalCount?: number;
+  timeUnit: 'hour' | 'minute';
+};
 export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
   excerpt,
   fields,
@@ -11,6 +14,7 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
   headings,
   timeToRead,
   totalCount,
+  timeUnit,
 }) => {
   const firstHeading = headings[0].value;
   const sanitizedExcerpt = excerpt.replace(firstHeading, '');
@@ -24,7 +28,9 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
         <div className={styles.right}>
           <h3>{firstHeading}</h3>
           <div className={styles.details}>
-            <span>{`durée de lecture: ${timeToRead * 2} mn`}</span>
+            <span>{`durée de lecture: ${timeToRead} ${timeUnit === 'hour' ? 'heure' : 'minute'}${
+              timeToRead > 1 ? 's' : ''
+            }`}</span>
             {totalCount && <span>{`, ${totalCount} épisode${totalCount > 1 ? 's' : ''}`}</span>}
           </div>
           <div>{sanitizedExcerpt}</div>
