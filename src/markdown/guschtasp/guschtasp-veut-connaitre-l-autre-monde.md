@@ -9,6 +9,7 @@ tags:
     'Amschaspand',
     'Ardibehescht',
     'Bahman',
+    'Beschouten',
     'Ciel',
     'Cour',
     'Daroun',
@@ -135,7 +136,7 @@ Ce Prince resta dans cet état pendant trois jours.
 
 Son âme alla au Ciel près du Trône de Dieu, & y vit son Kerdar [^5] pur & brillant, la place qui lui était destinée, & celle des Saints.
 
-Zoroastre présenta ensuite le lait à Paschoutan, second fils de Guschtasp.
+Zoroastre présenta ensuite le lait à Paschoutan [^6], second fils de Guschtasp.
 
 Ce jeune Prince le but, & devint immortel.
 
@@ -159,4 +160,5 @@ A cette lecture les Dews effrayés s’enfuirent sous terre.
 [^2]: Bahman est le second Amschaspand. Il veille sur les animaux et les troupeaux.
 [^3]: Ardibehescht est le troisième Amschaspand. Il donne le feu.
 [^4]: Khordad est le sixième Amschaspand. Il donne l'eau.
-[^5]: Kerdar : le principe de ses bonnes œuvres
+[^5]: Kerdar : le principe de ses bonnes œuvres.
+[^6]: Paschoutan est nommé Beschouten dans le livre des rois.

@@ -2,7 +2,7 @@
 date: ''
 image: 'https://source.unsplash.com/MJSFNZ8BAXw'
 landscape: 'https://source.unsplash.com/MJSFNZ8BAXw'
-source: tome IV - livre des rois - P. 290 &  tome II - Vie de Zoroastre - P. 41 (P.181) - Zend-Avesta - Anquetil du Perron
+source: tome IV - livre des rois - P. 293 &  tome II
 map: ''
 tags:
   [
