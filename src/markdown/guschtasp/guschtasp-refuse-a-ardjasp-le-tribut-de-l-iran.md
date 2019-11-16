@@ -2,7 +2,7 @@
 date: ''
 image: 'https://source.unsplash.com/MJSFNZ8BAXw'
 landscape: 'https://source.unsplash.com/MJSFNZ8BAXw'
-source: tome IV - livre des rois - P. 293 &  tome II
+source: tome IV - livre des rois - P. 293
 map: ''
 tags:
   [
