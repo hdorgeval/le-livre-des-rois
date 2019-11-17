@@ -70,5 +70,33 @@ Djamasp lui répondit:
 >
 > Je crois donc qu’il faut l’inviter avec bonté à venir dans l’Iran pour qu’il embrasse la Loi, & que cet évènement, répandu dans le monde entier, dissipe tous les doutes.
 
+La réponse fut conçue en ces termes:
+
+> Nous avons reçu votre lettre polie & instructive.
+>
+> Ce que vous avez appris de Zoroastre est vrai.
+>
+> Nous avons embrassé sa Loi.
+>
+> Nous vous faisons savoir que nous nous sommes rendus à la science & à l'habileté de Zoroastre.
+>
+> Il a fait en notre présence des miracles incroyables.
+>
+> Nous avons entendu ses paroles, lu ses Livres, & personne n’a pu rien y opposer.
+>
+> Nous avons fait venir des savants de tous les pays, & tous ont été obligés de céder à la sagesse de ses réponses.
+>
+> Les Grands de l'Iran ont renoncé à l'envie, & embrassé sa Loi, en disant: un homme ne peut apprendre de lui-même de telles choses; il faut reconnaitre ici la voix de Dieu.
+>
+> Si cela vous fait quelque peine, venez vous-même ici: nous vous offrons pour la route tous les secours qui vous seront nécessaires, persuadés que, quand vous serez devant Zoroastre, vous serez vous-même étonné de la profondeur de sa science.
+>
+> Lorsque vous lirez cette lettre, pesez bien ce qu’elle renferme.
+>
+> Que Dieu vous ait en sa garde, & remplisse tous vos souhaits.
+
+Cette lettre combla de joie Tchengrégahtchah.
+
+Il se mit à lire une multitude de Livres, & à chercher ce qu’il pouvait avoir jamais dit ou entendu;
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Zoroastre avait 40 ans lorsqu’il alla se présenter à Guschtasp
