@@ -27,7 +27,7 @@ tags:
 order: '09'
 ---
 
-# Guschtasp refuse à Ardjasp le tribut de l'iran
+# Guschtasp refuse à Ardjasp le tribut de l'Iran
 
 Quelque temps s’étant ainsi passé, le maître âgé se présenta devant le roi.
 
