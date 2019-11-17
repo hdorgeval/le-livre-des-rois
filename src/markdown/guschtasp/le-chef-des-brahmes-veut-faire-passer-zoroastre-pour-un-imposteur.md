@@ -38,5 +38,37 @@ Il continua ensuite :
 >
 > Je ne sais quel piège on lui a tendu, comment la force l’a abandonné, comment il est resté muet ignominieusement.
 
+Tchengréghatchah conseilla ensuite à Guschtasp de ne pas se laisser prendre aux prestiges de l'imposteur, ni à ses belles paroles.
+
+Il ajouta:
+
+> J'irai moi-même le convaincre de faux, & je répondrai à tout ce qu'il dira.
+>
+> Il convient que vous vous assuriez de lui, ô grand Roi, jusqu'à mon arrivée; & lorsque j'aurai couvert de honte ce fourbe, je vous prierai de le faire punir, pour que personne n'ait dans la fuite la hardiesse de tromper les Peuples par des Lois fausses & nouvelles.
+
+Djamasp était près de Guschtasp, lorsque la lettre de Tchengréghatchah arriva.
+
+Les Secrétaires la lurent.
+
+Ce Prince dit à son Ministre:
+
+> Personne n'est plus au fait que vous; examinez ce que dit Tchengréghatchah, & répondez-lui comme il convient.
+
+Djamasp lui répondit:
+
+> Je suis inébranlable dans la Loi excellente que j'ai embrassée: je crois à parole de Dieu.
+>
+> Un homme ne peut savoir de lui-même ce que sait Zoroastre, ni faire les miracles qu'il a faits;
+>
+> il faut que Dieu l'ait instruit.
+>
+> Mais je soutiens aussi, ô grand Roi, qu'il n'y a personne au Monde dont la science égale celle de Tchengréghatchah.
+>
+> J'ai lû ses Livres;
+>
+> j'ai quitté l‘Iran pour le retrouver dans l'Indoustan: il m'a formé à toutes les Sciences.
+>
+> Je crois donc qu’il faut l’inviter avec bonté à venir dans l’Iran pour qu’il embrasse la Loi, & que cet évènement, répandu dans le monde entier, dissipe tous les doutes.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Zoroastre avait 40 ans lorsqu’il alla se présenter à Guschtasp
