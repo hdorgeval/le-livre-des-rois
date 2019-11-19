@@ -98,5 +98,27 @@ Cette lettre combla de joie Tchengrégahtchah.
 
 Il se mit à lire une multitude de Livres, & à chercher ce qu’il pouvait avoir jamais dit ou entendu;
 
+Il rassembla les questions les plus difficiles, & employa à ce travail deux ans entiers, sans dormir ni jour ni nuit.
+
+Il écrivit ensuite aux savants de l’Indoustan, & les appela près de lui.
+
+Il leur apprit ce qui était arrivé dans l'Iran, leur parla de Zoroastre, de la lettre qu’il avait écrite au Roi, de la réponse qu’il en avait reçue; il leur marqua que depuis deux ans il ne s’était pas donné un moment de repos, & qu’il avait des questions auxquelles la vie d’un homme ne fournirait pas de réponses.
+
+Mais, ajouta-t-il, je ne les ferai qu’en présence du Roi; il désire de me voir.
+
+Préparez-vous comme des lions à m’accompagner, car il faut que j’aille dans l’Iran: ne vous inquiétez pas des frais du voyage, cela me regarde.
+
+Que les hommes de l’Iran, & les étrangers chez qui cette Loi pourrait parvenir, sachent que la vraie science est dans l’Indoustan, & que personne n’est Sage devant moi.
+
+Je veux étonner, par mes merveilles, l’Iran et Zoroastre lui-même.
+
+Les savants de l'Indoustan promirent à Tchengréghatchah de le suivre; & ce Brahme expédia en conséquence un courrier à Guschtasp, par lequel il l'informait de son départ:
+
+> Appelez les Sages de l'Iran & des pays étrangers.
+>
+> Qu'ils s'assemblent tous auprès de vous avec les Grands de l'Empire.
+>
+> Je me rends aux pieds de votre Trône, pour répondre aux questions de Zoroastre, & purifier les cœurs de l'erreur.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Zoroastre avait 40 ans lorsqu’il alla se présenter à Guschtasp
