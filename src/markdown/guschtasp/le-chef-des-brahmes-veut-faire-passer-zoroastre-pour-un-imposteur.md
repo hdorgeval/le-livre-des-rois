@@ -134,5 +134,19 @@ Ce Prince leur dit:
 
 Il ordonna ensuite d'apporter deux Trônes d’or, l'un pour Tchengréghatchah, & l'autre pour Zoroastre, dont le visage éclatant de lumière attirait les regards de tous les Sages.
 
+Alors Tchengréghatchah se leva, & dit:
+
+> Ô Roi juste, nous nous sommes convenus de deux choses:
+>
+> la première que je ferai des questions à cet homme, qui prétend être Prophète; & que, s’il me répond, j'embrasserai sa Loi & la ferai recevoir aux amis que j'ai dans l’Indoustan;
+>
+> la deuxième, que, s’il ne peut résoudre mes questions, vous le punirez sur le champ.
+
+Guschtasp lui répondit:
+
+> Je suis disposé à suivre ce que m'enseigneront les prodiges.
+>
+> Parlez devant moi, faites des choses merveilleuses, dites tout ce qui est à votre avantage, je ne montrerai de prévention pour personne.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Zoroastre avait 40 ans lorsqu’il alla se présenter à Guschtasp
