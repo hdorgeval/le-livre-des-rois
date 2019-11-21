@@ -120,5 +120,19 @@ Les savants de l'Indoustan promirent à Tchengréghatchah de le suivre; & ce B
 >
 > Je me rends aux pieds de votre Trône, pour répondre aux questions de Zoroastre, & purifier les cœurs de l'erreur.
 
+Guschtasp ayant reçu cette lettre, la remit à Djamasp son Ministre: on dépêcha sur le champ des courriers de tous les côtés; & les savants se rendirent à Balkh.
+
+Quelque temps après, Tchengréghatchah arriva dans cette ville, & passa sept jours à se reposer: le huitième, il se présenta devant le Roi, lui adressa des vœux, & demanda la permission de parler.
+
+Guschtasp s’assit sur un Trône au milieu de la Place, qui était remplie de peuple & de savants de toute espèce & de toute nation.
+
+Ce Prince leur dit:
+
+> Il n'est pas question de combattre ici avec la lance, ni avec envie.
+>
+> Les prodiges, les questions, les paroles, voilà les armes qu’on doit employer pour dissiper les doutes.
+
+Il ordonna ensuite d'apporter deux Trônes d’or, l'un pour Tchengréghatchah, & l'autre pour Zoroastre, dont le visage éclatant de lumière attirait les regards de tous les Sages.
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Zoroastre avait 40 ans lorsqu’il alla se présenter à Guschtasp
