@@ -148,5 +148,27 @@ Guschtasp lui répondit:
 >
 > Parlez devant moi, faites des choses merveilleuses, dites tout ce qui est à votre avantage, je ne montrerai de prévention pour personne.
 
+Zoroastre entendant ces paroles, se leva, & dit à Tchengréghatchah:
+
+> Je vais faire un nouveau prodige en faveur de ma Loi devant le Chef des Nations.
+>
+> Les Peuples m'ont déjà entendu, prêtez de même l'oreille à cette parole.
+>
+> Écoutez-moi lire un des Nosks que j'ai reçus de Dieu, ou, si vous le trouvez plus à propos, faites-le lire par quelqu'un de vos Disciples.
+>
+> Je vous l’expliquerai ensuite en présence du Roi, & vous pouvez après cela me demander ce que vous voudrez.
+
+Les Sages écoutèrent attentivement la lecture du Nosk de l’Avesta : ce Nosk commencait par l'éloge de Tchengréghatchah.
+
+Ce Nosk contenait ensuite les réponses à tout ce que Tchengréghatchah avait médité et recherché avec beaucoup de peine pendant deux ans.
+
+La lecture étant achevée, Tchengréghatchah, hors de lui-même, s’écria:
+
+> Comment!
+>
+> Moi qui suis parvenu à la vieillesse, tout ce que Dieu m'a enseigné depuis mon enfance jusqu'à présent, l’Avesta me l'a présenté devant les yeux!
+>
+> Quelle est la science qui peut avoir découvert ce secret?
+
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Zoroastre avait 40 ans lorsqu’il alla se présenter à Guschtasp

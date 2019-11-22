@@ -204,7 +204,7 @@ Il lui demanda:
 >
 > Que doit dire celui qui veut faire Afrin [^7], & de quel côté, en priant, doit-on tourner le visage?
 
-L Être qui donne la nourriture de chaque jour, & qui n’a besoin de rien, répondit à Zoroastre:
+L'Être qui donne la nourriture de chaque jour, & qui n’a besoin de rien, répondit à Zoroastre:
 
 > Apprenez aux Peuples que ma lumière est cachée sous tout ce qui brille.
 >
@@ -221,6 +221,12 @@ Ensuite Ormuzd enseigna à Zoroastre le Zend-Avesta, & lui dit:
 > Instruisez de ma part tous les Mobeds: dites-leur de s’éloigner de la voie d’Ahriman: récitez mes paroles; les Dews et les Magiciens se cacheront devant elle.
 
 Ces instructions remplirent de joie Zoroastre; il remercia Ormuzd qui montre & donne la pureté.
+
+Ormuzd dit ensuite à Zoroastre:
+
+> Vous triompherez de tous vos Adversaires.
+>
+> Il y a dans l’Indoustan un Brahme nommé Tchengréghatchah; personne ne l’ égale en sagesse: telles sont les questions qu’il vous fera, & telles sont les réponses à ces questions. Ce Nosk du Zend-Avesta comprend les réponses à tout ce que Tchengréghatchah aura médité & recherché avec beaucoup de peine pendant plusieurs années.
 
 Lorsqu’il sortit de la présence d'Ormuzd le cœur satisfait, l'Amschaspand Bahman, qui veille sur les animaux, vint au-devant de lui, & lui dit:
 
