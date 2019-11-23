@@ -17,7 +17,6 @@ tags:
     'Keïanides',
     'Khosrou',
     'Lohrasp',
-    'Moi',
     'Newder',
     'Roum',
     'Rustem',

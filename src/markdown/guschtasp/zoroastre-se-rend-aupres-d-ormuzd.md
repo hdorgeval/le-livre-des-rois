@@ -7,6 +7,7 @@ map: 'https://gallica.bnf.fr/ark:/12148/btv1b85930155/f1.item.r=carte%20perse.zo
 tags:
   [
     'Aderbad',
+    'Adversaires',
     'Afrin',
     'Ahriman',
     'Albordj',
@@ -19,6 +20,7 @@ tags:
     'Astres',
     'Atesch-gâh',
     'Bahman',
+    'Brahme',
     'Caspienne',
     'Ciel',
     'Créateur',
@@ -52,6 +54,7 @@ tags:
     'Monde',
     'Mondes',
     'Nature',
+    'Nosk',
     'Ormuzd',
     'Parses',
     'Pasteur',
@@ -64,6 +67,7 @@ tags:
     'Sectateurs',
     'Soleil',
     'Suprême',
+    'Tchengréghatchah',
     'Terre',
     'Tourberatorsch',
     'Urmi',

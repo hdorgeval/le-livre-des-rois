@@ -4,7 +4,62 @@ image: 'https://source.unsplash.com/Zjp4vy3bJhk'
 landscape: 'https://source.unsplash.com/Zjp4vy3bJhk'
 source: tome II - Vie de Zoroastre - P. 47 (P.187) - Zend-Avesta - Anquetil du Perron
 map: ''
-tags: []
+tags:
+  [
+    'Balkh',
+    'Brahme',
+    'Brahmes',
+    'Chef',
+    'Chefs',
+    'Ciel',
+    'Cour',
+    'Dieu',
+    'Disciples',
+    'Djamasp',
+    'Djemschid',
+    'Empire',
+    'Espenteman',
+    'Feridoun',
+    'Guschtasp',
+    'Inde',
+    'Indes',
+    'Indoustan',
+    'Iran',
+    'Kaous',
+    'Kobad',
+    'Livres',
+    'Lohrasp',
+    'Loi',
+    'Lois',
+    'Législateur',
+    'Ministre',
+    'Ministres',
+    'Missionnaires',
+    'Monde',
+    'Nations',
+    'Nosk',
+    'Nosks',
+    'Ormuzd',
+    'Pays',
+    'Peuples',
+    'Prince',
+    'Prophète',
+    'Provinces',
+    'Roi',
+    'Royaumes',
+    'Sage',
+    'Sages',
+    'Sciences',
+    'Secrétaires',
+    'Sind',
+    'Tchengréghatchah',
+    'Tout-puissant',
+    'Trône',
+    'Trônes',
+    'Zend',
+    'Zend-Avesta',
+    'Zoroastre',
+  ]
 order: '08'
 ---
 
@@ -94,7 +149,7 @@ La réponse fut conçue en ces termes:
 >
 > Que Dieu vous ait en sa garde, & remplisse tous vos souhaits.
 
-Cette lettre combla de joie Tchengrégahtchah.
+Cette lettre combla de joie Tchengréghatchah.
 
 Il se mit à lire une multitude de Livres, & à chercher ce qu’il pouvait avoir jamais dit ou entendu;
 

@@ -12,6 +12,7 @@ tags:
     'cyprès',
     'Div',
     'Guschtasp',
+    'Iran',
     'Iraniens',
     'Lohrasp',
     'Mobeds',
