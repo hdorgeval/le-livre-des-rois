@@ -17,6 +17,7 @@ export const noises = [
   'Après',
   'Arrivé',
   'Arrivée',
+  'Arrivés',
   'Aujourd’hui',
   'Aussi',
   'Aussitôt',

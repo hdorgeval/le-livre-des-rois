@@ -4,7 +4,30 @@ image: 'https://source.unsplash.com/zPjPGQkj7tk'
 landscape: 'https://source.unsplash.com/0q90Mumo-xE'
 source: tome IV - livre des rois - P. 299
 map: ''
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Balkh',
+    'Bidirefsch',
+    'Chine',
+    'Destour',
+    'Djamasp',
+    'Guschtasp',
+    'Isfendiar',
+    'Keïanide',
+    'Mobed',
+    'Mobeds',
+    'Namkhast',
+    'Pehlewan',
+    'Sipehbed',
+    'Sipehbeds',
+    'Tour',
+    'Touran',
+    'Turcs',
+    'Zendavesta',
+    'Zerdouscht',
+    'Zerir',
+  ]
 order: '11'
 ---
 
