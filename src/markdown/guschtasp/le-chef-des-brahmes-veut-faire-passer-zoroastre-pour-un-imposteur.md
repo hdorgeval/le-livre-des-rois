@@ -2,7 +2,7 @@
 date: ''
 image: 'https://source.unsplash.com/Zjp4vy3bJhk'
 landscape: 'https://source.unsplash.com/Zjp4vy3bJhk'
-source: tome II - Vie de Zoroastre - P. 47 (P.186) - Zend-Avesta - Anquetil du Perron
+source: tome II - Vie de Zoroastre - P. 47 (P.187) - Zend-Avesta - Anquetil du Perron
 map: ''
 tags: []
 order: '08'
@@ -169,6 +169,32 @@ La lecture étant achevée, Tchengréghatchah, hors de lui-même, s’écria:
 > Moi qui suis parvenu à la vieillesse, tout ce que Dieu m'a enseigné depuis mon enfance jusqu'à présent, l’Avesta me l'a présenté devant les yeux!
 >
 > Quelle est la science qui peut avoir découvert ce secret?
+>
+> Et ce que j’ai pensé pendant deux ans, ces questions qui m’ont couté tant de peines, auxquelles je croyais qu’on ne pourrait répondre en 100 ans, je ne les ai révélées à personne.
+>
+> Ô Roi célèbre, j’en ai été occupé pendant toute la route; & lorsque les savants étaient en ma présence, étonnées de ma sagesse, aucun d’eux n’osait ouvrir la bouche.
+>
+> Maintenant cet Écolier vient de lire ces questions & les réponses que l’on peut y faire.
+>
+> Je confesse que cela est au-dessus de l’homme;
+>
+> je reconnais là l’œuvre de Dieu.
+
+Alors Tchengréghatchah assura qu’il embrassait la Loi, qu’il croyait à l’Avesta apporté par Zoroastre Espenteman, & que toute sa vie serait employée en bonnes œuvres.
+
+Il adressa ensuite sa prière à Ormuzd, & lui demanda la pureté du corps, celle de l’âme, & dans le Ciel une place distinguée.
+
+La conversion de Tchengréghatchah occasionna une fête de sept jours.
+
+Le Roi & les Grands de sa Cour y prirent part.
+
+Zoroastre embrassa ce Brahme, lui donna une copie de l’Avesta; & le bruit de cet évènement s'étant répandu de tous côtés, contribua beaucoup à accréditer la réforme du Législateur.
+
+Tant que Tchengréghatchah vécut, il fut attaché à Zoroastre, ne s’occupant que de l’Avesta.
+
+Son zèle alla plus loin: il représenta ce qui s'était passé, aux Brahmes qui l'avaient suivi dans l'Iran, & les engagea à l’imiter.
+
+Ceux qui le reconnaissaient pour leur Maître, le voyant persuadé, suivirent son exemple; ils confessèrent leurs péchés, & firent profession de la Loi de Zoroastre au nombre de plus de 80 000 Sages & Chefs de l'Inde, du Sind, & de plusieurs autres Royaumes.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
 [^2]: Zoroastre avait 40 ans lorsqu’il alla se présenter à Guschtasp
