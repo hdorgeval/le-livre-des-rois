@@ -143,6 +143,7 @@ export const noises = [
   'Parlez',
   'Parmi',
   'Pars',
+  'Partez',
   'Pendant',
   'Perron',
   'Personne',

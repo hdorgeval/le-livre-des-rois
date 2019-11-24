@@ -4,7 +4,24 @@ image: 'https://source.unsplash.com/j_Ch0mwBNds'
 landscape: 'https://source.unsplash.com/0q90Mumo-xE'
 source: tome IV - livre des rois - P. 301
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Destour',
+    'Dieu',
+    'Djamasp',
+    'Guschtasp',
+    'Isfendiar',
+    'Kergsars',
+    'Khallakh',
+    'Sipehbed',
+    'Sipehdar',
+    'Touran',
+    'Turc',
+    'Zendavesta',
+    'Zerdouscht',
+    'Zerir',
+  ]
 order: '12'
 ---
 
