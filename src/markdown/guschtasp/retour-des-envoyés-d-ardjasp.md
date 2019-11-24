@@ -4,7 +4,35 @@ image: 'https://source.unsplash.com/OwqLxCvoVxI'
 landscape: 'https://source.unsplash.com/OwqLxCvoVxI'
 source: tome IV - livre des rois - P. 303
 map: ''
-tags: []
+tags:
+  [
+    'Ahrimans',
+    'Ardjasp',
+    'Balkh',
+    'Bidirefsch',
+    'Chine',
+    'cyprès',
+    'Dieu',
+    'Djihoun',
+    'Endirman',
+    'Gurgsar',
+    'Guschtasp',
+    'Houschdiv',
+    'Isfendiar',
+    'Kehrem',
+    'Khallakh',
+    'Khaschasch',
+    'Lohrasp',
+    'Mobeds',
+    'Perses',
+    'Sipehbed',
+    'Sipehdar',
+    'Siyah-Pil',
+    'Touran',
+    'Turc',
+    'Turcs',
+    'Zerir',
+  ]
 order: '13'
 ---
 
