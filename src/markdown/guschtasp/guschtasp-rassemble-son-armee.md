@@ -4,7 +4,20 @@ image: 'https://source.unsplash.com//I12p-r242SY'
 landscape: 'https://source.unsplash.com/eYJ5yxMJuB4'
 source: tome IV - livre des rois - P. 307
 map: ''
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Chine',
+    'Djemschid',
+    'Guschtasp',
+    'Keïanides',
+    'Khakan',
+    'Khaschasch',
+    'Mobeds',
+    'Sipehbed',
+    'Sipehbeds',
+    'Turcs',
+  ]
 order: '14'
 ---
 
