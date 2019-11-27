@@ -4,7 +4,42 @@ image: 'https://source.unsplash.com//ArYJaD_K9dk'
 landscape: 'https://source.unsplash.com/eYJ5yxMJuB4'
 source: tome IV - livre des rois - P. 309
 map: ''
-tags: []
+tags:
+  [
+    'Ahrimans',
+    'Ardeschir',
+    'Ardjasp',
+    'Balkh',
+    'Bidirefsch',
+    'Chine',
+    'Dieu',
+    'Djamasp',
+    'Djiguil',
+    'Djihoun',
+    'Guerami',
+    'Gurezm',
+    'Guschtasp',
+    'Iraniens',
+    'Isfendiar',
+    'Kaweh',
+    'Keïanide',
+    'Keïanides',
+    'Khakan',
+    'Mobeds',
+    'Nestour',
+    'Nivzar',
+    'Pehlewan',
+    'Rustem',
+    'Schidasp',
+    'Seigneur',
+    'Sipehbeds',
+    'Touran',
+    'Turc',
+    'Turcs',
+    'Zendavesta',
+    'Zerdouscht',
+    'Zerir',
+  ]
 order: '15'
 ---
 
