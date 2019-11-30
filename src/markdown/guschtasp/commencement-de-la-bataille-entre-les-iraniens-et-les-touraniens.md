@@ -4,7 +4,22 @@ image: 'https://source.unsplash.com//_E1PQXKUkMw'
 landscape: 'https://source.unsplash.com/_E1PQXKUkMw'
 source: tome IV - livre des rois - P. 320
 map: ''
-tags: []
+tags:
+  [
+    'Ardeschir',
+    'Behzad',
+    'Bisutoun',
+    'Chine',
+    'Div',
+    'Guschtasp',
+    'Kehrem',
+    'Ormuzd',
+    'Pehlewan',
+    'Schidasp',
+    'Sipehbed',
+    'Thous',
+    'Turc',
+  ]
 order: '17'
 ---
 
