@@ -65,4 +65,4 @@ Il donna le commandement de l’autre aile à Gurgsar et mit sous ses ordres ce
 
 Il garda comme réserve cent mille autres cavaliers qui avaient montré leurs prouesses dans le monde, et les plaça de manière à pouvoir secourir chaque partie de son armée.
 
-Enfin un homme glorieux, expérimenté et qui portait haut la tête dans les combats, se trouvait derrière la ligne de bataille: Kehrem était le nom de ce noble cavalier, sur qui la bonne et la mauvaise fortune avaient souvent passé; c’était un fils d’Ardjasp, qui en fit le gardien de l’armée, et nomma ordonnateur cet homme accoutumé à disposer les troupes.
+Enfin un homme glorieux, expérimenté et qui portait haut la tête dans les combats, se trouvait derrière la ligne de bataille: Kehrem était le nom de ce noble cavalier, sur qui la bonne et la mauvaise fortune avaient souvent passé; c’était un frère d’Ardjasp, qui en fit le gardien de l’armée, et nomma ordonnateur cet homme accoutumé à disposer les troupes.
