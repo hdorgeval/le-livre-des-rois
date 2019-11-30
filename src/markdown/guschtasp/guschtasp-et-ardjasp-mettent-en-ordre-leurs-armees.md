@@ -4,7 +4,26 @@ image: 'https://source.unsplash.com//_E1PQXKUkMw'
 landscape: 'https://source.unsplash.com/Ydto_xzopy0'
 source: tome IV - livre des rois - P. 317
 map: ''
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Bidirefsch',
+    'Chine',
+    'Destour',
+    'Djamasp',
+    'Gurgsar',
+    'Guschtasp',
+    'Hazaran',
+    'Kehrem',
+    'Khallakh',
+    'Namkhast',
+    'Nestour',
+    'Perses',
+    'Schidasp',
+    'Sipehbed',
+    'Turcs',
+    'Zerir',
+  ]
 order: '16'
 ---
 
