@@ -45,9 +45,9 @@
     "unist-util-visit": "2.0.0"
   },
   "devDependencies": {
-    "@types/jest": "24.0.18",
+    "@types/jest": "24.0.23",
     "@types/mermaid": "8.2.0",
-    "@types/node": "12.7.11",
+    "@types/node": "12.12.14",
     "@types/node-sass": "4.11.0",
     "@types/randomcolor": "0.5.3",
     "@types/react": "16.9.5",
@@ -67,8 +67,8 @@
     "rimraf": "3.0.0",
     "stylelint": "11.0.0",
     "stylelint-config-recommended": "3.0.0",
-    "ts-jest": "24.1.0",
-    "ts-node": "8.4.1",
+    "ts-jest": "24.2.0",
+    "ts-node": "8.5.4",
     "typed-css-modules": "0.6.2",
     "typed-scss-modules": "0.0.12",
     "typescript": "3.6.3"
