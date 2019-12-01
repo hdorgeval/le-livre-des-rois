@@ -22,8 +22,8 @@ tags:
     'Iraniens',
     'Isfendiar',
     'Kaweh',
-    'Keïanide',
-    'Keïanides',
+    'Keïanide',
+    'Keïanides',
     'Khakan',
     'Mobeds',
     'Nestour',
@@ -79,7 +79,7 @@ Le sage répondit:
 >
 > Ne t’afflige pas de ce que dira ton esclave, n’écoute pas ta colère, car heureux est celui qui ne voit pas de ses yeux!
 >
-> Sache, ô vaillant et illustre Keïanide, qu’au moment où la bataille amènera face à face les héros, et où ils pousseront leurs cris et leurs clameurs, tu croiras qu’on arrache tous les rochers de leur base.
+> Sache, ô vaillant et illustre Keïanide, qu’au moment où la bataille amènera face à face les héros, et où ils pousseront leurs cris et leurs clameurs, tu croiras qu’on arrache tous les rochers de leur base.
 >
 > Les plus braves s’avanceront, l’air sera obscurci par la poussière du combat;
 >
@@ -91,7 +91,7 @@ Le sage répondit:
 >
 > les courants d’eau seront souillés par le sang des hommes, et tu verras bien des fils privés de leurs pères et bien des pères privés de leurs fils.
 >
-> Ardeschir, le Keïanide illustre, le chef des princes, le vaillant guerrier, lancera le premier son cheval rapide et abattra quiconque s’opposera à lui;
+> Ardeschir, le Keïanide illustre, le chef des princes, le vaillant guerrier, lancera le premier son cheval rapide et abattra quiconque s’opposera à lui;
 >
 > il renversera de leurs chevaux tant de cavaliers turcs qu’on ne saura jamais leur nombre;
 >
@@ -205,7 +205,7 @@ Ensuite il dit à Djamasp:
 
 Le sage répondit au maître de la terre:
 
-> Ô roi glorieux et tendre de cœur! si ces hommes ne se trouvent pas au-devant des rangs de l’armée, leurs casques de Keïanides sur la tête, qui osera s’opposer aux héros de la Chine, qui ramènera la splendeur de notre religion pure?
+> Ô roi glorieux et tendre de cœur! si ces hommes ne se trouvent pas au-devant des rangs de l’armée, leurs casques de Keïanides sur la tête, qui osera s’opposer aux héros de la Chine, qui ramènera la splendeur de notre religion pure?
 >
 > Lève-toi de cette poussière et monte sur le trône;
 >

@@ -4,7 +4,27 @@ image: 'https://source.unsplash.com//5I4K1WQBrXQ'
 landscape: 'https://source.unsplash.com/sZO_aniGp6U'
 source: tome IV - livre des rois - P. 322
 map: ''
-tags: []
+tags:
+  [
+    'Chine',
+    'Chinois',
+    'Destan',
+    'Destour',
+    'Dieu',
+    'Djamasp',
+    'Feridoun',
+    'Guerami',
+    'Hazaran',
+    'Iraniens',
+    'Kaweh',
+    'Keïanide',
+    'Namkhast',
+    'Nestour',
+    'Nivzar',
+    'Rustem',
+    'Sam',
+    'Zerir',
+  ]
 order: '18'
 ---
 
@@ -43,7 +63,7 @@ Alors il saisit le drapeau de Feridoun avec ses dents, et, ô merveille! il fra
 
 Hélas! ce vaillant cavalier plein de cœur, le sage vieillard ne le revit plus!
 
-Nestour, le lion, le vaillant Keïanide, le fils de Zerir, s’avança sur-le-champ; il tua des ennemis sans nombre, car il avait appris de son père l’usage des armes, et à la fin il revint victorieux et heureux, et se plaça de nouveau devant son père.
+Nestour, le lion, le vaillant Keïanide, le fils de Zerir, s’avança sur-le-champ; il tua des ennemis sans nombre, car il avait appris de son père l’usage des armes, et à la fin il revint victorieux et heureux, et se plaça de nouveau devant son père.
 
 Ensuite le cavalier choisi, Nivzar, fils du roi du monde, s’élança , monté sur un cheval rapide et tel qu’il n’avait pas son pareil parmi des milliers.
 

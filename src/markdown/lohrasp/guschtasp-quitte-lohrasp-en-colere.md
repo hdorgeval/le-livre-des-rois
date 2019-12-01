@@ -14,7 +14,7 @@ tags:
     'Inde',
     'Kaous',
     'Keï',
-    'Keïanides',
+    'Keïanides',
     'Khosrou',
     'Lohrasp',
     'Newder',
@@ -49,7 +49,7 @@ Or il arriva qu’un jour on plaça dans le pays de Fers le trône du roi sous u
 >
 > Lorsque Keï Khosrou eut conçu des inquiétudes sur toi, il t’a remis le trône et est parti.
 >
-> Si maintenant tu veux me donner, à moi qui suis parmi ceux qui sont dignes de régner, le trône et la couronne des Keïanides, je me tiendrai devant toi comme un esclave, ainsi que je le fais aujourd’hui, et je t’appellerai roi.
+> Si maintenant tu veux me donner, à moi qui suis parmi ceux qui sont dignes de régner, le trône et la couronne des Keïanides, je me tiendrai devant toi comme un esclave, ainsi que je le fais aujourd’hui, et je t’appellerai roi.
 
 Lohrasp répondit :
 

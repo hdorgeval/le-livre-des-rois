@@ -14,7 +14,7 @@ tags:
     'Djamasp',
     'Guschtasp',
     'Isfendiar',
-    'Keïanide',
+    'Keïanide',
     'Mobed',
     'Mobeds',
     'Namkhast',
@@ -37,7 +37,7 @@ Lorsque le Destour du roi eut terminé la lettre, en présence de tous les gran
 
 > Soyez prudents, rendez-vous ensemble dans son palais;
 >
-> quand vous le verrez assis sur son trône et à sa place d’honneur, courbez-vous jusqu’à terre , saluez-le comme on salue les rois, sans jeter un regard sur sa couronne et son trône de Keïanide;
+> quand vous le verrez assis sur son trône et à sa place d’honneur, courbez-vous jusqu’à terre , saluez-le comme on salue les rois, sans jeter un regard sur sa couronne et son trône de Keïanide;
 >
 > quand vous serez assis devant lui, alors levez vos yeux vers sa couronne brillante, acquittez-vous de mon message qui porte bonheur et écoutez attentivement sa réponse.
 >
@@ -47,7 +47,7 @@ Bidirefsch, avide de vengeance, quitta Ardjasp et dirigea son drapeau vers Balkh
 
 Arrivés du pays de Touran à Balkh, ils descendirent de cheval devant le palais du roi; ils allèrent à pied jusqu’auprès de lui et jusqu’à ce que leurs yeux tombassent sur le seuil de la salle d’audience.
 
-Quand ils le virent, assis sur son trône, brillant dans sa place d’honneur comme le soleil, ils se prosternèrent comme des esclaves devant le Keïanide, le roi d’un peuple heureux, et lui remirent la lettre royale écrite en caractères turcs.
+Quand ils le virent, assis sur son trône, brillant dans sa place d’honneur comme le soleil, ils se prosternèrent comme des esclaves devant le Keïanide, le roi d’un peuple heureux, et lui remirent la lettre royale écrite en caractères turcs.
 
 Le roi ayant déplié cette lettre, en fut confondu et se mit à trembler de colère; il fit appeler l’illustre Djamasp, qui était son guide, et les élus de l’Iran, les Sipehbeds, les grands pleins d’expérience et les Mobeds.
 

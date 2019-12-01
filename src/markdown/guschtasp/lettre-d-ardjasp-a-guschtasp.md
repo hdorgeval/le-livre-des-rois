@@ -19,8 +19,8 @@ tags:
     'Iraniens',
     'Kaschan',
     'Keï',
-    'Keïanide',
-    'Keïanides',
+    'Keïanide',
+    'Keïanides',
     'Khosrou',
     'Lohrasp',
     'Namkhast',
@@ -38,13 +38,13 @@ Les braves de la Chine furent de son avis; ils choisirent parmi eux deux hommes,
 
 Ardjasp écrivit une belle lettre, pleine de dignité, à l’illustre Khosrou, qui avait embrassé la nouvelle foi.
 
-Il écrivit en invoquant le Maître du monde, qui connaît ce qui est caché et ce qui est ouvert, et disant que c’était Ardjasp, le chef des braves de la Chine, le cavalier maître de la terre, le héros choisi, qui adressait une lettre digne d’un roi au chef des cavaliers de l’Iran, au vaillant Guschtasp, roi du monde, au Keïanide illustre et digne du trône, au possesseur de la terre, au gardien du trône, au fils aîné et préféré du roi Lohrasp.
+Il écrivit en invoquant le Maître du monde, qui connaît ce qui est caché et ce qui est ouvert, et disant que c’était Ardjasp, le chef des braves de la Chine, le cavalier maître de la terre, le héros choisi, qui adressait une lettre digne d’un roi au chef des cavaliers de l’Iran, au vaillant Guschtasp, roi du monde, au Keïanide illustre et digne du trône, au possesseur de la terre, au gardien du trône, au fils aîné et préféré du roi Lohrasp.
 
 Il dit dans cette lettre royale remplie d’hommages et écrite en caractères turcs:
 
 > Ô illustre roi du monde, toi qui entoure de gloire la couronne du roi des rois, puisse ta tête rester jeune et ton âme et ton corps rester sains!
 >
-> Puissent les reins du Keïanide ne jamais fléchir!
+> Puissent les reins du Keïanide ne jamais fléchir!
 >
 > J’ai entendu que tu as choisi une voie perverse, et tu as obscurci pour moi le jour brillant.
 >
@@ -58,7 +58,7 @@ Il dit dans cette lettre royale remplie d’hommages et écrite en caractères t
 >
 > le Créateur, Ormuzd le tout-puissant, qui a formé le ciel et la terre, t’a choisi parmi ses élus et t’a donné une majesté plus haute qu’au fils de Djemschid.
 >
-> Keï Khosrou le vindicatif et toi avez joui de plus grands honneurs que tous les Keïanides.
+> Keï Khosrou le vindicatif et toi avez joui de plus grands honneurs que tous les Keïanides.
 >
 > Ô prince orgueilleux!
 >
