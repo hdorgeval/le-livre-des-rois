@@ -4,7 +4,23 @@ image: 'https://source.unsplash.com/5I4K1WQBrXQ'
 landscape: 'https://source.unsplash.com/sZO_aniGp6U'
 source: tome IV - livre des rois - P. 327
 map: ''
-tags: []
+tags:
+  [
+    'Bidirefsch',
+    'Chine',
+    'Destour',
+    'Dieu',
+    'Djamasp',
+    'Gulgoun',
+    'Guschtasp',
+    'Homaï',
+    'Kaweh',
+    'Lohrasp',
+    'Pehlewan',
+    'Sam',
+    'Turcs',
+    'Zerir',
+  ]
 order: '20'
 ---
 
