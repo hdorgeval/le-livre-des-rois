@@ -229,6 +229,7 @@ export const noises = [
   'Voici',
   'Voilà',
   'Vos',
+  'Voulez-vous',
   'Vous',
   'Voyez',
   'Vrai',

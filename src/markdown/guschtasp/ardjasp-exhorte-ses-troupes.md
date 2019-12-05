@@ -4,7 +4,21 @@ image: 'https://source.unsplash.com//SwbsW4uf1Qs'
 landscape: 'https://source.unsplash.com/fAZEw6xPhz8'
 source: tome IV - livre des rois - P. 325
 map: ''
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Arisch',
+    'Bidirefsch',
+    'Chine',
+    'Guschtasp',
+    'Khallakh',
+    'Lohrasp',
+    'Pehlewan',
+    'Sam',
+    'Sipehbed',
+    'Turcs',
+    'Zerir',
+  ]
 order: '19'
 ---
 
