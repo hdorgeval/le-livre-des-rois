@@ -32,7 +32,7 @@
     "gatsby-plugin-react-helmet": "3.1.10",
     "gatsby-plugin-sass": "2.1.17",
     "gatsby-plugin-sharp": "2.2.36",
-    "gatsby-plugin-typescript": "2.1.11",
+    "gatsby-plugin-typescript": "2.1.20",
     "gatsby-remark-images": "3.1.28",
     "gatsby-source-filesystem": "2.1.29",
     "gatsby-transformer-remark": "2.6.27",
@@ -71,7 +71,7 @@
     "ts-node": "8.5.4",
     "typed-css-modules": "0.6.2",
     "typed-scss-modules": "0.0.12",
-    "typescript": "3.6.3"
+    "typescript": "3.7.3"
   },
   "repository": {
     "type": "git",
