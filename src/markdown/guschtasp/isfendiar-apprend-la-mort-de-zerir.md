@@ -4,7 +4,7 @@ image: 'https://source.unsplash.com/bE6jYybsHsw'
 landscape: 'https://source.unsplash.com/bE6jYybsHsw'
 source: tome IV - livre des rois - P. 330
 map: ''
-tags: []
+tags: ['Beschouten', 'Isfendiar', 'Lohrasp', 'Zerir']
 order: '21'
 ---
 
@@ -46,4 +46,4 @@ Isfendiar en était là de sa harangue, lorsqu’on entendit la voix de son pè
 
 > Ô mes grands et mes héros, vous qui m’êtes tous chers comme mon corps et mon âme, ne craignez pas les lances, les flèches et les épées, car aucun de nous ne peut échapper à son sort.
 >
-> Je jure par notre sainte religion, par la vie d’Isfendiar le héros, par l’âme de Zerir, le cavalier généreux, qui vient d’être reçu dans le paradis, que j’ai écrit une lettre à Lohrasp, dans laquelle j’ai promis, au nomdu vieux roi que, si la fortune m’accorde la victoire, je remettrai à Isfendiar la couronne et le trône au moment de mon retour de ce champ de bataille, que je lui donnerai la couronne de la royauté, comme mon père me l’a donnée, que je mettrai toute mon armée sous les ordres de Bischouten, et que je placerai sur sa tête une couronne royale.
+> Je jure par notre sainte religion, par la vie d’Isfendiar le héros, par l’âme de Zerir, le cavalier généreux, qui vient d’être reçu dans le paradis, que j’ai écrit une lettre à Lohrasp, dans laquelle j’ai promis, au nomdu vieux roi que, si la fortune m’accorde la victoire, je remettrai à Isfendiar la couronne et le trône au moment de mon retour de ce champ de bataille, que je lui donnerai la couronne de la royauté, comme mon père me l’a donnée, que je mettrai toute mon armée sous les ordres de Beschouten, et que je placerai sur sa tête une couronne royale.
