@@ -4,7 +4,23 @@ image: 'https://source.unsplash.com/FAq-TtmR_A0'
 landscape: 'https://source.unsplash.com/ec6E029hwMo'
 source: tome IV - livre des rois - P. 332
 map: ''
-tags: []
+tags:
+  [
+    'Ardeschir',
+    'Ardjasp',
+    'Destour',
+    'Div',
+    'Djamasp',
+    'Guschtasp',
+    'Isfendiar',
+    'Keïanide',
+    'Lohrasp',
+    'Nestour',
+    'Perse',
+    'Saturne',
+    'Turcs',
+    'Zerir',
+  ]
 order: '22'
 ---
 
