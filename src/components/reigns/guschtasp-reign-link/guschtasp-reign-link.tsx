@@ -9,7 +9,7 @@ export const GuschtaspReignLink: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 100
-        filter: { fileAbsolutePath: { glob: "**/markdown/02-guschtasp/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/03-guschtasp/*.md" } }
       ) {
         totalCount
         edges {
