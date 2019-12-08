@@ -1,6 +1,6 @@
 import { MarkdownNode, AllMarkdownRemarkResponse, emptyHtmlAst } from '../../../graphql';
 import { EpisodeLink } from '../..';
-import { toHours, toMinutes } from '../../../tools';
+import { toMinutes } from '../../../tools';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
