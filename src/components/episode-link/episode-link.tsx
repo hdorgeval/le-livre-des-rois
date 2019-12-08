@@ -6,6 +6,7 @@ import { Link } from 'gatsby';
 export type EpisodeLinkProps = MarkdownNode & { key: string } & {
   totalCount?: number;
   timeUnit: 'hour' | 'minute';
+  workInProgress?: boolean;
 };
 export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
   excerpt,
@@ -15,6 +16,7 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
   timeToRead,
   totalCount,
   timeUnit,
+  workInProgress,
 }) => {
   const firstHeading = headings[0].value;
   const sanitizedExcerpt = excerpt.replace(firstHeading, '');
@@ -32,6 +34,7 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
               timeToRead > 1 ? 's' : ''
             }`}</span>
             {totalCount && <span>{`, ${totalCount} épisode${totalCount > 1 ? 's' : ''}`}</span>}
+            {workInProgress && <div className={styles.wipRibbon} data-ribbon="in progress"></div>}
           </div>
           <div>{sanitizedExcerpt}</div>
         </div>

@@ -52,6 +52,7 @@ export const KhosrouReignLink: React.FC = () => {
       key="khosrou"
       totalCount={totalNumberOfEpsiodes}
       timeUnit="minute"
+      workInProgress={true}
     />
   );
 };

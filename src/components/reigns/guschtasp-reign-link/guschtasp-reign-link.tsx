@@ -52,6 +52,7 @@ export const GuschtaspReignLink: React.FC = () => {
       key="guschtasp"
       totalCount={totalNumberOfEpsiodes}
       timeUnit="hour"
+      workInProgress={true}
     />
   );
 };
