@@ -4,7 +4,23 @@ image: 'https://source.unsplash.com/FAq-TtmR_A0'
 landscape: 'https://source.unsplash.com/ec6E029hwMo'
 source: tome IV - livre des rois - P. 335
 map: ''
-tags: []
+tags:
+  [
+    'Behzad',
+    'Bidirefsch',
+    'Chine',
+    'Guschtasp',
+    'Isfendiar',
+    'Kaweh',
+    'Keïanide',
+    'Keïanides',
+    'Nestour',
+    'Pehlewan',
+    'Pehlewans',
+    'Turc',
+    'Turcs',
+    'Zerir',
+  ]
 order: '23'
 ---
 

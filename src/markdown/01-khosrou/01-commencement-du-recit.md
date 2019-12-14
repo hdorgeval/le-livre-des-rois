@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/0V7_N62zZcU'
 landscape: 'https://source.unsplash.com/0V7_N62zZcU'
 source: tome II - livre des rois - P. 445
-tags: []
+tags: ['cyprès', 'Dieu', 'Firdousi', 'Keï', 'Khosrou']
 order: '01'
 ---
 

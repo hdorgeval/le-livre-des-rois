@@ -3,7 +3,30 @@ date: ''
 image: 'https://source.unsplash.com/4fwRyKISwfk'
 landscape: 'https://source.unsplash.com/SE24tM-mnug'
 source: tome II - livre des rois - P. 446
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Dieu',
+    'Faramourz',
+    'Gouderz',
+    'Guiv',
+    'Kaboul',
+    'Keïanide',
+    'Keïanides',
+    'Keï',
+    'Khosrou',
+    'Neriman',
+    'Nimrouz',
+    'Pehlewan',
+    'Pehlewans',
+    'Rustem',
+    'Sam',
+    'Siawusch',
+    'Sipehdar',
+    'Thous',
+    'Zal',
+    'Zer',
+  ]
 order: '02'
 ---
 
