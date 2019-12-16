@@ -4,7 +4,19 @@ image: 'https://source.unsplash.com/OwqLxCvoVxI'
 landscape: 'https://source.unsplash.com/OwqLxCvoVxI'
 source: tome IV - livre des rois - P. 339
 map: ''
-tags: []
+tags:
+  [
+    'Balkh',
+    'Chinois',
+    'Iraniens',
+    'Isfendiar',
+    'Keïanide',
+    'Keïanides',
+    'Perses',
+    'Rustem',
+    'Turcs',
+    'Zerir',
+  ]
 order: '25'
 ---
 
