@@ -71,7 +71,7 @@
     "ts-node": "8.5.4",
     "typed-css-modules": "0.6.3",
     "typed-scss-modules": "0.0.12",
-    "typescript": "3.7.3"
+    "typescript": "3.7.4"
   },
   "repository": {
     "type": "git",
