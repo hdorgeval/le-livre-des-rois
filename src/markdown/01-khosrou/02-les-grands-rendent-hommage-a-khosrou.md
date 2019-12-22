@@ -11,8 +11,8 @@ tags:
     'Gouderz',
     'Guiv',
     'Kaboul',
-    'Keïanide',
-    'Keïanides',
+    'Keïanide',
+    'Keïanides',
     'Keï',
     'Khosrou',
     'Neriman',
@@ -34,7 +34,7 @@ order: '02'
 
 Lorsque le roi Keï Khosrou fut monté sur le trône, le monde entier se ressentit de son influence.
 
-Il était assis sur le trône impérial, portant sur la tête la couronne du pouvoir; il dispensait à la terre entière la justice, il arrachait la racine de l’iniquité et tous ceux qui étaient nobles, ou maîtres de diadèmes, ou fils de Keïanides, ou rois, ou puissants seigneurs, ou hommes de haut renom, se réunirent auprès de lui.
+Il était assis sur le trône impérial, portant sur la tête la couronne du pouvoir; il dispensait à la terre entière la justice, il arrachait la racine de l’iniquité et tous ceux qui étaient nobles, ou maîtres de diadèmes, ou fils de Keïanides, ou rois, ou puissants seigneurs, ou hommes de haut renom, se réunirent auprès de lui.
 
 Il n’y eut, sous son règne, personne au monde qui osât se soustraire à sa domination.
 
@@ -42,7 +42,7 @@ Partout où il y avait un lieu désert, il le faisait cultiver; partout où il
 
 Il fit tomber la pluie des nuages du printemps, et purifia la face de la terre de la rouille des soucis; le monde devint beau comme un paradis, et se remplit de richesses par l’effet de sa justice et de sa générosité; le bonheur et la confiance régnèrent, et Ahriman fut impuissant à faire le mal.
 
-Les messagers du roi se rendirent auprès des grands, des princes et des héros; et lorsqu’on sut dans le Nimrouz, à la cour du Sipehdar qui illuminait le monde, que le glorieux Keïanide s’était assis sur le trône du pouvoir, qu’il avait posé son pied sur le firmament de la puissance, Rustem convoqua son armée de tous les points de son royaume, pour aller rendre hommage au roi.
+Les messagers du roi se rendirent auprès des grands, des princes et des héros; et lorsqu’on sut dans le Nimrouz, à la cour du Sipehdar qui illuminait le monde, que le glorieux Keïanide s’était assis sur le trône du pouvoir, qu’il avait posé son pied sur le firmament de la puissance, Rustem convoqua son armée de tous les points de son royaume, pour aller rendre hommage au roi.
 
 Il se dirigea vers la cour de Keï Khosrou, joyeux, entouré d’une grande pompe et accompagné de Zal fils de Sam fils de Neriman, et de tous les grands du pays de Kaboul.
 

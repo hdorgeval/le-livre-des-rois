@@ -13,7 +13,7 @@ tags:
     'Djamasp',
     'Guschtasp',
     'Isfendiar',
-    'Keïanide',
+    'Keïanide',
     'Lohrasp',
     'Nestour',
     'Perse',
@@ -32,7 +32,7 @@ il s’avança, la lance au poing, la tête courbée de honte pour son père, mo
 
 Nestour, le fils de Zerir, le cavalier, sortit de sa tente, se dirigea vers le gardien des chevaux de son père, et lui demanda un cheval reposé, bon coureur, un destrier bondissant, rassasié d’orge;
 
-il plaça sur le dos du cheval une selle d’or, le brida, le caparaçonna, et attacha au crochet de la selle son lacet de Keïanide;
+il plaça sur le dos du cheval une selle d’or, le brida, le caparaçonna, et attacha au crochet de la selle son lacet de Keïanide;
 
 il revêtit sa cuirasse, monta à cheval, et s’avança dans la plaine, la lance en main;
 

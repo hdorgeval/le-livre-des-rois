@@ -12,7 +12,7 @@ tags:
     'Guschtasp',
     'Isfendiar',
     'Kaweh',
-    'Keïanide',
+    'Keïanide',
     'Keïanides',
     'Nestour',
     'Pehlewan',
@@ -60,7 +60,7 @@ Le chef des magiciens le vit et excita son cheval pour se retirer du combat auss
 
 Isfendiar la saisit et en frappa Bidirefsch sur le côté, comme frappent les Pehlewans, et de manière à faire sortir la pointe de l’épée de l’autre côté.
 
-Bidirefsch tomba de son cheval et mourut: il avait été vaincu par le fils du Keïanide.
+Bidirefsch tomba de son cheval et mourut: il avait été vaincu par le fils du Keïanide.
 
 Isfendiar descendit de son destrier, dépouilla le vil magicien de l’armure de l’illustre Zerir, lui sépara la tête du corps, s’empara du cheval de Zerir aux belles couleurs et de son drapeau, et emporta la tête de Bidirefsch.
 

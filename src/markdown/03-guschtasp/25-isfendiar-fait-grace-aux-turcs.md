@@ -10,7 +10,7 @@ tags:
     'Chinois',
     'Iraniens',
     'Isfendiar',
-    'Keïanide',
+    'Keïanide',
     'Keïanides',
     'Perses',
     'Rustem',
@@ -55,7 +55,7 @@ Elles ne dormirent pas de joie pendant toute la nuit, car elles avaient remporte
 Lorsque cette nuit sombre fut passée, le sang s’était écoulé dans la
 plaine et le désert;
 
-l’illustre Keïanide, accompagné des grands de l’armée, alla voir le champ de bataille;
+l’illustre Keïanide, accompagné des grands de l’armée, alla voir le champ de bataille;
 
 il erra parmi tous ces morts;
 
