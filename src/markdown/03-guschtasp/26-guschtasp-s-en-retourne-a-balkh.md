@@ -4,7 +4,29 @@ image: 'https://source.unsplash.com/BzX1lFWJTmw'
 landscape: 'https://source.unsplash.com/BzX1lFWJTmw'
 source: tome IV - livre des rois - P. 341
 map: ''
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Balkh',
+    'Berberistan',
+    'Créateur',
+    'Destour',
+    'Djamasp',
+    'Guschtasp',
+    'Homaï',
+    'Kaisar',
+    'Keïanide',
+    'Keïanides',
+    'Khallakh',
+    'Mobed',
+    'Nestour',
+    'Perses',
+    'Roum',
+    'Seigneur',
+    'Sind',
+    'Sipehbed',
+    'Turcs',
+  ]
 order: '26'
 ---
 
