@@ -3,7 +3,6 @@
     "editor.formatOnSave": true,
     "editor.tabSize": 2,
     "eslint.alwaysShowStatus": true,
-    "eslint.autoFixOnSave": true,
     "eslint.options": {
         "extensions": [".js", ".ts", ".tsx", ".css", ".scss"]
     },
@@ -20,4 +19,7 @@
         }
     ],
     "jest.autoEnable": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
 }
