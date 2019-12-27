@@ -13,7 +13,7 @@ export const Layout: React.FunctionComponent = ({ children }) => (
       <Link to="/about" aria-label="A propos">
         A propos
       </Link>{' '}
-      du livre des rois 2019
+      du livre des rois 2019-2020
     </Footer>
   </div>
 );

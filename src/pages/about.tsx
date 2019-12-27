@@ -35,7 +35,7 @@ export default () => (
           &apos;work in progress&apos; pour une durée indéterminée.
         </p>
         <p>
-          Les contributeurs sont les bienvenus sur la source de ce site situé sur{' '}
+          Les contributeurs sont les bienvenus sur la source de ce site située sur{' '}
           <a
             href="https://github.com/hdorgeval/le-livre-des-rois"
             target="_blank"

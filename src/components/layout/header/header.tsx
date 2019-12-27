@@ -12,7 +12,7 @@ export const Header: React.FC = () => (
       <HomeButton />
       <TagsButton />
       <GenealogiesButton />
-      <GithubButton />
+      {/* <GithubButton /> */}
       <DarkModeToggle />
     </div>
   </header>
