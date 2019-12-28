@@ -15,18 +15,24 @@ export default () => (
           la Bibliothèque Royale par M. Anquetil du Perron en 1762.
         </p>
         <p>
-          Tous les documents dont il est fait référence sur ce site sont issus de la Bibliothèque
-          Nationale de France (
+          Tout le contenu de ce site provient de la Bibliothèque Nationale de France (
           <a href="https://gallica.bnf.fr" target="_blank" rel="noopener noreferrer">
             gallica.bnf.fr
           </a>
-          ) et issus des &nbsp;
+          ) et provient des &nbsp;
           <a
             href="https://www.notesdumontroyal.com/recherche/le+livre+des+rois"
             target="_blank"
             rel="noopener noreferrer"
           >
             Notes du mont Royal
+          </a>
+          .
+        </p>
+        <p>
+          Toutes les photos sont issues de{' '}
+          <a href="https://source.unsplash.com/" target="_blank" rel="noopener noreferrer">
+            unsplash.com
           </a>
           .
         </p>
