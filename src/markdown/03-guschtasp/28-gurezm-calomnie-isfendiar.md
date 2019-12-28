@@ -4,7 +4,19 @@ image: 'https://source.unsplash.com/5otlbgWJlLs'
 landscape: 'https://source.unsplash.com/5otlbgWJlLs'
 source: tome IV - livre des rois - P. 346
 map: ''
-tags: []
+tags:
+  [
+    'Destour',
+    'Djamasp',
+    'Gurezm',
+    'Guschtasp',
+    'Haine',
+    'Iran',
+    'Isfendiar',
+    'Keïanide',
+    'Lohrasp',
+    'Mobed',
+  ]
 order: '28'
 ---
 
@@ -39,7 +51,7 @@ Le roi du monde s’écria:
 >
 > Qui est le maître de ce secret, et quel est ce secret?
 
-Le Keïanide répondit:
+Le Keïanide répondit:
 
 > Ô homme véridique, ce n’est pas le moment de dévoiler ce mystère.
 

@@ -4,7 +4,21 @@ image: 'https://source.unsplash.com/DzpViKMZHe8'
 landscape: 'https://source.unsplash.com/DzpViKMZHe8'
 source: tome IV - livre des rois - P. 343
 map: ''
-tags: []
+tags:
+  [
+    'Dieu',
+    'Ferschidwerd',
+    'Guschtasp',
+    'Isfendiar',
+    'Keïanide',
+    'Khorasan',
+    'Pehlewan',
+    'Roum',
+    'tribut',
+    'Zendavesta',
+    'Zerdouscht',
+    'Zoroastre',
+  ]
 order: '27'
 ---
 
@@ -26,7 +40,7 @@ Le héros qui frappait de l’épée répondit:
 
 > Le commandement est à toi, car tu es le roi et l’Iran t’appartient.
 
-L’illustre Keïanide lui donna une couronne d’or et ouvrit devant lui la porte du trésor; il lui confia tout pouvoir dans l’Iran, car il avait la force d’un vrai Pehlewan; il lui donna un drapeau, des trésors et une armée, en ajoutant:
+L’illustre Keïanide lui donna une couronne d’or et ouvrit devant lui la porte du trésor; il lui confia tout pouvoir dans l’Iran, car il avait la force d’un vrai Pehlewan; il lui donna un drapeau, des trésors et une armée, en ajoutant:
 
 > Il n’est pas encore temps pour toi de t’asseoir sur le trône.
 

@@ -14,7 +14,7 @@ tags:
     'Iran',
     'Kaboul',
     'Kaous',
-    'Keï',
+    'Keï',
     'Khosrou',
     'Lohrasp',
     'Schamane',
@@ -50,7 +50,7 @@ Un des chefs les plus illustres dit à Guschtasp:
 
 > Ô héros à la ceinture d’or!
 >
-> Les astrologues du peuple d’ Iran, tous ceux que nous savons avoir approfondi la science, prononcent sur ton horoscope que tu es un Keï Khosrou, que tu seras assis comme roi sur le trône du pouvoir; mais maintenant que tu vas devenir sujet du roi de l’ Inde, nous ne t’approuvons pas.
+> Les astrologues du peuple d’ Iran, tous ceux que nous savons avoir approfondi la science, prononcent sur ton horoscope que tu es un Keï Khosrou, que tu seras assis comme roi sur le trône du pouvoir; mais maintenant que tu vas devenir sujet du roi de l’ Inde, nous ne t’approuvons pas.
 >
 > Il n’y a pas parmi les siens un adorateur de Dieu, et jamais ils ne s’entendront avec toi.
 >
@@ -90,7 +90,7 @@ Guschtasp répondit :
 
 Les grands partirent avec lui en marchant pompeusement et en caracolant jusqu’au palais du roi, qui fit parer la salle d’audience incrustée de pierreries, placer des tables et apporter du vin bon pour la santé.
 
-On célébra un banquet tel que les étoiles du cercle de la lune pleuvaient sur la salle, et les grands furent ivres à ce point que chacun plaçait sur sa tête une couronne de roses. Lohrasp montra beaucoup de faveur à la famille de Kaous et ne cessa de parler de Keï Khosrou.
+On célébra un banquet tel que les étoiles du cercle de la lune pleuvaient sur la salle, et les grands furent ivres à ce point que chacun plaçait sur sa tête une couronne de roses. Lohrasp montra beaucoup de faveur à la famille de Kaous et ne cessa de parler de Keï Khosrou.
 
 Guschtasp versait de dépit des larmes de sang et tint à son confident des discours de toute sorte, disant :
 

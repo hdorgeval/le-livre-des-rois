@@ -16,7 +16,7 @@ tags:
     'Iraniens',
     'Kaisar',
     'Kaous',
-    'Keï',
+    'Keï',
     'Keïanides',
     'Kitaboun',
     'Lohrasp',
@@ -70,7 +70,7 @@ Alors Zerir lui fit apporter la magnifique couronne impériale, les bracelets, 
 
 Lorsque Guschtasp vit le trône de son père, il monta dessus, le cœur joyeux, et plaça sur sa tète la couronne.
 
-Les petits-fils de Keï Kaous, qui avait été le maître du monde, tous les descendants fortunés de Gouderz, tels que Bahram, Schapour et Rivniz, tous ceux qui avaient une distinction quelconque, lui rendirent hommage comme à leur roi et l’appelèrent roi de la terre, et tous les hommes de guerre se tinrent debout devant lui dans leurs armures.
+Les petits-fils de Keï Kaous, qui avait été le maître du monde, tous les descendants fortunés de Gouderz, tels que Bahram, Schapour et Rivniz, tous ceux qui avaient une distinction quelconque, lui rendirent hommage comme à leur roi et l’appelèrent roi de la terre, et tous les hommes de guerre se tinrent debout devant lui dans leurs armures.
 
 Quand Guschtasp vit ces bonnes dispositions, cette détermination et cet accomplissement de ses désirs, il envoya au Kaisar un message et lui fit dire :
 

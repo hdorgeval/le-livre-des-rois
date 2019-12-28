@@ -18,7 +18,7 @@ tags:
     'Guschtasp',
     'Iraniens',
     'Kaschan',
-    'Keï',
+    'Keï',
     'Keïanide',
     'Keïanides',
     'Khosrou',
@@ -54,11 +54,11 @@ Il dit dans cette lettre royale remplie d’hommages et écrite en caractères t
 >
 > tu as rejeté les coutumes de tes ancêtres, les grands de la terre qui t’ont précédé, tu as détruit la religion des Pehlewans; pourquoi n’as-tu pas regardé devant et derrière toi ?
 >
-> Tu es le fils de celui que le roi bienheureux Keï Khosrou a choisi au milieu de son armée pour lui donner la couronne;
+> Tu es le fils de celui que le roi bienheureux Keï Khosrou a choisi au milieu de son armée pour lui donner la couronne;
 >
 > le Créateur, Ormuzd le tout-puissant, qui a formé le ciel et la terre, t’a choisi parmi ses élus et t’a donné une majesté plus haute qu’au fils de Djemschid.
 >
-> Keï Khosrou le vindicatif et toi avez joui de plus grands honneurs que tous les Keïanides.
+> Keï Khosrou le vindicatif et toi avez joui de plus grands honneurs que tous les Keïanides.
 >
 > Ô prince orgueilleux!
 >

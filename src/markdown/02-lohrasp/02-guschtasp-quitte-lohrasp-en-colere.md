@@ -13,7 +13,7 @@ tags:
     'Gustehem',
     'Inde',
     'Kaous',
-    'Keï',
+    'Keï',
     'Keïanides',
     'Khosrou',
     'Lohrasp',
@@ -33,7 +33,7 @@ Lohrasp avait deux fils, beaux comme deux lunes dignes de la royauté, du trône
 
 ils abattaient les têtes des lions courageux, ils dépassaient leur père en toute science, ils tenaient la première place dans l’armée par leur bravoure;
 
-c’étaient deux princes fiers, dont les traces étaient fortunées, des petits-fils de Keï Kaous, le maître du monde.
+c’étaient deux princes fiers, dont les traces étaient fortunées, des petits-fils de Keï Kaous, le maître du monde.
 
 Ils faisaient la joie de Lohrasp; mais il ne le témoignait pas à Guschtasp, car la tête de celui-ci était pleine de vanité́, et Lohrasp en était inquiet.
 
@@ -41,13 +41,13 @@ Il se passa ainsi beaucoup de temps, et le cœur de Guschtasp s’aigrit contre 
 
 Or il arriva qu’un jour on plaça dans le pays de Fers le trône du roi sous un arbre qui répandait des fleurs; Lohrasp invita quelques grands parmi les chefs de l’armée. Ils demandèrent à table des coupes de vin, et ils mirent de bonne humeur le cœur du roi de la terre; Guschtasp, après avoir bu du vin, se leva et dit :
 
-> Ô roi plein de justice et de droiture, puisse ton règne être heureux, puisse ton nom vivre à jamais! Dieu et Keï Khosrou, le roi juste, t’ont donné le diadème et la ceinture royale.
+> Ô roi plein de justice et de droiture, puisse ton règne être heureux, puisse ton nom vivre à jamais! Dieu et Keï Khosrou, le roi juste, t’ont donné le diadème et la ceinture royale.
 >
 > Moi je suis un esclave devant toi, je suis le serviteur de ton étoile et de ta couronne.
 >
 > Je ne connais personne, parmi les hommes les plus braves, qui oserait se présenter devant moi au jour du combat, si ce n’est Rustem, le cavalier, le fils de Zal fils de Sam, avec lequel personne ne peut se mesurer.
 >
-> Lorsque Keï Khosrou eut conçu des inquiétudes sur toi, il t’a remis le trône et est parti.
+> Lorsque Keï Khosrou eut conçu des inquiétudes sur toi, il t’a remis le trône et est parti.
 >
 > Si maintenant tu veux me donner, à moi qui suis parmi ceux qui sont dignes de régner, le trône et la couronne des Keïanides, je me tiendrai devant toi comme un esclave, ainsi que je le fais aujourd’hui, et je t’appellerai roi.
 
@@ -55,7 +55,7 @@ Lohrasp répondit :
 
 > Ô mon fils prudent, la violence ne sied pas à un prince.
 >
-> Si je te rappelle les dernières paroles de Keï Khosrou, écoute moi et ne détourne pas ta tête de ce qui est juste.
+> Si je te rappelle les dernières paroles de Keï Khosrou, écoute moi et ne détourne pas ta tête de ce qui est juste.
 >
 > Ce roi, distributeur de la justice, m’a dit : Il faut un courant d’ eau dans un jardin printanier ; mais quand l’eau y afflue, que le courant devient fort, tout le jardin est dévasté par lui.
 >
