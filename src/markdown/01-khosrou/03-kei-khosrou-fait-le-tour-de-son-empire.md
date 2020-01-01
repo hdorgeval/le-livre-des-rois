@@ -3,7 +3,28 @@ date: ''
 image: 'https://source.unsplash.com/kfv21yEf-6Y'
 landscape: 'https://source.unsplash.com/kfv21yEf-6Y'
 source: tome II - livre des rois - P. 449
-tags: []
+tags:
+  [
+    'Ader-Abadgan',
+    'Aschkesch',
+    'Bahram',
+    'Bijen',
+    'Créateur',
+    'Dieu',
+    'Feribourz',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Kaous',
+    'Keï',
+    'Khosrou',
+    'Kustehem',
+    'Pehlewan',
+    'Rehham',
+    'Rustem',
+    'Thous',
+    'Zengueh',
+  ]
 order: '03'
 ---
 

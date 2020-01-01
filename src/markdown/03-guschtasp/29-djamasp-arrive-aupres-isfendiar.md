@@ -4,7 +4,8 @@ image: 'https://source.unsplash.com/4i0fc-0yEJ8'
 landscape: 'https://source.unsplash.com/UkO87bTCVac'
 source: tome IV - livre des rois - P. 349
 map: ''
-tags: []
+tags:
+  ['Ader-Afrouz', 'Bahman', 'Destour', 'Div', 'Djamasp', 'Isfendiar', 'Mihri-Nousch', 'Nousch-Ader']
 order: '29'
 ---
 
