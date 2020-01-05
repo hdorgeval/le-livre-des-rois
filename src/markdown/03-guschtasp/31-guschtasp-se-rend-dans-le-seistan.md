@@ -8,9 +8,9 @@ tags: []
 order: '31'
 ---
 
-# Guschtasp se rend dans le Seistan et Ardjasp réunit de nouveau son armée
+# Guschtasp se rend dans le Séistan et Ardjasp réunit de nouveau son armée
 
-Ainsi se passa un long temps pendant lequel le roi se rendit dans le Séistan, pour y introduire le Zendavesta et en prendre pour témoins les Mobeds.
+Ainsi se passa un long temps pendant lequel le roi se rendit dans le Séistan [^1], pour y introduire le Zendavesta et en prendre pour témoins les Mobeds.
 
 Lorsque le roi illustre y arriva, le Pehlewan de l’armée, Rustem, le roi du Nimrouz, le cavalier plein d’expérience, l’égal de Sam, vint à sa rencontre avec son père, le vieux Destan, avec ses grands et tous les chefs de son armée;
 
@@ -29,7 +29,7 @@ Lorsque Bahman eut appris que son père illustre avait été enchainé par ord
 Ces fils du Keïanide arrivèrent comme des lions, et demeurèrent auprès de lui pour l’égayer; ils ne voulurent pas le laisser seul dans sa prison.
 
 Cependant le roi de la Chine fut informé que la lune avait disparu du signe du Sagittaire, que Guschtasp s’était mis en colère contre Isfendiar, qu’il l’avait envoyé ignominieusement en prison et chargé de chaînes, que lui-même était allé de Balkh dans
-le Zaboulistan, qu’il avait traversé le désert et passé le Djihoun, qu’il était établi à Zaboul comme hôte de Zal, et que deux années s’étaient déjà passées ainsi; qu’à Balkh il ne restait des Iraniens et de leur armée que le roi Lohrasp, avec sept cents adorateurs du feu, tous uniquement occupés à prier devant l’autel , qu’ils étaient seuls dans la ville, sans aucun des grands, excepté les gardiens du palais de Homaï̈, et qu’en conséquence il fallait se lever sans aucun retard.
+le Zaboulistan, qu’il avait traversé le désert et passé le Djihoun, qu’il était établi à Zaboul [^2] comme hôte de Zal, et que deux années s’étaient déjà passées ainsi; qu’à Balkh il ne restait des Iraniens et de leur armée que le roi Lohrasp, avec sept cents adorateurs du feu, tous uniquement occupés à prier devant l’autel , qu’ils étaient seuls dans la ville, sans aucun des grands, excepté les gardiens du palais de Homaï̈, et qu’en conséquence il fallait se lever sans aucun retard.
 
 Le maître de Djiguil appela tous ses grands et se prépara à attaquer Lohrasp. Il leur dit:
 
@@ -64,3 +64,6 @@ Il s’en retourna auprès du Khakan, et lui raconta comment il avait appris cel
 Ardjasp fut heureux de ces nouvelles, et se sentit délivré de ses longs soucis; il appela auprès de lui tous les chefs de l’armée, et leur ordonna de partir et de rassembler leurs troupes dispersées.
 
 Tous les héros se mirent en route pour les montagnes et les plaines et pour les pâturages des troupeaux, et rappelèrent auprès du roi son armée, les cavaliers choisis de son empire.
+
+[^1]: Séistan (Segestan) ![seistan](images/seistan.jpg) Extrait d'une carte de la Perse publiée en 1724 qui montre le Séistan et le Zaboulistan (Sablestan).
+[^2]: Zaboul serait la ville de Gazna qui est située à l'occident de Kaboul. ![zaboul](images/zaboul.jpg) Extrait d'une carte de la Perse publiée en 1724 qui montre la partie nord du Zaboulistan.
