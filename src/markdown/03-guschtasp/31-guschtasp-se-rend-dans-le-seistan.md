@@ -4,7 +4,39 @@ image: 'https://source.unsplash.com/xsGApcVbojU'
 landscape: 'https://source.unsplash.com/FNeDH_nWfcQ'
 source: tome IV - livre des rois - P. 354
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Bahman',
+    'Balkh',
+    'Chine',
+    'Destan',
+    'Djiguil',
+    'Djihoun',
+    'Gazna',
+    'Gunbedan',
+    'Guschtasp',
+    'Homaï',
+    'Iraniens',
+    'Isfendiar',
+    'Kaboul',
+    'Keïanide',
+    'Khakan',
+    'Lohrasp',
+    'Mobeds',
+    'Nimrouz',
+    'Pehlewan',
+    'Perse',
+    'Rustem',
+    'Sagittaire',
+    'Sam',
+    'Sutouh',
+    'Séistan',
+    'Zaboul',
+    'Zaboulistan',
+    'Zal',
+    'Zendavesta',
+  ]
 order: '31'
 ---
 
@@ -26,10 +58,10 @@ Mais tous les rois, quelque part qu’ils fussent, apprirent ce que Guschtasp av
 
 Lorsque Bahman eut appris que son père illustre avait été enchainé par ordre du roi, sans avoir commis de faute, lui et ses frères licencièrent leur armée et prirent la longue route de Gunbedan: ils arrivèrent auprès d’Isfendiar.
 
-Ces fils du Keïanide arrivèrent comme des lions, et demeurèrent auprès de lui pour l’égayer; ils ne voulurent pas le laisser seul dans sa prison.
+Ces fils du Keïanide arrivèrent comme des lions, et demeurèrent auprès de lui pour l’égayer; ils ne voulurent pas le laisser seul dans sa prison.
 
 Cependant le roi de la Chine fut informé que la lune avait disparu du signe du Sagittaire, que Guschtasp s’était mis en colère contre Isfendiar, qu’il l’avait envoyé ignominieusement en prison et chargé de chaînes, que lui-même était allé de Balkh dans
-le Zaboulistan, qu’il avait traversé le désert et passé le Djihoun, qu’il était établi à Zaboul [^2] comme hôte de Zal, et que deux années s’étaient déjà passées ainsi; qu’à Balkh il ne restait des Iraniens et de leur armée que le roi Lohrasp, avec sept cents adorateurs du feu, tous uniquement occupés à prier devant l’autel , qu’ils étaient seuls dans la ville, sans aucun des grands, excepté les gardiens du palais de Homaï̈, et qu’en conséquence il fallait se lever sans aucun retard.
+le Zaboulistan, qu’il avait traversé le désert et passé le Djihoun, qu’il était établi à Zaboul [^2] comme hôte de Zal, et que deux années s’étaient déjà passées ainsi; qu’à Balkh il ne restait des Iraniens et de leur armée que le roi Lohrasp, avec sept cents adorateurs du feu, tous uniquement occupés à prier devant l’autel , qu’ils étaient seuls dans la ville, sans aucun des grands, excepté les gardiens du palais de Homaï, et qu’en conséquence il fallait se lever sans aucun retard.
 
 Le maître de Djiguil appela tous ses grands et se prépara à attaquer Lohrasp. Il leur dit:
 

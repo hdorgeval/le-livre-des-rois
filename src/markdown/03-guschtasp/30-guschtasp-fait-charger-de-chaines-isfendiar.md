@@ -4,7 +4,17 @@ image: 'https://source.unsplash.com/5GHpV7ol5uI'
 landscape: 'https://source.unsplash.com/NYcG61957Is'
 source: tome IV - livre des rois - P. 351
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Gunbedan',
+    'Guschtasp',
+    'Isfendiar',
+    'Keïanides',
+    'Mobeds',
+    'Pehlewan',
+    'Sipehbeds',
+    'Zendavesta',
+  ]
 order: '30'
 ---
 
