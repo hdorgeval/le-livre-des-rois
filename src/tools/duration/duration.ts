@@ -4,7 +4,7 @@ export const toHours = (durationInMinutes: number): number => {
     return 1;
   }
 
-  return Math.floor(durationInHours + 1);
+  return Math.round(durationInHours + 1);
 };
 
 export const toMinutes = (durationInMinutes: number): number => {

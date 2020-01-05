@@ -43,7 +43,7 @@ export const GuschtaspReignLink: React.FC = () => {
     fields: {
       slug: '/regne-de-guschtasp/',
     },
-    timeToRead: toHours(timeToRead) * 2,
+    timeToRead: toHours(timeToRead * 2),
     wordCount: { words: 0, paragraphs: 0, sentences: 0 },
   };
   return (
