@@ -3,7 +3,27 @@ date: ''
 image: 'https://source.unsplash.com/EKF89yEbGf8'
 landscape: 'https://source.unsplash.com/DbJR10fEteE'
 source: tome II - livre des rois - P. 451
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Créateur',
+    'Destan',
+    'Dieu',
+    'Feridoun',
+    'Gouderz',
+    'Kaous',
+    'Keï',
+    'Keïanides',
+    'Khosrou',
+    'Pehlewans',
+    'Pehlewi',
+    'Rustem',
+    'Seigneur',
+    'Siawusch',
+    'Thous',
+    'Touran',
+    'Turc',
+  ]
 order: '04'
 ---
 
@@ -17,7 +37,7 @@ Kaous dit à Keï Khosrou:
 
 > Tu trouveras, dans l’Iran, beaucoup de villes saccagées et détruites par sa main.
 >
-> Mais toutes les grâces de Dieu reposent sur toi, tu es puissant, sage et vaillant; la fortune des Keïanides et ta bonne étoile t’ont doué de qualités plus relevées que celles de tous les rois.
+> Mais toutes les grâces de Dieu reposent sur toi, tu es puissant, sage et vaillant; la fortune des Keïanides et ta bonne étoile t’ont doué de qualités plus relevées que celles de tous les rois.
 >
 > Maintenant j’exige de toi un serment solennel et qu’il faut que tu tiennes scrupuleusement.
 >
@@ -37,7 +57,7 @@ Le Destan, Rustem et tous les chefs de l’armée l’attestèrent par le sceau;
 
 Ensuite ils demandèrent des tables et du vin, et formèrent une assemblée joyeuse.
 
-Les grands restèrent sept jours dans le palais de Keî Kaous, écoutant de la musique et buvant du vin.
+Les grands restèrent sept jours dans le palais de Keï Kaous, écoutant de la musique et buvant du vin.
 
 Le huitième jour, le maître du monde se lava la tête et le corps, composa son visage et se rendit au sanctuaire, où il se présenta devant le maître des sphères qui tournent, où il exhala sa piété en adorations.
 

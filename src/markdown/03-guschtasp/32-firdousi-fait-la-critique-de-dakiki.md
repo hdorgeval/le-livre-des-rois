@@ -4,7 +4,7 @@ image: 'https://source.unsplash.com/GsWllROMURg'
 landscape: 'https://source.unsplash.com/O6N9RV2rzX8'
 source: tome IV - livre des rois - P. 357
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags: ['Aboul', 'Dakiki', 'Firdousi', 'Kasim', 'Mahmoud', 'Saturne']
 order: '32'
 ---
 
