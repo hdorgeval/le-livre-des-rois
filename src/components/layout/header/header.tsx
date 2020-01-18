@@ -1,5 +1,4 @@
 import styles from './header.module.scss';
-import { DarkModeToggle } from './dark-mode-toggle/dark-mode-toggle';
 import { HomeButton } from './home-button/home-button';
 import { TagsButton } from './tags-button/tags-button';
 import { GenealogiesButton } from './genealogies-button/genealogies-button';
@@ -12,7 +11,7 @@ export const Header: React.FC = () => (
       <TagsButton />
       <GenealogiesButton />
       {/* <GithubButton /> */}
-      <DarkModeToggle />
+      {/* <DarkModeToggle /> */}
     </div>
   </header>
 );
