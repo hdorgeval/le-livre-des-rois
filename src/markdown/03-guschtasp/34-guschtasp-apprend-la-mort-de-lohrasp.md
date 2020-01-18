@@ -4,7 +4,28 @@ image: 'https://source.unsplash.com/OwqLxCvoVxI'
 landscape: 'https://source.unsplash.com/OwqLxCvoVxI'
 source: tome IV - livre des rois - P. 363
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Balkh',
+    'Beh-Aferid',
+    'Chine',
+    'Ferschidwerd',
+    'Guschtasp',
+    'Homaï',
+    'Iraniens',
+    'Kehrem',
+    'Kender',
+    'Lohrasp',
+    'Nestour',
+    'Nousch-Ader',
+    'Roum',
+    'Séistan',
+    'Touran',
+    'Touraniens',
+    'Turcs',
+    'Zerdouscht',
+  ]
 order: '34'
 ---
 
