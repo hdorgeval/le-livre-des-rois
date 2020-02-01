@@ -13,3 +13,29 @@ Il y avait un Pehlewan, d’une famille de Dihkans, brave et puissant, plein d�
 Il fit venir de chaque province un vieux Mobed, qui avait rassemblé les parties de ce livre; il leur demanda l’origine des rois et des guerriers illustres, et la manière dont ils organisèrent au commencement le monde, qu’ils nous ont transmis dans un état si misérable, et comment, sous une heureuse étoile, ils terminèrent chaque jour une entreprise.
 
 Les grands récitèrent devant lui, l’un après l’autre, les traditions des rois et les vicissitudes du monde. Il écouta leurs discours, et en composa un livre digne de renom. C’est le souvenir qu’il a laissé parmi les hommes, et les grands et les petits célébrèrent ses louanges.
+
+---
+
+![regne-de-khosrou](src/images/regne-lohrasp.jpeg)
+
+[Règne de Keï Khosrou](https://lelivredesrois.netlify.com/regne-de-khosrou/) (`in progress`)
+
+son règne dura 60 ans
+
+---
+
+![regne-de-lohrasp](src/images/regne-lohrasp.jpeg)
+
+[Règne de Lohrasp](https://lelivredesrois.netlify.com/regne-de-lohrasp/)
+
+son règne dura 120 ans
+
+---
+
+![regne-de-guschtasp](src/images/regne-guschtasp.jpeg)
+
+[Règne de Guschtasp](https://lelivredesrois.netlify.com/regne-de-guschtasp/) (`in progress`)
+
+son règne dura 100 ans
+
+---
