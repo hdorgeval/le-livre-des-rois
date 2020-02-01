@@ -28,7 +28,7 @@ Le noble Isfendiar lui répondit:
 
 > Un homme qui prend cette route sans escorte, qui peut-il être?
 >
-> Probablement c’est quelqu’un qui arrive de l’armée d’Iran avec un message pour nous, et mon père aura placé sur sa tête ce casque turc de pour de nos vaillants ennemis.
+> Probablement c’est quelqu’un qui arrive de l’armée d’Iran avec un message pour nous, et mon père aura placé sur sa tête ce casque turc de peur de nos vaillants ennemis.
 
 Nousch-Ader, à ces paroles du Pehlewan, s’en retourna en courant aux remparts du château, et lorsque Djamasp fut tout près sur la route, le prince le reconnut, descendit et annonça à son père que le fortuné Djamasp était devant la porte.
 
