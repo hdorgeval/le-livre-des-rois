@@ -16,7 +16,7 @@ Les grands récitèrent devant lui, l’un après l’autre, les traditions des 
 
 ---
 
-![regne-de-khosrou](src/images/regne-lohrasp.jpeg)
+![regne-de-khosrou](src/images/regne-khosrou.jpeg)
 
 [Règne de Keï Khosrou](https://lelivredesrois.netlify.com/regne-de-khosrou/) (`in progress`)
 
