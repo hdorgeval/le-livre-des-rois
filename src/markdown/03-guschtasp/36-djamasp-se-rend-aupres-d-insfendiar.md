@@ -4,7 +4,31 @@ image: 'https://source.unsplash.com/b5H60hyMIkU'
 landscape: 'https://source.unsplash.com/lk5MYKmGyFE'
 source: tome IV - livre des rois - P. 370
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Ardjasp',
+    'barsom',
+    'Beh-Aferid',
+    'Dieu',
+    'Djamasp',
+    'Ferschidwerd',
+    'Gurezm',
+    'Guschtasp',
+    'Hirbeds',
+    'Homaï',
+    'Iran',
+    'Iraniens',
+    'Isfendiar',
+    'Lohrasp',
+    'Mobeds',
+    'Nousch-Ader',
+    'Pehlewan',
+    'Roum',
+    'Touran',
+    'Turc',
+    'Turcs',
+  ]
 order: '36'
 ---
 

@@ -1,1 +1,1 @@
-export const favorites = ['cyprès', 'tribut'];
+export const favorites = ['cyprès', 'tribut', 'barsom'];
