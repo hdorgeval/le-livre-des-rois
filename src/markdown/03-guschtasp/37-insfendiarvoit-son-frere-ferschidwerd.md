@@ -4,7 +4,29 @@ image: 'https://source.unsplash.com/4Ww3R9KQ0KA'
 landscape: 'https://source.unsplash.com/pLoMDKtl-JY'
 source: tome IV - livre des rois - P. 376
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Ardjasp',
+    'Bahman',
+    'Balkh',
+    'Destour',
+    'Dieu',
+    'Djamasp',
+    'Ferschidwerd',
+    'Gurezm',
+    'Guschtasp',
+    'Iraniens',
+    'Isfendiar',
+    'Juge',
+    'Kehrem',
+    'Lohrasp',
+    'Nousch-Ader',
+    'Pehlewan',
+    'Sipehbed',
+    'Touraniens',
+    'Turcs',
+  ]
 order: '37'
 ---
 
