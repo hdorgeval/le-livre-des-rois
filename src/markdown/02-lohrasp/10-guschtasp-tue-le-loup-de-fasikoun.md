@@ -5,6 +5,7 @@ landscape: 'https://source.unsplash.com/a2zdgkDzFo8'
 source: tome IV - livre des rois - P. 249
 tags:
   [
+    'âme',
     'Créateur',
     'Dieu',
     'Div',

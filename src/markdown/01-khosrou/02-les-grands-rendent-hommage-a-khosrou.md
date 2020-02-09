@@ -6,6 +6,7 @@ source: tome II - livre des rois - P. 446
 tags:
   [
     'Ahriman',
+    'âme',
     'Dieu',
     'Faramourz',
     'Gouderz',

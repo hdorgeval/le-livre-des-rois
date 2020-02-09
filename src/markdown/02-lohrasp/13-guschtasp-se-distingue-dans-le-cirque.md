@@ -3,7 +3,8 @@ date: ''
 image: 'https://source.unsplash.com/ec6E029hwMo'
 landscape: 'https://source.unsplash.com/ec6E029hwMo'
 source: tome IV - livre des rois - P. 265
-tags: ['Ahren', 'Farrukhzad', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun', 'Mirin', 'Roum']
+tags:
+  ['Ahren', 'âme', 'Farrukhzad', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun', 'Mirin', 'Roum']
 order: '13'
 ---
 

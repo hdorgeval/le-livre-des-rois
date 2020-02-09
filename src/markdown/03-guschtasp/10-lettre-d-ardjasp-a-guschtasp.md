@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 296
 map: ''
 tags:
   [
+    'âme',
     'Ardjasp',
     'Bidirefsch',
     'Bélier',

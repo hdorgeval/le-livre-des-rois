@@ -7,6 +7,7 @@ tags:
   [
     'Ahren',
     'Ahriman',
+    'âme',
     'Créateur',
     'Destour',
     'Dieu',

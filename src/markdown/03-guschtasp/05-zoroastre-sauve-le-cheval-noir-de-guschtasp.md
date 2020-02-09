@@ -6,6 +6,7 @@ source: tome II - Vie de Zoroastre - P. 35 (P.175) - Zend-Avesta - Anquetil du P
 map: ''
 tags:
   [
+    'âme',
     'Ciel',
     'Cour',
     'Dieu',

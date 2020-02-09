@@ -5,6 +5,7 @@ landscape: 'https://source.unsplash.com/XA4pd4-cVps'
 source: tome II - Vie de Zoroastre - P. 10 (P.150) - Zend-Avesta - Anquetil du Perron
 tags:
   [
+    'âme',
     'Automne',
     'Ciel',
     'Dews',

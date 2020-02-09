@@ -6,6 +6,7 @@ source: tome II - Vie de Zoroastre - P. 38 (P.178) - Zend-Avesta - Anquetil du P
 map: ''
 tags:
   [
+    'âme',
     'Amschaspand',
     'Ardibehescht',
     'Bahman',

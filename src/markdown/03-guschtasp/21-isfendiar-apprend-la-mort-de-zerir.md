@@ -4,7 +4,7 @@ image: 'https://source.unsplash.com/bE6jYybsHsw'
 landscape: 'https://source.unsplash.com/bE6jYybsHsw'
 source: tome IV - livre des rois - P. 330
 map: ''
-tags: ['Beschouten', 'Isfendiar', 'Lohrasp', 'Zerir']
+tags: ['âme', 'Beschouten', 'Isfendiar', 'Lohrasp', 'Zerir']
 order: '21'
 ---
 

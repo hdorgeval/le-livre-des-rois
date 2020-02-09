@@ -18,7 +18,12 @@ export const Tags: React.FC = () => {
   return (
     <div className={styles.content}>
       {data.allMarkdownRemark.group
-        .sort((a, b) => (a.fieldValue.toLowerCase() >= b.fieldValue.toLowerCase() ? 1 : -1))
+        .sort((a, b) =>
+          a.fieldValue.replace('â', 'a').toLowerCase() >=
+          b.fieldValue.replace('â', 'a').toLowerCase()
+            ? 1
+            : -1,
+        )
         .map((group, index) => {
           return (
             <Tag

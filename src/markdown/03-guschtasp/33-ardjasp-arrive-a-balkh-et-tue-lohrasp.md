@@ -7,6 +7,7 @@ map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
   [
     'Ahrimans',
+    'âme',
     'Ardjasp',
     'Balkh',
     'Créateur',

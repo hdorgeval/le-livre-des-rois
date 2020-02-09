@@ -22,7 +22,7 @@ export const getTagsFrom = (markdownFile: PathLike): string[] => {
     .filter((word) => !noises.includes(word));
 
   const uniqueTags = Array.from(new Set(allTags)).sort((a, b) =>
-    a.toLowerCase() >= b.toLowerCase() ? 1 : -1,
+    a.replace('â', 'a').toLowerCase() >= b.replace('â', 'a').toLowerCase() ? 1 : -1,
   );
 
   return uniqueTags;

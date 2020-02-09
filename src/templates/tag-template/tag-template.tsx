@@ -17,7 +17,7 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
       <div>
         <Title
           text={tag}
-          subtitle={`Tous les articles faisant référence au terme '${tag}'`}
+          subtitle={`Tous les épisodes faisant référence au terme '${tag}'`}
         ></Title>
         <div className={styles.content}>
           {data.allMarkdownRemark.edges

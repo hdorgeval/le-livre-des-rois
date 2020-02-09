@@ -7,6 +7,7 @@ map: ''
 tags:
   [
     'Ahrimans',
+    'âme',
     'Ardeschir',
     'Ardjasp',
     'Balkh',

@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 332
 map: ''
 tags:
   [
+    'âme',
     'Ardeschir',
     'Ardjasp',
     'Destour',

@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 278
 tags:
   [
     'Adergouschasp',
+    'âme',
     'Ardeschir',
     'Bahram',
     'Bijen',

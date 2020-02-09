@@ -5,6 +5,7 @@ landscape: 'https://source.unsplash.com/ohx4v80mJm8'
 source: tome II - Vie de Zoroastre - P. 12 (P.152) - Zend-Avesta - Anquetil du Perron
 tags:
   [
+    'âme',
     'Astre',
     'Astres',
     'Astronome',

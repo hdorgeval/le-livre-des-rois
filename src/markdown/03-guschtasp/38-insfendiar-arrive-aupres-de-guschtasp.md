@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 380
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
   [
+    'âme',
     'Ardjasp',
     'Balkh',
     'Bélier',

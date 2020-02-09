@@ -6,6 +6,7 @@ source: tome II - livre des rois - P. 451
 tags:
   [
     'Afrasiab',
+    'âme',
     'Créateur',
     'Destan',
     'Dieu',

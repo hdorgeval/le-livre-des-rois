@@ -3,7 +3,19 @@ date: ''
 image: 'https://source.unsplash.com/ibKI6M5XZz4'
 landscape: 'https://source.unsplash.com/ipT2Cp4U8bc'
 source: tome IV - livre des rois - P. 243
-tags: ['Dieu', 'Fasikoun', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun', 'Mirin', 'Roum', 'Selm']
+tags:
+  [
+    'âme',
+    'Dieu',
+    'Fasikoun',
+    'Guschtasp',
+    'Heischoui',
+    'Kaisar',
+    'Kitaboun',
+    'Mirin',
+    'Roum',
+    'Selm',
+  ]
 order: '09'
 ---
 
