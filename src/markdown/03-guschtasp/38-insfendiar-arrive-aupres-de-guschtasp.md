@@ -4,7 +4,39 @@ image: 'https://source.unsplash.com/lSXpV8bDeMA'
 landscape: 'https://source.unsplash.com/pLoMDKtl-JY'
 source: tome IV - livre des rois - P. 380
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Balkh',
+    'Bélier',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Div',
+    'Djiguil',
+    'Ferschidwerd',
+    'Gurezm',
+    'Guschtasp',
+    'Iran',
+    'Iraniens',
+    'Isfendiar',
+    'Karen',
+    'Kehrem',
+    'Kender',
+    'Kerdouï',
+    'Kergsar',
+    'Keïanide',
+    'Khakan',
+    'Khallakh',
+    'Lohrasp',
+    'Nestour',
+    'Pehlewan',
+    'Pléiades',
+    'Touran',
+    'Turc',
+    'Turcs',
+    'Zerir',
+  ]
 order: '38'
 ---
 
@@ -94,7 +126,7 @@ Et sur-le-champ il le mit à la tête de l’armée, et lui promit le gouvernem
 
 Lorsque le soleil eut levé son bouclier d’or et que la nuit sombre eut pris, de désespoir, sa tête dans ses mains, qu’elle eut jeté sa tunique couleur de musc et que la face du monde fut devenue brillante comme un rubis, une grande armée sortit de la montagne, conduite par Isfendiar, le vaillant maître du monde.
 
-Lui-même se tenait devant l’armée, une massue à tête de bœuf suspendue à sa selle; le roi Guschtasp au centre, l’âme remplie du désir de se venger d’Ardjasp; Nestour, le fils de Zerir, plein de pensées profondes, devant lequel les lions féroces s’enfuyaient de la forêt, se plaça à l’aile droite; il commandait en chef et veillait à l’ordonnance de ses troupes; enfin Kerdouï, le vaillant, avait l’aile gauche et s’avançait brillant comme le soleil au signe du Bélier.
+Lui-même se tenait devant l’armée, une massue à tête de bœuf suspendue à sa selle; le roi Guschtasp au centre, l’âme remplie du désir de se venger d’Ardjasp; Nestour, le fils de Zerir, plein de pensées profondes, devant lequel les lions féroces s’enfuyaient de la forêt, se plaça à l’aile droite; il commandait en chef et veillait à l’ordonnance de ses troupes; enfin Kerdouï, le vaillant, avait l’aile gauche et s’avançait brillant comme le soleil au signe du Bélier.
 
 De l’autre côté Ardjasp formait ses rangs; les astres ne voyaient plus la plaine, tant il y avait de lances et d’épées sombres, et l’air était rempli de drapeaux de soie brodée.
 
@@ -140,7 +172,7 @@ Il s’avança, un arc royal et une flèche de bois de peuplier à tête d’ac
 
 Quand il fut tout près, il plaça la flèche sur l’arc et la lança contre la poitrine du Pehlewan.
 
-Isfendiar s’affaissa sur la selle pour faire croire à Kergsar que la flèche avait traversé sa cuirasse et avait blessé la poitrine brillante du Keïanide.
+Isfendiar s’affaissa sur la selle pour faire croire à Kergsar que la flèche avait traversé sa cuirasse et avait blessé la poitrine brillante du Keïanide.
 
 Kergsar tira une épée d’acier luisant et voulut trancher la tête à Isfendiar; celui-ci eut peur d’être blessé, détacha du crochet de sa selle son lacet roulé, et le lança, en prononçant le nom de Dieu le créateur, sur le cou de Kergsar; sa tête et son cou furent pris dans le nœud, et Isfendiar jeta par terre son corps tremblant; puis il lui lia les deux mains fortement sur le dos, serra le bout du nœud sur la nuque, enleva Kergsar de devant les rangs des armées et le traîna dans le camp iranien, la bouche couverte. d’une écume sanglante.
 
