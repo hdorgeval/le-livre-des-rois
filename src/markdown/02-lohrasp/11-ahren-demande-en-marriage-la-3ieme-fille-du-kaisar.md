@@ -90,7 +90,7 @@ Ahren, qui cherchait un moyen de salut, se rendit en toute hâte auprès de He
 
 Ensuite il lui dit:
 
-> Ô homme illustre, puissent les âmes nobles ne jamais être affligées! Un jeune et glorieux étranger a donné à Mirin sa vie pour gage, et maintenant, quand il combattra le terrible dragon, il faut espérer qu’il ne périra pas dans cette lutte.
+> Ô homme illustre, puissent les âmes nobles ne jamais être affligées! Un jeune et glorieux étranger a donné à Mirin sa vie pour gage, et maintenant, quand il combattra le terrible dragon, il faut espérer qu’il ne périra pas dans cette lutte.
 >
 > Je ne puis que parler, c’est à lui d’agir; mais c’est toujours quelque chose que de donner de bonnes paroles.
 >

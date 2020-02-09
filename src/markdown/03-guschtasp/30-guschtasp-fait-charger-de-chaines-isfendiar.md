@@ -44,7 +44,7 @@ Le roi leur dit:
 
 Le fils lui dit :
 
-> Ô mon père à l’âme noble! pourquoi désirerais-je ta mort?
+> Ô mon père à l’âme noble! pourquoi désirerais-je ta mort?
 >
 > Je n’ai pas conscience d’une faute que j’aurais commise contre toi pendant toute ma vie; mais tu es le roi, tu es le maître, je t’appartiens, et les chaînes et la prison sont à toi.
 >

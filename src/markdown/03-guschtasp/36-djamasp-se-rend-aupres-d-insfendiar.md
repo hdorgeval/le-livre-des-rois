@@ -117,13 +117,13 @@ Isfendiar répondit:
 
 > J’ai eu tant de frères illustres, et tous ont passé leurs années dans les fêtes et moi dans les fers, sans qu’ils se soient souvenus de moi dans ma misère; et si maintenant je me mettais à livrer bataille, à quoi cela servirait-il, puisque leurs ennemis les ont anéantis?
 
-Quand Djamasp entendit une pareille réponse, son âme fut blessée et remplie d’angoisses; il se leva, le cœur en colère et des larmes de désespoir coulant de ses yeux: il dit:
+Quand Djamasp entendit une pareille réponse, son âme fut blessée et remplie d’angoisses; il se leva, le cœur en colère et des larmes de désespoir coulant de ses yeux: il dit:
 
-> Ô Pehlewan du monde, si troublés que soient ton cœur et ton âme, écoute-moi!
+> Ô Pehlewan du monde, si troublés que soient ton cœur et ton âme, écoute-moi!
 >
 > Que diras-tu du sort de Ferschidwerd, qui a été sans cesse affligé et attristé de tes malheurs, qui, dans les batailles et dans les fêtes, partout où il se trouvait, était rempli de colère et de malédictions contre Gurezm, et que j’ai vu couvert de blessures faites par l’épée, le casque et la cuirasse fendus sur son corps?
 >
-> Mon âme se brise par l’excès de mon désir de te fléchir; aie donc pitié de mes yeux qui brûlent.
+> Mon âme se brise par l’excès de mon désir de te fléchir; aie donc pitié de mes yeux qui brûlent.
 
 A ces paroles de Djamasp sur Ferschidwerd, les joues d’Isfendiar se couvrirent de larmes de sang, son cœur se serra et il s’écria:
 

@@ -83,7 +83,7 @@ Le noble Zerir répondit au Kaisar:
 
 > C’est un esclave qui s’est lassé de sa servitude; il s’est enfui du palais du roi, et maintenant je le trouve dans ce haut rang.
 
-Guschtasp l’écouta sans répondre, sans doute parce qu’il pensait à l’Iran ; mais le Kaisar, en entendant ces paroles du jeune homme, sentit le repos de son âme troublé par des soupçons, et se dit qu’il fallait pourtant que ce discours n’exprimât au fond que la vérité.
+Guschtasp l’écouta sans répondre, sans doute parce qu’il pensait à l’Iran ; mais le Kaisar, en entendant ces paroles du jeune homme, sentit le repos de son âme troublé par des soupçons, et se dit qu’il fallait pourtant que ce discours n’exprimât au fond que la vérité.
 
 Ensuite il reprit :
 

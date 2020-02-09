@@ -48,9 +48,9 @@ Le père, dont le cœur était navré, se leva, le baisa et lui passa la main s
 
 > Grâces soient rendues à Dieu, ô jeune homme, de ce que je t’ai revu, le cœur en joie!
 >
-> Ne m’en veux pas dans ton âme, ne t’indigne pas contre moi, et n’emploie pas ta force à te venger.
+> Ne m’en veux pas dans ton âme, ne t’indigne pas contre moi, et n’emploie pas ta force à te venger.
 >
-> Gurezm, cet homme méchant et de mauvaise nature, a aveuglé mon âme et l’a détournée de mes fils.
+> Gurezm, cet homme méchant et de mauvaise nature, a aveuglé mon âme et l’a détournée de mes fils.
 >
 > Ses mauvaises paroles ont amené le malheur sur lui-même, et ses mauvaises actions ont perdu ce mauvais homme.
 >
@@ -80,7 +80,7 @@ Les grands lui rendirent leurs hommages, s’écriant:
 
 > Tu es notre diadème, tu es le glaive de notre vengeance, nous t’offrons tous notre vie comme gage;
 >
-> Nos âmes sont réjouies de ta vue.
+> Nos âmes sont réjouies de ta vue.
 
 Ils employèrent toute la nuit à mettre en ordre l’armée et à polir leurs cuirasses et leurs épées.
 
@@ -126,7 +126,7 @@ Et sur-le-champ il le mit à la tête de l’armée, et lui promit le gouvernem
 
 Lorsque le soleil eut levé son bouclier d’or et que la nuit sombre eut pris, de désespoir, sa tête dans ses mains, qu’elle eut jeté sa tunique couleur de musc et que la face du monde fut devenue brillante comme un rubis, une grande armée sortit de la montagne, conduite par Isfendiar, le vaillant maître du monde.
 
-Lui-même se tenait devant l’armée, une massue à tête de bœuf suspendue à sa selle; le roi Guschtasp au centre, l’âme remplie du désir de se venger d’Ardjasp; Nestour, le fils de Zerir, plein de pensées profondes, devant lequel les lions féroces s’enfuyaient de la forêt, se plaça à l’aile droite; il commandait en chef et veillait à l’ordonnance de ses troupes; enfin Kerdouï, le vaillant, avait l’aile gauche et s’avançait brillant comme le soleil au signe du Bélier.
+Lui-même se tenait devant l’armée, une massue à tête de bœuf suspendue à sa selle; le roi Guschtasp au centre, l’âme remplie du désir de se venger d’Ardjasp; Nestour, le fils de Zerir, plein de pensées profondes, devant lequel les lions féroces s’enfuyaient de la forêt, se plaça à l’aile droite; il commandait en chef et veillait à l’ordonnance de ses troupes; enfin Kerdouï, le vaillant, avait l’aile gauche et s’avançait brillant comme le soleil au signe du Bélier.
 
 De l’autre côté Ardjasp formait ses rangs; les astres ne voyaient plus la plaine, tant il y avait de lances et d’épées sombres, et l’air était rempli de drapeaux de soie brodée.
 
@@ -136,7 +136,7 @@ Ardjasp, voyant cette masse de cavaliers vaillants et armés de lances, partit e
 
 Il fit amener par les conducteurs des chameaux dix caravanes de dromadaires, et dit en secret à ses grands:
 
-> Si la bataille dure trop longtemps pour nous, si elle ne paraît pas nous apporter la victoire, la gloire et la joie de l’âme, moi et mes intimes nous trouverons moyen de faire notre retraite avec sécurité sur des dromadaires rapides.
+> Si la bataille dure trop longtemps pour nous, si elle ne paraît pas nous apporter la victoire, la gloire et la joie de l’âme, moi et mes intimes nous trouverons moyen de faire notre retraite avec sécurité sur des dromadaires rapides.
 
 Lorsque Isfendiar au milieu des deux armées, semblable à un lion furieux et la bouche écumante, s’ébranla comme le ciel qui tourne, sa massue à tête de bœuf en main, tu aurais dit qu’il remplissait toute la plaine et que sa peau se fendrait, à cause du feu de la colère qui le consumait.
 
@@ -190,7 +190,7 @@ Ensuite il retourna à la bataille et amena toute son armée au combat, en disa
 
 On rapporta à Ardjasp qu’Isfendiar était allé attaquer Kergsar, que l’air était devenu violet du reflet de leurs épées, et que le drapeau à figure de loup avait disparu.
 
-Ce prodige remplit de soucis l’âme d’Ardjasp;
+Ce prodige remplit de soucis l’âme d’Ardjasp;
 
 il demanda un dromadaire et se dirigea vers le désert; lui et ses intimes montés aussi sur des dromadaires partirent en menant leurs chevaux à la main;
 
@@ -224,7 +224,7 @@ Ensuite ce héros, qui ambitionnait la possession du monde, se mit dans l’eau,
 
 Il demanda un vêtement de deuil et se présenta devant le maitre de la justice et de la vérité, et Guschtasp et son fils restèrent respectueusement et en tremblant, pendant une semaine, devant Dieu, le très-saint, en adorant le Créateur, le dispensateur de la justice.
 
-Le huitième jour Isfendiar se montra, et Kergsar s’approcha de son trône, désespérant dans son âme de la douce vie, et le corps tremblant de peur, comme la feuille du saule qu’agite le vent.
+Le huitième jour Isfendiar se montra, et Kergsar s’approcha de son trône, désespérant dans son âme de la douce vie, et le corps tremblant de peur, comme la feuille du saule qu’agite le vent.
 
 Il dit:
 

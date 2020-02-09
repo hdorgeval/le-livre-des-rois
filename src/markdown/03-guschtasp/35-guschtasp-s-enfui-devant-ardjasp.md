@@ -24,7 +24,7 @@ On alluma des feux dans la montagne, et l’on y brûla des épines et des brous
 
 Chacun des grands tua un destrier pour s’en nourrir, et ils se mirent à méditer sur leur position sans issue.
 
-Le roi, plein de grandeur d’âme, se voyant entouré par l’ennemi, prit, de désespoir, sa tête dans ses mains, appela le sage Djamasp, lui parla longuement des astres, et ajouta:
+Le roi, plein de grandeur d’âme, se voyant entouré par l’ennemi, prit, de désespoir, sa tête dans ses mains, appela le sage Djamasp, lui parla longuement des astres, et ajouta:
 
 > Dis-moi ce que tu sais de la rotation du ciel, hâte-toi de l’interroger: il faut absolument que tu me dises ce qui peut me sauver dans ce malheur.
 

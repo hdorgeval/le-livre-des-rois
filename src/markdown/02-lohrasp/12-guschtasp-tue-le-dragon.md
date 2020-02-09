@@ -49,7 +49,7 @@ lui avait accordé ce grand triomphe sur le dragon et sur le vieux loup.
 
 Il s’écria:
 
-> Lohrasp et le noble Zerir étaient fatigués de Guschtasp, corps et âme, et pourtant mon esprit brillant, mon cœur pur et la force de mon bras ont suffi pour abattre un pareil dragon;
+> Lohrasp et le noble Zerir étaient fatigués de Guschtasp, corps et âme, et pourtant mon esprit brillant, mon cœur pur et la force de mon bras ont suffi pour abattre un pareil dragon;
 >
 > mais le sort ne m’a apporté que des soucis et de la misère, et m’a versé du poison au lieu de Thériaque.
 >
@@ -102,6 +102,6 @@ Kaisar et ses conseillers, et l’on donna à Ahren la fille du Kaisar, du cons
 
 Aussitôt que cette foule eut quitté la salle d’audience, le cœur du Kaisar illustre s’épanouit et il dit :
 
-> Ce jour est mon grand jour et le puissant ciel remplit mon âme de joie, car personne dans le monde, parmi les grands et parmi les petits, n’a jamais eu deux gendres comme moi.
+> Ce jour est mon grand jour et le puissant ciel remplit mon âme de joie, car personne dans le monde, parmi les grands et parmi les petits, n’a jamais eu deux gendres comme moi.
 
 Il fit écrire une lettre à tous les princes qui possédaient un trône ou un diadème, pour leur dire que le vaillant dragon et le fier loup étaient tombés sous les coups de deux héros.

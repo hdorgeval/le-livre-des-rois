@@ -38,7 +38,7 @@ Isfendiar monta sur son destrier de Pehlewan, tenant en main une épée indienne
 
 Lorsque ces vaillants cavaliers furent hors des murs du château et dans la plaine, le Sipehbed tourna son visage vers le ciel et dit:
 
-> Ô Juge suprême et véridique! tu es le créateur tout-puissant, tu as rempli de joie l’âme d’Isfendiar.
+> Ô Juge suprême et véridique! tu es le créateur tout-puissant, tu as rempli de joie l’âme d’Isfendiar.
 >
 > Si je suis victorieux dans ce combat, si je puis rendre étroit le monde pour Ardjasp et faire tomber sur lui la vengeance due au roi Lohrasp, à ces vieillards innocents et à mes trente-huit frères qui ont rougi de leur sang la poussière du désert, je m’engage devant toi, le maître de la justice, à ne pas me venger de mon père pour les fers dont il m’a chargé.
 >

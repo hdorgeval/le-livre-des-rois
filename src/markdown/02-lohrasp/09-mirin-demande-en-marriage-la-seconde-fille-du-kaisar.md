@@ -50,7 +50,7 @@ Heischoui lui dit :
 >
 > L’homme que tu m’as indiqué est un homme illustre, et porte haut la tête; toute la journée il ne s’occupe que de la chasse, et ne pense pas au trône du roi de l’Occident.
 >
-> Hier il n’est pas venu chez moi et n’a pas réjoui mon âme par sa présence, mais il va sans doute diriger ici ses pas aussitôt qu’il reviendra de la chasse.
+> Hier il n’est pas venu chez moi et n’a pas réjoui mon âme par sa présence, mais il va sans doute diriger ici ses pas aussitôt qu’il reviendra de la chasse.
 
 Il apporta du vin et ils se mirent à boire, assis au milieu de parfums et de fleurs, les coupes d’or en main; lorsqu’ils eurent vidé quatre coupes de vin, le vaillant cavalier parut dans la plaine.
 
@@ -106,7 +106,7 @@ Lorsque le soleil eut déchiré sa chemise couleur de suie et fut sorti de son
 
 Guschtasp, de son côté, revint de la chasse et se dirigea vers eux; Heischoui, qui était aux aguets, le vit, et lui et Mirin allèrent à sa rencontre, étonnés de la force de son cheval et de la grandeur de son épée.
 
-Guschtasp regarda les présents de Mirin, choisit parmi le tout le cheval et l’épée, donna le reste à Heischoui et réjouit l’âme de cet homme ambitieux.
+Guschtasp regarda les présents de Mirin, choisit parmi le tout le cheval et l’épée, donna le reste à Heischoui et réjouit l’âme de cet homme ambitieux.
 
 Il se revêtit rapidement de la cotte de mailles, monta sur le cheval de bataille, banda son arc, suspendit le lacet au crochet de la selle, et le cavalier qui portait haut la tête, et son cheval noir, étaient prêts.
 

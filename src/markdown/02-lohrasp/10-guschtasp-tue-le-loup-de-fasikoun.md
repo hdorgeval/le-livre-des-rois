@@ -39,7 +39,7 @@ Guschtasp s’approcha de la forêt, son cœur avide de combats devint soucieux
 
 > Ô Dieu!
 >
-> le très-saint, le nourricier de tous les êtres, toi qui diriges la rotation du sort, viens à mon aide dans ce danger, aie pitié de l’âme du vieux Lohrasp.
+> le très-saint, le nourricier de tous les êtres, toi qui diriges la rotation du sort, viens à mon aide dans ce danger, aie pitié de l’âme du vieux Lohrasp.
 >
 > Si ce puissant dragon, que les hommes dépourvus de sens appellent un loup, parvient à me vaincre, mon père, quand il le saura, poussera des cris et en perdra le sommeil; il restera dans l’excès de sa douleur comme un insensé, errant partout, poussant des cris et cherchant mes traces; et si je m’enfuis, effrayé par cette bête méchante, j’aurai à voiler ma tête de honte devant la foule.
 
@@ -81,7 +81,7 @@ Guschtasp dit à Heischoui :
 >
 > A le voir, on dirait que c’est un éléphant énorme et qui remplit toute la forêt par sa largeur et sa longueur.
 
-Tous les deux se rendirent à la forêt en courant, heureux de ces paroles et l’âme tranquille.
+Tous les deux se rendirent à la forêt en courant, heureux de ces paroles et l’âme tranquille.
 
 Ils y aperçurent un loup grand comme un éléphant, avec des griffes de lion , et de la couleur d’un crocodile, fendu en deux d’un seul coup: depuis la tête jusqu’au milieu du corps, comme si l’on avait taillé deux lions dans une seule peau.
 
@@ -97,7 +97,7 @@ Il lui répondit:
 
 > Ô toi dont les joues ressemblent à la lune, écoute-moi!
 >
-> Sache, mon âme, qu’il est venu une compagnie d’hommes riches de mon pays, et quelques-uns de mes parents m’ont fait présent de cette cotte de mailles, de cette épée et de ce casque en prenant congé de moi.
+> Sache, mon âme, qu’il est venu une compagnie d’hommes riches de mon pays, et quelques-uns de mes parents m’ont fait présent de cette cotte de mailles, de cette épée et de ce casque en prenant congé de moi.
 
 Kitaboun apporta du vin parfumé comme de l’eau de roses, et en but avec son mari jusqu’à ce qu’il fût temps de dormir.
 

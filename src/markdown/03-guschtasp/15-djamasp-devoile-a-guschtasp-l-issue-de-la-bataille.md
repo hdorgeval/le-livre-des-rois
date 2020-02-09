@@ -49,7 +49,7 @@ Ayant quitté Balkh la glorieuse et étant arrivés sur le Djihoun, le roi et
 
 Guschtasp sortit du camp, descendit de cheval et monta sur un trône;
 
-il fit appeler l’illustre Djamasp, son guide spirituel, le chef des Mobeds, le roi des nobles, le flambeau des grands et des Sipehbeds, un homme d’un corps si pur et d’une âme si sainte que l’avenir était ouvert pour lui;
+il fit appeler l’illustre Djamasp, son guide spirituel, le chef des Mobeds, le roi des nobles, le flambeau des grands et des Sipehbeds, un homme d’un corps si pur et d’une âme si sainte que l’avenir était ouvert pour lui;
 
 il était grand astrologue et avait atteint le premier rang en sagesse et en savoir.
 
@@ -71,7 +71,7 @@ Ces questions affligèrent le vieux Djamasp, et il répondit à Guschtasp d�
 
 Le roi lui dit:
 
-> Je jure par le nom de Dieu, par le nom du saint qui nous a apporté la vraie foi, par la vie de Zerir, le vaillant cavalier, par l’âme du noble Isfendiar, que jamais je ne te ferai de mal, que jamais je n’ordonnerai à d’autres de t’en faire, que tu n’auras rien à craindre de moi. Dis tout ce que tu vois, car tu connais des moyens de salut, et moi je les cherche.
+> Je jure par le nom de Dieu, par le nom du saint qui nous a apporté la vraie foi, par la vie de Zerir, le vaillant cavalier, par l’âme du noble Isfendiar, que jamais je ne te ferai de mal, que jamais je n’ordonnerai à d’autres de t’en faire, que tu n’auras rien à craindre de moi. Dis tout ce que tu vois, car tu connais des moyens de salut, et moi je les cherche.
 
 Le sage répondit:
 

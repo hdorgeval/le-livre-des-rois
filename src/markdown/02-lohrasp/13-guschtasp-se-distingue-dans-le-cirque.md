@@ -51,7 +51,7 @@ Le Kaisar regarda cet homme qui portait haut la tête , il regarda ses mains , 
 >
 > Appelez-le pour que je lui demande qui il est, si c’est un ange ou un homme comme nous?
 
-On appela Guschtasp devant le Kaisar, dont l’âme soupçonneuse tremblait;
+On appela Guschtasp devant le Kaisar, dont l’âme soupçonneuse tremblait;
 
 il prodigua à Guschtasp les noms de vaillant cavalier, chef des braves, diadème sur le front des grands, et lui adressa des questions sur sa patrie, son nom et sa famille.
 

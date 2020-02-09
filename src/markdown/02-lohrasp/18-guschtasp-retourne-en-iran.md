@@ -130,4 +130,4 @@ Guschtasp lui dit:
 >
 > L’empire du monde n’appartient longtemps à personne, et tant qu’on le possède il accable de fatigue.
 
-Tel est le monde instable! Ne sème pas la graine du mal, autant que tu peux t’en empêcher. Je prie le Seigneur, Dieu l’unique, de me laisser assez longtemps sur la terre pour que j’achève dans mon beau langage ce livre des anciens rois; ensuite mon corps qui a été vivant appartiendra à la poussière et mon âme éloquente au saint paradis.
+Tel est le monde instable! Ne sème pas la graine du mal, autant que tu peux t’en empêcher. Je prie le Seigneur, Dieu l’unique, de me laisser assez longtemps sur la terre pour que j’achève dans mon beau langage ce livre des anciens rois; ensuite mon corps qui a été vivant appartiendra à la poussière et mon âme éloquente au saint paradis.
