@@ -118,6 +118,7 @@ export const noises = [
   'Hé',
   'Hélas',
   'Hélas',
+  'Heureux',
   'Hier',
   'Histoire',
   'Histoires',

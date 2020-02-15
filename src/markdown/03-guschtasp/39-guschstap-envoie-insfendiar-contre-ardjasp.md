@@ -4,7 +4,19 @@ image: 'https://source.unsplash.com/0yNyDD2myzk'
 landscape: 'https://source.unsplash.com/Pox6wp5imgs'
 source: tome IV - livre des rois - P. 389
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Créateur',
+    'Dieu',
+    'Ferschidwerd',
+    'Guschtasp',
+    'Isfendiar',
+    'Lohrasp',
+    'Mobed',
+    'Touran',
+    'Turcs',
+  ]
 order: '39'
 ---
 
