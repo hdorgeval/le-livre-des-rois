@@ -143,7 +143,7 @@ Ormuzd lui dit:
 >
 > Sachez que le mal ne vient que d’Ahriman, ainsi que les mauvaises actions & les mauvaises pensées.
 >
-> La punition qui attend le pécheur est aux Enfers: les insensés mentent, lorsqu'ils disent qué je fais le mal.
+> La punition qui attend le pécheur est aux Enfers: les insensés mentent, lorsqu'ils disent que je fais le mal.
 
 Zoroastre pria Ormuzd de lui donner l’immortalité, pour qu'il pût confirmer les hommes de tous les siècles dans la pratique de la Loi.
 
