@@ -35,6 +35,7 @@ tags:
     'Prince',
     'Prophète',
     'Roi',
+    'résurrection',
     'Saints',
     'Sciences',
     'Sujets',

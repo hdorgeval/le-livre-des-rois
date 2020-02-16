@@ -63,6 +63,7 @@ tags:
     'Poroschasp',
     'Pyrée',
     'Roi',
+    'résurrection',
     'Schahriver',
     'Sectateurs',
     'Soleil',
@@ -148,7 +149,7 @@ Zoroastre pria Ormuzd de lui donner l’immortalité, pour qu'il pût confirmer 
 
 Mais Ormuzd lui répondit:
 
-> Si je vous rends immortel, le corps du Dew Tourberatorsch le sera aussi ; & alors il n'y aura pas de résurrection.
+> Si je vous rends immortel, le corps du Dew Tourberatorsch le sera aussi ; & alors il n'y aura pas de résurrection.
 >
 > Si je vous accordais l’immortalité, vous me demanderiez vous-même la mort.
 
@@ -156,7 +157,7 @@ Ormuzd lui présenta en même temps quelque chose de semblable à du miel;
 
 Zoroastre le mangea, & vit comme en songe les cœurs & les pensées des hommes à découvert.
 
-Ormuzd lui montra tous les évènements depuis le premier homme jusqu’à la résurrection, & ce qui devait arriver dans le dernier mille du Monde.
+Ormuzd lui montra tous les évènements depuis le premier homme jusqu’à la résurrection, & ce qui devait arriver dans le dernier mille du Monde.
 
 A la vue des maux & des crimes qui allaient désoler la Terre, Zoroastre consentit à ne pas être immortel.
 
