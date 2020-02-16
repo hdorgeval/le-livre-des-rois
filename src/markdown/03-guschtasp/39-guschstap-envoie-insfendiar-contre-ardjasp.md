@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 389
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
   [
+    'âme',
     'Ardjasp',
     'Créateur',
     'Dieu',
@@ -42,7 +43,7 @@ Isfendiar lui répondit:
 >
 > Je suis esclave devant mon père, et ce n’est pas la royauté que je recherche.
 >
-> Que mon corps et mon âme te soient garants que je ne désire pas ton trône et ton pouvoir.
+> Que mon corps et mon âme te soient garants que je ne désire pas ton trône et ton pouvoir.
 >
 > Je partirai, je me vengerai de nouveau d’Ardjasp , je détruirai tout le pays de Touran.
 >
