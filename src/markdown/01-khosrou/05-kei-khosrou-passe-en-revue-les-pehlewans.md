@@ -3,7 +3,41 @@ date: ''
 image: 'https://source.unsplash.com/Mw00TR34O2c'
 landscape: 'https://source.unsplash.com/Mw00TR34O2c'
 source: tome II - livre des rois - P. 455
-tags: []
+tags:
+  [
+    'Barteh',
+    'Berzin',
+    'Bélier',
+    'Destour',
+    'Dieu',
+    'Ferhad',
+    'Feribourz',
+    'Gouderz',
+    'Gourazeh',
+    'Gourguin',
+    'Guejdehem',
+    'Kaous',
+    'Kaweh',
+    'Keschwad',
+    'Keï',
+    'Keïanides',
+    'Khosrou',
+    'Kustehem',
+    'Milad',
+    'Mobed',
+    'Mobeds',
+    'Newder',
+    'Pehlewans',
+    'Pescheng',
+    'Poissons',
+    'Sipehbed',
+    'Sipehbeds',
+    'Tewabeh',
+    'Thous',
+    'Touran',
+    'Vierge',
+    'Zerasp',
+  ]
 order: '05'
 ---
 
@@ -15,7 +49,7 @@ Il tint fermée pendant deux semaines la porte des audiences, et prépara une no
 
 On dressa d’abord la liste des membres de la famille de Kaous, qui comprenait cent vingt Sipehbeds sous le commandement de Feribourz fils de Kaous et oncle du jeune roi.
 
-Ensuite on inscrivit quatre-vingts descendants de Newder, tous armés de massues, tous vaillants guerriers, dont le chef était le Sipehbed Zerasp, qui s’occupait en toute chose de leur bien-être; c’était le plus glorieux des Keïanides, le fils de Thous maître de la massue, de l’épée et des timbales, qui portait le drapeau de Kaweh et rendait brillants le trône et la fortune des Keïanides.
+Ensuite on inscrivit quatre-vingts descendants de Newder, tous armés de massues, tous vaillants guerriers, dont le chef était le Sipehbed Zerasp, qui s’occupait en toute chose de leur bien-être; c’était le plus glorieux des Keïanides, le fils de Thous maître de la massue, de l’épée et des timbales, qui portait le drapeau de Kaweh et rendait brillants le trône et la fortune des Keïanides.
 
 Ensuite venait Gouderz fils de Keschwad, dont les conseils maintenaient l’ordre dans l’armée; il avait soixante et dix-huit fils ou petits-fils, tous cavaliers vaillants dans la montagne et léopards bondissants dans la plaine.
 
