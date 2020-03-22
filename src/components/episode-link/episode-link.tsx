@@ -4,8 +4,9 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 export type EpisodeLinkProps = MarkdownNode & { key: string } & {
-  totalCount?: number;
+  overallCount?: number;
   timeUnit: 'hour' | 'minute';
+  totalCount?: number;
   workInProgress?: boolean;
 };
 export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
@@ -13,13 +14,15 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
   fields,
   frontmatter,
   headings,
+  overallCount,
   timeToRead,
-  totalCount,
   timeUnit,
+  totalCount,
   workInProgress,
 }) => {
   const firstHeading = headings[0].value;
   const sanitizedExcerpt = excerpt.replace(firstHeading, '');
+  const progress = Math.floor((Number(totalCount) / Number(overallCount)) * 100);
 
   return (
     <Link to={fields.slug} aria-label={firstHeading}>
@@ -34,7 +37,12 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
               timeToRead > 1 ? 's' : ''
             }`}</span>
             {totalCount && <span>{`, ${totalCount} épisode${totalCount > 1 ? 's' : ''}`}</span>}
-            {workInProgress && <div className={styles.wipRibbon} data-ribbon="in progress"></div>}
+            {workInProgress && (
+              <div
+                className={styles.wipRibbon}
+                data-ribbon={overallCount ? 'in progress (' + progress + '%)' : 'in progress'}
+              ></div>
+            )}
           </div>
           <div>{sanitizedExcerpt}</div>
         </div>
