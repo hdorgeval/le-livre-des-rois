@@ -20,7 +20,7 @@ tags:
     'Sassanides',
     'Yezdegerd',
   ]
-order: '4'
+order: '3'
 ---
 
 # Les dynasties du livre des rois
