@@ -4,7 +4,23 @@ image: 'https://source.unsplash.com/AJgvCKLWO8o'
 landscape: 'https://source.unsplash.com/AJgvCKLWO8o'
 source: tome IV - livre des rois - P. 393
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Ahrimans',
+    'Ardjasp',
+    'Balkh',
+    'Beschouten',
+    'Dieu',
+    'Dihkan',
+    'Guschtasp',
+    'Isfendiar',
+    'Juge',
+    'Kergsar',
+    'Keïanide',
+    'magicienne',
+    'Station',
+    'Touran',
+  ]
 order: '41'
 ---
 
@@ -80,7 +96,7 @@ Kergsar répondit:
 >
 > Deux loups viendront t’attaquer d’abord, un mâle et une femelle, chacun semblable à un éléphant terrible; ils portent sur la tête des cornes comme des cerfs et sont avides de combattre des lions; ils ont des défenses comme des éléphants furieux, des poitrines et des membres larges et des flancs maigres.
 
-Isfendiar ordonna alors qu’on ramenât le malheureux dans sa tente chargé de ses chaînes; il fit préparer une fête et plaça sur sa tête son diadème de Keïanide.
+Isfendiar ordonna alors qu’on ramenât le malheureux dans sa tente chargé de ses chaînes; il fit préparer une fête et plaça sur sa tête son diadème de Keïanide.
 
 Lorsque la couronne du soleil descendit vers l’horizon et que le ciel dévoila à la terre ses secrets, le bruit des timbales s’éleva de la porte, la terre se couvrit de fer, le ciel devint couleur d’ébène.
 
