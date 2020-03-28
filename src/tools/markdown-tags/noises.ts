@@ -56,6 +56,7 @@ export const noises = [
   'Chaque',
   'Chien',
   'Choisis',
+  'Cinquième',
   'Combat',
   'Combien',
   'Comme',

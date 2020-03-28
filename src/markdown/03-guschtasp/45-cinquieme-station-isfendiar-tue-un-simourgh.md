@@ -4,11 +4,25 @@ image: 'https://source.unsplash.com/AJgvCKLWO8o'
 landscape: 'https://source.unsplash.com/AJgvCKLWO8o'
 source: tome IV - livre des rois - P. 408
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Beschouten',
+    'Créateur',
+    'Dieu',
+    'Iraniens',
+    'Isfendiar',
+    'Juge',
+    'Kergsar',
+    'magicienne',
+    'Pléiades',
+    'Simourgh',
+    'Station',
+    'Turc',
+  ]
 order: '45'
 ---
 
-# Cinquème Station - Isfendiar tue un Simourgh
+# Cinquième Station - Isfendiar tue un Simourgh
 
 Le prince, qui ambitionnait la possession du monde, se présenta devant le Créateur, et resta longtemps le front prosterné contre terre; ensuite il fit dresser ses tentes dans la forêt, et l’on couvrit une table de tout ce qui était nécessaire.
 
