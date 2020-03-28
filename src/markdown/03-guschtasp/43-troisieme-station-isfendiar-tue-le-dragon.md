@@ -4,7 +4,18 @@ image: 'https://source.unsplash.com/AJgvCKLWO8o'
 landscape: 'https://source.unsplash.com/AJgvCKLWO8o'
 source: tome IV - livre des rois - P. 400
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Beschouten',
+    'Bélier',
+    'Dieu',
+    'Isfendiar',
+    'Kaboul',
+    'Kergsar',
+    'Schoulek',
+    'Station',
+  ]
 order: '43'
 ---
 

@@ -4,7 +4,24 @@ image: 'https://source.unsplash.com/AJgvCKLWO8o'
 landscape: 'https://source.unsplash.com/AJgvCKLWO8o'
 source: tome IV - livre des rois - P. 404
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags:
+  [
+    'âme',
+    'Beschouten',
+    'Bélier',
+    'Chine',
+    'Créateur',
+    'cyprès',
+    'Dieu',
+    'Ghoul',
+    'Guschtasp',
+    'Isfendiar',
+    'Kergsar',
+    'magicienne',
+    'Péri',
+    'Station',
+    'Zerdouscht',
+  ]
 order: '44'
 ---
 
