@@ -4,7 +4,7 @@ image: 'https://source.unsplash.com/AJgvCKLWO8o'
 landscape: 'https://source.unsplash.com/AJgvCKLWO8o'
 source: tome IV - livre des rois - P. 398
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: []
+tags: ['Beschouten', 'Dieu', 'Isfendiar', 'Kergsar', 'Sipehbed', 'Station', 'Turc']
 order: '42'
 ---
 

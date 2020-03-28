@@ -253,6 +253,7 @@ export const noises = [
   'S’il',
   'Sache',
   'Sachez',
+  'Seconde',
   'Selon',
   'Serviteur',
   'Ses',
