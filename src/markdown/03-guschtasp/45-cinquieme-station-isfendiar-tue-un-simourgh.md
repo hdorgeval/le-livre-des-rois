@@ -60,7 +60,7 @@ Kergsar lui répondit:
 
 Le héros au cœur puissant sourit et dit:
 
-> Ô prodige! je lui clouerai les deux épaules avec les pointes de mes flèches, je lui fendrai la poitrine avec mon empesé indienne, je ferai rouler dans la poussière sa tête si haute.
+> Ô prodige! je lui clouerai les deux épaules avec les pointes de mes flèches, je lui fendrai la poitrine avec mon épée indienne, je ferai rouler dans la poussière sa tête si haute.
 
 Lorsque le soleil brillant baissa et que son dos pesa sur le couchant, le chef des braves mit en marche l’armée, en réfléchissant sur ce qu’il avait entendu dire du simourgh.
 
