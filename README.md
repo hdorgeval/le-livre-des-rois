@@ -1,4 +1,4 @@
-# [Le Livre des Rois](https://lelivredesrois.netlify.com/)
+# [Le Livre des Rois](https://www.lelivredesrois.com/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ce361110-8082-440c-938a-267a21d43f05/deploy-status)](https://app.netlify.com/sites/lelivredesrois/deploys)
 
@@ -18,7 +18,7 @@ Les grands récitèrent devant lui, l’un après l’autre, les traditions des 
 
 ![regne-de-khosrou](src/images/regne-khosrou.jpeg)
 
-[Règne de Keï Khosrou](https://lelivredesrois.netlify.com/regne-de-khosrou/) (`in progress`)
+[Règne de Keï Khosrou](https://www.lelivredesrois.com/regne-de-khosrou/) (`in progress`)
 
 son règne dura 60 ans
 
@@ -26,7 +26,7 @@ son règne dura 60 ans
 
 ![regne-de-lohrasp](src/images/regne-lohrasp.jpeg)
 
-[Règne de Lohrasp](https://lelivredesrois.netlify.com/regne-de-lohrasp/)
+[Règne de Lohrasp](https://www.lelivredesrois.com/regne-de-lohrasp/)
 
 son règne dura 120 ans
 
@@ -34,7 +34,7 @@ son règne dura 120 ans
 
 ![regne-de-guschtasp](src/images/regne-guschtasp.jpeg)
 
-[Règne de Guschtasp](https://lelivredesrois.netlify.com/regne-de-guschtasp/) (`in progress`)
+[Règne de Guschtasp](https://www.lelivredesrois.com/regne-de-guschtasp/) (`in progress`)
 
 son règne dura 100 ans
 
