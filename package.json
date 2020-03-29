@@ -42,7 +42,7 @@
     "react": "16.13.1",
     "react-dom": "16.13.1",
     "react-helmet": "5.2.1",
-    "unist-util-visit": "2.0.1"
+    "unist-util-visit": "2.0.2"
   },
   "devDependencies": {
     "@types/jest": "25.1.1",
