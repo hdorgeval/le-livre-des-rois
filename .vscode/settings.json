@@ -6,6 +6,7 @@
     "eslint.options": {
         "extensions": [".js", ".ts", ".tsx", ".css", ".scss"]
     },
+    "eslint.codeActionsOnSave.mode": "all",
     "eslint.validate": [
         "javascript",
         "javascriptreact",
