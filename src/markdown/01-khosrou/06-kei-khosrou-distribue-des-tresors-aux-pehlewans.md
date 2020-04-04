@@ -3,7 +3,34 @@ date: ''
 image: 'https://source.unsplash.com/4jLj-GdRn_A'
 landscape: 'https://source.unsplash.com/4jLj-GdRn_A'
 source: tome II - livre des rois - P. 457
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Bijen',
+    'Créateur',
+    'cyprès',
+    'Dieu',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Ispenoui',
+    'Kaschroud',
+    'Kasehroud',
+    'Keï',
+    'Khosrou',
+    'Milad',
+    'Mobed',
+    'Palaschan',
+    'Pehlewan',
+    'Pehlewans',
+    'Péri',
+    'Roum',
+    'Siawusch',
+    'Sipehbed',
+    'Tejaou',
+    'Touran',
+  ]
 order: '06'
 ---
 
