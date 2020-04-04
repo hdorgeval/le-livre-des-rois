@@ -3,7 +3,12 @@ date: ''
 image: 'https://source.unsplash.com/AJgvCKLWO8o'
 landscape: 'https://source.unsplash.com/AJgvCKLWO8o'
 source: tome IV - livre des rois - P. 411
-map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
+maps:
+  [
+    'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom',
+    https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
+    https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
+  ]
 tags: []
 order: '46'
 ---
