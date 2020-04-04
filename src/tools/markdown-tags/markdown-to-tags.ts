@@ -31,8 +31,6 @@ export const getTagsFrom = (markdownFile: PathLike): string[] => {
 export const setTagsIn = (markdownFile: PathLike): void => {
   const markdownContent = readAllLinesInFile(markdownFile);
   const tags = getTagsFrom(markdownFile);
-  const updatedMardownContent = updateFrontmatter('tags')
-    .in(markdownContent)
-    .withValues(tags);
+  const updatedMardownContent = updateFrontmatter('tags').in(markdownContent).withValues(tags);
   writeFileSync(markdownFile, updatedMardownContent.join(EOL));
 };

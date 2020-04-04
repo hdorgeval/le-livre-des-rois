@@ -10,9 +10,7 @@ test('Should update tag section in frontmatter when this section is multi lines'
   const tags = getTagsFrom(markdownFile);
 
   // When
-  const result = updateFrontmatter('tags')
-    .in(markdownContent)
-    .withValues(tags);
+  const result = updateFrontmatter('tags').in(markdownContent).withValues(tags);
 
   // Then
   expect(result.length).toBe(35);
