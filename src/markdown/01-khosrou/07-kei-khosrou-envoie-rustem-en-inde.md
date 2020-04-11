@@ -3,7 +3,23 @@ date: ''
 image: 'https://source.unsplash.com/YBuv4pFV8yw'
 landscape: 'https://source.unsplash.com/YBuv4pFV8yw'
 source: tome II - livre des rois - P. 463
-tags: []
+tags:
+  [
+    'Faramourz',
+    'Inde',
+    'Kaous',
+    'Keï',
+    'Khosrou',
+    'Minoutchehr',
+    'Pehlewan',
+    'Rustem',
+    'Tour',
+    'Touran',
+    'tribut',
+    'Turcs',
+    'Zaboulistan',
+    'Zewareh',
+  ]
 order: '07'
 ---
 

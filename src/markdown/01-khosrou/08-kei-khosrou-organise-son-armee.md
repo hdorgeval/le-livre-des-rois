@@ -3,7 +3,48 @@ date: ''
 image: 'https://source.unsplash.com/K0fUP7N6XBY'
 landscape: 'https://source.unsplash.com/K0fUP7N6XBY'
 source: tome II - livre des rois - P. 464
-tags: []
+tags:
+  [
+    'âme',
+    'Aschkesch',
+    'Baghdad',
+    'Beloudjistan',
+    'Cutch',
+    'Dieu',
+    'Faramourz',
+    'Ferhad',
+    'Feribourz',
+    'Feridoun',
+    'Gouderz',
+    'Gourazeh',
+    'Guejdehem',
+    'Guiv',
+    'Kaboul',
+    'Kanoudj',
+    'Kaschmir',
+    'Keschwad',
+    'Keï',
+    'Khosrou',
+    'Kobad',
+    'Kustehem',
+    'Neriman',
+    'Nimrouz',
+    'Nourouz',
+    'Rehham',
+    'Rustem',
+    'Sam',
+    'Saturne',
+    'Schaweran',
+    'Schidousch',
+    'Selm',
+    'Seïstan',
+    'Soghd',
+    'Thous',
+    'Tour',
+    'Touran',
+    'Zal',
+    'Zengueh',
+  ]
 order: '08'
 ---
 
