@@ -23,10 +23,9 @@ Le roi ayant posé la coupe sur le dos de son éléphant de guerre, jeta la bal
 
 la terre devint noire et le ciel s’obscurcit sous cette masse d’épées, de massues, de timbales et de poussière: on aurait dit que le soleil était pris dans un lacet, ou que la voûte du ciel était couverte d’eau.
 
-L’œil du spectateur distinguait les rênes brillantes des chevaux, et le ciel et les étoiles voyaient de près
-les pointes des lances;
+L’œil du spectateur distinguait les rênes brillantes des chevaux, et le ciel et les étoiles voyaient de près les pointes des lances;
 
-quand l’armée défila, escadron par escadron, tu aurais dit que c’étaient des vagues que jetait la mer.
+Quand l’armée défila, escadron par escadron, tu aurais dit que c’étaient des vagues que jetait la mer.
 
 On porta, du palais dans la plaine, les tentes du roi, et la voûte du ciel fut ébranlée par le bruit des armes.
 
