@@ -9,7 +9,7 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags: ['âme', 'Ardjasp', 'Dieu', 'Guschtasp', 'Homaï', 'Isfendiar', 'Kharrad', 'Mobed', 'Pehlewan']
 order: '49'
 ---
 
