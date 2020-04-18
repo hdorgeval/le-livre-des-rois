@@ -12,7 +12,7 @@ export default () => (
         <p>
           L&apos; objectif est de transcrire l&apos;oeuvre de Firdousi au format Markdown de façon à
           la rendre vivante et à pouvoir l&apos;enrichir de récits connexes tels que ceux apportés à
-          la Bibliothèque Royale par M. Anquetil du Perron en 1762.
+          la Bibliothèque Royale par Anquetil du Perron en 1762.
         </p>
         <p>
           Tout le contenu de ce site provient de la Bibliothèque Nationale de France (
