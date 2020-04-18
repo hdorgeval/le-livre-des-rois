@@ -35,7 +35,7 @@ Ardjasp revêtit sa cotte de mailles et se frotta longuement les mains; il ordon
 
 Le fier Tharkhan partit sur-le-champ vers le front attaqué de la forteresse, accompagné d’un interprète.
 
-Il vit des troupes couvertes de cuirasses, armées pour la guerre, et un drapeau noir avec une ligure de léopard; le Sipehbed Beschouten se trouvait au centre de ces troupes, qui toutes avaient lavé leurs mains dans le Sang; il tenait la massue d’Isfendiar et était monté sur un destrier renommé; il avait tout l’air du vaillant Isfendiar, et personne ne l’appelait autrement que roi d’ Iran.
+Il vit des troupes couvertes de cuirasses, armées pour la guerre, et un drapeau noir avec une figure de léopard; le Sipehbed Beschouten se trouvait au centre de ces troupes, qui toutes avaient lavé leurs mains dans le Sang; il tenait la massue d’Isfendiar et était monté sur un destrier renommé; il avait tout l’air du vaillant Isfendiar, et personne ne l’appelait autrement que roi d’ Iran.
 
 Il étendit les deux ailes de son armée et le jour brillant disparut; les lances aux pointes d’acier donnaient des coups tels qu’on aurait dit qu’une pluie de sang tombait du ciel.
 
