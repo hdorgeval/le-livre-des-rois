@@ -45,7 +45,7 @@ Il remit à Thous, devant les braves, un sceau, le nomma leur chef et leur guid
 >
 > Ne passe dans aucun cas par Kelat, car si tu prends ce chemin, tu en souffriras.
 >
-> Puissent les mânes de Siawusch briller comme le soleil! puisse l’autre monde être pour lui un séjour plein d’espérance! Il a en un fils de la fille de Piran, qui d’après les ordres de son père ne s’est montré que rarement parmi les hommes.
+> Puissent les mânes de Siawusch briller comme le soleil! puisse l’autre monde être pour lui un séjour plein d’espérance! Il a eu un fils de la fille de Piran, qui d’après les ordres de son père ne s’est montré que rarement parmi les hommes.
 >
 > C’est mon frère, il me ressemble beaucoup, il est jeune, né dans la même année que moi, et a été élevé dans le bonheur.
 >
