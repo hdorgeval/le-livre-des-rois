@@ -3,7 +3,29 @@ date: ''
 image: 'https://source.unsplash.com/N8fapqDIc-4'
 landscape: 'https://source.unsplash.com/D1IS5s5O9xo'
 source: tome II - livre des rois - P. 472
-tags: []
+tags:
+  [
+    'âme',
+    'Bélier',
+    'Djerem',
+    'Gouderz',
+    'Guezdehem',
+    'Kaweh',
+    'Kelat',
+    'Keï',
+    'Khosrou',
+    'L’étendard',
+    'Minoutchehr',
+    'Mobeds',
+    'Newder',
+    'Piran',
+    'Rustem',
+    'Siawusch',
+    'Sipehbed',
+    'Sipehdar',
+    'Thous',
+    'Turcs',
+  ]
 order: '10'
 ---
 

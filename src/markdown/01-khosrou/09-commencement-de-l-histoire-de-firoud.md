@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/3GWLv30smng'
 landscape: 'https://source.unsplash.com/pxFtN74Djb4'
 source: tome II - livre des rois - P. 472
-tags: []
+tags: ['Firoud', 'Siawusch']
 order: '09'
 ---
 

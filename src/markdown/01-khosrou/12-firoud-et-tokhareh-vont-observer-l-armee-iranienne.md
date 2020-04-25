@@ -3,7 +3,35 @@ date: ''
 image: 'https://source.unsplash.com/tk6q5WJopZ0'
 landscape: 'https://source.unsplash.com/Pe1Ol9oLc4o'
 source: tome II - livre des rois - P. 480
-tags: []
+tags:
+  [
+    'Bahram',
+    'Bijen',
+    'Chine',
+    'Destour',
+    'Ferhad',
+    'Feribourz',
+    'Firoud',
+    'Gouderz',
+    'Gourazeh',
+    'Guejdehem',
+    'Guiv',
+    'Iraniens',
+    'Kaous',
+    'Keschwad',
+    'Kustehem',
+    'Madjin',
+    'Nestouh',
+    'Rivniz',
+    'Schaweran',
+    'Schidousch',
+    'Sipehbed',
+    'Sipehdar',
+    'Thous',
+    'Tokhareh',
+    'Turcs',
+    'Zengueh',
+  ]
 order: '12'
 ---
 

@@ -3,7 +3,31 @@ date: ''
 image: 'https://source.unsplash.com/Pe1Ol9oLc4o'
 landscape: 'https://source.unsplash.com/Pe1Ol9oLc4o'
 source: tome II - livre des rois - P. 476
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Bahram',
+    'Djerem',
+    'Djerireh',
+    'Firoud',
+    'Gang',
+    'Iraniens',
+    'Kelat',
+    'Keï',
+    'Keïanides',
+    'Khosrou',
+    'Meyem',
+    'Piran',
+    'Roum',
+    'Schaweran',
+    'Siawusch',
+    'Siped',
+    'Thous',
+    'Tokhareh',
+    'Touran',
+    'Zengueh',
+  ]
 order: '11'
 ---
 
