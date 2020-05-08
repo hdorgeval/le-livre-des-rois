@@ -37,7 +37,7 @@ Le roi répondit à son fils:
 >
 > Pars donc pour le Séistan, et emploies-y la ruse, la force et les stratagèmes;
 >
-> Tire ton épée, brandis ta massue, amène prisonnier Rustem, fils de Zal, avec Zewareh et Faramourz, et ne permets à aucun d’un de monter à cheval.
+> Tire ton épée, brandis ta massue, amène prisonnier Rustem, fils de Zal, avec Zewareh et Faramourz, et ne permets à aucun d’eux de monter à cheval.
 >
 > Je jure par le Maître du monde, le distributeur de la justice, de qui vient toute force, qui a allumé les astres, la lune et le soleil, que, quand tu auras accompli tout cela, je ne te disputerai-plus rien, que je te donnerai le trésor, le trône et l’armée, que je te placerai sur le trône la couronne sur la tête.
 
