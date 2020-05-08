@@ -1,5 +1,5 @@
 ---
-date: '9KYXQdsnxSY'
+date: ''
 image: 'https://source.unsplash.com/FAq-TtmR_A0'
 landscape: 'https://www.christies.com/media-library/images/features/articles/2015/04/09/astrolabes/mainimage.jpg'
 source: tome IV - livre des rois - P. 451

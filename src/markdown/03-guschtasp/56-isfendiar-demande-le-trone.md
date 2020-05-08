@@ -1,5 +1,5 @@
 ---
-date: '9KYXQdsnxSY'
+date: ''
 image: 'https://source.unsplash.com/_EoxKxrDL20'
 landscape: 'https://source.unsplash.com/_EoxKxrDL20'
 source: tome IV - livre des rois - P. 455

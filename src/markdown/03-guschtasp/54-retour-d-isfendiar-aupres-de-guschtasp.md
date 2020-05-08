@@ -1,5 +1,5 @@
 ---
-date: '9KYXQdsnxSY'
+date: ''
 image: 'https://source.unsplash.com/qSzBVbkGGEw'
 landscape: 'https://source.unsplash.com/BzX1lFWJTmw'
 source: tome IV - livre des rois - P. 446
