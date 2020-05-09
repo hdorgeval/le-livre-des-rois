@@ -3,7 +3,36 @@ date: ''
 image: 'https://source.unsplash.com/JMdgknOnV4c'
 landscape: 'https://source.unsplash.com/F8uyQGQlNp8'
 source: tome II - livre des rois - P. 484
-tags: []
+tags:
+  [
+    'Bahram',
+    'cyprès',
+    'Dieu',
+    'Ferhad',
+    'Feribourz',
+    'Firoud',
+    'Gouderz',
+    'Gourazeh',
+    'Gourguin',
+    'Guiv',
+    'Iran',
+    'Kaweh',
+    'Khosrou',
+    'Kobad',
+    'Kustehem',
+    'Newder',
+    'Pehlewan',
+    'Rehham',
+    'Schaweran',
+    'Schidousch',
+    'Siawusch',
+    'Sipehbed',
+    'Sipehdar',
+    'Thous',
+    'Tokhareh',
+    'Touran',
+    'Zengueh',
+  ]
 order: '13'
 ---
 

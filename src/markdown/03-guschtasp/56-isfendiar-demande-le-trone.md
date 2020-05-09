@@ -9,7 +9,26 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Balkh',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Djamasp',
+    'Ferschidwerd',
+    'Gunbedan',
+    'Gurezm',
+    'Guschtasp',
+    'Isfendiar',
+    'Lohrasp',
+    'Mobeds',
+    'Sipehbeds',
+    'Touran',
+    'Turcs',
+    'Zaboulistan',
+  ]
 order: '56'
 ---
 

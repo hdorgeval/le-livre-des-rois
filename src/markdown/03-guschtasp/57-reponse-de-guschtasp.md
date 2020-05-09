@@ -9,7 +9,42 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'Bost',
+    'Chine',
+    'Créateur',
+    'Destan',
+    'Dieu',
+    'Div',
+    'Faramourz',
+    'Ghaznin',
+    'Guschtasp',
+    'Hamaveran',
+    'Iblis',
+    'Isfendiar',
+    'Kaboul',
+    'Kaous',
+    'Keï',
+    'Keïanide',
+    'Khallakh',
+    'Khosrou',
+    'Kobad',
+    'Minoutchehr',
+    'Perses',
+    'Raksch',
+    'Roumains',
+    'Rustem',
+    'Sam',
+    'Sari',
+    'Siawusch',
+    'Sipehbed',
+    'Séistan',
+    'Touraniens',
+    'Zaboulistan',
+    'Zal',
+    'Zewareh',
+  ]
 order: '57'
 ---
 
@@ -29,7 +64,7 @@ Le roi répondit à son fils:
 >
 > Sa bravoure l’élève au-dessus du ciel, et il ne se reconnaît le sujet de personne.
 >
-> Il se tenait devant Kaous le Keïanide comme un esclave; il a vécu par la grâce de Keï Khosrou;
+> Il se tenait devant Kaous le Keïanide comme un esclave; il a vécu par la grâce de Keï Khosrou;
 >
 > Mais il parle de la royauté de Guschtasp en disant que la couronne de Guschtasp est nouvelle et la sienne ancienne.
 >

@@ -9,7 +9,25 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'Ardjasp',
+    'Destan',
+    'Dieu',
+    'Djamasp',
+    'Iraniens',
+    'Isfendiar',
+    'Kaboul',
+    'Kaisar',
+    'Keïanides',
+    'Kitaboun',
+    'Lohrasp',
+    'Rustem',
+    'Serosch',
+    'Sipehbed',
+    'Zaboulistan',
+    'Zerir',
+  ]
 order: '55'
 ---
 
@@ -58,7 +76,7 @@ Isfendiar ne parut plus devant le roi;
 
 Il resta chez lui, s’amusant et buvant du vin; pendant deux jours et deux nuits il but du vin pur, et calma son cœur par la présence de femmes au visage de lune.
 
-Le troisième jour, le roi fut averti que son fils convoitait la possession du trône, que son cœur était obsédé de soucis, et que le trône et la couronne des Keïanides étaient son unique désir.
+Le troisième jour, le roi fut averti que son fils convoitait la possession du trône, que son cœur était obsédé de soucis, et que le trône et la couronne des Keïanides étaient son unique désir.
 
 Le roi appela sur-le-champ Djamasp et les astrologues de Lohrasp, qui arrivèrent portant dans leurs bras leurs tables astronomiques.
 
