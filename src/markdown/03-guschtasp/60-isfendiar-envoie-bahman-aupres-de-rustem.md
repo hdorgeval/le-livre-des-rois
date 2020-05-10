@@ -9,7 +9,39 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'âme',
+    'Ardjasp',
+    'Bahman',
+    'Beschouten',
+    'Chine',
+    'Créateur',
+    'Destan',
+    'Dieu',
+    'Div',
+    'Djemschid',
+    'Faramourz',
+    'Feridoun',
+    'Guschtasp',
+    'Houscheng',
+    'Isfendiar',
+    'Keï',
+    'Kobad',
+    'Lohrasp',
+    'Mobeds',
+    'Pehlewan',
+    'Roudabeh',
+    'Roum',
+    'Rustem',
+    'résurrection',
+    'Sam',
+    'Touran',
+    'Zaboulistan',
+    'Zerir',
+    'Zewareh',
+    'Zohak',
+  ]
 order: '60'
 ---
 
@@ -47,7 +79,7 @@ Isfendiar fit venir Bahman devant lui et lui parla longuement, disant:
 > >
 > > Tu ne t’es pas présenté à sa cour comme un serviteur; tu ne donnes plus à personne le titre de roi.
 > >
-> > Mais depuis Houscheng, Djemschid et le vaillant Feridoun, qui a enlevé l’empire à la race de Zohak, et en descendant jusqu’à Keï-Kobad, qui a placé sur sa tête la couronne de Feridoun, le trône n’a été occupé par aucun roi aussi propre aux combats et aux festins, aux conseils et à la chasse, que Guschtasp.
+> > Mais depuis Houscheng, Djemschid et le vaillant Feridoun, qui a enlevé l’empire à la race de Zohak, et en descendant jusqu’à Keï Kobad, qui a placé sur sa tête la couronne de Feridoun, le trône n’a été occupé par aucun roi aussi propre aux combats et aux festins, aux conseils et à la chasse, que Guschtasp.
 > >
 > > Il a adopté la foi pure, il a anéanti l’injustice et l’erreur;
 > >
