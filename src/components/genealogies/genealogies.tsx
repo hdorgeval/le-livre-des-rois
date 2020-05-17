@@ -8,7 +8,6 @@ import { GenealogyArdjasp } from './genealogy-ardjasp/genealogy-ardjasp';
 import { GenealogyDjamasp } from './genealogy-djamasp/genealogy-djamasp';
 import { GenealogyKhosrou } from './genealogy-khosrou/genealogy-khosrou';
 import { GenealogyRustem } from './genealogy-rustem/genealogy-rustem';
-import { GenealogyZal } from './genealogy-zal/genealogy-zal';
 import React from 'react';
 export const Genealogies: React.FC = () => {
   return (
@@ -21,7 +20,6 @@ export const Genealogies: React.FC = () => {
       <GenealogyNewder />
       <GenealogyRustem />
       <GenealogySelm />
-      <GenealogyZal />
       <GenealogyZoroastre />
     </div>
   );
