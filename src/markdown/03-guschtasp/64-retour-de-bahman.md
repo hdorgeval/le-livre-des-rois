@@ -9,7 +9,24 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'Bahman',
+    'Beschouten',
+    'Destan',
+    'Faramourz',
+    'Hirmend',
+    'Isfendiar',
+    'Kaous',
+    'Mobeds',
+    'Pehlewan',
+    'Roudabeh',
+    'Rustem',
+    'Tehemten',
+    'Zaboulistan',
+    'Zal',
+    'Zewareh',
+  ]
 order: '64'
 ---
 
