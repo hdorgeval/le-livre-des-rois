@@ -19,7 +19,7 @@ Isfendiar écouta ces paroles de Rustem, il se mit à sourire et son cœur s’
 
 > J’ai entendu parler de toutes les douleurs et de tous les soucis que tu as éprouvés pendant tes travaux et tes combats;
 >
-> Ecoute maintenant le récit de ce que j’ai fait, et comment je me suis élevé au-dessus de tous ceux qui portent haut la tète.
+> Ecoute maintenant le récit de ce que j’ai fait, et comment je me suis élevé au-dessus de tous ceux qui portent haut la tête.
 >
 > J’ai pris d’abord les armes pour défendre la foi, et j’ai délivré le monde des adorateurs des idoles dans des combats tels que personne ne voyait plus la face du monde, et que la terre avait disparu sous les morts.
 >
