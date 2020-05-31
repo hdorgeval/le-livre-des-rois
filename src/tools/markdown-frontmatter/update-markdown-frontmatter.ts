@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/explicit-module-boundary-types */
 export const updateFrontmatter = (key: string) => {
   return {
     in: (markdownContent: string[]) => {

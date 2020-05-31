@@ -2,7 +2,7 @@ import { setTagsIn } from './markdown-to-tags';
 import { getFilesInDirectory, getDirectoriesRecursivelyIn } from '../fs';
 import { PathLike } from 'fs';
 
-export const setTagsOfMarkdownFilesIn = (rootDirectory: PathLike) => {
+export const setTagsOfMarkdownFilesIn = (rootDirectory: PathLike): void => {
   const directories = getDirectoriesRecursivelyIn(rootDirectory).takeAll();
   directories.forEach((directory) => {
     const files = getFilesInDirectory(directory, (path) => path.endsWith('.md'));

@@ -2,6 +2,7 @@ import styles from './tags.module.scss';
 import { Layout, Title, Tags, SEO } from '../components';
 import React from 'react';
 
+// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
     <SEO

@@ -19,6 +19,7 @@ const codeNodeWithClassNameFilter = (className: string) => (node: HtmlAST): bool
     Array.isArray(node.children)
   );
 };
+// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export const extractCodeFrom = (ast: HtmlAST) => {
   let code: string | undefined = undefined;
   return {
