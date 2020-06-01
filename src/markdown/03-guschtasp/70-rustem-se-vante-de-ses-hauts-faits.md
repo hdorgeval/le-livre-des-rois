@@ -21,7 +21,7 @@ Rustem répondit à Isfendiar:
 >
 > Sois juste envers moi, et écoute un vieillard couvert de gloire.
 >
-> Si je n’étais pas allé dans le Mazenderan, portant sur mon épaule ma lourde massue, là ou le roi, Gouderz et Thous étaient prisonniers, et où le chagrin avait rendu trouble l’œil du coq, qui aurait arraché le cœur au Div blanc et répandu sa cervelle, qui pouvait espérer faire cela par la force de son bras?
+> Si je n’étais pas allé dans le Mazenderan [^1], portant sur mon épaule ma lourde massue, là ou le roi, Gouderz et Thous étaient prisonniers, et où le chagrin avait rendu trouble l’œil du coq, qui aurait arraché le cœur au Div blanc et répandu sa cervelle, qui pouvait espérer faire cela par la force de son bras?
 >
 > Je l’ai délivré de ses lourdes chaînes et l’ai porté sur son trône;
 >
@@ -112,3 +112,5 @@ Rustem sourit et dit à Isfendiar:
 > Ensuite je me ceindrai comme un esclave, comme je me suis ceint devant les Keïanides, j’arracherai du jardin de mon cœur toute mauvaise herbe;
 >
 > Mon corps sera rajeuni par la joie, et quand tu seras roi et moi ton Pehlewan, il n’y aura personne qui ne soit transporté de joie.
+
+[^1]: Carte du Mazenderan ![Mazenderan](images/mazenderan.jpg)
