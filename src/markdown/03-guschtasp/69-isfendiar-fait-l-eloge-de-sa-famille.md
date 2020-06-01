@@ -9,7 +9,35 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'âme',
+    'Ardjasp',
+    'Awrend',
+    'Chine',
+    'Dieu',
+    'Divs',
+    'Djamasp',
+    'Feridoun',
+    'Gurezm',
+    'Guschtasp',
+    'Iraniens',
+    'Isfendiar',
+    'Kaisar',
+    'Keï',
+    'Keïanides',
+    'Kobad',
+    'Lohrasp',
+    'Peschin',
+    'Roum',
+    'Rustem',
+    'Schah',
+    'Selm',
+    'Tour',
+    'Touran',
+    'Turcs',
+    'Zerdouscht',
+  ]
 order: '69'
 ---
 

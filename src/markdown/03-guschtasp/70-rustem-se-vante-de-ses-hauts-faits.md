@@ -9,7 +9,32 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Chine',
+    'Dieu',
+    'Div',
+    'Gouderz',
+    'Guschtasp',
+    'Hamaveran',
+    'Iran',
+    'Isfendiar',
+    'Kaous',
+    'Keï',
+    'Keïanides',
+    'Khosrou',
+    'Kobad',
+    'Lohrasp',
+    'Mazenderan',
+    'Pehlewan',
+    'Raksch',
+    'Rustem',
+    'Siawusch',
+    'Sipehbed',
+    'Thous',
+    'Zal',
+  ]
 order: '70'
 ---
 
@@ -25,7 +50,7 @@ Rustem répondit à Isfendiar:
 >
 > Je l’ai délivré de ses lourdes chaînes et l’ai porté sur son trône;
 >
-> L’Iran était heureux sous lui, et la fortune le favorisait;
+> L'Iran était heureux sous lui, et la fortune le favorisait;
 >
 > J’ai tranché la tête aux magiciens, et ils n’ont eu ni cercueil, ni tombe, ni linceul.
 >
@@ -33,11 +58,11 @@ Rustem répondit à Isfendiar:
 >
 > Ensuite, quand Kaous fut allé dans le Hamaveran, et qu’on eut lié ses pieds de lourdes chaînes, j’y ai mené une armée d’Iraniens, tirée de tout lieu où il y avait un prince ou un chef; j’ai tué dans le combat le roi du Hamaveran, j’ai rendu vide son trône illustre.
 >
-> Kaous, le maître du monde, était enchaîné, il était abattu par les fatigues et les soucis, et Afrasiab pendant ce temps avait envahi l’Iran, et le monde était rempli de tristesse et de maux infligés par les méchants.
+> Kaous, le maître du monde, était enchaîné, il était abattu par les fatigues et les soucis, et Afrasiab pendant ce temps avait envahi l'Iran, et le monde était rempli de tristesse et de maux infligés par les méchants.
 >
-> Pendant une nuit sombre, j’ai devancé tout seul l’armée, car je cherchais la gloire et non pas le repos, et lorsque Afrasiab vit mon drapeau brillant, que son oreille fut frappée du hennissement de Raksch, il quitta l’Iran, s’enfuit vers la Chine, et la justice régna dans le monde, qui était plein de bénédictions.
+> Pendant une nuit sombre, j’ai devancé tout seul l’armée, car je cherchais la gloire et non pas le repos, et lorsque Afrasiab vit mon drapeau brillant, que son oreille fut frappée du hennissement de Raksch, il quitta l'Iran, s’enfuit vers la Chine, et la justice régna dans le monde, qui était plein de bénédictions.
 >
-> Si le sang avait coulé des membres de Kaous, comment Siawusch serait-il né de lui? alors Keï Khosrou n’aurait pu être mis au monde par sa sainte mère, lui qui a placé la couronne sur la tête de Lohrasp.
+> Si le sang avait coulé des membres de Kaous, comment Siawusch serait-il né de lui? alors Keï Khosrou n’aurait pu être mis au monde par sa sainte mère, lui qui a placé la couronne sur la tête de Lohrasp.
 >
 > Comment peux-tu te targuer de cette couronne de Lohrasp, et du collier et du trône de Guschtasp, qui ose dire:
 >
@@ -47,7 +72,7 @@ Rustem répondit à Isfendiar:
 >
 > Et si j’étais un autre homme, où seraient votre couronne, votre collier et votre trône d’ivoire?
 >
-> Tu es un Pehlewan nouveau dans le monde, avec des manières nouvelles, tu es fils de Keï Khosrou;
+> Tu es un Pehlewan nouveau dans le monde, avec des manières nouvelles, tu es fils de Keï Khosrou;
 >
 > Mais, depuis mon enfance jusqu’à ma vieillesse, personne n’a osé me parler comme toi.
 >
@@ -101,7 +126,7 @@ Rustem sourit et dit à Isfendiar:
 >
 > Alors, ô fortuné Isfendiar, tu verras ce que sont les luttes et les chances d’un combat.
 >
-> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
+> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
 >
 > J’ouvrirai la porte de mon trésor, je placerai devant toi, dans sa magnificence, tout ce que je possède de précieux, je mettrai ton armée au-dessus de tout besoin, j’élèverai ton casque jusque dans les nues.
 >

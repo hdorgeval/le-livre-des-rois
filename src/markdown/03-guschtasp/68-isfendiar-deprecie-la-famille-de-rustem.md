@@ -9,7 +9,46 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Arjeng',
+    'Aulad',
+    'Bid',
+    'Chine',
+    'cyprès',
+    'Destan',
+    'Div',
+    'Divs',
+    'Djihoun',
+    'Feridoun',
+    'Ghandi',
+    'Hamaveran',
+    'Houscheng',
+    'Isfendiar',
+    'Kaous',
+    'Keriman',
+    'Keï',
+    'Keïanides',
+    'Khosrou',
+    'Mazenderan',
+    'Mihrab',
+    'Mobeds',
+    'Neriman',
+    'Pehlewan',
+    'Rustem',
+    'Sam',
+    'Sendjeh',
+    'Simourgh',
+    'Sind',
+    'Sohrab',
+    'Séistan',
+    'Thous',
+    'Touran',
+    'Zal',
+    'Zohak',
+  ]
 order: '68'
 ---
 
