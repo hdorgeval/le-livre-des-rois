@@ -104,7 +104,7 @@ Le cœur de Kergsar se gonfla de sang, son esprit et sa langue débordèrent de 
 Le roi s’irrita de ces paroles; il s’élança contre le malheureux Kergsar, le frappa sur la tête avec son épée indienne, et le fendit en deux depuis le crâne jusqu’à la poitrine. On le jeta sur-le-champ dans l’eau, et le corps de cet homme haineux devint la proie des poissons.
 
 Ensuite Isfendiar monta sur son destrier et revêtit son armure, encore tout en col
-ère; il gravit une hauteur et regarda le château: il vit un magnifique mur de fer enfermant un espace long de trois farsangs et large de quarante, et dont aucune partie n’était construite avec de l’eau et de la terre;
+ère; il gravit une hauteur et regarda le château: il vit un magnifique mur de fer enfermant un espace long de trois farsangs et large de quarante, et dont aucune partie n’était construite avec de l’eau et de la terre;
 
 l’épaisseur de la muraille était telle que quatre cavaliers de front pouvaient courir dessus.
 
@@ -122,9 +122,9 @@ Isfendiar descendit de la colline, tenant en main sa lance de combat; avec cette
 
 Il leur demanda quelle était cette belle forteresse et combien elle contenait de cavaliers.
 
-Ils lui parlèrent longuement d’Ardjasp et lui firent la description du château, ajoutant:
+Ils lui parlèrent longuement d’Ardjasp et lui firent la description du château, ajoutant:
 
-> Regarde ce château, comme il est large et profond; une de ses portes ouvre sur la terre d’Iran, et l’autre sur le territoire de la Chine; il contient cent mille hommes qui frappent de l’épée, tous des cavaliers fiers et illustres, tous se tenant devant Ardjasp comme des esclaves, baissant la tête devant ses ordres et sa volonté.
+> Regarde ce château, comme il est large et profond; une de ses portes ouvre sur la terre d’Iran, et l’autre sur le territoire de la Chine; il contient cent mille hommes qui frappent de l’épée, tous des cavaliers fiers et illustres, tous se tenant devant Ardjasp comme des esclaves, baissant la tête devant ses ordres et sa volonté.
 >
 > On y trouve des vivres sans mesure, et quand il n’y en a plus de frais, il y a du vieux blé conservé en épis.
 >

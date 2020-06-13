@@ -99,7 +99,7 @@ Le Kaisar s’éloigna, souffrant de fatigue et de honte, et énumérant dans so
 
 Il envoya à Kitaboun des trésors, un diadème rouge et cinq rubis, mille esclaves et servantes de Roum, un collier orné de joyaux dignes d’une reine, cinq charges de chameaux de brocart chinois, et un homme intelligent, comme gardien de ces trésors.
 
-Ensuite un envoyé remit au roi et compta un à un devant son trésorier des chevaux arabes caparaçonnés , des cottes de mailles, des robes d’étoffe indienne, de l’or, des brocarts, des couronnes, des sceaux et tout ce que l’on a coutume de faire venir du Roum et de la Chine; il fit distribuer des armes et de l’argent à l’armée de l’Iran et envoya beaucoup de présents aux grands de ce pays, à quiconque était de la race des Keïanides , à quiconque était un Pehlewan, frappant de l’épée, portant haut la tête; il voulut que chacun eût sa part, et il accompagna tous ces dons d’actions de grâces adressées à celui qui avait créé le temps et l’espace.
+Ensuite un envoyé remit au roi et compta un à un devant son trésorier des chevaux arabes caparaçonnés , des cottes de mailles, des robes d’étoffe indienne, de l’or, des brocarts, des couronnes, des sceaux et tout ce que l’on a coutume de faire venir du Roum et de la Chine; il fit distribuer des armes et de l’argent à l’armée de l’Iran et envoya beaucoup de présents aux grands de ce pays, à quiconque était de la race des Keïanides , à quiconque était un Pehlewan, frappant de l’épée, portant haut la tête; il voulut que chacun eût sa part, et il accompagna tous ces dons d’actions de grâces adressées à celui qui avait créé le temps et l’espace.
 
 Lorsque Kitaboun fut arrivée auprès du roi, le bruit des timbales éclata à l’entrée de son camp, l’armée se mit en route vers l’Iran et la poussière soulevée par les chevaux envahit les airs.
 
@@ -107,7 +107,7 @@ Le Kaisar l’accompagna pendant deux journées, mais alors Guschtasp détourna 
 
 > Aussi longtemps que je vivrai, je ne demanderai pas de tribut du Roum, car j’ai été heureux dans ce pays.
 
-Il continua sa route en toute hâte, jusqu’à ce qu’il touchât l’Iran, qu’il arrivât dans ce pays des héros et des braves.
+Il continua sa route en toute hâte, jusqu’à ce qu’il touchât l’Iran, qu’il arrivât dans ce pays des héros et des braves.
 
 Quand Lohrasp apprit que Zerir, les grands et Guschtasp, le vaillant lion, arrivaient, il alla au-devant d’eux, accompagné de tous les princes, de tous les hommes puissants et illustres du pays de l’Iran.
 

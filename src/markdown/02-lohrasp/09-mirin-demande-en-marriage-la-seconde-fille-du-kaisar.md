@@ -36,7 +36,7 @@ Le Kaisar répondit:
 >
 > Que Mirin aille à l’entrée de la forêt de Fasikoun, et qu’il trempe son cœur, sa main et son cerveau dans du sang.
 >
-> Il y verra un loup grand comme un éléphant, dont le corps est comme le corps d’un dragon et la force comme celle d’un crocodile; il a des défenses comme un sanglier et des cornes, et un éléphant n’oserait pas tenir contre lui. Ni un lion mâle, ni un éléphant, ni un tigre, ni un homme, si vaillant qu’il soit, n’ose traverser cette forêt.
+> Il y verra un loup grand comme un éléphant, dont le corps est comme le corps d’un dragon et la force comme celle d’un crocodile; il a des défenses comme un sanglier et des cornes, et un éléphant n’oserait pas tenir contre lui. Ni un lion mâle, ni un éléphant, ni un tigre, ni un homme, si vaillant qu’il soit, n’ose traverser cette forêt.
 >
 > Quiconque parviendra à lui fendre la peau sera pour moi un appui, un gendre et un ami.
 
@@ -76,7 +76,7 @@ Heischoui lui répondit :
 
 > Cet homme généreux n’est heureux que sur un champ de bataille, et sa bravoure, sa modestie, sa noblesse et son intelligence sont encore plus grandes que n’indique sa mine.
 
-Quand Guschtasp s’approcha d’eux, ils descendirent de leurs destriers et Heischoui arrangea une place au bord de la mer, fit apporter en toute hâte une nouvelle table, fit venir du vin et de jeunes échansons , et prépara un banquet d’une espèce nouvelle avec ses jeunes amis.
+Quand Guschtasp s’approcha d’eux, ils descendirent de leurs destriers et Heischoui arrangea une place au bord de la mer, fit apporter en toute hâte une nouvelle table, fit venir du vin et de jeunes échansons , et prépara un banquet d’une espèce nouvelle avec ses jeunes amis.
 
 Quand le vin couleur de rubis eut rougi les joues des convives, Heischoui dit à Guschtasp :
 

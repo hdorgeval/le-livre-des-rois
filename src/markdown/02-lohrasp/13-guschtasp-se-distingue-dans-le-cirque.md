@@ -34,7 +34,7 @@ Les mains et les pieds des héros s’arrêtèrent, personne ne revit dans le ci
 
 Où donc un cavalier aurait-il pu la trouver, si vite qu’il eût couru?
 
-Les cavaliers pâlirent, toute la place était en confusion et pleine du bruit des voix.
+Les cavaliers pâlirent, toute la place était en confusion et pleine du bruit des voix.
 
 Ils se décidèrent alors à prendre les arcs et les flèches de bois de peuplier et quelques-uns des plus braves s’avançèrent.
 

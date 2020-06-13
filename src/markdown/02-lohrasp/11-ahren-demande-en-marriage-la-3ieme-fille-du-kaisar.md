@@ -80,13 +80,13 @@ Ahren s’engagea sur-le-champ par un serment solennel et accepta en tout point 
 >
 > il demande à épouser une fille du Kaisar, la dernière qui lui reste;
 >
-> mais le dragon lui tendra un piége et tâchera de le détruire.
+> mais le dragon lui tendra un piége et tâchera de le détruire.
 >
 > Il est venu chez moi pour me demander un moyen de salut, je lui ai dévoilé ce qui s’est passé et lui ai raconté exactement l’histoire du loup et du vaillant cavalier.
 >
 > Celui qui m’a tiré d’affaire voudra sans doute aussi tirer d’affaire Ahren, donner ainsi de la puissance dans ce pays à deux hommes, et placer sur son propre front un diadème brillant comme le soleil.
 
-Ahren, qui cherchait un moyen de salut, se rendit en toute hâte auprès de Heischoui, et lorsqu’il fut arrivé au bord de la mer, l’ambitieux Heischoui l’aperçût, reçut de lui cette lettre faite pour le flatter, le salua humblement et rompit le fil qui fermait la lettre.
+Ahren, qui cherchait un moyen de salut, se rendit en toute hâte auprès de Heischoui, et lorsqu’il fut arrivé au bord de la mer, l’ambitieux Heischoui l’aperçût, reçut de lui cette lettre faite pour le flatter, le salua humblement et rompit le fil qui fermait la lettre.
 
 Ensuite il lui dit:
 

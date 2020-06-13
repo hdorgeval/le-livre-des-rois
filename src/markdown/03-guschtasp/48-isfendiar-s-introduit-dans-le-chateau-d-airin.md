@@ -35,7 +35,7 @@ Beschouten entra chez lui, et ils discutèrent de toute manière sur le combat q
 
 Le héros dit:
 
-> Ce château ne tomberait pas entre nos mains par la force pendant bien des années; il faut donc que je risque ma vie et que j’essaye d’une ruse contre mes ennemis.
+> Ce château ne tomberait pas entre nos mains par la force pendant bien des années; il faut donc que je risque ma vie et que j’essaye d’une ruse contre mes ennemis.
 >
 > Tu veilleras ici jour et nuit et garantiras l’armée coutre une surprise de l’ennemi.
 >
@@ -43,11 +43,11 @@ Le héros dit:
 >
 > Il emploie tantôt la ruse, tantôt la force; tantôt il est en haut, tantôt il est en bas.
 >
-> J’entrerai dans ce château, déguisé en marchand, et ne dirai à personne que je suis un Pehlewan.
+> J’entrerai dans ce château, déguisé en marchand, et ne dirai à personne que je suis un Pehlewan.
 >
 > Je me servirai de tout moyen, j’emploierai toute sorte de savoir.
 >
-> Aie toujours des sentinelles, envoie sans cesse des vedettes, ne te relâche d’aucune précaution; si tes sentinelles voient de la fumée pendant le jour, ou pendant la nuit un feu qui éclaire le monde comme le soleil, sache que c’est mon œuvre, et non pas un moyen employé par mes ennemis.
+> Aie toujours des sentinelles, envoie sans cesse des vedettes, ne te relâche d’aucune précaution; si tes sentinelles voient de la fumée pendant le jour, ou pendant la nuit un feu qui éclaire le monde comme le soleil, sache que c’est mon œuvre, et non pas un moyen employé par mes ennemis.
 >
 > Alors mets en ordre tes troupes et fais-les partir d’ici, armées de cottes de mailles, de casques et de lourdes massues; déploie sur-le-champ mon drapeau, place-toi au centre de l’armée, avance-toi rapidement, la massue à tête de bœuf en main, et agis de manière qu’on te prenne pour Isfendiar.
 
@@ -91,9 +91,9 @@ Quand il vit le roi, il versa sur lui les dinars en disant:
 >
 > J’ai amené une caravane de chameaux, et je vends et j’achète des étoffes pour vêlements, des tapis, des pierres précieuses, des diadèmes et toutes sortes de belles choses.
 >
-> J’ai laissé mes bagages hors du château, car j’estime que le monde est sous ta garde.
+> J’ai laissé mes bagages hors du château, car j’estime que le monde est sous ta garde.
 >
-> Si le roi trouve bon que mes chameliers fassent passer la caravane par la porte du château, je serai garanti de tout mal par la grâce de sa fortune et je dormirai à l’ombre de sa protection.
+> Si le roi trouve bon que mes chameliers fassent passer la caravane par la porte du château, je serai garanti de tout mal par la grâce de sa fortune et je dormirai à l’ombre de sa protection.
 
 Le roi lui répondit:
 
@@ -101,7 +101,7 @@ Le roi lui répondit:
 >
 > Personne ne t’inquiétera dans le pays de Touran, ni en Chine, ni dans le Madjin, si tu veux les parcourir.
 
-Il assigna alors à Isfendiar un grand édifice dans le château d’airain, un magasin aux approches du palais, et ordonna de porter dans le château toutes les marchandises, pour qu’il pût faire de ce magasin un lieu de vente, et rester avec confiance dans cet asile.
+Il assigna alors à Isfendiar un grand édifice dans le château d’airain, un magasin aux approches du palais, et ordonna de porter dans le château toutes les marchandises, pour qu’il pût faire de ce magasin un lieu de vente, et rester avec confiance dans cet asile.
 
 Les compagnons d’Isfendiar chargèrent sur leurs dos les caisses et traînèrent les chameaux par la bride.
 
@@ -119,7 +119,7 @@ De tous côtés arriva une foule d’acheteurs, et il se fit un grand trafic da
 
 La nuit se passa, et à l’aube du jour Isfendiar se rendit auprès du roi dans sa salle d’audience; il s’avança, baisa la terre, bénit longuement Ardjasp et dit:
 
-> J’ai amené ces marchandises et cette caravane en toute hâte à l’aide de mes chameliers; elle apporte des bracelets et des diadèmes qui sont dignes d’un roi qui porte haut la tête.
+> J’ai amené ces marchandises et cette caravane en toute hâte à l’aide de mes chameliers; elle apporte des bracelets et des diadèmes qui sont dignes d’un roi qui porte haut la tête.
 >
 > Ordonne à ton trésorier de voir ce que j’ai de précieux dans mon magasin, qui est tout arrangé, et qu’il t’apporte ce qu’il pourra y rencontrer de digne de ton trésor, pourvu qu’il ne trouve pas que cela lui donne trop de peine.
 >
@@ -153,7 +153,7 @@ Il répondit:
 
 Ardjasp sourit et dit:
 
-> Aucun homme qui a de l’âge et de l’expérience ne dira cela, car si un aigle traverse les sept stations, appelle-moi un Ahriman et non pas un homme.
+> Aucun homme qui a de l’âge et de l’expérience ne dira cela, car si un aigle traverse les sept stations, appelle-moi un Ahriman et non pas un homme.
 
 Le héros écouta ces paroles, baisa la terre et quitta le palais d’Ardjasp le cœur en joie.
 

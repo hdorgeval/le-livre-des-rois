@@ -48,7 +48,7 @@ Ils se rendirent de la ville fortunée de Balkh à Khallakh, mais ils n’y fur
 
 Lorsqu’ils aperçurent de loin le palais du roi, sur lequel était planté le drapeau noir, ils descendirent de leurs montures bondissantes, le cœur brisé, les yeux aveuglés par les lames.
 
-Ils allèrent ainsi à pied jusqu’auprès de lui, vêtus de noir et le visage pâle; ils lui remirent la lettre du roi que Zerir, le cavalier, avait écrite en réponse à Ardjasp.
+Ils allèrent ainsi à pied jusqu’auprès de lui, vêtus de noir et le visage pâle; ils lui remirent la lettre du roi que Zerir, le cavalier, avait écrite en réponse à Ardjasp.
 
 Il fit convoquer ses scribes et les hommes jeunes et vieux du Touran, et ordonna aux scribes de lui lire d’abord toute la lettre du commencement à la fin.
 

@@ -96,7 +96,7 @@ Le roi lui dit:
 >
 > Si Isfendiar doit finir comme le Sipehbed Zerir, ma vie ne serait dorénavant que misère.
 >
-> Hâte-toi de parler et dis-moi tout, car ta science m’inonde d’amertume.
+> Hâte-toi de parler et dis-moi tout, car ta science m’inonde d’amertume.
 >
 > Qui dans le monde a dans ses mains le sort de mon fils, pour que je doive pleurer sur une si grande perte?
 

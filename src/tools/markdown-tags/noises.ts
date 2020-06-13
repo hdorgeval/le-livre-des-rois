@@ -141,7 +141,7 @@ export const noises = [
   'Grâces',
   'Grand',
   'Grands',
-  'Hâte-toi',
+  'Hâte-toi',
   'Hé',
   'Hélas',
   'Hélas',

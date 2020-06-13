@@ -71,7 +71,7 @@ Il ordonna toute son armée, et à tous ceux dans l’empire qui avaient du pou
 
 Ensuite le père alla à la rencontre du fils au frais visage, avec tous les sages illustres, avec les grands, les savants et les Mobeds; la ville entière fut remplie du bruit des voix.
 
-Quand le jeune roi vit la figure de son père, son cœur se réjouit et son âme devint sereine;
+Quand le jeune roi vit la figure de son père, son cœur se réjouit et son âme devint sereine;
 
 Il fit bondir son cheval couleur de nuit, qui allumait le feu des batailles;
 

@@ -111,7 +111,7 @@ Kalous répondit:
 
 > On dirait, au premier aspect, qu’il ressemble exactement à Zerir, et l’on te répondrait sur-le-champ que c’est le vaillant Zerir avec sa stature et sa mine, sa sagesse et son bon conseil.
 
-A ces paroles, le visage de Lohrasp s’épanouit, et il répandit toutes ses grâces sur cet homme du pays de Roum;
+A ces paroles, le visage de Lohrasp s’épanouit, et il répandit toutes ses grâces sur cet homme du pays de Roum;
 
 il lui donna un grand nombre d’esclaves et des caisses remplies d’or, et le laissa partir de sa cour, heureux et content, en lui disant:
 

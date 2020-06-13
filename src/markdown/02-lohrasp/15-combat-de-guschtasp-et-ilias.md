@@ -43,7 +43,7 @@ Ensuite il conduisit ses troupes contre l’armée des Khazars, courant sur la r
 
 Toute l’armée de Roum s’étant précipitée après lui en poussant des cris, Guschtasp s’arrêta pour la regarder, et s’en retourna.
 
-Il revint auprès du Kaisar après avoir, lancé ses troupes, et parut devant lui victorieux et la tête levée. Quand le Kaisar le vit quitter l’armée et paraître sur la route, il s’avança dans sa joie vers lui avec ses troupes, le baisa sur la tête et sur les yeux, et se répandit en grâces envers le Créateur du monde.
+Il revint auprès du Kaisar après avoir, lancé ses troupes, et parut devant lui victorieux et la tête levée. Quand le Kaisar le vit quitter l’armée et paraître sur la route, il s’avança dans sa joie vers lui avec ses troupes, le baisa sur la tête et sur les yeux, et se répandit en grâces envers le Créateur du monde.
 
 Ensuite ils s’en retournèrent gaiement; le chef de l’armée lui plaça sur la tête un diadème, et tout le Roum reçût le prince avec des présents et des offrandes.
 

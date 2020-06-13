@@ -94,4 +94,4 @@ Guschtasp lui répondit :
 >
 > Il est temps de lutter et d’engager le combat.
 
-Le messager s’en retourna, allant comme le vent, et apporta à Ilias la réponse qu’il avait reçue; mais comme le soleil pâlissait sur la crête des montagnes, il était trop tard pour livrer une bataille; la nuit vint et enveloppa d’un voile couleur d’ébène la face rouge du soleil.
+Le messager s’en retourna, allant comme le vent, et apporta à Ilias la réponse qu’il avait reçue; mais comme le soleil pâlissait sur la crête des montagnes, il était trop tard pour livrer une bataille; la nuit vint et enveloppa d’un voile couleur d’ébène la face rouge du soleil.

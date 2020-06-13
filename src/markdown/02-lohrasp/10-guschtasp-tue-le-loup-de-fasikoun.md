@@ -70,7 +70,7 @@ Là étaient assis au bord de l’eau Heischoui et Mirin, pleins de soucis, ne 
 
 Quand Guschtasp parut à pied, les joues couvertes de sang et rouges comme la fleur de fenugrec, ils l’aperçurent, se levèrent brusquement et se mirent à pousser des cris de détresse.
 
-Ils le pressèrent dans leurs bras avec pitié, les joues pâles, les cils inondés de larmes comme d’une pluie printanière, demandant comment s’était passé son combat contre le loup, et racontant combien leurs cœurs avaient éprouvé d’anxiété pour lui.
+Ils le pressèrent dans leurs bras avec pitié, les joues pâles, les cils inondés de larmes comme d’une pluie printanière, demandant comment s’était passé son combat contre le loup, et racontant combien leurs cœurs avaient éprouvé d’anxiété pour lui.
 
 Guschtasp dit à Heischoui :
 
@@ -78,7 +78,7 @@ Guschtasp dit à Heischoui :
 >
 > Je l’ai fendu en deux avec l’épée de Selm, et je vous ai délivré de toute cette terreur.
 >
-> Allez, et hâtez-vous de voir cette merveille, regardez ce vil monstre auquel j’ai déchiré la peau.
+> Allez, et hâtez-vous de voir cette merveille, regardez ce vil monstre auquel j’ai déchiré la peau.
 >
 > A le voir, on dirait que c’est un éléphant énorme et qui remplit toute la forêt par sa largeur et sa longueur.
 
@@ -132,7 +132,7 @@ Mais lorsque le soleil dans sa rotation commença à briller dans la voûte du
 
 > De quelle manière le ciel va-t-il tourner au-dessus de nous, est-ce avec colère ou avec faveur?
 
-Mirin, de son côté, partit comme le vent, se rendit en toute hâte auprès du Kaisar, et lui dit :
+Mirin, de son côté, partit comme le vent, se rendit en toute hâte auprès du Kaisar, et lui dit :
 
 > Ô illustre et puissant maître!
 >
@@ -140,7 +140,7 @@ Mirin, de son côté, partit comme le vent, se rendit en toute hâte auprès d
 >
 > Il est arrivé sur moi pour m’attaquer, mais mon bras lui a asséné un coup qui l’a fendu de la tête jusqu’au milieu du corps, et le cœur du Div a tremblé de ce coup.
 
-A ces paroles, le Kaisar se redressa, ses joues pâles se colorèrent, il ordonna qu’on fît partir de la ville des bœufs, des voitures et des tentes, qu’on préparât un lieu de festin et qu’on y envoyât du vin, de la musique et des échansons.
+A ces paroles, le Kaisar se redressa, ses joues pâles se colorèrent, il ordonna qu’on fît partir de la ville des bœufs, des voitures et des tentes, qu’on préparât un lieu de festin et qu’on y envoyât du vin, de la musique et des échansons.
 
 Ils se mirent en route, avec des bœufs qui traînaient des voitures, pour cette forêt célèbre à cause du loup; en arrivant, ils virent cet éléphant furieux fendu par un coup d’épée de la tête jusqu’au milieu du corps, le firent traîner dehors sur la prairie par de forts bœufs attelés aux voitures, et le monde regarda ce vieux loup, que dis-je, un loup ! ce terrible lion.
 

@@ -80,7 +80,7 @@ Guschtasp dit alors à ses deux puissants amis:
 
 > Il ne faut pas que qui que ce soit apprenne rien de ceci, ni que j’ai vu ce vaillant dragon, ni que j’ai entendu le cri du loup.
 
-Ensuite il partit, heureux et content, et se rendit en toute hâte auprès de Kitaboun.
+Ensuite il partit, heureux et content, et se rendit en toute hâte auprès de Kitaboun.
 
 Ahren partit, amena des bœufs et des chariots, et livra le corps du dragon à ses serviteurs, disant :
 
