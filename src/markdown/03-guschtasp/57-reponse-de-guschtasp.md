@@ -62,7 +62,7 @@ Le roi répondit à son fils:
 >
 > Je ne connais personne dans le monde qui soit ton égal, si ce n’est Rustem l’insensé, le fils de Zal, à qui de tout temps a appartenu le Zaboulistan, Bost, Ghaznin et le Kaboul.
 >
-> Sa bravoure l’élève au-dessus du ciel, et il ne se reconnaît le sujet de personne.
+> Sa bravoure l’élève au-dessus du ciel, et il ne se reconnaît le sujet de personne.
 >
 > Il se tenait devant Kaous le Keïanide comme un esclave; il a vécu par la grâce de Keï Khosrou;
 >
@@ -98,11 +98,11 @@ Le roi répondit à Isfendiar:
 >
 > Quand un homme oublie son devoir envers Dieu, il faut se garder de passer devant sa porte.
 >
-> Prends donc la route du Séistan, accompagné d’une armée, si tu désires le trône et la couronne, et quand tu seras arrivé, lie les mains à Rustem et amène-le en tenant suspendu à ton bras le lacet qui l’enchaine;
+> Prends donc la route du Séistan, accompagné d’une armée, si tu désires le trône et la couronne, et quand tu seras arrivé, lie les mains à Rustem et amène-le en tenant suspendu à ton bras le lacet qui l’enchaine;
 >
 > Empêche Zewareh, Faramourz et Destan fils de Sam de te tendre un piège;
 >
-> Amène-les à pied à ma cour, ô prince illustre!
+> Amène-les à pied à ma cour, ô prince illustre!
 >
 > Et alors personne ne se révoltera plus contre nous, si puissant et si riche qu’il soit.
 

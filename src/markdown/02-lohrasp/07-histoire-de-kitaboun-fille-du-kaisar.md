@@ -41,7 +41,7 @@ Quand elle aperçût de loin Guschtasp, elle se dit:
 
 et sur-le-champ elle para de son riche et noble diadème la tête heureuse du prince.
 
-Lorsque le Destour qui l’avait instruite vit cet acte, il courut à l’instant auprès du Kaisar, s’écriant :
+Lorsque le Destour qui l’avait instruite vit cet acte, il courut à l’instant auprès du Kaisar, s’écriant :
 
 > Elle a choisi dans l’assemblée un homme dont la taille est celle d’un cyprès dans la prairie, dont les joues sont un jardin de roses, et les bras et les épaules tels qu’ils jettent dans l’étonnement ceux qui les voient.
 >

@@ -40,7 +40,7 @@ order: '13'
 
 Le roi de la terre, ayant terminé son discours, fit appeler Siyah-Pil et lui confia les deux guerriers chinois, en disant:
 
-> Emmène-les et conduis-les hors de l’Iran et au delà de nos frontières.
+> Emmène-les et conduis-les hors de l’Iran et au delà de nos frontières.
 
 Les envoyés du Sipehdar de la Chine quittèrent le maître du monde, roi de la terre, humiliés, renvoyés et traités avec mépris par Guschtasp.
 
@@ -56,7 +56,7 @@ Un scribe ouvrit la lettre et la lut à ce roi de race turque.
 
 Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du vaillant cavalier, de Guschtasp fils de Lohrasp, du maître du monde, digne du trône:
 
-> Dieu a envoyé auprès de moi un prophète, devant lequel tous les grands se tiennent debout comme des esclaves, et qui te fait dire:
+> Dieu a envoyé auprès de moi un prophète, devant lequel tous les grands se tiennent debout comme des esclaves, et qui te fait dire:
 >
 > > Ô homme vil et audacieux, dont le visage ressemble à celui des lions et des loups, tu t’es soustrait au vrai culte et à la religion sainte, et ton cœur s’est rempli de perversité et d’erreurs.
 > >
@@ -82,27 +82,27 @@ Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du va
 >
 > Ne comble pas le Djihoun de musc, car j’ouvrirai moi-même les portes de ton trésor avare, et, s’il plait à Dieu, je te combattrai au jour de la bataille et je jetterai ta tête sous mes pieds.
 
-Le roi des Turcs, ayant lu cette lettre, descendit de son trône et resta un instant confondu, puis il ordonna à son Sipehbed d’appeler dès le lendemain de grand matin ses troupes de toutes les parties du royaume.
+Le roi des Turcs, ayant lu cette lettre, descendit de son trône et resta un instant confondu, puis il ordonna à son Sipehbed d’appeler dès le lendemain de grand matin ses troupes de toutes les parties du royaume.
 
-Les braves de l’armée, les champions choisis de la Chine se répandirent tous dans le pays de Touran, et réunirent ses armées et les chefs des frontières de son empire.
+Les braves de l’armée, les champions choisis de la Chine se répandirent tous dans le pays de Touran, et réunirent ses armées et les chefs des frontières de son empire.
 
 Il avait pour frères deux Ahrimans, dont l’un se nommait Kehrem, l’autre Endirman; on leur donna des timbales, des éléphants et des drapeaux rouges, jaunes et violets, et Ardjasp leur confia trois cent mille hommes choisis, tous des cavaliers vaillants.
 
 Il ouvrit la porte de son trésor et distribua la solde;
 
-il fit sonner les trompettes d’airain et préparer les bagages, ensuite il appela son frère Kehrem et lui donna le commandement d’une aile de l’armée;
+il fit sonner les trompettes d’airain et préparer les bagages, ensuite il appela son frère Kehrem et lui donna le commandement d’une aile de l’armée;
 
 il mit l’autre aile sous les ordres d’Endirman, et lui-même prit le centre.
 
 Il y avait un Turc du nom de Gurgsar, un homme déjà vieux: on, aurait dit qu’il ne connaissait que le mal; Ardjasp lui donna le commandement en chef;
 
-ensuite il remit à son frère Bidirefsch un drapeau avec une figure de loup.
+ensuite il remit à son frère Bidirefsch un drapeau avec une figure de loup.
 
 Un autre Turc, appelé Khaschasch le vaillant, qu’un lion n’eût pas osé attaquer, fut nommé chef des éclaireurs et de l’avant-garde; il reçut d’Ardjasp un drapeau; c’était lui qui devait parler au nom du roi.
 
 Ensuite le chef des Turcs envoya à un des siens, nommé Houschdiv, un message et lui fit dire:
 
-> Garde les derrières de l’armée, et si quelqu’un des nôtres s’en retourne, tue-le aussitôt que tu le rencontreras, et acquitte-toi de cette mission avec intelligence.
+> Garde les derrières de l’armée, et si quelqu’un des nôtres s’en retourne, tue-le aussitôt que tu le rencontreras, et acquitte-toi de cette mission avec intelligence.
 
 C’est ainsi qu’Ardjasp partit dans une colère terrible, le cœur gonflé de sang, les yeux pleins de larmes, dévastant tout, brûlant les maisons, détruisant les arbres, branches et racines.
 

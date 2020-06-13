@@ -53,7 +53,7 @@ Le roi ayant déplié cette lettre, en fut confondu et se mit à trembler de co
 
 Il appela auprès de lui tous ces grands et ils apportèrent le Zendavesta; il appela Zerdouscht, son prophète et son Mobed, et Zerir, son bien-aimé, le chef de son armée.
 
-Le Sipehbed Zerir était son frère, le chef des braves de son armée; il était alors Pehlewan du monde, car Isfendiar le cavalier était encore trop jeune pour cette dignité; il était l’asile du monde et le soutien de l’armée, et commandait aux troupes comme le roi lui-même; il avait délivré la terre des méchants, et dans chaque combat on voyait sa lance.
+Le Sipehbed Zerir était son frère, le chef des braves de son armée; il était alors Pehlewan du monde, car Isfendiar le cavalier était encore trop jeune pour cette dignité; il était l’asile du monde et le soutien de l’armée, et commandait aux troupes comme le roi lui-même; il avait délivré la terre des méchants, et dans chaque combat on voyait sa lance.
 
 Alors le maître du monde dit à Zerir et au vaillant et fortuné Djamasp:
 

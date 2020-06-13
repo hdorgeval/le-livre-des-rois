@@ -95,7 +95,7 @@ Guschtasp lui demanda de raconter aux grands de l’Iran ce qui lui était arriv
 
 A la fin tous les hôtes s’en retournèrent ivres, chacun tenant par la main un page au visage de lune.
 
-L’aventure des sept stations est terminée et mon esprit, plein de pensées profondes, s’y est rajeuni; c’est Dieu, le très-juste, le maître du soleil et de la lune brillante, qui m’en a doué, et si mon récit plait au roi victorieux, je chevauche sur la sphère du ciel qui tourne. J’invoque des bénédictions sur la vie du roi; puisse son cœur ne pas connaître le souci dans ce monde! Il faut maintenant boire du vin bien-faisant, car les outres qui répandent un parfum de vin arrivent de la vallée. L’air est plein de bruits, la terre bouillonne; heureux celui dont le cœur se réjouit en buvant, qui a de l’argent, du pain, des fruits confits et du vin de dattes, et qui peut tuer un mouton!
+L’aventure des sept stations est terminée et mon esprit, plein de pensées profondes, s’y est rajeuni; c’est Dieu, le très-juste, le maître du soleil et de la lune brillante, qui m’en a doué, et si mon récit plait au roi victorieux, je chevauche sur la sphère du ciel qui tourne. J’invoque des bénédictions sur la vie du roi; puisse son cœur ne pas connaître le souci dans ce monde! Il faut maintenant boire du vin bien-faisant, car les outres qui répandent un parfum de vin arrivent de la vallée. L’air est plein de bruits, la terre bouillonne; heureux celui dont le cœur se réjouit en buvant, qui a de l’argent, du pain, des fruits confits et du vin de dattes, et qui peut tuer un mouton!
 
 Quant à moi, je n’ai rien de tout cela.
 

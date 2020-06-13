@@ -68,11 +68,11 @@ Kergsar lui répondit:
 >
 > Elle prend un homme et le porte de la mer jusqu’à la lune, et elle précipite un autre dans un abîme.
 >
-> On rencontre sur cette route des déserts, des simourghs, et un froid affreux qui fait éclater les arbres quand le vent s’élève.
+> On rencontre sur cette route des déserts, des simourghs, et un froid affreux qui fait éclater les arbres quand le vent s’élève.
 >
 > Ensuite on se trouve devant le château d’airain, un château tel que personne n’en a vu de pareil ni n’en a entendu parler.
 >
-> La crête de ses remparts s’élève plus haut que les nuages noirs, il est rempli de troupes et d’armes et entouré d’une rivière d’eau courante dont la vue trouble l’esprit et que le roi passe en bateau quand il se rend dans la plaine pour chasser.
+> La crête de ses remparts s’élève plus haut que les nuages noirs, il est rempli de troupes et d’armes et entouré d’une rivière d’eau courante dont la vue trouble l’esprit et que le roi passe en bateau quand il se rend dans la plaine pour chasser.
 >
 > Si Ardjasp était assiégé cent ans dans ce fort, il n’aurait besoin de rien tirer de la campagne, car il y a dans le château des champs ensemencés et des prairies, des arbres fruitiers et des moulins.
 

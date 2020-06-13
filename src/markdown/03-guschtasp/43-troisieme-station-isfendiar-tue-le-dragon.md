@@ -25,7 +25,7 @@ Alors Isfendiar ordonna que le méchant et malheureux Kergsar parût devant lui.
 
 Il lui donna trois coupes de vin couleur de rubis, et quand les coupes de vin eurent égayé cet Ahriman, il lui dit:
 
-> Ô homme malheureux et misérable, révèle-moi ce que tu sais de ce que je dois voir demain.
+> Ô homme malheureux et misérable, révèle-moi ce que tu sais de ce que je dois voir demain.
 
 Il répondit:
 
@@ -51,7 +51,7 @@ Les charpentiers ingénieux construisirent tout cela; le prince ambitieux de la 
 
 Il s’assit dans la caisse pour faire un essai, et se fit traîner ainsi pendant quelque temps par les chevaux, revêtu d’une cotte de mailles, tenant en main une épée de Kaboul et la tête couverte de son casque de héros.
 
-Quand le prince eut tout préparé pour le combat contre le dragon et qu’il eut achevé ce travail, le monde devint noir comme le visage d’un nègre, et la lune montra son trône placé au signe du Bélier.
+Quand le prince eut tout préparé pour le combat contre le dragon et qu’il eut achevé ce travail, le monde devint noir comme le visage d’un nègre, et la lune montra son trône placé au signe du Bélier.
 
 Isfendiar s’assit sur son cheval Schoulek, et partit, suivi par son armée illustre; le lendemain, quand le monde fut plein de lumière et que le drapeau de la nuit sombre eut disparu, Beschouten se présenta devant le prince avide de renom, accompagné des grands et de ses parents.
 
@@ -79,7 +79,7 @@ Beschouten accourut et lui versa sur la tête de l’eau de rose, et le prince, 
 
 Il se leva et s’approcha de l’eau, comme un homme ivre de sommeil; il demanda à son trésorier un vêtement frais, entra dans l’eau, et se lava la tête et le corps.
 
-Il s’adressa à Dieu, le très-saint, tout tremblant, et se roula dans la poussière, s’écriant:
+Il s’adressa à Dieu, le très-saint, tout tremblant, et se roula dans la poussière, s’écriant:
 
 > Qui aurait pu tuer ce dragon sans être soutenu par le Maître du monde?
 

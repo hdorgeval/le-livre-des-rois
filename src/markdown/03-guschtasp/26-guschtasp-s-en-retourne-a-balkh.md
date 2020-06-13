@@ -48,7 +48,7 @@ Il confia à Nestour une armée composée de cent mille hommes, tous de vaillan
 
 Il ordonna qu’on pourvût Nestour de tout ce qui lui était nécessaire et de tout ce qui pouvait lui être utile.
 
-Nestour partit à l’instant avec ses troupes, et le roi, s’étant assis sur son trône et ayant placé sur sa tète la couronne des Keïanides, donna accès à toute son armée: il ouvrit les portes de son trésor et distribua à tous ses guerriers des ornements précieux.
+Nestour partit à l’instant avec ses troupes, et le roi, s’étant assis sur son trône et ayant placé sur sa tète la couronne des Keïanides, donna accès à toute son armée: il ouvrit les portes de son trésor et distribua à tous ses guerriers des ornements précieux.
 
 Ensuite il donna aux chefs le commandement des villes et ne laissa passer personne sans lui avoir accordé quelque chose: ceux étaient dignes de gouverner un royaume, il leur en confia un; ceux qui avaient mérité́ des dignités, il les éleva aux dignités, et ayant ainsi récompensé chacun selon son mérite, il les renvoya tous dans leurs demeures.
 

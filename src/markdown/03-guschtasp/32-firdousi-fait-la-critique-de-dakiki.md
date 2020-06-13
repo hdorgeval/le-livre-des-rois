@@ -38,7 +38,7 @@ A la fin Aboul Kasim, le maître du monde, lui qui a rajeuni la couronne des roi
 
 Qui a souvenir d’un maître de la terre comme lui?
 
-Son nom est devenu la couronne sur le front de mon œuvre, et sa gloire a rendu mon cœur sombre brillant comme l’ivoire; jamais, depuis que le monde existe, il n’y a eu de prince comparable à lui en générosité, en sagesse, en gloire et en bravoure; il dépasse tous les rois anciens, et il ne s’élève pas un souffle de blâme contre ses actions.
+Son nom est devenu la couronne sur le front de mon œuvre, et sa gloire a rendu mon cœur sombre brillant comme l’ivoire; jamais, depuis que le monde existe, il n’y a eu de prince comparable à lui en générosité, en sagesse, en gloire et en bravoure; il dépasse tous les rois anciens, et il ne s’élève pas un souffle de blâme contre ses actions.
 
 L’argent n’est à ses yeux que de la poussière;
 

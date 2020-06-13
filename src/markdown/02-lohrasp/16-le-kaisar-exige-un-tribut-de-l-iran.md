@@ -53,7 +53,7 @@ Quand il fut arrivé près du puissant roi, il vit cette porte sublime et ce pal
 
 Le grand chambellan eut avis de sa venue, accourut auprès du roi et dit :
 
-> Il y a à la porte un vieillard plein d’expérience, qui est sans doute un messager du Kaisar; il amène beaucoup de cavaliers illustres, et demande une audience du roi.
+> Il y a à la porte un vieillard plein d’expérience, qui est sans doute un messager du Kaisar; il amène beaucoup de cavaliers illustres, et demande une audience du roi.
 
 A ces paroles, Lohrasp s’assit sur son trône d’ivoire et posa sur sa tête sa couronne qui réjouissait les cœurs, et les grands de l’Iran, aux cœurs joyeux, à la fortune prospère, s’assit-eut sous son trône.
 
@@ -69,7 +69,7 @@ Lorsque le soleil fut monté sur son trône d’or et eut déchiré de ses ongl
 
 Lohrasp fit appeler devant lui Zerir et lui parla longuement de toute chose.
 
-A l’aube du jour, Kalous demanda une audience, et on l’admit auprès du roi ; on fit sortir de la salle royale tous les étrangers, et l’on fit asseoir le messager devant Lohrasp , qui lui dit :
+A l’aube du jour, Kalous demanda une audience, et on l’admit auprès du roi ; on fit sortir de la salle royale tous les étrangers, et l’on fit asseoir le messager devant Lohrasp , qui lui dit :
 
 > Ô homme plein de sens!
 >
@@ -93,13 +93,13 @@ Le messager répondit:
 >
 > j’ai eu à supporter bien du mal dans cette ambassade, et personne ne m’a adressé des questions comme tu fais; mais puisque le roi m’a reçu si courtoisement, il ne serait pas juste que je me permisse de le tromper.
 >
-> Un cavalier est arrivé. auprès du Kaisar, un vainqueur de lions qui est sorti des forêts;
+> Un cavalier est arrivé. auprès du Kaisar, un vainqueur de lions qui est sorti des forêts;
 >
 > il se rit des plus braves au jour de la bataille et des coupes de vin au temps des festins;
 >
 > jamais l’œil de personne n’a vu un cavalier comme lui au combat, au banquet et à la chasse.
 >
-> Le Kaisar lui a donné la plus belle de ses filles, qui était son plus précieux diadème.
+> Le Kaisar lui a donné la plus belle de ses filles, qui était son plus précieux diadème.
 >
 > Il est le sujet de tous les contes dans le Roum, car il a tué le terrible dragon; ensuite il y avait un loup qui ressemblait à un éléphant dans le désert, et le Kaisar n’osait pas aller du côté où il se trouvait : le jeune homme l’a abattu, lui a arraché les défenses et en a délivré le pays de Roum.
 

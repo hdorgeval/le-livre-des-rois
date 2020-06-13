@@ -27,7 +27,7 @@ tags:
 order: '02'
 ---
 
-# Guschtasp quitte Lohrasp en colère
+# Guschtasp quitte Lohrasp en colère
 
 Lohrasp avait deux fils, beaux comme deux lunes dignes de la royauté, du trône et du diadème ; l’un s’appelait Guschtasp, l’autre Zerir;
 

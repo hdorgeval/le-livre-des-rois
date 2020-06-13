@@ -226,7 +226,7 @@ Zoroastre fit encore d’autres miracles.
 
 On lui mit dans la main du feu qui ne le brula pas; & le même prodige s'opérait à l'égard de celui dans la main duquel il mettait du feu.
 
-Il planta aussi un cyprès à côté du Palais du Roi; & cet arbre en peu de jours devint si gros, que dix grandes cordes pouvaient à peine l’entourer.
+Il planta aussi un cyprès à côté du Palais du Roi; & cet arbre en peu de jours devint si gros, que dix grandes cordes pouvaient à peine l’entourer.
 
 Il fit ensuite dresser une grande salle sur les branches les plus élevées de cet arbre.
 

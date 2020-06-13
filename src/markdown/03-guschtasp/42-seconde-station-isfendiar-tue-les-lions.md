@@ -42,9 +42,9 @@ le cœur de la lionne fut rempli de terreur, mais elle bondit comme avait fait l
 
 La main et la poitrine du héros étaient couvertes de sang;
 
-il se jeta dans l’eau et se lava la tête et le corps, en demandant de l’aide à Dieu seul, le très-saint.
+il se jeta dans l’eau et se lava la tête et le corps, en demandant de l’aide à Dieu seul, le très-saint.
 
-Il dit au maître suprême de la justice, au très-saint:
+Il dit au maître suprême de la justice, au très-saint:
 
 > C’est toi qui as tué ces bêtes fauves par ma main.
 

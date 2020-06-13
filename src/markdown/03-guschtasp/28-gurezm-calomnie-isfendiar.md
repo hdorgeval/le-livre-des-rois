@@ -87,7 +87,7 @@ Toute cette nuit les soucis l’empêchèrent de dormir, il était indigné cont
 
 Lorsque les premières lueurs du jour rayonnèrent du haut des montagnes, et que la lumière des astres eut disparu, le roi Guschtasp appela son Destour Djamasp, l’homme plein d’expérience, et lui dit:
 
-> Rends-toi auprès d’Isfendiar, appelle-le et amène-le sans délai auprès de moi.
+> Rends-toi auprès d’Isfendiar, appelle-le et amène-le sans délai auprès de moi.
 >
 > Dis-lui de se lever et de venir auprès de moi, de lire ma lettre et de ne pas tarder un instant, car il s’agit de grandes affaires, et lui, le plus puissant prince du pays, doit y assister;
 >

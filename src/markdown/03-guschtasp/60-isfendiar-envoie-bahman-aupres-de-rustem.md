@@ -57,13 +57,13 @@ Isfendiar fit venir Bahman devant lui et lui parla longuement, disant:
 >
 > Salue-le de ma part, sois bon pour lui, parle-lui en paroles choisies, sois d’une politesse parfaite, et dis-lui:
 >
-> > Celui qui devient grand et puissant et s’ élève au-dessus de tout danger de malheur doit rendre grâce à Dieu, qui de toute éternité connaît ce qui est bien.
+> > Celui qui devient grand et puissant et s’ élève au-dessus de tout danger de malheur doit rendre grâce à Dieu, qui de toute éternité connaît ce qui est bien.
 > >
 > > Si l’homme s’efforce de faire le bien et s’abstient de l’avidité et des mauvais désirs, Dieu augmente son pouvoir et ses trésors, et il sera heureux dans son séjour passager sur la terre;
 > >
 > > S’il s’abstient de toute mauvaise action, il trouvera dans l’autre monde le paradis.
 > >
-> > Le sage sait que le bien et le mal passent sur nous, et qu’à la fin notre couche est la terre noire et notre âme s’envole auprès de Dieu, le très-saint.
+> > Le sage sait que le bien et le mal passent sur nous, et qu’à la fin notre couche est la terre noire et notre âme s’envole auprès de Dieu, le très-saint.
 > >
 > > Quiconque dans le monde sait ce qui est bien, se donne de la peine et se conforme à la volonté des rois;
 > >

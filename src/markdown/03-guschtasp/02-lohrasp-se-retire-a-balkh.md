@@ -43,21 +43,21 @@ Il se dépouilla de ses bracelets, laissa pendre ses cheveux non frisés et tour
 
 Il resta ainsi trente ans debout devant Dieu; c’est de cette manière qu’il convient de l’adorer.
 
-Il adressa sans cesse des prières au soleil : telle avait été la coutume de Djemschid.
+Il adressa sans cesse des prières au soleil : telle avait été la coutume de Djemschid.
 
-Lorsque Guschtasp fut monté sur le trône de son père, qu’il eut hérité de sa puissance et de sa haute fortune, il plaça sur sa tête la couronne qu’il avait reçue de Lohrasp.
+Lorsque Guschtasp fut monté sur le trône de son père, qu’il eut hérité de sa puissance et de sa haute fortune, il plaça sur sa tête la couronne qu’il avait reçue de Lohrasp.
 
 Ô qu’une couronne orne bien la tête d’un homme noble!
 
 Il dit :
 
-> Je suis le roi, l’adorateur de Dieu le très-saint qui m’a donné ce diadème.
+> Je suis le roi, l’adorateur de Dieu le très-saint qui m’a donné ce diadème.
 >
 > Il me l’a donné, ce puissant diadème, pour que je pusse chasser les loups du troupeau des brebis.
 >
 > Ma main ne s’appesantira pas sur ceux qui m’aideront;
 >
-> je ne rendrai pas étroite la terre aux hommes nobles, et, à mesure que j’appliquerai les règles de conduite des rois, je ramènerai au culte de Dieu les méchants.
+> je ne rendrai pas étroite la terre aux hommes nobles, et, à mesure que j’appliquerai les règles de conduite des rois, je ramènerai au culte de Dieu les méchants.
 
 Et il rendit la justice de telle façon que les brebis pouvaient boire au ruisseau à côté des loups.
 

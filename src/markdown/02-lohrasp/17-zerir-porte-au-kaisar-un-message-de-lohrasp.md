@@ -37,7 +37,7 @@ order: '17'
 
 Lohrasp resta longtemps assis, absorbé dans ses pensées; ensuite il fit appeler devant lui Zerir, à qui il dit:
 
-> Cet homme n’est autre que ton frère;
+> Cet homme n’est autre que ton frère;
 >
 > prépare donc un moyen d’arranger cette affaire, et ne reste pas ici.
 >
@@ -45,7 +45,7 @@ Lohrasp resta longtemps assis, absorbé dans ses pensées; ensuite il fit appele
 >
 > Emmène un cheval de main, emporte un trône, des bottines d’or, une couronne et le drapeau de Kaweh.
 >
-> Je donnerai à ton frère ma couronne et ne lui imposerai pas de reconnaissance pour cela.
+> Je donnerai à ton frère ma couronne et ne lui imposerai pas de reconnaissance pour cela.
 >
 > Va d’ici jusqu’à Haleb, prêt à livrer bataille, et ne parle à ton armée que de combats.
 
@@ -67,12 +67,12 @@ On planta le drapeau impérial, on dressa des tentes et leurs enceintes, et le S
 
 Lui-même partit déguisé comme un homme qui porte un message ou une bonne nouvelle à un roi; il emmena avec lui cinq de ses amis, des hommes de sens , prudents et braves.
 
-Arrivé auprès du palais du Kaisar, il fut aperçu par le grand chambellan, qui se tenait sur la porte;
+Arrivé auprès du palais du Kaisar, il fut aperçu par le grand chambellan, qui se tenait sur la porte;
 le Kaisar lui-même était dans le palais, son humeur était sombre , et Kalous et Guschtasp étaient avec lui.
 
 Quand le Kaisar entendit annoncer un envoyé, il ordonna de le faire entrer, et Guschtasp fut bien aise de cette arrivée.
 
-Zerir entra, semblable à un cyprès élancé , et s’assit en face du trône du noble prince.
+Zerir entra, semblable à un cyprès élancé , et s’assit en face du trône du noble prince.
 
 Il demanda des nouvelles de la santé du Kaisar, lui adressa ses excuses et fit des politesses à tous les hommes de Roum.
 

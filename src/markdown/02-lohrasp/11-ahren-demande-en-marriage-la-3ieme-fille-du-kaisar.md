@@ -24,13 +24,13 @@ order: '11'
 
 Il y avait un homme plus jeune que Mirin, dont la taille dépassait celle de tous les grands du Roum: c’était un héros plein de dignité; son nom était Ahren, il descendait d’une race puissante, son corps était d’airain.
 
-Ce fils du roi se rendit auprès du Kaisar et lui dit :
+Ce fils du roi se rendit auprès du Kaisar et lui dit :
 
 > Puisse ce pays prospérer sous toi!
 >
 > Je suis supérieur à Mirin en toute chose, je suis plus riche, mon épée est plus forte, mon courage plus grand.
 >
-> Donne-moi ta fille cadette et je rendrai brillants ton armée et ton diadème.
+> Donne-moi ta fille cadette et je rendrai brillants ton armée et ton diadème.
 
 Le Kaisar répondit:
 
@@ -52,17 +52,17 @@ Il quitta le Kaisar, suffoqué de ses paroles. Il dit à ses amis :
 >
 > comment Mirin aurait-il pu faire une telle action? Le Kaisar ne sait pas distinguer un homme d’un autre.
 >
-> J’irai auprès de Mirin et lui ferai des questions : il m’indiquera peut-être quelqu’un qui ait un moyen de salut.
+> J’irai auprès de Mirin et lui ferai des questions : il m’indiquera peut-être quelqu’un qui ait un moyen de salut.
 
 Il courut au palais de Mirin et envoya un serviteur pour annoncer sa visite.
 
-Or Mirin avait une salle telle que la lune n’en posssède pas une semblable dans son orbite; c’était un homme ambitieux, hautain et brave, qui portait sur la tête un diadème comme le Kaisar.
+Or Mirin avait une salle telle que la lune n’en posssède pas une semblable dans son orbite; c’était un homme ambitieux, hautain et brave, qui portait sur la tête un diadème comme le Kaisar.
 
 Un esclave lui dit qu’Ahren au corps d’éléphant arrivait avec une escorte; alors il fit arranger sa salle encore plus magnifiquement, et ses principaux domestiques sortirent pour recevoir Ahren.
 
 Quand Mirin le vit, il l’embrassa et lui demanda des nouvelles de sa santé.
 
-Ensuite ils renvoyèrent tout le monde de la salle d’audience, et les deux princes s’assirent tout seuls sur le trône. Ahren lui dit:
+Ensuite ils renvoyèrent tout le monde de la salle d’audience, et les deux princes s’assirent tout seuls sur le trône. Ahren lui dit:
 
 > Réponds-moi, et ne cherche pas à me tromper dans ce que je te demande.
 >
@@ -72,21 +72,21 @@ Mirin, à ces paroles d’Ahren, se troubla et réfléchit que s’il refusait 
 
 Il dit à Ahren :
 
-> Je te dirai ce qui s’est passé avec le loup, quand tu m’auras prêté un grand serment de ne jamais parler de ce secret ni jour ni nuit, et de ne jamais ouvrir les lèvres sur ce sujet.
+> Je te dirai ce qui s’est passé avec le loup, quand tu m’auras prêté un grand serment de ne jamais parler de ce secret ni jour ni nuit, et de ne jamais ouvrir les lèvres sur ce sujet.
 
 Ahren s’engagea sur-le-champ par un serment solennel et accepta en tout point cette convention. Alors Mirin appliqua le roseau sur le papier et écrivit une lettre à Heischoui, dans laquelle il dit:
 
 > Ahren, qui descend de la famille des Kaisars, est un prince ambitieux, riche, juste et possesseur d’un trône;
 >
-> il demande à épouser une fille du Kaisar, la dernière qui lui reste;
+> il demande à épouser une fille du Kaisar, la dernière qui lui reste;
 >
 > mais le dragon lui tendra un piége et tâchera de le détruire.
 >
 > Il est venu chez moi pour me demander un moyen de salut, je lui ai dévoilé ce qui s’est passé et lui ai raconté́ exactement l’histoire du loup et du vaillant cavalier.
 >
-> Celui qui m’a tiré d’affaire voudra sans doute aussi tirer d’affaire Ahren, donner ainsi de la puissance dans ce pays à deux hommes, et placer sur son propre front un diadème brillant comme le soleil.
+> Celui qui m’a tiré d’affaire voudra sans doute aussi tirer d’affaire Ahren, donner ainsi de la puissance dans ce pays à deux hommes, et placer sur son propre front un diadème brillant comme le soleil.
 
-Ahren, qui cherchait un moyen de salut, se rendit en toute hâte auprès de Heischoui, et lorsqu’il fut arrivé au bord de la mer, l’ambitieux Heischoui l’aperçût, reçut de lui cette lettre faite pour le flatter, le salua humblement et rompit le fil qui fermait la lettre.
+Ahren, qui cherchait un moyen de salut, se rendit en toute hâte auprès de Heischoui, et lorsqu’il fut arrivé au bord de la mer, l’ambitieux Heischoui l’aperçût, reçut de lui cette lettre faite pour le flatter, le salua humblement et rompit le fil qui fermait la lettre.
 
 Ensuite il lui dit:
 
@@ -96,13 +96,13 @@ Ensuite il lui dit:
 >
 > Contente-toi, cette nuit, de cette maison; établis-toi ici, et réjouis-toi de l’aspect de la mer, car le héros illustre viendra demain et je lui dirai tout ce que tu voudras que je lui dise.
 
-Ils placèrent des flambeaux-sur le bord de la mer et se mirent à manger et à boire du vin jusqu’à ce que les lueurs du matin se répandissent du soleil sur la surface verte de la terre et la voûte bleue du ciel.
+Ils placèrent des flambeaux-sur le bord de la mer et se mirent à manger et à boire du vin jusqu’à ce que les lueurs du matin se répandissent du soleil sur la surface verte de la terre et la voûte bleue du ciel.
 
 Dans ce moment un vaillant cavalier parut sur la plaine; l’illustre Ahren l’aperçut du bord de la mer et dit à Heischoui:
 
-> Cet homme glorieux arrive; regarde, le ciel est rempli de la poussière que soulève son cheval.
+> Cet homme glorieux arrive; regarde, le ciel est rempli de la poussière que soulève son cheval.
 
-Quand il fut plus près les deux hommes au cœur joyeux coururent à pied au-devant de lui; le vaillant cavalier mit pied à terre et demanda à Heischoui du vin et de la nourriture.
+Quand il fut plus près les deux hommes au cœur joyeux coururent à pied au-devant de lui; le vaillant cavalier mit pied à terre et demanda à Heischoui du vin et de la nourriture.
 
 Heischoui s’empressa de lui adresser ces paroles:
 
@@ -124,7 +124,7 @@ Heischoui s’empressa de lui adresser ces paroles:
 >
 > Il tire du sein des airs le vautour, il arrache le crocodile terrible du fond de la mer; son haleine et son venin brûlent la terre; jamais personne n’a rien vu de semblable.
 >
-> Si tu parviens à le tuer, tu jetteras dans l’étonnement le monde entier; et si Dieu le très-saint te vient en aide dans cette entreprise, le soleil ne tournera plus que selon ton gré.
+> Si tu parviens à le tuer, tu jetteras dans l’étonnement le monde entier; et si Dieu le très-saint te vient en aide dans cette entreprise, le soleil ne tournera plus que selon ton gré.
 >
 > Nous ne connaissons aucun homme de guerre qui soit ton égal en stature et en force victorieuse.
 

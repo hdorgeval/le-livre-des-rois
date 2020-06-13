@@ -16,7 +16,7 @@ export default () => (
           la Bibliothèque Royale par Anquetil du Perron en 1762.
         </p>
         <p>
-          Tout le contenu de ce site provient de la Bibliothèque Nationale de France (
+          Tout le contenu de ce site provient de la Bibliothèque Nationale de France (
           <a href="https://gallica.bnf.fr" target="_blank" rel="noopener noreferrer">
             gallica.bnf.fr
           </a>

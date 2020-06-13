@@ -46,7 +46,7 @@ order: '15'
 
 # Djamasp dévoile à Guschtasp l'issue de la bataille
 
-Ayant quitté Balkh la glorieuse et étant arrivés sur le Djihoun, le roi et son armée s’arrêtèrent.
+Ayant quitté Balkh la glorieuse et étant arrivés sur le Djihoun, le roi et son armée s’arrêtèrent.
 
 Guschtasp sortit du camp, descendit de cheval et monta sur un trône;
 
@@ -62,7 +62,7 @@ Le roi lui adressa des questions, disant:
 >
 > Il faut que tu calcules les astres et que tu me dises le sort qui m’attend, quel sera le commencement et quelle sera la fin de ce combat, et qui sera frappé par le malheur dans ce lieu.
 
-Ces questions affligèrent le vieux Djamasp, et il répondit à Guschtasp d’un air désolé:
+Ces questions affligèrent le vieux Djamasp, et il répondit à Guschtasp d’un air désolé:
 
 > J’aurais désiré que Dieu, le distributeur de la justice, ne m’eût pas donné cette intelligence et cette faculté, car si je ne la possédais pas, le roi ne m’aurait pas demandé de lui prédire l’avenir.
 >
@@ -82,7 +82,7 @@ Le sage répondit:
 >
 > Sache, ô vaillant et illustre Keïanide, qu’au moment où la bataille amènera face à face les héros, et où ils pousseront leurs cris et leurs clameurs, tu croiras qu’on arrache tous les rochers de leur base.
 >
-> Les plus braves s’avanceront, l’air sera obscurci par la poussière du combat;
+> Les plus braves s’avanceront, l’air sera obscurci par la poussière du combat;
 >
 > tu verras alors le ciel devenir gris, la terre pleine de feu, l’air rempli de fumée;
 >
@@ -90,7 +90,7 @@ Le sage répondit:
 >
 > le monde se remplira du souffle brûlant de la lutte et du combat, et la voûte et les cercles du ciel seront brisés;
 >
-> les courants d’eau seront souillés par le sang des hommes, et tu verras bien des fils privés de leurs pères et bien des pères privés de leurs fils.
+> les courants d’eau seront souillés par le sang des hommes, et tu verras bien des fils privés de leurs pères et bien des pères privés de leurs fils.
 >
 > Ardeschir, le Keïanide illustre, le chef des princes, le vaillant guerrier, lancera le premier son cheval rapide et abattra quiconque s’opposera à lui;
 >
@@ -100,13 +100,13 @@ Le sage répondit:
 >
 > Ensuite Schidasp, de naissance royale, poussera son destrier noir sur les traces d’Ardeschir, pour venger sa mort;
 >
-> il se mettra en colère et tirera son épée;
+> il se mettra en colère et tirera son épée;
 >
 > il tuera dans ce combat bien des hommes, mais sa mauvaise fortune le perdra à la fin, et cette tête qui portait une couronne en sera priyée.
 >
 > Alors mon fils s’élancera ceint de ma ceinture, il s’élancera au milieu du champ de bataille, semblable à Rustem, pour venger Schidasp, le fils du roi, et nombreux sont les grands et les héros de la Chine que ce lion vaillant couchera sur la terre.
 >
-> Il supportera beaucoup de fatigues dans cette lutte, mais oserai-je dire au roi des rois comment, lorsque les Iraniens auront jeté le drapeau brillant de Kaweh, mon fils Guerami, apercevant du haut de son cheval ce drapeau impérial gisant dans le sang et la poussière, sautera à bas de son cheval, le saisira et l’emportera bravement, comment il tiendra le drapeau violet dans une main et l’épée dans l’autre, renversera ainsi les ennemis et arrachera la vie aux Ahrimans?
+> Il supportera beaucoup de fatigues dans cette lutte, mais oserai-je dire au roi des rois comment, lorsque les Iraniens auront jeté le drapeau brillant de Kaweh, mon fils Guerami, apercevant du haut de son cheval ce drapeau impérial gisant dans le sang et la poussière, sautera à bas de son cheval, le saisira et l’emportera bravement, comment il tiendra le drapeau violet dans une main et l’épée dans l’autre, renversera ainsi les ennemis et arrachera la vie aux Ahrimans?
 >
 > Mais le moment viendra où un ennemi acharné abattra avec son épée tranchante la main de Guerami, qui saisira le drapeau avec ses dents, qui portera dans ses dents le drapeau violet, jusqu’à ce qu’une flèche lui traverse le milieu du corps, et que le héros disparaisse pour toujours.
 >
@@ -122,13 +122,13 @@ Le sage répondit:
 >
 > Le vaillant lion, le cavalier avide de combats, qui porte le nom de Zerir, s’avancera alors, armé du lacet et monté sur un destrier isabelle appartenant à Isfendiar, brillant dans sa cuirasse d’or comme la lune et jetant dans l’admiration toute l’armée.
 >
-> Il s’emparera de mille braves de l’armée des Turcs, les liera et les enverra auprès du roi, et partout où il montrera son visage royal le sang de nos ennemis coulera en ruisseaux.
+> Il s’emparera de mille braves de l’armée des Turcs, les liera et les enverra auprès du roi, et partout où il montrera son visage royal le sang de nos ennemis coulera en ruisseaux.
 >
 > Tous éclateront en louanges de ce héros, en le voyant détruire un si grand nombre des plus braves parmi les Turcs, qui n’oseront plus se tenir devant lui, et le roi du peuple qui demeure sous des tentes tremblera.
 >
 > Zerir apercevra le corps du puissant Ardeschir, dont le visage sera noirci et les membres jaunis;
 >
-> il le pleurera amèrement, sa colère s’allumera, il excitera son cheval arabe de couleur isabelle, se dirigera vers le Khakan, rempli de rage et du désir de la vengeance, comme s’il allait l’arracher de son cheval;
+> il le pleurera amèrement, sa colère s’allumera, il excitera son cheval arabe de couleur isabelle, se dirigera vers le Khakan, rempli de rage et du désir de la vengeance, comme s’il allait l’arracher de son cheval;
 >
 > en voyant Ardjasp au milieu de son armée, il chantera les louanges du roi Guschtasp, détruira des rangs entiers d’ennemis, et ne s’inquiétera de personne sur la terre;
 >
@@ -152,7 +152,7 @@ Le sage répondit:
 >
 > une poussière noire volera jusqu’au soleil, et à travers cette poussière personne ne verra la face de la lune. Les pointes des lances, des flèches et des épées étincelleront comme des astres dont l’éclat perce le brouillard.
 >
-> Que d’hommes morts sous les coups des héros et jetés les uns sur les autres, tous blessés, tous couchés l’un sur l’autre, le père sur le fils, le fils sur le père!
+> Que d’hommes morts sous les coups des héros et jetés les uns sur les autres, tous blessés, tous couchés l’un sur l’autre, le père sur le fils, le fils sur le père!
 >
 > Au milieu des cris et des lamentations des blessés, on fera prisonniers ceux qui restent debout, et tant d’hommes de cette armée seront tués que le champ de bataille sera inondé de leur sang.
 >
@@ -194,9 +194,9 @@ Lorsqu’il fut revenu à lui, il descendit de son trône et pleura amèrement
 
 Ensuite il dit à Djamasp:
 
-> Puisqu’il en est ainsi, je n’appellerai pas mon vaillant frère au moment où il faudra aller sur le champ de bataille;
+> Puisqu’il en est ainsi, je n’appellerai pas mon vaillant frère au moment où il faudra aller sur le champ de bataille;
 >
-> je ne désolerai pas le cœur de ma vieille mère, je défendrai à Zerir de prendre part au combat;
+> je ne désolerai pas le cœur de ma vieille mère, je défendrai à Zerir de prendre part au combat;
 >
 > je confierai le commandement de l’armée au fortuné Gurezm.
 >
@@ -208,7 +208,7 @@ Le sage répondit au maître de la terre:
 
 > Ô roi glorieux et tendre de cœur! si ces hommes ne se trouvent pas au-devant des rangs de l’armée, leurs casques de Keïanides sur la tête, qui osera s’opposer aux héros de la Chine, qui ramènera la splendeur de notre religion pure?
 >
-> Lève-toi de cette poussière et monte sur le trône;
+> Lève-toi de cette poussière et monte sur le trône;
 >
 > ne laisse pas se perdre la majesté de la royauté, car ceci est le secret de Dieu, il n’y a point de remède, et ce que fait le Seigneur n’est pas une chose injuste.
 >
