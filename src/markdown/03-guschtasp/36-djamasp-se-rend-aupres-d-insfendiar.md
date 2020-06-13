@@ -73,7 +73,7 @@ Isfendiar lui répondit:
 >
 > Mais je prends mes fers à témoin devant Dieu que Guschtasp m’a fait injustice, et qu’Ahriman s’est réjoui des paroles de Gurezm.
 >
-> Voici la récompense de mes peines! et le trésor qu’on a apprêté pour moi, ce sont des fers!
+> Voici la récompense de mes peines! et le trésor qu’on a apprêté pour moi, ce sont des fers!
 >
 > A Dieu ne plaise que je l’oublie, et que tes paroles me rendent insensé!
 

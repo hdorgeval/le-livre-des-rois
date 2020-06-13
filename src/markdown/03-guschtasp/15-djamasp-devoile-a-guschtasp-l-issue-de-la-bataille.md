@@ -46,7 +46,7 @@ order: '15'
 
 # Djamasp dévoile à Guschtasp l'issue de la bataille
 
-Ayant quitté Balkh la glorieuse et étant arrivés sur le Djihoun, le roi et son armée s’arrêtèrent.
+Ayant quitté Balkh la glorieuse et étant arrivés sur le Djihoun, le roi et son armée s’arrêtèrent.
 
 Guschtasp sortit du camp, descendit de cheval et monta sur un trône;
 
@@ -102,7 +102,7 @@ Le sage répondit:
 >
 > il se mettra en colère et tirera son épée;
 >
-> il tuera dans ce combat bien des hommes, mais sa mauvaise fortune le perdra à la fin, et cette tête qui portait une couronne en sera priyée.
+> il tuera dans ce combat bien des hommes, mais sa mauvaise fortune le perdra à la fin, et cette tête qui portait une couronne en sera priyée.
 >
 > Alors mon fils s’élancera ceint de ma ceinture, il s’élancera au milieu du champ de bataille, semblable à Rustem, pour venger Schidasp, le fils du roi, et nombreux sont les grands et les héros de la Chine que ce lion vaillant couchera sur la terre.
 >
@@ -118,7 +118,7 @@ Le sage répondit:
 >
 > Nivzar, le fils du maître du monde, le cavalier d’élite, s’avancera, il se ruera sur ces Ahrimans, abattra parmi eux soixante braves et déploiera une valeur digne d’un Pehlewan;
 >
-> mais les Turcs finiront par le frapper à la tête et jetteront sur le sol son corps de héros.
+> mais les Turcs finiront par le frapper à la tête et jetteront sur le sol son corps de héros.
 >
 > Le vaillant lion, le cavalier avide de combats, qui porte le nom de Zerir, s’avancera alors, armé du lacet et monté sur un destrier isabelle appartenant à Isfendiar, brillant dans sa cuirasse d’or comme la lune et jetant dans l’admiration toute l’armée.
 >

@@ -130,7 +130,7 @@ Il dit à haute voix à Beschouten:
 >
 > Je me suis bravement présenté devant l’haleine du dragon, mais ici la force d’un héros ne sert à rien.
 >
-> Priez tous Dieu, adressez-vous à lui, célébrez sa gloire, peut-être détournera-t-il de nous ces maux; sinon aucun de nous ne foulera plus la terre.
+> Priez tous Dieu, adressez-vous à lui, célébrez sa gloire, peut-être détournera-t-il de nous ces maux; sinon aucun de nous ne foulera plus la terre.
 
 Beschouten se présenta devant Dieu, le guide dans le bonheur et dans le malheur; toute l’armée leva des mains suppliantes et fit des prières infinies.
 

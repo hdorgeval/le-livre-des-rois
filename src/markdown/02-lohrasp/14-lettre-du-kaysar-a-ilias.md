@@ -36,7 +36,7 @@ Le Kaisar écrivit une lettre à Ilias, telle qu’on aurait dit qu’il avait 
 
 Ilias lut la lettre, trempa son roseau dans du poison et répondit:
 
-> Autrefois il n’y avait pas tant de valeur dans le Roum; si je ne vous demande pas de tribut, vous devriez être contents dans votre pays.
+> Autrefois il n’y avait pas tant de valeur dans le Roum; si je ne vous demande pas de tribut, vous devriez être contents dans votre pays.
 >
 > Vous devez tout ce courage à un seul cavalier, à cet homme qui a trouvé un refuge auprès de vous; mais sache que ceci est un piège d’Ahriman et que Farrukhzad n’est qu’un seul homme, fût-il semblable à une montagne de fer.
 >
@@ -52,7 +52,7 @@ Ces paroles rendirent soucieux le Kaisar, et il pâlit en pénétrant leurs men�
 
 > Tu es un noble homme, tu es comme un ornement placé sur le front de ce pays.
 >
-> Sache qu’Ilias est un vainqueur de lions; quand il est en colère, il devient un éléphant au corps d’airain; dis-moi si tu es de force à lutter contre lui, et ne cherche pas en cela à te faire honneur en me trompant; car, si tu ne crois pas pouvoir lui tenir tête, je m’arrangerai avec lui amicalement, je le ferai revenir par la douceur, je verserai sur lui de bonnes paroles et des trésors.
+> Sache qu’Ilias est un vainqueur de lions; quand il est en colère, il devient un éléphant au corps d’airain; dis-moi si tu es de force à lutter contre lui, et ne cherche pas en cela à te faire honneur en me trompant; car, si tu ne crois pas pouvoir lui tenir tête, je m’arrangerai avec lui amicalement, je le ferai revenir par la douceur, je verserai sur lui de bonnes paroles et des trésors.
 
 Guschtasp lui répondit :
 
@@ -68,11 +68,11 @@ Guschtasp lui répondit :
 
 Le lendemain, lorsque le soleil eut paru et eut réfléchi dans l’eau son bouclier d’or, le bruit des trompettes éclata du côté des Khazars et la poussière s’éleva droit jusqu’au soleil.
 
-Le Kaisar, qui portait haut la tête, dit à Guschtasp:
+Le Kaisar, qui portait haut la tête, dit à Guschtasp:
 
 > Maintenant fais paraître tes troupes!
 
-et Guschtasp sortit de Roum; il aperçut l’armée et les héros des Khazars dans la plaine, s’avança, tenant une massue à tête de bœuf, semblable à un cyprès élancé sur le bord d’un courant d’eau, choisit dans la plaine son champ de bataille et fit voler la poussière jusqu’aux nuages.
+et Guschtasp sortit de Roum; il aperçut l’armée et les héros des Khazars dans la plaine, s’avança, tenant une massue à tête de bœuf, semblable à un cyprès élancé sur le bord d’un courant d’eau, choisit dans la plaine son champ de bataille et fit voler la poussière jusqu’aux nuages.
 
 Quand Ilias vit la poitrine et la stature de cet homme et comment sa main brandissait la massue, il envoya un cavalier auprès de lui pour tromper son esprit subtil. Le messager s’avança et lui dit:
 
@@ -94,4 +94,4 @@ Guschtasp lui répondit :
 >
 > Il est temps de lutter et d’engager le combat.
 
-Le messager s’en retourna, allant comme le vent, et apporta à Ilias la réponse qu’il avait reçue; mais comme le soleil pâlissait sur la crête des montagnes, il était trop tard pour livrer une bataille; la nuit vint et enveloppa d’un voile couleur d’ébène la face rouge du soleil.
+Le messager s’en retourna, allant comme le vent, et apporta à Ilias la réponse qu’il avait reçue; mais comme le soleil pâlissait sur la crête des montagnes, il était trop tard pour livrer une bataille; la nuit vint et enveloppa d’un voile couleur d’ébène la face rouge du soleil.

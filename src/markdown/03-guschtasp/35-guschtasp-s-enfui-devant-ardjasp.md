@@ -38,7 +38,7 @@ Le roi lui répondit:
 
 Djamasp lui dit:
 
-> Ô roi, écoute ma parole et prête-moi l’oreille!
+> Ô roi, écoute ma parole et prête-moi l’oreille!
 >
 > Je sais, ô roi, qu’Isfendiar use ses chaînes, plongé dans le malheur.
 >
@@ -66,7 +66,7 @@ Le roi, maître du monde, dit à Djamasp:
 >
 > Porte-lui mes bénédictions, sois bon pour lui, parle-lui bien, sois bon pour lui plus que jamais.
 >
-> Dis-lui que l’homme qui a fait commettre cette injustice a quitté ce monde, la rage au cœur, et que moi, qui me suis prêté aux intentions de cet insensé, je me suis tordu de douleur après avoir été injuste, et que je suis prêt à faire le bien en expiation du mal.
+> Dis-lui que l’homme qui a fait commettre cette injustice a quitté ce monde, la rage au cœur, et que moi, qui me suis prêté aux intentions de cet insensé, je me suis tordu de douleur après avoir été injuste, et que je suis prêt à faire le bien en expiation du mal.
 >
 > S’il veut rejeter de son cœur toute pensée de vengeance, il abaissera dans la poussière la tête de nos ennemis;
 >

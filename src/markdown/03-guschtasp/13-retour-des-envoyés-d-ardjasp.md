@@ -48,7 +48,7 @@ Ils se rendirent de la ville fortunée de Balkh à Khallakh, mais ils n’y fur
 
 Lorsqu’ils aperçurent de loin le palais du roi, sur lequel était planté le drapeau noir, ils descendirent de leurs montures bondissantes, le cœur brisé, les yeux aveuglés par les lames.
 
-Ils allèrent ainsi à pied jusqu’auprès de lui, vêtus de noir et le visage pâle; ils lui remirent la lettre du roi que Zerir, le cavalier, avait écrite en réponse à Ardjasp.
+Ils allèrent ainsi à pied jusqu’auprès de lui, vêtus de noir et le visage pâle; ils lui remirent la lettre du roi que Zerir, le cavalier, avait écrite en réponse à Ardjasp.
 
 Il fit convoquer ses scribes et les hommes jeunes et vieux du Touran, et ordonna aux scribes de lui lire d’abord toute la lettre du commencement à la fin.
 
@@ -64,7 +64,7 @@ Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du va
 >
 > Tu as dit que dans quelques mois tu conduiras une armée contre ce beau pays; mais il ne se passera ni beaucoup de mois ni beaucoup de jours avant que nous amenions nos lions de combat.
 >
-> Dispense-toi de te donner beaucoup de peine, car nous-mêmes avons ouvert les portes du trésor, nous amènerons des milliers de milliers de braves, tous des hommes comme des lions, qui frappent avec leurs lances, tous de la race d’Iredj, tous des Perses, et non pas de la race d’Afrasiab, non pas des Turcs, tous au visage de lune, tous à figure de roi, tous des cyprès élancés, tous disant la vérité, tous dignes de la royauté et du trône, tous dignes de trésors, de couronnes et de commandements, tous tenant des lances et vainqueurs de lions, tous des ornements des armées et destructeurs des armées, tous ayant accepté la foi, tous hommes de sens, tous dignes de bracelets et de boucles d’oreilles, tous la lance au poing et montés sur des destriers, tous portant mon nom gravé surs leurs anneaux.
+> Dispense-toi de te donner beaucoup de peine, car nous-mêmes avons ouvert les portes du trésor, nous amènerons des milliers de milliers de braves, tous des hommes comme des lions, qui frappent avec leurs lances, tous de la race d’Iredj, tous des Perses, et non pas de la race d’Afrasiab, non pas des Turcs, tous au visage de lune, tous à figure de roi, tous des cyprès élancés, tous disant la vérité, tous dignes de la royauté et du trône, tous dignes de trésors, de couronnes et de commandements, tous tenant des lances et vainqueurs de lions, tous des ornements des armées et destructeurs des armées, tous ayant accepté la foi, tous hommes de sens, tous dignes de bracelets et de boucles d’oreilles, tous la lance au poing et montés sur des destriers, tous portant mon nom gravé surs leurs anneaux.
 >
 > Quand ils sauront que j’ai placé les timbales sur mon éléphant, ils aplaniront les montagnes avec les sabots de leurs chevaux;
 >
@@ -72,15 +72,15 @@ Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du va
 >
 > assis sur leurs chevaux comme des rochers, ils briseront les rochers avec leurs épées.
 >
-> Deux hommes choisis parmi eux, deux vaillants cavaliers, le Sipehdar Zerir et Isfendiar, quand ils revêtent leurs cottes de mailles de fer, n’hésitent pas à attaquer le ciel;
+> Deux hommes choisis parmi eux, deux vaillants cavaliers, le Sipehdar Zerir et Isfendiar, quand ils revêtent leurs cottes de mailles de fer, n’hésitent pas à attaquer le ciel;
 >
 > quand ils lèvent au-dessus de l’épaule leurs lourdes massues, il en jaillit de la gloire et de la puissance.
 >
-> Lorsqu’ils viendront à la tête de l’armée, il faudra bien que tu fasses attention à eux;
+> Lorsqu’ils viendront à la tête de l’armée, il faudra bien que tu fasses attention à eux;
 >
 > ils ressemblent au soleil avec leurs couronnes et sur leur trône, et leur visage resplendit de majesté et de bonheur; ce sont des héros et des chefs choisis, des hommes loués par tous, agréables à tous et des Mobeds.
 >
-> Ne comble pas le Djihoun de musc, car j’ouvrirai moi-même les portes de ton trésor avare, et, s’il plait à Dieu, je te combattrai au jour de la bataille et je jetterai ta tête sous mes pieds.
+> Ne comble pas le Djihoun de musc, car j’ouvrirai moi-même les portes de ton trésor avare, et, s’il plait à Dieu, je te combattrai au jour de la bataille et je jetterai ta tête sous mes pieds.
 
 Le roi des Turcs, ayant lu cette lettre, descendit de son trône et resta un instant confondu, puis il ordonna à son Sipehbed d’appeler dès le lendemain de grand matin ses troupes de toutes les parties du royaume.
 
@@ -92,7 +92,7 @@ Il ouvrit la porte de son trésor et distribua la solde;
 
 il fit sonner les trompettes d’airain et préparer les bagages, ensuite il appela son frère Kehrem et lui donna le commandement d’une aile de l’armée;
 
-il mit l’autre aile sous les ordres d’Endirman, et lui-même prit le centre.
+il mit l’autre aile sous les ordres d’Endirman, et lui-même prit le centre.
 
 Il y avait un Turc du nom de Gurgsar, un homme déjà vieux: on, aurait dit qu’il ne connaissait que le mal; Ardjasp lui donna le commandement en chef;
 

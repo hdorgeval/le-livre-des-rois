@@ -126,13 +126,13 @@ Rustem sourit et dit à Isfendiar:
 >
 > Alors, ô fortuné Isfendiar, tu verras ce que sont les luttes et les chances d’un combat.
 >
-> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
+> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
 >
 > J’ouvrirai la porte de mon trésor, je placerai devant toi, dans sa magnificence, tout ce que je possède de précieux, je mettrai ton armée au-dessus de tout besoin, j’élèverai ton casque jusque dans les nues.
 >
 > Ensuite nous partirons pour la cour du roi, entourés de pompe, jouant et nous réjouissant en route;
 >
-> Je poserai bravement la couronne sur ta tête, et c’est ainsi que je remercierai Guschtasp.
+> Je poserai bravement la couronne sur ta tête, et c’est ainsi que je remercierai Guschtasp.
 >
 > Ensuite je me ceindrai comme un esclave, comme je me suis ceint devant les Keïanides, j’arracherai du jardin de mon cœur toute mauvaise herbe;
 >

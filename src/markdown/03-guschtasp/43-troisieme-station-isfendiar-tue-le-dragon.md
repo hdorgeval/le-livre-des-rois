@@ -39,7 +39,7 @@ Il répondit:
 >
 > Tu ferais mieux de t’en retourner, et ton intelligence attestera que ce conseil est bon.
 >
-> Tu ne te ménages pas toi-même, mais ménage donc cette belle armée que tu as rassemblée.
+> Tu ne te ménages pas toi-même, mais ménage donc cette belle armée que tu as rassemblée.
 
 Isfendiar lui répondit:
 

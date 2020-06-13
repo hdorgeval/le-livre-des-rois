@@ -19,7 +19,7 @@ Tout à coup Dakiki parut devant lui et se mit à lui parler de cette coupe de
 >
 > Tu as fait quelques progrès dans ce livre, et maintenant tu as atteint tout ce que tu désirais;
 >
-> et moi aussi j’avais de la même manière, avant toi, commencé ce poème;
+> et moi aussi j’avais de la même manière, avant toi, commencé ce poème;
 >
 > si tu retrouves mes vers, ne sois pas avare envers moi;
 >

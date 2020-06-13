@@ -143,7 +143,7 @@ La réponse fut conçue en ces termes:
 >
 > Les Grands de l'Iran ont renoncé à l'envie, & embrassé sa Loi, en disant: un homme ne peut apprendre de lui-même de telles choses; il faut reconnaitre ici la voix de Dieu.
 >
-> Si cela vous fait quelque peine, venez vous-même ici: nous vous offrons pour la route tous les secours qui vous seront nécessaires, persuadés que, quand vous serez devant Zoroastre, vous serez vous-même étonné de la profondeur de sa science.
+> Si cela vous fait quelque peine, venez vous-même ici: nous vous offrons pour la route tous les secours qui vous seront nécessaires, persuadés que, quand vous serez devant Zoroastre, vous serez vous-même étonné de la profondeur de sa science.
 >
 > Lorsque vous lirez cette lettre, pesez bien ce qu’elle renferme.
 >

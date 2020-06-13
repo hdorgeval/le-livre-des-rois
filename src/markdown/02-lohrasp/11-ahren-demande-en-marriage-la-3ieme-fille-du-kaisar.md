@@ -34,7 +34,7 @@ Ce fils du roi se rendit auprès du Kaisar et lui dit :
 
 Le Kaisar répondit:
 
-> Tu as peut-être entendu quel serment j’ai fait devant le Créateur. J’ai juré que ma fille ne choisira pas son mari, et que je dévierai des coutumes de mes ancêtres.
+> Tu as peut-être entendu quel serment j’ai fait devant le Créateur. J’ai juré que ma fille ne choisira pas son mari, et que je dévierai des coutumes de mes ancêtres.
 >
 > Il faut faire une action comme celle de Mirin, ensuite tu seras mon égal.
 >
@@ -48,15 +48,15 @@ Ahren lui répondit:
 
 Il quitta le Kaisar, suffoqué de ses paroles. Il dit à ses amis :
 
-> Ce coup de mort du loup n’a pu être donné que par l’épée d’un héros;
+> Ce coup de mort du loup n’a pu être donné que par l’épée d’un héros;
 >
 > comment Mirin aurait-il pu faire une telle action? Le Kaisar ne sait pas distinguer un homme d’un autre.
 >
-> J’irai auprès de Mirin et lui ferai des questions : il m’indiquera peut-être quelqu’un qui ait un moyen de salut.
+> J’irai auprès de Mirin et lui ferai des questions : il m’indiquera peut-être quelqu’un qui ait un moyen de salut.
 
 Il courut au palais de Mirin et envoya un serviteur pour annoncer sa visite.
 
-Or Mirin avait une salle telle que la lune n’en posssède pas une semblable dans son orbite; c’était un homme ambitieux, hautain et brave, qui portait sur la tête un diadème comme le Kaisar.
+Or Mirin avait une salle telle que la lune n’en posssède pas une semblable dans son orbite; c’était un homme ambitieux, hautain et brave, qui portait sur la tête un diadème comme le Kaisar.
 
 Un esclave lui dit qu’Ahren au corps d’éléphant arrivait avec une escorte; alors il fit arranger sa salle encore plus magnifiquement, et ses principaux domestiques sortirent pour recevoir Ahren.
 
@@ -68,11 +68,11 @@ Ensuite ils renvoyèrent tout le monde de la salle d’audience, et les deux pr
 >
 > Je désire épouser la fille du Kaisar, qui est la plus grande dame du Roum. Je l’ai dit au Kaisar, et il m’a répondu que je devais combattre le dragon dans la montagne; raconte-moi donc ton combat avec le loup, et sers-moi de guide et de maître.
 
-Mirin, à ces paroles d’Ahren, se troubla et réfléchit que s’il refusait de dire à Ahren ce que Guschtasp, le champion du monde, avait fait, cela néanmoins ne resterait pas caché; qu’un homme devait, avant tout, agir avec droiture, pendant que les voies ténébreuses et tortueuses ne conduisaient qu’à des larmes; qu’il valait donc mieux dire la vérité; que peut-être ce cavalier vaillant abattrait la tête du dragon, et qu’alors, lui et Ahren étant amis et se soutenant, il ne resterait dans les mains de leurs ennemis que du vent; plus tard ils pourraient détruire le cavalier, car leur secret resterait bien caché quelque temps.
+Mirin, à ces paroles d’Ahren, se troubla et réfléchit que s’il refusait de dire à Ahren ce que Guschtasp, le champion du monde, avait fait, cela néanmoins ne resterait pas caché; qu’un homme devait, avant tout, agir avec droiture, pendant que les voies ténébreuses et tortueuses ne conduisaient qu’à des larmes; qu’il valait donc mieux dire la vérité; que peut-être ce cavalier vaillant abattrait la tête du dragon, et qu’alors, lui et Ahren étant amis et se soutenant, il ne resterait dans les mains de leurs ennemis que du vent; plus tard ils pourraient détruire le cavalier, car leur secret resterait bien caché quelque temps.
 
 Il dit à Ahren :
 
-> Je te dirai ce qui s’est passé avec le loup, quand tu m’auras prêté un grand serment de ne jamais parler de ce secret ni jour ni nuit, et de ne jamais ouvrir les lèvres sur ce sujet.
+> Je te dirai ce qui s’est passé avec le loup, quand tu m’auras prêté un grand serment de ne jamais parler de ce secret ni jour ni nuit, et de ne jamais ouvrir les lèvres sur ce sujet.
 
 Ahren s’engagea sur-le-champ par un serment solennel et accepta en tout point cette convention. Alors Mirin appliqua le roseau sur le papier et écrivit une lettre à Heischoui, dans laquelle il dit:
 
@@ -90,7 +90,7 @@ Ahren, qui cherchait un moyen de salut, se rendit en toute hâte auprès de He
 
 Ensuite il lui dit:
 
-> Ô homme illustre, puissent les âmes nobles ne jamais être affligées! Un jeune et glorieux étranger a donné à Mirin sa vie pour gage, et maintenant, quand il combattra le terrible dragon, il faut espérer qu’il ne périra pas dans cette lutte.
+> Ô homme illustre, puissent les âmes nobles ne jamais être affligées! Un jeune et glorieux étranger a donné à Mirin sa vie pour gage, et maintenant, quand il combattra le terrible dragon, il faut espérer qu’il ne périra pas dans cette lutte.
 >
 > Je ne puis que parler, c’est à lui d’agir; mais c’est toujours quelque chose que de donner de bonnes paroles.
 >
@@ -106,7 +106,7 @@ Quand il fut plus près les deux hommes au cœur joyeux coururent à pied au-d
 
 Heischoui s’empressa de lui adresser ces paroles:
 
-> Puisses-tu être heureux jour et nuit, ô homme illustre!
+> Puisses-tu être heureux jour et nuit, ô homme illustre!
 >
 > Regarde ce descendant des Kaisars, qui fait la joie du ciel qui tourne.
 >
@@ -118,9 +118,9 @@ Heischoui s’empressa de lui adresser ces paroles:
 >
 > > Deviens vainqueur de dragons; si tu es de ma race, fais une empreinte de Kaisar.
 >
-> Devant les grands, il ne parle, jour et nuit, que de Mirin, en répétant que quiconque veut devenir un ornement du trône doit être l’émule du renom et de la fortune de Mirin.
+> Devant les grands, il ne parle, jour et nuit, que de Mirin, en répétant que quiconque veut devenir un ornement du trône doit être l’émule du renom et de la fortune de Mirin.
 >
-> Or, il y a non loin d’ici une haute montagne, qui offre partout des lieux propices aux fêtes et aux banquets; mais un dragon demeure sur le sommet de la montagne, et tout le pays de Roum est terrifié par ses ravages;
+> Or, il y a non loin d’ici une haute montagne, qui offre partout des lieux propices aux fêtes et aux banquets; mais un dragon demeure sur le sommet de la montagne, et tout le pays de Roum est terrifié par ses ravages;
 >
 > Il tire du sein des airs le vautour, il arrache le crocodile terrible du fond de la mer; son haleine et son venin brûlent la terre; jamais personne n’a rien vu de semblable.
 >

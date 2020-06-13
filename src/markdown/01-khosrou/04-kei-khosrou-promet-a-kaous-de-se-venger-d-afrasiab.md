@@ -79,7 +79,7 @@ Il y demeura durant la nuit sombre et jusqu’à ce que le soleil parût, en so
 
 Après avoir touché plusieurs fois la terre avec son front et célébré les louanges du Créateur, il s’en retourna à son trône et dit aux Pehlewans qui portaient haut la tête:
 
-> Ô mes braves, qui êtes prêts à conquérir le monde et à frapper avec vos épées!
+> Ô mes braves, qui êtes prêts à conquérir le monde et à frapper avec vos épées!
 >
 > J’ai traversé à cheval le pays d’Iran, d’ici jusqu’au temple d’Adergouschasp.
 >
@@ -91,7 +91,7 @@ Après avoir touché plusieurs fois la terre avec son front et célébré les lo
 >
 > Le noble roi mon grand-père ne cesse également de pousser des soupirs, et dans tout le pays d’Iran on entend les hommes et les femmes se lamenter sur les meurtres et les pillages, sur les guerres et les dévastations.
 >
-> Maintenant, puisque vous êtes tous mes amis sincères, puisque vous m’êtes tous dévoués, armons-nous pour venger mon père, délivrons l’Iran de ses maux;
+> Maintenant, puisque vous êtes tous mes amis sincères, puisque vous m’êtes tous dévoués, armons-nous pour venger mon père, délivrons l’Iran de ses maux;
 >
 > Allons tous à la guerre, luttons et combattons comme des léopards.
 >

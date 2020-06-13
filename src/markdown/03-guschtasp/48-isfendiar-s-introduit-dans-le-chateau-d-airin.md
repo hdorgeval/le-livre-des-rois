@@ -49,27 +49,27 @@ Le héros dit:
 >
 > Aie toujours des sentinelles, envoie sans cesse des vedettes, ne te relâche d’aucune précaution; si tes sentinelles voient de la fumée pendant le jour, ou pendant la nuit un feu qui éclaire le monde comme le soleil, sache que c’est mon œuvre, et non pas un moyen employé par mes ennemis.
 >
-> Alors mets en ordre tes troupes et fais-les partir d’ici, armées de cottes de mailles, de casques et de lourdes massues; déploie sur-le-champ mon drapeau, place-toi au centre de l’armée, avance-toi rapidement, la massue à tête de bœuf en main, et agis de manière qu’on te prenne pour Isfendiar.
+> Alors mets en ordre tes troupes et fais-les partir d’ici, armées de cottes de mailles, de casques et de lourdes massues; déploie sur-le-champ mon drapeau, place-toi au centre de l’armée, avance-toi rapidement, la massue à tête de bœuf en main, et agis de manière qu’on te prenne pour Isfendiar.
 
 Ensuite il appela le chef des chameliers, le fit mettre à genoux devant Beschouten et lui dit:
 
-> Prépare cent chameaux de charge, au poil roux, à la tête haute, des bêtes superbes.
+> Prépare cent chameaux de charge, au poil roux, à la tête haute, des bêtes superbes.
 
 Il en chargea dix d’or, cinq de brocart de Chine et cinq autres de joyaux de toute espèce, d’un trône d’or et d’une couronne d’un grand poids.
 
 Il fit apporter quatre-vingts paires de caisses dont les fermetures n’étaient pas visibles, et choisit parmi ses héros cent soixante hommes qui certainement ne trahiraient pas son secret. Il plaça ces héros dans les caisses, fit charger les bagages et se mit en route.
 
-Il choisit vingt de ses grands, des hommes qui portaient haut la tête et frappaient de l’épée, et ordonna à ces nobles de marcher devant la caravane comme des chameliers.
+Il choisit vingt de ses grands, des hommes qui portaient haut la tête et frappaient de l’épée, et ordonna à ces nobles de marcher devant la caravane comme des chameliers.
 
 Le Sipehbed se dirigea ainsi vers le fort et marcha rapidement, déguisé en marchand, chaussé avec des bottines, ayant sur le corps une robe de laine, et portant dans ses ballots des joyaux, de l’or et de l’argent.
 
 Il marcha ainsi avec cette magnifique caravane, précédé de ses chameliers.
 
-Quand on entendit les clochettes de la caravane et qu’on vit marcher à sa tête un marchand, les grands dans la forteresse en furent informés, et ils en parlèrent longuement et avidement, disant:
+Quand on entendit les clochettes de la caravane et qu’on vit marcher à sa tête un marchand, les grands dans la forteresse en furent informés, et ils en parlèrent longuement et avidement, disant:
 
 > Il vient un marchand qui vendra pour un direm ce qui vaut un dinar.
 
-Les grands portant haut la tête et ayant envie de faire des achats allèrent à sa rencontre, et chacun demanda au maître des ballots ce qu’ils contenaient qui pouvait être utile.
+Les grands portant haut la tête et ayant envie de faire des achats allèrent à sa rencontre, et chacun demanda au maître des ballots ce qu’ils contenaient qui pouvait être utile.
 
 Il leur répondit:
 
@@ -79,17 +79,17 @@ ll fit déposer les charges de ses chameaux, et se mit à réfléchir à ce qu
 
 Il prit un cheval, deux robes de brocart de Chine dont les bras et les manches brillaient, une coupe remplie de joyaux dignes d’un roi, des dinars pour l’offrande, et une pièce de soie qui couvrait la coupe et au-dessous de laquelle se trouvaient du musc et de l’ambre gris.
 
-Lui-même se revêtit de brocart magnifique, et c’est ainsi que le voyageur se rendit auprès d’Ardjasp.
+Lui-même se revêtit de brocart magnifique, et c’est ainsi que le voyageur se rendit auprès d’Ardjasp.
 
 Quand il vit le roi, il versa sur lui les dinars en disant:
 
-> Puisse la raison être la compagne des rois!
+> Puisse la raison être la compagne des rois!
 >
 > Ô roi, je suis un marchand né d’un père turc et d’une mère persane.
 >
 > J’achète des marchandises dans le Touran, je les porte dans l’lran ou dans le désert des braves.
 >
-> J’ai amené une caravane de chameaux, et je vends et j’achète des étoffes pour vêlements, des tapis, des pierres précieuses, des diadèmes et toutes sortes de belles choses.
+> J’ai amené une caravane de chameaux, et je vends et j’achète des étoffes pour vêlements, des tapis, des pierres précieuses, des diadèmes et toutes sortes de belles choses.
 >
 > J’ai laissé mes bagages hors du château, car j’estime que le monde est sous ta garde.
 >
@@ -119,7 +119,7 @@ De tous côtés arriva une foule d’acheteurs, et il se fit un grand trafic da
 
 La nuit se passa, et à l’aube du jour Isfendiar se rendit auprès du roi dans sa salle d’audience; il s’avança, baisa la terre, bénit longuement Ardjasp et dit:
 
-> J’ai amené ces marchandises et cette caravane en toute hâte à l’aide de mes chameliers; elle apporte des bracelets et des diadèmes qui sont dignes d’un roi qui porte haut la tête.
+> J’ai amené ces marchandises et cette caravane en toute hâte à l’aide de mes chameliers; elle apporte des bracelets et des diadèmes qui sont dignes d’un roi qui porte haut la tête.
 >
 > Ordonne à ton trésorier de voir ce que j’ai de précieux dans mon magasin, qui est tout arrangé, et qu’il t’apporte ce qu’il pourra y rencontrer de digne de ton trésor, pourvu qu’il ne trouve pas que cela lui donne trop de peine.
 >

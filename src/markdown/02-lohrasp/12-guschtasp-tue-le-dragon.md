@@ -35,15 +35,15 @@ Lui et Ahren s’en retournèrent;
 
 mais le héros, qui ambitionnait la possession du monde, arriva, au moment où le soleil commençait à lancer ses rayons, devant la montagne où était la demeure de cet affreux serpent.
 
-Quand le dragon vit sa haute stature, il essaya de l’attirer vers lui avec sa queue; mais le jeune homme suspendit son carquois au crochet de la selle et fit pleuvoir une grêle de traits.
+Quand le dragon vit sa haute stature, il essaya de l’attirer vers lui avec sa queue; mais le jeune homme suspendit son carquois au crochet de la selle et fit pleuvoir une grêle de traits.
 
 Le dragon s’approcha plus près, alors le héros rassembla toutes ses forces et lui enfonça le khandjar dans la gueule, en invoquant le nom de Dieu, le distributeur de la justice et de tout bien.
 
 Le dragon serra ses dents aiguës sur le khandjar, mais l’arme entra tout entière dan son palais; il versa du venin jusqu’à ce qu’il fût épuisé, la montagne fut inondée de ce venin et de son sang.
 
-Alors Guschtasp, le lion, saisit son épée et en frappa un coup sur la tête du vaillant dragon, dont la cervelle jaillit sur tout ce grand rocher.
+Alors Guschtasp, le lion, saisit son épée et en frappa un coup sur la tête du vaillant dragon, dont la cervelle jaillit sur tout ce grand rocher.
 
-Le héros, à qui la fortune était favorable, descendit de cheval, arracha sur-le-champ deux dents de la gueule du dragon, puis alla se laver la tête et le corps.
+Le héros, à qui la fortune était favorable, descendit de cheval, arracha sur-le-champ deux dents de la gueule du dragon, puis alla se laver la tête et le corps.
 
 Il se prosterna, le front contre la terre et en poussant des cris, devant le Créateur, le maître de la victoire, qui
 lui avait accordé ce grand triomphe sur le dragon et sur le vieux loup.
@@ -70,7 +70,7 @@ Il dit à Ahren :
 >
 > J’ai vu bien des dragons comme celui-ci et ne me suis pas refusé à les combattre.
 
-Heischoui et Ahren écoutèrent ce jeune héros, dont les paroles et la sagesse étaient dignes d’un vieillard, et ces deux hommes, qui portaient haut la tête, le saluèrent humblement lorsqu’ils eurent entendu son discours, et lui dirent :
+Heischoui et Ahren écoutèrent ce jeune héros, dont les paroles et la sagesse étaient dignes d’un vieillard, et ces deux hommes, qui portaient haut la tête, le saluèrent humblement lorsqu’ils eurent entendu son discours, et lui dirent :
 
 > Ô vaillant lion, jamais une mère ne mettra au monde un héros comme toi.
 
@@ -86,7 +86,7 @@ Ahren partit, amena des bœufs et des chariots, et livra le corps du dragon à 
 
 > Conduisez-le au palais du Kaisar, mettez-le devant les yeux des chefs de l’armée.
 
-Lui-même devança les bœufs et les chariots, et courut auprès du Kaisar.
+Lui-même devança les bœufs et les chariots, et courut auprès du Kaisar.
 
 On apprit alors à Roum ce qui s’était passé, et les hommes qui avaient de l’expérience se hatèrent de venir, et ils virent ce puissant dragon que le vaillant héros avait abattu.
 
@@ -98,7 +98,7 @@ Quiconque voyait la blessure faite par le coup d’épée et entendait le bruit 
 
 Cependant le Kaisar sortit de son palais, rassembla les grands et les sages et célébra par un festin la mort du dragon, depuis l’aube du jour jusqu’à ce que le monde fût couvert de ténèbres.
 
-Aussitôt que le soleil sur son trône eut posé la couronne sur sa tête et que les feuilles des platanes furent dorées par ses rayons, le Kaisar fit chercher le Destour, demanda des nouvelles de sa santé et le fit asseoir sur le trône d’or; tous les patriciens et tous les docteurs de la ville qui avaient un nom honoré se réunirent devant l’évêque avec le
+Aussitôt que le soleil sur son trône eut posé la couronne sur sa tête et que les feuilles des platanes furent dorées par ses rayons, le Kaisar fit chercher le Destour, demanda des nouvelles de sa santé et le fit asseoir sur le trône d’or; tous les patriciens et tous les docteurs de la ville qui avaient un nom honoré se réunirent devant l’évêque avec le
 Kaisar et ses conseillers, et l’on donna à Ahren la fille du Kaisar, du consentement de sa mère pleine de tendresse.
 
 Aussitôt que cette foule eut quitté la salle d’audience, le cœur du Kaisar illustre s’épanouit et il dit :

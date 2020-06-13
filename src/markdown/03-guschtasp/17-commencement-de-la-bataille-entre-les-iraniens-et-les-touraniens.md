@@ -65,7 +65,7 @@ Un Div sortit des rangs, disant:
 
 > C’est moi, et je suis celui qui saisit des dents un lion affamé.
 
-Ils s’escrimèrent avec leurs lances rapidement comme le vent, et le fils du roi frappa le Turc de sa lance, l’enleva de la selle, lui coupa la tête et jeta par terre le corps de cet homme qui portait une ceinture d’or.
+Ils s’escrimèrent avec leurs lances rapidement comme le vent, et le fils du roi frappa le Turc de sa lance, l’enleva de la selle, lui coupa la tête et jeta par terre le corps de cet homme qui portait une ceinture d’or.
 
 Ensuite il s’avança vers le front des héros de la Chine; assis sur son cheval, il ressemblait à un rocher; jamais œil n’avait vu un homme comme lui: il était si beau que les yeux le suivaient partout où il allait.
 

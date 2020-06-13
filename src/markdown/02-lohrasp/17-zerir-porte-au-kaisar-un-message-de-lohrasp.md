@@ -57,7 +57,7 @@ Le Sipehbed Zerir répondit :
 
 Il dit, et se mit à faire ses préparatifs et à choisir une armée illustre.
 
-Les petits-fils d’hommes puissants et nobles , de Kaous et de Gouderz de la famille de Keschwad, ensuite les fils de Zerasp, Bahram, le vainqueur des lions, et Rivniz, enfin Schirouieh, le conquérant du monde, et Ardeschir, petit-fils du fier et vaillant Guiv et fils de Bijen , deux nobles lions, deux héros qui portaient haut la tête, deux hommes de race pure;
+Les petits-fils d’hommes puissants et nobles , de Kaous et de Gouderz de la famille de Keschwad, ensuite les fils de Zerasp, Bahram, le vainqueur des lions, et Rivniz, enfin Schirouieh, le conquérant du monde, et Ardeschir, petit-fils du fier et vaillant Guiv et fils de Bijen , deux nobles lions, deux héros qui portaient haut la tête, deux hommes de race pure;
 
 tous ces chefs vinrent, amenant chacun deux chevaux: ils brillaient tous comme Adergouschasp.
 
@@ -68,7 +68,7 @@ On planta le drapeau impérial, on dressa des tentes et leurs enceintes, et le S
 Lui-même partit déguisé comme un homme qui porte un message ou une bonne nouvelle à un roi; il emmena avec lui cinq de ses amis, des hommes de sens , prudents et braves.
 
 Arrivé auprès du palais du Kaisar, il fut aperçu par le grand chambellan, qui se tenait sur la porte;
-le Kaisar lui-même était dans le palais, son humeur était sombre , et Kalous et Guschtasp étaient avec lui.
+le Kaisar lui-même était dans le palais, son humeur était sombre , et Kalous et Guschtasp étaient avec lui.
 
 Quand le Kaisar entendit annoncer un envoyé, il ordonna de le faire entrer, et Guschtasp fut bien aise de cette arrivée.
 
@@ -98,7 +98,7 @@ Zerir donna au Kaisar le message de Lohrasp :
 
 Le Kaisar répondit :
 
-> Je suis toujours prêt à commencer le combat.
+> Je suis toujours prêt à commencer le combat.
 >
 > Aujourd’hui tu es un ambassadeur; retourne donc en sureté ; il ne nous reste qu’à préparer un champ de bataille.
 

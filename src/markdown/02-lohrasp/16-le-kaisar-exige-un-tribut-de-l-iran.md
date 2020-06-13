@@ -43,11 +43,11 @@ Or il y avait un homme illustre du nom de Kalous, un homme prudent, sage, de bon
 
 Le Kaisar l’appela et lui dit :
 
-> Pars, va à la cour du roi et dis-lui : Si tu veux payer tribut pour l’Iran, obéir à mes ordres et abaisser ta tête, je le laisserai le trône et la couronne de l’Iran , tu seras le maître du monde à la fortune victorieuse; sinon, j’ai des troupes nombreuses tirées du Roum et du désert des cavaliers armés de lances.
+> Pars, va à la cour du roi et dis-lui : Si tu veux payer tribut pour l’Iran, obéir à mes ordres et abaisser ta tête, je le laisserai le trône et la couronne de l’Iran , tu seras le maître du monde à la fortune victorieuse; sinon, j’ai des troupes nombreuses tirées du Roum et du désert des cavaliers armés de lances.
 >
-> Prends donc garde; la plaine retentira du bruit des armes, et Farrukhzad sera à la tête de mon armée; je dévasterai ton pays entier, j’en ferai un repaire dallons et de crocodiles
+> Prends donc garde; la plaine retentira du bruit des armes, et Farrukhzad sera à la tête de mon armée; je dévasterai ton pays entier, j’en ferai un repaire dallons et de crocodiles
 
-Le messager partit, rapide comme le vent, la tête pleine de sagesse, le cœur rempli de justice.
+Le messager partit, rapide comme le vent, la tête pleine de sagesse, le cœur rempli de justice.
 
 Quand il fut arrivé près du puissant roi, il vit cette porte sublime et ce palais élevé.
 
@@ -57,7 +57,7 @@ Le grand chambellan eut avis de sa venue, accourut auprès du roi et dit :
 
 A ces paroles, Lohrasp s’assit sur son trône d’ivoire et posa sur sa tête sa couronne qui réjouissait les cœurs, et les grands de l’Iran, aux cœurs joyeux, à la fortune prospère, s’assit-eut sous son trône.
 
-Il ordonna alors de lever le rideau de la porte et de faire entrer le messager; celui-ci se présenta devant le trône, rendit hommage au roi et le salua humblement; ensuite il s’acquitta du message du puissant Kaisar, mais en se conduisant lui-même avec sagesse et modération.
+Il ordonna alors de lever le rideau de la porte et de faire entrer le messager; celui-ci se présenta devant le trône, rendit hommage au roi et le salua humblement; ensuite il s’acquitta du message du puissant Kaisar, mais en se conduisant lui-même avec sagesse et modération.
 
 Le roi fut blessé de ses paroles, il fut confondu de cette tournure du sort.
 
@@ -93,7 +93,7 @@ Le messager répondit:
 >
 > j’ai eu à supporter bien du mal dans cette ambassade, et personne ne m’a adressé des questions comme tu fais; mais puisque le roi m’a reçu si courtoisement, il ne serait pas juste que je me permisse de le tromper.
 >
-> Un cavalier est arrivé. auprès du Kaisar, un vainqueur de lions qui est sorti des forêts;
+> Un cavalier est arrivé. auprès du Kaisar, un vainqueur de lions qui est sorti des forêts;
 >
 > il se rit des plus braves au jour de la bataille et des coupes de vin au temps des festins;
 >

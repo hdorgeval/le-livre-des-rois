@@ -91,6 +91,6 @@ Rustem écouta les paroles de Bahman, et le cerveau du vieillard se remplit de s
 > >
 > > Je te verrai déployer ta force de héros quand tu abattras avec ton épée des lions et des léopards, et quand tu voudras ramener dans l’Iran ton armée, la ramener au roi des braves, j’ouvrirai la porte de mes anciens trésors que j’ai accumulés à l’aide de mon épée, je t’apporterai tout ce que je possède, tout ce que j’ai réuni par la force de mon bras: tu en prendras ce que tu voudras, tu distribueras le reste, mais n’afflige pas notre cœur dans un jour pareil.
 > >
-> > Quand le moment du départ sera arrivé, quand tu auras besoin de revoir le roi, les rênes de mon cheval toucheront les tiennes pendant toute la route, je me présenterai devant le roi joyeusement, mes excuses effaceront sa colère, je lui baiserai la tête, les pieds et les yeux, et je demanderai au grand roi illustre pourquoi mes pieds doivent porter des chaînes.
+> > Quand le moment du départ sera arrivé, quand tu auras besoin de revoir le roi, les rênes de mon cheval toucheront les tiennes pendant toute la route, je me présenterai devant le roi joyeusement, mes excuses effaceront sa colère, je lui baiserai la tête, les pieds et les yeux, et je demanderai au grand roi illustre pourquoi mes pieds doivent porter des chaînes.
 >
 > Et toi, Bahman, rappelle-toi tout ce que je t’ai dit et répète-le au puissant Isfendiar.

@@ -151,7 +151,7 @@ Mais Ormuzd lui répondit:
 
 > Si je vous rends immortel, le corps du Dew Tourberatorsch le sera aussi ; & alors il n'y aura pas de résurrection.
 >
-> Si je vous accordais l’immortalité, vous me demanderiez vous-même la mort.
+> Si je vous accordais l’immortalité, vous me demanderiez vous-même la mort.
 
 Ormuzd lui présenta en même temps quelque chose de semblable à du miel;
 
