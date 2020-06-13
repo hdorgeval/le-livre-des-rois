@@ -14,7 +14,6 @@
     @media screen and (min-width: 960px) {
       box-shadow: inset $site-width 0 0 0 $color-palette-7;
     }
-
   }
 
   .left {
@@ -37,18 +36,15 @@
       &:after {
         content: attr(data-ribbon);
         color: $color-palette-1;
-        font: 700 1em "Helvetica Neue",
-          Helvetica,
-          Arial,
-          sans-serif;
+        font: 700 1em 'Helvetica Neue', Helvetica, Arial, sans-serif;
         line-height: 1.54em;
         text-decoration: none;
         text-align: center;
         text-indent: 0;
-        padding-bottom: .15em;
+        padding-bottom: 0.15em;
 
         /* Add "stitching" effect */
-        border-width: .08em 0;
+        border-width: 0.08em 0;
         border-style: dotted;
         border-color: #fff;
         border-color: $color-palette-3;
@@ -62,7 +58,6 @@
     }
 
     .details {
-      margin-top: -15px;
       margin-bottom: 20px;
       font-size: 12px;
     }
@@ -70,7 +65,5 @@
     h3 {
       color: $color-palette-1;
     }
-
   }
-
 }

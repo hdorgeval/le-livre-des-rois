@@ -15,8 +15,6 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
   frontmatter,
   headings,
   overallCount,
-  timeToRead,
-  timeUnit,
   totalCount,
   workInProgress,
 }) => {
@@ -33,10 +31,7 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
         <div className={styles.right}>
           <h3>{firstHeading}</h3>
           <div className={styles.details}>
-            <span>{`durée de lecture: ${timeToRead} ${timeUnit === 'hour' ? 'heure' : 'minute'}${
-              timeToRead > 1 ? 's' : ''
-            }`}</span>
-            {totalCount && <span>{`, ${totalCount} épisode${totalCount > 1 ? 's' : ''}`}</span>}
+            {totalCount && <span>{`${totalCount} épisode${totalCount > 1 ? 's' : ''}`}</span>}
             {workInProgress && (
               <div
                 className={styles.wipRibbon}
