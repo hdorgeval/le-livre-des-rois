@@ -17,13 +17,13 @@ Il aperçut sur le bord de l’eau un arbre qui jetait une ombre large et sous l
 
 > Ô Juge Tout-puissant!
 >
-> Cette vie ne m’a donné́ pour ma part que du chagrin; je vois que mon étoile est mauvaise et je ne sais pourquoi tant de malheurs tombent sur ma tête !
+> Cette vie ne m’a donné pour ma part que du chagrin; je vois que mon étoile est mauvaise et je ne sais pourquoi tant de malheurs tombent sur ma tête !
 
 Un homme notable de ce bourg agréable, un homme puissant dans le pays, passa auprès de Guschtasp et le voyant les yeux remplis de larmes de sang et le menton appuyé sur une main, lui adressa ces paroles :
 
 > Ô noble jeune homme! pourquoi es-tu si soucieux et si sombre d’esprit?
 >
-> Si tu veux quitter ce lieu et venir dans ma maison, tu peux jouir pendant quelque temps de mon hospitalité́, et peut être ces douleurs de ton cœur disparaitront, et les paupières sècheront.
+> Si tu veux quitter ce lieu et venir dans ma maison, tu peux jouir pendant quelque temps de mon hospitalité, et peut être ces douleurs de ton cœur disparaitront, et les paupières sècheront.
 
 Guschtasp lui dit :
 

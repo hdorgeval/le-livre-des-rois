@@ -41,7 +41,7 @@ Lorsqu’on entendit un bruit de chevaux sur la route, les héros qui accompagna
 
 > Ceci ne peut être que le hennissement du cheval de Zerir, qui a la voix d’un lion, et si c’est Zerir qui vient, il n’arrive pas seul, mais il est accompagné d’une armée avide de combats.
 
-Dans ce moment apparurent sur la route une poussière violette et un drapeau à figure d’éléphant, et l’on vit le Sipehbed Zerir courant devant ses troupes avec la rapidité́ du vent.
+Dans ce moment apparurent sur la route une poussière violette et un drapeau à figure d’éléphant, et l’on vit le Sipehbed Zerir courant devant ses troupes avec la rapidité du vent.
 
 Quand il aperçut Guschtasp, il s’avança à pied, tout seul, les yeux fixés sur lui, courant, rendant grâce au Créateur du monde et saluant son frère.
 
@@ -77,7 +77,7 @@ Quand Lohrasp et ses grands eurent nouvelle de son approche, ils allèrent au-de
 
 En revoyant son père, l’ambitieux jeune homme descendit de cheval et l’adora.
 
-Lohrasp le serra sur sa poitrine et le repentir de son fils lui rendit la tranquillité́; il dit :
+Lohrasp le serra sur sa poitrine et le repentir de son fils lui rendit la tranquillité; il dit :
 
 > Puisse ta couronne être brillante comme la couronne de la lune!
 >

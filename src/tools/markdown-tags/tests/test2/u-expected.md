@@ -16,7 +16,7 @@ Ensuite il dit :
 
 > Soyez pleins d’espérance, de crainte et de respect pour le Juge suprême et saint.
 >
-> C’est lui qui a créé le ciel qui tourne, qui augmente la dignité́ de ses serviteurs.
+> C’est lui qui a créé le ciel qui tourne, qui augmente la dignité de ses serviteurs.
 >
 > Quand il eut créé la mer, les montagnes et la terre, il étendit sur elles le ciel sublime.
 >

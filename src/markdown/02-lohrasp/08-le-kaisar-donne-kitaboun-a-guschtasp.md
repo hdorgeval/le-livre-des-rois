@@ -39,7 +39,7 @@ Il leur fit préparer une, maison dans le bourg, et y fit porter des vivres et l
 
 Quand Guschtasp vit cela, il en rendit grâces à cet illustre et glorieux seigneur.
 
-Kitaboun possédait des parures sans nombre et une quantité́ de pierres fines de toute sorte. Elle choisit parmi elles un joyau tel que l’œil du sage n’en a jamais vu de pareil; ils le portèrent à un homme qui se connaissait en pierreries: il le reçût avec une admiration infinie, et le leur paya six mille pièces d’or, une somme digne d’un roi.
+Kitaboun possédait des parures sans nombre et une quantité de pierres fines de toute sorte. Elle choisit parmi elles un joyau tel que l’œil du sage n’en a jamais vu de pareil; ils le portèrent à un homme qui se connaissait en pierreries: il le reçût avec une admiration infinie, et le leur paya six mille pièces d’or, une somme digne d’un roi.
 
 Ils achetèrent ce qui leur était nécessaire et ce qui était convenable dans leur pauvreté. Avec le reste de l’argent, ils vécurent; tantôt ils étaient heureux, tantôt ils pleuraient.
 

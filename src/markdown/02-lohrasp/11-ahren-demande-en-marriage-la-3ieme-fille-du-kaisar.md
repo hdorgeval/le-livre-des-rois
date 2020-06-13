@@ -82,7 +82,7 @@ Ahren s’engagea sur-le-champ par un serment solennel et accepta en tout point 
 >
 > mais le dragon lui tendra un piége et tâchera de le détruire.
 >
-> Il est venu chez moi pour me demander un moyen de salut, je lui ai dévoilé ce qui s’est passé et lui ai raconté́ exactement l’histoire du loup et du vaillant cavalier.
+> Il est venu chez moi pour me demander un moyen de salut, je lui ai dévoilé ce qui s’est passé et lui ai raconté exactement l’histoire du loup et du vaillant cavalier.
 >
 > Celui qui m’a tiré d’affaire voudra sans doute aussi tirer d’affaire Ahren, donner ainsi de la puissance dans ce pays à deux hommes, et placer sur son propre front un diadème brillant comme le soleil.
 
@@ -132,6 +132,6 @@ Guschtasp lui répondit:
 
 > Va, et prépare-moi un long khandjar, qui doit, avec la poignée, mesurer cinq empans;
 >
-> il faut qu’il ait des deux côtés des dents aiguës comme un serpent, qu’il porte une pointe semblable à une épine, qu’il ait été́ trempé avec du poison et du sang, qu’il soit tranchant et d’un poli brillant;
+> il faut qu’il ait des deux côtés des dents aiguës comme un serpent, qu’il porte une pointe semblable à une épine, qu’il ait été trempé avec du poison et du sang, qu’il soit tranchant et d’un poli brillant;
 >
-> donne-moi un destrier caparaçonné́, une massue, une épée et une robe indienne, et avec l’aide de Dieu et de ma fortune victorieuse, je précipiterai le dragon du haut de son arbre.
+> donne-moi un destrier caparaçonné, une massue, une épée et une robe indienne, et avec l’aide de Dieu et de ma fortune victorieuse, je précipiterai le dragon du haut de son arbre.

@@ -91,7 +91,7 @@ Le lion se fit apporter sa cotte de mailles, son casque, sa cuirasse et son ép�
 
 > Maintenant je suis sauvé; quant à toi, il faudrait te bien conduire et parler selon la vérité.
 >
-> Quand j’aurai séparé de son corps la tête d’Ardjasp et réjoui par sa mort les mânes de Lohrasp; quand, pour venger mon grand-père, j’aurai tranché la tête à Kehrem, qui a rempli de sang et de douleur le cœur de mon armée par le meurtre de Ferschidwerd; et à Enderiman, qui a tué trente-huit de nos grands dans un moment de succès; quand j’aurai assouvi ma rancune de toute manière, quand j’aurai fait de ce pays la proie des lions, quand je l’aurai livré au bon plaisir des Iraniens , quand j’aurai percé de mes flèches le cœur des Touraniens et emmené en captivité́ leurs femmes et leurs enfants, alors seras-tu content ou mécontent?
+> Quand j’aurai séparé de son corps la tête d’Ardjasp et réjoui par sa mort les mânes de Lohrasp; quand, pour venger mon grand-père, j’aurai tranché la tête à Kehrem, qui a rempli de sang et de douleur le cœur de mon armée par le meurtre de Ferschidwerd; et à Enderiman, qui a tué trente-huit de nos grands dans un moment de succès; quand j’aurai assouvi ma rancune de toute manière, quand j’aurai fait de ce pays la proie des lions, quand je l’aurai livré au bon plaisir des Iraniens , quand j’aurai percé de mes flèches le cœur des Touraniens et emmené en captivité leurs femmes et leurs enfants, alors seras-tu content ou mécontent?
 >
 > Dis-moi tout ce que tu as dans le cœur.
 

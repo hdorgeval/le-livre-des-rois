@@ -119,7 +119,7 @@ Ils vinrent en courant auprès d’Isfendiar, leurs yeux brillants de larmes com
 
 Il ne fit pardon à aucun des héros, et l’on tua des blessés sans nombre; pas un des grands de la Chine ne survécut, pas un des princes du Touran ne resta en vie.
 
-Ensuite les Iraniens enlevèrent les tentes et leurs enceintes, et abandonnèrent aux morts le champ de bataille, et Isfendiar, ayant vu ce qui s’était fait de bon et de mauvais, se rendit de l’autre côté́ du fort et fit dresser ses tentes.
+Ensuite les Iraniens enlevèrent les tentes et leurs enceintes, et abandonnèrent aux morts le champ de bataille, et Isfendiar, ayant vu ce qui s’était fait de bon et de mauvais, se rendit de l’autre côté du fort et fit dresser ses tentes.
 
 Il fit élever sur la porte du fort deux hauts gibets d’où pendaient des lacets roulés, et fit pendre Enderiman la tête en bas, et attacher son frère à l’autre gibet.
 

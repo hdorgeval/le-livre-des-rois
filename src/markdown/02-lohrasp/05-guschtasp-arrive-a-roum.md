@@ -22,7 +22,7 @@ Heischoui lui répondit:
 
 > Tu es digne d’une couronne ou au moins d’une cuirasse et d’une épée, et propre à dévastera un pays. Dévoile ton secret et confie-le-moi , mais n’essaye pas à traverser ainsi la mer.
 >
-> Il faut ou me faire un présent ou me dire la vérité́, car tu n’as ni l’air, ni les manières d’un scribe.
+> Il faut ou me faire un présent ou me dire la vérité, car tu n’as ni l’air, ni les manières d’un scribe.
 
 Guschtasp écouta Heischoui et lui dit:
 
@@ -72,7 +72,7 @@ Guschtasp l’écouta et partit soucieux; on aurait dit que la peau se fendait s
 
 Ensuite il s’élança rapidement, courant vers les chameliers du roi et dit à leur chef:
 
-> Puisse ton esprit rester éveillé́ et serein !
+> Puisse ton esprit rester éveillé et serein !
 
 Quand cet homme de sens vit Guschtasp, il s’avança vers lui et lui assigna la place d’honneur; il étendit en toute hâte un tapis et lui apporta quelque chose à manger.
 
@@ -110,6 +110,6 @@ Bourab fut effrayé et lui dit :
 
 > Ô jeune homme , ni l’enclume, ni le marteau, ni le fer, ni la pierre, ni le soufflet ne résistent à tes coups!
 
-Guschtasp fut désespéré́ à ces paroles, jeta le marteau et partit dévoré de faim, car il n’avait aucun moyen de se procurer de la nourriture et un logis.
+Guschtasp fut désespéré à ces paroles, jeta le marteau et partit dévoré de faim, car il n’avait aucun moyen de se procurer de la nourriture et un logis.
 
 Mais ni la misère, ni la richesse, ni le repos, ni la joie, ni les fatigues ne durent pour personne; le bien et le mal passent également sur nous, et quiconque a du sens ne se laisse jamais abattre.

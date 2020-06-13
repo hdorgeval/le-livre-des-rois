@@ -63,11 +63,11 @@ Ensuite il rassembla tous ses Mobeds et leur répéta tout ce qu’il avait appr
 > >
 > > J’ai vu le Seigneur dans le paradis, qui a écrit tout ce Zendavesta;
 > >
-> > j’ai vu Ahriman dans l’enfer, mais je n’ai pas pu supporter son voisinage; alors le Seigneur m’a envoyé́ auprès du roi de la terre pour lui enseigner la religion.
+> > j’ai vu Ahriman dans l’enfer, mais je n’ai pas pu supporter son voisinage; alors le Seigneur m’a envoyé auprès du roi de la terre pour lui enseigner la religion.
 >
 > Le chef des grands du peuple de l’Iran, le puissant fils du roi Lohrasp, que les Iraniens appellent Guschtasp, s’est ceint du koschti;
 >
-> Ensuite son frère, le vaillant cavalier, le Sipehdar de l’Iran, dont le nom est Zerir, qui parmi ses braves a toujours été́ comme un père et parmi ses scribes comme un œil, et tous les autres, ont examiné sa doctrine et ont eu peur de ce vieux magicien;
+> Ensuite son frère, le vaillant cavalier, le Sipehdar de l’Iran, dont le nom est Zerir, qui parmi ses braves a toujours été comme un père et parmi ses scribes comme un œil, et tous les autres, ont examiné sa doctrine et ont eu peur de ce vieux magicien;
 >
 > Ils ont tous adopté sa religion, et le monde s’est égaré dans sa voie et son culte.
 >

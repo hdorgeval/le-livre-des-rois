@@ -50,7 +50,7 @@ Il ordonna qu’on pourvût Nestour de tout ce qui lui était nécessaire et de 
 
 Nestour partit à l’instant avec ses troupes, et le roi, s’étant assis sur son trône et ayant placé sur sa tète la couronne des Keïanides, donna accès à toute son armée: il ouvrit les portes de son trésor et distribua à tous ses guerriers des ornements précieux.
 
-Ensuite il donna aux chefs le commandement des villes et ne laissa passer personne sans lui avoir accordé quelque chose: ceux étaient dignes de gouverner un royaume, il leur en confia un; ceux qui avaient mérité́ des dignités, il les éleva aux dignités, et ayant ainsi récompensé chacun selon son mérite, il les renvoya tous dans leurs demeures.
+Ensuite il donna aux chefs le commandement des villes et ne laissa passer personne sans lui avoir accordé quelque chose: ceux étaient dignes de gouverner un royaume, il leur en confia un; ceux qui avaient mérité des dignités, il les éleva aux dignités, et ayant ainsi récompensé chacun selon son mérite, il les renvoya tous dans leurs demeures.
 
 Plus tard il se dirigea vers son trône et défendit l’entrée à la cour; il s’assit sur le trône impérial et fit construire un temple de feu pour y brûler du bois d’aloès indien; on y fit un pavé d’or pur, toute la charpente était en bois d’aloès, et l’on répandit sur le sol de l’ambre gris.
 

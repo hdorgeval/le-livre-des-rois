@@ -35,7 +35,7 @@ ils abattaient les têtes des lions courageux, ils dépassaient leur père en to
 
 c’étaient deux princes fiers, dont les traces étaient fortunées, des petits-fils de Keï Kaous, le maître du monde.
 
-Ils faisaient la joie de Lohrasp; mais il ne le témoignait pas à Guschtasp, car la tête de celui-ci était pleine de vanité́, et Lohrasp en était inquiet.
+Ils faisaient la joie de Lohrasp; mais il ne le témoignait pas à Guschtasp, car la tête de celui-ci était pleine de vanité, et Lohrasp en était inquiet.
 
 Il se passa ainsi beaucoup de temps, et le cœur de Guschtasp s’aigrit contre son père.
 
@@ -83,11 +83,11 @@ Aussitôt que la nuit lut devenue sombre, il monta à cheval avec sa troupe, et
 
 Dès le grand matin Lohrasp en eut la nouvelle!
 
-il en fut affligé́ et tout son bonheur s’évanouit.
+il en fut affligé et tout son bonheur s’évanouit.
 
 Il appela les plus sages de son armée et leur exposa l’état des choses, ajoutant :
 
-> Voyez ce que Guschtasp a fait: il a rempli mon cœur de soucis et couvert ma tête de poussière. Je l’ai élevé́ jusqu’à ce qu’il fut grand et fut devenu un héros sans égal dans le monde; mais au moment où je me disais qu’il allait porter fruit, il disparait de mon jardin.
+> Voyez ce que Guschtasp a fait: il a rempli mon cœur de soucis et couvert ma tête de poussière. Je l’ai élevé jusqu’à ce qu’il fut grand et fut devenu un héros sans égal dans le monde; mais au moment où je me disais qu’il allait porter fruit, il disparait de mon jardin.
 
 Il dit, et resta longtemps absorbé dans ses pensées; à la fin il fit venir Zerir et lui parla ainsi:
 

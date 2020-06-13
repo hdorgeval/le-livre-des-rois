@@ -30,7 +30,7 @@ order: '33'
 
 Je vais maintenant rajeunir le récit de la lutte contre Ardjasp, et, par mon talent, délivrer de mauvaises herbes le jardin.
 
-Ardjasp ordonna que Kehrem, toujours prêt à frapper de l’épée, parût devant lui, le maître de cette assemblée des grands du Touran: c’était son fils aîné́, qui levait sa tête jusqu’au soleil brillant.
+Ardjasp ordonna que Kehrem, toujours prêt à frapper de l’épée, parût devant lui, le maître de cette assemblée des grands du Touran: c’était son fils aîné, qui levait sa tête jusqu’au soleil brillant.
 
 Il lui dit :
 
@@ -96,7 +96,7 @@ Kehrem répondit à ses compagnons:
 
 > C’était là ce que nous avions à faire, et le but de nos fatigues était ce combat, car ce prince était le roi Lohrasp, le père de Guschtasp, le maître de la terre;
 >
-> Il a été le maître, du monde, entouré de la majesté́ que Dieu accorde; >
+> Il a été le maître, du monde, entouré de la majesté que Dieu accorde; >
 >
 > Toute sa vie s’était passée dans les festins et sur les champs de bataille, mais dans sa vieillesse il s’était consacré à Dieu, et son cœur avait renoncé à la couronne et au trône. Maintenant que Guschtasp a perdu ce soutien, il tremblera pour son diadème impérial.
 

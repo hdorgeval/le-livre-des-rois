@@ -144,7 +144,7 @@ Ce jeune Prince le but, & devint immortel.
 
 Il donna les odeurs à Djamasp, Ministre de Guschtasp, qui reçut en même temps toutes les Sciences, & connut ce qui devait arriver jusqu'à la résurrection.
 
-Enfin il présenta plusieurs pépins de la grenade à Espendiar, qui les mangea; & fon corps devint comme une pierre & invulnérable: c'est pour cela qu'il a été́ appellé corps de cuivre (rouin tan).
+Enfin il présenta plusieurs pépins de la grenade à Espendiar, qui les mangea; & fon corps devint comme une pierre & invulnérable: c'est pour cela qu'il a été appellé corps de cuivre (rouin tan).
 
 Au bout de trois jours le Roi se réveilla & remercia Dieu, lui disant: Dieu des deux Mondes, jamais votre Empire ne finira.
 

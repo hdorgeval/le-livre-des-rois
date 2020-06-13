@@ -138,7 +138,7 @@ Mirin, de son côté, partit comme le vent, se rendit en toute hâte auprès d
 >
 > les ravages de ce loup sont finis, le corps de ce dragon remplit toute la forêt, et je voudrais que tu allasses voir cette merveille.
 >
-> Il est arrivé́ sur moi pour m’attaquer, mais mon bras lui a asséné́ un coup qui l’a fendu de la tête jusqu’au milieu du corps, et le cœur du Div a tremblé́ de ce coup.
+> Il est arrivé sur moi pour m’attaquer, mais mon bras lui a asséné un coup qui l’a fendu de la tête jusqu’au milieu du corps, et le cœur du Div a tremblé de ce coup.
 
 A ces paroles, le Kaisar se redressa, ses joues pâles se colorèrent, il ordonna qu’on fît partir de la ville des bœufs, des voitures et des tentes, qu’on préparât un lieu de festin et qu’on y envoyât du vin, de la musique et des échansons.
 
