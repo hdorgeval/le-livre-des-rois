@@ -44,15 +44,15 @@ Guschtasp s’approcha de la forêt, son cœur avide de combats devint soucieux;
 >
 > Si ce puissant dragon, que les hommes dépourvus de sens appellent un loup, parvient à me vaincre, mon père, quand il le saura, poussera des cris et en perdra le sommeil; il restera dans l’excès de sa douleur comme un insensé, errant partout, poussant des cris et cherchant mes traces; et si je m’enfuis, effrayé par cette bête méchante, j’aurai à voiler ma tête de honte devant la foule.
 
-Il dit, et remonta sur son destrier, poussant des cris, bouillant d’ardeur, tenant en main son épée, et l’arc suspendu au bras, c’est ainsi qu’il s’avança prudemment et le cœur gonflé de sang.
+Il dit, et remonta sur son destrier, poussant des cris, bouillant d’ardeur, tenant en main son épée, et l’arc suspendu au bras, c’est ainsi qu’il s’avança prudemment et le cœur gonflé de sang.
 
 Quand il fut arrivé dans le fourré, il fit éclater sa voix comme le tonnerre qui sort d’un nuage de printemps.
 
-Le loup l’aperçut à l’entrée de la forêt, poussa un cri qui monta jusqu’aux nuages noirs, et déchira de ses grilles la surface du sol comme un lion ou un vaillant léopard.
+Le loup l’aperçut à l’entrée de la forêt, poussa un cri qui monta jusqu’aux nuages noirs, et déchira de ses grilles la surface du sol comme un lion ou un vaillant léopard.
 
 Guschtasp vit ce dragon, il frotta son arc et le tendit; rapidement comme le vent il fit pleuvoir des flèches sur le loup: son arc fut pour lui comme un nuage printanier qui lance la foudre.
 
-La bête féroce ayant été blessée par les traits de Guschtasp, la douleur réveilla son courage; saisie de fureur, elle s’élança en courant comme un grand dromadaire, les cornes en avant, à la manière des cerfs, le corps endolori par ses blessures et le cœur gonflé de sang. Arrivée près du cavalier, elle donna un coup de défense contre le flanc noir du cheval et le déchira depuis les testicules jusqu’au nombril.
+La bête féroce ayant été blessée par les traits de Guschtasp, la douleur réveilla son courage; saisie de fureur, elle s’élança en courant comme un grand dromadaire, les cornes en avant, à la manière des cerfs, le corps endolori par ses blessures et le cœur gonflé de sang. Arrivée près du cavalier, elle donna un coup de défense contre le flanc noir du cheval et le déchira depuis les testicules jusqu’au nombril.
 
 Guschtasp tira son épée, mit pied à terre, frappa le loup au milieu de la tête et lui fendit les épaules, le dos et la poitrine.
 
@@ -68,13 +68,13 @@ Là étaient assis au bord de l’eau Heischoui et Mirin, pleins de soucis, ne 
 
 > Hélas! ce brave et vaillant cavalier est maintenant engagé dans un grand combat et déchiré par les griffes du loup.
 
-Quand Guschtasp parut à pied, les joues couvertes de sang et rouges comme la fleur de fenugrec, ils l’aperçurent, se levèrent brusquement et se mirent à pousser des cris de détresse.
+Quand Guschtasp parut à pied, les joues couvertes de sang et rouges comme la fleur de fenugrec, ils l’aperçurent, se levèrent brusquement et se mirent à pousser des cris de détresse.
 
 Ils le pressèrent dans leurs bras avec pitié, les joues pâles, les cils inondés de larmes comme d’une pluie printanière, demandant comment s’était passé son combat contre le loup, et racontant combien leurs cœurs avaient éprouvé d’anxiété pour lui.
 
 Guschtasp dit à Heischoui :
 
-> Ô homme de bon conseil, il n’y a donc dans Roum aucune crainte de Dieu, pour que depuis de longues années on laisse de cette façon vivre dans le pays un dragon féroce, qui tue tous les hommes, et pour qui le Kaisar n’était pas plus qu’une poignée de poussière?
+> Ô homme de bon conseil, il n’y a donc dans Roum aucune crainte de Dieu, pour que depuis de longues années on laisse de cette façon vivre dans le pays un dragon féroce, qui tue tous les hommes, et pour qui le Kaisar n’était pas plus qu’une poignée de poussière?
 >
 > Je l’ai fendu en deux avec l’épée de Selm, et je vous ai délivré de toute cette terreur.
 >
@@ -84,7 +84,7 @@ Guschtasp dit à Heischoui :
 
 Tous les deux se rendirent à la forêt en courant, heureux de ces paroles et l’âme tranquille.
 
-Ils y aperçurent un loup grand comme un éléphant, avec des griffes de lion , et de la couleur d’un crocodile, fendu en deux d’un seul coup: depuis la tête jusqu’au milieu du corps, comme si l’on avait taillé deux lions dans une seule peau.
+Ils y aperçurent un loup grand comme un éléphant, avec des griffes de lion , et de la couleur d’un crocodile, fendu en deux d’un seul coup: depuis la tête jusqu’au milieu du corps, comme si l’on avait taillé deux lions dans une seule peau.
 
 A cette vue, ils s’étendirent en louanges sur cet homme illustre, qui était comme le soleil de la terre.
 
@@ -128,7 +128,7 @@ Kitaboun lui répondit:
 
 Ils se mirent alors à pleurer. dans leur lit, sur l’avenir et à se consumer du feu intérieur de leur douleur.
 
-Mais lorsque le soleil dans sa rotation commença à briller dans la voûte du ciel, les jeunes époux, pleins de prévoyance et le cœur rempli d’espoir, se levèrent de leur lit moelleux et firent des préparatifs pour leur départ, disant:
+Mais lorsque le soleil dans sa rotation commença à briller dans la voûte du ciel, les jeunes époux, pleins de prévoyance et le cœur rempli d’espoir, se levèrent de leur lit moelleux et firent des préparatifs pour leur départ, disant:
 
 > De quelle manière le ciel va-t-il tourner au-dessus de nous, est-ce avec colère ou avec faveur?
 

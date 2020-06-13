@@ -51,7 +51,7 @@ Le Kaisar répondit :
 
 Guschtasp, ayant écouté ces paroles, monta sur un cheval ardent et se rendit au camp de Zerir, un diadème sur la tête , un cheval aux pieds de vent sous lui.
 
-Lorsque les troupes aperçurent Guschtasp, le fils orgueilleux de Lohrasp, elles se portèrent à sa rencontre à pied, le cœur plein de douleur, le visage inondé de larmes.
+Lorsque les troupes aperçurent Guschtasp, le fils orgueilleux de Lohrasp, elles se portèrent à sa rencontre à pied, le cœur plein de douleur, le visage inondé de larmes.
 
 Tous se prosternèrent devant lui , joyeux de ce que leurs peines, qui avaient duré si longtemps , étaient terminées.
 
@@ -69,7 +69,7 @@ Le fortuné Zerir dit à Guschtasp :
 
 Alors Zerir lui fit apporter la magnifique couronne impériale, les bracelets, un collier et le trône d’ivoire.
 
-Lorsque Guschtasp vit le trône de son père, il monta dessus, le cœur joyeux, et plaça sur sa tète la couronne.
+Lorsque Guschtasp vit le trône de son père, il monta dessus, le cœur joyeux, et plaça sur sa tète la couronne.
 
 Les petits-fils de Keï Kaous, qui avait été le maître du monde, tous les descendants fortunés de Gouderz, tels que Bahram, Schapour et Rivniz, tous ceux qui avaient une distinction quelconque, lui rendirent hommage comme à leur roi et l’appelèrent roi de la terre, et tous les hommes de guerre se tinrent debout devant lui dans leurs armures.
 

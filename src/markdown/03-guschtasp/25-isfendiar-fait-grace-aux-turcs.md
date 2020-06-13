@@ -65,7 +65,7 @@ quand il en reconnut un, il le pleura, continuant son chemin jusqu’à ce qu�
 >
 > Hélas! ce chef, ce prince, ce roi, ce flambeau du monde, ce diadème de l’empire!
 
-Il se baissa et le souleva de terre, il essuya le visage du mort de ses propres mains, et le plaça dans un cercueil d’or; tu aurais dit que Zerir n’avait jamais été né.
+Il se baissa et le souleva de terre, il essuya le visage du mort de ses propres mains, et le plaça dans un cercueil d’or; tu aurais dit que Zerir n’avait jamais été né.
 
 Ensuite il plaça les Keïanides et ses jeunes fils morts dans des cercueils, et ordonna de compter les morts et d’emporter ceux qui étaient blessés.
 

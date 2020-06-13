@@ -50,11 +50,11 @@ Mirin se dit:
 >
 > Il faut que je trouve moyen de faire ce qu’il veut, il faut que je m’y prenne de la meilleure manière que je pourrai.
 
-Cet homme, qui était le favori de tous, rentra dans son palais et fit des réflexions de toute espèce; il apporta des livres, les plaça devant lui avec un tableau des constellations et son horoscope, et vit que dans un certain temps il devait venir un homme illustre de l’Iran qui ferait trois grandes actions dépassant tous les hauts faits des grands de Roum.
+Cet homme, qui était le favori de tous, rentra dans son palais et fit des réflexions de toute espèce; il apporta des livres, les plaça devant lui avec un tableau des constellations et son horoscope, et vit que dans un certain temps il devait venir un homme illustre de l’Iran qui ferait trois grandes actions dépassant tous les hauts faits des grands de Roum.
 
 D’abord il deviendrait le gendre du Kaisar et brillerait comme le diadème sur le front impérial; ensuite il paraîtrait dans le Roum deux bêtes sauvages qui feraient du mal à tout le monde, et toutes les deux seraient tuées par cet homme, à qui aucun ennemi, si puissant qu’il fût, ne ferait peur.
 
-Quand il apprit l’histoire de Kitaboun, qui avait uni son sort à celui du vaillant Guschtasp, et l’amitié qui liait celui-ci avec Heischoui et le chef illustre du bourg, il accourut auprès de Heischoui , lui raconta tout ce qui s’était passé, et lui expliqua la constellation qui, selon les savants de Roum, annonçait les merveilles qui se passeraient dans ce pays.
+Quand il apprit l’histoire de Kitaboun, qui avait uni son sort à celui du vaillant Guschtasp, et l’amitié qui liait celui-ci avec Heischoui et le chef illustre du bourg, il accourut auprès de Heischoui , lui raconta tout ce qui s’était passé, et lui expliqua la constellation qui, selon les savants de Roum, annonçait les merveilles qui se passeraient dans ce pays.
 
 Heischoui lui dit :
 
@@ -66,7 +66,7 @@ Heischoui lui dit :
 
 Il apporta du vin et ils se mirent à boire, assis au milieu de parfums et de fleurs, les coupes d’or en main; lorsqu’ils eurent vidé quatre coupes de vin, le vaillant cavalier parut dans la plaine.
 
-Heischoui et Mirin l’aperçurent, et coururent au-devant de lui dans cette plaine faite pour les combats.
+Heischoui et Mirin l’aperçurent, et coururent au-devant de lui dans cette plaine faite pour les combats.
 
 Mirin le regarda et dit à Heischoui :
 
@@ -86,7 +86,7 @@ Quand le vin couleur de rubis eut rougi les joues des convives, Heischoui dit a�
 >
 > il tire son origine de la famille de Selm, dont il connaît les noms de père en fils; il possède l’épée de Selm, l’épée que Selm ne quittait jamais; c’est un cavalier, un héros, un lion vaillant, qui atteint avec sa flèche un aigle dans le ciel.
 >
-> Maintenant il voudrait encore grandir et s’allier au Kaisar de Roum; il a parlé au Kaisar et a reçu une réponse, et cette réponse fait trembler son cœur.
+> Maintenant il voudrait encore grandir et s’allier au Kaisar de Roum; il a parlé au Kaisar et a reçu une réponse, et cette réponse fait trembler son cœur.
 >
 > Le Kaisar lui a dit : Tu trouveras dans la forêt de Fasikoun un loup grand comme un dromadaire, et lorsque tu l’auras tué, tu deviendras dans le Roum mon hôte honoré, tu deviendras un prince puissant et mon gendre, et le monde m’accordera ce qui est mon droit.
 >

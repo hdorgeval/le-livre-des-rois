@@ -116,7 +116,7 @@ Rustem sourit et dit à Isfendiar:
 >
 > Où as-tu donc vu un combat de braves, où as-tu entendu le sifflement d’une lourde massue?
 >
-> Si le ciel tourne de cette façon, s’il efface tout sentiment de tendresse entre deux hommes, alors combattons au lieu de boire du vin rouge;
+> Si le ciel tourne de cette façon, s’il efface tout sentiment de tendresse entre deux hommes, alors combattons au lieu de boire du vin rouge;
 >
 > Servons-nous de nos arcs, de nos lacets et de nos ruses de guerre;
 >
@@ -126,7 +126,7 @@ Rustem sourit et dit à Isfendiar:
 >
 > Alors, ô fortuné Isfendiar, tu verras ce que sont les luttes et les chances d’un combat.
 >
-> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
+> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
 >
 > J’ouvrirai la porte de mon trésor, je placerai devant toi, dans sa magnificence, tout ce que je possède de précieux, je mettrai ton armée au-dessus de tout besoin, j’élèverai ton casque jusque dans les nues.
 >

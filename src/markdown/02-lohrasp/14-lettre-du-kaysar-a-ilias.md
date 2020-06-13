@@ -72,9 +72,9 @@ Le Kaisar, qui portait haut la tête, dit à Guschtasp:
 
 > Maintenant fais paraître tes troupes!
 
-et Guschtasp sortit de Roum; il aperçut l’armée et les héros des Khazars dans la plaine, s’avança, tenant une massue à tête de bœuf, semblable à un cyprès élancé sur le bord d’un courant d’eau, choisit dans la plaine son champ de bataille et fit voler la poussière jusqu’aux nuages.
+et Guschtasp sortit de Roum; il aperçut l’armée et les héros des Khazars dans la plaine, s’avança, tenant une massue à tête de bœuf, semblable à un cyprès élancé sur le bord d’un courant d’eau, choisit dans la plaine son champ de bataille et fit voler la poussière jusqu’aux nuages.
 
-Quand Ilias vit la poitrine et la stature de cet homme et comment sa main brandissait la massue, il envoya un cavalier auprès de lui pour tromper son esprit subtil. Le messager s’avança et lui dit:
+Quand Ilias vit la poitrine et la stature de cet homme et comment sa main brandissait la massue, il envoya un cavalier auprès de lui pour tromper son esprit subtil. Le messager s’avança et lui dit:
 
 > Ô homme plein de fierté!
 >
@@ -94,4 +94,4 @@ Guschtasp lui répondit :
 >
 > Il est temps de lutter et d’engager le combat.
 
-Le messager s’en retourna, allant comme le vent, et apporta à Ilias la réponse qu’il avait reçue; mais comme le soleil pâlissait sur la crête des montagnes, il était trop tard pour livrer une bataille; la nuit vint et enveloppa d’un voile couleur d’ébène la face rouge du soleil.
+Le messager s’en retourna, allant comme le vent, et apporta à Ilias la réponse qu’il avait reçue; mais comme le soleil pâlissait sur la crête des montagnes, il était trop tard pour livrer une bataille; la nuit vint et enveloppa d’un voile couleur d’ébène la face rouge du soleil.

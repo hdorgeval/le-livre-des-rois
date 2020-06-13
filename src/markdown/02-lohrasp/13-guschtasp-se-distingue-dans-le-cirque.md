@@ -10,7 +10,7 @@ order: '13'
 
 # Guschtasp se distingue dans le cirque
 
-Le Kaisar fit construire devant son palais une tribune qui ressemblait à son trône brillant; ses deux gendres se rendirent au cirque, et réjouirent son cœur enchanté, en tirant des flèches, en jouant à la balle, en joutant avec des lances; en faisant tourner leurs chevaux avec un art parfait ils s’élançaient à gauche et à droite, on aurait dit que l’équitation n’était faite que pour eux.
+Le Kaisar fit construire devant son palais une tribune qui ressemblait à son trône brillant; ses deux gendres se rendirent au cirque, et réjouirent son cœur enchanté, en tirant des flèches, en jouant à la balle, en joutant avec des lances; en faisant tourner leurs chevaux avec un art parfait ils s’élançaient à gauche et à droite, on aurait dit que l’équitation n’était faite que pour eux.
 
 Quelque temps s’étant ainsi passé, la sage Kitaboun s’approcha de Guschtasp et lui dit:
 
@@ -28,7 +28,7 @@ Guschtasp lui répondit :
 >
 > Lorsque ton père, le chef de ce peuple, chasse de la ville son gendre, comment veux-tu qu’il agisse comme il convient à un homme, quand il me voit? Néanmoins, si tu le désires, je suivrai ton avis, ô mon guide!
 
-Il demanda alors qu’on plaçât la selle sur un cheval qui enroulait la terre sous ses pieds; il partit et arriva au cirque du Kaisar, s’avança jusqu’à ce qu’il pût voir les coups de raquette, demanda aux joueurs une balle et une raquette et lança la balle droit parmi les cavaliers, tout en poussant son cheval.
+Il demanda alors qu’on plaçât la selle sur un cheval qui enroulait la terre sous ses pieds; il partit et arriva au cirque du Kaisar, s’avança jusqu’à ce qu’il pût voir les coups de raquette, demanda aux joueurs une balle et une raquette et lança la balle droit parmi les cavaliers, tout en poussant son cheval.
 
 Les mains et les pieds des héros s’arrêtèrent, personne ne revit dans le cirque la balle que Guschtasp avait lancée: elle avait disparu sous le coup de sa raquette.
 
@@ -36,7 +36,7 @@ Où donc un cavalier aurait-il pu la trouver, si vite qu’il eût couru?
 
 Les cavaliers pâlirent, toute la place était en confusion et pleine du bruit des voix.
 
-Ils se décidèrent alors à prendre les arcs et les flèches de bois de peuplier et quelques-uns des plus braves s’avançèrent.
+Ils se décidèrent alors à prendre les arcs et les flèches de bois de peuplier et quelques-uns des plus braves s’avançèrent.
 
 Guschtasp, voyant ce tumulte, se dit :
 
@@ -52,7 +52,7 @@ Le Kaisar regarda cet homme qui portait haut la tête , il regarda ses mains , s
 >
 > Appelez-le pour que je lui demande qui il est, si c’est un ange ou un homme comme nous?
 
-On appela Guschtasp devant le Kaisar, dont l’âme soupçonneuse tremblait;
+On appela Guschtasp devant le Kaisar, dont l’âme soupçonneuse tremblait;
 
 il prodigua à Guschtasp les noms de vaillant cavalier, chef des braves, diadème sur le front des grands, et lui adressa des questions sur sa patrie, son nom et sa famille.
 
@@ -104,7 +104,7 @@ Là-dessus le Kaisar rentra dans son palais, et le ciel tourna ainsi pendant qu
 
 Un matin Guschtasp se leva, et ce jeune homme plein de sens se rendit auprès du Kaisar.
 
-Celui-ci resta confondu à son aspect; il le fit asseoir sur le trône d’or, et fit tirer du trésor une ceinture, un anneau et un magnifique diadème impérial; ensuite il l’embrassa, lui plaça sur la tête le diadème et se mit à parler de ce qui s’était passé;
+Celui-ci resta confondu à son aspect; il le fit asseoir sur le trône d’or, et fit tirer du trésor une ceinture, un anneau et un magnifique diadème impérial; ensuite il l’embrassa, lui plaça sur la tête le diadème et se mit à parler de ce qui s’était passé;
 
 Ensuite il dit à tous ceux qui étaient présents :
 

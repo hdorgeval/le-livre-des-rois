@@ -57,7 +57,7 @@ Ensuite il appela le chef des chameliers, le fit mettre à genoux devant Bescho
 
 Il en chargea dix d’or, cinq de brocart de Chine et cinq autres de joyaux de toute espèce, d’un trône d’or et d’une couronne d’un grand poids.
 
-Il fit apporter quatre-vingts paires de caisses dont les fermetures n’étaient pas visibles, et choisit parmi ses héros cent soixante hommes qui certainement ne trahiraient pas son secret. Il plaça ces héros dans les caisses, fit charger les bagages et se mit en route.
+Il fit apporter quatre-vingts paires de caisses dont les fermetures n’étaient pas visibles, et choisit parmi ses héros cent soixante hommes qui certainement ne trahiraient pas son secret. Il plaça ces héros dans les caisses, fit charger les bagages et se mit en route.
 
 Il choisit vingt de ses grands, des hommes qui portaient haut la tête et frappaient de l’épée, et ordonna à ces nobles de marcher devant la caravane comme des chameliers.
 
@@ -117,7 +117,7 @@ Isfendiar arrangea le magasin et le para comme une rose printanière.
 
 De tous côtés arriva une foule d’acheteurs, et il se fit un grand trafic dans le magasin.
 
-La nuit se passa, et à l’aube du jour Isfendiar se rendit auprès du roi dans sa salle d’audience; il s’avança, baisa la terre, bénit longuement Ardjasp et dit:
+La nuit se passa, et à l’aube du jour Isfendiar se rendit auprès du roi dans sa salle d’audience; il s’avança, baisa la terre, bénit longuement Ardjasp et dit:
 
 > J’ai amené ces marchandises et cette caravane en toute hâte à l’aide de mes chameliers; elle apporte des bracelets et des diadèmes qui sont dignes d’un roi qui porte haut la tête.
 >

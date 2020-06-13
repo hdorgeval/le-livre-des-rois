@@ -63,11 +63,11 @@ tous ces chefs vinrent, amenant chacun deux chevaux: ils brillaient tous comme A
 
 On ne s’arrêta pas jusqu’au pays d’Haleb, et le monde fut rempli de combats et du bruit des hommes et des armes.
 
-On planta le drapeau impérial, on dressa des tentes et leurs enceintes, et le Sipehbed Zerir plaça l’armée sous les ordres de l’orgueilleux Bahram.
+On planta le drapeau impérial, on dressa des tentes et leurs enceintes, et le Sipehbed Zerir plaça l’armée sous les ordres de l’orgueilleux Bahram.
 
 Lui-même partit déguisé comme un homme qui porte un message ou une bonne nouvelle à un roi; il emmena avec lui cinq de ses amis, des hommes de sens , prudents et braves.
 
-Arrivé auprès du palais du Kaisar, il fut aperçu par le grand chambellan, qui se tenait sur la porte;
+Arrivé auprès du palais du Kaisar, il fut aperçu par le grand chambellan, qui se tenait sur la porte;
 le Kaisar lui-même était dans le palais, son humeur était sombre , et Kalous et Guschtasp étaient avec lui.
 
 Quand le Kaisar entendit annoncer un envoyé, il ordonna de le faire entrer, et Guschtasp fut bien aise de cette arrivée.

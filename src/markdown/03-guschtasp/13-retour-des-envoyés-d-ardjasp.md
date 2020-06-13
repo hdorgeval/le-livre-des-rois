@@ -98,7 +98,7 @@ Il y avait un Turc du nom de Gurgsar, un homme déjà vieux: on, aurait dit qu�
 
 ensuite il remit à son frère Bidirefsch un drapeau avec une figure de loup.
 
-Un autre Turc, appelé Khaschasch le vaillant, qu’un lion n’eût pas osé attaquer, fut nommé chef des éclaireurs et de l’avant-garde; il reçut d’Ardjasp un drapeau; c’était lui qui devait parler au nom du roi.
+Un autre Turc, appelé Khaschasch le vaillant, qu’un lion n’eût pas osé attaquer, fut nommé chef des éclaireurs et de l’avant-garde; il reçut d’Ardjasp un drapeau; c’était lui qui devait parler au nom du roi.
 
 Ensuite le chef des Turcs envoya à un des siens, nommé Houschdiv, un message et lui fit dire:
 

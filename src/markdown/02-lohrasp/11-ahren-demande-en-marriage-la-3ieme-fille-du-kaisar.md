@@ -86,7 +86,7 @@ Ahren s’engagea sur-le-champ par un serment solennel et accepta en tout point 
 >
 > Celui qui m’a tiré d’affaire voudra sans doute aussi tirer d’affaire Ahren, donner ainsi de la puissance dans ce pays à deux hommes, et placer sur son propre front un diadème brillant comme le soleil.
 
-Ahren, qui cherchait un moyen de salut, se rendit en toute hâte auprès de Heischoui, et lorsqu’il fut arrivé au bord de la mer, l’ambitieux Heischoui l’aperçût, reçut de lui cette lettre faite pour le flatter, le salua humblement et rompit le fil qui fermait la lettre.
+Ahren, qui cherchait un moyen de salut, se rendit en toute hâte auprès de Heischoui, et lorsqu’il fut arrivé au bord de la mer, l’ambitieux Heischoui l’aperçût, reçut de lui cette lettre faite pour le flatter, le salua humblement et rompit le fil qui fermait la lettre.
 
 Ensuite il lui dit:
 
@@ -98,7 +98,7 @@ Ensuite il lui dit:
 
 Ils placèrent des flambeaux-sur le bord de la mer et se mirent à manger et à boire du vin jusqu’à ce que les lueurs du matin se répandissent du soleil sur la surface verte de la terre et la voûte bleue du ciel.
 
-Dans ce moment un vaillant cavalier parut sur la plaine; l’illustre Ahren l’aperçut du bord de la mer et dit à Heischoui:
+Dans ce moment un vaillant cavalier parut sur la plaine; l’illustre Ahren l’aperçut du bord de la mer et dit à Heischoui:
 
 > Cet homme glorieux arrive; regarde, le ciel est rempli de la poussière que soulève son cheval.
 

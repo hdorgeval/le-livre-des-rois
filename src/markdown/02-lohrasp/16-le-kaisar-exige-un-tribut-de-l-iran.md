@@ -91,7 +91,7 @@ Le messager répondit:
 >
 > c’est moi qui fus envoyé dans le pays des Khazars pour réclamer le tribut;
 >
-> j’ai eu à supporter bien du mal dans cette ambassade, et personne ne m’a adressé des questions comme tu fais; mais puisque le roi m’a reçu si courtoisement, il ne serait pas juste que je me permisse de le tromper.
+> j’ai eu à supporter bien du mal dans cette ambassade, et personne ne m’a adressé des questions comme tu fais; mais puisque le roi m’a reçu si courtoisement, il ne serait pas juste que je me permisse de le tromper.
 >
 > Un cavalier est arrivé. auprès du Kaisar, un vainqueur de lions qui est sorti des forêts;
 >

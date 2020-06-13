@@ -29,15 +29,15 @@ order: '12'
 
 Ahren, partit et apporta tout ce que Guschtasp avait demandé, et quand tout fut préparé, celui-ci monta à cheval sur le bord de la mer, et ses amis partirent avec lui.
 
-Lorsque Heischoui aperçut le mont Sekila, il le lui montra du doigt et se retira.
+Lorsque Heischoui aperçut le mont Sekila, il le lui montra du doigt et se retira.
 
 Lui et Ahren s’en retournèrent;
 
-mais le héros, qui ambitionnait la possession du monde, arriva, au moment où le soleil commençait à lancer ses rayons, devant la montagne où était la demeure de cet affreux serpent.
+mais le héros, qui ambitionnait la possession du monde, arriva, au moment où le soleil commençait à lancer ses rayons, devant la montagne où était la demeure de cet affreux serpent.
 
 Quand le dragon vit sa haute stature, il essaya de l’attirer vers lui avec sa queue; mais le jeune homme suspendit son carquois au crochet de la selle et fit pleuvoir une grêle de traits.
 
-Le dragon s’approcha plus près, alors le héros rassembla toutes ses forces et lui enfonça le khandjar dans la gueule, en invoquant le nom de Dieu, le distributeur de la justice et de tout bien.
+Le dragon s’approcha plus près, alors le héros rassembla toutes ses forces et lui enfonça le khandjar dans la gueule, en invoquant le nom de Dieu, le distributeur de la justice et de tout bien.
 
 Le dragon serra ses dents aiguës sur le khandjar, mais l’arme entra tout entière dan son palais; il versa du venin jusqu’à ce qu’il fût épuisé, la montagne fut inondée de ce venin et de son sang.
 
@@ -86,11 +86,11 @@ Ahren partit, amena des bœufs et des chariots, et livra le corps du dragon à 
 
 > Conduisez-le au palais du Kaisar, mettez-le devant les yeux des chefs de l’armée.
 
-Lui-même devança les bœufs et les chariots, et courut auprès du Kaisar.
+Lui-même devança les bœufs et les chariots, et courut auprès du Kaisar.
 
 On apprit alors à Roum ce qui s’était passé, et les hommes qui avaient de l’expérience se hatèrent de venir, et ils virent ce puissant dragon que le vaillant héros avait abattu.
 
-Lorsque les bœufs sortirent de la montagne et arrivèrent dans la plaine, la foule poussa un cri immense à l’aspect de la blessure qu’avait reçue ce terrible dragon, qui faisait une lourde charge pour les bœufs et les chariots. La voix de la multitude montait jusqu’au ciel, et l’on aurait dit que les bœufs succomberaient sous le poids.
+Lorsque les bœufs sortirent de la montagne et arrivèrent dans la plaine, la foule poussa un cri immense à l’aspect de la blessure qu’avait reçue ce terrible dragon, qui faisait une lourde charge pour les bœufs et les chariots. La voix de la multitude montait jusqu’au ciel, et l’on aurait dit que les bœufs succomberaient sous le poids.
 
 Quiconque voyait la blessure faite par le coup d’épée et entendait le bruit des bœufs et des chariots disait :
 
