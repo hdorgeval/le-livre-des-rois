@@ -12,7 +12,7 @@ tags:
     'Dieu',
     'Espendiar',
     'Guschtasp',
-    'Héros',
+    'Héros',
     'Loi',
     'Législateur',
     'Monde',
@@ -43,7 +43,7 @@ Le Grand Écuyer étant venu le matin, selon sa coutume, visiter les chevaux, s�
 
 L’ Écuyer effrayé courut promptement apprendre au Roi ce qui était arrivé.
 
-Guschtasp en fut vivement touché.
+Guschtasp en fut vivement touché.
 
 Il appela ses Médecins & ses Sages, qui avouèrent tous qu’ils n’avaient jamais rien vû de pareil.
 
@@ -55,7 +55,7 @@ Zoroastre dans sa prison ignorait ce qui se passait.
 
 Il fut surpris de voir que le geôlier ne lui apportait pas à manger, & lui demanda le soir pourquoi il l'avait oublié.
 
-Cet homme lui apprit ce qui était arrivé, que tout le monde était dans la tristesse, & que personne n'avait mangé de la journée.
+Cet homme lui apprit ce qui était arrivé, que tout le monde était dans la tristesse, & que personne n'avait mangé de la journée.
 
 Zoroastre lui dit:
 
@@ -85,13 +85,13 @@ Guschtasp lui répondit:
 
 Zoroastre ajouta :
 
-> Je les déclarerai au Roi devant le cheval noir.
+> Je les déclarerai au Roi devant le cheval noir.
 
 Ils s’avancèrent en même temps vers l'écurie, suivis de toute la Cour.
 
 Zoroastre parut étonné en voyant l’état dans lequel était le cheval noir, & dit au Roi:
 
-> La première chose que je vous demande, c’est de croire fermement que je suis le Prophète du Dieu qui a formé votre visage, & qui y a marqué votre caractère.
+> La première chose que je vous demande, c’est de croire fermement que je suis le Prophète du Dieu qui a formé votre visage, & qui y a marqué votre caractère.
 >
 > Si votre cœur s'accorde avec vos lèvres, vos souhaits seront accomplis;
 >
@@ -111,7 +111,7 @@ Tous ceux qui étaient présents prirent part à cet évènement, & marquèrent
 
 Ce Législateur dit ensuite à Guschtasp:
 
-> Ordonnez au Héros Espendiar de protester devant
+> Ordonnez au Héros Espendiar de protester devant
 > vous qu'il sera le soutien de la Loi, & me protégera contre mes ennemis.
 
 Espendiar était présent: il consentit à ce que demandait Zoroastre, & promit de le défendre de son corps, de son âme, de son épée, & jura d’ôter la vie à quiconque l’attaquerait.
@@ -124,7 +124,7 @@ Zoroastre dit à Guschtasp:
 
 > Il faut que quelqu'un me mène dans l'intérieur de votre Palais, pour que votre maison entende ma parole, & suive la Loi pure que j'ai reçue d'Ormuzd.
 
-Guschtasp ordonna à un serviteur de le conduire dans l’intérieur des appartements.
+Guschtasp ordonna à un serviteur de le conduire dans l’intérieur des appartements.
 
 Zoroastre entra donc dans l’enceinte des femmes; & se tenant derrière une toile, qui les séparait de lui, il s'adressa à la mère d’Espendiar, la félicita sur ce qu'elle avait un mari tel que Guschtasp, & un fils tel qu'Espendiar.
 
@@ -156,7 +156,7 @@ Guschtasp fit venir le portier, & l’intimida, en lui disant:
 
 > Découvre moi la vérité, Si tu mens, je vais devant le peuple faire séparer ta tête de ton corps.
 
-Cet homme, tremblant comme le roseau agité du vent, se prosterna, demanda grâce, & rapporta ce qui s’était passé, avouant que les Sages & les Philosophes l’avaient corrompu & même menacé.
+Cet homme, tremblant comme le roseau agité du vent, se prosterna, demanda grâce, & rapporta ce qui s’était passé, avouant que les Sages & les Philosophes l’avaient corrompu & même menacé.
 
 Il Ajouta:
 
@@ -170,8 +170,8 @@ Il ordonna qu'on empalât les quatre premiers Philosophes.
 
 Zoroastre rendit grâces à Dieu. Il prononça ensuite une autre prière, la quatrième jambe du cheval sortit de fon ventre, & cet animal bondit comme un tigre.
 
-Le Roi transporté de ce qu’il voyait, courut à Zoroastre, & lui donna mille baisers.
+Le Roi transporté de ce qu’il voyait, courut à Zoroastre, & lui donna mille baisers.
 
-Tous ceux qui étaient présents, lui firent compliment, Guschtasp le conduisit vers son Trône, l'y fit asseoir, & le pria d'oublier le chagrin qu'il lui avait causé.
+Tous ceux qui étaient présents, lui firent compliment, Guschtasp le conduisit vers son Trône, l'y fit asseoir, & le pria d'oublier le chagrin qu'il lui avait causé.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.

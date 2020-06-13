@@ -35,11 +35,11 @@ Guschtasp lui répondit:
 >
 > Je pleurerai sur ce déshonneur aussi longtemps que je vivrai, et ma tête est remplie de feu;
 >
-> J’ai promis devant le Créateur tout-puissant que, si tu entres vaillamment dans le pays des Turcs sans y périr, si tu braves l’haleine du dragon et délivres tes sœurs du pouvoir des Turcs, je te donnerai la couronne impériale, le trône du pouvoir, enfin tous mes trésors, qui ne t’auront coûté aucune peine.
+> J’ai promis devant le Créateur tout-puissant que, si tu entres vaillamment dans le pays des Turcs sans y périr, si tu braves l’haleine du dragon et délivres tes sœurs du pouvoir des Turcs, je te donnerai la couronne impériale, le trône du pouvoir, enfin tous mes trésors, qui ne t’auront coûté aucune peine.
 
 Isfendiar lui répondit:
 
-> Puisse le monde n’être jamais privé de toi!
+> Puisse le monde n’être jamais privé de toi!
 >
 > Je suis esclave devant mon père, et ce n’est pas la royauté que je recherche.
 >

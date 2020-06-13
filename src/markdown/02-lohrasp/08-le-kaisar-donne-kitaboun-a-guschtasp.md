@@ -19,7 +19,7 @@ Guschtasp voyant cela, resta confondu et adressa de longues prières au Créateu
 
 > Ô toi qui est élevée délicatement et dans l’abondance!
 >
-> pourquoi ton choix est-il tombé sur moi parmi tant de chefs, tant d’homme portant des diadèmes glorieux?
+> pourquoi ton choix est-il tombé sur moi parmi tant de chefs, tant d’homme portant des diadèmes glorieux?
 >
 > Tu as préféré un étranger qui ne peut pas te donner des richesses et avec qui tu vivras pauvrement.
 >
@@ -45,7 +45,7 @@ Ils achetèrent ce qui leur était nécessaire et ce qui était convenable dans 
 
 Toute l’occupation de Guschtasp était la chasse, toute la journée il portait son carquois et ses flèches.
 
-Or un jour, au retour de la chasse, son chemin le conduisit près de Heischoui; il était chargé de produits de sa chasse de toute espèce, et marchait, le carquois encore rempli de flèches; il porta toute sa chasse, grande et petite, à Heischoui.
+Or un jour, au retour de la chasse, son chemin le conduisit près de Heischoui; il était chargé de produits de sa chasse de toute espèce, et marchait, le carquois encore rempli de flèches; il porta toute sa chasse, grande et petite, à Heischoui.
 
 Quand celui-ci l'aperçût, il courut au-devant de lui gaiement et l’âme réjouie, étendit un tapis pour qu’il s’y assît, et apporta quelque chose qu’il pût manger.
 

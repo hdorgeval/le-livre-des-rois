@@ -33,7 +33,7 @@ Le chef du bourg lui répondit :
 
 > Pourquoi m’adresses-tu cette question ?
 >
-> Je suis de la race du vaillant roi Feridoun, et avec une telle parenté personne ne peut être méprisé par le monde.
+> Je suis de la race du vaillant roi Feridoun, et avec une telle parenté personne ne peut être méprisé par le monde.
 
 Quand Guschtasp eut entendu ces paroles, il se mit en route et accompagna le personnage illustre, qui le mena dans sa maison et la para pour le recevoir.
 

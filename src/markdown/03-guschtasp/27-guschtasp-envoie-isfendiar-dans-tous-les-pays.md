@@ -52,7 +52,7 @@ Le fier fils du roi, le héros qui frappait de l’épée, partit pour faire le 
 
 Il traversa le Roum et l’Hindoustan, il traversa les mers et les ténèbres, interprétant partout les mystères de la religion, selon l’ordre de Dieu, par qui toute créature subsiste.
 
-Lorsque ces peuples entendirent la foi vraie qu’il leur apportait, ils adoptèrent ses voies et son culte, ils reçurent cette bonne religion, allumèrent le feu sacré dans les temples des idoles, et écrivirent tous des lettres au roi, disant:
+Lorsque ces peuples entendirent la foi vraie qu’il leur apportait, ils adoptèrent ses voies et son culte, ils reçurent cette bonne religion, allumèrent le feu sacré dans les temples des idoles, et écrivirent tous des lettres au roi, disant:
 
 > Nous avons reçu d’Isfendiar la religion, nous nous sommes ceints du koschti, et Isfendiar nous a fait remise du tribut, ainsi il ne faut plus nous le demander, car nous sommes rentrés dans l’ordre, et cette religion est la vraie;
 >
@@ -62,19 +62,19 @@ Guschtasp, ayant lu les lettres des rois, s’assit sur son trône et rassembla 
 
 il envoya un Zendavesta dans chaque pays, à chaque prince et à chaque roi, et il ordonna à l’illustre Pehlewan de parcourir les quatre coins du monde.
 
-Quelque part que ce roi se montrât, il ne trouva personne qui eût osé le combattre: tous se soumirent à ses ordres, et les méchants, dans le monde entier, se cachèrent.
+Quelque part que ce roi se montrât, il ne trouva personne qui eût osé le combattre: tous se soumirent à ses ordres, et les méchants, dans le monde entier, se cachèrent.
 
 Ayant ainsi assujetti à Guschtasp toute la terre, il ôta sa ceinture d’or, s’assit comme un Keïanide sur un trône royal, et se reposa quelque temps avec ses troupes.
 
 Ensuite il appela son frère Ferschidwerd, réunit une armée d’hommes vaillants, lui en donna le commandement, lui remit beaucoup d’argent et de joyaux, lui confia le gouvernement du Khorasan et le fit partir.
 
-Ainsi se passa quelque temps; le monde était purifié et soumis à la foi sainte; alors Isfendiar envoya un messager à son père et lui fit dire:
+Ainsi se passa quelque temps; le monde était purifié et soumis à la foi sainte; alors Isfendiar envoya un messager à son père et lui fit dire:
 
 > Ô roi illustre et victorieux!
 >
 > J’ai épuré le monde par la grâce de Dieu, et l’ombre de l’aigle royal couvre tous les pays;
 >
-> Personne ne craint plus rien de la part de personne, aucun homme dans le monde ne manque d’or ni d’argent, la terre brille comme le paradis, le monde entier est cultivé et couvert de moissons, les cavaliers protègent tous les pays, et les laboureurs sont occupés aux travaux de la terre.
+> Personne ne craint plus rien de la part de personne, aucun homme dans le monde ne manque d’or ni d’argent, la terre brille comme le paradis, le monde entier est cultivé et couvert de moissons, les cavaliers protègent tous les pays, et les laboureurs sont occupés aux travaux de la terre.
 >
 > Le monde étant ainsi en repos, et les hommes qui suivent de mauvaises voies étant dispersés, que m’ordonnes-tu, ô roi des héros qui portent haut la tête?
 >

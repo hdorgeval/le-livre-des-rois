@@ -43,7 +43,7 @@ Un de ces cavaliers revint et dit au roi:
 >
 > Le chef des Turcs a choisi des éclaireurs, les a envoyés, et ils se sont rencontrés avec les nôtres.
 
-Alors le noble Guschtasp, le vaillant roi, appela auprès de lui son Sipehbed, le fortuné Zerir, lui donna un drapeau et lui ordonna de partir en toute hâte, de préparer les éléphants et de faire prendre les armes aux troupes.
+Alors le noble Guschtasp, le vaillant roi, appela auprès de lui son Sipehbed, le fortuné Zerir, lui donna un drapeau et lui ordonna de partir en toute hâte, de préparer les éléphants et de faire prendre les armes aux troupes.
 
 Le Sipehbed partit et mit en ordre l’armée, qui tout entière ne désirait que combattre les Turcs.
 
@@ -55,14 +55,14 @@ Ensuite il donna cinquante mille braves cavaliers à Zerir, son Sipehbed, et le
 
 Enfin il chargea de l’arrière-garde le flambeau du roi, Nestour à la naissance fortunée.
 
-Ayant ainsi disposé ses troupes, il remonta sur la montagne, l’âme remplie de douleur et le corps brisé de fatigue; il s’y assit sur son trône beau et brillant, et observa de là les armées.
+Ayant ainsi disposé ses troupes, il remonta sur la montagne, l’âme remplie de douleur et le corps brisé de fatigue; il s’y assit sur son trône beau et brillant, et observa de là les armées.
 
 Ensuite Ardjasp, le roi des cavaliers de la Chine, mit de même ses troupes en ordre de bataille.
 
 Il détacha des troupes venues de Khallakh cent mille hommes, des cavaliers braves et expérimentés, et les envoya auprès de Bidirefsch, qui avait les grandes timbales et un drapeau d’or, et à qui il confia une des ailes de l’armée, car le lion le plus courageux n’osait pas le combattre.
 
-Il donna le commandement de l’autre aile à Gurgsar et mit sous ses ordres cent mille cavaliers d’élite; ensuite il plaça dans le centre de son armée un corps de troupes bonnes et choisies, et les confia à ce magicien obstiné qui portait le nom de Namkhast, fils de Hazaran.
+Il donna le commandement de l’autre aile à Gurgsar et mit sous ses ordres cent mille cavaliers d’élite; ensuite il plaça dans le centre de son armée un corps de troupes bonnes et choisies, et les confia à ce magicien obstiné qui portait le nom de Namkhast, fils de Hazaran.
 
-Il garda comme réserve cent mille autres cavaliers qui avaient montré leurs prouesses dans le monde, et les plaça de manière à pouvoir secourir chaque partie de son armée.
+Il garda comme réserve cent mille autres cavaliers qui avaient montré leurs prouesses dans le monde, et les plaça de manière à pouvoir secourir chaque partie de son armée.
 
-Enfin un homme glorieux, expérimenté et qui portait haut la tête dans les combats, se trouvait derrière la ligne de bataille: Kehrem était le nom de ce noble cavalier, sur qui la bonne et la mauvaise fortune avaient souvent passé; c’était un frère d’Ardjasp, qui en fit le gardien de l’armée, et nomma ordonnateur cet homme accoutumé à disposer les troupes.
+Enfin un homme glorieux, expérimenté et qui portait haut la tête dans les combats, se trouvait derrière la ligne de bataille: Kehrem était le nom de ce noble cavalier, sur qui la bonne et la mauvaise fortune avaient souvent passé; c’était un frère d’Ardjasp, qui en fit le gardien de l’armée, et nomma ordonnateur cet homme accoutumé à disposer les troupes.

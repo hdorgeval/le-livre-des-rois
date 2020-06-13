@@ -26,17 +26,17 @@ Aussitôt que la pointe du roseau fut noircie, il commença par:
 >
 > Puisse-t-il exaucer toujours les vœux de Guschtasp, puisse la terre briller dans la gloire de Lohrasp!
 >
-> Je suis arrivé dans le pays de Touran par une route que je ne bénirai jamais;
+> Je suis arrivé dans le pays de Touran par une route que je ne bénirai jamais;
 >
 > Si je voulais décrire tout ce que j’ai souffert, la tête d’un jeune homme blanchirait de douleur.
 >
 > Si le roi le permet, je lui raconterai mes stratagèmes et mes combats; je serai content et heureux de le revoir, et j’oublierai mes longues fatigues.
 >
-> Les moyens que j’ai employés pour rassasier mon cœur de vengeance ont été tels qu’Ardjasp et Kehrem ont péri dans le château d’airain, et qu’il n’y est resté que des lamentations, des douleurs et la mort.
+> Les moyens que j’ai employés pour rassasier mon cœur de vengeance ont été tels qu’Ardjasp et Kehrem ont péri dans le château d’airain, et qu’il n’y est resté que des lamentations, des douleurs et la mort.
 >
-> Je n’ai fait grâce de la vie à personne, et les herbes mêmes ont couché leurs têtes sur les plaines.
+> Je n’ai fait grâce de la vie à personne, et les herbes mêmes ont couché leurs têtes sur les plaines.
 >
-> Les lions et les loups ont dévoré toutes les cervelles, et les léopards féroces n’ont plus voulu que des cœurs.
+> Les lions et les loups ont dévoré toutes les cervelles, et les léopards féroces n’ont plus voulu que des cœurs.
 >
 > Puisse le ciel briller du reflet de la couronne de Guschtasp, puisse la terre devenir un jardin de roses par la grâce de Lohrasp!
 
@@ -54,11 +54,11 @@ Cette réponse commençait ainsi:
 >
 > Ensuite je demande à Dieu l’unique, le dispensateur de la justice, qu’il soit ton guide.
 >
-> J’ai planté un arbre dans le jardin du paradis, plus glorieux qu’aucun de ceux que Feridoun a plantés; ses fruits sont devenus des rubis et de l’or, ses feuilles ont poussé majestueusement et selon mon désir.
+> J’ai planté un arbre dans le jardin du paradis, plus glorieux qu’aucun de ceux que Feridoun a plantés; ses fruits sont devenus des rubis et de l’or, ses feuilles ont poussé majestueusement et selon mon désir.
 >
 > Puisse cet arbre vivre toujours, puisse ton cœur être joyeux et ta fortune prospère!
 >
-> Je vais parler d’abord sur ce que tu dis de la vengeance de ton grand-père, que tu as poursuivie par tous les moyens et avec acharnement, ensuite du sang que tu as versé et des combats que tu as livrés de ta personne.
+> Je vais parler d’abord sur ce que tu dis de la vengeance de ton grand-père, que tu as poursuivie par tous les moyens et avec acharnement, ensuite du sang que tu as versé et des combats que tu as livrés de ta personne.
 >
 > Il faut que les rois respectent leur corps, et ce n’est pas par les luttes et les combats qu’ils acquièrent leur gloire;
 >
@@ -70,9 +70,9 @@ Cette réponse commençait ainsi:
 >
 > Ton occupation ne doit pas être de verser du sang ni de te battre étourdiment avec les grands.
 >
-> Tu avais à venger trente-huit de tes frères, mais tu as versé du sang au delà de toute mesure.
+> Tu avais à venger trente-huit de tes frères, mais tu as versé du sang au delà de toute mesure.
 >
-> Enfin ce vieillard, ton grand-père, avait éloigné de son cœur tout mauvais sentiment et toute haine, mais tu as versé du sang comme on avait versé le sien, tu t’es jeté dans la bataille comme un lion vaillant.
+> Enfin ce vieillard, ton grand-père, avait éloigné de son cœur tout mauvais sentiment et toute haine, mais tu as versé du sang comme on avait versé le sien, tu t’es jeté dans la bataille comme un lion vaillant.
 >
 > Puisses-tu rester toujours content et heureux, puisse l’intelligence te diriger toujours!
 >

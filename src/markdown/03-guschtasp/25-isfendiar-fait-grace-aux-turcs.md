@@ -50,25 +50,25 @@ Le héros au corps d’éléphant, le roi, fils de roi, fit proclamer parmi ses 
 
 Quand les troupes eurent entendu sa proclamation, elles se rendirent toutes auprès du vaillant héros, rentrèrent dans leur camp et battirent le tambour pour célébrer leur victoire.
 
-Elles ne dormirent pas de joie pendant toute la nuit, car elles avaient remporté une victoire digne de Rustem.
+Elles ne dormirent pas de joie pendant toute la nuit, car elles avaient remporté une victoire digne de Rustem.
 
 Lorsque cette nuit sombre fut passée, le sang s’était écoulé dans la
 plaine et le désert;
 
-l’illustre Keïanide, accompagné des grands de l’armée, alla voir le champ de bataille;
+l’illustre Keïanide, accompagné des grands de l’armée, alla voir le champ de bataille;
 
 il erra parmi tous ces morts;
 
-quand il en reconnut un, il le pleura, continuant son chemin jusqu’à ce qu’il trouvât son frère misérablement tué et gisant sur le champ de bataille comme une chose vile; quand il le vit dans ce triste état, il déchira ses vêtements royaux; il descendit de son cheval aux belles couleurs et saisit sa barbe de ses deux mains, s’écriant:
+quand il en reconnut un, il le pleura, continuant son chemin jusqu’à ce qu’il trouvât son frère misérablement tué et gisant sur le champ de bataille comme une chose vile; quand il le vit dans ce triste état, il déchira ses vêtements royaux; il descendit de son cheval aux belles couleurs et saisit sa barbe de ses deux mains, s’écriant:
 
 > Ô roi des héros de Balkh, toute ma vie est devenue amère;
 >
 > Hélas! ce chef, ce prince, ce roi, ce flambeau du monde, ce diadème de l’empire!
 
-Il se baissa et le souleva de terre, il essuya le visage du mort de ses propres mains, et le plaça dans un cercueil d’or; tu aurais dit que Zerir n’avait jamais été né.
+Il se baissa et le souleva de terre, il essuya le visage du mort de ses propres mains, et le plaça dans un cercueil d’or; tu aurais dit que Zerir n’avait jamais été né.
 
 Ensuite il plaça les Keïanides et ses jeunes fils morts dans des cercueils, et ordonna de compter les morts et d’emporter ceux qui étaient blessés.
 
-On parcourut tout l’espace où l’on s’était battu, sur les hauteurs, dans le désert, sur la plaine et sur les routes, et l’on trouva que trente mille Iraniens étaient tombés, dont sept cents chefs illustres; mille quarante chefs étaient blessés et avaient échappé au danger d’être foulés aux pieds des éléphants; du côté des Turcs il y avait cent mille morts, dont onze cent soixante trois notables, et trois mille deux cents blessés.
+On parcourut tout l’espace où l’on s’était battu, sur les hauteurs, dans le désert, sur la plaine et sur les routes, et l’on trouva que trente mille Iraniens étaient tombés, dont sept cents chefs illustres; mille quarante chefs étaient blessés et avaient échappé au danger d’être foulés aux pieds des éléphants; du côté des Turcs il y avait cent mille morts, dont onze cent soixante trois notables, et trois mille deux cents blessés.
 
 Ne reste pas dans un pareil endroit, si tu peux l’éviter.

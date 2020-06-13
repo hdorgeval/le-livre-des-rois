@@ -13,7 +13,7 @@ Un prince qui est noble et brave ne doit pas confier son armée à un ennemi, c
 
 Un rejeton d’une famille puissante, qui reste éloigné du pouvoir, finit toujours par devenir mécontent;
 
-Et un roi n’agit pas selon la raison, quand il donne le nom d’ami à un homme qui ne le sert qu’à contre-cœur, et à qui pèse la nécessité de se conformer à la volonté d’un autre;
+Et un roi n’agit pas selon la raison, quand il donne le nom d’ami à un homme qui ne le sert qu’à contre-cœur, et à qui pèse la nécessité de se conformer à la volonté d’un autre;
 
 Car cet homme n’aura aucune bonté d’âme, et son cœur sera déchiré par l’ambition, quand même le ciel satisferait tous ses désirs et qu’il le traiterait avec prédilection.
 

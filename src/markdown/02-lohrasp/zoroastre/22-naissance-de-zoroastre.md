@@ -42,15 +42,15 @@ Le miracle se répandit bientôt, & inquiéta fort les magiciens, qui étaient a
 
 Ils crurent que cet événement les regardait & formèrent la résolution de faire périr Zoroastre.
 
-Il y avait alors un Prince nommé Douranseroun, qui était le Chef des Magiciens, & le Maître de ceux qui suivaient la mauvaise Loi.
+Il y avait alors un Prince nommé Douranseroun, qui était le Chef des Magiciens, & le Maître de ceux qui suivaient la mauvaise Loi.
 
 Il savait que dès que Zoroastre paraîtrait, la pureté de sa Loi ferait disparaitre la force de la Magie.
 
-On ne lui eut pas plutôt annoncé que l'enfant était né, qu'il bondit comme un taureau sur son Trône, monta à cheval, & se rendit en diligence à la maison de Poroschasp.
+On ne lui eut pas plutôt annoncé que l'enfant était né, qu'il bondit comme un taureau sur son Trône, monta à cheval, & se rendit en diligence à la maison de Poroschasp.
 
 Il trouve Zoroastre qui tétait : ses joues lui parurent semblables au Printemps dans sa primeur: la grandeur de Dieu sortait de son corps.
 
-Informé de ce qui était arrivé à sa naissance, Douranseroun pâlit de colère, ordonna à ses gens de prendre l'enfant, & saisit son sabre, pour le couper en deux: mais sa main sécha sur le champ par l’ordre du Conservateur des âmes.
+Informé de ce qui était arrivé à sa naissance, Douranseroun pâlit de colère, ordonna à ses gens de prendre l'enfant, & saisit son sabre, pour le couper en deux: mais sa main sécha sur le champ par l’ordre du Conservateur des âmes.
 
 Rouge de colère, il quitta l’oreiller de Zoroastre, & les Magiciens s’enfuirent de ce lieu repliés sur eux-mêmes comme la couleuvre.
 

@@ -68,7 +68,7 @@ tags:
     'Sectateurs',
     'Soleil',
     'Suprême',
-    'Tchengréghatchah',
+    'Tchengréghatchah',
     'Terre',
     'Tourberatorsch',
     'Urmi',
@@ -127,7 +127,7 @@ Dieu qui a toujours été, & qui sera toujours, lui répondit:
 
 > C’est celui dont le cœur est droit.
 >
-> C'est celui qui est libéral à l'égard du Juste, de tous les hommes, & dont les yeux ne sont pas tourné vers les richesses.
+> C'est celui qui est libéral à l'égard du Juste, de tous les hommes, & dont les yeux ne sont pas tourné vers les richesses.
 >
 > C'est celui dont le cœur fait du bien à tout ce qui est dans le Monde; par exemple, au feu, à l'eau, aux animaux: il sera éternellement heureux.
 >
@@ -153,7 +153,7 @@ Mais Ormuzd lui répondit:
 >
 > Si je vous accordais l’immortalité, vous me demanderiez vous-même la mort.
 
-Ormuzd lui présenta en même temps quelque chose de semblable à du miel;
+Ormuzd lui présenta en même temps quelque chose de semblable à du miel;
 
 Zoroastre le mangea, & vit comme en songe les cœurs & les pensées des hommes à découvert.
 
@@ -171,7 +171,7 @@ Ahriman l'ayant aperçu, poussa un grand cri, en disant:
 >
 > Vous aurez dans le Monde tout ce que vous pouvez désirer.
 >
-> Ne vous inquiétez pas de votre fin, ou du moins ne détruisez pas mon peuple, ô pur Zoroastre, vous fils de Poroschasp, qui êtes né de celle qui vous a porté.
+> Ne vous inquiétez pas de votre fin, ou du moins ne détruisez pas mon peuple, ô pur Zoroastre, vous fils de Poroschasp, qui êtes né de celle qui vous a porté.
 
 Zoroastre lui répondit
 
@@ -191,9 +191,9 @@ Ormuzd dit à Zoroastre:
 
 > Apprenez aux Peuples ce que vous avez vu, vous qui êtes leur Pasteur.
 >
-> Celui qui suivra la voie impure d’Ahriman, comme vous avez traversé une montagne de feu, & qu'on vous a ouvert le ventre, il coulera de son corps des flots de sang, son corps sera livré à des flammes brulantes.
+> Celui qui suivra la voie impure d’Ahriman, comme vous avez traversé une montagne de feu, & qu'on vous a ouvert le ventre, il coulera de son corps des flots de sang, son corps sera livré à des flammes brulantes.
 >
-> Pour ce qui est du fleuve de métaux fondus, qui n’a pu endommager un seul de vos cheveux, voici ce que cela signifie: une génération quittera la Loi, pour suivre la voie d’Ahriman.
+> Pour ce qui est du fleuve de métaux fondus, qui n’a pu endommager un seul de vos cheveux, voici ce que cela signifie: une génération quittera la Loi, pour suivre la voie d’Ahriman.
 >
 > Mais les Mobeds s’armeront pour combattre les Dews. Le doute s'emparera du cœur des hommes, & ce fleuve brûlant les dissipera.
 >
@@ -221,7 +221,7 @@ Ensuite Ormuzd enseigna à Zoroastre le Zend-Avesta, & lui dit:
 >
 > Apprenez-lui à me connaître.
 >
-> Qu’il soit plein de bonté & de miséricorde: montrez à Guschtasp tout ce que je vous ai enseigné.
+> Qu’il soit plein de bonté & de miséricorde: montrez à Guschtasp tout ce que je vous ai enseigné.
 >
 > Instruisez de ma part tous les Mobeds: dites-leur de s’éloigner de la voie d’Ahriman: récitez mes paroles; les Dews et les Magiciens se cacheront devant elle.
 
@@ -231,7 +231,7 @@ Ormuzd dit ensuite à Zoroastre:
 
 > Vous triompherez de tous vos Adversaires.
 >
-> Il y a dans l’Indoustan un Brahme nommé Tchengréghatchah; personne ne l’ égale en sagesse: telles sont les questions qu’il vous fera, & telles sont les réponses à ces questions. Ce Nosk du Zend-Avesta comprend les réponses à tout ce que Tchengréghatchah aura médité & recherché avec beaucoup de peine pendant plusieurs années.
+> Il y a dans l’Indoustan un Brahme nommé Tchengréghatchah; personne ne l’ égale en sagesse: telles sont les questions qu’il vous fera, & telles sont les réponses à ces questions. Ce Nosk du Zend-Avesta comprend les réponses à tout ce que Tchengréghatchah aura médité & recherché avec beaucoup de peine pendant plusieurs années.
 
 Lorsqu’il sortit de la présence d'Ormuzd le cœur satisfait, l'Amschaspand Bahman, qui veille sur les animaux, vint au-devant de lui, & lui dit:
 
@@ -269,7 +269,7 @@ Cet Amschaspand lui dit:
 >
 > La vue de ces armes fait fuir ceux qui ont de mauvais desseins; il ne faut les confier ni au méchant, ni à l'ennemi.
 
-Espendarmad vint ensuite trouver Zoroastre, lui fit différents souhaits, & lui dit:
+Espendarmad vint ensuite trouver Zoroastre, lui fit différents souhaits, & lui dit:
 
 > Ô homme de la Loi pure, l'ordre de celui qui bénit les hommes, est qu'ils préservent la Terre du sang, des immondices & des morts.
 >
@@ -281,7 +281,7 @@ Espendarmad vint ensuite trouver Zoroastre, lui fit différents souhaits, & lui
 >
 > Dites cela aux hommes.
 
-Zoroastre n'eut pas plutôt quitté Espendarmad, que Khordad [^9] se présenta à lui, & lui dit:
+Zoroastre n'eut pas plutôt quitté Espendarmad, que Khordad [^9] se présenta à lui, & lui dit:
 
 > je vous confie l'eau qui coule, l’eau creusée, l'eau des fleuves, celle qui vient de loin, des montagnes, l’eau des puits & des sources.
 >
@@ -307,7 +307,7 @@ Zoroastre reçut encore les instructions suivantes des Esprits célestes:
 >
 > Qu'ils ceignent le Kosti, qui est la marque des Disciples de la Loi sainte.
 >
-> Qu'ils conservent pures les quatre choses précieuses dont le corps de l’homme est composé, le vent, l'eau, le feu & la terre: alors tout sera heureux & béni de l'Être Suprême.
+> Qu'ils conservent pures les quatre choses précieuses dont le corps de l’homme est composé, le vent, l'eau, le feu & la terre: alors tout sera heureux & béni de l'Être Suprême.
 
 Telles sont les instructions que Zoroastre reçut d’Ormuzd & des Esprits célestes ses Ministres.
 
@@ -315,7 +315,7 @@ Telles sont les instructions que Zoroastre reçut d’Ormuzd & des Esprits céle
 [^2]: La mer Caspienne.
 [^3]: Plusieurs montagnes ont porté ce nom. Il y a l’Albordj de Géorgie située à l’ouest de la mer Caspienne. Il y a l’ Albordj dans le cœur de la Perse, dont le Pyrée est célèbre. Albordj signifie montagne élevée (heranm berézéetîm). ![albordj](images/albordj.jpg) Extrait d'une carte de la Perse publiée en 1650 qui montre les fleuves Araxe et Cyrus, la côte ouest de la mer Caspienne et le mont Albordj.
 [^4]: Les six premiers Esprits célestes après Ormuzd
-[^5]: Quelques Parses croient qu'il est ici question de Djemschid qui, sur la fin de son règne, voulut se faire adorer, D'autres rapportent ce trait à Guerschasp, fameux guerrier, qui était en Enfer pour avoir frappé le feu.
+[^5]: Quelques Parses croient qu'il est ici question de Djemschid qui, sur la fin de son règne, voulut se faire adorer, D'autres rapportent ce trait à Guerschasp, fameux guerrier, qui était en Enfer pour avoir frappé le feu.
 [^6]: Trentième descendant de Zoroastre.
 [^7]: C’est-à-dire adresser à Ormuzd des louanges accompagnées de remerciements.
 [^8]: C'est-à-dire un lieu destiné au feu.

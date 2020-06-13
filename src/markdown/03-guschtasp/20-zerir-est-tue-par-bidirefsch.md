@@ -28,13 +28,13 @@ order: '20'
 
 Le roi fut heureux de l’entendre et célébra ses louanges.
 
-Il lui donna son propre destrier et sa selle, il lui donna son javelot trempé avec du poison, javelot qui aurait percé une montagne de fer.
+Il lui donna son propre destrier et sa selle, il lui donna son javelot trempé avec du poison, javelot qui aurait percé une montagne de fer.
 
-Le magicien haineux et impur s’avança contre le vaillant et prudent cavalier; mais quand il le vit de loin, si fort et si animé, le visage couvert de poussière, les yeux remplis de larmes, tenant en main une massue comme Sam le héros, quand il vit devant lui une montagne de morts, il n’osa pas se présenter en face de Zerir.
+Le magicien haineux et impur s’avança contre le vaillant et prudent cavalier; mais quand il le vit de loin, si fort et si animé, le visage couvert de poussière, les yeux remplis de larmes, tenant en main une massue comme Sam le héros, quand il vit devant lui une montagne de morts, il n’osa pas se présenter en face de Zerir.
 
-Il se glissa inaperçu derrière lui, et lança son javelot trempé avec du poison sur le cavalier, fils de roi, qui ne s’y attendait pas.
+Il se glissa inaperçu derrière lui, et lança son javelot trempé avec du poison sur le cavalier, fils de roi, qui ne s’y attendait pas.
 
-Le javelot traversa la cuirasse du prince, son corps royal fut inondé de sang et il tomba de cheval.
+Le javelot traversa la cuirasse du prince, son corps royal fut inondé de sang et il tomba de cheval.
 
 Hélas! ce vaillant fils de roi!
 
@@ -44,9 +44,9 @@ Toute l’armée des Turcs poussa un cri de joie, et l’on plaça le drapeau su
 
 Guschtasp regarda du haut de la montagne et n’aperçut plus cette lune qui tournait au milieu de la poussière; il dit:
 
-> Je crains que cette lune qui tournait, et dont la lumière ne cessait d’éclairer cette armée, que mon vaillant frère, le fortuné Zerir, qui abattait les lions féroces, n’ait été renversé de cheval, car les braves cessent de s’élancer et d’attaquer;
+> Je crains que cette lune qui tournait, et dont la lumière ne cessait d’éclairer cette armée, que mon vaillant frère, le fortuné Zerir, qui abattait les lions féroces, n’ait été renversé de cheval, car les braves cessent de s’élancer et d’attaquer;
 >
-> je n’entends plus les cris des fils des grands; est-ce que le chef des nobles serait tué?
+> je n’entends plus les cris des fils des grands; est-ce que le chef des nobles serait tué?
 
 Il envoya des hommes à cheval sur le champ de bataille, là ou l’on apercevait le drapeau noir, et leur dit:
 
@@ -54,11 +54,11 @@ Il envoya des hommes à cheval sur le champ de bataille, là ou l’on apercev
 
 Le roi de la terre était dans cet état lorsqu’un des messagers revint en versant des larmes de sang, et lui dit:
 
-> Ta lune, le gardien de la couronne et de ton armée, le Pehlewan du monde, le vaillant Zerir, hélas! a été tué misérablement par les cavaliers turcs!
+> Ta lune, le gardien de la couronne et de ton armée, le Pehlewan du monde, le vaillant Zerir, hélas! a été tué misérablement par les cavaliers turcs!
 >
-> Bidirefsch, le chef de tous les magiciens de la terre, l’a jeté à terre et a emporté le drapeau de Kaweh.
+> Bidirefsch, le chef de tous les magiciens de la terre, l’a jeté à terre et a emporté le drapeau de Kaweh.
 
-Lorsque le roi du monde apprit que Zerir était tué, l’image de la mort se dressa devant lui;
+Lorsque le roi du monde apprit que Zerir était tué, l’image de la mort se dressa devant lui;
 
 il déchira tous ses vêtements jusqu’au nombril, versa de la poussière sur la couronne royale, et dit au sage Djamasp:
 

@@ -36,7 +36,7 @@ order: '06'
 
 # Keï Khosrou distribue des trésors aux Pehlewans
 
-Les troupeaux de chevaux du roi ayant été amenés de leurs prairies par les pâtres et conduits au camp, Khosrou dit:
+Les troupeaux de chevaux du roi ayant été amenés de leurs prairies par les pâtres et conduits au camp, Khosrou dit:
 
 > Quiconque sait jeter un lacet, quiconque montre un corps d’airain dans la bataille, qu’il lance son lacet parmi ces chevaux sauvages, qu’il prenne dans le nœud la tête de ces destriers aux pieds de vent.
 
@@ -48,13 +48,13 @@ Ensuite le victorieux maître du monde s’assit sur le trône d’or, couvert d
 >
 > Pourquoi faudrait-il consumer sa vie à amasser de l’or, pendant que les braves en ont besoin?
 
-Il fit apporter cent robes de brocart de Roum brodé de pierreries et d’or pur, autant de pièces d’étoffe de poil de castor et de drap d’or, et une coupe remplie de joyaux dignes d’un roi.
+Il fit apporter cent robes de brocart de Roum brodé de pierreries et d’or pur, autant de pièces d’étoffe de poil de castor et de drap d’or, et une coupe remplie de joyaux dignes d’un roi.
 
 On plaça tout cela devant le noble Khosrou, et le roi du monde dit à ses guerriers:
 
-> Voici le prix que j’offre pour la vile tête de Palaschan le méchant, le dragon courageux, qu’Afrasiab a nommé Pehlewan de son armée, et sur la vigilance duquel il se repose.
+> Voici le prix que j’offre pour la vile tête de Palaschan le méchant, le dragon courageux, qu’Afrasiab a nommé Pehlewan de son armée, et sur la vigilance duquel il se repose.
 >
-> Qui est-ce qui, au jour de la bataille, rentrera dans notre camp à toute bride, chargé de la tête et de l’épée de Palaschan et nous amenant son cheval?
+> Qui est-ce qui, au jour de la bataille, rentrera dans notre camp à toute bride, chargé de la tête et de l’épée de Palaschan et nous amenant son cheval?
 
 Bijen fils de Guiv se leva sur-le-champ, et déclara qu’il était prêt à tuer ce dragon; il saisit les étoffes et la coupe d’or remplie de pierreries, appela les grâces de Dieu sur le roi en disant:
 
@@ -120,7 +120,7 @@ Le roi donna toutes ces richesses à Guiv en disant:
 
 Il fit apporter incontinent par le trésorier, cent pièces de brocart de diverses couleurs, choisir dans son trésor cent perles si belles que tu les aurais prises pour de l’eau congelée, amener de l’appartement des femmes cinq esclaves, dont les boucles de cheveux étaient cachées sous des diadèmes, et dit:
 
-> Ce présent est destiné à celui qui saurait se laisser gouverner par la raison, qui serait brave, prudent, doux de langage, qui ne refuserait pas de lutter contre un lion, qui porterait un message à Afrasiab sans que la peur fit tomber des larmes de ses yeux, et qui m’en rapporterait la réponse.
+> Ce présent est destiné à celui qui saurait se laisser gouverner par la raison, qui serait brave, prudent, doux de langage, qui ne refuserait pas de lutter contre un lion, qui porterait un message à Afrasiab sans que la peur fit tomber des larmes de ses yeux, et qui m’en rapporterait la réponse.
 >
 > Qui, parmi cette noble assemblée, veut se charger de cela?
 
@@ -128,4 +128,4 @@ Gourguin fils de Milad étendit la main, et se déclara prêt à se mettre en r
 
 > Puisse la raison être toujours la compagne de l’ âme de Khosrou!
 
-Cependant la terre était devenue noire connue l’aile du corbeau, et le flambeau de la lune s’était levé derrière les montagnes; le roi s’en retourna dans son palais, et les grands partirent pour leurs demeures.
+Cependant la terre était devenue noire connue l’aile du corbeau, et le flambeau de la lune s’était levé derrière les montagnes; le roi s’en retourna dans son palais, et les grands partirent pour leurs demeures.

@@ -22,7 +22,7 @@ order: '01'
 
 # Lohrasp fonde le Temple du Feu à Balkh
 
-Lorsque Lohrasp se fut assis sur le trône de la justice et qu’il eut placé sur sa tête la couronne des rois des rois, il se mit à célébrer le Créateur et à
+Lorsque Lohrasp se fut assis sur le trône de la justice et qu’il eut placé sur sa tête la couronne des rois des rois, il se mit à célébrer le Créateur et à
 lui rendre des grâces innombrables.
 
 Ensuite il dit :
@@ -37,7 +37,7 @@ Ensuite il dit :
 >
 > Pendant que ton cœur se réjouit, la Mort aux griffes aiguës le guette comme un lion féroce plein de rancune.
 >
-> Abandonnons le désir de nous agrandir, convenons de notre ignorance, ne nous servons de cette couronne royale et de ce trône puissant que pour rendre justice, pour donner la tranquillité et obtenir des conseils, pour que notre part dans ce monde fugitif ne soit pas la vengeance, la malédiction et la fatigue.
+> Abandonnons le désir de nous agrandir, convenons de notre ignorance, ne nous servons de cette couronne royale et de ce trône puissant que pour rendre justice, pour donner la tranquillité et obtenir des conseils, pour que notre part dans ce monde fugitif ne soit pas la vengeance, la malédiction et la fatigue.
 >
 > Je ferai plus que ne m’a ordonné Khosrou; j’écarterai de mon cœur toute haine et toute envie.
 >

@@ -25,19 +25,19 @@ order: '07'
 
 # Keï Khosrou envoie Rustem dans l'Inde
 
-Aussitôt que le retour du jour eut couvert les montagnes d’une teinte de sandaraque, et que la voix du coq se fut élevée vers les nues, Rustem, accompagné de Zewareh et de Faramourz, se rendit auprès du roi et lui parla de l’Iran, du trône et de la couronne, et ils délibérèrent sur toute chose, grande et petite.
+Aussitôt que le retour du jour eut couvert les montagnes d’une teinte de sandaraque, et que la voix du coq se fut élevée vers les nues, Rustem, accompagné de Zewareh et de Faramourz, se rendit auprès du roi et lui parla de l’Iran, du trône et de la couronne, et ils délibérèrent sur toute chose, grande et petite.
 
 Rustem dit au roi de la terre:
 
-> Ô illustre et glorieux roi! autrefois le Zaboulistan comprenait une province qui avait fait partie des domaines de Tour, mais dont Minoutchehr avait expulsé les Turcs.
+> Ô illustre et glorieux roi! autrefois le Zaboulistan comprenait une province qui avait fait partie des domaines de Tour, mais dont Minoutchehr avait expulsé les Turcs.
 >
 > C’est un beau et magnifique pays.
 >
-> Depuis que Kaous est devenu vieux et faible, et qu’il a perdu sa valeur, sa dignité et sa gloire, on y paye le tribut et les redevances au roi du Touran, et personne n’y jette plus un regard vers l’Iran.
+> Depuis que Kaous est devenu vieux et faible, et qu’il a perdu sa valeur, sa dignité et sa gloire, on y paye le tribut et les redevances au roi du Touran, et personne n’y jette plus un regard vers l’Iran.
 >
 > C’est un pays riche et qui abonde en éléphants;
 >
-> Ses habitants sont malheureux sans l’avoir mérité, car on ne cesse de les piller, de les tuer et de les envahir, de sorte qu’ils sont prêts à se révolter contre l’autorité du roi du Touran;
+> Ses habitants sont malheureux sans l’avoir mérité, car on ne cesse de les piller, de les tuer et de les envahir, de sorte qu’ils sont prêts à se révolter contre l’autorité du roi du Touran;
 >
 > Or le royaume d’Iran est à toi, tout t’appartient, depuis le pied de la fourmi jusqu’à la griffe du lion, et il te faudrait envoyer dans ce pays une puissante armée sous un vaillant Pehlewan, pour que les habitants payent au roi le tribut qui lui est dû, ou qu’ils apportent leurs têtes devant son trône.
 >

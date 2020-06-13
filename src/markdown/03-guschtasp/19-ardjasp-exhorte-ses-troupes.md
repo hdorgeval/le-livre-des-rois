@@ -26,7 +26,7 @@ order: '19'
 
 Deux semaines se passèrent ainsi, et à chaque instant le combat devint plus vif.
 
-Alors parut le vaillant Zerir, monté sur un puissant cheval de couleur isabelle: il se jeta sur le camp des ennemis comme une flamme qui, poussée par le vent, dévore les herbes.
+Alors parut le vaillant Zerir, monté sur un puissant cheval de couleur isabelle: il se jeta sur le camp des ennemis comme une flamme qui, poussée par le vent, dévore les herbes.
 
 Il tua les uns et renversa les autres, et quiconque le vit ne put tenir devant lui.
 
@@ -36,7 +36,7 @@ Quand Ardjasp s’aperçut que ce fils de Lohrasp allait anéantir son armée, i
 >
 > Voici deux semaines qui se passent dans cette lutte, et je n’en vois pas encore poindre la fin.
 >
-> Les héros du roi Guschtasp ont déjà tué un grand nombre des plus illustres parmi nous, et maintenant vient Zerir, comme un loup furieux, comme un lion qui déchire tout, et il tue tous mes hommes, mes Turcs qui portent haut la tête, mes héros.
+> Les héros du roi Guschtasp ont déjà tué un grand nombre des plus illustres parmi nous, et maintenant vient Zerir, comme un loup furieux, comme un lion qui déchire tout, et il tue tous mes hommes, mes Turcs qui portent haut la tête, mes héros.
 >
 > Il faut penser à un moyen de salut, ou reprendre le chemin du pays des Turcs;
 >
@@ -64,6 +64,6 @@ Il répéta trois fois les mêmes paroles, et resta confondu de ne point recevoi
 
 A la fin, Bidirefsch, le colèreux, le vil, le chien, le magicien, le vieux loup, dit à Ardjasp:
 
-> Ô puissant soleil! toi qui, de la racine jusqu’à la cime, est l’image d’Afrasiab, je t’ai apporté ma vie, je te la donne, je la place devant toi.
+> Ô puissant soleil! toi qui, de la racine jusqu’à la cime, est l’image d’Afrasiab, je t’ai apporté ma vie, je te la donne, je la place devant toi.
 >
 > Je m’avancerai vers ce furieux éléphant ivre, et j’espère le vaincre et jeter sur la terre son corps, si le roi veut me donner le commandement de cette armée innombrable.

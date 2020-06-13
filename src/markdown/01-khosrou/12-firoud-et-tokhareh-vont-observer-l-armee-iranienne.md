@@ -47,11 +47,11 @@ Firoud dit à Tokhareh à la voix douce:
 
 > Ne me cache rien de ce que je te demanderai;
 >
-> Quand tu reconnaîtras un grand accompagné d’un drapeau, ou un héros qui porte une massue et des bottines d’or, dis-moi son nom, indique-moi tous ceux qui te sont connus parmi les Iraniens.
+> Quand tu reconnaîtras un grand accompagné d’un drapeau, ou un héros qui porte une massue et des bottines d’or, dis-moi son nom, indique-moi tous ceux qui te sont connus parmi les Iraniens.
 
 Ils choisirent une haute montagne d’où ils pouvaient voir l’armée.
 
-Il y avait tant de casques d’or, de boucliers, de massues et de ceintures d’or, que tu aurais dit qu’il ne restait plus d’or dans les mines, et qu’un nuage était venu et avait versé des pierres précieuses.
+Il y avait tant de casques d’or, de boucliers, de massues et de ceintures d’or, que tu aurais dit qu’il ne restait plus d’or dans les mines, et qu’un nuage était venu et avait versé des pierres précieuses.
 
 Le bruit des tambours qui montaient entre les deux montagnes était tel, que le cœur du vautour qui volait dans les airs en tremblait.
 
@@ -59,15 +59,15 @@ Il y avait trente mille hommes armés de boucliers et d’épées, qui s’avan�
 
 Tokhareh et Firoud restèrent stupéfaits à l’aspect d’une si grande armée et d’un tel appareil de guerre.
 
-Lorsque le Destour eut regardé l’armée, le prince lui adressa la parole, et le savant Tokhareh répondit:
+Lorsque le Destour eut regardé l’armée, le prince lui adressa la parole, et le savant Tokhareh répondit:
 
 > Je vais t’apprendre ce que tu ignores.
 >
-> Sache donc que ce drapeau à figure d’éléphant et ces cavaliers à l’épée bleue forment la suite du Sipehbed Thous, qui est acharné au combat quand la vengeance l’anime.
+> Sache donc que ce drapeau à figure d’éléphant et ces cavaliers à l’épée bleue forment la suite du Sipehbed Thous, qui est acharné au combat quand la vengeance l’anime.
 >
-> Derrière lui est un autre drapeau, orné d’une brillante figure de soleil; il appartient au frère de ton père, au noble et fortuné Sipehbed Feribourz fils de Kaous.
+> Derrière lui est un autre drapeau, orné d’une brillante figure de soleil; il appartient au frère de ton père, au noble et fortuné Sipehbed Feribourz fils de Kaous.
 >
-> Ensuite vient un grand drapeau à figure de lune et environné de nombreux et vaillants guerriers; c’est celui du jeune Kustehem fils de Guejdehem, devant lequel le lion tremble jusqu’à la moelle des os.
+> Ensuite vient un grand drapeau à figure de lune et environné de nombreux et vaillants guerriers; c’est celui du jeune Kustehem fils de Guejdehem, devant lequel le lion tremble jusqu’à la moelle des os.
 >
 > Tu vois plus loin un haut drapeau à figure d’onagre, qu’entoure une troupe guerrière, et sous lequel marche Zengueh fils de Schaweran, le plus brave des héros.
 >
@@ -83,9 +83,9 @@ Lorsque le Destour eut regardé l’armée, le prince lui adressa la parole, et
 >
 > Le drapeau qui porte une figure de lion brodée en or flotte au-dessus de la tête de Gouderz fils de Keschwad;
 >
-> Celui qui est orné de cette grande figure de léopard est le drapeau de Rivniz le puissant, le joyeux;
+> Celui qui est orné de cette grande figure de léopard est le drapeau de Rivniz le puissant, le joyeux;
 >
-> Celui qui porte une figure de gazelle appartient à Nestouh fils de Gouderz, qui est entouré de ses troupes;
+> Celui qui porte une figure de gazelle appartient à Nestouh fils de Gouderz, qui est entouré de ses troupes;
 >
 > Enfin celui qui représente un argali est la bannière de Bahram fils de Gouderz fils de Keschwad.
 >

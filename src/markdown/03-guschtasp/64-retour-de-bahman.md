@@ -36,7 +36,7 @@ Bahman, ayant entendu la réponse de Rustem, partit et chevaucha en toute hâte 
 
 Tehemten resta pendant quelque temps sur la route, ensuite il appela Zewareh et Faramourz et leur dit:
 
-> Allez auprès de Destan et auprès de Roudabeh, la lune du Zaboulistan, et dites-leur qu’Isfendiar est arrivé, qu’il est arrivé un homme qui ambitionne la possession du monde;
+> Allez auprès de Destan et auprès de Roudabeh, la lune du Zaboulistan, et dites-leur qu’Isfendiar est arrivé, qu’il est arrivé un homme qui ambitionne la possession du monde;
 >
 > Dites-leur qu’il faut placer dans la salle d’audience le trône d’or et le couvrir comme pour un roi;
 >
@@ -46,9 +46,9 @@ Tehemten resta pendant quelque temps sur la route, ensuite il appela Zewareh et 
 >
 > Je me rendrai auprès de lui, et s’il accepte le festin, nous tous pouvons espérer une fin heureuse de cette affaire.
 >
-> Si je trouve en lui de la bonté, je lui apporterai un diadème d’or et de rubis, je lui prodiguerai mes trésors de pierreries, de caparaçons, de massues et d’épées;
+> Si je trouve en lui de la bonté, je lui apporterai un diadème d’or et de rubis, je lui prodiguerai mes trésors de pierreries, de caparaçons, de massues et d’épées;
 >
-> Mais s’il me renvoie sans espoir de paix, s’il ne veut pas me laisser me justifier, tu sais que mon lacet roulé peut prendre dans son nœud la tête d’un éléphant furieux.
+> Mais s’il me renvoie sans espoir de paix, s’il ne veut pas me laisser me justifier, tu sais que mon lacet roulé peut prendre dans son nœud la tête d’un éléphant furieux.
 
 Zewareh lui dit:
 
@@ -56,17 +56,17 @@ Zewareh lui dit:
 >
 > Un homme de sens ne veut pas le mal, et Isfendiar n’a pas de fautes à nous reprocher.
 
-Zewareh partit pour aller trouver Zal, et Rustem, de son côté, se redressa et courut jusqu’au bord du Hirmend, sa tête s’exaltant par le pressentiment du danger.
+Zewareh partit pour aller trouver Zal, et Rustem, de son côté, se redressa et courut jusqu’au bord du Hirmend, sa tête s’exaltant par le pressentiment du danger.
 
-Il arrêta son cheval de ce côté du fleuve, et attendit que Bahman lui apportât les salutations d’Isfendiar.
+Il arrêta son cheval de ce côté du fleuve, et attendit que Bahman lui apportât les salutations d’Isfendiar.
 
 Bahman arriva dans l’enceinte des tentes de son père et se plaça devant lui;
 
-Le fortuné Isfendiar lui demanda quelle réponse il avait reçue du vaillant Pehlewan.
+Le fortuné Isfendiar lui demanda quelle réponse il avait reçue du vaillant Pehlewan.
 
-Bahman, à ces paroles, s’assit devant son père et lui raconta, du commencement jusqu’à la fin, tout ce qui avait été dit;
+Bahman, à ces paroles, s’assit devant son père et lui raconta, du commencement jusqu’à la fin, tout ce qui avait été dit;
 
-Il répéta d’abord les souhaits de Rustem, ensuite son message et la réponse qu’il envoyait, et rendit compte de tout ce qu’il avait vu et de ce qu’il avait observé en secret.
+Il répéta d’abord les souhaits de Rustem, ensuite son message et la réponse qu’il envoyait, et rendit compte de tout ce qu’il avait vu et de ce qu’il avait observé en secret.
 
 Il ajouta:
 
@@ -90,4 +90,4 @@ Ensuite il dit en secret à Beschouten:
 
 > Ce lion avide de combats et toujours prêt à livrer bataille se comporte comme un jeune homme;
 >
-> Et tu verras que les années ne lui ont pas donné une ride.
+> Et tu verras que les années ne lui ont pas donné une ride.

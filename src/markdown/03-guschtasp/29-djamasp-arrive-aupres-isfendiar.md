@@ -13,7 +13,7 @@ order: '29'
 
 Isfendiar se trouvait alors dans le désert, se livrant à la chasse; quelqu’un lui rapporta que le roi, disait-on, avait envoyé Djamasp vers lui.
 
-Quand Isfendiar entendit ce bruit, il en fut étonné, ému et sourit amèrement.
+Quand Isfendiar entendit ce bruit, il en fut étonné, ému et sourit amèrement.
 
 Il avait quatre fils excellents, tous avides de combats, tous armés de lances, dont l’un s’appelait Bahman, le second Mihri-Nousch, le troisième Ader-Afrouz, le héros prudent; enfin le quatrième portait le nom de Nousch-Ader: c’est lui qui établissait les temples du feu.
 
@@ -37,19 +37,19 @@ Son noble fils lui demanda:
 
 Le chef des princes lui dit:
 
-> Ô mon fils, je n’ai pas conscience d’avoir commis une faute envers mon père, si ce n’est d’avoir enseigné la vraie foi, d’avoir allumé partout dans le monde le feu sacré, d’avoir purifié la terre avec mon épée tranchante.
+> Ô mon fils, je n’ai pas conscience d’avoir commis une faute envers mon père, si ce n’est d’avoir enseigné la vraie foi, d’avoir allumé partout dans le monde le feu sacré, d’avoir purifié la terre avec mon épée tranchante.
 >
 > Comment le cœur du roi pourrait-il m’en vouloir?
 >
-> Mais il parait que le Div l’a trompé, pour qu’il ait cette folle envie de me jeter dans les fers.
+> Mais il parait que le Div l’a trompé, pour qu’il ait cette folle envie de me jeter dans les fers.
 
 Pendant que le prince se livrait à ces réflexions, on vit de loin la poussière que soulevait une troupe armée: c’était le flambeau du monde, le Destour du roi; lui et Isfendiar se reconnurent, descendirent de leurs chevaux bondissants, et le héros et le vieillard s’avancèrent tous les deux à pied.
 
-Le fortuné Isfendiar demanda à Djamasp comment se portait le roi, le vaillant maître.
+Le fortuné Isfendiar demanda à Djamasp comment se portait le roi, le vaillant maître.
 
 Le sage lui répondit:
 
-> Il est en bonne santé et content.
+> Il est en bonne santé et content.
 
 Il baisa la tête du prince, lui remit la lettre de son père et l’informa exactement de l’état des choses, et comment le Div avait perverti le roi.
 

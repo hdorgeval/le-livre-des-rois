@@ -70,7 +70,7 @@ Guschtasp lui dit:
 
 > La première est que je voie le lieu qui m’est destiné dans l’autre Monde;
 >
-> la seconde, que mon corps ne craigne rien de l’ennemi, qu’il soit à l’épreuve de ses armes; car je serai obligé de soutenir bien des combats, lorsque je ferai publier la Loi;
+> la seconde, que mon corps ne craigne rien de l’ennemi, qu’il soit à l’épreuve de ses armes; car je serai obligé de soutenir bien des combats, lorsque je ferai publier la Loi;
 >
 > la troisième, que je sache tout ce qui arrivera de bien & de mal dans le Monde, que je connaisse exactement l’état de l'Univers;
 >
@@ -78,11 +78,11 @@ Guschtasp lui dit:
 
 Zoroastre instruit de ce que Guschtasp désirait, lui dit:
 
-> Je demanderai ces quatre choses à celui qui vous à donné le bonheur dont vous jouissez: mais il faut que vous en choisissiez une pour vous, & les autres pour trois personnes distinguées de votre Cour;
+> Je demanderai ces quatre choses à celui qui vous à donné le bonheur dont vous jouissez: mais il faut que vous en choisissiez une pour vous, & les autres pour trois personnes distinguées de votre Cour;
 >
 > car Dieu ne les accordera pas à un seul homme, de peur qu'il ne dise: je suis le Tout-puissant.
 
-Guschtasp y consentit, & lui dit, qu'il désirait de voir le lieu de gloire qui lui était destiné dans le Ciel.
+Guschtasp y consentit, & lui dit, qu'il désirait de voir le lieu de gloire qui lui était destiné dans le Ciel.
 
 Zoroastre lui promit d’adresser pour cela sa prière à Ormuzd, & se retira dans son appartement.
 
@@ -128,7 +128,7 @@ Le Roi se levant dit à Zoroastre:
 
 Zoroastre lui répondit:
 
-> Ne vous inquiétez de rien; vous verrez ce que vous avez demandé.
+> Ne vous inquiétez de rien; vous verrez ce que vous avez demandé.
 
 Zoroastre célébra l'Office du Daroun, pour lequel il offrit du vin, des parfums, du lait & une grenade.
 
@@ -144,7 +144,7 @@ Ce jeune Prince le but, & devint immortel.
 
 Il donna les odeurs à Djamasp, Ministre de Guschtasp, qui reçut en même temps toutes les Sciences, & connut ce qui devait arriver jusqu'à la résurrection.
 
-Enfin il présenta plusieurs pépins de la grenade à Espendiar, qui les mangea; & fon corps devint comme une pierre & invulnérable: c'est pour cela qu'il a été́ appellé corps de cuivre (rouin tan).
+Enfin il présenta plusieurs pépins de la grenade à Espendiar, qui les mangea; & fon corps devint comme une pierre & invulnérable: c'est pour cela qu'il a été́ appellé corps de cuivre (rouin tan).
 
 Au bout de trois jours le Roi se réveilla & remercia Dieu, lui disant: Dieu des deux Mondes, jamais votre Empire ne finira.
 

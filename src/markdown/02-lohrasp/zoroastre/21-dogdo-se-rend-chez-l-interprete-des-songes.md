@@ -44,13 +44,13 @@ Dogdo passa trois nuits sans dormir.
 
 Dès que le jour parut, elle se rendit chez l'interprète des songes, qui éclata de joie en la voyant.
 
-Il avait son astrolabe tourné vers le Soleil: il y regarda encore ce qui devait arriver, prit ensuite une planche unie, une plume, observa les Astres: en une heure de temps il écrivit, effaça plusieurs fois ce qu'il avait écrit, & après avoir tout calculé exactement, il dit à la mère de Zoroastre:
+Il avait son astrolabe tourné vers le Soleil: il y regarda encore ce qui devait arriver, prit ensuite une planche unie, une plume, observa les Astres: en une heure de temps il écrivit, effaça plusieurs fois ce qu'il avait écrit, & après avoir tout calculé exactement, il dit à la mère de Zoroastre:
 
 > Je vois ce que nul homme n'a jamais vu.
 >
 > Vous êtes grosse de cinq mois, vingt-trois jours.
 >
-> Lorsque votre temps sera venu, l'enfant qui naitra de vous sera appellé le béni Zoroastre.
+> Lorsque votre temps sera venu, l'enfant qui naitra de vous sera appellé le béni Zoroastre.
 >
 > La Loi qu'il doit annoncer portera la joie dans le Monde.
 >
@@ -74,7 +74,7 @@ Le vieillard lui répondit:
 >
 > C'est ainsi qu’il est écrit dans les anciens Livres.
 
-Dogdo enivrée de joie comme de vin, & le cœur tressaillant comme les nuées remercia l’interprète et retourna dans sa maison, où elle raconta tout ce qui s'était passé, à Poroschasp son mari.
+Dogdo enivrée de joie comme de vin, & le cœur tressaillant comme les nuées remercia l’interprète et retourna dans sa maison, où elle raconta tout ce qui s'était passé, à Poroschasp son mari.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760
 [^2]: Dans l'Orient, lorsqu'un enfant vient au monde, l'Astronome examine sous l'aspect de quel Astre il nait. Selon les qualités de cet Astre, il pronostique quel sera le caractère de cet enfant, s'il sera heureux ou malheureux. Il écrit ensuite le résultat de ses calculs, & le donne aux parents. C'est ce que l'on appelle Le thème de la nativité.

@@ -33,7 +33,7 @@ order: '58'
 
 # Kitaboun donne des conseils à Isfendiar
 
-Quand Kitaboun sut ce qui s’était passé, elle se rendit auprès de son fils le cœur plein de colère, les yeux pleins de larmes, et dit au noble Isfendiar:
+Quand Kitaboun sut ce qui s’était passé, elle se rendit auprès de son fils le cœur plein de colère, les yeux pleins de larmes, et dit au noble Isfendiar:
 
 > Ô héritier des héros ! j’ai appris de Bahman que tu veux quitter le jardin de roses pour aller dans le Zaboulistan, et mettre dans les fers Rustem, le fils de Zal, le maître de l’épée et de la massue.
 >
@@ -41,7 +41,7 @@ Quand Kitaboun sut ce qui s’était passé, elle se rendit auprès de son fils
 >
 > Rustem est un cavalier puissant comme un éléphant, qui méprise dans le combat la force du courant du Nil, qui déchire les reins du Div blanc, et devant l’épée duquel le soleil se détourne de sa route;
 >
-> Il a tué le roi du Hamaveran, et personne n’a jamais osé lui parler rudement;
+> Il a tué le roi du Hamaveran, et personne n’a jamais osé lui parler rudement;
 >
 > En vengeant le meurtre de Siawusch par Afrasiab, il a rendu la terre comme une mer de sang.
 >
@@ -85,7 +85,7 @@ Des larmes de sang s’échappèrent des cils de sa mère; elle s’arracha les 
 >
 > Ne porte pas la vie devant cet éléphant furieux, en t’exposant sans défense à ses coups.
 >
-> Si tu es déterminé à partir, c’est tout ce que désire Ahriman le malveillant; mais au moins n’entraîne pas en enfer tes fils, car aucun homme de sens ne t’approuverait.
+> Si tu es déterminé à partir, c’est tout ce que désire Ahriman le malveillant; mais au moins n’entraîne pas en enfer tes fils, car aucun homme de sens ne t’approuverait.
 
 Le héros avide de combats répondit à sa mère:
 

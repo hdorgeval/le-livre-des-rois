@@ -30,13 +30,13 @@ order: '09'
 
 # Guschtasp refuse à Ardjasp le tribut de l'Iran
 
-Quelque temps s’étant ainsi passé, le maître âgé se présenta devant le roi.
+Quelque temps s’étant ainsi passé, le maître âgé se présenta devant le roi.
 
 Le vieux Zerdouscht [^1] dit au roi du monde:
 
 > Il n’est pas convenable pour notre religion que tu payes tribut au maître de la Chine, ce n’est pas digne de notre foi.
 >
-> Je ne puis y consentir; car nos rois, dans les temps anciens, n’ont jamais payé un tribut et des redevances aux Turcs, qui étaient un peuple sans religion, sans puissance et sans force.
+> Je ne puis y consentir; car nos rois, dans les temps anciens, n’ont jamais payé un tribut et des redevances aux Turcs, qui étaient un peuple sans religion, sans puissance et sans force.
 
 Guschtasp accueillit ce discours et répondit:
 
@@ -67,15 +67,15 @@ Ensuite il rassembla tous ses Mobeds et leur répéta tout ce qu’il avait appr
 >
 > Le chef des grands du peuple de l’Iran, le puissant fils du roi Lohrasp, que les Iraniens appellent Guschtasp, s’est ceint du koschti;
 >
-> Ensuite son frère, le vaillant cavalier, le Sipehdar de l’Iran, dont le nom est Zerir, qui parmi ses braves a toujours été́ comme un père et parmi ses scribes comme un œil, et tous les autres, ont examiné sa doctrine et ont eu peur de ce vieux magicien;
+> Ensuite son frère, le vaillant cavalier, le Sipehdar de l’Iran, dont le nom est Zerir, qui parmi ses braves a toujours été́ comme un père et parmi ses scribes comme un œil, et tous les autres, ont examiné sa doctrine et ont eu peur de ce vieux magicien;
 >
-> Ils ont tous adopté sa religion, et le monde s’est égaré dans sa voie et son culte.
+> Ils ont tous adopté sa religion, et le monde s’est égaré dans sa voie et son culte.
 >
 > C’est par de tels mensonges et de telles folies que le vieillard a réussi à s’établir dans l’Iran comme prophète.
 >
-> Il a ordonné au roi de planter de sa main un cyprès et a fermé la voie ancienne par la doctrine qu’il a apportée.
+> Il a ordonné au roi de planter de sa main un cyprès et a fermé la voie ancienne par la doctrine qu’il a apportée.
 >
-> Il a montré à ce roi orgueilleux un bassin rempli de feu et un livre, et lui a dit:
+> Il a montré à ce roi orgueilleux un bassin rempli de feu et un livre, et lui a dit:
 >
 > > Ceci est le Zendavesta, et c’est à ce feu que doivent s’adresser les prières.
 >

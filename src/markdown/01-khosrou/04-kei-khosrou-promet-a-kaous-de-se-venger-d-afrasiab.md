@@ -32,7 +32,7 @@ order: '04'
 
 Lorsque le soleil resplendissant eut amené l’aube du jour, et qu’il eut répandu ses rubis sur la terre sombre, Khosrou et Kaous, ces deux rois orgueilleux, dont les traces portaient bonheur, s’assirent avec Rustem et le Destan.
 
-Kaous parla de toutes choses, et d’abord d’Afrasiab, en inondant ses deux joues de larmes de sang; il raconta comment ce Turc avait traité Siawusch, comment il avait dévasté l’Iran, combien de Pehlewans il avait tués, et comment il avait réduit au désespoir les femmes et les enfants des braves.
+Kaous parla de toutes choses, et d’abord d’Afrasiab, en inondant ses deux joues de larmes de sang; il raconta comment ce Turc avait traité Siawusch, comment il avait dévasté l’Iran, combien de Pehlewans il avait tués, et comment il avait réduit au désespoir les femmes et les enfants des braves.
 
 Kaous dit à Keï Khosrou:
 
@@ -54,7 +54,7 @@ On consigna ce serment par écrit;
 
 On l’écrivit avec du musc, en langue Pehlewi, sur un rôle royal;
 
-Le Destan, Rustem et tous les chefs de l’armée l’attestèrent par le sceau; et ce document, contenant le serment, les sceaux et les attestations, fut confié à la garde de Rustem.
+Le Destan, Rustem et tous les chefs de l’armée l’attestèrent par le sceau; et ce document, contenant le serment, les sceaux et les attestations, fut confié à la garde de Rustem.
 
 Ensuite ils demandèrent des tables et du vin, et formèrent une assemblée joyeuse.
 
@@ -77,17 +77,17 @@ Il y demeura durant la nuit sombre et jusqu’à ce que le soleil parût, en so
 > Les rois tremblent devant lui; son trône et son diadème sont les fléaux du monde.
 > Tu sais que sa nature est méchante, que sa naissance est vile et que c’est un magicien.
 
-Après avoir touché plusieurs fois la terre avec son front et célébré les louanges du Créateur, il s’en retourna à son trône et dit aux Pehlewans qui portaient haut la tête:
+Après avoir touché plusieurs fois la terre avec son front et célébré les louanges du Créateur, il s’en retourna à son trône et dit aux Pehlewans qui portaient haut la tête:
 
 > Ô mes braves, qui êtes prêts à conquérir le monde et à frapper avec vos épées!
 >
-> J’ai traversé à cheval le pays d’Iran, d’ici jusqu’au temple d’Adergouschasp.
+> J’ai traversé à cheval le pays d’Iran, d’ici jusqu’au temple d’Adergouschasp.
 >
-> Je n’ai pas rencontré un seul homme heureux, un seul riche, un seul dont les terres fussent bien cultivées;
+> Je n’ai pas rencontré un seul homme heureux, un seul riche, un seul dont les terres fussent bien cultivées;
 >
-> Tous ont été frappés par Afrasiab; tous les cœurs sont gonflés de sang, tous les yeux inondés de larmes.
+> Tous ont été frappés par Afrasiab; tous les cœurs sont gonflés de sang, tous les yeux inondés de larmes.
 >
-> Il m’a blessé au cœur moi le premier, il a fait souffrir mon corps et mon âme.
+> Il m’a blessé au cœur moi le premier, il a fait souffrir mon corps et mon âme.
 >
 > Le noble roi mon grand-père ne cesse également de pousser des soupirs, et dans tout le pays d’Iran on entend les hommes et les femmes se lamenter sur les meurtres et les pillages, sur les guerres et les dévastations.
 >
@@ -97,11 +97,11 @@ Après avoir touché plusieurs fois la terre avec son front et célébré les l
 >
 > Je changerai l’état du monde, je couvrirai la plaine de montagnes de morts dans le combat des héros.
 >
-> C’est Afrasiab sur qui tombera tout le sang qui sera versé, et qui en sera responsable; et si quelqu’un des nôtres succombe, il ira demeurer dans le paradis sublime.
+> C’est Afrasiab sur qui tombera tout le sang qui sera versé, et qui en sera responsable; et si quelqu’un des nôtres succombe, il ira demeurer dans le paradis sublime.
 >
 > Que dites-vous?
 >
-> Que me répondez-vous?
+> Que me répondez-vous?
 >
 > Donnez-moi vos conseils qui portent bonheur.
 >

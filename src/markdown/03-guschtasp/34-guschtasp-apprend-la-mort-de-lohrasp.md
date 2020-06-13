@@ -34,15 +34,15 @@ order: '34'
 
 Or Guschtasp avait une femme pleine de sens, prudente, remplie de sagesse et d’une intelligence puissante; elle prit dans les écuries un coursier et le monta; elle s’habilla à la manière des Turcs, sortit du palais et prit la route du Séistan.
 
-Toute émue de ce qui s’était passé, elle ne se mit pas à dormir quand elle atteignit une station, mais parcourut dans un jour la distance de deux journées, et continua ainsi jusqu’à ce qu’elle fût arrivée près de Guschtasp, et pût lui donner des nouvelles de la perte de Lohrasp.
+Toute émue de ce qui s’était passé, elle ne se mit pas à dormir quand elle atteignit une station, mais parcourut dans un jour la distance de deux journées, et continua ainsi jusqu’à ce qu’elle fût arrivée près de Guschtasp, et pût lui donner des nouvelles de la perte de Lohrasp.
 
 Elle lui dit:
 
-> Pourquoi as-tu tardé si longtemps;
+> Pourquoi as-tu tardé si longtemps;
 >
-> Pourquoi as-tu quitté Balkh, la ville illustre?
+> Pourquoi as-tu quitté Balkh, la ville illustre?
 >
-> Il y est arrivé une armée du Touran, et le jour est devenu amer aux hommes de Balkh;
+> Il y est arrivé une armée du Touran, et le jour est devenu amer aux hommes de Balkh;
 >
 > Tout le pays est plein de pillage et de meurtres, et il faut que tu t’en ailles d’ici.
 
@@ -56,19 +56,19 @@ Guschtasp lui répondit:
 
 Elle répliqua:
 
-> Ne parle pas si follement, car il t’est arrivé une chose terrible.
+> Ne parle pas si follement, car il t’est arrivé une chose terrible.
 >
-> On a tué, devant Balkh, Lohrasp, le roi des rois, et nos jours en sont devenus sombres et pleins d’amertume.
+> On a tué, devant Balkh, Lohrasp, le roi des rois, et nos jours en sont devenus sombres et pleins d’amertume.
 >
-> Puis les Turcs sont entrés dans le temple Nousch-Ader et ont tranché la tête au vénérable Zerdouscht et à tous les prêtres, et le feu brillant s’est éteint dans ce sang.
+> Puis les Turcs sont entrés dans le temple Nousch-Ader et ont tranché la tête au vénérable Zerdouscht et à tous les prêtres, et le feu brillant s’est éteint dans ce sang.
 >
 > On ne doit pas faire si peu de cas de pareils méfaits!
 >
 > Ensuite on a emmené captives tes filles; ne compte pas pour peu un si grand malheur!
 >
-> Si ce n’eût été que la détresse de Homaï, le cœur d’un homme de sens en serait brisé!
+> Si ce n’eût été que la détresse de Homaï, le cœur d’un homme de sens en serait brisé!
 >
-> Et Beh-Aferid, ta fille, que le souffle de l’air n’avait jamais touchée, ils l’ont enlevée de son trône d’or, ils lui ont arraché sa couronne et ses bracelets!
+> Et Beh-Aferid, ta fille, que le souffle de l’air n’avait jamais touchée, ils l’ont enlevée de son trône d’or, ils lui ont arraché sa couronne et ses bracelets!
 
 Ces paroles remplirent de douleur Guschtasp, et des larmes de sang coulèrent de ses cils;
 
@@ -88,11 +88,11 @@ Lorsque la poussière que soulevaient les deux armées se fut confondue, que la 
 
 A l’aile droite des Iraniens se trouvait Ferschidwerd, le fils du roi, qui aimait à combattre les lions féroces; à l’aile gauche se tenait le vaillant Nestour, à qui le ciel qui tourne empruntait sa lumière; le roi Guschtasp était au centre et surveillait ses troupes sur tous les points.
 
-Du coté des Touraniens, Kender commandait l’aile droite, ayant derrière lui les fantassins et le bagage; à l’aile gauche se trouvait Kehrem, qui frappait de l’épée, et au centre Ardjasp, entouré de sa cour.
+Du coté des Touraniens, Kender commandait l’aile droite, ayant derrière lui les fantassins et le bagage; à l’aile gauche se trouvait Kehrem, qui frappait de l’épée, et au centre Ardjasp, entouré de sa cour.
 
 La voix des timbales se fit entendre des deux cotés, la terre était couverte de fer, le ciel était couleur d’ébène ; on aurait dit que la voûte du ciel s’envolerait, que la terre se briserait sous le poids des armées; les rochers cachaient leurs cimes, frappés de terreur par le hennissement des chevaux et les coups des haches d’armes;
 
-La plaine se couvrait de corps sans tête, couchés dans la poussière et brisés par les lourdes massues; les épées flamboyaient, les flèches pleuvaient, les héros poussaient des cris en donnant et en recevant des coups, les astres cherchaient à s’enfuir, les armées prodiguaient leur vie, les fers des lances et les massues se courbaient, le champ de bataille était jonché de morts gisant à terre.
+La plaine se couvrait de corps sans tête, couchés dans la poussière et brisés par les lourdes massues; les épées flamboyaient, les flèches pleuvaient, les héros poussaient des cris en donnant et en recevant des coups, les astres cherchaient à s’enfuir, les armées prodiguaient leur vie, les fers des lances et les massues se courbaient, le champ de bataille était jonché de morts gisant à terre.
 
 Bien des hommes étaient foulés aux pieds des chevaux, la gueule des lions était leur linceul, et le sang leur servait de cercueil;
 
@@ -102,8 +102,8 @@ C’est ainsi que tournait la voûte du ciel, et l’on se battit pendant trois 
 
 Le champ de bataille était dans un état tel que la face de la lune fut rougie par le sang qui jaillissait.
 
-Dans la mêlée, Ferschidwerd se jeta comme un lion sur Kehrem, qui frappait de l’épée; mais il fut tellement blessé que son âme sortit de son corps gracieux.
+Dans la mêlée, Ferschidwerd se jeta comme un lion sur Kehrem, qui frappait de l’épée; mais il fut tellement blessé que son âme sortit de son corps gracieux.
 
 Bien des Iraniens furent tués, et la terre fut couverte du sang des braves.
 
-Guschtasp avait trente-huit fils, vaillants dans la montagne et des héros dans la plaine: tous tombèrent sur ce champ de bataille, et le roi, que la fortune avait abandonné, se désespéra.
+Guschtasp avait trente-huit fils, vaillants dans la montagne et des héros dans la plaine: tous tombèrent sur ce champ de bataille, et le roi, que la fortune avait abandonné, se désespéra.

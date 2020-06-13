@@ -32,7 +32,7 @@ Il lui donna une poignée de pièces d’or; le receveur en fut content, se mit 
 
 C’était une ville dans le pays de Roum , dont l’étendue était de plus de trois farsangs; elle avait été construite par le puissant Selm, et était devenue le siège des vaillants Kaisars.
 
-Lorsque Guschtasp y entra, il y chercha pour gîte un endroit désert et erra pendant une semaine dans Roum, demandant du travail dans cette ville riche, car il avait dépensé et donné tout ce qu’il possédait, de sorte que son cœur plein de justice n’était pas satisfait.
+Lorsque Guschtasp y entra, il y chercha pour gîte un endroit désert et erra pendant une semaine dans Roum, demandant du travail dans cette ville riche, car il avait dépensé et donné tout ce qu’il possédait, de sorte que son cœur plein de justice n’était pas satisfait.
 
 En errant ainsi dans la ville il entra dans le palais et dans les bureaux du Kaisar, et dit au chef du divan :
 
@@ -64,7 +64,7 @@ Guschtasp lui répondit :
 
 Bessad lui répondit :
 
-> Ne parle pas ainsi, tu es un étranger et tu parais un homme distingué. Il y a là le désert et la mer, et les chevaux courent en liberté, comment pourrais-je confier un troupeau à un inconnu ?
+> Ne parle pas ainsi, tu es un étranger et tu parais un homme distingué. Il y a là le désert et la mer, et les chevaux courent en liberté, comment pourrais-je confier un troupeau à un inconnu ?
 
 Guschtasp l’écouta et partit soucieux; on aurait dit que la peau se fendait sur son corps; il se dit :
 
@@ -78,7 +78,7 @@ Quand cet homme de sens vit Guschtasp, il s’avança vers lui et lui assigna la
 
 Guschtasp lui adressa de nouveau la parole et lui dit:
 
-> Ô ami fortuné et à l’âme tranquille!
+> Ô ami fortuné et à l’âme tranquille!
 >
 > Confie-moi une caravane de chameaux et, s’il te plait, assigne-moi une paye.
 
@@ -88,13 +88,13 @@ Le chamelier lui répondit:
 
 Guschtasp le salua et le quitta, se dirigeant vers la ville, en grande détresse; ses soucis pesaient sur son esprit, et il se rendit au quartier des forgerons.
 
-Là il y avait un homme notable, nommé Bourab ,un bon et joyeux forgeron, qui ferrait les chevaux du roi, et que le Kaisar estimait hautement; il avait trente-cinq ouvriers et apprentis qui se fatiguaient avec le marteau et le fer.
+Là il y avait un homme notable, nommé Bourab ,un bon et joyeux forgeron, qui ferrait les chevaux du roi, et que le Kaisar estimait hautement; il avait trente-cinq ouvriers et apprentis qui se fatiguaient avec le marteau et le fer.
 
 Guschtasp resta longtemps assis dans son atelier, et à la fin l’artisan s’ennuya de le voir là et lui dit :
 
 > Ô homme bienveillant, que désires tu dans mon atelier?
 
-Guschtasp lui répondit:
+Guschtasp lui répondit:
 
 > Ô homme à la fortune propice, je n’ai point peur du marteau et d’un rude travail.
 >
@@ -106,7 +106,7 @@ On donna à Guschtasp un lourd marteau, et les forgerons formèrent un cercle a
 
 Il donna un coup de marteau et brisa l’enclume et la masse de fer, et tout le marché retentit d’exclamations.
 
-Bourab fut effrayé et lui dit :
+Bourab fut effrayé et lui dit :
 
 > Ô jeune homme , ni l’enclume, ni le marteau, ni le fer, ni la pierre, ni le soufflet ne résistent à tes coups!
 

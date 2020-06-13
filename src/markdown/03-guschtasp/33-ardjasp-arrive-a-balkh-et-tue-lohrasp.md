@@ -34,7 +34,7 @@ Ardjasp ordonna que Kehrem, toujours prêt à frapper de l’épée, parût deva
 
 Il lui dit :
 
-> Choisis dans l’armée des cavaliers, des héros dignes de combattre, et pars d’ici; marche en toute hâte jusqu’à Balkh, car c’est de là que nos jours ont été rendus amers.
+> Choisis dans l’armée des cavaliers, des héros dignes de combattre, et pars d’ici; marche en toute hâte jusqu’à Balkh, car c’est de là que nos jours ont été rendus amers.
 >
 > Coupe la tête à tous nos ennemis, à tous les adorateurs du feu, à tous les Ahrimans que tu rencontreras, brûle leurs maisons, convertis pour eux en nuit le jour brillant.
 >
@@ -42,7 +42,7 @@ Il lui dit :
 >
 > Si tu trouves Isfendiar enchainé par les pieds, mets fin à sa vie, tranche-lui la tête et remplis le monde de ta gloire par ce haut fait.
 >
-> Tout le pays d’Iran t’est livré, tu es l’épée, et l’ennemi est ton fourreau.
+> Tout le pays d’Iran t’est livré, tu es l’épée, et l’ennemi est ton fourreau.
 >
 > Sous peu je quitterai à mon tour Khallakh et marcherai par étapes et rapidement; je rassemblerai mon armée dispersée, et je dépenserai mes trésors amassés.
 
@@ -50,11 +50,11 @@ Kehrem lui répondit:
 
 > Je vais obéir; que ma vie réponde de l’accomplissement de tes ordres!
 
-Lorsque le soleil eut tiré son épée rayonnante et que la nuit sombre eut retiré devant lui le pan de sa robe, Kehrem entra avec ses troupes dans l’Iran, et la terre devint noire comme le visage d’un nègre.
+Lorsque le soleil eut tiré son épée rayonnante et que la nuit sombre eut retiré devant lui le pan de sa robe, Kehrem entra avec ses troupes dans l’Iran, et la terre devint noire comme le visage d’un nègre.
 
 Aussitôt qu’il eut envahi ce pays, Kehrem lâcha la main aux méchants et aux adorateurs des idoles; ils dépouillèrent leurs cœurs de toute vertu, ils ne s’appliquèrent qu’à dévaster et à tuer.
 
-Quand les Turcs furent arrivés près de Balkh, la bouche remplie de paroles amères, et quand Lohrasp eut nouvelle de Kehrem, il en fut affligé et le chagrin devint son compagnon.
+Quand les Turcs furent arrivés près de Balkh, la bouche remplie de paroles amères, et quand Lohrasp eut nouvelle de Kehrem, il en fut affligé et le chagrin devint son compagnon.
 
 Il dit à Dieu:
 
@@ -78,17 +78,17 @@ Kehrem dit aux Turcs:
 
 Alors s’éleva le bruit des haches d’armes qui brisaient les cuirasses et le tumulte des cavaliers avides de combats.
 
-Lohrasp, resté seul au milieu des ennemis, invoqua dans sa détresse le nom de Dieu; il se sentit accablé par le poids des années et l’ardeur du soleil, et sa fortune baissait.
+Lohrasp, resté seul au milieu des ennemis, invoqua dans sa détresse le nom de Dieu; il se sentit accablé par le poids des années et l’ardeur du soleil, et sa fortune baissait.
 
-Une flèche turque frappa le vieillard, et ce vaillant adorateur de Dieu fut renversé; sa tête couronnée, tomba dans la poussière, et une foule de cavaliers se rassembla autour de lui.
+Une flèche turque frappa le vieillard, et ce vaillant adorateur de Dieu fut renversé; sa tête couronnée, tomba dans la poussière, et une foule de cavaliers se rassembla autour de lui.
 
-Ils brisèrent son armure de Keïanide, ils taillèrent en pièces son corps avec leurs épées; tous avaient pensé que c’était un jeune guerrier; mais lorsqu’ils eurent ôté le casque de la tête du roi, ils virent ses cheveux blancs comme le camphre et son visage céleste noirci par le fer de son casque.
+Ils brisèrent son armure de Keïanide, ils taillèrent en pièces son corps avec leurs épées; tous avaient pensé que c’était un jeune guerrier; mais lorsqu’ils eurent ôté le casque de la tête du roi, ils virent ses cheveux blancs comme le camphre et son visage céleste noirci par le fer de son casque.
 
 Tous restèrent devant lui, confondus, disant :
 
-> Comme ce vieillard a manié son épée!
+> Comme ce vieillard a manié son épée!
 >
-> Si Isfendiar avait été ici, notre armée aurait péri dans cette plaine.
+> Si Isfendiar avait été ici, notre armée aurait péri dans cette plaine.
 >
 > Pourquoi sommes-nous venus en si petit nombre, car nous sommes venus comme un troupeau qui va au pâturage?
 
@@ -96,12 +96,12 @@ Kehrem répondit à ses compagnons:
 
 > C’était là ce que nous avions à faire, et le but de nos fatigues était ce combat, car ce prince était le roi Lohrasp, le père de Guschtasp, le maître de la terre;
 >
-> Il a été le maître, du monde, entouré de la majesté́ que Dieu accorde; >
+> Il a été le maître, du monde, entouré de la majesté́ que Dieu accorde; >
 >
-> Toute sa vie s’était passée dans les festins et sur les champs de bataille, mais dans sa vieillesse il s’était consacré à Dieu, et son cœur avait renoncé à la couronne et au trône. Maintenant que Guschtasp a perdu ce soutien, il tremblera pour son diadème impérial.
+> Toute sa vie s’était passée dans les festins et sur les champs de bataille, mais dans sa vieillesse il s’était consacré à Dieu, et son cœur avait renoncé à la couronne et au trône. Maintenant que Guschtasp a perdu ce soutien, il tremblera pour son diadème impérial.
 
-Les Turcs entrèrent dans Balkh, et le monde fut désolé par les dévastations et les meurtres qu’ils commirent; ils se dirigèrent vers le temple du feu, vers le palais et la salle dorée du roi, ils brulèrent tout le Zendavesta, ils consumèrent par le feu tout ce qu’il y avait de plus précieux.
+Les Turcs entrèrent dans Balkh, et le monde fut désolé par les dévastations et les meurtres qu’ils commirent; ils se dirigèrent vers le temple du feu, vers le palais et la salle dorée du roi, ils brulèrent tout le Zendavesta, ils consumèrent par le feu tout ce qu’il y avait de plus précieux.
 
-Il se trouvait dans le temple quatre-vingts prêtres, dont les langues ne cessaient de prononcer le nom de Dieu: ils les tuèrent tous devant le feu sacré, ils mirent fin à leur vie de dévotion, et leur sang éteignit le feu de Zerdouscht.
+Il se trouvait dans le temple quatre-vingts prêtres, dont les langues ne cessaient de prononcer le nom de Dieu: ils les tuèrent tous devant le feu sacré, ils mirent fin à leur vie de dévotion, et leur sang éteignit le feu de Zerdouscht.
 
-Je ne sais qui a tué ce prêtre lui-même.
+Je ne sais qui a tué ce prêtre lui-même.

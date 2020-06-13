@@ -61,11 +61,11 @@ Bientôt ces merveilles se répandirent.
 
 On sût que le feu n’avait eu aucun pouvoir sur Zoroastre.
 
-Alors les méchants & les Dews se déchainèrent contre lui.
+Alors les méchants & les Dews se déchainèrent contre lui.
 
 Les Magiciens, par l'ordre de leur Chef, le portèrent dans un chemin étroit, par où les bœufs avaient coutume de passer, comptant que ces animaux le fouleraient aux pieds, & le déchireraient: mais lorsque les troupeaux arrivèrent, un taureau plus fort & plus grand que les autres s'avança vers Zoroastre, comme une mère tendre, le tint entre ses jambes, frappant de la corne les bœufs qui s'en approchaient, & lorsqu'ils furent tous passés, le taureau laissa l’enfant et alla rejoindre son troupeau.
 
-Ce nouveau prodige fit du bruit & Dogdo, ayant appris où était son fils, le rapporta dans sa maison.
+Ce nouveau prodige fit du bruit & Dogdo, ayant appris où était son fils, le rapporta dans sa maison.
 
 Lorsque Douranseroun sût que les bœufs n’avaient pas même rompu un des cheveux de Zoroastre, il ordonna à ses gens de le mettre dans l'endroit le plus étroit du chemin par lequel passaient ordinairement les chevaux.
 
@@ -79,7 +79,7 @@ Vous eussiez dit que cet animal le garantissait du Soleil.
 
 Dogdo, avertie du danger que courait son fils, alla le chercher, & le rapporta encore chez elle, conservant jour & nuit dans son cœur ce qui se passait, comment des milliers de Dews ne pouvaient rien contre celui que Dieu protégeait.
 
-Douranseroun, informé de ce nouveau prodige, vit bien que Dieu prenait soin de Zoroastre.
+Douranseroun, informé de ce nouveau prodige, vit bien que Dieu prenait soin de Zoroastre.
 
 Il tenta cependant une nouvelle voie: il ordonna à ses gens de chercher l’endroit où les loups gardaient leurs petits, de tuer ces petits, & de mettre Zoroastre au milieu d'eux; afin que les loups dévorants, descendant affamés des montagnes, le missent en pièces.
 
@@ -97,9 +97,9 @@ La Puissance divine fit trouver dans le même lieu le loup & la brebis.
 
 Elles l’allaitèrent ainsi jusqu’au lever du Soleil.
 
-Cependant Dogdo, saisie de douleur, ignorait où était son fils, & remplissait les déserts de ses cris. Elle aperçut ce loup au haut de la montagne, & courut à lui, sans savoir ce qu'elle faisait, croyant qu'il avait dévoré Zoroastre: mais elle le trouva plein de vie, & le remporta chez elle, admirant ce qu'elle avait vu, le loup & l’agneau près de Zoroastre.
+Cependant Dogdo, saisie de douleur, ignorait où était son fils, & remplissait les déserts de ses cris. Elle aperçut ce loup au haut de la montagne, & courut à lui, sans savoir ce qu'elle faisait, croyant qu'il avait dévoré Zoroastre: mais elle le trouva plein de vie, & le remporta chez elle, admirant ce qu'elle avait vu, le loup & l’agneau près de Zoroastre.
 
-Parmi les Magiciens était un homme célèbre par ses enchantements, nommé Tourberatorsch.
+Parmi les Magiciens était un homme célèbre par ses enchantements, nommé Tourberatorsch.
 
 Ce Magicien voyant ses compagnons découragés, leur dit:
 
@@ -141,13 +141,13 @@ Dieu le rendit supérieur à tous les enchantements; ce qui désespéra les Mag
 
 Quelque temps après Zoroastre eut une maladie, qui inquiéta beaucoup ses amis.
 
-Les Magiciens en furent informés; & Tourberatorsch leur Chef prépara une médecine, dans laquelle il fit entrer toutes sortes de drogues pures & impures.
+Les Magiciens en furent informés; & Tourberatorsch leur Chef prépara une médecine, dans laquelle il fit entrer toutes sortes de drogues pures & impures.
 
 Il la porta à Zoroastre, ce Roi de la justice, comptant par-là le faire mourir.
 
 Il lui dit:
 
-> Prenez ce remède, si vous voulez recouvrer la santé.
+> Prenez ce remède, si vous voulez recouvrer la santé.
 
 Zoroastre reconnut aussitôt que c'était un enchantement, défendu au peuple d'Ormuzd.
 
@@ -163,7 +163,7 @@ Il le prit des mains de cet impie, & le jetta à terre, en lui disant:
 
 La Terre était alors couverte de Magiciens; & la plupart des hommes oubliant le Créateur du Monde, ne consultaient que les Dews.
 
-Poroschasp, serviteur d'Ormuzd, s'était laissé entraîner au torrent, & alliait le culte de Dieu avec le respect pour les Ministres des Dews.
+Poroschasp, serviteur d'Ormuzd, s'était laissé entraîner au torrent, & alliait le culte de Dieu avec le respect pour les Ministres des Dews.
 
 Un jour il rassembla dans sa maison une troupe des plus habiles Magiciens, tels qu'étaient Tourberatorsch & Douranseroun, & leur donna un grand repas.
 
@@ -195,7 +195,7 @@ Tourberatorsch lui répondit:
 >
 > Jamais sur la terre personne n’a parlé de moi de la sorte.
 >
-> Hé bien, je vais vous déshonorer partout.
+> Hé bien, je vais vous déshonorer partout.
 >
 > Je décrierai vos œuvres, & votre cœur ne sera jamais dans la joie.
 

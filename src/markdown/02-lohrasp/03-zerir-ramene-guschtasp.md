@@ -29,7 +29,7 @@ order: '03'
 
 Cependant Guschtasp continuait sa route les yeux en larmes, le cœur rempli de haine, de colère et de passion; il marcha jusqu’à ce qu’il fut près de Kaboul.
 
-Il vit des arbres chargés de roses, une prairie et de l’eau, et lui et les siens s’arrêtèrent dans ce lieu agréable et s’y reposèrent un jour.
+Il vit des arbres chargés de roses, une prairie et de l’eau, et lui et les siens s’arrêtèrent dans ce lieu agréable et s’y reposèrent un jour.
 
 Toute la montagne lui offrait le plaisir de la chasse, et dans le ruisseau coulait une eau délicieuse comme du vin ou du lait. Dans la nuit sombre, il demanda du vin à son échanson, et l’on porta des flambeaux sur le bord du ruisseau.
 
@@ -39,7 +39,7 @@ Pendant ce temps Zerir avait lancé son cheval sur les traces de Guschtasp, et n
 
 Lorsqu’on entendit un bruit de chevaux sur la route, les héros qui accompagnaient Guschtasp sortirent de leur campement; Guschtasp écouta attentivement et dit aux grands:
 
-> Ceci ne peut être que le hennissement du cheval de Zerir, qui a la voix d’un lion, et si c’est Zerir qui vient, il n’arrive pas seul, mais il est accompagné d’une armée avide de combats.
+> Ceci ne peut être que le hennissement du cheval de Zerir, qui a la voix d’un lion, et si c’est Zerir qui vient, il n’arrive pas seul, mais il est accompagné d’une armée avide de combats.
 
 Dans ce moment apparurent sur la route une poussière violette et un drapeau à figure d’éléphant, et l’on vit le Sipehbed Zerir courant devant ses troupes avec la rapidité́ du vent.
 
@@ -89,7 +89,7 @@ Guschtasp répondit :
 
 > Ô roi, je me tiens devant ta porte comme «un serviteur, et quand même tu diminuerais mes honneurs, je t’obéirai, et ma vie sera le gage de ma fidélité.
 
-Les grands partirent avec lui en marchant pompeusement et en caracolant jusqu’au palais du roi, qui fit parer la salle d’audience incrustée de pierreries, placer des tables et apporter du vin bon pour la santé.
+Les grands partirent avec lui en marchant pompeusement et en caracolant jusqu’au palais du roi, qui fit parer la salle d’audience incrustée de pierreries, placer des tables et apporter du vin bon pour la santé.
 
 On célébra un banquet tel que les étoiles du cercle de la lune pleuvaient sur la salle, et les grands furent ivres à ce point que chacun plaçait sur sa tête une couronne de roses. Lohrasp montra beaucoup de faveur à la famille de Kaous et ne cessa de parler de Keï Khosrou.
 

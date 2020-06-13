@@ -26,8 +26,8 @@ Les vertus sont ce que tu acquiers dans le commerce des hommes; elles te coûten
 
 Ces trois choses constituent l’homme noble, qui seul est digne des grâces de Dieu.
 
-Quand tu les possèdes toutes les trois, il te faut encore du sens, il faut que tu connaisses le bien et le mal; et quand ces quatre qualités sont réunies dans un homme, il peut braver toute douleur, toute fatigue et tout souci, excepté la mort; car il n’y a pas de remède contre elle, et elle est le plus poignant des maux.
+Quand tu les possèdes toutes les trois, il te faut encore du sens, il faut que tu connaisses le bien et le mal; et quand ces quatre qualités sont réunies dans un homme, il peut braver toute douleur, toute fatigue et tout souci, excepté la mort; car il n’y a pas de remède contre elle, et elle est le plus poignant des maux.
 
-Or Keï Khosrou possédait ces quatre qualités, et c’est le sort qui l’avait ainsi formé et envoyé sur la terre.
+Or Keï Khosrou possédait ces quatre qualités, et c’est le sort qui l’avait ainsi formé et envoyé sur la terre.
 
 [^1]: C'est Firdousi lui-même qui parle ici.

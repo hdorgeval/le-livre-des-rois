@@ -42,9 +42,9 @@ Isfendiar lui dit:
 
 Kergsar lui répondit à haute voix:
 
-> Ô illustre et fortuné Isfendiar! il n’y aurait rien d’étonnant à ce que tu t’en retournasses maintenant; il faut que tu prennes la mesure de ta fortune.
+> Ô illustre et fortuné Isfendiar! il n’y aurait rien d’étonnant à ce que tu t’en retournasses maintenant; il faut que tu prennes la mesure de ta fortune.
 >
-> Dieu t’a été en aide jusqu’ici, ô favori de la fortune, et cet arbre royal a porté fruit; mais demain t’attend un danger en comparaison duquel un homme vaillant tiendrait pour rien un jour de bataille.
+> Dieu t’a été en aide jusqu’ici, ô favori de la fortune, et cet arbre royal a porté fruit; mais demain t’attend un danger en comparaison duquel un homme vaillant tiendrait pour rien un jour de bataille.
 >
 > Tu n’y penseras ni à ta massue, ni à ton arc, ni à ton épée; tu n’y trouveras ni porte pour le combat, ni voie pour la fuite.
 >
@@ -54,13 +54,13 @@ Kergsar lui répondit à haute voix:
 >
 > Tu réfléchiras donc et prendras une autre route; car il est certain pour moi que l’orage fera tomber tes hommes comme des fruits qui tombent de l’arbre.
 >
-> Ensuite, quand tu seras arrivé dans la plaine, tu auras devant toi une marche de trente farsangs à travers des sables brûlants, de la poussière et des terres stériles, sur lesquels ni les fourmis, ni les serpents, ni les sauterelles ne passent: tu n’y trouveras nulle part une goutte d’eau, et le sol y bouillonne sous l’ardeur du soleil; aucun cheval ne peut passer, sur cette terre, aucun aigle aux ailes rapides ne peut traverser ce ciel; dans ce sol stérile et ces sables ne pousse aucune herbe, et la terre n’y est qu’un sable mouvant comme la poudre de tutie.
+> Ensuite, quand tu seras arrivé dans la plaine, tu auras devant toi une marche de trente farsangs à travers des sables brûlants, de la poussière et des terres stériles, sur lesquels ni les fourmis, ni les serpents, ni les sauterelles ne passent: tu n’y trouveras nulle part une goutte d’eau, et le sol y bouillonne sous l’ardeur du soleil; aucun cheval ne peut passer, sur cette terre, aucun aigle aux ailes rapides ne peut traverser ce ciel; dans ce sol stérile et ces sables ne pousse aucune herbe, et la terre n’y est qu’un sable mouvant comme la poudre de tutie.
 >
 > Tu auras à parcourir de cette manière quarante farsangs, sans pouvoir porter de bagages sur des chevaux, et avec une armée découragée.
 >
 > De là ton armée arrivera devant le château d’airain, et tu n’y trouveras pas la moindre ombre; c’est une terre dépourvue de tout, et un château dont les créneaux conversent en secret avec le soleil.
 >
-> Hors des murs aucun animal ne trouvera de la nourriture, et pas un cavalier de l’armée n’y arrivera monté.
+> Hors des murs aucun animal ne trouvera de la nourriture, et pas un cavalier de l’armée n’y arrivera monté.
 >
 > Si cent mille braves, accoutumés à frapper avec leurs épées, venaient de l’Iran et du Touran, restaient cent ans campés autour du château et y faisaient pleuvoir des flèches, ce serait en vain; leur nombre, petit ou grand, serait indifférent, car l’ennemi ne peut pas faire à ce château plus de mal que l’anneau de la porte.
 
@@ -68,9 +68,9 @@ Les Iraniens, à cette annonce de malheur, furent remplis d’inquiétude; ils 
 
 > Ô noble roi, ne t’approche pas inutilement du danger; si Kergsar a dit vrai, et cela sera bientôt apparent, nous ne serions venus ici que pour périr, et non pas pour châtier les Turcs.
 >
-> Tu as traversé cette route difficile, tu as soutenu les attaques des bêtes féroces; aucun des hommes les plus illustres et des rois les plus vaillants ne peut se vanter d’avoir supporté des fatigues connue celles que tu as trouvées dans ces sept stations.
+> Tu as traversé cette route difficile, tu as soutenu les attaques des bêtes féroces; aucun des hommes les plus illustres et des rois les plus vaillants ne peut se vanter d’avoir supporté des fatigues connue celles que tu as trouvées dans ces sept stations.
 >
-> Rends-en grâce à Dieu, et quand tu seras revenu victorieux de cette route, présente-toi, heureux et le cœur en joie, devant ton père.
+> Rends-en grâce à Dieu, et quand tu seras revenu victorieux de cette route, présente-toi, heureux et le cœur en joie, devant ton père.
 >
 > Quand tu recommenceras la guerre, par un autre chemin, tout le pays de Touran se soumettra à toi.
 >
@@ -84,7 +84,7 @@ A ces paroles, le visage heureux d’Isfendiar s’assombrit, et il dit aux hér
 >
 > Où sont donc tous les présents du roi et tous ses conseils?
 >
-> Où sont les ceintures d’or et les diadèmes d’or, où sont toutes vos promesses ,vos serments et ce que vous avez juré par Dieu et par les astres qui donnent la fortune, pour que vos pieds soient fatigués et que vos résolutions se soient évanouies sur la route?
+> Où sont les ceintures d’or et les diadèmes d’or, où sont toutes vos promesses ,vos serments et ce que vous avez juré par Dieu et par les astres qui donnent la fortune, pour que vos pieds soient fatigués et que vos résolutions se soient évanouies sur la route?
 >
 > Retournez-vous-en donc heureux et victorieux;
 >
@@ -94,13 +94,13 @@ A ces paroles, le visage heureux d’Isfendiar s’assombrit, et il dit aux hér
 >
 > Le Maître victorieux du monde est mon soutien, et je porte dans mon sein mon étoile.
 >
-> Je jure par ma bravoure qu’aucun de vous ne m’accompagnera, et, que je tue ou que je sois tué, je montrerai à l’ennemi ce que peuvent la valeur victorieuse et la force des mains; et vous aurez sans doute des nouvelles de ma gloire royale, et de ce que j’aurai fait de ce château avec mes mains et ma force, et au nom du Maître de Saturne et du Soleil.
+> Je jure par ma bravoure qu’aucun de vous ne m’accompagnera, et, que je tue ou que je sois tué, je montrerai à l’ennemi ce que peuvent la valeur victorieuse et la force des mains; et vous aurez sans doute des nouvelles de ma gloire royale, et de ce que j’aurai fait de ce château avec mes mains et ma force, et au nom du Maître de Saturne et du Soleil.
 
 Quand les Iraniens jetèrent les yeux sur lui, ils virent son visage plein de colère; ils s’avancèrent vers le roi pour s’excuser, disant:
 
 > Puisse-t-il plaire au roi de pardonner cette faute!
 >
-> Que nos corps et nos âmes soient ta rançon, tel a été de tout temps notre engagement envers toi;
+> Que nos corps et nos âmes soient ta rançon, tel a été de tout temps notre engagement envers toi;
 >
 > nous sommes inquiets de la vie du roi, mais nous ne sommes pas découragés des luttes et des batailles.
 >
@@ -112,15 +112,15 @@ Le Sipehbed les écouta, et cessa de leur adresser des paroles irritées; il les
 
 Il continua à se consulter avec les grands, jusqu’à ce que l’air se refroidit et qu’il vînt de la montagne un vent léger; alors la voix des trompettes se fit entendre sous la porte du camp royal, et l’on mit en route les troupes, qui marchèrent rapidement comme le feu, en invoquant le nom du Créateur.
 
-Lorsque l’aurore eut paru au-dessus des montagnes, que la nuit eut enveloppé sa tête dans son voile froid, et caché sa face devant-le soleil brillant qui la suivait, cette troupe nombreuse, armée de massues et de javelots, arriva à la station.
+Lorsque l’aurore eut paru au-dessus des montagnes, que la nuit eut enveloppé sa tête dans son voile froid, et caché sa face devant-le soleil brillant qui la suivait, cette troupe nombreuse, armée de massues et de javelots, arriva à la station.
 
 C’était une belle journée de printemps, qui réjouissait le cœur et parait la terre; le Keïanide ordonna de dresser les tentes et leurs enceintes, il fit couvrir de mets une table et apporter du vin.
 
-Dans ce moment vint de la montagne un vent si violent que le cœur du prince illustre en fut effrayé.
+Dans ce moment vint de la montagne un vent si violent que le cœur du prince illustre en fut effrayé.
 
 Le monde entier devint noir comme l’aile du corbeau, et l’on ne distinguait plus la plaine des vallées; la montagne était obscurcie par la neige, et la terre en fut couverte; un vent terrible souffla, et passa sur la plaine, pendant trois jours et trois nuits, avec une violence extrême.
 
-Les tentes et leurs enceintes étaient pénétrées d’humidité, et le froid ne laissait de forces à personne.
+Les tentes et leurs enceintes étaient pénétrées d’humidité, et le froid ne laissait de forces à personne.
 
 L’air était comme la chaîne et la neige comme la trame, et le Sipehdar ne savait plus que faire.
 
@@ -128,9 +128,9 @@ Il dit à haute voix à Beschouten:
 
 > Notre position devient inquiétante.
 >
-> Je me suis bravement présenté devant l’haleine du dragon, mais ici la force d’un héros ne sert à rien.
+> Je me suis bravement présenté devant l’haleine du dragon, mais ici la force d’un héros ne sert à rien.
 >
-> Priez tous Dieu, adressez-vous à lui, célébrez sa gloire, peut-être détournera-t-il de nous ces maux; sinon aucun de nous ne foulera plus la terre.
+> Priez tous Dieu, adressez-vous à lui, célébrez sa gloire, peut-être détournera-t-il de nous ces maux; sinon aucun de nous ne foulera plus la terre.
 
 Beschouten se présenta devant Dieu, le guide dans le bonheur et dans le malheur; toute l’armée leva des mains suppliantes et fit des prières infinies.
 
@@ -138,7 +138,7 @@ Sur-le-champ un vent doux se leva et chassa les nuages, et l’air redevint sere
 
 Les Iraniens reprirent courage et rendirent grâce à Dieu.
 
-Les héros restèrent encore trois jours dans ce lieu; mais le quatrième, lorsque le soleil qui illumine le monde parut, le Sipehbed convoqua les grands et leur fit beaucoup de discours sages, disant:
+Les héros restèrent encore trois jours dans ce lieu; mais le quatrième, lorsque le soleil qui illumine le monde parut, le Sipehbed convoqua les grands et leur fit beaucoup de discours sages, disant:
 
 > Laissez ici vos bagages, n’emportez que vos armes de combat.
 >
@@ -148,7 +148,7 @@ Les héros restèrent encore trois jours dans ce lieu; mais le quatrième, lors
 >
 > Vous tous deviendrez riches dans ce château, vous aurez tous des trésors et des diadèmes.
 
-Lorsque le soleil eut placé le voile pâle du soir sur sa tête, et que le couchant fut devenu rouge comme la fleur du fenugrec, tous les héros firent leurs bagages et partirent avec le roi du peuple.
+Lorsque le soleil eut placé le voile pâle du soir sur sa tête, et que le couchant fut devenu rouge comme la fleur du fenugrec, tous les héros firent leurs bagages et partirent avec le roi du peuple.
 
 Quand une partie de la nuit fut passée, on entendit dans les airs la voix d’une grue; Isfendiar fut saisi d’étonnement à ce bruit, et envoya dire à Kergsar:
 

@@ -25,7 +25,7 @@ order: '17'
 
 # Commencement de la bataille entre les iraniens et les touraniens
 
-Lorsque la nuit fut passée, que le jour eut paru et que le soleil qui éclaire le monde eut commencé à briller, les deux armées montèrent à cheval pendant que le roi Guschtasp les observait du haut de la montagne.
+Lorsque la nuit fut passée, que le jour eut paru et que le soleil qui éclaire le monde eut commencé à briller, les deux armées montèrent à cheval pendant que le roi Guschtasp les observait du haut de la montagne.
 
 Le glorieux roi, voyant d’en haut que les guerriers se mettaient en selle, fit amener Behzad, son cheval noir: tu aurais dit que c’était le mont Bisutoun.
 
@@ -41,7 +41,7 @@ La masse des cavaliers armés de massues et portant des lances qui se jetaient l
 
 Le premier qui s’avança fut un cavalier plein de dignité, Ardeschir, le fils du roi du monde; il entra sur le champ de bataille comme un éléphant ivre ; tu aurais pu croire que c’était le Sipehbed Thous.
 
-C’est ainsi qu’il courut de côté et d’autre au milieu des armées, sans se douter du sort que la lune et le soleil lui préparaient; mais une flèche le frappa au milieu du corps et traversa sa lourde armure; le prince tomba de son cheval, et son corps royal fut couvert de sang et de poussière.
+C’est ainsi qu’il courut de côté et d’autre au milieu des armées, sans se douter du sort que la lune et le soleil lui préparaient; mais une flèche le frappa au milieu du corps et traversa sa lourde armure; le prince tomba de son cheval, et son corps royal fut couvert de sang et de poussière.
 
 Hélas! ce héros au beau visage, resplendissant comme la lune, le roi sage ne devait pas le revoir!
 
@@ -49,7 +49,7 @@ Après lui s’avança Ormuzd, l’homme au cœur de lion, dont les joues brilla
 
 Il s’avança tenant en main une épée trempée avec du poison; il poussa des rugissements comme un lion qui va abattre un onagre, et tua mille cavaliers ennemis pour venger le héros fils du roi.
 
-Mais, au moment où il voulait quitter le combat après avoir coloré de sang la face de la terre, une flèche perça sa cotte de mailles, et ce roi, fils de roi, succomba.
+Mais, au moment où il voulait quitter le combat après avoir coloré de sang la face de la terre, une flèche perça sa cotte de mailles, et ce roi, fils de roi, succomba.
 
 Hélas! ce noble homme de guerre mourut sans que son père l’eût revu!
 
@@ -63,7 +63,7 @@ Il s’écria:
 
 Un Div sortit des rangs, disant:
 
-> C’est moi, et je suis celui qui saisit des dents un lion affamé.
+> C’est moi, et je suis celui qui saisit des dents un lion affamé.
 
 Ils s’escrimèrent avec leurs lances rapidement comme le vent, et le fils du roi frappa le Turc de sa lance, l’enleva de la selle, lui coupa la tête et jeta par terre le corps de cet homme qui portait une ceinture d’or.
 
@@ -71,4 +71,4 @@ Ensuite il s’avança vers le front des héros de la Chine; assis sur son cheva
 
 Mais un Turc lança contre lui une flèche, et ce roi, fils de roi, périt.
 
-Hélas! ce prince élevé délicatement, son père ne revit jamais son visage!
+Hélas! ce prince élevé délicatement, son père ne revit jamais son visage!

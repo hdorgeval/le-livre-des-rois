@@ -23,11 +23,11 @@ order: '14'
 
 # Guschtasp rassemble son armée
 
-Lorsque le roi Guschtasp entendit que le roi des Turcs et de la Chine se préparait, lui et son armée, avait quitté le lieu de sa résidence et envoyé au-devant de lui le féroce Khaschasch;
+Lorsque le roi Guschtasp entendit que le roi des Turcs et de la Chine se préparait, lui et son armée, avait quitté le lieu de sa résidence et envoyé au-devant de lui le féroce Khaschasch;
 
 lorsqu’il sut qu’Ardjasp était parti avec une armée pour dévaster tout le pays d’Iran, il ordonna à son Sipehbed d’équiper dès le lendemain matin tous les éléphants et toutes les troupes, et écrivit une lettre aux commandants de ses frontières, disant:
 
-> Le Khakan a quitté la voie des hommes de bien;
+> Le Khakan a quitté la voie des hommes de bien;
 >
 > amenez vos troupes à ma cour, car mon ennemi est sorti des limites de son pays.
 
@@ -37,11 +37,11 @@ Les héros du monde entier s’armèrent pour le maître de la terre, le chef de
 
 Tous les commandants des frontières se dirigèrent, sur son ordre, vers sa cour royale, et il ne se passa pas beaucoup de temps avant que mille fois mille hommes fussent arrivés et fussent campés auprès du roi, du héros illustre, du maître bienveillant pour tous.
 
-Le roi fortuné se rendit au camp, inspecta l’armée et choisit ceux qui étaient propres au combat; il était heureux de ce qu’il voyait, et son esprit était confondu d’un si grand concours.
+Le roi fortuné se rendit au camp, inspecta l’armée et choisit ceux qui étaient propres au combat; il était heureux de ce qu’il voyait, et son esprit était confondu d’un si grand concours.
 
-Le lendemain Guschtasp, accompagné des Mobeds, des nobles, des grands et des Sipehbeds, ouvrit les portes de ce trésor que Djemschid avait rempli, et paya à l’armée la solde pour deux ans.
+Le lendemain Guschtasp, accompagné des Mobeds, des nobles, des grands et des Sipehbeds, ouvrit les portes de ce trésor que Djemschid avait rempli, et paya à l’armée la solde pour deux ans.
 
-Ayant distribué la solde et donné des cuirasses, il fit sonner les trompettes, battre les cymbales et faire les bagages.
+Ayant distribué la solde et donné des cuirasses, il fit sonner les trompettes, battre les cymbales et faire les bagages.
 
 Il ordonna de porter devant l’armée le drapeau impérial du bienheureux roi Djemschid, et conduisit ses troupes à la guerre contre Ardjasp, des troupes telles que personne n’en avait jamais vu de pareilles.
 

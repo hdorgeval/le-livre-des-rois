@@ -34,7 +34,7 @@ order: '62'
 
 Le jeune homme se trouva devant une montagne, sur laquelle il poussa son cheval de guerre; d’en haut il avait la vue sur le lieu de la chasse, et il aperçut le Pehlewan de l’armée, un homme semblable au mont Bisoutoun;
 
-Il tenait dans une main un tronc d’arbre sur lequel était embroché un onagre;
+Il tenait dans une main un tronc d’arbre sur lequel était embroché un onagre;
 
 Une massue et des harnais de cheval étaient placés à ses cotés;
 
@@ -64,13 +64,13 @@ Rustem sourit, il ne lâcha pas l’onagre, à la grande frayeur de Zewareh, et
 
 Alors il la frappa du talon de sa botte et la rejeta au loin: Zewareh et Faramourz le couvrirent de leurs bénédictions.
 
-Bahman fut consterné de cet exploit qui lui avait fait voir la force et le grand air de cet homme; il se dit:
+Bahman fut consterné de cet exploit qui lui avait fait voir la force et le grand air de cet homme; il se dit:
 
-> Si le fortuné Isfendiar engage une lutte contre ce héros illustre, il recevra un affront, et il vaut mieux qu’il use de courtoisie envers lui; car si Rustem était vainqueur de mon père, il s’emparerait de tout l’Iran.
+> Si le fortuné Isfendiar engage une lutte contre ce héros illustre, il recevra un affront, et il vaut mieux qu’il use de courtoisie envers lui; car si Rustem était vainqueur de mon père, il s’emparerait de tout l’Iran.
 
 Il remonta sur son destrier aux pieds de vent, et descendit de la montagne tout soucieux; il raconta à ses Mobeds la merveille qu’il avait vue, et reprit lentement son chemin.
 
-Quand il fut arrivé près du lieu de la chasse, Rustem l’aperçut sur la route et dit à son Mobed:
+Quand il fut arrivé près du lieu de la chasse, Rustem l’aperçut sur la route et dit à son Mobed:
 
 > Quel est cet homme?
 >
@@ -90,21 +90,21 @@ Il répondit:
 
 Le Pehlewan le serra aussitôt contre sa poitrine et lui demanda pardon de s’être fait. attendre.
 
-Tous les deux se rendirent à l’endroit où Rustem avait campé, et les nobles serviteurs du prince les suivirent.
+Tous les deux se rendirent à l’endroit où Rustem avait campé, et les nobles serviteurs du prince les suivirent.
 
-Bahman s’assit et rapporta longuement les souhaits dont le roi et les Iraniens l’avaient chargé pour Rustem; ensuite il dit:
+Bahman s’assit et rapporta longuement les souhaits dont le roi et les Iraniens l’avaient chargé pour Rustem; ensuite il dit:
 
-> Isfendiar a quitté le roi rapidement, comme le feu , il a dressé ses tentes sur le bord du Hirmend, selon les ordres du grand roi victorieux, et j’ai à transmettre au vaillant Pehlewan un message de mon père, s’il veut m’écouter.
+> Isfendiar a quitté le roi rapidement, comme le feu , il a dressé ses tentes sur le bord du Hirmend, selon les ordres du grand roi victorieux, et j’ai à transmettre au vaillant Pehlewan un message de mon père, s’il veut m’écouter.
 
 Rustem répondit:
 
-> Le fils du prince s’est beaucoup fatigué et a fait une longue route;
+> Le fils du prince s’est beaucoup fatigué et a fait une longue route;
 >
 > Mangeons d’abord un peu de ce que nous avons ici, ensuite le monde est à tes ordres.
 
 Il plaça du pain tendre sur le cuir qui lui servait de table, apporta un onagre rôti et chaud, et le posa sur la nappe devant Bahman, en parlant d’anciennes aventures.
 
-Il fit asseoir son frère Zewareh à côté du prince; mais il n’appela aucun des grands qui étaient présents.
+Il fit asseoir son frère Zewareh à côté du prince; mais il n’appela aucun des grands qui étaient présents.
 
 Ensuite il plaça devant lui-même un autre onagre, car il lui en fallait un chaque fois qu’il dînait, répandit du sel dessus, le dépeça et le mangea.
 
@@ -126,9 +126,9 @@ Rustem se mit à rire et dit à voix haute:
 
 > On ne doit pas cacher devant les braves sa bravoure.
 
-Il remplit de vin une coupe d’or et la but à la santé des hommes libres; ensuite il plaça une autre coupe dans la main de Bahman en disant:
+Il remplit de vin une coupe d’or et la but à la santé des hommes libres; ensuite il plaça une autre coupe dans la main de Bahman en disant:
 
-> Porte la santé de qui tu voudras.
+> Porte la santé de qui tu voudras.
 
 Bahman redoutant cette coupe de vin, Zewareh la vida avant lui, disant:
 
@@ -138,4 +138,4 @@ Bahman prit rapidement la coupe des mains de Zewareh; mais cet homme au cœur in
 
 Rustem, son appétit, sa stature, ses bras et ses épaules, tout le confondait.
 
-A la fin les deux cavaliers montèrent à cheval, Bahman se tint à côté de l’illustre Pehlewan, et le héros au grand renom communiqua à Rustem les saluts et le message d’Isfendiar.
+A la fin les deux cavaliers montèrent à cheval, Bahman se tint à côté de l’illustre Pehlewan, et le héros au grand renom communiqua à Rustem les saluts et le message d’Isfendiar.

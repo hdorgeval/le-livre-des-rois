@@ -29,9 +29,9 @@ order: '44'
 
 Le roi fit placer l’enceinte de ses tentes sur le bord de l’eau, et toute l’armée dressa les siennes autour de lui.
 
-Il fit mettre du vin sur la table et invita des convives; il but debout à la santé de Guschtasp, le maître du monde.
+Il fit mettre du vin sur la table et invita des convives; il but debout à la santé de Guschtasp, le maître du monde.
 
-Ensuite il ordonna qu’on amenât en sa présence Kergsar, qui était blessé au cœur et marchait en tremblant; il lui donna deux coupes de vin royal, sourit et lui parla du dragon, disant :
+Ensuite il ordonna qu’on amenât en sa présence Kergsar, qui était blessé au cœur et marchait en tremblant; il lui donna deux coupes de vin royal, sourit et lui parla du dragon, disant :
 
 > Ô homme vil de corps et sans valeur, regarde ce vaillant dragon qui enveloppait ses victimes avec sa queue, et dis-moi ce qui se présentera à la station prochaine, et quelles nouvelles fatigues et quels dangers j’aurai à subir.
 
@@ -39,7 +39,7 @@ Kergsar répondit:
 
 > Ô roi victorieux, puisse ta bonne étoile te servir!
 >
-> Demain, quand tu t’arrêteras à la station, tu seras salué par une magicienne qui a vu bien des armées avant celle-ci, et dont le cœur n’a jamais tremblé devant personne.
+> Demain, quand tu t’arrêteras à la station, tu seras salué par une magicienne qui a vu bien des armées avant celle-ci, et dont le cœur n’a jamais tremblé devant personne.
 >
 > Quand elle veut, elle convertit en mer le désert, et fait descendre à l’horizon le soleil qui est au zénith.
 >
@@ -63,15 +63,15 @@ il prit une coupe d’or, demanda une belle guitare, et se para comme pour une f
 
 Il vit une forêt semblable au paradis; tu aurais dit que le ciel s’était converti en une tulipe; on n’y apercevait pas le soleil à travers les arbres, et partout on voyait des sources dont l’eau était pareille à l’eau de rose.
 
-Il descendit de cheval, comme l’endroit le méritait, choisit dans la forêt le bord d’une fontaine, prit dans sa main la coupe d’or, et quand il se sentit égayé par le vin, il appuya la guitare contre sa poitrine et se mit à chanter de toute son âme.
+Il descendit de cheval, comme l’endroit le méritait, choisit dans la forêt le bord d’une fontaine, prit dans sa main la coupe d’or, et quand il se sentit égayé par le vin, il appuya la guitare contre sa poitrine et se mit à chanter de toute son âme.
 
 Il dit:
 
-> Le malheureux Isfendiar ne boit jamais de vin, n’a point de compagnons pour en boire, ne rencontre que des lions et des dragons vaillants, n’est jamais délivré des griffes du malheur, n’éprouve jamais un peu de plaisir en ce monde par la vue d’une belle au visage de Péri, et Dieu accomplirait tous les désirs de son cœur, s’il voulait lui donner une de ces femmes dont les traits ravissent l’ âme, dont la stature égale le cyprès, dont le visage brille comme le soleil, dont les cheveux de musc descendent jusqu’aux pieds.
+> Le malheureux Isfendiar ne boit jamais de vin, n’a point de compagnons pour en boire, ne rencontre que des lions et des dragons vaillants, n’est jamais délivré des griffes du malheur, n’éprouve jamais un peu de plaisir en ce monde par la vue d’une belle au visage de Péri, et Dieu accomplirait tous les désirs de son cœur, s’il voulait lui donner une de ces femmes dont les traits ravissent l’ âme, dont la stature égale le cyprès, dont le visage brille comme le soleil, dont les cheveux de musc descendent jusqu’aux pieds.
 
 La magicienne entendit les paroles d’Isfendiar, et s’en épanouit comme la rose au printemps; elle se dit:
 
-> Voici un lion qui est entré dans mes filets, paré, chantant, et une coupe pleine dans la main.
+> Voici un lion qui est entré dans mes filets, paré, chantant, et une coupe pleine dans la main.
 
 Cette créature impure, pleine de rides et hideuse, se mit à écrire ses formules de magie dans les ténèbres, et se changea en une belle fille turque, avec des joues comme des brocarts de Chine et des cheveux noirs comme le musc.
 
@@ -83,7 +83,7 @@ Quand le prince l’aperçut, il chanta plus haut, joua plus gaiement et but dav
 >
 > Je viens de désirer qu’une fille au visage de Péri vienne me rendre heureux dans cette forêt, et voici que le Créateur me la donne, que le Distributeur de la justice me l’accorde! Que mon cœur et mon âme l’adorent!
 
-Il lui donna une coupe remplie d’un vin parfumé de musc, et ses joues en devinrent couleur de rubis.
+Il lui donna une coupe remplie d’un vin parfumé de musc, et ses joues en devinrent couleur de rubis.
 
 Or il possédait une belle chaîne d’acier, qu’il tenait prête, mais cachée devant la magicienne.
 

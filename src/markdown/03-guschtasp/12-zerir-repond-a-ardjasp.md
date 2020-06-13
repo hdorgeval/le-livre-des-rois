@@ -61,7 +61,7 @@ Il leur jeta la lettre en ajoutant:
 
 > Partez, et portez ceci à ce Turc magicien; dites-lui que sa perte est proche, que le moment arrive où l’eau et la terre lui manqueront.
 >
-> Puisse son cou être frappé et sa taille brisée, puissent ses os être dispersés dans la terre!
+> Puisse son cou être frappé et sa taille brisée, puissent ses os être dispersés dans la terre!
 >
 > S’il plaît à Dieu, je revêtirait pour le combat encore dans ce mois-ci ma cotte de mailles de fer, je mènerait mon armée dans le royaume de Touran [^1], je dévasterai le pays des Kergsars.
 

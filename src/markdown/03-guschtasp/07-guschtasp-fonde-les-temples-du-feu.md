@@ -30,7 +30,7 @@ order: '07'
 
 Lorsque le roi excellent entendit de Zerdouscht [^1] la bonne doctrine, il accepta de lui la vraie voie et le vrai culte.
 
-Son vaillant frère, le fortuné Zerir, qui abattait les plus terribles éléphants, ensuite le vieux roi des rois, qui s’était retiré à Balkh, parce que son cœur blessé avait trouvé amer le monde, enfin les chefs, les puissants, les savants, les médecins, les sages et les braves se rendirent tous auprès du roi de la terre, se ceignirent du Koschti et se convertirent à la nouvelle foi.
+Son vaillant frère, le fortuné Zerir, qui abattait les plus terribles éléphants, ensuite le vieux roi des rois, qui s’était retiré à Balkh, parce que son cœur blessé avait trouvé amer le monde, enfin les chefs, les puissants, les savants, les médecins, les sages et les braves se rendirent tous auprès du roi de la terre, se ceignirent du Koschti et se convertirent à la nouvelle foi.
 
 Alors se montrèrent toutes les grâces que Dieu accorde, le mal disparut du cœur des méchants, le culte des idoles périt et celui du feu s’étendit, les tombeaux se remplirent de lumière divine, les semences furent pures de toute souillure.
 
@@ -42,13 +42,13 @@ Il y avait un noble cyprès venu du paradis; Guschtasp le planta devant la porte
 
 Quelques années passèrent, le cyprès continua à croître, et devint si grand qu’on n’aurait pas pu entourer son tronc avec un lacet.
 
-Lorsqu’il eut poussé bien de hautes branches, le roi jeta autour de l’arbre les fondements d’un palais haut de quarante coudées et large de quarante, dans lequel on n’employa depuis les fondations ni eau ni argile.
+Lorsqu’il eut poussé bien de hautes branches, le roi jeta autour de l’arbre les fondements d’un palais haut de quarante coudées et large de quarante, dans lequel on n’employa depuis les fondations ni eau ni argile.
 
 Il y construisit une salle couverte d’or pur, dont les murs étaient d’argent et le sol d’ambre.
 
 Il y fit sculpter Djemschid adorant le soleil et la lune, il y fit représenter Feridoun avec sa massue à tête de bœuf, et les figures de tous les grands.
 
-Regarde qui a jamais donné une pareille preuve de puissance!
+Regarde qui a jamais donné une pareille preuve de puissance!
 
 Lorsque ce palais d’or fut achevé dans toute sa beauté, le roi de la terre en incrusta les murs de pierreries, entoura l’édifice d’une enceinte de fer et en fit sa résidence.
 

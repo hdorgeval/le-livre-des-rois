@@ -45,9 +45,9 @@ Ardjasp revêtit sa cotte de mailles et se frotta longuement les mains; il ordon
 >
 > Observe qui nous attaque, et ce qu’ils veulent dans cette invasion.
 
-Le fier Tharkhan partit sur-le-champ vers le front attaqué de la forteresse, accompagné d’un interprète.
+Le fier Tharkhan partit sur-le-champ vers le front attaqué de la forteresse, accompagné d’un interprète.
 
-Il vit des troupes couvertes de cuirasses, armées pour la guerre, et un drapeau noir avec une figure de léopard; le Sipehbed Beschouten se trouvait au centre de ces troupes, qui toutes avaient lavé leurs mains dans le Sang; il tenait la massue d’Isfendiar et était monté sur un destrier renommé; il avait tout l’air du vaillant Isfendiar, et personne ne l’appelait autrement que roi d’ Iran.
+Il vit des troupes couvertes de cuirasses, armées pour la guerre, et un drapeau noir avec une figure de léopard; le Sipehbed Beschouten se trouvait au centre de ces troupes, qui toutes avaient lavé leurs mains dans le Sang; il tenait la massue d’Isfendiar et était monté sur un destrier renommé; il avait tout l’air du vaillant Isfendiar, et personne ne l’appelait autrement que roi d’ Iran.
 
 Il étendit les deux ailes de son armée et le jour brillant disparut; les lances aux pointes d’acier donnaient des coups tels qu’on aurait dit qu’une pluie de sang tombait du ciel.
 
@@ -61,7 +61,7 @@ Les deux armées combattirent de manière que la poussière qu’elles soulevaie
 
 Kehrem, qui portait haut la tête, s’en retourna au palais en pleurant, et l’armée entière le suivit en toute hâte; Kehrem dit à son père:
 
-> Ô roi illustre qui ressembles au soleil! il est arrivé de l’Iran une grande armée devant laquelle marche un héros illustre, qui, d’après sa stature, ne peut être qu’ Isfendiar; et jamais un homme comme lui n’est venu dans ce château;
+> Ô roi illustre qui ressembles au soleil! il est arrivé de l’Iran une grande armée devant laquelle marche un héros illustre, qui, d’après sa stature, ne peut être qu’ Isfendiar; et jamais un homme comme lui n’est venu dans ce château;
 >
 > Il porte dans la bataille la lance de combat que tu as vue dans sa main à Gunbedan.
 
@@ -71,4 +71,4 @@ Il dit aux chefs de ses troupes:
 
 > Partez, sortez tous de la forteresse el allez dans la plaine, emmenez l’armée, poussez des cris de lions féroces, ne laissez point vivre plus longtemps un seul de vos ennemis; n’appelez lion aucun des hommes d’Iran.
 
-Toute l’armée quitta la forteresse, le cœur blessé et avide de vengeance.
+Toute l’armée quitta la forteresse, le cœur blessé et avide de vengeance.

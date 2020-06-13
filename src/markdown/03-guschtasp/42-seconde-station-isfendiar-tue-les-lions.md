@@ -18,13 +18,13 @@ Celui-ci ordonna qu’on lui amenât le prisonnier, qui vint en tremblant et les
 
 Kergsar répondit au prince:
 
-> Ô maître de la couronne, roi au cœur de lion! à la prochaine station tu seras attaqué par des lions, aux griffes desquels le crocodile ne résiste pas;
+> Ô maître de la couronne, roi au cœur de lion! à la prochaine station tu seras attaqué par des lions, aux griffes desquels le crocodile ne résiste pas;
 >
 > et l’aigle courageux, si vaillant qu’il soit, n’ose pas voler au-dessus de la route des lions.
 
 Isfendiar, au cœur serein, se mit à sourire, et lui dit:
 
-> Ô Turc infortuné, tu verras demain comme je serai brave en face des lions et en les combattant.
+> Ô Turc infortuné, tu verras demain comme je serai brave en face des lions et en les combattant.
 
 Lorsque la nuit fut devenue profonde, le roi ordonna à l’armée de quitter ce lieu, et l’armée se mit en marche dans les ténèbres et en célébrant ses louanges.
 
@@ -36,7 +36,7 @@ Alors il partit, et lorsqu’il fut près des lions, le monde devint sombre deva
 
 L’un était un mâle et l’autre une femelle; ils arrivèrent sur lui vaillamment et bravement.
 
-Le mâle s’étant approché, Isfendiar le frappa d’un coup d’épée qui donna à sa face la couleur du corail, et le fendit en deux depuis la tête jusqu’au milieu du dos;
+Le mâle s’étant approché, Isfendiar le frappa d’un coup d’épée qui donna à sa face la couleur du corail, et le fendit en deux depuis la tête jusqu’au milieu du dos;
 
 le cœur de la lionne fut rempli de terreur, mais elle bondit comme avait fait le mâle et s’élança sur lui; le héros la frappa de son épée, et fit rouler sa tète dans la poussière.
 
@@ -46,7 +46,7 @@ il se jeta dans l’eau et se lava la tête et le corps, en demandant de l’aid
 
 Il dit au maître suprême de la justice, au très-saint:
 
-> C’est toi qui as tué ces bêtes fauves par ma main.
+> C’est toi qui as tué ces bêtes fauves par ma main.
 
 Pendant ce temps les troupes étaient arrivées; Beschouten regarda les poitrines et les membres des lions, et toute l’armée rendit hommage à Isfendiar et l’appela le prince le plus illustre de la terre.
 

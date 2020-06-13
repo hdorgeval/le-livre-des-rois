@@ -15,9 +15,9 @@ order: '73'
 
 # Zal donne conseil à Rustem
 
-Quand Rustem fut arrivé dans son palais, il regarda pendant quelques instants ses amis;
+Quand Rustem fut arrivé dans son palais, il regarda pendant quelques instants ses amis;
 
-Zewareh s’approcha de lui et vit que son cœur était troublé, que son visage était pâle.
+Zewareh s’approcha de lui et vit que son cœur était troublé, que son visage était pâle.
 
 Rustem lui dit:
 
@@ -27,7 +27,7 @@ Rustem lui dit:
 >
 > Apporte un lacet, ma lourde massue et ma cuirasse de peau de léopard.
 
-Zewareh ordonna au trésorier de tirer de ses réserves tout ce que Rustem avait demandé.
+Zewareh ordonna au trésorier de tirer de ses réserves tout ce que Rustem avait demandé.
 
 Quand Rustem vit ses armes de combat, il laissa tomber sa tête et poussa un soupir, disant:
 
@@ -47,7 +47,7 @@ Il dit:
 >
 > Des paroles qui troublent mon âme!
 >
-> Depuis le moment où tu as monté sur un cheval de guerre, tu as toujours été un homme au cœur pur et bon, tu t’es glorifié d’obéir aux ordres du roi, tu as supporté patiemment toutes les fatigues;
+> Depuis le moment où tu as monté sur un cheval de guerre, tu as toujours été un homme au cœur pur et bon, tu t’es glorifié d’obéir aux ordres du roi, tu as supporté patiemment toutes les fatigues;
 >
 > Mais je crains que ton jour ne baisse, que ton astre ne se couche, alors ils détruiront jusqu’à la racine toute la famille de Destan;
 >
@@ -55,7 +55,7 @@ Il dit:
 >
 > Si tu meurs dans le combat de la main d’un jeune homme comme Isfendiar, il ne restera plus dans le Zaboulistan ni de l’eau ni de la terre, et ce qui était haut dans ce pays deviendra bas;
 >
-> Si c’est Isfendiar qui périt, la gloire périra de même, et tous ceux qui raconteront des histoires déchireront ton nom illustre, et diront que tu as tué un roi d’Iran, que tu as tué un vaillant cavalier, un des lions de la race des Keïanides.
+> Si c’est Isfendiar qui périt, la gloire périra de même, et tous ceux qui raconteront des histoires déchireront ton nom illustre, et diront que tu as tué un roi d’Iran, que tu as tué un vaillant cavalier, un des lions de la race des Keïanides.
 >
 > Va plutôt auprès de lui à pied, et si tu ne veux pas, quitte ces lieux, retire-toi dans un coin, loin des grands, de sorte que personne dans le monde n’entende plus prononcer ton nom, car ce malheur troublera ton esprit;
 >
@@ -65,19 +65,19 @@ Il dit:
 >
 > Distribue à son armée des présents, et rachète de lui ta vie par quoi que ce soit.
 >
-> Quand il aura quitté le bord du Hirmend, monte sur Raksch, ton puissant cheval, et lorsque tu seras hors de l’atteinte d’ Isfendiar, prie Dieu sur la route pour qu’il te permette de voir le visage du roi;
+> Quand il aura quitté le bord du Hirmend, monte sur Raksch, ton puissant cheval, et lorsque tu seras hors de l’atteinte d’ Isfendiar, prie Dieu sur la route pour qu’il te permette de voir le visage du roi;
 >
 > Quand tu seras en sa présence, comment te ferait-il du mal?
 >
-> Une mauvaise action siérait-elle à un roi?
+> Une mauvaise action siérait-elle à un roi?
 
 Rustem lui dit:
 
 > Ô vieillard! ne parle pas de tout cela si légèrement.
 >
-> Voici bien des années que je suis arrivé à l’âge d’homme, et beaucoup de bonheur et de malheur a passé sur ma tête;
+> Voici bien des années que je suis arrivé à l’âge d’homme, et beaucoup de bonheur et de malheur a passé sur ma tête;
 >
-> Je suis allé chez les Divs du Mazenderan, j’ai combattu les cavaliers du Hamaveran, j’ai lutté contre Kamous et le Khakan de la Chine, sous le cheval duquel la terre tremblait.
+> Je suis allé chez les Divs du Mazenderan, j’ai combattu les cavaliers du Hamaveran, j’ai lutté contre Kamous et le Khakan de la Chine, sous le cheval duquel la terre tremblait.
 >
 > Si je fuyais devant Isfendiar, tu n’aurais qu’à abandonner ton palais et tes jardins du Séistan.
 >
@@ -89,15 +89,15 @@ Rustem lui dit:
 >
 > S’il voulait ne pas tenir sa tête dans la sphère de Saturne, si sa fierté lui permettait de me saluer, je lui prodiguerais avec plaisir des trésors, des joyaux, des massues, des cottes de mailles, des masses d’armes, des épées.
 >
-> Je le lui ai dit longuement, mais il n’a pas été ébranlé, et toutes mes paroles ne m’ont laissé dans la main que du vent.
+> Je le lui ai dit longuement, mais il n’a pas été ébranlé, et toutes mes paroles ne m’ont laissé dans la main que du vent.
 >
 > Mais ne crains pas pour sa vie: s’il vient demain me combattre, je ne prendrai pas une épée tranchante, je ne veux pas blesser son noble corps;
 >
-> Je manierai mon cheval dans notre lutte, mais il ne sera frappé ni de ma massue ni de la pointe de ma lance: je lui couperai la retraite, je saisirai de toute ma force sa ceinture, je l’enlèverai de la selle en l’étreignant dans mes bras, et le reconnaîtrai comme roi à la place de Guschtasp.
+> Je manierai mon cheval dans notre lutte, mais il ne sera frappé ni de ma massue ni de la pointe de ma lance: je lui couperai la retraite, je saisirai de toute ma force sa ceinture, je l’enlèverai de la selle en l’étreignant dans mes bras, et le reconnaîtrai comme roi à la place de Guschtasp.
 >
 > Je l’amènerai ici, je le ferai asseoir sur ce beau trône et j’ouvrirai la porte de mes trésors;
 >
-> Quand il aura été mon hôte pendant trois jours, aussitôt que le quatrième jour aura repoussé de la sphère qui illumine le monde le voile sombre de la nuit, et que la coupe de rubis aura paru, nous mettrons nos armures et nous nous rendrons auprès de Guschtasp.
+> Quand il aura été mon hôte pendant trois jours, aussitôt que le quatrième jour aura repoussé de la sphère qui illumine le monde le voile sombre de la nuit, et que la coupe de rubis aura paru, nous mettrons nos armures et nous nous rendrons auprès de Guschtasp.
 >
 > Là je le placerai sur l’illustre trône d’ivoire, je mettrai sur sa tête la couronne qui ravit les cœurs, je me tiendrai devant lui ceint comme un esclave, et ne le quitterai plus.
 >
@@ -111,7 +111,7 @@ Zal-Zer sourit en l’écoutant: il secoua pendant un instant la tête en réfl�
 >
 > Kobad était en détresse sur une montagne, sans trône, ni couronne, ni trésor, ni argent;
 >
-> Mais ne te place pas en face d’un roi de l’Iran qui a une armée et du sens et des trésors longuement accumulés, en face d’un homme comme Isfendiar, dont le nom est gravé sur le sceau du Faghfour de la Chine.
+> Mais ne te place pas en face d’un roi de l’Iran qui a une armée et du sens et des trésors longuement accumulés, en face d’un homme comme Isfendiar, dont le nom est gravé sur le sceau du Faghfour de la Chine.
 >
 > Tu dis que tu l’enlèveras de dessus son cheval, que tu le porteras dans tes bras jusqu’au palais de Zal;
 >
@@ -119,9 +119,9 @@ Zal-Zer sourit en l’écoutant: il secoua pendant un instant la tête en réfl�
 >
 > Ne te laisse pas aller au manque de respect envers les rois.
 >
-> Je t’ai donné mon avis, et tu le connais maintenant, ô lune de l’assemblée des grands.
+> Je t’ai donné mon avis, et tu le connais maintenant, ô lune de l’assemblée des grands.
 
-Lorsqu’ils eurent ainsi parlé, Zal se prosterna le front contre terre et implora le Créateur, disant:
+Lorsqu’ils eurent ainsi parlé, Zal se prosterna le front contre terre et implora le Créateur, disant:
 
 > Ô juge et maître suprême, écarte de nous le mauvais sort!
 

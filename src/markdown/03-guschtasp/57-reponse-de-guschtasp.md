@@ -62,7 +62,7 @@ Le roi répondit à son fils:
 >
 > Je ne connais personne dans le monde qui soit ton égal, si ce n’est Rustem l’insensé, le fils de Zal, à qui de tout temps a appartenu le Zaboulistan, Bost, Ghaznin et le Kaboul.
 >
-> Sa bravoure l’élève au-dessus du ciel, et il ne se reconnaît le sujet de personne.
+> Sa bravoure l’élève au-dessus du ciel, et il ne se reconnaît le sujet de personne.
 >
 > Il se tenait devant Kaous le Keïanide comme un esclave; il a vécu par la grâce de Keï Khosrou;
 >
@@ -74,7 +74,7 @@ Le roi répondit à son fils:
 >
 > Tire ton épée, brandis ta massue, amène prisonnier Rustem, fils de Zal, avec Zewareh et Faramourz, et ne permets à aucun d’eux de monter à cheval.
 >
-> Je jure par le Maître du monde, le distributeur de la justice, de qui vient toute force, qui a allumé les astres, la lune et le soleil, que, quand tu auras accompli tout cela, je ne te disputerai-plus rien, que je te donnerai le trésor, le trône et l’armée, que je te placerai sur le trône la couronne sur la tête.
+> Je jure par le Maître du monde, le distributeur de la justice, de qui vient toute force, qui a allumé les astres, la lune et le soleil, que, quand tu auras accompli tout cela, je ne te disputerai-plus rien, que je te donnerai le trésor, le trône et l’armée, que je te placerai sur le trône la couronne sur la tête.
 
 Isfendiar répondit:
 
@@ -82,7 +82,7 @@ Isfendiar répondit:
 >
 > Fais la guerre au roi de la Chine, détruis son pays et Khallakh, mais pourquoi en veux-tu à un vieillard que Kaous déjà a appelé le vainqueur des lions, qui, depuis Minoutchehr et Keï Kobad, a protégé tout le pays d’Iran, que l’on appelle le maître de Raksch, le conquérant du monde, le vainqueur des lions, le distributeur des couronnes?
 >
-> Ce n’est pas un jeune ambitieux c’est un homme puissant, qui a eu un traité avec Keï Khosrou.
+> Ce n’est pas un jeune ambitieux c’est un homme puissant, qui a eu un traité avec Keï Khosrou.
 >
 > Or, si les traités des rois ne doivent pas être observés, il était inutile qu’il te demandât une investiture.
 
@@ -92,13 +92,13 @@ Le roi répondit à Isfendiar:
 >
 > Quand un homme oublie la foi qu’il doit à Dieu, la foi qui lui est due devient du vent.
 >
-> Tu sais sans doute que le roi Kaous s’est égaré de la vraie voie par l’instigation d’ Iblis, qu’il est monté au ciel porté par des aigles et qu’il est tombé misérablement dans l’eau à Sari;
+> Tu sais sans doute que le roi Kaous s’est égaré de la vraie voie par l’instigation d’ Iblis, qu’il est monté au ciel porté par des aigles et qu’il est tombé misérablement dans l’eau à Sari;
 >
-> Ensuite qu’il a amené du Hamaveran une fille de Div, à laquelle il a livré l’appartement des femmes des rois, et que cette femme, par ses persécutions, a détruit Siawusch et fait périr toute cette famille.
+> Ensuite qu’il a amené du Hamaveran une fille de Div, à laquelle il a livré l’appartement des femmes des rois, et que cette femme, par ses persécutions, a détruit Siawusch et fait périr toute cette famille.
 >
 > Quand un homme oublie son devoir envers Dieu, il faut se garder de passer devant sa porte.
 >
-> Prends donc la route du Séistan, accompagné d’une armée, si tu désires le trône et la couronne, et quand tu seras arrivé, lie les mains à Rustem et amène-le en tenant suspendu à ton bras le lacet qui l’enchaine;
+> Prends donc la route du Séistan, accompagné d’une armée, si tu désires le trône et la couronne, et quand tu seras arrivé, lie les mains à Rustem et amène-le en tenant suspendu à ton bras le lacet qui l’enchaine;
 >
 > Empêche Zewareh, Faramourz et Destan fils de Sam de te tendre un piège;
 >
@@ -126,10 +126,10 @@ Son père lui répondit:
 >
 > Mes armes et mes troupes sont entièrement à toi, et c’est à l’âme de tes ennemis à trembler.
 >
-> A quoi me serviraient sans toi des trésors et des armées, le trône de la royauté et la couronne d’or?
+> A quoi me serviraient sans toi des trésors et des armées, le trône de la royauté et la couronne d’or?
 
 Isfendiar répondit:
 
-> Je n’ai point besoin de troupes, car, quand le moment de la mort est arrivé, le plus puissant roi ne peut le retarder avec une armée.
+> Je n’ai point besoin de troupes, car, quand le moment de la mort est arrivé, le plus puissant roi ne peut le retarder avec une armée.
 
-Il quitta la présence du roi et se retira, tout enflammé des paroles de son père et du désir d’acquérir la couronne; il rentra dans son palais, déchiré de sentiments contradictoires, la bouche pleine de folles paroles, le cœur plein de soucis.
+Il quitta la présence du roi et se retira, tout enflammé des paroles de son père et du désir d’acquérir la couronne; il rentra dans son palais, déchiré de sentiments contradictoires, la bouche pleine de folles paroles, le cœur plein de soucis.

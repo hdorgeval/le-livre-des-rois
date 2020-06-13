@@ -57,7 +57,7 @@ Elle vit s'élever sous le Ciel une haute montagne, dans le lieu où étaient c
 
 La lumière du Soleil dissipa ce nuage ténébreux; le vent d'Automne souffla; et ces bêtes féroces tombèrent comme les feuilles.
 
-Le jour étant un peu avancé, il parut un jeune homme beau comme la Lune dans son quatorze, éclatant comme Djemschid, qui tenait dans une main une corne lumineuse avec laquelle il devait arracher la racine des Dews et dans l’autre un livre.
+Le jour étant un peu avancé, il parut un jeune homme beau comme la Lune dans son quatorze, éclatant comme Djemschid, qui tenait dans une main une corne lumineuse avec laquelle il devait arracher la racine des Dews et dans l’autre un livre.
 
 Il lança son Livre sur ces bêtes, qui disparurent aussitôt de la maison de Dogdo, comme si elles avaient été anéanties.
 

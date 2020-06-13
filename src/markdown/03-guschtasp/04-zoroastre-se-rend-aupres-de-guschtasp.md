@@ -55,7 +55,7 @@ order: '04'
 
 # Zoroastre se rend auprès de Guschtasp mais ce dernier le jete en prison [^1]
 
-Après avoir consulté Ormuzd & les autres Esprits célestes, Zoroastre revint dans le Monde.
+Après avoir consulté Ormuzd & les autres Esprits célestes, Zoroastre revint dans le Monde.
 
 Les mauvais Génies & les Magiciens furent instruits de son retour, & formèrent une armée nombreuse, pour lui déclarer la guerre: mais voyant la science dont Il était rempli, ils se mordirent les doigts de dépit.
 
@@ -83,7 +83,7 @@ Plusieurs de ceux qui étaient présents prirent la fuite; mais ce prodige n’e
 
 La Cour de ce Prince était composée des Grands de l’Iran & des Sages les plus célèbres.
 
-L'accès qu'il leur donnait auprès de sa personne, proportionné à leur mérite, en était en même temps la récompense.
+L'accès qu'il leur donnait auprès de sa personne, proportionné à leur mérite, en était en même temps la récompense.
 
 Guschtasp était sur son Trône, tout éclatant de gloire, lorsque Zoroastre s’approcha, & lui fit des souhaits selon l’usage des Orientaux.
 
@@ -99,7 +99,7 @@ Alors les Sages étendirent un tapis sur le plancher, y firent asseoir Zoroastre
 
 Chacun l’interrogea séparément sur les Sciences anciennes.
 
-L'étendue de ses connaissances les étonna, & ils le quittèrent fatigués eux-mêmes des questions qu’ils lui avoient faites.
+L'étendue de ses connaissances les étonna, & ils le quittèrent fatigués eux-mêmes des questions qu’ils lui avoient faites.
 
 Ce spectacle intéressa Guschtasp: il fit approcher Zoroastre, le questionna aussi sur les Sciences anciennes; & étant satisfait de ses réponses, il lui donna près de ses appartements un logement magnifique.
 
@@ -121,7 +121,7 @@ Zoroastre lançait contre eux sa langue, comme une épée aiguë.
 
 Il leur expliqua de cent manières tout ce qu'ils lui demandèrent sur les Sciences.
 
-Alors Guschtasp le combla d’honneurs. Il voulut savoir quel était son état, son nom, sa famille, la ville où il était né, de qui il descendait.
+Alors Guschtasp le combla d’honneurs. Il voulut savoir quel était son état, son nom, sa famille, la ville où il était né, de qui il descendait.
 
 Zoroastre satisfit le Roi sur tous ces objets, & lui dit:
 
@@ -131,7 +131,7 @@ Zoroastre satisfit le Roi sur tous ces objets, & lui dit:
 
 Ces paroles plurent au Roi, qui ordonna pour le lendemain une Assemblée générale.
 
-Zoroastre retiré chez lui, passa la nuit en prières.
+Zoroastre retiré chez lui, passa la nuit en prières.
 
 Pour les Ministres, tout furieux, ils se disaient:
 
@@ -184,7 +184,7 @@ Lisez-moi donc le Zend-Avesta, lui dit Guschtasp.
 
 Zoroastre en lut une section entière, que le Roi ne gouta pas.
 
-Son cœur ne fut pas disposé à embrasser la Loi, parce que la grandeur de l’Avesta passait son intelligence, comme un enfant qui ne fait point de cas des pierres précieuses, comme un ignorant qui ne connaît point le prix de la science.
+Son cœur ne fut pas disposé à embrasser la Loi, parce que la grandeur de l’Avesta passait son intelligence, comme un enfant qui ne fait point de cas des pierres précieuses, comme un ignorant qui ne connaît point le prix de la science.
 
 Ce Prince dit à Zoroastre:
 
@@ -246,7 +246,7 @@ Zoroastre ignorait ce qui se passait.
 
 Lorsqu’il sortait de son appartement, pour aller chez le Roi, il avait coutume de mettre sa clef dans le Palais.
 
-Les Ministres informés de cela, allèrent trouver le portier, qui, gagné par un présent, leur donna la clef du Prophète.
+Les Ministres informés de cela, allèrent trouver le portier, qui, gagné par un présent, leur donna la clef du Prophète.
 
 Ils portèrent aussitôt dans sa chambre du sang, des immondices, des cheveux, des morceaux de cadavre, une tête de chat, une de chien , des os de morts.
 
@@ -288,13 +288,13 @@ Il lui dirent:
 
 Ce spectacle surprit étrangement Zoroastre. Ses yeux s’obscurcirent à la vue du cadavre. Il protesta à Guschtasp qu'il ne comprenait rien à ce qu'il voyait; qu'au reste on pouvait interroger le portier.
 
-Mais cet homme que les Ministres avaient corrompu, assura que personne n’était entré dans sa chambre; que le vent même n’aurait pu pénétrer dans l’appartement de Zoroastre, si lui-même, Zoroastre, ne lui eût donné entrée: & le Roi tranquillisé par ces différents témoignages, dit à Zoroastre:
+Mais cet homme que les Ministres avaient corrompu, assura que personne n’était entré dans sa chambre; que le vent même n’aurait pu pénétrer dans l’appartement de Zoroastre, si lui-même, Zoroastre, ne lui eût donné entrée: & le Roi tranquillisé par ces différents témoignages, dit à Zoroastre:
 
 > Chien! plus vil que la poussière, ne mérites-tu la lance & le pal?
 >
 > Tout ce qui est devant toi t'appartient.
 >
-> Quelqu'un a t-il apporté du Ciel ce qui est dans ton oreiller & dans ton sac?
+> Quelqu'un a t-il apporté du Ciel ce qui est dans ton oreiller & dans ton sac?
 
 Il jeta ensuite le Zend-Avesta, & sans écouter davantage Zoroastre, il le fit charger de fers & ordonna de le resserrer étroitement.
 

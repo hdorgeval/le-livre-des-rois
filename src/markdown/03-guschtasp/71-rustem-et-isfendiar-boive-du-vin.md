@@ -19,7 +19,7 @@ Isfendiar lui répondit:
 
 > Toutes ces paroles ne conduisent à rien!
 >
-> Midi est passé, nous n’avons rien mangé, mais beaucoup parlé de combats;
+> Midi est passé, nous n’avons rien mangé, mais beaucoup parlé de combats;
 >
 > Apportez ce que vous avez, et des tables, et n’invitez personne qui parle beaucoup.
 
@@ -33,7 +33,7 @@ Alors le prince dit:
 
 L’échanson apporta une coupe si grande qu’on n’aurait pas cru que Rustem pourrait la vider;
 
-Mais Rustem but à la santé du roi des rois, et mit à sec cette fontaine rouge.
+Mais Rustem but à la santé du roi des rois, et mit à sec cette fontaine rouge.
 
 Le petit échanson apporta de nouveau cette coupe pleine de vin royal, mais Rustem dit tout bas à Beschouten:
 
@@ -47,9 +47,9 @@ Il obéit.
 
 Beschouten appela les chanteurs, et Rustem ne cessa pas d’être l’objet de son étonnement.
 
-Lorsque le temps du départ fut arrivé, le visage du noble Rustem était coloré par le vin. Isfendiar lui dit:
+Lorsque le temps du départ fut arrivé, le visage du noble Rustem était coloré par le vin. Isfendiar lui dit:
 
-> Puisses-tu vivre heureux jusqu’à la fin des temps, puisse le vin et ce que tu as mangé te faire du bien, puisse la droiture être l’aliment de ton âme.
+> Puisses-tu vivre heureux jusqu’à la fin des temps, puisse le vin et ce que tu as mangé te faire du bien, puisse la droiture être l’aliment de ton âme.
 
 Rustem lui répondit:
 
@@ -61,7 +61,7 @@ Rustem lui répondit:
 >
 > Quitte le désert et viens dans ma maison; sois pendant quelque temps mon hôte joyeux.
 >
-> Honore ma demeure de ta présence à une fête; ne te tiens pas éloigné de ton serviteur.
+> Honore ma demeure de ta présence à une fête; ne te tiens pas éloigné de ton serviteur.
 >
 > J’accomplirai tout ce que j’ai dit, je ferai de l’intelligence ton guide;
 >
@@ -73,7 +73,7 @@ Isfendiar répliqua:
 >
 > Tu verras demain ce que peut la bravoure d’un homme, quand j’aurai pris mes armes de combat;
 >
-> Ne te vante pas toi-même, retourne dans ton palais et prépare-toi pour demain.
+> Ne te vante pas toi-même, retourne dans ton palais et prépare-toi pour demain.
 >
 > Tu verras que sur le champ de bataille je suis le même qu’en face des coupes de vin et des échansons.
 >
@@ -83,17 +83,17 @@ Isfendiar répliqua:
 >
 > Ne me fais donc pas le chagrin de me refuser.
 
-Le cœur de Rustem était affligé et soucieux, le monde devint devant ses yeux comme une forêt où il ne voyait pas son chemin; il se dit:
+Le cœur de Rustem était affligé et soucieux, le monde devint devant ses yeux comme une forêt où il ne voyait pas son chemin; il se dit:
 
 > Que je le laisse m’enchaîner les mains, ou que j’amène sa perte, ce seraient deux faits également maudits et néfastes, deux actions pernicieuses, inouïes et mauvaises.
 >
 > Ces chaînes détruiraient ma gloire, ma vie finirait tristement par le fait de Guschtasp, et dans le monde entier, partout où l’on conterait une histoire, on ne cesserait jamais de me blâmer;
 >
-> On dirait que Rustem n’a pu résister à un jeune homme qui est allé dans le Zaboulistan et lui a lié les pieds;
+> On dirait que Rustem n’a pu résister à un jeune homme qui est allé dans le Zaboulistan et lui a lié les pieds;
 >
 > Toute ma gloire se convertirait en honte, et il ne resterait dans le monde rien de ma bonne renommée.
 >
-> Et si je le tuais sur le champ de bataille, mon visage pâlirait devant les rois, on dirait que j’ai tué ce prince parce qu’il m’a adressé une parole dure, on me maudirait encore après ma mort, et on m’appellerait le vieillard impie.
+> Et si je le tuais sur le champ de bataille, mon visage pâlirait devant les rois, on dirait que j’ai tué ce prince parce qu’il m’a adressé une parole dure, on me maudirait encore après ma mort, et on m’appellerait le vieillard impie.
 >
 > Enfin si je mourais de sa main, toute la gloire du Zaboulistan périrait, le nom de Destan fils de Sam serait déshonoré, et personne dans le Zaboulistan n’acquerrait plus de gloire;
 >
@@ -147,13 +147,13 @@ Le fier Isfendiar écouta, et lui répondit:
 >
 > C’est ainsi que tu veux me tromper, pour te délivrer du collier de la servitude.
 >
-> Tu veux que tous ceux qui t’entendent croient à tes paroles doucereuses, qu’ils me traitent, moi, l’homme de bien, comme un homme aux intentions impures, et toi comme un sage plein de vertu; qu’ils disent que tu es arrivé portant de bonnes nouvelles et de bonnes paroles, et me faisant tout espérer, mais que j’ai refusé d’écouter ce que tu disais, après avoir été si bien traité par toi; que j’ai rejeté avec dédain tes prières, et que ma langue n’a prononcé que des paroles amères.
+> Tu veux que tous ceux qui t’entendent croient à tes paroles doucereuses, qu’ils me traitent, moi, l’homme de bien, comme un homme aux intentions impures, et toi comme un sage plein de vertu; qu’ils disent que tu es arrivé portant de bonnes nouvelles et de bonnes paroles, et me faisant tout espérer, mais que j’ai refusé d’écouter ce que tu disais, après avoir été si bien traité par toi; que j’ai rejeté avec dédain tes prières, et que ma langue n’a prononcé que des paroles amères.
 >
 > Sache que je ne désobéirai jamais au roi, fût-ce pour un trône et une couronne;
 >
 > Que c’est de lui que dépendent dans le monde mon bonheur et mon malheur, qu’en lui sont mon enfer et mon paradis.
 >
-> Puisse ce que tu as mangé te faire du bien et porter malheur à tes ennemis!
+> Puisse ce que tu as mangé te faire du bien et porter malheur à tes ennemis!
 >
 > Maintenant retourne en paix près de Zal et répète-lui ce que tu as entendu.
 >
@@ -165,11 +165,11 @@ Le fier Isfendiar écouta, et lui répondit:
 
 Rustem lui dit:
 
-> Ô homme au cœur de lion! puisque tel est ton désir, je te recevrai monté sur Raksch, mon cheval ardent, je guérirai ta tête avec ma massue.
+> Ô homme au cœur de lion! puisque tel est ton désir, je te recevrai monté sur Raksch, mon cheval ardent, je guérirai ta tête avec ma massue.
 >
 > Dans ton pays, tu as entendu dire, et tu as cru à ces paroles, que l’épée des braves était impuissante sur le champ de bataille contre Isfendiar.
 >
-> Tu verras demain la pointe de ma lance et les rênes de Raksch enroulées autour de ma main, et jamais tu ne désireras plus rencontrer dans le combat un guerrier renommé.
+> Tu verras demain la pointe de ma lance et les rênes de Raksch enroulées autour de ma main, et jamais tu ne désireras plus rencontrer dans le combat un guerrier renommé.
 
 La lèvre du jeune prince sourit, et Rustem sentit qu’il était l’inférieur de cet homme qui souriait et qui lui répondit:
 

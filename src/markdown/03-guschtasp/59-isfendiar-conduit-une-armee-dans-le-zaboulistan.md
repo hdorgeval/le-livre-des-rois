@@ -56,15 +56,15 @@ Isfendiar fit mettre le rideau et poser son trône, et tous ceux que la fortune 
 
 Les joues des grands et du vaillant roi s’épanouirent comme des roses sous l’influence du vieux vin, et Isfendiar dit à ses compagnons:
 
-> Je me suis écarté de la volonté du roi et me suis égaré de sa voie.
+> Je me suis écarté de la volonté du roi et me suis égaré de sa voie.
 >
-> Il m’a ordonné de m’occuper de l’affaire de Rustem, de ne pas me relâcher du devoir de l’enchaîner et de l’humilier.
+> Il m’a ordonné de m’occuper de l’affaire de Rustem, de ne pas me relâcher du devoir de l’enchaîner et de l’humilier.
 >
 > Je ne l’ai pas fait; je n’ai pas suivi la voie de mon père, car cet homme au cœur de lion et toujours prêt au combat épargne beaucoup de peine aux grands et a maintenu le monde en ordre avec sa lourde massue;
 >
 > Tout le pays d’Iran ne vit que grâce à lui, depuis les rois jusqu’aux esclaves.
 >
-> Il me faut maintenant un envoyé sachant écrire, prudent, sage et attentif, un cavalier glorieux et gracieux, un homme que Rustem ne puisse tromper.
+> Il me faut maintenant un envoyé sachant écrire, prudent, sage et attentif, un cavalier glorieux et gracieux, un homme que Rustem ne puisse tromper.
 >
 > Si Rustem voulait venir auprès de moi, il rendrait joyeuse mon âme sombre;
 >

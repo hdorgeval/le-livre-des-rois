@@ -49,7 +49,7 @@ Il ôta les barres qui fermaient la porte du château, sortit et fit le tour de 
 
 Il ordonna d’attacher tous ses chameaux, ses troupeaux de bétail et de chevaux qui erraient dans les pâturages, de n’en laisser aucun dans la montagne et dans la plaine, de leur faire prendre la route du mont Siped et de les conduire dans le district d’Anbouh.
 
-Ensuite il s’en retourna, referma la porte du château et s’assit sur un rempart escarpé.
+Ensuite il s’en retourna, referma la porte du château et s’assit sur un rempart escarpé.
 
 Lorsque le son des trompettes commença à monter de Djerem jusqu’à lui, et que le monde se couvrit d’une poussière noire comme l’ébène, qui venait du côté de Meyem,
 il aperçut Djerireh du haut du rempart, et son cœur battit de terreur en pensant à cette armée.
@@ -66,11 +66,11 @@ Djerireh lui dit:
 
 > Ô toi qui es toujours prêt pour le combat, puisses-tu ne voir jamais un jour plus malheureux que celui-ci!
 >
-> Il y a dans l’Iran un nouveau roi, qui est ton frère, Keï Khosrou le prudent maître du monde; il connaît bien ton nom et ta parenté, car vous venez du même sang et du même père, de Siawusch, qui était un roi comme la terre n’en a jamais vu, et que le monde ne peut assez célébrer.
+> Il y a dans l’Iran un nouveau roi, qui est ton frère, Keï Khosrou le prudent maître du monde; il connaît bien ton nom et ta parenté, car vous venez du même sang et du même père, de Siawusch, qui était un roi comme la terre n’en a jamais vu, et que le monde ne peut assez célébrer.
 >
 > Piran m’a donnée à lui la première, car il ne voulait s’unir à aucune autre femme du pays de Touran.
 >
-> Ainsi tu es de naissance illustre et royale, du côté du père et de la mère; et quand ton frère entreprend de venger Siawusch et de glorifier ses mânes, il te convient de lui servir d’avant-garde, de saisir tes armes et de combattre.
+> Ainsi tu es de naissance illustre et royale, du côté du père et de la mère; et quand ton frère entreprend de venger Siawusch et de glorifier ses mânes, il te convient de lui servir d’avant-garde, de saisir tes armes et de combattre.
 >
 > Que ta poitrine se couvre donc d’une cuirasse de Roum, que ton cœur se gonfle d’impatience, que ta tête se remplisse d’ardeur!
 >
@@ -112,4 +112,4 @@ Firoud lui répondit:
 
 > Ô ma mère chérie! tes conseils sont le salut de ta famille et de tous ceux qui t’entourent.
 
-Une vedette, qui revenait de son poste, s’approcha de Firoud et lui annonça que l’armée des Iraniens remplissait la plaine, la vallée et la montagne, que le soleil était voilé par la poussière, et qu’on ne voyait que drapeaux, éléphants et hommes de guerre, depuis le défilé qui menait au château jusqu’au bord du Gang.
+Une vedette, qui revenait de son poste, s’approcha de Firoud et lui annonça que l’armée des Iraniens remplissait la plaine, la vallée et la montagne, que le soleil était voilé par la poussière, et qu’on ne voyait que drapeaux, éléphants et hommes de guerre, depuis le défilé qui menait au château jusqu’au bord du Gang.

@@ -36,9 +36,9 @@ Quand la lune fut assise sur son trône d’argent, et quand trois veilles de la
 
 > Guschtasp est roi et sa fortune est victorieuse!
 >
-> Puisse Isfendiar rester toujours jeune, puissent le ciel et la lune et le sort le protéger, lui qui a tranché la tête à Ardjasp pour venger Lohrasp, et a rétabli la majesté et la gloire du trône!
+> Puisse Isfendiar rester toujours jeune, puissent le ciel et la lune et le sort le protéger, lui qui a tranché la tête à Ardjasp pour venger Lohrasp, et a rétabli la majesté et la gloire du trône!
 >
-> Il a precipité du trône le roi des Turcs et l’a jeté sur le sol; il a grandi le nom et le trône de Guschtasp!
+> Il a precipité du trône le roi des Turcs et l’a jeté sur le sol; il a grandi le nom et le trône de Guschtasp!
 
 Toute l’armée des Turcs, en entendant ces cris, prêta l’oreille; le cœur de Kehrem fut assombri par les paroles de la sentinelle, son esprit fut confondu par ses cris, il écouta et dit à Enderiman:
 
@@ -54,7 +54,7 @@ Toute l’armée des Turcs, en entendant ces cris, prêta l’oreille; le cœur 
 >
 > Brisons avec la massue du malheur le crâne de celui qui pousse ces cris funestes et de mauvais augure.
 
-Les cris continuèrent; le cœur de Kehrem était blessé par la voix de la sentinelle, et partout les oreilles des braves furent remplies de ces paroles bruyantes; les Turcs se dirent:
+Les cris continuèrent; le cœur de Kehrem était blessé par la voix de la sentinelle, et partout les oreilles des braves furent remplies de ces paroles bruyantes; les Turcs se dirent:
 
 > Voilà bien du bruit, et cela passe ce qui est permis à une sentinelle; chassons d’abord l’ennemi du palais, ensuite nous détruirons l’armée.
 
@@ -64,17 +64,17 @@ Le cœur de Kehrem se serra de plus en plus par l’effet de cette voix de la se
 
 Les grands de la Chine s’en retournèrent et quittèrent de nuit le champ de bataille.
 
-Isfendiar les suivit, couvert d’une cotte de mailles et portant sa massue à tête de bœuf; et Kehrem, arrivé à la porte du palais, aperçut l’armée des Iraniens derrière lui. Il dit:
+Isfendiar les suivit, couvert d’une cotte de mailles et portant sa massue à tête de bœuf; et Kehrem, arrivé à la porte du palais, aperçut l’armée des Iraniens derrière lui. Il dit:
 
 > Maintenant quel parti nous laisse à prendre le vaillant Isfendiar, si ce n’est de livrer bataille?
 >
 > Tirons tous du fourreau nos épées et chargeons de notre réponse nos poignards.
 
-Mais la Fortune avait ridé son front, et le sort fut dur pour ces grands.
+Mais la Fortune avait ridé son front, et le sort fut dur pour ces grands.
 
 Les deux armées se battirent avec rage, elles s’accablèrent de coups l’une l’autre, jusqu’à ce que l’aube du jour parût et que les grands de la Chine périssent.
 
-Les hommes qu’Isfendiar avait laissés dans le palais du roi accoururent sur les murs et lancèrent au milieu de l’armée la tête tranchée d’Ardjasp, cet ambitieux qui avait versé le sang de Lohrasp, et les Turcs cessèrent de combattre.
+Les hommes qu’Isfendiar avait laissés dans le palais du roi accoururent sur les murs et lancèrent au milieu de l’armée la tête tranchée d’Ardjasp, cet ambitieux qui avait versé le sang de Lohrasp, et les Turcs cessèrent de combattre.
 
 Il s’éleva de leurs rangs un cri immense;
 
@@ -84,9 +84,9 @@ Leur armée reconnut quel était l’auteur de tout ce mal, et sur qui il fallai
 
 > Hélas! le héros, le chef, le Sipehdar, le roi, le vaillant prince!
 >
-> Que celui qui l’a tué soit tué sur le champ de la vengeance, que son heure passe pour toujours!
+> Que celui qui l’a tué soit tué sur le champ de la vengeance, que son heure passe pour toujours!
 >
-> A qui confier maintenant notre existence, à qui remettre le drapeau que nous avons à l’aile droite, puisque le centre n’est plus occupé par le roi?
+> A qui confier maintenant notre existence, à qui remettre le drapeau que nous avons à l’aile droite, puisque le centre n’est plus occupé par le roi?
 >
 > Périsse l’armée, périsse le diadème!
 >
@@ -115,7 +115,7 @@ Il ne survécut pas beaucoup de Turcs et de Chinois, et ceux qui restèrent éta
 
 Tous jetèrent leurs casques et leurs cuirasses, et leurs yeux étaient noyés de larmes.
 
-Ils vinrent en courant auprès d’Isfendiar, leurs yeux brillants de larmes comme le printemps; mais le Sipehdar était sanguinaire et sans pitié, et son armée se réjouit de son humeur cruelle.
+Ils vinrent en courant auprès d’Isfendiar, leurs yeux brillants de larmes comme le printemps; mais le Sipehdar était sanguinaire et sans pitié, et son armée se réjouit de son humeur cruelle.
 
 Il ne fit pardon à aucun des héros, et l’on tua des blessés sans nombre; pas un des grands de la Chine ne survécut, pas un des princes du Touran ne resta en vie.
 
@@ -123,12 +123,12 @@ Ensuite les Iraniens enlevèrent les tentes et leurs enceintes, et abandonnèren
 
 Il fit élever sur la porte du fort deux hauts gibets d’où pendaient des lacets roulés, et fit pendre Enderiman la tête en bas, et attacher son frère à l’autre gibet.
 
-Puis il envoya dehors ses troupes de tous cotés, partout où il y avait la trace d’un endroit habité, et y fit mettre le feu.
+Puis il envoya dehors ses troupes de tous cotés, partout où il y avait la trace d’un endroit habité, et y fit mettre le feu.
 
 On brûla ainsi tout le pays de Touran;
 
 Nulle part ne restait plus un grand, et aucun cavalier ne survécut en Chine et dans le Touran.
 
-Tu aurais dit qu’un nuage noir avait passé et avait fait pleuvoir du feu sur ce champ de bataille.
+Tu aurais dit qu’un nuage noir avait passé et avait fait pleuvoir du feu sur ce champ de bataille.
 
 Quand le prince, qui ambitionnait la possession du monde, vit tout cela, il rassembla les chefs de l’armée et fit apporter du vin.

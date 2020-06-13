@@ -30,13 +30,13 @@ order: '03'
 
 # Keï Khosrou fait le tour de son empire
 
-Lorsque le soleil eut tiré son épée brillante, et que la sombre nuit se fut enfuie de peur, on entendit dans la cour du roi le bruit des trompettes, et les grands se rendirent auprès du roi.
+Lorsque le soleil eut tiré son épée brillante, et que la sombre nuit se fut enfuie de peur, on entendit dans la cour du roi le bruit des trompettes, et les grands se rendirent auprès du roi.
 
 Thous, Gouderz et le vaillant Guiv, Gourguin, Kustehem et Bahram le lion, Rehham et Bijen toujours prêt à frapper, Aschkesch le brave, qui avait acquis de la gloire dans les combats, Feribourz fils de Kaous.
 
 Zengueh le héros victorieux, tous ces nobles allèrent chez le roi, tous entrèrent dans son palais illustre.
 
-Le jeune roi partit pour la chasse, accompagné de Rustem le Pehlewan renommé et d’un cortège qui obscurcissait le soleil et la lune par l’éclat de ses cuirasses, de ses épées, de ses flèches et de ses casques, et ils tuèrent tant de bêtes fauves que la terre en était jonchée de toutes parts comme un champ de bataille.
+Le jeune roi partit pour la chasse, accompagné de Rustem le Pehlewan renommé et d’un cortège qui obscurcissait le soleil et la lune par l’éclat de ses cuirasses, de ses épées, de ses flèches et de ses casques, et ils tuèrent tant de bêtes fauves que la terre en était jonchée de toutes parts comme un champ de bataille.
 
 Il traversa de cette manière tout le pays d’Iran; il traversa les contrées habitées et les terres incultes, et quand il trouvait un pays inhabité et désert par l’effet de l’injustice, il le repeuplait en donnant de l’argent et des trésors, et jamais il ne se lassa de rendre la justice et de prouver sa générosité.
 

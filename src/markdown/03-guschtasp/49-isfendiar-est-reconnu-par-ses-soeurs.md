@@ -15,11 +15,11 @@ order: '49'
 
 # Isfendiar est reconnu par ses soeurs
 
-Quand le soleil brillant eut quitté la voûte du ciel, et que les acheteurs eurent abandonné le marché, les deux sœurs d’Isfendiar sortirent du palais dans la rue en pleurant et portant sur l’épaule des cruches d’eau;
+Quand le soleil brillant eut quitté la voûte du ciel, et que les acheteurs eurent abandonné le marché, les deux sœurs d’Isfendiar sortirent du palais dans la rue en pleurant et portant sur l’épaule des cruches d’eau;
 
 Elles vinrent auprès d’Isfendiar.
 
-Elles vinrent le cœur déchiré et abattu.
+Elles vinrent le cœur déchiré et abattu.
 
 Isfendiar, à ce spectacle, cacha sa figure pour la dérober à ses sœurs. Il tremblait de ce qu’elles allaient faire, et il couvrit ses joues avec les manches de sa robe.
 
@@ -43,7 +43,7 @@ Isfendiar poussa un cri sous sa robe, un cri qui fit trembler de terreur ces deu
 
 Il s’écria:
 
-> Je voudrais qu’Isfendiar n’eût jamais existé, ni ceux qui parlent de lui.
+> Je voudrais qu’Isfendiar n’eût jamais existé, ni ceux qui parlent de lui.
 >
 > Maudit soit Guschtasp, le roi injuste!
 >
@@ -51,9 +51,9 @@ Il s’écria:
 >
 > Ne voyez-vous pas que je viens ici pour trafiquer, que je travaille pour mon pain?
 
-Quand la noble Homaï entendit cette voix, elle la reconnut et son cœur se serra; mais, bien qu’elle eût reconnu la voix de son frère, elle renferma en elle-même son secret, et resta devant lui le cœur blessé et les larmes coulant de ses deux yeux sur ses joues, ses vêtements déchirés, ses deux pieds nus dans la poussière, et son âme remplie de terreur et de crainte d’Ardjasp.
+Quand la noble Homaï entendit cette voix, elle la reconnut et son cœur se serra; mais, bien qu’elle eût reconnu la voix de son frère, elle renferma en elle-même son secret, et resta devant lui le cœur blessé et les larmes coulant de ses deux yeux sur ses joues, ses vêtements déchirés, ses deux pieds nus dans la poussière, et son âme remplie de terreur et de crainte d’Ardjasp.
 
-Le héros à l’âme pure avait aussi vu que Homaï l’avait reconnu: il découvrit rapidement sa figure, les yeux pleins de larmes, le cœur gonflé de sang, le visage brillant comme le soleil.
+Le héros à l’âme pure avait aussi vu que Homaï l’avait reconnu: il découvrit rapidement sa figure, les yeux pleins de larmes, le cœur gonflé de sang, le visage brillant comme le soleil.
 
 Confondu de ce que le sort amenait, il devint pensif et se mordit les lèvres; à la fin il dit à ses sœurs:
 
@@ -71,7 +71,7 @@ Ensuite le généreux prince quitta son magasin, courut auprès d’Ardjasp et l
 >
 > Puisses-tu être le maître du monde et vivre à jamais!
 >
-> J’ai rencontré sur ma route une mer profonde que je ne connaissais pas, de cette mer s’est élevé un vent violent, tel que le pilote disait qu’il ne se rappelait rien de semblable; nous tous dans le vaisseau étions en détresse et en larmes, nous étions grillés comme sur un feu ardent.
+> J’ai rencontré sur ma route une mer profonde que je ne connaissais pas, de cette mer s’est élevé un vent violent, tel que le pilote disait qu’il ne se rappelait rien de semblable; nous tous dans le vaisseau étions en détresse et en larmes, nous étions grillés comme sur un feu ardent.
 >
 > Alors j’ai fait devant Dieu l’unique, le distributeur de la justice, le vœu que si j’arrivais ici en vie, je donnerais une fête dans chaque pays à la tête duquel se trouverait un prince, que j’accorderais tout à ceux qui me demanderaient, que ce fût beaucoup, que ce fût peu, que je comblerais de faveurs les pauvres.
 >
@@ -93,7 +93,7 @@ Ardjasp répondit:
 
 > Mets-toi où tu veux; c’est celui qui donne la fête qui est roi du logis.
 
-Le Pehlewan partit en courant et tout heureux; il fit monter beaucoup de bois sur la terrasse du château, tuer des chevaux et quelques agneaux, et porter tout sur la terrasse: bientôt il s’éleva, du bois qu’on y avait amassé, une fumée qui rendait invisible le ciel.
+Le Pehlewan partit en courant et tout heureux; il fit monter beaucoup de bois sur la terrasse du château, tuer des chevaux et quelques agneaux, et porter tout sur la terrasse: bientôt il s’éleva, du bois qu’on y avait amassé, une fumée qui rendait invisible le ciel.
 
 Alors il fit apporter du vin, et lorsque tout fut bu, les convives tombèrent à la renverse.
 

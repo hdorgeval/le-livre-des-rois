@@ -21,7 +21,7 @@ Quand Rustem arriva à l’enceinte des tentes d’Isfendiar, il resta pendant 
 >
 > Tu étais glorieuse du temps de Keï Kaous, et aux jours de Keï Khosrou, dont le pied laissait une trace fortunée;
 >
-> Mais maintenant le prince indigne qui occupe ton trône a fermé la porte de ta gloire.
+> Mais maintenant le prince indigne qui occupe ton trône a fermé la porte de ta gloire.
 
 Le vaillant Isfendiar entendit ces paroles et s’avança à pied vers le héros illustre, et lui dit:
 
@@ -29,7 +29,7 @@ Le vaillant Isfendiar entendit ces paroles et s’avança à pied vers le héro
 >
 > Faut-il donc que les sages donnent au Zaboulistan le nom du pays des brouillons?
 >
-> Quand un hôte est fatigué du maître de la maison, est-ce qu’il injurie, dans sa colère, le jardinier?
+> Quand un hôte est fatigué du maître de la maison, est-ce qu’il injurie, dans sa colère, le jardinier?
 
 Il ajouta:
 
@@ -43,7 +43,7 @@ Il ajouta:
 >
 > Devant lui se tient l’heureux Isfendiar, qui a rempli de joie la fortune instable, qui a fait revivre le cœur des braves, et a réduit à la servitude les méchants par la terreur de son épée.
 
-Cependant le vaillant Pehlewan avait atteint la porte, Isfendiar le regardait partir, et quand il l’eut quitté, il dit à Beschouten:
+Cependant le vaillant Pehlewan avait atteint la porte, Isfendiar le regardait partir, et quand il l’eut quitté, il dit à Beschouten:
 
 > Il ne faut pas nier la bravoure et la valeur des autres.
 >
@@ -53,19 +53,19 @@ Cependant le vaillant Pehlewan avait atteint la porte, Isfendiar le regardait pa
 >
 > Il est encore plus grand par sa noblesse et sa grâce que par sa stature, mais je crains que demain il ne fasse une chute.
 >
-> Mon cœur est ému de la majesté de ses traits, mais je ne dévierai pas des ordres du maître de la justice, et quand il se présentera demain sur le champ de bataille, je rendrai noir devant lui le jour brillant.
+> Mon cœur est ému de la majesté de ses traits, mais je ne dévierai pas des ordres du maître de la justice, et quand il se présentera demain sur le champ de bataille, je rendrai noir devant lui le jour brillant.
 
 Beschouten répondit:
 
-> Écoute-moi, mon frère, quand je te prie de t’abstenir.
+> écoute-moi, mon frère, quand je te prie de t’abstenir.
 >
 > Je te l’ai déjà dit, et je le répète, car je ne puis dépouiller mon cœur de sa droiture, n’humilie personne, car un homme libre ne se soumet pas à l’humiliation et à la douleur.
 >
 > Dors cette nuit, et demain de grand matin va sans escorte dans son palais où nous serons heureux pendant un jour, où nous répondrons à toutes les questions qui nous seront faites.
 >
-> Le monde entier a prospéré par Rustem, parmi les petits et parmi les grands;
+> Le monde entier a prospéré par Rustem, parmi les petits et parmi les grands;
 >
-> Jamais il ne voudra se soustraire à tes ordres, et je vois que son cœur est plein de loyauté envers toi.
+> Jamais il ne voudra se soustraire à tes ordres, et je vois que son cœur est plein de loyauté envers toi.
 >
 > Pourquoi le combats-tu avec haine et colère?
 >
@@ -81,17 +81,17 @@ Ensuite il ajouta:
 >
 > Toi qui est le Destour de l’Iran, qui es le cœur, l’oreille et l’œil des héros, tu approuves donc cette voie, cette prudence et cette manière de blesser le roi?
 >
-> Toutes mes peines et tous mes soucis seraient devenus du vent, et la religion de Zerdouscht aurait perdu sa vérité?
+> Toutes mes peines et tous mes soucis seraient devenus du vent, et la religion de Zerdouscht aurait perdu sa vérité?
 >
 > Car elle dit que quiconque désobéit au roi aura sa place dans l’enfer.
 >
-> Tu m’exhortes sans cesse à commettre ce péché, à mépriser les paroles de Guschtasp.
+> Tu m’exhortes sans cesse à commettre ce péché, à mépriser les paroles de Guschtasp.
 >
-> C’est là ce que tu me dis; mais comment le ferais-je, pourquoi résisterais-je à son avis et à son ordre?
+> C’est là ce que tu me dis; mais comment le ferais-je, pourquoi résisterais-je à son avis et à son ordre?
 >
 > Si tu crains pour ma vie, je vais à l’instant te rassurer;
 >
-> Car sache que personne ne meurt dans le monde sans la volonté du destin, et que celui-là ne meurt pas qui emporte avec lui une grande gloire.
+> Car sache que personne ne meurt dans le monde sans la volonté du destin, et que celui-là ne meurt pas qui emporte avec lui une grande gloire.
 >
 > Tu verras demain ce que je ferai sur le champ de bataille contre les griffes du dragon.
 
@@ -101,14 +101,14 @@ Beschouten lui dit:
 >
 > Avant que tu fusses venu ici avec ta massue et ton arc, Iblis n’avait pas tant de pouvoir sur toi;
 >
-> Mais maintenant tu as livré ton âme au Div et tu ne veux plus écouter les conseils de ton guide.
+> Mais maintenant tu as livré ton âme au Div et tu ne veux plus écouter les conseils de ton guide.
 >
-> Je vois ton cœur follement attaché à ce combat, et je déchire les vêtements sur mon corps;
+> Je vois ton cœur follement attaché à ce combat, et je déchire les vêtements sur mon corps;
 >
 > Comment pourrais-je délivrer tout d’un coup mon âme de ses craintes?
 >
 > Vous êtes deux braves, deux lions, deux héros, sais-je lequel de vous succombera?
 
-Le prince ne lui répondit plus: son cœur était blessé, sa tête pleine de vent.
+Le prince ne lui répondit plus: son cœur était blessé, sa tête pleine de vent.
 
 [^1]: Zerdouscht = Zoroastre

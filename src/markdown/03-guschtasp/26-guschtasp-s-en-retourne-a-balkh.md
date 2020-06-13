@@ -48,19 +48,19 @@ Il confia à Nestour une armée composée de cent mille hommes, tous de vaillan
 
 Il ordonna qu’on pourvût Nestour de tout ce qui lui était nécessaire et de tout ce qui pouvait lui être utile.
 
-Nestour partit à l’instant avec ses troupes, et le roi, s’étant assis sur son trône et ayant placé sur sa tète la couronne des Keïanides, donna accès à toute son armée: il ouvrit les portes de son trésor et distribua à tous ses guerriers des ornements précieux.
+Nestour partit à l’instant avec ses troupes, et le roi, s’étant assis sur son trône et ayant placé sur sa tète la couronne des Keïanides, donna accès à toute son armée: il ouvrit les portes de son trésor et distribua à tous ses guerriers des ornements précieux.
 
-Ensuite il donna aux chefs le commandement des villes et ne laissa passer personne sans lui avoir accordé quelque chose: ceux étaient dignes de gouverner un royaume, il leur en confia un; ceux qui avaient mérité́ des dignités, il les éleva aux dignités, et ayant ainsi récompensé chacun selon son mérite, il les renvoya tous dans leurs demeures.
+Ensuite il donna aux chefs le commandement des villes et ne laissa passer personne sans lui avoir accordé quelque chose: ceux étaient dignes de gouverner un royaume, il leur en confia un; ceux qui avaient mérité́ des dignités, il les éleva aux dignités, et ayant ainsi récompensé chacun selon son mérite, il les renvoya tous dans leurs demeures.
 
-Plus tard il se dirigea vers son trône et défendit l’entrée à la cour; il s’assit sur le trône impérial et fit construire un temple de feu pour y brûler du bois d’aloès indien; on y fit un pavé d’or pur, toute la charpente était en bois d’aloès, et l’on répandit sur le sol de l’ambre gris.
+Plus tard il se dirigea vers son trône et défendit l’entrée à la cour; il s’assit sur le trône impérial et fit construire un temple de feu pour y brûler du bois d’aloès indien; on y fit un pavé d’or pur, toute la charpente était en bois d’aloès, et l’on répandit sur le sol de l’ambre gris.
 
 Il fit exécuter tout selon les règles et les proportions, donna à cet édifice le nom de la maison de Guschtasp, fit écrire ce nom au-dessus de la porte du sanctuaire, et y établit Djamasp comme Mobed.
 
 Ensuite il adressa une lettre à tous ses gouverneurs, dans laquelle il dit:
 
-> Le Seigneur ne nous a pas laissé avilir; il a converti en jours nos nuits devenues sombres, il a rendu victorieux les Keïanides en tout lieu.
+> Le Seigneur ne nous a pas laissé avilir; il a converti en jours nos nuits devenues sombres, il a rendu victorieux les Keïanides en tout lieu.
 >
-> Ardjasp est parti accablé de malédictions, et nous sommes couverts de bénédictions;
+> Ardjasp est parti accablé de malédictions, et nous sommes couverts de bénédictions;
 >
 > Qui aurait pu faire cela, si ce n’est le Créateur du monde?
 >

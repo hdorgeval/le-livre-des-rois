@@ -10,17 +10,17 @@ order: '21'
 
 # Isfendiar apprend la mort de Zerir
 
-Cependant Isfendiar apprit que ce fils de roi, ce héros, était tué, que son père en périssait de douleur, et qu’il voulait venger cette mort lui-même.
+Cependant Isfendiar apprit que ce fils de roi, ce héros, était tué, que son père en périssait de douleur, et qu’il voulait venger cette mort lui-même.
 
 Le héros illustre se tordit les mains, disant:
 
 > Que nous tient donc en réserve notre mauvaise fortune?
 >
-> Chaque jour, quand j’ai vu Zerir au milieu de la bataille, j’ai tremblé devant ce sort;
+> Chaque jour, quand j’ai vu Zerir au milieu de la bataille, j’ai tremblé devant ce sort;
 >
-> hélas! ce cavalier, ce héros, ce prince à qui le sort a enlevé sa couronne de la tête!
+> hélas! ce cavalier, ce héros, ce prince à qui le sort a enlevé sa couronne de la tête!
 >
-> Qui est-ce qui a tué un pareil éléphant de guerre, qui a arraché du sol cette montagne de fer?
+> Qui est-ce qui a tué un pareil éléphant de guerre, qui a arraché du sol cette montagne de fer?
 
 Il remit à l’un de ses frères son drapeau, son armée et son poste, et se porta en avant: il se rendit au centre de l’armée, où il revêtit son armure de combat, et prit dans sa main le drapeau impérial.
 
@@ -34,7 +34,7 @@ Il se plaça au centre de l’armée, au poste de Zerir, il se plaça au centre 
 >
 > Sachez, ô rois, que voici le jour ou l’on distinguera entre la bonne et la mauvaise doctrine.
 >
-> Gardez-vous de craindre la mort ou autre chose, car personne ne meurt qu’au moment assigné, et si la fortune d’un homme doit changer, qu’y a-t-il de mieux que de mourir sur le champ de bataille?
+> Gardez-vous de craindre la mort ou autre chose, car personne ne meurt qu’au moment assigné, et si la fortune d’un homme doit changer, qu’y a-t-il de mieux que de mourir sur le champ de bataille?
 >
 > Ne faites pas attention aux morts, ne cherchez pas de secours, ne comptez pour rien vos tètes.
 >

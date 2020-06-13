@@ -43,45 +43,45 @@ Ils se dirent:
 >
 > Si un éléphant terrible le combattait, on ne pourrait que désespérer de l’éléphant.
 >
-> Le roi est insensé de livrer ainsi à la mort un héros glorieux tel qu’Isfendiar, un prince beau comme la lune, pour garder sa couronne et son trône;
+> Le roi est insensé de livrer ainsi à la mort un héros glorieux tel qu’Isfendiar, un prince beau comme la lune, pour garder sa couronne et son trône;
 >
 > Plus il vieillit, plus il devient avide de trésors, plus il tient au sceau et au diadème.
 
-Lorsque Rustem fut arrivé près de la tente d’Isfendiar, le prince sortit pour aller au-devant de lui, et Rustem lui dit:
+Lorsque Rustem fut arrivé près de la tente d’Isfendiar, le prince sortit pour aller au-devant de lui, et Rustem lui dit:
 
-> Ô Pehlewan, ô fortuné jeune homme, qui introduis des formes et des manières nouvelles ! l’hôte que tu avais invité ne valait donc pas un message? tel était pourtant l’engagement qui a duré si peu.
+> Ô Pehlewan, ô fortuné jeune homme, qui introduis des formes et des manières nouvelles ! l’hôte que tu avais invité ne valait donc pas un message? tel était pourtant l’engagement qui a duré si peu.
 >
 > Fais attention à mes paroles, ne te mets pas follement en colère contre un vieillard.
 >
 > Tu as une bien haute opinion de toi-même, et tu agis rudement envers nous autres grands;
 >
-> Tu fais peu de cas de ma bravoure, tu me tiens pour faible de volonté et d’esprit;
+> Tu fais peu de cas de ma bravoure, tu me tiens pour faible de volonté et d’esprit;
 >
 > Mais sache que le monde me connaît comme Rustem, que c’est moi qui ai rendu brillant le trône de Neriman, que le Div noir se mord la main à cause de moi, et que je précipite de leurs trônes les chefs des magiciens.
 >
-> Les grands qui ont aperçu ma cuirasse en peau de léopard et le lion rugissant sur lequel je suis monté se sont tous enfuis sans combat et ont couvert la plaine de flèches et d’arcs abandonnés, comme Kamous le guerrier et le Khakan de la Chine, des cavaliers vaillants et de grands guerriers que j’ai arrachés de leurs chevaux avec le nœud de mon lacet, que j’ai entourés de liens de la tête aux pieds.
+> Les grands qui ont aperçu ma cuirasse en peau de léopard et le lion rugissant sur lequel je suis monté se sont tous enfuis sans combat et ont couvert la plaine de flèches et d’arcs abandonnés, comme Kamous le guerrier et le Khakan de la Chine, des cavaliers vaillants et de grands guerriers que j’ai arrachés de leurs chevaux avec le nœud de mon lacet, que j’ai entourés de liens de la tête aux pieds.
 >
 > Je suis le protecteur des rois de l’Iran et le soutien des braves en tout lieu.
 >
-> Ma prière humble t’a exalté, mais ne crois pas être plus puissant que le ciel.
+> Ma prière humble t’a exalté, mais ne crois pas être plus puissant que le ciel.
 >
-> C’est à cause de ta dignité royale et de ta couronne que je cherche à me conformer à tes volontés, à rester loyal envers toi, et que je désire qu’un prince comme Isfendiar ne périsse pas de ma main au jour du combat.
+> C’est à cause de ta dignité royale et de ta couronne que je cherche à me conformer à tes volontés, à rester loyal envers toi, et que je désire qu’un prince comme Isfendiar ne périsse pas de ma main au jour du combat.
 >
 > Certes, Sam le héros, devant lequel les lions s’enfuyaient de la forêt, était un brave, et maintenant je rappelle au monde son souvenir : aucun lion n’ose se présenter devant moi.
 >
-> Je suis depuis longtemps le Pehlewan du monde, et jamais je n’ai passé un jour à faire du mal;
+> Je suis depuis longtemps le Pehlewan du monde, et jamais je n’ai passé un jour à faire du mal;
 >
-> J’ai puriflé la terre de nos ennemis, j’ai supporté bien des fatigues et des soucis.
+> J’ai puriflé la terre de nos ennemis, j’ai supporté bien des fatigues et des soucis.
 >
-> Je rends grâce à Dieu de ce que, dans ma vieillesse, je vois un rejeton fortuné de l’arbre royal, mon égal, qui combattra les hommes d’une croyance impure, et auquel l’univers rendra hommage.
+> Je rends grâce à Dieu de ce que, dans ma vieillesse, je vois un rejeton fortuné de l’arbre royal, mon égal, qui combattra les hommes d’une croyance impure, et auquel l’univers rendra hommage.
 
 Isfendiar sourit à Rustem et dit:
 
-> Ô petit-fils de Sam le cavalier, tu as été mécontent de ce qu’il n’est pas arrivé de message, c’est ce que j’ai voulu, et je m’en glorifie; car le jour était si chaud et la route est si longue que je n’ai pas voulu te fatiguer: ne prends pas cela en mal.
+> Ô petit-fils de Sam le cavalier, tu as été mécontent de ce qu’il n’est pas arrivé de message, c’est ce que j’ai voulu, et je m’en glorifie; car le jour était si chaud et la route est si longue que je n’ai pas voulu te fatiguer: ne prends pas cela en mal.
 >
 > Dès ce matin je disais que je ferais cette route pour m’excuser auprès de toi, me réjouir de la vue de Destan, et me livrer une fois à la joie.
 >
-> Maintenant que tu as pris sur toi cette fatigue, que tu as quitté ton palais et es arrivé dans le désert, repose-toi, assieds-toi, prends la coupe, et ne te fais pas une réputation de colère et d’emportement.
+> Maintenant que tu as pris sur toi cette fatigue, que tu as quitté ton palais et es arrivé dans le désert, repose-toi, assieds-toi, prends la coupe, et ne te fais pas une réputation de colère et d’emportement.
 
 Il lui fit une place à sa gauche, c’est ainsi qu’il voulait lui faire les honneurs de l’assemblée!
 

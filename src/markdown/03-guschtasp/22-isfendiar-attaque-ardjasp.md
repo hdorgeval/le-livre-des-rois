@@ -27,11 +27,11 @@ order: '22'
 
 # Isfendiar attaque Ardjasp
 
-Quand Isfendiar, le héros au corps d’éléphant, le maître de la prudence, l’homme doué d’une force terrible, entendit ces cris de son père, il baissa la tête, navré de douleur;
+Quand Isfendiar, le héros au corps d’éléphant, le maître de la prudence, l’homme doué d’une force terrible, entendit ces cris de son père, il baissa la tête, navré de douleur;
 
-il s’avança, la lance au poing, la tête courbée de honte pour son père, monté sur un puissant destrier couleur de cendre, furieux comme un Div qui vient de s’échapper de ses liens, se jeta sur l’armée ennemie comme un ouragan qui tombe sur des feuilles de roses, et tua des Turcs et coupa des têtes, tellement qu’en le voyant chacun reculait devant lui.
+il s’avança, la lance au poing, la tête courbée de honte pour son père, monté sur un puissant destrier couleur de cendre, furieux comme un Div qui vient de s’échapper de ses liens, se jeta sur l’armée ennemie comme un ouragan qui tombe sur des feuilles de roses, et tua des Turcs et coupa des têtes, tellement qu’en le voyant chacun reculait devant lui.
 
-Nestour, le fils de Zerir, le cavalier, sortit de sa tente, se dirigea vers le gardien des chevaux de son père, et lui demanda un cheval reposé, bon coureur, un destrier bondissant, rassasié d’orge;
+Nestour, le fils de Zerir, le cavalier, sortit de sa tente, se dirigea vers le gardien des chevaux de son père, et lui demanda un cheval reposé, bon coureur, un destrier bondissant, rassasié d’orge;
 
 il plaça sur le dos du cheval une selle d’or, le brida, le caparaçonna, et attacha au crochet de la selle son lacet de Keïanide;
 
@@ -41,31 +41,31 @@ il chevaucha ainsi jusqu’au champ de bataille, et chercha un chemin pour parve
 
 Il se hâta et pressa le pas de son destrier; il se livra à la vengeance et tua des ennemis; à chaque Perse qu’il rencontra sur son chemin il demanda où il trouverait le héros de l’armée, disant:
 
-> Où est tombé Zerir, mon père, le vaillant cavalier?
+> Où est tombé Zerir, mon père, le vaillant cavalier?
 
 Il y avait un homme dont le nom était Ardeschir, un cavalier généreux, un héros, un lion; le jeune prince lui demanda le chemin vers le corps de son père, et le héros le lui indiqua, disant:
 
-> Il est tombé au centre de l’armée, près de ce drapeau noir;
+> Il est tombé au centre de l’armée, près de ce drapeau noir;
 >
 > vas-y sans délai, car c’est là qu’il gît, et il se peut que tu le revoies encore une fois.
 
-Le prince lança son cheval, tua des Turcs, poussa des cris de douleur et suivit les traces de son père, jusqu’à ce qu’il fût arrivé auprès de lui.
+Le prince lança son cheval, tua des Turcs, poussa des cris de douleur et suivit les traces de son père, jusqu’à ce qu’il fût arrivé auprès de lui.
 
 Lorsqu’il vit Zerir mort et gisant sur le sol, et qu’il fut assez près pour voir son visage, ses yeux s’obscurcirent, le cœur lui manqua, il perdit la raison et se jeta du haut de son cheval par terre et sur le corps de son père, s’écriant:
 
-> Ô toi, ma lune brillante, flambeau de mon cœur, de mes yeux et de mon âme, toi qui m’as élevé avec tant de peine et de soins, maintenant que tu es parti, à qui me confies-tu?
+> Ô toi, ma lune brillante, flambeau de mon cœur, de mes yeux et de mon âme, toi qui m’as élevé avec tant de peine et de soins, maintenant que tu es parti, à qui me confies-tu?
 >
-> Depuis que le roi Lohrasp t’a donné le commandement de l’armée et à Guschtasp le trône et le diadème, tu as dirigé l’armée et gouverné les provinces, tu as appelé la guerre de tous tes vœux.
+> Depuis que le roi Lohrasp t’a donné le commandement de l’armée et à Guschtasp le trône et le diadème, tu as dirigé l’armée et gouverné les provinces, tu as appelé la guerre de tous tes vœux.
 >
-> Le monde a célébré ton nom selon tes désirs, mais tu es mort avant d’avoir fait ce que tu voulais.
+> Le monde a célébré ton nom selon tes désirs, mais tu es mort avant d’avoir fait ce que tu voulais.
 >
-> Je vais aller auprès de ton frère, le roi fortuné, et lui dire:
+> Je vais aller auprès de ton frère, le roi fortuné, et lui dire:
 >
-> > Descends de ton beau trône, car mon père n’a pas mérité de ta part cette indifférence; va, et tire vengeance de tes ennemis!
+> > Descends de ton beau trône, car mon père n’a pas mérité de ta part cette indifférence; va, et tire vengeance de tes ennemis!
 
 Il demeura longtemps en cet état, ensuite il remonta sur son destrier et se rendit en poussant des cris auprès du roi, qui était assis sur la hauteur, au-dessus du champ de bataille; il lui dit:
 
-> Ô roi bienveillant, va et demande vengeance de la mort de mon père; mon seigneur est tombé, et sa barbe noire parfumée de musc repose sur la poussière sèche.
+> Ô roi bienveillant, va et demande vengeance de la mort de mon père; mon seigneur est tombé, et sa barbe noire parfumée de musc repose sur la poussière sèche.
 
 Lorsque Nestour eut dit ces paroles au roi, le jour brillant devint noir devant les yeux de Guschtasp, le monde devint sombre devant le maître du monde, et son corps de héros se rapetissa. Il s’écria:
 

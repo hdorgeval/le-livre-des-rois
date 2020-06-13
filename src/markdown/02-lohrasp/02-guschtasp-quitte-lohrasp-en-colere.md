@@ -89,7 +89,7 @@ Il appela les plus sages de son armée et leur exposa l’état des choses, ajou
 
 > Voyez ce que Guschtasp a fait: il a rempli mon cœur de soucis et couvert ma tête de poussière. Je l’ai élevé́ jusqu’à ce qu’il fut grand et fut devenu un héros sans égal dans le monde; mais au moment où je me disais qu’il allait porter fruit, il disparait de mon jardin.
 
-Il dit, et resta longtemps absorbé dans ses pensées; à la fin il fit venir Zerir et lui parla ainsi:
+Il dit, et resta longtemps absorbé dans ses pensées; à la fin il fit venir Zerir et lui parla ainsi:
 
 > Choisis mille hommes dans l’armée, des cavaliers vaillants et prêts au combat, et marche en toute hâte du côté de l’ Inde, et, s’il le faut, dans le pays des magiciens.
 

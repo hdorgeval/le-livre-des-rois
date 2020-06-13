@@ -34,7 +34,7 @@ Quand la nuit fut devenue plus sombre, Isfendiar revêtit son armure de combat;
 
 Il ouvrit les couvercles de ses caisses pour que l’air frais arrivât à ses compagnons enfermés, et apporta du vin et de la viande rôtie et bouillie, des armes de guerre et des vêtements.
 
-Quand ils eurent mangé du pain, il donna à chacun trois coupes de vin, et ils s’en réjouirent.
+Quand ils eurent mangé du pain, il donna à chacun trois coupes de vin, et ils s’en réjouirent.
 
 Il leur dit:
 
@@ -54,7 +54,7 @@ Quand Isfendiar s’approcha, il vit ces deux femmes voilées, semblables au pri
 
 Le héros au cœur de lion dit à ses sœurs:
 
-> Courez rapidement comme la fumée, d’ici à̀ l’endroit où j’ai tenu mon marché; il y a beaucoup d’or et d’argent, et mon chemin m’y conduit; restez-y jusqu’à ce que vous voyiez si nous livrons dans ce combat nos têtes à la mort, ou si nous conquérons un diadème.
+> Courez rapidement comme la fumée, d’ici à̀ l’endroit où j’ai tenu mon marché; il y a beaucoup d’or et d’argent, et mon chemin m’y conduit; restez-y jusqu’à ce que vous voyiez si nous livrons dans ce combat nos têtes à la mort, ou si nous conquérons un diadème.
 
 Il détourna d’elles ses yeux et marcha vers le palais d’Ardjasp, avide de vengeance; il marcha une épée indienne en main, et quand il trouvait sur son chemin un brave il le tuait.
 
@@ -62,15 +62,15 @@ Toute la cour du palais fut bientôt dans un état tel qu’on ne pouvait passer
 
 Quand Ardjasp se réveilla de son sommeil, son cœur trembla du tumulte qu’on entendait; il s’élança de sa chambre à coucher, revêtit une cotte de mailles et se couvrit d’un casque de Roum.
 
-Sa main tenait une épée brillante, sa bouche poussait des cris, son cœur était gonflé de sang;
+Sa main tenait une épée brillante, sa bouche poussait des cris, son cœur était gonflé de sang;
 
 lorsque Isfendiar franchit la porte en bondissant, une épée étincelante en main, et lui dit :
 
 > Maintenant tu vas recevoir de ce marchand une épée qui vaut des dinars!
 >
-> Je t’apporte un présent de Lohrasp, scellé du sceau de Guschtasp.
+> Je t’apporte un présent de Lohrasp, scellé du sceau de Guschtasp.
 
-Ardjasp et Isfendiar s’attaquèrent et se combattirent avec une fureur sans mesure; ils se frappèrent de l’épée et du poignard, tantôt sur les reins, tantôt sur la tête; mais à la fin Ardjasp fut affaibli par les coups de son ennemi; on ne voyait plus sur son corps aucun endroit qui ne fût blessé : le héros tomba, et Isfendiar lui trancha la tête.
+Ardjasp et Isfendiar s’attaquèrent et se combattirent avec une fureur sans mesure; ils se frappèrent de l’épée et du poignard, tantôt sur les reins, tantôt sur la tête; mais à la fin Ardjasp fut affaibli par les coups de son ennemi; on ne voyait plus sur son corps aucun endroit qui ne fût blessé : le héros tomba, et Isfendiar lui trancha la tête.
 
 C’est ainsi qu’agit la fortune qui tourne; tantôt elle nous donne
 du miel, tantôt du poison.
@@ -87,7 +87,7 @@ Il fit seller des chevaux arabes qu’il choisit, il fit monter dessus ses deux 
 
 Il partit de ce lieu avec cent soixante hommes, des cavaliers d’élite au jour du combat, et laissa quelques Iraniens illustres dans le château avec le noble Saweh, en leur disant:
 
-> Quand j’aurai quitté la forteresse, quand je serai dans la plaine avec les grands, vous fermerez la porte du palais contre les Turcs, car j’espère que la fortune sera mon soutien.
+> Quand j’aurai quitté la forteresse, quand je serai dans la plaine avec les grands, vous fermerez la porte du palais contre les Turcs, car j’espère que la fortune sera mon soutien.
 >
 > Quand vous croirez que j’aurai atteint ma noble armée, alors il faut que vos sentinelles fassent entendre dans leurs tourelles ce cri:
 >

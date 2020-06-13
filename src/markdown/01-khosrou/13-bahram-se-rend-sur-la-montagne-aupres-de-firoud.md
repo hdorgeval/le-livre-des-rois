@@ -76,9 +76,9 @@ Lorsque Bahram fut près du sommet, il éleva sa voix qui ressemblait au tonnerr
 
 Firoud lui répondit:
 
-> Ne médite pas des affronts, car tu n’en as pas essuyé.
+> Ne médite pas des affronts, car tu n’en as pas essuyé.
 >
-> Parle doucement, ô homme expérimenté! et ne blesse pas tes lèvres par des paroles glacées.
+> Parle doucement, ô homme expérimenté! et ne blesse pas tes lèvres par des paroles glacées.
 >
 > Tu n’es pas un lion irrésistible, et je ne suis pas un onagre du désert; n’essaye donc pas de nous traiter ainsi avec mépris.
 >
@@ -98,17 +98,17 @@ Firoud lui demanda qui était le chef de cette armée, et qui il venait combattr
 
 Firoud lui dit alors:
 
-> Pourquoi n’as-tu pas nommé Bahram?
+> Pourquoi n’as-tu pas nommé Bahram?
 >
 > Pourquoi as-tu commis l’inconvenance de l’omettre?
 >
-> C’est de tous les fils de Gouderz celui que nous verrions avec le plus de plaisir; pourquoi n’as-tu pas prononcé son nom?
+> C’est de tous les fils de Gouderz celui que nous verrions avec le plus de plaisir; pourquoi n’as-tu pas prononcé son nom?
 
 Bahram répondit:
 
 > Ô homme au cœur de lion!
 >
-> Qui t’a parlé si honorablement de Bahram?
+> Qui t’a parlé si honorablement de Bahram?
 >
 > Qui t’a fait connaître Gouderz et Guiv?
 >
@@ -116,7 +116,7 @@ Bahram répondit:
 
 Firoud lui répliqua:
 
-> C’est ma mère qui m’en a parlé, et qui m’a dit que si une armée se présentait, je devais aller au-devant d’elle et m’informer si Bahram y était; que lui et un autre héros d’entre les grands, dont le nom est Zengueh fils de Schaweran, sont frères de lait de mon père, et que je devais demander de leurs nouvelles.
+> C’est ma mère qui m’en a parlé, et qui m’a dit que si une armée se présentait, je devais aller au-devant d’elle et m’informer si Bahram y était; que lui et un autre héros d’entre les grands, dont le nom est Zengueh fils de Schaweran, sont frères de lait de mon père, et que je devais demander de leurs nouvelles.
 
 Bahram dit:
 
@@ -134,7 +134,7 @@ Bahram lui dit:
 
 Firoud montra à Bahram son bras, sur lequel on voyait une marque brune comme une tache d’ambre sur une rose, et telle qu’aucun peintre dans le monde n’aurait pu l’imiter à l’aide d’un compas chinois.
 
-Bahram alors fut assuré que Firoud était de la famille de Kobad et de Siawusch, et lui rendit hommage en se prosternant contre terre; ensuite il monta sur la crête escarpée de la montagne.
+Bahram alors fut assuré que Firoud était de la famille de Kobad et de Siawusch, et lui rendit hommage en se prosternant contre terre; ensuite il monta sur la crête escarpée de la montagne.
 
 Le jeune prince descendit de cheval, s’assit sur le roc, l’âme en joie, et dit à Bahram:
 
@@ -144,11 +144,11 @@ Le jeune prince descendit de cheval, s’assit sur le roc, l’âme en joie, et 
 >
 > Je vais apprêter une fête aussi belle que je pourrai; je contemplerai avec transport le visage du Pehlewan; je distribuerai des chevaux sans nombre et des épées, des massues, des ceintures et tout ce que j’ai;
 >
-> Ensuite je partirai fièrement à la tête de l’armée pour le Touran, car mon cœur blessé a soif de vengeance; et je suis digne de la chercher, car dans la bataille, et assis sur mon cheval, je suis une flamme dévorante.
+> Ensuite je partirai fièrement à la tête de l’armée pour le Touran, car mon cœur blessé a soif de vengeance; et je suis digne de la chercher, car dans la bataille, et assis sur mon cheval, je suis une flamme dévorante.
 >
 > Veux-tu prier le Pehlewan de me faire la grâce de venir me voir sur ma montagne?
 >
-> Nous y passerons sept jours à parler de toutes choses, grandes et petites; et le huitième, le Sipehdar Thous montera à cheval, lorsque les timbales se feront entendre, je me ceindrai pour venger mon père, je livrerai, dans la douleur de mon cœur, des combats qui feront connaître le lion des batailles, qui montreront ce que peuvent ses flèches empennées de plumes d’aigle, car jamais brave n’a été aussi déterminé à se venger.
+> Nous y passerons sept jours à parler de toutes choses, grandes et petites; et le huitième, le Sipehdar Thous montera à cheval, lorsque les timbales se feront entendre, je me ceindrai pour venger mon père, je livrerai, dans la douleur de mon cœur, des combats qui feront connaître le lion des batailles, qui montreront ce que peuvent ses flèches empennées de plumes d’aigle, car jamais brave n’a été aussi déterminé à se venger.
 
 Bahram lui répondit:
 
