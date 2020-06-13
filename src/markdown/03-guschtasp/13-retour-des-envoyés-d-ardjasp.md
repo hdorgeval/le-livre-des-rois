@@ -42,7 +42,7 @@ Le roi de la terre, ayant terminé son discours, fit appeler Siyah-Pil et lui co
 
 > Emmène-les et conduis-les hors de l’Iran et au delà de nos frontières.
 
-Les envoyés du Sipehdar de la Chine quittèrent le maître du monde, roi de la terre, humiliés, renvoyés et traités avec mépris par Guschtasp.
+Les envoyés du Sipehdar de la Chine quittèrent le maître du monde, roi de la terre, humiliés, renvoyés et traités avec mépris par Guschtasp.
 
 Ils se rendirent de la ville fortunée de Balkh à Khallakh, mais ils n’y furent pas fortunés.
 
@@ -54,7 +54,7 @@ Il fit convoquer ses scribes et les hommes jeunes et vieux du Touran, et ordonna
 
 Un scribe ouvrit la lettre et la lut à ce roi de race turque.
 
-Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du vaillant cavalier, de Guschtasp fils de Lohrasp, du maître du monde, digne du trône:
+Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du vaillant cavalier, de Guschtasp fils de Lohrasp, du maître du monde, digne du trône:
 
 > Dieu a envoyé auprès de moi un prophète, devant lequel tous les grands se tiennent debout comme des esclaves, et qui te fait dire:
 >

@@ -55,7 +55,7 @@ Lorsque les troupes aperçurent Guschtasp, le fils orgueilleux de Lohrasp, elle
 
 Tous se prosternèrent devant lui , joyeux de ce que leurs peines, qui avaient duré si longtemps , étaient terminées.
 
-Aussitôt qu’il fut près de Zerir, il mit pied à terre, las de ces luttes; il le serra dans ses bras comme un frère aîné et, aussitôt qu’il put parler, il se mit à lui faire des questions.
+Aussitôt qu’il fut près de Zerir, il mit pied à terre, las de ces luttes; il le serra dans ses bras comme un frère aîné et, aussitôt qu’il put parler, il se mit à lui faire des questions.
 
 Ils s’assirent sur le trône, entourés des grands, des puissants et des héros de l’lran.
 
@@ -71,7 +71,7 @@ Alors Zerir lui fit apporter la magnifique couronne impériale, les bracelets, u
 
 Lorsque Guschtasp vit le trône de son père, il monta dessus, le cœur joyeux, et plaça sur sa tète la couronne.
 
-Les petits-fils de Keï Kaous, qui avait été le maître du monde, tous les descendants fortunés de Gouderz, tels que Bahram, Schapour et Rivniz, tous ceux qui avaient une distinction quelconque, lui rendirent hommage comme à leur roi et l’appelèrent roi de la terre, et tous les hommes de guerre se tinrent debout devant lui dans leurs armures.
+Les petits-fils de Keï Kaous, qui avait été le maître du monde, tous les descendants fortunés de Gouderz, tels que Bahram, Schapour et Rivniz, tous ceux qui avaient une distinction quelconque, lui rendirent hommage comme à leur roi et l’appelèrent roi de la terre, et tous les hommes de guerre se tinrent debout devant lui dans leurs armures.
 
 Quand Guschtasp vit ces bonnes dispositions, cette détermination et cet accomplissement de ses désirs, il envoya au Kaisar un message et lui fit dire :
 

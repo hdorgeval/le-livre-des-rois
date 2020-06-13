@@ -119,6 +119,6 @@ Isfendiar fit venir Bahman devant lui et lui parla longuement, disant:
 > >
 > > Pesez tous mes conseils l’un après l’autre, cédez à mes bonnes paroles; car il ne faut pas que votre palais devienne désert et soit la proie des braves de l’Iran.
 > >
-> > Quand je t’aurai conduit enchaîné devant le roi, quand je lui aurai exposé tes nombreuses fautes, je me placerai devant lui humblement, et j’apaiserai sa colère et son désir de vengeance:
+> > Quand je t’aurai conduit enchaîné devant le roi, quand je lui aurai exposé tes nombreuses fautes, je me placerai devant lui humblement, et j’apaiserai sa colère et son désir de vengeance:
 > >
 > > je ne souffrirai pas que même un souffle de vent te touche, comme il convient à un homme de ma naissance.

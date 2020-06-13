@@ -44,7 +44,7 @@ Ils crurent que cet événement les regardait & formèrent la résolution de fai
 
 Il y avait alors un Prince nommé Douranseroun, qui était le Chef des Magiciens, & le Maître de ceux qui suivaient la mauvaise Loi.
 
-Il savait que dès que Zoroastre paraîtrait, la pureté de sa Loi ferait disparaitre la force de la Magie.
+Il savait que dès que Zoroastre paraîtrait, la pureté de sa Loi ferait disparaitre la force de la Magie.
 
 On ne lui eut pas plutôt annoncé que l'enfant était né, qu'il bondit comme un taureau sur son Trône, monta à cheval, & se rendit en diligence à la maison de Poroschasp.
 

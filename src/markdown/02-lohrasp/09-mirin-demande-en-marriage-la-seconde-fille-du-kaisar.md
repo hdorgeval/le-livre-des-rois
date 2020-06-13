@@ -52,7 +52,7 @@ Mirin se dit:
 
 Cet homme, qui était le favori de tous, rentra dans son palais et fit des réflexions de toute espèce; il apporta des livres, les plaça devant lui avec un tableau des constellations et son horoscope, et vit que dans un certain temps il devait venir un homme illustre de l’Iran qui ferait trois grandes actions dépassant tous les hauts faits des grands de Roum.
 
-D’abord il deviendrait le gendre du Kaisar et brillerait comme le diadème sur le front impérial; ensuite il paraîtrait dans le Roum deux bêtes sauvages qui feraient du mal à tout le monde, et toutes les deux seraient tuées par cet homme, à qui aucun ennemi, si puissant qu’il fût, ne ferait peur.
+D’abord il deviendrait le gendre du Kaisar et brillerait comme le diadème sur le front impérial; ensuite il paraîtrait dans le Roum deux bêtes sauvages qui feraient du mal à tout le monde, et toutes les deux seraient tuées par cet homme, à qui aucun ennemi, si puissant qu’il fût, ne ferait peur.
 
 Quand il apprit l’histoire de Kitaboun, qui avait uni son sort à celui du vaillant Guschtasp, et l’amitié qui liait celui-ci avec Heischoui et le chef illustre du bourg, il accourut auprès de Heischoui , lui raconta tout ce qui s’était passé, et lui expliqua la constellation qui, selon les savants de Roum, annonçait les merveilles qui se passeraient dans ce pays.
 
@@ -84,7 +84,7 @@ Quand le vin couleur de rubis eut rougi les joues des convives, Heischoui dit a�
 >
 > Tu m’appelles ton meilleur ami sur la terre, tu ne connais personne mieux que moi; or Mirin a pris refuge auprès de moi; c’est un homme illustre et riche, il sait écrire, c’est un savant et un homme habile qui peut calculer les mouvements du ciel sublime; il sait prédire, d’après les sages de Roum, la prospérité ou la désolation de tout pays;
 >
-> il tire son origine de la famille de Selm, dont il connaît les noms de père en fils; il possède l’épée de Selm, l’épée que Selm ne quittait jamais; c’est un cavalier, un héros, un lion vaillant, qui atteint avec sa flèche un aigle dans le ciel.
+> il tire son origine de la famille de Selm, dont il connaît les noms de père en fils; il possède l’épée de Selm, l’épée que Selm ne quittait jamais; c’est un cavalier, un héros, un lion vaillant, qui atteint avec sa flèche un aigle dans le ciel.
 >
 > Maintenant il voudrait encore grandir et s’allier au Kaisar de Roum; il a parlé au Kaisar et a reçu une réponse, et cette réponse fait trembler son cœur.
 >

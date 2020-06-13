@@ -43,7 +43,7 @@ Or il y avait un homme illustre du nom de Kalous, un homme prudent, sage, de bon
 
 Le Kaisar l’appela et lui dit :
 
-> Pars, va à la cour du roi et dis-lui : Si tu veux payer tribut pour l’Iran, obéir à mes ordres et abaisser ta tête, je le laisserai le trône et la couronne de l’Iran , tu seras le maître du monde à la fortune victorieuse; sinon, j’ai des troupes nombreuses tirées du Roum et du désert des cavaliers armés de lances.
+> Pars, va à la cour du roi et dis-lui : Si tu veux payer tribut pour l’Iran, obéir à mes ordres et abaisser ta tête, je le laisserai le trône et la couronne de l’Iran , tu seras le maître du monde à la fortune victorieuse; sinon, j’ai des troupes nombreuses tirées du Roum et du désert des cavaliers armés de lances.
 >
 > Prends donc garde; la plaine retentira du bruit des armes, et Farrukhzad sera à la tête de mon armée; je dévasterai ton pays entier, j’en ferai un repaire dallons et de crocodiles
 

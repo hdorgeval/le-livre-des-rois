@@ -91,4 +91,4 @@ A la fin il dit à Khosrou:
 
 > Ô roi, tu es pour le monde un souvenir de ton père, et je n’ai jamais vu un prince qui eût autant de dignité que toi et qui ressemblât autant à son père.
 
-Ensuite ils se levèrent, firent dresser les tables et apporter du vin, et le maître du monde resta éveillé la moitié de la nuit, en parlant de tout ce qui s’était passé.
+Ensuite ils se levèrent, firent dresser les tables et apporter du vin, et le maître du monde resta éveillé la moitié de la nuit, en parlant de tout ce qui s’était passé.

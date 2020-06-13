@@ -66,7 +66,7 @@ Ensuite ils renvoyèrent tout le monde de la salle d’audience, et les deux pri
 
 > Réponds-moi, et ne cherche pas à me tromper dans ce que je te demande.
 >
-> Je désire épouser la fille du Kaisar, qui est la plus grande dame du Roum. Je l’ai dit au Kaisar, et il m’a répondu que je devais combattre le dragon dans la montagne; raconte-moi donc ton combat avec le loup, et sers-moi de guide et de maître.
+> Je désire épouser la fille du Kaisar, qui est la plus grande dame du Roum. Je l’ai dit au Kaisar, et il m’a répondu que je devais combattre le dragon dans la montagne; raconte-moi donc ton combat avec le loup, et sers-moi de guide et de maître.
 
 Mirin, à ces paroles d’Ahren, se troubla et réfléchit que s’il refusait de dire à Ahren ce que Guschtasp, le champion du monde, avait fait, cela néanmoins ne resterait pas caché; qu’un homme devait, avant tout, agir avec droiture, pendant que les voies ténébreuses et tortueuses ne conduisaient qu’à des larmes; qu’il valait donc mieux dire la vérité; que peut-être ce cavalier vaillant abattrait la tête du dragon, et qu’alors, lui et Ahren étant amis et se soutenant, il ne resterait dans les mains de leurs ennemis que du vent; plus tard ils pourraient détruire le cavalier, car leur secret resterait bien caché quelque temps.
 

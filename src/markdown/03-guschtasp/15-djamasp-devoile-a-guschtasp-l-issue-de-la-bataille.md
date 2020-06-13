@@ -58,7 +58,7 @@ Le roi lui adressa des questions, disant:
 
 > Dieu t’a donné la vraie doctrine et une intelligence lucide;
 >
-> il n’y a personne dans le monde qui te soit comparable, et le Maître du monde t’a accordé tout savoir.
+> il n’y a personne dans le monde qui te soit comparable, et le Maître du monde t’a accordé tout savoir.
 >
 > Il faut que tu calcules les astres et que tu me dises le sort qui m’attend, quel sera le commencement et quelle sera la fin de ce combat, et qui sera frappé par le malheur dans ce lieu.
 
@@ -96,7 +96,7 @@ Le sage répondit:
 >
 > il renversera de leurs chevaux tant de cavaliers turcs qu’on ne saura jamais leur nombre;
 >
-> mais à la fin il sera tué, et son grand nom disparaîtra.
+> mais à la fin il sera tué, et son grand nom disparaîtra.
 >
 > Ensuite Schidasp, de naissance royale, poussera son destrier noir sur les traces d’Ardeschir, pour venger sa mort;
 >
@@ -112,7 +112,7 @@ Le sage répondit:
 >
 > Alors le noble Nestour, fils de Zerir, sortira à cheval des rangs, semblable à un lion courageux;
 >
-> il fera disparaître bien des ennemis;
+> il fera disparaître bien des ennemis;
 >
 > personne n’aura jamais vu un combat plus glorieux que le sien, et à la fin il reviendra victorieux, ayant fait sentir aux ennemis la force de son bras.
 >
@@ -180,7 +180,7 @@ Le sage répondit:
 >
 > s’il en était autrement, pourquoi lui aurais-je dévoilé les secret que j’ai révélés?
 
-Lorsque le roi maître du monde eut entendu ces secrets, il s’affaissa dans le coin de son trône, sa massue d’or s’échappa de ses mains;
+Lorsque le roi maître du monde eut entendu ces secrets, il s’affaissa dans le coin de son trône, sa massue d’or s’échappa de ses mains;
 
 tu aurais dit que toute sa gloire et sa force l’avaient abandonné;
 

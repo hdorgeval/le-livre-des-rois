@@ -39,7 +39,7 @@ Les braves de la Chine furent de son avis; ils choisirent parmi eux deux hommes,
 
 Ardjasp écrivit une belle lettre, pleine de dignité, à l’illustre Khosrou, qui avait embrassé la nouvelle foi.
 
-Il écrivit en invoquant le Maître du monde, qui connaît ce qui est caché et ce qui est ouvert, et disant que c’était Ardjasp, le chef des braves de la Chine, le cavalier maître de la terre, le héros choisi, qui adressait une lettre digne d’un roi au chef des cavaliers de l’Iran, au vaillant Guschtasp, roi du monde, au Keïanide illustre et digne du trône, au possesseur de la terre, au gardien du trône, au fils aîné et préféré du roi Lohrasp.
+Il écrivit en invoquant le Maître du monde, qui connaît ce qui est caché et ce qui est ouvert, et disant que c’était Ardjasp, le chef des braves de la Chine, le cavalier maître de la terre, le héros choisi, qui adressait une lettre digne d’un roi au chef des cavaliers de l’Iran, au vaillant Guschtasp, roi du monde, au Keïanide illustre et digne du trône, au possesseur de la terre, au gardien du trône, au fils aîné et préféré du roi Lohrasp.
 
 Il dit dans cette lettre royale remplie d’hommages et écrite en caractères turcs:
 

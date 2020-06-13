@@ -60,7 +60,7 @@ Alors Isfendiar, le héros au corps puissant, se mit à parler, poussé par ses
 >
 > Tu n’as pas vu l’épée d’Ardjasp, tu as laissé renverser dans son sang le vieux Lohrasp.
 >
-> Lorsque Djamasp est venu à Gunbedan, il m’a trouvé enchaîné, et le corps blessé par mes liens;
+> Lorsque Djamasp est venu à Gunbedan, il m’a trouvé enchaîné, et le corps blessé par mes liens;
 >
 > Il m’a promis la royauté et le trône et a fait tous ses efforts pour me persuader de les accepter.
 >

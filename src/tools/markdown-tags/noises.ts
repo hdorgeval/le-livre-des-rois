@@ -217,7 +217,7 @@ export const noises = [
   'Mais',
   'Maitre',
   'Maître',
-  'Maître',
+  'Maître',
   'Malgré',
   'Malheur',
   'Mangeons',

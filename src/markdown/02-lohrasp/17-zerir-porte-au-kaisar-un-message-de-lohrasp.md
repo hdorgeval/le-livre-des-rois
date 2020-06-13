@@ -53,7 +53,7 @@ Le Sipehbed Zerir répondit :
 
 > Nous découvrirons ce secret.
 >
-> Si c’est lui, il est le maître et le roi, et les plus grands sont ses sujets.
+> Si c’est lui, il est le maître et le roi, et les plus grands sont ses sujets.
 
 Il dit, et se mit à faire ses préparatifs et à choisir une armée illustre.
 

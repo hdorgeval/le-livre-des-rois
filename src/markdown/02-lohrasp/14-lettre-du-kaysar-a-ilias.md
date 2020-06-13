@@ -26,7 +26,7 @@ order: '14'
 
 Les plus proches voisins du Kaisar étaient les Khazars, qui avaient toujours assombri ses jours.
 
-Le prince du pays des Khazars était Ilias, fils de Mihras, le maître du monde.
+Le prince du pays des Khazars était Ilias, fils de Mihras, le maître du monde.
 
 Le Kaisar écrivit une lettre à Ilias, telle qu’on aurait dit qu’il avait mis du sang sur la pointe de son roseau.
 
@@ -40,7 +40,7 @@ Ilias lut la lettre, trempa son roseau dans du poison et répondit:
 >
 > Vous devez tout ce courage à un seul cavalier, à cet homme qui a trouvé un refuge auprès de vous; mais sache que ceci est un piège d’Ahriman et que Farrukhzad n’est qu’un seul homme, fût-il semblable à une montagne de fer.
 >
-> Ne le fatigue pas avec une pareille guerre, car je ne laisserai pas traîner en longueur cette affaire.
+> Ne le fatigue pas avec une pareille guerre, car je ne laisserai pas traîner en longueur cette affaire.
 
 Lorsque Mirin et Ahren entendirent parler de tout ceci, d’Ilias et du piège qu’il préparait, Mirin envoya au Kaisar un message et lui fit dire :
 
@@ -70,7 +70,7 @@ Le lendemain, lorsque le soleil eut paru et eut réfléchi dans l’eau son bouc
 
 Le Kaisar, qui portait haut la tête, dit à Guschtasp:
 
-> Maintenant fais paraître tes troupes!
+> Maintenant fais paraître tes troupes!
 
 et Guschtasp sortit de Roum; il aperçut l’armée et les héros des Khazars dans la plaine, s’avança, tenant une massue à tête de bœuf, semblable à un cyprès élancé sur le bord d’un courant d’eau, choisit dans la plaine son champ de bataille et fit voler la poussière jusqu’aux nuages.
 
@@ -86,7 +86,7 @@ Quand Ilias vit la poitrine et la stature de cet homme et comment sa main brandi
 >
 > Ilias est un lion au jour du combat, il viendra te rejoindre plus rapidement que la poussière;
 >
-> si tu veux des présents, il est riche, et il est inutile que tu uses ta main dans les fatigues pour obtenir ce que tu peux désirer; choisis une part de la terre, et tu en seras le maître; Ilias sera ton ami et ton subordonné, et ne se détachera jamais de ton alliance.
+> si tu veux des présents, il est riche, et il est inutile que tu uses ta main dans les fatigues pour obtenir ce que tu peux désirer; choisis une part de la terre, et tu en seras le maître; Ilias sera ton ami et ton subordonné, et ne se détachera jamais de ton alliance.
 
 Guschtasp lui répondit :
 

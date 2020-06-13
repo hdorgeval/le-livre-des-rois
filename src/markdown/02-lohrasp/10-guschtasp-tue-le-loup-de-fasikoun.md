@@ -36,7 +36,7 @@ Heischoui, en quittant cet homme qui portait haut la tête, dit:
 >
 > quelle taille, quel bras, quel visage, quelle force et quelle massue!
 
-Guschtasp s’approcha de la forêt, son cœur avide de combats devint soucieux; il descendit de son destrier plein de fierté, et se mit à prier le Maître du monde, disant:
+Guschtasp s’approcha de la forêt, son cœur avide de combats devint soucieux; il descendit de son destrier plein de fierté, et se mit à prier le Maître du monde, disant:
 
 > Ô Dieu!
 >
@@ -56,9 +56,9 @@ La bête féroce ayant été blessée par les traits de Guschtasp, la douleur r�
 
 Guschtasp tira son épée, mit pied à terre, frappa le loup au milieu de la tête et lui fendit les épaules, le dos et la poitrine.
 
-Guschtasp se prosterna devant le Maître des bêtes féroces, le maître de toute science, le maître du bonheur et du malheur, et rendit hommage au Créateur, disant:
+Guschtasp se prosterna devant le Maître des bêtes féroces, le maître de toute science, le maître du bonheur et du malheur, et rendit hommage au Créateur, disant:
 
-> Ô toi qui as créé le monde, tu es le guide de ceux qui se sont égarés, tu es le maître suprême, le distributeur de la justice, le Dieu unique.
+> Ô toi qui as créé le monde, tu es le guide de ceux qui se sont égarés, tu es le maître suprême, le distributeur de la justice, le Dieu unique.
 >
 > Tout accomplissement de nos vœux et toute victoire ne dépendent que de ta volonté, toute majesté et toute science ne portent que ton nom.
 
@@ -134,14 +134,14 @@ Mais lorsque le soleil dans sa rotation commença à briller dans la voûte d
 
 Mirin, de son côté, partit comme le vent, se rendit en toute hâte auprès du Kaisar, et lui dit :
 
-> Ô illustre et puissant maître!
+> Ô illustre et puissant maître!
 >
 > les ravages de ce loup sont finis, le corps de ce dragon remplit toute la forêt, et je voudrais que tu allasses voir cette merveille.
 >
 > Il est arrivé sur moi pour m’attaquer, mais mon bras lui a asséné un coup qui l’a fendu de la tête jusqu’au milieu du corps, et le cœur du Div a tremblé de ce coup.
 
-A ces paroles, le Kaisar se redressa, ses joues pâles se colorèrent, il ordonna qu’on fît partir de la ville des bœufs, des voitures et des tentes, qu’on préparât un lieu de festin et qu’on y envoyât du vin, de la musique et des échansons.
+A ces paroles, le Kaisar se redressa, ses joues pâles se colorèrent, il ordonna qu’on fît partir de la ville des bœufs, des voitures et des tentes, qu’on préparât un lieu de festin et qu’on y envoyât du vin, de la musique et des échansons.
 
-Ils se mirent en route, avec des bœufs qui traînaient des voitures, pour cette forêt célèbre à cause du loup; en arrivant, ils virent cet éléphant furieux fendu par un coup d’épée de la tête jusqu’au milieu du corps, le firent traîner dehors sur la prairie par de forts bœufs attelés aux voitures, et le monde regarda ce vieux loup, que dis-je, un loup ! ce terrible lion.
+Ils se mirent en route, avec des bœufs qui traînaient des voitures, pour cette forêt célèbre à cause du loup; en arrivant, ils virent cet éléphant furieux fendu par un coup d’épée de la tête jusqu’au milieu du corps, le firent traîner dehors sur la prairie par de forts bœufs attelés aux voitures, et le monde regarda ce vieux loup, que dis-je, un loup ! ce terrible lion.
 
 Quand le Kaisar vit le corps de cet éléphant furieux, il se frotta de joie les mains, et le même jour appela le chef du Diwan dans son palais, donna sa fille à Mirin et fit écrire une lettre à tous les grands, à tous les évêques, à tous les patriciens et à tous les chefs, que Mirin, le lion, le plus fier des fils du Roum, avait délivré le pays du loup formidable.

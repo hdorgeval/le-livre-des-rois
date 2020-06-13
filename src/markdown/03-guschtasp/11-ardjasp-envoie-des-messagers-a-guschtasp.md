@@ -55,7 +55,7 @@ Il appela auprès de lui tous ces grands et ils apportèrent le Zendavesta; il a
 
 Le Sipehbed Zerir était son frère, le chef des braves de son armée; il était alors Pehlewan du monde, car Isfendiar le cavalier était encore trop jeune pour cette dignité; il était l’asile du monde et le soutien de l’armée, et commandait aux troupes comme le roi lui-même; il avait délivré la terre des méchants, et dans chaque combat on voyait sa lance.
 
-Alors le maître du monde dit à Zerir et au vaillant et fortuné Djamasp:
+Alors le maître du monde dit à Zerir et au vaillant et fortuné Djamasp:
 
 > Ardjasp , le chef des Turcs de la Chine, m’écrit une lettre que voici.
 

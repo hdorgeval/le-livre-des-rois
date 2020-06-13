@@ -58,7 +58,7 @@ Rustem répondit à Isfendiar:
 >
 > Ensuite, quand Kaous fut allé dans le Hamaveran, et qu’on eut lié ses pieds de lourdes chaînes, j’y ai mené une armée d’Iraniens, tirée de tout lieu où il y avait un prince ou un chef; j’ai tué dans le combat le roi du Hamaveran, j’ai rendu vide son trône illustre.
 >
-> Kaous, le maître du monde, était enchaîné, il était abattu par les fatigues et les soucis, et Afrasiab pendant ce temps avait envahi l'Iran, et le monde était rempli de tristesse et de maux infligés par les méchants.
+> Kaous, le maître du monde, était enchaîné, il était abattu par les fatigues et les soucis, et Afrasiab pendant ce temps avait envahi l'Iran, et le monde était rempli de tristesse et de maux infligés par les méchants.
 >
 > Pendant une nuit sombre, j’ai devancé tout seul l’armée, car je cherchais la gloire et non pas le repos, et lorsque Afrasiab vit mon drapeau brillant, que son oreille fut frappée du hennissement de Raksch, il quitta l'Iran, s’enfuit vers la Chine, et la justice régna dans le monde, qui était plein de bénédictions.
 >
@@ -126,7 +126,7 @@ Rustem sourit et dit à Isfendiar:
 >
 > Alors, ô fortuné Isfendiar, tu verras ce que sont les luttes et les chances d’un combat.
 >
-> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
+> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
 >
 > J’ouvrirai la porte de mon trésor, je placerai devant toi, dans sa magnificence, tout ce que je possède de précieux, je mettrai ton armée au-dessus de tout besoin, j’élèverai ton casque jusque dans les nues.
 >

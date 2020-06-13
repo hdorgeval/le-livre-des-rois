@@ -45,7 +45,7 @@ Alors Guschtasp, le lion, saisit son épée et en frappa un coup sur la tête du
 
 Le héros, à qui la fortune était favorable, descendit de cheval, arracha sur-le-champ deux dents de la gueule du dragon, puis alla se laver la tête et le corps.
 
-Il se prosterna, le front contre la terre et en poussant des cris, devant le Créateur, le maître de la victoire, qui
+Il se prosterna, le front contre la terre et en poussant des cris, devant le Créateur, le maître de la victoire, qui
 lui avait accordé ce grand triomphe sur le dragon et sur le vieux loup.
 
 Il s’écria:

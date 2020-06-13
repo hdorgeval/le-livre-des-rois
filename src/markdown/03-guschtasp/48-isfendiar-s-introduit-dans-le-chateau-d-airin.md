@@ -69,7 +69,7 @@ Quand on entendit les clochettes de la caravane et qu’on vit marcher à sa t�
 
 > Il vient un marchand qui vendra pour un direm ce qui vaut un dinar.
 
-Les grands portant haut la tête et ayant envie de faire des achats allèrent à sa rencontre, et chacun demanda au maître des ballots ce qu’ils contenaient qui pouvait être utile.
+Les grands portant haut la tête et ayant envie de faire des achats allèrent à sa rencontre, et chacun demanda au maître des ballots ce qu’ils contenaient qui pouvait être utile.
 
 Il leur répondit:
 
@@ -103,7 +103,7 @@ Le roi lui répondit:
 
 Il assigna alors à Isfendiar un grand édifice dans le château d’airain, un magasin aux approches du palais, et ordonna de porter dans le château toutes les marchandises, pour qu’il pût faire de ce magasin un lieu de vente, et rester avec confiance dans cet asile.
 
-Les compagnons d’Isfendiar chargèrent sur leurs dos les caisses et traînèrent les chameaux par la bride.
+Les compagnons d’Isfendiar chargèrent sur leurs dos les caisses et traînèrent les chameaux par la bride.
 
 Un homme de sens demanda à un des porteurs:
 
