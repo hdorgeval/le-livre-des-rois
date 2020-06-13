@@ -46,7 +46,7 @@ Ensuite cent cavaliers de son cortège illustre partirent avec lui.
 
 Il courut jusqu’au bord du Hirmend, le lacet roulé suspendu au crochet de la selle;
 
-Raksch se mit à hennir d’un côté du fleuve, et de l’autre, le cheval du héros distributeur de couronnes.
+Raksch se mit à hennir d’un côté du fleuve, et de l’autre, le cheval du héros distributeur de couronnes.
 
 Tehemten traversa le fleuve, et, arrivé à terre, il descendit de cheval et salua le héros.
 

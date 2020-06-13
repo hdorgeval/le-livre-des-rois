@@ -66,7 +66,7 @@ Guschtasp lui répondit :
 >
 > je détruirai sa grande puissance, son trône et sa couronne; je le saisirai à la ceinture, l’enlèverai du dos de son cheval, je l’élèverai jusqu’aux nuages et le jetterai sur le sol.
 
-Le lendemain, lorsque le soleil eut paru et eut réfléchi dans l’eau son bouclier d’or, le bruit des trompettes éclata du côté des Khazars et la poussière s’éleva droit jusqu’au soleil.
+Le lendemain, lorsque le soleil eut paru et eut réfléchi dans l’eau son bouclier d’or, le bruit des trompettes éclata du côté des Khazars et la poussière s’éleva droit jusqu’au soleil.
 
 Le Kaisar, qui portait haut la tête, dit à Guschtasp:
 

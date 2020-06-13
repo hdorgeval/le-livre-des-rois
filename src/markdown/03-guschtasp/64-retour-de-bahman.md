@@ -56,9 +56,9 @@ Zewareh lui dit:
 >
 > Un homme de sens ne veut pas le mal, et Isfendiar n’a pas de fautes à nous reprocher.
 
-Zewareh partit pour aller trouver Zal, et Rustem, de son côté, se redressa et courut jusqu’au bord du Hirmend, sa tête s’exaltant par le pressentiment du danger.
+Zewareh partit pour aller trouver Zal, et Rustem, de son côté, se redressa et courut jusqu’au bord du Hirmend, sa tête s’exaltant par le pressentiment du danger.
 
-Il arrêta son cheval de ce côté du fleuve, et attendit que Bahman lui apportât les salutations d’Isfendiar.
+Il arrêta son cheval de ce côté du fleuve, et attendit que Bahman lui apportât les salutations d’Isfendiar.
 
 Bahman arriva dans l’enceinte des tentes de son père et se plaça devant lui;
 

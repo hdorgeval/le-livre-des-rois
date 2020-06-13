@@ -70,7 +70,7 @@ Djerireh lui dit:
 >
 > Piran m’a donnée à lui la première, car il ne voulait s’unir à aucune autre femme du pays de Touran.
 >
-> Ainsi tu es de naissance illustre et royale, du côté du père et de la mère; et quand ton frère entreprend de venger Siawusch et de glorifier ses mânes, il te convient de lui servir d’avant-garde, de saisir tes armes et de combattre.
+> Ainsi tu es de naissance illustre et royale, du côté du père et de la mère; et quand ton frère entreprend de venger Siawusch et de glorifier ses mânes, il te convient de lui servir d’avant-garde, de saisir tes armes et de combattre.
 >
 > Que ta poitrine se couvre donc d’une cuirasse de Roum, que ton cœur se gonfle d’impatience, que ta tête se remplisse d’ardeur!
 >

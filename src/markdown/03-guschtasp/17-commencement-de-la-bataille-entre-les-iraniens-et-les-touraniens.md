@@ -41,7 +41,7 @@ La masse des cavaliers armés de massues et portant des lances qui se jetaient l
 
 Le premier qui s’avança fut un cavalier plein de dignité, Ardeschir, le fils du roi du monde; il entra sur le champ de bataille comme un éléphant ivre ; tu aurais pu croire que c’était le Sipehbed Thous.
 
-C’est ainsi qu’il courut de côté et d’autre au milieu des armées, sans se douter du sort que la lune et le soleil lui préparaient; mais une flèche le frappa au milieu du corps et traversa sa lourde armure; le prince tomba de son cheval, et son corps royal fut couvert de sang et de poussière.
+C’est ainsi qu’il courut de côté et d’autre au milieu des armées, sans se douter du sort que la lune et le soleil lui préparaient; mais une flèche le frappa au milieu du corps et traversa sa lourde armure; le prince tomba de son cheval, et son corps royal fut couvert de sang et de poussière.
 
 Hélas! ce héros au beau visage, resplendissant comme la lune, le roi sage ne devait pas le revoir!
 

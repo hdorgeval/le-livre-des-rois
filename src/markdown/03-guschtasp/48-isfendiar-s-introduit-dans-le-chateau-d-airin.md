@@ -115,7 +115,7 @@ Celui-ci répondit:
 
 Isfendiar arrangea le magasin et le para comme une rose printanière.
 
-De tous côtés arriva une foule d’acheteurs, et il se fit un grand trafic dans le magasin.
+De tous côtés arriva une foule d’acheteurs, et il se fit un grand trafic dans le magasin.
 
 La nuit se passa, et à l’aube du jour Isfendiar se rendit auprès du roi dans sa salle d’audience; il s’avança, baisa la terre, bénit longuement Ardjasp et dit:
 
@@ -149,7 +149,7 @@ Il répondit:
 
 > Ô prince bienveillant, chacun en parle selon ce qu’il désire.
 >
-> Les uns disent qu’Isfendiar a été maltraité par son père et qu’il s’est révolté contre lui; d’autres disent qu’il conduit une armée du côté de Bersekhan, et, s’est dirigé vers la route des sept stations avec l’intention de faire la guerre au Touran et de se venger d’Ardjasp dans l’excès de son courage.
+> Les uns disent qu’Isfendiar a été maltraité par son père et qu’il s’est révolté contre lui; d’autres disent qu’il conduit une armée du côté de Bersekhan, et, s’est dirigé vers la route des sept stations avec l’intention de faire la guerre au Touran et de se venger d’Ardjasp dans l’excès de son courage.
 
 Ardjasp sourit et dit:
 

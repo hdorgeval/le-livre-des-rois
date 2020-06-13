@@ -132,7 +132,7 @@ Mais lorsque le soleil dans sa rotation commença à briller dans la voûte du
 
 > De quelle manière le ciel va-t-il tourner au-dessus de nous, est-ce avec colère ou avec faveur?
 
-Mirin, de son côté, partit comme le vent, se rendit en toute hâte auprès du Kaisar, et lui dit :
+Mirin, de son côté, partit comme le vent, se rendit en toute hâte auprès du Kaisar, et lui dit :
 
 > Ô illustre et puissant maître!
 >

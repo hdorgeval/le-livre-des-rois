@@ -104,7 +104,7 @@ Rustem répondit:
 
 Il plaça du pain tendre sur le cuir qui lui servait de table, apporta un onagre rôti et chaud, et le posa sur la nappe devant Bahman, en parlant d’anciennes aventures.
 
-Il fit asseoir son frère Zewareh à côté du prince; mais il n’appela aucun des grands qui étaient présents.
+Il fit asseoir son frère Zewareh à côté du prince; mais il n’appela aucun des grands qui étaient présents.
 
 Ensuite il plaça devant lui-même un autre onagre, car il lui en fallait un chaque fois qu’il dînait, répandit du sel dessus, le dépeça et le mangea.
 
@@ -138,4 +138,4 @@ Bahman prit rapidement la coupe des mains de Zewareh; mais cet homme au cœur in
 
 Rustem, son appétit, sa stature, ses bras et ses épaules, tout le confondait.
 
-A la fin les deux cavaliers montèrent à cheval, Bahman se tint à côté de l’illustre Pehlewan, et le héros au grand renom communiqua à Rustem les saluts et le message d’Isfendiar.
+A la fin les deux cavaliers montèrent à cheval, Bahman se tint à côté de l’illustre Pehlewan, et le héros au grand renom communiqua à Rustem les saluts et le message d’Isfendiar.

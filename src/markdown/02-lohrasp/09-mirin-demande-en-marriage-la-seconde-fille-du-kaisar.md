@@ -116,7 +116,7 @@ A ces paroles, Mirin partit et courut à son palais; il choisit dans ses écuri
 
 Lorsque le soleil eut déchiré sa chemise couleur de suie et fut sorti de son voile, Mirin, qui ambitionnait la possession du monde, quitta son palais et courut auprès de Heischoui.
 
-Guschtasp, de son côté, revint de la chasse et se dirigea vers eux; Heischoui, qui était aux aguets, le vit, et lui et Mirin allèrent à sa rencontre, étonnés de la force de son cheval et de la grandeur de son épée.
+Guschtasp, de son côté, revint de la chasse et se dirigea vers eux; Heischoui, qui était aux aguets, le vit, et lui et Mirin allèrent à sa rencontre, étonnés de la force de son cheval et de la grandeur de son épée.
 
 Guschtasp regarda les présents de Mirin, choisit parmi le tout le cheval et l’épée, donna le reste à Heischoui et réjouit l’âme de cet homme ambitieux.
 

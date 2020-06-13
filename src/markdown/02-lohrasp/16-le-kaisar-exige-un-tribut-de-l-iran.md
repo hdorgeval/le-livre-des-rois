@@ -101,7 +101,7 @@ Le messager répondit:
 >
 > Le Kaisar lui a donné la plus belle de ses filles, qui était son plus précieux diadème.
 >
-> Il est le sujet de tous les contes dans le Roum, car il a tué le terrible dragon; ensuite il y avait un loup qui ressemblait à un éléphant dans le désert, et le Kaisar n’osait pas aller du côté où il se trouvait : le jeune homme l’a abattu, lui a arraché les défenses et en a délivré le pays de Roum.
+> Il est le sujet de tous les contes dans le Roum, car il a tué le terrible dragon; ensuite il y avait un loup qui ressemblait à un éléphant dans le désert, et le Kaisar n’osait pas aller du côté où il se trouvait : le jeune homme l’a abattu, lui a arraché les défenses et en a délivré le pays de Roum.
 
 Lohrasp lui dit :
 
