@@ -1,7 +1,7 @@
 @import '../../styles/global.module.scss';
 
 .container {
-  margin-bottom: 30px;
+  margin-bottom: 0px;
   border-bottom: 1px dotted $color-palette-6;
   display: inline-block;
   width: $container-width;
@@ -58,7 +58,7 @@
     }
 
     .details {
-      margin-bottom: 20px;
+      margin-bottom: 10px;
       font-size: 12px;
     }
 

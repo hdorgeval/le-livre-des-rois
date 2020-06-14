@@ -1,9 +1,8 @@
 @import '../../styles/global.module.scss';
 
 .container {
-
   .content {
-    padding: 20px;
+    padding-left: 10px;
 
     h1 {
       color: $color-palette-3;
@@ -98,8 +97,8 @@
       &:before {
         content: '\201C';
         position: absolute;
-        top: 0.0em;
-        left: -0.10em;
+        top: 0em;
+        left: -0.1em;
         font-size: 3em;
         font-family: 'Times New Roman', Georgia, serif;
         color: $color-palette-1;
@@ -114,7 +113,7 @@
       }
     }
 
-    div[class="footnotes"] {
+    div[class='footnotes'] {
       margin-top: 3rem;
 
       ol {
@@ -123,7 +122,7 @@
         border-left-color: $color-palette-2;
       }
 
-      a[class="footnote-backref"] {
+      a[class='footnote-backref'] {
         color: $color-palette-3;
         text-decoration: none;
 
