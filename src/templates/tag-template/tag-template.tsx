@@ -2,6 +2,7 @@ import styles from './tag-template.module.scss';
 import { Layout, SEO, Title, EpisodeLink } from '../../components';
 import { AllMarkdownRemarkResponse, PageContext } from '../../graphql';
 import { toMinutes } from '../../tools';
+import { TagDescription } from '../../components/tag-description/tag-description';
 import React from 'react';
 import { graphql } from 'gatsby';
 
@@ -15,10 +16,11 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
     <Layout>
       <SEO title="Le Livre des Rois" contentType="website" description={tag} />
       <div>
-        <Title
-          text={tag}
-          subtitle={`Tous les épisodes faisant référence au terme '${tag}'`}
-        ></Title>
+        <Title text={tag} subtitle={''}></Title>
+        <div className={styles.content}>
+          <TagDescription tag={tag} />
+        </div>
+        <Title text="" subtitle={`Tous les épisodes faisant référence au terme '${tag}'`}></Title>
         <div className={styles.content}>
           {data.allMarkdownRemark.edges
             .map((nodeWrapper) => nodeWrapper.node)

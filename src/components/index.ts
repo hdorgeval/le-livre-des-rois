@@ -7,5 +7,6 @@ export * from './layout/layout';
 export * from './lohrasp-episodes/lohrasp-episodes';
 export * from './reigns';
 export * from './seo/seo';
+export * from './tag-description';
 export * from './tags/tags';
 export * from './title/title';
