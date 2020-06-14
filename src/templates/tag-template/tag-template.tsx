@@ -44,7 +44,10 @@ export const query = graphql`
     allMarkdownRemark(
       limit: 1000
       sort: { fields: frontmatter___order, order: DESC }
-      filter: { frontmatter: { tags: { in: [$tag] } } }
+      filter: {
+        fileAbsolutePath: { glob: "**/markdown/**/*.md" }
+        frontmatter: { tags: { in: [$tag] } }
+      }
     ) {
       totalCount
       edges {
