@@ -39,7 +39,7 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
     .filter((node) => node.frontmatter.tags.includes(tag));
 
   return (
-    <>
+    <div className={styles.container}>
       {markdownNodes.map((node) => {
         const firstHeading = node.headings[0].value;
         const htmlWithoutFirstHeading = node.html.replace(`<h1>${firstHeading}</h1>`, '');
@@ -51,6 +51,6 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
           />
         );
       })}
-    </>
+    </div>
   );
 };
