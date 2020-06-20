@@ -10,6 +10,7 @@ tags:
     'Ardeschir',
     'Bahram',
     'Bijen',
+    'cyprès',
     'Farrukhzad',
     'Gouderz',
     'Guiv',

@@ -12,6 +12,7 @@ maps:
 tags:
   [
     'Afrasiab',
+    'âme',
     'Chine',
     'Dieu',
     'Div',

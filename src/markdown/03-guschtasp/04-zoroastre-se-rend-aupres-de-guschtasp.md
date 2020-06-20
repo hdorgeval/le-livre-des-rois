@@ -15,6 +15,7 @@ tags:
     'Cieux',
     'Cour',
     'Couronne',
+    'cyprès',
     'Dews',
     'Dieu',
     'Divan',

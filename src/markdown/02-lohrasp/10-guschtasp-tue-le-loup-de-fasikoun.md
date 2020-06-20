@@ -7,6 +7,7 @@ tags:
   [
     'âme',
     'Créateur',
+    'cyprès',
     'Dieu',
     'Div',
     'Diwan',
