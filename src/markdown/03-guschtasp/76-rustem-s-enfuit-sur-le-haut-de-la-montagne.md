@@ -172,7 +172,7 @@ Ensuite il dit à Beschouten:
 >
 > Nous tous, jeunes et vieux, appartenons à la mort : puisse la raison nous aider à mourir comme il convient!
 
-Il envoya ses fils au maître du trône, dans des cercueils d’or et portés sur des brancards d’ébène, et fit dire à son père:
+Il envoya ses fils au maître du trône, dans des cercueils d’or et portés sur des brancards d’ébène, et fit dire à son père:
 
 > Voici les fruits que tes machinations commencent à porter.
 >
