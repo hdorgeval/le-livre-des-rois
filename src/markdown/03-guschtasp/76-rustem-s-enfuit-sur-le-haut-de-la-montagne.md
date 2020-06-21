@@ -128,7 +128,7 @@ Isfendiar au corps d’airain lui dit:
 >
 > Je vois ta ruse, tu ne veux pas que je m’aperçoive du mauvais état dans lequel tu te trouves.
 >
-> Je te fais grâce de la vie pour cette nuit;
+> Je te fais grâce de la vie pour cette nuit;
 >
 > Ne te laisse pas tenter par des voies tortueuses, accomplis tout ce que tu m’as promis, et ne m’adresse plus de vains discours.
 
@@ -146,7 +146,7 @@ Isfendiar le suivit des yeux, le vit arriver sur l’autre rive, et dit:
 
 > Il ne faut pas appeler Rustem un homme, c’est un éléphant furieux et d’une grande puissance.
 >
-> Il a traversé l’eau, malgré ses plaies, et ces terribles blessures de mes flèches n’ont fait que hâter sa marche.
+> Il a traversé l’eau, malgré ses plaies, et ces terribles blessures de mes flèches n’ont fait que hâter sa marche.
 
 Isfendiar resta pondant quelque temps dans son étonnement, puis il dit en s’adressant au Juge tout-puissant:
 
@@ -198,4 +198,4 @@ Il s’assit sur son trône, dans son deuil et dans sa douleur, et se mit à pa
 >
 > Il est descendu à pied de la montagne, après avoir fait une convention avec moi, a couru vers le Hirmend, chargé de sa cuirasse et de son épée, et a traversé l’eau malgré ses blessures, et le corps couvert des fers de mes flèches.
 >
-> Je crois que lorsqu’il aura atteint son palais, son âme se sera envolée vers Saturne.
+> Je crois que lorsqu’il aura atteint son palais, son âme se sera envolée vers Saturne.
