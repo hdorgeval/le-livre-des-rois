@@ -10,7 +10,7 @@ order: '15'
 
 # Combat de Guschtasp et d'Ilias, et mort de ce dernier
 
-Lorsque le soleil s’aperçut de ce voile, il monta sur son trône dans le signe du Sagittaire; la source du jour devint rouge comme la sandaraque, et partout s’éleva le bruit des clairons et des timbales.
+Lorsque le soleil s’aperçut de ce voile, il monta sur son trône dans le signe du Sagittaire; la source du jour devint rouge comme la sandaraque, et partout s’éleva le bruit des clairons et des timbales.
 
 On entendit des deux côtés le fracas des armes, et le champ de bataille se transforma en un fleuve de sang.
 
@@ -49,4 +49,4 @@ Ensuite ils s’en retournèrent gaiement; le chef de l’armée lui plaça sur 
 
 On para la terre entière pour des fêtes, on fit venir du vin, de la musique et des chanteurs.
 
-Telle est la coutume du sort qui varie, tantôt il t’abreuve de miel, tantôt de poison.
+Telle est la coutume du sort qui varie, tantôt il t’abreuve de miel, tantôt de poison.

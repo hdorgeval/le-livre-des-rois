@@ -32,7 +32,7 @@ Il se plaça au centre de l’armée, au poste de Zerir, il se plaça au centre 
 >
 > Ecoutez ce que j’ai à dire de bon, et ayez confiance dans la religion du maître du monde!
 >
-> Sachez, ô rois, que voici le jour ou l’on distinguera entre la bonne et la mauvaise doctrine.
+> Sachez, ô rois, que voici le jour ou l’on distinguera entre la bonne et la mauvaise doctrine.
 >
 > Gardez-vous de craindre la mort ou autre chose, car personne ne meurt qu’au moment assigné, et si la fortune d’un homme doit changer, qu’y a-t-il de mieux que de mourir sur le champ de bataille?
 >

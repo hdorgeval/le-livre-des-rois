@@ -43,7 +43,7 @@ Or il y avait un homme illustre du nom de Kalous, un homme prudent, sage, de bon
 
 Le Kaisar l’appela et lui dit :
 
-> Pars, va à la cour du roi et dis-lui : Si tu veux payer tribut pour l’Iran, obéir à mes ordres et abaisser ta tête, je le laisserai le trône et la couronne de l’Iran , tu seras le maître du monde à la fortune victorieuse; sinon, j’ai des troupes nombreuses tirées du Roum et du désert des cavaliers armés de lances.
+> Pars, va à la cour du roi et dis-lui : Si tu veux payer tribut pour l’Iran, obéir à mes ordres et abaisser ta tête, je le laisserai le trône et la couronne de l’Iran , tu seras le maître du monde à la fortune victorieuse; sinon, j’ai des troupes nombreuses tirées du Roum et du désert des cavaliers armés de lances.
 >
 > Prends donc garde; la plaine retentira du bruit des armes, et Farrukhzad sera à la tête de mon armée; je dévasterai ton pays entier, j’en ferai un repaire dallons et de crocodiles
 
@@ -55,9 +55,9 @@ Le grand chambellan eut avis de sa venue, accourut auprès du roi et dit :
 
 > Il y a à la porte un vieillard plein d’expérience, qui est sans doute un messager du Kaisar; il amène beaucoup de cavaliers illustres, et demande une audience du roi.
 
-A ces paroles, Lohrasp s’assit sur son trône d’ivoire et posa sur sa tête sa couronne qui réjouissait les cœurs, et les grands de l’Iran, aux cœurs joyeux, à la fortune prospère, s’assit-eut sous son trône.
+A ces paroles, Lohrasp s’assit sur son trône d’ivoire et posa sur sa tête sa couronne qui réjouissait les cœurs, et les grands de l’Iran, aux cœurs joyeux, à la fortune prospère, s’assit-eut sous son trône.
 
-Il ordonna alors de lever le rideau de la porte et de faire entrer le messager; celui-ci se présenta devant le trône, rendit hommage au roi et le salua humblement; ensuite il s’acquitta du message du puissant Kaisar, mais en se conduisant lui-même avec sagesse et modération.
+Il ordonna alors de lever le rideau de la porte et de faire entrer le messager; celui-ci se présenta devant le trône, rendit hommage au roi et le salua humblement; ensuite il s’acquitta du message du puissant Kaisar, mais en se conduisant lui-même avec sagesse et modération.
 
 Le roi fut blessé de ses paroles, il fut confondu de cette tournure du sort.
 
@@ -65,7 +65,7 @@ Il fit arranger magnifiquement un appartement, et demanda du vin, de la musique 
 
 C’est ainsi qu’il l’accueillit par des fêtes, comme s’il n’avait pas reçu un message de guerre; mais dans la nuit il se coucha, se tordant dans ses soucis; tu aurais dit que la douleur et le chagrin étaient ses compagnons.
 
-Lorsque le soleil fut monté sur son trône d’or et eut déchiré de ses ongles la joue de la nuit sombre.
+Lorsque le soleil fut monté sur son trône d’or et eut déchiré de ses ongles la joue de la nuit sombre.
 
 Lohrasp fit appeler devant lui Zerir et lui parla longuement de toute chose.
 

@@ -49,7 +49,7 @@ Ils se dirent:
 
 Lorsque Rustem fut arrivé près de la tente d’Isfendiar, le prince sortit pour aller au-devant de lui, et Rustem lui dit:
 
-> Ô Pehlewan, ô fortuné jeune homme, qui introduis des formes et des manières nouvelles ! l’hôte que tu avais invité ne valait donc pas un message? tel était pourtant l’engagement qui a duré si peu.
+> Ô Pehlewan, ô fortuné jeune homme, qui introduis des formes et des manières nouvelles ! l’hôte que tu avais invité ne valait donc pas un message? tel était pourtant l’engagement qui a duré si peu.
 >
 > Fais attention à mes paroles, ne te mets pas follement en colère contre un vieillard.
 >

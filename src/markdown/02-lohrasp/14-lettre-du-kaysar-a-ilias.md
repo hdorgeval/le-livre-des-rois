@@ -30,7 +30,7 @@ Le prince du pays des Khazars était Ilias, fils de Mihras, le maître du monde.
 
 Le Kaisar écrivit une lettre à Ilias, telle qu’on aurait dit qu’il avait mis du sang sur la pointe de son roseau.
 
-> Tu t’es longtemps joué de nous, ô Khazar, mais maintenant les jours de ton repos sont finis.
+> Tu t’es longtemps joué de nous, ô Khazar, mais maintenant les jours de ton repos sont finis.
 >
 > Envoie-moi à l’instant un tribut, de lourdes redevances et quelques-uns de tes grands comme otages, sinon Farrukhzad viendra comme un éléphant en fureur et foulera aux pieds ton pays pour me venger.
 
@@ -64,7 +64,7 @@ Guschtasp lui répondit :
 >
 > Quand l’armée des Khazars sortira de son pays, prends avec un de tes fils le commandement de mes troupes, et alors, par la force que m’a donnée Dieu l’unique, le victorieux, je m’avancerai avec les braves et ne laisserai en vie ni Ilias ni son armée;
 >
-> je détruirai sa grande puissance, son trône et sa couronne; je le saisirai à la ceinture, l’enlèverai du dos de son cheval, je l’élèverai jusqu’aux nuages et le jetterai sur le sol.
+> je détruirai sa grande puissance, son trône et sa couronne; je le saisirai à la ceinture, l’enlèverai du dos de son cheval, je l’élèverai jusqu’aux nuages et le jetterai sur le sol.
 
 Le lendemain, lorsque le soleil eut paru et eut réfléchi dans l’eau son bouclier d’or, le bruit des trompettes éclata du côté des Khazars et la poussière s’éleva droit jusqu’au soleil.
 

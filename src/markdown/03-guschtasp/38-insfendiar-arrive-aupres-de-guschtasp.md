@@ -47,7 +47,7 @@ Isfendiar arriva sur la montagne rocheuse, aperçut son père et lui rendit homm
 
 Le père, dont le cœur était navré, se leva, le baisa et lui passa la main sur le visage, en disant:
 
-> Grâces soient rendues à Dieu, ô jeune homme, de ce que je t’ai revu, le cœur en joie!
+> Grâces soient rendues à Dieu, ô jeune homme, de ce que je t’ai revu, le cœur en joie!
 >
 > Ne m’en veux pas dans ton âme, ne t’indigne pas contre moi, et n’emploie pas ta force à te venger.
 >

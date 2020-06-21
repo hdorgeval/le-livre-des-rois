@@ -49,7 +49,7 @@ Rustem répondit à Isfendiar:
 >
 > Si je n’étais pas allé dans le Mazenderan [^1], portant sur mon épaule ma lourde massue, là ou le roi, Gouderz et Thous étaient prisonniers, et où le chagrin avait rendu trouble l’œil du coq, qui aurait arraché le cœur au Div blanc et répandu sa cervelle, qui pouvait espérer faire cela par la force de son bras?
 >
-> Je l’ai délivré de ses lourdes chaînes et l’ai porté sur son trône;
+> Je l’ai délivré de ses lourdes chaînes et l’ai porté sur son trône;
 >
 > L'Iran était heureux sous lui, et la fortune le favorisait;
 >
@@ -125,9 +125,9 @@ Rustem sourit et dit à Isfendiar:
 >
 > Saluons-nous avec l’épée et la masse d’armes;
 >
-> Alors, ô fortuné Isfendiar, tu verras ce que sont les luttes et les chances d’un combat.
+> Alors, ô fortuné Isfendiar, tu verras ce que sont les luttes et les chances d’un combat.
 >
-> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
+> Quand je paraîtrai demain sur le champ de bataille, nous lutterons homme contre homme, je t’enlèverai dans mes bras de dessus ton cheval et te porterai ainsi devant Zal, je te ferai asseoir sur son célèbre trône d’ivoire, je placerai sur ta tête la couronne qui réjouit les cœurs et que j’ai reçue de Keï Kobad, puisse son âme être heureuse dans le ciel!
 >
 > J’ouvrirai la porte de mon trésor, je placerai devant toi, dans sa magnificence, tout ce que je possède de précieux, je mettrai ton armée au-dessus de tout besoin, j’élèverai ton casque jusque dans les nues.
 >

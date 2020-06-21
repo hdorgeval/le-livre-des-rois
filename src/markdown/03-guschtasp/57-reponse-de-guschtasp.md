@@ -102,7 +102,7 @@ Le roi répondit à Isfendiar:
 >
 > Empêche Zewareh, Faramourz et Destan fils de Sam de te tendre un piège;
 >
-> Amène-les à pied à ma cour, ô prince illustre!
+> Amène-les à pied à ma cour, ô prince illustre!
 >
 > Et alors personne ne se révoltera plus contre nous, si puissant et si riche qu’il soit.
 

@@ -91,4 +91,4 @@ Le héros avide de combats répondit à sa mère:
 
 > J’aurais tort de ne pas emmener mes fils; car si un jeune homme s’accoutume a rester en arrière, son âme devient basse et son esprit se ternit.
 >
-> J’ai besoin d’eux sur chaque champ de bataille, ô ma mère pleine de sagesse; mais il ne me faut pas une armée nombreuse en dehors de ma famille, de mes alliés et de quelques grands.
+> J’ai besoin d’eux sur chaque champ de bataille, ô ma mère pleine de sagesse; mais il ne me faut pas une armée nombreuse en dehors de ma famille, de mes alliés et de quelques grands.

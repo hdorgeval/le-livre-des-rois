@@ -40,7 +40,7 @@ Djamasp lui dit:
 
 > Ô roi, écoute ma parole et prête-moi l’oreille!
 >
-> Je sais, ô roi, qu’Isfendiar use ses chaînes, plongé dans le malheur.
+> Je sais, ô roi, qu’Isfendiar use ses chaînes, plongé dans le malheur.
 >
 > Si tu veux lui rendre la liberté, tu ne resteras pas enfermé dans ces hautes montagnes.
 

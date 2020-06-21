@@ -54,7 +54,7 @@ Il fit convoquer ses scribes et les hommes jeunes et vieux du Touran, et ordonna
 
 Un scribe ouvrit la lettre et la lut à ce roi de race turque.
 
-Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du vaillant cavalier, de Guschtasp fils de Lohrasp, du maître du monde, digne du trône:
+Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du vaillant cavalier, de Guschtasp fils de Lohrasp, du maître du monde, digne du trône:
 
 > Dieu a envoyé auprès de moi un prophète, devant lequel tous les grands se tiennent debout comme des esclaves, et qui te fait dire:
 >
@@ -82,7 +82,7 @@ Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du va
 >
 > Ne comble pas le Djihoun de musc, car j’ouvrirai moi-même les portes de ton trésor avare, et, s’il plait à Dieu, je te combattrai au jour de la bataille et je jetterai ta tête sous mes pieds.
 
-Le roi des Turcs, ayant lu cette lettre, descendit de son trône et resta un instant confondu, puis il ordonna à son Sipehbed d’appeler dès le lendemain de grand matin ses troupes de toutes les parties du royaume.
+Le roi des Turcs, ayant lu cette lettre, descendit de son trône et resta un instant confondu, puis il ordonna à son Sipehbed d’appeler dès le lendemain de grand matin ses troupes de toutes les parties du royaume.
 
 Les braves de l’armée, les champions choisis de la Chine se répandirent tous dans le pays de Touran, et réunirent ses armées et les chefs des frontières de son empire.
 
@@ -102,7 +102,7 @@ Un autre Turc, appelé Khaschasch le vaillant, qu’un lion n’eût pas osé a
 
 Ensuite le chef des Turcs envoya à un des siens, nommé Houschdiv, un message et lui fit dire:
 
-> Garde les derrières de l’armée, et si quelqu’un des nôtres s’en retourne, tue-le aussitôt que tu le rencontreras, et acquitte-toi de cette mission avec intelligence.
+> Garde les derrières de l’armée, et si quelqu’un des nôtres s’en retourne, tue-le aussitôt que tu le rencontreras, et acquitte-toi de cette mission avec intelligence.
 
 C’est ainsi qu’Ardjasp partit dans une colère terrible, le cœur gonflé de sang, les yeux pleins de larmes, dévastant tout, brûlant les maisons, détruisant les arbres, branches et racines.
 

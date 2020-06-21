@@ -76,7 +76,7 @@ Il répondit:
 >
 > Quand j’aurai quitté la terre, garde-moi un souvenir, et réjouis mes mânes par les bienfaits que tu répandras.
 >
-> Adieu, ô Pehlewan du monde, puisses-tu être heureux et vivre éternellement!
+> Adieu, ô Pehlewan du monde, puisses-tu être heureux et vivre éternellement!
 
 Il dit, ses joues pâlirent, et Ferschidwerd, le lion glorieux, mourut.
 

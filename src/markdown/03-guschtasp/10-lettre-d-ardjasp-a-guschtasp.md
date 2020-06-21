@@ -70,7 +70,7 @@ Il dit dans cette lettre royale remplie d’hommages et écrite en caractères t
 > Dieu t’a choisi dans le monde entier, et tous les princes se tiennent devant toi debout comme des esclaves.
 >
 > Mais tu n’as pas adoré le Seigneur du monde,
-> tu n’as pas su trouver la vraie route, ô homme égaré! et lorsque Dieu eut fait un roi de toi, un vieux magicien t’a fait dévier de la voie.
+> tu n’as pas su trouver la vraie route, ô homme égaré! et lorsque Dieu eut fait un roi de toi, un vieux magicien t’a fait dévier de la voie.
 >
 > Quand la nouvelle m’en est arrivée, j’ai vu en plein jour les étoiles, et je t’écris cette lettre amicale; car nous avons été amis et soutiens l’un de l’autre.
 >

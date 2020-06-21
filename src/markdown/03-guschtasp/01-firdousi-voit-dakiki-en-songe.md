@@ -13,7 +13,7 @@ Une nuit le poète rêvait qu’il tenait en main une coupe remplie de vin parfu
 
 Tout à coup Dakiki parut devant lui et se mit à lui parler de cette coupe de vin. Il dit à Firdousi :
 
-> Ne bois du vin que selon la manière de Kaous le Keïanide, car tu as choisi pour maître dans ce monde un roi à qui le sort jette des couronnes, des diadèmes et des trônes:
+> Ne bois du vin que selon la manière de Kaous le Keïanide, car tu as choisi pour maître dans ce monde un roi à qui le sort jette des couronnes, des diadèmes et des trônes:
 >
 > Mahmoud, le roi des rois, le conquérant des villes, qui fait participer chacun à sa fortune royale, dont les trésors ne diminueront pas, dont les peines n’augmenteront pas d’ici à quatre-vingt-cinq ans, qui mènera son armée en Chine, à qui tous les princes ouvriront la route et qui n’a besoin de parler durement à personne, car toutes les couronnes des rois tomberont d’elles-mêmes dans sa main.
 >

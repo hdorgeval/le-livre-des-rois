@@ -78,7 +78,7 @@ Firoud lui répondit:
 
 > Ne médite pas des affronts, car tu n’en as pas essuyé.
 >
-> Parle doucement, ô homme expérimenté! et ne blesse pas tes lèvres par des paroles glacées.
+> Parle doucement, ô homme expérimenté! et ne blesse pas tes lèvres par des paroles glacées.
 >
 > Tu n’es pas un lion irrésistible, et je ne suis pas un onagre du désert; n’essaye donc pas de nous traiter ainsi avec mépris.
 >
@@ -138,7 +138,7 @@ Bahram alors fut assuré que Firoud était de la famille de Kobad et de Siawusch
 
 Le jeune prince descendit de cheval, s’assit sur le roc, l’âme en joie, et dit à Bahram:
 
-> Ô héros, maître du monde, ô sage, qui es un lion dans les combats! si je voyais de mes yeux mon père vivant, je n’en serais pas plus heureux que je le suis de te voir si content, si joyeux, si prudent, si clairvoyant, et si brave.
+> Ô héros, maître du monde, ô sage, qui es un lion dans les combats! si je voyais de mes yeux mon père vivant, je n’en serais pas plus heureux que je le suis de te voir si content, si joyeux, si prudent, si clairvoyant, et si brave.
 >
 > Je suis venu sur la crête de cette montagne pour adresser à Tokhareh des questions touchant les grands de l’armée de l’Iran, et pour apprendre qui est leur chef, qui est le glorieux héros qui les conduit à la bataille.
 >

@@ -43,7 +43,7 @@ Kergsar répondit:
 >
 > Quand elle veut, elle convertit en mer le désert, et fait descendre à l’horizon le soleil qui est au zénith.
 >
-> On lui donne, ô roi, le nom de Ghoul.
+> On lui donne, ô roi, le nom de Ghoul.
 >
 > Ne te laisse pas entraîner dans ses filets par la fougue de ta jeunesse.
 >

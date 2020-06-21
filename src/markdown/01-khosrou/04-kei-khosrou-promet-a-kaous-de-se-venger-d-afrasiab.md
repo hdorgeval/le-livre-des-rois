@@ -46,7 +46,7 @@ Kaous dit à Keï Khosrou:
 >
 > Je vais te dire par quoi tu dois jurer, car qu’y a-t-il de meilleur qu’un conseil pour l’esprit et pour l’âme?
 >
-> Tu jureras par le maître du soleil et de la lune, par la couronne, le trône, le sceau et le diadème, par le souvenir de Feridoun, par la majesté et les devoirs de la royauté, par le sang de Siawusch et par ton âme, ô roi! par la grâce de Dieu et la bonne étoile qu’il t’a accordée, que jamais tu ne pencheras vers le mal, que tu ne chercheras d’autre intermédiaire, entre toi et Afrasiab, que le glaive et la massue, que tu humilieras son orgueil, que tu abaisseras sa haute stature.
+> Tu jureras par le maître du soleil et de la lune, par la couronne, le trône, le sceau et le diadème, par le souvenir de Feridoun, par la majesté et les devoirs de la royauté, par le sang de Siawusch et par ton âme, ô roi! par la grâce de Dieu et la bonne étoile qu’il t’a accordée, que jamais tu ne pencheras vers le mal, que tu ne chercheras d’autre intermédiaire, entre toi et Afrasiab, que le glaive et la massue, que tu humilieras son orgueil, que tu abaisseras sa haute stature.
 
 Lorsque le jeune roi eut entendu les paroles de Kaous, il se tourna vers le feu, et, en versant des larmes, jura par Dieu le tout-puissant, par le jour brillant et la nuit noire, par le soleil et la lune, par le trône et le diadème, par le sceau, l’épée et la couronne du roi, que jamais il ne regarderait Afrasiab favorablement, que jamais il ne verrait son visage, même en songe.
 

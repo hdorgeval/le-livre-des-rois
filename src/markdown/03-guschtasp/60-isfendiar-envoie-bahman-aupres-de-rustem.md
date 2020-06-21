@@ -93,7 +93,7 @@ Isfendiar fit venir Bahman devant lui et lui parla longuement, disant:
 > >
 > > Des cavaliers du désert, qui percent avec leurs lances, se trouvent à sa cour, et leurs villes lui envoient des tributs et des redevances, car ils ne peuvent lui résister ni lutter contre lui.
 > >
-> > Je te dis cela, ô Pehlewan, parce que tu as offensé l’esprit du roi;
+> > Je te dis cela, ô Pehlewan, parce que tu as offensé l’esprit du roi;
 > >
 > > Tu ne t’es pas présenté à sa cour illustre, tu n’as pas vu les grands qui l’entourent;
 > >

@@ -82,7 +82,7 @@ Lohrasp, resté seul au milieu des ennemis, invoqua dans sa détresse le nom de 
 
 Une flèche turque frappa le vieillard, et ce vaillant adorateur de Dieu fut renversé; sa tête couronnée, tomba dans la poussière, et une foule de cavaliers se rassembla autour de lui.
 
-Ils brisèrent son armure de Keïanide, ils taillèrent en pièces son corps avec leurs épées; tous avaient pensé que c’était un jeune guerrier; mais lorsqu’ils eurent ôté le casque de la tête du roi, ils virent ses cheveux blancs comme le camphre et son visage céleste noirci par le fer de son casque.
+Ils brisèrent son armure de Keïanide, ils taillèrent en pièces son corps avec leurs épées; tous avaient pensé que c’était un jeune guerrier; mais lorsqu’ils eurent ôté le casque de la tête du roi, ils virent ses cheveux blancs comme le camphre et son visage céleste noirci par le fer de son casque.
 
 Tous restèrent devant lui, confondus, disant :
 

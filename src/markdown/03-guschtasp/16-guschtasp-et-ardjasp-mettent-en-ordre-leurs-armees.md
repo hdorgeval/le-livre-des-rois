@@ -37,7 +37,7 @@ Un de ces cavaliers revint et dit au roi:
 
 > Ô roi, l’armée des Turcs est tout près;
 >
-> c’est une armée, ô maître de la terre, telle qu’il n’en est jamais sorti du pays des Turcs et de la Chine;
+> c’est une armée, ô maître de la terre, telle qu’il n’en est jamais sorti du pays des Turcs et de la Chine;
 >
 > elle s’est arrêtée près de nous et a couvert de ses tentes la montagne, les vallées et la plaine.
 >

@@ -26,7 +26,7 @@ Guschtasp lui répondit :
 
 > Ô mon épouse fidèle!
 >
-> Lorsque ton père, le chef de ce peuple, chasse de la ville son gendre, comment veux-tu qu’il agisse comme il convient à un homme, quand il me voit? Néanmoins, si tu le désires, je suivrai ton avis, ô mon guide!
+> Lorsque ton père, le chef de ce peuple, chasse de la ville son gendre, comment veux-tu qu’il agisse comme il convient à un homme, quand il me voit? Néanmoins, si tu le désires, je suivrai ton avis, ô mon guide!
 
 Il demanda alors qu’on plaçât la selle sur un cheval qui enroulait la terre sous ses pieds; il partit et arriva au cirque du Kaisar, s’avança jusqu’à ce qu’il pût voir les coups de raquette, demanda aux joueurs une balle et une raquette et lança la balle droit parmi les cavaliers, tout en poussant son cheval.
 
@@ -104,10 +104,10 @@ Là-dessus le Kaisar rentra dans son palais, et le ciel tourna ainsi pendant qu
 
 Un matin Guschtasp se leva, et ce jeune homme plein de sens se rendit auprès du Kaisar.
 
-Celui-ci resta confondu à son aspect; il le fit asseoir sur le trône d’or, et fit tirer du trésor une ceinture, un anneau et un magnifique diadème impérial; ensuite il l’embrassa, lui plaça sur la tête le diadème et se mit à parler de ce qui s’était passé;
+Celui-ci resta confondu à son aspect; il le fit asseoir sur le trône d’or, et fit tirer du trésor une ceinture, un anneau et un magnifique diadème impérial; ensuite il l’embrassa, lui plaça sur la tête le diadème et se mit à parler de ce qui s’était passé;
 
 Ensuite il dit à tous ceux qui étaient présents :
 
-> Faites attention, ô vous, jeunes et vieux! vous tous obéirez à Farrukhzad, vous ne vous écarterez ni de ses ordres ni de son exemple.
+> Faites attention, ô vous, jeunes et vieux! vous tous obéirez à Farrukhzad, vous ne vous écarterez ni de ses ordres ni de son exemple.
 
 Le même avis fut donné dans tout l’empire à chaque roi et à chaque prince.

@@ -59,7 +59,7 @@ Isfendiar dit au prudent Djamasp:
 >
 > Si je me rends à la cour avec toi, mon père me maltraitera, et si je me refuse à paraître auprès de mon maître, je sors de l’obéissance que je lui dois.
 >
-> Trouve un moyen de salut, ô sage vieillard, car je ne puis rester dans cette incertitude.
+> Trouve un moyen de salut, ô sage vieillard, car je ne puis rester dans cette incertitude.
 
 Le sage lui dit:
 

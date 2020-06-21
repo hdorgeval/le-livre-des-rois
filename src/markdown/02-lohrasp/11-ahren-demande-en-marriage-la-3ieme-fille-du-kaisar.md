@@ -62,7 +62,7 @@ Un esclave lui dit qu’Ahren au corps d’éléphant arrivait avec une escorte;
 
 Quand Mirin le vit, il l’embrassa et lui demanda des nouvelles de sa santé.
 
-Ensuite ils renvoyèrent tout le monde de la salle d’audience, et les deux princes s’assirent tout seuls sur le trône. Ahren lui dit:
+Ensuite ils renvoyèrent tout le monde de la salle d’audience, et les deux princes s’assirent tout seuls sur le trône. Ahren lui dit:
 
 > Réponds-moi, et ne cherche pas à me tromper dans ce que je te demande.
 >
@@ -76,7 +76,7 @@ Il dit à Ahren :
 
 Ahren s’engagea sur-le-champ par un serment solennel et accepta en tout point cette convention. Alors Mirin appliqua le roseau sur le papier et écrivit une lettre à Heischoui, dans laquelle il dit:
 
-> Ahren, qui descend de la famille des Kaisars, est un prince ambitieux, riche, juste et possesseur d’un trône;
+> Ahren, qui descend de la famille des Kaisars, est un prince ambitieux, riche, juste et possesseur d’un trône;
 >
 > il demande à épouser une fille du Kaisar, la dernière qui lui reste;
 >
@@ -106,7 +106,7 @@ Quand il fut plus près les deux hommes au cœur joyeux coururent à pied au-de
 
 Heischoui s’empressa de lui adresser ces paroles:
 
-> Puisses-tu être heureux jour et nuit, ô homme illustre!
+> Puisses-tu être heureux jour et nuit, ô homme illustre!
 >
 > Regarde ce descendant des Kaisars, qui fait la joie du ciel qui tourne.
 >
@@ -118,7 +118,7 @@ Heischoui s’empressa de lui adresser ces paroles:
 >
 > > Deviens vainqueur de dragons; si tu es de ma race, fais une empreinte de Kaisar.
 >
-> Devant les grands, il ne parle, jour et nuit, que de Mirin, en répétant que quiconque veut devenir un ornement du trône doit être l’émule du renom et de la fortune de Mirin.
+> Devant les grands, il ne parle, jour et nuit, que de Mirin, en répétant que quiconque veut devenir un ornement du trône doit être l’émule du renom et de la fortune de Mirin.
 >
 > Or, il y a non loin d’ici une haute montagne, qui offre partout des lieux propices aux fêtes et aux banquets; mais un dragon demeure sur le sommet de la montagne, et tout le pays de Roum est terrifié par ses ravages;
 >

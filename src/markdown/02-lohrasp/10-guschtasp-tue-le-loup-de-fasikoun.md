@@ -111,7 +111,7 @@ Kitaboun lui dit:
 
 Il répondit:
 
-> J’ai rêvé de ma fortune et de mon trône.
+> J’ai rêvé de ma fortune et de mon trône.
 
 Alors Kitaboun comprit que par sa naissance il était de rang tout à fait royal, qu’il était un grand personnage, mais qu’il ne voulait pas le lui dire ni demander du pouvoir au Kaisar.
 

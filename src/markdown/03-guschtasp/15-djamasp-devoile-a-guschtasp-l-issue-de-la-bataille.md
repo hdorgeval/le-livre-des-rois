@@ -48,7 +48,7 @@ order: '15'
 
 Ayant quitté Balkh la glorieuse et étant arrivés sur le Djihoun, le roi et son armée s’arrêtèrent.
 
-Guschtasp sortit du camp, descendit de cheval et monta sur un trône;
+Guschtasp sortit du camp, descendit de cheval et monta sur un trône;
 
 il fit appeler l’illustre Djamasp, son guide spirituel, le chef des Mobeds, le roi des nobles, le flambeau des grands et des Sipehbeds, un homme d’un corps si pur et d’une âme si sainte que l’avenir était ouvert pour lui;
 
@@ -80,7 +80,7 @@ Le sage répondit:
 >
 > Ne t’afflige pas de ce que dira ton esclave, n’écoute pas ta colère, car heureux est celui qui ne voit pas de ses yeux!
 >
-> Sache, ô vaillant et illustre Keïanide, qu’au moment où la bataille amènera face à face les héros, et où ils pousseront leurs cris et leurs clameurs, tu croiras qu’on arrache tous les rochers de leur base.
+> Sache, ô vaillant et illustre Keïanide, qu’au moment où la bataille amènera face à face les héros, et où ils pousseront leurs cris et leurs clameurs, tu croiras qu’on arrache tous les rochers de leur base.
 >
 > Les plus braves s’avanceront, l’air sera obscurci par la poussière du combat;
 >
@@ -172,25 +172,25 @@ Le sage répondit:
 >
 > il traversera le désert avec une petite escorte, le roi sera victorieux, et ses ennemis seront défaits.
 >
-> Sache, ô roi des rois, l’élu de Dieu, que je t’ai dit maintenant tout ce qui se passera, et tu n’entendras pas de moi .une parole de plus.
+> Sache, ô roi des rois, l’élu de Dieu, que je t’ai dit maintenant tout ce qui se passera, et tu n’entendras pas de moi .une parole de plus.
 >
-> Cesse de jeter sur moi des regards courroucés, car ce que je t’ai dit, je ne l’ai dit que sur ton ordre, ô roi victorieux!
+> Cesse de jeter sur moi des regards courroucés, car ce que je t’ai dit, je ne l’ai dit que sur ton ordre, ô roi victorieux!
 >
 > Quant aux autres questions que m’a faites le roi fortuné sur cette mer profonde et cette route ténébreuse du destin, je n’ai rien vu que j’aie caché au roi;
 >
 > s’il en était autrement, pourquoi lui aurais-je dévoilé les secret que j’ai révélés?
 
-Lorsque le roi maître du monde eut entendu ces secrets, il s’affaissa dans le coin de son trône, sa massue d’or s’échappa de ses mains;
+Lorsque le roi maître du monde eut entendu ces secrets, il s’affaissa dans le coin de son trône, sa massue d’or s’échappa de ses mains;
 
 tu aurais dit que toute sa gloire et sa force l’avaient abandonné;
 
 il s’appuya sur son visage et resta silencieux, il ne prononça plus une parole et s’évanouit.
 
-Lorsqu’il fut revenu à lui, il descendit de son trône et pleura amèrement, disant:
+Lorsqu’il fut revenu à lui, il descendit de son trône et pleura amèrement, disant:
 
 > A quoi me servent le trône et la royauté, puisque mes jours vont s’assombrir, puisque mes fils beaux comme du lunes, mes braves, mes cavaliers, mes rois vont périr?
 >
-> A quoi me serviront l’empire et la fortune, le pouvoir, l’armée, la couronne et le trône, puisque ceux qui me sont les plus chers, les meilleurs de l’armée et les plus illustres vont disparaître et m’arracher du corps ce cœur déchiré?
+> A quoi me serviront l’empire et la fortune, le pouvoir, l’armée, la couronne et le trône, puisque ceux qui me sont les plus chers, les meilleurs de l’armée et les plus illustres vont disparaître et m’arracher du corps ce cœur déchiré?
 
 Ensuite il dit à Djamasp:
 

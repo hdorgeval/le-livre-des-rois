@@ -44,7 +44,7 @@ Les scribes qui se trouvaient au palais se firent des signes l’un à l’autr
 
 Ensuite ils lui dirent à haute voix :
 
-> Nous avons déjà plus d’écrivains qu’il ne nous en faut , ô homme intelligent.
+> Nous avons déjà plus d’écrivains qu’il ne nous en faut , ô homme intelligent.
 
 A ces paroles Guschtasp sortit du bureau, le cœur plein de douleur, les joues pâles, et se dirigea, en poussant un grand soupir, vers le gardien des chevaux du roi.
 

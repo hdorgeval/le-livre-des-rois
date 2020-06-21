@@ -60,9 +60,9 @@ Heischoui lui dit :
 
 > Reste aujourd’hui joyeusement et amicalement chez moi.
 >
-> L’homme que tu m’as indiqué est un homme illustre, et porte haut la tête; toute la journée il ne s’occupe que de la chasse, et ne pense pas au trône du roi de l’Occident.
+> L’homme que tu m’as indiqué est un homme illustre, et porte haut la tête; toute la journée il ne s’occupe que de la chasse, et ne pense pas au trône du roi de l’Occident.
 >
-> Hier il n’est pas venu chez moi et n’a pas réjoui mon âme par sa présence, mais il va sans doute diriger ici ses pas aussitôt qu’il reviendra de la chasse.
+> Hier il n’est pas venu chez moi et n’a pas réjoui mon âme par sa présence, mais il va sans doute diriger ici ses pas aussitôt qu’il reviendra de la chasse.
 
 Il apporta du vin et ils se mirent à boire, assis au milieu de parfums et de fleurs, les coupes d’or en main; lorsqu’ils eurent vidé quatre coupes de vin, le vaillant cavalier parut dans la plaine.
 
@@ -88,7 +88,7 @@ Quand le vin couleur de rubis eut rougi les joues des convives, Heischoui dit a�
 >
 > Maintenant il voudrait encore grandir et s’allier au Kaisar de Roum; il a parlé au Kaisar et a reçu une réponse, et cette réponse fait trembler son cœur.
 >
-> Le Kaisar lui a dit : Tu trouveras dans la forêt de Fasikoun un loup grand comme un dromadaire, et lorsque tu l’auras tué, tu deviendras dans le Roum mon hôte honoré, tu deviendras un prince puissant et mon gendre, et le monde m’accordera ce qui est mon droit.
+> Le Kaisar lui a dit : Tu trouveras dans la forêt de Fasikoun un loup grand comme un dromadaire, et lorsque tu l’auras tué, tu deviendras dans le Roum mon hôte honoré, tu deviendras un prince puissant et mon gendre, et le monde m’accordera ce qui est mon droit.
 >
 > Maintenant si tu veux aider Mirin, je serai ton esclave, et cet homme illustre deviendra ton parent.
 

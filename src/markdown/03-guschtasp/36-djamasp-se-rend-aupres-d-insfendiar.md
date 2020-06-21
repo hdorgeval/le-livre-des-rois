@@ -91,7 +91,7 @@ Djamasp lui dit:
 
 Isfendiar lui répondit:
 
-> Ô homme de grand renom, dont l’étoile est puissante, ô héros
+> Ô homme de grand renom, dont l’étoile est puissante, ô héros
 > qui atteins l’objet de tous tes vœux, réfléchis donc que ce vieux Lohrasp, le dévot, le père de Guschtasp, sera mieux vengé par son fils, qui a ravi à son père le trône et les honneurs royaux!
 
 Djamasp dit:

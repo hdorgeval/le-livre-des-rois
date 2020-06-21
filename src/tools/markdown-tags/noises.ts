@@ -34,7 +34,7 @@ export const noises = [
   'Aucun',
   'Aujourd’hui',
   'Aussi',
-  'Aussitôt',
+  'Aussitôt',
   'Aussitôt',
   'Autrefois',
   'Avant',

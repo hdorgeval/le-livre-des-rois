@@ -29,7 +29,7 @@ Elles allèrent toutes les deux vers lui, leurs joues inondées de deux torrents
 >
 > Puisse le ciel obéir à tes ordres comme un esclave.
 >
-> Quelle nouvelle de Guschtasp et d’Isfendiar y a-t-il dans l’Iran, ô héros illustre!
+> Quelle nouvelle de Guschtasp et d’Isfendiar y a-t-il dans l’Iran, ô héros illustre!
 >
 > Voici deux filles de roi captives entre des mains impures, la tête et les pieds nus, les épaules chargées de cruches d’eau!
 >
@@ -85,7 +85,7 @@ Il permit alors à tous ceux qu’il honorait le plus, aux plus renommés de se
 
 Isfendiar lui dit:
 
-> Ô roi, ô homme illustre, ô Mobed, maître du monde, homme noble et intelligent! ma maison est trop étroite et sa terrasse est trop haute; mais nous serions très bien sur ce rempart du château intérieur.
+> Ô roi, ô homme illustre, ô Mobed, maître du monde, homme noble et intelligent! ma maison est trop étroite et sa terrasse est trop haute; mais nous serions très bien sur ce rempart du château intérieur.
 >
 > Nous sommes à l’entrée du mois de juin, nous ferons un feu en plein air, nous réjouirons le cœur des nobles avec du vin.
 

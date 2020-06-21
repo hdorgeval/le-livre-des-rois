@@ -58,7 +58,7 @@ Zewareh aperçut d’en bas le morceau de rocher, et entendit le bruit qu’il f
 
 Il s’écria:
 
-> Ô Pehlewan, ô cavalier! voici une pierre qui vient en bondissant du haut de la montagne!
+> Ô Pehlewan, ô cavalier! voici une pierre qui vient en bondissant du haut de la montagne!
 
 Rustem sourit, il ne lâcha pas l’onagre, à la grande frayeur de Zewareh, et attendit que la pierre fût arrivée près de lui et que toute la montagne fût couverte de la poussière qu’elle soulevait;
 

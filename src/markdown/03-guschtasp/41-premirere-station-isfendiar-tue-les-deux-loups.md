@@ -56,7 +56,7 @@ Isfendiar lui dit:
 
 Kergsar lui répondit:
 
-> Ô Isfendiar, ô roi aux traces fortunées! trois routes conduisent d’ici à cette cour d’Ardjasp, à laquelle il donne le nom de son château fort;
+> Ô Isfendiar, ô roi aux traces fortunées! trois routes conduisent d’ici à cette cour d’Ardjasp, à laquelle il donne le nom de son château fort;
 >
 > l’une exige trois mois, la seconde deux mois, et l’on peut conduire une armée par l’une et par l’autre; sur la première on trouve partout de l’eau, des fourrages et des villes, et elle traverse les possessions de deux tiers des grands du Touran.
 >
@@ -92,7 +92,7 @@ Le héros répliqua:
 
 Kergsar répondit:
 
-> Ô roi fortuné, ô cavalier élut!
+> Ô roi fortuné, ô cavalier élut!
 >
 > Deux loups viendront t’attaquer d’abord, un mâle et une femelle, chacun semblable à un éléphant terrible; ils portent sur la tête des cornes comme des cerfs et sont avides de combattre des lions; ils ont des défenses comme des éléphants furieux, des poitrines et des membres larges et des flancs maigres.
 

@@ -92,7 +92,7 @@ Rustem lui répondit:
 >
 > Prie-le de voir s’il y a un remède à ce malheur, s’il y a un secret pour guérir ces blessures;
 >
-> car, ô Zal, je sais bien que, si je survis cette fois aux flèches d’Isfendiar, c’est comme si j’étais né aujourd’hui de ma mère.
+> car, ô Zal, je sais bien que, si je survis cette fois aux flèches d’Isfendiar, c’est comme si j’étais né aujourd’hui de ma mère.
 >
 > Quand tu seras arrivé, tâche de sauver Raksch;
 >
@@ -172,7 +172,7 @@ Ensuite il dit à Beschouten:
 >
 > Nous tous, jeunes et vieux, appartenons à la mort : puisse la raison nous aider à mourir comme il convient!
 
-Il envoya ses fils au maître du trône, dans des cercueils d’or et portés sur des brancards d’ébène, et fit dire à son père:
+Il envoya ses fils au maître du trône, dans des cercueils d’or et portés sur des brancards d’ébène, et fit dire à son père:
 
 > Voici les fruits que tes machinations commencent à porter.
 >
@@ -180,11 +180,11 @@ Il envoya ses fils au maître du trône, dans des cercueils d’or et portés
 >
 > Isfendiar vit encore, mais je ne sais quel fruit le sort lui réserve.
 >
-> Tu es assis sur le trône des délices, et lui se consume dans sa douleur;
+> Tu es assis sur le trône des délices, et lui se consume dans sa douleur;
 >
-> Mais le trône et ses délices ne te resteront pas toujours!
+> Mais le trône et ses délices ne te resteront pas toujours!
 
-Il s’assit sur son trône, dans son deuil et dans sa douleur, et se mit à parler de Rustem en disant à Beschouten:
+Il s’assit sur son trône, dans son deuil et dans sa douleur, et se mit à parler de Rustem en disant à Beschouten:
 
 > Le lion recule devant la main de l’homme vaillant.
 >

@@ -30,7 +30,7 @@ order: '77'
 
 # Rustem tient conseil avec sa famille
 
-Rustem, de son côté, arriva dans son palais, et Destan le vit dans l’état où il se trouvait;
+Rustem, de son côté, arriva dans son palais, et Destan le vit dans l’état où il se trouvait;
 
 Zewareh et Faramourz se mirent à pleurer, ils se consumèrent de douleur en voyant ces blessures;
 

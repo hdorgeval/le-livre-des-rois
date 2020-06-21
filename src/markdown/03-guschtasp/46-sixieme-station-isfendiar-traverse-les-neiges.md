@@ -44,11 +44,11 @@ Kergsar lui répondit à haute voix:
 
 > Ô illustre et fortuné Isfendiar! il n’y aurait rien d’étonnant à ce que tu t’en retournasses maintenant; il faut que tu prennes la mesure de ta fortune.
 >
-> Dieu t’a été en aide jusqu’ici, ô favori de la fortune, et cet arbre royal a porté fruit; mais demain t’attend un danger en comparaison duquel un homme vaillant tiendrait pour rien un jour de bataille.
+> Dieu t’a été en aide jusqu’ici, ô favori de la fortune, et cet arbre royal a porté fruit; mais demain t’attend un danger en comparaison duquel un homme vaillant tiendrait pour rien un jour de bataille.
 >
 > Tu n’y penseras ni à ta massue, ni à ton arc, ni à ton épée; tu n’y trouveras ni porte pour le combat, ni voie pour la fuite.
 >
-> Tu auras de la neige haut comme une lance, tu te trouveras en face d’un sort invincible, et tu resteras, ô noble Isfendiar, dans la neige avec ton armée glorieuse.
+> Tu auras de la neige haut comme une lance, tu te trouveras en face d’un sort invincible, et tu resteras, ô noble Isfendiar, dans la neige avec ton armée glorieuse.
 >
 > Il est naturel que tu t’en retournes, et il ne faut pas m’en vouloir de ce que je dis : tu deviendrais le meurtrier de ton armée.
 >

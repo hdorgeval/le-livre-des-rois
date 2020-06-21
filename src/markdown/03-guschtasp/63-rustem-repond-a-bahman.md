@@ -61,7 +61,7 @@ Rustem écouta les paroles de Bahman, et le cerveau du vieillard se remplit de s
 > >
 > > Je t’apporterai les traités que les rois m’ont accordés, en commençant par celui de Keï Khosrou et en remontant jusqu’à Keï Kobad.
 > >
-> > Mais maintenant, ô homme vaillant, que tu t’occupes de moi, rappelle-toi mes nombreux hauts faits, le bien que j’ai accompli, les fatigues et les chagrins que j’ai supportés, le culte que j’ai rendu à tous les rois depuis les temps anciens jusqu’à ce jour.
+> > Mais maintenant, ô homme vaillant, que tu t’occupes de moi, rappelle-toi mes nombreux hauts faits, le bien que j’ai accompli, les fatigues et les chagrins que j’ai supportés, le culte que j’ai rendu à tous les rois depuis les temps anciens jusqu’à ce jour.
 > >
 > > Or si les chaînes doivent être ma récompense de toutes ces peines, si ce roi d’Iran veut me perdre, il aurait mieux valu ne pas naître, ou, étant né, ne pas rester dans cette vie.
 > >

@@ -59,7 +59,7 @@ Guerami aperçut ce drapeau bleu qu’on avait laissé tomber du dos d’un él�
 
 Les braves de la Chine virent que Guerami appuyait la lance du drapeau sur la selle de son cheval, en ôtait la terre et le nettoyait de la poussière; les plus vaillants d’entre eux l’entourèrent, l’attaquèrent de tous côtés et lui abattirent une main par un coup d’épée.
 
-Alors il saisit le drapeau de Feridoun avec ses dents, et, ô merveille! il frappa de la massue avec la main qui lui restait; mais à la fin ils le tuèrent misérablement, et le jetèrent sur ce sol chaud de sang versé, comme une chose vile.
+Alors il saisit le drapeau de Feridoun avec ses dents, et, ô merveille! il frappa de la massue avec la main qui lui restait; mais à la fin ils le tuèrent misérablement, et le jetèrent sur ce sol chaud de sang versé, comme une chose vile.
 
 Hélas! ce vaillant cavalier plein de cœur, le sage vieillard ne le revit plus!
 

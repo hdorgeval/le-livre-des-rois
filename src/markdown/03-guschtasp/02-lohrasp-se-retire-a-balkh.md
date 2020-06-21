@@ -45,7 +45,7 @@ Il resta ainsi trente ans debout devant Dieu; c’est de cette manière qu’il 
 
 Il adressa sans cesse des prières au soleil : telle avait été la coutume de Djemschid.
 
-Lorsque Guschtasp fut monté sur le trône de son père, qu’il eut hérité de sa puissance et de sa haute fortune, il plaça sur sa tête la couronne qu’il avait reçue de Lohrasp.
+Lorsque Guschtasp fut monté sur le trône de son père, qu’il eut hérité de sa puissance et de sa haute fortune, il plaça sur sa tête la couronne qu’il avait reçue de Lohrasp.
 
 Ô qu’une couronne orne bien la tête d’un homme noble!
 

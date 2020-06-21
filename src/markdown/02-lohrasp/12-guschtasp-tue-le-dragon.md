@@ -56,7 +56,7 @@ Il s’écria:
 >
 > Puisse Dieu m’accorder de la vie jusqu’à ce que j’aie revu pour une seule fois les traits du roi! Je lui dirais:
 >
-> > A quoi m’a servi la recherche du trône? Je l’ai poursuivie , mais la fortune m’a abandonné.
+> > A quoi m’a servi la recherche du trône? Je l’ai poursuivie , mais la fortune m’a abandonné.
 
 Ensuite il monta sur son destrier, la joue inondée de larmes et son khandjar brillant en main;
 
@@ -98,11 +98,11 @@ Quiconque voyait la blessure faite par le coup d’épée et entendait le bruit 
 
 Cependant le Kaisar sortit de son palais, rassembla les grands et les sages et célébra par un festin la mort du dragon, depuis l’aube du jour jusqu’à ce que le monde fût couvert de ténèbres.
 
-Aussitôt que le soleil sur son trône eut posé la couronne sur sa tête et que les feuilles des platanes furent dorées par ses rayons, le Kaisar fit chercher le Destour, demanda des nouvelles de sa santé et le fit asseoir sur le trône d’or; tous les patriciens et tous les docteurs de la ville qui avaient un nom honoré se réunirent devant l’évêque avec le
+Aussitôt que le soleil sur son trône eut posé la couronne sur sa tête et que les feuilles des platanes furent dorées par ses rayons, le Kaisar fit chercher le Destour, demanda des nouvelles de sa santé et le fit asseoir sur le trône d’or; tous les patriciens et tous les docteurs de la ville qui avaient un nom honoré se réunirent devant l’évêque avec le
 Kaisar et ses conseillers, et l’on donna à Ahren la fille du Kaisar, du consentement de sa mère pleine de tendresse.
 
-Aussitôt que cette foule eut quitté la salle d’audience, le cœur du Kaisar illustre s’épanouit et il dit :
+Aussitôt que cette foule eut quitté la salle d’audience, le cœur du Kaisar illustre s’épanouit et il dit :
 
 > Ce jour est mon grand jour et le puissant ciel remplit mon âme de joie, car personne dans le monde, parmi les grands et parmi les petits, n’a jamais eu deux gendres comme moi.
 
-Il fit écrire une lettre à tous les princes qui possédaient un trône ou un diadème, pour leur dire que le vaillant dragon et le fier loup étaient tombés sous les coups de deux héros.
+Il fit écrire une lettre à tous les princes qui possédaient un trône ou un diadème, pour leur dire que le vaillant dragon et le fier loup étaient tombés sous les coups de deux héros.

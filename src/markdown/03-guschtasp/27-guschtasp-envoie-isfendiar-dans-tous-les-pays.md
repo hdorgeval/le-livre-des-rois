@@ -76,7 +76,7 @@ Ainsi se passa quelque temps; le monde était purifié et soumis à la foi sain
 >
 > Personne ne craint plus rien de la part de personne, aucun homme dans le monde ne manque d’or ni d’argent, la terre brille comme le paradis, le monde entier est cultivé et couvert de moissons, les cavaliers protègent tous les pays, et les laboureurs sont occupés aux travaux de la terre.
 >
-> Le monde étant ainsi en repos, et les hommes qui suivent de mauvaises voies étant dispersés, que m’ordonnes-tu, ô roi des héros qui portent haut la tête?
+> Le monde étant ainsi en repos, et les hommes qui suivent de mauvaises voies étant dispersés, que m’ordonnes-tu, ô roi des héros qui portent haut la tête?
 >
 > Fais-moi savoir ce que tu désires de ces deux choses: ou que je me rende à ta cour pour te voir, ou que j’exécute tout autre ordre que tu aurais à me donner?
 

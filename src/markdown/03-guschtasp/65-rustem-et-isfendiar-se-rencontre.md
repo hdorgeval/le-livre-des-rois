@@ -52,7 +52,7 @@ Tehemten traversa le fleuve, et, arrivé à terre, il descendit de cheval et sa
 
 Après lui avoir rendu hommage, il dit:
 
-> J’avais prié Dieu l’unique pour qu’il te guidât, ô prince illustre, de manière que tu arrivasses ici en bonne santé avec ton armée.
+> J’avais prié Dieu l’unique pour qu’il te guidât, ô prince illustre, de manière que tu arrivasses ici en bonne santé avec ton armée.
 >
 > Maintenant nous parlerons ensemble, nous nous répondrons, et nous prendrons une résolution qui portera bonheur.
 >
@@ -70,7 +70,7 @@ Après lui avoir rendu hommage, il dit:
 
 Isfendiar écouta les paroles de Rustem, descendit de son noble destrier, serra sur sa poitrine le héros, au corps d’éléphant, et se mit à le bénir dans sa joie, disant:
 
-> Grâces soient rendues à Dieu, ô Pehlewan du monde, de t’avoir vu bien portant et plein de sérénité!
+> Grâces soient rendues à Dieu, ô Pehlewan du monde, de t’avoir vu bien portant et plein de sérénité!
 >
 > C’est un devoir de célébrer ta gloire, et les héros doivent devenir de la poussière sous tes pieds.
 >
@@ -102,7 +102,7 @@ Isfendiar lui dit:
 >
 > Je me tiens devant toi ceint comme un esclave, et je ne permettrai pas que tes chaînes restent jusqu’à la nuit, ou qu’un danger quelconque t’atteigne.
 >
-> Prends tout cela en bien, ô Pehlewan! tu ne peux croire que de ton roi il t’arrive du mal, et du moment où j’aurai posé la couronne sur ma tête, je placerai sous ta main le monde entier.
+> Prends tout cela en bien, ô Pehlewan! tu ne peux croire que de ton roi il t’arrive du mal, et du moment où j’aurai posé la couronne sur ma tête, je placerai sous ta main le monde entier.
 >
 > Ce que je te demande n’est pas un péché contre Dieu, le distributeur de la justice, et il n’y a aucune honte à supporter ce qui vient de la couronne et du roi;
 >

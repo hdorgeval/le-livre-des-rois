@@ -146,7 +146,7 @@ Zal-Zer sourit en l’écoutant: il secoua pendant un instant la tête en réfl�
 >
 > Ne te laisse pas aller au manque de respect envers les rois.
 >
-> Je t’ai donné mon avis, et tu le connais maintenant, ô lune de l’assemblée des grands.
+> Je t’ai donné mon avis, et tu le connais maintenant, ô lune de l’assemblée des grands.
 
 Lorsqu’ils eurent ainsi parlé, Zal se prosterna le front contre terre et implora le Créateur, disant:
 

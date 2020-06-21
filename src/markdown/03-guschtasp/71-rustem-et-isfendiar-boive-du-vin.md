@@ -141,9 +141,9 @@ Ensuite il dit à cet homme plein de fierté:
 >
 > Tu sèmes de ta propre main des maux pour toi, et si tu es malveillant, tu t’attireras des malheurs.
 >
-> Ne commets, ô roi, ne commets pas un acte de jeunesse, ne t’obstine pas à faire une chose mauvaise!
+> Ne commets, ô roi, ne commets pas un acte de jeunesse, ne t’obstine pas à faire une chose mauvaise!
 >
-> N’afflige pas mon cœur, ô roi! ne mets pas en danger ma vie et la tienne.
+> N’afflige pas mon cœur, ô roi! ne mets pas en danger ma vie et la tienne.
 >
 > Aie donc honte devant Dieu et devant moi, et ne recherche pas ta destruction et la mienne.
 >

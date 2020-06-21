@@ -67,7 +67,7 @@ Le méchant Gurezm répondit:
 >
 > Je ne refuserai au roi aucun conseil, quand même il ne l’approuverait pas; je ne lui cacherai jamais rien, quand même il aimerait mieux que je n’eusse pas parlé, car si je parle et s’il ne m’écoute pas, il vaut toujours mieux dévoiler un secret que d’en faire mystère.
 >
-> Sache donc, ô maître du monde, qu’Isfendiar médite de lutter contre toi;
+> Sache donc, ô maître du monde, qu’Isfendiar médite de lutter contre toi;
 >
 > beaucoup de troupes se sont rendues auprès de lui, toute l’armée tourne les yeux vers ce héros, et son intention est de te jeter dans les fers, car il te supporte impatiemment à la tête de l’empire;
 >

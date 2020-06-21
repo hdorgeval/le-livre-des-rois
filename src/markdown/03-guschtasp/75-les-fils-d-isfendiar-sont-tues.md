@@ -81,7 +81,7 @@ Son cœur bouillonnait, son âme était blessée;
 
 Il lança son cheval au corps d’éléphant, et s’avança du centre de l’armée vers les lignes ennemies, en écumant de rage.
 
-De l’autre côté, Faramourz, semblable à un éléphant ivre, sortit des rangs, une épée indienne en main, et attaqua l’illustre Mihri-Nousch;
+De l’autre côté, Faramourz, semblable à un éléphant ivre, sortit des rangs, une épée indienne en main, et attaqua l’illustre Mihri-Nousch;
 
 Les deux armées poussèrent des cris;
 

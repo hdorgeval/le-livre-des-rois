@@ -39,9 +39,9 @@ Le héros dit:
 >
 > Tu veilleras ici jour et nuit et garantiras l’armée coutre une surprise de l’ennemi.
 >
-> Un homme n’est digne d’honneurs et propre à l’empire et au trône du pouvoir que lorsqu’il ne craint le combat ni contre toute armée qui s’avance, ni contre le léopard dans la montagne et le crocodile dans l’eau.
+> Un homme n’est digne d’honneurs et propre à l’empire et au trône du pouvoir que lorsqu’il ne craint le combat ni contre toute armée qui s’avance, ni contre le léopard dans la montagne et le crocodile dans l’eau.
 >
-> Il emploie tantôt la ruse, tantôt la force; tantôt il est en haut, tantôt il est en bas.
+> Il emploie tantôt la ruse, tantôt la force; tantôt il est en haut, tantôt il est en bas.
 >
 > J’entrerai dans ce château, déguisé en marchand, et ne dirai à personne que je suis un Pehlewan.
 >
@@ -55,7 +55,7 @@ Ensuite il appela le chef des chameliers, le fit mettre à genoux devant Bescho
 
 > Prépare cent chameaux de charge, au poil roux, à la tête haute, des bêtes superbes.
 
-Il en chargea dix d’or, cinq de brocart de Chine et cinq autres de joyaux de toute espèce, d’un trône d’or et d’une couronne d’un grand poids.
+Il en chargea dix d’or, cinq de brocart de Chine et cinq autres de joyaux de toute espèce, d’un trône d’or et d’une couronne d’un grand poids.
 
 Il fit apporter quatre-vingts paires de caisses dont les fermetures n’étaient pas visibles, et choisit parmi ses héros cent soixante hommes qui certainement ne trahiraient pas son secret. Il plaça ces héros dans les caisses, fit charger les bagages et se mit en route.
 

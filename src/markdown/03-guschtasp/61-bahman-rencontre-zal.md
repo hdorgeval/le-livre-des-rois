@@ -62,7 +62,7 @@ Zal lui répondit:
 >
 > Rustem va revenir de la chasse avec Zewareh, Faramourz et son escorte.
 >
-> Viens avec tes cavaliers, ô homme noble, et réjouis ton cœur avec quelques coupes de vin.
+> Viens avec tes cavaliers, ô homme noble, et réjouis ton cœur avec quelques coupes de vin.
 
 Bahman dit:
 
