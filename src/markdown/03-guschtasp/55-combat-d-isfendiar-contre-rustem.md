@@ -82,7 +82,7 @@ Le roi appela sur-le-champ Djamasp et les astrologues de Lohrasp, qui arrivèren
 
 Le roi leur fit des questions sur Isfendiar, si ses jours seraient longs, s’il mènerait une vie vertueuse, tranquille et douce, s’il placerait sur sa tête la couronne impériale, et si le diadème des rois lui resterait longtemps.
 
-Quand Djamasp, le sage de l’Iran, entendit ces paroles, il consulta ses vieilles tables astronomiques; ses yeux se remplirent de larmes de douleur, et ce qu’il apprit lui lit froncer les sourcils. Il s’ écria:
+Quand Djamasp, le sage de l’Iran, entendit ces paroles, il consulta ses vieilles tables astronomiques; ses yeux se remplirent de larmes de douleur, et ce qu’il apprit lui fit froncer les sourcils. Il s’ écria:
 
 > Maudit soit ce jour et maudite mon étoile, et mon savoir accable de malheur ma tête!
 >
