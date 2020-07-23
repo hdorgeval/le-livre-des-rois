@@ -75,7 +75,7 @@ Alors on releva le corps de Raksch, on le lava, on le couvrit d’étoffes;
 
 On employa deux jours à ce travail; enfin on chargea le corps de Raksch sur un éléphant.
 
-Depuis Kaboul jusqu’au Zaboulistan le monde était comme bouleversé; on ne voyait-que femmes et hommes se tenant debout, et pas un être vivant n’aurait plus trouvé une place.
+Depuis Kaboul jusqu’au Zaboulistan le monde était comme bouleversé; on ne voyait que femmes et hommes se tenant debout, et pas un être vivant n’aurait put y trouver une place.
 
 On se passait de main en main les deux cercueils;
 
