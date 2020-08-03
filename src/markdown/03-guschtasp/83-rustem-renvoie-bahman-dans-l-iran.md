@@ -87,7 +87,7 @@ Ensuite il fit écrire à Bahman:
 
 > Aussitôt que tu liras cette lettre, tu quitteras le Zaboulistan, car j’ai besoin de te voir;
 >
-> Ainsi apprête-toi et ne tarde pas.
+> Ainsi apprête-toi et ne tarde pas.
 
 Lorsque le scribe lut à Rustem la lettre du roi, le héros, ami de la sagesse, s’en réjouit.
 

@@ -44,7 +44,7 @@ Il dit aux Iraniens:
 >
 > Pourquoi nous tenir tranquilles dans un jour pareil?
 >
-> Vous êtes venus pour combattre le crocodile, vous êtes venus pour attaquer Rustem, vous voulez enchaîner sa main, il ne faut donc pas rester paisibles sur ce champ de bataille.
+> Vous êtes venus pour combattre le crocodile, vous êtes venus pour attaquer Rustem, vous voulez enchaîner sa main, il ne faut donc pas rester paisibles sur ce champ de bataille.
 
 Ensuite il se mit à injurier les Iraniens et à proférer des outrages contre eux.
 
@@ -56,7 +56,7 @@ C’était un cavalier illustre, habile à lancer un cheval, un jeune prince du
 >
 > Le vaillant Isfendiar ne nous a pas permis de livrer bataille à des chiens qui se soustraient à ses avis et à ses ordres, qui osent se révolter contre sa suzeraineté.
 >
-> Mais si vous nous attaquez contre tout droit, si vous êtes assez insensés pour prêter main-forte à ce qui est mauvais, vous verrez comment les hommes de guerre combattent avec l’épée et la lance et la lourde massue.
+> Mais si vous nous attaquez contre tout droit, si vous êtes assez insensés pour prêter main-forte à ce qui est mauvais, vous verrez comment les hommes de guerre combattent avec l’épée et la lance et la lourde massue.
 
 Zewareh ordonna aux siens de marcher en avant, d’attaquer et de frapper
 les chefs des Iraniens;
@@ -67,7 +67,7 @@ Nousch-Ader vit ce carnage, se prépara au combat, monta sur un destrier isabell
 
 Or il y eut un héros illustre, du nom d’Alwa, un homme fier, bon cavalier, d’un naturel joyeux, qui portait dans les batailles la lance de Rustem et se tenait toujours derrière lui.
 
-Nousch-Ader le vit de loin et se hâta de tirer son épée: il frappa sur la tête et fendit ce guerrier illustre depuis le haut du casque jusqu’au milieu du corps.
+Nousch-Ader le vit de loin et se hâta de tirer son épée: il frappa sur la tête et fendit ce guerrier illustre depuis le haut du casque jusqu’au milieu du corps.
 
 Zewareh lança son cheval de guerre et s’écria dans sa colère:
 

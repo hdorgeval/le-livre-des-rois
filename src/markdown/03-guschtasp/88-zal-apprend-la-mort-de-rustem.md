@@ -89,7 +89,7 @@ Tous ses serviteurs, qu’ils fussent des hommes libres ou des esclaves au cœur
 
 > Ô maître illustre, pourquoi veux-tu du musc et de l’ambre comme offrande, pourquoi ne prends-tu plus ta place à l’heure du banquet?
 >
-> Pourquoi ne revêts-tu plus ta cuirasse en peau de léopard au jour du combat?
+> Pourquoi ne revêts-tu plus ta cuirasse en peau de léopard au jour du combat?
 >
 > Pourquoi ne distribues-tu plus des trésors d’or?
 >

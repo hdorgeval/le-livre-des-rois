@@ -83,7 +83,7 @@ Beschouten poussa des hurlements sur lui, la joue couverte de sang, le cœur ple
 
 > Hélas, ô Isfendiar, ô héros, ô maître du monde de race royale!
 >
-> Qui a donc ébranlé cette montagne de guerre, qui a renversé ce lion furieux, qui a arraché à l’éléphant ces belles défenses, qui a arrêté ces vagues des flots du Nil?
+> Qui a donc ébranlé cette montagne de guerre, qui a renversé ce lion furieux, qui a arraché à l’éléphant ces belles défenses, qui a arrêté ces vagues des flots du Nil?
 >
 > Qu’est-il arrivé à cette race royale par le mauvais œil, puisque c’est le méchant qui doit souffrir le mal?
 >

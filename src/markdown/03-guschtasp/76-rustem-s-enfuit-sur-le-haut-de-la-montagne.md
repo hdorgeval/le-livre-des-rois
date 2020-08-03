@@ -138,7 +138,7 @@ Rustem répondit:
 
 Il le quitta, et Isfendiar le suivit des yeux pour voir comment le héros marcherait.
 
-Rustem traversa la rivière, semblable à un vaisseau, invoqua sur son corps les bénédictions de Dieu, et adressa au juge suprême ces paroles:
+Rustem traversa la rivière, semblable à un vaisseau, invoqua sur son corps les bénédictions de Dieu, et adressa au juge suprême ces paroles:
 
 > Si je meurs de mes blessures, qui parmi les grands voudra me venger, qui voudra imiter mon courage, ma sagesse et ma conduite ?
 
@@ -158,9 +158,9 @@ Beschouten s’avança;
 
 La mort du vaillant Nousch-Ader et de Mihri-Nousch l’avait rempli de douleur et de colère;
 
-La tente du roi était pleine de poussière, et tous les vêtements des grands étaient déchirés.
+La tente du roi était pleine de poussière, et tous les vêtements des grands étaient déchirés.
 
-Isfendiar descendit de son destrier et serra contre sa poitrine la tête des morts en s’écriant tristement:
+Isfendiar descendit de son destrier et serra contre sa poitrine la tête des morts en s’écriant tristement:
 
 > Ô mes deux vaillants enfants, la vie a donc quitté vos corps!
 
@@ -176,7 +176,7 @@ Il envoya ses fils au maître du trône, dans des cercueils d’or et portés su
 
 > Voici les fruits que tes machinations commencent à porter.
 >
-> Tu as lancé dans l’eau un vaisseau, tu as exigé de Rustem un acte de servitude: mais quand tu auras vu les cercueils de Nousch-Ader et de Mihri-Nousch, tu cesseras de prêter l’oreille aux conseils de Djamasp.
+> Tu as lancé dans l’eau un vaisseau, tu as exigé de Rustem un acte de servitude: mais quand tu auras vu les cercueils de Nousch-Ader et de Mihri-Nousch, tu cesseras de prêter l’oreille aux conseils de Djamasp.
 >
 > Isfendiar vit encore, mais je ne sais quel fruit le sort lui réserve.
 >
