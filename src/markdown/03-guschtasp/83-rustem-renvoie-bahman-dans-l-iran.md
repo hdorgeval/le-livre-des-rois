@@ -37,7 +37,7 @@ Après avoir invoqué les grâces de Dieu sur ceux à qui le repentir fait oubl
 
 > J’ai payé, selon les dernières volontés de son père, la dette de la raison;
 >
-> Et si le roi veut accepter mon repentir et me promettre d’oublier cette flèche fatale, tout ce que je puis par mon corps et mon âme est à lui, mon trésor et ma couronne, mon cerveau et ma peau.
+> Et si le roi veut accepter mon repentir et me promettre d’oublier cette flèche fatale, tout ce que je puis par mon corps et mon âme est à lui, mon trésor et ma couronne, mon cerveau et ma peau.
 
 Lorsque cette lettre parvint au roi du monde, il se trouvait isolé de tous les grands;
 

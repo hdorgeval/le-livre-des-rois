@@ -121,7 +121,7 @@ Il poussa un grand soupir, prononça ces paroles:
 
 > C’est Guschtasp qui m’a opprimé!
 
-Et à l’instant son âme pure quitta son corps blessé, qui retomba sur la poussière noire.
+Et à l’instant son âme pure quitta son corps blessé, qui retomba sur la poussière noire.
 
 Rustem, dans sa douleur, déchira ses vêtements, et s’écria, le cœur rempli d’angoisse, la tête couverte de poussière:
 
@@ -133,7 +133,7 @@ Ayant pleuré longtemps, il adressa au mort ces paroles:
 
 > Ô roi sans égal et sans pareil dans le monde!
 >
-> Puisse ton âme entrer dans le paradis, puissent tes ennemis recueillir tout ce qu’ils ont semé !
+> Puisse ton âme entrer dans le paradis, puissent tes ennemis recueillir tout ce qu’ils ont semé !
 
 Zewareh lui dit:
 
