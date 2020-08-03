@@ -73,7 +73,7 @@ Scheghad était blessé de ce qu’avait fait son frère, mais il n’en parla a
 
 > Je suis las du monde, et je renonce à toute déférence pour mon frère, puisqu’il n’a pas honte d’agir ainsi envers moi.
 >
-> Que m’importe que ce soit un frère aîné ou un étranger, un sage ou un fou?
+> Que m’importe que ce soit un frère aîné ou un étranger, un sage ou un fou?
 >
 > Préparons un moyen de l’amener dans nos filets;
 >
@@ -111,7 +111,7 @@ Scheghad dit au roi de Kaboul:
 
 Le roi partit; sa raison était égarée; il prépara une fête comme cet insensé le lui avait conseillé; il convia les grands et les petits du Kaboul, il les fit asseoir à des tables bien servies.
 
-Quand ils eurent dîné, ils se formèrent en assemblée;
+Quand ils eurent dîné, ils se formèrent en assemblée;
 
 On fit venir du vin et des chanteurs, et lorsque les têtes furent pleines des fumées de vin royal, Scheghad se lança dans des discours mal sonnants, disant au roi de Kaboul:
 

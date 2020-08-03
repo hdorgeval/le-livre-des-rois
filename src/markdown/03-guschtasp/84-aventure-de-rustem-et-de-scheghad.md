@@ -37,7 +37,7 @@ C’est un prince puissant, et lorsque des années sans nombre seront passées, 
 
 Heureux celui qui voit sa couronne, sa cour et son armée!
 
-Mes oreilles et mes pieds me refusent leur service, la pauvreté et les années ont emporté ma force; c’est ainsi que la fortune ennemie m’a enchaîné, et je soupire sur mon malheur et mon âge;
+Mes oreilles et mes pieds me refusent leur service, la pauvreté et les années ont emporté ma force; c’est ainsi que la fortune ennemie m’a enchaîné, et je soupire sur mon malheur et mon âge;
 
 Mais jour et nuit j’invoque les bénédictions de Dieu sur ce maître de la terre, ce distributeur de la justice, et le pays entier se joint à moi, si ce n’est les mécréants et les méchants; car depuis qu’il s’est assis sur le trône des Keïanides, qu’il a fermé la porte de la vengeance et lié la main du mal, il fait trembler ceux qui commettent des excès, quand même ils les commettent protégés par leur haut rang, et il traite généreusement ceux qui ont de la raison et qui ne dépassent pas la mesure qui leur est assignée.
 
