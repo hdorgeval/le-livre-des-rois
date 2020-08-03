@@ -34,7 +34,7 @@ son règne dura 120 ans
 
 ![regne-de-guschtasp](src/images/regne-guschtasp.jpeg)
 
-[Règne de Guschtasp](https://www.lelivredesrois.com/regne-de-guschtasp/) (`in progress`)
+[Règne de Guschtasp](https://www.lelivredesrois.com/regne-de-guschtasp/)
 
 son règne dura 100 ans
 
