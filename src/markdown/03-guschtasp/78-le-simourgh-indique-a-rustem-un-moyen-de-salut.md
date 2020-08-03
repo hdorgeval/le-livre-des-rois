@@ -19,11 +19,11 @@ Tous les trois étant convenus de ce plan hardi, le Sipehbed Zal monta sur une h
 
 Il apporta de son palais trois cassolettes remplies de feu, et trois hommes pleins de prudence l’accompagnèrent.
 
-Quand le magicien fut arrivé sur la crête de la montagne, il tira d’un morceau de brocart une plume, attisa le feu dans une des cassolettes, et brûla au-dessus de ce feu un bout de la plume.
+Quand le magicien fut arrivé sur la crête de la montagne, il tira d’un morceau de brocart une plume, attisa le feu dans une des cassolettes, et brûla au-dessus de ce feu un bout de la plume.
 
 Lorsqu’une veille de cette nuit sombre fut passée, on aurait dit que l’air devenait comme un nuage noir.
 
-Le Simourgh regarda du haut des airs, il vit la lueur de ce feu ardent devant lequel était Zal, le cœur ulcéré de douleur;
+Le Simourgh regarda du haut des airs, il vit la lueur de ce feu ardent devant lequel était Zal, le cœur ulcéré de douleur;
 
 L’oiseau s’approcha en décrivant des cercles, et Zal se leva avec ses trois hommes qui brûlaient de l’encens, bénit l’oiseau à plusieurs reprises et l’adora.
 
@@ -31,17 +31,17 @@ Il remplit les trois cassolettes de parfums devant lui, et inonda ses joues du s
 
 Le Simourgh lui dit:
 
-> Ô roi ! que s’est-il passé, pour que tu aies besoin de cette fumée?
+> Ô roi ! que s’est-il passé, pour que tu aies besoin de cette fumée?
 
 Zal répondit:
 
-> Puisse le malheur que m’ont apporté des hommes méchants et de mauvaise race frapper mes ennemis!
+> Puisse le malheur que m’ont apporté des hommes méchants et de mauvaise race frapper mes ennemis!
 >
-> Le corps de Rustem au cœur de lion est blessé, et mon pied est paralysé par les soucis que me donne mon fils;
+> Le corps de Rustem au cœur de lion est blessé, et mon pied est paralysé par les soucis que me donne mon fils;
 >
 > Car je crains pour sa vie, à cause de ses blessures, qui sont telles que personne dans le monde n’en a jamais vue de semblables.
 >
-> De même Raksch est comme mort, et se tord jour et nuit à cause des flèches qui l’ont frappé.
+> De même Raksch est comme mort, et se tord jour et nuit à cause des flèches qui l’ont frappé.
 >
 > Isfendiar est venu dans ce pays et ne respire que combats;
 >
@@ -57,11 +57,11 @@ Zal envoya quelqu’un auprès de Rustem et lui fit dire:
 
 > Trouve un moyen de te relever pour un instant et ordonne aussi qu’on m’amène Raksch sur-le-champ.
 
-Quand Rustem fut arrivé sur le haut de la montagne et que l’oiseau au cœur serein l’eut aperçu, il lui dit:
+Quand Rustem fut arrivé sur le haut de la montagne et que l’oiseau au cœur serein l’eut aperçu, il lui dit:
 
 > Ô puissant éléphant de guerre, quelle main t’a fait ce mal?
 >
-> Pourquoi as-tu voulu combattre Isfendiar, pourquoi as-tu jeté du feu dans ton sein?
+> Pourquoi as-tu voulu combattre Isfendiar, pourquoi as-tu jeté du feu dans ton sein?
 
 Zal répondit au Simourgh:
 
@@ -89,11 +89,11 @@ Alors l’oiseau lui dit:
 
 > Ô héros au corps d’éléphant, tu es plus glorieux que tous les grands de la cour;
 >
-> Pourquoi as-tu recherché le combat contre Isfendiar, le héros illustre au corps d’airain?
+> Pourquoi as-tu recherché le combat contre Isfendiar, le héros illustre au corps d’airain?
 
 Rustem répondit:
 
-> S’il n’avait pas parlé de chaînes, mon cœur n’aurait pas été effarouché;
+> S’il n’avait pas parlé de chaînes, mon cœur n’aurait pas été effarouché;
 >
 > Mais je préfère la mort au déshonneur, si jamais je me laisse vaincre dans le combat.
 
@@ -101,7 +101,7 @@ Le Simourgh répliqua:
 
 > Il n’y a aucune honte à baisser ta tête jusque dans la poussière devant Isfendiar;
 >
-> Car il est le vaillant fils du roi, et la majesté divine des rois repose sur cet homme au sang pur.
+> Car il est le vaillant fils du roi, et la majesté divine des rois repose sur cet homme au sang pur.
 >
 > Si tu veux maintenant faire un pacte avec moi, tu renonceras à toute envie de combat, tu ne chercheras pas à t’élever au-dessus d’Isfendiar sur le champ de bataille et dans la lutte, tu lui rendras demain hommage, tu lui offriras comme rançon ton corps et ton âme.
 >
@@ -113,7 +113,7 @@ Rustem se réjouit de ces paroles et cessa de craindre d’avoir à subir la ho
 
 Le Simourgh reprit:
 
-> Par amitié, je vais te dévoiler le secret du ciel.
+> Par amitié, je vais te dévoiler le secret du ciel.
 >
 > Quiconque versera le sang d’Isfendiar deviendra la proie du destin;
 >
@@ -121,7 +121,7 @@ Le Simourgh reprit:
 >
 > Il ne pourra garder ses trésors, la mauvaise fortune l’accompagnera dans cette vie, et quand il la quittera, il retrouvera dans l’autre des peines et le malheur;
 >
-> Mais si tu es décidé à suivre mon avis, je vais te rendre fort contre ton ennemi: je t’enseignerai cette nuit même un secret merveilleux, je fermerai ta bouche aux mauvaises paroles.
+> Mais si tu es décidé à suivre mon avis, je vais te rendre fort contre ton ennemi: je t’enseignerai cette nuit même un secret merveilleux, je fermerai ta bouche aux mauvaises paroles.
 >
 > Va, monte sur Raksch, ton cheval brillant, et prends un poignard étincelant.
 
@@ -129,7 +129,7 @@ Rustem écouta ce discours, se ceignit les reins, monta à l’instant sur Raks
 
 Il vit l’air assombri par le Simourgh et mit pied à terre sur le bord de la mer.
 
-Aussitôt l’oiseau plein de fierté descendit des airs, et Rustem aperçut un tamarix dont la racine était dans la terre et la cime dans les cieux.
+Aussitôt l’oiseau plein de fierté descendit des airs, et Rustem aperçut un tamarix dont la racine était dans la terre et la cime dans les cieux.
 
 Le puissant oiseau se percha sur l’arbre, et indiqua à Rustem un chemin sec pour arriver auprès de lui;
 
@@ -139,7 +139,7 @@ Il ordonna à Rustem de s’approcher, lui frotta la tête avec son aile et lui
 
 > Choisis la branche la plus droite, la plus longue et la plus mince.
 >
-> C’est à cette flèche de tamarix qu’est attaché le sort d’Isfendiar;
+> C’est à cette flèche de tamarix qu’est attaché le sort d’Isfendiar;
 >
 > Ne fais donc pas peu de cas de cette baguette, rends-la droite devant le feu, cherche un bon vieux fer de flèche, attache au bois des plumes et ce fer, et voilà le moyen de faire périr Isfendiar.
 
@@ -151,12 +151,12 @@ Le Simourgh fut son guide sur la route, se tenant au-dessus de sa tête et lui p
 >
 > Il se peut qu’il revienne à un langage plus doux et qu’il se rappelle les temps anciens;
 >
-> Car tu as bien des fois traversé le monde, bravant les fatigues et les périls pour servir les rois.
+> Car tu as bien des fois traversé le monde, bravant les fatigues et les périls pour servir les rois.
 >
 > S’il refuse d’accepter tes excuses, s’il veut te traiter comme un homme de peu de valeur, alors bande ton arc, place cette flèche en tamarix que tu auras saturée de vin, dirige tes deux mains en ligne droite vers ses yeux, comme ferait un homme qui adorerait le tamarix: le destin portera cette flèche droit dans ses yeux, car c’est là qu’il est vulnérable, pourvu que tu ne te mettes pas en colère.
 
-L’oiseau prit congé de Zal en l’embrassant étroitement, et s’élança dans les airs content et heureux.
+L’oiseau prit congé de Zal en l’embrassant étroitement, et s’élança dans les airs content et heureux.
 
 Rustem l’ayant vu s’envoler, alluma du feu, redressa la baguette et la satura et l’enivra de vin;
 
-Il y fixa un fer aigu, et, quand tout fut terminé, il y attacha des plumes.
+Il y fixa un fer aigu, et, quand tout fut terminé, il y attacha des plumes.

@@ -19,4 +19,4 @@ Extrait du Zendavesta:
 >
 > Si le Soleil ne se levait pas, les Dews détruiraient tout ce qui est fur les sept Keschvars de la terre, il n’y aurait pas d’Ized céleste dans le Monde et aucune production ne pourrait exister.
 >
-> Invoquez le Soleil qui ne meurt pas, éclatant, coursier vigoureux, et vous détruirez tous les Dews, germes de ténèbres; vous détruirez les voleurs, les violents; vous détruirez celui qui ravage ce Monde de maux.
+> Invoquez le Soleil qui ne meurt pas, éclatant, coursier vigoureux, et vous détruirez tous les Dews, germes de ténèbres; vous détruirez les voleurs, les violents; vous détruirez celui qui ravage ce Monde de maux.

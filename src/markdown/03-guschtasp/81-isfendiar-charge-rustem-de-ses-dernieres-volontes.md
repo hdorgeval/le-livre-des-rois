@@ -19,7 +19,7 @@ Isfendiar dit à Rustem:
 
 > Ma vie touche à sa fin;
 >
-> Ne m’évite pas, lève-toi, viens ici, car j’ai changé d’intention.
+> Ne m’évite pas, lève-toi, viens ici, car j’ai changé d’intention.
 
 > J’espère que tu voudras écouter mes avis et mes dernières volontés: tu y verras la grandeur de mon estime;
 >
@@ -37,9 +37,9 @@ Des cris se firent entendre du champ de bataille, tels que le soleil et la lune 
 
 Isfendiar reprit et dit à Rustem:
 
-> Ce n’est pas toi qui es la cause de mon malheur; c’était mon destin, et ce, qui devait être est arrivé.
+> Ce n’est pas toi qui es la cause de mon malheur; c’était mon destin, et ce, qui devait être est arrivé.
 >
-> Écoute mes paroles: Tu n’as été qu’un instrument;
+> Écoute mes paroles: Tu n’as été qu’un instrument;
 >
 > C’est mon père qui a fait mon sort, et non pas le Simourgh, ni Rustem, ni sa flèche, ni son arc.
 >
@@ -67,9 +67,9 @@ Isfendiar écouta Rustem et lui répondit:
 
 > Prends le fils quand le père sera mort.
 >
-> Sache, aussi vrai que Dieu m’entend, aussi vrai que notre foi véritable est mon guide, que, malgré tout le bien que tu as fait, malgré tous les rois antérieurs que tu as protégés, ton nom respecté va être déshonoré, et que le monde va être rempli de cris contre toi à cause de ma mort.
+> Sache, aussi vrai que Dieu m’entend, aussi vrai que notre foi véritable est mon guide, que, malgré tout le bien que tu as fait, malgré tous les rois antérieurs que tu as protégés, ton nom respecté va être déshonoré, et que le monde va être rempli de cris contre toi à cause de ma mort.
 >
-> Mon âme en est affligée, mais le Créateur l’a ainsi ordonné.
+> Mon âme en est affligée, mais le Créateur l’a ainsi ordonné.
 
 Ensuite il dit à Beschouten:
 
@@ -77,19 +77,19 @@ Ensuite il dit à Beschouten:
 >
 > Lorsque je serai parti de cette demeure passagère, mets en ordre mes troupes, et pars.
 >
-> Arrivé dans l’Iran, tu diras à mon père:
+> Arrivé dans l’Iran, tu diras à mon père:
 >
 > > Quand on est puissant, il ne faut pas se servir de prétexte.
 > >
-> > Le monde t’obéissait, ton nom était gravé sur tous les sceaux;
+> > Le monde t’obéissait, ton nom était gravé sur tous les sceaux;
 > >
-> > J’espérais de toi mieux que ce que tu as fait; ce qui est arrivé est digne de ton âme ténébreuse.
+> > J’espérais de toi mieux que ce que tu as fait; ce qui est arrivé est digne de ton âme ténébreuse.
 > >
 > > J’avais réduit à l’ordre le monde par l’épée de la justice, et personne n’osait mal parler de toi;
 > >
-> > Lorsque la foi vraie était établie dans l’Iran, le pouvoir et la royauté m’étaient dus;
+> > Lorsque la foi vraie était établie dans l’Iran, le pouvoir et la royauté m’étaient dus;
 > >
-> > Tu me l’avais juré devant les grands, mais en secret tu m’as envoyé à la mort.
+> > Tu me l’avais juré devant les grands, mais en secret tu m’as envoyé à la mort.
 > >
 > > Tu es maintenant satisfait, calme-toi donc, et assieds-toi sur le trône le cœur en repos;
 > >
@@ -101,7 +101,7 @@ Ensuite il dit à Beschouten:
 > >
 > > mes mânes t’attendront sur la route, et quand tu viendras, nous irons ensemble-devant le juge, nous parlerons et nous écouterons son arrêt.
 >
-> Quand tu auras quitté Guschtasp, tu diras à ma mère:
+> Quand tu auras quitté Guschtasp, tu diras à ma mère:
 >
 > > Cette fois la Mort est venue me combattre, et une cuirasse n’est que du vent en face de ses flèches qui traversent tout, fût-ce une montagne d’acier.
 > >
@@ -113,39 +113,39 @@ Ensuite il dit à Beschouten:
 >
 > > Je vous adresse un adieu éternel.
 > >
-> > C’est le trône de mon père qui m’a perdu, le sacrifice de ma vie a été pour lui la clef des trésors.
+> > C’est le trône de mon père qui m’a perdu, le sacrifice de ma vie a été pour lui la clef des trésors.
 > >
 > > Je lui envoie Beschouten, qui couvrira de honte son âme ténébreuse.
 
 Il poussa un grand soupir, prononça ces paroles:
 
-> C’est Guschtasp qui m’a opprimé!
+> C’est Guschtasp qui m’a opprimé!
 
-Et à l’instant son âme pure quitta son corps blessé, qui retomba sur la poussière noire.
+Et à l’instant son âme pure quitta son corps blessé, qui retomba sur la poussière noire.
 
 Rustem, dans sa douleur, déchira ses vêtements, et s’écria, le cœur rempli d’angoisse, la tête couverte de poussière:
 
 > Hélas! ô vaillant cavalier, petit-fils d’un roi guerrier, fils d’un roi!
 >
-> Mon nom était glorieux dans le monde, mais Guschtasp m’a préparé une fin malheureuse.
+> Mon nom était glorieux dans le monde, mais Guschtasp m’a préparé une fin malheureuse.
 
-Ayant pleuré longtemps, il adressa au mort ces paroles:
+Ayant pleuré longtemps, il adressa au mort ces paroles:
 
 > Ô roi sans égal et sans pareil dans le monde!
 >
-> Puisse ton âme entrer dans le paradis, puissent tes ennemis recueillir tout ce qu’ils ont semé !
+> Puisse ton âme entrer dans le paradis, puissent tes ennemis recueillir tout ce qu’ils ont semé !
 
 Zewareh lui dit:
 
-> N’accepte pas ce prince, méfie-toi de lui.
+> N’accepte pas ce prince, méfie-toi de lui.
 >
-> N’as-tu pas entendu dire au Dihkan, d’après un ancien livre, que si tu élèves le petit d’un lion, ses dents deviennent aigues, il acquiert de la force, bientôt il cesse d’obéir et cherche une proie, et la première sur laquelle il se jette est son père nourricier?
+> N’as-tu pas entendu dire au Dihkan, d’après un ancien livre, que si tu élèves le petit d’un lion, ses dents deviennent aigues, il acquiert de la force, bientôt il cesse d’obéir et cherche une proie, et la première sur laquelle il se jette est son père nourricier?
 >
 > Les deux pays retentiront de mauvaises passions, et l’Iran en souffrira le premier, car il a perdu un roi comme Isfendiar;
 >
 > Mais ensuite la mauvaise fortune commencera pour toi: Bahman portera malheur au Zaboulistan, et les vieux guerriers du Kaboul trembleront devant lui.
 >
-> Sois assuré que, lorsqu’il portera la couronne, il vengera Isfendiar.
+> Sois assuré que, lorsqu’il portera la couronne, il vengera Isfendiar.
 
 Rustem lui répondit:
 

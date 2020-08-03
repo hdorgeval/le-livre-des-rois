@@ -36,7 +36,7 @@ order: '75'
 
 # Les fils d'Isfendiar sont tués par Zeraweh et Faramourz
 
-Lorsque le combat des héros eut duré longtemps, et que Rustem fils de Zal tardait à revenir, Zewareh amena son armée de l’autre rive du Hirmend, une armée au cœur blessé et avide de vengeance.
+Lorsque le combat des héros eut duré longtemps, et que Rustem fils de Zal tardait à revenir, Zewareh amena son armée de l’autre rive du Hirmend, une armée au cœur blessé et avide de vengeance.
 
 Il dit aux Iraniens:
 
@@ -48,7 +48,7 @@ Il dit aux Iraniens:
 
 Ensuite il se mit à injurier les Iraniens et à proférer des outrages contre eux.
 
-Un fils d’Isfendiar en fut indigné.
+Un fils d’Isfendiar en fut indigné.
 
 C’était un cavalier illustre, habile à lancer un cheval, un jeune prince du nom de Nousch-Ader, portant haut la tête, avide de combats et d’un heureux caractère; il se mit en colère contre l’homme du Séistan, et sa bouche vomit l’injure et l’outrage. Il dit:
 
@@ -71,7 +71,7 @@ Nousch-Ader le vit de loin et se hâta de tirer son épée: il frappa sur la te�
 
 Zewareh lança son cheval de guerre et s’écria dans sa colère:
 
-> Tu as tué cet homme, maintenant défends ta propre vie, car je n’appelle pas cavalier un homme comme Alwa.
+> Tu as tué cet homme, maintenant défends ta propre vie, car je n’appelle pas cavalier un homme comme Alwa.
 
 Zewareh frappa avec sa lance la poitrine du prince, qui tomba sur-le-champ dans la poussière, et la fortune de l’armée périt avec l’illustre Nousch-Ader.
 
@@ -81,13 +81,13 @@ Son cœur bouillonnait, son âme était blessée;
 
 Il lança son cheval au corps d’éléphant, et s’avança du centre de l’armée vers les lignes ennemies, en écumant de rage.
 
-De l’autre côté, Faramourz, semblable à un éléphant ivre, sortit des rangs, une épée indienne en main, et attaqua l’illustre Mihri-Nousch;
+De l’autre côté, Faramourz, semblable à un éléphant ivre, sortit des rangs, une épée indienne en main, et attaqua l’illustre Mihri-Nousch;
 
 Les deux armées poussèrent des cris;
 
 Les deux nobles jeunes gens, impatients de combattre, l’un fils de roi, l’autre fils du Pehlewan, s’élancèrent comme des lions furieux et se frappèrent avec les épées.
 
-Mihri-Nousch s’était jeté avec ardeur dans la lutte, mais il ne pouvait résister à Faramourz, qui donna un coup d’épée pour le frapper et pour faire rouler sur la terre sa noble tête;
+Mihri-Nousch s’était jeté avec ardeur dans la lutte, mais il ne pouvait résister à Faramourz, qui donna un coup d’épée pour le frapper et pour faire rouler sur la terre sa noble tête;
 
 L’épée tomba sur le cou de son propre cheval, et abattit la tête de l’animal aux pieds de vent;
 
@@ -109,7 +109,7 @@ Il dit à Rustem:
 
 > Malheureux!
 >
-> Est-ce ainsi que les grands observent les traités?
+> Est-ce ainsi que les grands observent les traités?
 >
 > Tu avais dit que tu ne mènerais pas au combat ton armée;
 >
@@ -117,15 +117,15 @@ Il dit à Rustem:
 >
 > N’es-tu pas honteux devant moi et devant le Créateur, ne crains-tu pas qu’il t’adresse des questions au jour du jugement?
 >
-> Ne sais-tu pas que ceux qui violent un traité sont méprisés parmi les hommes?
+> Ne sais-tu pas que ceux qui violent un traité sont méprisés parmi les hommes?
 >
-> Deux guerriers de ton pays ont tué deux de mes fils, et ils continuent encore leur œuvre de malveillance.
+> Deux guerriers de ton pays ont tué deux de mes fils, et ils continuent encore leur œuvre de malveillance.
 
-Rustem fut consterné de ces paroles, il tremblait comme la branche d’un arbre, et dit:
+Rustem fut consterné de ces paroles, il tremblait comme la branche d’un arbre, et dit:
 
-> Je jure par la vie et la tête du roi, par le soleil et mon épée, et par le champ de bataille, que je n’ai pas ordonné ce combat, que je désavoue ceux qui l’ont livré.
+> Je jure par la vie et la tête du roi, par le soleil et mon épée, et par le champ de bataille, que je n’ai pas ordonné ce combat, que je désavoue ceux qui l’ont livré.
 >
-> Je vais lier les deux mains de mon frère, si c’est lui qui a été l’instigateur de ce méfait;
+> Je vais lier les deux mains de mon frère, si c’est lui qui a été l’instigateur de ce méfait;
 >
 > J’amènerai aussi Faramourz, les deux mains enchaînées, devant le roi adorateur de Dieu, et tu les tueras pour venger tes nobles enfants;
 >

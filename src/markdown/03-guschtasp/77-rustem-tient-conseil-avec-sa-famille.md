@@ -30,7 +30,7 @@ order: '77'
 
 # Rustem tient conseil avec sa famille
 
-Rustem, de son côté, arriva dans son palais, et Destan le vit dans l’état où il se trouvait;
+Rustem, de son côté, arriva dans son palais, et Destan le vit dans l’état où il se trouvait;
 
 Zewareh et Faramourz se mirent à pleurer, ils se consumèrent de douleur en voyant ces blessures;
 
@@ -56,11 +56,11 @@ Rustem lui répondit:
 >
 > Quelles que soient les excuses que je ferais pour fléchir ce cœur de pierre, Isfendiar ne cherchera qu’à m’humilier par des paroles et par des actes pleins d’arrogance.
 >
-> J’ai traversé le monde entier, j’ai appris ce qui est connu et ce qui est secret, j’ai saisi le Div blanc par la ceinture et l’ai jeté par terre comme une branche de tremble, et je céderais devant Isfendiar et sa force, et cette fortune du combat!?!
+> J’ai traversé le monde entier, j’ai appris ce qui est connu et ce qui est secret, j’ai saisi le Div blanc par la ceinture et l’ai jeté par terre comme une branche de tremble, et je céderais devant Isfendiar et sa force, et cette fortune du combat!?!
 >
-> Mes flèches ont traversé des enclumes;
+> Mes flèches ont traversé des enclumes;
 >
-> Quand elles ont rencontré un bouclier, elles l’ont trouvé faible;
+> Quand elles ont rencontré un bouclier, elles l’ont trouvé faible;
 >
 > Mais j’ai eu beau les lancer contre la cuirasse d’Isfendiar, c’était comme si l’on frappait un rocher avec des épines.
 >
@@ -72,7 +72,7 @@ Rustem lui répondit:
 >
 > Mais cette épée ne perce pas la cuirasse sur la poitrine d’Isfendiar, ni même l’étoffe de soie qui lui couvre la tête.
 >
-> Je rends grâce à Dieu de ce que la nuit était sombre, et de ce que, dans cette obscurité, son œil était trouble.
+> Je rends grâce à Dieu de ce que la nuit était sombre, et de ce que, dans cette obscurité, son œil était trouble.
 >
 > J’ai échappé à la griffe de ce dragon, mais je ne sais si cette délivrance me sauvera.
 >
@@ -82,7 +82,7 @@ Zal lui dit:
 
 > Ô mon fils! sois raisonnable.
 >
-> Puisque tu as fini ton discours, écoute-moi.
+> Puisque tu as fini ton discours, écoute-moi.
 >
 > Il y a un moyen de sortir de tout dans le monde, si ce n’est de la mort, qui a une autre issue.
 >

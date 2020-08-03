@@ -17,15 +17,15 @@ order: '80'
 
 Rustem comprit que les supplications ne servaient à rien auprès d’Isfendiar;
 
-Il banda son arc, et plaça dessus cette flèche en bois de tamarix dont il avait trempé le fer dans du vin.
+Il banda son arc, et plaça dessus cette flèche en bois de tamarix dont il avait trempé le fer dans du vin.
 
-Ayant placé la flèche sur l’arc, il adressa en secret une prière à Dieu, disant:
+Ayant placé la flèche sur l’arc, il adressa en secret une prière à Dieu, disant:
 
-> Ô très-saint maître du soleil! toi qui accordes toute sagesse, toute majesté, toute force, tu vois la pureté de mon cœur, tu vois mes pensées et ce que je puis faire!
+> Ô très-saint maître du soleil! toi qui accordes toute sagesse, toute majesté, toute force, tu vois la pureté de mon cœur, tu vois mes pensées et ce que je puis faire!
 >
-> Tu sais combien j’ai lutté pour calmer Isfendiar, tu sais combien il a été injuste, combien il est prodigue de combats et de bravoure.
+> Tu sais combien j’ai lutté pour calmer Isfendiar, tu sais combien il a été injuste, combien il est prodigue de combats et de bravoure.
 >
-> Ne regarde pas ceci comme un péché à punir, ô créateur de la lune et de Mercure!
+> Ne regarde pas ceci comme un péché à punir, ô créateur de la lune et de Mercure!
 
 Quand le héros opiniâtre vit ce délai et l’hésitation de Rustem à commencer le combat, il lui dit:
 
@@ -73,7 +73,7 @@ Beschouten s’écria:
 
 > Qui, parmi les croyants et les grands, peut comprendre le secret du monde?
 >
-> Un homme comme Isfendiar, qui a vaillamment manié l’épée pour la foi, qui a purifié le monde des méchants, des adorateurs des idoles, qui n’a jamais fait une mauvaise action, périt dans les jours de sa jeunesse, et sa tête royale est couchée dans la poussière;
+> Un homme comme Isfendiar, qui a vaillamment manié l’épée pour la foi, qui a purifié le monde des méchants, des adorateurs des idoles, qui n’a jamais fait une mauvaise action, périt dans les jours de sa jeunesse, et sa tête royale est couchée dans la poussière;
 >
 > Mais quand c’est un méchant qui remplit le monde de douleurs, qui afflige l’âme des hommes libres, une longue vie passe sur sa tête, et il sort de tous les combats sans éprouver de mal!
 
@@ -83,19 +83,19 @@ Beschouten poussa des hurlements sur lui, la joue couverte de sang, le cœur ple
 
 > Hélas, ô Isfendiar, ô héros, ô maître du monde de race royale!
 >
-> Qui a donc ébranlé cette montagne de guerre, qui a renversé ce lion furieux, qui a arraché à l’éléphant ces belles défenses, qui a arrêté ces vagues des flots du Nil?
+> Qui a donc ébranlé cette montagne de guerre, qui a renversé ce lion furieux, qui a arraché à l’éléphant ces belles défenses, qui a arrêté ces vagues des flots du Nil?
 >
-> Qu’est-il arrivé à cette race royale par le mauvais œil, puisque c’est le méchant qui doit souffrir le mal?
+> Qu’est-il arrivé à cette race royale par le mauvais œil, puisque c’est le méchant qui doit souffrir le mal?
 >
-> A quoi ont servi ton courage, ton intelligence, ta loyauté, ta puissance, ton étoile et ta foi? A quoi ont servi tes armes dans ce combat?
+> A quoi ont servi ton courage, ton intelligence, ta loyauté, ta puissance, ton étoile et ta foi? A quoi ont servi tes armes dans ce combat?
 >
 > Qu’est devenue ta voix si douce dans les fêtes?
 >
-> Tu avais purifié le monde de tes ennemis, tu n’avais pas à craindre le lion ou le serpent; et maintenant que tu devais profiter de tout cela, je te vois gisant dans la poussière!
+> Tu avais purifié le monde de tes ennemis, tu n’avais pas à craindre le lion ou le serpent; et maintenant que tu devais profiter de tout cela, je te vois gisant dans la poussière!
 
 Isfendiar lui répondit par ces paroles pleines de raison:
 
-> Ô homme sage et fortuné!
+> Ô homme sage et fortuné!
 >
 > Ne te laisse pas aller au désespoir à cause de moi.
 >
@@ -105,37 +105,37 @@ Isfendiar lui répondit par ces paroles pleines de raison:
 >
 > Où sont Feridoun, Houscheng et Djemschid?
 >
-> Le vent les a amenés, un souffle les a emportés; et mes ancêtres de race pure, ces hommes élus, fiers et saints, sont partis et nous ont laissé leur place;
+> Le vent les a amenés, un souffle les a emportés; et mes ancêtres de race pure, ces hommes élus, fiers et saints, sont partis et nous ont laissé leur place;
 >
 > Car personne ne peut rester dans cette demeure passagère.
 >
-> J’ai beaucoup lutté dans le monde, tantôt ouvertement, tantôt secrètement, pour établir la voie de Dieu et pour y guider l’intelligence des hommes.
+> J’ai beaucoup lutté dans le monde, tantôt ouvertement, tantôt secrètement, pour établir la voie de Dieu et pour y guider l’intelligence des hommes.
 >
 > Lorsque la parole de la foi eut acquis de l’éclat par mes efforts, et que la main d’Ahriman fut devenue impuissante à faire le mal, le destin a étendu sa grille aiguë, et je n’ai pu lui échapper.
 >
-> Mon espoir est que, dans le paradis, mon âme et mon cœur récolteront ce qu’ils ont semé.
+> Mon espoir est que, dans le paradis, mon âme et mon cœur récolteront ce qu’ils ont semé.
 >
-> Ce n’est pas par sa bravoure que le fils de Destan m’a donné la mort.
+> Ce n’est pas par sa bravoure que le fils de Destan m’a donné la mort.
 >
-> Regarde cette branche de tamarix que je tiens dans ma main: c’est par elle que le Simourgh et Rustem, le rusé ont mis fin à ma vie.
+> Regarde cette branche de tamarix que je tiens dans ma main: c’est par elle que le Simourgh et Rustem, le rusé ont mis fin à ma vie.
 >
-> C’est Zal qui a fait ces incantations et employé cet art magique, car il connaît les sortilèges et tous les enchantements.
+> C’est Zal qui a fait ces incantations et employé cet art magique, car il connaît les sortilèges et tous les enchantements.
 
 A ces paroles d’Isfendiar, Rustem se tordit et pleura de douleur, disant:
 
 > Le Div maudit est cause que la peine est ma part dans la vie.
 >
-> Tout ce qu’Isfendiar a dit est vrai; il n’a pas dévié de sa loyauté vers les voies tortueuses.
+> Tout ce qu’Isfendiar a dit est vrai; il n’a pas dévié de sa loyauté vers les voies tortueuses.
 >
-> Depuis que j’ai revêtu une armure, j’ai recherché le combat avec ceux portaient leur tête le plus haut;
+> Depuis que j’ai revêtu une armure, j’ai recherché le combat avec ceux portaient leur tête le plus haut;
 >
 > Mais je n’ai pas vu un cavalier couvert d’une cotte de mailles et d’une cuirasse de combat, semblable à Isfendiar.
 >
-> C’est par désespoir que j’ai cherché une ruse: je n’ai pas voulu succomber devant lui sans résistance.
+> C’est par désespoir que j’ai cherché une ruse: je n’ai pas voulu succomber devant lui sans résistance.
 >
-> Lorsque je me suis échappé de sa main, sans espoir, et que j’ai vu son arc, sa poitrine et son anneau de tir, j’ai trouvé moyen de tenir sa vie sur mon arc, et lorsque son moment était venu, j’ai lancé la flèche.
+> Lorsque je me suis échappé de sa main, sans espoir, et que j’ai vu son arc, sa poitrine et son anneau de tir, j’ai trouvé moyen de tenir sa vie sur mon arc, et lorsque son moment était venu, j’ai lancé la flèche.
 >
-> Si le destin avait voulu qu’il vécût, comment cette œuvre d’iniquité m’aurait-elle réussi?
+> Si le destin avait voulu qu’il vécût, comment cette œuvre d’iniquité m’aurait-elle réussi?
 >
 > Il faut quitter cette terre ténébreuse, et par aucune précaution on ne peut prolonger sa vie d’une seule respiration.
 >

@@ -43,7 +43,7 @@ Il fit brûler ses quarante parents, ensuite il alla auprès du corps de Schegha
 
 Ayant ainsi mis à mort le prince injuste, Faramourz nomma quelqu’un roi de Kaboul, et ne laissa dans le pays aucun membre de l’ancienne famille qui ne reconnût l’investiture écrite avec son épée.
 
-Il quitta Kaboul, le cœur blessé et navré, et le jour brillant était obscurci devant ses yeux;
+Il quitta Kaboul, le cœur blessé et navré, et le jour brillant était obscurci devant ses yeux;
 
 Tout le Zaboulistan et le pays de Bost poussaient des cris;
 

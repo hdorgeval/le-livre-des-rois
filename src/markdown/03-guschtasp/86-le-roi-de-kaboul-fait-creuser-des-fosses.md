@@ -15,9 +15,9 @@ order: '86'
 
 # Le roi de Kaboul fait creuser des fosses dans la réserve de chasse
 
-Lorsque Scheghad à la mauvaise étoile eut quitté Kaboul, le roi partit à l’instant pour le lieu de la chasse avec les hommes de son armée les plus habiles dans l’art de faire des fosses, et ils en creusèrent partout sous les routes dans la réserve de chasse, et en garnirent le fond avec des épieux, des lances, des javelots et des épées de combat dont la poignée était fixée en terre. Ensuite on rendit invisible, avec beaucoup d’art, l’ouverture des fosses, de manière que ni un homme ni l’œil d’un cheval ne pouvaient les découvrir.
+Lorsque Scheghad à la mauvaise étoile eut quitté Kaboul, le roi partit à l’instant pour le lieu de la chasse avec les hommes de son armée les plus habiles dans l’art de faire des fosses, et ils en creusèrent partout sous les routes dans la réserve de chasse, et en garnirent le fond avec des épieux, des lances, des javelots et des épées de combat dont la poignée était fixée en terre. Ensuite on rendit invisible, avec beaucoup d’art, l’ouverture des fosses, de manière que ni un homme ni l’œil d’un cheval ne pouvaient les découvrir.
 
-Rustem s’étant mis en route sans délai, Scheghad envoya un cavalier bien monté pour dire au roi de Kaboul que le héros au corps d’éléphant partait sans armée et qu’il fallait aller à sa rencontre pour lui demander pardon.
+Rustem s’étant mis en route sans délai, Scheghad envoya un cavalier bien monté pour dire au roi de Kaboul que le héros au corps d’éléphant partait sans armée et qu’il fallait aller à sa rencontre pour lui demander pardon.
 
 Le roi sortit de la ville, la langue pleine de miel, le cœur rempli de poison;
 
@@ -25,7 +25,7 @@ Mais quand son œil aperçut la figure de Rustem, il mit pied à terre d’auss
 
 Il ôta les bottines de ses pieds en poussant des lamentations et en versant des larmes de sang; il se prosterna, le visage sur la terre noire, et demanda, dans ces termes, pardon de ce qu’il avait dit à Scheghad:
 
-> Si ton esclave a été et assez insensé pour s’enivrer et a été arrogant dans cet état de folie, pardonne-lui sa faute et traite-le comme autrefois.
+> Si ton esclave a été et assez insensé pour s’enivrer et a été arrogant dans cet état de folie, pardonne-lui sa faute et traite-le comme autrefois.
 
 Il s’approcha les pieds nus, la tête pleine de desseins de vengeance et le cœur rempli de ruses.
 
@@ -49,7 +49,7 @@ Le roi dit à Rustem:
 
 Ces paroles agitèrent Rustem, par l’attrait de cette plaine remplie de ruisseaux, de biches et d’onagres;
 
-Car ce qui est destiné à amener la fin d’un homme agite toujours son cœur et pervertit son jugement.
+Car ce qui est destiné à amener la fin d’un homme agite toujours son cœur et pervertit son jugement.
 
 Telle est l’action de ce monde changeant, il ne nous dévoile jamais son secret.
 
@@ -65,13 +65,13 @@ Pendant la chasse, l’escorte de Rustem se dispersa, les uns courant sur les pa
 
 Zewareh et Tehemten se trouvèrent, par l’influence du destin, sur une route où il y avait des fosses.
 
-Raksch flairait ce sol nouvellement remué et se ramassait comme une boule; il se cabrait, il avait peur de l’odeur de cette terre et battait le sol de ses sabots.
+Raksch flairait ce sol nouvellement remué et se ramassait comme une boule; il se cabrait, il avait peur de l’odeur de cette terre et battait le sol de ses sabots.
 
 Il avança sur cette route de manière à se placer entre deux fosses.
 
-Rustem s’obstina à faire avancer Raksch, le destin l’aveugla et il se mit en colère, leva son fouet et en toucha légèrement Raksch: l’animal terrifié reprit son élan;
+Rustem s’obstina à faire avancer Raksch, le destin l’aveugla et il se mit en colère, leva son fouet et en toucha légèrement Raksch: l’animal terrifié reprit son élan;
 
-Il était resserré entre deux fosses et il chercha à échapper à la grille du sort;
+Il était resserré entre deux fosses et il chercha à échapper à la grille du sort;
 
 Mais il tomba avec deux de ses pieds dans une des trappes, où il n’y avait pas moyen de se retenir et de se débattre.
 
