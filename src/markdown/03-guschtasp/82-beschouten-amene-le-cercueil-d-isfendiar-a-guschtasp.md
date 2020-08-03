@@ -153,7 +153,7 @@ Quand les grands eurent quitté le palais, Beh-Aferid et Homaï entrèrent; dans
 
 Guschtasp dit à Beschouten:
 
-> Lève-toi et verse de l’eau sur ce feu enfantin.
+> Lève-toi et verse de l’eau sur ce feu enfantin.
 
 Beschouten sortit de la salle d’audience du roi et emmena les femmes de ce lieu;
 

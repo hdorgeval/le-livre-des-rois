@@ -84,7 +84,7 @@ Le monde devint sombre devant ses yeux par l’excès de son inquiétude, et il 
 
 il y trouva son frère grièvement blessé et vit qu’aucune de ses blessures n’était pansée; il lui dit:
 
-> Lève-toi, monte sur mon cheval, je vais revêtir la cuirasse pour te venger.
+> Lève-toi, monte sur mon cheval, je vais revêtir la cuirasse pour te venger.
 
 Rustem lui répondit:
 
@@ -108,7 +108,7 @@ Isfendiar, qui était resté en bas, se mit à crier:
 >
 > Jette ton arc, ôte ta cuirasse de peau de léopard, défais ta ceinture, repens-toi, laisse lier tes mains, et alors je ne te ferai plus de mal, je te mènerai auprès du roi, blessé comme tu es, et te ferai pardonner tout ce que tu as fait.
 >
-> Mais si tu veux encore combattre, énonce tes dernières volontés, nomme quelqu’un gouverneur de ce pays, demande pardon à Dieu des péchés que tu as commis: il est possible qu’il te les remette, si tu es contrit, et j’espère que Dieu le très-juste voudra être ton guide, car tu vas quitter cette demeure passagère.
+> Mais si tu veux encore combattre, énonce tes dernières volontés, nomme quelqu’un gouverneur de ce pays, demande pardon à Dieu des péchés que tu as commis: il est possible qu’il te les remette, si tu es contrit, et j’espère que Dieu le très-juste voudra être ton guide, car tu vas quitter cette demeure passagère.
 
 Rustem répondit:
 
@@ -138,7 +138,7 @@ Rustem répondit:
 
 Il le quitta, et Isfendiar le suivit des yeux pour voir comment le héros marcherait.
 
-Rustem traversa la rivière, semblable à un vaisseau, invoqua sur son corps les bénédictions de Dieu, et adressa au juge suprême ces paroles:
+Rustem traversa la rivière, semblable à un vaisseau, invoqua sur son corps les bénédictions de Dieu, et adressa au juge suprême ces paroles:
 
 > Si je meurs de mes blessures, qui parmi les grands voudra me venger, qui voudra imiter mon courage, ma sagesse et ma conduite ?
 
@@ -146,7 +146,7 @@ Isfendiar le suivit des yeux, le vit arriver sur l’autre rive, et dit:
 
 > Il ne faut pas appeler Rustem un homme, c’est un éléphant furieux et d’une grande puissance.
 >
-> Il a traversé l’eau, malgré ses plaies, et ces terribles blessures de mes flèches n’ont fait que hâter sa marche.
+> Il a traversé l’eau, malgré ses plaies, et ces terribles blessures de mes flèches n’ont fait que hâter sa marche.
 
 Isfendiar resta pondant quelque temps dans son étonnement, puis il dit en s’adressant au Juge tout-puissant:
 
@@ -156,9 +156,9 @@ Quand Isfendiar fut de retour, il entendit des cris qui partaient de ses tentes;
 
 Beschouten s’avança;
 
-La mort du vaillant Nousch-Ader et de Mihri-Nousch l’avait rempli de douleur et de colère;
+La mort du vaillant Nousch-Ader et de Mihri-Nousch l’avait rempli de douleur et de colère;
 
-La tente du roi était pleine de poussière, et tous les vêtements des grands étaient déchirés.
+La tente du roi était pleine de poussière, et tous les vêtements des grands étaient déchirés.
 
 Isfendiar descendit de son destrier et serra contre sa poitrine la tête des morts en s’écriant tristement:
 
@@ -166,13 +166,13 @@ Isfendiar descendit de son destrier et serra contre sa poitrine la tête des mo
 
 Ensuite il dit à Beschouten:
 
-> Lève-toi, et ne verse pas des larmes de sang sur ces morts.
+> Lève-toi, et ne verse pas des larmes de sang sur ces morts.
 >
 > Je ne vois pas le bien que produisent les larmes, et il ne faut pas s’attacher à la vie.
 >
 > Nous tous, jeunes et vieux, appartenons à la mort : puisse la raison nous aider à mourir comme il convient!
 
-Il envoya ses fils au maître du trône, dans des cercueils d’or et portés sur des brancards d’ébène, et fit dire à son père:
+Il envoya ses fils au maître du trône, dans des cercueils d’or et portés sur des brancards d’ébène, et fit dire à son père:
 
 > Voici les fruits que tes machinations commencent à porter.
 >
@@ -190,12 +190,12 @@ Il s’assit sur son trône, dans son deuil et dans sa douleur, et se mit à pa
 >
 > J’ai regardé aujourd’hui Rustem.
 >
-> j’ai observé la force et la stature de cet homme au corps d’éléphant, et j’ai béni Dieu, le très-saint, de qui viennent l’espérance et la terreur, de ce qu’il a, créé Rustem tel qu’il est.
+> j’ai observé la force et la stature de cet homme au corps d’éléphant, et j’ai béni Dieu, le très-saint, de qui viennent l’espérance et la terreur, de ce qu’il a, créé Rustem tel qu’il est.
 >
 > Adore celui qui a créé le monde!
 >
-> Cet homme, dont les mains ont accompli tant de hauts faits, qui a jeté son filet dans la mer de la Chine et en a tiré des crocodiles, qui a saisi sur la plaine la queue des léopards, je l’ai blessé aujourd’hui avec mes flèches de manière que son sang a changé la terre en un lac.
+> Cet homme, dont les mains ont accompli tant de hauts faits, qui a jeté son filet dans la mer de la Chine et en a tiré des crocodiles, qui a saisi sur la plaine la queue des léopards, je l’ai blessé aujourd’hui avec mes flèches de manière que son sang a changé la terre en un lac.
 >
-> Il est descendu à pied de la montagne, après avoir fait une convention avec moi, a couru vers le Hirmend, chargé de sa cuirasse et de son épée, et a traversé l’eau malgré ses blessures, et le corps couvert des fers de mes flèches.
+> Il est descendu à pied de la montagne, après avoir fait une convention avec moi, a couru vers le Hirmend, chargé de sa cuirasse et de son épée, et a traversé l’eau malgré ses blessures, et le corps couvert des fers de mes flèches.
 >
 > Je crois que lorsqu’il aura atteint son palais, son âme se sera envolée vers Saturne.

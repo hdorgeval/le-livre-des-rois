@@ -19,7 +19,7 @@ Isfendiar dit à Rustem:
 
 > Ma vie touche à sa fin;
 >
-> Ne m’évite pas, lève-toi, viens ici, car j’ai changé d’intention.
+> Ne m’évite pas, lève-toi, viens ici, car j’ai changé d’intention.
 
 > J’espère que tu voudras écouter mes avis et mes dernières volontés: tu y verras la grandeur de mon estime;
 >
@@ -139,7 +139,7 @@ Zewareh lui dit:
 
 > N’accepte pas ce prince, méfie-toi de lui.
 >
-> N’as-tu pas entendu dire au Dihkan, d’après un ancien livre, que si tu élèves le petit d’un lion, ses dents deviennent aigues, il acquiert de la force, bientôt il cesse d’obéir et cherche une proie, et la première sur laquelle il se jette est son père nourricier?
+> N’as-tu pas entendu dire au Dihkan, d’après un ancien livre, que si tu élèves le petit d’un lion, ses dents deviennent aigues, il acquiert de la force, bientôt il cesse d’obéir et cherche une proie, et la première sur laquelle il se jette est son père nourricier?
 >
 > Les deux pays retentiront de mauvaises passions, et l’Iran en souffrira le premier, car il a perdu un roi comme Isfendiar;
 >

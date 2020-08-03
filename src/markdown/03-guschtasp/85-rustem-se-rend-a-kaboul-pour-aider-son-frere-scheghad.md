@@ -103,7 +103,7 @@ Scheghad dit au roi de Kaboul:
 >
 > Fais-en creuser plutôt cent que cinq, si tu veux que tes peines finissent.
 >
-> Amènes-y cent ouvriers habiles;
+> Amènes-y cent ouvriers habiles;
 >
 > Fais préparer les fosses, et n’en parle pas même à la lune;
 >

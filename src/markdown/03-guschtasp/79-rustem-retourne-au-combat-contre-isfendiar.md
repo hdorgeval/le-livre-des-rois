@@ -63,7 +63,7 @@ Le héros Isfendiar revêtit sa cuirasse, saisit ses armes de combat, et s’éc
 
 Lorsque Rustem le vit ainsi en colère, il poussa un soupir et répondit:
 
-> Ô Isfendiar, le héros entre tous, ô toi qui n’es pas encore rassasié de batailles, crains donc Dieu le très-saint, le maître du monde, et ne rabaisse pas ton cœur et ton intelligence!
+> Ô Isfendiar, le héros entre tous, ô toi qui n’es pas encore rassasié de batailles, crains donc Dieu le très-saint, le maître du monde, et ne rabaisse pas ton cœur et ton intelligence!
 >
 > Je ne viens pas aujourd’hui pour me battre, je viens pour présenter des excuses et pour sauver mon nom et mon honneur.
 >

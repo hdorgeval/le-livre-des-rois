@@ -13,7 +13,7 @@ Dihkan signifie à la fois cultivateur et historien.
 
 Cette singulière réunion d’idées provient du fait que les cultivateurs, en Perse, connaissaient tous l’histoire.
 
-M. Quatremère a déjà prouvé que les Dihkans formaient une classe de l’ancienne noblesse persane.
+M. Quatremère a déjà prouvé que les Dihkans formaient une classe de l’ancienne noblesse persane.
 
 Ils étaient, selon la définition qu’en donne le Modimel-al-Tewarikht, des chefs, des propriétaires de terres et de villages, et formaient une aristocratie territoriale.
 

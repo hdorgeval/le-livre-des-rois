@@ -21,7 +21,7 @@ Il banda son arc, et plaça dessus cette flèche en bois de tamarix dont il avai
 
 Ayant placé la flèche sur l’arc, il adressa en secret une prière à Dieu, disant:
 
-> Ô très-saint maître du soleil! toi qui accordes toute sagesse, toute majesté, toute force, tu vois la pureté de mon cœur, tu vois mes pensées et ce que je puis faire!
+> Ô très-saint maître du soleil! toi qui accordes toute sagesse, toute majesté, toute force, tu vois la pureté de mon cœur, tu vois mes pensées et ce que je puis faire!
 >
 > Tu sais combien j’ai lutté pour calmer Isfendiar, tu sais combien il a été injuste, combien il est prodigue de combats et de bravoure.
 >
