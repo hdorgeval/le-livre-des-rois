@@ -50,10 +50,8 @@ export const GuschtaspReignLink: React.FC = () => {
     <EpisodeLink
       {...guschtaspNode}
       key="guschtasp"
-      overallCount={90}
       timeUnit="hour"
       totalCount={totalNumberOfEpsiodes}
-      workInProgress={true}
     />
   );
 };
