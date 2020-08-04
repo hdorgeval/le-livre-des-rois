@@ -28,7 +28,7 @@ tags:
     'Zal',
     'Zer',
   ]
-order: '02'
+order: '002'
 ---
 
 # Les grands rendent hommage à Keï Khosrou

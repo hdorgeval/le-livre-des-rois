@@ -45,7 +45,7 @@ tags:
     'Zal',
     'Zengueh',
   ]
-order: '08'
+order: '008'
 ---
 
 # Keï Khosrou organise son armée

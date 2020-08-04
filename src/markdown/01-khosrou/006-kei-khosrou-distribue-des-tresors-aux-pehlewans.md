@@ -31,7 +31,7 @@ tags:
     'Tejaou',
     'Touran',
   ]
-order: '06'
+order: '006'
 ---
 
 # Keï Khosrou distribue des trésors aux Pehlewans

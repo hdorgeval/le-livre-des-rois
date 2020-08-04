@@ -20,7 +20,7 @@ tags:
     'Zaboulistan',
     'Zewareh',
   ]
-order: '07'
+order: '007'
 ---
 
 # Keï Khosrou envoie Rustem dans l'Inde

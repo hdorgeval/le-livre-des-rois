@@ -26,7 +26,7 @@ tags:
     'Thous',
     'Turcs',
   ]
-order: '10'
+order: '010'
 ---
 
 # Thous entre dans le pays des Turcs

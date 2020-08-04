@@ -25,7 +25,7 @@ tags:
     'Thous',
     'Zengueh',
   ]
-order: '03'
+order: '003'
 ---
 
 # Keï Khosrou fait le tour de son empire

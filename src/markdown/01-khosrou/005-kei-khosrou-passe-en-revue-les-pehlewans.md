@@ -38,7 +38,7 @@ tags:
     'Vierge',
     'Zerasp',
   ]
-order: '05'
+order: '005'
 ---
 
 # Keï Khosrou passe en revue les Pehlewans

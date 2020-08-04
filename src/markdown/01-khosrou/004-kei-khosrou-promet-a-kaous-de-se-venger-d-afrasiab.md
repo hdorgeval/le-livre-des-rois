@@ -25,7 +25,7 @@ tags:
     'Touran',
     'Turc',
   ]
-order: '04'
+order: '004'
 ---
 
 # Keï Khosrou promet à Kaous de se venger d'Afrasiab
