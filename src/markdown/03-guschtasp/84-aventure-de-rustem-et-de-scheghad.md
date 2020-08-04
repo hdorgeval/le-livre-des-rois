@@ -9,7 +9,27 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'Ahmed',
+    'Aventure',
+    'Azadeh',
+    'Dieu',
+    'Inde',
+    'Keïanides',
+    'Mahan',
+    'Mahmoud',
+    'Merw',
+    'Neriman',
+    'Pehlewans',
+    'Roum',
+    'Rustem',
+    'Sahl',
+    'Sam',
+    'Scheghad',
+    'Serw',
+    'Touran',
+  ]
 order: '84'
 ---
 
@@ -39,7 +59,7 @@ Heureux celui qui voit sa couronne, sa cour et son armée!
 
 Mes oreilles et mes pieds me refusent leur service, la pauvreté et les années ont emporté ma force; c’est ainsi que la fortune ennemie m’a enchaîné, et je soupire sur mon malheur et mon âge;
 
-Mais jour et nuit j’invoque les bénédictions de Dieu sur ce maître de la terre, ce distributeur de la justice, et le pays entier se joint à moi, si ce n’est les mécréants et les méchants; car depuis qu’il s’est assis sur le trône des Keïanides, qu’il a fermé la porte de la vengeance et lié la main du mal, il fait trembler ceux qui commettent des excès, quand même ils les commettent protégés par leur haut rang, et il traite généreusement ceux qui ont de la raison et qui ne dépassent pas la mesure qui leur est assignée.
+Mais jour et nuit j’invoque les bénédictions de Dieu sur ce maître de la terre, ce distributeur de la justice, et le pays entier se joint à moi, si ce n’est les mécréants et les méchants; car depuis qu’il s’est assis sur le trône des Keïanides, qu’il a fermé la porte de la vengeance et lié la main du mal, il fait trembler ceux qui commettent des excès, quand même ils les commettent protégés par leur haut rang, et il traite généreusement ceux qui ont de la raison et qui ne dépassent pas la mesure qui leur est assignée.
 
 Je lui élèverai un monument dans le monde, qui ne sera pas oublié tant qu’il y aura des hommes;
 

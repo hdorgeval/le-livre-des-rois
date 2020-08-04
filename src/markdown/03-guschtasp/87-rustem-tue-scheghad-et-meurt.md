@@ -9,7 +9,26 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'Ahrimans',
+    'âme',
+    'Dieu',
+    'Djemschid',
+    'Faramourz',
+    'Feridoun',
+    'Gueroui',
+    'Kaboul',
+    'Keï',
+    'Kobad',
+    'Peiverasp',
+    'Rustem',
+    'Scheghad',
+    'Siawusch',
+    'Tehemten',
+    'Zereh',
+    'Zewareh',
+  ]
 order: '87'
 ---
 
@@ -47,7 +66,7 @@ Tehemten lui répondit:
 >
 > Si longtemps qu’on vive, on finit par mourir, et la rotation du ciel atteint tout ce qui a vie.
 >
-> Je ne suis pas un homme plus glorieux que Djemschid, qui a été scié en deux par Peiverasp, que Feridoun et Keï Kobad, ces grands rois de naissance illustre;
+> Je ne suis pas un homme plus glorieux que Djemschid, qui a été scié en deux par Peiverasp, que Feridoun et Keï Kobad, ces grands rois de naissance illustre;
 >
 > Et lorsque le temps de Siawusch était venu, Gueroui Zereh lui a coupé la gorge avec son poignard.
 >

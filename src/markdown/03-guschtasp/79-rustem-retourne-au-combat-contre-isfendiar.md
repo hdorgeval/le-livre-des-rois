@@ -9,7 +9,28 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'Beschouten',
+    'Créateur',
+    'Destan',
+    'Dieu',
+    'Div',
+    'Guschtasp',
+    'Iraniens',
+    'Isfendiar',
+    'Khallakh',
+    'Neriman',
+    'Nousch-Ader',
+    'Raksch',
+    'Rustem',
+    'Sam',
+    'Séistan',
+    'Zaboulistan',
+    'Zal',
+    'Zendavesta',
+    'Zerdouscht',
+  ]
 order: '79'
 ---
 

@@ -11,6 +11,7 @@ maps:
   ]
 tags:
   [
+    'âme',
     'Beschouten',
     'Bisoutoun',
     'Chine',

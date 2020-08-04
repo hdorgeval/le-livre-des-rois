@@ -9,7 +9,37 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags:
+  [
+    'âme',
+    'Ardjasp',
+    'Bahman',
+    'Balkh',
+    'Beh-Aferid',
+    'Beschouten',
+    'Chine',
+    'Destan',
+    'Dieu',
+    'Djamasp',
+    'Guschtasp',
+    'Homaï',
+    'Isfendiar',
+    'Keïanide',
+    'Keïanides',
+    'Khallakh',
+    'Kitaboun',
+    'Minoutchehr',
+    'Nousch-Ader',
+    'Rustem',
+    'Serosch',
+    'Simourgh',
+    'Tehemten',
+    'Turcs',
+    'Zaboulistan',
+    'Zal',
+    'Zerdouscht',
+    'Zerir',
+  ]
 order: '82'
 ---
 
@@ -57,7 +87,7 @@ Les grands de l’Iran, indignés contre Guschtasp, se dépouillèrent de tout r
 >
 > Tu l’as livré à la mort et as gardé la couronne sur ta tête, assis sur le trône du pouvoir.
 >
-> Puisse ta tête avoir honte de se couvrir de la couronne des Keïanides;
+> Puisse ta tête avoir honte de se couvrir de la couronne des Keïanides;
 >
 > Puisse ton étoile avoir hâte de partir!
 
@@ -85,7 +115,7 @@ Kitaboun versa sur le destrier des larmes de sang, car c’était monté sur lui
 
 La mère d’Isfendiar dit:
 
-> Ô toi dont la trace des pieds est maudite, c’est sur ton dos que le Keïanide a été tué!
+> Ô toi dont la trace des pieds est maudite, c’est sur ton dos que le Keïanide a été tué!
 >
 > Qui porteras-tu dorénavant dans la bataille, qui livreras-tu à la grille du crocodile?
 

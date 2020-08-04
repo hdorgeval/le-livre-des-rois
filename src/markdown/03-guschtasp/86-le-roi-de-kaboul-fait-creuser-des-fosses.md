@@ -9,7 +9,7 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b5963670z/f1.item.r=carte%20touran.zoom,
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
-tags: []
+tags: ['Kaboul', 'Pehlewan', 'Raksch', 'Rustem', 'Scheghad', 'Tehemten', 'Zewareh']
 order: '86'
 ---
 
