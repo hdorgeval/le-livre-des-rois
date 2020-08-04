@@ -8,7 +8,7 @@ export default () => (
     <SEO title="Le Livre des Rois" contentType="website" description="Le règne de Guschtasp" />
 
     <div>
-      <Title text="Le règne de Guschtasp" subtitle="Son règne dura 100 ans." />
+      <Title text="Le règne de Guschtasp" subtitle="Son règne dura 120 ans." />
       <div className={styles.content}>
         <br />
         <GuschtaspEpisodes />

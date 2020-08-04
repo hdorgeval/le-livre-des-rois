@@ -30,7 +30,7 @@ export const GuschtaspReignLink: React.FC = () => {
 
   const guschtaspNode: MarkdownNode = {
     id: 'guschtasp',
-    excerpt: 'Règne de Guschtasp Son règne dura 100 ans',
+    excerpt: 'Règne de Guschtasp Son règne dura 120 ans',
     frontmatter: {
       tags: [],
       date: '',
@@ -38,7 +38,7 @@ export const GuschtaspReignLink: React.FC = () => {
       landscape: 'https://source.unsplash.com/PvDFxBPc6Zw',
     },
     headings: [{ depth: 1, value: 'Règne de Guschtasp' }],
-    html: '<h1>Règne de Guschtasp</h1>Son règne dura 100 ans.',
+    html: '<h1>Règne de Guschtasp</h1>Son règne dura 120 ans.',
     htmlAst: emptyHtmlAst,
     fields: {
       slug: '/regne-de-guschtasp/',
