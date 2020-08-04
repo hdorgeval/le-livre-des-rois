@@ -36,6 +36,6 @@ son règne dura 120 ans
 
 [Règne de Guschtasp](https://www.lelivredesrois.com/regne-de-guschtasp/)
 
-son règne dura 100 ans
+son règne dura 120 ans
 
 ---
