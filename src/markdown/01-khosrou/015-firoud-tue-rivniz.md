@@ -49,7 +49,7 @@ Tokhareh répondit:
 >
 > Pourquoi veut-il déshonorer ton frère?
 
-Pendant que Rivniz le lion s’approchait l’épée à la main du vaillant Firoud; celui-ci banda son arc et lui décocha d’en haut une flèche qui lui cloua son casque de Boum sur la tête.
+Pendant que Rivniz le lion s’approchait l’épée à la main du vaillant Firoud; celui-ci banda son arc et lui décocha d’en haut une flèche qui lui cloua son casque de Roum sur la tête.
 
 Rivniz tomba, son cheval s’enfuit, et la tête du héros resta enfouie dans la poussière.
 
