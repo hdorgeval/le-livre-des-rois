@@ -49,12 +49,12 @@ A son réveil, elle demanda encore de la nourriture, et on lui apporta des mets 
 
 Lorsqu’elle fut revenue à la raison, elle dit à Zal:
 
-> Tes paroles étaient conformes à la vérité.
+> Tes paroles étaient conformes à la vérité.
 >
-> Quand on est privé de nourriture et de sommeil, on confond le deuil des morts avec les fêtes et les festins.
+> Quand on est privé de nourriture et de sommeil, on confond le deuil des morts avec les fêtes et les festins.
 >
 > Il nous a quittés et nous le suivrons: ayons confiance dans la justice de Dieu.
 
 Elle donna aux pauvres tous ses trésors cachés, et adressa au Créateur cette prière:
 
-> Ô toi qui es au-dessus de toute gloire et de toute dignité, purifie l’âme de Rustem de tout péché, dans l’autre monde donne-lui une place dans ton paradis, fais-le jouir des fruits de ce qu’il a semé ici!
+> Ô toi qui es au-dessus de toute gloire et de toute dignité, purifie l’âme de Rustem de tout péché, dans l’autre monde donne-lui une place dans ton paradis, fais-le jouir des fruits de ce qu’il a semé ici!
