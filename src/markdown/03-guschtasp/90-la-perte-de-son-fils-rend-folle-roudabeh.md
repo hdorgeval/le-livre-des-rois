@@ -31,7 +31,7 @@ Roudabeh s’emporta et prononça un serment, disant:
 
 > Je ne prendrai plus désormais ni repos ni nourriture, dans l’espoir que mon âme retrouvera au milieu de cette assemblée l’âme du héros au corps d’éléphant.
 
-Pendant sept jours elle s’abstint de manger, communiquant dans son cœur en secret avec l’âme de Rustem;
+Pendant sept jours elle s’abstint de manger, communiquant dans son cœur en secret avec l’âme de Rustem;
 
 Elle jeûna tant que ses yeux se troublèrent, que son cœur vaillant défaillit.
 
@@ -57,4 +57,4 @@ Lorsqu’elle fut revenue à la raison, elle dit à Zal:
 
 Elle donna aux pauvres tous ses trésors cachés, et adressa au Créateur cette prière:
 
-> Ô toi qui es au-dessus de toute gloire et de toute dignité, purifie l’âme de Rustem de tout péché, dans l’autre monde donne-lui une place dans ton paradis, fais-le jouir des fruits de ce qu’il a semé ici!
+> Ô toi qui es au-dessus de toute gloire et de toute dignité, purifie l’âme de Rustem de tout péché, dans l’autre monde donne-lui une place dans ton paradis, fais-le jouir des fruits de ce qu’il a semé ici!
