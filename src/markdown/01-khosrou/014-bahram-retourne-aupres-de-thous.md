@@ -13,9 +13,9 @@ Bahram, à son retour, dit à Thous:
 
 > Puisse la raison être la compagne de ton âme pure!
 >
-> Sache que c’est Firoud, le fils du roi Siawusch, qui fut tué si injustement.
+> Sache que c’est Firoud, le fils du roi Siawusch, qui fut tué si injustement.
 >
-> Il m’a montré la marque que toute sa famille tient de Kaous et de Keï Kobad.
+> Il m’a montré la marque que toute sa famille tient de Kaous et de Keï Kobad.
 
 L’injuste Thous lui répondit:
 
@@ -27,13 +27,13 @@ L’injuste Thous lui répondit:
 >
 > Je ne verrai donc jamais de cette famille obstinée de Gouderz que des actes nuisibles à l’armée?
 >
-> Tu as eu peur d’un cavalier isolé et sans valeur, car ce n’est pas un lion furieux que tu as trouvé sur cette montagne.
+> Tu as eu peur d’un cavalier isolé et sans valeur, car ce n’est pas un lion furieux que tu as trouvé sur cette montagne.
 >
-> Il a vu notre armée et a eu recours à la ruse, et tu t’es donné en vain la peine de monter et de descendre.
+> Il a vu notre armée et a eu recours à la ruse, et tu t’es donné en vain la peine de monter et de descendre.
 
 Ensuite il dit à ses braves:
 
-> Ô héros destructeurs de vos ennemis! je demande un brave renommé et désireux d’accroître sa gloire, pour qu’il aille contre ce Turc, qu’il lui tranche la tête avec son poignard et me l’apporte devant cette assemblée.
+> Ô héros destructeurs de vos ennemis! je demande un brave renommé et désireux d’accroître sa gloire, pour qu’il aille contre ce Turc, qu’il lui tranche la tête avec son poignard et me l’apporte devant cette assemblée.
 
 Rivniz se ceignit sur-le-champ et accourut auprès de l’orgueilleux Thous.
 

@@ -15,7 +15,7 @@ Lorsque Firoud l’aperçut du haut de la montagne, il tira de l’étui son arc
 
 > Thous méprise mes paroles, car voici un cavalier qui s’approche, et ce n’est pas Bahram;
 >
-> Mon cœur est opprimé et inquiet.
+> Mon cœur est opprimé et inquiet.
 >
 > Regarde-le, et dis-moi si tu le reconnais et si tu devines pourquoi il est couvert de fer de la tête aux pieds.
 
@@ -25,7 +25,7 @@ Tokhareh lui répondit:
 >
 > Il a quarante sœurs semblables au gai printemps, mais il est le seul fils de son père.
 >
-> C’est un homme rusé, fourbe et flatteur, mais jeune et brave, et il est gendre de Thous.
+> C’est un homme rusé, fourbe et flatteur, mais jeune et brave, et il est gendre de Thous.
 
 Firoud répondit à son sage compagnon:
 
@@ -33,7 +33,7 @@ Firoud répondit à son sage compagnon:
 >
 > S’il vient nous attaquer, je le coucherai sur le pan des robes de ses sœurs.
 >
-> S’il ne meurt pas aussitôt que le touchera le vent excité par ma flèche, ne m’appelle plus un homme.
+> S’il ne meurt pas aussitôt que le touchera le vent excité par ma flèche, ne m’appelle plus un homme.
 >
 > Mais faut-il que mon trait abatte l’homme ou le cheval?
 >
