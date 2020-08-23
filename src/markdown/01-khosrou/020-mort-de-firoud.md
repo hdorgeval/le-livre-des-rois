@@ -3,7 +3,23 @@ date: ''
 image: 'https://source.unsplash.com/_E1PQXKUkMw'
 landscape: 'https://source.unsplash.com/_E1PQXKUkMw'
 source: tome II - livre des rois - P. 503
-tags: []
+tags:
+  [
+    'Bijen',
+    'Djerem',
+    'Djerireh',
+    'Firoud',
+    'Gueroui',
+    'Guiv',
+    'Iraniens',
+    'Kelat',
+    'Keïanide',
+    'Rehham',
+    'Roum',
+    'Siped',
+    'Thous',
+    'Turcs',
+  ]
 order: '020'
 ---
 
@@ -37,7 +53,7 @@ Le jeune homme répondit à sa mère:
 >
 > Mais je lutterai, je mourrai en homme et ne demanderai pas grâce aux Iraniens.
 
-Il arma toute sa troupe de massues et de cuirasses, se couvrit la tête d’un magnifique casque turc, le corps d’une cotte de mailles de Roum, et se mit en route, tenant en main son arc de Keïanide.
+Il arma toute sa troupe de massues et de cuirasses, se couvrit la tête d’un magnifique casque turc, le corps d’une cotte de mailles de Roum, et se mit en route, tenant en main son arc de Keïanide.
 
 Lorsque le soleil montra sa face brillante et s’éleva glorieusement sur la voûte du ciel, on entendit de tous cotés les voix des chefs, le choc des massues, le tonnerre des trompettes et des timbales et le son des clairons et des clochettes indiennes.
 

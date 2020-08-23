@@ -3,7 +3,21 @@ date: ''
 image: 'https://source.unsplash.com/J8k-gzI0Zy0'
 landscape: 'https://source.unsplash.com/J8k-gzI0Zy0'
 source: tome II - livre des rois - P. 501
-tags: []
+tags:
+  [
+    'Bijen',
+    'Dieu',
+    'Firoud',
+    'Guiv',
+    'Pehlewan',
+    'Seigneur',
+    'Siawusch',
+    'Sipehbed',
+    'Thous',
+    'Tokhareh',
+    'Turc',
+    'Zerasp',
+  ]
 order: '019'
 ---
 

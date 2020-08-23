@@ -3,7 +3,25 @@ date: ''
 image: 'https://source.unsplash.com/zqwK4a6JXgc'
 landscape: 'https://source.unsplash.com/zqwK4a6JXgc'
 source: tome II - livre des rois - P. 493
-tags: []
+tags:
+  [
+    'Destour',
+    'Djemschid',
+    'Firoud',
+    'Guiv',
+    'Iraniens',
+    'Khosrou',
+    'Kobad',
+    'Newder',
+    'Pehlewan',
+    'Rivniz',
+    'Siawusch',
+    'Sipehbed',
+    'Sipehdar',
+    'Thous',
+    'Tokhareh',
+    'Zerasp',
+  ]
 order: '017'
 ---
 

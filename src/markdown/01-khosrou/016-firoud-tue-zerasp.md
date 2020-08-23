@@ -3,7 +3,18 @@ date: ''
 image: 'https://source.unsplash.com/4Aq4kPpU69k'
 landscape: 'https://source.unsplash.com/UpR6FBeVvto'
 source: tome II - livre des rois - P. 492
-tags: []
+tags:
+  [
+    'Adergouschasp',
+    'âme',
+    'Firoud',
+    'Pehlewan',
+    'Rivniz',
+    'Sipehdar',
+    'Thous',
+    'Tokhareh',
+    'Zerasp',
+  ]
 order: '016'
 ---
 

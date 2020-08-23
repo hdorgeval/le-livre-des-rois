@@ -3,7 +3,32 @@ date: ''
 image: 'https://source.unsplash.com/HJYK6q7wVRk'
 landscape: 'https://source.unsplash.com/zqwK4a6JXgc'
 source: tome II - livre des rois - P. 497
-tags: []
+tags:
+  [
+    'Adergouschasp',
+    'âme',
+    'Bijen',
+    'Dieu',
+    'Djihoun',
+    'Firoud',
+    'Gloire',
+    'Guiv',
+    'Gémeaux',
+    'Khosrou',
+    'Kustehem',
+    'Pehlewan',
+    'Piran',
+    'Rivniz',
+    'Siawusch',
+    'Siped',
+    'Sipehbed',
+    'Thous',
+    'Tokhareh',
+    'Touran',
+    'Touraniens',
+    'Turc',
+    'Zerasp',
+  ]
 order: '018'
 ---
 

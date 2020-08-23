@@ -3,7 +3,24 @@ date: ''
 image: 'https://source.unsplash.com/7Zuf7R7q0O8'
 landscape: 'https://source.unsplash.com/LvBwmKyK6oo'
 source: tome II - livre des rois - P. 489
-tags: []
+tags:
+  [
+    'âme',
+    'Bahram',
+    'Firoud',
+    'Gouderz',
+    'Kaous',
+    'Keï',
+    'Keïanide',
+    'Khosrou',
+    'Kobad',
+    'Pehlewan',
+    'Rivniz',
+    'Siawusch',
+    'Sipehbed',
+    'Thous',
+    'Turc',
+  ]
 order: '014'
 ---
 
@@ -15,13 +32,13 @@ Bahram, à son retour, dit à Thous:
 >
 > Sache que c’est Firoud, le fils du roi Siawusch, qui fut tué si injustement.
 >
-> Il m’a montré la marque que toute sa famille tient de Kaous et de Keï Kobad.
+> Il m’a montré la marque que toute sa famille tient de Kaous et de Keï Kobad.
 
 L’injuste Thous lui répondit:
 
 > C’est moi qui suis le maître de l’armée, des clairons et des timbales, je t’ai dit de me l’amener sans lui adresser de questions.
 >
-> S’il est roi, je suis un Keïanide, et pourquoi croit-il pouvoir m’arrêter devant ce château?
+> S’il est roi, je suis un Keïanide, et pourquoi croit-il pouvoir m’arrêter devant ce château?
 >
 > Le fils d’une femme turque intercepterait ainsi la route de mes troupes, comme un corbeau de mauvais augure?
 >
@@ -55,7 +72,7 @@ Il donna l’ordre que quelques guerriers allassent attaquer le noble Firoud, et
 
 Le vaillant Bahram leur dit de nouveau:
 
-> Ne traitez pas ceci comme peu de chose, c’est le frère de Keï Khosrou qui se trouve sur cette montagne, et chaque cheveu de sa tête vaut mieux que la vie d’un Pehlewan.
+> Ne traitez pas ceci comme peu de chose, c’est le frère de Keï Khosrou qui se trouve sur cette montagne, et chaque cheveu de sa tête vaut mieux que la vie d’un Pehlewan.
 >
 > Quiconque a jamais vu les traits de Siawusch s’arrêtera quand il apercevra son fils.
 

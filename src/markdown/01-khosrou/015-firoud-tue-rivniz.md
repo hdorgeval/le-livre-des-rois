@@ -3,7 +3,19 @@ date: ''
 image: 'https://source.unsplash.com/UpR6FBeVvto'
 landscape: 'https://source.unsplash.com/UpR6FBeVvto'
 source: tome II - livre des rois - P. 491
-tags: []
+tags:
+  [
+    'Bahram',
+    'Djerem',
+    'Firoud',
+    'Meyem',
+    'Rivniz',
+    'Roum',
+    'Siped',
+    'Sipehdar',
+    'Thous',
+    'Tokhareh',
+  ]
 order: '015'
 ---
 
