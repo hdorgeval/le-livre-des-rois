@@ -21,6 +21,7 @@ tags:
     'Gangue',
     'Guschtasp',
     'Iblis',
+    'Iran',
     'Isfendiar',
     'Kaous',
     'Keï',

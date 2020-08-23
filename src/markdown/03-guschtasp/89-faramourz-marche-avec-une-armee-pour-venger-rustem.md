@@ -10,7 +10,18 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
 tags:
-  ['Bost', 'Destan', 'Faramourz', 'Indiens', 'Kaboul', 'Rustem', 'Scheghad', 'Sind', 'Zaboulistan']
+  [
+    'Bost',
+    'Destan',
+    'Faramourz',
+    'Indiens',
+    'Iran',
+    'Kaboul',
+    'Rustem',
+    'Scheghad',
+    'Sind',
+    'Zaboulistan',
+  ]
 order: '89'
 ---
 

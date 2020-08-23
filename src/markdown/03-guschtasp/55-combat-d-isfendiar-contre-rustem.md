@@ -15,6 +15,7 @@ tags:
     'Destan',
     'Dieu',
     'Djamasp',
+    'Iran',
     'Iraniens',
     'Isfendiar',
     'Kaboul',

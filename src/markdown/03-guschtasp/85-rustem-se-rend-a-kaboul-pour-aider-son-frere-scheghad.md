@@ -11,9 +11,12 @@ maps:
   ]
 tags:
   [
+    'âme',
     'cyprès',
     'Destan',
     'Dieu',
+    'Indoustan',
+    'Iran',
     'Kaboul',
     'Kaschmir',
     'Neriman',

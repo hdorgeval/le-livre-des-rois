@@ -7,6 +7,7 @@ map: ''
 tags:
   [
     'âme',
+    'Ardibehischt',
     'Ardjasp',
     'Bidirefsch',
     'Bélier',
@@ -17,6 +18,7 @@ tags:
     'Djemschid',
     'Djihoun',
     'Guschtasp',
+    'Iran',
     'Iraniens',
     'Kaschan',
     'Keï',

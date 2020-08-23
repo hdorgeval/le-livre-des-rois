@@ -13,6 +13,8 @@ tags:
     'Destour',
     'Djamasp',
     'Guschtasp',
+    'Iran',
+    'Iredj',
     'Isfendiar',
     'Keïanide',
     'Mobed',

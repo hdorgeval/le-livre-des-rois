@@ -11,11 +11,14 @@ maps:
   ]
 tags:
   [
+    'Abou',
     'Ahmed',
     'Aventure',
     'Azadeh',
     'Dieu',
     'Inde',
+    'Iran',
+    'Isfendiar',
     'Keïanides',
     'Mahan',
     'Mahmoud',

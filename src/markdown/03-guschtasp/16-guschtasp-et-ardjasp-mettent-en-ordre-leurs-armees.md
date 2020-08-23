@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 317
 map: ''
 tags:
   [
+    'âme',
     'Ardjasp',
     'Bidirefsch',
     'Chine',
@@ -14,6 +15,7 @@ tags:
     'Gurgsar',
     'Guschtasp',
     'Hazaran',
+    'Isfendiar',
     'Kehrem',
     'Khallakh',
     'Namkhast',

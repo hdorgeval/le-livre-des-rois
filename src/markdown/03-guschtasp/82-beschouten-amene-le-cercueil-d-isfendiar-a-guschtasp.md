@@ -23,6 +23,7 @@ tags:
     'Djamasp',
     'Guschtasp',
     'Homaï',
+    'Iran',
     'Isfendiar',
     'Keïanide',
     'Keïanides',

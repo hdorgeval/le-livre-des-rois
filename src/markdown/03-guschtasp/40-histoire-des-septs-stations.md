@@ -4,7 +4,7 @@ image: 'https://source.unsplash.com/3wkonYy2w94'
 landscape: 'https://source.unsplash.com/3wkonYy2w94'
 source: tome IV - livre des rois - P. 391
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
-tags: ['Aboulkasem', 'Bélier', 'Chine', 'Mahmoud', 'Mani']
+tags: ['Aboulkasem', 'Bélier', 'Chine', 'Mahmoud', 'Mani', 'Occident', 'Orient']
 order: '40'
 ---
 

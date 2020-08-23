@@ -11,10 +11,12 @@ maps:
   ]
 tags:
   [
+    'âme',
     'Beschouten',
     'Créateur',
     'Dieu',
     'Div',
+    'Iran',
     'Iraniens',
     'Isfendiar',
     'Kergsar',

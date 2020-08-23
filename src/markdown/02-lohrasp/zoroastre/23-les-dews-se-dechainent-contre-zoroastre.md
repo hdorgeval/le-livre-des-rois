@@ -5,6 +5,7 @@ landscape: 'https://source.unsplash.com/QhMFQD5u-x4'
 source: tome II - Vie de Zoroastre - P. 15 (P.155) - Zend-Avesta - Anquetil du Perron
 tags:
   [
+    'Ahriman',
     'âme',
     'Bahman',
     'Chef',

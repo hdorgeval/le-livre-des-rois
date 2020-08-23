@@ -18,6 +18,7 @@ tags:
     'Djiguil',
     'Enderiman',
     'Ferschidwerd',
+    'Iran',
     'Iraniens',
     'Isfendiar',
     'Kehrem',

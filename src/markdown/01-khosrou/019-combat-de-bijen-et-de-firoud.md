@@ -9,6 +9,7 @@ tags:
     'Dieu',
     'Firoud',
     'Guiv',
+    'Iran',
     'Pehlewan',
     'Seigneur',
     'Siawusch',

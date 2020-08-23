@@ -11,6 +11,7 @@ maps:
   ]
 tags:
   [
+    'âme',
     'Bost',
     'Chine',
     'Créateur',
@@ -22,6 +23,7 @@ tags:
     'Guschtasp',
     'Hamaveran',
     'Iblis',
+    'Iran',
     'Isfendiar',
     'Kaboul',
     'Kaous',

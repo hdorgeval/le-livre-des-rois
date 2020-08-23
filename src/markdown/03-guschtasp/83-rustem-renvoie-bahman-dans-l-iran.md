@@ -12,15 +12,18 @@ maps:
 tags:
   [
     'âme',
+    'Ardeschir',
     'Bahman',
     'Beschouten',
     'Destan',
     'Dieu',
     'Djamasp',
     'Guschtasp',
+    'Inde',
     'Iran',
     'Isfendiar',
     'Kanoudj',
+    'Ormuzd',
     'Pehlewan',
     'Rustem',
     'Zaboulistan',

@@ -19,6 +19,7 @@ tags:
     'Gourazeh',
     'Guejdehem',
     'Guiv',
+    'Inde',
     'Kaboul',
     'Kanoudj',
     'Kaschmir',

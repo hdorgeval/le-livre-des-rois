@@ -20,6 +20,7 @@ tags:
     'Guschtasp',
     'Hamaveran',
     'Iran',
+    'Iraniens',
     'Isfendiar',
     'Kaous',
     'Keï',

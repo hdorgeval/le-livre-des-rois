@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 303
 map: ''
 tags:
   [
+    'Afrasiab',
     'Ahrimans',
     'Ardjasp',
     'Balkh',
@@ -18,6 +19,8 @@ tags:
     'Gurgsar',
     'Guschtasp',
     'Houschdiv',
+    'Iran',
+    'Iredj',
     'Isfendiar',
     'Kehrem',
     'Khallakh',

@@ -21,6 +21,7 @@ tags:
     'Feridoun',
     'Gurezm',
     'Guschtasp',
+    'Iran',
     'Iraniens',
     'Isfendiar',
     'Kaisar',

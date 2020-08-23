@@ -30,6 +30,7 @@ tags:
     'Nestour',
     'Nivzar',
     'Pehlewan',
+    'Puisqu',
     'Rustem',
     'Schidasp',
     'Seigneur',

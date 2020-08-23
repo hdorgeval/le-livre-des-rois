@@ -17,6 +17,7 @@ tags:
     'Guschtasp',
     'Haleb',
     'Ilias',
+    'Iran',
     'Kaisar',
     'Kalous',
     'Kaous',

@@ -16,6 +16,7 @@ tags:
     'Dieu',
     'Gunbedan',
     'Hirmend',
+    'Iran',
     'Isfendiar',
     'Kaboul',
     'Rustem',

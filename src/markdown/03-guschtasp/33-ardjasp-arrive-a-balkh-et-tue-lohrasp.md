@@ -13,6 +13,7 @@ tags:
     'Créateur',
     'Dieu',
     'Guschtasp',
+    'Iran',
     'Isfendiar',
     'Kehrem',
     'Keïanide',

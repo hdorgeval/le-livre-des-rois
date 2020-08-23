@@ -16,6 +16,7 @@ tags:
     'Faramourz',
     'Guschtasp',
     'Hirmend',
+    'Iran',
     'Iraniens',
     'Isfendiar',
     'Mobed',

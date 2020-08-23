@@ -16,6 +16,7 @@ tags:
     'Bersekhan',
     'Beschouten',
     'Chine',
+    'Iran',
     'Isfendiar',
     'Kergsar',
     'Kharrad',

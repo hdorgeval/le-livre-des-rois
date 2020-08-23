@@ -6,13 +6,16 @@ source: tome IV - livre des rois - P. 393
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
   [
+    'Ahriman',
     'Ahrimans',
+    'âme',
     'Ardjasp',
     'Balkh',
     'Beschouten',
     'Dieu',
     'Dihkan',
     'Guschtasp',
+    'Iran',
     'Isfendiar',
     'Juge',
     'Kergsar',

@@ -10,6 +10,7 @@ tags:
     'Chine',
     'Créateur',
     'Feu',
+    'Inde',
     'Juge',
     'Khosrou',
     'Lohrasp',

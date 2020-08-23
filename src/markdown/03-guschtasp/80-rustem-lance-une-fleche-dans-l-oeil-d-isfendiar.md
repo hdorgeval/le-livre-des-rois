@@ -11,6 +11,7 @@ maps:
   ]
 tags:
   [
+    'Ahriman',
     'âme',
     'Bahman',
     'Beschouten',

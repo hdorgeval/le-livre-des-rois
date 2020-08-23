@@ -6,11 +6,13 @@ source: tome IV - livre des rois - P. 301
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.zoom'
 tags:
   [
+    'âme',
     'Ardjasp',
     'Destour',
     'Dieu',
     'Djamasp',
     'Guschtasp',
+    'Iran',
     'Isfendiar',
     'Kergsars',
     'Khallakh',

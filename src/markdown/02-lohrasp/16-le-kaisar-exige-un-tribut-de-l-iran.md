@@ -7,6 +7,7 @@ tags:
   [
     'Farrukhzad',
     'Guschtasp',
+    'Ilias',
     'Iran',
     'Kaisar',
     'Kalous',

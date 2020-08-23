@@ -21,6 +21,7 @@ tags:
     'Guschtasp',
     'Hamaveran',
     'Hirmend',
+    'Iran',
     'Isfendiar',
     'Kamous',
     'Keïanides',

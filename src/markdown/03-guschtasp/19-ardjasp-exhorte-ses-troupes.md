@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 325
 map: ''
 tags:
   [
+    'Afrasiab',
     'Ardjasp',
     'Arisch',
     'Bidirefsch',

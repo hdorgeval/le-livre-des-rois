@@ -6,6 +6,8 @@ source: tome IV - livre des rois - P. 339
 map: ''
 tags:
   [
+    'âme',
+    'Ardjasp',
     'Balkh',
     'Chinois',
     'Iraniens',

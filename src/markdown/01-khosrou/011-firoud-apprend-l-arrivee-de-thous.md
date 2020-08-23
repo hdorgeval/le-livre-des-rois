@@ -7,11 +7,13 @@ tags:
   [
     'Afrasiab',
     'âme',
+    'Anbouh',
     'Bahram',
     'Djerem',
     'Djerireh',
     'Firoud',
     'Gang',
+    'Iran',
     'Iraniens',
     'Kelat',
     'Keï',

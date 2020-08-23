@@ -14,6 +14,8 @@ tags:
     'Djamasp',
     'Guschtasp',
     'Homaï',
+    'Inde',
+    'Iran',
     'Kaisar',
     'Keïanide',
     'Keïanides',

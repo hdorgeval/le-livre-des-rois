@@ -5,16 +5,18 @@ landscape: 'https://source.unsplash.com/D1IS5s5O9xo'
 source: tome II - livre des rois - P. 472
 tags:
   [
+    'Afrasiab',
     'âme',
     'Bélier',
     'Djerem',
     'Gouderz',
     'Guezdehem',
+    'Indus',
+    'Iran',
     'Kaweh',
     'Kelat',
     'Keï',
     'Khosrou',
-    'L’étendard',
     'Minoutchehr',
     'Mobeds',
     'Newder',

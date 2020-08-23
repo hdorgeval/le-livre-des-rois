@@ -6,6 +6,8 @@ source: tome II - Vie de Zoroastre - P. 47 (P.187) - Zend-Avesta - Anquetil du P
 map: ''
 tags:
   [
+    'âme',
+    'Avesta',
     'Balkh',
     'Brahme',
     'Brahmes',

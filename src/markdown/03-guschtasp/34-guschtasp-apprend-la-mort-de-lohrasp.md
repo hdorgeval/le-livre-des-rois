@@ -14,6 +14,7 @@ tags:
     'Ferschidwerd',
     'Guschtasp',
     'Homaï',
+    'Iran',
     'Iraniens',
     'Kehrem',
     'Kender',

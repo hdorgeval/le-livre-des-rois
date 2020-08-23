@@ -5,6 +5,7 @@ landscape: 'https://source.unsplash.com/odxB5oIG_iA'
 source: tome II - livre des rois - P. 508
 tags:
   [
+    'âme',
     'Bahram',
     'Bijen',
     'Djerireh',
@@ -12,6 +13,7 @@ tags:
     'Gouderz',
     'Gourguin',
     'Guiv',
+    'Iran',
     'Iraniens',
     'Kelat',
     'Keïanides',

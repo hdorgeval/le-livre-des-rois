@@ -10,7 +10,19 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
 tags:
-  ['âme', 'Dieu', 'Feridoun', 'Guschtasp', 'Isfendiar', 'Kehrem', 'Lohrasp', 'Saturne', 'Touran']
+  [
+    'âme',
+    'Ardjasp',
+    'Dieu',
+    'Feridoun',
+    'Guschtasp',
+    'Iran',
+    'Isfendiar',
+    'Kehrem',
+    'Lohrasp',
+    'Saturne',
+    'Touran',
+  ]
 order: '53'
 ---
 

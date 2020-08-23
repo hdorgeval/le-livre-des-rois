@@ -10,7 +10,7 @@ export const getTagsFrom = (markdownFile: PathLike): string[] => {
   const allLinesExceptFrontmatter = removeFrontMatterIn(allLines);
   const allTags = allLinesExceptFrontmatter
     .join(' ')
-    .split(/\n|\r|\s|,|;|\.|:|!|'|\?/)
+    .split(/\n|\r|\s|,|;|\.|:|!|'|’|\?/)
     .map((word) => word.trim())
     .filter((word) => word.length > 2)
     .filter((word) => {

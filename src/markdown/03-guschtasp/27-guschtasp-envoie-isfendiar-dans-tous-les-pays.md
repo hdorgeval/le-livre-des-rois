@@ -9,6 +9,8 @@ tags:
     'Dieu',
     'Ferschidwerd',
     'Guschtasp',
+    'Hindoustan',
+    'Iran',
     'Isfendiar',
     'Keïanide',
     'Khorasan',

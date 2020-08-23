@@ -9,6 +9,7 @@ tags:
     'Ardjasp',
     'Chinois',
     'Divs',
+    'Iran',
     'Iraniens',
     'Isfendiar',
     'Keïanide',

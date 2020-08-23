@@ -22,6 +22,7 @@ tags:
     'Djamasp',
     'Faramourz',
     'Guschtasp',
+    'Iran',
     'Isfendiar',
     'Kaboul',
     'Nimrouz',

@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/a72o8w9HC2w'
 landscape: 'https://source.unsplash.com/Y9j7PLr8w90'
 source: tome IV - livre des rois - P. 237
-tags: ['Dikhan', 'Feridoun', 'Guschtasp', 'Juge', 'Tout-puissant']
+tags: ['âme', 'Dikhan', 'Feridoun', 'Guschtasp', 'Juge', 'Tout-puissant']
 order: '06'
 ---
 

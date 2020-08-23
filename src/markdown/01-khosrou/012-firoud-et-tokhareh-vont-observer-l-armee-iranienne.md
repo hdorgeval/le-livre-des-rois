@@ -5,6 +5,7 @@ landscape: 'https://source.unsplash.com/Pe1Ol9oLc4o'
 source: tome II - livre des rois - P. 480
 tags:
   [
+    'Afrasiab',
     'Bahram',
     'Bijen',
     'Chine',
@@ -16,6 +17,7 @@ tags:
     'Gourazeh',
     'Guejdehem',
     'Guiv',
+    'Iran',
     'Iraniens',
     'Kaous',
     'Keschwad',

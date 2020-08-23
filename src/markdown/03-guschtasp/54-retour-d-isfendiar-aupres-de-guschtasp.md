@@ -10,7 +10,19 @@ maps:
     https://gallica.bnf.fr/ark:/12148/btv1b550108649/f1.item.r=carte%20touran.zoom,
   ]
 tags:
-  ['âme', 'Chine', 'cyprès', 'Dieu', 'Guschtasp', 'Iran', 'Isfendiar', 'Mobeds', 'Rustem', 'Touran']
+  [
+    'âme',
+    'Ardjasp',
+    'Chine',
+    'cyprès',
+    'Dieu',
+    'Guschtasp',
+    'Iran',
+    'Isfendiar',
+    'Mobeds',
+    'Rustem',
+    'Touran',
+  ]
 order: '54'
 ---
 

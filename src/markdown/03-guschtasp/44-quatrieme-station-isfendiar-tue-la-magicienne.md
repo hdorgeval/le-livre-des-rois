@@ -15,6 +15,7 @@ tags:
     'Dieu',
     'Ghoul',
     'Guschtasp',
+    'Iran',
     'Isfendiar',
     'Kergsar',
     'magicienne',

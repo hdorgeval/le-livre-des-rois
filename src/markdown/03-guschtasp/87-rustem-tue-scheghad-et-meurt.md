@@ -18,6 +18,7 @@ tags:
     'Faramourz',
     'Feridoun',
     'Gueroui',
+    'Iran',
     'Kaboul',
     'Keï',
     'Kobad',

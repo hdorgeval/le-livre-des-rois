@@ -16,6 +16,7 @@ tags:
     'Destan',
     'Dieu',
     'Div',
+    'Iran',
     'Iraniens',
     'Isfendiar',
     'Kamous',

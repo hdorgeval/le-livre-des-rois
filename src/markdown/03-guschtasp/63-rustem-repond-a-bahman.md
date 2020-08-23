@@ -17,10 +17,12 @@ tags:
     'Chine',
     'Dieu',
     'Div',
+    'Iran',
     'Isfendiar',
     'Keï',
     'Khosrou',
     'Kobad',
+    'Occident',
     'Roum',
     'Rustem',
   ]

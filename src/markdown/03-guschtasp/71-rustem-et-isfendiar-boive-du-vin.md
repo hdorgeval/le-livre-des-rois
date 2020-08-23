@@ -17,6 +17,7 @@ tags:
     'Dieu',
     'Div',
     'Guschtasp',
+    'Iran',
     'Isfendiar',
     'Kaous',
     'Keï',

@@ -5,6 +5,7 @@ landscape: 'https://source.unsplash.com/zqwK4a6JXgc'
 source: tome II - livre des rois - P. 493
 tags:
   [
+    'âme',
     'Destour',
     'Djemschid',
     'Firoud',

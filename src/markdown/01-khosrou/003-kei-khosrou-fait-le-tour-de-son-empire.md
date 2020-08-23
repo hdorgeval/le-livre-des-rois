@@ -6,6 +6,7 @@ source: tome II - livre des rois - P. 449
 tags:
   [
     'Ader-Abadgan',
+    'Adergouschasp',
     'Aschkesch',
     'Bahram',
     'Bijen',
@@ -15,6 +16,7 @@ tags:
     'Gouderz',
     'Gourguin',
     'Guiv',
+    'Iran',
     'Kaous',
     'Keï',
     'Khosrou',

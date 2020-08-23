@@ -5,6 +5,7 @@ landscape: 'https://source.unsplash.com/DbJR10fEteE'
 source: tome II - livre des rois - P. 451
 tags:
   [
+    'Adergouschasp',
     'Afrasiab',
     'âme',
     'Créateur',
@@ -12,6 +13,7 @@ tags:
     'Dieu',
     'Feridoun',
     'Gouderz',
+    'Iran',
     'Kaous',
     'Keï',
     'Keïanides',

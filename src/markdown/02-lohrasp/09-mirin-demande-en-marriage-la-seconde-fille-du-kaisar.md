@@ -10,9 +10,11 @@ tags:
     'Fasikoun',
     'Guschtasp',
     'Heischoui',
+    'Iran',
     'Kaisar',
     'Kitaboun',
     'Mirin',
+    'Occident',
     'Roum',
     'Selm',
   ]

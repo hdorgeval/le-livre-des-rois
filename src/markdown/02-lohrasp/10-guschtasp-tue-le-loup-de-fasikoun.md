@@ -14,6 +14,7 @@ tags:
     'Fasikoun',
     'Guschtasp',
     'Heischoui',
+    'Iran',
     'Kaisar',
     'Kitaboun',
     'Lohrasp',

@@ -14,6 +14,8 @@ tags:
     'Gloire',
     'Guiv',
     'Gémeaux',
+    'Indus',
+    'Iran',
     'Khosrou',
     'Kustehem',
     'Pehlewan',

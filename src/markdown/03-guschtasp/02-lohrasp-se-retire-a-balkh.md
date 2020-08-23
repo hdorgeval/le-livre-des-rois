@@ -14,6 +14,7 @@ tags:
     'Djemschid',
     'Feridoun',
     'Guschtasp',
+    'Intelligence',
     'Isfendiar',
     'Juge',
     'Kaisar',

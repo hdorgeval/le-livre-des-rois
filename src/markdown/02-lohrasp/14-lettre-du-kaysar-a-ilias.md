@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 269
 tags:
   [
     'Ahren',
+    'Ahriman',
     'cyprès',
     'Dieu',
     'Farrukhzad',

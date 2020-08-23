@@ -14,6 +14,7 @@ tags:
     'Beschouten',
     'Dieu',
     'Hirmend',
+    'Iran',
     'Iraniens',
     'Isfendiar',
     'Kaboul',

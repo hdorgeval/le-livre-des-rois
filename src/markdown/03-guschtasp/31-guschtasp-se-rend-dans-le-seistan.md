@@ -17,6 +17,7 @@ tags:
     'Gunbedan',
     'Guschtasp',
     'Homaï',
+    'Iran',
     'Iraniens',
     'Isfendiar',
     'Kaboul',

@@ -6,6 +6,7 @@ source: tome IV - livre des rois - P. 322
 map: ''
 tags:
   [
+    'âme',
     'Chine',
     'Chinois',
     'Destan',

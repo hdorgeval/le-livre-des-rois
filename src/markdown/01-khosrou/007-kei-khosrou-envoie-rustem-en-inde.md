@@ -7,6 +7,7 @@ tags:
   [
     'Faramourz',
     'Inde',
+    'Iran',
     'Kaous',
     'Keï',
     'Khosrou',

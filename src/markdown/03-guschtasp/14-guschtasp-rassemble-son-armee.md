@@ -10,6 +10,7 @@ tags:
     'Chine',
     'Djemschid',
     'Guschtasp',
+    'Iran',
     'Keïanides',
     'Khakan',
     'Khaschasch',
