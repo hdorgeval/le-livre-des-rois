@@ -22,6 +22,7 @@ tags:
     'Enfer',
     'Espendiar',
     'Guschtasp',
+    'immortel',
     'Kerdar',
     'Khordad',
     'Loi',
