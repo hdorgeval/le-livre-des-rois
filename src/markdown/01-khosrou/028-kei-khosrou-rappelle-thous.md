@@ -3,7 +3,30 @@ date: ''
 image: 'https://source.unsplash.com/77eYUF11yUY'
 landscape: 'https://source.unsplash.com/MRYZ2EAFJCk'
 source: tome II - livre des rois - P. 531
-tags: []
+tags:
+  [
+    'âme',
+    'Dieu',
+    'Djerem',
+    'Feribourz',
+    'Firoud',
+    'Gouderz',
+    'Guiv',
+    'Iran',
+    'Kaous',
+    'Kaweh',
+    'Kelat',
+    'Keï',
+    'Khosrou',
+    'Minoutchehr',
+    'Newder',
+    'Nourouz',
+    'Pehlewan',
+    'Siawusch',
+    'Siped',
+    'Thous',
+    'Touran',
+  ]
 order: '028'
 ---
 

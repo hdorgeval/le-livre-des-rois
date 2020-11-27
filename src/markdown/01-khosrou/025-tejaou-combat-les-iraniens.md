@@ -3,7 +3,29 @@ date: ''
 image: 'https://source.unsplash.com/aK3PJYa9XXM'
 landscape: 'https://source.unsplash.com/aK3PJYa9XXM'
 source: tome II - livre des rois - P. 520
-tags: []
+tags:
+  [
+    'Adergouschasp',
+    'Afrasiab',
+    'Arjeng',
+    'Bijen',
+    'Guirauguird',
+    'Guiv',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Ispenoui',
+    'Murdoui',
+    'Pehlewan',
+    'Roum',
+    'Sipehbed',
+    'Sipehdar',
+    'Tejaou',
+    'Thous',
+    'Touran',
+    'Touranien',
+    'Touraniens',
+  ]
 order: '025'
 ---
 

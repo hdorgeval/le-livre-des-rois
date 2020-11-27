@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/s-aktnfUOjs'
 landscape: 'https://source.unsplash.com/Jxa5WMuFn78'
 source: tome II - livre des rois - P. 518
-tags: []
+tags: ['Afrasiab', 'Bahram', 'Div', 'Guirauguird', 'Iraniens', 'Keboudeh', 'Sipehbed', 'Tejaou']
 order: '024'
 ---
 

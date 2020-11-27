@@ -3,7 +3,22 @@ date: ''
 image: 'https://source.unsplash.com/oe8sIOWI9xY'
 landscape: 'https://source.unsplash.com/uSQKwRQTjPQ'
 source: tome II - livre des rois - P. 527
-tags: []
+tags:
+  [
+    'Anbouh',
+    'Bijen',
+    'Gouderz',
+    'Guiv',
+    'Iran',
+    'Iraniens',
+    'Kasehroud',
+    'Lion',
+    'Piran',
+    'Sipehdar',
+    'Thous',
+    'Touran',
+    'Turcs',
+  ]
 order: '027'
 ---
 

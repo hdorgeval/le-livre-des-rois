@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/bKlPpObIfYo'
 landscape: 'https://source.unsplash.com/-wk6BuXySW0'
 source: tome II - livre des rois - P. 535
-tags: []
+tags: ['Feribourz', 'Gouderz', 'Kaous', 'Pehlewan', 'Piran', 'Rehham', 'Thous', 'Touran']
 order: '029'
 ---
 

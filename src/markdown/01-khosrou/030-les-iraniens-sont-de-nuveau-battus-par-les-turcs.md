@@ -3,7 +3,39 @@ date: ''
 image: 'https://source.unsplash.com/OwqLxCvoVxI'
 landscape: 'https://source.unsplash.com/-wk6BuXySW0'
 source: tome II - livre des rois - P. 538
-tags: []
+tags:
+  [
+    'Adergouschasp',
+    'Afrasiab',
+    'Aschkesch',
+    'Bahram',
+    'Barteh',
+    'Bijen',
+    'Feribourz',
+    'Ferschidwerd',
+    'Firoud',
+    'Gouderz',
+    'Gourazeh',
+    'Guiv',
+    'Houman',
+    'Iraniens',
+    'Kaous',
+    'Kaweh',
+    'Keschwad',
+    'Khosrou',
+    'Kustehem',
+    'Lehhak',
+    'Pehlewan',
+    'Piran',
+    'Rivniz',
+    'Roum',
+    'Siawusch',
+    'Sipehbed',
+    'Sipehdar',
+    'Touraniens',
+    'Turcs',
+    'Zengueh',
+  ]
 order: '030'
 ---
 

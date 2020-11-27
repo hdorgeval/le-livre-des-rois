@@ -3,7 +3,21 @@ date: ''
 image: 'https://source.unsplash.com/7mQaf3jipdA'
 landscape: 'https://source.unsplash.com/7mQaf3jipdA'
 source: tome II - livre des rois - P. 524
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Barman',
+    'Guirauguird',
+    'Iraniens',
+    'Nestihen',
+    'Palaschan',
+    'Pehlewan',
+    'Piran',
+    'Sipehdar',
+    'Tejaou',
+    'Thous',
+    'Wiseh',
+  ]
 order: '026'
 ---
 

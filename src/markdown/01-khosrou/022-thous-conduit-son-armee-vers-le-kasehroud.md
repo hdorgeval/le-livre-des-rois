@@ -3,7 +3,25 @@ date: ''
 image: 'https://source.unsplash.com/OwqLxCvoVxI'
 landscape: 'https://source.unsplash.com/OwqLxCvoVxI'
 source: tome II - livre des rois - P. 511
-tags: []
+tags:
+  [
+    'âme',
+    'Anbouh',
+    'Bijen',
+    'Divs',
+    'Djerem',
+    'Firoud',
+    'Guiv',
+    'Iraniens',
+    'Kasehroud',
+    'Palaschan',
+    'Pehlewan',
+    'Siawusch',
+    'Sipehdar',
+    'Thous',
+    'Touran',
+    'Touranien',
+  ]
 order: '022'
 ---
 

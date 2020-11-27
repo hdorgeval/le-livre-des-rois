@@ -3,7 +3,29 @@ date: ''
 image: 'https://source.unsplash.com/r0J9sGBWFOc'
 landscape: 'https://source.unsplash.com/GWOw3JZjjUg'
 source: tome II - livre des rois - P. 515
-tags: []
+tags:
+  [
+    'Adergouschasp',
+    'Afrasiab',
+    'Bahram',
+    'Bijen',
+    'Firoud',
+    'Guiv',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Kasehroud',
+    'Kelat',
+    'Khosrou',
+    'Piran',
+    'Rivniz',
+    'Siawusch',
+    'Siped',
+    'Sipehdar',
+    'Thous',
+    'Touran',
+    'Zerasp',
+  ]
 order: '023'
 ---
 
