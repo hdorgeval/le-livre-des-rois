@@ -37,11 +37,11 @@ Un immense cri s’éleva du Zaboulistan contre les ennemis de Rustem et le roi 
 
 Zal versa de la poussière sur ses bras, et se déchira le visage et la poitrine, s’écriant:
 
-> Hélas! ô héros au corps d’éléphant!
+> Hélas! ô héros au corps d’éléphant!
 >
 > Je voudrais que mon corps ne fût plus couvert que du linceul.
 >
-> Et toi qui portais haut la tête, ô vaillant dragon, ô Zewareh, qui fus un lion plein de gloire!
+> Et toi qui portais haut la tête, ô vaillant dragon, ô Zewareh, qui fus un lion plein de gloire!
 >
 > Scheghad, le maudit, l’infâme, a déraciné cet arbre royal.
 >
@@ -55,7 +55,7 @@ Zal versa de la poussière sur ses bras, et se déchira le visage et la poitrine
 >
 > A quoi me servent la vie et ses jouissances, à quoi bon la nourriture, le repos et le renom?
 >
-> Ô héros, ô vainqueur des lions, ô brave, ô prince, ô vaillant conquérant du monde, ô maître du pays!
+> Ô héros, ô vainqueur des lions, ô brave, ô prince, ô vaillant conquérant du monde, ô maître du pays!
 
 Il envoya à l’instant Faramourz avec une armée pour attaquer le roi, tirer des fosses les corps des morts et infliger au monde des motifs de se lamenter.
 

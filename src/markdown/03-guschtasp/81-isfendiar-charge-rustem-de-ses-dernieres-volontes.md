@@ -129,7 +129,7 @@ Ensuite il dit à Beschouten:
 >
 > > Cette fois la Mort est venue me combattre, et une cuirasse n’est que du vent en face de ses flèches qui traversent tout, fût-ce une montagne d’acier.
 > >
-> > Viens bientôt me rejoindre, ô ma tendre mère, et ne t’afflige pas pour moi, ne contriste pas ton âme, ne découvre pas ton visage devant l’assemblée;
+> > Viens bientôt me rejoindre, ô ma tendre mère, et ne t’afflige pas pour moi, ne contriste pas ton âme, ne découvre pas ton visage devant l’assemblée;
 > >
 > > N’essaye pas de voir encore une fois mes traits couverts du linceul: mon aspect ne ferait qu’augmenter ta tristesse, et aucun homme de sens ne t’approuverait.
 >
@@ -149,7 +149,7 @@ Et à l’instant son âme pure quitta son corps blessé, qui retomba sur la po
 
 Rustem, dans sa douleur, déchira ses vêtements, et s’écria, le cœur rempli d’angoisse, la tête couverte de poussière:
 
-> Hélas! ô vaillant cavalier, petit-fils d’un roi guerrier, fils d’un roi!
+> Hélas! ô vaillant cavalier, petit-fils d’un roi guerrier, fils d’un roi!
 >
 > Mon nom était glorieux dans le monde, mais Guschtasp m’a préparé une fin malheureuse.
 

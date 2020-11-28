@@ -154,7 +154,7 @@ Il dit, et se tourna vers Djamasp, s’écriant:
 >
 > C’est par tes paroles qu’un prince puissant a péri, que le jour des puissants a passé.
 >
-> Tu as enseigné au roi le chemin du mal, ô vieillard sans cervelle et sans raison! en lui disant que le sort d’Isfendiar était dans la main du glorieux Rustem.
+> Tu as enseigné au roi le chemin du mal, ô vieillard sans cervelle et sans raison! en lui disant que le sort d’Isfendiar était dans la main du glorieux Rustem.
 
 Ensuite il ouvrit sa bouche éloquente et répéta les conseils et les dernières volontés d’Isfendiar; il raconta comment il avait légué à Rustem son fils Bahman, il dévoila tous les secrets de son frère.
 

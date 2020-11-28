@@ -97,7 +97,7 @@ Djamasp savait, par des arts bons et mauvais, que la royauté était destinée a
 
 Guschtasp accueillit avec joie ce discours, et ordonna au fortuné Djamasp d’écrire une lettre à Bahman, et une autre au héros avide de combats, ainsi conçue:
 
-> Je remercie Dieu, ô Pehlewan du monde, que, grâce à toi, nous soyons heureux et que notre âme soit en repos.
+> Je remercie Dieu, ô Pehlewan du monde, que, grâce à toi, nous soyons heureux et que notre âme soit en repos.
 >
 > Mon petit-fils, qui m’est plus cher que la vie, qui est plus renommé par ses connaissances que Djamasp, a appris par l’influence de ta fortune les règles de conduite et la sagesse, et je désire que tu me le renvoies.
 

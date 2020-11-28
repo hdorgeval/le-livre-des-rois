@@ -47,7 +47,7 @@ Ayant placé la flèche sur l’arc, il adressa en secret une prière à Dieu, 
 >
 > Tu sais combien j’ai lutté pour calmer Isfendiar, tu sais combien il a été injuste, combien il est prodigue de combats et de bravoure.
 >
-> Ne regarde pas ceci comme un péché à punir, ô créateur de la lune et de Mercure!
+> Ne regarde pas ceci comme un péché à punir, ô créateur de la lune et de Mercure!
 
 Quand le héros opiniâtre vit ce délai et l’hésitation de Rustem à commencer le combat, il lui dit:
 
@@ -103,7 +103,7 @@ Les jeunes princes serrèrent Isfendiar contre leurs poitrines et essuyèrent le
 
 Beschouten poussa des hurlements sur lui, la joue couverte de sang, le cœur plein d’angoisse; il s’écria:
 
-> Hélas, ô Isfendiar, ô héros, ô maître du monde de race royale!
+> Hélas, ô Isfendiar, ô héros, ô maître du monde de race royale!
 >
 > Qui a donc ébranlé cette montagne de guerre, qui a renversé ce lion furieux, qui a arraché à l’éléphant ces belles défenses, qui a arrêté ces vagues des flots du Nil?
 >
