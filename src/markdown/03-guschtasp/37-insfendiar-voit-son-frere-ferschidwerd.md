@@ -60,7 +60,7 @@ Isfendiar dit à son frère:
 
 > Ô lion qui recherchais le combat, qui t’a fait ces blessures?
 >
-> Dis-le-moi, pour que je te venge dans le combat, ton ennemi fût-il un vaillant lion ou un léopard.
+> Dis-le-moi, pour que je te venge dans le combat, ton ennemi fût-il un vaillant lion ou un léopard.
 
 Il répondit:
 
@@ -84,7 +84,7 @@ Il dit, ses joues pâlirent, et Ferschidwerd, le lion glorieux, mourut.
 
 Isfendiar frappa de sa main sa cuirasse, il déchira tous les vêtements de soie sur son corps, s’écriant:
 
-> Ô Dieu, le saint, le sublime! sois mon guide dans le monde, pour que je puisse venger Ferschidwerd, fallût-il réduire en poussière les pierres et l’eau!
+> Ô Dieu, le saint, le sublime! sois mon guide dans le monde, pour que je puisse venger Ferschidwerd, fallût-il réduire en poussière les pierres et l’eau!
 >
 > Je verserai le sang d’Ardjasp, je calmerai les mânes de Lohrasp.
 

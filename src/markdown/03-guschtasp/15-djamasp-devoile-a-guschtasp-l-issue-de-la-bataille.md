@@ -65,7 +65,7 @@ Le roi lui adressa des questions, disant:
 
 Ces questions affligèrent le vieux Djamasp, et il répondit à Guschtasp d’un air désolé:
 
-> J’aurais désiré que Dieu, le distributeur de la justice, ne m’eût pas donné cette intelligence et cette faculté, car si je ne la possédais pas, le roi ne m’aurait pas demandé de lui prédire l’avenir.
+> J’aurais désiré que Dieu, le distributeur de la justice, ne m’eût pas donné cette intelligence et cette faculté, car si je ne la possédais pas, le roi ne m’aurait pas demandé de lui prédire l’avenir.
 >
 > Je ne le dirai pas, car si je le disais, le roi des rois me ferait mourir;
 >
@@ -89,7 +89,7 @@ Le sage répondit:
 >
 > à travers tout ce bruit des épées et les coups des lourdes massues qui tombent comme les marteaux d’acier des forgerons, le son aigu des cordes des arcs percera les cerveaux;
 >
-> le monde se remplira du souffle brûlant de la lutte et du combat, et la voûte et les cercles du ciel seront brisés;
+> le monde se remplira du souffle brûlant de la lutte et du combat, et la voûte et les cercles du ciel seront brisés;
 >
 > les courants d’eau seront souillés par le sang des hommes, et tu verras bien des fils privés de leurs pères et bien des pères privés de leurs fils.
 >

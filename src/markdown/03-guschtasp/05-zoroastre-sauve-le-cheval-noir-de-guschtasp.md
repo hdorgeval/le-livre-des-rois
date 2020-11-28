@@ -45,7 +45,7 @@ L’ Écuyer effrayé courut promptement apprendre au Roi ce qui était arrivé.
 
 Guschtasp en fut vivement touché.
 
-Il appela ses Médecins & ses Sages, qui avouèrent tous qu’ils n’avaient jamais rien vû de pareil.
+Il appela ses Médecins & ses Sages, qui avouèrent tous qu’ils n’avaient jamais rien vû de pareil.
 
 Ils eurent beau faire mille remèdes différents, tout fut inutile; & Guschtasp, pénétré de douleur, ne mangea rien de la journée, pensant continuellement à son cheval.
 

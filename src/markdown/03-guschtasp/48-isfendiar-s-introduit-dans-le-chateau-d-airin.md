@@ -102,7 +102,7 @@ Le roi lui répondit:
 >
 > Personne ne t’inquiétera dans le pays de Touran, ni en Chine, ni dans le Madjin, si tu veux les parcourir.
 
-Il assigna alors à Isfendiar un grand édifice dans le château d’airain, un magasin aux approches du palais, et ordonna de porter dans le château toutes les marchandises, pour qu’il pût faire de ce magasin un lieu de vente, et rester avec confiance dans cet asile.
+Il assigna alors à Isfendiar un grand édifice dans le château d’airain, un magasin aux approches du palais, et ordonna de porter dans le château toutes les marchandises, pour qu’il pût faire de ce magasin un lieu de vente, et rester avec confiance dans cet asile.
 
 Les compagnons d’Isfendiar chargèrent sur leurs dos les caisses et traînèrent les chameaux par la bride.
 
@@ -112,7 +112,7 @@ Un homme de sens demanda à un des porteurs:
 
 Celui-ci répondit:
 
-> C’est notre intelligence que nous avons dû mettre sur nos épaules.
+> C’est notre intelligence que nous avons dû mettre sur nos épaules.
 
 Isfendiar arrangea le magasin et le para comme une rose printanière.
 

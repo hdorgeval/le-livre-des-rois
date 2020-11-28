@@ -127,7 +127,7 @@ Ensuite il dit à Beschouten:
 >
 > Quand tu auras quitté Guschtasp, tu diras à ma mère:
 >
-> > Cette fois la Mort est venue me combattre, et une cuirasse n’est que du vent en face de ses flèches qui traversent tout, fût-ce une montagne d’acier.
+> > Cette fois la Mort est venue me combattre, et une cuirasse n’est que du vent en face de ses flèches qui traversent tout, fût-ce une montagne d’acier.
 > >
 > > Viens bientôt me rejoindre, ô ma tendre mère, et ne t’afflige pas pour moi, ne contriste pas ton âme, ne découvre pas ton visage devant l’assemblée;
 > >

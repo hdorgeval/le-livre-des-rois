@@ -151,7 +151,7 @@ Enfin il présenta plusieurs pépins de la grenade à Espendiar, qui les mangea
 
 Au bout de trois jours le Roi se réveilla & remercia Dieu, lui disant: Dieu des deux Mondes, jamais votre Empire ne finira.
 
-Il appela ensuite Zoroastre, lui rapporta ce qu'il avait vû, & ordonna à tous ses Sujets d’embrasser sa Loi.
+Il appela ensuite Zoroastre, lui rapporta ce qu'il avait vû, & ordonna à tous ses Sujets d’embrasser sa Loi.
 
 Alors Zoroastre étant assis sur un Trône élevé, le Roi lui dit:
 

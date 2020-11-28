@@ -109,7 +109,7 @@ Zoroastre lui répondit:
 >
 > Ô vous qui êtes pur, montrez-moi le chemin de la Loi.
 
-Ces paroles plûrent à Bahman. Il répondit à Zoroastre:
+Ces paroles plûrent à Bahman. Il répondit à Zoroastre:
 
 > Levez-vous, pour aller devant Dieu.
 >

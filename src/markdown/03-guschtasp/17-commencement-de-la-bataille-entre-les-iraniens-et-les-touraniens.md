@@ -51,7 +51,7 @@ Il s’avança tenant en main une épée trempée avec du poison; il poussa des 
 
 Mais, au moment où il voulait quitter le combat après avoir coloré de sang la face de la terre, une flèche perça sa cotte de mailles, et ce roi, fils de roi, succomba.
 
-Hélas! ce noble homme de guerre mourut sans que son père l’eût revu!
+Hélas! ce noble homme de guerre mourut sans que son père l’eût revu!
 
 Ensuite se présenta Schidasp, qui ressemblait au roi et brillait comme la lune; il était assis sur un destrier pareil à un crocodile, rapide comme le vent et avec la puissance d’un éléphant.
 

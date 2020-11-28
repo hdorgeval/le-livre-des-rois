@@ -77,7 +77,7 @@ Isfendiar se mit à rire quand il l’aperçut, et dit:
 >
 > Pourquoi le lion de la guerre s’est-il fait renard, pourquoi se retire-t-il ainsi de la lutte?
 >
-> C’est donc toi qui as fait pleurer le Div, qui as brûlé les bêtes fauves des flammes de ton épée ?
+> C’est donc toi qui as fait pleurer le Div, qui as brûlé les bêtes fauves des flammes de ton épée ?
 
 Zewareh vit les traces du destrier brillant de Rustem, qui, malgré ses blessures, avait traversé la rivière.
 

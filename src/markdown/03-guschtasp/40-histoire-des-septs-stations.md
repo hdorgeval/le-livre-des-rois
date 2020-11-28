@@ -26,7 +26,7 @@ En effet la terre ne sourit que quand le ciel pleure, aussi ne comparerai-je pas
 
 Que ses trésors proviennent de la terre ou de l’eau de la mer, que ce soit de l’or ou du musc, jamais il ne cache sa splendeur, ni devant le pauvre, ni devant le prince plein de fierté.
 
-La main du roi Aboulkasem, ce grand prince, est également généreuse envers les bons et envers les méchants; jamais il ne recule devant une largesse, jamais il ne se repose au jour de l’action; quand il a à combattre, il livre bataille et saisit la tête des rois, mais à quiconque baisse la tête devant lui il donne ses trésors et ne pense pas à la peine qu’ils lui ont coûté.
+La main du roi Aboulkasem, ce grand prince, est également généreuse envers les bons et envers les méchants; jamais il ne recule devant une largesse, jamais il ne se repose au jour de l’action; quand il a à combattre, il livre bataille et saisit la tête des rois, mais à quiconque baisse la tête devant lui il donne ses trésors et ne pense pas à la peine qu’ils lui ont coûté.
 
 Puisse Mahmoud rester le maître du monde, répandre ses bienfaits et rendre justice!
 

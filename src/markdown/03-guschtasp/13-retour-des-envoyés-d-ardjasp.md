@@ -63,7 +63,7 @@ Voici ce qui se trouvait dans cette lettre du roi, du soutien de l’Iran, du va
 >
 > > Ô homme vil et audacieux, dont le visage ressemble à celui des lions et des loups, tu t’es soustrait au vrai culte et à la religion sainte, et ton cœur s’est rempli de perversité et d’erreurs.
 > >
-> > La lettre méprisable que tu as adressée au roi est arrivée, et nous avons entendu des paroles qui n’auraient pas dû venir de toi, des paroles que personne n’aurait dû ni écrire, ni montrer, ni lire, ni entendre.
+> > La lettre méprisable que tu as adressée au roi est arrivée, et nous avons entendu des paroles qui n’auraient pas dû venir de toi, des paroles que personne n’aurait dû ni écrire, ni montrer, ni lire, ni entendre.
 >
 > Tu as dit que dans quelques mois tu conduiras une armée contre ce beau pays; mais il ne se passera ni beaucoup de mois ni beaucoup de jours avant que nous amenions nos lions de combat.
 >
@@ -101,7 +101,7 @@ Il y avait un Turc du nom de Gurgsar, un homme déjà vieux: on, aurait dit qu�
 
 ensuite il remit à son frère Bidirefsch un drapeau avec une figure de loup.
 
-Un autre Turc, appelé Khaschasch le vaillant, qu’un lion n’eût pas osé attaquer, fut nommé chef des éclaireurs et de l’avant-garde; il reçut d’Ardjasp un drapeau; c’était lui qui devait parler au nom du roi.
+Un autre Turc, appelé Khaschasch le vaillant, qu’un lion n’eût pas osé attaquer, fut nommé chef des éclaireurs et de l’avant-garde; il reçut d’Ardjasp un drapeau; c’était lui qui devait parler au nom du roi.
 
 Ensuite le chef des Turcs envoya à un des siens, nommé Houschdiv, un message et lui fit dire:
 

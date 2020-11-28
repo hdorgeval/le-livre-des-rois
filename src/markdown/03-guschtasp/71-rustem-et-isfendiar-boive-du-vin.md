@@ -166,7 +166,7 @@ Le fier Isfendiar écouta, et lui répondit:
 >
 > Tu veux que tous ceux qui t’entendent croient à tes paroles doucereuses, qu’ils me traitent, moi, l’homme de bien, comme un homme aux intentions impures, et toi comme un sage plein de vertu; qu’ils disent que tu es arrivé portant de bonnes nouvelles et de bonnes paroles, et me faisant tout espérer, mais que j’ai refusé d’écouter ce que tu disais, après avoir été si bien traité par toi; que j’ai rejeté avec dédain tes prières, et que ma langue n’a prononcé que des paroles amères.
 >
-> Sache que je ne désobéirai jamais au roi, fût-ce pour un trône et une couronne;
+> Sache que je ne désobéirai jamais au roi, fût-ce pour un trône et une couronne;
 >
 > Que c’est de lui que dépendent dans le monde mon bonheur et mon malheur, qu’en lui sont mon enfer et mon paradis.
 >

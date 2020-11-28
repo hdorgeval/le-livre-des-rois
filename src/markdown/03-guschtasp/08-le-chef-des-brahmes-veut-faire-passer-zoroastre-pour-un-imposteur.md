@@ -121,7 +121,7 @@ Djamasp lui répondit:
 >
 > Mais je soutiens aussi, ô grand Roi, qu'il n'y a personne au Monde dont la science égale celle de Tchengréghatchah.
 >
-> J'ai lû ses Livres;
+> J'ai lû ses Livres;
 >
 > j'ai quitté l‘Iran pour le retrouver dans l'Indoustan: il m'a formé à toutes les Sciences.
 >
