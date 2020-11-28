@@ -49,7 +49,7 @@ Firoud répondit à son sage compagnon:
 >
 > Mais faut-il que mon trait abatte l’homme ou le cheval?
 >
-> Dis-le moi, ô conseiller plein d’expérience!
+> Dis-le moi, ô conseiller plein d’expérience!
 
 Tokhareh répondit:
 

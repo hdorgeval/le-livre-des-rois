@@ -63,7 +63,7 @@ Guiv lui dit:
 >
 > Mais si tu veux faire ta soumission pour toi et ton armée, si tu veux te rendre dans l’Iran devant le roi, si tu veux dans ce moment m’accompagner auprès du Sipehbed Thous, lui parler et obéir à ses ordres, je te ferai donner par lui des robes d’honneur et des trésors, des esclaves et des chevaux caparaçonnés.
 >
-> Je crois, ô homme illustre, que c’est là la voie droite;
+> Je crois, ô homme illustre, que c’est là la voie droite;
 >
 > Qu’en dis-tu?
 >
@@ -87,7 +87,7 @@ Le rusé Tejaou répondit:
 
 Là-dessus Bijen dit à son noble père:
 
-> Ô illustre héros, toujours prêt pour le combat! ô prudent Pehlewan qui portes haut la tête! tu n’es plus dans ta vieillesse ce que tu étais dans ta jeunesse;
+> Ô illustre héros, toujours prêt pour le combat! ô prudent Pehlewan qui portes haut la tête! tu n’es plus dans ta vieillesse ce que tu étais dans ta jeunesse;
 >
 > Pourquoi donner tous ces conseils à Tejaou?
 >

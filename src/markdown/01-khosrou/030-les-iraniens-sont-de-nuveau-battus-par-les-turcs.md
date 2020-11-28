@@ -181,7 +181,7 @@ C’était un prince qui portait une couronne, le fils puîné du roi; c’éta
 
 Sa tête et sa couronne roulèrent dans la poussière, et plusieurs d’entre les grands déchirèrent leurs vêtements; mais Guiv s’écria à haute voix :
 
-> Ô illustres héros, ô vaillants guerriers! personne dans notre camp n’était aussi honoré que lui de Feribourz fils de Kaous;
+> Ô illustres héros, ô vaillants guerriers! personne dans notre camp n’était aussi honoré que lui de Feribourz fils de Kaous;
 >
 > Et le vieux Kaous a maintenant perdu dans ce lieu de malheur un petit-fils et un fils, Firoud fils de Siawusch et Rivniz;
 >

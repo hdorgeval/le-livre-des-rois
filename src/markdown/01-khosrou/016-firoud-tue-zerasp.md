@@ -32,7 +32,7 @@ Le jeune Firoud le vit de loin, jeta un regard rapide sur Tokhareh, et lui dit:
 
 > Voici un nouveau combattant.
 >
-> Regarde-le, ô toi qui as de l’expérience, et dis-moi quel est ce cavalier iranien.
+> Regarde-le, ô toi qui as de l’expérience, et dis-moi quel est ce cavalier iranien.
 
 Tokhareh lui répondit:
 

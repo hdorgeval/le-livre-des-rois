@@ -76,7 +76,7 @@ Tous les échos du mont Siped retentirent d’éclats de rire, et cette moquerie
 
 Tous les braves vinrent à sa rencontre, disant:
 
-> Gloire à Dieu! ton cheval seul est blessé, ô noble héros, et tu ne l’es pas;
+> Gloire à Dieu! ton cheval seul est blessé, ô noble héros, et tu ne l’es pas;
 >
 > Tu n’as pas succombé, grâce au dispensateur de la justice.
 
