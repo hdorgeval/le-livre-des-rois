@@ -64,7 +64,7 @@ Tokhareh l’expérimenté répondit:
 >
 > Tourne donc bride, ne lance plus de flèches, rentre au château et ne livre pas un combat insensé!
 
-Mais il n’ajouta pas à ces paroles ce qu’il aurait dû y ajouter, et lui cacha une partie de la vérité; de sorte que la folie de ce vil Destour poussa Firoud au combat et lui fit perdre la vie.
+Mais il n’ajouta pas à ces paroles ce qu’il aurait dû y ajouter, et lui cacha une partie de la vérité; de sorte que la folie de ce vil Destour poussa Firoud au combat et lui fit perdre la vie.
 
 Car sa résidence était un château dans lequel demeuraient quatre-vingts esclaves, et ces belles au visage de lune se tenaient sur le rempart, regardant ce qui se passait et causant.
 

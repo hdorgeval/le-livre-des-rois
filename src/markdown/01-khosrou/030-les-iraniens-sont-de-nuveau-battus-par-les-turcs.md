@@ -41,7 +41,7 @@ order: '030'
 
 # Les Iraniens sont de nouveau battus par les Turcs
 
-Quand le mois fut fini et le temps des combats revenu sans qu’on eût violé le traité et la foi donnée, les deux armées firent entendre le bruit des armes et se portèrent sur le champ de bataille.
+Quand le mois fut fini et le temps des combats revenu sans qu’on eût violé le traité et la foi donnée, les deux armées firent entendre le bruit des armes et se portèrent sur le champ de bataille.
 
 Le ciel était ébranlé par le bruit des timbales, des clairons et des clochettes;
 
@@ -107,7 +107,7 @@ Guiv lui dit:
 >
 > Ni les héros, ni les grands pleins d’expérience ne vivront toujours.
 >
-> Toi et moi nous sommes sûrs de mourir; car de tous les maux, la mort est le plus certain.
+> Toi et moi nous sommes sûrs de mourir; car de tous les maux, la mort est le plus certain.
 >
 > Or puisque le sort est contre nous, il vaut mieux que tes ennemis voient ton front que ton dos.
 >

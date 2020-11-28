@@ -100,7 +100,7 @@ Guiv fut courroucé de ce que son fils riait de lui, et le frappa sur la tête a
 >
 > Mais tu n’as ni cervelle, ni sens, ni intelligence, et malheur à celui qui élève un enfant comme toi!
 
-Ces paroles de colère remplirent d’amertume le cœur de Bijen, et il jura par Dieu le maître du monde qu’il n’ôterait plus la selle de son cheval jusqu’à ce qu’il eût vengé la mort de Zerasp, dût-il périr lui-même.
+Ces paroles de colère remplirent d’amertume le cœur de Bijen, et il jura par Dieu le maître du monde qu’il n’ôterait plus la selle de son cheval jusqu’à ce qu’il eût vengé la mort de Zerasp, dût-il périr lui-même.
 
 Il se rendit chez Kustehem, le cœur plein de douleur, la tête remplie du désir de la vengeance, et lui dit:
 

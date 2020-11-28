@@ -40,7 +40,7 @@ Rustem dit au roi de la terre:
 >
 > Ses habitants sont malheureux sans l’avoir mérité, car on ne cesse de les piller, de les tuer et de les envahir, de sorte qu’ils sont prêts à se révolter contre l’autorité du roi du Touran;
 >
-> Or le royaume d’Iran est à toi, tout t’appartient, depuis le pied de la fourmi jusqu’à la griffe du lion, et il te faudrait envoyer dans ce pays une puissante armée sous un vaillant Pehlewan, pour que les habitants payent au roi le tribut qui lui est dû, ou qu’ils apportent leurs têtes devant son trône.
+> Or le royaume d’Iran est à toi, tout t’appartient, depuis le pied de la fourmi jusqu’à la griffe du lion, et il te faudrait envoyer dans ce pays une puissante armée sous un vaillant Pehlewan, pour que les habitants payent au roi le tribut qui lui est dû, ou qu’ils apportent leurs têtes devant son trône.
 >
 > Quand cette province nous sera soumise, nous désolerons le pays de Touran.
 
