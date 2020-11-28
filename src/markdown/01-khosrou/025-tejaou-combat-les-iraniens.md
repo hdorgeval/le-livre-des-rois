@@ -59,7 +59,7 @@ Guiv lui dit:
 >
 > Si tu es le gardien de cette frontière et le gendre du roi, pourquoi n’as-tu pas des troupes plus nombreuses?
 >
-> Ne fais pas la guerre avec une pareille armée, ne marche pas en furieux contre les braves, car je suis un héros illustre, je mettrai sous mes pieds la tète des gardiens des frontières.
+> Ne fais pas la guerre avec une pareille armée, ne marche pas en furieux contre les braves, car je suis un héros illustre, je mettrai sous mes pieds la tète des gardiens des frontières.
 >
 > Mais si tu veux faire ta soumission pour toi et ton armée, si tu veux te rendre dans l’Iran devant le roi, si tu veux dans ce moment m’accompagner auprès du Sipehbed Thous, lui parler et obéir à ses ordres, je te ferai donner par lui des robes d’honneur et des trésors, des esclaves et des chevaux caparaçonnés.
 >
@@ -85,7 +85,7 @@ Le rusé Tejaou répondit:
 >
 > Je traiterai aujourd’hui votre armée de manière à vous faire repentir d’être venus ici.
 
-Là-dessus Bijen dit à son noble père:
+Là-dessus Bijen dit à son noble père:
 
 > Ô illustre héros, toujours prêt pour le combat! ô prudent Pehlewan qui portes haut la tête! tu n’es plus dans ta vieillesse ce que tu étais dans ta jeunesse;
 >
@@ -95,7 +95,7 @@ Là-dessus Bijen dit à son noble père:
 >
 > Il faut saisir la massue et l’épée, il faut leur arracher le cœur et la cervelle.
 
-Bijen lança son cheval, l’air retentit de cris, on leva les massues et les épées, on fit monter jusqu’au ciel une poussière noire qui cachait le soleil; le monde devint sombre comme un nuage de printemps, et l’éclat des astres et de la lune disparut.
+Bijen lança son cheval, l’air retentit de cris, on leva les massues et les épées, on fit monter jusqu’au ciel une poussière noire qui cachait le soleil; le monde devint sombre comme un nuage de printemps, et l’éclat des astres et de la lune disparut.
 
 Au milieu de la ligne se trouvait Guiv qui obscurcissait la lumière du ciel.
 
@@ -115,7 +115,7 @@ Lorsque Bijen vit que son ennemi voulait se soustraire au combat, il jeta sa lan
 
 Tejaou, suivi par Bijen qui ressemblait à Adergouschasp, poussa son cheval vers la porte de son château;
 
-Mais lorsqu’il en fut tout près, Ispenoui se présenta devant lui, le visage inondé de larmes et s’écriant:
+Mais lorsqu’il en fut tout près, Ispenoui se présenta devant lui, le visage inondé de larmes et s’écriant:
 
 > Ô Tejaou! où est ton armée? où est la force et ton courage?
 >
@@ -123,7 +123,7 @@ Mais lorsqu’il en fut tout près, Ispenoui se présenta devant lui, le visage
 >
 > Pourquoi m’as-tu abandonnée honteusement dans ce château?
 >
-> Permets-moi de monter derrière toi, et ne me laisse pas sur la route, livrée aux ennemis.
+> Permets-moi de monter derrière toi, et ne me laisse pas sur la route, livrée aux ennemis.
 
 L’orgueilleux Tejaou fut saisi de honte, ses joues brûlèrent comme le feu. Il s’approcha d’elle, la fit monter devant lui sur son cheval, et lui en mit les rênes dans la main.
 
@@ -133,7 +133,7 @@ Pendant quelque temps le cheval de Tejaou soutint la course, mais à la fin l�
 
 Tejaou dit alors à son esclave:
 
-> Ô ma belle compagne! le danger est devenu pressant, mon destrier est épuisé, derrière nous est l’ennemi, devant nous un ravin;
+> Ô ma belle compagne! le danger est devenu pressant, mon destrier est épuisé, derrière nous est l’ennemi, devant nous un ravin;
 >
 > Et quand même je pourrais toujours tenir Bijen à distance, je finirais par tomber entre les mains de l’ennemi.
 >
@@ -145,11 +145,11 @@ Ispenoui mit pied à terre, et la douleur qu’il éprouvait de la perdre fit 
 
 Le cheval se sentant allégé, prit un nouvel élan, et Bijen poursuivit le fugitif avec une nouvelle ardeur.
 
-Mais lorsqu’il aperçut Ispenoui au visage de lune, dont la chevelure noire lui descendait jusqu’aux pieds, il mit pied à terre auprès d’elle, et s’empara avec douceur de sa personne.
+Mais lorsqu’il aperçut Ispenoui au visage de lune, dont la chevelure noire lui descendait jusqu’aux pieds, il mit pied à terre auprès d’elle, et s’empara avec douceur de sa personne.
 
-Il la plaça derrière lui et s’en retourna au camp du Pehlewan;
+Il la plaça derrière lui et s’en retourna au camp du Pehlewan;
 
-Il arriva joyeusement sous la porte de la tente de Thous, et y fut reçu au son des timbales, comme un prudent et vaillant cavalier qui revenait fièrement de la bataille chargé de butin.
+Il arriva joyeusement sous la porte de la tente de Thous, et y fut reçu au son des timbales, comme un prudent et vaillant cavalier qui revenait fièrement de la bataille chargé de butin.
 
 Le Sipehdar et les vaillants héros s’occupèrent d’abord à saccager le château de Tejaou;
 

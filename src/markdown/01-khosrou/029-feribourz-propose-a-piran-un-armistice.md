@@ -15,7 +15,7 @@ Il ordonna à Rehham de se charger d’une mission qui ferait briller son nom e
 
 Il lui dit:
 
-> Va voir Piran, porte-lui un message amical, dis-lui que le ciel qui tourne a toujours traité les hommes tantôt avec rigueur, tantôt avec tendresse; qu’il élève l’un jusqu’au sublime firmament, et qu’il accable l’autre de malheurs, d’humiliations et de pertes.
+> Va voir Piran, porte-lui un message amical, dis-lui que le ciel qui tourne a toujours traité les hommes tantôt avec rigueur, tantôt avec tendresse; qu’il élève l’un jusqu’au sublime firmament, et qu’il accable l’autre de malheurs, d’humiliations et de pertes.
 >
 > Il faut se plaire au mal pour livrer des combats nocturnes;
 >
@@ -39,7 +39,7 @@ Il répondit:
 >
 > Donne-moi les moyens d’arriver au camp de Piran, pour remplir une mission de Feribourz fils de Kaous.
 
-Un cavalier se détacha de la ronde, courut au camp rapidement comme une nuée de poussière, et annonça que Rehham fils de Gouderz arrivait au camp ennemi pour voir le Pehlewan de l’armée.
+Un cavalier se détacha de la ronde, courut au camp rapidement comme une nuée de poussière, et annonça que Rehham fils de Gouderz arrivait au camp ennemi pour voir le Pehlewan de l’armée.
 
 Piran ordonna qu’on le lui amenât en le traitant amicalement et avec douceur.
 

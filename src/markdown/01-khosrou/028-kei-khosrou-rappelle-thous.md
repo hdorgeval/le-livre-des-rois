@@ -100,7 +100,7 @@ Feribourz appela auprès de lui Thous et les héros, et leur parla longuement de
 
 Lorsqu’il eut lu la lettre du roi à Guiv et à Gouderz, aux cavaliers et aux braves de cette frontière, un arbre nouveau commença à porter du fruit dans le monde.
 
-Les grands et les lions de l’Iran célébrèrent les louanges du roi;
+Les grands et les lions de l’Iran célébrèrent les louanges du roi;
 
 Thous fit apporter le noble drapeau, les timbales et les bottines d’or, et amener les éléphants; il remit tout à Feribourz et lui dit:
 

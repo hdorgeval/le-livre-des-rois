@@ -48,7 +48,7 @@ Il se mit en colère contre lui-même comme un léopard; il était honteux de so
 
 Il s’avança, monta à cheval et s’élança rapidement comme le vent; il vit le ciel obscurci par la nuit et la poussière; à la fin il arriva aux tentes de Thous, et lui dit:
 
-> Lève-toi! une armée est tombée sur nous, et nos braves sont endormis.
+> Lève-toi! une armée est tombée sur nous, et nos braves sont endormis.
 
 De là il courut chez son père, une massue à tête de bœuf à la main, il traversa le camp avec la rapidité de la fumée, stimula ceux qui n’étaient pas ivres, et gronda Bijen, en lui disant:
 

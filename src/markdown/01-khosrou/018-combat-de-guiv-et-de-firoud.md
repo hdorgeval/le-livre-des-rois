@@ -98,7 +98,7 @@ Guiv fut courroucé de ce que son fils riait de lui, et le frappa sur la tête 
 
 > N’as-tu pas appris de ton maître que tout en se battant il faut réfléchir?
 >
-> Mais tu n’as ni cervelle, ni sens, ni intelligence, et malheur à celui qui élève un enfant comme toi!
+> Mais tu n’as ni cervelle, ni sens, ni intelligence, et malheur à celui qui élève un enfant comme toi!
 
 Ces paroles de colère remplirent d’amertume le cœur de Bijen, et il jura par Dieu le maître du monde qu’il n’ôterait plus la selle de son cheval jusqu’à ce qu’il eût vengé la mort de Zerasp, dût-il périr lui-même.
 
