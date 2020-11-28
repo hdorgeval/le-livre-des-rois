@@ -39,7 +39,7 @@ Quand le dragon vit sa haute stature, il essaya de l’attirer vers lui avec sa 
 
 Le dragon s’approcha plus près, alors le héros rassembla toutes ses forces et lui enfonça le khandjar dans la gueule, en invoquant le nom de Dieu, le distributeur de la justice et de tout bien.
 
-Le dragon serra ses dents aiguës sur le khandjar, mais l’arme entra tout entière dan son palais; il versa du venin jusqu’à ce qu’il fût épuisé, la montagne fut inondée de ce venin et de son sang.
+Le dragon serra ses dents aiguës sur le khandjar, mais l’arme entra tout entière dan son palais; il versa du venin jusqu’à ce qu’il fût épuisé, la montagne fut inondée de ce venin et de son sang.
 
 Alors Guschtasp, le lion, saisit son épée et en frappa un coup sur la tête du vaillant dragon, dont la cervelle jaillit sur tout ce grand rocher.
 
@@ -96,7 +96,7 @@ Quiconque voyait la blessure faite par le coup d’épée et entendait le bruit 
 
 > C’est un coup donné par Ahriman, quoique l’épée qui a frappé soit celle d’Ahren.
 
-Cependant le Kaisar sortit de son palais, rassembla les grands et les sages et célébra par un festin la mort du dragon, depuis l’aube du jour jusqu’à ce que le monde fût couvert de ténèbres.
+Cependant le Kaisar sortit de son palais, rassembla les grands et les sages et célébra par un festin la mort du dragon, depuis l’aube du jour jusqu’à ce que le monde fût couvert de ténèbres.
 
 Aussitôt que le soleil sur son trône eut posé la couronne sur sa tête et que les feuilles des platanes furent dorées par ses rayons, le Kaisar fit chercher le Destour, demanda des nouvelles de sa santé et le fit asseoir sur le trône d’or; tous les patriciens et tous les docteurs de la ville qui avaient un nom honoré se réunirent devant l’évêque avec le
 Kaisar et ses conseillers, et l’on donna à Ahren la fille du Kaisar, du consentement de sa mère pleine de tendresse.

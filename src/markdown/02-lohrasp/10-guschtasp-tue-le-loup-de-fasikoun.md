@@ -64,7 +64,7 @@ Guschtasp se prosterna devant le Maître des bêtes féroces, le maître de tout
 >
 > Tout accomplissement de nos vœux et toute victoire ne dépendent que de ta volonté, toute majesté et toute science ne portent que ton nom.
 
-Il se releva après cette prière, arracha au loup ses deux longues défenses et sortit à pied de la forêt; il marcha jusqu’à ce qu’il eût atteint la mer.
+Il se releva après cette prière, arracha au loup ses deux longues défenses et sortit à pied de la forêt; il marcha jusqu’à ce qu’il eût atteint la mer.
 
 Là étaient assis au bord de l’eau Heischoui et Mirin, pleins de soucis, ne parlant que de ce qui s’était passé; leurs discours roulaient sur Guschtasp et le loup, et ils dirent :
 
@@ -102,7 +102,7 @@ Il lui répondit:
 >
 > Sache, mon âme, qu’il est venu une compagnie d’hommes riches de mon pays, et quelques-uns de mes parents m’ont fait présent de cette cotte de mailles, de cette épée et de ce casque en prenant congé de moi.
 
-Kitaboun apporta du vin parfumé comme de l’eau de roses, et en but avec son mari jusqu’à ce qu’il fût temps de dormir.
+Kitaboun apporta du vin parfumé comme de l’eau de roses, et en but avec son mari jusqu’à ce qu’il fût temps de dormir.
 
 Ces deux jeunes gens, qui observaient les astres, se couchèrent heureux, mais Guschtasp bondit à tout moment dans son sommeil; car il rêvait de son combat avec ce loup qui ressemblait à un vaillant et furieux dragon.
 
@@ -130,7 +130,7 @@ Kitaboun lui répondit:
 
 Ils se mirent alors à pleurer. dans leur lit, sur l’avenir et à se consumer du feu intérieur de leur douleur.
 
-Mais lorsque le soleil dans sa rotation commença à briller dans la voûte du ciel, les jeunes époux, pleins de prévoyance et le cœur rempli d’espoir, se levèrent de leur lit moelleux et firent des préparatifs pour leur départ, disant:
+Mais lorsque le soleil dans sa rotation commença à briller dans la voûte du ciel, les jeunes époux, pleins de prévoyance et le cœur rempli d’espoir, se levèrent de leur lit moelleux et firent des préparatifs pour leur départ, disant:
 
 > De quelle manière le ciel va-t-il tourner au-dessus de nous, est-ce avec colère ou avec faveur?
 

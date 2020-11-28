@@ -34,7 +34,7 @@ Le Kaisar répondit:
 >
 > Kitaboun et cet homme de rien qu’elle a choisi m’ont détourné de cette voie.
 >
-> Maintenant quiconque veut s’allier à ma famille, et fût-ce un homme d’un rang plus élevé que le mien, devra faire une grande action, pour que les puissants reconnaissent son pouvoir, qu’il devienne illustre dans le monde et qu’il me serve de soutien.
+> Maintenant quiconque veut s’allier à ma famille, et fût-ce un homme d’un rang plus élevé que le mien, devra faire une grande action, pour que les puissants reconnaissent son pouvoir, qu’il devienne illustre dans le monde et qu’il me serve de soutien.
 >
 > Que Mirin aille à l’entrée de la forêt de Fasikoun, et qu’il trempe son cœur, sa main et son cerveau dans du sang.
 >
@@ -54,7 +54,7 @@ Mirin se dit:
 
 Cet homme, qui était le favori de tous, rentra dans son palais et fit des réflexions de toute espèce; il apporta des livres, les plaça devant lui avec un tableau des constellations et son horoscope, et vit que dans un certain temps il devait venir un homme illustre de l’Iran qui ferait trois grandes actions dépassant tous les hauts faits des grands de Roum.
 
-D’abord il deviendrait le gendre du Kaisar et brillerait comme le diadème sur le front impérial; ensuite il paraîtrait dans le Roum deux bêtes sauvages qui feraient du mal à tout le monde, et toutes les deux seraient tuées par cet homme, à qui aucun ennemi, si puissant qu’il fût, ne ferait peur.
+D’abord il deviendrait le gendre du Kaisar et brillerait comme le diadème sur le front impérial; ensuite il paraîtrait dans le Roum deux bêtes sauvages qui feraient du mal à tout le monde, et toutes les deux seraient tuées par cet homme, à qui aucun ennemi, si puissant qu’il fût, ne ferait peur.
 
 Quand il apprit l’histoire de Kitaboun, qui avait uni son sort à celui du vaillant Guschtasp, et l’amitié qui liait celui-ci avec Heischoui et le chef illustre du bourg, il accourut auprès de Heischoui , lui raconta tout ce qui s’était passé, et lui expliqua la constellation qui, selon les savants de Roum, annonçait les merveilles qui se passeraient dans ce pays.
 

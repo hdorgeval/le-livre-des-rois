@@ -96,7 +96,7 @@ Ensuite il lui dit:
 >
 > Contente-toi, cette nuit, de cette maison; établis-toi ici, et réjouis-toi de l’aspect de la mer, car le héros illustre viendra demain et je lui dirai tout ce que tu voudras que je lui dise.
 
-Ils placèrent des flambeaux-sur le bord de la mer et se mirent à manger et à boire du vin jusqu’à ce que les lueurs du matin se répandissent du soleil sur la surface verte de la terre et la voûte bleue du ciel.
+Ils placèrent des flambeaux-sur le bord de la mer et se mirent à manger et à boire du vin jusqu’à ce que les lueurs du matin se répandissent du soleil sur la surface verte de la terre et la voûte bleue du ciel.
 
 Dans ce moment un vaillant cavalier parut sur la plaine; l’illustre Ahren l’aperçut du bord de la mer et dit à Heischoui:
 

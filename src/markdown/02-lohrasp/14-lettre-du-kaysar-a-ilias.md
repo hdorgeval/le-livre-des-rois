@@ -39,7 +39,7 @@ Ilias lut la lettre, trempa son roseau dans du poison et répondit:
 
 > Autrefois il n’y avait pas tant de valeur dans le Roum; si je ne vous demande pas de tribut, vous devriez être contents dans votre pays.
 >
-> Vous devez tout ce courage à un seul cavalier, à cet homme qui a trouvé un refuge auprès de vous; mais sache que ceci est un piège d’Ahriman et que Farrukhzad n’est qu’un seul homme, fût-il semblable à une montagne de fer.
+> Vous devez tout ce courage à un seul cavalier, à cet homme qui a trouvé un refuge auprès de vous; mais sache que ceci est un piège d’Ahriman et que Farrukhzad n’est qu’un seul homme, fût-il semblable à une montagne de fer.
 >
 > Ne le fatigue pas avec une pareille guerre, car je ne laisserai pas traîner en longueur cette affaire.
 

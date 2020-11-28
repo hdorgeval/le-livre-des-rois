@@ -28,11 +28,11 @@ Guschtasp lui répondit :
 >
 > Lorsque ton père, le chef de ce peuple, chasse de la ville son gendre, comment veux-tu qu’il agisse comme il convient à un homme, quand il me voit? Néanmoins, si tu le désires, je suivrai ton avis, ô mon guide!
 
-Il demanda alors qu’on plaçât la selle sur un cheval qui enroulait la terre sous ses pieds; il partit et arriva au cirque du Kaisar, s’avança jusqu’à ce qu’il pût voir les coups de raquette, demanda aux joueurs une balle et une raquette et lança la balle droit parmi les cavaliers, tout en poussant son cheval.
+Il demanda alors qu’on plaçât la selle sur un cheval qui enroulait la terre sous ses pieds; il partit et arriva au cirque du Kaisar, s’avança jusqu’à ce qu’il pût voir les coups de raquette, demanda aux joueurs une balle et une raquette et lança la balle droit parmi les cavaliers, tout en poussant son cheval.
 
 Les mains et les pieds des héros s’arrêtèrent, personne ne revit dans le cirque la balle que Guschtasp avait lancée: elle avait disparu sous le coup de sa raquette.
 
-Où donc un cavalier aurait-il pu la trouver, si vite qu’il eût couru?
+Où donc un cavalier aurait-il pu la trouver, si vite qu’il eût couru?
 
 Les cavaliers pâlirent, toute la place était en confusion et pleine du bruit des voix.
 
