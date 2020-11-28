@@ -27,7 +27,7 @@ order: '022'
 
 # Thous conduit son armée vers le Kasehroud
 
-Lorsque Thous eut enterré Firoud, il quitta le château et s’arrêta pendant trois jours à Djerem;
+Lorsque Thous eut enterré Firoud, il quitta le château et s’arrêta pendant trois jours à Djerem;
 
 Le quatrième jour on entendit le son des clairons d’airain, le Sipehdar mit l’armée en marche, les trompettes et les timbales résonnèrent, et une poussière noire s’éleva sur la plaine, d’une montagne à l’autre.
 
@@ -37,7 +37,7 @@ Il dévasta toute la frontière et marcha ainsi jusqu’aux bords du Kasehroud, 
 
 On apprit dans le Touran qu’une armée d’Iraniens était arrivée aux bords du Kasehroud, et Palaschan, un jeune Pehlewan turc, plein de bravoure et de prudence, se mit en route pour observer cette armée et pour compter les drapeaux et les tentes des chefs.
 
-Or il y avait au milieu du camp une haute colline, sur un côté de laquelle Anbouh était situé, et Guiv et Bijen étaient assis au sommet, causant de toute chose, lorsqu’ils aperçurent sur la route du Touran le drapeau de Palaschan.
+Or il y avait au milieu du camp une haute colline, sur un côté de laquelle Anbouh était situé, et Guiv et Bijen étaient assis au sommet, causant de toute chose, lorsqu’ils aperçurent sur la route du Touran le drapeau de Palaschan.
 
 Le vaillant Guiv, aussitôt qu’il le vit de loin, tira son épée en disant:
 
@@ -65,7 +65,7 @@ Guiv lui remit la cette de mailles qu’il demandait, et Bijen en ferma soigneus
 
 Il monta un cheval ardent et s’avança dans la plaine, une lance en main.
 
-Palaschan avait tué une antilope et en faisait rôtir des morceaux devant le feu;
+Palaschan avait tué une antilope et en faisait rôtir des morceaux devant le feu;
 
 Il tenait son lacet suspendu à son bras pendant qu’il était assis pour manger.
 

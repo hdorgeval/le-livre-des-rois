@@ -40,7 +40,7 @@ L’éloquent Tokhareh répondit au prince:
 >
 > Guiv n’a pas d’autre enfant, et il lui est plus cher que sa chère vie.
 >
-> Frappe son cheval, parce qu’il ne faut pas désoler le cœur du roi de l’Iran, ensuite parce que Bijen porte ce haubert que Guiv a agrafé au collier du casque de Siawusch, et contre lequel tes flèches et tes javelots ne peuvent rien.
+> Frappe son cheval, parce qu’il ne faut pas désoler le cœur du roi de l’Iran, ensuite parce que Bijen porte ce haubert que Guiv a agrafé au collier du casque de Siawusch, et contre lequel tes flèches et tes javelots ne peuvent rien.
 >
 > Il est possible qu’il continue la lutte à pied, et alors tu ne pourras lui résister.
 >
@@ -58,7 +58,7 @@ Quand Firoud vit que Bijen ne s’enfuyait pas, il se mit en colère contre lui 
 
 Le héros se couvrit la tête de son bouclier que la flèche perça, mais sans toucher la cotte de mailles, et Bijen continua rapidement sa course pénible;
 
-A la fin il atteignit le sommet escarpé de la montagne et tira sur-le-champ son épée.
+A la fin il atteignit le sommet escarpé de la montagne et tira sur-le-champ son épée.
 
 Le noble Firoud s’enfuit devant lui, et un cri de détresse partit de tous les remparts du château.
 
@@ -68,13 +68,13 @@ Firoud se jeta dans la porte du château, que ses braves s’empressèrent de re
 
 Car il savait que ce n’était pas le moment d’hésiter. Bijen s’écria:
 
-> Ô illustre, héros, tu t’enfuis ainsi devant un homme à pied, toi brave et monté, et tu n’en es pas honteux?
+> Ô illustre, héros, tu t’enfuis ainsi devant un homme à pied, toi brave et monté, et tu n’en es pas honteux?
 >
 > Hélas! que sont devenus le courage et la gloire du vaillant Firoud?
 
 Il s’en retourna du champ de bataille auprès de Thous, et dit au Pehlewan de l’armée:
 
-> Pour combattre ce seul brave il faudrait un lion renommé du désert, et le Sipehbed ne devrait pas s’étonner si les flèches de Firoud réduisaient en eau le rocher le plus dur et s’il ouvrait une mine sous la mer, car on ne peut s’imaginer une valeur plus grande que celle de Firoud.
+> Pour combattre ce seul brave il faudrait un lion renommé du désert, et le Sipehbed ne devrait pas s’étonner si les flèches de Firoud réduisaient en eau le rocher le plus dur et s’il ouvrait une mine sous la mer, car on ne peut s’imaginer une valeur plus grande que celle de Firoud.
 
 Le Sipehbed jura par Dieu le Seigneur, disant:
 

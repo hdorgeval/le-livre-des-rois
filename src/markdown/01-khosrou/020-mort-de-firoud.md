@@ -34,11 +34,11 @@ Djerireh dormait en pensant à son fils; elle n’avait pour compagnie que la n
 
 Elle vit en rêve une grande flamme qui s’élançait du château au-devant de son fils chéri, et qui consumait tout le mont Siped, le château et les esclaves de Firoud.
 
-Son cœur en fut affligé, et elle se réveilla, l’esprit troublé et rempli d’inquiétude pour son fils ; elle monta sur le rempart, regarda autour d’elle et vit toute la montagne couverte de cuirasses et de lances.
+Son cœur en fut affligé, et elle se réveilla, l’esprit troublé et rempli d’inquiétude pour son fils ; elle monta sur le rempart, regarda autour d’elle et vit toute la montagne couverte de cuirasses et de lances.
 
 Sa joue fut inondée de larmes de sang, son esprit fut confondu, et elle courut auprès de Firoud et lui dit:
 
-> Réveille-toi, mon fils!
+> Réveille-toi, mon fils!
 >
 > Les astres nous envoient du malheur, toute la montagne est couverte d’ennemis, et la porte du château est entourée de lances et de cuirasses.
 
@@ -66,7 +66,7 @@ Il n’y avait pas de surface plane pour s’y battre, et la montagne et les pie
 
 On poussa des cris de part et d’autre, chacun combattit de toutes ses forces;
 
-Thous était à la tête des siens, armé de toutes pièces, et tenant dans sa main une épée tranchante et un bouclier; autour de lui se pressaient à pied les chefs de son armée, les yeux tournés vers les remparts du château.
+Thous était à la tête des siens, armé de toutes pièces, et tenant dans sa main une épée tranchante et un bouclier; autour de lui se pressaient à pied les chefs de son armée, les yeux tournés vers les remparts du château.
 
 C’est ainsi que la troupe de Firoud combattit en perdant beaucoup de monde, jusqu’à ce que le soleil eût atteint le faîte du ciel.
 
@@ -74,7 +74,7 @@ Les Turcs furent tués sur les hauteurs et dans les ravins, et l’étoile du je
 
 Mais il étonnait les Iraniens, qui n’avaient jamais vu un lion aussi terrible.
 
-Étant pressé ainsi par ses adversaires, il vit que la fortune ne lui était pas favorable.
+Étant pressé ainsi par ses adversaires, il vit que la fortune ne lui était pas favorable.
 
 Il ne restait plus auprès de lui aucun de ses cavaliers turcs, et un seul homme ne peut pas porter tout le poids d’une bataille;
 
@@ -88,11 +88,11 @@ Le vaillant Firoud vit le casque de Bijen, et tira sur-le-champ son épée pour 
 
 En même temps, Bijen, le fils de Guiv, lui asséna avec sa massue un grand coup sur le casque et la tête;
 
-Et le jeune homme, blessé au bras et à l’épaule, pressa le pas de son cheval en poussant des cris.
+Et le jeune homme, blessé au bras et à l’épaule, pressa le pas de son cheval en poussant des cris.
 
 C’est ainsi que le vaillant Firoud atteignit le château dont on allait aussitôt refermer la porte, lorsque Bijen arriva et d’un coup vigoureux abattit une jambe au cheval de Firoud.
 
-Le héros, accompagné de quelques serviteurs, que la bataille des braves avait dispersés, rentra à pied.
+Le héros, accompagné de quelques serviteurs, que la bataille des braves avait dispersés, rentra à pied.
 
 Sa mère accourut avec ses esclaves, et ces femmes voilées le pressèrent contre leur sein, et le placèrent en gémissant sur son trône d’ivoire;
 
@@ -100,7 +100,7 @@ C’est ainsi que sa vie s’en allait au moment où il devait obtenir une cour
 
 Les esclaves et Djerireh arrachèrent les boucles parfumées et les mèches de musc de leurs cheveux;
 
-Le cœur du noble Firoud se brisait, son trône était entouré de lamentations, son château rempli d’angoisses; il leva encore une fois les yeux, poussa un soupir, tourna le visage vers sa mère et ses esclaves, et dit, en faisant un effort pour ouvrir les lèvres:
+Le cœur du noble Firoud se brisait, son trône était entouré de lamentations, son château rempli d’angoisses; il leva encore une fois les yeux, poussa un soupir, tourna le visage vers sa mère et ses esclaves, et dit, en faisant un effort pour ouvrir les lèvres:
 
 > Je ne puis m’étonner que vous arrachiez vos cheveux, car les Iraniens vont venir, déterminés à saccager la forteresse;
 >
@@ -110,9 +110,9 @@ Le cœur du noble Firoud se brisait, son trône était entouré de lamentations
 >
 > Allez, vous toutes dont le cœur se consume pour moi, dont les joues brûlent dans la douleur que vous cause ma perte, allez sur le rempart et jetez-vous en bas, pour que Bijen ne trouve ici personne.
 >
-> Je ne puis vous survivre que peu d’instants, car Bijen a brisé mon cœur pur, c’est lui qui me tue dans les jours de ma jeunesse.
+> Je ne puis vous survivre que peu d’instants, car Bijen a brisé mon cœur pur, c’est lui qui me tue dans les jours de ma jeunesse.
 
-Ayant prononcé ces paroles, ses joues pâlirent, et son esprit abattu par les sollicitudes et les douleurs monta vers le ciel.
+Ayant prononcé ces paroles, ses joues pâlirent, et son esprit abattu par les sollicitudes et les douleurs monta vers le ciel.
 
 La sphère céleste, instable comme si elle était ivre, ressemble à un bateleur qui saurait soixante et dix tours dont il se servirait pour faire de nous son jouet, tantôt par le vent, tantôt par la foudre, tantôt par le poignard et l’épée, tantôt par une main inattendue;
 
@@ -126,4 +126,4 @@ Tout ce qui a vie doit subir sa loi.
 
 Quant à moi, elle me serre le cœur depuis qu’elle me laisse les mains vides.
 
-Si l’homme de sens n’avait pas été mis au monde, il n’aurait pas éprouvé dans cette vie la chaleur et le froid; mais une fois qu’il est né, il vit dans l’aveuglement et ne peut atteindre l’objet de ses désirs, et c’est sur une telle vie qu’il faudrait pleurer; à la fin son coussin sera la poussière. Hélas! que je plains ce cœur, cette intelligence et cette noblesse d’âme!
+Si l’homme de sens n’avait pas été mis au monde, il n’aurait pas éprouvé dans cette vie la chaleur et le froid; mais une fois qu’il est né, il vit dans l’aveuglement et ne peut atteindre l’objet de ses désirs, et c’est sur une telle vie qu’il faudrait pleurer; à la fin son coussin sera la poussière. Hélas! que je plains ce cœur, cette intelligence et cette noblesse d’âme!
