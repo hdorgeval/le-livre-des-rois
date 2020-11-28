@@ -314,7 +314,7 @@ export const noises = [
   'Partout',
   'Pendant',
   'Pense',
-  'Perçons',
+  'Perçons',
   'Périsse',
   'Permets-moi',
   'Perron',

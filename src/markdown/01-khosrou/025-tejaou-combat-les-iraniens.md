@@ -95,7 +95,7 @@ Là-dessus Bijen dit à son noble père:
 >
 > Il faut saisir la massue et l’épée, il faut leur arracher le cœur et la cervelle.
 
-Bijen lança son cheval, l’air retentit de cris, on leva les massues et les épées, on fit monter jusqu’au ciel une poussière noire qui cachait le soleil; le monde devint sombre comme un nuage de printemps, et l’éclat des astres et de la lune disparut.
+Bijen lança son cheval, l’air retentit de cris, on leva les massues et les épées, on fit monter jusqu’au ciel une poussière noire qui cachait le soleil; le monde devint sombre comme un nuage de printemps, et l’éclat des astres et de la lune disparut.
 
 Au milieu de la ligne se trouvait Guiv qui obscurcissait la lumière du ciel.
 
@@ -145,11 +145,11 @@ Ispenoui mit pied à terre, et la douleur qu’il éprouvait de la perdre fit v
 
 Le cheval se sentant allégé, prit un nouvel élan, et Bijen poursuivit le fugitif avec une nouvelle ardeur.
 
-Mais lorsqu’il aperçut Ispenoui au visage de lune, dont la chevelure noire lui descendait jusqu’aux pieds, il mit pied à terre auprès d’elle, et s’empara avec douceur de sa personne.
+Mais lorsqu’il aperçut Ispenoui au visage de lune, dont la chevelure noire lui descendait jusqu’aux pieds, il mit pied à terre auprès d’elle, et s’empara avec douceur de sa personne.
 
-Il la plaça derrière lui et s’en retourna au camp du Pehlewan;
+Il la plaça derrière lui et s’en retourna au camp du Pehlewan;
 
-Il arriva joyeusement sous la porte de la tente de Thous, et y fut reçu au son des timbales, comme un prudent et vaillant cavalier qui revenait fièrement de la bataille chargé de butin.
+Il arriva joyeusement sous la porte de la tente de Thous, et y fut reçu au son des timbales, comme un prudent et vaillant cavalier qui revenait fièrement de la bataille chargé de butin.
 
 Le Sipehdar et les vaillants héros s’occupèrent d’abord à saccager le château de Tejaou;
 

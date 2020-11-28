@@ -63,7 +63,7 @@ Aucun oiseau n’aurait osé voler au-dessus des combattants à travers cette m
 
 Le grand nombre des lances, des massues et des épées tranchantes faisait trembler la terre comme elle tremblera au jour de la résurrection.
 
-Guiv s’élança des rangs du centre de l’armée en rugissant et les lèvres couvertes d’écume.
+Guiv s’élança des rangs du centre de l’armée en rugissant et les lèvres couvertes d’écume.
 
 Il était entouré des membres illustres de la famille de Gouderz, desquels dépendait le gain ou la perte de la bataille; ils attaquèrent avec l’arc et la lance, ils firent jaillir le feu de l’acier.
 
@@ -71,7 +71,7 @@ Gouderz et Piran se combattirent obstinément;
 
 Neuf cents hommes de la tribu de Piran tombèrent; mais Lehhak et Ferschidwerd voyant que cette grande armée succombait, firent une vive attaque contre Guiv et contre ses héros armés de massues.
 
-Les chefs lançaient avec leurs arcs une pluie de traits sur ces braves couverts de cuirasses, bientôt on ne vit plus la surface de la terre, et le sol disparut sous le nombre des morts.
+Les chefs lançaient avec leurs arcs une pluie de traits sur ces braves couverts de cuirasses, bientôt on ne vit plus la surface de la terre, et le sol disparut sous le nombre des morts.
 
 Personne ne voulait détourner ses yeux de son ennemi, personne ne voulait céder la place qu’il occupait.
 
@@ -91,7 +91,7 @@ Ils tournèrent le dos à l’ennemi, ils ne tenaient plus dans leurs mains vid
 
 Les timbales, les drapeaux et les lances furent renversés, on ne distinguait plus les brides des étriers; le cœur des guerriers était entièrement abattu, et la plaine et la montagne étaient trempées de sang.
 
-Les ennemis s’avançaient de tous côtés en grandes masses, et Feribourz se réfugia sur le flanc de la montagne.
+Les ennemis s’avançaient de tous côtés en grandes masses, et Feribourz se réfugia sur le flanc de la montagne.
 
 Les Iraniens qui survivaient s’enfuirent; c’est sur ceux qui sauvent ainsi leur vie qu’il faut pleurer.
 
@@ -119,7 +119,7 @@ Guiv lui dit:
 >
 > Tu vis, tu as soixante et dix vaillants fils; et ta famille compte encore beaucoup d’éléphants et de lions.
 >
-> Perçons donc avec nos épées le cœur de nos ennemis, et si une montagne se trouve devant nous, arrachons-la de sa base.
+> Perçons donc avec nos épées le cœur de nos ennemis, et si une montagne se trouve devant nous, arrachons-la de sa base.
 
 Lorsque Gouderz entendit les paroles de Guiv, lorsqu’il regarda les têtes et les casques des vaillants membres de sa famille, il eut honte de son prudent projet et se raffermit aussitôt sur ses étriers.
 
@@ -137,7 +137,7 @@ Le vieux Gouderz dit alors à Bijen:
 
 > Pars avec ta massue et tes flèches, tourne la bride de ton cheval vers Feribourz et apporte-moi le drapeau de Kaweh; et si Feribourz lui-même veut l’accompagner, il fera pâlir les joues de ses ennemis.
 
-Bijen l’écouta, lança son cheval, courut semblable à Adergouschasp auprès de Feribourz, et lui dit:
+Bijen l’écouta, lança son cheval, courut semblable à Adergouschasp auprès de Feribourz, et lui dit:
 
 > Pourquoi te caches-tu ici?
 >
@@ -161,7 +161,7 @@ Houman leur dit:
 
 > C’est ce drapeau violet qui fait la force de l’lran, et si nous pouvons nous en emparer, nous rendrons le monde étroit devant Khosrou.
 
-Bijen banda son arc comme un héros, il lança sur ses ennemis une pluie de traits, qui les tenait à distance et préparait un festin pour les loups.
+Bijen banda son arc comme un héros, il lança sur ses ennemis une pluie de traits, qui les tenait à distance et préparait un festin pour les loups.
 
 Les cavaliers qui entouraient Guiv et Kustehem leur dirent alors:
 
@@ -201,7 +201,7 @@ Il mena de nouveau son armée à l’attaque pour s’emparer de cette couronne
 
 La fortune de beaucoup de braves baissa et un grand nombre de guerriers succombèrent dans les rangs des deux armées.
 
-Le brave Bahram s’élança comme un lion et attaqua les Touraniens, la lance en main; il emporta la couronne de Rivniz avec la pointe de sa lance, et jeta dans la stupeur les deux armées.
+Le brave Bahram s’élança comme un lion et attaqua les Touraniens, la lance en main; il emporta la couronne de Rivniz avec la pointe de sa lance, et jeta dans la stupeur les deux armées.
 
 Les Iraniens furent remplis de joie de ce que ce jeune héros avait rapporté la couronne;
 
