@@ -127,7 +127,7 @@ Isfendiar au corps d’airain lui dit:
 
 > Ô vieillard volontaire et absurde! tu es un homme puissant et vaillant, tu connais beaucoup d’expédients, d’artifices et de moyens d’échapper.
 >
-> Je vois ta ruse, tu ne veux pas que je m’aperçoive du mauvais état dans lequel tu te trouves.
+> Je vois ta ruse, tu ne veux pas que je m’aperçoive du mauvais état dans lequel tu te trouves.
 >
 > Je te fais grâce de la vie pour cette nuit;
 >
@@ -155,7 +155,7 @@ Isfendiar resta pondant quelque temps dans son étonnement, puis il dit en s’a
 
 Quand Isfendiar fut de retour, il entendit des cris qui partaient de ses tentes;
 
-Beschouten s’avança;
+Beschouten s’avança;
 
 La mort du vaillant Nousch-Ader et de Mihri-Nousch l’avait rempli de douleur et de colère;
 
