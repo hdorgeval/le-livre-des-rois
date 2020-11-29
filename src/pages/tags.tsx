@@ -5,9 +5,13 @@ import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
-    <SEO title="Le Livre des Rois" contentType="website" description="Lexique du livre des Rois" />
+    <SEO
+      title="Le Livre des Rois - Shâhnâmeh"
+      contentType="website"
+      description="Lexique du livre des Rois"
+    />
     <div>
-      <Title text="Le Livre des Rois" subtitle="Lexique" />
+      <Title text="Le Livre des Rois - Shâhnâmeh" subtitle="Lexique" />
       <div className={styles.content}>
         <Tags />
       </div>

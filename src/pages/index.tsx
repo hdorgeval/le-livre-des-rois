@@ -5,12 +5,15 @@ import React from 'react';
 const Index: React.FC = () => (
   <Layout>
     <SEO
-      title="Le Livre des Rois"
+      title="Le Livre des Rois - Shâhnâmeh"
       contentType="website"
-      description="Histoire légendaire des rois de Perse"
+      description="Histoire légendaire des rois de Perse - Shâhnâmeh"
     />
     <div>
-      <Title text="Le Livre des Rois" subtitle="Histoire légendaire des rois de Perse" />
+      <Title
+        text="Le Livre des Rois - Shâhnâmeh"
+        subtitle="Histoire légendaire des rois de Perse"
+      />
       <div className={styles.content}>
         <p>
           Il y avait un livre des temps anciens, dans lequel étaient écrites beaucoup d’histoires.
