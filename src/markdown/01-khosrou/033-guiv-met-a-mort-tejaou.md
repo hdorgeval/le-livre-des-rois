@@ -11,89 +11,89 @@ order: '033'
 
 Lorsque le soleil brillant commença à baisser, Guiv devint inquiet sur le sort de son frère, et dit à Bijen:
 
-> Ô mon fils chéri! mon frère n’est pas de retour, il faut que nous allions voir ce qui lui est arrivé, car il ne faut pas que nous ayons à pleurer sa mort.
+> Ô mon fils chéri! mon frère n’est pas de retour, il faut que nous allions voir ce qui lui est arrivé, car il ne faut pas que nous ayons à pleurer sa mort.
 
-Ces deux héros se mirent en route rapidement comme un tourbillon de poussière, ils se rendirent au lieu du combat;
+Ces deux héros se mirent en route rapidement comme un tourbillon de poussière, ils se rendirent au lieu du combat;
 
-Ils examinèrent tous les morts et les blessés;
+Ils examinèrent tous les morts et les blessés;
 
-Ils ne cherchèrent que Bahram, à la fin ils l’aperçurent, et coururent vers lui en versant des larmes de sang; ils le trouvèrent étendu dans le sang et dans la poussière, n’ayant plus qu’un bras et dans un état désespéré.
+Ils ne cherchèrent que Bahram, à la fin ils l’aperçurent, et coururent vers lui en versant des larmes de sang; ils le trouvèrent étendu dans le sang et dans la poussière, n’ayant plus qu’un bras et dans un état désespéré.
 
-Guiv versa un torrent de larmes sur le visage de Bahram, son cœur était gonflé, ses yeux étaient remplis de sang par l’excès de sa tendresse, et ses cris de douleur réveillèrent Bahram, qui reprit connaissance et se mit à se rouler par terre.
+Guiv versa un torrent de larmes sur le visage de Bahram, son cœur était gonflé, ses yeux étaient remplis de sang par l’excès de sa tendresse, et ses cris de douleur réveillèrent Bahram, qui reprit connaissance et se mit à se rouler par terre.
 
 Il dit à Guiv:
 
-> Ô toi, qui cherches la gloire! quand tu m’auras placé dans le cercueil et que tu auras couvert mon visage, venge-moi de Tejaou, car le taureau ne saurait résister au lion.
+> Ô toi, qui cherches la gloire! quand tu m’auras placé dans le cercueil et que tu auras couvert mon visage, venge-moi de Tejaou, car le taureau ne saurait résister au lion.
 >
 > Piran m’a vu et ne m’a pas fait de mal, il a agi envers moi avec une parfaite bonne foi;
 >
-> Ce ne sont pas non plus les grands et les braves de la Chine qui m’ont attaqué;
+> Ce ne sont pas non plus les grands et les braves de la Chine qui m’ont attaqué;
 >
-> C’est l’injuste Tejaou qui m’a blessé, qui n’a eu égard ni à ma naissance ni à mon rang.
+> C’est l’injuste Tejaou qui m’a blessé, qui n’a eu égard ni à ma naissance ni à mon rang.
 
-A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
+A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
 
-Il remonta sur-le-champ à cheval, le cœur rempli de douleur et de vengeance, et s’arma d’une épée indienne.
+Il remonta sur-le-champ à cheval, le cœur rempli de douleur et de vengeance, et s’arma d’une épée indienne.
 
 A la nuit tombante, Tejaou parut faisant sa ronde;
 
-Le vaillant Guiv le vit de loin, il secoua les rênes de son cheval, et respira plus librement quand il reconnut que son ennemi s’était écarté de l’armée, et qu’il était loin des braves qui portaient haut la tête.
+Le vaillant Guiv le vit de loin, il secoua les rênes de son cheval, et respira plus librement quand il reconnut que son ennemi s’était écarté de l’armée, et qu’il était loin des braves qui portaient haut la tête.
 
-Il détacha du crochet de la selle son lacet roulé, et prit soudain le corps de Tejaou dans le nœud.
+Il détacha du crochet de la selle son lacet roulé, et prit soudain le corps de Tejaou dans le nœud.
 
-Il le tira à lui avec force en faisant volte-face, l’arracha de la selle, le jeta par terre misérablement, descendit de cheval, et lui lia les mains.
+Il le tira à lui avec force en faisant volte-face, l’arracha de la selle, le jeta par terre misérablement, descendit de cheval, et lui lia les mains.
 
-Ensuite il remonta à cheval, et le traîna après lui comme un être inanimé.
+Ensuite il remonta à cheval, et le traîna après lui comme un être inanimé.
 
 Tejaou le supplia en disant:
 
-> Ô héros! je suis épuisé; qu’ai-je fait, pour que de toute cette armée innombrable ce soit moi sur qui tes yeux tombent dans cette nuit sombre?
+> Ô héros! je suis épuisé; qu’ai-je fait, pour que de toute cette armée innombrable ce soit moi sur qui tes yeux tombent dans cette nuit sombre?
 
 Mais Guiv lui donna avec son fouet deux cents coups sur la tête et lui dit:
 
 > Ce n’est pas le moment de parler!
 >
-> Ne sais-tu donc pas, homme vil et misérable, que tu viens de planter un arbre dans le jardin de la vengeance, un arbre qui touchera le firmament, et dont le tronc sera rempli de sang, dont le fruit sera un poignard?
+> Ne sais-tu donc pas, homme vil et misérable, que tu viens de planter un arbre dans le jardin de la vengeance, un arbre qui touchera le firmament, et dont le tronc sera rempli de sang, dont le fruit sera un poignard?
 >
-> Il t’a fallu pour victime un homme comme Bahram, mais tu verras maintenant la gueule étroite du crocodile.
+> Il t’a fallu pour victime un homme comme Bahram, mais tu verras maintenant la gueule étroite du crocodile.
 
-Tejaou répondit au vaillant Guiv:
+Tejaou répondit au vaillant Guiv:
 
 > Tu es comme un aigle, et je suis comme une alouette.
 >
 > Je n’ai jamais voulu de mal à Bahram, et ce n’est pas de ma main qu’il est mort;
 >
-> quand je suis arrivé, des cavaliers venus de la Chine l’avaient tué sur le champ de bataille;
+> quand je suis arrivé, des cavaliers venus de la Chine l’avaient tué sur le champ de bataille;
 >
-> Et c’est ainsi qu’est mort ton frère, dont la perte désole ton cœur.
+> Et c’est ainsi qu’est mort ton frère, dont la perte désole ton cœur.
 
-Guiv continua à le traîner après lui, et arrivé auprès de Bahram le lion au cœur brisé, il lui dit:
+Guiv continua à le traîner après lui, et arrivé auprès de Bahram le lion au cœur brisé, il lui dit:
 
-> Voici cet homme sans valeur, à qui je rendrai cruauté pour cruauté;
+> Voici cet homme sans valeur, à qui je rendrai cruauté pour cruauté;
 >
-> Je remercie Dieu le créateur de m’avoir laissé vivre jusqu’à ce moment pour que je puisse, devant toi, arracher à ton ennemi son âme noire.
+> Je remercie Dieu le créateur de m’avoir laissé vivre jusqu’à ce moment pour que je puisse, devant toi, arracher à ton ennemi son âme noire.
 
 Tejaou les implora; il leur demanda grâce de la vie en disant:
 
-> Quand même j’aurais fait ce dont tu m’accuses, à quoi servirait-il de me trancher la tête avec l’épée?
+> Quand même j’aurais fait ce dont tu m’accuses, à quoi servirait-il de me trancher la tête avec l’épée?
 >
 > Je serai ton esclave, je serai le serviteur de ta famille.
 
 Bahram dit à Guiv:
 
-> Quiconque est né doit mourir;
+> Quiconque est né doit mourir;
 >
-> Mais quoique Tejaou m’ait blessé, il ne faut pas qu’il boive pour cela le poison de la mort.
+> Mais quoique Tejaou m’ait blessé, il ne faut pas qu’il boive pour cela le poison de la mort.
 >
-> Ne lui arrache pas sa tête coupable, laisse-le vivre pour qu’il fasse vivre ma mémoire dans le monde.
+> Ne lui arrache pas sa tête coupable, laisse-le vivre pour qu’il fasse vivre ma mémoire dans le monde.
 
-Mais Guiv regarda son frère, si grièvement blessé;
+Mais Guiv regarda son frère, si grièvement blessé;
 
-Il regarda Tejaou le cruel, lié de cordes, et il poussa un cri de rage, le saisit à la barbe et lui trancha la tête comme à une alouette.
+Il regarda Tejaou le cruel, lié de cordes, et il poussa un cri de rage, le saisit à la barbe et lui trancha la tête comme à une alouette.
 
-A cette vue, le vaillant Bahram s’écria d’une voix telle que personne n’en a jamais entendu de semblable:
+A cette vue, le vaillant Bahram s’écria d’une voix telle que personne n’en a jamais entendu de semblable:
 
-> Si je le tue, ou que je le laisse tuer devant mes yeux, mon frère ou un de mes parents seront tués;
+> Si je le tue, ou que je le laisse tuer devant mes yeux, mon frère ou un de mes parents seront tués;
 
 Et en prononçant ces paroles, il mourut.
 
@@ -107,9 +107,9 @@ Guiv se plaça devant lui, poussa des cris de douleur, et se couvrit la tête 
 
 Il lia, en se lamentant, le corps de Bahram sur le cheval de Tejaou, le confia à Bijen, et monta lui-même à cheval.
 
-L’ayant ramené du champ de bataille, il lui construisit un mausolée à la manière des Iraniens, remplit son crâne de musc et d’ambre, enveloppa
+L’ayant ramené du champ de bataille, il lui construisit un mausolée à la manière des Iraniens, remplit son crâne de musc et d’ambre, enveloppa
 son corps avec de la soie de la Chine, le plaça sur un trône d’ivoire, comme on place les rois, et suspendit sa couronne au-dessus de lui;
 
-Ensuite on peignit la porte du tombeau en rouge et en bleu, et tu aurais dit que Bahram n’avait jamais vécu.
+Ensuite on peignit la porte du tombeau en rouge et en bleu, et tu aurais dit que Bahram n’avait jamais vécu.
 
-L’armée des Iraniens partit, affligée de la perte de Bahram et de la manière dont la fortune avait tourné.
+L’armée des Iraniens partit, affligée de la perte de Bahram et de la manière dont la fortune avait tourné.
