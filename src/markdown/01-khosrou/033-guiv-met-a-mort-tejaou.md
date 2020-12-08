@@ -9,17 +9,17 @@ order: '033'
 
 # Guiv met à mort Tejaou
 
-Lorsque le soleil brillant commença à baisser, Guiv devint inquiet sur le sort de son frère, et dit à Bijen:
+Lorsque le soleil brillant commença à baisser, Guiv devint inquiet sur le sort de son frère, et dit à Bijen:
 
-> Ô mon fils chéri! mon frère n’est pas de retour, il faut que nous allions voir ce qui lui est arrivé, car il ne faut pas que nous ayons à pleurer sa mort.
+> Ô mon fils chéri! mon frère n’est pas de retour, il faut que nous allions voir ce qui lui est arrivé, car il ne faut pas que nous ayons à pleurer sa mort.
 
 Ces deux héros se mirent en route rapidement comme un tourbillon de poussière, ils se rendirent au lieu du combat;
 
 Ils examinèrent tous les morts et les blessés;
 
-Ils ne cherchèrent que Bahram, à la fin ils l’aperçurent, et coururent vers lui en versant des larmes de sang; ils le trouvèrent étendu dans le sang et dans la poussière, n’ayant plus qu’un bras et dans un état désespéré.
+Ils ne cherchèrent que Bahram, à la fin ils l’aperçurent, et coururent vers lui en versant des larmes de sang; ils le trouvèrent étendu dans le sang et dans la poussière, n’ayant plus qu’un bras et dans un état désespéré.
 
-Guiv versa un torrent de larmes sur le visage de Bahram, son cœur était gonflé, ses yeux étaient remplis de sang par l’excès de sa tendresse, et ses cris de douleur réveillèrent Bahram, qui reprit connaissance et se mit à se rouler par terre.
+Guiv versa un torrent de larmes sur le visage de Bahram, son cœur était gonflé, ses yeux étaient remplis de sang par l’excès de sa tendresse, et ses cris de douleur réveillèrent Bahram, qui reprit connaissance et se mit à se rouler par terre.
 
 Il dit à Guiv:
 
@@ -43,7 +43,7 @@ Il détacha du crochet de la selle son lacet roulé, et prit soudain le corps de
 
 Il le tira à lui avec force en faisant volte-face, l’arracha de la selle, le jeta par terre misérablement, descendit de cheval, et lui lia les mains.
 
-Ensuite il remonta à cheval, et le traîna après lui comme un être inanimé.
+Ensuite il remonta à cheval, et le traîna après lui comme un être inanimé.
 
 Tejaou le supplia en disant:
 
@@ -65,9 +65,9 @@ Tejaou répondit au vaillant Guiv:
 >
 > quand je suis arrivé, des cavaliers venus de la Chine l’avaient tué sur le champ de bataille;
 >
-> Et c’est ainsi qu’est mort ton frère, dont la perte désole ton cœur.
+> Et c’est ainsi qu’est mort ton frère, dont la perte désole ton cœur.
 
-Guiv continua à le traîner après lui, et arrivé auprès de Bahram le lion au cœur brisé, il lui dit:
+Guiv continua à le traîner après lui, et arrivé auprès de Bahram le lion au cœur brisé, il lui dit:
 
 > Voici cet homme sans valeur, à qui je rendrai cruauté pour cruauté;
 >
@@ -87,29 +87,29 @@ Bahram dit à Guiv:
 >
 > Ne lui arrache pas sa tête coupable, laisse-le vivre pour qu’il fasse vivre ma mémoire dans le monde.
 
-Mais Guiv regarda son frère, si grièvement blessé;
+Mais Guiv regarda son frère, si grièvement blessé;
 
 Il regarda Tejaou le cruel, lié de cordes, et il poussa un cri de rage, le saisit à la barbe et lui trancha la tête comme à une alouette.
 
 A cette vue, le vaillant Bahram s’écria d’une voix telle que personne n’en a jamais entendu de semblable:
 
-> Si je le tue, ou que je le laisse tuer devant mes yeux, mon frère ou un de mes parents seront tués;
+> Si je le tue, ou que je le laisse tuer devant mes yeux, mon frère ou un de mes parents seront tués;
 
 Et en prononçant ces paroles, il mourut.
 
-Telle est la manière d’agir et la nature du monde, que quiconque cherche à saisir les rênes du pouvoir doit avant tout tremper ses mains dans le sang;
+Telle est la manière d’agir et la nature du monde, que quiconque cherche à saisir les rênes du pouvoir doit avant tout tremper ses mains dans le sang;
 
 Il faut qu’il tue, ou qu’il se laisse tuer douloureusement.
 
 Ne cherche donc pas, autant que tu pourras, à jouer un rôle dans le monde.
 
-Guiv se plaça devant lui, poussa des cris de douleur, et se couvrit la tête de poussière noire;
+Guiv se plaça devant lui, poussa des cris de douleur, et se couvrit la tête de poussière noire;
 
 Il lia, en se lamentant, le corps de Bahram sur le cheval de Tejaou, le confia à Bijen, et monta lui-même à cheval.
 
-L’ayant ramené du champ de bataille, il lui construisit un mausolée à la manière des Iraniens, remplit son crâne de musc et d’ambre, enveloppa
+L’ayant ramené du champ de bataille, il lui construisit un mausolée à la manière des Iraniens, remplit son crâne de musc et d’ambre, enveloppa
 son corps avec de la soie de la Chine, le plaça sur un trône d’ivoire, comme on place les rois, et suspendit sa couronne au-dessus de lui;
 
 Ensuite on peignit la porte du tombeau en rouge et en bleu, et tu aurais dit que Bahram n’avait jamais vécu.
 
-L’armée des Iraniens partit, affligée de la perte de Bahram et de la manière dont la fortune avait tourné.
+L’armée des Iraniens partit, affligée de la perte de Bahram et de la manière dont la fortune avait tourné.

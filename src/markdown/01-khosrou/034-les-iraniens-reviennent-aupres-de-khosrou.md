@@ -13,19 +13,19 @@ Lorsque le soleil eut levé sa tête brillante au-dessus de la montagne, et que
 
 > Les Iraniens ont fait de si grandes pertes, la fortune du roi a été si entièrement éclipsée, la main des Turcs a été si victorieuse dans la bataille, que l’armée ne peut plus tenir la campagne;
 >
-> Il faut de toute nécessité que nous retournions auprès du roi et que nous voyions la tournure que prendra le sort.
+> Il faut de toute nécessité que nous retournions auprès du roi et que nous voyions la tournure que prendra le sort.
 >
 > Si le roi n’a pas envie de recommencer la guerre, toi et moi nous n’avons pas de raison pour la désirer;
 >
-> Car les fils ont perdu leurs pères, les pères ont perdu leurs fils;
+> Car les fils ont perdu leurs pères, les pères ont perdu leurs fils;
 >
 > Un grand nombre d’Iraniens sont morts, et ceux qui survivent ont le cœur brisé.
 >
 > Mais si le roi nous ordonne de combattre de nouveau, s’il rassemble une armée glorieuse, nous partirons de nouveau, ne respirant que vengeance et combats, nous rendrons la terre étroite pour nos ennemis.
 
-C’est dans ces dispositions, et les yeux remplis de larmes, le cœur fondant de douleur, qu’ils quittèrent ce pays, pleurant la mort de leurs frères et soupirant au souvenir de leurs parents;
+C’est dans ces dispositions, et les yeux remplis de larmes, le cœur fondant de douleur, qu’ils quittèrent ce pays, pleurant la mort de leurs frères et soupirant au souvenir de leurs parents;
 
-Ils se dirigèrent vers le Kasehroud, en disant adieu à ceux qui étaient morts.
+Ils se dirigèrent vers le Kasehroud, en disant adieu à ceux qui étaient morts.
 
 Une ronde sortit du camp des Turcs, et ne trouvant personne dans le camp iranien, elle fit savoir sur-le-champ à Piran que les Iraniens avaient disparu.
 
@@ -45,7 +45,7 @@ Passons donc nos jours en tenant en main la coupe qui illumine le monde.
 
 Piran envoya pendant le temps du sommeil un dromadaire pour porter à Afrasiab cette nouvelle, qui combla de joie le roi et le délivra de ses sollicitudes et de ses peines;
 
-Toute l’armée partagea son bonheur; les braves élevèrent des pavillons sur la route, couvrirent d’étoffes les terrasses et les portes, et répandirent des pièces d’argent sur la tête de Piran.
+Toute l’armée partagea son bonheur; les braves élevèrent des pavillons sur la route, couvrirent d’étoffes les terrasses et les portes, et répandirent des pièces d’argent sur la tête de Piran.
 
 Lorsque celui-ci s’approcha de la ville royale, Afrasiab alla au-devant de lui avec un grand cortège et le bénit en disant:
 
@@ -53,7 +53,7 @@ Lorsque celui-ci s’approcha de la ville royale, Afrasiab alla au-devant de lui
 
 Pendant deux semaines, le son des harpes et des rebecs se fit entendre dans le palais d’Afrasiab;
 
-La troisième semaine, Piran, comblé de bonheur, se décida à partir pour Khoten.
+La troisième semaine, Piran, comblé de bonheur, se décida à partir pour Khoten.
 
 Le roi prépara pour lui des présents si nombreux, que tu perdrais patience si je voulais te les énumérer;
 

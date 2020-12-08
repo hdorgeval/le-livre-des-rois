@@ -19,9 +19,9 @@ Lorsque le soleil au visage d’or se leva au-dessus de la montagne, et que la n
 >
 > Réfléchis d’abord que c’est un homme violent et dépourvu de prudence, ensuite que la vie d’un fils n’est pas une chose de peu de valeur.
 >
-> Il ne faut pas s’étonner s’il fut en colère lorsqu’il vit tomber Rivniz et Zerasp le noble cavalier, et le roi ne doit pas se venger de lui.
+> Il ne faut pas s’étonner s’il fut en colère lorsqu’il vit tomber Rivniz et Zerasp le noble cavalier, et le roi ne doit pas se venger de lui.
 >
-> Réfléchis encore que l’armée était dans l’erreur en croyant que ton noble frère était auprès de toi.
+> Réfléchis encore que l’armée était dans l’erreur en croyant que ton noble frère était auprès de toi.
 >
 > Sache que personne ne meurt à moins que son temps ne soit venu;
 >
@@ -35,9 +35,9 @@ Le roi lui répondit:
 >
 > Mais je laisserai guérir mon âme par tes conseils, quoique mon cœur souffre cruellement.
 
-Alors le Sipehdar Thous s’avança pour demander pardon, et sa fière tête se courbait de peur.
+Alors le Sipehdar Thous s’avança pour demander pardon, et sa fière tête se courbait de peur.
 
-Le roi pardonna à l’armée, et les grands se retirèrent.
+Le roi pardonna à l’armée, et les grands se retirèrent.
 
 Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se hâta de monter plus haut, qu’il déchira sa robe de turquoises et qu’il montra son corps brillant comme un rubis, le Sipehbed Thous, accompagné de Guiv et des chefs de l’armée de l’Iran, parut devant le roi et l’adora en disant:
 

@@ -15,7 +15,7 @@ Le roi du monde leur dit:
 
 > La trace de la vengeance ne s’efface pas, et l’on ne cessera jamais de parler de Tour et de Selm, de cette lutte ancienne et de ces jours qui sont passés.
 >
-> Mais jamais roi d’Iran ne fut couvert de honte comme moi, jamais le monde ne fut inondé du sang des braves comme aujourd’hui: la montagne a revêtu une ceinture sanglante, colorée du sang des fils de Gouderz, et les oiseaux et les poissons dans la mer et dans les rivières les pleurent amèrement;
+> Mais jamais roi d’Iran ne fut couvert de honte comme moi, jamais le monde ne fut inondé du sang des braves comme aujourd’hui: la montagne a revêtu une ceinture sanglante, colorée du sang des fils de Gouderz, et les oiseaux et les poissons dans la mer et dans les rivières les pleurent amèrement;
 >
 > Tout le pays du Touran est couvert de têtes, de mains, de pieds, de dos et de troncs d’Iraniens.
 >
@@ -23,7 +23,7 @@ Le roi du monde leur dit:
 
 Les braves se tenaient devant le roi au visage de soleil en croisant leurs mains;
 
-Ils baisèrent tous la terre, Rehham, Gourguin, Gouderz, Thous, Kharrad, Zengueh fils de Schaweran, Bijen, Guiv et tous les grands, en disant:
+Ils baisèrent tous la terre, Rehham, Gourguin, Gouderz, Thous, Kharrad, Zengueh fils de Schaweran, Bijen, Guiv et tous les grands, en disant:
 
 > Ô roi à l’étoile fortunée, au cœur de lion, et qui arrache le cœur aux lions avec ton épée, nous sommes tous tes esclaves, dans notre honte nous baissons la tête devant toi.
 >
@@ -39,13 +39,13 @@ Ensuite le maître de l’armée appela Guiv, le fit asseoir sur le trône des
 >
 > Souvent un homme couvert de gloire a pris le monde en dégoût à cause des paroles d’un calomniateur.
 >
-> Mais ne donne pas, par ta colère, de l’importance à ce qui n’en a pas.
+> Mais ne donne pas, par ta colère, de l’importance à ce qui n’en a pas.
 >
 > Puissent les mânes du vaillant Bahram se réjouir!
 
 Le roi distribua de l’argent et manda les payeurs de l’armée;
 
-Il parla à Thous amicalement, et choisit, d’après les astres, un jour fortuné, qui fût propice au départ de l’armée.
+Il parla à Thous amicalement, et choisit, d’après les astres, un jour fortuné, qui fût propice au départ de l’armée.
 
 Ce jour il se plaça dans la plaine entouré d’éléphants et de timbales, et fit passer devant lui Thous et son armée;
 
@@ -53,7 +53,7 @@ Ensuite il lui remit, selon la coutume des Keïanides, l’étendard de Kaweh e
 
 Le bruit des armes se fit entendre, la terre trembla sous les sabots des chevaux;
 
-La poussière qu’ils faisaient lever forma un nuage dans l’air, et les trompettes résonnèrent;
+La poussière qu’ils faisaient lever forma un nuage dans l’air, et les trompettes résonnèrent;
 
 Le monde devint violet par le reflet des cuirasses et de l’étendard de Kaweh;
 
