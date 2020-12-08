@@ -31,7 +31,7 @@ Il dit à Guiv:
 >
 > C’est l’injuste Tejaou qui m’a blessé, qui n’a eu égard ni à ma naissance ni à mon rang.
 
-A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
+A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
 
 Il remonta sur-le-champ à cheval, le cœur rempli de douleur et de vengeance, et s’arma d’une épée indienne.
 
@@ -101,14 +101,14 @@ Telle est la manière d’agir et la nature du monde, que quiconque cherche à 
 
 Il faut qu’il tue, ou qu’il se laisse tuer douloureusement.
 
-Ne cherche donc pas, autant que tu pourras, à jouer un rôle dans le monde.
+Ne cherche donc pas, autant que tu pourras, à jouer un rôle dans le monde.
 
 Guiv se plaça devant lui, poussa des cris de douleur, et se couvrit la tête de poussière noire;
 
 Il lia, en se lamentant, le corps de Bahram sur le cheval de Tejaou, le confia à Bijen, et monta lui-même à cheval.
 
 L’ayant ramené du champ de bataille, il lui construisit un mausolée à la manière des Iraniens, remplit son crâne de musc et d’ambre, enveloppa
-son corps avec de la soie de la Chine, le plaça sur un trône d’ivoire, comme on place les rois, et suspendit sa couronne au-dessus de lui;
+son corps avec de la soie de la Chine, le plaça sur un trône d’ivoire, comme on place les rois, et suspendit sa couronne au-dessus de lui;
 
 Ensuite on peignit la porte du tombeau en rouge et en bleu, et tu aurais dit que Bahram n’avait jamais vécu.
 

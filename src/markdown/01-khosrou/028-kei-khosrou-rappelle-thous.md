@@ -72,7 +72,7 @@ Sa lettre commençait par les louanges de Dieu le créateur de l’univers :
 >
 > Hélas! ce vaillant fils de roi que le vil Thous a livré au vent!
 >
-> Si Thous avait plus tôt commandé en chef une armée, l’étoile de Kaous aurait été éclipsée.
+> Si Thous avait plus tôt commandé en chef une armée, l’étoile de Kaous aurait été éclipsée.
 >
 > Il sommeille dans la bataille, et n’est prompt que pour s’asseoir au banquet.
 >
@@ -88,7 +88,7 @@ Sa lettre commençait par les louanges de Dieu le créateur de l’univers :
 >
 > Confie dans la bataille ton avant-garde à Guiv, car c’est un noble et vaillant cavalier, et ses mains sont des griffes de léopard;
 >
-> Réunis de tous côtés les moyens de continuer la guerre, et garde-toi de penser aux festins!
+> Réunis de tous côtés les moyens de continuer la guerre, et garde-toi de penser aux festins!
 
 On apposa sur la lettre le sceau du roi, et Khosrou dit au messager:
 

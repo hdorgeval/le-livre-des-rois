@@ -83,7 +83,7 @@ Ils se jetèrent sur le centre et sur Feribourz fils de Kaous;
 
 Le Pehlewan de l’armée s’enfuit devant Houman, et la ligne de bataille des Iraniens fut rompue.
 
-Les fiers guerriers abandonnèrent alors leur position; livrés à eux-mêmes, ils n’obéirent plus à personne; ils cédèrent à l’ennemi le terrain qu’ils avaient occupé, et toute résistance cessa du côté des Iraniens.
+Les fiers guerriers abandonnèrent alors leur position; livrés à eux-mêmes, ils n’obéirent plus à personne; ils cédèrent à l’ennemi le terrain qu’ils avaient occupé, et toute résistance cessa du côté des Iraniens.
 
 On ne voyait plus à leur place les timbales et l’étendard, et les visages des braves pâlissaient en voyant la tournure que prenait la bataille;
 
@@ -91,7 +91,7 @@ Ils tournèrent le dos à l’ennemi, ils ne tenaient plus dans leurs mains vid
 
 Les timbales, les drapeaux et les lances furent renversés, on ne distinguait plus les brides des étriers; le cœur des guerriers était entièrement abattu, et la plaine et la montagne étaient trempées de sang.
 
-Les ennemis s’avançaient de tous côtés en grandes masses, et Feribourz se réfugia sur le flanc de la montagne.
+Les ennemis s’avançaient de tous côtés en grandes masses, et Feribourz se réfugia sur le flanc de la montagne.
 
 Les Iraniens qui survivaient s’enfuirent; c’est sur ceux qui sauvent ainsi leur vie qu’il faut pleurer.
 
@@ -121,7 +121,7 @@ Guiv lui dit:
 >
 > Perçons donc avec nos épées le cœur de nos ennemis, et si une montagne se trouve devant nous, arrachons-la de sa base.
 
-Lorsque Gouderz entendit les paroles de Guiv, lorsqu’il regarda les têtes et les casques des vaillants membres de sa famille, il eut honte de son prudent projet et se raffermit aussitôt sur ses étriers.
+Lorsque Gouderz entendit les paroles de Guiv, lorsqu’il regarda les têtes et les casques des vaillants membres de sa famille, il eut honte de son prudent projet et se raffermit aussitôt sur ses étriers.
 
 Gourazeh, Kustehem, Barteh et le brave Zengueh sortirent des rangs et firent un serment solennel et inviolable, disant:
 
@@ -149,7 +149,7 @@ Ces paroles de Bijen ne rappelèrent pas Feribourz à la raison, il poussa un c
 
 > Pars, tu es trop emporté et encore novice dans le métier des armes.
 >
-> C’est à moi que le roi a confié ce drapeau et cette armée, la dignité de Pehlewan, le trône et le diadème.
+> C’est à moi que le roi a confié ce drapeau et cette armée, la dignité de Pehlewan, le trône et le diadème.
 >
 > Ni Bijen fils de Guiv, ni aucun guerrier dans le monde n’est digne de porter ce drapeau.
 
@@ -165,7 +165,7 @@ Bijen banda son arc comme un héros, il lança sur ses ennemis une pluie de trai
 
 Les cavaliers qui entouraient Guiv et Kustehem leur dirent alors:
 
-> Voici le moment d’attaquer les Touraniens et de leur arracher la couronne et le trône
+> Voici le moment d’attaquer les Touraniens et de leur arracher la couronne et le trône
 
 Les plus braves d’entre les Iraniens s’avancèrent avec leurs lourdes massues et tuèrent plus de mille ennemis.
 

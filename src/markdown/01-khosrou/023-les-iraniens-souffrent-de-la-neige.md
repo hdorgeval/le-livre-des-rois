@@ -41,7 +41,7 @@ Il dit à Piran, le chef de son armée:
 >
 > Va, rassemble des troupes de toutes parts, et ne perdons pas le temps en discours.
 
-Cependant un vent violent s’éleva du côté du Touran, un vent tel qu’aucun Iranien n’avait souvenir d’un pareil; d’épais nuages enveloppèrent la terre, et le froid congelait l’eau.
+Cependant un vent violent s’éleva du côté du Touran, un vent tel qu’aucun Iranien n’avait souvenir d’un pareil; d’épais nuages enveloppèrent la terre, et le froid congelait l’eau.
 
 Les tentes se couvrirent de glace, et la neige étendit son tapis sur les montagnes.
 

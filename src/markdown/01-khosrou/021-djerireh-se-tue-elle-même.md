@@ -68,7 +68,7 @@ Dans ce moment le Sipehdar Thous se mit en marche vers Kelat, avec ses timbales 
 Il se dirigea vers le mont Siped; il s’avança rapidement et le cœur libre de tout souci.
 
 Mais lorsqu’il se trouva devant la couche de cet homme si déplorablement tué,
-qu’il le vit lui et sa mère étendus morts sur ce trône, qu’il aperçut d’un côté Bahram pleurant, assis à coté de la couche de Firoud et rempli de colère, et de l’autre côté Zengueh fils de Schaweran et les grands qui l’entouraient, qu’il regarda ce héros, semblable à un arbre, placé sur son trône d’ivoire, beau comme la lune, grand comme un platane, il crut voir Siawusch revêtu de sa cuirasse et de sa ceinture, tenant son épée et ses flèches et dormant sur son trône d’or.
+qu’il le vit lui et sa mère étendus morts sur ce trône, qu’il aperçut d’un côté Bahram pleurant, assis à coté de la couche de Firoud et rempli de colère, et de l’autre côté Zengueh fils de Schaweran et les grands qui l’entouraient, qu’il regarda ce héros, semblable à un arbre, placé sur son trône d’ivoire, beau comme la lune, grand comme un platane, il crut voir Siawusch revêtu de sa cuirasse et de sa ceinture, tenant son épée et ses flèches et dormant sur son trône d’or.
 
 Gouderz, Guiv, tous les grands et tous les héros versaient des larmes amères, et Thous lui-même inonda ses joues du sang de son cœur, en regrettant la mort de Firoud et en pleurant son propre fils.
 
@@ -98,7 +98,7 @@ On embauma la tête avec du camphre et le corps avec du gui, de l’eau de rose 
 
 L’ayant placé ainsi sur son trône, ils se retirèrent, et tout fut fini pour cet homme au cœur de lion, qui avait porté si haut la tête.
 
-Ensuite on déposa l’orgueilleux Zerasp et Rivniz dans des tombeaux à côté de celui du prince, et Thous versa de ses yeux des gouttes de sang sur sa barbe blanche comme le camphre.
+Ensuite on déposa l’orgueilleux Zerasp et Rivniz dans des tombeaux à côté de celui du prince, et Thous versa de ses yeux des gouttes de sang sur sa barbe blanche comme le camphre.
 
 Tel est notre sort, quelle que soit la durée de notre vie; et ni le puissant éléphant ni le lion ne vivent toujours.
 

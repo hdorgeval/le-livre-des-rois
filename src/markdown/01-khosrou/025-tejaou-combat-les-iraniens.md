@@ -73,7 +73,7 @@ Le rusé Tejaou répondit:
 
 > Ô héros! Personne n’abattra mon drapeau.
 >
-> Le sceau et le trône de ce pays sont à moi;
+> Le sceau et le trône de ce pays sont à moi;
 >
 > Je possède des chevaux, des troupeaux et une armée;
 >
@@ -103,7 +103,7 @@ A l’avant-garde se battait l’ardent Bijen, qui n’était jamais en retard q
 
 Dans les rangs opposés était Tejaou, qui portait sur la tête sa couronne et qui aurait lutté contre un lion féroce; il était entouré de guerriers, tels qu’Arjeng et Murdoui le lion, qui n’étaient jamais las de combats.
 
-Mais bientôt Arjeng lui-même se retira tout découragé; deux tiers de l’armée des Touraniens furent tués, et la fortune abandonna le vindicatif Tejaou.
+Mais bientôt Arjeng lui-même se retira tout découragé; deux tiers de l’armée des Touraniens furent tués, et la fortune abandonna le vindicatif Tejaou.
 
 Il s’enfuit, et Bijen le glorieux lion le suivit en poussant des cris, en bouillant de rage, en brandissant sa lance: tu aurais dit que c’était un éléphant furieux.
 

@@ -91,7 +91,7 @@ Piran lui dit:
 >
 > Et qui de nous passera dorénavant la frontière de l’lran sans que sa tête et son sang bouillonnent?
 >
-> Et pourtant si je ne craignais la colère d’Afrasiab, que cela remplirait de courroux, je te donnerais un cheval, ô jeune homme, pour te porter auprès du Pehlewan.
+> Et pourtant si je ne craignais la colère d’Afrasiab, que cela remplirait de courroux, je te donnerais un cheval, ô jeune homme, pour te porter auprès du Pehlewan.
 
 Piran dit, partit et s’en retourna le cœur plein de tendresse pour Bahram, mais la tête remplie de prudence.
 
@@ -109,11 +109,11 @@ Le vaillant Tejaou dit à Piran:
 
 > Ton âme est tendre, mais elle n’est pas forte;
 >
-> Je marche contre lui, et quand même il me faudrait le combattre à pied, je l’aurai bientôt mis dans son tombeau.
+> Je marche contre lui, et quand même il me faudrait le combattre à pied, je l’aurai bientôt mis dans son tombeau.
 
 Tejaou courut en toute hâte vers le champ de bataille, où il trouva le héros Bahram sans cortège.
 
-Aussitôt qu’il l’aperçut une lance en main, il poussa un cri comme un éléphant furieux, et lui dit:
+Aussitôt qu’il l’aperçut une lance en main, il poussa un cri comme un éléphant furieux, et lui dit:
 
 > Tu ne survivras pas au combat que va te livrer cette armée couverte de gloire;
 >

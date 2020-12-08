@@ -29,7 +29,7 @@ Ils se dirigèrent vers le Kasehroud, en disant adieu à ceux qui étaient mort
 
 Une ronde sortit du camp des Turcs, et ne trouvant personne dans le camp iranien, elle fit savoir sur-le-champ à Piran que les Iraniens avaient disparu.
 
-Aussitôt que le Sipehbed Piran eut reçu cette nouvelle, il envoya en secret de tous côtés des espions, et lorsqu’il se fut assuré que ces guerriers, qui portaient si haut la tête, s’étaient retirés, son cœur se sentit délivré de tout souci.
+Aussitôt que le Sipehbed Piran eut reçu cette nouvelle, il envoya en secret de tous côtés des espions, et lorsqu’il se fut assuré que ces guerriers, qui portaient si haut la tête, s’étaient retirés, son cœur se sentit délivré de tout souci.
 
 Il se mit en marche avec son armée de grand matin, et fit le tour du camp;
 
@@ -37,9 +37,9 @@ Il trouva la montagne et les vallées, la plaine et les ravins remplis de tentes
 
 Il en distribua à son armée et en garda une partie; il était confondu par l’incertitude du sort.
 
-Tantôt notre fortune nous porte en haut, tantôt elle nous précipite en bas;
+Tantôt notre fortune nous porte en haut, tantôt elle nous précipite en bas;
 
-Tantôt nous sommes gais, tantôt dans l’angoisse.
+Tantôt nous sommes gais, tantôt dans l’angoisse.
 
 Passons donc nos jours en tenant en main la coupe qui illumine le monde.
 
@@ -57,15 +57,15 @@ La troisième semaine, Piran, comblé de bonheur, se décida à partir pour Kho
 
 Le roi prépara pour lui des présents si nombreux, que tu perdrais patience si je voulais te les énumérer;
 
-Il lui envoya de l’or et des joyaux dignes d’un roi, des ceintures d’or brodées de pierreries, des chevaux arabes à la bride d’or, des épées indiennes au fourreau d’or, un trône magnifique d’ivoire et de bois de tek, des bracelets de turquoises et une couronne d’ambre, des esclaves chinoises et des esclaves de Roum portant des coupes de turquoise remplies de musc et d’ambre;
+Il lui envoya de l’or et des joyaux dignes d’un roi, des ceintures d’or brodées de pierreries, des chevaux arabes à la bride d’or, des épées indiennes au fourreau d’or, un trône magnifique d’ivoire et de bois de tek, des bracelets de turquoises et une couronne d’ambre, des esclaves chinoises et des esclaves de Roum portant des coupes de turquoise remplies de musc et d’ambre;
 
 Il lui envoya ces présents et lui adressa beaucoup de conseils, disant:
 
-> Entoure-toi de Mobeds, et sois vigilant, préserve ton armée des embûches de l’ennemi, envoie de tous côtés des espions prudents;
+> Entoure-toi de Mobeds, et sois vigilant, préserve ton armée des embûches de l’ennemi, envoie de tous côtés des espions prudents;
 >
 > Car Keï Khosrou est maintenant maître de grands trésors, et sa justice et sa générosilé font fleurir son empire.
 >
-> Tu as de la naissance, du pouvoir, un trône et une couronne, ne demande pas autre chose;
+> Tu as de la naissance, du pouvoir, un trône et une couronne, ne demande pas autre chose;
 >
 > Ne te fie pas à ton ennemi parce qu’il s’est retiré, et cherche à savoir de temps en temps ce qu’il médite.
 >
@@ -73,6 +73,6 @@ Il lui envoya ces présents et lui adressa beaucoup de conseils, disant:
 >
 > C’est le seul homme qui m’inspire de l’inquiétude, car il ne sait faire que la guerre, et je crains toujours qu’il ne s’élance de sa résidence et n’envahisse inopinément le Touran.
 
-Piran reçut tous ces conseils comme il convenait au chef des armées et à un parent du roi; ensuite il partit avec son cortége pour le pays de Khoten, et arrivé là, il envoya de tous côtés des espions pour avoir en tout temps des nouvelles de Rustem.
+Piran reçut tous ces conseils comme il convenait au chef des armées et à un parent du roi; ensuite il partit avec son cortége pour le pays de Khoten, et arrivé là, il envoya de tous côtés des espions pour avoir en tout temps des nouvelles de Rustem.
 
 L’histoire de Firoud est finie: écoute maintenant celle de la guerre de Kamous.

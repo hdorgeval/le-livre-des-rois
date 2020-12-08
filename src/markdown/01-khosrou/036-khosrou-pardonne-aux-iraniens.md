@@ -11,7 +11,7 @@ order: '036'
 
 Lorsque le soleil au visage d’or se leva au-dessus de la montagne, et que la nuit sombre s’enfuit, on entendit un bruit sous la porte du palais, Rustem se présenta devant le roi et lui dit:
 
-> Ô roi glorieux, le trône, la couronne et le sceau sont fiers de toi.
+> Ô roi glorieux, le trône, la couronne et le sceau sont fiers de toi.
 >
 > Le roi est courroucé contre Thous et son armée, qu’il m’accorde leur grâce quelle que soit leur faute.
 >
@@ -43,7 +43,7 @@ Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se ha�
 
 > Puisses-tu vivre heureux jusqu’à la fin des temps!
 >
-> Puisse la terre être la base de ton trône et de ta couronne, et le firmament la source de ta gloire et de ta fortune!
+> Puisse la terre être la base de ton trône et de ta couronne, et le firmament la source de ta gloire et de ta fortune!
 >
 > Mon cœur est plein de soucis de ce que j’ai fait, il est brisé par la douleur et l’anxiété;
 >
@@ -57,6 +57,6 @@ Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se ha�
 >
 > Je réserverai pour moi toutes les fatigues de l’armée, indifférent à sauver ou à sacrifier ma vie.
 >
-> Dorénavant je n’ambitionnerai plus le trône et le diadème, et ma tête ne se couvrira que d’un casque de la Chine.
+> Dorénavant je n’ambitionnerai plus le trône et le diadème, et ma tête ne se couvrira que d’un casque de la Chine.
 
 Le roi agréa ses paroles, son cœur reverdit comme la rose au printemps, et il passa toute la nuit à tenir conseil avec Tehemten et les grands et les héros.

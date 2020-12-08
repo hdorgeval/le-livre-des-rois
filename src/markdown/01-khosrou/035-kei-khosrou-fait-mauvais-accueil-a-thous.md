@@ -23,7 +23,7 @@ Ils arrivèrent devant lui le cœur déchiré, les mains croisées, humbles comm
 
 Il adressa à Dieu ces paroles:
 
-> Ô dispensateur de la justice, tu m’as donné le trône, le bonheur et la bravoure, et maintenant je parais devant toi couvert de honte.
+> Ô dispensateur de la justice, tu m’as donné le trône, le bonheur et la bravoure, et maintenant je parais devant toi couvert de honte.
 >
 > Mais tu connais mieux que moi le temps et la raison des événements;
 >

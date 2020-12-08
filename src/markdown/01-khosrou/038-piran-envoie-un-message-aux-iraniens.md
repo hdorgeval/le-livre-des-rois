@@ -23,7 +23,7 @@ Il partit avec ses guerriers renommés, avec ses cavaliers braves et choisis, en
 >
 > Combien de héros compte-t-elle? et qui accompagne Thous?
 
-Il rangea son armée sur la rive orientale du fleuve et fit saluer Thous, qui de son côté amena ses troupes, l’étendard impérial, les éléphants et les timbales.
+Il rangea son armée sur la rive orientale du fleuve et fit saluer Thous, qui de son côté amena ses troupes, l’étendard impérial, les éléphants et les timbales.
 
 Piran envoya auprès de lui un Turc aux paroles douces et lui fit dire:
 
@@ -55,6 +55,6 @@ Piran répondit:
 >
 > Je partirai et ferai passer dans l’Iran mes alliés, tous ceux qui auront assez de sens pour m’écouter, tous mes parents et tous mes biens;
 >
-> Car ma tête vaut mieux qu’un trône et une couronne.
+> Car ma tête vaut mieux qu’un trône et une couronne.
 
 Mais ces paroles étaient loin de sa pensée; il ne cherchait qu’un moyen de ramener la fortune.

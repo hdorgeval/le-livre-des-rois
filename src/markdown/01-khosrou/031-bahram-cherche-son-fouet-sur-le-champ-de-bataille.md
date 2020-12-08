@@ -79,7 +79,7 @@ Or un de ces illustres cavaliers était blessé d’un coup d’épée, mais sa 
 >
 > Je soupire après une couche pour y dormir.
 
-Bahram courut à lui, car il était son frère et son ami de cœur; il s’approcha de lui en se lamentant, s’assit à côté de lui, déchira sa tunique et pansa ses blessures, disant:
+Bahram courut à lui, car il était son frère et son ami de cœur; il s’approcha de lui en se lamentant, s’assit à côté de lui, déchira sa tunique et pansa ses blessures, disant:
 
 > Ne sois pas inquiet, ce n’est qu’une blessure, et ta faiblesse vient de ce que tu n’as pas été pansé;
 >
@@ -91,23 +91,23 @@ Ensuite il dit au blessé:
 
 > Ô jeune homme, attends plutôt que je revienne, je me hâterai;
 >
-> J’ai perdu un fouet sur ce champ de bataille pendant que je m’occupais de la couronne de Rivniz, et aussitôt que je l’aurai retrouvé, je partirai avec toi et te ramènerai sans délai à notre armée.
+> J’ai perdu un fouet sur ce champ de bataille pendant que je m’occupais de la couronne de Rivniz, et aussitôt que je l’aurai retrouvé, je partirai avec toi et te ramènerai sans délai à notre armée.
 
 Il s’avança alors rapidement vers l’endroit où avait été le centre de l’armée, et chercha jusqu’à ce qu’il eut retrouvé, au milieu d’un amas de blessés, son fouet souillé de sang et de poussière.
 
 Il mit pied à terre et le saisit;
 
-Mais dans ce moment des chevaux se mirent à hennir, le destrier de Bahram entendit et sentit des juments, il s’enflamma comme Adergouschasp, tourna la tête du côté des juments et partit.
+Mais dans ce moment des chevaux se mirent à hennir, le destrier de Bahram entendit et sentit des juments, il s’enflamma comme Adergouschasp, tourna la tête du côté des juments et partit.
 
 Bahram en fut consterné!
 
 Il le suivit et courut couvert de son casque et de sa cuirasse et inondé de sueur, jusqu’à ce qu’il l’eût atteint;
 
-Il le saisit et monta dessus aussitôt, une épée indienne à la main.
+Il le saisit et monta dessus aussitôt, une épée indienne à la main.
 
 Il le pressa des jambes, mais le cheval ne fit pas un pas en avant.
 
-Le cavalier et la monture furent bientôt couverts de poussière et inondés de sueur; et à la fin Bahram tomba dans un tel désespoir qu’il donna à son cheval un coup d’épée sur la tête et le tua.
+Le cavalier et la monture furent bientôt couverts de poussière et inondés de sueur; et à la fin Bahram tomba dans un tel désespoir qu’il donna à son cheval un coup d’épée sur la tête et le tua.
 
 Ensuite il s’en retourna sur le champ de bataille en marchant rapidement comme le vent.
 
@@ -123,4 +123,4 @@ Il était déterminé à tenir aussi longtemps qu’il aurait un trait à plac
 
 Il blessa et tua un grand nombre de Turcs, et ne céda ni ne s’enfuit, quoiqu’il fût à pied.
 
-Les cavaliers se retirèrent et retournèrent auprès de Piran; et Bahram, aussitôt que ses ennemis eurent disparu, s’occupa à réunir de tous côtés une grande quantité de flèches.
+Les cavaliers se retirèrent et retournèrent auprès de Piran; et Bahram, aussitôt que ses ennemis eurent disparu, s’occupa à réunir de tous côtés une grande quantité de flèches.

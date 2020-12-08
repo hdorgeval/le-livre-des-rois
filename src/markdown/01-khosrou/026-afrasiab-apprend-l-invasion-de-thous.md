@@ -33,7 +33,7 @@ Tejaou se présenta devant Afrasiab les yeux inondés de larmes de douleur, et l
 
 Afrasiab fut consterné de ces paroles, et se mit à chercher un remède à ces maux; il dit à Piran fils de Wiseh:
 
-> Je t’avais ordonné de rassembler de tous côtés une armée!
+> Je t’avais ordonné de rassembler de tous côtés une armée!
 >
 > Mais ta paresse, ta vieillesse, ta folie et ta lenteur t’ont fait perdre du temps! de sorte qu’un grand nombre de mes parents et alliés sont tombés entre les mains de l’ennemi, et que l’étoile de beaucoup de braves s’est obscurcie.
 >
