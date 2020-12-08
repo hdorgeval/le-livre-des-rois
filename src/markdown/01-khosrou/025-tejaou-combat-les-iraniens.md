@@ -77,17 +77,17 @@ Le rusé Tejaou répondit:
 >
 > Je possède des chevaux, des troupeaux et une armée;
 >
-> Mon maître est Afrasiab, un roi tel que les Iraniens n’en ont pas vu de pareil, même en rêve;
+> Mon maître est Afrasiab, un roi tel que les Iraniens n’en ont pas vu de pareil, même en rêve;
 >
 > J’ai des esclaves et des chevaux aux pieds de vent qui errent librement dans la plaine de Guirauguird.
 >
 > Ne regarde pas le petit nombre de mes braves, regarde-moi avec ma massue et mon destrier.
 >
-> Je traiterai aujourd’hui votre armée de manière à vous faire repentir d’être venus ici.
+> Je traiterai aujourd’hui votre armée de manière à vous faire repentir d’être venus ici.
 
 Là-dessus Bijen dit à son noble père:
 
-> Ô illustre héros, toujours prêt pour le combat! ô prudent Pehlewan qui portes haut la tête! tu n’es plus dans ta vieillesse ce que tu étais dans ta jeunesse;
+> Ô illustre héros, toujours prêt pour le combat! ô prudent Pehlewan qui portes haut la tête! tu n’es plus dans ta vieillesse ce que tu étais dans ta jeunesse;
 >
 > Pourquoi donner tous ces conseils à Tejaou?
 >
@@ -103,7 +103,7 @@ A l’avant-garde se battait l’ardent Bijen, qui n’était jamais en retard q
 
 Dans les rangs opposés était Tejaou, qui portait sur la tête sa couronne et qui aurait lutté contre un lion féroce; il était entouré de guerriers, tels qu’Arjeng et Murdoui le lion, qui n’étaient jamais las de combats.
 
-Mais bientôt Arjeng lui-même se retira tout découragé; deux tiers de l’armée des Touraniens furent tués, et la fortune abandonna le vindicatif Tejaou.
+Mais bientôt Arjeng lui-même se retira tout découragé; deux tiers de l’armée des Touraniens furent tués, et la fortune abandonna le vindicatif Tejaou.
 
 Il s’enfuit, et Bijen le glorieux lion le suivit en poussant des cris, en bouillant de rage, en brandissant sa lance: tu aurais dit que c’était un éléphant furieux.
 
@@ -111,7 +111,7 @@ Sa lance atteignit Tejaou au milieu du corps et il le priva de toute sa force;
 
 Le Touranien chancela, sa cuirasse de Roum fut ébranlée et les boutons s’ouvrirent.
 
-Lorsque Bijen vit que son ennemi voulait se soustraire au combat, il jeta sa lance par terre, étendit la main comme un léopard dans la montagne étend sa griffe sur un bélier sauvage; et semblable à un vautour qui saisit une alouette, il arracha à Tejaou cette couronne qu’Afrasiab avait mise sur sa tête en vantant sa sagesse et sa haute naissance.
+Lorsque Bijen vit que son ennemi voulait se soustraire au combat, il jeta sa lance par terre, étendit la main comme un léopard dans la montagne étend sa griffe sur un bélier sauvage; et semblable à un vautour qui saisit une alouette, il arracha à Tejaou cette couronne qu’Afrasiab avait mise sur sa tête en vantant sa sagesse et sa haute naissance.
 
 Tejaou, suivi par Bijen qui ressemblait à Adergouschasp, poussa son cheval vers la porte de son château;
 
@@ -125,9 +125,9 @@ Mais lorsqu’il en fut tout près, Ispenoui se présenta devant lui, le visage 
 >
 > Permets-moi de monter derrière toi, et ne me laisse pas sur la route, livrée aux ennemis.
 
-L’orgueilleux Tejaou fut saisi de honte, ses joues brûlèrent comme le feu. Il s’approcha d’elle, la fit monter devant lui sur son cheval, et lui en mit les rênes dans la main.
+L’orgueilleux Tejaou fut saisi de honte, ses joues brûlèrent comme le feu. Il s’approcha d’elle, la fit monter devant lui sur son cheval, et lui en mit les rênes dans la main.
 
-Lorsque cette belle qui portait haut la tête fut assise, Tejaou lui abandonna un de ses étriers pour stimuler le cheval; il courut comme un tourbillon de poussière, tenant Ispenoui devant lui et poursuivi par l’illustre Bijen, qui voulait le combattre.
+Lorsque cette belle qui portait haut la tête fut assise, Tejaou lui abandonna un de ses étriers pour stimuler le cheval; il courut comme un tourbillon de poussière, tenant Ispenoui devant lui et poursuivi par l’illustre Bijen, qui voulait le combattre.
 
 Pendant quelque temps le cheval de Tejaou soutint la course, mais à la fin l’homme et le cheval se trouvèrent également épuisés;
 
@@ -135,7 +135,7 @@ Tejaou dit alors à son esclave:
 
 > Ô ma belle compagne! le danger est devenu pressant, mon destrier est épuisé, derrière nous est l’ennemi, devant nous un ravin;
 >
-> Et quand même je pourrais toujours tenir Bijen à distance, je finirais par tomber entre les mains de l’ennemi.
+> Et quand même je pourrais toujours tenir Bijen à distance, je finirais par tomber entre les mains de l’ennemi.
 >
 > Mais toi, tu n’as pas un seul ennemi;
 >

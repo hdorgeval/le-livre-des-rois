@@ -53,7 +53,7 @@ Bahram répondit à Guiv:
 >
 > Vos paroles sont belles et séduisantes, mais il y va de l’honneur de mon nom;
 >
-> Je rapporterai donc mon fouet, ou je livrerai ma tête dans cette entreprise aux ciseaux de la mort.
+> Je rapporterai donc mon fouet, ou je livrerai ma tête dans cette entreprise aux ciseaux de la mort.
 
 Mais Dieu avait décidé du sort de Bahram autrement que celui-ci n’avait espéré, et toute la rotation du ciel lui était contraire.
 
@@ -97,7 +97,7 @@ Il s’avança alors rapidement vers l’endroit où avait été le centre de l
 
 Il mit pied à terre et le saisit;
 
-Mais dans ce moment des chevaux se mirent à hennir, le destrier de Bahram entendit et sentit des juments, il s’enflamma comme Adergouschasp, tourna la tête du côté des juments et partit.
+Mais dans ce moment des chevaux se mirent à hennir, le destrier de Bahram entendit et sentit des juments, il s’enflamma comme Adergouschasp, tourna la tête du côté des juments et partit.
 
 Bahram en fut consterné!
 
@@ -107,7 +107,7 @@ Il le saisit et monta dessus aussitôt, une épée indienne à la main.
 
 Il le pressa des jambes, mais le cheval ne fit pas un pas en avant.
 
-Le cavalier et la monture furent bientôt couverts de poussière et inondés de sueur; et à la fin Bahram tomba dans un tel désespoir qu’il donna à son cheval un coup d’épée sur la tête et le tua.
+Le cavalier et la monture furent bientôt couverts de poussière et inondés de sueur; et à la fin Bahram tomba dans un tel désespoir qu’il donna à son cheval un coup d’épée sur la tête et le tua.
 
 Ensuite il s’en retourna sur le champ de bataille en marchant rapidement comme le vent.
 

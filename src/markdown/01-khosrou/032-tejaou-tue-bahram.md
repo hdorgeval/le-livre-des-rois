@@ -31,9 +31,9 @@ Piran dit alors à Rouïn:
 
 Rouïn écouta ces paroles et partit à l’instant sans faire beaucoup de cas de cet adversaire.
 
-Quand le lion Bahram vit s’avancer contre lui une nouvelle troupe qui obscurcissait le soleil et la lune, il s’assit sur les flèches qu’il avait amassées et se couvrit la tête de son bouclier, à l’abri duquel il tira de l’arc;
+Quand le lion Bahram vit s’avancer contre lui une nouvelle troupe qui obscurcissait le soleil et la lune, il s’assit sur les flèches qu’il avait amassées et se couvrit la tête de son bouclier, à l’abri duquel il tira de l’arc;
 
-Il lança sur ses ennemis une grêle de flèches qui interceptaient les rayons de la lune.
+Il lança sur ses ennemis une grêle de flèches qui interceptaient les rayons de la lune.
 
 Rouïn voyant cela, s’enfuit;
 
@@ -59,7 +59,7 @@ Il s’approcha de Bahram et lui dit:
 >
 > Asseyons-nous au banquet, et contractons amitié.
 >
-> Il ne faut pas qu’on jette dans la poussière la tête d’un homme de si haute naissance, d’un lion et d’un brave comme toi;
+> Il ne faut pas qu’on jette dans la poussière la tête d’un homme de si haute naissance, d’un lion et d’un brave comme toi;
 >
 > Il ne faut pas que ta famille et ton pays aient à te pleurer.
 >
@@ -89,11 +89,11 @@ Piran lui dit:
 >
 > Trop d’hommes d’illustre naissance, trop de princes et de guerriers ont été blessés par tes flèches dans ce combat inattendu;
 >
-> Et qui de nous passera dorénavant la frontière de l’lran sans que sa tête et son sang bouillonnent?
+> Et qui de nous passera dorénavant la frontière de l’lran sans que sa tête et son sang bouillonnent?
 >
 > Et pourtant si je ne craignais la colère d’Afrasiab, que cela remplirait de courroux, je te donnerais un cheval, ô jeune homme, pour te porter auprès du Pehlewan.
 
-Piran dit, partit et s’en retourna le cœur plein de tendresse pour Bahram, mais la tête remplie de prudence.
+Piran dit, partit et s’en retourna le cœur plein de tendresse pour Bahram, mais la tête remplie de prudence.
 
 Il rencontra près du camp Tejaou, qui s’avança vers lui, avide de vengeance et de combats, et lui demanda ce qu’il avait fait.
 
@@ -109,7 +109,7 @@ Le vaillant Tejaou dit à Piran:
 
 > Ton âme est tendre, mais elle n’est pas forte;
 >
-> Je marche contre lui, et quand même il me faudrait le combattre à pied, je l’aurai bientôt mis dans son tombeau.
+> Je marche contre lui, et quand même il me faudrait le combattre à pied, je l’aurai bientôt mis dans son tombeau.
 
 Tejaou courut en toute hâte vers le champ de bataille, où il trouva le héros Bahram sans cortège.
 
@@ -119,7 +119,7 @@ Aussitôt qu’il l’aperçut une lance en main, il poussa un cri comme un é
 >
 > Tu voudrais retourner dans l’lran;
 >
-> Tu voudrais de nouveau porter haut la tête;
+> Tu voudrais de nouveau porter haut la tête;
 >
 > Tu as tué nos chefs, et il faut que tu restes ici, car ton heure va venir.
 
@@ -137,4 +137,4 @@ Au milieu de cette lutte, le Pehlewan fut blessé; et Tejaou le voyant privé de
 
 Le vaillant Bahram tomba le visage contre terre, son bras qui tenait l’épée était abattu, il ne pouvait plus combattre, et tout était fini pour lui.
 
-Son cruel ennemi lui-même en eut pitié, et sa joue se couvrit de rougeur comme d’une flamme subite; il détourna la tête, affligé et honteux, et son sang échauffé bouillonnait dans son cœur.
+Son cruel ennemi lui-même en eut pitié, et sa joue se couvrit de rougeur comme d’une flamme subite; il détourna la tête, affligé et honteux, et son sang échauffé bouillonnait dans son cœur.

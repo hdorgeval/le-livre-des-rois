@@ -9,7 +9,7 @@ order: '034'
 
 # Les Iraniens reviennent auprès de Khosrou
 
-Lorsque le soleil eut levé sa tête brillante au-dessus de la montagne, et que la couronne du jour lumineux eut paru, l’armée, qui avait été dispersée, se réunit, et les braves se dirent entre eux:
+Lorsque le soleil eut levé sa tête brillante au-dessus de la montagne, et que la couronne du jour lumineux eut paru, l’armée, qui avait été dispersée, se réunit, et les braves se dirent entre eux:
 
 > Les Iraniens ont fait de si grandes pertes, la fortune du roi a été si entièrement éclipsée, la main des Turcs a été si victorieuse dans la bataille, que l’armée ne peut plus tenir la campagne;
 >
@@ -29,7 +29,7 @@ Ils se dirigèrent vers le Kasehroud, en disant adieu à ceux qui étaient mort
 
 Une ronde sortit du camp des Turcs, et ne trouvant personne dans le camp iranien, elle fit savoir sur-le-champ à Piran que les Iraniens avaient disparu.
 
-Aussitôt que le Sipehbed Piran eut reçu cette nouvelle, il envoya en secret de tous côtés des espions, et lorsqu’il se fut assuré que ces guerriers, qui portaient si haut la tête, s’étaient retirés, son cœur se sentit délivré de tout souci.
+Aussitôt que le Sipehbed Piran eut reçu cette nouvelle, il envoya en secret de tous côtés des espions, et lorsqu’il se fut assuré que ces guerriers, qui portaient si haut la tête, s’étaient retirés, son cœur se sentit délivré de tout souci.
 
 Il se mit en marche avec son armée de grand matin, et fit le tour du camp;
 
@@ -45,7 +45,7 @@ Passons donc nos jours en tenant en main la coupe qui illumine le monde.
 
 Piran envoya pendant le temps du sommeil un dromadaire pour porter à Afrasiab cette nouvelle, qui combla de joie le roi et le délivra de ses sollicitudes et de ses peines;
 
-Toute l’armée partagea son bonheur; les braves élevèrent des pavillons sur la route, couvrirent d’étoffes les terrasses et les portes, et répandirent des pièces d’argent sur la tête de Piran.
+Toute l’armée partagea son bonheur; les braves élevèrent des pavillons sur la route, couvrirent d’étoffes les terrasses et les portes, et répandirent des pièces d’argent sur la tête de Piran.
 
 Lorsque celui-ci s’approcha de la ville royale, Afrasiab alla au-devant de lui avec un grand cortège et le bénit en disant:
 

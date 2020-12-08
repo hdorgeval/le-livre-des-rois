@@ -90,7 +90,7 @@ A ces paroles Thous versa des larmes, et répondit en oubliant son courroux et s
 
 Ensuite il fit construire un mausolée royal sur le sommet de la montagne;
 
-On y plaça Firoud assis sur son trône d’or, vêtu de brocart d’or, ceint d’une ceinture royale, paré de ses insignes de roi;
+On y plaça Firoud assis sur son trône d’or, vêtu de brocart d’or, ceint d’une ceinture royale, paré de ses insignes de roi;
 
 On demanda de l’eau de rose, du musc, du camphre et du vin;
 

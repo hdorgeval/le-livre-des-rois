@@ -57,7 +57,7 @@ Feribourz fils de Kaous, entouré de ses braves et suivi par son drapeau, se ten
 >
 > Sinon nos massues et nos casques de Roum riraient de notre honte à tout jamais.
 
-Les Iraniens firent pleuvoir une grêle de traits semblable à une pluie d’automne qui tombe sur les arbres;
+Les Iraniens firent pleuvoir une grêle de traits semblable à une pluie d’automne qui tombe sur les arbres;
 
 Aucun oiseau n’aurait osé voler au-dessus des combattants à travers cette multitude de flèches et de massues, à travers la poussière que soulevait l’armée et au milieu de laquelle on voyait briller comme des flammes les épées moirées: tu aurais dit que les cœurs des braves étaient des étoiles.
 
@@ -83,7 +83,7 @@ Ils se jetèrent sur le centre et sur Feribourz fils de Kaous;
 
 Le Pehlewan de l’armée s’enfuit devant Houman, et la ligne de bataille des Iraniens fut rompue.
 
-Les fiers guerriers abandonnèrent alors leur position; livrés à eux-mêmes, ils n’obéirent plus à personne; ils cédèrent à l’ennemi le terrain qu’ils avaient occupé, et toute résistance cessa du côté des Iraniens.
+Les fiers guerriers abandonnèrent alors leur position; livrés à eux-mêmes, ils n’obéirent plus à personne; ils cédèrent à l’ennemi le terrain qu’ils avaient occupé, et toute résistance cessa du côté des Iraniens.
 
 On ne voyait plus à leur place les timbales et l’étendard, et les visages des braves pâlissaient en voyant la tournure que prenait la bataille;
 
@@ -99,11 +99,11 @@ Il n’y avait plus alors que Gouderz et Guiv qui, entourés d’un grand nombre
 
 Lorsque Gouderz fils de Keschwad vit que le drapeau de Feribourz fils de Kaous ne se trouvait plus au centre de l’armée, lorsqu’il vit que les héros avaient disparu, son cœur s’enflamma comme le feu.
 
-Il tourna les rênes pour s’enfuir, et les cavaliers de sa famille firent entendre un cri de terreur.
+Il tourna les rênes pour s’enfuir, et les cavaliers de sa famille firent entendre un cri de terreur.
 
 Guiv lui dit:
 
-> Ô vieux Sipehdar! toi qui as vu tant de massues et de flèches, si tu t’enfuis devant Piran, il faudra que je me couvre la tête de poussière.
+> Ô vieux Sipehdar! toi qui as vu tant de massues et de flèches, si tu t’enfuis devant Piran, il faudra que je me couvre la tête de poussière.
 >
 > Ni les héros, ni les grands pleins d’expérience ne vivront toujours.
 >
@@ -121,11 +121,11 @@ Guiv lui dit:
 >
 > Perçons donc avec nos épées le cœur de nos ennemis, et si une montagne se trouve devant nous, arrachons-la de sa base.
 
-Lorsque Gouderz entendit les paroles de Guiv, lorsqu’il regarda les têtes et les casques des vaillants membres de sa famille, il eut honte de son prudent projet et se raffermit aussitôt sur ses étriers.
+Lorsque Gouderz entendit les paroles de Guiv, lorsqu’il regarda les têtes et les casques des vaillants membres de sa famille, il eut honte de son prudent projet et se raffermit aussitôt sur ses étriers.
 
 Gourazeh, Kustehem, Barteh et le brave Zengueh sortirent des rangs et firent un serment solennel et inviolable, disant:
 
-> Nous ne quitterons pas ce champ de bataille, quand même les coups de massue feraient couler notre sang par torrents;
+> Nous ne quitterons pas ce champ de bataille, quand même les coups de massue feraient couler notre sang par torrents;
 >
 > Nous nous placerons dos à dos pour reconquérir notre gloire perdue.
 
@@ -135,13 +135,13 @@ Beaucoup de Touraniens illustres tombèrent, et le sort paraissait tourner contr
 
 Le vieux Gouderz dit alors à Bijen:
 
-> Pars avec ta massue et tes flèches, tourne la bride de ton cheval vers Feribourz et apporte-moi le drapeau de Kaweh; et si Feribourz lui-même veut l’accompagner, il fera pâlir les joues de ses ennemis.
+> Pars avec ta massue et tes flèches, tourne la bride de ton cheval vers Feribourz et apporte-moi le drapeau de Kaweh; et si Feribourz lui-même veut l’accompagner, il fera pâlir les joues de ses ennemis.
 
 Bijen l’écouta, lança son cheval, courut semblable à Adergouschasp auprès de Feribourz, et lui dit:
 
 > Pourquoi te caches-tu ici?
 >
-> Secoue les rênes de ton cheval comme un brave, et ne reste pas plus longtemps sur cette montagne.
+> Secoue les rênes de ton cheval comme un brave, et ne reste pas plus longtemps sur cette montagne.
 >
 > Si tu ne veux pas venir, donne-moi ton drapeau et tes cavaliers armés d’épées d’acier.
 
@@ -155,7 +155,7 @@ Ces paroles de Bijen ne rappelèrent pas Feribourz à la raison, il poussa un c
 
 Bijen tira une épée d’acier et en frappa soudain la hampe de l’étendard de Kaweh, la coupa en deux, saisit la moitié supérieure et partit pour rejoindre les siens.
 
-Lorsque les Turcs le virent venir avec le drapeau, un grand nombre de braves au cœur de lion, tous avides de combats, se jetèrent au-devant de lui, en apprêtant leurs massues et en tirant leurs épées pour lui disputer le drapeau de Kaweh.
+Lorsque les Turcs le virent venir avec le drapeau, un grand nombre de braves au cœur de lion, tous avides de combats, se jetèrent au-devant de lui, en apprêtant leurs massues et en tirant leurs épées pour lui disputer le drapeau de Kaweh.
 
 Houman leur dit:
 
@@ -175,11 +175,11 @@ Bijen y arriva comme un lion féroce, tenant en main le drapeau de Kaweh, autour
 
 Ils s’ébranlèrent encore une fois et recommencèrent la lutte sur ce champ de bataille;
 
-Rivniz, qui était cher à Kaous comme sa vie, fut tué à la tête de l’armée;
+Rivniz, qui était cher à Kaous comme sa vie, fut tué à la tête de l’armée;
 
 C’était un prince qui portait une couronne, le fils puîné du roi; c’était l’âme de son père et le favori de Feribourz.
 
-Sa tête et sa couronne roulèrent dans la poussière, et plusieurs d’entre les grands déchirèrent leurs vêtements; mais Guiv s’écria à haute voix :
+Sa tête et sa couronne roulèrent dans la poussière, et plusieurs d’entre les grands déchirèrent leurs vêtements; mais Guiv s’écria à haute voix :
 
 > Ô illustres héros, ô vaillants guerriers! personne dans notre camp n’était aussi honoré que lui de Feribourz fils de Kaous;
 >
@@ -189,7 +189,7 @@ Sa tête et sa couronne roulèrent dans la poussière, et plusieurs d’entre l
 >
 > Si nous laissons entre les mains de l’ennemi la couronne de ce jeune roi, nous serons couverts de honte;
 >
-> Et pourtant, si je me jette au milieu de cette mêlée, les rangs des Iraniens seront rompus.
+> Et pourtant, si je me jette au milieu de cette mêlée, les rangs des Iraniens seront rompus.
 >
 > Mais il ne faut pas que cette couronne royale demeure au pouvoir des Turcs sur ce champ de bataille;
 >
@@ -207,7 +207,7 @@ Les Iraniens furent remplis de joie de ce que ce jeune héros avait rapporté la
 
 Mais la bataille devint de plus en plus furieuse, et personne n’abandonna son poste.
 
-Les combattants se jetaient sans cesse les uns sur les autres; ils se frappaient à la tête, et continuèrent ainsi jusqu’à la nuit, où les ténèbres ne laissaient plus rien distinguer.
+Les combattants se jetaient sans cesse les uns sur les autres; ils se frappaient à la tête, et continuèrent ainsi jusqu’à la nuit, où les ténèbres ne laissaient plus rien distinguer.
 
 Il ne restait alors en vie que sept membres de la famille de Gouderz, tous les autres gisaient sur le champ de bataille;
 
@@ -233,7 +233,7 @@ Lorsque le jour fut tombé et la nuit venue, Bijen l’atteignit et lui dit:
 
 et tous les deux continuèrent leur route sur le destrier de Bijen.
 
-Quand le jour eut entièrement fait place aux ténèbres, tous les Iraniens qui avaient échappé à la bataille se dirigèrent en fuyant vers le pied des montagnes, pendant que les cavaliers turcs, le cœur en joie et délivrés de leur détresse et de leurs inquiétudes, rentrèrent dans leur camp, remplis de fierté et prêts à recommencer le combat.
+Quand le jour eut entièrement fait place aux ténèbres, tous les Iraniens qui avaient échappé à la bataille se dirigèrent en fuyant vers le pied des montagnes, pendant que les cavaliers turcs, le cœur en joie et délivrés de leur détresse et de leurs inquiétudes, rentrèrent dans leur camp, remplis de fierté et prêts à recommencer le combat.
 
 Dans le camp iranien on n’entendait que des cris, et les oreilles étaient assourdies par les plaintes et les gémissements;
 

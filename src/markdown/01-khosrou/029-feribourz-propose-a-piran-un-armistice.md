@@ -58,7 +58,7 @@ Piran lui répondit:
 >
 > Combien d’hommes n’a-t-il pas tués, combien n’en a-t-il pas emmenés en captivité, sans s’inquiéter du bonheur ou du malheur de ce pays!
 >
-> Aujourd’hui vous êtes punis de ces méfaits, quoique vous nous ayez attaqués à l’improviste.
+> Aujourd’hui vous êtes punis de ces méfaits, quoique vous nous ayez attaqués à l’improviste.
 >
 > Maintenant si tu es le Pehlewan de cette armée, demande-moi ce que je puis t’accorder dans ma position.
 >

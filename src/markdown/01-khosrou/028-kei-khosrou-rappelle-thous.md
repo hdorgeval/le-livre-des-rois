@@ -108,7 +108,7 @@ Thous fit apporter le noble drapeau, les timbales et les bottines d’or, et ame
 >
 > Puisse ta fortune rester toujours victorieuse!
 >
-> Puisse ta vie être un Nourouz continuel!
+> Puisse ta vie être un Nourouz continuel!
 
 Thous partit avec les cavaliers ardents et vaillants au combat, qui appartenaient à la famille de Newder; il ne s’arrêta pas sur la route et s’en retourna du théâtre de la guerre auprès du roi; il baisa la terre devant Khosrou, qui ne daigna pas jeter un regard sur lui, et qui à la fin ouvrit la bouche pour l’injurier, et l’humilia devant toute la cour, en disant:
 

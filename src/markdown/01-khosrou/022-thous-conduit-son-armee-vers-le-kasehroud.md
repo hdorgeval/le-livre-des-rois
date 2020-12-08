@@ -59,7 +59,7 @@ Bijen lui dit:
 
 > Ne me couvre donc pas de honte devant le roi du monde dans cette affaire.
 >
-> Prête-moi, pour ce combat, l’armure de Siawusch, et tu verras un léopard saisir sa proie.
+> Prête-moi, pour ce combat, l’armure de Siawusch, et tu verras un léopard saisir sa proie.
 
 Guiv lui remit la cette de mailles qu’il demandait, et Bijen en ferma soigneusement les boucles;
 

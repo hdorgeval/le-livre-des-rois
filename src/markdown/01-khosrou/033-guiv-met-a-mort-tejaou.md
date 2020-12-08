@@ -31,25 +31,25 @@ Il dit à Guiv:
 >
 > C’est l’injuste Tejaou qui m’a blessé, qui n’a eu égard ni à ma naissance ni à mon rang.
 
-A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
+A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
 
 Il remonta sur-le-champ à cheval, le cœur rempli de douleur et de vengeance, et s’arma d’une épée indienne.
 
 A la nuit tombante, Tejaou parut faisant sa ronde;
 
-Le vaillant Guiv le vit de loin, il secoua les rênes de son cheval, et respira plus librement quand il reconnut que son ennemi s’était écarté de l’armée, et qu’il était loin des braves qui portaient haut la tête.
+Le vaillant Guiv le vit de loin, il secoua les rênes de son cheval, et respira plus librement quand il reconnut que son ennemi s’était écarté de l’armée, et qu’il était loin des braves qui portaient haut la tête.
 
 Il détacha du crochet de la selle son lacet roulé, et prit soudain le corps de Tejaou dans le nœud.
 
 Il le tira à lui avec force en faisant volte-face, l’arracha de la selle, le jeta par terre misérablement, descendit de cheval, et lui lia les mains.
 
-Ensuite il remonta à cheval, et le traîna après lui comme un être inanimé.
+Ensuite il remonta à cheval, et le traîna après lui comme un être inanimé.
 
 Tejaou le supplia en disant:
 
 > Ô héros! je suis épuisé; qu’ai-je fait, pour que de toute cette armée innombrable ce soit moi sur qui tes yeux tombent dans cette nuit sombre?
 
-Mais Guiv lui donna avec son fouet deux cents coups sur la tête et lui dit:
+Mais Guiv lui donna avec son fouet deux cents coups sur la tête et lui dit:
 
 > Ce n’est pas le moment de parler!
 >
@@ -75,7 +75,7 @@ Guiv continua à le traîner après lui, et arrivé auprès de Bahram le lion 
 
 Tejaou les implora; il leur demanda grâce de la vie en disant:
 
-> Quand même j’aurais fait ce dont tu m’accuses, à quoi servirait-il de me trancher la tête avec l’épée?
+> Quand même j’aurais fait ce dont tu m’accuses, à quoi servirait-il de me trancher la tête avec l’épée?
 >
 > Je serai ton esclave, je serai le serviteur de ta famille.
 
@@ -85,11 +85,11 @@ Bahram dit à Guiv:
 >
 > Mais quoique Tejaou m’ait blessé, il ne faut pas qu’il boive pour cela le poison de la mort.
 >
-> Ne lui arrache pas sa tête coupable, laisse-le vivre pour qu’il fasse vivre ma mémoire dans le monde.
+> Ne lui arrache pas sa tête coupable, laisse-le vivre pour qu’il fasse vivre ma mémoire dans le monde.
 
 Mais Guiv regarda son frère, si grièvement blessé;
 
-Il regarda Tejaou le cruel, lié de cordes, et il poussa un cri de rage, le saisit à la barbe et lui trancha la tête comme à une alouette.
+Il regarda Tejaou le cruel, lié de cordes, et il poussa un cri de rage, le saisit à la barbe et lui trancha la tête comme à une alouette.
 
 A cette vue, le vaillant Bahram s’écria d’une voix telle que personne n’en a jamais entendu de semblable:
 
@@ -97,15 +97,15 @@ A cette vue, le vaillant Bahram s’écria d’une voix telle que personne n’e
 
 Et en prononçant ces paroles, il mourut.
 
-Telle est la manière d’agir et la nature du monde, que quiconque cherche à saisir les rênes du pouvoir doit avant tout tremper ses mains dans le sang;
+Telle est la manière d’agir et la nature du monde, que quiconque cherche à saisir les rênes du pouvoir doit avant tout tremper ses mains dans le sang;
 
 Il faut qu’il tue, ou qu’il se laisse tuer douloureusement.
 
 Ne cherche donc pas, autant que tu pourras, à jouer un rôle dans le monde.
 
-Guiv se plaça devant lui, poussa des cris de douleur, et se couvrit la tête de poussière noire;
+Guiv se plaça devant lui, poussa des cris de douleur, et se couvrit la tête de poussière noire;
 
-Il lia, en se lamentant, le corps de Bahram sur le cheval de Tejaou, le confia à Bijen, et monta lui-même à cheval.
+Il lia, en se lamentant, le corps de Bahram sur le cheval de Tejaou, le confia à Bijen, et monta lui-même à cheval.
 
 L’ayant ramené du champ de bataille, il lui construisit un mausolée à la manière des Iraniens, remplit son crâne de musc et d’ambre, enveloppa
 son corps avec de la soie de la Chine, le plaça sur un trône d’ivoire, comme on place les rois, et suspendit sa couronne au-dessus de lui;

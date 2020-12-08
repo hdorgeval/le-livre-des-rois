@@ -15,9 +15,9 @@ Le roi du monde leur dit:
 
 > La trace de la vengeance ne s’efface pas, et l’on ne cessera jamais de parler de Tour et de Selm, de cette lutte ancienne et de ces jours qui sont passés.
 >
-> Mais jamais roi d’Iran ne fut couvert de honte comme moi, jamais le monde ne fut inondé du sang des braves comme aujourd’hui: la montagne a revêtu une ceinture sanglante, colorée du sang des fils de Gouderz, et les oiseaux et les poissons dans la mer et dans les rivières les pleurent amèrement;
+> Mais jamais roi d’Iran ne fut couvert de honte comme moi, jamais le monde ne fut inondé du sang des braves comme aujourd’hui: la montagne a revêtu une ceinture sanglante, colorée du sang des fils de Gouderz, et les oiseaux et les poissons dans la mer et dans les rivières les pleurent amèrement;
 >
-> Tout le pays du Touran est couvert de têtes, de mains, de pieds, de dos et de troncs d’Iraniens.
+> Tout le pays du Touran est couvert de têtes, de mains, de pieds, de dos et de troncs d’Iraniens.
 >
 > Mais vos projets me rendent le bonheur, et mon cœur tressaille de joie à l’espoir de la vengeance.
 
@@ -25,7 +25,7 @@ Les braves se tenaient devant le roi au visage de soleil en croisant leurs mains
 
 Ils baisèrent tous la terre, Rehham, Gourguin, Gouderz, Thous, Kharrad, Zengueh fils de Schaweran, Bijen, Guiv et tous les grands, en disant:
 
-> Ô roi à l’étoile fortunée, au cœur de lion, et qui arrache le cœur aux lions avec ton épée, nous sommes tous tes esclaves, dans notre honte nous baissons la tête devant toi.
+> Ô roi à l’étoile fortunée, au cœur de lion, et qui arrache le cœur aux lions avec ton épée, nous sommes tous tes esclaves, dans notre honte nous baissons la tête devant toi.
 >
 > Si tu nous ordonnes de combattre, nous irons tous répandre notre vie sur le champ de bataille;
 >

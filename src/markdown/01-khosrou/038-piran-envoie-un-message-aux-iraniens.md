@@ -11,7 +11,7 @@ order: '038'
 
 Thous envoya de là auprès de Piran un messager rapide comme le vent et monté sur un dromadaire, et lui fit dire:
 
-> J’ai redressé ma tête pour le combat;
+> J’ai redressé ma tête pour le combat;
 >
 > Je suis arrivé en armes aux rives du Schahd.
 
@@ -55,6 +55,6 @@ Piran répondit:
 >
 > Je partirai et ferai passer dans l’Iran mes alliés, tous ceux qui auront assez de sens pour m’écouter, tous mes parents et tous mes biens;
 >
-> Car ma tête vaut mieux qu’un trône et une couronne.
+> Car ma tête vaut mieux qu’un trône et une couronne.
 
 Mais ces paroles étaient loin de sa pensée; il ne cherchait qu’un moyen de ramener la fortune.

@@ -15,7 +15,7 @@ Lorsque le soleil au visage d’or se leva au-dessus de la montagne, et que la n
 >
 > Le roi est courroucé contre Thous et son armée, qu’il m’accorde leur grâce quelle que soit leur faute.
 >
-> Lorsque Thous vit son fils et son gendre morts, la raison abandonna sa tête et son cœur.
+> Lorsque Thous vit son fils et son gendre morts, la raison abandonna sa tête et son cœur.
 >
 > Réfléchis d’abord que c’est un homme violent et dépourvu de prudence, ensuite que la vie d’un fils n’est pas une chose de peu de valeur.
 >
@@ -27,7 +27,7 @@ Lorsque le soleil au visage d’or se leva au-dessus de la montagne, et que la n
 >
 > N’abandonne donc pas ton âme à ces regrets.
 >
-> Que la vie s’envole d’elle-même ou qu’une main ennemie l’arrache, elle partirait quand même on ferait mille incantations.
+> Que la vie s’envole d’elle-même ou qu’une main ennemie l’arrache, elle partirait quand même on ferait mille incantations.
 
 Le roi lui répondit:
 
@@ -35,7 +35,7 @@ Le roi lui répondit:
 >
 > Mais je laisserai guérir mon âme par tes conseils, quoique mon cœur souffre cruellement.
 
-Alors le Sipehdar Thous s’avança pour demander pardon, et sa fière tête se courbait de peur.
+Alors le Sipehdar Thous s’avança pour demander pardon, et sa fière tête se courbait de peur.
 
 Le roi pardonna à l’armée, et les grands se retirèrent.
 
@@ -43,7 +43,7 @@ Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se ha�
 
 > Puisses-tu vivre heureux jusqu’à la fin des temps!
 >
-> Puisse la terre être la base de ton trône et de ta couronne, et le firmament la source de ta gloire et de ta fortune!
+> Puisse la terre être la base de ton trône et de ta couronne, et le firmament la source de ta gloire et de ta fortune!
 >
 > Mon cœur est plein de soucis de ce que j’ai fait, il est brisé par la douleur et l’anxiété;
 >
@@ -53,10 +53,10 @@ Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se ha�
 >
 > Je tremble en réfléchissant à mes actions, et ma vie ne vaut pas une obole au prix de celle de Bahram et de Rivniz.
 >
-> Mais si le roi veut me faire grâce à moi et à cette glorieuse et innocente armée, je partirai, je vengerai notre honte, je relèverai notre tête humiliée.
+> Mais si le roi veut me faire grâce à moi et à cette glorieuse et innocente armée, je partirai, je vengerai notre honte, je relèverai notre tête humiliée.
 >
 > Je réserverai pour moi toutes les fatigues de l’armée, indifférent à sauver ou à sacrifier ma vie.
 >
-> Dorénavant je n’ambitionnerai plus le trône et le diadème, et ma tête ne se couvrira que d’un casque de la Chine.
+> Dorénavant je n’ambitionnerai plus le trône et le diadème, et ma tête ne se couvrira que d’un casque de la Chine.
 
 Le roi agréa ses paroles, son cœur reverdit comme la rose au printemps, et il passa toute la nuit à tenir conseil avec Tehemten et les grands et les héros.
