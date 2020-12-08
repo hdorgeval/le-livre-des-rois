@@ -3,7 +3,22 @@ date: ''
 image: 'https://source.unsplash.com/UJSJQKfHXpY'
 landscape: 'https://source.unsplash.com/UJSJQKfHXpY'
 source: tome II - livre des rois - P. 546
-tags: []
+tags:
+  [
+    'Adergouschasp',
+    'Bahram',
+    'Dieu',
+    'Ferenguis',
+    'Gouderz',
+    'Guiv',
+    'Kaous',
+    'Pehlewan',
+    'Piran',
+    'Rivniz',
+    'Sipehdar',
+    'Touran',
+    'Turcs',
+  ]
 order: '031'
 ---
 

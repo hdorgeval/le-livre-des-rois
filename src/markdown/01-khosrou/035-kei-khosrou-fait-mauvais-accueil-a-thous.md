@@ -3,7 +3,30 @@ date: ''
 image: 'https://source.unsplash.com/o5VwDXtPN_E'
 landscape: 'https://source.unsplash.com/lk5MYKmGyFE'
 source: tome III - livre des rois - P. 002
-tags: []
+tags:
+  [
+    'Créateur',
+    'Dieu',
+    'Djerem',
+    'Feribourz',
+    'Firoud',
+    'Gouderz',
+    'Guiv',
+    'Iran',
+    'Kaous',
+    'Keïanide',
+    'Kelat',
+    'Keï',
+    'Khosrou',
+    'Meyem',
+    'Newder',
+    'Pehlewan',
+    'Rivniz',
+    'Rustem',
+    'Siawusch',
+    'Thous',
+    'Touran',
+  ]
 order: '035'
 ---
 

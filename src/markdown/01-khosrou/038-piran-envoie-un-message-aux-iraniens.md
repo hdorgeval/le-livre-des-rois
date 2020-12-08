@@ -3,7 +3,20 @@ date: ''
 image: 'https://source.unsplash.com/j07r5q4wh5s'
 landscape: 'https://source.unsplash.com/5HPyr6jk8Mk'
 source: tome III - livre des rois - P. 009
-tags: []
+tags:
+  [
+    'Ferenguis',
+    'Gouderz',
+    'Guiv',
+    'Iran',
+    'Piran',
+    'Schahd',
+    'Siawusch',
+    'Sipehbed',
+    'Thous',
+    'Turc',
+    'Wiseh',
+  ]
 order: '038'
 ---
 

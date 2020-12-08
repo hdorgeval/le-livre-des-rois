@@ -3,7 +3,31 @@ date: ''
 image: 'https://source.unsplash.com/FNVYos3W0AY'
 landscape: 'https://source.unsplash.com/sbyEMIcFx34'
 source: tome III - livre des rois - P. 007
-tags: []
+tags:
+  [
+    'Bahram',
+    'Bijen',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Iran',
+    'Iraniens',
+    'Kaweh',
+    'Keïanides',
+    'Keï',
+    'Kharrad',
+    'Khosrou',
+    'Rehham',
+    'Schahd',
+    'Schaweran',
+    'Selm',
+    'Sipehdar',
+    'Souvent',
+    'Thous',
+    'Tour',
+    'Touran',
+    'Zengueh',
+  ]
 order: '037'
 ---
 

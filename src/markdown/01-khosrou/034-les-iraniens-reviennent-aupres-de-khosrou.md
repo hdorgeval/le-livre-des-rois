@@ -3,7 +3,26 @@ date: ''
 image: 'https://source.unsplash.com/xRFgX9oHG8U'
 landscape: 'https://source.unsplash.com/xRFgX9oHG8U'
 source: tome II - livre des rois - P. 559
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Firoud',
+    'Iraniens',
+    'Kamous',
+    'Kasehroud',
+    'Keï',
+    'Khosrou',
+    'Khoten',
+    'Mobeds',
+    'Pehlewan',
+    'Pehlewans',
+    'Piran',
+    'Roum',
+    'Rustem',
+    'Sipehbed',
+    'Touran',
+    'Turcs',
+  ]
 order: '034'
 ---
 

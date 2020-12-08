@@ -29,6 +29,7 @@ tags:
     'Piran',
     'Rivniz',
     'Roum',
+    'résurrection',
     'Siawusch',
     'Sipehbed',
     'Sipehdar',

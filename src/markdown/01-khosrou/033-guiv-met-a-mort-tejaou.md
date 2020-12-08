@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/hPmEc27NT5k'
 landscape: 'https://source.unsplash.com/tNhsb1k1jkE'
 source: tome II - livre des rois - P. 555
-tags: []
+tags: ['âme', 'Bahram', 'Bijen', 'Chine', 'Dieu', 'Guiv', 'Iraniens', 'Piran', 'Roum', 'Tejaou']
 order: '033'
 ---
 

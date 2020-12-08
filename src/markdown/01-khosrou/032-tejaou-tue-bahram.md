@@ -3,7 +3,21 @@ date: ''
 image: 'https://source.unsplash.com/XrJL-eyuvQk'
 landscape: 'https://source.unsplash.com/XrJL-eyuvQk'
 source: tome II - livre des rois - P. 550
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Bahram',
+    'Gouderz',
+    'Iran',
+    'Keschwad',
+    'Pehlewan',
+    'Piran',
+    'Rouïn',
+    'Siawusch',
+    'Tejaou',
+    'Touran',
+    'Turcs',
+  ]
 order: '032'
 ---
 
@@ -129,7 +143,7 @@ Une grande troupe, toute composée des chefs de l’armée, entoura Bahram;
 
 Il banda son arc et lança tant de flèches qu’il en obscurcit le monde;
 
-Qquand ses traits furent épuisés, il saisit sa lance, et la montagne et la plaine devinrent une mer de sang.
+Quand ses traits furent épuisés, il saisit sa lance, et la montagne et la plaine devinrent une mer de sang.
 
 Lorsque sa lance ne fut plus qu’un tronçon, il prit son épée et sa massue, et fit pleuvoir du sang comme un nuage qui verse de la pluie.
 

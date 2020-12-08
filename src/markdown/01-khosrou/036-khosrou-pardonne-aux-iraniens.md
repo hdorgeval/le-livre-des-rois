@@ -3,7 +3,26 @@ date: ''
 image: 'https://source.unsplash.com/XpOuiitKXu8'
 landscape: 'https://source.unsplash.com/QSXOERX45BI'
 source: tome III - livre des rois - P. 005
-tags: []
+tags:
+  [
+    'Adergouschasp',
+    'âme',
+    'Bahram',
+    'Chine',
+    'Firoud',
+    'Guiv',
+    'Iran',
+    'Iraniens',
+    'Khosrou',
+    'Pehlewan',
+    'Rivniz',
+    'Rustem',
+    'Sipehbed',
+    'Sipehdar',
+    'Tehemten',
+    'Thous',
+    'Zerasp',
+  ]
 order: '036'
 ---
 
