@@ -12,7 +12,7 @@ tags:
     'Keschwad',
     'Pehlewan',
     'Piran',
-    'Rouïn',
+    'Rouïn',
     'Siawusch',
     'Tejaou',
     'Touran',
@@ -35,7 +35,7 @@ Un des Turcs répondit:
 
 > C’est Bahram le vainqueur des lions, en qui toute son armée met sa confiance.
 
-Piran dit alors à Rouïn:
+Piran dit alors à Rouïn:
 
 > Pars! Bahram ne peut pas nous échapper.
 >
@@ -43,13 +43,13 @@ Piran dit alors à Rouïn:
 >
 > Emmène avec toi autant d’hommes qu’il t’en faut, car c’est un cavalier illustre et avide de combats.
 
-Rouïn écouta ces paroles et partit à l’instant sans faire beaucoup de cas de cet adversaire.
+Rouïn écouta ces paroles et partit à l’instant sans faire beaucoup de cas de cet adversaire.
 
 Quand le lion Bahram vit s’avancer contre lui une nouvelle troupe qui obscurcissait le soleil et la lune, il s’assit sur les flèches qu’il avait amassées et se couvrit la tête de son bouclier, à l’abri duquel il tira de l’arc;
 
 Il lança sur ses ennemis une grêle de flèches qui interceptaient les rayons de la lune.
 
-Rouïn voyant cela, s’enfuit;
+Rouïn voyant cela, s’enfuit;
 
 Ses braves semblaient avoir perdu l’usage de leurs membres;
 

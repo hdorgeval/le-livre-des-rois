@@ -13,7 +13,7 @@ tags:
     'Iran',
     'Iraniens',
     'Kaweh',
-    'Keïanides',
+    'Keïanides',
     'Keï',
     'Kharrad',
     'Khosrou',
@@ -73,7 +73,7 @@ Il parla à Thous amicalement, et choisit, d’après les astres, un jour fortu
 
 Ce jour il se plaça dans la plaine entouré d’éléphants et de timbales, et fit passer devant lui Thous et son armée;
 
-Ensuite il lui remit, selon la coutume des Keïanides, l’étendard de Kaweh et le bénit.
+Ensuite il lui remit, selon la coutume des Keïanides, l’étendard de Kaweh et le bénit.
 
 Le bruit des armes se fit entendre, la terre trembla sous les sabots des chevaux;
 
