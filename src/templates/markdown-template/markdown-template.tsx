@@ -14,7 +14,7 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data }) => {
 
   return (
     <Layout>
-      <SEO title="Le Livre des Rois" contentType="website" description={firstHeading} />
+      <SEO title="Le Livre des Rois - Shâhnâmeh" contentType="website" description={firstHeading} />
       <div className={styles.container}>
         <Title text={firstHeading} subtitle=""></Title>
         <div
