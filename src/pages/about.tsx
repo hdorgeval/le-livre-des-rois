@@ -57,13 +57,13 @@ export default () => (
           .
         </p>
         <p>
-          Pour toute question/suggestion/feedback, veuillez ouvrir une{' '}
+          Pour toute question/suggestion/feedback, vous pouvez ouvrir une{' '}
           <a
-            href="https://github.com/hdorgeval/le-livre-des-rois/issues"
+            href="https://github.com/hdorgeval/le-livre-des-rois/discussions"
             target="_blank"
             rel="noopener noreferrer"
           >
-            issue
+            discussion
           </a>{' '}
           sur GitHub;
         </p>
