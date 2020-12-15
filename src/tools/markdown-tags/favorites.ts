@@ -5,6 +5,7 @@ export const favorites = [
   'immortalité',
   'immortel',
   'magicienne',
+  'pehlewi',
   'résurrection',
   'tribut',
 ];
