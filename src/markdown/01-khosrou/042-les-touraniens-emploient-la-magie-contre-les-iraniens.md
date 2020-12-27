@@ -75,7 +75,7 @@ Le magicien le vit et vint le combattre, une massue d’acier chinois dans la ma
 
 Rehham, lorsqu’il fut près de lui, tira son épée vengeresse et lui abattit la main.
 
-Un orage pareil à celui qui naîtra le jour de la résurrection s’éleva aussitôt et emporta le nuage qui avait obscurci l’air.
+Un orage pareil à celui qui naîtra le jour de la résurrection s’éleva aussitôt et emporta le nuage qui avait obscurci l’air.
 
 Le vaillant Rehham, tenant dans sa main la main coupée du magicien, descendit de la montagne, et, arrivé dans la plaine, il remonta sur son destrier.
 
@@ -111,7 +111,7 @@ Thous lui dit:
 >
 > Et si je ce tombe sur ce champ de bataille, tu ramèneras l’armée au roi de l’Iran.
 >
-> Je préfère la mort aux reproches et à l’insulte des méchants qui de tous côtés me menace.
+> Je préfère la mort aux reproches et à l’insulte des méchants qui de tous côtés me menace.
 
 Tel est ce monde plein de douleurs et de peines;
 

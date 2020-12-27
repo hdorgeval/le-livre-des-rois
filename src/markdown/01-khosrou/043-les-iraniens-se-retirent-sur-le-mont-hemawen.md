@@ -27,17 +27,17 @@ order: '043'
 
 Ils se retirèrent tous du combat, le cœur brisé par la perte de leurs parents, la tête remplie de honte.
 
-Dans ce moment la lune montra sa face au-dessus de la montagne, semblable à un roi victorieux sur un trône de turquoises.
+Dans ce moment la lune montra sa face au-dessus de la montagne, semblable à un roi victorieux sur un trône de turquoises.
 
 Le Sipehdar Piran rassembla ses troupes et leur dit:
 
 > Il reste encore beaucoup d’lraniens;
 >
-> Mais aussitôt que l’hyacinthe jaune versera ses flots de lumière sur l’horizon azuré, nous tuerons ceux qui ont survécu, nous désolerons par leur mort le cœur du roi de l’Iran.
+> Mais aussitôt que l’hyacinthe jaune versera ses flots de lumière sur l’horizon azuré, nous tuerons ceux qui ont survécu, nous désolerons par leur mort le cœur du roi de l’Iran.
 
 Les Touraniens s’en retournèrent joyeusement et s’assirent devant leurs tentes, où le son des luths et des rebecs les tint éveillés toute la nuit.
 
-De l’autre côté étaient les Iraniens accablés de tristesse, les pères se lamentant et pleurant leurs fils.
+De l’autre côté étaient les Iraniens accablés de tristesse, les pères se lamentant et pleurant leurs fils.
 
 La plaine était couverte de blessés et de morts, le sol était inondé du sang des puissants de la terre.
 

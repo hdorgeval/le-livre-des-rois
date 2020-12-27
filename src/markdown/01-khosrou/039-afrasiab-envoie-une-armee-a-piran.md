@@ -38,7 +38,7 @@ Une vedette accourut auprès de Thous en disant:
 
 Thous le chef expérimenté rangea ses troupes, qui précédées des timbales, s’avancèrent dans la plaine;
 
-Des deux côtés arrivèrent des armées semblables à des montagnes, d’une part les cavaliers turcs, de l’autre les masses des Iraniens.
+Des deux côtés arrivèrent des armées semblables à des montagnes, d’une part les cavaliers turcs, de l’autre les masses des Iraniens.
 
 Le soleil fut tellement enveloppé dans la poussière des armées,que ses yeux s’abandonnèrent au sommeil au milieu de l’obscurité;
 

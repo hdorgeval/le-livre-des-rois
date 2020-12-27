@@ -97,7 +97,7 @@ Le Sipehbed Thous s’élance de sa place, le monde se remplit du bruit des tro
 >
 > J’ai montré la force de mon bras à Arjeng, qui était le plus glorieux de vos guerriers, et maintenant tu viens aussi pour me combattre, monté sur ton destrier et tenant un javelot!
 >
-> Je jure par l’âme et la tête du maître de l’armée de l’Iran que, mettant de côté ma cuirasse, ma massue et mon casque de Roum, je t’attaquerai comme un léopard qui, sortant de la montagne, étend sa griffe sur sa proie.
+> Je jure par l’âme et la tête du maître de l’armée de l’Iran que, mettant de côté ma cuirasse, ma massue et mon casque de Roum, je t’attaquerai comme un léopard qui, sortant de la montagne, étend sa griffe sur sa proie.
 >
 > Quand je combattrai sur le champ de bataille, c’est alors que tu verras comment se comporte un homme.
 
@@ -265,7 +265,7 @@ Mais les grands pleins de bravoure l’entourèrent tous et lui dirent:
 
 Thous releva droit sa lance, et Houman secoua les rênes de son cheval, quitta le champ de bataille et se rendit auprès de Piran à travers les rangs des Touraniens, qui lui crièrent:
 
-> Que s’est-il passé lorsque lu as rencontré Thous, ô toi qui recherches les combats?
+> Que s’est-il passé lorsque lu as rencontré Thous, ô toi qui recherches les combats?
 >
 > Nous avions tous le cœur gonflé de sang, et il n’y a que Dieu qui sache ce que nous avons souffert.
 
@@ -275,6 +275,6 @@ Houman le lion leur dit:
 >
 > Alors vous serez comblés de bonheur, et l’astre du ciel se lèvera sur moi.
 
-Thous de son côté fit entendre sa voix au milieu de son armée, pendant toute la nuit jusqu’au chant du coq, en disant:
+Thous de son côté fit entendre sa voix au milieu de son armée, pendant toute la nuit jusqu’au chant du coq, en disant:
 
 > Qu’est-ce donc ce Houman pour me résister, moi qui suis le rival du lion féroce?

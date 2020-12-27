@@ -60,7 +60,7 @@ Le Sipehdar Houman caracolait devant les rangs, une lance brillante au poing, en
 >
 > Car je ne veux pas d’arcs, et il ne nous faut pas de lances;
 >
-> C’est avec l’épée, la masse d’armes et la lourde massue que tantôt vous donnerez, tantôt vous recevrez des coups, comme il convient dans le combat des braves, en jetant la bride sur le cou de vos chevaux.
+> C’est avec l’épée, la masse d’armes et la lourde massue que tantôt vous donnerez, tantôt vous recevrez des coups, comme il convient dans le combat des braves, en jetant la bride sur le cou de vos chevaux.
 
 Ayant ainsi parlé, Houman le vaillant cavalier courut, semblable à un lion, auprès de son frère Piran, et lui dit:
 
@@ -70,7 +70,7 @@ Ayant ainsi parlé, Houman le vaillant cavalier courut, semblable à un lion, 
 >
 > Car si nous revenons aujourd’hui victorieux, notre bonne étoile réjouira ton cœur.
 
-De l’autre côté, le Sipehdar Thous rendait son armée belle comme l’œil du coq.
+De l’autre côté, le Sipehdar Thous rendait son armée belle comme l’œil du coq.
 
 Les braves le bénissaient, ils le proclamaient le Pehlewan du monde, disant:
 
@@ -84,7 +84,7 @@ Mais le Sipehdar dit à Gouderz fils de Keschwad:
 >
 > Alors peut-être Dieu nous aidera : sinon notre étoile pâlira et notre sort sera mauvais.
 >
-> Maintenant, ô grands aux bottines d’or, partez avec le drapeau de Kaweh;
+> Maintenant, ô grands aux bottines d’or, partez avec le drapeau de Kaweh;
 >
 > Mais ne vous éloignez pas du pied de la montagne: car c’est un jour où il faut se contenir et un lieu où il faut agir avec prudence;
 >
@@ -130,9 +130,9 @@ Thous dit alors à Gouderz:
 
 Schidousch, Rehham, Gustehem, Guiv, Kharrad, Berzin et le vaillant Ferhad quittèrent leurs rangs et se portèrent au milieu des deux armées, le cœur blessé et avides de combat;
 
-Et de tous côés s’élevèrent des cris au ciel, pareils aux cris des Divs dans la nuit noire.
+Et de tous côés s’élevèrent des cris au ciel, pareils aux cris des Divs dans la nuit noire.
 
-De l’autre côté Houman amena toute son armée semblable à une montagne, et l’on ne distinguait plus les brides des étriers, tant il y avait de massues, de masses d’armes, d’épées et de lances.
+De l’autre côté Houman amena toute son armée semblable à une montagne, et l’on ne distinguait plus les brides des étriers, tant il y avait de massues, de masses d’armes, d’épées et de lances.
 
 On choisit alors les braves qui devaient combattre;
 
