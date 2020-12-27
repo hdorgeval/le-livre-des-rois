@@ -48,7 +48,7 @@ Ils se dirigèrent vers le Kasehroud, en disant adieu à ceux qui étaient mort
 
 Une ronde sortit du camp des Turcs, et ne trouvant personne dans le camp iranien, elle fit savoir sur-le-champ à Piran que les Iraniens avaient disparu.
 
-Aussitôt que le Sipehbed Piran eut reçu cette nouvelle, il envoya en secret de tous côtés des espions, et lorsqu’il se fut assuré que ces guerriers, qui portaient si haut la tête, s’étaient retirés, son cœur se sentit délivré de tout souci.
+Aussitôt que le Sipehbed Piran eut reçu cette nouvelle, il envoya en secret de tous côtés des espions, et lorsqu’il se fut assuré que ces guerriers, qui portaient si haut la tête, s’étaient retirés, son cœur se sentit délivré de tout souci.
 
 Il se mit en marche avec son armée de grand matin, et fit le tour du camp;
 
@@ -92,6 +92,6 @@ Il lui envoya ces présents et lui adressa beaucoup de conseils, disant:
 >
 > C’est le seul homme qui m’inspire de l’inquiétude, car il ne sait faire que la guerre, et je crains toujours qu’il ne s’élance de sa résidence et n’envahisse inopinément le Touran.
 
-Piran reçut tous ces conseils comme il convenait au chef des armées et à un parent du roi; ensuite il partit avec son cortége pour le pays de Khoten, et arrivé là, il envoya de tous côtés des espions pour avoir en tout temps des nouvelles de Rustem.
+Piran reçut tous ces conseils comme il convenait au chef des armées et à un parent du roi; ensuite il partit avec son cortége pour le pays de Khoten, et arrivé là, il envoya de tous côtés des espions pour avoir en tout temps des nouvelles de Rustem.
 
 L’histoire de Firoud est finie: écoute maintenant celle de la guerre de Kamous.

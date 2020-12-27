@@ -32,7 +32,7 @@ order: '037'
 
 # Keï Khosrou renvoie Thous dans le Touran
 
-Lorsque le soleil brillant se leva et que l’aurore s’élança devant lui sur la courbe du firmament, Thous parut soudain, avec les grands de l’armée, en présence de Khosrou.
+Lorsque le soleil brillant se leva et que l’aurore s’élança devant lui sur la courbe du firmament, Thous parut soudain, avec les grands de l’armée, en présence de Khosrou.
 
 Le roi du monde leur dit:
 
@@ -70,7 +70,7 @@ Le roi distribua de l’argent et manda les payeurs de l’armée;
 
 Il parla à Thous amicalement, et choisit, d’après les astres, un jour fortuné, qui fût propice au départ de l’armée.
 
-Ce jour il se plaça dans la plaine entouré d’éléphants et de timbales, et fit passer devant lui Thous et son armée;
+Ce jour il se plaça dans la plaine entouré d’éléphants et de timbales, et fit passer devant lui Thous et son armée;
 
 Ensuite il lui remit, selon la coutume des Keïanides, l’étendard de Kaweh et le bénit.
 
@@ -83,4 +83,4 @@ Le monde devint violet par le reflet des cuirasses et de l’étendard de Kaweh;
 Tu aurais dit que le soleil était plongé dans l’eau et
 que le ciel et les étoiles étaient endormis.
 
-Thous fit placer sur son éléphant des coussins brodés de turquoises, et s’avança ainsi jusqu’au fleuve Schahd.
+Thous fit placer sur son éléphant des coussins brodés de turquoises, et s’avança ainsi jusqu’au fleuve Schahd.

@@ -45,7 +45,7 @@ order: '040'
 
 Or il y avait un grand du Touran nommé Arjeng, qui s’était fait dans les combats un nom qui allait jusqu’aux nues;
 
-Il s’élança, fit voler la poussière et provoqua au combat les Iraniens.
+Il s’élança, fit voler la poussière et provoqua au combat les Iraniens.
 
 Thous le vit de loin, poussa un cri, tira l’épée et dit au fils de Zereh:
 
@@ -83,7 +83,7 @@ Mais Houman leur dit:
 >
 > Demain quand toute l’armée s’ébranlera, quand on battra le tambour dans l’enceinte des tentes de Piran, alors nous lèverons tous nos massues, nous tirerons nos poignards, nous nous avancerons au delà du fleuve, et Dieu et la fortune aidant, nous livrerons en masse une grande bataille.
 
-Houman monta sur un cheval de main et le lança;
+Houman monta sur un cheval de main et le lança;
 
 Tu aurais dit que c’était une muraille de fer ou le mont Alborz revêtu d’une cuirasse.
 
@@ -209,7 +209,7 @@ Celui-ci lui dit:
 
 > Pourquoi te mettre en colère?
 >
-> C’est à moi seul que tu as affaire ici: commençons donc notre combat, et que la lutte nous fasse froncer les sourcils.
+> C’est à moi seul que tu as affaire ici: commençons donc notre combat, et que la lutte nous fasse froncer les sourcils.
 
 Houman lui répondit:
 
@@ -239,7 +239,7 @@ Ils se saisirent par la courroie de leurs ceintures; ils appuyèrent de toutes 
 
 La ceinture de Houman fut rompue, il fit un bond et sauta sur un cheval frais;
 
-Thous porta la main à son carquois, banda son arc, y plaça une flèche de bois de peuplier et fit pleuvoir des traits sur Houman et attaqua les cavaliers à droite et à gauche.
+Thous porta la main à son carquois, banda son arc, y plaça une flèche de bois de peuplier et fit pleuvoir des traits sur Houman et attaqua les cavaliers à droite et à gauche.
 
 Le fer des pointes et les plumes d’aigle dont les traits étaient empennés obscurcirent le soleil, comme si deux veilles de la nuit s’étaient écoulées;
 

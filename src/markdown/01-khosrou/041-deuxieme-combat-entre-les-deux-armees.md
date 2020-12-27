@@ -40,7 +40,7 @@ order: '041'
 
 # Deuxième combat entre les deux armées
 
-Lorsque le sublime firmament se fut fait une couronne de jade, et qu’il eut répandu sur la voûte bleue les étoiles semblables à des pastilles de camphre, on envoya des deux camps des vedettes et l’on plaça des sentinelles devant les enceintes des tentes.
+Lorsque le sublime firmament se fut fait une couronne de jade, et qu’il eut répandu sur la voûte bleue les étoiles semblables à des pastilles de camphre, on envoya des deux camps des vedettes et l’on plaça des sentinelles devant les enceintes des tentes.
 
 Mais quand le soleil étincelant leva la tête, et que le monde fut devenu brillant comme le visage d’un esclave de Roum, on entendit dans les deux armées le bruit des tambours, le monde se remplit du son des trompettes et l’air se rembrunit par le reflet des drapeaux rouges, noirs, jaunes et violets.
 
@@ -146,6 +146,6 @@ Houman s’écria:
 
 > La lutte d’aujourd’hui ne doit pas ressembler à celle d’hier, il faut délivrer la terre de ces hommes, et les mettre hors d’état de revenir nous combattre.
 
-Thous s’avança avec les éléphants, les timbaliers et les fantassins armés de boucliers, de javelots et de lances, et les rangea au-devant des cavaliers, en disant:
+Thous s’avança avec les éléphants, les timbaliers et les fantassins armés de boucliers, de javelots et de lances, et les rangea au-devant des cavaliers, en disant:
 
 > Ne quittez pas cette place, portez en avant vos boucliers et vos lances, et nous verrons comment les vaillants chefs des Touraniens manieront leurs lourdes massues.

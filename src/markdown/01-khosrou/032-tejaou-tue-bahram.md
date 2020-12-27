@@ -47,7 +47,7 @@ Rouïn écouta ces paroles et partit à l’instant sans faire beaucoup de cas 
 
 Quand le lion Bahram vit s’avancer contre lui une nouvelle troupe qui obscurcissait le soleil et la lune, il s’assit sur les flèches qu’il avait amassées et se couvrit la tête de son bouclier, à l’abri duquel il tira de l’arc;
 
-Il lança sur ses ennemis une grêle de flèches qui interceptaient les rayons de la lune.
+Il lança sur ses ennemis une grêle de flèches qui interceptaient les rayons de la lune.
 
 Rouïn voyant cela, s’enfuit;
 
@@ -109,7 +109,7 @@ Piran lui dit:
 
 Piran dit, partit et s’en retourna le cœur plein de tendresse pour Bahram, mais la tête remplie de prudence.
 
-Il rencontra près du camp Tejaou, qui s’avança vers lui, avide de vengeance et de combats, et lui demanda ce qu’il avait fait.
+Il rencontra près du camp Tejaou, qui s’avança vers lui, avide de vengeance et de combats, et lui demanda ce qu’il avait fait.
 
 ll lui répondit:
 
@@ -127,7 +127,7 @@ Le vaillant Tejaou dit à Piran:
 
 Tejaou courut en toute hâte vers le champ de bataille, où il trouva le héros Bahram sans cortège.
 
-Aussitôt qu’il l’aperçut une lance en main, il poussa un cri comme un éléphant furieux, et lui dit:
+Aussitôt qu’il l’aperçut une lance en main, il poussa un cri comme un éléphant furieux, et lui dit:
 
 > Tu ne survivras pas au combat que va te livrer cette armée couverte de gloire;
 >
@@ -141,11 +141,11 @@ Il ordonna alors à ses compagnons de l’attaquer, de le frapper à coups de 
 
 Une grande troupe, toute composée des chefs de l’armée, entoura Bahram;
 
-Il banda son arc et lança tant de flèches qu’il en obscurcit le monde;
+Il banda son arc et lança tant de flèches qu’il en obscurcit le monde;
 
 Quand ses traits furent épuisés, il saisit sa lance, et la montagne et la plaine devinrent une mer de sang.
 
-Lorsque sa lance ne fut plus qu’un tronçon, il prit son épée et sa massue, et fit pleuvoir du sang comme un nuage qui verse de la pluie.
+Lorsque sa lance ne fut plus qu’un tronçon, il prit son épée et sa massue, et fit pleuvoir du sang comme un nuage qui verse de la pluie.
 
 Au milieu de cette lutte, le Pehlewan fut blessé; et Tejaou le voyant privé de force et hors d’état de résister, s’approcha de lui par derrière et le frappa d’un coup d’épée sur l’épaule.
 

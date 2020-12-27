@@ -69,7 +69,7 @@ Thous et les grands adressèrent leurs lamentations au ciel, disant:
 
 Un homme qui avait étudié toutes les sciences s’approcha de Rehham et lui montra du doigt la hauteur où le vaillant Bazour se tenait et où il pratiquait la magie et les incantations.
 
-Rehham s’élança du champ de bataille, poussa son cheval hors des rangs de l’armée, et monta ensuite à pied sur la crête de la montagne, en serrant les pans de sa cotte de mailles dans sa ceinture.
+Rehham s’élança du champ de bataille, poussa son cheval hors des rangs de l’armée, et monta ensuite à pied sur la crête de la montagne, en serrant les pans de sa cotte de mailles dans sa ceinture.
 
 Le magicien le vit et vint le combattre, une massue d’acier chinois dans la main;
 
@@ -125,7 +125,7 @@ La plaine était remplie de têtes et de bras coupés, et les coups de massue
 
 L’étoile des Iraniens s’obscurcit, et ils tournèrent le dos à l’ennemi.
 
-Thous, Gouderz, le courageux Guiv, Schidousch, Bijen et Rehham le lion, plaçant leur vie sur la paume de la main, combattaient au premier rang;
+Thous, Gouderz, le courageux Guiv, Schidousch, Bijen et Rehham le lion, plaçant leur vie sur la paume de la main, combattaient au premier rang;
 
 Tous ceux qui entouraient Thous étaient des grands et des gouverneurs de provinces: ils versaient du sang au front de l’armée, mais ceux qui étaient derrière eux s’enfuirent.
 

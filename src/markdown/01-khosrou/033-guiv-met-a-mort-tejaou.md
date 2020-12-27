@@ -9,7 +9,7 @@ order: '033'
 
 # Guiv met à mort Tejaou
 
-Lorsque le soleil brillant commença à baisser, Guiv devint inquiet sur le sort de son frère, et dit à Bijen:
+Lorsque le soleil brillant commença à baisser, Guiv devint inquiet sur le sort de son frère, et dit à Bijen:
 
 > Ô mon fils chéri! mon frère n’est pas de retour, il faut que nous allions voir ce qui lui est arrivé, car il ne faut pas que nous ayons à pleurer sa mort.
 
@@ -17,7 +17,7 @@ Ces deux héros se mirent en route rapidement comme un tourbillon de poussière,
 
 Ils examinèrent tous les morts et les blessés;
 
-Ils ne cherchèrent que Bahram, à la fin ils l’aperçurent, et coururent vers lui en versant des larmes de sang; ils le trouvèrent étendu dans le sang et dans la poussière, n’ayant plus qu’un bras et dans un état désespéré.
+Ils ne cherchèrent que Bahram, à la fin ils l’aperçurent, et coururent vers lui en versant des larmes de sang; ils le trouvèrent étendu dans le sang et dans la poussière, n’ayant plus qu’un bras et dans un état désespéré.
 
 Guiv versa un torrent de larmes sur le visage de Bahram, son cœur était gonflé, ses yeux étaient remplis de sang par l’excès de sa tendresse, et ses cris de douleur réveillèrent Bahram, qui reprit connaissance et se mit à se rouler par terre.
 
@@ -95,7 +95,7 @@ A cette vue, le vaillant Bahram s’écria d’une voix telle que personne n’e
 
 > Si je le tue, ou que je le laisse tuer devant mes yeux, mon frère ou un de mes parents seront tués;
 
-Et en prononçant ces paroles, il mourut.
+Et en prononçant ces paroles, il mourut.
 
 Telle est la manière d’agir et la nature du monde, que quiconque cherche à saisir les rênes du pouvoir doit avant tout tremper ses mains dans le sang;
 
@@ -103,12 +103,12 @@ Il faut qu’il tue, ou qu’il se laisse tuer douloureusement.
 
 Ne cherche donc pas, autant que tu pourras, à jouer un rôle dans le monde.
 
-Guiv se plaça devant lui, poussa des cris de douleur, et se couvrit la tête de poussière noire;
+Guiv se plaça devant lui, poussa des cris de douleur, et se couvrit la tête de poussière noire;
 
 Il lia, en se lamentant, le corps de Bahram sur le cheval de Tejaou, le confia à Bijen, et monta lui-même à cheval.
 
 L’ayant ramené du champ de bataille, il lui construisit un mausolée à la manière des Iraniens, remplit son crâne de musc et d’ambre, enveloppa
-son corps avec de la soie de la Chine, le plaça sur un trône d’ivoire, comme on place les rois, et suspendit sa couronne au-dessus de lui;
+son corps avec de la soie de la Chine, le plaça sur un trône d’ivoire, comme on place les rois, et suspendit sa couronne au-dessus de lui;
 
 Ensuite on peignit la porte du tombeau en rouge et en bleu, et tu aurais dit que Bahram n’avait jamais vécu.
 

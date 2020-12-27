@@ -54,11 +54,11 @@ Le roi lui répondit:
 >
 > Mais je laisserai guérir mon âme par tes conseils, quoique mon cœur souffre cruellement.
 
-Alors le Sipehdar Thous s’avança pour demander pardon, et sa fière tête se courbait de peur.
+Alors le Sipehdar Thous s’avança pour demander pardon, et sa fière tête se courbait de peur.
 
 Le roi pardonna à l’armée, et les grands se retirèrent.
 
-Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se hâta de monter plus haut, qu’il déchira sa robe de turquoises et qu’il montra son corps brillant comme un rubis, le Sipehbed Thous, accompagné de Guiv et des chefs de l’armée de l’Iran, parut devant le roi et l’adora en disant:
+Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se hâta de monter plus haut, qu’il déchira sa robe de turquoises et qu’il montra son corps brillant comme un rubis, le Sipehbed Thous, accompagné de Guiv et des chefs de l’armée de l’Iran, parut devant le roi et l’adora en disant:
 
 > Puisses-tu vivre heureux jusqu’à la fin des temps!
 >

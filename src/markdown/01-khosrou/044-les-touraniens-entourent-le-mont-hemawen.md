@@ -33,7 +33,7 @@ order: '044'
 
 # Les Touraniens entourent le mont Hemawen
 
-Lorsque le soleil brillant montra sa couronne et qu’il commença à verser du camphre sur son trône d’ivoire, Thous avait déjà fait dix farsangs pendant que ses ennemis fatigués dormaient encore.
+Lorsque le soleil brillant montra sa couronne et qu’il commença à verser du camphre sur son trône d’ivoire, Thous avait déjà fait dix farsangs pendant que ses ennemis fatigués dormaient encore.
 
 Il continua de marcher jour et nuit, le cœur soucieux, les lèvres privées de nourriture, les yeux remplis de sang, l’âme blessée et rendue noire comme le plumage du corbeau par ses angoisses.
 
@@ -101,7 +101,7 @@ Mais Houman lui répondit:
 
 > Ô Pehlewan, que ton esprit ne s’inquiète pas.
 >
-> Il y avait là une armée toute composée de Pehlewans et de cavaliers qui lançaient le lacet, qui frappaient de la massue et du poignard;
+> Il y avait là une armée toute composée de Pehlewans et de cavaliers qui lançaient le lacet, qui frappaient de la massue et du poignard;
 >
 > Et maintenant il ne reste que les tentes et leurs enceintes, et les hommes sont partis.
 >
@@ -131,7 +131,7 @@ Le Sipehdar Piran suivit alors avec l’armée du Touran les traces des Iranien
 
 Lehhak partit comme le vent, il ne pensa ni à manger ni à dormir;
 
-Et lorsque la moitié de la nuit sombre fut passée, il aperçut les vedettes des Iraniens sur la plaine noire, il entendit sur la montagne le bruit de l’armée et le son des clochettes.
+Et lorsque la moitié de la nuit sombre fut passée, il aperçut les vedettes des Iraniens sur la plaine noire, il entendit sur la montagne le bruit de l’armée et le son des clochettes.
 
 Il ne jugea pas qu’il dût s’arrêter, revint sur ses pas, et donna à Piran des nouvelles des Iraniens, en disant:
 
@@ -157,7 +157,7 @@ Piran dit à Houman:
 
 Houman choisit trente mille cavaliers touraniens armés de boucliers et d’épées.
 
-Lorsque le brillant soleil montra sa couronne et qu’il commença à verser du camphre sur son trône d’ivoire, on vit de loin la poussière que soulevait une armée, et les sentinelles crièrent de leurs tours:
+Lorsque le brillant soleil montra sa couronne et qu’il commença à verser du camphre sur son trône d’ivoire, on vit de loin la poussière que soulevait une armée, et les sentinelles crièrent de leurs tours:
 
 > Une armée de Turcs parait, et la poussière monte au-dessus des nuages noirs.
 
@@ -167,7 +167,7 @@ Les clairons et les timbales résonnèrent, et les cavaliers iraniens en masse
 
 Quand Houman vit cette grande armée; quand il vit les chefs brandir leurs massues et leurs épées, et bondir et rugir comme des lions féroces;
 
-Quand il aperçut au-devant de l’armée le drapeau de Kaweh, il s’adressa à Thous et à Gouderz, disant:
+Quand il aperçut au-devant de l’armée le drapeau de Kaweh, il s’adressa à Thous et à Gouderz, disant:
 
 > Vous êtes partis de l’Iran avec des éléphants et des timbales, vous avez envahi le Touran, vous avez lancé votre armée sur ce pays.
 >
