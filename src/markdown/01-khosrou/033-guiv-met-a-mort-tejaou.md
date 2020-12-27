@@ -73,7 +73,7 @@ Guiv continua à le traîner après lui, et arrivé auprès de Bahram le lion 
 >
 > Je remercie Dieu le créateur de m’avoir laissé vivre jusqu’à ce moment pour que je puisse, devant toi, arracher à ton ennemi son âme noire.
 
-Tejaou les implora; il leur demanda grâce de la vie en disant:
+Tejaou les implora; il leur demanda grâce de la vie en disant:
 
 > Quand même j’aurais fait ce dont tu m’accuses, à quoi servirait-il de me trancher la tête avec l’épée?
 >
@@ -107,7 +107,7 @@ Guiv se plaça devant lui, poussa des cris de douleur, et se couvrit la tête de
 
 Il lia, en se lamentant, le corps de Bahram sur le cheval de Tejaou, le confia à Bijen, et monta lui-même à cheval.
 
-L’ayant ramené du champ de bataille, il lui construisit un mausolée à la manière des Iraniens, remplit son crâne de musc et d’ambre, enveloppa
+L’ayant ramené du champ de bataille, il lui construisit un mausolée à la manière des Iraniens, remplit son crâne de musc et d’ambre, enveloppa
 son corps avec de la soie de la Chine, le plaça sur un trône d’ivoire, comme on place les rois, et suspendit sa couronne au-dessus de lui;
 
 Ensuite on peignit la porte du tombeau en rouge et en bleu, et tu aurais dit que Bahram n’avait jamais vécu.

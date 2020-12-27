@@ -24,11 +24,11 @@ Il envoya à l’heure du sommeil, auprès d’Afrasiab, un messager monté su
 
 Lorsque Afrasiab eut entendu ce message, il réunit les chefs de l’armée;
 
-Il leur dit ce qui se passait, et qu’il fallait se hâter de partir pour la guerre;
+Il leur dit ce qui se passait, et qu’il fallait se hâter de partir pour la guerre;
 
 Il rassembla une armée nombreuse, dont la poussière obscurcissait le soleil, et le dixième jour arriva auprès de Piran cette multitude qui couvrait la terre.
 
-Lorsque l’armée se fut reposée, on paya la solde, les cavaliers montèrent à cheval, on chargea les bagages, et Piran se porta en toute hâte sur les bords du fleuve, sans égard à ses promesses et au traité qu’il avait conclu.
+Lorsque l’armée se fut reposée, on paya la solde, les cavaliers montèrent à cheval, on chargea les bagages, et Piran se porta en toute hâte sur les bords du fleuve, sans égard à ses promesses et au traité qu’il avait conclu.
 
 Une vedette accourut auprès de Thous en disant:
 

@@ -121,11 +121,11 @@ ll lui répondit:
 
 Le vaillant Tejaou dit à Piran:
 
-> Ton âme est tendre, mais elle n’est pas forte;
+> Ton âme est tendre, mais elle n’est pas forte;
 >
 > Je marche contre lui, et quand même il me faudrait le combattre à pied, je l’aurai bientôt mis dans son tombeau.
 
-Tejaou courut en toute hâte vers le champ de bataille, où il trouva le héros Bahram sans cortège.
+Tejaou courut en toute hâte vers le champ de bataille, où il trouva le héros Bahram sans cortège.
 
 Aussitôt qu’il l’aperçut une lance en main, il poussa un cri comme un éléphant furieux, et lui dit:
 

@@ -82,7 +82,7 @@ Mais le Sipehdar dit à Gouderz fils de Keschwad:
 
 > Il faut proclamer devant toute l’armée que, quand elle en sera venue aux mains avec l’ennemi, et qu’elle aura jeté la confusion dans les rangs de ses cavaliers, nous devons tous lever nos mains vers Dieu, agir de concert et renoncer chacun à notre propre volonté;
 >
-> Alors peut-être Dieu nous aidera : sinon notre étoile pâlira et notre sort sera mauvais.
+> Alors peut-être Dieu nous aidera : sinon notre étoile pâlira et notre sort sera mauvais.
 >
 > Maintenant, ô grands aux bottines d’or, partez avec le drapeau de Kaweh;
 >

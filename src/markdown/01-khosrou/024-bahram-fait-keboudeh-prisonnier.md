@@ -15,7 +15,7 @@ Guirauguird était la résidence de Tejaou, un cavalier qui ne craignait pas un 
 
 Il possédait des troupeaux de chevaux qui erraient sur toute la plaine d’une montagne à l’autre.
 
-En apprenant qu’une armée d’Iraniens s’approchait et qu’il fallait éloigner les troupeaux de leur route, il envoya en toute hâte auprès des pâtres d’Afrasiab un brave dont le nom était Keboudeh;
+En apprenant qu’une armée d’Iraniens s’approchait et qu’il fallait éloigner les troupeaux de leur route, il envoya en toute hâte auprès des pâtres d’Afrasiab un brave dont le nom était Keboudeh;
 
 C’était un homme habile, et on avait besoin d’habileté dans cette occasion.
 
@@ -37,7 +37,7 @@ Il banda son arc, se raffermit sur ses étriers et lança son destrier, qui ress
 
 Il décocha une flèche sans prononcer une parole, et quoiqu’il ne pût voir Keboudeh, à cause des ténèbres, le frappa à la ceinture.
 
-Le pâtre du roi devint noir d’effroi; il descendit de cheval et demanda grâce.
+Le pâtre du roi devint noir d’effroi; il descendit de cheval et demanda grâce.
 
 Bahram lui dit:
 

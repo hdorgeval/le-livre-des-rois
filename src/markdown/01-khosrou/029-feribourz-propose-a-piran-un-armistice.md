@@ -41,7 +41,7 @@ Il répondit:
 
 Un cavalier se détacha de la ronde, courut au camp rapidement comme une nuée de poussière, et annonça que Rehham fils de Gouderz arrivait au camp ennemi pour voir le Pehlewan de l’armée.
 
-Piran ordonna qu’on le lui amenât en le traitant amicalement et avec douceur.
+Piran ordonna qu’on le lui amenât en le traitant amicalement et avec douceur.
 
 Rehham aux paroles éloquentes parut devant Piran, tout préoccupé des desseins secrets
 de son ennemi; mais Piran, aussitôt qu’il le vit, s’avança gracieusement, lui adressa les questions d’usage et le fit asseoir sur le trône.

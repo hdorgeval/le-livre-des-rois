@@ -64,7 +64,7 @@ Ensuite le maître de l’armée appela Guiv, le fit asseoir sur le trône des 
 >
 > Mais ne donne pas, par ta colère, de l’importance à ce qui n’en a pas.
 >
-> Puissent les mânes du vaillant Bahram se réjouir!
+> Puissent les mânes du vaillant Bahram se réjouir!
 
 Le roi distribua de l’argent et manda les payeurs de l’armée;
 

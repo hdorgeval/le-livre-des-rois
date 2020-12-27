@@ -32,7 +32,7 @@ Lorsque le soleil au visage d’or se leva au-dessus de la montagne, et que la n
 
 > Ô roi glorieux, le trône, la couronne et le sceau sont fiers de toi.
 >
-> Le roi est courroucé contre Thous et son armée, qu’il m’accorde leur grâce quelle que soit leur faute.
+> Le roi est courroucé contre Thous et son armée, qu’il m’accorde leur grâce quelle que soit leur faute.
 >
 > Lorsque Thous vit son fils et son gendre morts, la raison abandonna sa tête et son cœur.
 >
@@ -52,13 +52,13 @@ Le roi lui répondit:
 
 > Ô Pehlewan, la mort de ce jeune homme m’a rempli de douleur;
 >
-> Mais je laisserai guérir mon âme par tes conseils, quoique mon cœur souffre cruellement.
+> Mais je laisserai guérir mon âme par tes conseils, quoique mon cœur souffre cruellement.
 
 Alors le Sipehdar Thous s’avança pour demander pardon, et sa fière tête se courbait de peur.
 
 Le roi pardonna à l’armée, et les grands se retirèrent.
 
-Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se hâta de monter plus haut, qu’il déchira sa robe de turquoises et qu’il montra son corps brillant comme un rubis, le Sipehbed Thous, accompagné de Guiv et des chefs de l’armée de l’Iran, parut devant le roi et l’adora en disant:
+Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se hâta de monter plus haut, qu’il déchira sa robe de turquoises et qu’il montra son corps brillant comme un rubis, le Sipehbed Thous, accompagné de Guiv et des chefs de l’armée de l’Iran, parut devant le roi et l’adora en disant:
 
 > Puisses-tu vivre heureux jusqu’à la fin des temps!
 >
@@ -66,7 +66,7 @@ Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se hâ
 >
 > Mon cœur est plein de soucis de ce que j’ai fait, il est brisé par la douleur et l’anxiété;
 >
-> Mon âme est remplie de honte devant le roi, ma langue ne prononce que des demandes de pardon, je suis plein de repentir, et je brûle comme Adergouschasp en pensant à l’innocent Firoud et à Zerasp.
+> Mon âme est remplie de honte devant le roi, ma langue ne prononce que des demandes de pardon, je suis plein de repentir, et je brûle comme Adergouschasp en pensant à l’innocent Firoud et à Zerasp.
 >
 > C’est moi seul qui ai fait le mal;
 >

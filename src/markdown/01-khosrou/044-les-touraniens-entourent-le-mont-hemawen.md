@@ -35,7 +35,7 @@ order: '044'
 
 Lorsque le soleil brillant montra sa couronne et qu’il commença à verser du camphre sur son trône d’ivoire, Thous avait déjà fait dix farsangs pendant que ses ennemis fatigués dormaient encore.
 
-Il continua de marcher jour et nuit, le cœur soucieux, les lèvres privées de nourriture, les yeux remplis de sang, l’âme blessée et rendue noire comme le plumage du corbeau par ses angoisses.
+Il continua de marcher jour et nuit, le cœur soucieux, les lèvres privées de nourriture, les yeux remplis de sang, l’âme blessée et rendue noire comme le plumage du corbeau par ses angoisses.
 
 Arrivé près du mont Hemawen, il arrêta son armée au pied de la montagne et dit à Guiv:
 
@@ -47,9 +47,9 @@ Arrivé près du mont Hemawen, il arrêta son armée au pied de la montagne et
 
 Guiv entra dans les montagnes avec les blessés;
 
-Las de la vie et fatigué du monde, il les conduisit au château, choisit les moins épuisés d’entre eux pour le garder, et dit à tous:
+Las de la vie et fatigué du monde, il les conduisit au château, choisit les moins épuisés d’entre eux pour le garder, et dit à tous:
 
-> Cette crête de montagne est notre demeure, maintenant tâchez de guérir.
+> Cette crête de montagne est notre demeure, maintenant tâchez de guérir.
 
 On envoya des vedettes dans la plaine pour que l’ennemi ne pût passer;
 
@@ -87,7 +87,7 @@ Les cavaliers de l’armée, jeunes et vieux, répondirent d’une voix au Pehle
 
 Piran répondit:
 
-> Dans la guerre, celui qui sait attendre fatigue le pied de celui qui se hâte.
+> Dans la guerre, celui qui sait attendre fatigue le pied de celui qui se hâte.
 >
 > Afrasiab a réuni autour de lui une armée vaste comme les eaux de la mer;
 >
@@ -183,7 +183,7 @@ Quand il aperçut au-devant de l’armée le drapeau de Kaweh, il s’adressa a�
 >
 > Ignores-tu donc que cette retraite ne te sauvera pas, et que ces rochers te feront verser des larmes?
 
-Il envoya en toute hâte à Piran un messager monté sur un dromadaire, et lui fit dire:
+Il envoya en toute hâte à Piran un messager monté sur un dromadaire, et lui fit dire:
 
 > Cette affaire tourne autrement que nous n’avions pensé et que nous n’avions calculé quand nous avons voulu les attaquer.
 >

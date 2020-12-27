@@ -136,7 +136,7 @@ Beaucoup de Touraniens illustres tombèrent, et le sort paraissait tourner contr
 
 Le vieux Gouderz dit alors à Bijen:
 
-> Pars avec ta massue et tes flèches, tourne la bride de ton cheval vers Feribourz et apporte-moi le drapeau de Kaweh; et si Feribourz lui-même veut l’accompagner, il fera pâlir les joues de ses ennemis.
+> Pars avec ta massue et tes flèches, tourne la bride de ton cheval vers Feribourz et apporte-moi le drapeau de Kaweh; et si Feribourz lui-même veut l’accompagner, il fera pâlir les joues de ses ennemis.
 
 Bijen l’écouta, lança son cheval, courut semblable à Adergouschasp auprès de Feribourz, et lui dit:
 
@@ -170,7 +170,7 @@ Les cavaliers qui entouraient Guiv et Kustehem leur dirent alors:
 
 Les plus braves d’entre les Iraniens s’avancèrent avec leurs lourdes massues et tuèrent plus de mille ennemis.
 
-L’illustre Bijen les rejoignit en toute hâte, et ils continuèrent ensemble leur route jusqu’à ce qu’ils atteignirent le gros de l’armée.
+L’illustre Bijen les rejoignit en toute hâte, et ils continuèrent ensemble leur route jusqu’à ce qu’ils atteignirent le gros de l’armée.
 
 Bijen y arriva comme un lion féroce, tenant en main le drapeau de Kaweh, autour duquel tonte l’armée se pressa, en obscurcissant l’air par des flots de poussière.
 
@@ -178,7 +178,7 @@ Ils s’ébranlèrent encore une fois et recommencèrent la lutte sur ce champ d
 
 Rivniz, qui était cher à Kaous comme sa vie, fut tué à la tête de l’armée;
 
-C’était un prince qui portait une couronne, le fils puîné du roi; c’était l’âme de son père et le favori de Feribourz.
+C’était un prince qui portait une couronne, le fils puîné du roi; c’était l’âme de son père et le favori de Feribourz.
 
 Sa tête et sa couronne roulèrent dans la poussière, et plusieurs d’entre les grands déchirèrent leurs vêtements; mais Guiv s’écria à haute voix :
 

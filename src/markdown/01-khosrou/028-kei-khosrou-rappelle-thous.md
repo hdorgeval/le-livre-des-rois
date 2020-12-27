@@ -78,11 +78,11 @@ Sa lettre commençait par les louanges de Dieu le créateur de l’univers :
 >
 > Que sert d’avoir de la bravoure quand on est commandé par lui?
 >
-> Maudite soit cette âme ténébreuse!
+> Maudite soit cette âme ténébreuse!
 >
 > Quand tu auras lu cette lettre, renonce à la nourriture, au sommeil et au repos, renvoie ici Thous à l’instant, ne me désobéis pas et ne délibère pas;
 >
-> Prends le commandement de l’armée, porte les bottines d’or, marche devant le drapeau de Kaweh, consulte en toutes choses le noble Gouderz et l’assemblée des grands, ne te hâte pas de livrer bataille, abstiens-toi du vin, fuis le sommeil;
+> Prends le commandement de l’armée, porte les bottines d’or, marche devant le drapeau de Kaweh, consulte en toutes choses le noble Gouderz et l’assemblée des grands, ne te hâte pas de livrer bataille, abstiens-toi du vin, fuis le sommeil;
 >
 > Ne te laisse pas entraîner à un combat par ta colère avant que tes blessés soient guéris;
 >

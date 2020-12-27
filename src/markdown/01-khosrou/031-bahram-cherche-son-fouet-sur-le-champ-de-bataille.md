@@ -104,7 +104,7 @@ C’est ainsi qu’il ramenait son frère dans le chemin de la sécurité, sans 
 
 Ensuite il dit au blessé:
 
-> Ô jeune homme, attends plutôt que je revienne, je me hâterai;
+> Ô jeune homme, attends plutôt que je revienne, je me hâterai;
 >
 > J’ai perdu un fouet sur ce champ de bataille pendant que je m’occupais de la couronne de Rivniz, et aussitôt que je l’aurai retrouvé, je partirai avec toi et te ramènerai sans délai à notre armée.
 

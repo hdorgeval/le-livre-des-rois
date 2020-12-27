@@ -38,11 +38,11 @@ Lorsqu’ils atteignirent le chemin qui conduit à Djerem, lorsqu’ils virent 
 
 Leurs cœurs se remplirent de soucis et de la crainte du roi;
 
-Leurs yeux furent pleins de larmes, leurs âmes pleines du sentiment de leur faute.
+Leurs yeux furent pleins de larmes, leurs âmes pleines du sentiment de leur faute.
 
-C’est ainsi qu’ils revinrent, auprès du roi, honteux, l’âme blessée et se repentant de leur crime, car ils avaient tué son frère innocent et livré à l’ennemi le sceau et le diadème;
+C’est ainsi qu’ils revinrent, auprès du roi, honteux, l’âme blessée et se repentant de leur crime, car ils avaient tué son frère innocent et livré à l’ennemi le sceau et le diadème;
 
-Ils arrivèrent devant lui le cœur déchiré, les mains croisées, humbles comme des esclaves, et Khosrou jeta sur eux un regard de colère, car son âme était triste et ses deux yeux inondés de sang.
+Ils arrivèrent devant lui le cœur déchiré, les mains croisées, humbles comme des esclaves, et Khosrou jeta sur eux un regard de colère, car son âme était triste et ses deux yeux inondés de sang.
 
 Il adressa à Dieu ces paroles:
 
@@ -58,7 +58,7 @@ Il adressa à Dieu ces paroles:
 >
 > Je devrais faire tomber la tête de Thous fils de Newder, à qui j’avais ordonné ne pas s’approcher de Kelat et de Djerem, quand même on verserait sur sa tête des pièces d’argent, parce que Firoud y demeurait avec sa mère, que c’était un Keïanide, un homme vaillant, qui ne connaissait pas le vil Thous, qui ne saurait pourquoi on envoyait une si grande armée, et qui sans doute descendrait de sa montagne pour livrer bataille, et mettrait à mort un grand nombre de braves.
 >
-> Mais Thous le lâche, l’insensé, s’est élancé, et son armée a pris la route de la forteresse de Firoud;
+> Mais Thous le lâche, l’insensé, s’est élancé, et son armée a pris la route de la forteresse de Firoud;
 >
 > Alors le Créateur du ciel l’a abandonné lui et son armée, et Thous a porté malheur à la famille de Gouderz.
 >
@@ -90,7 +90,7 @@ Il était blessé au cœur;
 
 Il maltraita son armée et la renvoya, et le sang coula de ses cils sur ses joues.
 
-Il défendit l’entrée de sa cour, et son âme se déchirait au souvenir de son frère.
+Il défendit l’entrée de sa cour, et son âme se déchirait au souvenir de son frère.
 
 Les grands de l’Iran partirent désespérés; les braves se rendirent à la cour de Rustem, en lui disant pour s’excuser:
 

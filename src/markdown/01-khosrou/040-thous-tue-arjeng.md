@@ -97,7 +97,7 @@ Le Sipehbed Thous s’élance de sa place, le monde se remplit du bruit des trom
 >
 > J’ai montré la force de mon bras à Arjeng, qui était le plus glorieux de vos guerriers, et maintenant tu viens aussi pour me combattre, monté sur ton destrier et tenant un javelot!
 >
-> Je jure par l’âme et la tête du maître de l’armée de l’Iran que, mettant de côté ma cuirasse, ma massue et mon casque de Roum, je t’attaquerai comme un léopard qui, sortant de la montagne, étend sa griffe sur sa proie.
+> Je jure par l’âme et la tête du maître de l’armée de l’Iran que, mettant de côté ma cuirasse, ma massue et mon casque de Roum, je t’attaquerai comme un léopard qui, sortant de la montagne, étend sa griffe sur sa proie.
 >
 > Quand je combattrai sur le champ de bataille, c’est alors que tu verras comment se comporte un homme.
 
@@ -151,7 +151,7 @@ Thous lui dit:
 >
 > Si tu voulais suivre mon conseil, tu chercherais à t’allier avec moi;
 >
-> Tu te hâterais de te rendre, avec l’illustre Pehlewan de votre armée, auprès du roi de l’Iran;
+> Tu te hâterais de te rendre, avec l’illustre Pehlewan de votre armée, auprès du roi de l’Iran;
 >
 > Car jamais mes troupes ne se reposeront dans cette guerre tant qu’un seul d’entre vous sera en vie.
 >
@@ -175,7 +175,7 @@ Houman lui répondit:
 >
 > Piran du reste ne désire pas la guerre;
 >
-> Car c’est un homme à l’âme grande, noble et bienveillant.
+> Car c’est un homme à l’âme grande, noble et bienveillant.
 
 Pendant que Thous parlait ainsi, Guiv devint rouge comme la sandaraque;
 
@@ -199,7 +199,7 @@ Lorsque Houman entendit ces paroles, il entra dans une grande colère, et dit a
 >
 > Si je meurs de la main de Thous, on ne cessera pas pour cela de lever les massues et de battre les timbales;
 >
-> Car Piran et Afrasiab nous restent, et ils se hâteront de venger ma mort.
+> Car Piran et Afrasiab nous restent, et ils se hâteront de venger ma mort.
 >
 > Mais si Thous succombe sous mes coups, il ne reste plus d’asile aux Iraniens.
 >
@@ -249,7 +249,7 @@ Thous frappa le cheval de Houman avec une flèche de bois de peuplier;
 
 Le destrier tomba, Houman éleva son bouclier au-dessus de sa tête, et tout en découvrant son visage, il mit sa tète à l’abri des coups de massue.
 
-Lorsque les braves de l’armée des Touraniens le virent à pied, ils craignirent qu’il ne succombât et lui amenèrent un noble destrier.
+Lorsque les braves de l’armée des Touraniens le virent à pied, ils craignirent qu’il ne succombât et lui amenèrent un noble destrier.
 
 Houman s’assit sur sa selle de Touz et prit une épée indienne;
 
