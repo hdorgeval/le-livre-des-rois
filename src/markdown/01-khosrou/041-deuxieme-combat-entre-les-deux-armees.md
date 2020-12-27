@@ -40,7 +40,7 @@ order: '041'
 
 # Deuxième combat entre les deux armées
 
-Lorsque le sublime firmament se fut fait une couronne de jade, et qu’il eut répandu sur la voûte bleue les étoiles semblables à des pastilles de camphre, on envoya des deux camps des vedettes et l’on plaça des sentinelles devant les enceintes des tentes.
+Lorsque le sublime firmament se fut fait une couronne de jade, et qu’il eut répandu sur la voûte bleue les étoiles semblables à des pastilles de camphre, on envoya des deux camps des vedettes et l’on plaça des sentinelles devant les enceintes des tentes.
 
 Mais quand le soleil étincelant leva la tête, et que le monde fut devenu brillant comme le visage d’un esclave de Roum, on entendit dans les deux armées le bruit des tambours, le monde se remplit du son des trompettes et l’air se rembrunit par le reflet des drapeaux rouges, noirs, jaunes et violets.
 
@@ -106,7 +106,7 @@ Les fantassins et les bagages étaient adossés à la montagne;
 
 Le Sipehdar Gouderz commandait l’aile droite, toute l’armée formait ses rangs, Rehham et Gourguin se placèrentà l’aile gauche.
 
-Le bruit des timbales et des trompettes faisait trembler le ciel, le cœur de la voûte céleste se déchirait, et la bouche du soleil se remplissait de poussière.
+Le bruit des timbales et des trompettes faisait trembler le ciel, le cœur de la voûte céleste se déchirait, et la bouche du soleil se remplissait de poussière.
 
 La plaine disparaissait sous la poussière qui s’élevait sur le champ de bataille, une pluie d’acier sortait de ce sombre brouillard:
 

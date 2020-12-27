@@ -80,7 +80,7 @@ Il lui envoya de l’or et des joyaux dignes d’un roi, des ceintures d’or br
 
 Il lui envoya ces présents et lui adressa beaucoup de conseils, disant:
 
-> Entoure-toi de Mobeds, et sois vigilant, préserve ton armée des embûches de l’ennemi, envoie de tous côtés des espions prudents;
+> Entoure-toi de Mobeds, et sois vigilant, préserve ton armée des embûches de l’ennemi, envoie de tous côtés des espions prudents;
 >
 > Car Keï Khosrou est maintenant maître de grands trésors, et sa justice et sa générosilé font fleurir son empire.
 >

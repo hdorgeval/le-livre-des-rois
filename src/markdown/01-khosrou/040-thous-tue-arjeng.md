@@ -109,7 +109,7 @@ Houman répondit:
 >
 > Parce qu’un malheureux est mort de ta main, ne méprise pas les autres.
 >
-> Si c’était à moi qu’Arjeng eût eu affaire, il n’aurait jamais osé me tenir tête.
+> Si c’était à moi qu’Arjeng eût eu affaire, il n’aurait jamais osé me tenir tête.
 >
 > Mais les braves de ton armée n’ont-ils donc aucune honte?
 >
@@ -133,7 +133,7 @@ Houman répondit:
 >
 > Elle se sentirait privée de force et de vie;
 >
-> Elle serait comme morte, eût-elle encore la vie sauve.
+> Elle serait comme morte, eût-elle encore la vie sauve.
 >
 > Ensuite je vais te dire une parole vraie, et j’en donne pour garant ma vie et mon cœur, c’est que j’ai pitié des braves qui se présentent devant moi sur le champ de bataille.
 >

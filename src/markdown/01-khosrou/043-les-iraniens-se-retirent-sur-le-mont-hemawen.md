@@ -69,7 +69,7 @@ Lorsque Thous apprit les pertes de Gouderz, ses yeux se remplirent de sang et se
 
 Il poussa des cris de douleur et inonda sa poitrine de larmes de sang, eu disant:
 
-> Oh ! plût à Dieu que Newder le saint n’eût jamais planté les racines de ma vie dans le verger de l’existence, pour que je n’eusse pas à subir tant de peines, d’anxiétés et de douleurs, et le deuil des morts, et l’angoisse du jour du combat!
+> Oh ! plût à Dieu que Newder le saint n’eût jamais planté les racines de ma vie dans le verger de l’existence, pour que je n’eusse pas à subir tant de peines, d’anxiétés et de douleurs, et le deuil des morts, et l’angoisse du jour du combat!
 >
 > Depuis que j’ai ceint l’épée pour la première fois, mon cœur n’a cessé de saigner, quoique j’aie conservé la vie.
 >

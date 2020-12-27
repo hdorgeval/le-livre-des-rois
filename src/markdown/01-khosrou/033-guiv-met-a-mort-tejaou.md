@@ -31,7 +31,7 @@ Il dit à Guiv:
 >
 > C’est l’injuste Tejaou qui m’a blessé, qui n’a eu égard ni à ma naissance ni à mon rang.
 
-A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
+A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
 
 Il remonta sur-le-champ à cheval, le cœur rempli de douleur et de vengeance, et s’arma d’une épée indienne.
 

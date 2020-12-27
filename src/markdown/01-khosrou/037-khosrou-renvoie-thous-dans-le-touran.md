@@ -60,7 +60,7 @@ Ensuite le maître de l’armée appela Guiv, le fit asseoir sur le trône des 
 >
 > Il ne faut pas que le Sipehdar Thous lance au combat, sans te consulter, ses éléphants chargés de timbales.
 >
-> Souvent un homme couvert de gloire a pris le monde en dégoût à cause des paroles d’un calomniateur.
+> Souvent un homme couvert de gloire a pris le monde en dégoût à cause des paroles d’un calomniateur.
 >
 > Mais ne donne pas, par ta colère, de l’importance à ce qui n’en a pas.
 >
@@ -68,7 +68,7 @@ Ensuite le maître de l’armée appela Guiv, le fit asseoir sur le trône des 
 
 Le roi distribua de l’argent et manda les payeurs de l’armée;
 
-Il parla à Thous amicalement, et choisit, d’après les astres, un jour fortuné, qui fût propice au départ de l’armée.
+Il parla à Thous amicalement, et choisit, d’après les astres, un jour fortuné, qui fût propice au départ de l’armée.
 
 Ce jour il se plaça dans la plaine entouré d’éléphants et de timbales, et fit passer devant lui Thous et son armée;
 

@@ -51,11 +51,11 @@ Las de la vie et fatigué du monde, il les conduisit au château, choisit les mo
 
 > Cette crête de montagne est notre demeure, maintenant tâchez de guérir.
 
-On envoya des vedettes dans la plaine pour que l’ennemi ne pût passer;
+On envoya des vedettes dans la plaine pour que l’ennemi ne pût passer;
 
 Et tels étaient les cris des sentinelles et le bruit des clochettes, que tu aurais dit que la montagne et les rochers bondissaient.
 
-Quand le soleil parut au-dessus du mont Hemawen, les vedettes des Touraniens s’approchèrent des bords du fleuve, et un bruit s’éleva du camp de Piran, comme si la terre eût tremblé.
+Quand le soleil parut au-dessus du mont Hemawen, les vedettes des Touraniens s’approchèrent des bords du fleuve, et un bruit s’éleva du camp de Piran, comme si la terre eût tremblé.
 
 Le Sipehdar du Touran amena son armée sur le champ de bataille rapidement comme la flamme, en disant à Houman:
 
@@ -115,7 +115,7 @@ Mais Houman lui répondit:
 >
 > Il faut concerter des ruses et des stratagèmes.
 >
-> Nous sommes sûrs de nous emparer de Gouderz, du Sipehdar Thous, du drapeau impérial, des éléphants et des timbales, et cela vaudra mieux que d’attendre ici.
+> Nous sommes sûrs de nous emparer de Gouderz, du Sipehdar Thous, du drapeau impérial, des éléphants et des timbales, et cela vaudra mieux que d’attendre ici.
 
 Le Pehlewan lui répondit:
 
@@ -123,7 +123,7 @@ Le Pehlewan lui répondit:
 >
 > Puisses-tu rester heureux!
 >
-> Fais ce que ta bonne étoile et ton sens droit t’inspirent, car ta stature s’élève au-dessus de la voûte du ciel.
+> Fais ce que ta bonne étoile et ton sens droit t’inspirent, car ta stature s’élève au-dessus de la voûte du ciel.
 
 Le Sipehdar Piran suivit alors avec l’armée du Touran les traces des Iraniens, et il dit à Lehhak:
 
@@ -133,7 +133,7 @@ Lehhak partit comme le vent, il ne pensa ni à manger ni à dormir;
 
 Et lorsque la moitié de la nuit sombre fut passée, il aperçut les vedettes des Iraniens sur la plaine noire, il entendit sur la montagne le bruit de l’armée et le son des clochettes.
 
-Il ne jugea pas qu’il dût s’arrêter, revint sur ses pas, et donna à Piran des nouvelles des Iraniens, en disant:
+Il ne jugea pas qu’il dût s’arrêter, revint sur ses pas, et donna à Piran des nouvelles des Iraniens, en disant:
 
 > Ils sont dans le mont Hemawen et en gardent l’approche contre une surprise.
 
