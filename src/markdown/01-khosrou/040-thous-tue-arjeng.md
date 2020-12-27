@@ -3,7 +3,41 @@ date: ''
 image: 'https://source.unsplash.com/Yjegp7HqhXE'
 landscape: 'https://source.unsplash.com/xOW_W2vsuk8'
 source: tome III - livre des rois - P. 013
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Ahriman',
+    'Alborz',
+    'Arjeng',
+    'Bijen',
+    'Dieu',
+    'Djadj',
+    'Gouderz',
+    'Guiv',
+    'Houman',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Juste',
+    'Kaweh',
+    'Keschwad',
+    'Newder',
+    'Pehlewan',
+    'Piran',
+    'Roum',
+    'Rustem',
+    'Sam',
+    'Schahd',
+    'Sipehbed',
+    'Sipehdar',
+    'Thous',
+    'Touran',
+    'Touraniens',
+    'Touz',
+    'Turc',
+    'Zal',
+    'Zereh',
+  ]
 order: '040'
 ---
 

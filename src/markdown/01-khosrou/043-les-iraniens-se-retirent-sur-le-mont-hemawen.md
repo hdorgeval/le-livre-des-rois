@@ -3,7 +3,23 @@ date: ''
 image: 'https://source.unsplash.com/MFM8ASk4XNs'
 landscape: 'https://source.unsplash.com/MFM8ASk4XNs'
 source: tome III - livre des rois - P. 030
-tags: []
+tags:
+  [
+    'Bahram',
+    'Dieu',
+    'Gouderz',
+    'Hemawen',
+    'Iran',
+    'Iraniens',
+    'Newder',
+    'Piran',
+    'Rustem',
+    'Sipehdar',
+    'Thous',
+    'Touran',
+    'Touraniens',
+    'Zal',
+  ]
 order: '043'
 ---
 

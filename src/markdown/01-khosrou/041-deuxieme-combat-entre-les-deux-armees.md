@@ -3,7 +3,38 @@ date: ''
 image: 'https://source.unsplash.com/SwcaMnI7TUU'
 landscape: 'https://source.unsplash.com/xOW_W2vsuk8'
 source: tome III - livre des rois - P. 021
-tags: []
+tags:
+  [
+    'Behil',
+    'Berzin',
+    'Bijen',
+    'Deuxième',
+    'Dieu',
+    'Divs',
+    'Ferhad',
+    'Ferschidwerd',
+    'Gouderz',
+    'Gourazeh',
+    'Gourguin',
+    'Guiv',
+    'Gustehem',
+    'Houman',
+    'Iraniens',
+    'Kaweh',
+    'Kelbad',
+    'Keschwad',
+    'Kharrad',
+    'Lehhak',
+    'Pehlewan',
+    'Piran',
+    'Rehham',
+    'Roum',
+    'Schidousch',
+    'Schithrekh',
+    'Sipehdar',
+    'Thous',
+    'Touraniens',
+  ]
 order: '041'
 ---
 

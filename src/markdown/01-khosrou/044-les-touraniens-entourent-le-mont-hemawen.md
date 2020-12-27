@@ -3,7 +3,31 @@ date: ''
 image: 'https://source.unsplash.com/3wkonYy2w94'
 landscape: 'https://source.unsplash.com/3wkonYy2w94'
 source: tome III - livre des rois - P. 032
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Bijen',
+    'Gouderz',
+    'Guiv',
+    'Hemawen',
+    'Houman',
+    'Iran',
+    'Iraniens',
+    'Kaweh',
+    'Khosrou',
+    'Lehhak',
+    'Mobeds',
+    'Pehlewan',
+    'Pehlewans',
+    'Piran',
+    'Rustem',
+    'Sipehdar',
+    'Thous',
+    'Touran',
+    'Touraniens',
+    'Turcs',
+    'Zaboulistan',
+  ]
 order: '044'
 ---
 

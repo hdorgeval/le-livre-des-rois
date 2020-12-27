@@ -3,7 +3,8 @@ date: ''
 image: 'https://source.unsplash.com/OwqLxCvoVxI'
 landscape: 'https://source.unsplash.com/OwqLxCvoVxI'
 source: tome III - livre des rois - P. 011
-tags: []
+tags:
+  ['Afrasiab', 'Gouderz', 'Guiv', 'Iran', 'Iraniens', 'Piran', 'Schidousch', 'Siawusch', 'Thous']
 order: '039'
 ---
 

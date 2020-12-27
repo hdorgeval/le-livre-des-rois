@@ -3,7 +3,31 @@ date: ''
 image: 'https://source.unsplash.com/-7B7Vvk3KlQ'
 landscape: 'https://source.unsplash.com/-h8U7Bh1oEk'
 source: tome III - livre des rois - P. 025
-tags: []
+tags:
+  [
+    'Bazour',
+    'Bijen',
+    'Dieu',
+    'Div',
+    'Gouderz',
+    'Gourazeh',
+    'Guiv',
+    'Gustehem',
+    'Houman',
+    'Iran',
+    'Iraniens',
+    'Kaweh',
+    'Mobed',
+    'pehlewi',
+    'Piran',
+    'Rehham',
+    'Schidousch',
+    'Sipehbed',
+    'Thous',
+    'Tigre',
+    'Touraniens',
+    'Turcs',
+  ]
 order: '042'
 ---
 
