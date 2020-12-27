@@ -45,7 +45,7 @@ order: '040'
 
 Or il y avait un grand du Touran nommé Arjeng, qui s’était fait dans les combats un nom qui allait jusqu’aux nues;
 
-Il s’élança, fit voler la poussière et provoqua au combat les Iraniens.
+Il s’élança, fit voler la poussière et provoqua au combat les Iraniens.
 
 Thous le vit de loin, poussa un cri, tira l’épée et dit au fils de Zereh:
 
@@ -69,7 +69,7 @@ Tu aurais dit que le corps d’Arjeng n’avait jamais porté de tête.
 
 Piran et l’armée des Touraniens étaient confondus, et le champ de bataille restait abandonné;
 
-Les guerriers et les grands du Touran saisirent leurs épées et leurs lourdes massues, ces vaillants lions s’adressèrent la parole l’un à l’autre, et l’on entendit un bruit confus de voix disant:
+Les guerriers et les grands du Touran saisirent leurs épées et leurs lourdes massues, ces vaillants lions s’adressèrent la parole l’un à l’autre, et l’on entendit un bruit confus de voix disant:
 
 > Faisons un commun effort, combattons, rendons étroit le monde au cœur de Thous.
 
@@ -81,7 +81,7 @@ Mais Houman leur dit:
 >
 > Mais ne les attaquons pas impétueusement, et contenons-nous aujourd’hui.
 >
-> Demain quand toute l’armée s’ébranlera, quand on battra le tambour dans l’enceinte des tentes de Piran, alors nous lèverons tous nos massues, nous tirerons nos poignards, nous nous avancerons au delà du fleuve, et Dieu et la fortune aidant, nous livrerons en masse une grande bataille.
+> Demain quand toute l’armée s’ébranlera, quand on battra le tambour dans l’enceinte des tentes de Piran, alors nous lèverons tous nos massues, nous tirerons nos poignards, nous nous avancerons au delà du fleuve, et Dieu et la fortune aidant, nous livrerons en masse une grande bataille.
 
 Houman monta sur un cheval de main et le lança;
 
@@ -125,9 +125,9 @@ Houman répondit:
 >
 > Va et prends l’étendard de Kaweh, car un Sipehbed ne se jette pas dans la mêlée.
 >
-> Regarde à qui ton roi a donné des présents, et qui d’entre tes braves ambitionne le sceau et le diadème;
+> Regarde à qui ton roi a donné des présents, et qui d’entre tes braves ambitionne le sceau et le diadème;
 >
-> Ordonne-leur de combattre comme des lions et de vaincre ceux qui naguère les ont vaincus.
+> Ordonne-leur de combattre comme des lions et de vaincre ceux qui naguère les ont vaincus.
 >
 > Car si tu mourais de ma main, cette glorieuse armée serait perdue;
 >
@@ -137,9 +137,9 @@ Houman répondit:
 >
 > Ensuite je vais te dire une parole vraie, et j’en donne pour garant ma vie et mon cœur, c’est que j’ai pitié des braves qui se présentent devant moi sur le champ de bataille.
 >
-> Après Rustem fils de Zal fils de Sam le cavalier, je ne connais pas un homme plus glorieux que toi;
+> Après Rustem fils de Zal fils de Sam le cavalier, je ne connais pas un homme plus glorieux que toi;
 >
-> De père en fils vous êtes des braves et des princes, et qu’est-il besoin d’une armée, si tu veux combattre en personne?
+> De père en fils vous êtes des braves et des princes, et qu’est-il besoin d’une armée, si tu veux combattre en personne?
 >
 > Pars donc, et qu’un de tes braves avides de gloire se place en face de moi.
 
@@ -151,11 +151,11 @@ Thous lui dit:
 >
 > Si tu voulais suivre mon conseil, tu chercherais à t’allier avec moi;
 >
-> Tu te hâterais de te rendre, avec l’illustre Pehlewan de votre armée, auprès du roi de l’Iran;
+> Tu te hâterais de te rendre, avec l’illustre Pehlewan de votre armée, auprès du roi de l’Iran;
 >
 > Car jamais mes troupes ne se reposeront dans cette guerre tant qu’un seul d’entre vous sera en vie.
 >
-> Ne cours donc pas follement à ta perte, et n’agis pas de manière que tu aies à te souvenir de mon conseil quand il sera trop tard.
+> Ne cours donc pas follement à ta perte, et n’agis pas de manière que tu aies à te souvenir de mon conseil quand il sera trop tard.
 >
 > Laisse se jeter dans cette lutte ceux qui sont destinés à périr, car pas un des coupables n’échappera à notre vengeance;
 >
@@ -165,13 +165,13 @@ Thous lui dit:
 >
 > > Il ne faut pas qu’il arrive du mal à Piran;
 > >
-> > Car c’est le vertueux guide de mon enfance, un homme plein d’expérience et mon sincère ami.
+> > Car c’est le vertueux guide de mon enfance, un homme plein d’expérience et mon sincère ami.
 >
 > Ne t’associe pas follement à lui dans cette guerre injuste, et efforce-toi au contraire de lui faire adopter les tonseils.
 
 Houman lui répondit:
 
-> Juste ou injuste, quand un roi de noble lignage a ordonné, il faut obéir sans hésiter, il faut lui sacrifier entièrement sa volonté.
+> Juste ou injuste, quand un roi de noble lignage a ordonné, il faut obéir sans hésiter, il faut lui sacrifier entièrement sa volonté.
 >
 > Piran du reste ne désire pas la guerre;
 >
@@ -185,7 +185,7 @@ Il sortit des rangs rapidement comme le vent et lui dit:
 >
 > Ne lui parle qu’avec l’épée, et ne cherche pas la paix.
 
-Lorsque Houman entendit ces paroles, il entra dans une grande colère, et dit à Guiv sur qui veillait la fortune:
+Lorsque Houman entendit ces paroles, il entra dans une grande colère, et dit à Guiv sur qui veillait la fortune:
 
 > Ô toi le plus misérable d’entre les hommes libres, périsse Gouderz le fils de Keschwad!
 >
@@ -203,11 +203,11 @@ Lorsque Houman entendit ces paroles, il entra dans une grande colère, et dit a
 >
 > Mais si Thous succombe sous mes coups, il ne reste plus d’asile aux Iraniens.
 >
-> Tu devrais pleurer la mort de tes frères au lieu de faire une querelle à Thous fils de Newder!
+> Tu devrais pleurer la mort de tes frères au lieu de faire une querelle à Thous fils de Newder!
 
 Celui-ci lui dit:
 
-> Pourquoi te mettre en colère?
+> Pourquoi te mettre en colère?
 >
 > C’est à moi seul que tu as affaire ici: commençons donc notre combat, et que la lutte nous fasse froncer les sourcils.
 
@@ -217,9 +217,9 @@ Houman lui répondit:
 >
 > Et puisqu’il faut mourir, il vaut mieux que ce soit sur le champ de bataille et de la main d’un brave cavalier, d’un Sipehbed chef de l’armée, d’un héros plein de valeur.
 
-Tous les deux saisirent leurs lourdes massues et s’attaquèrent;
+Tous les deux saisirent leurs lourdes massues et s’attaquèrent;
 
-La terre tourna sous leurs pieds, le jour s’obscurcit, un nuage de poussière se leva sur le champ de bataille;
+La terre tourna sous leurs pieds, le jour s’obscurcit, un nuage de poussière se leva sur le champ de bataille;
 
 Tu aurais dit que la nuit les avait surpris au milieu du jour, et que le soleil qui illumine le monde avait disparu.
 
@@ -231,29 +231,29 @@ Tu aurais dit que les têtes recouvertes d’un casque étaient de pierre, et l
 
 Ils prirent leurs épées indiennes, et le feu sortit de l’acier et des pierres;
 
-Les épées tranchantes plièrent par la force des combattants et se brisèrent sous leurs coups.
+Les épées tranchantes plièrent par la force des combattants et se brisèrent sous leurs coups.
 
-Leur gosier était desséché et leur tête couverte de poussière;
+Leur gosier était desséché et leur tête couverte de poussière;
 
-Ils se saisirent par la courroie de leurs ceintures; ils appuyèrent de toutes leurs forces sur les étriers, mais aucun des deux ne se laissa jeter à bas.
+Ils se saisirent par la courroie de leurs ceintures; ils appuyèrent de toutes leurs forces sur les étriers, mais aucun des deux ne se laissa jeter à bas.
 
 La ceinture de Houman fut rompue, il fit un bond et sauta sur un cheval frais;
 
-Thous porta la main à son carquois, banda son arc, y plaça une flèche de bois de peuplier et fit pleuvoir des traits sur Houman et attaqua les cavaliers à droite et à gauche.
+Thous porta la main à son carquois, banda son arc, y plaça une flèche de bois de peuplier et fit pleuvoir des traits sur Houman et attaqua les cavaliers à droite et à gauche.
 
 Le fer des pointes et les plumes d’aigle dont les traits étaient empennés obscurcirent le soleil, comme si deux veilles de la nuit s’étaient écoulées;
 
 On aurait dit que le pays entier était couvert d’acier.
 
-Thous frappa le cheval de Houman avec une flèche de bois de peuplier;
+Thous frappa le cheval de Houman avec une flèche de bois de peuplier;
 
-Le destrier tomba, Houman éleva son bouclier au-dessus de sa tête, et tout en découvrant son visage, il mit sa tète à l’abri des coups de massue.
+Le destrier tomba, Houman éleva son bouclier au-dessus de sa tête, et tout en découvrant son visage, il mit sa tète à l’abri des coups de massue.
 
-Lorsque les braves de l’armée des Touraniens le virent à pied, ils craignirent qu’il ne succombât et lui amenèrent un noble destrier.
+Lorsque les braves de l’armée des Touraniens le virent à pied, ils craignirent qu’il ne succombât et lui amenèrent un noble destrier.
 
 Houman s’assit sur sa selle de Touz et prit une épée indienne;
 
-Mais les grands pleins de bravoure l’entourèrent tous et lui dirent:
+Mais les grands pleins de bravoure l’entourèrent tous et lui dirent:
 
 > Le jour baisse, et il n’est plus temps de se battre;
 >
@@ -263,7 +263,7 @@ Mais les grands pleins de bravoure l’entourèrent tous et lui dirent:
 >
 > Puisse la fin de cette lutte être pour toi une fête!
 
-Thous releva droit sa lance, et Houman secoua les rênes de son cheval, quitta le champ de bataille et se rendit auprès de Piran à travers les rangs des Touraniens, qui lui crièrent:
+Thous releva droit sa lance, et Houman secoua les rênes de son cheval, quitta le champ de bataille et se rendit auprès de Piran à travers les rangs des Touraniens, qui lui crièrent:
 
 > Que s’est-il passé lorsque lu as rencontré Thous, ô toi qui recherches les combats?
 >
@@ -271,9 +271,9 @@ Thous releva droit sa lance, et Houman secoua les rênes de son cheval, quitta 
 
 Houman le lion leur dit:
 
-> Ô braves, vous qui avez vu mainte bataille, quand la nuit sombre aura fait place à la lumière, alors la victoire sera pour nous, car le soleil qui éclaire le monde m’est propice;
+> Ô braves, vous qui avez vu mainte bataille, quand la nuit sombre aura fait place à la lumière, alors la victoire sera pour nous, car le soleil qui éclaire le monde m’est propice;
 >
-> Alors vous serez comblés de bonheur, et l’astre du ciel se lèvera sur moi.
+> Alors vous serez comblés de bonheur, et l’astre du ciel se lèvera sur moi.
 
 Thous de son côté fit entendre sa voix au milieu de son armée, pendant toute la nuit jusqu’au chant du coq, en disant:
 

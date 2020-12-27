@@ -43,13 +43,13 @@ Déjà l’air était sombre, quoiqu’on fût au premier mois de l’été, e
 
 Bazour monta sur la hauteur, et tout à coup il s’éleva un orage et une tourmente de neige qui paralysait dans la bataille les mains des Iraniens armés de lances.
 
-Ils entendirent au milieu de l’orage et du vent glacial les cris de guerre des héros et la grêle des flèches qui tombaient sur eux.
+Ils entendirent au milieu de l’orage et du vent glacial les cris de guerre des héros et la grêle des flèches qui tombaient sur eux.
 
 Piran donna alors à toute son armée l’ordre de faire une attaque pendant que les mains des ennemis seraient gelées sur leurs lances et qu’ils ne pourraient montrer leur bravoure.
 
 Houman poussa un cri, et semblable à un Div, se jeta avec ses troupes sur les Iraniens;
 
-Et ils en tuèrent tant qu’une mer de sang se forma entre les deux armées.
+Et ils en tuèrent tant qu’une mer de sang se forma entre les deux armées.
 
 La plaine et les vallées étaient couvertes de neige, de sang et de cavaliers iraniens couchés sur le sol.
 
@@ -59,11 +59,11 @@ La plaine était parsemée d’épées et de mains, les braves étaient couchés
 
 On ne pouvait plus se mouvoir sur ce champ de carnage, et les mains des guerriers étaient noires de froid.
 
-Thous et les grands adressèrent leurs lamentations au ciel, disant:
+Thous et les grands adressèrent leurs lamentations au ciel, disant:
 
 > Ô Dieu, qui est au-dessus de toute sagesse, de toute prudence, de tout conseil, toi qu’aucun lieu ne peut contenir, nous sommes tous tes esclaves chargés de péchés: dans notre détresse nous te demandons secours;
 >
-> Tu es le sauveur de ceux qui désespèrent;
+> Tu es le sauveur de ceux qui désespèrent;
 >
 > Délivre-nous de ce vent glacial, écarte de nous ce froid rigoureux, car nous ne reconnaissons d’autre seigneur que toi.
 
@@ -73,7 +73,7 @@ Rehham s’élança du champ de bataille, poussa son cheval hors des rangs de l�
 
 Le magicien le vit et vint le combattre, une massue d’acier chinois dans la main;
 
-Rehham, lorsqu’il fut près de lui, tira son épée vengeresse et lui abattit la main.
+Rehham, lorsqu’il fut près de lui, tira son épée vengeresse et lui abattit la main.
 
 Un orage pareil à celui qui naîtra le jour de la résurrection s’éleva aussitôt et emporta le nuage qui avait obscurci l’air.
 
@@ -83,7 +83,7 @@ L’air était redevenu ce qu’il avait été auparavant;
 
 Le soleil brillait et le ciel était bleu.
 
-Rehham raconta alors à son père ce qu’avait fait le magicien et comment il avait traité les Iraniens dans ce combat.
+Rehham raconta alors à son père ce qu’avait fait le magicien et comment il avait traité les Iraniens dans ce combat.
 
 Les guerriers du roi virent alors que le champ de bataille ressemblait à une mer de sang, et qu’il était tout couvert des cadavres des Iraniens, de corps sans tête, de têtes sans corps.
 
@@ -93,7 +93,7 @@ Gouderz dit à Thous:
 >
 > Il faut tirer l’épée et faire une attaque pour vaincre ou pour périr;
 >
-> Car notre fin semble prochaine, et ce n’est pas un jour où le lacet ou l’arc et les flèches puissent nous servir.
+> Car notre fin semble prochaine, et ce n’est pas un jour où le lacet ou l’arc et les flèches puissent nous servir.
 
 Thous lui dit:
 
@@ -103,35 +103,35 @@ Thous lui dit:
 >
 > Ne te mets pas à la tête de cette attaque, ces braves qui nous entourent la conduiront, n’avance pas, de peur que tu ne succombes, et ne te jette pas imprudemment au-devant des ennemis.
 >
-> Tiens-toi quelque temps, ton épée bleue en main, au centre de l’armée, auprès du drapeau de Kaweh.
+> Tiens-toi quelque temps, ton épée bleue en main, au centre de l’armée, auprès du drapeau de Kaweh.
 >
 > Guiv et Bijen commanderont l’aile droite, Gustehem l’aile gauche;
 >
-> Rehham, Schidousch et Gourazeh, dont les lèvres sont couvertes de l’écume de la rage, se placeront devant les rangs;
+> Rehham, Schidousch et Gourazeh, dont les lèvres sont couvertes de l’écume de la rage, se placeront devant les rangs;
 >
-> Et si je ce tombe sur ce champ de bataille, tu ramèneras l’armée au roi de l’Iran.
+> Et si je ce tombe sur ce champ de bataille, tu ramèneras l’armée au roi de l’Iran.
 >
-> Je préfère la mort aux reproches et à l’insulte des méchants qui de tous côtés me menace.
+> Je préfère la mort aux reproches et à l’insulte des méchants qui de tous côtés me menace.
 
 Tel est ce monde plein de douleurs et de peines;
 
-Autant que tu peux, ne cours pas après ses grandeurs: il te comblera tout un jour de ses faveurs, mais il ne prolongera pas d’une minute ton existence.
+Autant que tu peux, ne cours pas après ses grandeurs: il te comblera tout un jour de ses faveurs, mais il ne prolongera pas d’une minute ton existence.
 
 Le son des trompettes et le bruit des clochettes indiennes se fit entendre de nouveau;
 
-Les cris des cavaliers ardents au combat, les éclairs des épées et des haches d’armes, les coups des massues, des javelots et des flèches faisaient couler sur la terre un torrent de sang pareil aux eaux du Tigre.
+Les cris des cavaliers ardents au combat, les éclairs des épées et des haches d’armes, les coups des massues, des javelots et des flèches faisaient couler sur la terre un torrent de sang pareil aux eaux du Tigre.
 
 La plaine était remplie de têtes et de bras coupés, et les coups de massue retentissaient dans toutes les oreilles.
 
-L’étoile des Iraniens s’obscurcit, et ils tournèrent le dos à l’ennemi.
+L’étoile des Iraniens s’obscurcit, et ils tournèrent le dos à l’ennemi.
 
 Thous, Gouderz, le courageux Guiv, Schidousch, Bijen et Rehham le lion, plaçant leur vie sur la paume de la main, combattaient au premier rang;
 
-Tous ceux qui entouraient Thous étaient des grands et des gouverneurs de provinces: ils versaient du sang au front de l’armée, mais ceux qui étaient derrière eux s’enfuirent.
+Tous ceux qui entouraient Thous étaient des grands et des gouverneurs de provinces: ils versaient du sang au front de l’armée, mais ceux qui étaient derrière eux s’enfuirent.
 
 Alors un Mobed s’adressa au vaillant Thous et lui dit:
 
-> Il ne reste plus de guerriers derrière toi, ne te laisse pas entourer;
+> Il ne reste plus de guerriers derrière toi, ne te laisse pas entourer;
 >
 > Ne laisse pas mettre l’armée en danger par la perte du Sipehbed.
 
@@ -139,7 +139,7 @@ Thous dit alors au vaillant Guiv:
 
 > Il n’y a pas de raison dans le cerveau de cette armée qui nous abandonne ainsi et s’enfuit en pareil moment.
 >
-> Va, et ramène-les en leur faisant appréhender les railleries des ennemis et la honte qui les attend devant le roi
+> Va, et ramène-les en leur faisant appréhender les railleries des ennemis et la honte qui les attend devant le roi
 
 Guiv partit et ramena les troupes;
 
@@ -147,6 +147,6 @@ Mais en voyant toute la plaine jonchée de morts, Thous dit aux grands:
 
 > C’est un combat et une lutte dignes des chefs d’une armée;
 >
-> Mais la face du jour s’est couverte de ténèbres, et la terre ressemble à une mer de sang.
+> Mais la face du jour s’est couverte de ténèbres, et la terre ressemble à une mer de sang.
 >
 > Il faut donc chercher un lieu de repos si tant est que vous puissiez vous reposer pendant cette nuit noire, pour que dans quelque fossé nous donnions à nos morts une couche de sable et une couverture de terre.
