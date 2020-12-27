@@ -37,13 +37,13 @@ Il y avait parmi les Turcs un homme nommé Bazour, qui avait en tout pays exerc�
 
 Piran dit à ce magicien:
 
-> Va sur la crête de la montagne, et accable à l’instant les Iraniens de neige, de froid et d’un vent furieux.
+> Va sur la crête de la montagne, et accable à l’instant les Iraniens de neige, de froid et d’un vent furieux.
 
 Déjà l’air était sombre, quoiqu’on fût au premier mois de l’été, et un nuage noir couvrait la montagne.
 
 Bazour monta sur la hauteur, et tout à coup il s’éleva un orage et une tourmente de neige qui paralysait dans la bataille les mains des Iraniens armés de lances.
 
-Ils entendirent au milieu de l’orage et du vent glacial les cris de guerre des héros et la grêle des flèches qui tombaient sur eux.
+Ils entendirent au milieu de l’orage et du vent glacial les cris de guerre des héros et la grêle des flèches qui tombaient sur eux.
 
 Piran donna alors à toute son armée l’ordre de faire une attaque pendant que les mains des ennemis seraient gelées sur leurs lances et qu’ils ne pourraient montrer leur bravoure.
 
@@ -69,7 +69,7 @@ Thous et les grands adressèrent leurs lamentations au ciel, disant:
 
 Un homme qui avait étudié toutes les sciences s’approcha de Rehham et lui montra du doigt la hauteur où le vaillant Bazour se tenait et où il pratiquait la magie et les incantations.
 
-Rehham s’élança du champ de bataille, poussa son cheval hors des rangs de l’armée, et monta ensuite à pied sur la crête de la montagne, en serrant les pans de sa cotte de mailles dans sa ceinture.
+Rehham s’élança du champ de bataille, poussa son cheval hors des rangs de l’armée, et monta ensuite à pied sur la crête de la montagne, en serrant les pans de sa cotte de mailles dans sa ceinture.
 
 Le magicien le vit et vint le combattre, une massue d’acier chinois dans la main;
 
@@ -85,7 +85,7 @@ Le soleil brillait et le ciel était bleu.
 
 Rehham raconta alors à son père ce qu’avait fait le magicien et comment il avait traité les Iraniens dans ce combat.
 
-Les guerriers du roi virent alors que le champ de bataille ressemblait à une mer de sang, et qu’il était tout couvert des cadavres des Iraniens, de corps sans tête, de têtes sans corps.
+Les guerriers du roi virent alors que le champ de bataille ressemblait à une mer de sang, et qu’il était tout couvert des cadavres des Iraniens, de corps sans tête, de têtes sans corps.
 
 Gouderz dit à Thous:
 
@@ -101,7 +101,7 @@ Thous lui dit:
 >
 > Pourquoi désespérer, puisque Dieu le secourable nous a rendu notre vigueur et nos forces?
 >
-> Ne te mets pas à la tête de cette attaque, ces braves qui nous entourent la conduiront, n’avance pas, de peur que tu ne succombes, et ne te jette pas imprudemment au-devant des ennemis.
+> Ne te mets pas à la tête de cette attaque, ces braves qui nous entourent la conduiront, n’avance pas, de peur que tu ne succombes, et ne te jette pas imprudemment au-devant des ennemis.
 >
 > Tiens-toi quelque temps, ton épée bleue en main, au centre de l’armée, auprès du drapeau de Kaweh.
 >
@@ -121,7 +121,7 @@ Le son des trompettes et le bruit des clochettes indiennes se fit entendre de no
 
 Les cris des cavaliers ardents au combat, les éclairs des épées et des haches d’armes, les coups des massues, des javelots et des flèches faisaient couler sur la terre un torrent de sang pareil aux eaux du Tigre.
 
-La plaine était remplie de têtes et de bras coupés, et les coups de massue retentissaient dans toutes les oreilles.
+La plaine était remplie de têtes et de bras coupés, et les coups de massue retentissaient dans toutes les oreilles.
 
 L’étoile des Iraniens s’obscurcit, et ils tournèrent le dos à l’ennemi.
 

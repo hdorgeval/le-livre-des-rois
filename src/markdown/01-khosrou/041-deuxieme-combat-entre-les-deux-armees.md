@@ -42,13 +42,13 @@ order: '041'
 
 Lorsque le sublime firmament se fut fait une couronne de jade, et qu’il eut répandu sur la voûte bleue les étoiles semblables à des pastilles de camphre, on envoya des deux camps des vedettes et l’on plaça des sentinelles devant les enceintes des tentes.
 
-Mais quand le soleil étincelant leva la tête, et que le monde fut devenu brillant comme le visage d’un esclave de Roum, on entendit dans les deux armées le bruit des tambours, le monde se remplit du son des trompettes et l’air se rembrunit par le reflet des drapeaux rouges, noirs, jaunes et violets.
+Mais quand le soleil étincelant leva la tête, et que le monde fut devenu brillant comme le visage d’un esclave de Roum, on entendit dans les deux armées le bruit des tambours, le monde se remplit du son des trompettes et l’air se rembrunit par le reflet des drapeaux rouges, noirs, jaunes et violets.
 
 Tous tirèrent leurs épées et détachèrent leur lourdes massues;
 
 Tous roulèrent la bride autour de la main;
 
-Tu aurais dit que le ciel et la terre étaient revêtus d’un manteau de fer;
+Tu aurais dit que le ciel et la terre étaient revêtus d’un manteau de fer;
 
 Le soleil resplendissant se cachait sous son voile, à cause du trépignement des chevaux et de la poussière;
 
@@ -56,7 +56,7 @@ Et le ciel, effrayé du hennissement des chevaux et du son des timbales, s’aba
 
 Le Sipehdar Houman caracolait devant les rangs, une lance brillante au poing, en disant:
 
-> Quand je pousserai mon cri de guerre, quand je lancerai mon coursier et que je partirai en bouillonnant d’impatience, vous tirerez tous vos épées, vous vous couvrirez la tête de vos boucliers chinois, et tiendrez les yeux sur la crinière et la bride de vos chevaux;
+> Quand je pousserai mon cri de guerre, quand je lancerai mon coursier et que je partirai en bouillonnant d’impatience, vous tirerez tous vos épées, vous vous couvrirez la tête de vos boucliers chinois, et tiendrez les yeux sur la crinière et la bride de vos chevaux;
 >
 > Car je ne veux pas d’arcs, et il ne nous faut pas de lances;
 >
@@ -82,7 +82,7 @@ Mais le Sipehdar dit à Gouderz fils de Keschwad:
 
 > Il faut proclamer devant toute l’armée que, quand elle en sera venue aux mains avec l’ennemi, et qu’elle aura jeté la confusion dans les rangs de ses cavaliers, nous devons tous lever nos mains vers Dieu, agir de concert et renoncer chacun à notre propre volonté;
 >
-> Alors peut-être Dieu nous aidera : sinon notre étoile pâlira et notre sort sera mauvais.
+> Alors peut-être Dieu nous aidera : sinon notre étoile pâlira et notre sort sera mauvais.
 >
 > Maintenant, ô grands aux bottines d’or, partez avec le drapeau de Kaweh;
 >
@@ -94,7 +94,7 @@ Gouderz lui répondit:
 
 > Si Dieu veut écarter de nous le malheur, il est inutile de parler de nombres;
 >
-> Ne trouble donc pas la tête et le cœur des Iraniens.
+> Ne trouble donc pas la tête et le cœur des Iraniens.
 >
 > Et si le ciel dans sa rotation nous amène la mauvaise fortune, tous nos soins pour nous assurer la victoire seront vains.
 >
@@ -118,7 +118,7 @@ Tu aurais dit que l’air n’était que massues et que fer, et la terre que sab
 
 La plaine et les prairies étaient une mer de sang, l’air ressemblait à la nuit, et les épées à des flambeaux;
 
-Le bruit des timbales et des trompettes était tel qu’on ne distinguait plus les têtes des pieds.
+Le bruit des timbales et des trompettes était tel qu’on ne distinguait plus les têtes des pieds.
 
 Thous dit alors à Gouderz:
 

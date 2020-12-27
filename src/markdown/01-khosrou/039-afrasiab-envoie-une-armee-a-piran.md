@@ -46,11 +46,11 @@ L’éclat des épées, des lances et des javelots jetait un tel reflet sur la n
 
 Le mouvement de tant de casques d’or et de ceintures d’or, de tant de cavaliers au bouclier d’or, faisait lever un nuage de poussière couleur de sandaraque, et le ciel étoilé était rempli du bruit des timbales.
 
-Les têtes des grands résonnaient sous les coups des lourdes massues, comme l’enclume sous le marteau du forgeron;
+Les têtes des grands résonnaient sous les coups des lourdes massues, comme l’enclume sous le marteau du forgeron;
 
 Le sang qui coulait faisait ressembler la terre à un pressoir, et les lances convertissaient l’air en un champ de roseaux.
 
-Bien des têtes furent prises dans le nœud du lacet, bien de nobles guerriers périrent: leurs cuirasses leur servaient de linceuls, la terre imprégnée de sang formait leur couche, et leurs corps qui avaient joui des délices de la vie étaient déchirés par les épées.
+Bien des têtes furent prises dans le nœud du lacet, bien de nobles guerriers périrent: leurs cuirasses leur servaient de linceuls, la terre imprégnée de sang formait leur couche, et leurs corps qui avaient joui des délices de la vie étaient déchirés par les épées.
 
 La terre était rouge, les joues des combattants couleur de sandaraque, et l’air noir comme l’ébène, à cause de la poussière que soulevaient les cavaliers.
 

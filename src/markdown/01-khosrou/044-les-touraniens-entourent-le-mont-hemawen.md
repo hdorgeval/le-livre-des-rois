@@ -37,11 +37,11 @@ Lorsque le soleil brillant montra sa couronne et qu’il commença à verser du
 
 Il continua de marcher jour et nuit, le cœur soucieux, les lèvres privées de nourriture, les yeux remplis de sang, l’âme blessée et rendue noire comme le plumage du corbeau par ses angoisses.
 
-Arrivé près du mont Hemawen, il arrêta son armée au pied de la montagne et dit à Guiv:
+Arrivé près du mont Hemawen, il arrêta son armée au pied de la montagne et dit à Guiv:
 
 > Ô homme prudent, illustre et brave, tu marches depuis trois jours sans dormir et sans manger;
 >
-> Aie soin de toi, prends du repos et de la nourriture, répare le désordre de tes vêtements et dors, car je ne crois pas que Piran nous suive à l’heure même pour recommencer le combat.
+> Aie soin de toi, prends du repos et de la nourriture, répare le désordre de tes vêtements et dors, car je ne crois pas que Piran nous suive à l’heure même pour recommencer le combat.
 >
 > Laisse à Bijen le commandement de celles de nos troupes qui sont le moins fatiguées, et pars pour la montagne.
 
@@ -49,7 +49,7 @@ Guiv entra dans les montagnes avec les blessés;
 
 Las de la vie et fatigué du monde, il les conduisit au château, choisit les moins épuisés d’entre eux pour le garder, et dit à tous:
 
-> Cette crête de montagne est notre demeure, maintenant tâchez de guérir.
+> Cette crête de montagne est notre demeure, maintenant tâchez de guérir.
 
 On envoya des vedettes dans la plaine pour que l’ennemi ne pût passer;
 
@@ -71,7 +71,7 @@ Un espion s’approcha de Piran et lui dit:
 
 > Il ne s’y trouve pas un homme de l’armée des Iraniens.
 
-Un cri de joie éclata dans les rangs des Touraniens, puis ils prêtèrent l’oreille aux paroles de Piran, qui dit à ces hommes de sens:
+Un cri de joie éclata dans les rangs des Touraniens, puis ils prêtèrent l’oreille aux paroles de Piran, qui dit à ces hommes de sens:
 
 > Ô illustres et nobles Mobeds, que dites-vous, que conseillez-vous, maintenant que l’ennemi a disparu?
 
@@ -81,7 +81,7 @@ Les cavaliers de l’armée, jeunes et vieux, répondirent d’une voix au Pehle
 >
 > Ce n’est pas le moment d’avoir peur et de craindre nos adversaires, il faut suivre leurs traces;
 >
-> Leur terreur doit-elle nous confondre et nous arrêter?
+> Leur terreur doit-elle nous confondre et nous arrêter?
 >
 > Pour échapper au vent, ils se sont jetés dans l’eau, et ils ne se presseront pas de sortir de l’inaction.
 
@@ -133,7 +133,7 @@ Lehhak partit comme le vent, il ne pensa ni à manger ni à dormir;
 
 Et lorsque la moitié de la nuit sombre fut passée, il aperçut les vedettes des Iraniens sur la plaine noire, il entendit sur la montagne le bruit de l’armée et le son des clochettes.
 
-Il ne jugea pas qu’il dût s’arrêter, revint sur ses pas, et donna à Piran des nouvelles des Iraniens, en disant:
+Il ne jugea pas qu’il dût s’arrêter, revint sur ses pas, et donna à Piran des nouvelles des Iraniens, en disant:
 
 > Ils sont dans le mont Hemawen et en gardent l’approche contre une surprise.
 
@@ -141,7 +141,7 @@ Piran dit à Houman:
 
 > Use de la bride et des étriers;
 >
-> Prends une partie de nos guerriers, des braves et illustres cavaliers qui portent haut la tête.
+> Prends une partie de nos guerriers, des braves et illustres cavaliers qui portent haut la tête.
 >
 > Les Iraniens se sont réfugiés sur le mont Hemawen avec toute leur armée et leurs drapeaux.
 >
@@ -153,7 +153,7 @@ Piran dit à Houman:
 >
 > Si tu es vainqueur, coupe en morceaux avec ton épée tranchante le drapeau et sa lance.
 >
-> Moi-même je te suivrai sans délai ni retard, rapidement comme le vent.
+> Moi-même je te suivrai sans délai ni retard, rapidement comme le vent.
 
 Houman choisit trente mille cavaliers touraniens armés de boucliers et d’épées.
 
@@ -161,7 +161,7 @@ Lorsque le brillant soleil montra sa couronne et qu’il commença à verser du
 
 > Une armée de Turcs parait, et la poussière monte au-dessus des nuages noirs.
 
-Thous entendit ce cri et revêtit sa cuirasse;
+Thous entendit ce cri et revêtit sa cuirasse;
 
 Les clairons et les timbales résonnèrent, et les cavaliers iraniens en masse formèrent leurs rangs au bas de la montagne.
 
@@ -169,13 +169,13 @@ Quand Houman vit cette grande armée; quand il vit les chefs brandir leurs massu
 
 Quand il aperçut au-devant de l’armée le drapeau de Kaweh, il s’adressa à Thous et à Gouderz, disant:
 
-> Vous êtes partis de l’Iran avec des éléphants et des timbales, vous avez envahi le Touran, vous avez lancé votre armée sur ce pays.
+> Vous êtes partis de l’Iran avec des éléphants et des timbales, vous avez envahi le Touran, vous avez lancé votre armée sur ce pays.
 >
-> Pourquoi donc vous êtes-vous établis dans une montagne comme des bêtes fauves?
+> Pourquoi donc vous êtes-vous établis dans une montagne comme des bêtes fauves?
 >
 > Avez-vous peur des braves du Touran?
 >
-> N’en êtes-vous pas honteux, n’en rougissez-vous pas?
+> N’en êtes-vous pas honteux, n’en rougissez-vous pas?
 >
 > Trouvez-vous sur ces rochers et sur ces pierres de la nourriture, du sommeil et du repos?
 >
@@ -189,7 +189,7 @@ Il envoya en toute hâte à Piran un messager monté sur un dromadaire, et lui 
 >
 > Toute la montagne est couverte de lances et de timbales, et derrière Gouderz et Thous flottent leurs drapeaux.
 >
-> Lorsque le jour brillant poindra et que l’astre qui éclaire le monde aura paru, trouve-toi ici avec ton armée prête pour le combat, et noircis de tes troupes la surface de la plaine.
+> Lorsque le jour brillant poindra et que l’astre qui éclaire le monde aura paru, trouve-toi ici avec ton armée prête pour le combat, et noircis de tes troupes la surface de la plaine.
 
 Le messager arriva auprès de Piran, qui s’émut en apprenant ce que Houman avait dit;
 

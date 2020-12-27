@@ -57,15 +57,15 @@ Arjeng répondit:
 
 > Je suis Arjeng le brave!
 >
-> Je suis le lion qui porte haut la tête et qui sait attendre.
+> Je suis le lion qui porte haut la tête et qui sait attendre.
 >
-> Maintenant je ferai trembler la terre sous toi, je jetterai ta tête sur le champ de bataille.
+> Maintenant je ferai trembler la terre sous toi, je jetterai ta tête sur le champ de bataille.
 
 Ainsi parla le fils de Zereh;
 
-Le Sipehdar de l’Iran l’écouta, et sans se donner le temps de répondre, il le frappa sur le casque et sur la tête avec l’épée brillante qu’il tenait en main;
+Le Sipehdar de l’Iran l’écouta, et sans se donner le temps de répondre, il le frappa sur le casque et sur la tête avec l’épée brillante qu’il tenait en main;
 
-Tu aurais dit que le corps d’Arjeng n’avait jamais porté de tête.
+Tu aurais dit que le corps d’Arjeng n’avait jamais porté de tête.
 
 Piran et l’armée des Touraniens étaient confondus, et le champ de bataille restait abandonné;
 
@@ -85,7 +85,7 @@ Mais Houman leur dit:
 
 Houman monta sur un cheval de main et le lança;
 
-Tu aurais dit que c’était une muraille de fer ou le mont Alborz revêtu d’une cuirasse.
+Tu aurais dit que c’était une muraille de fer ou le mont Alborz revêtu d’une cuirasse.
 
 Il sortit des rangs de l’armée pour provoquer au combat les Iraniens, un javelot brillant dans la main.
 
@@ -97,7 +97,7 @@ Le Sipehbed Thous s’élance de sa place, le monde se remplit du bruit des trom
 >
 > J’ai montré la force de mon bras à Arjeng, qui était le plus glorieux de vos guerriers, et maintenant tu viens aussi pour me combattre, monté sur ton destrier et tenant un javelot!
 >
-> Je jure par l’âme et la tête du maître de l’armée de l’Iran que, mettant de côté ma cuirasse, ma massue et mon casque de Roum, je t’attaquerai comme un léopard qui, sortant de la montagne, étend sa griffe sur sa proie.
+> Je jure par l’âme et la tête du maître de l’armée de l’Iran que, mettant de côté ma cuirasse, ma massue et mon casque de Roum, je t’attaquerai comme un léopard qui, sortant de la montagne, étend sa griffe sur sa proie.
 >
 > Quand je combattrai sur le champ de bataille, c’est alors que tu verras comment se comporte un homme.
 
@@ -109,7 +109,7 @@ Houman répondit:
 >
 > Parce qu’un malheureux est mort de ta main, ne méprise pas les autres.
 >
-> Si c’était à moi qu’Arjeng eût eu affaire, il n’aurait jamais osé me tenir tête.
+> Si c’était à moi qu’Arjeng eût eu affaire, il n’aurait jamais osé me tenir tête.
 >
 > Mais les braves de ton armée n’ont-ils donc aucune honte?
 >
@@ -123,7 +123,7 @@ Houman répondit:
 >
 > Les hommes de sens ne voudront plus te reconnaître et les sages t’appelleront fou.
 >
-> Va et prends l’étendard de Kaweh, car un Sipehbed ne se jette pas dans la mêlée.
+> Va et prends l’étendard de Kaweh, car un Sipehbed ne se jette pas dans la mêlée.
 >
 > Regarde à qui ton roi a donné des présents, et qui d’entre tes braves ambitionne le sceau et le diadème;
 >
@@ -139,13 +139,13 @@ Houman répondit:
 >
 > Après Rustem fils de Zal fils de Sam le cavalier, je ne connais pas un homme plus glorieux que toi;
 >
-> De père en fils vous êtes des braves et des princes, et qu’est-il besoin d’une armée, si tu veux combattre en personne?
+> De père en fils vous êtes des braves et des princes, et qu’est-il besoin d’une armée, si tu veux combattre en personne?
 >
 > Pars donc, et qu’un de tes braves avides de gloire se place en face de moi.
 
 Thous lui dit:
 
-> Ô noble guerrier, je suis le Sipehbed, mais en même temps un cavalier qui veut combattre;
+> Ô noble guerrier, je suis le Sipehbed, mais en même temps un cavalier qui veut combattre;
 >
 > Et toi aussi tu es un grand de l’armée du Touran, pourquoi es-tu venu sur ce champ de bataille?
 >
@@ -213,7 +213,7 @@ Celui-ci lui dit:
 
 Houman lui répondit:
 
-> La mort est notre destinée, que notre tête soit couverte d’une couronne ou d’un casque;
+> La mort est notre destinée, que notre tête soit couverte d’une couronne ou d’un casque;
 >
 > Et puisqu’il faut mourir, il vaut mieux que ce soit sur le champ de bataille et de la main d’un brave cavalier, d’un Sipehbed chef de l’armée, d’un héros plein de valeur.
 
@@ -223,17 +223,17 @@ La terre tourna sous leurs pieds, le jour s’obscurcit, un nuage de poussière 
 
 Tu aurais dit que la nuit les avait surpris au milieu du jour, et que le soleil qui illumine le monde avait disparu.
 
-Leurs têtes, frappées par les coups redoublés des massues, résonnaient comme l’enclume du forgeron, le bruit du fer montait au ciel, et le vent qu’ils produisaient remuait les eaux du Schahd.
+Leurs têtes, frappées par les coups redoublés des massues, résonnaient comme l’enclume du forgeron, le bruit du fer montait au ciel, et le vent qu’ils produisaient remuait les eaux du Schahd.
 
 Les lourdes massues de Roum ployaient et le fer se courbait comme un arc de Djadj;
 
-Tu aurais dit que les têtes recouvertes d’un casque étaient de pierre, et la mort elle-même fut effrayée par le regard de ces héros.
+Tu aurais dit que les têtes recouvertes d’un casque étaient de pierre, et la mort elle-même fut effrayée par le regard de ces héros.
 
 Ils prirent leurs épées indiennes, et le feu sortit de l’acier et des pierres;
 
 Les épées tranchantes plièrent par la force des combattants et se brisèrent sous leurs coups.
 
-Leur gosier était desséché et leur tête couverte de poussière;
+Leur gosier était desséché et leur tête couverte de poussière;
 
 Ils se saisirent par la courroie de leurs ceintures; ils appuyèrent de toutes leurs forces sur les étriers, mais aucun des deux ne se laissa jeter à bas.
 
@@ -247,7 +247,7 @@ On aurait dit que le pays entier était couvert d’acier.
 
 Thous frappa le cheval de Houman avec une flèche de bois de peuplier;
 
-Le destrier tomba, Houman éleva son bouclier au-dessus de sa tête, et tout en découvrant son visage, il mit sa tète à l’abri des coups de massue.
+Le destrier tomba, Houman éleva son bouclier au-dessus de sa tête, et tout en découvrant son visage, il mit sa tète à l’abri des coups de massue.
 
 Lorsque les braves de l’armée des Touraniens le virent à pied, ils craignirent qu’il ne succombât et lui amenèrent un noble destrier.
 
@@ -261,9 +261,9 @@ Mais les grands pleins de bravoure l’entourèrent tous et lui dirent:
 >
 > Puisse l’œil des méchants se tenir loin de toi!
 >
-> Puisse la fin de cette lutte être pour toi une fête!
+> Puisse la fin de cette lutte être pour toi une fête!
 
-Thous releva droit sa lance, et Houman secoua les rênes de son cheval, quitta le champ de bataille et se rendit auprès de Piran à travers les rangs des Touraniens, qui lui crièrent:
+Thous releva droit sa lance, et Houman secoua les rênes de son cheval, quitta le champ de bataille et se rendit auprès de Piran à travers les rangs des Touraniens, qui lui crièrent:
 
 > Que s’est-il passé lorsque lu as rencontré Thous, ô toi qui recherches les combats?
 >

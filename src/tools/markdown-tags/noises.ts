@@ -294,7 +294,7 @@ export const noises = [
   'Mets-toi',
   'Midi',
   'Moi-même',
-  'Moi-même',
+  'Moi-même',
   'Moi',
   'Mon',
   'Monte',
