@@ -81,8 +81,7 @@ La plaine disparaissait sous la poussière qui s’élevait sur le champ de ba
 
 Et les casques et les épées rendaient des étincelles.
 
-On voyait luire le fer des lances et les glaives des héros, en haut les étendards
-et en bas les lourdes massues.
+On voyait luire le fer des lances et les glaives des héros, en haut les étendards et en bas les lourdes massues.
 
 Tu aurais dit que l’air n’était que massues et que fer, et la terre que sabots de chevaux et cuirasses.
 
