@@ -12,8 +12,8 @@ tags:
     'Iran',
     'Iraniens',
     'Kaous',
-    'Keï',
-    'Keïanide',
+    'Keï',
+    'Keïanide',
     'Khosrou',
     'Mobed',
     'Pehlewan',
@@ -135,7 +135,7 @@ Après l’avoir comblée de louanges, il continua:
 >
 > Tu sais que jamais une femme n’est insensible à l’amour qu’elle inspire;
 >
-> Et quelle est la jeune femme qui reçoit froidement un jeune époux, surtout quand c’est un Keïanide?
+> Et quelle est la jeune femme qui reçoit froidement un jeune époux, surtout quand c’est un Keïanide?
 >
 > Les hommes sont faits pour les femmes, et c’est à eux de les demander en mariage.
 >
@@ -179,7 +179,7 @@ Rustem se hâta de conclure cette affaire, et ne la laissa pas traîner en lon
 
 On appela un Mobed, on lui fit écrire un acte selon les formes, et le Pehlewan de l’armée ne se reposa pas avant d’avoir uni au prince cette lune.
 
-C’est ainsi que Feribourz devint, par l’ordre de Keï Khosrou, beau-père du roi, et Rustem fut alors libre de partir.
+C’est ainsi que Feribourz devint, par l’ordre de Keï Khosrou, beau-père du roi, et Rustem fut alors libre de partir.
 
 Khosrou combla d’honneurs le Pehlewan, et lui donna un rang plus élevé, une robe d’honneur et une nouvelle couronne.
 

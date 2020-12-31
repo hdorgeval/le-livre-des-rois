@@ -18,8 +18,8 @@ tags:
     'Iraniens',
     'Kaboul',
     'Kaous',
-    'Keï',
-    'Keïanides',
+    'Keï',
+    'Keïanides',
     'Keschwad',
     'Keï',
     'Khosrou',
@@ -43,7 +43,7 @@ order: '047'
 
 # Keï Khosrou reçoit des nouvelles de son armée
 
-Cependant Keï Khosrou apprit que Piran avait remporté une victoire;
+Cependant Keï Khosrou apprit que Piran avait remporté une victoire;
 
 Que Thous s’était retiré sur le mont Hemawen;
 
@@ -55,7 +55,7 @@ Que les astres les pleuraient, et que dans le jardin le rosier ne croissait plus
 
 Que leur mort remplissait le monde de sang et de poussière, enfin que le puissant astre de Thous avait baissé.
 
-A ces nouvelles le cœur de l’illustre Keï Khosrou fut bouleversé;
+A ces nouvelles le cœur de l’illustre Keï Khosrou fut bouleversé;
 
 Il ordonna à Rustem au corps d’éléphant de se rendre avec son armée à la cour, où les sages, les expérimentés et les glorieux Mobeds de tout l’lran se réunirent.
 
@@ -115,7 +115,7 @@ Rustem répondit:
 >
 > Car tu es un roi glorieux, fort, sage et juste, et la voûte du ciel n’a jamais connu ton pareil.
 >
-> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’lran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
+> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’lran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
 >
 > J’ai éprouvé tant de douleurs et couru tant de dangers que je n’ai jamais pu penser à jouir de la vie un seul jour.
 >
@@ -133,7 +133,7 @@ Rustem répondit:
 >
 > Mon âme souffre du sort de la famille de Gouderz, et leur mort me plonge dans le deuil.
 
-Lorsque Keï Khosrou eut entendu ces paroles, ses yeux versèrent sur ses joues deux torrents de larmes, et il répondit:
+Lorsque Keï Khosrou eut entendu ces paroles, ses yeux versèrent sur ses joues deux torrents de larmes, et il répondit:
 
 > Sans toi je ne voudrais pas de l’empire du monde, ni du diadème, ni de la couronne, ni du trône des héros.
 >

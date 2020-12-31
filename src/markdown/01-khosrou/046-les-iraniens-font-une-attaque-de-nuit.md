@@ -15,7 +15,7 @@ tags:
     'Iran',
     'Iranien',
     'Iraniens',
-    'Keï',
+    'Keï',
     'Kharrad',
     'Khosrou',
     'Piran',
@@ -183,7 +183,7 @@ Thous leur dit:
 >
 > Le messager monté sur un dromadaire de course, qui est parti pour la cour du roi de la terre, doit maintenant être arrivé, et quand le roi aura reçu ma lettre, son cœur se sera enflammé d’une ardeur nouvelle, et le héros au cœur d’éléphant viendra à notre aide avec une armée de vaillants lions.
 >
-> Alors nous nous en retournerons satisfaits, triomphants et désireux de voir Keï Khosrou;
+> Alors nous nous en retournerons satisfaits, triomphants et désireux de voir Keï Khosrou;
 >
 > Je raconterai au victorieux roi du monde tout ce qui s’est passé en public et en secret;
 >
