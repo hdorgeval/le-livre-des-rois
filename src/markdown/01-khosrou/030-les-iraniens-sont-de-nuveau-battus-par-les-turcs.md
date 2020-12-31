@@ -7,6 +7,7 @@ tags:
   [
     'Adergouschasp',
     'Afrasiab',
+    'âme',
     'Aschkesch',
     'Bahram',
     'Barteh',

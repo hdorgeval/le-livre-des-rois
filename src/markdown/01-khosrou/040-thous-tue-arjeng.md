@@ -8,6 +8,7 @@ tags:
     'Afrasiab',
     'Ahriman',
     'Alborz',
+    'âme',
     'Arjeng',
     'Bijen',
     'Dieu',

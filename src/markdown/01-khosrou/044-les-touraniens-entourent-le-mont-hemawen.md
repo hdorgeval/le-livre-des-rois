@@ -6,6 +6,7 @@ source: tome III - livre des rois - P. 032
 tags:
   [
     'Afrasiab',
+    'âme',
     'Bijen',
     'Gouderz',
     'Guiv',

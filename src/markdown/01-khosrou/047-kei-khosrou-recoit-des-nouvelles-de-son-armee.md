@@ -3,7 +3,41 @@ date: ''
 image: 'https://source.unsplash.com/8R_9D2RMrNA'
 landscape: 'https://source.unsplash.com/ztYhqhlgi-8'
 source: tome III - livre des rois - P. 046
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Créateur',
+    'Dieu',
+    'Div',
+    'Feribourz',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Hemawen',
+    'Iran',
+    'Iraniens',
+    'Kaboul',
+    'Kaous',
+    'Keï',
+    'Keïanides',
+    'Keschwad',
+    'Keï',
+    'Khosrou',
+    'Kobad',
+    'Mazenderan',
+    'Milad',
+    'Mobeds',
+    'Piran',
+    'Raksch',
+    'Rustem',
+    'Sipehbed',
+    'Tehemten',
+    'Thous',
+    'Touran',
+    'Vénus',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '047'
 ---
 

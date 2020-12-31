@@ -3,7 +3,27 @@ date: ''
 image: 'https://source.unsplash.com/sYIqGW3hufI'
 landscape: 'https://source.unsplash.com/K2K1Ec_51SA'
 source: tome III - livre des rois - P. 050
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Dieu',
+    'Ferenguis',
+    'Feribourz',
+    'Iran',
+    'Iraniens',
+    'Kaous',
+    'Keï',
+    'Keïanide',
+    'Khosrou',
+    'Mobed',
+    'Pehlewan',
+    'Raksch',
+    'Rustem',
+    'Siawusch',
+    'Tehemten',
+    'Touran',
+    'Zal',
+  ]
 order: '048'
 ---
 

@@ -3,7 +3,23 @@ date: ''
 image: 'https://source.unsplash.com/44gtrJHAKPo'
 landscape: 'https://source.unsplash.com/PXU__WOzmZU'
 source: tome III - livre des rois - P. 038
-tags: []
+tags:
+  [
+    'Destan',
+    'Gouderz',
+    'Hemawen',
+    'Houman',
+    'Iraniens',
+    'Kaweh',
+    'Pehlewan',
+    'Piran',
+    'Rustem',
+    'Siawusch',
+    'Sipehbed',
+    'Thous',
+    'Touran',
+    'Touraniens',
+  ]
 order: '045'
 ---
 

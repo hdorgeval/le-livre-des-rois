@@ -3,7 +3,33 @@ date: ''
 image: 'https://source.unsplash.com/moK7ZiiquG8'
 landscape: 'https://source.unsplash.com/moK7ZiiquG8'
 source: tome III - livre des rois - P. 040
-tags: []
+tags:
+  [
+    'Bijen',
+    'Dieu',
+    'Gouderz',
+    'Gourazeh',
+    'Guiv',
+    'Gustehem',
+    'Houman',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Keï',
+    'Kharrad',
+    'Khosrou',
+    'Piran',
+    'Rehham',
+    'Rustem',
+    'Schidousch',
+    'Sipehdar',
+    'Tehemten',
+    'Thous',
+    'Touraniens',
+    'Vénus',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '046'
 ---
 

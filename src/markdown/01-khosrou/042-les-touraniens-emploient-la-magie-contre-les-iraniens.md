@@ -21,6 +21,7 @@ tags:
     'pehlewi',
     'Piran',
     'Rehham',
+    'résurrection',
     'Schidousch',
     'Sipehbed',
     'Thous',

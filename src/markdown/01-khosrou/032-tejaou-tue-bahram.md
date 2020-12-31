@@ -6,6 +6,7 @@ source: tome II - livre des rois - P. 550
 tags:
   [
     'Afrasiab',
+    'âme',
     'Bahram',
     'Gouderz',
     'Iran',
