@@ -84,7 +84,7 @@ Sa lettre commençait par les louanges de Dieu le créateur de l’univers :
 >
 > Prends le commandement de l’armée, porte les bottines d’or, marche devant le drapeau de Kaweh, consulte en toutes choses le noble Gouderz et l’assemblée des grands, ne te hâte pas de livrer bataille, abstiens-toi du vin, fuis le sommeil;
 >
-> Ne te laisse pas entraîner à un combat par ta colère avant que tes blessés soient guéris;
+> Ne te laisse pas entraîner à un combat par ta colère avant que tes blessés soient guéris;
 >
 > Confie dans la bataille ton avant-garde à Guiv, car c’est un noble et vaillant cavalier, et ses mains sont des griffes de léopard;
 >

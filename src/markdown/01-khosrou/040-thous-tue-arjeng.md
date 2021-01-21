@@ -98,7 +98,7 @@ Le Sipehbed Thous s’élance de sa place, le monde se remplit du bruit des trom
 >
 > J’ai montré la force de mon bras à Arjeng, qui était le plus glorieux de vos guerriers, et maintenant tu viens aussi pour me combattre, monté sur ton destrier et tenant un javelot!
 >
-> Je jure par l’âme et la tête du maître de l’armée de l’Iran que, mettant de côté ma cuirasse, ma massue et mon casque de Roum, je t’attaquerai comme un léopard qui, sortant de la montagne, étend sa griffe sur sa proie.
+> Je jure par l’âme et la tête du maître de l’armée de l’Iran que, mettant de côté ma cuirasse, ma massue et mon casque de Roum, je t’attaquerai comme un léopard qui, sortant de la montagne, étend sa griffe sur sa proie.
 >
 > Quand je combattrai sur le champ de bataille, c’est alors que tu verras comment se comporte un homme.
 
@@ -118,11 +118,11 @@ Houman répondit:
 >
 > Leur main est-elle trop faible pour la lutte?
 >
-> Où sont donc Bijen et Guiv les nobles guerriers, et Gouderz le maître du monde, le fils de Keschwad?
+> Où sont donc Bijen et Guiv les nobles guerriers, et Gouderz le maître du monde, le fils de Keschwad?
 >
 > Si tu es un Pehlewan, pourquoi quittes-tu le centre de ton armée pour te battre en personne?
 >
-> Les hommes de sens ne voudront plus te reconnaître et les sages t’appelleront fou.
+> Les hommes de sens ne voudront plus te reconnaître et les sages t’appelleront fou.
 >
 > Va et prends l’étendard de Kaweh, car un Sipehbed ne se jette pas dans la mêlée.
 >

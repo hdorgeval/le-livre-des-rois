@@ -33,7 +33,7 @@ Feribourz lui dit:
 >
 > Puisse la fortune de tes ennemis baisser!
 >
-> Grâces soient rendues au maître du soleil et de la lune de ce que je te trouve ici en vie !
+> Grâces soient rendues au maître du soleil et de la lune de ce que je te trouve ici en vie !
 
 Gouderz versa des larmes de sang sur le sort de ceux qui étaient morts et que la terre recouvrait, et répondit à Feribourz:
 

@@ -82,7 +82,7 @@ Il lui envoya ces présents et lui adressa beaucoup de conseils, disant:
 
 > Entoure-toi de Mobeds, et sois vigilant, préserve ton armée des embûches de l’ennemi, envoie de tous côtés des espions prudents;
 >
-> Car Keï Khosrou est maintenant maître de grands trésors, et sa justice et sa générosilé font fleurir son empire.
+> Car Keï Khosrou est maintenant maître de grands trésors, et sa justice et sa générosilé font fleurir son empire.
 >
 > Tu as de la naissance, du pouvoir, un trône et une couronne, ne demande pas autre chose;
 >

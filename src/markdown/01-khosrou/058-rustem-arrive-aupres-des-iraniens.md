@@ -105,7 +105,7 @@ A la fin il dit:
 >
 > Il faut partir quand notre temps est venu, n’en veuille donc pas à la rotation du ciel.
 >
-> Puisse Dieu le maître de la victoire être notre soutien!
+> Puisse Dieu le maître de la victoire être notre soutien!
 >
 > Puisse la fortune de nos ennemis périr!
 >

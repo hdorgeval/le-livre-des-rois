@@ -65,7 +65,7 @@ Piran lui répondit:
 >
 > Grandes sont les peines, les douleurs et les duretés que j’ai éprouvées de la part de ce roi et de ce peuple.
 >
-> Mais je prends Dieu à témoin, quoique ce soit mal d’invoquer le témoignage du Maître de la justice, que malgré le long temps qui s’est passé, malgré les nombreux conseils que m’ont donnés les sages, les lamentations n’ont pas cessé dans ma maison, et que les flammes de la douleur dévorent toujours mon âme;
+> Mais je prends Dieu à témoin, quoique ce soit mal d’invoquer le témoignage du Maître de la justice, que malgré le long temps qui s’est passé, malgré les nombreux conseils que m’ont donnés les sages, les lamentations n’ont pas cessé dans ma maison, et que les flammes de la douleur dévorent toujours mon âme;
 >
 > Je pleure du sang au lieu de larmes, et je suis toujours entre les mains des médecins.
 >
@@ -109,7 +109,7 @@ Piran lui répondit:
 >
 > Quand ces armées auront livré bataille, tu verras des montagnes de cadavres d’hommes de Kaschan, du Seklab, de Schikin et de l’Inde, qui couvriront tout depuis cette frontière jusqu’à la mer du Sind;
 >
-> Et ce sont tous des hommes innocents de la mort de Siawusch, des soldats qu’on a traînés ici pour se battre.
+> Et ce sont tous des hommes innocents de la mort de Siawusch, des soldats qu’on a traînés ici pour se battre.
 >
 > La paix vaut mieux pour moi que la guerre, et tu ne devrais pas te montrer rigoureux.
 >
@@ -125,7 +125,7 @@ Rustem écouta les paroles de Piran, mais il ne lui répondit pas selon son dés
 >
 > Maintenant je vous offre la paix à deux conditions, réfléchis si elles vous conviennent.
 >
-> D’abord tu enverras enchaînés à Keï-Khosrou tous ceux qui ont follement amené cette guerre par le meurtre du prince, quand même ils ne l’auraient pas conseillée;
+> D’abord tu enverras enchaînés à Keï-Khosrou tous ceux qui ont follement amené cette guerre par le meurtre du prince, quand même ils ne l’auraient pas conseillée;
 >
 > Tous ceux qui sont coupables d’avoir répandu ce sang innocent, quand même ils ne se trouveraient pas sur ce champ de bataille.
 >

@@ -15,7 +15,7 @@ Là il entendit ce cri de détresse de la sentinelle:
 
 > Les braves de l’Iran sont perdus!
 >
-> Pendant que le soleil brillant descend de la voûte du ciel et qu’il en quitte le faîte pour se coucher à l’occident, il vient de l’orient une poussière qui couvre le monde comme une nuit noire;
+> Pendant que le soleil brillant descend de la voûte du ciel et qu’il en quitte le faîte pour se coucher à l’occident, il vient de l’orient une poussière qui couvre le monde comme une nuit noire;
 >
 > La poussière et les drapeaux qui flottent sur le dos d’éléphants innombrables rendent violette la lumière du soleil.
 
@@ -63,7 +63,7 @@ Mais la sentinelle, criant de nouveau, et lui dit:
 
 > Ô Pehlewan du monde, sois joyeux!
 >
-> Oublie tes soucis, tes douleurs et tes inquiétudes, car il paraît sur la route de l’Iran une poussière noire, et l’air en devient sombre.
+> Oublie tes soucis, tes douleurs et tes inquiétudes, car il paraît sur la route de l’Iran une poussière noire, et l’air en devient sombre.
 >
 > On voit au milieu d’une armée des drapeaux nombreux, brillants comme la lune;
 >

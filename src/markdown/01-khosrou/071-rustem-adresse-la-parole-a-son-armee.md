@@ -15,7 +15,7 @@ Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et Gu
 >
 > C’est à celui à qui Dieu accorde la bonne fortune que sont dus les trésors et les trônes;
 >
-> Il sera le maître du monde, il sera victorieux dans les combats;
+> Il sera le maître du monde, il sera victorieux dans les combats;
 >
 > Mais il ne faut pas que sa main commette d’injustice.
 >
@@ -45,7 +45,7 @@ Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et Gu
 >
 > S’il nous livre ceux qui ont fait le mal et tous les trésors de Siawusch, il faut renoncer à la vengeance, et je n’aurai plus de motif pour faire la guerre; car rien n’est préférable à la droiture.
 >
-> Si les grands, ces maîtres des trônes et des éléphants, si cette armée nombreuse comme les flots de l’Indus nous envoient des tributs, je ne leur livrerai pas bataille;
+> Si les grands, ces maîtres des trônes et des éléphants, si cette armée nombreuse comme les flots de l’Indus nous envoient des tributs, je ne leur livrerai pas bataille;
 >
 > S’ils nous envoient leurs trônes et leurs trésors, vous n’aurez plus besoin de vous fatiguer, nous n’aurons plus à jouer dans le monde le rôle de destructeurs : c’est là mon avis et la seule voie à suivre.
 >
@@ -99,7 +99,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > Maintenant, ô Pehlewan de l’armée, il emploie avec toi un nouveau moyen;
 >
-> Il ne connaît que le mensonge et la ruse, et ne sait que semer des paroles calculées.
+> Il ne connaît que le mensonge et la ruse, et ne sait que semer des paroles calculées.
 >
 > Il a été effrayé de ton lacet, il était naturel qu’il eût peur de ce qu’il voyait.
 >

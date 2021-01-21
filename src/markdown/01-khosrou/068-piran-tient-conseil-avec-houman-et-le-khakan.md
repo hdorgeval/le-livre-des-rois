@@ -63,7 +63,7 @@ Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœur
 >
 > Il a longtemps habité le Zaboulistan dans la grandeur et la magnificence;
 >
-> C’est là qu’il a élevé Siawusch; et à présent, affligé comme un père, il nous combat et rend la terre étroite devant le maître du monde.
+> C’est là qu’il a élevé Siawusch; et à présent, affligé comme un père, il nous combat et rend la terre étroite devant le maître du monde.
 >
 > Le héros au corps d’éléphant m’appelle seul de cette armée innombrable.
 >
@@ -79,7 +79,7 @@ Le Khakan lui dit:
 >
 > Fais-lui beaucoup de présents, et puis reviens ici, peut-être pourrons-nous éviter une si grande lutte.
 >
-> Mais s’il a revêtu sa cuirasse de peau de léopard, et s’il préfère livrer bataille, alors nous nous fierons en Dieu, nous combattrons joyeusement avec la force que nous donnera le maître du monde;
+> Mais s’il a revêtu sa cuirasse de peau de léopard, et s’il préfère livrer bataille, alors nous nous fierons en Dieu, nous combattrons joyeusement avec la force que nous donnera le maître du monde;
 >
 > Nous ferons tous ensemble une attaque, et rendrons tout à coup la plaine étroite pour lui.
 >

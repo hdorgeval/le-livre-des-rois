@@ -179,7 +179,7 @@ Ils s’ébranlèrent encore une fois et recommencèrent la lutte sur ce champ d
 
 Rivniz, qui était cher à Kaous comme sa vie, fut tué à la tête de l’armée;
 
-C’était un prince qui portait une couronne, le fils puîné du roi; c’était l’âme de son père et le favori de Feribourz.
+C’était un prince qui portait une couronne, le fils puîné du roi; c’était l’âme de son père et le favori de Feribourz.
 
 Sa tête et sa couronne roulèrent dans la poussière, et plusieurs d’entre les grands déchirèrent leurs vêtements; mais Guiv s’écria à haute voix :
 

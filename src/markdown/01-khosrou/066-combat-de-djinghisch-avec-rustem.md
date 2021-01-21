@@ -17,7 +17,7 @@ Il était brave et prêt à tout entreprendre. Il dit au Khakan:
 
 > Ô toi qui portes haut la tête, toi de qui le monde entier attend les faveurs!
 >
-> Quoique cet homme soit un lion rugissant, je le priverai de la vie aussitôt que je paraîtrai sur le champ de bataille;
+> Quoique cet homme soit un lion rugissant, je le priverai de la vie aussitôt que je paraîtrai sur le champ de bataille;
 >
 > Je l’attaquerai seul;
 >
@@ -37,7 +37,7 @@ Arrivé auprès des Iraniens qu’il voulait attaquer, il prit dans son carquois
 
 > C’est ici que je veux combattre; la tête des braves est dans ma main.
 >
-> Si le héros qui lance le lacet, qui a vaincu Kamous, qui combat tantôt avec le lacet, tantôt avec la flèche, veut venir à présent sur le champ de bataille, sa haute stature disparaîtra du monde.
+> Si le héros qui lance le lacet, qui a vaincu Kamous, qui combat tantôt avec le lacet, tantôt avec la flèche, veut venir à présent sur le champ de bataille, sa haute stature disparaîtra du monde.
 
 Il allait à droite et à gauche, disant:
 
@@ -45,7 +45,7 @@ Il allait à droite et à gauche, disant:
 
 Rustem saisit sa massue, s’élança de sa place, monta sur Raksch, et s’écria:
 
-> C’est moi qui suis le vainqueur des lions, le distributeur des couronnes, le maître du lacet et de l’arc, des flèches et de Raksch, et dans un instant tu essuieras la poussière avec tes yeux, comme a fait Kamous.
+> C’est moi qui suis le vainqueur des lions, le distributeur des couronnes, le maître du lacet et de l’arc, des flèches et de Raksch, et dans un instant tu essuieras la poussière avec tes yeux, comme a fait Kamous.
 
 Djinghisch lui répondit:
 
@@ -91,7 +91,7 @@ Rustem saisit par la queue le cheval de l’impur Djinghisch, et les deux armée
 
 Rustem le retint ainsi quelques moments;
 
-A la fin il s’impatienta, et se jeta à bas de son cheval, entraînant Djinghisch avec lui.
+A la fin il s’impatienta, et se jeta à bas de son cheval, entraînant Djinghisch avec lui.
 
 Celui-ci tomba et lui demanda la vie;
 

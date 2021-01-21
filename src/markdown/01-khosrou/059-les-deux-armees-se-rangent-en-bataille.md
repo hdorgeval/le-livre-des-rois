@@ -29,7 +29,7 @@ Il revint tout soucieux et dit à Piran:
 >
 > On a entendu cette nuit dans le camp iranien plus de bruits d’armes, de cris et de tumulte que les autres nuits;
 >
-> Je suis donc sorti de ma tente de grand matin, je suis allé tout seul reconnaître les ennemis, et me suis assuré qu’il est arrivé de l’Iran à leur secours une grande armée.
+> Je suis donc sorti de ma tente de grand matin, je suis allé tout seul reconnaître les ennemis, et me suis assuré qu’il est arrivé de l’Iran à leur secours une grande armée.
 >
 > J’ai vu une enceinte de brocart vert devant laquelle est planté un drapeau à figure de dragon, et autour sont campées des troupes du Zaboulistan armées de boucliers et de poignards du Kaboul.
 >
@@ -133,13 +133,13 @@ La terre se couvrit de poussière et le vent se leva dans les airs;
 
 Le monde disparut sous la poussière, et les braves ne se voyaient plus eux-mêmes.
 
-Le héros au corps d’éléphant monta sur le sommet de la montagne pour reconnaître le Khakan et les Touraniens;
+Le héros au corps d’éléphant monta sur le sommet de la montagne pour reconnaître le Khakan et les Touraniens;
 
 Il vit une armée telle que la mer du Roum ne paraissait auprès d’elle qu’une boule de cire : il y avait les guerriers de Kaschan, de Schikin, du pays de Seklab et de l’Inde, de Gahan, des bords de l’Indus, du Roum et du Sind, de Tcheghan, de la Chine et du Whar, qui tous portaient des cuirasses et des casques de différentes sortes;
 
 Dans chaque corps d’armée on parlait une langue différente, et l’on y voyait des drapeaux et des vêtements divers.
 
-Ces éléphants, cette pompe, ces trônes d’ivoire, ces bracelets, ces chaînes et ces couronnes faisaient du monde comme un jardin du paradis;
+Ces éléphants, cette pompe, ces trônes d’ivoire, ces bracelets, ces chaînes et ces couronnes faisaient du monde comme un jardin du paradis;
 
 C’était beau et terrible à voir.
 
@@ -155,13 +155,13 @@ Il passa devant le front de l’armée et devant Thous, en continuant à se dir
 >
 > J’ai vu bien des armées, mais jamais une plus grande que celle-ci.
 
-Il ordonna qu’on battît les timbales;
+Il ordonna qu’on battît les timbales;
 
 Le Sipehdar Thous se mit en marche et descendit dans la plaine, tenant sa lance prête pour verser le sang de la vengeance.
 
 L’armée défila pendant la moitié du jour, et forma dans la plaine une ligne longue de deux farsangs.
 
-La poussière qu’elle soulevait faisait disparaître la lumière, et l’on ne distinguait plus le jour de la nuit;
+La poussière qu’elle soulevait faisait disparaître la lumière, et l’on ne distinguait plus le jour de la nuit;
 
 Les plumes et les fers des flèches obscurcissaient l’air, et le soleil en fut troublé;
 

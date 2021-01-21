@@ -76,7 +76,7 @@ Le magicien le vit et vint le combattre, une massue d’acier chinois dans la ma
 
 Rehham, lorsqu’il fut près de lui, tira son épée vengeresse et lui abattit la main.
 
-Un orage pareil à celui qui naîtra le jour de la résurrection s’éleva aussitôt et emporta le nuage qui avait obscurci l’air.
+Un orage pareil à celui qui naîtra le jour de la résurrection s’éleva aussitôt et emporta le nuage qui avait obscurci l’air.
 
 Le vaillant Rehham, tenant dans sa main la main coupée du magicien, descendit de la montagne, et, arrivé dans la plaine, il remonta sur son destrier.
 

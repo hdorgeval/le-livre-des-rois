@@ -11,7 +11,7 @@ order: '056'
 
 Lorsque l’armée de Feribourz fut visible de la tour des Touraniens, la sentinelle accourut au camp et dit à Piran:
 
-> Armez-vous tous pour le combat, car une armée venant de l’Iran paraît sur la plaine et se dirige vers le mont Hemawen.
+> Armez-vous tous pour le combat, car une armée venant de l’Iran paraît sur la plaine et se dirige vers le mont Hemawen.
 
 Le Sipehbed se rendit auprès du Khakan de la Chine et lui dit:
 
@@ -55,7 +55,7 @@ Le Khakan dit à Piran:
 >
 > Les Iraniens ne sont pas si formidables, n’effraye donc pas le cœur des braves.
 >
-> Je ne laisserai en vie aucun des grands de l’Iran, je convertirai en désert les montagnes et les vallées, j’enverrai à Afrasiab tous les grands et les puissants chargés de lourdes chaînes; à une foule d’autres je trancherai la tête;
+> Je ne laisserai en vie aucun des grands de l’Iran, je convertirai en désert les montagnes et les vallées, j’enverrai à Afrasiab tous les grands et les puissants chargés de lourdes chaînes; à une foule d’autres je trancherai la tête;
 >
 > Nous ne laisserons dans l’Iran ni une feuille, ni un arbre, ni un palais, ni un pavillon, ni une couronne.
 
@@ -139,7 +139,7 @@ Mais l’armée lui répondit:
 >
 > Nous nous prosternerons devant Dieu, car il est notre guide dans le bonheur et dans le malheur;
 >
-> Et par ordre du Créateur du soleil et de la lune, Tehemten paraîtra sur ce champ de bataille.
+> Et par ordre du Créateur du soleil et de la lune, Tehemten paraîtra sur ce champ de bataille.
 >
 > Pourquoi désespères-tu de ton étoile?
 >

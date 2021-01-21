@@ -27,7 +27,7 @@ Rustem répondit:
 >
 > Tu appelles mon lacet un fil, mais tu verras combien le nœud en sera serré.
 >
-> Le destin, ô homme de Kaschan, t’a amené dans ce lien où la poussière qui doit te recouvrir est le seul gîte qui te reste.
+> Le destin, ô homme de Kaschan, t’a amené dans ce lien où la poussière qui doit te recouvrir est le seul gîte qui te reste.
 
 Kamous lança son destrier, il vit que son ennemi l’attendait plein de confiance en sa force;
 

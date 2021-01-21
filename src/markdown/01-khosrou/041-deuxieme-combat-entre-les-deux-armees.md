@@ -138,7 +138,7 @@ On choisit alors les braves qui devaient combattre;
 
 Il fut convenu que Gourazeh le chef de la famille de Guiv, et Behil, deux nobles guerriers au cœur de lion, se mesureraient l’un avec l’autre, et Rehham fils de Gouderz avec Ferschidwerd;
 
-Que Schidousch et Lehhak, Bijen fils de Guiv, et Kelbad feraient naître sous leurs coups le feu et l’ouragan;
+Que Schidousch et Lehhak, Bijen fils de Guiv, et Kelbad feraient naître sous leurs coups le feu et l’ouragan;
 
 Que Schithrekh l’illustre et Guiv, deux nobles et vaillants guerriers, Gouderz et Houman, Piran et Thous se battraient loyalement et sans employer la ruse et la perfidie.
 

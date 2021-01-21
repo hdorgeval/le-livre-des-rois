@@ -23,7 +23,7 @@ Lorsque le soleil eut montré dans le signe du Cancer la pointe de ses doigts, e
 >
 > Il est beau comme la lune;
 >
-> Il est le maître du monde, et les couronnes et les trônes sont ses jouets; c’est le chef des braves, il se nomme Ferthous;
+> Il est le maître du monde, et les couronnes et les trônes sont ses jouets; c’est le chef des braves, il se nomme Ferthous;
 >
 > Il anéantira Gouderz et Thous;
 >
@@ -33,13 +33,13 @@ Lorsque le soleil eut montré dans le signe du Cancer la pointe de ses doigts, e
 >
 > Enfin Kamous de Kaschan, toujours prêt à frapper avec le glaive;
 >
-> Son œil n’a jamais vu de défaite, il réussit dans toutes ses entreprises, sa colère amène l’orage et la neige, son contentement fait naître le printemps, les roses et les hyacinthes, et jaillir des ruisseaux d’eau limpide.
+> Son œil n’a jamais vu de défaite, il réussit dans toutes ses entreprises, sa colère amène l’orage et la neige, son contentement fait naître le printemps, les roses et les hyacinthes, et jaillir des ruisseaux d’eau limpide.
 
 Piran dit aux Touraniens:
 
 > Ô vous qui portez haut la tête, ô guerriers du roi! que ce message d’Afrasiab vous réjouisse et vous rende heureux, jeunes et vieux;
 >
-> Bannissez de vos cœurs toute inquiétude, car je détruirai dans l’Iran tout ce qui existe et tout ce qui croît.
+> Bannissez de vos cœurs toute inquiétude, car je détruirai dans l’Iran tout ce qui existe et tout ce qui croît.
 >
 > Nous pouvons nous reposer de nos soucis, de nos fatigues, de nos combats et de nos campagnes;
 >
@@ -83,7 +83,7 @@ Il dit à Houman:
 >
 > S’ils ne peuvent résister à notre attaque, je leur rendrai sombre le jour et étroit le monde.
 >
-> Je chargerai de lourdes chaînes les pieds et le cou de ceux qui survivront;
+> Je chargerai de lourdes chaînes les pieds et le cou de ceux qui survivront;
 >
 > Je les enverrai à Afrasiab, et ne me permettrai ni repos ni sommeil.
 >

@@ -78,7 +78,7 @@ Gouderz adressa la parole à Thous, vers lequel se tournaient, en soupirant et 
 >
 > Ne sème donc jamais dans le jardin de la vie la semence de la colère, car la précipitation ne convient pas au chef d’une armée, et un homme emporté n’est pas propre au commandement.
 >
-> Ta colère et ta précipitation ont livré à la mort ce beau jeune homme de la race des Keïanides, majestueux, fort, svelte, élancé, elles ont fait tomber le Sipehdar Zerasp petit-fils de Newder, et entraîné la perte de Rivniz.
+> Ta colère et ta précipitation ont livré à la mort ce beau jeune homme de la race des Keïanides, majestueux, fort, svelte, élancé, elles ont fait tomber le Sipehdar Zerasp petit-fils de Newder, et entraîné la perte de Rivniz.
 >
 > Jamais on n’a vu de pareils malheurs.
 >

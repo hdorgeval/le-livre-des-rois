@@ -54,7 +54,7 @@ Ils baisèrent tous la terre, Rehham, Gourguin, Gouderz, Thous, Kharrad, Zengueh
 >
 > Et si le soleil et la lune ne nous cachent pas leur face, tu n’auras plus de reproche à nous faire.
 
-Ensuite le maître de l’armée appela Guiv, le fit asseoir sur le trône des grands, le combla d’éloges et de caresses, lui prodigua les présents et les marques d’amitié et lui dit:
+Ensuite le maître de l’armée appela Guiv, le fit asseoir sur le trône des grands, le combla d’éloges et de caresses, lui prodigua les présents et les marques d’amitié et lui dit:
 
 > Tu as partout recherché les fatigues pour me servir, et jamais tu n’as eu part à mes trésors;
 >

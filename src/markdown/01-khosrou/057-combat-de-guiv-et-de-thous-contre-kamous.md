@@ -49,7 +49,7 @@ Lorsqu’il entendit le cri de la sentinelle, il fut content et heureux, se rend
 >
 > Car tu es un prince, et ton père est un roi.
 >
-> La poussière que soulève Tehemten paraît sur la route, et il va arriver sur le champ de bataille.
+> La poussière que soulève Tehemten paraît sur la route, et il va arriver sur le champ de bataille.
 
 Feribourz réunit son armée de héros à celle de Zengueh, de Thous et de Guiv;
 

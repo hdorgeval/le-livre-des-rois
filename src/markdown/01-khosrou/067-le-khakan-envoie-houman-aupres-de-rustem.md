@@ -31,7 +31,7 @@ Il courut à sa tente rapidement comme le vent, mit sur sa tête un autre casqu
 
 Arrivé près de Rustem, il examina ses bras et ses jambes, et lui dit :
 
-> Ô homme illustre, maître du lacet! ô héros vaillant cavalier!
+> Ô homme illustre, maître du lacet! ô héros vaillant cavalier!
 >
 > Je jure par Dieu que je désespère de mon trône, quand je vois un ennemi comme toi;
 >
@@ -121,7 +121,7 @@ Houman l’écoutait transi de peur, et le son de la voix de Rustem, qu’il ent
 
 Rustem lui dit:
 
-> Ne cherche pas à connaître mon nom;
+> Ne cherche pas à connaître mon nom;
 >
 > Répète-leur ce que tu m’as entendu dire.
 >

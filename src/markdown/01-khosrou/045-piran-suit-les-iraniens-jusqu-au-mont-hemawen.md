@@ -37,7 +37,7 @@ Il dit à Houman:
 
 Il s’approcha des Iraniens la tête remplie d’ardeur pour le combat, le cœur plein de mauvaises intentions, et dit à haute voix:
 
-> Ô illustre Thous, maître des éléphants, de la massue et des timbales;
+> Ô illustre Thous, maître des éléphants, de la massue et des timbales;
 >
 > Il y a maintenant cinq mois que tu es venu chercher les fatigues de la guerre, et déjà les plus braves de la famille de Gouderz gisent sans tête sur ce champ de bataille.
 >
@@ -51,7 +51,7 @@ L’orgueilleux Thous lui répondit:
 
 > Je ris de tes mensonges.
 >
-> C’est toi qui as fait naître dans le monde la haine entre les rois à cause de Siawusch.
+> C’est toi qui as fait naître dans le monde la haine entre les rois à cause de Siawusch.
 >
 > Tu n’as pas honte de prononcer de vaines paroles;
 >

@@ -9,7 +9,7 @@ order: '070'
 
 # Les Touraniens tiennent conseil
 
-Piran courut à son camp rapidement comme le vent, convoqua tous les membres de la famille de Wiseh et leur fit connaître son secret, en disant:
+Piran courut à son camp rapidement comme le vent, convoqua tous les membres de la famille de Wiseh et leur fit connaître son secret, en disant:
 
 > Notre destinée, bonne ou mauvaise, va se décider.
 >
@@ -29,7 +29,7 @@ Piran courut à son camp rapidement comme le vent, convoqua tous les membres de
 >
 > Qu’il ne restera ni vieux, ni jeunes, ni roi, ni trésor, ni armée, ni trône, ni couronne.
 >
-> J’avais conseillé a ce vil et injuste Afrasiab de maîtriser sa fougue et son orgueil;
+> J’avais conseillé a ce vil et injuste Afrasiab de maîtriser sa fougue et son orgueil;
 >
 > Je l’avais prévenu qu’un jour cette flamme le brûlerait, que son esprit en serait consumé et l’œil de sa raison aveuglé.
 >

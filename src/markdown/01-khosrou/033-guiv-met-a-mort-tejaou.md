@@ -31,7 +31,7 @@ Il dit à Guiv:
 >
 > C’est l’injuste Tejaou qui m’a blessé, qui n’a eu égard ni à ma naissance ni à mon rang.
 
-A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
+A ces paroles de Bahram, Guiv versa des larmes de fiel, et jura par Dieu le maître du monde, par le soleil, le jour et la nuit sombre, de ne pas ôter de sa tête son casque de Roum, jusqu’à ce qu’il eût vengé Bahram.
 
 Il remonta sur-le-champ à cheval, le cœur rempli de douleur et de vengeance, et s’arma d’une épée indienne.
 
@@ -43,7 +43,7 @@ Il détacha du crochet de la selle son lacet roulé, et prit soudain le corps de
 
 Il le tira à lui avec force en faisant volte-face, l’arracha de la selle, le jeta par terre misérablement, descendit de cheval, et lui lia les mains.
 
-Ensuite il remonta à cheval, et le traîna après lui comme un être inanimé.
+Ensuite il remonta à cheval, et le traîna après lui comme un être inanimé.
 
 Tejaou le supplia en disant:
 
@@ -67,7 +67,7 @@ Tejaou répondit au vaillant Guiv:
 >
 > Et c’est ainsi qu’est mort ton frère, dont la perte désole ton cœur.
 
-Guiv continua à le traîner après lui, et arrivé auprès de Bahram le lion au cœur brisé, il lui dit:
+Guiv continua à le traîner après lui, et arrivé auprès de Bahram le lion au cœur brisé, il lui dit:
 
 > Voici cet homme sans valeur, à qui je rendrai cruauté pour cruauté;
 >

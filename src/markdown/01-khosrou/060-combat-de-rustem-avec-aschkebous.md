@@ -29,7 +29,7 @@ Alors Rehham brandit sa lourde massue;
 
 Les mains des combattants se fatiguèrent à force de lutter;
 
-Mais le casque du Touranien résistait aux coups de massue, et l’ardeur d’Aschkebous ne fit que s’accroître.
+Mais le casque du Touranien résistait aux coups de massue, et l’ardeur d’Aschkebous ne fit que s’accroître.
 
 ll porta à son tour la main sur sa massue;
 

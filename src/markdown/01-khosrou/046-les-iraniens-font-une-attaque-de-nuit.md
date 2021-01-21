@@ -91,7 +91,7 @@ Ils entourèrent les cavaliers iraniens comme des lions féroces;
 
 Les épées et les casques étincelèrent, il semblait pleuvoir des massues à travers le brouillard;
 
-La nuit sombre, les épées et la poussière faisaient disparaître les étoiles, Vénus et la lune;
+La nuit sombre, les épées et la poussière faisaient disparaître les étoiles, Vénus et la lune;
 
 Il semblait que les Iraniens étaient entourés d’un mur de cuirasses, et qu’ils nageaient dans les ténèbres comme dans une mer de poix.
 

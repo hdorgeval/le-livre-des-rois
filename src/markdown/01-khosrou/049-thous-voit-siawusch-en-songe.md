@@ -93,7 +93,7 @@ Il dit à Gouderz:
 >
 > Si notre bonne étoile nous favorise, elle te donnera la victoire;
 >
-> Et si le maître du ciel nous fait périr par le glaive, nous ne pouvons ni ajouter ni ôter au sort que le Créateur nous destine.
+> Et si le maître du ciel nous fait périr par le glaive, nous ne pouvons ni ajouter ni ôter au sort que le Créateur nous destine.
 >
 > Ne t’inquiète donc pas follement.
 >

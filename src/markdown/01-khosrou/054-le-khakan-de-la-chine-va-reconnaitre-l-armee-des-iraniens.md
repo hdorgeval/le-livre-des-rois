@@ -19,7 +19,7 @@ Il dit à Piran:
 
 Piran répondit:
 
-> Le Khakan est un sage et glorieux prince, qu’il agisse aujourd’hui selon son plaisir, car il est entièrement maître de l’armée.
+> Le Khakan est un sage et glorieux prince, qu’il agisse aujourd’hui selon son plaisir, car il est entièrement maître de l’armée.
 
 On entendit alors du bruit dans toutes les enceintes des tentes, et le son des timbales et des trompettes.
 

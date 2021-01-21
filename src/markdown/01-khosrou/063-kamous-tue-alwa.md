@@ -57,9 +57,9 @@ Il savait se servir de l’épée, de la massue et de la lance;
 
 Son âme avait mûri parmi les travaux et les dangers de la guerre.
 
-Rustem avait été son maître dans l’art des combats et avait l’habitude de lui confier sa lance, et personne alors ne passait derrière Rustem.
+Rustem avait été son maître dans l’art des combats et avait l’habitude de lui confier sa lance, et personne alors ne passait derrière Rustem.
 
-Qu’a dit le sage vieillard, le maître des sentences?
+Qu’a dit le sage vieillard, le maître des sentences?
 
 Écoute ses paroles et ne les oublie pas:
 

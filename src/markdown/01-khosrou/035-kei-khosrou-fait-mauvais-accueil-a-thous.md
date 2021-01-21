@@ -79,7 +79,7 @@ Il adressa à Dieu ces paroles:
 >
 > Je ne connais dans le monde rien de plus vil que Thous;
 >
-> Il est digne du gibet et des chaînes;
+> Il est digne du gibet et des chaînes;
 >
 > Il n’a ni cervelle dans la tête ni veines dans le corps.
 >
@@ -109,7 +109,7 @@ Les grands de l’Iran partirent désespérés; les braves se rendirent à la c
 >
 > Le roi est jeune, et il renoncera peut-être à se venger.
 >
-> Rivniz, qui a péri si misérablement, n’était-il donc pas le fils puîné de Kaous?
+> Rivniz, qui a péri si misérablement, n’était-il donc pas le fils puîné de Kaous?
 >
 > N’était-il pas un brave, et le favori du père de Khosrou au visage brillant comme la lune?
 >

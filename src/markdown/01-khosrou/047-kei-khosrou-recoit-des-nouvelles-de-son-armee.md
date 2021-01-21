@@ -59,7 +59,7 @@ A ces nouvelles le cœur de l’illustre Keï Khosrou fut bouleversé;
 
 Il ordonna à Rustem au corps d’éléphant de se rendre avec son armée à la cour, où les sages, les expérimentés et les glorieux Mobeds de tout l’lran se réunirent.
 
-Le maître des grands commença à parler à Rustem des combats de l’armée iranienne, disant:
+Le maître des grands commença à parler à Rustem des combats de l’armée iranienne, disant:
 
 > Ô toi qui porte haut la tête!
 >
@@ -67,7 +67,7 @@ Le maître des grands commença à parler à Rustem des combats de l’armé
 >
 > Tu as soutenu le trône et la couronne;
 >
-> Et la fortune, qui est la maîtresse du monde, t’emprunte sa splendeur.
+> Et la fortune, qui est la maîtresse du monde, t’emprunte sa splendeur.
 >
 > Le cœur du firmament est sous la pointe de ton épée;
 >

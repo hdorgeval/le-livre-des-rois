@@ -31,7 +31,7 @@ order: '048'
 
 Feribourz lui répondit:
 
-> Ô héros distributeur des couronnes, maître de la cotte de mailles, de la massue et de Raksch!
+> Ô héros distributeur des couronnes, maître de la cotte de mailles, de la massue et de Raksch!
 >
 > Je nourris au fond de mon âme un désir dont je n’ose parler qu’à toi, ô Pehlewan du monde.
 >
@@ -139,7 +139,7 @@ Après l’avoir comblée de louanges, il continua:
 >
 > Les hommes sont faits pour les femmes, et c’est à eux de les demander en mariage.
 >
-> Feribourz est le maître de la moitié de l’Iran, ce qui est désert comme ce qui est habité lui appartient;
+> Feribourz est le maître de la moitié de l’Iran, ce qui est désert comme ce qui est habité lui appartient;
 >
 > Et les conseils, les avis et la volonté du roi te le feront agréer pour époux, ô lune.
 >
@@ -175,7 +175,7 @@ C’est ainsi que la mère du roi consentit;
 
 Et ses joues brillèrent comme une rose au printemps naissant.
 
-Rustem se hâta de conclure cette affaire, et ne la laissa pas traîner en longueur;
+Rustem se hâta de conclure cette affaire, et ne la laissa pas traîner en longueur;
 
 On appela un Mobed, on lui fit écrire un acte selon les formes, et le Pehlewan de l’armée ne se reposa pas avant d’avoir uni au prince cette lune.
 
@@ -187,6 +187,6 @@ Trois jours s’étant passés là-dessus, le quatrième tout était conclu, et 
 
 Feribourz avec un corps de troupes le précéda, étincelant comme un astre au firmament.
 
-Lorsque le soleil se leva brillant dans le ciel, semblable à une belle femme dont le cœur est rempli d’amour, on entendit le son des trompettes, Tehemten mit en marche son armée, et le roi maître du monde l’accompagna à la distance de deux farsangs, l’âme pleine d’inquiétude.
+Lorsque le soleil se leva brillant dans le ciel, semblable à une belle femme dont le cœur est rempli d’amour, on entendit le son des trompettes, Tehemten mit en marche son armée, et le roi maître du monde l’accompagna à la distance de deux farsangs, l’âme pleine d’inquiétude.
 
 Rustem fit chaque jour deux marches, et ne s’arrêta un instant ni jour ni nuit.

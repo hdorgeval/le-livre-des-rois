@@ -107,7 +107,7 @@ Il fut flatté de ces paroles, prit feu à ce discours calculé, et lui répond
 >
 > Choisis parmi tous les serments solennels qu’ont faits les rois sur lesquels veille la fortune, et je vais en prononcer devant toi un plus grand pour rassurer ton cœur et ta foi:
 >
-> Je jure de ne pas desseller mon cheval jusqu’à ce que par la force que m’a donnée le maître de Saturne et du soleil, j’aie raffermi et fait briller ta fortune, et rendu aux Iraniens le monde étroit comme le trou d’une aiguille.
+> Je jure de ne pas desseller mon cheval jusqu’à ce que par la force que m’a donnée le maître de Saturne et du soleil, j’aie raffermi et fait briller ta fortune, et rendu aux Iraniens le monde étroit comme le trou d’une aiguille.
 
 Piran le combla de louanges, disant:
 
