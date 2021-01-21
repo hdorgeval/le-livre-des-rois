@@ -65,7 +65,7 @@ Rustem reprit:
 
 Djinghisch courut vers lui vite comme le vent;
 
-Il attacha la corde aux deux bouts recourbés de son arc, et l’arc de ce méchant devint comme un nuage qui versait des traits sur la cuirasse et le Bebr-i- beyan de Rustem.
+Il attacha la corde aux deux bouts recourbés de son arc, et l’arc de ce méchant devint comme un nuage qui versait des traits sur la cuirasse et le Bebr-i-beyan de Rustem.
 
 Celui-ci sentit que les flèches allaient percer sa cotte de mailles;
 
