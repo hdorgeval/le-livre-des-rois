@@ -61,7 +61,7 @@ Rustem lui répondit:
 >
 > Découvre, dans l’armée du Touran, ceux qui ont répandu le sang de cet innocent;
 >
-> Retrouve tous les hommes et les chevaux caparaçonnés que Siawusch amena dans le Touran chargés de trésors;
+> Retrouve tous les hommes et les chevaux caparaçonnés que Siawusch amena dans le Touran chargés de trésors;
 >
 > Et quand vous me les aurez renvoyés tous, alors je cesserai de faire la guerre aux Turcs;
 >

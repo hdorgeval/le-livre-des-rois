@@ -35,7 +35,7 @@ Alors l’eau se changea en feu et en fumée, et la bataille devint telle que ja
 
 Les cris que poussaient les troupes de toutes parts déchiraient les oreilles des éléphants.
 
-Le premier qui s’avança entre les deux armées, vomissant par la bouche une écume de sang, fut Kamous le Sipehbed orgueilleux, entouré de troupes, d’éléphants et de timbales;
+Le premier qui s’avança entre les deux armées, vomissant par la bouche une écume de sang, fut Kamous le Sipehbed orgueilleux, entouré de troupes, d’éléphants et de timbales;
 
 Il poussait des cris comme un éléphant ivre, il brandissait une massue à tête de bœuf, en disant:
 
@@ -69,5 +69,5 @@ Écoute ses paroles et ne les oublie pas:
 
 Lorsque Alwa partit pour combattre Kamous qui le défiait, on leur laissa libre un grand espace;
 
-Le héros de Kaschan s’avança semblable à un loup, frappa
-Alwa avec la lance, le désarçonna, le jeta sans peine par terre, arrêta son cheval et le fit broyer par ses sabots, jusqu’à ce que le sol fût rougi de son sang.
+Le héros de Kaschan s’avança semblable à un loup, frappa
+Alwa avec la lance, le désarçonna, le jeta sans peine par terre, arrêta son cheval et le fit broyer par ses sabots, jusqu’à ce que le sol fût rougi de son sang.

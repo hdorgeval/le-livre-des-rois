@@ -73,7 +73,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > Nous aussi, quand nous étions prêts pour la première bataille, nous avons eu des pourparlers avec lui et avons agi en conséquence.
 >
-> Piran envoya un messager pour nous faire dire qu’il voyait avec horreur cette guerre et ce champ de bataille, qu’il était l’esclave de Khosrou, et qu’il renonçait à ses terres et à ses tentes.
+> Piran envoya un messager pour nous faire dire qu’il voyait avec horreur cette guerre et ce champ de bataille, qu’il était l’esclave de Khosrou, et qu’il renonçait à ses terres et à ses tentes.
 >
 > Il écouta nos conseils et nos demandes, et répondit:
 >

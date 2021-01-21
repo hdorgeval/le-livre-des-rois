@@ -19,7 +19,7 @@ Il vint provoquer les Iraniens, espérant jeter dans la poussière la tête de c
 
 Ces paroles frappèrent l’oreille de Rehham;
 
-Il poussa un cri, et bouillonnant comme la mer en fureur, il saisit un arc dont la corde était de peau de lion, et s’avança résolument.
+Il poussa un cri, et bouillonnant comme la mer en fureur, il saisit un arc dont la corde était de peau de lion, et s’avança résolument.
 
 Il prit son arc, lui le plus faible des cavaliers, et se mit à faire tomber sur son illustre ennemi une pluie de traits.
 
@@ -37,7 +37,7 @@ Et l’air parut se convertir en acier, et la terre en ébène.
 
 Rehham eut peur du héros de Kaschan; il lui tourna le dos et s’enfuit dans la montagne.
 
-Thous s’élança du centre de l’armée et frappa son cheval pour se jeter sur Aschkebous;
+Thous s’élança du centre de l’armée et frappa son cheval pour se jeter sur Aschkebous;
 
 Mais Tehemten accourut et lui dit:
 

@@ -117,7 +117,7 @@ Mais du côté des Touraniens s’éleva le bruit des clairons et des trompettes
 
 On ne voyait plus les rênes et les crinières des chevaux, et la mêlée était telle qu’on se crevait les yeux avec les lances;
 
-Houman s’écria d’une voix perçante:
+Houman s’écria d’une voix perçante:
 
 > Vous n’avez plus d’espace pour combattre ni d’issue pour vous enfuir;
 >
@@ -125,7 +125,7 @@ Houman s’écria d’une voix perçante:
 
 De ceux qui étaient venus livrer combat il ne restait déjà plus que les trois chefs et quelques débris de leur petite armée;
 
-Ils prononçaient fréquemment le nom de Rustem toujours victorieux;
+Ils prononçaient fréquemment le nom de Rustem toujours victorieux;
 
 Ils parlaient beaucoup de Schidousch, de Bijen et de Gustehem, car ils ne voyaient au milieu des ténèbres aucun Iranien sur le champ de bataille; Ils s’écrièrent:
 
@@ -159,7 +159,7 @@ Alors on lâcha les brides, on s’appesantit sur les étriers, et l’on ne di
 
 Les coups des héros et le bruit des clochettes étaient tels qu’ils auraient fait sortir le crocodile du fond de la mer.
 
-Ils étaient tous armés de massues et d’épées, et Houman s’aperçut bientôt de la venue de ces cavaliers.
+Ils étaient tous armés de massues et d’épées, et Houman s’aperçut bientôt de la venue de ces cavaliers.
 
 Thous aussi vit qu’il lui arrivait des secours;
 
@@ -181,7 +181,7 @@ Thous leur dit:
 >
 > J’espère que par sa grâce et sans délai, une armée rapide comme la fumée nous rejoindra.
 >
-> Le messager monté sur un dromadaire de course, qui est parti pour la cour du roi de la terre, doit maintenant être arrivé, et quand le roi aura reçu ma lettre, son cœur se sera enflammé d’une ardeur nouvelle, et le héros au cœur d’éléphant viendra à notre aide avec une armée de vaillants lions.
+> Le messager monté sur un dromadaire de course, qui est parti pour la cour du roi de la terre, doit maintenant être arrivé, et quand le roi aura reçu ma lettre, son cœur se sera enflammé d’une ardeur nouvelle, et le héros au cœur d’éléphant viendra à notre aide avec une armée de vaillants lions.
 >
 > Alors nous nous en retournerons satisfaits, triomphants et désireux de voir Keï Khosrou;
 >

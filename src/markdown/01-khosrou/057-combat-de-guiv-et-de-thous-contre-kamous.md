@@ -77,7 +77,7 @@ Il tira son arc de l’étui et le banda;
 
 Il invoqua l’aide de Dieu de qui vient le bonheur, et fit pleuvoir sur Kamous des flèches que jetait son arc, comme un nuage de printemps verse de la pluie.
 
-Quand Kamous sentit comment cette main lançait des flèches, il couvrit sa tête de son bouclier, et semblable à un loup, il s’avança à travers les morts qui jonchaient la terre et la grêle de traits qui remplissait l’air.
+Quand Kamous sentit comment cette main lançait des flèches, il couvrit sa tête de son bouclier, et semblable à un loup, il s’avança à travers les morts qui jonchaient la terre et la grêle de traits qui remplissait l’air.
 
 Ayant atteint son ennemi, il le frappa de sa lance à la ceinture.
 
@@ -95,7 +95,7 @@ Il frappa de sa lance le cheval de Thous sur la tête, et l’armée du Touran f
 
 Le cheval de Thous fit un bond et s’abattit;
 
-Le Sipehbed invoqua le nom de Dieu sur lui, et s’avança vers Kamous a pied et une lance en main, à la vue de l’armée.
+Le Sipehbed invoqua le nom de Dieu sur lui, et s’avança vers Kamous a pied et une lance en main, à la vue de l’armée.
 
 Ils étaient deux nobles héros contre un seul cavalier, mais le brave de Kaschan ne se découragea pas, et ils remplirent la plaine du tumulte de leur combat jusqu’à ce que les ténèbres eussent remplacé le soleil.
 

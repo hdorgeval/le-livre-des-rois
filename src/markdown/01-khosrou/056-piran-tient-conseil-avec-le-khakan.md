@@ -101,7 +101,7 @@ Kelbad lui dit:
 >
 > Ils se sont enfuis d’ici, ils se sont retirés sous leurs tentes.
 
-Lorsque Thous, de son côté, apprit que le pays était rempli du bruit des timbales, que le héros au corps d’éléphant et Feribourz fils de Kaous arrivaient de l’Iran avec une armée, il ordonna qu’on plaçât les timbales sur le dos des éléphants, et la montagne se couvrit de la poussière noire que soulevait son armée.
+Lorsque Thous, de son côté, apprit que le pays était rempli du bruit des timbales, que le héros au corps d’éléphant et Feribourz fils de Kaous arrivaient de l’Iran avec une armée, il ordonna qu’on plaçât les timbales sur le dos des éléphants, et la montagne se couvrit de la poussière noire que soulevait son armée.
 
 Le Hemawen retentit de cris, la terre tremblait sous le piétinement des chevaux, et le Sipehbed raconta longuement aux Iraniens la guerre du Mazenderan, ce que Rustem avait fait dans la lutte contre les Divs, et comment il les avait traités.
 

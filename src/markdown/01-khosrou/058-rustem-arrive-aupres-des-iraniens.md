@@ -15,7 +15,7 @@ Lorsque le soleil et la lune eurent quitté la voûte du ciel, les deux armées
 >
 > C’est le héros au corps d’éléphant qui accourt avec une armée du Zaboulistan.
 
-Gouderz le fils de Keschwad entendit ces paroles, quitta sur-le-champ, dans la nuit sombre, la montagne rocheuse, et bientôt il aperçut le drapeau à figure de dragon, qui malgré les ténèbres répandait sur le monde un reflet violet.
+Gouderz le fils de Keschwad entendit ces paroles, quitta sur-le-champ, dans la nuit sombre, la montagne rocheuse, et bientôt il aperçut le drapeau à figure de dragon, qui malgré les ténèbres répandait sur le monde un reflet violet.
 
 Lorsqu’il vit les traits de Tehemten, ses larmes inondèrent ses joues.
 
@@ -81,7 +81,7 @@ Les grands lui parlèrent longuement de cette armée innombrable, de Kamous, de 
 >
 > Manschour aussi ne cède à aucun autre la place d’honneur, et personne ne commande une armée comme Gargoui.
 >
-> Toute la plaine est remplie de tentes et d’enceintes de tentes de brocart de la Chine, et depuis cette montagne jusqu’aux eaux du Schahd on ne voit que drapeaux, troupes et éléphants caparaçonnés;
+> Toute la plaine est remplie de tentes et d’enceintes de tentes de brocart de la Chine, et depuis cette montagne jusqu’aux eaux du Schahd on ne voit que drapeaux, troupes et éléphants caparaçonnés;
 >
 > Il y a sur cette plaine des casques et des cuirasses innombrables, et l’on n’y trouve pas un homme dont la mine ne soit féroce.
 >

@@ -77,7 +77,7 @@ En même temps on entendit les cris des parents de Djinghisch et d’Aschkebous,
 
 Et tous les assistants, dans leur compassion pour les peines de ces familles, répandaient des larmes de fiel sur leurs joues de safran, et s’écriaient les yeux mouillés de larmes:
 
-> Dès ce moment nous renonçons au sommeil et au repos;
+> Dès ce moment nous renonçons au sommeil et au repos;
 >
 > Nous mettrons à feu le Seïstan, nous remplirons d’amertume les jours et les nuits de nos ennemis;
 >
@@ -89,7 +89,7 @@ Piran les écouta le cœur troublé, et ses traits se rembrunirent lorsqu’il e
 
 > Ô vous qui vous lamentez et vous désolez, vous qui êtes affligés et remplis d’angoisses, sans doute vous ne savez pas encore que votre vie se terminera ici.
 
-Il s’avança alors vers le Khakan et lui dit:
+Il s’avança alors vers le Khakan et lui dit:
 
 > Notre guerre, qui devait être si courte, est devenue longue.
 >
@@ -133,7 +133,7 @@ Schenkoul s’écria:
 
 > Ô toi qui portes haut la tête, pourquoi faire de longs discours?
 >
-> Nous avons voulu secourir Afrasiab, nous avons traversé les plaines et les mers, nous avons reçu du roi beaucoup d’armes et de présents, nous sommes accourus de tous les pays, nous sommes venus comme des lions, et nous nous en retournerions comme des renards, si nous reculions devant le combat.
+> Nous avons voulu secourir Afrasiab, nous avons traversé les plaines et les mers, nous avons reçu du roi beaucoup d’armes et de présents, nous sommes accourus de tous les pays, nous sommes venus comme des lions, et nous nous en retournerions comme des renards, si nous reculions devant le combat.
 >
 > Nous sommes partis en bondissant comme de vaillants lions, nous ne nous sommes pas arrêtés un jour en route;
 >

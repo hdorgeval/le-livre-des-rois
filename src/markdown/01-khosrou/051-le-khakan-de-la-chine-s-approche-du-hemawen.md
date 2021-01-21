@@ -21,7 +21,7 @@ A cet aspect il s’arrêta étonné, les pensées se pressaient dans sa tête, 
 
 Il s’approcha à pied du Khakan de la Chine et baisa la terre devant lui.
 
-Aussitôt que le Khakan l’aperçut, il l’embrassa, admira la largeur de sa poitrine et la force de ses bras, le reçut gracieusement, lui adressa beaucoup de questions et le fit asseoir à ses côtés sur le trône, en disant:
+Aussitôt que le Khakan l’aperçut, il l’embrassa, admira la largeur de sa poitrine et la force de ses bras, le reçut gracieusement, lui adressa beaucoup de questions et le fit asseoir à ses côtés sur le trône, en disant:
 
 > Dieu soit loué, ô Pehlewan, Dieu soit loué de ce que je te vois si bien portant et si heureux !
 

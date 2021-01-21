@@ -9,7 +9,7 @@ order: '052'
 
 # Les Iraniens tiennent conseil sur leur position
 
-Lorsque le soleil s’élança sur la voûte céleste, Thous et Gouderz étaient pleins d’inquiétude, et Thous dit:
+Lorsque le soleil s’élança sur la voûte céleste, Thous et Gouderz étaient pleins d’inquiétude, et Thous dit:
 
 > Les Turcs sont aujourd’hui bien tranquilles;
 >
@@ -17,7 +17,7 @@ Lorsque le soleil s’élança sur la voûte céleste, Thous et Gouderz étaie
 >
 > Mais qu’ils soient soucieux ou joyeux, mes pensées remplissent mon âme de tristesse.
 >
-> Si les Turcs ont reçu des renforts, sache que nos mauvais jours sont arrivés, et sois sûr que toute l’armée de l’Iran périra, ou si elle a la vie sauve, qu’elle sera obligée de renoncer au combat.
+> Si les Turcs ont reçu des renforts, sache que nos mauvais jours sont arrivés, et sois sûr que toute l’armée de l’Iran périra, ou si elle a la vie sauve, qu’elle sera obligée de renoncer au combat.
 >
 > Si Rustem n’arrive pas, le roi aura causé notre perte;
 >

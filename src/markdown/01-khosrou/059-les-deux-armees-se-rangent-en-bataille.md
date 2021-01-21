@@ -9,17 +9,17 @@ order: '059'
 
 # Les deux armées se rangent en bataille
 
-Lorsque l’astre qui illumine le monde commença à luire au-dessus de la montagne, et que le jour saisit les deux boucles de cheveux qui pendent sur les joues de la nuit sombre, qu’il se dégagea de son voile noir et mordit jusqu’au sang les lèvres de la lune, on entendit dans les deux camps le bruit des tambours, et les héros quittèrent leur couche.
+Lorsque l’astre qui illumine le monde commença à luire au-dessus de la montagne, et que le jour saisit les deux boucles de cheveux qui pendent sur les joues de la nuit sombre, qu’il se dégagea de son voile noir et mordit jusqu’au sang les lèvres de la lune, on entendit dans les deux camps le bruit des tambours, et les héros quittèrent leur couche.
 
 Le Sipehdar Houman sortit du camp et regarda tout autour de lui, se disant:
 
-> Il faut que les Iraniens aient reçu des renforts, puisqu’on a été obligé de dresser de nouvelles tentes.
+> Il faut que les Iraniens aient reçu des renforts, puisqu’on a été obligé de dresser de nouvelles tentes.
 
 Il vit une enceinte de tente de brocart bleu, autour de laquelle s’agitaient beaucoup de serviteurs;
 
 Il vit plantés devant l’enceinte le drapeau et la lance d’un Sipehbed, et cette idée que la fortune allait changer le frappa.
 
-Ensuite il aperçut une enceinte noire avec un drapeau brillant comme la lune;
+Ensuite il aperçut une enceinte noire avec un drapeau brillant comme la lune;
 
 Il vit Feribourz fils de Kaous entouré d’éléphants et de timbales, et un grand nombre de tentes dressées près du camp de Thous.
 
@@ -45,7 +45,7 @@ Il sortit aussitôt du camp, s’approcha des Iraniens et les observa.
 
 De là il courut auprès de Kamous, de Manschour et de Ferthous, et leur dit:
 
-> Je suis sorti à l’aube du jour, j’ai fait le tour de l’armée iranienne, et j’ai reconnu qu’elle a reçu de grands renforts, et qu’un grand nombre de guerriers illustres l’ont rejointe.
+> Je suis sorti à l’aube du jour, j’ai fait le tour de l’armée iranienne, et j’ai reconnu qu’elle a reçu de grands renforts, et qu’un grand nombre de guerriers illustres l’ont rejointe.
 >
 > Je crois que Rustem, dont j’ai déjà parlé à cette assemblée a quitté la cour de l’Iran et est venu ici au secours de Thous.
 
@@ -101,7 +101,7 @@ Le Khakan ordonna qu’on donnât le signal du combat sur le dos de son éléph
 
 Et le monde devint noir, les yeux des hommes furent privés de lumière, les esprits perdirent le repos.
 
-Le Khakan s’avança en pompe au centre de l’armée, la poussière couvrit le ciel comme un nuage sombre, et le bruit des clochettes indiennes faisait vibrer les cœurs.
+Le Khakan s’avança en pompe au centre de l’armée, la poussière couvrit le ciel comme un nuage sombre, et le bruit des clochettes indiennes faisait vibrer les cœurs.
 
 Le trône du Khakan, placé sur le dos d’un éléphant, éclairait la plaine par sa splendeur à la distance de plusieurs milles;
 
@@ -143,7 +143,7 @@ Ces éléphants, cette pompe, ces trônes d’ivoire, ces bracelets, ces chaîne
 
 C’était beau et terrible à voir.
 
-Rustem s’arrêta sur la hauteur confondu d’étonnement, et commença à concevoir des doutes; il se dit:
+Rustem s’arrêta sur la hauteur confondu d’étonnement, et commença à concevoir des doutes; il se dit:
 
 > Jusqu’à quand le ciel nous sourira-t-il, et quel jeu jouera avec nous le firmament qui s’étend au-dessus de nos têtes?
 

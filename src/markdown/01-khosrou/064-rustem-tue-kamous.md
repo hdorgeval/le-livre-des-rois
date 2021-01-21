@@ -13,7 +13,7 @@ Tehemten fut affligé de la mort d’Alwa;
 
 Il détacha du crochet de la selle son lacet roulé: comme il allait entreprendre un combat pareil à celui qu’il avait soutenu dans le Mazenderan, il s’était pourvu de son lacet et de sa lourde massue;
 
-Il s’avança poussant des cris comme un éléphant ivre, le lacet suspendu au bras, la massue en main.
+Il s’avança poussant des cris comme un éléphant ivre, le lacet suspendu au bras, la massue en main.
 
 Kamous lui dit:
 
@@ -21,7 +21,7 @@ Kamous lui dit:
 
 Rustem répondit:
 
-> Quand un lion aperçoit une proie, il mugit fièrement.
+> Quand un lion aperçoit une proie, il mugit fièrement.
 >
 > C’est toi qui as provoqué ce combat, tu as tué un des braves de l’Iran.
 >
@@ -29,11 +29,11 @@ Rustem répondit:
 >
 > Le destin, ô homme de Kaschan, t’a amené dans ce lien où la poussière qui doit te recouvrir est le seul gîte qui te reste.
 
-Kamous lança son destrier, il vit que son ennemi l’attendait plein de confiance en sa force;
+Kamous lança son destrier, il vit que son ennemi l’attendait plein de confiance en sa force;
 
 Il voulut trancher la tête de Rustem d’un coup de son épée damasquinée, mais l’épée porta sur le cou de Raksch, et coupa, sans le blesser, l’armure qui le couvrait.
 
-Rustem lança le nœud de son lacet, prit Kamous par le milieu du corps, fit partir Raksch l’éléphant furieux, rapprocha de sa jambe le bout du lacet et le passa dans l’anneau de la selle, pendant que Raksch volait comme l’aigle aux grandes ailes.
+Rustem lança le nœud de son lacet, prit Kamous par le milieu du corps, fit partir Raksch l’éléphant furieux, rapprocha de sa jambe le bout du lacet et le passa dans l’anneau de la selle, pendant que Raksch volait comme l’aigle aux grandes ailes.
 
 Kamous serra fortement son cheval des jambes, lui lâcha les rênes et appuya sur l’étrier;
 
@@ -43,7 +43,7 @@ Il se démena comme un insensé;
 
 Mais le lacet ne rompit pas.
 
-Rustem arrêta Raksch, se retourna, désarçonna Kamous et le jeta par terre.
+Rustem arrêta Raksch, se retourna, désarçonna Kamous et le jeta par terre.
 
 Alors il s’approcha de lui, le lia avec son lacet et lui dit:
 

@@ -39,7 +39,7 @@ Ses joues devinrent noires comme la poix par l’excès de ses soucis, il avait 
 
 Ensuite il dit à la sentinelle:
 
-> Ô homme aux yeux perçants, à l’esprit éveillé, regarde les armées du Touran et de l’Iran qui se reposent du combat, et dis-moi où est le drapeau du Sipehdar de l’lran;
+> Ô homme aux yeux perçants, à l’esprit éveillé, regarde les armées du Touran et de l’Iran qui se reposent du combat, et dis-moi où est le drapeau du Sipehdar de l’lran;
 >
 > Regarde à droite et à gauche.
 
@@ -103,7 +103,7 @@ Le Pehlewan fut aussi heureux de ces paroles que le serait un mort à qui l’o
 
 De l’autre côté, Piran conduisit, rapidement comme la poussière, sa nouvelle armée vers le champ de bataille.
 
-Un messager porteur de ces bonnes nouvelles le devança, et rapporta à Houman tout ce qui s’était passé, les grandes choses comme les petites.
+Un messager porteur de ces bonnes nouvelles le devança, et rapporta à Houman tout ce qui s’était passé, les grandes choses comme les petites.
 
 Houman l’écouta, sourit et dit:
 

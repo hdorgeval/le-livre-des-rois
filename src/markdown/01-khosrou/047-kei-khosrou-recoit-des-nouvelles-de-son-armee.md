@@ -59,7 +59,7 @@ A ces nouvelles le cœur de l’illustre Keï Khosrou fut bouleversé;
 
 Il ordonna à Rustem au corps d’éléphant de se rendre avec son armée à la cour, où les sages, les expérimentés et les glorieux Mobeds de tout l’lran se réunirent.
 
-Le maître des grands commença à parler à Rustem des combats de l’armée iranienne, disant:
+Le maître des grands commença à parler à Rustem des combats de l’armée iranienne, disant:
 
 > Ô toi qui porte haut la tête!
 >
@@ -115,7 +115,7 @@ Rustem répondit:
 >
 > Car tu es un roi glorieux, fort, sage et juste, et la voûte du ciel n’a jamais connu ton pareil.
 >
-> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’lran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
+> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’lran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
 >
 > J’ai éprouvé tant de douleurs et couru tant de dangers que je n’ai jamais pu penser à jouir de la vie un seul jour.
 >

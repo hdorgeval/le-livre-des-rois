@@ -9,7 +9,7 @@ order: '062'
 
 # Les Iraniens et les Touraniens forment leur ligne de bataille
 
-Lorque le soleil couchant répandit sur le monde une teinte de rubis, et que la nuit commença sa marche à travers le ciel, tous les braves de l’armée, tous ceux qui étaient de bon conseil et savaient frapper de l’épée, se rassemblèrent et se rendirent à la tente du Khakan, le cœur plein d’ardeur pour le combat et la vengeance : c’étaient Kamous le destructeur des hommes, le lion;
+Lorque le soleil couchant répandit sur le monde une teinte de rubis, et que la nuit commença sa marche à travers le ciel, tous les braves de l’armée, tous ceux qui étaient de bon conseil et savaient frapper de l’épée, se rassemblèrent et se rendirent à la tente du Khakan, le cœur plein d’ardeur pour le combat et la vengeance : c’étaient Kamous le destructeur des hommes, le lion;
 
 Manschour le vaillant, qui décidait du sort des batailles;
 
@@ -35,7 +35,7 @@ Le Khakan dit:
 >
 > Songez d’ailleurs que demain Afrasiab nous remerciera, et que nous jouirons du repos.
 >
-> Avançons donc contre nos ennemis en masse comme une montagne, et livrons une grande bataille.
+> Avançons donc contre nos ennemis en masse comme une montagne, et livrons une grande bataille.
 >
 > Il y a ici les héros de dix royaumes, et il ne s’agit pas de nous asseoir pour manger et pour dormir.
 

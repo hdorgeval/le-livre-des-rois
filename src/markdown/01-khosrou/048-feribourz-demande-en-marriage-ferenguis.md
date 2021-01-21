@@ -135,7 +135,7 @@ Après l’avoir comblée de louanges, il continua:
 >
 > Tu sais que jamais une femme n’est insensible à l’amour qu’elle inspire;
 >
-> Et quelle est la jeune femme qui reçoit froidement un jeune époux, surtout quand c’est un Keïanide?
+> Et quelle est la jeune femme qui reçoit froidement un jeune époux, surtout quand c’est un Keïanide?
 >
 > Les hommes sont faits pour les femmes, et c’est à eux de les demander en mariage.
 >

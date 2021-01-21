@@ -27,7 +27,7 @@ Il dit à Piran:
 >
 > Le feu emprunte son éclat de son épée, et tu verras que tout ce que je dis est véritable.
 >
-> Je me suis aperçu qu’il n’a d’affection que pour toi seul;
+> Je me suis aperçu qu’il n’a d’affection que pour toi seul;
 >
 > Il m’a beaucoup parlé de toi et m’a découvert sa pensée.
 >
@@ -55,7 +55,7 @@ Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœur
 
 > Ô roi, ne t’irrite pas, mais notre fortune a changé.
 >
-> Lorsque le vaillant Kamous a péri, j’ai été à l’instant frappé du soupçon que cette muraille de fer était Rustem, que c’était son lacet que je voyais enroulé sur lui-même.
+> Lorsque le vaillant Kamous a péri, j’ai été à l’instant frappé du soupçon que cette muraille de fer était Rustem, que c’était son lacet que je voyais enroulé sur lui-même.
 >
 > Quand même Afrasiab se présenterait ici dans toute sa gloire, on ne verrait pas même en songe Rustem tourner le dos;
 >

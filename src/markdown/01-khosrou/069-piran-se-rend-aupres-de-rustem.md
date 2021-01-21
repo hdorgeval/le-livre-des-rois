@@ -15,7 +15,7 @@ Quand il fut près de l’armée de l’Iran, il s’écria:
 
 > Ô puissant guerrier, j’ai ouï dire que de cette armée innombrable de Turcs tu désirais ne voir que moi, et j’ai quitté mon camp pour savoir ce que me veut le Sipehbed.
 
-Lorsque Rustem apprit qu’un guerrier turc était arrivé, il s’avança à sa rencontre au-devant de l’armée, la tête couverte d’un casque de fer, et il lui dit:
+Lorsque Rustem apprit qu’un guerrier turc était arrivé, il s’avança à sa rencontre au-devant de l’armée, la tête couverte d’un casque de fer, et il lui dit:
 
 > Ô Turc, quel est ton nom?
 >

@@ -31,7 +31,7 @@ Djinghisch baisa la terre devant lui, et le Khakan lui dit:
 
 > Si tu accomplis cette vengeance, si tu m’apportes cette tête superbe, je te donnerai tant de joyaux et de trésors que tu n’auras plus besoin de te fatiguer.
 
-Djinghisch lança aussitôt son cheval et courut semblable à Adergouschasp;
+Djinghisch lança aussitôt son cheval et courut semblable à Adergouschasp;
 
 Arrivé auprès des Iraniens qu’il voulait attaquer, il prit dans son carquois une flèche de bois de peuplier, et s’écria:
 
@@ -43,7 +43,7 @@ Il allait à droite et à gauche, disant:
 
 > Où est ce brave?
 
-Rustem saisit sa massue, s’élança de sa place, monta sur Raksch, et s’écria:
+Rustem saisit sa massue, s’élança de sa place, monta sur Raksch, et s’écria:
 
 > C’est moi qui suis le vainqueur des lions, le distributeur des couronnes, le maître du lacet et de l’arc, des flèches et de Raksch, et dans un instant tu essuieras la poussière avec tes yeux, comme a fait Kamous.
 
@@ -81,7 +81,7 @@ Il regarda son cheval, qui était comme une montagne surmontée d’une autre qu
 
 > Il vaut mieux s’enfuir que d’aventurer sa vie.
 
-Il lança son destrier pour retourner auprès des siens;
+Il lança son destrier pour retourner auprès des siens;
 
 Mais le vaillant Rustem poussa Raksch et poursuivit Djinghisch rapidement comme la flamme;
 
