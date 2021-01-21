@@ -21,7 +21,7 @@ tags:
     'Kamous',
     'Kaous',
     'Kaschan',
-    'Keï',
+    'Keï',
     'Kelbad',
     'Khakan',
     'Khosrou',
@@ -96,7 +96,7 @@ Kamous lui répondit:
 
 > Ô homme plein de prudence, ton esprit te suggère donc toujours des idées de malheur!
 >
-> Sache que quand même Keï Khosrou serait venu nous combattre, tu ne devrais pas t’en effrayer si follement.
+> Sache que quand même Keï Khosrou serait venu nous combattre, tu ne devrais pas t’en effrayer si follement.
 >
 > Que parles-tu donc tant de Rustem?
 >

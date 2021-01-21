@@ -35,7 +35,7 @@ tags:
     'Mobeds',
     'Nestihen',
     'Piran',
-    'Rouïn',
+    'Rouïn',
     'Rustem',
     'Schenkoul',
     'Segsar',
@@ -91,7 +91,7 @@ Piran courut à son camp rapidement comme le vent, convoqua tous les membres de
 >
 > Ils nous fouleront aux pieds de leurs destriers, et la splendeur de la fortune qui veillait sur nous sera ternie.
 >
-> Mon cœur est désolé du sort qui attend Houman, et il se consume de douleur en pensant à Rouïn;
+> Mon cœur est désolé du sort qui attend Houman, et il se consume de douleur en pensant à Rouïn;
 >
 > Car Rustem ne songe qu’à venger Siawusch, et il fronce les sourcils.
 >

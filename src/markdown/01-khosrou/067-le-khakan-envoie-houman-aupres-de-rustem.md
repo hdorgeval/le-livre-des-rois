@@ -14,13 +14,13 @@ tags:
     'Ferschidwerd',
     'Gouderz',
     'Gour-i-kouh',
-    'Guerouï',
+    'Guerouï',
     'Guersiwez',
     'Houman',
     'Iran',
     'Iraniens',
     'Kamous',
-    'Keï',
+    'Keï',
     'Kelbad',
     'Khakan',
     'Khosrou',
@@ -101,7 +101,7 @@ Rustem lui répondit:
 >
 > Et quand vous me les aurez renvoyés tous, alors je cesserai de faire la guerre aux Turcs;
 >
-> Alors vous serez tous mes amis, je vous honorerai et vous protégerai, nous ne nous vengerons plus, nous ne ferons plus la guerre, nous ne jetterons plus dans la poussière la tête des grands, et je raconterai à Keï Khosrou tout ce qui s’est passé;
+> Alors vous serez tous mes amis, je vous honorerai et vous protégerai, nous ne nous vengerons plus, nous ne ferons plus la guerre, nous ne jetterons plus dans la poussière la tête des grands, et je raconterai à Keï Khosrou tout ce qui s’est passé;
 >
 > Je purifierai son cœur et son cerveau de toute colère et du désir de la vengeance.
 >
@@ -111,7 +111,7 @@ Rustem lui répondit:
 >
 > D’abord l’instigateur de ce crime, Guersiwez, qui a affligé et tourmenté l’lran.
 >
-> Puis tous les membres de la famille de Tour, que tu sais avoir follement troublé cette eau, tels que Guerouï, Zereh et ses fils, maudite soit à jamais cette race dont la méchanceté a opprimé Siawusch, lui qui avait affranchi l’Iran et le Touran de leurs haines!
+> Puis tous les membres de la famille de Tour, que tu sais avoir follement troublé cette eau, tels que Guerouï, Zereh et ses fils, maudite soit à jamais cette race dont la méchanceté a opprimé Siawusch, lui qui avait affranchi l’Iran et le Touran de leurs haines!
 >
 > Ensuite tous ceux qui ont perverti le cœur et la tête d’Afrasiab et qui ont versé des torrents de sang;
 >
@@ -171,7 +171,7 @@ Houman lui répondit:
 
 > Ô toi qui portes haut la tête, tu veux voir Piran?
 >
-> Que sais-tu de Piran et de Kelbad, de Guerouï Zereh et de Poulad?
+> Que sais-tu de Piran et de Kelbad, de Guerouï Zereh et de Poulad?
 
 Rustem lui dit:
 

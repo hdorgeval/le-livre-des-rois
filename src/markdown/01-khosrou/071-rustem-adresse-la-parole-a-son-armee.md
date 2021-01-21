@@ -24,7 +24,7 @@ tags:
     'Iran',
     'Iraniens',
     'Kamous',
-    'Keï',
+    'Keï',
     'Khosrou',
     'Manschour',
     'Mazenderan',
@@ -69,7 +69,7 @@ Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et Gu
 >
 > J’ai néanmoins le pressentiment que Piran sera un des premiers qui tomberont dans cette guerre, et que devant lui périront son frère, son fils et un grand nombre de ses nobles et illustres alliés.
 >
-> Afrasiab sera tué par la main de Keï Khosrou, c’est ainsi que je l’ai vu en songe, et aucun des coupables ne restera en vie;
+> Afrasiab sera tué par la main de Keï Khosrou, c’est ainsi que je l’ai vu en songe, et aucun des coupables ne restera en vie;
 >
 > Ils seront tués et foulés aux pieds.
 >

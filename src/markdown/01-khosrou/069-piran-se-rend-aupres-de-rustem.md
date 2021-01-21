@@ -19,7 +19,7 @@ tags:
     'Iran',
     'Kaboul',
     'Kaschan',
-    'Keï-Khosrou',
+    'Keï-Khosrou',
     'Khakan',
     'Khosrou)',
     'Lehhak',
@@ -52,7 +52,7 @@ Piran partit rempli de crainte et d’inquiétude, et le cœur navré de l’arr
 
 Quand il fut près de l’armée de l’Iran, il s’écria:
 
-> Ô puissant guerrier, j’ai ouï dire que de cette armée innombrable de Turcs tu désirais ne voir que moi, et j’ai quitté mon camp pour savoir ce que me veut le Sipehbed.
+> Ô puissant guerrier, j’ai ouï dire que de cette armée innombrable de Turcs tu désirais ne voir que moi, et j’ai quitté mon camp pour savoir ce que me veut le Sipehbed.
 
 Lorsque Rustem apprit qu’un guerrier turc était arrivé, il s’avança à sa rencontre au-devant de l’armée, la tête couverte d’un casque de fer, et il lui dit:
 
@@ -164,7 +164,7 @@ Rustem écouta les paroles de Piran, mais il ne lui répondit pas selon son dés
 >
 > Maintenant je vous offre la paix à deux conditions, réfléchis si elles vous conviennent.
 >
-> D’abord tu enverras enchaînés à Keï-Khosrou tous ceux qui ont follement amené cette guerre par le meurtre du prince, quand même ils ne l’auraient pas conseillée;
+> D’abord tu enverras enchaînés à Keï-Khosrou tous ceux qui ont follement amené cette guerre par le meurtre du prince, quand même ils ne l’auraient pas conseillée;
 >
 > Tous ceux qui sont coupables d’avoir répandu ce sang innocent, quand même ils ne se trouveraient pas sur ce champ de bataille.
 >
