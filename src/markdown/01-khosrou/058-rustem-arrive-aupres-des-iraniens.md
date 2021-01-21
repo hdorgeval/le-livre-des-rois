@@ -31,11 +31,11 @@ Gouderz lui dit:
 >
 > Sans toi nous sommes comme des poissons sur terre, nos têtes sont étourdies, nos corps sont comme dans la tombe.
 >
-> Quand je regarde tes nobles traits, quand j’entends tes questions bienveillantes et chaleureuses, j’oublie que je porte le deuil de mes glorieux enfants, et grâce à ta bonne fortune, mes lèvres ne font que sourire.
+> Quand je regarde tes nobles traits, quand j’entends tes questions bienveillantes et chaleureuses, j’oublie que je porte le deuil de mes glorieux enfants, et grâce à ta bonne fortune, mes lèvres ne font que sourire.
 
 Rustem lui dit:
 
-> Tranquillise ton âme, affranchis-toi de l’amour de la vie, car elle n’est que tromperie et peines, et c’est quand elle te montre un trésor qu’elle te quitte.
+> Tranquillise ton âme, affranchis-toi de l’amour de la vie, car elle n’est que tromperie et peines, et c’est quand elle te montre un trésor qu’elle te quitte.
 >
 > Que ce soit de mort naturelle ou dans le combat, que ce soit glorieusement ou avec honte, il faut mourir, et il n’y a pas à cela de remède;
 >
@@ -85,11 +85,11 @@ Les grands lui parlèrent longuement de cette armée innombrable, de Kamous, de 
 >
 > Il y a sur cette plaine des casques et des cuirasses innombrables, et l’on n’y trouve pas un homme dont la mine ne soit féroce.
 >
-> Si le Pehlewan n’était pas arrivé, nous étions perdus : grâces soient rendues à Dieu le victorieux, qui nous avait accablés de soucis et de dangers!
+> Si le Pehlewan n’était pas arrivé, nous étions perdus : grâces soient rendues à Dieu le victorieux, qui nous avait accablés de soucis et de dangers!
 >
 > C’est toi qui nous as sauvé la vie, dont nous avions désespéré.
 
-Le Pehlewan resta quelques moments attristé de la perte de ceux qui étaient morts, versant des larmes et l’âme assombrie;
+Le Pehlewan resta quelques moments attristé de la perte de ceux qui étaient morts, versant des larmes et l’âme assombrie;
 
 A la fin il dit:
 

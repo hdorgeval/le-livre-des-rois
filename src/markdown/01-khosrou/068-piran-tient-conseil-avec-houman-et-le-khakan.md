@@ -9,7 +9,7 @@ order: '068'
 
 # Piran tient conseil avec Houman et le Khakan
 
-Houman partit sur-le-champ et en toute hâte, son front avait pâli et ses joues avaient perdu leurs couleurs.
+Houman partit sur-le-champ et en toute hâte, son front avait pâli et ses joues avaient perdu leurs couleurs.
 
 Il dit à Piran:
 
@@ -51,7 +51,7 @@ Piran répondit:
 >
 > Car si cet homme armé de l’épée est Rustem, cette plaine deviendra pour nous un lieu de malheur, le feu dévastera notre pays, et je ne sais ce que prépare notre mauvaise étoile.
 
-Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœur déchirés de soucis et de rage, et il lui dit:
+Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœur déchirés de soucis et de rage, et il lui dit:
 
 > Ô roi, ne t’irrite pas, mais notre fortune a changé.
 >
@@ -69,7 +69,7 @@ Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœur
 >
 > Je ne sais ce qu’il me veut;
 >
-> Mais j’irai, je verrai ce qu’il désire, car mon âme dépérit de douleur.
+> Mais j’irai, je verrai ce qu’il désire, car mon âme dépérit de douleur.
 
 Le Khakan lui dit:
 

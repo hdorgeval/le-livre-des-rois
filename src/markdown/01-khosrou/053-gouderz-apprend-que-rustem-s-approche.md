@@ -35,7 +35,7 @@ Ses joues devinrent noires comme la poix par l’excès de ses soucis, il avait 
 >
 > La vie ne m’offre plus d’espérances, et le jour brillant s’est assombri pour moi.
 >
-> 0h! plût à Dieu que ma mère ne m’eût pas mis au monde et que le ciel sublime ne tournât pas au-dessus de ma tête!
+> 0h! plût à Dieu que ma mère ne m’eût pas mis au monde et que le ciel sublime ne tournât pas au-dessus de ma tête!
 
 Ensuite il dit à la sentinelle:
 
@@ -45,7 +45,7 @@ Ensuite il dit à la sentinelle:
 
 La sentinelle lui répondit:
 
-> Je ne vois pas des deux côtés le même degré de mouvement et d’agitation: là ils se remuent et se hâtent, et ici ils sont comme endormis.
+> Je ne vois pas des deux côtés le même degré de mouvement et d’agitation: là ils se remuent et se hâtent, et ici ils sont comme endormis.
 
 Ces paroles remplirent le Pehlewan de douleur;
 
@@ -81,7 +81,7 @@ Gouderz lui répondit:
 >
 > Maintenant, pour l’amour de moi, quitte ton poste, va auprès du chef de l’armée de l’Iran et répète-lui tout ce que tu m’as dit.
 >
-> Pars en toute hâte, et demande à chacun de nous une récompense pour ta bonne nouvelle.
+> Pars en toute hâte, et demande à chacun de nous une récompense pour ta bonne nouvelle.
 
 La sentinelle lui dit:
 
@@ -155,11 +155,11 @@ Il rassembla les chefs de l’armée, dévoré d’anxiété et de sollicitude p
 >
 > Si je tombe dans cette bataille, l’Iran trouvera toujours un Sipehbed aussi longtemps qu’il y aura un roi.
 >
-> On ne dira pas que je suis mort sans gloire et comme un lâche, mais considérez-moi comme un homme que recouvre déjà la terre.
+> On ne dira pas que je suis mort sans gloire et comme un lâche, mais considérez-moi comme un homme que recouvre déjà la terre.
 
 L’avis du Pehlewan fut partagé par l’armée, par tous ceux qui se trouvaient dans le camp;
 
-Mais lorsque le monde fut couvert comme d’une mer de poix, que Vénus, Mars et Mercure furent invisibles, que la lune eut levé sa tête dans le signe des Poissons et déchiré jusqu’au nombril sa robe noire, la sentinelle accourut auprès de Thous en toute hâte et le visage coloré comme la sandaraque, et s’écria:
+Mais lorsque le monde fut couvert comme d’une mer de poix, que Vénus, Mars et Mercure furent invisibles, que la lune eut levé sa tête dans le signe des Poissons et déchiré jusqu’au nombril sa robe noire, la sentinelle accourut auprès de Thous en toute hâte et le visage coloré comme la sandaraque, et s’écria:
 
 > Ô Pehlewan de l’armée, il arrive de l’Iran des troupes que le roi nous envoie.
 
@@ -167,7 +167,7 @@ Les grands et le Sipehbed sourirent, et il leur dit:
 
 > Ô nobles et illustres chefs de l’armée, puisque nous recevons du secours, nous ne nous battrons pas;
 >
-> Car il y a temps de se hâter et temps de tarder.
+> Car il y a temps de se hâter et temps de tarder.
 >
 > Le héros au corps d’éléphant vient à notre aide avec la force que Dieu lui a donnée : nous aurons raison des Turcs, et notre nom sera porté jusqu’au soleil.
 

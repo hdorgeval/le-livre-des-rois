@@ -49,7 +49,7 @@ De nouveaux messagers arrivaient incessamment de l’armée auprès du Pehlewan,
 
 > Ô illustre Pehlewan, puisses-tu vivre heureux et à jamais!
 >
-> Puisse la vue des rois réjouir ton cœur et délivrer ton âme de ses soucis!
+> Puisse la vue des rois réjouir ton cœur et délivrer ton âme de ses soucis!
 >
 > Depuis le Kaschmir jusqu’au delà du fleuve Schahd on ne voit que drapeaux, troupes, éléphants et haoudahs.
 >
@@ -63,7 +63,7 @@ De nouveaux messagers arrivaient incessamment de l’armée auprès du Pehlewan,
 >
 > Porte donc haut la tête, livre-toi à la joie, car ce message rajeunirait un vieillard.
 
-Le cœur et l’âme de Piran s’épanouirent;
+Le cœur et l’âme de Piran s’épanouirent;
 
 Tu aurais dit qu’il avait été mort et qu’il ressuscitait;
 

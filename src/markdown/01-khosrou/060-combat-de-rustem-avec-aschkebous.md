@@ -103,7 +103,7 @@ Aschkebous banda son arc, le corps tremblant, le visage rouge comme la sandaraqu
 
 Il fit pleuvoir des traits sur le Bebr-i-beyan la cuirasse de Rustem; mais celui-ci lui dit:
 
-> Tu fatigues follement ton corps, tes deux bras et ton âme remplie de mauvaises pensées.
+> Tu fatigues follement ton corps, tes deux bras et ton âme remplie de mauvaises pensées.
 
 Ensuite il porta la main à sa ceinture, choisit une flèche à triple bois, dont la pointe brillait comme l’eau et qui était empennée de quatre plumes d’aigle;
 

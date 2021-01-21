@@ -57,15 +57,15 @@ A ces mots Gouderz se leva et lui dit:
 >
 > C’est par toi que brillent le trône, la couronne et le diadème;
 >
-> Tu disposes des âmes et des intelligences, et ton esprit se nourrit de sagesse.
+> Tu disposes des âmes et des intelligences, et ton esprit se nourrit de sagesse.
 >
 > Sans doute la concorde vaut ce mieux que la guerre, mais observe que le taureau est encore dans sa peau.
 >
 > Je te raconterai ce qui s’est passé;
 >
-> Mais écoute d’abord le vieux proverbe qui dit que l’âme des méchants se refuse à la paix comme le cou se refuse à un trop lourd fardeau.
+> Mais écoute d’abord le vieux proverbe qui dit que l’âme des méchants se refuse à la paix comme le cou se refuse à un trop lourd fardeau.
 >
-> Si Piran, dans son embarras, t’a fait une promesse, il tâchera d’éluder ce qu’il a justement promis.
+> Si Piran, dans son embarras, t’a fait une promesse, il tâchera d’éluder ce qu’il a justement promis.
 >
 > Dieu en le créant lui a refusé la droiture;
 >

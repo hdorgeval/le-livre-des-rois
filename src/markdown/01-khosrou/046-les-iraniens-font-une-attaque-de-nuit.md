@@ -109,7 +109,7 @@ Thous dit à Guiv et à Rehham:
 
 > Nous avons sans doute été ensorcelés;
 >
-> Et si le créateur du ciel sublime ne tire pas de ce danger nos corps et nos âmes, nous sommes sous le coup d’aile de l’aigle, ou noyés dans les flots de la mer.
+> Et si le créateur du ciel sublime ne tire pas de ce danger nos corps et nos âmes, nous sommes sous le coup d’aile de l’aigle, ou noyés dans les flots de la mer.
 
 Ces trois héros firent une attaque ensemble, comme des lions qui bondissent dans leur colère;
 
@@ -155,7 +155,7 @@ Les héros partirent en se guidant sur le son de cette voix, ils trouvèrent la 
 
 Arrivés plus près de leur Sipehdar, ils saisirent tous leurs lourdes massues.
 
-Alors on lâcha les brides, on s’appesantit sur les étriers, et l’on ne distinguait plus ce qui était haut de ce qui était bas.
+Alors on lâcha les brides, on s’appesantit sur les étriers, et l’on ne distinguait plus ce qui était haut de ce qui était bas.
 
 Les coups des héros et le bruit des clochettes étaient tels qu’ils auraient fait sortir le crocodile du fond de la mer.
 
@@ -179,7 +179,7 @@ Thous leur dit:
 >
 > Je prie Dieu le saint qu’il n’arrive pas de mal à cette armée, je ne cesse d’avoir en lui la confiance qu’il nous fera partir d’ici le cœur en joie;
 >
-> J’espère que par sa grâce et sans délai, une armée rapide comme la fumée nous rejoindra.
+> J’espère que par sa grâce et sans délai, une armée rapide comme la fumée nous rejoindra.
 >
 > Le messager monté sur un dromadaire de course, qui est parti pour la cour du roi de la terre, doit maintenant être arrivé, et quand le roi aura reçu ma lettre, son cœur se sera enflammé d’une ardeur nouvelle, et le héros au cœur d’éléphant viendra à notre aide avec une armée de vaillants lions.
 >
@@ -187,7 +187,7 @@ Thous leur dit:
 >
 > Je raconterai au victorieux roi du monde tout ce qui s’est passé en public et en secret;
 >
-> Et par sa grâce et sa bonté votre sort comblera vos désirs.
+> Et par sa grâce et sa bonté votre sort comblera vos désirs.
 
 Les deux armées avaient renoncé au combat et se reposaient;
 

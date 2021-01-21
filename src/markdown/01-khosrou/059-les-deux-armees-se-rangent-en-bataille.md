@@ -69,7 +69,7 @@ Kamous lui répondit:
 
 Le Pehlewan fut réjoui de ces paroles et délivré de l’inquiétude où l’avait jeté Rustem;
 
-Il s’en retourna le cœur rempli de joie, plein de résolution, ayant retrempé son âme dans l’eau de la bravoure;
+Il s’en retourna le cœur rempli de joie, plein de résolution, ayant retrempé son âme dans l’eau de la bravoure;
 
 Il distribua à ses troupes des casques et des cuirasses, et leur répéta les discours de Kamous;
 
@@ -77,7 +77,7 @@ Ensuite il se rendit chez le Khakan, baisa la terre devant lui, et dit:
 
 > Ô roi, puisses-tu être heureux!
 >
-> Puisse ton aspect réconforter les âmes!
+> Puisse ton aspect réconforter les âmes!
 >
 > Tu as fait un long et pénible chemin, tu as renoncé aux fêtes pour prendre part à nos fatigues, tu as traversé dans des vaisseaux la mer de la Chine pour complaire à Afrasiab.
 >
@@ -97,7 +97,7 @@ Le Khakan ayant entendu ces paroles, fit sonner des trompettes;
 
 La montagne semblait sauter, et la terre et le ciel, au bruit des tambours, s’armaient pour le combat et se dépouillaient de toute pitié.
 
-Le Khakan ordonna qu’on donnât le signal du combat sur le dos de son éléphant;
+Le Khakan ordonna qu’on donnât le signal du combat sur le dos de son éléphant;
 
 Et le monde devint noir, les yeux des hommes furent privés de lumière, les esprits perdirent le repos.
 
@@ -109,7 +109,7 @@ La bouche et les yeux du ciel se remplirent de poussière, tu aurais dit que sa 
 
 Et lorsque le Khakan parut au centre de l’armée, la lune s’égara de sa route.
 
-Kamous étendit sa ligne à la droite de la montagne, on transporta ses bagages du côté de la plaine, et Piran, son frère Houman et Kelbad se placèrent en toute hâte à la gauche de la montagne.
+Kamous étendit sa ligne à la droite de la montagne, on transporta ses bagages du côté de la plaine, et Piran, son frère Houman et Kelbad se placèrent en toute hâte à la gauche de la montagne.
 
 Lorsque Rustem vit les mouvements du Khakan, il disposa ses troupes sur le champ de bataille, ordonna à Thous de faire placer les timbales et de parer son armée comme l’œil du coq, et lui dit:
 
@@ -119,7 +119,7 @@ Lorsque Rustem vit les mouvements du Khakan, il disposa ses troupes sur le champ
 >
 > Maintenant ses sabots sont usés, il est fatigué de ce long chemin, et je n’ose pas le charger du poids de mon corps pour aller combattre un ennemi.
 >
-> Venez donc pour aujourd’hui à mon aide dans cette bataille, et tâchez de vaincre vous-mêmes cette armée.
+> Venez donc pour aujourd’hui à mon aide dans cette bataille, et tâchez de vaincre vous-mêmes cette armée.
 
 Thous fit sonner des trompettes et battre les tambours d’airain, et le bruit et la voix des clairons se fit entendre.
 
@@ -169,11 +169,11 @@ Les cris des cavaliers et les hennissements de leurs destriers montaient de la p
 
 Les épées et les bras étaient rouges de sang, et le cœur de la terre tremblait sous les sabots des chevaux;
 
-Les lâches mouraient de peur, et les braves se taillaient des linceuls de leurs cottes de mailles;
+Les lâches mouraient de peur, et les braves se taillaient des linceuls de leurs cottes de mailles;
 
 De tous côtés s’enfuyaient les lions, et s’envolaient les aigles courageux;
 
-La face du soleil pâlissait, et la montagne et les rochers tremblaient.
+La face du soleil pâlissait, et la montagne et les rochers tremblaient.
 
 Le vaillanl Kamous dit aux siens:
 

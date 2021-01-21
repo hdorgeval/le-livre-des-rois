@@ -35,7 +35,7 @@ Il voulut trancher la tête de Rustem d’un coup de son épée damasquinée, ma
 
 Rustem lança le nœud de son lacet, prit Kamous par le milieu du corps, fit partir Raksch l’éléphant furieux, rapprocha de sa jambe le bout du lacet et le passa dans l’anneau de la selle, pendant que Raksch volait comme l’aigle aux grandes ailes.
 
-Kamous serra fortement son cheval des jambes, lui lâcha les rênes et appuya sur l’étrier;
+Kamous serra fortement son cheval des jambes, lui lâcha les rênes et appuya sur l’étrier;
 
 Il essaya de rompre le lacet pour se délivrer de son étreinte;
 
@@ -79,7 +79,7 @@ Telle est la coutume du ciel et du temps, ils amènent tantôt la douleur et le 
 
 Il faut subir les soucis et les fatigues, les inquiétudes et les peines, et la bravoure ne t’en délivrera pas.
 
-Tu succombes sous le poids de tes fautes, ton âme est dévorée d’anxiété et de douleurs.
+Tu succombes sous le poids de tes fautes, ton âme est dévorée d’anxiété et de douleurs.
 
 Ne te fie pas à ton courage, car le destin a la main étendue sur toi.
 

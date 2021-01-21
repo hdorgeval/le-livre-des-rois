@@ -11,7 +11,7 @@ order: '065'
 
 > Écoute-moi, ô homme intelligent [^1]:
 >
-> Que ta langue ne prononce d’autre nom que celui de Dieu, qui est notre guide dans le bonheur et dans le malheur, qui maintient la voûte du ciel qui tourne, qui a créé l’âme et la raison, et que seul on doit adorer.
+> Que ta langue ne prononce d’autre nom que celui de Dieu, qui est notre guide dans le bonheur et dans le malheur, qui maintient la voûte du ciel qui tourne, qui a créé l’âme et la raison, et que seul on doit adorer.
 >
 > Tes jours vont s’écouler, et un autre monde deviendra ta demeure.
 >

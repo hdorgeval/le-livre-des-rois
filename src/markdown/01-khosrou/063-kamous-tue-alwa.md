@@ -55,7 +55,7 @@ C’était un homme accoutumé au maniement des rênes;
 
 Il savait se servir de l’épée, de la massue et de la lance;
 
-Son âme avait mûri parmi les travaux et les dangers de la guerre.
+Son âme avait mûri parmi les travaux et les dangers de la guerre.
 
 Rustem avait été son maître dans l’art des combats et avait l’habitude de lui confier sa lance, et personne alors ne passait derrière Rustem.
 

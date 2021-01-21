@@ -125,11 +125,11 @@ Rustem lui dit:
 >
 > Répète-leur ce que tu m’as entendu dire.
 >
-> Mon âme brûle pour Piran, mon cœur est enflammé de tendresse pour lui;
+> Mon âme brûle pour Piran, mon cœur est enflammé de tendresse pour lui;
 >
 > Il n’y a que lui qui soit affligé de la mort de Siawusch, et il n’existe pas dans le Touran un homme aussi noble et aussi humain.
 >
-> Envoie-le-moi en toute hâte, et nous verrons quelle tournure prendra le sort.
+> Envoie-le-moi en toute hâte, et nous verrons quelle tournure prendra le sort.
 
 Houman lui répondit:
 

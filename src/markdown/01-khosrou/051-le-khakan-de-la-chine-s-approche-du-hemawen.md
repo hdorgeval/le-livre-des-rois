@@ -33,11 +33,11 @@ Piran répondit:
 
 > Ô roi, puisses-tu être heureux à jamais!
 >
-> Puisse la grâce du Créateur reposer sur toi!
+> Puisse la grâce du Créateur reposer sur toi!
 >
 > Tes questions ont réjoui le cœur du vieillard.
 >
-> Par l’effet de ta fortune je suis joyeux et bien portant, et mon âme ne recherche que la poussière de tes pieds.
+> Par l’effet de ta fortune je suis joyeux et bien portant, et mon âme ne recherche que la poussière de tes pieds.
 >
 > Je vais répondre au roi sur ce qu’il désire savoir des Iraniens.
 >

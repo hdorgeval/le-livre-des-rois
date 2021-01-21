@@ -85,7 +85,7 @@ Piran lui répondit:
 
 > J’ai renoncé au trône et à la couronne, j’ai désespéré de la lumière du soleil et de la lune, quand j’ai entendu dire qu’une armée d’Iraniens s’approchait et arrivait sur ce champ de bataille;
 >
-> Mon âme et mon cervau étaient remplis de soucis, et mon cœur poussait un grand soupir.
+> Mon âme et mon cervau étaient remplis de soucis, et mon cœur poussait un grand soupir.
 
 Kelbad lui dit:
 
@@ -101,15 +101,15 @@ Kelbad lui dit:
 >
 > Ils se sont enfuis d’ici, ils se sont retirés sous leurs tentes.
 
-Lorsque Thous, de son côté, apprit que le pays était rempli du bruit des timbales, que le héros au corps d’éléphant et Feribourz fils de Kaous arrivaient de l’Iran avec une armée, il ordonna qu’on plaçât les timbales sur le dos des éléphants, et la montagne se couvrit de la poussière noire que soulevait son armée.
+Lorsque Thous, de son côté, apprit que le pays était rempli du bruit des timbales, que le héros au corps d’éléphant et Feribourz fils de Kaous arrivaient de l’Iran avec une armée, il ordonna qu’on plaçât les timbales sur le dos des éléphants, et la montagne se couvrit de la poussière noire que soulevait son armée.
 
 Le Hemawen retentit de cris, la terre tremblait sous le piétinement des chevaux, et le Sipehbed raconta longuement aux Iraniens la guerre du Mazenderan, ce que Rustem avait fait dans la lutte contre les Divs, et comment il les avait traités.
 
-Les braves rendirent grâces au Pehlewan, disant:
+Les braves rendirent grâces au Pehlewan, disant:
 
 > Puisse ton cœur rester vigilant et ton esprit serein!
 >
-> Quand tu voudrais notre vie pour prix de la bonne nouvelle, nous la donnerions, car elle remplit nos âmes de joie.
+> Quand tu voudrais notre vie pour prix de la bonne nouvelle, nous la donnerions, car elle remplit nos âmes de joie.
 >
 > Maintenant que Tehemten vient livrer bataille, cette armée ne résistera pas au crocodile, et nous combattrons tous pour effacer la honte qui pèse sur I’Iran.
 >
@@ -119,7 +119,7 @@ Le prudent Thous dit à l’armée:
 
 > D’un côté nous sommes entourés de dangers, de l’autre je crains des reproches.
 >
-> Car bien que tous les environs de la montagne soient remplis de troupes, et que nos têtes soient prises dans le lacet, quand Rustem arrivera, il nous blâmera, sans peut-être daigner s’enquérir de ce qui s’est passé;
+> Car bien que tous les environs de la montagne soient remplis de troupes, et que nos têtes soient prises dans le lacet, quand Rustem arrivera, il nous blâmera, sans peut-être daigner s’enquérir de ce qui s’est passé;
 >
 > Il dira :
 >

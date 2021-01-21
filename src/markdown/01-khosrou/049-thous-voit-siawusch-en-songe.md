@@ -49,7 +49,7 @@ Piran lui dit :
 
 > Ne t’impatiente pas!
 >
-> Nous n’avons pas besoin de nous hâter, et il n’y a pas lieu de disputer.
+> Nous n’avons pas besoin de nous hâter, et il n’y a pas lieu de disputer.
 >
 > Trois hommes avec une poignée de troupes sont sortis hier dans la nuit de leur camp à l’improviste;
 >
@@ -69,7 +69,7 @@ Piran lui dit :
 >
 > Pourquoi donc provoquer une bataille?
 >
-> Il suffit d’envoyer cent cavaliers en vedette dans cette plaine, et de rester tranquille jusqu’à ce que le manque de vivres et d’eau ait réduit les ennemis à demander grâce pour leur vie;
+> Il suffit d’envoyer cent cavaliers en vedette dans cette plaine, et de rester tranquille jusqu’à ce que le manque de vivres et d’eau ait réduit les ennemis à demander grâce pour leur vie;
 >
 > Car, à moins de pouvoir vivre de terre et de pierres, ils périront demain.
 

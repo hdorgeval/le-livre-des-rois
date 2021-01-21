@@ -59,7 +59,7 @@ Piran répondit:
 >
 > C’est un cavalier qui porte haut la tête, c’est un prince.
 
-Le prudent Kamous, dont l’âme était toute absorbée par cette affaire, demanda à Piran:
+Le prudent Kamous, dont l’âme était toute absorbée par cette affaire, demanda à Piran:
 
 > Dis-moi comment ce Rustem au cœur de lion se présente au combat;
 >
@@ -99,7 +99,7 @@ Piran lui dit:
 >
 > Et avec de telles mains, de tels bras, de telles jambes et de telles épaules, il n’est pas étonnant que tu sois brave.
 
-Le sage Kamous écoutait Piran en lui abandonnant son cœur, son âme et son oreille;
+Le sage Kamous écoutait Piran en lui abandonnant son cœur, son âme et son oreille;
 
 Il fut flatté de ces paroles, prit feu à ce discours calculé, et lui répondit:
 

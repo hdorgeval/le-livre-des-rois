@@ -33,9 +33,9 @@ Feribourz lui répondit:
 
 > Ô héros distributeur des couronnes, maître de la cotte de mailles, de la massue et de Raksch!
 >
-> Je nourris au fond de mon âme un désir dont je n’ose parler qu’à toi, ô Pehlewan du monde.
+> Je nourris au fond de mon âme un désir dont je n’ose parler qu’à toi, ô Pehlewan du monde.
 >
-> Que Dieu répande sur toi ses bénédictions, car tu es le soutien et l’asile de l’armée, et c’est grâce à ta massue que les braves portent haut leurs casques.
+> Que Dieu répande sur toi ses bénédictions, car tu es le soutien et l’asile de l’armée, et c’est grâce à ta massue que les braves portent haut leurs casques.
 >
 > Sache, ô toi qui es digne du pays de l’Iran et du trône, du diadème et du sceau, que je suis frère du noble Siawusch;
 >
@@ -49,7 +49,7 @@ Rustem lui dit:
 
 Le héros au corps d’éléphant se rendit auprès du roi et lui dit:
 
-> Ô glorieux Khosrou, j’ai à demander une grâce au roi;
+> Ô glorieux Khosrou, j’ai à demander une grâce au roi;
 >
 > Et s’il me l’accorde, ma tête s’élèvera au-dessus du cercle de la lune.
 >
@@ -65,7 +65,7 @@ Khosrou lui répondit:
 
 Rustem lui dit alors:
 
-> Le monde est heureux par la grâce du roi, et il en est reconnaissant.
+> Le monde est heureux par la grâce du roi, et il en est reconnaissant.
 >
 > Tu étends sur tous ta justice et ton amour;
 >
@@ -113,7 +113,7 @@ Le roi plein de bienveillance et Tehemten se rendirent auprès de cette lune, et
 
 La mère de Khosrou écouta ses paroles, qui firent revivre en elle le souvenir des temps anciens;
 
-Au fond de son âme elle était remplie d’angoisses et de colère, et à la fin elle dit en versant des larmes:
+Au fond de son âme elle était remplie d’angoisses et de colère, et à la fin elle dit en versant des larmes:
 
 > Je n’ai aucun ressentiment contre Rustem;
 >
@@ -175,7 +175,7 @@ C’est ainsi que la mère du roi consentit;
 
 Et ses joues brillèrent comme une rose au printemps naissant.
 
-Rustem se hâta de conclure cette affaire, et ne la laissa pas traîner en longueur;
+Rustem se hâta de conclure cette affaire, et ne la laissa pas traîner en longueur;
 
 On appela un Mobed, on lui fit écrire un acte selon les formes, et le Pehlewan de l’armée ne se reposa pas avant d’avoir uni au prince cette lune.
 
@@ -187,6 +187,6 @@ Trois jours s’étant passés là-dessus, le quatrième tout était conclu, et 
 
 Feribourz avec un corps de troupes le précéda, étincelant comme un astre au firmament.
 
-Lorsque le soleil se leva brillant dans le ciel, semblable à une belle femme dont le cœur est rempli d’amour, on entendit le son des trompettes, Tehemten mit en marche son armée, et le roi maître du monde l’accompagna à la distance de deux farsangs, l’âme pleine d’inquiétude.
+Lorsque le soleil se leva brillant dans le ciel, semblable à une belle femme dont le cœur est rempli d’amour, on entendit le son des trompettes, Tehemten mit en marche son armée, et le roi maître du monde l’accompagna à la distance de deux farsangs, l’âme pleine d’inquiétude.
 
 Rustem fit chaque jour deux marches, et ne s’arrêta un instant ni jour ni nuit.

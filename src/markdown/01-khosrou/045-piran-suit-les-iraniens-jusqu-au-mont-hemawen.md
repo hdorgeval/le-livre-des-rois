@@ -95,4 +95,4 @@ Houman lui répondit:
 >
 > Ils viendront un à un implorer notre protection, et désormais ils ne nous combattront plus.
 >
-> C’est à nous maintenant de leur accorder leur grâce, et non pas à eux de lutter contre nous et de se mettre en ordre de bataille.
+> C’est à nous maintenant de leur accorder leur grâce, et non pas à eux de lutter contre nous et de se mettre en ordre de bataille.

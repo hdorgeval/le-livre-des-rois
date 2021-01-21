@@ -15,7 +15,7 @@ Lorsque le soleil s’élança sur la voûte céleste, Thous et Gouderz étaien
 >
 > Ils tiennent conseil, ou ils sont ivres de vin;
 >
-> Mais qu’ils soient soucieux ou joyeux, mes pensées remplissent mon âme de tristesse.
+> Mais qu’ils soient soucieux ou joyeux, mes pensées remplissent mon âme de tristesse.
 >
 > Si les Turcs ont reçu des renforts, sache que nos mauvais jours sont arrivés, et sois sûr que toute l’armée de l’Iran périra, ou si elle a la vie sauve, qu’elle sera obligée de renoncer au combat.
 >
@@ -31,7 +31,7 @@ Guiv lui répondit:
 >
 > Le Créateur du monde t’est favorable, car nous avons toujours répandu la semence du bien et servi Dieu;
 >
-> Ensuite grâce à la fortune du roi maître du monde, maître de l’épée, du trône et de la couronne, Dieu ne retirera pas sa main de nous pour remplir les vœux de nos ennemis.
+> Ensuite grâce à la fortune du roi maître du monde, maître de l’épée, du trône et de la couronne, Dieu ne retirera pas sa main de nous pour remplir les vœux de nos ennemis.
 >
 > Quand Rustem arrivera sur ce champ de bataille, tous les maux de l’armée se dissiperont.
 >

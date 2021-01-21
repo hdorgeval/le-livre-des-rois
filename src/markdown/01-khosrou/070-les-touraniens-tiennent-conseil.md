@@ -163,7 +163,7 @@ Schenkoul s’écria:
 >
 > Quand j’attaquerai cet homme du Seïstan, vous ferez lever jusqu’au ciel la poussière, et ne laisserez pas échapper un seul Iranien, car un méchant est une chose sans valeur.
 
-L’assemblée écouta Schenkoul, les cœurs des vieillards rajeunirent; Piran lui dit: «Puisses-tu vivre heureux! puisse ton âme se nourrir de combats!» et les grands et le Khakan offrirent leurs hommages au roi de l’Inde.
+L’assemblée écouta Schenkoul, les cœurs des vieillards rajeunirent; Piran lui dit: «Puisses-tu vivre heureux! puisse ton âme se nourrir de combats!» et les grands et le Khakan offrirent leurs hommages au roi de l’Inde.
 
 Piran s’en retourna à sa tente; et les chefs des Turcs, Houman, Nestihen et Barman, vinrent à sa rencontre, les uns soucieux, les antres pleins d’espoir.
 
@@ -193,6 +193,6 @@ En s’en allant, il accosta Kelbad et lui dit:
 
 Kelbad lui répondit:
 
-> Ô toi qui as toujours été prêt à frapper de l’épée, ne te hâte pas de tirer de mauvais présages, et ne te couvre pas tout à coup de honte, car le sort pourrait tourner autrement que tu ne penses.
+> Ô toi qui as toujours été prêt à frapper de l’épée, ne te hâte pas de tirer de mauvais présages, et ne te couvre pas tout à coup de honte, car le sort pourrait tourner autrement que tu ne penses.
 >
 > On ne perd jamais courage, si on ne se laisse pas préoccuper de l’avenir.

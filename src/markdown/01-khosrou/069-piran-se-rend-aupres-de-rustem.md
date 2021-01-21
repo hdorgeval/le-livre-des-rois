@@ -45,7 +45,7 @@ Piran lui répondit:
 >
 > Puisse le Dispensateur de toute félicité te bénir, et le ciel ne tourner que selon tes ordres!
 >
-> Toute grâce vient de Dieu, c’est lui qui est notre asile, et grâce à lui je te retrouve ici en bonne santé. Zewareh , Faramourz et Zal le cavalier, qui nous rappellent les princes leurs ancêtres, sont-ils toujours bien portants, heureux et fiers?
+> Toute grâce vient de Dieu, c’est lui qui est notre asile, et grâce à lui je te retrouve ici en bonne santé. Zewareh , Faramourz et Zal le cavalier, qui nous rappellent les princes leurs ancêtres, sont-ils toujours bien portants, heureux et fiers?
 >
 > Puisse le monde n’être jamais privé d’eux!
 >
@@ -65,7 +65,7 @@ Piran lui répondit:
 >
 > Grandes sont les peines, les douleurs et les duretés que j’ai éprouvées de la part de ce roi et de ce peuple.
 >
-> Mais je prends Dieu à témoin, quoique ce soit mal d’invoquer le témoignage du Maître de la justice, que malgré le long temps qui s’est passé, malgré les nombreux conseils que m’ont donnés les sages, les lamentations n’ont pas cessé dans ma maison, et que les flammes de la douleur dévorent toujours mon âme;
+> Mais je prends Dieu à témoin, quoique ce soit mal d’invoquer le témoignage du Maître de la justice, que malgré le long temps qui s’est passé, malgré les nombreux conseils que m’ont donnés les sages, les lamentations n’ont pas cessé dans ma maison, et que les flammes de la douleur dévorent toujours mon âme;
 >
 > Je pleure du sang au lieu de larmes, et je suis toujours entre les mains des médecins.
 >
@@ -105,7 +105,7 @@ Piran lui répondit:
 >
 > Et au nom de Dieu qui donne la victoire, je te supplie, ô Pehlewan, de ne pas m’en vouloir, de ne pas garder de ressentiment contre les miens, et de penser au Créateur du monde.
 >
-> Je jure par l’âme glorieuse de Siawusch qu’il me serait plus doux de mourir que d’avoir à prendre l’épée, le casque et la cuirasse.
+> Je jure par l’âme glorieuse de Siawusch qu’il me serait plus doux de mourir que d’avoir à prendre l’épée, le casque et la cuirasse.
 >
 > Quand ces armées auront livré bataille, tu verras des montagnes de cadavres d’hommes de Kaschan, du Seklab, de Schikin et de l’Inde, qui couvriront tout depuis cette frontière jusqu’à la mer du Sind;
 >

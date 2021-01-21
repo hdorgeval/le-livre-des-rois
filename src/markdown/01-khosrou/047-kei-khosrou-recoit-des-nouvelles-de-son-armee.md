@@ -63,7 +63,7 @@ Le maître des grands commença à parler à Rustem des combats de l’armée 
 
 > Ô toi qui porte haut la tête!
 >
-> Je crains que ce vieil empire ne s’incline vers sa chute, et mon âme est accablée de ces malheurs.
+> Je crains que ce vieil empire ne s’incline vers sa chute, et mon âme est accablée de ces malheurs.
 >
 > Tu as soutenu le trône et la couronne;
 >
@@ -101,7 +101,7 @@ Le maître des grands commença à parler à Rustem des combats de l’armée 
 >
 > Tout l’espoir de l’armée et du Sipehbed est en toi.
 >
-> Puisse ton âme être heureuse et ton corps rester sain!
+> Puisse ton âme être heureuse et ton corps rester sain!
 >
 > Puisse ta tête rester jeune et ton cœur être joyeux!
 >
@@ -125,13 +125,13 @@ Rustem répondit:
 >
 > Puisse le roi se consoler de la perte de ceux qui sont morts!
 >
-> Puisse le cœur de tes ennemis pâlir!
+> Puisse le cœur de tes ennemis pâlir!
 >
 > Je me rendrai auprès du Sipehbed;
 >
 > Je me ceindrai pour venger les Iraniens;
 >
-> Mon âme souffre du sort de la famille de Gouderz, et leur mort me plonge dans le deuil.
+> Mon âme souffre du sort de la famille de Gouderz, et leur mort me plonge dans le deuil.
 
 Lorsque Keï Khosrou eut entendu ces paroles, ses yeux versèrent sur ses joues deux torrents de larmes, et il répondit:
 
@@ -155,7 +155,7 @@ Tehemten baisa la terre et dit:
 
 > La bride et l’étrier seront mes compagnons;
 >
-> je stimulerai les grands pour qu’ils se hâtent;
+> je stimulerai les grands pour qu’ils se hâtent;
 >
 > et loin de nous toute idée de repos et de sommeil!
 
