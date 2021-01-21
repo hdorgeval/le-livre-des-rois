@@ -31,11 +31,11 @@ Rustem répondit:
 
 Kamous lança son destrier, il vit que son ennemi l’attendait plein de confiance en sa force;
 
-Il voulut trancher la tête de Rustem d’un coup de son épée damasquinée, mais l’épée porta sur le cou de Raksch, et coupa, sans le blesser, l’armure qui le couvrait.
+Il voulut trancher la tête de Rustem d’un coup de son épée damasquinée, mais l’épée porta sur le cou de Raksch, et coupa, sans le blesser, l’armure qui le couvrait.
 
 Rustem lança le nœud de son lacet, prit Kamous par le milieu du corps, fit partir Raksch l’éléphant furieux, rapprocha de sa jambe le bout du lacet et le passa dans l’anneau de la selle, pendant que Raksch volait comme l’aigle aux grandes ailes.
 
-Kamous serra fortement son cheval des jambes, lui lâcha les rênes et appuya sur l’étrier;
+Kamous serra fortement son cheval des jambes, lui lâcha les rênes et appuya sur l’étrier;
 
 Il essaya de rompre le lacet pour se délivrer de son étreinte;
 
@@ -43,7 +43,7 @@ Il se démena comme un insensé;
 
 Mais le lacet ne rompit pas.
 
-Rustem arrêta Raksch, se retourna, désarçonna Kamous et le jeta par terre.
+Rustem arrêta Raksch, se retourna, désarçonna Kamous et le jeta par terre.
 
 Alors il s’approcha de lui, le lia avec son lacet et lui dit:
 
@@ -61,7 +61,7 @@ Il dit aux braves:
 >
 > C’est lui qui est la source de la joie et de la tristesse, qui nous déprime jusqu’à terre ou nous élève jusqu’aux nuages.
 >
-> Maintenant ce brave qui portait haut la tête, dont le lion courageux n’était pas l’égal dans le combat, qui était parti pour dévaster l’lran, pour faire de notre pays la demeure des lions;
+> Maintenant ce brave qui portait haut la tête, dont le lion courageux n’était pas l’égal dans le combat, qui était parti pour dévaster l’lran, pour faire de notre pays la demeure des lions;
 >
 > Qui ne devait laisser dans le Zaboulistan et dans le Kaboul ni palais ni jardin, et ne poser sa massue que lorsqu’il aurait anéanti Rustem fils de Zal;
 >

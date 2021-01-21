@@ -9,7 +9,7 @@ order: '053'
 
 # Gouderz apprend que Rustem s'approche
 
-Le Sipehdar Gouderz quitta la foule et gravit jusqu’à la crête de la montagne.
+Le Sipehdar Gouderz quitta la foule et gravit jusqu’à la crête de la montagne.
 
 Là il entendit ce cri de détresse de la sentinelle:
 
@@ -35,7 +35,7 @@ Ses joues devinrent noires comme la poix par l’excès de ses soucis, il avait 
 >
 > La vie ne m’offre plus d’espérances, et le jour brillant s’est assombri pour moi.
 >
-> 0h! plût à Dieu que ma mère ne m’eût pas mis au monde et que le ciel sublime ne tournât pas au-dessus de ma tête!
+> 0h! plût à Dieu que ma mère ne m’eût pas mis au monde et que le ciel sublime ne tournât pas au-dessus de ma tête!
 
 Ensuite il dit à la sentinelle:
 
@@ -45,7 +45,7 @@ Ensuite il dit à la sentinelle:
 
 La sentinelle lui répondit:
 
-> Je ne vois pas des deux côtés le même degré de mouvement et d’agitation: là ils se remuent et se hâtent, et ici ils sont comme endormis.
+> Je ne vois pas des deux côtés le même degré de mouvement et d’agitation: là ils se remuent et se hâtent, et ici ils sont comme endormis.
 
 Ces paroles remplirent le Pehlewan de douleur;
 
@@ -71,7 +71,7 @@ Mais la sentinelle, criant de nouveau, et lui dit:
 
 Gouderz lui répondit:
 
-> Puisses-tu être heureux!
+> Puisses-tu être heureux!
 >
 > Puisse le mauvais œil ne jamais tomber sur toi!
 >
@@ -93,7 +93,7 @@ Le Pehlewan répondit:
 
 > Fais attention, homme intelligent.
 >
-> Regarde encore une fois du haut de la montagne, et dis-moi quand ils pourront être auprès de nous.
+> Regarde encore une fois du haut de la montagne, et dis-moi quand ils pourront être auprès de nous.
 
 La sentinelle lui dit:
 
@@ -125,7 +125,7 @@ Thous dit à Bijen fils de Guiv:
 
 > Lève-toi et pénètre le secret de nos ennemis.
 
-> Monte surla crête de ce haut rocher et regarde ce que fait cette armée, quel en est le nombre, et par quelle route elle arrive avec ses tentes, ses éléphants et ses trônes.
+> Monte surla crête de ce haut rocher et regarde ce que fait cette armée, quel en est le nombre, et par quelle route elle arrive avec ses tentes, ses éléphants et ses trônes.
 
 Bijen quittant l’assemblée et s’éloignant de la foule, gravit jusqu’au sommet de la montagne, et vit d’en haut de tous côtés des drapeaux, des cavaliers, des éléphants et des troupes.
 
@@ -159,7 +159,7 @@ Il rassembla les chefs de l’armée, dévoré d’anxiété et de sollicitude p
 
 L’avis du Pehlewan fut partagé par l’armée, par tous ceux qui se trouvaient dans le camp;
 
-Mais lorsque le monde fut couvert comme d’une mer de poix, que Vénus, Mars et Mercure furent invisibles, que la lune eut levé sa tête dans le signe des Poissons et déchiré jusqu’au nombril sa robe noire, la sentinelle accourut auprès de Thous en toute hâte et le visage coloré comme la sandaraque, et s’écria:
+Mais lorsque le monde fut couvert comme d’une mer de poix, que Vénus, Mars et Mercure furent invisibles, que la lune eut levé sa tête dans le signe des Poissons et déchiré jusqu’au nombril sa robe noire, la sentinelle accourut auprès de Thous en toute hâte et le visage coloré comme la sandaraque, et s’écria:
 
 > Ô Pehlewan de l’armée, il arrive de l’Iran des troupes que le roi nous envoie.
 

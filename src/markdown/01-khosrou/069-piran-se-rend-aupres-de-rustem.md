@@ -15,7 +15,7 @@ Quand il fut près de l’armée de l’Iran, il s’écria:
 
 > Ô puissant guerrier, j’ai ouï dire que de cette armée innombrable de Turcs tu désirais ne voir que moi, et j’ai quitté mon camp pour savoir ce que me veut le Sipehbed.
 
-Lorsque Rustem apprit qu’un guerrier turc était arrivé, il s’avança à sa rencontre au-devant de l’armée, la tête couverte d’un casque de fer, et il lui dit:
+Lorsque Rustem apprit qu’un guerrier turc était arrivé, il s’avança à sa rencontre au-devant de l’armée, la tête couverte d’un casque de fer, et il lui dit:
 
 > Ô Turc, quel est ton nom?
 >
@@ -45,9 +45,9 @@ Piran lui répondit:
 >
 > Puisse le Dispensateur de toute félicité te bénir, et le ciel ne tourner que selon tes ordres!
 >
-> Toute grâce vient de Dieu, c’est lui qui est notre asile, et grâce à lui je te retrouve ici en bonne santé. Zewareh , Faramourz et Zal le cavalier, qui nous rappellent les princes leurs ancêtres, sont-ils toujours bien portants, heureux et fiers?
+> Toute grâce vient de Dieu, c’est lui qui est notre asile, et grâce à lui je te retrouve ici en bonne santé. Zewareh , Faramourz et Zal le cavalier, qui nous rappellent les princes leurs ancêtres, sont-ils toujours bien portants, heureux et fiers?
 >
-> Puisse le monde n’être jamais privé d’eux!
+> Puisse le monde n’être jamais privé d’eux!
 >
 > Laisse-moi te parler, si tu veux permettre à un sujet de se plaindre des rois.
 >
@@ -81,7 +81,7 @@ Piran lui répondit:
 >
 > Je l’ai recueillie en secret dans ma maison et l’y ai tenue cachée, et Afrasiab demande ma vie par représailles;
 >
-> Il demande ma tête comme si j’étais son ennemi.
+> Il demande ma tête comme si j’étais son ennemi.
 >
 > C’est ainsi, ô Pehlewan, que je suis accablé des deux côtés, et que les deux peuples se plaignent de moi.
 >
@@ -89,13 +89,13 @@ Piran lui répondit:
 >
 > Je crains pour mes trésors, mes terres et mes troupeaux, et je ne vois pas le moyen de m’éloigner;
 >
-> J’ai des enfants et beaucoup de fortunes au visage voilé, et c’est ainsi que chacun de nous est lié et peut être atteint.
+> J’ai des enfants et beaucoup de fortunes au visage voilé, et c’est ainsi que chacun de nous est lié et peut être atteint.
 >
 > Quand Afrasiab ordonne qu’on aille à la guerre, il ne permet pas qu’on ferme les yeux pour dormir;
 >
 > Je dois donc malgré moi conduire son armée, car il serait imprudent de négliger ses ordres.
 >
-> Loin de t’apprêter à nous attaquer, tu devrais me plaindre.
+> Loin de t’apprêter à nous attaquer, tu devrais me plaindre.
 >
 > 0h! plût à Dieu que mon cœur n’eût d’autres peines et d’autres afflictions au sujet de ma famille que la mort de Pilsem!
 >
@@ -121,19 +121,19 @@ Rustem écouta les paroles de Piran, mais il ne lui répondit pas selon son dés
 
 > Depuis que j’ai pris les armes avec les guerriers du roi pour vous faire la guerre, je n’ai reconnu en toi que de la droiture, et je sais que tu l’as toujours conseillée aux Turcs.
 >
-> Le léopard même comprend que la guerre et le combat ne sont pas bons, et la montagne et le rocher le savent; mais quand le roi des rois a une vengeance à exercer, il faut s’attendre à voir pleuvoir des flèches.
+> Le léopard même comprend que la guerre et le combat ne sont pas bons, et la montagne et le rocher le savent; mais quand le roi des rois a une vengeance à exercer, il faut s’attendre à voir pleuvoir des flèches.
 >
 > Maintenant je vous offre la paix à deux conditions, réfléchis si elles vous conviennent.
 >
-> D’abord tu enverras enchaînés à Keï-Khosrou tous ceux qui ont follement amené cette guerre par le meurtre du prince, quand même ils ne l’auraient pas conseillée;
+> D’abord tu enverras enchaînés à Keï-Khosrou tous ceux qui ont follement amené cette guerre par le meurtre du prince, quand même ils ne l’auraient pas conseillée;
 >
-> Tous ceux qui sont coupables d’avoir répandu ce sang innocent, quand même ils ne se trouveraient pas sur ce champ de bataille.
+> Tous ceux qui sont coupables d’avoir répandu ce sang innocent, quand même ils ne se trouveraient pas sur ce champ de bataille.
 >
 > Ensuite tu te prépareras à te rendre avec moi auprès du roi victorieux.
 >
 > Tout ce que tu laisseras ici, et quelle que soit la valeur à laquelle tu l’estimes, le roi te le rendra dix fois; ne regrette donc pas les bagages de l’armée du Touran.
 
-Piran dit en lui-même:
+Piran dit en lui-même:
 
 > C’est une affaire grave que de quitter le Touran pour me rendre auprès de ce roi.
 >
@@ -143,7 +143,7 @@ Piran dit en lui-même:
 >
 > Ce serait un deuil sans fin!
 >
-> Car Houman, Lehhak et Ferschidwerd, auteurs de l’affliction de Gouderz, devraient être livrés, et cela ne se peut pas;
+> Car Houman, Lehhak et Ferschidwerd, auteurs de l’affliction de Gouderz, devraient être livrés, et cela ne se peut pas;
 >
 > C’est un torrent qui ne trouvera pas de lit sur la terre.
 >

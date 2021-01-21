@@ -15,7 +15,7 @@ Manschour le vaillant, qui décidait du sort des batailles;
 
 Schemiran de Schikin, Schenkoul l’Indien, Kender du pays de Seklab, et le roi du Sind.
 
-Chacun dit son avis sur la bataille à livrer, chacun parla des Iraniens, et tous arrêtèrent d’un commun accord qu’il fallait laver ses mains dans le sang.
+Chacun dit son avis sur la bataille à livrer, chacun parla des Iraniens, et tous arrêtèrent d’un commun accord qu’il fallait laver ses mains dans le sang.
 
 Ensuite ils sortirent pour aller se reposer;
 
@@ -59,7 +59,7 @@ De son côté Rustem parla ainsi aux Iraniens:
 >
 > J’ai aujourd’hui ferré mon cheval Raksch, je vais le monter et rougir mon épée de sang.
 >
-> Faites que ce soit aujourd’hui un jour de fête, et que le monde entier devienne le trésor de Khosrou.
+> Faites que ce soit aujourd’hui un jour de fête, et que le monde entier devienne le trésor de Khosrou.
 >
 > Ceignez vos reins, car la bataille vous livrera des couronnes et des boucles d’oreilles, et je vous donnerai l’or et les trésors du Zaboulistan, avec toutes les richesses du Kaboul.
 
@@ -67,11 +67,11 @@ Les grands le bénirent, disant :
 
 > Puissent le diadème et le sceau prospérer par tes efforts !
 
-Rustem se revêtit de son armure de combat, et se rendit sur le champ de bataille plein de confiance en sa force.
+Rustem se revêtit de son armure de combat, et se rendit sur le champ de bataille plein de confiance en sa force.
 
 Il endossa d’abord une cotte de mailles, puis une cuirasse, et enfin le Bebr-i-beyan.
 
-Il mit sur sa tête un casque magnifique, et ses ennemis durent penser à la mort.
+Il mit sur sa tête un casque magnifique, et ses ennemis durent penser à la mort.
 
 Il serra sa ceinture en se recommandant à Dieu, et monta sur son cheval, semblable à un éléphant ivre.
 

@@ -11,7 +11,7 @@ order: '060'
 
 Il y avait un brave nommé Aschkebous qui poussait des cris semblables au bruit de la timbale;
 
-Il vint provoquer les Iraniens, espérant jeter dans la poussière la tête de celui qui se mesurerait avec lui, et il s’écria:
+Il vint provoquer les Iraniens, espérant jeter dans la poussière la tête de celui qui se mesurerait avec lui, et il s’écria:
 
 > Ô héros illustres, qui d’entre vous viendra m’attaquer?
 >
@@ -55,7 +55,7 @@ Il suspendit son arc à son bras par la corde, mit quelques flèches dans sa ce
 
 Le brave de Kaschan sourit tout étonné;
 
-Il arrêta son cheval et s’adressa en riant à Rustem:
+Il arrêta son cheval et s’adressa en riant à Rustem:
 
 > Quel est ton nom, et qui aura à pleurer la mort d’un insensé comme toi?
 
@@ -77,11 +77,11 @@ Tehemten répliqua:
 
 Aschkebous dit:
 
-> Tu n’as pas de cheval, et tu ne feras que livrer ta tête à une mort certaine.
+> Tu n’as pas de cheval, et tu ne feras que livrer ta tête à une mort certaine.
 
 Tehemten répondit:
 
-> Ô homme insensé et avide de combats, n’as-tu jamais vu un homme à pied combattre et jeter sous la pierre de la tombe une tête orgueilleuse?
+> Ô homme insensé et avide de combats, n’as-tu jamais vu un homme à pied combattre et jeter sous la pierre de la tombe une tête orgueilleuse?
 >
 > Est-ce que dans ton pays les lions, les léopards et les crocodiles vont jamais à cheval au combat?
 >
@@ -97,7 +97,7 @@ Alors il se mit à rire et s’écria:
 
 > Assieds-toi à côté de ton noble compagnon;
 >
-> Et si tu veux presser sa tête contre ta poitrine, je suspendrai le combat un instant.
+> Et si tu veux presser sa tête contre ta poitrine, je suspendrai le combat un instant.
 
 Aschkebous banda son arc, le corps tremblant, le visage rouge comme la sandaraque;
 
@@ -143,7 +143,7 @@ Il dit à Piran:
 
 Piran répondit:
 
-> Je ne connais parmi les Iraniens personne de la force de cet homme, dont la flèche percerait un arbre, et je ne sais ce que nous veut cet être maudit.
+> Je ne connais parmi les Iraniens personne de la force de cet homme, dont la flèche percerait un arbre, et je ne sais ce que nous veut cet être maudit.
 >
 > Il y a parmi eux deux braves, Guiv et Thous qui montrent de la noblesse et de la valeur dans la bataille;
 >

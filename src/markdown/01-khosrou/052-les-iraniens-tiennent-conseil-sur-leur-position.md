@@ -21,13 +21,13 @@ Lorsque le soleil s’élança sur la voûte céleste, Thous et Gouderz étaie
 >
 > Si Rustem n’arrive pas, le roi aura causé notre perte;
 >
-> Aucun de nous n’aura ni tombeau ni chambre sépulcrale, et l’on broiera nos têtes sous les sabots des chevaux.
+> Aucun de nous n’aura ni tombeau ni chambre sépulcrale, et l’on broiera nos têtes sous les sabots des chevaux.
 
 Guiv lui répondit:
 
 > Ô Sipehdar du roi, que t’est-il arrivé que tes pensées soient si désolantes?
 >
-> Il n’y a pas de raison d’être si triste.
+> Il n’y a pas de raison d’être si triste.
 >
 > Le Créateur du monde t’est favorable, car nous avons toujours répandu la semence du bien et servi Dieu;
 >
@@ -35,7 +35,7 @@ Guiv lui répondit:
 >
 > Quand Rustem arrivera sur ce champ de bataille, tous les maux de l’armée se dissiperont.
 >
-> Personne ne doit désespérer de l’aide de Dieu, quand même le jour brillant se convertirait en nuit.
+> Personne ne doit désespérer de l’aide de Dieu, quand même le jour brillant se convertirait en nuit.
 >
 > Ne t’afflige pas follement, parce que les Turcs suspendent durant un jour leurs attaques;
 >

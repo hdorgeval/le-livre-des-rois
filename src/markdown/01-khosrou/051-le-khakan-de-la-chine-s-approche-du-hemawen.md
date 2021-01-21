@@ -13,7 +13,7 @@ Lorsque Piran fut arrivé près de l’armée d’Afrasiab, il vit les vallées 
 
 Il vit le monde rempli de tentes et de leurs enceintes jaunes, rouges, violettes et bleues, toutes placées en rangs, et un drapeau de brocart de soie de la Chine planté au milieu de chaque enceinte.
 
-A cet aspect il s’arrêta étonné, les pensées se pressaient dans sa tête, et il se dit:
+A cet aspect il s’arrêta étonné, les pensées se pressaient dans sa tête, et il se dit:
 
 > Est-ce un paradis ou un camp?
 >
@@ -31,7 +31,7 @@ Sur qui reposait l’espoir des braves, qui étaient les héros, et pourquoi ils
 
 Piran répondit:
 
-> Ô roi, puisses-tu être heureux à jamais!
+> Ô roi, puisses-tu être heureux à jamais!
 >
 > Puisse la grâce du Créateur reposer sur toi!
 >

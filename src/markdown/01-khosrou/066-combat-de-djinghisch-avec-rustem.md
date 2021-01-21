@@ -13,9 +13,9 @@ Un cavalier plein d’orgueil et dévoué au roi se présenta pour tenter cette 
 
 Cet ambitieux se nommait Djinghisch;
 
-Il était brave et prêt à tout entreprendre. Il dit au Khakan:
+Il était brave et prêt à tout entreprendre. Il dit au Khakan:
 
-> Ô toi qui portes haut la tête, toi de qui le monde entier attend les faveurs!
+> Ô toi qui portes haut la tête, toi de qui le monde entier attend les faveurs!
 >
 > Quoique cet homme soit un lion rugissant, je le priverai de la vie aussitôt que je paraîtrai sur le champ de bataille;
 >
@@ -23,19 +23,19 @@ Il était brave et prêt à tout entreprendre. Il dit au Khakan:
 >
 > je ternirai sa gloire.
 >
-> Je désire être le premier qui venge Kamous, qui remette en honneur son nom après sa mort.
+> Je désire être le premier qui venge Kamous, qui remette en honneur son nom après sa mort.
 
 Le Khakan de la Chine le combla de louanges;
 
 Djinghisch baisa la terre devant lui, et le Khakan lui dit:
 
-> Si tu accomplis cette vengeance, si tu m’apportes cette tête superbe, je te donnerai tant de joyaux et de trésors que tu n’auras plus besoin de te fatiguer.
+> Si tu accomplis cette vengeance, si tu m’apportes cette tête superbe, je te donnerai tant de joyaux et de trésors que tu n’auras plus besoin de te fatiguer.
 
 Djinghisch lança aussitôt son cheval et courut semblable à Adergouschasp;
 
 Arrivé auprès des Iraniens qu’il voulait attaquer, il prit dans son carquois une flèche de bois de peuplier, et s’écria:
 
-> C’est ici que je veux combattre; la tête des braves est dans ma main.
+> C’est ici que je veux combattre; la tête des braves est dans ma main.
 >
 > Si le héros qui lance le lacet, qui a vaincu Kamous, qui combat tantôt avec le lacet, tantôt avec la flèche, veut venir à présent sur le champ de bataille, sa haute stature disparaîtra du monde.
 
@@ -61,7 +61,7 @@ Rustem reprit:
 >
 > Maudite soit la fleur de l’arbre qui porte dans le jardin des fruits comme toi; qui porte de pareils fruits, et les met en compte avec les autres!
 >
-> Ma lance et mon nom sont ta mort, et il faut que ton corps renonce à sa tête.
+> Ma lance et mon nom sont ta mort, et il faut que ton corps renonce à sa tête.
 
 Djinghisch courut vers lui vite comme le vent;
 
@@ -69,11 +69,11 @@ Il attacha la corde aux deux bouts recourbés de son arc, et l’arc de ce méch
 
 Celui-ci sentit que les flèches allaient percer sa cotte de mailles;
 
-Il leva son bouclier à la hauteur de sa tête, et dit:
+Il leva son bouclier à la hauteur de sa tête, et dit:
 
 > Eh bien, brave cavalier!
 >
-> Tu vas maintenant te repentir d’être venu au combat.
+> Tu vas maintenant te repentir d’être venu au combat.
 
 Djinghisch regarda cet homme au corps d’éléphant, dont la taille ressemblait à celle d’un cyprès dans une prairie;
 
@@ -95,7 +95,7 @@ A la fin il s’impatienta, et se jeta à bas de son cheval, entraînant Djing
 
 Celui-ci tomba et lui demanda la vie;
 
-Mais Tehemten l’étendit par terre et lui trancha la tête, et c’est ainsi que furent anéantis ses désirs et ses soucis.
+Mais Tehemten l’étendit par terre et lui trancha la tête, et c’est ainsi que furent anéantis ses désirs et ses soucis.
 
 Tous les grands du pays d’Iran comblèrent le Pehlewan de leurs bénédictions;
 

@@ -19,7 +19,7 @@ Quand il fut près de l’armée, il vit le drapeau de Feribourz fils de Kaous, 
 
 Gouderz l’aimait, c’était son parent et un jeune capitaine.
 
-Le vieux Gouderz mit pied à terre, et de même Feribourz, la gloire de l’armée, le sage;
+Le vieux Gouderz mit pied à terre, et de même Feribourz, la gloire de l’armée, le sage;
 
 Ils s’embrassèrent, et Gouderz versa des larmes de sang sur sa poitrine.
 
@@ -47,7 +47,7 @@ Gouderz versa des larmes de sang sur le sort de ceux qui étaient morts et que l
 >
 > Ils sont venus de la Chine et du pays de Seklab, de l’Inde et du Roum, des déserts et des pays habités;
 >
-> Enfin il n’est pas resté un être vivant qui n’ait pris les armes contre nous.
+> Enfin il n’est pas resté un être vivant qui n’ait pris les armes contre nous.
 >
 > Mais tant que tu ne me diras pas où est Rustem, je resterai courbé sous le poids de mes soucis.
 
@@ -55,7 +55,7 @@ Feribourz lui répondit:
 
 > Il me suit et ne désire que le combat!
 >
-> Il marche pendant la nuit sombre et pendant le jour et ne s’arrête pas sur la route.
+> Il marche pendant la nuit sombre et pendant le jour et ne s’arrête pas sur la route.
 >
 > Maintenant où trouverai-je un lieu de campement pour y conduire ma petite armée?
 

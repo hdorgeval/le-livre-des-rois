@@ -11,7 +11,7 @@ order: '049'
 
 Une nuit, à l’heure où l’on bat le tambour, Thous s’endormit le cœur blessé et plein de soucis.
 
-Il vit alors en songe un flambeau brillant qui s’élevait de l’eau, et au milieu de cette lumière un trône d’ivoire sur lequel était assis Siawusch, en grande pompe et une couronne sur la tête.
+Il vit alors en songe un flambeau brillant qui s’élevait de l’eau, et au milieu de cette lumière un trône d’ivoire sur lequel était assis Siawusch, en grande pompe et une couronne sur la tête.
 
 Ses lèvres souriaient, sa langue prononçait des paroles douces;
 
@@ -23,7 +23,7 @@ Il tournait vers Thous son visage semblable au soleil et lui disait:
 
 Thous se réveilla tout joyeux, le cœur délivré de ses soucis et de ses peines , et il dit à Gouderz:
 
-> Ô Pehlewan du monde, j’ai eu un rêve;
+> Ô Pehlewan du monde, j’ai eu un rêve;
 >
 > Sache que Rustem arrivera rapidement comme le vent, et que nous pouvons l’attendre d’un moment à l’autre.
 
@@ -85,7 +85,7 @@ Il dit à Gouderz:
 >
 > Nous sommes entourés de troupes de tous côtés;
 >
-> Nos chevaux n’ont pour se nourrir que des épines, et l’armée elle-même va manquer de vivres, de sorte qu’il ne nous reste d’autre remède que nos massues et nos glaive.
+> Nos chevaux n’ont pour se nourrir que des épines, et l’armée elle-même va manquer de vivres, de sorte qu’il ne nous reste d’autre remède que nos massues et nos glaive.
 >
 > Tirons donc nos épées à la tombée de la nuit;
 >

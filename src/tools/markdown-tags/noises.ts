@@ -284,7 +284,7 @@ export const noises = [
   'Lorsque',
   'Lui-même',
   'Lui-même',
-  'Lui-même',
+  'Lui-même',
   'Lui',
   'Maintenant',
   'Maintiens',

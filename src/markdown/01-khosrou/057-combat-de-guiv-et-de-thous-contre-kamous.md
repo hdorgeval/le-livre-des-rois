@@ -13,7 +13,7 @@ Lorsque le soleil posa ses doigts sur le dos du taureau qui supporte le monde, e
 
 Il rassembla ses troupes et leur donna des cuirasses;
 
-Son cœur était plein d’ardeur pour le combat et sa tête remplie de vent.
+Son cœur était plein d’ardeur pour le combat et sa tête remplie de vent.
 
 Il portait une cotte de mailles au lieu de robe, un casque au lieu de diadème, une cuirasse au lieu de tunique;
 
@@ -29,7 +29,7 @@ Son chef était un cavalier semblable à un bloc de rocher;
 
 Il faisait trembler la terre sous le sabot de son cheval;
 
-La tête de sa massue était grosse comme la tête d’un buffle;
+La tête de sa massue était grosse comme la tête d’un buffle;
 
 Il était précédé de cavaliers armés de lances, et le gros de son armée le suivait;
 
@@ -55,13 +55,13 @@ Feribourz réunit son armée de héros à celle de Zengueh, de Thous et de Guiv
 
 Ils rangèrent leurs troupes sur les hauteurs et parèrent leurs drapeaux fortunés.
 
-Lorsque les deux ailes furent alignées, et que la réserve, le centre et les bagages furent placés, les trompettes sonnèrent et l’armée s’ébranla, semblable au ciel étoilé. Kamous de son côté se voyant en présence de l’ennemi, ne s’arrêta pas un instant dans la plaine;
+Lorsque les deux ailes furent alignées, et que la réserve, le centre et les bagages furent placés, les trompettes sonnèrent et l’armée s’ébranla, semblable au ciel étoilé. Kamous de son côté se voyant en présence de l’ennemi, ne s’arrêta pas un instant dans la plaine;
 
 Il mit en mouvement son armée, pareille à un torrent qui d’une montagne se précipite dans une rivière, et l’amena devant le Hemawen.
 
 L’air s’obscurcit et la terre disparut sous cette armée.
 
-Lorsque Kamous fut tout près des Iraniens, il leva la tête vers la montagne et leur dit en souriant:
+Lorsque Kamous fut tout près des Iraniens, il leva la tête vers la montagne et leur dit en souriant:
 
 > Vous n’avez eu jusqu’à présent qu’un faible adversaire;
 >
@@ -77,7 +77,7 @@ Il tira son arc de l’étui et le banda;
 
 Il invoqua l’aide de Dieu de qui vient le bonheur, et fit pleuvoir sur Kamous des flèches que jetait son arc, comme un nuage de printemps verse de la pluie.
 
-Quand Kamous sentit comment cette main lançait des flèches, il couvrit sa tête de son bouclier, et semblable à un loup, il s’avança à travers les morts qui jonchaient la terre et la grêle de traits qui remplissait l’air.
+Quand Kamous sentit comment cette main lançait des flèches, il couvrit sa tête de son bouclier, et semblable à un loup, il s’avança à travers les morts qui jonchaient la terre et la grêle de traits qui remplissait l’air.
 
 Ayant atteint son ennemi, il le frappa de sa lance à la ceinture.
 
@@ -85,13 +85,13 @@ Le coup de cette lance au fer brillant fit chanceler Guiv sur la selle, et Kamou
 
 Du centre de l’armée Thous considérait avec inquiétude ce combat des braves;
 
-Il savait que Guiv n’était pas l’égal de Kamous, et que celui-ci n’avait d’autre rival dans le maniement de la lance que lui-même.
+Il savait que Guiv n’était pas l’égal de Kamous, et que celui-ci n’avait d’autre rival dans le maniement de la lance que lui-même.
 
 Il quitta son poste en poussant des cris, et accourut prendre part au combat pour aider Guiv.
 
-Kamous secoua les rênes et se jeta entre les deux braves pour lutter contre eux;
+Kamous secoua les rênes et se jeta entre les deux braves pour lutter contre eux;
 
-Il frappa de sa lance le cheval de Thous sur la tête, et l’armée du Touran fit entendre ses clairons et ses timbales.
+Il frappa de sa lance le cheval de Thous sur la tête, et l’armée du Touran fit entendre ses clairons et ses timbales.
 
 Le cheval de Thous fit un bond et s’abattit;
 

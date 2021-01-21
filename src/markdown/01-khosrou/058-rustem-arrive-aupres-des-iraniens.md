@@ -29,7 +29,7 @@ Gouderz lui dit:
 >
 > Tu es pour les Iraniens plus qu’un père et une mère, plus qu’un trône et des trésors et des joyaux.
 >
-> Sans toi nous sommes comme des poissons sur terre, nos têtes sont étourdies, nos corps sont comme dans la tombe.
+> Sans toi nous sommes comme des poissons sur terre, nos têtes sont étourdies, nos corps sont comme dans la tombe.
 >
 > Quand je regarde tes nobles traits, quand j’entends tes questions bienveillantes et chaleureuses, j’oublie que je porte le deuil de mes glorieux enfants, et grâce à ta bonne fortune, mes lèvres ne font que sourire.
 
@@ -55,7 +55,7 @@ Son armée fit entendre des lamentations sur les morts que recouvrait la poussi�
 
 Le cœur de Rustem fut percé de leur douleur, et il ne respira de nouveau que vengeance.
 
-Lorsqu’il apprit ce qui s’était passé dans la bataille, il mêla ses lamentations à celles des braves, donna beaucoup de conseils aux chefs de l’armée et leur dit:
+Lorsqu’il apprit ce qui s’était passé dans la bataille, il mêla ses lamentations à celles des braves, donna beaucoup de conseils aux chefs de l’armée et leur dit:
 
 > Nous sommes à la veille d’un grand combat;
 >
@@ -77,7 +77,7 @@ Les grands lui parlèrent longuement de cette armée innombrable, de Kamous, de 
 >
 > Il n’aurait pas peur quand il pleuvrait des pierres du ciel;
 >
-> Il ne craint pas les éléphants de guerre; sa tête ne rêve que combats, son cœur est plein de témérité.
+> Il ne craint pas les éléphants de guerre; sa tête ne rêve que combats, son cœur est plein de témérité.
 >
 > Manschour aussi ne cède à aucun autre la place d’honneur, et personne ne commande une armée comme Gargoui.
 >
@@ -105,7 +105,7 @@ A la fin il dit:
 >
 > Il faut partir quand notre temps est venu, n’en veuille donc pas à la rotation du ciel.
 >
-> Puisse Dieu le maître de la victoire être notre soutien!
+> Puisse Dieu le maître de la victoire être notre soutien!
 >
 > Puisse la fortune de nos ennemis périr!
 >
@@ -115,4 +115,4 @@ Les grands le bénirent, disant:
 
 > Puisses-tu ne jamais manquer au diadème et au sceau! puisses-tu vivre toujours, couvert de gloire et de bonheur!
 >
-> Puisse la cour du roi victorieux n’être jamais privée de toi!
+> Puisse la cour du roi victorieux n’être jamais privée de toi!

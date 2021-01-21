@@ -35,13 +35,13 @@ Il dit à Houman:
 >
 > Qui lui a conseillé de se porter sur le Hemawen, et ce qu’il espère de ce séjour.
 
-Il s’approcha des Iraniens la tête remplie d’ardeur pour le combat, le cœur plein de mauvaises intentions, et dit à haute voix:
+Il s’approcha des Iraniens la tête remplie d’ardeur pour le combat, le cœur plein de mauvaises intentions, et dit à haute voix:
 
 > Ô illustre Thous, maître des éléphants, de la massue et des timbales;
 >
-> Il y a maintenant cinq mois que tu es venu chercher les fatigues de la guerre, et déjà les plus braves de la famille de Gouderz gisent sans tête sur ce champ de bataille.
+> Il y a maintenant cinq mois que tu es venu chercher les fatigues de la guerre, et déjà les plus braves de la famille de Gouderz gisent sans tête sur ce champ de bataille.
 >
-> Tu t’es réfugié dans les rochers comme un argali, le cœur plein de dépit, la tête remplie du désir de la vengeance.
+> Tu t’es réfugié dans les rochers comme un argali, le cœur plein de dépit, la tête remplie du désir de la vengeance.
 >
 > Tu as fui, et ton armée t’a suivi;
 >
@@ -79,7 +79,7 @@ Lorsque Piran eut écouté ces paroles, il envoya partout des troupes et occupa 
 
 De tous côtés s’avancèrent les corps des Touraniens, et ils investirent la montagne tout autour.
 
-Piran ayant ainsi empêché les Iraniens d’aller au fourrage, se disposa à les attaquer et dit à Houman:
+Piran ayant ainsi empêché les Iraniens d’aller au fourrage, se disposa à les attaquer et dit à Houman:
 
 > Il faut nous emparer du pied de la montagne;
 >
@@ -89,7 +89,7 @@ Houman lui répondit:
 
 > Le vent est contre nous, et jamais personne n’a pensé à combattre ayant le vent en face.
 >
-> Puisque nous empêchons leur armée d’aller au fourrage, aucun d’eux ne voudra rester parmi ces roches.
+> Puisque nous empêchons leur armée d’aller au fourrage, aucun d’eux ne voudra rester parmi ces roches.
 >
 > lls désobéiront à leur chef, les yeux des braves se troubleront.
 >

@@ -53,7 +53,7 @@ Kamous lui répondit:
 
 > Ô homme plein de prudence, ton esprit te suggère donc toujours des idées de malheur!
 >
-> Sache que quand même Keï Khosrou serait venu nous combattre, tu ne devrais pas t’en effrayer si follement.
+> Sache que quand même Keï Khosrou serait venu nous combattre, tu ne devrais pas t’en effrayer si follement.
 >
 > Que parles-tu donc tant de Rustem?
 >
@@ -63,7 +63,7 @@ Kamous lui répondit:
 >
 > Va, mets en ordre ton armée et fais-la avancer!
 >
-> Porte ton drapeau sur le champ de bataille, et quand nous nous jetterons moi et les miens dans la mêlée, ne reste pas en arrière.
+> Porte ton drapeau sur le champ de bataille, et quand nous nous jetterons moi et les miens dans la mêlée, ne reste pas en arrière.
 >
 > Tu vas voir comment combattent des hommes, et le désert va se couvrir d’une mer de sang.
 
@@ -75,11 +75,11 @@ Il distribua à ses troupes des casques et des cuirasses, et leur répéta les 
 
 Ensuite il se rendit chez le Khakan, baisa la terre devant lui, et dit:
 
-> Ô roi, puisses-tu être heureux!
+> Ô roi, puisses-tu être heureux!
 >
 > Puisse ton aspect réconforter les âmes!
 >
-> Tu as fait un long et pénible chemin, tu as renoncé aux fêtes pour prendre part à nos fatigues, tu as traversé dans des vaisseaux la mer de la Chine pour complaire à Afrasiab.
+> Tu as fait un long et pénible chemin, tu as renoncé aux fêtes pour prendre part à nos fatigues, tu as traversé dans des vaisseaux la mer de la Chine pour complaire à Afrasiab.
 >
 > Tu es la sauvegarde de l’armée;
 >
@@ -91,7 +91,7 @@ Ensuite il se rendit chez le Khakan, baisa la terre devant lui, et dit:
 >
 > Occupe le centre de notre ligne avec les timbales et les éléphants, assure les derrières de l’armée, et aide-moi à élever mon casque jusqu’aux nues.
 >
-> Le vaillant Kamous m’a assigné pour poste l’avant-garde, et il a fait beaucoup de serments terribles, en brandissant sa lourde massue, et en jurant qu’il ne se servirait aujourd’hui d’aucune autre arme, quand même il pleuvrait des pierres.
+> Le vaillant Kamous m’a assigné pour poste l’avant-garde, et il a fait beaucoup de serments terribles, en brandissant sa lourde massue, et en jurant qu’il ne se servirait aujourd’hui d’aucune autre arme, quand même il pleuvrait des pierres.
 
 Le Khakan ayant entendu ces paroles, fit sonner des trompettes;
 
@@ -115,11 +115,11 @@ Lorsque Rustem vit les mouvements du Khakan, il disposa ses troupes sur le champ
 
 > Nous allons voir sur qui le ciel tourne avec amour, à qui il accordera sa faveur, et laquelle des deux armées succombera.
 >
-> Je ne me suis point arrêté en route, et mon cheval Raksch a fait chaque jour deux étapes;
+> Je ne me suis point arrêté en route, et mon cheval Raksch a fait chaque jour deux étapes;
 >
 > Maintenant ses sabots sont usés, il est fatigué de ce long chemin, et je n’ose pas le charger du poids de mon corps pour aller combattre un ennemi.
 >
-> Venez donc pour aujourd’hui à mon aide dans cette bataille, et tâchez de vaincre vous-mêmes cette armée.
+> Venez donc pour aujourd’hui à mon aide dans cette bataille, et tâchez de vaincre vous-mêmes cette armée.
 
 Thous fit sonner des trompettes et battre les tambours d’airain, et le bruit et la voix des clairons se fit entendre.
 
@@ -131,21 +131,21 @@ Thous fils de Newder s’établit au centre de l’armée.
 
 La terre se couvrit de poussière et le vent se leva dans les airs;
 
-Le monde disparut sous la poussière, et les braves ne se voyaient plus eux-mêmes.
+Le monde disparut sous la poussière, et les braves ne se voyaient plus eux-mêmes.
 
 Le héros au corps d’éléphant monta sur le sommet de la montagne pour reconnaître le Khakan et les Touraniens;
 
 Il vit une armée telle que la mer du Roum ne paraissait auprès d’elle qu’une boule de cire : il y avait les guerriers de Kaschan, de Schikin, du pays de Seklab et de l’Inde, de Gahan, des bords de l’Indus, du Roum et du Sind, de Tcheghan, de la Chine et du Whar, qui tous portaient des cuirasses et des casques de différentes sortes;
 
-Dans chaque corps d’armée on parlait une langue différente, et l’on y voyait des drapeaux et des vêtements divers.
+Dans chaque corps d’armée on parlait une langue différente, et l’on y voyait des drapeaux et des vêtements divers.
 
 Ces éléphants, cette pompe, ces trônes d’ivoire, ces bracelets, ces chaînes et ces couronnes faisaient du monde comme un jardin du paradis;
 
 C’était beau et terrible à voir.
 
-Rustem s’arrêta sur la hauteur confondu d’étonnement, et commença à concevoir des doutes; il se dit:
+Rustem s’arrêta sur la hauteur confondu d’étonnement, et commença à concevoir des doutes; il se dit:
 
-> Jusqu’à quand le ciel nous sourira-t-il, et quel jeu jouera avec nous le firmament qui s’étend au-dessus de nos têtes?
+> Jusqu’à quand le ciel nous sourira-t-il, et quel jeu jouera avec nous le firmament qui s’étend au-dessus de nos têtes?
 
 Ensuite il descendit de la montagne sans que son courage fût ébranlé;
 
@@ -157,7 +157,7 @@ Il passa devant le front de l’armée et devant Thous, en continuant à se dir
 
 Il ordonna qu’on battît les timbales;
 
-Le Sipehdar Thous se mit en marche et descendit dans la plaine, tenant sa lance prête pour verser le sang de la vengeance.
+Le Sipehdar Thous se mit en marche et descendit dans la plaine, tenant sa lance prête pour verser le sang de la vengeance.
 
 L’armée défila pendant la moitié du jour, et forma dans la plaine une ligne longue de deux farsangs.
 
@@ -177,8 +177,8 @@ La face du soleil pâlissait, et la montagne et les rochers tremblaient.
 
 Le vaillanl Kamous dit aux siens:
 
-> Quand il faudrait fouler le ciel aux pieds, prenez tous vos épées, vos massues et vos lacets, et jetez-vous dans cette grande mêlée.
+> Quand il faudrait fouler le ciel aux pieds, prenez tous vos épées, vos massues et vos lacets, et jetez-vous dans cette grande mêlée.
 >
 > Celui qui ambitionne la possession du monde doit mettre sa vie sur la paume de sa main;
 >
-> Sinon on placera sa tête sous la pierre du tombeau!
+> Sinon on placera sa tête sous la pierre du tombeau!

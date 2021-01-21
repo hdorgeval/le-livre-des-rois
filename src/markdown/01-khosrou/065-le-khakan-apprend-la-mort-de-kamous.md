@@ -19,7 +19,7 @@ order: '065'
 
 Lorsque le Khakan de la Chine eut appris que Kamous était tombé sur le champ de bataille, le jour devint sombre et la vie amère pour les hommes de Kaschan et de Schikin, et pour les braves de Balkh;
 
-Ils s’approchèrent les uns des autres et se demandèrent qui pouvait être cet homme vaillant et plein d’ardeur pour le combat, quel était son nom, et qui dans le monde pouvait lutter contre lui.
+Ils s’approchèrent les uns des autres et se demandèrent qui pouvait être cet homme vaillant et plein d’ardeur pour le combat, quel était son nom, et qui dans le monde pouvait lutter contre lui.
 
 Houman dit à Piran au cœur de lion:
 
@@ -29,7 +29,7 @@ Houman dit à Piran au cœur de lion:
 >
 > Jamais il n’y eut d’homme plus glorieux que lui, jamais cavalier ne mérita autant le nom de héros au corps d’éléphant;
 >
-> Et celui qui a pu avec son lacet lier Kamous sur le champ de bataille saisirait au jour du combat un éléphant par la tête et le renverserait.
+> Et celui qui a pu avec son lacet lier Kamous sur le champ de bataille saisirait au jour du combat un éléphant par la tête et le renverserait.
 >
 > Il ne nous servirait de rien de parler là-dessus plus longtemps, ne cherchons pas à faire remonter l’eau vers sa source.
 
@@ -47,7 +47,7 @@ Piran lui offrit ses hommages et lui dit tristement:
 
 Le Khakan répondit à Piran:
 
-> J’éprouve le même souci et la même sollicitude;
+> J’éprouve le même souci et la même sollicitude;
 >
 > Je voudrais bien savoir quel est ce Pehlewan malfaisant qui prend le lion dans le nœud de son lacet.
 >
@@ -55,7 +55,7 @@ Le Khakan répondit à Piran:
 >
 > Du moment que nos mères nous ont mis au monde, nous appartenons à la mort, et il faut malgré nous lui tendre le cou.
 >
-> Personne n’échappera à la rotation du ciel, quand même il aurait la force de renverser un éléphant.
+> Personne n’échappera à la rotation du ciel, quand même il aurait la force de renverser un éléphant.
 >
 > Ne vous laissez pas décourager par le sort de celui qui a péri dans le nœud du lacet, car je jetterai dans la poussière avec mon lacet celui qui a tué Kamous, et je couvrirai le pays d’Iran d’une mer de sang, selon le désir du cœur d’Afrasiab.
 

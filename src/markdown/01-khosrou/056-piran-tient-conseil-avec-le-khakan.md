@@ -27,13 +27,13 @@ Kamous le guerrier expérimenté lui dit:
 >
 > Tu commandes aux grands de la cour d’Afrasiab et à des troupes nombreuses comme les flots de la mer, et tu sais ce que tu as fait pendant cinq mois sur cette plaine contre un si faible ennemi;
 >
-> Mais maintenant que la terre est couverte de nos armées commandées par des chefs comme le Khakan, Manschour et moi, tu vas être témoin de nos hauts faits.
+> Mais maintenant que la terre est couverte de nos armées commandées par des chefs comme le Khakan, Manschour et moi, tu vas être témoin de nos hauts faits.
 >
 > Tu as fermé la porte, mais nous en apportons la clef.
 >
-> Quand même les braves du Kaboul, du Zaboulistan et des pays de l’Inde feraient étinceler la surface de la terre comme une épée du Roum, quand ils seraient neuf contre un, tu pourrais dire que les Iraniens n’existent pas.
+> Quand même les braves du Kaboul, du Zaboulistan et des pays de l’Inde feraient étinceler la surface de la terre comme une épée du Roum, quand ils seraient neuf contre un, tu pourrais dire que les Iraniens n’existent pas.
 >
-> Tu veux m’effrayer par le nom de Rustem, mais c’est lui que j’anéantirai le premier une fois que j’aurai pris sa tête dans mon lacet, je ne laisserai pas une trace de son nom dans le monde.
+> Tu veux m’effrayer par le nom de Rustem, mais c’est lui que j’anéantirai le premier une fois que j’aurai pris sa tête dans mon lacet, je ne laisserai pas une trace de son nom dans le monde.
 >
 > Tu as peur de l’armée du Seïstan, et ton cœur se serre à l’idée d’avoir à la combattre;
 >
@@ -41,7 +41,7 @@ Kamous le guerrier expérimenté lui dit:
 
 Piran lui répondit:
 
-> Puisses-tu être heureux!
+> Puisses-tu être heureux!
 >
 > Puisse la main du malheur rester loin de toi!
 >
@@ -55,7 +55,7 @@ Le Khakan dit à Piran:
 >
 > Les Iraniens ne sont pas si formidables, n’effraye donc pas le cœur des braves.
 >
-> Je ne laisserai en vie aucun des grands de l’Iran, je convertirai en désert les montagnes et les vallées, j’enverrai à Afrasiab tous les grands et les puissants chargés de lourdes chaînes; à une foule d’autres je trancherai la tête;
+> Je ne laisserai en vie aucun des grands de l’Iran, je convertirai en désert les montagnes et les vallées, j’enverrai à Afrasiab tous les grands et les puissants chargés de lourdes chaînes; à une foule d’autres je trancherai la tête;
 >
 > Nous ne laisserons dans l’Iran ni une feuille, ni un arbre, ni un palais, ni un pavillon, ni une couronne.
 
@@ -69,7 +69,7 @@ Piran sourit et offrit ses hommages aux grands assemblés et au Khakan de la Chi
 
 Piran dit au vaillant Houman:
 
-> Alors nous pouvons être sans souci;
+> Alors nous pouvons être sans souci;
 >
 > Puisque ce n’est pas Rustem, nous n’avons rien à craindre de Feribourz, dont le souffle ne sera pas un remède contre ce poison.
 >
@@ -119,17 +119,17 @@ Le prudent Thous dit à l’armée:
 
 > D’un côté nous sommes entourés de dangers, de l’autre je crains des reproches.
 >
-> Car bien que tous les environs de la montagne soient remplis de troupes, et que nos têtes soient prises dans le lacet, quand Rustem arrivera, il nous blâmera, sans peut-être daigner s’enquérir de ce qui s’est passé;
+> Car bien que tous les environs de la montagne soient remplis de troupes, et que nos têtes soient prises dans le lacet, quand Rustem arrivera, il nous blâmera, sans peut-être daigner s’enquérir de ce qui s’est passé;
 >
 > Il dira :
 >
-> > Vous êtes comme un oiseau blessé au pied qui est pris dans le lacs: vous avez renoncé à l’action et désespéré de la lutte;
+> > Vous êtes comme un oiseau blessé au pied qui est pris dans le lacs: vous avez renoncé à l’action et désespéré de la lutte;
 > >
 > > Car il y a ici un Sipehdar et une armée, et cependant je n’ai pas vu un seul héros s’élancer au combat.
 >
 > Faisons donc une attaque, comme fait un vaillant lion;
 >
-> Peut-être que nous parviendrons à les chasser de ce côté du bas de la montagne.
+> Peut-être que nous parviendrons à les chasser de ce côté du bas de la montagne.
 
 Mais l’armée lui répondit:
 

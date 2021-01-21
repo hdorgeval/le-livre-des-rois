@@ -23,7 +23,7 @@ Piran répondit:
 
 On entendit alors du bruit dans toutes les enceintes des tentes, et le son des timbales et des trompettes.
 
-On plaça des selles sur le dos de cinq éléphants, et l’armée se para de vêtements de brocart de la Chine;
+On plaça des selles sur le dos de cinq éléphants, et l’armée se para de vêtements de brocart de la Chine;
 
 Les selles étaient brodées d’émeraudes et couvertes de brocart bleu de ciel et broché d’or;
 
@@ -57,7 +57,7 @@ Le Khakan fut frappé d’admiration en voyant de loin les rangs bruyants des ca
 >
 > Mieux vaut confondre au jour du combat un vaillant ennemi et le fouler dans la poussière.
 >
-> Jamais je n’ai vu des cavaliers portant aussi haut la tête, aussi braves, aussi vaillants.
+> Jamais je n’ai vu des cavaliers portant aussi haut la tête, aussi braves, aussi vaillants.
 
 Piran m’avait dit que c’était une petite armée, à laquelle nous n’avions pas à faire attention sur le champ de bataille.
 

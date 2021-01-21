@@ -39,9 +39,9 @@ Feribourz lui répondit:
 >
 > Sache, ô toi qui es digne du pays de l’Iran et du trône, du diadème et du sceau, que je suis frère du noble Siawusch;
 >
-> Que je suis de sa race et de sa famille, et que j’aime la femme qui lui a survécu, ô héros qui portes haut la tête.
+> Que je suis de sa race et de sa famille, et que j’aime la femme qui lui a survécu, ô héros qui portes haut la tête.
 >
-> Si tu voulais en parler au roi, tu placerais sur ma tête le plus beau des diadèmes.
+> Si tu voulais en parler au roi, tu placerais sur ma tête le plus beau des diadèmes.
 
 Rustem lui dit:
 
@@ -51,7 +51,7 @@ Le héros au corps d’éléphant se rendit auprès du roi et lui dit:
 
 > Ô glorieux Khosrou, j’ai à demander une grâce au roi;
 >
-> Et s’il me l’accorde, ma tête s’élèvera au-dessus du cercle de la lune.
+> Et s’il me l’accorde, ma tête s’élèvera au-dessus du cercle de la lune.
 >
 > Le roi me permet-il de le faire?
 >
@@ -59,7 +59,7 @@ Le héros au corps d’éléphant se rendit auprès du roi et lui dit:
 
 Khosrou lui répondit:
 
-> Ô Pehlewan, puisses-tu vivre éternellement et être heureux!
+> Ô Pehlewan, puisses-tu vivre éternellement et être heureux!
 >
 > Demande-moi tout ce que tu voudras, fût-ce mon trône, mon sceau, ma couronne et mon diadème.
 
@@ -75,7 +75,7 @@ Rustem lui dit alors:
 >
 > Je ne connais pas son pareil en bravoure et en sagesse.
 >
-> Il a maintenant à soumettre au roi une prière, qui d’un frère fait un suppliant : puisqu’il s’apprête à se battre pour toi et qu’il va rejoindre les Iraniens, il désire obtenir la fille d’Afrasiab pour gardienne de son palais et de son trésor, et pour confidente de ses peines, comme la lune est la compagne du soleil.
+> Il a maintenant à soumettre au roi une prière, qui d’un frère fait un suppliant : puisqu’il s’apprête à se battre pour toi et qu’il va rejoindre les Iraniens, il désire obtenir la fille d’Afrasiab pour gardienne de son palais et de son trésor, et pour confidente de ses peines, comme la lune est la compagne du soleil.
 >
 > Voilà ce qu’il a voulu que je disse au roi, car c’est en cela qu’il a mis l’espoir de son bonheur
 
@@ -89,7 +89,7 @@ Il y réfléchit et répondit:
 >
 > Tu sais que je n’ai aucun pouvoir sur elle, et qu’elle ne voudra pas consentir à ce que tu demandes;
 >
-> Mais si elle veut m’écouter, je lui donnerai des conseils que peut-être sa raison lui fera accepter.
+> Mais si elle veut m’écouter, je lui donnerai des conseils que peut-être sa raison lui fera accepter.
 
 Le roi plein de bienveillance et Tehemten se rendirent auprès de cette lune, et Khosrou dit à sa mère:
 
@@ -99,7 +99,7 @@ Le roi plein de bienveillance et Tehemten se rendirent auprès de cette lune, et
 >
 > Le sort de mon armée, ses luttes et ses combats ne te sont pas cachés;
 >
-> Tu sais combien de héros iraniens ont livré dans le Touran leurs têtes à la vengeance.
+> Tu sais combien de héros iraniens ont livré dans le Touran leurs têtes à la vengeance.
 >
 > Maintenant je veux y envoyer une nouvelle armée, dont Rustem fils de Zal sera le chef.
 >
@@ -157,7 +157,7 @@ Elle ne cessait de pousser des soupirs, et elle demeura muette de pudeur devant 
 
 A la fin elle dit:
 
-> Ô Rustem, tu portes haut la tête;
+> Ô Rustem, tu portes haut la tête;
 >
 > Tu es le plus puissant des hommes.
 >
@@ -189,4 +189,4 @@ Feribourz avec un corps de troupes le précéda, étincelant comme un astre au f
 
 Lorsque le soleil se leva brillant dans le ciel, semblable à une belle femme dont le cœur est rempli d’amour, on entendit le son des trompettes, Tehemten mit en marche son armée, et le roi maître du monde l’accompagna à la distance de deux farsangs, l’âme pleine d’inquiétude.
 
-Rustem fit chaque jour deux marches, et ne s’arrêta un instant ni jour ni nuit.
+Rustem fit chaque jour deux marches, et ne s’arrêta un instant ni jour ni nuit.

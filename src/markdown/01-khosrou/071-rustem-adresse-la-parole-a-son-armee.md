@@ -71,7 +71,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > Ne l’écoute donc pas, et alors tu n’auras pas à souffrir de sa malice.
 >
-> Nous aussi, quand nous étions prêts pour la première bataille, nous avons eu des pourparlers avec lui et avons agi en conséquence.
+> Nous aussi, quand nous étions prêts pour la première bataille, nous avons eu des pourparlers avec lui et avons agi en conséquence.
 >
 > Piran envoya un messager pour nous faire dire qu’il voyait avec horreur cette guerre et ce champ de bataille, qu’il était l’esclave de Khosrou, et qu’il renonçait à ses terres et à ses tentes.
 >
@@ -91,7 +91,7 @@ A ces mots Gouderz se leva et lui dit:
 > >
 > > Tu trouveras dans l’Iran un trône, des trésors et une réception amicale.
 >
-> Cela étant convenu, il partit, se ligua dans la nuit avec le Div, et envoya un messager monté sur un dromadaire, pour avertir Afrasiab de se tenir prêt, parce qu’une armée ennemie était arrivée.
+> Cela étant convenu, il partit, se ligua dans la nuit avec le Div, et envoya un messager monté sur un dromadaire, pour avertir Afrasiab de se tenir prêt, parce qu’une armée ennemie était arrivée.
 >
 > Tu aurais dit qu’il n’avait été question de rien entre nous, et l’on ne comprenait plus rien à cette affaire;
 >
@@ -111,21 +111,21 @@ A ces mots Gouderz se leva et lui dit:
 >
 > Il a promis de te livrer les meurtriers et les trésors de Siawusch;
 >
-> Mais tu verras qu’aussitôt qu’on battra les timbales, et que Feribourz et Thous marcheront à l’ennemi, Piran se mettra à la tête de son armée pour nous livrer de nouveaux combats.
+> Mais tu verras qu’aussitôt qu’on battra les timbales, et que Feribourz et Thous marcheront à l’ennemi, Piran se mettra à la tête de son armée pour nous livrer de nouveaux combats.
 >
-> Toutes ses paroles ne sont que mensonges, et Ahriman seul devrait être son compagnon.
+> Toutes ses paroles ne sont que mensonges, et Ahriman seul devrait être son compagnon.
 >
-> Si tu ne veux pas écouter mes conseils, réfléchis au sort de mon fils Bahram, que Piran a flatté de la même manière pendant qu’il préparait un cimetière pour tous les miens;
+> Si tu ne veux pas écouter mes conseils, réfléchis au sort de mon fils Bahram, que Piran a flatté de la même manière pendant qu’il préparait un cimetière pour tous les miens;
 >
 > De sorte que jusqu’à ma mort je verserai des larmes de sang, et qu’il ne me reste, pour guérir mes maux, que mon épée indienne.
 
 Rustem écouta Gouderz et lui répondit:
 
-> Puissent tes paroles être toujours sages!
+> Puissent tes paroles être toujours sages!
 >
 > Piran est tel que tu viens de le dépeindre, et cela n’est pas un secret;
 >
-> Et pourtant je ne veux pas être sévère envers lui, à cause du bien qu’il a fait.
+> Et pourtant je ne veux pas être sévère envers lui, à cause du bien qu’il a fait.
 >
 > Pense donc à ce qu’il a fait pour le roi de l’Iran et à ce qu’il a souffert pour Siawusch.
 >
@@ -141,11 +141,11 @@ Gouderz et Thous offrirent leurs hommages à Rustem, disant:
 >
 > Les ruses, les artifices et les paroles mensongères de Piran ne parviendront pas à t’éblouir.
 >
-> Puisse le monde n’être jamais privé du trône du roi dont tu fus toujours le soutien!
+> Puisse le monde n’être jamais privé du trône du roi dont tu fus toujours le soutien!
 
 Rustem dit:
 
-> Il se fait nuit, et nos têtes sont fatiguées de cette discussion.
+> Il se fait nuit, et nos têtes sont fatiguées de cette discussion.
 >
 > Allons! buvons du vin pendant la moitié de la nuit, et passons l’autre à nous occuper de l’armée.
 >
@@ -153,7 +153,7 @@ Rustem dit:
 
 Ensuite il se tourna vers les Iraniens, disant:
 
-> Je jetterai cette nuit un sort fortuné en buvant du vin, et demain matin j’élèverai sur mon épaule cette massue de Sam le cavalier, dont je me suis servi dans la guerre du Mazenderan, et je me jetterai dans la mêlée, là où le crocodile nous résistera.
+> Je jetterai cette nuit un sort fortuné en buvant du vin, et demain matin j’élèverai sur mon épaule cette massue de Sam le cavalier, dont je me suis servi dans la guerre du Mazenderan, et je me jetterai dans la mêlée, là où le crocodile nous résistera.
 >
 > Si je suis forcé de combattre, je prendrai les tentes, les diadèmes, les massues, les couronnes, les éléphants de guerre et le trône d’ivoire, et je les donnerai aux Iraniens.
 

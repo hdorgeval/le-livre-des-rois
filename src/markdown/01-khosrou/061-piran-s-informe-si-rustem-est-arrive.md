@@ -57,7 +57,7 @@ Piran répondit:
 
 > L’homme du Seïstan est un antre que celui-là;
 >
-> C’est un cavalier qui porte haut la tête, c’est un prince.
+> C’est un cavalier qui porte haut la tête, c’est un prince.
 
 Le prudent Kamous, dont l’âme était toute absorbée par cette affaire, demanda à Piran:
 
@@ -77,7 +77,7 @@ Piran lui dit:
 >
 > Dans bien des batailles Afrasiab s’est enfui devant lui, les yeux remplis de larmes.
 >
-> C’est un homme toujours prêt pour le combat, un fidèle serviteur de Khosrou, toujours le premier à mettre l’épée à la main.
+> C’est un homme toujours prêt pour le combat, un fidèle serviteur de Khosrou, toujours le premier à mettre l’épée à la main.
 >
 > Il fait la guerre pour venger Siawusch, qu’il a élevé dans ses bras.
 >
@@ -87,9 +87,9 @@ Piran lui dit:
 >
 > Et un crocodile ne pourrait soulever sa massue, s’il la laissait tomber sur le champ de bataille.
 >
-> La corde de son arc est de peau de lion, la pointe de ses flèches pèse dix sitirs, une pierre devient, dans sa main, molle comme la cire, et serait honteuse devant la cire elle-même.
+> La corde de son arc est de peau de lion, la pointe de ses flèches pèse dix sitirs, une pierre devient, dans sa main, molle comme la cire, et serait honteuse devant la cire elle-même.
 >
-> Quand il se prépare au combat, il revêt une cotte de mailles, au-dessus de laquelle il attache avec des boutons une cuirasse, qu’il recouvre d’une robe de peau de léopard (ou de tigre), à laquelle il donne le nom de Bebr-i-beyan, qu’il estime plus que la cotte et la cuirasse, qui n’est ni consumée par les flammes ni mouillée par l’eau;
+> Quand il se prépare au combat, il revêt une cotte de mailles, au-dessus de laquelle il attache avec des boutons une cuirasse, qu’il recouvre d’une robe de peau de léopard (ou de tigre), à laquelle il donne le nom de Bebr-i-beyan, qu’il estime plus que la cotte et la cuirasse, qui n’est ni consumée par les flammes ni mouillée par l’eau;
 >
 > Et quand il est ainsi armé, on dirait qu’il a des ailes.
 >

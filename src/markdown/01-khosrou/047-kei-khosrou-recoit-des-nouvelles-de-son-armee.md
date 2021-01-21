@@ -61,7 +61,7 @@ Il ordonna à Rustem au corps d’éléphant de se rendre avec son armée à l
 
 Le maître des grands commença à parler à Rustem des combats de l’armée iranienne, disant:
 
-> Ô toi qui porte haut la tête!
+> Ô toi qui porte haut la tête!
 >
 > Je crains que ce vieil empire ne s’incline vers sa chute, et mon âme est accablée de ces malheurs.
 >
@@ -85,7 +85,7 @@ Le maître des grands commença à parler à Rustem des combats de l’armé
 >
 > Ta massue et la pointe de tes flèches font repentir le lion de son agression au jour du malheur.
 >
-> Depuis que tu es homme et que tu as mis un casque sur ta tête, aucun ennemi n’a osé porter ses regards sur l’lran;
+> Depuis que tu es homme et que tu as mis un casque sur ta tête, aucun ennemi n’a osé porter ses regards sur l’lran;
 >
 > mais maintenant Thous, Gouderz et Guiv, les chefs de mon armée, et beaucoup de braves de ce pays ont le cœur plein de sang et les yeux remplis de larmes, et ils sont en fuite devant les guerriers d’Afrasiab.
 >
@@ -101,27 +101,27 @@ Le maître des grands commença à parler à Rustem des combats de l’armé
 >
 > Tout l’espoir de l’armée et du Sipehbed est en toi.
 >
-> Puisse ton âme être heureuse et ton corps rester sain!
+> Puisse ton âme être heureuse et ton corps rester sain!
 >
-> Puisse ta tête rester jeune et ton cœur être joyeux!
+> Puisse ta tête rester jeune et ton cœur être joyeux!
 >
-> Puissent les ennemis de Zal être impuissants contre lui!
+> Puissent les ennemis de Zal être impuissants contre lui!
 >
 > Demande-moi tout ce qu’il te faut en chevaux, en armes, en trésors et en hommes, et pars le cœur joyeux et l’esprit plein de fermeté, car il ne faut pas commencer mollement une si grande entreprise.
 
 Rustem répondit:
 
-> Puissent le sceau et le diadème n’être jamais privés de toi!
+> Puissent le sceau et le diadème n’être jamais privés de toi!
 >
 > Car tu es un roi glorieux, fort, sage et juste, et la voûte du ciel n’a jamais connu ton pareil.
 >
-> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’lran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
+> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’lran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
 >
 > J’ai éprouvé tant de douleurs et couru tant de dangers que je n’ai jamais pu penser à jouir de la vie un seul jour.
 >
 > Tu es un jeune roi, et je suis ton esclave;
 >
-> Je suis prêt à faire ce que tu ordonnes.
+> Je suis prêt à faire ce que tu ordonnes.
 >
 > Puisse le roi se consoler de la perte de ceux qui sont morts!
 >
@@ -137,17 +137,17 @@ Lorsque Keï Khosrou eut entendu ces paroles, ses yeux versèrent sur ses joues 
 
 > Sans toi je ne voudrais pas de l’empire du monde, ni du diadème, ni de la couronne, ni du trône des héros.
 >
-> Puisse le ciel être pris dans les nœuds de ton lacet!
+> Puisse le ciel être pris dans les nœuds de ton lacet!
 >
-> Puissent les têtes couronnées rester dans tes liens!
+> Puissent les têtes couronnées rester dans tes liens!
 
 Le trésorier du roi apporta la clef du trésor qui contenait l’or, les couronnes, les joyaux, les casques, les arcs, les lacets et les ceintures;
 
 Il brisa les couvercles des caisses remplies d’argent, et le roi de l’Iran donna tout cela à Rustem, en disant:
 
-> Ô héros illustre, pars rapidement comme le vent, avec les héros du Zaboulistan armés de massues, avec les braves et les guerriers du Kaboul, et ne t’arrête pas un instant sur la route.
+> Ô héros illustre, pars rapidement comme le vent, avec les héros du Zaboulistan armés de massues, avec les braves et les guerriers du Kaboul, et ne t’arrête pas un instant sur la route.
 >
-> Emmène dans cette guerre cent mille hommes prêts à frapper de l’épée;
+> Emmène dans cette guerre cent mille hommes prêts à frapper de l’épée;
 >
 > Donne un corps d’armée à Feribourz fils de Kaous, qui brûle de nous venger, et qui commandera ton avant-garde.
 

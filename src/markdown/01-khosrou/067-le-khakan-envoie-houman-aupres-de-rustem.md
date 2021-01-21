@@ -27,7 +27,7 @@ Houman lui dit:
 >
 > J’irai, je verrai à qui le Créateur veut donner la victoire sur ce champ de la vengeance.
 
-Il courut à sa tente rapidement comme le vent, mit sur sa tête un autre casque, choisit un autre drapeau et un autre cheval, une autre cuirasse et un bouclier d’une autre couleur, et partit.
+Il courut à sa tente rapidement comme le vent, mit sur sa tête un autre casque, choisit un autre drapeau et un autre cheval, une autre cuirasse et un bouclier d’une autre couleur, et partit.
 
 Arrivé près de Rustem, il examina ses bras et ses jambes, et lui dit :
 
@@ -37,7 +37,7 @@ Arrivé près de Rustem, il examina ses bras et ses jambes, et lui dit :
 >
 > Car dans cette nombreuse armée il n’y a pas un grand et puissant guerrier qui te soit comparable.
 >
-> Il faut être brave pour t’affronter;
+> Il faut être brave pour t’affronter;
 >
 > Il faut pouvoir anéantir un lion.
 >
@@ -65,11 +65,11 @@ Rustem lui répondit:
 >
 > Et quand vous me les aurez renvoyés tous, alors je cesserai de faire la guerre aux Turcs;
 >
-> Alors vous serez tous mes amis, je vous honorerai et vous protégerai, nous ne nous vengerons plus, nous ne ferons plus la guerre, nous ne jetterons plus dans la poussière la tête des grands, et je raconterai à Keï Khosrou tout ce qui s’est passé;
+> Alors vous serez tous mes amis, je vous honorerai et vous protégerai, nous ne nous vengerons plus, nous ne ferons plus la guerre, nous ne jetterons plus dans la poussière la tête des grands, et je raconterai à Keï Khosrou tout ce qui s’est passé;
 >
 > Je purifierai son cœur et son cerveau de toute colère et du désir de la vengeance.
 >
-> J’enverrai au roi ceux qui ont fait le mal, et peut-être sa clémence leur pardonnera.
+> J’enverrai au roi ceux qui ont fait le mal, et peut-être sa clémence leur pardonnera.
 >
 > Maintenant je vais t’énumérer ces méchants, que leurs noms soient maudits, que leurs désirs ne s’accomplissent pas!
 >
@@ -77,7 +77,7 @@ Rustem lui répondit:
 >
 > Puis tous les membres de la famille de Tour, que tu sais avoir follement troublé cette eau, tels que Guerouï, Zereh et ses fils, maudite soit à jamais cette race dont la méchanceté a opprimé Siawusch, lui qui avait affranchi l’Iran et le Touran de leurs haines!
 >
-> Ensuite tous ceux qui ont perverti le cœur et la tête d’Afrasiab et qui ont versé des torrents de sang;
+> Ensuite tous ceux qui ont perverti le cœur et la tête d’Afrasiab et qui ont versé des torrents de sang;
 >
 > Tous ceux qui ont pris part à cette guerre, sans avoir de vengeance à exercer contre les Iraniens;
 >
@@ -93,7 +93,7 @@ Rustem lui répondit:
 >
 > Je suis accoutumé à combattre les Touraniens, je suis un des grands de l’Iran;
 >
-> J’ai séparé du tronc bien des têtes, qui n’ont trouvé d’autre linceul que la terre noire.
+> J’ai séparé du tronc bien des têtes, qui n’ont trouvé d’autre linceul que la terre noire.
 >
 > Jamais je n’ai prononcé des paroles aussi pacifiques, car depuis le commencement de cette guerre je n’ai cherché que la vengeance.
 >
@@ -101,7 +101,7 @@ Rustem lui répondit:
 
 Houman l’écoutait transi de peur, et le son de la voix de Rustem, qu’il entendait vouer à sa vengeance toute sa famille, le faisait trembler comme une feuille d’arbre; il répondit:
 
-> Ô homme au cœur de lion, ô héros avide de guerre, avec cette mine et cette haute stature, ta place devrait être le trône de l’Iran: et tu ne serais qu’un vaillant Pehlewan ou un grand de l’lran plein d’audace?
+> Ô homme au cœur de lion, ô héros avide de guerre, avec cette mine et cette haute stature, ta place devrait être le trône de l’Iran: et tu ne serais qu’un vaillant Pehlewan ou un grand de l’lran plein d’audace?
 >
 > Tu m’as demandé mon nom et mon origine;
 >
@@ -133,7 +133,7 @@ Rustem lui dit:
 
 Houman lui répondit:
 
-> Ô toi qui portes haut la tête, tu veux voir Piran?
+> Ô toi qui portes haut la tête, tu veux voir Piran?
 >
 > Que sais-tu de Piran et de Kelbad, de Guerouï Zereh et de Poulad?
 

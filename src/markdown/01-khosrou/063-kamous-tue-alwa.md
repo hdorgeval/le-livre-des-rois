@@ -31,19 +31,19 @@ A l’aile droite, Guiv fils de Keschwad, tout couvert d’acier;
 
 Au centre Thous fils de Newder, qui se tenait à pied derrière les timbales et les trompettes.
 
-Alors l’eau se changea en feu et en fumée, et la bataille devint telle que jamais brave n’en avait vu même en songe de semblable.
+Alors l’eau se changea en feu et en fumée, et la bataille devint telle que jamais brave n’en avait vu même en songe de semblable.
 
 Les cris que poussaient les troupes de toutes parts déchiraient les oreilles des éléphants.
 
 Le premier qui s’avança entre les deux armées, vomissant par la bouche une écume de sang, fut Kamous le Sipehbed orgueilleux, entouré de troupes, d’éléphants et de timbales;
 
-Il poussait des cris comme un éléphant ivre, il brandissait une massue à tête de bœuf, en disant:
+Il poussait des cris comme un éléphant ivre, il brandissait une massue à tête de bœuf, en disant:
 
 > Où est ce vaillant fantassin qui défie ceux qui ne demandent qu’à combattre?
 >
 > S’il veut venir maintenant avec son arc et ses flèches, il périra par la flèche et l’arc.
 
-Les vaillants guerriers, comme Thous qui portait haut la tête, Rehham et Guiv, virent Kamous;
+Les vaillants guerriers, comme Thous qui portait haut la tête, Rehham et Guiv, virent Kamous;
 
 Mais personne ne voulut lutter contre lui, et le champ restait vide d’Iraniens, dont aucun n’osait le combattre;
 
@@ -51,7 +51,7 @@ Car ils ressemblaient à des gazelles, et lui à un léopard.
 
 Il n’y eut qu’un homme du Zaboulistan, nommé Alwa, qui tira promptement son épée du fourreau.
 
-C’était un homme accoutumé au maniement des rênes;
+C’était un homme accoutumé au maniement des rênes;
 
 Il savait se servir de l’épée, de la massue et de la lance;
 
@@ -70,4 +70,4 @@ Écoute ses paroles et ne les oublie pas:
 Lorsque Alwa partit pour combattre Kamous qui le défiait, on leur laissa libre un grand espace;
 
 Le héros de Kaschan s’avança semblable à un loup, frappa
-Alwa avec la lance, le désarçonna, le jeta sans peine par terre, arrêta son cheval et le fit broyer par ses sabots, jusqu’à ce que le sol fût rougi de son sang.
+Alwa avec la lance, le désarçonna, le jeta sans peine par terre, arrêta son cheval et le fit broyer par ses sabots, jusqu’à ce que le sol fût rougi de son sang.

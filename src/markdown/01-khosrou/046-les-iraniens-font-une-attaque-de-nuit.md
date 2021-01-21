@@ -35,7 +35,7 @@ order: '046'
 
 # Les Iraniens font une attaque de nuit
 
-Gouderz et Thous devinèrent le plan des Touraniens, et la tête des grands fut troublée par cette ruse.
+Gouderz et Thous devinèrent le plan des Touraniens, et la tête des grands fut troublée par cette ruse.
 
 Le vieux Gouderz dit à Thous:
 
@@ -49,7 +49,7 @@ Le vieux Gouderz dit à Thous:
 >
 > Nous les surprendrons pendant la nuit;
 >
-> Nous combattrons bravement pour savoir de quel côté est la fortune, et nous sacrifierons tous nos vies, ou nous poserons sur nos têtes la couronne des héros.
+> Nous combattrons bravement pour savoir de quel côté est la fortune, et nous sacrifierons tous nos vies, ou nous poserons sur nos têtes la couronne des héros.
 >
 > Telle est la fin de toute lutte;
 >
@@ -61,7 +61,7 @@ Il confia à Bijen une aile de l’armée, et l’autre à Kharrad et au vaill
 
 Il remit le drapeau fortuné à Gustehem, et leur donna beaucoup de conseils et d’avis, comme un homme qui va mourir.
 
-Lui-même, Guiv, Rehham et quelques cavaliers placèrentt leurs massues sur l’épaule, se dirigèrent vers le camp du Sipehdar Piran, et se jettèrent comme une flamme sur le centre de son armée.
+Lui-même, Guiv, Rehham et quelques cavaliers placèrentt leurs massues sur l’épaule, se dirigèrent vers le camp du Sipehdar Piran, et se jettèrent comme une flamme sur le centre de son armée.
 
 Bientôt toute la plaine ressembla à une mer de sang, et un grand cri s’éleva du camp;
 
@@ -79,11 +79,11 @@ Le sang coula de ses yeux sur sa poitrine, et il cria d’une voix forte à ses
 >
 > Allons!
 >
-> Tirez vos épées d’acier, couvrez vos têtes avec vos boucliers chinois, coupez le chemin à ces fiers guerriers, à l’aide de la lune qui va se lever sur la montagne.
+> Tirez vos épées d’acier, couvrez vos têtes avec vos boucliers chinois, coupez le chemin à ces fiers guerriers, à l’aide de la lune qui va se lever sur la montagne.
 >
 > Il ne faut pas qu’un seul d’entre eux nous échappe;
 >
-> Ne perdez pas de temps à vous revêtir de vos armures.
+> Ne perdez pas de temps à vous revêtir de vos armures.
 
 On entendit le son des trompettes, et les braves s’ébranlèrent de tous côtés;
 
@@ -103,7 +103,7 @@ Houman dit aux siens:
 
 Mais toute l’armée s’écriait:
 
-> Combattez à outrance, prenez vos massues et vos épées, frappez et placez sur leurs têtes une couronne de sang.
+> Combattez à outrance, prenez vos massues et vos épées, frappez et placez sur leurs têtes une couronne de sang.
 
 Thous dit à Guiv et à Rehham:
 
@@ -115,7 +115,7 @@ Ces trois héros firent une attaque ensemble, comme des lions qui bondissent dan
 
 Mais du côté des Touraniens s’éleva le bruit des clairons et des trompettes et le son des timbales et des clochettes indiennes;
 
-On ne voyait plus les rênes et les crinières des chevaux, et la mêlée était telle qu’on se crevait les yeux avec les lances;
+On ne voyait plus les rênes et les crinières des chevaux, et la mêlée était telle qu’on se crevait les yeux avec les lances;
 
 Houman s’écria d’une voix perçante:
 
@@ -169,9 +169,9 @@ Le combat continua jusqu’à l’aube du jour, et lorsque le soleil qui éclai
 
 Thous leur dit:
 
-> Puisse, depuis le lever du soleil jusqu’à l’heure où l’on bat les timbales, le mauvais œil rester éloigné de ceux qui portent haut la tête!
+> Puisse, depuis le lever du soleil jusqu’à l’heure où l’on bat les timbales, le mauvais œil rester éloigné de ceux qui portent haut la tête!
 >
-> Puisse notre lutte se terminer par une fête!
+> Puisse notre lutte se terminer par une fête!
 >
 > Jamais je n’ai vu d’actes de bravoure comme les vôtres;
 >
@@ -181,7 +181,7 @@ Thous leur dit:
 >
 > J’espère que par sa grâce et sans délai, une armée rapide comme la fumée nous rejoindra.
 >
-> Le messager monté sur un dromadaire de course, qui est parti pour la cour du roi de la terre, doit maintenant être arrivé, et quand le roi aura reçu ma lettre, son cœur se sera enflammé d’une ardeur nouvelle, et le héros au cœur d’éléphant viendra à notre aide avec une armée de vaillants lions.
+> Le messager monté sur un dromadaire de course, qui est parti pour la cour du roi de la terre, doit maintenant être arrivé, et quand le roi aura reçu ma lettre, son cœur se sera enflammé d’une ardeur nouvelle, et le héros au cœur d’éléphant viendra à notre aide avec une armée de vaillants lions.
 >
 > Alors nous nous en retournerons satisfaits, triomphants et désireux de voir Keï Khosrou;
 >
