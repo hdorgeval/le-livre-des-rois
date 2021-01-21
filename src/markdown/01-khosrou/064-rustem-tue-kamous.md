@@ -3,7 +3,25 @@ date: ''
 image: 'https://source.unsplash.com/5I4K1WQBrXQ'
 landscape: 'https://source.unsplash.com/sZO_aniGp6U'
 source: tome III - livre des rois - P. 107
-tags: []
+tags:
+  [
+    'Alwa',
+    'âme',
+    'Chine',
+    'Dieu',
+    'Div',
+    'Iran',
+    'Kaboul',
+    'Kamous',
+    'Kaschan',
+    'Khakan',
+    'Mazenderan',
+    'Raksch',
+    'Rustem',
+    'Tehemten',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '064'
 ---
 

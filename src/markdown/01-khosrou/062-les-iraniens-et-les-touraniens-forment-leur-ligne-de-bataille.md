@@ -3,13 +3,40 @@ date: ''
 image: 'https://source.unsplash.com/9g29Hmf1bnQ'
 landscape: 'https://source.unsplash.com/Ydto_xzopy0'
 source: tome III - livre des rois - P. 103
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Aschkebous',
+    'Bebr-i-beyan',
+    'Chine',
+    'Dieu',
+    'Indien',
+    'Iraniens',
+    'Kaboul',
+    'Kamous',
+    'Kender',
+    'Khakan',
+    'Khosrou',
+    'Manschour',
+    'Piran',
+    'Raksch',
+    'Rustem',
+    'Schemiran',
+    'Schenkoul',
+    'Schikin',
+    'Seklab',
+    'Sind',
+    'Touran',
+    'Touraniens',
+    'Turcs',
+    'Zaboulistan',
+  ]
 order: '062'
 ---
 
 # Les Iraniens et les Touraniens forment leur ligne de bataille
 
-Lorque le soleil couchant répandit sur le monde une teinte de rubis, et que la nuit commença sa marche à travers le ciel, tous les braves de l’armée, tous ceux qui étaient de bon conseil et savaient frapper de l’épée, se rassemblèrent et se rendirent à la tente du Khakan, le cœur plein d’ardeur pour le combat et la vengeance : c’étaient Kamous le destructeur des hommes, le lion;
+Lorsque le soleil couchant répandit sur le monde une teinte de rubis, et que la nuit commença sa marche à travers le ciel, tous les braves de l’armée, tous ceux qui étaient de bon conseil et savaient frapper de l’épée, se rassemblèrent et se rendirent à la tente du Khakan, le cœur plein d’ardeur pour le combat et la vengeance : c’étaient Kamous le destructeur des hommes, le lion;
 
 Manschour le vaillant, qui décidait du sort des batailles;
 

@@ -3,7 +3,28 @@ date: ''
 image: 'https://source.unsplash.com/j_Ch0mwBNds'
 landscape: 'https://source.unsplash.com/0q90Mumo-xE'
 source: tome III - livre des rois - P. 081
-tags: []
+tags:
+  [
+    'Dieu',
+    'Feribourz',
+    'Gouderz',
+    'Guiv',
+    'Hemawen',
+    'Houman',
+    'Iran',
+    'Iraniens',
+    'Kamous',
+    'Kaschan',
+    'Keschwad',
+    'Piran',
+    'Sipehbed',
+    'Sipehdar',
+    'Tehemten',
+    'Thous',
+    'Touran',
+    'Touraniens',
+    'Zengueh',
+  ]
 order: '057'
 ---
 

@@ -3,7 +3,43 @@ date: ''
 image: 'https://source.unsplash.com/FMNRnXT4ffg'
 landscape: 'https://source.unsplash.com/9g29Hmf1bnQ'
 source: tome III - livre des rois - P. 135
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Ahriman',
+    'âme',
+    'Bahram',
+    'Bijen',
+    'Créateur',
+    'Dieu',
+    'Div',
+    'Ferenguis',
+    'Feribourz',
+    'Ferthous',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Gustehem',
+    'Indus',
+    'Iran',
+    'Iraniens',
+    'Kamous',
+    'Keï',
+    'Khosrou',
+    'Manschour',
+    'Mazenderan',
+    'Mobeds',
+    'Pehlewan',
+    'Piran',
+    'Rehham',
+    'Rustem',
+    'Sam',
+    'Siawusch',
+    'Sipehbeds',
+    'Thous',
+    'Touran',
+    'Touraniens',
+  ]
 order: '071'
 ---
 

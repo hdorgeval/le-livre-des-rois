@@ -3,7 +3,51 @@ date: ''
 image: 'https://source.unsplash.com/kpmXIrzrXKE'
 landscape: 'https://source.unsplash.com/kpmXIrzrXKE'
 source: tome III - livre des rois - P. 128
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Aschkebous',
+    'Barman',
+    'Berbers',
+    'Bezkousch',
+    'Chine',
+    'Créateur',
+    'Djinghisch',
+    'Gouderz',
+    'Guersiwez',
+    'Guiv',
+    'Houman',
+    'Inde',
+    'Indus',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Kaboul',
+    'Kamous',
+    'Kaschan',
+    'Kelbad',
+    'Kender',
+    'Keschwad',
+    'Khakan',
+    'Manschour',
+    'Mazenderan',
+    'Mobeds',
+    'Nestihen',
+    'Piran',
+    'Rouïn',
+    'Rustem',
+    'Schenkoul',
+    'Segsar',
+    'Seïstan',
+    'Siawusch',
+    'Thous',
+    'Touran',
+    'Touraniens',
+    'Turcs',
+    'Wiseh',
+    'Zaboulistan',
+  ]
 order: '070'
 ---
 

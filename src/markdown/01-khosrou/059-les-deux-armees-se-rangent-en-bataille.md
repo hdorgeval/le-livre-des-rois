@@ -3,7 +3,50 @@ date: ''
 image: 'https://source.unsplash.com/OwqLxCvoVxI'
 landscape: 'https://source.unsplash.com/OwqLxCvoVxI'
 source: tome III - livre des rois - P. 088
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Chine',
+    'Feribourz',
+    'Ferthous',
+    'Gahan',
+    'Gouderz',
+    'Houman',
+    'Inde',
+    'Indus',
+    'Iran',
+    'Iraniens',
+    'Kaboul',
+    'Kamous',
+    'Kaous',
+    'Kaschan',
+    'Keï',
+    'Kelbad',
+    'Khakan',
+    'Khosrou',
+    'Manschour',
+    'Mars',
+    'Newder',
+    'Pehlewan',
+    'Piran',
+    'Raksch',
+    'Roum',
+    'Rustem',
+    'Saturne',
+    'Schenkoul',
+    'Schikin',
+    'Seklab',
+    'Sind',
+    'Sipehbed',
+    'Sipehdar',
+    'Tcheghan',
+    'Thous',
+    'Touran',
+    'Touraniens',
+    'Whar',
+    'Zaboulistan',
+  ]
 order: '059'
 ---
 

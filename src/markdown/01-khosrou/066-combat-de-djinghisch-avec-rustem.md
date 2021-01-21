@@ -3,7 +3,22 @@ date: ''
 image: 'https://source.unsplash.com/FAq-TtmR_A0'
 landscape: 'https://source.unsplash.com/ec6E029hwMo'
 source: tome III - livre des rois - P. 112
-tags: []
+tags:
+  [
+    'Adergouschasp',
+    'Bebr-i-beyan',
+    'Chine',
+    'cyprès',
+    'Djinghisch',
+    'Iran',
+    'Iraniens',
+    'Kamous',
+    'Khakan',
+    'Pehlewan',
+    'Raksch',
+    'Rustem',
+    'Tehemten',
+  ]
 order: '066'
 ---
 

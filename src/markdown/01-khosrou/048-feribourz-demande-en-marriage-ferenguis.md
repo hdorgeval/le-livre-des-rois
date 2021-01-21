@@ -6,6 +6,7 @@ source: tome III - livre des rois - P. 050
 tags:
   [
     'Afrasiab',
+    'âme',
     'Dieu',
     'Ferenguis',
     'Feribourz',

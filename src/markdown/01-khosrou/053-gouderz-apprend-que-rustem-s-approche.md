@@ -3,7 +3,33 @@ date: ''
 image: 'https://source.unsplash.com/5MIyBZMf7us'
 landscape: 'https://source.unsplash.com/Dwheufds6kQ'
 source: tome III - livre des rois - P. 064
-tags: []
+tags:
+  [
+    'Bijen',
+    'Dieu',
+    'Djihoun',
+    'Gouderz',
+    'Guiv',
+    'Hemawen',
+    'Houman',
+    'Iran',
+    'Iraniens',
+    'Mars',
+    'Mercure',
+    'Pehlewan',
+    'Piran',
+    'Poissons',
+    'Rustem',
+    'Schidousch',
+    'Siawusch',
+    'Simourgh',
+    'Sipehbed',
+    'Sipehdar',
+    'Thous',
+    'Touran',
+    'Turcs',
+    'Vénus',
+  ]
 order: '053'
 ---
 

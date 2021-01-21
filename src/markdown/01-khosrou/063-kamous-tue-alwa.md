@@ -3,7 +3,28 @@ date: ''
 image: 'https://source.unsplash.com/d5TBzrddHMk'
 landscape: 'https://source.unsplash.com/d5TBzrddHMk'
 source: tome III - livre des rois - P. 105
-tags: []
+tags:
+  [
+    'Alwa',
+    'âme',
+    'Bélier',
+    'Chine',
+    'Feribourz',
+    'Guiv',
+    'Inde',
+    'Iraniens',
+    'Kamous',
+    'Kaschan',
+    'Keschwad',
+    'Khakan',
+    'Newder',
+    'Rehham',
+    'Rustem',
+    'Sipehbed',
+    'Thous',
+    'Turcs',
+    'Zaboulistan',
+  ]
 order: '063'
 ---
 

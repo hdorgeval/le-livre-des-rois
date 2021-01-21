@@ -3,7 +3,36 @@ date: ''
 image: 'https://source.unsplash.com/xsGApcVbojU'
 landscape: 'https://source.unsplash.com/FNeDH_nWfcQ'
 source: tome III - livre des rois - P. 099
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Aschkebous',
+    'Bebr-i-beyan',
+    'Bijen',
+    'Bisoutoun',
+    'Chine',
+    'cyprès',
+    'Dieu',
+    'Feribourz',
+    'Ferthous',
+    'Gourguin',
+    'Guiv',
+    'Gustehem',
+    'Houman',
+    'Iran',
+    'Iraniens',
+    'Kamous',
+    'Khakan',
+    'Khosrou',
+    'Manschour',
+    'Piran',
+    'Rustem',
+    'Saturne',
+    'Seïstan',
+    'Siawusch',
+    'Thous',
+  ]
 order: '061'
 ---
 

@@ -3,7 +3,25 @@ date: ''
 image: 'https://source.unsplash.com/kpmXIrzrXKE'
 landscape: 'https://source.unsplash.com/kpmXIrzrXKE'
 source: tome III - livre des rois - P. 120
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Bahram',
+    'Bebr-i-beyan',
+    'Dieu',
+    'Div',
+    'Gouderz',
+    'Houman',
+    'Iblis',
+    'Kamous',
+    'Khakan',
+    'Piran',
+    'Raksch',
+    'Rustem',
+    'Siawusch',
+    'Zaboulistan',
+  ]
 order: '068'
 ---
 

@@ -3,7 +3,26 @@ date: ''
 image: 'https://source.unsplash.com/_Zbbs4muqkQ'
 landscape: 'https://source.unsplash.com/_Zbbs4muqkQ'
 source: tome III - livre des rois - P. 061
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Gouderz',
+    'Guiv',
+    'Hemawen',
+    'Iraniens',
+    'Keschwad',
+    'Khakan',
+    'Pehlewan',
+    'Piran',
+    'Rehham',
+    'Sipehbed',
+    'Sipehdar',
+    'Thous',
+  ]
 order: '051'
 ---
 

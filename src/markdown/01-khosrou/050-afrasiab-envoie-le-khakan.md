@@ -3,7 +3,52 @@ date: ''
 image: 'https://source.unsplash.com/SwbsW4uf1Qs'
 landscape: 'https://source.unsplash.com/fAZEw6xPhz8'
 source: tome III - livre des rois - P. 057
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Balkh',
+    'Biwerd',
+    'Cancer',
+    'Chine',
+    'cyprès',
+    'Ferthous',
+    'Gahan',
+    'Gahar',
+    'Gargou',
+    'Gartjeh',
+    'Gouderz',
+    'Hemawen',
+    'Houman',
+    'Inde',
+    'Iran',
+    'Iraniens',
+    'Kaboul',
+    'Kamous',
+    'Kaschan',
+    'Kaschmir',
+    'Kat',
+    'Kender',
+    'Khakan',
+    'Manschour',
+    'Mawer-al-Nahr',
+    'Pehlewan',
+    'Piran',
+    'Roum',
+    'Schahd',
+    'Schenkoul',
+    'Schewiran',
+    'Schikin',
+    'Segsars',
+    'Seklab',
+    'Sipenjab',
+    'Tchegan',
+    'Thous',
+    'Touran',
+    'Touraniens',
+    'Wahr',
+    'Zaboulistan',
+  ]
 order: '050'
 ---
 

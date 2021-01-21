@@ -6,6 +6,7 @@ source: tome III - livre des rois - P. 046
 tags:
   [
     'Afrasiab',
+    'âme',
     'Créateur',
     'Dieu',
     'Div',
@@ -18,10 +19,9 @@ tags:
     'Iraniens',
     'Kaboul',
     'Kaous',
-    'Keï',
-    'Keïanides',
     'Keschwad',
     'Keï',
+    'Keïanides',
     'Khosrou',
     'Kobad',
     'Mazenderan',

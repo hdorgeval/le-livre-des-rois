@@ -3,7 +3,20 @@ date: ''
 image: 'https://source.unsplash.com/mlAryG9gNyE'
 landscape: 'https://source.unsplash.com/mlAryG9gNyE'
 source: tome III - livre des rois - P. 055
-tags: []
+tags:
+  [
+    'Créateur',
+    'Gouderz',
+    'Houman',
+    'Iran',
+    'Iraniens',
+    'Kaweh',
+    'Pehlewan',
+    'Piran',
+    'Rustem',
+    'Siawusch',
+    'Thous',
+  ]
 order: '049'
 ---
 

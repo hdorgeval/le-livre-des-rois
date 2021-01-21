@@ -3,7 +3,25 @@ date: ''
 image: 'https://source.unsplash.com/SwbsW4uf1Qs'
 landscape: 'https://source.unsplash.com/fAZEw6xPhz8'
 source: tome III - livre des rois - P. 070
-tags: []
+tags:
+  [
+    'Biwerd',
+    'Chine',
+    'Ferthous',
+    'Guiv',
+    'Hemawen',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Kamous',
+    'Kaweh',
+    'Khakan',
+    'Pehlewans',
+    'Piran',
+    'Schenkoul',
+    'Sipehdar',
+    'Thous',
+  ]
 order: '054'
 ---
 

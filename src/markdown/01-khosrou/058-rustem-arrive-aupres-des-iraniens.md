@@ -3,7 +3,30 @@ date: ''
 image: 'https://source.unsplash.com/IRh4OLpNUFc'
 landscape: 'https://source.unsplash.com/YQyh65_7E30'
 source: tome III - livre des rois - P. 084
-tags: []
+tags:
+  [
+    'âme',
+    'Chine',
+    'Dieu',
+    'Gargoui',
+    'Gouderz',
+    'Guiv',
+    'Hemawen',
+    'Iran',
+    'Iraniens',
+    'Kamous',
+    'Keschwad',
+    'Khakan',
+    'Manschour',
+    'Pehlewan',
+    'Rustem',
+    'Schahd',
+    'Schenkoul',
+    'Sipehbed',
+    'Tehemten',
+    'Thous',
+    'Zaboulistan',
+  ]
 order: '058'
 ---
 

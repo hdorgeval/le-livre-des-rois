@@ -3,7 +3,46 @@ date: ''
 image: 'https://source.unsplash.com/PQOv9zHJnHs'
 landscape: 'https://source.unsplash.com/PQOv9zHJnHs'
 source: tome III - livre des rois - P. 123
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Créateur',
+    'Dieu',
+    'Dispensateur',
+    'Faramourz',
+    'Ferenguis',
+    'Ferschidwerd',
+    'Gouderz',
+    'Houman',
+    'Inde',
+    'Iran',
+    'Kaboul',
+    'Kaschan',
+    'Keï-Khosrou',
+    'Khakan',
+    'Khosrou)',
+    'Lehhak',
+    'Manschour',
+    'Pehlewan',
+    'Pehlewans',
+    'Pilsem',
+    'Piran',
+    'Rustem',
+    'Schenkoul',
+    'Schikin',
+    'Seklab',
+    'Siawusch',
+    'Sind',
+    'Sipehbed',
+    'Touran',
+    'Turc',
+    'Turcs',
+    'Wiseh',
+    'Zaboulistan',
+    'Zal',
+    'Zewareh',
+  ]
 order: '069'
 ---
 

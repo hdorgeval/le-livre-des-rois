@@ -3,7 +3,29 @@ date: ''
 image: 'https://source.unsplash.com/FAq-TtmR_A0'
 landscape: 'https://source.unsplash.com/ec6E029hwMo'
 source: tome III - livre des rois - P. 095
-tags: []
+tags:
+  [
+    'âme',
+    'Aschkebous',
+    'Bebr-i-beyan',
+    'Chine',
+    'Destin',
+    'Djadj',
+    'Guiv',
+    'Houman',
+    'Iranien',
+    'Iraniens',
+    'Kamous',
+    'Kaschan',
+    'Khakan',
+    'Piran',
+    'Rehham',
+    'Rustem',
+    'Sort',
+    'Tehemten',
+    'Thous',
+    'Touranien',
+  ]
 order: '060'
 ---
 

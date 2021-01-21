@@ -3,7 +3,42 @@ date: ''
 image: 'https://source.unsplash.com/kpmXIrzrXKE'
 landscape: 'https://source.unsplash.com/kpmXIrzrXKE'
 source: tome III - livre des rois - P. 076
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Divs',
+    'Feribourz',
+    'Ferschidwerd',
+    'Hemawen',
+    'Houman',
+    'Inde',
+    'Iran',
+    'Iraniens',
+    'Kaboul',
+    'Kamous',
+    'Kaous',
+    'Kelbad',
+    'Khakan',
+    'Khosrou',
+    'Lehhak',
+    'Manschour',
+    'Mazenderan',
+    'Pehlewan',
+    'Piran',
+    'Roum',
+    'Rustem',
+    'Seïstan',
+    'Sipehbed',
+    'Sipehdar',
+    'Tehemten',
+    'Thous',
+    'Touraniens',
+    'Zaboulistan',
+  ]
 order: '056'
 ---
 

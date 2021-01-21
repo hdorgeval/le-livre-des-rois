@@ -3,7 +3,22 @@ date: ''
 image: 'https://source.unsplash.com/muS2RraYRuQ'
 landscape: 'https://source.unsplash.com/Dwheufds6kQ'
 source: tome III - livre des rois - P. 063
-tags: []
+tags:
+  [
+    'âme',
+    'Créateur',
+    'cyprès',
+    'Dieu',
+    'Gouderz',
+    'Guiv',
+    'Iran',
+    'Iraniens',
+    'Rustem',
+    'Sipehdar',
+    'Thous',
+    'Tout-Puissant',
+    'Turcs',
+  ]
 order: '052'
 ---
 

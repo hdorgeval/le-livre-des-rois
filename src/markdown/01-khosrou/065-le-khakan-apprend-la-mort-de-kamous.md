@@ -3,7 +3,24 @@ date: ''
 image: 'https://source.unsplash.com/bE6jYybsHsw'
 landscape: 'https://source.unsplash.com/bE6jYybsHsw'
 source: tome III - livre des rois - P. 110
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Balkh',
+    'Chine',
+    'Dieu',
+    'Dikhan',
+    'Firdousi',
+    'Houman',
+    'Iran',
+    'Kamous',
+    'Kaschan',
+    'Khakan',
+    'Pehlewan',
+    'Piran',
+    'Schikin',
+  ]
 order: '065'
 ---
 

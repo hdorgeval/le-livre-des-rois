@@ -3,7 +3,24 @@ date: ''
 image: 'https://source.unsplash.com/dHpVHLdvlKg'
 landscape: 'https://source.unsplash.com/dHpVHLdvlKg'
 source: tome III - livre des rois - P. 074
-tags: []
+tags:
+  [
+    'Chine',
+    'Feribourz',
+    'Gouderz',
+    'Hemawen',
+    'Inde',
+    'Iraniens',
+    'Kaous',
+    'Pehlewan',
+    'Roum',
+    'Rustem',
+    'Seklab',
+    'Siawusch',
+    'Sipehdar',
+    'Tehemten',
+    'Thous',
+  ]
 order: '055'
 ---
 

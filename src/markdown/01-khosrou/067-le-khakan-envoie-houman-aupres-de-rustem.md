@@ -3,7 +3,43 @@ date: ''
 image: 'https://source.unsplash.com/rydQVdwcgUQ'
 landscape: 'https://source.unsplash.com/rydQVdwcgUQ'
 source: tome III - livre des rois - P. 115
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Bousipas',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Ferschidwerd',
+    'Gouderz',
+    'Gour-i-kouh',
+    'Guerouï',
+    'Guersiwez',
+    'Houman',
+    'Iran',
+    'Iraniens',
+    'Kamous',
+    'Keï',
+    'Kelbad',
+    'Khakan',
+    'Khosrou',
+    'Lehhak',
+    'Manschour',
+    'Pehlewan',
+    'Pildendan',
+    'Piran',
+    'Poulad',
+    'Rustem',
+    'Schenkoul',
+    'Siawusch',
+    'Tour',
+    'Touran',
+    'Touraniens',
+    'Turcs',
+    'Wiseh',
+    'Zereh',
+  ]
 order: '067'
 ---
 
