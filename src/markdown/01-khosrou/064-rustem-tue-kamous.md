@@ -27,7 +27,7 @@ Rustem répondit:
 >
 > Tu appelles mon lacet un fil, mais tu verras combien le nœud en sera serré.
 >
-> Le destin, ô homme de Kaschan, t’a amené dans ce lien où la poussière qui doit te recouvrir est le seul gîte qui te reste.
+> Le destin, ô homme de Kaschan, t’a amené dans ce lien où la poussière qui doit te recouvrir est le seul gîte qui te reste.
 
 Kamous lança son destrier, il vit que son ennemi l’attendait plein de confiance en sa force;
 
@@ -57,7 +57,7 @@ Il dit aux braves:
 
 > Cet homme avide de combats a voulu se mesurer avec moi, se fiant à sa force et à sa puissance.
 >
-> Mais telle est la coutume de ce monde trompeur, tantôt il nous élève, tantôt il nous abaisse;
+> Mais telle est la coutume de ce monde trompeur, tantôt il nous élève, tantôt il nous abaisse;
 >
 > C’est lui qui est la source de la joie et de la tristesse, qui nous déprime jusqu’à terre ou nous élève jusqu’aux nuages.
 >
@@ -75,7 +75,7 @@ Il dit aux braves:
 
 Il le jeta par terre devant les grands, et les chefs de l’armée sortirent des rangs, lui hachèrent le corps avec leurs épées, et inondèrent sous lui de son sang les pierres et la terre.
 
-Telle est la coutume du ciel et du temps, ils amènent tantôt la douleur et le chagrin, tantôt la joie.
+Telle est la coutume du ciel et du temps, ils amènent tantôt la douleur et le chagrin, tantôt la joie.
 
 Il faut subir les soucis et les fatigues, les inquiétudes et les peines, et la bravoure ne t’en délivrera pas.
 

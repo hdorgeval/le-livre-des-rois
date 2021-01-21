@@ -21,7 +21,7 @@ Il dit à Piran:
 >
 > Il m’a rappelé le mal qu’a fait chacun de nous.
 >
-> D’abord, ô mon illustre frère, il m’a appelé par mon nom, et s’est beaucoup étendu sur la vengeance de la mort de Siawusch;
+> D’abord, ô mon illustre frère, il m’a appelé par mon nom, et s’est beaucoup étendu sur la vengeance de la mort de Siawusch;
 >
 > Il m’a parlé de tout ce qui s’est passé autrefois, des pays dépeuplés et ensuite repeuplés, de ce qu’il veut et doit faire, de Bahram et de la famille de Gouderz, et de tous ceux qui ont péri.
 >

@@ -23,7 +23,7 @@ On ne voyait plus de chemin d’une mer à l’autre, à cause de la poussièr
 
 Le cri de la sentinelle avertit les Iraniens qu’une armée s’approchait de l’occident, et que le drapeau du Sipehbed au corps d’éléphant, qui précédait les troupes, était visible.
 
-D’un côté l’armée du Touran rendait l’air noir comme un nuage.
+D’un côté l’armée du Touran rendait l’air noir comme un nuage.
 
 Son chef était un cavalier semblable à un bloc de rocher;
 
@@ -35,7 +35,7 @@ Il était précédé de cavaliers armés de lances, et le gros de son armée le 
 
 Sa massue, appuyée contre son bras et son épaule, semblait bouillonner d’impatience; son aspect frappait de stupeur.
 
-De l’autre côté Thous le Sipehdar de l’Iran fit retentir le ciel du son des timbales;
+De l’autre côté Thous le Sipehdar de l’Iran fit retentir le ciel du son des timbales;
 
 Lorsqu’il entendit le cri de la sentinelle, il fut content et heureux, se rendit auprès de Gouderz fils de Keschwad, envoya un cavalier auprès de Feribourz et lui fit dire:
 
@@ -55,7 +55,7 @@ Feribourz réunit son armée de héros à celle de Zengueh, de Thous et de Guiv
 
 Ils rangèrent leurs troupes sur les hauteurs et parèrent leurs drapeaux fortunés.
 
-Lorsque les deux ailes furent alignées, et que la réserve, le centre et les bagages furent placés, les trompettes sonnèrent et l’armée s’ébranla, semblable au ciel étoilé. Kamous de son côté se voyant en présence de l’ennemi, ne s’arrêta pas un instant dans la plaine;
+Lorsque les deux ailes furent alignées, et que la réserve, le centre et les bagages furent placés, les trompettes sonnèrent et l’armée s’ébranla, semblable au ciel étoilé. Kamous de son côté se voyant en présence de l’ennemi, ne s’arrêta pas un instant dans la plaine;
 
 Il mit en mouvement son armée, pareille à un torrent qui d’une montagne se précipite dans une rivière, et l’amena devant le Hemawen.
 

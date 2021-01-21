@@ -41,7 +41,7 @@ Piran lui répondit:
 >
 > Alors ni Kamous, ni le Khakan de la Chine, ni Schenkoul, ni aucun des braves du Touran ne resteront en vie.
 
-Il sortit aussitôt du camp, s’approcha des Iraniens et les observa.
+Il sortit aussitôt du camp, s’approcha des Iraniens et les observa.
 
 De là il courut auprès de Kamous, de Manschour et de Ferthous, et leur dit:
 
@@ -103,13 +103,13 @@ Et le monde devint noir, les yeux des hommes furent privés de lumière, les esp
 
 Le Khakan s’avança en pompe au centre de l’armée, la poussière couvrit le ciel comme un nuage sombre, et le bruit des clochettes indiennes faisait vibrer les cœurs.
 
-Le trône du Khakan, placé sur le dos d’un éléphant, éclairait la plaine par sa splendeur à la distance de plusieurs milles;
+Le trône du Khakan, placé sur le dos d’un éléphant, éclairait la plaine par sa splendeur à la distance de plusieurs milles;
 
 La bouche et les yeux du ciel se remplirent de poussière, tu aurais dit que sa face était couverte de poix;
 
 Et lorsque le Khakan parut au centre de l’armée, la lune s’égara de sa route.
 
-Kamous étendit sa ligne à la droite de la montagne, on transporta ses bagages du côté de la plaine, et Piran, son frère Houman et Kelbad se placèrent en toute hâte à la gauche de la montagne.
+Kamous étendit sa ligne à la droite de la montagne, on transporta ses bagages du côté de la plaine, et Piran, son frère Houman et Kelbad se placèrent en toute hâte à la gauche de la montagne.
 
 Lorsque Rustem vit les mouvements du Khakan, il disposa ses troupes sur le champ de bataille, ordonna à Thous de faire placer les timbales et de parer son armée comme l’œil du coq, et lui dit:
 
@@ -139,7 +139,7 @@ Il vit une armée telle que la mer du Roum ne paraissait auprès d’elle qu’u
 
 Dans chaque corps d’armée on parlait une langue différente, et l’on y voyait des drapeaux et des vêtements divers.
 
-Ces éléphants, cette pompe, ces trônes d’ivoire, ces bracelets, ces chaînes et ces couronnes faisaient du monde comme un jardin du paradis;
+Ces éléphants, cette pompe, ces trônes d’ivoire, ces bracelets, ces chaînes et ces couronnes faisaient du monde comme un jardin du paradis;
 
 C’était beau et terrible à voir.
 
@@ -171,7 +171,7 @@ Les épées et les bras étaient rouges de sang, et le cœur de la terre trembla
 
 Les lâches mouraient de peur, et les braves se taillaient des linceuls de leurs cottes de mailles;
 
-De tous côtés s’enfuyaient les lions, et s’envolaient les aigles courageux;
+De tous côtés s’enfuyaient les lions, et s’envolaient les aigles courageux;
 
 La face du soleil pâlissait, et la montagne et les rochers tremblaient.
 

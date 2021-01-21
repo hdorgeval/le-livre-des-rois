@@ -89,7 +89,7 @@ Kamous lui répondit:
 >
 > Ensuite nous conduirons nos troupes dans l’lran;
 >
-> Nous n’y laisserons ni trône, ni couronne, ni diadème;
+> Nous n’y laisserons ni trône, ni couronne, ni diadème;
 >
 > Nous dévasterons tout le pays;
 >
@@ -107,7 +107,7 @@ Kamous lui répondit:
 >
 > Gardez cette seule nuit les chemins pour que les Iraniens ne s’enfuient pas du champ de bataille;
 >
-> Et demain aussitôt que le souffle de l’aube du jour se fera sentir, que toute l’armée vienne ici.
+> Et demain aussitôt que le souffle de l’aube du jour se fera sentir, que toute l’armée vienne ici.
 >
 > Moi, accompagné du Sipehdar indien, je porterai mon drapeau sur cette grande montagne;
 >

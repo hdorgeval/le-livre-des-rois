@@ -60,7 +60,7 @@ export const noises = [
   'Bénies',
   'Bien',
   'Bientôt',
-  'Bientôt',
+  'Bientôt',
   'Bois',
   'Brisons',
   'C’est-à-dire',

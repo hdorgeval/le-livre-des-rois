@@ -17,13 +17,13 @@ A cet aspect il s’arrêta étonné, les pensées se pressaient dans sa tête, 
 
 > Est-ce un paradis ou un camp?
 >
-> Est-ce le ciel sublime ou une couronne et un trône?
+> Est-ce le ciel sublime ou une couronne et un trône?
 
 Il s’approcha à pied du Khakan de la Chine et baisa la terre devant lui.
 
-Aussitôt que le Khakan l’aperçut, il l’embrassa, admira la largeur de sa poitrine et la force de ses bras, le reçut gracieusement, lui adressa beaucoup de questions et le fit asseoir à ses côtés sur le trône, en disant:
+Aussitôt que le Khakan l’aperçut, il l’embrassa, admira la largeur de sa poitrine et la force de ses bras, le reçut gracieusement, lui adressa beaucoup de questions et le fit asseoir à ses côtés sur le trône, en disant:
 
-> Dieu soit loué, ô Pehlewan, Dieu soit loué de ce que je te vois si bien portant et si heureux !
+> Dieu soit loué, ô Pehlewan, Dieu soit loué de ce que je te vois si bien portant et si heureux !
 
 Ensuite il lui demanda qui dans l’armée de l’lran portait le sceau et qui le diadème;
 
@@ -41,7 +41,7 @@ Piran répondit:
 >
 > Je vais répondre au roi sur ce qu’il désire savoir des Iraniens.
 >
-> Personne parmi eux ne possède un trône, ni un diadème, ni un sceau, ni de grandes dignités;
+> Personne parmi eux ne possède un trône, ni un diadème, ni un sceau, ni de grandes dignités;
 >
 > Ils sont venus chercher la guerre et des combats sans nombre, et à la fin ils n’ont trouvé qu’un rocher stérile.
 >

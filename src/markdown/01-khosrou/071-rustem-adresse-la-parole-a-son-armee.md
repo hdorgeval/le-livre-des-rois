@@ -9,11 +9,11 @@ order: '071'
 
 # Rustem adresse la parole à son armée
 
-Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et Guiv, Feribourz et Gustehem les nobles guerriers, Gourguin le cavalier expérimenté, et Bijen qui brillait dans le combat, et il leur adressa des paroles convenables, disant:
+Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et Guiv, Feribourz et Gustehem les nobles guerriers, Gourguin le cavalier expérimenté, et Bijen qui brillait dans le combat, et il leur adressa des paroles convenables, disant:
 
-> Ô hommes sages et prudents! ô Mobeds prévoyants!
+> Ô hommes sages et prudents! ô Mobeds prévoyants!
 >
-> C’est à celui à qui Dieu accorde la bonne fortune que sont dus les trésors et les trônes;
+> C’est à celui à qui Dieu accorde la bonne fortune que sont dus les trésors et les trônes;
 >
 > Il sera le maître du monde, il sera victorieux dans les combats;
 >
@@ -45,17 +45,17 @@ Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et G
 >
 > S’il nous livre ceux qui ont fait le mal et tous les trésors de Siawusch, il faut renoncer à la vengeance, et je n’aurai plus de motif pour faire la guerre; car rien n’est préférable à la droiture.
 >
-> Si les grands, ces maîtres des trônes et des éléphants, si cette armée nombreuse comme les flots de l’Indus nous envoient des tributs, je ne leur livrerai pas bataille;
+> Si les grands, ces maîtres des trônes et des éléphants, si cette armée nombreuse comme les flots de l’Indus nous envoient des tributs, je ne leur livrerai pas bataille;
 >
-> S’ils nous envoient leurs trônes et leurs trésors, vous n’aurez plus besoin de vous fatiguer, nous n’aurons plus à jouer dans le monde le rôle de destructeurs : c’est là mon avis et la seule voie à suivre.
+> S’ils nous envoient leurs trônes et leurs trésors, vous n’aurez plus besoin de vous fatiguer, nous n’aurons plus à jouer dans le monde le rôle de destructeurs : c’est là mon avis et la seule voie à suivre.
 >
-> Le monde est rempli de trésors, de couronnes et de trônes, et tout cela sera le partage de celui à qui la fortune sourit.
+> Le monde est rempli de trésors, de couronnes et de trônes, et tout cela sera le partage de celui à qui la fortune sourit.
 
 A ces mots Gouderz se leva et lui dit:
 
 > Ô lion plein de justice et de droiture, tu es le pilier de l’armée et l’ornement de la cour;
 >
-> C’est par toi que brillent le trône, la couronne et le diadème;
+> C’est par toi que brillent le trône, la couronne et le diadème;
 >
 > Tu disposes des âmes et des intelligences, et ton esprit se nourrit de sagesse.
 >
@@ -79,7 +79,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > > Je dirai aux miens ce qui nous menace.
 > >
-> > Je possède un trône, des trésors et des troupeaux;
+> > Je possède un trône, des trésors et des troupeaux;
 > >
 > > Je ne les laisserai pas dans le Touran et je viendrai auprès de vous;
 > >
@@ -89,7 +89,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > > Tu fais bien de quitter ce pays;
 > >
-> > Tu trouveras dans l’Iran un trône, des trésors et une réception amicale.
+> > Tu trouveras dans l’Iran un trône, des trésors et une réception amicale.
 >
 > Cela étant convenu, il partit, se ligua dans la nuit avec le Div, et envoya un messager monté sur un dromadaire, pour avertir Afrasiab de se tenir prêt, parce qu’une armée ennemie était arrivée.
 >
@@ -97,7 +97,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > Mais le dixième jour il amena une armée dans la plaine et déploya les troupes réunies du monde entier.
 >
-> Maintenant, ô Pehlewan de l’armée, il emploie avec toi un nouveau moyen;
+> Maintenant, ô Pehlewan de l’armée, il emploie avec toi un nouveau moyen;
 >
 > Il ne connaît que le mensonge et la ruse, et ne sait que semer des paroles calculées.
 >
@@ -111,7 +111,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > Il a promis de te livrer les meurtriers et les trésors de Siawusch;
 >
-> Mais tu verras qu’aussitôt qu’on battra les timbales, et que Feribourz et Thous marcheront à l’ennemi, Piran se mettra à la tête de son armée pour nous livrer de nouveaux combats.
+> Mais tu verras qu’aussitôt qu’on battra les timbales, et que Feribourz et Thous marcheront à l’ennemi, Piran se mettra à la tête de son armée pour nous livrer de nouveaux combats.
 >
 > Toutes ses paroles ne sont que mensonges, et Ahriman seul devrait être son compagnon.
 >
@@ -141,7 +141,7 @@ Gouderz et Thous offrirent leurs hommages à Rustem, disant:
 >
 > Les ruses, les artifices et les paroles mensongères de Piran ne parviendront pas à t’éblouir.
 >
-> Puisse le monde n’être jamais privé du trône du roi dont tu fus toujours le soutien!
+> Puisse le monde n’être jamais privé du trône du roi dont tu fus toujours le soutien!
 
 Rustem dit:
 
@@ -155,6 +155,6 @@ Ensuite il se tourna vers les Iraniens, disant:
 
 > Je jetterai cette nuit un sort fortuné en buvant du vin, et demain matin j’élèverai sur mon épaule cette massue de Sam le cavalier, dont je me suis servi dans la guerre du Mazenderan, et je me jetterai dans la mêlée, là où le crocodile nous résistera.
 >
-> Si je suis forcé de combattre, je prendrai les tentes, les diadèmes, les massues, les couronnes, les éléphants de guerre et le trône d’ivoire, et je les donnerai aux Iraniens.
+> Si je suis forcé de combattre, je prendrai les tentes, les diadèmes, les massues, les couronnes, les éléphants de guerre et le trône d’ivoire, et je les donnerai aux Iraniens.
 
 Les grands dévoués à Khosrou remplirent de leurs cris la salle de l’assemblée, et à la fin ils se retirèrent dans leurs tentes, accablés de sommeil et du besoin de se reposer.

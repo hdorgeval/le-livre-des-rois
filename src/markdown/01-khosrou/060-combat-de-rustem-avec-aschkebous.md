@@ -85,9 +85,9 @@ Tehemten répondit:
 >
 > Est-ce que dans ton pays les lions, les léopards et les crocodiles vont jamais à cheval au combat?
 >
-> Je vais, ô vaillant cavalier, tout démonté que je suis, t’enseigner la guerre.
+> Je vais, ô vaillant cavalier, tout démonté que je suis, t’enseigner la guerre.
 >
-> Thous m’a envoyé ici à pied pour que je prive Aschkebous de son cheval, et le héros de Kaschan se trouvera bientôt a pied comme moi et fera rire les armées.
+> Thous m’a envoyé ici à pied pour que je prive Aschkebous de son cheval, et le héros de Kaschan se trouvera bientôt a pied comme moi et fera rire les armées.
 >
 > Un fantassin vaut, sur cette plaine, dans ce jour et dans cette lutte, cinq cents cavaliers comme toi.
 
@@ -95,7 +95,7 @@ Quand Rustem vit combien Aschkebous, sur son cheval magnifique, était dédaigne
 
 Alors il se mit à rire et s’écria:
 
-> Assieds-toi à côté de ton noble compagnon;
+> Assieds-toi à côté de ton noble compagnon;
 >
 > Et si tu veux presser sa tête contre ta poitrine, je suspendrai le combat un instant.
 
@@ -119,11 +119,11 @@ Le héros de Kaschan mourut à l’instant;
 
 Tu aurais dit que sa mère ne l’avait jamais mis au monde.
 
-Des deux côtés les armées avaient regardé attentivement, observant la lutte des héros.
+Des deux côtés les armées avaient regardé attentivement, observant la lutte des héros.
 
 Kamous et le Khakan de la Chine avaient admiré la haute stature, la force et la manière de combattre de cet Iranien;
 
-Et aussitôt que Rustem fut parti, le Khakan envoya un cavalier retirer la flèche du corps d’Aschkebous.
+Et aussitôt que Rustem fut parti, le Khakan envoya un cavalier retirer la flèche du corps d’Aschkebous.
 
 On la retira couverte de sang jusqu’aux plumes;
 

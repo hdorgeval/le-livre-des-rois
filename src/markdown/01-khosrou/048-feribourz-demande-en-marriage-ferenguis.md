@@ -33,13 +33,13 @@ Feribourz lui répondit:
 
 > Ô héros distributeur des couronnes, maître de la cotte de mailles, de la massue et de Raksch!
 >
-> Je nourris au fond de mon âme un désir dont je n’ose parler qu’à toi, ô Pehlewan du monde.
+> Je nourris au fond de mon âme un désir dont je n’ose parler qu’à toi, ô Pehlewan du monde.
 >
 > Que Dieu répande sur toi ses bénédictions, car tu es le soutien et l’asile de l’armée, et c’est grâce à ta massue que les braves portent haut leurs casques.
 >
-> Sache, ô toi qui es digne du pays de l’Iran et du trône, du diadème et du sceau, que je suis frère du noble Siawusch;
+> Sache, ô toi qui es digne du pays de l’Iran et du trône, du diadème et du sceau, que je suis frère du noble Siawusch;
 >
-> Que je suis de sa race et de sa famille, et que j’aime la femme qui lui a survécu, ô héros qui portes haut la tête.
+> Que je suis de sa race et de sa famille, et que j’aime la femme qui lui a survécu, ô héros qui portes haut la tête.
 >
 > Si tu voulais en parler au roi, tu placerais sur ma tête le plus beau des diadèmes.
 
@@ -61,7 +61,7 @@ Khosrou lui répondit:
 
 > Ô Pehlewan, puisses-tu vivre éternellement et être heureux!
 >
-> Demande-moi tout ce que tu voudras, fût-ce mon trône, mon sceau, ma couronne et mon diadème.
+> Demande-moi tout ce que tu voudras, fût-ce mon trône, mon sceau, ma couronne et mon diadème.
 
 Rustem lui dit alors:
 
@@ -123,7 +123,7 @@ Au fond de son âme elle était remplie d’angoisses et de colère, et à la 
 
 Le vaillant Pehlewan au corps d’éléphant lui dit:
 
-> Ô reine des reines, tu es la plus illustre des princesses et l’ornement de la couronne, tu es digne du diadème et du trône d’ivoire.
+> Ô reine des reines, tu es la plus illustre des princesses et l’ornement de la couronne, tu es digne du diadème et du trône d’ivoire.
 
 Après l’avoir comblée de louanges, il continua:
 
@@ -141,7 +141,7 @@ Après l’avoir comblée de louanges, il continua:
 >
 > Feribourz est le maître de la moitié de l’Iran, ce qui est désert comme ce qui est habité lui appartient;
 >
-> Et les conseils, les avis et la volonté du roi te le feront agréer pour époux, ô lune.
+> Et les conseils, les avis et la volonté du roi te le feront agréer pour époux, ô lune.
 >
 > Qu’en dis-tu?
 >
@@ -167,7 +167,7 @@ A la fin elle dit:
 >
 > Que dire, puisque c’est le fils de Zal qui me sollicite, qui veut que j’épouse Feribourz?
 >
-> Je n’ai pas le choix libre, car il semble que tes paroles, ô Pehlewan, m’ont lié la langue.
+> Je n’ai pas le choix libre, car il semble que tes paroles, ô Pehlewan, m’ont lié la langue.
 >
 > Ce que le roi glorieux ordonne, il faut s’y soumettre.
 

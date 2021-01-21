@@ -77,7 +77,7 @@ L’orgueilleux Thous lui répondit:
 
 Lorsque Piran eut écouté ces paroles, il envoya partout des troupes et occupa les routes qui conduisaient à la montagne;
 
-De tous côtés s’avancèrent les corps des Touraniens, et ils investirent la montagne tout autour.
+De tous côtés s’avancèrent les corps des Touraniens, et ils investirent la montagne tout autour.
 
 Piran ayant ainsi empêché les Iraniens d’aller au fourrage, se disposa à les attaquer et dit à Houman:
 

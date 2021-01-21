@@ -9,7 +9,7 @@ order: '063'
 
 # Kamous tue Alwa
 
-On entendit des deux côtés le bruit des clairons et des timbales;
+On entendit des deux côtés le bruit des clairons et des timbales;
 
 Les incantations et la ruse ne pouvaient plus rien.
 

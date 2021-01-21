@@ -43,7 +43,7 @@ Kamous lui répondit:
 >
 > Mon cœur s’est brisé quand j’ai vu ce fantassin qui a effrayé notre armée.
 >
-> Il n’y a pas d’homme dans le monde qui soit son égal en stature, et aucun des nôtres n’est digne de se mesurer avec lui.
+> Il n’y a pas d’homme dans le monde qui soit son égal en stature, et aucun des nôtres n’est digne de se mesurer avec lui.
 >
 > Tu as vu son arc, et sa flèche est ici;
 >

@@ -17,7 +17,7 @@ Il était brave et prêt à tout entreprendre. Il dit au Khakan:
 
 > Ô toi qui portes haut la tête, toi de qui le monde entier attend les faveurs!
 >
-> Quoique cet homme soit un lion rugissant, je le priverai de la vie aussitôt que je paraîtrai sur le champ de bataille;
+> Quoique cet homme soit un lion rugissant, je le priverai de la vie aussitôt que je paraîtrai sur le champ de bataille;
 >
 > Je l’attaquerai seul;
 >
@@ -31,13 +31,13 @@ Djinghisch baisa la terre devant lui, et le Khakan lui dit:
 
 > Si tu accomplis cette vengeance, si tu m’apportes cette tête superbe, je te donnerai tant de joyaux et de trésors que tu n’auras plus besoin de te fatiguer.
 
-Djinghisch lança aussitôt son cheval et courut semblable à Adergouschasp;
+Djinghisch lança aussitôt son cheval et courut semblable à Adergouschasp;
 
 Arrivé auprès des Iraniens qu’il voulait attaquer, il prit dans son carquois une flèche de bois de peuplier, et s’écria:
 
 > C’est ici que je veux combattre; la tête des braves est dans ma main.
 >
-> Si le héros qui lance le lacet, qui a vaincu Kamous, qui combat tantôt avec le lacet, tantôt avec la flèche, veut venir à présent sur le champ de bataille, sa haute stature disparaîtra du monde.
+> Si le héros qui lance le lacet, qui a vaincu Kamous, qui combat tantôt avec le lacet, tantôt avec la flèche, veut venir à présent sur le champ de bataille, sa haute stature disparaîtra du monde.
 
 Il allait à droite et à gauche, disant:
 
@@ -99,6 +99,6 @@ Mais Tehemten l’étendit par terre et lui trancha la tête, et c’est ainsi q
 
 Tous les grands du pays d’Iran comblèrent le Pehlewan de leurs bénédictions;
 
-De son côté le Khakan fut rempli de douleur et consterné de la tournure que prenait la fortune.
+De son côté le Khakan fut rempli de douleur et consterné de la tournure que prenait la fortune.
 
 Cependant Rustem allait et venait entre les deux armées, un javelot brillant dans les mains.

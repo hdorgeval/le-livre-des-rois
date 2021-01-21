@@ -43,13 +43,13 @@ Le vieux Gouderz dit à Thous:
 >
 > Nous avons des vivres tout au plus pour trois jours, et aucun chemin ne nous est ouvert;
 >
-> Nous n’avons ni tentes, ni effets, ni bagages, et bientôt l’armée sera affamée.
+> Nous n’avons ni tentes, ni effets, ni bagages, et bientôt l’armée sera affamée.
 >
 > Ainsi quand la face d’or du soleil aura fait place au voile noir de la nuit, il faudra choisir des cavaliers vaillants et nous précipiter de la montagne sur la plaine, où nous livrerons bataille.
 >
 > Nous les surprendrons pendant la nuit;
 >
-> Nous combattrons bravement pour savoir de quel côté est la fortune, et nous sacrifierons tous nos vies, ou nous poserons sur nos têtes la couronne des héros.
+> Nous combattrons bravement pour savoir de quel côté est la fortune, et nous sacrifierons tous nos vies, ou nous poserons sur nos têtes la couronne des héros.
 >
 > Telle est la fin de toute lutte;
 >
@@ -63,7 +63,7 @@ Il remit le drapeau fortuné à Gustehem, et leur donna beaucoup de conseils et
 
 Lui-même, Guiv, Rehham et quelques cavaliers placèrentt leurs massues sur l’épaule, se dirigèrent vers le camp du Sipehdar Piran, et se jettèrent comme une flamme sur le centre de son armée.
 
-Bientôt toute la plaine ressembla à une mer de sang, et un grand cri s’éleva du camp;
+Bientôt toute la plaine ressembla à une mer de sang, et un grand cri s’éleva du camp;
 
 Le drapeau du Sipehdar fut coupé en deux, le cœur des braves se remplit de peur.
 
@@ -85,7 +85,7 @@ Le sang coula de ses yeux sur sa poitrine, et il cria d’une voix forte à ses
 >
 > Ne perdez pas de temps à vous revêtir de vos armures.
 
-On entendit le son des trompettes, et les braves s’ébranlèrent de tous côtés;
+On entendit le son des trompettes, et les braves s’ébranlèrent de tous côtés;
 
 Ils entourèrent les cavaliers iraniens comme des lions féroces;
 
@@ -113,7 +113,7 @@ Thous dit à Guiv et à Rehham:
 
 Ces trois héros firent une attaque ensemble, comme des lions qui bondissent dans leur colère;
 
-Mais du côté des Touraniens s’éleva le bruit des clairons et des trompettes et le son des timbales et des clochettes indiennes;
+Mais du côté des Touraniens s’éleva le bruit des clairons et des trompettes et le son des timbales et des clochettes indiennes;
 
 On ne voyait plus les rênes et les crinières des chevaux, et la mêlée était telle qu’on se crevait les yeux avec les lances;
 
@@ -159,7 +159,7 @@ Alors on lâcha les brides, on s’appesantit sur les étriers, et l’on ne di
 
 Les coups des héros et le bruit des clochettes étaient tels qu’ils auraient fait sortir le crocodile du fond de la mer.
 
-Ils étaient tous armés de massues et d’épées, et Houman s’aperçut bientôt de la venue de ces cavaliers.
+Ils étaient tous armés de massues et d’épées, et Houman s’aperçut bientôt de la venue de ces cavaliers.
 
 Thous aussi vit qu’il lui arrivait des secours;
 
@@ -173,7 +173,7 @@ Thous leur dit:
 >
 > Puisse notre lutte se terminer par une fête!
 >
-> Jamais je n’ai vu d’actes de bravoure comme les vôtres;
+> Jamais je n’ai vu d’actes de bravoure comme les vôtres;
 >
 > Jamais les hommes de guerre ne m’en ont raconté de pareils.
 >

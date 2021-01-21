@@ -11,7 +11,7 @@ order: '049'
 
 Une nuit, à l’heure où l’on bat le tambour, Thous s’endormit le cœur blessé et plein de soucis.
 
-Il vit alors en songe un flambeau brillant qui s’élevait de l’eau, et au milieu de cette lumière un trône d’ivoire sur lequel était assis Siawusch, en grande pompe et une couronne sur la tête.
+Il vit alors en songe un flambeau brillant qui s’élevait de l’eau, et au milieu de cette lumière un trône d’ivoire sur lequel était assis Siawusch, en grande pompe et une couronne sur la tête.
 
 Ses lèvres souriaient, sa langue prononçait des paroles douces;
 
@@ -31,7 +31,7 @@ Il ordonna alors de sonner des trompettes, et son armée s’ébranla sur la mon
 
 Les braves de l’Iran se ceignirent et élevèrent en l’air le drapeau de Kaweh.
 
-De son côté Piran amena son armée, et la poussière obscurcit l’éclat du jour;
+De son côté Piran amena son armée, et la poussière obscurcit l’éclat du jour;
 
 Les cris des guerriers se firent entendre, et une pluie de traits éblouit l’œil du soleil.
 
@@ -75,7 +75,7 @@ Piran lui dit :
 
 Ils se retirèrent alors du champ de bataille sous leurs tentes, et placèrent des vedettes le long du front de l’armée;
 
-Les héros ôtèrent leurs ceintures et se mirent à manger et à dormir.
+Les héros ôtèrent leurs ceintures et se mirent à manger et à dormir.
 
 Thous se rendit aussi dans son camp, le cœur gonflé de sang et le visage rouge comme la sandaraque.
 
@@ -83,7 +83,7 @@ Il dit à Gouderz:
 
 > Nos affaires vont mal, la fortune de l’Iran se trouble;
 >
-> Nous sommes entourés de troupes de tous côtés;
+> Nous sommes entourés de troupes de tous côtés;
 >
 > Nos chevaux n’ont pour se nourrir que des épines, et l’armée elle-même va manquer de vivres, de sorte qu’il ne nous reste d’autre remède que nos massues et nos glaive.
 >
@@ -93,7 +93,7 @@ Il dit à Gouderz:
 >
 > Si notre bonne étoile nous favorise, elle te donnera la victoire;
 >
-> Et si le maître du ciel nous fait périr par le glaive, nous ne pouvons ni ajouter ni ôter au sort que le Créateur nous destine.
+> Et si le maître du ciel nous fait périr par le glaive, nous ne pouvons ni ajouter ni ôter au sort que le Créateur nous destine.
 >
 > Ne t’inquiète donc pas follement.
 >

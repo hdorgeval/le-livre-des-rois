@@ -27,7 +27,7 @@ Le favori du noble Afrasiab, le chef honoré des Pehlewans répondit:
 >
 > Tu as demandé à Houman fils de Wiseh de me voir;
 >
-> Tu lui as parlé de moi amicalement, et mon cœur s’est élancé vers toi, ô Pehlewan.
+> Tu lui as parlé de moi amicalement, et mon cœur s’est élancé vers toi, ô Pehlewan.
 >
 > Quel est ton nom parmi les vaillants guerriers?
 
@@ -83,7 +83,7 @@ Piran lui répondit:
 >
 > Il demande ma tête comme si j’étais son ennemi.
 >
-> C’est ainsi, ô Pehlewan, que je suis accablé des deux côtés, et que les deux peuples se plaignent de moi.
+> C’est ainsi, ô Pehlewan, que je suis accablé des deux côtés, et que les deux peuples se plaignent de moi.
 >
 > Je ne puis échapper à Afrasiab, je n’ai nulle part de refuge;
 >
@@ -103,7 +103,7 @@ Piran lui répondit:
 >
 > J’ai à craindre pour ma vie, mais je ne dirai que quelques mots en faveur de mes fils;
 >
-> Et au nom de Dieu qui donne la victoire, je te supplie, ô Pehlewan, de ne pas m’en vouloir, de ne pas garder de ressentiment contre les miens, et de penser au Créateur du monde.
+> Et au nom de Dieu qui donne la victoire, je te supplie, ô Pehlewan, de ne pas m’en vouloir, de ne pas garder de ressentiment contre les miens, et de penser au Créateur du monde.
 >
 > Je jure par l’âme glorieuse de Siawusch qu’il me serait plus doux de mourir que d’avoir à prendre l’épée, le casque et la cuirasse.
 >

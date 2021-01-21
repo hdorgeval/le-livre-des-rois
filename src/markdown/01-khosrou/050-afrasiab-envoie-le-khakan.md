@@ -11,7 +11,7 @@ order: '050'
 
 Lorsque le soleil eut montré dans le signe du Cancer la pointe de ses doigts, et qu’il eut déchiré son voile noir, un messager du roi se présenta devant Piran, disant:
 
-> Il arrive une armée innombrable, et tirée de toutes les parties de l’empire et commandée par le Khakan de la Chine, à qui le ciel sert de diadème et la terre de trône;
+> Il arrive une armée innombrable, et tirée de toutes les parties de l’empire et commandée par le Khakan de la Chine, à qui le ciel sert de diadème et la terre de trône;
 >
 > Une armée qui couvrira dans un jour de bataille la mer de la Chine de poussière comme un désert.
 >
@@ -23,7 +23,7 @@ Lorsque le soleil eut montré dans le signe du Cancer la pointe de ses doigts, e
 >
 > Il est beau comme la lune;
 >
-> Il est le maître du monde, et les couronnes et les trônes sont ses jouets; c’est le chef des braves, il se nomme Ferthous;
+> Il est le maître du monde, et les couronnes et les trônes sont ses jouets; c’est le chef des braves, il se nomme Ferthous;
 >
 > Il anéantira Gouderz et Thous;
 >
@@ -37,7 +37,7 @@ Lorsque le soleil eut montré dans le signe du Cancer la pointe de ses doigts, e
 
 Piran dit aux Touraniens:
 
-> Ô vous qui portez haut la tête, ô guerriers du roi! que ce message d’Afrasiab vous réjouisse et vous rende heureux, jeunes et vieux;
+> Ô vous qui portez haut la tête, ô guerriers du roi! que ce message d’Afrasiab vous réjouisse et vous rende heureux, jeunes et vieux;
 >
 > Bannissez de vos cœurs toute inquiétude, car je détruirai dans l’Iran tout ce qui existe et tout ce qui croît.
 >
@@ -77,7 +77,7 @@ Il dit à Houman:
 >
 > Je vais voir combien ils sont, qui est leur chef et quels sont ces braves.
 >
-> Je saluerai le Khakan de la Chine, je baiserai la terre devant son trône;
+> Je saluerai le Khakan de la Chine, je baiserai la terre devant son trône;
 >
 > Je verrai le fier Kamous, Gahar de Gahan et Ferthous, et à mon retour je prendrai mes armes et j’anéantirai les Iraniens.
 >

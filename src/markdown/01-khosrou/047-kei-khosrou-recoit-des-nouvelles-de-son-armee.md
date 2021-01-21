@@ -65,7 +65,7 @@ Le maître des grands commença à parler à Rustem des combats de l’armé
 >
 > Je crains que ce vieil empire ne s’incline vers sa chute, et mon âme est accablée de ces malheurs.
 >
-> Tu as soutenu le trône et la couronne;
+> Tu as soutenu le trône et la couronne;
 >
 > Et la fortune, qui est la maîtresse du monde, t’emprunte sa splendeur.
 >
@@ -135,7 +135,7 @@ Rustem répondit:
 
 Lorsque Keï Khosrou eut entendu ces paroles, ses yeux versèrent sur ses joues deux torrents de larmes, et il répondit:
 
-> Sans toi je ne voudrais pas de l’empire du monde, ni du diadème, ni de la couronne, ni du trône des héros.
+> Sans toi je ne voudrais pas de l’empire du monde, ni du diadème, ni de la couronne, ni du trône des héros.
 >
 > Puisse le ciel être pris dans les nœuds de ton lacet!
 >

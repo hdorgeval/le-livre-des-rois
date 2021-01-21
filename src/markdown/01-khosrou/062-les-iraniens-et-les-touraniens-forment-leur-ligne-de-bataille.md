@@ -43,7 +43,7 @@ Les grands se levèrent tous de leurs places applaudissant aux paroles du Khakan
 
 > Tu es aujourd’hui le chef de l’armée, les pays de la Chine et du Touran sont à toi, et tu vas voir sur ce champ de bataille que des nuages noirs il jaillira des épées.
 
-De son côté Rustem parla ainsi aux Iraniens:
+De son côté Rustem parla ainsi aux Iraniens:
 
 > Voici le moment où notre sort se décidera.
 >

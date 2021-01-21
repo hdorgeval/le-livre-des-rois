@@ -15,7 +15,7 @@ Lorsque le soleil et la lune eurent quitté la voûte du ciel, les deux armées
 >
 > C’est le héros au corps d’éléphant qui accourt avec une armée du Zaboulistan.
 
-Gouderz le fils de Keschwad entendit ces paroles, quitta sur-le-champ, dans la nuit sombre, la montagne rocheuse, et bientôt il aperçut le drapeau à figure de dragon, qui malgré les ténèbres répandait sur le monde un reflet violet.
+Gouderz le fils de Keschwad entendit ces paroles, quitta sur-le-champ, dans la nuit sombre, la montagne rocheuse, et bientôt il aperçut le drapeau à figure de dragon, qui malgré les ténèbres répandait sur le monde un reflet violet.
 
 Lorsqu’il vit les traits de Tehemten, ses larmes inondèrent ses joues.
 
@@ -25,9 +25,9 @@ Ils s’embrassèrent et poussèrent tous deux des cris de douleur sur la mort d
 
 Gouderz lui dit:
 
-> Ô sage, vaillant et heureux Pehlewan, la couronne et le trône empruntent de toi leur splendeur, et tout ce que tu dis s’accomplit.
+> Ô sage, vaillant et heureux Pehlewan, la couronne et le trône empruntent de toi leur splendeur, et tout ce que tu dis s’accomplit.
 >
-> Tu es pour les Iraniens plus qu’un père et une mère, plus qu’un trône et des trésors et des joyaux.
+> Tu es pour les Iraniens plus qu’un père et une mère, plus qu’un trône et des trésors et des joyaux.
 >
 > Sans toi nous sommes comme des poissons sur terre, nos têtes sont étourdies, nos corps sont comme dans la tombe.
 >
@@ -45,7 +45,7 @@ Rustem lui dit:
 >
 > Puissions-nous tous mourir sur le champ de bataille!
 
-Aussitôt que Thous, Guiv et les vaillants cavaliers de l’Iran surent que Rustem arrivait au mont Hemawen, et que Gouderz le héros plein d’expérience l’avait vu, ils s’élancèrent rapidement comme le vent, et l’on entendit des cris et le son des trompettes;
+Aussitôt que Thous, Guiv et les vaillants cavaliers de l’Iran surent que Rustem arrivait au mont Hemawen, et que Gouderz le héros plein d’expérience l’avait vu, ils s’élancèrent rapidement comme le vent, et l’on entendit des cris et le son des trompettes;
 
 Le drapeau de Rustem parut, le Sipehbed entra dans le camp au milieu des ténèbres;
 
@@ -63,9 +63,9 @@ Lorsqu’il apprit ce qui s’était passé dans la bataille, il mêla ses lamen
 
 Alors le héros qui faisait la gloire du monde fit dresser l’enceinte de ses tentes, et derrière lui l’armée du royaume du Midi posa son camp dans la montagne et planta le drapeau de son chef.
 
-Rustem s’assit sur son trône, et les grands de l’armée se rassemblèrent autour de lui;
+Rustem s’assit sur son trône, et les grands de l’armée se rassemblèrent autour de lui;
 
-D’un côté s’assirent Gouderz et Guiv, de l’autre Thous et d’autres braves.
+D’un côté s’assirent Gouderz et Guiv, de l’autre Thous et d’autres braves.
 
 Il fit placer devant eux un flambeau resplendissant, et parla de toute chose grande et petite, des actions des héros, des combats de l’armée, du soleil qui tourne et de la lune brillante.
 
@@ -99,7 +99,7 @@ A la fin il dit:
 >
 > L’œuvre du ciel qui tourne n’est que tromperie;
 >
-> Tantôt il nous distribue des combats et du poison, tantôt du miel et de la tendresse.
+> Tantôt il nous distribue des combats et du poison, tantôt du miel et de la tendresse.
 >
 > Mais que nous mourions de mort naturelle ou de mort violente, ne nous inquiétons pas du comment et du pourquoi;
 >

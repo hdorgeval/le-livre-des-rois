@@ -31,7 +31,7 @@ Guiv lui répondit:
 >
 > Le Créateur du monde t’est favorable, car nous avons toujours répandu la semence du bien et servi Dieu;
 >
-> Ensuite grâce à la fortune du roi maître du monde, maître de l’épée, du trône et de la couronne, Dieu ne retirera pas sa main de nous pour remplir les vœux de nos ennemis.
+> Ensuite grâce à la fortune du roi maître du monde, maître de l’épée, du trône et de la couronne, Dieu ne retirera pas sa main de nous pour remplir les vœux de nos ennemis.
 >
 > Quand Rustem arrivera sur ce champ de bataille, tous les maux de l’armée se dissiperont.
 >

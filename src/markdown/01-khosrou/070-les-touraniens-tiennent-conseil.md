@@ -27,7 +27,7 @@ Piran courut à son camp rapidement comme le vent, convoqua tous les membres de
 >
 > Soyez persuadés que tout notre pays sera dévasté, et que les braves de l’Iran en feront ce qu’ils voudront;
 >
-> Qu’il ne restera ni vieux, ni jeunes, ni roi, ni trésor, ni armée, ni trône, ni couronne.
+> Qu’il ne restera ni vieux, ni jeunes, ni roi, ni trésor, ni armée, ni trône, ni couronne.
 >
 > J’avais conseillé a ce vil et injuste Afrasiab de maîtriser sa fougue et son orgueil;
 >
@@ -39,11 +39,11 @@ Piran courut à son camp rapidement comme le vent, convoqua tous les membres de
 >
 > Il a assassiné le noble Siawusch sans consulter les braves et les sages.
 >
-> Vous verrez qu’il ne restera ni roi, ni couronne, ni éléphant de guerre, ni trône d’ivoire;
+> Vous verrez qu’il ne restera ni roi, ni couronne, ni éléphant de guerre, ni trône d’ivoire;
 >
 > Le roi de l’Iran s’en réjouira, et les soucis et les douleurs deviendront le partage des braves.
 >
-> Hélas! cette grande armée et ces braves, environnés de pompe et de puissance, possesseurs de trônes et de couronnes, tout sera détruit devant vos yeux, et aucun de nous ne reviendra sain et sauf de ce champ de bataille;
+> Hélas! cette grande armée et ces braves, environnés de pompe et de puissance, possesseurs de trônes et de couronnes, tout sera détruit devant vos yeux, et aucun de nous ne reviendra sain et sauf de ce champ de bataille;
 >
 > Ils nous fouleront aux pieds de leurs destriers, et la splendeur de la fortune qui veillait sur nous sera ternie.
 >
@@ -189,7 +189,7 @@ En s’en allant, il accosta Kelbad et lui dit:
 >
 > Il faut que nous nous tenions un peu à l’écart pour observer ce qui peut nous sauver ou nous perdre;
 >
-> Car tu verras que deux tiers de cette armée innombrable, dont les lourdes massues devraient soumettre le monde, seront bientôt couchés sous la terre, avec leurs cuirasses pour linceul et leurs casques inondés de sang.
+> Car tu verras que deux tiers de cette armée innombrable, dont les lourdes massues devraient soumettre le monde, seront bientôt couchés sous la terre, avec leurs cuirasses pour linceul et leurs casques inondés de sang.
 
 Kelbad lui répondit:
 

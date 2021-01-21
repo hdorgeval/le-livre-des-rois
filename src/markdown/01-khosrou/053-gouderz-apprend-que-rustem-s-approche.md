@@ -45,13 +45,13 @@ Ensuite il dit à la sentinelle:
 
 La sentinelle lui répondit:
 
-> Je ne vois pas des deux côtés le même degré de mouvement et d’agitation: là ils se remuent et se hâtent, et ici ils sont comme endormis.
+> Je ne vois pas des deux côtés le même degré de mouvement et d’agitation: là ils se remuent et se hâtent, et ici ils sont comme endormis.
 
 Ces paroles remplirent le Pehlewan de douleur;
 
 Il versa des larmes de fiel et dit en soupirant:
 
-> Sellez mon cheval, et bientôt vous me donnerez une brique pour oreiller.
+> Sellez mon cheval, et bientôt vous me donnerez une brique pour oreiller.
 >
 > Je vais encore une fois remplir mes yeux de la vue de mes amis, et serrer dans mes bras Guiv et Schidousch, Bijen et «Rehham, les braves et fiers cavaliers;
 >
@@ -77,7 +77,7 @@ Gouderz lui répondit:
 >
 > Si tes paroles se vérifient, je te récompenserai de tes bonnes nouvelles par tant de richesses que tu seras à jamais au-dessus de tout besoin;
 >
-> Et dès que nous serons de retour dans l’Iran, dès que nous nous présenterons devant le roi des braves, je te conduirai devant son trône et t’élèverai au-dessus des plus grands.
+> Et dès que nous serons de retour dans l’Iran, dès que nous nous présenterons devant le roi des braves, je te conduirai devant son trône et t’élèverai au-dessus des plus grands.
 >
 > Maintenant, pour l’amour de moi, quitte ton poste, va auprès du chef de l’armée de l’Iran et répète-lui tout ce que tu m’as dit.
 >
@@ -101,7 +101,7 @@ La sentinelle lui dit:
 
 Le Pehlewan fut aussi heureux de ces paroles que le serait un mort à qui l’on rendrait la vie.
 
-De l’autre côté, Piran conduisit, rapidement comme la poussière, sa nouvelle armée vers le champ de bataille.
+De l’autre côté, Piran conduisit, rapidement comme la poussière, sa nouvelle armée vers le champ de bataille.
 
 Un messager porteur de ces bonnes nouvelles le devança, et rapporta à Houman tout ce qui s’était passé, les grandes choses comme les petites.
 
@@ -125,9 +125,9 @@ Thous dit à Bijen fils de Guiv:
 
 > Lève-toi et pénètre le secret de nos ennemis.
 
-> Monte surla crête de ce haut rocher et regarde ce que fait cette armée, quel en est le nombre, et par quelle route elle arrive avec ses tentes, ses éléphants et ses trônes.
+> Monte surla crête de ce haut rocher et regarde ce que fait cette armée, quel en est le nombre, et par quelle route elle arrive avec ses tentes, ses éléphants et ses trônes.
 
-Bijen quittant l’assemblée et s’éloignant de la foule, gravit jusqu’au sommet de la montagne, et vit d’en haut de tous côtés des drapeaux, des cavaliers, des éléphants et des troupes.
+Bijen quittant l’assemblée et s’éloignant de la foule, gravit jusqu’au sommet de la montagne, et vit d’en haut de tous côtés des drapeaux, des cavaliers, des éléphants et des troupes.
 
 Il revint en courant auprès du Sipehbed, le cœur soucieux et en peine, et l’esprit troublé, et il lui dit :
 

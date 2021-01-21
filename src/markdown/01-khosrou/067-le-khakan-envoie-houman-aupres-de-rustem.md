@@ -31,9 +31,9 @@ Il courut à sa tente rapidement comme le vent, mit sur sa tête un autre casqu
 
 Arrivé près de Rustem, il examina ses bras et ses jambes, et lui dit :
 
-> Ô homme illustre, maître du lacet! ô héros vaillant cavalier!
+> Ô homme illustre, maître du lacet! ô héros vaillant cavalier!
 >
-> Je jure par Dieu que je désespère de mon trône, quand je vois un ennemi comme toi;
+> Je jure par Dieu que je désespère de mon trône, quand je vois un ennemi comme toi;
 >
 > Car dans cette nombreuse armée il n’y a pas un grand et puissant guerrier qui te soit comparable.
 >
@@ -101,13 +101,13 @@ Rustem lui répondit:
 
 Houman l’écoutait transi de peur, et le son de la voix de Rustem, qu’il entendait vouer à sa vengeance toute sa famille, le faisait trembler comme une feuille d’arbre; il répondit:
 
-> Ô homme au cœur de lion, ô héros avide de guerre, avec cette mine et cette haute stature, ta place devrait être le trône de l’Iran: et tu ne serais qu’un vaillant Pehlewan ou un grand de l’lran plein d’audace?
+> Ô homme au cœur de lion, ô héros avide de guerre, avec cette mine et cette haute stature, ta place devrait être le trône de l’Iran: et tu ne serais qu’un vaillant Pehlewan ou un grand de l’lran plein d’audace?
 >
 > Tu m’as demandé mon nom et mon origine;
 >
 > Mais il y a dans ton esprit une arrière-pensée.
 >
-> Mon nom, ô brave, est Gour-i-kouh; mon père est Bousipas, un vieillard qui ressemble à un lion.
+> Mon nom, ô brave, est Gour-i-kouh; mon père est Bousipas, un vieillard qui ressemble à un lion.
 >
 > Je suis venu de loin avec cette armée;
 >
