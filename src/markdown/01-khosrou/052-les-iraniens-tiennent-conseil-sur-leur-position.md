@@ -45,8 +45,8 @@ Guiv lui répondit:
 >
 > Et si c’est la volonté du Tout-Puissant qu’il nous arrive du malheur, ce ne sera ni la crainte ni les vains soucis qui détourneront de nous le mauvais sort.
 >
-> Creusons un fossé devant notre armée, comme c’est la coutume, la loi et la règle de la guerre;
+> Creusons un fossé devant notre armée, comme c’est la coutume, la loi et la règle de la guerre;
 >
 > Demain nous exhausserons notre retranchement, ensuite nous tirerons les épées du combat, nous verrons quel est leur plan, et leur secret se dévoilera certainement devant nous.
 >
-> Pendant ce temps nous recevrons des nouvelles de l’lran, et les branches, du noble cyprès brilleront de nouveau.
+> Pendant ce temps nous recevrons des nouvelles de l’lran, et les branches, du noble cyprès brilleront de nouveau.

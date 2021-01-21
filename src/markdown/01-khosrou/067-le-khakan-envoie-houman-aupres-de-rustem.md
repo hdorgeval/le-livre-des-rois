@@ -11,7 +11,7 @@ order: '067'
 
 Le Khakan dit à Houman:
 
-> La mauvaise fortune nous serre de près.
+> La mauvaise fortune nous serre de près.
 >
 > Ne voudrais-tu pas aller t’enquérir, comme tu pourras, du nom de cet illustre Pehlewan?
 
@@ -29,11 +29,11 @@ Houman lui dit:
 
 Il courut à sa tente rapidement comme le vent, mit sur sa tête un autre casque, choisit un autre drapeau et un autre cheval, une autre cuirasse et un bouclier d’une autre couleur, et partit.
 
-Arrivé près de Rustem, il examina ses bras et ses jambes, et lui dit :
+Arrivé près de Rustem, il examina ses bras et ses jambes, et lui dit :
 
 > Ô homme illustre, maître du lacet! ô héros vaillant cavalier!
 >
-> Je jure par Dieu que je désespère de mon trône, quand je vois un ennemi comme toi;
+> Je jure par Dieu que je désespère de mon trône, quand je vois un ennemi comme toi;
 >
 > Car dans cette nombreuse armée il n’y a pas un grand et puissant guerrier qui te soit comparable.
 >
@@ -47,13 +47,13 @@ Arrivé près de Rustem, il examina ses bras et ses jambes, et lui dit :
 >
 > J’aime un homme vaillant qui se comporte comme un léopard;
 >
-> Et si tu veux me dire ton nom, ton pays, ta province et ta demeure, tu me feras une faveur singulière et tu délivreras mon esprit d’un grand souci.
+> Et si tu veux me dire ton nom, ton pays, ta province et ta demeure, tu me feras une faveur singulière et tu délivreras mon esprit d’un grand souci.
 
 Rustem lui répondit:
 
 > Ô toi qui parles tant et qui veux parvenir à tes fins par des discours flatteurs, pourquoi ne me dis-tu pas ton nom, ton pays, ta province et ta demeure?
 >
-> Pourquoi viens-tu auprès de moi, me parlant si longuement et avec tant de douceur et de tendresse?
+> Pourquoi viens-tu auprès de moi, me parlant si longuement et avec tant de douceur et de tendresse?
 >
 > Si c’est la paix que tu désires, aide-moi à mettre fin à cette guerre.
 >
@@ -65,9 +65,9 @@ Rustem lui répondit:
 >
 > Et quand vous me les aurez renvoyés tous, alors je cesserai de faire la guerre aux Turcs;
 >
-> Alors vous serez tous mes amis, je vous honorerai et vous protégerai, nous ne nous vengerons plus, nous ne ferons plus la guerre, nous ne jetterons plus dans la poussière la tête des grands, et je raconterai à Keï Khosrou tout ce qui s’est passé;
+> Alors vous serez tous mes amis, je vous honorerai et vous protégerai, nous ne nous vengerons plus, nous ne ferons plus la guerre, nous ne jetterons plus dans la poussière la tête des grands, et je raconterai à Keï Khosrou tout ce qui s’est passé;
 >
-> Je purifierai son cœur et son cerveau de toute colère et du désir de la vengeance.
+> Je purifierai son cœur et son cerveau de toute colère et du désir de la vengeance.
 >
 > J’enverrai au roi ceux qui ont fait le mal, et peut-être sa clémence leur pardonnera.
 >
@@ -89,7 +89,7 @@ Rustem lui répondit:
 >
 > Je n’épargnerai ni Schenkoul ni le Khakan de la Chine.
 >
-> Tu as éprouvé ma valeur sur ce champ de bataille, tu connais mes coups et ma manière de guerroyer.
+> Tu as éprouvé ma valeur sur ce champ de bataille, tu connais mes coups et ma manière de guerroyer.
 >
 > Je suis accoutumé à combattre les Touraniens, je suis un des grands de l’Iran;
 >
@@ -105,9 +105,9 @@ Houman l’écoutait transi de peur, et le son de la voix de Rustem, qu’il ent
 >
 > Tu m’as demandé mon nom et mon origine;
 >
-> Mais il y a dans ton esprit une arrière-pensée.
+> Mais il y a dans ton esprit une arrière-pensée.
 >
-> Mon nom, ô brave, est Gour-i-kouh; mon père est Bousipas, un vieillard qui ressemble à un lion.
+> Mon nom, ô brave, est Gour-i-kouh; mon père est Bousipas, un vieillard qui ressemble à un lion.
 >
 > Je suis venu de loin avec cette armée;
 >
@@ -123,7 +123,7 @@ Rustem lui dit:
 
 > Ne cherche pas à connaître mon nom;
 >
-> Répète-leur ce que tu m’as entendu dire.
+> Répète-leur ce que tu m’as entendu dire.
 >
 > Mon âme brûle pour Piran, mon cœur est enflammé de tendresse pour lui;
 >

@@ -11,9 +11,9 @@ order: '049'
 
 Une nuit, à l’heure où l’on bat le tambour, Thous s’endormit le cœur blessé et plein de soucis.
 
-Il vit alors en songe un flambeau brillant qui s’élevait de l’eau, et au milieu de cette lumière un trône d’ivoire sur lequel était assis Siawusch, en grande pompe et une couronne sur la tête.
+Il vit alors en songe un flambeau brillant qui s’élevait de l’eau, et au milieu de cette lumière un trône d’ivoire sur lequel était assis Siawusch, en grande pompe et une couronne sur la tête.
 
-Ses lèvres souriaient, sa langue prononçait des paroles douces;
+Ses lèvres souriaient, sa langue prononçait des paroles douces;
 
 Il tournait vers Thous son visage semblable au soleil et lui disait:
 
@@ -29,13 +29,13 @@ Thous se réveilla tout joyeux, le cœur délivré de ses soucis et de ses peine
 
 Il ordonna alors de sonner des trompettes, et son armée s’ébranla sur la montagne.
 
-Les braves de l’Iran se ceignirent et élevèrent en l’air le drapeau de Kaweh.
+Les braves de l’Iran se ceignirent et élevèrent en l’air le drapeau de Kaweh.
 
-De son côté Piran amena son armée, et la poussière obscurcit l’éclat du jour;
+De son côté Piran amena son armée, et la poussière obscurcit l’éclat du jour;
 
 Les cris des guerriers se firent entendre, et une pluie de traits éblouit l’œil du soleil.
 
-Les deux armées restèrent ainsi en présence, mais aucun des braves n’eut envie de combattre.
+Les deux armées restèrent ainsi en présence, mais aucun des braves n’eut envie de combattre.
 
 Houman dit a Piran:
 
@@ -63,7 +63,7 @@ Piran lui dit :
 >
 > Et quand toutes leurs ressources seront épuisées, ils périront.
 >
-> Ne leur ouvrons pas un chemin ni en avant ni en arrière de leur camp.
+> Ne leur ouvrons pas un chemin ni en avant ni en arrière de leur camp.
 >
 > Si nous pouvons nous emparer de nos ennemis sans combat, cela vaut bien un retard d’un ou deux jours.
 >
@@ -73,9 +73,9 @@ Piran lui dit :
 >
 > Car, à moins de pouvoir vivre de terre et de pierres, ils périront demain.
 
-Ils se retirèrent alors du champ de bataille sous leurs tentes, et placèrent des vedettes le long du front de l’armée;
+Ils se retirèrent alors du champ de bataille sous leurs tentes, et placèrent des vedettes le long du front de l’armée;
 
-Les héros ôtèrent leurs ceintures et se mirent à manger et à dormir.
+Les héros ôtèrent leurs ceintures et se mirent à manger et à dormir.
 
 Thous se rendit aussi dans son camp, le cœur gonflé de sang et le visage rouge comme la sandaraque.
 
@@ -85,18 +85,18 @@ Il dit à Gouderz:
 >
 > Nous sommes entourés de troupes de tous côtés;
 >
-> Nos chevaux n’ont pour se nourrir que des épines, et l’armée elle-même va manquer de vivres, de sorte qu’il ne nous reste d’autre remède que nos massues et nos glaive.
+> Nos chevaux n’ont pour se nourrir que des épines, et l’armée elle-même va manquer de vivres, de sorte qu’il ne nous reste d’autre remède que nos massues et nos glaive.
 >
 > Tirons donc nos épées à la tombée de la nuit;
 >
-> Menons nos troupes au combat sur toute la lisière de la montagne.
+> Menons nos troupes au combat sur toute la lisière de la montagne.
 >
 > Si notre bonne étoile nous favorise, elle te donnera la victoire;
 >
 > Et si le maître du ciel nous fait périr par le glaive, nous ne pouvons ni ajouter ni ôter au sort que le Créateur nous destine.
 >
-> Ne t’inquiète donc pas follement.
+> Ne t’inquiète donc pas follement.
 >
 > J’aime mieux mourir en gardant un nom glorieux que de vivre craintif et déshonoré.
 
-Tous les Iraniens se rangèrent de l’avis qu’avait énoncé leur chef fortuné.
+Tous les Iraniens se rangèrent de l’avis qu’avait énoncé leur chef fortuné.

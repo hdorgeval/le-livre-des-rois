@@ -37,21 +37,21 @@ Feribourz lui répondit:
 >
 > Que Dieu répande sur toi ses bénédictions, car tu es le soutien et l’asile de l’armée, et c’est grâce à ta massue que les braves portent haut leurs casques.
 >
-> Sache, ô toi qui es digne du pays de l’Iran et du trône, du diadème et du sceau, que je suis frère du noble Siawusch;
+> Sache, ô toi qui es digne du pays de l’Iran et du trône, du diadème et du sceau, que je suis frère du noble Siawusch;
 >
 > Que je suis de sa race et de sa famille, et que j’aime la femme qui lui a survécu, ô héros qui portes haut la tête.
 >
-> Si tu voulais en parler au roi, tu placerais sur ma tête le plus beau des diadèmes.
+> Si tu voulais en parler au roi, tu placerais sur ma tête le plus beau des diadèmes.
 
 Rustem lui dit:
 
 > C’est à toi d’ordonner, et je terminerai cette affaire comme tu le désires.
 
-Le héros au corps d’éléphant se rendit auprès du roi et lui dit:
+Le héros au corps d’éléphant se rendit auprès du roi et lui dit:
 
 > Ô glorieux Khosrou, j’ai à demander une grâce au roi;
 >
-> Et s’il me l’accorde, ma tête s’élèvera au-dessus du cercle de la lune.
+> Et s’il me l’accorde, ma tête s’élèvera au-dessus du cercle de la lune.
 >
 > Le roi me permet-il de le faire?
 >
@@ -61,7 +61,7 @@ Khosrou lui répondit:
 
 > Ô Pehlewan, puisses-tu vivre éternellement et être heureux!
 >
-> Demande-moi tout ce que tu voudras, fût-ce mon trône, mon sceau, ma couronne et mon diadème.
+> Demande-moi tout ce que tu voudras, fût-ce mon trône, mon sceau, ma couronne et mon diadème.
 
 Rustem lui dit alors:
 
@@ -75,7 +75,7 @@ Rustem lui dit alors:
 >
 > Je ne connais pas son pareil en bravoure et en sagesse.
 >
-> Il a maintenant à soumettre au roi une prière, qui d’un frère fait un suppliant : puisqu’il s’apprête à se battre pour toi et qu’il va rejoindre les Iraniens, il désire obtenir la fille d’Afrasiab pour gardienne de son palais et de son trésor, et pour confidente de ses peines, comme la lune est la compagne du soleil.
+> Il a maintenant à soumettre au roi une prière, qui d’un frère fait un suppliant : puisqu’il s’apprête à se battre pour toi et qu’il va rejoindre les Iraniens, il désire obtenir la fille d’Afrasiab pour gardienne de son palais et de son trésor, et pour confidente de ses peines, comme la lune est la compagne du soleil.
 >
 > Voilà ce qu’il a voulu que je disse au roi, car c’est en cela qu’il a mis l’espoir de son bonheur
 
@@ -91,9 +91,9 @@ Il y réfléchit et répondit:
 >
 > Mais si elle veut m’écouter, je lui donnerai des conseils que peut-être sa raison lui fera accepter.
 
-Le roi plein de bienveillance et Tehemten se rendirent auprès de cette lune, et Khosrou dit à sa mère:
+Le roi plein de bienveillance et Tehemten se rendirent auprès de cette lune, et Khosrou dit à sa mère:
 
-> Ô toi qui est restée dans le monde comme un souvenir de mon père, tu es mon asile dans la bonne et la mauvaise fortune;
+> Ô toi qui est restée dans le monde comme un souvenir de mon père, tu es mon asile dans la bonne et la mauvaise fortune;
 >
 > Tu es ma reine, et je ne suis que ton ministre.
 >
@@ -111,9 +111,9 @@ Le roi plein de bienveillance et Tehemten se rendirent auprès de cette lune, e
 >
 > Puissent le pouvoir et le bonheur t’accompagner!
 
-La mère de Khosrou écouta ses paroles, qui firent revivre en elle le souvenir des temps anciens;
+La mère de Khosrou écouta ses paroles, qui firent revivre en elle le souvenir des temps anciens;
 
-Au fond de son âme elle était remplie d’angoisses et de colère, et à la fin elle dit en versant des larmes:
+Au fond de son âme elle était remplie d’angoisses et de colère, et à la fin elle dit en versant des larmes:
 
 > Je n’ai aucun ressentiment contre Rustem;
 >
@@ -123,9 +123,9 @@ Au fond de son âme elle était remplie d’angoisses et de colère, et à la
 
 Le vaillant Pehlewan au corps d’éléphant lui dit:
 
-> Ô reine des reines, tu es la plus illustre des princesses et l’ornement de la couronne, tu es digne du diadème et du trône d’ivoire.
+> Ô reine des reines, tu es la plus illustre des princesses et l’ornement de la couronne, tu es digne du diadème et du trône d’ivoire.
 
-Après l’avoir comblée de louanges, il continua:
+Après l’avoir comblée de louanges, il continua:
 
 > Ô délices du peuple, la pureté de ta nature est l’objet de tous les hommages.
 >
@@ -171,19 +171,19 @@ A la fin elle dit:
 >
 > Ce que le roi glorieux ordonne, il faut s’y soumettre.
 
-C’est ainsi que la mère du roi consentit;
+C’est ainsi que la mère du roi consentit;
 
-Et ses joues brillèrent comme une rose au printemps naissant.
+Et ses joues brillèrent comme une rose au printemps naissant.
 
 Rustem se hâta de conclure cette affaire, et ne la laissa pas traîner en longueur;
 
 On appela un Mobed, on lui fit écrire un acte selon les formes, et le Pehlewan de l’armée ne se reposa pas avant d’avoir uni au prince cette lune.
 
-C’est ainsi que Feribourz devint, par l’ordre de Keï Khosrou, beau-père du roi, et Rustem fut alors libre de partir.
+C’est ainsi que Feribourz devint, par l’ordre de Keï Khosrou, beau-père du roi, et Rustem fut alors libre de partir.
 
 Khosrou combla d’honneurs le Pehlewan, et lui donna un rang plus élevé, une robe d’honneur et une nouvelle couronne.
 
-Trois jours s’étant passés là-dessus, le quatrième tout était conclu, et alors le Pehlewan Rustem partit pour la guerre avec les héros pleins de valeur.
+Trois jours s’étant passés là-dessus, le quatrième tout était conclu, et alors le Pehlewan Rustem partit pour la guerre avec les héros pleins de valeur.
 
 Feribourz avec un corps de troupes le précéda, étincelant comme un astre au firmament.
 

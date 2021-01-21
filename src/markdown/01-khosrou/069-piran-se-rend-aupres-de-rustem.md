@@ -11,7 +11,7 @@ order: '069'
 
 Piran partit rempli de crainte et d’inquiétude, et le cœur navré de l’arrivée de Rustem.
 
-Quand il fut près de l’armée de l’Iran, il s’écria:
+Quand il fut près de l’armée de l’Iran, il s’écria:
 
 > Ô puissant guerrier, j’ai ouï dire que de cette armée innombrable de Turcs tu désirais ne voir que moi, et j’ai quitté mon camp pour savoir ce que me veut le Sipehbed.
 
@@ -37,7 +37,7 @@ Rustem dit:
 
 Piran, lorsqu’il entendit cette voix superbe, descendit de cheval et rendit ses hommages à Rustem qui lui dit:
 
-> Ô Pehlewan, je t’apporte les saluts du soleil à la face brillante (de Khosrou), et de sa mère, fille d’Afrasiab, qui voit toutes les nuits ton visage en songe.
+> Ô Pehlewan, je t’apporte les saluts du soleil à la face brillante (de Khosrou), et de sa mère, fille d’Afrasiab, qui voit toutes les nuits ton visage en songe.
 
 Piran lui répondit:
 
@@ -57,7 +57,7 @@ Piran lui répondit:
 >
 > Mais maintenant il est devenu la source de mes peines, et au lieu de thériaque il ne me rapporte que du poison.
 >
-> Siawusch me regardait comme son père;
+> Siawusch me regardait comme son père;
 >
 > Il interposait son bouclier entre moi et le malheur.
 >
@@ -77,7 +77,7 @@ Piran lui répondit:
 >
 > Car dans mon deuil, dans mon impuissance et ma tristesse, je me trouvais entre deux pays et deux puissants rois.
 >
-> J’ai sauvé la vie de Ferenguis au péril de la mienne, car son père voulait la faire périr;
+> J’ai sauvé la vie de Ferenguis au péril de la mienne, car son père voulait la faire périr;
 >
 > Je l’ai recueillie en secret dans ma maison et l’y ai tenue cachée, et Afrasiab demande ma vie par représailles;
 >
@@ -107,7 +107,7 @@ Piran lui répondit:
 >
 > Je jure par l’âme glorieuse de Siawusch qu’il me serait plus doux de mourir que d’avoir à prendre l’épée, le casque et la cuirasse.
 >
-> Quand ces armées auront livré bataille, tu verras des montagnes de cadavres d’hommes de Kaschan, du Seklab, de Schikin et de l’Inde, qui couvriront tout depuis cette frontière jusqu’à la mer du Sind;
+> Quand ces armées auront livré bataille, tu verras des montagnes de cadavres d’hommes de Kaschan, du Seklab, de Schikin et de l’Inde, qui couvriront tout depuis cette frontière jusqu’à la mer du Sind;
 >
 > Et ce sont tous des hommes innocents de la mort de Siawusch, des soldats qu’on a traînés ici pour se battre.
 >
@@ -121,7 +121,7 @@ Rustem écouta les paroles de Piran, mais il ne lui répondit pas selon son dés
 
 > Depuis que j’ai pris les armes avec les guerriers du roi pour vous faire la guerre, je n’ai reconnu en toi que de la droiture, et je sais que tu l’as toujours conseillée aux Turcs.
 >
-> Le léopard même comprend que la guerre et le combat ne sont pas bons, et la montagne et le rocher le savent; mais quand le roi des rois a une vengeance à exercer, il faut s’attendre à voir pleuvoir des flèches.
+> Le léopard même comprend que la guerre et le combat ne sont pas bons, et la montagne et le rocher le savent; mais quand le roi des rois a une vengeance à exercer, il faut s’attendre à voir pleuvoir des flèches.
 >
 > Maintenant je vous offre la paix à deux conditions, réfléchis si elles vous conviennent.
 >
@@ -129,15 +129,15 @@ Rustem écouta les paroles de Piran, mais il ne lui répondit pas selon son dés
 >
 > Tous ceux qui sont coupables d’avoir répandu ce sang innocent, quand même ils ne se trouveraient pas sur ce champ de bataille.
 >
-> Ensuite tu te prépareras à te rendre avec moi auprès du roi victorieux.
+> Ensuite tu te prépareras à te rendre avec moi auprès du roi victorieux.
 >
 > Tout ce que tu laisseras ici, et quelle que soit la valeur à laquelle tu l’estimes, le roi te le rendra dix fois; ne regrette donc pas les bagages de l’armée du Touran.
 
 Piran dit en lui-même:
 
-> C’est une affaire grave que de quitter le Touran pour me rendre auprès de ce roi.
+> C’est une affaire grave que de quitter le Touran pour me rendre auprès de ce roi.
 >
-> Et puis, s’il exige qu’on lui livre ceux qui ont fait le mal, c’est que, pour venger Siawusch, il veut tuer les parents d’Afrasiab et les grands de sa cour, des hommes qui possèdent des trésors, des couronnes et les plus grandes charges de l’empire.
+> Et puis, s’il exige qu’on lui livre ceux qui ont fait le mal, c’est que, pour venger Siawusch, il veut tuer les parents d’Afrasiab et les grands de sa cour, des hommes qui possèdent des trésors, des couronnes et les plus grandes charges de l’empire.
 >
 > Comment Oserai-je seulement en parler?
 >

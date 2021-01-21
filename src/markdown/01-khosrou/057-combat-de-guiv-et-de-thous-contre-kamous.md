@@ -15,11 +15,11 @@ Il rassembla ses troupes et leur donna des cuirasses;
 
 Son cœur était plein d’ardeur pour le combat et sa tête remplie de vent.
 
-Il portait une cotte de mailles au lieu de robe, un casque au lieu de diadème, une cuirasse au lieu de tunique;
+Il portait une cotte de mailles au lieu de robe, un casque au lieu de diadème, une cuirasse au lieu de tunique;
 
 Il choisit parmi les braves une troupe couverte de brocart et de fer;
 
-On ne voyait plus de chemin d’une mer à l’autre, à cause de la poussière et des épées et des cuirasses.
+On ne voyait plus de chemin d’une mer à l’autre, à cause de la poussière et des épées et des cuirasses.
 
 Le cri de la sentinelle avertit les Iraniens qu’une armée s’approchait de l’occident, et que le drapeau du Sipehbed au corps d’éléphant, qui précédait les troupes, était visible.
 
@@ -37,31 +37,31 @@ Sa massue, appuyée contre son bras et son épaule, semblait bouillonner d’imp
 
 De l’autre côté Thous le Sipehdar de l’Iran fit retentir le ciel du son des timbales;
 
-Lorsqu’il entendit le cri de la sentinelle, il fut content et heureux, se rendit auprès de Gouderz fils de Keschwad, envoya un cavalier auprès de Feribourz et lui fit dire:
+Lorsqu’il entendit le cri de la sentinelle, il fut content et heureux, se rendit auprès de Gouderz fils de Keschwad, envoya un cavalier auprès de Feribourz et lui fit dire:
 
 > Les Touraniens s’avancent pour livrer bataille;
 >
-> Ils ont formé leurs rangs et nous serrent de près.
+> Ils ont formé leurs rangs et nous serrent de près.
 >
 > Il ne faut pas qu’ils puissent se jeter sur nous en masse et nous détruire isolément.
 >
 > Agis donc comme il convient à un homme de ta race;
 >
-> Car tu es un prince, et ton père est un roi.
+> Car tu es un prince, et ton père est un roi.
 >
-> La poussière que soulève Tehemten paraît sur la route, et il va arriver sur le champ de bataille.
+> La poussière que soulève Tehemten paraît sur la route, et il va arriver sur le champ de bataille.
 
 Feribourz réunit son armée de héros à celle de Zengueh, de Thous et de Guiv;
 
-Ils rangèrent leurs troupes sur les hauteurs et parèrent leurs drapeaux fortunés.
+Ils rangèrent leurs troupes sur les hauteurs et parèrent leurs drapeaux fortunés.
 
-Lorsque les deux ailes furent alignées, et que la réserve, le centre et les bagages furent placés, les trompettes sonnèrent et l’armée s’ébranla, semblable au ciel étoilé. Kamous de son côté se voyant en présence de l’ennemi, ne s’arrêta pas un instant dans la plaine;
+Lorsque les deux ailes furent alignées, et que la réserve, le centre et les bagages furent placés, les trompettes sonnèrent et l’armée s’ébranla, semblable au ciel étoilé. Kamous de son côté se voyant en présence de l’ennemi, ne s’arrêta pas un instant dans la plaine;
 
-Il mit en mouvement son armée, pareille à un torrent qui d’une montagne se précipite dans une rivière, et l’amena devant le Hemawen.
+Il mit en mouvement son armée, pareille à un torrent qui d’une montagne se précipite dans une rivière, et l’amena devant le Hemawen.
 
 L’air s’obscurcit et la terre disparut sous cette armée.
 
-Lorsque Kamous fut tout près des Iraniens, il leva la tête vers la montagne et leur dit en souriant:
+Lorsque Kamous fut tout près des Iraniens, il leva la tête vers la montagne et leur dit en souriant:
 
 > Vous n’avez eu jusqu’à présent qu’un faible adversaire;
 >
@@ -69,15 +69,15 @@ Lorsque Kamous fut tout près des Iraniens, il leva la tête vers la montagne 
 >
 > Vous avez amené de l’Iran une armée avide de combats qui va se mesurer avec moi, et vous allez voir ma poitrine, mes bras et ma stature, mon épée tranchante et ma massue.
 
-Guiv entendit ces paroles; il bondit de colère et tira son épée, et se dit en voyant Kamous devant lui:
+Guiv entendit ces paroles; il bondit de colère et tira son épée, et se dit en voyant Kamous devant lui:
 
 > Il n’y a qu’un éléphant furieux qui soit l’égal de cet homme!
 
 Il tira son arc de l’étui et le banda;
 
-Il invoqua l’aide de Dieu de qui vient le bonheur, et fit pleuvoir sur Kamous des flèches que jetait son arc, comme un nuage de printemps verse de la pluie.
+Il invoqua l’aide de Dieu de qui vient le bonheur, et fit pleuvoir sur Kamous des flèches que jetait son arc, comme un nuage de printemps verse de la pluie.
 
-Quand Kamous sentit comment cette main lançait des flèches, il couvrit sa tête de son bouclier, et semblable à un loup, il s’avança à travers les morts qui jonchaient la terre et la grêle de traits qui remplissait l’air.
+Quand Kamous sentit comment cette main lançait des flèches, il couvrit sa tête de son bouclier, et semblable à un loup, il s’avança à travers les morts qui jonchaient la terre et la grêle de traits qui remplissait l’air.
 
 Ayant atteint son ennemi, il le frappa de sa lance à la ceinture.
 
@@ -97,10 +97,10 @@ Le cheval de Thous fit un bond et s’abattit;
 
 Le Sipehbed invoqua le nom de Dieu sur lui, et s’avança vers Kamous a pied et une lance en main, à la vue de l’armée.
 
-Ils étaient deux nobles héros contre un seul cavalier, mais le brave de Kaschan ne se découragea pas, et ils remplirent la plaine du tumulte de leur combat jusqu’à ce que les ténèbres eussent remplacé le soleil.
+Ils étaient deux nobles héros contre un seul cavalier, mais le brave de Kaschan ne se découragea pas, et ils remplirent la plaine du tumulte de leur combat jusqu’à ce que les ténèbres eussent remplacé le soleil.
 
-Mais lorsque la plaine fut devenue noire comme l’ébène, Kamous et Thous se séparèrent;
+Mais lorsque la plaine fut devenue noire comme l’ébène, Kamous et Thous se séparèrent;
 
-Les deux armées rentrèrent sous leurs tentes;
+Les deux armées rentrèrent sous leurs tentes;
 
 L’un des combattants s’en retourna vers la plaine, les deux autres revinrent dans la montagne.

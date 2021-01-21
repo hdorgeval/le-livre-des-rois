@@ -21,13 +21,13 @@ Kamous lui dit:
 
 Rustem répondit:
 
-> Quand un lion aperçoit une proie, il mugit fièrement.
+> Quand un lion aperçoit une proie, il mugit fièrement.
 >
 > C’est toi qui as provoqué ce combat, tu as tué un des braves de l’Iran.
 >
 > Tu appelles mon lacet un fil, mais tu verras combien le nœud en sera serré.
 >
-> Le destin, ô homme de Kaschan, t’a amené dans ce lien où la poussière qui doit te recouvrir est le seul gîte qui te reste.
+> Le destin, ô homme de Kaschan, t’a amené dans ce lien où la poussière qui doit te recouvrir est le seul gîte qui te reste.
 
 Kamous lança son destrier, il vit que son ennemi l’attendait plein de confiance en sa force;
 
@@ -51,15 +51,15 @@ Alors il s’approcha de lui, le lia avec son lacet et lui dit:
 >
 > La magie et les incantations t’ont fait défaut, et ton esprit est devenu en vain l’esclave du Div.
 
-Il lui lia fortement les deux mains derrière le dos avec son lacet, le saisit par les liens, et s’en fut à pied vers l’armée de l’Iran portant son ennemi sous le bras.
+Il lui lia fortement les deux mains derrière le dos avec son lacet, le saisit par les liens, et s’en fut à pied vers l’armée de l’Iran portant son ennemi sous le bras.
 
 Il dit aux braves:
 
 > Cet homme avide de combats a voulu se mesurer avec moi, se fiant à sa force et à sa puissance.
 >
-> Mais telle est la coutume de ce monde trompeur, tantôt il nous élève, tantôt il nous abaisse;
+> Mais telle est la coutume de ce monde trompeur, tantôt il nous élève, tantôt il nous abaisse;
 >
-> C’est lui qui est la source de la joie et de la tristesse, qui nous déprime jusqu’à terre ou nous élève jusqu’aux nuages.
+> C’est lui qui est la source de la joie et de la tristesse, qui nous déprime jusqu’à terre ou nous élève jusqu’aux nuages.
 >
 > Maintenant ce brave qui portait haut la tête, dont le lion courageux n’était pas l’égal dans le combat, qui était parti pour dévaster l’lran, pour faire de notre pays la demeure des lions;
 >
@@ -67,15 +67,15 @@ Il dit aux braves:
 >
 > Maintenant sa cuirasse et son casque lui serviront de linceul;
 >
-> La terre formera son diadème, et la poussière sa tunique.
+> La terre formera son diadème, et la poussière sa tunique.
 >
 > De quelle mort voulez-vous que meure le vaillant Kamous?
 >
 > Car son heure est venue.
 
-Il le jeta par terre devant les grands, et les chefs de l’armée sortirent des rangs, lui hachèrent le corps avec leurs épées, et inondèrent sous lui de son sang les pierres et la terre.
+Il le jeta par terre devant les grands, et les chefs de l’armée sortirent des rangs, lui hachèrent le corps avec leurs épées, et inondèrent sous lui de son sang les pierres et la terre.
 
-Telle est la coutume du ciel et du temps, ils amènent tantôt la douleur et le chagrin, tantôt la joie.
+Telle est la coutume du ciel et du temps, ils amènent tantôt la douleur et le chagrin, tantôt la joie.
 
 Il faut subir les soucis et les fatigues, les inquiétudes et les peines, et la bravoure ne t’en délivrera pas.
 

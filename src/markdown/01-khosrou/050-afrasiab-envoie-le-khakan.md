@@ -11,15 +11,15 @@ order: '050'
 
 Lorsque le soleil eut montré dans le signe du Cancer la pointe de ses doigts, et qu’il eut déchiré son voile noir, un messager du roi se présenta devant Piran, disant:
 
-> Il arrive une armée innombrable, et tirée de toutes les parties de l’empire et commandée par le Khakan de la Chine, à qui le ciel sert de diadème et la terre de trône;
+> Il arrive une armée innombrable, et tirée de toutes les parties de l’empire et commandée par le Khakan de la Chine, à qui le ciel sert de diadème et la terre de trône;
 >
-> Une armée qui couvrira dans un jour de bataille la mer de la Chine de poussière comme un désert.
+> Une armée qui couvrira dans un jour de bataille la mer de la Chine de poussière comme un désert.
 >
-> Un grand du Mawer-al-Nahr, dont la tête s’élève au-dessus du ciel qui tourne, l’accompagne;
+> Un grand du Mawer-al-Nahr, dont la tête s’élève au-dessus du ciel qui tourne, l’accompagne;
 >
 > Son corps a la force de cent lions;
 >
-> Il foule aux pieds la tête d’un éléphant furieux; sa taille ressemble au cyprès;
+> Il foule aux pieds la tête d’un éléphant furieux; sa taille ressemble au cyprès;
 >
 > Il est beau comme la lune;
 >
@@ -27,13 +27,13 @@ Lorsque le soleil eut montré dans le signe du Cancer la pointe de ses doigts, e
 >
 > Il anéantira Gouderz et Thous;
 >
-> Il amène une armée tirée de tous les pays habités entre la frontière du Sipenjab et celle du Roum.
+> Il amène une armée tirée de tous les pays habités entre la frontière du Sipenjab et celle du Roum.
 >
 > Ensuite il y a le vaillant Manschour, qui abat avec son épée la tête de tous ceux qui le combattent;
 >
 > Enfin Kamous de Kaschan, toujours prêt à frapper avec le glaive;
 >
-> Son œil n’a jamais vu de défaite, il réussit dans toutes ses entreprises, sa colère amène l’orage et la neige, son contentement fait naître le printemps, les roses et les hyacinthes, et jaillir des ruisseaux d’eau limpide.
+> Son œil n’a jamais vu de défaite, il réussit dans toutes ses entreprises, sa colère amène l’orage et la neige, son contentement fait naître le printemps, les roses et les hyacinthes, et jaillir des ruisseaux d’eau limpide.
 
 Piran dit aux Touraniens:
 
@@ -45,7 +45,7 @@ Piran dit aux Touraniens:
 >
 > Et vous ne verrez plus régner sur l’Iran et le Touran, sur la terre et les mers, que la volonté d’Afrasiab.
 
-De nouveaux messagers arrivaient incessamment de l’armée auprès du Pehlewan, disant :
+De nouveaux messagers arrivaient incessamment de l’armée auprès du Pehlewan, disant :
 
 > Ô illustre Pehlewan, puisses-tu vivre heureux et à jamais!
 >
@@ -89,15 +89,15 @@ Il dit à Houman:
 >
 > Quiconque tombera armé dans mes mains, je lui abattrai la tête avec le glaive;
 >
-> Puis je brûlerai les corps, j’en jetterai au vent la poussière, et j’effacerai jusqu’au nom de ce pays.
+> Puis je brûlerai les corps, j’en jetterai au vent la poussière, et j’effacerai jusqu’au nom de ce pays.
 >
 > Ensuite je partagerai mon armée en trois corps, et obscurcirai le jour devant les yeux du roi de l’Iran.
 >
-> J’enverrai la première armée à Balkh, et j’y rendrai la vie amère aux Iraniens;
+> J’enverrai la première armée à Balkh, et j’y rendrai la vie amère aux Iraniens;
 >
 > La seconde marchera contre le Zaboulistan et dévastera le pays de Kaboul;
 >
-> Avec la troisième, composée des grands et des lions du Touran, je marcherai vers l’Iran;
+> Avec la troisième, composée des grands et des lions du Touran, je marcherai vers l’Iran;
 >
 > Je ne laisserai en vie ni une femme, ni un petit enfant, ni un vieillard, ni un jeune homme;
 >

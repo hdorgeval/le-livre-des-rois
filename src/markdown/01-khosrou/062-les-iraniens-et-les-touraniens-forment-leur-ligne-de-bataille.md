@@ -9,19 +9,19 @@ order: '062'
 
 # Les Iraniens et les Touraniens forment leur ligne de bataille
 
-Lorque le soleil couchant répandit sur le monde une teinte de rubis, et que la nuit commença sa marche à travers le ciel, tous les braves de l’armée, tous ceux qui étaient de bon conseil et savaient frapper de l’épée, se rassemblèrent et se rendirent à la tente du Khakan, le cœur plein d’ardeur pour le combat et la vengeance : c’étaient Kamous le destructeur des hommes, le lion;
+Lorque le soleil couchant répandit sur le monde une teinte de rubis, et que la nuit commença sa marche à travers le ciel, tous les braves de l’armée, tous ceux qui étaient de bon conseil et savaient frapper de l’épée, se rassemblèrent et se rendirent à la tente du Khakan, le cœur plein d’ardeur pour le combat et la vengeance : c’étaient Kamous le destructeur des hommes, le lion;
 
 Manschour le vaillant, qui décidait du sort des batailles;
 
 Schemiran de Schikin, Schenkoul l’Indien, Kender du pays de Seklab, et le roi du Sind.
 
-Chacun dit son avis sur la bataille à livrer, chacun parla des Iraniens, et tous arrêtèrent d’un commun accord qu’il fallait laver ses mains dans le sang.
+Chacun dit son avis sur la bataille à livrer, chacun parla des Iraniens, et tous arrêtèrent d’un commun accord qu’il fallait laver ses mains dans le sang.
 
 Ensuite ils sortirent pour aller se reposer;
 
 Mais ils ne purent dormir dans leurs tentes, malgré le désir qu’ils en avaient.
 
-Lorsque la lune, que les nuits successives avaient courbée et réduite à un mince croissant, en l’enveloppant dans les boucles de leurs cheveux, se fut approchée du soleil, et que celui-ci eut paru dans sa splendeur et la face inondée de lumière, les deux armées se mirent avec grand bruit en mouvement, et leurs cris montèrent aux sphères célestes.
+Lorsque la lune, que les nuits successives avaient courbée et réduite à un mince croissant, en l’enveloppant dans les boucles de leurs cheveux, se fut approchée du soleil, et que celui-ci eut paru dans sa splendeur et la face inondée de lumière, les deux armées se mirent avec grand bruit en mouvement, et leurs cris montèrent aux sphères célestes.
 
 Le Khakan dit:
 
@@ -39,7 +39,7 @@ Le Khakan dit:
 >
 > Il y a ici les héros de dix royaumes, et il ne s’agit pas de nous asseoir pour manger et pour dormir.
 
-Les grands se levèrent tous de leurs places applaudissant aux paroles du Khakan et s’écriant:
+Les grands se levèrent tous de leurs places applaudissant aux paroles du Khakan et s’écriant:
 
 > Tu es aujourd’hui le chef de l’armée, les pays de la Chine et du Touran sont à toi, et tu vas voir sur ce champ de bataille que des nuages noirs il jaillira des épées.
 
@@ -51,7 +51,7 @@ De son côté Rustem parla ainsi aux Iraniens:
 >
 > Ainsi n’ayez pas de crainte, car je ne veux pas vivre sans renom et sans honneur.
 >
-> Toute l’armée des Turcs s’est retirée les joues noires comme l’ébène, lorsqu’elle a vu la mort de cet Aschkebous.
+> Toute l’armée des Turcs s’est retirée les joues noires comme l’ébène, lorsqu’elle a vu la mort de cet Aschkebous.
 >
 > Remplissez donc vos cœurs du désir de la vengeance;
 >
@@ -65,7 +65,7 @@ De son côté Rustem parla ainsi aux Iraniens:
 
 Les grands le bénirent, disant :
 
-> Puissent le diadème et le sceau prospérer par tes efforts !
+> Puissent le diadème et le sceau prospérer par tes efforts !
 
 Rustem se revêtit de son armure de combat, et se rendit sur le champ de bataille plein de confiance en sa force.
 

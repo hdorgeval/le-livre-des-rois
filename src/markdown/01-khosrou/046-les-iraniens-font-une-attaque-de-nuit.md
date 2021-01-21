@@ -35,7 +35,7 @@ order: '046'
 
 # Les Iraniens font une attaque de nuit
 
-Gouderz et Thous devinèrent le plan des Touraniens, et la tête des grands fut troublée par cette ruse.
+Gouderz et Thous devinèrent le plan des Touraniens, et la tête des grands fut troublée par cette ruse.
 
 Le vieux Gouderz dit à Thous:
 
@@ -53,7 +53,7 @@ Le vieux Gouderz dit à Thous:
 >
 > Telle est la fin de toute lutte;
 >
-> L’un trouve une tombe, l’autre atteint la sphère de la lune.
+> L’un trouve une tombe, l’autre atteint la sphère de la lune.
 
 Thous écouta Gouderz tandis que sa douleur et sa vieille haine se réveillaient;
 
@@ -85,21 +85,21 @@ Le sang coula de ses yeux sur sa poitrine, et il cria d’une voix forte à ses
 >
 > Ne perdez pas de temps à vous revêtir de vos armures.
 
-On entendit le son des trompettes, et les braves s’ébranlèrent de tous côtés;
+On entendit le son des trompettes, et les braves s’ébranlèrent de tous côtés;
 
-Ils entourèrent les cavaliers iraniens comme des lions féroces;
+Ils entourèrent les cavaliers iraniens comme des lions féroces;
 
-Les épées et les casques étincelèrent, il semblait pleuvoir des massues à travers le brouillard;
+Les épées et les casques étincelèrent, il semblait pleuvoir des massues à travers le brouillard;
 
-La nuit sombre, les épées et la poussière faisaient disparaître les étoiles, Vénus et la lune;
+La nuit sombre, les épées et la poussière faisaient disparaître les étoiles, Vénus et la lune;
 
-Il semblait que les Iraniens étaient entourés d’un mur de cuirasses, et qu’ils nageaient dans les ténèbres comme dans une mer de poix.
+Il semblait que les Iraniens étaient entourés d’un mur de cuirasses, et qu’ils nageaient dans les ténèbres comme dans une mer de poix.
 
 Houman dit aux siens:
 
 > Ne tuez plus aucun de ces grands;
 >
-> Amenez-les-moi tous captifs et sans les blesser par des coups de flèches!
+> Amenez-les-moi tous captifs et sans les blesser par des coups de flèches!
 
 Mais toute l’armée s’écriait:
 
@@ -111,11 +111,11 @@ Thous dit à Guiv et à Rehham:
 >
 > Et si le créateur du ciel sublime ne tire pas de ce danger nos corps et nos âmes, nous sommes sous le coup d’aile de l’aigle, ou noyés dans les flots de la mer.
 
-Ces trois héros firent une attaque ensemble, comme des lions qui bondissent dans leur colère;
+Ces trois héros firent une attaque ensemble, comme des lions qui bondissent dans leur colère;
 
 Mais du côté des Touraniens s’éleva le bruit des clairons et des trompettes et le son des timbales et des clochettes indiennes;
 
-On ne voyait plus les rênes et les crinières des chevaux, et la mêlée était telle qu’on se crevait les yeux avec les lances;
+On ne voyait plus les rênes et les crinières des chevaux, et la mêlée était telle qu’on se crevait les yeux avec les lances;
 
 Houman s’écria d’une voix perçante:
 
@@ -127,7 +127,7 @@ De ceux qui étaient venus livrer combat il ne restait déjà plus que les troi
 
 Ils prononçaient fréquemment le nom de Rustem toujours victorieux;
 
-Ils parlaient beaucoup de Schidousch, de Bijen et de Gustehem, car ils ne voyaient au milieu des ténèbres aucun Iranien sur le champ de bataille; Ils s’écrièrent:
+Ils parlaient beaucoup de Schidousch, de Bijen et de Gustehem, car ils ne voyaient au milieu des ténèbres aucun Iranien sur le champ de bataille; Ils s’écrièrent:
 
 > Nous sommes venus ici pour lutter et pour combattre;
 >
@@ -149,11 +149,11 @@ Et Bijen répétait à Gourazeh:
 
 > Le chef de l’armée reste absent bien longtemps
 
-lorsque au milieu de l’air sombre et des ténèbres d’ébène qui couvraient la terre ils entendirent dans la plaine les cris de Thous.
+lorsque au milieu de l’air sombre et des ténèbres d’ébène qui couvraient la terre ils entendirent dans la plaine les cris de Thous.
 
-Les héros partirent en se guidant sur le son de cette voix, ils trouvèrent la plaine partout inondée de sang;
+Les héros partirent en se guidant sur le son de cette voix, ils trouvèrent la plaine partout inondée de sang;
 
-Arrivés plus près de leur Sipehdar, ils saisirent tous leurs lourdes massues.
+Arrivés plus près de leur Sipehdar, ils saisirent tous leurs lourdes massues.
 
 Alors on lâcha les brides, on s’appesantit sur les étriers, et l’on ne distinguait plus ce qui était haut de ce qui était bas.
 
@@ -165,7 +165,7 @@ Thous aussi vit qu’il lui arrivait des secours;
 
 Il poussa des cris semblables au son des timbales;
 
-Le combat continua jusqu’à l’aube du jour, et lorsque le soleil qui éclaire le monde parut, les héros retirèrent leurs troupes du combat, et les ramenèrent vers la montagne et les rochers.
+Le combat continua jusqu’à l’aube du jour, et lorsque le soleil qui éclaire le monde parut, les héros retirèrent leurs troupes du combat, et les ramenèrent vers la montagne et les rochers.
 
 Thous leur dit:
 
@@ -179,7 +179,7 @@ Thous leur dit:
 >
 > Je prie Dieu le saint qu’il n’arrive pas de mal à cette armée, je ne cesse d’avoir en lui la confiance qu’il nous fera partir d’ici le cœur en joie;
 >
-> J’espère que par sa grâce et sans délai, une armée rapide comme la fumée nous rejoindra.
+> J’espère que par sa grâce et sans délai, une armée rapide comme la fumée nous rejoindra.
 >
 > Le messager monté sur un dromadaire de course, qui est parti pour la cour du roi de la terre, doit maintenant être arrivé, et quand le roi aura reçu ma lettre, son cœur se sera enflammé d’une ardeur nouvelle, et le héros au cœur d’éléphant viendra à notre aide avec une armée de vaillants lions.
 >
@@ -201,4 +201,4 @@ Houman visita le champ de bataille où il eut de la peine à se frayer un chem
 >
 > Mais lorsque mes héros, mes nobles destriers et mes troupes auront pris du repos, je livrerai une bataille telle que le soleil et la lune n’en ont jamais vu de semblable.
 
-Ayant ainsi parlé, ils se quittèrent, chacun méditant un plan différent.
+Ayant ainsi parlé, ils se quittèrent, chacun méditant un plan différent.

@@ -17,7 +17,7 @@ L’air était agité, la plaine et la montagne tremblaient, et la terre s’éb
 
 Kamous occupait la droite de la ligne des Turcs;
 
-Derrière lui étaient les éléphants de guerre et les bagages;
+Derrière lui étaient les éléphants de guerre et les bagages;
 
 A l’aile gauche se tenait le roi de l’Inde, portant une cotte de mailles et assis sur une selle couverte de soie de la Chine;
 
@@ -29,7 +29,7 @@ Dans l’autre armée on voyait, à l’aile gauche, Feribourz brillant comme l
 
 A l’aile droite, Guiv fils de Keschwad, tout couvert d’acier;
 
-Au centre Thous fils de Newder, qui se tenait à pied derrière les timbales et les trompettes.
+Au centre Thous fils de Newder, qui se tenait à pied derrière les timbales et les trompettes.
 
 Alors l’eau se changea en feu et en fumée, et la bataille devint telle que jamais brave n’en avait vu même en songe de semblable.
 
@@ -41,7 +41,7 @@ Il poussait des cris comme un éléphant ivre, il brandissait une massue à te�
 
 > Où est ce vaillant fantassin qui défie ceux qui ne demandent qu’à combattre?
 >
-> S’il veut venir maintenant avec son arc et ses flèches, il périra par la flèche et l’arc.
+> S’il veut venir maintenant avec son arc et ses flèches, il périra par la flèche et l’arc.
 
 Les vaillants guerriers, comme Thous qui portait haut la tête, Rehham et Guiv, virent Kamous;
 
@@ -57,7 +57,7 @@ Il savait se servir de l’épée, de la massue et de la lance;
 
 Son âme avait mûri parmi les travaux et les dangers de la guerre.
 
-Rustem avait été son maître dans l’art des combats et avait l’habitude de lui confier sa lance, et personne alors ne passait derrière Rustem.
+Rustem avait été son maître dans l’art des combats et avait l’habitude de lui confier sa lance, et personne alors ne passait derrière Rustem.
 
 Qu’a dit le sage vieillard, le maître des sentences?
 

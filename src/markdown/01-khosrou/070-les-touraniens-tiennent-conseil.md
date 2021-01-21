@@ -51,9 +51,9 @@ Piran courut à son camp rapidement comme le vent, convoqua tous les membres de
 >
 > Car Rustem ne songe qu’à venger Siawusch, et il fronce les sourcils.
 >
-> Je m’en vais, dans mon anxiété, auprès du Khakan, et lui dirai de quels malheurs me menace cette guerre.
+> Je m’en vais, dans mon anxiété, auprès du Khakan, et lui dirai de quels malheurs me menace cette guerre.
 
-Il courut rapidement comme un tourbillon de poussière auprès du Khakan, le cœur gonflé de sang, les yeux inondés de larmes de fiel.
+Il courut rapidement comme un tourbillon de poussière auprès du Khakan, le cœur gonflé de sang, les yeux inondés de larmes de fiel.
 
 Il trouva sa tente remplie de lamentations;
 
@@ -65,7 +65,7 @@ Toute une assemblée de parents de Kamous entourait le Khakan, demandant justice
 >
 > Comment lui, qui n’est pas homme à se montrer au jour du combat, ose-t-il commencer une guerre?
 >
-> Nous ramènerons en Chine les troupes de Kaschan, les yeux remplis de larmes, le cœur plein du désir de la vengeance.
+> Nous ramènerons en Chine les troupes de Kaschan, les yeux remplis de larmes, le cœur plein du désir de la vengeance.
 >
 > Ensuite nous conduirons ici une armée de la Chine et du pays des Berbers pour venger Kamous;
 >
@@ -77,7 +77,7 @@ En même temps on entendit les cris des parents de Djinghisch et d’Aschkebous
 
 Et tous les assistants, dans leur compassion pour les peines de ces familles, répandaient des larmes de fiel sur leurs joues de safran, et s’écriaient les yeux mouillés de larmes:
 
-> Dès ce moment nous renonçons au sommeil et au repos;
+> Dès ce moment nous renonçons au sommeil et au repos;
 >
 > Nous mettrons à feu le Seïstan, nous remplirons d’amertume les jours et les nuits de nos ennemis;
 >
@@ -103,9 +103,9 @@ Il s’avança alors vers le Khakan et lui dit:
 >
 > Ce fut sur le conseil de l’insensé Guersiwez qu’il commit ce crime;
 >
-> Et pourtant Siawusch était un homme de sens et un noble personnage, dont Rustem du Zaboulistan était le père nourricier.
+> Et pourtant Siawusch était un homme de sens et un noble personnage, dont Rustem du Zaboulistan était le père nourricier.
 >
-> A présent sa mort nous amène la guerre et les vengeances;
+> A présent sa mort nous amène la guerre et les vengeances;
 >
 > Elle fait que le ciel s’abaisse sur la terre.
 >
@@ -121,7 +121,7 @@ Il s’avança alors vers le Khakan et lui dit:
 >
 > Voyez quelle sera la fin de tout cela, et quel est l’homme qui pourra supporter le poids de cette bataille; ou s’il vaut mieux à cause de ce contre-temps retourner dans notre pays, dût notre puissance en souffrir.
 >
-> Si l’on veut qu’une affaire prospère, il faut commencer par éviter ce qui amène les vengeances.
+> Si l’on veut qu’une affaire prospère, il faut commencer par éviter ce qui amène les vengeances.
 
 Le Khakan fut consterné des paroles de Piran;
 
@@ -147,13 +147,13 @@ Schenkoul s’écria:
 >
 > Piran a peur de Rustem, ses angoisses l’empêchent de dormir pendant la nuit;
 >
-> Mais y a-t-il un brave qui fasse cas d’un homme qui élève ses bras vers un sauveur?
+> Mais y a-t-il un brave qui fasse cas d’un homme qui élève ses bras vers un sauveur?
 >
 > L’éléphant furieux n’est pas l’égal du lion, et Rustem n’est pas aussi brave que le prétend Piran.
 >
 > Il faut nous décider, et ne pas nous laisser décourager par la frayeur qu’il lui inspire;
 >
-> Demain matin nous détacherons nos massues, nous mènerons une vaillante armée contre les Iraniens, nous ferons élever dans l’air un nuage de printemps, nous verserons une pluie de traits, et la poussière et les coups de hache des cavaliers seront tels qu’on ne distinguera plus la tête des pieds des combattants.
+> Demain matin nous détacherons nos massues, nous mènerons une vaillante armée contre les Iraniens, nous ferons élever dans l’air un nuage de printemps, nous verserons une pluie de traits, et la poussière et les coups de hache des cavaliers seront tels qu’on ne distinguera plus la tête des pieds des combattants.
 >
 > Tenez tous les yeux fixés sur moi;
 >
@@ -161,7 +161,7 @@ Schenkoul s’écria:
 >
 > Comment! nous serions plus de cent mille cavaliers braves et ardents pour la guerre, et un seul homme nous ferait peur, nous ferait trembler et nous rendrait inertes comme des morts!
 >
-> Quand j’attaquerai cet homme du Seïstan, vous ferez lever jusqu’au ciel la poussière, et ne laisserez pas échapper un seul Iranien, car un méchant est une chose sans valeur.
+> Quand j’attaquerai cet homme du Seïstan, vous ferez lever jusqu’au ciel la poussière, et ne laisserez pas échapper un seul Iranien, car un méchant est une chose sans valeur.
 
 L’assemblée écouta Schenkoul, les cœurs des vieillards rajeunirent; Piran lui dit: «Puisses-tu vivre heureux! puisse ton âme se nourrir de combats!» et les grands et le Khakan offrirent leurs hommages au roi de l’Inde.
 
@@ -179,7 +179,7 @@ Houman en fut fort affligé;
 
 Il s’emporta contre Schenkoul, le maudit et finit par dire:
 
-> On ne peut échapper au ciel et au sort que sa rotation amène.
+> On ne peut échapper au ciel et au sort que sa rotation amène.
 
 En s’en allant, il accosta Kelbad et lui dit:
 

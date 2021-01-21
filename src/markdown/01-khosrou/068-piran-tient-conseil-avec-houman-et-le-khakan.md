@@ -21,7 +21,7 @@ Il dit à Piran:
 >
 > Il m’a rappelé le mal qu’a fait chacun de nous.
 >
-> D’abord, ô mon illustre frère, il m’a appelé par mon nom, et s’est beaucoup étendu sur la vengeance de la mort de Siawusch;
+> D’abord, ô mon illustre frère, il m’a appelé par mon nom, et s’est beaucoup étendu sur la vengeance de la mort de Siawusch;
 >
 > Il m’a parlé de tout ce qui s’est passé autrefois, des pays dépeuplés et ensuite repeuplés, de ce qu’il veut et doit faire, de Bahram et de la famille de Gouderz, et de tous ceux qui ont péri.
 >
@@ -41,7 +41,7 @@ Il dit à Piran:
 >
 > Quand tu l’aborderas, parle-lui avec douceur;
 >
-> Ne tire pas ton épée et ne te mets pas en colère.
+> Ne tire pas ton épée et ne te mets pas en colère.
 >
 > Il ne fera pas un pas que tu ne sois allé le trouver, car c’est pour toi qu’il reste à la place où il est.
 
@@ -51,7 +51,7 @@ Piran répondit:
 >
 > Car si cet homme armé de l’épée est Rustem, cette plaine deviendra pour nous un lieu de malheur, le feu dévastera notre pays, et je ne sais ce que prépare notre mauvaise étoile.
 
-Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœur déchirés de soucis et de rage, et il lui dit:
+Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœur déchirés de soucis et de rage, et il lui dit:
 
 > Ô roi, ne t’irrite pas, mais notre fortune a changé.
 >
@@ -63,7 +63,7 @@ Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœu
 >
 > Il a longtemps habité le Zaboulistan dans la grandeur et la magnificence;
 >
-> C’est là qu’il a élevé Siawusch; et à présent, affligé comme un père, il nous combat et rend la terre étroite devant le maître du monde.
+> C’est là qu’il a élevé Siawusch; et à présent, affligé comme un père, il nous combat et rend la terre étroite devant le maître du monde.
 >
 > Le héros au corps d’éléphant m’appelle seul de cette armée innombrable.
 >
@@ -73,13 +73,13 @@ Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœu
 
 Le Khakan lui dit:
 
-> Va auprès de lui et parle-lui convenablement et avec douceur.
+> Va auprès de lui et parle-lui convenablement et avec douceur.
 >
 > S’il ne désire que la paix et des richesses, pourquoi ces armées se fatigueraient-elles sur cette plaine?
 >
 > Fais-lui beaucoup de présents, et puis reviens ici, peut-être pourrons-nous éviter une si grande lutte.
 >
-> Mais s’il a revêtu sa cuirasse de peau de léopard, et s’il préfère livrer bataille, alors nous nous fierons en Dieu, nous combattrons joyeusement avec la force que nous donnera le maître du monde;
+> Mais s’il a revêtu sa cuirasse de peau de léopard, et s’il préfère livrer bataille, alors nous nous fierons en Dieu, nous combattrons joyeusement avec la force que nous donnera le maître du monde;
 >
 > Nous ferons tous ensemble une attaque, et rendrons tout à coup la plaine étroite pour lui.
 >
@@ -89,7 +89,7 @@ Le Khakan lui dit:
 >
 > Pourquoi donc ton cœur est-il dévoré de soucis et de sollicitude?
 >
-> Quand il se nourrirait de pierres et de fer, les flèches et les javelots le perceront;
+> Quand il se nourrirait de pierres et de fer, les flèches et les javelots le perceront;
 >
 > Nous sommes trois cents contre un, tu as donc tort de t’inquiéter de ce combat.
 >

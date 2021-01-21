@@ -29,13 +29,13 @@ Piran lui dit:
 >
 > Feribourz et Bijen ne valent pas Ferthous;
 >
-> Et puisqu’un grand combat se prépare pour notre armée, elle voudra tout entière y acquérir de la gloire.
+> Et puisqu’un grand combat se prépare pour notre armée, elle voudra tout entière y acquérir de la gloire.
 
-De là il se rendit auprès de Kamous, de Manschour et de Ferthous, et leur dit:
+De là il se rendit auprès de Kamous, de Manschour et de Ferthous, et leur dit:
 
 > Il y a eu aujourd’hui une grande bataille, et un loup est sorti de ce troupeau de brebis.
 >
-> Voyez s’il y a un remède à ce mal, et qui d’entre nous peut résister aux Iraniens.
+> Voyez s’il y a un remède à ce mal, et qui d’entre nous peut résister aux Iraniens.
 
 Kamous lui répondit:
 
@@ -45,7 +45,7 @@ Kamous lui répondit:
 >
 > Il n’y a pas d’homme dans le monde qui soit son égal en stature, et aucun des nôtres n’est digne de se mesurer avec lui.
 >
-> Tu as vu son arc, et sa flèche est ici;
+> Tu as vu son arc, et sa flèche est ici;
 >
 > Sa force surpasse celle d’un éléphant furieux.
 >
@@ -65,7 +65,7 @@ Le prudent Kamous, dont l’âme était toute absorbée par cette affaire, dema
 >
 > Décris-moi sa taille et sa mine;
 >
-> Dis-moi comment il adresse la parole aux héros sur le champ de bataille, quelle est sa personne et son aspect, et de quelle manière je dois me mesurer avec lui.
+> Dis-moi comment il adresse la parole aux héros sur le champ de bataille, quelle est sa personne et son aspect, et de quelle manière je dois me mesurer avec lui.
 >
 > Car s’il vient prendre part au combat, il faut que j’y sois.
 
@@ -73,11 +73,11 @@ Piran lui dit:
 
 > A Dieu ne plaise qu’un seul cavalier se hasarde à lutter contre lui.
 >
-> Tu verras un homme d’une stature de cyprès, d’un aspect beau et majestueux.
+> Tu verras un homme d’une stature de cyprès, d’un aspect beau et majestueux.
 >
 > Dans bien des batailles Afrasiab s’est enfui devant lui, les yeux remplis de larmes.
 >
-> C’est un homme toujours prêt pour le combat, un fidèle serviteur de Khosrou, toujours le premier à mettre l’épée à la main.
+> C’est un homme toujours prêt pour le combat, un fidèle serviteur de Khosrou, toujours le premier à mettre l’épée à la main.
 >
 > Il fait la guerre pour venger Siawusch, qu’il a élevé dans ses bras.
 >
@@ -87,7 +87,7 @@ Piran lui dit:
 >
 > Et un crocodile ne pourrait soulever sa massue, s’il la laissait tomber sur le champ de bataille.
 >
-> La corde de son arc est de peau de lion, la pointe de ses flèches pèse dix sitirs, une pierre devient, dans sa main, molle comme la cire, et serait honteuse devant la cire elle-même.
+> La corde de son arc est de peau de lion, la pointe de ses flèches pèse dix sitirs, une pierre devient, dans sa main, molle comme la cire, et serait honteuse devant la cire elle-même.
 >
 > Quand il se prépare au combat, il revêt une cotte de mailles, au-dessus de laquelle il attache avec des boutons une cuirasse, qu’il recouvre d’une robe de peau de léopard (ou de tigre), à laquelle il donne le nom de Bebr-i-beyan, qu’il estime plus que la cotte et la cuirasse, qui n’est ni consumée par les flammes ni mouillée par l’eau;
 >

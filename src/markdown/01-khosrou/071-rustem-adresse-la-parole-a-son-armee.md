@@ -27,11 +27,11 @@ Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et G
 >
 > Car le monde à la fin du compte ne restera à personne, il ne faut pas s’y attacher.
 >
-> Pratiquons l’humanité et la droiture, car les voies tortueuses ne mènent qu’à la ruine.
+> Pratiquons l’humanité et la droiture, car les voies tortueuses ne mènent qu’à la ruine.
 >
 > Lorsque Piran est accouru vers moi, il m’a raconté longuement, le cœur brisé, ce qu’il a fait par tendresse pour Siawusch, les douleurs et les soucis qu’il a éprouvés, et comment, par ses paroles et ses actions, Ferenguis et Khosrou furent sauvés de la gueule du dragon.
 >
-> J’ai néanmoins le pressentiment que Piran sera un des premiers qui tomberont dans cette guerre, et que devant lui périront son frère, son fils et un grand nombre de ses nobles et illustres alliés.
+> J’ai néanmoins le pressentiment que Piran sera un des premiers qui tomberont dans cette guerre, et que devant lui périront son frère, son fils et un grand nombre de ses nobles et illustres alliés.
 >
 > Afrasiab sera tué par la main de Keï Khosrou, c’est ainsi que je l’ai vu en songe, et aucun des coupables ne restera en vie;
 >
@@ -55,7 +55,7 @@ A ces mots Gouderz se leva et lui dit:
 
 > Ô lion plein de justice et de droiture, tu es le pilier de l’armée et l’ornement de la cour;
 >
-> C’est par toi que brillent le trône, la couronne et le diadème;
+> C’est par toi que brillent le trône, la couronne et le diadème;
 >
 > Tu disposes des âmes et des intelligences, et ton esprit se nourrit de sagesse.
 >
@@ -71,7 +71,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > Ne l’écoute donc pas, et alors tu n’auras pas à souffrir de sa malice.
 >
-> Nous aussi, quand nous étions prêts pour la première bataille, nous avons eu des pourparlers avec lui et avons agi en conséquence.
+> Nous aussi, quand nous étions prêts pour la première bataille, nous avons eu des pourparlers avec lui et avons agi en conséquence.
 >
 > Piran envoya un messager pour nous faire dire qu’il voyait avec horreur cette guerre et ce champ de bataille, qu’il était l’esclave de Khosrou, et qu’il renonçait à ses terres et à ses tentes.
 >
@@ -79,9 +79,9 @@ A ces mots Gouderz se leva et lui dit:
 >
 > > Je dirai aux miens ce qui nous menace.
 > >
-> > Je possède un trône, des trésors et des troupeaux;
+> > Je possède un trône, des trésors et des troupeaux;
 > >
-> > Je ne les laisserai pas dans le Touran et je viendrai auprès de vous;
+> > Je ne les laisserai pas dans le Touran et je viendrai auprès de vous;
 > >
 > > Je me retirerai dans quelque coin, pour que le roi n’entends jamais dire que j’aie fait du mal.
 >
@@ -95,7 +95,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > Tu aurais dit qu’il n’avait été question de rien entre nous, et l’on ne comprenait plus rien à cette affaire;
 >
-> Mais le dixième jour il amena une armée dans la plaine et déploya les troupes réunies du monde entier.
+> Mais le dixième jour il amena une armée dans la plaine et déploya les troupes réunies du monde entier.
 >
 > Maintenant, ô Pehlewan de l’armée, il emploie avec toi un nouveau moyen;
 >
@@ -115,7 +115,7 @@ A ces mots Gouderz se leva et lui dit:
 >
 > Toutes ses paroles ne sont que mensonges, et Ahriman seul devrait être son compagnon.
 >
-> Si tu ne veux pas écouter mes conseils, réfléchis au sort de mon fils Bahram, que Piran a flatté de la même manière pendant qu’il préparait un cimetière pour tous les miens;
+> Si tu ne veux pas écouter mes conseils, réfléchis au sort de mon fils Bahram, que Piran a flatté de la même manière pendant qu’il préparait un cimetière pour tous les miens;
 >
 > De sorte que jusqu’à ma mort je verserai des larmes de sang, et qu’il ne me reste, pour guérir mes maux, que mon épée indienne.
 
@@ -125,13 +125,13 @@ Rustem écouta Gouderz et lui répondit:
 >
 > Piran est tel que tu viens de le dépeindre, et cela n’est pas un secret;
 >
-> Et pourtant je ne veux pas être sévère envers lui, à cause du bien qu’il a fait.
+> Et pourtant je ne veux pas être sévère envers lui, à cause du bien qu’il a fait.
 >
 > Pense donc à ce qu’il a fait pour le roi de l’Iran et à ce qu’il a souffert pour Siawusch.
 >
 > Mais s’il revient sur ses promesses, s’il se présente devant nous pour nous livrer bataille, j’attacherai au crochet de la selle le lacet avec lequel je prends les éléphants de guerre.
 >
-> Je commencerai par lui montrer de la confiance, car j’espère encore que nous n’aurons pas à combattre et à lutter;
+> Je commencerai par lui montrer de la confiance, car j’espère encore que nous n’aurons pas à combattre et à lutter;
 >
 > Mais s’il recule devant l’accomplissement de ses propres paroles, il ne trouvera chez nous ni regrets ni pitié.
 
@@ -139,7 +139,7 @@ Gouderz et Thous offrirent leurs hommages à Rustem, disant:
 
 > Le soleil ne cessera jamais de luire sur toi;
 >
-> Les ruses, les artifices et les paroles mensongères de Piran ne parviendront pas à t’éblouir.
+> Les ruses, les artifices et les paroles mensongères de Piran ne parviendront pas à t’éblouir.
 >
 > Puisse le monde n’être jamais privé du trône du roi dont tu fus toujours le soutien!
 
@@ -153,8 +153,8 @@ Rustem dit:
 
 Ensuite il se tourna vers les Iraniens, disant:
 
-> Je jetterai cette nuit un sort fortuné en buvant du vin, et demain matin j’élèverai sur mon épaule cette massue de Sam le cavalier, dont je me suis servi dans la guerre du Mazenderan, et je me jetterai dans la mêlée, là où le crocodile nous résistera.
+> Je jetterai cette nuit un sort fortuné en buvant du vin, et demain matin j’élèverai sur mon épaule cette massue de Sam le cavalier, dont je me suis servi dans la guerre du Mazenderan, et je me jetterai dans la mêlée, là où le crocodile nous résistera.
 >
-> Si je suis forcé de combattre, je prendrai les tentes, les diadèmes, les massues, les couronnes, les éléphants de guerre et le trône d’ivoire, et je les donnerai aux Iraniens.
+> Si je suis forcé de combattre, je prendrai les tentes, les diadèmes, les massues, les couronnes, les éléphants de guerre et le trône d’ivoire, et je les donnerai aux Iraniens.
 
-Les grands dévoués à Khosrou remplirent de leurs cris la salle de l’assemblée, et à la fin ils se retirèrent dans leurs tentes, accablés de sommeil et du besoin de se reposer.
+Les grands dévoués à Khosrou remplirent de leurs cris la salle de l’assemblée, et à la fin ils se retirèrent dans leurs tentes, accablés de sommeil et du besoin de se reposer.

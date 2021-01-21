@@ -11,17 +11,17 @@ order: '055'
 
 Lorsque le soleil entoura la voûte d’azur d’une enceinte de brocart jaune, on entendit la sentinelle qui cria à Gouderz:
 
-> Ô Pehlewan de l’armée, des troupes s’approchent et sont près de nous, la poussière qu’elles soulèvent assombrit le jour.
+> Ô Pehlewan de l’armée, des troupes s’approchent et sont près de nous, la poussière qu’elles soulèvent assombrit le jour.
 
-Gouderz bondit, fit amener son destrier rapide, se dirigea vers la poussière noire, et dévora la route dans l’impatience de son cœur.
+Gouderz bondit, fit amener son destrier rapide, se dirigea vers la poussière noire, et dévora la route dans l’impatience de son cœur.
 
-Quand il fut près de l’armée, il vit le drapeau de Feribourz fils de Kaous, qui commandait l’avant-garde des Iraniens.
+Quand il fut près de l’armée, il vit le drapeau de Feribourz fils de Kaous, qui commandait l’avant-garde des Iraniens.
 
 Gouderz l’aimait, c’était son parent et un jeune capitaine.
 
 Le vieux Gouderz mit pied à terre, et de même Feribourz, la gloire de l’armée, le sage;
 
-Ils s’embrassèrent, et Gouderz versa des larmes de sang sur sa poitrine.
+Ils s’embrassèrent, et Gouderz versa des larmes de sang sur sa poitrine.
 
 Feribourz lui dit:
 
@@ -43,7 +43,7 @@ Gouderz versa des larmes de sang sur le sort de ceux qui étaient morts et que l
 >
 > Mais je ne veux pas me rappeler les luttes passées, car la guerre et le danger sont devant nous.
 >
-> Cette plaine et ces collines sont couvertes d’une armée telle que la surface de la terre ressemble au plumage du corbeau, et toutes les troupes de Thous ne sont auprès d’elle que comme un poil noir sur la peau d’un taureau blanc.
+> Cette plaine et ces collines sont couvertes d’une armée telle que la surface de la terre ressemble au plumage du corbeau, et toutes les troupes de Thous ne sont auprès d’elle que comme un poil noir sur la peau d’un taureau blanc.
 >
 > Ils sont venus de la Chine et du pays de Seklab, de l’Inde et du Roum, des déserts et des pays habités;
 >

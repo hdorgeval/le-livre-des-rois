@@ -53,7 +53,7 @@ Que la maison de Gouderz fils de Keschwad était privée de ses nobles héros;
 
 Que les astres les pleuraient, et que dans le jardin le rosier ne croissait plus;
 
-Que leur mort remplissait le monde de sang et de poussière, enfin que le puissant astre de Thous avait baissé.
+Que leur mort remplissait le monde de sang et de poussière, enfin que le puissant astre de Thous avait baissé.
 
 A ces nouvelles le cœur de l’illustre Keï Khosrou fut bouleversé;
 
@@ -77,21 +77,21 @@ Le maître des grands commença à parler à Rustem des combats de l’armé
 >
 > Le monde met son espoir dans ta compassion;
 >
-> La terre est l’esclave de la poussière que soulève ton cheval Raksch;
+> La terre est l’esclave de la poussière que soulève ton cheval Raksch;
 >
-> Le temps est pour toi une mère pleine de tendresse;
+> Le temps est pour toi une mère pleine de tendresse;
 >
 > Le soleil s’effraye de ton épée, Vénus pleure en voyant tes bras;
 >
-> Ta massue et la pointe de tes flèches font repentir le lion de son agression au jour du malheur.
+> Ta massue et la pointe de tes flèches font repentir le lion de son agression au jour du malheur.
 >
 > Depuis que tu es homme et que tu as mis un casque sur ta tête, aucun ennemi n’a osé porter ses regards sur l’lran;
 >
 > mais maintenant Thous, Gouderz et Guiv, les chefs de mon armée, et beaucoup de braves de ce pays ont le cœur plein de sang et les yeux remplis de larmes, et ils sont en fuite devant les guerriers d’Afrasiab.
 >
-> Une grande partie de la famille de Gouderz est tombée, leur couche est la poussière du champ de bataille, et tous ceux qui ont survécu restent blessés sur le mont Hemawen;
+> Une grande partie de la famille de Gouderz est tombée, leur couche est la poussière du champ de bataille, et tous ceux qui ont survécu restent blessés sur le mont Hemawen;
 >
-> Ils ont les yeux tournés vers le ciel, vers le Créateur du temps et de l’espace, et prient que le héros au corps d’éléphant se rende auprès d’eux par mon ordre et avec la force que Dieu lui a donnée.
+> Ils ont les yeux tournés vers le ciel, vers le Créateur du temps et de l’espace, et prient que le héros au corps d’éléphant se rende auprès d’eux par mon ordre et avec la force que Dieu lui a donnée.
 >
 > Il était nuit quand j’ai lu cette lettre;
 >
@@ -111,11 +111,11 @@ Le maître des grands commença à parler à Rustem des combats de l’armé
 
 Rustem répondit:
 
-> Puissent le sceau et le diadème n’être jamais privés de toi!
+> Puissent le sceau et le diadème n’être jamais privés de toi!
 >
 > Car tu es un roi glorieux, fort, sage et juste, et la voûte du ciel n’a jamais connu ton pareil.
 >
-> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’lran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
+> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’lran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
 >
 > J’ai éprouvé tant de douleurs et couru tant de dangers que je n’ai jamais pu penser à jouir de la vie un seul jour.
 >
@@ -127,15 +127,15 @@ Rustem répondit:
 >
 > Puisse le cœur de tes ennemis pâlir!
 >
-> Je me rendrai auprès du Sipehbed;
+> Je me rendrai auprès du Sipehbed;
 >
 > Je me ceindrai pour venger les Iraniens;
 >
 > Mon âme souffre du sort de la famille de Gouderz, et leur mort me plonge dans le deuil.
 
-Lorsque Keï Khosrou eut entendu ces paroles, ses yeux versèrent sur ses joues deux torrents de larmes, et il répondit:
+Lorsque Keï Khosrou eut entendu ces paroles, ses yeux versèrent sur ses joues deux torrents de larmes, et il répondit:
 
-> Sans toi je ne voudrais pas de l’empire du monde, ni du diadème, ni de la couronne, ni du trône des héros.
+> Sans toi je ne voudrais pas de l’empire du monde, ni du diadème, ni de la couronne, ni du trône des héros.
 >
 > Puisse le ciel être pris dans les nœuds de ton lacet!
 >
@@ -147,7 +147,7 @@ Il brisa les couvercles des caisses remplies d’argent, et le roi de l’Iran d
 
 > Ô héros illustre, pars rapidement comme le vent, avec les héros du Zaboulistan armés de massues, avec les braves et les guerriers du Kaboul, et ne t’arrête pas un instant sur la route.
 >
-> Emmène dans cette guerre cent mille hommes prêts à frapper de l’épée;
+> Emmène dans cette guerre cent mille hommes prêts à frapper de l’épée;
 >
 > Donne un corps d’armée à Feribourz fils de Kaous, qui brûle de nous venger, et qui commandera ton avant-garde.
 
@@ -165,7 +165,7 @@ Il dit à Feribourz:
 
 > Pars demain matin avec un corps qui formera l’avant-garde de l’armée;
 >
-> Ne ralentis ta marche ni jour ni nuit, jusqu’à ce que tu sois arrivé auprès du Sipehbed Thous, à qui tu diras qu’il se garde de se laisser emporter par l’ardeur du combat, qu’il emploie la ruse, qu’il gagne du temps et ne s’aventure pas.
+> Ne ralentis ta marche ni jour ni nuit, jusqu’à ce que tu sois arrivé auprès du Sipehbed Thous, à qui tu diras qu’il se garde de se laisser emporter par l’ardeur du combat, qu’il emploie la ruse, qu’il gagne du temps et ne s’aventure pas.
 >
 > Je partirai rapidement comme le vent, et ne tarderai pas en chemin.
 >

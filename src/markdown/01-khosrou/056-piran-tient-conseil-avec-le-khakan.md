@@ -13,13 +13,13 @@ Lorsque l’armée de Feribourz fut visible de la tour des Touraniens, la sentin
 
 > Armez-vous tous pour le combat, car une armée venant de l’Iran paraît sur la plaine et se dirige vers le mont Hemawen.
 
-Le Sipehbed se rendit auprès du Khakan de la Chine et lui dit:
+Le Sipehbed se rendit auprès du Khakan de la Chine et lui dit:
 
 > Il vient une armée du pays d’Iran;
 >
 > Je n’en connais pas la force ni le nom de son chef.
 >
-> Que ferons-nous et quel remède y a-t-il contre ce mal?
+> Que ferons-nous et quel remède y a-t-il contre ce mal?
 
 Kamous le guerrier expérimenté lui dit:
 
@@ -37,7 +37,7 @@ Kamous le guerrier expérimenté lui dit:
 >
 > Tu as peur de l’armée du Seïstan, et ton cœur se serre à l’idée d’avoir à la combattre;
 >
-> Mais tu vas voir ma main quand la poussière volera sur le champ de bataille, et alors tu sauras ce que c’est qu’un homme et un brave, et ce que c’est qu’un combat.
+> Mais tu vas voir ma main quand la poussière volera sur le champ de bataille, et alors tu sauras ce que c’est qu’un homme et un brave, et ce que c’est qu’un combat.
 
 Piran lui répondit:
 
@@ -59,7 +59,7 @@ Le Khakan dit à Piran:
 >
 > Nous ne laisserons dans l’Iran ni une feuille, ni un arbre, ni un palais, ni un pavillon, ni une couronne.
 
-Piran sourit et offrit ses hommages aux grands assemblés et au Khakan de la Chine, et retourna tout joyeux au camp, où les braves, comme Houman, Lehhak, Ferschidwerd et les héros, les lions au jour du combat, se pressèrent autour de lui, disant:
+Piran sourit et offrit ses hommages aux grands assemblés et au Khakan de la Chine, et retourna tout joyeux au camp, où les braves, comme Houman, Lehhak, Ferschidwerd et les héros, les lions au jour du combat, se pressèrent autour de lui, disant:
 
 > Il est arrivé une armée de l’Iran, précédée d’un chef portant un drapeau noir.
 >
@@ -71,7 +71,7 @@ Piran dit au vaillant Houman:
 
 > Alors nous pouvons être sans souci;
 >
-> Puisque ce n’est pas Rustem, nous n’avons rien à craindre de Feribourz, dont le souffle ne sera pas un remède contre ce poison.
+> Puisque ce n’est pas Rustem, nous n’avons rien à craindre de Feribourz, dont le souffle ne sera pas un remède contre ce poison.
 >
 > Car quoique Kamous ne veuille compter Rustem pour rien au jour du combat, à Dieu ne plaise qu’il vienne ici nous livrer bataille, quelque vaillant que soit Kamous.
 
@@ -83,7 +83,7 @@ Houman lui dit :
 
 Piran lui répondit:
 
-> J’ai renoncé au trône et à la couronne, j’ai désespéré de la lumière du soleil et de la lune, quand j’ai entendu dire qu’une armée d’Iraniens s’approchait et arrivait sur ce champ de bataille;
+> J’ai renoncé au trône et à la couronne, j’ai désespéré de la lumière du soleil et de la lune, quand j’ai entendu dire qu’une armée d’Iraniens s’approchait et arrivait sur ce champ de bataille;
 >
 > Mon âme et mon cervau étaient remplis de soucis, et mon cœur poussait un grand soupir.
 
@@ -95,13 +95,13 @@ Kelbad lui dit:
 >
 > Nous avons tant de javelots et d’épées, tant d’éléphants de guerre, que le vent ne peut se frayer un passage à travers.
 >
-> Que sont devant nous les Iraniens? Une poignée de poussière.
+> Que sont devant nous les Iraniens? Une poignée de poussière.
 >
 > Pourquoi craindre Khosrou, Thous et Rustem?
 >
 > Ils se sont enfuis d’ici, ils se sont retirés sous leurs tentes.
 
-Lorsque Thous, de son côté, apprit que le pays était rempli du bruit des timbales, que le héros au corps d’éléphant et Feribourz fils de Kaous arrivaient de l’Iran avec une armée, il ordonna qu’on plaçât les timbales sur le dos des éléphants, et la montagne se couvrit de la poussière noire que soulevait son armée.
+Lorsque Thous, de son côté, apprit que le pays était rempli du bruit des timbales, que le héros au corps d’éléphant et Feribourz fils de Kaous arrivaient de l’Iran avec une armée, il ordonna qu’on plaçât les timbales sur le dos des éléphants, et la montagne se couvrit de la poussière noire que soulevait son armée.
 
 Le Hemawen retentit de cris, la terre tremblait sous le piétinement des chevaux, et le Sipehbed raconta longuement aux Iraniens la guerre du Mazenderan, ce que Rustem avait fait dans la lutte contre les Divs, et comment il les avait traités.
 
@@ -111,9 +111,9 @@ Les braves rendirent grâces au Pehlewan, disant:
 >
 > Quand tu voudrais notre vie pour prix de la bonne nouvelle, nous la donnerions, car elle remplit nos âmes de joie.
 >
-> Maintenant que Tehemten vient livrer bataille, cette armée ne résistera pas au crocodile, et nous combattrons tous pour effacer la honte qui pèse sur I’Iran.
+> Maintenant que Tehemten vient livrer bataille, cette armée ne résistera pas au crocodile, et nous combattrons tous pour effacer la honte qui pèse sur I’Iran.
 >
-> Nous risquerons notre vie, nous lutterons et nous prendrons le grand drapeau et la couronne du Khakan, les colliers d’or et le trône d’ivoire, les diadèmes d’or des conducteurs des éléphants, les boucliers d’or et les ceintures d’or, les clochettes d’or dont personne au monde n’a vu de pareilles, le parasol de plumes de paon qui est brodé de tant de pierreries, et bien d’autres richesses.
+> Nous risquerons notre vie, nous lutterons et nous prendrons le grand drapeau et la couronne du Khakan, les colliers d’or et le trône d’ivoire, les diadèmes d’or des conducteurs des éléphants, les boucliers d’or et les ceintures d’or, les clochettes d’or dont personne au monde n’a vu de pareilles, le parasol de plumes de paon qui est brodé de tant de pierreries, et bien d’autres richesses.
 
 Le prudent Thous dit à l’armée:
 
@@ -141,10 +141,10 @@ Mais l’armée lui répondit:
 >
 > Et par ordre du Créateur du soleil et de la lune, Tehemten paraîtra sur ce champ de bataille.
 >
-> Pourquoi désespères-tu de ton étoile?
+> Pourquoi désespères-tu de ton étoile?
 >
 > Distribue de l’or et de l’argent aux pauvres;
 >
 > Et quand Rustem sera arrivé, nous combattrons pour la gloire, et nous laverons notre honte.
 
-Les braves de l’armée de I’Iran poussèrent des cris d’allégresse sur le haut de la montagne, et se rendirent joyeusement dans leur camp, où ils tinrent conseil toute la nuit.
+Les braves de l’armée de I’Iran poussèrent des cris d’allégresse sur le haut de la montagne, et se rendirent joyeusement dans leur camp, où ils tinrent conseil toute la nuit.

@@ -9,17 +9,17 @@ order: '054'
 
 # Le Khakan de la Chine va reconnaître l'armée des Iraniens
 
-Lorsque le soleil eut conduit son cortège de rayons sur la voûte du ciel et mis en fuite la sombre nuit, le Khakan de la Chine tint une assemblée et couvrit le sol de pièces de brocart.
+Lorsque le soleil eut conduit son cortège de rayons sur la voûte du ciel et mis en fuite la sombre nuit, le Khakan de la Chine tint une assemblée et couvrit le sol de pièces de brocart.
 
 Il dit à Piran:
 
 > Aujourd’hui nous ne combattrons pas, il faut nous reposer un jour;
 >
-> Et pendant que les grands et les braves, et ces cavaliers accoutumés au carnage, se délassent de leurs fatigues après avoir franchi une si longue route avec ses montées et ses descentes, nous irons voir ce que deviennent les Iraniens et ce qu’ils font dans leur camp.
+> Et pendant que les grands et les braves, et ces cavaliers accoutumés au carnage, se délassent de leurs fatigues après avoir franchi une si longue route avec ses montées et ses descentes, nous irons voir ce que deviennent les Iraniens et ce qu’ils font dans leur camp.
 
 Piran répondit:
 
-> Le Khakan est un sage et glorieux prince, qu’il agisse aujourd’hui selon son plaisir, car il est entièrement maître de l’armée.
+> Le Khakan est un sage et glorieux prince, qu’il agisse aujourd’hui selon son plaisir, car il est entièrement maître de l’armée.
 
 On entendit alors du bruit dans toutes les enceintes des tentes, et le son des timbales et des trompettes.
 
@@ -29,7 +29,7 @@ Les selles étaient brodées d’émeraudes et couvertes de brocart bleu de ciel
 
 Les étriers étaient d’or, les housses de peau de léopard, les clochettes d’argent;
 
-Les conducteurs des éléphants portaient tous de riches diadèmes, des colliers et des boucles d’oreilles;
+Les conducteurs des éléphants portaient tous de riches diadèmes, des colliers et des boucles d’oreilles;
 
 Et l’air ressemblait à un bazar chinois, tant on y agitait d’étendards de soie jaune, rouge et violette.
 
@@ -37,11 +37,11 @@ Un cortège, qui aurait fait honneur à un banquet, se rendit sur le champ de b
 
 La terre était belle comme l’œil du coq, au milieu de ce bruit, de cette magnificence, de ces trompettes et de ces timbales.
 
-Les princes et leur cortége partirent, le son des clairons remplit l’air, les lances brillèrent, les troupes s’ébranlèrent, et l’armée obscurcit la surface de la terre.
+Les princes et leur cortége partirent, le son des clairons remplit l’air, les lances brillèrent, les troupes s’ébranlèrent, et l’armée obscurcit la surface de la terre.
 
 Lorsque Thous les vit de loin, il rangea en bataille les troupes qui lui restaient, les braves de l’Iran prirent leurs armes, Guiv apporta le drapeau de Kaweh, et les masses des Iraniens couvrirent tout le terrain depuis le champ de bataille jusqu’au sommet de la montagne.
 
-Kamous, Biwerd, le Khakan de la Chine, Ferthous, Schenkoul le sage s’approchèrent du mont Hemawen pour voir et non pas pour combattre.
+Kamous, Biwerd, le Khakan de la Chine, Ferthous, Schenkoul le sage s’approchèrent du mont Hemawen pour voir et non pas pour combattre.
 
 Le Khakan fut frappé d’admiration en voyant de loin les rangs bruyants des cavaliers iraniens, et il s’écria:
 
@@ -55,7 +55,7 @@ Le Khakan fut frappé d’admiration en voyant de loin les rangs bruyants des ca
 >
 > Si le Sipehdar recouvre de broussailles un fossé, son cheval s’y jettera au jour de la chasse;
 >
-> Mieux vaut confondre au jour du combat un vaillant ennemi et le fouler dans la poussière.
+> Mieux vaut confondre au jour du combat un vaillant ennemi et le fouler dans la poussière.
 >
 > Jamais je n’ai vu des cavaliers portant aussi haut la tête, aussi braves, aussi vaillants.
 
@@ -77,7 +77,7 @@ Piran lui répondit:
 >
 > Et à partir de midi jusqu’à ce que la nuit descende de la montagne, l’autre moitié livrera bataille;
 >
-> Ensuite durant la nuit je mènerai au combat ceux qui auront repris leurs forces pour achever les Iraniens, auxquels moi et mes cavaliers ardents et couverts d’armures ne laisserons aucun repos.
+> Ensuite durant la nuit je mènerai au combat ceux qui auront repris leurs forces pour achever les Iraniens, auxquels moi et mes cavaliers ardents et couverts d’armures ne laisserons aucun repos.
 
 Kamous lui répondit:
 
@@ -89,7 +89,7 @@ Kamous lui répondit:
 >
 > Ensuite nous conduirons nos troupes dans l’lran;
 >
-> Nous n’y laisserons ni trône, ni couronne, ni diadème;
+> Nous n’y laisserons ni trône, ni couronne, ni diadème;
 >
 > Nous dévasterons tout le pays;
 >
@@ -121,4 +121,4 @@ Le Khakan lui dit:
 
 Tous les grands furent d’avis que le Khakan vainqueur des lions avait bien décidé;
 
-Ils s’en retournèrent, et passèrent la nuit à mettre leurs troupes en ordre.
+Ils s’en retournèrent, et passèrent la nuit à mettre leurs troupes en ordre.

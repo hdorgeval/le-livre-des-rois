@@ -17,13 +17,13 @@ order: '065'
 >
 > Écoute les paroles que le Dikhan tire d’un ancien livre.
 
-Lorsque le Khakan de la Chine eut appris que Kamous était tombé sur le champ de bataille, le jour devint sombre et la vie amère pour les hommes de Kaschan et de Schikin, et pour les braves de Balkh;
+Lorsque le Khakan de la Chine eut appris que Kamous était tombé sur le champ de bataille, le jour devint sombre et la vie amère pour les hommes de Kaschan et de Schikin, et pour les braves de Balkh;
 
-Ils s’approchèrent les uns des autres et se demandèrent qui pouvait être cet homme vaillant et plein d’ardeur pour le combat, quel était son nom, et qui dans le monde pouvait lutter contre lui.
+Ils s’approchèrent les uns des autres et se demandèrent qui pouvait être cet homme vaillant et plein d’ardeur pour le combat, quel était son nom, et qui dans le monde pouvait lutter contre lui.
 
 Houman dit à Piran au cœur de lion:
 
-> Désormais je désespère de la victoire.
+> Désormais je désespère de la victoire.
 >
 > Comment nos braves oseraient-ils aller au combat, puisque le vaillant Kamous y a péri?
 >
@@ -39,7 +39,7 @@ Piran lui offrit ses hommages et lui dit tristement:
 
 > Ô roi plus sublime que le firmament d’azur, tu étais au premier rang de l’armée, et tu as entendu et vu le commencement et la fin de ce combat;
 >
-> Cherche maintenant un remède à nos maux, cherche-le tout seul et sans consulter personne.
+> Cherche maintenant un remède à nos maux, cherche-le tout seul et sans consulter personne.
 >
 > Choisis parmi les espions de l’armée un homme qui sache découvrir un secret, pour qu’il apprenne qui est cet homme au cœur de lion et qui d’entre nous pourra le combattre.
 >
@@ -51,13 +51,13 @@ Le Khakan répondit à Piran:
 >
 > Je voudrais bien savoir quel est ce Pehlewan malfaisant qui prend le lion dans le nœud de son lacet.
 >
-> Au reste, nul ne peut se soustraire à la mort, et ni questions, ni prières, ni offrandes ne sauraient en cela nous servir de rien;
+> Au reste, nul ne peut se soustraire à la mort, et ni questions, ni prières, ni offrandes ne sauraient en cela nous servir de rien;
 >
-> Du moment que nos mères nous ont mis au monde, nous appartenons à la mort, et il faut malgré nous lui tendre le cou.
+> Du moment que nos mères nous ont mis au monde, nous appartenons à la mort, et il faut malgré nous lui tendre le cou.
 >
 > Personne n’échappera à la rotation du ciel, quand même il aurait la force de renverser un éléphant.
 >
-> Ne vous laissez pas décourager par le sort de celui qui a péri dans le nœud du lacet, car je jetterai dans la poussière avec mon lacet celui qui a tué Kamous, et je couvrirai le pays d’Iran d’une mer de sang, selon le désir du cœur d’Afrasiab.
+> Ne vous laissez pas décourager par le sort de celui qui a péri dans le nœud du lacet, car je jetterai dans la poussière avec mon lacet celui qui a tué Kamous, et je couvrirai le pays d’Iran d’une mer de sang, selon le désir du cœur d’Afrasiab.
 
 Il réunit autour de lui un grand nombre de héros illustres, d’hommes armés de poignards et de vaillants guerriers, et leur dit:
 

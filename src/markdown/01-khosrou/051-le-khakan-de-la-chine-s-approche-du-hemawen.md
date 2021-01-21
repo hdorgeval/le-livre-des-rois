@@ -9,7 +9,7 @@ order: '051'
 
 # Le Khakan de la Chine s'approche du Hemawen
 
-Lorsque Piran fut arrivé près de l’armée d’Afrasiab, il vit les vallées et les plaines couvertes de l’empreinte des sabots des chevaux;
+Lorsque Piran fut arrivé près de l’armée d’Afrasiab, il vit les vallées et les plaines couvertes de l’empreinte des sabots des chevaux;
 
 Il vit le monde rempli de tentes et de leurs enceintes jaunes, rouges, violettes et bleues, toutes placées en rangs, et un drapeau de brocart de soie de la Chine planté au milieu de chaque enceinte.
 
@@ -25,7 +25,7 @@ Aussitôt que le Khakan l’aperçut, il l’embrassa, admira la largeur de sa
 
 > Dieu soit loué, ô Pehlewan, Dieu soit loué de ce que je te vois si bien portant et si heureux !
 
-Ensuite il lui demanda qui dans l’armée de l’lran portait le sceau et qui le diadème;
+Ensuite il lui demanda qui dans l’armée de l’lran portait le sceau et qui le diadème;
 
 Sur qui reposait l’espoir des braves, qui étaient les héros, et pourquoi ils s’étaient établis dans ces montagnes.
 
@@ -37,11 +37,11 @@ Piran répondit:
 >
 > Tes questions ont réjoui le cœur du vieillard.
 >
-> Par l’effet de ta fortune je suis joyeux et bien portant, et mon âme ne recherche que la poussière de tes pieds.
+> Par l’effet de ta fortune je suis joyeux et bien portant, et mon âme ne recherche que la poussière de tes pieds.
 >
 > Je vais répondre au roi sur ce qu’il désire savoir des Iraniens.
 >
-> Personne parmi eux ne possède un trône, ni un diadème, ni un sceau, ni de grandes dignités;
+> Personne parmi eux ne possède un trône, ni un diadème, ni un sceau, ni de grandes dignités;
 >
 > Ils sont venus chercher la guerre et des combats sans nombre, et à la fin ils n’ont trouvé qu’un rocher stérile.
 >
@@ -57,7 +57,7 @@ Piran répondit:
 
 Le Khakan lui dit:
 
-> Reste auprès de moi, et fais venir tes amis;
+> Reste auprès de moi, et fais venir tes amis;
 >
 > Aujourd’hui nous boirons du vin autant qu’il nous plaira, et nous ne penserons pas aux soucis des jours à venir.
 
