@@ -110,3 +110,53 @@ Piran lui répondit:
 > Je passerai cette nuit à réfléchir et à parler à l’assemblée des grands.
 
 Ensuite il s’en retourna au centre de l’armée, les lèvres pleines de mensonges, la tête remplie du désir de la vengeance.
+
+Lorsque Piran fut parti, les mouvements des deux armées firent ressembler le monde à une montagne qui bouillonnerait.
+
+Rustem dit aux Iraniens:
+
+> Me voilà ceint pour le combat;
+>
+> Que chacun de vous remplisse son cœur d’une ardeur belliqueuse, qu’il fronce ses sourcils menaçants, car nous avons à soutenir une grande lutte, et l’on verra combien il y a loin du loup à la brebis.
+>
+> L’astrologue m’a dit:
+>
+> > J’ai bien appréhendé ce jour, car on y livrera une bataille entre deux montagnes, et le genre humain tout entier formera les armées opposées;
+> >
+> > Les rois pleins d’expérience y seront en foule, et le monde y sera dépeuplé;
+> >
+> > La vengeance s’y assouvira, et la massue d’acier deviendra molle comme la cire.
+>
+> Mais qui que ce soit qui vienne me combattre, n’en soyez pas effrayés, car je lui lierai les deux mains avec le nœud de mon lacet, quand même le ciel sublime viendrait à son aide;
+>
+> Que personne et qu’aucun de vous n’ait donc peur de ces héros illustres.
+>
+> Sans doute je succomberai dans ce combat si le sort est contre moi, et je mourrai en prononçant, comme c’est mon devoir, le nom du Dispensateur de tout bien.
+>
+> Mais puisque mon corps appartient à la mort, il me faut de la gloire, il nous faut une gloire durable, et puisque nous ne pouvons rester sur la terre, ne nous préoccupons pas tant de l’avenir, n’attachons pas notre cœur à ce séjour passager;
+>
+> Car quoi que nous fassions, il finira par nous trahir.
+>
+> Si notre âme est amie de la sagesse, elle ne comptera ni les jours heureux ni les jours malheureux, et le maître lui-même de la couronne et des trésors ne liera pas son cœur à cette vie fugitive.
+
+L’armée répondit à Rustem:
+
+> Tes ordres montent plus haut que la sphère de la lune;
+>
+> Nous combattrons avec nos épées tranchantes, de manière à laisser un nom jusqu’au jour de la résurrection.
+
+Les armées s’approchèrent l’une de l’autre;
+
+Tu aurais dit qu’un nuage noir arrivait, d’où il pleuvait des épées et des flèches;
+
+Le monde ressemblait à une mer de poix, la face brillante du soleil était obscurcie par les pointes de fer et par les plumes d’aigle des flèches, et l’on aurait cru que les fers des lances qui perçaient la poussière souillaient les astres de sang;
+
+Les massues à tête de bœuf retentissaient comme s’il fût tombé des pierres du ciel;
+
+La terre et la poussière étaient inondées de sang et de cervelle, et les casques volaient en éclats sur les têtes;
+
+Les épées brillaient comme des diamants au milieu d’un nuage d’où il pleuvait du sang.
+
+Le vieux Gouderz dit:
+
+> Depuis que j’ai l’âge d’homme et que je me suis ceint pour la guerre, je n’ai vu ni entendu raconter par les grands une pareille bataille, car le carnage est tel que sur deux hommes dans le monde, il y aura un mort et un vivant.
