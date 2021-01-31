@@ -67,6 +67,18 @@ export default () => (
           </a>{' '}
           sur GitHub;
         </p>
+        <p>
+          I am looking for a Web Designer to create a better user experience and an Artist to
+          replace photos by illustrations/drawings. Feel free to introduce yourself in the{' '}
+          <a
+            href="https://github.com/hdorgeval/le-livre-des-rois/discussions"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            discussions
+          </a>{' '}
+          on Github;
+        </p>
         <br />
         <FirdousiArticles />
       </div>
