@@ -1,5 +1,7 @@
 # [Le Livre des Rois - Shâhnâmeh](https://www.lelivredesrois.com/)
 
+!!! I am looking for a Web Designer to create a better user experience and an Artist to replace photos by illustrations/drawings. Feel free to introduce yourself in the [discussions](https://github.com/hdorgeval/le-livre-des-rois/discussions) !!!
+
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ce361110-8082-440c-938a-267a21d43f05/deploy-status)](https://app.netlify.com/sites/lelivredesrois/deploys)
 
 ## Histoire légendaire des rois de Perse par Ferdowsi.
