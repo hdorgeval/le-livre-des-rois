@@ -132,7 +132,7 @@ A la fin il dit:
 >
 > Puisse la fortune de nos ennemis périr!
 >
-> Nous allons livrer bataille, et mettre le monde à la merci du pays d’lran.
+> Nous allons livrer bataille, et mettre le monde à la merci du pays d’Iran.
 
 Les grands le bénirent, disant:
 

@@ -21,7 +21,7 @@ Rustem dit aux Iraniens:
 >
 > Ces paroles du roi me rendirent comme insensé, mon cerveau s’enflamma d’une ardeur guerrière, et mon âme devint noire comme l’ébène, lorsque je pensai à Bahram, à Gouderz et à Rivniz.
 >
-> Je quittai l’lran en toute hâte, et, impatient de me battre, je ne m’arrêtai pas en route un instant;
+> Je quittai l’Iran en toute hâte, et, impatient de me battre, je ne m’arrêtai pas en route un instant;
 >
 > Mais lorsque mes regards tombèrent sur le Khakan de la Chine, sur ces grands et ces braves, et surtout sur Kamous avec sa mine et sa stature, ses bras et ses jambes, ses mains et sa massue, je me dis que ma fin était venue;
 >

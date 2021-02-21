@@ -88,7 +88,7 @@ Quand il vit le roi, il versa sur lui les dinars en disant:
 >
 > Ô roi, je suis un marchand né d’un père turc et d’une mère persane.
 >
-> J’achète des marchandises dans le Touran, je les porte dans l’lran ou dans le désert des braves.
+> J’achète des marchandises dans le Touran, je les porte dans l’Iran ou dans le désert des braves.
 >
 > J’ai amené une caravane de chameaux, et je vends et j’achète des étoffes pour vêlements, des tapis, des pierres précieuses, des diadèmes et toutes sortes de belles choses.
 >

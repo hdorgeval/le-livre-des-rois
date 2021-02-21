@@ -39,7 +39,7 @@ Zerir s’étant levé pour partir, le Kaisar demanda à Guschtasp pourquoi il 
 
 Guschtasp lui dit:
 
-> J’ai été autrefois au service du roi d’lran, et toute l’armée et toute la cour du roi reconnaissent mes hauts faits.
+> J’ai été autrefois au service du roi d’Iran, et toute l’armée et toute la cour du roi reconnaissent mes hauts faits.
 >
 > Il vaut donc mieux que je me rende auprès d’eux, que je leur parle et que je les écoute.
 >
@@ -57,7 +57,7 @@ Tous se prosternèrent devant lui , joyeux de ce que leurs peines, qui avaient d
 
 Aussitôt qu’il fut près de Zerir, il mit pied à terre, las de ces luttes; il le serra dans ses bras comme un frère aîné et, aussitôt qu’il put parler, il se mit à lui faire des questions.
 
-Ils s’assirent sur le trône, entourés des grands, des puissants et des héros de l’lran.
+Ils s’assirent sur le trône, entourés des grands, des puissants et des héros de l’Iran.
 
 Le fortuné Zerir dit à Guschtasp :
 

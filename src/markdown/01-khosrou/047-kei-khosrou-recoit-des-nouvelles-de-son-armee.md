@@ -57,7 +57,7 @@ Que leur mort remplissait le monde de sang et de poussière, enfin que le puissa
 
 A ces nouvelles le cœur de l’illustre Keï Khosrou fut bouleversé;
 
-Il ordonna à Rustem au corps d’éléphant de se rendre avec son armée à la cour, où les sages, les expérimentés et les glorieux Mobeds de tout l’lran se réunirent.
+Il ordonna à Rustem au corps d’éléphant de se rendre avec son armée à la cour, où les sages, les expérimentés et les glorieux Mobeds de tout l’Iran se réunirent.
 
 Le maître des grands commença à parler à Rustem des combats de l’armée iranienne, disant:
 
@@ -85,7 +85,7 @@ Le maître des grands commença à parler à Rustem des combats de l’armée 
 >
 > Ta massue et la pointe de tes flèches font repentir le lion de son agression au jour du malheur.
 >
-> Depuis que tu es homme et que tu as mis un casque sur ta tête, aucun ennemi n’a osé porter ses regards sur l’lran;
+> Depuis que tu es homme et que tu as mis un casque sur ta tête, aucun ennemi n’a osé porter ses regards sur l’Iran;
 >
 > mais maintenant Thous, Gouderz et Guiv, les chefs de mon armée, et beaucoup de braves de ce pays ont le cœur plein de sang et les yeux remplis de larmes, et ils sont en fuite devant les guerriers d’Afrasiab.
 >
@@ -115,7 +115,7 @@ Rustem répondit:
 >
 > Car tu es un roi glorieux, fort, sage et juste, et la voûte du ciel n’a jamais connu ton pareil.
 >
-> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’lran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
+> Le roi sait que jusqu’à ce que Keï Kobad eût placé sur sa tête la couronne des Keïanides, je suis resté dans l’Iran ceint pour le combat, sans prendre du repos pendant un seul jour, sans m’inquiéter des déserts, des ténèbres, des éléphants, des lions, des magiciens, des dragons courageux, des grands du Touran et du Mazenderan, de la nuit sombre, des lourdes massues, de la soif, des longues routes et des fatigues pour lesquelles je renonçais aux plaisirs.
 >
 > J’ai éprouvé tant de douleurs et couru tant de dangers que je n’ai jamais pu penser à jouir de la vie un seul jour.
 >

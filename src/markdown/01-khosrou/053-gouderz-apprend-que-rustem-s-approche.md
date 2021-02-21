@@ -65,7 +65,7 @@ Ses joues devinrent noires comme la poix par l’excès de ses soucis, il avait 
 
 Ensuite il dit à la sentinelle:
 
-> Ô homme aux yeux perçants, à l’esprit éveillé, regarde les armées du Touran et de l’Iran qui se reposent du combat, et dis-moi où est le drapeau du Sipehdar de l’lran;
+> Ô homme aux yeux perçants, à l’esprit éveillé, regarde les armées du Touran et de l’Iran qui se reposent du combat, et dis-moi où est le drapeau du Sipehdar de l’Iran;
 >
 > Regarde à droite et à gauche.
 
@@ -135,13 +135,13 @@ Houman l’écouta, sourit et dit:
 
 > Il parait que la fortune veille sur nous et se ligue avec nous.
 
-Un cri de joie éclata dans l’armée du Touran et monta du champ de bataille jusqu’aux nues, et les grands de l’lran l’entendirent, soucieux et le cœur navré; leurs joues devinrent jaunes et leurs lèvres livides.
+Un cri de joie éclata dans l’armée du Touran et monta du champ de bataille jusqu’aux nues, et les grands de l’Iran l’entendirent, soucieux et le cœur navré; leurs joues devinrent jaunes et leurs lèvres livides.
 
 Ils se dispersèrent dans la montagne pour se communiquer leurs dernières volontés;
 
 Partout on voyait des hommes rassemblés qui pleuraient leur destinée, disant :
 
-> Hélas! les braves, les fils des rois, que le pays d’lran a oubliés!
+> Hélas! les braves, les fils des rois, que le pays d’Iran a oubliés!
 >
 > La gueule du lion sera leur linceul;
 >

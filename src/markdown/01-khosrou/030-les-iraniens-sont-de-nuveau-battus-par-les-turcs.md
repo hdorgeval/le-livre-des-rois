@@ -161,7 +161,7 @@ Lorsque les Turcs le virent venir avec le drapeau, un grand nombre de braves au 
 
 Houman leur dit:
 
-> C’est ce drapeau violet qui fait la force de l’lran, et si nous pouvons nous en emparer, nous rendrons le monde étroit devant Khosrou.
+> C’est ce drapeau violet qui fait la force de l’Iran, et si nous pouvons nous en emparer, nous rendrons le monde étroit devant Khosrou.
 
 Bijen banda son arc comme un héros, il lança sur ses ennemis une pluie de traits, qui les tenait à distance et préparait un festin pour les loups.
 

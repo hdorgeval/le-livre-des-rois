@@ -104,7 +104,7 @@ Piran lui dit:
 >
 > Trop d’hommes d’illustre naissance, trop de princes et de guerriers ont été blessés par tes flèches dans ce combat inattendu;
 >
-> Et qui de nous passera dorénavant la frontière de l’lran sans que sa tête et son sang bouillonnent?
+> Et qui de nous passera dorénavant la frontière de l’Iran sans que sa tête et son sang bouillonnent?
 >
 > Et pourtant si je ne craignais la colère d’Afrasiab, que cela remplirait de courroux, je te donnerais un cheval, ô jeune homme, pour te porter auprès du Pehlewan.
 
@@ -132,7 +132,7 @@ Aussitôt qu’il l’aperçut une lance en main, il poussa un cri comme un él�
 
 > Tu ne survivras pas au combat que va te livrer cette armée couverte de gloire;
 >
-> Tu voudrais retourner dans l’lran;
+> Tu voudrais retourner dans l’Iran;
 >
 > Tu voudrais de nouveau porter haut la tête;
 >

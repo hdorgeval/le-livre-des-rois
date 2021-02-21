@@ -79,7 +79,7 @@ Il dit aux braves:
 >
 > C’est lui qui est la source de la joie et de la tristesse, qui nous déprime jusqu’à terre ou nous élève jusqu’aux nuages.
 >
-> Maintenant ce brave qui portait haut la tête, dont le lion courageux n’était pas l’égal dans le combat, qui était parti pour dévaster l’lran, pour faire de notre pays la demeure des lions;
+> Maintenant ce brave qui portait haut la tête, dont le lion courageux n’était pas l’égal dans le combat, qui était parti pour dévaster l’Iran, pour faire de notre pays la demeure des lions;
 >
 > Qui ne devait laisser dans le Zaboulistan et dans le Kaboul ni palais ni jardin, et ne poser sa massue que lorsqu’il aurait anéanti Rustem fils de Zal;
 >

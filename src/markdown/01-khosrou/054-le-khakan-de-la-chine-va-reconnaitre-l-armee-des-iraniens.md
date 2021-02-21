@@ -105,7 +105,7 @@ Kamous lui répondit:
 >
 > Armons-nous, livrons bataille sans retard, rendons-leur étroites la montagne et les vallées;
 >
-> Ensuite nous conduirons nos troupes dans l’lran;
+> Ensuite nous conduirons nos troupes dans l’Iran;
 >
 > Nous n’y laisserons ni trône, ni couronne, ni diadème;
 >

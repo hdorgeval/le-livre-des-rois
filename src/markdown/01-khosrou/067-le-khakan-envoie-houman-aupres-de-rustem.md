@@ -109,7 +109,7 @@ Rustem lui répondit:
 >
 > Maintenant je vais t’énumérer ces méchants, que leurs noms soient maudits, que leurs désirs ne s’accomplissent pas!
 >
-> D’abord l’instigateur de ce crime, Guersiwez, qui a affligé et tourmenté l’lran.
+> D’abord l’instigateur de ce crime, Guersiwez, qui a affligé et tourmenté l’Iran.
 >
 > Puis tous les membres de la famille de Tour, que tu sais avoir follement troublé cette eau, tels que Guerouï, Zereh et ses fils, maudite soit à jamais cette race dont la méchanceté a opprimé Siawusch, lui qui avait affranchi l’Iran et le Touran de leurs haines!
 >
@@ -137,7 +137,7 @@ Rustem lui répondit:
 
 Houman l’écoutait transi de peur, et le son de la voix de Rustem, qu’il entendait vouer à sa vengeance toute sa famille, le faisait trembler comme une feuille d’arbre; il répondit:
 
-> Ô homme au cœur de lion, ô héros avide de guerre, avec cette mine et cette haute stature, ta place devrait être le trône de l’Iran: et tu ne serais qu’un vaillant Pehlewan ou un grand de l’lran plein d’audace?
+> Ô homme au cœur de lion, ô héros avide de guerre, avec cette mine et cette haute stature, ta place devrait être le trône de l’Iran: et tu ne serais qu’un vaillant Pehlewan ou un grand de l’Iran plein d’audace?
 >
 > Tu m’as demandé mon nom et mon origine;
 >

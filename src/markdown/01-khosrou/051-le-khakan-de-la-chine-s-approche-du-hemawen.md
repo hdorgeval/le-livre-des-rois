@@ -44,7 +44,7 @@ Aussitôt que le Khakan l’aperçut, il l’embrassa, admira la largeur de sa p
 
 > Dieu soit loué, ô Pehlewan, Dieu soit loué de ce que je te vois si bien portant et si heureux !
 
-Ensuite il lui demanda qui dans l’armée de l’lran portait le sceau et qui le diadème;
+Ensuite il lui demanda qui dans l’armée de l’Iran portait le sceau et qui le diadème;
 
 Sur qui reposait l’espoir des braves, qui étaient les héros, et pourquoi ils s’étaient établis dans ces montagnes.
 

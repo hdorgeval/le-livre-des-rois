@@ -64,4 +64,4 @@ Guiv lui répondit:
 >
 > Demain nous exhausserons notre retranchement, ensuite nous tirerons les épées du combat, nous verrons quel est leur plan, et leur secret se dévoilera certainement devant nous.
 >
-> Pendant ce temps nous recevrons des nouvelles de l’lran, et les branches, du noble cyprès brilleront de nouveau.
+> Pendant ce temps nous recevrons des nouvelles de l’Iran, et les branches, du noble cyprès brilleront de nouveau.

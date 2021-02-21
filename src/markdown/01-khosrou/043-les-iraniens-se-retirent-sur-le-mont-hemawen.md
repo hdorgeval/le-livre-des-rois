@@ -31,7 +31,7 @@ Dans ce moment la lune montra sa face au-dessus de la montagne, semblable à un
 
 Le Sipehdar Piran rassembla ses troupes et leur dit:
 
-> Il reste encore beaucoup d’lraniens;
+> Il reste encore beaucoup d’Iraniens;
 >
 > Mais aussitôt que l’hyacinthe jaune versera ses flots de lumière sur l’horizon azuré, nous tuerons ceux qui ont survécu, nous désolerons par leur mort le cœur du roi de l’Iran.
 

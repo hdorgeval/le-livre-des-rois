@@ -71,4 +71,4 @@ Ensuite le roi lui ordonna de repartir, de se rendre de l’Iran auprès du Sip
 
 > Khosrou ne se reposera point durant la guerre contre Afrasiab, il ne mangera et ne dormira point, que la tête de ce puissant roi ne soit prise dans le nœud de ton lacet.
 
-Feribourz partit comme le roi de l’lran l’avait désiré.
+Feribourz partit comme le roi de l’Iran l’avait désiré.

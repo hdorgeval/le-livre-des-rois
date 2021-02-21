@@ -44,7 +44,7 @@ Le vaillant Houman lui répondit:
 
 > Un sage ne méprise pas un ennemi.
 >
-> Les grands de l’lran ont repris courage, on les croirait capables de briser le fer;
+> Les grands de l’Iran ont repris courage, on les croirait capables de briser le fer;
 >
 > Depuis qu’il est arrivé une armée de l’Iran, leurs cris de guerre ne cessent pas sur ce champ de bataille.
 
