@@ -76,7 +76,7 @@ Il leur répondit:
 
 > Avant tout il faut que je voie le roi; ensuite je montrerai mes richesses, s’il m’en donne la permission, et vos yeux les verront.
 
-ll fit déposer les charges de ses chameaux, et se mit à réfléchir à ce qu’il fallait faire pour attirer les acheteurs.
+Il fit déposer les charges de ses chameaux, et se mit à réfléchir à ce qu’il fallait faire pour attirer les acheteurs.
 
 Il prit un cheval, deux robes de brocart de Chine dont les bras et les manches brillaient, une coupe remplie de joyaux dignes d’un roi, des dinars pour l’offrande, et une pièce de soie qui couvrait la coupe et au-dessous de laquelle se trouvaient du musc et de l’ambre gris.
 

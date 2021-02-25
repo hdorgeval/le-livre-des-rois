@@ -66,7 +66,7 @@ Alors Isfendiar, le héros au corps puissant, se mit à parler, poussé par ses
 >
 > Je lui ai répondu qu’au jour du jugement je montrerais à Dieu ces liens pesants, ces chaînes et ces clous des forgerons, que je me plaindrais au Créateur de l’homme qui m’avait calomnié.
 >
-> ll m’a demandé si le sang versé de tant de chefs portant haut la tête et armés de lourdes massues, si mon noble frère Ferschidwerd, blessé et gisant sur le champ de bataille, si tant d’hommes percés de flèches dans le combat, si mes sœurs emmenées captives, si le roi en fuite devant les Turcs let se repentant de m’avoir jeté dans les fers, si tant de malheurs, de peines, d’angoisses et d’outrages ne me frappaient pas le cœur?
+> Il m’a demandé si le sang versé de tant de chefs portant haut la tête et armés de lourdes massues, si mon noble frère Ferschidwerd, blessé et gisant sur le champ de bataille, si tant d’hommes percés de flèches dans le combat, si mes sœurs emmenées captives, si le roi en fuite devant les Turcs let se repentant de m’avoir jeté dans les fers, si tant de malheurs, de peines, d’angoisses et d’outrages ne me frappaient pas le cœur?
 >
 > Il m’a dit beaucoup de choses semblables, et ses paroles étaient pleines de souci et de douleur.
 >

@@ -112,7 +112,7 @@ Piran dit, partit et s’en retourna le cœur plein de tendresse pour Bahram, ma
 
 Il rencontra près du camp Tejaou, qui s’avança vers lui, avide de vengeance et de combats, et lui demanda ce qu’il avait fait.
 
-ll lui répondit:
+Il lui répondit:
 
 > Bahram n’a pas son égal parmi les braves;
 >
