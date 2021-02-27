@@ -33,11 +33,11 @@ Schideh lui dit:
 >
 > Si tu manques à ta promesse et que tu agisses avec colère, rien ne prospérera dans ta main.
 >
-> Ne trouble pas cette eau limpide, car ceux qui te cherchent des défauts te blâmeront.
+> Ne trouble pas cette eau limpide, car ceux qui te cherchent des défauts te blâmeront.
 
 Le roi se mit à injurier son fils, et alla dans sa colère jusqu’à le soupçonner; à la fin il lui dit:
 
-> Si le Div Pouladwend succombe sous son ennemi, aucun des nôtres ne restera en vie, grâce à toi qui n’est brave qu’avec la langue.
+> Si le Div Pouladwend succombe sous son ennemi, aucun des nôtres ne restera en vie, grâce à toi qui n’est brave qu’avec la langue.
 
 A ces paroles le vaillant Schideh secoua la bride de son cheval et s’élança vers le lieu du combat rapidement et comme un lion.
 
@@ -73,7 +73,7 @@ Rustem répondit:
 >
 > Car le Div ne ferait que répandre de la poussière sur sa propre tête.
 
-Rustem étendit la main comme un lion, saisit le crocodile à la poitrine et au bras, et quelque vigueur que montrât Pouladwend, il l’arracha du sol comme un platane, l’éleva à la hauteur de ses épaules et le jeta sur la terre en rendant grâce au Créateur.
+Rustem étendit la main comme un lion, saisit le crocodile à la poitrine et au bras, et quelque vigueur que montrât Pouladwend, il l’arracha du sol comme un platane, l’éleva à la hauteur de ses épaules et le jeta sur la terre en rendant grâce au Créateur.
 
 L’armée de l’Iran poussa un cri, les tambours se portèrent en avant;
 

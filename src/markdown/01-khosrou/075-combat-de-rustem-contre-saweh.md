@@ -13,7 +13,7 @@ Rustem dit aux Iraniens:
 
 > Nous n’avons fait dans ce combat aucune perte.
 >
-> Maintenant les Iraniens seuls posséderont ces éléphants, ces trésors, ce trône et cette couronne brillante, et je n’ai besoin pour cela que des pieds de Raksch et de la grâce de Dieu.
+> Maintenant les Iraniens seuls posséderont ces éléphants, ces trésors, ce trône et cette couronne brillante, et je n’ai besoin pour cela que des pieds de Raksch et de la grâce de Dieu.
 >
 > Je ne laisserai plus fouler du pied la terre à aucun homme du pays de Seklab , de Schikin et de la Chine;
 >
@@ -23,7 +23,7 @@ Rustem dit aux Iraniens:
 >
 > Si Dieu le distributeur de la justice me donne des forces, si Raksch montre son brillant courage, je ferai de cette plaine un cimetière, je convertirai en marais cette terre fertile.
 >
-> Chacun de vous se rendra à son poste en toute hâte et en courant comme le vent;
+> Chacun de vous se rendra à son poste en toute hâte et en courant comme le vent;
 >
 > Vous écouterez, et lorsque je m’élancerai de cette place, vous ferez sonner les conques et les clochettes, vous rendrez la terre noire comme l’ébène par la poussière que soulèveront vos chevaux, on battra les timbales, vous frapperez sur les masses d’armes et les lourdes massues des Touraniem comme le marteau du forgeron frappe sur l’acier;
 >
@@ -53,7 +53,7 @@ Il dit à Rustem:
 
 Lorsque Rustem entendit les paroles de Saweh, il saisit sa lourde massue, la détacha et l’en frappa sur la tête;
 
-L’âme de Saweh quitta son corps misérablement.
+L’âme de Saweh quitta son corps misérablement.
 
 Rustem le jeta par terre, le fit fouler aux pieds par Raksch, et il ne resta pas de trace de lui dans le monde.
 

@@ -25,7 +25,7 @@ Pouladwend en fut irrité; il détacha du crochet de la selle son lacet roulé e
 
 Il le saisit par la ceinture, l’enleva sans peine de la selle et le jeta par terre.
 
-Lorsque Guiv vit ce combat, lorsqu’il vit que Thous fils de Newder était renversé, il lança son cheval Schebdiz, et se prépara, corps et âme, pour la lutte;
+Lorsque Guiv vit ce combat, lorsqu’il vit que Thous fils de Newder était renversé, il lança son cheval Schebdiz, et se prépara, corps et âme, pour la lutte;
 
 Couvert d’une cotte de mailles et armé d’une massue, ce brave, semblable à un
 lion, attaqua le Div.
@@ -34,7 +34,7 @@ Pouladwend fit voler son lacet et pris la tête de Guiv dans le nœud.
 
 Rehham et Bijen considèrent de loin la force, la stature et l’adresse de Pouladwend, et accourent pour lui lier tous deux les mains avec leurs lacets.
 
-Le prudent Poulad se hâta de lancer son cheval et de courir sur eux;
+Le prudent Poulad se hâta de lancer son cheval et de courir sur eux;
 
 Et bientôt il eut renversé par terre et foulé comme une chose vile, devant les yeux de tant de cavaliers qui couvraient la plaine, ces deux héros tant de fois victorieux, ces deux grands et nobles personnages qui portaient si haut la tête.
 

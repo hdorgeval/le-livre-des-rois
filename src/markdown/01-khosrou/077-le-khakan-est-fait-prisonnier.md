@@ -11,7 +11,7 @@ order: '077'
 
 Le Khakan lui répondit par des injures et lui dit:
 
-> Ô homme vil de corps et d’âme!
+> Ô homme vil de corps et d’âme!
 >
 > Maudits soient l’Iran, et son roi, et son armée.
 >

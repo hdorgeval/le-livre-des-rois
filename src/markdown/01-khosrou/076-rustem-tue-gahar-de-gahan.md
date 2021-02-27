@@ -15,7 +15,7 @@ A l’aile gauche se trouvait Gahar de Gahan, un héros au cœur de lion, qui te
 
 Il tressaillit en voyant le casque de Rustem;
 
-Tu aurais dit que cette vue lui déchirait l’âme; il dit:
+Tu aurais dit que cette vue lui déchirait l’âme; il dit:
 
 > Je vais venger le Touran et la Chine en combattant l’homme du Seïstan.
 >
@@ -75,7 +75,7 @@ Ils s’avancèrent tous vers le Khakan, les troupes excitées par le ressentime
 
 Rustem commença l’attaque;
 
-Il lâcha les rênes à son coursier Raksch;
+Il lâcha les rênes à son coursier Raksch;
 
 Il fit jaillir le sang jusqu’à la sphère de la lune, et les étoiles regardaient avec étonnement ce champ de bataille.
 

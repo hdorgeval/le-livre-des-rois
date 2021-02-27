@@ -53,7 +53,7 @@ Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 > >
 > > Connais-tu d’autres coupables que les membres de la famille d’Afrasiab?
 > >
-> > Ne te hâte pas de parler.
+> > Ne te hâte pas de parler.
 > >
 > > Ceux que Rustem demande sont tous des princes, des grands, maîtres des couronnes et des diadèmes.
 > >
@@ -63,7 +63,7 @@ Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 > >
 > > Puisqu’il est arrivé une si grande armée de la Chine, du Seklab, de l’Inde et du Touran, pourquoi Afrasiab demanderait-il la paix, lui qui envoie ici tant de troupes de la terre ferme et d’au delà des mers?
 >
-> On a répondu à mes discours par des reproches, et je me suis hâté de revenir auprès de toi.
+> On a répondu à mes discours par des reproches, et je me suis hâté de revenir auprès de toi.
 >
 > Le roi de l’Inde veut te combattre avec les flèches et l’arc et son épée indienne;
 >
@@ -105,7 +105,7 @@ Piran lui répondit:
 >
 > Puissent les rois te rendre hommage!
 >
-> Mon cœur et mon âme te sont soumis, et mon esprit fut toujours ton esclave.
+> Mon cœur et mon âme te sont soumis, et mon esprit fut toujours ton esclave.
 >
 > Je passerai cette nuit à réfléchir et à parler à l’assemblée des grands.
 
@@ -137,7 +137,7 @@ Rustem dit aux Iraniens:
 >
 > Car quoi que nous fassions, il finira par nous trahir.
 >
-> Si notre âme est amie de la sagesse, elle ne comptera ni les jours heureux ni les jours malheureux, et le maître lui-même de la couronne et des trésors ne liera pas son cœur à cette vie fugitive.
+> Si notre âme est amie de la sagesse, elle ne comptera ni les jours heureux ni les jours malheureux, et le maître lui-même de la couronne et des trésors ne liera pas son cœur à cette vie fugitive.
 
 L’armée répondit à Rustem:
 
@@ -159,4 +159,4 @@ Les épées brillaient comme des diamants au milieu d’un nuage d’où il ple
 
 Le vieux Gouderz dit:
 
-> Depuis que j’ai l’âge d’homme et que je me suis ceint pour la guerre, je n’ai vu ni entendu raconter par les grands une pareille bataille, car le carnage est tel que sur deux hommes dans le monde, il y aura un mort et un vivant.
+> Depuis que j’ai l’âge d’homme et que je me suis ceint pour la guerre, je n’ai vu ni entendu raconter par les grands une pareille bataille, car le carnage est tel que sur deux hommes dans le monde, il y aura un mort et un vivant.

@@ -17,7 +17,7 @@ On écrivit, comme il l’avait ordonné, avec de l’ambre sur de la soie, une 
 >
 > Lui qui a créé la lune, Saturne et le soleil;
 >
-> Lui qui donne de l’éclat au pouvoir, aux diadèmes et à la bravoure, qui a créé le ciel, le temps et la terre, l’âme, la raison et la foi.
+> Lui qui donne de l’éclat au pouvoir, aux diadèmes et à la bravoure, qui a créé le ciel, le temps et la terre, l’âme, la raison et la foi.
 >
 > Puisse-t-il bénir le roi!
 >
@@ -25,7 +25,7 @@ On écrivit, comme il l’avait ordonné, avec de l’ambre sur de la soie, une 
 >
 > Je suis arrivé selon tes ordres entre deux montagnes, où j’ai trouvé rassemblées les armées de trois royaumes, et où l’ennemi avait réuni sur le champ de bataille plus de cent mille cavaliers armés d’épées, des hommes de Kaschan, de Schikin, de la Chine et de l’Inde, une armée qui s’étendait de la Chine jusqu’à la mer du Sind et qui couvrait de ses tentes, de ses éléphants et de ses bagages tout le pays depuis le Kaschmir jusqu’au pied du mont Schahd.
 >
-> Je n’ai pas eu peur grâce à la fortune du roi, et j’ai détruit ses ennemis sur le champ de bataille.
+> Je n’ai pas eu peur grâce à la fortune du roi, et j’ai détruit ses ennemis sur le champ de bataille.
 >
 > Nous avons combattu pendant quarante jours;
 >
@@ -45,7 +45,7 @@ On écrivit, comme il l’avait ordonné, avec de l’ambre sur de la soie, une 
 
 Rustem apposa son sceau sur la lettre et la donna au vaillant et noble Feribourz;
 
-Il lui remit les rois, les éléphants et trois mille chameaux chargés des dépouilles du champ de bataille, et le fils de Kaous partit gaiement et se dirigea en toute hâte vers Keï Khosrou.
+Il lui remit les rois, les éléphants et trois mille chameaux chargés des dépouilles du champ de bataille, et le fils de Kaous partit gaiement et se dirigea en toute hâte vers Keï Khosrou.
 
 Rustem l’accompagna avec les grands et les braves de son armée, ensuite il l’embrassa et prit congé de lui, et le prince versa des larmes.
 

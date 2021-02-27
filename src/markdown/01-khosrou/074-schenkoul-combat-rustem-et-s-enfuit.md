@@ -17,7 +17,7 @@ Schenkoul devançait l’armée en poussant des cris et en disant:
 
 Lorsque la voix de Schenkoul frappa Rustem, il regarda de son côté, l’aperçut et dit:
 
-> Je n’ai demandé en public et en secret au Créateur qu’une seule grâce, qui est qu’un de ces étrangers, dans cette grande armée, ait le courage de me provoquer au combat.
+> Je n’ai demandé en public et en secret au Créateur qu’une seule grâce, qui est qu’un de ces étrangers, dans cette grande armée, ait le courage de me provoquer au combat.
 >
 > Je ne laisserai en vie personne du pays de Seklab ni de l’Inde;
 >
@@ -89,7 +89,7 @@ Piran dit au Khakan de la Chine:
 >
 > Car quand Rustem le laissera-t-il jouir du repos et du sommeil?
 >
-> Ce qui est certain, c’est que nous serons blâmés.
+> Ce qui est certain, c’est que nous serons blâmés.
 >
 > Si nous cherchons à adoucir Rustem, on nous soupçonnera;
 >

@@ -37,7 +37,7 @@ Il parcourut la gauche et la droite des ennemis pour découvrir où se tenait P
 
 A la fin, ne le voyant pas, lui et ses braves revinrent auprès du fier Rustem.
 
-Leurs destriers étaient excédés de fatigue, eux-mêmes étaient blessés et las de combattre, et ils revinrent, Tehemten à leur tête, dans la montagne, heureux d’avoir atteint leur but, le corps brisé de fatigue et l’âme ravie de ce combat, avec leurs casques et leurs cuirasses couverts de sang et de poussière, et les caparaçons de leurs chevaux hachés: telle est la coutume et la condition du monde.
+Leurs destriers étaient excédés de fatigue, eux-mêmes étaient blessés et las de combattre, et ils revinrent, Tehemten à leur tête, dans la montagne, heureux d’avoir atteint leur but, le corps brisé de fatigue et l’âme ravie de ce combat, avec leurs casques et leurs cuirasses couverts de sang et de poussière, et les caparaçons de leurs chevaux hachés: telle est la coutume et la condition du monde.
 
 Ils ne se reconnaissaient pas les uns les autres avant de s’être lavés entièrement; leurs poitrines et leurs épées, leurs pieds et leurs étriers étaient trempés de sang; on ne distinguait pas les montées des descentes, tant il y avait de morts.
 

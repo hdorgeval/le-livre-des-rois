@@ -53,7 +53,7 @@ Rustem lui répondit:
 >
 > Tu n’es ni de fer ni de feu.
 
-Pouladwend, à ces paroles, se rappela le vieux proverbe, que quiconque cherche un combat injuste, en reviendra blessé au cœur et le visage pâle.
+Pouladwend, à ces paroles, se rappela le vieux proverbe, que quiconque cherche un combat injuste, en reviendra blessé au cœur et le visage pâle.
 
 Que ce soit un ennemi ou un ami de qui te vient le malheur, il est bon que justice soit faite à l’égard des bons et des méchants.
 
@@ -75,7 +75,7 @@ Tehemten avait cru que la cervelle de Pouladwend allait lui jaillir des deux ore
 
 Mais quand il le vit rester en selle, il dit en s’adressant au Créateur:
 
-> Ô toi qui es au-dessus de la fortune inconstante, maître du monde, qui vois tout et qui maintiens tout ce qui existe, si cette guerre est injuste, si je ne dois pas demeurer plus longtemps sur cette terre, je consens que ce soit par la main de Pouladwend que mon âme soit délivrée des chaînes du coma.
+> Ô toi qui es au-dessus de la fortune inconstante, maître du monde, qui vois tout et qui maintiens tout ce qui existe, si cette guerre est injuste, si je ne dois pas demeurer plus longtemps sur cette terre, je consens que ce soit par la main de Pouladwend que mon âme soit délivrée des chaînes du coma.
 >
 > Mais si Afrasiab est un homme injuste, ne me prive pas de la vie, de la force et du pouvoir d’agir;
 >
@@ -87,7 +87,7 @@ Ensuite il dit à Pouladwend:
 >
 > Tes mains ne manient plus les rênes noires;
 >
-> Descends de cheval, ô Div, et demande grâce!
+> Descends de cheval, ô Div, et demande grâce!
 
 Pouladwend répondit:
 
@@ -129,7 +129,7 @@ A la fin le vaillant Poulad dit:
 >
 > Si tu veux, nous allons nous préparer à lutter comme des lions furieux.
 >
-> Nous allons tourner l’un autour de l’autre en luttant, et nous saisir par les courroies de nos ceintures, pour voir à qui le sort accordera la grâce de sortir victorieux de ce combat.
+> Nous allons tourner l’un autour de l’autre en luttant, et nous saisir par les courroies de nos ceintures, pour voir à qui le sort accordera la grâce de sortir victorieux de ce combat.
 
 Rustem lui répondit:
 

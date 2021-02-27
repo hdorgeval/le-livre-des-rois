@@ -25,11 +25,11 @@ Ensuite il tourna la bride de son cheval, s’éloigna de la route, ôta de sa t
 >
 > Tu m’as délivré de ces peines et de ces malheurs, tu m’as fait grandir pour la couronne, la terre et le siècle sont devenus mes esclaves, les hommes ont été comblés de mes trésors.
 >
-> Je te rends grâce de m’avoir entouré d’hommes si vaillants;
+> Je te rends grâce de m’avoir entouré d’hommes si vaillants;
 >
 > Mais avant tout conserve-moi la vie de Rustem.
 
-Il revint couvert de poussière, et passa en revue les éléphants et les prisonniers, en célébrant les louanges du Pehlewan à qui il devait son bonheur et le repos de son âme;
+Il revint couvert de poussière, et passa en revue les éléphants et les prisonniers, en célébrant les louanges du Pehlewan à qui il devait son bonheur et le repos de son âme;
 
 Ensuite il s’en retourna dans son palais, écrivit une réponse à la lettre de Rustem, et planta un nouvel arbre dans le jardin du pouvoir.
 

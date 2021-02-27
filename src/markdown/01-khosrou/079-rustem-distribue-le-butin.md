@@ -19,9 +19,9 @@ Rustem dit aux Iraniens:
 >
 > Il me dit que le Sipehbed Thous s’était retiré dans la montagne de peur de Piran et de Houman.
 >
-> Ces paroles du roi me rendirent comme insensé, mon cerveau s’enflamma d’une ardeur guerrière, et mon âme devint noire comme l’ébène, lorsque je pensai à Bahram, à Gouderz et à Rivniz.
+> Ces paroles du roi me rendirent comme insensé, mon cerveau s’enflamma d’une ardeur guerrière, et mon âme devint noire comme l’ébène, lorsque je pensai à Bahram, à Gouderz et à Rivniz.
 >
-> Je quittai l’Iran en toute hâte, et, impatient de me battre, je ne m’arrêtai pas en route un instant;
+> Je quittai l’Iran en toute hâte, et, impatient de me battre, je ne m’arrêtai pas en route un instant;
 >
 > Mais lorsque mes regards tombèrent sur le Khakan de la Chine, sur ces grands et ces braves, et surtout sur Kamous avec sa mine et sa stature, ses bras et ses jambes, ses mains et sa massue, je me dis que ma fin était venue;
 >
@@ -47,7 +47,7 @@ Rustem dit aux Iraniens:
 >
 > Mais il vaut mieux les compter la coupe en main, et oublier cette voûte du ciel qui n’est l’amie de personne.
 >
-> Buvons donc du vin jusqu’à minuit, célébrons la mémoire des braves, rendons grâces au Maître du monde, au Maître de la victoire, de qui viennent la bravoure, le bonheur et les hauts faits;
+> Buvons donc du vin jusqu’à minuit, célébrons la mémoire des braves, rendons grâces au Maître du monde, au Maître de la victoire, de qui viennent la bravoure, le bonheur et les hauts faits;
 >
 > Et n’attachons pas, au milieu des soucis et des peines, notre cœur à ce séjour passager.
 
@@ -83,7 +83,7 @@ Rustem dit à ces hommes qui portaient haut la tête:
 
 Bijen le guerrier ardent partit à l’instant pour le champ de bataille, il vit la terre jonchée de morts et de bagages, il vit de toutes parts des tentes dressées, il vit la plaine entière couverte de blessés gisant dans la poussière et chargés de chaînes, mais il ne trouva pas un homme vivant parmi ces tentes et ces pavillons qui couvraient le sol.
 
-Lorsqu’on dit à Rustem que les Turcs avaient disparu du pays, il s’emporta, comme un lion furieux, contre la lâcheté et le sommeil des Iraniens.
+Lorsqu’on dit à Rustem que les Turcs avaient disparu du pays, il s’emporta, comme un lion furieux, contre la lâcheté et le sommeil des Iraniens.
 
 Il les injuria, disant:
 
@@ -113,7 +113,7 @@ Il se tourna ensuite vers Thous, furieux et semblable à un léopard, et lui di
 >
 > Sache quelles étaient vos vedettes, quel corps formait notre avant-garde et quel est le nom de sa tribu.
 >
-> Si tu rencontres une de ces vedettes, brise-lui sur-le-champ les mains et les pieds avec un bâton, prends ce qu’il possède, charge ses pieds de fer, jette-le sur le dos d’un éléphant, et envoie-le dans cet état au roi, pour voir si à la cour il apprendra à obéir.
+> Si tu rencontres une de ces vedettes, brise-lui sur-le-champ les mains et les pieds avec un bâton, prends ce qu’il possède, charge ses pieds de fer, jette-le sur le dos d’un éléphant, et envoie-le dans cet état au roi, pour voir si à la cour il apprendra à obéir.
 >
 > Cherche l’or, les pierreries, les trônes d’ivoire, les pièces de brocart, les diadèmes, les trésors et les couronnes que les Iraniens auront pris, et réunis tout ce butin précieux;
 >
@@ -131,7 +131,7 @@ Un cavalier exercé à tirer de l’arc, large de poitrine, robuste de corps et
 
 Quand Rustem le vit, il en demeura étonné;
 
-Il invoqua à plusieurs reprises la grâce de Dieu, et dit:
+Il invoqua à plusieurs reprises la grâce de Dieu, et dit:
 
 > La fortune inconstante nous prépare tantôt une fête, tantôt une bataille;
 >
@@ -159,9 +159,9 @@ Il invoqua à plusieurs reprises la grâce de Dieu, et dit:
 >
 > Ensuite je marcherai sur Gangue; car un homme de sens ne perd pas de temps, et ce serait une honte de laisser en vie dans ce pays un seul de ces criminels souillés de sang.
 >
-> Je purifierai le monde avec l’épée; je ne ferai pas grâce aux méchants;
+> Je purifierai le monde avec l’épée; je ne ferai pas grâce aux méchants;
 >
-> Je jetterai dans la poussière la tête des idolâtres et ferai fleurir le culte de Dieu le tout saint.
+> Je jetterai dans la poussière la tête des idolâtres et ferai fleurir le culte de Dieu le tout saint.
 
 Gouderz lui répondit:
 

@@ -11,7 +11,7 @@ order: '085'
 
 Afrasiab sortit de son palais et se rendit dans la plaine;
 
-Il avait hâte de commencer la guerre contre l’lran.
+Il avait hâte de commencer la guerre contre l’lran.
 
 Après avoir donné à Piran les ordres nécessaires, il se retira à l’écart;
 
@@ -33,7 +33,7 @@ Ensuite il s’adressa à l’écrivain plein d’expérience et lui dit:
 >
 > Raconte-lui l’histoire de mon petit-fils Khosrou le maître de la victoire, le roi du peuple de l’Iran, que j’ai élevé avec tant de soin qu’un souffle d’air même n’a pu l’atteindre.
 >
-> Si le ciel sublime m’accorde sa grâce, Pouladwend arrivera dans ce pays, où une grande armée de Turcs, de Seklabs et de Chinois a été vaincue et a dû plier, où tant de provinces ont été dévastées par les braves de l’Iran.
+> Si le ciel sublime m’accorde sa grâce, Pouladwend arrivera dans ce pays, où une grande armée de Turcs, de Seklabs et de Chinois a été vaincue et a dû plier, où tant de provinces ont été dévastées par les braves de l’Iran.
 >
 > Ils ont fait prisonnière toute une armée;
 >
@@ -101,7 +101,7 @@ Ils firent une entrée pompeuse dans le palais du roi;
 
 Ils tinrent conseil et ouvrirent de nouveaux avis.
 
-Afrasiab exposa toutes les raisons qu’il y avait ou de tarder ou de se hâter;
+Afrasiab exposa toutes les raisons qu’il y avait ou de tarder ou de se hâter;
 
 Il parla du passé, du meurtre de Siawusch, des guerres et des reproches que ce meurtre lui avait attirés, du sort du Khakan, de Manschour et du vaillant Kamous, et il ajouta:
 
@@ -115,11 +115,11 @@ Pouladwend devint soucieux en réfléchissant comment il pourrait dénouer le n�
 
 A la fin il répondit:
 
-> Il ne faut pas se hâter d’attaquer.
+> Il ne faut pas se hâter d’attaquer.
 >
 > Si Rustem est encore tel qu’il était lorsqu’il dévasta le Mazenderan et le conquit avec sa lourde massue, lorsqu’il déchira le flanc du Div blanc et les reins de Poulad fils de Rhandi et de Bid, je n’aurai pas la force de le combattre, et n’oserai pas provoquer sa colère.
 >
-> Je voue mon corps et mon âme à l’exécution de tes ordres;
+> Je voue mon corps et mon âme à l’exécution de tes ordres;
 >
 > Puisse la raison être le guide constant de ton esprit!
 >
