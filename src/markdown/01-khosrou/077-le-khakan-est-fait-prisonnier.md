@@ -3,7 +3,45 @@ date: ''
 image: 'https://source.unsplash.com/59pB_NL7Bgw'
 landscape: 'https://source.unsplash.com/59pB_NL7Bgw'
 source: tome III - livre des rois - P. 155
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Ahriman',
+    'âme',
+    'Chine',
+    'Chinois',
+    'Créateur',
+    'Djadj',
+    'Firdousi',
+    'Gouderz',
+    'Guiv',
+    'Houman',
+    'Indus',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Kamous',
+    'Khakan',
+    'Khatlan',
+    'Khosrou',
+    'Piran',
+    'Raksch',
+    'Rehham',
+    'Rustem',
+    'Sam',
+    'Schahd',
+    'Schikin',
+    'Schingan',
+    'Seïstan',
+    'Sipehbed',
+    'Sipehdar',
+    'Tchegân',
+    'Tehemten',
+    'Thous',
+    'Turcs',
+    'Wahr',
+    'Zal',
+  ]
 order: '077'
 ---
 

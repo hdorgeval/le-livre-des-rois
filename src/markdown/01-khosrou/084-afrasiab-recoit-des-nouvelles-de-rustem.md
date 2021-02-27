@@ -3,7 +3,54 @@ date: ''
 image: 'https://source.unsplash.com/9g29Hmf1bnQ'
 landscape: 'https://source.unsplash.com/Ydto_xzopy0'
 source: tome III - livre des rois - P. 186
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Ahriman',
+    'Almas',
+    'Bebr-i-beyan',
+    'Bijen',
+    'Chine',
+    'Dieu',
+    'Divs',
+    'Farghar',
+    'Ferhad',
+    'Feribourz',
+    'Ferschidwerd',
+    'Gahar',
+    'Gangue',
+    'Gargoui',
+    'Gouderz',
+    'Gourazeh',
+    'Gourguin',
+    'Guiv',
+    'Gustehem',
+    'Houman',
+    'Indus',
+    'Iran',
+    'Iraniens',
+    'Kamous',
+    'Kaschmir',
+    'Kelbad',
+    'Kender',
+    'Khakan',
+    'Khosrou',
+    'Madjin',
+    'Manschour',
+    'Marche',
+    'Nestihen',
+    'Pehlewan',
+    'Piran',
+    'Rustem',
+    'Schenkoul',
+    'Schideh',
+    'Sind',
+    'Sipehdar',
+    'Thous',
+    'Touran',
+    'Zaboulistan',
+    'Zadschem',
+  ]
 order: '084'
 ---
 

@@ -3,7 +3,33 @@ date: ''
 image: 'https://source.unsplash.com/QdRnZlzYJPA'
 landscape: 'https://source.unsplash.com/7Au-5wQiAEQ'
 source: tome III - livre des rois - P. 169
-tags: []
+tags:
+  [
+    'âme',
+    'Chine',
+    'Créateur',
+    'Feribourz',
+    'Gangue',
+    'Gouderz',
+    'Guerouï',
+    'Guiv',
+    'Inde',
+    'Kaous',
+    'Kaschan',
+    'Kaschmir',
+    'Keï',
+    'Khosrou',
+    'Rustem',
+    'Saturne',
+    'Schahd',
+    'Schikin',
+    'Schingan',
+    'Seklab',
+    'Siawusch',
+    'Sind',
+    'Thous',
+    'Zereh',
+  ]
 order: '080'
 ---
 
@@ -39,13 +65,13 @@ On écrivit, comme il l’avait ordonné, avec de l’ambre sur de la soie, une 
 >
 > Tous ces rois enchaînés, je les ai arrachés de dessus leurs éléphants avec mon lacet, et je te les envoie avec des trésors et des joyaux sans nombre.
 >
-> Maintenant je vais me porter sur Gangue, dans l’espoir que Guerouï Zereh se présentera devant ma massue.
+> Maintenant je vais me porter sur Gangue, dans l’espoir que Guerouï Zereh se présentera devant ma massue.
 >
 > Que toutes les langues te bénissent! que la voûte du ciel qui tourne soit le sol où tu poses tes pieds!
 
 Rustem apposa son sceau sur la lettre et la donna au vaillant et noble Feribourz;
 
-Il lui remit les rois, les éléphants et trois mille chameaux chargés des dépouilles du champ de bataille, et le fils de Kaous partit gaiement et se dirigea en toute hâte vers Keï Khosrou.
+Il lui remit les rois, les éléphants et trois mille chameaux chargés des dépouilles du champ de bataille, et le fils de Kaous partit gaiement et se dirigea en toute hâte vers Keï Khosrou.
 
 Rustem l’accompagna avec les grands et les braves de son armée, ensuite il l’embrassa et prit congé de lui, et le prince versa des larmes.
 
@@ -59,7 +85,7 @@ lls commencèrent une marche pleine de difficultés.
 
 On prit la longue route du désert, et l’armée s’y avança prête à combattre.
 
-Bustem dit à Thous, à Gouderz et à Guiv:
+Rustem dit à Thous, à Gouderz et à Guiv:
 
 > Ô illustres et vaillants guerriers, je recommence la guerre, je réduirai au désespoir nos ennemis.
 >

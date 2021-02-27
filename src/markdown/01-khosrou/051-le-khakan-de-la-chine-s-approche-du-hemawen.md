@@ -13,6 +13,7 @@ tags:
     'Gouderz',
     'Guiv',
     'Hemawen',
+    'Iran',
     'Iraniens',
     'Keschwad',
     'Khakan',

@@ -3,7 +3,23 @@ date: ''
 image: 'https://source.unsplash.com/QdRnZlzYJPA'
 landscape: 'https://source.unsplash.com/7Au-5wQiAEQ'
 source: tome III - livre des rois - P. 172
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Feribourz',
+    'Iran',
+    'Kaous',
+    'Keï',
+    'Khosrou',
+    'Pehlewan',
+    'Rustem',
+    'Saturne',
+    'Sipehbed',
+  ]
 order: '081'
 ---
 
@@ -11,7 +27,7 @@ order: '081'
 
 Pendant ces événements la voûte sublime du ciel ne cessait de tourner, et bientôt on vint dire au roi de l’Iran que Feribourz fils de Kaous s’approchait.
 
-Keï Khosrou alla à sa rencontre avec un grand cortège composé de grands et de gouverneurs de provinces;
+Keï Khosrou alla à sa rencontre avec un grand cortège composé de grands et de gouverneurs de provinces;
 
 Et Feribourz, lorsqu’il fut proche et qu’il vit de loin Khosrou, baisa la terre et offrit au roi ses hommages.
 

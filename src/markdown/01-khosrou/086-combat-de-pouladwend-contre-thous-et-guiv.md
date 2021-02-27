@@ -3,7 +3,29 @@ date: ''
 image: 'https://source.unsplash.com/OwqLxCvoVxI'
 landscape: 'https://source.unsplash.com/OwqLxCvoVxI'
 source: tome III - livre des rois - P. 197
-tags: []
+tags:
+  [
+    'âme',
+    'Bebr-i-beyan',
+    'Bijen',
+    'Dieu',
+    'Div',
+    'Feribourz',
+    'Gouderz',
+    'Guiv',
+    'Iran',
+    'Kaweh',
+    'Newder',
+    'Poulad',
+    'Pouladwend',
+    'Raksch',
+    'Rehham',
+    'Rustem',
+    'Schebdiz',
+    'Tehemten',
+    'Thous',
+    'Turcs',
+  ]
 order: '086'
 ---
 

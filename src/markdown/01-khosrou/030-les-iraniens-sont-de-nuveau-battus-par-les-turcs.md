@@ -19,6 +19,7 @@ tags:
     'Gourazeh',
     'Guiv',
     'Houman',
+    'Iran',
     'Iraniens',
     'Kaous',
     'Kaweh',

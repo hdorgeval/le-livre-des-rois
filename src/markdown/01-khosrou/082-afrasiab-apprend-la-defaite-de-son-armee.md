@@ -3,7 +3,29 @@ date: ''
 image: 'https://source.unsplash.com/nSk4ko0uUjA'
 landscape: 'https://source.unsplash.com/nSk4ko0uUjA'
 source: tome III - livre des rois - P. 175
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Chine',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Kamous',
+    'Kaschan',
+    'Khakan',
+    'Khoten',
+    'Manschour',
+    'Mazenderan',
+    'Mobeds',
+    'Piran',
+    'Reï',
+    'Rustem',
+    'Schahd',
+    'Seklab',
+    'Tehemten',
+    'Touran',
+    'Wahr',
+  ]
 order: '082'
 ---
 

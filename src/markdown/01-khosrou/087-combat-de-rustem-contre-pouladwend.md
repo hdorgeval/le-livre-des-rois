@@ -3,7 +3,32 @@ date: ''
 image: 'https://source.unsplash.com/FAq-TtmR_A0'
 landscape: 'https://source.unsplash.com/0q90Mumo-xE'
 source: tome III - livre des rois - P. 200
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Bebr',
+    'Bebr-i-beyan',
+    'Bijen',
+    'Créateur',
+    'Div',
+    'Gouderz',
+    'Guiv',
+    'Houman',
+    'Iran',
+    'Mazenderan',
+    'Pehlewan',
+    'Piran',
+    'Poulad',
+    'Pouladwend',
+    'Rehham',
+    'Rustem',
+    'Sam',
+    'Tehemten',
+    'Thous',
+    'Touran',
+    'Zal',
+  ]
 order: '087'
 ---
 

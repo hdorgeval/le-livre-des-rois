@@ -3,7 +3,29 @@ date: ''
 image: 'https://source.unsplash.com/5I4K1WQBrXQ'
 landscape: 'https://source.unsplash.com/0q90Mumo-xE'
 source: tome III - livre des rois - P. 152
-tags: []
+tags:
+  [
+    'âme',
+    'Chine',
+    'Gahan',
+    'Gahar',
+    'Gouderz',
+    'Iran',
+    'Iraniens',
+    'Kamous',
+    'Keï',
+    'Khakan',
+    'Khosrou',
+    'Manschour',
+    'Mille',
+    'Raksch',
+    'Rustem',
+    'Seïstan',
+    'Siawusch',
+    'Thous',
+    'Touran',
+    'Touraniens',
+  ]
 order: '076'
 ---
 
@@ -93,7 +115,7 @@ Rustem poussa un cri, on eût dit que le monde en tressaillait;
 
 Il s’écria:
 
-> Cet éléphant, ce trône d’ivoire, ces bracelets, ce diadème, ce collier et cette couronne sont dignes d’être offerts dans l’Iran à Keï Khosrou le jeune roi du monde.
+> Cet éléphant, ce trône d’ivoire, ces bracelets, ce diadème, ce collier et cette couronne sont dignes d’être offerts dans l’Iran à Keï Khosrou le jeune roi du monde.
 >
 > Qu’avez-vous affaire des couronnes et de cette pompe, vous qui malgré votre puissance, vos efforts et votre bravoure, finissez par livrer vos mains à nos chaînes et vos corps aux nœuds de nos lacets?
 >

@@ -3,7 +3,43 @@ date: ''
 image: 'https://source.unsplash.com/NdtpWKCoPx4'
 landscape: 'https://source.unsplash.com/NdtpWKCoPx4'
 source: tome III - livre des rois - P. 178
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Bidad',
+    'Bijen',
+    'Créateur',
+    'Dieu',
+    'Dispensateur',
+    'Div',
+    'Feribourz',
+    'Feridoun',
+    'Gouderz',
+    'Guiv',
+    'Gustehem',
+    'Hedjir',
+    'Iran',
+    'Iraniens',
+    'Kaboul',
+    'Kafour',
+    'Khoten',
+    'Mobeds',
+    'Pehlewan',
+    'Péri',
+    'Rehham',
+    'Rustem',
+    'Schidousch',
+    'Soghd',
+    'Tehemten',
+    'Tharaz',
+    'Thour',
+    'Thous',
+    'Tour',
+    'Touran',
+    'Turcs',
+    'Zaboulistan',
+  ]
 order: '083'
 ---
 

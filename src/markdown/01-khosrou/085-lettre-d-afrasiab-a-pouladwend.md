@@ -3,7 +3,49 @@ date: ''
 image: 'https://source.unsplash.com/kpmXIrzrXKE'
 landscape: 'https://source.unsplash.com/kpmXIrzrXKE'
 source: tome III - livre des rois - P. 193
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Bebr-i-beyan',
+    'Bid',
+    'Brahmane',
+    'Cancer',
+    'Chine',
+    'Chinois',
+    'Dieu',
+    'Div',
+    'Divs',
+    'Djemschid',
+    'Feridoun',
+    'Ferthous',
+    'Gouderz',
+    'Iran',
+    'Kamous',
+    'Khakan',
+    'Khosrou',
+    'Manschour',
+    'Mazenderan',
+    'Mobeds',
+    'Pehlewan',
+    'Piran',
+    'Poulad',
+    'Pouladwend',
+    'Rhandi',
+    'Rustem',
+    'Saturne',
+    'Schideh',
+    'Seklabs',
+    'Siawusch',
+    'Sipehbed',
+    'Sipehdar',
+    'Thous',
+    'Touran',
+    'Turcs',
+    'Vénus',
+    'Zaboulistan',
+    'Zohak',
+  ]
 order: '085'
 ---
 

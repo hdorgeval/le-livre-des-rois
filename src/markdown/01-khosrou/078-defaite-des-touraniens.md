@@ -3,7 +3,21 @@ date: ''
 image: 'https://source.unsplash.com/HSta_sQFx7c'
 landscape: 'https://source.unsplash.com/HSta_sQFx7c'
 source: tome III - livre des rois - P. 160
-tags: []
+tags:
+  [
+    'âme',
+    'Défaite',
+    'Ferthous',
+    'Guiv',
+    'Kelbad',
+    'Khakan',
+    'Manschour',
+    'Nestihen',
+    'Piran',
+    'Rustem',
+    'Tehemten',
+    'Touraniens',
+  ]
 order: '078'
 ---
 

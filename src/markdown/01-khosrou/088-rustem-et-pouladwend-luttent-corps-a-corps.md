@@ -3,7 +3,28 @@ date: ''
 image: 'https://source.unsplash.com/HJYK6q7wVRk'
 landscape: 'https://source.unsplash.com/0q90Mumo-xE'
 source: tome III - livre des rois - P. 204
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Bijen',
+    'Créateur',
+    'Dieu',
+    'Div',
+    'Divs',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Iran',
+    'Pehlewan',
+    'Poulad',
+    'Pouladwend',
+    'Raksch',
+    'Rehham',
+    'Rustem',
+    'Schideh',
+    'Tehemten',
+    'Touran',
+  ]
 order: '088'
 ---
 

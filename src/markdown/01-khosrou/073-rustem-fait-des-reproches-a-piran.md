@@ -3,7 +3,31 @@ date: ''
 image: 'https://source.unsplash.com/FMNRnXT4ffg'
 landscape: 'https://source.unsplash.com/5MIyBZMf7us'
 source: tome III - livre des rois - P. 142
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Chine',
+    'Damber',
+    'Dispensateur',
+    'Gouderz',
+    'Houman',
+    'Inde',
+    'Iraniens',
+    'Khakan',
+    'Marg',
+    'Maï',
+    'Pehlewan',
+    'Piran',
+    'Rustem',
+    'résurrection',
+    'Schenkoul',
+    'Seistan',
+    'Seklab',
+    'Touran',
+    'Touraniens',
+    'Zaboulistan',
+  ]
 order: '073'
 ---
 

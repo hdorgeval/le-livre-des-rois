@@ -3,7 +3,27 @@ date: ''
 image: 'https://source.unsplash.com/9g29Hmf1bnQ'
 landscape: 'https://source.unsplash.com/Ydto_xzopy0'
 source: tome III - livre des rois - P. 140
-tags: []
+tags:
+  [
+    'Bisoutoun',
+    'Chine',
+    'Feribourz',
+    'Gahar',
+    'Inde',
+    'Iraniens',
+    'Kamous',
+    'Kender',
+    'Keschwad',
+    'Khakan',
+    'Newder',
+    'Piran',
+    'Rustem',
+    'Schenkoul',
+    'Sind',
+    'Tehemten',
+    'Thous',
+    'Touraniens',
+  ]
 order: '072'
 ---
 

@@ -3,7 +3,43 @@ date: ''
 image: 'https://source.unsplash.com/4jLj-GdRn_A'
 landscape: 'https://source.unsplash.com/4jLj-GdRn_A'
 source: tome III - livre des rois - P. 162
-tags: []
+tags:
+  [
+    'âme',
+    'Bahram',
+    'Bijen',
+    'Chine',
+    'Dieu',
+    'Divs',
+    'Feribourz',
+    'Gangue',
+    'Gouderz',
+    'Houman',
+    'Inde',
+    'Iran',
+    'Iraniens',
+    'Kamous',
+    'Kaous',
+    'Kelbad',
+    'Keïanides',
+    'Khakan',
+    'Khosrou',
+    'Mazenderan',
+    'Pehlewan',
+    'Piran',
+    'Poulad',
+    'Rivniz',
+    'Rouïn',
+    'Rustem',
+    'Saturne',
+    'Seklab',
+    'Sipehbed',
+    'Soleil',
+    'Tehemten',
+    'Thous',
+    'Turcs',
+    'Wahr',
+  ]
 order: '079'
 ---
 
@@ -39,7 +75,7 @@ Rustem dit aux Iraniens:
 >
 > Puisse notre fortune ne pas baisser! puissions-nous échapper aux angoisses du malheur!
 >
-> Ayez soin que des messagers portent sans délai ces nouvelles au roi du monde, qui parera son palais glorieux, ceindra sa tête du diadème des Keïanides, et distribuera des dons aux pauvres, pour recueillir de nouvelles bénédictions.
+> Ayez soin que des messagers portent sans délai ces nouvelles au roi du monde, qui parera son palais glorieux, ceindra sa tête du diadème des Keïanides, et distribuera des dons aux pauvres, pour recueillir de nouvelles bénédictions.
 >
 > Maintenant dépouillez-vous de vos armures, et que la parure embellisse votre repos.
 >
@@ -101,7 +137,7 @@ Il se tourna ensuite vers Thous, furieux et semblable à un léopard, et lui di
 
 > Est-ce là un banquet ou un champ de bataille?
 >
-> Dès ce moment ce sera à toi et à ton armée d’affronter sur cette plaine Piran, Kelbad, Houman, Rouïn et Poulad.
+> Dès ce moment ce sera à toi et à ton armée d’affronter sur cette plaine Piran, Kelbad, Houman, Rouïn et Poulad.
 >
 > Tu es d’un pays et moi d’un autre.
 >

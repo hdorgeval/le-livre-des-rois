@@ -3,7 +3,32 @@ date: ''
 image: 'https://source.unsplash.com/OwqLxCvoVxI'
 landscape: 'https://source.unsplash.com/OwqLxCvoVxI'
 source: tome III - livre des rois - P. 147
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Chine',
+    'Chinois',
+    'Créateur',
+    'Herat',
+    'Inde',
+    'Indiens',
+    'Iran',
+    'Khakan',
+    'Pehlewan',
+    'Pehlewis',
+    'Piran',
+    'Raksch',
+    'Rustem',
+    'Schenkoul',
+    'Schikin',
+    'Seistan',
+    'Seklab',
+    'Seklabs',
+    'Seïstan',
+    'Turcs',
+    'Zal',
+    'Zer',
+  ]
 order: '074'
 ---
 
