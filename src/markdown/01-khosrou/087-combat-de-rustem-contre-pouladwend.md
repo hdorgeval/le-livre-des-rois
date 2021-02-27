@@ -17,7 +17,7 @@ Il vit que son armée avait beaucoup souffert, et que le combat était engagé s
 
 > Ce jour devient sombre pour nous;
 >
-> Les têtes des grands sont troublées;
+> Les têtes des grands sont troublées;
 >
 > Je crois que le cercle de ma vie s’achève, et que la fortune qui veillait sur nous s’est endormie.
 
@@ -25,7 +25,7 @@ Il serra son cheval des jambes et l’excita; il s’élance et se disposa à l
 
 > Ô malheureux Div, tu vas voir comment la fortune tourne!
 
-Au moment où la voix de Rustem frappait l’oreille des héros, il aperçut lui-même les fils de Gouderz à pied, et dit en s’adressant au Créateur:
+Au moment où la voix de Rustem frappait l’oreille des héros, il aperçut lui-même les fils de Gouderz à pied, et dit en s’adressant au Créateur:
 
 > Ô toi qui es au-dessus de tout ce qui est visible et invisible, mieux aurait valu pour moi devenir aveugle dans ce combat que de voir ce jour de la déroute, où les braves du Touran, Piran, Houman et ce vaillant Div poussent des cris de triomphe, où Guiv, Rehham, Thous et Bijen qui se rit des lions sont à pied, parce que les flèches ont abattu les chevaux de ces héros, qui combattent comme des fantassins au milieu de cette foule confuse.
 
@@ -41,15 +41,15 @@ Pouladwend dit à Rustem:
 >
 > Renonce à l’espérance de revoir ton roi, et les grands et les héros de sa cour;
 >
-> Tu ne jouiras plus, même en songe, de ton pouvoir, et je livrerai ton armée à Afrasiab.
+> Tu ne jouiras plus, même en songe, de ton pouvoir, et je livrerai ton armée à Afrasiab.
 
 Rustem lui répondit:
 
 > Jusqu’où iront ces menaces et cette envie de m’intimider !
 >
-> Puisse-t-il ne jamais se trouver de fanfaron parmi les hommes de guerre ! et s’il y en a un, il est sûr de livrer sa tête au vent.
+> Puisse-t-il ne jamais se trouver de fanfaron parmi les hommes de guerre ! et s’il y en a un, il est sûr de livrer sa tête au vent.
 >
-> Si brave que tu sois, si haut que tu portes la tête, tu n’es pas un Sam;
+> Si brave que tu sois, si haut que tu portes la tête, tu n’es pas un Sam;
 >
 > Tu n’es ni de fer ni de feu.
 
@@ -57,7 +57,7 @@ Pouladwend, à ces paroles, se rappela le vieux proverbe, que quiconque cherche
 
 Que ce soit un ennemi ou un ami de qui te vient le malheur, il est bon que justice soit faite à l’égard des bons et des méchants.
 
-Pouladwend réfléchit que c’était là Rustem, le même qui avait conquis avec sa lourde massue le Mazenderan au milieu de la nuit sombre, et il dit:
+Pouladwend réfléchit que c’était là Rustem, le même qui avait conquis avec sa lourde massue le Mazenderan au milieu de la nuit sombre, et il dit:
 
 > Ô homme éprouvé dans les combats, pourquoi restons-nous follement debout et inactifs?
 
@@ -65,7 +65,7 @@ Ils se mirent à tourner l’un autour de l’autre, la poussière s’éleva 
 
 Ces deux braves ressemblaient à des éléphants furieux.
 
-Rustem avec sa lourde massue porta sur la tête de Pouladwend un coup que l’armée entière entendit retentir;
+Rustem avec sa lourde massue porta sur la tête de Pouladwend un coup que l’armée entière entendit retentir;
 
 Les yeux de Pouladwend s’obscurcirent, sa main ne retenait plus la bride, la douleur le fit pencher du côté droit, et il se dit:
 
@@ -79,13 +79,13 @@ Mais quand il le vit rester en selle, il dit en s’adressant au Créateur:
 >
 > Mais si Afrasiab est un homme injuste, ne me prive pas de la vie, de la force et du pouvoir d’agir;
 >
-> Car si je meurs de la main de Pouladwend, il ne restera en vie dans l’Iran ni un homme de guerre, ni un laboureur, ni un artisan, et le pays lui-même et son sol disparaîtront.
+> Car si je meurs de la main de Pouladwend, il ne restera en vie dans l’Iran ni un homme de guerre, ni un laboureur, ni un artisan, et le pays lui-même et son sol disparaîtront.
 
 Ensuite il dit à Pouladwend:
 
 > Quel mal t’a fait la massue des braves?
 >
-> Tes mains ne manient plus les rênes noires;
+> Tes mains ne manient plus les rênes noires;
 >
 > Descends de cheval, ô Div, et demande grâce!
 
@@ -105,7 +105,7 @@ Il avait peur des membres et des épaules de Rustem fils de Zal.
 
 Il lui adressa encore une fois la parole, disant:
 
-> Ôte ce vil Bebr-i-beyan, cette cotte de mailles et ce casque de couleur sombre, et revêts-toi d’une autre armure;
+> Ôte ce vil Bebr-i-beyan, cette cotte de mailles et ce casque de couleur sombre, et revêts-toi d’une autre armure;
 >
 > Moi aussi j’irai en mettre une autre, et je reviendrai en courant.
 
@@ -137,10 +137,10 @@ Rustem lui répondit:
 >
 > Mais à quoi cela te sert-il?
 >
-> Car ta tête finira toujours par être prise dans le nœud.
+> Car ta tête finira toujours par être prise dans le nœud.
 >
 > Tu vas maintenant dans la lutte essayer tes arts et tes machinations pour tirer ton cou de l’étreinte de mon bras.
 
-Ils convinrent alors et se promirent solennellement de ne laisser s’approcher aucun de leurs amis de l’une et de l’autre armée, et de ne pas demander eux-mêmes de secours.
+Ils convinrent alors et se promirent solennellement de ne laisser s’approcher aucun de leurs amis de l’une et de l’autre armée, et de ne pas demander eux-mêmes de secours.
 
 Cela étant convenu, ils descendirent de cheval et restèrent quelque temps à pied pour reprendre haleine.

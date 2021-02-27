@@ -35,11 +35,11 @@ Rustem dit aux Iraniens:
 >
 > Quand je pousserai le cri de guerre, vous vous ébranlerez et vous frapperez.
 
-Ensuite il partit, semblable à un éléphant en rut, tenant en main une massue à tête de bœuf;
+Ensuite il partit, semblable à un éléphant en rut, tenant en main une massue à tête de bœuf;
 
 Il s’approcha de l’aile gauche des Touraniens en poussant des cris, et aborda leur armée du côté où commandait Kender;
 
-Il rompit entièrement l’aile gauche, et bien des têtes couvertes d’un casque ne revirent plus les corps auxquels elles avaient appartenu.
+Il rompit entièrement l’aile gauche, et bien des têtes couvertes d’un casque ne revirent plus les corps auxquels elles avaient appartenu.
 
 Or il y avait là un parent de Kamous qui portait le nom de Saweh, homme orgueilleux et d’une ambition immodérée.
 
@@ -51,7 +51,7 @@ Il dit à Rustem:
 >
 > Je vais venger le malheureux Kamous, et c’est la dernière bataille à laquelle tu assistes.
 
-Lorsque Rustem entendit les paroles de Saweh, il saisit sa lourde massue, la détacha et l’en frappa sur la tête;
+Lorsque Rustem entendit les paroles de Saweh, il saisit sa lourde massue, la détacha et l’en frappa sur la tête;
 
 L’âme de Saweh quitta son corps misérablement.
 

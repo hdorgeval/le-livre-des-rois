@@ -37,9 +37,9 @@ Il apprit qu’il était venu de l’Iran un crocodile qui effrayait le ciel dan
 >
 > Que les grands et les éléphants avaient péri;
 >
-> Qu’une armée iranienne s’approchait ayant à sa tête Tehemten avide de vengeance, et qu’elle ferait disparaître les plaines et les montagnes, si elle arrivait pour livrer bataille.
+> Qu’une armée iranienne s’approchait ayant à sa tête Tehemten avide de vengeance, et qu’elle ferait disparaître les plaines et les montagnes, si elle arrivait pour livrer bataille.
 
-Lorsque Afrasiab entendit ces paroles, son cœur se remplit de soucis et sa tête d’anxiété.
+Lorsque Afrasiab entendit ces paroles, son cœur se remplit de soucis et sa tête d’anxiété.
 
 Il appela les Mobeds et les nobles, et leur exposa longuement ce qui s’était passé; comment une vaillante armée avait marché contre les illustres chefs des Iraniens, et comment elle avait été battue, quoiqu’elle fût si bien équipée et si nombreuse.
 
@@ -49,13 +49,13 @@ Il appela les Mobeds et les nobles, et leur exposa longuement ce qui s’était 
 >
 > Car nous ne pouvons rester inactifs après ce revers.
 >
-> Si Rustem marche contre nous, il ne restera pas même une ronce ni une herbe dans ce pays, surtout s’il est encore tel que je l’ai vu quand j’ai si souvent plié devant lui dans la bataille.
+> Si Rustem marche contre nous, il ne restera pas même une ronce ni une herbe dans ce pays, surtout s’il est encore tel que je l’ai vu quand j’ai si souvent plié devant lui dans la bataille.
 >
 > Il était encore tout jeune, semblable à un roseau, quand je menai une armée à Reï;
 >
 > Il m’attaqua, m’enleva de la selle, de manière à frapper d’étonnement les deux armées;
 >
-> Ma ceinture et les boutons de ma tunique se rompirent, et je tombai de sa main sur la terre la tête en bas.
+> Ma ceinture et les boutons de ma tunique se rompirent, et je tombai de sa main sur la terre la tête en bas.
 >
 > Que n’a-t-il pas fait aux grands du Mazenderan, et quel a été leur sort? et maintenant quels maux n’a-t-il pas accumulés dans ce dernier combat sur les braves du Touran?
 
@@ -79,6 +79,6 @@ Les grands lui répondirent en se levant tous ensemble et s’écriant:
 
 Le roi écouta les paroles des nobles guerriers, il choisit ceux qui parlaient le plus haut;
 
-Il appela auprès de lui les braves et ceux qui portaient haut la tête, renonça au sommeil, au repos et à la nourriture, ouvrit la porte de ses trésors et distribua de l’or.
+Il appela auprès de lui les braves et ceux qui portaient haut la tête, renonça au sommeil, au repos et à la nourriture, ouvrit la porte de ses trésors et distribua de l’or.
 
 Le bouillonnement du sang de son cœur se communiqua à son esprit, et tel était le bruit dont les héros de son armée remplirent le monde, que tu aurais cru que le ciel était en armes.

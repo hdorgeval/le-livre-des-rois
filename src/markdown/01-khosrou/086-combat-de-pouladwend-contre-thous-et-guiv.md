@@ -11,7 +11,7 @@ order: '086'
 
 Lorsque le soleil brillant fit paraître son étendard, et que le satin sombre de la nuit eut pris une teinte de safran, on entendit les tambours sous la porte du roi, et le bruit de l’armée monta jusqu’aux nuages.
 
-Pouladwend se mit à la tête des troupes;
+Pouladwend se mit à la tête des troupes;
 
 Il était fort de corps, et un lacet pendait à son bras.
 
@@ -19,7 +19,7 @@ Les deux armées formèrent leurs rangs;
 
 L’air s’obscurcit, la terre devint noire.
 
-Tehemten revêtit le Bebr-i-beyan, monta sur Raksch son furieux éléphant, poussa un cri, attaqua l’aile gauche des Turcs et leur tua beaucoup de braves.
+Tehemten revêtit le Bebr-i-beyan, monta sur Raksch son furieux éléphant, poussa un cri, attaqua l’aile gauche des Turcs et leur tua beaucoup de braves.
 
 Pouladwend en fut irrité; il détacha du crochet de la selle son lacet roulé et fondit sur Thous comme un éléphant ivre, le lacet au bras et la massue dans la main.
 
@@ -30,13 +30,13 @@ Lorsque Guiv vit ce combat, lorsqu’il vit que Thous fils de Newder était renv
 Couvert d’une cotte de mailles et armé d’une massue, ce brave, semblable à un
 lion, attaqua le Div.
 
-Pouladwend fit voler son lacet et pris la tête de Guiv dans le nœud.
+Pouladwend fit voler son lacet et pris la tête de Guiv dans le nœud.
 
 Rehham et Bijen considèrent de loin la force, la stature et l’adresse de Pouladwend, et accourent pour lui lier tous deux les mains avec leurs lacets.
 
 Le prudent Poulad se hâta de lancer son cheval et de courir sur eux;
 
-Et bientôt il eut renversé par terre et foulé comme une chose vile, devant les yeux de tant de cavaliers qui couvraient la plaine, ces deux héros tant de fois victorieux, ces deux grands et nobles personnages qui portaient si haut la tête.
+Et bientôt il eut renversé par terre et foulé comme une chose vile, devant les yeux de tant de cavaliers qui couvraient la plaine, ces deux héros tant de fois victorieux, ces deux grands et nobles personnages qui portaient si haut la tête.
 
 Il se précipita sur l’étendard de Kaweh et le coupa en deux avec son épée;
 
@@ -57,7 +57,7 @@ On entendit sortir du centre de l’armée et de l’aile gauche et de l’aile 
 
 Le vieux Gouderz crut que Rehham, Bijen et le vaillant Guiv étaient morts, que Poulad avait tué ses trois enfants, et il adressa des plaintes à Dieu le dispensateur de la justice, disant:
 
-> J’ai en tant de fils et de petits-fils que j’élevais ma tête au-dessus du soleil;
+> J’ai en tant de fils et de petits-fils que j’élevais ma tête au-dessus du soleil;
 >
 > Mais ils ont été tués dans les batailles devant mes yeux, et mon étoile et ma fortune, jadis si brillantes, ont baissé.
 >

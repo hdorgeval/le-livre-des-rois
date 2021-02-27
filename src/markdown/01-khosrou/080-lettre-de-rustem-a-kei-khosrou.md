@@ -53,11 +53,11 @@ Rustem rentra dans son camp lorsque les deux boucles de cheveux de la nuit comme
 
 Tous les grands aux traces fortunées s’assirent au banquet en écoutant les chants et la musique et en buvant du vin, et se rendirent à la fin dans leurs tentes, emportant des richesses au gré de leurs désirs.
 
-Lorsque le soleil aux couleurs d’or commença à déchirer le voile noir de la nuit, et au moment où le bruit des trompettes se fit entendre entre l’enceinte et la tente de Rustem, celui-ci se revêtit de son armure de combat, s’assit sur son destrier qui ressemblait à une montagne, et ordonna à l’armée de se munir de provisions.
+Lorsque le soleil aux couleurs d’or commença à déchirer le voile noir de la nuit, et au moment où le bruit des trompettes se fit entendre entre l’enceinte et la tente de Rustem, celui-ci se revêtit de son armure de combat, s’assit sur son destrier qui ressemblait à une montagne, et ordonna à l’armée de se munir de provisions.
 
 lls commencèrent une marche pleine de difficultés.
 
-On prit la longue route du désert, et l’armée s’y avança prête à combattre.
+On prit la longue route du désert, et l’armée s’y avança prête à combattre.
 
 Bustem dit à Thous, à Gouderz et à Guiv:
 
@@ -73,9 +73,9 @@ Il fit sonner des trompettes, la poussière s’éleva et remplit l’air, la t
 
 Pendant deux journées de marche à partir du champ de bataille ils trouvèrent partout le pays noirci de corps morts.
 
-A la fin ils virent une forêt;
+A la fin ils virent une forêt;
 
-Rustem s’y arrêta, et couvrit de son armée les alentours et les bords du fleuve.
+Rustem s’y arrêta, et couvrit de son armée les alentours et les bords du fleuve.
 
 Ils y restèrent pendant quelque temps, et l’armée se reposa des fatigues de sa longue marche; ils burent du vin, ils écoutèrent les chanteurs;
 

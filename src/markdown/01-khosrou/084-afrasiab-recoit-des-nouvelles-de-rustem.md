@@ -11,7 +11,7 @@ order: '084'
 
 Afrasiab apprit que le royaume de Zadschem était dévasté;
 
-Son cœur en fut affligé, et le satin qui le revêtait lui parut rude comme des ronces.
+Son cœur en fut affligé, et le satin qui le revêtait lui parut rude comme des ronces.
 
 Il dit:
 
@@ -37,7 +37,7 @@ L’armée répondit à Afrasiab:
 >
 > On a beaucoup trop parlé de lui!
 >
-> Prépare une armée pour t’en délivrer, abaisse sa tête des nues jusqu’à la poussière;
+> Prépare une armée pour t’en délivrer, abaisse sa tête des nues jusqu’à la poussière;
 >
 > Qu’auras-tu alors à craindre du roi et de Dieu?
 >
@@ -47,13 +47,13 @@ L’armée répondit à Afrasiab:
 >
 > Nous nous livrerons tous à la mort pour notre patrie, nos fils, nos femmes, nos petits enfants et nos alliés, plutôt que d’abandonner notre pays à l’ennemi.
 
-Afrasiab, à ces paroles, oublia les anciennes guerres, et pensa avec une nouvelle confiance à l’empire de ses ancêtres et à sa fortune; il leur répondit:
+Afrasiab, à ces paroles, oublia les anciennes guerres, et pensa avec une nouvelle confiance à l’empire de ses ancêtres et à sa fortune; il leur répondit:
 
 > Je distribuerai des armes aussitôt qu’il sera nécessaire;
 >
 > Je ne permettrai pas que Khosrou se réjouisse sur son trône et se glorifie de son bonheur.
 >
-> Lorsque viendra le jour de la bataille, je jetterai dans la poussière, après un long combat, la tête de cet homme du Zaboulistan;
+> Lorsque viendra le jour de la bataille, je jetterai dans la poussière, après un long combat, la tête de cet homme du Zaboulistan;
 >
 > Je ne laisserai en vie ni mon petit-fils ni aucun de ses guerriers;
 >
@@ -61,7 +61,7 @@ Afrasiab, à ces paroles, oublia les anciennes guerres, et pensa avec une nouve
 
 Il ordonna aux grands de rassembler les troupes et de se mettre en marche pour de nouveaux combats.
 
-Les grands le bénirent, et appelèrent à la guerre les hommes qui portaient haut la tête.
+Les grands le bénirent, et appelèrent à la guerre les hommes qui portaient haut la tête.
 
 Or il y avait un homme au cœur de lion nommé Farghar, qui avait vu plus d’une cage, mais avait toujours échappé aux lacs;
 
@@ -87,7 +87,7 @@ Il n’admit aucun étranger en sa présence, et envoya chercher son fils Schide
 >
 > Grâce a la fortune de ce vainqueur des lions, ils ont tué ou emmené en captivité Kamous, Gargoui, le Khakan, Gahar, le glorieux Manschour, Kender, Schenkoul le roi de l’lnde, et leur armée qui s’étendait depuis le Kaschmir jusqu’à la frontière du Sind.
 >
-> La lutte a duré quarante jours, qui ont été remplis tantôt par des combats, tantôt par des trêves;
+> La lutte a duré quarante jours, qui ont été remplis tantôt par des combats, tantôt par des trêves;
 >
 > Mais à la fin Rustem a enlevé avec son lacet le Khakan de dessus le dos de son éléphant, l’a jeté dans les fers, et a envoyé dans l’Iran des cavaliers, des héros de tous les pays et de toutes les contrées où les grands obéissent à un chef, des armes, des dromadaires, des éléphants, des couronnes et le trône d’ivoire.
 >
@@ -145,13 +145,13 @@ Schideh lui répondit:
 >
 > Tous les rois de la terre célèbrent ta gloire, tu connais le monde, tu as acquis de l’expérience;
 >
-> Et je jure par la vie et la tête du roi du Touran, par le soleil et l’épée, le trône et le diadème, que le sort de Kamous et du Khakan a rempli mon cœur de douleur et ma tête du désir de la vengeance.
+> Et je jure par la vie et la tête du roi du Touran, par le soleil et l’épée, le trône et le diadème, que le sort de Kamous et du Khakan a rempli mon cœur de douleur et ma tête du désir de la vengeance.
 >
 > Marche vers Gangue, et ne tourne pas les yeux vers le bord de la mer;
 >
 > Appelle tes armées de la Chine et de Madjin, et prépare-toi au combat!
 
-Ayant ainsi parlé, Schideh s’en retourna à son palais, le cœur plein de haine, la tête remplie de colère.
+Ayant ainsi parlé, Schideh s’en retourna à son palais, le cœur plein de haine, la tête remplie de colère.
 
 La sombre nuit ouvrit ses yeux lugubres, les soucis courbèrent le dos de la lune, le monde devint noir comme le musc, et Farghar revint du camp des Iraniens.
 

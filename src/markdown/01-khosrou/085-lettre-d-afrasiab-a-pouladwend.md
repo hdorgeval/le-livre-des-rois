@@ -31,7 +31,7 @@ Ensuite il s’adressa à l’écrivain plein d’expérience et lui dit:
 >
 > Raconte-lui le danger dont me menacent l’illustre Rustem aux croyances ténébreuses, et les grands pleins de courage, comme Thous, Gouderz et les autres héros iraniens;
 >
-> Raconte-lui l’histoire de mon petit-fils Khosrou le maître de la victoire, le roi du peuple de l’Iran, que j’ai élevé avec tant de soin qu’un souffle d’air même n’a pu l’atteindre.
+> Raconte-lui l’histoire de mon petit-fils Khosrou le maître de la victoire, le roi du peuple de l’Iran, que j’ai élevé avec tant de soin qu’un souffle d’air même n’a pu l’atteindre.
 >
 > Si le ciel sublime m’accorde sa grâce, Pouladwend arrivera dans ce pays, où une grande armée de Turcs, de Seklabs et de Chinois a été vaincue et a dû plier, où tant de provinces ont été dévastées par les braves de l’Iran.
 >
@@ -61,7 +61,7 @@ Le roi apposa son sceau sur la lettre; et au moment où la lune montrait sa fac
 
 Il partit rapidement comme la flamme, stimulé par ses craintes, et arriva auprès de Pouladwend, qui demeurait dans les montagnes de la Chine, et n’avait pas son égal en bravoure dans ce pays.
 
-C’était un roi qui élevait la tête jusqu’au ciel sublime.
+C’était un roi qui élevait la tête jusqu’au ciel sublime.
 
 Schideh le salua, lui remit la lettre et lui rendit compte des entreprises de Rustem, disant:
 
@@ -73,7 +73,7 @@ Schideh le salua, lui remit la lettre et lui rendit compte des entreprises de Ru
 >
 > Il a chargé de chaînes Kamous, le Khakan, Manschour et Ferthous;
 >
-> Il porte son lacet roulé autour du bras; son corps est revêtu d’une peau de lion; il n’est jamais las de combattre, et il emportera dans l’Iran jusqu’au sol du Touran.
+> Il porte son lacet roulé autour du bras; son corps est revêtu d’une peau de lion; il n’est jamais las de combattre, et il emportera dans l’Iran jusqu’au sol du Touran.
 >
 > Que pouvons-nous dire à ce héros impur?
 >
@@ -85,7 +85,7 @@ C’était un homme ambitieux, jeune et téméraire;
 
 Il fit préparer les timbales et envoya ses tentes dans la plaine, rassembla ses troupes qui ressemblaient à des Divs, et une immense clameur s’éleva du milieu des braves de son armée.
 
-Pouladwend marcha à la tête de ses troupes, armé d’un bouclier, d’un carquois et d’un lacet;
+Pouladwend marcha à la tête de ses troupes, armé d’un bouclier, d’un carquois et d’un lacet;
 
 On portait derrière lui son étendard, et c’est ainsi qu’il sortit des montagnes, passa le fleuve et arriva auprès d’Afrasiab.
 
@@ -105,7 +105,7 @@ Afrasiab exposa toutes les raisons qu’il y avait ou de tarder ou de se hâter
 
 Il parla du passé, du meurtre de Siawusch, des guerres et des reproches que ce meurtre lui avait attirés, du sort du Khakan, de Manschour et du vaillant Kamous, et il ajouta:
 
-> Toutes mes peines ne viennent que d’un seul homme, qui est vêtu d’une peau de léopard;
+> Toutes mes peines ne viennent que d’un seul homme, qui est vêtu d’une peau de léopard;
 >
 > Et mes armes ne font aucune impression sur son Bebr-i-beyan, son casque et son bouclier de la Chine.
 >
@@ -121,11 +121,11 @@ A la fin il répondit:
 >
 > Je voue mon corps et mon âme à l’exécution de tes ordres;
 >
-> Puisse la raison être le guide constant de ton esprit!
+> Puisse la raison être le guide constant de ton esprit!
 >
 > J’essayerai de la ruse pour le vaincre, je tournerai autour de lui comme un léopard, pendant que tu exciteras ton armée à combattre contre la sienne;
 >
-> Et j’espère qu’il perdra la tète en nous voyant si nombreux, et cela nous sauvera peut-être.
+> Et j’espère qu’il perdra la tète en nous voyant si nombreux, et cela nous sauvera peut-être.
 >
 > Sinon notre malheur est certain;
 >

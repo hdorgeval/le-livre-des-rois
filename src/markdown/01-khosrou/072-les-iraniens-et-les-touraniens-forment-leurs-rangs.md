@@ -11,7 +11,7 @@ order: '072'
 
 Lorsque le soleil commença à montrer son casque brillant, et que la face de la lune fut devenue semblable à un bouclier d’argent, la lune craignit d’entrer en lutte avec le soleil, elle se courba et voila sa face.
 
-On entendit les tambours sous l’entrée de la tente de Thous, le sol disparut sous les sabots noirs des chevaux, la terre devint sombre, l’air se remplit de poussière, et Rustem se revêtit de son armure de guerre.
+On entendit les tambours sous l’entrée de la tente de Thous, le sol disparut sous les sabots noirs des chevaux, la terre devint sombre, l’air se remplit de poussière, et Rustem se revêtit de son armure de guerre.
 
 Le fils de Keschwad se plaça à l’aile droite, couvert d’une cuirasse et armé d’une massue de fer;
 
@@ -31,7 +31,7 @@ Et à l’aile gauche Gahar le vieux guerrier, dont le cheval déchirait la ter
 
 Piran sortit des rangs, s’approcha de Schenkoul avide de combats, et lui dit:
 
-> Ô glorieux roi, à qui l’Inde et le Sind obéissent, tu m’avais dit que ce matin tu ferais avancer ton armée de tous côtés, que tu provoquerais Rustem, que tu jetterais dans la poussière sa tête qui s’élève jusqu’aux nues.
+> Ô glorieux roi, à qui l’Inde et le Sind obéissent, tu m’avais dit que ce matin tu ferais avancer ton armée de tous côtés, que tu provoquerais Rustem, que tu jetterais dans la poussière sa tête qui s’élève jusqu’aux nues.
 
 Schenkoul lui répondit:
 
@@ -47,7 +47,7 @@ La poussière s’éleva de la plaine;
 
 Toute l’armée se mit en mouvement, accompagnée d’éléphants furieux, et couvrant de ses rangs un espace de deux milles.
 
-Les têtes des conducteurs des éléphants resplendissaient d’ornements; ils étaient parés de diadèmes et de boucles d’oreilles, de colliers d’or et de ceintures d’or.
+Les têtes des conducteurs des éléphants resplendissaient d’ornements; ils étaient parés de diadèmes et de boucles d’oreilles, de colliers d’or et de ceintures d’or.
 
 Les éléphants étaient couverts de housses de brocart de la Chine et portaient sur le dos des trônes d’or.
 

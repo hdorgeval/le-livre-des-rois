@@ -33,7 +33,7 @@ Il s’approcha de Schenkoul et s’écria:
 >
 > Sache que l’homme du Seistan est ta mort, et que ta cuirasse et ton casque te serviront de linceul.
 
-Il s’élança vers lui sur le champ de bataille entre les rangs des deux années, le frappa de sa lance, l’enlèva de la selle et le jetta par terre la tête en bas;
+Il s’élança vers lui sur le champ de bataille entre les rangs des deux années, le frappa de sa lance, l’enlèva de la selle et le jetta par terre la tête en bas;
 
 Il passa sur lui sans que les pieds de Raksch le blessent, et porta la main à l’épée;
 
@@ -59,11 +59,11 @@ Il ordonna alors à son armée de se former en une masse compacte et semblable 
 
 Le lion porta la main à son épée et rompit les rangs de l’aile gauche des Chinois.
 
-Chaque fois qu’il frappait de l’épée, la plaine se couvrait de corps privés de leurs têtes;
+Chaque fois qu’il frappait de l’épée, la plaine se couvrait de corps privés de leurs têtes;
 
 Une montagne n’aurait pas résisté à son attaque, et un éléphant n’aurait pas tenu contre sa fureur.
 
-Ils le pressèrent tellement de tous côtés, que le soleil au-dessus de sa tête fut obscurci;
+Ils le pressèrent tellement de tous côtés, que le soleil au-dessus de sa tête fut obscurci;
 
 On dirigea contre ce vainqueur des lions tant de lances, d’épées, de massues et de flèches, qu’il pouvait se croire dans un champ de roseaux, et le sang qui coulait faisait ressembler la surface de la terre à un pressoir.
 
@@ -71,7 +71,7 @@ D’un seul coup il coupait dix lances, en poussant des cris, en bouillonnant de
 
 Derrière lui s’avançaient les braves de l’Iran, le cœur rempli du désir de la vengeance et avides de combats.
 
-Les coups de massue et de masse d’armes, les flèches et les coups d’épée tombaient comme la grêle tombe d’un nuage, et les morts couvraient le champ de bataille de leurs troncs, de leurs mains, de leurs têtes, de leurs épées et de leurs casques;
+Les coups de massue et de masse d’armes, les flèches et les coups d’épée tombaient comme la grêle tombe d’un nuage, et les morts couvraient le champ de bataille de leurs troncs, de leurs mains, de leurs têtes, de leurs épées et de leurs casques;
 
 Le ciel sublime ressemblait à la terre, tant était épaisse la poussière que fendaient les épées en tous sens;
 

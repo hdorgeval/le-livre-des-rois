@@ -13,7 +13,7 @@ Rustem dit aux Iraniens:
 
 > Il faut maintenant déposer vos armes, car il ne sied pas de paraître devant Dieu qui donne la victoire, avec des massues, des flèches et des boucliers.
 >
-> Inclinez tous vos fronts jusqu’à la terre noire, ensuite mettez des couronnes sur vos têtes, car il ne nous manque aucun des grands sur lesquels nous avions de l’inquiétude.
+> Inclinez tous vos fronts jusqu’à la terre noire, ensuite mettez des couronnes sur vos têtes, car il ne nous manque aucun des grands sur lesquels nous avions de l’inquiétude.
 >
 > Lorsque le roi du monde reçut de vos nouvelles, il me raconta ce qui était connu et ce qui était secret;
 >
@@ -31,7 +31,7 @@ Rustem dit aux Iraniens:
 >
 > Néanmoins mon courage ne fléchit pas un instant, et je ne me disais pas que ma vie fût en péril.
 >
-> Mais aujourd’hui j’ai senti ma fortune s’obscurcir, et mon cœur qui prête au monde son éclat est devenu sombre.
+> Mais aujourd’hui j’ai senti ma fortune s’obscurcir, et mon cœur qui prête au monde son éclat est devenu sombre.
 >
 > Maintenant il est de notre devoir de nous prosterner humblement dans la poussière devant Dieu le tout saint;
 >
@@ -39,7 +39,7 @@ Rustem dit aux Iraniens:
 >
 > Puisse notre fortune ne pas baisser! puissions-nous échapper aux angoisses du malheur!
 >
-> Ayez soin que des messagers portent sans délai ces nouvelles au roi du monde, qui parera son palais glorieux, ceindra sa tête du diadème des Keïanides, et distribuera des dons aux pauvres, pour recueillir de nouvelles bénédictions.
+> Ayez soin que des messagers portent sans délai ces nouvelles au roi du monde, qui parera son palais glorieux, ceindra sa tête du diadème des Keïanides, et distribuera des dons aux pauvres, pour recueillir de nouvelles bénédictions.
 >
 > Maintenant dépouillez-vous de vos armures, et que la parure embellisse votre repos.
 >
@@ -53,9 +53,9 @@ Rustem dit aux Iraniens:
 
 Les grands le bénirent, disant :
 
-> Puissent le diadème et le sceau n’être jamais privés de toi!
+> Puissent le diadème et le sceau n’être jamais privés de toi!
 >
-> Celui qui te ressemble, ô héros au corps d’éléphant, élève sa tête au-dessus du ciel qui tourne, même quand il est le sujet d’un autre.
+> Celui qui te ressemble, ô héros au corps d’éléphant, élève sa tête au-dessus du ciel qui tourne, même quand il est le sujet d’un autre.
 >
 > Tu sais ce que tu as fait par affection pour nous: que le ciel se réjouisse de ce que tu vis!
 >
@@ -75,7 +75,7 @@ Dès que la lune eut déchiré le voile de la nuit et établi son trône sur l
 
 Et lorsque les ténèbres tardives de la nuit eurent disparu, et que le poignard brillant du soleil se fut montré et eut rendu la surface de la terre semblable au rubis, on entendit le tambour dans l’enceinte des tentes du Pehlewan, et les braves de l’armée quittèrent leurs couches.
 
-Rustem dit à ces hommes qui portaient haut la tête:
+Rustem dit à ces hommes qui portaient haut la tête:
 
 > On n’a trouvé nulle part de traces de Piran!
 >
@@ -91,7 +91,7 @@ Il les injuria, disant:
 >
 > Ne vous ai-je pas ordonné d’envoyer des vedettes, et de convertir en plaines les vallées et les ravins en les comblant avec des morts?
 >
-> Vous vous êtes livrés au repos et au sommeil, et l’ennemi a agi et a marché.
+> Vous vous êtes livrés au repos et au sommeil, et l’ennemi a agi et a marché.
 >
 > Celui qui prend ses aises ne recueille que peines et chagrins, mais celui qui prend de la peine recueille les trésors.
 >
@@ -105,7 +105,7 @@ Il se tourna ensuite vers Thous, furieux et semblable à un léopard, et lui di
 >
 > Tu es d’un pays et moi d’un autre.
 >
-> Si vous êtes si forts, combattez vous-mêmes;
+> Si vous êtes si forts, combattez vous-mêmes;
 >
 > Pourquoi m’appelleriez-vous dorénavant à votre aide?
 >
@@ -133,7 +133,7 @@ Quand Rustem le vit, il en demeura étonné;
 
 Il invoqua à plusieurs reprises la grâce de Dieu, et dit:
 
-> La fortune inconstante nous prépare tantôt une fête, tantôt une bataille;
+> La fortune inconstante nous prépare tantôt une fête, tantôt une bataille;
 >
 > Elle transfère ses richesses de l’un à l’autre;
 >
@@ -161,13 +161,13 @@ Il invoqua à plusieurs reprises la grâce de Dieu, et dit:
 >
 > Je purifierai le monde avec l’épée; je ne ferai pas grâce aux méchants;
 >
-> Je jetterai dans la poussière la tête des idolâtres et ferai fleurir le culte de Dieu le tout saint.
+> Je jetterai dans la poussière la tête des idolâtres et ferai fleurir le culte de Dieu le tout saint.
 
 Gouderz lui répondit:
 
 > Ô homme de bon conseil, puisses-tu vivre aussi longtemps que subsistera le monde!
 >
-> Puisses-tu combler les vœux du roi et être heureux!
+> Puisses-tu combler les vœux du roi et être heureux!
 >
 > Tu as fait dans ce combat tout ce qui pouvait se faire.
 
@@ -185,4 +185,4 @@ Il lui dit:
 
 Feribourz répondit:
 
-> Ô vaillant lion, me voici prêt à partir.
+> Ô vaillant lion, me voici prêt à partir.

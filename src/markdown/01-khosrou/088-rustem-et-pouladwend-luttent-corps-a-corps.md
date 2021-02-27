@@ -9,7 +9,7 @@ order: '088'
 
 # Rustem et Pouladwend luttent corps à corps
 
-Les deux héros qui portaient haut la tête et étaient avides de combats se mirent alors à lutter, ayant stipulé d’abord qu’aucun des guerriers des deux amées ne viendrait à l’aide ni de l’un ni de l’autre.
+Les deux héros qui portaient haut la tête et étaient avides de combats se mirent alors à lutter, ayant stipulé d’abord qu’aucun des guerriers des deux amées ne viendrait à l’aide ni de l’un ni de l’autre.
 
 Entre les deux armées s’étendait un espace large d’un demi-farsang, et les étoiles regardaient le combat que se livraient Pouladwend et Tehemten, ces deux furieux lions.
 
@@ -65,13 +65,13 @@ Rustem répondit:
 >
 > Pourquoi votre cœur se fendrait-il?
 >
-> Dans un instant je vais abaisser la tête du Div Pouladwend de la sphère sublime du ciel jusque dans la poussière;
+> Dans un instant je vais abaisser la tête du Div Pouladwend de la sphère sublime du ciel jusque dans la poussière;
 >
 > Et si ma main n’est pas assez forte pour ce combat, pourquoi me décourager imprudemment?
 >
 > Si ce magicien insensé violait la foi jurée devant Dieu, pourquoi auriez-vous peur de cette violation?
 >
-> Car le Div ne ferait que répandre de la poussière sur sa propre tête.
+> Car le Div ne ferait que répandre de la poussière sur sa propre tête.
 
 Rustem étendit la main comme un lion, saisit le crocodile à la poitrine et au bras, et quelque vigueur que montrât Pouladwend, il l’arracha du sol comme un platane, l’éleva à la hauteur de ses épaules et le jeta sur la terre en rendant grâce au Créateur.
 
@@ -107,10 +107,10 @@ Poulad dit à ses troupes:
 
 > Notre fortune, nos trésors, notre grande renommée sont perdus.
 >
-> Pourquoi donnerions-nous nos têtes au vent?
+> Pourquoi donnerions-nous nos têtes au vent?
 >
 > Pourquoi nous battrions-nous?
 
-Il fit partir son armée et partit lui-même désespéré;
+Il fit partir son armée et partit lui-même désespéré;
 
 Toutes les cordes de son cœur avaient été brisées par Rustem.

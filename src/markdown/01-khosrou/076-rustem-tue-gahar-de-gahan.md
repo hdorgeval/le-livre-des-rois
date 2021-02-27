@@ -31,13 +31,13 @@ Mais lorsqu’il vit de près le héros au corps d’éléphant, il eut peur et
 >
 > Kamous n’a pu lui résister;
 >
-> Il vaut mieux s’enfuir à temps la tête sur ses épaules, que de faire parade de bravoure et avoir la tête foulée aux pieds.
+> Il vaut mieux s’enfuir à temps la tête sur ses épaules, que de faire parade de bravoure et avoir la tête foulée aux pieds.
 
 Il retourna, en fuyant, vers le centre de l’armée;
 
 Des deux côtés on tenait les yeux sur lui;
 
-On voyait le drapeau de Rustem au milieu de la foule, semblable à un arbre sur la crête d’une montagne.
+On voyait le drapeau de Rustem au milieu de la foule, semblable à un arbre sur la crête d’une montagne.
 
 Rustem courut après lui, rapide comme la poussière qui vole;
 
@@ -61,13 +61,13 @@ Rustem dit:
 >
 > Car je vais maintenant prendre au Khakan son éléphant, son trône d’ivoire, ses bracelets, sa massue, sa chaîne et sa couronne, et en faire présent à l’Iran, au roi victorieux des braves.
 
-Mille vaillants cavaliers sortirent des rangs des Iraniens, couverts de cottes de mailles et armés de massues à tête de bœuf.
+Mille vaillants cavaliers sortirent des rangs des Iraniens, couverts de cottes de mailles et armés de massues à tête de bœuf.
 
 Rustem leur dit:
 
 > Ceignez-vous pour la vengeance.
 >
-> Je jure par la vie et la tête du roi, par le soleil et la lune, par la poussière de Siawusch et l’armée du Touran, que si un grand de l’Iran s’enfuit devant le roi de la Chine, il n’aura à s’attendre qu’au gibet ou aux fers et à la fosse d’une prison, et que je mettrai sur sa tête une couronne de papier.
+> Je jure par la vie et la tête du roi, par le soleil et la lune, par la poussière de Siawusch et l’armée du Touran, que si un grand de l’Iran s’enfuit devant le roi de la Chine, il n’aura à s’attendre qu’au gibet ou aux fers et à la fosse d’une prison, et que je mettrai sur sa tête une couronne de papier.
 
 Les braves savaient que sa nature était celle du lion, et que dans le combat il prenait pour lui la hanche de l’élan.
 
@@ -75,7 +75,7 @@ Ils s’avancèrent tous vers le Khakan, les troupes excitées par le ressentim
 
 Rustem commença l’attaque;
 
-Il lâcha les rênes à son coursier Raksch;
+Il lâcha les rênes à son coursier Raksch;
 
 Il fit jaillir le sang jusqu’à la sphère de la lune, et les étoiles regardaient avec étonnement ce champ de bataille.
 
@@ -83,17 +83,17 @@ La poussière était si épaisse que personne ne voyait plus le sol, et tels é
 
 Tu aurais dit que le soleil s’était caché derrière un voile, et que la terre était fatiguée des sabots des chevaux.
 
-L’air était noir comme le visage d’un nègre, et l’on ne trouvait plus de chemin à travers les morts sur cette plaine couverte de corps, de cottes de mailles et de cuirasses, et où les têtes disaient adieu aux troncs.
+L’air était noir comme le visage d’un nègre, et l’on ne trouvait plus de chemin à travers les morts sur cette plaine couverte de corps, de cottes de mailles et de cuirasses, et où les têtes disaient adieu aux troncs.
 
 La poussière que soulevaient les chevaux formait un nuage jusqu’au-dessus des régions du vent, et la terre était remplie du bruit que faisait l’acier.
 
-Un grand nombre d’hommes illustres exposaient follement leur tête dans la mêlée pour acquérir de la gloire.
+Un grand nombre d’hommes illustres exposaient follement leur tête dans la mêlée pour acquérir de la gloire.
 
 Rustem poussa un cri, on eût dit que le monde en tressaillait;
 
 Il s’écria:
 
-> Cet éléphant, ce trône d’ivoire, ces bracelets, ce diadème, ce collier et cette couronne sont dignes d’être offerts dans l’Iran à Keï Khosrou le jeune roi du monde.
+> Cet éléphant, ce trône d’ivoire, ces bracelets, ce diadème, ce collier et cette couronne sont dignes d’être offerts dans l’Iran à Keï Khosrou le jeune roi du monde.
 >
 > Qu’avez-vous affaire des couronnes et de cette pompe, vous qui malgré votre puissance, vos efforts et votre bravoure, finissez par livrer vos mains à nos chaînes et vos corps aux nœuds de nos lacets?
 >

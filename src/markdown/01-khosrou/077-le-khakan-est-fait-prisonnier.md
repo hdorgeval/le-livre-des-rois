@@ -21,7 +21,7 @@ Il tombait une pluie de flèches qui ébranlait les armées comme le vent d’a
 
 Les plumes d’aigle remplissaient l’air;
 
-Jamais on n’avait vu, même en songe, une pareille bataille.
+Jamais on n’avait vu, même en songe, une pareille bataille.
 
 Gouderz voyant cette pluie de fer, trembla pour Rustem, et dit à Rehham:
 
@@ -39,7 +39,7 @@ Ensuite il dit a Guiv:
 >
 > Que la malédiction pèse sur elle au jour de la vengeance!
 >
-> Regarde Tehemten, qui en faisant tête au Khakan abaisse le ciel sur la terre.
+> Regarde Tehemten, qui en faisant tête au Khakan abaisse le ciel sur la terre.
 
 Rehham s’élança comme un léopard et se plaça dans le combat derrière Rustem, qui dit à ce lion:
 
@@ -51,13 +51,13 @@ Rehham s’élança comme un léopard et se plaça dans le combat derrière R
 
 Ensuite il s’écria:
 
-> Puisse Ahriman être le compagnon des Turcs et des Chinois!
+> Puisse Ahriman être le compagnon des Turcs et des Chinois!
 >
-> Ô malheureux, qui êtes dénués de toute ressource, accablés de douleur, impuissants et désespérés, n’avez-vous donc pas entendu parler de Rustem, ou votre tête était-elle dépourvue de raison?
+> Ô malheureux, qui êtes dénués de toute ressource, accablés de douleur, impuissants et désespérés, n’avez-vous donc pas entendu parler de Rustem, ou votre tête était-elle dépourvue de raison?
 >
 > C’est un homme qui ne compte pour rien un dragon et qui attaque les éléphants sur le champ de bataille.
 >
-> N’êtes-vous pas encore las de me combattre, moi de qui vous ne recevez que des coups de massue et d’épée?
+> N’êtes-vous pas encore las de me combattre, moi de qui vous ne recevez que des coups de massue et d’épée?
 
 Il décrocha son lacet et le plaça encore roulé sur le pommeau de la selle, lança Raksch et jeta un cri qui aurait déchiré l’oreille du dragon.
 
@@ -83,7 +83,7 @@ Parmi les chefs de son armée il en choisit un qui savait bien la langue des Ira
 > >
 > > Tu n’as pas à te venger de ces étrangers.
 > >
-> > Ne les confonds pas avec le roi Afrasiab, qui ne distingue pas l’eau du feu, qui seul a réuni cette masse d’hommes et qui par cette guerre a attiré sur lui-même le malheur.
+> > Ne les confonds pas avec le roi Afrasiab, qui ne distingue pas l’eau du feu, qui seul a réuni cette masse d’hommes et qui par cette guerre a attiré sur lui-même le malheur.
 > >
 > > Il n’y a personne qui soit indifférent à la gloire et à l’honneur;
 > >
@@ -103,11 +103,11 @@ Rustem répondit:
 
 > Il faut m’amener les éléphants et m’apporter la couronne et le trône d’ivoire.
 >
-> Vous êtes venus dans l’Iran pour le dévaster, pourquoi maintenant vous lamenter et vous plaindre de moi?
+> Vous êtes venus dans l’Iran pour le dévaster, pourquoi maintenant vous lamenter et vous plaindre de moi?
 >
 > Puisque le Khakan reconnaît que son armée est dans ma main, et que la mienne agira aussi rapidement que le permettra ma modération, je lui donne la vie;
 >
-> Mais son collier et sa couronne sont à moi, de même que son éléphant avec le trône d’ivoire
+> Mais son collier et sa couronne sont à moi, de même que son éléphant avec le trône d’ivoire
 
 Le messager répondit:
 
@@ -137,7 +137,7 @@ Il s’avança vers l’éléphant blanc, et le roi de la Chine désespéra de 
 
 Le héros au corps d’éléphant, le fils de Zal fils de Sam, jeta son lacet sur le roi de la Chine;
 
-La courroie partit de la main de Rustem, et la tête du prince se trouva prise dans le nœud;
+La courroie partit de la main de Rustem, et la tête du prince se trouva prise dans le nœud;
 
 Rustem le tira de dessus son éléphant et le jeta par terre;
 

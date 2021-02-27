@@ -11,7 +11,7 @@ order: '073'
 
 Schenkoul s’avança au milieu des deux armées, une épée indienne à la main;
 
-On tenait sur sa tête un parasol indien, et une foule d’hommes de Damber, de Marg et de Maï se tenant derrière lui, à sa droite et à sa gauche, le suivaient partout où il se dirigeait.
+On tenait sur sa tête un parasol indien, et une foule d’hommes de Damber, de Marg et de Maï se tenant derrière lui, à sa droite et à sa gauche, le suivaient partout où il se dirigeait.
 
 Piran le vit avec grande joie, et le poids du combat à livrer à Rustem ne pesait déjà plus sur son cœur.
 
@@ -83,7 +83,7 @@ A ces paroles Rustem se mit en fureur, et il dit à Piran:
 >
 > Le roi m’a beaucoup parlé en public et en secret de tes mensonges, et maintenant j’ai vu ce que tu sais faire et ce que tu veux;
 >
-> Tu n’es que mensonge de la tête aux pieds.
+> Tu n’es que mensonge de la tête aux pieds.
 >
 > Tu te précipites follement dans ton propre sang;
 >
@@ -91,9 +91,9 @@ A ces paroles Rustem se mit en fureur, et il dit à Piran:
 >
 > Que la terre que tu foules soit un enfer ou un paradis, ne t’ai-je pas conseillé de quitter ce pays maudit et d’aller dans un pays civilisé?
 >
-> Une vie comme la tienne n’a aucune valeur, car ta tête est sous le souffle du dragon.
+> Une vie comme la tienne n’a aucune valeur, car ta tête est sous le souffle du dragon.
 >
-> Tu ne veux donc pas aller voir ce roi juste et plein de tendresse, jeune, doux et beau de visage, et tu aimes mieux te vêtir de peaux de sanglier et de léopard que de brocart brillant?
+> Tu ne veux donc pas aller voir ce roi juste et plein de tendresse, jeune, doux et beau de visage, et tu aimes mieux te vêtir de peaux de sanglier et de léopard que de brocart brillant?
 >
 > Personne ne te disputera ce goût, et tu ne te nourriras que du fruit de ce que tu as semé.
 
@@ -109,7 +109,7 @@ Piran lui répondit:
 >
 > Je passerai cette nuit à réfléchir et à parler à l’assemblée des grands.
 
-Ensuite il s’en retourna au centre de l’armée, les lèvres pleines de mensonges, la tête remplie du désir de la vengeance.
+Ensuite il s’en retourna au centre de l’armée, les lèvres pleines de mensonges, la tête remplie du désir de la vengeance.
 
 Lorsque Piran fut parti, les mouvements des deux armées firent ressembler le monde à une montagne qui bouillonnerait.
 
@@ -127,7 +127,7 @@ Rustem dit aux Iraniens:
 > >
 > > La vengeance s’y assouvira, et la massue d’acier deviendra molle comme la cire.
 >
-> Mais qui que ce soit qui vienne me combattre, n’en soyez pas effrayés, car je lui lierai les deux mains avec le nœud de mon lacet, quand même le ciel sublime viendrait à son aide;
+> Mais qui que ce soit qui vienne me combattre, n’en soyez pas effrayés, car je lui lierai les deux mains avec le nœud de mon lacet, quand même le ciel sublime viendrait à son aide;
 >
 > Que personne et qu’aucun de vous n’ait donc peur de ces héros illustres.
 >
@@ -137,7 +137,7 @@ Rustem dit aux Iraniens:
 >
 > Car quoi que nous fassions, il finira par nous trahir.
 >
-> Si notre âme est amie de la sagesse, elle ne comptera ni les jours heureux ni les jours malheureux, et le maître lui-même de la couronne et des trésors ne liera pas son cœur à cette vie fugitive.
+> Si notre âme est amie de la sagesse, elle ne comptera ni les jours heureux ni les jours malheureux, et le maître lui-même de la couronne et des trésors ne liera pas son cœur à cette vie fugitive.
 
 L’armée répondit à Rustem:
 
@@ -151,9 +151,9 @@ Tu aurais dit qu’un nuage noir arrivait, d’où il pleuvait des épées et d
 
 Le monde ressemblait à une mer de poix, la face brillante du soleil était obscurcie par les pointes de fer et par les plumes d’aigle des flèches, et l’on aurait cru que les fers des lances qui perçaient la poussière souillaient les astres de sang;
 
-Les massues à tête de bœuf retentissaient comme s’il fût tombé des pierres du ciel;
+Les massues à tête de bœuf retentissaient comme s’il fût tombé des pierres du ciel;
 
-La terre et la poussière étaient inondées de sang et de cervelle, et les casques volaient en éclats sur les têtes;
+La terre et la poussière étaient inondées de sang et de cervelle, et les casques volaient en éclats sur les têtes;
 
 Les épées brillaient comme des diamants au milieu d’un nuage d’où il pleuvait du sang.
 
