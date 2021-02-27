@@ -85,7 +85,7 @@ Rustem aussi crut qu’il ne restait pas dans le corps de Poulad une jointure en
 
 Les joues du Div étaient comme la fleur du fenugrec, son corps était sans vie et sans mouvement, et le Pehlewan triomphait de lui.
 
-Rustem jeta les yeux tout autour sur les armées du Touran et de l’lran, ensuite il remonta sur le vaillant Raksch, et laissa le corps de ce dragon étendu sur la terre.
+Rustem jeta les yeux tout autour sur les armées du Touran et de l’Iran, ensuite il remonta sur le vaillant Raksch, et laissa le corps de ce dragon étendu sur la terre.
 
 Dès que le héros vainqueur des lions eut rejoint les rangs de son armée, Poulad jeta autour de lui un regard rapide comme la flèche, se leva de terre, monta sur son cheval et s’enfuit;
 

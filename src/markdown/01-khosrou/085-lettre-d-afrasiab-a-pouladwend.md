@@ -11,7 +11,7 @@ order: '085'
 
 Afrasiab sortit de son palais et se rendit dans la plaine;
 
-Il avait hâte de commencer la guerre contre l’lran.
+Il avait hâte de commencer la guerre contre l’Iran.
 
 Après avoir donné à Piran les ordres nécessaires, il se retira à l’écart;
 

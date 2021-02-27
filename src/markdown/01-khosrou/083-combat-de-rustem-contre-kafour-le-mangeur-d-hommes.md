@@ -41,13 +41,13 @@ Tehemten ordonna à trois mille cavaliers armés de cottes de mailles et monté
 
 Dans le château se trouvait un homme vaillant qui était le roi et le maître du pays; son nom était Kafour; il possédait la ville par investiture du roi du Touran.
 
-Lorsqu’il apprit qu’il arrivait une armée d’lraniens sous un chef illustre et avide de combats, il se revêtit de son armure de guerre et sortit suivi de tous ses sujets, semblables à des léopards, accoutumés à jeter le lacet, forts et insensibles aux coups comme des pierres ou des enclumes.
+Lorsqu’il apprit qu’il arrivait une armée d’Iraniens sous un chef illustre et avide de combats, il se revêtit de son armure de guerre et sortit suivi de tous ses sujets, semblables à des léopards, accoutumés à jeter le lacet, forts et insensibles aux coups comme des pierres ou des enclumes.
 
 Kafour se jeta sur Gustehem;
 
 Les deux armées furent bientôt mêlées et s’attaquèrent comme un lion se précipite impétueusement sur un élan.
 
-Un grand nombre des héros de l’lran furent tués, et les plus braves furent découragés par ces pertes.
+Un grand nombre des héros de l’Iran furent tués, et les plus braves furent découragés par ces pertes.
 
 Lorsque Gustehem vit son armée dans cet état, lorsqu’il vit que le monde allait tomber entre les mains de ce Div infâme, il ordonna aux siens de lancer une pluie de traits et d’écraser l’ennemi par une charge de cavaliers.
 
@@ -95,7 +95,7 @@ Ils fermèrent la porte, et continuèrent le combat en décochant des flèches d
 >
 > C’est perdre ta peine que d’attaquer cette ville, que les sages appellent la ville des combats.
 >
-> Lorsque Tour fils de Feridoun quitta l’lran, il appela de tous côtés des hommes habiles et bâtit ce mur de pierre, de bois, de mortier et de roseaux;
+> Lorsque Tour fils de Feridoun quitta l’Iran, il appela de tous côtés des hommes habiles et bâtit ce mur de pierre, de bois, de mortier et de roseaux;
 >
 > Il le bâtit à l’aide de la magie et à force de travail, en s’inondant de sueur et en vidant son trésor.
 >
@@ -207,7 +207,7 @@ Gouderz lui dit:
 >
 > Nous poussions des cris sous le souffle du dragon, lorsque tu es venu nous délivrer avec ton lacet.
 >
-> Tu es la couronne de l’lran et le soutien de l’armée;
+> Tu es la couronne de l’Iran et le soutien de l’armée;
 >
 > tu portes haut la tête, et nous sommes tes serviteurs.
 >
