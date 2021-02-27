@@ -23,7 +23,7 @@ Tu aurais dit que cette vue lui déchirait l’âme; il dit:
 >
 > Car j’ai un cœur de lion, et ma massue est lourde.
 
-Il quitta ses troupes, lança son cheval et s’avança, avide de vengeance, vers Rustem;
+Il quitta ses troupes, lança son cheval et s’avança, avide de vengeance, vers Rustem;
 
 Mais lorsqu’il vit de près le héros au corps d’éléphant, il eut peur et recula devant le combat, en se disant:
 
@@ -73,7 +73,7 @@ Les braves savaient que sa nature était celle du lion, et que dans le combat il
 
 Ils s’avancèrent tous vers le Khakan, les troupes excitées par le ressentiment, le prince par l’ambition d’un diadème.
 
-Rustem commença l’attaque;
+Rustem commença l’attaque;
 
 Il lâcha les rênes à son coursier Raksch;
 

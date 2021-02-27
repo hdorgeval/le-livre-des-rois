@@ -43,7 +43,7 @@ Il rompit entièrement l’aile gauche, et bien des têtes couvertes d’un casq
 
 Or il y avait là un parent de Kamous qui portait le nom de Saweh, homme orgueilleux et d’une ambition immodérée.
 
-Il s’avança contre Tehemten une épée indienne à la main, tournant autour de lui à droite et à gauche, et désirant venger la mort de Kamous.
+Il s’avança contre Tehemten une épée indienne à la main, tournant autour de lui à droite et à gauche, et désirant venger la mort de Kamous.
 
 Il dit à Rustem:
 

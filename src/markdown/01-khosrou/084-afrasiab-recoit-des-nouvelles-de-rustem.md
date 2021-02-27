@@ -91,7 +91,7 @@ Il n’admit aucun étranger en sa présence, et envoya chercher son fils Schide
 >
 > Mais à la fin Rustem a enlevé avec son lacet le Khakan de dessus le dos de son éléphant, l’a jeté dans les fers, et a envoyé dans l’Iran des cavaliers, des héros de tous les pays et de toutes les contrées où les grands obéissent à un chef, des armes, des dromadaires, des éléphants, des couronnes et le trône d’ivoire.
 >
-> Maintenant nous avons reçu la nouvelle qu’il est entré dans notre pays, lui et ses illustres et orgueilleux compagnons;
+> Maintenant nous avons reçu la nouvelle qu’il est entré dans notre pays, lui et ses illustres et orgueilleux compagnons;
 >
 > Et puisque la fortune tourne ainsi, je ne laisserai ici ni mes trésors ni mon trône;
 >

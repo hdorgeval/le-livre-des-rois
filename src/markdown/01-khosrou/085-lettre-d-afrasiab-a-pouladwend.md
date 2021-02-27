@@ -51,7 +51,7 @@ Ensuite il s’adressa à l’écrivain plein d’expérience et lui dit:
 >
 > Sois donc mon sauveur dans cette guerre.
 >
-> Quand il aura reçu la mort de ta main, le monde entier me sera infailliblement assujetti.
+> Quand il aura reçu la mort de ta main, le monde entier me sera infailliblement assujetti.
 >
 > Mais je ne prendrai pour moi que la moitié du riche empire et des trésors de Khosrou;
 >

@@ -9,7 +9,7 @@ order: '082'
 
 # Afrasiab apprend la défaite de son armée
 
-Afrasiab reçut la nouvelle qu’une flamme était sortie des flots du Schahd;
+Afrasiab reçut la nouvelle qu’une flamme était sortie des flots du Schahd;
 
 Il apprit le malheur qui frappait le Touran par la défaite de Kamous, de Manschour et du Khakan.
 
@@ -79,6 +79,6 @@ Les grands lui répondirent en se levant tous ensemble et s’écriant:
 
 Le roi écouta les paroles des nobles guerriers, il choisit ceux qui parlaient le plus haut;
 
-Il appela auprès de lui les braves et ceux qui portaient haut la tête, renonça au sommeil, au repos et à la nourriture, ouvrit la porte de ses trésors et distribua de l’or.
+Il appela auprès de lui les braves et ceux qui portaient haut la tête, renonça au sommeil, au repos et à la nourriture, ouvrit la porte de ses trésors et distribua de l’or.
 
 Le bouillonnement du sang de son cœur se communiqua à son esprit, et tel était le bruit dont les héros de son armée remplirent le monde, que tu aurais cru que le ciel était en armes.

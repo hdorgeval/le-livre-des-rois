@@ -11,7 +11,7 @@ order: '080'
 
 Rustem appela un écrivain expérimenté et lui dit ce qu’il fallait mander au roi.
 
-On écrivit, comme il l’avait ordonné, avec de l’ambre sur de la soie, une lettre telle qu’on les écrit aux rois, et commençant par les louanges du Créateur:
+On écrivit, comme il l’avait ordonné, avec de l’ambre sur de la soie, une lettre telle qu’on les écrit aux rois, et commençant par les louanges du Créateur:
 
 > Lui dont l’existence n’a ni commencement ni fin;
 >
@@ -53,11 +53,11 @@ Rustem rentra dans son camp lorsque les deux boucles de cheveux de la nuit comme
 
 Tous les grands aux traces fortunées s’assirent au banquet en écoutant les chants et la musique et en buvant du vin, et se rendirent à la fin dans leurs tentes, emportant des richesses au gré de leurs désirs.
 
-Lorsque le soleil aux couleurs d’or commença à déchirer le voile noir de la nuit, et au moment où le bruit des trompettes se fit entendre entre l’enceinte et la tente de Rustem, celui-ci se revêtit de son armure de combat, s’assit sur son destrier qui ressemblait à une montagne, et ordonna à l’armée de se munir de provisions.
+Lorsque le soleil aux couleurs d’or commença à déchirer le voile noir de la nuit, et au moment où le bruit des trompettes se fit entendre entre l’enceinte et la tente de Rustem, celui-ci se revêtit de son armure de combat, s’assit sur son destrier qui ressemblait à une montagne, et ordonna à l’armée de se munir de provisions.
 
 lls commencèrent une marche pleine de difficultés.
 
-On prit la longue route du désert, et l’armée s’y avança prête à combattre.
+On prit la longue route du désert, et l’armée s’y avança prête à combattre.
 
 Bustem dit à Thous, à Gouderz et à Guiv:
 

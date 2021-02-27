@@ -15,7 +15,7 @@ Rustem dit aux Iraniens:
 >
 > Inclinez tous vos fronts jusqu’à la terre noire, ensuite mettez des couronnes sur vos têtes, car il ne nous manque aucun des grands sur lesquels nous avions de l’inquiétude.
 >
-> Lorsque le roi du monde reçut de vos nouvelles, il me raconta ce qui était connu et ce qui était secret;
+> Lorsque le roi du monde reçut de vos nouvelles, il me raconta ce qui était connu et ce qui était secret;
 >
 > Il me dit que le Sipehbed Thous s’était retiré dans la montagne de peur de Piran et de Houman.
 >
@@ -125,7 +125,7 @@ Le Sipehbed partit et rassembla tout le butin;
 
 Les braves se répandirent sur le champ de bataille;
 
-Et les ceintures d’or, les couronnes de turquoise, les brocarts, les bracelets, les trônes d’ivoire, les flèches, les arcs, les caparaçons des chevaux, les massues et les épées indiennes qu’on entassa entre les deux montagnes en formèrent une troisième que l’armée entourait avec curiosité.
+Et les ceintures d’or, les couronnes de turquoise, les brocarts, les bracelets, les trônes d’ivoire, les flèches, les arcs, les caparaçons des chevaux, les massues et les épées indiennes qu’on entassa entre les deux montagnes en formèrent une troisième que l’armée entourait avec curiosité.
 
 Un cavalier exercé à tirer de l’arc, large de poitrine, robuste de corps et vaillant, qui aurait lancé une flèche à quatre plumes, n’aurait pu la faire passer au delà de cet amas de dépouilles.
 

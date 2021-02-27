@@ -41,7 +41,7 @@ Ensuite il dit a Guiv:
 >
 > Regarde Tehemten, qui en faisant tête au Khakan abaisse le ciel sur la terre.
 
-Rehham s’élança comme un léopard et se plaça dans le combat derrière Rustem, qui dit à ce lion:
+Rehham s’élança comme un léopard et se plaça dans le combat derrière Rustem, qui dit à ce lion:
 
 > Je crains que mon cheval Raksch ne soit fatigué de la bataille, et alors je serais obligé de combattre à pied, souillé de sang et de sueur.
 >
@@ -59,13 +59,13 @@ Ensuite il s’écria:
 >
 > N’êtes-vous pas encore las de me combattre, moi de qui vous ne recevez que des coups de massue et d’épée?
 
-Il décrocha son lacet et le plaça encore roulé sur le pommeau de la selle, lança Raksch et jeta un cri qui aurait déchiré l’oreille du dragon.
+Il décrocha son lacet et le plaça encore roulé sur le pommeau de la selle, lança Raksch et jeta un cri qui aurait déchiré l’oreille du dragon.
 
 Partout où il poussait son cheval, il dispersait les braves qui couvraient le terrain;
 
 Il ne pensait qu’à combattre, le bras entouré des tours de son lacet et les sourcils froncés.
 
-Chaque fois qu’il désarçonnait, avec le nœud de son lacet, un prince ou un simple soldat, le Sipehdar Thous faisait retentir jusqu’aux nuages les clairons et les timbales, un Iranien liait les mains au prisonnier et le conduisait de la plaine dans la montagne.
+Chaque fois qu’il désarçonnait, avec le nœud de son lacet, un prince ou un simple soldat, le Sipehdar Thous faisait retentir jusqu’aux nuages les clairons et les timbales, un Iranien liait les mains au prisonnier et le conduisait de la plaine dans la montagne.
 
 Le Khakan, du haut de son éléphant, vit la surface de la terre agitée comme les flots de l’Indus;
 
@@ -119,7 +119,7 @@ Le messager répondit:
 >
 > Qui sait comment la journée tournera, et qui sera victorieux dans cette bataille?
 
-A ces paroles, Rustem lança Raksch, en disant:
+A ces paroles, Rustem lança Raksch, en disant:
 
 > Je suis le vainqueur des lions, le distributeur des couronnes!
 >
@@ -133,7 +133,7 @@ A ces paroles, Rustem lança Raksch, en disant:
 
 Il fit voler son lacet roulé et prit le messager par le milieu du corps.
 
-Il s’avança vers l’éléphant blanc, et le roi de la Chine désespéra de vie.
+Il s’avança vers l’éléphant blanc, et le roi de la Chine désespéra de vie.
 
 Le héros au corps d’éléphant, le fils de Zal fils de Sam, jeta son lacet sur le roi de la Chine;
 

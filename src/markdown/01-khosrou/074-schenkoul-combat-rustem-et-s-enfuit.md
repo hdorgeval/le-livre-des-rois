@@ -9,13 +9,13 @@ order: '074'
 
 # Schenkoul combat Rustem et s'enfuit
 
-Schenkoul devançait l’armée en poussant des cris et en disant:
+Schenkoul devançait l’armée en poussant des cris et en disant:
 
 > Je suis le vainqueur des lions, je recherche les combats;
 >
 > Je viens voir où est cet homme du Seïstan, pour étendre ma main sur lui.
 
-Lorsque la voix de Schenkoul frappa Rustem, il regarda de son côté, l’aperçut et dit:
+Lorsque la voix de Schenkoul frappa Rustem, il regarda de son côté, l’aperçut et dit:
 
 > Je n’ai demandé en public et en secret au Créateur qu’une seule grâce, qui est qu’un de ces étrangers, dans cette grande armée, ait le courage de me provoquer au combat.
 >
@@ -69,7 +69,7 @@ On dirigea contre ce vainqueur des lions tant de lances, d’épées, de massues
 
 D’un seul coup il coupait dix lances, en poussant des cris, en bouillonnant de rage, et les ennemis en étaient épouvantés.
 
-Derrière lui s’avançaient les braves de l’Iran, le cœur rempli du désir de la vengeance et avides de combats.
+Derrière lui s’avançaient les braves de l’Iran, le cœur rempli du désir de la vengeance et avides de combats.
 
 Les coups de massue et de masse d’armes, les flèches et les coups d’épée tombaient comme la grêle tombe d’un nuage, et les morts couvraient le champ de bataille de leurs troncs, de leurs mains, de leurs têtes, de leurs épées et de leurs casques;
 
@@ -91,6 +91,6 @@ Piran dit au Khakan de la Chine:
 >
 > Ce qui est certain, c’est que nous serons blâmés.
 >
-> Si nous cherchons à adoucir Rustem, on nous soupçonnera;
+> Si nous cherchons à adoucir Rustem, on nous soupçonnera;
 >
 > Et si nous l’irritons, nous périrons dans cette lutte.

@@ -35,11 +35,11 @@ Schideh lui dit:
 >
 > Ne trouble pas cette eau limpide, car ceux qui te cherchent des défauts te blâmeront.
 
-Le roi se mit à injurier son fils, et alla dans sa colère jusqu’à le soupçonner; à la fin il lui dit:
+Le roi se mit à injurier son fils, et alla dans sa colère jusqu’à le soupçonner; à la fin il lui dit:
 
 > Si le Div Pouladwend succombe sous son ennemi, aucun des nôtres ne restera en vie, grâce à toi qui n’est brave qu’avec la langue.
 
-A ces paroles le vaillant Schideh secoua la bride de son cheval et s’élança vers le lieu du combat rapidement et comme un lion.
+A ces paroles le vaillant Schideh secoua la bride de son cheval et s’élança vers le lieu du combat rapidement et comme un lion.
 
 Il regarda la lutte des deux lions, des deux braves qui rugissaient comme le tonnerre, et dit à Poulad:
 
@@ -49,7 +49,7 @@ Il regarda la lutte des deux lions, des deux braves qui rugissaient comme le ton
 
 Guiv avait observé Afrasiab, et sa colère en parlant à son fils, et la course rapide de Schideh;
 
-Quand il vit que les ennemis avaient violé leur promesse, il lança son cheval, accourut et dit à Rustem:
+Quand il vit que les ennemis avaient violé leur promesse, il lança son cheval, accourut et dit à Rustem:
 
 > Ô héros, dis-moi, quels ordres donnes-tu à tes serviteurs?
 >

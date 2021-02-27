@@ -33,7 +33,7 @@ Il revint couvert de poussière, et passa en revue les éléphants et les prison
 
 Ensuite il s’en retourna dans son palais, écrivit une réponse à la lettre de Rustem, et planta un nouvel arbre dans le jardin du pouvoir.
 
-Il commença par les louanges du Créateur,
+Il commença par les louanges du Créateur,
 
 > de qui vient la bonne et la mauvaise fortune, qui est le maître de Saturne et du ciel qui tourne;
 >

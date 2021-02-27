@@ -9,7 +9,7 @@ order: '073'
 
 # Rustem fait des reproches à Piran
 
-Schenkoul s’avança au milieu des deux armées, une épée indienne à la main;
+Schenkoul s’avança au milieu des deux armées, une épée indienne à la main;
 
 On tenait sur sa tête un parasol indien, et une foule d’hommes de Damber, de Marg et de Maï se tenant derrière lui, à sa droite et à sa gauche, le suivaient partout où il se dirigeait.
 
@@ -23,11 +23,11 @@ Il dit à Houman:
 >
 > Va te poster avec deux cents cavaliers derrière le Khakan, qui te connaît;
 >
-> Car si cet homme du Zaboulistan t’aperçoit avec tes troupes et ton étendard, il t’anéantira.
+> Car si cet homme du Zaboulistan t’aperçoit avec tes troupes et ton étendard, il t’anéantira.
 >
 > Observons comment nos affaires iront, et si la fortune, qui veille sur nous, se montrera favorable.
 
-Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l’ombre de Rustem, il descendit de cheval et salua à plusieurs reprises le héros au corps d’éléphant, disant:
+Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l’ombre de Rustem, il descendit de cheval et salua à plusieurs reprises le héros au corps d’éléphant, disant:
 
 > La sublime voûte du ciel t’emprunte sa lumière.
 >
@@ -117,7 +117,7 @@ Rustem dit aux Iraniens:
 
 > Me voilà ceint pour le combat;
 >
-> Que chacun de vous remplisse son cœur d’une ardeur belliqueuse, qu’il fronce ses sourcils menaçants, car nous avons à soutenir une grande lutte, et l’on verra combien il y a loin du loup à la brebis.
+> Que chacun de vous remplisse son cœur d’une ardeur belliqueuse, qu’il fronce ses sourcils menaçants, car nous avons à soutenir une grande lutte, et l’on verra combien il y a loin du loup à la brebis.
 >
 > L’astrologue m’a dit:
 >
@@ -131,7 +131,7 @@ Rustem dit aux Iraniens:
 >
 > Que personne et qu’aucun de vous n’ait donc peur de ces héros illustres.
 >
-> Sans doute je succomberai dans ce combat si le sort est contre moi, et je mourrai en prononçant, comme c’est mon devoir, le nom du Dispensateur de tout bien.
+> Sans doute je succomberai dans ce combat si le sort est contre moi, et je mourrai en prononçant, comme c’est mon devoir, le nom du Dispensateur de tout bien.
 >
 > Mais puisque mon corps appartient à la mort, il me faut de la gloire, il nous faut une gloire durable, et puisque nous ne pouvons rester sur la terre, ne nous préoccupons pas tant de l’avenir, n’attachons pas notre cœur à ce séjour passager;
 >
@@ -149,7 +149,7 @@ Les armées s’approchèrent l’une de l’autre;
 
 Tu aurais dit qu’un nuage noir arrivait, d’où il pleuvait des épées et des flèches;
 
-Le monde ressemblait à une mer de poix, la face brillante du soleil était obscurcie par les pointes de fer et par les plumes d’aigle des flèches, et l’on aurait cru que les fers des lances qui perçaient la poussière souillaient les astres de sang;
+Le monde ressemblait à une mer de poix, la face brillante du soleil était obscurcie par les pointes de fer et par les plumes d’aigle des flèches, et l’on aurait cru que les fers des lances qui perçaient la poussière souillaient les astres de sang;
 
 Les massues à tête de bœuf retentissaient comme s’il fût tombé des pierres du ciel;
 

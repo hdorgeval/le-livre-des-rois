@@ -11,7 +11,7 @@ order: '083'
 
 Pendant que ce plan des méchants se développait, Feribourz retourna joyeusement auprès de Rustem, et lui apporta avec les autres présents du roi une couronne et des boucles d’oreilles.
 
-Le héros au corps d’éléphant les reçut avec plaisir;
+Le héros au corps d’éléphant les reçut avec plaisir;
 
 Les grands se rassemblèrent et bénirent le Pehlewan en disant:
 
@@ -21,7 +21,7 @@ Les grands se rassemblèrent et bénirent le Pehlewan en disant:
 >
 > Puisse notre pays prospérer sous ta protection!
 
-Les chefs de l’armée emportèrent les présents du roi, en s’écriant d’une voix qui perçait les nuages:
+Les chefs de l’armée emportèrent les présents du roi, en s’écriant d’une voix qui perçait les nuages:
 
 > Nous sommes les serviteurs et les esclaves du roi, nous dévouons notre vie à l’exécution de ses ordres et de ses volontés!
 
@@ -115,9 +115,9 @@ Lui-même, le héros plein d’expérience, saisit son arc et jeta dans la stupe
 
 Car aussitôt qu’une tête apparaissait au-dessus du rempart, il la frappait avec une flèche dont la pointe contait des secrets à leur cerveau, mais ces deux compagnons s’accordaient mal ensemble.
 
-Ensuite il commença à miner les remparts par le pied, pour en précipiter en bas les défenseurs;
+Ensuite il commença à miner les remparts par le pied, pour en précipiter en bas les défenseurs;
 
-On plaça des poutres sous les parties minées, et on les enduisit de naphte noir.
+On plaça des poutres sous les parties minées, et on les enduisit de naphte noir.
 
 Quand la moitié des murs fut minée, on mit le feu aux étais;
 
@@ -133,7 +133,7 @@ Les cavaliers iraniens mirent pied à terre, saisirent leurs boucliers, leurs a
 
 Ils sortirent du château et se réfugièrent en pleurant dans la plaine.
 
-Alors Rustem ferma la porte du château, et l’œuvre de la destruction et de la mort commença;
+Alors Rustem ferma la porte du château, et l’œuvre de la destruction et de la mort commença;
 
 On fit un grand carnage;
 

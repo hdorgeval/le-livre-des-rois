@@ -25,11 +25,11 @@ Il serra son cheval des jambes et l’excita; il s’élance et se disposa à l
 
 > Ô malheureux Div, tu vas voir comment la fortune tourne!
 
-Au moment où la voix de Rustem frappait l’oreille des héros, il aperçut lui-même les fils de Gouderz à pied, et dit en s’adressant au Créateur:
+Au moment où la voix de Rustem frappait l’oreille des héros, il aperçut lui-même les fils de Gouderz à pied, et dit en s’adressant au Créateur:
 
 > Ô toi qui es au-dessus de tout ce qui est visible et invisible, mieux aurait valu pour moi devenir aveugle dans ce combat que de voir ce jour de la déroute, où les braves du Touran, Piran, Houman et ce vaillant Div poussent des cris de triomphe, où Guiv, Rehham, Thous et Bijen qui se rit des lions sont à pied, parce que les flèches ont abattu les chevaux de ces héros, qui combattent comme des fantassins au milieu de cette foule confuse.
 
-Il se jeta sur le Div Pouladwend, il lança sur lui son lacet roulé;
+Il se jeta sur le Div Pouladwend, il lança sur lui son lacet roulé;
 
 Le brave cavalier déroba ses membres au nœud du lacet, mais il eut peur et fut effrayé de ce combat.
 
@@ -93,7 +93,7 @@ Pouladwend répondit:
 
 > Ta massue ne m’a fait aucun mal!
 
-Les deux combattants échangèrent ces paroles en se lançant des regards pleins de haine.
+Les deux combattants échangèrent ces paroles en se lançant des regards pleins de haine.
 
 Ensuite Pouladwend tira une épée d’acier forgée à l’aide d’arts magiques et d’incantations;
 

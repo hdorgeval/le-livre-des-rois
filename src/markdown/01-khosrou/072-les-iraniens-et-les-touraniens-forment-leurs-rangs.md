@@ -9,19 +9,19 @@ order: '072'
 
 # Les Iraniens et les Touraniens forment leurs rangs
 
-Lorsque le soleil commença à montrer son casque brillant, et que la face de la lune fut devenue semblable à un bouclier d’argent, la lune craignit d’entrer en lutte avec le soleil, elle se courba et voila sa face.
+Lorsque le soleil commença à montrer son casque brillant, et que la face de la lune fut devenue semblable à un bouclier d’argent, la lune craignit d’entrer en lutte avec le soleil, elle se courba et voila sa face.
 
 On entendit les tambours sous l’entrée de la tente de Thous, le sol disparut sous les sabots noirs des chevaux, la terre devint sombre, l’air se remplit de poussière, et Rustem se revêtit de son armure de guerre.
 
-Le fils de Keschwad se plaça à l’aile droite, couvert d’une cuirasse et armé d’une massue de fer;
+Le fils de Keschwad se plaça à l’aile droite, couvert d’une cuirasse et armé d’une massue de fer;
 
 Feribourz prit le commandement de l’aile gauche, et éleva en l’air un étendard portant une figure de loup;
 
 Thous le fils de Newder se tint à pied au centre, et le monde était entièrement couvert de troupes.
 
-Tehemten s’avança pour observer les héros de l’armée ennemie.
+Tehemten s’avança pour observer les héros de l’armée ennemie.
 
-De son côté le Khakan se plaça au centre;
+De son côté le Khakan se plaça au centre;
 
 Il était entouré d’éléphants qui formaient comme un mont Bisoutoun.
 
@@ -55,4 +55,4 @@ Les trompettes sonnèrent, les éléphants de guerre s’ébranlèrent;
 
 Trente mille cavaliers fiers et glorieux formèrent l’aile droite, trente mille autres saisirent leurs arcs et leurs boucliers chinois et formèrent l’aile gauche;
 
-Au centre se plaça le Khakan avec les éléphants, qui semblaient rouler devant eux la surface de la terre.
+Au centre se plaça le Khakan avec les éléphants, qui semblaient rouler devant eux la surface de la terre.
