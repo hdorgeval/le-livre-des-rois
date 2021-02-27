@@ -77,7 +77,7 @@ Rustem étendit la main comme un lion, saisit le crocodile à la poitrine et au
 
 L’armée de l’Iran poussa un cri, les tambours se portèrent en avant;
 
-Le son des trompetles et le bruit des cimbales et des clochettes indiennes monta jusqu’aux nuages;
+Le son des trompettes et le bruit des cimbales et des clochettes indiennes monta jusqu’aux nuages;
 
 Tous s’écriaient que Pouladwend était mort, qu’il se tordait dans la poussière comme un serpent.
 
