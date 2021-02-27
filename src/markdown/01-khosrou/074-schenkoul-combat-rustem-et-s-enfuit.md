@@ -15,7 +15,7 @@ Schenkoul devançait l’armée en poussant des cris et en disant:
 >
 > Je viens voir où est cet homme du Seïstan, pour étendre ma main sur lui.
 
-Lorsque la voix de Schenkoul frappa Rustem, il regarda de son côté, l’aperçut et dit:
+Lorsque la voix de Schenkoul frappa Rustem, il regarda de son côté, l’aperçut et dit:
 
 > Je n’ai demandé en public et en secret au Créateur qu’une seule grâce, qui est qu’un de ces étrangers, dans cette grande armée, ait le courage de me provoquer au combat.
 >
@@ -29,7 +29,7 @@ Il s’approcha de Schenkoul et s’écria:
 >
 > Zal Zer m’a donné le nom de Rustem!
 >
-> Pourquoi, ô misérable, m’appelles-tu l’homme du Seïstan?
+> Pourquoi, ô misérable, m’appelles-tu l’homme du Seïstan?
 >
 > Sache que l’homme du Seistan est ta mort, et que ta cuirasse et ton casque te serviront de linceul.
 
@@ -37,7 +37,7 @@ Il s’élança vers lui sur le champ de bataille entre les rangs des deux anné
 
 Il passa sur lui sans que les pieds de Raksch le blessent, et porta la main à l’épée;
 
-Mais les braves du côté opposé se précipitèrent avec leurs épées trempées dans le fiel, et tous, Turcs, Chinois et Indiens réunis, firent une attaque contre le Pehlewan, entourant Schenkoul et l’arrachant au lion furieux.
+Mais les braves du côté opposé se précipitèrent avec leurs épées trempées dans le fiel, et tous, Turcs, Chinois et Indiens réunis, firent une attaque contre le Pehlewan, entourant Schenkoul et l’arrachant au lion furieux.
 
 C’est ainsi que Schenkoul échappa vivant à Rustem ; son armure était un tissu de mailles, de sorte qu’elle ne l’avait pas blessé dans sa chute;
 
@@ -63,7 +63,7 @@ Chaque fois qu’il frappait de l’épée, la plaine se couvrait de corps priv�
 
 Une montagne n’aurait pas résisté à son attaque, et un éléphant n’aurait pas tenu contre sa fureur.
 
-Ils le pressèrent tellement de tous côtés, que le soleil au-dessus de sa tête fut obscurci;
+Ils le pressèrent tellement de tous côtés, que le soleil au-dessus de sa tête fut obscurci;
 
 On dirigea contre ce vainqueur des lions tant de lances, d’épées, de massues et de flèches, qu’il pouvait se croire dans un champ de roseaux, et le sang qui coulait faisait ressembler la surface de la terre à un pressoir.
 

@@ -21,7 +21,7 @@ Thous le fils de Newder se tint à pied au centre, et le monde était entièrem
 
 Tehemten s’avança pour observer les héros de l’armée ennemie.
 
-De son côté le Khakan se plaça au centre;
+De son côté le Khakan se plaça au centre;
 
 Il était entouré d’éléphants qui formaient comme un mont Bisoutoun.
 
@@ -31,7 +31,7 @@ Et à l’aile gauche Gahar le vieux guerrier, dont le cheval déchirait la ter
 
 Piran sortit des rangs, s’approcha de Schenkoul avide de combats, et lui dit:
 
-> Ô glorieux roi, à qui l’Inde et le Sind obéissent, tu m’avais dit que ce matin tu ferais avancer ton armée de tous côtés, que tu provoquerais Rustem, que tu jetterais dans la poussière sa tête qui s’élève jusqu’aux nues.
+> Ô glorieux roi, à qui l’Inde et le Sind obéissent, tu m’avais dit que ce matin tu ferais avancer ton armée de tous côtés, que tu provoquerais Rustem, que tu jetterais dans la poussière sa tête qui s’élève jusqu’aux nues.
 
 Schenkoul lui répondit:
 
@@ -49,7 +49,7 @@ Toute l’armée se mit en mouvement, accompagnée d’éléphants furieux, et c
 
 Les têtes des conducteurs des éléphants resplendissaient d’ornements; ils étaient parés de diadèmes et de boucles d’oreilles, de colliers d’or et de ceintures d’or.
 
-Les éléphants étaient couverts de housses de brocart de la Chine et portaient sur le dos des trônes d’or.
+Les éléphants étaient couverts de housses de brocart de la Chine et portaient sur le dos des trônes d’or.
 
 Les trompettes sonnèrent, les éléphants de guerre s’ébranlèrent;
 

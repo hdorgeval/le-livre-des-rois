@@ -55,7 +55,7 @@ Les grands le bénirent, disant :
 
 > Puissent le diadème et le sceau n’être jamais privés de toi!
 >
-> Celui qui te ressemble, ô héros au corps d’éléphant, élève sa tête au-dessus du ciel qui tourne, même quand il est le sujet d’un autre.
+> Celui qui te ressemble, ô héros au corps d’éléphant, élève sa tête au-dessus du ciel qui tourne, même quand il est le sujet d’un autre.
 >
 > Tu sais ce que tu as fait par affection pour nous: que le ciel se réjouisse de ce que tu vis!
 >
@@ -63,7 +63,7 @@ Les grands le bénirent, disant :
 >
 > Bénies soient ta famille et ta race! bénie la mère qui met au monde un fils comme toi!
 
-Rustem fit amener l’éléphant chargé du trône d’ivoire, du collier et de la couronne d’or;
+Rustem fit amener l’éléphant chargé du trône d’ivoire, du collier et de la couronne d’or;
 
 Il demanda du vin royal et des coupes, et porta d’abord la santé du roi du monde;
 
@@ -71,7 +71,7 @@ Il fit sonner des trompettes du haut de l’éléphant, et le bruit s’entendit
 
 Et lorsque le Pehlewan du monde se fut égayé en buvant du vin, les grands partirent comblés de joie et de bonheur.
 
-Dès que la lune eut déchiré le voile de la nuit et établi son trône sur le firmament de turquoise, Rustem envoya des vedettes dans la large plaine;
+Dès que la lune eut déchiré le voile de la nuit et établi son trône sur le firmament de turquoise, Rustem envoya des vedettes dans la large plaine;
 
 Et lorsque les ténèbres tardives de la nuit eurent disparu, et que le poignard brillant du soleil se fut montré et eut rendu la surface de la terre semblable au rubis, on entendit le tambour dans l’enceinte des tentes du Pehlewan, et les braves de l’armée quittèrent leurs couches.
 
@@ -79,7 +79,7 @@ Rustem dit à ces hommes qui portaient haut la tête:
 
 > On n’a trouvé nulle part de traces de Piran!
 >
-> Il faut vous rendre sur le champ de bataille, et envoyer des troupes de tous côtés.
+> Il faut vous rendre sur le champ de bataille, et envoyer des troupes de tous côtés.
 
 Bijen le guerrier ardent partit à l’instant pour le champ de bataille, il vit la terre jonchée de morts et de bagages, il vit de toutes parts des tentes dressées, il vit la plaine entière couverte de blessés gisant dans la poussière et chargés de chaînes, mais il ne trouva pas un homme vivant parmi ces tentes et ces pavillons qui couvraient le sol.
 
@@ -115,7 +115,7 @@ Il se tourna ensuite vers Thous, furieux et semblable à un léopard, et lui di
 >
 > Si tu rencontres une de ces vedettes, brise-lui sur-le-champ les mains et les pieds avec un bâton, prends ce qu’il possède, charge ses pieds de fer, jette-le sur le dos d’un éléphant, et envoie-le dans cet état au roi, pour voir si à la cour il apprendra à obéir.
 >
-> Cherche l’or, les pierreries, les trônes d’ivoire, les pièces de brocart, les diadèmes, les trésors et les couronnes que les Iraniens auront pris, et réunis tout ce butin précieux;
+> Cherche l’or, les pierreries, les trônes d’ivoire, les pièces de brocart, les diadèmes, les trésors et les couronnes que les Iraniens auront pris, et réunis tout ce butin précieux;
 >
 > Car sur cette plaine ont campé beaucoup de rois et les grands du monde entier, venus de la Chine, du Seklab, de l’Inde et du Wahr, tous riches et maîtres de provinces.
 >
@@ -125,7 +125,7 @@ Le Sipehbed partit et rassembla tout le butin;
 
 Les braves se répandirent sur le champ de bataille;
 
-Et les ceintures d’or, les couronnes de turquoise, les brocarts, les bracelets, les trônes d’ivoire, les flèches, les arcs, les caparaçons des chevaux, les massues et les épées indiennes qu’on entassa entre les deux montagnes en formèrent une troisième que l’armée entourait avec curiosité.
+Et les ceintures d’or, les couronnes de turquoise, les brocarts, les bracelets, les trônes d’ivoire, les flèches, les arcs, les caparaçons des chevaux, les massues et les épées indiennes qu’on entassa entre les deux montagnes en formèrent une troisième que l’armée entourait avec curiosité.
 
 Un cavalier exercé à tirer de l’arc, large de poitrine, robuste de corps et vaillant, qui aurait lancé une flèche à quatre plumes, n’aurait pu la faire passer au delà de cet amas de dépouilles.
 
@@ -133,11 +133,11 @@ Quand Rustem le vit, il en demeura étonné;
 
 Il invoqua à plusieurs reprises la grâce de Dieu, et dit:
 
-> La fortune inconstante nous prépare tantôt une fête, tantôt une bataille;
+> La fortune inconstante nous prépare tantôt une fête, tantôt une bataille;
 >
 > Elle transfère ses richesses de l’un à l’autre;
 >
-> Elle les donne tantôt en maudissant, tantôt en bénissant.
+> Elle les donne tantôt en maudissant, tantôt en bénissant.
 >
 > L’un amasse un trésor, et un autre vient en jouir.
 >
@@ -153,7 +153,7 @@ Il invoqua à plusieurs reprises la grâce de Dieu, et dit:
 >
 > Leur armée est détruite, leurs trésors amassés sont perdus, parce que tous leurs desseins étaient injustes.
 >
-> Ces grands de tous les pays, ces princes, l’élite des royaumes, je les enverrai au roi montés sur leurs éléphants de guerre, avec leurs trônes d’or et leurs diadèmes d’or;
+> Ces grands de tous les pays, ces princes, l’élite des royaumes, je les enverrai au roi montés sur leurs éléphants de guerre, avec leurs trônes d’or et leurs diadèmes d’or;
 >
 > J’enverrai chargé sur des dromadaires ardents tout ce qui est digne de Khosrou parmi ces richesses.
 >
@@ -181,7 +181,7 @@ Il lui dit:
 >
 > Entreprends ce voyage pénible, et porte au jeune roi une lettre de moi.
 >
-> Emmène avec toi les prisonniers, les dromadaires et tous ces trésors, les diadèmes, les bracelets, les massues, les couronnes, les éléphants de guerre et ce trône d’ivoire.
+> Emmène avec toi les prisonniers, les dromadaires et tous ces trésors, les diadèmes, les bracelets, les massues, les couronnes, les éléphants de guerre et ce trône d’ivoire.
 
 Feribourz répondit:
 

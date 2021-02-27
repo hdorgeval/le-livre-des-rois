@@ -31,7 +31,7 @@ On écrivit, comme il l’avait ordonné, avec de l’ambre sur de la soie, une 
 >
 > On aurait dit que le monde était devenu trop étroit pour eux.
 >
-> C’étaient tous des chefs de grands empires, maîtres des couronnes, des trônes et des diadèmes;
+> C’étaient tous des chefs de grands empires, maîtres des couronnes, des trônes et des diadèmes;
 >
 > Et à présent on ne peut plus passer entre les deux montagnes à travers les plaines et les ravins, tant il y a de sang et de morts, et sur un espace de quarante farsangs le sol est coloré par le sang comme la rose.
 >

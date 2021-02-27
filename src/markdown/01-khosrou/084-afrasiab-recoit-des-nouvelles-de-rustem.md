@@ -41,17 +41,17 @@ L’armée répondit à Afrasiab:
 >
 > Qu’auras-tu alors à craindre du roi et de Dieu?
 >
-> Ni Khosrou, ni son trône, ni le pays d’Iran, ni une seule branche d’arbre ne prospéreront plus.
+> Ni Khosrou, ni son trône, ni le pays d’Iran, ni une seule branche d’arbre ne prospéreront plus.
 >
 > Jette les yeux sur cette armée aguerrie, sur ces jeunes gens propres au combat;
 >
-> Nous nous livrerons tous à la mort pour notre patrie, nos fils, nos femmes, nos petits enfants et nos alliés, plutôt que d’abandonner notre pays à l’ennemi.
+> Nous nous livrerons tous à la mort pour notre patrie, nos fils, nos femmes, nos petits enfants et nos alliés, plutôt que d’abandonner notre pays à l’ennemi.
 
 Afrasiab, à ces paroles, oublia les anciennes guerres, et pensa avec une nouvelle confiance à l’empire de ses ancêtres et à sa fortune; il leur répondit:
 
-> Je distribuerai des armes aussitôt qu’il sera nécessaire;
+> Je distribuerai des armes aussitôt qu’il sera nécessaire;
 >
-> Je ne permettrai pas que Khosrou se réjouisse sur son trône et se glorifie de son bonheur.
+> Je ne permettrai pas que Khosrou se réjouisse sur son trône et se glorifie de son bonheur.
 >
 > Lorsque viendra le jour de la bataille, je jetterai dans la poussière, après un long combat, la tête de cet homme du Zaboulistan;
 >
@@ -87,13 +87,13 @@ Il n’admit aucun étranger en sa présence, et envoya chercher son fils Schide
 >
 > Grâce a la fortune de ce vainqueur des lions, ils ont tué ou emmené en captivité Kamous, Gargoui, le Khakan, Gahar, le glorieux Manschour, Kender, Schenkoul le roi de l’lnde, et leur armée qui s’étendait depuis le Kaschmir jusqu’à la frontière du Sind.
 >
-> La lutte a duré quarante jours, qui ont été remplis tantôt par des combats, tantôt par des trêves;
+> La lutte a duré quarante jours, qui ont été remplis tantôt par des combats, tantôt par des trêves;
 >
-> Mais à la fin Rustem a enlevé avec son lacet le Khakan de dessus le dos de son éléphant, l’a jeté dans les fers, et a envoyé dans l’Iran des cavaliers, des héros de tous les pays et de toutes les contrées où les grands obéissent à un chef, des armes, des dromadaires, des éléphants, des couronnes et le trône d’ivoire.
+> Mais à la fin Rustem a enlevé avec son lacet le Khakan de dessus le dos de son éléphant, l’a jeté dans les fers, et a envoyé dans l’Iran des cavaliers, des héros de tous les pays et de toutes les contrées où les grands obéissent à un chef, des armes, des dromadaires, des éléphants, des couronnes et le trône d’ivoire.
 >
 > Maintenant nous avons reçu la nouvelle qu’il est entré dans notre pays, lui et ses illustres et orgueilleux compagnons;
 >
-> Et puisque la fortune tourne ainsi, je ne laisserai ici ni mes trésors ni mon trône;
+> Et puisque la fortune tourne ainsi, je ne laisserai ici ni mes trésors ni mon trône;
 >
 > J’enverrai vers le fleuve Almas tout ce que j’ai de précieux, mes couronnes, mes ceintures, mes colliers d’or et mes boucliers d’or;
 >
@@ -131,7 +131,7 @@ Il n’admit aucun étranger en sa présence, et envoya chercher son fils Schide
 
 Schideh lui répondit:
 
-> Ô roi plein de sagesse, puisses-tu vivre aussi longtemps qu’il y aura une couronne et un trône!
+> Ô roi plein de sagesse, puisses-tu vivre aussi longtemps qu’il y aura une couronne et un trône!
 >
 > En toi résident la majesté et la splendeur royale, le savoir, la haute naissance, la bravoure et le pouvoir;
 >
@@ -145,7 +145,7 @@ Schideh lui répondit:
 >
 > Tous les rois de la terre célèbrent ta gloire, tu connais le monde, tu as acquis de l’expérience;
 >
-> Et je jure par la vie et la tête du roi du Touran, par le soleil et l’épée, le trône et le diadème, que le sort de Kamous et du Khakan a rempli mon cœur de douleur et ma tête du désir de la vengeance.
+> Et je jure par la vie et la tête du roi du Touran, par le soleil et l’épée, le trône et le diadème, que le sort de Kamous et du Khakan a rempli mon cœur de douleur et ma tête du désir de la vengeance.
 >
 > Marche vers Gangue, et ne tourne pas les yeux vers le bord de la mer;
 >
@@ -185,7 +185,7 @@ Cette réponse détermina Afrasiab à s’occuper sans retard de la guerre, et 
 
 Les grands quittèrent le roi et se portèrent dans la plaine pour se préparer au combat.
 
-Bientôt le désert retentit du bruit des hommes et du son des trompettes;
+Bientôt le désert retentit du bruit des hommes et du son des trompettes;
 
 La poussière rendait le monde noir comme l’ébène;
 

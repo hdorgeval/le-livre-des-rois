@@ -35,7 +35,7 @@ Le brave cavalier déroba ses membres au nœud du lacet, mais il eut peur et fut
 
 Pouladwend dit à Rustem:
 
-> Ô homme vaillant et plein d’expérience, ô lion illustre devant lequel l’éléphant de guerre s’enfuit, tu vas entendre maintenant le mugissement des flots de l’lndus;
+> Ô homme vaillant et plein d’expérience, ô lion illustre devant lequel l’éléphant de guerre s’enfuit, tu vas entendre maintenant le mugissement des flots de l’lndus;
 >
 > Tu vas voir le feu de mon combat, et mon lacet, et mon courage, et la force de mon attaque.
 >
@@ -67,7 +67,7 @@ Ces deux braves ressemblaient à des éléphants furieux.
 
 Rustem avec sa lourde massue porta sur la tête de Pouladwend un coup que l’armée entière entendit retentir;
 
-Les yeux de Pouladwend s’obscurcirent, sa main ne retenait plus la bride, la douleur le fit pencher du côté droit, et il se dit:
+Les yeux de Pouladwend s’obscurcirent, sa main ne retenait plus la bride, la douleur le fit pencher du côté droit, et il se dit:
 
 > C’est aujourd’hui un jour de malheur !
 
@@ -87,7 +87,7 @@ Ensuite il dit à Pouladwend:
 >
 > Tes mains ne manient plus les rênes noires;
 >
-> Descends de cheval, ô Div, et demande grâce!
+> Descends de cheval, ô Div, et demande grâce!
 
 Pouladwend répondit:
 

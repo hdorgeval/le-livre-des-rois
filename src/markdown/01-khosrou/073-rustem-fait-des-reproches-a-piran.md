@@ -35,7 +35,7 @@ Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 >
 > Puisses-tu ne jamais éprouver d’angoisses!
 >
-> Après t’avoir quitté, ô Pehlewan, j’ai rapporté ton message à tous les Touraniens, jeunes et vieux , je leur ai raconté tes hauts faits;
+> Après t’avoir quitté, ô Pehlewan, j’ai rapporté ton message à tous les Touraniens, jeunes et vieux , je leur ai raconté tes hauts faits;
 >
 > Mais qui dans le monde pourrait te célébrer dignement?
 >
@@ -99,7 +99,7 @@ A ces paroles Rustem se mit en fureur, et il dit à Piran:
 
 Piran lui répondit:
 
-> Ô homme fortuné, puissant et content de ton sort, toi qui es l’ornement du trône!
+> Ô homme fortuné, puissant et content de ton sort, toi qui es l’ornement du trône!
 >
 > Qui est-ce qui saurait parler comme toi?
 >

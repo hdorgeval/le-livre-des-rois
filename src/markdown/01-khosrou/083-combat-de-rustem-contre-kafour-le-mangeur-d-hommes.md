@@ -45,13 +45,13 @@ Lorsqu’il apprit qu’il arrivait une armée d’lraniens sous un chef illustr
 
 Kafour se jeta sur Gustehem;
 
-Les deux armées furent bientôt mêlées et s’attaquèrent comme un lion se précipite impétueusement sur un élan.
+Les deux armées furent bientôt mêlées et s’attaquèrent comme un lion se précipite impétueusement sur un élan.
 
 Un grand nombre des héros de l’lran furent tués, et les plus braves furent découragés par ces pertes.
 
 Lorsque Gustehem vit son armée dans cet état, lorsqu’il vit que le monde allait tomber entre les mains de ce Div infâme, il ordonna aux siens de lancer une pluie de traits et d’écraser l’ennemi par une charge de cavaliers.
 
-Kafour de son côté dit à ses fiers guerriers:
+Kafour de son côté dit à ses fiers guerriers:
 
 > Les pointes des flèches ne laissent pas de traces sur le fer!
 >
@@ -65,7 +65,7 @@ Gustehem dit brusquement à Bijen:
 
 > Secoue un peu les rênes, et va dire à Rustem de ne pas rester en repos, mais d’accourir avec deux cents cavaliers.
 
-Bijen fils de Guiv partit comme le vent, et répéta ces paroles à Rustem, qui appuya aussitôt sur l’étrier, sans laisser aux siens le temps de reconnaître les montées et les descentes, et arriva sur le champ de bataille, semblable à un ouragan qui sort des profondeurs des montagnes.
+Bijen fils de Guiv partit comme le vent, et répéta ces paroles à Rustem, qui appuya aussitôt sur l’étrier, sans laisser aux siens le temps de reconnaître les montées et les descentes, et arriva sur le champ de bataille, semblable à un ouragan qui sort des profondeurs des montagnes.
 
 Il dit à Kafour:
 
@@ -87,7 +87,7 @@ Mais les habitants lui résistèrent, les faibles aussi bien que les forts;
 
 Ils fermèrent la porte, et continuèrent le combat en décochant des flèches du haut des remparts et en criant:
 
-> Ô homme fort et prudent, ô éléphant revêtu d’une peau de léopard!
+> Ô homme fort et prudent, ô éléphant revêtu d’une peau de léopard!
 >
 > Quel nom ton père t’a-t-il donné à ta naissance?
 >
@@ -95,7 +95,7 @@ Ils fermèrent la porte, et continuèrent le combat en décochant des flèches d
 >
 > C’est perdre ta peine que d’attaquer cette ville, que les sages appellent la ville des combats.
 >
-> Lorsque Tour fils de Feridoun quitta l’lran, il appela de tous côtés des hommes habiles et bâtit ce mur de pierre, de bois, de mortier et de roseaux;
+> Lorsque Tour fils de Feridoun quitta l’lran, il appela de tous côtés des hommes habiles et bâtit ce mur de pierre, de bois, de mortier et de roseaux;
 >
 > Il le bâtit à l’aide de la magie et à force de travail, en s’inondant de sueur et en vidant son trésor.
 >
@@ -109,11 +109,11 @@ A ces paroles la tête de Rustem se troubla, et l’âme des braves fut assombr
 
 C’était un combat qui ne leur souriait pas.
 
-Néanmoins il fit avancer son armée vers les quatre faces de la ville: d’un côté les troupes du Zaboulistan, armées de cottes de mailles et d’épées de Kaboul; d’un autre côté Gouderz; d’un troisième Thous, appuyé par Guiv, qui amenait les éléphants et les timbales.
+Néanmoins il fit avancer son armée vers les quatre faces de la ville: d’un côté les troupes du Zaboulistan, armées de cottes de mailles et d’épées de Kaboul; d’un autre côté Gouderz; d’un troisième Thous, appuyé par Guiv, qui amenait les éléphants et les timbales.
 
 Lui-même, le héros plein d’expérience, saisit son arc et jeta dans la stupeur les défenseurs du château;
 
-Car aussitôt qu’une tête apparaissait au-dessus du rempart, il la frappait avec une flèche dont la pointe contait des secrets à leur cerveau, mais ces deux compagnons s’accordaient mal ensemble.
+Car aussitôt qu’une tête apparaissait au-dessus du rempart, il la frappait avec une flèche dont la pointe contait des secrets à leur cerveau, mais ces deux compagnons s’accordaient mal ensemble.
 
 Ensuite il commença à miner les remparts par le pied, pour en précipiter en bas les défenseurs;
 
@@ -123,7 +123,7 @@ Quand la moitié des murs fut minée, on mit le feu aux étais;
 
 Le château que Thour avait bâti s’écroula.
 
-Rustem rapprocha ses troupes de tous côtés et leur ordonna de faire une attaque, en se servant de leurs arcs et de leurs flèches de bois de peuplier.
+Rustem rapprocha ses troupes de tous côtés et leur ordonna de faire une attaque, en se servant de leurs arcs et de leurs flèches de bois de peuplier.
 
 Les assiégés exposèrent tous leurs têtes à la mort pour sauver leurs trésors, leurs enfants, leur pays et leurs alliés;
 
@@ -165,11 +165,11 @@ Tehemten répondit:
 
 Il ordonna à Guiv de prendre deux mille cavaliers armés de boucliers et montés sur des chevaux bardés de fer, et de courir à la frontière de Khoten avant que les Turcs eussent le temps de se rassembler.
 
-Guiv partit avec ces vaillants cavaliers aussitôt que la nuit eut montré ses boucles noires, et que les soucis eurent courbé le dos de la lune.
+Guiv partit avec ces vaillants cavaliers aussitôt que la nuit eut montré ses boucles noires, et que les soucis eurent courbé le dos de la lune.
 
 Il resta absent pendant trois jours;
 
-Et le quatrième, au moment où le soleil montra sa couronne et s’assit sur son trône d’ivoire, l’orgueilleux Guiv revint du Touran avec un grand nombre de prisonniers vaillants et illustres, d’idoles de Tharaz au beau visage, de chevaux de noble race, et avec des richesses de toute espèce.
+Et le quatrième, au moment où le soleil montra sa couronne et s’assit sur son trône d’ivoire, l’orgueilleux Guiv revint du Touran avec un grand nombre de prisonniers vaillants et illustres, d’idoles de Tharaz au beau visage, de chevaux de noble race, et avec des richesses de toute espèce.
 
 Rustem envoya une partie du butin au roi et distribua le reste à l’armée;
 
@@ -197,9 +197,9 @@ Gouderz lui dit:
 >
 > Puisse ton nom durer à jamais!
 >
-> Puisse le monde prospérer sous l’ombre de ton trône!
+> Puisse le monde prospérer sous l’ombre de ton trône!
 >
-> L’homme qui a mesuré de ses pas toute la surface de la terre, qui a vu le monde et la guerre et la paix et la vengeance, n’a jamais vu ni entendu décrire par de vieux Mobeds une aussi grande armée réunie sur un seul point, tant de rois et d’éléphants, de trônes d’ivoire et d’hommes, de chevaux et de couronnes de toutes formes;
+> L’homme qui a mesuré de ses pas toute la surface de la terre, qui a vu le monde et la guerre et la paix et la vengeance, n’a jamais vu ni entendu décrire par de vieux Mobeds une aussi grande armée réunie sur un seul point, tant de rois et d’éléphants, de trônes d’ivoire et d’hommes, de chevaux et de couronnes de toutes formes;
 >
 > Et pourtant lorsque les étoiles ont regardé la plaine, cette armée se trouvait réduite par la perte de la bataille à la dernière extrémité.
 >
@@ -221,7 +221,7 @@ Gouderz lui dit:
 
 Rustem fut réjoui de ces paroles, son esprit fut délivré de ses soucis, et il répondit:
 
-> Ô princes qui portez haut la tête, vous dont l’esprit est vigilant, vous qui gouvernez les provinces, c’est vous, ô hommes nobles, qui faites ma force, et mon cœur dans sa joie le témoigne par ma bouche.
+> Ô princes qui portez haut la tête, vous dont l’esprit est vigilant, vous qui gouvernez les provinces, c’est vous, ô hommes nobles, qui faites ma force, et mon cœur dans sa joie le témoigne par ma bouche.
 
 Il ajouta:
 

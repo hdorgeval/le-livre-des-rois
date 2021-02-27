@@ -55,7 +55,7 @@ Ensuite il s’adressa à l’écrivain plein d’expérience et lui dit:
 >
 > Mais je ne prendrai pour moi que la moitié du riche empire et des trésors de Khosrou;
 >
-> Et l’autre moitié formera ton trône, ton diadème et ton trésor, puisque c’est toi qui vas essuyer aujourd’hui les fatigues du combat.
+> Et l’autre moitié formera ton trône, ton diadème et ton trésor, puisque c’est toi qui vas essuyer aujourd’hui les fatigues du combat.
 
 Le roi apposa son sceau sur la lettre; et au moment où la lune montrait sa face dans le signe du Cancer, Schideh se ceignit les reins devant son père, dont il était le messager, et qui l’avait chargé de porter à Pouladwend l’expression de ses inquiétudes.
 
@@ -137,7 +137,7 @@ Il fit apporter du vin brillant, des harpes et des rebecs;
 
 Et Pouladwend, lorsqu’il fut ivre, s’écria en poussant des cris furieux:
 
-> J’ai ôté à Feridoun, à Zohak et à Djemschid l’envie de manger, de dormir et de se reposer!
+> J’ai ôté à Feridoun, à Zohak et à Djemschid l’envie de manger, de dormir et de se reposer!
 >
 > Le Brahmane a tremblé à ma voix et devant mes fiers guerriers;
 >

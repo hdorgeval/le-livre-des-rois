@@ -101,13 +101,13 @@ Le messager s’approcha du héros au corps d’éléphant, la bouche pleine de 
 
 Rustem répondit:
 
-> Il faut m’amener les éléphants et m’apporter la couronne et le trône d’ivoire.
+> Il faut m’amener les éléphants et m’apporter la couronne et le trône d’ivoire.
 >
 > Vous êtes venus dans l’Iran pour le dévaster, pourquoi maintenant vous lamenter et vous plaindre de moi?
 >
 > Puisque le Khakan reconnaît que son armée est dans ma main, et que la mienne agira aussi rapidement que le permettra ma modération, je lui donne la vie;
 >
-> Mais son collier et sa couronne sont à moi, de même que son éléphant avec le trône d’ivoire
+> Mais son collier et sa couronne sont à moi, de même que son éléphant avec le trône d’ivoire
 
 Le messager répondit:
 
@@ -141,17 +141,17 @@ La courroie partit de la main de Rustem, et la tête du prince se trouva prise d
 
 Rustem le tira de dessus son éléphant et le jeta par terre;
 
-On lui lia les bras; Rustem le mena jusqu’au fleuve Schahd, à pied, privé de son éléphant, de sa couronne, de son trône et de ses coussins, et le livra aux gardes du Sipehbed Thous, qui fit retentir le ciel du bruit des timbales.
+On lui lia les bras; Rustem le mena jusqu’au fleuve Schahd, à pied, privé de son éléphant, de sa couronne, de son trône et de ses coussins, et le livra aux gardes du Sipehbed Thous, qui fit retentir le ciel du bruit des timbales.
 
-> Tel est ce monde trompeur: tantôt il t’élève, tantôt il te déprime. [^1]
+> Tel est ce monde trompeur: tantôt il t’élève, tantôt il te déprime. [^1]
 >
-> Tel a été, depuis qu’il existe, le ciel qui tourne: tantôt il te donne du miel et te comble de caresses, tantôt il t’abreuve de poison et de haine.
+> Tel a été, depuis qu’il existe, le ciel qui tourne: tantôt il te donne du miel et te comble de caresses, tantôt il t’abreuve de poison et de haine.
 >
 > Il élève l’un jusqu’au sublime firmament, il abaisse l’autre et l’accable de maux et de douleurs;
 >
-> Il arrache l’un du trône des rois, il tire l’autre de la poussière noire.
+> Il arrache l’un du trône des rois, il tire l’autre de la poussière noire.
 >
-> Ce n’est ni par faveur ni par vengeance que tu agis ainsi, ô Créateur, mais par une profonde sagesse.
+> Ce n’est ni par faveur ni par vengeance que tu agis ainsi, ô Créateur, mais par une profonde sagesse.
 >
 > C’est de toi que vient ce qui est grand et ce qui est petit dans le monde.
 >

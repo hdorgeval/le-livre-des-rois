@@ -36,7 +36,7 @@ Rehham et Bijen considèrent de loin la force, la stature et l’adresse de Poul
 
 Le prudent Poulad se hâta de lancer son cheval et de courir sur eux;
 
-Et bientôt il eut renversé par terre et foulé comme une chose vile, devant les yeux de tant de cavaliers qui couvraient la plaine, ces deux héros tant de fois victorieux, ces deux grands et nobles personnages qui portaient si haut la tête.
+Et bientôt il eut renversé par terre et foulé comme une chose vile, devant les yeux de tant de cavaliers qui couvraient la plaine, ces deux héros tant de fois victorieux, ces deux grands et nobles personnages qui portaient si haut la tête.
 
 Il se précipita sur l’étendard de Kaweh et le coupa en deux avec son épée;
 
@@ -69,4 +69,4 @@ Le vieux Gouderz crut que Rehham, Bijen et le vaillant Guiv étaient morts, que 
 >
 > Que ma fortune naguère si riante est devenue triste!
 
-Il défit sa ceinture, ôta son casque et se mit à pousser des cris et des lamentations.
+Il défit sa ceinture, ôta son casque et se mit à pousser des cris et des lamentations.

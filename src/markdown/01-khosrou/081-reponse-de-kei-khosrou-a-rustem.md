@@ -9,7 +9,7 @@ order: '081'
 
 # Réponse de Keï Khosrou à Rustem
 
-Pendant ces événements la voûte sublime du ciel ne cessait de tourner, et bientôt on vint dire au roi de l’Iran que Feribourz fils de Kaous s’approchait.
+Pendant ces événements la voûte sublime du ciel ne cessait de tourner, et bientôt on vint dire au roi de l’Iran que Feribourz fils de Kaous s’approchait.
 
 Keï Khosrou alla à sa rencontre avec un grand cortège composé de grands et de gouverneurs de provinces;
 
@@ -17,7 +17,7 @@ Et Feribourz, lorsqu’il fut proche et qu’il vit de loin Khosrou, baisa la te
 
 Le glorieux Khosrou le combla de louanges, et regarda les prisonniers, les chameaux, les éléphants et les blessés;
 
-Ensuite il tourna la bride de son cheval, s’éloigna de la route, ôta de sa tête son diadème royal, descendit de cheval et se prosterna dans la poussière devant Dieu, en disant:
+Ensuite il tourna la bride de son cheval, s’éloigna de la route, ôta de sa tête son diadème royal, descendit de cheval et se prosterna dans la poussière devant Dieu, en disant:
 
 > Ô saint Maître du monde, un homme injuste m’avait opprimé;
 >
@@ -45,7 +45,7 @@ Il commença par les louanges du Créateur,
 >
 > Sache que les soucis et les joies viennent de lui, et que tous les biens qui nous réjouissent sont son œuvre.
 >
-> Tout ce que tu m’annonces, les prisonniers, les éléphants, les trônes et les diadèmes, les brocarts de la Chine, le trône d’ivoire, les chevaux arabes, les colliers et les couronnes, les chameaux innombrables chargés d’étoffes, d’habillements et de tapis, tout cela est arrivé dans mon palais, et tout sert à mes plaisirs, à mes fêtes et à mes banquets.
+> Tout ce que tu m’annonces, les prisonniers, les éléphants, les trônes et les diadèmes, les brocarts de la Chine, le trône d’ivoire, les chevaux arabes, les colliers et les couronnes, les chameaux innombrables chargés d’étoffes, d’habillements et de tapis, tout cela est arrivé dans mon palais, et tout sert à mes plaisirs, à mes fêtes et à mes banquets.
 >
 > Mais qui voudra se présenter devant toi dans la bataille, à moins d’avoir d’avance perdu la tête et d’être las de la vie?
 >

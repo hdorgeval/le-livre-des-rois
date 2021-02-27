@@ -67,7 +67,7 @@ Les grands lui répondirent en se levant tous ensemble et s’écriant:
 >
 > Pourquoi craindre Rustem?
 >
-> Pourquoi prôner ainsi le nom de ton ennemi?
+> Pourquoi prôner ainsi le nom de ton ennemi?
 >
 > Nos mères nous ont tous mis au monde pour mourir;
 >

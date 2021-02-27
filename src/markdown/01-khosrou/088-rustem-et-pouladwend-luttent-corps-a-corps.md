@@ -25,7 +25,7 @@ Afrasiab lui répondit:
 
 > Mon cerveau est tout troublé de cette alfaire.
 >
-> Va, et regarde comment Pouladwend étreint son ennemi dans la lutte, donne-lui des conseils en langue turque, montre-lui comment il pourra soulever le héros au corps d’éléphant, et dis-lui de terminer cette querelle avec le poignard aussitôt qu’il l’aura renversé sous lui.
+> Va, et regarde comment Pouladwend étreint son ennemi dans la lutte, donne-lui des conseils en langue turque, montre-lui comment il pourra soulever le héros au corps d’éléphant, et dis-lui de terminer cette querelle avec le poignard aussitôt qu’il l’aura renversé sous lui.
 
 Schideh lui dit:
 
@@ -37,7 +37,7 @@ Schideh lui dit:
 
 Le roi se mit à injurier son fils, et alla dans sa colère jusqu’à le soupçonner; à la fin il lui dit:
 
-> Si le Div Pouladwend succombe sous son ennemi, aucun des nôtres ne restera en vie, grâce à toi qui n’est brave qu’avec la langue.
+> Si le Div Pouladwend succombe sous son ennemi, aucun des nôtres ne restera en vie, grâce à toi qui n’est brave qu’avec la langue.
 
 A ces paroles le vaillant Schideh secoua la bride de son cheval et s’élança vers le lieu du combat rapidement et comme un lion.
 

@@ -13,7 +13,7 @@ Rustem dit aux Iraniens:
 
 > Nous n’avons fait dans ce combat aucune perte.
 >
-> Maintenant les Iraniens seuls posséderont ces éléphants, ces trésors, ce trône et cette couronne brillante, et je n’ai besoin pour cela que des pieds de Raksch et de la grâce de Dieu.
+> Maintenant les Iraniens seuls posséderont ces éléphants, ces trésors, ce trône et cette couronne brillante, et je n’ai besoin pour cela que des pieds de Raksch et de la grâce de Dieu.
 >
 > Je ne laisserai plus fouler du pied la terre à aucun homme du pays de Seklab , de Schikin et de la Chine;
 >
@@ -37,7 +37,7 @@ Rustem dit aux Iraniens:
 
 Ensuite il partit, semblable à un éléphant en rut, tenant en main une massue à tête de bœuf;
 
-Il s’approcha de l’aile gauche des Touraniens en poussant des cris, et aborda leur armée du côté où commandait Kender;
+Il s’approcha de l’aile gauche des Touraniens en poussant des cris, et aborda leur armée du côté où commandait Kender;
 
 Il rompit entièrement l’aile gauche, et bien des têtes couvertes d’un casque ne revirent plus les corps auxquels elles avaient appartenu.
 
