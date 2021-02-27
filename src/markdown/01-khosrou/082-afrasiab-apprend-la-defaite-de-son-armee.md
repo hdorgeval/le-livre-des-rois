@@ -15,11 +15,11 @@ Il apprit le malheur qui frappait le Touran par la défaite de Kamous, de Mansch
 
 Il apprit qu’il était venu de l’Iran un crocodile qui effrayait le ciel dans sa rotation;
 
-> Que le combat avait duré quarante jours, que pendant ce temps on n’avait pas pu distinguer les jours et les nuits, et que la poussière avait fait disparaître le soleil;
+> Que le combat avait duré quarante jours, que pendant ce temps on n’avait pas pu distinguer les jours et les nuits, et que la poussière avait fait disparaître le soleil;
 >
 > Qu’à la fin la fortune qui veillait sur lui s’était endormie, et qu’il ne restait pas de cette glorieuse armée un seul cavalier en état de combattre;
 >
-> Qu’on avait attaché avec de lourdes chaînes les grands et quelques-uns des rois illustres;
+> Qu’on avait attaché avec de lourdes chaînes les grands et quelques-uns des rois illustres;
 >
 > Qu’on les avait jetés ignominieusement sur le dos des éléphants au milieu d’une armée qui couvrait l’espace de plusieurs milles;
 >
@@ -37,7 +37,7 @@ Il apprit qu’il était venu de l’Iran un crocodile qui effrayait le ciel dan
 >
 > Que les grands et les éléphants avaient péri;
 >
-> Qu’une armée iranienne s’approchait ayant à sa tête Tehemten avide de vengeance, et qu’elle ferait disparaître les plaines et les montagnes, si elle arrivait pour livrer bataille.
+> Qu’une armée iranienne s’approchait ayant à sa tête Tehemten avide de vengeance, et qu’elle ferait disparaître les plaines et les montagnes, si elle arrivait pour livrer bataille.
 
 Lorsque Afrasiab entendit ces paroles, son cœur se remplit de soucis et sa tête d’anxiété.
 

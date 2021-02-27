@@ -19,7 +19,7 @@ Le glorieux Khosrou le combla de louanges, et regarda les prisonniers, les chame
 
 Ensuite il tourna la bride de son cheval, s’éloigna de la route, ôta de sa tête son diadème royal, descendit de cheval et se prosterna dans la poussière devant Dieu, en disant:
 
-> Ô saint Maître du monde, un homme injuste m’avait opprimé;
+> Ô saint Maître du monde, un homme injuste m’avait opprimé;
 >
 > Il m’avait privé de mon père, et accablé de douleur et d’angoisses;
 >
@@ -35,9 +35,9 @@ Ensuite il s’en retourna dans son palais, écrivit une réponse à la lettre 
 
 Il commença par les louanges du Créateur,
 
-> de qui vient la bonne et la mauvaise fortune, qui est le maître de Saturne et du ciel qui tourne;
+> de qui vient la bonne et la mauvaise fortune, qui est le maître de Saturne et du ciel qui tourne;
 >
-> qui fait naître les guerres, et les alliances et l’amitié.
+> qui fait naître les guerres, et les alliances et l’amitié.
 >
 > C’est lui qui a construit la voûte du ciel, qui a fait du jour et de la nuit les ornements du monde;
 >
@@ -55,7 +55,7 @@ Il commença par les louanges du Créateur,
 >
 > Celui qui a un Pehlewan comme Rustem devrait toujours rester jeune;
 >
-> Car le ciel n’a jamais vu naître un serviteur comme toi.
+> Car le ciel n’a jamais vu naître un serviteur comme toi.
 >
 > Puisse la fortune ne jamais te priver de sa faveur!
 

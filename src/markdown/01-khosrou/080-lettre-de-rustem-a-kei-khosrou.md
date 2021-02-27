@@ -31,13 +31,13 @@ On écrivit, comme il l’avait ordonné, avec de l’ambre sur de la soie, une 
 >
 > On aurait dit que le monde était devenu trop étroit pour eux.
 >
-> C’étaient tous des chefs de grands empires, maîtres des couronnes, des trônes et des diadèmes;
+> C’étaient tous des chefs de grands empires, maîtres des couronnes, des trônes et des diadèmes;
 >
 > Et à présent on ne peut plus passer entre les deux montagnes à travers les plaines et les ravins, tant il y a de sang et de morts, et sur un espace de quarante farsangs le sol est coloré par le sang comme la rose.
 >
 > Enfin, si je voulais tout dire sur ce long combat, ma lettre s’étendrait à l’infini.
 >
-> Tous ces rois enchaînés, je les ai arrachés de dessus leurs éléphants avec mon lacet, et je te les envoie avec des trésors et des joyaux sans nombre.
+> Tous ces rois enchaînés, je les ai arrachés de dessus leurs éléphants avec mon lacet, et je te les envoie avec des trésors et des joyaux sans nombre.
 >
 > Maintenant je vais me porter sur Gangue, dans l’espoir que Guerouï Zereh se présentera devant ma massue.
 >

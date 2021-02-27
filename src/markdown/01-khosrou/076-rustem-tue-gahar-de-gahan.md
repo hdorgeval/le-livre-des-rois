@@ -59,7 +59,7 @@ Rustem dit:
 
 > Donnez-moi cent illustres cavaliers iraniens;
 >
-> Car je vais maintenant prendre au Khakan son éléphant, son trône d’ivoire, ses bracelets, sa massue, sa chaîne et sa couronne, et en faire présent à l’Iran, au roi victorieux des braves.
+> Car je vais maintenant prendre au Khakan son éléphant, son trône d’ivoire, ses bracelets, sa massue, sa chaîne et sa couronne, et en faire présent à l’Iran, au roi victorieux des braves.
 
 Mille vaillants cavaliers sortirent des rangs des Iraniens, couverts de cottes de mailles et armés de massues à tête de bœuf.
 
@@ -95,7 +95,7 @@ Il s’écria:
 
 > Cet éléphant, ce trône d’ivoire, ces bracelets, ce diadème, ce collier et cette couronne sont dignes d’être offerts dans l’Iran à Keï Khosrou le jeune roi du monde.
 >
-> Qu’avez-vous affaire des couronnes et de cette pompe, vous qui malgré votre puissance, vos efforts et votre bravoure, finissez par livrer vos mains à nos chaînes et vos corps aux nœuds de nos lacets?
+> Qu’avez-vous affaire des couronnes et de cette pompe, vous qui malgré votre puissance, vos efforts et votre bravoure, finissez par livrer vos mains à nos chaînes et vos corps aux nœuds de nos lacets?
 >
 > Je vous enverrai auprès du roi de la terre;
 >

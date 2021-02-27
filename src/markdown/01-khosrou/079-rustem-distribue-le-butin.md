@@ -11,7 +11,7 @@ order: '079'
 
 Rustem dit aux Iraniens:
 
-> Il faut maintenant déposer vos armes, car il ne sied pas de paraître devant Dieu qui donne la victoire, avec des massues, des flèches et des boucliers.
+> Il faut maintenant déposer vos armes, car il ne sied pas de paraître devant Dieu qui donne la victoire, avec des massues, des flèches et des boucliers.
 >
 > Inclinez tous vos fronts jusqu’à la terre noire, ensuite mettez des couronnes sur vos têtes, car il ne nous manque aucun des grands sur lesquels nous avions de l’inquiétude.
 >
@@ -47,7 +47,7 @@ Rustem dit aux Iraniens:
 >
 > Mais il vaut mieux les compter la coupe en main, et oublier cette voûte du ciel qui n’est l’amie de personne.
 >
-> Buvons donc du vin jusqu’à minuit, célébrons la mémoire des braves, rendons grâces au Maître du monde, au Maître de la victoire, de qui viennent la bravoure, le bonheur et les hauts faits;
+> Buvons donc du vin jusqu’à minuit, célébrons la mémoire des braves, rendons grâces au Maître du monde, au Maître de la victoire, de qui viennent la bravoure, le bonheur et les hauts faits;
 >
 > Et n’attachons pas, au milieu des soucis et des peines, notre cœur à ce séjour passager.
 
@@ -81,7 +81,7 @@ Rustem dit à ces hommes qui portaient haut la tête:
 >
 > Il faut vous rendre sur le champ de bataille, et envoyer des troupes de tous côtés.
 
-Bijen le guerrier ardent partit à l’instant pour le champ de bataille, il vit la terre jonchée de morts et de bagages, il vit de toutes parts des tentes dressées, il vit la plaine entière couverte de blessés gisant dans la poussière et chargés de chaînes, mais il ne trouva pas un homme vivant parmi ces tentes et ces pavillons qui couvraient le sol.
+Bijen le guerrier ardent partit à l’instant pour le champ de bataille, il vit la terre jonchée de morts et de bagages, il vit de toutes parts des tentes dressées, il vit la plaine entière couverte de blessés gisant dans la poussière et chargés de chaînes, mais il ne trouva pas un homme vivant parmi ces tentes et ces pavillons qui couvraient le sol.
 
 Lorsqu’on dit à Rustem que les Turcs avaient disparu du pays, il s’emporta, comme un lion furieux, contre la lâcheté et le sommeil des Iraniens.
 
@@ -117,7 +117,7 @@ Il se tourna ensuite vers Thous, furieux et semblable à un léopard, et lui di
 >
 > Cherche l’or, les pierreries, les trônes d’ivoire, les pièces de brocart, les diadèmes, les trésors et les couronnes que les Iraniens auront pris, et réunis tout ce butin précieux;
 >
-> Car sur cette plaine ont campé beaucoup de rois et les grands du monde entier, venus de la Chine, du Seklab, de l’Inde et du Wahr, tous riches et maîtres de provinces.
+> Car sur cette plaine ont campé beaucoup de rois et les grands du monde entier, venus de la Chine, du Seklab, de l’Inde et du Wahr, tous riches et maîtres de provinces.
 >
 > Il faut choisir dans tout cela d’abord des présents pour le roi, ensuite ma part et enfin la tienne.
 
@@ -145,7 +145,7 @@ Il invoqua à plusieurs reprises la grâce de Dieu, et dit:
 >
 > Ils se glorifiaient de leurs richesses et de cette multitude d’hommes, et pendant longtemps ils ne se sont pas souvenus de Dieu qui a créé le ciel, la terre et le temps, qui a créé ce que nous voyons et ce que nous ne voyons pas.
 >
-> Cherche à connaître Dieu, adore-le;
+> Cherche à connaître Dieu, adore-le;
 >
 > C’est en lui que le sage met sa confiance;
 >

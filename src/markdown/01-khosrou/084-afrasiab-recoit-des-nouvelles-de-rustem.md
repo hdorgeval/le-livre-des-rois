@@ -77,7 +77,7 @@ Afrasiab renvoya de la salle tous les étrangers, et dit à Farghar:
 >
 > Compte les éléphants de guerre et les hommes au cœur de lion, et calcule les bonnes et les mauvaises chances des Iraniens dans cette guerre.
 
-Lorsque Farghar fut parti et se fut mis en route pour aller reconnaître le camp des Iraniens, le roi ambitieux devint inquiet;
+Lorsque Farghar fut parti et se fut mis en route pour aller reconnaître le camp des Iraniens, le roi ambitieux devint inquiet;
 
 Il n’admit aucun étranger en sa présence, et envoya chercher son fils Schideh, à qui il tint en secret un discours approprié aux circonstances:
 

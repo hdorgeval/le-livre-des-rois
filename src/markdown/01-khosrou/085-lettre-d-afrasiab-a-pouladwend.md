@@ -25,13 +25,13 @@ Ensuite il s’adressa à l’écrivain plein d’expérience et lui dit:
 >
 > Ecris donc à Pouladwend une lettre et ouvre-lui ton cœur.
 >
-> Commence par les louanges de Dieu le saint, le juste, qui donne la force et qui en prive; de Dieu, maître de Saturne et du ciel qui tourne, maître de Vénus et du soleil brillant.
+> Commence par les louanges de Dieu le saint, le juste, qui donne la force et qui en prive; de Dieu, maître de Saturne et du ciel qui tourne, maître de Vénus et du soleil brillant.
 >
 > Ensuite rends hommage au vaillant et fortuné Sipehdar Pouladwend;
 >
 > Raconte-lui le danger dont me menacent l’illustre Rustem aux croyances ténébreuses, et les grands pleins de courage, comme Thous, Gouderz et les autres héros iraniens;
 >
-> Raconte-lui l’histoire de mon petit-fils Khosrou le maître de la victoire, le roi du peuple de l’Iran, que j’ai élevé avec tant de soin qu’un souffle d’air même n’a pu l’atteindre.
+> Raconte-lui l’histoire de mon petit-fils Khosrou le maître de la victoire, le roi du peuple de l’Iran, que j’ai élevé avec tant de soin qu’un souffle d’air même n’a pu l’atteindre.
 >
 > Si le ciel sublime m’accorde sa grâce, Pouladwend arrivera dans ce pays, où une grande armée de Turcs, de Seklabs et de Chinois a été vaincue et a dû plier, où tant de provinces ont été dévastées par les braves de l’Iran.
 >
@@ -71,7 +71,7 @@ Schideh le salua, lui remit la lettre et lui rendit compte des entreprises de Ru
 >
 > Il a détruit notre beau pays; puisse la bénédiction du ciel ne descendre jamais sur lui!
 >
-> Il a chargé de chaînes Kamous, le Khakan, Manschour et Ferthous;
+> Il a chargé de chaînes Kamous, le Khakan, Manschour et Ferthous;
 >
 > Il porte son lacet roulé autour du bras; son corps est revêtu d’une peau de lion; il n’est jamais las de combattre, et il emportera dans l’Iran jusqu’au sol du Touran.
 >
@@ -79,7 +79,7 @@ Schideh le salua, lui remit la lettre et lui rendit compte des entreprises de Ru
 >
 > Il a détruit toute notre prospérité, et par lui s’évanouira toute la splendeur du Touran.
 
-Pouladwend manda les gouverneurs de ses provinces et ses Mobeds, leur parla longuement et leur fit connaître le contenu de la lettre.
+Pouladwend manda les gouverneurs de ses provinces et ses Mobeds, leur parla longuement et leur fit connaître le contenu de la lettre.
 
 C’était un homme ambitieux, jeune et téméraire;
 

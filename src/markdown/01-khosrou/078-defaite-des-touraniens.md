@@ -41,4 +41,4 @@ Leurs destriers étaient excédés de fatigue, eux-mêmes étaient blessés et l
 
 Ils ne se reconnaissaient pas les uns les autres avant de s’être lavés entièrement; leurs poitrines et leurs épées, leurs pieds et leurs étriers étaient trempés de sang; on ne distinguait pas les montées des descentes, tant il y avait de morts.
 
-Ils se lavèrent la tête et le corps, délivrés désormais de tout souci, car leur ennemi était chargé de lourdes chaînes.
+Ils se lavèrent la tête et le corps, délivrés désormais de tout souci, car leur ennemi était chargé de lourdes chaînes.

@@ -21,7 +21,7 @@ Il dit à Houman:
 >
 > Puisqu’il y a tant et de si braves cavaliers, tous fiers comme des lions, ne te mets pas aujourd’hui dans les rangs, ne combats ni aujourd’hui ni demain.
 >
-> Va te poster avec deux cents cavaliers derrière le Khakan, qui te connaît;
+> Va te poster avec deux cents cavaliers derrière le Khakan, qui te connaît;
 >
 > Car si cet homme du Zaboulistan t’aperçoit avec tes troupes et ton étendard, il t’anéantira.
 >
@@ -55,7 +55,7 @@ Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l�
 > >
 > > Ne te hâte pas de parler.
 > >
-> > Ceux que Rustem demande sont tous des princes, des grands, maîtres des couronnes et des diadèmes.
+> > Ceux que Rustem demande sont tous des princes, des grands, maîtres des couronnes et des diadèmes.
 > >
 > > Comment les livrerions-nous, et qui pourrait le faire?
 > >
@@ -69,7 +69,7 @@ Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l�
 >
 > Et une armée touranienne, nombreuse comme les flots de la mer, est impatiente de commencer la lutte.
 >
-> Aucun d’eux ne te connaît, ils ne t’appellent que l’homme du Seistan;
+> Aucun d’eux ne te connaît, ils ne t’appellent que l’homme du Seistan;
 >
 > Mais moi je sais qu’à la fin le héros au corps d’éléphant fera pleurer cette multitude.
 
@@ -137,7 +137,7 @@ Rustem dit aux Iraniens:
 >
 > Car quoi que nous fassions, il finira par nous trahir.
 >
-> Si notre âme est amie de la sagesse, elle ne comptera ni les jours heureux ni les jours malheureux, et le maître lui-même de la couronne et des trésors ne liera pas son cœur à cette vie fugitive.
+> Si notre âme est amie de la sagesse, elle ne comptera ni les jours heureux ni les jours malheureux, et le maître lui-même de la couronne et des trésors ne liera pas son cœur à cette vie fugitive.
 
 L’armée répondit à Rustem:
 

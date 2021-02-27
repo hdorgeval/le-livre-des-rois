@@ -39,7 +39,7 @@ Telle était la nourriture de ce roi.
 
 Tehemten ordonna à trois mille cavaliers armés de cottes de mailles et montés sur des chevaux bardés de fer, de s’avancer contre ce château sous le commandement de Gustehem, qu’accompagnaient deux héros pleins de prudence et toujours prêts à se jeter dans la mêlée, Bijen fils de Guiv et Hedjir.
 
-Dans le château se trouvait un homme vaillant qui était le roi et le maître du pays; son nom était Kafour; il possédait la ville par investiture du roi du Touran.
+Dans le château se trouvait un homme vaillant qui était le roi et le maître du pays; son nom était Kafour; il possédait la ville par investiture du roi du Touran.
 
 Lorsqu’il apprit qu’il arrivait une armée d’Iraniens sous un chef illustre et avide de combats, il se revêtit de son armure de guerre et sortit suivi de tous ses sujets, semblables à des léopards, accoutumés à jeter le lacet, forts et insensibles aux coups comme des pierres ou des enclumes.
 
@@ -65,7 +65,7 @@ Gustehem dit brusquement à Bijen:
 
 > Secoue un peu les rênes, et va dire à Rustem de ne pas rester en repos, mais d’accourir avec deux cents cavaliers.
 
-Bijen fils de Guiv partit comme le vent, et répéta ces paroles à Rustem, qui appuya aussitôt sur l’étrier, sans laisser aux siens le temps de reconnaître les montées et les descentes, et arriva sur le champ de bataille, semblable à un ouragan qui sort des profondeurs des montagnes.
+Bijen fils de Guiv partit comme le vent, et répéta ces paroles à Rustem, qui appuya aussitôt sur l’étrier, sans laisser aux siens le temps de reconnaître les montées et les descentes, et arriva sur le champ de bataille, semblable à un ouragan qui sort des profondeurs des montagnes.
 
 Il dit à Kafour:
 
@@ -99,7 +99,7 @@ Ils fermèrent la porte, et continuèrent le combat en décochant des flèches d
 >
 > Il le bâtit à l’aide de la magie et à force de travail, en s’inondant de sueur et en vidant son trésor.
 >
-> Maints héros se sont efforcés de prendre ce mur pour détruire le château, mais aucun n’a pu s’en rendre maître, et on l’assiégerait vainement.
+> Maints héros se sont efforcés de prendre ce mur pour détruire le château, mais aucun n’a pu s’en rendre maître, et on l’assiégerait vainement.
 >
 > Le château est bien pourvu de provisions et d’armes, et il existe un chemin souterrain pour en amener de nouveau;
 >
@@ -183,7 +183,7 @@ Gouderz lui dit:
 >
 > Puisses-tu vivre à jamais content et heureux, doué de la sagesse d’un vieillard et de la force d’un jeune homme!
 >
-> Dieu t’a fait naître d’une race pure, et jamais une mère sainte n’a mis au monde un fils comme toi.
+> Dieu t’a fait naître d’une race pure, et jamais une mère sainte n’a mis au monde un fils comme toi.
 >
 > Puissent les pères et les fils se succéder dans ta famille!
 >
@@ -193,7 +193,7 @@ Gouderz lui dit:
 >
 > On dirait que Dieu a privé en ta faveur tous les autres hommes de la gloire que donne la bravoure, pour te la donner tout entière.
 >
-> Puisse le Maître du monde être ton asile, et la terre et le siècle te favoriser!
+> Puisse le Maître du monde être ton asile, et la terre et le siècle te favoriser!
 >
 > Puisse ton nom durer à jamais!
 >
@@ -203,7 +203,7 @@ Gouderz lui dit:
 >
 > Et pourtant lorsque les étoiles ont regardé la plaine, cette armée se trouvait réduite par la perte de la bataille à la dernière extrémité.
 >
-> Ensuite nous avons longtemps tourné autour de cette forteresse, sans trouver qui vînt ànotre aide;
+> Ensuite nous avons longtemps tourné autour de cette forteresse, sans trouver qui vînt ànotre aide;
 >
 > Nous poussions des cris sous le souffle du dragon, lorsque tu es venu nous délivrer avec ton lacet.
 >

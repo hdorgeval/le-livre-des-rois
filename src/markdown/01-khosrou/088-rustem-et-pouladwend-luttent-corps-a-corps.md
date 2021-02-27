@@ -97,7 +97,7 @@ Et là ce brave perdit connaissance et s’endormit sur la terre sombre d’un 
 
 Quand Tehemten vit que Poulad vivait et que toute la plaine était couverte de troupes, son cœur se serra;
 
-Il fit avancer son armée, appela Gouderz le héros plein d’expérience, et ordonna de faire pleuvoir des flèches et de faire naître dans l’air comme un nuage printanier.
+Il fit avancer son armée, appela Gouderz le héros plein d’expérience, et ordonna de faire pleuvoir des flèches et de faire naître dans l’air comme un nuage printanier.
 
 Une des ailes de l’armée était commandée par Bijen, l’autre par Guiv, l’ambitieux Gourguin et le vaillant Rehham;
 

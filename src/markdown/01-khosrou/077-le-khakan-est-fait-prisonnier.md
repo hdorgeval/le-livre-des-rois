@@ -15,7 +15,7 @@ Le Khakan lui répondit par des injures et lui dit:
 >
 > Maudits soient l’Iran, et son roi, et son armée.
 >
-> Tu aurais besoin de ma protection, toi homme du Seïstan, le plus vil des hommes, et tu voudrais que le roi de la Chine te servît comme un simple soldat!
+> Tu aurais besoin de ma protection, toi homme du Seïstan, le plus vil des hommes, et tu voudrais que le roi de la Chine te servît comme un simple soldat!
 
 Il tombait une pluie de flèches qui ébranlait les armées comme le vent d’automne ébranle les arbres;
 
@@ -105,17 +105,17 @@ Rustem répondit:
 >
 > Vous êtes venus dans l’Iran pour le dévaster, pourquoi maintenant vous lamenter et vous plaindre de moi?
 >
-> Puisque le Khakan reconnaît que son armée est dans ma main, et que la mienne agira aussi rapidement que le permettra ma modération, je lui donne la vie;
+> Puisque le Khakan reconnaît que son armée est dans ma main, et que la mienne agira aussi rapidement que le permettra ma modération, je lui donne la vie;
 >
 > Mais son collier et sa couronne sont à moi, de même que son éléphant avec le trône d’ivoire
 
 Le messager répondit:
 
-> Ô maître de Raksch, ne dépèce pas le cerf qui court encore dans le désert.
+> Ô maître de Raksch, ne dépèce pas le cerf qui court encore dans le désert.
 >
 > Toute cette plaine est remplie d’hommes, d’éléphants et de troupes;
 >
-> Et le Khakan, le maître des trésors et de la couronne, s’y trouve.
+> Et le Khakan, le maître des trésors et de la couronne, s’y trouve.
 >
 > Qui sait comment la journée tournera, et qui sera victorieux dans cette bataille?
 

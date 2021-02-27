@@ -75,11 +75,11 @@ Tehemten avait cru que la cervelle de Pouladwend allait lui jaillir des deux ore
 
 Mais quand il le vit rester en selle, il dit en s’adressant au Créateur:
 
-> Ô toi qui es au-dessus de la fortune inconstante, maître du monde, qui vois tout et qui maintiens tout ce qui existe, si cette guerre est injuste, si je ne dois pas demeurer plus longtemps sur cette terre, je consens que ce soit par la main de Pouladwend que mon âme soit délivrée des chaînes du coma.
+> Ô toi qui es au-dessus de la fortune inconstante, maître du monde, qui vois tout et qui maintiens tout ce qui existe, si cette guerre est injuste, si je ne dois pas demeurer plus longtemps sur cette terre, je consens que ce soit par la main de Pouladwend que mon âme soit délivrée des chaînes du coma.
 >
 > Mais si Afrasiab est un homme injuste, ne me prive pas de la vie, de la force et du pouvoir d’agir;
 >
-> Car si je meurs de la main de Pouladwend, il ne restera en vie dans l’Iran ni un homme de guerre, ni un laboureur, ni un artisan, et le pays lui-même et son sol disparaîtront.
+> Car si je meurs de la main de Pouladwend, il ne restera en vie dans l’Iran ni un homme de guerre, ni un laboureur, ni un artisan, et le pays lui-même et son sol disparaîtront.
 
 Ensuite il dit à Pouladwend:
 
