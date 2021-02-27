@@ -11,7 +11,7 @@ order: '073'
 
 Schenkoul s’avança au milieu des deux armées, une épée indienne à la main;
 
-On tenait sur sa tête un parasol indien, et une foule d’hommes de Damber, de Marg et de Maï se tenant derrière lui, à sa droite et à sa gauche, le suivaient partout où il se dirigeait.
+On tenait sur sa tête un parasol indien, et une foule d’hommes de Damber, de Marg et de Maï se tenant derrière lui, à sa droite et à sa gauche, le suivaient partout où il se dirigeait.
 
 Piran le vit avec grande joie, et le poids du combat à livrer à Rustem ne pesait déjà plus sur son cœur.
 
@@ -21,7 +21,7 @@ Il dit à Houman:
 >
 > Puisqu’il y a tant et de si braves cavaliers, tous fiers comme des lions, ne te mets pas aujourd’hui dans les rangs, ne combats ni aujourd’hui ni demain.
 >
-> Va te poster avec deux cents cavaliers derrière le Khakan, qui te connaît;
+> Va te poster avec deux cents cavaliers derrière le Khakan, qui te connaît;
 >
 > Car si cet homme du Zaboulistan t’aperçoit avec tes troupes et ton étendard, il t’anéantira.
 >
@@ -29,13 +29,13 @@ Il dit à Houman:
 
 Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l’ombre de Rustem, il descendit de cheval et salua à plusieurs reprises le héros au corps d’éléphant, disant:
 
-> La sublime voûte du ciel t’emprunte sa lumière.
+> La sublime voûte du ciel t’emprunte sa lumière.
 >
 > Puisse ton jour ne jamais baisser!
 >
 > Puisses-tu ne jamais éprouver d’angoisses!
 >
-> Après t’avoir quitté, ô Pehlewan, j’ai rapporté ton message à tous les Touraniens, jeunes et vieux , je leur ai raconté tes hauts faits;
+> Après t’avoir quitté, ô Pehlewan, j’ai rapporté ton message à tous les Touraniens, jeunes et vieux , je leur ai raconté tes hauts faits;
 >
 > Mais qui dans le monde pourrait te célébrer dignement?
 >
@@ -55,7 +55,7 @@ Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 > >
 > > Ne te hâte pas de parler.
 > >
-> > Ceux que Rustem demande sont tous des princes, des grands, maîtres des couronnes et des diadèmes.
+> > Ceux que Rustem demande sont tous des princes, des grands, maîtres des couronnes et des diadèmes.
 > >
 > > Comment les livrerions-nous, et qui pourrait le faire?
 > >
@@ -63,9 +63,9 @@ Ensuite il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 > >
 > > Puisqu’il est arrivé une si grande armée de la Chine, du Seklab, de l’Inde et du Touran, pourquoi Afrasiab demanderait-il la paix, lui qui envoie ici tant de troupes de la terre ferme et d’au delà des mers?
 >
-> On a répondu à mes discours par des reproches, et je me suis hâté de revenir auprès de toi.
+> On a répondu à mes discours par des reproches, et je me suis hâté de revenir auprès de toi.
 >
-> Le roi de l’Inde veut te combattre avec les flèches et l’arc et son épée indienne;
+> Le roi de l’Inde veut te combattre avec les flèches et l’arc et son épée indienne;
 >
 > Et une armée touranienne, nombreuse comme les flots de la mer, est impatiente de commencer la lutte.
 >
@@ -109,7 +109,7 @@ Piran lui répondit:
 >
 > Je passerai cette nuit à réfléchir et à parler à l’assemblée des grands.
 
-Ensuite il s’en retourna au centre de l’armée, les lèvres pleines de mensonges, la tête remplie du désir de la vengeance.
+Ensuite il s’en retourna au centre de l’armée, les lèvres pleines de mensonges, la tête remplie du désir de la vengeance.
 
 Lorsque Piran fut parti, les mouvements des deux armées firent ressembler le monde à une montagne qui bouillonnerait.
 
@@ -141,19 +141,19 @@ Rustem dit aux Iraniens:
 
 L’armée répondit à Rustem:
 
-> Tes ordres montent plus haut que la sphère de la lune;
+> Tes ordres montent plus haut que la sphère de la lune;
 >
-> Nous combattrons avec nos épées tranchantes, de manière à laisser un nom jusqu’au jour de la résurrection.
+> Nous combattrons avec nos épées tranchantes, de manière à laisser un nom jusqu’au jour de la résurrection.
 
-Les armées s’approchèrent l’une de l’autre;
+Les armées s’approchèrent l’une de l’autre;
 
-Tu aurais dit qu’un nuage noir arrivait, d’où il pleuvait des épées et des flèches;
+Tu aurais dit qu’un nuage noir arrivait, d’où il pleuvait des épées et des flèches;
 
-Le monde ressemblait à une mer de poix, la face brillante du soleil était obscurcie par les pointes de fer et par les plumes d’aigle des flèches, et l’on aurait cru que les fers des lances qui perçaient la poussière souillaient les astres de sang;
+Le monde ressemblait à une mer de poix, la face brillante du soleil était obscurcie par les pointes de fer et par les plumes d’aigle des flèches, et l’on aurait cru que les fers des lances qui perçaient la poussière souillaient les astres de sang;
 
 Les massues à tête de bœuf retentissaient comme s’il fût tombé des pierres du ciel;
 
-La terre et la poussière étaient inondées de sang et de cervelle, et les casques volaient en éclats sur les têtes;
+La terre et la poussière étaient inondées de sang et de cervelle, et les casques volaient en éclats sur les têtes;
 
 Les épées brillaient comme des diamants au milieu d’un nuage d’où il pleuvait du sang.
 

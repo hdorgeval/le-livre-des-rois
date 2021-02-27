@@ -37,7 +37,7 @@ L’armée répondit à Afrasiab:
 >
 > On a beaucoup trop parlé de lui!
 >
-> Prépare une armée pour t’en délivrer, abaisse sa tête des nues jusqu’à la poussière;
+> Prépare une armée pour t’en délivrer, abaisse sa tête des nues jusqu’à la poussière;
 >
 > Qu’auras-tu alors à craindre du roi et de Dieu?
 >
@@ -53,7 +53,7 @@ Afrasiab, à ces paroles, oublia les anciennes guerres, et pensa avec une nouve
 >
 > Je ne permettrai pas que Khosrou se réjouisse sur son trône et se glorifie de son bonheur.
 >
-> Lorsque viendra le jour de la bataille, je jetterai dans la poussière, après un long combat, la tête de cet homme du Zaboulistan;
+> Lorsque viendra le jour de la bataille, je jetterai dans la poussière, après un long combat, la tête de cet homme du Zaboulistan;
 >
 > Je ne laisserai en vie ni mon petit-fils ni aucun de ses guerriers;
 >
@@ -61,7 +61,7 @@ Afrasiab, à ces paroles, oublia les anciennes guerres, et pensa avec une nouve
 
 Il ordonna aux grands de rassembler les troupes et de se mettre en marche pour de nouveaux combats.
 
-Les grands le bénirent, et appelèrent à la guerre les hommes qui portaient haut la tête.
+Les grands le bénirent, et appelèrent à la guerre les hommes qui portaient haut la tête.
 
 Or il y avait un homme au cœur de lion nommé Farghar, qui avait vu plus d’une cage, mais avait toujours échappé aux lacs;
 
@@ -83,9 +83,9 @@ Il n’admit aucun étranger en sa présence, et envoya chercher son fils Schide
 
 > Ô mon sage fils, quand tes troupes viendront-elles à ton aide?
 >
-> Sache que cette armée innombrable et cette masse de cavaliers qui ont passé notre frontière sont commandés par Rustem au cœur de lion, dont l’épée rougit la terre.
+> Sache que cette armée innombrable et cette masse de cavaliers qui ont passé notre frontière sont commandés par Rustem au cœur de lion, dont l’épée rougit la terre.
 >
-> Grâce a la fortune de ce vainqueur des lions, ils ont tué ou emmené en captivité Kamous, Gargoui, le Khakan, Gahar, le glorieux Manschour, Kender, Schenkoul le roi de l’lnde, et leur armée qui s’étendait depuis le Kaschmir jusqu’à la frontière du Sind.
+> Grâce a la fortune de ce vainqueur des lions, ils ont tué ou emmené en captivité Kamous, Gargoui, le Khakan, Gahar, le glorieux Manschour, Kender, Schenkoul le roi de l’lnde, et leur armée qui s’étendait depuis le Kaschmir jusqu’à la frontière du Sind.
 >
 > La lutte a duré quarante jours, qui ont été remplis tantôt par des combats, tantôt par des trêves;
 >
@@ -105,7 +105,7 @@ Il n’admit aucun étranger en sa présence, et envoya chercher son fils Schide
 >
 > Dans le combat il ne ressemble pas à un homme, les coups ne le font pas plier, et la douleur ne lui arrache pas une plainte;
 >
-> Il ne craint ni lance, ni massue, ni épée; et quand les nuages feraient pleuvoir sur lui des flèches, on dirait qu’il est de pierre ou de fer, que c’est Ahriman et non pas le fils d’un homme.
+> Il ne craint ni lance, ni massue, ni épée; et quand les nuages feraient pleuvoir sur lui des flèches, on dirait qu’il est de pierre ou de fer, que c’est Ahriman et non pas le fils d’un homme.
 >
 > Au jour du combat il se couvre de tant d’armures que leur poids fait fléchir le dos de la terre;
 >
@@ -127,7 +127,7 @@ Il n’admit aucun étranger en sa présence, et envoya chercher son fils Schide
 >
 > Si Dieu nous est favorable, si le ciel sublime tourne au gré de nos désirs, je détruirai l’Iran et son roi, et je terminerai à la fin cette guerre.
 >
-> Mais si Rustem l’emporte au jour du combat, je ne resterai pas ici, je m’en irai jusqu’à la mer de la Chine, et lui abandonnerai cette frontière du Touran.
+> Mais si Rustem l’emporte au jour du combat, je ne resterai pas ici, je m’en irai jusqu’à la mer de la Chine, et lui abandonnerai cette frontière du Touran.
 
 Schideh lui répondit:
 
@@ -143,21 +143,21 @@ Schideh lui répondit:
 >
 > Appelle-les, remonte leur courage, fais-leur conduire de nouveau tes armées contre l’ennemi.
 >
-> Tous les rois de la terre célèbrent ta gloire, tu connais le monde, tu as acquis de l’expérience;
+> Tous les rois de la terre célèbrent ta gloire, tu connais le monde, tu as acquis de l’expérience;
 >
-> Et je jure par la vie et la tête du roi du Touran, par le soleil et l’épée, le trône et le diadème, que le sort de Kamous et du Khakan a rempli mon cœur de douleur et ma tête du désir de la vengeance.
+> Et je jure par la vie et la tête du roi du Touran, par le soleil et l’épée, le trône et le diadème, que le sort de Kamous et du Khakan a rempli mon cœur de douleur et ma tête du désir de la vengeance.
 >
 > Marche vers Gangue, et ne tourne pas les yeux vers le bord de la mer;
 >
 > Appelle tes armées de la Chine et de Madjin, et prépare-toi au combat!
 
-Ayant ainsi parlé, Schideh s’en retourna à son palais, le cœur plein de haine, la tête remplie de colère.
+Ayant ainsi parlé, Schideh s’en retourna à son palais, le cœur plein de haine, la tête remplie de colère.
 
-La sombre nuit ouvrit ses yeux lugubres, les soucis courbèrent le dos de la lune, le monde devint noir comme le musc, et Farghar revint du camp des Iraniens.
+La sombre nuit ouvrit ses yeux lugubres, les soucis courbèrent le dos de la lune, le monde devint noir comme le musc, et Farghar revint du camp des Iraniens.
 
 Il se présenta de nuit devant Afrasiab, au temps du repos et du sommeil, et lui dit:
 
-> Après avoir quitté la cour du puissant roi, je me suis rendu auprès de Rustem le vainqueur des Divs.
+> Après avoir quitté la cour du puissant roi, je me suis rendu auprès de Rustem le vainqueur des Divs.
 >
 > J’ai vu une grande enceinte verte entourée de cavaliers semblables à des loups, un drapeau noir à figure de dragon qui semblait atteindre la lune, des tentes dressées au devant de l’enceinte, et les nombreux étendards des grands plantés en terre.
 >
@@ -171,7 +171,7 @@ Il se présenta de nuit devant Afrasiab, au temps du repos et du sommeil, et lui
 
 Le roi fut affligé des paroles de Farghar;
 
-Il envoya chercher le Pehlewan de l’armée, et le Sipehdar Piran, les grands et l’élite des braves accoururent rapidement comme la poussière.
+Il envoya chercher le Pehlewan de l’armée, et le Sipehdar Piran, les grands et l’élite des braves accoururent rapidement comme la poussière.
 
 Le roi leur communiqua le rapport de Farghar, et leur demanda qui pouvait lutter contre Rustem.
 
@@ -183,11 +183,11 @@ Piran lui dit:
 
 Cette réponse détermina Afrasiab à s’occuper sans retard de la guerre, et il ordonna à Piran de marcher avec l’armée à la rencontre de Rustem.
 
-Les grands quittèrent le roi et se portèrent dans la plaine pour se préparer au combat.
+Les grands quittèrent le roi et se portèrent dans la plaine pour se préparer au combat.
 
 Bientôt le désert retentit du bruit des hommes et du son des trompettes;
 
-La poussière rendait le monde noir comme l’ébène;
+La poussière rendait le monde noir comme l’ébène;
 
 L’armée devenait si nombreuse qu’on aurait dit que la terre était cachée sous les sabots des chevaux;
 

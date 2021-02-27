@@ -17,7 +17,7 @@ Le Khakan lui répondit par des injures et lui dit:
 >
 > Tu aurais besoin de ma protection, toi homme du Seïstan, le plus vil des hommes, et tu voudrais que le roi de la Chine te servît comme un simple soldat!
 
-Il tombait une pluie de flèches qui ébranlait les armées comme le vent d’automne ébranle les arbres;
+Il tombait une pluie de flèches qui ébranlait les armées comme le vent d’automne ébranle les arbres;
 
 Les plumes d’aigle remplissaient l’air;
 
@@ -25,7 +25,7 @@ Jamais on n’avait vu, même en songe, une pareille bataille.
 
 Gouderz voyant cette pluie de fer, trembla pour Rustem, et dit à Rehham:
 
-> Ne tarde pas plus longtemps, cours, avec deux cents cavaliers armés d’arcs de Djadj et de flèches de bois de peuplier, couvrir les arrières de Tehemten
+> Ne tarde pas plus longtemps, cours, avec deux cents cavaliers armés d’arcs de Djadj et de flèches de bois de peuplier, couvrir les arrières de Tehemten
 
 Ensuite il dit a Guiv:
 
@@ -37,11 +37,11 @@ Ensuite il dit a Guiv:
 >
 > Que jamais bénédiction ne descende sur cette famille!
 >
-> Que la malédiction pèse sur elle au jour de la vengeance!
+> Que la malédiction pèse sur elle au jour de la vengeance!
 >
 > Regarde Tehemten, qui en faisant tête au Khakan abaisse le ciel sur la terre.
 
-Rehham s’élança comme un léopard et se plaça dans le combat derrière Rustem, qui dit à ce lion:
+Rehham s’élança comme un léopard et se plaça dans le combat derrière Rustem, qui dit à ce lion:
 
 > Je crains que mon cheval Raksch ne soit fatigué de la bataille, et alors je serais obligé de combattre à pied, souillé de sang et de sueur.
 >
@@ -73,7 +73,7 @@ Il vit un éléphant assis sur une haute montagne, qui prenait les braves avec l
 
 Parmi les chefs de son armée il en choisit un qui savait bien la langue des Iraniens, et lui dit :
 
-> Va auprès de cet homme au cœur de lion et dis-lui:
+> Va auprès de cet homme au cœur de lion et dis-lui:
 >
 > > Ne sois pas cruel dans le combat;
 > >
@@ -111,7 +111,7 @@ Rustem répondit:
 
 Le messager répondit:
 
-> Ô maître de Raksch, ne dépèce pas le cerf qui court encore dans le désert.
+> Ô maître de Raksch, ne dépèce pas le cerf qui court encore dans le désert.
 >
 > Toute cette plaine est remplie d’hommes, d’éléphants et de troupes;
 >
@@ -143,13 +143,13 @@ Rustem le tira de dessus son éléphant et le jeta par terre;
 
 On lui lia les bras; Rustem le mena jusqu’au fleuve Schahd, à pied, privé de son éléphant, de sa couronne, de son trône et de ses coussins, et le livra aux gardes du Sipehbed Thous, qui fit retentir le ciel du bruit des timbales.
 
-> Tel est ce monde trompeur: tantôt il t’élève, tantôt il te déprime. [^1]
+> Tel est ce monde trompeur: tantôt il t’élève, tantôt il te déprime. [^1]
 >
 > Tel a été, depuis qu’il existe, le ciel qui tourne: tantôt il te donne du miel et te comble de caresses, tantôt il t’abreuve de poison et de haine.
 >
-> Il élève l’un jusqu’au sublime firmament, il abaisse l’autre et l’accable de maux et de douleurs;
+> Il élève l’un jusqu’au sublime firmament, il abaisse l’autre et l’accable de maux et de douleurs;
 >
-> Il arrache l’un du trône des rois, il tire l’autre de la poussière noire.
+> Il arrache l’un du trône des rois, il tire l’autre de la poussière noire.
 >
 > Ce n’est ni par faveur ni par vengeance que tu agis ainsi, ô Créateur, mais par une profonde sagesse.
 >
@@ -159,7 +159,7 @@ On lui lia les bras; Rustem le mena jusqu’au fleuve Schahd, à pied, privé d
 >
 > De toi vient toute joie et toute peine, et l’agrandissement des uns et la décadence des autres.
 >
-> Tu élèves l’un et en fais un roi, tu livres l’autre aux poissons de la mer.
+> Tu élèves l’un et en fais un roi, tu livres l’autre aux poissons de la mer.
 >
 > Tu as donné à l’un, donne aussi à l’autre, et n’excite pas la haine entre deux nobles cœurs.
 

@@ -19,7 +19,7 @@ Il vit que son armée avait beaucoup souffert, et que le combat était engagé s
 >
 > Les têtes des grands sont troublées;
 >
-> Je crois que le cercle de ma vie s’achève, et que la fortune qui veillait sur nous s’est endormie.
+> Je crois que le cercle de ma vie s’achève, et que la fortune qui veillait sur nous s’est endormie.
 
 Il serra son cheval des jambes et l’excita; il s’élance et se disposa à l’attaque, en s’écriant:
 
@@ -27,7 +27,7 @@ Il serra son cheval des jambes et l’excita; il s’élance et se disposa à l
 
 Au moment où la voix de Rustem frappait l’oreille des héros, il aperçut lui-même les fils de Gouderz à pied, et dit en s’adressant au Créateur:
 
-> Ô toi qui es au-dessus de tout ce qui est visible et invisible, mieux aurait valu pour moi devenir aveugle dans ce combat que de voir ce jour de la déroute, où les braves du Touran, Piran, Houman et ce vaillant Div poussent des cris de triomphe, où Guiv, Rehham, Thous et Bijen qui se rit des lions sont à pied, parce que les flèches ont abattu les chevaux de ces héros, qui combattent comme des fantassins au milieu de cette foule confuse.
+> Ô toi qui es au-dessus de tout ce qui est visible et invisible, mieux aurait valu pour moi devenir aveugle dans ce combat que de voir ce jour de la déroute, où les braves du Touran, Piran, Houman et ce vaillant Div poussent des cris de triomphe, où Guiv, Rehham, Thous et Bijen qui se rit des lions sont à pied, parce que les flèches ont abattu les chevaux de ces héros, qui combattent comme des fantassins au milieu de cette foule confuse.
 
 Il se jeta sur le Div Pouladwend, il lança sur lui son lacet roulé;
 
@@ -61,11 +61,11 @@ Pouladwend réfléchit que c’était là Rustem, le même qui avait conquis av
 
 > Ô homme éprouvé dans les combats, pourquoi restons-nous follement debout et inactifs?
 
-Ils se mirent à tourner l’un autour de l’autre, la poussière s’éleva du champ de bataille;
+Ils se mirent à tourner l’un autour de l’autre, la poussière s’éleva du champ de bataille;
 
 Ces deux braves ressemblaient à des éléphants furieux.
 
-Rustem avec sa lourde massue porta sur la tête de Pouladwend un coup que l’armée entière entendit retentir;
+Rustem avec sa lourde massue porta sur la tête de Pouladwend un coup que l’armée entière entendit retentir;
 
 Les yeux de Pouladwend s’obscurcirent, sa main ne retenait plus la bride, la douleur le fit pencher du côté droit, et il se dit:
 
@@ -93,7 +93,7 @@ Pouladwend répondit:
 
 > Ta massue ne m’a fait aucun mal!
 
-Les deux combattants échangèrent ces paroles en se lançant des regards pleins de haine.
+Les deux combattants échangèrent ces paroles en se lançant des regards pleins de haine.
 
 Ensuite Pouladwend tira une épée d’acier forgée à l’aide d’arts magiques et d’incantations;
 
@@ -119,7 +119,7 @@ Mais Rustem lui dit:
 >
 > Garde donc aussi celle que tu portes.
 
-Les deux héros, le noble Poulad et le Pehlewan, recommencèrent à se battre;
+Les deux héros, le noble Poulad et le Pehlewan, recommencèrent à se battre;
 
 Mais les armes de ces braves ne firent aucune impression ni sur le Bebr ni sur la cotte de mailles de Poulad.
 
@@ -143,4 +143,4 @@ Rustem lui répondit:
 
 Ils convinrent alors et se promirent solennellement de ne laisser s’approcher aucun de leurs amis de l’une et de l’autre armée, et de ne pas demander eux-mêmes de secours.
 
-Cela étant convenu, ils descendirent de cheval et restèrent quelque temps à pied pour reprendre haleine.
+Cela étant convenu, ils descendirent de cheval et restèrent quelque temps à pied pour reprendre haleine.

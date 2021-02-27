@@ -17,19 +17,19 @@ Et Feribourz, lorsqu’il fut proche et qu’il vit de loin Khosrou, baisa la te
 
 Le glorieux Khosrou le combla de louanges, et regarda les prisonniers, les chameaux, les éléphants et les blessés;
 
-Ensuite il tourna la bride de son cheval, s’éloigna de la route, ôta de sa tête son diadème royal, descendit de cheval et se prosterna dans la poussière devant Dieu, en disant:
+Ensuite il tourna la bride de son cheval, s’éloigna de la route, ôta de sa tête son diadème royal, descendit de cheval et se prosterna dans la poussière devant Dieu, en disant:
 
 > Ô saint Maître du monde, un homme injuste m’avait opprimé;
 >
-> Il m’avait privé de mon père, et accablé de douleur et d’angoisses;
+> Il m’avait privé de mon père, et accablé de douleur et d’angoisses;
 >
-> Tu m’as délivré de ces peines et de ces malheurs, tu m’as fait grandir pour la couronne, la terre et le siècle sont devenus mes esclaves, les hommes ont été comblés de mes trésors.
+> Tu m’as délivré de ces peines et de ces malheurs, tu m’as fait grandir pour la couronne, la terre et le siècle sont devenus mes esclaves, les hommes ont été comblés de mes trésors.
 >
 > Je te rends grâce de m’avoir entouré d’hommes si vaillants;
 >
 > Mais avant tout conserve-moi la vie de Rustem.
 
-Il revint couvert de poussière, et passa en revue les éléphants et les prisonniers, en célébrant les louanges du Pehlewan à qui il devait son bonheur et le repos de son âme;
+Il revint couvert de poussière, et passa en revue les éléphants et les prisonniers, en célébrant les louanges du Pehlewan à qui il devait son bonheur et le repos de son âme;
 
 Ensuite il s’en retourna dans son palais, écrivit une réponse à la lettre de Rustem, et planta un nouvel arbre dans le jardin du pouvoir.
 
@@ -45,7 +45,7 @@ Il commença par les louanges du Créateur,
 >
 > Sache que les soucis et les joies viennent de lui, et que tous les biens qui nous réjouissent sont son œuvre.
 >
-> Tout ce que tu m’annonces, les prisonniers, les éléphants, les trônes et les diadèmes, les brocarts de la Chine, le trône d’ivoire, les chevaux arabes, les colliers et les couronnes, les chameaux innombrables chargés d’étoffes, d’habillements et de tapis, tout cela est arrivé dans mon palais, et tout sert à mes plaisirs, à mes fêtes et à mes banquets.
+> Tout ce que tu m’annonces, les prisonniers, les éléphants, les trônes et les diadèmes, les brocarts de la Chine, le trône d’ivoire, les chevaux arabes, les colliers et les couronnes, les chameaux innombrables chargés d’étoffes, d’habillements et de tapis, tout cela est arrivé dans mon palais, et tout sert à mes plaisirs, à mes fêtes et à mes banquets.
 >
 > Mais qui voudra se présenter devant toi dans la bataille, à moins d’avoir d’avance perdu la tête et d’être las de la vie?
 >
@@ -67,7 +67,7 @@ On prépara de même des présents pour les chefs de l’armée, et l’on en fo
 
 A Feribourz on donna une couronne, une massue, un drapeau, une épée d’or et des bottines d’or.
 
-Ensuite le roi lui ordonna de repartir, de se rendre de l’Iran auprès du Sipehbed et de lui dire:
+Ensuite le roi lui ordonna de repartir, de se rendre de l’Iran auprès du Sipehbed et de lui dire:
 
 > Khosrou ne se reposera point durant la guerre contre Afrasiab, il ne mangera et ne dormira point, que la tête de ce puissant roi ne soit prise dans le nœud de ton lacet.
 
