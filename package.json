@@ -65,7 +65,7 @@
     "mermaid.cli": "0.5.1",
     "prettier": "2.2.1",
     "rimraf": "3.0.2",
-    "stylelint": "13.9.0",
+    "stylelint": "13.11.0",
     "stylelint-config-recommended": "3.0.0",
     "ts-jest": "26.5.0",
     "ts-node": "9.1.1",
