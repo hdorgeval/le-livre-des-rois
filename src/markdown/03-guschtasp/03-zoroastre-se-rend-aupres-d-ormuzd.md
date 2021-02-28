@@ -313,6 +313,30 @@ Zoroastre reçut encore les instructions suivantes des Esprits célestes:
 >
 > Qu'ils conservent pures les quatre choses précieuses dont le corps de l’homme est composé, le vent, l'eau, le feu & la terre: alors tout sera heureux & béni de l'Être Suprême.
 
+Lorsque Amerdad eut achevé, Salah parla à Zoroastre au sujet de l'âme. Il lui dit:
+
+> Adore le Créateur de l’âme et de la raison, comme c’est ton devoir, et considère, ô sage à l’esprit brillant, s’il est possible de le célébrer comme il faudrait.
+>
+> Aucune doctrine ne vaut celle de l’unité de Dieu, et qu’on l’avoue ou qu’on le nie, il n’y a qu’un Dieu.
+>
+> Tout ce qui te passe devant les yeux se combine dans ton esprit avec les conclusions de la raison pour prouver son existence;
+>
+> Si donc tu es un homme qui réfléchisses, suis le chemin déjà essayé;
+>
+> Sinon abstiens-toi au moins de disputes.
+>
+> Un souffle t’a fait naître composé d’âme et de corps, et tu te crois un être très-puissant;
+>
+> Mais tes jours passeront, et un autre monde deviendra ta demeure.
+>
+> Pense avant tout au Créateur, et que ton adoration soit fondée sur cette pensée, que c’est par lui que subsiste le ciel qui tourne, que c’est lui qui est notre guide dans la bonne et la mauvaise fortune.
+>
+> Si tu veux réfléchir, tu verras que le monde est rempli de merveilles, et que personne ne peut entrer en guerre avec Dieu.
+>
+> L’âme est pleine de merveilles, et le corps est une merveille;
+>
+> Et il faut d’abord se connaître soi-même, et ensuite le ciel qui tourne au-dessus de nos têtes et qui nous montre chaque jour une face nouvelle.
+
 Telles sont les instructions que Zoroastre reçut d’Ormuzd & des Esprits célestes ses Ministres.
 
 [^1]: Cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.
