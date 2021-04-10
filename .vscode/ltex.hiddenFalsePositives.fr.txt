@@ -1,0 +1,6 @@
+{"rule":"D_N","sentence":"^\\QLe roi, avec son escorte et quatre éléphants, se mit à la poursuite de Rustem ; mais lorsqu'ils l'eurent atteint, celui-ci ôta l'arc de son bras et s'avança vers eux en fureur, les accablant d'une grêle de traits et. de coups d'épée.\\E$"}
+{"rule":"D_N","sentence":"^\\QLorsqu'il fut revenu auprès de la source, méditant dans son âme guerrière de nouvelles luttes, le Div Akwan l'accosta de nouveau et lui dit :\\E$"}
+{"rule":"D_N","sentence":"^\\QTehemten répondit aux paroles du Div par un mugissement de lion , détacha du crochet son lacet roulé, le lança et prit le Div au milieu du corps.\\E$"}
+{"rule":"D_N","sentence":"^\\QTout en chancelant sur la selle, à cause des efforts que faisait le Div, il leva sa lourde massue semblable au marteau du forgeron , en frappa la tête du Div comme un éléphant ivre, et lui brisa le crâne d'un seul coup;\\E$"}
+{"rule":"D_N","sentence":"^\\QSache qu'un méchant homme, et quiconque n'adore pas Dieu, est un Div;\\E$"}
+{"rule":"D_N","sentence":"^\\QMais n'appelle pas ainsi le Div Akwan.\\E$"}
