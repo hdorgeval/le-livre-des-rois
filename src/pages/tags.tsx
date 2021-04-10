@@ -1,4 +1,3 @@
-import styles from './tags.module.scss';
 import { Layout, Title, Tags, SEO } from '../components';
 import React from 'react';
 
@@ -12,7 +11,7 @@ export default () => (
     />
     <div>
       <Title text="Le Livre des Rois - Shâhnâmeh" subtitle="Lexique" />
-      <div className={styles.content}>
+      <div>
         <Tags />
       </div>
     </div>

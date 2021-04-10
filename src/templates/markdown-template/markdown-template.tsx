@@ -1,4 +1,3 @@
-import styles from './markdown-template.module.scss';
 import { MarkdownRemarkResponse } from '../../graphql';
 import { Layout, Title, SEO } from '../../components';
 import React from 'react';
@@ -15,7 +14,7 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data }) => {
   return (
     <Layout>
       <SEO title="Le Livre des Rois - Shâhnâmeh" contentType="website" description={firstHeading} />
-      <div className={styles.container}>
+      <div>
         <Title text={firstHeading} subtitle=""></Title>
         <div
           style={{
@@ -28,10 +27,7 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data }) => {
             marginBottom: '30px',
           }}
         ></div>
-        <div
-          className={styles.content}
-          dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
-        />
+        <div dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }} />
       </div>
     </Layout>
   );

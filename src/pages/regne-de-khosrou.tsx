@@ -1,4 +1,3 @@
-import styles from './regne-de-khosrou.module.scss';
 import { Layout, Title, SEO, KhosrouEpisodes } from '../components';
 import React from 'react';
 
@@ -13,7 +12,7 @@ export default () => (
 
     <div>
       <Title text="Le règne de Keï Khosrou" subtitle="Son règne dura 60 ans." />
-      <div className={styles.content}>
+      <div>
         <br />
         <KhosrouEpisodes />
       </div>

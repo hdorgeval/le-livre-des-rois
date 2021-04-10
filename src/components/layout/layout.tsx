@@ -1,4 +1,3 @@
-import styles from './layout.module.scss';
 import { Header } from './header/header';
 import { Footer } from './footer/footer';
 import React from 'react';
@@ -6,12 +5,12 @@ import { Link } from 'gatsby';
 import { Helmet } from 'react-helmet';
 
 export const Layout: React.FunctionComponent = ({ children }) => (
-  <div className={styles.container}>
+  <div>
     <Helmet>
       <body className="dark"></body>
     </Helmet>
     <Header />
-    <div className={styles.content}>{children}</div>
+    <div>{children}</div>
     <Footer>
       {' '}
       <Link to="/about" aria-label="A propos">

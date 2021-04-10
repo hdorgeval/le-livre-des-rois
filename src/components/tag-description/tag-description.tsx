@@ -1,4 +1,3 @@
-import styles from './tag-description.module.scss';
 import { AllMarkdownRemarkResponse } from '../../graphql';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
@@ -39,17 +38,11 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
     .filter((node) => node.frontmatter.tags.includes(tag));
 
   return (
-    <div className={styles.container}>
+    <div>
       {markdownNodes.map((node) => {
         const firstHeading = node.headings[0].value;
         const htmlWithoutFirstHeading = node.html.replace(`<h1>${firstHeading}</h1>`, '');
-        return (
-          <div
-            key={node.id}
-            className={styles.content}
-            dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
-          />
-        );
+        return <div key={node.id} dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }} />;
       })}
     </div>
   );

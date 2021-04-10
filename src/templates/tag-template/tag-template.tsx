@@ -1,4 +1,3 @@
-import styles from './tag-template.module.scss';
 import { Layout, SEO, Title, EpisodeLink } from '../../components';
 import { AllMarkdownRemarkResponse, PageContext } from '../../graphql';
 import { toMinutes } from '../../tools';
@@ -17,11 +16,11 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
       <SEO title="Le Livre des Rois - Shâhnâmeh" contentType="website" description={tag} />
       <div>
         <Title text={tag} subtitle={''}></Title>
-        <div className={styles.content}>
+        <div>
           <TagDescription tag={tag} />
         </div>
         <Title text="" subtitle={`Tous les épisodes faisant référence au terme '${tag}'`}></Title>
-        <div className={styles.content}>
+        <div>
           {data.allMarkdownRemark.edges
             .map((nodeWrapper) => nodeWrapper.node)
             .map((node) => {

@@ -25,9 +25,7 @@ module.exports = {
       },
     },
     'gatsby-transformer-sharp',
-    'gatsby-plugin-dark-mode',
     'gatsby-plugin-react-helmet',
-    'gatsby-plugin-sass',
     'gatsby-plugin-typescript',
     {
       resolve: 'gatsby-source-filesystem',

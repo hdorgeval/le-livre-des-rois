@@ -1,4 +1,3 @@
-import styles from '../header.module.scss';
 import React from 'react';
 
 export const GithubButton: React.FC = () => (
@@ -7,6 +6,6 @@ export const GithubButton: React.FC = () => (
     target="_blank"
     rel="noopener noreferrer"
   >
-    <div className={styles.buttonGithub}>GitHub</div>
+    <div>GitHub</div>
   </a>
 );

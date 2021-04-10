@@ -1,4 +1,3 @@
-import styles from './epidode-link.module.scss';
 import { MarkdownNode } from '../../graphql';
 import React from 'react';
 import { Link } from 'gatsby';
@@ -24,17 +23,16 @@ export const EpisodeLink: React.FC<EpisodeLinkProps> = ({
 
   return (
     <Link to={fields.slug} aria-label={firstHeading}>
-      <article className={styles.container}>
-        <div className={styles.left}>
+      <article>
+        <div>
           <img src={`${frontmatter.image}/150x150`} alt={firstHeading} />
         </div>
-        <div className={styles.right}>
+        <div>
           <h3>{firstHeading}</h3>
-          <div className={styles.details}>
+          <div>
             {totalCount && <span>{`${totalCount} épisode${totalCount > 1 ? 's' : ''}`}</span>}
             {workInProgress && (
               <div
-                className={styles.wipRibbon}
                 data-ribbon={overallCount ? 'in progress (' + progress + '%)' : 'in progress'}
               ></div>
             )}

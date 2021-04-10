@@ -1,4 +1,3 @@
-import styles from './about.module.scss';
 import { Layout, Title, FirdousiArticles, SEO } from '../components';
 import React from 'react';
 
@@ -12,7 +11,7 @@ export default () => (
     />
     <div>
       <Title text="A propos du Livre des Rois" subtitle="" />
-      <div className={styles.content}>
+      <div>
         <h2>Le concept</h2>
         <p>
           L&apos; objectif est de transcrire l&apos;oeuvre de Firdousi au format Markdown de façon à

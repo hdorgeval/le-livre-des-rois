@@ -1,4 +1,3 @@
-import styles from './404.module.scss';
 import { Layout, SEO } from '../components';
 import React from 'react';
 import { Link } from 'gatsby';
@@ -11,9 +10,9 @@ export default () => (
       contentType="website"
       description="La page que vous cherchez n'existe pas"
     />
-    <div className={styles.content}>
-      <h1 className={styles.header}>Oops</h1>
-      <p className={styles.errorMessage}>La page que vous cherchez n&apos;existe pas</p>
+    <div>
+      <h1>Oops</h1>
+      <p>La page que vous cherchez n&apos;existe pas</p>
       <Link to="/" aria-label="Le livre des rois">
         Le Livre des Rois
       </Link>

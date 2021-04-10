@@ -1,4 +1,3 @@
-import styles from './regne-de-lohrasp.module.scss';
 import { Layout, Title, SEO, GuschtaspEpisodes } from '../components';
 import React from 'react';
 
@@ -13,7 +12,7 @@ export default () => (
 
     <div>
       <Title text="Le règne de Guschtasp" subtitle="Son règne dura 120 ans." />
-      <div className={styles.content}>
+      <div>
         <br />
         <GuschtaspEpisodes />
       </div>

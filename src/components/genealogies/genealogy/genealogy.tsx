@@ -1,4 +1,3 @@
-import styles from './genealogy.module.scss';
 import React from 'react';
 
 export interface GenealogyProps {
@@ -12,7 +11,7 @@ export const Genealogy: React.FC<GenealogyProps> = ({ treeName, svgGraph }) => {
   return (
     <>
       <h2>{treeName}</h2>
-      <div className={styles.mermaidGraph} dangerouslySetInnerHTML={{ __html: result }}></div>
+      <div dangerouslySetInnerHTML={{ __html: result }}></div>
     </>
   );
 };

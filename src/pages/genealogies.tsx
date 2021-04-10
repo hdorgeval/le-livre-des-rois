@@ -1,4 +1,3 @@
-import styles from './genealogies.module.scss';
 import { Layout, Title, SEO, Genealogies } from '../components';
 import React from 'react';
 
@@ -8,7 +7,7 @@ export default () => (
     <SEO title="Le Livre des Rois - Shâhnâmeh" contentType="website" description="généalogies" />
     <div>
       <Title text="Le Livre des Rois - Shâhnâmeh" subtitle="Généalogies" />
-      <div className={styles.content}>
+      <div>
         <Genealogies />
       </div>
     </div>

@@ -1,4 +1,3 @@
-import styles from './tags.module.scss';
 import { Tag } from './tag/tag';
 import { AllMarkdownRemarkResponse } from '../../graphql';
 import React from 'react';
@@ -16,7 +15,7 @@ export const Tags: React.FC = () => {
     }
   `);
   return (
-    <div className={styles.content}>
+    <div>
       {data.allMarkdownRemark.group
         .sort((a, b) =>
           a.fieldValue.replace('â', 'a').toLowerCase() >=

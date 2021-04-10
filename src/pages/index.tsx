@@ -1,4 +1,3 @@
-import styles from './index.module.scss';
 import { Layout, Title, SEO, AllReignsLinks } from '../components';
 import React from 'react';
 
@@ -14,7 +13,7 @@ const Index: React.FC = () => (
         text="Le Livre des Rois - Shâhnâmeh"
         subtitle="Histoire légendaire des rois de Perse"
       />
-      <div className={styles.content}>
+      <div>
         <p>
           Il y avait un livre des temps anciens, dans lequel étaient écrites beaucoup d’histoires.
         </p>
