@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 export const Header: React.FC = () => (
-  <nav className="navbar navbar-expand-md navbar-dark bg-dark navbar-expand-md sticky-top">
-    <div className="container-fluid text-right">
+  <nav className="navbar navbar-expand-xl navbar-dark bg-dark sticky-top">
+    <div className="container-fluid">
       <button
         className="navbar-toggler ms-auto"
         type="button"
@@ -13,7 +13,7 @@ export const Header: React.FC = () => (
         <span className="navbar-toggler-icon"></span>
       </button>
       <div className="collapse navbar-collapse" id="responsiveNavBar">
-        <ul className="navbar-nav ms-auto">
+        <ul className="navbar-nav">
           <li className="nav-item ms-auto">
             <Link className="nav-link" to="/" aria-label="Accueil">
               Couverture
@@ -21,17 +21,17 @@ export const Header: React.FC = () => (
           </li>
           <li className="nav-item ms-auto">
             <Link className="nav-link" to="/tags" aria-label="tags">
-              <div>Lexique</div>
+              Lexique
             </Link>
           </li>
           <li className="nav-item ms-auto">
             <Link className="nav-link" to="/genealogies" aria-label="généalogies">
-              <div>Généalogies</div>
+              Généalogies
             </Link>
           </li>
           <li className="nav-item ms-auto">
             <Link className="nav-link" to="/about" aria-label="généalogies">
-              <div>A propos</div>
+              A propos
             </Link>
           </li>
           <li className="nav-item ms-auto">
@@ -41,7 +41,7 @@ export const Header: React.FC = () => (
               target="_blank"
               rel="noopener noreferrer"
             >
-              <div>GitHub</div>
+              GitHub
             </a>
           </li>
         </ul>
