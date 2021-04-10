@@ -5,9 +5,9 @@ import { Link } from 'gatsby';
 import { Helmet } from 'react-helmet';
 
 export const Layout: React.FunctionComponent = ({ children }) => (
-  <div>
+  <div className="bg-dark">
     <Helmet>
-      <body className="dark"></body>
+      <body className="bg-dark"></body>
     </Helmet>
     <Header />
     <div>{children}</div>
