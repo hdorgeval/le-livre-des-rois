@@ -45,13 +45,13 @@
     "unist-util-visit": "2.0.3"
   },
   "devDependencies": {
-    "@types/jest": "26.0.20",
-    "@types/mermaid": "8.2.2",
-    "@types/node": "14.14.31",
+    "@types/jest": "26.0.22",
+    "@types/mermaid": "8.2.4",
+    "@types/node": "14.14.37",
     "@types/node-sass": "4.11.1",
     "@types/randomcolor": "0.5.5",
-    "@types/react": "17.0.2",
-    "@types/react-dom": "17.0.1",
+    "@types/react": "17.0.3",
+    "@types/react-dom": "17.0.3",
     "@types/react-helmet": "6.1.0",
     "@types/unist": "2.0.3",
     "@typescript-eslint/eslint-plugin": "4.15.2",
