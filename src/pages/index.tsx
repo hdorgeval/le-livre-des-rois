@@ -13,7 +13,7 @@ const Index: React.FC = () => (
         text="Le Livre des Rois - Shâhnâmeh"
         subtitle="Histoire légendaire des rois de Perse"
       />
-      <div>
+      <div className="text-light ms-3">
         <p>
           Il y avait un livre des temps anciens, dans lequel étaient écrites beaucoup d’histoires.
         </p>
