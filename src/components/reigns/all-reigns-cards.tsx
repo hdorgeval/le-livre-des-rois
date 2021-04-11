@@ -1,4 +1,4 @@
-import { GuschtaspCard, KhosrouCard, LohraspCard } from './';
+import { GuschtaspCard, KhosrouCard, LohraspCard } from '.';
 import React from 'react';
 
 export const ReignCards: React.FC = () => (
