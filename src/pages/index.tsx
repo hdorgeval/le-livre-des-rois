@@ -1,4 +1,4 @@
-import { Layout, Title, SEO, AllReignsLinks } from '../components';
+import { Layout, Title, SEO, ReignCards } from '../components';
 import React from 'react';
 
 const Index: React.FC = () => (
@@ -40,7 +40,7 @@ const Index: React.FC = () => (
           ses louanges.
         </p>
       </div>
-      <AllReignsLinks />
+      <ReignCards />
     </div>
   </Layout>
 );

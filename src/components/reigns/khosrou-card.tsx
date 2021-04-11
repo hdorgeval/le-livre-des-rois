@@ -1,14 +1,13 @@
-import { MarkdownNode, AllMarkdownRemarkResponse, emptyHtmlAst } from '../../../graphql';
-import { EpisodeLink } from '../..';
-import { toMinutes } from '../../../tools';
+import { MarkdownNode, AllMarkdownRemarkResponse, emptyHtmlAst } from '../../graphql';
+import { toMinutes } from '../../tools';
 import React from 'react';
-import { graphql, useStaticQuery } from 'gatsby';
+import { graphql, Link, useStaticQuery } from 'gatsby';
 
-export const KhosrouReignLink: React.FC = () => {
+export const KhosrouCard: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
       allMarkdownRemark(
-        limit: 100
+        limit: 200
         filter: { fileAbsolutePath: { glob: "**/markdown/01-khosrou/**/*.md" } }
       ) {
         totalCount
@@ -46,14 +45,33 @@ export const KhosrouReignLink: React.FC = () => {
     timeToRead: toMinutes(timeToRead),
     wordCount: { words: 0, paragraphs: 0, sentences: 0 },
   };
+  // return (
+  //   <EpisodeLink
+  //     {...khosrouNode}
+  //     key="khosrou"
+  //     overallCount={240}
+  //     timeUnit="minute"
+  //     totalCount={totalNumberOfEpsiodes}
+  //     workInProgress={true}
+  //   />
+  // );
+
   return (
-    <EpisodeLink
-      {...khosrouNode}
-      key="khosrou"
-      overallCount={240}
-      timeUnit="minute"
-      totalCount={totalNumberOfEpsiodes}
-      workInProgress={true}
-    />
+    <Link className="nav-link" to={khosrouNode.fields.slug} aria-label="Règne de Keï Khosrou">
+      <div className="card text-center bg-dark text-white border-secondary">
+        <div className="card-header">
+          <h5 className="card-title">Keï Khosrou</h5>
+        </div>
+        <div className="card-body card-text">
+          <blockquote className="blockquote mb-0">
+            <p className="text-secondary">Son règne dura 60 ans.</p>
+          </blockquote>
+        </div>
+        <div className="card-footer text-muted">
+          <span>{`${totalNumberOfEpsiodes} épisode${totalNumberOfEpsiodes > 1 ? 's' : ''}`}</span>
+          <span>&nbsp;(sur 240)</span>
+        </div>
+      </div>
+    </Link>
   );
 };
