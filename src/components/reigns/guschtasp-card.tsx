@@ -35,6 +35,7 @@ export const GuschtaspCard: React.FC = () => {
       date: '',
       image: 'https://source.unsplash.com/PvDFxBPc6Zw',
       landscape: 'https://source.unsplash.com/PvDFxBPc6Zw',
+      order: '3',
     },
     headings: [{ depth: 1, value: 'Règne de Guschtasp' }],
     html: '<h1>Règne de Guschtasp</h1>Son règne dura 120 ans.',

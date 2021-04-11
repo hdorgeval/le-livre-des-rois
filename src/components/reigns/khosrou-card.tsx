@@ -35,6 +35,7 @@ export const KhosrouCard: React.FC = () => {
       date: '',
       image: 'https://source.unsplash.com/JpbtAb-f3JA',
       landscape: 'https://source.unsplash.com/j1HU-Oll7KI',
+      order: '1',
     },
     headings: [{ depth: 1, value: 'Règne de Keï Khosrou' }],
     html: '<h1>Règne de Keï Koshrou</h1>Son règne dura 60 ans.',

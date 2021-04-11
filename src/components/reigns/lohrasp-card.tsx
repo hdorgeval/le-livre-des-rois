@@ -35,6 +35,7 @@ export const LohraspCard: React.FC = () => {
       date: '',
       image: 'https://source.unsplash.com/pKMFZmVHsNk',
       landscape: 'https://source.unsplash.com/j1HU-Oll7KI',
+      order: '2',
     },
     headings: [{ depth: 1, value: 'Règne de Lohrasp' }],
     html: '<h1>Règne de Lohrasp</h1>Son règne dura 120 ans.',
