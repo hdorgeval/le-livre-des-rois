@@ -82,6 +82,6 @@
   "homepage": "https://github.com/hdorgeval/le-livre-des-rois#readme",
   "engines": {
     "vscode": "^1.18.0",
-    "node": ">=6.4.0"
+    "node": ">=12.0.0"
   }
 }
