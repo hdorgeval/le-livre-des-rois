@@ -1,0 +1,38 @@
+.mermaid-graph {
+  border-bottom: 1px dotted var(--color-palette-6);
+  --color-palette-graph-8: rgba(244, 154, 134, 0.5);
+  --color-palette-graph-5: rgba(159, 252, 187, 0.5);
+  --bgcolor-palette-graph-1: #222f3e;
+}
+
+.mermaid-graph rect {
+  fill: transparent;
+  stroke: var(--color-palette-graph-8);
+  stroke-width: 2px;
+}
+
+.mermaid-graph div {
+  font-family: serif, 'Courier New', Courier, monospace;
+  font-style: italic;
+  color: var(--color-palette-graph-8);
+  --margin-top: 5px;
+  font-weight: bold;
+  font-size: 1.5rem;
+}
+
+.mermaid-graph span {
+  font-family: serif, 'Courier New', Courier, monospace;
+  font-style: italic;
+  color: var(--color-palette-graph-5);
+  --margin-top: 5px;
+  --font-weight: bold;
+  font-size: 1.1rem;
+  background-color: var(--bgcolor-palette-graph-1);
+  height: 2rem;
+}
+
+.mermaid-graph path {
+  stroke: purple;
+  stroke-width: 1;
+  fill: var(--color-palette-graph-5);
+}
