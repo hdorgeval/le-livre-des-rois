@@ -1,4 +1,4 @@
-import { Tag } from './tag/tag';
+import { Tag } from './tag';
 import { AllMarkdownRemarkResponse } from '../../graphql';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
@@ -15,7 +15,7 @@ export const Tags: React.FC = () => {
     }
   `);
   return (
-    <div>
+    <div id="tags-container" className="container-fluid">
       {data.allMarkdownRemark.group
         .sort((a, b) =>
           a.fieldValue.replace('â', 'a').toLowerCase() >=

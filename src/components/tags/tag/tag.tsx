@@ -1,6 +1,7 @@
 import React from 'react';
 import { Link } from 'gatsby';
 // import randomColor from 'randomcolor';
+import './tag.css';
 
 export interface TagProps {
   text: string;
@@ -12,69 +13,67 @@ export const Tag: React.FC<TagProps> = ({ text, size, index }) => {
     const konwnIndex = (i % 20) + 1;
     switch (konwnIndex) {
       case 1:
-        return 'styles.color1';
+        return 'color1';
       case 2:
-        return 'styles.color2';
+        return 'color2';
       case 3:
-        return 'styles.color3';
+        return 'color3';
       case 4:
-        return 'styles.color4';
+        return 'color4';
       case 5:
-        return 'styles.color5';
+        return 'color5';
       case 6:
-        return 'styles.color6';
+        return 'color6';
       case 7:
-        return 'styles.color7';
+        return 'color7';
       case 8:
-        return 'styles.color8';
+        return 'color8';
       case 9:
-        return 'styles.color9';
+        return 'color9';
       case 10:
-        return 'styles.color10';
+        return 'color10';
       case 11:
-        return 'styles.color11';
+        return 'color11';
       case 12:
-        return 'styles.color12';
+        return 'color12';
       case 13:
-        return 'styles.color13';
+        return 'color13';
       case 14:
-        return 'styles.color14';
+        return 'color14';
       case 15:
-        return 'styles.color15';
+        return 'color15';
       case 16:
-        return 'styles.color16';
+        return 'color16';
       case 17:
-        return 'styles.color17';
+        return 'color17';
       case 18:
-        return 'styles.color18';
+        return 'color18';
       case 19:
-        return 'styles.color19';
+        return 'color19';
       case 20:
-        return 'styles.color20';
+        return 'color20';
 
       default:
-        return 'styles.color1';
+        return 'color1';
     }
   };
   return (
-    <div>
-      <span
-        className={getStyleByIndex(index)}
-        style={{
-          fontSize: 30 * (1 + Math.log10(size)),
-          // color: randomColor({
-          //   hue: 'gray',
-          //   alpha: 0.9,
-          //   luminosity: 'dark',
-          //   format: 'rgba',
-          // }),
-        }}
-      >
-        <Link to={`/tag/${text}`} aria-label={`voir tous les articles liés à ${text}`}>
-          {text}
-        </Link>{' '}
-        {''}
-      </span>
-    </div>
+    <span
+      className={`tag ${getStyleByIndex(index)}`}
+      style={{
+        fontSize: 30 * (1 + Math.log10(size)),
+        // color: randomColor({
+        //   hue: 'gray',
+        //   alpha: 0.9,
+        //   luminosity: 'dark',
+        //   format: 'rgba',
+        // }),
+      }}
+    >
+      <Link to={`/tag/${text}`} aria-label={`voir tous les articles liés à ${text}`}>
+        {text}
+      </Link>{' '}
+      {''}
+    </span>
   );
 };

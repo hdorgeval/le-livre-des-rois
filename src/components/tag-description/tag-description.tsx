@@ -38,11 +38,17 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
     .filter((node) => node.frontmatter.tags.includes(tag));
 
   return (
-    <div>
+    <div className="text-light ms-4 me-4 mb-4">
       {markdownNodes.map((node) => {
         const firstHeading = node.headings[0].value;
         const htmlWithoutFirstHeading = node.html.replace(`<h1>${firstHeading}</h1>`, '');
-        return <div key={node.id} dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }} />;
+        return (
+          <div
+            id="episode-content"
+            key={node.id}
+            dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
+          />
+        );
       })}
     </div>
   );
