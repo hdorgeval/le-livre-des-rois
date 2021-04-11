@@ -45,16 +45,6 @@ export const KhosrouCard: React.FC = () => {
     timeToRead: toMinutes(timeToRead),
     wordCount: { words: 0, paragraphs: 0, sentences: 0 },
   };
-  // return (
-  //   <EpisodeLink
-  //     {...khosrouNode}
-  //     key="khosrou"
-  //     overallCount={240}
-  //     timeUnit="minute"
-  //     totalCount={totalNumberOfEpsiodes}
-  //     workInProgress={true}
-  //   />
-  // );
 
   return (
     <Link className="nav-link" to={khosrouNode.fields.slug} aria-label="Règne de Keï Khosrou">
