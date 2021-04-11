@@ -1,0 +1,42 @@
+#episode-content blockquote {
+  position: relative;
+  font-style: italic;
+  font-size: 1.1em;
+  margin-left: 0.1em;
+  font-family: 'Times New Roman', Georgia, serif;
+  border-left-width: 0.5em;
+  border-left-color: var(--bs-primary);
+  border-left-style: groove;
+  padding-left: 1.2rem;
+}
+
+#episode-content blockquote :before {
+  content: '\201C';
+  position: absolute;
+  top: -0.5em;
+  left: -0.1em;
+  font-size: 2.5em;
+  font-family: 'Times New Roman', Georgia, serif;
+}
+
+#episode-content blockquote p {
+  margin-bottom: 0px;
+}
+
+#episode-content sup a,
+.card-header h1 sup a {
+  color: var(--bs-secondary);
+  text-decoration: none;
+}
+
+#episode-content sup:before,
+.card-header h1 sup:before {
+  content: '[';
+  color: var(--bs-secondary);
+}
+
+#episode-content sup:after,
+.card-header h1 sup:after {
+  content: ']';
+  color: var(--bs-secondary);
+}
