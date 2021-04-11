@@ -1,4 +1,4 @@
-import { Layout, SEO, Title, EpisodeLink } from '../../components';
+import { Layout, SEO, Title, EpisodeCard } from '../../components';
 import { AllMarkdownRemarkResponse, PageContext } from '../../graphql';
 import { toMinutes } from '../../tools';
 import { TagDescription } from '../../components/tag-description/tag-description';
@@ -30,7 +30,7 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
               };
             })
             .map((node) => (
-              <EpisodeLink {...node} key={node.id} timeUnit="minute" />
+              <EpisodeCard {...node} key={node.id} index={Number(node.frontmatter.order)} />
             ))}
         </div>
       </div>
@@ -59,6 +59,7 @@ export const query = graphql`
             image
             title
             tags
+            order
           }
           id
           timeToRead

@@ -51,6 +51,7 @@ export interface MarkdownFrontmatter {
   image: string;
   tags: string[];
   landscape: string;
+  order: string;
 }
 
 export interface HtmlAST extends Node {

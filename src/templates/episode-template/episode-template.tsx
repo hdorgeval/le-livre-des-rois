@@ -2,7 +2,7 @@ import { MarkdownRemarkResponse } from '../../graphql';
 import { Layout, SEO } from '../../components';
 import React from 'react';
 import { graphql } from 'gatsby';
-import './markdown-template.css';
+import './episode-template.css';
 
 interface MarkdownTemplateProps {
   data: MarkdownRemarkResponse;

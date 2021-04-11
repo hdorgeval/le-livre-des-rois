@@ -62,9 +62,9 @@ exports.onCreateNode = async ({ node, getNode, actions, loadNodeContent }) => {
   });
 };
 
-async function createAllPAgesForMarkdownFiles(graphql, actions) {
+async function createAllEpisodePages(graphql, actions) {
   const { createPage } = actions;
-  const tagTemplate = path.resolve('src/templates/markdown-template/markdown-template.tsx');
+  const tagTemplate = path.resolve('src/templates/episode-template/episode-template.tsx');
   const { data } = await graphql(`
     {
       allMarkdownRemark {
@@ -82,7 +82,7 @@ async function createAllPAgesForMarkdownFiles(graphql, actions) {
   const markdowns = data.allMarkdownRemark.edges.map((edge) => edge.node);
   markdowns.forEach((markdown) => {
     // eslint-disable-next-line no-console
-    console.log(`Creating page for markdown ${markdown.fields.slug}`);
+    console.log(`Creating episode page for markdown ${markdown.fields.slug}`);
     createPage({
       path: markdown.fields.slug,
       component: path.resolve(tagTemplate),
@@ -93,7 +93,7 @@ async function createAllPAgesForMarkdownFiles(graphql, actions) {
   });
 }
 
-async function createAllPagesForTags(graphql, actions) {
+async function createAllTagPages(graphql, actions) {
   const { createPage } = actions;
   const tagTemplate = path.resolve('src/templates/tag-template/tag-template.tsx');
   const { data } = await graphql(`
@@ -124,8 +124,8 @@ async function createAllPagesForTags(graphql, actions) {
 }
 
 exports.createPages = async ({ graphql, actions }) => {
-  await createAllPAgesForMarkdownFiles(graphql, actions);
-  await createAllPagesForTags(graphql, actions);
+  await createAllEpisodePages(graphql, actions);
+  await createAllTagPages(graphql, actions);
 };
 
 exports.onPostBootstrap = () => {
