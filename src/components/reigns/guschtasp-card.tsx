@@ -1,10 +1,9 @@
-import { MarkdownNode, AllMarkdownRemarkResponse, emptyHtmlAst } from '../../../graphql';
-import { EpisodeLink } from '../..';
-import { toHours } from '../../../tools';
+import { MarkdownNode, AllMarkdownRemarkResponse, emptyHtmlAst } from '../../graphql';
+import { toHours } from '../../tools';
 import React from 'react';
-import { graphql, useStaticQuery } from 'gatsby';
+import { graphql, Link, useStaticQuery } from 'gatsby';
 
-export const GuschtaspReignLink: React.FC = () => {
+export const GuschtaspCard: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
       allMarkdownRemark(
@@ -47,11 +46,20 @@ export const GuschtaspReignLink: React.FC = () => {
     wordCount: { words: 0, paragraphs: 0, sentences: 0 },
   };
   return (
-    <EpisodeLink
-      {...guschtaspNode}
-      key="guschtasp"
-      timeUnit="hour"
-      totalCount={totalNumberOfEpsiodes}
-    />
+    <Link className="nav-link" to={guschtaspNode.fields.slug} aria-label="Règne de Guschtasp">
+      <div className="card text-center bg-dark text-white border-secondary">
+        <div className="card-header">
+          <h5 className="card-title">Guschtasp</h5>
+        </div>
+        <div className="card-body card-text">
+          <blockquote className="blockquote mb-0">
+            <p className="text-secondary">Son règne dura 120 ans.</p>
+          </blockquote>
+        </div>
+        <div className="card-footer text-muted">
+          <span>{`${totalNumberOfEpsiodes} épisode${totalNumberOfEpsiodes > 1 ? 's' : ''}`}</span>
+        </div>
+      </div>
+    </Link>
   );
 };
