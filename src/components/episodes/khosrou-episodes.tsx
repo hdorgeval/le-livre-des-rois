@@ -2,7 +2,7 @@ import { EpisodeCard } from '.';
 import { AllMarkdownRemarkResponse } from '../../graphql';
 import { toMinutes } from '../../tools';
 import React from 'react';
-import { useStaticQuery, graphql, Link } from 'gatsby';
+import { useStaticQuery, graphql } from 'gatsby';
 
 export const KhosrouEpisodes: React.FC = () => {
   // prettier-ignore
