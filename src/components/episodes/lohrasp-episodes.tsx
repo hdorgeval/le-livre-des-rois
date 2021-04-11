@@ -1,5 +1,5 @@
+import { EpisodeCard } from '.';
 import { AllMarkdownRemarkResponse } from '../../graphql';
-import { EpisodeLink } from '../episode-link/episode-link';
 import { toMinutes } from '../../tools';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
@@ -13,7 +13,7 @@ export const LohraspEpisodes: React.FC = () => {
       ) {
         edges {
           node {
-            excerpt(truncate: true, pruneLength: 120)
+            excerpt(truncate: true, pruneLength: 200)
             frontmatter {
               date
               image
@@ -49,8 +49,8 @@ export const LohraspEpisodes: React.FC = () => {
             timeToRead: toMinutes(node.timeToRead * 2),
           };
         })
-        .map((node) => (
-          <EpisodeLink {...node} key={node.id} timeUnit="minute" />
+        .map((node, index) => (
+          <EpisodeCard key={node.id} {...node} index={index} />
         ))}
     </>
   );

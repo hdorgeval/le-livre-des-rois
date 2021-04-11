@@ -7,15 +7,12 @@ export default () => (
     <SEO
       title="Le Livre des Rois - Shâhnâmeh"
       contentType="website"
-      description="Le règne de Lohrasp"
+      description="Règne de Lohrasp"
     />
 
     <div>
-      <Title text="Le règne de Lohrasp" subtitle="Son règne dura 120 ans." />
-      <div>
-        <br />
-        <LohraspEpisodes />
-      </div>
+      <Title text="Règne de Lohrasp" subtitle="Son règne dura 120 ans." />
+      <LohraspEpisodes />
     </div>
   </Layout>
 );
