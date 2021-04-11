@@ -1,5 +1,5 @@
+import { ArticleCard } from '.';
 import { AllMarkdownRemarkResponse } from '../../graphql';
-import { EpisodeLink } from '../episode-link/episode-link';
 import { toMinutes } from '../../tools';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
@@ -13,7 +13,7 @@ export const FirdousiArticles: React.FC = () => {
       ) {
         edges {
           node {
-            excerpt(truncate: true, pruneLength: 120)
+            excerpt(truncate: true, pruneLength: 200)
             frontmatter {
               date
               image
@@ -50,7 +50,7 @@ export const FirdousiArticles: React.FC = () => {
           };
         })
         .map((node) => (
-          <EpisodeLink {...node} key={node.id} timeUnit="minute" />
+          <ArticleCard key={node.id} {...node} />
         ))}
     </>
   );
