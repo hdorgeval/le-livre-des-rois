@@ -2,7 +2,7 @@ export * from './episode-link/episode-link';
 export * from './firdousi-articles/firdousi-articles';
 export * from './genealogies/genealogies';
 export * from './guschtasp-episodes/guschtasp-episodes';
-export * from './khosrou-episodes/khosrou-episodes';
+export * from './episodes/khosrou-episodes';
 export * from './layout/layout';
 export * from './lohrasp-episodes/lohrasp-episodes';
 export * from './reigns';

@@ -7,15 +7,12 @@ export default () => (
     <SEO
       title="Le Livre des Rois - Shâhnâmeh"
       contentType="website"
-      description="Le règne de Keï Khosrou"
+      description="Règne de Keï Khosrou"
     />
 
     <div>
-      <Title text="Le règne de Keï Khosrou" subtitle="Son règne dura 60 ans." />
-      <div>
-        <br />
-        <KhosrouEpisodes />
-      </div>
+      <Title text="Règne de Keï Khosrou" subtitle="Son règne dura 60 ans." />
+      <KhosrouEpisodes />
     </div>
   </Layout>
 );
