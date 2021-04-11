@@ -7,3 +7,4 @@ export * from './genealogy-newder';
 export * from './genealogy-rustem';
 export * from './genealogy-selm';
 export * from './genealogy-zoroastre';
+export * from './genealogies';
