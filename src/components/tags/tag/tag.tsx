@@ -1,6 +1,5 @@
 import React from 'react';
 import { Link } from 'gatsby';
-// import randomColor from 'randomcolor';
 import './tag.css';
 
 export interface TagProps {
@@ -62,12 +61,6 @@ export const Tag: React.FC<TagProps> = ({ text, size, index }) => {
       className={`tag ${getStyleByIndex(index)}`}
       style={{
         fontSize: 30 * (1 + Math.log10(size)),
-        // color: randomColor({
-        //   hue: 'gray',
-        //   alpha: 0.9,
-        //   luminosity: 'dark',
-        //   format: 'rgba',
-        // }),
       }}
     >
       <Link to={`/tag/${text}`} aria-label={`voir tous les articles liés à ${text}`}>
