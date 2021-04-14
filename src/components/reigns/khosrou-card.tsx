@@ -50,7 +50,7 @@ export const KhosrouCard: React.FC = () => {
   return (
     <Link className="nav-link" to={khosrouNode.fields.slug} aria-label="Règne de Keï Khosrou">
       <div className="card text-center bg-dark text-white border-secondary">
-        <div className="card-header">
+        <div className="card-header pb-0">
           <h5 className="card-title">Keï Khosrou</h5>
         </div>
         <div className="card-body card-text">

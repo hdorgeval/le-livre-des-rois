@@ -49,7 +49,7 @@ export const LohraspCard: React.FC = () => {
   return (
     <Link className="nav-link" to={lohraspNode.fields.slug} aria-label="Règne de Lohrasp">
       <div className="card text-center bg-dark text-white border-secondary">
-        <div className="card-header">
+        <div className="card-header pb-0">
           <h5 className="card-title">Lohrasp</h5>
         </div>
         <div className="card-body card-text">
