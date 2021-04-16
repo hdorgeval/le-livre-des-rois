@@ -11,6 +11,9 @@ export default () => (
     />
     <div>
       <Title text="Le Livre des Rois - Shâhnâmeh" subtitle="Lexique" />
+      <p className="text-center text-small text-muted border-bottom border-bottom-1 border-secondary pb-3">
+        Chaque mot est clickable
+      </p>
       <div>
         <Tags />
       </div>
