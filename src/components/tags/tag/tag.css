@@ -26,6 +26,8 @@
   --color-palette-tag-18: rgba(185, 220, 247, 0.5);
   --color-palette-tag-19: rgba(216, 132, 255, 0.5);
   --color-palette-tag-20: rgba(242, 187, 116, 0.5);
+  --color-palette-tag-21: rgba(125, 63, 187, 0.9);
+  --color-palette-tag-22: rgba(101, 131, 228, 0.87);
 }
 
 #tags-container .tag {
@@ -114,4 +116,12 @@
 
 #tags-container .tag.color20 a {
   color: var(--color-palette-tag-20);
+}
+
+#tags-container .tag.color21 a {
+  color: var(--color-palette-tag-21);
+}
+
+#tags-container .tag.color22 a {
+  color: var(--color-palette-tag-22);
 }
