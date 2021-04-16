@@ -10,12 +10,20 @@ export default () => (
       contentType="website"
       description="La page que vous cherchez n'existe pas"
     />
-    <div>
-      <h1>Oops</h1>
-      <p>La page que vous cherchez n&apos;existe pas</p>
-      <Link to="/" aria-label="Le livre des rois">
-        Le Livre des Rois
-      </Link>
-    </div>
+    <Link className="nav-link" to="/" aria-label="Le livre des rois">
+      <div className="card text-center bg-dark text-white border-secondary">
+        <div className="card-header pb-0">
+          <h5 className="card-title text-truncate">Oops !</h5>
+        </div>
+        <div className="card-body card-text">
+          <blockquote className="blockquote mb-0">
+            <p className="text-secondary fs-6">La page que vous cherchez n&apos;existe pas</p>
+          </blockquote>
+        </div>
+        <div className="card-footer text-muted">
+          <small>{``}</small>
+        </div>
+      </div>
+    </Link>
   </Layout>
 );
