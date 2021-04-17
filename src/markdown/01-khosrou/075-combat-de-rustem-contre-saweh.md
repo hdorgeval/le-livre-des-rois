@@ -21,7 +21,6 @@ tags:
     'Seklab',
     'Seklabs',
     'Tehemten',
-    'Touraniem',
     'Touraniens',
   ]
 order: '075'
@@ -45,7 +44,7 @@ Rustem dit aux Iraniens:
 >
 > Chacun de vous se rendra à son poste en toute hâte et en courant comme le vent;
 >
-> Vous écouterez, et lorsque je m’élancerai de cette place, vous ferez sonner les conques et les clochettes, vous rendrez la terre noire comme l’ébène par la poussière que soulèveront vos chevaux, on battra les timbales, vous frapperez sur les masses d’armes et les lourdes massues des Touraniem comme le marteau du forgeron frappe sur l’acier;
+> Vous écouterez, et lorsque je m’élancerai de cette place, vous ferez sonner les conques et les clochettes, vous rendrez la terre noire comme l’ébène par la poussière que soulèveront vos chevaux, on battra les timbales, vous frapperez sur les masses d’armes et les lourdes massues des Touraniens comme le marteau du forgeron frappe sur l’acier;
 >
 > Vous n’aurez pas peur de leur nombre;
 >
