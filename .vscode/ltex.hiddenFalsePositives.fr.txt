@@ -6,3 +6,4 @@
 {"rule":"D_N","sentence":"^\\QMais n'appelle pas ainsi le Div Akwan.\\E$"}
 {"rule":"D_N","sentence":"^\\QRustem ayant tranché la tête au Div, monta sur son cheval qui ressemblait à une montagne, réunit les troupeaux de chevaux et tous les bagages que les Turcs avaient laissés, et se mit en marche avec les éléphants et ce riche butin; le monde entier fut embelli par l'éclat de ses belles actions.\\E$"}
 {"rule":"D_N","sentence":"^\\QMais que ni les lions, ni le Div, ni les hommes cherchant les combats n'avaient pu passer impunément devant son épée.\\E$"}
+{"rule":"D_N","sentence":"^\\QPrends avec toi des éléphants et va chercher la pierre du Div Akwan, que le maître du monde a tirée de la mer profonde et jetée dans la forêt de la Chine et fais-la servir à ma vengeance contre Bijen ;\\E$"}
