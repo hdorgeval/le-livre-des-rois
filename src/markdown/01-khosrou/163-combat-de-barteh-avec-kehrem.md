@@ -1,0 +1,23 @@
+---
+date: ''
+image: 'https://source.unsplash.com/EFm7JpD9jy8'
+landscape: 'https://source.unsplash.com/EFm7JpD9jy8'
+source: tome III - livre des rois - P. 463
+tags: []
+order: '163'
+---
+
+# Combat de Barteh avec Kehrem
+
+En dixième lieu se présentèrent sur le champ de bataille Barteh et Kehrem toujours prêt à frapper de l’épée; c’étaient deux braves, deux chefs de l’assem-
+blée des grands. Ils s’attaquèrent, animés parla haine
+que se portaient leurs princes; ils essayèrent tous les genres de combat, et saisirent à la fin leurs épées
+,indiennes. Tout à coup Kehrem tourna le dos à Bar- teh, et celui-ci lui assena un coup d’épée sur le haut
+du casque, un coup tel qu’il le fendit en deux jusqu’à
+la poitrine. Barteh lui-même fut ému du sort de son ennemi. Il descendit de cheval, lia le corps de Keh- rem sur la selle de Touz que portait son destrier, se
+Q
+ho.
+âôfi LE LIVRE DES BOIS.
+remit lui-même en selle, et courut comme un léo- pard rugissant vers la colline en poussant des cris, tenant d’une main une épée indienne, de l’autre
+son drapeau fortuné, et apportant Kehrem pendant sur les deux flancs de son cheval. Il s’écria : «Le roi
+«est victorieux! puisse son diadème s’élever à jamais «au-dessus du soleil !"

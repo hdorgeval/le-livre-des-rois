@@ -1,0 +1,48 @@
+---
+date: ''
+image: 'https://source.unsplash.com/EFm7JpD9jy8'
+landscape: 'https://source.unsplash.com/EFm7JpD9jy8'
+source: tome III - livre des rois - P. 321
+tags: []
+order: '124'
+---
+
+# Retour de Rustem auprès de Keï Khosrou
+
+Lorsque le vaillant roi apprit que le lion revenait
+322 LE LIVRE DES ROIS. victorieux de la forêt; qu’il avait délivré Bijen des
+fers, de la prison et des mains du méchant dragon; qu’il avait détruit une armée de Turcs, et réduit au
+néant tous les plans de ses ennemis, il se présenta, dans sa joie, devant le Créateur, et resta longemps le visage prosterné contre terre. A cette nouvelle Gouderz et Guiv accoururent auprès du roi toujours victorieux; on entendit un bruit d’armes; les troupes arrivèrent, les tambours remplirent la rue, le son bruyant des trompettes retentit sous la porte du pa- lais, et l’armée poussa des cris. La grande place dis- paraissait sous les sabots noirs des chevaux; la ville était remplie du fracas des clairons d’airain; tous les grands s’agitaient, les éléphants labouraient la terre
+avec leurs défenses. L’éléphant qui portait les tim-
+bales ouvrit la marche; ensuite vint Thous le chef de l’armée, suivi de son drapeau; d’un côté furent
+placés des lions et des léopards attachés avec des chaînes, et de l’autre des cavaliers armés; et c’est
+ainsi que le roi plein de prudence fit marcher le cortége à la rencontre du Pehlewan de l’armée.
+Le tcortége s’avança par divisions, et cette masse d’hommes couvrit la terre comme une montagne. Arrivés en vue de la vaillante troupe de Rustem, Gouderz et Guiv mirent pied à terre, et tous les grands du pays d’Iran coururent à pied au-devant du, héros, en le bénissant. Le Pehlewan du monde des- cendit de cheval, et adressa les questions d’usage
+
+KEÏ KHOSROU. 323 aux héros qui s’étaient fatigués pour aller à sa ren-
+contre; Gouderz et Guiv lui offrirent leurs homma- ges, disant : «O illustre et vaillant chef de l’armée,
+«puisse Dieu ne jamais cesser de te protéger! puis-
+« sent le soleil et la lune ne se mouvoir qu’à ton gré!
+«Les lions n’empruntent qu’à toi leur bravoure.
+«Puisse le ciel n’être jamais las de tourner au-dessus
+«de toi! Tous les membres de notre famille sont de-
+« venus tes esclaves, puisque tu nous ramènes notre
+«enfant perdu; tu nous as délivrés de nos soucis et
+«de nos peines, et tous les Iraniens se tiennent «ceints pour te servir.»
+Tous les grands remontèrent à cheval et se hâtè-
+rent de se présenter devant le roi du monde; mais lorsque Rustem l’asile de l’armée fut arrivé près de
+la ville du roi maître de la terre, Khosrou lui-même,
+le chef des héros, le soutien des braves, alla au-der vaut de lui. A la vue du drapeau impérial, Rustem connut que le roi venait à sa rencontre; il descendit de cheval et se prosterna devant lui, confus de ce qu’il s’était donné la peine de parcourir cette longue
+route. Khosrou le maître du monde le serra contre
+sa poitrine, disant: « 0 soutien de toute bravoure et «âme de nos exploits, ta manière d’agir ressemble à
+«celle du soleil, car en tous lieux on trouve les «traces de tes hauts faits.» Tehemten alla prendre
+à l’instant par la main Bijen, qui était tout interdit de la présence du roi et de son père ;
+
+32h LE LIVRE DES ROIS.
+il l’amena, le leur remit et se releva. C’est ainsi qu’il
+redressa le dos de ceux que le malheur avait courbés. Ensuite il présenta au roi mille prisonniers toura- niens enchaînés. Khosrou le bénit tendrement, di-
+sant: «Puisse le ciel agir toujours selon ta volonté! «tu es le Pehlewan, tu es un prince plein de valeur, «tu es le bouclier qui nous garantit de tout mal. «Puissent ta tête rester jeune, et ton cœur joyeux! «car sans toi je ne voudrais pas être le maître de la «terre et de l’époque. Heureux Zal, qui laissera «comme toi un souvenir dans le monde, quand son «temps sera passé? Heureux le pays de Zaboulistan «dont le lait nourrit de si vaillants héros! heureux «l’Iran, heureux les braves qui ont un Pehlewan «comme toi! mais plus heureux qu’eux tous, moi «dont le trône a un tel serviteur!» Ensuite le maître
+du monde dit à Guiv : «Les desseins mystérieux du «Créateur ont été heureux pour toi, car il t’a rendu
+«ton fils chéri par la main de Rustem.» Guiv bénit
+le roi en disant : «Puisses-tu vivre heureux aussi «longtemps que durera le monde! puisse Bustem «prolonger ta jeunesse jusqu’à la fin des jours! «puisse le cœur du noble Zal ne cesser d’être heu-
+«reux par lui !»
