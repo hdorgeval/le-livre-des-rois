@@ -50,14 +50,14 @@
       "program": "${workspaceFolder}/node_modules/mermaid.cli/index.bundle.js",
     },
     {
-      "name": "Correct Markdown File",
+      "name": "Format Current Markdown File",
       "type": "node",
       "request": "launch",
       "env": {
         "CURRENT_MD_FILEPATH": "${relativeFile}",
       },
       "args": [
-        "src/tools/markdown-spell-checker/markdown-spell-checker.ts"
+        "src/tools/markdown-formatter/markdown-formatter.ts"
       ],
       "runtimeArgs": [
         "-r",
