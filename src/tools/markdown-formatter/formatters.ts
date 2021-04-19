@@ -1,10 +1,16 @@
-function mergeSplittedWords(content: string): string {
-  return content.replace(/-\s«|-\n«|-\n/g, '');
-}
+import {
+  applyRuleOnColon,
+  applyRuleOnExclamationPoint,
+  applyRuleOnQuestionMark,
+  applyRuleOnSemicolon,
+  mergeSplittedSentences,
+  mergeSplittedWords,
+  setUpperCaseAfterQuestionMark,
+  splitSentencesAfterClosingQuotationMark,
+  splitSentencesAfterEndPoint,
+  splitSentencesAfterQuestionMark,
+} from '.';
 
-function mergeSplittedLines(content: string): string {
-  return content.replace(/\n«/g, ' ');
-}
 function removeMultipleLineFeeds(content: string): string {
   return content.replace(/\n\n\n/g, '\n\n');
 }
@@ -35,6 +41,23 @@ function setFirstLetterUpperCase(content: string): string {
     .join('\n\n');
 }
 
+function removePageNumbers(content: string): string {
+  return content
+    .split(' ')
+    .map((word) => {
+      if (word && word.match(/[1-9][0-9][0-9]/i)) {
+        return word.replace(/[1-9][0-9][0-9]/i, '');
+      }
+
+      if (word && word.match(/[1-9][0-9]/i)) {
+        return word.replace(/[1-9][0-9]/i, '');
+      }
+
+      return word;
+    })
+    .join(' ');
+}
+
 function removeDuplicatedSpaces(content: string): string {
   let result = content;
   const lenghtBefore = result.length;
@@ -51,39 +74,64 @@ function removeDuplicatedSpaces(content: string): string {
 export function formatContent(content: string): string {
   let result = content;
   [
-    mergeSplittedWords,
-    mergeSplittedLines,
-    (content: string) => content.replace(/«/g, ''),
-    (content: string) => content.replace(/lui dit : /g, 'lui dit :\n\n> '),
-    (content: string) => content.replace(/lui dit: /g, 'lui dit :\n\n> '),
-    (content: string) => content.replace(/lui diras : /g, 'lui diras :\n\n> > '),
-    (content: string) => content.replace(/lui diras: /g, 'lui diras :\n\n> > '),
-    (content: string) => content.replace(/dis-lui: /g, 'dis-lui :\n\n> > '),
-    (content: string) => content.replace(/et\.\s/g, 'et '),
-    (content: string) => content.replace(/Ensuite il/g, 'Ensuite, il'),
     (content: string) => content.replace(/KEI KHOSROU\./g, ''),
+    (content: string) => content.replace(/KEÎ KHOSBOU\./g, ''),
+    (content: string) => content.replace(/KEÏ KHoSRoU\./g, ''),
+    (content: string) => content.replace(/KEl KHOSBOU\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES BOIS\./g, ''),
+    (content: string) => content.replace(/LE LIVRE DES ROIS\./g, ''),
+    (content: string) => content.replace(/aux-devant/g, 'au-devant'),
+    (content: string) => content.replace(/lran/g, 'Iran'),
     (content: string) => content.replace(/Boum/g, 'Roum'),
-    (content: string) => content.replace(/;/g, ' ; '),
-    (content: string) => content.replace(/-\s/g, ''),
-    (content: string) => content.replace(/,\n/g, ', '),
-    (content: string) => content.replace(/et\n/g, 'et '),
-    (content: string) => content.replace(/et \n/g, 'et '),
-    (content: string) => content.replace(/ on\n/g, ' on '),
-    (content: string) => content.replace(/par\n/g, 'par '),
-    (content: string) => content.replace(/des\n/g, 'des '),
-    (content: string) => content.replace(/de\n/g, 'de '),
-    (content: string) => content.replace(/le\n/g, 'le '),
-    (content: string) => content.replace(/avait\n/g, 'avait '),
-    (content: string) => content.replace(/à\n/g, 'à '),
-    (content: string) => content.replace(/[1-9]\n/g, ' '),
-    (content: string) => content.replace(/O /g, 'Ô '),
-    (content: string) => content.replace(/> \n/g, ''),
-    (content: string) => content.replace(/\.\s/g, '.\n\n'),
-    (content: string) => content.replace(/, et/g, ' et'),
-    (content: string) => content.replace(/andessus/g, 'au-dessus'),
-    (content: string) => content.replace(/àtoutes/g, 'à toutes'),
-    (content: string) => content.replace(/; /g, ';\n\n'),
+    (content: string) => content.replace(/Irmanieus/g, 'Irmaniens'),
+    (content: string) => content.replace(/sa tète/g, 'sa tête'),
+    (content: string) => content.replace(/ , /g, ', '),
+    (content: string) => content.replace(/, et /g, ' et '),
+    (content: string) => content.replace(/Ï»/g, '?»'),
+    (content: string) => content.replace(/«/g, ''),
+    (content: string) => content.replace(/«/g, ''),
+    (content: string) => content.replace(/- /g, '-'),
+    (content: string) => content.replace(/ \?n /g, ' ?» '),
+    removePageNumbers,
+    mergeSplittedWords,
+    mergeSplittedSentences,
+    applyRuleOnSemicolon,
+    applyRuleOnColon,
+    applyRuleOnQuestionMark,
+    applyRuleOnExclamationPoint,
+    setUpperCaseAfterQuestionMark,
+    splitSentencesAfterEndPoint,
+    splitSentencesAfterQuestionMark,
+    splitSentencesAfterClosingQuotationMark,
+    (content: string) => content.replace(/ O /g, ' Ô '),
+    (content: string) => content.replace(/ 0 /g, ' Ô '),
+    (content: string) => content.replace(/A quoi/g, 'À quoi'),
+    (content: string) => content.replace(/A la fin/g, 'À la fin'),
+    (content: string) => content.replace(/Alors il /g, 'Alors, il '),
+    (content: string) => content.replace(/Puis il /g, 'Puis, il '),
+
+    // (content: string) => content.replace(/lui dit : /g, 'lui dit :\n\n> '),
+    // (content: string) => content.replace(/lui demanda: /g, 'lui demanda :\n\n> '),
+    // (content: string) => content.replace(/en répétant : /g, 'en répétant :\n\n> '),
+    // (content: string) => content.replace(/disant : /g, 'disant :\n\n> '),
+    // (content: string) => content.replace(/se dit en lui-même: /g, 'se dit en lui-même:\n\n> '),
+    // (content: string) => content.replace(/lui dit: /g, 'lui dit :\n\n> '),
+    // (content: string) => content.replace(/lui diras : /g, 'lui diras :\n\n> > '),
+    // (content: string) => content.replace(/lui diras: /g, 'lui diras :\n\n> > '),
+    // (content: string) => content.replace(/dis-lui: /g, 'dis-lui :\n\n> > '),
+    // (content: string) => content.replace(/: Ô /g, ':\n\n> Ô '),
+    // (content: string) => content.replace(/et\.\s/g, 'et '),
+    // (content: string) => content.replace(/Ensuite il/g, 'Ensuite, il'),
+
+    // (content: string) => content.replace(/> \n/g, ''),
+    // (content: string) => content.replace(/\.\s/g, '.\n\n'),
+    // (content: string) => content.replace(/\.»\s/g, '.»\n\n'),
+    // (content: string) => content.replace(/\?\s/g, '?\n\n'),
+    // (content: string) => content.replace(/, et/g, ' et'),
+    (content: string) => content.replace(/, n /g, ', '),
+    (content: string) => content.replace(/, rr /g, ', '),
+    // (content: string) => content.replace(/A la fin je/g, 'À la fin, je'),
+
     trimLines,
     setFirstLetterUpperCase,
     removeDuplicatedSpaces,
