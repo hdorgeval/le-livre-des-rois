@@ -121,16 +121,11 @@ export function formatContent(content: string): string {
     // (content: string) => content.replace(/dis-lui: /g, 'dis-lui :\n\n> > '),
     // (content: string) => content.replace(/: Ô /g, ':\n\n> Ô '),
     // (content: string) => content.replace(/et\.\s/g, 'et '),
-    // (content: string) => content.replace(/Ensuite il/g, 'Ensuite, il'),
 
     // (content: string) => content.replace(/> \n/g, ''),
-    // (content: string) => content.replace(/\.\s/g, '.\n\n'),
-    // (content: string) => content.replace(/\.»\s/g, '.»\n\n'),
-    // (content: string) => content.replace(/\?\s/g, '?\n\n'),
     // (content: string) => content.replace(/, et/g, ' et'),
     (content: string) => content.replace(/, n /g, ', '),
     (content: string) => content.replace(/, rr /g, ', '),
-    // (content: string) => content.replace(/A la fin je/g, 'À la fin, je'),
 
     trimLines,
     setFirstLetterUpperCase,
