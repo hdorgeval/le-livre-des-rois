@@ -1,4 +1,4 @@
-const wellknownSplitRegex = /-je|-tu|-il|-elle|-nous|-vous|-ils|-elles|-t-|-i-|-à-|-même|au-|-moi|-toi|-lui|-leur|e-le|s-le|z-le|z-la|t-on|très-|est-ce|sont-ce|fût-ce|sur-le-champ|-huit|-vingts|-mère|-père|-ci|-haut|-bas|tout-puissant|petit-fils|celle-là/;
+const wellknownSplitRegex = /-je|-tu$|-il|-elle|-nous|-vous|-ils|-elles|-t-|-i-|-à-|-même|au-|-moi|-toi|-lui|-leur|e-le|s-le|z-le|z-la|t-on|très-|est-ce|sont-ce|fût-ce|sur-le-champ|-huit|-vingts|-mère|-père|-ci|-haut|-bas|tout-puissant|petit-fils|celle-là/;
 
 export function mergeSplittedWords(content: string): string {
   return content

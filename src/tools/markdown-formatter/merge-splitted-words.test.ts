@@ -72,8 +72,9 @@ import { mergeSplittedWords } from '.';
   ['com-battu', 'combattu'],
   ['ren-versés', 'renversés'],
   ['pa-roles', 'paroles'],
+  ['inquié-tude', 'inquiétude'],
 ].forEach((useCase) => {
-  test.only(`Should merge '${useCase[0]}' -> '${useCase[1]}'`, () => {
+  test(`Should merge '${useCase[0]}' -> '${useCase[1]}'`, () => {
     // Given
     const [input, expected] = useCase;
     // When
