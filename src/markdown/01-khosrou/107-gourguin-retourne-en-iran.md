@@ -21,7 +21,7 @@ Alors Gourguin reconnut que Bijen était perdu et qu’il ne reviendrait plus da
 
 Il laissa tomber son lacet et détourna la tête ; il se repentait de son crime et souhaitait revoir son compagnon.
 
-Il emmena de la prairie le cheval de Bijen, le conduisit à sa tente et s’y arrêta un jour ; ensuite il se dirigea vers le pays d’Iran en se faisant des reproches ; mais comme il ne pouvait percer le secret de l’avenir, il resta nuit et jour sans dormir et sans manger et en répétant : ce Quand je serai arrivé, que dirai-je ?
+Il emmena de la prairie le cheval de Bijen, le conduisit à sa tente et s’y arrêta un jour ; ensuite il se dirigea vers le pays d’Iran en se faisant des reproches ; mais comme il ne pouvait percer le secret de l’avenir, il resta nuit et jour sans dormir et sans manger et en répétant : Quand je serai arrivé, que dirai-je ?
 
 Comment oserai-je re garder le visage du roi ?»
 
