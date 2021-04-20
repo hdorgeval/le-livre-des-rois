@@ -53,13 +53,13 @@ Puis, il dit : Ô créateur du ciel, e : tu as mis dans mon cœur de la raison e
 
 Puisque mon fils m’est enlevé, je désire que r tu brises les liens de ma vie et que tu portes mon âme dans le séjour des bons ; car tu connais les douleurs de mon cœur.
 
-Je n’avais dans le monde qu’un seul fils, qui était pour moi un consolateur et un soutien ; maintenant le malheur me l’a ravi, et je me trouve dans la gueule du dragon.»
+Je n’avais dans le monde qu’un seul fils, qui était pour moi un consolateur et un soutien ; maintenant le malheur me l’a ravi et je me trouve dans la gueule du dragon.»
 
 Ensuite il se retourna vers Gourguin et lui demanda : Que s’est-il passé depuis votre départ ?
 
 Le sort l’a-t-il enlevé tout à coup, ou l’as-tu seulement perdu de vue ?
 
-Dis-moi quel malheur lui est arrivé, et qui l’a chargé des chaînes que le ciel lui avait destinées ?
+Dis-moi quel malheur lui est arrivé et qui l’a chargé des chaînes que le ciel lui avait destinées ?
 
 Quel Div s’est élancé sur lui dans la prairie, a mis fin à sa vie et l’a anéanti ?
 
