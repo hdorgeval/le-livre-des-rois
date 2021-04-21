@@ -1,5 +1,5 @@
 import 'jest';
-import { splitSentencesAfterQuestionMarkAndLineFeed } from '.';
+import { applyRuleOnQuestionMark, splitSentencesAfterQuestionMarkAndLineFeed } from '.';
 
 [
   ['monde?\n0 maître', 'monde?\n\n0 maître'],
@@ -11,6 +11,22 @@ import { splitSentencesAfterQuestionMarkAndLineFeed } from '.';
 
     // When
     const result = splitSentencesAfterQuestionMarkAndLineFeed(input);
+
+    // Then
+    expect(result).toBe(expected);
+  });
+});
+
+[
+  ['monde?\n0 maître', 'monde?\n\n0 maître'],
+  ['monde?\n\n0 maître', 'monde?\n\n0 maître'],
+].forEach((useCase, index) => {
+  test(`Should apply rule '${index}'`, () => {
+    // Given
+    const [input, expected] = useCase;
+
+    // When
+    const result = applyRuleOnQuestionMark(input);
 
     // Then
     expect(result).toBe(expected);

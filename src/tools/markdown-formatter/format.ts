@@ -32,6 +32,7 @@ export function formatContent(content: string): string {
   [
     (content: string) => content.replace(/KEI KHOSROU\./g, ''),
     (content: string) => content.replace(/KEÎ KHOSBOU\./g, ''),
+    (content: string) => content.replace(/KEI KHOSBOU\./g, ''),
     (content: string) => content.replace(/KEÏ KHoSRoU\./g, ''),
     (content: string) => content.replace(/KEl KHOSBOU\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES BOIS\./g, ''),

@@ -71,7 +71,7 @@ function takeLastTenWordsOf(content: string) {
   return words.filter((_word, index) => index > numberOfWords - 10).join(' ');
 }
 
-const startOfQuotationRegex = /en répétant|se disant|et disant|se dit en lui-même|il demanda à|lui demanda|Puis, il dit|Puis il dit|il se dit|il dit à|lui dit|répondit/i;
+const startOfQuotationRegex = /en répétant|en disant|se disant|et disant|se dit en lui-même|il demanda à|lui demanda|Puis, il dit|Puis il dit|il se dit|il dit à|lui dit|répondit/i;
 function isHintForStartOfQuotation(content: string): boolean {
   if (!content) {
     return false;

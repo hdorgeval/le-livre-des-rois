@@ -6,7 +6,9 @@ export function applyRuleOnQuestionMark(content: string): string {
       if (word && word.length > 1 && word.endsWith('?')) {
         return word.replace('?', ' ?');
       }
-
+      if (word && word.length > 1 && word.includes('?\n\n')) {
+        return word.replace('?', ' ?');
+      }
       return word;
     })
     .join(' ')
