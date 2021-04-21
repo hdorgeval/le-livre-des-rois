@@ -5,6 +5,10 @@ import {
   applyRuleOnSemicolon,
   mergeSplittedSentences,
   mergeSplittedWords,
+  removeDuplicatedSpaces,
+  removeMultipleLineFeeds,
+  removePageNumbers,
+  setFirstLetterUpperCase,
   setUpperCaseAfterExclamationPoint,
   setUpperCaseAfterQuestionMark,
   splitSentencesAfterClosingQuotationMark,
@@ -16,64 +20,11 @@ import {
   splitSentencesOnStartOfQuotationMark,
 } from '.';
 
-function removeMultipleLineFeeds(content: string): string {
-  return content.replace(/\n\n\n/g, '\n\n');
-}
-
 function trimLines(content: string): string {
   return content
     .split('\n\n')
     .map((line, index) => (index > 1 ? line.trim() : line))
     .join('\n\n');
-}
-
-function setFirstLetterUpperCase(content: string): string {
-  return content
-    .split('\n\n')
-    .map((line) => {
-      const words = line.split(' ');
-      const firstWord = words[0];
-      const lettersInFirstWord = [...firstWord];
-      const firstLetter = lettersInFirstWord[0];
-      if (firstLetter && firstLetter.match(/[a-z]/g)) {
-        lettersInFirstWord[0] = firstLetter.toUpperCase();
-        const fixedWord = lettersInFirstWord.join('');
-        words[0] = fixedWord;
-        return words.join(' ');
-      }
-      return line;
-    })
-    .join('\n\n');
-}
-
-function removePageNumbers(content: string): string {
-  return content
-    .split(' ')
-    .map((word) => {
-      if (word && word.match(/[1-9][0-9][0-9]/i)) {
-        return word.replace(/[1-9][0-9][0-9]/i, '');
-      }
-
-      if (word && word.match(/[1-9][0-9]/i)) {
-        return word.replace(/[1-9][0-9]/i, '');
-      }
-
-      return word;
-    })
-    .join(' ');
-}
-
-function removeDuplicatedSpaces(content: string): string {
-  let result = content;
-  const lenghtBefore = result.length;
-  for (let index = 0; index < 1000; index++) {
-    result = result.replace('  ', ' ');
-    const lengthAfter = result.length;
-    if (lenghtBefore === lengthAfter) {
-      break;
-    }
-  }
-  return result;
 }
 
 export function formatContent(content: string): string {
@@ -93,6 +44,7 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/sa tète/g, 'sa tête'),
     (content: string) => content.replace(/ , /g, ', '),
     (content: string) => content.replace(/, et /g, ' et '),
+    (content: string) => content.replace(/Î?/g, '?'),
     (content: string) => content.replace(/Ï»/g, '?»'),
     (content: string) => content.replace(/«/g, ''),
     (content: string) => content.replace(/«/g, ''),
@@ -121,20 +73,10 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/Alors il /g, 'Alors, il '),
     (content: string) => content.replace(/Puis il /g, 'Puis, il '),
 
-    // (content: string) => content.replace(/lui dit : /g, 'lui dit :\n\n> '),
-    // (content: string) => content.replace(/lui demanda: /g, 'lui demanda :\n\n> '),
-    // (content: string) => content.replace(/en répétant : /g, 'en répétant :\n\n> '),
-    // (content: string) => content.replace(/disant : /g, 'disant :\n\n> '),
-    // (content: string) => content.replace(/se dit en lui-même: /g, 'se dit en lui-même:\n\n> '),
-    // (content: string) => content.replace(/lui dit: /g, 'lui dit :\n\n> '),
     // (content: string) => content.replace(/lui diras : /g, 'lui diras :\n\n> > '),
     // (content: string) => content.replace(/lui diras: /g, 'lui diras :\n\n> > '),
     // (content: string) => content.replace(/dis-lui: /g, 'dis-lui :\n\n> > '),
-    // (content: string) => content.replace(/: Ô /g, ':\n\n> Ô '),
-    // (content: string) => content.replace(/et\.\s/g, 'et '),
 
-    // (content: string) => content.replace(/> \n/g, ''),
-    // (content: string) => content.replace(/, et/g, ' et'),
     (content: string) => content.replace(/, n /g, ', '),
     (content: string) => content.replace(/, rr /g, ', '),
 

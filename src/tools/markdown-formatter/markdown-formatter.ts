@@ -1,4 +1,4 @@
-import { formatContent } from './formatters';
+import { formatContent } from './format';
 import { readFileSync, writeFileSync } from 'fs';
 
 const filepath = process.env['CURRENT_MD_FILEPATH'] || '';
