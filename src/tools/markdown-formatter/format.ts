@@ -44,7 +44,7 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/sa tète/g, 'sa tête'),
     (content: string) => content.replace(/ , /g, ', '),
     (content: string) => content.replace(/, et /g, ' et '),
-    (content: string) => content.replace(/Î?/g, '?'),
+    (content: string) => content.replace(/Î\?/g, '?'),
     (content: string) => content.replace(/Ï»/g, '?»'),
     (content: string) => content.replace(/«/g, ''),
     (content: string) => content.replace(/«/g, ''),
