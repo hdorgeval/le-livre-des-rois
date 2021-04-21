@@ -21,7 +21,9 @@ Alors Gourguin reconnut que Bijen était perdu et qu’il ne reviendrait plus da
 
 Il laissa tomber son lacet et détourna la tête ; il se repentait de son crime et souhaitait revoir son compagnon.
 
-Il emmena de la prairie le cheval de Bijen, le conduisit à sa tente et s’y arrêta un jour ; ensuite il se dirigea vers le pays d’Iran en se faisant des reproches ; mais comme il ne pouvait percer le secret de l’avenir, il resta nuit et jour sans dormir et sans manger et en répétant : Quand je serai arrivé, que dirai-je ?
+Il emmena de la prairie le cheval de Bijen, le conduisit à sa tente et s’y arrêta un jour ; ensuite il se dirigea vers le pays d’Iran en se faisant des reproches ; mais comme il ne pouvait percer le secret de l’avenir, il resta nuit et jour sans dormir et sans manger et en répétant :
+
+> Quand je serai arrivé, que dirai-je ?
 
 Comment oserai-je re garder le visage du roi ?»
 
@@ -29,7 +31,9 @@ Le roi ayant appris que Gourguin arrivait, mais sans être accompagné de Bijen,
 
 Mais Guiv reçut en même temps que lui la nouvelle que Bijen son vaillant fils avait disparu.
 
-Il sortit de son palais et courut dans la rue le cœur blessé, le visage inondé de larmes et disant : Bijen ne viendra-t-il donc pas ?
+Il sortit de son palais et courut dans la rue le cœur blessé, le visage inondé de larmes et disant :
+
+> Bijen ne viendra-t-il donc pas ?
 
 Je ne sais pourquoi il reste chez les Irmaniens.»
 
@@ -37,11 +41,15 @@ Il ordonna qu’on mît la selle de peau de léopard au destrier de Keschwad, do
 
 Guiv, le cœur rempli de rage comme un crocodile, monta à l’instant à cheval et partit connue le vent pour aller à la rencontre de Gourguin et pour lui demander où était resté Bijen et ce qui s’était passé.
 
-Il se dit en lui-même : Je crains que Gourguin n’ait commis un crime à l’improviste et secrètement ; et si je le vois arriver sans mon fils Bijen, je lui trancherai aussitôt la tête.»
+Il se dit en lui-même :
+
+> Je crains que Gourguin n’ait commis un crime à l’improviste et secrètement ; et si je le vois arriver sans mon fils Bijen, je lui trancherai aussitôt la tête.»
 
 Lorsque Gourguin le vit s’approcher, il mit pied à terre et courut au-devant de lui ; il se roula dans la poussière tête nue et déchirant ses joues avec ses ongles.
 
-Ensuite il demanda à Guiv : Ô élu des hérrros, chef de l’armée de l’Iran, gardien du trône, pourquoi es-tu venu au-devant de moi ?
+Ensuite il demanda à Guiv :
+
+> Ô élu des hérrros, chef de l’armée de l’Iran, gardien du trône, pourquoi es-tu venu au-devant de moi ?
 
 Pourquoi es-tu venu les yeux remplis de sang ?
 
@@ -49,13 +57,17 @@ Mon pauvre cœur était déjà assez affligé et maintenant il va être encore p
 
 Mais ne sois pas inquiet, car il est en vie et je vais t’indiquer ses tracesm Quand Guiv vit le cheval de son fils conduit par Gourguin, couvert de poussière et trébuchant comme s’il était ivre, quand son oreille fut frappée des paroles de Gourguin, il tomba de cheval et perdit la raison ; il enfonça sa tête dans la poussière, déchira ses vêtements de Pehlewan, s’arracha les cheveux et la barbe et répandit de la poussière sur sa tête en poussant des cris.
 
-Puis, il dit : Ô créateur du ciel, e : tu as mis dans mon cœur de la raison et de la tenrr dresse.
+Puis, il dit :
+
+> Ô créateur du ciel, e : tu as mis dans mon cœur de la raison et de la tenrr dresse.
 
 Puisque mon fils m’est enlevé, je désire que r tu brises les liens de ma vie et que tu portes mon âme dans le séjour des bons ; car tu connais les douleurs de mon cœur.
 
 Je n’avais dans le monde qu’un seul fils, qui était pour moi un consolateur et un soutien ; maintenant le malheur me l’a ravi et je me trouve dans la gueule du dragon.»
 
-Ensuite il se retourna vers Gourguin et lui demanda : Que s’est-il passé depuis votre départ ?
+Ensuite il se retourna vers Gourguin et lui demanda :
+
+> Que s’est-il passé depuis votre départ ?
 
 Le sort l’a-t-il enlevé tout à coup, ou l’as-tu seulement perdu de vue ?
 
@@ -65,11 +77,15 @@ Quel Div s’est élancé sur lui dans la prairie, a mis fin à sa vie et l’a 
 
 O brave, comment as-tu trouvé ce cheval et quand t’es-tu séparé de Bijen ?»
 
-Gourguin répondit : Reprends les sens, écoute mes paroles et ouvre l’oreille.
+Gourguin répondit :
+
+> Reprends tes sens, écoute mes paroles et ouvre l’oreille.
 
 Apprends, ô Pehlewan et sache ce qui est arrivé et ce que nous avons fait et comment nous avons combattu les sangliers dans la forêt.
 
-Puisses-tu rendre brillant à jamais le trône du roi ! Nous sommes partis d’ici pour aller combattre les sangliers dans la forêt.
+Puisses-tu rendre brillant à jamais le trône du roi !
+
+Nous sommes partis d’ici pour aller combattre les sangliers dans la forêt.
 
 Arrivés chez les Irmaniens, nous avons vu une forêt nue comme un désert ; les arbres en avaient été coupés et c’était devenu une prairie ; on ne voyait que tanières de sangliers ; tout le pays en était dans la désolation.
 
@@ -97,7 +113,9 @@ En entendant ce discours artificieux, Guiv sentit que tout était fini ; il vit 
 
 Lorsque Guiv reconnut que son fils avait disparu, quand il comprit combien Gourguin lui en imposait, Ahriman ébranla son cœur et lui donna envie de fouler aux pieds ce brave, pour se venger sur lui de la mort de son fils chéri, dût-il se déshonorer par cet acte.
 
-Mais il se mit à penser et à réfléchir ; il ne vit pas jour à cette affaire et il se dit : À quoi me servira ce meurtre, si ce n’est à faire la volonté de l’infâme Ahriman ?
+Mais il se mit à penser et à réfléchir ; il ne vit pas jour à cette affaire et il se dit :
+
+> À quoi me servira ce meurtre, si ce n’est à faire la volonté de l’infâme Ahriman ?
 
 De quelle utilité pourrait être à Bijen la mort de Gourguin ?
 
@@ -107,7 +125,9 @@ Il me serait facile de me venger, car il n’y a pas de muraille devant ma lance
 
 Al:
 
-Alors, il dit à Gourguin d’une voix de tonnerre : Ô vil et méchant homme, souillé de crimes, lu m’as enlevé mon soleil et ma lune, mon fils, l’élu des cavaliers et mon roi.
+Alors, il dit à Gourguin d’une voix de tonnerre :
+
+> Ô vil et méchant homme, souillé de crimes, lu m’as enlevé mon soleil et ma lune, mon fils, l’élu des cavaliers et mon roi.
 
 Tu m’as jeté dans l’angoisse, tu me forces de faire le tour du monde pour chercher un remède à mon malheur.
 
