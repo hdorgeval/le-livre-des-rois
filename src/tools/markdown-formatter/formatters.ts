@@ -13,6 +13,7 @@ import {
   splitSentencesAfterExclamationPointAndLineFeed,
   splitSentencesAfterQuestionMark,
   splitSentencesAfterQuestionMarkAndLineFeed,
+  splitSentencesOnStartOfQuotationMark,
 } from '.';
 
 function removeMultipleLineFeeds(content: string): string {
@@ -112,6 +113,7 @@ export function formatContent(content: string): string {
     splitSentencesAfterExclamationPoint,
     splitSentencesAfterExclamationPointAndLineFeed,
     splitSentencesAfterClosingQuotationMark,
+    splitSentencesOnStartOfQuotationMark,
     (content: string) => content.replace(/ O /g, ' Ô '),
     (content: string) => content.replace(/ 0 /g, ' Ô '),
     (content: string) => content.replace(/A quoi/g, 'À quoi'),
