@@ -11,26 +11,32 @@ order: '108'
 
 Guiv se dirigea vers le palais du roi, les yeux remplis de larmes de sang, le cœur plein du désir de la vengeance.
 
-Il salua Khosrou en disant : ce Ô roi, puisse le bonheur être éternellement ton lot dans ce monde!
+Il salua Khosrou en disant :
 
-0 maître fortuné de la terre, toi dont l’étoile est heureuse, ne sais-tu pas ce que m’a fait Gourguin?
+> ce Ô roi, puisse le bonheur être éternellement ton lot dans ce monde !
+
+0 maître fortuné de la terre, toi dont l’étoile est heureuse, ne sais-tu pas ce que m’a fait Gourguin ?
 
 Je n’avais au monde qu’un fils, un jeune homme pour la vie duquel je tremblais jour et nuit ; je me consumais dans la crainte de le perdre, je versais r2 des larmes de peur d’être séparé de lui.
 
 Maintenant.
 ô roi, Gourguin revient la bouche pleine de récits insensés, l’âme chargée de crimes ; il apporte de v mauvaises nouvelles de cet enfant, qui est. un prince glorieux et mon Destour.
 
-Il ramène un cheval qui traîne par terre sa selle et voilà tout ce qu’il rap- porte de Bijen.
+Il ramène un cheval qui traîne par terre sa selle et voilà tout ce qu’il rapporte de Bijen.
 
-Si le roi veut arriver à la vérité dans cette affaire, qu’il y jette son regard pénétrant, et qu’il me venge de Gourguin, qui a rempli ma vie d’amertume.n Le roi fut affligé de la douleur de Guiv, il se troubla et ôta de sa tête son glorieux diadème.
+Si le roi veut arriver à la vérité dans cette affaire, qu’il y jette son regard pénétrant et qu’il me venge de Gourguin, qui a rempli ma vie d’amertume.n Le roi fut affligé de la douleur de Guiv, il se troubla et ôta de sa tête son glorieux diadème.
 
-Il restait sur son trône les joues pâles, le cœur serré par ses inquiétudes sur le sort de Bijen et il dit à Guiv : Qu’a dit Gourguin ?
+Il restait sur son trône les joues pâles, le cœur serré par ses inquiétudes sur le sort de Bijen et il dit à Guiv :
 
-Où dit-il qu’il a laissé son vertueux compagnon Î?»
+> Qu’a dit Gourguin ?
+
+Où dit-il qu’il a laissé son vertueux compagnon ?»
 
 Guiv répéta alors à Khosrou ce que Gourguin lui avait conté de son noble fils.
 
-Khosrou écouta Guiv et lui répondit : Ne te tourmente pas ; sois sûr que Bijen vit encore et ne désespère pas de ton fils qui a disparu.
+Khosrou écouta Guiv et lui répondit :
+
+> Ne te tourmente pas ; sois sûr que Bijen vit encore et ne désespère pas de ton fils qui a disparu.
 
 Il a été convenu entre moi et les Mobeds, les illustres sages à l’esprit Vigilant, que je partirais sans délai avec les cavaliers de l’Iran pour livrer bataille aux Touraniens ; je mettrai en marche mon armée pour venger Siawusch ; je dévasterai le Touran avec mes éléphants et Bijen paraîtra sur le champ de bataille et combattra avec nous comme un Ahriman.
 
@@ -40,11 +46,13 @@ Guiv se retira le cœur plein de soucis et de douleur, les joues pâles, les yeu
 
 Lorsque Gourguin arriva en présence du roi, il trouva que les héros avaient quitté la cour de Khosrou ; car dans leurs inquiétudes sur le sort de Bijen, Ml.
 
-7.  tous les Pehlewans avaient suivi Guiv en pleurant.
+7. tous les Pehlewans avaient suivi Guiv en pleurant.
 
 Il franchit la porte du palais et s’avança jusqu’auprès i du roi ; son âme méchante était remplie de honte. l Arrivé en face de Khosrou, il baisa la terre et invoqua Ies grâces de Dieu sur lui.
 
-Il plaça devant le trône les dents des sangliers dures comme le diamant et salua le roi en disant : Puisses-tu être victorieux dans toutes les batailles !
+Il plaça devant le trône les dents des sangliers dures comme le diamant et salua le roi en disant :
+
+> Puisses-tu être victorieux dans toutes les batailles !
 
 Puisse chaque jour être pour toi un jour de Nourouz !
 
@@ -52,7 +60,9 @@ Puisses-tu être heureux à jamaisl puisses-tu rester libre de soucis et d’inq
 
 Puissent les têtes de tes ennemis tomber sous les ciseaux de la mort et être tranchées comme les têtes de ces sangliers!»
 
-Le roi regarda ces dents, ensuite il lui demanda : Comment s’est passé ton voyage ?
+Le roi regarda ces dents, ensuite il lui demanda :
+
+> Comment s’est passé ton voyage ?
 
 Dans quel endroit Bijen s’est-il séparé de toi et quel mal Ahriman lui a-t-il fait ?
 
@@ -64,9 +74,9 @@ A ces paroles de Khosrou, Gourguin resta debout, tout troublé et confondu, la l
 
 Mais comme ses discours se contredisaient, le roi entra en fureur et le chassa d’auprès du trône.
 
-Il voyait que sa tête se troublait, il voyait que c’était un méchant homme et il se mit à l’injurier en disant : N’as-tu pas entendu de la bouche
+Il voyait que sa tête se troublait, il voyait que c’était un méchant homme et il se mit à l’injurier en disant :
 
-KEI KHOSBOU. du Destan ce vieux dicton, qu’un lion qui lutte contre .la vengeance de la’famille de Gouderz périt infailliblement ?
+> N’as-tu pas entendu de la bouche du Destan ce vieux dicton, qu’un lion qui lutte contre .la vengeance de la’famille de Gouderz périt infailliblement ?
 
 Si tu n’étais pas si malfamé, si Dieu ne te réservait une fin misérable, je voudrais qu’Ahriman t’arrachât la tête comme on l’arrache à un oiseau.»
 
