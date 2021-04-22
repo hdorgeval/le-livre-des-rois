@@ -8,7 +8,7 @@ export const KhosrouCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/01-khosrou/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/02-khosrou/**/*.md" } }
       ) {
         totalCount
         edges {
