@@ -40,6 +40,7 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/KEÏ KHOSROU\./g, ''),
     (content: string) => content.replace(/KEl KHOSBOU\./g, ''),
     (content: string) => content.replace(/KEI KHUSBOU\./g, ''),
+    (content: string) => content.replace(/KEÏ KAOUS\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES BOIS\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES ROIS\./g, ''),
     (content: string) => content.replace(/aux-devant/g, 'au-devant'),
