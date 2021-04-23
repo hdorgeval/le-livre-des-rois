@@ -30,7 +30,7 @@ export async function formatEpisodeAndCommit(filepath: string): Promise<void> {
     if (unstagedFile.includes(formattedFilename)) {
       const filename = unstagedFile.split(path.sep).pop();
       const episodeNumber = Number(filename?.substring(0, 3));
-      const commitMessage = `feat(${reign}): add episode n° ${episodeNumber}`;
+      const commitMessage = `feat(${reign}): format episode n° ${episodeNumber}`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
