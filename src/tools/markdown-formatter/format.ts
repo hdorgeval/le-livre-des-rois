@@ -1,6 +1,7 @@
 import {
   applyRuleOnColon,
   applyRuleOnExclamationPoint,
+  applyRuleOnLastLine,
   applyRuleOnQuestionMark,
   applyRuleOnSemicolon,
   mergeSplittedSentences,
@@ -11,6 +12,7 @@ import {
   setFirstLetterUpperCase,
   setUpperCaseAfterExclamationPoint,
   setUpperCaseAfterQuestionMark,
+  spanQuotationMark,
   splitSentencesAfterClosingQuotationMark,
   splitSentencesAfterEndPoint,
   splitSentencesAfterExclamationPoint,
@@ -67,6 +69,7 @@ export function formatContent(content: string): string {
     splitSentencesAfterExclamationPointAndLineFeed,
     splitSentencesAfterClosingQuotationMark,
     splitSentencesOnStartOfQuotationMark,
+    spanQuotationMark,
     (content: string) => content.replace(/ O /g, ' Ô '),
     (content: string) => content.replace(/ 0 /g, ' Ô '),
     (content: string) => content.replace(/A quoi/g, 'À quoi'),
@@ -85,6 +88,7 @@ export function formatContent(content: string): string {
     setFirstLetterUpperCase,
     removeDuplicatedSpaces,
     removeMultipleLineFeeds,
+    applyRuleOnLastLine,
   ].forEach((format) => {
     result = format(result);
   });

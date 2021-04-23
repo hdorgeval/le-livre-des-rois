@@ -83,3 +83,33 @@ function isHintForStartOfQuotation(content: string): boolean {
 
   return false;
 }
+
+export function spanQuotationMark(content: string): string {
+  return content
+    .replace(/ {2}/g, ' ')
+    .split('»')
+    .map((sentence, index) => {
+      if (index % 1 === 0) {
+        return addQuotationMarker(sentence);
+      }
+      return sentence;
+    })
+    .join('»');
+}
+
+function addQuotationMarker(content: string) {
+  const blocs = content.split('\n\n> ');
+  const lastIndex = blocs.length - 1;
+  if (lastIndex <= 0) {
+    return content;
+  }
+
+  return blocs
+    .map((sentence, index) => {
+      if (index !== lastIndex) {
+        return sentence;
+      }
+      return sentence.replace(/\n\n/g, '\n>\n> ');
+    })
+    .join('\n\n> ');
+}

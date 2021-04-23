@@ -2,6 +2,7 @@ export * from './apply-rule-on-colon';
 export * from './apply-rule-on-end-point';
 export * from './apply-rule-on-exclamation-point';
 export * from './apply-rule-on-first-letter';
+export * from './apply-rule-on-last-line';
 export * from './apply-rule-on-question-mark';
 export * from './apply-rule-on-quotation-mark';
 export * from './apply-rule-on-semicolon';
