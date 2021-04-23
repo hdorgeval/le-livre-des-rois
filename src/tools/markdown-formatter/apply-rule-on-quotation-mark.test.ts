@@ -49,6 +49,7 @@ import { splitSentencesOnStartOfQuotationMark } from '.';
     'Alors, il dit à Gourguin d’une voix de tonnerre : Ô vil et méchant homme',
     'Alors, il dit à Gourguin d’une voix de tonnerre :\n\n> Ô vil et méchant homme',
   ],
+  ['Puis, il dit : \n\n> Ô créateur du ciel', 'Puis, il dit :\n\n> Ô créateur du ciel'],
 ].forEach((useCase, index) => {
   test(`Should split '${index}'`, () => {
     // Given

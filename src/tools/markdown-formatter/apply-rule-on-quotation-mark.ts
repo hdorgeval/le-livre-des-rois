@@ -49,7 +49,8 @@ export function splitSentencesOnStartOfQuotationMark(content: string): string {
 
       const lastTenWords = takeLastTenWordsOf(previousSentence);
       const isStartOfQuotation = isHintForStartOfQuotation(lastTenWords);
-      if (sentence && sentence.startsWith(' ') && isStartOfQuotation) {
+      const hasNotAlreadyBeenSplitted = !sentence.trim().startsWith('> ');
+      if (sentence && sentence.startsWith(' ') && isStartOfQuotation && hasNotAlreadyBeenSplitted) {
         previousSentence = sentence;
         return `\n\n> ${sentence.trimLeft()}`;
       }
@@ -71,7 +72,7 @@ function takeLastTenWordsOf(content: string) {
   return words.filter((_word, index) => index > numberOfWords - 10).join(' ');
 }
 
-const startOfQuotationRegex = /en répétant|en disant|se disant|et disant|et ajouta|se dit en lui-même|il demanda à|lui demanda|Puis, il dit|Ensuite il dit|Ensuite, il dit|Puis il dit|il se dit|il dit à|Le roi dit à|il dit aux|lui dit|leur dit|répondit|ils s’écrièrent/i;
+const startOfQuotationRegex = /en répétant|en disant|se disant|et disant|et ajouta|se dit en lui-même|dit en se|il demanda à|lui demanda|Puis, il dit|Ensuite il dit|Ensuite, il dit|et il dit|Puis il dit|il se dit|il dit à|Le roi dit à|il dit aux|lui dit|leur dit|répondit|ils s’écrièrent|ajouta en s’adressant/i;
 function isHintForStartOfQuotation(content: string): boolean {
   if (!content) {
     return false;

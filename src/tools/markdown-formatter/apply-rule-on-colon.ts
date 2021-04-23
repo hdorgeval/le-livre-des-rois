@@ -7,6 +7,10 @@ export function applyRuleOnColon(content: string): string {
         return word.replace(':', ' :');
       }
 
+      if (word && word.length > 1 && word.includes(':')) {
+        return word.replace(':', ' : ');
+      }
+
       return word;
     })
     .join(' ')
