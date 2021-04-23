@@ -29,18 +29,18 @@ Si le roi veut arriver à la vérité dans cette affaire, qu’il y jette son re
 Il restait sur son trône les joues pâles, le cœur serré par ses inquiétudes sur le sort de Bijen et il dit à Guiv :
 
 > Qu’a dit Gourguin ?
-
-Où dit-il qu’il a laissé son vertueux compagnon ?»
+>
+> Où dit-il qu’il a laissé son vertueux compagnon ?»
 
 Guiv répéta alors à Khosrou ce que Gourguin lui avait conté de son noble fils.
 
 Khosrou écouta Guiv et lui répondit :
 
 > Ne te tourmente pas ; sois sûr que Bijen vit encore et ne désespère pas de ton fils qui a disparu.
-
-Il a été convenu entre moi et les Mobeds, les illustres sages à l’esprit Vigilant, que je partirais sans délai avec les cavaliers de l’Iran pour livrer bataille aux Touraniens ; je mettrai en marche mon armée pour venger Siawusch ; je dévasterai le Touran avec mes éléphants et Bijen paraîtra sur le champ de bataille et combattra avec nous comme un Ahriman.
-
-Va donc et ne t’afilige pas de cette affaire ; car je désire autant que toi revoir Bijen.»
+>
+> Il a été convenu entre moi et les Mobeds, les illustres sages à l’esprit Vigilant, que je partirais sans délai avec les cavaliers de l’Iran pour livrer bataille aux Touraniens ; je mettrai en marche mon armée pour venger Siawusch ; je dévasterai le Touran avec mes éléphants et Bijen paraîtra sur le champ de bataille et combattra avec nous comme un Ahriman.
+>
+> Va donc et ne t’afilige pas de cette affaire ; car je désire autant que toi revoir Bijen.»
 
 Guiv se retira le cœur plein de soucis et de douleur, les joues pâles, les yeux remplis de sang.
 
@@ -53,22 +53,22 @@ Il franchit la porte du palais et s’avança jusqu’auprès i du roi ; son âm
 Il plaça devant le trône les dents des sangliers dures comme le diamant et salua le roi en disant :
 
 > Puisses-tu être victorieux dans toutes les batailles !
-
-Puisse chaque jour être pour toi un jour de Nourouz !
-
-Puisses-tu être heureux à jamaisl puisses-tu rester libre de soucis et d’inquiétude !
-
-Puissent les têtes de tes ennemis tomber sous les ciseaux de la mort et être tranchées comme les têtes de ces sangliers!»
+>
+> Puisse chaque jour être pour toi un jour de Nourouz !
+>
+> Puisses-tu être heureux à jamaisl puisses-tu rester libre de soucis et d’inquiétude !
+>
+> Puissent les têtes de tes ennemis tomber sous les ciseaux de la mort et être tranchées comme les têtes de ces sangliers!»
 
 Le roi regarda ces dents, ensuite il lui demanda :
 
 > Comment s’est passé ton voyage ?
-
-Dans quel endroit Bijen s’est-il séparé de toi et quel mal Ahriman lui a-t-il fait ?
-
-Comment se fait-il qu’il t’ait quitté ?
-
-Dis-Ie-moi si tu veux échapper à ta perte.»
+>
+> Dans quel endroit Bijen s’est-il séparé de toi et quel mal Ahriman lui a-t-il fait ?
+>
+> Comment se fait-il qu’il t’ait quitté ?
+>
+> Dis-Ie-moi si tu veux échapper à ta perte.»
 
 A ces paroles de Khosrou, Gourguin resta debout, tout troublé et confondu, la langue’ embarrassée, le cœur rempli de la conscience de son crime, les joues pâles, le corps tremblant par la crainte du roi ; à la fin il parla vaguemenl d’une forêt, d’un onagre et d’une prairie.
 
@@ -77,8 +77,8 @@ Mais comme ses discours se contredisaient, le roi entra en fureur et le chassa d
 Il voyait que sa tête se troublait, il voyait que c’était un méchant homme et il se mit à l’injurier en disant :
 
 > N’as-tu pas entendu de la bouche du Destan ce vieux dicton, qu’un lion qui lutte contre .la vengeance de la’famille de Gouderz périt infailliblement ?
-
-Si tu n’étais pas si malfamé, si Dieu ne te réservait une fin misérable, je voudrais qu’Ahriman t’arrachât la tête comme on l’arrache à un oiseau.»
+>
+> Si tu n’étais pas si malfamé, si Dieu ne te réservait une fin misérable, je voudrais qu’Ahriman t’arrachât la tête comme on l’arrache à un oiseau.»
 
 I Khosrou ordonna à un forgeron de préparer une lourde chaîne avec des clous pour la river et lui fit mettre à l’instant même des fers aux pieds, pour que ce méchant apprît dans les chaînes à réfléchir.
 
