@@ -21,6 +21,7 @@ import {
   splitSentencesAfterQuestionMarkAndLineFeed,
   splitSentencesOnStartOfQuotationMark,
 } from '.';
+import { readFileSync, writeFileSync } from 'fs';
 
 function trimLines(content: string): string {
   return content
@@ -93,4 +94,14 @@ export function formatContent(content: string): string {
     result = format(result);
   });
   return result;
+}
+
+export function formatMarkdown(filepath: string): void {
+  const content = readFileSync(filepath).toString();
+  const parts = content.split('#');
+  const markdown = parts[1];
+
+  const newMarkdown = formatContent(markdown);
+  const newContent = `${parts[0]}#${newMarkdown}`;
+  writeFileSync(filepath, newContent);
 }
