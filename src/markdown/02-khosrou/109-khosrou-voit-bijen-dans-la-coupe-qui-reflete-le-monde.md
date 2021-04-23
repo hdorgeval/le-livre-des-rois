@@ -19,7 +19,7 @@ Il éleva la voix devant le Créateur du monde, il invoqua longtemps ses grâces
 
 Ensuite il revint dans son palais, couvrit sa tête du diadème fortuné, prit dans sa main la coupe et regarda dedans.
 
-Il y vit les sept Kischwers ; il y vit révélés les actions et les desseins du ciel sublime, et leur nature, leurs motifs et leur étendue ; il y vit réfléchie l’image du monde entier, depuis le signe des Poissons jusqu’à celui du Bélier ; il y vit Saturne et Mars, Jupiter et le Lion, Vénus et Mercure en haut et la lune au-dessous.
+Il y vit les sept Kischwers ; il y vit révélés les actions et les desseins du ciel sublime et leur nature, leurs motifs et leur étendue ; il y vit réfléchie l’image du monde entier, depuis le signe des Poissons jusqu’à celui du Bélier ; il y vit Saturne et Mars, Jupiter et le Lion, Vénus et Mercure en haut et la lune au-dessous.
 
 C’est ainsi que le maître du monde, à l’aide de son art magique, observa dans la coupe tout l’avenir.
 
