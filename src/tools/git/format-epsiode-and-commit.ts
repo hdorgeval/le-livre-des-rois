@@ -55,4 +55,4 @@ async function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/03-khosrou', 108, 237);
+formatEpisodesIn('src/markdown/04-khosrou', 108, 237);

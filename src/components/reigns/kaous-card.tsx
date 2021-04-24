@@ -8,7 +8,7 @@ export const KaousCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/02-kaous/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/03-kaous/**/*.md" } }
       ) {
         totalCount
         edges {
