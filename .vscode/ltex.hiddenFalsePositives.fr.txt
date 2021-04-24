@@ -9,3 +9,4 @@
 {"rule":"D_N","sentence":"^\\QPrends avec toi des éléphants et va chercher la pierre du Div Akwan, que le maître du monde a tirée de la mer profonde et jetée dans la forêt de la Chine et fais-la servir à ma vengeance contre Bijen ;\\E$"}
 {"rule":"D_N","sentence":"^\\QPendant ce temps un Div, déguisé en chanteur, s'approcha du chambellan, demandant accès auprès du roi en ces mots : Je viens du pays de .\\E$"}
 {"rule":"D_N","sentence":"^\\QPendant ce temps un Div, déguisé en chanteur, s'approcha du chambellan, demandant accès auprès du roi en ces mots :\\E$"}
+{"rule":"D_N","sentence":"^\\QKeïkobad se rend à Istakher, dans le Fars\\E$"}
