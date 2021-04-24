@@ -8,7 +8,10 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitEpisodes(sourceFolder: string) {
+async function autoCommitNewEpisodes(sourceFolder: string) {
+  const search = sourceFolder.match(/\/\d\d-(.*)\//i);
+  const reign = search ? search[1] : 'reign';
+
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -22,7 +25,7 @@ async function autoCommitEpisodes(sourceFolder: string) {
     if (unstagedFile.includes(sourceFolder)) {
       const filename = unstagedFile.split(path.sep).pop();
       const episodeNumber = Number(filename?.substring(0, 3));
-      const commitMessage = `feat(kaous): add episode n° ${episodeNumber}`;
+      const commitMessage = `feat(${reign}): add episode n° ${episodeNumber}`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
@@ -31,4 +34,4 @@ async function autoCommitEpisodes(sourceFolder: string) {
   }
 }
 
-autoCommitEpisodes('/01-kaous/').then();
+autoCommitNewEpisodes('/01-kaous/').then();
