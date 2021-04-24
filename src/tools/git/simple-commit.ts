@@ -24,7 +24,7 @@ async function autoCommitNewEpisodes(sourceFolder: string) {
     const unstagedFile = unstagedFiles[index];
     if (unstagedFile.includes(sourceFolder)) {
       const filename = unstagedFile.split(path.sep).pop();
-      const episodeNumber = Number(filename?.substring(0, 3));
+      const episodeNumber = Number(filename?.split('-')[0]);
       const commitMessage = `feat(${reign}): add episode n° ${episodeNumber}`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
@@ -34,4 +34,4 @@ async function autoCommitNewEpisodes(sourceFolder: string) {
   }
 }
 
-autoCommitNewEpisodes('/02-kaous/').then();
+autoCommitNewEpisodes('/01-kobad/').then();
