@@ -47,6 +47,7 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/KEÎ KAOUS\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES BOIS\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES ROIS\./g, ''),
+    (content: string) => content.replace(/LE LlVRE DES ROIS\./g, ''),
     (content: string) => content.replace(/aux-devant/g, 'au-devant'),
     (content: string) => content.replace(/I’Iran/g, 'l’Iran'),
     (content: string) => content.replace(/lran/g, 'Iran'),
