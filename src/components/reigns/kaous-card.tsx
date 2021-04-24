@@ -60,7 +60,6 @@ export const KaousCard: React.FC = () => {
         </div>
         <div className="card-footer text-muted">
           <span>{`${totalNumberOfEpsiodes} épisode${totalNumberOfEpsiodes > 1 ? 's' : ''}`}</span>
-          <span>&nbsp;(sur 150)</span>
         </div>
       </div>
     </Link>
