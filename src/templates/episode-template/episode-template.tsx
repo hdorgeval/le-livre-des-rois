@@ -23,7 +23,10 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data }) => {
       <SEO title="Le Livre des Rois - Shâhnâmeh" contentType="website" description={firstHeading} />
       <div>
         <div className="card bg-dark text-white">
-          <div className="card-header text-light text-center text-uppercase border-bottom border-bottom-1 border-secondary pb-0 mb-3">
+          <div
+            id="episode-title"
+            className="card-header text-light text-center text-uppercase border-bottom border-bottom-1 border-secondary pb-0 mb-3"
+          >
             <h1 className="card-title text-truncate">
               {firstHeading}
               {hasTitleNote ? <span dangerouslySetInnerHTML={{ __html: note }}></span> : ''}
