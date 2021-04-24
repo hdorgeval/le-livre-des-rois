@@ -45,6 +45,7 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/KEÏ KAUUS\./g, ''),
     (content: string) => content.replace(/KEI KAOUS\./g, ''),
     (content: string) => content.replace(/KEÎ KAOUS\./g, ''),
+    (content: string) => content.replace(/KEÏKOBAD\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES BOIS\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES ROIS\./g, ''),
     (content: string) => content.replace(/LE LlVRE DES ROIS\./g, ''),
@@ -53,6 +54,7 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/lran/g, 'Iran'),
     (content: string) => content.replace(/Boum/g, 'Roum'),
     (content: string) => content.replace(/Bustem/g, 'Rustem'),
+    (content: string) => content.replace(/Keîanides/g, 'Keïanides'),
     (content: string) => content.replace(/cortége/g, 'cortège'),
     (content: string) => content.replace(/siége/g, 'siège'),
     (content: string) => content.replace(/celuilà/g, 'celui-là'),
@@ -93,6 +95,7 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/ 0 /g, ' Ô '),
     (content: string) => content.replace(/A quoi/g, 'À quoi'),
     (content: string) => content.replace(/A la fin/g, 'À la fin'),
+    (content: string) => content.replace(/A chaque/g, 'À chaque'),
     (content: string) => content.replace(/Alors il /g, 'Alors, il '),
     (content: string) => content.replace(/Puis il /g, 'Puis, il '),
 
