@@ -34,4 +34,4 @@ async function autoCommitNewEpisodes(sourceFolder: string) {
   }
 }
 
-autoCommitNewEpisodes('/01-kaous/').then();
+autoCommitNewEpisodes('/02-kaous/').then();
