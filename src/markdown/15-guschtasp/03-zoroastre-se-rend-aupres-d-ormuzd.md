@@ -315,17 +315,17 @@ Zoroastre reçut encore les instructions suivantes des Esprits célestes:
 
 Lorsque Amerdad eut achevé, Salah parla à Zoroastre au sujet de l'âme. Il lui dit:
 
-> Adore le Créateur de l’âme et de la raison, comme c’est ton devoir, et considère, ô sage à l’esprit brillant, s’il est possible de le célébrer comme il faudrait.
+> Adore le Créateur de l’âme et de la raison, comme c’est ton devoir, et considère, ô sage à l’esprit brillant, s’il est possible de le célébrer comme il faudrait.
 >
 > Aucune doctrine ne vaut celle de l’unité de Dieu, et qu’on l’avoue ou qu’on le nie, il n’y a qu’un Dieu.
 >
 > Tout ce qui te passe devant les yeux se combine dans ton esprit avec les conclusions de la raison pour prouver son existence;
 >
-> Si donc tu es un homme qui réfléchisses, suis le chemin déjà essayé;
+> Si donc tu es un homme qui réfléchisses, suis le chemin déjà essayé;
 >
 > Sinon abstiens-toi au moins de disputes.
 >
-> Un souffle t’a fait naître composé d’âme et de corps, et tu te crois un être très-puissant;
+> Un souffle t’a fait naître composé d’âme et de corps, et tu te crois un être très-puissant;
 >
 > Mais tes jours passeront, et un autre monde deviendra ta demeure.
 >
