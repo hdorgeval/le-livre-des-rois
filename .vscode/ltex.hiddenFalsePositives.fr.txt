@@ -12,3 +12,4 @@
 {"rule":"D_N","sentence":"^\\QKeïkobad se rend à Istakher, dans le Fars\\E$"}
 {"rule":"IMP_PRON","sentence":"^\\QPasse le Djihoun, fais avancer ton armée et n'attends pas que quelqu'un s'asseye sur le trône !\\E$"}
 {"rule":"D_N","sentence":"^\\QCombat de Kaïoumors et de Houscheng avec le Div noir\\E$"}
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QSelm et Tour ont nouvelle de Minoutchehr\\E$"}
