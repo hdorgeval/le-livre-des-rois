@@ -67,5 +67,23 @@
       "protocol": "inspector",
       "internalConsoleOptions": "openOnSessionStart"
     },
+    {
+      "name": "Set Tags in Current Markdown File",
+      "type": "node",
+      "request": "launch",
+      "env": {
+        "CURRENT_MD_FILEPATH": "${relativeFile}",
+      },
+      "args": [
+        "src/tools/markdown-tags/set-tags-in-current-markdown.ts"
+      ],
+      "runtimeArgs": [
+        "-r",
+        "ts-node/register"
+      ],
+      "cwd": "${workspaceRoot}",
+      "protocol": "inspector",
+      "internalConsoleOptions": "openOnSessionStart"
+    },
   ]
 }
