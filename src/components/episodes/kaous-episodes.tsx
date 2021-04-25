@@ -9,7 +9,7 @@ export const KaousEpisodes: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
       allMarkdownRemark(
-        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/03-kaous/**/*.md"}, frontmatter: {order: {}}}
+        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/12-kaous/**/*.md"}, frontmatter: {order: {}}}
       ) {
         edges {
           node {
