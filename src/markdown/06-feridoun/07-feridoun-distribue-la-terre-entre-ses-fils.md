@@ -1,0 +1,26 @@
+---
+date: ''
+image: 'https://source.unsplash.com/EFm7JpD9jy8'
+landscape: 'https://source.unsplash.com/EFm7JpD9jy8'
+source: tome I - livre des rois - P. 104
+tags: []
+order: '007'
+---
+
+# Feridoun la terre entre ses fils
+
+Ayant ainsi dévoilé le secret (la sort, Feridoun di-
+FERIDOUN. 105 visa le monde en trois parties. L’une comprenait le
+pays de Boum et l’occident; l’autre le Turkestan et
+la Chine, la dernière le pays des héros de l’Iran. Il
+jeta d’abord les yeux sur Selm, et choisit pour lui
+Boum et tout l’occident, il lui ordonna de partir avec
+une armée et de se mettre en marche vers le couchant.
+Selm monta sur le trône royal, et fut salué roi d’oc-
+cident. Puis Feridoun donna à Tour le pays de Tou-
+ran, et le fit maître du pays des Turcs et de la Chine.
+Le roi lui assigna une armée, et Tour se mit en route avec elle. A son arrivée il s’assit sur le trône
+royal, il se ceignit de la ceinture royale et commença à répandre ses grâces. Les grands versèrent des pierres précieuses sur lui, et le pays saint du Touran le reconnut pour roi. Alors vint le tour d’lredj , et son père lui donna le pays d’Iran avec le désert des guerriers armés de lances, le trône de la royauté et
+la couronne de la suprématie. ’Il les lui donna parce qu’il avait vu qu’il était digne du trône; il les lui donna avec l’épée et le sceau, la bague et le diadème.
+Les grands, pleins de courage, de sens et de bon conseil, le saluèrent roi d’Iran. Tous les trois s’as-
+sirent sur leurs trônes, en répos et en joie, comme gardiens des frontières d’illustre naissance.
