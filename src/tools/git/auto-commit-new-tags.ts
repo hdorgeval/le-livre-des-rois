@@ -8,10 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitNewEpisodes(sourceFolder: string) {
-  const search = sourceFolder.match(/\/\d\d-(.*)\//i);
-  const reign = search ? search[1] : 'reign';
-
+async function autoCommitNewTags(sourceFolder: string) {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -24,8 +21,9 @@ async function autoCommitNewEpisodes(sourceFolder: string) {
     const unstagedFile = unstagedFiles[index];
     if (unstagedFile.includes(sourceFolder)) {
       const filename = unstagedFile.split(path.sep).pop();
-      const episodeNumber = Number(filename?.split('-')[0]);
-      const commitMessage = `feat(${reign}): add episode n° ${episodeNumber}`;
+      const tagName = filename?.split('.md')[0] || filename;
+
+      const commitMessage = `feat(tags): add description for tag ${tagName}`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
@@ -34,4 +32,4 @@ async function autoCommitNewEpisodes(sourceFolder: string) {
   }
 }
 
-autoCommitNewEpisodes('/05-zohak/').then();
+autoCommitNewTags('/tags/').then();
