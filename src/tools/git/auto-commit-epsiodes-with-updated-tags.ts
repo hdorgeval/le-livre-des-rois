@@ -34,4 +34,4 @@ async function autoCommitEpisodesWithUpdatedTags(sourceFolder: string) {
   }
 }
 
-autoCommitEpisodesWithUpdatedTags('/10-guerschasp/').then();
+autoCommitEpisodesWithUpdatedTags('/01-kaioumors/').then();
