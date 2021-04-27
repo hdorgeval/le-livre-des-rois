@@ -9,6 +9,7 @@ export * from './apply-rule-on-semicolon';
 export * from './format';
 export * from './merge-splitted-sentences';
 export * from './merge-splitted-words';
+export * from './remove-chapter-artifacts';
 export * from './remove-duplicated-spaces';
 export * from './remove-multiple-linefeeds';
 export * from './remove-page-numbers';
