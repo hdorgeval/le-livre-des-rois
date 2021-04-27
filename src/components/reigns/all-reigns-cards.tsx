@@ -1,9 +1,20 @@
-import { GuerschaspCard, GuschtaspCard, KaousCard, KhosrouCard, KobadCard, LohraspCard } from '.';
+import {
+  GuerschaspCard,
+  GuschtaspCard,
+  KaioumorsCard,
+  KaousCard,
+  KhosrouCard,
+  KobadCard,
+  LohraspCard,
+} from '.';
 import React from 'react';
 
 export const ReignCards: React.FC = () => (
   <>
     <div className="row">
+      <div className="col-sm-6 col-lg-3">
+        <KaioumorsCard />
+      </div>
       <div className="col-sm-6 col-lg-3">
         <GuerschaspCard />
       </div>
