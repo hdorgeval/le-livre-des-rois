@@ -13,3 +13,9 @@
 {"rule":"IMP_PRON","sentence":"^\\QPasse le Djihoun, fais avancer ton armée et n'attends pas que quelqu'un s'asseye sur le trône !\\E$"}
 {"rule":"D_N","sentence":"^\\QCombat de Kaïoumors et de Houscheng avec le Div noir\\E$"}
 {"rule":"FR_SPELLING_RULE","sentence":"^\\QSelm et Tour ont nouvelle de Minoutchehr\\E$"}
+{"rule":"D_N","sentence":"^\\QCombat de Siamek avec le Div\\E$"}
+{"rule":"D_N","sentence":"^\\QIl alla à la rencontre du Div avide de combat ; et lorsque les armées furent en présence, Siamek s'avança le corps nu et saisit le fils d'Ahriman.\\E$"}
+{"rule":"D_N","sentence":"^\\QSiamek expira sous les mains du Div maudit et son armée resta sans chef.\\E$"}
+{"rule":"D_N","sentence":"^\\QLe Div noir s'avança tremblant et en crainte, et fit voler la poussière vers le ciel ; le roi s'aperçut que les hurlements des animaux avaient émoussé les griffes du Div.\\E$"}
+{"rule":"D_N","sentence":"^\\QLe Div noir s'avança tremblant et en crainte et fit voler la poussière vers le ciel ; le roi s'aperçut que les hurlements des animaux avaient émoussé les griffes du Div.\\E$"}
+{"rule":"ACCORD_GENRE","sentence":"^\\QLes deux armées se rencontrèrent, les Divs tremblèrent devant les bêtes féroces, Houscheng étendit ses mains comme un lion et rendit la terre étroite au vaillant Div.\\E$"}
