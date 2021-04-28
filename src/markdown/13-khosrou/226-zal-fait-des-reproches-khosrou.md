@@ -10,7 +10,7 @@ order: '226'
 # Zal fait des reproches à Keï Khosrou
 
 Zal, à ces paroles, se mit debout et dit z Ô Khosrou, le noble, le juste ! écoute ce que dit un vieillard qui a de l’expérience ; si son avis est faux, ne le suis pas ; mais si sa parole est amère et vraie, si elle ferme la porte à la perversité et à la ruine, ne m’en veuille pas de ce que je parle si franchemcnt devant cette assemblée. 17
- Ta mère l’a mis au monde dans le pays de Touran ; c’est là qu’ont été ton berceau et ta demeure.
+Ta mère l’a mis au monde dans le pays de Touran ; c’est là qu’ont été ton berceau et ta demeure.
 
 D’un côté, tu es petit-fils d’Afrasiab, qui ne voyait que de la magie. même en rêve.
 
