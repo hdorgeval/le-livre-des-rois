@@ -233,6 +233,7 @@ export const noises = [
   'Informé',
   'Instruisez',
   'Intercède',
+  'Introduction',
   'J’abaisserai',
   'J’accomplirai',
   'J’achète',
