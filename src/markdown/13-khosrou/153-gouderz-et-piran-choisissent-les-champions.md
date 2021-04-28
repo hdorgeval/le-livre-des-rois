@@ -16,7 +16,7 @@ Lorsque Pirau aperçut Gouderz le fils de Keschwad, il lui adressa la parole et 
 > Il a choisi dans l’autre monde le séjour des bons, est-ce une raison pour toi de te refuser le repos parce qu’il en jouit ?
 >
 > Deux armées entières se sont détruites comme des éléphants à qui l’on aurait tranché la tête, les armées de deux pays ont disparu et le temps est ar- 39
- rivé où tu devrais quitter ce champ de bataille.
+> rivé où tu devrais quitter ce champ de bataille.
 >
 > Le monde entier est dépeuplé et l’excès des vengeances a refroidi l’ardeur des combats.
 >
@@ -47,7 +47,7 @@ Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de
 > Siawusch a livré sa tête parce qu’il croyait à tes serments et tu as donné sa vie au vent dans ta démence.
 >
 > Plus tard. lorsque mon fils s’est rendu auprès de toi, tu as refusé de suivre mes conseils, tu t’es hâté de te pré-
-. parer au combat, tu t’es jeté sur nous comme une flamme.
+> . parer au combat, tu t’es jeté sur nous comme une flamme.
 >
 > Je n’ai demandé au Créateur, en public et en secret, qu’une seule chose, c’est que tu te présentes un jour devant moi sur le champ de bataille.
 >
