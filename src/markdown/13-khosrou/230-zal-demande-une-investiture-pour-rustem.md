@@ -16,7 +16,7 @@ Je ne puis te cacher mon désir.
 Tu sais tout ce que Rustem a fait dans l’Iran, dans les combats, dans les fatigues, dans les dangers et dans les guerres.
 
 Lorsque Keï Kaous alla dans le Mazenderan, par une route longue et un chemin difficile et que les Divs l’eurent enchaîné, lui, ce Thous et Gouderz, qui porte haut la tête,Tehemten partit ; seul ; aussitôt qu’il reçut la nouvelle, se dirigea en toute hâte vers le Mazenderan, força avec mille fatigues et mille dangers le passage à travers 18
- des déserts, des ténèbres, des Divs, des lions, des magiciens et des dragons terribles et arriva auprès du roi.
+des déserts, des ténèbres, des Divs, des lions, des magiciens et des dragons terribles et arriva auprès du roi.
 
 Il déchira le côté du Div blanc et les reins de Bidet d’Aulad fils de Ghandi ; il coupa d’un seul coup la tête à Sendjeh et ses cris de triomphe montèrent jusqu’aux nuages.
 
