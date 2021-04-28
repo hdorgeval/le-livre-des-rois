@@ -1,4 +1,4 @@
-import { Layout, Title, SEO, KaioumorsEpisodes, HouschengEpisodes } from '../components';
+import { Layout, Title, SEO, HouschengEpisodes } from '../components';
 import React from 'react';
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
