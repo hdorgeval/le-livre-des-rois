@@ -91,7 +91,7 @@ Quand le roi eut disposé de tout le monde, il renvoya du palais tous les étran
 Kaous donna de l’or et de l’argent aux pauvres, qu’ils fussent étrangers ou ses propres sujets et la foule qui se pressait pour recevoir ses largesses était telle que pendant deux semaines on ne voyait pas le sol devant le O
 
 C
- l palais du roi.
+l palais du roi.
 
 La troisième semaine, il s’assit sur le trône du pouvoir, en paix et dans toute sa majesté ; les flûtes et les chansons résonnèrent ; les cœurs saluèrent les coupes de vin et pendant sept jours le vin rouge coulait à flots dans le palais du roi Kaous.
 
