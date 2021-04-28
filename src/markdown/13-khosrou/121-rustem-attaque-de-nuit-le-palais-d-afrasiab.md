@@ -40,8 +40,8 @@ Pendant que les Iraniens se hâtaient de se venger, Afrasiab s’enfuit de sa de
 Le maître de Baksch
 .y entra, foulant aux pieds les tapis et les meubles ; les femmes au visage de Péri esclaves du roi saisirent de leurs mains la main des héros et ceux-ci enlevèrent les nobles chevaux à la selle de bois de peuplier recouverte de peau de léopard et brodée de pierreries ; ensuite ils sortirent du palais emportant leur butin et ne firent plus un long séjour dans le Touran.
 
-Bustem pressa la marche ; des chevaux, à. 
- cause du butin qu’ils portaient et de peur que cette aventure ne finît mal.
+Bustem pressa la marche ; des chevaux, à.
+cause du butin qu’ils portaient et de peur que cette aventure ne finît mal.
 
 Il était si fatigué de la course, que son casque lui pesait sur la tête ; ses cavaliers avaient tant combattu et ses chevaux avaient tant couru, qu’aucune artère de leur corps ne battait plus.
 
