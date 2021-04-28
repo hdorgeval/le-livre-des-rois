@@ -7,4 +7,4 @@ tags: []
 order: '126'
 ---
 
-# Histoire du combat des douze champions 
+# Histoire du combat des douze champions
