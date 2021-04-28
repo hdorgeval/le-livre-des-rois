@@ -38,7 +38,7 @@ Gouderz sourit et fut content de Gustehem ; sa joue s’anima et son dos délivr
 
 Il lui dit :
 
-> Ton étoile est heureuse. 
- tu ressembles au soleil, tu es un lion et tes ennemis sont devant toi comme des onagres.
+> Ton étoile est heureuse.
+> tu ressembles au soleil, tu es un lion et tes ennemis sont devant toi comme des onagres.
 >
 > Va et que le Créateur te soit en aide, que trois cents ennemis comme Lehhak deviennent ta proie.»
