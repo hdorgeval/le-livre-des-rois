@@ -25,9 +25,9 @@ Il débattit ce point sagement avec le roi.
 
 Ensuite Khosrou fit apporter un habillement complet, comprenant une tunique et un diadème brodés de pierreries et une coupe remplie de joyaux dignes d’un roi ; il fit amener cent chevaux sellés et cent mulets chargés, cent femmes esclaves au visage de Péri et cent serviteurs portant des couronnes d’or.
 
-Toutes ces richesses étant réunies et placées devant le roi maître du monde, il les donna toutes à Bustem au cœur de lion, qui baisa la terre et se relevant, posa sur sa tête ce diadème (le Keïauide et se ceignit de 
+Toutes ces richesses étant réunies et placées devant le roi maître du monde, il les donna toutes à Bustem au cœur de lion, qui baisa la terre et se relevant, posa sur sa tête ce diadème (le Keïauide et se ceignit de
 a
- cette ceinture impériale.
+cette ceinture impériale.
 
 Ensuite il sortit en bénissant le roi et fit en toute hâte les préparatifs de son départ pour le Seistan.
 
