@@ -25,8 +25,8 @@ Il entoura son camp d’un fossé, envoya des éclaireurs de tous côtés et pen
 
 Lorsque le soleil, qui brillait dans le signe du Bélier, jeta ses rayons sur toute la surface de la terre, le roi des Turcs vit l’ennemi ; il fit sonner des tromæ pattes d’airain et avancer ses troupes.
 
-Le monde fut rempli du son des clairons et du bruit de l’armée, 
- LE LIVRE DESROIS. tous les braves se couvrirent de leurs casques de fer ; on aurait dit que la surface de la terre était d’acier et que le ciel portait une cuirasse de lances.
+Le monde fut rempli du son des clairons et du bruit de l’armée,
+LE LIVRE DESROIS. tous les braves se couvrirent de leurs casques de fer ; on aurait dit que la surface de la terre était d’acier et que le ciel portait une cuirasse de lances.
 
 Les deux armées demeurèrent ainsi deux jeurs et deux nuits, personne ne pronànçant un mot, les cavaliers restant à cheval des deux côtés et les fantassins se tenant devant eux.
 
