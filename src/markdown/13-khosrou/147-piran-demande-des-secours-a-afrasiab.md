@@ -20,7 +20,7 @@ Cela fait, Piran envoya à l’heure du sommeil un messager vers Afrasiab, un me
 > Mais moi je suis un esclave coupable envers toi et je me suis écarté de tes ordres pleins de prévoyance.
 >
 > Le roi m’en a voulu d’avoir laissé échapper Keî Khosrou, mais je ne crois pas qu’il y eût de ma faute ; n car’c’était l’ordre de Dieu : ce qui est arrivé devait arriver et il ne servirait à rien d’en parler plus
--au long.
+> -au long.
 >
 > Si le roi trouve que je suis innocent, il délivrera mon cou de ce fardeau et viendra à mon aide.J’ai à faire connaître au roi ce que la rotation du ciel a amené sur la tête (le son esclave.
 >
