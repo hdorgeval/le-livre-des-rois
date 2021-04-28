@@ -32,8 +32,8 @@ Gouderz répondit :
 
 Ensuite il regarda les chefs de l’armée ; il vit qu’ils étaient tout abattus par suite des fatigues du combat, du carnage et des attaques continuelles qu’ils avaient faites contre l’ennemi.
 
-Le cœur du Pehlewan fut. at- . 
- LE,LIVBE DES BOIS. tendri en voyant que les joues des nobles avaient pâli ; et le Sipehdar, le maître de la bonne étoile, le guide de l’armée, leur ordonna de s’en retourner chez eux, pour que leurs corps épuisés pussent se reposer des fatigues de la bataille.
+Le cœur du Pehlewan fut. at- .
+LE,LIVBE DES BOIS. tendri en voyant que les joues des nobles avaient pâli ; et le Sipehdar, le maître de la bonne étoile, le guide de l’armée, leur ordonna de s’en retourner chez eux, pour que leurs corps épuisés pussent se reposer des fatigues de la bataille.
 
 Ils partirent et revinrent de grand matin, remplis d’ardeur pour la lutte et armés pour le combat.
 
