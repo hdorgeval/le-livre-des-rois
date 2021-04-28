@@ -57,7 +57,7 @@ Gustehem trembla, poussa un soupir et lui répondit :
 > Ensuite prends mes deux terribles ennemis que Dieu a fait mourir de ma main, jette-les, si tu
 >
 > à -
-peux, sur la selle d’un cheval ; et si tu ne peux pas, tranche-leur la tête et emporte leurs armures et leurs têtes glorieuses, pour que les Iraniens reconnaissent leurs traits.
+> peux, sur la selle d’un cheval ; et si tu ne peux pas, tranche-leur la tête et emporte leurs armures et leurs têtes glorieuses, pour que les Iraniens reconnaissent leurs traits.
 >
 > Dis au roi maître du monde que je n’ai pas étourdiment jeté au vent tua vie, que j’ai lutté en toute circonstance contre la fortune, que je n’ai jamais hésité quand il s’agissait d’acquérir un nom.»
 
