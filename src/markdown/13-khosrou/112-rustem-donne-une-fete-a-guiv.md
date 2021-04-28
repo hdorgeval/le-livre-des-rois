@@ -24,7 +24,7 @@ Il appela les grâces de Dieu sur le roi maître du monde, le glorieux Pehlewan 
 > Je suis heureux de te voir ; mais les nouvelles de Bijen m’allligent et ce n’est pas ainsi, triste et blessé par le sort, que j’aurais voulu te voir.
 >
 > Obéissant à cette lettre du roi, je vais me mettre en route .
-ses comme il me l’ordonne.
+> ses comme il me l’ordonne.
 >
 > Mon cœur est navré de douleur à cause de toi et je prends les armes pour secourir Bijen ; je ferai tous mes efforts pour le sauver, Dieu le très-saint dût-il séparer mon âme de mon corps.Je donnerais volontiers ma vie, mon armée et mes trésors pour sauver Bijen.
 >
