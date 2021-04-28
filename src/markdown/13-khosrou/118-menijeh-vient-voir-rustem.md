@@ -74,7 +74,7 @@ Menijeh lui répondit :
 > J’ai quitté la prison le cœur navré, je suis accourue auprès de toi, ô homme plein de noblesse, pour obtenir de toi des nouvelles de Guiv et du vaillant Gouderz.
 >
 > Mais tu as poussé contre moi un cri comme dans la bataille ; ne crains-tu donc pas Dieu, le maître des puissants ? ’
-Je suis Menijeh fille d’Afrasiab, que le soleil même n’avait jamais vue dévoilée ; et maintenant. les yeux en larmes, le cœur affligé, les joues pâles. je vais de porte en porte recueillir du pain grossier ; tel est le sort que Dieu m’a imposé.
+> Je suis Menijeh fille d’Afrasiab, que le soleil même n’avait jamais vue dévoilée ; et maintenant. les yeux en larmes, le cœur affligé, les joues pâles. je vais de porte en porte recueillir du pain grossier ; tel est le sort que Dieu m’a imposé.
 >
 > Est-il une plus triste vie ?
 >
