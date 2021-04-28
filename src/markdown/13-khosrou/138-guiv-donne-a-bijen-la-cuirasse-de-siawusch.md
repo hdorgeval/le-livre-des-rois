@@ -77,10 +77,10 @@ A ces paroles Houman se mit à rire et répondit :
 > Je te renrerrai à ton armée dans un tel état que Guiv en sera consumé de douleur.
 >
 > Je séparerai bientôt ta tête du tronc, comme j’ai fait à beau-
-coup de braves de ta race.
+> coup de braves de ta race.
 >
 > Tu viens le jeter dans mes grilles, comme un faisan qu’un, faucon emporte sur une branche d’arbre ; il crie et le sang
-33 tombe de ses yeux, pendant que le faucon lui arrache la chair des membres et plonge les pieds dans son sang.
+> 33 tombe de ses yeux, pendant que le faucon lui arrache la chair des membres et plonge les pieds dans son sang.
 >
 > Mais que puis-je faire ?
 >
