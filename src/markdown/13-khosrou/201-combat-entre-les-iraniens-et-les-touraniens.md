@@ -38,5 +38,5 @@ Il fit creuser un fossé à travers la route, du côté où l’armée du Touran
 
 Il choisit les cavaliers les plus braves de l’armée, et en donna le commandement à Bustem ; ensuite il lit un second détachement d’Iraniens, leur ordonna de revêtir leurs armes de combat et en confia le commandement au Sipehdar Thous, en lui ordonnant de se porter du côté des montagnes.
 
-Ainsi Tehemten devait conduire ses troupes du côté des plaines et Thous du côté des montagnes et le roi leur ordonna de s’avancer à une grande distance, 
- mais de rester tous les deux dans la plaine, l’un à droite et l’autre à gauche, sans montrer de lumières ni de torches, soit du côté du désert, soit du côté de la montagne, pour qu’Afrasiab, s’il préparait une attaque de nuit, fût pris par derrière entre les détachements et restât comme un jeune faucon dans la cage : devant lui le fossé, derrière lui les corps détachés et en arrière du fossé, le roi avec son armée et ses éléphants.
+Ainsi Tehemten devait conduire ses troupes du côté des plaines et Thous du côté des montagnes et le roi leur ordonna de s’avancer à une grande distance,
+mais de rester tous les deux dans la plaine, l’un à droite et l’autre à gauche, sans montrer de lumières ni de torches, soit du côté du désert, soit du côté de la montagne, pour qu’Afrasiab, s’il préparait une attaque de nuit, fût pris par derrière entre les détachements et restât comme un jeune faucon dans la cage : devant lui le fossé, derrière lui les corps détachés et en arrière du fossé, le roi avec son armée et ses éléphants.
