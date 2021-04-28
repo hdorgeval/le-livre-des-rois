@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/EFm7JpD9jy8'
 landscape: 'https://source.unsplash.com/EFm7JpD9jy8'
 source: tome I - livre des rois - P. 019
-tags: ["Ahriman", "Bélier", "cyprès", "Dihkan", "Kaïoumors", "Péri", "Serosch", "Siamek"]
+tags: ['Ahriman', 'Bélier', 'cyprès', 'Dihkan', 'Kaïoumors', 'Péri', 'Serosch', 'Siamek']
 order: '001'
 ---
 
