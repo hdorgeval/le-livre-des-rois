@@ -31,7 +31,15 @@ async function autoCommitEpisodesWithUpdatedTags(sourceFolder: string) {
       // eslint-disable-next-line no-console
       console.log(commitMessage);
     }
+
+    if (unstagedFile.includes('noises.ts')) {
+      const commitMessage = `chore(tags): update noises dictionary`;
+      await git.add(unstagedFile);
+      await git.commit(commitMessage);
+      // eslint-disable-next-line no-console
+      console.log(commitMessage);
+    }
   }
 }
 
-autoCommitEpisodesWithUpdatedTags('/01-kaioumors/').then();
+autoCommitEpisodesWithUpdatedTags('/02-houscheng/').then();
