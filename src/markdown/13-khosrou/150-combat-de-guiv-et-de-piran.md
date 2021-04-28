@@ -47,8 +47,8 @@ Bijen accourut vers son père et lui dit :
 
 Les compagnons de Guiv arrivèrent : ces illustres héros étaient furieux ; et Piran les apercevant, tourna le dos à Guiv et se dirigea vers son armée.
 
-Quand il arriva auprès de Lehhak et de Ferschidwerd, il poussait des cris de douleur et ses joues étaient pâles ; 
- A et il leur dit : Ormes illustres fières, mes vaillants compagnons, toujours prêts à frapper de l’épée, c’est pour un jour comme celui-ci que je vous ai élevés entre mes bras.
+Quand il arriva auprès de Lehhak et de Ferschidwerd, il poussait des cris de douleur et ses joues étaient pâles ;
+A et il leur dit : Ormes illustres fières, mes vaillants compagnons, toujours prêts à frapper de l’épée, c’est pour un jour comme celui-ci que je vous ai élevés entre mes bras.
 
 A peine notre armée s’estelle avancée au combat que nos ennemis ont rendu le monde noir devant nous et je ne vois personne qui veuille se mettre à la tête de nos troupes pour acquérir de la gloire et du renom.»
 
