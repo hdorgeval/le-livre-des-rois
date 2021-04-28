@@ -3,7 +3,24 @@ date: ''
 image: 'https://source.unsplash.com/EFm7JpD9jy8'
 landscape: 'https://source.unsplash.com/EFm7JpD9jy8'
 source: tome I - livre des rois - P. 029
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Créateur',
+    'Destour',
+    'Dieu',
+    'Div',
+    'Divs',
+    'Houscheng',
+    'Mobeds',
+    'parsi',
+    'pehlevi',
+    'roumi',
+    'Schidasp',
+    'soghdi',
+    'tazi',
+    'Thahmouras',
+  ]
 order: '001'
 ---
 
