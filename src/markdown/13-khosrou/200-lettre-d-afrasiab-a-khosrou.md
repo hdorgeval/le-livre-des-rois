@@ -13,8 +13,7 @@ Le roi des Turcs choisit dans cette assemblée trois hommes pleins d’expérien
 
 Il y a, ô roi, mille farsangs du pays d’Iran jusqu’à Gangue et deux armées nombreuses comme les fourmis et les sauterelles ont traversé les montagnes et les plaines, les sables et les marais ; les terres sont devenues des mers de sang versé par la vengeance depuis Gangue et la Chine jusque dans l’Iran et si l’ordre de Dieu le très-saint réunissait dans une vallée le sang de tous ces morts qui est répandu sur la poussière, il formerait une mer comme la nier de Kolzoum et les deux armées disparaîtraient dans le sang.
 
-Si tu veux mes trésors, ou mon armée, ou le pays de Touran, ou mon trône et ma couronne, je te les abandonnerai et je disparaîtrai ; mais ma vie, tu ne
-\* l’auras que par l’épée.
+Si tu veux mes trésors, ou mon armée, ou le pays de Touran, ou mon trône et ma couronne, je te les abandonnerai et je disparaîtrai ; mais ma vie, tu ne \* l’auras que par l’épée.
 
 Ne le tente pas, puisque je
 4 t’ai servi de père et de mère et que je suis de la race de Feridoun l’enchanteur ; ne le tente pas, quoique ton cœurlsoit troublé par l’envie de venger ton père et que le respect que tu me dois ait été terni par la mort de Siawusch, qui, après tout, était coupable et avait rempli mon âme de douleur et de soucis.
