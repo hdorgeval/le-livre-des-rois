@@ -40,8 +40,8 @@ Laisse-leur le même établissement et le même palais aussi longtemps que tu vi
 
 Grains d’avoir à rougir devant deux rois quand tu me trouveras avec Siawusch.»
 
-Lohrasp lui promit tout ce qu’il demandait et qu’il garderait dans leur retraite ces femmes que personne ne verrait. 
- Ensuite Khosrou serra sa ceinture et revint au milieu des Iraniens, à qui il dit : Retournez-vous-en à vos palais ; ne remplissez pas vos cœurs de plaies et d’angoisses à cause de moi ; ne vous familiarisez pas trop avec ce monde, car il est notre ennemi secret.
+Lohrasp lui promit tout ce qu’il demandait et qu’il garderait dans leur retraite ces femmes que personne ne verrait.
+Ensuite Khosrou serra sa ceinture et revint au milieu des Iraniens, à qui il dit : Retournez-vous-en à vos palais ; ne remplissez pas vos cœurs de plaies et d’angoisses à cause de moi ; ne vous familiarisez pas trop avec ce monde, car il est notre ennemi secret.
 
 Soyez toujours fiers et joyeux ; ne pensez à moi qu’en bien.
 
