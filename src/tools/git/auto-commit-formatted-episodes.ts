@@ -32,4 +32,4 @@ export async function autoCommitFormattedEpisodes(sourceFolder: string): Promise
   }
 }
 
-autoCommitFormattedEpisodes('/01-kaioumors/').then();
+autoCommitFormattedEpisodes('/02-houscheng/').then();

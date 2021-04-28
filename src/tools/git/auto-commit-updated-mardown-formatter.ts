@@ -7,7 +7,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitUpdatedSpellingDictionary() {
+async function autoCommitUpdatedMarkdownFormatter() {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -16,19 +16,18 @@ async function autoCommitUpdatedSpellingDictionary() {
   console.log(status);
   const unstagedFiles = status.modified;
 
+  let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (
-      unstagedFile.includes('ltex.dictionary') ||
-      unstagedFile.includes('ltex.hiddenFalsePositives')
-    ) {
-      const commitMessage = `chore(spelling): update dictionary`;
+    if (unstagedFile.includes('/markdown-formatter/')) {
+      hasUpdatedFiles = true;
       await git.add(unstagedFile);
-      await git.commit(commitMessage);
-      // eslint-disable-next-line no-console
-      console.log(commitMessage);
     }
+  }
+  if (hasUpdatedFiles) {
+    const commitMessage = `feat(markdown): enhance markdown formatter`;
+    await git.commit(commitMessage);
   }
 }
 
-autoCommitUpdatedSpellingDictionary().then();
+autoCommitUpdatedMarkdownFormatter().then();
