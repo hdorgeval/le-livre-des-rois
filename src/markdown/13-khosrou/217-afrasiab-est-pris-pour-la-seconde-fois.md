@@ -28,7 +28,7 @@ L Ensuite il ajouta d’une voix forte : Ô méchant, qui as cherché la vengean
 Khosrou répondit :
 
 > Ô malfaiteur digne de tout reproche et de toute ignominie, je vais d’abord te parler du meurtre de ton frère, qui n’avait jamais fait de mal à un roi ; en- 15
- suite de celui de Newder, le roi illustre, le descendant et l’héritier d’lredj ; tu lui as coupé la tête avec l’épée tranchante et as jeté dans le monde un désordre terrible ; enfin je te parlerai de Siawusch, le cavalier le plus vaillant parmi tous les héros : tu lui as tranché la tête comme à une brebis et ce méfait a dépassé la voûte du ciel.
+> suite de celui de Newder, le roi illustre, le descendant et l’héritier d’lredj ; tu lui as coupé la tête avec l’épée tranchante et as jeté dans le monde un désordre terrible ; enfin je te parlerai de Siawusch, le cavalier le plus vaillant parmi tous les héros : tu lui as tranché la tête comme à une brebis et ce méfait a dépassé la voûte du ciel.
 >
 > Pourquoi as-tu tué mon père, pourquoi n’as-tu pas prévu un jour de malheur comme celui-ci ?
 >
@@ -39,7 +39,7 @@ Khosrou répondit :
 > D’un mauvais homme on ne peut attendre que le meurtre et l’insulte.
 >
 > Le passé
-, a été ce que tu dis ; ce qui devait arriver est arrivé ; maintenant il faut que j’écoute ce que tu dis, mais permets que je voie le visage de ta mère, ensuite tu raconteras ces histoires.»
+> , a été ce que tu dis ; ce qui devait arriver est arrivé ; maintenant il faut que j’écoute ce que tu dis, mais permets que je voie le visage de ta mère, ensuite tu raconteras ces histoires.»
 
 Khosrou lui dit :
 
@@ -48,7 +48,7 @@ Khosrou lui dit :
 > Mon père était innocent, moi je n’étais pas encore né et pourtant que de malheurs n’as-tu pas déversés sur le monde !
 >
 > Tu as tranché la tête à un roi que la couronne et le trône d’ivoire ont pleuré amèrement ; mais aujourd’hui est le jour de la vengeance de Dieu et la récompense qu’il donne aux méchants
-. est le malheur.»
+> . est le malheur.»
 
 Khosrou le frappa au cou avec son épée indienne et jeta dans la poussière son corps délicatement élevé;
 
