@@ -35,7 +35,7 @@ Bijen répondit de sa fosse ténébreuse :
 Bustem lui dit :
 
 > Le gracieux maître du monde a eu pitié de ta vie ; mais il me reste à t’adresser une prière,
-ô mon sage et noble ami.
+> ô mon sage et noble ami.
 >
 > Abandonne-moi Gourguin
 >
@@ -46,8 +46,8 @@ Bijen lui répondit :
 > Ô mon ami, tu ne sais pas comment j’ai combattu ; tu ne sais pas, ô prince au cœur de lion, ce que m’a fait Gourguin fils de Milad.
 >
 > Si jamais mon regard tombe sur lui, ma vengeance sera terribles Bustem lui répondit z Si tu es assez méchant pour
-’ n’avoir aucun égard à mon amitié et à mes paroles, je te laisserai enchaîné par les pieds dans cette fosse .
-je monterai sur Baksch et je repartirai.»
+> ’ n’avoir aucun égard à mon amitié et à mes paroles, je te laisserai enchaîné par les pieds dans cette fosse .
+> je monterai sur Baksch et je repartirai.»
 
 Lorsque Bijen entendit ces paroles de Bustem, il poussa un cri dans son cachot étroit et dit : Je suis le plus malheureux de tous les héros, de toute ma famille, de tout le peuple.
 
