@@ -35,7 +35,7 @@ Il choisit dans l’armée deux de ses parents, les lit monter à l’instant su
 
 A chaque station il monta sur un
 
-’ ! 
+’ !
 ’cheval frais ; lui et ses compagnons mangèrent, se reposèrent et dormirent sur leurs chevaux, tant pendant la nuit sombre que sous les rayons du soleil. (l’estainsi qu’ils firent leur route en courant et qu’ils arrivèrent en sept jours à la cour du roi.
 
 Lorsqu’on vit Hedjir s’avancer à cheval sur la route de l’Iran, on en donna nouvelle au roi illustre et Schammakh, accompagné d’un grand nombre de fiers guerriers, alla au-devant (le lui par ordre du roi ; aussitôt qu’il l’aperçut, il luidemanda : Ô fils de Pehlewan, vainqueur des lions, qu’est-il arrivé pour que tu reviennes si inopinément à la cour du roi du monde?»
