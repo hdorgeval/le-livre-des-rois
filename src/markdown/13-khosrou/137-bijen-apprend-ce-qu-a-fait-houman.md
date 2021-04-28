@@ -76,7 +76,7 @@ Tu es jeune et le ciel n’a pas encore tourné longtemps au-dessus de toi ; est
 Reste ici, pour que j’envoie un lion expérimenté attaquer Houman, lancer sur lui une pluie de traits comme un nuage qui verse de la grêle et lui clouer son casque d’acier’sur la tête.n Bijen répondit :
 
 > 0
-Pehlewan, un jeune homme qui a du cœur doit le montrer.
+> Pehlewan, un jeune homme qui a du cœur doit le montrer.
 >
 > Si tu ne m’avais pas vu dans le combat que nous avons soutenu contre Firoud, il faudrait aujourd’hui me mettre à l’épreuve ; mais j’ai enroulé devant moi la surface de la terre dans le combat de Peschen et personne n’a vu mon dos au jour de la bataille.
 >
@@ -124,7 +124,7 @@ S’il veut se battre, n’a-t-il pas une armure ?
 Il a une cotte de mailles, pourquoi me demander la .mienne ?a Le fils, qui se préparait au combat, répondit à son père :
 
 > Je n’ai pas besoin
-’ de ta cuirasse ; crois-tu donc que tous les braves qui sont dans le monde aient besoin de ta cuirasse pour être vaillants ?
+> ’ de ta cuirasse ; crois-tu donc que tous les braves qui sont dans le monde aient besoin de ta cuirasse pour être vaillants ?
 >
 > Ceux qui portent haut la tête chercheront de la gloire et un nom, quand même la cuirasse de Siawusch ne paraîtrait pas dans la bataille.»
 
