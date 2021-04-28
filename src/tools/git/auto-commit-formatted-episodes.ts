@@ -7,10 +7,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-export async function autoCommitFormattedEpisodes(sourceFolder: string): Promise<void> {
-  const search = sourceFolder.match(/\/\d\d-(.*)\//i);
-  const reign = search ? search[1] : 'reign';
-
+export async function autoCommitFormattedEpisodes(): Promise<void> {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
@@ -20,7 +17,9 @@ export async function autoCommitFormattedEpisodes(sourceFolder: string): Promise
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes(sourceFolder)) {
+    if (unstagedFile.includes('src/markdown/')) {
+      const search = unstagedFile.match(/markdown\/\d\d-(.*)\//i);
+      const reign = search ? search[1] : 'reign';
       const filename = unstagedFile.split(path.sep).pop();
       const episodeNumber = Number(filename?.split('-')[0]);
       const commitMessage = `feat(${reign}): format episode n° ${episodeNumber}`;
@@ -32,4 +31,4 @@ export async function autoCommitFormattedEpisodes(sourceFolder: string): Promise
   }
 }
 
-autoCommitFormattedEpisodes('/02-houscheng/').then();
+autoCommitFormattedEpisodes().then();
