@@ -54,8 +54,8 @@ Ensuite Guiv le cavalier au visage de soleil et plein de fierté se rendit aupr�
 >
 > C’est sur toi que repose l’espoir de l’armée de l’Iran ; montre donc ta valeur sur ce champ de bataille.
 >
-> Ne crains pas les Touraniem et réjouis-toi , 
- car le jour de la bataille et de la vengeance est arrivé.
+> Ne crains pas les Touraniem et réjouis-toi ,
+> car le jour de la bataille et de la vengeance est arrivé.
 >
 > Avance-toi contre le centre de leur armée et combats Piran qui s’y tient : car toute la force de l’armée du Touran réside en lui ; et dès qu’il t’apercevra, sa peau se fendra de terreur.
 >
