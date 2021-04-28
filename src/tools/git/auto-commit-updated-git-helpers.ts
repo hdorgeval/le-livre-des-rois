@@ -26,6 +26,8 @@ export async function autoCommitUpdatedGitHelpers(): Promise<void> {
   }
   if (hasUpdatedFiles) {
     const commitMessage = `feat(tools): update git helpers`;
+    // eslint-disable-next-line no-console
+    console.log(commitMessage);
     await git.commit(commitMessage);
   }
 }
@@ -49,6 +51,8 @@ export async function autoCommitNewGitHelpers(): Promise<void> {
   }
   if (hasUpdatedFiles) {
     const commitMessage = `feat(tools): add git helpers`;
+    // eslint-disable-next-line no-console
+    console.log(commitMessage);
     await git.commit(commitMessage);
   }
 }

@@ -26,6 +26,8 @@ export async function autoCommitUpdatedMarkdownFormatter(): Promise<void> {
   }
   if (hasUpdatedFiles) {
     const commitMessage = `feat(markdown): enhance markdown formatter`;
+    // eslint-disable-next-line no-console
+    console.log(commitMessage);
     await git.commit(commitMessage);
   }
 }
