@@ -7,3 +7,4 @@ export * from './kaous-card';
 export * from './khosrou-card';
 export * from './kobad-card';
 export * from './lohrasp-card';
+export * from './thahmouras-card';
