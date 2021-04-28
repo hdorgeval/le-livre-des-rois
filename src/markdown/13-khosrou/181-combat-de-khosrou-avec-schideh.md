@@ -127,7 +127,7 @@ Schideh répondit à son illustre interprète :
 > Je sais d’où viennent cette force et cette bravoure : c’est la grâce de Dieu qui repose sur ce héros illustre.
 >
 > Peut-
-être, étant à pied, le vaincrai-je et dans ce combat verserai-je son sang par torrents.»
+> être, étant à pied, le vaincrai-je et dans ce combat verserai-je son sang par torrents.»
 
 Le roi du monde dit à Schideh : Ô héros de la race des grands !
 
