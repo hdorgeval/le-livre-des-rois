@@ -34,8 +34,8 @@ Je ne cesserai de combattre Afrasiab ni pendant le jour brillant ni pendant les 
 
 J’ai appelé une armée de toutes les provinces et je mènerai à bonne fin cette guerre et cette vengeance.»
 
-Il choisit dans sa cour des envoyés éloquents, in. telligents et bons conseillers ; il fit écrire dans chaque province, à tous ceux qui avaient du renom et de l’indépendance, une lettre disant : Keï Khosrou, le victorieux, a donné le signal sur le dos de son éléphant et le monde est devenu semblable au Nil. à ! 
- Ne vous livrez donc ni au repos ni au sommeil, mais préparez-vous à la guerre contre Afrasiab.»
+Il choisit dans sa cour des envoyés éloquents, in. telligents et bons conseillers ; il fit écrire dans chaque province, à tous ceux qui avaient du renom et de l’indépendance, une lettre disant : Keï Khosrou, le victorieux, a donné le signal sur le dos de son éléphant et le monde est devenu semblable au Nil. à !
+Ne vous livrez donc ni au repos ni au sommeil, mais préparez-vous à la guerre contre Afrasiab.»
 
 Cette lettre ayant été lue par tous les princes qui commandaient dans l’empire, les braves du monde
 4 entier poussèrent un cri qui fit bondir la terre comme bondissent les cagues de la mer et les grands de toutes les provinces se dirigèrent avec leurs troupes vers la cour du roi. \* Tous les grands de tous les pays ayant équipé leurs troupes pour la guerre, Khosrou visita ces différentes armées et établit de tous côtés des camps.
