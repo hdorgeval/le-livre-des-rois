@@ -20,3 +20,4 @@
 {"rule":"D_N","sentence":"^\\QLe Div noir s'avança tremblant et en crainte et fit voler la poussière vers le ciel ; le roi s'aperçut que les hurlements des animaux avaient émoussé les griffes du Div.\\E$"}
 {"rule":"ACCORD_GENRE","sentence":"^\\QLes deux armées se rencontrèrent, les Divs tremblèrent devant les bêtes féroces, Houscheng étendit ses mains comme un lion et rendit la terre étroite au vaillant Div.\\E$"}
 {"rule":"SUBJ_SUBOR","sentence":"^\\QLe roi du monde fit des prières devant le Créateur et chanta ses louanges, parce que Dieu lui avait ainsi donné l'étincelle et il ordonna que dans les prières on se dirigerait vers le feu en disant :\\E$"}
+{"rule":"D_N","sentence":"^\\QLe Div noir les précédait en poussant des cris et leurs hurlements s'élevaient jusqu'au ciel.\\E$"}
