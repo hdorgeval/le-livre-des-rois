@@ -34,14 +34,14 @@ La nuit vint ; de tous côtés on entendit des clameurs ; le monde se remplit de
 Lorque le soleil envoya ses rayons de la voûte du ciel et qu’il eut déchiré le voile noir du monde, le roi s’assit sur son cheval couleur de nuit et fit le tour de l’armée ; il dit à Bustem au corps d’éléphant :
 
 > 0
-mon ami, chef de l’armée !
+> mon ami, chef de l’armée !
 >
 > J’espère que le monde ne verra plus Afrasiab, même en songe ; soit qu’il périsse dans le combat, soit qu’il tombe vivant entre mes mains, il sentira la pointe de l’épée d’un serrviteur de Dieu.
 >
 > Je crois que de tous côtés des troupes arriveront à son aide, car sa puissance est grande ; on le craint et c’est par crainte qu’on vouedra le secourir et non par haine contre nous ou de rgaieté de cœur.
 >
-> Mais, avant qu’il puisse réunir son armée, nous ferons tous nos efforts pour lui couper stoute retraite, nous démolirons les murs de sa ; 
- ville, nous en jetterons les pieres et la terre dans le fleuve.
+> Mais, avant qu’il puisse réunir son armée, nous ferons tous nos efforts pour lui couper stoute retraite, nous démolirons les murs de sa ;
+> ville, nous en jetterons les pieres et la terre dans le fleuve.
 >
 > Les jours pénibles sont passés pour Yarmée et la fatigue va se changer en repos.
 >
