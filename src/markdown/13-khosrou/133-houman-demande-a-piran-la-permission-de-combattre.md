@@ -34,8 +34,8 @@ Piran répondit à ces paroles de Houman :
 > Ne va pas si vite et ne t’emporte pas.
 >
 > Sache, ô mon frère, que le guerrier qui s’est avancé contre nous avec 3l.
- LE LIVRE DES llOlS. y une armée .est l’élu (les grands de la cour de Kei’
-Khosrou, le chef de ses héros et un Pehlewan.
+> LE LIVRE DES llOlS. y une armée .est l’élu (les grands de la cour de Kei’
+> Khosrou, le chef de ses héros et un Pehlewan.
 >
 > D’abord Kei Khosrou porte, devant tous les peuples, la tète plus haut que mon roi ; ensuite je ne connais aucun Pehlewan du roi qui soit ’égal de Gouderz en rang, qui soit aussi fier, aussi brave, aussi prudeut dans les projels, aussi sage dans les conseils.
 >
