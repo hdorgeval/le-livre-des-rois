@@ -62,7 +62,7 @@ Les montagnes étaient remplies de bêtes fauves, les plaines couvertes d’arbr
 
 Il envoya des vedettes et des espions ponr être garanti de dangers cachés ; on plaça le camp du jeune roi sur les bords del’eau ; le maître du monde s’assit sur son trône d’or, entouré des grands, ses serviteurs et il passa ses nuits, jusqu’au retour de la pure lumière du jour, dans des fêtes qui faisaient sortir les morts de leurs tombes dans la terre noire.
 
-De l’autre côté, Afrasiab, qui se tenait à Gangue, ne cessait ni pendant le jour brillant, ni pendant le temps du sommeil, de dire à tous ses confidents, 
- aux grands pleins de vigilance et de sagesse : Maintenant que l’ennemi est arrivé jusqu’à notre chevet, comment pourrions-nous rester tranquilles à Gangue?n Tous lui répondirent : Notre ennemi étant proche, nous ne voyons que le combat, car pourquoi nous soumettrions-nous?»
+De l’autre côté, Afrasiab, qui se tenait à Gangue, ne cessait ni pendant le jour brillant, ni pendant le temps du sommeil, de dire à tous ses confidents,
+aux grands pleins de vigilance et de sagesse : Maintenant que l’ennemi est arrivé jusqu’à notre chevet, comment pourrions-nous rester tranquilles à Gangue?n Tous lui répondirent : Notre ennemi étant proche, nous ne voyons que le combat, car pourquoi nous soumettrions-nous?»
 
 Ils le dirent, se levèrent et passèrent toute la nuit à mettre en ordre leur armée.
