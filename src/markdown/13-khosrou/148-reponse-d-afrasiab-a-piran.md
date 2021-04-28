@@ -37,7 +37,7 @@ Le ciel sublime ne tourne pas toujours dans le même sens et il amène leur à t
 
 Que ces soucis ne blessent pas ton cœur, que ton esprit ne se laisse pas enchaîner par ces liens.
 
-C’est rêver que de parler des lll. 
+C’est rêver que de parler des lll.
 A26 morts ; ne renonce pas à venger ton frère, car un cœur lacéré par le meurtre d’un frère n’est pas soulagé par les remèdes des médecins.
 
 En troisième lieu tu me dis que Khosrou part de sa cour pour venir me combattre avec son armée.
