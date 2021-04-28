@@ -1,4 +1,5 @@
 import simpleGit, { SimpleGit, SimpleGitOptions } from 'simple-git';
+import path from 'path';
 import {} from 'fs';
 
 const options: Partial<SimpleGitOptions> = {
@@ -7,7 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitUpdatedSpellingDictionary() {
+export async function autoCommitUpdatedGenealogy(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -18,11 +19,10 @@ async function autoCommitUpdatedSpellingDictionary() {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (
-      unstagedFile.includes('ltex.dictionary') ||
-      unstagedFile.includes('ltex.hiddenFalsePositives')
-    ) {
-      const commitMessage = `chore(spelling): update dictionary`;
+    if (unstagedFile.includes('/graphs/')) {
+      const filename = unstagedFile.split(path.sep).pop();
+      const graphName = filename?.split('.')[0] || filename;
+      const commitMessage = `feat(${graphName}): update genealogy`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
@@ -30,5 +30,3 @@ async function autoCommitUpdatedSpellingDictionary() {
     }
   }
 }
-
-autoCommitUpdatedSpellingDictionary().then();

@@ -7,7 +7,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitUpdatedMarkdownFormatter() {
+export async function autoCommitUpdatedMarkdownFormatter(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -29,5 +29,3 @@ async function autoCommitUpdatedMarkdownFormatter() {
     await git.commit(commitMessage);
   }
 }
-
-autoCommitUpdatedMarkdownFormatter().then();
