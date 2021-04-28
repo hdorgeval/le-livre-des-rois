@@ -29,7 +29,7 @@ Son camp était entouré d’une enceinte en brocart de Chine et contenait un gr
 
 Dans cette enceinte se trouvaient des tentes en peau de léopard, selon la coutume introduite par Pescheng, roi des Turcs.
 
-Dans la tente était placé un trône incrusté d’or et 
+Dans la tente était placé un trône incrusté d’or et
 à
 un" KHOSBUU. n de pierres précieuses et le roi de Touran s’y asseyait, une massue dans la main et un diadème sur la tète.
 
@@ -99,8 +99,8 @@ Or il se trouve sur le bord de la mer de Ghilan une route, des prairies pour les
 
 Entre les deux armées se trouveront des sables et un large désert, ou l’on dressera les tentes et leurs enceintes, qui tiendront lieu de maisons.»
 
-Le cœur d’Afrasiab rajeunit à cette nouvelle et il grandit sur son trône impérial ; il avait beaucoup d’expérience et ne se réglait pas sur les paroles d’un maître. 
- Il disposa le centre de l’armée et les ailes du contre, il envoya des détachements pour observer l’ennemi, fixa un endroit pour la réserve et les bagages, et assigna leur place aux deux ailes.
+Le cœur d’Afrasiab rajeunit à cette nouvelle et il grandit sur son trône impérial ; il avait beaucoup d’expérience et ne se réglait pas sur les paroles d’un maître.
+Il disposa le centre de l’armée et les ailes du contre, il envoya des détachements pour observer l’ennemi, fixa un endroit pour la réserve et les bagages, et assigna leur place aux deux ailes.
 
 Il fit des dispositions dignes d’un roi pour l’ordre de bataille, plaça au centre cent mille hommes armés d’épées,’
 en se réservant ce poste, car il était lui-même le chef et l’ordonnatenr de l’armée ; il mit àsa gauche Pescheng, qui était fort comme un léopard vail-7 lant, qui n’avait son égal ni parmi les grands de’ l’armée ni parmi les cavaliers du monde entier, qui lançaitison cheval, saisissait la queue du léopard et l’arrachait par la force de son bras, qui portait une lance de fer et en perçait les montagnes dans le combat.
@@ -132,7 +132,7 @@ Afrasiab lui donna trente mille Chinois, cavaliers dignes de livrer combat et lu
 > Nestouh, le guerrier plein d’expérience, les commandait sous les ordres du valeureux Pescheng.
 >
 > Après eux s’avancè-
-rent trente mille héros, des Turcomans armés de massues, d’épées et d’arcs, sous la conduite du Sipehbed Aghrirès qui brûlait de combattre et qui, assis sur son cheval, ressemblaità une montagne.
+> rent trente mille héros, des Turcomans armés de massues, d’épées et d’arcs, sous la conduite du Sipehbed Aghrirès qui brûlait de combattre et qui, assis sur son cheval, ressemblaità une montagne.
 >
 > Ensuite le roi choisit. parmi les guerriers illustres quarante mille hommes armés d’épées ; le Sipehdar de cette 3.
 >
