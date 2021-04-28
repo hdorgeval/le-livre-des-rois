@@ -64,8 +64,8 @@ devant de Rustem.
 
 Le monde devint violet par la poussière que soulevaient les cavaliers, les destriers hennissaient et les drapeaux brillaient.
 
-Arrivés au-V près de lui, les grands mirent pied à terre et le saluèrent ; le Pehlewan du monde descendit de cheval, 
- LE LlVRE DES ROIS. les héros accoururent vers lui et il adressa à chacun des questions sur le roi et sur le sort que leur avait amené la rotation du soleil et de la lune.
+Arrivés au-V près de lui, les grands mirent pied à terre et le saluèrent ; le Pehlewan du monde descendit de cheval,
+LE LlVRE DES ROIS. les héros accoururent vers lui et il adressa à chacun des questions sur le roi et sur le sort que leur avait amené la rotation du soleil et de la lune.
 
 Ensuite Bustem et les héros remontèrent à cheval, semblables au brillant Adergouschasp et se rendirent auprès du roi, l’illustre Rustem marchant le premier.
 
