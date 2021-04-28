@@ -15,7 +15,7 @@ près de Lehhak et de Ferschidwerd, le cœur plein de douleur et exhalant des so
 J’ai vu les champions de l’Iran descendre de la colline en poussant des cris, tenant chacun en main un étendard ; j’ai vu le drapeau du Sipehdar Pirau renversé et son corps noyé dans son sang ; j’ai vu les dix braves qui sont partis d’ici avec Pirau pour se battre, je les ai vus la tête en bas, désarçonnés et couverts de sang.
 
 Les braves de l’Iran viennent de partir triomphalement pour rejoindre Gustehem, et, de l’autre côté de Reibed, on aperçoit une poussière noire qui obscurcit la plaine ; on y voit, au milieu d’une armée, le drapeau de Ka- weh précédé d’étendards rouges, jaunes et violets ; le drapeau du roi des rois a paru entouré de clairons et de timbales et la terre devenue noire comme l’ébène. a Lehhak et Ferschidwerd montèrent à la tour de la sentinelle. placée au-dessus du champ de bataille et virent de leurs yeux privés de vie leur Sipehbed. leur frère, leur maître et les dix cavaliers choisis x
- A parmi les chefs de l’armée, parmi les plus intrépides et les plus guerriers des Turcs.
+A parmi les chefs de l’armée, parmi les plus intrépides et les plus guerriers des Turcs.
 
 Ils restèrent dans la tour gémissant et pleurant ; ils se lamentèrent sur la mort de leur frère et dirent dans leur douleur : Ô vaillant lion, ô Sipehdar Pirau, ô cavalier plein de bravoure, maintenant tous les désirs de tes ennemis sont remplis ; le monde n’existe plus pour toi, tout est fini.
 
