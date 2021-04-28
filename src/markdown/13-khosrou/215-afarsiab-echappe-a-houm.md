@@ -82,7 +82,6 @@ Houm lui répondit :
 >
 > Je t’ai dit tout se-’ Ion la vérité.»
 
--
-Lorsque Gouderz eut entendu ce récit, il lui vint en mémoire d’anciennes prophéties ; il s’en retourna vers le temple d’Adergouschasp, tout pensif et comme un homme qui a perdu la raison.
+- Lorsque Gouderz eut entendu ce récit, il lui vint en mémoire d’anciennes prophéties ; il s’en retourna vers le temple d’Adergouschasp, tout pensif et comme un homme qui a perdu la raison.
 
 Il commença par adorer le feu et adressa des prières au Créateur du monde ; ayant fini ses dévotions, il dévoila son secret et raconta aux deux rois ce qu’il avait vu et les rois montèrent à l’instant à cheval et quittèrent le palais attenant au temple d’Adergouschasp.
