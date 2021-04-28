@@ -31,8 +31,8 @@ Vous êtes des Pehlewans, les plus sages des hommes et les plus puissants pour a
 Maintenant rassemblez de Kanoudj et de Dambar, de Margh et de Maï tous les hommes de bon conseil et les astrologues de Kaboul et les sages du Zabonlistan et amenez -les avec vous dans l’Iran ; car ce royaume est plein de rumeurs depuis que Khosrou nous refuse accès et conseil ; nous nous sommes consultés de tente manière et nous n’espérons une solution que du Destan. n Guiv, ayant écouté les paroles de Gouderz, choi-ï
 sit dans l’armée des hOmmes vaillants, et, poussé par ses soucis, se hâta de se mettre en route pour le Seistan.
 
-Lorsqu’il fut arrivé auprès du Destau et de 16. 
- Bustem, il leur raconta les choses étranges qu’il avait vues et entendues.
+Lorsqu’il fut arrivé auprès du Destau et de 16.
+Bustem, il leur raconta les choses étranges qu’il avait vues et entendues.
 
 Zal devint soucieux et répondit à l’illustre Guiv :
 
@@ -45,7 +45,7 @@ Ensuite il dit à Bustem :
 > Khosrou cependant s’était tenu toute une semaine debout devant Dieu et le huitième jour, lorsque le soleil qui éclaire le monde se leva, il monta sur son trône d’or et le grand chambellan ouvrit le rideau de la porte de la salle d’audience.
 >
 > Tous les Pehlewans et les Mobeds se présentèrent devant le roi de la terre et le maître du monde, lorsqu’il les vit, les re-
-çut gracieusement et leur assigna leurs places selon la coutume des Keïanides.
+> çut gracieusement et leur assigna leurs places selon la coutume des Keïanides.
 >
 > Les grands pleins de sagesse et de bons conseils se tinrent longtemps debout devant lui ; personne parmi ces serviteurs illustres du roi ne s’assit, tous gardèrent leurs mains croisées.
 >
@@ -60,7 +60,7 @@ Ensuite il dit à Bustem :
 > Depuis longtemps nos cœurs sont pleins de tourments et d’amiction.
 >
 > Que le roi découvre son secret à nous, les gardiens de ses frontières, à nous, qui ne savons plus quelle voie suivre ; et si c’est la mer qui l’importune, nous la desséche--
-rons, nous la couvrirons d’une couche de poussière de musc ; si c’est une montagne, nous l’arracherons de ses fondements, nous percerons de nos poignards le cœur des ennemis du roi.
+> rons, nous la couvrirons d’une couche de poussière de musc ; si c’est une montagne, nous l’arracherons de ses fondements, nous percerons de nos poignards le cœur des ennemis du roi.
 >
 > Si des trésors peuvent guérir son mal, il n’aura plus jamais à s’afiliger du manque de richesses, car nous tous sommes tes trésoriers ; nous sommes tous remplis de tristesse, nous tous pleurons sur tes peines.»
 
