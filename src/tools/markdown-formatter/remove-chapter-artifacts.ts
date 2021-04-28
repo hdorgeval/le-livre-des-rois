@@ -20,6 +20,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/TiUERSCHASP\./g, ''),
     (content: string) => content.replace(/KAÏOUMORS\./g, ''),
     (content: string) => content.replace(/HO U SCII E N G\./g, ''),
+    (content: string) => content.replace(/THAHMOUIIAS\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES BOIS\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES ROIS\./g, ''),
     (content: string) => content.replace(/LE LlVRE DES ROIS\./g, ''),
