@@ -34,7 +34,7 @@ KEÏ KHOSROU.
 Il salua Piran, en disant :
 
 > Ô illustre Pehlewan, dont ’
-la fortune et les hauts faits remplissent le Touran et l’Iran, personne n’est aussi digne du pouvoir et du diadème que toile conseiller des rois et l’ornement de leur trône.»
+> la fortune et les hauts faits remplissent le Touran et l’Iran, personne n’est aussi digne du pouvoir et du diadème que toile conseiller des rois et l’ornement de leur trône.»
 
 Piran, par la grâce du Maître du monde, ne reconnut pas Rustem et il lui demanda :
 
@@ -65,7 +65,7 @@ Il lui remit ces présents en invoquant les grâces de Dieu sur lui et cette aff
 Lorsque Piran vit les joyaux que contenait la coupe brillante, il appela les I bénédictions de Dieu sur Rustem, le reçut gracieusement, le fit asseoir sur son trône de turquoises et lui dit :
 
 > Vat’en en paix, entre dans la ville en toute sécurité, car je vais te préparer un logis au-
-près de moi ; n’aie pas d’inquiétude sur tes trésors, personne n’osera te chercher querelle.
+> près de moi ; n’aie pas d’inquiétude sur tes trésors, personne n’osera te chercher querelle.
 >
 > Va et apporte ici tout ce que tu as de précieux et cherche partout des acheteurs.
 >
