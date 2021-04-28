@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/EFm7JpD9jy8'
 landscape: 'https://source.unsplash.com/EFm7JpD9jy8'
 source: tome I - livre des rois - P. 021
-tags: ["Ahriman", "âme", "Dieu", "Div", "Divs", "Serosch", "Siamek"]
+tags: ['Ahriman', 'âme', 'Dieu', 'Div', 'Divs', 'Serosch', 'Siamek']
 order: '002'
 ---
 
