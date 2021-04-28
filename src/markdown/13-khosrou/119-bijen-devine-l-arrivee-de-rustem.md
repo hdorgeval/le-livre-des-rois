@@ -80,8 +80,8 @@ Il eut pitié d’elle et lui dit :
 >
 > Tu as souffert longtemps des maux sans nombre et par tendresse pour lui tu as supporté le mépris et l’oppression.
 >
-> Dis-lui que c’est le maître de Baksch que lui envoie Dieu le secourable et que j’ai fait à cause (le lui ce long chemin qui mène 27. 
- du Zaboulistan dans l’Iran et de l’lrau dans le Touran.
+> Dis-lui que c’est le maître de Baksch que lui envoie Dieu le secourable et que j’ai fait à cause (le lui ce long chemin qui mène 27.
+> du Zaboulistan dans l’Iran et de l’lrau dans le Touran.
 >
 > Quand tu lui auras porté ce message, tu n’en parleras plus à personne ; tu prêteras dans la nuit sombre l’oreille au moindre bruit ; pendant le jour tu apporteras du bois de la forêt ; et la nuit venue, tu allumeras un grand feu, pour que je puisse reconnaître l’entrée du cachot et me diriger sur la lueur de la flamme.»
 
