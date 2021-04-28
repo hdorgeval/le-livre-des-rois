@@ -28,7 +28,7 @@ Il lui dit :
 > Il ne faut pas que je m’écarte de cette voie droite et que ma tête s’égare comme celle des rois anciens.
 >
 > J’ai demandé et obtenu beau-
-coup dans le monde, mais il faut que je me prépare au départ, car les bonnes nouvelles sont arrivées.
+> coup dans le monde, mais il faut que je me prépare au départ, car les bonnes nouvelles sont arrivées.
 >
 > Hier matin mes yeux se sont endormis et le bienheureux Serosch est arrivé, envoyé par Dieu, disant : Prépare-toi, le moment de ta mort est proche et tes malheurs et tes insomnies sont termiués.
 >
