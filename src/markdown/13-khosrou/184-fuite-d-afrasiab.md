@@ -21,7 +21,7 @@ Ensuite il dit à son armée :
 > A cette nouvelle, Khosrou se hâta de se prosterner dans la poussière pour adorer le saint Maître de la justice, disant : Ô créateur resplendissant de lumière, maître du monde, toi qui veilles survtous et nourris tous ; tu m’as donné la dignité royale, le diadème et le pouvoir, tu as aveuglé le cœur et les yeux de mon ennemi.
 >
 > Fais disparaître de la terre l’oppres- (i.
- seur, rends-le misérable par des terreurs incessautes.»
+> seur, rends-le misérable par des terreurs incessautes.»
 
 Lorsque le soleil éleva son bouclier d’or et que la nuit se couvrit de sa chevelure de turquoises, le maître du monde s’assit sur son trône d’ivoire et posa sur sa tête la couronne qui réjouissait les cœurs.
 
