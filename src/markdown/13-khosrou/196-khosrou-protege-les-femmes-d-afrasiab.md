@@ -79,7 +79,7 @@ Elles lui rendirent. hommage dans leur douleur et la reine lui dit :
 > Malle a tenant jette un regard de roi sur nous qui sommes innocentes.
 >
 > Nous sommes toutes dépendantes de Khosrou, nous n’entendons dans le monde d’autre nom que le sien et il ne voudra pas faire souffrir ces femmes innocentes des mauvaises actions d’A-
--frasiab, le magicien et s’attaquer sans réflexion à celles qui n’ont pas fait de mal, les affliger, les blesser et verser leur sang.
+> -frasiab, le magicien et s’attaquer sans réflexion à celles qui n’ont pas fait de mal, les affliger, les blesser et verser leur sang.
 >
 > Car il n’est pas digne d’un roi de trancher une tête qui n’est pas coupable.
 >
@@ -92,7 +92,7 @@ Les chefs de l’armée, les princes vaillants rendirent des hommages au puissan
 Le sage Khosrou leur répondit :
 
 > Malgré tout ce
-(tout j’ai à me plaindre, je ne ferai de mal à per- sonne, si avide de vengeance que soit mon âme.
+> (tout j’ai à me plaindre, je ne ferai de mal à per- sonne, si avide de vengeance que soit mon âme.
 >
 > Je suis soucieux de ce que fait ce prince puissant, a mais le malheur de sesfemmes me peine et quoiqu’il ait agi méchamment envers ma mère, pleine de vertus, je ne veux pas faire le même mal à d’autres.»
 
