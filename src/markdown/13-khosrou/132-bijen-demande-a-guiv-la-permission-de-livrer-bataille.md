@@ -30,8 +30,8 @@ Après le glorieux Rustem, il n’y avait pas dans l’Iran un cavalier comme Go
 
 Sois convaincu qu’il n’a plus de sang dans le corps, qu’il est trop faible pour le combat des braves.
 
-Cc n’est pas le vieux Gouderz qui m’étonne, Gouderz dont la pensée n’est plus à son pays ; mais c’est toi, 
- ô mon père, toi de qui les lions empruntent la bravoure.
+Cc n’est pas le vieux Gouderz qui m’étonne, Gouderz dont la pensée n’est plus à son pays ; mais c’est toi,
+ô mon père, toi de qui les lions empruntent la bravoure.
 
 Deux armées ont les yeux sur toi ; montre donc de l’ardeur, allume ta colère.
 
