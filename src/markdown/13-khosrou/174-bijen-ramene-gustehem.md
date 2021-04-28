@@ -50,11 +50,11 @@ Au sein de la vice : taire, mon inquiétude pour Gustehem avait attristé mon c�
 
 Khosrou appela alors Bijen fils de Guiv, mit sa main dans celle du vaillant Gustehem et lui dit :
 
-> Tu es un homme pieux et fortuné ; ne crains jamais pour ta vie ; car Dieu est éternellement secourable, 
- et lui seul prend par la main ceux qui sont en danger.
+> Tu es un homme pieux et fortuné ; ne crains jamais pour ta vie ; car Dieu est éternellement secourable,
+> et lui seul prend par la main ceux qui sont en danger.
 >
 > Si jamais le Maître du monde a rendu la
-4 vie à un mort, c’est à Gustehem.»
+> 4 vie à un mort, c’est à Gustehem.»
 
 Ensuite il dit à Gustehem :
 
