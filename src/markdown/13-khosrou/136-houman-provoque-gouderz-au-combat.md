@@ -76,7 +76,7 @@ Houman répondit d’une voix terrible :
 > Qui sont donc vos héros et les chefs de votre armée ?
 >
 > Le roi
-, maître du monde a dit un mot dont il me souvient sur ce champ de bataille : Si tu es tenté de t’emparer’ du trône des rois, résiste à la tentation ; mais si tu persistes, alors ne détourne pas le visage de devant la flamme.
+> , maître du monde a dit un mot dont il me souvient sur ce champ de bataille : Si tu es tenté de t’emparer’ du trône des rois, résiste à la tentation ; mais si tu persistes, alors ne détourne pas le visage de devant la flamme.
 >
 > Tu n’as pas envie de com-
 >
@@ -102,8 +102,8 @@ teurs comme un homme ivre et la montagne s’abaissait sous les cris qu’il pou
 Le son des trompettes d’airain s’éleva de la plaine et monta dans les airs ; et les braves de l’armée des Turcs frottè-
 rent, dans leur joie, leurs casques contre le cercle de la lune.
 
-Gouderz voyant Houman partir si triomphalement, frémit de cette bravade, son cœur fut Un . 
- accablé de honte et cette indignité le remplit de colère et d’impatience.
+Gouderz voyant Houman partir si triomphalement, frémit de cette bravade, son cœur fut Un .
+accablé de honte et cette indignité le remplit de colère et d’impatience.
 
 Il était si honteux devant les braves que la sueur coulait sur lui ; mais il tira un présage heureux de ce qui se passait, disant : Ce sont eux qui ont commencé à verser du sang et malheur à ceux qui commencent le mal.»
 
