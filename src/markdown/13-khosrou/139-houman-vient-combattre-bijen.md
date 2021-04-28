@@ -25,17 +25,17 @@ Sa poitrine était couverte d’une cette de mailles de Pehlewan et sur sa tête
 Il dit à Houman :
 
 > Ô homme léger, rappelle-toi qu’hier tu m’as dérobé ta lère, mais j’espère qu’au-
-:rjourd’hui mon épée la séparera de ton corps et trempera la terre de ton sang.
+> :rjourd’hui mon épée la séparera de ton corps et trempera la terre de ton sang.
 >
 > Tu n’aurais pas dû oublier le mot que l’argali sauvage à dit à l’antice lope : Quand toute la plaine serait couverte de soie, je ne m’approcherais pas du côté où mon pied au-
-rait échappé à un piégc ; je saurais m’en souvenir.»
+> rait échappé à un piégc ; je saurais m’en souvenir.»
 
 Houman lui répondit :
 
 > Guiv sera aujourd’hui n frappé au cœur et privé de son vaillant fils.
 >
-> Choi-’sis-tu le mont Kenabed pour lieu de combat, ou prélÊlrcslu aller du côté (le Reibed, afin que perun . , 
- sonne ne puisse venir à notre aide, afin que ni Iranien ni Touranien ne puisse nous secourir ni l’un ni l’autre ?»
+> Choi-’sis-tu le mont Kenabed pour lieu de combat, ou prélÊlrcslu aller du côté (le Reibed, afin que perun . ,
+> sonne ne puisse venir à notre aide, afin que ni Iranien ni Touranien ne puisse nous secourir ni l’un ni l’autre ?»
 
 Bijen dit :Quc de paroles !
 
