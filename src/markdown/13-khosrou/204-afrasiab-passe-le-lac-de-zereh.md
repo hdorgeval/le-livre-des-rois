@@ -10,7 +10,7 @@ order: '204'
 # Afrasiab passe le lac de Zereh
 
 Afrasiab, à ces paroles, se repentit de ce qu’il Il.
- avait fait autrefois.
+avait fait autrefois.
 
 Il renonça aux pompes du pouvoir pour sauver sa vie et prit la route du désert à travers le pays.
 
@@ -51,8 +51,8 @@ KEl KHUSltOU. ’ Lorsque Keï Khosrou apprit ce qui s’était passé et que le
 > Vous avez supporté bien des fatigues, vous avez laissé derrière vous les pays cultivés ; prenez sur vous encore cette nouvelle peine, cela vaut mieux que d’abandonner le monde à votreennemi et l’on célébrera jusqu’à la résurrection votre victoire et la défaite d’Afrasiab.»
 
 ’
-Ce discours irrita les Pehlewans, leurs bouches se remplirent de paroles vaines, leurs sourcils se froncèrent ; ils dirent : C’est une mer pleine de vagues. 
- La LIVRE bas sors. et l’armée est trop nombreuse pour la livrer au vent et à une navigation de six mois.
+Ce discours irrita les Pehlewans, leurs bouches se remplirent de paroles vaines, leurs sourcils se froncèrent ; ils dirent : C’est une mer pleine de vagues.
+La LIVRE bas sors. et l’armée est trop nombreuse pour la livrer au vent et à une navigation de six mois.
 
 Qui sait qui en reviendra ?
 
