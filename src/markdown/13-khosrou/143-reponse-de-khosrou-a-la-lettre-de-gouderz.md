@@ -46,8 +46,8 @@ Voilà ce que tu m’as dit et je vais te donner ma réponse.
 Sache donc, ô mon sage et prudent ami, ô chef de mes armées, toi qui es propre à toute affaire, que ce n’est pas pour nous attaquer
 .qu’Afrasiab s’arrête sur les bords du Djihoun ; car là où il a amené son armée des frontières de la Chine, il se trouvera attaqué de deux côtés.
 
-En quatrième lieu, ces armées nombreuses, ces chefs qui enveloppent le Touron de toutes parts, le Sipehbed Bustem le crocodile bondissant, comme Lohrasp, comme Aschkesch ardent au combat, 
- marchent de tous côtés contre Afrasiab.
+En quatrième lieu, ces armées nombreuses, ces chefs qui enveloppent le Touron de toutes parts, le Sipehbed Bustem le crocodile bondissant, comme Lohrasp, comme Aschkesch ardent au combat,
+marchent de tous côtés contre Afrasiab.
 
 C’est pourquoi il a mené son armée sur le bord du Djihoun ; et s’il quittait sa position, il livrerait à ses ennemis tout son pays. y Enfin tu m’as demandé des nouvelles des héros pour lesquels ton cœur est plein de tendresse.
 
