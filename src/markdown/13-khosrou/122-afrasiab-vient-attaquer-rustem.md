@@ -53,8 +53,8 @@ Afrasiab, en voyant cette armée, à la tête de laquelle brillait Rustem, fut s
 
 Il forma sa ligne, selon les règles, en face de celle des Iraniens ; l’air devint noir, la terre disparut.
 
-Il confia l’aile gauche à Piran, envoya le vaillant Houman à l’aile droite, 
- plaça au centre Guersiwez et Schideh et se réserva la surveillance de toute la ligne.
+Il confia l’aile gauche à Piran, envoya le vaillant Houman à l’aile droite,
+plaça au centre Guersiwez et Schideh et se réserva la surveillance de toute la ligne.
 
 Tehemten tout couvert de fer et semblable à une montagne noire, tournait devant l’armée turque et s’écriait d’une voix terrible : Ô misérable Turc, opprobre de ton pays, j de t’a couronne et de ton trône, tu n’as pas le courage de combattre comme il convient à un cavalier : tu n’as pas honte de paraître devant les braves de ton armée.
 
