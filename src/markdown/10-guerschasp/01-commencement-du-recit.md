@@ -3,7 +3,35 @@ date: ''
 image: 'https://source.unsplash.com/EFm7JpD9jy8'
 landscape: 'https://source.unsplash.com/EFm7JpD9jy8'
 source: tome I - livre des rois - P. 348
-tags: ["Afrasiab", "Aghrirez", "âme", "cyprès", "Dieu", "Djihoun", "Guerschasp", "Iran", "Kaboul", "Keïanides", "Khar-Reï", "Mazenderan", "Pehlewan", "Pescheng", "Rustem", "Sam", "Sipehbed", "Sipend", "Sipendjab", "Touran", "Touraniens", "Turcs", "Zaboulistan", "Zadschem", "Zal", "Zew"]
+tags:
+  [
+    'Afrasiab',
+    'Aghrirez',
+    'âme',
+    'cyprès',
+    'Dieu',
+    'Djihoun',
+    'Guerschasp',
+    'Iran',
+    'Kaboul',
+    'Keïanides',
+    'Khar-Reï',
+    'Mazenderan',
+    'Pehlewan',
+    'Pescheng',
+    'Rustem',
+    'Sam',
+    'Sipehbed',
+    'Sipend',
+    'Sipendjab',
+    'Touran',
+    'Touraniens',
+    'Turcs',
+    'Zaboulistan',
+    'Zadschem',
+    'Zal',
+    'Zew',
+  ]
 order: '001'
 ---
 
