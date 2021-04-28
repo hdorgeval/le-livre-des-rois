@@ -20,7 +20,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 > Ton cœur et ta langue ne sont pas en harmonie ; ton esprit n’est pas riche de jugement.
 >
 > Tu emploies toujours la douceur, tu te sers de pa- roles fleuries ; et quiconque n’a pas un esprit péné-
-KEÏ KHOSROU. fait trant doit croire que tu es un homme plein d’humanité ; mais tu es comme ces pays maudits qui, lorsque le soleil donne dessus, offrent de loin l’apparence d’un lac.
+> KEÏ KHOSROU. fait trant doit croire que tu es un homme plein d’humanité ; mais tu es comme ces pays maudits qui, lorsque le soleil donne dessus, offrent de loin l’apparence d’un lac.
 >
 > Et pourtant ce n’est pas le temps de la ruse et de la tromperie, quand il s’agit de prendre les massues, les lances et les lacets.
 >
@@ -74,8 +74,7 @@ KEÏ KHOSROU. fait trant doit croire que tu es un homme plein d’humanité ; ma
 >
 > Tu dis qu’il ne
 >
-> 
-à" LE LIVRE DES Bols. faut pas priver les vivants de la vie pour un homme qui est devenu poussière.
+> à" LE LIVRE DES Bols. faut pas priver les vivants de la vie pour un homme qui est devenu poussière.
 >
 > Mais quand je me rappelle vos actes atroces, tous les tourments que vous avez infligés à nos cœurs par les crimes que vous avez commis dans le pays d’Iran, toutes les angoisses que vous avez fait éprouver à nos rois, tous les traités que vous avez violés, toutes les guerres que vous avez commencées et le mal dont : vous avez toujours été les instigateurs, quand je me rappelle cela, comment ferais-je la paix avec toi qui as toujours regardé comme bonnes les actions mau-vaises ?
 >
@@ -108,7 +107,7 @@ KEÏ KHOSROU. fait trant doit croire que tu es un homme plein d’humanité ; ma
 > Si tu consens à te battre avec moi, je te débarrasserai de ces discussions et à l’aide de la force que Dieu m’a donnée, et par ordre du roi, j’inonderai de sang ce champ de bataille.
 >
 > Réfléchis, ô illustre Pehlewan, sur la manière dont le soleil et la lune ont tourné ; la chaîne du son est descendue du ciel et la tête de irla fortune (les Turcs est placée sous les ciseaux.
-:.
+> :.
 >
 > MG Songe à la rétribution que le Créateur réserve à tes crimes ; car le sort a retiré le pan de sa robe de dessus les malheurs qui te menacent et déjà apparaît le mal qui doit punir le mal que tu as fait.
 >
