@@ -1,6 +1,4 @@
 import simpleGit, { SimpleGit, SimpleGitOptions } from 'simple-git';
-import path from 'path';
-import {} from 'fs';
 
 const options: Partial<SimpleGitOptions> = {
   baseDir: process.cwd(),
@@ -8,10 +6,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitEpisodesWithUpdatedTags(sourceFolder: string) {
-  const search = sourceFolder.match(/\/\d\d-(.*)\//i);
-  const reign = search ? search[1] : 'reign';
-
+export async function autoCommitUpdatedTagsTools(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -22,10 +17,17 @@ async function autoCommitEpisodesWithUpdatedTags(sourceFolder: string) {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes(sourceFolder)) {
-      const filename = unstagedFile.split(path.sep).pop();
-      const episodeNumber = Number(filename?.split('-')[0]);
-      const commitMessage = `feat(${reign}): update tags in episode n° ${episodeNumber}`;
+
+    if (unstagedFile.includes('noises.ts')) {
+      const commitMessage = `chore(tags): update noises dictionary`;
+      await git.add(unstagedFile);
+      await git.commit(commitMessage);
+      // eslint-disable-next-line no-console
+      console.log(commitMessage);
+    }
+
+    if (unstagedFile.includes('favorites.ts')) {
+      const commitMessage = `chore(tags): update favorites dictionary`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
@@ -33,5 +35,3 @@ async function autoCommitEpisodesWithUpdatedTags(sourceFolder: string) {
     }
   }
 }
-
-autoCommitEpisodesWithUpdatedTags('/03-thamouras/').then();
