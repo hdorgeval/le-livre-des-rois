@@ -9,7 +9,7 @@ order: '001'
 
 # Commencement du récit
 
-Djemschid, son fils glorieux, plein d’énergie, et le cœur rempli des conseils de son père, monta sur le trône brillant de Thahmouras, la couronne d’or sur la tête, selon la coutume des rois ; il était ceint de la splendeur impériale et l’univers entier se soumit à lui.
+Djemschid, son fils glorieux, plein d’énergie et le cœur rempli des conseils de son père, monta sur le trône brillant de Thahmouras, la couronne d’or sur la tête, selon la coutume des rois ; il était ceint de la splendeur impériale et l’univers entier se soumit à lui.
 
 Le monde était calme et sans discorde et les Divs, les oiseaux et les Péris lui obéirent.
 
@@ -17,7 +17,7 @@ La prospérité du monde s’accrut par lui et le trône des rois brilla sous lu
 
 Il dit :
 
-> Je suis orné de l’éclat de Dieu, je suis roi et je suis Mobed ; j’empêcherai les méchants de faire le mal, je guiderai les esprits vers la lumière.»
+> Je suis orné de l’éclat de Dieu, je suis roi et je suis Mobed ; j’empêcherai les méchants de faire le mal, je guiderai les esprits vers la lumière.
 
 D’abord il s’occupa des armes de guerre pour ouvrir aux braves la route de la gloire.
 
@@ -47,14 +47,13 @@ Ils sont libres et la culture de la terre leur est due ; ils n’ont pas d’enn
 
 Un homme sage et libre a dit :
 
-> C’est la paresse qui rend esclaves ceux qui devraient être libres.»
+> C’est la paresse qui rend esclaves ceux qui devraient être libres.
 
 La quatrième caste est celle des Ahnoukhouschi, qui sont actifs pour le gain et pleins d’arrogance ; les métiers sont leur occupation et leur esprit est toujours en souci.
 
 Djemschid y employa encore cinquante ans, pendant lesquels il conféra beaucoup de bienfaits.
 
-Il assigna à chacun la place qui lui convenait et leur indiqua leur voie, pour que tous comprissent leur position et reconnussent ce qui était au-dessus et au-
-dessous d’eux.
+Il assigna à chacun la place qui lui convenait et leur indiqua leur voie, pour que tous comprissent leur position et reconnussent ce qui était au-dessus et au-dessous d’eux.
 
 Puis le roi ordonna aux Divs impurs de mêler de l’eau avec de la terre ; et lorsqu’ils eurent compris ce qu’on pouvait en faire, ils préparèrent des moules pour y former des briques légères.
 
@@ -106,11 +105,13 @@ Il appela de l’armée tous les grands de l’empire et leur fit beaucoup de di
 >
 > Le pouvoir, le diadème et l’empire sont à moi.
 >
-> Qui oserait dire qu’il y a un roi autre que moi ? J’ai sauvé le monde par les médecines et les remèdes, de sorte que les maladies et la mort n’ont atteint personne : tant que le monde aura des rois, qui d’entre eux pourrait éloigner la mort, si ce n’est moi ?
+> Qui oserait dire qu’il y a un roi autre que moi ?
+>
+> J’ai sauvé le monde par les médecines et les remèdes, de sorte que les maladies et la mort n’ont atteint personne : tant que le monde aura des rois, qui d’entre eux pourrait éloigner la mort, si ce n’est moi ?
 >
 > C’est moi qui vous ai doués d’âme et d’intelligence ; et il n’y a que ceux qui appartiennent à Ahriman qui ne m’adorent pas.
 >
-> Maintenant que vous savez que c’est moi qui ai fait tout cela, il faut reconnaître en moi le créateur du monde.»
+> Maintenant que vous savez que c’est moi qui ai fait tout cela, il faut reconnaître en moi le créateur du monde.
 
 Tous les Mobeds laissaient tomber leur tête, personne ne savait que répondre.
 
@@ -120,6 +121,8 @@ Chacun détourna sa face de la cour du roi, aucun des grands ne resta auprès de
 
 Quand la raison ne se soumet pas à Dieu, elle amène la destruction sur elle-même et s’anéantit.
 
-Un homme sage a dit avec justesse et prudence : Quoique tu sois roi, pratique l’humilité envers Dieu ; car quiconque ne révère pas le Créateur, ne trouve de tous côtés que des terreurs.»
+Un homme sage a dit avec justesse et prudence :
+
+> Quoique tu sois roi, pratique l’humilité envers Dieu ; car quiconque ne révère pas le Créateur, ne trouve de tous côtés que des terreurs.
 
 Le jour s’obscurcit devant Djemschid ; son pouvoir, qui avait illuminé le monde, disparut ; le sang coula de ses yeux sur son sein ; il demanda pardon à Dieu : mais sa grâce l’avait abandonné et les terreurs du criminel s’étaient emparées de lui.
