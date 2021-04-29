@@ -68,6 +68,7 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/\. ll /g, '. Il '),
     (content: string) => content.replace(/sur\. le/g, 'sur le'),
     (content: string) => content.replace(/ z /g, ' : '),
+    (content: string) => content.replace(/\. lls /g, '. Ils '),
     removePageNumbers,
     mergeSplittedWords,
     mergeSplittedSentences,

@@ -49,6 +49,8 @@ import { mergeSplittedWords } from '.';
   'très-juste',
   'très-saint',
   'Zal-Zer',
+  'vingt-trois',
+  'jusque-là',
 ].forEach((word) => {
   test(`Should not merge '${word}'`, () => {
     // Given
