@@ -29,6 +29,6 @@ Ils demeurèrent là une année dans leur douleur, quand vint un message de Dieu
 
 Le bienheureux Serosch porta au roi la bénédiction divine et lui dit :
 
-> Dorénavant ne gémis plus et reprends ton cœur ; prépare ton armée, mène la au combat selon mes ordres ; et réduis en poussière l’armée des Divs ; délivre la face de la terre de ce méchant Div et satisfais ton âme par la vengeance.»
+> Dorénavant ne gémis plus et reprends ton cœur ; prépare ton armée, mène-la au combat selon mes ordres ; et réduis en poussière l’armée des Divs ; délivre la face de la terre de ce méchant Div et satisfais ton âme par la vengeance.
 
 Le roi illustre leva la tête vers le ciel et invoqua le malheur sur ses ennemis ; Dieu l’appela par cet ange au nom sublime et mit fin à ses pleurs ; il se hâta de venger Siamek et ne prit de repos et de sommeil ni le jour ni la nuit.
