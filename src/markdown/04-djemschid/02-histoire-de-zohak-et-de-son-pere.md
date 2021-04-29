@@ -35,11 +35,11 @@ Il adressa beaucoup de discours avec décence et douceur à ce jeune homme, dont
 
 Iblis lui dit :
 
-> Je sais beaucoup de choses que personne ne peut apprendre que de moi.»
+> Je sais beaucoup de choses que personne ne peut apprendre que de moi.
 
 Le jeune homme lui répondit :
 
-> Dis et ne tarde pas ; enseigne-moi, homme aux bons avis.»
+> Dis et ne tarde pas ; enseigne-moi, homme aux bons avis.
 
 Iblis demanda d’abord son serment, promettant qu’il lui révélerait après la parole de la vérité.
 
@@ -57,17 +57,17 @@ Alors Iblis lui dit :
 >
 > La vie de ce vieillard sera encore longue et pendant ce temps, tu resteras dans l’obscurité.
 >
-> Prends son trône puissant ; c’est à toi que doit appartenir sa place ; et si tu veux suivre mon avis, tu seras un grand roi sur la terre.»
+> Prends son trône puissant ; c’est à toi que doit appartenir sa place ; et si tu veux suivre mon avis, tu seras un grand roi sur la terre.
 
 Lorsque Zohak entendit cela, il se mit à rêver et son cœur s’apitoyait sur le sang de son père.
 
 Il dit à Iblis :
 
-> Cela ne se peut pas ; conseille-moi autre chose, car cela n’est pas possible.»
+> Cela ne se peut pas ; conseille-moi autre chose, car cela n’est pas possible.
 
 Iblis lui répondit :
 
-> Si tu n’accomplis pas mon ordre, si tu manques à ta promesse et à la foi jurée, ton serment et mon lien demeureront attachés à ton cou ; tu seras un être vil et ton père restera en honneur.»
+> Si tu n’accomplis pas mon ordre, si tu manques à ta promesse et à la foi jurée, ton serment et mon lien demeureront attachés à ton cou ; tu seras un être vil et ton père restera en honneur.
 
 Il enveloppa ainsi de ses filets la tête de l’Arabe et l’amena à se décider à lui obéir.
 
@@ -77,7 +77,7 @@ Iblis lui dit :
 
 > Je te préparerai les moyens, j’élèverai ta tête jusqu’au soleil ; tu n’as qu’à observer le silence : voilà tout.
 >
-> Je n’ai besoin de l’aide de personne ; je disposerai tout comme il faudra : seulement garde-toi de tirer du fourreau l’épée de la parole.»
+> Je n’ai besoin de l’aide de personne ; je disposerai tout comme il faudra : seulement garde-toi de tirer du fourreau l’épée de la parole.
 
 Le roi avait dans l’enceinte du palais un jardin qui réjouissait son cœur ; il avait coutume de se lever avant le jour, pour se préparer à la prière et de se laver secrètement, dans le jardin, la tête et le corps, sans avoir même un serviteur pour porter son flambeau.
 
@@ -101,6 +101,6 @@ Ainsi s’empara le vil, le criminel Zohak du trône de son père ; il mit sur s
 
 Iblis voyant ces choses accomplies, trama un nouveau plan et dit à Zohak :
 
-> Aussitôt que tu as tourné ton cœur vers moi, tout ce que tu désirais au monde, tu l’as obtenu ; et si tu veux de nouveau t’engager par serment, si tu veux m’obéir et suivre mes ordres, alors le monde entier sera ton royaume ; les animaux sauvages, les oiseaux et les poissons seront à toi.»
+> Aussitôt que tu as tourné ton cœur vers moi, tout ce que tu désirais au monde, tu l’as obtenu ; et si tu veux de nouveau t’engager par serment, si tu veux m’obéir et suivre mes ordres, alors le monde entier sera ton royaume ; les animaux sauvages, les oiseaux et les poissons seront à toi.
 
 Lorsqu’il eut parlé de cette manière, il prépara quelque chose de nouveau et imagina une autre ruse étonnante.
