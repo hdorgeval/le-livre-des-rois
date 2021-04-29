@@ -1,3 +1,4 @@
+export * from './djemschid-episodes';
 export * from './episode-card';
 export * from './guerschasp-episodes';
 export * from './guschtasp-episodes';
