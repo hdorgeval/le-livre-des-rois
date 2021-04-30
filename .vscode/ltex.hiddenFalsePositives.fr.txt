@@ -22,3 +22,4 @@
 {"rule":"SUBJ_SUBOR","sentence":"^\\QLe roi du monde fit des prières devant le Créateur et chanta ses louanges, parce que Dieu lui avait ainsi donné l'étincelle et il ordonna que dans les prières on se dirigerait vers le feu en disant :\\E$"}
 {"rule":"D_N","sentence":"^\\QLe Div noir les précédait en poussant des cris et leurs hurlements s'élevaient jusqu'au ciel.\\E$"}
 {"rule":"AN_ANNEE","sentence":"^\\QC'est ainsi qu'il remplit encore cinquante années et nulle qualité des êtres ne restait cachée devant son esprit.\\E$"}
+{"rule":"ACCORD_R_PERS_VERBE","sentence":"^\\QIls tuèrent l'un des deux, car ils ne savaient aucun moyen de faire autrement, puis il prirent la cervelle d'un mouton et la mêlèrent à la cervelle de l'homme.\\E$"}
