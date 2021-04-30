@@ -1,3 +1,4 @@
+export * from './auto-commit-new-tags';
 export * from './auto-commit-updated-geneaology';
 export * from './auto-commit-updated-git-helpers';
 export * from './auto-commit-updated-latex-files';
