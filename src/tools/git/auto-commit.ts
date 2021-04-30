@@ -1,5 +1,6 @@
 import {
   autoCommitNewGitHelpers,
+  autoCommitNewMarkdownTags,
   autoCommitUpdatedGenealogy,
   autoCommitUpdatedGitHelpers,
   autoCommitUpdatedLatexFiles,
@@ -13,3 +14,4 @@ autoCommitUpdatedMarkdownFormatter().then();
 autoCommitUpdatedLatexFiles().then();
 autoCommitUpdatedGenealogy().then();
 autoCommitUpdatedTagsTools().then();
+autoCommitNewMarkdownTags().then();

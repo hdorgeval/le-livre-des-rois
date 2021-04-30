@@ -8,7 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitNewTags(sourceFolder: string) {
+export async function autoCommitNewMarkdownTags(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -19,7 +19,7 @@ async function autoCommitNewTags(sourceFolder: string) {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes(sourceFolder)) {
+    if (unstagedFile.includes('/tags/') && unstagedFile.endsWith('.md')) {
       const filename = unstagedFile.split(path.sep).pop();
       const tagName = filename?.split('.md')[0] || filename;
 
@@ -31,5 +31,3 @@ async function autoCommitNewTags(sourceFolder: string) {
     }
   }
 }
-
-autoCommitNewTags('/tags/').then();
