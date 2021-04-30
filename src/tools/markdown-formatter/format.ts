@@ -45,6 +45,7 @@ export function formatContent(content: string): string {
     (content: string) => content.replace(/cortége/g, 'cortège'),
     (content: string) => content.replace(/Ecoute/g, 'Écoute'),
     (content: string) => content.replace(/siége/g, 'siège'),
+    (content: string) => content.replace(/ tète /g, ' tête '),
     (content: string) => content.replace(/celuilà/g, 'celui-là'),
     (content: string) => content.replace(/Irmanieus/g, 'Irmaniens'),
     (content: string) => content.replace(/’de/g, ' de'),
