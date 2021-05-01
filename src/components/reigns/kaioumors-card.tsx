@@ -1,5 +1,4 @@
-import { MarkdownNode, AllMarkdownRemarkResponse, emptyHtmlAst } from '../../graphql';
-import { toMinutes } from '../../tools';
+import { AllMarkdownRemarkResponse } from '../../graphql';
 import React from 'react';
 import { graphql, Link, useStaticQuery } from 'gatsby';
 
@@ -22,35 +21,9 @@ export const KaioumorsCard: React.FC = () => {
   `);
 
   const totalNumberOfEpsiodes = data.allMarkdownRemark.totalCount;
-  const timeToRead = data.allMarkdownRemark.edges
-    .map((edge) => edge.node)
-    .map((node) => node.timeToRead)
-    .reduce((previousValue, currentValue) => previousValue + currentValue, 0);
-
-  const kaioumorsNode: MarkdownNode = {
-    id: 'kaioumors',
-    excerpt: 'Règne de Kaïoumors Son règne dura 30 ans',
-    frontmatter: {
-      tags: [],
-      date: '',
-      image: 'https://source.unsplash.com/JpbtAb-f3JA',
-      landscape: 'https://source.unsplash.com/j1HU-Oll7KI',
-      order: '1',
-    },
-    headings: [{ depth: 1, value: 'Règne de Kaïoumors' }],
-    html: '<h1>Règne de Kaïoumors</h1>Son règne dura 30 ans.',
-    htmlAst: emptyHtmlAst,
-    fields: {
-      slug: '/regne-de-kaioumors/',
-    },
-    previous: null,
-    next: null,
-    timeToRead: toMinutes(timeToRead),
-    wordCount: { words: 0, paragraphs: 0, sentences: 0 },
-  };
 
   return (
-    <Link className="nav-link" to={kaioumorsNode.fields.slug} aria-label="Règne de Kaïoumors">
+    <Link className="nav-link" to="/regne-de-kaioumors/" aria-label="Règne de Kaïoumors">
       <div className="card text-center bg-dark text-white border-secondary">
         <div className="card-header pb-0">
           <h5 className="card-title">Kaïoumors</h5>
