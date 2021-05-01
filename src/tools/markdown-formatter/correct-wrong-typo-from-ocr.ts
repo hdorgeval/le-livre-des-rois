@@ -67,6 +67,11 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ serpeut /g, ' serpent '),
     (content: string) => content.replace(/Ne le lamente /g, 'Ne te lamente '),
     (content: string) => content.replace(/aùgure/g, 'augure'),
+    (content: string) => content.replace(/ coutre /g, ' contre '),
+    (content: string) => content.replace(/ à tété /g, ' à tête '),
+    (content: string) => content.replace(/euchaîner/g, 'enchaîner'),
+    (content: string) => content.replace(/ reuversa /g, ' renversa '),
+    (content: string) => content.replace(/ \(le /g, ' de '),
   ].forEach((format) => {
     result = format(result);
   });
