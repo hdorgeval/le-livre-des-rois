@@ -29,7 +29,7 @@ La montagne résonnait des cris des guerriers et la terre tremblait sous les sab
 
 Au-dessus des têtes se forma un nuage de poussière noire, les braves fendirent le cœur des rochers avec leurs lances.
 
-Il s’éleva un cri du temple de feu : Quand une bête féroce serait assise sur le trône royal, tous, vieux et jeunes, nous lui obéirions, nous ne nous soustrairions pas à ses ordres ; mais nous ne souffrirons pas sur le trône Zohak, cet impur dont les épaules portent des serpents.»
+Il s’éleva un cri du temple de feu : Quand une bête féroce serait assise sur le trône royal, tous, vieux et jeunes, nous lui obéirions, nous ne nous soustrairions pas à ses ordres ; mais nous ne souffrirons pas sur le trône Zohak, cet impur dont les épaules portent des serpents.
 
 L’armée et les habitants de la ville se présentèrent ensemble au combat, leur masse était semblable à une montagne et de cette ville brillante s’éleva une poussière noire qui obscurcissait le soleil.
 
@@ -55,7 +55,7 @@ Le bienheureux Serosch apparut en toute hâte :
 >
 > Il est brisé, il faut le lier comme une pierre et le porter jusqu’où deux rochers se resserreront devant toi.
 >
-> Ce qu’il y a de mieux, c’est de l’enchaîner dans l’intérieur des rochers, où ses amis et ses vassaux ne pourront pénétrer jusqu’à lui.»
+> Ce qu’il y a de mieux, c’est de l’enchaîner dans l’intérieur des rochers, où ses amis et ses vassaux ne pourront pénétrer jusqu’à lui.
 
 Feridoun l’entendit, et, sans tarder, prépara une courroie de peau de lion et lui lia les deux mains et le milieu du corps, de sorte qu’un éléphant furieux n’aurait pu briser ses liens.
 
@@ -71,7 +71,7 @@ Il s’assit sur le trône d’or de Zohak, il renversa les mauvais symboles de 
 >
 > Puissiez-vous vivre longtemps et heureux !
 >
-> Retournez joyeusement à votre travail.»
+> Retournez joyeusement à votre travail.
 
 Les hommes écoutèrent les paroles du roi, du puissant maître rempli de vertus.
 
@@ -83,7 +83,7 @@ Le noble Feridoun les reçut avec bonté, il leur distribua des dignités avec p
 >
 > Lorsque Dieu nous accorde le bonheur, il faut marcher dans sa voie en faisant le bien.
 >
-> Je suis le maître du monde entier ; il ne me convient pas de demeurer toujours au même lieu ; s’il n’en était ainsi, je resterais ici et je passerais de longs jours avec vous.»
+> Je suis le maître du monde entier ; il ne me convient pas de demeurer toujours au même lieu ; s’il n’en était ainsi, je resterais ici et je passerais de longs jours avec vous.
 
 Les grands baisèrent la terre devant lui et le son des timbales s’éleva du palais.
 
@@ -99,7 +99,7 @@ Le roi, que protégeait la fortune, conduisit ainsi Zohak étroitement lié vers
 
 Mais le bienheureux Serosch parut de nouveau et lui dit dans l’oreille une bonne parole :
 
-> Porte ce captif jusqu’au mont Demawend en hâte et sans cortège ; ne prends avec toi que ceux dont tu ne pourras pas te passer et qui te seront en aide au temps du danger.»
+> Porte ce captif jusqu’au mont Demawend en hâte et sans cortège ; ne prends avec toi que ceux dont tu ne pourras pas te passer et qui te seront en aide au temps du danger.
 
 Feridoun emporta Zohak, rapide comme un coureur et l’enchaina sur le mont Demawend ; et lorsqu’il l’eut entouré de nouvelles chaînes pardessus ses liens, il ne resta plus aucune trace des maux de la fortune.
 
