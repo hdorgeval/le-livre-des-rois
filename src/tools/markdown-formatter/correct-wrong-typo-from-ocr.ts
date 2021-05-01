@@ -65,6 +65,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ soutïert /g, ' souffert '),
     (content: string) => content.replace(/ répondit \.z /g, ' répondit : '),
     (content: string) => content.replace(/ serpeut /g, ' serpent '),
+    (content: string) => content.replace(/Ne le lamente /g, 'Ne te lamente '),
+    (content: string) => content.replace(/aùgure/g, 'augure'),
   ].forEach((format) => {
     result = format(result);
   });
