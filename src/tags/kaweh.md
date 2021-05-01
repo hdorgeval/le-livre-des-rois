@@ -3,7 +3,7 @@ date: ''
 image: 'https://source.unsplash.com/K2s_YE031CA'
 landscape: 'https://source.unsplash.com/7BhTfoKsheQ'
 source: tome I - livre des rois - P. 66
-tags: [Kaweh]
+tags: [Kaweh, Kawejaneh, Kawéiani]
 order: '01'
 ---
 
