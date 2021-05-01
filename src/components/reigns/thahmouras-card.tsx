@@ -43,6 +43,8 @@ export const ThahmourasCard: React.FC = () => {
     fields: {
       slug: '/regne-de-thahmouras/',
     },
+    previous: null,
+    next: null,
     timeToRead: toMinutes(timeToRead),
     wordCount: { words: 0, paragraphs: 0, sentences: 0 },
   };

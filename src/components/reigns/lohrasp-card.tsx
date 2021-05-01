@@ -43,6 +43,8 @@ export const LohraspCard: React.FC = () => {
     fields: {
       slug: '/regne-de-lohrasp/',
     },
+    previous: null,
+    next: null,
     timeToRead: toHours(timeToRead * 2),
     wordCount: { words: 0, paragraphs: 0, sentences: 0 },
   };
