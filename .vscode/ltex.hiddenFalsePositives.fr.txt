@@ -27,3 +27,5 @@
 {"rule":"D_N","sentence":"^\\QDécouvre qui est celui dont la main te menace, si c'est un homme, un Div ou un Péri ; et quand tu le sauras, alors applique-toi sur-le-champ à y remédier.\\E$"}
 {"rule":"QUELQUES_TEMPS","sentence":"^\\QElle se lamenta devant le gardien de ce jardin et lui dit en inondant son sein de larmes de sang : Prends cet enfant qui a besoin de lait et donne-lui un asile pendant quelques temps ; reçois-le de sa mère et sers-lui de père ; nourris-le du lait de cette belle vache.\\E$"}
 {"rule":"QUELQUES_TEMPS","sentence":"^\\QPrends cet enfant qui a besoin de lait et donne-lui un asile pendant quelques temps ; reçois-le de sa mère et sers-lui de père ; nourris-le du lait de cette belle vache.\\E$"}
+{"rule":"D_N","sentence":"^\\QÔ complices du Div, qui avez arraché de votre cœur toute crainte du maître du ciel, vous vous êtes tournés vers l'enfer, vous avez asservi vos âmes à ses ordres.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmon cœur a été comme brisé.\\E$"}
