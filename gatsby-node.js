@@ -67,9 +67,19 @@ async function createAllEpisodePages(graphql, actions) {
   const tagTemplate = path.resolve('src/templates/episode-template/episode-template.tsx');
   const { data } = await graphql(`
     {
-      allMarkdownRemark {
+      allMarkdownRemark(sort: { fields: fields___slug, order: ASC }, filter: {}) {
         edges {
           node {
+            fields {
+              slug
+            }
+          }
+          next {
+            fields {
+              slug
+            }
+          }
+          previous {
             fields {
               slug
             }
@@ -79,7 +89,12 @@ async function createAllEpisodePages(graphql, actions) {
     }
   `);
 
-  const markdowns = data.allMarkdownRemark.edges.map((edge) => edge.node);
+  const markdowns = data.allMarkdownRemark.edges.map((nodeWrapper) => {
+    const node = nodeWrapper.node;
+    node.previous = nodeWrapper.previous;
+    node.next = nodeWrapper.next;
+    return node;
+  });
   markdowns.forEach((markdown) => {
     // eslint-disable-next-line no-console
     console.log(`Creating episode page for markdown ${markdown.fields.slug}`);
@@ -88,6 +103,8 @@ async function createAllEpisodePages(graphql, actions) {
       component: path.resolve(tagTemplate),
       context: {
         slug: markdown.fields.slug,
+        previousSlug: markdown.previous?.fields?.slug,
+        nextSlug: markdown.next?.fields?.slug,
       },
     });
   });

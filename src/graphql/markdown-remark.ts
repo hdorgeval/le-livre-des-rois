@@ -21,9 +21,13 @@ export interface MarkdownGroupedTag {
 
 export interface MardownNodeWrapper {
   node: MarkdownNode;
+  next: MarkdownNode | null;
+  previous: MarkdownNode | null;
 }
 
 export interface MarkdownNode {
+  next: MarkdownNode | null;
+  previous: MarkdownNode | null;
   excerpt: string;
   fields: MarkdownExtraFields;
   frontmatter: MarkdownFrontmatter;

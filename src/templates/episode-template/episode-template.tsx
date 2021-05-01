@@ -1,13 +1,20 @@
 import { MarkdownRemarkResponse } from '../../graphql';
 import { Layout, SEO } from '../../components';
 import React from 'react';
-import { graphql } from 'gatsby';
+import { graphql, Link } from 'gatsby';
 import './episode-template.css';
+
+const firstSlug = '/01-kaioumors/01-commencement-du-recit/';
 
 interface MarkdownTemplateProps {
   data: MarkdownRemarkResponse;
+  pageContext: {
+    previousSlug: string | null;
+    nextSlug: string | null;
+    slug: string;
+  };
 }
-export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data }) => {
+export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageContext }) => {
   const markdownData = data.markdownRemark;
   const firstHeading = markdownData.headings[0].value;
 
@@ -49,7 +56,32 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data }) => {
               dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
             />
           </div>
-          <div className="card-footer text-muted"></div>
+          <div className="card-footer">
+            <ul className="pagination pagination-lg justify-content-center">
+              <li className="page-item w-50">
+                {pageContext.previousSlug && firstSlug !== pageContext.slug && (
+                  <Link
+                    className="page-link text-center text-light bg-dark"
+                    to={pageContext.previousSlug}
+                    aria-label="épisode précédent"
+                  >
+                    Épisode précédent
+                  </Link>
+                )}
+              </li>
+              <li className="page-item w-50">
+                {pageContext.nextSlug && (
+                  <Link
+                    className="page-link text-center text-light bg-dark"
+                    to={pageContext.nextSlug}
+                    aria-label="épisode suivant"
+                  >
+                    Épisode suivant
+                  </Link>
+                )}
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </Layout>
