@@ -50,6 +50,12 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Kei’anides /g, ' Keïanides '),
     (content: string) => content.replace(/ pieurant /g, ' pleurant '),
     (content: string) => content.replace(/ porrrlerai /g, ' porterai '),
+    (content: string) => content.replace(/ la pour /g, ' la peur '),
+    (content: string) => content.replace(/ parlage /g, ' partage '),
+    (content: string) => content.replace(/ l /g, ' ! '),
+    (content: string) => content.replace(/Il faut\. que /g, 'Il faut que '),
+    (content: string) => content.replace(/ lablier /g, ' tablier '),
+    (content: string) => content.replace(/ tracant /g, ' traçant '),
   ].forEach((format) => {
     result = format(result);
   });

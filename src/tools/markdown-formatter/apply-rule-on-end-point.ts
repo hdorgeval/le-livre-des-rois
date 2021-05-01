@@ -8,7 +8,7 @@ export function splitSentencesAfterEndPoint(content: string): string {
       }
 
       const firstChar = sentence.charAt(0);
-      if (firstChar && firstChar.match(/[ÀÉA-Z]/)) {
+      if (firstChar && firstChar.match(/[ÀÉÔA-Z]/)) {
         return `\n\n${sentence}`;
       }
 
