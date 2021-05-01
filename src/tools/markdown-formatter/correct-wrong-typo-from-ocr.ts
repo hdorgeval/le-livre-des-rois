@@ -62,6 +62,9 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ laissez persanne /g, ' laissez personne '),
     (content: string) => content.replace(/ l’eutendit /g, ' l’entendit '),
     (content: string) => content.replace(/ s’élauçait /g, ' s’élançait '),
+    (content: string) => content.replace(/ soutïert /g, ' souffert '),
+    (content: string) => content.replace(/ répondit \.z /g, ' répondit : '),
+    (content: string) => content.replace(/ serpeut /g, ' serpent '),
   ].forEach((format) => {
     result = format(result);
   });
