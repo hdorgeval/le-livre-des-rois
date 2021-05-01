@@ -22,7 +22,9 @@
     "test": "jest --config=jest.config.js --runInBand",
     "tsc-init": "tsc --init",
     "type-check": "tsc",
-    "update-tags": "ts-node src/tools/markdown-tags/set-tags-in-website-markdowns.ts"
+    "update-tags": "ts-node src/tools/markdown-tags/set-tags-in-website-markdowns.ts",
+    "auto-commit-formatted-episodes": "ts-node src/tools/git/auto-commit-formatted-episodes.ts",
+    "auto-commit": "ts-node src/tools/git/auto-commit.ts"
   },
   "dependencies": {
     "@popperjs/core": "2.9.2",
