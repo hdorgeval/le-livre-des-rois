@@ -56,6 +56,12 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Il faut\. que /g, 'Il faut que '),
     (content: string) => content.replace(/ lablier /g, ' tablier '),
     (content: string) => content.replace(/ tracant /g, ' traçant '),
+    (content: string) => content.replace(/ snr /g, ' sur '),
+    (content: string) => content.replace(/ snr-le-champ /g, ' sur-le-champ '),
+    (content: string) => content.replace(/ trans-portez-moi /g, ' transportez-moi '),
+    (content: string) => content.replace(/ laissez persanne /g, ' laissez personne '),
+    (content: string) => content.replace(/ l’eutendit /g, ' l’entendit '),
+    (content: string) => content.replace(/ s’élauçait /g, ' s’élançait '),
   ].forEach((format) => {
     result = format(result);
   });
