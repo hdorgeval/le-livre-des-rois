@@ -31,3 +31,27 @@ export async function autoCommitNewMarkdownTags(): Promise<void> {
     }
   }
 }
+
+export async function autoCommitUpdatedMarkdownTags(): Promise<void> {
+  // when setting all options in a single object
+  const git: SimpleGit = simpleGit(options);
+
+  const status = await git.status();
+  // eslint-disable-next-line no-console
+  console.log(status);
+  const unstagedFiles = status.modified;
+
+  for (let index = 0; index < unstagedFiles.length; index++) {
+    const unstagedFile = unstagedFiles[index];
+    if (unstagedFile.includes('/tags/') && unstagedFile.endsWith('.md')) {
+      const filename = unstagedFile.split(path.sep).pop();
+      const tagName = filename?.split('.md')[0] || filename;
+
+      const commitMessage = `feat(tags): update description for tag ${tagName}`;
+      await git.add(unstagedFile);
+      await git.commit(commitMessage);
+      // eslint-disable-next-line no-console
+      console.log(commitMessage);
+    }
+  }
+}
