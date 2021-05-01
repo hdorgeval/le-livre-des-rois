@@ -15,6 +15,7 @@ export async function autoCommitUpdatedMarkdownFormatter(): Promise<void> {
   // eslint-disable-next-line no-console
   console.log(status);
   const unstagedFiles = status.modified;
+  unstagedFiles.push(...status.not_added);
 
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
