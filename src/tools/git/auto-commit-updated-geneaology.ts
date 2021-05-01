@@ -16,13 +16,16 @@ export async function autoCommitUpdatedGenealogy(): Promise<void> {
   // eslint-disable-next-line no-console
   console.log(status);
   const unstagedFiles = status.modified;
-
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
     if (unstagedFile.includes('/graphs/')) {
       const filename = unstagedFile.split(path.sep).pop();
       const graphName = filename?.split('.')[0] || filename;
-      const commitMessage = `feat(${graphName}): update genealogy`;
+      const graphType = filename?.split('.')[1] || 'mmd';
+      let commitMessage = `feat(${graphName}): update genealogy graph`;
+      if (graphType === 'svg') {
+        commitMessage = `feat(${graphName}): update genealogy chart`;
+      }
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
