@@ -12,8 +12,6 @@ export async function autoCommitUpdatedMarkdownFormatter(): Promise<void> {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
-  // eslint-disable-next-line no-console
-  console.log(status);
   const unstagedFiles = status.modified;
   unstagedFiles.push(...status.not_added);
 

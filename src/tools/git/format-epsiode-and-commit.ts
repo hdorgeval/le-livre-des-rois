@@ -21,8 +21,6 @@ export async function formatEpisodeAndCommit(filepath: string): Promise<void> {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
-  // eslint-disable-next-line no-console
-  console.log(status);
   const unstagedFiles = status.modified;
 
   for (let index = 0; index < unstagedFiles.length; index++) {

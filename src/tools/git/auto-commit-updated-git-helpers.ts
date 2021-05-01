@@ -12,8 +12,6 @@ export async function autoCommitUpdatedGitHelpers(): Promise<void> {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
-  // eslint-disable-next-line no-console
-  console.log(status);
   const unstagedFiles = status.modified;
 
   let hasUpdatedFiles = false;
@@ -37,8 +35,6 @@ export async function autoCommitNewGitHelpers(): Promise<void> {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
-  // eslint-disable-next-line no-console
-  console.log(status);
   const unstagedFiles = status.not_added;
 
   let hasUpdatedFiles = false;

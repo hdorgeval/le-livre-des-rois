@@ -13,8 +13,6 @@ export async function autoCommitNewMarkdownTags(): Promise<void> {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
-  // eslint-disable-next-line no-console
-  console.log(status);
   const unstagedFiles = status.not_added;
 
   for (let index = 0; index < unstagedFiles.length; index++) {
@@ -37,8 +35,6 @@ export async function autoCommitUpdatedMarkdownTags(): Promise<void> {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
-  // eslint-disable-next-line no-console
-  console.log(status);
   const unstagedFiles = status.modified;
 
   for (let index = 0; index < unstagedFiles.length; index++) {
