@@ -29,3 +29,4 @@
 {"rule":"QUELQUES_TEMPS","sentence":"^\\QPrends cet enfant qui a besoin de lait et donne-lui un asile pendant quelques temps ; reçois-le de sa mère et sers-lui de père ; nourris-le du lait de cette belle vache.\\E$"}
 {"rule":"D_N","sentence":"^\\QÔ complices du Div, qui avez arraché de votre cœur toute crainte du maître du ciel, vous vous êtes tournés vers l'enfer, vous avez asservi vos âmes à ses ordres.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qmon cœur a été comme brisé.\\E$"}
+{"rule":"CONF_VERBE_NOM","sentence":"^\\QPourquoi s'assied-il auprès des filles du roi Djem et tient-il avec elles conseil sur toutes choses, grandes et petites ?\\E$"}
