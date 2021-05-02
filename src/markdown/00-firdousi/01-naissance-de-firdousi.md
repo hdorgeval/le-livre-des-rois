@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/xE5vmelyM6k/'
-landscape: 'https://source.unsplash.com/XXNfSFZWiII/'
+thumbnail: 'https://source.unsplash.com/xE5vmelyM6k/'
+image: 'XXNfSFZWiII.jpeg'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
 tags: ['Châb', 'Firdawsi', 'Firdousi', 'Hégire', 'Naissance', 'Peblewî', 'Perse', 'Qasim', 'Rizâ']
 order: '1'
