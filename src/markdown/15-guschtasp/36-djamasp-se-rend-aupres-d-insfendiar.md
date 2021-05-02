@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/b5H60hyMIkU'
-landscape: 'https://source.unsplash.com/lk5MYKmGyFE'
+thumbnail: 'https://source.unsplash.com/b5H60hyMIkU'
+image: 'lk5MYKmGyFE.jpeg'
 source: tome IV - livre des rois - P. 370
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
