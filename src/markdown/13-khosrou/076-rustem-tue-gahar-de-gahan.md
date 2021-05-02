@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/5I4K1WQBrXQ'
-landscape: 'https://source.unsplash.com/0q90Mumo-xE'
+thumbnail: 'https://source.unsplash.com/5I4K1WQBrXQ'
+image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 152
 tags:
   [
