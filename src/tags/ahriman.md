@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/K2s_YE031CA'
-landscape: 'https://source.unsplash.com/7BhTfoKsheQ'
+thumbnail: 'https://source.unsplash.com/K2s_YE031CA'
+image: '7BhTfoKsheQ.jpeg'
 source: tome III - Boun-Dehesch - P. 343 - Anquetil du Perron
 tags: [Ahriman]
 order: '01'
