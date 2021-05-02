@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/MwYBzsaSAGQ'
-landscape: 'https://source.unsplash.com/MwYBzsaSAGQ'
+thumbnail: 'https://source.unsplash.com/MwYBzsaSAGQ'
+image: 'MwYBzsaSAGQ.jpeg'
 source: tome III - livre des rois - P. 216
 tags: []
 order: '092'
