@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/xiy52D5Qxh4'
-landscape: 'https://source.unsplash.com/u7dy-n4uZVk'
+thumbnail: 'https://source.unsplash.com/xiy52D5Qxh4'
+image: 'u7dy-n4uZVk.jpeg'
 source: tome IV - livre des rois - P. 224
 tags:
   [
