@@ -8,6 +8,10 @@ module.exports = {
   /* Your site config here */
   plugins: [
     'gatsby-plugin-sharp',
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-react-helmet',
+    'gatsby-plugin-typescript',
+    'gatsby-plugin-image',
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -24,9 +28,6 @@ module.exports = {
         ],
       },
     },
-    'gatsby-transformer-sharp',
-    'gatsby-plugin-react-helmet',
-    'gatsby-plugin-typescript',
     {
       resolve: 'gatsby-source-filesystem',
       options: {
@@ -46,6 +47,13 @@ module.exports = {
       options: {
         name: 'tags',
         path: `${__dirname}/src/tags`,
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        name: 'images',
+        path: `${__dirname}/src/images`,
       },
     },
     {

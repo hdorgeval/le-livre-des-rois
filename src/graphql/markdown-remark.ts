@@ -1,5 +1,4 @@
-// eslint-disable-next-line import/no-unresolved
-import { Node } from 'unist';
+import { FileNode } from 'gatsby-plugin-image/dist/src/components/hooks';
 
 export interface AllMarkdownRemarkResponse {
   allMarkdownRemark: AllMarkdownRemark;
@@ -7,6 +6,7 @@ export interface AllMarkdownRemarkResponse {
 
 export interface MarkdownRemarkResponse {
   markdownRemark: MarkdownNode;
+  file: FileNode;
 }
 export interface AllMarkdownRemark {
   edges: MardownNodeWrapper[];
@@ -54,11 +54,11 @@ export interface MarkdownFrontmatter {
   date: string;
   image: string;
   tags: string[];
-  landscape: string;
+  thumbnail: string;
   order: string;
 }
 
-export interface HtmlAST extends Node {
+export interface HtmlAST {
   type: 'element' | 'root' | 'text';
   tagName?: 'code' | 'pre' | 'h1';
   properties?: HtmlProperties;

@@ -3,6 +3,7 @@ import { Layout, SEO } from '../../components';
 import React from 'react';
 import { graphql, Link } from 'gatsby';
 import './episode-template.css';
+import { getImage, GatsbyImage } from 'gatsby-plugin-image';
 
 const firstSlug = '/01-kaioumors/01-commencement-du-recit/';
 
@@ -25,6 +26,8 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
     ? markdownData.html.replace(`<h1>${firstHeading}${note}</h1>`, '')
     : markdownData.html.replace(`<h1>${firstHeading}</h1>`, '');
 
+  const image = getImage(data.file);
+
   return (
     <Layout>
       <SEO title="Le Livre des Rois - Shâhnâmeh" contentType="website" description={firstHeading} />
@@ -32,7 +35,7 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
         <div className="card bg-dark text-white">
           <div
             id="episode-title"
-            className="card-header text-light text-center text-uppercase border-bottom border-bottom-1 border-secondary pb-0 mb-3"
+            className="card-header text-light text-center text-uppercase border-bottom border-bottom-1 border-secondary pb-0 mb-0"
           >
             <h1 className="card-title text-truncate">
               {firstHeading}
@@ -40,17 +43,7 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
             </h1>
           </div>
           <div className="card-body card-text">
-            <div
-              style={{
-                width: '100%',
-                height: '200px',
-                backgroundColor: '#fafafa',
-                backgroundImage: `Url(${markdownData.frontmatter.landscape}/960x200)`,
-                backgroundSize: 'cover',
-                backgroundRepeat: 'no-repeat',
-                marginBottom: '30px',
-              }}
-            ></div>
+            {image && <GatsbyImage image={image} className="card-img mb-4" alt="..."></GatsbyImage>}
             <div
               id="episode-content"
               dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
@@ -89,16 +82,21 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
 };
 
 export const query = graphql`
-  query($slug: String!) {
+  query($slug: String!, $image: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
-        landscape
+        image
         tags
       }
       headings {
         value
         depth
+      }
+    }
+    file(relativePath: { glob: $image }) {
+      childImageSharp {
+        gatsbyImageData(placeholder: BLURRED, height: 200, layout: CONSTRAINED, aspectRatio: 4)
       }
     }
   }

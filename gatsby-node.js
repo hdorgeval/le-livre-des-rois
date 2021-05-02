@@ -73,6 +73,9 @@ async function createAllEpisodePages(graphql, actions) {
             fields {
               slug
             }
+            frontmatter {
+              image
+            }
           }
           next {
             fields {
@@ -98,6 +101,9 @@ async function createAllEpisodePages(graphql, actions) {
   markdowns.forEach((markdown) => {
     // eslint-disable-next-line no-console
     console.log(`Creating episode page for markdown ${markdown.fields.slug}`);
+    const image = markdown?.frontmatter?.image || 'default-for-episode.jpeg';
+    // eslint-disable-next-line no-console
+    console.log(`image: '${image}'`);
     createPage({
       path: markdown.fields.slug,
       component: path.resolve(tagTemplate),
@@ -105,6 +111,7 @@ async function createAllEpisodePages(graphql, actions) {
         slug: markdown.fields.slug,
         previousSlug: markdown.previous?.fields?.slug,
         nextSlug: markdown.next?.fields?.slug,
+        image,
       },
     });
   });
