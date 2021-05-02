@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/FVTNhwyR4yk'
-landscape: 'https://source.unsplash.com/odxB5oIG_iA'
+thumbnail: 'https://source.unsplash.com/FVTNhwyR4yk'
+image: 'odxB5oIG_iA.jpeg'
 source: tome II - livre des rois - P. 508
 tags:
   [
