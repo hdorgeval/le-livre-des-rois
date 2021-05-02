@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/EFm7JpD9jy8'
-landscape: 'https://source.unsplash.com/EFm7JpD9jy8'
+thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
+image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 120
 tags: []
 order: '049'
