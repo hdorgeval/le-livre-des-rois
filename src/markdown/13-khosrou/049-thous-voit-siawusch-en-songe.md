@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/mlAryG9gNyE'
-landscape: 'https://source.unsplash.com/mlAryG9gNyE'
+thumbnail: 'https://source.unsplash.com/mlAryG9gNyE'
+image: 'mlAryG9gNyE.jpeg'
 source: tome III - livre des rois - P. 055
 tags:
   [
