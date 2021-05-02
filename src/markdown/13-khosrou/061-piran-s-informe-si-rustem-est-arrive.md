@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/xsGApcVbojU'
-landscape: 'https://source.unsplash.com/FNeDH_nWfcQ'
+thumbnail: 'https://source.unsplash.com/xsGApcVbojU'
+image: 'FNeDH_nWfcQ.jpeg'
 source: tome III - livre des rois - P. 099
 tags:
   [
