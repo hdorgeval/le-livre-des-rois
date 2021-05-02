@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/OwqLxCvoVxI'
-landscape: 'https://source.unsplash.com/OwqLxCvoVxI'
+thumbnail: 'https://source.unsplash.com/OwqLxCvoVxI'
+image: 'OwqLxCvoVxI.jpeg'
 source: tome II - livre des rois - P. 511
 tags:
   [
