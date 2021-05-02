@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/lwWK4UmaDgA'
-landscape: 'https://source.unsplash.com/0q90Mumo-xE'
+thumbnail: 'https://source.unsplash.com/lwWK4UmaDgA'
+image: '0q90Mumo-xE.jpeg'
 source: tome IV - livre des rois - P. 296
 map: ''
 tags:
