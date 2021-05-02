@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com//ArYJaD_K9dk'
-landscape: 'https://source.unsplash.com/eYJ5yxMJuB4'
+thumbnail: 'https://source.unsplash.com//ArYJaD_K9dk'
+image: 'eYJ5yxMJuB4.jpeg'
 source: tome IV - livre des rois - P. 309
 map: ''
 tags:
