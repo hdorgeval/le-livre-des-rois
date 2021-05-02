@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/IW8qQeYP1tA'
-landscape: 'https://source.unsplash.com/a2zdgkDzFo8'
+thumbnail: 'https://source.unsplash.com/IW8qQeYP1tA'
+image: 'a2zdgkDzFo8.jpeg'
 source: tome IV - livre des rois - P. 249
 tags:
   [
