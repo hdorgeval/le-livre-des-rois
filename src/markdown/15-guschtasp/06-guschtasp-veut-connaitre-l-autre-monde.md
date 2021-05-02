@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/G2ifDHnHZ6Y'
-landscape: 'https://source.unsplash.com/DKix6Un55mw'
+thumbnail: 'https://source.unsplash.com/G2ifDHnHZ6Y'
+image: 'DKix6Un55mw.jpeg'
 source: tome II - Vie de Zoroastre - P. 38 (P.178) - Zend-Avesta - Anquetil du Perron
 map: ''
 tags:
