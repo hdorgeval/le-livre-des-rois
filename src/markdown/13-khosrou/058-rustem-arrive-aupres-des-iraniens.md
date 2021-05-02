@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/IRh4OLpNUFc'
-landscape: 'https://source.unsplash.com/YQyh65_7E30'
+thumbnail: 'https://source.unsplash.com/IRh4OLpNUFc'
+image: 'YQyh65_7E30.jpeg'
 source: tome III - livre des rois - P. 084
 tags:
   [
