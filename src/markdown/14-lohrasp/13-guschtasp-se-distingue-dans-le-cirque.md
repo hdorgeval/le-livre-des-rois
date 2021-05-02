@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/ec6E029hwMo'
-landscape: 'https://source.unsplash.com/ec6E029hwMo'
+thumbnail: 'https://source.unsplash.com/ec6E029hwMo'
+image: 'ec6E029hwMo.jpeg'
 source: tome IV - livre des rois - P. 265
 tags:
   ['Ahren', 'âme', 'Farrukhzad', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun', 'Mirin', 'Roum']
