@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/vyyusolOVOg'
-landscape: 'https://source.unsplash.com/ERrzhRFzO5w'
+thumbnail: 'https://source.unsplash.com/vyyusolOVOg'
+image: 'ERrzhRFzO5w.jpeg'
 source: tome IV - livre des rois - P. 288
 tags:
   [
