@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/snbykIR_Imk'
-landscape: 'https://source.unsplash.com/snbykIR_Imk'
+thumbnail: 'https://source.unsplash.com/snbykIR_Imk'
+image: 'snbykIR_Imk.jpeg'
 source: tome III - livre des rois - P. 221
 tags: []
 order: '094'
