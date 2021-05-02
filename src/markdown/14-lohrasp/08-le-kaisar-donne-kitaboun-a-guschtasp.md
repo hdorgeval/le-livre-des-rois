@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/NXt2h4AQZVU'
-landscape: 'https://source.unsplash.com/3z8kVEYCYxY'
+thumbnail: 'https://source.unsplash.com/NXt2h4AQZVU'
+image: '3z8kVEYCYxY.jpeg'
 source: tome IV - livre des rois - P. 241
 tags: ['âme', 'Créateur', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun']
 order: '08'
