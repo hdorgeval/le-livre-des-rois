@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/FNVYos3W0AY'
-landscape: 'https://source.unsplash.com/sbyEMIcFx34'
+thumbnail: 'https://source.unsplash.com/FNVYos3W0AY'
+image: 'sbyEMIcFx34.jpeg'
 source: tome III - livre des rois - P. 007
 tags:
   [
