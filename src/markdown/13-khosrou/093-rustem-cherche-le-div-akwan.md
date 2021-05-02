@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/5CWVXih0MZU'
-landscape: 'https://source.unsplash.com/5CWVXih0MZU'
+thumbnail: 'https://source.unsplash.com/5CWVXih0MZU'
+image: '5CWVXih0MZU.jpeg'
 source: tome III - livre des rois - P. 219
 tags: []
 order: '093'
