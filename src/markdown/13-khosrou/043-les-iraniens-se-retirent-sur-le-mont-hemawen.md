@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/MFM8ASk4XNs'
-landscape: 'https://source.unsplash.com/MFM8ASk4XNs'
+thumbnail: 'https://source.unsplash.com/MFM8ASk4XNs'
+image: 'MFM8ASk4XNs.jpeg'
 source: tome III - livre des rois - P. 030
 tags:
   [
