@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/4i0fc-0yEJ8'
-landscape: 'https://source.unsplash.com/UkO87bTCVac'
+thumbnail: 'https://source.unsplash.com/4i0fc-0yEJ8'
+image: 'UkO87bTCVac.jpeg'
 source: tome IV - livre des rois - P. 349
 map: ''
 tags:
