@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/HJYK6q7wVRk'
-landscape: 'https://source.unsplash.com/zqwK4a6JXgc'
+thumbnail: 'https://source.unsplash.com/HJYK6q7wVRk'
+image: 'zqwK4a6JXgc.jpeg'
 source: tome II - livre des rois - P. 497
 tags:
   [
