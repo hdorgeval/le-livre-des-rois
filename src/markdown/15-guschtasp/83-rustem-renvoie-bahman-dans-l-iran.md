@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/RqQtpjyr6II'
-landscape: 'https://source.unsplash.com/E1ng2PyXwzo'
+thumbnail: 'https://source.unsplash.com/RqQtpjyr6II'
+image: 'E1ng2PyXwzo.jpeg'
 source: tome IV - livre des rois - P. 560
 maps:
   [
