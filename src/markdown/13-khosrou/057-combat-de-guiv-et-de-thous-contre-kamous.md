@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/j_Ch0mwBNds'
-landscape: 'https://source.unsplash.com/0q90Mumo-xE'
+thumbnail: 'https://source.unsplash.com/j_Ch0mwBNds'
+image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 081
 tags:
   [
