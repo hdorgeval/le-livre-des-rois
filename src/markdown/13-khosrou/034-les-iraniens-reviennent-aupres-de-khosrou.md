@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/xRFgX9oHG8U'
-landscape: 'https://source.unsplash.com/xRFgX9oHG8U'
+thumbnail: 'https://source.unsplash.com/xRFgX9oHG8U'
+image: 'xRFgX9oHG8U.jpeg'
 source: tome II - livre des rois - P. 559
 tags:
   [
