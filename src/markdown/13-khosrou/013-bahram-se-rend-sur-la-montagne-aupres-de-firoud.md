@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/JMdgknOnV4c'
-landscape: 'https://source.unsplash.com/F8uyQGQlNp8'
+thumbnail: 'https://source.unsplash.com/JMdgknOnV4c'
+image: 'F8uyQGQlNp8.jpeg'
 source: tome II - livre des rois - P. 484
 tags:
   [
