@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/I8gQVrDcXzY'
-landscape: 'https://source.unsplash.com/2xPBKEvHzH8'
+thumbnail: 'https://source.unsplash.com/I8gQVrDcXzY'
+image: '2xPBKEvHzH8.jpeg'
 source: tome IV - livre des rois - P. 428
 maps:
   [
