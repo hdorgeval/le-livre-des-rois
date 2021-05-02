@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/oMpAz-DN-9I'
-landscape: 'https://source.unsplash.com/ohx4v80mJm8'
+thumbnail: 'https://source.unsplash.com/oMpAz-DN-9I'
+image: 'ohx4v80mJm8.jpeg'
 source: tome II - Vie de Zoroastre - P. 12 (P.152) - Zend-Avesta - Anquetil du Perron
 tags:
   [
