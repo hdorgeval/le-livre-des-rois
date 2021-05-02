@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/K2s_YE031CA'
-landscape: 'https://source.unsplash.com/7BhTfoKsheQ'
+thumbnail: 'https://source.unsplash.com/K2s_YE031CA'
+image: '7BhTfoKsheQ.jpeg'
 source: tome IV - livre des rois - P. 287
 tags: ['âme', 'Ardjasp', 'Chine', 'Dakiki', 'Firdousi', 'Guschtasp', 'Kaous', 'Keïanide', 'Mahmoud']
 order: '01'
