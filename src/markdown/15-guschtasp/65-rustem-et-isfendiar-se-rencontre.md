@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/AmtDxJpEEEg'
-landscape: 'https://source.unsplash.com/AmtDxJpEEEg'
+thumbnail: 'https://source.unsplash.com/AmtDxJpEEEg'
+image: 'AmtDxJpEEEg.jpeg'
 source: tome IV - livre des rois - P. 482
 maps:
   [
