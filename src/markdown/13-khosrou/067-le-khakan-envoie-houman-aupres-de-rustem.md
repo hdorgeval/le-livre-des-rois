@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/rydQVdwcgUQ'
-landscape: 'https://source.unsplash.com/rydQVdwcgUQ'
+thumbnail: 'https://source.unsplash.com/rydQVdwcgUQ'
+image: 'rydQVdwcgUQ.jpeg'
 source: tome III - livre des rois - P. 115
 tags:
   [
