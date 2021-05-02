@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/j07r5q4wh5s'
-landscape: 'https://source.unsplash.com/5HPyr6jk8Mk'
+thumbnail: 'https://source.unsplash.com/j07r5q4wh5s'
+image: '5HPyr6jk8Mk.jpeg'
 source: tome III - livre des rois - P. 208
 tags: []
 order: '089'
