@@ -1,7 +1,7 @@
 ---
 date: ''
-image: 'https://source.unsplash.com/hLUTRzcVkqg'
-landscape: 'https://source.unsplash.com/DbJR10fEteE'
+thumbnail: 'https://source.unsplash.com/hLUTRzcVkqg'
+image: 'DbJR10fEteE.jpeg'
 source: tome II - livre des rois - P. 451
 tags:
   [
