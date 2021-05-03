@@ -1,5 +1,6 @@
 export * from './djemschid-episodes';
 export * from './episode-card';
+export * from './feridoun-episodes';
 export * from './guerschasp-episodes';
 export * from './guschtasp-episodes';
 export * from './houscheng-episodes';
