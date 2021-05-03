@@ -7,6 +7,7 @@ export * from './apply-rule-on-question-mark';
 export * from './apply-rule-on-quotation-mark';
 export * from './apply-rule-on-semicolon';
 export * from './correct-wrong-typo-from-ocr';
+export * from './correct-wrong-typo-still-remaining';
 export * from './format';
 export * from './merge-splitted-sentences';
 export * from './merge-splitted-words';

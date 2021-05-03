@@ -1,6 +1,17 @@
 export function removeChapterArtifacts(content: string): string {
   let result = content;
   [
+    (content: string) => content.replace(/FERIDOUN\./g, ''),
+    (content: string) => content.replace(/FEIlIDOUN\./g, ''),
+    (content: string) => content.replace(/FERIDUUN\./g, ''),
+    (content: string) => content.replace(/FEMDOUN’\./g, ''),
+    (content: string) => content.replace(/FElllDOUN\./g, ''),
+    (content: string) => content.replace(/FERll\)0UN\./g, ''),
+    (content: string) => content.replace(/FEBII\)0U,N\./g, ''),
+    (content: string) => content.replace(/FEIIIDOUN\./g, ''),
+    (content: string) => content.replace(/FEBIDOUN\./g, ''),
+    (content: string) => content.replace(/FERlDOUN\./g, ''),
+    (content: string) => content.replace(/FEIIIDOUN’\./g, ''),
     (content: string) => content.replace(/KEI KHOSROU\./g, ''),
     (content: string) => content.replace(/KEÎ KHOSBOU\./g, ''),
     (content: string) => content.replace(/KEI KHOSBOU\./g, ''),
@@ -35,6 +46,8 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/LE LIVRE DES ROIS\./g, ''),
     (content: string) => content.replace(/LE LlVRE DES ROIS\./g, ''),
     (content: string) => content.replace(/LE LlVBE DES BOIS\./g, ''),
+    (content: string) => content.replace(/LE LIVRE DES BUIS\./g, ''),
+    (content: string) => content.replace(/LE vLivaE DES BOIS\./g, ''),
   ].forEach((format) => {
     result = format(result);
   });
