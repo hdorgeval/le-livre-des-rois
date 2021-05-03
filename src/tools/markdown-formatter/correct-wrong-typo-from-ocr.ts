@@ -59,6 +59,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/cortége/g, 'cortège'),
     (content: string) => content.replace(/Ecoute/g, 'Écoute'),
     (content: string) => content.replace(/Etant /g, 'Étant '),
+    (content: string) => content.replace(/ \(l’avis /g, ' d’avis '),
+    (content: string) => content.replace(/ boncles /g, ' boucles '),
     (content: string) => content.replace(/euchaîner/g, 'enchaîner'),
     (content: string) => content.replace(/grilles/g, 'griffes'),
     (content: string) => content.replace(/piége/g, 'piège'),
