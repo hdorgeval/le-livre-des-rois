@@ -25,7 +25,7 @@ Il lui dit :
 
 > Fais le tour du monde, choisis trois filles de haute naissance, qui par leur beauté conviennent à mes trois fils, qui soient dignes de mon alliance et à qui leur père, par tendresse, n’ait pas donné de noms, pour qu’elles ne puissent être l’objet des discours des hommes.
 >
-> Il faut que toutes les trois soient sœurs de père et de mère, à visage de Péri, pures et de famille royale et qu’elles soient semblables de stature et d’aspect, de sorte qu’on ne puisse les distinguer en aucune manière.»
+> Il faut que toutes les trois soient sœurs de père et de mère, à visage de Péri, pures et de famille royale et qu’elles soient semblables de stature et d’aspect, de sorte qu’on ne puisse les distinguer en aucune manière.
 
 Djendil ayant entendu l’ordre du roi, se traça un plan convenable, car il avait une intelligence prompte, un esprit clair, une langue douce et était propre aux entreprises difficiles.
 
@@ -37,7 +37,7 @@ Il trouva chez lui ce que son maître lui avait indiqué, trois filles telles qu
 
 Il se présenta plein de joie devant Serv, heureux comme le faisan qui s’approche de la rose ; il baisa la terre, fit des excuses au roi et implora sur lui la bénédiction de Dieu, disant :
 
-> Que le roi reste toujours glorieux, illustrant la couronne et le trône!»
+> Que le roi reste toujours glorieux, illustrant la couronne et le trône !
 
 Le roi de Iemen dit à Djendil :
 
@@ -47,7 +47,7 @@ Le roi de Iemen dit à Djendil :
 >
 > Quel ordre me donnes-tu ?
 >
-> Es-tu un ambassadeur ou un noble prince?»
+> Es-tu un ambassadeur ou un noble prince ?
 
 Djendil lui répondit :
 
@@ -89,7 +89,7 @@ Djendil lui répondit :
 > >
 > > Maintenant, ô roi, il faut mêler ensemble ces deux espèces de nobles joyaux, ces trois princesses à la face voilée, aux trois princes destinés à porter le diadème ; ils sont dignes les uns des autres et personne ne pourra nous en blâmer.
 >
-> Voilà le message que Feridoun m’a donné et en retour fais-moi connaître tes intentions.»
+> Voilà le message que Feridoun m’a donné et en retour fais-moi connaître tes intentions.
 
 Le roi de Iemen entendant ce message, devint pâle comme le nénuphar qu’on arrache de l’eau.
 
@@ -99,13 +99,13 @@ Il dit en lui-même :
 >
 > Je raconterai mon secret à mes filles ; elles seront mes confidentes en toute chose.
 >
-> Il ne faut pas que je me presse de répondre, car j’ai à délibérer avec mes conseillers.»
+> Il ne faut pas que je me presse de répondre, car j’ai à délibérer avec mes conseillers.
 
 Il choisit une demeure pour le messager, puis se mit à réfléchir ; il se leva et renvoya sa cour et s’assit pensif et en angoisse ; puis il appela devant lui la foule des chefs expérimentés des cavaliers du désert, armés de lances ; il leur dévoila ce qui était caché et leur révéla tout son secret, disant :
 
 > Par la faveur du sort et par l’union que j’ai contractée, j’ai devant mes yeux trois astres brillants.
 >
-> Maintenant Feridoun m’envoie un message et me tend un piége subtil ; il voudrait me séparer de ce qui m’est cher comme mes yeux et je désire en tenir conseil avec vous.
+> Maintenant Feridoun m’envoie un message et me tend un piège subtil ; il voudrait me séparer de ce qui m’est cher comme mes yeux et je désire en tenir conseil avec vous.
 >
 > Son envoyé dit que le roi me fait savoir qu’il a trois princes, les ornements de son trône, qui recherchent mon amitié et mon alliance par mes trois filles à la face voilée.
 >
@@ -113,18 +113,20 @@ Il choisit une demeure pour le messager, puis se mit à réfléchir ; il se leva
 >
 > Les voyageurs ont entendu ce qui est, arrivé par lui à Zohak.
 >
-> Maintenant dites-moi, l’un après l’autre, quel est votre avis dans ces circonstances.»
+> Maintenant dites-moi, l’un après l’autre, quel est votre avis dans ces circonstances.
 
-Les chefs, pleins de cœur et d’expérience, lui firent tous leur réponse : Nous ne sommes pas (l’avis que tu te laisses pousser par tous les vents.
+Les chefs, pleins de cœur et d’expérience, lui firent tous leur réponse :
 
-> Quand même Feridoun serait un roi tel que tu le dis, nous aussi ne sommes pas des esclaves portant les boncles d’oreilles de la servitude.
+> Nous ne sommes pas d’avis que tu te laisses pousser par tous les vents.
+>
+> Quand même Feridoun serait un roi tel que tu le dis, nous aussi ne sommes pas des esclaves portant les boucles d’oreilles de la servitude.
 >
 > Notre coutume est de dire notre avis et d’exercer la générosité ; notre devoir est de manier nos rênes et nos lances.
 >
-> Par nos épées la terre deviendra rouge comme du ’ x in ; par nos lances l’air deviendra comme un champ de roseaux.
+> Par nos épées la terre deviendra rouge comme du vin ; par nos lances l’air deviendra comme un champ de roseaux.
 >
 > Si tes enfants te sont trop chers pour les donner, ouvre la porte de tes trésors et ferme tes lèvres.
 >
-> Mais situ préfères agir par ruse, si tu crains ce roi puissant, fais-lui des demandes si excessives qu’il ne puisse pas y satisfaire.»
+> Mais si tu préfères agir par ruse, si tu crains ce roi puissant, fais-lui des demandes si excessives qu’il ne puisse pas y satisfaire.
 
 Le roi entendit ces paroles de ses conseillers, mais il n’en fut point satisfait.
