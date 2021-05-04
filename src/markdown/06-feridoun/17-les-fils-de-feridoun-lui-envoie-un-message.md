@@ -9,22 +9,30 @@ order: '017'
 
 # Les fils de Feridoun lui envoient un message
 
-Le messager partit, le cœur rempli de ce discours , et ne voyant pas comment cette affaire commencerait ni comment elle finirait. Il arriva à la cour du roi en grande pompe, avec les éléphants, les trésors et les présents. On en donna nouvelle à Feridoun, qui or- donna d’orner le trône impérial avec des brocarts de
-Boum, et de préparer la couronne des Keïanides. Il s’assit sur le trône de turquoises comme un haut cyprès surmonté de la pleine lune , avec la couronne
-et le collier, et les boucles d’oreilles, comme il con- vient à un roi. Minoutchehr le fortuné était assis à
-côté du roi, un diadème sur la tête; les grands for-
-maient des rangs des deux côtés, tous brodés d’or de
-la tête aux pieds, avec des massues d’or et des cein- tures d’or, et toute la terre avait pris la couleur du soleil. D’un côté étaient attachés des lions et des
-tigres, de l’autre de furieux éléphants de guerre. Schapour le brave sortit du palais et introduisit le messager de Selm, qui dès qu’il aperçut la cour du
-roi, s’avança à pied en courant; lorsqu’il fut arrivé
-132 LE LIVRE DES ROIS.
-auprès de Feridoun, et dès qu’il vit sa couronne et
-son trône puissant, il inclina la tête devant lui, frap-
-pant la terre de son front. Le roi illustre, maître du, monde, lui assigna une place sur un siége d’or.
-Le messager commença à célébrer les louanges
-du roi: «0 toi, ornement du trône, de la cou- «ronne et du sceau! les degrés de ton trône chau- «gent la terre en un jardin de roses, le monde est «brillant par la grandeur de ta fortune. Nous «sommes tous les esclaves de la poussière de tes - «pieds, nous ne vivons tous que pour ton serviceun Le roi ayant reçu gracieusement ce salut, le messa- ger étendit devant lui les joyaux qu’il avait apportés;
-puis il recommença à parler avec prudence, et le maître du monde lui prêta l’oreille. Il se mit à répé-
-ter le message de ces deux hommes de sang, et s’ap»
-pliqua à déguiser la vérité; il dit comment ses fils
-demandaient pardon de leur crime, et comment ils appelaient auprès d’eux Minoutchehr, pour le servir comme des esclaves, pour lui rendre la couronne et le trône du pouvoir, pour racheter de lui le sang de son père avec de l’or et des étoffes précieuses,
-avec des trésors et des joyaux. Le messager parla et le roi l’écouta; sa réponse donna la clef de ce mystère.
+Le messager partit, le cœur rempli de ce discours et ne voyant pas comment cette affaire commencerait ni comment elle finirait.
+
+Il arriva à la cour du roi en grande pompe, avec les éléphants, les trésors et les présents.
+
+On en donna nouvelle à Feridoun, qui ordonna d’orner le trône impérial avec des brocarts de Roum et de préparer la couronne des Keïanides.
+
+Il s’assit sur le trône de turquoises comme un haut cyprès surmonté de la pleine lune, avec la couronne et le collier et les boucles d’oreilles, comme il convient à un roi.
+
+Minoutchehr le fortuné était assis à côté du roi, un diadème sur la tête ; les grands formaient des rangs des deux côtés, tous brodés d’or de la tête aux pieds, avec des massues d’or et des ceintures d’or et toute la terre avait pris la couleur du soleil.
+
+D’un côté étaient attachés des lions et des tigres, de l’autre de furieux éléphants de guerre.
+
+Schapour le brave sortit du palais et introduisit le messager de Selm, qui dès qu’il aperçut la cour du roi, s’avança à pied en courant ; lorsqu’il fut arrivé auprès de Feridoun et dès qu’il vit sa couronne et son trône puissant, il inclina la tête devant lui, frappant la terre de son front.
+
+Le roi illustre, maître du, monde, lui assigna une place sur un siège d’or.
+
+Le messager commença à célébrer les louanges du roi : Ô toi, ornement du trône, de la couronne et du sceau !
+
+Les degrés de ton trône chau-gent la terre en un jardin de roses, le monde est brillant par la grandeur de ta fortune.
+
+Nous sommes tous les esclaves de la poussière de tes -pieds, nous ne vivons tous que pour ton serviceun Le roi ayant reçu gracieusement ce salut, le messager étendit devant lui les joyaux qu’il avait apportés ; puis il recommença à parler avec prudence et le maître du monde lui prêta l’oreille.
+
+Il se mit à répéter le message de ces deux hommes de sang et s’ap»
+
+Pliqua à déguiser la vérité ; il dit comment ses fils demandaient pardon de leur crime et comment ils appelaient auprès d’eux Minoutchehr, pour le servir comme des esclaves, pour lui rendre la couronne et le trône du pouvoir, pour racheter de lui le sang de son père avec de l’or et des étoffes précieuses, avec des trésors et des joyaux.
+
+Le messager parla et le roi l’écouta ; sa réponse donna la clef de ce mystère.
