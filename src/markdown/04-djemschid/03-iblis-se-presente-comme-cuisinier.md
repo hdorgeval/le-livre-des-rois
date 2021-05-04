@@ -3,7 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 043
-tags: []
+tags: ['Ahriman', 'âme', 'Arabes', 'Destour', 'Divs', 'Iblis', 'Zohak']
 order: '003'
 ---
 
