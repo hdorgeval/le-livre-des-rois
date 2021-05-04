@@ -3,7 +3,24 @@ date: ''
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 033
-tags: []
+tags:
+  [
+    'Ahnoukhouschi',
+    'Ahriman',
+    'âme',
+    'Amousian',
+    'Créateur',
+    'Dieu',
+    'Divs',
+    'Djemschid',
+    'Ferverdin',
+    'Mobed',
+    'Mobeds',
+    'Nesoudi',
+    'Nisarian',
+    'Péris',
+    'Thahmouras',
+  ]
 order: '001'
 ---
 
