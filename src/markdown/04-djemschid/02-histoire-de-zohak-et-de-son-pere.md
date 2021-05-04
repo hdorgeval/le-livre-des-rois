@@ -3,7 +3,20 @@ date: ''
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 039
-tags: []
+tags:
+  [
+    'âme',
+    'Arabe',
+    'Arabes',
+    'Dieu',
+    'Div',
+    'Iblis',
+    'Mardas',
+    'pehlevi',
+    'Peiverasp',
+    'Péris',
+    'Zohak',
+  ]
 order: '002'
 ---
 
