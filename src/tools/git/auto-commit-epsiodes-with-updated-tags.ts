@@ -8,10 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitEpisodesWithUpdatedTags(sourceFolder: string) {
-  const search = sourceFolder.match(/\/\d\d-(.*)\//i);
-  const reign = search ? search[1] : 'reign';
-
+async function autoCommitEpisodesWithUpdatedTags() {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -20,7 +17,10 @@ async function autoCommitEpisodesWithUpdatedTags(sourceFolder: string) {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes(sourceFolder)) {
+    if (unstagedFile.includes('src/markdown/')) {
+      const search = unstagedFile.match(/markdown\/\d\d-(.*)\//i);
+      const reign = search ? search[1] : 'reign';
+
       const filename = unstagedFile.split(path.sep).pop();
       const episodeNumber = Number(filename?.split('-')[0]);
       const commitMessage = `feat(${reign}): update tags in episode n° ${episodeNumber}`;
@@ -32,4 +32,4 @@ async function autoCommitEpisodesWithUpdatedTags(sourceFolder: string) {
   }
 }
 
-autoCommitEpisodesWithUpdatedTags('/03-thamouras/').then();
+autoCommitEpisodesWithUpdatedTags().then();
