@@ -3,7 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 046
-tags: []
+tags: ['Arabes', 'Arabie', 'Chine', 'Dieu', 'Djemschid', 'Iran', 'Zohak']
 order: '004'
 ---
 
