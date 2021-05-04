@@ -72,7 +72,7 @@ function takeLastTenWordsOf(content: string) {
   return words.filter((_word, index) => index >= numberOfWords - 10).join(' ');
 }
 
-const startOfQuotationRegex = /fit dire|en répétant|en disant|en criant|leur disant|en lui disant|disait|, disant|en ces mots|se disant|et disant|un dit|et ajouta|Il adressa ainsi la parole|se dit en lui-même|dit en se|il demanda à|lui demanda|lui demanderai|Il dit|ils dirent|Puis, il dit|et lui dit|Ensuite il dit|Ensuite, il dit|et il dit|a dit|et dit|Puis il dit|il se dit|il dit à|Le roi dit à|il dit aux|dit à|lui dit|lui dirent|lui diras|leur dit|dis-lui|répondit|ils s’écrièrent|en s’écriant|ajouta en s’adressant|discours|la réponse|parla ainsi|envoya son salut|reprend|répliqua|apparut en|ces paroles|réponse/i;
+const startOfQuotationRegex = /fit dire|en répétant|en disant|en criant|leur disant|en lui disant|disait|, disant|en ces mots|se disant|et disant|un dit|et ajouta|Il adressa ainsi la parole|se dit|dit en se|dit devant|il demanda à|demanda aux|lui demanda|lui demanderai|Il dit|ils dirent|Puis, il dit|et lui dit|Ensuite il dit|Ensuite, il dit|et il dit|a dit|et dit|Puis il dit|il se dit|il dit à|Le roi dit à|il dit aux|dit à|lui dit|lui dirent|lui diras|leur dit|dis-lui|répondit|ils s’écrièrent|en s’écriant|ajouta en s’adressant|discours|la réponse|parla ainsi|envoya son salut|reprend|répliqua|apparut en|ces paroles|réponse/i;
 function isHintForStartOfQuotation(content: string): boolean {
   if (!content) {
     return false;

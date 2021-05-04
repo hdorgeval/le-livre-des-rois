@@ -12,6 +12,7 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/Keîanides/g, 'Keïanides'),
     (content: string) => content.replace(/Puis il /g, 'Puis, il '),
     (content: string) => content.replace(/ luimême/g, ' lui-même'),
+    (content: string) => content.replace(/,et /g, ', et '),
     (content: string) => content.replace(/Quelques\.-uns /g, 'Quelques-uns '),
   ].forEach((format) => {
     result = format(result);
