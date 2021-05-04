@@ -9,5 +9,6 @@ export * from './kaous-card';
 export * from './khosrou-card';
 export * from './kobad-card';
 export * from './lohrasp-card';
+export * from './minoutchehr-card';
 export * from './thahmouras-card';
 export * from './zohak-card';

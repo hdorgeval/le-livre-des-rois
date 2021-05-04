@@ -9,5 +9,6 @@ export * from './kaous-episodes';
 export * from './khosrou-episodes';
 export * from './kobad-episodes';
 export * from './lohrasp-episodes';
+export * from './minoutchehr-episodes';
 export * from './thahmouras-episodes';
 export * from './zohak-episodes';

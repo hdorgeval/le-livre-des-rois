@@ -9,6 +9,7 @@ import {
   KhosrouCard,
   KobadCard,
   LohraspCard,
+  MinoutchehrCard,
   ThahmourasCard,
   ZohakCard,
 } from '.';
@@ -34,6 +35,9 @@ export const ReignCards: React.FC = () => (
       </div>
       <div className="col-sm-6 col-lg-3">
         <FeridounCard />
+      </div>
+      <div className="col-sm-6 col-lg-3">
+        <MinoutchehrCard />
       </div>
       <div className="col-sm-6 col-lg-3">
         <GuerschaspCard />
