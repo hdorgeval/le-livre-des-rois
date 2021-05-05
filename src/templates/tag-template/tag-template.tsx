@@ -1,4 +1,5 @@
-import { Layout, SEO, Title, EpisodeCard } from '../../components';
+import { EpisodeCard } from './episode-card-with-reign';
+import { Layout, SEO, Title } from '../../components';
 import { AllMarkdownRemarkResponse, PageContext } from '../../graphql';
 import { toMinutes } from '../../tools';
 import { TagDescription } from '../../components/tag-description/tag-description';
@@ -42,7 +43,7 @@ export const query = graphql`
   query($tag: String) {
     allMarkdownRemark(
       limit: 1000
-      sort: { fields: frontmatter___order, order: DESC }
+      sort: { fields: fileAbsolutePath, order: ASC }
       filter: {
         fileAbsolutePath: { glob: "**/markdown/**/*.md" }
         frontmatter: { tags: { in: [$tag] } }
@@ -60,6 +61,7 @@ export const query = graphql`
             title
             tags
             order
+            reign
           }
           id
           timeToRead
