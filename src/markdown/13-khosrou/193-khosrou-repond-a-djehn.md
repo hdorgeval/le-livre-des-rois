@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 085
+reign: 'Keï Khosrou'
 tags: []
 order: '193'
 ---
