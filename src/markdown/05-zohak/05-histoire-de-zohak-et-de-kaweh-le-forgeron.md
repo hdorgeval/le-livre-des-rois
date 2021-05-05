@@ -4,7 +4,24 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 061
 reign: 'Zohak'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'âme',
+    'Créateur',
+    'Dieu',
+    'Div',
+    'Divs',
+    'Feridoun',
+    'Kaweh',
+    'Kawéiani',
+    'Kejanousch',
+    'Mobeds',
+    'Purmajeh',
+    'Péris',
+    'Roum',
+    'Zohak',
+  ]
 order: '005'
 ---
 
