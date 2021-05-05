@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/21lBAA_87xU'
 image: 'j5ATKLbSqbM.jpeg'
 source: tome IV - livre des rois - P. 281
+reign: 'Lohrasp'
 tags:
   [
     'âme',
