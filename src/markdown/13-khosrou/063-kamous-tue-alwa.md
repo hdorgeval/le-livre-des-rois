@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/d5TBzrddHMk'
 image: 'd5TBzrddHMk.jpeg'
 source: tome III - livre des rois - P. 105
+reign: 'Keï Khosrou'
 tags:
   [
     'Alwa',
