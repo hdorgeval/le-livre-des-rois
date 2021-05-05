@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com//I12p-r242SY'
 image: 'eYJ5yxMJuB4.jpeg'
 source: tome IV - livre des rois - P. 307
+reign: 'Guschtasp'
 map: ''
 tags:
   [
