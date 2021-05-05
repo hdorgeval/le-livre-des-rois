@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/4fwRyKISwfk'
 image: 'SE24tM-mnug.jpeg'
 source: tome II - livre des rois - P. 446
+reign: 'Keï Khosrou'
 tags:
   [
     'Ahriman',
