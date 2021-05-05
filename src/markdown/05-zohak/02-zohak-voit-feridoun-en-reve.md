@@ -4,7 +4,24 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 051
 reign: 'Zohak'
-tags: []
+tags:
+  [
+    'âme',
+    'Arnewaz',
+    'cyprès',
+    'Demavand',
+    'Dieu',
+    'Div',
+    'Divs',
+    'Feridoun',
+    'Kischwers',
+    'Mobed',
+    'Mobeds',
+    'Péri',
+    'Péris',
+    'Zirek',
+    'Zohak',
+  ]
 order: '002'
 ---
 
