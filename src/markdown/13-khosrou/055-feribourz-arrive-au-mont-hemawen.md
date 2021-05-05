@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/dHpVHLdvlKg'
 image: 'dHpVHLdvlKg.jpeg'
 source: tome III - livre des rois - P. 074
+reign: 'Keï Khosrou'
 tags:
   [
     'Chine',
