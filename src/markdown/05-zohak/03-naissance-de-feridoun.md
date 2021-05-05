@@ -4,7 +4,22 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 056
 reign: 'Zohak'
-tags: []
+tags:
+  [
+    'Abtin',
+    'âme',
+    'cyprès',
+    'Dieu',
+    'Djemschid',
+    'Elborz',
+    'Feridoun',
+    'Firanek',
+    'Hindoustan',
+    'Iran',
+    'Mobeds',
+    'Purmajeh',
+    'Zohak',
+  ]
 order: '003'
 ---
 
