@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/sYIqGW3hufI'
 image: 'K2K1Ec_51SA.jpeg'
 source: tome III - livre des rois - P. 050
+reign: 'Keï Khosrou'
 tags:
   [
     'Afrasiab',
