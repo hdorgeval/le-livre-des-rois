@@ -12,6 +12,15 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/FEBIDOUN\./g, ''),
     (content: string) => content.replace(/FERlDOUN\./g, ''),
     (content: string) => content.replace(/FEIIIDOUN’\./g, ''),
+    (content: string) => content.replace(/NEWDEH\./g, ''),
+    (content: string) => content.replace(/NEWDER\./g, ''),
+    (content: string) => content.replace(/NEWDEB\./g, ''),
+    (content: string) => content.replace(/NEWDEll\./g, ''),
+    (content: string) => content.replace(/N’E W D EH\./g, ''),
+    (content: string) => content.replace(/a r. w une\./g, ''),
+    (content: string) => content.replace(/N E W D ER\./g, ''),
+    (content: string) => content.replace(/N E W D E B\./g, ''),
+    (content: string) => content.replace(/Nswnsn\./g, ''),
     (content: string) => content.replace(/KEI KHOSROU\./g, ''),
     (content: string) => content.replace(/KEÎ KHOSBOU\./g, ''),
     (content: string) => content.replace(/KEI KHOSBOU\./g, ''),
@@ -47,7 +56,12 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/LE LlVRE DES ROIS\./g, ''),
     (content: string) => content.replace(/LE LlVBE DES BOIS\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES BUIS\./g, ''),
+    (content: string) => content.replace(/LE LlHtE DES BUIS\./g, ''),
     (content: string) => content.replace(/LE vLivaE DES BOIS\./g, ''),
+    (content: string) => content.replace(/LE LIVRE DES R015\./g, ''),
+    (content: string) => content.replace(/LE LIVRE ses nons\./g, ''),
+    (content: string) => content.replace(/LE LIVRE DES,ROIS\./g, ''),
+    (content: string) => content.replace(/LE LIVRE DES llOIS\./g, ''),
   ].forEach((format) => {
     result = format(result);
   });

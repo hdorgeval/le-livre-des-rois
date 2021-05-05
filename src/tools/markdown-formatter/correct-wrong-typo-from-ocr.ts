@@ -75,8 +75,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/lran/g, 'Iran'),
     (content: string) => content.replace(/Ne le lamente /g, 'Ne te lamente '),
     (content: string) => content.replace(/sa tète/g, 'sa tête'),
+    (content: string) => content.replace(/couseil/g, 'conseil'),
     (content: string) => content.replace(/ prêle /g, ' prête '),
     (content: string) => content.replace(/siége/g, 'siège'),
+    (content: string) => content.replace(/tellemeut/g, 'tellement'),
     (content: string) => content.replace(/F eridoun/g, 'Feridoun'),
     (content: string) => content.replace(/sur\. le/g, 'sur le'),
   ].forEach((format) => {
