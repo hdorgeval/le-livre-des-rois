@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/8o9htwKDslc'
 image: '8o9htwKDslc.jpeg'
 source: tome IV - livre des rois - P. 278
+reign: 'Lohrasp'
 tags:
   [
     'Adergouschasp',
