@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/44gtrJHAKPo'
 image: 'PXU__WOzmZU.jpeg'
 source: tome III - livre des rois - P. 038
+reign: 'Keï Khosrou'
 tags:
   [
     'Destan',
