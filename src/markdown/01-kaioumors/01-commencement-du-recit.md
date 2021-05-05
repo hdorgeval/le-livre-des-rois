@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'EFm7JpD9jy8.jpeg'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 019
+reign: 'Kaïoumors'
 tags: ['Ahriman', 'Bélier', 'cyprès', 'Dihkan', 'Kaïoumors', 'Péri', 'Serosch', 'Siamek']
 order: '001'
 ---
