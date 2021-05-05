@@ -4,7 +4,29 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 068
 reign: 'Zohak'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Arabes',
+    'Arwend',
+    'Bagdad',
+    'Beit-ul-Mukaddes',
+    'Créateur',
+    'Dieu',
+    'Feridoun',
+    'Gangui-Dizhoukht',
+    'Jupiter',
+    'Kaweh',
+    'Kawejaneh',
+    'Kejanousch',
+    'Khordad',
+    'pehlevi',
+    'Purmajeh',
+    'Péri',
+    'Saturne',
+    'Tigre',
+    'Zohak',
+  ]
 order: '006'
 ---
 
