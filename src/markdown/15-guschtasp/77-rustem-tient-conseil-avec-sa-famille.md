@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/9KF7A8PJFF8'
 image: 'I8gQVrDcXzY.jpeg'
 source: tome IV - livre des rois - P. 533
+reign: 'Guschtasp'
 maps:
   [
     'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom',
