@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/kfv21yEf-6Y'
 image: 'kfv21yEf-6Y.jpeg'
 source: tome II - livre des rois - P. 449
+reign: 'Keï Khosrou'
 tags:
   [
     'Ader-Abadgan',
