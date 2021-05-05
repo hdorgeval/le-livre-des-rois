@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/XHl1gkHd6iM'
 image: 'USBmmRQNutE.jpeg'
 source: tome II - Vie de Zoroastre - P. 19 (P.159) - Zend-Avesta - Anquetil du Perron
+reign: 'Guschtasp'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b85930155/f1.item.r=carte%20perse.zoom'
 tags:
   [
