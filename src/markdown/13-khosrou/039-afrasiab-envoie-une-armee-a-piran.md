@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/OwqLxCvoVxI'
 image: 'OwqLxCvoVxI.jpeg'
 source: tome III - livre des rois - P. 011
+reign: 'Keï Khosrou'
 tags:
   ['Afrasiab', 'Gouderz', 'Guiv', 'Iran', 'Iraniens', 'Piran', 'Schidousch', 'Siawusch', 'Thous']
 order: '039'
