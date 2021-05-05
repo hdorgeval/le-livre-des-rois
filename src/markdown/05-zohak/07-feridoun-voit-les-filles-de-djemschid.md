@@ -4,7 +4,20 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 072
 reign: 'Zohak'
-tags: []
+tags:
+  [
+    'Abtin',
+    'Ahriman',
+    'Arnewaz',
+    'Dieu',
+    'Divs',
+    'Djemschid',
+    'Feridoun',
+    'Hindoustan',
+    'Iran',
+    'Purmajeh',
+    'Zohak',
+  ]
 order: '007'
 ---
 
