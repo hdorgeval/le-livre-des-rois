@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 075
 reign: 'Zohak'
-tags: []
+tags: ['Arnewaz', 'cyprès', 'Divs', 'Djem', 'Feridoun', 'Kenderev', 'Roi', 'Schehrinaz', 'Zohak']
 order: '008'
 ---
 
@@ -12,7 +12,7 @@ order: '008'
 
 Zohak avait un homme de confiance humble comme un esclave et quand il quittait le pays, il lui confiait son trône, son trésor et son palais, car son maître admirait son vif attachement.
 
-Sou nom était Kenderev, car il marchait d’un pas fier devant l’impur Zohak.
+Son nom était Kenderev, car il marchait d’un pas fier devant l’impur Zohak.
 
 Kenderev vint au palais en toute hâte et trouva dans la salle royale un nouveau maître de la couronne, tranquillement assis à la place d’honneur, comme un grand cyprès au-dessus duquel brille la lune ; d’un côté du roi était Schehrinaz à la taille de cyprès, de l’autre, Arnewaz à la face de lune.
 
