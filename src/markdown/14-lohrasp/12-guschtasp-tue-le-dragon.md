@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/iIc4Y6QNAOA'
 image: '1QAXTrmx5rU.jpeg'
 source: tome IV - livre des rois - P. 261
+reign: 'Lohrasp'
 tags:
   [
     'Ahren',
