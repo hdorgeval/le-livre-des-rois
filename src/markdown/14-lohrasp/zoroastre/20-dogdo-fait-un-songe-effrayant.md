@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/UcBkRilVFVs'
 image: 'XA4pd4-cVps.jpeg'
 source: tome II - Vie de Zoroastre - P. 10 (P.150) - Zend-Avesta - Anquetil du Perron
+reign: 'Lohrasp'
 tags:
   [
     'âme',
