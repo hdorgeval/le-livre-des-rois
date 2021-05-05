@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/b5H60hyMIkU'
 image: 'lk5MYKmGyFE.jpeg'
 source: tome IV - livre des rois - P. 370
+reign: 'Guschtasp'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
   [
