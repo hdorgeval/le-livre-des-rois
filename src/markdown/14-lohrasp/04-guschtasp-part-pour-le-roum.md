@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/x4vH0C-rPg8'
 image: 'UAFXj9dRpwo.jpeg'
 source: tome IV - livre des rois - P. 231
+reign: 'Lohrasp'
 tags: ['Guschtasp', 'Hirbed', 'Lohrasp', 'Pehlewan', 'Roum', 'Rustem']
 order: '04'
 ---
