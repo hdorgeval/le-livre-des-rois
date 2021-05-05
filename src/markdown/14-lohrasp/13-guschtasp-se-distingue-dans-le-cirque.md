@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/ec6E029hwMo'
 image: 'ec6E029hwMo.jpeg'
 source: tome IV - livre des rois - P. 265
+reign: 'Lohrasp'
 tags:
   ['Ahren', 'âme', 'Farrukhzad', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun', 'Mirin', 'Roum']
 order: '13'
