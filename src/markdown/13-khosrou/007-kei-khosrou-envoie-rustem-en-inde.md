@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/YBuv4pFV8yw'
 image: 'YBuv4pFV8yw.jpeg'
 source: tome II - livre des rois - P. 463
+reign: 'Keï Khosrou'
 tags:
   [
     'Faramourz',
