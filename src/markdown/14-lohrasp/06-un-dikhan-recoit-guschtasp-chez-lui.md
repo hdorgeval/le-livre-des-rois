@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/a72o8w9HC2w'
 image: 'Y9j7PLr8w90.jpeg'
 source: tome IV - livre des rois - P. 237
+reign: 'Lohrasp'
 tags: ['âme', 'Dikhan', 'Feridoun', 'Guschtasp', 'Juge', 'Tout-puissant']
 order: '06'
 ---
