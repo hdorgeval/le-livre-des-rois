@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/NXt2h4AQZVU'
 image: '3z8kVEYCYxY.jpeg'
 source: tome IV - livre des rois - P. 241
+reign: 'Lohrasp'
 tags: ['âme', 'Créateur', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun']
 order: '08'
 ---
