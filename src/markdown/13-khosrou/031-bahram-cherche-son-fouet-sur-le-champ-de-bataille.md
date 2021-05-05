@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/UJSJQKfHXpY'
 image: 'UJSJQKfHXpY.jpeg'
 source: tome II - livre des rois - P. 546
+reign: 'Keï Khosrou'
 tags:
   [
     'Adergouschasp',
