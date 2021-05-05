@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/3wkonYy2w94'
 image: '3wkonYy2w94.jpeg'
 source: tome IV - livre des rois - P. 391
+reign: 'Guschtasp'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags: ['Aboulkasem', 'Bélier', 'Chine', 'Mahmoud', 'Mani', 'Occident', 'Orient']
 order: '40'
