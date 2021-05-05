@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/OwqLxCvoVxI'
 image: 'OwqLxCvoVxI.jpeg'
 source: tome II - livre des rois - P. 511
+reign: 'Keï Khosrou'
 tags:
   [
     'âme',
