@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/bKlPpObIfYo'
 image: '-wk6BuXySW0.jpeg'
 source: tome II - livre des rois - P. 535
+reign: 'Keï Khosrou'
 tags: ['Feribourz', 'Gouderz', 'Kaous', 'Pehlewan', 'Piran', 'Rehham', 'Thous', 'Touran']
 order: '029'
 ---
