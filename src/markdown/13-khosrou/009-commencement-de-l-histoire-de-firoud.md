@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/3GWLv30smng'
 image: 'pxFtN74Djb4.jpeg'
 source: tome II - livre des rois - P. 472
+reign: 'Keï Khosrou'
 tags: ['âme', 'Firoud', 'Siawusch']
 order: '009'
 ---
