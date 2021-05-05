@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/ibKI6M5XZz4'
 image: 'rEXWtuKw8Rs.jpeg'
 source: tome IV - livre des rois - P. 238
+reign: 'Lohrasp'
 tags: ['âme', 'cyprès', 'Destour', 'Dieu', 'Guschtasp', 'Kaisar', 'Kitaboun', 'Pléiades', 'Roum']
 order: '07'
 ---
