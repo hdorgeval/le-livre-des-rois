@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/5CWVXih0MZU'
 image: '5CWVXih0MZU.jpeg'
 source: tome III - livre des rois - P. 219
+reign: 'Keï Khosrou'
 tags: []
 order: '093'
 ---
