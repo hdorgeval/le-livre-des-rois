@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/moK7ZiiquG8'
 image: 'moK7ZiiquG8.jpeg'
 source: tome III - livre des rois - P. 040
+reign: 'Keï Khosrou'
 tags:
   [
     'Bijen',
