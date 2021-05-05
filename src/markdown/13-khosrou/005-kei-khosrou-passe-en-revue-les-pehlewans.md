@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/Mw00TR34O2c'
 image: 'Mw00TR34O2c.jpeg'
 source: tome II - livre des rois - P. 455
+reign: 'Keï Khosrou'
 tags:
   [
     'Barteh',
