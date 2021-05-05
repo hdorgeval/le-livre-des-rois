@@ -4,7 +4,19 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 048
 reign: 'Zohak'
-tags: []
+tags:
+  [
+    'Arnewaz',
+    'Curdes',
+    'Dieu',
+    'Divs',
+    'Djemschid',
+    'Guirmaïl',
+    'Irmaïl',
+    'Parsi',
+    'Schehrinaz',
+    'Zohak',
+  ]
 order: '001'
 ---
 
