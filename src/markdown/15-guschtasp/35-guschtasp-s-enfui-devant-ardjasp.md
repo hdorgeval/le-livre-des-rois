@@ -3,6 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/MFM8ASk4XNs'
 image: 'MFM8ASk4XNs.jpeg'
 source: tome IV - livre des rois - P. 367
+reign: 'Guschtasp'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
   ['âme', 'Ardjasp', 'Dieu', 'Djamasp', 'Gunbedan', 'Guschtasp', 'Isfendiar', 'Keïanides', 'Turcs']
