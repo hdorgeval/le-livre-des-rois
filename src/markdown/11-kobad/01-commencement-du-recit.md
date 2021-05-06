@@ -14,7 +14,7 @@ Keïkobad s’assit sur le trône des Keïanides et mit sur sa tête la couronne
 
 Tous les grands, tels que Zal et Karen le guerrier, Keschwad, Kherrad et Berzin le héros, se rassemblèrent et versèrent des joyaux sur cette couronne nouvelle, puis ils dirent :
 
-> Ô roi, fais les préparatifs pour le combat contre les Turcs.»
+> Ô roi, fais les préparatifs pour le combat contre les Turcs.
 
 Kobad écouta ce que les grands disaient d’Afrasiab et passa son armée en revue ; et le lendemain ses braves se mirent en marche et un grand bruit s’éleva des tentes du roi.
 
