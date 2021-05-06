@@ -1,6 +1,9 @@
 export function removeChapterArtifacts(content: string): string {
   let result = content;
   [
+    (content: string) => content.replace(/\(iUEIISCHASP\./g, ''),
+    (content: string) => content.replace(/3&6 /g, ''),
+    (content: string) => content.replace(/3&7 /g, ''),
     (content: string) => content.replace(/a r. w une\./g, ''),
     (content: string) => content.replace(/DIEMSCHID\./g, ''),
     (content: string) => content.replace(/DJEMSCHID\./g, ''),
@@ -18,7 +21,9 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/FERlDOUN\./g, ''),
     (content: string) => content.replace(/FERll\)0UN\./g, ''),
     (content: string) => content.replace(/GUEBSCHASP\./g, ''),
+    (content: string) => content.replace(/GUEBSCHASP\./g, ''),
     (content: string) => content.replace(/GUEllSCHASP\./g, ''),
+    (content: string) => content.replace(/GUERSCHASP\./g, ''),
     (content: string) => content.replace(/HO U SCII E N G\./g, ''),
     (content: string) => content.replace(/I\)\.IEMS\(IHID\./g, ''),
     (content: string) => content.replace(/KAÏOUMORS\./g, ''),
@@ -65,8 +70,6 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/ZOHA K\./g, ''),
     (content: string) => content.replace(/ZOHAK\./g, ''),
     (content: string) => content.replace(/ZUHAK\./g, ''),
-    (content: string) => content.replace(/3&6 /g, ''),
-    (content: string) => content.replace(/3&7 /g, ''),
   ].forEach((format) => {
     result = format(result);
   });
