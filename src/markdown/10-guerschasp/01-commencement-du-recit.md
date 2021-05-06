@@ -56,7 +56,7 @@ Il disait :
 >
 > Mais tu verses le sang de ton frère, tu prends la fuite devant l’élève d’un oiseau ; je t’envoie avec une armée contre nos ennemis et c’est la vie de ton frère que tu abrèges.
 >
-> Il ne peut y avoir jamais rien de commun entre nous et jamais tu ne verras mon visage.»
+> Il ne peut y avoir jamais rien de commun entre nous et jamais tu ne verras mon visage.
 
 Ainsi se passa un temps jusqu’à ce que l’arbre du malheur porta de nouveau son fruit amer, car dans cette année Guerschasp, fils de Zew, mourut et la fortune quitta manifestement le monde.
 
@@ -78,7 +78,7 @@ Ils adressèrent à Zal des paroles dures, disant :
 >
 > Après la mort de Zew, lorsque son fils devint roi, la main du méchant fut privée du pouvoir de faire le mal.
 >
-> Mais maintenant Guerschasp, qui désirait la possession du monde, est mort et le pays et le peuple sont sans roi ; une armée a passé de ce côté du Djihoun, elle est telle que le soleil a disparu du monde ; si tu connais à cela un remède, prépare-le, car le chef des Touraniens est venu pour nous opprimer.»
+> Mais maintenant Guerschasp, qui désirait la possession du monde, est mort et le pays et le peuple sont sans roi ; une armée a passé de ce côté du Djihoun, elle est telle que le soleil a disparu du monde ; si tu connais à cela un remède, prépare-le, car le chef des Touraniens est venu pour nous opprimer.
 
 Zal répondit aux grands :
 
@@ -95,7 +95,7 @@ Je rapporterai tout ceci à Rustem, je lui demanderai :
 >
 > Veux-tu combattre la race de Zadschem ?
 >
-> Veux-tu ne pas t’y refuser?»
+> Veux-tu ne pas t’y refuser?
 
 À ces paroles, tout le pays d’Iran se réjouit, tous les visages se rajeunirent.
 
@@ -123,7 +123,7 @@ Puis, il dit à Rustem :
 >
 > Que me réponds-tu ?
 >
-> Puissent la grandeur et la bonté être tes compagnes ! »
+> Puissent la grandeur et la bonté être tes compagnes !
 
 Rustem lui répondit :
 
@@ -137,7 +137,7 @@ Rustem lui répondit :
 >
 > C’est à présent le temps des combats et des attaques et non pas du déshonneur et de la fuite.
 >
-> L’homme se fait lion en triomphant des lions et en recherchant la guerre et le champ de bataille ; tandis que les femmes ne peuvent acquérir beaucoup de gloire, car elles ne sont occupées qu’à manger et à dormir.»
+> L’homme se fait lion en triomphant des lions et en recherchant la guerre et le champ de bataille ; tandis que les femmes ne peuvent acquérir beaucoup de gloire, car elles ne sont occupées qu’à manger et à dormir.
 
 Zal lui dit :
 
@@ -151,7 +151,7 @@ Zal lui dit :
 >
 > Car c’est un roi brave et belliqueux.
 >
-> Tu es en âge de jouir des fêtes et des sons de la musique, de boire du vin et d’entendre les chants héroïques, mais non pas de combattre, d’acquérir de la gloire, de lutter et de faire voler la poussière de la terre jusqu’à la lune.»
+> Tu es en âge de jouir des fêtes et des sons de la musique, de boire du vin et d’entendre les chants héroïques, mais non pas de combattre, d’acquérir de la gloire, de lutter et de faire voler la poussière de la terre jusqu’à la lune.
 
 Rustem répondit à Zal, fils de Sam :
 
@@ -169,13 +169,13 @@ Rustem répondit à Zal, fils de Sam :
 >
 > Il me faut un cheval pareil à une haute montagne et tel qu’il n’y ait que moi seul qui puisse le prendre avec le lacet ; un cheval qui puisse porter dans le combat mon corps puissant et qui ne se hâte pas quand il faudra attendre.
 >
-> Je demande une massue grosse comme un quartier de rocher, car une multitude armée s’avance contre moi du pays de Touran ; quand elle arrivera, je la combattrai sans armée et de telle sorte qu’une pluie de sang tombera sur le champ de bataille.»
+> Je demande une massue grosse comme un quartier de rocher, car une multitude armée s’avance contre moi du pays de Touran ; quand elle arrivera, je la combattrai sans armée et de telle sorte qu’une pluie de sang tombera sur le champ de bataille.
 
 Le Pehlewan, ravi de ces paroles, semblait verser son âme sur son fils.
 
 Voici quelle fut la réponse de Zal, fils de Sam :
 
-> Ô toi qui es las du repos et des coupes, je t’apporterai la massue de Sam le cavalier que je conserve comme un souvenir de lui dans le monde et avec laquelle tu as tué l’éléphant furieux ; puisses-tu vivre à jamais, ô Pehlewan !»
+> Ô toi qui es las du repos et des coupes, je t’apporterai la massue de Sam le cavalier que je conserve comme un souvenir de lui dans le monde et avec laquelle tu as tué l’éléphant furieux ; puisses-tu vivre à jamais, ô Pehlewan !
 
 Il ordonna qu’on apportât cette massue de Sam, qui lui avait servi dans la guerre du Mazenderan, de l’apporter au glorieux Pehlewan pour qu’il en exterminât ses ennemis ; c’était un héritage qui, de l’illustre Guerschasp, était venu de père en fils jusqu’à Sam le cavalier.
 
@@ -185,6 +185,6 @@ Il appela sur Zal les grâces de Dieu et lui dit :
 
 > Ô Pehlewan du monde entier !
 >
-> Il me faut un cheval qui puisse porter à la fois cette massue, et ma gloire et ma haute stature.»
+> Il me faut un cheval qui puisse porter à la fois cette massue, et ma gloire et ma haute stature.
 
 Le Sipehbed resta étonné de ces paroles et ne cessa d’invoquer sur lui le nom de Dieu.
