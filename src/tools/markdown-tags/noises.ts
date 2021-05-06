@@ -211,6 +211,7 @@ export const noises = [
   'Fais',
   'Faisons',
   'Faites',
+  'Famine',
   'Faut-il',
   'Fermez',
   'Frappe',
