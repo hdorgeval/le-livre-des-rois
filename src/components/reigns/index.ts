@@ -12,4 +12,5 @@ export * from './lohrasp-card';
 export * from './minoutchehr-card';
 export * from './newder-card';
 export * from './thahmouras-card';
+export * from './zew-card';
 export * from './zohak-card';
