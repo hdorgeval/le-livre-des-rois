@@ -91,6 +91,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/siége/g, 'siège'),
     (content: string) => content.replace(/sur\. le/g, 'sur le'),
     (content: string) => content.replace(/tellemeut/g, 'tellement'),
+    (content: string) => content.replace(/d’lredj/g, 'd’Iredj'),
+    (content: string) => content.replace(/F aramourz/g, 'Faramourz'),
+    (content: string) => content.replace(/Bahmau /g, 'Bahman '),
+    (content: string) => content.replace(/A l’aube /g, 'À l’aube '),
   ].forEach((format) => {
     result = format(result);
   });
