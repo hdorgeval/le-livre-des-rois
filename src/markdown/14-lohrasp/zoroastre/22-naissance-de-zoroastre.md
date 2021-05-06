@@ -1,7 +1,7 @@
 ---
 date: ''
 thumbnail: 'https://source.unsplash.com/tpC9UhdcQsg'
-image: 'MwYBzsaSAGQ.jpeg'
+image: 'tpC9UhdcQsg.jpeg'
 source: tome II - Vie de Zoroastre - P. 14 (P.154) - Zend-Avesta - Anquetil du Perron
 reign: 'Lohrasp'
 tags:
