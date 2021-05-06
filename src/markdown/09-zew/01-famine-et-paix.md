@@ -4,7 +4,33 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 344
 reign: 'Zew'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Djihoun',
+    'Fars',
+    'Feridoun',
+    'Iran',
+    'Iraniens',
+    'Karen',
+    'Khoten',
+    'Kustehem',
+    'Mobeds',
+    'Pehlewan',
+    'Pehlewans',
+    'Roum',
+    'Sipehdar',
+    'Thahmasp',
+    'Thous',
+    'Touran',
+    'Turcs',
+    'Zaboulistan',
+    'Zal',
+    'Zew',
+  ]
 order: '001'
 ---
 
