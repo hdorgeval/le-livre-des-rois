@@ -4,6 +4,7 @@ export * from './episode-card';
 export * from './feridoun-episodes';
 export * from './guerschasp-episodes';
 export * from './guschtasp-episodes';
+export * from './homai-episodes';
 export * from './houscheng-episodes';
 export * from './kaioumors-episodes';
 export * from './kaous-episodes';

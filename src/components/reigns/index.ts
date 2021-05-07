@@ -4,6 +4,7 @@ export * from './djemschid-card';
 export * from './feridoun-card';
 export * from './guerschasp-card';
 export * from './guschtasp-card';
+export * from './homai-card';
 export * from './houscheng-card';
 export * from './kaioumors-card';
 export * from './kaous-card';
