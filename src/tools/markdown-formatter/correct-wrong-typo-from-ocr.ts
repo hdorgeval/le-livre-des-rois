@@ -95,6 +95,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/F aramourz/g, 'Faramourz'),
     (content: string) => content.replace(/Bahmau /g, 'Bahman '),
     (content: string) => content.replace(/A l’aube /g, 'À l’aube '),
+    (content: string) => content.replace(/ soull’re /g, ' souffre '),
+    (content: string) => content.replace(/ arrachél /g, ' arraché ! '),
+    (content: string) => content.replace(/ etlui /g, ' et lui '),
+    (content: string) => content.replace(/ etlui-même /g, ' et lui-même '),
   ].forEach((format) => {
     result = format(result);
   });
