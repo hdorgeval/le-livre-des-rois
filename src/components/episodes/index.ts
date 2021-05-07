@@ -1,3 +1,4 @@
+export * from './bahman-episodes';
 export * from './djemschid-episodes';
 export * from './episode-card';
 export * from './feridoun-episodes';
