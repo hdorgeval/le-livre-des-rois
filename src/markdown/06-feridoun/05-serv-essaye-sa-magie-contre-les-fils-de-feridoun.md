@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 098
 reign: 'Feridoun'
-tags: []
+tags: ['âme', 'Arabes', 'Dieu', 'Feridoun', 'Iemen', 'Mobed', 'Mobeds', 'Serv']
 order: '005'
 ---
 
