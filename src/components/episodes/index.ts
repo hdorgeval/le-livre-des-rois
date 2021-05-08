@@ -8,6 +8,7 @@ export * from './guerschasp-episodes';
 export * from './guschtasp-episodes';
 export * from './homai-episodes';
 export * from './houscheng-episodes';
+export * from './iskender-episodes';
 export * from './kaioumors-episodes';
 export * from './kaous-episodes';
 export * from './khosrou-episodes';
