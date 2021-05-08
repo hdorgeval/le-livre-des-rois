@@ -4,7 +4,24 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 088
 reign: 'Feridoun'
-tags: []
+tags:
+  [
+    'âme',
+    'Arabes',
+    'Arnewaz',
+    'cyprès',
+    'Dieu',
+    'Djendil',
+    'Feridoun',
+    'Iemen',
+    'Iran',
+    'Iranien',
+    'Péri',
+    'Schehrinaz',
+    'Serv',
+    'Yemen',
+    'Zohak',
+  ]
 order: '002'
 ---
 
