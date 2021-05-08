@@ -4,7 +4,27 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 101
 reign: 'Feridoun'
-tags: []
+tags:
+  [
+    'âme',
+    'Arabie',
+    'Arzoui',
+    'Azadeh',
+    'Canope',
+    'Créateur',
+    'Dieu',
+    'Feridoun',
+    'Iredj',
+    'Jupiter',
+    'Khoui',
+    'Lion',
+    'Mah',
+    'Péri',
+    'Sagittaire',
+    'Sehi',
+    'Selm',
+    'Tour',
+  ]
 order: '006'
 ---
 
