@@ -4,7 +4,19 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 085
 reign: 'Feridoun'
-tags: []
+tags:
+  [
+    'Amol',
+    'Créateur',
+    'cyprès',
+    'Dieu',
+    'Feridoun',
+    'Firanek',
+    'Kous',
+    'Mihrgan',
+    'Temmischeh',
+    'Zohak',
+  ]
 order: '001'
 ---
 
