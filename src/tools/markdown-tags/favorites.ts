@@ -4,6 +4,7 @@ export const favorites = [
   'cyprès',
   'immortalité',
   'immortel',
+  'lapis-lazuli',
   'magicienne',
   'parsi',
   'pehlevi',
