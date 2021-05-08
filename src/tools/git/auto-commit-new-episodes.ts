@@ -32,4 +32,4 @@ async function autoCommitNewEpisodes(sourceFolder: string) {
   }
 }
 
-autoCommitNewEpisodes('/05-zohak/').then();
+autoCommitNewEpisodes('/22-ardeschir/').then();
