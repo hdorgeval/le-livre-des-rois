@@ -1,5 +1,6 @@
 export * from './all-reigns-cards';
 export * from './bahman-card';
+export * from './darab-card';
 export * from './djemschid-card';
 export * from './feridoun-card';
 export * from './guerschasp-card';
