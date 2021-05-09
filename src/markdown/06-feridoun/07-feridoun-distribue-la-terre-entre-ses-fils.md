@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 104
 reign: 'Feridoun'
-tags: []
+tags: ['Chine', 'Feridoun', 'Iran', 'Iredj', 'Roum', 'Selm', 'Tour', 'Touran', 'Turcs', 'Turkestan']
 order: '007'
 ---
 
