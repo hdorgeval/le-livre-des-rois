@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "rimraf .cache && rimraf public && npm run format && npm run lint && npm run type-check && gatsby build",
+    "gatsby-build": "rimraf .cache && rimraf public && npm run type-check && gatsby build",
     "check-format": "prettier --list-different \"src/**/*.{ts,tsx,css,html,json,md}\" ",
     "create-types-for-css-modules": "tcm src -c",
     "create-types-for-sass-modules": "tsm src --nameFormat camel",
