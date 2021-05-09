@@ -8,11 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitNewEpisodes(sourceFolder: string) {
-  const search = sourceFolder.match(/\/\d\d-(.*)\//i);
-  const reign = search ? search[1] : 'reign';
-
-  // when setting all options in a single object
+async function autoCommitNewEpisodes() {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
@@ -20,7 +16,10 @@ async function autoCommitNewEpisodes(sourceFolder: string) {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes(sourceFolder)) {
+    if (unstagedFile.includes('src/markdown/')) {
+      const search = unstagedFile.match(/markdown\/\d\d-(.*)\//i);
+      const reign = search ? search[1] : 'reign';
+
       const filename = unstagedFile.split(path.sep).pop();
       const episodeNumber = Number(filename?.split('-')[0]);
       const commitMessage = `feat(${reign}): add episode n° ${episodeNumber}`;
@@ -32,4 +31,4 @@ async function autoCommitNewEpisodes(sourceFolder: string) {
   }
 }
 
-autoCommitNewEpisodes('/22-ardeschir/').then();
+autoCommitNewEpisodes().then();
