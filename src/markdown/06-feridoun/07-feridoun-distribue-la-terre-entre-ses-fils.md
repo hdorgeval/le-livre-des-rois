@@ -8,9 +8,9 @@ tags: []
 order: '007'
 ---
 
-# Feridoun la terre entre ses fils
+# Feridoun distribue la terre entre ses fils
 
-Ayant ainsi dévoilé le secret (la sort, Feridoun di- visa le monde en trois parties.
+Ayant ainsi dévoilé le secret du sort, Feridoun divisa le monde en trois parties.
 
 L’une comprenait le pays de Roum et l’occident ; l’autre le Turkestan et la Chine, la dernière le pays des héros de l’Iran.
 
@@ -22,12 +22,14 @@ Puis Feridoun donna à Tour le pays de Touran et le fit maître du pays des Turc
 
 Le roi lui assigna une armée et Tour se mit en route avec elle.
 
-A son arrivée il s’assit sur le trône royal, il se ceignit de la ceinture royale et commença à répandre ses grâces.
+À son arrivée il s’assit sur le trône royal, il se ceignit de la ceinture royale et commença à répandre ses grâces.
 
 Les grands versèrent des pierres précieuses sur lui et le pays saint du Touran le reconnut pour roi.
 
-Alors vint le tour d’lredj et son père lui donna le pays d’Iran avec le désert des guerriers armés de lances, le trône de la royauté et la couronne de la suprématie. ’Il les lui donna parce qu’il avait vu qu’il était digne du trône ; il les lui donna avec l’épée et le sceau, la bague et le diadème.
+Alors vint le tour d’Iredj et son père lui donna le pays d’Iran avec le désert des guerriers armés de lances, le trône de la royauté et la couronne de la suprématie.
+
+Il les lui donna parce qu’il avait vu qu’il était digne du trône ; il les lui donna avec l’épée et le sceau, la bague et le diadème.
 
 Les grands, pleins de courage, de sens et de bon conseil, le saluèrent roi d’Iran.
 
-Tous les trois s’assirent sur leurs trônes, en répos et en joie, comme gardiens des frontières d’illustre naissance.
+Tous les trois s’assirent sur leurs trônes, en repos et en joie, comme gardiens des frontières d’illustre naissance.
