@@ -48,13 +48,13 @@ Nous, les chefs de l’armée, sommes venus tous auprès du roi, nous t0us somme
 
 Il peut faire tout ce qu’il désire, il est le maître de nos âmes innocentes.»
 
-Le sage prononça ces paroles, et le roi lui prêta l’oreille avec étonnement, puis il lui répondit :
+Le sage prononça ces paroles et le roi lui prêta l’oreille avec étonnement, puis il lui répondit :
 
 > Je foulerai aux pieds tout désir de vengeance, je rendrai glorieux mon nom par ma clémence.
 
 Que tout ce qui n’est’pas dans la voie de Dieu, que tout ce qui est dans la voie d’Ahriman et du mal, s’éloigne de mes yeuxl que le corps des Divs soit affligé de maux !
 
-Écoutez, vous tous, que vous soyez mes ennemis, que vous soyez mes amis et mes alliés, puisque Dieu qui accorde le succès nous a aidés et que le coupable a été distingué de l’innocent ; puisque le jour de la justice est arrivé, et que le jour de l’injustice est passé, les chefs n’ont plus à craindre d’être mis à mort.
+Écoutez, vous tous, que vous soyez mes ennemis, que vous soyez mes amis et mes alliés, puisque Dieu qui accorde le succès nous a aidés et que le coupable a été distingué de l’innocent ; puisque le jour de la justice est arrivé et que le jour de l’injustice est passé, les chefs n’ont plus à craindre d’être mis à mort.
 
 Cherchez tous à vous faire aimer, faites vos incantations, dépouillez-vous de vos armes, vivez sagement et dans la foi pure, gardez-vous de faire du mal, renoncez à toute pensée de vengeance ; et’en tout lieu que vous cultiverez, soit en Touran, soit en Chine, soit dans le pays de Roum, puisse tout bonheur vous accompagner et la sérénité d’âme habiter en vous !
 
