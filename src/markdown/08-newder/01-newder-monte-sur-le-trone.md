@@ -43,7 +43,7 @@ Elle commençait par le nom du créateur, maître de l’étoile du matin, de Ma
 > Le Pehlewan du monde voudra peut-être écouter tout ce que je lui dirai, ce qui est connu et ce qui est secret.
 >
 > Le roi, au moment où ses paupières se fermèrent, me parla de Sam, fils de Neriman, en disant :
-
+>
 > > Il a toujours été mon ardent défenseur, car c’est un Pehlewan, ami du roi, qui pendant toute ma vie a été gardien des sept zones de la terre et par qui le trône et le diadème sont devenus brillants.
 > >
 > > Mais maintenant l’empire est rempli de discordes et les paroles que l’on prononce passent toute mesure.
