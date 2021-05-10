@@ -10,7 +10,7 @@ order: '026'
 
 # Minoutchehr envoie la tête de Selm à Feridoun
 
-Le héros fit partir du camp un messager, et lui remit la tête du roi de l’Occident.
+Le héros fit partir du camp un messager et lui remit la tête du roi de l’Occident.
 
 Il écrivit î
 une lettre a son grand-père, remplie du récit de FEBIDOUN : ses combats, de ses entreprises et de ses ruses.
@@ -25,8 +25,9 @@ Nous avons tiré vengeance des cavaliers de la Chine, nous avons dressé contre 
 
 Je suivrai cette lettre, rapide comme le vent ; je viendrai auprès de toi pour te raconter ce qui s’est passé.»
 
-Ensuite il envoya à la forteresse Schiroui, plein d’expérience et d’ambition ; il lui ordonna d’examiner le butin, d’en avoir soin et de faire avec prudence ce qu’il fallait, puis de placer ces richesses sur le dos des éléphants portant haut la tête et de les amener à la cour du roi en bon ordre ; ensuite il fit sortir de la cour des tentes royales les timbales d’airain et les trompettes et conduisit son armée du bord de la mer dans le désert et du désert vers la cour de Feridoun. 
- Comme il s’approchait de Temmischeh, son grandpère fut impatient de le voir.
+Ensuite il envoya à la forteresse Schiroui, plein d’expérience et d’ambition ; il lui ordonna d’examiner le butin, d’en avoir soin et de faire avec prudence ce qu’il fallait, puis de placer ces richesses sur le dos des éléphants portant haut la tête et de les amener à la cour du roi en bon ordre ; ensuite il fit sortir de la cour des tentes royales les timbales d’airain et les trompettes et conduisit son armée du bord de la mer dans le désert et du désert vers la cour de Feridoun.
+
+Comme il s’approchait de Temmischeh, son grandpère fut impatient de le voir.
 
 Le bruit des trompettes s’éleva du château et toute l’armée s’ébranle.
 
@@ -52,7 +53,7 @@ Feridoun lui ordonna de monter à cheval, puis le baisa et le prit par la main.
 Il monta sur son trône et envoya un messager a.
 
 Sam, fils de Neriman, avec ordre de venir sur-le-champ ; car Sam était venu de l’Hindoustan pour aider Minoutchehr dans cette guerre contre le pays des magiciens et avait apporté de l’or et des pré-.
-sents, au delà de ce que le roi lui avait demandé ; il avait apporté tant de milliers de pièces d’or et (le joyaux, qu’aucun calculateur ne pouvait les compter.
+sents, au delà de ce que le roi lui avait demandé ; il avait apporté tant de milliers de pièces d’or et de joyaux, qu’aucun calculateur ne pouvait les compter.
 
 Sam parut devant le roi de la terre et salua le vieux et le jeune prince.
 
