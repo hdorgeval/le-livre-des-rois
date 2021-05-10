@@ -42,7 +42,7 @@ Deux rangs d’éléphants s’élendnient du camp du Pehlewan à une distance d
 
 On fit avancer les tentes du roi ; l’armée marcha de Temmischeh vers le désert, sous les ordres de Karen le vengeur.
 
-Elle se composait de trois cent mille cavaliers, tous hommes de renom. tous armés de cuirasses ; ils partirent avec leurs lourdes massues, pleins de courage, semblables à des lions sauvages et prêts à venger lredj.
+Elle se composait de trois cent mille cavaliers, tous hommes de renom. tous armés de cuirasses ; ils partirent avec leurs lourdes massues, pleins de courage, semblables à des lions sauvages et prêts à venger Iredj.
 
 Ils suivaient le drapeau de Kaweh, leurs épées bleues dans les mains.
 
@@ -60,7 +60,7 @@ On apprit à Selm et à Tour que les Iraniens se préparaient pour le combat, qu
 
 Les deux assassins s’avançèrent avec une armée nombreuse, la tête pleine de vengeance.
 
-Ilsme-nèrent leurs troupes sur le champ de bataille, ayant derrière eux le pays des Alains et la mer.
+Ilsmenèrent leurs troupes sur le champ de bataille, ayant derrière eux le pays des Alains et la mer.
 
 Kobad s’avança pour reconnaître l’ennemi et Tour, lorsqu’il le sut, vint à lui, rapide comme le vent, disant :
 
@@ -84,13 +84,13 @@ Kobad alla pour parler au roi’ et lui répéta ce qu’il avait entendu de la 
 
 Minoutchehr sourit en disant :
 
-> Il n’y a qu’un insensé qui puisse v tenir de. tels discours.
+> Il n’y a qu’un insensé qui puisse v tenir de tels discours.
 
 Que la gloire soit au maître des r :
 
 > deux mondes, qui connaît ce qui est manifeste et ce qui est caché.
 >
-> Il sait que je suis le petit-fils d’lredj ; Feridoun l’illustre est mon garant.
+> Il sait que je suis le petit-fils d’Iredj ; Feridoun l’illustre est mon garant.
 >
 > Maintenant que nous allons commencer le combat, je prouverai ma naissance et mon origine ; je jure par la puissance de Dieu, créateur du soleil et de la lune, que je ferai Voir à Tour ce que je peux, de sorte que ses paupières se fermeront l’une sur l’autre et que je montrerai à l’armée sa tête séparée du tronc ; je vengerai sur lui mon père glorieux, je renverserai de fond en comble son empire.»
 
