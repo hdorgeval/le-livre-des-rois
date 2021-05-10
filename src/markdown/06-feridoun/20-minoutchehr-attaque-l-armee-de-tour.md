@@ -10,13 +10,13 @@ order: '020'
 
 # Minoutchehr attaque l'armée de Tour
 
-Lorsque les ténèbres curent remplacé lejour, Illi- M3 nontcflehr envoya son avantgarde sur la montagne et dans la plaine.
+Lorsque les ténèbres curent remplacé lejour, Illi-M3 nontcflehr envoya son avantgarde sur la montagne et dans la plaine.
 
 Karen le brave marchait devant l’armée avec Serv, le roi de Iemen, homme de bon conseil.
 
 Une voix s’éleva devant les rangs de l’armée : Ô braves, ô lions du roi !
 
-Sachez que c’est un com- bat contre Ahriman, qui dans son cœur est l’ennemi du Créateur.
+Sachez que c’est un combat contre Ahriman, qui dans son cœur est l’ennemi du Créateur.
 
 Ceignez vos reins, soyez vigilants, et
 "que Dieu vous aittous en sa garde.
@@ -32,7 +32,7 @@ Aussitôt que poindra la clarté du jour et que sa lumière aura avancé de deux
 
 Chacun prendra son rang, aucun ne devancera de son pied les antresm Les chefs de l’armée, les grands pleins de courage, se rangèrent devant le roi au cœur de lion et lui dirent :
 
-> Nous sommes des esclaves et ne vivons que pour le roi ; ce qu’il nous ordonnera, nous le ferons sans hér-siter, nous convertirons avec nos épées la terre en un Djihonn de sang.»
+> Nous sommes des esclaves et ne vivons que pour le roi ; ce qu’il nous ordonnera, nous le ferons sans hérsiter, nous convertirons avec nos épées la terre en un Djihonn de sang.»
 
 Puis ils retournèrent vers leurs tentes tous méditant des moyens de vengeance.
 
@@ -64,4 +64,4 @@ Le combat dura jusqu’à ce que la nuit élevât sa tête et que le soleil bril
 
 Le monde n’est jamais longtemps le même ; tantôt il est tout miel et douceur, tantôt il est tout amertume.
 
-Les cœurs de Tour et de Selm étaient bouil- 1 : Iants de rage ; ils résolurent de tenter une surprise, et lorsque le jour succéda à la nuit, personne ne se présenta pour le combat, car les deux braves s’étaient décidés à attendre.
+Les cœurs de Tour et de Selm étaient bouil-1 : Iants de rage ; ils résolurent de tenter une surprise et lorsque le jour succéda à la nuit, personne ne se présenta pour le combat, car les deux braves s’étaient décidés à attendre.
