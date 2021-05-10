@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 302
 reign: 'Newder'
-tags: []
+tags: ["âme", "Dieu", "Feridoun", "Houscheng", "Iran", "Kerguesars", "Keïanides", "Mars", "Mazenderan", "Minoutchehr", "Mobeds", "Neriman", "Newder", "Pehlewan", "Sam", "Saturne", "Segsars", "tribut"]
 order: '001'
 ---
 
