@@ -1,4 +1,5 @@
 export * from './all-reigns-cards';
+export * from './aschkanides-card';
 export * from './bahman-card';
 export * from './dara-card';
 export * from './darab-card';
