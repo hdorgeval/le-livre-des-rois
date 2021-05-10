@@ -511,6 +511,7 @@ export const noises = [
   'Renonce',
   'Rentre',
   'Répands',
+  'Repentez-vous',
   'Répète-leur',
   'Réponds-moi',
   'Réponse',
