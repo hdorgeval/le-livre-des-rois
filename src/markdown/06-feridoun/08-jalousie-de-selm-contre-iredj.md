@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 105
 reign: 'Feridoun'
-tags: []
+tags: ["âme", "Chine", "cyprès", "Feridoun", "Iemen", "Iran", "Iredj", "Jalousie", "Roum", "Selm", "Tour", "Touran", "Turcs"]
 order: '008'
 ---
 
