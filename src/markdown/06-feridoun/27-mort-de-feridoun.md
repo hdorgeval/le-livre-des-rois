@@ -12,14 +12,14 @@ order: '027'
 
 Ensuite la vie et la fortune abandonnèrent Feridoun, les feuilles de l’arbre des Keïanides se desséchèrent.
 
-Il préféra la solitude à la couronne et au trône, plaça devant lui les têtes de ses trois fils, et le vieux héros pleurait avec amertume et supportait la vie avec peine.
+Il préféra la solitude à la couronne et au trône, plaça devant lui les têtes de ses trois fils et le vieux héros pleurait avec amertume et supportait la vie avec peine.
 
 Il se lamentait sans cesse dans sa douleur en parlant à son fils glorieux en ces termes : Mes jours sont passés ; ma vie s’est assombrie par l’œuvre de ces trois fils, qui faisaient les délices et les tourments de mon cœur et qui ont péri misérablement devant moi par la vengeance, comme le désiraient mes ennemis.
 
 C’est ainsi que les mau-
 vais penchants et les crimes attirent le malheur sur la jeunesse.
 
-Ils n’ont pas voulu obéir à mes ordres, et alors le monde est devenu noir pour ces trois enfants.»
+Ils n’ont pas voulu obéir à mes ordres et alors le monde est devenu noir pour ces trois enfants.»
 
 Il resta ainsi, le cœur plein de sang, les deux joues baignées de larmes, jusqu’à ce que sa vie s’éteignît.
 
