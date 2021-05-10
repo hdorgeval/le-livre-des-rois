@@ -14,11 +14,11 @@ Prête attention à l’événement que la voûte bleue du ciel amena, après qu
 
 Il naquit de la belle Mahaferid, pleine de vertus, un fils digne de toute manière du diadème et du trône.
 
-Aussitôt qu’il fut sorti du sein de. sa tendre mère, on le porta au roi.
+Aussitôt qu’il fut sorti du sein de sa tendre mère, on le porta au roi.
 
 Celui qui le portait dit : Ô maître de la couronne, que ton âme se réjouisse !
 
-Regarde cet lredj.»
+Regarde cet Iredj.»
 
 Les lèvres du maître du monde se remplirent de sourire, tu aurais dit qu’Iredj lui était né de nouveau ; il prit l’enfant illustre entre ses bras et adressa une prière à Dieu : Plût à Dieu que ma vue me fût rendue, qu’il me permit de voir la face de cet enfantin Et Dieu, dès que Feridoun l’eut prié, lui accorda ce qu’il deman dait et lui rendit la vue.
 
@@ -55,4 +55,4 @@ Ils le saluèrent comme roi et versèrent des émeraudes sur sa couronne.
 
 Le mouton et le loup marchèrent ensemble dans le monde entier, à cette fête nouvelle et dans ce grand jour.
 
-On y voyait les chefs de guerre, Karen, le fils de Kaweh ; et Schiroui, le terrible lion ; Guerschasp, portant haut la téta, et. frappant vite de l’épée ; Sam, le fils de Neriman, le champion du peuple ; Kobad et Keschwad à la toque d’or et beaucoup de princes protecteurs du monde ; et lorsque toute l’armée était rassemblée, la tête du roi s’élevait au-dessus de tout le peuple.
+On y voyait les chefs de guerre, Karen, le fils de Kaweh ; et Schiroui, le terrible lion ; Guerschasp, portant haut la téta et frappant vite de l’épée ; Sam, le fils de Neriman, le champion du peuple ; Kobad et Keschwad à la toque d’or et beaucoup de princes protecteurs du monde ; et lorsque toute l’armée était rassemblée, la tête du roi s’élevait au-dessus de tout le peuple.
