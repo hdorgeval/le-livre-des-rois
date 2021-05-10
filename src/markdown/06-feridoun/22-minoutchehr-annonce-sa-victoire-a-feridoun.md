@@ -27,7 +27,7 @@ Ils ont tenté une surprise nocturne, nous avons redressé une embuscade et comb
 
 J’avais entendu dire que Tour se préparait à une attaque de nuit et que dans son désespoir il et avait eu recours aux enchantements.
 
-Alors j’ai dressé derrière lui une embuscade et je n’ai laissé entre fortune si haute et. si basse.
+Alors j’ai dressé derrière lui une embuscade et je n’ai laissé entre fortune si haute et si basse.
 
 MINOUTCHEHR ANNÔNCE SA VICTOIRE A b Il d 9
 8 ses mains que du vent ; au moment où il s’enfuyait du combat, je me suis précipité après lui, je l’ai atteint, j’ai passé ma lance à travers sa cotte de mailles et l’ai enlevé de sa selle ; je l’ai jeté par terre comme un dragon, j’ai séparé sa tête de son vil cadavre.
@@ -42,6 +42,6 @@ J’ai séparé son âme de son corps, comme il a fait à Imij et je vais détru
 
 Ayant écrit ces paroles dans sa lettre, il expédia un dromadaire rapide comme le vent.
 
-Le messager partit, la joue rougie par la honte et les deux yeux pleins de chaudes larmes de pour Feridoun, se demandant comment il pourrait. présenter au roi d’Iran la tête coupée du roi de la Chine ; car quand même un [ils se serait détourné de la foi, le cœur du père brûle toujours à sa mort : mais ses crimes avaient été grands, il n’en avait point demandé pardon, et le vengeur était jeune et brave.
+Le messager partit, la joue rougie par la honte et les deux yeux pleins de chaudes larmes de pour Feridoun, se demandant comment il pourrait. présenter au roi d’Iran la tête coupée du roi de la Chine ; car quand même un [ils se serait détourné de la foi, le cœur du père brûle toujours à sa mort : mais ses crimes avaient été grands, il n’en avait point demandé pardon et le vengeur était jeune et brave.
 
 Le messager arriva le deuil sur le front et plaça la tête de Tour devant Feridoun et le roi invoqua les grâces de Dieu Sur la tête de Minoutchehr.
