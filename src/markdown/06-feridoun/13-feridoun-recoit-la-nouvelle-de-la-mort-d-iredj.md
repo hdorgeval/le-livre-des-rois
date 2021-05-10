@@ -26,7 +26,7 @@ Ce porteur de deuil poussa un cri ; il tenait sur son sein un coll’re d’or, 
 
 Ce bon messager arriva devantFeridoun . faisant des lamentations et portantle deuil sur sa face.
 
-On leva le couvercle du coffre d’or, car les paroles du messager annonçaient un grand malheur et aussitôt qu’on eut tiré du coll’re la soie brodée, parut la tête coupée d’lredj.
+On leva le couvercle du coffre d’or, car les paroles du messager annonçaient un grand malheur et aussitôt qu’on eut tiré du coll’re la soie brodée, parut la tête coupée d’Iredj.
 
 Feridoun tomba de son cheval par terre, tous ses braves déchirèrent leurs vêtements, leurs joues étaient noires, leurs yeux étaientblancs, car ils avaient espéré voir autre chose.
 
@@ -48,7 +48,7 @@ Lorsque tu le traites en ennemi, il te témoigne de l’amour ; quand tul’appe
 
 Je te donnerai un bon conseil : lave ton âme de l’amour de ce monde.
 
-L’armée, dont le cœur était brisé et le roi, qui poussait des cris de douleur, se tournèrent vers le jardin d’lredj, où était la grande salle des banquets dans les jours où l’on célébrait les fêtes des rois.
+L’armée, dont le cœur était brisé et le roi, qui poussait des cris de douleur, se tournèrent vers le jardin d’Iredj, où était la grande salle des banquets dans les jours où l’on célébrait les fêtes des rois.
 
 Feridoun entra en chancelant, pressant contre son cœur la tête du jeune roi son fils.
 
@@ -67,7 +67,7 @@ Il embrassa la tête d’Iredj, tourna sa face vers le Créateur et dit :
 > 0
 maître du monde, dispensateur de la justice !
 >
-> Re- garde cet innocent qui a été assassiné ; sa tête coupée par l’épée, est devant moi, son corps a été dévoré par les lions de ce peuple.
+> Regarde cet innocent qui a été assassiné ; sa tête coupée par l’épée, est devant moi, son corps a été dévoré par les lions de ce peuple.
 >
 > Brûle les cœurs de ces deux méchants, de sorte qu’ils ne voient jamais que gr des jours malheureux ; fais qu’ils soient percés par la brûlure de leurs entrailles, de telle sorte que les bêtes féroces en aient pitié.
 >
