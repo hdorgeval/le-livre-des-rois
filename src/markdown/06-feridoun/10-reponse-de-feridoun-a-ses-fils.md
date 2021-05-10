@@ -16,13 +16,13 @@ Il dit au messager :
 
 > Ô sage !
 
-Tu n’as point à t’excuser en cette affaire, car c’était cela à quoi je m’attendais, et sur quoi mon cœur comptait.
+Tu n’as point à t’excuser en cette affaire, car c’était cela à quoi je m’attendais et sur quoi mon cœur comptait.
 
 Dis à ces deux hommes insensés et impurs, à ces deux Ahrimans aux pensées perverses : Il est heureux que vous ayez montré votre nature.
 
 Estce la le salut que je devais attendre de vous ?
 
-Si vous avez rejeté de vos cer- veaux mes conseils. vous n’avez pas appris non plus ce que c’est que la sagesse.
+Si vous avez rejeté de vos cerveaux mes conseils. vous n’avez pas appris non plus ce que c’est que la sagesse.
 
 Vous n’avez ni crainte ni honte devant Dieu et sans doute vous n’avez ’
 a point d’autres desseins que ceux que vous m’annoncez.
@@ -57,7 +57,7 @@ Ainsi m’a dit mon guide dans la vie :
 >
 > Vous savez que Dieu le créateur peut, au jour du jugement, vous pardonner ; cherchez-le, munissez-vous de ce viatique, travaillez pour que votre peine soit courte.»
 
-Le messager entendit ces paroles ; il baisa la terre et. s’en retourna.
+Le messager entendit ces paroles ; il baisa la terre et s’en retourna.
 
 Il quitta la présence de Feridoun ; tu
 ’ aurais dit qu’il avait fait alliance avec le vent.
@@ -86,7 +86,7 @@ Il appela devant lui le prince illustre et lui révéla tout l’avenir, en disa
 >
 > Ne cherche pas de défenseurs dans le monde ; ton innocence et ton droit seront ta défense.»
 
-Le vertueux lredj regarda le roi plein de tendresse, son glorieux père, puis il répondit :
+Le vertueux Iredj regarda le roi plein de tendresse, son glorieux père, puis il répondit :
 
 > Ô roi !
 
