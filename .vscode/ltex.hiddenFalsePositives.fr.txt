@@ -48,3 +48,4 @@
 {"rule":"PORTER_FRUIT","sentence":"^\\QElle, fit amener une nourrice de race libre (persane), une femme sainte, modeste et belle, à qui elle remit en secret son enfant, cette branche verte qui devait porter fruit ; et si quelqu'un lui parlait de son fils, elle répondait que ce noble enfant était mort.\\E$"}
 {"rule":"ETRE_VPPA_OU_ADJ","sentence":"^\\QLorsque Dara fut remis du deuil de Darab, il éleva le trône des Keïanides au-dessus du soleil.\\E$"}
 {"rule":"VOIE_VOIX","sentence":"^\\QÉloigne-toi de notre présence, tu es un crocodile, ne te mets pas dans la voie des lions.\\E$"}
+{"rule":"ACCORD_NOMBRE","sentence":"^\\QBéni soient sa famille, son armée, son pays, sa stature et sa mine royales !\\E$"}
