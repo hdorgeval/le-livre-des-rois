@@ -14,7 +14,7 @@ La renommée de la splendeur qui entourait de nouveau le trône du roi des rois 
 
 Ils s’assirent pleins de pensées et le jour s’obscurcit pour les deux tyrans.
 
-Tout à coup ils prirent la ferme résolution de chercher un remède à ceidaiiger, et d’envoyer un messager auprès de Feridoun pour offrir leurs excuses, car il ne leur restait aucun autre moyen de salut.
+Tout à coup ils prirent la ferme résolution de chercher un remède à ceidaiiger et d’envoyer un messager auprès de Feridoun pour offrir leurs excuses, car il ne leur restait aucun autre moyen de salut.
 
 Tous les deux cherchèrent parmi la foule un homme d’un cœur pur et d’une langue discrète et donnèrent, avec grande chaleur, leurs ordres hautains à cet homme prudent, sage et modeste ; puis ils ouvrirent la porte des trésors de l’occident, ayant devant les yeux la crainte que leur haute fortune ne baissât.
 
