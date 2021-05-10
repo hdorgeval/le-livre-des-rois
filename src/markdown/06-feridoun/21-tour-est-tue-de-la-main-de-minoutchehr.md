@@ -28,7 +28,7 @@ Il trouva une place convenable pour une embuscade et vit que les cavaliers étai
 
 Tour, quand la M6 nuit fut devenue sombre, s’avança avec cent mille hommes ceints pour le combat, résolus et préparés à tenter l’attaque nocturne et levant leurs lances jusqu’aux nuages ; mais lorsqu’il arriva, il vit l’armée en ordre et des étendards brillans devant elle.
 
-Il vit qu’il ne lui restait qu’à combattre et à lutter, et éleva le cri de guerre au milieu de ses troupes.
+Il vit qu’il ne lui restait qu’à combattre et à lutter et éleva le cri de guerre au milieu de ses troupes.
 
 L’air devint comme un nuage par la poussière des cavaliers et les épées d’acier parurent comme des éclairs brillants ; on aurait dit que l’air était tout embrasé et que, resplendissant comme le diamant, il brûlait la surface de la terre.
 
@@ -59,4 +59,4 @@ Ils ont tenté une surprise nocturne, nous avons redressé une embuscade et comb
 
 J’avais entendu dire que Tour se préparait à une attaque de nuit et que dans son désespoir il et avait eu recours aux enchantements.
 
-Alors j’ai dressé derrière lui une embuscade et je n’ai laissé entre fortune si haute et. si basse.
+Alors j’ai dressé derrière lui une embuscade et je n’ai laissé entre fortune si haute et si basse.
