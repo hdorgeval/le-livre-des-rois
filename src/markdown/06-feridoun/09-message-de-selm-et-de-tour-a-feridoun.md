@@ -28,15 +28,15 @@ Quand tu seras arrivé dans le palais de Feridoun, porte-lui les saluts de ses d
 >
 > Dieu le saint t’avait donné ce monde, depuis le soleil lumineux jusqu’à la l09 terre obscure ; mais tu as choisi en toute clicse la voie et le conseil de l’avidité, tu n’as pas eu égard aux commandements de Dieu. tu n’as agi qu’avec violence et injustice et dans le partage du monde tu n’as pas recherché la justice.
 >
-> Tu avais trois fils prudents et braves, qui élaient devenus grands, de petits qu’ils avaient été ; tu n’as trouvé à aucun d’eux un mérite plus grand qu’aux autres, pour que l’un porte la tête plus haut que ses frères.
+> Tu avais trois fils prudents et braves, qui étaient devenus grands, de petits qu’ils avaient été ; tu n’as trouvé à aucun d’eux un mérite plus grand qu’aux autres, pour que l’un porte la tête plus haut que ses frères.
 >
-> Mais tu as accablé l’un de ton haleine de dragon, tu as élevé un autre dans les nues, tu as posé la cou-I renne sur sa tête, tu l’as placé sur ton siège et tes yeux ne reposent. avec joie que sur lui.
+> Mais tu as accablé l’un de ton haleine de dragon, tu as élevé un autre dans les nues, tu as posé la couronne sur sa tête, tu l’as placé sur ton siège et tes yeux ne reposent avec joie que sur lui.
 >
 > Mais nous ne sommes inférieurs à lui, ni par notre père, ni par notre mère, nous ne sommes pas indignes d’un. trône de roi.
 >
 > Ô roi de la terre, distributeur de la justice, puisse une telle action ne trouver jamais de louanges !
 >
-> Quand la couronne sera tombée de cette tête sans valeur et que le monde sera délivré d’Iredj, alors donne à lui un coin de la terre, pour qu’il s’y assoie, faible et oublié comme nous ; sinon nous amènerons les cavaliers des Turcs et de la Chine, les braves de Roum avides de vengeance. et notre milice armée de massues et nous détruirons lredj et le pays d’1ran.»
+> Quand la couronne sera tombée de cette tête sans valeur et que le monde sera délivré d’Iredj, alors donne à lui un coin de la terre, pour qu’il s’y assoie, faible et oublié comme nous ; sinon nous amènerons les cavaliers des Turcs et de la Chine, les braves de Roum avides de vengeance. et notre milice armée de massues et nous détruirons Iredj et le pays d’Iran.»
 
 Le Mobed écouta ce dur message, il baisa la terre et partit ; il, monta en selle et se mit. à chevaucher, de sorte que les étincelles jaillissaient du vent.
 
@@ -54,13 +54,13 @@ Le roi ordonna de lever le rideau, de faire descendre de cheval l’envoyé et d
 
 Lorsque le regard du messager tomba sur le roi, il vit que tous les yeux et tous les cœurs étaient remplis de lui, qu’il était de slalure comme un cyprès, de face comme un soleil, ses cheveux blancs comme le camphre, sa face rouge comme la rose, ses deux lèvres pleines de sourire, ses deux joues pleines de rouleur et sa bouche royale remplie de douceur.
 
-Aussitôt que l’envoyé le vit, il se mit à adorer, et couvrit le sol de ses baisers.
+Aussitôt que l’envoyé le vit, il se mit à adorer et couvrit le sol de ses baisers.
 
-Feridoun lui permit de se lever et lui assigna une place honorable, puis il lui lit. des questions, d’abord sur les deux princes illustres et lui demanda s’ils élaient contents dans leurs cœurs et s’ils persévéraient dans la vraie foi;
+Feridoun lui permit de se lever et lui assigna une place honorable, puis il lui fit. des questions, d’abord sur les deux princes illustres et lui demanda s’ils étaient contents dans leurs cœurs et s’ils persévéraient dans la vraie foi;
 
 ’ Il !
 
-Ensuite sur les fatigues qu’il avait dû éprouver dans le désert et sur ce long chemin, avec ses montagnes et. ses vallées.
+Ensuite sur les fatigues qu’il avait dû éprouver dans le désert et sur ce long chemin, avec ses montagnes et ses vallées.
 
 L’envoyé lui répondit :
 
