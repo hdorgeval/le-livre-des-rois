@@ -51,9 +51,9 @@ Il laissa l’armée sur le bord de la mer, sous les ordres de Schiroui le vainq
 
 > Ne te donne pas le temps de respirer, va auprès du commandant du fort, dis-lui de ne se reposer et de ne se divertir ni jour ni nuit et sois son compagnon dans le bonheur et dans le malheur ; prends le commandement du fort et sois vigilant.
 >
-> S’il arrivait un drapeau, que Minoutchehr enverrait avec une armée contre le fort, vous le repousserez, vous vous défendrez bravement, et j’espère que vous vaincrez l’ennemi.»
+> S’il arrivait un drapeau, que Minoutchehr enverrait avec une armée contre le fort, vous le repousserez, vous vous défendrez bravement et j’espère que vous vaincrez l’ennemi.»
 
-Le commandant ayant entendu ces paroles et vu le sceau de la bague,’fit ouvrir la porte de. la forteresse ; car il ne voyait que ce qui paraissait et ne devinait pas le secret.
+Le commandant ayant entendu ces paroles et vu le sceau de la bague,’fit ouvrir la porte de la forteresse ; car il ne voyait que ce qui paraissait et ne devinait pas le secret.
 
 Remarque ce que dit le sage Dihkan : Celui qui cache le secret de son cœur, voit le secret des autres.
 
