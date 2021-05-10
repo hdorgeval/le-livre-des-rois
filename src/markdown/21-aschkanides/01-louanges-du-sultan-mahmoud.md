@@ -4,7 +4,32 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 213
 reign: 'Dynastie des Aschkanides'
-tags: []
+tags:
+  [
+    'Abou-l-Mozaffer',
+    'Aboul',
+    'âme',
+    'Arabes',
+    'Bahram',
+    'Djemschid',
+    'Feridoun',
+    'Iran',
+    'Kaboulistan',
+    'Kanoudj',
+    'Kasim',
+    'Kaïoumors',
+    'Keïanides',
+    'Kobad',
+    'Louanges',
+    'Mahmoud',
+    'Nasr',
+    'Nouschirwan',
+    'Perse',
+    'Samanides',
+    'Sasanides',
+    'Zaboulistan',
+    'Zohak',
+  ]
 order: '001'
 ---
 
