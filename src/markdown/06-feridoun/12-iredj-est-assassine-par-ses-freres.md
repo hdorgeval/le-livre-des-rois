@@ -13,19 +13,23 @@ order: '012'
 Le rideau qui cachait le soleil s’étant levé, l’au-
 rore ayant paru et le sommeil s’étant dissipé, les deux insensés brûlèrent du désir de laver leurs yeux de toute honte.
 
-Ils marchèrent d’un pas hautain, et se dirigèrent reis les tentes du roi. lredj les vit de son pavillon et alla au-devant d’eux le cœur plein d’amour.
+Ils marchèrent d’un pas hautain et se dirigèrent reis les tentes du roi.
+
+Iredj les vit de son pavillon et alla au-devant d’eux le cœur plein d’amour.
 
 Ils rentrèrent avec lui dans sa tente et bientôt l’accablèrent de toutes sortes de questions.
 
 Tour lui dit :
 
 > Puisque tu es le plus jeune de nous, pourquoi as-tu mis le diadème. sur ta tête ?
+>
+> Te convient-il d’occuper l’Iran et le trône de l’empire et à moi de rester prêt à obéir, comme un esclave à la porte des Turcs ?
+>
+> Ton frère aîné s’alllige d’être relégué dans l’occident et toi tu tiendrais la couronne sur [on front, le trésor sous tes pieds !
+>
+> Voilà le partage qu’a fait cet homme avide de domination ; il n’a tourné sa face que. vers le plus jeune de ses fils.»
 
-Te convient-il d’occuper l’Iran et le trône de l’empire, et à moi de rester prêt à obéir, comme un esclave à la porte des Turcs ?
-
-Ton frère aîné s’alllige d’être relégué dans l’occident et toi tu tiendrais la couronne sur [on front, le trésor sous tes pieds !
-
-Voilà le partage qu’a fait cet homme avide de domination ; il n’a tourné sa face que. vers le plus jeune de ses fils.n Lorsque lredj entendit ce discours de Tour, il lui répondit par ces saintes paroles :
+Lorsque Iredj entendit ce discours de Tour, il lui répondit par ces saintes paroles :
 
 > Ô seigneur avide de gloire !
 >
@@ -47,7 +51,7 @@ Voilà le partage qu’a fait cet homme avide de domination ; il n’a tourné s
 Tour écouta toutes ces paroles, mais il n’y fit au-
 cune attention.
 
-Il n’approuve pas ce discours et l’esprit de paix d’lredj ne le satisfit pas.
+Il n’approuve pas ce discours et l’esprit de paix d’Iredj ne le satisfit pas.
 
 Il se leva de son siège en colère, il lui répondit en bondissant à chaque parole.
 
@@ -76,13 +80,15 @@ il avait été assis, il prit avec sa main son lourd siège d’or et en frappa 
 
 Tour entendit ces paroles et ne répondit pas ; son cœur était plein de rage, sa tête pleine de vent.
 
-Il tira un poignard de sa botte et couvrit lredj du haut en bas d’un torrent de sang, déchirant la poitrine royale de son frère avec son poignard d’acier, dévorant comme le poison.
+Il tira un poignard de sa botte et couvrit Iredj du haut en bas d’un torrent de sang, déchirant la poitrine royale de son frère avec son poignard d’acier, dévorant comme le poison.
 
 Le haut cyprès tomba, les entrailles du roi étaient déchirées.
 
 Le sang coulait de ce visage. plein de roses et le jeune maître du monde avait cessé de vivre.
 
-Alors Tour sépara avec son poignard la tête couronnée de ce corps, semblable au corps d’un éléphant et tout fut fini. Ô monde !
+Alors Tour sépara avec son poignard la tête couronnée de ce corps, semblable au corps d’un éléphant et tout fut fini.
+
+Ô monde !
 
 Toi qui l’avais élevé sur ton sein, tu n’as pas eu pitié de sa vie !
 
@@ -92,7 +98,7 @@ Et toi, homme confondu d’étonnement, dont le cœur est plein de douleur et de
 
 Tour remplit le crâne d’Iredj de musc et d’ambre ; il l’envoya au vieillard qui avait distribué le monde et lui fit dire :
 
-> Voilà la tête de ce mignon, sur la- ’ LE LIVRE DES nons. quelle était revenue la couronne denos pères.
+> Voilà la tête de ce mignon, sur la-’ LE LIVRE DES nons. quelle était revenue la couronne denos pères.
 >
 > Donne-lui maintenant la couronne ou le trône !
 >
