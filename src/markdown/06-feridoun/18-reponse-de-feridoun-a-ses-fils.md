@@ -22,7 +22,7 @@ Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils 
 >
 > Je te dirai litdessus quelques paroles.
 >
-> S’il s’est élevé dans vos cœurs un si grand amour pour Mi- noutchehr. où est donc le corps d’Iredj, votre frère glorieux, que vous avez fait disparaître dans la gueule des bêtes féroces, dont vous avez enfermé la tête dans un coffre étroit ?
+> S’il s’est élevé dans vos cœurs un si grand amour pour Minoutchehr. où est donc le corps d’Iredj, votre frère glorieux, que vous avez fait disparaître dans la gueule des bêtes féroces, dont vous avez enfermé la tête dans un coffre étroit ?
 >
 > Maintenant qu’ils se sont délivrés d’Iredj, ils cherchent le sang de Minou-
 . tchehr.
@@ -30,15 +30,15 @@ Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils 
 > Mais vous ne le verrez qu’avec une armée, avec un casque d’acier, une massue et l’étendard de Kaweh ; avec des chevaux dont les fers noirci-
 .ront la terre et avec des chefs de guerre comme.
 >
-> Karen, avide de combats ; comme Schapour, fils de Nestouh, le soutien de l’armée ; à côté de lui se trouveront Schidousch le valeureux, Schironi le tr vainqueur du lion, le guide, le roi Teliman et Serv le chef de Iemen, qui sera à la tête de l’armée, et qui lui donnera ses conseils.
+> Karen, avide de combats ; comme Schapour, fils de Nestouh, le soutien de l’armée ; à côté de lui se trouveront Schidousch le valeureux, Schironi le tr vainqueur du lion, le guide, le roi Teliman et Serv le chef de Iemen, qui sera à la tête de l’armée et qui lui donnera ses conseils.
 >
-> Nous arroserons avec du sang les feuilles et les fruits de l’arbre né de la vengeance qui est due à lredj.
+> Nous arroserons avec du sang les feuilles et les fruits de l’arbre né de la vengeance qui est due à Iredj.
 >
 > Jusqu’à ce jour personne n’avait cherché à le venger, parce que nous
 >
 > : n’étions pas sûrs que le sort nous soutiendrait.
 >
-> Il ne convenait pas que moi j’étendisse la main pour combattre mes deux fils ; mais il s’est élevé, plein de force et de fruit, un rejeton de l’arbre que l’ennemi avait arraché ; il viendra maintenant comme un lion furieux et ceint étroitement pour la vengeance de son père ; il viendra avec les grands de son armée, comme Sam, le fils de Neriman et Guerschaps, le fils de Djemschid et avec une armée qui s’étendra d’une montagne à l’autre, et dont les pieds fouleront la terre.
+> Il ne convenait pas que moi j’étendisse la main pour combattre mes deux fils ; mais il s’est élevé, plein de force et de fruit, un rejeton de l’arbre que l’ennemi avait arraché ; il viendra maintenant comme un lion furieux et ceint étroitement pour la vengeance de son père ; il viendra avec les grands de son armée, comme Sam, le fils de Neriman et Guerschaps, le fils de Djemschid et avec une armée qui s’étendra d’une montagne à l’autre et dont les pieds fouleront la terre.
 >
 > Ensuite, quantà ce qu’ils disent qu’il faut que le roi lave son cœur du désir de la vengeance et pardonne leur crime, parce que c’est ainsi que la rotation des sphères les a guidés, que leurintelligence a été troublée et que le soleil s’est obscurci, j’ai écouté toutes ces demandes inutiles de pardon.
 >
@@ -68,7 +68,7 @@ Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils 
 >
 > Mais pourquoi tant de paroles ?
 >
-> A Aussi longtemps que le père d’lredj vivra avec cette ce tête chargée d’années, il n’abandonnera pas sa vengeance.
+> A Aussi longtemps que le père d’Iredj vivra avec cette ce tête chargée d’années, il n’abandonnera pas sa vengeance.
 >
 > J’ai écouté ton message ; écoute ma réponse, prendsla tout entière et hâte-toi de partirm Le messager entendit ces paroles terribles, il vit l’attitude de Minoutchehr, le chef de l’armée ; il pâlit, se leva en tremblant et monta à cheval sur-le-champ.
 >
@@ -76,7 +76,7 @@ Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils 
 >
 > Il alla vite comme le vent, la tête pleine de sa réponse, le cœur plein de doutes ; et lorsqu’il arriva en vue du pays d’occident, il vit une lente I dressée dans la plaine ; il s’approcha de la tente, dans laquelle se trouvait le maître de l’occident. l’était une tente de soie qu’on avait dressée et qui remplissait l’espace.
 >
-> Les deux mis des deux pays as- sis en consultation secrète, se dirent : Voilà notre messager qui revient!»
+> Les deux mis des deux pays assis en consultation secrète, se dirent : Voilà notre messager qui revient!»
 
 Le chef de la garde se présenta et conduisit l’envoyé devant les rois, qui lui préparèrent un siège nouveau et lui demandèrent des nouvelles du jeune roi.
 
@@ -85,41 +85,43 @@ Ils lui firent des questions sur toute chose. sur le diadème et le trône impé
 L’envoyé leur répondit :
 
 > Quiconque voit le beau printemps, ne voit rien de comparable à la cour du roi ; c’est un riant printemps dans le pararr dis, où toute la terre est d’ambre, toutes les briques sont d’or.
-
-Le ciel le plus élevé est le toit de son palais, le paradis sublime est sa face riante.
-
-Il n’y a pas de montagne haute comme son palais, ni de jardin vaste comme sa cour.
-
-Lorsque j’arrivai devant le palais, je trouvai son toit tenant conseil secret avec les astres.
-
-D’un côté je vis des éléphants, de l’autre des lions ; le monde était soumis à son trône.
-
-Ses éléphants portaientdes trônes d’or sur leur des, tous les lions avaient des colliers de pierres précieuses ; devant les éléphants se tenaient des tambours, de tous côtés sonnaient des trompettes d’airain ; tu aurais dit que la cour en tremblait, que la terre et le ciel en résonnaient. le rr me présentai devant le noble prince, je vis un haut trône de turquoises, sur lequel était assis un roi semblable à la lune, portant sur la tête une couronne de rubis brillants.
-
-Ses cheveux ressemblaient à du camphre, sa face était comme la feuille de la rose, son cœur plein de modestie, sa langue pleine de douces paroles.
-
-Sur lui reposent la crainte et l’espoir duAmonde ; tu aurais dit que Djemschid vivait encore.
-
-Minoutchehr, semblable au rejeton d’un haut cyprès, était assis comme Thahmouras, le vainqueur des Divs ; il était assis à côté du roi, à sa main droite ; tu aurais dit qu’il était le cœur et la langue du roi.
-
-Puis on y voyait Kaweh le forgeron, plein de valeur et devant lui son fils brave dans le combat ; son nom est Karen le vaillant ; c’est un chef infatigable, un destructeur des armées.
-
-Ensuite on voyait Serv, le chef de Iemen et Destour du roi et Gnerschasp le victorieux, le trésorier du roi.
-
-Le
+>
+> Le ciel le plus élevé est le toit de son palais, le paradis sublime est sa face riante.
+>
+> Il n’y a pas de montagne haute comme son palais, ni de jardin vaste comme sa cour.
+>
+> Lorsque j’arrivai devant le palais, je trouvai son toit tenant conseil secret avec les astres.
+>
+> D’un côté je vis des éléphants, de l’autre des lions ; le monde était soumis à son trône.
+>
+> Ses éléphants portaientdes trônes d’or sur leur des, tous les lions avaient des colliers de pierres précieuses ; devant les éléphants se tenaient des tambours, de tous côtés sonnaient des trompettes d’airain ; tu aurais dit que la cour en tremblait, que la terre et le ciel en résonnaient. le rr me présentai devant le noble prince, je vis un haut trône de turquoises, sur lequel était assis un roi semblable à la lune, portant sur la tête une couronne de rubis brillants.
+>
+> Ses cheveux ressemblaient à du camphre, sa face était comme la feuille de la rose, son cœur plein de modestie, sa langue pleine de douces paroles.
+>
+> Sur lui reposent la crainte et l’espoir duAmonde ; tu aurais dit que Djemschid vivait encore.
+>
+> Minoutchehr, semblable au rejeton d’un haut cyprès, était assis comme Thahmouras, le vainqueur des Divs ; il était assis à côté du roi, à sa main droite ; tu aurais dit qu’il était le cœur et la langue du roi.
+>
+> Puis on y voyait Kaweh le forgeron, plein de valeur et devant lui son fils brave dans le combat ; son nom est Karen le vaillant ; c’est un chef infatigable, un destructeur des armées.
+>
+> Ensuite on voyait Serv, le chef de Iemen et Destour du roi et Gnerschasp le victorieux, le trésorier du roi.
+>
+> Le
  : r nombre des portes de ses trésors est inconnu, jamais tr personne dans le monde n’a vu pareille puissance.
+>
+> Tout autour du palais sont placées deux rangées de troupes avec des massues d’or et des toques d’or.
+>
+> Des chefs comme Karen, le fils de Kaweh, se tiennent devant l’armée pleins d’expérience et des braves comme Schiroui le terrible lion et Schapour le héros, l’éléphant furieux.
+>
+> Quand ils attachent les timbales sur le dos des éléphants, l’air devient noir comme la couleur d’ébène.
+>
+> S’ils viennent nous
+>
+> L combattre, les montagnes couvertes de cette multitnde seront comme les plaines et les plaines comme les montagnes.
+>
+> Tous ont le cœur rempli de haine, le front plein de rides ; ils ne désirent que le combat.»
 
-Tout autour du palais sont placées deux rangées de troupes avec des massues d’or et des toques d’or.
-
-Des chefs comme Karen, le fils de Kaweh, se tiennent devant l’armée pleins d’expérience et des braves comme Schiroui le terrible lion et Schapour le héros, l’éléphant furieux.
-
-Quand ils attachent les timbales sur le dos des éléphants, l’air devient noir comme la couleur d’ébène.
-
-S’ils viennent nous
-
-L combattre, les montagnes couvertes de cette multitnde seront comme les plaines et les plaines comme les montagnes.
-
-Tous ont le cœur rempli de haine, le front plein de rides ; ils ne désirent que le combat. a Il leur raconta ainsi tout ce qu’il avait vu et tontes les paroles que Feridoun lui avait dites.
+Il leur raconta ainsi tout ce qu’il avait vu et tontes les paroles que Feridoun lui avait dites.
 
 Le cœur des deux tyrans trembla de terreur, leur face devint noire, ils restèrent assis à se consulter de toute manière, sans savoir à quoi se résoudre.
 
