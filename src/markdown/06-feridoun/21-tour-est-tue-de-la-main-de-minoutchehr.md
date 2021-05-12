@@ -38,15 +38,19 @@ Le roi sortit de son embuscade et Tour ne vit plus de retraite d’aucun côté 
 
 Minoutchehr se précipita après lui et plein du désir de la vengeance, il atteignit Tour le renommé.
 
-Il poussa un grand cri contre cet homme injuste : Arrête, ô tyran plein d’ardeur pour le comhatl Estce ainsi que tu arrachais la tête des innocents, sans penser que le monde crierait vengeance contre toi!»
+Il poussa un grand cri contre cet homme injuste : Arrête, ô tyran plein d’ardeur pour le combat !
+
+Estce ainsi que tu arrachais la tête des innocents, sans penser que le monde crierait vengeance contre toi!»
 
 Il enfonça sa lance dans le dos de Tour, qui laissa échapper de ses mains son épée : rapide comme le vent, il l’enleva de la selle, le jeta par terre et fit tout ce que la bravoure exige.
 
 Il sépara sur-le-champ la tête du tronc et fit de son corps une fête pour les bêtes fauves, puis il retourn M7 a son camp, en contemplant cette tete, Signe dune Il écrivit une lettre au roi Feridoun, lui rendant compte des événements heureux et malheureux de la guerre.
 
-Il commença par des hommages adressés au Créateur du monde, maître de la bonté, de la sainteté et de la justice : ce Gloire au maître du monde le secourablel c’est lui seul qui protége dans le malheur, c’est lui qui donne la direction et qui conwsole les cœurs, c’est lui qui sera le même en toute éternité.
+Il commença par des hommages adressés au Créateur du monde, maître de la bonté, de la sainteté et de la justice : Gloire au maître du monde le secourable !
 
-Après lui hommage au puissant Feridoun, rmaître du diadème et de la massue, à qui appartiennent la justice et la foi, la gloire, la couronne et le trône des rois !
+C’est lui seul qui protège dans le malheur, c’est lui qui donne la direction et qui console les cœurs, c’est lui qui sera le même en toute éternité.
+
+Après lui hommage au puissant Feridoun, maître du diadème et de la massue, à qui appartiennent la justice et la foi, la gloire, la couronne et le trône des rois !
 
 Tout bonheur émane de sa et fortune, toute gloire et tout honneur émane de son trône.
 
