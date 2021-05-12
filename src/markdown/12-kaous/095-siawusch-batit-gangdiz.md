@@ -54,7 +54,7 @@ Il n’y a pas de lieu sur la terre comparableà Gangdiz, il n’y a pas de pays
 
 Quand on a passé la mer, on trouve un désert où tu vois une grande plaine sans eau ; au delà de cette plaine est un pays habité et rempli de villes d’où l’on peut tirer toutes sortes de choses ; ensuite tu rencontres une grande montagne dont la hauteur dépasse toute mesure et au milieu de laquelle est bâtie Gangdiz ; et sache, pour que ton instruction soit complète, que cette montagne a cent farsangs de tour, que sa hauteur étonne l’œil, que tu n’y trouves pas de chemin, de quelque côté que tu ailles et qu’elle forme une enceinte continue.
 
-C’est donc un bassin de trentetrois farsangs de diamètre, entouré de tous côtés d’un rempart de rochers ; et si l’on y place un homme par farsang pour en défendre l’accès, cent mille hommes, armés de cottes de mailles et montés sur des chevaux caparaçonnés, ne pourront forcer le passage.
+C’est donc un bassin de trente-trois farsangs de diamètre, entouré de tous côtés d’un rempart de rochers ; et si l’on y place un homme par farsang pour en défendre l’accès, cent mille hommes, armés de cottes de mailles et montés sur des chevaux caparaçonnés, ne pourront forcer le passage.
 
 Quand tu auras passé ce mur de rochers, tu apercevras une grande ville, remplie de parterres de roses, de parcs, de palais et de maisons, de bains chauds et d’eaux vives ; tu trouveras dans chaque maison de la musique et du luxe de toute espèce.
 
