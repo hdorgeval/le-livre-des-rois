@@ -230,6 +230,7 @@ export const noises = [
   'Grand',
   'Grandes',
   'Grands',
+  'Guerre',
   'Hâte-toi',
   'Hé',
   'Hélas',
