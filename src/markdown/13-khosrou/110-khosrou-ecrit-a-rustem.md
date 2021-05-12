@@ -22,7 +22,7 @@ Combien de fois as-tu saisi les têtes couronnées sur leurs trônes et les as-t
 
 Que de pays ont été dévastés par toi !
 
-O chef des Pehle- wans, ô refuge de l’armée, ta place est auprès des rois.
+O chef des Pehlewans, ô refuge de l’armée, ta place est auprès des rois.
 
 Tu as vaincu avec la massue tous les magi-ciens, tu as rendu brillante la couronne des rois les plus puissants.
 
