@@ -10,11 +10,11 @@ order: '030'
 
 # Sam va voir Rustem
 
-Sam ayant eu la nouvelle que le fils de Zal était devenu pareil à un lion et que personne dans le monde n’avait vu un enfant doué de ce courage de lion et de cette bravoure, son cœur commença à battre, et il résolut d’aller le voir.
+Sam ayant eu la nouvelle que le fils de Zal était devenu pareil à un lion et que personne dans le monde n’avait vu un enfant doué de ce courage de lion et de cette bravoure, son cœur commença à battre et il résolut d’aller le voir.
 
 Il confia ses troupes au chef de son armée et partit avec des hommes pleins d’expérience.
 
-Son amour l’attirait vers son petit-fils, et il conduisit son armée vers le Zaboulistan.
+Son amour l’attirait vers son petit-fils et il conduisit son armée vers le Zaboulistan.
 
 Zal, aussitôt qu’il le sut, fit apprêter des timbales et la terre, couverte de son armée, devint comme le bois d’ébène.
 
@@ -36,9 +36,9 @@ Dès que Sam l’aperçut de loin, il fit avancer son armée sur deux lignes ; Z
 
 Ils se prosternèrent contre terre et appelèrent les grâces de Dieu sur Sam.
 
-Le visage du héros s’épanouit comme une rose, lorsqu’il vit cet enfant ayant de tels bras et de telles épaules ; lorsqu’il regarda ce lionceau, assis sur son éléphant, il sourit, et la joie fit battre son cœur ; il le fit avancer avec son éléphant, il le regarda et l’examina, lui, son trône et sa couronne ; puis il prononça surlui ses bénédictions, en disant :
+Le visage du héros s’épanouit comme une rose, lorsqu’il vit cet enfant ayant de tels bras et de telles épaules ; lorsqu’il regarda ce lionceau, assis sur son éléphant, il sourit et la joie fit battre son cœur ; il le fit avancer avec son éléphant, il le regarda et l’examina, lui, son trône et sa couronne ; puis il prononça surlui ses bénédictions, en disant :
 
-> Ô lion incomparable, puisses- tu être longtemps heureux !
+> Ô lion incomparable, puisses-tu être longtemps heureux !
 >
 > A»
 
@@ -52,7 +52,7 @@ Je désire un cheval et une selle, une cotte de mailles et un casque ; ce que j�
 
 Mon visage ressemble au tien : puisse mon courage égaler le tien !
 
-N Puis, il descendit de son éléphant de guerre et le roi prit dans sa main la main de l’enfant, il le baisa aux yeux et sur la tête, et les éléphants et les timbales s’arrêtèrent.
+N Puis, il descendit de son éléphant de guerre et le roi prit dans sa main la main de l’enfant, il le baisa aux yeux et sur la tête et les éléphants et les timbales s’arrêtèrent.
 
 De la ils se dirigèrent vers Gourabeh, poursuivant leur chez !
 
@@ -64,19 +64,19 @@ Tous banquetèrent au son de la musique, tous chantèrent des chansons dans la g
 
 Dans un coin du trône était assis Destan, de l’autre côté Rustem, une massue en main ; devant eux Sam, le conquérant du monde et de la couronne duquel pendaient les plumes de l’aigle royal.
 
-Le grand-père ne se lassait pas de contempler Rustem avec étonnement et d’invo- quer sur lui le nom de Dieu, admirant ses bras et ses mains, sa stature et son front, sa taille mince comme un roseau, sa poitrine large, ses cuisses fortes comme les cuisses du chameau, son cœur de lion, sa force de lion et de panthère.
+Le grand-père ne se lassait pas de contempler Rustem avec étonnement et d’invoquer sur lui le nom de Dieu, admirant ses bras et ses mains, sa stature et son front, sa taille mince comme un roseau, sa poitrine large, ses cuisses fortes comme les cuisses du chameau, son cœur de lion, sa force de lion et de panthère.
 
 Sa bonne mine, la majesté de son port et la force de ses bras étaient telles, que personne ne pouvait lui être comparé.
 
 Puis, il dit à Zal :
 
-> Tu pourrais interroger cent générations sans trouver quelqu’un qui eût ouï dire qu’on ait tiré de cette sorte un enfant du sein de sa mère ; et com- ment trouverait-on le moyen de faire une chose aussi bonne ?
+> Tu pourrais interroger cent générations sans trouver quelqu’un qui eût ouï dire qu’on ait tiré de cette sorte un enfant du sein de sa mère ; et comment trouverait-on le moyen de faire une chose aussi bonne ?
 >
 > Mille grâces au Simurgh qui fut guidé en cela par Dieu !
 >
 > Maintenant buvons, dans notre joie et que le vin chasse les soucis de nos âmes.
 >
-> Ce monde n’est qu’un séjour passager ; il faut l’em- bellir et puis le quitter.
+> Ce monde n’est qu’un séjour passager ; il faut l’embellir et puis le quitter.
 >
 > Quand un homme a vieilli, on en tire un autre du sein de sa mère.»
 
@@ -111,4 +111,4 @@ Le roi se dirigea vers l’occident, la bouche pleine de paroles douces, le cœu
 
 Ses deux fils partirent avec lui, les oues inondées de larmes, le cœur rempli de ses conseils ; ils allèrent ainsi pendant trois jours, puis ils s’en retournèrent tandis que Sam continuait sa route.
 
-De là Zal le Sipehbed ramena son armée dans le Seïstan, et jour et nuit lui et Rustem au cœur de lion se réjouissaient et buvaient du vin.
+De là Zal le Sipehbed ramena son armée dans le Seïstan et jour et nuit lui et Rustem au cœur de lion se réjouissaient et buvaient du vin.
