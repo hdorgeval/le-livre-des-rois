@@ -64,7 +64,7 @@ Aussitôt que le roi en eut nouvelle, il prépara la grande salle du palais imp�
 
 Un bruit s’éleva de Sari et d’Amol comme 1è bruit de la mer qui se soulève en fureur.
 
-Alors les braves s’avancèrent, armés de javelots, de cuirasses et de lourdes lances, formant une armée qui allait d’une montagne à l’autre, et serrant l’un contre l’autre leurs boucliers couverts
+Alors les braves s’avancèrent, armés de javelots, de cuirasses et de lourdes lances, formant une armée qui allait d’une montagne à l’autre et serrant l’un contre l’autre leurs boucliers couverts
 
 A LE li de tissus jaunes et rouges, avec des timbales, des trompettes et des cymbales d’airain, avec des chevaux arabes et des éléphants portant les trésors.
 
