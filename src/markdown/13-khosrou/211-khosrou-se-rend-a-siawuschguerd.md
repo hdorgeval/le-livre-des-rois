@@ -10,7 +10,7 @@ order: '211'
 
 # Keï Khosrou se rend à Siawuschguerd
 
-Au moment où se réveille le coq, on entendit le son des timbales s’élever du palais et une armée KEÏ KHOSBOU. us empressée et avide de partir se mit en route vers le désert.
+Au moment où se réveille le coq, on entendit le son des timbales s’élever du palais et une armée us empressée et avide de partir se mit en route vers le désert.
 
 Tous les grands de tous les districts accoururent et de chaque lieu où se trouvait un prince on apportait sur la route des vivres pour le roi et son armée et partout où passaient les troupes, les vallées et les plaines ressemblaient à un marché.
 
@@ -23,7 +23,9 @@ Guiv alla à sa rencontre avec son armée et avec tous ceux qui avaient du pouvo
 Le maître du monde les re-
 çut gracieusement et leur prépara des demeures avec la magnificence d’un Keïanide.
 
-Quand Khosrou fut arrivé auprès des vaisseaux, il descendit sur la plage et inpeeta les voiles ; il resta deux semaines sur le bord de la mer et parla sans cesse avec Guiv, à qui il dit : Quiconque n’a pas vu Gangue ne doit par rien au monde se laisser empêcher d’y aller.»
+Quand Khosrou fut arrivé auprès des vaisseaux, il descendit sur la plage et inpeeta les voiles ; il resta deux semaines sur le bord de la mer et parla sans cesse avec Guiv, à qui il dit :
+
+> Quiconque n’a pas vu Gangue ne doit par rien au monde se laisser empêcher d’y aller.»
 
 Ensuite il fit faire tous les préparatifs de départ et lorsque les barques furent mises à l’eau, il ordonna à tous ceux qui se connaissaient en navigation et qui
 
@@ -47,15 +49,15 @@ Tous les princes du pays de Mekran, tous les hommes illustres, tous les héros a
 
 Le roi approuva tout ce qu’il vit de la manière dont Aschkesch avait gouverné ce pays et il choisit un des grands, le nomma prince du Mekran, lui fit beaucoup de présents et le salua comme roi du page.
 
-Lorsqu’il arriva du Mekran aux frontières de la Chine, lui et les grands de l’armée d’Iran, llustem fils de Zal, fils de Sam, vint à sa rencontre avec son armée, qui était heureuse et réjouie de revoir le roi.
+Lorsqu’il arriva du Mekran aux frontières de la Chine, lui et les grands de l’armée d’Iran, Rustem fils de Zal, fils de Sam, vint à sa rencontre avec son armée, qui était heureuse et réjouie de revoir le roi.
 
-Quand Keï Khosrou parut dans le lointain, le héros, qui aperçut son parasol, mit pied à terre de loin et l’adora ; le roi plein de fierté le serra dans ses bras et lui raconta les merveilles qu’il avait vues sur mer, et comment Afrasiab le magicien avait disparu.
+Quand Keï Khosrou parut dans le lointain, le héros, qui aperçut son parasol, mit pied à terre de loin et l’adora ; le roi plein de fierté le serra dans ses bras et lui raconta les merveilles qu’il avait vues sur mer et comment Afrasiab le magicien avait disparu.
 
 Il devint l’hôte de Rustem dans la Chine ; mais après une semaine il quitta la Chine et le Madschiu et arriva à Siawuschguerd le vingt-cinquième jour du mois de Sefendarmuz.
 
-Étant entré dans cette ville de son père, les joues inondées de larmes et le cœur brisé, il se rendit à l’endroit où Guersiwez, le méchant et Gueroui, le maudit, le meurtrier, avaient tranché la tête au roi d’Iran comme à un être vil ; il prit de cette terre noire et la répandit sur sa tête ; il v se déchira les joues et la poitrine et Bustem frotta son visage sur cette terre et noircit la face de Gueroui par ses malédictions.
+Étant entré dans cette ville de son père, les joues inondées de larmes et le cœur brisé, il se rendit à l’endroit où Guersiwez, le méchant et Gueroui, le maudit, le meurtrier, avaient tranché la tête au roi d’Iran comme à un être vil ; il prit de cette terre noire et la répandit sur sa tête ; il v se déchira les joues et la poitrine et Rustem frotta son visage sur cette terre et noircit la face de Gueroui par ses malédictions.
 
-Keï Khosrou dit z Ô roi !
+Keï Khosrou dit : Ô roi !
 
 Tu n m’as laissé dans le monde comme un souvenir et je
 
@@ -65,7 +67,7 @@ Ensuite il se dirigea vers le trésor de son père, que sa mère lui avait indiq
 
 Il resta deux semaines dans cette ville, donna à Rustem deux cents tonnes d’or et fit à Guiv de grands présents.
 
-Lorsque Gustehem fils de Newder fut informé que le roi avait pris la route de la ville de son père, il se mit en marche pour le rejoindre, avec une armée nombreuse de grands et de héros iraniens, et quand il reconnut de loin la tête et la couronne du roi, il descendit de cheval et parCourut à pied une grande distance.
+Lorsque Gustehem fils de Newder fut informé que le roi avait pris la route de la ville de son père, il se mit en marche pour le rejoindre, avec une armée nombreuse de grands et de héros iraniens et quand il reconnut de loin la tête et la couronne du roi, il descendit de cheval et parCourut à pied une grande distance.
 
 Toute l’armée d’une seule voix rendit hommage au roi de la terre, au distributeur de la justice et le roi ordonna à Gustehem de remonter à cheval et partit avec lui, heureux et tenant dans sa main la main du fils de Newder.
 
@@ -73,13 +75,15 @@ Ils se rendirent à Gangui Behischt et le roi honora grandement son armée, à l
 
 Personne ne cessa de se livrer aux banquets et à la chasse, ni le roi ni un seul de ses cavaliers.
 
-Il fut si bon pour tout ce qu’il
-
-KEÏ KHOSBOU. me y avait de vaillants parmi les Turcs, qu’il ne leur restait rien à désirer ; pendant la clarté du jour et pendant le temps du sommeil il ne cessa de leur demander des nouvelles d’Afrasiab ; mais personne parmi eux ne put lui en indiquer une trace et il n’était plus question de lui dans le monde.
+Il fut si bon pour tout ce qu’il me y avait de vaillants parmi les Turcs, qu’il ne leur restait rien à désirer ; pendant la clarté du jour et pendant le temps du sommeil il ne cessa de leur demander des nouvelles d’Afrasiab ; mais personne parmi eux ne put lui en indiquer une trace et il n’était plus question de lui dans le monde.
 
 Un soir le maître du monde se lava la tête et le corps, s’en alla au loin avec le livre du Zendavesla et se tint pendant toute la nuit devant le Créateur en pleurant et le front prosterné par terre.
 
-Il dit : Ton faible serviteur. a l’âme éternellement remplie de douleur.
+Il dit :
+
+> Ton faible serviteur.»
+
+L’âme éternellement remplie de douleur.
 
 Il ne voit pas de traces d’Afrasiab, ni dans les montagnes. ni dans le sahle,ni dans le désert, ni dans l’eau.
 
