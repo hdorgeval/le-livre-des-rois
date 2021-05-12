@@ -12,7 +12,9 @@ order: '022'
 
 Sindokht ayant épuisé le trésor, monta à cheval comme un héros semblable à Adergueschaspl.
 
-La tête couverte d’un casque de Roum, assise sur un l Aderguescbasp est le nom d’un auge qui, dans la mythologie persane, est le gardien du feu et qui par cette raison sert de terme de comparaison à tout ce qui est brillant.
+La tête couverte d’un casque de Roum, assise sur un !
+
+Aderguescbasp est le nom d’un auge qui, dans la mythologie persane, est le gardien du feu et qui par cette raison sert de terme de comparaison à tout ce qui est brillant.
 
 Le roi Guschamoureuses. cheval rapide comme le vent, elle s’avança solennellement vers la cour de Sam, en silence et sans se nommer.
 
@@ -30,7 +32,7 @@ Il resta assis plein de pensées, semblable à un homme ivre, les bras croisés,
 > Comment se peut-il que d’un endroit où il se trouve de telles richesses, on envoie une femme?’Si j’accepte tous ces présents, le roi du peuple m’en voudra ; et si je les renvoie et que j’en prive Zal, il étendra ses bras comme le Simurgh étend ses ailes, il entrera en cotasp donna le nom de cet ange au temple de Baclres, qui, selon la tradition persane, renfermait letrésor royal et qui fut pillé et détruit par Alexandre le Grand après la prise de la ville.
 >
 > 
-1ère et s’irritera contre moi : et que lui répondrai- je à la face du peuple?»
+1ère et s’irritera contre moi : et que lui répondrai-je à la face du peuple?»
 
 Il releva la tête et dit :
 
@@ -76,7 +78,7 @@ Sindokht lui répondit :
 >
 > Le palais et la salle du roi sont ma demeure, j’ai des trésors et une famille puissante.
 >
-> Quand je serai sûre de ta protection, je te dirai tout ce que tu m’as demandé, et je m’en glorifierai.
+> Quand je serai sûre de ta protection, je te dirai tout ce que tu m’as demandé et je m’en glorifierai.
 >
 > Je rechercherai tous les trésors cachés du Kaboul et les enverrai dans le Zaboulistan.»
 
@@ -86,11 +88,11 @@ Sindolrht ayant entendu son serment et ses paroles pleines de droiture et ses pr
 
 Je suis de même la mère
 
-De Boudabeh au visage de lune, sur laquelle Zal verse son âme.
+De Roudabeh au visage de lune, sur laquelle Zal verse son âme.
 
 Toute mafamille se tient devant Dieu le saint, dans la nuit sombre, jusqu’à ce que le jour dissipe les ténèbres, invoquant les grâces de Dieu sur toi, sur Zal et sur le roi maître du monde.
 
-Je suis venue pour savoir quel est ton désir, et qui sont tes ennemis et tes amis dans Kaboul.
+Je suis venue pour savoir quel est ton désir et qui sont tes ennemis et tes amis dans Kaboul.
 
 Si nous sommes méchants et de mauvaise race et indignes de ce royaume, me voici devant toi dans ma tristesse ; tue ceux qui le méritent, enchaîne ceux qu’il faut que tu enchaînes, mais ne brûle pas le cœur de ceux de Kaboul qui sont innocents, car une telle action changerait le jour en nuit.»
 
@@ -151,7 +153,7 @@ Sam lui dit :
 
 > Va et retourne chez toi ; dis au vaillant Mihrab ce que tu as vu.»
 
-Puis, il fit préparer un présent digne d’elle et fit choisir ce qu’il y avait de plus précieux dans ses trésors, en partie pour Mihrab et Sindokht, en partie pour Boudabeh qui faisait naître l’amour.
+Puis, il fit préparer un présent digne d’elle et fit choisir ce qu’il y avait de plus précieux dans ses trésors, en partie pour Mihrab et Sindokht, en partie pour Roudabeh qui faisait naître l’amour.
 
 Ensuite tout ce que Sam possédait à Kaboul en palais, en jardins, en plantations et en récoltes, en bêtes à lait, en tapis et en étoffes, il le donna à Sindolrht ; et prenant sa main dans la sienne, il lui répéta de nouveau ses promesses, disant :
 
