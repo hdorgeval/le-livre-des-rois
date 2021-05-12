@@ -38,7 +38,7 @@ On dit que c’est un Div plein de courage, qui ne tremble point au jour du comb
 
 Le roi lui répondit :
 
-> Que ton cœur ne s’alllige pas de cette affaire.
+> Que ton cœur ne s’afflige pas de cette affaire.
 >
 > Tu t’es fatigué dans ton entreprise à conduire l’armée et à exercer la vengeance : c’est à i3.
 >
