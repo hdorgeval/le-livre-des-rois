@@ -124,7 +124,7 @@ Mais il se mit à penser et à réfléchir ; il ne vit pas jour à cette affaire
 >
 > Il me serait facile de me venger, car il n’y a pas de muraille devant ma lance ; mais il vaut mieux que je me rende auprès de Khosrou, pour que les paroles de Gourguin le convainquent de son crime.»
 
-Al:
+Al :
 
 Alors, il dit à Gourguin d’une voix de tonnerre :
 
