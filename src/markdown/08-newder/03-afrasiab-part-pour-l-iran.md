@@ -40,7 +40,7 @@ Afrasiab observa cette armée et dans la nuit il expédia un dromadaire à Pesch
 
 Zal lui prépare un tombeau et ne peut mouvoir pour le combat ni pieds ni ailes.
 
-Enfin Schemasas est allé dans le Nimrouz, et a mis sur sa tête la couronne qui illumine le monde.
+Enfin Schemasas est allé dans le Nimrouz et a mis sur sa tête la couronne qui illumine le monde.
 
 En toute chose il faut chercher le moment et prendre le conseil d’un ami prudent ; quiconque est paresseux au moment d’agir, ne trouvera plus pareille occasion.»
 
