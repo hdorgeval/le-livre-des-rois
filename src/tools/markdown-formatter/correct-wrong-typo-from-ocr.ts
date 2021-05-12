@@ -6,6 +6,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ \?n /g, ' ?» '),
     (content: string) => content.replace(/ \(l’avis /g, ' d’avis '),
     (content: string) => content.replace(/ \(le /g, ' de '),
+    (content: string) => content.replace(/ à /g, ' à '),
     (content: string) => content.replace(/ à tété /g, ' à tête '),
     (content: string) => content.replace(/ afi’aire /g, ' affaire '),
     (content: string) => content.replace(/ ailait /g, ' allait '),
@@ -52,6 +53,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ le i /g, ' le '),
     (content: string) => content.replace(/ lredj/g, ' Iredj'),
     (content: string) => content.replace(/ lui lit/g, ' lui fit'),
+    (content: string) => content.replace(/ où /g, ' où '),
     (content: string) => content.replace(/ palaisl/g, ' palais !'),
     (content: string) => content.replace(/ parlage /g, ' partage '),
     (content: string) => content.replace(/ pieurant /g, ' pleurant '),
@@ -80,6 +82,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/,la /g, ', la '),
     (content: string) => content.replace(/,le /g, ', le '),
     (content: string) => content.replace(/: ce /g, ': '),
+    (content: string) => content.replace(/’à /g, '’à '),
     (content: string) => content.replace(/’de/g, ' de'),
     (content: string) => content.replace(/«/g, ''),
     (content: string) => content.replace(/«/g, ''),
@@ -155,6 +158,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/tonjours/g, 'toujours'),
     (content: string) => content.replace(/Zabonlistan/g, 'Zaboulistan'),
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
+    (content: string) => content.replace(/Zobak/g, 'Zohak'),
+    (content: string) => content.replace(/l’ âme/g, 'l’âme'),
   ].forEach((format) => {
     result = format(result);
   });
