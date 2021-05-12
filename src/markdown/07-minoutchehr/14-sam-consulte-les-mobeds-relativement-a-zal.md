@@ -23,11 +23,11 @@ rent et revinrent en souriant, se présentèrent, joyeux de leur bonne fortune, 
 
 J’ai de v bonnes nouvellesà t’apprendre sur la fille de Mihrab 2l!) etsur Zal, qui seront deux époux illustres.
 
-Ce couple vertueux aura un fils pareil à un éléphant de guerre qui se ceindra bravement, soumettra les hommes par l’épée et placera le trône du roi au-dessus des nuages ; il déracinera de terre le pied des méchants , et ne leur laissera dans le monde aucun refuge ; il n’épargnera ni les Segsars ni le Mazenderan et purifiera la terre avec sa lourde massue.
+Ce couple vertueux aura un fils pareil à un éléphant de guerre qui se ceindra bravement, soumettra les hommes par l’épée et placera le trône du roi au-dessus des nuages ; il déracinera de terre le pied des méchants et ne leur laissera dans le monde aucun refuge ; il n’épargnera ni les Segsars ni le Mazenderan et purifiera la terre avec sa lourde massue.
 
 Par lui tous les maux accableront le Touran et toutes les prospérités se répandront sur l’Iran.
 
-Il rendra le som- meil aux malheureux, il fermera la porte de la dis- corde et la voie du mal.
+Il rendra le sommeil aux malheureux, il fermera la porte de la discorde et la voie du mal.
 
 Les Iraniens mettront leur espérance en lui et le Pehlewan aura de lui de bonnes et joyeuses nouvelles.
 
@@ -45,8 +45,7 @@ Le roi entendit ces paroles des astrologues ; il sourit et agréa leur hommage e
 >
 > Demain
 >
-> 
-matin je quitterai ce champ de bataille pour conduire mon armée dans le pays d’Iran, où je saurai ce que le roi ordonnera et ce que le maître décidera sur ton désir.»
+> matin je quitterai ce champ de bataille pour conduire mon armée dans le pays d’Iran, où je saurai ce que le roi ordonnera et ce que le maître décidera sur ton désir.»
 
 Il donna à l’envoyé des pièces d’argent et lui dit :
 
@@ -63,6 +62,6 @@ arrivé.
 >
 > Arrivé auprès de Zal, il lui rapporta le message de Sam et lui dit tout ce qui concernait cette affaire.
 >
-> Zal rendit grâce au Créateur de ce bonheur et de son heureux destiniil donna aux pauvres de l’or et de l’argent, il fut gracieux envers tous les siens ; il appela les bénédictions de Dieu sur Sam et sur le porteur de ce hon message.
+> Zal rendit grâce au Créateur de ce bonheur et de son heureux destiniil donna aux pauvres de l’or et de l’argent, il fut gracieux envers tous les siens ; il appela les bénédictions de Dieu sur Sam et sur le porteur de ce bon message.
 >
 > Pendant la nuit il ne dormait pas ; pendant le jour il ne se reposait pas, il ne buvait pas de vin, il ne mandait pas les chanteurs ; son cœur était rempli de passion pour sa fiancée et il ne parlait que de Boudabell.
