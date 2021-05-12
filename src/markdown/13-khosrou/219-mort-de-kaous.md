@@ -10,9 +10,9 @@ order: '219'
 
 # Mort de Keï Kaous
 
-Lorsque Kaous eut retrouvé sa sécurité, il énonça devant Dieu toutes les pensées secrètes de son coeur, .
+Lorsque Kaous eut retrouvé sa sécurité, il énonça devant Dieu toutes les pensées secrètes de son coeur,.
 
-LE LIVRE DES llUlS. disant : :0 toi qui es au-dessus du sort, toi qui nous instruis en tout ce qui est bien, c’est de toi que j’ai reçu ma dignité royale, ma gloire, ma fortune, ma puissance, mon diadème, ma valeur et mon trône.
+LE LIVRE DES llUlS. disant : : Ô toi qui es au-dessus du sort, toi qui nous instruis en tout ce qui est bien, c’est de toi que j’ai reçu ma dignité royale, ma gloire, ma fortune, ma puissance, mon diadème, ma valeur et mon trône.
 
 Tu n’as donné à personne des trésors, un trône et un grand renom comme à moi.
 
@@ -32,7 +32,7 @@ Quand Keï Khosrou se fut éloigné de ce trône, on ferma l’entrée du lieu d
 
 Telle est la loi de ce séjour de passage, tu ne restes pas toujours à t’y fatiguer.
 
-Le plus sage ne peut échapper aux grilles de la mort. ni les plus braves, sous leurs cottes de mailles et leurs casques ; et fusses-tu roi, fusses-tu Zerdehischt, la couche sera la terre et ton oreiller sera la brique.
+Le plus sage ne peut échapper aux griffes de la mort. ni les plus braves, sous leurs cottes de mailles et leurs casques ; et fusses-tu roi, fusses-tu Zerdehischt, la couche sera la terre et ton oreiller sera la brique.
 
 Essaye d’être joyeux, cherche à atteindre l’objet de tes désirs et quand tu l’as obtenu, recherche une bonne renommée ; mais sache que le monde est ton ennemi, que la terre sera ton lit et la poussière ton vêtement.
 
