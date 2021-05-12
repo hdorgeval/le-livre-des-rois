@@ -20,24 +20,30 @@ Il lui dit :
 >
 > Mainte fois une armée en voyant sa massue, sa tête d’éléphant, la crinière de son cheval et son bras, s’est enfuie sans combattre, en semant les flèches et les arcs dans les vallées et sur les plaines et c’est ainsi qu’il a marché devant mes ancêtres, quand ils allaient au combat, comme un guide qui porte bonheur et montre le chemin de ce la victoire.
 >
-> Si je rappelais les glorieuses fatigues, j’au- rais quelque chose de nouveau à dire pendant cent générations et pourtant si l’on comparait mes louanges avec tes hauts faits, elles paraîtraient presque un blâme.
+> Si je rappelais les glorieuses fatigues, j’au-rais quelque chose de nouveau à dire pendant cent générations et pourtant si l’on comparait mes louanges avec tes hauts faits, elles paraîtraient presque un blâme.
 >
 > Quant à la question que tu m’as adressée sur mes actions, sur mes malaises et ma cour fermée, je vais te dire tout, pour que tu le saches, ô héros!
 >
-> Mon désir unique est dirigé vers Dieu ; j’ai renoncé au monde avec mépris ; je me tiens jour et nuit debout en prière, suppliant le Juge et le guide su- prême qu’il me pardonne mes péchés passés et qu’il éclaire ma route obscure ; qu’il m’enlève de cette de- meure passagère, qu’il ne réserve plus pour moi des fêtes et des fatigues dans ce monde ; qu’il m’accorde un séjour heureux dans les jardins du paradis et qu’il me guide vers le bien.
+> Mon désir unique est dirigé vers Dieu ; j’ai renoncé au monde avec mépris ; je me tiens jour et nuit debout en prière, suppliant le Juge et le guide suprême qu’il me pardonne mes péchés passés et qu’il éclaire ma route obscure ; qu’il m’enlève de cette demeure passagère, qu’il ne réserve plus pour moi des fêtes et des fatigues dans ce monde ; qu’il m’accorde un séjour heureux dans les jardins du paradis et qu’il me guide vers le bien.
 >
 > Il ne faut pas que je m’écarte de cette voie droite et que ma tête s’égare comme celle des rois anciens.
 >
 > J’ai demandé et obtenu beau-
 > coup dans le monde, mais il faut que je me prépare au départ, car les bonnes nouvelles sont arrivées.
 >
-> Hier matin mes yeux se sont endormis et le bienheureux Serosch est arrivé, envoyé par Dieu, disant : Prépare-toi, le moment de ta mort est proche et tes malheurs et tes insomnies sont termiués.
+> Hier matin mes yeux se sont endormis et le bienheureux Serosch est arrivé, envoyé par Dieu, disant :
+
+> Prépare-toi, le moment de ta mort est proche et tes malheurs et tes insomnies sont termiués.
 >
-> Mon règne et les soucis de l’empire, de la couronne, du trône et de la ceinture royale sont finis. a Le cœur des Iraniens était affligé par le roi ; ils
+> Mon règne et les soucis de l’empire, de la couronne, du trône et de la ceinture royale sont finis.»
+
+Le cœur des Iraniens était affligé par le roi ; ils
 >
-> KEÏ KHOSBOU. se troublaient et leur esprit s’égarait.
+> se troublaient et leur esprit s’égarait.
 >
-> Zal, à ces paroles de Khosrou, se mit en colère, poussa un grand soupir et dit aux Iraniens : Ceci n’est pas bien.
+> Zal, à ces paroles de Khosrou, se mit en colère, poussa un grand soupir et dit aux Iraniens :
+
+> Ceci n’est pas bien.
 >
 > Il n’y a pas de place pour la raison dans ce cerveau.
 >
@@ -47,8 +53,10 @@ Il lui dit :
 >
 > Feridoun et Houscheng, les adorateurs de Dieu, n’ont jamais porté la main sur cet arbre du mal.
 >
-> Je vais lui dire toute la vérité, quand même je devrais en perdre la vie. a Les.
+> Je vais lui dire toute la vérité, quand même je devrais en perdre la vie.»
+
+Les.
 >
-> Iraniens lui répondirent : Jamais un Keïa- nide n’a proféré des paroles comme lui, et’uous ap- puierons tout ce que tu diras à Khosrou.
+> Iraniens lui répondirent : Jamais un Keïanide n’a proféré des paroles comme lui, et’uous appuierons tout ce que tu diras à Khosrou.
 >
 > Puisse-t-il ce ne pas abandonner les coutumes et la voie des rois !
