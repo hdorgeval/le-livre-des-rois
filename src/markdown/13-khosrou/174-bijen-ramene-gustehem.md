@@ -12,10 +12,11 @@ order: '174'
 
 Alors on entendit annoncer du haut de la tour des sentinelles qu’on voyait sur la route la poussière soulevée par des cavaliers et qu’on apercevait de loin trois chevaux et trois corps attachés dessus, accompagnés d’un seul cavalier.
 
-Tous les grands de l’armée de l’Iran tournèrent leurs regards sur la route avec un grand étonnement, disant : Qui est-ce qui ose sortir de la frontière du Touran pour venir nous attaquer ici?»
+Tous les grands de l’armée de l’Iran tournèrent leurs regards sur la route avec un grand étonnement, disant :
 
-Pendant ce temps Bijen s’avançait rapidement, son arc bandé suspendu à son bras ; on distinguait Lehhak et Ferschidwerd couchés sur leurs chevaux et couverts de sang et de poussière et sur un autre cheval un Turc accablé .
-500 de tristesse, qui tenait dans ses bras Gustehem.
+> Qui est-ce qui ose sortir de la frontière du Touran pour venir nous attaquer ici?»
+
+Pendant ce temps Bijen s’avançait rapidement, son arc bandé suspendu à son bras ; on distinguait Lehhak et Ferschidwerd couchés sur leurs chevaux et couverts de sang et de poussière et sur un autre cheval un Turc accablé . de tristesse, qui tenait dans ses bras Gustehem.
 
 Quand Bijen se fut approché du roi et qu’il eut aperçu sa couronne et son trône élevé, il se prosterna devant lui et baisa la terre.
 
@@ -31,9 +32,7 @@ Tous les grands se lamentaient et pleuraient comme si un feu ardent les eût dé
 
 Le roi était désolé de perdre un Sipehbed dont la tête couverte du casque était une enclume de bataille.
 
-Or il possédait une pierre qui était l’espoir des blessés ; il l’avait reçue en héritage de ses prédécesseurs Hous-
-
-KEÏ KHOSBOU. cheng, Thamouras et Djemschid et la portait sur son bras toute l’année et tout le mois.
+Or il possédait une pierre qui était l’espoir des blessés ; il l’avait reçue en héritage de ses prédécesseurs Houscheng, Thamouras et Djemschid et la portait sur son bras toute l’année et tout le mois.
 
 Désirant de tout son cœur sauver Gustehem, il détacha ce pré-cieux joyau de son bras droit, le lia sur le bras de Gustehem et frotta de la main ses blessures.
 
@@ -43,11 +42,13 @@ Ensuite il se rendit à l’endroit où il faisait ses dévotions et pria Dieu l
 
 Le malade passa ainsi deux semaines ; à la fin il guérit et se rétablit de ses fatigues et de ses blessures.
 
-On le plaça sur un cheval et on l’amena devant le roi ; et lorsque le maître du monde l’aperçut, il dit aux Iraniens : Soyez reconnaissants et heucreux de ce que Dieu a fait.
+On le plaça sur un cheval et on l’amena devant le roi ; et lorsque le maître du monde l’aperçut, il dit aux Iraniens :
 
-Il est merveilleux que mon vœu soit exaucé et que le compas de ma fortune ait formé un cercle si juste.
-
-Au sein de la vice : taire, mon inquiétude pour Gustehem avait attristé mon cœur joyeux ; c’est uniquement la faveur de Dieu qui conserve la vie de tout ce qui existe et non pas la science et les soins des hommes.»
+> Soyez reconnaissants et heucreux de ce que Dieu a fait.
+>
+> Il est merveilleux que mon vœu soit exaucé et que le compas de ma fortune ait formé un cercle si juste.
+>
+> Au sein de la vice : taire, mon inquiétude pour Gustehem avait attristé mon cœur joyeux ; c’est uniquement la faveur de Dieu qui conserve la vie de tout ce qui existe et non pas la science et les soins des hommes.»
 
 Khosrou appela alors Bijen fils de Guiv, mit sa main dans celle du vaillant Gustehem et lui dit :
 
