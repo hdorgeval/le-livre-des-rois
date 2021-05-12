@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 384
 reign: 'Keï Kaous'
-tags: []
+tags: ["Ader", "Ahriman", "âme", "Bahman", "Bahram", "Dieu", "Div", "Divs", "Djemschid", "Feridoun", "Ferwerdin", "Gouderz", "Guiv", "Gurguin", "Iran", "Kaous", "Keschwad", "Keïanides", "Keïkobad", "Kherrad", "Mazenderan", "Minoutchehr", "Nimrouz", "Pehlewans", "Péris", "Rustem", "Sam", "Thous", "Zal", "Zohak"]
 order: '001'
 ---
 
@@ -69,7 +69,7 @@ Il adressa ainsi la parole aux fiers guerriers :
 
 > Nous nous sommes adonnés aux festins ; mais si le brave se laisse aller à la paresse, il ne sera plus jamais las de la mollesse et du repos.
 >
-> Je suis supérieur à Djemschid, à Zohak et à Keï-kobad par ma haute fortune, par ma splendeur et ma naissance ; il faut donc que je les surpasse en prouesse, car il convient à celui qui porte la couronne de chercher la possession du monde.
+> Je suis supérieur à Djemschid, à Zohak et à Keïkobad par ma haute fortune, par ma splendeur et ma naissance ; il faut donc que je les surpasse en prouesse, car il convient à celui qui porte la couronne de chercher la possession du monde.
 
 Lorsque les grands entendirent ces paroles, aucun d’eux n’approuva le projet du roi ; tous pâlirent et leurs fronts se ridèrent ; car aucun n’avait envie de combattre les Divs.
 
