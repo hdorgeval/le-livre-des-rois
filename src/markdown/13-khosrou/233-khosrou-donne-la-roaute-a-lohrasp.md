@@ -10,39 +10,45 @@ order: '233'
 
 # Keï Khosrou donne la royauté à Lohrasp
 
-Quand les affaires des grands furent arrangées, le roi des rois était malade de fatigue ; mais il restait un nom, parmi ceux des grands, qui n’avait pas paru sur cette liste de décrets du roi z c’était celui de Lohrasp.
+Quand les affaires des grands furent arrangées, le roi des rois était malade de fatigue ; mais il restait un nom, parmi ceux des grands, qui n’avait pas paru sur cette liste de décrets du roi : c’était celui de Lohrasp.
 
 Le roi ordonna à Bijen d’amener Lohrasp devant lui,.couvert de son caSque.
 
-Quand le maître du monde le vit, il se leva vivement, le bénit, étendit. la main vers lui, descendit de son illustre trône d’ivoire, ôta de sa tête la couronne qui réjouissait les cœurs, la remit à Lohrasp et le salua roi du pays d’Iran, disant z Que ton nouveau trône te porte bonheur, que le monde entier soit ton esclave !
+Quand le maître du monde le vit, il se leva vivement, le bénit, étendit. la main vers lui, descendit de son illustre trône d’ivoire, ôta de sa tête la couronne qui réjouissait les cœurs, la remit à Lohrasp et le salua roi du pays d’Iran, disant :
 
-Je te donne ma royauté et mes trésors, après avoir réprouvé bien des chagrins et des fatigues.
+> Que ton nouveau trône te porte bonheur, que le monde entier soit ton esclave !
+>
+> Je te donne ma royauté et mes trésors, après avoir réprouvé bien des chagrins et des fatigues.
+>
+> Doréna-
+>
+> -vant ne prononce plus une parole qui ne soit juste, car c’est par la justice que tu obtiendras la victoire et le bonheur.
+>
+> Ne donne pas accès au Div dans ton âme, si tu veux que ta fortune reste toujours jeune.
+>
+> Sois prudent, ne te laisse pas aller à la colère, observe toujours tes paroles.»
 
-Doréna-
+Ensuite il dit aux Iraniens :
 
--vant ne prononce plus une parole qui ne soit juste, KEÏ KHOSBOU. car c’est par la justice que tu obtiendras la victoire et le bonheur.
-
-Ne donne pas accès au Div dans ton âme, si tu veux que ta fortune reste toujours jeune.
-
-Sois prudent, ne te laisse pas aller à la colère, observe toujours tes paroles.»
-
-Ensuite il dit aux Iraniens : Puissiez-vous jouir du bonheur à l’ombre de son trône et par l’influence de sa fortune!»
+> Puissiez-vous jouir du bonheur à l’ombre de son trône et par l’influence de sa fortune!»
 
 Les Iraniens étaient confondus de ces paroles et tous rugirent comme des lions furieux ; ils restèrent stupéfaits de ce qu’ils auraient à donner à Lohrasp le titre de roi.
 
-Zal se leva au milieu d’eux et dit franchement ce qu’il avait dans le cœur en adressant au grand roi ces paroles : Il peut te plaire de vouloir rendre honoré ce qui n’est que vile’poussière ; mais quiconque appellera sérieusement Lohrasp roi, que ’ la tête de sa fortune soit couverte de poussière !
+Zal se leva au milieu d’eux et dit franchement ce qu’il avait dans le cœur en adressant au grand roi ces paroles :
 
-Que la thériaque se change en poison dans sa bouche !
+> Il peut te plaire de vouloir rendre honoré ce qui n’est que vile’poussière ; mais quiconque appellera sérieusement Lohrasp roi, que ’ la tête de sa fortune soit couverte de poussière !
+>
+> Que la thériaque se change en poison dans sa bouche !
+>
+> Jamais nous ne nous soumettrons à cette injustice.
+>
+> Quand Lohrasp est arrivé dans l’Iran auprès de Zerasp, je l’ai vu ; il était pauvre et n’avait qu’un seul cheval.
+>
+> Tu l’as envoyé à la guerre contre les Mains, tu lui as donné une armée, un drapeau et . une ceinture et le roi n’a pas pensé un seul instant à tant d’autres de ses grands, des descendants des rois.
+>
+> Je ne connais pas son origine, je ne sais quelle est sa famille ; jamais je n’ai entendu parler d’un roi de cette espèce.»
 
-Jamais nous ne nous soumettrons à cette injustice.
-
-Quand Lohrasp est arrivé dans l’Iran auprès de Zerasp, je l’ai vu ; il était pauvre et n’avait qu’un seul cheval.
-
-Tu l’as envoyé à la guerre contre les Mains, tu lui as donné une armée, un drapeau et . une ceinture et le roi n’a pas pensé un seul instant à tant d’autres de ses grands, des descendants des rois.
-
-Je ne connais pas son origine, je ne sais quelle est sa famille ; jamais je n’ai entendu parler d’un roi de cette espèce.»
-
-Lorsque le Destan fils de Sam eut prononcé ces paroles, toute l’assemblée lui témoigna sa sympathie, et l’on entendit les voix des Iraniens qui s’écriaient : Dorénavant, ô roi, nous ne te servirons plus !
+Lorsque le Destan fils de Sam eut prononcé ces paroles, toute l’assemblée lui témoigna sa sympathie et l’on entendit les voix des Iraniens qui s’écriaient : Dorénavant, ô roi, nous ne te servirons plus !
 
 Aucun de nous n’ira à la guerre, si le roi place Lohrasp ausdessus de nous.»
 
@@ -64,13 +70,15 @@ Khosrou écouta les paroles du Destan et lui répondit :
 >
 > Quiconque désobéira à mes dernières volontés perdra le prix de\*toutes les fatigues qu’il aura supportées pour moi, il deviendra rebelle à Dieu et de toute part son cœur sera envahi de terreurs.»
 
-KEÏ KHOSROU. ’ Lorsque Zal eut entendu ces paroles saintes, il étendit ses bras et posa ses doigts sur la terre ; il souilla ses lèvres en baisant la poussière noire, reo connut à haute voix Lohrasp comme roi et dit au roi du monde : Puisses-tu être heureux !
+’ Lorsque Zal eut entendu ces paroles saintes, il étendit ses bras et posa ses doigts sur la terre ; il souilla ses lèvres en baisant la poussière noire, reo connut à haute voix Lohrasp comme roi et dit au roi du monde :
 
-Puisse la main du malheur ne jamais l’atteindre !
-
-Qui pouvait savoir, si ce n’est le roi noble et victorieux, que Lohrasp était de race royale ?
-
-En lui prêtant serment, prosterné sur la terre noire, j’ai souillé mes lèvres ; ne me l’impute pas à faute.»
+> Puisses-tu être heureux !
+>
+> Puisse la main du malheur ne jamais l’atteindre !
+>
+> Qui pouvait savoir, si ce n’est le roi noble et victorieux, que Lohrasp était de race royale ?
+>
+> En lui prêtant serment, prosterné sur la terre noire, j’ai souillé mes lèvres ; ne me l’impute pas à faute.»
 
 Les grands versèrent des pierreries sur Lohrasp et lui rendirent hommage comme à leur roi.
 
