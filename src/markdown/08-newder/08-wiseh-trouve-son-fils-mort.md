@@ -16,19 +16,21 @@ Mais avant d’atteindre Karen, il trouva celui qu’il avait aimé, mort et aba
 
 A cet aspect Wiseh se désola ; tu aurais dit que son cœur se fendait dans son angoisse.
 
-Il versa de ses yeux des larmes de pitié, et se remit à suivre Karen avec fureur.
+Il versa de ses yeux des larmes de pitié et se remit à suivre Karen avec fureur.
 
 Il courut comme un nuage qui court et le monde en fut rempli de terreur.
 
 Karen reçut la nouvelle que Wiseh arrivait en grande pompe et avec une armée victorieuse ; il envoya aussitôt des cavaliers montés sur des chevaux arabes vers le Nimrouz et se mit en marche lui-même illuminant le monde.
 
-Arrivé du pays de Fars dans le désert, Karen vit s’élever à sa gauche une grande poussière, d’où il sortit un drapeau noir, et le chef des Turcs parut à la tête de son armée.
+Arrivé du pays de Fars dans le désert, Karen vit s’élever à sa gauche une grande poussière, d’où il sortit un drapeau noir et le chef des Turcs parut à la tête de son armée.
 
 On forma des rangs des deux côtés et les braves pleins d’ardeur pour le combat s’approchèrent.
 
-Wiseh éleva la voix du centre de son armée, s’écriant : La cou- ronne et le trône du pouvoir ont été livrés au vent ; depuis Kanoudji jusqu’aux frontières de Kaboul, jusqu’à Ghaznin et au Zaboulistan, tout est entre nos mains et nous avons placé nos trônes sculptés dans tous les palais.
+Wiseh éleva la voix du centre de son armée, s’écriant :
 
-Où pourrais-tu trouver un lieu de repos, maintenant que le roi est notre prison- nier 2?»
+> La couronne et le trône du pouvoir ont été livrés au vent ; depuis Kanoudji jusqu’aux frontières de Kaboul, jusqu’à Ghaznin et au Zaboulistan, tout est entre nos mains et nous avons placé nos trônes sculptés dans tous les palais.
+>
+> Où pourrais-tu trouver un lieu de repos, maintenant que le roi est notre prisonnier 2?»
 
 Karen répondit :
 
