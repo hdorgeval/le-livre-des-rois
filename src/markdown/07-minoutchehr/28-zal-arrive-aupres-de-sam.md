@@ -22,7 +22,7 @@ Sam s’assit avec Zal au cœur joyeux et plein de contentement, sur le trône r
 
 Il me vint, dit-il, après ton départ, un message de Kaboul, dont le porteur était une femme, nommée Sindokht.
 
-Elle exigea de moi la promesse, que je donnai sur-le-champ, de ne jamais agir hostile- ment à son égard.
+Elle exigea de moi la promesse, que je donnai sur-le-champ, de ne jamais agir hostilement à son égard.
 
 Je répondis sincèrement à toutes ses demandes, qu’elle me fit avec douceur.
 
@@ -57,9 +57,9 @@ Il fit sonner a3
 2
 les trompettes d’airain et lier les timbales sur le dos des éléphants, il orna son armée comme l’œil du coq, il la fit précéder d’éléphants de guerre et de musiciens et le pays devint un paradis d’une frontière à l’autre, tant il y avait d’étendards de soie de toute couleur, rouges, verts, jaunes et violets ; et tel était le bruit des trompettes et des harpes, des clairons et des tambourins, que tu aurais dit : Estce le jour suprême ?
 
-Est-ce le jour de la résurrection, ou un tr jour de fête ?
+Estce le jour de la résurrection, ou un tr jour de fête ?
 
-V Mihrab s’avança ainsi jusqu’à ce qu’il vît Sam ; il descendit alors de cheval et courut vers lui à pied, et le Pehlewan du monde le prit dansses bras et lui demanda comment le sort l’avait traité.
+V Mihrab s’avança ainsi jusqu’à ce qu’il vît Sam ; il descendit alors de cheval et courut vers lui à pied et le Pehlewan du monde le prit dansses bras et lui demanda comment le sort l’avait traité.
 
 Le roi de Kaboul rendit ses hommages tant à Sam qu’à Zal, puis il remonta sur son cheval rapide, semblable à la nouvelle lune qui brille tau-dessus d’une montagne.
 
@@ -87,7 +87,7 @@ Ils arrivèrent au palais doré dont l’intérieur était un gai printemps et S
 
 Il ne sut comment la louer, il ne sut comment jeter les yeux sur elle.
 
-Il ordonna à Mihrab d’approcher, et ils conclurent une alliance selon les règles et la loi.
+Il ordonna à Mihrab d’approcher et ils conclurent une alliance selon les règles et la loi.
 
 On lit asseoir les deux heureux sur le même trône ; on versa sur aux des rubis et des émeraudes.
 
@@ -97,7 +97,7 @@ Puis Mihrab montra la liste de tous les présents, la liste de tous les trésors
 
 Il la lut, toute longue qu’elle était : tu aurais dit que l’oreille ne suffisait pas pour l’écouter.
 
-Sam voyant cela, en resta étonné, et bénit ces dons au nom de Dieu.
+Sam voyant cela, en resta étonné et bénit ces dons au nom de Dieu.
 
 Puis ils se rendirent dans la salle du banquet et restèrent sept jours les coupes à la main.
 
@@ -124,11 +124,12 @@ Puis Sindokht resta dans le pays et Mihrab, avec son escorte, retourna à Kaboul
 Sam abandonna son
 1 Je traduis par litière à défaut d’autre mot, car le ’amari, ainsi que le haoudah, est un siège placé sur le dos d’un seul chameau ou d’un seul éléphant et non pas suspendu entre deux animaux, comme une litière.
 
-Les dictionnaires persans ne font aucune distinction entre ces deux mots, mais il paraît que dans l’Inde ’amari signifie un siège couvert d’un dais et haoudah, un siège couvert. 
- royaume à Zal et partit avec son armée sous des auspices favorables ; il déploya son drapeau fortuné contre les Kerguesars et contre les pays de l’occident, disant :
+Les dictionnaires persans ne font aucune distinction entre ces deux mots, mais il paraît que dans l’Inde ’amari signifie un siège couvert d’un dais et haoudah, un siège couvert. royaume à Zal et partit avec son armée sous des auspices favorables ; il déploya son drapeau fortuné contre les Kerguesars et contre les pays de l’occident, disant :
 
 > a J’y vais, car ce royaume est à moi ; mais le peuple ne m’est pas dévoué du cœur et des yeux.
 >
-> Minoutchehr m’a investi de ce pays, en disant ; Prends et jOuisl Mais je crains les entreprises de cette mauvaise race qui met son espoir dans les Divs du Mazenderan. Ô Zal !
+> Minoutchehr m’a investi de ce pays, en disant ; Prends et jOuisl Mais je crains les entreprises de cette mauvaise race qui met son espoir dans les Divs du Mazenderan.
 >
-> Je te donne ce trône et ce royaume et ce noble diadèmesn Sam, qui tuait d’un seul coup, partit et Zal s’assit sur le trône, ordonna avec son épouse fortunée des assemblées et des banquets ; et Boudabeh étant assise à côté de lui, il posa sur sa tête une couronne d’or.
+> Ô Zal !
+>
+> Je te donne ce trône et ce royaume et ce noble diadèmesn Sam, qui tuait d’un seul coup, partit et Zal s’assit sur le trône, ordonna avec son épouse fortunée des assemblées et des banquets ; et Roudabeh étant assise à côté de lui, il posa sur sa tête une couronne d’or.
