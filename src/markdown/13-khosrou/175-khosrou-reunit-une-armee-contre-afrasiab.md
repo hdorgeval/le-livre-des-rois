@@ -21,21 +21,24 @@ Le roi, ceint de la couronne, monta sur ce trône et un bruit s’éleva de la p
 
 Lorsque le roi, assis sur son éléphant, eut donné le signal de la guerre en jetant les boules dans la coupe et en s’armant pour le combat, il n’était plus permis à personne dans l’empire de demeurer autre part qu’à la cour du roi : tel était le commandement de l’illustre Khosrou, qui portait haut la tête.
 
-Il envoya des ordres sur toutes les frontières KEÎ KHOSROU. . 9 où il avait dirigé des armées pourvues de ses conseils et de ses instructions,à Lohrasp, Aschkesch prompt à frapper, qui tirait le crocodile du fond de la mer, puis à l’illustre Bustem, le Pehlewan bienaimé ; noble et toujours calme ; et il rappela à la cour tous . ceux qui étaient braves et avides de combats.
+Il envoya des ordres sur toutes les frontières . 9 où il avait dirigé des armées pourvues de ses conseils et de ses instructions,à Lohrasp, Aschkesch prompt à frapper, qui tirait le crocodile du fond de la mer, puis à l’illustre Rustem, le Pehlewan bienaimé ; noble et toujours calme ; et il rappela à la cour tous . ceux qui étaient braves et avides de combats.
 
-Ensuite il ouvrit ses trésors et paya la solde de l’armée ; il parla beaucoup des mânes de son père et distingua parmi la foule trois hommes à la parole facile, au cœur serein et prompts à frapper de l’épée : Rus- tem, le grand Pehlewan ; Gouderz le sagace, le vieux s loup ; enfin Thous, le Pehlewan aux bottines d’or, qui portait le drapeau de Kaweh.
+Ensuite il ouvrit ses trésors et paya la solde de l’armée ; il parla beaucoup des mânes de son père et distingua parmi la foule trois hommes à la parole facile, au cœur serein et prompts à frapper de l’épée : Rustem, le grand Pehlewan ; Gouderz le sagace, le vieux s loup ; enfin Thous, le Pehlewan aux bottines d’or, qui portait le drapeau de Kaweh.
 
-Le roi du monde leur dit : Hommes illustres, princes fortunés !
+Le roi du monde leur dit :
 
-Les dignités et les honneurs que je vous accorde dépassent tout ce qu’aucun homme a jamais rêvé. .
-
-Mettez-vous en route de trois côtés et préservez mon armée des coupsde l’ennemi.
-
-Je ne cesserai de combattre Afrasiab ni pendant le jour brillant ni pendant les heures du sommeil.
-
-J’ai appelé une armée de toutes les provinces et je mènerai à bonne fin cette guerre et cette vengeance.»
+> Hommes illustres, princes fortunés !
+>
+> Les dignités et les honneurs que je vous accorde dépassent tout ce qu’aucun homme a jamais rêvé. .
+>
+> Mettez-vous en route de trois côtés et préservez mon armée des coupsde l’ennemi.
+>
+> Je ne cesserai de combattre Afrasiab ni pendant le jour brillant ni pendant les heures du sommeil.
+>
+> J’ai appelé une armée de toutes les provinces et je mènerai à bonne fin cette guerre et cette vengeance.»
 
 Il choisit dans sa cour des envoyés éloquents, in. telligents et bons conseillers ; il fit écrire dans chaque province, à tous ceux qui avaient du renom et de l’indépendance, une lettre disant : Keï Khosrou, le victorieux, a donné le signal sur le dos de son éléphant et le monde est devenu semblable au Nil. à !
+
 Ne vous livrez donc ni au repos ni au sommeil, mais préparez-vous à la guerre contre Afrasiab.»
 
 Cette lettre ayant été lue par tous les princes qui commandaient dans l’empire, les braves du monde
@@ -43,9 +46,7 @@ Cette lettre ayant été lue par tous les princes qui commandaient dans l’empi
 
 Il choisit parmi ces troupes renommées trente mille cavaliers prompts à frapper de l’épée et plaça auprès de lui, au centre de l’armée,ces hommes qui avaient trempé les mains dans du sang pour se préparer au combat.
 
-Il assigna d’un côté une place à Thous, puis à Menouschan et Khouzan aux sages conseils, qui étaient rois dans le Kischwer de F ars et qu’accompagnaient des grands aux casques d’or ; l’un était roi du Khouzistan’ et dans les combats le compagnon de la fortune ; l’autre était roi de Kerman et il ne pensait, à l’heure de la bataille, ni aux conseils ni aux retards ; plus loin il plaça Arisch avide de combats et le roi de Gouran, le héros destructeur des armées ; Sabbah, le savant roi du Yémen ; Irodj au cœur de lion, au corps d’éléphant, le maître du monde, le victorieux et puissant roi du pays de Kaboul ; Schémmakh Souri, roi des Souricns, armé pour le com-
-
-KEÏ KHOSBOU. u bat ; plus loin, Guiweh, le guerrier toujours victorieux, le destructeur des armées, le roi du pays de Khawer, le maître du monde, le savant, le par.
+Il assigna d’un côté une place à Thous, puis à Menouschan et Khouzan aux sages conseils, qui étaient rois dans le Kischwer de F ars et qu’accompagnaient des grands aux casques d’or ; l’un était roi du Khouzistan’ et dans les combats le compagnon de la fortune ; l’autre était roi de Kerman et il ne pensait, à l’heure de la bataille, ni aux conseils ni aux retards ; plus loin il plaça Arisch avide de combats et le roi de Gouran, le héros destructeur des armées ; Sabbah, le savant roi du Yémen ; Irodj au cœur de lion, au corps d’éléphant, le maître du monde, le victorieux et puissant roi du pays de Kaboul ; Schémmakh Souri, roi des Souricns, armé pour le comu bat ; plus loin, Guiweh, le guerrier toujours victorieux, le destructeur des armées, le roi du pays de Khawer, le maître du monde, le savant, le par.
 
 Il plaça à sa gauche tous les descendants de Keîkobad, princes distingués par le savoir et la naissance et les mit sous le commandement de Dilafrouz.
 
@@ -73,9 +74,7 @@ Derrière les éléphants se tenaient des fantassins portant des lances longues 
 
 Derrière ces hommes qui portaient des lances se trouvait une ligne de braves couverts de boucliers et armés de flèches qui perçaient les cuirasses et derrière eux des cavaliers vaillants dont les carquois étaient remplis de flèches en bois de peuplier.
 
-Ensuite le roi forma un corps choisi de troupes de l’Occident munies de boucliers , de cuirasses et de casques de Roum ; c’étaient trente mille braves qui portaient haut la tête et qu’il confia à Feribourz, le valeureux cavalier et à Tokhar. roi
-
-KEÏ KHOSllOU.
+Ensuite le roi forma un corps choisi de troupes de l’Occident munies de boucliers, de cuirasses et de casques de Roum ; c’étaient trente mille braves qui portaient haut la tête et qu’il confia à Feribourz, le valeureux cavalier et à Tokhar. roi
 
 I3 du Dehistan, qui méprisait ses ennemis ; Tokhar était issu de la race de l’illustre Deschmeh, famille alors très-puissante.
 
@@ -95,7 +94,9 @@ Le roi les plaça à côté de Minoutcher et nomma le chef de cette fa mille ord
 
 Ensuite s’avancèrent les grands du mont Kaf : ils marchaient fièrement, armés de lances et d’épées ; c’était une troupe de la souche de Feridoun. et de Djemschid, dent le cœur se gonflait de sang quand ils pensaient à la race de
 
-Ll : Zadschem. ll choisit trente mille grands de race royale qui frappaient de l’épée et confia cette armée à Guiv, fils de Gouderz, ce qui remplit de joie toute cette frontière.
+Ll : Zadschem.
+
+Il choisit trente mille grands de race royale qui frappaient de l’épée et confia cette armée à Guiv, fils de Gouderz, ce qui remplit de joie toute cette frontière.
 
 Derrière Guiv se trouvait Yaweh, fils de Semkenan et les princes et les grands arrivèrent . accompagnés de héros pleins de prudence et de courage et se rangèrent derrière le.Sipehdar Guiv pour le soutenir.
 
@@ -107,7 +108,7 @@ Il envoya à l’aile gauche trente mille cavaliers choisis et propres au combat
 
 Ensuite le roi choisit dix mille braves, tous hommes illustres, tous armés de lances, commandés par Karen, le vaillant chef de ce corps renommé, en ordonnant à ce héros. qui lançait son cheval et désirait le combat, d’occuper l’intervalle entre les deux armées.
 
-Puis, il donna à Gustehem fils de Guejdehem l’ordre d’accompagner le vaillant Karen et au fils de Thous de se rendre partout avec des trompettes et des timbales ; d’empêcher les méchants et tous ceux qui n’ado- i raient pas Dieu, de commettre des injustices ; de veiller à ce que personne ne manquât de vivres et à ce que nul ne fût opprimé ; de demander au roi tout ce dont on aurait besoin et d’être en toutes choses auprès de lui l’interprète de l’armée.
+Puis, il donna à Gustehem fils de Guejdehem l’ordre d’accompagner le vaillant Karen et au fils de Thous de se rendre partout avec des trompettes et des timbales ; d’empêcher les méchants et tous ceux qui n’adoi raient pas Dieu, de commettre des injustices ; de veiller à ce que personne ne manquât de vivres et à ce que nul ne fût opprimé ; de demander au roi tout ce dont on aurait besoin et d’être en toutes choses auprès de lui l’interprète de l’armée.
 
 Le monde était couvert de chariots et du bétail que le fils de Thousamenait pour servir de nourriture à l’armée.
 
