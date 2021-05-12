@@ -32,7 +32,7 @@ Quelques hommes qui se trouvaient sur le seuil de son palais voulurent lui barre
 >
 > La nuit est sombre, l’éléphant a brisé sa chaîne et toi tu sors ; qui peut approuver cela?»
 
-Rustem s’irrita contre celui qui avait parlé, et lui asséna un coup de poing entre la tête et la nuque, qui fit de sa tête comme une balle à jouer ; puis il se tourna vers les autres, qui reculèrent devant le Pehlewan.
+Rustem s’irrita contre celui qui avait parlé et lui asséna un coup de poing entre la tête et la nuque, qui fit de sa tête comme une balle à jouer ; puis il se tourna vers les autres, qui reculèrent devant le Pehlewan.
 
 Il alla bravement vers la porte, la frappa de sa massue et en brisa les barres et les verrous, comme il était digne d’un héros tel que lui.
 
@@ -78,8 +78,7 @@ Ll fit venir Rustem devant lui, lui baisa les mains, les bras et la tête et lui
 >
 > À la fin les assiégés lancèrent une pierre et privèrent le monde du Pehlewan ; et l’ar-
 >
-> 
-mée ayant perdu son chef, retourna vers le roi qui portait haut la tête.
+> mée ayant perdu son chef, retourna vers le roi qui portait haut la tête.
 >
 > Lorsque Sam le brave reçut la nouvelle que le lion de la guerre avait cessé de combattre, il poussa des cris, il montra une grande douleur et ses lamentations redoublaient à chaque instant.
 >
@@ -100,7 +99,7 @@ mée ayant perdu son chef, retourna vers le roi qui portait haut la tête.
 
 Rustem répondit :
 
-> J’obe’irai, et je guérirai bientôt cette douleur.»
+> J’obe’irai et je guérirai bientôt cette douleur.»
 
 Zal lui dit :
 
