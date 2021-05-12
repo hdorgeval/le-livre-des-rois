@@ -33,8 +33,7 @@ racheter ma vie par une alliance, car je ne voyais aucun autre moyen de salut.
 >
 > J’enverrai au roi un présent d’or digne de moi et j’y ajouterai toutes sortes de choses précieuses dignes de lui.
 >
-> Si alors il m’ordonne d’aller auprès de lui, je ne me tiendrai devant nul autre trône que le sien, je lui livrerai tout ce royaume et mon cœur en aura de la joie ; je ne donnerai pas de peine à ses braves ; je lui enverrai les trésors de toute espèce que j’ai amas-
- : 8.»
+> Si alors il m’ordonne d’aller auprès de lui, je ne me tiendrai devant nul autre trône que le sien, je lui livrerai tout ce royaume et mon cœur en aura de la joie ; je ne donnerai pas de peine à ses braves ; je lui enverrai les trésors de toute espèce que j’ai amas- : 8.»
 
 Mihrab enchaîna ainsi d’un côté le cœur du Pehlewan, de l’autre il tendit la main vers un secours.
 
