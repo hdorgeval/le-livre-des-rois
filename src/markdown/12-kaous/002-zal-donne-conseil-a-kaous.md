@@ -18,7 +18,7 @@ Zal marchait donc le premier, suivi des grands à la ceinture d’or ; et lorsqu
 >
 > Puisse ta vie entière être heureuse et victorieuse !
 >
-> Que ton cœur soit plein de sagesse, que ta tête soit pleine de justice!»
+> Que ton cœur soit plein de sagesse, que ta tête soit pleine de justice !
 
 Le roi illustre le reçut gracieusement, le fit asseoir à côté de lui sur le trône et s’informa des fatigues de sa longue route, des héros et de Rustem qui portait haut la tête.
 
@@ -26,7 +26,7 @@ Zal lui répondit :
 
 > Ô roi victorieux, puisses-tu vivre heureux !
 >
-> Nous sommes tous dans le bonheur et dans la joie par l’effet de ta fortune ; nous portons haut la tête par la faveur de ton trône.»
+> Nous sommes tous dans le bonheur et dans la joie par l’effet de ta fortune ; nous portons haut la tête par la faveur de ton trône.
 
 Puis, il commença à lui parler et ouvrit ainsi la porte des discours respectueux :
 
@@ -52,7 +52,7 @@ Puis, il commença à lui parler et ouvrit ainsi la porte des discours respectue
 >
 > Quoique tous ces grands te soient inférieurs, ils sont les serviteurs de Dieu comme toi.
 >
-> Ne fais pas sortir, pour ton agrandissement, du sang des grands un arbre dont le fruit et la croissance seront une malédiction et qui sera une déviation des voies des anciens rois.»
+> Ne fais pas sortir, pour ton agrandissement, du sang des grands un arbre dont le fruit et la croissance seront une malédiction et qui sera une déviation des voies des anciens rois.
 
 Kaous répondit :
 
@@ -66,7 +66,7 @@ Kaous répondit :
 >
 > Mais il faut maintenant que tu sois le maître du monde avec Rustem ; que tu sois le gardien infatigable de l’Iran.
 >
-> Le Créateur est mon protecteur et la tête des Divs courageux est ma proie ; et puisque tu ne veux pas être mon soutien dans le combat, du moins ne me dis pas de rester oisivement sur le trône.»
+> Le Créateur est mon protecteur et la tête des Divs courageux est ma proie ; et puisque tu ne veux pas être mon soutien dans le combat, du moins ne me dis pas de rester oisivement sur le trône.
 
 Quand Zal eut entendu ces paroles, il ne vit plus le commencement ni la fin de tout cela.
 
@@ -84,7 +84,7 @@ Il répondit :
 >
 > Puisses-tu ne pas avoir à te rappeler mes conseils ni à te repentir de ton entreprise !
 >
-> Puissent ton cœur, ta foi et ta loi briller toujours!»
+> Puissent ton cœur, ta foi et ta loi briller toujours !
 
 Aussitôt Zal prit congé du roi, le cœur plein de trouble et de soucis sur cette expédition.
 
@@ -100,6 +100,6 @@ Les grands pleins de bravoure, tels que Thous et Gouderz, Bahram et Guiv, sortir
 >
 > Partout où nous irons, partout où nous serons, nous n’entendrons dire de toi que des bénédictions.
 >
-> Après Dieu le créateur du monde, c’est toi en qui le pays d’Iran place sa confiance ; toi qui as supporté tant de peines pour l’amour des braves, qui as fait une route si pénible pour les servir.»
+> Après Dieu le créateur du monde, c’est toi en qui le pays d’Iran place sa confiance ; toi qui as supporté tant de peines pour l’amour des braves, qui as fait une route si pénible pour les servir.
 
 Tous pressèrent dans leurs bras Zal, qui partait pour le Seïstan.
