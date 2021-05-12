@@ -19,14 +19,18 @@ I. 2 : !
 Un Mobed dit à Zal à l’esprit vif, prompt et sage :
 
 > J’ai vu douze arbres élevés, qui ont poussé vigoureusement et sont d’une belle venue.
+>
+> Chacun d’eux pousse trente rameaux et jamais ils n’augmentent ni ne diminuent dans le pays de Perse.»
 
-Chacun d’eux pousse trente rameaux et jamais ils n’augmentent ni ne diminuent dans le pays de Perse. n Le second Mobed lui dit :
+Le second Mobed lui dit :
 
 > Ô toi qui portes haut la tête !
+>
+> Il y a deux nobles chevaux, rapides à la course : l’un d’eux est noir comme une mer de poix, l’autre est brillant comme le cristal blanc.
+>
+> Ils courent tous deux et se hâtent, mais sans pouvoir jamais s’atteindre.»
 
-Il y a deux nobles chevaux, rapides à la course : l’un d’eux est noir comme une mer de poix, l’autre est brillant comme le cristal blanc.
-
-Ils courent tous deux et se hâtent, mais sans pouvoir jamais s’atteindre. n Le troisième lui dit :
+Le troisième lui dit :
 
 > Voilà trente cavaliers, qui passent devant le roi : si tu regardes avec attention. tu en trouveras un de moins ; si tu comptes de nouveau, tu en trouveras trente.»
 
@@ -55,6 +59,6 @@ Un sixième lui dit :
 >
 > Tout à coup vient un tremblement de terre qui fait disparaître le pays entier, leur fait sentir le besoin de la ville et fait naître en eux des pensées durables.
 >
-> Cherche bien en toi-même le sens de ces paroles, et fais-le connaître devant les grands.
+> Cherche bien en toi-même le sens de ces paroles et fais-le connaître devant les grands.
 >
 > Si tu devines le mot de ces énigmes, tu auras converti la terre noire en musc pur.»
