@@ -20,8 +20,9 @@ Mihrab s’arrêta devant Roudabeh, étonné de sa beauté et appela sur elle la
 
 Il vit devant lui un cyprès surmonté d’une lune, portant sur sa tête un diadème d’ambre, paré de brocarts et de joyaux et beau comme un paradis.
 
-Sindolrht ouvrant ses lèvres et montrant ses I
- l dents de perles, demanda à Mihrab : Comment te portes-tu aujourd’hui ?
+Sindolrht ouvrant ses lèvres et montrant ses I !
+
+Dents de perles, demanda à Mihrab : Comment te portes-tu aujourd’hui ?
 
 Puisse la main du malheur être impuissante contre toi !
 
@@ -51,21 +52,21 @@ Mihrab lui répondit :
 >
 > La blancheur de ses cheveux lui sied, on dirait qu’elle ensorcelle les cœurs.»
 
-Boudabeh entendit ces paroles, ses yeux brillèrent, sa figure devint rouge comme la fleur du grenadier, son cœur se remplit de feu par amour pour Zal, elle n’avait plus ni faim, ni repos, ni pa-
+Roudabeh entendit ces paroles, ses yeux brillèrent, sa figure devint rouge comme la fleur du grenadier, son cœur se remplit de feu par amour pour Zal, elle n’avait plus ni faim, ni repos, ni pa-
 
 Tience ; et la passion ayant pris la place de la raison, elle changea entièrement ses manières et sa conduite.
 
 Quelle bonne parole que celle du sage : Ne parle pas d’hommes devant les femmes, car le cœur de la femme est la demeure du Div et ces discours font naître en elle des ruses.»
 
-Boudabeh avait cinq esclaves turques qui la servaient et qui l’aimaient.
+Roudabeh avait cinq esclaves turques qui la servaient et qui l’aimaient.
 
 Elle dit à ces esclaves intelligentes :
 
 > Je vais vous dévoiler ce qui est caché ; vous toutes êtes les confidentes de mes secrets, vous me servez et vous me consolez dans mes soucis.
 >
-> Sachez donc toutes les cinq et faites attention (puisse le. bonheur accom- pagner toutes vos années l), sachez que je suis folle d’amour comme la mer en fureur qui jette ses vagues vers le ciel.
+> Sachez donc toutes les cinq et faites attention (puisse le. bonheur accompagner toutes vos années l), sachez que je suis folle d’amour comme la mer en fureur qui jette ses vagues vers le ciel.
 >
-> Mon cœur est rempli d’amour pour Zal , w et dans le sommeil même je ne peux cesser de penser à lui.
+> Mon cœur est rempli d’amour pour Zal, w et dans le sommeil même je ne peux cesser de penser à lui.
 >
 > Mon cœur, mon âme et mon esprit sont remplis d’amour pour lui, jour et nuit je ne pense qu’à son visage.
 >
@@ -75,7 +76,7 @@ Elle dit à ces esclaves intelligentes :
 
 Les esclaves furent consternées de ce qu’une mau-vaise action pouvait venir de la fille des rois.
 
-Toutes se hâtèrent de lui répondre en sautant comme des Ahrimans : Ô toi, la couronne des maîtresses du monde et des fières filles des grands, toi qui es célé- brée depuis l’Hindoustan jusqu’à la Chine, qui brilles au milieu de l’appartement des femmes comme une bague précieuse ; toi dont aucun cyprès du jardin n’égale la taille, dont les joues éclipsent l’éclat des Pléiades, dont on envoie le portrait à Kanoudj et à Maï et jusqu’au roi de l’Occident : tu n’as donc au- cane pudeur dans tes yeux, aucun respect pour ton père ?
+Toutes se hâtèrent de lui répondre en sautant comme des Ahrimans : Ô toi, la couronne des maîtresses du monde et des fières filles des grands, toi qui es célébrée depuis l’Hindoustan jusqu’à la Chine, qui brilles au milieu de l’appartement des femmes comme une bague précieuse ; toi dont aucun cyprès du jardin n’égale la taille, dont les joues éclipsent l’éclat des Pléiades, dont on envoie le portrait à Kanoudj et à Maï et jusqu’au roi de l’Occident : tu n’as donc au-cane pudeur dans tes yeux, aucun respect pour ton père ?
 
 Tu veux presser contre ton sein celui que ton père a rejeté de ses bras, lui qui. fut élevé sur la montagne par un oiseau, qui est marqué d’un sceau de réprobation parmi tous les hommes !
 
@@ -85,10 +86,10 @@ On s’étonnera de te voir, avec deux lèvres de corail et des cheveux de musc,
 
 Tous les hommes sont pleins d’amour pour toi et l’image de tes traits se trouve dans tous les palais.
 
-Avec ce visage, cette taille et ces cheveux, le soleil devraitdescendre du quatrième ciel pour devenir ton époux : n Boudabeh entendit ces paroles et son cœur s’en irrita comme le feu s’irrite par le vent ; elle poussa un cri de colère contre ses esclaves, sa figure brilla, ses yeux se troublèrent.
+Avec ce visage, cette taille et ces cheveux, le soleil devraitdescendre du quatrième ciel pour devenir ton époux : n Roudabeh entendit ces paroles et son cœur s’en irrita comme le feu s’irrite par le vent ; elle poussa un cri de colère contre ses esclaves, sa figure brilla, ses yeux se troublèrent.
 
 Les yeux et le visage enflammés de fureur, les sourcils froncés par la colère, elle dit : Votre résistance est vaine ; vos paroles ne valent pas
-- la peine d’être écoutées.
+-la peine d’être écoutées.
 
 Mon cœur s’estégaré sur une étoile ; comment pourrait-il se plaire avec la lune ?
 
@@ -122,6 +123,6 @@ Quand il faudrait apprendre la magie et aveugler le monde par nos sorcelleries e
 
 MINOUTCHEI-IR. faire magiciennes, à courir comme des biches pour venir à ton aide, dans l’espoir d’amener le roi auprès de notre lune et de le faire venir auprès de toi pour servir d’escabeau à tes pieds.»
 
-Boudabeh sourit avec ses lèvres de rubis, et, penchant ses joues de safran vers l’esclave, la belle lui dit :
+Roudabeh sourit avec ses lèvres de rubis, et, penchant ses joues de safran vers l’esclave, la belle lui dit :
 
 > Si tu fais réussir cette ruse, tu auras planté un arbre puissant, qui portera son fruit ; il portera tous les jours des rubis et l’intelligence saura les recueillir dans son sein.»
