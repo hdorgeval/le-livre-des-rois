@@ -81,7 +81,7 @@ Il poussa un cri et donna le signal à Schiroui et à ses braves.
 
 Schiroui voyant l’étendard royal, s’avança vers le Pehlewan ; il s’empara de la porte de la forteresse et entra ; il plaça sur la tête des chefs une couronne de sang.
 
-D’un côté était Karen, de l’autre le lion, aludessus le feu de l’épée et au-dessous la mer.
+D’un côté était Karen, de l’autre le lion, au-dessus le feu de l’épée et au-dessous la mer.
 
 Lorsque le soleil arriva au faîte de la voûte du ciel, il n’y avait plus de trace de forteresse ni de gardien.
 
