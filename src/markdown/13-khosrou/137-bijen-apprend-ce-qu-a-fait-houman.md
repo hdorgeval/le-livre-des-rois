@@ -10,7 +10,7 @@ order: '137'
 
 # Bijen apprend ce qu'a fait Houman
 
-Bijen apprit. que Houman s’était présenté comme un lion devant son grand-père ; qu’il avait traversé les rangs de l’armée de l’aile gauche à l’aile droite, provoquant les braves, mais qu’aucun d’eux n’avait accepté le combat ; qu’il leur avait tourné le des en colère et avec mépris, qu’il avait frappé quatre cavaliers et les avait fait rouler honteusement dans la poussière.
+Bijen apprit. que Houman s’était présenté comme un lion devant son grand-père ; qu’il avait traversé les rangs de l’armée de l’aile gauche à l’aile droite, provoquant les braves, mais qu’aucun d’eux n’avait accepté le combat ; qu’il leur avait tourné le dos en colère et avec mépris, qu’il avait frappé quatre cavaliers et les avait fait rouler honteusement dans la poussière.
 
 Bijen entra en fureur comme un léopard ; ses mains étaient impatientes de frapper Houman ; il fit seller le destrier, semblable à un éléphant, qu’il montait les jours de bataille, revêtit sa cette de mailles de combat faite dans le pays de Roum, serra la sangle de son cheval noir, se rendit plein de colère auprès de Guiv et lui parla de son grand-père.
 
@@ -18,9 +18,9 @@ Il dit à Guiv :
 
 > Ô mon père, ne te l’avais-je pas dit de point en point ?
 
-Ne t’avais-je pas dit que l’intelligcure (le Gouderz s’en allait ?
+Ne t’avais-je pas dit que l’intelligcure de Gouderz s’en allait ?
 
-Ne vois-tu pas à KEÏ KHOSBOU. sa manière d’agir qu’il n’est plus le même ?
+Ne vois-tu pas à sa manière d’agir qu’il n’est plus le même ?
 
 Son âme est remplie de crainte ; son cœur est gonflé de sang par les soucis et la douleur que lui a causés la mort d’un si grand nombre de ses fils, dont les têtes furent tranchées quand son armée entière fut détruite.
 
@@ -52,11 +52,9 @@ Dis-moi pourquoi, dans cette guerre, le repos règne jour et nuit ; pourquoi le 
 
 Dis-le-moi, afin que je m’élance au combat, afin que je me ceigne pour la bataille.
 
-Ce qui m’étonne encore plus, c’est qu’un Turc seul, un homme égaré et voué à la destruction, soit sorti des rangs de son armée ; que Dieu le dispensateur de tout bien, voulant la perte de ce méchant, l’ait amené ici de l’armée du Touran pour le faire périr. de ta main et que tu laisses échapper le loup pris
+Ce qui m’étonne encore plus, c’est qu’un Turc seul, un homme égaré et voué à la destruction, soit sorti des rangs de son armée ; que Dieu le dispensateur de tout bien, voulant la perte de ce méchant, l’ait amené ici de l’armée du Touran pour le faire périr. de ta main et que tu laisses échapper le loup pris !
 
-KEÏ KHOSROU. !
-
-Dans le piége.
+Dans le piège.
 
 Je ne sais quelle a pu être ton intention.
 
@@ -66,22 +64,26 @@ N’espère pas que jamais il commence la bataille et qu’il amène son armée 
 
 Me voici, j’ai lavé ma main dans le sang, je me suis ceint pour combattre Houman ; et si le Pehlewan me le permet, je l’attaquerai comme un lion furieux.
 
-Que le Sipehbed ordonne maintenant à Guiv de me donner l’armure du vaillant Siawusch, son casque et sa cotte de mailles de Roum et de défaire les boutons qui les tiennent ensembles) : A ces paroles Gouderz reconnut combien Bijen avait de cœur et de sens ; dans sa joie il le couvrit de bénédictions, disant : Puisse la fortune ne jamais t’abandonnerl Depuis que tu as commencé à t’asseoir sur cette selle de peau de léopard, les crocodiles ont laissé reposer leur queue et les lions leurs grilles.
+Que le Sipehbed ordonne maintenant à Guiv de me donner l’armure du vaillant Siawusch, son casque et sa cotte de mailles de Roum et de défaire les boutons qui les tiennent ensembles) : À ces paroles Gouderz reconnut combien Bijen avait de cœur et de sens ; dans sa joie il le couvrit de bénédictions, disant :
 
-Tu te jettes bravement dans tpus les combats, tu es victorieux comme un lion dans chaque bataille.
+> Puisse la fortune ne jamais t’abandonnerl Depuis que tu as commencé à t’asseoir sur cette selle de peau de léopard, les crocodiles ont laissé reposer leur queue et les lions leurs griffes.
+>
+> Tu te jettes bravement dans tpus les combats, tu es victorieux comme un lion dans chaque bataille.
+>
+> Mais avant de défier Houman, réfléchis si tu pourras lui résister sur le champ de bataille ; car c’est un homme méchant et maudit et un Ahriman dans le combat.
+>
+> Tu es jeune et le ciel n’a pas encore tourné longtemps au-dessus de toi ; est-ce que tu n’aimes donc pas la vie ?
+>
+> Reste ici, pour que j’envoie un lion expérimenté attaquer Houman, lancer sur lui une pluie de traits comme un nuage qui verse de la grêle et lui clouer son casque d’acier’sur la tête.»
 
-Mais avant de défier Houman, réfléchis si tu pourras lui résister sur le champ de bataille ; car c’est un homme méchant et maudit, et un Ahriman dans le combat.
-
-Tu es jeune et le ciel n’a pas encore tourné longtemps au-dessus de toi ; est-ce que tu n’aimes donc pas la vie ?
-
-Reste ici, pour que j’envoie un lion expérimenté attaquer Houman, lancer sur lui une pluie de traits comme un nuage qui verse de la grêle et lui clouer son casque d’acier’sur la tête.n Bijen répondit :
+Bijen répondit :
 
 > 0
 > Pehlewan, un jeune homme qui a du cœur doit le montrer.
 >
 > Si tu ne m’avais pas vu dans le combat que nous avons soutenu contre Firoud, il faudrait aujourd’hui me mettre à l’épreuve ; mais j’ai enroulé devant moi la surface de la terre dans le combat de Peschen et personne n’a vu mon dos au jour de la bataille.
 >
-> La vie n’a pas de valeur pour moi si je suis moins brave qu’un autre ; et si tu me refuses, si tu me défends de me mesurer avec Houman, je me plaindrai du Pehlewan devant le roi, et ne toucherai plus dorénavant ni ceinture ni casque.»
+> La vie n’a pas de valeur pour moi si je suis moins brave qu’un autre ; et si tu me refuses, si tu me défends de me mesurer avec Houman, je me plaindrai du Pehlewan devant le roi et ne toucherai plus dorénavant ni ceinture ni casque.»
 
 I Gouderz sourit ; il était content de ce jeune homme. qui ressemblait à un .noble cyprès ; il lui dit :
 
@@ -95,14 +97,12 @@ Maintenant je te permets de combattre contre Houman, dans l’espoir que ta bonn
 
 Au nom de Dieu notre Seigneur le maître du monde, au nom des victoires du roi de ces braves, l’ais un effort pour que ta main anéantisse cet Ahriman, selon l’ordre de Dieu.
 
-Je vais ordonner à Guiv de le remettre la cotte de mailles que tu de-
-
-KEÏ KHOSBOU. mandes ; et si tu remportes la victoire, les plus grands honneurs t’attendent auprès (le moi ; je le placerai au-dessus de Guiv et de Ferhad, je te don- nerai plus de trésors et de troupes, un trône et un diadème plus beau qu’à aux : Ainsi parla le grandpère ; et son petit-fils plein de ruse et de sagacité descendit de cheval, baisa la terre et bénit son grandpère. .
+Je vais ordonner à Guiv de le remettre la cotte de mailles que tu demandes ; et si tu remportes la victoire, les plus grands honneurs t’attendent auprès de moi ; je le placerai au-dessus de Guiv et de Ferhad, je te donnerai plus de trésors et de troupes, un trône et un diadème plus beau qu’à aux : Ainsi parla le grand-père ; et son petit-fils plein de ruse et de sagacité descendit de cheval, baisa la terre et bénit son grandpère. .
 Le Pehlewan fit venir Guiv et lui parla du jeune homme et de la cette de mailles royale qu’il demandait à porter dans le combat.
 
 Guiv répondit à son père :
 
-> Ô Pehlewan du monde, cet enfant est l’orgueil de mon âme ; il est pour moi le monde entier, et sa vie n’est pas de si peu de valeur à mes yeux.
+> Ô Pehlewan du monde, cet enfant est l’orgueil de mon âme ; il est pour moi le monde entier et sa vie n’est pas de si peu de valeur à mes yeux.
 >
 > Je ne veux pas le perdre de vue et l’envoyer dans la gueule du dragon.»
 
@@ -110,13 +110,15 @@ Gouderz lui dit :
 
 > Ô mon fils chéri, ne t’abandonue pas à la douleur ; car quoique Bijen soit jeune et sans expérience, il se laisse guider en toute. chose par la raison.
 >
-> Ensuite c’est ici le lieu où il faut combaltrc, c’est le moment d’inonder de sang la surface de la terre ; et quand il s’agit de venger Siawusch et d’obéir au roi, on . ne doit pas l’aire attention à la parenté ; quand même il tomberait des nues une pluie de massues et d’épées, nous ne devrions pas être avares de nos vies. (le serait une honte d’amorlir l’ardeur de Bijen pour le combat et de l’empêcher d’acquérir du renom et de la gloire ; car un jeune homme qui prend l’habitude de la lâcheté aura toujours l’âme basse et l’esprit. troublé.»
+> Ensuite c’est ici le lieu où il faut combaltrc, c’est le moment d’inonder de sang la surface de la terre ; et quand il s’agit de venger Siawusch et d’obéir au roi, on . ne doit pas l’aire attention à la parenté ; quand même il tomberait des nues une pluie de massues et d’épées, nous ne devrions pas être avares de nos vies. de serait une honte d’amorlir l’ardeur de Bijen pour le combat et de l’empêcher d’acquérir du renom et de la gloire ; car un jeune homme qui prend l’habitude de la lâcheté aura toujours l’âme basse et l’esprit. troublé.»
 
 Guiv voyant, à cette réponse, qu’il n’y avait aucun moyen de fléchir Gouderz, essaya de nouveau l’influence de ses conseils sur son fils, dans l’espoir de le détourner du combat ; mais son fils lui répondit :
 
 > Tu couvriras mon nom de honte.»
 
-Alors Guiv dit à Gouderz z Ô Pehlewan du monde, dans un moment où le combat met la vie en danger, il n’y a plus ni fils, ni trésors, ni troupes, ni attachement au chef, ni ordre du roi qui comptent.
+Alors Guiv dit à Gouderz :
+
+> Ô Pehlewan du monde, dans un moment où le combat met la vie en danger, il n’y a plus ni fils, ni trésors, ni troupes, ni attachement au chef, ni ordre du roi qui comptent.
 
 Je suis àla veille d’une périlleuse journée ; pourquoi livreraisje ma vie ?
 
