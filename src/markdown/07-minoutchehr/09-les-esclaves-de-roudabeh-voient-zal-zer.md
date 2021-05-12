@@ -18,7 +18,7 @@ Toutes les cinq se renvdirent sur le bord de la rivière, embelliesde couleurs e
 
 C’était le mois de F erwerdin et le commencement de l’année.
 
-Le camp de Zal était posé sur le bord de la rivière, et les jeunes filles se trouvèrent sur l’autre rive conversant entre elles sur le Destan.
+Le camp de Zal était posé sur le bord de la rivière et les jeunes filles se trouvèrent sur l’autre rive conversant entre elles sur le Destan.
 
 Elles cueillirent des roses sur la rive et elles en remplirent leur sein ; leurs joues étaient comme un jardin de roses.
 
@@ -48,7 +48,7 @@ Zal ordonna alors à l’esclave de passer à l’autre rive et d’aller lui ch
 
 L’esclave traversa la rivière sur une barque et s’approcha des jeunes filles.
 
-Une d’elles s’adressa au page au visage de lune et lui fit des questions sur le Pehlewan avide de gloire : Ce brave au bras de lion, au corps d’éléphant, qui est-il et de quel peuple est-il roi?
+Une d’elles s’adressa au page au visage de lune et lui fit des questions sur le Pehlewan avide de gloire : Ce brave au bras de lion, au corps d’éléphant, qui est-il et de quel peuple est-il roi ?
 
 Que peut peser un ennemi devant un homme qui a lancé de cette façon une flèche de son arc ?
 
@@ -66,7 +66,7 @@ La jeune fille sourit à ces paroles du page au visage de lune et lui répondit 
 >
 > De taille, c’est un platane ; de couleur, c’est de l’ivoire. et elle porte sur la tête une couronne de musc que Dieu lui a donnée ; ses deux yeux sont sombres ; ses sourcils sont des arcs ; son nez est une colonne mince comme un roseau argenté ; sa bouche est étroite comme le cœur d’un homme triste et les boucles de ses cheveux sont comme des anneaux pour les pieds ; ses deux yeux sont pleins de langueur, ses traits pleins d’éclat ; ses joues couvertes de tulipes ; ses cheveux sont comme du musc, le souffle de la vie ne trouve de chemin que par ses lèvres ; il n’y a pas dans le monde une lune comparable à elle.
 >
-> Nous sommes venues de Kaboul ; nous sommes venues auprès du roi de Zaboulistan, dans le dessein de réunir ces lèvres de rubis aux lèvres du fils de Sam ; ce serait une chose convenable et à souhaiter, que Boudabeh devînt la compagne de Zal.»
+> Nous sommes venues de Kaboul ; nous sommes venues auprès du roi de Zaboulistan, dans le dessein de réunir ces lèvres de rubis aux lèvres du fils de Sam ; ce serait une chose convenable et à souhaiter, que Roudabeh devînt la compagne de Zal.»
 
 Quand le page au beau visage eut entendu ces paroles des esclaves, ses joues devinrent couleur de rubis et il leur répondit :
 
@@ -92,13 +92,13 @@ Ll choisit dans son trésor de l’argent et de l’or, des joyaux et cinq pièc
 
 Les esclaves allèrent auprès des cinq jeunes filles au visage de
 
-. 2M lune, porteurs de paroles pleines de chaleur, et chargés de pièces d’or et de trésors.
+. 2M lune, porteurs de paroles pleines de chaleur et chargés de pièces d’or et de trésors.
 
-Ils leur remirent l’or et les joyaux au nom de Zal le Pehlewan, et une des esclaves dit au messager au visage de lune : Une parole ne restera jamais secrète si elle ne demeure pas entre deux personnes ; entre trois, il n’y a déjà plus de secret et quatre, c’est une multitude.
+Ils leur remirent l’or et les joyaux au nom de Zal le Pehlewan et une des esclaves dit au messager au visage de lune : Une parole ne restera jamais secrète si elle ne demeure pas entre deux personnes ; entre trois, il n’y a déjà plus de secret et quatre, c’est une multitude.
 
 O homme de sens et de bonnes intentions, dis à ton maître qu’il se confie à moi s’il a un secret à dire.»
 
-Les jeunes filles se dirent entre elles : Le lion est entré dans le filet ; les vœux de Boudabeh et ceux de Zal s’accomplissent ; un sort heureux nous a guidés.»
+Les jeunes filles se dirent entre elles : Le lion est entré dans le filet ; les vœux de Roudabeh et ceux de Zal s’accomplissent ; un sort heureux nous a guidés.»
 
 Le trésorier aux yeux noirs qui, en cette affaire, était le confident de son maître, revint auprès du roi et lui rapporta en secret toutes les paroles qu’il avait entendues de ces enchanteresses.
 
@@ -115,7 +115,7 @@ Devant le roi.
 
 Une d’entre elles, plus jeune d’années, mais pleine d’éloquence et de cœur, répondit à Zal :
 
-> Jamais mère, parmi les grands, ne mettra au monde un enfant ayant la mine et la taille de Zal, sa pureté de cœur, sa sagesse et sa prudence ; mais s’il y avait un autre homme, ô vaillant cavalier, qui eût ta stature et ton bras de lion, Boudabeh au beau visage serait votre égale à tous deux ; c’est un cyprès argenté rempli de couleurs et de parfums, une rose et un jasmin de la tête aux pieds, c’est l’étoile du Iemen au-dessus d’un cyprès ; tu dirais que ses traits versent du vin et que toute sa chevelure est d’ambre.
+> Jamais mère, parmi les grands, ne mettra au monde un enfant ayant la mine et la taille de Zal, sa pureté de cœur, sa sagesse et sa prudence ; mais s’il y avait un autre homme, ô vaillant cavalier, qui eût ta stature et ton bras de lion, Roudabeh au beau visage serait votre égale à tous deux ; c’est un cyprès argenté rempli de couleurs et de parfums, une rose et un jasmin de la tête aux pieds, c’est l’étoile du Iemen au-dessus d’un cyprès ; tu dirais que ses traits versent du vin et que toute sa chevelure est d’ambre.
 >
 > Du dôme argenté de sa tête tombent jusqu’à terre par dessus les roses de ses joues les lacets de l’embuscade ; sa tête est tissue de musc et d’ambre ; son corps est pétri de rubis et de joyaux ; les boucles et les tresses de ses cheveux sont comme une cette de mailles de musc ; tu dirais qu’elles tombent anneau sur anneau : on ne, voit pas, à la Chine, une idole semblable à elle ; la lune et les Pléiades lui rendent hommage.»
 
@@ -126,9 +126,9 @@ moyen il y a de trouver un chemin vers elle, car mon âme et mon cœur sont remp
 
 L’esclave lui répondit :
 
-> Si tu le permets, nous allons r retourner au palais du cyprès, où nous mettrons en œuvre nos ruses, où nous ferons nos récits sur l’in- telligence du Pehlewan, sur son aspect, sur sa mine, sur son langage et sur son âme brillante : nous ne cachons aucun mauvais dessein.
+> Si tu le permets, nous allons r retourner au palais du cyprès, où nous mettrons en œuvre nos ruses, où nous ferons nos récits sur l’intelligence du Pehlewan, sur son aspect, sur sa mine, sur son langage et sur son âme brillante : nous ne cachons aucun mauvais dessein.
 >
-> Nous amè- nerons la tête musquée de Roudabeh dans les filets, et sa bouche sous la bouche du fils de Sam.
+> Nous amè-nerons la tête musquée de Roudabeh dans les filets et sa bouche sous la bouche du fils de Sam.
 >
 > Si le héros veut se rendre, avec un lacet, devant le palais et son toit élevé et jeter un nœud autour d’un des créneaux, le lion se réjouira de sa chasse à la brebis.
 >
