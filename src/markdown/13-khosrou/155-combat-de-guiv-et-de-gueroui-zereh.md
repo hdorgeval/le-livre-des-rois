@@ -20,4 +20,4 @@ Guiv étendit sa main pardessus la selle de Guerouï, le saisit à la poitrine e
 
 Guerouï ne put se maintenir en selle, il tomba de cheval et perdit connaissance.
 
-Le vaillant léopard mit pied à terre, lui lia les deux mains derrière le dos dur comme une pierre, remonta à cheval, le plaça devant lui et courut rejoindre ses compagnons ; il arriva sur la colline son drapeau à la main et poussant des cris qui auraient dû aplatir la montagne et il invoqua les bénédictions du ciel sur la i tête du Pehlewan en célébrant lafortune victorieuse du roi du monde.
+Le vaillant léopard mit pied à terre, lui lia les deux mains derrière le dos dur comme une pierre, remonta à cheval, le plaça devant lui et courut rejoindre ses compagnons ; il arriva sur la colline son drapeau à la main et poussant des cris qui auraient dû aplatir la montagne et il invoqua les bénédictions du ciel sur la tête du Pehlewan en célébrant lafortune victorieuse du roi du monde.
