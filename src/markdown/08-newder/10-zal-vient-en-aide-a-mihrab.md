@@ -37,7 +37,9 @@ Schemasas dit : Ô Khazarwan au cœur de lion !
 Jamais tu n’as entrepris un combat aussi étourdiment.
 
 Si tu n’avais pas attendu après Mihrab, après son armée et ses trésors, sZal ne t’aurait pas mis dans une pareille détresses)
-l. 28 Khazarwan répondit :
+l.
+
+Khazarwan répondit :
 
 > C’est un seul homme, il n’est pas un Ahriman, il n’est pas de fer ; ne t’el’fraye donc pas d’avoir à le combattre.
 >
@@ -51,9 +53,9 @@ Zal partit et conduisit son armée dans le désert, emmenant avec lui ses élép
 
 Les armées se trouvèrent en face l’une de l’autre ; la poussière devint telle, que la plaine ressemblait à une montagne noire.
 
-Khazarwan s’élauça armé d’une massue et d’un bouclier, et courut sur Zal ; il lui porta un coup de massue sur sa poitrine brillante et ce coup brisa la célèbre cuirasse de Zal.
+Khazarwan s’élauça armé d’une massue et d’un bouclier et courut sur Zal ; il lui porta un coup de massue sur sa poitrine brillante et ce coup brisa la célèbre cuirasse de Zal.
 
-Le roi du Zaboulistan s’étant retiré , les braves du Kaboul s’enfuirent ; mais le vaillant Zal se couvrit d’une cotte de mailles et retourna au combat semblable à un lion.
+Le roi du Zaboulistan s’étant retiré, les braves du Kaboul s’enfuirent ; mais le vaillant Zal se couvrit d’une cotte de mailles et retourna au combat semblable à un lion.
 
 Il tenait en sa main la massue de son grand-père ; sa tête était remplie de colère, son cœur plein de sang.
 
@@ -65,7 +67,7 @@ Il cria à Schemasas de se montrer ; mais celui-ci ne se montra pas, car il vit 
 
 Zal rencontra Kelbad au milieu de la poussière et leva sur lui sa massue d’acier ; mais Kelbad voyant sa massue et son épée, s’enfuit devant lui.
 
-Zal banda son arbalète, y mit en toute hâte une flèche de peuplier, en dirigea la pointe contre la ceinture de Kelbad qui était formée par des chaînes d’acier, et lui cloua le corps par le milieu sur le pommeau de la selle ; le cœur de l’armée de Touran fut consumé de douleur par la mort de Kelbad.
+Zal banda son arbalète, y mit en toute hâte une flèche de peuplier, en dirigea la pointe contre la ceinture de Kelbad qui était formée par des chaînes d’acier et lui cloua le corps par le milieu sur le pommeau de la selle ; le cœur de l’armée de Touran fut consumé de douleur par la mort de Kelbad.
 
 Ces deux héros étant morts dans le combat, Schemasas perdit courage et pâlit ; il s’enfuit et tous ses braves se dispersèrent comme un troupeau dans un jour de pluie, poursuivis par les guerriers du Zaboulistan et le roi de Kaboul.
 
@@ -73,7 +75,7 @@ Le champ de bataille fut tellement couvert de morts, que la terre semblait être
 
 Ils se dirigèrent vers le roi des Turcs, leurs armures défaites, leurs ceintures brisées.
 
-Mais Schemasas ayant atteint le désert, Karen, fils de Kaweh, parut sur sa route ; il revenait de son combat contre l’armée de Wiseh, dont il avait 51.8.
+Mais Schemasas ayant atteint le désert, Karen, fils de Kaweh, parut sur sa route ; il revenait de son combat contre l’armée de Wiseh, dont il avait .8.
 
 Tué comme un être vil le fils bienaimé.
 
