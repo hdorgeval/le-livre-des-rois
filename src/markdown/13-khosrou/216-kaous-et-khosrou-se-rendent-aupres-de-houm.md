@@ -14,7 +14,9 @@ Kaous était absorbé dans ses penséessur cet événement, pendant qu’il se r
 
 Lorsque Houm aperçut le visage et la couronne des rois, il leur rendit les hommages qui leur étaient dus et les rois invoquèrent sur lui les grâces de Dieu le créateur du monde.
 
-Kaous lui dit z Grâces soient rendues à Dieu, qui est notre refuge, de ce que j’ai vu un homme pieux, puissant, sage et fort.»
+Kaous lui dit :
+
+> Grâces soient rendues à Dieu, qui est notre refuge, de ce que j’ai vu un homme pieux, puissant, sage et fort.»
 
 Houm, le serviteur de Dieu, répondit :
 
@@ -30,20 +32,20 @@ Quand il revint, j’étais content et joyeux et j’adressais de nouveau mes pr
 
 Une nuit le bienheureux Serosch me dévoila tout à coup le secret du sort, des cris sortirent de cette caverne sans fond, je les entendis et j’écoutai attentivement cette voix.
 
-Quelqu’un pleurait amèrement la perte de ses trésors et de sa couronne, de son armée, de son pays et de son KEÏ KHOSROU. trône d’ivoire.
+Quelqu’un pleurait amèrement la perte de ses trésors et de sa couronne, de son armée, de son pays et de son trône d’ivoire.
 
 Je descends de la cime de la montagne vers cette caverne étroite, tenant en main le lacet qui me sert de cordon et j’aperçois la tête et les épaules d’Afrasiab, qui s’était arrangé un lieu de repos dans la caverne.
 
 Je le lie dur comme pierre avec mon lacet, je le traîne misérablement hors de l’antre étroit ; sur ses instances je relâche les nœuds du lacet, et, arrivé au bord du lac, il se défait de ses liens ; dans ce moment il est caché dans l’eau ; mais on doit espérer dans le juge suprême du monde.
 
-Si le ciel veut le perdre, ce sera par Guersiwez, pour lequel son sang bouillonne de tendresse et si le grand roi veut ordonner qu’on amène son frère les pieds liés et qu’il soit cousu dans une peau de vache jusqu’à ce qu’il s’évanouisse, alors Afrasiab sortira sans doute de l’eau, quand il entendra les cris de son frère. v Le roi ordonna aux gardes du palais de partir armés de leurs épées et de leurs boucliers du Ghilan, et l’on amena le malheureux Guersiwez, qui avait causé tant de trouble dans le monde.
+Si le ciel veut le perdre, ce sera par Guersiwez, pour lequel son sang bouillonne de tendresse et si le grand roi veut ordonner qu’on amène son frère les pieds liés et qu’il soit cousu dans une peau de vache jusqu’à ce qu’il s’évanouisse, alors Afrasiab sortira sans doute de l’eau, quand il entendra les cris de son frère. v Le roi ordonna aux gardes du palais de partir armés de leurs épées et de leurs boucliers du Ghilan et l’on amena le malheureux Guersiwez, qui avait causé tant de trouble dans le monde.
 
 Kaous dit au bourreau de le traîner devant lui, de lui arracher du visage le voile qui couvrait sa honte, de coudre sur ses épaules une peau fraîche de vache, de manière à
 ôter toute force à son corps.
 
 La peau de Guersiwez se fendit sur lui de terreur, il demanda grâce et invoqua le secours du Créateur.
 
-Afrasiab entendit ses cris et parut à la surface de l’eau, ému et. en larmes;
+Afrasiab entendit ses cris et parut à la surface de l’eau, ému et en larmes;
 
 Lôâ il se mit à nager dans le lac et arriva à, une place où il pouvait prendre pied.
 
