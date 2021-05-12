@@ -28,9 +28,9 @@ On aurait pu se demander si c’était Bijen, ou Tahhmouras le vainqueur des Div
 
 Les faisans, saisis par les serres des faucons, versaient du haut des nues des gouttes de sang sur les feuilles du jasmin.
 
-C’est ainsi que les deux guerriers poursuivirent leur route, et tout le désert leur paraissait être un jardin.
+C’est ainsi que les deux guerriers poursuivirent leur route et tout le désert leur paraissait être un jardin.
 
-A la fin Bijen aperçut la forêt, et son sang bouillonna d’impatience;
+À la fin Bijen aperçut la forêt et son sang bouillonna d’impatience;
 
 Les sangliers y couraient sans savoir que Bijen avait sellé son destrier.
 
@@ -38,19 +38,17 @@ Les deux Iraniens avancèrent et mirent pied à terre sur la lisière du bois;
 
 Ils allumèrent un grand feu, s’assirent auprès et l’entretinrent avec des troncs d’arbres.
 
-Ils avaient une outre remplie de vin; ils prirent une grasse femelle d’onagre, la découpèrent et
-en firent rôtir les morceaux devant le feu;
+Ils avaient une outre remplie de vin ; ils prirent une grasse femelle d’onagre, la découpèrent et en firent rôtir les morceaux devant le feu;
 
-Ils mangèrent, et ensuite pensèrent à boire ;
+Ils mangèrent et ensuite pensèrent à boire ;
 
 Ils portèrent la main à l’outre et se mirent tous deux en gaieté.
 
-Quand leur visage commença à montrer les traces de
-la boisson, Gourguin voulut chercher un lieu de repos, mais Bijen lui dit:
+Quand leur visage commença à montrer les traces de la boisson, Gourguin voulut chercher un lieu de repos, mais Bijen lui dit :
 
 > Je n’ai pas sommeil!
 >
-> Ne te couche pas encore, mon frère, et reste debout pour que nous puissions mieux exécuter ce dont nous sommes chargés, et délivrer, par cet effort, le cœur du roi de ses soucis.
+> Ne te couche pas encore, mon frère et reste debout pour que nous puissions mieux exécuter ce dont nous sommes chargés et délivrer, par cet effort, le cœur du roi de ses soucis.
 >
 > Va auprès de cet étang, pendant que j’attaquerai les sangliers avec mes flèches.
 >
@@ -74,8 +72,7 @@ Et poussant des cris semblables au tonnerre du printemps, il faisait tomber les 
 
 Il suivit les traces des sangliers comme un éléphant en rut, une épée brillante en main.
 
-Ils accoururent tous pour l’attaquer,
-en jetant en l’air de la terre avec leurs défenses dont sortaient des étincelles;
+Ils accoururent tous pour l’attaquer, en jetant en l’air de la terre avec leurs défenses dont sortaient des étincelles;
 
 On eût dit qu’ils allaient brûler le monde.
 
@@ -85,7 +82,7 @@ Il aiguisait ses défenses contre les arbres comme on aiguise une lame d’acier
 
 Ils attisèrent ainsi le feu du combat et la fumée qui en sortait s’élevait de la forêt.
 
-A la fin Bijen frappa le sanglier au front avec son épée, et lui fendit la tête, qui était grosse comme celle d’un éléphant.
+À la fin Bijen frappa le sanglier au front avec son épée et lui fendit la tête, qui était grosse comme celle d’un éléphant.
 
 Alors ces courageuses bêtes fauves s’enfuirent comme des renards, le corps blessé par l’épée, le cœur fatigué du combat.
 
