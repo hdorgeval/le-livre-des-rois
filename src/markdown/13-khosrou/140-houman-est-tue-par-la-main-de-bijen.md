@@ -24,26 +24,29 @@ Aussitôt sa main saisit le poignard, vite comme le vent ; il lui pressa la têt
 
 Ilouman roula dans la poussière et le désert fut inondé de son sang.
 
-Bijen regarda ce corps ’éléphant gisant par terre comme un cyprès élancé qu’on a abattu dans un jardin et en demeura confondu ; il en détourna rapidement les yeux et s’adressa au Créateur, disant : Ô toi qui es au-dessus (le l’cSpace et ,du temps, aludessus de la rotation du ciel, tu es le
-’ : ce seul maître du monde et l’intelligence de l’homme ne peut se refuser à cette vérité.
+Bijen regarda ce corps ’éléphant gisant par terre comme un cyprès élancé qu’on a abattu dans un jardin et en demeura confondu ; il en détourna rapidement les yeux et s’adressa au Créateur, disant :
 
-Je n’ai aucune repart au mérite de ce haut fait, car je n’aurais pas en la force de combattre un éléphant.
+> Ô toi qui es au-dessus de l’cSpace et ,du temps, au-dessus de la rotation du ciel, tu es le
+’ : seul maître du monde et l’intelligence de l’homme ne peut se refuser à cette vérité.
+>
+> Je n’ai aucune repart au mérite de ce haut fait, car je n’aurais pas en la force de combattre un éléphant.
+>
+> J’ai tranché la tête à Ilouman pour venger le meurtre de Sianwusch et la mort de soixante et dix frères de mon père.
+>
+> Que son esprit soit l’esclave de mon esprit!
+que son corps soit déchiré par les griffes des lions!»
 
-J’ai tranché la tête à Ilouman pour venger le meurtre de Sianwusch et la mort de soixante et dix frères de mon père.
-
-Que son esprit soit l’esclave de mon esprit!
-que son corps soit déchiré par les grilles des lionsln Il attacha la tête de Houman à la courroie de la selle de son cheval noir et abandonna le corps gisant dans la poussière, avec son armure défaite et sa ceinture déchirée ; le corps’était dans un endroit, et la tête dans un autre.
+Il attacha la tête de Houman à la courroie de la selle de son cheval noir et abandonna le corps gisant dans la poussière, avec son armure défaite et sa ceinture déchirée ; le corps’était dans un endroit et la tête dans un autre.
 
 Ce monde n’est qu’une déception ; personne n’en obtient assistance dans la détresse ; son apparence ne s’accorde pas avec sa manière d’agir ; il n’est pas digne qu’on lui livre son cœur.
+
 Lorsque Houman fils de Wiseh lut mort, les truehemans des deux armées s’approchèrent de Bijen pour lui rendre leur hommage ; ils s’en approchèrent comme des Brahmanes qui se présentent devant une idole de la Chine.
 
-Bijen regarda autour de lui ; il vitqn’il ne pouvait s’en retourner sans passer devant l’armée des Touraniens ; et il eut pour que ces hommes toujours prêts à tuer, ayant connaissance du combat qu’il venait de livrer, ne se jetassent tous ensemble sur lui, n’arrivassent comme une montagne et qu’il ne pût tenir tête à toute une armée.
-
-KEl KHUSllUlU. il Ôlil l’armure de SiaWusch, se couvrit de la cette de mailles de Houman, monta sur le destrier du mort, qui ressemblait à un éléphant, saisit le drapeau du chef des grands du Touran et se mit en route, en bénissant cette plaine et le sort qui lui avait été propice et ce pays fortune.
+Bijen regarda autour de lui ; il vitqn’il ne pouvait s’en retourner sans passer devant l’armée des Touraniens ; et il eut pour que ces hommes toujours prêts à tuer, ayant connaissance du combat qu’il venait de livrer, ne se jetassent tous ensemble sur lui, n’arrivassent comme une montagne et qu’il ne pût tenir tête à toute une armée. il Ôlil l’armure de SiaWusch, se couvrit de la cette de mailles de Houman, monta sur le destrier du mort, qui ressemblait à un éléphant, saisit le drapeau du chef des grands du Touran et se mit en route, en bénissant cette plaine et le sort qui lui avait été propice et ce pays fortune.
 
 Le compagnon de Houman voyant le malheur qui avait frappé son chef, tremblait devant-lui ; mais Bijen lui dit :
 
-> Ne crains rien de moi, car j’ai promis de t’épargner, et n ma promesse me lie.
+> Ne crains rien de moi, car j’ai promis de t’épargner et n ma promesse me lie.
 >
 > Rends-toi maintenant à [on armée et raconte loutre que tu m’as vu faire.»
 
@@ -65,14 +68,18 @@ Le chef des vedettes dépêcha vers Gouderz un cavalier rapide comme un messager
 
 Jusquelà Guiv s’était agité comme un insensé, s’écriant à la vue de tout venant, courant de tous côtés, demandant des nouvelles de son vaillant fils et se désespérant au moment où il aurait dû se réjouir.
 
-À la fin il apprit la fortune de Bijen ; il s’élança vers son fils et lorsque son regard tomba sur ces traits chéris, il descendit de cheval, comme c’était naturel, se roula par terre, jeta de la poussière sur sa tête et glorifia Dieu le dispensateur de la justice. ll serra sur sa poitrine son fils retrouvé, son vaillant et prudent fils.
+À la fin il apprit la fortune de Bijen ; il s’élança vers son fils et lorsque son regard tomba sur ces traits chéris, il descendit de cheval, comme c’était naturel, se roula par terre, jeta de la poussière sur sa tête et glorifia Dieu le dispensateur de la justice.
+
+Il serra sur sa poitrine son fils retrouvé, son vaillant et prudent fils.
 
 Ensuite ils se mirent tous deux en route pour se rendre auprès du chef des armées du roi, en bénissant Dieu.
 
 Aussitôt qu’ils virent de loin le Pehlewan, Bijen son petitlits mit pied à terre, ayant son armure encore souillée de sang, le front couvert de poussière, la tête du vaillant Houman pendante à la courroie de la selle ; et il remit au Sipehdar Gouderz les armes, la tête et le cheval de Houman.
 
-Le Pehlewan fut si content de Bijen qu’on aurait dit qu’il exhalait son âme devant. lui ; il remercia Dieu de cette bonne étoile, de la fortune qui avait veillé sur Il ordonna à son trésorier d’apporter une couronne et un vêtement royal, le vêtement brodé de figures de pierreries et d’or par, la couronne et la ceinture brillantes comme le soleil et d’amener dix chevaux à la bride d’or, et dix esclaves au visage desPéri et parés de ceintures d’or.
+Le Pehlewan fut si content de Bijen qu’on aurait dit qu’il exhalait son âme devant. lui ; il remercia Dieu de cette bonne étoile, de la fortune qui avait veillé sur Il ordonna à son trésorier d’apporter une couronne et un vêtement royal, le vêtement brodé de figures de pierreries et d’or par, la couronne et la ceinture brillantes comme le soleil et d’amener dix chevaux à la bride d’or et dix esclaves au visage desPéri et parés de ceintures d’or.
 
-Il donna tout cela à Bijen, en disant z Depuis le temps de Sam le lion, personne n’a dompté les dragons comme toi ; tu as sauvé cette armée avec ton épée et ta main a brisé le curer du roi des Turcs.
+Il donna tout cela à Bijen, en disant :
 
-Tous nos braves maintenant ressemblent à des lions et leurs chevaux bondissent sous eux.»
+> Depuis le temps de Sam le lion, personne n’a dompté les dragons comme toi ; tu as sauvé cette armée avec ton épée et ta main a brisé le curer du roi des Turcs.
+>
+> Tous nos braves maintenant ressemblent à des lions et leurs chevaux bondissent sous eux.»
