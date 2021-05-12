@@ -90,6 +90,6 @@ Ensuite, il dit aux grands pleins de prudence :
 
 > Je vous fais des adieux éternels.
 >
-> Le soleil va montrer ses rayons, et dès ce moment vous ne me verrez plus qu’en rêve.
+> Le soleil va montrer ses rayons et dès ce moment vous ne me verrez plus qu’en rêve.
 >
 > Ne restez pas demain dans ce désert de sable ; quand même il pleuvrait du musc ; car il viendra de la montagne un grand orage qui arrachera les branches et les feuilles des arbres et il tombera du ciel sombre une neige telle que vous ne retrouveriez pas la route de l’Iran.
