@@ -10,23 +10,25 @@ order: '208'
 
 # Bataille entre Keï Khosrou et le roi du Mekran
 
-Keï Khosrou s’avançait et lorsqu’il fut près du Mekran, il choisit dans son armée un homme pleih d’expérience, l’envoya auprès du roi du Mekran et lui fit dire : ll faut que les rois aient de l’intelligence.
+Keï Khosrou s’avançait et lorsqu’il fut près du Mekran, il choisit dans son armée un homme pleih d’expérience, l’envoya auprès du roi du Mekran et lui fit dire :
 
-Regarde d’où je suis venu ; je ne suis pas ivre et ne m’endors pas sur mes plans.
+> ll faut que les rois aient de l’intelligence.
+>
+> Regarde d’où je suis venu ; je ne suis pas ivre et ne m’endors pas sur mes plans.
+>
+> Mon trône et ma couronne rendent le monde brillant et toute royauté est dépendante de ma fortune.
+>
+> Prépare donc pour mon armée de la nourriture et une route, prépare pour moi un beau palais.
+>
+> Quand une armée n’a pas. de vivres, tu sais ce qui arrive, car personne ne consent à être livré àla détresse ; toutes les mains enlèveront la nourriture d’autrui, si je ne peux pas faire parvenir à chacun la sienne.
+>
+> Si mes hommes ne trouvent pas de vivres, ils vous apporteront la guerre, ils rendront étroite la terre devant leurs ennemis.
+>
+> Ainsi, si tu ne veux pas écouter mes paroles, tu marcheras dans le sang d’une multitude d’hommes ; si tu attaques ces lions, contre lesquels tu n’as aucune vengeance à exercer, tu feras dévaster tout le pays du Mekran.»
 
-Mon trône et ma couronne rendent le monde brillant et toute royauté est dépendante de ma fortune.
+Le messager partit et s’acquitte de son message ; mais les conseils et la justice n’avaient pas accès dans cette âme ; cette tête insensée bouillonna de colère et sa cervelle se remplit de mauvaises pensée.
 
-Prépare donc pour mon armée de la nourriture et une route, prépare pour moi un beau palais.
-
-Quand une armée n’a pas. de vivres, tu sais ce qui arrive, car personne ne consent à être livré àla détresse ; toutes les mains enlèveront la nourriture d’autrui, si je ne peux pas faire parvenir à chacun la sienne.
-
-Si mes hommes ne trouvent pas de vivres, ils vous apporteront la guerre, ils rendront étroite la terre devant leurs ennemis.
-
-Ainsi, si tu ne veux pas écouter mes paroles, tu marcheras dans le sang d’une multitude d’hommes ; si tu attaques ces lions, contre lesquels tu n’as aucune vengeance à exercer, tu feras dévaster tout le pays du Mekran.»
-
-Le messager partit et s’acquitte de son message ; mais les conseils et la justice n’avaient pas accès dans cette âme ; cette tête insensée bouillonna de colère , et sa cervelle se remplit de mauvaises pensée .
-
-Le roi KEÏ KHOSROU. réunit son armée éparse ,se prépara à livrer bataille dans le désert et répondit à l’envoyé :
+Le roi réunit son armée éparse ,se prépara à livrer bataille dans le désert et répondit à l’envoyé :
 
 > Vat’en ; retourne auprès de mon ennemi et dis-lui que la rotation de la fortune incertaine l’a rendu joyeux et puissant ; mais il éprouvera notre supériorité quand il s’avancera : il saura qui sont les braves et les héros.»
 
@@ -42,9 +44,9 @@ Un cavalier du Mekran s’avança dans la plaine et passa la nuit à faire le to
 
 Tokhar, le gardien du camp iranien, qui n’avait jamais peur d’un combat, arriva sur lui et l’attaqua comme un lion féroce attaque un éléphant plein de fierté.
 
-Il le frappa de l’épée et le coupa en deux, et le cœur du roi du Mekran se remplit de terreur.
+Il le frappa de l’épée et le coupa en deux et le cœur du roi du Mekran se remplit de terreur.
 
-Les LE LIVRE ces ROIS. deux armées formèrent leurs lignes et le ciel disparut sons la poussière qu’elles soulevaient ; elles s’approchèrent comme deux montagnes et se jetèrent l’une sur l’autre avec toute leur masse.
+Les LE LIVRE ces deux armées formèrent leurs lignes et le ciel disparut sons la poussière qu’elles soulevaient ; elles s’approchèrent comme deux montagnes et se jetèrent l’une sur l’autre avec toute leur masse.
 
 Le Sipehdar Thous s’avança du centre et le monde fut rempli du son des clairons et des timbales ; Thous était précédé par le drapeau de Kaweh et suivi par les héros aux bottines d’or ; l’air fut obscurci par les javelines et les plumes des flèches, la terre devint comme une mer de poix.
 
@@ -82,10 +84,12 @@ On mit le feu aux portes des villes et le ciel semblait s’écrouler sur la ter
 On perça beaucoup d’hommes avec des flèches, on s’empara des femmes et des petiAtlsa finela cnolèfreadunroitcosntr.e ce.peuple s’apaise!
 et il ordonna à son armée de se retirer ; il commanda a Aschkesch, dont l’intelligence était prompte, de mettre fin à ce pillage, à ces combats et à cette effervescence ; de ne permettre à personne un acte de cruauté, pour que ceux qui ne peuvaient se défendre n’eussent pas à souffrir.
 
-Tous les hommes de bien de ce pays vinrent auprès du roi pour demander pardon, disant : Nous sommes innocents et réduits au désespoir, nous avons toujours été opprimés
-’ par des tyrans.
+Tous les hommes de bien de ce pays vinrent auprès du roi pour demander pardon, disant :
 
-Si un roi voit un innocent, il est digne de lui d’en avoir pitié.»
+> Nous sommes innocents et réduits au désespoir, nous avons toujours été opprimés
+’ par des tyrans.
+>
+> Si un roi voit un innocent, il est digne de lui d’en avoir pitié.»
 
 Lorsque le roi fortuné entendit ces paroles, il fit faire une proclamation à l’armée et l’on cria à haute voix sous la porte de l’enceinte de la tente royale : Ô Pehlewans, hommes de bon conseil, si dorénavant il s’élève un seul cri provoqué par l’injustice, la rapine, les rixes et la turbulence, je ferai couper en deux ceux qui commettent des violences et qui ne craignent pas r Dieu, le distributeur de la justice.»
 
