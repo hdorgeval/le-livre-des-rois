@@ -26,7 +26,7 @@ Il était de la famille de Zohak l’Arabe et tout le pays de Kaboul lui apparte
 
 Il payait chaque année tribut à Sam, car il ne pouvait pas lutter contre lui.
 
-Lorsqu’il eut nouvelle de Destan fils de Sam, il quitta Kaboul de grand matin avec des trésors et des chevaux parés, avec des esclaves et des présents de toute espèce, de l’or et des rubis, du musc et de l’ambre, des brocarts d’or et des étoll’es de castor et de soie, avec une couronne ornée de pierres précieuses dignes d’un roi et un collier d’or incrusté de chrysolithes.
+Lorsqu’il eut nouvelle de Destan fils de Sam, il quitta Kaboul de grand matin avec des trésors et des chevaux parés, avec des esclaves et des présents de toute espèce, de l’or et des rubis, du musc et de l’ambre, des brocarts d’or et des étoffes de castor et de soie, avec une couronne ornée de pierres précieuses dignes d’un roi et un collier d’or incrusté de chrysolithes.
 
 Il emmena avec lui tous les chefs de l’armée de Kaboul ; et lorsque Destan fils de Sam eut nouvelle qu’un roi venait à sa rencontre avec pompe et entouré de ses grands, il fut au-devant de lui, lui adressa des paroles flatteuses et le reçut avec honneur selon les coutumes.
 
@@ -42,7 +42,7 @@ La sagesse et la prudence de Mihrab firent dire aZal : Le nom de sa mère ne a m
 >
 > Personne n’a un visage ni une taille comme la sienne, personne ne r : peut lui disputer la balle.»
 
-Un homme illustre parmi les grands dit alors au Pehlewan du monde : Mih- rab tient derrière le voile une fille dont le visage est plus beau que le soleil.
+Un homme illustre parmi les grands dit alors au Pehlewan du monde : Mihrab tient derrière le voile une fille dont le visage est plus beau que le soleil.
 
 Elle est de la tête aux pieds a comme de l’ivoire, ses joues sont comme le paradis, c sa taille est comme un platane.
 
@@ -58,7 +58,7 @@ Si tu vois la lune, c’est son visage ; si tu sens le musc, c’est le parfum d
 
 C’est un paradis orné de toutes parts, rempli de grâces, d’agréments et de charmesn ; Ce discours fit bondir le cœur de Zal et le repos et la prudence l’abandonnèrent.
 
-Quand l’homme a une fois quitté le chemin du bien, comment y reviendrait-il de sa nouvelle voie?
+Quand l’homme a une fois quitté le chemin du bien, comment y reviendrait-il de sa nouvelle voie ?
 
 La nuit vint, mais Zal restait assis pensif et triste, tant était grand son souci pour une femmequ’il n’avait jamais vue.
 
@@ -69,19 +69,18 @@ Ils se rangèrent dans la cour du Pehlewan et pendant que les nobles cherchaient
 
 Le héros, semblable à un arbre chargé de fruits nouv veaux, s’avança vers Zal dontle cœur se réjouit ; Zal le salua et lui assigna la première place dans l’assemblée, puis il lui dit :
 
-> Demande ce que tu désires, 
- I que ce soit mon trône ou mon sceau, mon épée ou ma couronnem Mihrab lui répondit :
+> Demande ce que tu désires, I que ce soit mon trône ou mon sceau, mon épée ou ma couronnem Mihrab lui répondit :
 
 > Ô roi qui r portes haut la tête, roi victorieux, à qui tous obéissent !
 >
-> Je n’ai qu’un seul désir dans ce monde, et son accomplissement ne te sera pas difficile ; c’est
+> Je n’ai qu’un seul désir dans ce monde et son accomplissement ne te sera pas difficile ; c’est
 æ que tu visites joyeusement ma maison, alors tu auras rendu monâme brillante comme le soleil.»
 
 Zal lui répondit :
 
 > C’est une chose impossible, ma place R n’est pas dans ton palais ; ni Sam ni le roi ne seraient contents, s’ils entendaient dire que nous buvons du vin, que nous nous enivrons et que je suis entré dans la maison d’un adorateur des idoles.
 >
-> Excepté cela, je t’accorderai tout ce que tu demanderas, et te voir sera toujours un plaisir pour moi.»
+> Excepté cela, je t’accorderai tout ce que tu demanderas et te voir sera toujours un plaisir pour moi.»
 
 Mihrab l’entendit et prononça des bénédictions sur lui, tandis qu’en lui-même il donnait à Zal le nom de mécréant. puis il s’éloigna du trône d’un pas fier, en offrant au roi des vœux pour son bonheur.
 
