@@ -16,12 +16,12 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 
 > J’ai lu ta lettre jusqu’à la fin ; j’ai compris tout ce que tu me mandes.
 >
-> Rouïn m’a communiqué tes mes- sages, tout ce que tu lui avais ordonné de dire ; mais je m’étonne de toi et de ta lettre si remplie de paroles douces.
+> Rouïn m’a communiqué tes messages, tout ce que tu lui avais ordonné de dire ; mais je m’étonne de toi et de ta lettre si remplie de paroles douces.
 >
 > Ton cœur et ta langue ne sont pas en harmonie ; ton esprit n’est pas riche de jugement.
 >
-> Tu emploies toujours la douceur, tu te sers de pa- roles fleuries ; et quiconque n’a pas un esprit péné-
-> KEÏ KHOSROU. fait trant doit croire que tu es un homme plein d’humanité ; mais tu es comme ces pays maudits qui, lorsque le soleil donne dessus, offrent de loin l’apparence d’un lac.
+> Tu emploies toujours la douceur, tu te sers de paroles fleuries ; et quiconque n’a pas un esprit péné-
+> fait trant doit croire que tu es un homme plein d’humanité ; mais tu es comme ces pays maudits qui, lorsque le soleil donne dessus, offrent de loin l’apparence d’un lac.
 >
 > Et pourtant ce n’est pas le temps de la ruse et de la tromperie, quand il s’agit de prendre les massues, les lances et les lacets.
 >
@@ -37,7 +37,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Lorsque Guiv, accompagné de sages et vaillants héros iraniens, s’est rendu auprès de toi avant toute hostilité, il t’a parlé de tous les points en litige, de tous les grands et de et tous les pays que nous réclamons ; lui et les grands a l’esprit lucide t’ont donné des conseils, des avis et
 >
-> Mi LIS LIVRE DES ROIS. de bonnes paroles.
+> Mi de bonnes paroles.
 >
 > Mais tu n’en as pas moins préparé ton armée pour la guerre, tu as couru d’une province à l’autre, tu as commencé la lutte, tu as tiré ton armée de ses quartiers.
 >
@@ -57,7 +57,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Que de grands de l’Iran, maîtres de couronnes et de trônes, ont péri dans ces guerres !
 >
-> KEÏ KHOSBOU. un Puis tu demandes comment il se peut qu’un vieillard comme moi se ceigne pour répandre tant de sang.
+> un Puis tu demandes comment il se peut qu’un vieillard comme moi se ceigne pour répandre tant de sang.
 >
 > Sache, ô homme expérimenté et rusé, qui as éprouvé la bonne et la mauvaise fortune, que Dieu m’a accordé une longue vie et une destinée qui me permet de porter haut la tête, afin qu’au jour du combat je fasse lever jusqu’au soleil la poussière du pays de Touran ; et ma seule inquiétude est. que Dieu ne sépare mon âme de mon corps avant que j’aie accompli cette vengeance et foulé aux pieds votre pays.
 >
@@ -67,7 +67,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Car, dirait-il,je t’ai donné. le commandement, de la force, de la prudence, des trésors et de la bravoure ; pourquoi donc ne t’es-tu pas ceint à la tête des Iraniens pour venger Siawusch ?
 >
-> Dieu, le dispensateur de la justice, m’in- terrogerait sur la mort de mes soixante et dix nobles fils ; et que lui répondrais-je ?
+> Dieu, le dispensateur de la justice, m’interrogerait sur la mort de mes soixante et dix nobles fils ; et que lui répondrais-je ?
 >
 > Saurais-je lui dire pourquoi j’ai renoncé à ma vengeance?
 >
@@ -85,11 +85,11 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Il m’a commandé de faire la guerre, de verser du sang pour venger Siawusch ; et si je désobéissais à Khosrou le maître du monde,j’aurais à rougir devant lui.
 >
-> Au reste, si tu espères que Khosrou se laisserait fléchir par tes paroles, alors envoie-lui en toute hâte ces otages et ces trésors quels qu’ils soient, sous la conduite de Lehhak et (le Rouïn, les serviteurs d’Afrasiah ; la route de l’Iran est ouverte.
+> Au reste, si tu espères que Khosrou se laisserait fléchir par tes paroles, alors envoie-lui en toute hâte ces otages et ces trésors quels qu’ils soient, sous la conduite de Lehhak et de Rouïn, les serviteurs d’Afrasiah ; la route de l’Iran est ouverte.
 >
 > Sixièmement tu proposes de rendre à Khosrou toutes les provinces qui tout. partie de l’Iran, des pays cultivés et florissants et de rappeler auprès
 >
-> KEÏ KHOSBOL’.
+>
 >
 > M5 de toi toutes les troupes les crawl.
 >
@@ -97,18 +97,18 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Du côté de l’occident et jusqu’à la frontière des Khazars, tout le pays est occupé par Lohrasp.
 >
-> Devers le midi, jusqu’au Sind, le monde ressemble à une brillante épée de Roum, et le vaillant Bustem, avec son glaive tranchant, a allumé dans ces pays la fournaise de la destruction ; il a envoyé au roi le chef des Indiens avec un drapeau noir.
+> Devers le midi, jusqu’au Sind, le monde ressemble à une brillante épée de Roum et le vaillant Rustem, avec son glaive tranchant, a allumé dans ces pays la fournaise de la destruction ; il a envoyé au roi le chef des Indiens avec un drapeau noir.
 >
-> Dans le Dehistan, le Kharism et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils les abandonnent, eux qui s’é- taient préparés à faire des excursions de tous côtés ; Aschkesch a fait tomber sur Schideh une grêle qui l’a abattu et : presque tué et il a envoyé à Khosrou des prisonniers et du butin de toute espèce.
+> Dans le Dehistan, le Kharism et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils les abandonnent, eux qui s’étaient préparés à faire des excursions de tous côtés ; Aschkesch a fait tomber sur Schideh une grêle qui l’a abattu et : presque tué et il a envoyé à Khosrou des prisonniers et du butin de toute espèce.
 >
 > Et enfin de ce côté-ci nous nous combattons toi et moi, sur cette frontière où s’acquièrent la gloire et le renom.
 >
 > Tu as déjà plusieurs fois plié devant moi et devant ces grands et vaillants lions.
 >
-> Si tu consens à te battre avec moi, je te débarrasserai de ces discussions et à l’aide de la force que Dieu m’a donnée, et par ordre du roi, j’inonderai de sang ce champ de bataille.
+> Si tu consens à te battre avec moi, je te débarrasserai de ces discussions et à l’aide de la force que Dieu m’a donnée et par ordre du roi, j’inonderai de sang ce champ de bataille.
 >
 > Réfléchis, ô illustre Pehlewan, sur la manière dont le soleil et la lune ont tourné ; la chaîne du son est descendue du ciel et la tête de irla fortune (les Turcs est placée sous les ciseaux.
-> :.
+> : .
 >
 > MG Songe à la rétribution que le Créateur réserve à tes crimes ; car le sort a retiré le pan de sa robe de dessus les malheurs qui te menacent et déjà apparaît le mal qui doit punir le mal que tu as fait.
 >
@@ -120,11 +120,9 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > La vie de Siawusch a été livrée au vent, parce qu’il ai cru à ton serment : que personne désormais ne se fie à ta parole.
 >
-> Tu ne l’as pas se-»couru au jour fatal, bien qu’il t’ait souvent im- ploré dans sa détresse.
+> Tu ne l’as pas se-»couru au jour fatal, bien qu’il t’ait souvent imploré dans sa détresse.
 
-En huitième lieu tu dis que tu l’emportes sur moi par ton trône et la couronne, par la bravoure r et ta fortune, par ton armée et tes trésors, mais que ton cœur souffre de pitié. .lc crois que tu m’as suftisamment éprouvé jusqu’ici dans les combats, et tu sais si tu m’as trouvé dépourvu de bravoure au jour de la bataille. [hagarde-0i donc de la tète aux pieds ; car il se pourrait que mon trésor et mon
-
-KEÏ KHOSROU. [II7 trône, que ma couronne et mon courage me missent à ta hauteur.
+En huitième lieu tu dis que tu l’emportes sur moi par ton trône et la couronne, par la bravoure r et ta fortune, par ton armée et tes trésors, mais que ton cœur souffre de pitié. .lc crois que tu m’as suftisamment éprouvé jusqu’ici dans les combats et tu sais si tu m’as trouvé dépourvu de bravoure au jour de la bataille. [hagarde-0i donc de la tête aux pieds ; car il se pourrait que mon trésor et mon [II7 trône, que ma couronne et mon courage me missent à ta hauteur.
 
 En dernier lieu tu demandes que je choisisse quelques braves pour champions et tu promets d’amener de ton côté quelques cavaliers turcs prêts à verser du sang, parce que la pitié profonde que tu éprouves pour ton armée te fait désirer de mettre des bornes aux violences et aux vengeances ; et tu m’exhortes à agir avec humanité et à montrer les qualités cachées de mon cœur et de ma raison.
 
@@ -136,7 +134,7 @@ Poses de choisir un seul brave pour qu’il se mesure avec toi sur le champ de b
 
 Ce sont nos armées qui, semblables à des montagnes, doivent d’abord se battre en masse ; il faut que nous formions nos deux lignes de bataille. dans l’espace qui les sépare, pour voir si la vic-toire se déclarera pour l’un de nous.
 
-Sinon nous ce amènerons, chacun de notre côté, quelques braves, et choisirons un champ de bataille pour eux.
+Sinon nous ce amènerons, chacun de notre côté, quelques braves et choisirons un champ de bataille pour eux.
 
 Et tu a aurais beau reculer devant l’accomplissement de tes paroles, moi je ne renoncerai jamais à ce que j’ai dit.
 
@@ -148,7 +146,7 @@ Si tu me demandes du temps et un délai, je te l’accorde ; sinon pré : pare-t
 
 Je te dis tout cela afin que tu ne cherches pas un nouveau prétexte pour éluder la bataille.
 
-Tu nous as attaqués inopinément, tu nous a tendu un piége et dressé une embuscade, tu ne nousas accordé aucun délai ; mais il n’importe que je me venge dans cent ans ou dans ce moment même : seulement n’espère pas que je m’en retourne sans avoir livré ce combat, pour lequel la nuit et le jour, le temps opportun et inopportun me sont indifférents.»
+Tu nous as attaqués inopinément, tu nous a tendu un piège et dressé une embuscade, tu ne nousas accordé aucun délai ; mais il n’importe que je me venge dans cent ans ou dans ce moment même : seulement n’espère pas que je m’en retourne sans avoir livré ce combat, pour lequel la nuit et le jour, le temps opportun et inopportun me sont indifférents.»
 
 La réponse à la lettre de Pirau étant achevée, le messager accourut rapide comme une Péri, la ceinture serrée, assis sur son coursier et entouré de son escorte de cavaliers.
 
@@ -158,26 +156,24 @@ Gouderz fit ordonner-à tous les Mobeds, à tous les hommes illustres par leur s
 
 Alors le Pehlewan fit lire sa réponse devant les héros.
 
-Les grands entendirent lire par le fortuné scribe
-
-KEÏ KHOSBOU. litt) cettelettre qui gagnait tous les esprits ; ils reconnurent que l’intelligence de Pirau était vaincue et traitè-
+Les grands entendirent lire par le fortuné scribe litt) cettelettre qui gagnait tous les esprits ; ils reconnurent que l’intelligence de Pirau était vaincue et traitè-
 rent avec mépris les avis qu’il leur avait donnés.
 
 Ils célébrèrent les louanges de Gouderz, ils l’appelerent le Pehlewan du monde.
 
 Ensuite il apposa son sceau sur la lettre et la remit à Rouïn fils de Pirau fils de Wiseh.
 
-Au moment où les Touraniens se levè-rent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Roui’n des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or, età ses compagnons de l’argent et de l’or, et des casques et des ceintures à ceux qui pouvaient y prétendre.
+Au moment où les Touraniens se levè-rent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Roui’n des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or, età ses compagnons de l’argent et de l’or et des casques et des ceintures à ceux qui pouvaient y prétendre.
 
 Rouïn partit de la cour du Pehlewan avec son escorte et se dirigea vers l’armée du Touran.
 
-Arrivé auprès de Pirau, il se présenta respectueusement devant son père et inclina la tête devant son trône, et le sage Pirau le serra dans ses bras.
+Arrivé auprès de Pirau, il se présenta respectueusement devant son père et inclina la tête devant son trône et le sage Pirau le serra dans ses bras.
 
 Rouïn s’acquitta du message de Gouderz et raconta tout ce qu’il avait vu dans le camp iranien.
 
 Ensuite un secrétaire lut la lettre et le cœur du Pehlewan devint noir comme la poix ; son âme se remplit de tristesse et son esprit d’anxiété ; il sentit que sa perte approchait.
 
-Mais il se résolut d’avoir patience et de se taire, et. ne fit pas connaître aux siens la lettre de Gouderz.
+Mais il se résolut d’avoir patience et de se taire et ne fit pas connaître aux siens la lettre de Gouderz.
 
 Il dit à son armée :
 
