@@ -25,7 +25,7 @@ Depuis le matin jusqu’à ce que le soleil eût quitté le firmament, on ne vit
 
 Tu aurais dit que l’âme des épées s’épanouissait et que la terre soupirait sous les pieds des chevaux.
 
-Mais le soir, lorsque les lances 27. projetaient leurs ombres sur le sol, le roi d’Iran essuya une défaite et ausitôt que sa fortune s’obscurcit, la confiance des Turcs s’en accrut.
+Mais le soir, lorsque les lances . projetaient leurs ombres sur le sol, le roi d’Iran essuya une défaite et ausitôt que sa fortune s’obscurcit, la confiance des Turcs s’en accrut.
 
 Du côté où commandait Schapour, fils de Nestouweh, toute la masse de ses troupes fut dispersée ; Schapour tint bon jusqu’à ce qu’il fût tué et avec lui la fortune quitta les Iraniens.
 
@@ -35,9 +35,9 @@ Il ne restait à l’armée qu’un petit nombre de chemins pour y parvenir et j
 
 Ainsi s’écoula quelque temps.
 
-Lorsque Newder se fut établi dans la forteresse, les chemins furent fermés à ses troupes pleines de. courage et Afrasiab ayant formé une armée de cavaliers, la fit partir pendant la nuit.
+Lorsque Newder se fut établi dans la forteresse, les chemins furent fermés à ses troupes pleines de courage et Afrasiab ayant formé une armée de cavaliers, la fit partir pendant la nuit.
 
-Il appela au-près de lui un Turc illustre, le Sipehbed Kuroukhan, fils de Wiseh et lui ordonna de se diriger vers le pays de Fars et de prendre le chemin du désert ; car c’était là que se trouvaient les familles des Iraniens, et l’homme isolé cherche à rejoindre les siens.
+Il appela au-près de lui un Turc illustre, le Sipehbed Kuroukhan, fils de Wiseh et lui ordonna de se diriger vers le pays de Fars et de prendre le chemin du désert ; car c’était là que se trouvaient les familles des Iraniens et l’homme isolé cherche à rejoindre les siens.
 
 Karen ayant su qu’Afrasiab avait envoyé, dans la nuit, une armée, bouillonna de jalousie et eut le cœur en angoisse ; il courut, semblable à un tigre, auprès de -
 
@@ -45,7 +45,7 @@ Karen ayant su qu’Afrasiab avait envoyé, dans la nuit, une armée, bouillonna
 
 Newder et lui dit :
 
-> Regarde ce que le roi de Tou- ran, cet homme sans cœur, ose faire contre le roi d’Iran.
+> Regarde ce que le roi de Touran, cet homme sans cœur, ose faire contre le roi d’Iran.
 >
 > Il a envoyé des troupes sans nombre contre les femmes voilées de ceux qui sont à l’armée ; s’il réussit à s’emparer de nos femmes, il brisera les et cœurs des grands et nous serons obligés dans notre honte de cacher nos têtes.
 >
@@ -65,7 +65,7 @@ Newder lui répondit :
 >
 > Ils se rendront sans délai auprès de nos femmes et les défendront comme c’est leur devoirm Pendant ce temps entrèrent dans l’appartement particulier du roi les héros et les grands portant haut la tête.
 >
-> Ils s’assirent à table et demandèrent du vin, et délivrèrent pour un temps leurs âmes de leurs soucis.
+> Ils s’assirent à table et demandèrent du vin et délivrèrent pour un temps leurs âmes de leurs soucis.
 >
 > Lorsque leurs têtes furent ivres de vin, le roi Newder se retira dans sa chambre à coucher, le cœur rempli de plans de vengeance.
 >
@@ -83,7 +83,7 @@ Le soir ils arrivèrent le cœur découragé à un endroit que l’on appelle le
 
 Karen avait été blessé au cœur par ce dernier et il désirait venger sur lui le sang de son frère.
 
-Il revêtit son armure, ordonna convenablement ce qui concernait son armée et suivi de ses braves il se dirigea droit - du côté du pays de Fers.
+Il revêtit son armure, ordonna convenablement ce qui concernait son armée et suivi de ses braves il se dirigea droit -du côté du pays de Fers.
 
 Barman le courageux en eut nouvelle et vint au-devant de lui semblable à un lion.
 
