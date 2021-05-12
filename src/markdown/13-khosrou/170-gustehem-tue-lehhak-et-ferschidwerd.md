@@ -22,7 +22,7 @@ F erschidwerd courut vers Lehhak et le réveilla, en disant :
 
 > Réveille-toi de ton doux sommeil, frappe bravement la tête de la mauvaise fortune.
 >
-> Un sage a dit ce mot profond, que quand un lion s’enfuit devant les grilles du loup, il ne faut pas que le loup le poursuive, car il attirerait la destruction sur lui-même.
+> Un sage a dit ce mot profond, que quand un lion s’enfuit devant les griffes du loup, il ne faut pas que le loup le poursuive, car il attirerait la destruction sur lui-même.
 >
 > Allons !
 >
@@ -35,9 +35,7 @@ en toute hâte de la forêt.
 
 Ils tournèrent les yeux vers la plaine pour se préparer à tout événement.
 
-Dans ce moment Gustehem parut au loin ; ils virent qu’au-cun cavalier ne l’accompagnant ; les deux braves levèrent la tête ; ils le reconnurent aussitôt qu’ils l’eurent aperçu et se dirent l’un à l’autre : C’est un seul homme qui se dirige de notre côté, c’est Gusertehem sans compagnon qui vient nous combattre,
-[la
-6 LE LlVBE DES BOIS. le drapeau des braves en main.
+Dans ce moment Gustehem parut au loin ; ils virent qu’au-cun cavalier ne l’accompagnant ; les deux braves levèrent la tête ; ils le reconnurent aussitôt qu’ils l’eurent aperçu et se dirent l’un à l’autre : C’est un seul homme qui se dirige de notre côté, c’est Gusertehem sans compagnon qui vient nous combattre, [la le drapeau des braves en main.
 
 Il ne faut pas nous ce enfuir devant lui ; car s’il continue de s’avancer dans ce la plaine, il ne nous échappera certainement pas.
 
@@ -60,9 +58,7 @@ Les cavaliers étant tous deux blessés, se mirent alors à combattre avec l’�
 
 Tout à coup Gustehem saisit une occasion favorable, secoua la bride de son cheval, fondit sur Lehhak, lui assena un coup sur la nuque avec son épée tranchante et le tua à l’instant.
 
-Sa tête roula
-
-KEÏ KHOSBOU. sous les pieds de Gustehem comme une boule qu’a frappée le mail.
+Sa tête roula sous les pieds de Gustehem comme une boule qu’a frappée le mail.
 
 Telle est la manière d’agir du ciel qui tourne ; il prive tout à coup de sa tendresse ceuxlà même qu’il a élevés dans son sein : quand tu cherches sa tête, tu rencontres son pied ; et quand tu crois lui saisir le pied, c’est la tête qui se présente.
 
@@ -70,12 +66,14 @@ Gustehem restait à cheval, mais il était tellement blessé qu’on eût dit qu
 
 Il arriva à la fin sur le bord d’un ruisseau où il vit de l’eau courante, où il vit de l’ombre ; il mit pied à terre, attacha son cheval à un arbre et parvint heureusement à s’approcher de l’eau.
 
-Il but longtemps, et rendit grâces à Dieu ; on.aurait dit qu’il était cloué à la terre.
+Il but longtemps et rendit grâces à Dieu ; on.aurait dit qu’il était cloué à la terre.
 
 Ensuite il se mit à se tordre et à se rouler sur la terre noire ; tout son corps était déchiré de coups d’épées.
 
-Il dit : Ô gracieux maître du monde, fais que Bijen fils de Guiv, ou un autre des héros pleins de valeur, quitte notre armée glorieuse, vienne ici poussé par son inquiétude pour moi et m’emmène de ce lieu, mort ou vivant, au camp des Iraniens, pour qu’ils sachent que je ne suis pas mort sans gloire.
+Il dit :
 
-C’est la seule chose au monde que je désire encore.»
+> Ô gracieux maître du monde, fais que Bijen fils de Guiv, ou un autre des héros pleins de valeur, quitte notre armée glorieuse, vienne ici poussé par son inquiétude pour moi et m’emmène de ce lieu, mort ou vivant, au camp des Iraniens, pour qu’ils sachent que je ne suis pas mort sans gloire.
+>
+> C’est la seule chose au monde que je désire encore.»
 
 Il passa toute la nuit à gémir et se tordit de douleur, jusqu’à ce que le jour commença à briller, comme un serpent qui se roule dans la poussière.
