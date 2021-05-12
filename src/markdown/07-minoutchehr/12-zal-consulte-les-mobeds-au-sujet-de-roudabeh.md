@@ -12,7 +12,7 @@ order: '012'
 
 Aussitôt que le soleil brillant se .fut levé au-des-sus des montagnes, les braves de l’armée vinrent tous en foule, de grand matin, visiter le Pehlewan ; de là ilss’en allèrent chacun suivant son chemin.
 
-Le prince envoya un messager avec l’ordre de cher- 2H cher les grands doués de sagesse ; et lorsque le savant Destour, les Mobeds, les braves pleins de fierté et les hommes de naissance illustre furent arrivés auprès du Pehlewan pleins de joie, de prudence et d’intelligence, Destan fils de Sam commença à leur parler, le sourire sur les lèvres, le cœur plein de désirs.
+Le prince envoya un messager avec l’ordre de cher-2H cher les grands doués de sagesse ; et lorsque le savant Destour, les Mobeds, les braves pleins de fierté et les hommes de naissance illustre furent arrivés auprès du Pehlewan pleins de joie, de prudence et d’intelligence, Destan fils de Sam commença à leur parler, le sourire sur les lèvres, le cœur plein de désirs.
 
 Il rendit d’abord hommage au maître du monde et réveilla de son sommeil l’âme des Mobeds en disant :
 
@@ -30,12 +30,11 @@ Il rendit d’abord hommage au maître du monde et réveilla de son sommeil l’
 >
 > Aucun être n’est seul, si ce n’est Dieu le créateur, qui n’a besoin ni de compagnon, ni de compagne, ni d’ami.
 >
-> Tout ce
-18 qu’il a créé est créé par couples ; c’est ainsi qu’il a r : tout fait sortir du secret du néant.
+> Tout ce qu’il a créé est créé par couples ; c’est ainsi qu’il a r : tout fait sortir du secret du néant.
 >
 > Reçois du ciel sublime cet enseignement ; l’univers entier est ainsi fait.
 >
-> Le monde a été embelli par l’homme, et toute chose précieuse n’acquiert sa valeur que par lui ; s’il n’y avait pas de couples dans le monde, toutes les facultés des êtres resteraient ignorées ; de plus, nous n’avons jamais vu, suivant
+> Le monde a été embelli par l’homme et toute chose précieuse n’acquiert sa valeur que par lui ; s’il n’y avait pas de couples dans le monde, toutes les facultés des êtres resteraient ignorées ; de plus, nous n’avons jamais vu, suivant
 æ la religion, qu’un jeune homme ait été sans épouse ; enfin quiconque est issu d’une race puissante resterait farouche s’il n’avait pas une compagne.
 >
 > Qu’y a-t-il de plus beau qu’un héros dont le cœur est ’ réjoui par des enfants ?
@@ -60,7 +59,7 @@ Il rendit d’abord hommage au maître du monde et réveilla de son sommeil l’
 >
 > Le roi Minoutchehr en sera-t-il joyeux ?
 >
-> Y verra-t-il une fantaisie de jeu- nesse ou un crime ?
+> Y verra-t-il une fantaisie de jeunesse ou un crime ?
 >
 > Tous, grands et petits, quand ils cherchent une compagne, ne l’ont que se toura ner vers ce que la foi et la coutume exigent.
 >
@@ -76,7 +75,7 @@ Nul n’osa parler ouvertement, car on n’a jamais vu le miel mêlé au poison.
 
 > Je sais, dit-il, que vous me blâmerez si vous examinez œ que j’ai fait ; mais quiconque veut faire sa volonté est destiné à encourir beaucoup de blâme.
 >
-> Si vous voulez me guider dans cette affaire, et aviser aux moyens de me délivrer de cette chaîne, je ferai pour vous dans le monde, quandil s’agira de bonté, de bienfaits, de justice, ce que jamais les grands n’ont fait pour les petits et jamais je ne vous accablerai de malheur.»
+> Si vous voulez me guider dans cette affaire et aviser aux moyens de me délivrer de cette chaîne, je ferai pour vous dans le monde, quandil s’agira de bonté, de bienfaits, de justice, ce que jamais les grands n’ont fait pour les petits et jamais je ne vous accablerai de malheur.»
 
 Tous les Mobeds s’empressèrent de lui répondre, tous lui souhaitèrent le repos et l’accomplissement de ses vœux en disant :
 
