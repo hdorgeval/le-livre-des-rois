@@ -26,6 +26,8 @@ Il lia la tête avec son lacet et la plaça sur la selle de son cheval.
 
 Il n’y avait là personne pour plaindre Bouïn.
 
-Bijen semblable à un éléphant attacha le corps de Bouïn sur son destrier, saisit les rênes du cheval de son ennemi, secoua la bride de son destrier rapide et courut vers la col- line, tenant en main son drapeau à ligure de lion, dont la ferrure bleue était rongée par la rouille et s’écriant : Puisse le roi être toujours victorieux !
+Bijen semblable à un éléphant attacha le corps de Bouïn sur son destrier, saisit les rênes du cheval de son ennemi, secoua la bride de son destrier rapide et courut vers la colline, tenant en main son drapeau à ligure de lion, dont la ferrure bleue était rongée par la rouille et s’écriant :
+
+> Puisse le roi être toujours victorieux !
 
 Puisse la tête du Pehlewan porter toujours le diadème!"
