@@ -16,18 +16,20 @@ Afrasiab donna ses ordres à Guersiwez et lui dit :
 >
 > Ensuite précipite-le dans la fosse la tête en bas, de sorte qu’il ne voie plus le soleil et la lune.
 >
-> Prends avec toi des éléphants et va chercher la pierre du Div Akwan, que le maître du monde a tirée de la mer profonde et jetée dans la forêt de la Chine et fais-la servir à ma vengeance contre Bijen ;
+> Prends avec toi des éléphants et va chercher la pierre du Div Akwan, que le maître du monde a tirée de la mer profonde et jetée dans la forêt de la Chine et faisla servir à ma vengeance contre Bijen ;
 >
-> Apporte sur le dos d’éléphants indomptables cette pierre qui ferme l’entrée de la fosse d’Arjeng et place-la sur l’ouverture de la fosse de Bijen, que tu y laisseras enfermé jusqu’à ce que la détresse l’ait privé de sa raison.
+> Apporte sur le dos d’éléphants indomptables cette pierre qui ferme l’entrée de la fosse d’Arjeng et placela sur l’ouverture de la fosse de Bijen, que tu y laisseras enfermé jusqu’à ce que la détresse l’ait privé de sa raison.
 >
 > Ensuite tu prendras une troupe de cavaliers, tu entreras dans le palais de Menijeh, cette fille éhontée qui déshonore sa famille, tu le dévasteras, tu dépouilleras cette malheureuse, tu lui prendras son diadème et lui diras :
->
+
+> >
 > > Ô fille maudite et misérable, tu n’es pas digne d’un trône et d’une couronne ;
 > >
 > > Tu as humilié ton père devant les rois, tu as abaissé sa famille dans la poussière.
 >
-> Traîne-la toute nue jusqu’au cachot et dis-lui :
->
+> Traînela toute nue jusqu’au cachot et dis-lui :
+
+> >
 > > Regarde dans cette fosse celui que tu as vu sur le trône.
 > >
 > > Tu as été son printemps ;
@@ -46,7 +48,7 @@ Ensuite on le précipita dans la fosse et on plaça la pierre sur l’ouverture.
 
 De là Guersiwez conduisit ses troupes au palais de la fille du roi, livra au pillage ses trésors et ses joyaux, arracha à l’un une caisse remplie d’or ; Et donna à l’autre une couronne.
 
-Il dépouilla Menijeh de son voile et la fit marcher nu-pieds et la tête découverte ;
+Il dépouilla Menijeh de son voile et la fit marcher nupieds et la tête découverte ;
 
 On la traîna jusqu’à l’entrée de la fosse, le cœur rempli de douleur et les joues inondées d’un torrent de larmes.
 
