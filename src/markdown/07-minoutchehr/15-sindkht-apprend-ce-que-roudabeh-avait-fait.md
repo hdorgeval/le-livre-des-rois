@@ -25,7 +25,7 @@ Destan la fit appeler, lui raconta tout ce qu’il avait appris et lui dit :
 > Sam a beaucoup parlé et écouté et débattu et à la
 (in il a consenti.»
 
-Zal remit en toute hâte à la femme la réponse de Sam à sa lettre et elle partit emportant la lettre et courant vers Boudabeh rapide comme le vent et lui donna nouvelle de cette grande joie.
+Zal remit en toute hâte à la femme la réponse de Sam à sa lettre et elle partit emportant la lettre et courant vers Roudabeh rapide comme le vent et lui donna nouvelle de cette grande joie.
 
 Roudaheh au visage de Péri versa des pièces d’argent sur la femme et la fit asseoir sur un siège orné d’or ; puis elle donna à son émissaire, pour cette bonne nouvelle, un vêtement complet ; ensuite elle apporta une tiare blanche dont l’étoile ne se voyait pas, tant elle était couverte de rubis et d’or et l’or même ne paraissait pas sous les pierres précieuses.
 
@@ -33,7 +33,7 @@ Elle apporta encore une belle bague de grand prix brillante comme Jupiter dans l
 
 Fils de Sam, avec maint salut et maint message.
 
-La femme quitta la chambre de Boudabeh et arriva dans la grande salle ; mais Sindokht la guettait, et, la voyant, dit à haute voix :
+La femme quitta la chambre de Roudabeh et arriva dans la grande salle ; mais Sindokht la guettait, et, la voyant, dit à haute voix :
 
 > D’où viens-tu ?
 >
@@ -60,13 +60,13 @@ moi et apaise ainsi ma colère.»
 
 La femme lui répondit :
 
-> J’ai apporté ces deux objets à Roudabeh, et elle veut maintenant que je lui en apporte davantage.»
+> J’ai apporté ces deux objets à Roudabeh et elle veut maintenant que je lui en apporte davantage.»
 
 Sindokht dit : Montre-moi le prix que tu en as reçu et délivre-moi des soupçons qui pèsent sur mon cœur.»
 
 La femme répondit :
 
-> Boudaheh m’a dit qu’elle me payerait demain, n’exige pas que je montre le prix avant que je le reçoivem Sindokht savait bien que ces paroles étaient men- songères et elle était déterminée à lutter avec cette femme ; elle s’approcha et examina de force les manches de sa robe et le mensonge et la tromperie parurent à l’instant.
+> Boudaheh m’a dit qu’elle me payerait demain, n’exige pas que je montre le prix avant que je le reçoivem Sindokht savait bien que ces paroles étaient mensongères et elle était déterminée à lutter avec cette femme ; elle s’approcha et examina de force les manches de sa robe et le mensonge et la tromperie parurent à l’instant.
 
 Quand Sindokht vit ces vêtements magnifiques et ces ornements brodés de la main de Roudabeh, elle s’irrita, saisit la femme par les cheveux et la jeta le visage contre terre.
 
@@ -76,7 +76,7 @@ De là elle courut dans l’intérieur du palais avec un visage sombre et pleine
 
 Elle ferma la porte derrière elle ; ses soupçons l’avaient rendue comme insensée.
 
-Elle manda sa tille devant elle, se frappa le visage de ses mains et les larmes inondèrent ses joues jusqu’à les rendre luisantes, puis elle dit à Boudabeh :
+Elle manda sa tille devant elle, se frappa le visage de ses mains et les larmes inondèrent ses joues jusqu’à les rendre luisantes, puis elle dit à Roudabeh :
 
 > Ô lune de noble race !
 >
@@ -100,8 +100,7 @@ Elle manda sa tille devant elle, se frappa le visage de ses mains et les larmes 
 >
 > Le trésor de la puissante couronne des Arabes nous a attiré beaucoup de bonheur et beau-coup de maux.
 >
-> Veux-tu donc livrer ainsi ton nom l. 
-22h
+> Veux-tu donc livrer ainsi ton nom l. h
 au veut ?
 >
 > Quelle mère a jamais mis au monde une fille comme toi?»
