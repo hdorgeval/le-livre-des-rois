@@ -61,7 +61,7 @@ Il marcha ainsi contre la ville d’Hérat et en emmena beaucoup de fantassins d
 
 Il se porta ensuite vers Thalikan et le Mervroud ; tu au-rais dit que le ciel le bénissait ; de là il s’approcha de Balkh et sur toute cette route il n’ailligea personne par un mot amer.
 
-De ce côté s’avançaient vers lui, rapidement comme le vent, Guersiwez et Barman avec une armée dont Sipahram commandait l’arrièregarde et Barman l’avantgarde.
+De ce côté s’avançaient vers lui, rapidement comme le vent, Guersiwez et Barman avec une armée dont Sipahram commandait l’arrièregarde et Barman l’avant-garde.
 
 Ils eurent des nouvelles du jeune prince, on leur dit :
 
