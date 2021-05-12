@@ -20,7 +20,7 @@ Puis le roi fit une réponse à la lettre de Sam et la rédigea dans les termes 
 >
 > Je lui ai accordé tout ce qu’il désire et j’ai passé avec lui beaucoup de jours heureux.
 >
-> Un lion qui fait sa proie du léo- pard, que peut-il produire qu’un lionceau qui rugit dans le combat ?
+> Un lion qui fait sa proie du léopard, que peut-il produire qu’un lionceau qui rugit dans le combat ?
 >
 > Je l’ai renvoyé satisfait ; puissent ses ennemis être impuissants à lui nuire!»
 
@@ -61,7 +61,7 @@ Elle lui annonça qu’elle allait voir Zal et lui dit :
 >
 > Tu t’es !
 >
-> Précipitée vers l’objet des désirs de ton cœur, et maintenant tu obtiens tout ce que tu as souhaité.»
+> Précipitée vers l’objet des désirs de ton cœur et maintenant tu obtiens tout ce que tu as souhaité.»
 
 Roudabeh lui répondit :
 
@@ -79,7 +79,7 @@ Sindokht para Roudabeh comme un paradis et la couvrit d’un grand nombre de tal
 
 Elle la fit asseoir dans ce palais doré et ne voulut que personne eût accès auprès d’elle.
 
-I ’ l .
+I ’ ! .
 Tout le Kaboulistan était orné et rempli de couleurs, de parfums et de choses précieuses ; on jeta des caparaçons sur le dos de tous les éléphants, on les couvrit de brocarts de Roum.
 
 On plaça sur leur des des musiciens et tous les hommes se posèrent un diadème sur la tête.
