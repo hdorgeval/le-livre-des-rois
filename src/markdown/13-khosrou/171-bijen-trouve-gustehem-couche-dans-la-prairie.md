@@ -16,30 +16,33 @@ Il fit le tour de la prairie pour trouver les traces de son ami qui avait dispar
 
 Il découvrit au loin un destrier de couleur isabelle, qui courait dans la prairie comme un cheval de course, tantôt trépignant, tantôt paissant, tantôt bondissant comme un léopard ; sa selle était retournée, sa bride brisée. toutes ses housses traînaient par terre ; les étriers, le lacet et les rênes étaient couverts de sang.
 
-A cette vue Bijen devint comme insensé ; il poussa un cri comme un lion en fureur et dit : Ô mon ami plein de tendresse, ô mon compagnon bienaimé, où gis-tu dans cette prairie ?
+A cette vue Bijen devint comme insensé ; il poussa un cri comme un lion en fureur et dit :
 
-Tu me brises le dos, tu me perces le cœur et mon âme chérie va quitter mon corps.
+> Ô mon ami plein de tendresse, ô mon compagnon bienaimé, où gis-tu dans cette prairie ?
+>
+> Tu me brises le dos, tu me perces le cœur et mon âme chérie va quitter mon corps.
+>
+> Que puis-je dire ?
+>
+> Où puis-je te chercher maintenant ?
+>
+> Quel jeu le ciel a-t-il donc joué avec fr toi !
+>
+> A Il suivit les traces des pieds du destrier jusqu’à la fontaine et il découvrit Gustehem avec sa cuirasse et son casque souillés de poussière et de sang, étendu sur cette prairie où ses blessures l’avaient fait tomber la tête la première.
+>
+> Bijen sauta à bas de son cheval Schebreng et serra Gustehem fortement dans ses bras.
+>
+> Il»
 
-Que puis-je dire ?
+Délit la cette de mailles de Roum qui lui couvrait la poitrine, il ôta le casque de sa tête blessée, il examina ses blessures ; il vit qu’il se mourait parce qu’elles n’étaient. pas pansées et qu’il avait perdu tant de sang que son corps avait jauni ; le cœur de Gustehem était rempli de soucis, son corps plein de douleurs.
 
-Où puis-je te chercher maintenant ?
+Bijen regarda ces blessures et éclata en lamentations devant lui, disant :
 
-Quel jeu le ciel a-t-il donc joué avec fr toi !
-
-A Il suivit les traces des pieds du destrier jusqu’à la fontaine et il découvrit Gustehem avec sa cuirasse et son casque souillés de poussière et de sang, étendu sur cette prairie où ses blessures l’avaient fait tomber la tête la première.
-
-Bijen sauta à bas de son cheval Schebreng et serra Gustehem fortement dans ses bras.
-
-Il»
-
-Délit la cette de mailles de Roum qui lui couvrait la poitrine, il ôta le casque de sa tête bles-
-KEÏ KHOSIIOU. sée, il examina ses blessures ; il vit qu’il se mourait parce qu’elles n’étaient. pas pansées et qu’il avait perdu tant de sang que son corps avait jauni ; le cœur de Gustehem était rempli de soucis, son corps plein de douleurs.
-
-Bijen regarda ces blessures et éclata en lamentations devant lui, disant : Ô mon vaillant compagnon, je n’avais dans le monde d’autre ami que toi.
-
-Il fallait m’avertir dès le commencement de me rendre à l’endroit où tu avais un combat à livrer ; j’aurais été à côté de toi dans le moment du danger et quand tu avais à lutter contre un Abriman.
-
-Maintenant nos ennemis ont obtenu l’objet de tous leurs vœux et ce qu’ils voulaient faire est accompli.»
+> Ô mon vaillant compagnon, je n’avais dans le monde d’autre ami que toi.
+>
+> Il fallait m’avertir dès le commencement de me rendre à l’endroit où tu avais un combat à livrer ; j’aurais été à côté de toi dans le moment du danger et quand tu avais à lutter contre un Abriman.
+>
+> Maintenant nos ennemis ont obtenu l’objet de tous leurs vœux et ce qu’ils voulaient faire est accompli.»
 
 Ainsi parla Bijen.
 
@@ -76,13 +79,11 @@ teur, l’esprit troublé par le chagrin et vit de la des cavaliers turcs déban
 
 Il descendit en toute hâte de la colline, tremblant de peur que Gustehem ne mourût ; il se jeta sur les cavaliers effrayés et en tua deux’avec son épée ; il détacha de la courroie de la selle son lacet roulé et le jeta sur le cou d’un des Turcs ; celui-ci tomba de cheval et Bijen lui accorda la vie, pour se donner un aide dans ce qu’il avait à faire.
 
-Il courut ensuite, semblable à un tourbillon de poussière, au lieu où gisaient Lehhak et Ferschidwerd et trouva ces chefs
-
-KEI KHOSRUU. à!" de l’armée du Tourau couchés sur le sol trempé de sang ; près d’eux se trouvaient leurs destriers qui paissaient dans la prairie.
+Il courut ensuite, semblable à un tourbillon de poussière, au lieu où gisaient Lehhak et Ferschidwerd et trouva ces chefs à!" de l’armée du Tourau couchés sur le sol trempé de sang ; près d’eux se trouvaient leurs destriers qui paissaient dans la prairie.
 
 A cet aspect Bijen prononça des bénédictions sur Gustehem, qui avait. accompli cette vengeance.
 
-Il ordonna au Turc qui lui avait demandé grâce de soulever de terre les héros et de les jeter sur un cheval, et il lui aida à leur lier ensemble les mains et les pieds et à les jeter sur les selles royales de leurs chevaux.
+Il ordonna au Turc qui lui avait demandé grâce de soulever de terre les héros et de les jeter sur un cheval et il lui aida à leur lier ensemble les mains et les pieds et à les jeter sur les selles royales de leurs chevaux.
 
 Ensuite il s’en retourna auprès de Gustehem, bondissant comme un léopard furieux ; il mit pied à terre et vite comme le vent le plaça avec soin et sans lui faire de mal sur son cheval ; il ordonna au Turc d’y monter, de soutenir le blessé dans ses bras et de faire marcher doucement le destrier rapide.
 
