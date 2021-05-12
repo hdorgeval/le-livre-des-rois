@@ -10,7 +10,7 @@ order: '002'
 
 # Pescheng apprend la mort de Minoutchehr
 
-Après cela la nouvelle de la mort de Minoutchehr se répandit jusque chez les guerriers du Touran, qui s’entretinrent avec les malveillants de la mort du roi et des alfaires de Newder.
+Après cela la nouvelle de la mort de Minoutchehr se répandit jusque chez les guerriers du Touran, qui s’entretinrent avec les malveillants de la mort du roi et des affaires de Newder.
 
 Lorsque Pescheng, le maître du Touran, apprit cette nouvelle, il eut envie de commencer une guerre contre l’Iran ; il parlait sans cesse de son père Zadschem ; il soupirait amèrement au souvenir de Tour et du trône de Minoutchehr et en pensant à son armée, à ses braves, au chef de ses troupes et à ses provinces.
 
@@ -20,10 +20,11 @@ Son Pehlewan était son fils Afrasiab, qui mandé par lui, vint en toute hâte.
 
 Pescheng prononça un discours sur Tour et sur Selm, disant :
 
-> Il ne faut pas que nous cachions notre vengeance sous le pan de nos robes ; un chef dont le cerveau n’est pas trourblé, ne peut ignorer ce que nous ont fait les Irarrniens et comment ils se sont ceints pour nous faire 2l?
- du mal ; le temps est venu de chercher le combat et la vengeance et d’essuyer sur nos joues les larmes de sang qu’ont versées nos yeux.
+> Il ne faut pas que nous cachions notre vengeance sous le pan de nos robes ; un chef dont le cerveau n’est pas trourblé, ne peut ignorer ce que nous ont fait les Irarrniens et comment ils se sont ceints pour nous faire 2l ?
 >
-> Que ditesvous maintenant ?
+> Du mal ; le temps est venu de chercher le combat et la vengeance et d’essuyer sur nos joues les larmes de sang qu’ont versées nos yeux.
+>
+> Que dites-vous maintenant ?
 >
 > Que me répondez-vous ?
 >
@@ -39,14 +40,15 @@ Il dit :
 >
 > S’il s’était ceint pour se venger, il aurait soumis l’Iran.
 >
-> A présent tout ce que mon grand-père a laissé inachevé, la vengeance, le combat et. la ruse, c’est à moi de l’accomplir avec mon épée acérée ; c’est le temps de ma révolte et le jour de mon insurrection.»
+> A présent tout ce que mon grand-père a laissé inachevé, la vengeance, le combat et la ruse, c’est à moi de l’accomplir avec mon épée acérée ; c’est le temps de ma révolte et le jour de mon insurrection.»
 
 La tête de Pescheng s’exalta en voyant la stature de cyprès d’Afrasiab, sa poitrine et ses bras de lion, sa force d’éléphant et son ombre qui se projetait à la distance de plusieurs milles, sa langue qui était comme une épée qui déchire, comme la mer qui écume, comme le nuage qui verse la pluie.
 
 Il lui ordonna de tirer l’épée et de conduire son armée vers l’Iran.
 
-Quand un roi voit un fils digne de lui, il peut bien porter la tête jusqu’au soleil, car il sait qu’après sa mort son fils tiendra sa place et maintiendra debout son palais. 
- Afrasiab quitta Pescheng, le cœur rempli du désir de la vengeance, la tête pleine d’impatience ; il ouvrit les portes des trésors amassés et fournit ses troupes de tout ce qui est nécessaire pour le combat.
+Quand un roi voit un fils digne de lui, il peut bien porter la tête jusqu’au soleil, car il sait qu’après sa mort son fils tiendra sa place et maintiendra debout son palais.
+
+Afrasiab quitta Pescheng, le cœur rempli du désir de la vengeance, la tête pleine d’impatience ; il ouvrit les portes des trésors amassés et fournit ses troupes de tout ce qui est nécessaire pour le combat.
 
 Les apprêts de la guerre étant achevés, le sage Aghrirez vint au palais et parut devant son père, l’esprit plein de soucis, car son cœur penchait toujours vers ce qui est bon ; il dit au roi :
 
@@ -56,7 +58,7 @@ Les apprêts de la guerre étant achevés, le sage Aghrirez vint au palais et pa
 >
 > Tu sais le sort que Minoutchehr le vieux loup, prompt àtirer l’épée, a fait éprouver à Selm et au vaillant Tour.
 >
-> Mon grand-père Zadschem, le maître de l’armée de Touran, dont le casque touchait au ciel de la lune, ne tenait pas de pareils discours, et pendant la paix n’ouvrait pas le livre de la vengeance.
+> Mon grand-père Zadschem, le maître de l’armée de Touran, dont le casque touchait au ciel de la lune, ne tenait pas de pareils discours et pendant la paix n’ouvrait pas le livre de la vengeance.
 >
 > Mieux vaudrait ne pas nous révolter, car il n’en résultera que la destruction du pays.»
 
