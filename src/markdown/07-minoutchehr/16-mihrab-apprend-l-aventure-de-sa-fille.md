@@ -28,7 +28,7 @@ Elle répondit à Mihrab :
 
 > J’ai pensé longuement à ce palais, que nous habitons, à ces richesses, a ces chevaux arabes caparaçonnés, à nos trésors, à ce jardin, à ces amis qui font le bonheur de notre cœur, à ces esclaves dévoués au roi, à ce parc, à cette résidence royale, à la beauté de notre cyprès élancé, à notre grand nom, à notre sagesse et à notre prudence.
 >
-> Malgré notre splendeur et notre loyauté, tout ceci doit peu à peu disparaître ; il faudra, contre notre gré, l’abandonner à l’ennemi, et considérer comme du vent toutes nos peines.
+> Malgré notre splendeur et notre loyauté, tout ceci doit peu à peu disparaître ; il faudra, contre notre gré, l’abandonner à l’ennemi et considérer comme du vent toutes nos peines.
 >
 > Notre part de tout cela ne sera qu’une bière étroite.
 >
@@ -41,18 +41,20 @@ Elle répondit à Mihrab :
 Mihrab répondit à Sindokht :
 
 > Tu dis cette parole comme si elle était nouvelle, mais ce qui est vieux ne peut redevenir nouveau.
+>
+> Ce monde fugitif est ainsi fait, que l’un y est malheureux et l’autre plein de santé, que l’un y entre et que l’autre en sort.
+>
+> Astu connu quelqu’un que la voûte du ciel ne doive pas écraser ?
+>
+> Se livrer à l’angoisse ne remédie pas aux soucis et l’on ne peut lutter en cela contre Dieu ce le juste.»
 
-Ce monde fugitif est ainsi fait, que l’un y est malheureux et l’autre plein de santé, que l’un y entre et que l’autre en sort.
+Sindokht lui répondit :
 
-Astu connu quelqu’un que la voûte du ciel ne doive pas écraser ?
-
-Se livrer à l’angoisse ne remédie pas aux soucis et l’on ne peut lutter en cela contre Dieu ce le juste. n Sindokht lui répondit :
-
-> Les paroles que j’ai pro- noncées mettront les hommes de sens droit sur une voie nouvelle.
+> Les paroles que j’ai prononcées mettront les hommes de sens droit sur une voie nouvelle.
 >
 > Comment pourrais-je te cacher ce secretet ces affaires si importantes ?
 >
-> Un Mobed sage et bienheureux a conté à son fils l’histoire d’un arbre, de même j’ai fait ce conte, pour que le roi et avec sa haute intelligence prête attention à mes pa- roles.»
+> Un Mobed sage et bienheureux a conté à son fils l’histoire d’un arbre, de même j’ai fait ce conte, pour que le roi et avec sa haute intelligence prête attention à mes paroles.»
 
 Sindokht baissa la tête, inclina sa stature de cyprès et baigna de larmes ses joues de rose, disant :
 
@@ -101,8 +103,7 @@ Sindokht lui répondit :
 >
 > Sam est revenu à cause de cela du pays des Kerguesars, c’est une affaire qui est devenue publique et qui n’est plus un secret.»
 
-Mihrab lui répondit i Ô femme au visage de lune. 
- ne me dis pas de mensonges.
+Mihrab lui répondit i Ô femme au visage de lune. ne me dis pas de mensonges.
 
 Quel homme sensé pourra croire que le vent obéisse à la poussière ?
 
@@ -161,7 +162,7 @@ Roudaheh lui répondit :
 Elle se rendit au-
 près de son père, belle comme le soleil qui se lève et qui est tout noyé dans les rubis et dans l’or.
 
-Son père resta étonné à sa vue et appela sur elle plu- sieurs fois la grâce de Dieu.
+Son père resta étonné à sa vue et appela sur elle plusieurs fois la grâce de Dieu.
 
 C’était un paradis orné, beau comme le soleil brillant au gai printemps.
 
