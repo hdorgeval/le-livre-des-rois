@@ -35,9 +35,9 @@ Gouderz regarda qui d’entre les vaillants héros se trouvait autour de lui et 
 
 Il lui ordonna de se rendre à l’arrièregarde auprès de Guiv fils de Gouderz, l’asile de l’armée et de lui dire d’envoyer deux corps d’armée au secours des troupes qui tenaient les bords du fleuve et la montagne ; il lui ordonna d’ajouter qu’il fallait choisir un vaillant héros pour commander l’arrièregarde, lui remettre le commandement et venir lui-même auprès de Gouderz.
 
-KEÏ KHOSROU.I ü3l Aussitôt que le prudent Hedjir, qui était armé pour le combat, eut entendu ces paroles de son noble père, il courut vers son frère et lui rapporta les paroles du Pehlewan.
+I ü3l Aussitôt que le prudent Hedjir, qui était armé pour le combat, eut entendu ces paroles de son noble père, il courut vers son frère et lui rapporta les paroles du Pehlewan.
 
-Guiv bondit à cette nouvelle ; il examina tous les guerriers illustres de l’armée, et son choix tomba sur Ferhad ; il l’appela auprès de lui et lui confia toutes ses troupes.
+Guiv bondit à cette nouvelle ; il examina tous les guerriers illustres de l’armée et son choix tomba sur Ferhad ; il l’appela auprès de lui et lui confia toutes ses troupes.
 
 Ensuite il ordonna à Zengueh fils de Schaweran de prendre avec lui deux cents braves pleins d’expérience, d’attaquer Ferschidwerd et de faire lever la poussière de la montagne et l’écume de la rivière.
 
@@ -51,7 +51,7 @@ Ensuite Guiv le cavalier au visage de soleil et plein de fierté se rendit aupr�
 
 > Ô mon vaillant fils, ô Sipehdar. de l’Iran, ô mon Destour, qui est-ce qui brisera la force de leur armée et abattra le courage de leurs Pehlewans ?
 >
-> Voici le moment où ta bravoure de lion te servira, et où il faut que tu engages le combat avec l’ennemi.
+> Voici le moment où ta bravoure de lion te servira et où il faut que tu engages le combat avec l’ennemi.
 >
 > C’est sur toi que repose l’espoir de l’armée de l’Iran ; montre donc ta valeur sur ce champ de bataille.
 >
@@ -60,11 +60,11 @@ Ensuite Guiv le cavalier au visage de soleil et plein de fierté se rendit aupr�
 >
 > Avance-toi contre le centre de leur armée et combats Piran qui s’y tient : car toute la force de l’armée du Touran réside en lui ; et dès qu’il t’apercevra, sa peau se fendra de terreur.
 >
-> Si tu parviens à le vaincre. tout est fini : Dieu et la bonne étoile te favoriseront ; notre armée pourra se reposer de ses fatigues et de ses dangers ; le roi maître du monde se réjouira ; tu obtiendras de grands trésors et tout ce que tu peux désirer et la fortune ne ce:-sera plus de prospérer ; le des d’Afrasiab sera brisé, son cœur sera gonflé de sang, ses deux yeux verseront des larmes.»
+> Si tu parviens à le vaincre. tout est fini : Dieu et la bonne étoile te favoriseront ; notre armée pourra se reposer de ses fatigues et de ses dangers ; le roi maître du monde se réjouira ; tu obtiendras de grands trésors et tout ce que tu peux désirer et la fortune ne ce : -sera plus de prospérer ; le dos d’Afrasiab sera brisé, son cœur sera gonflé de sang, ses deux yeux verseront des larmes.»
 
 Ainsi parla le Pehlewan à son fils ; et le fils, ceint pour le combat, lança à l’instant son cheval de bataille et partit semblable à Adergouschasp.
 
-Il lit appeler tous les cavaliers de l’aile droite et de l’aile gauche z Gourazeh et Gustehem, le Sipehdar Hedjir et Bijen accoururent.
+Il lit appeler tous les cavaliers de l’aile droite et de l’aile gauche : Gourazeh et Gustehem, le Sipehdar Hedjir et Bijen accoururent.
 
 Les héros se dirigèrent sur le centre de l’armée du Touran, semblables à des lions en un jour de chasse et assis sur des chevaux aux pieds de vent et tendant le cou ; ils se jetèrent au milieu de l’armée et assouvirent leur vengeance ; et les Touraniens qui couvraient la plaine, assis sur des chevaux bardés de fer, furent dispersés au premier choc.
 
