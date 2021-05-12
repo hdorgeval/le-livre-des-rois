@@ -16,7 +16,7 @@ Lorsque Pirau aperçut Gouderz le fils de Keschwad, il lui adressa la parole et 
 >
 > Il a choisi dans l’autre monde le séjour des bons, est-ce une raison pour toi de te refuser le repos parce qu’il en jouit ?
 >
-> Deux armées entières se sont détruites comme des éléphants à qui l’on aurait tranché la tête, les armées de deux pays ont disparu et le temps est ar- 39
+> Deux armées entières se sont détruites comme des éléphants à qui l’on aurait tranché la tête, les armées de deux pays ont disparu et le temps est ar-
 > rivé où tu devrais quitter ce champ de bataille.
 >
 > Le monde entier est dépeuplé et l’excès des vengeances a refroidi l’ardeur des combats.
@@ -25,7 +25,7 @@ Lorsque Pirau aperçut Gouderz le fils de Keschwad, il lui adressa la parole et 
 >
 > Faisons entre nous une convention.
 >
-> Si tu es si avide de vengeance, porte ton armée en avant depuis le pied de la montagne jusqu’ici, et sors toi-même des rangs, car c’est ainsi que tu peux assouvir ta rage.
+> Si tu es si avide de vengeance, porte ton armée en avant depuis le pied de la montagne jusqu’ici et sors toi-même des rangs, car c’est ainsi que tu peux assouvir ta rage.
 >
 > Nous nous battrons moi et toi bravement sur ce champ de bataille ; et celui de nous qui restera vainqueur sera le maître de tout et se placera sur le trône.
 >
@@ -43,7 +43,7 @@ Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de
 >
 > On lui a arraché la tête comme à une brebis ; son cœur était gonflé de sang, son âme déchirée par la douleur.
 >
-> Ensuite Afrasiab a fait pousser au pays d’Iran des cris de douleur par ses massacres, ses dévasta- A tions, ses combats et ses fureurs.
+> Ensuite Afrasiab a fait pousser au pays d’Iran des cris de douleur par ses massacres, ses dévasta-A tions, ses combats et ses fureurs.
 >
 > Siawusch a livré sa tête parce qu’il croyait à tes serments et tu as donné sa vie au vent dans ta démence.
 >
@@ -54,7 +54,7 @@ Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de
 >
 > Maintenant te voici, ne perdons pas de temps ; nous allons moi et toi, malgré notre âge, nous mesurer sans nos armées.
 >
-> Choisis dans l’armée du Touran, et amène en face de mes héros avides de vengeance, des chefs expérimentés et armés d’épées, de lances et de lourdes massues ; ils lutteront, ils se combattront, ils s’extermineront les uns les autres.
+> Choisis dans l’armée du Touran et amène en face de mes héros avides de vengeance, des chefs expérimentés et armés d’épées, de lances et de lourdes massues ; ils lutteront, ils se combattront, ils s’extermineront les uns les autres.
 >
 > Exécute maintenant tout ce que tu m’as annoncé et ne manque pas à tes paroles et à tes promesses.»
 
@@ -62,9 +62,9 @@ Le Sipehdar des Turcs se mit à faire ses préparatifs ; il choisit dix cavalier
 
 Ils sortirent des rangs et s’avancèrent jusqu’à l’endroit où ils devaient se battre. endroit où les yeux des (leur armées ne pouvaient les atteindre ; c’est ainsi que les deux chefs avaient fixé les conditions du combat.
 
-A chaque cavalier touranien se trouvait opposé. un brave de l’Iran.
+À chaque cavalier touranien se trouvait opposé. un brave de l’Iran.
 
-Un plaça .
+Un plaça.
 
 Bb2 d’abord Guiv en face de Guerouî, tous les deux étant également forts et avides de combats.
 
@@ -84,7 +84,9 @@ KEl KIlOSBOU. [ d’où l’on pouvait voir tout autour ; l’une était du côt
 
 A leur pied s’étendait une plaine déserte, sur laquelle ceux qu’attendait la bonne et la mauvaise fortune devaient livrer combat.
 
-Gouderz dit à ses compagnons qui portaient haut la tête : Quiconque d’entre vous, ô héros pleins de fierté, aura abattu son vaillant adversaire, viendra, de si loin qu’il se trouve, porter son drapeau sur cette hauteur.»
+Gouderz dit à ses compagnons qui portaient haut la tête :
+
+> Quiconque d’entre vous, ô héros pleins de fierté, aura abattu son vaillant adversaire, viendra, de si loin qu’il se trouve, porter son drapeau sur cette hauteur.»
 
 Le Sipehdar Piran à son tour plaça son étendard sur l’autre colline et donna auxsiens des instructions semblables.
 
@@ -92,7 +94,7 @@ Ensuite les Iraniens descendirent dans la plaine, armés pour verser du sang et 
 
 Les braves et les grands du Touran arrivèrmt armés de massues, de flèches et d’épées damasquinées : on aurait cru que si une montagne venait s’opposerà eux, ils l’aplaniraient dans un instant ; mais leurs mains pendaient impuissantes, Dieu leur avait fermé la porte de la force ; ils se jetaient dans les lacs du malheur, car ils avaient versé beaucoup de sang innocent ; leurs chevaux de bataille s’arrêtaient, on eût dit qu’une main invisible retenait leurs pieds ; tout leur bonheur avait disparu, car leur temps était passé et leur sang bouillonnait d’inquiétude.
 
-Telle était la volonté du Créateur du monde ; tu aurais dit que la terre s’emparait de ces héros ; mais ils élaient si braves, que
+Telle était la volonté du Créateur du monde ; tu aurais dit que la terre s’emparait de ces héros ; mais ils étaient si braves, que
 
 5M malgré la fortune adverse ils combattirent pour le trône de leur roi, qu’ils livrèrent leurs têtes dans la bataille pour la royauté, qu’ils donnèrent leurs vies pour la gloire et le renom.
 
