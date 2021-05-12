@@ -16,7 +16,7 @@ Il fit écrire à Sam une lettre pleine de bonnes nouvelles, de saluts et de mes
 
 D’abord il s’étendit, dans sa lettre, sur les louanges du distributeur de la justice, qui a créé le monde, qui donne la joie et la force, qui est le maître de l’étoile du matin, de Mars et du soleil, maître de l’existence et maître du néant, le Dieu unique, dont. nous sommes tous les esclaves.
 
-Que ses bénédictions reposent sur Sam fils de Nériman, maître de la massue, de l’épée et du casque ; qui fait bondir son cheval noir au jour de la poussière, qui nourrit les vautours au jour du combat, qui fait redoubler le vent du champ de bataille et pleuvoir le sang du nuage noir, qui demande des couronnes et des ceintures d’or, qui place les rois sur leurs trônes d’or, qui par sa bravoure acquiert une gloire infinie , à qui ses prouesses l’ont porter haut la tête.
+Que ses bénédictions reposent sur Sam fils de Nériman, maître de la massue, de l’épée et du casque ; qui fait bondir son cheval noir au jour de la poussière, qui nourrit les vautours au jour du combat, qui fait redoubler le vent du champ de bataille et pleuvoir le sang du nuage noir, qui demande des couronnes et des ceintures d’or, qui place les rois sur leurs trônes d’or, qui par sa bravoure acquiert une gloire infinie, à qui ses prouesses l’ont porter haut la tête.
 
 Au jour du combat, il n’y a et il n’y aura pas de cavalier comparable à Sam fils de Nériman.
 
@@ -32,15 +32,13 @@ On m’appelait le fils de Sam, mais Sam était assis sur un trône et moi dans 
 
 Puisque les décrets de Dieu l’avaient ainsi ordonné, j’ai été obligé de marcher dans cette voie.
 
-Personne ne peut échapper à la volonté de Dieu. quand même il volerait et s’élèverait dans les airs ; quand même, dans sa bravoure, il broierait de ses dents le fer des lances, et que la peau du lion se fendrait à sa voix ; il faudra qu’il se soumette aux ordres de Dieu, quand même ses dents seraient des enclumes.
+Personne ne peut échapper à la volonté de Dieu. quand même il volerait et s’élèverait dans les airs ; quand même, dans sa bravoure, il broierait de ses dents le fer des lances et que la peau du lion se fendrait à sa voix ; il faudra qu’il se soumette aux ordres de Dieu, quand même ses dents seraient des enclumes.
 
-Il m’est arrivé une chose qui me. brise le cœur et qu’il m’est impos- 
-au;
-sible d’approuver à la face du peuple ; mais si mon père, est un brave et un dragon courageux, v veut exaucer la prière de son serviteur, tout ira bien.
+Il m’est arrivé une chose qui me. brise le cœur et qu’il m’est imposau ; sible d’approuver à la face du peuple ; mais si mon père, est un brave et un dragon courageux, v veut exaucer la prière de son serviteur, tout ira bien.
 
 Mou cœur s’est enflammé d’amour pour la fille de r Mihrab, j’ai été dévoré comme d’un feu ardent.
 
-Les astres sont mes compagnons dans la nuit sombre, et mon état est tel que mon sein ressemble mflot : 
+Les astres sont mes compagnons dans la nuit sombre et mon état est tel que mon sein ressemble mflot : 
 -de la mer.
 
 Je suis hors de moi par cette grande douleur et tout le peuple pleure sur moi.
@@ -92,8 +90,7 @@ Il répondit :
 
 > Si je lui dis : Cela ne se peut pas, ne l’ais pas naître la discorde, tourne-toi vers la sa-
 >
-> 
-gesse, alors je m’avilis devant Dieu et devant les hommes par mon manque de parole ; et si je dis : C’est bien !
+> gesse, alors je m’avilis devant Dieu et devant les hommes par mon manque de parole ; et si je dis : C’est bien !
 >
 > Ton désir est juste, satisfais la passion de ton cœur, alors quelle race naîtra de ce nourrisson de l’oiseau et de cette fille du Div?»
 
