@@ -10,7 +10,9 @@ order: '232'
 
 # Keï Khosrou donne une investiture à Thous
 
-Gouderz s’assit et Thous se leva, s’avança vers Khosrou, baisa la terre et dit : Ô roi, puisses-tu vivre éternellement !
+Gouderz s’assit et Thous se leva, s’avança vers Khosrou, baisa la terre et dit :
+
+> Ô roi, puisses-tu vivre éternellement !
 
 Puisse la main du malheur rester toujours loin de toi !
 
@@ -38,4 +40,6 @@ Ou mes hauts faits de-viendront-ils un objet de reproche pour moi?n Le roi lui r
 >
 > Ta part dans le monde est le Khorasan et les grands de ce pays auront soin de ta sécurité.»
 
-On écrivit un décret dans ce sens, devant les grands et les nobles, on y apposa un sceau d’or et le roi lui donna une chaîne d’or et une ceinture d’or, prononça bien des bénédictions sur lui, disant : Puisse un cœur ne jamais te haïr !
+On écrivit un décret dans ce sens, devant les grands et les nobles, on y apposa un sceau d’or et le roi lui donna une chaîne d’or et une ceinture d’or, prononça bien des bénédictions sur lui, disant :
+
+> Puisse un cœur ne jamais te haïr !
