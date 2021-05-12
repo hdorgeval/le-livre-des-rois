@@ -32,15 +32,17 @@ Le trucheman répondit aux Iraniens :
 
 > Le moment de se servir de l’épée et de la lourde massue est arrivé, car cet illustre guerrier au cœur
 >
-> KEÏ KHOSROU. ’ de lion vous défie au combat.
+> ’ de lion vous défie au combat.
 >
 > Son nom est Houman chef de la famille de Wiseh et il fait du cœur du lion le fourreau de son épée.»
 
 Lorsque les Iraniens virent sa massue, son armure et son port royal, leurs mains armées de lances s’abstinrent de combattre par respect pour ce héros.
 
-Ils reculèrent tous devant lui et se tournant vers le trucheman, lui dirent : Va parler à Houman, répètelui, en langue turque, toutes nos paroles ; dis-lui que nous ne voulons pas nous battre avec lui, que Gouderz ne nous en a pas donné la permission.
+Ils reculèrent tous devant lui et se tournant vers le trucheman, lui dirent :
 
-Si tu désires le combat, le chemin est libre pour te rendre auprès du glorieux Pehlewan de l’armée.»
+> Va parler à Houman, répètelui, en langue turque, toutes nos paroles ; dis-lui que nous ne voulons pas nous battre avec lui, que Gouderz ne nous en a pas donné la permission.
+>
+> Si tu désires le combat, le chemin est libre pour te rendre auprès du glorieux Pehlewan de l’armée.»
 
 Ils indiquèrent alors à Houman tous les chefs des héros qui portaient haut la tête ; ils lui montrèrent où se tenait chacun d’eux, petit ou grand et lui dirent qui commandait l’aile gauche et qui l’aile droite.
 
@@ -72,4 +74,4 @@ Rehham répondit :
 >
 > Demande pour nous à Gouderz la permission de nous mesurer avec toi et puis viens nous défier.»
 
-Houman repartit : Ne parle pas follement, ne cherche pas ainsi un pré- texte pour in’écliapper. l’rendsle chemin de la plaine pour te battre avec moi ; car n’es-tu pas un cavalier, et n’est-ce pas ici le champ de la vengeance?»
+Houman repartit : Ne parle pas follement, ne cherche pas ainsi un prétexte pour in’écliapper. l’rendsle chemin de la plaine pour te battre avec moi ; car n’es-tu pas un cavalier et n’est-ce pas ici le champ de la vengeance?»
