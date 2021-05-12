@@ -14,7 +14,9 @@ Le huitième des héros qui devaient combattre, Zengueh fils de Schaweran, s’a
 
 Aukhast et Zengueh fils de Schaweran prirent tous deux leur lourde massue : ils se combattirent à outrance, ils s’assenèreut tant de coups qu’ils en furent bientôt épuisés ; leurs chevaux de bataille ne pouvaient plus se mouvoir ; on eût dit que la vie ne faisait plus battre dans leur corps une seule artère ; le soleil brillant, qui accomplissait son cours à travers le firmament, échauffait la plaine comme il échouierait une plaque de fer ; les deux combattants étaient si fatigués qu’on eût dit qu’aucun d’eux ne pourrait plus remuer un pied.
 
-Alors ils s’adressèrent la parole, disant : La chaleur nous brûle le foie ; il faut nous reposer et reprendre haleine ; ensuite nous recommencerons le combat.»
+Alors ils s’adressèrent la parole, disant :
+
+> La chaleur nous brûle le foie ; il faut nous reposer et reprendre haleine ; ensuite nous recommencerons le combat.»
 
 Ils se séparèrent, conduisirent leurs chevaux à l’écart et leur mirent des entraves aux pieds.
 
@@ -24,6 +26,10 @@ Aukhast, armé de sa lance, courut à cheval, rapide comme la flamme, au centre 
 
 Aukhast poussa un cri de douleur comme un éclat de m. [[0 tonnerre ; on eût dit que la terre se fendait.
 
-Zengueh descendit de cheval, s’approcha de lui, le traîna le visage en bas sur la poussière noire ; ensuite il le souleva adroitement de terre, le jeta sur la selle de son cheval, y monta lui-même et prit le chemin de la colline. Ô merveille !
+Zengueh descendit de cheval, s’approcha de lui, le traîna le visage en bas sur la poussière noire ; ensuite il le souleva adroitement de terre, le jeta sur la selle de son cheval, y monta lui-même et prit le chemin de la colline.
 
-Que de maux la fortune accumulait sur les Turcs l Zengueh monta de la plaine sur la colline fortunée, tenant dans la main son drapeau à figure de loup, qu’il planta devant ses amis en invoquant les grâces de Dieu sur le roi et sur le Pehlewan du monde.
+Ô merveille !
+
+Que de maux la fortune accumulait sur les Turcs !
+
+Zengueh monta de la plaine sur la colline fortunée, tenant dans la main son drapeau à figure de loup, qu’il planta devant ses amis en invoquant les grâces de Dieu sur le roi et sur le Pehlewan du monde.
