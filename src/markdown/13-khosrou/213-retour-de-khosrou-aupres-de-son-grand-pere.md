@@ -22,23 +22,29 @@ Keï Kaous sortit de la ville avec les héros aux traces fortunées ; le jeune r
 
 Tous les deux versèrent des larmes amères d’avoir vécu si longtemps presque sans espoir de se revoir.
 
-Keï Kaous célébra les louanges de ce prince heureux, dont les traces étaient fortunées, disant : Puissent le monde, le trône du pouvoir et la place des rois n’être jamais privés de KEÏ KHOSBOU. toi !
+Keï Kaous célébra les louanges de ce prince heureux, dont les traces étaient fortunées, disant :
 
-Jamais le soleil n’a vu un prince comme toi, ni une cuirasse, ou un cheval, ou un casque comme w les tiens.
-
-Le ciel et la terre n’ont pas vu une royauté comme la tienne depuis que le pouvoir est descendu de Djemschid àFeridoun.
-
-Aucun prince n’a supporté autant de fatigues et n’a vu comme toi tout ce qui est connu et ce qui est secret sur la terre.
-
-Puisses-tu rendre heureux le monde brillant !
-
-Puissent le cœur et l’âme de ton ennemi périrI Puisse Siawusch revenir, fût-ce pour un seul jour !
-
-Ta gloire comblerait tous ses vœux.»
+> Puissent le monde, le trône du pouvoir et la place des rois n’être jamais privés de toi !
+>
+> Jamais le soleil n’a vu un prince comme toi, ni une cuirasse, ou un cheval, ou un casque comme w les tiens.
+>
+> Le ciel et la terre n’ont pas vu une royauté comme la tienne depuis que le pouvoir est descendu de Djemschid àFeridoun.
+>
+> Aucun prince n’a supporté autant de fatigues et n’a vu comme toi tout ce qui est connu et ce qui est secret sur la terre.
+>
+> Puisses-tu rendre heureux le monde brillant !
+>
+> Puissent le cœur et l’âme de ton ennemi périrI Puisse Siawusch revenir, fût-ce pour un seul jour !
+>
+> Ta gloire comblerait tous ses vœux.»
 
 Le prince lui répondit :
 
-> Tout cela est dû à ta fortune ; une branche de ton arbre a porté fruit. n Le grand-père baisa Khosrou sur la tête et sur les lèvres, disant : Puisses-tu ne jamais me quitter, ni jour ni nuit !
+> Tout cela est dû à ta fortune ; une branche de ton arbre a porté fruit.»
+
+Le grand-père baisa Khosrou sur la tête et sur les lèvres, disant :
+
+> Puisses-tu ne jamais me quitter, ni jour ni nuit !
 
 A Khosrou fit apporter des chrysoprases, des rubis. et des pièces d’or et les versa sur la tête du roi, jusqu’à ce que cette offrande couvrît entièrement les pieds du trône incrusté de pierres fines.
 
@@ -46,7 +52,7 @@ Kaous fit entrer la cour et placer des tables dans une autre salle ; et les gran
 
 Le jeune roi raconta les merveilles qu’il avait vues sur mer et celles que ses grands lui avaient racontées.
 
-Il parla de la mer et de Gangue Diz et à ses récits’les héros soupiraient après cette belle ville, ces plaines et ces vallées, ces prairies et ces jardins brillants comme des lampes. il:
+Il parla de la mer et de Gangue Diz et à ses récits’les héros soupiraient après cette belle ville, ces plaines et ces vallées, ces prairies et ces jardins brillants comme des lampes. il :
 
 A Keï Kaous resta dans l’admiration de son petitfils et commença à comprendre la grandeur de ses actions ; il lui dit . :
 
@@ -69,19 +75,19 @@ Ensuite le roi s’occupa des troupes et leur distribua la solde d’une année.
 
 Alors le grand-père et le roi qui ambitionnait la possession du monde s’assirent seuls pour tenir conseil.
 
-Khosrou dit au roi Kaous:A qui pouvons- nous demander la direction si ce n’est au Créateur?
+Khosrou dit au roi Kaous : À qui pouvons-nous demander la direction si ce n’est au Créateur ?
 
-Moi et mon armée avons parcouru, le cœur blessé, les déserts, les montagnes et une mer qui exige une année de traversée ; mais nous n’avons trouvé
+Moi et mon armée avons parcouru, le cœur blessé, les déserts, les montagnes et une mer qui exige une année de traversée ; mais nous n’avons trouvé aucune trace d’Afrasiab, ni dans les plaines, ni dans les montagnes,’ ni sur l’eau.
 
-KEÏ KHOSROU. aucune trace d’Afrasiab, ni dans les plaines, ni dans les montagnes,’ ni sur l’eau.
+S’il parvient pour un moment à rentrer à Gangue, une armée se rassemblera autour de lui à l’instant de tous les côtés et nous aurons devant nous les mêmes travaux et les mêmes fatigues, quand même Dieu nous donnerait la victoire.»
 
-S’il parvient pour un moment à rentrer à Gangue, une armée se rassemblera autour de lui à l’instant de tous les côtés et nous aurons devant nous les mêmes tra- vaux et les mêmes fatigues, quand même Dieu nous donnerait la victoire.»
+Le grand-père répondit à son petit-fils par un sage conseil de vieillard, disant :
 
-Le grand-père répondit à son petit-fils par un sage conseil de vieillard, disant : Courons nous deux à cheval au temple d’Adergouschasp.
-
-Nous laverons nos têtes et nos corps, nos pieds et nos mains, comme c’est la coutume des hommes qui adorent Dieu.
-
-Nous offrirons en secret nos hommages à Dieu en murmurant des prières : Nous nous tiendrons debout devant le feu, avec l’espoir que Dieu le très-saint nous guidera et que celui qui montre le chemin de la justice nous indiquera la route qui conduit au lieu de refuge d’Afrasiab. »
+> Courons nous deux à cheval au temple d’Adergouschasp.
+>
+> Nous laverons nos têtes et nos corps, nos pieds et nos mains, comme c’est la coutume des hommes qui adorent Dieu.
+>
+> Nous offrirons en secret nos hommages à Dieu en murmurant des prières : Nous nous tiendrons debout devant le feu, avec l’espoir que Dieu le très-saint nous guidera et que celui qui montre le chemin de la justice nous indiquera la route qui conduit au lieu de refuge d’Afrasiab. »
 
 Ils convinrent de ce plan et ils l’exécutèrent sans se détourner du chemin droit.
 
