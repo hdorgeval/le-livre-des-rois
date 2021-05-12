@@ -17,7 +17,7 @@ une lettre a son grand-père, remplie du récit de FEBIDOUN : ses combats, de se
 
 Il célébra d’abord les louanges du Créateur, puis celles du roi illustre : Adoration au maître du monde qui donne la victoire !
 
-C’est de lui que vient la force du corps et de l’esprit ; tout ce qui est hon et tout ce qui est mauvais, est sous son pouvoir ; toutes les douleurs cèdent à ses remèdes.
+C’est de lui que vient la force du corps et de l’esprit ; tout ce qui est bon et tout ce qui est mauvais, est sous son pouvoir ; toutes les douleurs cèdent à ses remèdes.
 
 Qu’il répande ses grâces sur Feridoun, le sage, le prudent roi de la terre, qui brise les chaînes du mal, sur qui reposent la sagesse et la majesté .de Dieu.
 
@@ -27,7 +27,7 @@ Je suivrai cette lettre, rapide comme le vent ; je viendrai auprès de toi pour 
 
 Ensuite il envoya à la forteresse Schiroui, plein d’expérience et d’ambition ; il lui ordonna d’examiner le butin, d’en avoir soin et de faire avec prudence ce qu’il fallait, puis de placer ces richesses sur le dos des éléphants portant haut la tête et de les amener à la cour du roi en bon ordre ; ensuite il fit sortir de la cour des tentes royales les timbales d’airain et les trompettes et conduisit son armée du bord de la mer dans le désert et du désert vers la cour de Feridoun.
 
-Comme il s’approchait de Temmischeh, son grandpère fut impatient de le voir.
+Comme il s’approchait de Temmischeh, son grand-père fut impatient de le voir.
 
 Le bruit des trompettes s’éleva du château et toute l’armée s’ébranle.
 
