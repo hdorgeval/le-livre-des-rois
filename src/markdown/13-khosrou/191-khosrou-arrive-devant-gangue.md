@@ -12,9 +12,11 @@ order: '191'
 
 Dans la troisième marche Keï Khosrou arriva devant Gangue ; il entendit le bruit des flûtes et le son des harpes et sourit ; il fit le tour des fortifications et resta comme de ce changement de la fortune, se disant :
 
-> Celui qui a construit ces murs ne l’a pas fait pour résister à des ennemis et au malheur ; mais lors qu’il eut versé le sang du roi de l’Iran, il s’est réfugié dans ces murs devant nous. n Il regarda avec étonnement cette ville ; il la vit semblable à la sphère céleste qui réjouit le cœur.
+> Celui qui a construit ces murs ne l’a pas fait pour résister à des ennemis et au malheur ; mais lors qu’il eut versé le sang du roi de l’Iran, il s’est réfugié dans ces murs devant nous.»
 
-Il dit à Bustem :
+Il regarda avec étonnement cette ville ; il la vit semblable à la sphère céleste qui réjouit le cœur.
+
+Il dit à Rustem :
 
 > Ô Pehlewan !
 >
@@ -24,7 +26,7 @@ Il dit à Bustem :
 >
 > Si je ne rendais pas grâces à Dieu, je ne mériterais pas de dormir dans la nuit, car c’est lui qui donne la victoire et la domination ; c’est lui qui a créé le soleil et la lune.»
 
-D’un côté la ville était adossée à une montagne, et là elle était garantie contre toute attaque ; de l’autre côté coulait un fleuve qui réjouissait l’âme des hommes.
+D’un côté la ville était adossée à une montagne et là elle était garantie contre toute attaque ; de l’autre côté coulait un fleuve qui réjouissait l’âme des hommes.
 
 On dressa sur toute la plaine les enceintes KEI KHOSROU des tentes, on planta le drapeau des Keïanides ; l’armée occupa un espace de sept farsangs et toute la terre se soumit à elle.
 
@@ -32,7 +34,7 @@ Rustem plaça son camp ’ à droite et demanda au roi, maître de la terre, le 
 
 La nuit vint ; de tous côtés on entendit des clameurs ; le monde se remplit de luttes et de bruit ; le cœur de la terre bondit du son de tant de clairons, de trompettes et de fifres.
 
-Lorque le soleil envoya ses rayons de la voûte du ciel et qu’il eut déchiré le voile noir du monde, le roi s’assit sur son cheval couleur de nuit et fit le tour de l’armée ; il dit à Bustem au corps d’éléphant :
+Lorque le soleil envoya ses rayons de la voûte du ciel et qu’il eut déchiré le voile noir du monde, le roi s’assit sur son cheval couleur de nuit et fit le tour de l’armée ; il dit à Rustem au corps d’éléphant :
 
 > 0
 > mon ami, chef de l’armée !
@@ -52,12 +54,18 @@ Lorque le soleil envoya ses rayons de la voûte du ciel et qu’il eut déchiré
 >
 > Rappelons-nous les paroles de Kaous ; portons toutes les forces de nos âmes à fairejuslice.
 >
-> Il a dit : cette vengeance , avec toutes ses ramifications, ne sera jamais recouverte par la rouille et la poussière des temps ; une génération après l’autre périra, jusqu’à ce que cent fois soixante ans soient passés.
+> Il a dit :
+
+> cette vengeance, avec toutes ses ramifications, ne sera jamais recouverte par la rouille et la poussière des temps ; une génération après l’autre périra, jusqu’à ce que cent fois soixante ans soient passés.
 >
 > Ce sera comme un arbre qui pousse toujours des feuilles vertes ; et, dans cette vengeance des rois, le cœur ne tremblera pas (levant la mort.
 >
 > Le père passera, mais la vengeance restera et le fils deviendra le guide qui transmettra cette douleur à un autre.»
 
-Les grands lui rendirent hommage ; ils l’appelèrent le roi à la foi sainte, disant z Puisses-tu terminer la vengeance de ton père !
+Les grands lui rendirent hommage ; ils l’appelèrent le roi à la foi sainte, disant :
 
-Puisses-tu être toujours heureux et toujours victorieux l n
+> Puisses-tu terminer la vengeance de ton père !
+>
+> Puisses-tu être toujours heureux et toujours victorieux !
+>
+> N
