@@ -12,7 +12,7 @@ order: '193'
 
 Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui dit :
 
-> Ô toi qui recherches le combat, j’ai écouté tes paroles du com- mencement à la fin.
+> Ô toi qui recherches le combat, j’ai écouté tes paroles du commencement à la fin.
 >
 > D’abord, quant aux souhaits que tu as faits pour moi, puissent-ils se vérifier pour mon trône, ma couronne et mon sceau !
 >
@@ -20,7 +20,7 @@ Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui di
 >
 > Quoique tu aies la parole séduisante, tu n’es pas pur de cœur, ni un vrai serviteur de Dieu.
 >
-> Quand on est puissant par l’esprit, il fau- drait que les actions valussent encore mieux que les discours.
+> Quand on est puissant par l’esprit, il fau-drait que les actions valussent encore mieux que les discours.
 >
 > Feridoun, le bienheureux, n’est pas devenu un astre et son corps n’a pas quitté la terre noire et tu dis que je m’élève au-dessus du ciel ; tu as donc renoncé à toute pudeur ?
 >
@@ -50,7 +50,7 @@ Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui di
 >
 > Ensuite pense à ce que Siawusch a fait dans sa droiture et ce qu’il a soull’ertde maux et de privations. il t’a choisi dans le monde entier comme son refuge, comme il convevenait à un brave ; il a abandonné pour toi le trône et la couronne, il est venu et t’a salué comme roi de la terre.
 >
-> Il a agi de bonne foi et a renvoyé son cortége pour que tu ne l’accuses pas de perfidie.
+> Il a agi de bonne foi et a renvoyé son cortège pour que tu ne l’accuses pas de perfidie.
 >
 > Lorsque tu as vu sa poitrine et son nombril, sa puissance, sa bravoure et ses manières, ta mauvaise nature s’est émue et tu as tué cet homme au cœur pur ; tu as coupé cette noble tête qui portait une couronne, comme si c’était une tête de menton.
 >
@@ -62,19 +62,19 @@ Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui di
 >
 > Si l’on voulait compter les méfaits, on dépasserait le nombre des rotations du ciel ; tu es un rejeton envoyé de l’enfer, ne dis pas que tu es de naissance humaine.
 >
-> KEÏ KHOSBOU. se Ensuite tu dis que le maudit Div a leurné ton r cœur et la volonté vers le mal ; c’est ainsi que Zohak et Djemschid, lorsqu’ils ont renoncé à la vertu, ont dit qu’lblis a jeté leur âme hors de la voie, et les a rendus impuissants pour le bien.
+> se Ensuite tu dis que le maudit Div a leurné ton r cœur et la volonté vers le mal ; c’est ainsi que Zohak et Djemschid, lorsqu’ils ont renoncé à la vertu, ont dit qu’lblis a jeté leur âme hors de la voie et les a rendus impuissants pour le bien.
 >
 > Mais le malheur ne les a pas abandonnés, à cause de leur mauvaise nature et des conseils de leur maître le Div.
 >
 > Quiconque détourne sa tête de la voie droite finira par être courbé et affaibli.
 >
-> Encore, dans le combat contre Peschen, où l’i- ran a tué tant de cavaliers, la terre a été rougie par le sang des fils de Gouderz, car tu ne cherches qu’à faire de la peine et ne suis que la voie du u mal.
+> Encore, dans le combat contre Peschen, où l’iran a tué tant de cavaliers, la terre a été rougie par le sang des fils de Gouderz, car tu ne cherches qu’à faire de la peine et ne suis que la voie du u mal.
 >
-> Et maintenant tu es venu avec mille fois mille cavaliers turcs prêts pour la bataille, tu as amené ton armée à Amouï pour me combattre, et Pescheng s’est présenté devant moi ; tu l’as envoyé pour qu’il me tranchât la tête et ensuite tu serais parti pour dévaster mon pays.
+> Et maintenant tu es venu avec mille fois mille cavaliers turcs prêts pour la bataille, tu as amené ton armée à Amouï pour me combattre et Pescheng s’est présenté devant moi ; tu l’as envoyé pour qu’il me tranchât la tête et ensuite tu serais parti pour dévaster mon pays.
 >
 > Mais Dieu, le maître du monde, m’est venu en aide et a abaiSsé la fortuue de mes ennemis.
 >
-> Dis-moi à présent si mon cœur pourrait se réjouir de ton bonheur, si je pour- rais être heureux de te voir sur le trône ?
+> Dis-moi à présent si mon cœur pourrait se réjouir de ton bonheur, si je pourrais être heureux de te voir sur le trône ?
 >
 > Réfléchis dans quels termes je dois parler de tes actions quand je veux être sincère ?
 >
@@ -82,7 +82,7 @@ Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui di
 >
 > Je lutterai contre toi avec toute la ce puissance de mes trésors et de mes armées, à l’aide de ma bonne étoile et de la rotation du soleil et de la lune ; je me tiendrai humblement devant Dieu, a je ne demanderai d’autre guide que lui, dans l’espoir d’arracher les mauvaises herbes du jardin. de et rajeunir le monde par la justice et la générosité, de détruire mes ennemis et d’ôter le diadème aux méchants.
 >
-> Répète à mon grandpère toutes mes par : roles et qu’il ne cherche pas un prétexte pour éviter une lutte pareille.»
+> Répète à mon grand-père toutes mes par : roles et qu’il ne cherche pas un prétexte pour éviter une lutte pareille.»
 
 Il donna à Djehn une couronne incrustée de chrysoprases, un collier d’or et deux boucles d’oreilles.
 
