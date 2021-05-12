@@ -20,7 +20,7 @@ Je passe à la question relative aux deux chevaux brillants comme Adergueschasp,
 
 Course rapide.
 
-C’est le jour et la nuit qui passent, et qui comptent les pulsations du ciel tau-dessus de nous.
+C’est le jour et la nuit qui passent et qui comptent les pulsations du ciel tau-dessus de nous.
 
 Ils courent comme une bête fauve devant les chiens, sans que l’un gagne jamais l’autre de vitesse. ËEnsuite tu as parlé de trente cavaliers qui passent devant le roi et dont il manque un, mais qui de nouveau sont complets, quand tu les recomptes.
 
@@ -34,13 +34,13 @@ Les deux cyprès sont, les deux côtés du ciel sublime, d’où nous viennent l
 
 Enfin la ville située sur la montagne est le monde éternel et le lieu où l’on rend compte de sa vie ; le hallier est ce monde transitoire, lieu de plaisirs et de peines. de richesse et de travail ; c’est celui-ci qui compte les moments de ta vie et qui tantôt en prolonge la durée, tantôt en tranche le cours.
 
-Il s’élèvera un vent accom- pagné d’un tremblement de terre et le monde se remplira de bruit et de cris de douleur.
+Il s’élèvera un vent accompagné d’un tremblement de terre et le monde se remplira de bruit et de cris de douleur.
 
 Il nous faudra alors laisser tous nos travaux dans le hallier et nous élever vers la ville haute.
 
 Un autre jouira des fruits de nos peines et lui aussi ne restera pas, mais passera.
 
-Il en a été ainsi dès le commencement, il en sera toujours de même et cette vérité ne vieillira pas : si notre bagage consiste dans un bon renom, notre esprit sera envi- ronné de gloire par cette fin.
+Il en a été ainsi dès le commencement, il en sera toujours de même et cette vérité ne vieillira pas : si notre bagage consiste dans un bon renom, notre esprit sera environné de gloire par cette fin.
 
 Mais si nous sommes avides de gain et pervers, cela paraîtra quand la vie nous aura quittés ; et quand même notre palais s’élèverait jusqu’à Saturne, il ne nous restera qu’un linceul.
 
@@ -50,4 +50,4 @@ A l’égard du désert et de l’homme à la. faux aiguë, qui fait trembler ce
 
 Il ne fait pas de distinction entre le grand-père et le petit-fils, il ne regarde ni l’âge ni la jeunesSe, il abat toute proie qu’il rencontre ; telle est la loi et la condition de ce monde, que personne n’est enfanté par sa mère que pour. mourir.
 
-Il entre par cette porte, et sort par cette autre et le nombre de ses respirations lui est compté par le sort.»
+Il entre par cette porte et sort par cette autre et le nombre de ses respirations lui est compté par le sort.»
