@@ -14,13 +14,13 @@ Une nuit Sam dormait, le cœur navré et fatigué des affaires de ce monde.
 
 Il vit en songe un homme qui venait sur un cheval arabe du côté de l’Hindostan ; c’était un cavalier fier et un parfait héros.
 
-Ce cavalier s’avança jusqu’à ce qu’il eût atteint Sam, et il lui donna des nouvelles de son fils, de cette bran-
+Ce cavalier s’avança jusqu’à ce qu’il eût atteint Sam et il lui donna des nouvelles de son fils, de cette bran-
 
 Che haute et fertile de luivmême.
 
 Sam, aussitôt qu’il fut réveillé, appela les Mobeds et leur parla longuement de cette affaire et leur raconta le rêve qu’il avait eu et en outre tout ce que les caravanes lui avaient rapporté.
 
-Que direz-vous de cette histoire, et votre esprit peut-il déterminer si cet enfant est encore en vie, ou s’il a péri par le froid du mois de Mihr ou par la chaleur du mois de Temouz?»
+Que direz-vous de cette histoire et votre esprit peut-il déterminer si cet enfant est encore en vie, ou s’il a péri par le froid du mois de Mihr ou par la chaleur du mois de Temouz?»
 
 Tous, jeunes et vieux, ouvrirent la bouche, se tournant vers le héros et dirent : Quiconque n’est pas reconnaissant envers Dieu, ne connaîtra jamais le bonheur.
 
@@ -44,7 +44,7 @@ Un beau jeune homme parut, suivi d’une grande armée.
 
 A sa gauche se tenait un Mobed, à sa droite un sage de grand renom.
 
-Un de ces deux hommes s’avança vers Sam et lui parla avec sévérité : Ô homme impur et sans crainte de Dieu, as-tu donc dépouillé toute honte devant le maître du monde?
+Un de ces deux hommes s’avança vers Sam et lui parla avec sévérité : Ô homme impur et sans crainte de Dieu, as-tu donc dépouillé toute honte devant le maître du monde ?
 
 Si un oiseau te convient pour nourrice de ton fila, à quoi te sert ta haute dignité ?
 
@@ -114,15 +114,14 @@ Sa parole, son esprit et son jugement étaient droits ; c’était à Dieu seul 
 
 > Tu es donc fatigué de ma com-
 >
-> 
-1
+> 1
 pagnie ; ton nid est pour moi un trône brillant, tes se deux ailes sont pourmoi un diadème glorieux.
 >
 > Après le Créateur, c’est toi à qui je dois le plus de reconnaissance, car tu as adouci mon sort malheureux.»
 
 Le Simurgh lui répondit :
 
-> Quand tu auras vu un trône et une couronne et la pompe du diadème des Keïanides, peut-être qu’alors ce’nid ne te convien- dra plus ; essaye le monde.
+> Quand tu auras vu un trône et une couronne et la pompe du diadème des Keïanides, peut-être qu’alors ce’nid ne te conviendra plus ; essaye le monde.
 >
 > Ce n’est pas par inimitié que je t’éloigne, c’est sur un trône que je te porte.
 >
@@ -138,7 +137,7 @@ Il le consola ainsi et le souleva, il l’éleva dans les airs en tournant et le
 
 Les cheveux de Destan lui tombaient jusqu’au-dessous de la poitrine ; son corps était comme celui d’un éléphant, ses joues comme une peinture.
 
-Lorsque son père le vit, il poussa un soupir douloureux ; il baissa aussitôt la tête devant le Simurgh et le couvrit de ses bénédic- tions.
+Lorsque son père le vit, il poussa un soupir douloureux ; il baissa aussitôt la tête devant le Simurgh et le couvrit de ses bénédictions.
 
 O roi des oiseaux, le Créateur t’a donné de la force, de la puissance et de la vertu, parce que tu es le sauveur des malheureux, parce que, en fait de bonté, tu es supérieur à tous les juges.
 
@@ -154,7 +153,7 @@ Il n’avait aucun défaut, excepté ses cheveux ; on ne pouvait découvrir en l
 
 Le cœur de Sam devint comme le paradis sublime et il bénit son enfant innocent : Ô mon fils, dit-il, adoucis ton cœur envers moi, oublie ce qui s’est passé et accorde-moi ton amour.
 
-Je suis le dernier des es- claves adorateurs de Dieu et puisque je t’ai retrouvé, je promets devant Dieu le tout-puissant que jamais mon cœur ne sera plus dur pour toi.
+Je suis le dernier des esclaves adorateurs de Dieu et puisque je t’ai retrouvé, je promets devant Dieu le tout-puissant que jamais mon cœur ne sera plus dur pour toi.
 
 Je chercherai à faire tout ce que tu souhaiteras en bien ou en mal et dorénavant tout ce que tu désireras sera un devoir pour moi.»
 
@@ -162,7 +161,7 @@ Il l’habilla d’une tunique digne d’un Pehlewan et quitta la montagne ; il 
 
 Une robe dont un roi pût se vêtir ; puis il lui donna le nom de Zalzer, comme le Simurgh lui avait donné celui de Destan.
 
-Toute l’armée s’assembla devant Sam , le cœur ouvert et en joie ; des timbaliers assis sur des éléphants les précédaient et la poussière s’élevait comme une montagne bleue.
+Toute l’armée s’assembla devant Sam, le cœur ouvert et en joie ; des timbaliers assis sur des éléphants les précédaient et la poussière s’élevait comme une montagne bleue.
 
 Les tambours battaient et les timbales d’airain, les sonnettes d’or et les clochettes indiennes résonnaient.
 
