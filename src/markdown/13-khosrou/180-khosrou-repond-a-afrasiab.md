@@ -12,54 +12,60 @@ order: '180'
 
 Khosrou écouta les paroles de Karen, il se rappela ce qui s’était passé autrefois et se mit à rire de la tentative de son grand-père et de la manière dont il cherchait à ruser et ale duper.
 
-Ensuite il dit : Almsiab se repent d’avoir passé le fleuve.
+Ensuite il dit :
 
-Ses yeux débordent de larmes et ses lèvres sont pleines de paroles ; mais mon cœur est gros d’anciennes douh.
+> Almsiab se repent d’avoir passé le fleuve.
+>
+> Ses yeux débordent de larmes et ses lèvres sont pleines de paroles ; mais mon cœur est gros d’anciennes douh.
+>
+> I LE LlVIlItii leurs.
+>
+> Il essaye maintenant de me faire trembler, de m’ell’rayer par la supériorité de son armée ; mais il ne sait pas que le ciel tout-puissant tourne, au jour du malheur, sans obéir à l’ordre de personne.
+>
+> Maintenant, ce qui me reste. à faire, c’est de m’avancer contre lui, le cœur rempli de haine.
+>
+> Je me mesurerai avec lui dans le combat, je ne chercherai pas de délai au moment de la luttesn Tous les sages et tous les grands de l’armée dirent d’une seule voix : Ce dessein n’est pas raisonnable.
+>
+> Al’rasiab, qui est un homme d’expérience et de sagesse, ne rêve que des expédients ; il ne connaît que la fraude et les arts magiques, que la tromperie, la haine et la méchanceté.
+>
+> Il a maintenant choisi dans son armée Schideh, parce qu’il a vu enlui une clef pour ouvrir la porte du malheur et il proroque au combat le roi de l’Iran, pour remplir nos jours de douleur.
+>
+> Ne méprise pas sa vieillesse, ne mets pas en danger l’Iran et ton trône.
+>
+> Si c’est Schideh qui combat le roi, il nous fera pâlir d’inquiétude ; car si Schideh tombe de ta main, ce n’est qu’un grand de moins dans cette armée : mais si tu t’éloignes de nous et si tu es tué, tout l’Iran périra ; aucun de nous ne restera en vie ; aucune ville, aucune province de l’Iran ne seront sauvées ; car nous n’avons personne de la race des Keïanides qui puisse s’armer pour te venger.
+>
+> Ton grand-père est un vieillard plein d’expérience, il est aimé dans
+>
+> KEÎ KHosnou. le Touran et en Chine ; il demande pardon’du mal qu’il a fait et ne veut combattre que quand il ne lui restera plus d’autre ressource ; il oll’rc de tirer de ses trésors et de te remettre les richesses, les che. vaux, l’argent que Tour a amassés pour Zadschem et les trônes d’or, les couronnes, les ceintures d’or et les lourdes massues des grands, pour racheter les crimes qui lui pèsent ; il oll’re de faire quitter aux Turcs toutes les villes que tu réclames pour l’Iran.
+>
+> Bentrons donc dans l’Iran victorieux et contents et oublions ce qui s’est passé autrefois.»
 
-I LE LlVIlItiiDES ROIS. leurs.
+C’est ainsi qu’ils parlèrent tous, vieux et jeunes, excepté Rustem, l’illustre Pehlewan, qui détournait la tête de la paix et dont le cœur désirait venger Siawusch.
 
-Il essaye maintenant de me faire trembler, de m’ell’rayer par la supériorité de son armée ; mais il ne sait pas que le ciel tout-puissant tourne, au jour du malheur, sans obéir à l’ordre de personne.
+Le roi se mordit les lèvres et jeta un regard sombre surles grands ; ensuite il dit :
 
-Maintenant, ce qui me reste. à faire, c’est de m’avancer contre lui, le cœur rempli de haine.
-
-Je me mesurerai avec lui dans le combat, je ne chercherai pas de délai au moment de. la luttesn Tous les sages et tous les grands de l’armée dirent d’une seule voix : Ce dessein n’est pas raisonnable.
-
-Al’rasiab, qui est un homme d’expérience et de sagesse, ne rêve que des expédients ; il ne connaît que la fraude et les arts magiques, que la tromperie, la haine et la méchanceté.
-
-Il a maintenant choisi dans son armée Schideh, parce qu’il a vu enlui une clef pour ouvrir la porte du malheur et il pro- roque au combat le roi de l’Iran, pour remplir nos jours de douleur.
-
-Ne méprise pas sa vieillesse, ne mets pas en danger l’Iran et ton trône.
-
-Si c’est Schideh qui combat le roi, il nous fera pâlir d’inquiétude ; car si Schideh tombe de ta main, ce n’est qu’un grand de moins dans cette armée : mais si tu t’éloignes de nous et si tu es tué, tout l’Iran périra ; aucun de nous ne restera en vie ; aucune ville, aucune province de l’Iran ne seront sauvées ; car nous n’avons personne de la race des Keïanides qui puisse s’armer pour te venger.
-
-Ton grand-père est un vieillard plein d’expérience, il est aimé dans
-
-KEÎ KHosnou. le Touran et en Chine ; il demande pardon’du mal qu’il a fait et ne veut combattre que quand il ne lui restera plus d’autre ressource ; il oll’rc de tirer de ses trésors et de te remettre les richesses, les che. vaux, l’argent que Tour a amassés pour Zadschem, et les trônes d’or, les couronnes, les ceintures d’or et les lourdes massues des grands, pour racheter les crimes qui lui pèsent ; il oll’re de faire quitter aux Turcs toutes les villes que tu réclames pour l’Iran.
-
-Bentrons donc dans l’Iran victorieux et contents et oublions ce qui s’est passé autrefois.»
-
-C’est ainsi qu’ils parlèrent tous, vieux et jeunes, excepté Bustem, l’illustre Pehlewan, qui détournait la tête de la paix et. dont le cœur désirait venger Siawusch.
-
-Le roi se mordit les lèvres et jeta un regard sombre surles grands ; ensuite il dit : Nous ne devons pas quitter ce champ de bataille pour rentrer dans l’Iran.
-
-Où sont donc les combats que nous devions livrer, les serments que nous avons faite, les caisses d’or et les prisonniers que nous voulions prendre, les chaînes que nous avons préparées ?
-
-Comment nous excuserions-nous devant Kaous, comment oserions-nous paraître devant lui, si Alrasiab resle en vie et sur son trône comme maître du monde. pendant que l’Iran est dévasté ?
-
-Saistu quel crime a commis Tour contre lredj le fortuné,
+> Nous ne devons pas quitter ce champ de bataille pour rentrer dans l’Iran.
+>
+> Où sont donc les combats que nous devions livrer, les serments que nous avons faite, les caisses d’or et les prisonniers que nous voulions prendre, les chaînes que nous avons préparées ?
+>
+> Comment nous excuserions-nous devant Kaous, comment oserions-nous paraître devant lui, si Alrasiab resle en vie et sur son trône comme maître du monde. pendant que l’Iran est dévasté ?
+>
+> Saistu quel crime a commis Tour contre Iredj le fortuné,
 æ pour lui ravir sa couronne et son trône et ce qu’A-l’rasiab a fait soull’rir à Newder ?
+>
+> Puisse-t-il n’être jamais heureux, même en songe !
+>
+> Ensuite Al’rasiab sa tué l’innocent Siawusch, pour s’emparer de ses trésors, de son trône et de son diadème.
+>
+> Maintenant un Turc rusé de cette cour se présente devant nous et demande à me combattre ; pourquoi pâlis-’ sez-vous ?
+>
+> Cela m’étonne de votre part et mon ancien désir de vengeance s’en accroît encore.
+>
+> Jamais je n’aurais cru que les Iraniens reculeraient devant cette guerre.
+>
+> Je ne vois dans l’armée de l’Iran que Ilustem, mon ami, le héros au cœur droit, qui se hâte d’accepter le combat lorsque Afrasiab le fourbe nous l’oll’re.»
 
-Puisse-t-il n’être LE LIVRE DES BUIS. jamais heureux, même en songe !
-
-Ensuite Al’rasiab sa tué l’innocent Siawusch, pour s’emparer de ses trésors, de son trône et de son diadème.
-
-Maintenant un Turc rusé de cette cour se présente devant nous et demande à me combattre ; pourquoi pâlis-’ sez-vous ?
-
-Cela m’étonne de votre part et mon ancien désir de vengeance s’en accroît encore.
-
-Jamais je n’aurais cru que les Iraniens reculeraient devant cette guerre.
-
-Je ne vois dans l’armée de l’Iran que Ilustem, mon ami, le héros au cœur droit, qui se hâte d’accepter le combat lorsque Afrasiab le fourbe nous l’oll’re. a ’
+’
 Quand les Iraniens entendirent ces paroles du roi, ils se repentirent de leur faute ; ils tâchèrent de s’excuser, en disant :
 
 > Nous sommes tes esclaves, nous n’avons parlé que par tendresse pour toi.
@@ -68,7 +74,9 @@ Quand les Iraniens entendirent ces paroles du roi, ils se repentirent de leur fa
 >
 > Le roi des Mobeds ne voudra pas nous couvrir d’une honte éternelles»
 
-Le roi leur répondit z Ô Mobeds !
+Le roi leur répondit :
+
+> Ô Mobeds !
 
 Vous qui êtes mes guides, sachez que ce Schideh, au jour de la bataille, ne compte pas son père pour un homme
 
@@ -86,31 +94,31 @@ Mais le petit-[ils de Feridoun et le fils de Kobad sont deux combattants égaux 
 
 En tuant Schideh, je brûlerai le cœur criminel de son père comme il a brûlé le cœur de Kaous par le meurtre de son filsm Les braves et les lions du pays d’Iran accueillirent avec des acclamations ces paroles du roi.
 
-Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schideh cette réponse : La lutte entre nous est ancienne et terrible et ce qui a été fait a dépassé toute mesure.
+Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schideh cette réponse :
 
-Un homme considérable, qui a acquis du renom dans la guerre, ne cherche pas des délais au moment du combat.
+> La lutte entre nous est ancienne et terrible et ce qui a été fait a dépassé toute mesure.
+>
+> Un homme considérable, qui a acquis du renom dans la guerre, ne cherche pas des délais au moment du combat.
+>
+> Maintenant nous verrons à qui le maître du soleil et de la lune sera favorable sur ce champ de bataille.
+>
+> Je ne demande pas le pays de Touran ni les trésors, car -cette demeure passagère ne reste à personne ; mais à0 LE LIVRE ; je jure par la puissance de Dieu qui a créé le monde, par le diadème de Kaous qui m’a élevé, que je ne vous laisserai pas le temps de voir l’âpre vent de l’automne passer sur les roses.
+>
+> Ensuite tu parles de richesses, de chevaux, d’or accumulé : nous n’avons point besoin de ces trésors qui proviennent de l’oppression et de l’injustice ; car quiconque est soutenu de Dieu sera toujours heureux et la fortune lui sourira toujours.
+>
+> Ton pays, tes trésors, ton armée sont à moi, à moi ton trône et ton diadème d’or.
+>
+> Pescheng est venu couvert d’une cuirasse, avec une escorte et beaucoup de pompe et m’a provoqué au combat ; demain, à l’aube du jour, il sera mon convive, il me verra abattre des têtes avec mon épée.
+>
+> Je ne veux pas qu’aucun homme de l’armée d’Iran se présente devant lui au champ de bataille, il sufit de moi et de Schideh, du désert et de mon épée tranchante et j’amènerai à la fin la destruction sur sa tête.
+>
+> Et si je suis vainqueur dans ce combat, je n’accepterai pas les délais que tu proposes ; des deux côtés nous ferons pousser des cris par nos champions et la plaine sera teinte du sang que nous verserons.
+>
+> Ensuite nous conduirons au combat nos héros en troupes serrées, semblables à des montagnes.»
 
-Maintenant nous verrons à qui le maître du soleil et de la lune sera favorable sur ce champ de bataille.
+Le roi ajouta : Tu diras ensuite à Schideh : Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets, ltl non pas pour y chercher le renom et la gloire, ni à cause du message d’Alrasiah. mais parce que les mauvaises actions sont impatientes de te détruire.
 
-Je ne demande pas le pays de Touran ni les trésors, car -cette demeure passagère ne reste à personne ; mais à0 LE LIVRE;l)ES ROIS. je jure par la puissance de Dieu qui a créé le monde, par le diadème de Kaous qui m’a élevé, que je ne vous laisserai pas le temps de voir l’âpre vent de l’automne passer sur les roses.
-
-Ensuite tu parles de richesses, de chevaux, d’or accumulé : nous n’avons point besoin de ces trésors qui provien- nent de l’oppression et de l’injustice ; car quiconque est soutenu de Dieu sera toujours heureux et la fortune lui sourira toujours.
-
-Ton pays, tes trésors, ton armée sont à moi, à moi ton trône et ton diadème d’or.
-
-Pescheng est venu couvert d’une cuirasse, avec une escorte et beaucoup de pompe et m’a provoqué au combat ; demain, à l’aube du jour, il sera mon convive, il me verra abattre des têtes avec mon épée.
-
-Je ne veux pas qu’aucun homme de l’armée d’Iran se présente devant lui au champ de bataille, il sufit de moi et de Schideh, du désert et de mon épée tranchante,et j’amènerai à la fin la destruction sur sa tête.
-
-Et si je suis vainqueur dans ce combat, je n’accepterai pas les délais que tu proposes ; des deux côtés nous ferons pousser des cris par nos champions et la plaine sera teinte du sang que nous verserons.
-
-Ensuite nous conduirons au combat nos héros en troupes serrées, semblables à des montagnes.»
-
-Le roi ajouta : Tu diras ensuite à Schideh z Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets ,
-
-KEÏ KHOSIlOU. ltl non pas pour y chercher le renom et la gloire, ni à cause du message d’Alrasiah. mais parce que les mauvaises actions sont impatientes’de te détruire.
-
-C’est Dieu qui t’a poussé hors de cette armée, et ton linceul le servira ici de tombeau ; ce prince innocent, qu’on a égorgé comme un agneau, te pur-- tera malheur et ton père versera sur toi des larmes amères comme Kaous en verse sur son fils.»
+C’est Dieu qui t’a poussé hors de cette armée et ton linceul le servira ici de tombeau ; ce prince innocent, qu’on a égorgé comme un agneau, te pur--tera malheur et ton père versera sur toi des larmes amères comme Kaous en verse sur son fils.»
 
 Karen quitta le roi en toute hâte et se rendit au-près de Pcscheng au drapeau noir, à qui il répéta toutes les paroles qu’on lui avait dites, ne cachant ni le bon ni le mauvais.
 
