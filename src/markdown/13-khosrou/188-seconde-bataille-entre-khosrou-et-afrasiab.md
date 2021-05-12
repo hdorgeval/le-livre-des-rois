@@ -10,11 +10,11 @@ order: '188'
 
 # Seconde bataille entre Keï Khosrou et Afrasiab
 
-A l’aube du jour, à l’heure où l’on entend le coq, le bruit des timbales monta dans l’air du palais d’Afrasiab, une armée sortit de Gangue dans le désert, une armée telle que la place manquait aux fourmis et aux mouches ; elle s’approcha du Gulzarrioun et la terre devint comme le mont Bisoutonn ; elle marcha trois jours et trois nuits ; le monde se remplit de terreur, de désordre et de rapine ; elle étendit ses rangs sur sept farsangs ; elle était plus nombreuse que les fourmis et les sauterelles.
+À l’aube du jour, à l’heure où l’on entend le coq, le bruit des timbales monta dans l’air du palais d’Afrasiab, une armée sortit de Gangue dans le désert, une armée telle que la place manquait aux fourmis et aux mouches ; elle s’approcha du Gulzarrioun et la terre devint comme le mont Bisoutonn ; elle marcha trois jours et trois nuits ; le monde se remplit de terreur, de désordre et de rapine ; elle étendit ses rangs sur sept farsangs ; elle était plus nombreuse que les fourmis et les sauterelles.
 
 Le quatrième jour elle se forma en ordre de bataille et ’écume de la rivière monta jusqu’au soleil.
 
-Alrasiab et ses grands, des cavaliers portant haut la tête et pleins de sagesse, occupaient le centre ; à l’aile droite se trouvait Djehn fils d’Afrasiab, qui élevait sa lance au-dessus du soleil ; à l’aile gauche se tenait Thuwurg, le lion du combat, semblable à un loup, entouré de cavaliers expérimentés ; à l’arrièregarde KEl KHOSROU. était Guersiwaz, le haineux, qui devait être l’appui de l’armée contre l’ennemi.
+Alrasiab et ses grands, des cavaliers portant haut la tête et pleins de sagesse, occupaient le centre ; à l’aile droite se trouvait Djehn fils d’Afrasiab, qui élevait sa lance au-dessus du soleil ; à l’aile gauche se tenait Thuwurg, le lion du combat, semblable à un loup, entouré de cavaliers expérimentés ; à l’arrièregarde était Guersiwaz, le haineux, qui devait être l’appui de l’armée contre l’ennemi.
 
 Khosrou, de l’autre côté, occupait le centre de l’armée, dont il était le soutien, semblable à une montagne ; il était entouré de Gouderz, de Thous fils de Newder, de Menouschan et Khouzan, les princes victorieux et joyeux, de Gentgain fils de Milad et de Ilehham, le lion, de Hedjir et de Schidousch, le vaillant, le brave ; Feribourz fils de Kaous tenait l’aile droite avec une armée qui ne formait qu’un cœur et un corps ; à l’aile gauche commandait.
 
@@ -28,7 +28,9 @@ Le bruit des haches qui fracassaient les casques était tel, que les âmes disai
 
 Quand Keï Khosrou vit les convulsions de la bataille, il sentit le monde peser sur son cœur ; il se retira derrière l’armée et se présenta devant le Créateur, demandant justice et disant :
 
-> Ô toi qui es au-dessus de la sagesse des saints, maître du monde, roi au-dessus de tous les roisl Si je n’avais pas été I victime de l’injustice, si je n’avais pas été tordu comme le fer dans la forge, je ne demanderais pas la victoire, je ne t’importunerais pas de mes prières. n Il parla ainsi en frottant ses joues dans la poussière et le monde fut rempli de ses cris d’angoisse.
+> Ô toi qui es au-dessus de la sagesse des saints, maître du monde, roi au-dessus de tous les roisl Si je n’avais pas été I victime de l’injustice, si je n’avais pas été tordu comme le fer dans la forge, je ne demanderais pas la victoire, je ne t’importunerais pas de mes prières.»
+
+Il parla ainsi en frottant ses joues dans la poussière et le monde fut rempli de ses cris d’angoisse.
 >
 > A ce moment même s’éleva un orage qui brisait les branches joyeuses des arbres, soulevait la poussière du champ de bataille et la lançait contre le roi et l’armée des Turcs.
 >
@@ -36,7 +38,7 @@ Quand Keï Khosrou vit les convulsions de la bataille, il sentit le monde peser 
 >
 > Le combat continua jusqu’à ce que le ciel et la terre furent obscurcis et qu’un grand nombre de Turcs furent captifs ; la nuit vint, revêtue de son voile couleur de musc, de sorte qu’on ne pouvait plus se battre ; les rois rappelèrent leurs armées du champ
 >
-> KEÏ KHOSIlOlJ. 7l de bataille, lorsque le ciel eut répandu ses ténèbres sur la face de la terre ; toute la plaine depuis le pied des montagnes jusqu’au bord du fleuve était couverte de cottes de mailles, de cuirasses et de casques ; on alluma partout des feux et des patrouilles parcoururent les environs des camps.
+> 7l de bataille, lorsque le ciel eut répandu ses ténèbres sur la face de la terre ; toute la plaine depuis le pied des montagnes jusqu’au bord du fleuve était couverte de cottes de mailles, de cuirasses et de casques ; on alluma partout des feux et des patrouilles parcoururent les environs des camps.
 >
 > Afrasiab se préparait à un nouveau combat ; il voulait attendre que le soleil fût levé, eût éclairé les flancs des montagnes et rendu la terre brillante comme un rubis de Badakhschan.
 >
