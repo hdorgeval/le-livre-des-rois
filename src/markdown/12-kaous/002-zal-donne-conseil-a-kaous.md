@@ -4,7 +4,29 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 391
 reign: 'Keï Kaous'
-tags: []
+tags:
+  [
+    'Bahram',
+    'Créateur',
+    'Dieu',
+    'Divs',
+    'Djemschid',
+    'Feridoun',
+    'Gouderz',
+    'Guiv',
+    'Iran',
+    'Kaous',
+    'Keïkobad',
+    'Mazenderan',
+    'Minoutchehr',
+    'Newder',
+    'Rustem',
+    'Sam',
+    'Seïstan',
+    'Thous',
+    'Zal',
+    'Zew',
+  ]
 order: '002'
 ---
 
