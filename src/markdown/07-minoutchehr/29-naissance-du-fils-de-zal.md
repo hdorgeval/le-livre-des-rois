@@ -22,7 +22,7 @@ Sindokht lui dit :
 
 Que t’estvil arrivé, pour que tes joues pâlissent ainsi ?
 
-A Boudabeh répondit :
+A Roudabeh répondit :
 
 > et Jour et nuit tr je demande secours à Dieu, je n’ai plus de sommeil, ce je suis fanée, tu dirais que toute vivante je suis
 >
@@ -30,13 +30,13 @@ A Boudabeh répondit :
 >
 > Le terme est arrivé, mais je ne serai jamais délivrée de ce fardeau.»
 
-Boudabeh resta dans cet état jusqu’au temps des couches, ne trouvant ni sommeil ni repos ; tu aurais dit que son corps était rempli de pierres, ou qu’il contenait une masse de fer.
+Roudabeh resta dans cet état jusqu’au temps des couches, ne trouvant ni sommeil ni repos ; tu aurais dit que son corps était rempli de pierres, ou qu’il contenait une masse de fer.
 
-Il arriva un jour qu’elle perdit connaissance, et un cri s’éleva du palais de Zal.
+Il arriva un jour qu’elle perdit connaissance et un cri s’éleva du palais de Zal.
 
 Sindokht se lamentait, se frappait le visage et arrachait ses cheveux noirs parfumés comme le musc.
 
-On porta à Zal la nouvelle que les feuilles du cyprès élancé étaient fanées ; il accourut auprès de la couche de Boudabeh , les joues baignées de larmes, le cœur brisé de douleur.
+On porta à Zal la nouvelle que les feuilles du cyprès élancé étaient fanées ; il accourut auprès de la couche de Roudabeh, les joues baignées de larmes, le cœur brisé de douleur.
 
 Toutes les esclaves de l’appartement des femmes s’arrachaient les cheveux ; leur tête et leurs joues étaient sans voile, leur visage mouillé de larmes.
 
@@ -44,7 +44,7 @@ Il vint à Zal une pensée et sa douleur en fut un peu calmée ; il se souvint d
 
 Il apporta un brasier, y alluma du feu et brûla un peu de cette plume.
 
-Aussitôt l’air s’obscurcit, et le puissant oiseau descendit comme un nuage d’où tombe une pluie de perles ; que dis-je de perles ?
+Aussitôt l’air s’obscurcit et le puissant oiseau descendit comme un nuage d’où tombe une pluie de perles ; que dis-je de perles ?
 
 De joie et de repos.
 
@@ -56,18 +56,17 @@ Le Simurgh lui dit :
 >
 > Pourquoi l’œil du lion est-il humide ?
 >
-> Ce cyprès argenté au beau visage te donnera un lionceau avide de gloire ; les lions baiseront la poussière de ses pieds, 
- ce et les nuages n’oseront passer ait-dessus de sa tête. tr A sa voix se fendra la peau du léopard courageux, qui mordra ses deux griffes.
+> Ce cyprès argenté au beau visage te donnera un lionceau avide de gloire ; les lions baiseront la poussière de ses pieds, ce et les nuages n’oseront passer ait-dessus de sa tête. tr A sa voix se fendra la peau du léopard courageux, qui mordra ses deux griffes.
 >
 > Tous les braves qui ç entendront le bruit de sa massue, qui verront sa poi, trine, ses bras et ses jambes, Sentimut, à sa voix, défaillir leur cœur, si courageux et si déterminés c qu’ils soient.
 >
-> Dans le conseil il sera prudent comme ce Sam, dans la colère ce sera un lion de guerre ; par ce sa stature il sera un cyprès et par sa force un cro- codile ; il lancera avec son doigt une brique à deux milles.
+> Dans le conseil il sera prudent comme ce Sam, dans la colère ce sera un lion de guerre ; par ce sa stature il sera un cyprès et par sa force un crocodile ; il lancera avec son doigt une brique à deux milles.
 >
 > Mais d’après les ordres de Dieu le distributeur de tout bien, il ne naîtra pas de la manière tr ordinaire.
 >
 > Apporte ici un poignard brillant et amène un sage habile dans l’art des enchantements.
 >
-> Tu enivreras d’abord Boudabeh avec du vin, pour délivrer son âme de toute crainte et de toute pensée ; puis tu auras soin que le sage fasse ses enchantements, pour se mettre en état de délivrer le lion- ceau de sa prison.
+> Tu enivreras d’abord Roudabeh avec du vin, pour délivrer son âme de toute crainte et de toute pensée ; puis tu auras soin que le sage fasse ses enchantements, pour se mettre en état de délivrer le lionceau de sa prison.
 >
 > Il percera le corps du cyprès sous les côtes, sans qu’elle éprouve de douleurs ; il en tirera le fils du lion et inondera de sang tout le côté de la mère ; après quoi il faut que tu couses la partie qu’il aura percée et tu peux ensuite bannir tout souci et toute inquiétude.
 >
@@ -75,12 +74,11 @@ Le Simurgh lui dit :
 >
 > Enfin tu passeras sur
 >
-> 
-la blessure une de mes plumes et l’ombre de ma puissance montrera son influence salutaire.
+> la blessure une de mes plumes et l’ombre de ma puissance montrera son influence salutaire.
 >
 > Tu dois être heureux de cet événement et en rendre grâces au maître du monde, car c’est lui qui t’a donné cet arbre royal qui fera chaque jour épanouir ta fortune.
 >
-> Ne laisse pas ton cœur s’allliger ; car cette branche, digne de porter fruit, te portera fruit.»
+> Ne laisse pas ton cœur s’affliger ; car cette branche, digne de porter fruit, te portera fruit.»
 
 Il dit, arracha une plume de son aile et la lit tomber, puis d’un puissant essor s’éleva dans les airs.
 
@@ -116,7 +114,7 @@ Ornements des assemblées.
 
 Sur cette bonne nouvelle, Mirab, dans le Kaboul, se réjouit et donna de l’or aux pauvres.
 
-Dans le Zaboulistan, d’une frontière à l’autre , le peuple, en chaque lieu, s’assit à des banquets ; les petits n’y étaient pas placés au-dessous des grands, tous étaient mêlés comme la chaîne et la trame.
+Dans le Zaboulistan, d’une frontière à l’autre, le peuple, en chaque lieu, s’assit à des banquets ; les petits n’y étaient pas placés au-dessous des grands, tous étaient mêlés comme la chaîne et la trame.
 
 Puis on apporta l’image de Rustem qui buvait encore du lait, à Sam le cavalier ; le messager la plaça devant le prince, qui la regarda et en fut heureux et plein de joie.
 
@@ -130,9 +128,11 @@ Le bruit des timbales s’éleva joyeusement de la cour et Sam orna la grande pl
 
 Une semaine s’étant passée ainsi, le roi donna ordre à un scribe de s’asseoir et d’écrire à la lettre de Zal une réponse belle comme un jardin du paradis.
 
-Il commença par rendre grâce à Dieu du bonheur que la rotation du monde avait amené, puis il se mit à louer Zal, le maître de l’épée et de la l massue ; il arriva ensuite à cette image de soie, qui avait les bras d’un héros et la majesté d’un roi et ordonna à Zal d’avoir soin de l’enfant de telle sorte que pas un souille ne pût l’atteindre : J’ai invoqué en sacret et jour et nuit le créateur du monde pour que mon œil vît un jour un fils de ta race qui me ressemblât.
+Il commença par rendre grâce à Dieu du bonheur que la rotation du monde avait amené, puis il se mit à louer Zal, le maître de l’épée et de la !
 
-Maintenant mon des et le tien se- ront redressés, il nous reste qu’à prier pour sa vie. »
+Massue ; il arriva ensuite à cette image de soie, qui avait les bras d’un héros et la majesté d’un roi et ordonna à Zal d’avoir soin de l’enfant de telle sorte que pas un souille ne pût l’atteindre : J’ai invoqué en sacret et jour et nuit le créateur du monde pour que mon œil vît un jour un fils de ta race qui me ressemblât.
+
+Maintenant mon des et le tien seront redressés, il nous reste qu’à prier pour sa vie. »
 
 Le messager partit comme un vent rapide et se rendit auprès de Zal, content et le cœur joyeux.
 
