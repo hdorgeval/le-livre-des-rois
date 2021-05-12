@@ -18,7 +18,9 @@ Puisse ton bonheur être aussi durable que le temps ?
 
 Zal sera un héros de grand renom, fier, prudent, brave et bon cavalierm Le roi fut réjoui de ces paroles et le cœur du Pehlewan fut délivré de son anxiété.
 
-Le roi de la terre choisit pour Sam de si beaux présents, que tout le monde célébrait ses louanges : c’étaient des chevaux arabes avec des housses d’or, des épées indiennes dans des fourreaux d’or, des brocarts, des étoffes de castor, des rubis et de l’or, des tapis en grand nombre, des pages de Roum habillés de brocart de Roum, dont le fond était d’or et toutes les figures de pierreries ; des plateaux ornés d’émeraudes, des coupes d’or rouge et d’argent blanc ornées de turquoises que les esclaves apportèrent de- l vant lui remplies de musc, de camphre et de safran ; c’étaient des cuirasses, des casques et des caparaçons pour les chevaux, des lances, des massues, des arcs et des flèches ; c’étaient enfin un trône orné de turquoises, une couronne d’or, un sceau de rubis et une ceinture d’or.
+Le roi de la terre choisit pour Sam de si beaux présents, que tout le monde célébrait ses louanges : c’étaient des chevaux arabes avec des housses d’or, des épées indiennes dans des fourreaux d’or, des brocarts, des étoffes de castor, des rubis et de l’or, des tapis en grand nombre, des pages de Roum habillés de brocart de Roum, dont le fond était d’or et toutes les figures de pierreries ; des plateaux ornés d’émeraudes, des coupes d’or rouge et d’argent blanc ornées de turquoises que les esclaves apportèrent de- !
+
+Vant lui remplies de musc, de camphre et de safran ; c’étaient des cuirasses, des casques et des caparaçons pour les chevaux, des lances, des massues, des arcs et des flèches ; c’étaient enfin un trône orné de turquoises, une couronne d’or, un sceau de rubis et une ceinture d’or.
 
 Ensuite Minoutchehr lui donna l’investiture par un écrit rempli de louanges qui en faisaient un paradis.
 
@@ -34,8 +36,7 @@ Puis, il s’approcha et baisa le trône.
 
 On lia les timbales sur le dos des éléphants . et le cortège se dirigea vers le Zaboulistan ; toutes les villes et tous les villages accoururent pour le voir.
 
-Lorsque 
-h
+Lorsque h
 Sam s’approchait de Nimrouz, on y apprit que le héros, la lumière du monde, arrivait avec des présents et une couronne d’or, avec l’investiture royale et la ceinture d’or.
 
 On orna.le Seïstan comme un paradis ; toute la terre yétait de musc, toutes les briques d’or.
