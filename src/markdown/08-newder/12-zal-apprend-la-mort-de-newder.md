@@ -10,30 +10,32 @@ order: '012'
 
 # Zal apprend la mort de Newder
 
-On porta à Kustehem et à Thous la nouvelle que la gloire des rois était obscurcie, qu’on avait coupé avec l’épée tranchante la tête de leur malheureux père, et que tout était fini.
+On porta à Kustehem et à Thous la nouvelle que la gloire des rois était obscurcie, qu’on avait coupé avec l’épée tranchante la tête de leur malheureux père et que tout était fini.
 
 Ils s’arrachèrent les cheveux, ils se déchirèrent le visage et de l’Iran s’éleva un immense cri de douleur.
 
 Les grands de l’empire répandirent de la terre et de la poussière sur leur tête, tous les yeux étaient remplis de larmes, toutes les robes étaient en lambeaux ; ils se dirigèrent vers le Zaboulistan ; leur langue ne parlait que du roi, leur esprit ne s’occupait que de lui.
 
-Ils se rendirent auprès de Zal dans leur douleur et dans leur tristesse, les joues couvertes de sang, la tête couverte de poussière, criant : Ô le glorieux, le brave, le roi Newder, le héros qui portait la couronne, le puissant, le maî-
+Ils se rendirent auprès de Zal dans leur douleur et dans leur tristesse, les joues couvertes de sang, la tête couverte de poussière, criant :
+
+> Ô le glorieux, le brave, le roi Newder, le héros qui portait la couronne, le puissant, le maî-
 tre, le gardien de l’Iran, l’appui des grands, le maître des rois, le roi du monde !
-
-Ta tête cherche un diadème dans la poussière, la terre exhale l’or deur du sang des rois.
-
-Les herbes qui croissent dans ce pays baissent la tête de honte devant le soleil.
-
-Nous demandons tous justice et poussons des cris de douleur, nous nous dépouillons de nos robes de fête.
-
-L’image de Feridoun vivait en lui, la terre était l’esclave du sabot de son cheval.
-
-Ils lui’ ont tranché la tête misérablement et honteusement, à lui et à ses guerriers renommés.
-
-Nous tirerons tous nos épées brillantes pour le venger, nous tuerons nos ennemis ; couvrez-vous tous de votre armure et pour exercer la vengeance et rajeunissez nos vieilles haines.
-
-Le ciel même, dans sa miséricorde envers ce nous, répandrait sur notre deuil des larmes de sang.
-
-Et vous aussi, remplissez vos yeux de sang, dé-pouillez-vous de vos robes de fête ; car quand on a à venger des rois, il faut que l’œil soit humide, et le cœur rempli de colère.»
+>
+> Ta tête cherche un diadème dans la poussière, la terre exhale l’or deur du sang des rois.
+>
+> Les herbes qui croissent dans ce pays baissent la tête de honte devant le soleil.
+>
+> Nous demandons tous justice et poussons des cris de douleur, nous nous dépouillons de nos robes de fête.
+>
+> L’image de Feridoun vivait en lui, la terre était l’esclave du sabot de son cheval.
+>
+> Ils lui’ ont tranché la tête misérablement et honteusement, à lui et à ses guerriers renommés.
+>
+> Nous tirerons tous nos épées brillantes pour le venger, nous tuerons nos ennemis ; couvrez-vous tous de votre armure et pour exercer la vengeance et rajeunissez nos vieilles haines.
+>
+> Le ciel même, dans sa miséricorde envers ce nous, répandrait sur notre deuil des larmes de sang.
+>
+> Et vous aussi, remplissez vos yeux de sang, dé-pouillez-vous de vos robes de fête ; car quand on a à venger des rois, il faut que l’œil soit humide et le cœur rempli de colère.»
 
 Toute l’assemblée fut plongée dans la tristesse et dans les larmes, ils se consumèrent par la douleur comme par un feu dévorant.
 
@@ -57,7 +59,7 @@ Berzin et Karen le guerrier, Kherrad et Keschwad le destructeur des armées, son
 
 Quand les braves tourneront en toute hâte leurs rênes de ce côté, quand ils montreront les pointes de leurs lances, le puissant Afrasiab en sera exaspéré, son cœur sera impatient de se venger de nous et pour sauver son diadème, il fera rouler dans la poussière les tètes d’une foule innocente.
 
-S’il plaisait au sage Aghrirez de délivrer ses prison- niers tous ensemble, nous nous disperserions pour faire le tour du monde, pour parler de lui devant les rois, réciter ses louanges devant les grands et prier Dieu pour lui.»
+S’il plaisait au sage Aghrirez de délivrer ses prisonniers tous ensemble, nous nous disperserions pour faire le tour du monde, pour parler de lui devant les rois, réciter ses louanges devant les grands et prier Dieu pour lui.»
 
 Le prudent Aghrirez leur répondit :
 
@@ -75,8 +77,7 @@ Nous avons fait avec lui un pacte indissoluble et nous avons des deux côtés en
 
 Aussitôt que le messager fut arrivé dans le Zaboulistan et eut porté son message à Destan, celui-ci appela devant lui les grands guerriers et leur fit part de ce que lui mandaient les braves ; puis il dit :
 
-> Ô mes amis, vous qui êtes des tigres dans la guerre et qui portez un grand nom, 
- 3M y a-t-il parmi vous un preux au cœur noble et dont l’âme s’enivre du combat, qui recherche ce danger et cette entreprise et veuille élever sa tête usqu’au soleil ?
+> Ô mes amis, vous qui êtes des tigres dans la guerre et qui portez un grand nom, 3M y a-t-il parmi vous un preux au cœur noble et dont l’âme s’enivre du combat, qui recherche ce danger et cette entreprise et veuille élever sa tête jusqu’au soleil ?
 
 N Keschwad, en l’entendent, frappa de la main sa poitrine et dit :
 
@@ -97,4 +98,4 @@ Zal le glorieux lui rendit grâce en disant :
 >
 > 3&2 titua tout ce qu’ils avaient possédé du temps de Newder, où ils avaient ou des couronnes, des trônes et des diadèmes.
 >
-> C’est ainsi que Zal composa sa cour, et rassasia son armée par ses largesses.
+> C’est ainsi que Zal composa sa cour et rassasia son armée par ses largesses.
