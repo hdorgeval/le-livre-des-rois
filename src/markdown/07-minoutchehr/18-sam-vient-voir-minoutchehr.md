@@ -55,9 +55,11 @@ Il lui fit maintes questions sur les Kerguesars pleins de bravoure et sur les Di
 >
 > Lorsque la poussière de cette grande armée s’éleva, les joues de nos braves pâlirent.
 >
-> Je saisis ma massue qui tue d’un seul coup, et je devançai mon armée.
+> Je saisis ma massue qui tue d’un seul coup et je devançai mon armée.
 >
-> Je poussai des cris du l Le mon est un poids commun à la Perse et à l’Inde, mais dont la valeur varie selon les provinces ; à Tebriz il est de six livres, à Schiraz de douze et il augmente assez régulièrement à mesure qu’on avance vers l’Orient jusqu’à Calcutta, où il équivaut à quatre-vingt-deux livres.
+> Je poussai des cris du !
+>
+> Le mon est un poids commun à la Perse et à l’Inde, mais dont la valeur varie selon les provinces ; à Tebriz il est de six livres, à Schiraz de douze et il augmente assez régulièrement à mesure qu’on avance vers l’Orient jusqu’à Calcutta, où il équivaut à quatre-vingt-deux livres.
 >
 > Voy.
 >
@@ -66,12 +68,11 @@ Il lui fit maintes questions sur les Kerguesars pleins de bravoure et sur les Di
 > Tables, fas-cicul. l, lab. xxvr.
 >
 > 
-23
 haut de mon cheval, de sorte que la terre leur paraissait tourner comme un moulin ; mon armée reprit courage et tous ne pensèrent plus qu’au combat.
 >
-> Karkoui entendant ma voix et les coups de ma massue qui jouait avec les têtes, vint à moi pour me combattre, semblable à un éléphant furieux, et armé d’un long lacet.
+> Karkoui entendant ma voix et les coups de ma massue qui jouait avec les têtes, vint à moi pour me combattre, semblable à un éléphant furieux et armé d’un long lacet.
 >
-> Il cherchait à me prendre dans le nœud de son lacet, mais m’en aperçus, et je me détournai du danger.
+> Il cherchait à me prendre dans le nœud de son lacet, mais m’en aperçus et je me détournai du danger.
 >
 > Je pris dans ma main un arc digne d’un roi et des flèches de peuplier armées d’acier.
 >
@@ -86,7 +87,7 @@ haut de mon cheval, de sorte que la terre leur paraissait tourner comme un mouli
 >
 > Le roi étant ainsi abattu comme une chose vile, son armée s’enfuit du combat.
 >
-> Les vallées et les hauteurs, les montagnes et les plaines se remplirent de tous côtés de masses d’hommes ; et lors- que l’on compta les morts, on trouva douze mille a cavaliers et fantassins couchés sur le sol.
+> Les vallées et les hauteurs, les montagnes et les plaines se remplirent de tous côtés de masses d’hommes ; et lorsque l’on compta les morts, on trouva douze mille a cavaliers et fantassins couchés sur le sol.
 >
 > L’armée et le peuple des villes et les braves cavaliers étaient se au nombre de trois cent mille ; mais que pèse un ennemi devant ta fortune et devant l’esclave de ton trône?»
 
@@ -109,11 +110,9 @@ vent que par un rideau.
 > On peut voir encore aujourd’hui dans les ruines du palais des Khosroës à Ctésiphon, que la grande salle qui occupe le milieu de l’édifice n’était séparée de la cour par au-
 cune maçonnerie.
 >
-> Le roi entrait par une porte pratiquée au fond de la salle et près du trône et l’ouverture du rideau annonçait que l’audience allait commencer.
- : .
+> Le roi entrait par une porte pratiquée au fond de la salle et près du trône et l’ouverture du rideau annonçait que l’audience allait commencer. : .
 >
-> 
-chappe et que ce rejeton du dragon reste en vie, car il pousserait de temps en temps un cri de guerre et remplirait le monde heureux de combats et de troubles.
+> chappe et que ce rejeton du dragon reste en vie, car il pousserait de temps en temps un cri de guerre et remplirait le monde heureux de combats et de troubles.
 >
 > Tous ceux qui lui sont alliés, tous les grands qui le servent, tous ceux qui sont de sa famille et de la race de Zohak le magicien, tranche-leur la tête à tous et délivre la terre des partisans de Zohak et de sa lignée.»
 
