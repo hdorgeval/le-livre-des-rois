@@ -48,7 +48,7 @@ Le châtelain lui répondit :
 >
 > J’accepte etje te rends ton salut, ô mon fils au cœur par et dévoué à Dieu.»
 
-- Le jeune homme se rendit au bazar, amenant avec. lui ses chameliers.
+-Le jeune homme se rendit au bazar, amenant avec. lui ses chameliers.
 
 De tous côtés la foule se pressait autour de lui, petits enfants, hommes et femmes.
 
