@@ -35,7 +35,7 @@ Il appela les grâces de Dieu sur le roi maître du monde, le glorieux Pehlewan 
 >
 > Nous resterons encore trois jours joyeusement dans cette maison, en parlant des héros de l’Iran ; le quatrième nous partirons pour l’Iran ; nous partirons pour la cour du roi des braves.»
 
-A ces paroles de Rustem, Guiv se leva vivement, baisa les mains, le visage et les pieds du héros et le bénit, en disant :
+À ces paroles de Rustem, Guiv se leva vivement, baisa les mains, le visage et les pieds du héros et le bénit, en disant :
 
 > Ô toi qui portes haut la tête, puisses-tu jouir à jamais de la force que Dieu t’a n donnée !
 >
@@ -45,12 +45,16 @@ A ces paroles de Rustem, Guiv se leva vivement, baisa les mains, le visage et le
 >
 > Puissent toutes sortes de bonheurs être ton partage,
 >
-> KEÏ KHOSROU. puisque tu as effacé la rouille qui couvrait mon âme!»
+> puisque tu as effacé la rouille qui couvrait mon âme!»
 
-Rustem voyant l’âme de Guiv tranquillisée, et espérant une heureuse fin dans cette aventure, dità son maître d’hôtel : Dresse les tables, appelle les grands et les sages.»
+Rustem voyant l’âme de Guiv tranquillisée et espérant une heureuse fin dans cette aventure, dità son maître d’hôtel :
+
+> Dresse les tables, appelle les grands et les sages.»
 
 Zewareh, Faramourz, Destan et Guiv s’assirent à la table du vaillant chef de l’armée ; ils mangèrent et le dîner fini, on prépara une fête magnifique ; les musiciens et les échansons entrèrent dans la salle incrustée de pierreries ; toutes les mains furent rougies par le vin couleur de rubis ; les luths résonnaient, les coupes brillaient.
 
-C’est ainsi que Bustem avait ordonné cette fête, car il savait ordonner un festin aussi bien qu’une bataille.
+C’est ainsi que Rustem avait ordonné cette fête, car il savait ordonner un festin aussi bien qu’une bataille.
 
-Pendant trois jours Bustem fils de Zal fils de Sam but du vin dans son palais sans se presser de partir ; ensuite il se leva, saisit une coupe remplie de vin rouge et dit : J’élèverai si haut la fortune du roi, que tous ses ennemis en seront dans le deuil ; je vengerai Bijen avec tant de rigueur qu’il n’y aura dans le Touran qu’un cri de.détresse.»
+Pendant trois jours Rustem fils de Zal fils de Sam but du vin dans son palais sans se presser de partir ; ensuite il se leva, saisit une coupe remplie de vin rouge et dit :
+
+> J’élèverai si haut la fortune du roi, que tous ses ennemis en seront dans le deuil ; je vengerai Bijen avec tant de rigueur qu’il n’y aura dans le Touran qu’un cri de.détresse.»
