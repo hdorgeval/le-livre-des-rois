@@ -52,7 +52,9 @@ Il y vit un enfant d’une rare beauté, mais avec une tête de vieillard, tel q
 
 Tous les poils de son corps étaient blancs comme la neige, mais son visage était vermeil et beau.
 
-Lorsque Sam vit son. enfant aux l cheveux blancs, il perdit tout à coup tout espoir dans ce monde.
+Lorsque Sam vit son. enfant aux !
+
+Cheveux blancs, il perdit tout à coup tout espoir dans ce monde.
 
 Il avait grandement peur qu’on ne rit de lui et il quitta le chemin de la sagesse pour une autre voie.
 
@@ -80,8 +82,7 @@ Il parla ainsi dans sa colère ; son visage étincelait, il maudissait son sort 
 
 Or il y avait une montagne, appelée Alborz ; elle était près du soleil et loin de la foule des hommes.
 
-C’est là qu’avait son nid le Simurgh ; c’est dans ce lieu qu’il 
-l
+C’est là qu’avait son nid le Simurgh ; c’est dans ce lieu qu’il l
 se tenait éloigné du monde.
 
 Ils exposèrent l’ayant sur la montagne et s’en retournèrent et un long temps se passa.
@@ -108,7 +109,7 @@ Dieu donna à Simurgh un mouvement de pitié, de sorte que l’oiseau ne pensa p
 
 Il descendit des nues, le prit dans ses serres et l’enleva de la pierre brûlante.
 
-Il le porta rapide- ment jusqu’au mont Alborz où était le nid de sa famille ; il le porta à ses petits pour qu’ils le vissent, et pour que sa voix plaintive les empêchât de le dévorer ; car Dieu lui accordait ses faveurs, parce qu’il était prédestiné à jouir de la vie.
+Il le porta rapidement jusqu’au mont Alborz où était le nid de sa famille ; il le porta à ses petits pour qu’ils le vissent et pour que sa voix plaintive les empêchât de le dévorer ; car Dieu lui accordait ses faveurs, parce qu’il était prédestiné à jouir de la vie.
 
 Le Simurgh et ses petits regardaient cet enfant dont le sang’coulait par ses deux yeux.
 
