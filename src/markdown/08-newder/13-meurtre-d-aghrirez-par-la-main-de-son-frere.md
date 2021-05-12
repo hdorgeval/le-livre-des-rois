@@ -24,7 +24,9 @@ Lorsque Aghrirez fut arrivé d’Amol à Bai, le roi eut nouvelle de ce qu’il 
 
 Aghrirez répondit à Afrasiab :
 
-> Il faut. pourtant avoir un peu de pitié et quelques larmes ; toutes les fois que tu as le pouvoir de faire le mal, tremble devant Dieu et ne nuis à personne ; car la couronne et la ceinture royale auront beaucoup de. maîtres comme toi, mais elles n’appartiennent à personne pour toujours. n Lorsque Afrasiab entendit ces paroles, il ne sut que répondre ; l’un d’eux était plein d’emportement, l’autre plein de raison ; mais la raison, comments’ac-corderait-elle avec la tête d’un Div ?
+> Il faut pourtant avoir un peu de pitié et quelques larmes ; toutes les fois que tu as le pouvoir de faire le mal, tremble devant Dieu et ne nuis à personne ; car la couronne et la ceinture royale auront beaucoup de maîtres comme toi, mais elles n’appartiennent à personne pour toujours.»
+
+Lorsque Afrasiab entendit ces paroles, il ne sut que répondre ; l’un d’eux était plein d’emportement, l’autre plein de raison ; mais la raison, comments’ac-corderait-elle avec la tête d’un Div ?
 
 Le Sipehbed entra en colère comme un éléphant furieux et au lieu 3&3 de répondre, il saisit une épée et coupa en deux le corps de son frère.
 
@@ -42,6 +44,6 @@ Afrasiab apprit la nouvelle de ce que Zal avait entrepris et mena une armée ver
 
 Les avantpostes se battaient jour et nuit, tu aurais dit que le monde n’était que couleur de sang.
 
-Maiut guerrier fut tué des deux côtés, tous hommes renommés et pleins d’ardeur pour le combat.
+Maint guerrier fut tué des deux côtés, tous hommes renommés et pleins d’ardeur pour le combat.
 
 Ainsi se passèrent deux semaines et les fantassins et les cavaliers étaient fatigués de la guerre.
