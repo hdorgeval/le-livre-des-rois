@@ -35,17 +35,17 @@ Les idoles de Tharaz entrèrent dans le palais, s’assirent à côté de la lun
 
 > Jamais nous n’avons vu un lion pareil à lui ; sa joue est comme la rose, son visage et ses cheveux sont blancs.»
 
-Le cœur de Boudabeh s’enflamma d’amour dans l’espoir de voir son visage.
+Le cœur de Roudabeh s’enflamma d’amour dans l’espoir de voir son visage.
 
-Les jeunes filles étalèrent devant elles l’or et les joyaux, et Roudabeh leur fit des questions sur tout ce qu’elles avaient remarqué : ce Qu’avez-vous fait avec le fils de Sam ?
+Les jeunes filles étalèrent devant elles l’or et les joyaux et Roudabeh leur fit des questions sur tout ce qu’elles avaient remarqué : Qu’avez-vous fait avec le fils de Sam ?
 
 Vaut-il mieux le voir ou entendre parler de sa gloire et de sa renommée?»
 
 Les cinq filles au visage de Péri ayant trouvé un endroit où elles pouvaient parler à Roudabeh, se hâtèrent de lui répondre : Zal est le héros du monde entier ; personne ne l’égale en manières et en dignité.
 
-Cet homme, haut comme un cyprès, a la grâce et la majesté’d’un roi des rois ; il est plein de couleurs et de parfums;, c’est un arbre avec tronc et branches, un cavalier mince de taille et large de poitrine ; ses deux yeux sont comme des narcisses brillants, ses lèvres comme du corail, ses joues comme du sang, ses mains et ses bras comme les bras d’un lion mâle ; il est pru- dent, il a le cœur d’un Mobed et la dignité d’un roi ; les cheveux de sa tête sont entièrement blancs, il n’a que ce défaut et encore est-ce une beauté.
+Cet homme, haut comme un cyprès, a la grâce et la majesté’d’un roi des rois ; il est plein de couleurs et de parfums;, c’est un arbre avec tronc et branches, un cavalier mince de taille et large de poitrine ; ses deux yeux sont comme des narcisses brillants, ses lèvres comme du corail, ses joues comme du sang, ses mains et ses bras comme les bras d’un lion mâle ; il est prudent, il a le cœur d’un Mobed et la dignité d’un roi ; les cheveux de sa tête sont entièrement blancs, il n’a que ce défaut et encore est-ce une beauté.
 
-Les joues et les boucles des cheveux de ce Pehlewan du monde sont comme des mailles d’argent cou- vrant une rose pourprée.
+Les joues et les boucles des cheveux de ce Pehlewan du monde sont comme des mailles d’argent couvrant une rose pourprée.
 
 Tu dirais que cela devait être ainsi et que l’amour qu’il inspire n’augmenterait pas s’il en était autrement.
 
@@ -69,7 +69,7 @@ Toi, viens voir une lune pleine de beauté. v L’esclave répondit à sa belle 
 
 > Prépare les moyens de réussir, car Dieu t’a accordé tout ce que tu désirais ; puisse la fin de tout ceci être heureuse!»
 
-Boudabeh se mit en toute hâte à faire ses apprêts en les cachant à toute sa famille.Elle avait un palais comme le gai printemps, tout couvert de portraits de héros ; elle le fit tendre de brocarts de la Chine, elle fit disposerles vases d’or, mêler du vin avec du musc et de l’ambre et verser sur le sol des rubis et des émeraudes.
+Roudabeh se mit en toute hâte à faire ses apprêts en les cachant à toute sa famille.Elle avait un palais comme le gai printemps, tout couvert de portraits de héros ; elle le fit tendre de brocarts de la Chine, elle fit disposerles vases d’or, mêler du vin avec du musc et de l’ambre et verser sur le sol des rubis et des émeraudes.
 
 D’un côté étaient des roses pourpres, des narcisses et des arghawans ; de l’autre, des branches de jasmin et des fleurs de lis.
 
