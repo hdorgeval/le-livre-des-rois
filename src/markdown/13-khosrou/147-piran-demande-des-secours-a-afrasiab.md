@@ -10,20 +10,22 @@ order: '147'
 
 # Piran demande des secours à Afrasiab
 
-Cela fait, Piran envoya à l’heure du sommeil un messager vers Afrasiab, un messager vieux, sage et. de bon conseil, un héros plein d’éloquence, un cavalier plein de. courage ; il lui dit :
+Cela fait, Piran envoya à l’heure du sommeil un messager vers Afrasiab, un messager vieux, sage et de bon conseil, un héros plein d’éloquence, un cavalier plein de courage ; il lui dit :
 
-> Va et répète au roi du Touran ces paroles : Ô roi dispensateur de la justice et avide de renom !
+> Va et répète au roi du Touran ces paroles :
+
+> Ô roi dispensateur de la justice et avide de renom !
 >
-> Depuis que la voûte du cieljtourne au-dessus de la terre sombre, jamais roi semblable à toi n’a occupé le trône, jamais la KEÏ KIIOSROU. à? !
+> Depuis que la voûte du cieljtourne au-dessus de la terre sombre, jamais roi semblable à toi n’a occupé le trône, jamais la à ? !
 >
 > Gloire de la royauté ne s’estainsi attachée à d’autres qu’à toi ; nul autre n’est digne du trône, du diadème, de la ceinture et de la fortune des rois et le maître du monde réduira en poussière la tête de quiconque osera t’affronter au jour du combat.
 >
 > Mais moi je suis un esclave coupable envers toi et je me suis écarté de tes ordres pleins de prévoyance.
 >
-> Le roi m’en a voulu d’avoir laissé échapper Keî Khosrou, mais je ne crois pas qu’il y eût de ma faute ; n car’c’était l’ordre de Dieu : ce qui est arrivé devait arriver et il ne servirait à rien d’en parler plus
+> Le roi m’en a voulu d’avoir laissé échapper Keî Khosrou, mais je ne crois pas qu’il y eût de ma faute ; n car’c’était l’ordre de Dieu : qui est arrivé devait arriver et il ne servirait à rien d’en parler plus
 > -au long.
 >
-> Si le roi trouve que je suis innocent, il délivrera mon cou de ce fardeau et viendra à mon aide.J’ai à faire connaître au roi ce que la rotation du ciel a amené sur la tête (le son esclave.
+> Si le roi trouve que je suis innocent, il délivrera mon cou de ce fardeau et viendra à mon aide.J’ai à faire connaître au roi ce que la rotation du ciel a amené sur la tête de son esclave.
 >
 > J’ai conduit mon armée dans le mont Kenabed et nous avons coupé le chemin aux Iraniens.
 >
@@ -49,15 +51,15 @@ Cela fait, Piran envoya à l’heure du sommeil un messager vers Afrasiab, un me
 >
 > Ensuite l’illustre Nestihen m’a quitté à l’aube du jour avec dix mille cavaliers éprouvés dans les combats et le vaillant Bijen lui a aussi donné la mort.
 >
-> Dans la douleur de mon cœur, j’ai conduit mes braves sur le champ de bataille en poussant des cris de rage ; et. les deux’armées se sont livré un grand combat, jusqu’à ce que la nuit soit descendue de la montagne.
+> Dans la douleur de mon cœur, j’ai conduit mes braves sur le champ de bataille en poussant des cris de rage ; et les deux’armées se sont livré un grand combat, jusqu’à ce que la nuit soit descendue de la montagne.
 >
-> Neuf cents d’entre les héros du roi gisaient alors sur la terre ayant leurs têtes tranchées ; deux tiers des braves de notre armée ne pouvaient plus combattre, carleur cœur était blessé par la douleur, leur corps déchiré par l’épée ; et les Iraniens avaient le dessus et restaient ceints pour de nouveaux com- bats.
+> Neuf cents d’entre les héros du roi gisaient alors sur la terre ayant leurs têtes tranchées ; deux tiers des braves de notre armée ne pouvaient plus combattre, carleur cœur était blessé par la douleur, leur corps déchiré par l’épée ; et les Iraniens avaient le dessus et restaient ceints pour de nouveaux combats.
 >
 > Cela m’inspire la crainte que le ciel qui tourne ne nous retire toutes ses faveurs.
 >
-> KEÏ KHOSBOU.
 >
-> H3 De plus j’ai appris une mauvaise nouvelle, et n mon esprit en est tout étourdi : j’ai entendu dire que Keï Khosrou va arriver ici avec une armée pour soutenir son Sipehbed.
+>
+> H3 De plus j’ai appris une mauvaise nouvelle et n mon esprit en est tout étourdi : j’ai entendu dire que Keï Khosrou va arriver ici avec une armée pour soutenir son Sipehbed.
 >
 > S’il est vrai que Khosrou se dirige vers nous, alors, ô roi des rois, sache que je ne puis pas lui livrer bataille ; à moins que tu ne t’avances toi-même vers l’Iran avec une armée avide de vengeance, que tu ne te détermines à détourner ce malheur des Touraniens, que tu ne te ceignes pour le combat.
 >
