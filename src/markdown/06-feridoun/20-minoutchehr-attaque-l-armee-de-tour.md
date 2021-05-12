@@ -10,7 +10,7 @@ order: '020'
 
 # Minoutchehr attaque l'armée de Tour
 
-Lorsque les ténèbres curent remplacé lejour, Illi-M3 nontcflehr envoya son avantgarde sur la montagne et dans la plaine.
+Lorsque les ténèbres curent remplacé lejour, Illi-M3 nontcflehr envoya son avant-garde sur la montagne et dans la plaine.
 
 Karen le brave marchait devant l’armée avec Serv, le roi de Iemen, homme de bon conseil.
 
