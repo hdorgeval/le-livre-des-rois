@@ -70,7 +70,7 @@ Tel est le monde, tantôt il élève, tantôt il rabaisse ; il guide l’un, il 
 
 Puisque j’ai terminé la vie de Khosrou, je me tourne vers Lohrasp, je vais m’occuper de sa couronne et de sa royauté ; je vais le placer sur son trône, par la permission d’un grand roi victorieux, de qui dépendent l’espérance, la crainte et la ruine, qui remplit de bonheur le cœur de ses amis et détruit les méchants.
 
-Telles sont la coutume et la nature du monde ; il tourne de celui-ci vers celui-là et de celui-là vers celui-ci.
+Telles sont la coutume et la nature du monde ; il tourne de celui-ci vers celuilà et de celuilà vers celui-ci.
 
 Quand une âme est rouillée par le malheur, le vieux vin enlève cette rouille ; quand la vieillesse surprend un homme, le vieux vin le rajeunit.
 
