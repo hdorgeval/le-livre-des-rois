@@ -20,7 +20,7 @@ Ils burent du vin, jusqu’à ce que le monde devînt obscur et que les têtes d
 
 On entendit alors à la cour du roi les voix de tous les courtisans ; puis ils se serrèrent la main et partirent ivres de vin et de joie.
 
-Lorsque le soleil darda ses rayons sur les montagnes, les grands se réveillèrent de leur sommeil, et Zal se présenta, les reins ceints et semblable à un lion courageux, devant le roi des rois, demandant la permission de quitter la cour et d’aller revoir Sam, son père illustre.
+Lorsque le soleil darda ses rayons sur les montagnes, les grands se réveillèrent de leur sommeil et Zal se présenta, les reins ceints et semblable à un lion courageux, devant le roi des rois, demandant la permission de quitter la cour et d’aller revoir Sam, son père illustre.
 
 Il dit au roi du monde :
 
