@@ -12,7 +12,7 @@ order: '168'
 
 Gustehem revêtit sa cuirasse de combat et prit congé de tous les héros qu’il rencontrait ; il sortit du camp en toute hâte ; il partit pour aller combattre les Turcs qui portaient haut la tête et toute l’armée se disait que Gustehem pourrait bien ne pas suffire contre deux.
 
-Pendant ce temps une armée envoyée par Afrasiab s’était avancée comme une barque sur l’eau, elle marchait bravement au secours de Pirau ; mais arrivée dans le désert de Dagbouï, elle apprit qu’il était mort et de quelle manière s’était terminé le combat des braves ; elle s’en retourna tout entière, et arriva devant Afrasiab en poussant des cris de douleur.
+Pendant ce temps une armée envoyée par Afrasiab s’était avancée comme une barque sur l’eau, elle marchait bravement au secours de Pirau ; mais arrivée dans le désert de Dagbouï, elle apprit qu’il était mort et de quelle manière s’était terminé le combat des braves ; elle s’en retourna tout entière et arriva devant Afrasiab en poussant des cris de douleur.
 
 Cependant Bijen apprenant que Gustehem était parti pour aller combattre Lehhak, pensa aux dangers qui l’attendaient dans le désert de Daghouï ; il pensa qu’il ne fallait pas permettre à Lehhak et à Ferschidwerd de le réduire en poudre au jour du combat ; il monta sur un cheval ardent à la course et se dirigea vers Gouderz.
 
@@ -30,13 +30,15 @@ Le chef de l’armée du roi dit alors à ses braves : Quiconque désire acquér
 
 Personne dans l’assemblée ne répondit, personne ne prenait souci de Gustehem, personne ne s’était assez reposé.
 
-Alors Bijen dit à Gouderz : Il n’y a que moi qui veuille le sauver.
+Alors Bijen dit à Gouderz :
 
-Qui d’entre les héros se mettra en avant dans cette affaire !
-
-Ils sont fatigués et ne veulent pas se lever.
-
-C’est à moi de partir, car mon cœur est plein de soucis pour lui, et mes yeux sont remplis de larmes.»
+> Il n’y a que moi qui veuille le sauver.
+>
+> Qui d’entre les héros se mettra en avant dans cette affaire !
+>
+> Ils sont fatigués et ne veulent pas se lever.
+>
+> C’est à moi de partir, car mon cœur est plein de soucis pour lui et mes yeux sont remplis de larmes.»
 
 Gouderz lui répondit :
 
@@ -48,16 +50,22 @@ Gouderz lui répondit :
 >
 > Attends que j’envoie après lui un cavalier semblable à un lion furieux, qui l’aidera dans le combat et qui mettra en poudre les têtes de ses ennemis.»
 
-Bijen répliqua : Ô Pehlewan du monde entier, c’est pendant qu’il vit encore qu’un homme a besoin d’un ami et non pas quand on l’a tué.
+Bijen répliqua :
 
-Quand Gustehem sera tombé dans le combat, quand son jour sera passé et que son sort sera achevé, est-ce alors que tu m’ordon- neras de m’occuper de lui et de prendre mes armes pour le secourir ?
+> Ô Pehlewan du monde entier, c’est pendant qu’il vit encore qu’un homme a besoin d’un ami et non pas quand on l’a tué.
+>
+> Quand Gustehem sera tombé dans le combat, quand son jour sera passé et que son sort sera achevé, est-ce alors que tu m’ordonneras de m’occuper de lui et de prendre mes armes pour le secourir ?
+>
+> Si tu me défends de partir, je me couperai le cou avec ce poignard brillant, car je ne veux pas lui survivre ; ne cherche donc pas un prétexte pour me retenir.»
 
-Si tu me défends de partir, je me couperai le cou avec ce poignard brillant, car je ne veux pas lui survivre ; ne cherche donc pas un pré- texte pour me retenir. n Gouderz répondit :
+Gouderz répondit :
 
-> Eh bien l pars, si tu tiens si peu à ta vie ; puisque tu ne te lasses pas de combattre, ceins-toi, prends tes armes et ne perds pas un instant.
+> Eh bien !
+>
+> Pars, si tu tiens si peu à ta vie ; puisque tu ne te lasses pas de combattre, ceins-toi, prends tes armes et ne perds pas un instant.
 >
 > Il parait que tu n’as aucune pitié pour ton père, car tu ne cesses de lui brûler le cœur.
 >
 > Mais tu réduis en poussière les cimes des montagnes, pourquoi craindrais-je pour toi dans ce combat?»
 
-A ces paroles de son grand-père Bijen se prosterna, baisa la terre et partit.
+À ces paroles de son grand-père Bijen se prosterna, baisa la terre et partit.
