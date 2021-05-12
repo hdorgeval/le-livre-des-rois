@@ -10,7 +10,9 @@ order: '148'
 
 # Réponse d'Afrasiab à Piran
 
-Afrasiab ordonna au messager de s’en retourner auprès du puissant Pirau aux traces fortunées et de lui porter la réponse suivante : Ô mon ami fidèle, vertueux et véridique !
+Afrasiab ordonna au messager de s’en retourner auprès du puissant Pirau aux traces fortunées et de lui porter la réponse suivante :
+
+> Ô mon ami fidèle, vertueux et véridique !
 
 Depuis le moment où ta chaste mère t’a mis au monde, tu as porté la tête plus haut que tout le peuple, tu as joui de plus de faveur que tout autre auprès de moi, je t’ai placé au-dessus de tous les Pehlewans.
 
@@ -18,9 +20,9 @@ Dans tous les combats qu’on m’a livrés, tu m’as fait de ton corps un bouc
 
 Tu as condnit ton armée de la Chine jusque dans l’Iran, tu as assombri le cœur et la fortune de mes ennemis ; tu es un prince et le Pehlewan du monde ; que ta vie soit bénie de mille bénédictions !
 
-Tu m’as accordé l’amitié que tu avais vouée à Tour et à Pescheng et le ciel ne fera plus naître de Pehlewan comme toi ; l’armée ne verra plus de obel qui te ressemble, elle ne verra plus de guide plein (le sagesse comme loi.
+Tu m’as accordé l’amitié que tu avais vouée à Tour et à Pescheng et le ciel ne fera plus naître de Pehlewan comme toi ; l’armée ne verra plus de obel qui te ressemble, elle ne verra plus de guide plein de sagesse comme loi.
 
-KEÏ KHUSROU.’ [ : Ed premier lieu tu dis que tu fus coupable lorsque Keï Khosrou passa du .Touran dans le pays d’Iran et m’accabla de sa haine.
+’ [ : Ed premier lieu tu dis que tu fus coupable lorsque Keï Khosrou passa du .Touran dans le pays d’Iran et m’accabla de sa haine.
 
 Mais sache que moi le roi je ne t’en ai pas voulu et que jamais mon cœur ne s’en est souvenu.
 
@@ -30,16 +32,19 @@ Car cela devait arriver selon la volonté du Créateur et aucun homme n’a ét�
 
 Puisque Keï Khosrou ne tient pas de moi sa dignité, ne l’appelle pas mon ce petit-fils, ce serait un mensonge ; jamais je ne serai pour lui un grand-père et je ne profiterai jamais de cette parenté.
 
-Personne n’est coupable dans cette querelle et je ne puis m’élever contre Dieu le maître du monde ; il l’a voulu ainsi, c’était le des. tin ; comment aurais-je pu t’en vouloir?
+Personne n’est coupable dans cette querelle et je ne puis m’élever contre Dieu le maître du monde ; il l’a voulu ainsi, c’était le des. tin ; comment aurais-je pu t’en vouloir ?
 
-En second lieu tu me parles de l’armée et de la rotation malheureuse du soleil et de la lune. ll est écrit que la fortune de la guerre est une poussière sombre qui vole de tous côtés ; qui tantôt élève un homme jusqu’au soleil, tantôt le précipite en bas.
+En second lieu tu me parles de l’armée et de la rotation malheureuse du soleil et de la lune.
+
+Il est écrit que la fortune de la guerre est une poussière sombre qui vole de tous côtés ; qui tantôt élève un homme jusqu’au soleil, tantôt le précipite en bas.
 
 Le ciel sublime ne tourne pas toujours dans le même sens et il amène leur à tour la joie et la tristesse ; tantôt il nous apporte du vin et les chants des musiciens, tantôt des douleurs brûlantes et de lourdes fatigues.
 
 Que ces soucis ne blessent pas ton cœur, que ton esprit ne se laisse pas enchaîner par ces liens.
 
 C’est rêver que de parler des lll.
-A26 morts ; ne renonce pas à venger ton frère, car un cœur lacéré par le meurtre d’un frère n’est pas soulagé par les remèdes des médecins.
+
+A morts ; ne renonce pas à venger ton frère, car un cœur lacéré par le meurtre d’un frère n’est pas soulagé par les remèdes des médecins.
 
 En troisième lieu tu me dis que Khosrou part de sa cour pour venir me combattre avec son armée.
 
@@ -58,31 +63,35 @@ Pirau entendit cette réponse, rassembla son armée et fit répéter au messager
 
 Il raviva ainsi le courage de ses braves, qui bannirent de leur âme tous leurs soucis.
 
-Mais lui-même était en secret plein de tristesse, son cœur était gonflé de sang, et il couvrit son front de poussière ; car il voyait que les armées du roi étaient affaiblies de tous côtés par les batailles et son cœur se serrait à cette idée, que le roi de l’Iran pourrait venir le combattre.
+Mais lui-même était en secret plein de tristesse, son cœur était gonflé de sang et il couvrit son front de poussière ; car il voyait que les armées du roi étaient affaiblies de tous côtés par les batailles et son cœur se serrait à cette idée, que le roi de l’Iran pourrait venir le combattre.
 
-Il s’adressa à Dieu, disant : Ô Créateur, que de choses surprenantes dans notre sort !
+Il s’adressa à Dieu, disant :
 
-Celui que tu avais élevé n’est-il pas maintenant renversé ?
+> Ô Créateur, que de choses surprenantes dans notre sort !
+>
+> Celui que tu avais élevé n’est-il pas maintenant renversé ?
+>
+> Il n’y a que toi, ô Maître du monde, qui sois inébranlable.
+>
+> Regarde Khosrou : qui aurait cru qu’à cette heure il serait devenu un roi si puissant ?
+>
+> Regarde ce que fait le sort inconstant : les ronces. desséchées de celui qu’il favorise poussent des roses fraiches ; et la fortune qui veille sur un homme convertit en .
+>
+> [t LE LIVRE DES nons. musc la poussière sous ses pieds.
+>
+> Plus étonnant encore est le sort d’un homme plein de noblesse, dont le cœur est toujours rempli de soucis.
+>
+> Je ne sais pourquoi il y a ce champ de bataille entre deux rois, grand-père et petit-fils ; pourquoi il y a deux princes et deux pays qui cherchent à se détruire et deux armées en présence.
+>
+> Et que dirai-je de la fin de cette guerre et de la, tournure que va prendre le sort ?
+>
+> Si Afrasiab et les grands du Touran succombent dans cette guerre et sur ce champ de bataille, ma fortune périra avec en.»
 
-Il n’y a que toi, ô Maître du monde, qui sois inébranlable.
+Il recommença à soupirer devant Dieu, disant :
 
-Regarde Khosrou : qui aurait cru qu’à cette heure il serait devenu un roi si puissant ?
-
-Regarde ce que fait le sort inconstant : les ronces. desséchées de celui qu’il favorise poussent des roses fraiches ; et la fortune qui veille sur un homme convertit en .
-
-[t28 LE LIVRE DES nons. musc la poussière sous ses pieds.
-
-Plus étonnant encore est le sort d’un homme plein de noblesse, dont le cœur est toujours rempli de soucis.
-
-Je ne sais pourquoi il y a ce champ de bataille entre deux rois, grand-père et petit-fils ; pourquoi il y a deux princes et deux pays qui cherchent à se dé- truire et deux armées en présence.
-
-Et que dirai-je de la fin de cette guerre et de la, tournure que va prendre le sort ?
-
-Si Afrasiab et les grands du Touran succombent dans cette guerre et sur ce champ de bataille, ma fortune périra avec en.»
-
-Il recommença à soupirer devant Dieu, disant : Ô Maître de la lumière et de la justice, ô Créateur!
+> Ô Maître de la lumière et de la justice, ô Créateur!
 si Keï Khosrou sort de l’Iran pour se venger et si la terre entière retombe entre ses mains, je consens que ma cuirasse soit percée et que tu enlèves mon âme de mon corps.
-
-Puisse mon œil ne jamais voir quelqu’un prendre la voie et la ligne de conduite que j’ai suivie !
-
-Quand le sort ne tourne pas au gré d’un homme, la vie ou la mort lui deviennent in- différentes. n
+>
+> Puisse mon œil ne jamais voir quelqu’un prendre la voie et la ligne de conduite que j’ai suivie !
+>
+> Quand le sort ne tourne pas au gré d’un homme, la vie ou la mort lui deviennent indifférentes. n
