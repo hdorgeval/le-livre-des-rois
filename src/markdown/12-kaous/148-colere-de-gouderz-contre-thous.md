@@ -16,7 +16,7 @@ Gouderz se mit en colère et dit :
 >
 > Nous lui montrerons qui est digne du commandement et du trône, de la splendeur de la couronne et de la faveur de la fortune.»
 
-Il avait soixante et dix-huit fils ou petitsfils ; il fit battre les timbales et se rendit du palais au Meïdan, où se rassemblèrent douze mille braves cavaliers montés sur des chevaux caparaçonnés.Thous ayant été averti que Gouderz avait paru, précédé de timbales, il se mit aussitôt lui-même en marche ; on plaça les timbales sur le dos des éléphants, un grand nombre de braves prirent les armes et l’étendard de Kawelt fut porté à la tête de l’armée.
+Il avait soixante et dix-huit fils ou petits-fils ; il fit battre les timbales et se rendit du palais au Meïdan, où se rassemblèrent douze mille braves cavaliers montés sur des chevaux caparaçonnés.Thous ayant été averti que Gouderz avait paru, précédé de timbales, il se mit aussitôt lui-même en marche ; on plaça les timbales sur le dos des éléphants, un grand nombre de braves prirent les armes et l’étendard de Kawelt fut porté à la tête de l’armée.
 
 Mais quand
 [
