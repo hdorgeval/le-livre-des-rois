@@ -130,7 +130,7 @@ Alors Tour s’adressant au puissant Selm, lui dit :
 >
 > Comment ce prince serait-il sans talent, puisque Feridoun est son conseiller ?
 >
-> Quand le grand-père et le petitsfils se concertent, il en sortira quelque œuvre prodigieuse.
+> Quand le grand-père et le petits-fils se concertent, il en sortira quelque œuvre prodigieuse.
 >
 > Il faut nous armer pour le combat et nous hâter au lieu de tarder.»
 
