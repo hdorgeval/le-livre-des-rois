@@ -12,9 +12,11 @@ order: '022'
 
 Il écrivit une lettre au roi Feridoun, lui rendant compte des événements heureux et malheureux de la guerre.
 
-Il commença par des hommages adressés au Créateur du monde, maître de la bonté, de la sainteté et de la justice : ce Gloire au maître du monde le secourablel c’est lui seul qui protége dans le malheur, c’est lui qui donne la direction et qui conwsole les cœurs, c’est lui qui sera le même en toute éternité.
+Il commença par des hommages adressés au Créateur du monde, maître de la bonté, de la sainteté et de la justice : Gloire au maître du monde le secourable !
 
-Après lui hommage au puissant Feridoun, rmaître du diadème et de la massue, à qui appartiennent la justice et la foi, la gloire, la couronne et le trône des rois !
+C’est lui seul qui protège dans le malheur, c’est lui qui donne la direction et qui console les cœurs, c’est lui qui sera le même en toute éternité.
+
+Après lui hommage au puissant Feridoun, maître du diadème et de la massue, à qui appartiennent la justice et la foi, la gloire, la couronne et le trône des rois !
 
 Tout bonheur émane de sa et fortune, toute gloire et tout honneur émane de son trône.
 
@@ -27,10 +29,7 @@ Ils ont tenté une surprise nocturne, nous avons redressé une embuscade et comb
 
 J’avais entendu dire que Tour se préparait à une attaque de nuit et que dans son désespoir il et avait eu recours aux enchantements.
 
-Alors j’ai dressé derrière lui une embuscade et je n’ai laissé entre fortune si haute et si basse.
-
-MINOUTCHEHR ANNÔNCE SA VICTOIRE A b Il d 9
-8 ses mains que du vent ; au moment où il s’enfuyait du combat, je me suis précipité après lui, je l’ai atteint, j’ai passé ma lance à travers sa cotte de mailles et l’ai enlevé de sa selle ; je l’ai jeté par terre comme un dragon, j’ai séparé sa tête de son vil cadavre.
+Alors j’ai dressé derrière lui une embuscade et je n’ai laissé entre ses mains que du vent ; au moment où il s’enfuyait du combat, je me suis précipité après lui, je l’ai atteint, j’ai passé ma lance à travers sa cotte de mailles et l’ai enlevé de sa selle ; je l’ai jeté par terre comme un dragon, j’ai séparé sa tête de son vil cadavre.
 
 La voici il e l’envoie à mon grand-père, pendant que je prépare un moyen de détruire Selm.
 
