@@ -52,7 +52,7 @@ Ildonna la gauche à Guerschasp, la droite à Sam le héros et à Kobad.
 
 Les deux armées se mirent en ligne ; Minoutchehr occupait le centre 1M avec Serv, il brillait au milieu de la foule comme la lune, ou comme le soleil lumineux qui se lève au-dessus des montagnes.
 
-Les chefs des troupes comme Karen et les héros comme Sam, avaient tiré les épées des fourreaux ; des hommes comme Kobad commandaient l’avantgarde et le héros issu de la race de Teliman, les embuscades.
+Les chefs des troupes comme Karen et les héros comme Sam, avaient tiré les épées des fourreaux ; des hommes comme Kobad commandaient l’avant-garde et le héros issu de la race de Teliman, les embuscades.
 
 Toute l’armée avec ses lions de combat et avec le bruit des timbales, était ornée comme une fiancée.
 
@@ -73,12 +73,12 @@ Il lui répondit :
 > Oui, je porterai ton message, tel que tu me l’as dit et avec le nom que tu as donné à Minoutclwhr.
 >
 > Mais quand tu y auras réfléchi, quand ta tête aura consulté en secret ton cœur, tu reconnaî-
-c tras que c’est une chose immense et tu trembleras de tes paroles irréfléchies.
+> c tras que c’est une chose immense et tu trembleras de tes paroles irréfléchies.
 >
 > Quand les bêtes féroces If).
 >
 > Ilt2 LE LIVRE DES nons. pleureraient sur votre sort jour et nuit, il n’y au-
-r rait rien de surprenant, car depuis la forêt de r Narwen jusqu’à la frontière de Chine, tout est rempli de cavaliers prêts pour le combat et d’hommes demandant vengeance ; et quand vous verrez briller autour de l’étendard de Kaweh nos épées d’acier, votre cœur et votre tête trembleront de peur et vous ne distinguerez plus les monts des vallées.»
+> r rait rien de surprenant, car depuis la forêt de r Narwen jusqu’à la frontière de Chine, tout est rempli de cavaliers prêts pour le combat et d’hommes demandant vengeance ; et quand vous verrez briller autour de l’étendard de Kaweh nos épées d’acier, votre cœur et votre tête trembleront de peur et vous ne distinguerez plus les monts des vallées.»
 
 Kobad alla pour parler au roi’ et lui répéta ce qu’il avait entendu de la bouche de ce brave.
 
