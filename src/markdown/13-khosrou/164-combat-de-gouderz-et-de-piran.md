@@ -12,7 +12,7 @@ order: '164'
 
 Lorsque neuf heures de la journée se furent écoulées, il n’y avait plus aucun Turc sur cette large plaine ; l’épée avait séparé leurs âmes de leurs corps.
 
-Un dirait que le monde n’a pas de pitié z il élève un homme tendrement, il lui fait parcourir une longue vie ; ensuite il l’attaque dans la nuit, prépare sa perte et I’accable de toutes sortes de malheurs et d’infortunes.
+Un dirait que le monde n’a pas de pitié : il élève un homme tendrement, il lui fait parcourir une longue vie ; ensuite il l’attaque dans la nuit, prépare sa perte et I’accable de toutes sortes de malheurs et d’infortunes.
 
 Il nous fait naître du vent et nous livre à l’ouragan ; nous demandons justice et c’est l’injustice qui apparaît.
 
@@ -21,7 +21,7 @@ La lutte avait porté malheur aux Touraniens, il leur en coûtait cher d’avoir
 Alors les Sipehdars de l’Iran et du Touran s’avance--
 rent résolûment au combat.
 
-Ils cumulèrent sous leurs pieds la surface de la terre ; leur cœur était, rempli de douleur, leur tête pleine du désir de la vengeance ; et le soleil s’arrêta pendant leur combat, étonné de la poussière qui s’élevait du champ (le ba-
+Ils cumulèrent sous leurs pieds la surface de la terre ; leur cœur était, rempli de douleur, leur tête pleine du désir de la vengeance ; et le soleil s’arrêta pendant leur combat, étonné de la poussière qui s’élevait du champ de ba-
 KEI Knosaou.
 
 A taille.
@@ -30,7 +30,7 @@ Ils déployèrent toutes les ressources de l’art avec l’épée et le poignar
 
 Piran ne pouvait résister à la volonté de Dieu, qui ôtait les forces à son destrier ; il sentait le destin qui s’approchait ; il comprit que c’était la volonté de Dieu.
 
-Mais il était brave, et continuait à se battre ; il luttait contre la révolution du sort.
+Mais il était brave et continuait à se battre ; il luttait contre la révolution du sort.
 
 Après s’être servis des autres armes, les chefs des deux armées, les vieillards pleins de prudence saisirent les arcs et les flèches.
 
@@ -51,7 +51,7 @@ A hommes.
 Il s’écria : Ô illustre Pehlewan, que t’ar-
 nrive-t-il ?
 
-Pourquoi t’enfuis-tu ainsi à pied devant cr moi comme une bête fauve ?
+Pourquoi t’enfuis-tu ainsi à pied devantmoi comme une bête fauve ?
 
 Où sont donc les troupes, ô chef de l’armée ?
 
@@ -60,11 +60,13 @@ Où sont la force et la bra-
 
 Le sort te tourne entièrement le dos ; ce n’est pas le moment d’employer des ruses ; ainsi ne cherche pas à t’échapper.
 
-Puisque le destin t’y réduit, demande grâce, afin que je t’amène en vie devant le roi victorieux. qui te pardonnera, quand il verra e ta tête et ta barbe blanches comme la neige. a Piran répondit :
+Puisque le destin t’y réduit, demande grâce, afin que je t’amène en vie devant le roi victorieux. qui te pardonnera, quand il verra e ta tête et ta barbe blanches comme la neige.»
+
+Piran répondit :
 
 > Qu’il n’en soit pas ainsi.
 >
-> Puissécr je n’être pas réservé à ce dernier malheur, qu’après tout ceci j’éprouve encore l’envie de vivre, et que je pense à demander pardon.
+> Puissécr je n’être pas réservé à ce dernier malheur, qu’après tout ceci j’éprouve encore l’envie de vivre et que je pense à demander pardon.
 >
 > Je suis venu dans ce monde pour mourir et je t’ai livré ma tête dans ce combat.
 >
@@ -88,9 +90,11 @@ Il tomba, semblable à un lion furieux, le foie blessé par le javelot d’acier
 
 Telle est la rotation du temps, il n’accepte les enseignements d’aucun maître ; quand le destin a trempé ses mains dans le fiel, il déchire le cœur du lion et la peau du léopard.
 
-Lorsque Gouderz eut atteint la cime de la montagne, il vit Pirau dans cet état, abattu misérablement, ayant le cœur brisé, la main blessée, la tête couchée sur le sol, la cuirasse déchirée, la ceinture rompue ; il dit : Ô vaillant lion l ô chef des Pehlewans ! ô brave cavalier !
+Lorsque Gouderz eut atteint la cime de la montagne, il vit Pirau dans cet état, abattu misérablement, ayant le cœur brisé, la main blessée, la tête couchée sur le sol, la cuirasse déchirée, la ceinture rompue ; il dit :
 
-Le monde a vu beaucoup d’hommes comme toi et comme moi, mais il n’ac-I corde du repos à personne.»
+> Ô vaillant lion ! ô chef des Pehlewans ! ô brave cavalier !
+>
+> Le monde a vu beaucoup d’hommes comme toi et comme moi, mais il n’ac-I corde du repos à personne.»
 
 Il porta la main sur le corps de Pirau et la remplit de sang qu’il but et dont il se frotta le visage, ô horreur !
 
