@@ -18,7 +18,9 @@ Il parla ainsi aux sages de renom :
 >
 > Le roi dans sa sagesse m’a ordonné de me mettre en route avec l’armée ; je marcherai contre le pays des Kerguesars et contre le Mazenderan avec des troupes nombreuses.
 >
-> Mais je vous laisserai mon fils qui m’est cher comme mon âme et comme le sang de mon l cœur.
+> Mais je vous laisserai mon fils qui m’est cher comme mon âme et comme le sang de mon !
+>
+> Cœur.
 >
 > J’ai commis, au temps de la jeunesse et de l’arrogance, une injustice cruelle.
 >
@@ -26,13 +28,13 @@ Il parla ainsi aux sages de renom :
 >
 > Le noble Simurgh l’a recueilli et Dieu ne l’a pas laissé périr comme une chose vile.
 >
-> Je l’ai méprisé, un oiseau l’a respecté et l’a élevé us- qu’à ce qu’il fût comme un cyprès élancé ; et lorsque se le temps de me pardonner est arrivé, Dieu le maître du monde me l’a rendu.
+> Je l’ai méprisé, un oiseau l’a respecté et l’a élevé usqu’à ce qu’il fût comme un cyprès élancé ; et lorsque se le temps de me pardonner est arrivé, Dieu le maître du monde me l’a rendu.
 >
-> Sachez qu’il est un souve- nir que je vauclusien et qu’il est mon gage auprès de vous.
+> Sachez qu’il est un souvenir que je vauclusien et qu’il est mon gage auprès de vous.
 >
-> Je vous charge de lui enseigner ce qui est bon, et de faire briller son âme de toutes les vertus.
+> Je vous charge de lui enseigner ce qui est bon et de faire briller son âme de toutes les vertus.
 >
-> Res- pectenle, donnez-lui vos conseils et les manières et la conduite d’un roi, car je pars avec les chefs de l’armée, selon les ordres du roi, pour aller combattre les ennemis.»
+> Respectenle, donnez-lui vos conseils et les manières et la conduite d’un roi, car je pars avec les chefs de l’armée, selon les ordres du roi, pour aller combattre les ennemis.»
 
 Puis Sam tourna ses regards vers Zal et lui dit :
 
@@ -53,8 +55,7 @@ rai-je vivre pendant ton absence ?
 >
 > S’il y a quelqu’un que sa ’mèreait mis au monde innocent, c’est moi,
 >
-> 
-et pourtant je pourrais me plaindre avec justice.
+> et pourtant je pourrais me plaindre avec justice.
 >
 > Ne m’éloigne pas de toi encore plus que tu ne l’as déjà fait, car le jour de la concorde est venu.
 >
@@ -75,7 +76,7 @@ tour de toi.
 
 Ainsi parla Sam et les timbales commencèrent à résonner ; la terre devint couleur de fer, le ciel couleur d’ébène.
 
-Les clochettes et les trompettes indiennes sonnèrent dans la cour des tentes du roi et Sam par- q tit pour la guerre avec une armée en bon ordre et avide de combats.
+Les clochettes et les trompettes indiennes sonnèrent dans la cour des tentes du roi et Sam parq tit pour la guerre avec une armée en bon ordre et avide de combats.
 
 Zal l’accompagna dans sa marche pendant deux jours jusqu’au lieu où l’armée allait passer les crêtes des montagnes ; alors son père le serra dans ses bras et poussa de grands cris de douleur.
 
