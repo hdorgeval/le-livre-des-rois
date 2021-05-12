@@ -31,6 +31,7 @@ Si donc le roi veut suivre un avis sensé, il conduira l’armée d’ici à Dja
 Puisse-t-il plaire au roi de se retirer derrière le Gulzarrioun et de se tenir en ce repos dans son paradis de Gangue, qui est le dépôt de ses trésors et son champ de bataille!»
 
 Tous se réunirent à cet avis et personne n’en ouvrit un autre.
+
 Ils partirent tous pour le Gulzarrioun, les yeux remplis de larmes, les joues inondées de sang.
 
 Le roi des Turcs resta trois jours sur les bords du Guizarrioun et se délassa en chassant au faucon et au guépard.
@@ -41,12 +42,14 @@ Le roi ypossédait une ville semblable au paradis, dont le sol était de musc et
 
 Il s’y reposa henreux et souriant ; tu aurais dit que la sécurité était sa compagne.
 
-Il appela de tous côtés une armée sans nombre, des grands qui portaient haut la tête etdes héros et se mit à jouir du vin et des bosquets fleuris, du son des harpes et des rebecs, des roses, des jacinthes et des coupes.
+Il appela de tous côtés une armée sans nombre, des grands qui portaient haut la tête et des héros et se mit à jouir du vin et des bosquets fleuris, du son des harpes et des rebecs, des roses, des jacinthes et des coupes.
 
 Il jouit ainsi de la vie en at-
 
 Sa LE LIVRE pas sors. tendant qu’il vil. comment le sort tournerait et quel secret se cachait sous cc qui était apparent.
 
-Mais bientôt arrivèrent des espions qui lui dirent en secret : Khosrou a conduit son armée de ce côté du Djihoun. il a quitté le bord du fleuve et arrive dans le désert.
+Mais bientôt arrivèrent des espions qui lui dirent en secret :
 
-Fais attention et prépare sur-le-champ ce qu’il faut, car l’ennemi va paraître inopinément.»
+> Khosrou a conduit son armée de ce côté du Djihoun. il a quitté le bord du fleuve et arrive dans le désert.
+>
+> Fais attention et prépare sur-le-champ ce qu’il faut, car l’ennemi va paraître inopinément.»
