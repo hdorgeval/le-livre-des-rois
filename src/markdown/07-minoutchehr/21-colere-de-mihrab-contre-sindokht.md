@@ -12,7 +12,7 @@ order: '021'
 
 Lorsque ces événements furent connus à Kaboul, la tête du gardien des frontières se remplit de colère.
 
-Il en perdit la raison, appela devant lui Sindokht et exhala devant elle toute sa colère contre Boudabeh, disant :
+Il en perdit la raison, appela devant lui Sindokht et exhala devant elle toute sa colère contre Roudabeh, disant :
 
 > Maintenant il n’y a plus d’autre moyen, je ne peux tenir contre le roi du monde, je te mènerai devant lui avec ta fille au corps impur et je vous tuerai ignominieusement devant le roi du peuple.
 >
@@ -60,8 +60,7 @@ Sindokht lui dit :
 >
 > Je n’ai aucun souci de moi-même, c’est pour elle que je suis ainsi 2l.
 >
-> 
- en peine et en angoisse.»
+> en peine et en angoisse.»
 
 Elle lui fit jurer un grand serment, puis elle se prépara courageusement à son entreprise.
 
