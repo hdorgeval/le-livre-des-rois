@@ -26,13 +26,13 @@ Il alla et observa toute l’armée, il regarda la tente du roi Newder, puis il 
 >
 > Ils seront vaincus par moi, ils reconnaîtront qu’il n’y a que moi de brave dans le monde.»
 
-Le prudent Aghrirez dit : S’il arrivait dans cette entreprise un malheur à Barman, le cœur des gardiens des frontières en serait brisé, et l’armée ne pourrait plus agir.
+Le prudent Aghrirez dit : S’il arrivait dans cette entreprise un malheur à Barman, le cœur des gardiens des frontières en serait brisé et l’armée ne pourrait plus agir.
 
 Il faudrait choisir pour cette entreprise un homme inconnu, afin que nous n’ayons pas à nous mordre les doigts et les lèvres.»
 
-Les traits du fils de Pescheng se contractèrent de colère, il eut honte des paroles d’Aghrirez, et dit à’Barman en jetant sur lui un regard farouche :
+Les traits du fils de Pescheng se contractèrent de colère, il eut honte des paroles d’Aghrirez et dit à’Barman en jetant sur lui un regard farouche :
 
-> am Mets ta cuirasse et bande ton arc, tu lèveras la tête au-dessus de toute cette armée et nous n’au-rons besoin ni des doigts ni des dentsm Barman partit, il alla sur le champ de bataille et éleva la voix du côté où était Karen, fils de Kaweh : As-tu quelqu’un, dans cette armée du roi illustre , qui veuille me combattre?»
+> am Mets ta cuirasse et bande ton arc, tu lèveras la tête au-dessus de toute cette armée et nous n’au-rons besoin ni des doigts ni des dentsm Barman partit, il alla sur le champ de bataille et éleva la voix du côté où était Karen, fils de Kaweh : As-tu quelqu’un, dans cette armée du roi illustre, qui veuille me combattre?»
 
 Karen regarda les siens pour voir qui parmi eux demanderait à combattre Barman ; mais aucun des grands ne répondit, excepté Kobad, le vieillard plein de cœur.
 
@@ -47,7 +47,7 @@ Le cœur de Karen était en angoisse pour Kobad et il parla ainsi au milieu des 
 >
 > Si le sang rougissait tes cheveux blancs, le désespoir saisirait nos braves.»
 
-Écoute ce que répondit à Karen son frère au mi- lieu de l’assemblée.
+Écoute ce que répondit à Karen son frère au milieu de l’assemblée.
 
 Il lui dit :
 
@@ -59,7 +59,7 @@ Il lui dit :
 >
 > L’un meurt par l’épée au temps du combat de deux armées ; sa tête est livrée aux lances et aux glaives tranchants, son corps aux vautours et aux lions déchirants ; un autre meurt sur sa couche : mais tous deux sont destinés à marcher rapidement vers le terme de leur vie.
 >
-> Quand j’aurai quitté ce monde immense, je laisserai à ma place un frère plein de force et. de pouvoir.
+> Quand j’aurai quitté ce monde immense, je laisserai à ma place un frère plein de force et de pouvoir.
 >
 > Élevez-moi un tombeau digne e d’un roi, rendez-moi les devoirs d’amour quand je ne serai plus.
 >
@@ -130,7 +130,7 @@ Karen lui répondit :
 >
 > Jusqu’à ce jour je n’ai pas délié cette ceinture, ni déposé cette épée d’acier.
 >
-> Mon frère a péri, cet homme plein de pru- dence et de sagesse et moi aussi je périrai dans cette guerre.
+> Mon frère a péri, cet homme plein de prudence et de sagesse et moi aussi je périrai dans cette guerre.
 >
 > Puisses-tu être heureux !
 >
@@ -138,7 +138,7 @@ Karen lui répondit :
 >
 > Lorsqu’une partie de son armée a été vaincue, il a choisi un certain nombre de braves parmi des troupes fraîches et m’ayant aperçu avec ma massue à tête de bœuf, il est venu à moi pour me combattre.
 >
-> Je me suis placé devant lui de telle sorte que mes yeux étaient opposés aux siens, mais il a fait dans la lutte un enchantement contre moi, et la lumière et les couleurs ont disparu de devant mes yeux.
+> Je me suis placé devant lui de telle sorte que mes yeux étaient opposés aux siens, mais il a fait dans la lutte un enchantement contre moi et la lumière et les couleurs ont disparu de devant mes yeux.
 >
 > La nuit est venue, le monde entier était enveloppé de ténèbres et mon bras était las de frapper.
 >
