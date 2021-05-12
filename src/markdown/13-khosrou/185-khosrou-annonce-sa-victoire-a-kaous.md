@@ -24,6 +24,8 @@ J’envoie au roi les têtes coupées de trois cents héros ; c’étaient son f
 
 Toutes ces batailles ont été livrées dans le désert de Kharizm et toutes ont été bénies par le ciel.
 
-Afrasiab est parti et nous le sui- vous en toute hâte, pour voir ce qu’amènera la ro- tation du monde.»
+Afrasiab est parti et nous le sui-vous en toute hâte, pour voir ce qu’amènera la rotation du monde.»
 
-On apposa sur la lettre un sceau de musc et Khosrou se mit à traverser le désert de sable, disant : Bénissons ce champ de bataille et puisse chaque aunée être gouvernée par une étoile qui porte bonheur !
+On apposa sur la lettre un sceau de musc et Khosrou se mit à traverser le désert de sable, disant :
+
+> Bénissons ce champ de bataille et puisse chaque aunée être gouvernée par une étoile qui porte bonheur !
