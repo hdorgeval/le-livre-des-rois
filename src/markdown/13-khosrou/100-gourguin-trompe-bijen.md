@@ -22,11 +22,11 @@ Mais ses désirs ne s’accordaient pas avec ce qui était écrit, car il n’av
 
 Un homme qui creuse un fossé profond sur la route fera bien de prendre garde à lui-même.
 
-Gourguin , poussé par l’espoir d’agrandir sa fortune et d’acquérir de la renommée, commença à tendre ses filets sur le chemin du jeune homme;
+Gourguin, poussé par l’espoir d’agrandir sa fortune et d’acquérir de la renommée, commença à tendre ses filets sur le chemin du jeune homme;
 
 Et Bijen, qui ne se doutait pas de ses intentions, prit pour bonnes toutes ses paroles.
 
-Lorsqu’ils eurent bu un peu de vin rouge, Bijen regarda Gourguin et lui dit:
+Lorsqu’ils eurent bu un peu de vin rouge, Bijen regarda Gourguin et lui dit :
 
 > Puisque tu m’as vu combattre, crois-tu que quelqu’un puisse me tenir tête ?
 
@@ -34,17 +34,17 @@ Gourguin répondit :
 
 > Ô Bijen au beau visage, je n’ai jamais vu de guerrier comme toi.
 
-Bijen se réjouit de ces paroles; il ne savait pas que le cœur de Gourguin était dur comme l’acier.
+Bijen se réjouit de ces paroles ; il ne savait pas que le cœur de Gourguin était dur comme l’acier.
 
 Ils burent du vin deux ou trois fois gaiement et en plaisantant;
 
-Ensuite Gourguin dit:
+Ensuite Gourguin dit :
 
-> J’ai été étonné de ta bravoure; et à l’aide de la force que Dieu t’a donnée et de ta fortune invincible, tu accompliras encore d’autres hauts faits.
+> J’ai été étonné de ta bravoure ; et à l’aide de la force que Dieu t’a donnée et de ta fortune invincible, tu accompliras encore d’autres hauts faits.
 >
 > Je vais maintenant te parler de choses qui valent la peine d’être dites, car je suis venu souvent dans ce pays avec Rustem, Guiv et Guejdehem, ou avec Thous fils de Newder et Gustehem.
 >
-> Que de fois avons-nous montré notre bravoure sur cette large plaine, et que de temps s’est-il passé depuis!
+> Que de fois avons-nous montré notre bravoure sur cette large plaine et que de temps s’est-il passé depuis!
 >
 > Quelle gloire et que d’honneur n’y avons-nous pas recueillis aux yeux de Khosrou !
 >
@@ -54,7 +54,7 @@ Ensuite Gourguin dit:
 >
 > Les bois, les jardins et les eaux vives en font un lieu digne d’un Pehlewan.
 >
-> Là la terre est du satin, l’air est parfumé de musc, et l’on dirait que l’eau des ruisseaux est de l’eau de rose.
+> Là la terre est du satin, l’air est parfumé de musc et l’on dirait que l’eau des ruisseaux est de l’eau de rose.
 >
 > Les tiges du jasmin s’y courbent sous le poids des fleurs;
 >
@@ -74,11 +74,11 @@ Ensuite Gourguin dit:
 >
 > Toute la plaine sera parée et remplie de choses précieuses comme un temple chinois.
 >
-> Partons pour ce lieu de fêtes, parcourons rapidement cette distance d’une journée, et emparons nous de quelques-unes de ces femmes au visage de Péri pour les ramener auprès de Khosrou et nous couvrir de gloire.
+> Partons pour ce lieu de fêtes, parcourons rapidement cette distance d’une journée et emparons nous de quelquesunes de ces femmes au visage de Péri pour les ramener auprès de Khosrou et nous couvrir de gloire.
 
 Ainsi parla Gourguin.
 
-Bijen était jeune, et son sang de Pehlewan bouillonnait; il répondit:
+Bijen était jeune et son sang de Pehlewan bouillonnait ; il répondit :
 
 > Partons, allons jouir de la vue de cette fête.
 
@@ -86,4 +86,4 @@ Ils montèrent sur l’heure à cheval et se dirigèrent du côté de ce lieu de
 
 Quelquefois Bijen recherchait la gloire, mais dans ce moment il ne songeait qu’aux plaisirs;
 
-Il était jeune, et il agissait comme un jeune homme.
+Il était jeune et il agissait comme un jeune homme.
