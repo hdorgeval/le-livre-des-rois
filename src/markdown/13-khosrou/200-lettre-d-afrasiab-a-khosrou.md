@@ -25,19 +25,23 @@ Soixante années ont passé sur ma tête depuis que j’ai fait ma première cam
 
 LlO as la griffe dg lion dans la bataille ; choisis un champ de combat écarté et loin des hommes qui adorent Dieu et nous nous y battrons, loin de nos armées.
 
-Si je tombe sous la main, tonlfilet ti- rera le crocodile du fond des eaux, mais n’attaque pas ma famille ni mes alliés, pardonne-leur et ne te laisse pas aller à cette rage de vengeance.
+Si je tombe sous la main, tonlfilet tirera le crocodile du fond des eaux, mais n’attaque pas ma famille ni mes alliés, pardonne-leur et ne te laisse pas aller à cette rage de vengeance.
 
-Si, au contraire, je te tue, je jure par la protection que je demande à Dieu que. je ne permettrai pas qu’un seul parmi les tiens ait à souffrir, ou qu’il entende le bruit des armes dans le combatm Khosrou écouta ’les paroles du messager, puis il dit au fils de Zal, fils de Sam : Ce Turc malfaisant et fourbe ne distinguera donc jamais quand sa fortune s’élève et quand elle s’abaisse ?
+Si, au contraire, je te tue, je jure par la protection que je demande à Dieu que. je ne permettrai pas qu’un seul parmi les tiens ait à souffrir, ou qu’il entende le bruit des armes dans le combatm Khosrou écouta ’les paroles du messager, puis il dit au fils de Zal, fils de Sam :
 
-Il a échappé par une ruse au malheur dont il était menacé par nous, mais qui voudra attendre qu’il soit remonté sur le trône du Touran ?
+> Ce Turc malfaisant et fourbe ne distinguera donc jamais quand sa fortune s’élève et quand elle s’abaisse ?
+>
+> Il a échappé par une ruse au malheur dont il était menacé par nous, mais qui voudra attendre qu’il soit remonté sur le trône du Touran ?
+>
+> Il parle maintenant d’un combat ; est-ce qu’il cherche le tombeau de Schideh ?
+>
+> Il est petit-fils de Feridoun et fils de Pescheng et je ne dérogerai pas’en le combattant.»
 
-Il parle maintenant d’un combat ; est-ce qu’il cherche le tombeau de Schideh ?
+Rustem lui répondit :
 
-Il est petit-fils de Feridoun et fils de Pescheng et je ne dérogerai pas’en le combattant.»
-
-Bustem lui répondit :
-
-> Ô roi l ne place pas ainsi du feu dans ton sein.
+> Ô roi !
+>
+> Ne place pas ainsi du feu dans ton sein.
 >
 > Ce serait une honte pour toi de combattre en personne, quand même ce serait Pescheng qui se trouverait en face de toi.
 >
@@ -45,4 +49,4 @@ Bustem lui répondit :
 >
 > Pour faire avec ton grand-père un traité devant Dieu, il ne faudrait pas qu’il y eût de la fausseté dans les cœurs.
 >
-> Conduis ton armée en- tière au combat et méprise ces paroles trompeuses et vaines.»
+> Conduis ton armée entière au combat et méprise ces paroles trompeuses et vaines.»
