@@ -36,7 +36,7 @@ Je ferai tout ce que tu souhaites, puisque tel est ton désir et ton but.
 
 Reste quelque temps auprès de moi, pour que je prenne conseil sur ce qui te regarde.
 
-Les cuisiniers apportèrent une table d’or et le roi des rois s’y assit avec Zal ; il ordonna à tous les grands de s’asseoir à la table du roi du peuple, et après qu’ils eurent achevé de dîner avec lui, on plaça du vin devant le trône d’un autre appartement.
+Les cuisiniers apportèrent une table d’or et le roi des rois s’y assit avec Zal ; il ordonna à tous les grands de s’asseoir à la table du roi du peuple et après qu’ils eurent achevé de dîner avec lui, on plaça du vin devant le trône d’un autre appartement.
 
 Le vin étant bu, le fils de Sam monta un cheval à frein d’or, il partit et passa la longue nuit, le cœur plein de pensées, la bouche pleine de paroles.
 
@@ -48,7 +48,7 @@ Puis le roi ordonna aux Mobeds et aux sages, aux astrologues et aux savants, de 
 
 Ils quittèrent le roi et se donnèrent beau-coup de peine pour découvrir le secret du ciel.
 
-Après avoir employé trois jours à leur recherche, ils repa- rurent, une table astronomique indienne à la main.
+Après avoir employé trois jours à leur recherche, ils reparurent, une table astronomique indienne à la main.
 
 Ils adressèrent au roi la parole, disant :
 
