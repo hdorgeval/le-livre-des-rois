@@ -12,53 +12,55 @@ order: '105'
 
 Dieu eut pitié de la jeunesse de Bijen et confondit son ennemi.
 
-Pendant que les ouvriers creusaient un trou pour y planter le gibet, le hasard voulut que Piran fils de Wiseh parût au loin ; quand il fut plus près, qu’il trouva la route couverte de Turcs armés, qu’il vit dresser un grand poteau d’où pendait
-un lacet roulé, il dit aux Touraniens :
+Pendant que les ouvriers creusaient un trou pour y planter le gibet, le hasard voulut que Piran fils de Wiseh parût au loin  ; quand il fut plus près, qu’il trouva la route couverte de Turcs armés, qu’il vit dresser un grand poteau d’où pendait un lacet roulé, il dit aux Touraniens :
 
 > Qu’est-ce que ce gibet?
 >
-> La porte du roi est-elle une place convenable pour une potence?
+> La porte du roi est-elle une place convenable pour une potence ?
 
-Guersiwez lui répondit:
+Guersiwez lui répondit :
 
 > C’est pour Bijen, le pire des ennemis du roi.
 
-Piran poussa son cheval et s’approcha de Bijen , qu’il trouva abattu et dépouillé de ses vêtements ;
+Piran poussa son cheval et s’approcha de Bijen, qu’il trouva abattu et dépouillé de ses vêtements ;
 
-Ses deux mains étaient fortement liées derrière le dos, sa bouche était sèche, et son visage avait perdu son éclat et ses couleurs.
+Ses deux mains étaient fortement liées derrière le dos, sa bouche était sèche et son visage avait perdu son éclat et ses couleurs.
 
-Il lui demanda:
+Il lui demanda :
 
 > Comment es-tu arrivé ici ?
 >
-> Es-tu donc venu de l’Iran pour chercher la mort?
+> Es-tu donc venu de l’Iran pour chercher la mort ?
 
-Bijen lui raconta toute son aventure, et comment son méchant compagnon l’y avait jeté.
+Bijen lui raconta toute son aventure et comment son méchant compagnon l’y avait jeté.
 
-Piran fils de Wiseh eut compassion de lui, et les larmes de ses yeux inondèrent ses joues.
+Piran fils de Wiseh eut compassion de lui et les larmes de ses yeux inondèrent ses joues.
 
-Ensuite, il donna l’ordre qu’on suspendît l’exécution, et il dit à Bijen :
+Ensuite, il donna l’ordre qu’on suspendît l’exécution et il dit à Bijen :
 
-> Attends ici jusqu’à ce que j’aie pu voir le roi et lui montrer , l’étoile de la route du bien.
+> Attends ici jusqu’à ce que j’aie pu voir le roi et lui montrer, l’étoile de la route du bien.
 
-Il donna un coup à son cheval et partit, et se hâta d’arriver auprès du
-roi du Touran.
+Il donna un coup à son cheval et partit et se hâta d’arriver auprès du roi du Touran.
 
-Il entra dans le palais humblement comme un esclave, et se présenta devant Afrasiab les mains croisées sur la poitrine;
+Il entra dans le palais humblement comme un esclave et se présenta devant Afrasiab les mains croisées sur la poitrine;
 
 Il courut jusqu’au-près du trône et invoqua sur le roi les grâces de Dieu ;
 
 Ensuite il se tint debout devant lui comme il convient à un Destour vertueux et de bon conseil.
 
-Le maître du monde vit que le noble Piran se tenait debout parce qu’il avait quelque chose à demander ; il sourit et lui dit :
+Le maître du monde vit que le noble Piran se tenait debout parce qu’il avait quelque chose à demander  ; il sourit et lui dit :
 
-> Que désires-tu ? Parle ! Il n’y a personne que j’honore autant que toi.
+> Que désires-tu ?
+
+Parle  !
+
+Il n’y a personne que j’honore autant que toi.
 >
 > Si tu veux de l’or ou des joyaux, si tu veux un gouvernement ou une armée, je ne serai pas avare envers toi de mes trésors;
 >
-> Car sans cela, comment supporterais-tu pour moi tant de fatigues?
+> Car sans cela, comment supporterais-tu pour moi tant de fatigues ?
 
-A ces paroles Piran le serviteur du roi baisa la terre, et il dit en se redressant :
+À ces paroles Piran le serviteur du roi baisa la terre et il dit en se redressant :
 
 > Puisses-tu occuper à jamais le trône!
 >
@@ -90,7 +92,7 @@ Ensuite, il reprit :
 >
 > Je t’ai prédit que les Iraniens nous fouleraient aux pieds de leurs éléphants, qu’ils briseraient les liens qui nous unissent.
 >
-> Je t’ai prédit combien d’hommes ils tueraient; combien ils en feraient descendre dans la tombe; combien de femmes se désoleraient de la perte de leurs maris; combien d’hommes au cœur de lion disparaîtraient devant eux.
+> Je t’ai prédit combien d’hommes ils tueraient ; combien ils en feraient descendre dans la tombe ; combien de femmes se désoleraient de la perte de leurs maris ; combien d’hommes au cœur de lion disparaîtraient devant eux.
 >
 > Mais tu as fait périr Siawusch follement, tu as mêlé du poison avec ton miel.
 >
@@ -98,7 +100,7 @@ Ensuite, il reprit :
 >
 > N’as-tu pas vu le mal que les Iraniens ont fait dans le pays de Touran ?
 >
-> Les sabots de leurs destriers ont foulé les deux tiers du Touran, et notre fortune s’est éclipsée, et l’épée de Destan fils de Sam n’est jamais restée dans le fourreau;
+> Les sabots de leurs destriers ont foulé les deux tiers du Touran et notre fortune s’est éclipsée et l’épée de Destan fils de Sam n’est jamais restée dans le fourreau;
 >
 > Rustem la prendra et fera tomber les têtes et rejaillir le sang jusqu’au soleil.
 >
@@ -108,21 +110,21 @@ Ensuite, il reprit :
 >
 > Si tu verses le sang de Bijen, la poussière de la destruction s’élèvera du pays de Touran.
 >
-> Tu es un roi plein de ssagesse, et je ne suis qu’un sujet;
+> Tu es un roi plein de ssagesse et je ne suis qu’un sujet;
 >
 > Mais ouvre les yeux de la sagesse et regarde;
 >
-> Songe à ce que tu as souffert de la vengeance du roi de l’Iran que tu as provoquée, et maintenant tu en recherches une nouvelle, tu veux faire porter du fruit à l’arbre du malheur.
+> Songe à ce que tu as souffert de la vengeance du roi de l’Iran que tu as provoquée et maintenant tu en recherches une nouvelle, tu veux faire porter du fruit à l’arbre du malheur.
 >
 > Nous ne pourrons pas résister à une seconde guerre, ô Pehlewan maître du monde.
 >
-> Personne ne connaît mieux que toi Guiv, et le vaillant Rustem le terrible crocodile, et Gouderz fils de Keschwad,à la main d’acier, qui viendra combattre pour venger son petit-fils.
+> Personne ne connaît mieux que toi Guiv et le vaillant Rustem le terrible crocodile et Gouderz fils de Keschwad,à la main d’acier, qui viendra combattre pour venger son petit-fils.
 
 C’est ainsi qu’il essaya de jeter de l’eau sur cette flamme ardente;
 
-Mais Afrasiab répondit:
+Mais Afrasiab répondit :
 
-> Ne sais-tu donc pas ce que Bijen a fait contre moi, et comment il m’a couvert de honte devant l’Iran et le Touran?
+> Ne sais-tu donc pas ce que Bijen a fait contre moi et comment il m’a couvert de honte devant l’Iran et le Touran?
 >
 > Ne vois-tu pas comment ma fille éhontée a déshonoré ma vieille tête?
 >
@@ -132,11 +134,11 @@ Mais Afrasiab répondit:
 
 Piran le couvrit de bénédictions et dit :
 
-> Ô roi à l’étoile fortunée, aux paroles droites, ce que tu dis est vrai, et tu ne cherches qu’à sauver ton honneur.
+> Ô roi à l’étoile fortunée, aux paroles droites, ce que tu dis est vrai et tu ne cherches qu’à sauver ton honneur.
 >
 > Néanmoins, je prie mon maître à l’esprit profond de réfléchir sur mon prudent conseil, qui est de charger Bijen de chaînes si lourdes qu’il préfèrera le gibet et la mort.
 >
-> Alors il servira d’exemple aux Iraniens, et ils n’oseront plus se ceindre pour nous faire du mal;
+> Alors, il servira d’exemple aux Iraniens et ils n’oseront plus se ceindre pour nous faire du mal;
 >
 > Car quiconque reste enchaîné dans ta prison, on n’en demande plus le nom même aux Divs.
 
