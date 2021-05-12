@@ -26,7 +26,7 @@ A l’assaut de la forteresse, nous l05 tuâmes bien trente mille hommes dans le
 
 Plus tard j’enverrai au roi des nouvelles, quand la fortune m’aura accordé d’autres faveursm Ensuite Khosrou s’établit joyeusement, entouré d’échansons au visage de péris, tenant en main des coupes de vin et il se reposa ainsi jusqu’à ce que le printemps se montra et que le monde devint un paradis rempli de couleurs et de parfums.
 
-Tout le désert était diapré de fleurs comme de la soie brodée, et l’air tacheté de nuages comme le dos du léopard ; les onagres et les gazelles couraient dans le désert ; et c’est ainsi que Khosrou passa quelque temps dans le bonheur, en chassant avec des guépards et avec des, faucons ailés, en buvant du vin au parfum de musc et en compagnie de femmes belles comme les idoles de Tharaz.
+Tout le désert était diapré de fleurs comme de la soie brodée et l’air tacheté de nuages comme le dos du léopard ; les onagres et les gazelles couraient dans le désert ; et c’est ainsi que Khosrou passa quelque temps dans le bonheur, en chassant avec des guépards et avec des, faucons ailés, en buvant du vin au parfum de musc et en compagnie de femmes belles comme les idoles de Tharaz.
 
 Les chevaux traversaient le désert, courant comme des onagres, remplis de force, le cou fort comme le cou du lion, l’oreille dressée et la tête fine comme les cerfs.
 
