@@ -10,16 +10,18 @@ order: '228'
 
 # Keï Khosrou annonce aux Iraniens ses dernieres volontés
 
-Ensuite le roi dit à Zal-Zer : Maintenant apprê-tez-vous tous, toi, Bustem, Gouderz, Guiv et tous les hommes illustres et vaillants ; faites transporter hors de la ville des tentes ; emportez dans la plaine le drapeau impérial ; prenez toutes les tentes grandes et petites et préparez un endroit pour votre demeure dans la plaine ; prenez les drapeaux des grands, des éléphants et un cortége et établissez gaiement un camp.»
+Ensuite le roi dit à Zal-Zer :
 
-Bustem fit ce que le roi’ avait ordonné ; on tira des magasins les tentes et on les emporta et les Iraniens se rendirent tous dans la plaine,obéissant à l’ordre de Khosrou.
+> Maintenant apprê-tez-vous tous, toi, Rustem, Gouderz, Guiv et tous les hommes illustres et vaillants ; faites transporter hors de la ville des tentes ; emportez dans la plaine le drapeau impérial ; prenez toutes les tentes grandes et petites et préparez un endroit pour votre demeure dans la plaine ; prenez les drapeaux des grands, des éléphants et un cortège et établissez gaiement un camp.»
+
+Rustem fit ce que le roi’ avait ordonné ; on tira des magasins les tentes et on les emporta et les Iraniens se rendirent tous dans la plaine,obéissant à l’ordre de Khosrou.
 
 Le sol V se couvrit d’une montagne à l’autre de tentes blanches, noires, violettes et bleues ; au milieu s’élevait le drapeau de Kaweh, qui jetait sur la terre ses reflets rouges, jaunes et violets.
 
 Auprès du campement du roi se trouvait celui de Zal, surmonté d’un drapeau noir ; à sa gauche était le Pehlewan Rustem, avec les grands de Kaboul à l’esprit serein ; au-de-
 vant du camp du roi étaient campés Thous, Gouderz, Guiv, Gourguin, Schapour et le vaillant Khorrad ; derrière lui, Bijen et Gustehem, avec les grands qui I’accompagnaient.
 
-Le roi des rois s’assit sur le trône d’or, ayant en main une massue à tête de bœuf ; d’un côté se tenaient Zal et Bustem, semblables à un éléphant qui KEÏ KHOSRIOU. - porte haut la tête et à un lion féroce ; de l’autre côté, Thous, Gouderz, Guiv, Behham, Schapour et Gourguin le brave, ayant tous les yeux attachés sur lui et attendant ce qu’il déciderait sur le sort de son peuple.
+Le roi des rois s’assit sur le trône d’or, ayant en main une massue à tête de bœuf ; d’un côté se tenaient Zal et Rustem, semblables à un éléphant qui -porte haut la tête et à un lion féroce ; de l’autre côté, Thous, Gouderz, Guiv, Behham, Schapour et Gourguin le brave, ayant tous les yeux attachés sur lui et attendant ce qu’il déciderait sur le sort de son peuple.
 
 Alors le roi dit d’une voix forte : Ô hommes illustres,favoris de la fortune, quiconque a du sens et de l’intelligence sait que le bien et le mal ne durent pas ; nous I tous sommes nés pour mourir et le monde est fugitif : pourquoi donc cette tristesse, ces soucis et ces peines ?
 
@@ -29,9 +31,11 @@ Nous devons tout laisser à nos ennemis et partir nous-mêmes.
 
 Aujourd’hui le but de mes fatigues est atteint, mais d’autres récompenses et d’autres rétributions restent devant moi.
 
-Craignez tous Dieu le très-saint, ne vous attachez pas à cette terre sombre ; car ce jour passera sur nous, et le temps compte chacune de nos pulsations..De Houscheng, de Djemschid et du roi Kaous, qui ont tous joui du trône, des honneurs royaux et de la couronne, il ne reste dans le monde que des noms, et personne ne lit les ordonnances des morts.Beau-coup d’entre eux ont été ingrats envers Dieu, et, à la fin, ont dû trembler devant leurs mauvaises actions.
+Craignez tous Dieu le très-saint, ne vous attachez pas à cette terre sombre ; car ce jour passera sur nous et le temps compte chacune de nos pulsations.
 
-Je suis comme eux un esclave de Dieu et quoique j’aie passé ma vie dans les luttes et les fa- ligues, que j’aie fait bien des efforts et supporté bien I des peines, je mourrai, car j’ai vu que personne ne
+De Houscheng, de Djemschid et du roi Kaous, qui ont tous joui du trône, des honneurs royaux et de la couronne, il ne reste dans le monde que des noms et personne ne lit les ordonnances des morts.Beau-coup d’entre eux ont été ingrats envers Dieu, et, à la fin, ont dû trembler devant leurs mauvaises actions.
+
+Je suis comme eux un esclave de Dieu et quoique j’aie passé ma vie dans les luttes et les faligues, que j’aie fait bien des efforts et supporté bien I des peines, je mourrai, car j’ai vu que personne ne
 
 I reste ici et maintenant j’ai détaché mon cœur et mon âme de ce séjour de passage, j’en ai fini de mes soucis et de mes travaux ; j’ai obtenu tout ce que j’ai désiré et je détourne mes yeux du trône des Keïanides.
 
@@ -47,13 +51,15 @@ Priez Dieu que je trouve délivrance de cette demeure passagère et que je puiss
 
 Lorsque Keï Khosrou leur eut donné ces conseils, les héros de l’Iran restèrent confondus.
 
-L’un dit : Ce roi est possédé du Div et la raison est devenue étrangère à son esprit.
+L’un dit :
 
-Je ne sais ce qui lui arrivera et où ce trône et cette couronne trouveront sécurité.»
+> Ce roi est possédé du Div et la raison est devenue étrangère à son esprit.
+>
+> Je ne sais ce qui lui arrivera et où ce trône et cette couronne trouveront sécurité.»
 
-Ils se dispersèrent par groupes,et les plaines, les vallées et les montagnes se remplirent
+Ils se dispersèrent par groupes et les plaines, les vallées et les montagnes se remplirent !
 
-KEÏ KHOSBOU. l d’hommes.
+D’hommes.
 
 Le bruit des flûtes et les cris des chevaux dans la plaine furent tels que tu aurais dit qu’ils perceraient le ciel.
 
