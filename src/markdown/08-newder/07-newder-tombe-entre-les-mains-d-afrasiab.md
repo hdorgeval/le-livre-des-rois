@@ -25,13 +25,13 @@ Pendant toute la nuit et jUS-
 
 Ils tentèrent beaucoup de chemins pour s’enfuir. mais ils tombèrent dans les lacets de l’infortune, etAfrasiab jeta ainsi dans les chaînes une armée prisonnière avec ce roi naguèresi puissant.
 
-Quand même le ciel s’associerait à toi en secret, tu ne trouverais pourtant pas le moyen de sortir de la sphère de sa rotation ; tantôt il te donne des couronnes, des trônes et du pouvoir ; tantôt il t’assigne l’obscurité et le malheur ; il ressemble tantôt à un ennemi, tantôt à un ami et te donne tantôt le noyau. tantôt l’écorce ; car le monde est un joueur subtil, et qui change son jeu à chaque instant ; et quand même ta tête toucherait aux noirs nuages, à la lin le sort ne t’accordera pour demeure que la poussière.
+Quand même le ciel s’associerait à toi en secret, tu ne trouverais pourtant pas le moyen de sortir de la sphère de sa rotation ; tantôt il te donne des couronnes, des trônes et du pouvoir ; tantôt il t’assigne l’obscurité et le malheur ; il ressemble tantôt à un ennemi, tantôt à un ami et te donne tantôt le noyau. tantôt l’écorce ; car le monde est un joueur subtil et qui change son jeu à chaque instant ; et quand même ta tête toucherait aux noirs nuages, à la lin le sort ne t’accordera pour demeure que la poussière.
 
 Après cela Afrasiab donna ordre de garder les défilés et les montagnes, les déserts et les rivières. pour que Karen le guerrier ne pût échapper à l’armée de Touran ; mais lorsqu’il apprit que Karen les avait déjà franchis, il fut confondu de ce qui s’était passé dans l’appartement du roi.
 
 Alors, il ordonna que Barman suivît en toute hâte Karen, le lion ardent au combat et qu’il le prit et le lui amenât.
 
-Mais on lui raconta ce que Karen avait fait de Bar- man et connue il l’avait jeté de son cheval dans la poussière.
+Mais on lui raconta ce que Karen avait fait de Barman et connue il l’avait jeté de son cheval dans la poussière.
 
 Afrasiab en devint soucieux ; la faim, le repos et le sommeil l’abandonnèrent ; puis il dit à Wiseh le renommé :
 
