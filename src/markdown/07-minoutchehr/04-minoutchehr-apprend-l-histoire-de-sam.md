@@ -16,7 +16,7 @@ Il s’en réjouit eten adressa des actions de grâces au Créateur du monde.
 
 Il avait deux fils excellents, braves, prudents, pleins de dignité et de foi ; l’un s’appelait Newder, l’autre Zarasp ; ils ressemblaient dans la lice à l’ange du feu.
 
-Il ordonna à Newder le renommé d’aller en toute hâte auprès de Sam le guerrier, de voir Destan, fils de Sam, qui avait été élevé dans un nid, de lui porter les félicitations du roi sur le bonheur qui lui était arrivé et de lui ordonner de se rendre auprès du roi, pour lui raconter ces événemenls heureux, ajoutant que Sam et Zal s’en retourneraient ensuite dans le Zaboulistan, pour y servir le roi loyale- ment.
+Il ordonna à Newder le renommé d’aller en toute hâte auprès de Sam le guerrier, de voir Destan, fils de Sam, qui avait été élevé dans un nid, de lui porter les félicitations du roi sur le bonheur qui lui était arrivé et de lui ordonner de se rendre auprès du roi, pour lui raconter ces événemenls heureux, ajoutant que Sam et Zal s’en retourneraient ensuite dans le Zaboulistan, pour y servir le roi loyalement.
 
 Lorsque Newder l’ut arrivé auprès de Sam, fils de Neriman, il y vit un nouveau Pehlewan plein de jeunesse ; Sam le brave descendit de cheval et ils s’embrassèrent.
 
@@ -57,12 +57,13 @@ L’haleine de Zal avait pour moi un parfum d’amour et son souvenir portait la
 
 Mais il n’y avait, d’aucun côté, de chemin pour monter au nid et je faisais sans cesse le tour du rocher.
 
-Le désir de ravoir mon enfant perdu s’accrut en moi ; 
- l mon âme se consumait dans sa douleur ; je m’adressai en secret au saint maître du monde, disant :
+Le désir de ravoir mon enfant perdu s’accrut en moi ; !
 
-> Ô toi, qui secours toute créature et qui te suflis à toi-même , ce ton pouvoir s’étend partout et le ciel ne tourne que par tes ordres ; je suis ton esclave ; mon cœur est plein de fautes devant le maître du soleil et de la lune ; je n’ai d’espoir qu’en ton indulgence ; je ne peux être secouru que par toi.
+Mon âme se consumait dans sa douleur ; je m’adressai en secret au saint maître du monde, disant :
+
+> Ô toi, qui secours toute créature et qui te suflis à toi-même, ce ton pouvoir s’étend partout et le ciel ne tourne que par tes ordres ; je suis ton esclave ; mon cœur est plein de fautes devant le maître du soleil et de la lune ; je n’ai d’espoir qu’en ton indulgence ; je ne peux être secouru que par toi.
 >
-> Amène-moi cet enfant, ton esclave, qui a été élevé par un oiseau, qui a grandi dans la misère et dans la détresse ; au lieu d’une robe de soie, il a une peau pour se couvrir : il suce de la viande, au lieu d’un sein plein de lait ; amène-le-moi, ouvre-moi un chemin vers lui, et abrége toutes ces douleurs.
+> Amène-moi cet enfant, ton esclave, qui a été élevé par un oiseau, qui a grandi dans la misère et dans la détresse ; au lieu d’une robe de soie, il a une peau pour se couvrir : il suce de la viande, au lieu d’un sein plein de lait ; amène-le-moi, ouvre-moi un chemin vers lui et abrége toutes ces douleurs.
 >
 > Ne brûle pas mon âme à cause de mon manque d’amour pour mon fila, rends-le-moi et fais renaître la joie dans mon cœur.
 >
@@ -76,8 +77,7 @@ Le désir de ravoir mon enfant perdu s’accrut en moi ;
 >
 > Le Simurgh l’apporta devant moi comme une nourrice pleine de tendresse.
 >
-> Ma langue se répandit en louanges 
- sur le Simurgh et versa surlui des actions de grâces.
+> Ma langue se répandit en louanges sur le Simurgh et versa surlui des actions de grâces.
 >
 > Ô merveille I mon enfant resta avec moi et le Simurgh retourna sur le rocher.
 >
