@@ -12,11 +12,13 @@ order: '118'
 
 Menijeh entendit aussi parler de cette caravane et à l’instant elle courut à la ville.
 
-La fille d’Afrasiab se présenta devant Bustem la tête nue, les yeux en larmes et les paupières inondées de sang qui coulait sur les manches de sa robe.
+La fille d’Afrasiab se présenta devant Rustem la tête nue, les yeux en larmes et les paupières inondées de sang qui coulait sur les manches de sa robe.
 
-Elle salua Bustem et lui dit :
+Elle salua Rustem et lui dit :
 
-> Tu as joui de la vie et de tes trésors, puisses-tu n’avoir jamais à te repentir des fatigues que tu as souffertes l puisse le ciel sublime agir toujours selon tes vœux !
+> Tu as joui de la vie et de tes trésors, puisses-tu n’avoir jamais à te repentir des fatigues que tu as souffertes !
+>
+> Puisse le ciel sublime agir toujours selon tes vœux !
 >
 > Puisse l’œil du méchant être impuissant contre toi I puissent les peines que tu endures ne pas démentir l’espérance à laquelle tient ton cœur !
 >
@@ -34,11 +36,11 @@ Elle salua Bustem et lui dit :
 >
 > Ses pieds sont meurtris par des fers pesants et ses mains attachées avec des liens rivés par des clous de forgeron ; on l’a entouré de chaînes, on l’a chargé de fers et les habits qui couvrent le malheureux sont teints de son sang.
 >
-> La sollicitude que j’éprouve pour lui ne me laisse pas dormir, et les plaintes qu’il exhale remplissent mes yeux de larmes.
+> La sollicitude que j’éprouve pour lui ne me laisse pas dormir et les plaintes qu’il exhale remplissent mes yeux de larmes.
 >
 > Ô homme illustre, si tu vas dans l’Iran, si tu visites le pays des héros, tu verras peut-être Guiv ou le vaillant Rustem à la cour de Khosrou ; alors dis-leur que Bijen est enchaîné et qu’il périra si vous tardez a venir.»
 
-Bustem fut effrayé de ce discours et poussa contre Menijeh un cri furieux, en disant :
+Rustem fut effrayé de ce discours et poussa contre Menijeh un cri furieux, en disant :
 
 > Vat’en de chez moi.
 >
@@ -62,8 +64,6 @@ Rustem lui répondit :
 >
 > Du reste je ne demeure pas dans la ville ou réside Khosrou ; je ne connais ni Guiv ni Gouderz ; je n’ai jamais visité ce pays»
 
-KEÎ KHOSROU.
-
 Il ordonna qu’on apportât sur-le-champ devant la pauvresse tout ce qu’il y avait de nourriture dans la maison et se mit à lui adresser des questions : Comment se fait-il que tu sois si malheureuse ?
 
 Pourquoi me parlestu de ces héros et du trône du roi?pourquoi regardes-tu la route de l’Iran?»
@@ -79,17 +79,19 @@ Menijeh lui répondit :
 >
 > Est-il une plus triste vie ?
 >
-> Que le Créateur ait pitié de moi l Le malheureux Bijen ne distingue dans son cachot profond ni le jour de la nuit, ni le soleil de la lune.
+> Que le Créateur ait pitié de moi !
+>
+> Le malheureux Bijen ne distingue dans son cachot profond ni le jour de la nuit, ni le soleil de la lune.
 >
 > Attaché par un collier, par des clous et de lourdes chaînes, il demande à Dieu de lui accorder plutôt la mort qu’une telle existence. .I e suis accablée de douleurs et mes yeux en sont desséchés.
 >
 > Maintenant, si tu vas dans l’Iran, tu t’informeras de a Gouderz fils de Keschwad ; et peut-être tu verras, à
 >
-> h la cour de Khosrou, Guiv ou le vaillant Bustem.
+> h la cour de Khosrou, Guiv ou le vaillant Rustem.
 >
 > Tu leur diras que Bijen est dans le malheur et que s’ils tardent à venir, il périra ; que s’ils veulent le voir, ils ne perdent pas de temps, car un rocher ferme sa prison au-dessus de sa tête et il est assis sur ses fers.»
 
-En prononçant ces paroles, Menijeh versait des larmes de tendresse ; Bustem lui répondit :
+En prononçant ces paroles, Menijeh versait des larmes de tendresse ; Rustem lui répondit :
 
 > Ô femme au beau visage, pourquoi ne fais-tu pas intervenir auprès de ton père les grands de toutes les provinces ?
 >
