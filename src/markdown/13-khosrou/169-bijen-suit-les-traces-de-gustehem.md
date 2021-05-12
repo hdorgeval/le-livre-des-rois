@@ -14,7 +14,9 @@ Bijen se ceignit et se prépara au combat, il lit seller son cheval Schebreng.
 
 Guiv apprit ce que faisait Bijen et qu’il s’apprêtait à combattre Ferschidwerd ; il se mit debout à l’instant, monta sur un cheval arabe et courut comme un tourbillon de fumée sur la route.
 
-Lorsqu’il eut atteint Bijen, il tira à lui brusquement la bride de son cheval, disant : Je t’ai adressé bien des discours, mais tu ne veux jamais te rendre à mon avis, de manière que je puisse être content de toi une seule fois.
+Lorsqu’il eut atteint Bijen, il tira à lui brusquement la bride de son cheval, disant :
+
+> Je t’ai adressé bien des discours, mais tu ne veux jamais te rendre à mon avis, de manière que je puisse être content de toi une seule fois.
 
 Où cours-tu donc ainsi ?
 
@@ -34,7 +36,7 @@ Tu as donc bien de la confiance dans cette épée que tu portes ?
 
 Quand on ne regarde pas le but, on n’atteint pas souvent ce qu’on espère de la vie.
 
-Ne provoque pas si souvent le deslin, il n’a KEÏ KHOSROU.
+Ne provoque pas si souvent le deslin, il n’a
 
 A déjà que trop les yeux sur nous.
 
@@ -68,9 +70,9 @@ Bijen lui dit :
 >
 > Je ne veux pas obéir à ton ordre de renoncer à ce combat.»
 
-A ces paroles Guiv se détermina à s’en retourner et il le laissa partir en le bénissant et en disant :
+À ces paroles Guiv se détermina à s’en retourner et il le laissa partir en le bénissant et en disant :
 
-> Puisses-tu partir victorieux, et revenir sain et sauf, la joie dans le cœur et après avoir enchaîné la main du mal.»
+> Puisses-tu partir victorieux et revenir sain et sauf, la joie dans le cœur et après avoir enchaîné la main du mal.»
 
 Bijen s’élança sur les traces de Gustehem, en qui étaient concentrés tous ses soucis et toutes ses joies ; il courut après lui sur la route, pour aller combattre les cavaliers de l’armée du Touran.
 
