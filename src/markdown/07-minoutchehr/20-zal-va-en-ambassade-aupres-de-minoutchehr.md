@@ -14,8 +14,7 @@ Ils mandèrent un scribe et se concertèrent sur toutes choses.
 
 La lettre commençait par des louanges du Créateur, qui a toujours été et sera toujours.
 
-C’est lui qui dispense le bien et le mal, l’existence o
-et la destruction ; nous sommes tous ses esclaves, et il est un.
+C’est lui qui dispense le bien et le mal, l’existence o et la destruction ; nous sommes tous ses esclaves et il est un.
 
 Au-dessus de tout ce qulil a appelé à l’existence, se meut le ciel qui tourne.
 
@@ -49,13 +48,13 @@ Ailes rapides.
 
 La terre devenait vide d’hommes et d’animaux et toute créature lui cédait la place.
 
-Lorsque je vis que personne sur la terre n’osait engager le combat avec lui, je bannis loin de mon cœur toute crainte et me fiant à la force que m’a donnée Dieu le saint, je me ceignis au nom du Tout-Puissant, je m’assis sur mon cheval qui ressemble à un éléphant ; à sa selle était suspendue ma massue à tête de bœuf, à ’mon bras mon arc, et mon bouclier à mon cou.
+Lorsque je vis que personne sur la terre n’osait engager le combat avec lui, je bannis loin de mon cœur toute crainte et me fiant à la force que m’a donnée Dieu le saint, je me ceignis au nom du Tout-Puissant, je m’assis sur mon cheval qui ressemble à un éléphant ; à sa selle était suspendue ma massue à tête de bœuf, à ’mon bras mon arc et mon bouclier à mon cou.
 
 Je partis comme un crocodile furieux ; j’avais pour moi une main agile, il avait pour lui une haleine dévorante.
 
 Tous ceux qui virent que je voulais lever la massue contre le dragon, me dirent adieu.
 
-J’arrivais près de lui, et je le vis semblable à une grande montagne, traînant par terre les poils de sa tête pareils à des cordes.
+J’arrivais près de lui et je le vis semblable à une grande montagne, traînant par terre les poils de sa tête pareils à des cordes.
 
 Sa langue était comme un tronc noir, sa gueule était béante et pendait sur le chemin ; ses deux yeux ressemblaient à deux bassins remplis de sang.
 
@@ -85,8 +84,7 @@ Les hommes regardaient avidement ce combat, car ce dragon avait été un grand f
 
 Ils m’appelèrent de la Sam qui ne donne qu’un coup, ils versèrent sur moi des joyaux.
 
-Lorsque je revins, mon corps brillant était dépouillé de sa fameuse cuirasse, les caparaçons s’étaient 
-2b
+Lorsque je revins, mon corps brillant était dépouillé de sa fameuse cuirasse, les caparaçons s’étaient 2b
 fondus sur mon cheval et le venin du dragon me rendit malade pendant longtemps.
 
 Depuis heau-coup d’années il n’y avait pas eu de fruits dans ces pays et l’occident n’était couvert que de ronces brûlées.
@@ -111,9 +109,9 @@ Comme moi, il détruira tes ennemis et ses prouesses rendront ton cœur joyeux.
 
 Mais il nourrit en secret un désir qu’il ira soumettre au roi de la terre, un désir qui est bon devant Dieu, sous la protection duquel se trouve toute chose bonne.
 
-Nous n’osons rien faire sans l’avis du roi, car il ne convient pas à des es- 2&7 claves d’agir selon leur volonté.
+Nous n’osons rien faire sans l’avis du roi, car il ne convient pas à des es-2&7 claves d’agir selon leur volonté.
 
-Le roi mon seigneur, le protecteur du monde, m’a entendu pro- noncer la promesse que j’ai faite à Zal en présence du peuple après l’avoir ramené du mont Alborz, la promesse de ne jamais m’opposer à sa volonté.
+Le roi mon seigneur, le protecteur du monde, m’a entendu prononcer la promesse que j’ai faite à Zal en présence du peuple après l’avoir ramené du mont Alborz, la promesse de ne jamais m’opposer à sa volonté.
 
 Dans son désir il est venu me trouver, il est arrivé couvert de sang et de poussière et les os brisés et m’a dit :
 
@@ -131,8 +129,7 @@ Dans son désir il est venu me trouver, il est arrivé couvert de sang et de pou
 >
 > Sam, fils de Nériman, invoque mille bénédictions de Dieu sur le. roi du monde et sur les grands de sa cour.»
 
-Lorsque la lettre fut écrite et leurs plans concertés, Zal la saisit avidement et se leva, il sortit et
-
+Lorsque la lettre fut écrite et leurs plans concertés, Zal la saisit avidement et se leva, il sortit et 
 2A
 sauta sur son cheval et le bruit des trompettes s’éleva.
 
