@@ -36,7 +36,7 @@ Il ordonna que Newder vînt auprès de lui et lui donna des conseils’sans nomb
 >
 > Quand un arbre ne porte que des fruits et des feuilles amers, sa mort vaut mieux que sa vie.
 >
-> Maintenant que j’ai supporté beaucoup de soucis et de peines, je te donne le trône de la i royauté et le trésor ; je te le transmets tel que Feridoun me l’a donné, ce trône qui a vu beaucoup de rois.
+> Maintenant que j’ai supporté beaucoup de soucis et de peines, je te donne le trône de la royauté et le trésor ; je te le transmets tel que Feridoun me l’a donné, ce trône qui a vu beaucoup de rois.
 >
 > Sache que quand tu en auras joui et qu’il aura cessé d’être à toi, il te faudra passer dans un monde meilleur.
 >
@@ -46,10 +46,9 @@ Il ordonna que Newder vînt auprès de lui et lui donna des conseils’sans nomb
 >
 > Bientôt il y aura dans le monde de nouvelles discussions, quand paraîtra un
 >
-> 
-Mobedl avec une mission de prophète ; il viendra du pays d’occident ; prends garde de le persécuter.
+> Mobedl avec une mission de prophète ; il viendra du pays d’occident ; prends garde de le persécuter.
 >
-> Crois en lui : car c’est là la religion de Dieu ; con- sidère quels sont les engagements que tu auras contractés d’abord.
+> Crois en lui : car c’est là la religion de Dieu ; considère quels sont les engagements que tu auras contractés d’abord.
 >
 > Ne quitte jamais la voie de Dieu, car c’est de lui que vient tout bien et tout mal.
 >
@@ -72,7 +71,8 @@ Quoiqu’il n’eût pas de maladie et qu’aucune douleur
 
 Les Parsis. de leur côté, ont interpolé dans ce passage une longue suite de vers qui contiennent une prophélie sur Mohammed.
 
-On trouvera dans l’Appendice ce morceau tiré d’un manuscrit de la bibliothèque de la Compagnie des Indes. 
- l ne l’affligeât, Minoutchehr ferma ses deux yeux de Keïanide, faiblit et poussa un soupir froid.
+On trouvera dans l’Appendice ce morceau tiré d’un manuscrit de la bibliothèque de la Compagnie des Indes. !
+
+Ne l’affligeât, Minoutchehr ferma ses deux yeux de Keïanide, faiblit et poussa un soupir froid.
 
 Ainsi mourut ce roi illustre et plein de vertus et il ne resta d’autre souvenir de lui dans le monde que les discours des hommes.
