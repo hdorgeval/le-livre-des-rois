@@ -10,7 +10,7 @@ order: '011'
 
 # Zal va voir Roudabeh
 
-Lorsque le soleil brillant eut disparu, qu’on eut fermé la porte du palais et qu’on en eut retiré la clef, l’esclave se rendit auprès de Destan fils de Sam, et lui dit :
+Lorsque le soleil brillant eut disparu, qu’on eut fermé la porte du palais et qu’on en eut retiré la clef, l’esclave se rendit auprès de Destan fils de Sam et lui dit :
 
 > Tout est préparé, viens!»
 
@@ -20,7 +20,7 @@ La belle aux yeux noirs et aux joues de rose monta sur le toit, semblable à un 
 
 Puisse la grâce de Dieu reposer sur toi !
 
-Puisses-tu marcher sur la voûte des sphères célestes!
+Puisses-tu marcher sur la voûte des sphères célestes !
 
 Que mon esclave ait le cœur en joie et en gaieté, car tu es, de la tête aux pieds, tel qu’elle me l’a dit.
 
@@ -43,7 +43,7 @@ que mes bénédictions et les grâces du ciel soient sur toi !
 >
 > C’était boucle sur boucle, serpent sur serpent, fil sur fil, qui tombaient sur son cou.
 >
-> Elle fit descendre ces boucles du haut des créneaux et Zal dit en son âme : Voilà un lacet sans défauttnEnsuite Boudabeh cria du haut du mur : Ô Pehlewan, fils d’un brave !
+> Elle fit descendre ces boucles du haut des créneaux et Zal dit en son âme : Voilà un lacet sans défauttnEnsuite Roudabeh cria du haut du mur : Ô Pehlewan, fils d’un brave !
 >
 > Maintenant hâte-toi, hausse ta taille, étends t’a poitrine de lion et tes mains de roi ; prends mes boucles noires par le bout ; il faut bien que je devienne lacet pour toi.»
 
