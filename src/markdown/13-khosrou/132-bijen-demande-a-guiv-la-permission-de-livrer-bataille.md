@@ -21,27 +21,37 @@ verait l’orage du jour de la bataille qui devait aveugler par la poussière le
 
 Piran, de son côté, attendait le moment où Gouderz bouillonnant enfin de colère s’avancerait sans assurer ses derrières, de sorte que la troupe placée en embuscade trouvât un chemin pour le prendre à des.
 
-Le quatrième jour Bijen se rendit de l’arrièregarde au centre de l’armée et se présenta devant son père les vêtements déchirés et lançant de la poussière vers le ciel : il dit : Ô mon père qui es plein d’expérience, comment peux-tu si follement rester inactif ?
+Le quatrième jour Bijen se rendit de l’arrièregarde au centre de l’armée et se présenta devant son père les vêtements déchirés et lançant de la poussière vers le ciel : il dit :
 
-Voici le cinquième jour qui arrive depuis que rien ne se fait ni de jour ni de nuit.
-
-Le soleil n’a pas encore vu les épées des héros, la poussière n’a pas encore tourbillonné dans les airs ; les cavaliers sont couverts de leurs cuirasses, mais on ne dirait pas que c’est du sang qui coule dans leurs veines.
-
-Après le glorieux Rustem, il n’y avait pas dans l’Iran un cavalier comme Gouderz ; mais depuis qu’il est revenu du combat de Peschen, de ce carnage et de cet immense champ de bataille, ou il a vu tomber un si grand nombre de ses fils et périr la fortune des Iraniens, son cœur est brisé, il a perdu sa voie et il ne veut plus voir de combat. ll faut prendre en considération sa vieillesse ; il n’a plus d’yeux que pour la voûte du ciel ; et il s’occupe, lui qui commande une armée innombrable, à compter les étoiles qui entourent la lune.
-
-Sois convaincu qu’il n’a plus de sang dans le corps, qu’il est trop faible pour le combat des braves.
-
-Cc n’est pas le vieux Gouderz qui m’étonne, Gouderz dont la pensée n’est plus à son pays ; mais c’est toi,
+> Ô mon père qui es plein d’expérience, comment peux-tu si follement rester inactif ?
+>
+> Voici le cinquième jour qui arrive depuis que rien ne se fait ni de jour ni de nuit.
+>
+> Le soleil n’a pas encore vu les épées des héros, la poussière n’a pas encore tourbillonné dans les airs ; les cavaliers sont couverts de leurs cuirasses, mais on ne dirait pas que c’est du sang qui coule dans leurs veines.
+>
+> Après le glorieux Rustem, il n’y avait pas dans l’Iran un cavalier comme Gouderz ; mais depuis qu’il est revenu du combat de Peschen, de ce carnage et de cet immense champ de bataille, ou il a vu tomber un si grand nombre de ses fils et périr la fortune des Iraniens, son cœur est brisé, il a perdu sa voie et il ne veut plus voir de combat.
+>
+> Il faut prendre en considération sa vieillesse ; il n’a plus d’yeux que pour la voûte du ciel ; et il s’occupe, lui qui commande une armée innombrable, à compter les étoiles qui entourent la lune.
+>
+> Sois convaincu qu’il n’a plus de sang dans le corps, qu’il est trop faible pour le combat des braves.
+>
+> Cc n’est pas le vieux Gouderz qui m’étonne, Gouderz dont la pensée n’est plus à son pays ; mais c’est toi,
 ô mon père, toi de qui les lions empruntent la bravoure.
-
-Deux armées ont les yeux sur toi ; montre donc de l’ardeur, allume ta colère.
-
-Dans ce moment ou la terre ést chaude et l’air serein, l’armée ne reçoit pas l’ordre de combattre ; mais lorsque la bonne saison sera passée, que la terre sera gelée et dure comme l’acier, quand les mains seront glacées .
+>
+> Deux armées ont les yeux sur toi ; montre donc de l’ardeur, allume ta colère.
+>
+> Dans ce moment ou la terre ést chaude et l’air serein, l’armée ne reçoit pas l’ordre de combattre ; mais lorsque la bonne saison sera passée, que la terre sera gelée et dure comme l’acier, quand les mains seront glacées .
 sur les lances, quand nous aurons derrière nous la neige et devant nous l’ennemi, qui d’entre les héros donnera alors l’exemple à l’armée et ira combattre sur ce champ de bataille ?
+>
+> Si tu crains une embuscade, donne-moi mille vaillants cavaliers, mille hommes de guerre que je choisirai parmi les plus braves ; et nous réduirons au néant leur embuscade, nous lancerons leurs têtes jusqu’au delà de la lune.»
 
-Si tu crains une embuscade, donne-moi mille vaillants cava- liers, mille hommes de guerre que je choisirai parmi les plus braves ; et nous réduirons au néant leur embuscade, nous lancerons leurs têtes jusqu’au delà de la lune.n Guiv sourit aux paroles de Bljen et combla de bénédictions son héroïque enfant ; il s’adresse à Dieu le distributeur de la justice, disant : Je te rends grâce de m’avoir donné un fils qui sait ce qui est bien ; de l’avoir doué de force, de nobles sentiments et de piété ; de l’avoir rendu sage en toute chose et ardent pour le combat et de m’avoir ramené ce vaillant jeune homme, tel que doit être le fils d’un Pehlewan.
+Guiv sourit aux paroles de Bljen et combla de bénédictions son héroïque enfant ; il s’adresse à Dieu le distributeur de la justice, disant :
 
-Un lion a dit à sa compagne : Si notre fils n’est pas courageux, nous lui retirerons notre tendresse, nous romprons tous les liens qui nous unissent à lui ; et que l’eau de la mer lui in. 31
+> Je te rends grâce de m’avoir donné un fils qui sait ce qui est bien ; de l’avoir doué de force, de nobles sentiments et de piété ; de l’avoir rendu sage en toute chose et ardent pour le combat et de m’avoir ramené ce vaillant jeune homme, tel que doit être le fils d’un Pehlewan.
+
+Un lion a dit à sa compagne :
+
+> Si notre fils n’est pas courageux, nous lui retirerons notre tendresse, nous romprons tous les liens qui nous unissent à lui ; et que l’eau de la mer lui in.
 
 1 serve de père et la poussière de mère !
 
