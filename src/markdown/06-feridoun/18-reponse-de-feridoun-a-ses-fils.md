@@ -25,10 +25,10 @@ Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils 
 > S’il s’est élevé dans vos cœurs un si grand amour pour Minoutchehr. où est donc le corps d’Iredj, votre frère glorieux, que vous avez fait disparaître dans la gueule des bêtes féroces, dont vous avez enfermé la tête dans un coffre étroit ?
 >
 > Maintenant qu’ils se sont délivrés d’Iredj, ils cherchent le sang de Minou-
-. tchehr.
+> . tchehr.
 >
 > Mais vous ne le verrez qu’avec une armée, avec un casque d’acier, une massue et l’étendard de Kaweh ; avec des chevaux dont les fers noirci-
-.ront la terre et avec des chefs de guerre comme.
+> .ront la terre et avec des chefs de guerre comme.
 >
 > Karen, avide de combats ; comme Schapour, fils de Nestouh, le soutien de l’armée ; à côté de lui se trouveront Schidousch le valeureux, Schironi le tr vainqueur du lion, le guide, le roi Teliman et Serv le chef de Iemen, qui sera à la tête de l’armée et qui lui donnera ses conseils.
 >
@@ -40,7 +40,7 @@ Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils 
 >
 > Il ne convenait pas que moi j’étendisse la main pour combattre mes deux fils ; mais il s’est élevé, plein de force et de fruit, un rejeton de l’arbre que l’ennemi avait arraché ; il viendra maintenant comme un lion furieux et ceint étroitement pour la vengeance de son père ; il viendra avec les grands de son armée, comme Sam, le fils de Neriman et Guerschaps, le fils de Djemschid et avec une armée qui s’étendra d’une montagne à l’autre et dont les pieds fouleront la terre.
 >
-> Ensuite, quantà ce qu’ils disent qu’il faut que le roi lave son cœur du désir de la vengeance et pardonne leur crime, parce que c’est ainsi que la rotation des sphères les a guidés, que leurintelligence a été troublée et que le soleil s’est obscurci, j’ai écouté toutes ces demandes inutiles de pardon.
+> Ensuite, quant à ce qu’ils disent qu’il faut que le roi lave son cœur du désir de la vengeance et pardonne leur crime, parce que c’est ainsi que la rotation des sphères les a guidés, que leur intelligence a été troublée et que le soleil s’est obscurci, j’ai écouté toutes ces demandes inutiles de pardon.
 >
 > L’implacable maître du monde a dit que quiconque a semé la semence de l’injustice, ne verra ni un jour de bonheur ni les délices du paradis.
 >
@@ -106,8 +106,7 @@ L’envoyé leur répondit :
 >
 > Ensuite on voyait Serv, le chef de Iemen et Destour du roi et Gnerschasp le victorieux, le trésorier du roi.
 >
-> Le
- : r nombre des portes de ses trésors est inconnu, jamais tr personne dans le monde n’a vu pareille puissance.
+> Le : r nombre des portes de ses trésors est inconnu, jamais tr personne dans le monde n’a vu pareille puissance.
 >
 > Tout autour du palais sont placées deux rangées de troupes avec des massues d’or et des toques d’or.
 >
