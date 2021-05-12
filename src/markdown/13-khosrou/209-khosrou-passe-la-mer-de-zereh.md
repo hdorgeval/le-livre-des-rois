@@ -14,12 +14,14 @@ Lorsque le roi fut sur les bords de la mer de Zereh, les braves déboutonnèrent
 
 Le roi rassembla tous les marins de la Chine et du Mekran, il fit faire à terre tout ce que doivent faire les hommes quand ils veulent lancer des vaisseaux sur l’eau.
 
-Il fit réunir des vivres pour une KEÏ KHOSROU. année, pour servir pendant le passage.
+Il fit réunir des vivres pour une année, pour servir pendant le passage.
 
 Le maître du monde, le roi à l’étoile heureuse, qui cherchait le chemin de Dieu, s’éloigna du bord de la mer, le .visage resplendissant ; il se mit à prier humblement et ’
 à adorer le Créateur du monde.
 
-Il demanda au Tout-Puissant de le conduire sain et sauf à l’autre rive, lui et son appareil de guerre, son armée, les grands de l’Iran et toute sa cour, disant z Ô Créateur du monde, tu sais ce qui est connu et ce qui est secret, tu es le maître de la terre et de la mer, tu règnes sur la pluie et les pléiades, tu es le gardien de ma vie et de mon armée, de mon trône, de mes trésors et de ma couronnef»
+Il demanda au Tout-Puissant de le conduire sain et sauf à l’autre rive, lui et son appareil de guerre, son armée, les grands de l’Iran et toute sa cour, disant :
+
+> Ô Créateur du monde, tu sais ce qui est connu et ce qui est secret, tu es le maître de la terre et de la mer, tu règnes sur la pluie et les pléiades, tu es le gardien de ma vie et de mon armée, de mon trône, de mes trésors et de ma couronnef»
 
 La mer était si agitée que personne n’échappait au mal de cœur ; pendant six mois les vaisseaux naviguèrent et tout le monde était obligé d’y trouver un lieu de repos.
 
@@ -30,7 +32,7 @@ L’armée resta confondue de ce qu’elle voyait dans cette eau et chacun le mo
 On y voyait des lions et des taureaux et les tau-reaux se battaient avec les lions ; on y voyait des
 
 Me LE LIVRE ces nons. hommes dont les cheveux étaient comme des lacets ,
-. et la peau couverte de laine comme celle des brebis ; les uns avaient un corps de poisson et une tête de léopard, les autres une tête d’onagre, sur un corps de crocodile ; d’autres avaient des têtes de buffle, et deux mains par derrière et des pieds par devant ; d’autres encore avaient des têtes de sanglier sur des corps de mouton.
+. et la peau couverte de laine comme celle des brebis ; les uns avaient un corps de poisson et une tête de léopard, les autres une tête d’onagre, sur un corps de crocodile ; d’autres avaient des têtes de buffle et deux mains par derrière et des pieds par devant ; d’autres encore avaient des têtes de sanglier sur des corps de mouton.
 
 Toute la mer était remplie de ces créatures ; chacun les montrait aux autres et invoquait Dieu le distributeur de la justice ; et parla grâce du’Créateur du ciel, l’air se calma et la tempête cessa.
 
@@ -50,7 +52,9 @@ Il se reposa dans ces villes et demanda des vivres pour son armée ; il confia c
 >
 > Ne sois pas sévère, même envers les coupables, car ce pays et toute chose n’ont aucun prix à mes yeux ; je n’attache plus aucune valeur à Ml personne ; je ne veux plus que me tenir en prière devant Dieu.»
 
-Ensuite il choisit dans l’armée un guerrier illustre, qui comprenait toutes les langues et envoya par lui un message à tous les princes, disant : Quiconque veut le repos et l’accomplissement de ses désirs, qu’il vienne avec confiance à ma cour, qu’il ait le cœur joyeux, la main ouverte, les intentions amicales ; mais quiconque désobéit à cet ordre portera la peine de sa mauvaise disposition.»
+Ensuite il choisit dans l’armée un guerrier illustre, qui comprenait toutes les langues et envoya par lui un message à tous les princes, disant :
+
+> Quiconque veut le repos et l’accomplissement de ses désirs, qu’il vienne avec confiance à ma cour, qu’il ait le cœur joyeux, la main ouverte, les intentions amicales ; mais quiconque désobéit à cet ordre portera la peine de sa mauvaise disposition.»
 
 Pas un seul de ces princes ne désobéit ; ils arrivèrent à la cour comme des sujets et le roi les reçut avec bienveillance lorsqu’ils parurent et éleva leurs têtes jusqu’au soleil.
 
@@ -61,4 +65,4 @@ d’hommes injustes, mais lui-même est à Gangue avec ceux qu’il a amenés, d
 
 Le roi se réjouit de ces nouvelles et les fatigues qu’il voyait devant lui n’effrayaient pas son cœur.
 
-On prépara des présents pour les princes, puis on demanda les chevaux de ces hommes pleins d’expérience ; le roi leurprdonna de s’en retourner, etlui-même se mit en route vers Gangue avec son armée.
+On prépara des présents pour les princes, puis on demanda les chevaux de ces hommes pleins d’expérience ; le roi leurprdonna de s’en retourner et lui-même se mit en route vers Gangue avec son armée.
