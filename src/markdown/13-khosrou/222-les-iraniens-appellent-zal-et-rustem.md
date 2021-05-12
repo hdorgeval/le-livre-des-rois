@@ -15,33 +15,39 @@ Une semaine s’étant passée sans que le roi se fût montré, on entendit des 
 Tous les Pehlewans, les grands, les hommes sages et de bon conseil, comme Gouderz et Thous fils de Newder, s’assemblèrent et parlè-
 rent longuement de ce qui est juste et injuste, de ce qu’avaient fait les puissants rois, tant ceux qui adoraient Dieu que ceux qui étaient méchants.
 
-Les grands et les sages ayantainsi rappelé les actions des rois, le père de Guiv dit à son fils z Ô toi que la fortune favorise, toi qui as toujours révéré le trône et la couronne, toi qui asisupporté tant de KEÏ KHOSIIOU.
+Les grands et les sages ayantainsi rappelé les actions des rois, le père de Guiv dit à son fils :
 
-I fatigues pour l’Iran, qui as quitté si longtemps ton pays et ta famille, voici une affaire ténébreuse et que nous ne devons pas négliger.
+> Ô toi que la fortune favorise, toi qui as toujours révéré le trône et la couronne, toi qui asisupporté tant de
+>
+> I fatigues pour l’Iran, qui as quitté si longtemps ton pays et ta famille, voici une affaire ténébreuse et que nous ne devons pas négliger.
+>
+> Il faut que tu ailles dans le Zaboulistan auprès du Sipehdar de Kaboul et que tu portes à Zal et à Rustem ce message : Le roi se détourne de Dieu et s’égare.
+>
+> Il a fermé sa porte aux grands et nous craignons qu’il ne s’associe au Div.
+>
+> Nous lui avons exposé nos regrets et nos prières, nous l’avons imploré d’agir envers nous selon la justice.
+>
+> Il nous a écoutés longuement et n’a pas répondu ; nous voyons que son âme est troublée et son cœur rempli de vent ; nous craignons qu’il ne se pervertisse comme le roi Kaous et que le Div ne le détourne du chemin droit.
+>
+> Vous êtes des Pehlewans, les plus sages des hommes et les plus puissants pour agir en toute chose.
+>
+> Maintenant rassemblez de Kanoudj et de Dambar, de Margh et de Maï tous les hommes de bon conseil et les astrologues de Kaboul et les sages du Zaboulistan et amenez -les avec vous dans l’Iran ; car ce royaume est plein de rumeurs depuis que Khosrou nous refuse accès et conseil ; nous nous sommes consultés de tente manière et nous n’espérons une solution que du Destan.»
 
-Il faut que tu ailles dans le Zabonlistan auprès du Sipehdar de Kaboul et que tu portes à Zal et à Rustem ce message : Le roi se détourne de Dieu et s’égare.
-
-Il a fermé sa porte aux grands et nous craignons qu’il ne s’associe au Div.
-
-Nous lui avons exposé nos regrets et nos prières, nous l’avons imploré d’agir envers nous selon la justice.
-
-Il nous a écoutés longuement et n’a pas répondu ; nous voyons que son âme est troublée et son cœur rempli de vent ; nous craignons qu’il ne se pervertisse comme le roi Kaous et que le Div ne le détourne du chemin droit.
-
-Vous êtes des Pehlewans, les plus sages des hommes et les plus puissants pour agir en toute chose.
-
-Maintenant rassemblez de Kanoudj et de Dambar, de Margh et de Maï tous les hommes de bon conseil et les astrologues de Kaboul et les sages du Zabonlistan et amenez -les avec vous dans l’Iran ; car ce royaume est plein de rumeurs depuis que Khosrou nous refuse accès et conseil ; nous nous sommes consultés de tente manière et nous n’espérons une solution que du Destan. n Guiv, ayant écouté les paroles de Gouderz, choi-ï
+Guiv, ayant écouté les paroles de Gouderz, choi-ï
 sit dans l’armée des hOmmes vaillants, et, poussé par ses soucis, se hâta de se mettre en route pour le Seistan.
 
-Lorsqu’il fut arrivé auprès du Destau et de 16.
-Bustem, il leur raconta les choses étranges qu’il avait vues et entendues.
+Lorsqu’il fut arrivé auprès du Destau et de .
+Rustem, il leur raconta les choses étranges qu’il avait vues et entendues.
 
 Zal devint soucieux et répondit à l’illustre Guiv :
 
 > C’est un grand malheur qui nous arrive.»
 
-Ensuite il dit à Bustem :
+Ensuite il dit à Rustem :
 
-> Appelle du Zabonlistan les sages, les astrologues et les Mobeds, et fais-les venir à Kaboul, pour qu’ils nous accompagnent. n Tous ces hommes se réunirent auprès du Destau et ils se mirent en route ensemble pour l’Iran.
+> Appelle du Zaboulistan les sages, les astrologues et les Mobeds et fais-les venir à Kaboul, pour qu’ils nous accompagnent.»
+
+Tous ces hommes se réunirent auprès du Destau et ils se mirent en route ensemble pour l’Iran.
 >
 > Khosrou cependant s’était tenu toute une semaine debout devant Dieu et le huitième jour, lorsque le soleil qui éclaire le monde se leva, il monta sur son trône d’or et le grand chambellan ouvrit le rideau de la porte de la salle d’audience.
 >
@@ -54,7 +60,7 @@ Ensuite il dit à Bustem :
 >
 > Ton esprit clair connaît tout ce qui existe ; adresse-nous des paroles de sagesse ; nous tous sommes tes esclaves, debout devant toi, les Pehlewans. tes sages
 >
-> KEÏ KHOSBOU. conseillers.
+> conseillers.
 >
 > Qu’il plaise au roi de nous dire quelle faute nous avons laite et pourquoi il nous exclut de sa présence.
 >
