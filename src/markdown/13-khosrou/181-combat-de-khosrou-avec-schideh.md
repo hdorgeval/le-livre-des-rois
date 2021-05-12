@@ -24,13 +24,13 @@ Tous ses braves étaient dans l’angoisse et dans les larmes ; ils étaient com
 
 Ne fatigue pas ton corps de cette armure de fer.
 
-La place des rois est sur le trône ; que celui qui te force de revêtir cette armure de combat ne trouve d’autre demeure que dans la terre noire ; KEÏ KHOSIlUU. [t3 que nul de ses desseins ne lui réussisse!»
+La place des rois est sur le trône ; que celui qui te force de revêtir cette armure de combat ne trouve d’autre demeure que dans la terre noire ; [t3 que nul de ses desseins ne lui réussisse!»
 
 Le roi, armé de sa cuirasse, de sa massue et de son casque, leur envoya le message suivant :.
 
 Que personne ne quitte le camp royal, ni la droite ni la gauche, ni le centre ni ses ailes ; que personne ne recherche le combat ni ne s’agite ; que tous obéissent à Behham fils de Gouderz.
 
-Quand le soleil sera arrivé au faîte du ciel, vous irez voir sur qui le malheur est tombé et si,vous trouvez que c’est Pescheng qui est vainqueur, Bustem aura la direction de la s guerre ; soyez tous devant lui comme des esclaves obéissants et vous trouverez bientôt un remède à votre douleur ; car les moyens de salut et les combats sont faciles pour une armée qui a un chef comme lui.
+Quand le soleil sera arrivé au faîte du ciel, vous irez voir sur qui le malheur est tombé et si,vous trouvez que c’est Pescheng qui est vainqueur, Rustem aura la direction de la s guerre ; soyez tous devant lui comme des esclaves obéissants et vous trouverez bientôt un remède à votre douleur ; car les moyens de salut et les combats sont faciles pour une armée qui a un chef comme lui.
 
 Ainsi ne laissez pas vos cœurs se resserrer : tel est le commencement et la fin des guerres, que tantôt on est en haut et tantôt en bas, tantôt on est dans la joie et tantôt dans la terreur.»
 
@@ -38,7 +38,7 @@ Il lança Behzad, son cheval couleur de nuit, qui aurait roulé devant lui le ve
 
 Il portait une lance, un casque et une cuirasse et la poussière que soulevait son cheval montait aux nuages.
 
-Schideh, qui se tenait entre les deux camps, l’aperçut ; il poussa de sa poitrine un grand soupir, et lui dit :
+Schideh, qui se tenait entre les deux camps, l’aperçut ; il poussa de sa poitrine un grand soupir et lui dit :
 
 > Tu es le fils du noble Siawusch, ô homme sage et admiré !
 >
@@ -65,7 +65,7 @@ Le roi lui répondit :
 >
 > La ils commencèrent un
 >
-> KEÏ KHOSROU.
+>
 >
 > L5 grand combat : c’étaient deux chevaux et deux braves semblables à des loups, deux cavaliers pareils à des lions affamés et pleins de rage au jour de la chasse.
 >
@@ -77,11 +77,15 @@ Le roi lui répondit :
 >
 > Son cheval était épuisé par la soif et il sentait lui-même faiblir ses forces.
 >
-> Dans cette détresse il réfléchit et se dit : Si je proposais au roi de mettre tous les deux pied à terre pour lutter et nous couvrir’de sueur, il refuserait un genre de combat qu’il trouverait honteux et qu’il croirait indigne d’un roi.
+> Dans cette détresse il réfléchit et se dit :
+
+> Si je proposais au roi de mettre tous les deux pied à terre pour lutter et nous couvrir de sueur, il refuserait un genre de combat qu’il trouverait honteux et qu’il croirait indigne d’un roi.
 >
 > Et pourtant, si je ne réussis pas à lui échapper de la sorte, je me trouverai infailliblement dans la gueule du dragon.
 >
-> Alors, il dit : Ô roi !
+> Alors, il dit :
+
+> Ô roi !
 >
 > Tout le monde se bat avec l’épée et la lance et manie en même temps les rênes ; mais il vaudrait mieux nous combattre à pied et nous attaquer comme des lions.»
 
@@ -89,7 +93,7 @@ Khosrou, le maître du monde, Â)
 
 Fifi comprit à l’instant la pensée de son ennemi ; il se dit en lui-même :
 
-> si je laisse partir ce lion avec sa force et ses grilles, ce descendant de Feridoun, ce petit-fils de Pescheng, il abattra bien des têtes, il effrayera bien des héros au cœur de lion et si j’accepte le combat à pied, j’allligerai les Iraniens.
+> si je laisse partir ce lion avec sa force et ses griffes, ce descendant de Feridoun, ce petit-fils de Pescheng, il abattra bien des têtes, il effrayera bien des héros au cœur de lion et si j’accepte le combat à pied, j’allligerai les Iraniens.
 
 Rebham lui dit :
 
@@ -99,11 +103,15 @@ Rebham lui dit :
 >
 > Si Khosrou se bat à pied, pourquoi alors y a-t-il tant de cavaliers sur cette plaine ?
 >
-> Si quelqu’un doit mettre pied à terre, me voici, moi qui suis de la race de Keschwad ; reste ici, pour que je m’avance contre lui, prêt au combat ; tu es le roi, le maître du monde qui porte haut la tête. n Le roi répondit à Rehham z Ô mon ami, ô vaillant Pehlewan !
+> Si quelqu’un doit mettre pied à terre, me voici, moi qui suis de la race de Keschwad ; reste ici, pour que je m’avance contre lui, prêt au combat ; tu es le roi, le maître du monde qui porte haut la tête.»
+
+Le roi répondit à Rehham :
+
+> Ô mon ami, ô vaillant Pehlewan !
 >
 > Schideh est un héros de la famille de Pescheng ; sache donc qu’il ne voudra pas se battre avec toi ; ensuite, tu n’es pas de force à lui résister, car les Turcs n’ont pas de chef comparable à lui.
 >
-> C’est un brave de la race de F eridoun et jamais mère n’a mis au monde un fils aussi vaillant ; ce n’est donc pas une honte pour moi de marcher à lui et nous allons livrer à pied un combat de léopards.»
+> C’est un brave de la race de Feridoun et jamais mère n’a mis au monde un fils aussi vaillant ; ce n’est donc pas une honte pour moi de marcher à lui et nous allons livrer à pied un combat de léopards.»
 
 De l’autre côté,l’interprète de Schideh s’approcha de lui et lui dit :
 
@@ -113,7 +121,7 @@ De l’autre côté,l’interprète de Schideh s’approcha de lui et lui dit :
 >
 > S’enl’uir à temps devant l’ennemi vant
 >
-> KEÏ KHOSBOU.
+>
 >
 > A7 mieux que d’affronter les coups et le bruit et le tumulte de la bataille.»
 
@@ -130,6 +138,8 @@ Schideh répondit à son illustre interprète :
 > Peut-
 > être, étant à pied, le vaincrai-je et dans ce combat verserai-je son sang par torrents.»
 
-Le roi du monde dit à Schideh : Ô héros de la race des grands !
+Le roi du monde dit à Schideh :
 
-Certes il n’y a jamais eu un homme de la famille des Keïanides qui ait combattu à pied ; néanmoins, si tel est ton désir, je ne refuse pas de te satisfaire.
+> Ô héros de la race des grands !
+>
+> Certes il n’y a jamais eu un homme de la famille des Keïanides qui ait combattu à pied ; néanmoins, si tel est ton désir, je ne refuse pas de te satisfaire.
