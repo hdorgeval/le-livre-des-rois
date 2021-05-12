@@ -25,7 +25,7 @@ Tour lui dit :
 >
 > Te convient-il d’occuper l’Iran et le trône de l’empire et à moi de rester prêt à obéir, comme un esclave à la porte des Turcs ?
 >
-> Ton frère aîné s’alllige d’être relégué dans l’occident et toi tu tiendrais la couronne sur [on front, le trésor sous tes pieds !
+> Ton frère aîné s’afflige d’être relégué dans l’occident et toi tu tiendrais la couronne sur [on front, le trésor sous tes pieds !
 >
 > Voilà le partage qu’a fait cet homme avide de domination ; il n’a tourné sa face que. vers le plus jeune de ses fils.»
 
