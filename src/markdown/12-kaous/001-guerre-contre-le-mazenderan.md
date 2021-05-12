@@ -27,7 +27,7 @@ Il y avait là un trône d’or avec des pieds de cristal, sur lequel était ass
 >
 > Qui est digne du trône si ce n’est moi ?
 >
-> C’est à moi qu’appartient l’empire dans ce monde et personne n’ose me chercher querelle.»
+> C’est à moi qu’appartient l’empire dans ce monde et personne n’ose me chercher querelle.
 
 Le roi buvait du vin tout en parlant de la sorte et les chefs de l’armée en restèrent étonnés.
 
@@ -35,7 +35,7 @@ Pendant ce temps un Div, déguisé en chanteur, s’approcha du chambellan, dema
 
 > Je viens du pays de Mazenderan ; je suis un chanteur à la douce voix.
 >
-> Si le roi veut agréer mes services, qu’il me donne accès auprès de son trône.»
+> Si le roi veut agréer mes services, qu’il me donne accès auprès de son trône.
 
 Le chambellan entra, se présenta respectueusement devant le roi et lui annonça qu’il y avait un chanteur à la porte, tenant une lyre et chantant d’une voix douce.
 
@@ -61,7 +61,7 @@ Il préluda sur la lyre d’une manière convenable, puis il chanta une chanson 
 >
 > Le pays tout entier est orné d’or, de brocart et de joyaux ; les esclaves, belles comme des idoles, y portent des couronnes d’or et les grands des ceintures d’or.
 >
-> Quiconque ne demeure pas dans ce pays ne peut se réjouir d’avoir accompli le désir de son âme et de son cœur.»
+> Quiconque ne demeure pas dans ce pays ne peut se réjouir d’avoir accompli le désir de son âme et de son cœur.
 
 Lorsque Kaous eut entendu chanter cette chanson, il conçut une pensée nouvelle et son cœur, ardent pour la guerre, s’attacha à l’idée de mener son armée dans le pays de Mazenderan.
 
@@ -69,13 +69,13 @@ Il adressa ainsi la parole aux fiers guerriers :
 
 > Nous nous sommes adonnés aux festins ; mais si le brave se laisse aller à la paresse, il ne sera plus jamais las de la mollesse et du repos.
 >
-> Je suis supérieur à Djemschid, à Zohak et à Keï-kobad par ma haute fortune, par ma splendeur et ma naissance ; il faut donc que je les surpasse en prouesse, car il convient à celui qui porte la couronne de chercher la possession du monde.»
+> Je suis supérieur à Djemschid, à Zohak et à Keï-kobad par ma haute fortune, par ma splendeur et ma naissance ; il faut donc que je les surpasse en prouesse, car il convient à celui qui porte la couronne de chercher la possession du monde.
 
 Lorsque les grands entendirent ces paroles, aucun d’eux n’approuva le projet du roi ; tous pâlirent et leurs fronts se ridèrent ; car aucun n’avait envie de combattre les Divs.
 
 Aucun n’osa répondre ouvertement, mais leurs cœurs étaient en souci et leurs bouches pleines de soupirs.
 
-Thous et Gouderz, Keschwad, Guiv, Kherrad, Gurguin et Bahram le preux dirent hautement : Nous sommes tes sujets et nous ne foulerons la terre aux pieds que conformément à ton ordre.»
+Thous et Gouderz, Keschwad, Guiv, Kherrad, Gurguin et Bahram le preux dirent hautement : Nous sommes tes sujets et nous ne foulerons la terre aux pieds que conformément à ton ordre.
 
 Mais ensuite ils se réunirent et soulagèrent leurs cœurs de la douleur que leur avaient causée ses paroles : ils s’assirent et se parlèrent les uns aux autres, disant :
 
@@ -87,7 +87,7 @@ Mais ensuite ils se réunirent et soulagèrent leurs cœurs de la douleur que le
 >
 > Si c’était un fardeau que l’on pût supporter à force de bravoure et de renommée, de trésors et de gloire, Minoutchehr aurait tenté cette entreprise et n’aurait pas renoncé à cette envie.
 >
-> Il faut trouver un moyen d’écarter ce malheur du pays d’Iran.»
+> Il faut trouver un moyen d’écarter ce malheur du pays d’Iran.
 
 Alors Thous s’adressant aux grands leur dit :
 
@@ -99,7 +99,7 @@ Alors Thous s’adressant aux grands leur dit :
 >
 > Il se peut que Zal donne un avis sage qui touche le cœur du puissant roi et qu’il dise que c’est Ahriman qui a suggéré ce projet et qu’il ne faut jamais ouvrir la porte des Divs.
 >
-> Peut-être que Zal le fera revenir sur ses paroles ; sinon nous sommes tous perdus, grands et petits.»
+> Peut-être que Zal le fera revenir sur ses paroles ; sinon nous sommes tous perdus, grands et petits.
 
 Ayant ainsi considéré la question sous toutes ses faces, ils expédièrent un dromadaire de course.
 
@@ -117,7 +117,7 @@ Le messager s’élança et courut jusqu’à ce qu’il eût atteint le Nimrouz
 >
 > Si tu tardes un instant à venir, le roi partira sans délai et donnera au vent tout ce que tu as fait et souffert depuis le commencement, avec Keïkobad, quand vous étiez ceints pour le combat comme des lions, toi et Rustem le lion, qui n’a jamais bu de lait.
 >
-> Tout cela est devenu comme du vent devant ses yeux, car il tourmente son âme livrée à de mauvaises pensées.»
+> Tout cela est devenu comme du vent devant ses yeux, car il tourmente son âme livrée à de mauvaises pensées.
 
 Zal ayant ouï ces paroles, se tordit de douleur en pensant que les feuilles de l’arbre des Keïanides étaient fanées et dit :
 
@@ -131,7 +131,7 @@ Zal ayant ouï ces paroles, se tordit de douleur en pensant que les feuilles de 
 >
 > J’irai, je lui donnerai tous les bons conseils que l’on peut donner ; et s’il se laisse persuader par moi, il y trouvera son avantage.
 >
-> Mais s’il insiste, le chemin est ouvert et Rustem accompagnera son armée.»
+> Mais s’il insiste, le chemin est ouvert et Rustem accompagnera son armée.
 
 Il passa cette longue nuit en méditations ; et lorsque le soleil eut montré sa couronne du haut du ciel, il se ceignit et se mit en route vers la cour du roi, accompagné par les grands.
 
@@ -145,7 +145,7 @@ Les grands le saluèrent et s’avancèrent avec lui vers la ville.
 
 Thous lui dit :
 
-> Ô vaillant guerrier, tu as donc supporté les fatigues de cette longue route à cause des grands du pays d’Iran, tu as bien voulu venir nous délivrer de ce souci ; aussi tous nos vœux sont pour toi et nous nous glorifions de la gloire de ta tiare.»
+> Ô vaillant guerrier, tu as donc supporté les fatigues de cette longue route à cause des grands du pays d’Iran, tu as bien voulu venir nous délivrer de ce souci ; aussi tous nos vœux sont pour toi et nous nous glorifions de la gloire de ta tiare.
 
 Zal répondit aux grands :
 
@@ -153,10 +153,10 @@ Zal répondit aux grands :
 >
 > Il ne faut pas que nous refusions notre conseil au roi, car il a besoin de nos avis.
 >
-> S’il se détourne des voies de la sagesse, il éprouvera du repentir et des peines.»
+> S’il se détourne des voies de la sagesse, il éprouvera du repentir et des peines.
 
 Ils lui dirent tout d’une voix :
 
-> Nous sommes avec toi et nous n’écouterons les conseils de personne autre que toi.»
+> Nous sommes avec toi et nous n’écouterons les conseils de personne autre que toi.
 
 Puis ils allèrent ensemble chez le roi et se présentèrent devant son trône et sa couronne glorieuse.
