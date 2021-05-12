@@ -10,12 +10,11 @@ order: '205'
 
 # Keï Khosrou envoie à Kaous les captifs et les présents
 
-Le roi fut heureux de ces paroles et reçut gra-
-KEÎ KHOSROU. cieusement les grands, qu’il fit asseoir selon leur rang.
+Le roi fut heureux de ces paroles et reçut gra-cieusement les grands, qu’il fit asseoir selon leur rang.
 
 Il ouvrit la porte des trésors de son grand-père, et, sans parler de sa parenté et de ses devoirs de petit-fils, il fit charger de forts dromadaires d’or et de brocart brodé de perles et dix mille bœufs de haute stature d’armes de guerre ; enfin on chargea devant lui deux mille chameaux de trésors d’argent.
 
-Ensuite le roi ordonna que toutes les parentes et toute la famille d’Afrasiab, que ce fussent des princesses ou des esclaves, fussent amenées la nuit dans des litières et portées du palais sur la place devant sa résidence ; enfin il fit venir cent princes et nobles, tous renommés pour leur bravoure, tous parents et alliés d’Afrasiab, qui avaient les. yeux remplis de larmes de pitié sur leur maître, comme Djehn et Guersiwez, et qui étaient ses serviteurs depuis le berceau et mille prisonniers turcs et chinois, que Khosrou avait pris comme otages qui lui répondaient de leurs villes ; puis il choisit dix mille Iraniens, en donna le commandement à Guiv et lui dit :
+Ensuite le roi ordonna que toutes les parentes et toute la famille d’Afrasiab, que ce fussent des princesses ou des esclaves, fussent amenées la nuit dans des litières et portées du palais sur la place devant sa résidence ; enfin il fit venir cent princes et nobles, tous renommés pour leur bravoure, tous parents et alliés d’Afrasiab, qui avaient les. yeux remplis de larmes de pitié sur leur maître, comme Djehn et Guersiwez et qui étaient ses serviteurs depuis le berceau et mille prisonniers turcs et chinois, que Khosrou avait pris comme otages qui lui répondaient de leurs villes ; puis il choisit dix mille Iraniens, en donna le commandement à Guiv et lui dit :
 
 > Ô homme dont le pied laisse des traces fortunées, rends-toi avec ce corps d’armée auprès de Kaous.»
 
@@ -23,7 +22,7 @@ Il ordonna qu’on appelât un scribe, qui devait apporter du papier et de la so
 
 Quand le roseau da scribe fut mouillé avec du musc et du noir, le roi commença par les louanges du Créateur, qui
 
-L2x’l conserve et qui détruit ; c’est lui qui a donné sa forme à l’univers ; il est le créateur de la fourmi et de l’éléphant,et de tout, depuis le brin d’herbe sans valeur jusqu’aux flots du Nil ; devant sa puissance tout est également impuissant ; il est le maître de l’existence et le maître du néant ; la sphère céleste ne. tourne pas avec dureté au-dessus de ceux qu’il protége tendrement.
+L2x’l conserve et qui détruit ; c’est lui qui a donné sa forme à l’univers ; il est le créateur de la fourmi et de l’éléphant et de tout, depuis le brin d’herbe sans valeur jusqu’aux flots du Nil ; devant sa puissance tout est également impuissant ; il est le maître de l’existence et le maître du néant ; la sphère céleste ne. tourne pas avec dureté au-dessus de ceux qu’il protège tendrement.
 
 Puissent reposer sur le roi de la terre les bénédictions de celui qui créa la trame et la chaîne du tissu du reposl Je suis arrivé à Gangue Diz, qu’Afrasiab a bâti pour lui servir de lieu de refuge et de repos et où se trouvaient son trône et sa couronne, sa puissance, son diadème, ses trésors et son armée.
 
@@ -33,9 +32,9 @@ Guiv va raconter au roi, l’un après l’autre, tous les événements de cette
 
 Quand tu ouvres tes lèvres en prière devant Dieu, prie tendrement pour moi, le jour et la nuit.
 
-J’ai conduit l’armée dans le Madjin et la Chine et de là je la mènerai dans le pays de Mekran ; ensuite nous passerons le lac de Zereh, si Dieu le très-saint veut nous être secourable. n Guiv quitta le roi des rois et se mitenmarche avec une armée nombreuse et de vaillants héros ; après
+J’ai conduit l’armée dans le Madjin et la Chine et de là je la mènerai dans le pays de Mekran ; ensuite nous passerons le lac de Zereh, si Dieu le très-saint veut nous être secourable.»
 
-KEÏ KHOSROU.
+Guiv quitta le roi des rois et se mitenmarche avec une armée nombreuse et de vaillants héros ; après
 
 I avoir marché rapidement comme le vent et dévoré la route, il arriva près de la résidence du roi Kaous.
 
@@ -49,11 +48,11 @@ Il lui fit des questions sur le roi et l’armée, sur la façon dont le soleil 
 
 Le vaillant Guiv lui raconta ce qu’il savait des héros et du puissant roi et le vieux lion se rajeunit sous ces paroles.
 
-Ensuite Kaous remit la lettre de Khosrou à son scribe, qui la lut au roi de l’Iran, et toute l’assemblée resta dans l’étonnement, tous furent contents et joyeux et des larmes de joie mouillèrent leurs joues.
+Ensuite Kaous remit la lettre de Khosrou à son scribe, qui la lut au roi de l’Iran et toute l’assemblée resta dans l’étonnement, tous furent contents et joyeux et des larmes de joie mouillèrent leurs joues.
 
 Tous firent des aumônes aux pauvres et maudirent le mécréant Afrasiab.
 
-Le roi Kaous descendit de son trône, ôta de sa tête la couronne des Keîanides, sortit, se roula sur la terre sombre et fit des prières devant Dieu le très-saint.
+Le roi Kaous descendit de son trône, ôta de sa tête la couronne des Keïanides, sortit, se roula sur la terre sombre et fit des prières devant Dieu le très-saint.
 
 De là il revint dans son palais et ordonna une fête royale, dans la joie de son cœur.
 
@@ -69,17 +68,15 @@ Le maître du monde fit appeler Guiv, le fit asseoir sur son illustre trône roy
 
 Quand il vit le méchant Guersiwez, il maudit cet homme qui méritait des malédictions et fit emmener de devant son trône Djehn chargé de fers ; ensuite il jeta les yeux sur les filles de l’illustre Afrasiab et ses cils se mouillèrent de larmes ; il leur accorda un asile dans l’appartement de ses femmes et leur donna un intendant et des serviteurs.
 
-Quant aux prisonniers et aux otages, il fixa le sort de chacun à part : les uns furent confiés à des gardiens, les autres jetés dans les fers et on les emmena hors de la présence du
-
-KEÏ KHOSROU. puissant roi.
+Quant aux prisonniers et aux otages, il fixa le sort de chacun à part : les uns furent confiés à des gardiens, les autres jetés dans les fers et on les emmena hors de la présence du puissant roi.
 
 Ensuite il distribua aux Iraniens des trésors de toute espèce, de l’or et des perles non percées, pour qu’ils invoquassent les grâces de Dieu sur le roi de la terre.
 
-Il distribua aux grands les prisonniers de. guerre, dont il n’envoya aucun dans son propre palais, de quelque qualité qu’ils fussent.
+Il distribua aux grands les prisonniers de guerre, dont il n’envoya aucun dans son propre palais, de quelque qualité qu’ils fussent.
 
 Ensuite il fixa la demeure de Djehn, son entretien, ses serviteurs et son surveillant.
 
-Il y avait un souterrain sombre dans le château, triste à voir et ressemblant à une tombe : ce fut le lieu qu’il assigna à Guersiwez.
+Il y avait un souterrain sombre dans le château, triste à voir et ressemblant à une tombe : fut le lieu qu’il assigna à Guersiwez.
 
 Telle est la manière d’agir de la fortune instable.
 
@@ -89,10 +86,9 @@ Il sait que ce monde passera et il évitera les hommes insensés ; mais si son i
 
 Quand le roi eut disposé de tout le monde, il renvoya du palais tous les étrangers ; un scribe prépara du papier, rendit la pointe de son roseau fine comme de l’acier et l’on écrivit des lettres dans chaque province, à tous les grands et à chaque prince, pour annoncer que le pays des Turcs et la Chine étaient entièrement soumis au roi et que le léopard et la brebis allaient ensemble à l’abreuvoir.
 
-Kaous donna de l’or et de l’argent aux pauvres, qu’ils fussent étrangers ou ses propres sujets et la foule qui se pressait pour recevoir ses largesses était telle que pendant deux semaines on ne voyait pas le sol devant le O
+Kaous donna de l’or et de l’argent aux pauvres, qu’ils fussent étrangers ou ses propres sujets et la foule qui se pressait pour recevoir ses largesses était telle que pendant deux semaines on ne voyait pas le sol devant le Ô C !
 
-C
-l palais du roi.
+Palais du roi.
 
 La troisième semaine, il s’assit sur le trône du pouvoir, en paix et dans toute sa majesté ; les flûtes et les chansons résonnèrent ; les cœurs saluèrent les coupes de vin et pendant sept jours le vin rouge coulait à flots dans le palais du roi Kaous.
 
