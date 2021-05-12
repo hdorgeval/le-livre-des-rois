@@ -12,7 +12,7 @@ order: '223'
 
 Lorsqu’ils furent partis, le roi vigilant ordonna de baisser le rideau de la salle d’audience et s’assit en pleurant dans sa douleur, se tordant et les joues pâles.
 
-Il se rendit devant Dieu, le maître suprême, et le pria pour qu’il le guidât, disant t Ô Créateur du ciel, source de tout bien, de toute justice, de tout amour !
+Il se rendit devant Dieu, le maître suprême et le pria pour qu’il le guidât, disant t Ô Créateur du ciel, source de tout bien, de toute justice, de tout amour !
 
 Cette royauté n’a aucune valeur pour moi, si le Seigneur n’est pas content de moi.
 
@@ -35,8 +35,10 @@ Durant une nuit sombre ses peines ne laissèrent aucun repos au roi ; au moment 
 >
 > Quand tu partiras, fais des largesses aux Iraniens, car tu ne resteras plus longtemps ici.
 >
-> Chosis pour occuper le trône un roi qui protége toutes les créatures jusqu’à la fourmi et quand tu auras disposé du monde, ne te repose pas, car le moment de ton départ arrive.»
+> Chosis pour occuper le trône un roi qui protège toutes les créatures jusqu’à la fourmi et quand tu auras disposé du monde, ne te repose pas, car le moment de ton départ arrive.»
 
-Quand le roi, qui avait éprouvé tant de fatigues dans sa vie, se réveilla, il vit que le lieu des prières étaitinondé d’un torrent deseslarmes ; il recommença à pleurer, posa son front sur la terre et adressa ses hommages au Créateur, disant : Si je meurs sou- dain, j’aurai obtenu de Dieu tout ce que désire mon cœur.»
+Quand le roi, qui avait éprouvé tant de fatigues dans sa vie, se réveilla, il vit que le lieu des prières étaitinondé d’un torrent deseslarmes ; il recommença à pleurer, posa son front sur la terre et adressa ses hommages au Créateur, disant :
 
-Il monta alors sur son trône, siége de la royauté, se revêtit d’une robe qui n’avait jamais servi, et s’assit sur le trône d’ivoire, comme le maître du monde, mais sans collier, massue ni couronne.
+> Si je meurs soudain, j’aurai obtenu de Dieu tout ce que désire mon cœur.»
+
+Il monta alors sur son trône, siège de la royauté, se revêtit d’une robe qui n’avait jamais servi et s’assit sur le trône d’ivoire, comme le maître du monde, mais sans collier, massue ni couronne.
