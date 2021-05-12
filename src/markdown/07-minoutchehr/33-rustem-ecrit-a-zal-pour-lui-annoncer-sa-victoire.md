@@ -22,7 +22,7 @@ Il est pareil à la haute voûte du ciel. .l’ai mis’pied a terre au bas de l
 
 An milieu de la nuit, nous n’avons, moi et les guerriers de grand renom, accordé de long délai à personne dans la forteresse ; les uns ont été tués, les autres blessés, le reste s’est enfui après avoir jeté ses armes.
 
-Maintenant nous avons cinq cent mille charges d’argent brutet d’or affiné , puis des étoffes, des tapis et toutes les choses qui sont dignes d’être offertes en présent, en si grand nombre que personne ne pourrait les compter, quand il compterait pendant beaucoup de mois et de jours.
+Maintenant nous avons cinq cent mille charges d’argent brutet d’or affiné, puis des étoffes, des tapis et toutes les choses qui sont dignes d’être offertes en présent, en si grand nombre que personne ne pourrait les compter, quand il compterait pendant beaucoup de mois et de jours.
 
 A présent que m’ordonne le Pehlewan?
 que ses traces soient fortunées !
