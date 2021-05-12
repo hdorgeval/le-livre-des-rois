@@ -16,21 +16,23 @@ Ils avaient tous mis leur vie sur la paume de leur main ; ils étaient tous rev�
 
 A la première lueur du jour et à l’heure où le coq chante, en entendit le bruit des timbales sous la porte du roi ; Tehemten parut, semblable à un cyprès élancé, la massue en main et le lacet accroché à la selle et il sortit avec ses troupes du palais du roi, en prononçant des bénédictions sur son pays.
 
-Arrivé à la frontière du Touran, le Pehlewan appela autour de lui tous les chefs de ses troupes, ensuite il s’adressa à celles-ci et leur dit : Vous resterez ici sans vous impatienter et vous ne quitterez pas ce lieu, à moins que Dieu le très-saint ne me prive de la vie.
+Arrivé à la frontière du Touran, le Pehlewan appela autour de lui tous les chefs de ses troupes, ensuite il s’adressa à celles-ci et leur dit :
 
-Vous vous tiendrez prêts à combattre ; vos mains seront toujours préparées à verser du sang. n Il laissa ainsi son armée sur la frontière, pendant qu’il se dirigeait avec ses fidèles vers le Touran.
+> Vous resterez ici sans vous impatienter et vous ne quitterez pas ce lieu, à moins que Dieu le très-saint ne me prive de la vie.
+>
+> Vous vous tiendrez prêts à combattre ; vos mains seront toujours préparées à verser du sang.»
 
-Il se revêtit d’un habit complet de marchand et ôta sa ceinture de guerrier ; les héros défirent leurs ceintures d’argent et Bustem les revêtit de robes de laine ; et c’est ainsi qu’ils entrèrent dans le Touran, en formant une riche caravane.
+Il laissa ainsi son armée sur la frontière, pendant qu’il se dirigeait avec ses fidèles vers le Touran.
 
-Ils menèrent avec eux huit nobles destriers, Baksch et les montures de ces héros, dix chameaux qui ne portaient que des joyaux, et cent autres chargés d’habillements de soldat ; et les échos du désert répondirent aux cris des hommes et au bruit des clochettes, qui résonnaient comme les trompettes de Thahmouras.
+Il se revêtit d’un habit complet de marchand et ôta sa ceinture de guerrier ; les héros défirent leurs ceintures d’argent et Rustem les revêtit de robes de laine ; et c’est ainsi qu’ils entrèrent dans le Touran, en formant une riche caravane.
+
+Ils menèrent avec eux huit nobles destriers, Raksch et les montures de ces héros, dix chameaux qui ne portaient que des joyaux et cent autres chargés d’habillements de soldat ; et les échos du désert répondirent aux cris des hommes et au bruit des clochettes, qui résonnaient comme les trompettes de Thahmouras.
 
 Rustem s’avança de cette manière dans le Touran : il arriva aux environs de la ville de Khoten et tout le peuple, hommes et femmes, sortirent pour voir sa caravane.
 
 Le noble Piran fils de Wiseh n’était pas dans la ville et personne des siens ne se tenait à la porte de son palais.
 
 Mais lorsque Rustem le vit revenir de la chasse, il prit une coupe d’or remplie de pierres fines et proprement couverte d’un drap d’or et deux nobles chevaux portant des selles ornées de pierreries et il les remit à ses serviteurs, à la tête desquels il se mit lui-même ; c’est ainsi qu’il fit son entrée dans le palais de Piran.
-
-KEÏ KHOSROU.
 
 Il salua Piran, en disant :
 
@@ -84,7 +86,7 @@ Piran lui répondit :
 
 > Va et choisis ta demeure comme il te plaira ; je placerai des gardiens près de toi.»
 
-Alors Rustem loua une maison, s’y établit, et plaça ses bagages et ses marchandises dans le magasin.
+Alors Rustem loua une maison, s’y établit et plaça ses bagages et ses marchandises dans le magasin.
 
 Le bruit se répandit qu’une caravane de l’Iran était arrivée dans la ville de’ l’illustre Pehlewan ; de tous côtés les acheteurs ouvrirent les oreilles, lorsqu’ils entendirent parler du marchand de pierreries ; tous ceux qui avaient besoin de brocarts, de tapis ou de joyaux se mirent en roule pour aller à la cour de
 
