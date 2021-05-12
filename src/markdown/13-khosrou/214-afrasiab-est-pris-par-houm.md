@@ -16,7 +16,7 @@ Son esprit était inquiet, son corps s’usait ; il craignait toujours un danger
 
 Alors, il voulut choisir dans le monde un lieu où son âme pût jouir de tranquillité et son carps de santé ; or il y a près de Berda une caverne sur le haut d’une montagne rocheuse qui touche les nues et Afrasiab, ne voyant ni au-dessus de lui un faucon qui volât, ni au-dessous des traces de lions ou des tanières de sangliers, y porta des vivres, y fit sa demeure de peur de la mort et tailla dans la caverne une chambre élevée ; c’était un lieu éloigné de toute ville et près d’un cours d’eau : appelle-le l’antre d’Afrasiab.
 
-Il demeura pendant quelque temps dans cette KEÏ KHOSROU. caverne, se repentant de ses actions et le cœur gonflé de sang.
+Il demeura pendant quelque temps dans cette caverne, se repentant de ses actions et le cœur gonflé de sang.
 
 Un prince qui devient sanguinaire ne reste pas longtemps sur le trône royal.
 
