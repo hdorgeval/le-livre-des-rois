@@ -32,7 +32,7 @@ Lorsque le soleil eut conduit son cortège de rayons sur la voûte du ciel et m
 
 Il dit à Piran :
 
-> Aujourd’hui nous ne combattrons pas, il faut nous reposer un jour;
+> Aujourd’hui nous ne combattrons pas, il faut nous reposer un jour ;
 >
 > Et pendant que les grands et les braves et ces cavaliers accoutumés au carnage, se délassent de leurs fatigues après avoir franchi une si longue route avec ses montées et ses descentes, nous irons voir ce que deviennent les Iraniens et ce qu’ils font dans leur camp.
 
@@ -42,17 +42,17 @@ Piran répondit :
 
 On entendit alors du bruit dans toutes les enceintes des tentes et le son des timbales et des trompettes.
 
-On plaça des selles sur le dos de cinq éléphants et l’armée se para de vêtements de brocart de la Chine;
+On plaça des selles sur le dos de cinq éléphants et l’armée se para de vêtements de brocart de la Chine ;
 
-Les selles étaient brodées d’émeraudes et couvertes de brocart bleu de ciel et broché d’or;
+Les selles étaient brodées d’émeraudes et couvertes de brocart bleu de ciel et broché d’or ;
 
-Les étriers étaient d’or, les housses de peau de léopard, les clochettes d’argent;
+Les étriers étaient d’or, les housses de peau de léopard, les clochettes d’argent ;
 
-Les conducteurs des éléphants portaient tous de riches diadèmes, des colliers et des boucles d’oreilles;
+Les conducteurs des éléphants portaient tous de riches diadèmes, des colliers et des boucles d’oreilles ;
 
 Et l’air ressemblait à un bazar chinois, tant on y agitait d’étendards de soie jaune, rouge et violette.
 
-Un cortège, qui aurait fait honneur à un banquet, se rendit sur le champ de bataille;
+Un cortège, qui aurait fait honneur à un banquet, se rendit sur le champ de bataille ;
 
 La terre était belle comme l’œil du coq, au milieu de ce bruit, de cette magnificence, de ces trompettes et de ces timbales.
 
@@ -64,15 +64,15 @@ Kamous, Biwerd, le Khakan de la Chine, Ferthous, Schenkoul le sage s’approchè
 
 Le Khakan fut frappé d’admiration en voyant de loin les rangs bruyants des cavaliers iraniens et il s’écria :
 
-> Voilà une armée!
+> Voilà une armée !
 >
-> Voilà des cavaliers fiers et impatients de combattre!
+> Voilà des cavaliers fiers et impatients de combattre !
 >
-> Le Sipehdar Piran me les avait représentés autrement;
+> Le Sipehdar Piran me les avait représentés autrement ;
 >
 > Mais on ne doit pas déprécier les qualités des braves.
 >
-> Si le Sipehdar recouvre de broussailles un fossé, son cheval s’y jettera au jour de la chasse;
+> Si le Sipehdar recouvre de broussailles un fossé, son cheval s’y jettera au jour de la chasse ;
 >
 > Mieux vaut confondre au jour du combat un vaillant ennemi et le fouler dans la poussière.
 >
@@ -80,7 +80,7 @@ Le Khakan fut frappé d’admiration en voyant de loin les rangs bruyants des ca
 
 Piran m’avait dit que c’était une petite armée, à laquelle nous n’avions pas à faire attention sur le champ de bataille.
 
-Ensuite il se tourna vers Piran, disant :
+Ensuite, il se tourna vers Piran, disant :
 
 > Maintenant quel plan d’attaque suivrons-nous ?
 
@@ -88,35 +88,35 @@ Piran lui répondit :
 
 > Tu as fait un long chemin, tu as traversé des montagnes et des vallées : 
 >
-> Attends ici;
+> Attends ici ;
 >
 > Et quand trois jours seront passés, quand l’armée sera reposée, nous la partagerons en deux parties et alors nous mettrons fin à ces jours de combat et de terreur.
 >
-> Une moitié des braves cavaliers qui l’ont la gloire du monde attaquera l’ennemi depuis l’aube du jour jusqu’à midi ; ils le combattront avec des javelots et des poignards, avec des massues et des arcs;
+> Une moitié des braves cavaliers qui l’ont la gloire du monde attaquera l’ennemi depuis l’aube du jour jusqu’à midi ; ils le combattront avec des javelots et des poignards, avec des massues et des arcs ;
 >
-> Et à partir de midi jusqu’à ce que la nuit descende de la montagne, l’autre moitié livrera bataille;
+> Et à partir de midi jusqu’à ce que la nuit descende de la montagne, l’autre moitié livrera bataille ;
 >
 > Ensuite durant la nuit je mènerai au combat ceux qui auront repris leurs forces pour achever les Iraniens, auxquels moi et mes cavaliers ardents et couverts d’armures ne laisserons aucun repos.
 
 Kamous lui répondit :
 
-> Cela n’est pas raisonnable et je ne puis approuver cet avis!
+> Cela n’est pas raisonnable et je ne puis approuver cet avis !
 >
 > Pourquoi attendre, avec une si grande armée, devant ces rochers nus?
 >
-> Armons-nous, livrons bataille sans retard, rendons-leur étroites la montagne et les vallées;
+> Armons-nous, livrons bataille sans retard, rendons-leur étroites la montagne et les vallées ;
 >
-> Ensuite nous conduirons nos troupes dans l’Iran;
+> Ensuite nous conduirons nos troupes dans l’Iran ;
 >
-> Nous n’y laisserons ni trône, ni couronne, ni diadème;
+> Nous n’y laisserons ni trône, ni couronne, ni diadème ;
 >
-> Nous dévasterons tout le pays;
+> Nous dévasterons tout le pays ;
 >
 > Nous combattrons non comme des héros, mais comme des lions.
 >
-> Nous n’épargnerons ni femmes, ni enfants, ni jeunes, ni vieux, ni rois, ni gouverneurs, ni Pehlewans;
+> Nous n’épargnerons ni femmes, ni enfants, ni jeunes, ni vieux, ni rois, ni gouverneurs, ni Pehlewans ;
 >
-> Nous détruirons le pays;
+> Nous détruirons le pays ;
 >
 > Nous ne laisserons debout ni une maison, ni un palais, ni une tente.
 >
@@ -124,20 +124,20 @@ Kamous lui répondit :
 >
 > Il n’y a qu’un insensé qui ne se débarrasse pas de ses soucis, de ses douleurs et de ses inquiétudes.
 >
-> Gardez cette seule nuit les chemins pour que les Iraniens ne s’enfuient pas du champ de bataille;
+> Gardez cette seule nuit les chemins pour que les Iraniens ne s’enfuient pas du champ de bataille ;
 >
 > Et demain aussitôt que le souffle de l’aube du jour se fera sentir, que toute l’armée vienne ici.
 >
-> Moi, accompagné du Sipehdar indien, je porterai mon drapeau sur cette grande montagne;
+> Moi, accompagné du Sipehdar indien, je porterai mon drapeau sur cette grande montagne ;
 >
 > Et demain tu verras sur la hauteur une colline composée des cadavres des braves de l’Iran et telle que dorénavant aucun Iranien ne pourra le regarder sans verser des larmes.
 
 Le Khakan lui dit :
 
-> Il n’y a pas d’autre voie à suivre!
+> Il n’y a pas d’autre voie à suivre !
 >
 > Il n’y a rien de mieux dans le monde qu’un court combat.
 
-Tous les grands furent d’avis que le Khakan vainqueur des lions avait bien décidé;
+Tous les grands furent d’avis que le Khakan vainqueur des lions avait bien décidé ;
 
 Ils s’en retournèrent et passèrent la nuit à mettre leurs troupes en ordre.
