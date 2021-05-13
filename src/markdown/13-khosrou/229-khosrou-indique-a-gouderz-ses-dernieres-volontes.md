@@ -26,7 +26,7 @@ Aussitôt que la porte de ce noble trésor fut ouverte, le roi donna à Gouderz 
 >
 > Traite l’argent comme une chose vile et pense à la mort.»
 
-Ensuite il prescrivit à Gouderz de prendre le trésor appelé ’Arous, que Kaous avait amassé dans la ville de Thous et de le donner à Zal, à Guiv et au maître de Raksch.
+Ensuite, il prescrivit à Gouderz de prendre le trésor appelé ’Arous, que Kaous avait amassé dans la ville de Thous et de le donner à Zal, à Guiv et au maître de Raksch.
 
 Il fit compter toutes les robes qu’il possédait, les regarda et en fit présent à Rustem, de même que des colliers et des chaînes que portent les héros, des cuirasses et de lourdes massues.
 
@@ -38,7 +38,7 @@ Toutes les armes dont il s’était servi, des armes précieuses dans lesquelles
 
 Il donna à Feribourz fils de Kaous le reste de ses palais, ses tentes grandes et petites et leurs enceintes, ses écuries et les bêtes qu’elles contenaient.
 
-Ensuite il prit une cuirasse, un casque, une couronne d’or, une chaîne plus brillante que Jupiter et deux anneaux de rubis étincelants sur lesquels était gravé le nom du roi de la terre et qui étaient connus du monde entier et les donna à Bijen, disant :
+Ensuite, il prit une cuirasse, un casque, une couronne d’or, une chaîne plus brillante que Jupiter et deux anneaux de rubis étincelants sur lesquels était gravé le nom du roi de la terre et qui étaient connus du monde entier et les donna à Bijen, disant :
 
 > Prends-les comme un souvenir et ne sème jamais que la semence du bien.»
 
