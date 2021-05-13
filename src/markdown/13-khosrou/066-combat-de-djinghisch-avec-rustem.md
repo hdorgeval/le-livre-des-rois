@@ -67,9 +67,9 @@ Rustem saisit sa massue, s’élança de sa place, monta sur Raksch et s’écri
 
 Djinghisch lui répondit :
 
-> Quel est ton nom et ta naissance?
+> Quel est ton nom et ta naissance ?
 >
-> Que demandes-tu?
+> Que demandes-tu ?
 >
 > Dis-le-moi, pour que je sache quel sang je verserai sur ce champ de bataille lorsque la poussière se lèvera sous mes pas ?
 
