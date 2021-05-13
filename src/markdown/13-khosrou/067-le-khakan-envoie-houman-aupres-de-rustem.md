@@ -54,11 +54,11 @@ Le Khakan dit à Houman :
 
 Houman lui dit :
 
-> Je ne suis pas une enclume;
+> Je ne suis pas une enclume ;
 >
 > Je ne suis pas l’égal de Pildendan dans le combat.
 >
-> Jamais il n’y eut de guerrier comme Kamous, jamais personne ne joignit autant d’ardeur à autant de prudence et pourtant ce cavalier l’a pris dans le nœud de son lacet;
+> Jamais il n’y eut de guerrier comme Kamous, jamais personne ne joignit autant d’ardeur à autant de prudence et pourtant ce cavalier l’a pris dans le nœud de son lacet ;
 >
 > Ne méprise donc pas ce brave.
 >
@@ -68,13 +68,13 @@ Il courut à sa tente rapidement comme le vent, mit sur sa tête un autre casque
 
 Arrivé près de Rustem, il examina ses bras et ses jambes et lui dit :
 
-> Ô homme illustre, maître du lacet ! ô héros vaillant cavalier!
+> Ô homme illustre, maître du lacet ! ô héros vaillant cavalier !
 >
-> Je jure par Dieu que je désespère de mon trône, quand je vois un ennemi comme toi;
+> Je jure par Dieu que je désespère de mon trône, quand je vois un ennemi comme toi ;
 >
 > Car dans cette nombreuse armée il n’y a pas un grand et puissant guerrier qui te soit comparable.
 >
-> Il faut être brave pour t’affronter;
+> Il faut être brave pour t’affronter ;
 >
 > Il faut pouvoir anéantir un lion.
 >
@@ -82,7 +82,7 @@ Arrivé près de Rustem, il examina ses bras et ses jambes et lui dit :
 >
 > Dis-moi quel est ton pays, quels sont tes parents, ta demeure, ton lignage et ton nom.
 >
-> J’aime un homme vaillant qui se comporte comme un léopard;
+> J’aime un homme vaillant qui se comporte comme un léopard ;
 >
 > Et si tu veux me dire ton nom, ton pays, ta province et ta demeure, tu me feras une faveur singulière et tu délivreras mon esprit d’un grand souci.
 
@@ -94,41 +94,41 @@ Rustem lui répondit :
 >
 > Si c’est la paix que tu désires, aide-moi à mettre fin à cette guerre.
 >
-> Recherche ceux qui ont versé le sang de Siawusch, qui ont allumé parmi nous la flamme de cette vengeance;
+> Recherche ceux qui ont versé le sang de Siawusch, qui ont allumé parmi nous la flamme de cette vengeance ;
 >
-> Découvre, dans l’armée du Touran, ceux qui ont répandu le sang de cet innocent;
+> Découvre, dans l’armée du Touran, ceux qui ont répandu le sang de cet innocent ;
 >
-> Retrouve tous les hommes et les chevaux caparaçonnés que Siawusch amena dans le Touran chargés de trésors;
+> Retrouve tous les hommes et les chevaux caparaçonnés que Siawusch amena dans le Touran chargés de trésors ;
 >
-> Et quand vous me les aurez renvoyés tous, alors je cesserai de faire la guerre aux Turcs;
+> Et quand vous me les aurez renvoyés tous, alors je cesserai de faire la guerre aux Turcs ;
 >
-> Alors vous serez tous mes amis, je vous honorerai et vous protégerai, nous ne nous vengerons plus, nous ne ferons plus la guerre, nous ne jetterons plus dans la poussière la tête des grands et je raconterai à Keï Khosrou tout ce qui s’est passé;
+> Alors vous serez tous mes amis, je vous honorerai et vous protégerai, nous ne nous vengerons plus, nous ne ferons plus la guerre, nous ne jetterons plus dans la poussière la tête des grands et je raconterai à Keï Khosrou tout ce qui s’est passé ;
 >
 > Je purifierai son cœur et son cerveau de toute colère et du désir de la vengeance.
 >
 > J’enverrai au roi ceux qui ont fait le mal et peut-être sa clémence leur pardonnera.
 >
-> Maintenant je vais t’énumérer ces méchants, que leurs noms soient maudits, que leurs désirs ne s’accomplissent pas!
+> Maintenant je vais t’énumérer ces méchants, que leurs noms soient maudits, que leurs désirs ne s’accomplissent pas !
 >
 > D’abord l’instigateur de ce crime, Guersiwez, qui a affligé et tourmenté l’Iran.
 >
-> Puis tous les membres de la famille de Tour, que tu sais avoir follement troublé cette eau, tels que Guerouï, Zereh et ses fils, maudite soit à jamais cette race dont la méchanceté a opprimé Siawusch, lui qui avait affranchi l’Iran et le Touran de leurs haines!
+> Puis tous les membres de la famille de Tour, que tu sais avoir follement troublé cette eau, tels que Guerouï, Zereh et ses fils, maudite soit à jamais cette race dont la méchanceté a opprimé Siawusch, lui qui avait affranchi l’Iran et le Touran de leurs haines !
 >
-> Ensuite tous ceux qui ont perverti le cœur et la tête d’Afrasiab et qui ont versé des torrents de sang;
+> Ensuite tous ceux qui ont perverti le cœur et la tête d’Afrasiab et qui ont versé des torrents de sang ;
 >
-> Tous ceux qui ont pris part à cette guerre, sans avoir de vengeance à exercer contre les Iraniens;
+> Tous ceux qui ont pris part à cette guerre, sans avoir de vengeance à exercer contre les Iraniens ;
 >
 > Les grands de la famille de Wiseh, de cette race à deux visages et qui veut tromper le monde entier, tels que Houman, Lehhak et Ferschidwerd, auteurs du deuil de Gouderz.
 >
 > Si tu exécutes ce que je viens de dire, si tu mets ainsi fin à nos vengeances, tu n’auras plus besoin de couvrir ta poitrine d’une cuirasse et je fermerai la porte de la guerre qui désole ton pays.
 >
-> Mais si tu tiens un autre langage, je ferai reverdir la vieille haine et les combats, j’attiserai la flamme qui dévorera ta patrie, je brûlerai tout ce pays, je ne laisserai personne en vie sur cette plaine où nous combattons;
+> Mais si tu tiens un autre langage, je ferai reverdir la vieille haine et les combats, j’attiserai la flamme qui dévorera ta patrie, je brûlerai tout ce pays, je ne laisserai personne en vie sur cette plaine où nous combattons ;
 >
 > Je n’épargnerai ni Schenkoul ni le Khakan de la Chine.
 >
 > Tu as éprouvé ma valeur sur ce champ de bataille, tu connais mes coups et ma manière de guerroyer.
 >
-> Je suis accoutumé à combattre les Touraniens, je suis un des grands de l’Iran;
+> Je suis accoutumé à combattre les Touraniens, je suis un des grands de l’Iran ;
 >
 > J’ai séparé du tronc bien des têtes, qui n’ont trouvé d’autre linceul que la terre noire.
 >
@@ -140,17 +140,17 @@ Houman l’écoutait transi de peur et le son de la voix de Rustem, qu’il ente
 
 > Ô homme au cœur de lion, ô héros avide de guerre, avec cette mine et cette haute stature, ta place devrait être le trône de l’Iran : et tu ne serais qu’un vaillant Pehlewan ou un grand de l’Iran plein d’audace?
 >
-> Tu m’as demandé mon nom et mon origine;
+> Tu m’as demandé mon nom et mon origine ;
 >
 > Mais il y a dans ton esprit une arrièrepensée.
 >
 > Mon nom, ô brave, est Gour-i-kouh ; mon père est Bousipas, un vieillard qui ressemble à un lion.
 >
-> Je suis venu de loin avec cette armée;
+> Je suis venu de loin avec cette armée ;
 >
 > Je suis venu ici comme un simple soldat, parce que le roi du Touran m’a fait beaucoup d’instances, m’a donné beaucoup d’or et m’a équipé.
 >
-> Maintenant je voudrais de nouveau savoir ton nom, pour rendre publiques tes demandes;
+> Maintenant je voudrais de nouveau savoir ton nom, pour rendre publiques tes demandes ;
 >
 > Et si tu veux me le dire, je m’en retournerai satisfait dans mon camp.
 >
@@ -158,11 +158,11 @@ Houman l’écoutait transi de peur et le son de la voix de Rustem, qu’il ente
 
 Rustem lui dit :
 
-> Ne cherche pas à connaître mon nom;
+> Ne cherche pas à connaître mon nom ;
 >
 > Répète-leur ce que tu m’as entendu dire.
 >
-> Mon âme brûle pour Piran, mon cœur est enflammé de tendresse pour lui;
+> Mon âme brûle pour Piran, mon cœur est enflammé de tendresse pour lui ;
 >
 > Il n’y a que lui qui soit affligé de la mort de Siawusch et il n’existe pas dans le Touran un homme aussi noble et aussi humain.
 >
