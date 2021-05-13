@@ -33,7 +33,7 @@ Ce message rendit Piran soucieux, car il vit qu’il fallait sans délai se pré
 
 Il partit avec ses guerriers renommés, avec ses cavaliers braves et choisis, en disant :
 
-> Que peut vouloir l’armée de l’Iran?
+> Que peut vouloir l’armée de l’Iran ?
 >
 > Combien de héros compte-t-elle ?
 
