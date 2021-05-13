@@ -110,7 +110,7 @@ Ensuite, il reprit :
 >
 > Si tu verses le sang de Bijen, la poussière de la destruction s’élèvera du pays de Touran.
 >
-> Tu es un roi plein de ssagesse et je ne suis qu’un sujet ;
+> Tu es un roi plein de sagesse et je ne suis qu’un sujet ;
 >
 > Mais ouvre les yeux de la sagesse et regarde ;
 >
