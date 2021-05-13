@@ -62,13 +62,13 @@ Ensuite, il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 >
 > Après t’avoir quitté, ô Pehlewan, j’ai rapporté ton message à tous les Touraniens, jeunes et vieux, je leur ai raconté tes hauts faits ;
 >
-> Mais qui dans le monde pourrait te célébrer dignement?
+> Mais qui dans le monde pourrait te célébrer dignement ?
 >
 > Je me suis empressé de leur parler de la paix et de la guerre, de leur parler de toute chose.
 >
 > Mais à la fin ils m’ont dit : 
 >
-> > Comment pourrions-nous éteindre cette vengeance par le moyen que tu indiques?
+> > Comment pourrions-nous éteindre cette vengeance par le moyen que tu indiques ?
 > >
 > > Il nous est facile de rendre les trésors, l’or, les joyaux et tout ce qu’il nous demande de précieux ;
 > >
@@ -76,17 +76,17 @@ Ensuite, il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 > >
 > > Réfléchis et sonde ce secret ;
 > >
-> > Connais-tu d’autres coupables que les membres de la famille d’Afrasiab?
+> > Connais-tu d’autres coupables que les membres de la famille d’Afrasiab ?
 > >
 > > Ne te hâte pas de parler.
 > >
 > > Ceux que Rustem demande sont tous des princes, des grands, maîtres des couronnes et des diadèmes.
 > >
-> > Comment les livrerions-nous et qui pourrait le faire?
+> > Comment les livrerions-nous et qui pourrait le faire ?
 > >
 > > Une pareille pensée changerait un jeune homme en vieillard.
 > >
-> > Puisqu’il est arrivé une si grande armée de la Chine, du Seklab, de l’Inde et du Touran, pourquoi Afrasiab demanderait-il la paix, lui qui envoie ici tant de troupes de la terre ferme et d’au delà des mers?
+> > Puisqu’il est arrivé une si grande armée de la Chine, du Seklab, de l’Inde et du Touran, pourquoi Afrasiab demanderait-il la paix, lui qui envoie ici tant de troupes de la terre ferme et d’au delà des mers ?
 >
 > On a répondu à mes discours par des reproches et je me suis hâté de revenir auprès de toi.
 >
@@ -102,9 +102,9 @@ Ensuite, il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 
 > Malheureux !
 >
-> Comment oses-tu recourir à de telles ruses et à de telles fourberies?
+> Comment oses-tu recourir à de telles ruses et à de telles fourberies ?
 >
-> Comment oses-tu poser le pied sur un terrain si dangereux?
+> Comment oses-tu poser le pied sur un terrain si dangereux ?
 >
 > Le roi m’a beaucoup parlé en public et en secret de tes mensonges et maintenant j’ai vu ce que tu sais faire et ce que tu veux ;
 >
@@ -114,11 +114,11 @@ Ensuite, il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 >
 > Ton destin présent est mauvais, mais celui qui t’attend est encore pire !
 >
-> Que la terre que tu foules soit un enfer ou un paradis, ne t’ai-je pas conseillé de quitter ce pays maudit et d’aller dans un pays civilisé?
+> Que la terre que tu foules soit un enfer ou un paradis, ne t’ai-je pas conseillé de quitter ce pays maudit et d’aller dans un pays civilisé ?
 >
 > Une vie comme la tienne n’a aucune valeur, car ta tête est sous le souffle du dragon.
 >
-> Tu ne veux donc pas aller voir ce roi juste et plein de tendresse, jeune, doux et beau de visage et tu aimes mieux te vêtir de peaux de sanglier et de léopard que de brocart brillant?
+> Tu ne veux donc pas aller voir ce roi juste et plein de tendresse, jeune, doux et beau de visage et tu aimes mieux te vêtir de peaux de sanglier et de léopard que de brocart brillant ?
 >
 > Personne ne te disputera ce goût et tu ne te nourriras que du fruit de ce que tu as semé.
 
@@ -126,7 +126,7 @@ Piran lui répondit :
 
 > Ô homme fortuné, puissant et content de ton sort, toi qui es l’ornement du trône !
 >
-> Qui est-ce qui saurait parler comme toi?
+> Qui est-ce qui saurait parler comme toi ?
 >
 > Puissent les rois te rendre hommage !
 >
