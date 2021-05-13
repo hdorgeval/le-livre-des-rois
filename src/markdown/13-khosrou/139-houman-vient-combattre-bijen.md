@@ -12,7 +12,7 @@ order: '139'
 
 Lorsque l’aube du jour montra sa tête au-dessus de la montagne et que la nuit retira le pan de sa robe noire, Houman revêtit son armure de combat, se rendit auprès de Piran et lui raconta tout ; comment il avail défié Bijen fils de Guiv et s’était pri-.9 paré au combat pendant toute la nuit.
 
-Ensuite il appela un trucheman de l’armée, le fit monter sur un cheval bai, rapide comme le vent et lui dit :
+Ensuite, il appela un trucheman de l’armée, le fit monter sur un cheval bai, rapide comme le vent et lui dit :
 
 > Va auprès de Bijen et dis-lui d’accourir en toute hâte, a car je vais arriver comme un tourbillon de fumée.»
 
