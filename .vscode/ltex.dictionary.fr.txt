@@ -280,3 +280,7 @@ Schiraz
 Isfahan
 Istakhr
 Baghdad
+Balkh
+Hirbed
+Kitaboun
+Zerir
