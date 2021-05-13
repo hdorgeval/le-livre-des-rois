@@ -118,7 +118,7 @@ Il s’écria :
 
 > Cet éléphant, ce trône d’ivoire, ces bracelets, ce diadème, ce collier et cette couronne sont dignes d’être offerts dans l’Iran à Keï Khosrou le jeune roi du monde.
 >
-> Qu’avez-vous affaire des couronnes et de cette pompe, vous qui malgré votre puissance, vos efforts et votre bravoure, finissez par livrer vos mains à nos chaînes et vos corps aux nœuds de nos lacets?
+> Qu’avez-vous affaire des couronnes et de cette pompe, vous qui malgré votre puissance, vos efforts et votre bravoure, finissez par livrer vos mains à nos chaînes et vos corps aux nœuds de nos lacets ?
 >
 > Je vous enverrai auprès du roi de la terre ;
 >
