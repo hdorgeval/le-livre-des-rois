@@ -22,7 +22,7 @@ Il lui dit :
 >
 > Si je rappelais les glorieuses fatigues, j’au-rais quelque chose de nouveau à dire pendant cent générations et pourtant si l’on comparait mes louanges avec tes hauts faits, elles paraîtraient presque un blâme.
 >
-> Quant à la question que tu m’as adressée sur mes actions, sur mes malaises et ma cour fermée, je vais te dire tout, pour que tu le saches, ô héros!
+> Quant à la question que tu m’as adressée sur mes actions, sur mes malaises et ma cour fermée, je vais te dire tout, pour que tu le saches, ô héros !
 >
 > Mon désir unique est dirigé vers Dieu ; j’ai renoncé au monde avec mépris ; je me tiens jour et nuit debout en prière, suppliant le Juge et le guide suprême qu’il me pardonne mes péchés passés et qu’il éclaire ma route obscure ; qu’il m’enlève de cette demeure passagère, qu’il ne réserve plus pour moi des fêtes et des fatigues dans ce monde ; qu’il m’accorde un séjour heureux dans les jardins du paradis et qu’il me guide vers le bien.
 >
