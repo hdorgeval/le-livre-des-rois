@@ -86,13 +86,13 @@ Et maintenant quels maux n’a-t-il pas accumulés dans ce dernier combat sur le
 
 Les grands lui répondirent en se levant tous ensemble et s’écriant :
 
-> Si les chefs du pays du Seklab et de la Chine ont voulu attaquer l’Iran et s’en venger, pourquoi as-tu appelé ces rois à ton aide et leur as-tu prodigué follement tous tes trésors?
+> Si les chefs du pays du Seklab et de la Chine ont voulu attaquer l’Iran et s’en venger, pourquoi as-tu appelé ces rois à ton aide et leur as-tu prodigué follement tous tes trésors ?
 >
 > Mais personne de notre armée n’a péri et ce pays n’est pas arrosé de notre sang.
 >
-> Pourquoi craindre Rustem?
+> Pourquoi craindre Rustem ?
 >
-> Pourquoi prôner ainsi le nom de ton ennemi?
+> Pourquoi prôner ainsi le nom de ton ennemi ?
 >
 > Nos mères nous ont tous mis au monde pour mourir ;
 >
