@@ -22,7 +22,7 @@ Guersiwez lui répondit :
 
 > C’est pour Bijen, le pire des ennemis du roi.
 
-Piran poussa son cheval et s’approcha de Bijen, qu’il trouva abattu et dépouillé de ses vêtements ;
+Piran poussa son cheval et s’approcha de Bijen, qu’il trouva abattu et dépouillé de ses vêtements  ;
 
 Ses deux mains étaient fortement liées derrière le dos, sa bouche était sèche et son visage avait perdu son éclat et ses couleurs.
 
@@ -42,11 +42,11 @@ Ensuite, il donna l’ordre qu’on suspendît l’exécution et il dit à Bijen
 
 Il donna un coup à son cheval et partit et se hâta d’arriver auprès du roi du Touran.
 
-Il entra dans le palais humblement comme un esclave et se présenta devant Afrasiab les mains croisées sur la poitrine;
+Il entra dans le palais humblement comme un esclave et se présenta devant Afrasiab les mains croisées sur la poitrine ;
 
-Il courut jusqu’au-près du trône et invoqua sur le roi les grâces de Dieu ;
+Il courut jusqu’au-près du trône et invoqua sur le roi les grâces de Dieu  ;
 
-Ensuite il se tint debout devant lui comme il convient à un Destour vertueux et de bon conseil.
+Ensuite, il se tint debout devant lui comme il convient à un Destour vertueux et de bon conseil.
 
 Le maître du monde vit que le noble Piran se tenait debout parce qu’il avait quelque chose à demander  ; il sourit et lui dit :
 
@@ -56,21 +56,21 @@ Parle  !
 
 Il n’y a personne que j’honore autant que toi.
 >
-> Si tu veux de l’or ou des joyaux, si tu veux un gouvernement ou une armée, je ne serai pas avare envers toi de mes trésors;
+> Si tu veux de l’or ou des joyaux, si tu veux un gouvernement ou une armée, je ne serai pas avare envers toi de mes trésors ;
 >
 > Car sans cela, comment supporterais-tu pour moi tant de fatigues ?
 
 À ces paroles Piran le serviteur du roi baisa la terre et il dit en se redressant :
 
-> Puisses-tu occuper à jamais le trône!
+> Puisses-tu occuper à jamais le trône !
 >
-> Puisse le bonheur ne choisir d’autre demeure que ton trône!
+> Puisse le bonheur ne choisir d’autre demeure que ton trône !
 >
 > Tous les rois de la terre célèbrent tes louanges et le soleil brillant te rend hommage.
 >
 > Je possède, par l’effet de ta fortune, tout ce que je désire en hommes, en trésors et en pouvoir.
 >
-> Ce n’est pas là ce que j’ai à te demander, car aucun de tes sujets n’est réduit à mendier;
+> Ce n’est pas là ce que j’ai à te demander, car aucun de tes sujets n’est réduit à mendier ;
 >
 > il suffit à mon bonheur de te voir régner et les grands illustres sont mon appui.
 >
@@ -78,13 +78,13 @@ Il n’y a personne que j’honore autant que toi.
 
 Ensuite, il reprit :
 
-> Ô roi vainqueur des lions, accepte de moi un bon conseil : ne mets pas à mort l’illustre Bijen ;
+> Ô roi vainqueur des lions, accepte de moi un bon conseil : ne mets pas à mort l’illustre Bijen  ;
 >
 > Car il a pour le venger un roi homme de sens et de prudence.
 >
 > Tu ferais renaître la haine qu’excita le meurtre de Siawusch, tu attirerais sur le Touran une autre guerre et une nouvelle vengeance.
 >
-> J’ai autrefois donné au roi quelques conseils;
+> J’ai autrefois donné au roi quelques conseils ;
 >
 > Mais comme il ne les a jamais suivis, j’ai fini par m’abstenir de lui en donner.
 >
@@ -100,7 +100,7 @@ Ensuite, il reprit :
 >
 > N’as-tu pas vu le mal que les Iraniens ont fait dans le pays de Touran ?
 >
-> Les sabots de leurs destriers ont foulé les deux tiers du Touran et notre fortune s’est éclipsée et l’épée de Destan fils de Sam n’est jamais restée dans le fourreau;
+> Les sabots de leurs destriers ont foulé les deux tiers du Touran et notre fortune s’est éclipsée et l’épée de Destan fils de Sam n’est jamais restée dans le fourreau ;
 >
 > Rustem la prendra et fera tomber les têtes et rejaillir le sang jusqu’au soleil.
 >
@@ -110,9 +110,9 @@ Ensuite, il reprit :
 >
 > Si tu verses le sang de Bijen, la poussière de la destruction s’élèvera du pays de Touran.
 >
-> Tu es un roi plein de ssagesse et je ne suis qu’un sujet;
+> Tu es un roi plein de ssagesse et je ne suis qu’un sujet ;
 >
-> Mais ouvre les yeux de la sagesse et regarde;
+> Mais ouvre les yeux de la sagesse et regarde ;
 >
 > Songe à ce que tu as souffert de la vengeance du roi de l’Iran que tu as provoquée et maintenant tu en recherches une nouvelle, tu veux faire porter du fruit à l’arbre du malheur.
 >
@@ -120,7 +120,7 @@ Ensuite, il reprit :
 >
 > Personne ne connaît mieux que toi Guiv et le vaillant Rustem le terrible crocodile et Gouderz fils de Keschwad,à la main d’acier, qui viendra combattre pour venger son petit-fils.
 
-C’est ainsi qu’il essaya de jeter de l’eau sur cette flamme ardente;
+C’est ainsi qu’il essaya de jeter de l’eau sur cette flamme ardente ;
 
 Mais Afrasiab répondit :
 
@@ -138,7 +138,7 @@ Piran le couvrit de bénédictions et dit :
 >
 > Néanmoins, je prie mon maître à l’esprit profond de réfléchir sur mon prudent conseil, qui est de charger Bijen de chaînes si lourdes qu’il préfèrera le gibet et la mort.
 >
-> Alors, il servira d’exemple aux Iraniens et ils n’oseront plus se ceindre pour nous faire du mal;
+> Alors, il servira d’exemple aux Iraniens et ils n’oseront plus se ceindre pour nous faire du mal ;
 >
 > Car quiconque reste enchaîné dans ta prison, on n’en demande plus le nom même aux Divs.
 
