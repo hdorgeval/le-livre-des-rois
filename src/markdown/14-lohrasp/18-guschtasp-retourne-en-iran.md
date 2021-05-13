@@ -96,7 +96,7 @@ Guschtasp le vit, se leva à l’instant, demanda à ses serviteurs un cheval de
 
 Le Kaisar reconnut alors que Farrukhzad était Guschtasp, qui donnait de l’éclat à la couronne de Lohrasp ; il le combla de louanges et lui rendit hommage ; ensuite ils s’en retournèrent vers le trône.
 
-Là le Kaisar s’excusa de ce qu’il avait fait autrefois, car il tremblait devant cette étonnante fortune.
+Là le Kaisar s’excusa de ce qu’il avait fait autrefois, car il tremblait devant cette étonnante fortune.
 
 Le roi accepta ses excuses, serra sa tête contre sa poitrine et lui dit :
 
