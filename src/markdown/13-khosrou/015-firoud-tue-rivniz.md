@@ -48,7 +48,7 @@ Firoud répondit à son sage compagnon :
 >
 > S’il ne meurt pas aussitôt que le touchera le vent excité par ma flèche, ne m’appelle plus un homme.
 >
-> Mais faut-il que mon trait abatte l’homme ou le cheval?
+> Mais faut-il que mon trait abatte l’homme ou le cheval ?
 >
 > Dis-le moi, ô conseiller plein d’expérience !
 
@@ -58,7 +58,7 @@ Tokhareh répondit :
 >
 > Peut-être qu’alors Thous se repentira, en voyant que tu es résolu à résister après lui avoir fait des offres de paix.
 >
-> Pourquoi un homme comme lui t’attaque-t-il follement?
+> Pourquoi un homme comme lui t’attaque-t-il follement ?
 >
 > Pourquoi veut-il déshonorer ton frère ?
 
