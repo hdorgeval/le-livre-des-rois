@@ -28,9 +28,9 @@ order: '064'
 
 # Rustem tue Kamous
 
-Tehemten fut affligé de la mort d’Alwa;
+Tehemten fut affligé de la mort d’Alwa ;
 
-Il détacha du crochet de la selle son lacet roulé : comme il allait entreprendre un combat pareil à celui qu’il avait soutenu dans le Mazenderan, il s’était pourvu de son lacet et de sa lourde massue;
+Il détacha du crochet de la selle son lacet roulé : comme il allait entreprendre un combat pareil à celui qu’il avait soutenu dans le Mazenderan, il s’était pourvu de son lacet et de sa lourde massue ;
 
 Il s’avança poussant des cris comme un éléphant ivre, le lacet suspendu au bras, la massue en main.
 
@@ -48,17 +48,17 @@ Rustem répondit :
 >
 > Le destin, ô homme de Kaschan, t’a amené dans ce lien où la poussière qui doit te recouvrir est le seul gîte qui te reste.
 
-Kamous lança son destrier, il vit que son ennemi l’attendait plein de confiance en sa force;
+Kamous lança son destrier, il vit que son ennemi l’attendait plein de confiance en sa force ;
 
 Il voulut trancher la tête de Rustem d’un coup de son épée damasquinée, mais l’épée porta sur le cou de Raksch et coupa, sans le blesser, l’armure qui le couvrait.
 
 Rustem lança le nœud de son lacet, prit Kamous par le milieu du corps, fit partir Raksch l’éléphant furieux, rapprocha de sa jambe le bout du lacet et le passa dans l’anneau de la selle, pendant que Raksch volait comme l’aigle aux grandes ailes.
 
-Kamous serra fortement son cheval des jambes, lui lâcha les rênes et appuya sur l’étrier;
+Kamous serra fortement son cheval des jambes, lui lâcha les rênes et appuya sur l’étrier ;
 
-Il essaya de rompre le lacet pour se délivrer de son étreinte;
+Il essaya de rompre le lacet pour se délivrer de son étreinte ;
 
-Il se démena comme un insensé;
+Il se démena comme un insensé ;
 
 Mais le lacet ne rompit pas.
 
@@ -66,7 +66,7 @@ Rustem arrêta Raksch, se retourna, désarçonna Kamous et le jeta par terre.
 
 Alors, il s’approcha de lui, le lia avec son lacet et lui dit :
 
-> A présent tu ne feras plus de mal;
+> A présent tu ne feras plus de mal ;
 >
 > La magie et les incantations t’ont fait défaut et ton esprit est devenu en vain l’esclave du Div.
 
@@ -76,15 +76,15 @@ Il dit aux braves :
 
 > Cet homme avide de combats a voulu se mesurer avec moi, se fiant à sa force et à sa puissance.
 >
-> Mais telle est la coutume de ce monde trompeur, tantôt il nous élève, tantôt il nous abaisse;
+> Mais telle est la coutume de ce monde trompeur, tantôt il nous élève, tantôt il nous abaisse ;
 >
 > C’est lui qui est la source de la joie et de la tristesse, qui nous déprime jusqu’à terre ou nous élève jusqu’aux nuages.
 >
-> Maintenant ce brave qui portait haut la tête, dont le lion courageux n’était pas l’égal dans le combat, qui était parti pour dévaster l’Iran, pour faire de notre pays la demeure des lions;
+> Maintenant ce brave qui portait haut la tête, dont le lion courageux n’était pas l’égal dans le combat, qui était parti pour dévaster l’Iran, pour faire de notre pays la demeure des lions ;
 >
-> Qui ne devait laisser dans le Zaboulistan et dans le Kaboul ni palais ni jardin et ne poser sa massue que lorsqu’il aurait anéanti Rustem fils de Zal;
+> Qui ne devait laisser dans le Zaboulistan et dans le Kaboul ni palais ni jardin et ne poser sa massue que lorsqu’il aurait anéanti Rustem fils de Zal ;
 >
-> Maintenant sa cuirasse et son casque lui serviront de linceul;
+> Maintenant sa cuirasse et son casque lui serviront de linceul ;
 >
 > La terre formera son diadème et la poussière sa tunique.
 >
@@ -104,7 +104,7 @@ Ne te fie pas à ton courage, car le destin a la main étendue sur toi.
 
 Vis donc en faisant du bien autant que tu peux et rends hommage à Dieu qui est ton guide.
 
-L’histoire du combat de Kamous est finie : le héros est mort;
+L’histoire du combat de Kamous est finie : le héros est mort ;
 
 Celui qui donne la vie la lui a ravie.
 
