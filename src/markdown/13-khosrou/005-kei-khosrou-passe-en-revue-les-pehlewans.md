@@ -54,13 +54,13 @@ Ensuite on inscrivit quatre-vingts descendants de Newder, tous armés de massues
 
 Ensuite venait Gouderz fils de Keschwad, dont les conseils maintenaient l’ordre dans l’armée ; il avait soixante et dix-huit fils ou petits-fils, tous cavaliers vaillants dans la montagne et léopards bondissants dans la plaine.
 
-Il y avait soixante-trois héros de la race de Guejdehem, dont Kustehem était le chef;
+Il y avait soixante-trois héros de la race de Guejdehem, dont Kustehem était le chef ;
 
-Cent cavaliers de la famille de Milad, sous le commandement de Gourguin le victorieux;
+Cent cavaliers de la famille de Milad, sous le commandement de Gourguin le victorieux ;
 
 Soixante et quinze parents de Tewabeh : c’étaient de vaillants cavaliers et les gardiens du trésor du roi, dont le chef et le soutien dans les combats était Barteh.
 
-On y voyait encore trente-trois braves combattants avec des javelots, de la famille de Pescheng le gendre de Thous, lequel se tenait dans la bataille au-devant des timbales et dont la tête dépassait celle de tous les guerriers;
+On y voyait encore trente-trois braves combattants avec des javelots, de la famille de Pescheng le gendre de Thous, lequel se tenait dans la bataille au-devant des timbales et dont la tête dépassait celle de tous les guerriers ;
 
 Soixante et dix parents de Berzin pareils à des lions dans le combat, commandés par Ferhad qui ressemblait dans la bataille à une enclume de fer et cent vingt braves de la famille de Gourazeh, commandés par lui-même.
 
@@ -70,12 +70,12 @@ On écrivit sur les rôles du roi les noms de tous ceux dont on avait besoin ; e
 
 Il leur dit :
 
-> Il faut qu’à la nouvelle lune le bruit des trompettes et des clochettes indiennes se fasse entendre;
+> Il faut qu’à la nouvelle lune le bruit des trompettes et des clochettes indiennes se fasse entendre ;
 >
 > il faut qu’à cette époque vous fassiez la guerre au Touran et que vous la regardiez comme un plaisir et comme une fête.
 
 Tous les braves baissèrent la tête jusqu’à terre, tous invoquèrent les bénédictions de Dieu sur lui, disant :
 
-> Ô roi puissant et glorieux, tu as rendu sa splendeur à la couronne et à la ceinture impériale;
+> Ô roi puissant et glorieux, tu as rendu sa splendeur à la couronne et à la ceinture impériale ;
 >
 > nous sommes tous tes esclaves et l’empire est à toi, à toi est le monde, depuis le signe du Bélier jusqu’aux Poissons.
