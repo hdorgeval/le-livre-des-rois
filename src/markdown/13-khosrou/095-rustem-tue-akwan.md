@@ -26,9 +26,9 @@ Les Turcs élevèrent une grande clameur, disant :
 >
 > Il faut nous couvrir de nos armures, car ceci ne se fait que parce qu’on veut se railler de nous.
 >
-> Sommes-nous donc devenus si méprisables, si vils et si faibles, qu’un homme seul vienne verser notre sang?
+> Sommes-nous donc devenus si méprisables, si vils et si faibles, qu’un homme seul vienne verser notre sang ?
 >
-> Laisserions-nous enlever ainsi honteusement nos troupeaux ?
+> Laisserions-nous enlever ainsi honteusement nos troupeaux  ?
 >
 > Nous ne devons pas laisser impuni un acte pareil.
 
@@ -44,7 +44,7 @@ Rustem les poursuivit pendant deux farsangs, semblable à un nuage printanier, f
 
 Lorsqu’il fut revenu auprès de la source, méditant dans son âme guerrière de nouvelles luttes, le Div Akwan l’accosta de nouveau et lui dit :
 
-> N’es-tu pas las de combattre?
+> N’es-tu pas las de combattre ?
 >
 > Tu as échappé à la mer et aux attaques des crocodiles ;
 >
@@ -72,9 +72,9 @@ Rustem rendit grâce à Dieu qui lui avait accordé la victoire au jour du comba
 >
 > Parle toujours de préférence de choses héroïques.
 >
-> Que distu, ô mon vieux maître, qui as supporté la chaleur et le froid de la vie?
+> Que distu, ô mon vieux maître, qui as supporté la chaleur et le froid de la vie ?
 >
-> Qui sait combien de hauts et de bas renferme une longue vie?
+> Qui sait combien de hauts et de bas renferme une longue vie ?
 >
 > La plus courte dans sa durée use les forces même de l’éléphant furieux.
 >
