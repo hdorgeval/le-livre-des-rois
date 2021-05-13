@@ -43,7 +43,7 @@ Lorsque Firoud fils de Siawusch l’aperçut, il poussa un profond soupir et dit
 
 > Dans cette vaillante armée, ils ne savent pas distinguer entre la montée et la descente.
 >
-> Ils sont tous plus braves les uns que les autres, ils ressemblent au soleil brillant dans le signe des Gémeaux;
+> Ils sont tous plus braves les uns que les autres, ils ressemblent au soleil brillant dans le signe des Gémeaux ;
 >
 > Mais leur Pehlewan n’a pas de sens et une tête privée de jugement est comme un corps sans âme.
 >
@@ -53,11 +53,11 @@ Lorsque Firoud fils de Siawusch l’aperçut, il poussa un profond soupir et dit
 
 Tokhareh jeta un court regard de la haute crête de la montagne vers la vallée et répondit :
 
-> C’est un terrible dragon, dont le souffle fait mourir l’oiseau dans l’air;
+> C’est un terrible dragon, dont le souffle fait mourir l’oiseau dans l’air ;
 >
 > C’est lui qui a lié les mains à ton grand-père Piran et qui a battu deux armées de Touraniens.
 >
-> Il a rendu orphelin maint enfant, il a traversé bien des montagnes, des fleuves et des déserts;
+> Il a rendu orphelin maint enfant, il a traversé bien des montagnes, des fleuves et des déserts ;
 >
 > Il a privé de leurs fils bien des pères et a mis le pied sur le cou de maint lion.
 >
@@ -65,7 +65,7 @@ Tokhareh jeta un court regard de la haute crête de la montagne vers la vallée 
 >
 > On l’appelle Guiv, c’est un éléphant et dans les combats il est puissant comme les flots de l’Indus.
 >
-> Tu auras beau raidir, à l’aide de ton anneau la corde de ton arc, les flèches ne perceront pas sa cotte de mailles;
+> Tu auras beau raidir, à l’aide de ton anneau la corde de ton arc, les flèches ne perceront pas sa cotte de mailles ;
 >
 > Car Guiv s’est revêtu, pour ce combat, de l’armure de Siawusch, qui n’a rien à craindre de la pointe d’un trait.
 >
@@ -79,7 +79,7 @@ Tous les braves vinrent à sa rencontre, disant :
 
 > Gloire à Dieu !
 
-Ton cheval seul est blessé, ô noble héros et tu ne l’es pas;
+Ton cheval seul est blessé, ô noble héros et tu ne l’es pas ;
 >
 > Tu n’as pas succombé, grâce au dispensateur de la justice.
 
@@ -87,9 +87,9 @@ Bijen arriva dans ce moment, rapide comme le vent et adressa à son père des pa
 
 > Ô héros !
 
-Toi qui as vaincu des lions, toi dont la main a toujours été prête à frapper, toi qu’un éléphant n’aurait pas osé combattre!
+Toi qui as vaincu des lions, toi dont la main a toujours été prête à frapper, toi qu’un éléphant n’aurait pas osé combattre !
 >
-> Comment as-tu tourné le dos devant un cavalier seul, toi dont la main a toujours été l’âme de la bataille!
+> Comment as-tu tourné le dos devant un cavalier seul, toi dont la main a toujours été l’âme de la bataille !
 >
 > Un Turc a blessé ton cheval et tu reviens tout étourdi comme un homme ivre ?
 
@@ -111,13 +111,13 @@ Il se rendit chez Kustehem, le cœur plein de douleur, la tête remplie du dési
 
 > Donne-moi un de tes chevaux, qui soit ardent et me porte facilement sur cette montagne, car je vais me couvrir de mon armure de bataille et montrer comment doit se comporter un homme.
 >
-> Il y a un Turc sur la crête de la montagne et toute l’armée le regarde;
+> Il y a un Turc sur la crête de la montagne et toute l’armée le regarde ;
 >
 > Je vais le combattre car ce qu’il a fait m’attriste l’âme.
 
 Kustehem lui dit :
 
-> Cela n’est pas raisonnable;
+> Cela n’est pas raisonnable ;
 >
 > Ne flaire pas follement la feuille de l’arbre du malheur.
 >
