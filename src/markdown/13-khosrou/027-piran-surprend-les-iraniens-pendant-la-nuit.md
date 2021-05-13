@@ -29,7 +29,7 @@ Piran choisit dans son armée glorieuse trente mille cavaliers armés d’épée
 
 De l’endroit d’où il partit avec ses troupes il y avait encore sept farsangs entre lui et les Iraniens.
 
-Ils atteignirent d’abord les troupeaux de chevaux qui erraient sur les plaines du Touran;
+Ils atteignirent d’abord les troupeaux de chevaux qui erraient sur les plaines du Touran ;
 
 Ils en prirent et en tuèrent un grand nombre, sans qu’il leur arrivât malheur ; ils tuèrent beaucoup de gardiens et de patres et l’étoile des Iraniens baissa.
 
@@ -75,7 +75,7 @@ Les cavaliers turcs poursuivirent Thous le cœur plein de vengeance, la bouche p
 
 Les chevaux et les hommes tombaient de fatigue, personne n’avait gardé son sangfroid.
 
-Les Turcs étant arrivés devant la montagne, s’en retournèrent, car ils étaient épuisés par le carnage et par la longue route qu’ils avaient faite;
+Les Turcs étant arrivés devant la montagne, s’en retournèrent, car ils étaient épuisés par le carnage et par la longue route qu’ils avaient faite ;
 
 Et dès que Thous eut quitté la plaine et atteint la montagne, il sentit qu’il était garanti contre leurs attaques.
 
@@ -103,4 +103,4 @@ Les plus sages de l’armée se rendirent auprès de lui le cœur brisé et se m
 
 Il plaça sur la montagne une sentinelle pour observer la route d’Anbouh, il envoya de tous cotés des rondes, dans l’espoir de découvrir un remède contre ces maux.
 
-Ensuite il ordonna à un grand d’entre les Iraniens de se ceindre pour aller annoncer au roi ce que Thous avait fait et lui dire quel jour néfaste était arrivé pour les Iraniens et quels malheurs avaient accablé leurs chefs.
+Ensuite, il ordonna à un grand d’entre les Iraniens de se ceindre pour aller annoncer au roi ce que Thous avait fait et lui dire quel jour néfaste était arrivé pour les Iraniens et quels malheurs avaient accablé leurs chefs.
