@@ -82,9 +82,9 @@ Dès qu’Afrasiab eut entendu cette réponse de Karakhan, il s’empressa de su
 
 Il s’adresse à Guersiwez et lui dit :
 
-> Que de maux n’avons-nous pas éprouvés de la part de l’Iran et combien en éprouverons-nous encore?
+> Que de maux n’avons-nous pas éprouvés de la part de l’Iran et combien en éprouverons-nous encore ?
 >
-> Y eut-il jamais au monde un homme aussi malheureux que moi, qui fus accablé d’afflictions par l’Iran et par mon enfant?
+> Y eut-il jamais au monde un homme aussi malheureux que moi, qui fus accablé d’afflictions par l’Iran et par mon enfant ?
 >
 > Va, prends avec toi des cavaliers prudents ;
 >
