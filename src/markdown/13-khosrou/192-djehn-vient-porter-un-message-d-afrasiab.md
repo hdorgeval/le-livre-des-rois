@@ -24,7 +24,7 @@ Le roi des rois s’assit sur son trône d’ivoire et plaça sur sa tête la co
 
 Lorsque celui-ci fut arrivé en présence du roi, Khosrou versa des larmes qui inondaient ses joues ; Djehn s’arrêta confondu;il ôta de sa tête son casque royal, s’avança jusqu’au pied du trône, rendit hommage au roi et l’adore, en disant :
 
-> Ô roi illustre, puissestu faire éternellement le bonheur du monde !
+> Ô roi illustre, puisses-tu faire éternellement le bonheur du monde !
 >
 > Puisse notre pays te porter bonheur !
 >
@@ -71,8 +71,7 @@ D’abord je porte au roi les salutations du chef de l’armée de ’ Touran, a
 >
 > J’appelle me oille Gangue ; c’est mon paradis, qui a été créé par mon pays et planté par moi ; c’est là qu’est mon armée et mon trésor, là mon sceau et mon diadème ; c’est là que je sème et que je jouis ; c’est là qu’est la demeure de mes lions du combat, pendant que le beau temps et les chaleurs sont 8.
 >
-> 8b passés pour toi et que les roses et les tulipes aux couleurs brillantes sont fanées ; l’hiver et le froid vont venir et gèlerons les mains sur les hampes des lances ; et quand les nuages montreront leurs rides sur le versant des montagnes, la terre de ce pays de-
-. viendra comme de la pierre.
+> 8b passés pour toi et que les roses et les tulipes aux couleurs brillantes sont fanées ; l’hiver et le froid vont venir et gèlerons les mains sur les hampes des lances ; et quand les nuages montreront leurs rides sur le versant des montagnes, la terre de ce pays deviendra comme de la pierre.
 >
 > Des armées arriveront de partout où je les appelle et tu ne résisteras pas à la rotation du soleil et de la lune.
 >
@@ -82,11 +81,7 @@ D’abord je porte au roi les salutations du chef de l’armée de ’ Touran, a
 >
 > Je suis le petittils de Zadschem, le plus grand des rois, je suis de la race de Feridoun et de Djemschid, je possède la sa-. gesse et la dignité que Dieu donne aux rois, je suis comme le Serosch et j’ai des ailes comme lui.
 >
-> Quand le malheur me serrera de près, je ne demanderai conseil à aucun maître, et, selon la volonté de Dieu, je disparaitral a lheure du sommeil, comme
-. . .
->
-> A -aa’
-une étoile disparaît devant le soleil.
+> Quand le malheur me serrera de près, je ne demanderai conseil à aucun maître, et, selon la volonté de Dieu, je disparaitral a lheure du sommeil, comme une étoile disparaît devant le soleil.
 >
 > Je traverserai la mer de Kaimak, je t’abandonnerai mon armée et mon empire.
 >
