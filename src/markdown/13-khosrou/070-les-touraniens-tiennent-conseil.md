@@ -62,41 +62,41 @@ Piran courut à son camp rapidement comme le vent, convoqua tous les membres de 
 >
 > Quand il combat pour la vengeance, quand il se met à la tête des braves et des lions du Zaboulistan et de tous les grands du Kaboul, les cavaliers du monde entier ne tiendraient pas contre lui.
 >
-> Il a avec lui Gouderz fils de Keschwad, Guiv et Thous;
+> Il a avec lui Gouderz fils de Keschwad, Guiv et Thous ;
 >
 > Et que nous le voulions ou non, nous devons, hélas !
 
 Livrer bataille.
 >
-> Il cherche ceux d’entre les Turcs qui ont fait périr Siawusch et n’en veut pas aux innocents;
+> Il cherche ceux d’entre les Turcs qui ont fait périr Siawusch et n’en veut pas aux innocents ;
 >
 > Mais vous savez qu’Afrasiab s’intéresse vivement à ceux d’entre nous qui ont participé à ce crime.
 >
-> Soyez persuadés que tout notre pays sera dévasté et que les braves de l’Iran en feront ce qu’ils voudront;
+> Soyez persuadés que tout notre pays sera dévasté et que les braves de l’Iran en feront ce qu’ils voudront ;
 >
 > Qu’il ne restera ni vieux, ni jeunes, ni roi, ni trésor, ni armée, ni trône, ni couronne.
 >
-> J’avais conseillé a ce vil et injuste Afrasiab de maîtriser sa fougue et son orgueil;
+> J’avais conseillé a ce vil et injuste Afrasiab de maîtriser sa fougue et son orgueil ;
 >
 > Je l’avais prévenu qu’un jour cette flamme le brûlerait, que son esprit en serait consumé et l’œil de sa raison aveuglé.
 >
-> Mais le tyran ne m’a pas écouté;
+> Mais le tyran ne m’a pas écouté ;
 >
-> Il n’a pas écouté les grands qui l’entouraient;
+> Il n’a pas écouté les grands qui l’entouraient ;
 >
 > Il a assassiné le noble Siawusch sans consulter les braves et les sages.
 >
-> Vous verrez qu’il ne restera ni roi, ni couronne, ni éléphant de guerre, ni trône d’ivoire;
+> Vous verrez qu’il ne restera ni roi, ni couronne, ni éléphant de guerre, ni trône d’ivoire ;
 >
 > Le roi de l’Iran s’en réjouira et les soucis et les douleurs deviendront le partage des braves.
 >
 > Hélas !
 
-Cette grande armée et ces braves, environnés de pompe et de puissance, possesseurs de trônes et de couronnes, tout sera détruit devant vos yeux et aucun de nous ne reviendra sain et sauf de ce champ de bataille;
+Cette grande armée et ces braves, environnés de pompe et de puissance, possesseurs de trônes et de couronnes, tout sera détruit devant vos yeux et aucun de nous ne reviendra sain et sauf de ce champ de bataille ;
 >
 > Ils nous fouleront aux pieds de leurs destriers et la splendeur de la fortune qui veillait sur nous sera ternie.
 >
-> Mon cœur est désolé du sort qui attend Houman et il se consume de douleur en pensant à Rouïn;
+> Mon cœur est désolé du sort qui attend Houman et il se consume de douleur en pensant à Rouïn ;
 >
 > Car Rustem ne songe qu’à venger Siawusch et il fronce les sourcils.
 >
@@ -104,7 +104,7 @@ Cette grande armée et ces braves, environnés de pompe et de puissance, possess
 
 Il courut rapidement comme un tourbillon de poussière auprès du Khakan, le cœur gonflé de sang, les yeux inondés de larmes de fiel.
 
-Il trouva sa tente remplie de lamentations;
+Il trouva sa tente remplie de lamentations ;
 
 Il vit des tulipes de sang sur ces joues couleur de safran.
 
@@ -116,21 +116,21 @@ Toute une assemblée de parents de Kamous entourait le Khakan, demandant justice
 >
 > Nous ramènerons en Chine les troupes de Kaschan, les yeux remplis de larmes, le cœur plein du désir de la vengeance.
 >
-> Ensuite nous conduirons ici une armée de la Chine et du pays des Berbers pour venger Kamous;
+> Ensuite nous conduirons ici une armée de la Chine et du pays des Berbers pour venger Kamous ;
 >
 > Nous conduirons les troupes de Bezkousch, de Segsar et du Mazenderan armées de lourdes massues et impatientes de combattre Rustem, qui n’osera pas écouter leurs cris de guerre.
 >
 > Si Afrasiab veut prendre part à cette campagne, qu’il renonce au sommeil !
 
-En même temps on entendit les cris des parents de Djinghisch et d’Aschkebous, cris qui ressemblaient au bruit des timbales;
+En même temps on entendit les cris des parents de Djinghisch et d’Aschkebous, cris qui ressemblaient au bruit des timbales ;
 
 Et tous les assistants, dans leur compassion pour les peines de ces familles, répandaient des larmes de fiel sur leurs joues de safran et s’écriaient les yeux mouillés de larmes :
 
-> Dès ce moment nous renonçons au sommeil et au repos;
+> Dès ce moment nous renonçons au sommeil et au repos ;
 >
-> Nous mettrons à feu le Seïstan, nous remplirons d’amertume les jours et les nuits de nos ennemis;
+> Nous mettrons à feu le Seïstan, nous remplirons d’amertume les jours et les nuits de nos ennemis ;
 >
-> Nous suspendrons à un gibet la tête de Rustem du Zaboulistan, pour témoigner de notre deuil sur la mort de ces grands;
+> Nous suspendrons à un gibet la tête de Rustem du Zaboulistan, pour témoigner de notre deuil sur la mort de ces grands ;
 >
 > Nous brûlerons son corps et en répandrons les cendres devant la porte de son palais.
 
@@ -142,19 +142,19 @@ Il s’avança alors vers le Khakan et lui dit :
 
 > Notre guerre, qui devait être si courte, est devenue longue.
 >
-> Il est sorti de la mer, pour nous combattre, un crocodile dont la cuirasse est de peau de léopard;
+> Il est sorti de la mer, pour nous combattre, un crocodile dont la cuirasse est de peau de léopard ;
 >
-> Il a amené avec lui les grands de toutes les provinces et les princes illustres de tous les pays;
+> Il a amené avec lui les grands de toutes les provinces et les princes illustres de tous les pays ;
 >
 > Toutes nos fatigues ont été vaines et le crime d’Afrasiab finit par trouver sa punition.
 >
-> La tête du roi du Touran s’était tournée vers le mal et Siawusch périt de sa main;
+> La tête du roi du Touran s’était tournée vers le mal et Siawusch périt de sa main ;
 >
-> Ce fut sur le conseil de l’insensé Guersiwez qu’il commit ce crime;
+> Ce fut sur le conseil de l’insensé Guersiwez qu’il commit ce crime ;
 >
 > Et pourtant Siawusch était un homme de sens et un noble personnage, dont Rustem du Zaboulistan était le père nourricier.
 >
-> A présent sa mort nous amène la guerre et les vengeances;
+> A présent sa mort nous amène la guerre et les vengeances ;
 >
 > Elle fait que le ciel s’abaisse sur la terre.
 >
@@ -172,7 +172,7 @@ Il s’avança alors vers le Khakan et lui dit :
 >
 > Si l’on veut qu’une affaire prospère, il faut commencer par éviter ce qui amène les vengeances.
 
-Le Khakan fut consterné des paroles de Piran;
+Le Khakan fut consterné des paroles de Piran ;
 
 Il invoqua le nom du Créateur et dit :
 
@@ -184,33 +184,33 @@ Schenkoul s’écria :
 >
 > Nous avons voulu secourir Afrasiab, nous avons traversé les plaines et les mers, nous avons reçu du roi beaucoup d’armes et de présents, nous sommes accourus de tous les pays, nous sommes venus comme des lions et nous nous en retournerions comme des renards, si nous reculions devant le combat.
 >
-> Nous sommes partis en bondissant comme de vaillants lions, nous ne nous sommes pas arrêtés un jour en route;
+> Nous sommes partis en bondissant comme de vaillants lions, nous ne nous sommes pas arrêtés un jour en route ;
 >
-> Et maintenant nous serions dans la détresse parce qu’un homme arrive du Seïstan pour nous combattre!
+> Et maintenant nous serions dans la détresse parce qu’un homme arrive du Seïstan pour nous combattre !
 >
-> C’est une honte de s’occuper d’un seul homme et ce n’est pas ainsi qu’on atteint son but!
+> C’est une honte de s’occuper d’un seul homme et ce n’est pas ainsi qu’on atteint son but !
 >
-> Sache que, fût-il un éléphant furieux et ivre, il n’osera pas se mesurer avec un lion;
+> Sache que, fût-il un éléphant furieux et ivre, il n’osera pas se mesurer avec un lion ;
 >
 > Et quoique Kamous ait succombé sous ses coups, il ne faut pas désespérer.
 >
-> Piran a peur de Rustem, ses angoisses l’empêchent de dormir pendant la nuit;
+> Piran a peur de Rustem, ses angoisses l’empêchent de dormir pendant la nuit ;
 >
 > Mais y a-t-il un brave qui fasse cas d’un homme qui élève ses bras vers un sauveur?
 >
 > L’éléphant furieux n’est pas l’égal du lion et Rustem n’est pas aussi brave que le prétend Piran.
 >
-> Il faut nous décider et ne pas nous laisser décourager par la frayeur qu’il lui inspire;
+> Il faut nous décider et ne pas nous laisser décourager par la frayeur qu’il lui inspire ;
 >
 > Demain matin nous détacherons nos massues, nous mènerons une vaillante armée contre les Iraniens, nous ferons élever dans l’air un nuage de printemps, nous verserons une pluie de traits et la poussière et les coups de hache des cavaliers seront tels qu’on ne distinguera plus la tête des pieds des combattants.
 >
-> Tenez tous les yeux fixés sur moi;
+> Tenez tous les yeux fixés sur moi ;
 >
 > Et quand je pousserai un cri, vous frapperez.
 >
 > Comment !
 
-Nous serions plus de cent mille cavaliers braves et ardents pour la guerre et un seul homme nous ferait peur, nous ferait trembler et nous rendrait inertes comme des morts!
+Nous serions plus de cent mille cavaliers braves et ardents pour la guerre et un seul homme nous ferait peur, nous ferait trembler et nous rendrait inertes comme des morts !
 >
 > Quand j’attaquerai cet homme du Seïstan, vous ferez lever jusqu’au ciel la poussière et ne laisserez pas échapper un seul Iranien, car un méchant est une chose sans valeur.
 
@@ -232,7 +232,7 @@ Houman lui demanda :
 
 Piran raconta ce que Schenkoul avait dit et comment l’assemblée y avait applaudi.
 
-Houman en fut fort affligé;
+Houman en fut fort affligé ;
 
 Il s’emporta contre Schenkoul, le maudit et finit par dire :
 
@@ -244,7 +244,7 @@ En s’en allant, il accosta Kelbad et lui dit :
 >
 > Si ce Rustem est tel que je l’ai vu et que me l’ont dépeint les héros, il ne laissera en vie sur ce champ de bataille ni Schenkoul, ni Kender, ni Manschour, ni le Khakan.
 >
-> Il faut que nous nous tenions un peu à l’écart pour observer ce qui peut nous sauver ou nous perdre;
+> Il faut que nous nous tenions un peu à l’écart pour observer ce qui peut nous sauver ou nous perdre ;
 >
 > Car tu verras que deux tiers de cette armée innombrable, dont les lourdes massues devraient soumettre le monde, seront bientôt couchés sous la terre, avec leurs cuirasses pour linceul et leurs casques inondés de sang.
 
