@@ -81,7 +81,7 @@ Ce vaillant fils de roi que le vil Thous a livré au vent !
 >
 > Il sommeille dans la bataille et n’est prompt que pour s’asseoir au banquet.
 >
-> Que sert d’avoir de la bravoure quand on est commandé par lui?
+> Que sert d’avoir de la bravoure quand on est commandé par lui ?
 >
 > Maudite soit cette âme ténébreuse !
 >
@@ -121,9 +121,9 @@ Thous partit avec les cavaliers ardents et vaillants au combat, qui appartenaien
 >
 > Puisse ton nom disparaître de la liste des grands !
 >
-> N’as-tu aucune crainte de Dieu, le maître du monde, le saint?
+> N’as-tu aucune crainte de Dieu, le maître du monde, le saint ?
 >
-> Ne rougis-tu pas devant les grands et ne trembles-tu pas devant eux?
+> Ne rougis-tu pas devant les grands et ne trembles-tu pas devant eux ?
 >
 > Je t’ai ordonné de ne pas aller à Djerem et tu y es allé et tu as livré mon cœur à la douleur.
 >
