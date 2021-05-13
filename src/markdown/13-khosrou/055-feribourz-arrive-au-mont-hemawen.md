@@ -83,7 +83,7 @@ Feribourz lui répondit :
 
 Gouderz lui demanda :
 
-> Quels sont les ordres de Rustem?
+> Quels sont les ordres de Rustem ?
 >
 > Car il ne faut pas me cacher ses paroles.
 
