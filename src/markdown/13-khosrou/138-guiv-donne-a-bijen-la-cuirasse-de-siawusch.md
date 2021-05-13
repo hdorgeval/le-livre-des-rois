@@ -57,7 +57,7 @@ Bijen lui répondit :
 
 Bijen voyant devant lui le cheval de son père, sauta à bas du sien vite comme le vent, monta sur ce destrier royal, serra sa ceinture, saisit sa massue et alla chercher dans l’armée un trucheman qui sût bien la langue des Turcs.
 
-Ensuite il partit semblable à un lion bondissant, prêt à venger Siawusch.
+Ensuite, il partit semblable à un lion bondissant, prêt à venger Siawusch.
 
 Arrivé auprès de Houman, il vit comme une montagne de fer en ébullition : c’était une cuirasse qui illuminait toute la plaine et qui surmontait un éléphant.
 
