@@ -24,7 +24,7 @@ Ces grands de la Chine cheminèrent sans s’arrêter et arrivèrent à Gangue, 
 
 Le victorieux maître du monde les reçut gracieusement, leur assigna une demeure convenable et accepta ce qu’ils lui apportaient, des raretés, des caisses remplies d’or et des esclaves.
 
-Ensuite il dit à l’envoyé :
+Ensuite, il dit à l’envoyé :
 
 > Dis au Fager : N’encours pas follement ma disgrâce.
 >
