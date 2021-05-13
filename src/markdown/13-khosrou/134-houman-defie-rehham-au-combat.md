@@ -48,15 +48,17 @@ Ils indiquèrent alors à Houman tous les chefs des héros qui portaient haut la
 
 Le chef des vedettes envoya au Pehlewan un cavalier monté sur un cheval rapide et lui fit dire que Houman était sorti comme un léopard du camp des Turcs et qu’il venait pour le combattre.
 
-Houman passa la ligne des vedettes, courut vers Rehham et s’écria d’une voix forte : Ô fils du chef de l’armée sur lequel veille le sorti tu commandes l’aile gauche de l’armée des lions ; tu es le soutien du Sipehdar des Iraniens.
+Houman passa la ligne des vedettes, courut vers Rehham et s’écria d’une voix forte :
 
-Secoue la bride, avance-toi sur ce champ de bataille entre les lignes des deux armées ; il faut que tu te mesures avec moi ; choisis A un terrain, soit sur le bord du fleuve, soit dans la montagne.
-
-Si tu refuses, j’espère que Gustehem et Fourouhil s’empresseront de se présenter.
-
-Qui d’entre vos braves veut me tenir tête avec l’épée, la lance et la lourde massue ?
-
-Quiconque acceptera le combat avec moi, le sort lui fera manquer la terre sons les pieds ; car le cœur du lion et la peau du léopard se fendent quand ils voient mon épée dans la bataille.»
+> Ô fils du chef de l’armée sur lequel veille le sorti tu commandes l’aile gauche de l’armée des lions ; tu es le soutien du Sipehdar des Iraniens.
+>
+> Secoue la bride, avance-toi sur ce champ de bataille entre les lignes des deux armées ; il faut que tu te mesures avec moi ; choisis A un terrain, soit sur le bord du fleuve, soit dans la montagne.
+>
+> Si tu refuses, j’espère que Gustehem et Fourouhil s’empresseront de se présenter.
+>
+> Qui d’entre vos braves veut me tenir tête avec l’épée, la lance et la lourde massue ?
+>
+> Quiconque acceptera le combat avec moi, le sort lui fera manquer la terre sons les pieds ; car le cœur du lion et la peau du léopard se fendent quand ils voient mon épée dans la bataille.»
 
 Rehham répondit :
 
