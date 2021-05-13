@@ -49,21 +49,21 @@ Bahram ne peut pas nous échapper.
 
 Rouïn écouta ces paroles et partit à l’instant sans faire beaucoup de cas de cet adversaire.
 
-Quand le lion Bahram vit s’avancer contre lui une nouvelle troupe qui obscurcissait le soleil et la lune, il s’assit sur les flèches qu’il avait amassées et se couvrit la tête de son bouclier, à l’abri duquel il tira de l’arc;
+Quand le lion Bahram vit s’avancer contre lui une nouvelle troupe qui obscurcissait le soleil et la lune, il s’assit sur les flèches qu’il avait amassées et se couvrit la tête de son bouclier, à l’abri duquel il tira de l’arc ;
 
 Il lança sur ses ennemis une grêle de flèches qui interceptaient les rayons de la lune.
 
-Rouïn voyant cela, s’enfuit;
+Rouïn voyant cela, s’enfuit ;
 
-Ses braves semblaient avoir perdu l’usage de leurs membres;
+Ses braves semblaient avoir perdu l’usage de leurs membres ;
 
 Ils revinrent auprès du Pehlewan fatigués, soucieux et accablés de tristesse et lui dirent :
 
 > jamais homme n’a combattu comme Bahram et nous n’avons jamais trouvé dans aucune rivière un crocodile aussi vaillant que lui.
 
-Piran écouta leurs paroles et en fut affligé, il trembla comme une branche de tremble;
+Piran écouta leurs paroles et en fut affligé, il trembla comme une branche de tremble ;
 
-Il monta sur un cheval ardent et partit suivi de beaucoup de guerriers;
+Il monta sur un cheval ardent et partit suivi de beaucoup de guerriers ;
 
 Il s’approcha de Bahram et lui dit :
 
@@ -71,19 +71,19 @@ Il s’approcha de Bahram et lui dit :
 
 Pourquoi as-tu engagé un combat étant à pied?
 >
-> Tu n’accompagnais pas Siawusch dans le Touran;
+> Tu n’accompagnais pas Siawusch dans le Touran ;
 >
 > Et cependant tu as lutté contre les lions de ce pays.
 >
-> Mangeons ensemble du pain et du sel;
+> Mangeons ensemble du pain et du sel ;
 >
 > Asseyons-nous au banquet et contractons amitié.
 >
-> Il ne faut pas qu’on jette dans la poussière la tête d’un homme de si haute naissance, d’un lion et d’un brave comme toi;
+> Il ne faut pas qu’on jette dans la poussière la tête d’un homme de si haute naissance, d’un lion et d’un brave comme toi ;
 >
 > Il ne faut pas que ta famille et ton pays aient à te pleurer.
 >
-> Viens, pour que nous fassions avec serment un traité, tel que ton cœur l’approuvera, ensuite je conclurai avec toi une alliance;
+> Viens, pour que nous fassions avec serment un traité, tel que ton cœur l’approuvera, ensuite je conclurai avec toi une alliance ;
 >
 > Et quand tu seras entré dans ma famille, je ferai de toi un homme puissant.
 >
@@ -99,17 +99,17 @@ Je combats depuis trois jours et trois nuits sans que mes lèvres aient touché 
 
 Piran lui dit :
 
-> Ô glorieux héros!
+> Ô glorieux héros !
 >
 > Ne comprends-tu pas que c’est impossible?
 >
-> Ce que je t’ai proposé valait mieux pour toi;
+> Ce que je t’ai proposé valait mieux pour toi ;
 >
 > tu es un brave et tu ne t’obstineras pas follement.
 >
 > Crois-tu donc que les cavaliers de cette armée supporteront cette honte?
 >
-> Trop d’hommes d’illustre naissance, trop de princes et de guerriers ont été blessés par tes flèches dans ce combat inattendu;
+> Trop d’hommes d’illustre naissance, trop de princes et de guerriers ont été blessés par tes flèches dans ce combat inattendu ;
 >
 > Et qui de nous passera dorénavant la frontière de l’Iran sans que sa tête et son sang bouillonnent?
 >
@@ -121,15 +121,15 @@ Il rencontra près du camp Tejaou, qui s’avança vers lui, avide de vengeance 
 
 Il lui répondit :
 
-> Bahram n’a pas son égal parmi les braves;
+> Bahram n’a pas son égal parmi les braves ;
 >
-> Je lui ai donné par amitié beaucoup de bons conseils, je lui ai indiqué la route à suivre et offert un traité avantageux;
+> Je lui ai donné par amitié beaucoup de bons conseils, je lui ai indiqué la route à suivre et offert un traité avantageux ;
 >
 > Mais mes paroles n’ont fait aucune impression sur lui et il se propose de rentrer dans le camp iranien.
 
 Le vaillant Tejaou dit à Piran :
 
-> Ton âme est tendre, mais elle n’est pas forte;
+> Ton âme est tendre, mais elle n’est pas forte ;
 >
 > Je marche contre lui et quand même il me faudrait le combattre à pied, je l’aurai bientôt mis dans son tombeau.
 
@@ -137,19 +137,19 @@ Tejaou courut en toute hâte vers le champ de bataille, où il trouva le héros 
 
 Aussitôt qu’il l’aperçut une lance en main, il poussa un cri comme un éléphant furieux et lui dit :
 
-> Tu ne survivras pas au combat que va te livrer cette armée couverte de gloire;
+> Tu ne survivras pas au combat que va te livrer cette armée couverte de gloire ;
 >
-> Tu voudrais retourner dans l’Iran;
+> Tu voudrais retourner dans l’Iran ;
 >
-> Tu voudrais de nouveau porter haut la tête;
+> Tu voudrais de nouveau porter haut la tête ;
 >
 > Tu as tué nos chefs et il faut que tu restes ici, car ton heure va venir.
 
-Il ordonna alors à ses compagnons de l’attaquer, de le frapper à coups de flèches, de javelots et de massue;
+Il ordonna alors à ses compagnons de l’attaquer, de le frapper à coups de flèches, de javelots et de massue ;
 
-Une grande troupe, toute composée des chefs de l’armée, entoura Bahram;
+Une grande troupe, toute composée des chefs de l’armée, entoura Bahram ;
 
-Il banda son arc et lança tant de flèches qu’il en obscurcit le monde;
+Il banda son arc et lança tant de flèches qu’il en obscurcit le monde ;
 
 Quand ses traits furent épuisés, il saisit sa lance et la montagne et la plaine devinrent une mer de sang.
 
