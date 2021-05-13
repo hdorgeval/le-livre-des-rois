@@ -44,17 +44,16 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Voilà ce que tu m’as dit et je vais te donner ma réponse.
 >
-> Sache donc, ô mon sage et prudent ami, ô chef de mes armées, toi qui es propre à toute affaire, que ce n’est pas pour nous attaquer
-.qu’Afrasiab s’arrête sur les bords du Djihoun ; car là où il a amené son armée des frontières de la Chine, il se trouvera attaqué de deux côtés.
+> Sache donc, ô mon sage et prudent ami, ô chef de mes armées, toi qui es propre à toute affaire, que ce n’est pas pour nous attaquer qu’Afrasiab s’arrête sur les bords du Djihoun ; car là où il a amené son armée des frontières de la Chine, il se trouvera attaqué de deux côtés.
 >
 > En quatrième lieu, ces armées nombreuses, ces chefs qui enveloppent le Touron de toutes parts, le Sipehbed Rustem le crocodile bondissant, comme Lohrasp, comme Aschkesch ardent au combat, marchent de tous côtés contre Afrasiab.
 >
 > C’est pourquoi il a mené son armée sur le bord du Djihoun ; et s’il quittait sa position, il livrerait à ses ennemis tout son pays. y Enfin tu m’as demandé des nouvelles des héros pour lesquels ton cœur est plein de tendresse.
 >
 > Sache,
-ô Sipehdar et apprends ces nouvelles.
+> ô Sipehdar et apprends ces nouvelles.
 >
-> Puissestu être, dans tout ce que tu entreprends, le compagnon de la fortune !
+> Puisses-tu être, dans tout ce que tu entreprends, le compagnon de la fortune !
 >
 > Sur la route de l’lnde et du Kaschmir que Rustem au cœur de lion a suivie, la poussière de la destruction s’est élevée.
 >
