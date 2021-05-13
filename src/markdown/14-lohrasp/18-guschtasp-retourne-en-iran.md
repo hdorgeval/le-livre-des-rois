@@ -141,8 +141,8 @@ Guschtasp lui dit :
 > Si haut que tu m’élèves, je resterai toujours ton sujet et je m’efforcerai à marcher dans la poussière qui marque les traces de tes pieds.
 >
 > Puisse ton sort rester heureux ; puissions-nous ne jamais être privés de ton glorieux nom !
-
-L’empire du monde n’appartient longtemps à personne et tant qu’on le possède il accable de fatigue.
+>
+> L’empire du monde n’appartient longtemps à personne et tant qu’on le possède il accable de fatigue.
 
 Tel est le monde instable !
 
