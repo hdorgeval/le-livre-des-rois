@@ -118,7 +118,7 @@ Celui-ci resta confondu à son aspect ; il le fit asseoir sur le trône d’or e
 Ensuite, il dit à tous ceux qui étaient présents :
 
 > Faites attention, ô vous, jeunes et vieux !
-
-Vous tous obéirez à Farrukhzad, vous ne vous écarterez ni de ses ordres ni de son exemple.
+>
+> Vous tous obéirez à Farrukhzad, vous ne vous écarterez ni de ses ordres ni de son exemple.
 
 Le même avis fut donné dans tout l’empire à chaque roi et à chaque prince.
