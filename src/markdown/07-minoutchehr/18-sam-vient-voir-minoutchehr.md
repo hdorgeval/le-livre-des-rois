@@ -23,7 +23,7 @@ Il lui fit maintes questions sur les Kerguesars pleins de bravoure et sur les Di
 
 > Ô roi !
 >
-> Puissestu être à jamais heureux !
+> Puisses-tu être à jamais heureux !
 >
 > Puisse l’inimitié des méchants ne jamais atteindre ta vie !
 >
@@ -67,8 +67,7 @@ Il lui fit maintes questions sur les Kerguesars pleins de bravoure et sur les Di
 >
 > Tables, fas-cicul. l, lab. xxvr.
 >
-> 
-haut de mon cheval, de sorte que la terre leur paraissait tourner comme un moulin ; mon armée reprit courage et tous ne pensèrent plus qu’au combat.
+> haut de mon cheval, de sorte que la terre leur paraissait tourner comme un moulin ; mon armée reprit courage et tous ne pensèrent plus qu’au combat.
 >
 > Karkoui entendant ma voix et les coups de ma massue qui jouait avec les têtes, vint à moi pour me combattre, semblable à un éléphant furieux et armé d’un long lacet.
 >
@@ -78,8 +77,7 @@ haut de mon cheval, de sorte que la terre leur paraissait tourner comme un mouli
 >
 > Je lançais mon cheval semblable à un aigle courageux, je faisais pleuvoir sur Kakoui des flèches brûlantes comme du feu et je croyais avoir fortement cloué à son casque sa tête pareille à une enclume.
 >
-> Je vis à travers la poussière qu’il s’élan-
-çait comme un éléphant furieux, une épée indienne à la main.
+> Je vis à travers la poussière qu’il s’élançait comme un éléphant furieux, une épée indienne à la main.
 >
 > Il me vint en pensée, ô roi, que les rochers mêmes allaient lui demander grâce.
 >
@@ -104,11 +102,9 @@ Sam le vaillant chef se présenta devant le puissant roi Minoutchehr.
 
 Le héros sans pareil offrit ses hommages au roi et il allait lui parler de Mihrab et de Zal, lorsque le roi du monde le prévint et commença à en parler dans un sens bien différent, en disant :
 
-> Pars d’ici avec l’élite des grands, allume un feu dans l’Hindostan et brûle tous les palais de Mihrab, roi de Kabriul ; il ne faut pas qu’il t’él La salle d’audience des rois de Perse n’était fermée par de--
-vent que par un rideau.
+> Pars d’ici avec l’élite des grands, allume un feu dans l’Hindostan et brûle tous les palais de Mihrab, roi de Kabriul ; il ne faut pas qu’il t’él La salle d’audience des rois de Perse n’était fermée par devant que par un rideau.
 >
-> On peut voir encore aujourd’hui dans les ruines du palais des Khosroës à Ctésiphon, que la grande salle qui occupe le milieu de l’édifice n’était séparée de la cour par au-
-cune maçonnerie.
+> On peut voir encore aujourd’hui dans les ruines du palais des Khosroës à Ctésiphon, que la grande salle qui occupe le milieu de l’édifice n’était séparée de la cour par aucune maçonnerie.
 >
 > Le roi entrait par une porte pratiquée au fond de la salle et près du trône et l’ouverture du rideau annonçait que l’audience allait commencer. : .
 >
