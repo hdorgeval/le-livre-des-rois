@@ -16,14 +16,11 @@ Le cœur du roi Kaous se serra, car il fallait qu’il quittât le banquet pour 
 
 Il tint une grande assemblée d’Iraniens, il y réunit tous les amis des Keïanides et leur dit :
 
-> Estce que Dieu n’a pas formé Afrasiab d’air et de feu, de terre et d’eau ?
+> Est-ce que Dieu n’a pas formé Afrasiab d’air et de feu, de terre et d’eau ?
 >
-> Estce que le ciel l’aurait formé autrement que le reste des créatures, pour qu’il jure une alliance, qu’il se lie par des paroles de paix et qu’ensuite il fasse lever la poussière dans son ardeur pour la guerre, qu’il viole son serment et la foi donnée ?
+> Est-ce que le ciel l’aurait formé autrement que le reste des créatures, pour qu’il jure une alliance, qu’il se lie par des paroles de paix et qu’ensuite il fasse lever la poussière dans son ardeur pour la guerre, qu’il viole son serment et la foi donnée ?
 >
-> Il faut maintenant queje
->
-> 1
-parte pour me venger, que je rende obscur pour lui le jour brillant, que je fasse disparaître son nom de la surface de la terre ; sinon il préparera sans cesse et inopinément des armées, il attaquera le pays d’Iran et dévastera ses plaines et ses campagnes.»
+> Il faut maintenant que je parte pour me venger, que je rende obscur pour lui le jour brillant, que je fasse disparaître son nom de la surface de la terre ; sinon il préparera sans cesse et inopinément des armées, il attaquera le pays d’Iran et dévastera ses plaines et ses campagnes.»
 
 Un Mobed lui répondit :
 
@@ -81,10 +78,7 @@ Rustem répondit :
 
 > Je suis ton esclave, j’applau-dis à tout ce que tu m’as dit.
 >
-> Siawusch est. l’asile l H.
->
-> 
-de mon âme et le sommet de sa couronne est mon firmament.»
+> Siawusch est. l’asile de mon âme et le sommet de sa couronne est mon firmament.»
 
 Le roi ’écouta et le bénit en disant :
 
