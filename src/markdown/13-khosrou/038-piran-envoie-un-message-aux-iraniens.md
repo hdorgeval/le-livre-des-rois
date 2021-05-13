@@ -25,7 +25,7 @@ order: '038'
 
 Thous envoya de là auprès de Piran un messager rapide comme le vent et monté sur un dromadaire et lui fit dire :
 
-> J’ai redressé ma tête pour le combat;
+> J’ai redressé ma tête pour le combat ;
 >
 > Je suis arrivé en armes aux rives du Schahd.
 
@@ -43,20 +43,20 @@ Il rangea son armée sur la rive orientale du fleuve et fit saluer Thous, qui de
 
 Piran envoya auprès de lui un Turc aux paroles douces et lui fit dire :
 
-> Que de bien n’ai-je pas fait en toute occasion à Ferenguis et au prince!
+> Que de bien n’ai-je pas fait en toute occasion à Ferenguis et au prince !
 >
-> J’ai poussé des cris de douleur à la mort de Siawusch, j’en ai été consumé comme d’un feu ardent;
+> J’ai poussé des cris de douleur à la mort de Siawusch, j’en ai été consumé comme d’un feu ardent ;
 >
 > Mais l’arbre qui portait la thériaque ne porte plus que du poison et il ne m’en revient pour ma part que des peines.
 
-Cette démarche renouvela les douleurs de Thous et ses traits en montrèrent des traces;
+Cette démarche renouvela les douleurs de Thous et ses traits en montrèrent des traces ;
 
 Il dit au messager :
 
 > Retourne auprès du fortuné Piran et dis-lui :
 
 > >
-> > Si tu dis vrai, notre querelle est finie;
+> > Si tu dis vrai, notre querelle est finie ;
 > >
 > > Affranchis-toi du joug que tu portes, quitte ceux qui t’entourent, ferme la porte du combat et la voie du mal, viens sans armée auprès du roi de l’Iran, qui te récompensera par des bienfaits, qui te donnera un commandement dans l’Iran et un diadème royal.
 > >
@@ -68,9 +68,9 @@ Le messager écouta la réponse, partit comme le vent, arriva auprès de Piran f
 
 Piran répondit :
 
-> Je célébrerai jour et nuit les louanges du Sipehbed;
+> Je célébrerai jour et nuit les louanges du Sipehbed ;
 >
-> Je partirai et ferai passer dans l’Iran mes alliés, tous ceux qui auront assez de sens pour m’écouter, tous mes parents et tous mes biens;
+> Je partirai et ferai passer dans l’Iran mes alliés, tous ceux qui auront assez de sens pour m’écouter, tous mes parents et tous mes biens ;
 >
 > Car ma tête vaut mieux qu’un trône et une couronne.
 
