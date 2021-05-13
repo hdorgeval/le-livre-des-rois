@@ -36,7 +36,7 @@ Ensuite Afrasiab apprit que la frontière du Touran était couverte de flots d�
 
 Il dit à Piran, le chef de son armée :
 
-> Khosrou a dévoilé ses secrets et à moins que nous ne voulions nous soumettre, il faut que nous partions tous avec les étendards et les tambours;
+> Khosrou a dévoilé ses secrets et à moins que nous ne voulions nous soumettre, il faut que nous partions tous avec les étendards et les tambours ;
 >
 > Sinon l’armée de l’Iran arrivera et nous ne verrons plus briller ni le soleil ni la lune.
 >
@@ -48,7 +48,7 @@ Les tentes se couvrirent de glace et la neige étendit son tapis sur les montagn
 
 Tout le pays disparut sous la neige et pendant sept jours personne ne vit le sol de la plaine ; on manquait de nourriture, on ne dormait pas, on n’avait pas une place où se reposer : tu aurais dit que la surface de la terre était un rocher.
 
-Personne ne songeait plus au jour où il faudrait combattre;
+Personne ne songeait plus au jour où il faudrait combattre ;
 
 On tuait les chevaux de bataille pour les manger.
 
@@ -60,7 +60,7 @@ Thous convoqua les chefs de l’armée et leur parla longuement des chances qui 
 
 > Notre armée a trop souffert de la famine et il faudrait quitter ce camp.
 >
-> Maudit soit ce pays!
+> Maudit soit ce pays !
 >
 > Maudits soient Kelat, le mont Siped et le Kasehroud !
 
@@ -68,7 +68,7 @@ Bahram, le plus fier d’entre les héros, lui répondit :
 
 > Il ne faut pas que je cache la vérité au Sipehdar.
 >
-> Tu veux toujours nous réduire au silence par tes paroles;
+> Tu veux toujours nous réduire au silence par tes paroles ;
 >
 > Tu pousses la folie jusqu’à tuer le fils de Siawusch.
 >
@@ -88,7 +88,7 @@ Thous lui dit :
 >
 > C’était un jeune homme par sa stature, mais sa parole était celle d’un vieillard.
 >
-> Ne parlons pas du passé;
+> Ne parlons pas du passé ;
 >
 > Que Firoud ait été tué justement ou injustement, Guiv a accepté du roi un présent, à condition de brûler cette montagne de bois qui barre notre chemin.
 >
@@ -102,7 +102,7 @@ Bijen fut attristé de ces paroles et dit :
 
 > Je n’y consentirai pas.
 >
-> Tu m’as élevé pour les fatigues et les dangers et tu n’as jamais eu à m’adresser de reproches;
+> Tu m’as élevé pour les fatigues et les dangers et tu n’as jamais eu à m’adresser de reproches ;
 >
 > Or il n’est pas convenable que moi, qui suis jeune, je me repose pendant que tu te ceindras les reins dans ta vieillesse.
 
@@ -114,10 +114,10 @@ Guiv lui répondit :
 
 Guiv passa le Kasehroud avec peine, car tout était couvert de glaces et de neiges.
 
-Lorsqu’il eut atteint la montagne de bois, il ne put en mesurer ni la hauteur ni la largeur;
+Lorsqu’il eut atteint la montagne de bois, il ne put en mesurer ni la hauteur ni la largeur ;
 
 Il alluma du feu à l’aide de la pointe d’une flèche et le jeta dans cet amas de bois qu’il embrasa.
 
-Pendant trois semaines on ne put traverser ce brasier, à cause du vent, de la fumée et de l’ardeur des flammes;
+Pendant trois semaines on ne put traverser ce brasier, à cause du vent, de la fumée et de l’ardeur des flammes ;
 
 Mais la quatrième semaine l’armée commença à passer lorsque l’eau eut baissé et que le feu fut éteint.
