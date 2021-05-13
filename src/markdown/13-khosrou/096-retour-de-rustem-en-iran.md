@@ -20,7 +20,7 @@ Que le Div et les éléphants, que sur terre les léopards et dans la mer les cr
 
 Mais que ni les lions, ni le Div, ni les hommes cherchant les combats n’avaient pu passer impunément devant son épée.
 
-Le roi se prépara à aller à sa rencontre  ; les grands placèrent sur leurs têtes des diadèmes ; on fit avancer le drapeau impérial et les éléphants indomptables parés de leurs clochettes  ;
+Le roi se prépara à aller à sa rencontre ; les grands placèrent sur leurs têtes des diadèmes ; on fit avancer le drapeau impérial et les éléphants indomptables parés de leurs clochettes ;
 
 Toute l’armée alla au-devant de lui et le roi, maître du monde, fut parfaitement heureux.
 
@@ -44,9 +44,9 @@ Khosrou le combla de bénédictions et d’amitiés, disant :
 
 Les chefs de l’armée mirent pied à terre devant Rustem ;
 
-Le roi des rois se raffermit dans la selle et ordonna au chef des grands, au prince qui distribuait les couronnes, de remonter sur Raksch  ; et c’est ainsi qu’ils se rendirent dans le palais du roi, le cœur en joie et pleins de bienveillance l’un pour l’autre.
+Le roi des rois se raffermit dans la selle et ordonna au chef des grands, au prince qui distribuait les couronnes, de remonter sur Raksch ; et c’est ainsi qu’ils se rendirent dans le palais du roi, le cœur en joie et pleins de bienveillance l’un pour l’autre.
 
-Rustem distribua aux Iraniens les troupeaux de chevaux, ne voulant pour lui-même d’autre monture que Raksch  ; il envoya les éléphants dans l’écurie des éléphants du roi maître de la couronne et du trône.
+Rustem distribua aux Iraniens les troupeaux de chevaux, ne voulant pour lui-même d’autre monture que Raksch ; il envoya les éléphants dans l’écurie des éléphants du roi maître de la couronne et du trône.
 
 Pendant une semaine il y eut fête dans le palais ;
 
@@ -84,7 +84,7 @@ Dans la troisième semaine Rustem se décida à s’en retourner gaiement chez l
 
 Il dit :
 
-> J’ai envie de voir Zal fils de Sam  ; et il ne me siérait pas de cacher ce désir.
+> J’ai envie de voir Zal fils de Sam ; et il ne me siérait pas de cacher ce désir.
 >
 > Je partirai sans délai et m’en retournerai à la cour de Zal, où j’ai à faire des préparatifs de guerre ;
 >
