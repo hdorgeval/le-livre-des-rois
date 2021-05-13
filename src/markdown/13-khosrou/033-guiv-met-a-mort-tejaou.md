@@ -60,7 +60,7 @@ Mais Guiv lui donna avec son fouet deux cents coups sur la tête et lui dit :
 
 > Ce n’est pas le moment de parler !
 >
-> Ne sais-tu donc pas, homme vil et misérable, que tu viens de planter un arbre dans le jardin de la vengeance, un arbre qui touchera le firmament et dont le tronc sera rempli de sang, dont le fruit sera un poignard?
+> Ne sais-tu donc pas, homme vil et misérable, que tu viens de planter un arbre dans le jardin de la vengeance, un arbre qui touchera le firmament et dont le tronc sera rempli de sang, dont le fruit sera un poignard ?
 >
 > Il t’a fallu pour victime un homme comme Bahram, mais tu verras maintenant la gueule étroite du crocodile.
 
@@ -82,7 +82,7 @@ Guiv continua à le traîner après lui et arrivé auprès de Bahram le lion au 
 
 Tejaou les implora ; il leur demanda grâce de la vie en disant :
 
-> Quand même j’aurais fait ce dont tu m’accuses, à quoi servirait-il de me trancher la tête avec l’épée?
+> Quand même j’aurais fait ce dont tu m’accuses, à quoi servirait-il de me trancher la tête avec l’épée ?
 >
 > Je serai ton esclave, je serai le serviteur de ta famille.
 
