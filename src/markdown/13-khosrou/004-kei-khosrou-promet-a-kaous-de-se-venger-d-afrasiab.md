@@ -45,9 +45,9 @@ Kaous dit à Keï Khosrou :
 >
 > Maintenant j’exige de toi un serment solennel et qu’il faut que tu tiennes scrupuleusement.
 >
-> Jure-moi que tu rempliras ton cœur de haine contre Afrasiab et que tu ne laisseras pas éteindre le souffle de cette flamme par l’eau de l’oubli, que tu ne le regarderas pas comme le père de ta mère, que tu ne te laisseras pas fléchir par lui et que tu n’écouteras rien en sa faveur ; que les trésors et l’ambition ne te séduiront pas, quelle que soit ta fortune, bonne on mauvaise ; que ni la massue ni l’épée, ni le trône, ni le diadème, ni ses paroles ne te détourneront.
+> Jure-moi que tu rempliras ton cœur de haine contre Afrasiab et que tu ne laisseras pas éteindre le souffle de cette flamme par l’eau de l’oubli, que tu ne le regarderas pas comme le père de ta mère, que tu ne te laisseras pas fléchir par lui et que tu n’écouteras rien en sa faveur ; que les trésors et l’ambition ne te séduiront pas, quelle que soit ta fortune, bonne ou mauvaise ; que ni la massue ni l’épée, ni le trône, ni le diadème, ni ses paroles ne te détourneront.
 >
-> Je vais te dire par quoi tu dois jurer, car qu’y a-t-il de meilleur qu’un conseil pour l’esprit et pour l’âme?
+> Je vais te dire par quoi tu dois jurer, car qu’y a-t-il de meilleur qu’un conseil pour l’esprit et pour l’âme ?
 >
 > Tu jureras par le maître du soleil et de la lune, par la couronne, le trône, le sceau et le diadème, par le souvenir de Feridoun, par la majesté et les devoirs de la royauté, par le sang de Siawusch et par ton âme, ô roi !
 >
@@ -104,9 +104,9 @@ Après avoir touché plusieurs fois la terre avec son front et célébré les lo
 >
 > C’est Afrasiab sur qui tombera tout le sang qui sera versé et qui en sera responsable ; et si quelqu’un des nôtres succombe, il ira demeurer dans le paradis sublime.
 >
-> Que dites-vous?
+> Que dites-vous ?
 >
-> Que me répondez-vous?
+> Que me répondez-vous ?
 >
 > Donnez-moi vos conseils qui portent bonheur.
 >
