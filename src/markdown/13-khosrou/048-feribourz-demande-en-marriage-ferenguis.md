@@ -33,13 +33,13 @@ order: '048'
 
 Feribourz lui répondit :
 
-> Ô héros distributeur des couronnes, maître de la cotte de mailles, de la massue et de Raksch!
+> Ô héros distributeur des couronnes, maître de la cotte de mailles, de la massue et de Raksch !
 >
 > Je nourris au fond de mon âme un désir dont je n’ose parler qu’à toi, ô Pehlewan du monde.
 >
 > Que Dieu répande sur toi ses bénédictions, car tu es le soutien et l’asile de l’armée et c’est grâce à ta massue que les braves portent haut leurs casques.
 >
-> Sache, ô toi qui es digne du pays de l’Iran et du trône, du diadème et du sceau, que je suis frère du noble Siawusch;
+> Sache, ô toi qui es digne du pays de l’Iran et du trône, du diadème et du sceau, que je suis frère du noble Siawusch ;
 >
 > Que je suis de sa race et de sa famille et que j’aime la femme qui lui a survécu, ô héros qui portes haut la tête.
 >
@@ -51,7 +51,7 @@ Rustem lui dit :
 
 Le héros au corps d’éléphant se rendit auprès du roi et lui dit :
 
-> Ô glorieux Khosrou, j’ai à demander une grâce au roi;
+> Ô glorieux Khosrou, j’ai à demander une grâce au roi ;
 >
 > Et s’il me l’accorde, ma tête s’élèvera au-dessus du cercle de la lune.
 >
@@ -61,7 +61,7 @@ Le héros au corps d’éléphant se rendit auprès du roi et lui dit :
 
 Khosrou lui répondit :
 
-> Ô Pehlewan, puisses-tu vivre éternellement et être heureux!
+> Ô Pehlewan, puisses-tu vivre éternellement et être heureux !
 >
 > Demande-moi tout ce que tu voudras, fûtce mon trône, mon sceau, ma couronne et mon diadème.
 
@@ -69,11 +69,11 @@ Rustem lui dit alors :
 
 > Le monde est heureux par la grâce du roi et il en est reconnaissant.
 >
-> Tu étends sur tous ta justice et ton amour;
+> Tu étends sur tous ta justice et ton amour ;
 >
 > Et semblable au ciel, ton visage brille pour tous.
 >
-> Parmi les nobles et les princes il n’y en a aucun qui soit comparable à Feribourz fils de Kaous;
+> Parmi les nobles et les princes il n’y en a aucun qui soit comparable à Feribourz fils de Kaous ;
 >
 > Je ne connais pas son pareil en bravoure et en sagesse.
 >
@@ -81,31 +81,31 @@ Rustem lui dit alors :
 >
 > Voilà ce qu’il a voulu que je disse au roi, car c’est en cela qu’il a mis l’espoir de son bonheur
 
-Le roi écouta les paroles du sage et puissant Rustem avide de gloire;
+Le roi écouta les paroles du sage et puissant Rustem avide de gloire ;
 
 Il y réfléchit et répondit :
 
-> Ô illustre Pehlewan, quiconque néglige tes avis est foulé aux pieds de la fortune et tes paroles ne peuvent que porter bonheur;
+> Ô illustre Pehlewan, quiconque néglige tes avis est foulé aux pieds de la fortune et tes paroles ne peuvent que porter bonheur ;
 >
-> Puisses-tu vivre glorieusement et à jamais!
+> Puisses-tu vivre glorieusement et à jamais !
 >
-> Tu sais que je n’ai aucun pouvoir sur elle et qu’elle ne voudra pas consentir à ce que tu demandes;
+> Tu sais que je n’ai aucun pouvoir sur elle et qu’elle ne voudra pas consentir à ce que tu demandes ;
 >
 > Mais si elle veut m’écouter, je lui donnerai des conseils que peut-être sa raison lui fera accepter.
 
 Le roi plein de bienveillance et Tehemten se rendirent auprès de cette lune et Khosrou dit à sa mère :
 
-> Ô toi qui est restée dans le monde comme un souvenir de mon père, tu es mon asile dans la bonne et la mauvaise fortune;
+> Ô toi qui est restée dans le monde comme un souvenir de mon père, tu es mon asile dans la bonne et la mauvaise fortune ;
 >
 > Tu es ma reine et je ne suis que ton ministre.
 >
-> Le sort de mon armée, ses luttes et ses combats ne te sont pas cachés;
+> Le sort de mon armée, ses luttes et ses combats ne te sont pas cachés ;
 >
 > Tu sais combien de héros iraniens ont livré dans le Touran leurs têtes à la vengeance.
 >
 > Maintenant je veux y envoyer une nouvelle armée, dont Rustem fils de Zal sera le chef.
 >
-> Feribourz commandera l’avant-garde et Rustem sera le Pehlewan qui nous vengera;
+> Feribourz commandera l’avant-garde et Rustem sera le Pehlewan qui nous vengera ;
 >
 > Mais le fils de Zal désire que tu deviennes la compagne du vaillant Feribourz.
 >
@@ -113,13 +113,13 @@ Le roi plein de bienveillance et Tehemten se rendirent auprès de cette lune et 
 >
 > Puissent le pouvoir et le bonheur t’accompagner !
 
-La mère de Khosrou écouta ses paroles, qui firent revivre en elle le souvenir des temps anciens;
+La mère de Khosrou écouta ses paroles, qui firent revivre en elle le souvenir des temps anciens ;
 
 Au fond de son âme elle était remplie d’angoisses et de colère et à la fin elle dit en versant des larmes :
 
-> Je n’ai aucun ressentiment contre Rustem;
+> Je n’ai aucun ressentiment contre Rustem ;
 >
-> Et si j’en avais, je n’aurais pas le pouvoir de le lui faire sentir;
+> Et si j’en avais, je n’aurais pas le pouvoir de le lui faire sentir ;
 >
 > Car quand il veut quelque chose, il n’y a certainement que le ciel qui puisse lui résister.
 
@@ -133,15 +133,15 @@ Après l’avoir comblée de louanges, il continua :
 >
 > Puissent tes ennemis périr !
 >
-> Veuille écouter mes conseils et mes derniers avis!
+> Veuille écouter mes conseils et mes derniers avis !
 >
-> Tu sais que jamais une femme n’est insensible à l’amour qu’elle inspire;
+> Tu sais que jamais une femme n’est insensible à l’amour qu’elle inspire ;
 >
 > Et quelle est la jeune femme qui reçoit froidement un jeune époux, surtout quand c’est un Keïanide?
 >
 > Les hommes sont faits pour les femmes et c’est à eux de les demander en mariage.
 >
-> Feribourz est le maître de la moitié de l’Iran, ce qui est désert comme ce qui est habité lui appartient;
+> Feribourz est le maître de la moitié de l’Iran, ce qui est désert comme ce qui est habité lui appartient ;
 >
 > Et les conseils, les avis et la volonté du roi te le feront agréer pour époux, ô lune.
 >
@@ -153,13 +153,13 @@ Après l’avoir comblée de louanges, il continua :
 >
 > Tu ferais bien d’écouter mes paroles et de suivre mes avis et les ordres du roi.
 
-La reine des reines resta longtemps embarrassée et sans répondre;
+La reine des reines resta longtemps embarrassée et sans répondre ;
 
 Elle ne cessait de pousser des soupirs et elle demeura muette de pudeur devant son fils.
 
 À la fin elle dit :
 
-> Ô Rustem, tu portes haut la tête;
+> Ô Rustem, tu portes haut la tête ;
 >
 > Tu es le plus puissant des hommes.
 >
@@ -175,11 +175,11 @@ Le noble Siawusch que les meurtriers ont tué si cruellement dans le Touran !
 >
 > Ce que le roi glorieux ordonne, il faut s’y soumettre.
 
-C’est ainsi que la mère du roi consentit;
+C’est ainsi que la mère du roi consentit ;
 
 Et ses joues brillèrent comme une rose au printemps naissant.
 
-Rustem se hâta de conclure cette affaire et ne la laissa pas traîner en longueur;
+Rustem se hâta de conclure cette affaire et ne la laissa pas traîner en longueur ;
 
 On appela un Mobed, on lui fit écrire un acte selon les formes et le Pehlewan de l’armée ne se reposa pas avant d’avoir uni au prince cette lune.
 
