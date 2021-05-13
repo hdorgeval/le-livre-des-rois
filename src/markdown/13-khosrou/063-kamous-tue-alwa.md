@@ -61,7 +61,7 @@ Le premier qui s’avança entre les deux armées, vomissant par la bouche une �
 
 Il poussait des cris comme un éléphant ivre, il brandissait une massue à tête de bœuf, en disant :
 
-> Où est ce vaillant fantassin qui défie ceux qui ne demandent qu’à combattre?
+> Où est ce vaillant fantassin qui défie ceux qui ne demandent qu’à combattre ?
 >
 > S’il veut venir maintenant avec son arc et ses flèches, il périra par la flèche et l’arc.
 
