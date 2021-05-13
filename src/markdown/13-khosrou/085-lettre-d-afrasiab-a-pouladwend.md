@@ -118,7 +118,7 @@ Schideh le salua, lui remit la lettre et lui rendit compte des entreprises de Ru
 >
 > Il porte son lacet roulé autour du bras ; son corps est revêtu d’une peau de lion ; il n’est jamais las de combattre et il emportera dans l’Iran jusqu’au sol du Touran.
 >
-> Que pouvons-nous dire à ce héros impur?
+> Que pouvons-nous dire à ce héros impur ?
 >
 > Il a détruit toute notre prospérité et par lui s’évanouira toute la splendeur du Touran.
 
