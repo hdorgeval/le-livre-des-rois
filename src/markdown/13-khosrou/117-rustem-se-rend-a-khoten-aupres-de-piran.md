@@ -43,7 +43,7 @@ Piran, par la grâce du Maître du monde, ne reconnut pas Rustem et il lui deman
 
 > D’où vienstu ?
 >
-> Dis-le moi ; qui estu ?
+> Dis-le moi ; qui es-tu ?
 >
 > Et pourquoi arrives-tu ici en si grande hâte il»
 
