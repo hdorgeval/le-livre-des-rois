@@ -28,7 +28,7 @@ Ensuite Khosrou fit apporter un habillement complet, comprenant une tunique et u
 
 Toutes ces richesses étant réunies et placées devant le roi maître du monde, il les donna toutes à Rustem au cœur de lion, qui baisa la terre et se relevant, posa sur sa tête ce diadème de Keïauide et se ceignit de a cette ceinture impériale.
 
-Ensuite il sortit en bénissant le roi et fit en toute hâte les préparatifs de son départ pour le Seistan.
+Ensuite, il sortit en bénissant le roi et fit en toute hâte les préparatifs de son départ pour le Seistan.
 
 Il distribua aux grands qui avaient partagé ses combats et ses fatigues, ses joies et ses soucis, des présents à chacun selon son rang et ils sortirent gaiement du palais de Khosrou.
 
