@@ -50,7 +50,7 @@ Tu as entendu comment Rustem a dit :
 >
 > N’as-tu pas entendu les paroles de Sohrab ?
 >
-> N’estu pas un grand qui connaît le monde ?
+> N’es-tu pas un grand qui connaît le monde ?
 >
 > Il a dit qu’il couperait la tête à mille Iraniens et qu’il pendrait Kaous vivant au gibet.
 >
