@@ -78,7 +78,7 @@ Il se rendit auprès du Khakan les yeux remplis de larmes, l’âme et le cœur 
 >
 > Quand même Afrasiab se présenterait ici dans toute sa gloire, on ne verrait pas même en songe Rustem tourner le dos ;
 >
-> Le Div craindrait de le combattre ; et qu’est devant lui un homme, ou une armée couvrant toute une plaine?
+> Le Div craindrait de le combattre ; et qu’est devant lui un homme, ou une armée couvrant toute une plaine ?
 >
 > Il a longtemps habité le Zaboulistan dans la grandeur et la magnificence ;
 >
@@ -94,7 +94,7 @@ Le Khakan lui dit :
 
 > Va auprès de lui et parle-lui convenablement et avec douceur.
 >
-> S’il ne désire que la paix et des richesses, pourquoi ces armées se fatigueraient-elles sur cette plaine?
+> S’il ne désire que la paix et des richesses, pourquoi ces armées se fatigueraient-elles sur cette plaine ?
 >
 > Fais-lui beaucoup de présents et puis reviens ici, peut-être pourrons-nous éviter une si grande lutte.
 >
@@ -106,7 +106,7 @@ Le Khakan lui dit :
 >
 > Il ne combat pas dans les airs.
 >
-> Pourquoi donc ton cœur est-il dévoré de soucis et de sollicitude?
+> Pourquoi donc ton cœur est-il dévoré de soucis et de sollicitude ?
 >
 > Quand il se nourrirait de pierres et de fer, les flèches et les javelots le perceront ;
 >
