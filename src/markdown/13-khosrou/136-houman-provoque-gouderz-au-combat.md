@@ -12,19 +12,21 @@ order: '136'
 
 Ensuite Houman partit si impétueusement, qu’on aurait cru que c’était un Div malfaisant.
 
-Il s’approcha, armé pour le combat des héros, de Gouderz fils de Keschwad et s’écria à haute voix : Ô homme plein d’énergie ! ô chef de l’armée, vainqueur des Divs !
+Il s’approcha, armé pour le combat des héros, de Gouderz fils de Keschwad et s’écria à haute voix :
 
-J’ai entendu raconter tout ce que tu as dit à Khosrou et de quelle manière tu as fait partir ton armée et les recommandations du roi et les paroles et les offres que tu as fait porter au Sipehdar Piran ; comment tu as envoyé dans le camp touranien, en qualité de messager, Guiv ton fils chéri, le soutien de l’armée ; ensuite comment tu as juré par le roi, par le soleil et la lune, par le trône et le diadème, d’anéantir Piran aussitôt que ton œil le découvrirait sur le champ de bataille.
-
-Tu t’es mis à la tête de ton armée comme un lion furieux, tu as appelé la bataille de tous tes vœux ; et maintenant tu t’abrites derrière la montagne tout effaré, comme un argali timide.
-
-Tu ressembles à une bête fauve qui s’enfuit devant un lion et que le lion poursuit courageusement ; elle choisit dans la forêt un coin étroit et a trop peur de la mort pour rechercher la gloire et le renom.
-
-Conduis donc une fois ton armée dans la plaine ; pourquoi la tiens-tu derrière les montagnes ?
-
-Tu te sers de la montagne comme d’un rempart quand il est temps de combattre.
-
-Estce là ce que tu as promis à Khosrou?»
+> Ô homme plein d’énergie ! ô chef de l’armée, vainqueur des Divs !
+>
+> J’ai entendu raconter tout ce que tu as dit à Khosrou et de quelle manière tu as fait partir ton armée et les recommandations du roi et les paroles et les offres que tu as fait porter au Sipehdar Piran ; comment tu as envoyé dans le camp touranien, en qualité de messager, Guiv ton fils chéri, le soutien de l’armée ; ensuite comment tu as juré par le roi, par le soleil et la lune, par le trône et le diadème, d’anéantir Piran aussitôt que ton œil le découvrirait sur le champ de bataille.
+>
+> Tu t’es mis à la tête de ton armée comme un lion furieux, tu as appelé la bataille de tous tes vœux ; et maintenant tu t’abrites derrière la montagne tout effaré, comme un argali timide.
+>
+> Tu ressembles à une bête fauve qui s’enfuit devant un lion et que le lion poursuit courageusement ; elle choisit dans la forêt un coin étroit et a trop peur de la mort pour rechercher la gloire et le renom.
+>
+> Conduis donc une fois ton armée dans la plaine ; pourquoi la tiens-tu derrière les montagnes ?
+>
+> Tu te sers de la montagne comme d’un rempart quand il est temps de combattre.
+>
+> Estce là ce que tu as promis à Khosrou?»
 
 Gouderz lui dit :
 
