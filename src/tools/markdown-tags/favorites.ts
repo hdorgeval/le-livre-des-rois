@@ -10,6 +10,7 @@ export const favorites = [
   'parsi',
   'pehlevi',
   'pehlewi',
+  'quatorze',
   'résurrection',
   'roumi',
   'soghdi',
