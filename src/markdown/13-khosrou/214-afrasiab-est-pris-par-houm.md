@@ -46,7 +46,7 @@ Cette pensée se fortifia en lui ; il chercha pendant quelque temps l’entrée 
 
 Quand il fut près d’Afrasiab, celui-ci sauta sur lui, les deux hommes luttèrent longtemps ; mais à la fin Houm amena le roi sous lui, le terrassa et lui lia les bras pendant qu’ilrétait à terre.
 
-Ensuite il partit, traînant Afrasiab, et, malgré sa résistance, courant comme un insensé.
+Ensuite, il partit, traînant Afrasiab, et, malgré sa résistance, courant comme un insensé.
 
 Il est naturel qu’on s’étonne de cette aventure.
 
