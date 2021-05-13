@@ -12,7 +12,7 @@ order: '180'
 
 Khosrou écouta les paroles de Karen, il se rappela ce qui s’était passé autrefois et se mit à rire de la tentative de son grand-père et de la manière dont il cherchait à ruser et ale duper.
 
-Ensuite il dit :
+Ensuite, il dit :
 
 > Almsiab se repent d’avoir passé le fleuve.
 >
@@ -124,9 +124,11 @@ Karen quitta le roi en toute hâte et se rendit au-près de Pcscheng au drapeau 
 
 Schideh s’en retourna auprès d’Afrasiab ; son cœur cuisait comme la chair placée sur le l’en.
 
-Le roi des Turcs fut consterné de cette réponse, et, dans sa douleur, il poussa un grand soupir, car anciennement il avait fait un rêve dont il n’avait jamais parlé à personne ; sa tête tourna, son cœur trembla, il sentit approcher sa chute et s’écria : Demain tant de morts couvriront le champ de bataille que les fourmis ne pourront plus le traverser.»
+Le roi des Turcs fut consterné de cette réponse, et, dans sa douleur, il poussa un grand soupir, car anciennement il avait fait un rêve dont il n’avait jamais parlé à personne ; sa tête tourna, son cœur trembla, il sentit approcher sa chute et s’écria :
 
-Ensuite il dit à Schideh :
+> Demain tant de morts couvriront le champ de bataille que les fourmis ne pourront plus le traverser.»
+
+Ensuite, il dit à Schideh :
 
 > A partir de demain laisse passer deux jours sans parler de combat.
 
