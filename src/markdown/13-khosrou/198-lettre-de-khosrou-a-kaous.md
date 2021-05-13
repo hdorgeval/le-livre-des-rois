@@ -14,7 +14,7 @@ Khosrou appela celui qui écrivait ses lettres, lui dit tout ce qui était néce
 
 Il commen’ça par les louanges de Dieu, qui a délivré la terre de ses maux, réveillé l’astre endormi de l’empire d’une manière si éclatante et abaissé les têtes des magiciens ; de qui vient tout pouvoir, toute sagesse, toute justice, qui réjouit le cœur de ceux qui ont été opprimés dans le monde.
 
-Ensuite il continua : Par l’étoile de Keï Kaous le puissant, l’expérimenté, le roi aux traces heureuses, ce Gangue, la ville d’Afrasiab, a été prise et la fortune de ce Turc s’est endormie.
+Ensuite, il continua : Par l’étoile de Keï Kaous le puissant, l’expérimenté, le roi aux traces heureuses, ce Gangue, la ville d’Afrasiab, a été prise et la fortune de ce Turc s’est endormie.
 
 Sur un seul champ de bataille et dans un seul combat, quarante mille de ses vaillants chefs, portant haut la tête, armés de lourdes massues, ont été tués sur les bords du Gulzarrioun.
 
