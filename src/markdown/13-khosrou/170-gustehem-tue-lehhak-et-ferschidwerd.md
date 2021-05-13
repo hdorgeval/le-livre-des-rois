@@ -68,7 +68,7 @@ Il arriva à la fin sur le bord d’un ruisseau où il vit de l’eau courante, 
 
 Il but longtemps et rendit grâces à Dieu ; on.aurait dit qu’il était cloué à la terre.
 
-Ensuite il se mit à se tordre et à se rouler sur la terre noire ; tout son corps était déchiré de coups d’épées.
+Ensuite, il se mit à se tordre et à se rouler sur la terre noire ; tout son corps était déchiré de coups d’épées.
 
 Il dit :
 
