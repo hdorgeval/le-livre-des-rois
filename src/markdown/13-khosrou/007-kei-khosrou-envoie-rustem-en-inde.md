@@ -39,9 +39,9 @@ Autrefois le Zaboulistan comprenait une province qui avait fait partie des domai
 >
 > Depuis que Kaous est devenu vieux et faible et qu’il a perdu sa valeur, sa dignité et sa gloire, on y paye le tribut et les redevances au roi du Touran et personne n’y jette plus un regard vers l’Iran.
 >
-> C’est un pays riche et qui abonde en éléphants;
+> C’est un pays riche et qui abonde en éléphants ;
 >
-> Ses habitants sont malheureux sans l’avoir mérité, car on ne cesse de les piller, de les tuer et de les envahir, de sorte qu’ils sont prêts à se révolter contre l’autorité du roi du Touran;
+> Ses habitants sont malheureux sans l’avoir mérité, car on ne cesse de les piller, de les tuer et de les envahir, de sorte qu’ils sont prêts à se révolter contre l’autorité du roi du Touran ;
 >
 > Or le royaume d’Iran est à toi, tout t’appartient, depuis le pied de la fourmi jusqu’à la griffe du lion et il te faudrait envoyer dans ce pays une puissante armée sous un vaillant Pehlewan, pour que les habitants payent au roi le tribut qui lui est dû, ou qu’ils apportent leurs têtes devant son trône.
 >
@@ -49,7 +49,7 @@ Autrefois le Zaboulistan comprenait une province qui avait fait partie des domai
 
 Le roi lui répondit :
 
-> Puisses-tu vivre à jamais!
+> Puisses-tu vivre à jamais !
 >
 > Ton conseil est bon ; compte combien il faut de troupes et choisis-les parmi cette armée glorieuse.
 >
