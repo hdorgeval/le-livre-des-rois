@@ -94,9 +94,9 @@ Djerireh lui dit :
 
 Firoud répondit à sa mère :
 
-> À qui parmi eux faut-il que je m’adresse?
+> À qui parmi eux faut-il que je m’adresse ?
 >
-> Qui d’entre ces héros qui portent haut la tête doit être mon soutien au jour de la bataille?
+> Qui d’entre ces héros qui portent haut la tête doit être mon soutien au jour de la bataille ?
 >
 > Je n’en connais aucun, pas même de nom, comment pourrais-je leur envoyer mes salutations et mes messages ?
 
