@@ -52,13 +52,13 @@ Il se reposa dans ces villes et demanda des vivres pour son armée ; il confia c
 >
 > Ne sois pas sévère, même envers les coupables, car ce pays et toute chose n’ont aucun prix à mes yeux ; je n’attache plus aucune valeur à Ml personne ; je ne veux plus que me tenir en prière devant Dieu.»
 
-Ensuite il choisit dans l’armée un guerrier illustre, qui comprenait toutes les langues et envoya par lui un message à tous les princes, disant :
+Ensuite, il choisit dans l’armée un guerrier illustre, qui comprenait toutes les langues et envoya par lui un message à tous les princes, disant :
 
 > Quiconque veut le repos et l’accomplissement de ses désirs, qu’il vienne avec confiance à ma cour, qu’il ait le cœur joyeux, la main ouverte, les intentions amicales ; mais quiconque désobéit à cet ordre portera la peine de sa mauvaise disposition.»
 
 Pas un seul de ces princes ne désobéit ; ils arrivèrent à la cour comme des sujets et le roi les reçut avec bienveillance lorsqu’ils parurent et éleva leurs têtes jusqu’au soleil.
 
-Ensuite il demanda des nouvelles de Gangue Diz et d’Afrasiab et du trône du pouvoir et parmi la foule des princes, l’un d’eux prit la parole et lui dit à Tu ne rencontreras ni des rivières ni des montagnes, et, en comptant tout, les bons et les mauvais chemins, ’il n’y a jusqu’à Gangue que cent farsangs.
+Ensuite, il demanda des nouvelles de Gangue Diz et d’Afrasiab et du trône du pouvoir et parmi la foule des princes, l’un d’eux prit la parole et lui dit à Tu ne rencontreras ni des rivières ni des montagnes, et, en comptant tout, les bons et les mauvais chemins, ’il n’y a jusqu’à Gangue que cent farsangs.
 
 Du côté où le roi de Touran est allé, il ne se trouve plus beaucoup’
 d’hommes injustes, mais lui-même est à Gangue avec ceux qu’il a amenés, depuis qu’il a passé la mer de Zereh. »
