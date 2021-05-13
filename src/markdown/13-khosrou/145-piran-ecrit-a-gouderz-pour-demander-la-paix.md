@@ -12,7 +12,7 @@ order: '145'
 
 Pirau apprit ce que faisait le chef des Iraniens ; cette nouvelle remplit son cœur d’inquiétude ; il s’appliqua à chercher un moyen de salut dans les ruses. et la fourberie. et demanda à un Destour plein de sagesse des conseils touchant cette guerre.
 
-Ensuite il ordonna, pour dernière ressource, à un secrétaire d’écrire une lettre. qu’il adressait au Pehlewan.
+Ensuite, il ordonna, pour dernière ressource, à un secrétaire d’écrire une lettre. qu’il adressait au Pehlewan.
 
 Il commença la lettre par des louanges du Tout-Puissant, de Dieu qui était son asile contre les embûches du méchant Div, puis il continua ainsi : iule demande en public et en secret au Créateur du monde qu’il n’y ait plus de champ de bataille entre nos deux armées.
 
