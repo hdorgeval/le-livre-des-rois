@@ -33,7 +33,7 @@ Le Pehlewan s’élança l’âme agitée de soucis, le cœur gonflé de pitié 
 
 Il courut comme un tourbillon de poussière et navré de douleur, il devança son fils et lui dit :
 
-> Pourquoi nous affligestu ?
+> Pourquoi nous affliges-tu ?
 >
 > Tu t’emportes au moment où il faudrait du calme.
 >
