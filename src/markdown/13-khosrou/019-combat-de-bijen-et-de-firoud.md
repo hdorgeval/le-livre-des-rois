@@ -27,15 +27,15 @@ order: '019'
 
 Le jeune roi dit à Tokhareh :
 
-> Il vient encore un illustre cavalier;
+> Il vient encore un illustre cavalier ;
 >
-> Regarde-le et dis-moi son nom;
+> Regarde-le et dis-moi son nom ;
 >
 > Dis-moi qui aura à pleurer sur la mort de ce brave.
 
 L’éloquent Tokhareh répondit au prince :
 
-> C’est un homme qui n’a pas son pareil dans l’Iran;
+> C’est un homme qui n’a pas son pareil dans l’Iran ;
 >
 > C’est le fils de Guiv, c’est un brave, victorieux dans les combats comme un lion.
 >
@@ -47,7 +47,7 @@ L’éloquent Tokhareh répondit au prince :
 >
 > Regarde, il tient dans sa main une épée étincelante comme un diamant.
 
-Le vaillant Firoud lança une flèche contre le cheval, qui tomba comme s’il n’avait jamais eu de vie;
+Le vaillant Firoud lança une flèche contre le cheval, qui tomba comme s’il n’avait jamais eu de vie ;
 
 Bijen se dégagea et se dirigea vers Firoud l’épée à la main et en s’écriant :
 
@@ -55,9 +55,9 @@ Bijen se dégagea et se dirigea vers Firoud l’épée à la main et en s’écr
 >
 > Tu vas le voir, si tu veux m’attendre et tu n’auras plus jamais envie de combattre.
 
-Quand Firoud vit que Bijen ne s’enfuyait pas, il se mit en colère contre lui et décocha une nouvelle flèche;
+Quand Firoud vit que Bijen ne s’enfuyait pas, il se mit en colère contre lui et décocha une nouvelle flèche ;
 
-Le héros se couvrit la tête de son bouclier que la flèche perça, mais sans toucher la cotte de mailles et Bijen continua rapidement sa course pénible;
+Le héros se couvrit la tête de son bouclier que la flèche perça, mais sans toucher la cotte de mailles et Bijen continua rapidement sa course pénible ;
 
 À la fin il atteignit le sommet escarpé de la montagne et tira sur-le-champ son épée.
 
@@ -65,7 +65,7 @@ Le noble Firoud s’enfuit devant lui et un cri de détresse partit de tous les 
 
 Bijen courut après lui, son épée tranchante à la main ; il en frappa les caparaçons du cheval et les brisa et le noble animal tomba.
 
-Firoud se jeta dans la porte du château, que ses braves s’empressèrent de refermer et fit pleuvoir du haut des remparts une grêle de pierres;
+Firoud se jeta dans la porte du château, que ses braves s’empressèrent de refermer et fit pleuvoir du haut des remparts une grêle de pierres ;
 
 Car il savait que ce n’était pas le moment d’hésiter.
 
@@ -87,6 +87,6 @@ Le Sipehbed jura par Dieu le Seigneur, disant :
 >
 > Je conduirai mon armée et livrerai un grand combat pour venger Zerasp mon fils chéri.
 >
-> Je tuerai ce méchant Turc!
+> Je tuerai ce méchant Turc !
 >
 > Je rougirai de son sang le cœur de ce rocher.
