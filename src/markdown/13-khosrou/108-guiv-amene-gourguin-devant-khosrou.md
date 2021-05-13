@@ -87,7 +87,7 @@ Il voyait que sa tête se troublait, il voyait que c’était un méchant homme 
 
 I Khosrou ordonna à un forgeron de préparer une lourde chaîne avec des clous pour la river et lui fit mettre à l’instant même des fers aux pieds, pour que ce méchant apprît dans les chaînes à réfléchir.
 
-Ensuite il dit à Guiv :
+Ensuite, il dit à Guiv :
 
 > Reprends ta tranquillité d’esprit ; cherche ton fils partout, fais des tentatives de tous côtés.
 >
