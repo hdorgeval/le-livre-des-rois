@@ -43,7 +43,7 @@ Zal devint soucieux et répondit à l’illustre Guiv :
 
 > C’est un grand malheur qui nous arrive.»
 
-Ensuite il dit à Rustem :
+Ensuite, il dit à Rustem :
 
 > Appelle du Zaboulistan les sages, les astrologues et les Mobeds et fais-les venir à Kaboul, pour qu’ils nous accompagnent.»
 
