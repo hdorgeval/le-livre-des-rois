@@ -70,12 +70,12 @@ Guschtasp lui répondit :
 Bessad lui répondit :
 
 > Ne parle pas ainsi, tu es un étranger et tu parais un homme distingué.
-
-Il y a là le désert et la mer et les chevaux courent en liberté, comment pourrais-je confier un troupeau à un inconnu ?
+>
+> Il y a là le désert et la mer et les chevaux courent en liberté, comment pourrais-je confier un troupeau à un inconnu ?
 
 Guschtasp l’écouta et partit soucieux ; on aurait dit que la peau se fendait sur son corps ; il se dit :
 
-> Quiconque fait de la peine à son père recueille lui-même des peines plus grandes.»
+> Quiconque fait de la peine à son père recueille lui-même des peines plus grandes.
 
 Ensuite, il s’élança rapidement, courant vers les chameliers du roi et dit à leur chef :
 
@@ -120,7 +120,7 @@ Il donna un coup de marteau et brisa l’enclume et la masse de fer et tout le m
 Bourab fut effrayé et lui dit :
 
 > Ô jeune homme, ni l’enclume, ni le marteau, ni le fer, ni la pierre, ni le soufflet ne résistent à tes coups !
->
-> Guschtasp fut désespéré à ces paroles, jeta le marteau et partit dévoré de faim, car il n’avait aucun moyen de se procurer de la nourriture et un logis.
->
-> Mais ni la misère, ni la richesse, ni le repos, ni la joie, ni les fatigues ne durent pour personne ; le bien et le mal passent également sur nous et quiconque a du sens ne se laisse jamais abattre.
+
+Guschtasp fut désespéré à ces paroles, jeta le marteau et partit dévoré de faim, car il n’avait aucun moyen de se procurer de la nourriture et un logis.
+
+Mais ni la misère, ni la richesse, ni le repos, ni la joie, ni les fatigues ne durent pour personne ; le bien et le mal passent également sur nous et quiconque a du sens ne se laisse jamais abattre.
