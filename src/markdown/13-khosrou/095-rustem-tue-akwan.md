@@ -22,7 +22,7 @@ Le pâtre s’approcha du roi du Touran et lui raconta l’aventure étonnante q
 
 Les Turcs élevèrent une grande clameur, disant :
 
-> Ce brave ose venir tout seul au combat!
+> Ce brave ose venir tout seul au combat !
 >
 > Il faut nous couvrir de nos armures, car ceci ne se fait que parce qu’on veut se railler de nous.
 >
@@ -46,27 +46,27 @@ Lorsqu’il fut revenu auprès de la source, méditant dans son âme guerrière 
 
 > N’es-tu pas las de combattre?
 >
-> Tu as échappé à la mer et aux attaques des crocodiles;
+> Tu as échappé à la mer et aux attaques des crocodiles ;
 >
-> Tu t’es précipité sur la plaine comme un léopard rugissant;
+> Tu t’es précipité sur la plaine comme un léopard rugissant ;
 >
 > Mais maintenant tu verras venir ta fin et c’est le dernier combat que tu livreras.
 
 Tehemten répondit aux paroles du Div par un mugissement de lion, détacha du crochet son lacet roulé, le lança et prit le Div au milieu du corps.
 
-Tout en chancelant sur la selle, à cause des efforts que faisait le Div, il leva sa lourde massue semblable au marteau du forgeron, en frappa la tête du Div comme un éléphant ivre et lui brisa le crâne d’un seul coup;
+Tout en chancelant sur la selle, à cause des efforts que faisait le Div, il leva sa lourde massue semblable au marteau du forgeron, en frappa la tête du Div comme un éléphant ivre et lui brisa le crâne d’un seul coup ;
 
-Ensuite il mit pied à terre, tira son épée damasquinée et trancha cette tête vaillante.
+Ensuite, il mit pied à terre, tira son épée damasquinée et trancha cette tête vaillante.
 
 Rustem rendit grâce à Dieu qui lui avait accordé la victoire au jour du combat.
 
-> Sache qu’un méchant homme et quiconque n’adore pas Dieu, est un Div;
+> Sache qu’un méchant homme et quiconque n’adore pas Dieu, est un Div ;
 >
 > Compte aussi parmi les Divs et non parmi les hommes, quiconque manque d’humanité.
 >
 > Si ta raison refuse de croire ce récit, c’est que sans doute elle n’en a pas saisi le sens profond.
 >
-> Il faut qu’un héros soit un Pehlewan robuste, redoutable par son bras, haut de stature : alors donne-lui le nom de héros;
+> Il faut qu’un héros soit un Pehlewan robuste, redoutable par son bras, haut de stature : alors donne-lui le nom de héros ;
 >
 > Mais n’appelle pas ainsi le Div Akwan.
 >
