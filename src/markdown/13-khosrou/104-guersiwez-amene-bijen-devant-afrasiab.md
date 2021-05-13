@@ -32,11 +32,11 @@ Guersiwez lui cria de loin :
 
 Bijen trembla en lui-même et se dit :
 
-> Comment me défendre sans armes, sans Schebreng ou un autre destrier?
+> Comment me défendre sans armes, sans Schebreng ou un autre destrier ?
 >
 > Je crains que ma vie ne finisse aujourd’hui.
 >
-> Où sont donc Guiv et Gouderz fils de Keschwad, que je sois obligé de livrer ma tête sans coup férir?
+> Où sont donc Guiv et Gouderz fils de Keschwad, que je sois obligé de livrer ma tête sans coup férir ?
 >
 > Je ne vois dans le monde personne qui puisse m’aider et il n’y a que Dieu qui puisse me sauver.
 
@@ -133,9 +133,9 @@ Bijen lui dit :
 >
 > Les héros peuvent, avec l’épée, les flèches et l’arc, lutter contre un ennemi ;
 >
-> Mais quand l’un est enchaîné et désarmé et l’autre couvert d’une cotte de mailles d’acier, comment pourrait-il y avoir un combat entre eux?
+> Mais quand l’un est enchaîné et désarmé et l’autre couvert d’une cotte de mailles d’acier, comment pourrait-il y avoir un combat entre eux ?
 >
-> Comment un lion privé de ses griffes aiguës déchirerait-il son ennemi, si vaillant que soit son cœur?
+> Comment un lion privé de ses griffes aiguës déchirerait-il son ennemi, si vaillant que soit son cœur ?
 >
 > Si le roi veut que je montre mon courage au milieu de cette cour, qu’il me fasse donner un cheval et une lourde massue, que parmi les chefs du Touran il en choisisse mille ;
 >
@@ -145,7 +145,7 @@ Bijen lui dit :
 
 Il dit en se tournant vers Guersiwez  :
 
-> Tu m’as dit qu’il ne fallait pas le mettre à mort, mais ne vois-tu pas que ce vil mécréant médite contre nous de nouveaux méfaits?
+> Tu m’as dit qu’il ne fallait pas le mettre à mort, mais ne vois-tu pas que ce vil mécréant médite contre nous de nouveaux méfaits ?
 >
 > Il n’est pas content de l’injure qu’il nous a faite et demande d’être admis à un combat honorable.
 >
