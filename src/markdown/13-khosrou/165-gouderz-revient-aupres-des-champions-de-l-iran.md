@@ -59,7 +59,7 @@ Ils partirent avec les morts et avec Guerouï Zereh qu’ils faisaient courir à
 
 A Arrivé près des tentes de l’armée, Gouderz trouva les troupes et leur Sipehbed qui l’attendaient à pied ; Gustehem le lion, qui se tenait en avant des rangs, s’avança vers le vaillant Pehlewan, baisa la terre et invoqua les grâces de Dieu sur lui, disant :
 
-> Regarde v a ton armée culière que tu as délivrée de ses soucis;
+> Regarde v a ton armée culière que tu as délivrée de ses soucis ;
 (r je te la rends telle que tu me l’as confiée.»
 
 Pendant que Gustehem et Gouderz se parlaient, leurs oreilles furent frappées de la voix de la sentinelle placée sur la montagne de Beibed ; elle criait :
