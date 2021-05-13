@@ -47,7 +47,7 @@ Il s’arrêtait dans chaque ville et y dressait son trône, comme il convient �
 
 Il faisait tirer de son trésor des monceaux d’argent et son or embellissait le monde.
 
-Ensuite il se rendait dans une autre ville, toujours buvant du vin, assis sur son trône et ceint de sa couronne et il continua ainsi jusqu’à ce qu’il arrivât avec son cortège de grands et de nobles à Ader-Abadgan.
+Ensuite, il se rendait dans une autre ville, toujours buvant du vin, assis sur son trône et ceint de sa couronne et il continua ainsi jusqu’à ce qu’il arrivât avec son cortège de grands et de nobles à Ader-Abadgan.
 
 Il s’y arrêta, tantôt buvant du vin, tantôt lançant son cheval pour aller visiter le temple d’Adergouschasp, où il adorait Dieu devant l’autel du feu, où il invoquait les grâces du Créateur.
 
