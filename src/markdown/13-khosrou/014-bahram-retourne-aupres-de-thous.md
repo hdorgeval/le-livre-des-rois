@@ -39,11 +39,11 @@ L’injuste Thous lui répondit :
 
 > C’est moi qui suis le maître de l’armée, des clairons et des timbales, je t’ai dit de me l’amener sans lui adresser de questions.
 >
-> S’il est roi, je suis un Keïanide et pourquoi croit-il pouvoir m’arrêter devant ce château?
+> S’il est roi, je suis un Keïanide et pourquoi croit-il pouvoir m’arrêter devant ce château ?
 >
-> Le fils d’une femme turque intercepterait ainsi la route de mes troupes, comme un corbeau de mauvais augure?
+> Le fils d’une femme turque intercepterait ainsi la route de mes troupes, comme un corbeau de mauvais augure ?
 >
-> Je ne verrai donc jamais de cette famille obstinée de Gouderz que des actes nuisibles à l’armée?
+> Je ne verrai donc jamais de cette famille obstinée de Gouderz que des actes nuisibles à l’armée ?
 >
 > Tu as eu peur d’un cavalier isolé et sans valeur, car ce n’est pas un lion furieux que tu as trouvé sur cette montagne.
 >
