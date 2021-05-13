@@ -70,11 +70,11 @@ Quand il vit le méchant Guersiwez, il maudit cet homme qui méritait des maléd
 
 Quant aux prisonniers et aux otages, il fixa le sort de chacun à part : les uns furent confiés à des gardiens, les autres jetés dans les fers et on les emmena hors de la présence du puissant roi.
 
-Ensuite il distribua aux Iraniens des trésors de toute espèce, de l’or et des perles non percées, pour qu’ils invoquassent les grâces de Dieu sur le roi de la terre.
+Ensuite, il distribua aux Iraniens des trésors de toute espèce, de l’or et des perles non percées, pour qu’ils invoquassent les grâces de Dieu sur le roi de la terre.
 
 Il distribua aux grands les prisonniers de guerre, dont il n’envoya aucun dans son propre palais, de quelque qualité qu’ils fussent.
 
-Ensuite il fixa la demeure de Djehn, son entretien, ses serviteurs et son surveillant.
+Ensuite, il fixa la demeure de Djehn, son entretien, ses serviteurs et son surveillant.
 
 Il y avait un souterrain sombre dans le château, triste à voir et ressemblant à une tombe : fut le lieu qu’il assigna à Guersiwez.
 
@@ -94,4 +94,4 @@ La troisième semaine, il s’assit sur le trône du pouvoir, en paix et dans to
 
 À la fin du mois il prépara des présents pour Guiv, parmi lesquels brillaient l’or et les turquoises ; c’étaient des plateaux d’or et des coupes de turquoise, des ceintures d’or et des brides d’or, des esclaves ornés de chaînes précieuses et de boucles d’oreilles, des bracelets et des couronnes incrustées de pierres fines, des robes, des trônes, des tapis de belles couleurs et parfumés et d’autres présents.
 
-Ensuite il fit appeler Guiv, le fit asseoir sur un trône d’or ; on’ apporta les présents devant lui et Guiv se prosterna devant le trône du roi.
+Ensuite, il fit appeler Guiv, le fit asseoir sur un trône d’or ; on’ apporta les présents devant lui et Guiv se prosterna devant le trône du roi.
