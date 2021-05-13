@@ -65,7 +65,7 @@ Le favori du noble Afrasiab, le chef honoré des Pehlewans répondit :
 
 > Je suis Piran, armé du bouclier et de la massue.
 >
-> Tu as demandé à Houman fils de Wiseh de me voir;
+> Tu as demandé à Houman fils de Wiseh de me voir ;
 >
 > Tu lui as parlé de moi amicalement et mon cœur s’est élancé vers toi, ô Pehlewan.
 >
@@ -83,23 +83,23 @@ Piran lui répondit :
 
 > Ô héros, au corps d’éléphant, je te salue au nom de Dieu et de mon armée.
 >
-> Puisse le Dispensateur de toute félicité te bénir et le ciel ne tourner que selon tes ordres!
+> Puisse le Dispensateur de toute félicité te bénir et le ciel ne tourner que selon tes ordres !
 >
 > Toute grâce vient de Dieu, c’est lui qui est notre asile et grâce à lui je te retrouve ici en bonne santé.
 
 Zewareh, Faramourz et Zal le cavalier, qui nous rappellent les princes leurs ancêtres, sont-ils toujours bien portants, heureux et fiers?
 >
-> Puisse le monde n’être jamais privé d’eux!
+> Puisse le monde n’être jamais privé d’eux !
 >
 > Laisse-moi te parler, si tu veux permettre à un sujet de se plaindre des rois.
 >
 > J’ai planté dans mon jardin un arbre qui a porté un fruit amer et des feuilles sanglantes et qui a fait couler les larmes de mes yeux.
 >
-> C’était ma vie et mon trésor;
+> C’était ma vie et mon trésor ;
 >
 > Mais maintenant il est devenu la source de mes peines et au lieu de thériaque il ne me rapporte que du poison.
 >
-> Siawusch me regardait comme son père;
+> Siawusch me regardait comme son père ;
 >
 > Il interposait son bouclier entre moi et le malheur.
 >
@@ -107,33 +107,33 @@ Zewareh, Faramourz et Zal le cavalier, qui nous rappellent les princes leurs anc
 >
 > Grandes sont les peines, les douleurs et les duretés que j’ai éprouvées de la part de ce roi et de ce peuple.
 >
-> Mais je prends Dieu à témoin, quoique ce soit mal d’invoquer le témoignage du Maître de la justice, que malgré le long temps qui s’est passé, malgré les nombreux conseils que m’ont donnés les sages, les lamentations n’ont pas cessé dans ma maison et que les flammes de la douleur dévorent toujours mon âme;
+> Mais je prends Dieu à témoin, quoique ce soit mal d’invoquer le témoignage du Maître de la justice, que malgré le long temps qui s’est passé, malgré les nombreux conseils que m’ont donnés les sages, les lamentations n’ont pas cessé dans ma maison et que les flammes de la douleur dévorent toujours mon âme ;
 >
 > Je pleure du sang au lieu de larmes et je suis toujours entre les mains des médecins.
 >
-> Depuis ce malheur, ma part dans la vie n’est qu’infortune et le ciel sublime ne tourne plus selon mon gré;
+> Depuis ce malheur, ma part dans la vie n’est qu’infortune et le ciel sublime ne tourne plus selon mon gré ;
 >
 > Mes yeux ne trouvent pas de repos dans les nuits sombres, tant le sang me bout dans les veines.
 >
-> Lorsque j’appris le sort de Siawusch, j’étais incapable de faire le bien ni le mal;
+> Lorsque j’appris le sort de Siawusch, j’étais incapable de faire le bien ni le mal ;
 >
 > Car dans mon deuil, dans mon impuissance et ma tristesse, je me trouvais entre deux pays et deux puissants rois.
 >
-> J’ai sauvé la vie de Ferenguis au péril de la mienne, car son père voulait la faire périr;
+> J’ai sauvé la vie de Ferenguis au péril de la mienne, car son père voulait la faire périr ;
 >
-> Je l’ai recueillie en secret dans ma maison et l’y ai tenue cachée et Afrasiab demande ma vie par représailles;
+> Je l’ai recueillie en secret dans ma maison et l’y ai tenue cachée et Afrasiab demande ma vie par représailles ;
 >
 > Il demande ma tête comme si j’étais son ennemi.
 >
 > C’est ainsi, ô Pehlewan, que je suis accablé des deux côtés et que les deux peuples se plaignent de moi.
 >
-> Je ne puis échapper à Afrasiab, je n’ai nulle part de refuge;
+> Je ne puis échapper à Afrasiab, je n’ai nulle part de refuge ;
 >
-> Je crains pour mes trésors, mes terres et mes troupeaux et je ne vois pas le moyen de m’éloigner;
+> Je crains pour mes trésors, mes terres et mes troupeaux et je ne vois pas le moyen de m’éloigner ;
 >
 > J’ai des enfants et beaucoup de fortunes au visage voilé et c’est ainsi que chacun de nous est lié et peut être atteint.
 >
-> Quand Afrasiab ordonne qu’on aille à la guerre, il ne permet pas qu’on ferme les yeux pour dormir;
+> Quand Afrasiab ordonne qu’on aille à la guerre, il ne permet pas qu’on ferme les yeux pour dormir ;
 >
 > Je dois donc malgré moi conduire son armée, car il serait imprudent de négliger ses ordres.
 >
@@ -141,23 +141,23 @@ Zewareh, Faramourz et Zal le cavalier, qui nous rappellent les princes leurs anc
 >
 > 0h !
 
-Plût à Dieu que mon cœur n’eût d’autres peines et d’autres afflictions au sujet de ma famille que la mort de Pilsem!
+Plût à Dieu que mon cœur n’eût d’autres peines et d’autres afflictions au sujet de ma famille que la mort de Pilsem !
 >
 > Mais j’ai d’autres fils jeunes et vaillants et qui ne sont jamais las de combattre.
 >
-> J’ai à craindre pour ma vie, mais je ne dirai que quelques mots en faveur de mes fils;
+> J’ai à craindre pour ma vie, mais je ne dirai que quelques mots en faveur de mes fils ;
 >
 > Et au nom de Dieu qui donne la victoire, je te supplie, ô Pehlewan, de ne pas m’en vouloir, de ne pas garder de ressentiment contre les miens et de penser au Créateur du monde.
 >
 > Je jure par l’âme glorieuse de Siawusch qu’il me serait plus doux de mourir que d’avoir à prendre l’épée, le casque et la cuirasse.
 >
-> Quand ces armées auront livré bataille, tu verras des montagnes de cadavres d’hommes de Kaschan, du Seklab, de Schikin et de l’Inde, qui couvriront tout depuis cette frontière jusqu’à la mer du Sind;
+> Quand ces armées auront livré bataille, tu verras des montagnes de cadavres d’hommes de Kaschan, du Seklab, de Schikin et de l’Inde, qui couvriront tout depuis cette frontière jusqu’à la mer du Sind ;
 >
 > Et ce sont tous des hommes innocents de la mort de Siawusch, des soldats qu’on a traînés ici pour se battre.
 >
 > La paix vaut mieux pour moi que la guerre et tu ne devrais pas te montrer rigoureux.
 >
-> Dis-moi maintenant ce que tu penses;
+> Dis-moi maintenant ce que tu penses ;
 >
 > Tu es plus sage que moi et plus vaillant dans le combat des héros.
 
@@ -169,7 +169,7 @@ Rustem écouta les paroles de Piran, mais il ne lui répondit pas selon son dés
 >
 > Maintenant je vous offre la paix à deux conditions, réfléchis si elles vous conviennent.
 >
-> D’abord tu enverras enchaînés à Keï-Khosrou tous ceux qui ont follement amené cette guerre par le meurtre du prince, quand même ils ne l’auraient pas conseillée;
+> D’abord tu enverras enchaînés à Keï-Khosrou tous ceux qui ont follement amené cette guerre par le meurtre du prince, quand même ils ne l’auraient pas conseillée ;
 >
 > Tous ceux qui sont coupables d’avoir répandu ce sang innocent, quand même ils ne se trouveraient pas sur ce champ de bataille.
 >
@@ -185,9 +185,9 @@ Piran dit en lui-même :
 >
 > Comment Oserai-je seulement en parler?
 >
-> Ce serait un deuil sans fin!
+> Ce serait un deuil sans fin !
 >
-> Car Houman, Lehhak et Ferschidwerd, auteurs de l’affliction de Gouderz, devraient être livrés et cela ne se peut pas;
+> Car Houman, Lehhak et Ferschidwerd, auteurs de l’affliction de Gouderz, devraient être livrés et cela ne se peut pas ;
 >
 > C’est un torrent qui ne trouvera pas de lit sur la terre.
 >
@@ -195,6 +195,6 @@ Piran dit en lui-même :
 
 Il dit alors à haute voix :
 
-> Ô Pehlewan, puisses-tu vivre à jamais content et heureux!
+> Ô Pehlewan, puisses-tu vivre à jamais content et heureux !
 >
 > Je pars et je rapporterai tes paroles aux héros, à Manschour, à Schenkoul et au Khakan et j’enverrai à Afrasiab un messager monté sur un dromadaire pour lui en donner communication et le tirer de son sommeil.
