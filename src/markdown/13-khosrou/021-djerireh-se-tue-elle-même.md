@@ -38,7 +38,7 @@ order: '021'
 
 Lorsque Firoud, le fils de Siawusch, qui n’avait pas atteint son but et la gloire qu’il cherchait, eut quitté ce monde qui ne lui avait pas tenu ses promesses, ses esclaves montèrent sur le portail du château et se précipitèrent en bas.
 
-Djerireh alluma un grand feu et y brûla tous ses trésors;
+Djerireh alluma un grand feu et y brûla tous ses trésors ;
 
 Elle saisit une épée, ferma la porte des écuries des chevaux arabes, leur ouvrit le ventre et leur coupa les pieds en inondant ses joues de sang et de sueur.
 
@@ -46,13 +46,13 @@ Ensuite elle se rendit à la couche du noble Firoud, à coté duquel elle trouva
 
 Pendant ce temps, les Iraniens arrachèrent de ses gonds la porte du château et se mirent à tout dévaster.
 
-Bahram s’approcha des remparts, l’âme déchirée de douleur;
+Bahram s’approcha des remparts, l’âme déchirée de douleur ;
 
 Il s’approcha de la couche de Firoud, la joue inondée de larmes, l’âme pleine d’angoisses et dit aux Iraniens :
 
 > Voici un homme dont le sort est beaucoup plus triste et plus déplorable que n’a été celui de son père.
 >
-> Siawusch n’a pas demandé à ses esclaves de mourir avec lui et sa mère ne s’est pas tuée sur sa couche;
+> Siawusch n’a pas demandé à ses esclaves de mourir avec lui et sa mère ne s’est pas tuée sur sa couche ;
 >
 > Il n’a pas vu brûler autour de lui son palais, détruire et dévorer par les flammes sa maison et tout ce qu’il possédait.
 >
@@ -60,7 +60,7 @@ Il s’approcha de la couche de Firoud, la joue inondée de larmes, l’âme ple
 >
 > Ne serez-vous pas honteux maintenant de paraître devant Khosrou, après tout ce qu’il a dit à Thous avec tant d’insistance?
 >
-> Il vous a envoyés pour venger Siawusch, il vous a donné beaucoup de conseils et d’avis!
+> Il vous a envoyés pour venger Siawusch, il vous a donné beaucoup de conseils et d’avis !
 >
 > Mais quand il aura connaissance du meurtre de son frère, sa tendresse et sa faveur vous manqueront et Rehham et l’irascible Bijen n’auront plus un seul jour heureux dans leur vie.
 
@@ -74,7 +74,7 @@ Gouderz, Guiv, tous les grands et tous les héros versaient des larmes amères e
 
 Gouderz adressa la parole à Thous, vers lequel se tournaient, en soupirant et en versant des larmes, Guiv, Kustehem, Gourguin et tous les braves, pendant que Gouderz lui parlait ainsi :
 
-> La violence porte pour fruit le regret;
+> La violence porte pour fruit le regret ;
 >
 > Ne sème donc jamais dans le jardin de la vie la semence de la colère, car la précipitation ne convient pas au chef d’une armée et un homme emporté n’est pas propre au commandement.
 >
@@ -88,11 +88,11 @@ Gouderz adressa la parole à Thous, vers lequel se tournaient, en soupirant et e
 
 > La mauvaise fortune accable les hommes de peines et de malheurs.
 
-Ensuite il fit construire un mausolée royal sur le sommet de la montagne;
+Ensuite, il fit construire un mausolée royal sur le sommet de la montagne ;
 
-On y plaça Firoud assis sur son trône d’or, vêtu de brocart d’or, ceint d’une ceinture royale, paré de ses insignes de roi;
+On y plaça Firoud assis sur son trône d’or, vêtu de brocart d’or, ceint d’une ceinture royale, paré de ses insignes de roi ;
 
-On demanda de l’eau de rose, du musc, du camphre et du vin;
+On demanda de l’eau de rose, du musc, du camphre et du vin ;
 
 On embauma la tête avec du camphre et le corps avec du gui, de l’eau de rose et du musc.
 
