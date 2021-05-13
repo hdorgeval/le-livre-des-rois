@@ -110,9 +110,9 @@ Il sortit des rangs des héros, invoqua sur le roi le nom de Dieu et dit :
 
 Il prononça des bénédictions sur le roi et se mit à donner des conseils à son fils, disant :
 
-> D’où te vient ce courage étourdi?
+> D’où te vient ce courage étourdi ?
 >
-> D’où vient cette confiance dans tes forces?
+> D’où vient cette confiance dans tes forces ?
 >
 > Un jeune homme, si instruit et de si bonne naissance qu’il soit, ne peut faire de grandes choses avant d’avoir de l’expérience ;
 >
