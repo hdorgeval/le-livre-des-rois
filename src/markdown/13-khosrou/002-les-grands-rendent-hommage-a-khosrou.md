@@ -58,7 +58,7 @@ Le cœur du roi se réjouit de cette nouvelle et il dit à son barde :
 
 > Reste auprès de moi, car Rustem a été le père nourricier de mon père et c’est lui qui donne au monde l’exemple de toutes les vertus.
 
-Ensuite il ordonna à Guiv, à Gouderz et à Thous de se mettre en marche avec des clairons et des timbales ; on battit les tambours sous la porte du palais et tous les braves se couvrirent de leurs casques;
+Ensuite, il ordonna à Guiv, à Gouderz et à Thous de se mettre en marche avec des clairons et des timbales ; on battit les tambours sous la porte du palais et tous les braves se couvrirent de leurs casques ;
 
 On alla de toutes les parties du pays à la rencontre de Rustem avec des bannières et des tambours, les Pehlewans et une grande armée s’avancèrent au-devant de lui l’espace de deux journées et lorsqu’ils aperçurent son drapeau et la poussière que son armée faisait voler jusqu’au soleil, ils poussèrent des cris, sonnèrent des trompettes et battirent les timbales.
 
@@ -66,21 +66,21 @@ Guiv, Gouderz et Thous sortirent du centre de leur armée, coururent au-devant d
 
 Les héros s’embrassèrent et le vainqueur des lions demanda des nouvelles du roi.
 
-Ensuite ils s’approchèrent de Zal fils de Sam, le cœur épanoui et plein d’allégresse;
+Ensuite ils s’approchèrent de Zal fils de Sam, le cœur épanoui et plein d’allégresse ;
 
-Ils se rendirent auprès de Faramourz et se réjouirent de son aspect ; et à la fin ils partirent tous pour la cour du roi, ils partirent pour saluer le maître du glorieux diadème.
+Ils se rendirent auprès de Faramourz et se réjouirent de son aspect ; et à la fin, ils partirent tous pour la cour du roi, ils partirent pour saluer le maître du glorieux diadème.
 
 Quand Khosrou aperçut le héros au corps d’éléphant, les larmes tombèrent des cils de ses yeux sur ses joues ; il descendit de son trône et salua Rustem, qui baisait la terre devant lui.
 
 Il lui dit :
 
-> Ô Pehlewan, puisses-tu être toujours heureux!
+> Ô Pehlewan, puisses-tu être toujours heureux !
 >
-> Puisse ton âme être toujours contente!
+> Puisse ton âme être toujours contente !
 >
 > Car tu as servi de père à Siawusch, tu es plein de sens et de discrétion.
 
-Ensuite il embrassa Zal Zer, lui prit la main et la porta à son front en pensant à son père Siawusch.
+Ensuite, il embrassa Zal Zer, lui prit la main et la porta à son front en pensant à son père Siawusch.
 
 Il plaça les héros sur le trône impérial et invoqua sur eux le nom de Dieu.
 
