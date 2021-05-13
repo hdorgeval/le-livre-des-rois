@@ -40,7 +40,7 @@ Ruai il ouvrit les trésors que les rois depuis Tour s’étaient transmis en se
 
 Quand l’armée fut entièrement équipée, quand elle ne manqua plus de rien de ce qu’elle pouvait désirer, Afrasiab choisit cinquante mille braves, tous ardents pour le combat et préparés à la guerre ; et il dit à Schideh son vaillant fils, qui por tait la tête plus haut que les lions les plus courageux : Je le confie cette armée prête à livrer bataille ; va faire la guerre dans le Kharezm ; garde la frontière de ce pays et sois toujours ceint pour le combat.»
 
-Ensuite il ordonna à Piran de choisir cinquante autres mille hommes d’entre les braves de la Chine et il lui dit :
+Ensuite, il ordonna à Piran de choisir cinquante autres mille hommes d’entre les braves de la Chine et il lui dit :
 
 > Avance-toi jusqu’à la capitale de l’Iran et empare-toi du trône de ce jeune roi.
 >
