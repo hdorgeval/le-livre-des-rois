@@ -49,7 +49,7 @@ H il l’amena, le leur remit et se releva.
 
 C’est ainsi qu’il redressa le dos de ceux que le malheur avait courbés.
 
-Ensuite il présenta au roi mille prisonniers touraniens enchaînés.
+Ensuite, il présenta au roi mille prisonniers touraniens enchaînés.
 
 Khosrou le bénit tendrement, disant :
 
