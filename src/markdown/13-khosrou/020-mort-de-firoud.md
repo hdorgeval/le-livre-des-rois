@@ -39,7 +39,7 @@ Son cœur en fut affligé et elle se réveilla, l’esprit troublé et rempli d�
 
 Sa joue fut inondée de larmes de sang, son esprit fut confondu et elle courut auprès de Firoud et lui dit :
 
-> Réveille-toi, mon fils!
+> Réveille-toi, mon fils !
 >
 > Les astres nous envoient du malheur, toute la montagne est couverte d’ennemis et la porte du château est entourée de lances et de cuirasses.
 
@@ -65,19 +65,19 @@ La poussière soulevée par les cavaliers et les ailes de leurs flèches firent 
 
 Il n’y avait pas de surface plane pour s’y battre et la montagne et les pierres faisaient trébucher les chevaux.
 
-On poussa des cris de part et d’autre, chacun combattit de toutes ses forces;
+On poussa des cris de part et d’autre, chacun combattit de toutes ses forces ;
 
 Thous était à la tête des siens, armé de toutes pièces et tenant dans sa main une épée tranchante et un bouclier ; autour de lui se pressaient à pied les chefs de son armée, les yeux tournés vers les remparts du château.
 
 C’est ainsi que la troupe de Firoud combattit en perdant beaucoup de monde, jusqu’à ce que le soleil eût atteint le faîte du ciel.
 
-Les Turcs furent tués sur les hauteurs et dans les ravins et l’étoile du jeune héro baissait;
+Les Turcs furent tués sur les hauteurs et dans les ravins et l’étoile du jeune héro baissait ;
 
 Mais il étonnait les Iraniens, qui n’avaient jamais vu un lion aussi terrible.
 
 Étant pressé ainsi par ses adversaires, il vit que la fortune ne lui était pas favorable.
 
-Il ne restait plus auprès de lui aucun de ses cavaliers turcs et un seul homme ne peut pas porter tout le poids d’une bataille;
+Il ne restait plus auprès de lui aucun de ses cavaliers turcs et un seul homme ne peut pas porter tout le poids d’une bataille ;
 
 Il tourna donc bride, s’enfuit seul du sommet de la montagne et galopa vers le château.
 
@@ -85,9 +85,9 @@ Rehham et Bijen lui dressèrent une embûche et convinrent de l’attaquer à la
 
 Bijen l’ayant aperçu, prit par le bas en lâchant les brides à son cheval et en appuyant sur l’étrier.
 
-Le vaillant Firoud vit le casque de Bijen et tira sur-le-champ son épée pour l’en frapper sur la tête et lui fendre d’un seul coup le casque et le corps ; mais Rehham arriva sur lui par derrière en poussant des cris et en brandissant une épée indienne et il donna sur l’épaule de ce courageux lion un coup qui rendit son bras impuissant;
+Le vaillant Firoud vit le casque de Bijen et tira sur-le-champ son épée pour l’en frapper sur la tête et lui fendre d’un seul coup le casque et le corps ; mais Rehham arriva sur lui par derrière en poussant des cris et en brandissant une épée indienne et il donna sur l’épaule de ce courageux lion un coup qui rendit son bras impuissant ;
 
-En même temps, Bijen, le fils de Guiv, lui asséna avec sa massue un grand coup sur le casque et la tête;
+En même temps, Bijen, le fils de Guiv, lui asséna avec sa massue un grand coup sur le casque et la tête ;
 
 Et le jeune homme, blessé au bras et à l’épaule, pressa le pas de son cheval en poussant des cris.
 
@@ -95,17 +95,17 @@ C’est ainsi que le vaillant Firoud atteignit le château dont on allait aussit
 
 Le héros, accompagné de quelques serviteurs, que la bataille des braves avait dispersés, rentra à pied.
 
-Sa mère accourut avec ses esclaves et ces femmes voilées le pressèrent contre leur sein et le placèrent en gémissant sur son trône d’ivoire;
+Sa mère accourut avec ses esclaves et ces femmes voilées le pressèrent contre leur sein et le placèrent en gémissant sur son trône d’ivoire ;
 
 C’est ainsi que sa vie s’en allait au moment où il devait obtenir une couronne.
 
-Les esclaves et Djerireh arrachèrent les boucles parfumées et les mèches de musc de leurs cheveux;
+Les esclaves et Djerireh arrachèrent les boucles parfumées et les mèches de musc de leurs cheveux ;
 
 Le cœur du noble Firoud se brisait, son trône était entouré de lamentations, son château rempli d’angoisses ; il leva encore une fois les yeux, poussa un soupir, tourna le visage vers sa mère et ses esclaves et dit, en faisant un effort pour ouvrir les lèvres :
 
-> Je ne puis m’étonner que vous arrachiez vos cheveux, car les Iraniens vont venir, déterminés à saccager la forteresse;
+> Je ne puis m’étonner que vous arrachiez vos cheveux, car les Iraniens vont venir, déterminés à saccager la forteresse ;
 >
-> Ils feront prisonnières ces esclaves;
+> Ils feront prisonnières ces esclaves ;
 >
 > Ils dévasteront le château, les remparts et la montagne.
 >
@@ -115,11 +115,11 @@ Le cœur du noble Firoud se brisait, son trône était entouré de lamentations,
 
 Ayant prononcé ces paroles, ses joues pâlirent et son esprit abattu par les sollicitudes et les douleurs monta vers le ciel.
 
-La sphère céleste, instable comme si elle était ivre, ressemble à un bateleur qui saurait soixante et dix tours dont il se servirait pour faire de nous son jouet, tantôt par le vent, tantôt par la foudre, tantôt par le poignard et l’épée, tantôt par une main inattendue;
+La sphère céleste, instable comme si elle était ivre, ressemble à un bateleur qui saurait soixante et dix tours dont il se servirait pour faire de nous son jouet, tantôt par le vent, tantôt par la foudre, tantôt par le poignard et l’épée, tantôt par une main inattendue ;
 
-Quelquefois elle nous tire elle-même du danger;
+Quelquefois elle nous tire elle-même du danger ;
 
-Quelquefois elle nous donne un trône, une couronne et un diadème;
+Quelquefois elle nous donne un trône, une couronne et un diadème ;
 
 Quelquefois elle nous accable de douleurs et d’humiliations, nous charge de chaînes et nous précipite dans la tombe.
 
