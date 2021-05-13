@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/14-lohrasp', 1, 18);
+formatEpisodesIn('src/markdown/14-lohrasp/zoroastre', 20, 23);

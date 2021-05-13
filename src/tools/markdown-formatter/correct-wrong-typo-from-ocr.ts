@@ -163,7 +163,14 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/tonjours/g, 'toujours'),
     (content: string) => content.replace(/Zabonlistan/g, 'Zaboulistan'),
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
-    (content: string) => content.replace(/Zobak/g, 'Zohak'),
+    (content: string) => content.replace(/ appellé /g, ' appelé '),
+    (content: string) => content.replace(/Dans ce temps /g, 'Dans ce temps, '),
+    (content: string) => content.replace(/A ces /g, 'À ces '),
+    (content: string) => content.replace(/, & /g, ' et '),
+    (content: string) => content.replace(/ & /g, ' et '),
+    (content: string) => content.replace(/ fur /g, ' sur '),
+    (content: string) => content.replace(/ aigues/g, ' aigües'),
+    (content: string) => content.replace(/A la vue/g, 'À la vue'),
   ].forEach((format) => {
     result = format(result);
   });
