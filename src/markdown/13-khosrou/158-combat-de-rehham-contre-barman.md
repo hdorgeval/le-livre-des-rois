@@ -20,7 +20,7 @@ Barman s’enfuit devant lui. rapide comme un tourbillon de poussière ; mais Re
 
 Rehham, animé par la vengeance due à Siawusch, le traîna par terre et dans sa haine se frotta le visage avec le sang de son ennemi ; ensuite il le plaça sur la selle de son cheval, le lia dur comme une pierre et laissa pendre les pieds de ce léopard.
 
-Ensuite il monta lui-même sur son cheval ardent et se rendit en galopant auprès du drapeau ; il monta sur la colline tout joyeux et le cœur délivré de ses soucis et de ses douleurs.
+Ensuite, il monta lui-même sur son cheval ardent et se rendit en galopant auprès du drapeau ; il monta sur la colline tout joyeux et le cœur délivré de ses soucis et de ses douleurs.
 
 Par la haute et victorieuse fortune du roi, il avait atteint. sous l’ombre du puissant trône, l’objet de ses désirs.
 
