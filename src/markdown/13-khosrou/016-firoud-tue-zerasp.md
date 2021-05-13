@@ -45,6 +45,6 @@ Tokhareh lui répondit :
 
 Le courageux Firoud lança son cheval, frappa Zerasp avec une flèche au milieu du corps et cousit à son corps le pommeau de la selle.
 
-La pointe de la flèche priva Zerasp de la vie;
+La pointe de la flèche priva Zerasp de la vie ;
 
 Il tomba et son cheval s’en retourna en fuyant ventre à terre.
