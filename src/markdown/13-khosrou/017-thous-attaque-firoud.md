@@ -51,7 +51,7 @@ L’éloquent Tokhareh dit :
 
 Le jeune Firoud dit avec colère à Tokhareh :
 
-> Quand il s’agit de luttes et de batailles, qu’est-ce que Thous, qu’est-ce qu’un éléphant, un lion furieux, un léopard courageux ou un tigre?
+> Quand il s’agit de luttes et de batailles, qu’est-ce que Thous, qu’est-ce qu’un éléphant, un lion furieux, un léopard courageux ou un tigre ?
 >
 > Ils succombent tous quand c’est un homme qui les combat et ce ne sont pas eux qui me consumeront par la flamme de leur colère.
 
@@ -91,7 +91,7 @@ Thous, le cœur plein de rage, la tête remplie de vent, s’en retourna au camp
 
 Firoud le poursuivit de ses sarcasmes :
 
-> Qu’est-il donc arrivé à cet illustre Pehlewan, qui est venu combattre un cavalier seul?
+> Qu’est-il donc arrivé à cet illustre Pehlewan, qui est venu combattre un cavalier seul ?
 >
 > Pourquoi s’en retourne-t-il si fièrement vers les rangs de son armée ?
 
@@ -107,7 +107,7 @@ Mais le noble Guiv était honteux de voir revenir à pied le vaillant Sipehdar e
 
 > Firoud ne sait pas se mettre à sa place et l’éclat des joues des héros est terni.
 >
-> Quand même il serait un prince portant la boucle d’oreille de la royauté, comment peut-il traiter avec tant de mépris cette grande armée?
+> Quand même il serait un prince portant la boucle d’oreille de la royauté, comment peut-il traiter avec tant de mépris cette grande armée ?
 >
 > Il ne faut pas que nous nous soumettions à de telles prétentions de sa part.
 >
@@ -115,6 +115,6 @@ Mais le noble Guiv était honteux de voir revenir à pied le vaillant Sipehdar e
 >
 > Nous avons tous dévoué notre vie à venger Siawusch, mais il ne faut pas que nous souffrions en silence cette disgrâce.
 >
-> Le noble Zerasp, le courageux cavalier, le petit-fils de Newder, a été tué et Rivniz est noyé dans son sang : quelle nouvelle honte attendons-nous?
+> Le noble Zerasp, le courageux cavalier, le petit-fils de Newder, a été tué et Rivniz est noyé dans son sang : quelle nouvelle honte attendons-nous ?
 >
 > Firoud est de la race de Djemschid et de la souche de Kobad, mais il a ouvert une porte sans savoir où il irait.
