@@ -65,29 +65,29 @@ Le roi se mit à injurier son fils et alla dans sa colère jusqu’à le soupço
 
 Il regarda la lutte des deux lions, des deux braves qui rugissaient comme le tonnerre et dit à Poulad :
 
-> Ô vaillant cavalier, si tu parviens à le renverser sous toi, fends-lui le ventre avec ton poignard;
+> Ô vaillant cavalier, si tu parviens à le renverser sous toi, fends-lui le ventre avec ton poignard ;
 >
 > Car il faut agir et réussir et non pas se vanter.
 
-Guiv avait observé Afrasiab et sa colère en parlant à son fils et la course rapide de Schideh;
+Guiv avait observé Afrasiab et sa colère en parlant à son fils et la course rapide de Schideh ;
 
 Quand il vit que les ennemis avaient violé leur promesse, il lança son cheval, accourut et dit à Rustem :
 
 > Ô héros, dis-moi, quels ordres donnes-tu à tes serviteurs?
 >
-> Fais attention à ce qui a été convenu;
+> Fais attention à ce qui a été convenu ;
 >
 > Car Afrasiab, qui a vu que le moment était venu de faire du mal et qu’il n’y avait pas de temps à perdre, s’est approché pour encourager Pouladwend et pour lui conseiller de se servir du poignard.
 
 Rustem répondit :
 
-> Je suis un homme de guerre et lent dans la lutte;
+> Je suis un homme de guerre et lent dans la lutte ;
 >
 > Mais pourquoi trembleriez-vous?
 >
 > Pourquoi votre cœur se fendrait-il?
 >
-> Dans un instant je vais abaisser la tête du Div Pouladwend de la sphère sublime du ciel jusque dans la poussière;
+> Dans un instant je vais abaisser la tête du Div Pouladwend de la sphère sublime du ciel jusque dans la poussière ;
 >
 > Et si ma main n’est pas assez forte pour ce combat, pourquoi me décourager imprudemment?
 >
@@ -97,31 +97,31 @@ Rustem répondit :
 
 Rustem étendit la main comme un lion, saisit le crocodile à la poitrine et au bras et quelque vigueur que montrât Pouladwend, il l’arracha du sol comme un platane, l’éleva à la hauteur de ses épaules et le jeta sur la terre en rendant grâce au Créateur.
 
-L’armée de l’Iran poussa un cri, les tambours se portèrent en avant;
+L’armée de l’Iran poussa un cri, les tambours se portèrent en avant ;
 
-Le son des trompettes et le bruit des cimbales et des clochettes indiennes monta jusqu’aux nuages;
+Le son des trompettes et le bruit des cimbales et des clochettes indiennes monta jusqu’aux nuages ;
 
 Tous s’écriaient que Pouladwend était mort, qu’il se tordait dans la poussière comme un serpent.
 
-Rustem aussi crut qu’il ne restait pas dans le corps de Poulad une jointure entière et qu’il lui avait brisé tous les os;
+Rustem aussi crut qu’il ne restait pas dans le corps de Poulad une jointure entière et qu’il lui avait brisé tous les os ;
 
 Les joues du Div étaient comme la fleur du fenugrec, son corps était sans vie et sans mouvement et le Pehlewan triomphait de lui.
 
 Rustem jeta les yeux tout autour sur les armées du Touran et de l’Iran, ensuite il remonta sur le vaillant Raksch et laissa le corps de ce dragon étendu sur la terre.
 
-Dès que le héros vainqueur des lions eut rejoint les rangs de son armée, Poulad jeta autour de lui un regard rapide comme la flèche, se leva de terre, monta sur son cheval et s’enfuit;
+Dès que le héros vainqueur des lions eut rejoint les rangs de son armée, Poulad jeta autour de lui un regard rapide comme la flèche, se leva de terre, monta sur son cheval et s’enfuit ;
 
 Tu aurais dit qu’il roulait la surface de la terre devant lui.
 
-Il se réfugia auprès d’Afrasiab, le cœur plein de sang, les joues inondées de larmes;
+Il se réfugia auprès d’Afrasiab, le cœur plein de sang, les joues inondées de larmes ;
 
 Et là ce brave perdit connaissance et s’endormit sur la terre sombre d’un long sommeil.
 
-Quand Tehemten vit que Poulad vivait et que toute la plaine était couverte de troupes, son cœur se serra;
+Quand Tehemten vit que Poulad vivait et que toute la plaine était couverte de troupes, son cœur se serra ;
 
 Il fit avancer son armée, appela Gouderz le héros plein d’expérience et ordonna de faire pleuvoir des flèches et de faire naître dans l’air comme un nuage printanier.
 
-Une des ailes de l’armée était commandée par Bijen, l’autre par Guiv, l’ambitieux Gourguin et le vaillant Rehham;
+Une des ailes de l’armée était commandée par Bijen, l’autre par Guiv, l’ambitieux Gourguin et le vaillant Rehham ;
 
 Tu aurais dit qu’ils allumaient un incendie et qu’ils brûlaient le monde avec leurs épées.
 
@@ -133,6 +133,6 @@ Poulad dit à ses troupes :
 >
 > Pourquoi nous battrions-nous ?
 
-Il fit partir son armée et partit lui-même désespéré;
+Il fit partir son armée et partit lui-même désespéré ;
 
 Toutes les cordes de son cœur avaient été brisées par Rustem.
