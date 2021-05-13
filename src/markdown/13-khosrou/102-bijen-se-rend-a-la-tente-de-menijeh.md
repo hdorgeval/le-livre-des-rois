@@ -22,9 +22,9 @@ On lava les pieds de Bijen avec du musc et de l’eau de rose  ; ensuite on s�
 
 On amena des musiciens dans la salle du banquet, on apporta du vin, on fit sortir de la tente tous les étrangers.
 
-Les esclaves se tenaient debout, jouant du luth et de la harpe et chantant;
+Les esclaves se tenaient debout, jouant du luth et de la harpe et chantant ;
 
-Le sol était couvert de tapis de brocart couleur de paon;
+Le sol était couvert de tapis de brocart couleur de paon ;
 
 La tente était parsemée de pièces d’or qui la faisaient ressembler à une peau de léopard et son enceinte était parfumée de musc et d’ambre et brodée de rubis et d’or.
 
