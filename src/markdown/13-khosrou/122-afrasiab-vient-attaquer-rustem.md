@@ -36,7 +36,7 @@ Il fit partir Menijeh et les bagages, revêtit son armure de bataille, monta sur
 
 Le vaillant cavalier dit : Que pèse lll. le renard entre les griffes du lion?»
 
-Ensuite il cria à ses braves pleins de fierté : L’heure du combat est arivée : où sont vos épées et vos javelots qui percentle fer ?
+Ensuite, il cria à ses braves pleins de fierté : L’heure du combat est arivée : où sont vos épées et vos javelots qui percentle fer ?
 
 Où sontvos lances et vos massues à tête de bœuf ?
 
