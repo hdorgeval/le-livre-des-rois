@@ -39,7 +39,7 @@ I ü3l Aussitôt que le prudent Hedjir, qui était armé pour le combat, eut ent
 
 Guiv bondit à cette nouvelle ; il examina tous les guerriers illustres de l’armée et son choix tomba sur Ferhad ; il l’appela auprès de lui et lui confia toutes ses troupes.
 
-Ensuite il ordonna à Zengueh fils de Schaweran de prendre avec lui deux cents braves pleins d’expérience, d’attaquer Ferschidwerd et de faire lever la poussière de la montagne et l’écume de la rivière.
+Ensuite, il ordonna à Zengueh fils de Schaweran de prendre avec lui deux cents braves pleins d’expérience, d’attaquer Ferschidwerd et de faire lever la poussière de la montagne et l’écume de la rivière.
 
 Il confia en toute hâte deux cents héros et un drapeau à Gourguin fils de Milad et lui dit :
 
