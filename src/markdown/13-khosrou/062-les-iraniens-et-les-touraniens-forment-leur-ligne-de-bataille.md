@@ -37,15 +37,15 @@ order: '062'
 
 # Les Iraniens et les Touraniens forment leur ligne de bataille
 
-Lorsque le soleil couchant répandit sur le monde une teinte de rubis et que la nuit commença sa marche à travers le ciel, tous les braves de l’armée, tous ceux qui étaient de bon conseil et savaient frapper de l’épée, se rassemblèrent et se rendirent à la tente du Khakan, le cœur plein d’ardeur pour le combat et la vengeance : c’étaient Kamous le destructeur des hommes, le lion;
+Lorsque le soleil couchant répandit sur le monde une teinte de rubis et que la nuit commença sa marche à travers le ciel, tous les braves de l’armée, tous ceux qui étaient de bon conseil et savaient frapper de l’épée, se rassemblèrent et se rendirent à la tente du Khakan, le cœur plein d’ardeur pour le combat et la vengeance : c’étaient Kamous le destructeur des hommes, le lion ;
 
-Manschour le vaillant, qui décidait du sort des batailles;
+Manschour le vaillant, qui décidait du sort des batailles ;
 
 Schemiran de Schikin, Schenkoul l’Indien, Kender du pays de Seklab et le roi du Sind.
 
 Chacun dit son avis sur la bataille à livrer, chacun parla des Iraniens et tous arrêtèrent d’un commun accord qu’il fallait laver ses mains dans le sang.
 
-Ensuite ils sortirent pour aller se reposer;
+Ensuite ils sortirent pour aller se reposer ;
 
 Mais ils ne purent dormir dans leurs tentes, malgré le désir qu’ils en avaient.
 
@@ -55,9 +55,9 @@ Le Khakan dit :
 
 > Il ne faut pas hésiter aujourd’hui comme dans la bataille d’hier, où Piran s’est comporté comme s’il n’eût pas existé, lui sans qui nous ne devrions pas commencer un combat.
 >
-> Nous sommes tous venus ici pour nous battre;
+> Nous sommes tous venus ici pour nous battre ;
 >
-> Nous avons fait une longue route pour secourir nos amis;
+> Nous avons fait une longue route pour secourir nos amis ;
 >
 > Mais si nous hésitons comme hier, nous nous couvrirons de honte tandis que nous cherchons la gloire.
 >
@@ -75,13 +75,13 @@ De son côté Rustem parla ainsi aux Iraniens :
 
 > Voici le moment où notre sort se décidera.
 >
-> Si nous avons perdu hier quelques braves, ce n’est qu’un homme sur deux ou trois cents;
+> Si nous avons perdu hier quelques braves, ce n’est qu’un homme sur deux ou trois cents ;
 >
 > Ainsi n’ayez pas de crainte, car je ne veux pas vivre sans renom et sans honneur.
 >
 > Toute l’armée des Turcs s’est retirée les joues noires comme l’ébène, lorsqu’elle a vu la mort de cet Aschkebous.
 >
-> Remplissez donc vos cœurs du désir de la vengeance;
+> Remplissez donc vos cœurs du désir de la vengeance ;
 >
 > Et vous, cavaliers, froncez vos sourcils.
 >
