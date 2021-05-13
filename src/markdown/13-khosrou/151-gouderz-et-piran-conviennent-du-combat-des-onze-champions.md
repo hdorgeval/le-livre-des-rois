@@ -44,7 +44,7 @@ Ils saluèrent leur chef, disant :
 
 > Ô illustre Pehlewan du monde, comment as-tu dormi cette nuit ?
 >
-> En quel état t’estu levé ?
+> En quel état t’es-tu levé ?
 >
 > Qu’as-tu décidé sur le combat que nous devons livrer aux Turcs?»
 
