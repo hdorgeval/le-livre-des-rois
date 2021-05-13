@@ -36,43 +36,43 @@ Rustem se porta de l’aile droite à l’aile gauche et toute la ligne des Tour
 
 A l’aile gauche se trouvait Gahar de Gahan, un héros au cœur de lion, qui tenait un drapeau noir.
 
-Il tressaillit en voyant le casque de Rustem;
+Il tressaillit en voyant le casque de Rustem ;
 
 Tu aurais dit que cette vue lui déchirait l’âme ; il dit :
 
 > Je vais venger le Touran et la Chine en combattant l’homme du Seïstan.
 >
-> C’est à moi seul parmi les princes à lutter contre lui;
+> C’est à moi seul parmi les princes à lutter contre lui ;
 >
 > Car j’ai un cœur de lion et ma massue est lourde.
 
-Il quitta ses troupes, lança son cheval et s’avança, avide de vengeance, vers Rustem;
+Il quitta ses troupes, lança son cheval et s’avança, avide de vengeance, vers Rustem ;
 
 Mais lorsqu’il vit de près le héros au corps d’éléphant, il eut peur et recula devant le combat, en se disant :
 
-> Ô Gahar, toi qui as de l’expérience!
+> Ô Gahar, toi qui as de l’expérience !
 >
-> Kamous n’a pu lui résister;
+> Kamous n’a pu lui résister ;
 >
 > Il vaut mieux s’enfuir à temps la tête sur ses épaules, que de faire parade de bravoure et avoir la tête foulée aux pieds.
 
-Il retourna, en fuyant, vers le centre de l’armée;
+Il retourna, en fuyant, vers le centre de l’armée ;
 
-Des deux côtés on tenait les yeux sur lui;
+Des deux côtés on tenait les yeux sur lui ;
 
 On voyait le drapeau de Rustem au milieu de la foule, semblable à un arbre sur la crête d’une montagne.
 
-Rustem courut après lui, rapide comme la poussière qui vole;
+Rustem courut après lui, rapide comme la poussière qui vole ;
 
-La terre devint rouge comme le rubis et l’air s’obscurcit;
+La terre devint rouge comme le rubis et l’air s’obscurcit ;
 
 Il frappa Gahar de sa lance à la ceinture, lui déchira sa cotte de mailles et le nœud de sa ceinture et le jeta par terre comme la feuille d’un arbre dont l’orage secoue les branches.
 
 Le drapeau noir fut baissé ; tu aurais dit que Gahar de Gahan n’avait jamais existé.
 
-Les Iraniens virent ce que Rustem avait fait;
+Les Iraniens virent ce que Rustem avait fait ;
 
-La poussière du combat s’éleva à droite et à gauche;
+La poussière du combat s’éleva à droite et à gauche ;
 
 On fit avancer le drapeau impérial et les timbales, le fier Gouderz et Thous arrivèrent et le centre de l’armée de l’Iran s’écria d’une commune voix :
 
@@ -80,7 +80,7 @@ On fit avancer le drapeau impérial et les timbales, le fier Gouderz et Thous ar
 
 Rustem dit :
 
-> Donnez-moi cent illustres cavaliers iraniens;
+> Donnez-moi cent illustres cavaliers iraniens ;
 >
 > Car je vais maintenant prendre au Khakan son éléphant, son trône d’ivoire, ses bracelets, sa massue, sa chaîne et sa couronne et en faire présent à l’Iran, au roi victorieux des braves.
 
@@ -96,13 +96,13 @@ Les braves savaient que sa nature était celle du lion et que dans le combat il 
 
 Ils s’avancèrent tous vers le Khakan, les troupes excitées par le ressentiment, le prince par l’ambition d’un diadème.
 
-Rustem commença l’attaque;
+Rustem commença l’attaque ;
 
-Il lâcha les rênes à son coursier Raksch;
+Il lâcha les rênes à son coursier Raksch ;
 
 Il fit jaillir le sang jusqu’à la sphère de la lune et les étoiles regardaient avec étonnement ce champ de bataille.
 
-La poussière était si épaisse que personne ne voyait plus le sol et tels étaient le choc des cavaliers et les coups de lance, qu’on ne distinguait plus les brides des étriers;
+La poussière était si épaisse que personne ne voyait plus le sol et tels étaient le choc des cavaliers et les coups de lance, qu’on ne distinguait plus les brides des étriers ;
 
 Tu aurais dit que le soleil s’était caché derrière un voile et que la terre était fatiguée des sabots des chevaux.
 
@@ -112,7 +112,7 @@ La poussière que soulevaient les chevaux formait un nuage jusqu’au-dessus des
 
 Un grand nombre d’hommes illustres exposaient follement leur tête dans la mêlée pour acquérir de la gloire.
 
-Rustem poussa un cri, on eût dit que le monde en tressaillait;
+Rustem poussa un cri, on eût dit que le monde en tressaillait ;
 
 Il s’écria :
 
@@ -120,12 +120,12 @@ Il s’écria :
 >
 > Qu’avez-vous affaire des couronnes et de cette pompe, vous qui malgré votre puissance, vos efforts et votre bravoure, finissez par livrer vos mains à nos chaînes et vos corps aux nœuds de nos lacets?
 >
-> Je vous enverrai auprès du roi de la terre;
+> Je vous enverrai auprès du roi de la terre ;
 >
-> Je n’épargnerai ni Manschour ni le Khakan de la Chine;
+> Je n’épargnerai ni Manschour ni le Khakan de la Chine ;
 >
-> C’est assez que je vous laisse la vie;
+> C’est assez que je vous laisse la vie ;
 >
-> mais la couronne et le sceau sont à un autre;
+> mais la couronne et le sceau sont à un autre ;
 >
 > Et si vous n’y consentez pas, je ferai lever sous les sabots de mes destriers la poussière de cette plaine jusqu’à la lune.
