@@ -20,21 +20,21 @@ Piran dit à Afrasiab :
 >
 > Maintenant que deviendras-tu?
 >
-> Il ne reste plus personne auprès de toi;
+> Il ne reste plus personne auprès de toi ;
 >
 > Poulad est parti et a emmené son armée.
 >
-> Les Iraniens sont plus de cent mille, tous montés sur des chevaux bardés et à leur tête marche Rustem le vainqueur des lions;
+> Les Iraniens sont plus de cent mille, tous montés sur des chevaux bardés et à leur tête marche Rustem le vainqueur des lions ;
 >
 > La terre est pleine d’ennemis et l’air rempli de flèches.
 >
-> Nous avions réuni toutes les troupes que pouvaient fournir la terre ferme et les pays au delà de la mer, les plaines et les montagnes;
+> Nous avions réuni toutes les troupes que pouvaient fournir la terre ferme et les pays au delà de la mer, les plaines et les montagnes ;
 >
-> Quand les hommes n’ont pas suffi, nous avons essayé des Divs;
+> Quand les hommes n’ont pas suffi, nous avons essayé des Divs ;
 >
 > Et c’est ainsi que nous avons pu livrer ces batailles et produire un si grand tumulte.
 >
-> Mais puisque Rustem est arrivé, tu ne peux résister;
+> Mais puisque Rustem est arrivé, tu ne peux résister ;
 >
 > Il ne te reste qu’à t’enfuir et à te retirer sur le bord de la mer de la Chine, car tu es le trésor du monde.
 >
@@ -44,7 +44,7 @@ Le roi fit ce que lui conseillait Piran, car il voyait que dans ce combat sa mai
 
 Il laissa donc en place son drapeau et partit lui-même, se dirigeant en toute hâte vers la Chine et le Madjin.
 
-Cependant les deux armées s’avancèrent l’une contre l’autre;
+Cependant les deux armées s’avancèrent l’une contre l’autre ;
 
 Le monde ressemblait à un nuage noir.
 
@@ -56,7 +56,7 @@ Tehemten s’écria à haute voix :
 
 Toute l’armée répondit par un cri, les cavaliers élevèrent leurs lances au-dessus des montagnes et bientôt le champ de bataille fut tellement encombré de morts qu’on n’y pouvait plus passer.
 
-Une moitié des Touraniens vint demander grâce, l’autre se précipita sur les routes en fuyant;
+Une moitié des Touraniens vint demander grâce, l’autre se précipita sur les routes en fuyant ;
 
 C’était un troupeau sans pâtre et tout dispersé et la plaine ne présentait qu’une masse de corps privés de leurs mains et de leurs bras.
 
@@ -64,7 +64,7 @@ Rustem dit :
 
 > Assez de carnage !
 >
-> La fortune est le partage tantôt de l’un, tantôt de l’autre;
+> La fortune est le partage tantôt de l’un, tantôt de l’autre ;
 >
 > Tantôt elle porte un fruit vénéneux,tantôt elle te donne de la thériaque.
 >
@@ -74,19 +74,19 @@ Rustem dit :
 >
 > Aujourd’hui le monde t’attaque comme un Ahriman, demain il se montre comme une fiancée parée et remplissant l’air de parfums.
 >
-> Contente-toi de vivre obscur et de ne pas souffrir;
+> Contente-toi de vivre obscur et de ne pas souffrir ;
 >
 > Car qui peut dire s’il vaut mieux être béni par le sort que d’en être maudit.
 
-Rustem se mit à distribuer sur la plaine tout le butin;
+Rustem se mit à distribuer sur la plaine tout le butin ;
 
-Il envoya au roi une partie de l’or et des vêtements neufs;
+Il envoya au roi une partie de l’or et des vêtements neufs ;
 
-Il lui envoya les esclaves, les chevaux et les éléphants de guerre;
+Il lui envoya les esclaves, les chevaux et les éléphants de guerre ;
 
 Il prit pour lui-même tous les diadèmes, le musc et l’ambre et abandonna à l’armée tout le reste de ce qui s’était trouvé sur le champ de bataille.
 
-Ensuite il demanda si l’on avait découvert des traces du roi du Touran;
+Ensuite, il demanda si l’on avait découvert des traces du roi du Touran ;
 
 On le chercha de tous côtés, sur les routes et à travers les lieux écartés ; mais personne ne put en donner de nouvelles, ni dans la montagne, ni dans la plaine, ni dans le désert, ni sur le fleuve.
 
