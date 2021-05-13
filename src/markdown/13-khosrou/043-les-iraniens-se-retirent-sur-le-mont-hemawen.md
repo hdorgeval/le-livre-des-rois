@@ -54,7 +54,7 @@ La terre trembla sous les sabots des chevaux, tous les grands déchirèrent leur
 
 > Jamais vieillard n’a éprouvé de malheur pareil au mien !
 >
-> Pourquoi faut-il que je survive tout décrépit à ces enfants étendus par terre?
+> Pourquoi faut-il que je survive tout décrépit à ces enfants étendus par terre ?
 >
 > Depuis que je suis né, jamais ma cuirasse ne m’a quitté ;
 >
