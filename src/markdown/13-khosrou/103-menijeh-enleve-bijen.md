@@ -10,7 +10,7 @@ order: '103'
 
 # Menijeh enlève Bijen et l'emmène dans son palais
 
-Lorsque le temps du départ de Menijeh fut arrivé, elle ne pouvait se résoudre de renoncer à voir Bijen  ; et comme il demeurait pensif, elle appela ses esclaves et leur ordonna de mêler avec du miel un breuvage qui rendait insensible.
+Lorsque le temps du départ de Menijeh fut arrivé, elle ne pouvait se résoudre de renoncer à voir Bijen ; et comme il demeurait pensif, elle appela ses esclaves et leur ordonna de mêler avec du miel un breuvage qui rendait insensible.
 
 Elles le donnèrent à cet homme ivre qui voulait encore boire du vin ;
 
@@ -26,7 +26,7 @@ Arrivée près de la ville, elle couvrit le dormeur d’un manteau et entra secr
 
 On prépara pour Bijen une chambre à coucher ; et alors Menijeh, impatiente de le voir se réveiller, apporta un baume qui devait dissiper son sommeil et lui faire ouvrir les yeux et le lui donna.
 
-Quand il fut réveillé et qu’il eut recueilli ses esprits, il se trouvait dans les bras d’une femme au sein de lis  ;
+Quand il fut réveillé et qu’il eut recueilli ses esprits, il se trouvait dans les bras d’une femme au sein de lis ;
 
 Il se trouvait dans le palais d’Afrasiab, à côté d’une femme au visage de lune, dont la tête reposait sur son coussin.
 
@@ -46,7 +46,7 @@ Menijeh lui dit :
 
 Ils se mirent alors à manger, ayant devant les yeux d’un côté le gibet, de l’autre la chaire du prêtre qui bénit le mariage.
 
-On appela de chaque tente une jeune fille aux joues de rose et on les para de robes de brocart de la Chine  ;
+On appela de chaque tente une jeune fille aux joues de rose et on les para de robes de brocart de la Chine ;
 
 Ces femmes au visage de Péri faisaient de la musique et ils passaient ainsi leur vie joyeusement.
 
@@ -56,7 +56,7 @@ Un homme qui ne s’occupait qu’à tenir des discours oiseux, à secouer l’a
 
 Il s’était enquis qui était cet étranger, quel était son pays et pourquoi il était venu dans le Touran.
 
-Il avait fini par tout savoir  ; et craignant pour sa propre vie, il s’était hâté de se rendre chez le chambellan, qui crut ne pouvoir faire autrement que de révéler le fait et quitta la garde du rideau qui fermait l’appartement de Menijeh, courut auprès du roi des Turcs et lui dit que sa fille avait choisi un mari dans le pays d’Iran.
+Il avait fini par tout savoir ; et craignant pour sa propre vie, il s’était hâté de se rendre chez le chambellan, qui crut ne pouvoir faire autrement que de révéler le fait et quitta la garde du rideau qui fermait l’appartement de Menijeh, courut auprès du roi des Turcs et lui dit que sa fille avait choisi un mari dans le pays d’Iran.
 
 Le roi prononça le nom de Dieu maître du monde, tu l’aurais pris pour un tremble agité du vent ;
 
