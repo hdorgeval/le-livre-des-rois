@@ -33,15 +33,15 @@ Un grand tumulte s’éleva dans l’armée des Iraniens et tous les braves se c
 
 Le cœur de Thous était gonflé de sang, ses yeux versaient des larmes et il se revêtit précipitamment de sa cuirasse.
 
-Il se lamentait de la mort de ces deux braves, il tremblait comme une branche de tremble;
+Il se lamentait de la mort de ces deux braves, il tremblait comme une branche de tremble ;
 
 Il monta à cheval, semblable à une haute montagne sur laquelle on aurait placé un éléphant de guerre et se dirigea vers Firoud, l’âme remplie de haine et la tête pleine d’orgueil.
 
 L’éloquent Tokhareh dit :
 
-> Voici un furieux éléphant qui monte vers nous;
+> Voici un furieux éléphant qui monte vers nous ;
 >
-> C’est le Sipehdar Thous;
+> C’est le Sipehdar Thous ;
 >
 > Il vient te combattre, mais tu ne peux résister à ce crocodile plein d’expérience.
 >
@@ -57,9 +57,9 @@ Le jeune Firoud dit avec colère à Tokhareh :
 
 Tokhareh l’expérimenté répondit :
 
-> Il ne faut pas que les rois méprisent les conseils;
+> Il ne faut pas que les rois méprisent les conseils ;
 >
-> Tu n’es qu’un cavalier isolé et quand même tu serais de fer, quand même tu pourrais arracher un rocher de sa base, il y a trente mille Iraniens illustres qui viendront te combattre sur cette montagne, qui anéantiront tout et ne laisseront subsister ici ni ce château, ni une pierre, ni un grain de poussière;
+> Tu n’es qu’un cavalier isolé et quand même tu serais de fer, quand même tu pourrais arracher un rocher de sa base, il y a trente mille Iraniens illustres qui viendront te combattre sur cette montagne, qui anéantiront tout et ne laisseront subsister ici ni ce château, ni une pierre, ni un grain de poussière ;
 >
 > Et si Thous périssait de ta main, Khosrou serait affligé de sa perte et tu ferais tort au projet qu’il a de venger ton père, un tort qu’il ne pourrait peut-être jamais réparer.
 >
@@ -73,11 +73,11 @@ Firoud, lorsqu’il s’agit de faire retraite, fut honteux à cause d’elles, 
 
 Tokhareh dit au vaillant roi :
 
-> Si tu es résolue à combattre l’illustre Thous, garde toi de le tuer et abats seulement son cheval;
+> Si tu es résolue à combattre l’illustre Thous, garde toi de le tuer et abats seulement son cheval ;
 >
 > Car les princes ne se battent pas à pied, quelque grand que soit l’embarras où ils se trouvent.
 >
-> D’ailleurs tu ne réussirais pas à le tuer avec une flèche ordinaire;
+> D’ailleurs tu ne réussirais pas à le tuer avec une flèche ordinaire ;
 >
 > Et aussitôt que le Sipehbed aurait atteint la crête de la montagne, toute son armée le suivrait sans doute.
 >
@@ -85,7 +85,7 @@ Tokhareh dit au vaillant roi :
 
 Firoud approuva ces paroles, banda son arc, le tendit et lança une flèche contre le cheval du Sipehbed, comme un cavalier doit les lancer de son arc.
 
-Le destrier baissa la tête et tomba mort;
+Le destrier baissa la tête et tomba mort ;
 
 Thous, le cœur plein de rage, la tête remplie de vent, s’en retourna au camp à pied, le bouclier pendu à son cou, couvert de poussière et tout confondu.
 
@@ -111,7 +111,7 @@ Mais le noble Guiv était honteux de voir revenir à pied le vaillant Sipehdar e
 >
 > Il ne faut pas que nous nous soumettions à de telles prétentions de sa part.
 >
-> Thous s’est peut-être montré trop emporté, mais Firoud a rempli le monde de discorde;
+> Thous s’est peut-être montré trop emporté, mais Firoud a rempli le monde de discorde ;
 >
 > Nous avons tous dévoué notre vie à venger Siawusch, mais il ne faut pas que nous souffrions en silence cette disgrâce.
 >
