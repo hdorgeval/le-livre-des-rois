@@ -43,7 +43,7 @@ Houman dit à Piran au cœur de lion :
 
 > Désormais je désespère de la victoire.
 >
-> Comment nos braves oseraient-ils aller au combat, puisque le vaillant Kamous y a péri?
+> Comment nos braves oseraient-ils aller au combat, puisque le vaillant Kamous y a péri ?
 >
 > Jamais il n’y eut d’homme plus glorieux que lui, jamais cavalier ne mérita autant le nom de héros au corps d’éléphant ;
 >
