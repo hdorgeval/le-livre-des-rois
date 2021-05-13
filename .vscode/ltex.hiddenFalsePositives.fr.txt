@@ -49,3 +49,4 @@
 {"rule":"ETRE_VPPA_OU_ADJ","sentence":"^\\QLorsque Dara fut remis du deuil de Darab, il éleva le trône des Keïanides au-dessus du soleil.\\E$"}
 {"rule":"VOIE_VOIX","sentence":"^\\QÉloigne-toi de notre présence, tu es un crocodile, ne te mets pas dans la voie des lions.\\E$"}
 {"rule":"ACCORD_NOMBRE","sentence":"^\\QBéni soient sa famille, son armée, son pays, sa stature et sa mine royales !\\E$"}
+{"rule":"ACCORD_GENRE","sentence":"^\\QLe trône sied à l'homme intelligent, car l'or est sans valeur comparé à l'intelligence et tout homme qui est content est riche ; mais un cœur avide est une maison remplie de fumée.\\E$"}
