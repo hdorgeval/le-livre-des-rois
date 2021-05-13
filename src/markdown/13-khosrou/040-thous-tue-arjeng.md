@@ -51,7 +51,7 @@ Il s’élança, fit voler la poussière et provoqua au combat les Iraniens.
 
 Thous le vit de loin, poussa un cri, tira l’épée et dit au fils de Zereh :
 
-> Quel est ton nom?
+> Quel est ton nom ?
 >
 > Qui est ton ami parmi les guerriers turcs ?
 
@@ -113,15 +113,15 @@ Houman répondit :
 >
 > Si c’était à moi qu’Arjeng eût eu affaire, il n’aurait jamais osé me tenir tête.
 >
-> Mais les braves de ton armée n’ont-ils donc aucune honte?
+> Mais les braves de ton armée n’ont-ils donc aucune honte ?
 >
-> Le sang ne bout-il pas dans les veines d’un seul d’entre eux, pour qu’ils permettent à leur chef de se battre?
+> Le sang ne bout-il pas dans les veines d’un seul d’entre eux, pour qu’ils permettent à leur chef de se battre ?
 >
-> Leur main est-elle trop faible pour la lutte?
+> Leur main est-elle trop faible pour la lutte ?
 >
-> Où sont donc Bijen et Guiv les nobles guerriers et Gouderz le maître du monde, le fils de Keschwad?
+> Où sont donc Bijen et Guiv les nobles guerriers et Gouderz le maître du monde, le fils de Keschwad ?
 >
-> Si tu es un Pehlewan, pourquoi quittes-tu le centre de ton armée pour te battre en personne?
+> Si tu es un Pehlewan, pourquoi quittes-tu le centre de ton armée pour te battre en personne ?
 >
 > Les hommes de sens ne voudront plus te reconnaître et les sages t’appelleront fou.
 >
@@ -141,7 +141,7 @@ Houman répondit :
 >
 > Après Rustem fils de Zal fils de Sam le cavalier, je ne connais pas un homme plus glorieux que toi ;
 >
-> De père en fils vous êtes des braves et des princes et qu’est-il besoin d’une armée, si tu veux combattre en personne?
+> De père en fils vous êtes des braves et des princes et qu’est-il besoin d’une armée, si tu veux combattre en personne ?
 >
 > Pars donc et qu’un de tes braves avides de gloire se place en face de moi.
 
@@ -149,7 +149,7 @@ Thous lui dit :
 
 > Ô noble guerrier, je suis le Sipehbed, mais en même temps un cavalier qui veut combattre ;
 >
-> Et toi aussi tu es un grand de l’armée du Touran, pourquoi es-tu venu sur ce champ de bataille?
+> Et toi aussi tu es un grand de l’armée du Touran, pourquoi es-tu venu sur ce champ de bataille ?
 >
 > Si tu voulais suivre mon conseil, tu chercherais à t’allier avec moi ;
 >
@@ -186,7 +186,7 @@ Il sortit des rangs rapidement comme le vent et lui dit :
 
 > Ô illustre Thous !
 
-Ce Turc rusé, qui s’est avancé entre les deux armées l’écume à la bouche, qu’a-t-il donc à te dire en secret dans ce long entretien au milieu des deux armées rangées en bataille?
+Ce Turc rusé, qui s’est avancé entre les deux armées l’écume à la bouche, qu’a-t-il donc à te dire en secret dans ce long entretien au milieu des deux armées rangées en bataille ?
 >
 > Ne lui parle qu’avec l’épée et ne cherche pas la paix.
 
@@ -212,7 +212,7 @@ Lorsque Houman entendit ces paroles, il entra dans une grande colère et dit à 
 
 Celui-ci lui dit :
 
-> Pourquoi te mettre en colère?
+> Pourquoi te mettre en colère ?
 >
 > C’est à moi seul que tu as affaire ici : commençons donc notre combat et que la lutte nous fasse froncer les sourcils.
 
@@ -270,7 +270,7 @@ Mais les grands pleins de bravoure l’entourèrent tous et lui dirent :
 
 Thous releva droit sa lance et Houman secoua les rênes de son cheval, quitta le champ de bataille et se rendit auprès de Piran à travers les rangs des Touraniens, qui lui crièrent :
 
-> Que s’est-il passé lorsque lu as rencontré Thous, ô toi qui recherches les combats?
+> Que s’est-il passé lorsque lu as rencontré Thous, ô toi qui recherches les combats ?
 >
 > Nous avions tous le cœur gonflé de sang et il n’y a que Dieu qui sache ce que nous avons souffert.
 
