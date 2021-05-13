@@ -50,9 +50,9 @@ Il sortit des rangs de l’armée et assis sur son destrier, se dirigea tout sou
 
 Le prince, en le voyant, dit à Tokhareh :
 
-> Qui est-ce qui s’avance là si insolemment?
+> Qui est-ce qui s’avance là si insolemment ?
 >
-> Estce qu’il ne tient pas compte de moi et veut-il monter ici de force?
+> Estce qu’il ne tient pas compte de moi et veut-il monter ici de force ?
 >
 > Il a sous lui un cheval isabelle et au crochet de sa selle pend un lacet.
 
@@ -70,9 +70,9 @@ Le prudent conseiller de Firoud lui répondit :
 
 Lorsque Bahram fut près du sommet, il éleva sa voix qui ressemblait au tonnerre, en criant :
 
-> Qui estu, toi qui te places sur la hauteur et observes cette armée innombrable?
+> Qui estu, toi qui te places sur la hauteur et observes cette armée innombrable ?
 >
-> N’as-tu pas entendu le son des clairons et des timbales?
+> N’as-tu pas entendu le son des clairons et des timbales ?
 >
 > N’as-tu aucune crainte de Thous le sage Sipehdar ?
 
@@ -106,9 +106,9 @@ Bahram répondit :
 
 Firoud lui dit alors :
 
-> Pourquoi n’as-tu pas nommé Bahram?
+> Pourquoi n’as-tu pas nommé Bahram ?
 >
-> Pourquoi as-tu commis l’inconvenance de l’omettre?
+> Pourquoi as-tu commis l’inconvenance de l’omettre ?
 >
 > C’est de tous les fils de Gouderz celui que nous verrions avec le plus de plaisir ; pourquoi n’as-tu pas prononcé son nom ?
 
@@ -116,9 +116,9 @@ Bahram répondit :
 
 > Ô homme au cœur de lion !
 >
-> Qui t’a parlé si honorablement de Bahram?
+> Qui t’a parlé si honorablement de Bahram ?
 >
-> Qui t’a fait connaître Gouderz et Guiv?
+> Qui t’a fait connaître Gouderz et Guiv ?
 >
 > Puisses-tu être à jamais heureux et puisse la grâce de Dieu reposer sur toi !
 
@@ -158,7 +158,7 @@ Si je voyais de mes yeux mon père vivant, je n’en serais pas plus heureux que
 >
 > Ensuite je partirai fièrement à la tête de l’armée pour le Touran, car mon cœur blessé a soif de vengeance ; et je suis digne de la chercher, car dans la bataille et assis sur mon cheval, je suis une flamme dévorante.
 >
-> Veux-tu prier le Pehlewan de me faire la grâce de venir me voir sur ma montagne?
+> Veux-tu prier le Pehlewan de me faire la grâce de venir me voir sur ma montagne ?
 >
 > Nous y passerons sept jours à parler de toutes choses, grandes et petites ; et le huitième, le Sipehdar Thous montera à cheval, lorsque les timbales se feront entendre, je me ceindrai pour venger mon père, je livrerai, dans la douleur de mon cœur, des combats qui feront connaître le lion des batailles, qui montreront ce que peuvent ses flèches empennées de plumes d’aigle, car jamais brave n’a été aussi déterminé à se venger.
 
@@ -176,7 +176,7 @@ Je répéterai à Thous tes paroles, je baiserai sa main pour obtenir ce que tu 
 >
 > Si donc un autre que moi s’avançait vers toi, ne lui laisse pas apercevoir ta tête et ton casque.
 >
-> Thous m’avait dit : Va voir qui est sur cette montagne et quand tu l’auras atteint, ne lui demande pas pourquoi il est là, ne lui parle qu’avec la massue et le poignard ; comment laisserions-nous quelqu’un se placer aujourd’hui sur cette hauteur?
+> Thous m’avait dit : Va voir qui est sur cette montagne et quand tu l’auras atteint, ne lui demande pas pourquoi il est là, ne lui parle qu’avec la massue et le poignard ; comment laisserions-nous quelqu’un se placer aujourd’hui sur cette hauteur ?
 >
 > Si donc Thous s’adoucit, je reviendrai avec cette bonne nouvelle et te conduirai avec joie à notre camp ;
 >
