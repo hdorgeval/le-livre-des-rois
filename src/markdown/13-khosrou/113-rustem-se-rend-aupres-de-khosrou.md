@@ -73,7 +73,7 @@ Ensuite Rustem et les héros remontèrent à cheval, semblables au brillant Ader
 
 Arrivé en présence du roi qui chérissait ses sujets, Rustem courut vers lui et lui offrit ses hommages ; il s’approcha de lui en le bénissant, car Khosrou était digne de bénédictions et d’amour.
 
-Ensuite il releva la tête. le salua et dit :
+Ensuite, il releva la tête. le salua et dit :
 
 > Que la fortune t’accompagne toute l’année ; qu’Ormuzd te maintienne dans ta dignité, en te donnant Bahman pour gardien du trône et du diadème ; qu’Ardibehischt ne cesse de t’être favorable ; que Bahram et Tir veillent sur toi ; que Schahrir te donne la victoire, un grand nom, de la splendeur et de la bravoure ; que Sipendarmed te préserve de tout mal ; que l’intelligence soit la demeure de ton esprit brillant;que Deï et Ferwerdin répandent sur toi leurs faveurs ; que la porte de tout mal soit fermée pour toi ; qu’Ader rende brillants tes jours et tes nuits ; que tu sois heureux et que ta couronne illumine le monde ; qu’Aban te fasse réussir en toutes choses ; que le ciel qui tourne soit ton esclave ; que Murdad garde tes troupeaux ; que tu fleurisses à jamais toi et ta race ; que Khardad fasse prospérer ton pays ; que ta fortune grau : -disse chaque mois de l’année.»
 
