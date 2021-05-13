@@ -66,7 +66,7 @@ Rustem lui répondit :
 
 Il ordonna qu’on apportât sur-le-champ devant la pauvresse tout ce qu’il y avait de nourriture dans la maison et se mit à lui adresser des questions : Comment se fait-il que tu sois si malheureuse ?
 
-Pourquoi me parlestu de ces héros et du trône du roi?pourquoi regardes-tu la route de l’Iran?»
+Pourquoi me parles-tu de ces héros et du trône du roi?pourquoi regardes-tu la route de l’Iran?»
 
 Menijeh lui répondit :
 
