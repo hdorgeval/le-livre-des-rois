@@ -126,9 +126,9 @@ Ils fermèrent la porte et continuèrent le combat en décochant des flèches du
 
 > Ô homme fort et prudent, ô éléphant revêtu d’une peau de léopard !
 >
-> Quel nom ton père t’a-t-il donné à ta naissance?
+> Quel nom ton père t’a-t-il donné à ta naissance ?
 >
-> N’es-tu qu’un homme qui lance le lacet, ou bien es-tu le firmament des batailles?
+> N’es-tu qu’un homme qui lance le lacet, ou bien es-tu le firmament des batailles ?
 >
 > C’est perdre ta peine que d’attaquer cette ville, que les sages appellent la ville des combats.
 >
