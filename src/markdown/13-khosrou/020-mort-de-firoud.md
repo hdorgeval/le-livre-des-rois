@@ -45,7 +45,7 @@ Sa joue fut inondée de larmes de sang, son esprit fut confondu et elle courut a
 
 Le jeune homme répondit à sa mère :
 
-> Jusqu’à quand verseras-tu ainsi des larmes de douleur?
+> Jusqu’à quand verseras-tu ainsi des larmes de douleur ?
 >
 > Ma vie est entièrement finie, ne la compte plus parmi les biens de ce monde.
 >
