@@ -18,7 +18,7 @@ Keï Khosrou écouta le discours du Destau et se contint pendant un temps en ét
 >
 > Aussi vais-je te répondre doucement et ne pas briser ton cœur par mes paroles.»
 
-Ensuite il dit à haute voix :
+Ensuite, il dit à haute voix :
 
 > Ô héros à la fortune victorieuse, j’ai écouté tout ce que le Destau a dit devant mes sujets !
 >
@@ -62,18 +62,20 @@ J Alors, il s’adressa à Zal, disant :
 
 À ces paroles, le Destau fut confondu et ses yeux se troublèrent.
 
-Il se leva en poussant un cri et resta debout, s’écriaut : Ô roi, adorateur de Dieu !
+Il se leva en poussant un cri et resta debout, s’écriaut :
 
-J’ai parlé à la hâte et comme un insensé ; tu es un saint et’un sage béni de Dieu.
-
-Puisses-tu me pardonner la faute à laquelle m’a entraîné le Div !
-
-Pendant des années innombrables je me suis tenu devant les rois, ceint pour leur service ; mais jamais je n’ai vu un roi demander de cette manière à Dieu, le créateur du soleil et de la lune, la voie à suivre.
-
-Khosrou est devenu notre guide, puisse le malheur rester loin de lui !
-
-J’aurais voulu ne pas me séparer de toi ; ma raison en est témoin pour mon âme troublée ; cependant ta résolution douons quitter doit prévaloir dans l’Iran, auprès de tous les amis du roi, sur la peine qu’elle leur donne.
-
-Mais nous ne désirions pas nous séparer de toi, ô Khosrou, notre juste et bienveillant maître!»
+> Ô roi, adorateur de Dieu !
+>
+> J’ai parlé à la hâte et comme un insensé ; tu es un saint et’un sage béni de Dieu.
+>
+> Puisses-tu me pardonner la faute à laquelle m’a entraîné le Div !
+>
+> Pendant des années innombrables je me suis tenu devant les rois, ceint pour leur service ; mais jamais je n’ai vu un roi demander de cette manière à Dieu, le créateur du soleil et de la lune, la voie à suivre.
+>
+> Khosrou est devenu notre guide, puisse le malheur rester loin de lui !
+>
+> J’aurais voulu ne pas me séparer de toi ; ma raison en est témoin pour mon âme troublée ; cependant ta résolution douons quitter doit prévaloir dans l’Iran, auprès de tous les amis du roi, sur la peine qu’elle leur donne.
+>
+> Mais nous ne désirions pas nous séparer de toi, ô Khosrou, notre juste et bienveillant maître!»
 
 Quand le roi eut entendu les paroles du Destau, il approuva les excuses de son vieil ami ; il étendit sa main, saisit celle de Zal et le conduisit sur le trône à côté de lui, car il savait qu’il n’avait parlé ainsi que par tendresse pour le roi au visage de soleil.
