@@ -102,20 +102,20 @@ Les grands de l’Iran partirent désespérés ; les braves se rendirent à la c
 
 > C’est l’œuvre de Dieu.
 >
-> Qui de nous voulait combattre Firoud?
+> Qui de nous voulait combattre Firoud ?
 >
 > Lorsque tomba le fils de Thous et ensuite son gendre Rivniz, la douleur troubla la tête des héros ;
 >
 > Jamais on n’a vu pareille infortune.
 >
-> Qui de nous connaissait le nom et les signes qui distinguaient Firoud, dont la mort devait déchirer le cœur du roi?
+> Qui de nous connaissait le nom et les signes qui distinguaient Firoud, dont la mort devait déchirer le cœur du roi ?
 >
 > Intercède pour nous ;
 >
 > Le roi est jeune et il renoncera peut-être à se venger.
 >
-> Rivniz, qui a péri si misérablement, n’était-il donc pas le fils puîné de Kaous?
+> Rivniz, qui a péri si misérablement, n’était-il donc pas le fils puîné de Kaous ?
 >
-> N’était-il pas un brave et le favori du père de Khosrou au visage brillant comme la lune?
+> N’était-il pas un brave et le favori du père de Khosrou au visage brillant comme la lune ?
 >
 > Telle est la fin et le sort des combats ; l’un y trouve une couronne et l’autre une tombe étroites ;
