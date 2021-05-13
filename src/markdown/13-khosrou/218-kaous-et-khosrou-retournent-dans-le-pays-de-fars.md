@@ -17,7 +17,7 @@ Lui et son grand-père versèrent beau-coup d’or sur le feu, récitèrent leur
 Quand Zerasp, le trésorier de Keï Khosrou, arriva, Kaous donna tout un trésor à Adergonschasp et aux Mobeds des robes d’honneur, de l’or, de l’argent et beaucoup d’autres choses ; il distribua un autre trésor aux pau-
 vres de la ville et à ceux qui vivaient du travail de leurs mains et rajeunit le monde par sa justice et sa libéralité.
 
-Ensuite il monta sur le trône. des Keïanides, ouvrit la porte de la salle d’audience et resta silen-Cieux.
+Ensuite, il monta sur le trône. des Keïanides, ouvrit la porte de la salle d’audience et resta silen-Cieux.
 
 On écrivit une lettre dans chaque province, à chaque seigneur et à chaque prince ; depuis l’orient jusqu’à l’occident il y eut une lettre pour chaque endroit où se trouvait un prince illustre, annonçant que la terre était délivrée de l’oppression du dragon par l’épée de Keï Khosrou, qui, grâce à la force que.
 
