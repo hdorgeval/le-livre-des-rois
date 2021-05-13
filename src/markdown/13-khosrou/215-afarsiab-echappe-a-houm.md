@@ -53,7 +53,7 @@ Il aperçut Houm qui tenait son lacet et courait sur le bord de l’eau comme un
 
 Il vit aussi que l’eau était trouble ; il observa ce serviteur de Dieu qui avait les yeux égarés et dit en lui-même :
 
-> Estce que ce saint homme pêcherait dans le lac de Khandjest ?
+> Est-ce que ce saint homme pêcherait dans le lac de Khandjest ?
 >
 > Un crocodile aurait-il saisi l’hameçon destiné à un poisson et l’homme serait-il confondu à cet aspect?»
 
@@ -61,7 +61,7 @@ Il dit à Houm :
 
 > Ô saint homme, fais-moi connaître ton secret ; que cherches-tu dans cette eau du lac ?
 >
-> Estce que tu veux y laver ton corps malpropre?»
+> Est-ce que tu veux y laver ton corps malpropre?»
 
 Houm lui répondit :
 
