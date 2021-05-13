@@ -113,7 +113,7 @@ Piran dit au vaillant Houman :
 
 Houman lui dit :
 
-> Ô Pehlewan, pourquoi troubler ton esprit par les soucis?
+> Ô Pehlewan, pourquoi troubler ton esprit par les soucis ?
 >
 > Ce n’est pas Rustem, ce n’est pas l’armée du Seïstan et Feribourz ne fera ici que verser son sang et trouver une tombe.
 
@@ -125,9 +125,9 @@ Piran lui répondit :
 
 Kelbad lui dit :
 
-> Pourquoi s’affliger?
+> Pourquoi s’affliger ?
 >
-> Pourquoi pleurer à cause de Thous et de Rustem?
+> Pourquoi pleurer à cause de Thous et de Rustem ?
 >
 > Nous avons tant de javelots et d’épées, tant d’éléphants de guerre, que le vent ne peut se frayer un passage à travers.
 >
@@ -135,7 +135,7 @@ Kelbad lui dit :
 
 Une poignée de poussière.
 >
-> Pourquoi craindre Khosrou, Thous et Rustem?
+> Pourquoi craindre Khosrou, Thous et Rustem ?
 >
 > Ils se sont enfuis d’ici, ils se sont retirés sous leurs tentes.
 
@@ -179,7 +179,7 @@ Mais l’armée lui répondit :
 >
 > Et par ordre du Créateur du soleil et de la lune, Tehemten paraîtra sur ce champ de bataille.
 >
-> Pourquoi désespères-tu de ton étoile?
+> Pourquoi désespères-tu de ton étoile ?
 >
 > Distribue de l’or et de l’argent aux pauvres ;
 >
