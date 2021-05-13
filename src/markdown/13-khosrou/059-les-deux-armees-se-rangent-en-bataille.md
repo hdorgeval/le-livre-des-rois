@@ -99,7 +99,7 @@ Kamous lui répondit :
 >
 > Sache que quand même Keï Khosrou serait venu nous combattre, tu ne devrais pas t’en effrayer si follement.
 >
-> Que parles-tu donc tant de Rustem?
+> Que parles-tu donc tant de Rustem ?
 >
 > Ne prononce plus jamais le nom du Zaboulistan.
 >
