@@ -53,7 +53,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Afrasiab a hérité la mauvaise nature de ces rois insensés ; il a commencé de nouvelles guerres contre Minoutchehr, Newder et Keïkobad ; il a accumulé des malheurs sur Keï Kaous et a dévasté tous les pays cultivés de l’Irau.
 >
-> Ensuite il a allmné de nouvelles haines par le meurtre de Siawusch et tu ne pensais pas à la justice quand cet innocent a livré sa douce vie.
+> Ensuite, il a allmné de nouvelles haines par le meurtre de Siawusch et tu ne pensais pas à la justice quand cet innocent a livré sa douce vie.
 >
 > Que de grands de l’Iran, maîtres de couronnes et de trônes, ont péri dans ces guerres !
 >
@@ -161,7 +161,7 @@ rent avec mépris les avis qu’il leur avait donnés.
 
 Ils célébrèrent les louanges de Gouderz, ils l’appelerent le Pehlewan du monde.
 
-Ensuite il apposa son sceau sur la lettre et la remit à Rouïn fils de Pirau fils de Wiseh.
+Ensuite, il apposa son sceau sur la lettre et la remit à Rouïn fils de Pirau fils de Wiseh.
 
 Au moment où les Touraniens se levè-rent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Roui’n des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or, età ses compagnons de l’argent et de l’or et des casques et des ceintures à ceux qui pouvaient y prétendre.
 
