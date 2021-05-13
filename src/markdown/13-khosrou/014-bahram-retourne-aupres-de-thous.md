@@ -29,7 +29,7 @@ order: '014'
 
 Bahram, à son retour, dit à Thous :
 
-> Puisse la raison être la compagne de ton âme pure!
+> Puisse la raison être la compagne de ton âme pure !
 >
 > Sache que c’est Firoud, le fils du roi Siawusch, qui fut tué si injustement.
 >
@@ -49,7 +49,7 @@ L’injuste Thous lui répondit :
 >
 > Il a vu notre armée et a eu recours à la ruse et tu t’es donné en vain la peine de monter et de descendre.
 
-Ensuite il dit à ses braves :
+Ensuite, il dit à ses braves :
 
 > Ô héros destructeurs de vos ennemis !
 
@@ -63,11 +63,11 @@ Mais Bahram lui dit :
 
 Aie devant les yeux la crainte du maître du soleil et de la lune, n’oublie pas que tu aurais à rougir devant le roi.
 >
-> Ce Firoud est de sa famille et son frère;
+> Ce Firoud est de sa famille et son frère ;
 >
-> Ensuite c’est un cavalier illustre et avide de combats;
+> Ensuite c’est un cavalier illustre et avide de combats ;
 >
-> Et un cavalier seul qui se détacherait de l’armée et l’affronterait sur la crête de la montagne ne se tirerait pas en vie de ses mains;
+> Et un cavalier seul qui se détacherait de l’armée et l’affronterait sur la crête de la montagne ne se tirerait pas en vie de ses mains ;
 >
 > De sorte que tu ne fais que préparer des soucis à ton cœur joyeux.
 
