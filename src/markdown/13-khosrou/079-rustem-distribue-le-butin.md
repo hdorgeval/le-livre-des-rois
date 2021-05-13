@@ -52,25 +52,25 @@ Rustem dit aux Iraniens :
 >
 > Inclinez tous vos fronts jusqu’à la terre noire, ensuite mettez des couronnes sur vos têtes, car il ne nous manque aucun des grands sur lesquels nous avions de l’inquiétude.
 >
-> Lorsque le roi du monde reçut de vos nouvelles, il me raconta ce qui était connu et ce qui était secret;
+> Lorsque le roi du monde reçut de vos nouvelles, il me raconta ce qui était connu et ce qui était secret ;
 >
 > Il me dit que le Sipehbed Thous s’était retiré dans la montagne de peur de Piran et de Houman.
 >
 > Ces paroles du roi me rendirent comme insensé, mon cerveau s’enflamma d’une ardeur guerrière et mon âme devint noire comme l’ébène, lorsque je pensai à Bahram, à Gouderz et à Rivniz.
 >
-> Je quittai l’Iran en toute hâte, et, impatient de me battre, je ne m’arrêtai pas en route un instant;
+> Je quittai l’Iran en toute hâte, et, impatient de me battre, je ne m’arrêtai pas en route un instant ;
 >
-> Mais lorsque mes regards tombèrent sur le Khakan de la Chine, sur ces grands et ces braves et surtout sur Kamous avec sa mine et sa stature, ses bras et ses jambes, ses mains et sa massue, je me dis que ma fin était venue;
+> Mais lorsque mes regards tombèrent sur le Khakan de la Chine, sur ces grands et ces braves et surtout sur Kamous avec sa mine et sa stature, ses bras et ses jambes, ses mains et sa massue, je me dis que ma fin était venue ;
 >
 > Car depuis que j’étais devenu homme et que j’avais pris les armes, je n’avais jamais vu, pendant une longue vie, plus d’hommes rassemblés et un plus grand appareil de guerre.
 >
-> Je me suis vu chez les Divs du Mazenderan, dans la nuit noire et au milieu de leurs lourdes massues;
+> Je me suis vu chez les Divs du Mazenderan, dans la nuit noire et au milieu de leurs lourdes massues ;
 >
 > Néanmoins mon courage ne fléchit pas un instant et je ne me disais pas que ma vie fût en péril.
 >
 > Mais aujourd’hui j’ai senti ma fortune s’obscurcir et mon cœur qui prête au monde son éclat est devenu sombre.
 >
-> Maintenant il est de notre devoir de nous prosterner humblement dans la poussière devant Dieu le tout saint;
+> Maintenant il est de notre devoir de nous prosterner humblement dans la poussière devant Dieu le tout saint ;
 >
 > Car c’est lui qui nous a donné de la force, une étoile puissante et la faveur de Saturne et du Soleil.
 >
@@ -82,21 +82,21 @@ Puissions-nous échapper aux angoisses du malheur !
 >
 > Maintenant dépouillez-vous de vos armures et que la parure embellisse votre repos.
 >
-> Sans doute les soucis et les joies du cœur sont également fugitifs et le destin compte nos respirations;
+> Sans doute les soucis et les joies du cœur sont également fugitifs et le destin compte nos respirations ;
 >
 > Mais il vaut mieux les compter la coupe en main et oublier cette voûte du ciel qui n’est l’amie de personne.
 >
-> Buvons donc du vin jusqu’à minuit, célébrons la mémoire des braves, rendons grâces au Maître du monde, au Maître de la victoire, de qui viennent la bravoure, le bonheur et les hauts faits;
+> Buvons donc du vin jusqu’à minuit, célébrons la mémoire des braves, rendons grâces au Maître du monde, au Maître de la victoire, de qui viennent la bravoure, le bonheur et les hauts faits ;
 >
 > Et n’attachons pas, au milieu des soucis et des peines, notre cœur à ce séjour passager.
 
 Les grands le bénirent, disant :
 
-> Puissent le diadème et le sceau n’être jamais privés de toi!
+> Puissent le diadème et le sceau n’être jamais privés de toi !
 >
 > Celui qui te ressemble, ô héros au corps d’éléphant, élève sa tête au-dessus du ciel qui tourne, même quand il est le sujet d’un autre.
 >
-> Tu sais ce que tu as fait par affection pour nous : que le ciel se réjouisse de ce que tu vis!
+> Tu sais ce que tu as fait par affection pour nous : que le ciel se réjouisse de ce que tu vis !
 >
 > Nous étions battus, notre jour avait baissé, c’est à toi que nous devons notre vie et notre gloire.
 >
@@ -104,21 +104,21 @@ Les grands le bénirent, disant :
 
 Bénie la mère qui met au monde un fils comme toi !
 
-Rustem fit amener l’éléphant chargé du trône d’ivoire, du collier et de la couronne d’or;
+Rustem fit amener l’éléphant chargé du trône d’ivoire, du collier et de la couronne d’or ;
 
-Il demanda du vin royal et des coupes et porta d’abord la santé du roi du monde;
+Il demanda du vin royal et des coupes et porta d’abord la santé du roi du monde ;
 
-Il fit sonner des trompettes du haut de l’éléphant et le bruit s’entendit à plusieurs milles;
+Il fit sonner des trompettes du haut de l’éléphant et le bruit s’entendit à plusieurs milles ;
 
 Et lorsque le Pehlewan du monde se fut égayé en buvant du vin, les grands partirent comblés de joie et de bonheur.
 
-Dès que la lune eut déchiré le voile de la nuit et établi son trône sur le firmament de turquoise, Rustem envoya des vedettes dans la large plaine;
+Dès que la lune eut déchiré le voile de la nuit et établi son trône sur le firmament de turquoise, Rustem envoya des vedettes dans la large plaine ;
 
 Et lorsque les ténèbres tardives de la nuit eurent disparu et que le poignard brillant du soleil se fut montré et eut rendu la surface de la terre semblable au rubis, on entendit le tambour dans l’enceinte des tentes du Pehlewan et les braves de l’armée quittèrent leurs couches.
 
 Rustem dit à ces hommes qui portaient haut la tête :
 
-> On n’a trouvé nulle part de traces de Piran!
+> On n’a trouvé nulle part de traces de Piran !
 >
 > Il faut vous rendre sur le champ de bataille et envoyer des troupes de tous côtés.
 
@@ -146,7 +146,7 @@ Il se tourna ensuite vers Thous, furieux et semblable à un léopard et lui dit 
 >
 > Tu es d’un pays et moi d’un autre.
 >
-> Si vous êtes si forts, combattez vous-mêmes;
+> Si vous êtes si forts, combattez vous-mêmes ;
 >
 > Pourquoi m’appelleriez-vous dorénavant à votre aide?
 >
@@ -156,59 +156,59 @@ Il se tourna ensuite vers Thous, furieux et semblable à un léopard et lui dit 
 >
 > Si tu rencontres une de ces vedettes, brise-lui sur-le-champ les mains et les pieds avec un bâton, prends ce qu’il possède, charge ses pieds de fer, jette-le sur le dos d’un éléphant et envoie-le dans cet état au roi, pour voir si à la cour il apprendra à obéir.
 >
-> Cherche l’or, les pierreries, les trônes d’ivoire, les pièces de brocart, les diadèmes, les trésors et les couronnes que les Iraniens auront pris et réunis tout ce butin précieux;
+> Cherche l’or, les pierreries, les trônes d’ivoire, les pièces de brocart, les diadèmes, les trésors et les couronnes que les Iraniens auront pris et réunis tout ce butin précieux ;
 >
 > Car sur cette plaine ont campé beaucoup de rois et les grands du monde entier, venus de la Chine, du Seklab, de l’Inde et du Wahr, tous riches et maîtres de provinces.
 >
 > Il faut choisir dans tout cela d’abord des présents pour le roi, ensuite ma part et enfin la tienne.
 
-Le Sipehbed partit et rassembla tout le butin;
+Le Sipehbed partit et rassembla tout le butin ;
 
-Les braves se répandirent sur le champ de bataille;
+Les braves se répandirent sur le champ de bataille ;
 
 Et les ceintures d’or, les couronnes de turquoise, les brocarts, les bracelets, les trônes d’ivoire, les flèches, les arcs, les caparaçons des chevaux, les massues et les épées indiennes qu’on entassa entre les deux montagnes en formèrent une troisième que l’armée entourait avec curiosité.
 
 Un cavalier exercé à tirer de l’arc, large de poitrine, robuste de corps et vaillant, qui aurait lancé une flèche à quatre plumes, n’aurait pu la faire passer au delà de cet amas de dépouilles.
 
-Quand Rustem le vit, il en demeura étonné;
+Quand Rustem le vit, il en demeura étonné ;
 
 Il invoqua à plusieurs reprises la grâce de Dieu et dit :
 
-> La fortune inconstante nous prépare tantôt une fête, tantôt une bataille;
+> La fortune inconstante nous prépare tantôt une fête, tantôt une bataille ;
 >
-> Elle transfère ses richesses de l’un à l’autre;
+> Elle transfère ses richesses de l’un à l’autre ;
 >
 > Elle les donne tantôt en maudissant, tantôt en bénissant.
 >
 > L’un amasse un trésor et un autre vient en jouir.
 >
-> Kamous et le Khakan ont voulu mettre à feu le pays d’Iran ; ils ont amené ces éléphants de guerre et ces trésors, cette armée et ce riche bagage;
+> Kamous et le Khakan ont voulu mettre à feu le pays d’Iran ; ils ont amené ces éléphants de guerre et ces trésors, cette armée et ce riche bagage ;
 >
 > Ils se glorifiaient de leurs richesses et de cette multitude d’hommes et pendant longtemps ils ne se sont pas souvenus de Dieu qui a créé le ciel, la terre et le temps, qui a créé ce que nous voyons et ce que nous ne voyons pas.
 >
-> Cherche à connaître Dieu, adore-le;
+> Cherche à connaître Dieu, adore-le ;
 >
-> C’est en lui que le sage met sa confiance;
+> C’est en lui que le sage met sa confiance ;
 >
 > C’est lui qui nous a donné la force et le pouvoir, qui nous fait prospérer et nous accorde du bonheur.
 >
 > Leur armée est détruite, leurs trésors amassés sont perdus, parce que tous leurs desseins étaient injustes.
 >
-> Ces grands de tous les pays, ces princes, l’élite des royaumes, je les enverrai au roi montés sur leurs éléphants de guerre, avec leurs trônes d’or et leurs diadèmes d’or;
+> Ces grands de tous les pays, ces princes, l’élite des royaumes, je les enverrai au roi montés sur leurs éléphants de guerre, avec leurs trônes d’or et leurs diadèmes d’or ;
 >
 > J’enverrai chargé sur des dromadaires ardents tout ce qui est digne de Khosrou parmi ces richesses.
 >
 > Ensuite je marcherai sur Gangue ; car un homme de sens ne perd pas de temps et ce serait une honte de laisser en vie dans ce pays un seul de ces criminels souillés de sang.
 >
-> Je purifierai le monde avec l’épée ; je ne ferai pas grâce aux méchants;
+> Je purifierai le monde avec l’épée ; je ne ferai pas grâce aux méchants ;
 >
 > Je jetterai dans la poussière la tête des idolâtres et ferai fleurir le culte de Dieu le tout saint.
 
 Gouderz lui répondit :
 
-> Ô homme de bon conseil, puisses-tu vivre aussi longtemps que subsistera le monde!
+> Ô homme de bon conseil, puisses-tu vivre aussi longtemps que subsistera le monde !
 >
-> Puisses-tu combler les vœux du roi et être heureux!
+> Puisses-tu combler les vœux du roi et être heureux !
 >
 > Tu as fait dans ce combat tout ce qui pouvait se faire.
 
@@ -216,7 +216,7 @@ Tehemten chercha alors un messager qui pût porter à ce roi impétueux les pre
 
 Il lui dit :
 
-> Ô illustre prince, tu es de la race des rois et de rang royal;
+> Ô illustre prince, tu es de la race des rois et de rang royal ;
 >
 > Tu es prudent, sage, noble, heureux et tu rends heureux tes inférieurs.
 >
