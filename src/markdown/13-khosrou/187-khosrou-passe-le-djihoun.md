@@ -16,7 +16,7 @@ Aussitôt que son armée eut traversé le lleuve, il envoya des messagers à tou
 
 Il distribua de grands trésors aux pauvres, en donnant davantage à ceux qui étaient heureux de le voir.
 
-Ensuite il s’avança sur la frontière de Soghd, où il trouva un monde tout nouveau, qui était la demeure des hiboux.
+Ensuite, il s’avança sur la frontière de Soghd, où il trouva un monde tout nouveau, qui était la demeure des hiboux.
 
 Il distribua encore des trésors dans ce pays et désira qu’il lût cultivé.
 
@@ -30,7 +30,7 @@ Il ordonna à l’armée, qui arrivait de Berda et d’Ardebil, de s’avancer p
 
 Cette armée partit sous le commandement de Gustehem, qui ne s’ell’rayait pas du combat des lions.
 
-Ensuite il ordonna à l’armée venue du Nimronz de partir avec Rustem, le destructeur des braves et de monter sur des chevaux forts comme des dromadaires ardents à la course, en tenant en laisse des chevaux frais, pour surprendre les Turcs par une marche rapide.
+Ensuite, il ordonna à l’armée venue du Nimronz de partir avec Rustem, le destructeur des braves et de monter sur des chevaux forts comme des dromadaires ardents à la course, en tenant en laisse des chevaux frais, pour surprendre les Turcs par une marche rapide.
 
 Ces deux chefs, l’honneur des couronnes qu’ils portaient, partirent, l’un vers le désert, l’autre vers Djadj.
 
@@ -38,7 +38,7 @@ Le roi lui-même resta un mois dans le pays de Soghd, qui lui devint tout dévou
 
 Il rassembla tous ceux qui étaient propres au combat, qui contraissaient l’art et les ruses des sièges ; il s’en lit (les amis et remplit de terreur la tête des méchants.
 
-Ensuite il partit du pays de Soghd et de Kaschan avec une armée fière, couverte d’armures, préparée au combat et telle que le monde en resta confondu.
+Ensuite, il partit du pays de Soghd et de Kaschan avec une armée fière, couverte d’armures, préparée au combat et telle que le monde en resta confondu.
 
 Les Turcs apprirent que l’armée de Khosrou, qui ambitionnait la possession du monde et qui cherchait la vengeance, s’avançait : tous se réfugièrent dans les châteaux forts, le monde se remplit d’agitation et de bruit.
 
