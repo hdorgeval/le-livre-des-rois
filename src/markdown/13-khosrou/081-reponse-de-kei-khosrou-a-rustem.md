@@ -64,7 +64,7 @@ Il commença par les louanges du Créateur,
 >
 > Tout ce que tu m’annonces, les prisonniers, les éléphants, les trônes et les diadèmes, les brocarts de la Chine, le trône d’ivoire, les chevaux arabes, les colliers et les couronnes, les chameaux innombrables chargés d’étoffes, d’habillements et de tapis, tout cela est arrivé dans mon palais et tout sert à mes plaisirs, à mes fêtes et à mes banquets.
 >
-> Mais qui voudra se présenter devant toi dans la bataille, à moins d’avoir d’avance perdu la tête et d’être las de la vie?
+> Mais qui voudra se présenter devant toi dans la bataille, à moins d’avoir d’avance perdu la tête et d’être las de la vie ?
 >
 > J’ai été bien soucieux, en pensant à toi jour et nuit, à cause des fatigues que te donnent une si grande armée et la nécessité d’être jour et nuit sur le champ de bataille ;
 >
