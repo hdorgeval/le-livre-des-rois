@@ -26,7 +26,7 @@ Mais le gendre de Thous, sur lequel le ciel tournait avec dérision, se remit en
 
 Lorsque Firoud l’aperçut du haut de la montagne, il tira de l’étui son arc royal, en disant à Tokhareh le guerrier expérimenté :
 
-> Thous méprise mes paroles, car voici un cavalier qui s’approche et ce n’est pas Bahram;
+> Thous méprise mes paroles, car voici un cavalier qui s’approche et ce n’est pas Bahram ;
 >
 > Mon cœur est opprimé et inquiet.
 >
@@ -34,7 +34,7 @@ Lorsque Firoud l’aperçut du haut de la montagne, il tira de l’étui son arc
 
 Tokhareh lui répondit :
 
-> C’est Rivniz, un vaillant cavalier;
+> C’est Rivniz, un vaillant cavalier ;
 >
 > Il a quarante sœurs semblables au gai printemps, mais il est le seul fils de son père.
 >
@@ -42,7 +42,7 @@ Tokhareh lui répondit :
 
 Firoud répondit à son sage compagnon :
 
-> Il ne faut pas louer l’ennemi au moment du combat;
+> Il ne faut pas louer l’ennemi au moment du combat ;
 >
 > S’il vient nous attaquer, je le coucherai sur le pan des robes de ses sœurs.
 >
@@ -54,7 +54,7 @@ Firoud répondit à son sage compagnon :
 
 Tokhareh répondit :
 
-> Dirige ta flèche contre l’homme;
+> Dirige ta flèche contre l’homme ;
 >
 > Peut-être qu’alors Thous se repentira, en voyant que tu es résolu à résister après lui avoir fait des offres de paix.
 >
