@@ -24,7 +24,7 @@ Lorsque Rustem se réveilla, il fut consterné, il trembla et son esprit se remp
 >
 > Mon entreprise porte malheur au monde et mon projet prend une triste fin.
 >
-> Qui est-ce qui me vengera de ce Div horrible?
+> Qui est-ce qui me vengera de ce Div horrible ?
 >
 > Hélas !
 
@@ -32,7 +32,7 @@ Jamais il ne trouvera un adversaire comme moi.
 
 Pendant que Rustem tremblait ainsi pour sa vie, Akwan lui dit :
 
-> Ô héros au corps d’éléphant, dis-moi où tu veux que je te laisse tomber du haut des nues?
+> Ô héros au corps d’éléphant, dis-moi où tu veux que je te laisse tomber du haut des nues ?
 >
 > Veux-tu que je te jette dans la mer, ou sur la montagne où tu tomberas loin des hommes ?
 
