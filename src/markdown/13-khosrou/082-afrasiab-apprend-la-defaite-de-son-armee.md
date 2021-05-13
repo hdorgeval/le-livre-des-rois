@@ -32,33 +32,33 @@ order: '082'
 
 # Afrasiab apprend la défaite de son armée
 
-Afrasiab reçut la nouvelle qu’une flamme était sortie des flots du Schahd;
+Afrasiab reçut la nouvelle qu’une flamme était sortie des flots du Schahd ;
 
 Il apprit le malheur qui frappait le Touran par la défaite de Kamous, de Manschour et du Khakan.
 
-Il apprit qu’il était venu de l’Iran un crocodile qui effrayait le ciel dans sa rotation;
+Il apprit qu’il était venu de l’Iran un crocodile qui effrayait le ciel dans sa rotation ;
 
-> Que le combat avait duré quarante jours, que pendant ce temps on n’avait pas pu distinguer les jours et les nuits et que la poussière avait fait disparaître le soleil;
+> Que le combat avait duré quarante jours, que pendant ce temps on n’avait pas pu distinguer les jours et les nuits et que la poussière avait fait disparaître le soleil ;
 >
-> Qu’à la fin la fortune qui veillait sur lui s’était endormie et qu’il ne restait pas de cette glorieuse armée un seul cavalier en état de combattre;
+> Qu’à la fin la fortune qui veillait sur lui s’était endormie et qu’il ne restait pas de cette glorieuse armée un seul cavalier en état de combattre ;
 >
-> Qu’on avait attaché avec de lourdes chaînes les grands et quelques-uns des rois illustres;
+> Qu’on avait attaché avec de lourdes chaînes les grands et quelques-uns des rois illustres ;
 >
-> Qu’on les avait jetés ignominieusement sur le dos des éléphants au milieu d’une armée qui couvrait l’espace de plusieurs milles;
+> Qu’on les avait jetés ignominieusement sur le dos des éléphants au milieu d’une armée qui couvrait l’espace de plusieurs milles ;
 >
-> Qu’on avait amené dans l’Iran des milliers de grands du Touran et le Khakan de la Chine;
+> Qu’on avait amené dans l’Iran des milliers de grands du Touran et le Khakan de la Chine ;
 >
-> Que le champ de bataille était tellement encombré de morts que personne ne pouvait s’y frayer un chemin;
+> Que le champ de bataille était tellement encombré de morts que personne ne pouvait s’y frayer un chemin ;
 >
-> Que Piran avait pris la route de Khoten, accompagné d’un noble cortège;
+> Que Piran avait pris la route de Khoten, accompagné d’un noble cortège ;
 >
-> Que les troupes du Kaschan, de la Chine et du Wahr étaient dissipées;
+> Que les troupes du Kaschan, de la Chine et du Wahr étaient dissipées ;
 >
-> Que les habitants des tentes et ceux des frontières et ceux des villes s’étaient enfuis;
+> Que les habitants des tentes et ceux des frontières et ceux des villes s’étaient enfuis ;
 >
-> Que la terre était couverte de sang et de cervelles à une distance de plus de trois milles;
+> Que la terre était couverte de sang et de cervelles à une distance de plus de trois milles ;
 >
-> Que les grands et les éléphants avaient péri;
+> Que les grands et les éléphants avaient péri ;
 >
 > Qu’une armée iranienne s’approchait ayant à sa tête Tehemten avide de vengeance et qu’elle ferait disparaître les plaines et les montagnes, si elle arrivait pour livrer bataille.
 
@@ -68,15 +68,15 @@ Il appela les Mobeds et les nobles et leur exposa longuement ce qui s’était p
 
 > On dirait que la douleur que j’éprouve du sort de Kamous et du Khakan m’atterre.
 >
-> Maintenant qu’une si grande armée a été battue et détruite et que les deux tiers de ses braves sont captifs, que faire et quel remède y apporter!
+> Maintenant qu’une si grande armée a été battue et détruite et que les deux tiers de ses braves sont captifs, que faire et quel remède y apporter !
 >
 > Car nous ne pouvons rester inactifs après ce revers.
 >
 > Si Rustem marche contre nous, il ne restera pas même une ronce ni une herbe dans ce pays, surtout s’il est encore tel que je l’ai vu quand j’ai si souvent plié devant lui dans la bataille.
 >
-> Il était encore tout jeune, semblable à un roseau, quand je menai une armée à Reï;
+> Il était encore tout jeune, semblable à un roseau, quand je menai une armée à Reï ;
 >
-> Il m’attaqua, m’enleva de la selle, de manière à frapper d’étonnement les deux armées;
+> Il m’attaqua, m’enleva de la selle, de manière à frapper d’étonnement les deux armées ;
 >
 > Ma ceinture et les boutons de ma tunique se rompirent et je tombai de sa main sur la terre la tête en bas.
 >
@@ -94,15 +94,15 @@ Les grands lui répondirent en se levant tous ensemble et s’écriant :
 >
 > Pourquoi prôner ainsi le nom de ton ennemi?
 >
-> Nos mères nous ont tous mis au monde pour mourir;
+> Nos mères nous ont tous mis au monde pour mourir ;
 >
 > Nous avons serré nos ceintures pour le combat et nous ne les desserrerons pas.
 >
-> S’il ose fouler de ses pieds notre pays, il se repentira d’en avoir soulevé la poussière;
+> S’il ose fouler de ses pieds notre pays, il se repentira d’en avoir soulevé la poussière ;
 >
 > Car si nous nous ceignons pour la guerre, il ne restera pas en vie un seul Iranien.
 
-Le roi écouta les paroles des nobles guerriers, il choisit ceux qui parlaient le plus haut;
+Le roi écouta les paroles des nobles guerriers, il choisit ceux qui parlaient le plus haut ;
 
 Il appela auprès de lui les braves et ceux qui portaient haut la tête, renonça au sommeil, au repos et à la nourriture, ouvrit la porte de ses trésors et distribua de l’or.
 
