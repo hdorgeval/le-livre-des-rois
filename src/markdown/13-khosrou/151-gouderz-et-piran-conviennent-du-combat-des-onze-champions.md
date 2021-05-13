@@ -33,7 +33,7 @@ Gouderz répondit :
 
 > Ô mon fils, sans au-cun doute son heure est dans ma main ; et je vengerai sur lui, avec la force que Dieu le créateur m’a donnée, mes soixante et dix fils chéris.»
 
-Ensuite il regarda les chefs de l’armée ; il vit qu’ils étaient tout abattus par suite des fatigues du combat, du carnage et des attaques continuelles qu’ils avaient faites contre l’ennemi.
+Ensuite, il regarda les chefs de l’armée ; il vit qu’ils étaient tout abattus par suite des fatigues du combat, du carnage et des attaques continuelles qu’ils avaient faites contre l’ennemi.
 
 Le cœur du Pehlewan fut. at-.
 LE, tendri en voyant que les joues des nobles avaient pâli ; et le Sipehdar, le maître de la bonne étoile, le guide de l’armée, leur ordonna de s’en retourner chez eux, pour que leurs corps épuisés pussent se reposer des fatigues de la bataille.
@@ -134,11 +134,11 @@ Il donna ses ordres à Schidousch, disant :
 
 > Ô mon fils, ô mon Destour propre à toute affaire, prends le drapeau 4A5 noir de Kaweh et va servir de soutien et d’asile à l’armée.»
 
-Ensuite il dità Gustehem :
+Ensuite, il dità Gustehem :
 
 > Va te mettre aujourd’hui à la tête des troupes, prends la place du commandant en chef, sois attentif et prudent et protège l’armée. »
 
-Ensuite il enjoignit aux troupes de rester dans leurs positions, leur défendit d’avancer d’un seul pas et leur ordonna d’obéir à Gustehem et de se tenir à cheval jour et nuit.
+Ensuite, il enjoignit aux troupes de rester dans leurs positions, leur défendit d’avancer d’un seul pas et leur ordonna d’obéir à Gustehem et de se tenir à cheval jour et nuit.
 
 Il s’éleva un cri du milieu des braves, ils se lamentèrent sur le.combat auquel Gouderz allait s’exposer, tous se précipitèrent vers lui, tous jetèrent de la poussière sur leur tête, disant :
 
