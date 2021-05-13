@@ -57,7 +57,7 @@ Quand il fut près de l’armée de l’Iran, il s’écria :
 
 Lorsque Rustem apprit qu’un guerrier turc était arrivé, il s’avança à sa rencontre au-devant de l’armée, la tête couverte d’un casque de fer et il lui dit :
 
-> Ô Turc, quel est ton nom?
+> Ô Turc, quel est ton nom ?
 >
 > Pourquoi es-tu venu et quel est ton désir ?
 
@@ -87,7 +87,7 @@ Piran lui répondit :
 >
 > Toute grâce vient de Dieu, c’est lui qui est notre asile et grâce à lui je te retrouve ici en bonne santé.
 
-Zewareh, Faramourz et Zal le cavalier, qui nous rappellent les princes leurs ancêtres, sont-ils toujours bien portants, heureux et fiers?
+Zewareh, Faramourz et Zal le cavalier, qui nous rappellent les princes leurs ancêtres, sont-ils toujours bien portants, heureux et fiers ?
 >
 > Puisse le monde n’être jamais privé d’eux !
 >
@@ -183,7 +183,7 @@ Piran dit en lui-même :
 >
 > Et puis, s’il exige qu’on lui livre ceux qui ont fait le mal, c’est que, pour venger Siawusch, il veut tuer les parents d’Afrasiab et les grands de sa cour, des hommes qui possèdent des trésors, des couronnes et les plus grandes charges de l’empire.
 >
-> Comment Oserai-je seulement en parler?
+> Comment Oserai-je seulement en parler ?
 >
 > Ce serait un deuil sans fin !
 >
