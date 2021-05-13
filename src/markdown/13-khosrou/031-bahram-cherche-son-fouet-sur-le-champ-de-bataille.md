@@ -31,7 +31,7 @@ Lorsque les deux armées se furent livrées au repos et qu’une partie de la nu
 
 Lorsque j’ai ramassé la couronne de Rivniz et l’ai élevée sur la pointe de ma lance jusqu’aux nuages, j’ai laissé tomber un fouet.
 >
-> Les vils Turcs le trouveront, je deviendrai leur risée et le monde s’obscurcira devant mes yeux;
+> Les vils Turcs le trouveront, je deviendrai leur risée et le monde s’obscurcira devant mes yeux ;
 >
 > Car mon nom est écrit sur le cuir du fouet et le Sipehdar des Turcs s’en emparera.
 >
@@ -47,7 +47,7 @@ Le vaillant Bahram lui répondit :
 
 > Ma vie n’est pas plus précieuse que celle de mes parents et de ceux qui m’entourent.
 >
-> Il faut mourir quand l’heure en est venue;
+> Il faut mourir quand l’heure en est venue ;
 >
 > Pourquoi me laisserais-je blâmer injustement ?
 
@@ -57,11 +57,11 @@ Guiv lui dit :
 
 N’y va pas, je possède beaucoup de fouets neufs.
 >
-> Il y en a un dont la poignée est d’or et d’argent et le cuir brodé de perles;
+> Il y en a un dont la poignée est d’or et d’argent et le cuir brodé de perles ;
 >
 > Lorsque Ferenguis ouvrit la porte de son trésor et m’offrit toutes les armes et les ceintures qu’il contenait, je pris ce fouet et la cuirasse que je porte, je jetai les miens et les laissai dans le Touran.
 >
-> Kaous m’en a donné un autre, incrusté de pierreries et étincelant comme la lune;
+> Kaous m’en a donné un autre, incrusté de pierreries et étincelant comme la lune ;
 >
 > J’en possède encore cinq autres, tous ornés d’or et de pierreries dignes d’un roi.
 >
@@ -71,7 +71,7 @@ Bahram répondit à Guiv :
 
 > Je ne puis compter pour si peu la honte qui m’en reviendrait.
 >
-> Vos paroles sont belles et séduisantes, mais il y va de l’honneur de mon nom;
+> Vos paroles sont belles et séduisantes, mais il y va de l’honneur de mon nom ;
 >
 > Je rapporterai donc mon fouet, ou je livrerai ma tête dans cette entreprise aux ciseaux de la mort.
 
@@ -81,7 +81,7 @@ Une fois que ta fortune s’est endormie, les efforts que tu fais pour la révei
 
 Bahram frappa son cheval et partit pour le champ de bataille guidé par la lune qui illuminait la terre.
 
-Il pleura amèrement sur les morts, sur les malheureux dont la fortune s’était éclipsée;
+Il pleura amèrement sur les morts, sur les malheureux dont la fortune s’était éclipsée ;
 
 Il pleura amèrement sur Rivniz, dont il trouva le corps étendu dans une mare de sang et de boue et la cuirasse brisée.
 
@@ -99,33 +99,33 @@ Or un de ces illustres cavaliers était blessé d’un coup d’épée, mais sa 
 
 Je vis encore, quoique étendu parmi les morts.
 >
-> Depuis trois jours je soupire après du pain et de l’eau;
+> Depuis trois jours je soupire après du pain et de l’eau ;
 >
 > Je soupire après une couche pour y dormir.
 
 Bahram courut à lui, car il était son frère et son ami de cœur ; il s’approcha de lui en se lamentant, s’assit à côté de lui, déchira sa tunique et pansa ses blessures, disant :
 
-> Ne sois pas inquiet, ce n’est qu’une blessure et ta faiblesse vient de ce que tu n’as pas été pansé;
+> Ne sois pas inquiet, ce n’est qu’une blessure et ta faiblesse vient de ce que tu n’as pas été pansé ;
 >
 > Maintenant que j’ai bandé ta plaie, rends-toi à l’armée et tu seras promptement guéri.
 
 C’est ainsi qu’il ramenait son frère dans le chemin de la sécurité, sans se douter que lui-même s’égarait.
 
-Ensuite il dit au blessé :
+Ensuite, il dit au blessé :
 
-> Ô jeune homme, attends plutôt que je revienne, je me hâterai;
+> Ô jeune homme, attends plutôt que je revienne, je me hâterai ;
 >
 > J’ai perdu un fouet sur ce champ de bataille pendant que je m’occupais de la couronne de Rivniz et aussitôt que je l’aurai retrouvé, je partirai avec toi et te ramènerai sans délai à notre armée.
 
 Il s’avança alors rapidement vers l’endroit où avait été le centre de l’armée et chercha jusqu’à ce qu’il eut retrouvé, au milieu d’un amas de blessés, son fouet souillé de sang et de poussière.
 
-Il mit pied à terre et le saisit;
+Il mit pied à terre et le saisit ;
 
 Mais dans ce moment des chevaux se mirent à hennir, le destrier de Bahram entendit et sentit des juments, il s’enflamma comme Adergouschasp, tourna la tête du côté des juments et partit.
 
 Bahram en fut consterné !
 
-Il le suivit et courut couvert de son casque et de sa cuirasse et inondé de sueur, jusqu’à ce qu’il l’eût atteint;
+Il le suivit et courut couvert de son casque et de sa cuirasse et inondé de sueur, jusqu’à ce qu’il l’eût atteint ;
 
 Il le saisit et monta dessus aussitôt, une épée indienne à la main.
 
@@ -133,7 +133,7 @@ Il le pressa des jambes, mais le cheval ne fit pas un pas en avant.
 
 Le cavalier et la monture furent bientôt couverts de poussière et inondés de sueur ; et à la fin Bahram tomba dans un tel désespoir qu’il donna à son cheval un coup d’épée sur la tête et le tua.
 
-Ensuite il s’en retourna sur le champ de bataille en marchant rapidement comme le vent.
+Ensuite, il s’en retourna sur le champ de bataille en marchant rapidement comme le vent.
 
 Il vit toute la plaine jonchée de morts ; il vit la terre colorée comme une rose et se dit :
 
@@ -141,7 +141,7 @@ Il vit toute la plaine jonchée de morts ; il vit la terre colorée comme une ro
 
 Quelques vaillants Turcs l’avaient observé et une centaine de cavaliers accoururent du centre du camp pour s’emparer de lui et le mener devant le Pehlewan de l’armée.
 
-Mais le lion Bahram banda son arc et fit pleuvoir des flèches sur eux;
+Mais le lion Bahram banda son arc et fit pleuvoir des flèches sur eux ;
 
 Il était déterminé à tenir aussi longtemps qu’il aurait un trait à placer sur la corde, par sollicitude pour son frère.
 
