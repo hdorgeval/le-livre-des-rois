@@ -45,7 +45,7 @@ Le vaillant Houman lui répondit :
 
 > Un sage ne méprise pas un ennemi.
 >
-> Les grands de l’Iran ont repris courage, on les croirait capables de briser le fer;
+> Les grands de l’Iran ont repris courage, on les croirait capables de briser le fer ;
 >
 > Depuis qu’il est arrivé une armée de l’Iran, leurs cris de guerre ne cessent pas sur ce champ de bataille.
 
@@ -53,11 +53,11 @@ Piran lui dit :
 
 > Quel que soit le cavalier qui est venu de l’Iran au secours de Thous, je ne le crains pas, pourvu que ce ne soit pas Rustem.
 >
-> Mon cœur n’a pas peur de Gustehem ni de Gourguin;
+> Mon cœur n’a pas peur de Gustehem ni de Gourguin ;
 >
-> Il n’y a personne parmi eux qui soit l’égal de Kamous;
+> Il n’y a personne parmi eux qui soit l’égal de Kamous ;
 >
-> Feribourz et Bijen ne valent pas Ferthous;
+> Feribourz et Bijen ne valent pas Ferthous ;
 >
 > Et puisqu’un grand combat se prépare pour notre armée, elle voudra tout entière y acquérir de la gloire.
 
@@ -75,25 +75,25 @@ Kamous lui répondit :
 >
 > Il n’y a pas d’homme dans le monde qui soit son égal en stature et aucun des nôtres n’est digne de se mesurer avec lui.
 >
-> Tu as vu son arc et sa flèche est ici;
+> Tu as vu son arc et sa flèche est ici ;
 >
 > Sa force surpasse celle d’un éléphant furieux.
 >
-> Je crois que c’est le héros du Seïstan dont tu as tant parlé;
+> Je crois que c’est le héros du Seïstan dont tu as tant parlé ;
 >
 > C’est lui qui est venu à pied sur ce champ de bataille, qui est venu au secours des Iraniens.
 
 Piran répondit :
 
-> L’homme du Seïstan est un antre que celuilà;
+> L’homme du Seïstan est un antre que celuilà ;
 >
 > C’est un cavalier qui porte haut la tête, c’est un prince.
 
 Le prudent Kamous, dont l’âme était toute absorbée par cette affaire, demanda à Piran :
 
-> Dis-moi comment ce Rustem au cœur de lion se présente au combat;
+> Dis-moi comment ce Rustem au cœur de lion se présente au combat ;
 >
-> Décris-moi sa taille et sa mine;
+> Décris-moi sa taille et sa mine ;
 >
 > Dis-moi comment il adresse la parole aux héros sur le champ de bataille, quelle est sa personne et son aspect et de quelle manière je dois me mesurer avec lui.
 >
@@ -113,27 +113,27 @@ Piran lui dit :
 >
 > Beaucoup de braves essayeront de percer son armure, mais aucun ne réussira.
 >
-> Quand il est ceint pour le combat, il a la force d’un éléphant en fureur;
+> Quand il est ceint pour le combat, il a la force d’un éléphant en fureur ;
 >
 > Et un crocodile ne pourrait soulever sa massue, s’il la laissait tomber sur le champ de bataille.
 >
 > La corde de son arc est de peau de lion, la pointe de ses flèches pèse dix sitirs, une pierre devient, dans sa main, molle comme la cire et serait honteuse devant la cire elle-même.
 >
-> Quand il se prépare au combat, il revêt une cotte de mailles, au-dessus de laquelle il attache avec des boutons une cuirasse, qu’il recouvre d’une robe de peau de léopard (ou de tigre), à laquelle il donne le nom de Bebr-i-beyan, qu’il estime plus que la cotte et la cuirasse, qui n’est ni consumée par les flammes ni mouillée par l’eau;
+> Quand il se prépare au combat, il revêt une cotte de mailles, au-dessus de laquelle il attache avec des boutons une cuirasse, qu’il recouvre d’une robe de peau de léopard (ou de tigre), à laquelle il donne le nom de Bebr-i-beyan, qu’il estime plus que la cotte et la cuirasse, qui n’est ni consumée par les flammes ni mouillée par l’eau ;
 >
 > Et quand il est ainsi armé, on dirait qu’il a des ailes.
 >
 > Il est assis sur un destrier qui ressemble au mont Bisoutoun en mouvement, qui fait sortir le feu de la terre et des rochers et ne cesse de hennir pendant toute la bataille.
 >
-> Il se peut que, malgré toutes ces merveilles, tu ne le comptes pas pour un homme au jour du combat;
+> Il se peut que, malgré toutes ces merveilles, tu ne le comptes pas pour un homme au jour du combat ;
 >
 > Et avec de telles mains, de tels bras, de telles jambes et de telles épaules, il n’est pas étonnant que tu sois brave.
 
-Le sage Kamous écoutait Piran en lui abandonnant son cœur, son âme et son oreille;
+Le sage Kamous écoutait Piran en lui abandonnant son cœur, son âme et son oreille ;
 
 Il fut flatté de ces paroles, prit feu à ce discours calculé et lui répondit :
 
-> Puisse ton cœur rester prudent et ton esprit serein!
+> Puisse ton cœur rester prudent et ton esprit serein !
 >
 > Choisis parmi tous les serments solennels qu’ont faits les rois sur lesquels veille la fortune et je vais en prononcer devant toi un plus grand pour rassurer ton cœur et ta foi : 
 >
