@@ -1,6 +1,7 @@
 export const favorites = [
   'âme',
   'barsom',
+  'chrysoprases',
   'cyprès',
   'immortalité',
   'immortel',
