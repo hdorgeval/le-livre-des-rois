@@ -35,7 +35,7 @@ order: '065'
 >
 > Écoute les paroles que le Dikhan tire d’un ancien livre.
 
-Lorsque le Khakan de la Chine eut appris que Kamous était tombé sur le champ de bataille, le jour devint sombre et la vie amère pour les hommes de Kaschan et de Schikin et pour les braves de Balkh;
+Lorsque le Khakan de la Chine eut appris que Kamous était tombé sur le champ de bataille, le jour devint sombre et la vie amère pour les hommes de Kaschan et de Schikin et pour les braves de Balkh ;
 
 Ils s’approchèrent les uns des autres et se demandèrent qui pouvait être cet homme vaillant et plein d’ardeur pour le combat, quel était son nom et qui dans le monde pouvait lutter contre lui.
 
@@ -45,7 +45,7 @@ Houman dit à Piran au cœur de lion :
 >
 > Comment nos braves oseraient-ils aller au combat, puisque le vaillant Kamous y a péri?
 >
-> Jamais il n’y eut d’homme plus glorieux que lui, jamais cavalier ne mérita autant le nom de héros au corps d’éléphant;
+> Jamais il n’y eut d’homme plus glorieux que lui, jamais cavalier ne mérita autant le nom de héros au corps d’éléphant ;
 >
 > Et celui qui a pu avec son lacet lier Kamous sur le champ de bataille saisirait au jour du combat un éléphant par la tête et le renverserait.
 >
@@ -55,7 +55,7 @@ Toute l’armée se rendit devant le Khakan, en plaignant le sort de Kamous et e
 
 Piran lui offrit ses hommages et lui dit tristement :
 
-> Ô roi plus sublime que le firmament d’azur, tu étais au premier rang de l’armée et tu as entendu et vu le commencement et la fin de ce combat;
+> Ô roi plus sublime que le firmament d’azur, tu étais au premier rang de l’armée et tu as entendu et vu le commencement et la fin de ce combat ;
 >
 > Cherche maintenant un remède à nos maux, cherche-le tout seul et sans consulter personne.
 >
@@ -65,11 +65,11 @@ Piran lui offrit ses hommages et lui dit tristement :
 
 Le Khakan répondit à Piran :
 
-> J’éprouve le même souci et la même sollicitude;
+> J’éprouve le même souci et la même sollicitude ;
 >
 > Je voudrais bien savoir quel est ce Pehlewan malfaisant qui prend le lion dans le nœud de son lacet.
 >
-> Au reste, nul ne peut se soustraire à la mort et ni questions, ni prières, ni offrandes ne sauraient en cela nous servir de rien;
+> Au reste, nul ne peut se soustraire à la mort et ni questions, ni prières, ni offrandes ne sauraient en cela nous servir de rien ;
 >
 > Du moment que nos mères nous ont mis au monde, nous appartenons à la mort et il faut malgré nous lui tendre le cou.
 >
@@ -79,7 +79,7 @@ Le Khakan répondit à Piran :
 
 Il réunit autour de lui un grand nombre de héros illustres, d’hommes armés de poignards et de vaillants guerriers et leur dit :
 
-> Il faut que vous observiez où se tient ce cavalier qui lance le lacet et tue les braves;
+> Il faut que vous observiez où se tient ce cavalier qui lance le lacet et tue les braves ;
 >
 > S’il se tient à la gauche ou à la droite de l’armée.
 >
