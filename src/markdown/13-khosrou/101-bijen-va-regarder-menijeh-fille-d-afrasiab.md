@@ -61,13 +61,14 @@ La jeune fille voilée bouillonnait d’amour, dans sa tente, pour ce visage de 
 > Rends-toi sous les branches de ce grand cyprès ;
 >
 > Vois quel est ce visage de lune, si c’est Siawusch ressuscité ou un Péri ; dis-lui  :
->
-> > Comment es-tu arrivé là?
-> > Qui t’a amené dans ce lieu?
+
 > >
-> > Es-tu un fils de Péri ou Siawusch, toi qui remplis d’amour tous les cœurs ?
+> > Comment es-tu arrivé là ?
+> > Qui t’a amené dans ce lieu ?
 > >
-> > Estce que la résurrection va venir, puisque tu as allumé ce feu des passions?
+> > Es-tu un fils de Péri ou Siawusch, toi qui remplis d’amour tous les cœurs  ?
+> >
+> > Estce que la résurrection va venir, puisque tu as allumé ce feu des passions ?
 > >
 > > Depuis longtemps je célèbre tous les ans, sur ces prairies, la fête du printemps, mais je n’ai jamais vu d’étranger dans ce lieu de délices et tu es le premier que j’aperçois, ô visage de lune.
 > >
