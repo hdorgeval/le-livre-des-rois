@@ -101,7 +101,7 @@ Il ajouta quelques paroles sévères, sur quoi Bijen lui tourna le dos.
 
 Guiv fut courroucé de ce que son fils riait de lui et le frappa sur la tête avec son fouet en disant :
 
-> N’as-tu pas appris de ton maître que tout en se battant il faut réfléchir?
+> N’as-tu pas appris de ton maître que tout en se battant il faut réfléchir ?
 >
 > Mais tu n’as ni cervelle, ni sens, ni intelligence et malheur à celui qui élève un enfant comme toi !
 
