@@ -26,7 +26,7 @@ Afrasiab lui répondit :
 
 > Ô homme puissant, qui trouves-tu sans faute dans le monde ?
 >
-> La rotation du ciel toutpuissant a fait de moi un instrument de peine, de fatigues et de ruine ; mais personne ne peut se soustraire aux ordres de Dieu, quand même il poserait son pied sur le cou du dragon.
+> La rotation du ciel tout-puissant a fait de moi un instrument de peine, de fatigues et de ruine ; mais personne ne peut se soustraire aux ordres de Dieu, quand même il poserait son pied sur le cou du dragon.
 >
 > Je suis malheureux, aie donc pitié de moi, quoique j’aie commis des injustices.
 >
