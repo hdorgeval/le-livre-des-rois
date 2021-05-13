@@ -45,11 +45,11 @@ Sa lettre commençait par les louanges de Dieu le créateur de l’univers :
 
 > Au nom du maître du soleil et de la lune, qui donne la force dans le malheur et dans le bonheur, de qui vient la victoire et la défaite, de qui dépend en toute circonstance l’accomplissement de nos désirs.
 >
-> Il a créé le monde, la terre et le temps, il a créé le pied de la fourmi et Ia montagne immense et c’est lui qui donne l’intelligence, l’âme et un corps vigoureux, le pouvoir, le diadème et le puissant trône;
+> Il a créé le monde, la terre et le temps, il a créé le pied de la fourmi et Ia montagne immense et c’est lui qui donne l’intelligence, l’âme et un corps vigoureux, le pouvoir, le diadème et le puissant trône ;
 >
-> Personne ne peut se soustraire à sa puissance;
+> Personne ne peut se soustraire à sa puissance ;
 >
-> Il accorde à l’un ses grâces et ses honneurs;
+> Il accorde à l’un ses grâces et ses honneurs ;
 >
 > Il accable l’autre d’adversités, de besoins, de soucis, de douleurs et de peines.
 >
@@ -57,7 +57,7 @@ Sa lettre commençait par les louanges de Dieu le créateur de l’univers :
 >
 > Thous est parti avec le drapeau de Kaweh et accompagné de quarante grands aux bottines d’or.
 >
-> Je l’ai envoyé avec une armée dans le Touran et c’est mon frère qui a été la première victime de sa vengeance;
+> Je l’ai envoyé avec une armée dans le Touran et c’est mon frère qui a été la première victime de sa vengeance ;
 >
 > Mon frère, qui était un prince et un chef d’armée tel qu’il n’y en a jamais eu dans l’Iran.
 >
@@ -83,15 +83,15 @@ Ce vaillant fils de roi que le vil Thous a livré au vent !
 >
 > Que sert d’avoir de la bravoure quand on est commandé par lui?
 >
-> Maudite soit cette âme ténébreuse!
+> Maudite soit cette âme ténébreuse !
 >
-> Quand tu auras lu cette lettre, renonce à la nourriture, au sommeil et au repos, renvoie ici Thous à l’instant, ne me désobéis pas et ne délibère pas;
+> Quand tu auras lu cette lettre, renonce à la nourriture, au sommeil et au repos, renvoie ici Thous à l’instant, ne me désobéis pas et ne délibère pas ;
 >
-> Prends le commandement de l’armée, porte les bottines d’or, marche devant le drapeau de Kaweh, consulte en toutes choses le noble Gouderz et l’assemblée des grands, ne te hâte pas de livrer bataille, abstiens-toi du vin, fuis le sommeil;
+> Prends le commandement de l’armée, porte les bottines d’or, marche devant le drapeau de Kaweh, consulte en toutes choses le noble Gouderz et l’assemblée des grands, ne te hâte pas de livrer bataille, abstiens-toi du vin, fuis le sommeil ;
 >
-> Ne te laisse pas entraîner à un combat par ta colère avant que tes blessés soient guéris;
+> Ne te laisse pas entraîner à un combat par ta colère avant que tes blessés soient guéris ;
 >
-> Confie dans la bataille ton avant-garde à Guiv, car c’est un noble et vaillant cavalier et ses mains sont des griffes de léopard;
+> Confie dans la bataille ton avant-garde à Guiv, car c’est un noble et vaillant cavalier et ses mains sont des griffes de léopard ;
 >
 > Réunis de tous côtés les moyens de continuer la guerre et garde-toi de penser aux festins !
 
@@ -105,21 +105,21 @@ Feribourz appela auprès de lui Thous et les héros et leur parla longuement de 
 
 Lorsqu’il eut lu la lettre du roi à Guiv et à Gouderz, aux cavaliers et aux braves de cette frontière, un arbre nouveau commença à porter du fruit dans le monde.
 
-Les grands et les lions de l’Iran célébrèrent les louanges du roi;
+Les grands et les lions de l’Iran célébrèrent les louanges du roi ;
 
 Thous fit apporter le noble drapeau, les timbales et les bottines d’or et amener les éléphants ; il remit tout à Feribourz et lui dit :
 
-> Ces honneurs sont dignes de toi et tu en es digne;
+> Ces honneurs sont dignes de toi et tu en es digne ;
 >
-> Puisse ta fortune rester toujours victorieuse!
+> Puisse ta fortune rester toujours victorieuse !
 >
 > Puisse ta vie être un Nourouz continuel !
 
 Thous partit avec les cavaliers ardents et vaillants au combat, qui appartenaient à la famille de Newder ; il ne s’arrêta pas sur la route et s’en retourna du théâtre de la guerre auprès du roi ; il baisa la terre devant Khosrou, qui ne daigna pas jeter un regard sur lui et qui à la fin ouvrit la bouche pour l’injurier et l’humilia devant toute la cour, en disant :
 
-> Ô méchant homme!
+> Ô méchant homme !
 >
-> Puisse ton nom disparaître de la liste des grands!
+> Puisse ton nom disparaître de la liste des grands !
 >
 > N’as-tu aucune crainte de Dieu, le maître du monde, le saint?
 >
@@ -127,13 +127,13 @@ Thous partit avec les cavaliers ardents et vaillants au combat, qui appartenaien
 >
 > Je t’ai ordonné de ne pas aller à Djerem et tu y es allé et tu as livré mon cœur à la douleur.
 >
-> Ton premier acte a été de faire éclater la haine contre moi, de tuer le fils de Siawusch, mon noble frère, le vaillant Firoud, qui n’avait pas son égal dans le monde;
+> Ton premier acte a été de faire éclater la haine contre moi, de tuer le fils de Siawusch, mon noble frère, le vaillant Firoud, qui n’avait pas son égal dans le monde ;
 >
-> Tu as tué un homme tel que, lorsque nous livrons bataille, notre fortune ne demanderait qu’une armée comme lui;
+> Tu as tué un homme tel que, lorsque nous livrons bataille, notre fortune ne demanderait qu’une armée comme lui ;
 >
 > Ensuite tu es allé dans le pays où il fallait combattre, mais tu n’as songé qu’au repos et aux festins.
 >
-> Il n’y a pas de place pour toi dans cette ville et une maison de fous serait un séjour plus digne de toi;
+> Il n’y a pas de place pour toi dans cette ville et une maison de fous serait un séjour plus digne de toi ;
 >
 > Tu n’as rien à faire parmi les nobles, car tu manques de sens.
 >
