@@ -45,7 +45,7 @@ Rustem lui répondit :
 >
 > Ce serait une honte pour toi de combattre en personne, quand même ce serait Pescheng qui se trouverait en face de toi.
 >
-> Ensuite il te prie de ne pas attaquer son armée, sa famille et son pays ; mais tu as une armée qui remplit la terre d’une mer à l’autre et qui est d’une autre IlI opinion.
+> Ensuite, il te prie de ne pas attaquer son armée, sa famille et son pays ; mais tu as une armée qui remplit la terre d’une mer à l’autre et qui est d’une autre IlI opinion.
 >
 > Pour faire avec ton grand-père un traité devant Dieu, il ne faudrait pas qu’il y eût de la fausseté dans les cœurs.
 >
