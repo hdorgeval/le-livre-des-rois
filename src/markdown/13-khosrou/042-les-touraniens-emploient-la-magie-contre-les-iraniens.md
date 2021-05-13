@@ -101,7 +101,7 @@ Thous lui dit :
 
 > Ô vieillard plein d’expérience, le souffle glacial de l’air a cessé ;
 >
-> Pourquoi désespérer, puisque Dieu le secourable nous a rendu notre vigueur et nos forces?
+> Pourquoi désespérer, puisque Dieu le secourable nous a rendu notre vigueur et nos forces ?
 >
 > Ne te mets pas à la tête de cette attaque, ces braves qui nous entourent la conduiront, n’avance pas, de peur que tu ne succombes et ne te jette pas imprudemment au-devant des ennemis.
 >
