@@ -33,7 +33,7 @@ Lorsque les deux tiers de la nuit sombre se lurent écoulés, la plaine retentit
 
 Le Pehlewan ordonna à ses troupes de se tenir éveillées et attentives, de prêter l’oreille au moindre bruit que feraient les Touraniens, afin qu’on s’aperçût de leur approche.
 
-Ensuite il fit appeler Bijen fils de Guiv, le vaillant héros toujours prêt à frapper de l’épée et lui dit :
+Ensuite, il fit appeler Bijen fils de Guiv, le vaillant héros toujours prêt à frapper de l’épée et lui dit :
 
 > Ton étoile est heureuse, tes entreprises réussissent, ton nom brise le cœur de nos ennemis ; prends parmi ces héros, ces grands et ces braves, autant de
 >
