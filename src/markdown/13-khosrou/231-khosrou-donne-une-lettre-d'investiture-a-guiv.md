@@ -46,7 +46,7 @@ On apposa un sceau d’or sur la lettre et le roi prononça des bénédictions s
 
 > Puisse Dieu être satisfait de Gouderz, puisse le cœur de ses ennemis être rempli d’angoisses!»
 
-Ensuite il dit aux Iraniens :
+Ensuite, il dit aux Iraniens :
 
 > Puisse-t-il ne jamais être las de faire de grandes actions !
 >
