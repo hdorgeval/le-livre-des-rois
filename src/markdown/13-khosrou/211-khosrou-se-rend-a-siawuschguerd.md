@@ -91,7 +91,7 @@ Cet homme ne marche pas dans tes voies, ô Distributeur de la justice !
 
 Et ne respecte personne dans le monde ; tu sais qu’il est loin de la justice et de la bonne voie et qu’il a versé beaucoup de sang innocent.
 
-Estce que Dieu, l’unique, le juste, ne sera pas mon guide pour découvrir ce méchant ; car, bien que je sois un serviteur indigne, au moins j’adore Dieu le créateur ?
+Est-ce que Dieu, l’unique, le juste, ne sera pas mon guide pour découvrir ce méchant ; car, bien que je sois un serviteur indigne, au moins j’adore Dieu le créateur ?
 
 Le nom et la voix d’A-
 frasiab ont disparu du monde, son séjour est, un secret pour moi ; mais pour toi il n’y a pas de secret.
