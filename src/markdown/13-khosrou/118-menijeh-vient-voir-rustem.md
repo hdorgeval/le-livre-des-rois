@@ -99,6 +99,6 @@ En prononçant ces paroles, Menijeh versait des larmes de tendresse ; Rustem lui
 >
 > Si je ne craignais pas pour toi sa colère, je te donnerais des richesses sans mesure.»
 
-Ensuite il ordonna à ses cuisiniers d’apporter autant de mets qu’il fallait à Menijeh ; il se fit donner à lui-même une volaille rôtie toute chaude et enveloppée dans du pain mon ; et sa main prompte comme la main d’une Péri cacha un anneau dans l’intérieur de cette volaille, qu’il remit à Menijeh en disant :
+Ensuite, il ordonna à ses cuisiniers d’apporter autant de mets qu’il fallait à Menijeh ; il se fit donner à lui-même une volaille rôtie toute chaude et enveloppée dans du pain mon ; et sa main prompte comme la main d’une Péri cacha un anneau dans l’intérieur de cette volaille, qu’il remit à Menijeh en disant :
 
 > Porte ceci au cachot, ô protectrice des malheureux!»
