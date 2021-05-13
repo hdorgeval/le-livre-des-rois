@@ -10,7 +10,7 @@ order: '091'
 
 # Rustem s'en retourne dans le Seistan
 
-Tehemten s’était tenu pendant un mois à côté de Khosrou, assis sur le trône, la coupe remplie de vin en main;
+Tehemten s’était tenu pendant un mois à côté de Khosrou, assis sur le trône, la coupe remplie de vin en main ;
 
 Alors, il dit au roi :
 
@@ -18,7 +18,7 @@ Alors, il dit au roi :
 
 Le roi du monde ouvrit la porte de ses trésors, tira de ses richesses cachées et envoya à Rustem des rubis, des couronnes, des bagues, des brocarts, des vêtements tissés à Schuschter, des esclaves parés de diadèmes et de boucles d’oreilles, cent chevaux et cent chameaux sellés et chargés, des plats d’or remplis de musc et d’aloès, une paire de souliers d’or et une massue d’or incrustée de pierreries dignes d’un roi et telle qu’elle convenait à un héros illustre.
 
-Le roi accompagna Rustem l’espace de deux journées;
+Le roi accompagna Rustem l’espace de deux journées ;
 
 Et quand Rustem le vit fatigué de cette longue route, il mit pied à terre, lui offrit ses hommages, prit congé de lui et quitta l’Iran pour se rendre en toute hâte dans le Zaboulistan.
 
