@@ -49,7 +49,7 @@ Ils entendirent au milieu de l’orage et du vent glacial les cris de guerre des
 
 Piran donna alors à toute son armée l’ordre de faire une attaque pendant que les mains des ennemis seraient gelées sur leurs lances et qu’ils ne pourraient montrer leur bravoure.
 
-Houman poussa un cri et semblable à un Div, se jeta avec ses troupes sur les Iraniens;
+Houman poussa un cri et semblable à un Div, se jeta avec ses troupes sur les Iraniens ;
 
 Et ils en tuèrent tant qu’une mer de sang se forma entre les deux armées.
 
@@ -63,9 +63,9 @@ On ne pouvait plus se mouvoir sur ce champ de carnage et les mains des guerriers
 
 Thous et les grands adressèrent leurs lamentations au ciel, disant :
 
-> Ô Dieu, qui est au-dessus de toute sagesse, de toute prudence, de tout conseil, toi qu’aucun lieu ne peut contenir, nous sommes tous tes esclaves chargés de péchés : dans notre détresse nous te demandons secours;
+> Ô Dieu, qui est au-dessus de toute sagesse, de toute prudence, de tout conseil, toi qu’aucun lieu ne peut contenir, nous sommes tous tes esclaves chargés de péchés : dans notre détresse nous te demandons secours ;
 >
-> Tu es le sauveur de ceux qui désespèrent;
+> Tu es le sauveur de ceux qui désespèrent ;
 >
 > Délivre-nous de ce vent glacial, écarte de nous ce froid rigoureux, car nous ne reconnaissons d’autre seigneur que toi.
 
@@ -73,7 +73,7 @@ Un homme qui avait étudié toutes les sciences s’approcha de Rehham et lui mo
 
 Rehham s’élança du champ de bataille, poussa son cheval hors des rangs de l’armée et monta ensuite à pied sur la crête de la montagne, en serrant les pans de sa cotte de mailles dans sa ceinture.
 
-Le magicien le vit et vint le combattre, une massue d’acier chinois dans la main;
+Le magicien le vit et vint le combattre, une massue d’acier chinois dans la main ;
 
 Rehham, lorsqu’il fut près de lui, tira son épée vengeresse et lui abattit la main.
 
@@ -81,7 +81,7 @@ Un orage pareil à celui qui naîtra le jour de la résurrection s’éleva auss
 
 Le vaillant Rehham, tenant dans sa main la main coupée du magicien, descendit de la montagne, et, arrivé dans la plaine, il remonta sur son destrier.
 
-L’air était redevenu ce qu’il avait été auparavant;
+L’air était redevenu ce qu’il avait été auparavant ;
 
 Le soleil brillait et le ciel était bleu.
 
@@ -91,15 +91,15 @@ Les guerriers du roi virent alors que le champ de bataille ressemblait à une me
 
 Gouderz dit à Thous :
 
-> Ce n’est pas d’éléphant que nous avons besoin, ni de timbales;
+> Ce n’est pas d’éléphant que nous avons besoin, ni de timbales ;
 >
-> Il faut tirer l’épée et faire une attaque pour vaincre ou pour périr;
+> Il faut tirer l’épée et faire une attaque pour vaincre ou pour périr ;
 >
 > Car notre fin semble prochaine et ce n’est pas un jour où le lacet ou l’arc et les flèches puissent nous servir.
 
 Thous lui dit :
 
-> Ô vieillard plein d’expérience, le souffle glacial de l’air a cessé;
+> Ô vieillard plein d’expérience, le souffle glacial de l’air a cessé ;
 >
 > Pourquoi désespérer, puisque Dieu le secourable nous a rendu notre vigueur et nos forces?
 >
@@ -107,19 +107,19 @@ Thous lui dit :
 >
 > Tiens-toi quelque temps, ton épée bleue en main, au centre de l’armée, auprès du drapeau de Kaweh.
 >
-> Guiv et Bijen commanderont l’aile droite, Gustehem l’aile gauche;
+> Guiv et Bijen commanderont l’aile droite, Gustehem l’aile gauche ;
 >
-> Rehham, Schidousch et Gourazeh, dont les lèvres sont couvertes de l’écume de la rage, se placeront devant les rangs;
+> Rehham, Schidousch et Gourazeh, dont les lèvres sont couvertes de l’écume de la rage, se placeront devant les rangs ;
 >
 > Et si je ce tombe sur ce champ de bataille, tu ramèneras l’armée au roi de l’Iran.
 >
 > Je préfère la mort aux reproches et à l’insulte des méchants qui de tous côtés me menace.
 
-Tel est ce monde plein de douleurs et de peines;
+Tel est ce monde plein de douleurs et de peines ;
 
 Autant que tu peux, ne cours pas après ses grandeurs : il te comblera tout un jour de ses faveurs, mais il ne prolongera pas d’une minute ton existence.
 
-Le son des trompettes et le bruit des clochettes indiennes se fit entendre de nouveau;
+Le son des trompettes et le bruit des clochettes indiennes se fit entendre de nouveau ;
 
 Les cris des cavaliers ardents au combat, les éclairs des épées et des haches d’armes, les coups des massues, des javelots et des flèches faisaient couler sur la terre un torrent de sang pareil aux eaux du Tigre.
 
@@ -127,13 +127,13 @@ La plaine était remplie de têtes et de bras coupés et les coups de massue ret
 
 L’étoile des Iraniens s’obscurcit et ils tournèrent le dos à l’ennemi.
 
-Thous, Gouderz, le courageux Guiv, Schidousch, Bijen et Rehham le lion, plaçant leur vie sur la paume de la main, combattaient au premier rang;
+Thous, Gouderz, le courageux Guiv, Schidousch, Bijen et Rehham le lion, plaçant leur vie sur la paume de la main, combattaient au premier rang ;
 
 Tous ceux qui entouraient Thous étaient des grands et des gouverneurs de provinces : ils versaient du sang au front de l’armée, mais ceux qui étaient derrière eux s’enfuirent.
 
 Alors un Mobed s’adressa au vaillant Thous et lui dit :
 
-> Il ne reste plus de guerriers derrière toi, ne te laisse pas entourer;
+> Il ne reste plus de guerriers derrière toi, ne te laisse pas entourer ;
 >
 > Ne laisse pas mettre l’armée en danger par la perte du Sipehbed.
 
@@ -143,11 +143,11 @@ Thous dit alors au vaillant Guiv :
 >
 > Va et ramène-les en leur faisant appréhender les railleries des ennemis et la honte qui les attend devant le roi
 
-Guiv partit et ramena les troupes;
+Guiv partit et ramena les troupes ;
 
 Mais en voyant toute la plaine jonchée de morts, Thous dit aux grands :
 
-> C’est un combat et une lutte dignes des chefs d’une armée;
+> C’est un combat et une lutte dignes des chefs d’une armée ;
 >
 > Mais la face du jour s’est couverte de ténèbres et la terre ressemble à une mer de sang.
 >
