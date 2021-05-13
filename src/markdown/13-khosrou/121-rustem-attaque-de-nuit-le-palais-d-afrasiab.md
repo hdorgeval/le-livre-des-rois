@@ -18,19 +18,23 @@ Ce ne furent alors que coups donnés et reçus et des épées qui flamboyaient e
 
 On trancha la tête à tous les grands ; leur main se remplit de poussière et leur bouche de sang.
 
-Sous le portique de l’appartement du roi Rustem s’écria : Que ton sommeil soit doux et ta tête pleine de vent !
+Sous le portique de l’appartement du roi Rustem s’écria :
 
-Tu as dormi sur ton trône pendant que Bijen était dans son cachot ; as-tu donc cru qu’il y eût un mur de fer sur la route de l’Iran ?
+> Que ton sommeil soit doux et ta tête pleine de vent !
+>
+> Tu as dormi sur ton trône pendant que Bijen était dans son cachot ; as-tu donc cru qu’il y eût un mur de fer sur la route de l’Iran ?
+>
+> Je suis Rustem du Zaboulistan, fils de Zal et ce n’est pas le moment de sommeiller et de rester au lit.
+>
+> J’ai brisé la porte et les chaînes de la prison que tu avais confiée à la garde d’un rocher et Bijen est libre de ses liens ; personne ne doit traiter ainsi son gendre.
+>
+> La guerre que t’a value le meurtre de Siawusch aurait dû te suffire ; car, ô homme sans va-leur, j’ai répandu autour de toi assez de ruines et pourtant tu en as voulu à la vie de Bijen ; mais je vois que ton cœur est méchant et ton esprit égaré.»
 
-Je suis Rustem du Zaboulistan, fils de Zal et ce n’est pas le moment de sommeiller et de rester au lit.
+Ensuite Bijen s’écria :
 
-J’ai brisé la porte et les chaînes de la prison que tu avais confiée à la garde d’un rocher et Bijen est libre de ses liens ; personne ne doit traiter ainsi son gendre.
-
-La guerre que t’a value le meurtre de Siawusch aurait dû te suffire ; car, ô homme sans va-leur, j’ai répandu autour de toi assez de ruines et pourtant tu en as voulu à la vie de Bijen ; mais je vois que ton cœur est méchant et ton esprit égaré.»
-
-Ensuite Bijen s’écria : Ô Turc ignoble et stupide, rappelle-toi que c’est sur ce trône et à cette place d’honneur que tu étais assis lorsque tu m’as tenu debout et captif devant toi ; je demandais à combattre comme un léopard, mais tu m’as serré les mains avec des liens durs comme une pierre.
-
-Regarde-moi maintenant libre et en plein air et tel qu’un lion furieux n’oSerait m’attaquer.»
+> Ô Turc ignoble et stupide, rappelle-toi que c’est sur ce trône et à cette place d’honneur que tu étais assis lorsque tu m’as tenu debout et captif devant toi ; je demandais à combattre comme un léopard, mais tu m’as serré les mains avec des liens durs comme une pierre.
+>
+> Regarde-moi maintenant libre et en plein air et tel qu’un lion furieux n’oSerait m’attaquer.»
 
 Ces paroles réveillèrent les anciennes terreurs d’Afrasiab et il se mit à crier dans son palais :
 
