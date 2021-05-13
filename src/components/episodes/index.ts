@@ -18,6 +18,7 @@ export * from './kobad-episodes';
 export * from './lohrasp-episodes';
 export * from './minoutchehr-episodes';
 export * from './newder-episodes';
+export * from './schapour-episodes';
 export * from './thahmouras-episodes';
 export * from './zew-episodes';
 export * from './zohak-episodes';

@@ -18,6 +18,7 @@ export * from './kobad-card';
 export * from './lohrasp-card';
 export * from './minoutchehr-card';
 export * from './newder-card';
+export * from './schapour-card';
 export * from './thahmouras-card';
 export * from './zew-card';
 export * from './zohak-card';
