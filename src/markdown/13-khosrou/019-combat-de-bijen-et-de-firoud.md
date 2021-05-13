@@ -71,7 +71,7 @@ Car il savait que ce n’était pas le moment d’hésiter.
 
 Bijen s’écria :
 
-> Ô illustre, héros, tu t’enfuis ainsi devant un homme à pied, toi brave et monté et tu n’en es pas honteux?
+> Ô illustre, héros, tu t’enfuis ainsi devant un homme à pied, toi brave et monté et tu n’en es pas honteux ?
 >
 > Hélas !
 
