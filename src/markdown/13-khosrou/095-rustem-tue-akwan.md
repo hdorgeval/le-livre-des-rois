@@ -28,11 +28,11 @@ Les Turcs élevèrent une grande clameur, disant :
 >
 > Sommes-nous donc devenus si méprisables, si vils et si faibles, qu’un homme seul vienne verser notre sang ?
 >
-> Laisserions-nous enlever ainsi honteusement nos troupeaux  ?
+> Laisserions-nous enlever ainsi honteusement nos troupeaux ?
 >
 > Nous ne devons pas laisser impuni un acte pareil.
 
-Le roi, avec son escorte et quatre éléphants, se mit à la poursuite de Rustem  ; mais lorsqu’ils l’eurent atteint, celui-ci ôta l’arc de son bras et s’avança vers eux en fureur, les accablant d’une grêle de traits et de coups d’épée.
+Le roi, avec son escorte et quatre éléphants, se mit à la poursuite de Rustem ; mais lorsqu’ils l’eurent atteint, celui-ci ôta l’arc de son bras et s’avança vers eux en fureur, les accablant d’une grêle de traits et de coups d’épée.
 
 Après avoir tué soixante braves, pareil à un lion, il fit une attaque avec la massue et en tua quarante autres des plus illustres, de sorte que le maître du monde eut peur et s’enfuit.
 
