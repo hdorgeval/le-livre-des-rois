@@ -73,7 +73,7 @@ Guiv avait observé Afrasiab et sa colère en parlant à son fils et la course r
 
 Quand il vit que les ennemis avaient violé leur promesse, il lança son cheval, accourut et dit à Rustem :
 
-> Ô héros, dis-moi, quels ordres donnes-tu à tes serviteurs?
+> Ô héros, dis-moi, quels ordres donnes-tu à tes serviteurs ?
 >
 > Fais attention à ce qui a été convenu ;
 >
@@ -83,15 +83,15 @@ Rustem répondit :
 
 > Je suis un homme de guerre et lent dans la lutte ;
 >
-> Mais pourquoi trembleriez-vous?
+> Mais pourquoi trembleriez-vous ?
 >
-> Pourquoi votre cœur se fendrait-il?
+> Pourquoi votre cœur se fendrait-il ?
 >
 > Dans un instant je vais abaisser la tête du Div Pouladwend de la sphère sublime du ciel jusque dans la poussière ;
 >
-> Et si ma main n’est pas assez forte pour ce combat, pourquoi me décourager imprudemment?
+> Et si ma main n’est pas assez forte pour ce combat, pourquoi me décourager imprudemment ?
 >
-> Si ce magicien insensé violait la foi jurée devant Dieu, pourquoi auriez-vous peur de cette violation?
+> Si ce magicien insensé violait la foi jurée devant Dieu, pourquoi auriez-vous peur de cette violation ?
 >
 > Car le Div ne ferait que répandre de la poussière sur sa propre tête.
 
@@ -129,7 +129,7 @@ Poulad dit à ses troupes :
 
 > Notre fortune, nos trésors, notre grande renommée sont perdus.
 >
-> Pourquoi donnerions-nous nos têtes au vent?
+> Pourquoi donnerions-nous nos têtes au vent ?
 >
 > Pourquoi nous battrions-nous ?
 
