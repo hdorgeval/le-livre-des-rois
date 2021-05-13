@@ -12,9 +12,9 @@ order: '105'
 
 Dieu eut pitié de la jeunesse de Bijen et confondit son ennemi.
 
-Pendant que les ouvriers creusaient un trou pour y planter le gibet, le hasard voulut que Piran fils de Wiseh parût au loin  ; quand il fut plus près, qu’il trouva la route couverte de Turcs armés, qu’il vit dresser un grand poteau d’où pendait un lacet roulé, il dit aux Touraniens :
+Pendant que les ouvriers creusaient un trou pour y planter le gibet, le hasard voulut que Piran fils de Wiseh parût au loin ; quand il fut plus près, qu’il trouva la route couverte de Turcs armés, qu’il vit dresser un grand poteau d’où pendait un lacet roulé, il dit aux Touraniens :
 
-> Qu’est-ce que ce gibet?
+> Qu’est-ce que ce gibet ?
 >
 > La porte du roi est-elle une place convenable pour une potence ?
 
@@ -22,13 +22,13 @@ Guersiwez lui répondit :
 
 > C’est pour Bijen, le pire des ennemis du roi.
 
-Piran poussa son cheval et s’approcha de Bijen, qu’il trouva abattu et dépouillé de ses vêtements  ;
+Piran poussa son cheval et s’approcha de Bijen, qu’il trouva abattu et dépouillé de ses vêtements ;
 
 Ses deux mains étaient fortement liées derrière le dos, sa bouche était sèche et son visage avait perdu son éclat et ses couleurs.
 
 Il lui demanda :
 
-> Comment es-tu arrivé ici ?
+> Comment es-tu arrivé ici ?
 >
 > Es-tu donc venu de l’Iran pour chercher la mort ?
 
@@ -44,17 +44,17 @@ Il donna un coup à son cheval et partit et se hâta d’arriver auprès du roi 
 
 Il entra dans le palais humblement comme un esclave et se présenta devant Afrasiab les mains croisées sur la poitrine ;
 
-Il courut jusqu’au-près du trône et invoqua sur le roi les grâces de Dieu  ;
+Il courut jusqu’au-près du trône et invoqua sur le roi les grâces de Dieu ;
 
 Ensuite, il se tint debout devant lui comme il convient à un Destour vertueux et de bon conseil.
 
-Le maître du monde vit que le noble Piran se tenait debout parce qu’il avait quelque chose à demander  ; il sourit et lui dit :
+Le maître du monde vit que le noble Piran se tenait debout parce qu’il avait quelque chose à demander ; il sourit et lui dit :
 
 > Que désires-tu ?
-
-Parle  !
-
-Il n’y a personne que j’honore autant que toi.
+>
+> Parle !
+>
+> Il n’y a personne que j’honore autant que toi.
 >
 > Si tu veux de l’or ou des joyaux, si tu veux un gouvernement ou une armée, je ne serai pas avare envers toi de mes trésors ;
 >
@@ -78,7 +78,7 @@ Il n’y a personne que j’honore autant que toi.
 
 Ensuite, il reprit :
 
-> Ô roi vainqueur des lions, accepte de moi un bon conseil : ne mets pas à mort l’illustre Bijen  ;
+> Ô roi vainqueur des lions, accepte de moi un bon conseil : ne mets pas à mort l’illustre Bijen ;
 >
 > Car il a pour le venger un roi homme de sens et de prudence.
 >
@@ -96,17 +96,17 @@ Ensuite, il reprit :
 >
 > Mais tu as fait périr Siawusch follement, tu as mêlé du poison avec ton miel.
 >
-> As-tu donc déjà oublié Guiv et le chef des Pehlewans, le vaillant Rustem ?
+> As-tu donc déjà oublié Guiv et le chef des Pehlewans, le vaillant Rustem ?
 >
-> N’as-tu pas vu le mal que les Iraniens ont fait dans le pays de Touran ?
+> N’as-tu pas vu le mal que les Iraniens ont fait dans le pays de Touran ?
 >
 > Les sabots de leurs destriers ont foulé les deux tiers du Touran et notre fortune s’est éclipsée et l’épée de Destan fils de Sam n’est jamais restée dans le fourreau ;
 >
 > Rustem la prendra et fera tomber les têtes et rejaillir le sang jusqu’au soleil.
 >
-> Pourquoi, au milieu de la paix, réveiller les combats?
+> Pourquoi, au milieu de la paix, réveiller les combats ?
 >
-> Pourquoi flairer, dans ta folie, la rose vénéneuse?
+> Pourquoi flairer, dans ta folie, la rose vénéneuse ?
 >
 > Si tu verses le sang de Bijen, la poussière de la destruction s’élèvera du pays de Touran.
 >
@@ -124,9 +124,9 @@ C’est ainsi qu’il essaya de jeter de l’eau sur cette flamme ardente ;
 
 Mais Afrasiab répondit :
 
-> Ne sais-tu donc pas ce que Bijen a fait contre moi et comment il m’a couvert de honte devant l’Iran et le Touran?
+> Ne sais-tu donc pas ce que Bijen a fait contre moi et comment il m’a couvert de honte devant l’Iran et le Touran ?
 >
-> Ne vois-tu pas comment ma fille éhontée a déshonoré ma vieille tête?
+> Ne vois-tu pas comment ma fille éhontée a déshonoré ma vieille tête ?
 >
 > Bijen a répandu parmi la foule les noms de toutes les femmes voilées du palais, de sorte que mes troupes et mes sujets riront toujours en passant devant ma porte.
 >
