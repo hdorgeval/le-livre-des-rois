@@ -55,7 +55,7 @@ Houman dit a Piran :
 
 > Il faut livrer bataille !
 >
-> Pourquoi tardes-tu?
+> Pourquoi tardes-tu ?
 >
 > Ce n’est pas pour chasser que l’armée est ici et que les chevaux sont couverts de leur armure.
 
@@ -81,7 +81,7 @@ Piran lui dit :
 >
 > Si nous pouvons nous emparer de nos ennemis sans combat, cela vaut bien un retard d’un ou deux jours.
 >
-> Pourquoi donc provoquer une bataille?
+> Pourquoi donc provoquer une bataille ?
 >
 > Il suffit d’envoyer cent cavaliers en vedette dans cette plaine et de rester tranquille jusqu’à ce que le manque de vivres et d’eau ait réduit les ennemis à demander grâce pour leur vie ;
 >
