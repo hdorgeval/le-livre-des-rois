@@ -51,7 +51,7 @@ Lorsque l’armée de Feribourz fut visible de la tour des Touraniens, la sentin
 
 Le Sipehbed se rendit auprès du Khakan de la Chine et lui dit :
 
-> Il vient une armée du pays d’Iran;
+> Il vient une armée du pays d’Iran ;
 >
 > Je n’en connais pas la force ni le nom de son chef.
 >
@@ -59,9 +59,9 @@ Le Sipehbed se rendit auprès du Khakan de la Chine et lui dit :
 
 Kamous le guerrier expérimenté lui dit :
 
-> Puisses-tu conserver à jamais la place d’honneur!
+> Puisses-tu conserver à jamais la place d’honneur !
 >
-> Tu commandes aux grands de la cour d’Afrasiab et à des troupes nombreuses comme les flots de la mer et tu sais ce que tu as fait pendant cinq mois sur cette plaine contre un si faible ennemi;
+> Tu commandes aux grands de la cour d’Afrasiab et à des troupes nombreuses comme les flots de la mer et tu sais ce que tu as fait pendant cinq mois sur cette plaine contre un si faible ennemi ;
 >
 > Mais maintenant que la terre est couverte de nos armées commandées par des chefs comme le Khakan, Manschour et moi, tu vas être témoin de nos hauts faits.
 >
@@ -71,17 +71,17 @@ Kamous le guerrier expérimenté lui dit :
 >
 > Tu veux m’effrayer par le nom de Rustem, mais c’est lui que j’anéantirai le premier une fois que j’aurai pris sa tête dans mon lacet, je ne laisserai pas une trace de son nom dans le monde.
 >
-> Tu as peur de l’armée du Seïstan et ton cœur se serre à l’idée d’avoir à la combattre;
+> Tu as peur de l’armée du Seïstan et ton cœur se serre à l’idée d’avoir à la combattre ;
 >
 > Mais tu vas voir ma main quand la poussière volera sur le champ de bataille et alors tu sauras ce que c’est qu’un homme et un brave et ce que c’est qu’un combat.
 
 Piran lui répondit :
 
-> Puisses-tu être heureux!
+> Puisses-tu être heureux !
 >
-> Puisse la main du malheur rester loin de toi!
+> Puisse la main du malheur rester loin de toi !
 >
-> Puisse tout ce que tu dis s’accomplir!
+> Puisse tout ce que tu dis s’accomplir !
 >
 > Puisses-tu ne jamais trouver d’égal !
 
@@ -91,7 +91,7 @@ Le Khakan dit à Piran :
 >
 > Les Iraniens ne sont pas si formidables, n’effraye donc pas le cœur des braves.
 >
-> Je ne laisserai en vie aucun des grands de l’Iran, je convertirai en désert les montagnes et les vallées, j’enverrai à Afrasiab tous les grands et les puissants chargés de lourdes chaînes ; à une foule d’autres je trancherai la tête;
+> Je ne laisserai en vie aucun des grands de l’Iran, je convertirai en désert les montagnes et les vallées, j’enverrai à Afrasiab tous les grands et les puissants chargés de lourdes chaînes ; à une foule d’autres je trancherai la tête ;
 >
 > Nous ne laisserons dans l’Iran ni une feuille, ni un arbre, ni un palais, ni un pavillon, ni une couronne.
 
@@ -99,13 +99,13 @@ Piran sourit et offrit ses hommages aux grands assemblés et au Khakan de la Chi
 
 > Il est arrivé une armée de l’Iran, précédée d’un chef portant un drapeau noir.
 >
-> Un de nos espions, un guerrier illustre, est parti;
+> Un de nos espions, un guerrier illustre, est parti ;
 >
 > Et à son retour il nous a rapporté que c’est Feribourz fils de Kaous, un cavalier plein de fierté et un serviteur de Khosrou.
 
 Piran dit au vaillant Houman :
 
-> Alors nous pouvons être sans souci;
+> Alors nous pouvons être sans souci ;
 >
 > Puisque ce n’est pas Rustem, nous n’avons rien à craindre de Feribourz, dont le souffle ne sera pas un remède contre ce poison.
 >
@@ -119,7 +119,7 @@ Houman lui dit :
 
 Piran lui répondit :
 
-> J’ai renoncé au trône et à la couronne, j’ai désespéré de la lumière du soleil et de la lune, quand j’ai entendu dire qu’une armée d’Iraniens s’approchait et arrivait sur ce champ de bataille;
+> J’ai renoncé au trône et à la couronne, j’ai désespéré de la lumière du soleil et de la lune, quand j’ai entendu dire qu’une armée d’Iraniens s’approchait et arrivait sur ce champ de bataille ;
 >
 > Mon âme et mon cervau étaient remplis de soucis et mon cœur poussait un grand soupir.
 
@@ -145,7 +145,7 @@ Le Hemawen retentit de cris, la terre tremblait sous le piétinement des chevaux
 
 Les braves rendirent grâces au Pehlewan, disant :
 
-> Puisse ton cœur rester vigilant et ton esprit serein!
+> Puisse ton cœur rester vigilant et ton esprit serein !
 >
 > Quand tu voudrais notre vie pour prix de la bonne nouvelle, nous la donnerions, car elle remplit nos âmes de joie.
 >
@@ -157,15 +157,15 @@ Le prudent Thous dit à l’armée :
 
 > D’un côté nous sommes entourés de dangers, de l’autre je crains des reproches.
 >
-> Car bien que tous les environs de la montagne soient remplis de troupes et que nos têtes soient prises dans le lacet, quand Rustem arrivera, il nous blâmera, sans peut-être daigner s’enquérir de ce qui s’est passé;
+> Car bien que tous les environs de la montagne soient remplis de troupes et que nos têtes soient prises dans le lacet, quand Rustem arrivera, il nous blâmera, sans peut-être daigner s’enquérir de ce qui s’est passé ;
 >
 > Il dira : 
 >
-> > Vous êtes comme un oiseau blessé au pied qui est pris dans le lacs : vous avez renoncé à l’action et désespéré de la lutte;
+> > Vous êtes comme un oiseau blessé au pied qui est pris dans le lacs : vous avez renoncé à l’action et désespéré de la lutte ;
 > >
 > > Car il y a ici un Sipehdar et une armée et cependant je n’ai pas vu un seul héros s’élancer au combat.
 >
-> Faisons donc une attaque, comme fait un vaillant lion;
+> Faisons donc une attaque, comme fait un vaillant lion ;
 >
 > Peut-être que nous parviendrons à les chasser de ce côté du bas de la montagne.
 
@@ -175,13 +175,13 @@ Mais l’armée lui répondit :
 >
 > Aucun de nous ne descendra de la montagne avant que Rustem soit arrivé.
 >
-> Nous nous prosternerons devant Dieu, car il est notre guide dans le bonheur et dans le malheur;
+> Nous nous prosternerons devant Dieu, car il est notre guide dans le bonheur et dans le malheur ;
 >
 > Et par ordre du Créateur du soleil et de la lune, Tehemten paraîtra sur ce champ de bataille.
 >
 > Pourquoi désespères-tu de ton étoile?
 >
-> Distribue de l’or et de l’argent aux pauvres;
+> Distribue de l’or et de l’argent aux pauvres ;
 >
 > Et quand Rustem sera arrivé, nous combattrons pour la gloire et nous laverons notre honte.
 
