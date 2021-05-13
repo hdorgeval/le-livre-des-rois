@@ -88,9 +88,9 @@ Arrivé près de Rustem, il examina ses bras et ses jambes et lui dit :
 
 Rustem lui répondit :
 
-> Ô toi qui parles tant et qui veux parvenir à tes fins par des discours flatteurs, pourquoi ne me dis-tu pas ton nom, ton pays, ta province et ta demeure?
+> Ô toi qui parles tant et qui veux parvenir à tes fins par des discours flatteurs, pourquoi ne me dis-tu pas ton nom, ton pays, ta province et ta demeure ?
 >
-> Pourquoi viens-tu auprès de moi, me parlant si longuement et avec tant de douceur et de tendresse?
+> Pourquoi viens-tu auprès de moi, me parlant si longuement et avec tant de douceur et de tendresse ?
 >
 > Si c’est la paix que tu désires, aide-moi à mettre fin à cette guerre.
 >
@@ -138,7 +138,7 @@ Rustem lui répondit :
 
 Houman l’écoutait transi de peur et le son de la voix de Rustem, qu’il entendait vouer à sa vengeance toute sa famille, le faisait trembler comme une feuille d’arbre ; il répondit :
 
-> Ô homme au cœur de lion, ô héros avide de guerre, avec cette mine et cette haute stature, ta place devrait être le trône de l’Iran : et tu ne serais qu’un vaillant Pehlewan ou un grand de l’Iran plein d’audace?
+> Ô homme au cœur de lion, ô héros avide de guerre, avec cette mine et cette haute stature, ta place devrait être le trône de l’Iran : et tu ne serais qu’un vaillant Pehlewan ou un grand de l’Iran plein d’audace ?
 >
 > Tu m’as demandé mon nom et mon origine ;
 >
@@ -170,13 +170,13 @@ Rustem lui dit :
 
 Houman lui répondit :
 
-> Ô toi qui portes haut la tête, tu veux voir Piran?
+> Ô toi qui portes haut la tête, tu veux voir Piran ?
 >
 > Que sais-tu de Piran et de Kelbad, de Guerouï Zereh et de Poulad ?
 
 Rustem lui dit :
 
-> Pourquoi tant de paroles?
+> Pourquoi tant de paroles ?
 >
 > Ne cherche pas à faire remonter l’eau vers sa source.
 >
