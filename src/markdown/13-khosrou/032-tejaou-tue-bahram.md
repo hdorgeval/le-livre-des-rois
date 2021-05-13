@@ -69,7 +69,7 @@ Il s’approcha de Bahram et lui dit :
 
 > Ô illustre héros !
 
-Pourquoi as-tu engagé un combat étant à pied?
+Pourquoi as-tu engagé un combat étant à pied ?
 >
 > Tu n’accompagnais pas Siawusch dans le Touran ;
 >
@@ -101,17 +101,17 @@ Piran lui dit :
 
 > Ô glorieux héros !
 >
-> Ne comprends-tu pas que c’est impossible?
+> Ne comprends-tu pas que c’est impossible ?
 >
 > Ce que je t’ai proposé valait mieux pour toi ;
 >
 > tu es un brave et tu ne t’obstineras pas follement.
 >
-> Crois-tu donc que les cavaliers de cette armée supporteront cette honte?
+> Crois-tu donc que les cavaliers de cette armée supporteront cette honte ?
 >
 > Trop d’hommes d’illustre naissance, trop de princes et de guerriers ont été blessés par tes flèches dans ce combat inattendu ;
 >
-> Et qui de nous passera dorénavant la frontière de l’Iran sans que sa tête et son sang bouillonnent?
+> Et qui de nous passera dorénavant la frontière de l’Iran sans que sa tête et son sang bouillonnent ?
 >
 > Et pourtant si je ne craignais la colère d’Afrasiab, que cela remplirait de courroux, je te donnerais un cheval, ô jeune homme, pour te porter auprès du Pehlewan.
 
