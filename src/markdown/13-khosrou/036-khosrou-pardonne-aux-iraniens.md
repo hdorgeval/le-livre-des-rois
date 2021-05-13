@@ -43,7 +43,7 @@ Lorsque le soleil au visage d’or se leva au-dessus de la montagne et que la nu
 >
 > Réfléchis encore que l’armée était dans l’erreur en croyant que ton noble frère était auprès de toi.
 >
-> Sache que personne ne meurt à moins que son temps ne soit venu;
+> Sache que personne ne meurt à moins que son temps ne soit venu ;
 >
 > N’abandonne donc pas ton âme à ces regrets.
 >
@@ -51,7 +51,7 @@ Lorsque le soleil au visage d’or se leva au-dessus de la montagne et que la nu
 
 Le roi lui répondit :
 
-> Ô Pehlewan, la mort de ce jeune homme m’a rempli de douleur;
+> Ô Pehlewan, la mort de ce jeune homme m’a rempli de douleur ;
 >
 > Mais je laisserai guérir mon âme par tes conseils, quoique mon cœur souffre cruellement.
 
@@ -61,15 +61,15 @@ Le roi pardonna à l’armée et les grands se retirèrent.
 
 Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se hâta de monter plus haut, qu’il déchira sa robe de turquoises et qu’il montra son corps brillant comme un rubis, le Sipehbed Thous, accompagné de Guiv et des chefs de l’armée de l’Iran, parut devant le roi et l’adora en disant :
 
-> Puisses-tu vivre heureux jusqu’à la fin des temps!
+> Puisses-tu vivre heureux jusqu’à la fin des temps !
 >
-> Puisse la terre être la base de ton trône et de ta couronne et le firmament la source de ta gloire et de ta fortune!
+> Puisse la terre être la base de ton trône et de ta couronne et le firmament la source de ta gloire et de ta fortune !
 >
-> Mon cœur est plein de soucis de ce que j’ai fait, il est brisé par la douleur et l’anxiété;
+> Mon cœur est plein de soucis de ce que j’ai fait, il est brisé par la douleur et l’anxiété ;
 >
 > Mon âme est remplie de honte devant le roi, ma langue ne prononce que des demandes de pardon, je suis plein de repentir et je brûle comme Adergouschasp en pensant à l’innocent Firoud et à Zerasp.
 >
-> C’est moi seul qui ai fait le mal;
+> C’est moi seul qui ai fait le mal ;
 >
 > Je tremble en réfléchissant à mes actions et ma vie ne vaut pas une obole au prix de celle de Bahram et de Rivniz.
 >
