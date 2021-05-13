@@ -28,7 +28,7 @@ Quand le maître du monde le vit, il se leva vivement, le bénit, étendit. la m
 >
 > Sois prudent, ne te laisse pas aller à la colère, observe toujours tes paroles.»
 
-Ensuite il dit aux Iraniens :
+Ensuite, il dit aux Iraniens :
 
 > Puissiez-vous jouir du bonheur à l’ombre de son trône et par l’influence de sa fortune!»
 
@@ -48,9 +48,11 @@ Zal se leva au milieu d’eux et dit franchement ce qu’il avait dans le cœur 
 >
 > Je ne connais pas son origine, je ne sais quelle est sa famille ; jamais je n’ai entendu parler d’un roi de cette espèce.»
 
-Lorsque le Destan fils de Sam eut prononcé ces paroles, toute l’assemblée lui témoigna sa sympathie et l’on entendit les voix des Iraniens qui s’écriaient : Dorénavant, ô roi, nous ne te servirons plus !
+Lorsque le Destan fils de Sam eut prononcé ces paroles, toute l’assemblée lui témoigna sa sympathie et l’on entendit les voix des Iraniens qui s’écriaient :
 
-Aucun de nous n’ira à la guerre, si le roi place Lohrasp ausdessus de nous.»
+> Dorénavant, ô roi, nous ne te servirons plus !
+>
+> Aucun de nous n’ira à la guerre, si le roi place Lohrasp ausdessus de nous.»
 
 Khosrou écouta les paroles du Destan et lui répondit :
 
@@ -82,9 +84,11 @@ Khosrou écouta les paroles du Destan et lui répondit :
 
 Les grands versèrent des pierreries sur Lohrasp et lui rendirent hommage comme à leur roi.
 
-Le roi bienheureux dit aux Iraniens : Adieu, ô trône qui ravis le cœur !
+Le roi bienheureux dit aux Iraniens :
 
-Quand j’aurai quitté cette vile terre, je prierai Dieu, le très-saint, pour qu’il vous réunisse de nouveau à moi.»
+> Adieu, ô trône qui ravis le cœur !
+>
+> Quand j’aurai quitté cette vile terre, je prierai Dieu, le très-saint, pour qu’il vous réunisse de nouveau à moi.»
 
 Il baisa sur la joue tous les grands, pour prendre congé et en versant beaucoup de larmes.
 
