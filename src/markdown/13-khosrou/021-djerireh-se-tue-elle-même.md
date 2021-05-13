@@ -58,7 +58,7 @@ Il s’approcha de la couche de Firoud, la joue inondée de larmes, l’âme ple
 >
 > Mais le ciel a la main assez longue pour atteindre et punir le crime et il ne tourne pas avec tendresse au-dessus de l’injuste.
 >
-> Ne serez-vous pas honteux maintenant de paraître devant Khosrou, après tout ce qu’il a dit à Thous avec tant d’insistance?
+> Ne serez-vous pas honteux maintenant de paraître devant Khosrou, après tout ce qu’il a dit à Thous avec tant d’insistance ?
 >
 > Il vous a envoyés pour venger Siawusch, il vous a donné beaucoup de conseils et d’avis !
 >
