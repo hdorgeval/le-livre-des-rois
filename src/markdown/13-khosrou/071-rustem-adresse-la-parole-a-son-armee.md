@@ -58,7 +58,7 @@ Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et Gu
 >
 > Vouons tous notre vie à Dieu ;
 >
-> Car pourquoi sommes-nous sur cette terre sombre?
+> Car pourquoi sommes-nous sur cette terre sombre ?
 >
 > Il faut détourner nos pensées du mal, il faut suivre la voie de Dieu et la raison ;
 >
