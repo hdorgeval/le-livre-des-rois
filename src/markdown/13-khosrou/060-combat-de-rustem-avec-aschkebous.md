@@ -106,7 +106,7 @@ Tehemten répondit :
 
 > Ô homme insensé et avide de combats, n’as-tu jamais vu un homme à pied combattre et jeter sous la pierre de la tombe une tête orgueilleuse ?
 >
-> Estce que dans ton pays les lions, les léopards et les crocodiles vont jamais à cheval au combat ?
+> Est-ce que dans ton pays les lions, les léopards et les crocodiles vont jamais à cheval au combat ?
 >
 > Je vais, ô vaillant cavalier, tout démonté que je suis, t’enseigner la guerre.
 >
