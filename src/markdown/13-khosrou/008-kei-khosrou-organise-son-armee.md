@@ -206,7 +206,7 @@ Où sont Selm et Feridoun ?
 
 > Ils ont disparu et la poussière les couvre.
 >
-> Pourquoi courir, travailler, amasser des richesses et étouffer dans notre cœur tout autre désir?
+> Pourquoi courir, travailler, amasser des richesses et étouffer dans notre cœur tout autre désir ?
 >
 > À la fin il ne nous reviendra de tout cela que le tombeau, auquel personne ne peut échapper.
 >
@@ -220,6 +220,6 @@ Où sont Selm et Feridoun ?
 
 Car il ne peut arriver que ce qui a été décrété dès le commencement.
 
-> Le bonheur et le malheur passent sur notre tête ; mais pourquoi le sage s’en inquiéterait-il?
+> Le bonheur et le malheur passent sur notre tête ; mais pourquoi le sage s’en inquiéterait-il ?
 >
 > Si Dieu le créateur nous est en aide, nous vengerons le sang de mon père.
