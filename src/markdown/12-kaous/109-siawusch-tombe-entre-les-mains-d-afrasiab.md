@@ -57,7 +57,7 @@ L’insensé Guersiwez lui répondit :
 
 > Ces paroles sont inconvenantes dans ta bouche.
 >
-> Si tu es venu si innocemment, pourquoi te présentestu devant le roi en cette de mailles ?
+> Si tu es venu si innocemment, pourquoi te présentes-tu devant le roi en cette de mailles ?
 >
 > Ce n’est pas ainsi qu’on va au devant de lui et l’arc et les cuirasses ne sont pas le présent qu’on offre au roi.»
 
@@ -75,10 +75,7 @@ Ensuite il se tourna vers Afiasiab, disant :
 >
 > Ce n’est pas un jeu de verser mon sang et d’attaquer des hommes innocents.
 >
-> Ne jette .
->
-> 
-pas au vent le pays de Touran et ta vie à cause des paroles de Guersiwez, issu d’une race méchante.»
+> Ne jette pas au vent le pays de Touran et ta vie à cause des paroles de Guersiwez, issu d’une race méchante.»
 
 Guersiwez le traître regardait le roi pendant que Siawusch parlait, puis il dit avec colère :
 
@@ -134,10 +131,7 @@ Or il y avait un frère de Piran, plus jeune que lui et son noble compagnon ; Pi
 
 Pilsem dit à l’illustre Afivwiab :
 
-> L’arbre
->
-> 
-que tu veux planter ne portera pour fruit que des soucis et des peines.
+> L’arbre que tu veux planter ne portera pour fruit que des soucis et des peines.
 >
 > J’ai entendu dire à un sage que la raison ne quittait jamais : Comment un homme qui agit lentement pourrait-il jamais avoir à se repentir ?
 >
@@ -187,10 +181,7 @@ Le roi fut ébranlé par ces paroles, mais son frère Guersiwez resta impitoyabl
 >
 > Tu as foulé aux pieds la queue du serpent et percé sa tête et maintenant tu couvrirais sa poitrine de brocart ?
 >
-> Si tu lui fais grâce
->
-> 
-de la vie, je ne paraîtrai plus devant toi, j’irai me cacher dans un coin du monde pour éviter que ma r tête ne tombe bientôt.»
+> Si tu lui fais grâce de la vie, je ne paraîtrai plus devant toi, j’irai me cacher dans un coin du monde pour éviter que ma r tête ne tombe bientôt.»
 
 Demour et Gueroui se présentèrent alors dans l’angoisse de la peur et s’approchèrent du roi, disant :
 
