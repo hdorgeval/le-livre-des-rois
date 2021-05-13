@@ -40,15 +40,15 @@ order: '012'
 
 # Firoud et Tokhareh vont observer l'armée iranienne
 
-Tokhareh et Firoud sortirent en toute hâte;
+Tokhareh et Firoud sortirent en toute hâte ;
 
-La tête du jeune prince était troublée et son étoile s’éclipsait;
+La tête du jeune prince était troublée et son étoile s’éclipsait ;
 
 Car quand le ciel qui tourne au-dessus de toi prend une voie défavorable, ni ta colère ni ta douceur ne peuvent te sauver.
 
 Firoud dit à Tokhareh à la voix douce :
 
-> Ne me cache rien de ce que je te demanderai;
+> Ne me cache rien de ce que je te demanderai ;
 >
 > Quand tu reconnaîtras un grand accompagné d’un drapeau, ou un héros qui porte une massue et des bottines d’or, dis-moi son nom, indique-moi tous ceux qui te sont connus parmi les Iraniens.
 
@@ -84,17 +84,17 @@ Lorsque le Destour eut regardé l’armée, le prince lui adressa la parole et l
 >
 > Le drapeau à figure de loup marque la place où se tient Guiv, le terrible Sipehdar.
 >
-> Le drapeau qui porte une figure de lion brodée en or flotte au-dessus de la tête de Gouderz fils de Keschwad;
+> Le drapeau qui porte une figure de lion brodée en or flotte au-dessus de la tête de Gouderz fils de Keschwad ;
 >
-> Celui qui est orné de cette grande figure de léopard est le drapeau de Rivniz le puissant, le joyeux;
+> Celui qui est orné de cette grande figure de léopard est le drapeau de Rivniz le puissant, le joyeux ;
 >
-> Celui qui porte une figure de gazelle appartient à Nestouh fils de Gouderz, qui est entouré de ses troupes;
+> Celui qui porte une figure de gazelle appartient à Nestouh fils de Gouderz, qui est entouré de ses troupes ;
 >
 > Enfin celui qui représente un argali est la bannière de Bahram fils de Gouderz fils de Keschwad.
 >
 > Tous ces hommes que tu vois sont des lions et de braves cavaliers, mais il serait trop long de les nommer tous.
 
-Pendant que Tokhareh énumérait ainsi les étendards des héros, Firoud, le rejeton de la race des rois, regardait avidement les grands et les petits de l’armée de l’Iran ; son cœur s’en réjouit, ses traits s’épanouirent et à la fin il dit :
+Pendant que Tokhareh énumérait ainsi les étendards des héros, Firoud, le rejeton de la race des rois, regardait avidement les grands et les petits de l’armée de l’Iran ; son cœur s’en réjouit, ses traits s’épanouirent et à la fin, il dit :
 
 > Et Maintenant il me sera facile de venger mon père ; et en poursuivant ma vengeance, je ne laisserai en vie aucun cavalier dans la Chine et le Madjin ; je m’emparerai d’Afrasiab le dragon, je foulerai aux pieds son trône.
 
