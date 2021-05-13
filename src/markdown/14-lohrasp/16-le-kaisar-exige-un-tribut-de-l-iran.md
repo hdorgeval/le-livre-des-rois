@@ -59,7 +59,7 @@ Le grand chambellan eut avis de sa venue, accourut auprès du roi et dit :
 
 > Il y a à la porte un vieillard plein d’expérience, qui est sans doute un messager du Kaisar ; il amène beaucoup de cavaliers illustres et demande une audience du roi.
 
-À ces paroles, Lohrasp s’assit sur son trône d’ivoire et posa sur sa tête sa couronne qui réjouissait les cœurs et les grands de l’Iran, aux cœurs joyeux, à la fortune prospère, s’assiteut sous son trône.
+À ces paroles, Lohrasp s’assit sur son trône d’ivoire et posa sur sa tête sa couronne qui réjouissait les cœurs et les grands de l’Iran, aux cœurs joyeux, à la fortune prospère, s’assirent sous son trône.
 
 Il ordonna alors de lever le rideau de la porte et de faire entrer le messager ; celui-ci se présenta devant le trône, rendit hommage au roi et le salua humblement ; ensuite il s’acquitta du message du puissant Kaisar, mais en se conduisant lui-même avec sagesse et modération.
 
@@ -67,7 +67,7 @@ Le roi fut blessé de ses paroles, il fut confondu de cette tournure du sort.
 
 Il fit arranger magnifiquement un appartement et demanda du vin, de la musique et des chanteurs ; il envoya au messager des tapis de brocart, des vêtements et de la nourriture.
 
-C’est ainsi qu’il l’accueillit par des fêtes, comme s’il n’avait pas reçu un message de guerre ; mais dans la nuit il se coucha, se tordant dans ses soucis ; tu aurais dit que la douleur et le chagrin étaient ses compagnons.
+C’est ainsi qu’il l’accueillit par des fêtes, comme s’il n’avait pas reçu un message de guerre ; mais dans la nuit, il se coucha, se tordant dans ses soucis ; tu aurais dit que la douleur et le chagrin étaient ses compagnons.
 
 Lorsque le soleil fut monté sur son trône d’or et eut déchiré de ses ongles la joue de la nuit sombre.
 
@@ -93,11 +93,11 @@ Le messager répondit :
 
 > Ô roi plein de prudence !
 >
-> c’est moi qui fus envoyé dans le pays des Khazars pour réclamer le tribut ;
+> C'est moi qui fus envoyé dans le pays des Khazars pour réclamer le tribut ;
 >
 > j’ai eu à supporter bien du mal dans cette ambassade et personne ne m’a adressé des questions comme tu fais ; mais puisque le roi m’a reçu si courtoisement, il ne serait pas juste que je me permisse de le tromper.
 >
-> Un cavalier est arrivé. auprès du Kaisar, un vainqueur de lions qui est sorti des forêts ;
+> Un cavalier est arrivé auprès du Kaisar, un vainqueur de lions qui est sorti des forêts ;
 >
 > il se rit des plus braves au jour de la bataille et des coupes de vin au temps des festins ;
 >
