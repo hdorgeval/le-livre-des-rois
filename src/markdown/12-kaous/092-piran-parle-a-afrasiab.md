@@ -47,7 +47,7 @@ Il m’a dit :
 
 > J’ai naguère parlé de ceci, mais tu n’as pas été de mon avis ; et pourtant un sage dont l’âme est pleine de prudence et dont l’esprit est élevé, m’a dit :
 
-> Ô toi, qui élèves le petit d’un lion féroce, pourquoi te fatiguestu pour un vain but ?
+> Ô toi, qui élèves le petit d’un lion féroce, pourquoi te fatigues-tu pour un vain but ?
 >
 > Tu te donnes de la peine, tu rends vaillant le lionceau, mais tu cesseras de porter du fruit quand il en portera.
 >
@@ -59,8 +59,7 @@ Il m’a dit :
 >
 > Ce couple aurait pour fils un roi qui s’emparerait du monde, qui dévasterait entièrement le pays de Touran et qui commencerait par ceindre mon diadème.
 >
-> Pourquoi donc me fau-
-drait-il planter de mes propres mains un arbre dont le fruit serait du poison et la racine du venin?
+> Pourquoi donc me faudrait-il planter de mes propres mains un arbre dont le fruit serait du poison et la racine du venin?
 >
 > La race de Kaous et celle d’Af’rasiab sont comme la flamme ardente méléeavec les vagues de la mer.
 >
