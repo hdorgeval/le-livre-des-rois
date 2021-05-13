@@ -28,11 +28,11 @@ order: '022'
 
 # Thous conduit son armée vers le Kasehroud
 
-Lorsque Thous eut enterré Firoud, il quitta le château et s’arrêta pendant trois jours à Djerem;
+Lorsque Thous eut enterré Firoud, il quitta le château et s’arrêta pendant trois jours à Djerem ;
 
 Le quatrième jour on entendit le son des clairons d’airain, le Sipehdar mit l’armée en marche, les trompettes et les timbales résonnèrent et une poussière noire s’éleva sur la plaine, d’une montagne à l’autre.
 
-Quand Thous rencontrait un Touranien, il le tuait et le jetait dans un fossé;
+Quand Thous rencontrait un Touranien, il le tuait et le jetait dans un fossé ;
 
 Il dévasta toute la frontière et marcha ainsi jusqu’aux bords du Kasehroud, où il fit camper son armée dont les tentes couvraient la terre.
 
@@ -50,7 +50,7 @@ Bijen lui dit :
 
 Guiv lui répondit :
 
-> Ne te hâte pas de lutter contre ce lion;
+> Ne te hâte pas de lutter contre ce lion ;
 >
 > Il ne faut pas le combattre, car cette entreprise détruirait mon bonheur.
 >
@@ -62,11 +62,11 @@ Bijen lui dit :
 >
 > Prête-moi, pour ce combat, l’armure de Siawusch et tu verras un léopard saisir sa proie.
 
-Guiv lui remit la cette de mailles qu’il demandait et Bijen en ferma soigneusement les boucles;
+Guiv lui remit la cette de mailles qu’il demandait et Bijen en ferma soigneusement les boucles ;
 
 Il monta un cheval ardent et s’avança dans la plaine, une lance en main.
 
-Palaschan avait tué une antilope et en faisait rôtir des morceaux devant le feu;
+Palaschan avait tué une antilope et en faisait rôtir des morceaux devant le feu ;
 
 Il tenait son lacet suspendu à son bras pendant qu’il était assis pour manger.
 
@@ -74,31 +74,31 @@ Son cheval, qui errait en paissant, aperçut de loin le cheval de Bijen, poussa 
 
 Il s’adressa à Bijen, en criant d’une voix forte :
 
-> Je suis le destructeur des lions, le vainqueur des Divs!
+> Je suis le destructeur des lions, le vainqueur des Divs !
 >
 > Dis-moi ton nom, car ton étoile aura à te pleurer.
 
 Le héros lui répondit :
 
-> Je suis Bijen et dans le combat un éléphant au corps d’airain;
+> Je suis Bijen et dans le combat un éléphant au corps d’airain ;
 >
-> Mon grand-père est un lion plein de bravoure, mon père est le vaillant Guiv et tu vas éprouver la force de mon bras;
+> Mon grand-père est un lion plein de bravoure, mon père est le vaillant Guiv et tu vas éprouver la force de mon bras ;
 >
 > Car tu n’es pour moi, au jour de la bataille et au moment du combat, que comme un loup de la montagne qui se repaît de cadavres.
 >
-> Tu t’es nourri de fumée, de cendres et de sang;
+> Tu t’es nourri de fumée, de cendres et de sang ;
 >
 > Mais comment se fait-il que tu oses mener ton armée sur ce champ de bataille ?
 
 Palaschan, sans lui répondre, lança son cheval pareil à un éléphant de guerre.
 
-Les deux cavaliers s’attaquèrent avec fureur et soulevèrent la poussière noire;
+Les deux cavaliers s’attaquèrent avec fureur et soulevèrent la poussière noire ;
 
-Les pointes de leurs lances se brisèrent ; ils saisirent leurs épées, qui bientôt tombèrent par morceaux, tant ils frappaient fort;
+Les pointes de leurs lances se brisèrent ; ils saisirent leurs épées, qui bientôt tombèrent par morceaux, tant ils frappaient fort ;
 
 Ils tremblaient tous les deux comme les feuilles du tremble ; leurs chevaux étaient inondés de sueur et leur tête était étourdie.
 
-Ces deux fiers lions, ces deux combattants ardents, saisirent leurs lourdes massues;
+Ces deux fiers lions, ces deux combattants ardents, saisirent leurs lourdes massues ;
 
 Ils luttèrent ainsi jusqu’à ce que Bijen poussa un grand cri, leva sur son épaule sa pesante massue, en donna un coup à Palaschan au milieu du corps, lui fracassa l’épine du dos et le fit tomber de cheval, le corps, le casque et la cuirasse brisés.
 
@@ -112,7 +112,7 @@ Il poussait des cris, il bouillonnait assis sur la colline et regardait s’il n
 
 À la fin son jeune fils parut avec la tête, la cuirasse et le cheval du Pehlewan et les plaça devant son père, qui s’écria :
 
-> Ô mon fils!
+> Ô mon fils !
 >
 > Puisses-tu être toujours victorieux !
 
@@ -122,8 +122,8 @@ Thous fut si rempli de joie, que tu aurais dit qu’il versait son âme sur Bije
 
 > Palaschan était le soutien de leur armée, le chef de leurs braves, le diadème du roi.
 >
-> Puisses-tu être toujours heureux!
+> Puisses-tu être toujours heureux !
 >
-> Puisses-tu toujours réussir!
+> Puisses-tu toujours réussir !
 >
 > Puissent tes ennemis être impuissants à te faire du mal !
