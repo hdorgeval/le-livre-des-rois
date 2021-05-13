@@ -82,7 +82,7 @@ Thous lui dit :
 >
 > C’était écrit et ce qui est fait est fait.
 >
-> Jette les yeux sur l’armée ; y vois-tu un homme égal à Rivniz en bravoure, en beauté et en qualités de toute espèce?
+> Jette les yeux sur l’armée ; y vois-tu un homme égal à Rivniz en bravoure, en beauté et en qualités de toute espèce ?
 >
 > Il a toujours rempli de vin et de lait la coupe de ma vie.
 >
