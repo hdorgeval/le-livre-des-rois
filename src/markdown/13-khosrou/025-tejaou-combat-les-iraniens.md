@@ -34,7 +34,7 @@ order: '025'
 
 Aussitôt que le soleil se fut levé sur la plaine et que son poignard eut jeté un reflet violet sur la nuit qui fuyait, Tejaou s’avança avec son armée et les vedettes crièrent aux Iraniens qu’il arrivait du Touran une troupe guerrière, dont le Sipehbed était un crocodile qui tenait dans sa main un étendard.
 
-Guiv, entouré de quelques braves, quitta le camp des grands de l’Iran pour aller à sa rencontre;
+Guiv, entouré de quelques braves, quitta le camp des grands de l’Iran pour aller à sa rencontre ;
 
 Il lui demanda son nom avec colère, disant :
 
@@ -46,9 +46,9 @@ Le vaillant Tejaou lui répondit :
 
 > Mon cœur est brave, ma main est une griffe de lion.
 >
-> Je descends d’une famille iranienne, d’une famille de braves et d’une race de lions;
+> Je descends d’une famille iranienne, d’une famille de braves et d’une race de lions ;
 >
-> Mais maintenant je suis le gardien de cette frontière et m’assieds sur le trône de cette province;
+> Mais maintenant je suis le gardien de cette frontière et m’assieds sur le trône de cette province ;
 >
 > je suis le sceau des braves et le gendre du roi.
 
@@ -64,7 +64,7 @@ Guiv lui dit :
 >
 > Mais si tu veux faire ta soumission pour toi et ton armée, si tu veux te rendre dans l’Iran devant le roi, si tu veux dans ce moment m’accompagner auprès du Sipehbed Thous, lui parler et obéir à ses ordres, je te ferai donner par lui des robes d’honneur et des trésors, des esclaves et des chevaux caparaçonnés.
 >
-> Je crois, ô homme illustre, que c’est là la voie droite;
+> Je crois, ô homme illustre, que c’est là la voie droite ;
 >
 > Qu’en dis-tu?
 >
@@ -76,11 +76,11 @@ Le rusé Tejaou répondit :
 
 Personne n’abattra mon drapeau.
 
-> Le sceau et le trône de ce pays sont à moi;
+> Le sceau et le trône de ce pays sont à moi ;
 >
-> Je possède des chevaux, des troupeaux et une armée;
+> Je possède des chevaux, des troupeaux et une armée ;
 >
-> Mon maître est Afrasiab, un roi tel que les Iraniens n’en ont pas vu de pareil, même en rêve;
+> Mon maître est Afrasiab, un roi tel que les Iraniens n’en ont pas vu de pareil, même en rêve ;
 >
 > J’ai des esclaves et des chevaux aux pieds de vent qui errent librement dans la plaine de Guirauguird.
 >
@@ -92,7 +92,7 @@ Là-dessus Bijen dit à son noble père :
 
 > Ô illustre héros, toujours prêt pour le combat ! ô prudent Pehlewan qui portes haut la tête !
 
-Tu n’es plus dans ta vieillesse ce que tu étais dans ta jeunesse;
+Tu n’es plus dans ta vieillesse ce que tu étais dans ta jeunesse ;
 
 > Pourquoi donner tous ces conseils à Tejaou?
 >
@@ -112,13 +112,13 @@ Mais bientôt Arjeng lui-même se retira tout découragé ; deux tiers de l’ar
 
 Il s’enfuit et Bijen le glorieux lion le suivit en poussant des cris, en bouillant de rage, en brandissant sa lance : tu aurais dit que c’était un éléphant furieux.
 
-Sa lance atteignit Tejaou au milieu du corps et il le priva de toute sa force;
+Sa lance atteignit Tejaou au milieu du corps et il le priva de toute sa force ;
 
 Le Touranien chancela, sa cuirasse de Roum fut ébranlée et les boutons s’ouvrirent.
 
 Lorsque Bijen vit que son ennemi voulait se soustraire au combat, il jeta sa lance par terre, étendit la main comme un léopard dans la montagne étend sa griffe sur un bélier sauvage ; et semblable à un vautour qui saisit une alouette, il arracha à Tejaou cette couronne qu’Afrasiab avait mise sur sa tête en vantant sa sagesse et sa haute naissance.
 
-Tejaou, suivi par Bijen qui ressemblait à Adergouschasp, poussa son cheval vers la porte de son château;
+Tejaou, suivi par Bijen qui ressemblait à Adergouschasp, poussa son cheval vers la porte de son château ;
 
 Mais lorsqu’il en fut tout près, Ispenoui se présenta devant lui, le visage inondé de larmes et s’écriant :
 
@@ -140,17 +140,17 @@ Il s’approcha d’elle, la fit monter devant lui sur son cheval et lui en mit 
 
 Lorsque cette belle qui portait haut la tête fut assise, Tejaou lui abandonna un de ses étriers pour stimuler le cheval ; il courut comme un tourbillon de poussière, tenant Ispenoui devant lui et poursuivi par l’illustre Bijen, qui voulait le combattre.
 
-Pendant quelque temps le cheval de Tejaou soutint la course, mais à la fin l’homme et le cheval se trouvèrent également épuisés;
+Pendant quelque temps le cheval de Tejaou soutint la course, mais à la fin l’homme et le cheval se trouvèrent également épuisés ;
 
 Tejaou dit alors à son esclave :
 
 > Ô ma belle compagne !
 
-Le danger est devenu pressant, mon destrier est épuisé, derrière nous est l’ennemi, devant nous un ravin;
+Le danger est devenu pressant, mon destrier est épuisé, derrière nous est l’ennemi, devant nous un ravin ;
 
 > Et quand même je pourrais toujours tenir Bijen à distance, je finirais par tomber entre les mains de l’ennemi.
 >
-> Mais toi, tu n’as pas un seul ennemi;
+> Mais toi, tu n’as pas un seul ennemi ;
 >
 > Ne reste donc pas avec moi, pour que je puisse remettre à la course ce cheval.
 
@@ -160,11 +160,11 @@ Le cheval se sentant allégé, prit un nouvel élan et Bijen poursuivit le fugit
 
 Mais lorsqu’il aperçut Ispenoui au visage de lune, dont la chevelure noire lui descendait jusqu’aux pieds, il mit pied à terre auprès d’elle et s’empara avec douceur de sa personne.
 
-Il la plaça derrière lui et s’en retourna au camp du Pehlewan;
+Il la plaça derrière lui et s’en retourna au camp du Pehlewan ;
 
 Il arriva joyeusement sous la porte de la tente de Thous et y fut reçu au son des timbales, comme un prudent et vaillant cavalier qui revenait fièrement de la bataille chargé de butin.
 
-Le Sipehdar et les vaillants héros s’occupèrent d’abord à saccager le château de Tejaou;
+Le Sipehdar et les vaillants héros s’occupèrent d’abord à saccager le château de Tejaou ;
 
 Ensuite ils allèrent à la recherche de ses troupeaux qui erraient sur les plaines du Touran.
 
