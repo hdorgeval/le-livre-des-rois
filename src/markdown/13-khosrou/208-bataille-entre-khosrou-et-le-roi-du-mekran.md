@@ -81,7 +81,7 @@ On entendit dans les villes et les caurpagnes les lamentations des femmes ; tout
 
 On mit le feu aux portes des villes et le ciel semblait s’écrouler sur la terre.
 
-On perça beaucoup d’hommes avec des flèches, on s’empara des femmes et des petiAtlsa finela cnolèfreadunroitcosntr.e ce.peuple s’apaise!
+On perça beaucoup d’hommes avec des flèches, on s’empara des femmes et des petiAtlsa finela cnolèfreadunroitcosntr.e ce.peuple s’apaise !
 et il ordonna à son armée de se retirer ; il commanda a Aschkesch, dont l’intelligence était prompte, de mettre fin à ce pillage, à ces combats et à cette effervescence ; de ne permettre à personne un acte de cruauté, pour que ceux qui ne peuvaient se défendre n’eussent pas à souffrir.
 
 Tous les hommes de bien de ce pays vinrent auprès du roi pour demander pardon, disant :
