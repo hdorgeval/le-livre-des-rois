@@ -66,7 +66,7 @@ La jeune fille voilée bouillonnait d’amour, dans sa tente, pour ce visage de 
 > > Comment es-tu arrivé là ?
 > > Qui t’a amené dans ce lieu ?
 > >
-> > Es-tu un fils de Péri ou Siawusch, toi qui remplis d’amour tous les cœurs  ?
+> > Es-tu un fils de Péri ou Siawusch, toi qui remplis d’amour tous les cœurs ?
 > >
 > > Estce que la résurrection va venir, puisque tu as allumé ce feu des passions ?
 > >
