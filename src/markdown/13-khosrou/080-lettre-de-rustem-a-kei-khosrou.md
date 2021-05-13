@@ -92,7 +92,7 @@ Rustem dit à Thous, à Gouderz et à Guiv :
 
 > Ô illustres et vaillants guerriers, je recommence la guerre, je réduirai au désespoir nos ennemis.
 >
-> Qui sait si cet homme prudent et rusé n’amènera pas de nouveau une armée tirée de la Chine, du Seklab et de l’Inde?
+> Qui sait si cet homme prudent et rusé n’amènera pas de nouveau une armée tirée de la Chine, du Seklab et de l’Inde ?
 >
 > Mais je le rendrai comme ivre, je le priverai de raison et réduirai son corps en poussière pour la répandre sur la tombe de Siawusch ;
 >
