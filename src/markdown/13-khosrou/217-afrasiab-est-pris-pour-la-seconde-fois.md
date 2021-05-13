@@ -24,7 +24,7 @@ Khosrou s’approcha, une épée tranchante en main, la tête remplie de haine, 
 >
 > Le ciel a tourné longtemps et à la lin il a déchiré le voile des secrets.»
 
-L Ensuite il ajouta d’une voix forte : Ô méchant, qui as cherché la vengeance, dis-moi pourquoi tu veux tuer ton grand père?»
+L Ensuite, il ajouta d’une voix forte : Ô méchant, qui as cherché la vengeance, dis-moi pourquoi tu veux tuer ton grand père?»
 
 Khosrou répondit :
 
@@ -51,7 +51,7 @@ Khosrou lui dit :
 > Tu as tranché la tête à un roi que la couronne et le trône d’ivoire ont pleuré amèrement ; mais aujourd’hui est le jour de la vengeance de Dieu et la récompense qu’il donne aux méchants
 > . est le malheur.»
 
-Khosrou le frappa au cou avec son épée indienne et jeta dans la poussière son corps délicatement élevé;
+Khosrou le frappa au cou avec son épée indienne et jeta dans la poussière son corps délicatement élevé ;
 
 KEÏ KHOSHOU. -le sangr colora comme un rubis son visage et sa barbe blanche et son frère désespéra de la vie.
 
@@ -80,7 +80,7 @@ un jour à la tête :
 >
 > Le roi des rois, roi de l’Iran, se mit à lui parler du vase et du poignard dont il s’était servi pour le meurtre de Siawusch, de Tour, fils de Feridoun et du farouche Selm et d’Iredj, qui avait été un puissant roi.
 >
-> Ensuite il donna ses ordres au bourreau, P li).
+> Ensuite, il donna ses ordres au bourreau, P li).
 >
 > À qui tira son épée tranchante, s’approcha le cœur plein de résolution et coupa le Sipehbed en deux par les reins.
 >
