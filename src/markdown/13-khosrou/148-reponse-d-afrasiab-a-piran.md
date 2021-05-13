@@ -89,7 +89,7 @@ Il s’adressa à Dieu, disant :
 
 Il recommença à soupirer devant Dieu, disant :
 
-> Ô Maître de la lumière et de la justice, ô Créateur!
+> Ô Maître de la lumière et de la justice, ô Créateur !
 si Keï Khosrou sort de l’Iran pour se venger et si la terre entière retombe entre ses mains, je consens que ma cuirasse soit percée et que tu enlèves mon âme de mon corps.
 >
 > Puisse mon œil ne jamais voir quelqu’un prendre la voie et la ligne de conduite que j’ai suivie !
