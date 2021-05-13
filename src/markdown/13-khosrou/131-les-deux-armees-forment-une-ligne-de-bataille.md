@@ -98,7 +98,7 @@ Le chef des Turcs se mit en fureur et maudit le soleil éclipsé de sa fortune ;
 
 Il s’occupa donc à régler tout, comme on doit faire quand il s’agit de livrer bataille à des braves.
 
-Ensuite il choisit parmi ses glorieuses troupes celles qui étaient les plus prêtes à frapper et parmi celles d’Afrasiab, tout ce qui montrait le plus d’ardeur ; il en composa un corps de trente mille hommes armés d’épées et propres au combat et confia à Houman le centre de l’armée et cette troupe avide de bataille.
+Ensuite, il choisit parmi ses glorieuses troupes celles qui étaient les plus prêtes à frapper et parmi celles d’Afrasiab, tout ce qui montrait le plus d’ardeur ; il en composa un corps de trente mille hommes armés d’épées et propres au combat et confia à Houman le centre de l’armée et cette troupe avide de bataille.
 
 Il appela Anderiman et Aukhast, les soutiens de la gauche et de la droite de son armée et il leur confia l’aile gauche composée de trente mille vaillants guerriers.
 
