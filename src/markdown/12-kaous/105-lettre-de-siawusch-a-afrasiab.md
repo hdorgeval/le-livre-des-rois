@@ -20,7 +20,7 @@ Il commença par glorifier Dieu le créateur, qui soulage les peines de ses serv
 >
 > Tu m’as appelé auprès de toi et je m’en suis réjoui.
 >
-> Puissestu être environné de sages !
+> Puisses-tu être environné de sages !
 >
 > Tu as aussi appelé F erenguis, ce qui a rempli son cœur de tendresse et du désir de t’obéir ; mais elle est souffrante en ce moment, ses lèvres ne prennent point de nourriture. et son corps ne peut se mouvoir.
 >
@@ -32,8 +32,7 @@ Il commença par glorifier Dieu le créateur, qui soulage les peines de ses serv
 >
 > Que jusque-là mon anxiété m’excuse ; le secret de ce délai n’est que dans ses douleurs et dans les soins que son état exigea
 >
-> Siawusch ayant scellé la lettre, la donna surle-
-champ à Guersiwez, ce rejeton d’une méchante race ; celui-ci demanda trois chevaux rapides et se mita courir jour et nuit sans relâche.
+> Siawusch ayant scellé la lettre, la donna sur-le-champ à Guersiwez, ce rejeton d’une méchante race ; celui-ci demanda trois chevaux rapides et se mita courir jour et nuit sans relâche.
 >
 > En trois jours il fit cette longue route, si difficile par ses montées et ses descentes.
 >
