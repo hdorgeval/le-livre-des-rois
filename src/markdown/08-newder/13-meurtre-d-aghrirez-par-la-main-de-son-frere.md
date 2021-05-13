@@ -12,7 +12,7 @@ order: '013'
 
 Lorsque Aghrirez fut arrivé d’Amol à Bai, le roi eut nouvelle de ce qu’il avait fait et lui dit :
 
-> Qu’estu donc fait ?
+> Qu’as-tu donc fait ?
 >
 > Pourquoi mêles-tu ainsi le miel avec la coloquinte ?
 >
