@@ -23,7 +23,7 @@ Lorsque le roi, assis sur son éléphant, eut donné le signal de la guerre en j
 
 Il envoya des ordres sur toutes les frontières . 9 où il avait dirigé des armées pourvues de ses conseils et de ses instructions,à Lohrasp, Aschkesch prompt à frapper, qui tirait le crocodile du fond de la mer, puis à l’illustre Rustem, le Pehlewan bienaimé ; noble et toujours calme ; et il rappela à la cour tous . ceux qui étaient braves et avides de combats.
 
-Ensuite il ouvrit ses trésors et paya la solde de l’armée ; il parla beaucoup des mânes de son père et distingua parmi la foule trois hommes à la parole facile, au cœur serein et prompts à frapper de l’épée : Rustem, le grand Pehlewan ; Gouderz le sagace, le vieux s loup ; enfin Thous, le Pehlewan aux bottines d’or, qui portait le drapeau de Kaweh.
+Ensuite, il ouvrit ses trésors et paya la solde de l’armée ; il parla beaucoup des mânes de son père et distingua parmi la foule trois hommes à la parole facile, au cœur serein et prompts à frapper de l’épée : Rustem, le grand Pehlewan ; Gouderz le sagace, le vieux s loup ; enfin Thous, le Pehlewan aux bottines d’or, qui portait le drapeau de Kaweh.
 
 Le roi du monde leur dit :
 
@@ -52,7 +52,7 @@ Il plaça à sa gauche tous les descendants de Keîkobad, princes distingués pa
 
 Les grands de la famille de Zerir, qui frappaient avec leur épée pendant la nuit, malgré le sombre brouillard ; Bi-jen fils de Guiv, avec Rehham le brave, que le roi comptait parmi ses grands ; Gourguin fils de Milad et les héros de Keï, qui étaient tous arrivés selon l’ordre du Keïanide ; afin le fils de Zerasp, l’adorateur du glorieux Adergouschasp, se placèrent tous derrière Khosrou pour former sa garde,’ et leurs lances perçaient le brouillard.
 
-Ensuite il confia à Rustem l’aile droite, corps de troupes qui était comme un seul cœur et un seul homme ; il plaça à droite tous ceux qui venaient du Zaboulistan, même les princes et les parents du Dese tan, pendant qu’il réclamait pour lui-même tout l’honneur et toute la direction du combat.
+Ensuite, il confia à Rustem l’aile droite, corps de troupes qui était comme un seul cœur et un seul homme ; il plaça à droite tous ceux qui venaient du Zaboulistan, même les princes et les parents du Dese tan, pendant qu’il réclamait pour lui-même tout l’honneur et toute la direction du combat.
 
 Il choisit ensuite pour former l’aile gauche une armée brillante comme le soleil au signe du Bélier.
 
@@ -86,7 +86,7 @@ Khosrou lui ordonna de se placer à côté de Nestouh et l’aile gauche de l’
 
 Il y avait encore les troupes du Roum et du Berberistan, sous un chef nommé Leschkersim tan : c’étaient trente mille hommes, fantassins et cavaliers,qui se rangèrent à la gauche du roi.
 
-Ensuite il y avait une armée de braves du Khorasan, ambitieux et connaissant les hommes ; leur chef était Minoutchehr, fils d’Arisch,qui les conduisait aux lieux où s’acquiert la gloire.
+Ensuite, il y avait une armée de braves du Khorasan, ambitieux et connaissant les hommes ; leur chef était Minoutchehr, fils d’Arisch,qui les conduisait aux lieux où s’acquiert la gloire.
 
 Au delà se trouvait un homme illustre, de la famille de Keroukhan, un prince de la race de Keîkobad, appelé le roi Firouz, un chef qui enflammait les cœurs et animait les armées ; il était roi de Gartcheh et ressemblait à un lion qui terrasserait un éléphant furieux.
 
