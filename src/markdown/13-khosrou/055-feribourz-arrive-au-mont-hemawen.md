@@ -37,7 +37,7 @@ Quand il fut près de l’armée, il vit le drapeau de Feribourz fils de Kaous, 
 
 Gouderz l’aimait, c’était son parent et un jeune capitaine.
 
-Le vieux Gouderz mit pied à terre et de même Feribourz, la gloire de l’armée, le sage;
+Le vieux Gouderz mit pied à terre et de même Feribourz, la gloire de l’armée, le sage ;
 
 Ils s’embrassèrent et Gouderz versa des larmes de sang sur sa poitrine.
 
@@ -51,15 +51,15 @@ Hélas !
 
 Ces cavaliers de la famille de Gouderz !
 
-> Puisses-tu recevoir d’eux beaucoup de bonnes nouvelles!
+> Puisses-tu recevoir d’eux beaucoup de bonnes nouvelles !
 >
-> Puisse la fortune de tes ennemis baisser!
+> Puisse la fortune de tes ennemis baisser !
 >
 > Grâces soient rendues au maître du soleil et de la lune de ce que je te trouve ici en vie !
 
 Gouderz versa des larmes de sang sur le sort de ceux qui étaient morts et que la terre recouvrait et répondit à Feribourz :
 
-> Ma mauvaise fortune ne cesse pas de répandre du malheur sur ma tête;
+> Ma mauvaise fortune ne cesse pas de répandre du malheur sur ma tête ;
 >
 > Cette guerre ne m’a laissé ni fils, ni petit-fils, ni armée, ni drapeau, ni tambour.
 >
@@ -67,7 +67,7 @@ Gouderz versa des larmes de sang sur le sort de ceux qui étaient morts et que l
 >
 > Cette plaine et ces collines sont couvertes d’une armée telle que la surface de la terre ressemble au plumage du corbeau et toutes les troupes de Thous ne sont auprès d’elle que comme un poil noir sur la peau d’un taureau blanc.
 >
-> Ils sont venus de la Chine et du pays de Seklab, de l’Inde et du Roum, des déserts et des pays habités;
+> Ils sont venus de la Chine et du pays de Seklab, de l’Inde et du Roum, des déserts et des pays habités ;
 >
 > Enfin il n’est pas resté un être vivant qui n’ait pris les armes contre nous.
 >
@@ -75,7 +75,7 @@ Gouderz versa des larmes de sang sur le sort de ceux qui étaient morts et que l
 
 Feribourz lui répondit :
 
-> Il me suit et ne désire que le combat!
+> Il me suit et ne désire que le combat !
 >
 > Il marche pendant la nuit sombre et pendant le jour et ne s’arrête pas sur la route.
 >
@@ -91,7 +91,7 @@ Feribourz lui répondit :
 
 > Ô homme plein d’expérience, Tehemten nous a défendu de nous battre et m’a dit :
 
-> > Vous resterez au camp et ne vous mettrez pas en évidence;
+> > Vous resterez au camp et ne vous mettrez pas en évidence ;
 > >
 > > Vous vous reposerez sur le champ de bataille jusqu’à ce que mon drapeau soit en vue.
 
