@@ -14,7 +14,7 @@ Pendant ce temps les héros avides de vengeance et de combats se dirigeaient du 
 
 Lorsque l’ armée vit que le Pehlewan n’était pas avec les héros, tous les guerriers jeunes et vieux poussèrent des cris, disant :
 
-> Estce que Gonrrderz, affaibli par l’âge, serait tombé sous les coups de Pirau?»
+> Est-ce que Gonrrderz, affaibli par l’âge, serait tombé sous les coups de Pirau?»
 
 Toute l’armée versa des larmes amères, parce qu’elle ne voyait pas le Pehlewan, le pâtre de ce troupeau.
 
@@ -60,13 +60,13 @@ Ils partirent avec les morts et avec Guerouï Zereh qu’ils faisaient courir à
 A Arrivé près des tentes de l’armée, Gouderz trouva les troupes et leur Sipehbed qui l’attendaient à pied ; Gustehem le lion, qui se tenait en avant des rangs, s’avança vers le vaillant Pehlewan, baisa la terre et invoqua les grâces de Dieu sur lui, disant :
 
 > Regarde v a ton armée culière que tu as délivrée de ses soucis ;
-(r je te la rends telle que tu me l’as confiée.»
+> (r je te la rends telle que tu me l’as confiée.»
 
 Pendant que Gustehem et Gouderz se parlaient, leurs oreilles furent frappées de la voix de la sentinelle placée sur la montagne de Beibed ; elle criait :
 
 > Une poussière semblable à le nuit noire couvre la plaine et l’on entend de tous côtés un grand bruit de tambours, ce un fracas de timbales et de clairons, tel qu’on dirait que la plaine en tremble ; on voit un trône de turquoises porté sur des éléphants et brillant comme ce une mer d’azur.
 >
 > L’air ressemble à une lame damasquinée, tant il y flotte d’étendards de toutes couleurs ; on voit de loin paraître un magnifique drapeau semblable à un cyprès élancé ; la terre, d’un bout à l’autre, est colorée en violet par la poussière
-(r que soulèvent les cavaliers couverts de cuirasses ; on ct ne voit qu’étendards derrière étendards, portant les uns des figures de dragons, les autres des figures d’aigles.
+> (r que soulèvent les cavaliers couverts de cuirasses ; on ct ne voit qu’étendards derrière étendards, portant les uns des figures de dragons, les autres des figures d’aigles.
 >
 > S’ils continuent d’avancer aussi rapide- : rment, ils arriveront ici dans un jour."
