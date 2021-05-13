@@ -38,7 +38,7 @@ Guiv, entouré de quelques braves, quitta le camp des grands de l’Iran pour al
 
 Il lui demanda son nom avec colère, disant :
 
-> Ô toi qui désires le combat, es-tu venu avec un pareil cortège pour livrer bataille?
+> Ô toi qui désires le combat, es-tu venu avec un pareil cortège pour livrer bataille ?
 >
 > Es-tu venu te jeter de gaieté de cœur dans les griffes du crocodile ?
 
@@ -56,9 +56,9 @@ Guiv lui dit :
 
 > Ne parle pas ainsi, car de telles paroles terniraient ton honneur.
 >
-> Quel est l’Iranien qui s’établirait dans le Touran, à moins de s’être nourri de sang et de coloquintes?
+> Quel est l’Iranien qui s’établirait dans le Touran, à moins de s’être nourri de sang et de coloquintes ?
 >
-> Si tu es le gardien de cette frontière et le gendre du roi, pourquoi n’as-tu pas des troupes plus nombreuses?
+> Si tu es le gardien de cette frontière et le gendre du roi, pourquoi n’as-tu pas des troupes plus nombreuses ?
 >
 > Ne fais pas la guerre avec une pareille armée, ne marche pas en furieux contre les braves, car je suis un héros illustre, je mettrai sous mes pieds la tête des gardiens des frontières.
 >
@@ -66,7 +66,7 @@ Guiv lui dit :
 >
 > Je crois, ô homme illustre, que c’est là la voie droite ;
 >
-> Qu’en dis-tu?
+> Qu’en dis-tu ?
 >
 > Ou veux-tu que je commence la bataille ?
 
@@ -94,9 +94,9 @@ Là-dessus Bijen dit à son noble père :
 
 Tu n’es plus dans ta vieillesse ce que tu étais dans ta jeunesse ;
 
-> Pourquoi donner tous ces conseils à Tejaou?
+> Pourquoi donner tous ces conseils à Tejaou ?
 >
-> Pourquoi cette tendresse et ces offres d’alliance?
+> Pourquoi cette tendresse et ces offres d’alliance ?
 >
 > Il faut saisir la massue et l’épée, il faut leur arracher le cœur et la cervelle.
 
@@ -128,9 +128,9 @@ Où est ton armée ?
 
 Où est la force et ton courage ?
 
-> Pourquoi t’es-tu éloigné de moi?
+> Pourquoi t’es-tu éloigné de moi ?
 >
-> Pourquoi m’as-tu abandonnée honteusement dans ce château?
+> Pourquoi m’as-tu abandonnée honteusement dans ce château ?
 >
 > Permets-moi de monter derrière toi et ne me laisse pas sur la route, livrée aux ennemis.
 
