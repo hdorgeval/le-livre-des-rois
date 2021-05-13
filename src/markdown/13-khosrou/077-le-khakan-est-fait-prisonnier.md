@@ -92,7 +92,7 @@ Ensuite, il s’écria :
 
 > Puisse Ahriman être le compagnon des Turcs et des Chinois !
 >
-> Ô malheureux, qui êtes dénués de toute ressource, accablés de douleur, impuissants et désespérés, n’avez-vous donc pas entendu parler de Rustem, ou votre tête était-elle dépourvue de raison?
+> Ô malheureux, qui êtes dénués de toute ressource, accablés de douleur, impuissants et désespérés, n’avez-vous donc pas entendu parler de Rustem, ou votre tête était-elle dépourvue de raison ?
 >
 > C’est un homme qui ne compte pour rien un dragon et qui attaque les éléphants sur le champ de bataille.
 >
@@ -143,7 +143,7 @@ Rustem répondit :
 
 > Il faut m’amener les éléphants et m’apporter la couronne et le trône d’ivoire.
 >
-> Vous êtes venus dans l’Iran pour le dévaster, pourquoi maintenant vous lamenter et vous plaindre de moi?
+> Vous êtes venus dans l’Iran pour le dévaster, pourquoi maintenant vous lamenter et vous plaindre de moi ?
 >
 > Puisque le Khakan reconnaît que son armée est dans ma main et que la mienne agira aussi rapidement que le permettra ma modération, je lui donne la vie ;
 >
@@ -165,9 +165,9 @@ Le messager répondit :
 >
 > Je suis fort, j’ai mon lacet suspendu au bras ;
 >
-> Estce le moment de me tromper et de me donner des conseils?
+> Estce le moment de me tromper et de me donner des conseils ?
 >
-> Qu’est devant mon lacet le Khakan de la Chine?
+> Qu’est devant mon lacet le Khakan de la Chine ?
 >
 > Qu’est un lion dans mon étreinte ?
 
