@@ -112,7 +112,7 @@ Toute une assemblée de parents de Kamous entourait le Khakan, demandant justice
 
 > Désormais Afrasiab n’aura plus de pouvoir, pas même en rêve.
 >
-> Comment lui, qui n’est pas homme à se montrer au jour du combat, ose-t-il commencer une guerre?
+> Comment lui, qui n’est pas homme à se montrer au jour du combat, ose-t-il commencer une guerre ?
 >
 > Nous ramènerons en Chine les troupes de Kaschan, les yeux remplis de larmes, le cœur plein du désir de la vengeance.
 >
@@ -180,7 +180,7 @@ Il invoqua le nom du Créateur et dit :
 
 Schenkoul s’écria :
 
-> Ô toi qui portes haut la tête, pourquoi faire de longs discours?
+> Ô toi qui portes haut la tête, pourquoi faire de longs discours ?
 >
 > Nous avons voulu secourir Afrasiab, nous avons traversé les plaines et les mers, nous avons reçu du roi beaucoup d’armes et de présents, nous sommes accourus de tous les pays, nous sommes venus comme des lions et nous nous en retournerions comme des renards, si nous reculions devant le combat.
 >
@@ -196,7 +196,7 @@ Schenkoul s’écria :
 >
 > Piran a peur de Rustem, ses angoisses l’empêchent de dormir pendant la nuit ;
 >
-> Mais y a-t-il un brave qui fasse cas d’un homme qui élève ses bras vers un sauveur?
+> Mais y a-t-il un brave qui fasse cas d’un homme qui élève ses bras vers un sauveur ?
 >
 > L’éléphant furieux n’est pas l’égal du lion et Rustem n’est pas aussi brave que le prétend Piran.
 >
@@ -226,7 +226,7 @@ Piran s’en retourna à sa tente ; et les chefs des Turcs, Houman, Nestihen et 
 
 Houman lui demanda :
 
-> Qu’avez-vous décidé?
+> Qu’avez-vous décidé ?
 >
 > Aurons-nous la paix, ou les armées se battront-elles de nouveau ?
 
