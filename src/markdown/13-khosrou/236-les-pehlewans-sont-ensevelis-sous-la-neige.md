@@ -32,9 +32,11 @@ Ils se placèrent donc tous auprès de la source et parlèrent longuement de Kho
 >
 > Les hommes de sens riront quand on leur dira que quelqu’un est allé tout vivant devant Dieu. rQni peut savoir ce qui lui estarrivé et que dirons-nous, car les oreilles refuseront d’entendre la. même?»
 
-Guiv dit aux grands : Jamais il n’y a eue dans le monde un homme aussi grand que lui en bravoure, en générosité, en justice et en vertus, en beauté, en stature, en renommée et en nais-, sance.
+Guiv dit aux grands :
 
-Dans le combat’ et à la tête de son armée, c’était un éléphant ; dans le festin, c’était une lune couronnée d’un diadème.»
+> Jamais il n’y a eue dans le monde un homme aussi grand que lui en bravoure, en générosité, en justice et en vertus, en beauté, en stature, en renommée et en nais-, sance.
+>
+> Dans le combat’ et à la tête de son armée, c’était un éléphant ; dans le festin, c’était une lune couronnée d’un diadème.»
 
 Après cela ils mangèrent ce qu’ils avaient et s’empressèrent de s’endormir.
 
