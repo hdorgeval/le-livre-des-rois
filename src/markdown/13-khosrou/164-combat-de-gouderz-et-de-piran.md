@@ -48,19 +48,21 @@ Gouderz le regarda en versant des larmes amères ; il craignait que le sort ne c
 
 A hommes.
 
-Il s’écria : Ô illustre Pehlewan, que t’ar-
+Il s’écria :
+
+> Ô illustre Pehlewan, que t’ar-
 nrive-t-il ?
-
-Pourquoi t’enfuis-tu ainsi à pied devantmoi comme une bête fauve ?
-
-Où sont donc les troupes, ô chef de l’armée ?
-
-Où sont la force et la bra-
+>
+> Pourquoi t’enfuis-tu ainsi à pied devantmoi comme une bête fauve ?
+>
+> Où sont donc les troupes, ô chef de l’armée ?
+>
+> Où sont la force et la bra-
 œ vonre, les armes, le courage, les trésors et la sagesse dont tu parlais ? Ô soutien des braves, ô défenseur ce d’Al’rasiab, voici le soleil qui s’éclipse pour ton roi.
-
-Le sort te tourne entièrement le dos ; ce n’est pas le moment d’employer des ruses ; ainsi ne cherche pas à t’échapper.
-
-Puisque le destin t’y réduit, demande grâce, afin que je t’amène en vie devant le roi victorieux. qui te pardonnera, quand il verra e ta tête et ta barbe blanches comme la neige.»
+>
+> Le sort te tourne entièrement le dos ; ce n’est pas le moment d’employer des ruses ; ainsi ne cherche pas à t’échapper.
+>
+> Puisque le destin t’y réduit, demande grâce, afin que je t’amène en vie devant le roi victorieux. qui te pardonnera, quand il verra e ta tête et ta barbe blanches comme la neige.»
 
 Piran répondit :
 
@@ -98,7 +100,7 @@ Lorsque Gouderz eut atteint la cime de la montagne, il vit Pirau dans cet état,
 
 Il porta la main sur le corps de Pirau et la remplit de sang qu’il but et dont il se frotta le visage, ô horreur !
 
-Ensuite il poussa des cris de douleur sur le meurtre de Sia-
+Ensuite, il poussa des cris de douleur sur le meurtre de Sia-
 
 â wusch ; il adressa des prières au Créateur, il se lamenta devant Dieu le dispensateur de la justice sur la mort de ses soixante et dix nobles fils.
 
