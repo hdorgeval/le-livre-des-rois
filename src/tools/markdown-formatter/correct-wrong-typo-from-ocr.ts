@@ -71,6 +71,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ snr-le-champ /g, ' sur-le-champ '),
     (content: string) => content.replace(/ soull’re /g, ' souffre '),
     (content: string) => content.replace(/ soutïert /g, ' souffert '),
+    (content: string) => content.replace(/ ssagesse /g, ' sagesse '),
     (content: string) => content.replace(/ tète /g, ' tête '),
     (content: string) => content.replace(/ tracant /g, ' traçant '),
     (content: string) => content.replace(/ trans-portez-moi /g, ' transportez-moi '),
@@ -139,6 +140,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Kei’anides/g, 'Keïanides'),
     (content: string) => content.replace(/Keîanides/g, 'Keïanides'),
     (content: string) => content.replace(/Ketanides/g, 'Keïanides'),
+    (content: string) => content.replace(/l’ âme/g, 'l’âme'),
     (content: string) => content.replace(/l’Hindouslan/g, 'l’Hindoustan'),
     (content: string) => content.replace(/l’lran/g, 'l’Iran'),
     (content: string) => content.replace(/lllran/g, 'l’Iran'),
@@ -159,7 +161,6 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Zabonlistan/g, 'Zaboulistan'),
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
-    (content: string) => content.replace(/l’ âme/g, 'l’âme'),
   ].forEach((format) => {
     result = format(result);
   });

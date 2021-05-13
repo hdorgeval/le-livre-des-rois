@@ -18,10 +18,14 @@ import { applyRuleOnQuestionMark, splitSentencesAfterQuestionMarkAndLineFeed } f
 });
 
 [
-  ['monde?\n0 maître', 'monde?\n\n0 maître'],
-  ['monde?\n\n0 maître', 'monde?\n\n0 maître'],
+  ['monde?\n0 maître', 'monde ?\n0 maître'],
+  ['monde  ?\n0 maître', 'monde ?\n0 maître'],
+  ['monde ?\n0 maître', 'monde ?\n0 maître'],
+  ['monde?\n\n0 maître', 'monde ?\n\n0 maître'],
+  ['monde  ?\n\n0 maître', 'monde ?\n\n0 maître'],
+  ['monde   ?\n\n0 maître', 'monde ?\n\n0 maître'],
 ].forEach((useCase, index) => {
-  test(`Should apply rule '${index}'`, () => {
+  test.only(`Should apply rule '${index}'`, () => {
     // Given
     const [input, expected] = useCase;
 

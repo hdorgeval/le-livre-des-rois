@@ -8,7 +8,7 @@ export function applyRuleOnSemicolon(content: string): string {
       }
 
       if (word && word.includes(';\n')) {
-        return word.replace(';\n', ' ;\n');
+        return word.replace(';', ' ;');
       }
 
       return word;

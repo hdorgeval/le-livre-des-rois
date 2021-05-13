@@ -14,4 +14,5 @@ export * from './merge-splitted-words';
 export * from './remove-chapter-artifacts';
 export * from './remove-duplicated-spaces';
 export * from './remove-multiple-linefeeds';
+export * from './remove-non-breakable-white-space';
 export * from './remove-page-numbers';
