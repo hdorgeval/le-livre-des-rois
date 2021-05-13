@@ -65,7 +65,7 @@ Gustehem trembla, poussa un soupir et lui répondit :
 >
 > Dis au roi maître du monde que je n’ai pas étourdiment jeté au vent tua vie, que j’ai lutté en toute circonstance contre la fortune, que je n’ai jamais hésité quand il s’agissait d’acquérir un nom.»
 
-Ensuite il indiqua à Bijen le lieu éloigné où il avait tué les deux Touraniens et où ils gisaient.
+Ensuite, il indiqua à Bijen le lieu éloigné où il avait tué les deux Touraniens et où ils gisaient.
 
 Ce discours avait épuisé ses forces et Bijen aussi sentit sa tête tourner.
 
@@ -74,7 +74,7 @@ Il amena sans délai le cheval de Gustehem et en défit les sangles étroitement
 
 Il déchira le pan de sa chemise et pansa toutes Ies’blessures de Gustehem.
 
-Ensuite il monta en courant sur une hau-
+Ensuite, il monta en courant sur une hau-
 teur, l’esprit troublé par le chagrin et vit de la des cavaliers turcs débandés, qui entraient dans le désert.
 
 Il descendit en toute hâte de la colline, tremblant de peur que Gustehem ne mourût ; il se jeta sur les cavaliers effrayés et en tua deux’avec son épée ; il détacha de la courroie de la selle son lacet roulé et le jeta sur le cou d’un des Turcs ; celui-ci tomba de cheval et Bijen lui accorda la vie, pour se donner un aide dans ce qu’il avait à faire.
@@ -85,6 +85,6 @@ A cet aspect Bijen prononça des bénédictions sur Gustehem, qui avait. accompl
 
 Il ordonna au Turc qui lui avait demandé grâce de soulever de terre les héros et de les jeter sur un cheval et il lui aida à leur lier ensemble les mains et les pieds et à les jeter sur les selles royales de leurs chevaux.
 
-Ensuite il s’en retourna auprès de Gustehem, bondissant comme un léopard furieux ; il mit pied à terre et vite comme le vent le plaça avec soin et sans lui faire de mal sur son cheval ; il ordonna au Turc d’y monter, de soutenir le blessé dans ses bras et de faire marcher doucement le destrier rapide.
+Ensuite, il s’en retourna auprès de Gustehem, bondissant comme un léopard furieux ; il mit pied à terre et vite comme le vent le plaça avec soin et sans lui faire de mal sur son cheval ; il ordonna au Turc d’y monter, de soutenir le blessé dans ses bras et de faire marcher doucement le destrier rapide.
 
 Il adressa à Dieu des prières ferventes et partit le cœur rempli de douleur et de souci, l’âme en anxiété sur l’état de Gustehem et sur la possibilité de l’amener encore en vie du champ de bataille jusqu’auprès du roi.
