@@ -14,9 +14,7 @@ Lorsque le roi Ardeschir se fut rassis, un homme vieux s’avança au pied de so
 
 Il lui répondit :
 
-> Ô roi, puissestu vivre autant que durera le temps, puissestu
->
-> vivre heureux et sous une étoile victorieuse !
+> Ô roi, puisses-tu vivre autant que durera le temps, puisses-tu vivre heureux et sous une étoile victorieuse !
 >
 > Le pays, le trône et la couronne se réjouissent de ton règne et tu es si puissant que les oiseaux et les bêtes fauves se placent en rangées devant ton trône.
 >
