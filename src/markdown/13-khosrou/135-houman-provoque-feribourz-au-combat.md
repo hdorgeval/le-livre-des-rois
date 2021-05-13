@@ -10,7 +10,7 @@ order: '135'
 
 # Houman provoque Feribourz au combat
 
-Ensuite il se rendit au centre de l’armée ; il courut jusqu’à ce qu’il l’eût atteint et s’approcha avec son trucheman de Feribourz, semblable à un éléphant furieux.
+Ensuite, il se rendit au centre de l’armée ; il courut jusqu’à ce qu’il l’eût atteint et s’approcha avec son trucheman de Feribourz, semblable à un éléphant furieux.
 
 Il poussa un cri et dit :
 
