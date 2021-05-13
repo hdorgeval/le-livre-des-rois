@@ -16,7 +16,7 @@ Guirauguird était la résidence de Tejaou, un cavalier qui ne craignait pas un 
 
 Il possédait des troupeaux de chevaux qui erraient sur toute la plaine d’une montagne à l’autre.
 
-En apprenant qu’une armée d’Iraniens s’approchait et qu’il fallait éloigner les troupeaux de leur route, il envoya en toute hâte auprès des pâtres d’Afrasiab un brave dont le nom était Keboudeh;
+En apprenant qu’une armée d’Iraniens s’approchait et qu’il fallait éloigner les troupeaux de leur route, il envoya en toute hâte auprès des pâtres d’Afrasiab un brave dont le nom était Keboudeh ;
 
 C’était un homme habile et on avait besoin d’habileté dans cette occasion.
 
@@ -24,7 +24,7 @@ Tejaou lui dit :
 
 > Aussitôt que le ciel sera couvert de ténèbres, tu partiras d’ici sans que personne te voie, tu observeras le nombre des Iraniens et quels sont les chefs qui portent des drapeaux et des diadèmes.
 >
-> Car je voudrais les surprendre pendant la nuit;
+> Car je voudrais les surprendre pendant la nuit ;
 >
 > Je voudrais, dans la bataille, convertir en plaine toute la montagne.
 
@@ -32,7 +32,7 @@ Keboudeh partit, semblable à un Div noir et s’approcha, à la faveur de la nu
 
 Or cette nuit la ronde du camp se faisait par Bahram, dont le lacet aurait pu servir à prendre des éléphants.
 
-Le cheval de Keboudeh se mit à hennir et Bahram qui se trouvait dans le camp prêta l’oreille;
+Le cheval de Keboudeh se mit à hennir et Bahram qui se trouvait dans le camp prêta l’oreille ;
 
 Il banda son arc, se raffermit sur ses étriers et lança son destrier, qui ressemblait à un lourd dromadaire.
 
@@ -58,7 +58,7 @@ Mais Bahram lui dit :
 
 Il trancha la tête de Keboudeh avec son poignard et la suspendit à la corde de sa selle royale, la porta au camp et l’y jeta avec mépris ; car ce n’était ni la tête d’un homme illustre, ni celle d’un brave cavalier.
 
-Le coq et l’alouette se firent entendre sans que Keboudeh fût revenu auprès de Tejaou;
+Le coq et l’alouette se firent entendre sans que Keboudeh fût revenu auprès de Tejaou ;
 
 Et ce prince avide de combats en fut affligé, car il conclut qu’il lui était arrivé malheur.
 
