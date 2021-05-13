@@ -41,19 +41,19 @@ Il continua de marcher jour et nuit, le cœur soucieux, les lèvres privées de 
 
 Arrivé près du mont Hemawen, il arrêta son armée au pied de la montagne et dit à Guiv :
 
-> Ô homme prudent, illustre et brave, tu marches depuis trois jours sans dormir et sans manger;
+> Ô homme prudent, illustre et brave, tu marches depuis trois jours sans dormir et sans manger ;
 >
 > Aie soin de toi, prends du repos et de la nourriture, répare le désordre de tes vêtements et dors, car je ne crois pas que Piran nous suive à l’heure même pour recommencer le combat.
 >
 > Laisse à Bijen le commandement de celles de nos troupes qui sont le moins fatiguées et pars pour la montagne.
 
-Guiv entra dans les montagnes avec les blessés;
+Guiv entra dans les montagnes avec les blessés ;
 
 Las de la vie et fatigué du monde, il les conduisit au château, choisit les moins épuisés d’entre eux pour le garder et dit à tous :
 
 > Cette crête de montagne est notre demeure, maintenant tâchez de guérir.
 
-On envoya des vedettes dans la plaine pour que l’ennemi ne pût passer;
+On envoya des vedettes dans la plaine pour que l’ennemi ne pût passer ;
 
 Et tels étaient les cris des sentinelles et le bruit des clochettes, que tu aurais dit que la montagne et les rochers bondissaient.
 
@@ -61,11 +61,11 @@ Quand le soleil parut au-dessus du mont Hemawen, les vedettes des Touraniens s�
 
 Le Sipehdar du Touran amena son armée sur le champ de bataille rapidement comme la flamme, en disant à Houman :
 
-> Le combat d’aujourd’hui ne sera pas long;
+> Le combat d’aujourd’hui ne sera pas long ;
 >
 > Tous les cavaliers de l’Iran sont morts ou blessés et hors de combat.
 
-Il fit battre les timbales, dont le bruit retentit dans la plaine;
+Il fit battre les timbales, dont le bruit retentit dans la plaine ;
 
 Il marcha en avant de l’armée ; et lorsque lui et ses braves arrivèrent sur le champ de bataille, ils le virent couvert de tentes, mais désert.
 
@@ -79,9 +79,9 @@ Un cri de joie éclata dans les rangs des Touraniens, puis ils prêtèrent l’o
 
 Les cavaliers de l’armée, jeunes et vieux, répondirent d’une voix au Pehlewan :
 
-> Les Iraniens ont fui devant nous, nos ennemis sont battus, le champ de bataille est entièrement plein de sang et de poussière;
+> Les Iraniens ont fui devant nous, nos ennemis sont battus, le champ de bataille est entièrement plein de sang et de poussière ;
 >
-> Ce n’est pas le moment d’avoir peur et de craindre nos adversaires, il faut suivre leurs traces;
+> Ce n’est pas le moment d’avoir peur et de craindre nos adversaires, il faut suivre leurs traces ;
 >
 > Leur terreur doit-elle nous confondre et nous arrêter?
 >
@@ -91,7 +91,7 @@ Piran répondit :
 
 > Dans la guerre, celui qui sait attendre fatigue le pied de celui qui se hâte.
 >
-> Afrasiab a réuni autour de lui une armée vaste comme les eaux de la mer;
+> Afrasiab a réuni autour de lui une armée vaste comme les eaux de la mer ;
 >
 > Attendons que cette grande armée de braves et de héros nous arrive et alors nous ne laisserons personne en vie dans l’Iran.
 >
@@ -103,7 +103,7 @@ Mais Houman lui répondit :
 
 > Ô Pehlewan, que ton esprit ne s’inquiète pas.
 >
-> Il y avait là une armée toute composée de Pehlewans et de cavaliers qui lançaient le lacet, qui frappaient de la massue et du poignard;
+> Il y avait là une armée toute composée de Pehlewans et de cavaliers qui lançaient le lacet, qui frappaient de la massue et du poignard ;
 >
 > Et maintenant il ne reste que les tentes et leurs enceintes et les hommes sont partis.
 >
@@ -113,7 +113,7 @@ Mais Houman lui répondit :
 >
 > Rustem accourrait alors du Zaboulistan pour nous combattre et il viendrait un temps où nous déplorerions ce délai.
 >
-> Il faut sur-le-champ nous préparer à les attaquer;
+> Il faut sur-le-champ nous préparer à les attaquer ;
 >
 > Il faut concerter des ruses et des stratagèmes.
 >
@@ -121,9 +121,9 @@ Mais Houman lui répondit :
 
 Le Pehlewan lui répondit :
 
-> Puisses-tu toujours veiller sur nous!
+> Puisses-tu toujours veiller sur nous !
 >
-> Puisses-tu rester heureux!
+> Puisses-tu rester heureux !
 >
 > Fais ce que ta bonne étoile et ton sens droit t’inspirent, car ta stature s’élève au-dessus de la voûte du ciel.
 
@@ -131,7 +131,7 @@ Le Sipehdar Piran suivit alors avec l’armée du Touran les traces des Iraniens
 
 > Ne reste pas ici, pars à l’instant avec deux cents cavaliers, ne défais pas ta ceinture et va voir où sont les Iraniens.
 
-Lehhak partit comme le vent, il ne pensa ni à manger ni à dormir;
+Lehhak partit comme le vent, il ne pensa ni à manger ni à dormir ;
 
 Et lorsque la moitié de la nuit sombre fut passée, il aperçut les vedettes des Iraniens sur la plaine noire, il entendit sur la montagne le bruit de l’armée et le son des clochettes.
 
@@ -141,13 +141,13 @@ Il ne jugea pas qu’il dût s’arrêter, revint sur ses pas et donna à Piran 
 
 Piran dit à Houman :
 
-> Use de la bride et des étriers;
+> Use de la bride et des étriers ;
 >
 > Prends une partie de nos guerriers, des braves et illustres cavaliers qui portent haut la tête.
 >
 > Les Iraniens se sont réfugiés sur le mont Hemawen avec toute leur armée et leurs drapeaux.
 >
-> Une lutte fatigante nous attend;
+> Une lutte fatigante nous attend ;
 >
 > Exerce donc ton esprit et trouve un moyen de salut.
 >
@@ -163,11 +163,11 @@ Lorsque le brillant soleil montra sa couronne et qu’il commença à verser du 
 
 > Une armée de Turcs parait et la poussière monte au-dessus des nuages noirs.
 
-Thous entendit ce cri et revêtit sa cuirasse;
+Thous entendit ce cri et revêtit sa cuirasse ;
 
 Les clairons et les timbales résonnèrent et les cavaliers iraniens en masse formèrent leurs rangs au bas de la montagne.
 
-Quand Houman vit cette grande armée ; quand il vit les chefs brandir leurs massues et leurs épées et bondir et rugir comme des lions féroces;
+Quand Houman vit cette grande armée ; quand il vit les chefs brandir leurs massues et leurs épées et bondir et rugir comme des lions féroces ;
 
 Quand il aperçut au-devant de l’armée le drapeau de Kaweh, il s’adressa à Thous et à Gouderz, disant :
 
@@ -193,6 +193,6 @@ Il envoya en toute hâte à Piran un messager monté sur un dromadaire et lui fi
 >
 > Lorsque le jour brillant poindra et que l’astre qui éclaire le monde aura paru, trouve-toi ici avec ton armée prête pour le combat et noircis de tes troupes la surface de la plaine.
 
-Le messager arriva auprès de Piran, qui s’émut en apprenant ce que Houman avait dit;
+Le messager arriva auprès de Piran, qui s’émut en apprenant ce que Houman avait dit ;
 
 Il partit pendant la nuit sombre et à l’heure du sommeil et marcha avec son armée qui ressemblait aux flots de la mer.
