@@ -40,9 +40,9 @@ Le Kaisar répondit :
 > Que Mirin aille à l’entrée de la forêt de Fasikoun et qu’il trempe son cœur, sa main et son cerveau dans du sang.
 >
 > Il y verra un loup grand comme un éléphant, dont le corps est comme le corps d’un dragon et la force comme celle d’un crocodile ; il a des défenses comme un sanglier et des cornes et un éléphant n’oserait pas tenir contre lui.
-
-Ni un lion mâle, ni un éléphant, ni un tigre, ni un homme, si vaillant qu’il soit, n’ose traverser cette forêt.
-
+>
+> Ni un lion mâle, ni un éléphant, ni un tigre, ni un homme, si vaillant qu’il soit, n’ose traverser cette forêt.
+>
 > Quiconque parviendra à lui fendre la peau sera pour moi un appui, un gendre et un ami.
 
 Mirin se dit :
