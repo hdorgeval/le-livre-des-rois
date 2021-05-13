@@ -45,7 +45,7 @@ Kaous dit au bourreau de le traîner devant lui, de lui arracher du visage le vo
 
 La peau de Guersiwez se fendit sur lui de terreur, il demanda grâce et invoqua le secours du Créateur.
 
-Afrasiab entendit ses cris et parut à la surface de l’eau, ému et en larmes;
+Afrasiab entendit ses cris et parut à la surface de l’eau, ému et en larmes ;
 
 Lôâ il se mit à nager dans le lac et arriva à, une place où il pouvait prendre pied.
 
