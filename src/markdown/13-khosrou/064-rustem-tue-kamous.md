@@ -88,7 +88,7 @@ Il dit aux braves :
 >
 > La terre formera son diadème et la poussière sa tunique.
 >
-> De quelle mort voulez-vous que meure le vaillant Kamous?
+> De quelle mort voulez-vous que meure le vaillant Kamous ?
 >
 > Car son heure est venue.
 
