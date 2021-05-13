@@ -67,7 +67,7 @@ Bijen lui dit :
 
 > Tu dis vrai ; c’est pour moi que tu as tout perdu.»
 
-Ensuite il reprit : Ce n’est pas le moment de parler de cela.
+Ensuite, il reprit : Ce n’est pas le moment de parler de cela.
 
 Ô ma douce amie, ô mon épouse pleine d’intelligence !
 
@@ -106,7 +106,7 @@ Menijeh fut réjouie de ces paroles et son cœur se trouva tout à coup délivr�
 >
 > Mais maintenant que nous avons trouvé de lui des traces certaines, il verra la pointe des épées des braves ; nous ferons trembler la terre par nos combats et nous lancerons jusqu’aux Pléiades la pierre qui pèse sur son cachot.
 >
-> Ensuite il m’a ordonné d’allumer un feu grand comme une montagne, aussitôt que l’air sera devenu sombre et que la nuit gfise sera échappée des mains du soleil, un feu qui rende claires comme le jour la plaine et l’entrée du
+> Ensuite, il m’a ordonné d’allumer un feu grand comme une montagne, aussitôt que l’air sera devenu sombre et que la nuit gfise sera échappée des mains du soleil, un feu qui rende claires comme le jour la plaine et l’entrée du
 >
 > cachot, afin qu’il puisse distinguer la prison et diriger sa marche sur les flammes.»
 
