@@ -39,7 +39,7 @@ Comment oserai-je lui envoyer un messager ?
 
 Pourrai-je dire pourquoi j’ai tué cet innocent, pourquoi je l’ai privé de la lumière du jour ?
 
-Estce que jamais père a fait chose pareille ?
+Est-ce que jamais père a fait chose pareille ?
 
 L’ai mérité qu’on parle de moi avec horreur.
 
@@ -69,9 +69,7 @@ Hélas cette douleur qui déchire l’âme !
 
 Tu es mort loin de ta mère et le cœur percé par ton père.»
 
-Einstein versa des larmes de sang, il creusa la 
-Ml : 
-terre avec ses ongles et déchira sur son corps ses vêtements royaux, en s’écriant :
+Einstein versa des larmes de sang, il creusa la terre avec ses ongles et déchira sur son corps ses vêtements royaux, en s’écriant :
 
 > Zal et la vertueuse Roudabeh m’accuseront, en disant :
 
