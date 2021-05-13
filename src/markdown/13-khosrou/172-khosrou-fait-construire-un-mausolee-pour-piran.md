@@ -43,7 +43,7 @@ Il se tenait debout en priant ; il ôta de dessus sa tête son diadème de Keïa
 >
 > Dorénavant les trésors et le pouvoir sont à moi et à vous et rien de ce que peut donner ma main droite ne vous sera refusé ; car vos âmes et vos corps ont été ma rançon et vous avez ôté le souille de la vie au pays de Touran. »
 
-Ensuite il jeta les yeux sur les morts ; quand il aperçut les traits du Sipehdar Piran, il versa sur lui des larmes amères, car il se rappela toutes ses bonnes actions.
+Ensuite, il jeta les yeux sur les morts ; quand il aperçut les traits du Sipehdar Piran, il versa sur lui des larmes amères, car il se rappela toutes ses bonnes actions.
 
 Son cœur se consumait tellement de douleur, qu’on aurait dit qu’un feu le brûlait ; il parlait de la mort de Piran les joues inondées de larmes de sang ; il dit :
 
