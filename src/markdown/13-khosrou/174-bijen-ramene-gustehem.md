@@ -38,7 +38,7 @@ Désirant de tout son cœur sauver Gustehem, il détacha ce pré-cieux joyau de 
 
 Il avait des médecins du Roum, de l’Inde et de la Chine, de l’Iran et du Touran, qu’il menait toujours avec lui partout où il allait et qu’il entretenait pour des cas semblables ; il les fit asseoir au chevet de Gustehem et répéta sur lui toutes sortes d’incantations.
 
-Ensuite il se rendit à l’endroit où il faisait ses dévotions et pria Dieu longuement et en secret.
+Ensuite, il se rendit à l’endroit où il faisait ses dévotions et pria Dieu longuement et en secret.
 
 Le malade passa ainsi deux semaines ; à la fin il guérit et se rétablit de ses fatigues et de ses blessures.
 
@@ -58,7 +58,7 @@ Khosrou appela alors Bijen fils de Guiv, mit sa main dans celle du vaillant Gust
 > Si jamais le Maître du monde a rendu la
 > 4 vie à un mort, c’est à Gustehem.»
 
-Ensuite il dit à Gustehem :
+Ensuite, il dit à Gustehem :
 
 > a Veille toujours sur Bijen, car nul n’a vu de notre temps un homme comme lui ; et si par amitié pour toi il n’avait pas enduré tant de latigues, qui aurait pu rendre grâces à Dieu de ton salut P n Le roi resta encore une semaine à Reibed, distribuant de l’argent et de l’or et des trésors de toute espèce.
 >
