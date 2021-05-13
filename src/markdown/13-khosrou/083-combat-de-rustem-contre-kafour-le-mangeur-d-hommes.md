@@ -48,13 +48,13 @@ order: '083'
 
 Pendant que ce plan des méchants se développait, Feribourz retourna joyeusement auprès de Rustem et lui apporta avec les autres présents du roi une couronne et des boucles d’oreilles.
 
-Le héros au corps d’éléphant les reçut avec plaisir;
+Le héros au corps d’éléphant les reçut avec plaisir ;
 
 Les grands se rassemblèrent et bénirent le Pehlewan en disant :
 
-> Puisse la terre fleurir par tes soins!
+> Puisse la terre fleurir par tes soins !
 >
-> Puisse l’œil du roi du monde se réjouir de ton aspect!
+> Puisse l’œil du roi du monde se réjouir de ton aspect !
 >
 > Puisse notre pays prospérer sous ta protection !
 
@@ -64,13 +64,13 @@ Les chefs de l’armée emportèrent les présents du roi, en s’écriant d’u
 
 Rustem mena de là son armée rapidement dans le Soghd, où il resta deux semaines, chassant l’onagre et buvant du vin.
 
-Il s’amusa ainsi pendant quelque temps;
+Il s’amusa ainsi pendant quelque temps ;
 
-Ensuite il se remit en route et après une journée de marche, il se trouva en face d’une ville appelée Bidad (l’injuste).
+Ensuite, il se remit en route et après une journée de marche, il se trouva en face d’une ville appelée Bidad (l’injuste).
 
 Il y vit un château fort habité par des hommes qui ne se nourrissaient que de chair humaine et pour qui à chaque instant disparaissait un esclave au visage de Péri.
 
-On ne servait sur la table de leur roi farouche que des jeunes gens qui n’avaient pas atteint la maturité de l’âge et on lui apprêtait tous les jours un bel esclave d’une mine et d’une taille sans défauts;
+On ne servait sur la table de leur roi farouche que des jeunes gens qui n’avaient pas atteint la maturité de l’âge et on lui apprêtait tous les jours un bel esclave d’une mine et d’une taille sans défauts ;
 
 Telle était la nourriture de ce roi.
 
@@ -80,7 +80,7 @@ Dans le château se trouvait un homme vaillant qui était le roi et le maître d
 
 Lorsqu’il apprit qu’il arrivait une armée d’Iraniens sous un chef illustre et avide de combats, il se revêtit de son armure de guerre et sortit suivi de tous ses sujets, semblables à des léopards, accoutumés à jeter le lacet, forts et insensibles aux coups comme des pierres ou des enclumes.
 
-Kafour se jeta sur Gustehem;
+Kafour se jeta sur Gustehem ;
 
 Les deux armées furent bientôt mêlées et s’attaquèrent comme un lion se précipite impétueusement sur un élan.
 
@@ -90,11 +90,11 @@ Lorsque Gustehem vit son armée dans cet état, lorsqu’il vit que le monde all
 
 Kafour de son côté dit à ses fiers guerriers :
 
-> Les pointes des flèches ne laissent pas de traces sur le fer!
+> Les pointes des flèches ne laissent pas de traces sur le fer !
 >
 > Saisissez donc vos épées, vos massues et vos lacets et prenez la tête des braves dans le nœud de vos courroies.
 
-Et ils firent sur-le-champ une attaque si furieuse que les flammes sortaient des flots du fleuve;
+Et ils firent sur-le-champ une attaque si furieuse que les flammes sortaient des flots du fleuve ;
 
 Ils tuèrent beaucoup d’ennemis et la sphère du malheur tournait sur les Iraniens.
 
@@ -108,23 +108,23 @@ Il dit à Kafour :
 
 > Ô chien sans courage, je vais faire finir ce combat à tes dépens.
 
-Kafour attaqua vivement cet arbre royal chargé de fruits;
+Kafour attaqua vivement cet arbre royal chargé de fruits ;
 
-Il lui porta un coup d’épée prompt comme le vol d’une flèche, espérant percer le héros, le vainqueur des lions;
+Il lui porta un coup d’épée prompt comme le vol d’une flèche, espérant percer le héros, le vainqueur des lions ;
 
 Mais Rustem se couvrit à temps de son bouclier et le vaillant Kafour en demeura confondu.
 
-Alors, il jeta son lacet sur Thous mais Rustem l’accabla de ses railleries, le frappa sur la tête avec sa massue et lui brisa la tête, le casque et le cou;
+Alors, il jeta son lacet sur Thous mais Rustem l’accabla de ses railleries, le frappa sur la tête avec sa massue et lui brisa la tête, le casque et le cou ;
 
 La cervelle de Kafour lui sortit par le nez et cet homme si avide de guerre tomba.
 
-Rustem attaqua alors la porte du château;
+Rustem attaqua alors la porte du château ;
 
-Mais les habitants lui résistèrent, les faibles aussi bien que les forts;
+Mais les habitants lui résistèrent, les faibles aussi bien que les forts ;
 
 Ils fermèrent la porte et continuèrent le combat en décochant des flèches du haut des remparts et en criant :
 
-> Ô homme fort et prudent, ô éléphant revêtu d’une peau de léopard!
+> Ô homme fort et prudent, ô éléphant revêtu d’une peau de léopard !
 >
 > Quel nom ton père t’a-t-il donné à ta naissance?
 >
@@ -132,49 +132,49 @@ Ils fermèrent la porte et continuèrent le combat en décochant des flèches du
 >
 > C’est perdre ta peine que d’attaquer cette ville, que les sages appellent la ville des combats.
 >
-> Lorsque Tour fils de Feridoun quitta l’Iran, il appela de tous côtés des hommes habiles et bâtit ce mur de pierre, de bois, de mortier et de roseaux;
+> Lorsque Tour fils de Feridoun quitta l’Iran, il appela de tous côtés des hommes habiles et bâtit ce mur de pierre, de bois, de mortier et de roseaux ;
 >
 > Il le bâtit à l’aide de la magie et à force de travail, en s’inondant de sueur et en vidant son trésor.
 >
 > Maints héros se sont efforcés de prendre ce mur pour détruire le château, mais aucun n’a pu s’en rendre maître et on l’assiègerait vainement.
 >
-> Le château est bien pourvu de provisions et d’armes et il existe un chemin souterrain pour en amener de nouveau;
+> Le château est bien pourvu de provisions et d’armes et il existe un chemin souterrain pour en amener de nouveau ;
 >
 > Et quand même tu te fatiguerais à l’attaquer pendant des années, tu n’y gagnerais que d’avoir eu une querelle avec nous, car l’art magique de Tour et le souffle du prêtre ont garanti ce mur contre les machines de guerre.
 
-À ces paroles la tête de Rustem se troubla et l’âme des braves fut assombrie;
+À ces paroles la tête de Rustem se troubla et l’âme des braves fut assombrie ;
 
 C’était un combat qui ne leur souriait pas.
 
 Néanmoins il fit avancer son armée vers les quatre faces de la ville : d’un côté les troupes du Zaboulistan, armées de cottes de mailles et d’épées de Kaboul ; d’un autre côté Gouderz ; d’un troisième Thous, appuyé par Guiv, qui amenait les éléphants et les timbales.
 
-Lui-même, le héros plein d’expérience, saisit son arc et jeta dans la stupeur les défenseurs du château;
+Lui-même, le héros plein d’expérience, saisit son arc et jeta dans la stupeur les défenseurs du château ;
 
 Car aussitôt qu’une tête apparaissait au-dessus du rempart, il la frappait avec une flèche dont la pointe contait des secrets à leur cerveau, mais ces deux compagnons s’accordaient mal ensemble.
 
-Ensuite il commença à miner les remparts par le pied, pour en précipiter en bas les défenseurs;
+Ensuite, il commença à miner les remparts par le pied, pour en précipiter en bas les défenseurs ;
 
 On plaça des poutres sous les parties minées et on les enduisit de naphte noir.
 
-Quand la moitié des murs fut minée, on mit le feu aux étais;
+Quand la moitié des murs fut minée, on mit le feu aux étais ;
 
 Le château que Thour avait bâti s’écroula.
 
 Rustem rapprocha ses troupes de tous côtés et leur ordonna de faire une attaque, en se servant de leurs arcs et de leurs flèches de bois de peuplier.
 
-Les assiégés exposèrent tous leurs têtes à la mort pour sauver leurs trésors, leurs enfants, leur pays et leurs alliés;
+Les assiégés exposèrent tous leurs têtes à la mort pour sauver leurs trésors, leurs enfants, leur pays et leurs alliés ;
 
 Mais il aurait mieux valu pour eux que leurs mères ne les eussent pas mis au monde.
 
-Les cavaliers iraniens mirent pied à terre, saisirent leurs boucliers, leurs arcs et leurs flèches et s’avancèrent avec les fantasains armés de lances, Bijen et Gustehem à leur tête et il n’était plus possible que les assiégés résistassent au souffle ardent du feu et à la pluie des traits;
+Les cavaliers iraniens mirent pied à terre, saisirent leurs boucliers, leurs arcs et leurs flèches et s’avancèrent avec les fantasains armés de lances, Bijen et Gustehem à leur tête et il n’était plus possible que les assiégés résistassent au souffle ardent du feu et à la pluie des traits ;
 
 Ils sortirent du château et se réfugièrent en pleurant dans la plaine.
 
-Alors Rustem ferma la porte du château et l’œuvre de la destruction et de la mort commença;
+Alors Rustem ferma la porte du château et l’œuvre de la destruction et de la mort commença ;
 
-On fit un grand carnage;
+On fit un grand carnage ;
 
-On emmena beaucoup de prisonniers jeunes et vieux;
+On emmena beaucoup de prisonniers jeunes et vieux ;
 
 On enleva beaucoup d’or, d’argent, de joyaux, de chevaux et d’esclaves hommes et femmes.
 
@@ -182,7 +182,7 @@ Tehemten parut, se lava la tête et le corps et adressa à Dieu le Créateur ses
 
 > Dieu n’aime pas mieux être adoré en secret qu’en public.
 >
-> Rendez-lui donc grâces de cette victoire;
+> Rendez-lui donc grâces de cette victoire ;
 >
 > Remerciez-le du bonheur qu’il vous accorde.
 
@@ -192,7 +192,7 @@ Lorsqu’ils eurent rempli leurs devoirs envers Dieu, ils se mirent à bénir le
 
 > Celui qui ne te ressemble pas dans la bataille ferait mieux de rester tranquille que de chercher la gloire et le renom.
 >
-> Tu as le corps d’un éléphant avec la force et la griffe d’un lion;
+> Tu as le corps d’un éléphant avec la force et la griffe d’un lion ;
 >
 > Jamais tu n’es las de combattre.
 
@@ -204,11 +204,11 @@ Il ordonna à Guiv de prendre deux mille cavaliers armés de boucliers et monté
 
 Guiv partit avec ces vaillants cavaliers aussitôt que la nuit eut montré ses boucles noires et que les soucis eurent courbé le dos de la lune.
 
-Il resta absent pendant trois jours;
+Il resta absent pendant trois jours ;
 
 Et le quatrième, au moment où le soleil montra sa couronne et s’assit sur son trône d’ivoire, l’orgueilleux Guiv revint du Touran avec un grand nombre de prisonniers vaillants et illustres, d’idoles de Tharaz au beau visage, de chevaux de noble race et avec des richesses de toute espèce.
 
-Rustem envoya une partie du butin au roi et distribua le reste à l’armée;
+Rustem envoya une partie du butin au roi et distribua le reste à l’armée ;
 
 Et Gouderz, Thous, Guiv, Gustehem, Schidousch, le vaillant Rehham et Bijen fils de Guiv se levèrent et le comblèrent de nouveau de leurs bénédictions.
 
@@ -218,39 +218,39 @@ Gouderz lui dit :
 >
 > Nous n’ouvrirons plus désormais, ni de jour ni de nuit, nos lèvres sans te bénir.
 >
-> Puisses-tu vivre à jamais content et heureux, doué de la sagesse d’un vieillard et de la force d’un jeune homme!
+> Puisses-tu vivre à jamais content et heureux, doué de la sagesse d’un vieillard et de la force d’un jeune homme !
 >
 > Dieu t’a fait naître d’une race pure et jamais une mère sainte n’a mis au monde un fils comme toi.
 >
-> Puissent les pères et les fils se succéder dans ta famille!
+> Puissent les pères et les fils se succéder dans ta famille !
 >
-> Puisse-t-elle durer éternellement!
+> Puisse-t-elle durer éternellement !
 >
 > Tu es au-dessus de tout besoin, ton étoile est heureuse, tu es le chef des princes de la terre.
 >
 > On dirait que Dieu a privé en ta faveur tous les autres hommes de la gloire que donne la bravoure, pour te la donner tout entière.
 >
-> Puisse le Maître du monde être ton asile et la terre et le siècle te favoriser!
+> Puisse le Maître du monde être ton asile et la terre et le siècle te favoriser !
 >
-> Puisse ton nom durer à jamais!
+> Puisse ton nom durer à jamais !
 >
-> Puisse le monde prospérer sous l’ombre de ton trône!
+> Puisse le monde prospérer sous l’ombre de ton trône !
 >
-> L’homme qui a mesuré de ses pas toute la surface de la terre, qui a vu le monde et la guerre et la paix et la vengeance, n’a jamais vu ni entendu décrire par de vieux Mobeds une aussi grande armée réunie sur un seul point, tant de rois et d’éléphants, de trônes d’ivoire et d’hommes, de chevaux et de couronnes de toutes formes;
+> L’homme qui a mesuré de ses pas toute la surface de la terre, qui a vu le monde et la guerre et la paix et la vengeance, n’a jamais vu ni entendu décrire par de vieux Mobeds une aussi grande armée réunie sur un seul point, tant de rois et d’éléphants, de trônes d’ivoire et d’hommes, de chevaux et de couronnes de toutes formes ;
 >
 > Et pourtant lorsque les étoiles ont regardé la plaine, cette armée se trouvait réduite par la perte de la bataille à la dernière extrémité.
 >
-> Ensuite nous avons longtemps tourné autour de cette forteresse, sans trouver qui vînt ànotre aide;
+> Ensuite nous avons longtemps tourné autour de cette forteresse, sans trouver qui vînt ànotre aide ;
 >
 > Nous poussions des cris sous le souffle du dragon, lorsque tu es venu nous délivrer avec ton lacet.
 >
-> Tu es la couronne de l’Iran et le soutien de l’armée;
+> Tu es la couronne de l’Iran et le soutien de l’armée ;
 >
 > tu portes haut la tête et nous sommes tes serviteurs.
 >
 > Que Dieu te récompense de ce que tu as fait, qu’il maintienne toujours le sourire sur ton visage.
 >
-> Nous ne pouvons te récompenser, mais notre langue ne cessera de te bénir;
+> Nous ne pouvons te récompenser, mais notre langue ne cessera de te bénir ;
 >
 > C’est tout ce qui est en notre pouvoir.
 >
