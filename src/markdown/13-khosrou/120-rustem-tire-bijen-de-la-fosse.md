@@ -27,7 +27,7 @@ Arrivé à la pierre d’Akwan et à cette fosse, séjour de douleurs brûlantes
 Les chefs de l’armée descendirent de cheval pour
 ôter la pierre de dessus la fosse ; ils essayèrent longtemps la force de leurs mains contre la pierre, mais ils se fatiguèrent sans l’ébranler.
 
-Quand le vaillant lion vit couler la sueur des braves sans que la pierre eût remué, il sauta à bas de son cheval, serra lé pan de sa cette de mailles dans sa ceinture, demanda des forces au Créateur de toute force, saisit la pierre et l’enleva ; il la jeta dans la forêt du pays de Chine et la terre en trembla. r Ensuite il demanda à Bijen en poussant des soupirs :
+Quand le vaillant lion vit couler la sueur des braves sans que la pierre eût remué, il sauta à bas de son cheval, serra lé pan de sa cette de mailles dans sa ceinture, demanda des forces au Créateur de toute force, saisit la pierre et l’enleva ; il la jeta dans la forêt du pays de Chine et la terre en trembla. r Ensuite, il demanda à Bijen en poussant des soupirs :
 
 > Comment es-tu tombé dans ce malheur !
 >
