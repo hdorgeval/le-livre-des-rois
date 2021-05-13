@@ -41,7 +41,7 @@ Lorsque le soleil s’élança sur la voûte céleste, Thous et Gouderz étaien
 
 Guiv lui répondit :
 
-> Ô Sipehdar du roi, que t’est-il arrivé que tes pensées soient si désolantes?
+> Ô Sipehdar du roi, que t’est-il arrivé que tes pensées soient si désolantes ?
 >
 > Il n’y a pas de raison d’être si triste.
 >
