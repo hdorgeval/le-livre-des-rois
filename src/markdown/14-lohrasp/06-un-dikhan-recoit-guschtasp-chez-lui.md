@@ -16,7 +16,7 @@ Près de la ville il vit un bourg avec des arbres fleuris et des eaux courantes 
 
 Il aperçut sur le bord de l’eau un arbre qui jetait une ombre large et sous lequel on était à l’abri du soleil ; le jeune homme s’assit dans l’ombre, se tordant dans sa détresse et l’âme noire de soucis et dit :
 
-> Ô Juge Toutpuissant !
+> Ô Juge Tout-puissant !
 >
 > Cette vie ne m’a donné pour ma part que du chagrin ; je vois que mon étoile est mauvaise et je ne sais pourquoi tant de malheurs tombent sur ma tête !
 
