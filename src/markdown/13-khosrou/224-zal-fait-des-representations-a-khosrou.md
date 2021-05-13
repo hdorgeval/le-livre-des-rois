@@ -64,6 +64,6 @@ Zal lui adressa ses hommages à plusieurs reprises, disant :
 >
 > Il faut trois choses pour mener à bonne fin toute affaire et pour préserver de tout mal le trône des rois, cc sont : un trésor, le travail et des hommes vaillants ; hors de la il n’y a ni honneur à gagner ni bataille à livrer.
 >
-> Ensuite il reste un quatrième point : c’est d’adorer Dieu, de prier devant lui jour et nuit, car il vient en aide à ses serviteurs et repousse ceux qui pourraient les perdre.
+> Ensuite, il reste un quatrième point : c’est d’adorer Dieu, de prier devant lui jour et nuit, car il vient en aide à ses serviteurs et repousse ceux qui pourraient les perdre.
 >
 > Nous ferons des largesses aux pauvres, nous donnerons ce que nous avons de plus pré-cieux, pour que Dieu tranquillise ton âme, pour qu’il protège ton esprit par la raison comme par une cuirasse. n
