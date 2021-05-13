@@ -77,7 +77,7 @@ Le cœur du roi des Turcs rajeunit à ces paroles ; il sourit et prit de nouvell
 
 Il abandonna à son armée tous les troupeaux de chevaux qu’il possédait dans le désert et dans la montagne ; il choisit cent mille cavaliers armés d’épées et propres à la guerre et les envoya à Balk-Bami, munis de ses instructions et de ses ordres ; car Gustehem fils de Newder se trouvait là avec des cavaliers intelligents et prêts à lui moutrer le chemin.
 
-Ensuite il choisit trente mille cavaliers dignes de livrer bataille et leur ordonna de longer le Djihoun et d’explorer sur des barques le haut de la rivière pour qu’on ne pût, pendant la nuit, faire subitement une attaque avec des bateaux.
+Ensuite, il choisit trente mille cavaliers dignes de livrer bataille et leur ordonna de longer le Djihoun et d’explorer sur des barques le haut de la rivière pour qu’on ne pût, pendant la nuit, faire subitement une attaque avec des bateaux.
 
 Il envoya partout des troupes et mit en œuvre des ruses de toute espèce.
 
@@ -125,7 +125,7 @@ Afrasiab lui donna trente mille Chinois, cavaliers dignes de livrer combat et lu
 >
 > donna trente mille Turcs de Tchiguil, cavaliers portant haut la tête et armés de lances et lui ordonna de garder les derrières de l’année de Pescheng et de ne pas fléchir quand même il pleuvrait des pierres.
 >
-> Ensuite il confia un corps de troupes à Kehila et un autre au fils d’lla, petit-fils du roi Afrasiab ; qui au-rait arraché de la chair du dos des lions pour la faire rôtir ; c’étaient deux braves, leur cavaliers du Touran, dont les cœurs étaient comme des rochers.
+> Ensuite, il confia un corps de troupes à Kehila et un autre au fils d’lla, petit-fils du roi Afrasiab ; qui au-rait arraché de la chair du dos des lions pour la faire rôtir ; c’étaient deux braves, leur cavaliers du Touran, dont les cœurs étaient comme des rochers.
 >
 > Pour former l’aile droite, il choisit une armée devant laquelle le soleil disparaissait du monde, les hommes de Thoraz, les ,Gouzz et les cavaliers de Khallukh, en tout trente mille hommes propres au combat, auxquels il donna pour chef son cinquième fils, héros illustre et avide de batailles ; son nom était Gurdguir ; il perçait les montagnes de son épée et de ses flèches.
 >
