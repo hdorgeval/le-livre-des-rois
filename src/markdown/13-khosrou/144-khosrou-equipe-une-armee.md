@@ -34,7 +34,7 @@ Tout le monde sortit du camp à sa rencontre, la terre se couvrit de tulipes, l�
 
 Hedjir s’étant présenté devant l’illustre Pehlewan, lui raconta ce qu’il avait vu chez le roi des rois, comment Khosrou l’avait reçu gracieusement, quelles promesses il lui avait faites, combien il était noble et sage, quelle affection il portait à toute l’armée et comment son visage s’était déridé en apprenant le message du Pehlewan.
 
-Ensuite il remit à Gouderz la lettre de Khosrou et lui répéta les salutations des grands.
+Ensuite, il remit à Gouderz la lettre de Khosrou et lui répéta les salutations des grands.
 
 Gouderz, en apprenant les bontés du roi pour lui, posa la lettre sur ses yeux et sur son front, en rompit le sceau et la donna à son secrétaire, qui lui en fit lecture.
 
@@ -58,4 +58,4 @@ Leur vaillant chef regarda cette multitude ; il vit que la terre en devenait som
 >
 > Un . schid, personne n’a couvert ainsi un champ de bataille de chevaux, d’armures, d’or et d’argent, d’éléphants de guerre et de lions courageux ; et si le Créateur m’est favorable, je secouerai la bride de mon cheval d’ici jusqu’au pays de Chine.»
 
-Ensuite il rentra dans sa tente et appela ses conseillers ; il s’assit avec les grands de l’armée pour entendre de la musique et but joyeusement en tenant conseil avec les héros sur le prochain combat.
+Ensuite, il rentra dans sa tente et appela ses conseillers ; il s’assit avec les grands de l’armée pour entendre de la musique et but joyeusement en tenant conseil avec les héros sur le prochain combat.
