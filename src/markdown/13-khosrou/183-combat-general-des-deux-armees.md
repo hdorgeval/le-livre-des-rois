@@ -10,7 +10,7 @@ order: '183'
 
 # Combat général des deux armées
 
-Lorsque le soleil montra sa tête au-dessus du dos du taureau et que le chant de l’alouette s’éleva de la plaine, on entendit dans les pavillons des deux rois KEÏ Kl-à!
+Lorsque le soleil montra sa tête au-dessus du dos du taureau et que le chant de l’alouette s’éleva de la plaine, on entendit dans les pavillons des deux rois KEÏ Kl-à !
 le son du tambour et le bruit des timbales et des trompettes.
 
 Djehn amena trente mille héros prêts à frapper de l’épée, propres au c0mbat ; et Khosrou, voyant ces préparatifs, ordonna à Karen, qui était toujours prêt pour la bataille, de sortir du centre de l’armée avec un corps de troupes semblable à une montagne et le vaillant Djehn en tressaillit de peur.
@@ -64,11 +64,13 @@ rent et un grand corps de troupes sortit du centre de l’armée.
 
 Afrasiab observa d’une distance de deux milles cette armée, ce combat, ces tours et ces éléphants ; il lit avancer ses éléphants de guerre et son armée et le monde devint obscur, la lumière du jour disparut.
 
-Il s’écria : n Ô illustres guerriers !
+Il s’écria :
 
-Pourquoi vous rendez-vous le combat si difficile ?
-
-Vous restez tous en face de ces tours et de ces éléphants, pendant que l’armée des Iraniens est grande et s’értend à des milles au delà : portez-vous à droite età gauche et éloignez-vous du centre et des tours.»
+> n Ô illustres guerriers !
+>
+> Pourquoi vous rendez-vous le combat si difficile ?
+>
+> Vous restez tous en face de ces tours et de ces éléphants, pendant que l’armée des Iraniens est grande et s’értend à des milles au delà : portez-vous à droite età gauche et éloignez-vous du centre et des tours.»
 
 Il ordonna à Djehn, qui avait de l’expérience dans la guerre, de partir avec les grands de l’armée, d’emmener dix mille cavaliers aguerris, armés de lances et propres au combat.
 
@@ -91,7 +93,8 @@ A la droite du roi marchait Rustem, avide de combat, avec son frère Zewareh ; G
 
 On entendit le bruit des coups donnés et reçus sur le champ de bataille.
 
-Personne ne verra plus un pareil combat : tout le désert de sable était couvert de blessés et de morts, d’hommes dont le jour était passé ; il y avait tant de cadavres que le pied ne trouvait pas de place pour s’y poser ; la plaine inondée de sang ressemblait au Djihoun, on ne voyait que des hommes sans tête ou la tête en bas ; les cris des cavaliers et des chevaux couvraient le son des tambours ; on aurait, dit que le cœur des montagnes se fendait et que la terre s’envolait avec les cavaliers : il y avait des têtes sans corps, des corps sans têtes ; les coups des lourdes massues résonnaient, les poignards et les épées tranchantes flamboyaient et le soleil cherchait le chemin de la fuite ; tu aurais dit qu’un nuage noir était arrivé et versait une pluie. de sang sur le champ de bataille. 
+Personne ne verra plus un pareil combat : tout le désert de sable était couvert de blessés et de morts, d’hommes dont le jour était passé ; il y avait tant de cadavres que le pied ne trouvait pas de place pour s’y poser ; la plaine inondée de sang ressemblait au Djihoun, on ne voyait que des hommes sans tête ou la tête en bas ; les cris des cavaliers et des chevaux couvraient le son des tambours ; on aurait, dit que le cœur des montagnes se fendait et que la terre s’envolait avec les cavaliers : il y avait des têtes sans corps, des corps sans têtes ; les coups des lourdes massues résonnaient, les poignards et les épées tranchantes flamboyaient et le soleil cherchait le chemin de la fuite ; tu aurais dit qu’un nuage noir était arrivé et versait une pluie. de sang sur le champ de bataille.
+
 F
 o6 LE.
 
