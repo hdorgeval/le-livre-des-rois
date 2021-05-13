@@ -18,7 +18,7 @@ Lorsque Rustem se réveilla, il fut consterné, il trembla et son esprit se remp
 >
 > Adieu mon courage, ma force et mes membres et mes bons coups d’épée et de massue.
 >
-> Si je péris, le monde sera dévasté et tous les désirs d’Afrasiab seront accomplis;
+> Si je péris, le monde sera dévasté et tous les désirs d’Afrasiab seront accomplis ;
 >
 > Il ne restera ni Gouderz, ni Khosrou, ni Thous, ni le trône, ni la couronne, ni les éléphants ni les timbales.
 >
@@ -40,7 +40,7 @@ Rustem réfléchit sur ces paroles ; il vit que le monde était entre les mains 
 
 > S’il me jette sur la montagne, mon corps et mes os seront brisés.
 >
-> Mais il fera certainement le contraire de ce que je lui demande;
+> Mais il fera certainement le contraire de ce que je lui demande ;
 >
 > Car il ne connaît pas les serments et ne tiendra pas une promesse : si je lui dis de me jeter à l’eau pour que la gueule des crocodiles me serve de linceul, cet affreux Div me jettera à l’instant sur la montagne pour que je m’y brise.
 >
@@ -60,27 +60,27 @@ Il le précipita dans la mer profonde pour que les intestins des poissons lui se
 
 Mais Rustem, aussitôt que du haut des nues il fut tombé dans l’eau, tira son épée de combat et les crocodiles s’enfuirent timidement en voyant avec quelle bravoure il les attaquait.
 
-Il nagea avec la main et le pied gauches;
+Il nagea avec la main et le pied gauches ;
 
 Il se défendit contre ses ennemis avec la main et le pied droits.
 
 Il ne perdit pas un instant pour agir ; c’est ainsi que fait le véritable homme de guerre.
 
-S’il était possible qu’un homme écartât à jamais la mort par sa bravoure, jamais le destin n’aurait pu faire périr Rustem;
+S’il était possible qu’un homme écartât à jamais la mort par sa bravoure, jamais le destin n’aurait pu faire périr Rustem ;
 
 Mais telle est la rotation de la fortune, qu’un jour elle t’apporte du miel et un autre du poison.
 
-Rustem lutta si bravement contre la mer qu’il atteignit la côte;
+Rustem lutta si bravement contre la mer qu’il atteignit la côte ;
 
-Il aborda et vit devant lui la plaine d’où il était parti;
+Il aborda et vit devant lui la plaine d’où il était parti ;
 
-Il rendit grâce au Créateur qui avait sauvé son serviteur du pouvoir du méchant;
+Il rendit grâce au Créateur qui avait sauvé son serviteur du pouvoir du méchant ;
 
 Puis, il se reposa, après avoir desserré sa ceinture, déposé le Bebr-i-beyau à côté d’une source et jeté par terre son lacet et son armure mouillés, de sorte que le lion furieux ne restait revêtu que de sa cotte de mailles.
 
-Ensuite il se rendit à la source près de laquelle il avait dormi et le vil Div fut confondu en le voyant.
+Ensuite, il se rendit à la source près de laquelle il avait dormi et le vil Div fut confondu en le voyant.
 
-Mais le brillant Raksch ne se trouvait plus dans la prairie et son maître ambitieux maudit le sort;
+Mais le brillant Raksch ne se trouvait plus dans la prairie et son maître ambitieux maudit le sort ;
 
 Il se mit en colère, se chargea de la selle et de la bride et suivit les traces de Raksch jusqu’au matin.
 
@@ -90,23 +90,23 @@ Rustem marchait ainsi cherchant du gibier, lorsqu’il vit devant lui une prairi
 
 Le gardien du troupeau de chevaux d’Afrasiab dormait dans le bois et Raksch courait comme un Div parmi les cavales en hennissant au milieu du troupeau.
 
-Aussitôt que Rustem l’aperçut, il jeta son lacet de Keîanide, prit sa tête dans le nœud, essuya la poussière qui le couvrait, lui mit la selle et rendit grâce à Dieu le secourable;
+Aussitôt que Rustem l’aperçut, il jeta son lacet de Keîanide, prit sa tête dans le nœud, essuya la poussière qui le couvrait, lui mit la selle et rendit grâce à Dieu le secourable ;
 
 Il lui jeta la bride sur le cou, monta dessus, posa la main sur la garde de son épée tranchante et se mit à pousser devant lui tout le troupeau en invoquant le nom de Dieu sur son épée.
 
-Au bruit que faisaient les chevaux, le gardien se réveilla et leva la tête;
+Au bruit que faisaient les chevaux, le gardien se réveilla et leva la tête ;
 
 Il appela les cavaliers qui étaient à ses ordres et les fit monter sur des destriers qui portaient la tête haute.
 
 Chacun prit son lacet et son arc pour voir quel était l’ennemi qui osait s’aventurer dans cette prairie et s’approcher d’une garde si nombreuse.
 
-Tous ces cavaliers le poursuivirent chaudement pour déchirer la peau de ce lion;
+Tous ces cavaliers le poursuivirent chaudement pour déchirer la peau de ce lion ;
 
 Mais Rustem, qui les vit accourir, tira du fourreau son épée tranchante, rugit comme un lion et proclama son nom, disant :
 
 > Je suis Rustem fils de Destan fils de Sam !
 
-Il en tua les deux tiers avec son épée;
+Il en tua les deux tiers avec son épée ;
 
 Et le gardien du troupeau voyant cela, lui tourna le dos et s’enfuit.
 
