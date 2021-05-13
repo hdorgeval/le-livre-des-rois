@@ -121,7 +121,7 @@ Toi qui as vu tant de massues et de flèches, si tu t’enfuis devant Piran, il 
 >
 > N’as-tu pas entendu le vieux proverbe que le sage nous a répété : 
 >
-> > Que deux frères se placent dos à dos et une montagne ne sera plus qu’une poignée de poussière?
+> > Que deux frères se placent dos à dos et une montagne ne sera plus qu’une poignée de poussière ?
 >
 > Tu vis, tu as soixante et dix vaillants fils ; et ta famille compte encore beaucoup d’éléphants et de lions.
 >
@@ -145,7 +145,7 @@ Le vieux Gouderz dit alors à Bijen :
 
 Bijen l’écouta, lança son cheval, courut semblable à Adergouschasp auprès de Feribourz et lui dit :
 
-> Pourquoi te caches-tu ici?
+> Pourquoi te caches-tu ici ?
 >
 > Secoue les rênes de ton cheval comme un brave et ne reste pas plus longtemps sur cette montagne.
 >
