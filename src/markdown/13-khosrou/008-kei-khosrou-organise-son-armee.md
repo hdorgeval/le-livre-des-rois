@@ -62,11 +62,11 @@ Il fit avancer jusqu’au centre de l’armée son éléphant couvert de capara�
 
 Il tenait dans sa main une coupe dans laquelle se trouvait une balle et le bruit de l’armée s’élevait jusqu’à Saturne.
 
-Le roi ayant posé la coupe sur le dos de son éléphant de guerre, jeta la balle dedans et le monde se couvrit de flots d’hommes, semblables aux flots bleus de la mer;
+Le roi ayant posé la coupe sur le dos de son éléphant de guerre, jeta la balle dedans et le monde se couvrit de flots d’hommes, semblables aux flots bleus de la mer ;
 
 La terre devint noire et le ciel s’obscurcit sous cette masse d’épées, de massues, de timbales et de poussière : on aurait dit que le soleil était pris dans un lacet, ou que la voûte du ciel était couverte d’eau.
 
-L’œil du spectateur distinguait les rênes brillantes des chevaux et le ciel et les étoiles voyaient de près les pointes des lances;
+L’œil du spectateur distinguait les rênes brillantes des chevaux et le ciel et les étoiles voyaient de près les pointes des lances ;
 
 Quand l’armée défila, escadron par escadron, tu aurais dit que c’étaient des vagues que jetait la mer.
 
@@ -84,11 +84,11 @@ Il était assis sur un destrier couleur isabelle et avait roulé son lacet autou
 
 Lorsque ce prince, fort de membres, haut de stature et d’un maintien royal, passa devant Khosrou avec ses troupes couvertes d’or et d’argent, le roi du monde le salua, disant :
 
-> Puisses-tu conserver la puissance et la dignité qui sont l’apanage des grands!
+> Puisses-tu conserver la puissance et la dignité qui sont l’apanage des grands !
 >
-> Puisse ta fortune être toujours victorieuse!
+> Puisse ta fortune être toujours victorieuse !
 >
-> Puisse chaque jour de ta vie être une fête de Nourouz!
+> Puisse chaque jour de ta vie être une fête de Nourouz !
 >
 > Puisses-tu partir en bonne santé et revenir sans fatigue auprès de nous !
 
@@ -152,15 +152,15 @@ Faramourz s’avança, semblable à un arbre chargé de fruits et rendit hommage
 
 > Celui que le héros au corps d’éléphant a élevé doit porter haut la tête, quelle que soit l’assemblée où il se trouve.
 >
-> Tu es fils de Rustem à l’esprit vigilant, tu es de la famille de Zal, de Sam et de Neriman;
+> Tu es fils de Rustem à l’esprit vigilant, tu es de la famille de Zal, de Sam et de Neriman ;
 >
 > l’Inde t’appartient et depuis Kanoudj jusqu’au Seïstan, tout est à toi.
 >
-> N’afflige ni ne persécute ceux qui ne t’attaquent pas;
+> N’afflige ni ne persécute ceux qui ne t’attaquent pas ;
 >
-> sois toujours l’ami des pauvres;
+> sois toujours l’ami des pauvres ;
 >
-> sois toujours généreux envers les tiens;
+> sois toujours généreux envers les tiens ;
 >
 > examine bien qui est ton véritable ami, qui est sage et qui peut dissiper les soucis.
 >
@@ -178,7 +178,7 @@ Car le jour de demain pourrait te porter malheur.
 >
 > Mes jours et les tiens finiront et le ciel qui tourne compte tes respirations.
 >
-> Aie soin de maintenir ton âme en paix, ton corps en bonne santé et ne perds jamais de vue le vrai but de la vie!
+> Aie soin de maintenir ton âme en paix, ton corps en bonne santé et ne perds jamais de vue le vrai but de la vie !
 >
 > Puisse Dieu le créateur t’accorder sa grâce !
 
@@ -192,7 +192,7 @@ Il baisa la terre en se prosternant devant le roi, ensuite il partit pour sa des
 
 Rustem, dont l’âme se consumait de douleur à cause de son départ, l’accompagna l’espace de deux farsangs, lui donnant des conseils sur les guerres et les fêtes et sur sa conduite et exprimant l’espoir que le sort lui serait favorable ; ensuite il le quitta tout soucieux et s’en retourna du désert vers ses tentes.
 
-Le roi, pendant ce temps, était descendu de son éléphant de guerre, était monté sur un cheval rapide et rentré dans son camp, le cœur plein de bienveillance, la tête pleine de pensées sages;
+Le roi, pendant ce temps, était descendu de son éléphant de guerre, était monté sur un cheval rapide et rentré dans son camp, le cœur plein de bienveillance, la tête pleine de pensées sages ;
 
 Lorsque Rustem s’approcha, Khosrou fit apporter du vin, vida une grande coupe et lui dit :
 
