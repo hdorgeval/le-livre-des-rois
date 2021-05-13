@@ -22,6 +22,8 @@ Barteh lui-même fut ému du sort de son ennemi.
 Il descendit de cheval, lia le corps de Kehrem sur la selle de Touz que portait son destrier, se Q ho.
 âôfi remit lui-même en selle et courut comme un léopard rugissant vers la colline en poussant des cris, tenant d’une main une épée indienne, de l’autre son drapeau fortuné et apportant Kehrem pendant sur les deux flancs de son cheval.
 
-Il s’écria : Le roi est victorieux !
+Il s’écria :
+
+> Le roi est victorieux !
 
 Puisse son diadème s’élever à jamais au-dessus du soleil !"
