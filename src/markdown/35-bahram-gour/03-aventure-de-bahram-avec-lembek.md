@@ -45,7 +45,7 @@ l «que je refuse.» Lenlbek partit, portant quelques
 outres, mais personne ne parut pour acheter son eau. Il en fut chagrin, ôta sa tunique, prit sous le bras un seau de cuir et un linge qu’il avait pour mettre sous les outres, alla au marché, les vendit, et rapporta de la viande et du lait caillé. En rentrant,
 il plaça le chaudron sur le feu, et son convive observa attentivement toute la peine qu’il se donnait. Lembek
 lit cuire le dîner, puis ils mangèrent et burent du vin, et se tinrent de nouveau compagnie. Bahram passa la nuit sombre, la coupe de vin en main, avec Lembek, le porteur d’eau. qui aimait beaucoup le vin.
-Lorsque la nuit eut fait place au jour,.I1embek accourut de nouveau auprèslde Bahram et lui dit: « Puissent tes nuits et tes jours être heureux! puissestu «vivre libre de soucis, de fatigues et de travail! Ac- «corde-mor encore ce jour; sache que tu me donnes «la vie et la fortune.» Bahram répondit : «A Dieu
+Lorsque la nuit eut fait place au jour,.I1embek accourut de nouveau auprèslde Bahram et lui dit: « Puissent tes nuits et tes jours être heureux! puisses-tu «vivre libre de soucis, de fatigues et de travail! Ac- «corde-mor encore ce jour; sache que tu me donnes «la vie et la fortune.» Bahram répondit : «A Dieu
 «ne plaise que nous ne nous amusions pas un troi- «sièmc jour!» Le porteur d’eau le bénit, disant :
 «Puisse ton cœur rester éveillé et la fortune te rester «fidèle!» Il alla au marché, et y porta ses outres et
 ses ustensiles, et les mit en gage chez un homme riche; il acheta ce qu’il fallait et revint en. courant et tout joyeux auprès de Bahram, à. qui il dit : « Aide- «moi à préparer le dîner, car l’homme vit de ce qu’il
