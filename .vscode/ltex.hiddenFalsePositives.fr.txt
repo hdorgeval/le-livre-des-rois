@@ -50,3 +50,5 @@
 {"rule":"VOIE_VOIX","sentence":"^\\QÉloigne-toi de notre présence, tu es un crocodile, ne te mets pas dans la voie des lions.\\E$"}
 {"rule":"ACCORD_NOMBRE","sentence":"^\\QBéni soient sa famille, son armée, son pays, sa stature et sa mine royales !\\E$"}
 {"rule":"ACCORD_GENRE","sentence":"^\\QLe trône sied à l'homme intelligent, car l'or est sans valeur comparé à l'intelligence et tout homme qui est content est riche ; mais un cœur avide est une maison remplie de fumée.\\E$"}
+{"rule":"FAIRE_VPPA","sentence":"^\\QIl tenta cependant une nouvelle voie : il ordonna à ses gens de chercher l'endroit où les loups gardaient leurs petits, de tuer ces petits et de mettre Zoroastre au milieu d'eux ; afin que les loups dévorants, descendant affamés des montagnes, le missent en pièces.\\E$"}
+{"rule":"PLACE_DE_LA_VIRGULE","sentence":"^\\QUn homme se trouvait-il mal dans ses affaires, il les arrangeait, lui donnait ses habits, ses propres biens : il distribuait à tout le monde l'or et l'argent qu'il possédait et son nom devint célèbre chez les petits et chez les grands.\\E$"}
