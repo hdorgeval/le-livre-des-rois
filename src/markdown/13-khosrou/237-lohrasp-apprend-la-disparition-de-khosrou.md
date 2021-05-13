@@ -36,9 +36,9 @@ Lohrasp, ayant entendu ces paroles, le remercia et respira plus librement ; il l
 >
 > Je n’ai pas à partager avec vous des trésors ; car moi, ma famille, mon empire, tout est à vous.»
 
-Ensuite il dit à Gouderz :
+Ensuite, il dit à Gouderz :
 
-> Ô Pehlewan du monde!
+> Ô Pehlewan du monde !
 >
 > Dis-moi les secrets que cache ton cœur.»
 
