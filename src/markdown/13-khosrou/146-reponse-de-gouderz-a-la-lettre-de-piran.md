@@ -69,7 +69,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Dieu, le dispensateur de la justice, m’interrogerait sur la mort de mes soixante et dix nobles fils ; et que lui répondrais-je ?
 >
-> Saurais-je lui dire pourquoi j’ai renoncé à ma vengeance?
+> Saurais-je lui dire pourquoi j’ai renoncé à ma vengeance ?
 >
 > Quatrièmement tu parles de la vengeance due à Siawusch, ô vieux chef d’armée.
 >
