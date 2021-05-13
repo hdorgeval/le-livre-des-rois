@@ -48,7 +48,7 @@ Il se dit en lui-même :
 
 Lorsque Gourguin le vit s’approcher, il mit pied à terre et courut au-devant de lui ; il se roula dans la poussière tête nue et déchirant ses joues avec ses ongles.
 
-Ensuite il demanda à Guiv :
+Ensuite, il demanda à Guiv :
 
 > Ô élu des hérrros, chef de l’armée de l’Iran, gardien du trône, pourquoi es-tu venu au-devant de moi ?
 
@@ -66,7 +66,7 @@ Puis, il dit :
 >
 > Je n’avais dans le monde qu’un seul fils, qui était pour moi un consolateur et un soutien ; maintenant le malheur me l’a ravi et je me trouve dans la gueule du dragon.»
 
-Ensuite il se retourna vers Gourguin et lui demanda :
+Ensuite, il se retourna vers Gourguin et lui demanda :
 
 > Que s’est-il passé depuis votre départ ?
 >
