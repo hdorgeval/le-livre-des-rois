@@ -111,7 +111,7 @@ Mais quand il le vit rester en selle, il dit en s’adressant au Créateur :
 
 Ensuite, il dit à Pouladwend :
 
-> Quel mal t’a fait la massue des braves?
+> Quel mal t’a fait la massue des braves ?
 >
 > Tes mains ne manient plus les rênes noires ;
 >
@@ -163,7 +163,7 @@ Rustem lui répondit :
 
 > Ô Div infortuné, tu ne peux résister aux coups des braves et tu inventes toujours de nouvelles ruses comme un renard ;
 >
-> Mais à quoi cela te sert-il?
+> Mais à quoi cela te sert-il ?
 >
 > Car ta tête finira toujours par être prise dans le nœud.
 >
