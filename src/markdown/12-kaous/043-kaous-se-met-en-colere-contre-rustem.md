@@ -30,7 +30,7 @@ Il commença par pousser un cri de rage contre Guiv et oubliant toute décence i
 
 Le cœur de Guiv bondit à ces paroles et il répondit :
 
-> Estce que tu porterais ainsi la main sur Rustem?»
+> Est-ce que tu porterais ainsi la main sur Rustem?»
 
 Le roi éclata contre Guiv et contre Rustem de manière à jeter dans la stupeur toute l’assemblée ; il ordonna à Thous de les prendre tous les deux et de les pendre vivants au gibet et lui-même se leva de son trône, brûlant de colère comme la flamme qui dévore les roseaux.
 
@@ -132,9 +132,7 @@ Guzdehem a entendu parler de tous tes guerriers et les a vus grands et petits et
 
 > Puisse ne jamais arriver le jour ou un cavalier ose penser à le combattre !
 >
-> Insensé serait quiconque l’attaquerait, eût-il la bra- 
-9b
-mure de Rustem.»
+> Insensé serait quiconque l’attaquerait, eût-il la bravoure de Rustem.»
 
 Le roi écouta les paroles de Gouderz, il sentit qu’elles étaient conformes aux convenances et à la raison ; il fut honteux de ce qui s’était passé et confondu de sa conduite insensée.
 
@@ -184,9 +182,7 @@ Ma patience est à bout, mon cœur est gros et je ne crains que Dieu le tout sai
 >
 > Ne tourne pas le dos au roi dans ces circonstances et ne ternis pas, par cette retraite, la gloire qui est si grande dans le monde.
 >
-> En outre, 
->
-> maintenant que l’armée des ennemis nous serre de près, n’obscurcis pas follement cette couronne et ce trône.
+> En outre, maintenant que l’armée des ennemis nous serre de près, n’obscurcis pas follement cette couronne et ce trône.
 >
 > Car aucun homme attaché à notre foi pure ne peut approuver que le pays de Touran nous couvre de honte.»
 
@@ -206,8 +202,7 @@ Aussitôt que le roi le vit de loin, il sauta sur ses pieds et lui fit beaucoup 
 >
 > Je t’ai fait appeler pour trouver un moyen de salut, tu as tardé à venir et je t’ai traité durement.
 >
-> Mais, ô
-héros au corps d’éléphant, quand tu t’es senti blessé, je me suis repenti et j’ai rempli ma bouche de poussière.»
+> Mais, ô héros au corps d’éléphant, quand tu t’es senti blessé, je me suis repenti et j’ai rempli ma bouche de poussière.»
 
 Rustem lui répondit :
 
