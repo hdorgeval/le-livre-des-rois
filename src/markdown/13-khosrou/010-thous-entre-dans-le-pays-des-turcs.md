@@ -104,7 +104,7 @@ Lorsque Thous, qui s’avançait sans se presser, fut arrivé auprès des chefs 
 >
 > Il vaut donc mieux prendre la route de Kelat et de Djerem, en emportant avec nous de l’argent et de l’or et nous arrêter à Kelat, car nos troupes voudront se reposer.
 >
-> Nous y trouverions à droite et à gauche des pays cultivés et arrosés, pourquoi irions-nous chercher le désert et les fatigues?
+> Nous y trouverions à droite et à gauche des pays cultivés et arrosés, pourquoi irions-nous chercher le désert et les fatigues ?
 >
 > J’ai fait un jour la route du désert avec Guezdehem qui me guidait et ce long chemin nous fatigua beaucoup, quoiqu’il n’y ait que peu de montées et de descentes ; il vaut donc mieux que l’armée suive l’autre route, où nous n’aurons pas à mesurer la longueur du désert et à compter le nombre des farsangs.
 
