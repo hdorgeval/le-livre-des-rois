@@ -10,9 +10,11 @@ order: '123'
 
 # Défaite d'Afrasiab
 
-À ces paroles le farouche Turc trembla et poussa 9,8 . un soupir ; ensuite il s’écria avec colère : Ô grands du Touran, est-ce ici un champ de bataille, ou une salle de festin ?
+À ces paroles le farouche Turc trembla et poussa 9,8 . un soupir ; ensuite il s’écria avec colère :
 
-Il faut que vous combattiez de toutes vos forces et je comblerai vos vœux, je vous donnerai des trésors.»
+> Ô grands du Touran, est-ce ici un champ de bataille, ou une salle de festin ?
+>
+> Il faut que vous combattiez de toutes vos forces et je comblerai vos vœux, je vous donnerai des trésors.»
 
 Les héros du Touran répondirent à ces paroles de leur chef par un cri de guerre ; la poussière obscurcit tellement le soleil qu’on eût dit que le monde était noyé dans l’eau.
 
