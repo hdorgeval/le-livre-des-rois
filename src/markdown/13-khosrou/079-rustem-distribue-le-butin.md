@@ -128,9 +128,9 @@ Lorsqu’on dit à Rustem que les Turcs avaient disparu du pays, il s’emporta,
 
 Il les injuria, disant :
 
-> Personne n’a donc de sens dans sa cervelle, pour laisser échapper ainsi en masse une armée ennemie enfermée entre deux montagnes?
+> Personne n’a donc de sens dans sa cervelle, pour laisser échapper ainsi en masse une armée ennemie enfermée entre deux montagnes ?
 >
-> Ne vous ai-je pas ordonné d’envoyer des vedettes et de convertir en plaines les vallées et les ravins en les comblant avec des morts?
+> Ne vous ai-je pas ordonné d’envoyer des vedettes et de convertir en plaines les vallées et les ravins en les comblant avec des morts ?
 >
 > Vous vous êtes livrés au repos et au sommeil et l’ennemi a agi et a marché.
 >
@@ -140,7 +140,7 @@ Il les injuria, disant :
 
 Il se tourna ensuite vers Thous, furieux et semblable à un léopard et lui dit :
 
-> Estce là un banquet ou un champ de bataille?
+> Estce là un banquet ou un champ de bataille ?
 >
 > Dès ce moment ce sera à toi et à ton armée d’affronter sur cette plaine Piran, Kelbad, Houman, Rouïn et Poulad.
 >
@@ -148,7 +148,7 @@ Il se tourna ensuite vers Thous, furieux et semblable à un léopard et lui dit 
 >
 > Si vous êtes si forts, combattez vous-mêmes ;
 >
-> Pourquoi m’appelleriez-vous dorénavant à votre aide?
+> Pourquoi m’appelleriez-vous dorénavant à votre aide ?
 >
 > Je suis revenu victorieux de cette bataille, mais à la fin du compte tout a été inutile.
 >
