@@ -72,7 +72,7 @@ Il obtint de Bijen, par cette convention, qu’il lui livrât son poignard et qu
 
 Guersiwez l’entoura de liens de la tête aux pieds, comme un guépard.
 
-Hélas  !
+Hélas !
 
 À quoi sert la bravoure quand la fortune est contraire ?
 
