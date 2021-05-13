@@ -36,7 +36,7 @@ Il vit le monde rempli de tentes et de leurs enceintes jaunes, rouges, violettes
 
 A cet aspect il s’arrêta étonné, les pensées se pressaient dans sa tête et il se dit :
 
-> Estce un paradis ou un camp?
+> Estce un paradis ou un camp ?
 >
 > Estce le ciel sublime ou une couronne et un trône ?
 
