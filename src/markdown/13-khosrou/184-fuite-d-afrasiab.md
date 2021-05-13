@@ -13,7 +13,7 @@ order: '184'
 Lorsque la moitié de la nuit sombre fut écoulée et que la moitié du ciel eut passé au-dessus des mon--
 tagnes, Afrasiab fit charger les bagages, distribua à toute l’armée des casques et des cuirasses et ordonna une ronde de dix mille cavaliers turcs montés sur des chevaux caparaçonnés.
 
-Ensuite il dit à son armée :
+Ensuite, il dit à son armée :
 
 > Je vais repasser le Djihoun et il faut que vous passiez à ma suite, en bon ordre, un corps après l’autre. r Dans la nuit sombre Afrasiab quitta avec son armée le désert d’Amouï et passa le fleuve et la surface du pays, dans toutes les directions, restait couverte de tentes grandes et petites, abandonnées par les troupes.
 >
