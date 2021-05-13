@@ -78,13 +78,13 @@ Khosrou ordonna au Mobed d’amener dix esclaves portant de belles ceintures, di
 
 > Ces chevaux et toutes ces belles femmes sont à celui qui agira selon mes ordres, lorsque Tejaou sera mis en en fuite, car ce cœur de lion ne vous résistera probablement pas.
 >
-> Tejaou se fait accompagner dans les combats par une esclave, dont la voix apprivoiserait un léopard, dont la joue est fraîche comme le printemps et la stature élancée comme le cyprès, dont la taille ressemble au roseau et la marche aux mouvements du faisan;
+> Tejaou se fait accompagner dans les combats par une esclave, dont la voix apprivoiserait un léopard, dont la joue est fraîche comme le printemps et la stature élancée comme le cyprès, dont la taille ressemble au roseau et la marche aux mouvements du faisan ;
 >
-> c’est une femme au visage de lune, dont le nom est Ispenoui;
+> c’est une femme au visage de lune, dont le nom est Ispenoui ;
 >
 > elle est belle comme une Péri, elle ravit le cœur et répand un parfum de musc, son sein est blanc comme le lis et son nom même exhale un parfum de lis.
 >
-> Or le cavalier qui s’en emparera ne doit pas la frapper de l’épée quand il l’aura atteinte, car un pareil visage n’est pas fait pour un coup d’épée;
+> Or le cavalier qui s’en emparera ne doit pas la frapper de l’épée quand il l’aura atteinte, car un pareil visage n’est pas fait pour un coup d’épée ;
 >
 > il faut qu’il l’entoure du nœud de son lacet comme d’une ceinture, qu’il l’enlève ainsi de cheval et l’attire sur son sein.
 
@@ -112,7 +112,7 @@ Le roi ordonna alors au trésorier de placer devant le trône dix tables d’or,
 
 > Ce présent est pour celui qui ne recule pas devant les fatigues quand il s’agit d’acquérir de la gloire et des richesses.
 >
-> Il faut qu’il se rende aux bords du Kaschroud et qu’il y salue les mânes de Siawusch;
+> Il faut qu’il se rende aux bords du Kaschroud et qu’il y salue les mânes de Siawusch ;
 >
 > il y trouvera un amas de bois qui a plus de dix lacets de hauteur et qu’Afrasiab accumula à l’endroit où il traversa le fleuve, pour empêcher que personne ne prît cette route et n’y passât de l’Iran dans le Touran.
 >
@@ -138,6 +138,6 @@ Il fit apporter incontinent par le trésorier, cent pièces de brocart de divers
 
 Gourguin fils de Milad étendit la main et se déclara prêt à se mettre en route ; le roi lui donna les esclaves, les robes brodées d’or et les pierreries royales et Gourguin le bénit en disant :
 
-> Puisse la raison être toujours la compagne de l’ âme de Khosrou !
+> Puisse la raison être toujours la compagne de l’âme de Khosrou !
 
 Cependant la terre était devenue noire connue l’aile du corbeau et le flambeau de la lune s’était levé derrière les montagnes ; le roi s’en retourna dans son palais et les grands partirent pour leurs demeures.
