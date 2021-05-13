@@ -32,7 +32,7 @@ Quand il aperçut sur la route Guiv le visage défait, il courut tindevant de lu
 >
 > Les soucis de son cœur et l’angoisse que lui causait la perte de son fils, en ajoutant : C’est pour cela que tu ne vois pas de couleur sur mes joues et que le dessus de mes pieds est taché de sang comme la robe du léopard.»
 
-Ensuite il demanda où était Tehemten, en disant :
+Ensuite, il demanda où était Tehemten, en disant :
 
 > ce Où est donc Rustem?»
 
