@@ -34,11 +34,11 @@ order: '010'
 
 # Thous entre dans le pays des Turcs
 
-Lorsque le soleil se fut montré dans toute sa grandeur, qu’il eut occupé sa place sur le trône des cieux, qu’il eut foulé aux pieds le signe du Bélier et qu’il eut rempli le monde d’une lumière dorée comme le vin, le bruit des tambours, des clairons et des timbales se fit entendre sous la porte des tentes de Thous;
+Lorsque le soleil se fut montré dans toute sa grandeur, qu’il eut occupé sa place sur le trône des cieux, qu’il eut foulé aux pieds le signe du Bélier et qu’il eut rempli le monde d’une lumière dorée comme le vin, le bruit des tambours, des clairons et des timbales se fit entendre sous la porte des tentes de Thous ;
 
 Tout le pays fut plein de tumulte, l’air retentit de voix, le hennissement des chevaux et le son des clairons de l’armée firent trembler la terre, la face du soleil et de la lune s’obscurcit et le cliquetis des armes et les cris des éléphants remplirent le monde comme les flots remplissent l’Indus.
 
-L’air était rouge et jaune, bleu et violet;
+L’air était rouge et jaune, bleu et violet ;
 
 L’étendard de Kaweh brillait et les cavaliers de la famille de Gouderz l’entouraient.
 
@@ -62,9 +62,9 @@ Il remit à Thous, devant les braves, un sceau, le nomma leur chef et leur guide
 >
 > Il ne faut pas faire de mal à qui que ce soit sur la route, telle est la loi de la royauté.
 >
-> Ne souffre pas qu’un vent froid atteigne le cultivateur et l’artisan, ni ceux qui ne sont pas ceints pour la guerre;
+> Ne souffre pas qu’un vent froid atteigne le cultivateur et l’artisan, ni ceux qui ne sont pas ceints pour la guerre ;
 >
-> Ne combats que ceux qui combattent;
+> Ne combats que ceux qui combattent ;
 >
 > Ne fais pas de peine à ceux qui n’en font pas aux autres, car ce monde passager ne reste à personne.
 >
@@ -86,7 +86,7 @@ Il a eu un fils de la fille de Piran, qui d’après les ordres de son père ne 
 
 Thous répondit au roi :
 
-> Puisse le sort ne jamais contrarier ta volonté!
+> Puisse le sort ne jamais contrarier ta volonté !
 >
 > Je prendrai le chemin que tu me prescris, car tes ordres ne peuvent conduire qu’au bien.
 
