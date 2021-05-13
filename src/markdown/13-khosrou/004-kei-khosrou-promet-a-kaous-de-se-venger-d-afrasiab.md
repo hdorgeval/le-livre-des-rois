@@ -55,9 +55,9 @@ Kaous dit à Keï Khosrou :
 
 Lorsque le jeune roi eut entendu les paroles de Kaous, il se tourna vers le feu, et, en versant des larmes, jura par Dieu le tout-puissant, par le jour brillant et la nuit noire, par le soleil et la lune, par le trône et le diadème, par le sceau, l’épée et la couronne du roi, que jamais il ne regarderait Afrasiab favorablement, que jamais il ne verrait son visage, même en songe.
 
-On consigna ce serment par écrit;
+On consigna ce serment par écrit ;
 
-On l’écrivit avec du musc, en langue Pehlewi, sur un rôle royal;
+On l’écrivit avec du musc, en langue Pehlewi, sur un rôle royal ;
 
 Le Destan, Rustem et tous les chefs de l’armée l’attestèrent par le sceau ; et ce document, contenant le serment, les sceaux et les attestations, fut confié à la garde de Rustem.
 
@@ -69,11 +69,11 @@ Le huitième jour, le maître du monde se lava la tête et le corps, composa son
 
 Il y demeura durant la nuit sombre et jusqu’à ce que le soleil parût, en soupirant, en versant des larmes et en disant :
 
-> Ô Dieu unique distributeur de la justice, Seigneur qui dispense la bonne fortune et qui guide les hommes!
+> Ô Dieu unique distributeur de la justice, Seigneur qui dispense la bonne fortune et qui guide les hommes !
 >
-> Tu m’as délivré de la gueule du dragon dans les jours de ma jeunesse et quand j’étais sans armée;
+> Tu m’as délivré de la gueule du dragon dans les jours de ma jeunesse et quand j’étais sans armée ;
 >
-> Tu sais que le maître du Touran n’a pas de conscience et ne craint pas de faire le mal;
+> Tu sais que le maître du Touran n’a pas de conscience et ne craint pas de faire le mal ;
 >
 > Les pays habités et les déserts le maudissent ; les cœurs des innocents sont remplis de haine contre lui.
 >
@@ -84,11 +84,11 @@ Il y demeura durant la nuit sombre et jusqu’à ce que le soleil parût, en sou
 
 Après avoir touché plusieurs fois la terre avec son front et célébré les louanges du Créateur, il s’en retourna à son trône et dit aux Pehlewans qui portaient haut la tête :
 
-> Ô mes braves, qui êtes prêts à conquérir le monde et à frapper avec vos épées!
+> Ô mes braves, qui êtes prêts à conquérir le monde et à frapper avec vos épées !
 >
 > J’ai traversé à cheval le pays d’Iran, d’ici jusqu’au temple d’Adergouschasp.
 >
-> Je n’ai pas rencontré un seul homme heureux, un seul riche, un seul dont les terres fussent bien cultivées;
+> Je n’ai pas rencontré un seul homme heureux, un seul riche, un seul dont les terres fussent bien cultivées ;
 >
 > Tous ont été frappés par Afrasiab ; tous les cœurs sont gonflés de sang, tous les yeux inondés de larmes.
 >
@@ -96,7 +96,7 @@ Après avoir touché plusieurs fois la terre avec son front et célébré les lo
 >
 > Le noble roi mon grand-père ne cesse également de pousser des soupirs et dans tout le pays d’Iran on entend les hommes et les femmes se lamenter sur les meurtres et les pillages, sur les guerres et les dévastations.
 >
-> Maintenant, puisque vous êtes tous mes amis sincères, puisque vous m’êtes tous dévoués, armons-nous pour venger mon père, délivrons l’Iran de ses maux;
+> Maintenant, puisque vous êtes tous mes amis sincères, puisque vous m’êtes tous dévoués, armons-nous pour venger mon père, délivrons l’Iran de ses maux ;
 >
 > Allons tous à la guerre, luttons et combattons comme des léopards.
 >
@@ -118,7 +118,7 @@ Les grands se levèrent le cœur plein d’amertume et lui répondirent :
 >
 > Puisse ton âme être contente !
 >
-> Puisse ton corps être toujours exempt de douleur!
+> Puisse ton corps être toujours exempt de douleur !
 >
 > Nous sommes à toi corps et âme ; nous ne sommes tristes que de tes pertes et heureux que de ton bonheur.
 >
