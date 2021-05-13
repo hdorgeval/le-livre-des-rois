@@ -16,7 +16,7 @@ Il choisit une armée de guerriers et de grands de l’Iran telle que les circon
 
 I de conduire des troupes, des éléphants, des trésors et de l’argent à Zem, pour empêcher l’ennemi de tomber sur les derrières des Iraniens et de déconcero ter leurs plans.
 
-Ensuite il fit monter à cheval les héros, fit battre les timbales d’airain et donna l’ordre du départ ; il s’avança prudemment, sagement et avec lenteur, car la précipitation dans la guerre amène le repentir. -, Arrivé dans le désert, Khosrou s’occupa de la marche et de l’ordonnance de son armée : elle avait à sa droite le Kharizm, où les sables du désert permettaient de livrer bataille, à sa gauche le Dehistan et une grande quantité d’eau, au milieu, du sable et devant elle, Afrasiab.
+Ensuite, il fit monter à cheval les héros, fit battre les timbales d’airain et donna l’ordre du départ ; il s’avança prudemment, sagement et avec lenteur, car la précipitation dans la guerre amène le repentir. -, Arrivé dans le désert, Khosrou s’occupa de la marche et de l’ordonnance de son armée : elle avait à sa droite le Kharizm, où les sables du désert permettaient de livrer bataille, à sa gauche le Dehistan et une grande quantité d’eau, au milieu, du sable et devant elle, Afrasiab.
 
 Lui avec Rustem, Thous, Gouderz, Guiv et une nombreuse escorte de héros illustres, fille tour de ce théâtre de la guerre et examina le désert en tous sens.
 
