@@ -55,7 +55,7 @@ Il s’approcha de Schenkoul et s’écria :
 >
 > Zal Zer m’a donné le nom de Rustem !
 >
-> Pourquoi, ô misérable, m’appelles-tu l’homme du Seïstan?
+> Pourquoi, ô misérable, m’appelles-tu l’homme du Seïstan ?
 >
 > Sache que l’homme du Seistan est ta mort et que ta cuirasse et ton casque te serviront de linceul.
 
@@ -113,7 +113,7 @@ Piran dit au Khakan de la Chine :
 >
 > Ce héros n’est pas un marchand autour de qui se pressent des gens de tout pays et cette guerre tournera mal pour Afrasiab ;
 >
-> Car quand Rustem le laissera-t-il jouir du repos et du sommeil?
+> Car quand Rustem le laissera-t-il jouir du repos et du sommeil ?
 >
 > Ce qui est certain, c’est que nous serons blâmés.
 >
