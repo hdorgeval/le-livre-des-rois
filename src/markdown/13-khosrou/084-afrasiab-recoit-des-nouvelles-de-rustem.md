@@ -63,9 +63,9 @@ Son cœur en fut affligé et le satin qui le revêtait lui parut rude comme des 
 
 Il dit :
 
-> Qui entreprendra de combattre cet homme?
+> Qui entreprendra de combattre cet homme ?
 >
-> J’ai beaucoup de troupes, mais qui en sera le chef?
+> J’ai beaucoup de troupes, mais qui en sera le chef ?
 >
 > Qui osera se présenter devant ce brave qui a rendu noire la terre avec son épée brûlante ?
 
@@ -75,7 +75,7 @@ L’armée répondit à Afrasiab :
 >
 > Tu es en état de faire jaillir le sang du champ de bataille jusqu’à la lune ;
 >
-> Tu as des armes, des hommes vaillants et des trésors, pourquoi donc ton cœur se serrerait-il en pensant à Rustem?
+> Tu as des armes, des hommes vaillants et des trésors, pourquoi donc ton cœur se serrerait-il en pensant à Rustem ?
 >
 > Ne crains pas de combattre ce cavalier et regarde autour de toi ces jeunes et illustres héros.
 >
@@ -87,7 +87,7 @@ L’armée répondit à Afrasiab :
 >
 > Prépare une armée pour t’en délivrer, abaisse sa tête des nues jusqu’à la poussière ;
 >
-> Qu’auras-tu alors à craindre du roi et de Dieu?
+> Qu’auras-tu alors à craindre du roi et de Dieu ?
 >
 > Ni Khosrou, ni son trône, ni le pays d’Iran, ni une seule branche d’arbre ne prospéreront plus.
 >
@@ -129,7 +129,7 @@ Lorsque Farghar fut parti et se fut mis en route pour aller reconnaître le camp
 
 Il n’admit aucun étranger en sa présence et envoya chercher son fils Schideh, à qui il tint en secret un discours approprié aux circonstances :
 
-> Ô mon sage fils, quand tes troupes viendront-elles à ton aide?
+> Ô mon sage fils, quand tes troupes viendront-elles à ton aide ?
 >
 > Sache que cette armée innombrable et cette masse de cavaliers qui ont passé notre frontière sont commandés par Rustem au cœur de lion, dont l’épée rougit la terre.
 >
@@ -149,7 +149,7 @@ Il n’admit aucun étranger en sa présence et envoya chercher son fils Schideh
 >
 > J’ai peur de Rustem à la main prompte ;
 >
-> Car qui est à son aise dans la gueule du crocodile?
+> Car qui est à son aise dans la gueule du crocodile ?
 >
 > Dans le combat il ne ressemble pas à un homme, les coups ne le font pas plier et la douleur ne lui arrache pas une plainte ;
 >
@@ -225,7 +225,7 @@ Le roi leur communiqua le rapport de Farghar et leur demanda qui pouvait lutter 
 
 Piran lui dit :
 
-> Que nous importent les batailles et la gloire?
+> Que nous importent les batailles et la gloire ?
 >
 > Nous combattrons pour notre pays, nos enfants et nos familles.
 
