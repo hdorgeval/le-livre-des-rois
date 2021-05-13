@@ -18,7 +18,7 @@ Il lui ordonna d’écrire une lettre au roi pour lui donner des nouvelles de l�
 
 Il raconta de point en point l’histoire de Houman et de Nestihen les vaillants guerriers et les hauts faits de Bijen aujour de la bataille et comment il avait traité les Touraniens armés de massues ; il exposa tout cela. dans la lettre, tel que c’était arrivé.
 
-Ensuite il se mit à parler d’Al’rasiab, qui s’approchait avec une armée des bords du Djihoun et il ajouta : Tu sais, ô roi de l’Iran maître du monde, que s’il passe le fleuve avec son armée, s’il entre dans l’Iran et arrive sur ce champ de bataille, nous ne pourrons lui tenir ce tête.
+Ensuite, il se mit à parler d’Al’rasiab, qui s’approchait avec une armée des bords du Djihoun et il ajouta : Tu sais, ô roi de l’Iran maître du monde, que s’il passe le fleuve avec son armée, s’il entre dans l’Iran et arrive sur ce champ de bataille, nous ne pourrons lui tenir ce tête.
 
 J’espère qu’alors le roi commandera aux héros de mettre le casque sur la tête et qu’il viendra soutenir son armée ; mais si c’est Piran seul qui nous attaque, tes troupes ne te demanderont pas de secours et tu apprendras ce que ton esclave aura fait pour toi et ton trône.
 
@@ -61,7 +61,7 @@ Ses le trésorier apporta des caisses remplies d’or et en versa sur Hedjir jus
 
 On amena devant Hedjir dix nobles chevaux avec des selles d’or ; et l’on donna en présent à ses compagnons de l’argent, de l’or et beaucoup d’autres choses.
 
-Ensuite il se levèrent avec le roi, on prépara une salle pour y boire du vin ; Hedjir et les grands dévoués au roi saisirent chacun une coupe et ils restèrent ainsi ensemble pendant un jour et une nuit, le roi délibérant avec eux sur toutes choses grandes et petites.
+Ensuite, il se levèrent avec le roi, on prépara une salle pour y boire du vin ; Hedjir et les grands dévoués au roi saisirent chacun une coupe et ils restèrent ainsi ensemble pendant un jour et une nuit, le roi délibérant avec eux sur toutes choses grandes et petites.
 
 À l’aube du jour Khosrou se baigna et alla se présenter devant Dieu le maître du monde ; il se revêtit de nouveau du vêtement de l’obéissance ; ses deux yeux versaient des torrents de larmes ; et le dos courbé, la tête prosternée, il rendit grâces à Dieu le dispensateur de la justice, le supplia de lui accorder la victoire et la puissance et de sauver sa couronne et son trône royal ; il poussa des cris de douleur devant Dieu en pensant à Afrasiab et ses yeux répandirent des larmes de détresse.
 
