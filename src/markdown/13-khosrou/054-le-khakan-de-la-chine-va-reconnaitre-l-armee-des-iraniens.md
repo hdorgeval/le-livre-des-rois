@@ -102,7 +102,7 @@ Kamous lui répondit :
 
 > Cela n’est pas raisonnable et je ne puis approuver cet avis !
 >
-> Pourquoi attendre, avec une si grande armée, devant ces rochers nus?
+> Pourquoi attendre, avec une si grande armée, devant ces rochers nus ?
 >
 > Armons-nous, livrons bataille sans retard, rendons-leur étroites la montagne et les vallées ;
 >
@@ -120,7 +120,7 @@ Kamous lui répondit :
 >
 > Nous ne laisserons debout ni une maison, ni un palais, ni une tente.
 >
-> Pourquoi faut-il ajourner tout cela d’un jour?
+> Pourquoi faut-il ajourner tout cela d’un jour ?
 >
 > Il n’y a qu’un insensé qui ne se débarrasse pas de ses soucis, de ses douleurs et de ses inquiétudes.
 >
