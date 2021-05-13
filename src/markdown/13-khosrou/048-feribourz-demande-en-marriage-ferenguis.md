@@ -55,7 +55,7 @@ Le héros au corps d’éléphant se rendit auprès du roi et lui dit :
 >
 > Et s’il me l’accorde, ma tête s’élèvera au-dessus du cercle de la lune.
 >
-> Le roi me permet-il de le faire?
+> Le roi me permet-il de le faire ?
 >
 > C’est une chose bonne aux yeux de Dieu.
 
@@ -109,7 +109,7 @@ Le roi plein de bienveillance et Tehemten se rendirent auprès de cette lune et 
 >
 > Mais le fils de Zal désire que tu deviennes la compagne du vaillant Feribourz.
 >
-> Qu’en penses-tu et quels sont tes ordres?
+> Qu’en penses-tu et quels sont tes ordres ?
 >
 > Puissent le pouvoir et le bonheur t’accompagner !
 
@@ -137,7 +137,7 @@ Après l’avoir comblée de louanges, il continua :
 >
 > Tu sais que jamais une femme n’est insensible à l’amour qu’elle inspire ;
 >
-> Et quelle est la jeune femme qui reçoit froidement un jeune époux, surtout quand c’est un Keïanide?
+> Et quelle est la jeune femme qui reçoit froidement un jeune époux, surtout quand c’est un Keïanide ?
 >
 > Les hommes sont faits pour les femmes et c’est à eux de les demander en mariage.
 >
@@ -145,11 +145,11 @@ Après l’avoir comblée de louanges, il continua :
 >
 > Et les conseils, les avis et la volonté du roi te le feront agréer pour époux, ô lune.
 >
-> Qu’en dis-tu?
+> Qu’en dis-tu ?
 >
-> Consens-tu?
+> Consens-tu ?
 >
-> Feribourz te convient-il comme époux?
+> Feribourz te convient-il comme époux ?
 >
 > Tu ferais bien d’écouter mes paroles et de suivre mes avis et les ordres du roi.
 
@@ -169,7 +169,7 @@ Elle ne cessait de pousser des soupirs et elle demeura muette de pudeur devant s
 
 Le noble Siawusch que les meurtriers ont tué si cruellement dans le Touran !
 
-> Que dire, puisque c’est le fils de Zal qui me sollicite, qui veut que j’épouse Feribourz?
+> Que dire, puisque c’est le fils de Zal qui me sollicite, qui veut que j’épouse Feribourz ?
 >
 > Je n’ai pas le choix libre, car il semble que tes paroles, ô Pehlewan, m’ont lié la langue.
 >
