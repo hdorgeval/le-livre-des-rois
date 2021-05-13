@@ -7,7 +7,7 @@ export function applyRuleOnExclamationPoint(content: string): string {
         return word.replace('!', ' !');
       }
 
-      if (word && word.length > 1 && word.includes('!\n\n')) {
+      if (word && word.length > 1 && word.includes('!\n')) {
         return word.replace('!', ' !');
       }
 
