@@ -36,7 +36,7 @@ Il y avait un brave nommé Aschkebous qui poussait des cris semblables au bruit 
 
 Il vint provoquer les Iraniens, espérant jeter dans la poussière la tête de celui qui se mesurerait avec lui et il s’écria :
 
-> Ô héros illustres, qui d’entre vous viendra m’attaquer?
+> Ô héros illustres, qui d’entre vous viendra m’attaquer ?
 >
 > Qui d’entre vous me combattra pour que je fasse couler son sang à grands flots ?
 
@@ -66,9 +66,9 @@ Mais Tehemten accourut et lui dit :
 
 > La coupe est le véritable compagnon de Rehham et c’est dans le festin qu’il se vante et s’escrime devant les braves ;
 >
-> Mais où est-il allé maintenant, le visage rouge comme la sandaraque?
+> Mais où est-il allé maintenant, le visage rouge comme la sandaraque ?
 >
-> Est-il donc plus mauvais cavalier qu’Aschkebous?
+> Est-il donc plus mauvais cavalier qu’Aschkebous ?
 >
 > Reste, selon les lois de la guerre, au centre de l’armée et laisse-moi combattre à pied.
 
@@ -84,7 +84,7 @@ Il arrêta son cheval et s’adressa en riant à Rustem :
 
 Tehemten répondit :
 
-> Pourquoi me demandes-tu mon nom, puisque tu es perdu?
+> Pourquoi me demandes-tu mon nom, puisque tu es perdu ?
 >
 > Ma mère m’a donné pour nom ton trépas ;
 >
@@ -104,9 +104,9 @@ Aschkebous dit :
 
 Tehemten répondit :
 
-> Ô homme insensé et avide de combats, n’as-tu jamais vu un homme à pied combattre et jeter sous la pierre de la tombe une tête orgueilleuse?
+> Ô homme insensé et avide de combats, n’as-tu jamais vu un homme à pied combattre et jeter sous la pierre de la tombe une tête orgueilleuse ?
 >
-> Estce que dans ton pays les lions, les léopards et les crocodiles vont jamais à cheval au combat?
+> Estce que dans ton pays les lions, les léopards et les crocodiles vont jamais à cheval au combat ?
 >
 > Je vais, ô vaillant cavalier, tout démonté que je suis, t’enseigner la guerre.
 >
@@ -162,7 +162,7 @@ Lorsque le Khakan vit cette flèche avec ses plumes et sa lance, son jeune cœur
 
 Il dit à Piran :
 
-> Qui est cet homme et quel nom lui donnent les Iraniens?
+> Qui est cet homme et quel nom lui donnent les Iraniens ?
 >
 > Tu avais dit que ce n’était qu’une poignée d’hommes misérables, que c’étaient des guerriers de la plus vile espèce ;
 >
