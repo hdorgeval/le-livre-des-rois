@@ -33,7 +33,7 @@ Bijen regarda ce corps ’éléphant gisant par terre comme un cyprès élancé 
 >
 > J’ai tranché la tête à Ilouman pour venger le meurtre de Sianwusch et la mort de soixante et dix frères de mon père.
 >
-> Que son esprit soit l’esclave de mon esprit!
+> Que son esprit soit l’esclave de mon esprit !
 que son corps soit déchiré par les griffes des lions!»
 
 Il attacha la tête de Houman à la courroie de la selle de son cheval noir et abandonna le corps gisant dans la poussière, avec son armure défaite et sa ceinture déchirée ; le corps’était dans un endroit et la tête dans un autre.
