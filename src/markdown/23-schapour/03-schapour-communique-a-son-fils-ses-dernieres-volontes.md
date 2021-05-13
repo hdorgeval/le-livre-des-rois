@@ -3,7 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 315
-reign: 'Schapour'
+reign: "Schapour fils d'Ardeschir"
 tags: []
 order: '003'
 ---
