@@ -27,7 +27,7 @@ Quand Khosrou fut arrivé auprès des vaisseaux, il descendit sur la plage et in
 
 > Quiconque n’a pas vu Gangue ne doit par rien au monde se laisser empêcher d’y aller.»
 
-Ensuite il fit faire tous les préparatifs de départ et lorsque les barques furent mises à l’eau, il ordonna à tous ceux qui se connaissaient en navigation et qui
+Ensuite, il fit faire tous les préparatifs de départ et lorsque les barques furent mises à l’eau, il ordonna à tous ceux qui se connaissaient en navigation et qui
 
 6 montraient du courage sur la mer profonde, de dé»
 
@@ -39,7 +39,7 @@ Le roi fit débarquer l’armée et attacher les navires ; il regarda la plaine,
 
 Il distribua en abondance des vivres et des habits aux matelots et à ceux qui avaient été au gouvernail ; il fit tirer de son trésor de l’argent et des présents pour tous ceux qui avaient supporté des fatigues.
 
-Ensuite il quitta le bord de l’eau et s’avança dans le désert et les hommes le regardèrent avec admiration.
+Ensuite, il quitta le bord de l’eau et s’avança dans le désert et les hommes le regardèrent avec admiration.
 
 Aschkesch eut de ses nouvelles et s’avança avec une armée toute équipée à sa rencontre ; il descendit de cheval, baisa la terre et rendit hommage à Khosrou.
 
@@ -63,7 +63,7 @@ Tu n m’as laissé dans le monde comme un souvenir et je
 
 MS ne laisserai rien debout dans ma vengeance ; ma douleur durera tant que le monde existera ; j’ai détruit le trône d’Afrasiab et dorénavant je ne jouirai ni du repos ni du sommeil tant que j’aurai l’espoir de le saisir de ma main et de rendre le monde sombre et étroit devant lui.»
 
-Ensuite il se dirigea vers le trésor de son père, que sa mère lui avait indiqué ; il ouvrit la porte du trésor et distribua la solde à ses troupes.
+Ensuite, il se dirigea vers le trésor de son père, que sa mère lui avait indiqué ; il ouvrit la porte du trésor et distribua la solde à ses troupes.
 
 Il resta deux semaines dans cette ville, donna à Rustem deux cents tonnes d’or et fit à Guiv de grands présents.
 
