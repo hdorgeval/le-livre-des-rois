@@ -25,7 +25,7 @@ Sa taille de cyprès est courbée et la rose aux couleurs brillantes de son bonh
 
 Je ne sais quel mau-vais œil est tombé sur lui et pourquoi cette fleur fraiche s’est fanée.
 
-Estce que la fortune des Iraniens serait obscurcie, ou les astres voudraient-ils perdre le roi?»
+Est-ce que la fortune des Iraniens serait obscurcie, ou les astres voudraient-ils perdre le roi?»
 
 Le vaillant Zal leur répondit :
 
@@ -47,8 +47,7 @@ Zal lui adressa ses hommages à plusieurs reprises, disant :
 
 > Puissesotu vivre heureux aussi longtemps qu’il y aura des mois et des années !
 >
-> Depuis le temps de Minoutchehr jusqu’à Keïkobad, depuis ces
-. rois illustres dont nous nous souvenons, depuis Zew fils de Thamasp et Keï Kaous, depuis tous ces rois puissants dont les traces étaient fortunées, depuis Siawusch, qui était pour moi comme un fils, qui était un prince plein de majesté, de grandeur et de gloire, nous n’avons pas vu un roi aussi sage, aussi illustre, aussi favorisé par la grâce de Dieu que toi.
+> Depuis le temps de Minoutchehr jusqu’à Keïkobad, depuis ces rois illustres dont nous nous souvenons, depuis Zew fils de Thamasp et Keï Kaous, depuis tous ces rois puissants dont les traces étaient fortunées, depuis Siawusch, qui était pour moi comme un fils, qui était un prince plein de majesté, de grandeur et de gloire, nous n’avons pas vu un roi aussi sage, aussi illustre, aussi favorisé par la grâce de Dieu que toi.
 >
 > Puisse ta royauté durer éternellement par tes victoires, par ta bravoure, par ta bonté et ta sagesse !
 >
