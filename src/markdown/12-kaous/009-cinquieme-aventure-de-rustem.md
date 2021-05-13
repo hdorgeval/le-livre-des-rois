@@ -78,7 +78,7 @@ Rustem lui répondit :
 >
 > Si mon nom te parvient aux oreilles, il glacera le souille de ta vie et le sang de ton cœur.
 >
-> Estce que tu n’as pas entendu parler en toute assemblée du lacet et de l’arc du héros au corps d’éléphant ?
+> Est-ce que tu n’as pas entendu parler en toute assemblée du lacet et de l’arc du héros au corps d’éléphant ?
 >
 > Toute mère qui a mis au monde un fils comme toi, dis qu’elle coud un linceul et qu’elle pleure son fils.
 >
@@ -126,10 +126,7 @@ Aulad lui répondit :
 >
 > Puis tu arriveras à Buzgousch, habité par les Nermpaï et qui ressembleà un palais ayant cent farsangs d’étendue.
 >
-> Un chemin difficile et fort long conduit de là à la ville de Mazenderan : dans ce pays sont répartis des
->
-> 1
-cavaliers qui sont au nombre de mille fois mille ; etdans une si grande multitude pourvue d’armes et de richesses, tu ne trouveras pas un seul lâche ; tu verras dans la ville douze cents éléphants de guerre qui peuvent à peine y trouver place.
+> Un chemin difficile et fort long conduit de là à la ville de Mazenderan : dans ce pays sont répartis des cavaliers qui sont au nombre de mille fois mille ; et dans une si grande multitude pourvue d’armes et de richesses, tu ne trouveras pas un seul lâche ; tu verras dans la ville douze cents éléphants de guerre qui peuvent à peine y trouver place.
 >
 > Tu es seul et quand même tu serais de fer, oserais-tu te frotter à la lime de ces Ahrimans?»
 
