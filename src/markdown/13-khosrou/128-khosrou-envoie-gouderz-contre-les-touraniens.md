@@ -28,7 +28,7 @@ Le roi dit aux Pehlewans :
 
 > Les Turcs veulent s’emparer de ma couronne et de mon trône ; et puisque nos ennemis ont réuni une armée et aiguisé leurs griffes, il ne faut pas que nous perdions du temps à nous préparer à la lutte.»
 
-Il fit sonner des trompettes sous la porte de son palais et lier les timbales d’airain sur le dos des éléphants ; il se rendit du palais sur la place publique ; on placa son trône sur un éléphant ; le roi y monta et donna le signal du départ en jetant la boule dans la coupe : tu aurais dit qu’à l’instant le monde se couvrait d’une couche d’indigo;
+Il fit sonner des trompettes sous la porte de son palais et lier les timbales d’airain sur le dos des éléphants ; il se rendit du palais sur la place publique ; on placa son trône sur un éléphant ; le roi y monta et donna le signal du départ en jetant la boule dans la coupe : tu aurais dit qu’à l’instant le monde se couvrait d’une couche d’indigo ;
 
 H l’air devint noir ; la terre revêtit des couleurs de toute espèce ; les braves de l’armée parurent, semblables à des léopards, la massue en main, la tête remplie d’ardeur pour le combat ; et la terre ployait sous les pas des braves, comme la mer qui jette des vagues.
 
