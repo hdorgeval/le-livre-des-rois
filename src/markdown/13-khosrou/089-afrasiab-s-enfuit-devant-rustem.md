@@ -14,11 +14,11 @@ Piran dit à Afrasiab :
 
 > La surface du pays est comme une mer de sang.
 >
-> Ne t’ai-je pas dit que nous ne pouvions rester en sûreté dans ce pays en face de Rustem le maudit?
+> Ne t’ai-je pas dit que nous ne pouvions rester en sûreté dans ce pays en face de Rustem le maudit ?
 >
 > Tu as blessé nos cœurs comme avec le fer d’une flèche, en versant inexorablement le sang de Siawusch.
 >
-> Maintenant que deviendras-tu?
+> Maintenant que deviendras-tu ?
 >
 > Il ne reste plus personne auprès de toi ;
 >
@@ -70,7 +70,7 @@ Rustem dit :
 >
 > Dépouillez-vous tous de vos armures et mettez-vous à votre aise.
 >
-> Pourquoi attacher son cœur à cette demeure passagère dont les plus savants mêmes ne pénètrent pas les secrets?
+> Pourquoi attacher son cœur à cette demeure passagère dont les plus savants mêmes ne pénètrent pas les secrets ?
 >
 > Aujourd’hui le monde t’attaque comme un Ahriman, demain il se montre comme une fiancée parée et remplissant l’air de parfums.
 >
