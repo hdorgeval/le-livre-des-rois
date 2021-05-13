@@ -58,13 +58,13 @@ Le prince, en le voyant, dit à Tokhareh :
 
 Le prudent conseiller de Firoud lui répondit :
 
-> Il ne faut pas le rudoyer;
+> Il ne faut pas le rudoyer ;
 >
 > Je ne sais pas son nom et ne reconnais pas les marques qui le distinguent ; mais je crois que c’est un des fils de Gouderz.
 >
 > Lorsque Khosrou partit du Touran pour aller dans l’ Iran, il emporta un casque royal et je crois que la tête de ce cavalier en est couverte et que sa noble poitrine est revêtue du haubert qui appartient à ce casque.
 >
-> Il est sans doute de la famille de Gouderz;
+> Il est sans doute de la famille de Gouderz ;
 >
 > Puissent les traces de son pied porter bonheur à ce pays !
 
@@ -114,7 +114,7 @@ Firoud lui dit alors :
 
 Bahram répondit :
 
-> Ô homme au cœur de lion!
+> Ô homme au cœur de lion !
 >
 > Qui t’a parlé si honorablement de Bahram?
 >
@@ -130,7 +130,7 @@ Bahram dit :
 
 > Ô toi que la fortune favorise !
 
-Tu es donc un fruit de cet arbre royal, tu es Firoud!
+Tu es donc un fruit de cet arbre royal, tu es Firoud !
 >
 > Ô jeune roi, puisses-tu vivre heureux à jamais !
 
@@ -154,7 +154,7 @@ Si je voyais de mes yeux mon père vivant, je n’en serais pas plus heureux que
 >
 > Je suis venu sur la crête de cette montagne pour adresser à Tokhareh des questions touchant les grands de l’armée de l’Iran et pour apprendre qui est leur chef, qui est le glorieux héros qui les conduit à la bataille.
 >
-> Je vais apprêter une fête aussi belle que je pourrai ; je contemplerai avec transport le visage du Pehlewan ; je distribuerai des chevaux sans nombre et des épées, des massues, des ceintures et tout ce que j’ai;
+> Je vais apprêter une fête aussi belle que je pourrai ; je contemplerai avec transport le visage du Pehlewan ; je distribuerai des chevaux sans nombre et des épées, des massues, des ceintures et tout ce que j’ai ;
 >
 > Ensuite je partirai fièrement à la tête de l’armée pour le Touran, car mon cœur blessé a soif de vengeance ; et je suis digne de la chercher, car dans la bataille et assis sur mon cheval, je suis une flamme dévorante.
 >
@@ -178,7 +178,7 @@ Je répéterai à Thous tes paroles, je baiserai sa main pour obtenir ce que tu 
 >
 > Thous m’avait dit : Va voir qui est sur cette montagne et quand tu l’auras atteint, ne lui demande pas pourquoi il est là, ne lui parle qu’avec la massue et le poignard ; comment laisserions-nous quelqu’un se placer aujourd’hui sur cette hauteur?
 >
-> Si donc Thous s’adoucit, je reviendrai avec cette bonne nouvelle et te conduirai avec joie à notre camp;
+> Si donc Thous s’adoucit, je reviendrai avec cette bonne nouvelle et te conduirai avec joie à notre camp ;
 >
 > Mais si c’est un autre que tu vois venir, ne te fie pas beaucoup à lui.
 >
