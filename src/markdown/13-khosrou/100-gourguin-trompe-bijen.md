@@ -46,7 +46,7 @@ Ensuite Gourguin dit :
 >
 > Que de fois avons-nous montré notre bravoure sur cette large plaine et que de temps s’est-il passé depuis !
 >
-> Quelle gloire et que d’honneur n’y avons-nous pas recueillis aux yeux de Khosrou  !
+> Quelle gloire et que d’honneur n’y avons-nous pas recueillis aux yeux de Khosrou !
 >
 > Il se trouve près d’ici un lieu destiné aux fêtes, sur la frontière du Touran, dont nous ne sommes éloignés que de deux journées.
 >
