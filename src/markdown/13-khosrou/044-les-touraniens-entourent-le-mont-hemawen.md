@@ -83,7 +83,7 @@ Les cavaliers de l’armée, jeunes et vieux, répondirent d’une voix au Pehle
 >
 > Ce n’est pas le moment d’avoir peur et de craindre nos adversaires, il faut suivre leurs traces ;
 >
-> Leur terreur doit-elle nous confondre et nous arrêter?
+> Leur terreur doit-elle nous confondre et nous arrêter ?
 >
 > Pour échapper au vent, ils se sont jetés dans l’eau et ils ne se presseront pas de sortir de l’inaction.
 
@@ -109,7 +109,7 @@ Mais Houman lui répondit :
 >
 > Sache qu’ils sont partis par nécessité, qu’ils nous ont montré le dos sans retour.
 >
-> Attendrions-nous donc qu’ils fussent arrivés auprès de Khosrou, qu’ils eussent reformé leurs troupes à sa cour?
+> Attendrions-nous donc qu’ils fussent arrivés auprès de Khosrou, qu’ils eussent reformé leurs troupes à sa cour ?
 >
 > Rustem accourrait alors du Zaboulistan pour nous combattre et il viendrait un temps où nous déplorerions ce délai.
 >
@@ -173,13 +173,13 @@ Quand il aperçut au-devant de l’armée le drapeau de Kaweh, il s’adressa à
 
 > Vous êtes partis de l’Iran avec des éléphants et des timbales, vous avez envahi le Touran, vous avez lancé votre armée sur ce pays.
 >
-> Pourquoi donc vous êtes-vous établis dans une montagne comme des bêtes fauves?
+> Pourquoi donc vous êtes-vous établis dans une montagne comme des bêtes fauves ?
 >
-> Avez-vous peur des braves du Touran?
+> Avez-vous peur des braves du Touran ?
 >
-> N’en êtes-vous pas honteux, n’en rougissez-vous pas?
+> N’en êtes-vous pas honteux, n’en rougissez-vous pas ?
 >
-> Trouvez-vous sur ces rochers et sur ces pierres de la nourriture, du sommeil et du repos?
+> Trouvez-vous sur ces rochers et sur ces pierres de la nourriture, du sommeil et du repos ?
 >
 > Demain quand le soleil se lèvera au-dessus de ces hauteurs, je ferai de tes retranchements une mer de sang, je t’emmènerai de cette haute montagne les mains liées avec la courroie d’un lacet, je t’enverrai auprès d’Afrasiab privé de nourriture, de repos et de sommeil.
 >
