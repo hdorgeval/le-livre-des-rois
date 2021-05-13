@@ -30,7 +30,7 @@ Le trésorier du roi ouvrit les caisses et empila l’or et les pierreries dans 
 
 Tehemten vint et en choisit et prit tout ce qu’il fallait pour son entreprise ; il chargea d’or dix chameaux et cent chameaux d’étoiles et d’argent.
 
-Ensuite il donna ses ordres au grand maître du palais, disant :
+Ensuite, il donna ses ordres au grand maître du palais, disant :
 
 > Choisis mille hommes parmi les braves de l’armée ; de plus, il faut que quelques héros illustres, portant haut la tête, prennent les armes : sont Gourguin et Zengueh fils de Schaweran, ensuite Gustehem le roi des braves, Gouzareh qui sait commander une armée et est la sauvegarde des héros, du trône et de la couronne, Rehham et Ferhad les vaillants guerriers et Aschkesch qui ressemble à un lion.
 >
