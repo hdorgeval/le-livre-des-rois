@@ -55,3 +55,5 @@
 {"rule":"ADRESSER_UN_PROBLEME","sentence":"^\\Qj'ai eu à supporter bien du mal dans cette ambassade et personne ne m'a adressé des questions comme tu fais ; mais puisque le roi m'a reçu si courtoisement, il ne serait pas juste que je me permisse de le tromper.\\E$"}
 {"rule":"PREP_V","sentence":"^\\QC'est ainsi que Bahram remit le monde à son fils Bahram, qui lui donna pour demeure un tombeau.-Sache que ce n'est pas une injustice du ciel qui tourne, car ce qui passe comme un souffle n'est que du vent.\\E$"}
 {"rule":"PREP_V","sentence":"^\\QC'est ainsi que Bahram remit le monde à son fils Bahram, qui lui donna pour demeure un tombeau.\\E$"}
+{"rule":"VOIE_VOIX","sentence":"^\\QCelui-là est vraiment le sage, qui ne foule pas aux pieds un ennemi terrassé et qui marche dans le monde dans la voie de la sagesse, en se tournant toujours vers elle.\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qô héros !\\E$"}
