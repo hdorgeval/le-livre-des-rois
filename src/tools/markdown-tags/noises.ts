@@ -611,6 +611,7 @@ export const noises = [
   'Vil',
   'Vingt-cinq',
   'Vis',
+  'Vivifie',
   'Voici',
   'Voilà',
   'Voilà',
