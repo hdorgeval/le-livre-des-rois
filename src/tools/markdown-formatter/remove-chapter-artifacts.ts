@@ -377,6 +377,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/152 LE LIVRE\./g, ''),
     (content: string) => content.replace(/Illl BABEKAN\./g, ''),
     (content: string) => content.replace(/NSCHAPOUB\./g, ''),
+    (content: string) => content.replace(/BAHRAM\./g, ''),
     (content: string) => content.replace(/ BAHRAM GOUB\./g, ''),
     (content: string) => content.replace(/’BAHRAM GOUB\./g, ''),
     (content: string) => content.replace(/BAHRAM GOUll\./g, ''),
