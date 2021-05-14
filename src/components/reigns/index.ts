@@ -2,6 +2,7 @@ export * from './all-reigns-cards';
 export * from './ardeschir-babekan-card';
 export * from './aschkanides-card';
 export * from './bahman-card';
+export * from './bahram-son-of-ormuzd-card';
 export * from './dara-card';
 export * from './darab-card';
 export * from './djemschid-card';
