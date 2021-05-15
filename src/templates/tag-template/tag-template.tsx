@@ -40,7 +40,7 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
 };
 
 export const query = graphql`
-  query($tag: String) {
+  query ($tag: String) {
     allMarkdownRemark(
       limit: 1000
       sort: { fields: fileAbsolutePath, order: ASC }

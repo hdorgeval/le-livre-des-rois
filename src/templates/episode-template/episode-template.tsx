@@ -82,7 +82,7 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
 };
 
 export const query = graphql`
-  query($slug: String!, $image: String!) {
+  query ($slug: String!, $image: String!) {
     markdownRemark(fields: { slug: { eq: $slug } }) {
       html
       frontmatter {
