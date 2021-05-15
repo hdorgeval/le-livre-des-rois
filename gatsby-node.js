@@ -2,6 +2,7 @@
 const { createFilePath } = require('gatsby-source-filesystem');
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const path = require('path');
+const debug = false;
 
 async function createSlugFieldNodeOnMarkdownRemarkNode({ node, getNode, actions }) {
   if (node.internal.type !== 'MarkdownRemark') {
@@ -14,8 +15,10 @@ async function createSlugFieldNodeOnMarkdownRemarkNode({ node, getNode, actions 
     getNode,
     basePath: 'markdown',
   });
-  // eslint-disable-next-line no-console
-  console.log(`onCreateNode > slug = '${slug}'`);
+  if (debug) {
+    // eslint-disable-next-line no-console
+    console.log(`onCreateNode > slug = '${slug}'`);
+  }
   await createNodeField({
     node,
     name: 'slug',
@@ -32,8 +35,10 @@ async function createSvgContentFieldOnFileNode({ node, actions, loadNodeContent 
     return;
   }
 
-  // eslint-disable-next-line no-console
-  console.log(`onCreateNode > ${node.internal.mediaType}`);
+  if (debug) {
+    // eslint-disable-next-line no-console
+    console.log(`onCreateNode > ${node.internal.mediaType}`);
+  }
 
   const { createNodeField } = actions;
   const content = `${await loadNodeContent(node)}`
@@ -48,8 +53,10 @@ async function createSvgContentFieldOnFileNode({ node, actions, loadNodeContent 
 }
 
 exports.onCreateNode = async ({ node, getNode, actions, loadNodeContent }) => {
-  // eslint-disable-next-line no-console
-  console.log(`onCreateNode > ${node.internal.type}`);
+  if (debug) {
+    // eslint-disable-next-line no-console
+    console.log(`onCreateNode > ${node.internal.type}`);
+  }
   await createSlugFieldNodeOnMarkdownRemarkNode({
     node,
     getNode,
@@ -99,11 +106,13 @@ async function createAllEpisodePages(graphql, actions) {
     return node;
   });
   markdowns.forEach((markdown) => {
-    // eslint-disable-next-line no-console
-    console.log(`Creating episode page for markdown ${markdown.fields.slug}`);
     const image = markdown?.frontmatter?.image || 'default-for-episode.jpeg';
-    // eslint-disable-next-line no-console
-    console.log(`image: '${image}'`);
+    if (debug) {
+      // eslint-disable-next-line no-console
+      console.log(`Creating episode page for markdown ${markdown.fields.slug}`);
+      // eslint-disable-next-line no-console
+      console.log(`image: '${image}'`);
+    }
     createPage({
       path: markdown.fields.slug,
       component: path.resolve(tagTemplate),
@@ -135,8 +144,10 @@ async function createAllTagPages(graphql, actions) {
 
   tags.forEach((tag) => {
     const path = `tag/${tag.fieldValue}`;
-    // eslint-disable-next-line no-console
-    console.log(`Creating page for tag ${tag.fieldValue}`);
+    if (debug) {
+      // eslint-disable-next-line no-console
+      console.log(`Creating page for tag ${tag.fieldValue}`);
+    }
     createPage({
       path: path,
       component: tagTemplate,
@@ -153,6 +164,8 @@ exports.createPages = async ({ graphql, actions }) => {
 };
 
 exports.onPostBootstrap = () => {
-  // eslint-disable-next-line no-console
-  console.log('onPostBootstrap');
+  if (debug) {
+    // eslint-disable-next-line no-console
+    console.log('onPostBootstrap');
+  }
 };
