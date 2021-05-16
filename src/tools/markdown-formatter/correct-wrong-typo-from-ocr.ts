@@ -51,6 +51,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ l n /g, '! » '),
     (content: string) => content.replace(/ l’eutendit /g, ' l’entendit '),
     (content: string) => content.replace(/ l’lnde /g, ' l’Inde '),
+    (content: string) => content.replace(/ l»/g, ' !»'),
     (content: string) => content.replace(/ la i /g, ' la '),
     (content: string) => content.replace(/ la pour /g, ' la peur '),
     (content: string) => content.replace(/ lablier /g, ' tablier '),
