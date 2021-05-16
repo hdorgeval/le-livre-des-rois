@@ -1,0 +1,75 @@
+---
+date: ''
+thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
+image: 'EFm7JpD9jy8.jpeg'
+source: tome VI - livre des rois - P. 468
+reign: 'Hormuzd'
+tags: []
+order: '009'
+---
+
+# Hormuzd nomme Bahram Djoubineh Pehlewan de l'armée
+
+Le roi de l’lran était heureux, il se sentait déli-
+vré du souci que lui causait l’armée de Saweh. Il
+donna à Bahram le commandement de ses troupes et éleva jusqu’aux nues sa vaillante tête, et tous les
+héros qui cherchaient du renom saluèrent Bahram comme leur chef. Le Sipehbed se présenta devant le roi dans son armure de combat et lui dit: a Le roi «me permet-il que je passe une revue pour con-
+« naître le nombre de: hommes et pour voir qui, parmi
+«eux, est propre à la guerre ou qui se fera attendre «au moment ou il s’agira d’acquérir de la gloire?»
+Le roi lui dit: «Tu es le chef de l’armée, c’est. de
+«toi que dépend notre fortune, bonne ou mauvaise. a
+Le Sipehbed partit pour le lieu des revues et fil
+passer devant lui les troupes. Il choisit une armée
+parmi les Iraniens, pour laquelle il prit tous les meilleurs cavaliers, et l’on écrivit les noms de douze
+mille cavaliers armésde cottes de mailles et montés sur des chevaux caparaçonnés; mais on ne comprit
+nounou). - 669 dans les rôles que des hommes de quarante ans et
+l’on refusa ceux qui étaient plus âgés ou plus jeunes.
+Bahram fils de Bahram était commandant en chef et homme célèbre par sa bravoure. Il mit à la tête des guerriers illustres, pour marcher au jour de la bataille devant le front de l’armée, un homme
+du nom de Yelan Sineh , dont la poitrine était pleine ’ d’ardeur pour le combat; il devait faire voltiger son cheval, rappeler aux braves leur naissance et réveiller dans leur cœurl’envie de se batlre. Ensuite il chargea lzed Guschasp, qui, dans son élan, ne détournait pas son cheval d’un feu brûlant devant lui, de pro- téger les bagages et de tenir les deux ailes de l’armée
+sur la même ligne. Enfin, derrière l’armée devait
+se placer Nerda Guschasp, homme qui du haut de
+son cheval saisissait les lions par la queue. En- suite le Peblewan dit à l’armée: «0 hommes illus-
+«tres, à l’esprit clairvoyant! si vous voulez que Dieu «vienne à votre aide et qu’il dissipe les ténèbres de
+tr votre position , n’opprimez personne, ne causez pas
+« de dommage, ne vous servez jamais de vos armes «pour faire du mal. Lorsque le bruit des trompettes «résonne dans la nuit sombre, levez-vous à l’instant
+v «et dirigez vos destriers de manière à remplir de «terreur les ténèbres. Dès qu’il s’agit de combattre,
+r: il faut que ni les chevaux ni les hommes ne pen- «sent à l’étendue de leurs forces ni au besoin de
+« repos. a
+
+A70 LE LIVRE DES ROIS.
+Lorsque le roi apprit comment Bahram préparait
+tout avec intelligence , il fut heureux de ses discours et de ses actes; il ouvrit son trésor et paya la solde;
+il remit de même à Bahram ses magasins d’agmes et
+en ouvrit les portes; il fit venir en ville quelques troupeaux de chevaux de guerre qu’il avait sur les pâturages, et ordonna au Pehlewan de lui deman- der tout ce qu’il fallait. Il ajouta : «Tu as vu des «combats de toute espèce, et tu as entendu parler
+«de la quantité d’armes et d’hommes que l’illustre
+«Saweh possède; tu me qu’au jour du combat les «Turcs feront trembler le sol du champ de bataille, n et pourtant tu n’as choisi dans mon armée que douze
+« mille cavaliers couverts de cottes de mailles et. mon- « tés sur des chevaux caparaçonnés. Je ne comprends
+«pas comment tu pourras agir avec si peu de monde «au jour de la bataille, d’autant plus qu’au lieu
+« d’hommes jeunes, prêts à frapper de l’épée, tu n’as
+«choisi que des hommes de quarante anse Le Sipehbed répondit : «O roi à l’étoile fortunée,
+«aux paroles doucesl tu connais les histoires des «grands qui ont été jadis rois du monde. Si le roi «mon maître veut les écouter, je prouverai par elles «que, quand on est soutenu par la fortune victo- «torieuse, le petit nombre des troupes importe peu. «On avait enchaîné dans le Hamavaran Keï Kaous,
+ce et une armée innombrable le gardait. Rustem choi- «sit douze mille cavaliers parmi les meilleurs et les
+
+HUHMUZI). fi7l «plus braves, et délivra de ses fers Kaous, sans que
+«ces illustres guerriers eussent subi un désastre. De «même Gouderz, fils de Keschwad, chef des grands «et des hommes libres, emmena douze mille cava- «liers sur des chevaux caparaçonnés pour venger «Siawusch. Une autre fois le noble Isfendiar con- «duisit de même douze mille braves contre Ardjasp. «et trouva moyen de faire ce qu’il a fait, et de dé- «truire la forteresse et l’armée des Turcs. Si une ar-
+«mée est plus nombreuse, elle perd de sa bravoure «et de son intelligence, et le chef qui mène au com- «bat des troupes innombrables en est embarrassé «dans la bataille.
+«Ensuite tu dis que des hommes de quarante ans «ne se battront pas mieux que des jeunes gens. Mais «un homme de quarante ans a de l’expérience. il a «plus de courage que tout autre; il se souvient avec «attendrissement du pain et du sel qu’il te doit; il a «vu bien des vicissitudes du sort, il craint les dis- «cours des malveillants et la honte, et ne recule pas « devant les combats; enfin l’âme d’un homme qui a
+«servi ne se laisse pas décourager, car il pense à sa «femme, à ses enfants et à ses parents. Un jeune «homme voit un appât et tombe dans une embûche;
+«il n’a pas de patience au moment où il faudrait «tarder; il n’a ni femme, ni enfants, ni champs en- «semencés; il ne distingue pas ce qui a de la valeur
+«de ce qui n’en a pas; et comme on ne peut pas
+
+A72 LE LIVRE DES ROIS. «acquérir de l’intelligence sans expérience, il ne
+«comprend pas ce qui est important dans une affaire. «S’il est victorieux dans le combat, il est heureux,
+«se réjouit et s’arrête, et s’il est vaincu, il s’enfuit
+«et son ennemi ne voit de lui quevle des.» A ces pa- roles, le visage du roi devint frais comme une rose de printemps: il lui dit : «Va, revêts ta cuirasse de «combat et sors du palais pour aller au Meîdan.»
+Le Sipehbed quitta le roi, demanda une ceinture, une cette de mailles ’et un casque roumi, jeta un caparaçon sur son destrier isabelle et attacha au cro- chet de la selle un lacet roulé. Le roi du monde se rendit au Meîdan avec son vizir, armé de raquettes.
+de balles et de flèches, et le Sipehbed arriva au Meî-
+dan du roi avec une cuirasse, une massue et un casque roumi. Le roi en le voyant le bénit, et le Sipehbed baisa la terre devant lui. Le roi fit apporter un dra- peau impérial à figure de dragon violet, le même qu’on avait porté devant Rustem dans les batailles.
+Le roi de l’Iran le saisit rapidement, le caressa de la main en souriant et le remit à Bahram avec maintes bénédictions, ajoutant: «Celui dont tu tiens le dra-
+«peau est l’homme que les rois, mes ancêtres, appe- «laient le chef du peuple, et dont le nom était Rus-
+«tem le Pehlewan , le conquérant du monde, le «victorieux, le clairvoyant. Puisses-tu être heureux «et dévoué au roi! Je crois que tu es un autre Rus-
+rr lem en bravoure, en vaillance et en dévouementn
+
+HOBMUZD. [:73 Le Pehlewau le bénit, disant: «Puisses-tu être
+«victorieux et serein d’esprit!» Le Sipehbed rentra
+du Meîdan chez lui, le drapeau de Bustem en main; les héros du roi se dispersèrent et le Pehlewan de l’armée se sentit heureux.
