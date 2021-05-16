@@ -8,7 +8,7 @@ tags: []
 order: '027'
 ---
 
-# Bahram a une vision de la fortune qui l'attend
+# Bahram Djoubineh prend des allures de roi
 
 Le lendemain, lorsque la crête de la montagne devint couleur d’argent et que la brillante lampe jaune parut, Bahram fit étendre un tapis de brocart
 chinois tel qu’on aurait ditque la terre était devenue un ciel; il fit placer des siégea d’or dans tout son palais et les couvrit de coussins de tissu d’or. On
