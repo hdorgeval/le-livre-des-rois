@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 329
 reign: 'Bahram fils de Bahram'
-tags: []
+tags: ['âme', 'Bahram', 'Créateur', 'Dieu', 'Iran', 'Keïanides', 'Mobed', 'Mobeds', 'Saturne']
 order: '001'
 ---
 
@@ -20,7 +20,7 @@ Le roi s’assit sur le trône et s’en réjouit ; il plaça sur sa tête la co
 
 Ensuite, il dit :
 
-> Ô sages, ô-Mobeds, qui connaissez le monde et dont le cœur est pur !
+> Ô sages, ô Mobeds, qui connaissez le monde et dont le cœur est pur !
 >
 > Honorez le savoir, ne vous tenez pas à l’écart des rois ; luttez pour amener le bien, prenez part à toutes les joies du roi de l’Iran.
 >
