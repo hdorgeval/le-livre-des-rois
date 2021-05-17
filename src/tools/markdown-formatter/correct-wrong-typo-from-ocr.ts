@@ -27,6 +27,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ cr /g, ''),
     (content: string) => content.replace(/ d’lredj /g, ' d’Iredj '),
     (content: string) => content.replace(/ de\. /g, ' de '),
+    (content: string) => content.replace(/ dispositien /g, ' disposition '),
     (content: string) => content.replace(/ ditesvous /g, ' dites-vous '),
     (content: string) => content.replace(/ élaient /g, ' étaient '),
     (content: string) => content.replace(/ en\. /g, ' en '),
@@ -54,6 +55,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ l»/g, ' !»'),
     (content: string) => content.replace(/ la i /g, ' la '),
     (content: string) => content.replace(/ la pour /g, ' la peur '),
+    (content: string) => content.replace(/ la se /g, ' la '),
     (content: string) => content.replace(/ lablier /g, ' tablier '),
     (content: string) => content.replace(/ laissez persanne /g, ' laissez personne '),
     (content: string) => content.replace(/ le des /g, ' le dos '),
@@ -73,6 +75,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ rmaître /g, ' maître '),
     (content: string) => content.replace(/ s’élauçait /g, ' s’élançait '),
     (content: string) => content.replace(/ secourablel /g, ' secourable ! '),
+    (content: string) => content.replace(/ sens’dans /g, ' sens dans '),
     (content: string) => content.replace(/ serpeut /g, ' serpent '),
     (content: string) => content.replace(/ seucisl /g, ' soucis ! '),
     (content: string) => content.replace(/ snr /g, ' sur '),
@@ -102,6 +105,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/«/g, ''),
     (content: string) => content.replace(/\. a /g, '.» '),
     (content: string) => content.replace(/\. avec /g, ' avec '),
+    (content: string) => content.replace(/\. et /g, ' et '),
     (content: string) => content.replace(/\. ll /g, '. Il '),
     (content: string) => content.replace(/\. lls /g, '. Ils '),
     (content: string) => content.replace(/\. n /g, '.» '),
@@ -111,6 +115,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/A ces /g, 'À ces '),
     (content: string) => content.replace(/A ces paroles/g, 'À ces paroles'),
     (content: string) => content.replace(/A chaque/g, 'À chaque'),
+    (content: string) => content.replace(/A Dieu ne plaise/g, 'À Dieu ne plaise'),
     (content: string) => content.replace(/A l’aube /g, 'À l’aube '),
     (content: string) => content.replace(/A la fin/g, 'À la fin'),
     (content: string) => content.replace(/A la vue/g, 'À la vue'),
@@ -180,6 +185,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/tonjours/g, 'toujours'),
     (content: string) => content.replace(/Zabonlistan/g, 'Zaboulistan'),
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
+    (content: string) => content.replace(/ intelligenee /g, ' intelligence '),
   ].forEach((format) => {
     result = format(result);
   });
