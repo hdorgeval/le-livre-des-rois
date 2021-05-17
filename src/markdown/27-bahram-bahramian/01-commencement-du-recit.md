@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 332
 reign: 'Bahram Bahramian'
-tags: []
+tags: ['Bahram', 'chrysoprases', 'Créateur', 'Dieu', 'Kirmanschah', 'Nersi']
 order: '001'
 ---
 
