@@ -24,7 +24,7 @@ Ensuite, il dit :
 >
 > Honorez le savoir, ne vous tenez pas à l’écart des rois ; luttez pour amener le bien, prenez part à toutes les joies du roi de l’Iran.
 >
-> Que tous ceux à qui Dieu a donné des richesses, de l’éloquence et du pouvoir, cherchent en toute chose hêtre généreux et justes et que le monde entier soit prospère par la justice.
+> Que tous ceux à qui Dieu a donné des richesses, de l’éloquence et du pouvoir, cherchent en toute chose être généreux et justes et que le monde entier soit prospère par la justice.
 >
 > À Dieu ne plaise que nous vivions dans l’injustice, ou que nous amassions des trésors par avidité ; je n’aurai des trésors que pour les donner, car la bannière du roi doit être le bien.
 >
