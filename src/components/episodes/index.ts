@@ -20,6 +20,7 @@ export * from './khosrou-episodes';
 export * from './kobad-episodes';
 export * from './lohrasp-episodes';
 export * from './minoutchehr-episodes';
+export * from './nersi-episodes';
 export * from './newder-episodes';
 export * from './ormuzd-episodes';
 export * from './schapour-episodes';
