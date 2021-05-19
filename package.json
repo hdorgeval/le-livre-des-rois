@@ -23,6 +23,7 @@
     "type-check": "tsc",
     "update-tags": "ts-node src/tools/markdown-tags/set-tags-in-website-markdowns.ts",
     "auto-commit-formatted-episodes": "ts-node src/tools/git/auto-commit-formatted-episodes.ts",
+    "auto-commit-episodes-with-updated-tags": "ts-node src/tools/git/auto-commit-episodes-with-updated-tags",
     "auto-commit": "ts-node src/tools/git/auto-commit.ts"
   },
   "dependencies": {
