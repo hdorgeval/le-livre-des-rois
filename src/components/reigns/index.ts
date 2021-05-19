@@ -23,6 +23,7 @@ export * from './minoutchehr-card';
 export * from './nersi-card';
 export * from './newder-card';
 export * from './ormuzd-card';
+export * from './ormuzd-son-of-nersi-card';
 export * from './schapour-card';
 export * from './thahmouras-card';
 export * from './zew-card';
