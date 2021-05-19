@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 337
 reign: 'Ormuzd fils de Nersi'
-tags: []
+tags: ["Ahriman", "âme", "Créateur", "Garde-toi", "Mars", "Ormuzd", "Puissant", "Saturne"]
 order: '001'
 ---
 
