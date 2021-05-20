@@ -57,3 +57,4 @@
 {"rule":"PREP_V","sentence":"^\\QC'est ainsi que Bahram remit le monde à son fils Bahram, qui lui donna pour demeure un tombeau.\\E$"}
 {"rule":"VOIE_VOIX","sentence":"^\\QCelui-là est vraiment le sage, qui ne foule pas aux pieds un ennemi terrassé et qui marche dans le monde dans la voie de la sagesse, en se tournant toujours vers elle.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qô héros !\\E$"}
+{"rule":"AN_ANNEE","sentence":"^\\QIl gouverna le monde avec justice et prudence et fut le guide du peuple vers tout ce qui est bien ; il augmenta le trésor et l'armée du roi, il para son palais et son trône et cinq années se passèrent ainsi, pendant lesquelles l'enfant acquit de la dignité et des forces.\\E$"}
