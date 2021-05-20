@@ -25,6 +25,7 @@ export * from './newder-card';
 export * from './ormuzd-card';
 export * from './ormuzd-son-of-nersi-card';
 export * from './schapour-card';
+export * from './schapour-dhoul-aktaf-card';
 export * from './thahmouras-card';
 export * from './zew-card';
 export * from './zohak-card';
