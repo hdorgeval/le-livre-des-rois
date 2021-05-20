@@ -73,7 +73,7 @@ function takeLastTenWordsOf(content: string) {
 }
 
 const startOfQuotationRegex =
-  /fit dire|en répétant|écrié|en disant|crier|criant|criait|Le prince dit|, dit|en criant|s’écrièrent|leur disant|leur parla|en lui disant|disait|, disant|en ces mots|se disant|et disant|un dit|et ajouta|Il adressa ainsi la parole|se dit|dit en se|dit devant|il demanda à|demanda aux|lui demanda|lui demanderai|Il dit|ils dirent|Puis, il dit|et lui dit|Ensuite il dit|Ensuite, il dit|et il dit|a dit|et dit|Puis il dit|il se dit|il dit à|dit aux|dit en lui-même|Le roi dit à|il dit aux|dit à|lui dit|lui dirent|lui diras|leur dit|dis-lui|répondit|ils s’écrièrent|en s’écriant|s’écria|ajouta en s’adressant|discours|la réponse|parla ainsi|envoya son salut|reprend|répliqua|apparut en|ces paroles|réponse/i;
+  /fit dire|en répétant|écrié|en disant|crier|criant|criait|Le prince dit|, dit|en criant|s’écrièrent|leur disant|leur parla|en lui disant|disait|, disant|en ces mots|se disant|et disant|un dit|et ajouta|Il adressa ainsi la parole|se dit|dit au|dit en se|dit devant|il demanda à|demanda aux|lui demanda|lui demanderai|Il dit|ils dirent|Puis, il dit|et lui dit|Ensuite il dit|Ensuite, il dit|et il dit|a dit|et dit|Puis il dit|il se dit|il dit à|dit aux|dit en lui-même|Le roi dit à|il dit aux|dit à|lui dit|lui dirent|lui diras|leur dit|dis-lui|répondit|ils s’écrièrent|en s’écriant|s’écria|ajouta en s’adressant|discours|la réponse|parla ainsi|envoya son salut|reprend|répliqua|apparut en|ces paroles|réponse/i;
 
 function isHintForStartOfQuotation(content: string): boolean {
   if (!content) {
