@@ -4,7 +4,22 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 340
 reign: "Schapour Dhou'l Aktaf"
-tags: []
+tags:
+  [
+    'Arwend',
+    'Bahram',
+    'Dihkan',
+    'Djileh',
+    'Isthakhr',
+    'Kaboul',
+    'Mahrouï',
+    'Meïdan',
+    'Mobed',
+    'Mobeds',
+    'Péri',
+    'Schapour',
+    'Thisifoun',
+  ]
 order: '001'
 ---
 
