@@ -322,6 +322,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/ARDESCHIR BABEKAN\./g, ''),
     (content: string) => content.replace(/ARDESCHIB BABEKAN\./g, ''),
     (content: string) => content.replace(/ARDESCHlR BABEKAN\./g, ''),
+    (content: string) => content.replace(/ARDESCHIB LE BON\./g, ''),
     (content: string) => content.replace(/ARDESGHIR BABEKAN\./g, ''),
     (content: string) => content.replace(/ABDESCHIR BABEKAN\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES ROIS\./g, ''),

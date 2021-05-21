@@ -185,6 +185,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/tonjours/g, 'toujours'),
     (content: string) => content.replace(/Zabonlistan/g, 'Zaboulistan'),
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
+    (content: string) => content.replace(/ tonte /g, ' toute '),
     (content: string) => content.replace(/ intelligenee /g, ' intelligence '),
   ].forEach((format) => {
     result = format(result);
