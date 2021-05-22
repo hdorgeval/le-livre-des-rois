@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-04-25'
 thumbnail: 'https://source.unsplash.com/ctWw2S9VqOI'
 image: '-8JIKbCNy0g.jpeg'
 source: tome IV - livre des rois - P. 472
