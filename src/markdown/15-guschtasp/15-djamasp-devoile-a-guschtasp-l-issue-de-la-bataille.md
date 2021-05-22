@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-04-25'
 thumbnail: 'https://source.unsplash.com//ArYJaD_K9dk'
 image: 'eYJ5yxMJuB4.jpeg'
 source: tome IV - livre des rois - P. 309
