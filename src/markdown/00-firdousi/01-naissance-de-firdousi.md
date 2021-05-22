@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2020-03-22'
 thumbnail: 'https://source.unsplash.com/xE5vmelyM6k/'
 image: 'XXNfSFZWiII.jpeg'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
