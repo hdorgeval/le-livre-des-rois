@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/oe8sIOWI9xY'
 image: 'uSQKwRQTjPQ.jpeg'
 source: tome II - livre des rois - P. 527
