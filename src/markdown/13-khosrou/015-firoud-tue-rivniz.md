@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/UpR6FBeVvto'
 image: 'UpR6FBeVvto.jpeg'
 source: tome II - livre des rois - P. 491
