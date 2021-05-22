@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-04-25'
 thumbnail: 'https://source.unsplash.com/spCdtO1r6Rw'
 image: 'spCdtO1r6Rw.jpeg'
 source: tome IV - livre des rois - P. 576
