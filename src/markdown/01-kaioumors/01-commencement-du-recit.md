@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-04-28'
 thumbnail: 'EFm7JpD9jy8.jpeg'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 019
