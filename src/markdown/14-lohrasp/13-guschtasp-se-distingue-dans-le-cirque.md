@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/ec6E029hwMo'
 image: 'ec6E029hwMo.jpeg'
 source: tome IV - livre des rois - P. 265
