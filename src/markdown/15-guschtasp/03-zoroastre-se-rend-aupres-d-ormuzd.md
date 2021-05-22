@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-04-25'
 thumbnail: 'https://source.unsplash.com/XHl1gkHd6iM'
 image: 'USBmmRQNutE.jpeg'
 source: tome II - Vie de Zoroastre - P. 19 (P.159) - Zend-Avesta - Anquetil du Perron
