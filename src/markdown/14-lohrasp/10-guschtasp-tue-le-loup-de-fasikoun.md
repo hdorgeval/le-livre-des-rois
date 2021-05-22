@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/IW8qQeYP1tA'
 image: 'a2zdgkDzFo8.jpeg'
 source: tome IV - livre des rois - P. 249
