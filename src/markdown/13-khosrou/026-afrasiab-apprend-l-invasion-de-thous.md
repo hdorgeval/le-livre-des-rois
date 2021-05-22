@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/7mQaf3jipdA'
 image: '7mQaf3jipdA.jpeg'
 source: tome II - livre des rois - P. 524
