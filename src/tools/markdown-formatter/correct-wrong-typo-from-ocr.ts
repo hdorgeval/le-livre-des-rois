@@ -47,6 +47,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ I’i/g, ' l’i'),
     (content: string) => content.replace(/ iIIUstre /g, ' illustre '),
     (content: string) => content.replace(/ il\. /g, ' il '),
+    (content: string) => content.replace(/ intelligenee /g, ' intelligence '),
     (content: string) => content.replace(/ Kei’anides /g, ' Keïanides '),
     (content: string) => content.replace(/ l /g, ' ! '),
     (content: string) => content.replace(/ l n /g, '! » '),
@@ -61,6 +62,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ le des /g, ' le dos '),
     (content: string) => content.replace(/ le i /g, ' le '),
     (content: string) => content.replace(/ le’monde /g, ' le monde '),
+    (content: string) => content.replace(/ leroi /g, ' le roi '),
     (content: string) => content.replace(/ lredj/g, ' Iredj'),
     (content: string) => content.replace(/ lui lit/g, ' lui fit'),
     (content: string) => content.replace(/ où /g, ' où '),
@@ -88,6 +90,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ soutïert /g, ' souffert '),
     (content: string) => content.replace(/ ssagesse /g, ' sagesse '),
     (content: string) => content.replace(/ tète /g, ' tête '),
+    (content: string) => content.replace(/ tonte /g, ' toute '),
     (content: string) => content.replace(/ tracant /g, ' traçant '),
     (content: string) => content.replace(/ trans-portez-moi /g, ' transportez-moi '),
     (content: string) => content.replace(/ tues /g, ' tu es '),
@@ -175,6 +178,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Maiut/g, 'Maint'),
     (content: string) => content.replace(/malheurm\./g, 'malheur.»'),
     (content: string) => content.replace(/Ne le lamente /g, 'Ne te lamente '),
+    (content: string) => content.replace(/ofl’re/g, 'offre'),
     (content: string) => content.replace(/piége/g, 'piège'),
     (content: string) => content.replace(/Que’les /g, 'Que les '),
     (content: string) => content.replace(/s’alllige/g, 's’afflige'),
@@ -185,9 +189,6 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/tonjours/g, 'toujours'),
     (content: string) => content.replace(/Zabonlistan/g, 'Zaboulistan'),
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
-    (content: string) => content.replace(/ofl’re/g, 'offre'),
-    (content: string) => content.replace(/ tonte /g, ' toute '),
-    (content: string) => content.replace(/ intelligenee /g, ' intelligence '),
   ].forEach((format) => {
     result = format(result);
   });
