@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/nSk4ko0uUjA'
 image: 'nSk4ko0uUjA.jpeg'
 source: tome III - livre des rois - P. 175
