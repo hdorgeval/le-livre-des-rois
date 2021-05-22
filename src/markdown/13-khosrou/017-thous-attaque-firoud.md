@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/zqwK4a6JXgc'
 image: 'zqwK4a6JXgc.jpeg'
 source: tome II - livre des rois - P. 493
