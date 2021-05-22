@@ -58,3 +58,4 @@
 {"rule":"VOIE_VOIX","sentence":"^\\QCelui-là est vraiment le sage, qui ne foule pas aux pieds un ennemi terrassé et qui marche dans le monde dans la voie de la sagesse, en se tournant toujours vers elle.\\E$"}
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qô héros !\\E$"}
 {"rule":"AN_ANNEE","sentence":"^\\QIl gouverna le monde avec justice et prudence et fut le guide du peuple vers tout ce qui est bien ; il augmenta le trésor et l'armée du roi, il para son palais et son trône et cinq années se passèrent ainsi, pendant lesquelles l'enfant acquit de la dignité et des forces.\\E$"}
+{"rule":"AN_ANNEE","sentence":"^\\QCinq années et quatre mois se passèrent ainsi ; mais un jour le roi alla à la chasse et le monde fut rempli de faucons, de guépards et de chiens, les uns volant, les autres courant avec ardeur.\\E$"}
