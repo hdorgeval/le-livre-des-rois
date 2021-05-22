@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-04-25'
 thumbnail: 'https://source.unsplash.com/H27BvYdCIPc'
 image: 'NhlKx6Uvm3E.jpeg'
 source: tome IV - livre des rois - P. 423
