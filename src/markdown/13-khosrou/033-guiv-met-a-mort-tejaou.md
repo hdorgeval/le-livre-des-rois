@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/hPmEc27NT5k'
 image: 'tNhsb1k1jkE.jpeg'
 source: tome II - livre des rois - P. 555
