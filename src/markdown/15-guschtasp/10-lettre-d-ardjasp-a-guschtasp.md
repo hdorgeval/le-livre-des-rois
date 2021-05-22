@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-04-25'
 thumbnail: 'https://source.unsplash.com/lwWK4UmaDgA'
 image: '0q90Mumo-xE.jpeg'
 source: tome IV - livre des rois - P. 296
