@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/j_Ch0mwBNds'
 image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 081
