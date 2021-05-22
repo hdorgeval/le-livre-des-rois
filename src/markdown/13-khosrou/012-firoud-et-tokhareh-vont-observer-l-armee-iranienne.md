@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-05-13'
 thumbnail: 'https://source.unsplash.com/tk6q5WJopZ0'
 image: 'Pe1Ol9oLc4o.jpeg'
 source: tome II - livre des rois - P. 480
