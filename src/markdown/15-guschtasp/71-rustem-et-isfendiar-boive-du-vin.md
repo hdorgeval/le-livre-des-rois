@@ -1,5 +1,5 @@
 ---
-date: ''
+lastUpdate: '2021-04-25'
 thumbnail: 'https://source.unsplash.com/zh0J32MrJfA'
 image: 'Ad3k0qobxzE.jpeg'
 source: tome IV - livre des rois - P. 504
