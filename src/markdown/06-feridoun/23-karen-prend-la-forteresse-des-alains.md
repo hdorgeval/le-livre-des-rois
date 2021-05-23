@@ -39,7 +39,7 @@ L’air étant devenu noir comme l’ébène, ils placèrent les timbales sur le
 
 Alors Karen confia le commandement à Schiroui et lui dit :
 
-> Je vais me déguiser. et me présenter avec un message devant le cognmandant du fort ; je lui montrerai le sceau de la bague. de Tour.
+> Je vais me déguiser et me présenter avec un message devant le cognmandant du fort ; je lui montrerai le sceau de la bague. de Tour.
 >
 > Aussitôt que je serai dans le fort, j’élèverai mon étendard, je ferai briller mon épée bleue.
 >
