@@ -59,3 +59,8 @@
 {"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qô héros !\\E$"}
 {"rule":"AN_ANNEE","sentence":"^\\QIl gouverna le monde avec justice et prudence et fut le guide du peuple vers tout ce qui est bien ; il augmenta le trésor et l'armée du roi, il para son palais et son trône et cinq années se passèrent ainsi, pendant lesquelles l'enfant acquit de la dignité et des forces.\\E$"}
 {"rule":"AN_ANNEE","sentence":"^\\QCinq années et quatre mois se passèrent ainsi ; mais un jour le roi alla à la chasse et le monde fut rempli de faucons, de guépards et de chiens, les uns volant, les autres courant avec ardeur.\\E$"}
+{"rule":"AN_ANNEE","sentence":"^\\QIl ne lui consacra pas moins de trente-cinq années de travail, et l'épopée atteignit près de 60.000 vers.\\E$"}
+{"rule":"AN_ANNEE","sentence":"^\\QIl ne lui consacra pas moins de trente-cinq années de travail et l'épopée atteignit près de 60 000 vers.\\E$"}
+{"rule":"QUE_AVOIR","sentence":"^\\QFeridoun lui permit de se lever et lui assigna une place honorable, puis il lui fit des questions, d'abord sur les deux princes illustres et lui demanda s'ils étaient contents dans leurs cœurs et s'ils persévéraient dans la vraie foi ; ensuite sur les fatigues qu'il avait dû éprouver dans le désert et sur ce long chemin, avec ses montagnes et ses vallées.\\E$"}
+{"rule":"D_N","sentence":"^\\QVotre désir est de vous asseoir sur un trône sans valeur ; pourquoi prenez-vous ainsi le Div pour votre conseiller ?\\E$"}
+{"rule":"ACCORD_GENRE","sentence":"^\\QLorsqu'ils virent la face de leur frère pleine de tendresse, leurs regards devinrent plus sombres ; lui était plein d'affection, eux étaient pleins de mauvais vouloir et ils se mirent à le questionner d'une manière qui ne répondait pas à ses désirs.\\E$"}
