@@ -958,6 +958,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/ PARVIZ\./g, ''),
     (content: string) => content.replace(/KOBAI\)\./g, ''),
     (content: string) => content.replace(/BAHRAM\./g, ''),
+    (content: string) => content.replace(/BAHRAM,/g, ''),
     (content: string) => content.replace(/ Il281\./g, ''),
     (content: string) => content.replace(/ KAOUS\./g, ''),
     (content: string) => content.replace(/S BOIS\./g, ''),

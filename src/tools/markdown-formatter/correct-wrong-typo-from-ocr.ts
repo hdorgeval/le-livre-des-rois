@@ -125,6 +125,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/\. lls /g, '. Ils '),
     (content: string) => content.replace(/\. n /g, '.» '),
     (content: string) => content.replace(/\. sur /g, ' sur '),
+    (content: string) => content.replace(/\. tu /g, ' tu '),
     (content: string) => content.replace(/\. vers /g, ' vers '),
     (content: string) => content.replace(/\.\./g, '.'),
     (content: string) => content.replace(/\.De /g, '. De '),
@@ -156,6 +157,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Boudabeh/g, 'Roudabeh'),
     (content: string) => content.replace(/Boum/g, 'Roum'),
     (content: string) => content.replace(/Bustem/g, 'Rustem'),
+    (content: string) => content.replace(/ce’qu/g, 'ce qu'),
     (content: string) => content.replace(/celuilà/g, 'celui-là'),
     (content: string) => content.replace(/conronne/g, 'couronne'),
     (content: string) => content.replace(/cortége/g, 'cortège'),
@@ -214,6 +216,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/tonjours/g, 'toujours'),
     (content: string) => content.replace(/Zabonlistan/g, 'Zaboulistan'),
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
+    (content: string) => content.replace(/Le\. /g, 'Le '),
   ].forEach((format) => {
     result = format(result);
   });
