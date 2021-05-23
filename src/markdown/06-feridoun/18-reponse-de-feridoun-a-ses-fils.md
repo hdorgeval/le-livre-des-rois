@@ -48,7 +48,7 @@ Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils 
 >
 > Tout homme qui a de l’intelligence, tient pour coupable d’un crime celui qui fait valoir des excuses.
 >
-> N’avez-vous pas de honte devant le glorieux maître du monde, d’avoir le cœur noir et la langue pleine de paroles douces?
+> N’avez-vous pas de honte devant le glorieux maître du monde, d’avoir le cœur noir et la langue pleine de paroles douces ?
 >
 > Vous serez punis de votre crime dans les dem mondes, par Dieu le juste, le maître unique.
 >
@@ -80,7 +80,7 @@ Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils 
 
 Le chef de la garde se présenta et conduisit l’envoyé devant les rois, qui lui préparèrent un siège nouveau et lui demandèrent des nouvelles du jeune roi.
 
-Ils lui firent des questions sur toute chose. sur le diadème et le trône impérial, sur Feridoun et son armée, sur ses héros et ses provinces, puis sur l’aspect du ciel qui tourne, demandant s’il accorderait sa faveur à Minontchehr ; sur les noms des grands et du Destour, sur la grandeur des trésors du roi et de son petitfil : et sur leur trésorier.
+Ils lui firent des questions sur toute chose sur le diadème et le trône impérial, sur Feridoun et son armée, sur ses héros et ses provinces, puis sur l’aspect du ciel qui tourne, demandant s’il accorderait sa faveur à Minontchehr ; sur les noms des grands et du Destour, sur la grandeur des trésors du roi et de son petitfil : et sur leur trésorier.
 
 L’envoyé leur répondit :
 
