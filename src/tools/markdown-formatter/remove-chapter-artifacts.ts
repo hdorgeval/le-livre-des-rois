@@ -589,6 +589,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/LE LIVRE DES llOIS\./g, ''),
     (content: string) => content.replace(/LE LIVRE DES llOlS\./g, ''),
     (content: string) => content.replace(/LE vLivaE DES BOIS\./g, ''),
+    (content: string) => content.replace(/LE LIVRE DES nons\./g, ''),
     (content: string) => content.replace(/KESIlA NOUSCHIRWAN\./g, ''),
     (content: string) => content.replace(/AKESRA NOUSCHIBWAN\./g, ''),
     (content: string) => content.replace(/KESBA NOUSCIIIBWAN\./g, ''),
@@ -1014,6 +1015,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/ZEW\./g, ''),
     (content: string) => content.replace(/3&6 /g, ''),
     (content: string) => content.replace(/3&7 /g, ''),
+    (content: string) => content.replace(/ H7 /g, ' '),
   ].forEach((format) => {
     result = format(result);
   });
