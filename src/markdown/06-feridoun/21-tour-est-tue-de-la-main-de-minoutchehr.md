@@ -40,7 +40,7 @@ Minoutchehr se précipita après lui et plein du désir de la vengeance, il atte
 
 Il poussa un grand cri contre cet homme injuste : Arrête, ô tyran plein d’ardeur pour le combat !
 
-Estce ainsi que tu arrachais la tête des innocents, sans penser que le monde crierait vengeance contre toi!»
+Est-ce ainsi que tu arrachais la tête des innocents, sans penser que le monde crierait vengeance contre toi!»
 
 Il enfonça sa lance dans le dos de Tour, qui laissa échapper de ses mains son épée : rapide comme le vent, il l’enleva de la selle, le jeta par terre et fit tout ce que la bravoure exige.
 
