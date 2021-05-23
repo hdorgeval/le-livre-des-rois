@@ -6,6 +6,7 @@ export * from './bahman-card';
 export * from './bahram-bahramian-card';
 export * from './bahram-son-of-bahram-card';
 export * from './bahram-son-of-ormuzd-card';
+export * from './bahram-son-of-schapour-card';
 export * from './dara-card';
 export * from './darab-card';
 export * from './djemschid-card';

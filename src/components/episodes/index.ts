@@ -5,6 +5,7 @@ export * from './bahman-episodes';
 export * from './bahram-bahramian-episodes';
 export * from './bahram-son-of-bahram-episodes';
 export * from './bahram-son-of-ormuzd-episodes';
+export * from './bahram-son-of-schapour-episodes';
 export * from './dara-episodes';
 export * from './darab-episodes';
 export * from './djemschid-episodes';
