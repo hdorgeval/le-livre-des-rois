@@ -4,7 +4,21 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 108
 reign: 'Feridoun'
-tags: []
+tags:
+  [
+    'Chine',
+    'cyprès',
+    'Dieu',
+    'Feridoun',
+    'Iran',
+    'Iredj',
+    'Mobed',
+    'Péris',
+    'Roum',
+    'Selm',
+    'Tour',
+    'Turcs',
+  ]
 order: '009'
 ---
 
