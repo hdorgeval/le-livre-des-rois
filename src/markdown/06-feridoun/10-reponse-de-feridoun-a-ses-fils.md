@@ -4,7 +4,20 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 111
 reign: 'Feridoun'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Ahrimans',
+    'âme',
+    'cyprès',
+    'Dieu',
+    'Div',
+    'Djemschid',
+    'Feridoun',
+    'Iredj',
+    'Mobeds',
+    'Selm',
+  ]
 order: '010'
 ---
 
