@@ -25,7 +25,7 @@ Il resta ainsi, le cœur plein de sang, les deux joues baignées de larmes, jusq
 
 Il mourut, mais son nom restera ; et quoiqu’un si long temps ait passé sur lui, sa bonne renommée lui est demeurée tout entière, ô mon fils, car il a’tiré profit du malheur.
 
-Minoutchehr se mit sur la tête la couronne (les Keïanides et ceignit ses reins d’une ceinture couleur de sang.
+Minoutchehr se mit sur la tête la couronne des Keïanides et ceignit ses reins d’une ceinture couleur de sang.
 
 Il fit construire selon la coutume des rois un tombeau, partie en or rouge, partie en lapis-lazuli.
 
@@ -47,6 +47,6 @@ Tu élèves les hommes avec douceur, les uns pour une courte, les autres pour un
 
 Mais quand tu veux reprendre tes dons, qu’importe que ce soit un morceau de terre ou une perle ?
 
-Et toi, que tu sois roi ou esclave, quand le monde a éteint le souille de ta vie, toutes les peines et tous les plaisirs s’évanouissent pour toi comme un songe ; ne nourris donc pas ton âme de l’espoir de vivre toujours.
+Et toi, que tu sois roi ou esclave, quand le monde a éteint le souffle de ta vie, toutes les peines et tous les plaisirs s’évanouissent pour toi comme un songe ; ne nourris donc pas ton âme de l’espoir de vivre toujours.
 
 Heureux celui qui laisse une mé-moire bénie, que ce soit un roi, que ce soit un esclave.
