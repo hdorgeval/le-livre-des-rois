@@ -10,7 +10,7 @@ order: '1'
 
 # Naissance de Firdousi
 
-D'après les indications qu'il est possible de relever dans son oeuvre même, c'est peu après 320 de l'Hégire, soit environ l'an 934 de notre ère, qu'il faut placer la naissance de Firdousi (Abu'l Qasim Firdawsi, selon la transcription littérale de ses nom et surnom).
+D'après les indications qu'il est possible de relever dans son œuvre même, c'est peu après 320 de l'Hégire, soit environ l'an 934 de notre ère, qu'il faut placer la naissance de Firdousi (Abu'l Qasim Firdawsi, selon la transcription littérale de ses nom et surnom).
 
 C'est donc cette année qui a été choisie pour commémorer en Perse et dans les différents pays du monde le millénaire du grand poète.
 
