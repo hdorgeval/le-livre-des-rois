@@ -58,12 +58,12 @@ Tous les deux poussèrent un cri qui déchira les montagnes et fit trembler les 
 
 Tu aurais dit que c’étaient deux éléphants furieux ; leurs mains étaient préparées au combat, leurs reins étaient ceints.
 
-Kakoui lança un javelot contre la ceinture du roi. et le casque de Roum de Minoutchehr trembla sur sa tête ; le javelot déchira la cotte
+Kakoui lança un javelot contre la ceinture du roi et le casque de Roum de Minoutchehr trembla sur sa tête ; le javelot déchira la cotte
 (le mailles qui recouvrait la ceinture et la peau parut à travers le fer.
 
 Le roi frappa le cou de Kakoui avec son épée et lui brisa la cuirasse sur le corps ; ainsi combattirent les deux braves jusqu’à midi, heure où le soleil qui éclaire le monde se trouvait au-dessus de leurs têtes ; ils s’attachèrent ainsi l’un à l’autre comme deux tigres et la terre autour d’eux fut pétrie ; de leur sang.
 
-À mesure que le soleil descendait vers l’horizon et qu’il s’abaissait par degrés, le roi sentait s’accroître son angoisse, il serra son cheval de ses genoux et étendit sa main ; il saisit avec mépris Kakoui à la ceinture, souleva de la selle ce corps d’éléphant, le jeta brisé sur la terre chaude. et lui fendit la poitrine avec son épée.
+À mesure que le soleil descendait vers l’horizon et qu’il s’abaissait par degrés, le roi sentait s’accroître son angoisse, il serra son cheval de ses genoux et étendit sa main ; il saisit avec mépris Kakoui à la ceinture, souleva de la selle ce corps d’éléphant, le jeta brisé sur la terre chaude et lui fendit la poitrine avec son épée.
 
 Ainsi fut donné au vent cet Arabe par son ardeur pour le combat.
 
