@@ -77,7 +77,7 @@ Il lui répondit :
 >
 > Quand les bêtes féroces If).
 >
-> Ilt2 LE LIVRE DES nons. pleureraient sur votre sort jour et nuit, il n’y au-
+> Ilt2 pleureraient sur votre sort jour et nuit, il n’y au-
 > r rait rien de surprenant, car depuis la forêt de r Narwen jusqu’à la frontière de Chine, tout est rempli de cavaliers prêts pour le combat et d’hommes demandant vengeance ; et quand vous verrez briller autour de l’étendard de Kaweh nos épées d’acier, votre cœur et votre tête trembleront de peur et vous ne distinguerez plus les monts des vallées.»
 
 Kobad alla pour parler au roi’ et lui répéta ce qu’il avait entendu de la bouche de ce brave.
