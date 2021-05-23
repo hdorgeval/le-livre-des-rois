@@ -25,7 +25,7 @@ Nous avons tiré vengeance des cavaliers de la Chine, nous avons dressé contre 
 
 Je suivrai cette lettre, rapide comme le vent ; je viendrai auprès de toi pour te raconter ce qui s’est passé.»
 
-Ensuite il envoya à la forteresse Schiroui, plein d’expérience et d’ambition ; il lui ordonna d’examiner le butin, d’en avoir soin et de faire avec prudence ce qu’il fallait, puis de placer ces richesses sur le dos des éléphants portant haut la tête et de les amener à la cour du roi en bon ordre ; ensuite il fit sortir de la cour des tentes royales les timbales d’airain et les trompettes et conduisit son armée du bord de la mer dans le désert et du désert vers la cour de Feridoun.
+Ensuite, il envoya à la forteresse Schiroui, plein d’expérience et d’ambition ; il lui ordonna d’examiner le butin, d’en avoir soin et de faire avec prudence ce qu’il fallait, puis de placer ces richesses sur le dos des éléphants portant haut la tête et de les amener à la cour du roi en bon ordre ; ensuite il fit sortir de la cour des tentes royales les timbales d’airain et les trompettes et conduisit son armée du bord de la mer dans le désert et du désert vers la cour de Feridoun.
 
 Comme il s’approchait de Temmischeh, son grand-père fut impatient de le voir.
 
