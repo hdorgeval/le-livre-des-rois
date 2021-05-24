@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/9g29Hmf1bnQ'
 image: 'Ydto_xzopy0.jpeg'
 source: tome III - livre des rois - P. 186
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Afrasiab',
