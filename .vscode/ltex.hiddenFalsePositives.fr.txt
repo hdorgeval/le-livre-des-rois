@@ -72,3 +72,4 @@
 {"rule":"D_N","sentence":"^\\QPuis les ordres du Div impur détachent les cœurs de la crainte du maître du monde.\\E$"}
 {"rule":"D_N","sentence":"^\\QLes instigations du Div ont eu tant de pouvoir sur nous, que les cerveaux de deux hommes sages sont devenus sa demeure.\\E$"}
 {"rule":"D_N","sentence":"^\\QMais nous espérons du maître de la couronne, qu'il voudra nous pardonner ; que si grands que soient nos forfaits, le roi les attribuera en premier lieu à notre ignorance ; notre seconde excuse est la puissance du firmament, qui est un lieu tantôt de refuge, tantôt de destruction ; enfin, la troisième est le Div qui parcourt le monde comme un messager prêt à faire le mal.\\E$"}
+{"rule":"SUBJ_SUBOR","sentence":"^\\QQuiconque ne me demande que ce qui est juste et qui s'abstient de la perversité et du mensonge, je le tiendrai partout en honneur, j'écarterai de mon cœur toute haine envers lui et toute avidité.\\E$"}
