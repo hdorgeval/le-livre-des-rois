@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/5MIyBZMf7us'
 image: 'Dwheufds6kQ.jpeg'
 source: tome III - livre des rois - P. 064
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Bijen',
