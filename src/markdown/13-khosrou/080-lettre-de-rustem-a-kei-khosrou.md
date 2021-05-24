@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/QdRnZlzYJPA'
 image: '7Au-5wQiAEQ.jpeg'
 source: tome III - livre des rois - P. 169
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'âme',
