@@ -30,5 +30,6 @@ export * from './schapour-dhoul-aktaf-episodes';
 export * from './schapour-episodes';
 export * from './schapour-son-of-schapour-episodes';
 export * from './thahmouras-episodes';
+export * from './yezdeguerd-episodes';
 export * from './zew-episodes';
 export * from './zohak-episodes';

@@ -30,5 +30,6 @@ export * from './schapour-card';
 export * from './schapour-dhoul-aktaf-card';
 export * from './schapour-son-of-schapour-card';
 export * from './thahmouras-card';
+export * from './yezdeguerd-card';
 export * from './zew-card';
 export * from './zohak-card';
