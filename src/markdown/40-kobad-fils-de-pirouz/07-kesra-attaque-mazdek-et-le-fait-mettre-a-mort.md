@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 113
 reign: 'Kobad fils de Pirouz'
+reign-slug: 'regne-de-kobad-fils-de-pirouz'
 tags: []
 order: '007'
 ---
