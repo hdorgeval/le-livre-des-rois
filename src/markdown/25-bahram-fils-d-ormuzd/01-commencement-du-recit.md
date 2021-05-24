@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 324
 reign: "Bahram fils d'Ormuzd"
+reign-slug: 'regne-de-bahram-fils-d-ormuzd'
 tags: ['Ahriman', 'âme', 'Bahram', 'Dieu', 'Iran', 'Keïanides']
 order: '001'
 ---
