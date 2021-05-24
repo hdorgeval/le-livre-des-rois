@@ -16,13 +16,15 @@ Or il y avait derrière lui un château qui s’élevait jusqu’à la voûte bl
 
 Il résolut de s’y retirer, car le temps tient dans sa main le bonheur et le malheur.
 
-Mais Minoutchehr dit : Si Selm se retire du combat, il trouvera un a refuge dans le château des Alains.
+Mais Minoutchehr dit :
 
-Il faut lui intercepter le chemin, car s’il atteint le château de la mer, personne ne pourra plus le déraciner et il a tiendra une forteresse qui s’élève jusqu’aux nues et que l’art a fait sortir du fond des eaux.
-
-Elle constient des trésors de toute espèce et les ailes de l’aigle royal la couvrent de leur ombre.
-
-Il faut que a je parte pour cette entreprise, il faut que j’use de a l’étrier et des rênes.»
+> Si Selm se retire du combat, il trouvera un a refuge dans le château des Alains.
+>
+> Il faut lui intercepter le chemin, car s’il atteint le château de la mer, personne ne pourra plus le déraciner et il a tiendra une forteresse qui s’élève jusqu’aux nues et que l’art a fait sortir du fond des eaux.
+>
+> Elle constient des trésors de toute espèce et les ailes de l’aigle royal la couvrent de leur ombre.
+>
+> Il faut que a je parte pour cette entreprise, il faut que j’use de a l’étrier et des rênes.»
 
 Après y avoir réfléchi, il en parla à Karen à qui. l’on pouvait confier de tels secrets et Karen ayant entendu les paroles du roi, lui dit :
 
@@ -55,25 +57,29 @@ Il laissa l’armée sur le bord de la mer, sous les ordres de Schiroui le vainq
 
 Le commandant ayant entendu ces paroles et vu le sceau de la bague,’fit ouvrir la porte de la forteresse ; car il ne voyait que ce qui paraissait et ne devinait pas le secret.
 
-Remarque ce que dit le sage Dihkan : Celui qui cache le secret de son cœur, voit le secret des autres.
+Remarque ce que dit le sage Dihkan :
 
-Que ma profession et la tienne soient l’obéissance à Dieu et que nous y joignions la réflexion !
-
-Il faut nous consulter entre nous sur tout ce qu’il y aura à faire dans le bonheur et dans le malheur.»
+> Celui qui cache le secret de son cœur, voit le secret des autres.
+>
+> Que ma profession et la tienne soient l’obéissance à Dieu et que nous y joignions la réflexion !
+>
+> Il faut nous consulter entre nous sur tout ce qu’il y aura à faire dans le bonheur et dans le malheur.»
 
 Le commandant et Karen, avides de combats, examinèrent tous les remparts, l’un formant des plans de trahison, l’autre simple de cœur ; pendant que le chef de l’armée d’Iran était prêt à toute entreprise, le commandant posa sur l’étranger le sceau de l’intimité et livra follement sa tête et sa ville au vent.
 
-Voici ce que dit Icidessus à son petit un léopard courageux : Ô mon petit, plein de bravoure et prompt de la griffe !
+Voici ce que dit Icidessus à son petit un léopard courageux :
 
-Ne te jette pas étourdiment ce dans une affaire difficile ; considèrela et pèsela de tous côtés.
-
-Si douces que soient les paroles d’un étranger, si candide qu’il paraisse au temps de la guerre et des combats, sois attentif, méfie-toi d’une surprise et en toute chose regarde le fond.
-
-Rap-pelle-toi comment un chef plein de sagesse a manqué de précaution dans une affaire délicate, n’a pas pensé aux ruses de l’ennemi et a liyré ainsi au i3
-
-I5 ?
-
-Vent sa forteresse.»
+> Ô mon petit, plein de bravoure et prompt de la griffe !
+>
+> Ne te jette pas étourdiment ce dans une affaire difficile ; considèrela et pèsela de tous côtés.
+>
+> Si douces que soient les paroles d’un étranger, si candide qu’il paraisse au temps de la guerre et des combats, sois attentif, méfie-toi d’une surprise et en toute chose regarde le fond.
+>
+> Rap-pelle-toi comment un chef plein de sagesse a manqué de précaution dans une affaire délicate, n’a pas pensé aux ruses de l’ennemi et a liyré ainsi au i3
+>
+> I5 ?
+>
+> Vent sa forteresse.»
 
 Quand la nuit fut plus avancée, Karen, avide de combats, éleva un drapeau semblable au disque de la lune.
 
