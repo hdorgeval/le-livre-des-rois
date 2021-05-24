@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 404
 reign: 'Keï Kaous'
+reign-slug: 'regne-de-kaous'
 tags: []
 order: '005'
 ---
