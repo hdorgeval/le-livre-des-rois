@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/J8k-gzI0Zy0'
 image: 'J8k-gzI0Zy0.jpeg'
 source: tome II - livre des rois - P. 501
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Bijen',
