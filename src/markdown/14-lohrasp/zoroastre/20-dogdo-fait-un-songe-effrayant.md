@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/UcBkRilVFVs'
 image: 'UcBkRilVFVs.jpeg'
 source: tome II - Vie de Zoroastre - P. 10 (P.150) - Zend-Avesta - Anquetil du Perron
 reign: 'Lohrasp'
+reign-slug: 'regne-de-lohrasp'
 tags:
   [
     'âme',
