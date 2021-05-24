@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 369
 reign: 'Keïkobad'
+reign-slug: 'regne-de-kobad'
 tags: []
 order: '002'
 ---
