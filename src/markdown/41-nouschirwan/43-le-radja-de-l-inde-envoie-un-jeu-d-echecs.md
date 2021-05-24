@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 306
 reign: 'Kesra Nouschirwan'
+reign-slug: 'regne-de-nouschirwan'
 tags: []
 order: '043'
 ---
