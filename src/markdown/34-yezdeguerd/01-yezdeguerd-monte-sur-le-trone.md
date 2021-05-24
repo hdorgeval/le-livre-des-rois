@@ -20,7 +20,7 @@ Puis, il dit aux notables du pays :
 >
 > Quiconque ne me demande que ce qui est juste et qui s’abstient de la perversité et du mensonge, je le tiendrai partout en honneur, j’écarterai de mon cœur toute haine envers lui et toute avidité.
 >
-> Je ne demanderai conseil qu’aux hommes nobles, aux hommes de sens, aux sages à ’esprit éveillé ; mais ceux qui sont livrés aux vices, dont les richesses rendent l’âme insolente, qui oppriment ceux qui ne peuvent pas se défendre ou qui lèvent la tête parce qu’ils sont riches, je lutterai contre eux, je rabaisserai leur arrogance et rendrai la vie douce aux pauvres.
+> Je ne demanderai conseil qu’aux hommes nobles, aux hommes de sens, aux sages à l’esprit éveillé ; mais ceux qui sont livrés aux vices, dont les richesses rendent l’âme insolente, qui oppriment ceux qui ne peuvent pas se défendre ou qui lèvent la tête parce qu’ils sont riches, je lutterai contre eux, je rabaisserai leur arrogance et rendrai la vie douce aux pauvres.
 >
 > Quiconque ne se garde pas de ma colère, quiconque passe insolemment devant moi, c’est qu’il désire qu’un lit de poussière réclame son corps et une épée indienne son cou.
 >
