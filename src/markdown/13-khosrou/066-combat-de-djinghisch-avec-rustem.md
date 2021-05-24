@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/FAq-TtmR_A0'
 image: 'ec6E029hwMo.jpeg'
 source: tome III - livre des rois - P. 112
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Adergouschasp',
