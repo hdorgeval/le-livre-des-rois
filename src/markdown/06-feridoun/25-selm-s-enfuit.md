@@ -34,19 +34,21 @@ Tout en parlant il lança son cheval et ayant atteint Selm, il lui asséna souda
 
 L’armée de Selm demeura stupéfaite d’une telle force, d’un tel bras de héros ; toute l’armée était comme un troupeau que dissipe un jour de neige, elle s’enfuit par troupes sans suivre aucune rente et se,dispersa dans les plaines, les cavernes et les montagnes.
 
-Or il y eut un homme plein de prudence et de bienveillance, dont la bouche était remplie de paroles douces ; tous le prièrent d’aller en toute hâte auprès du roi Minoutchehr, de lui parler au nom de l’armée et de dire : Nous sommes tous des hommes sans importance, nous ne possédons la terre que sous tes ordres ; quelques-uns de nous ont des troupeaux, d’autres des terres ensemencées et des maisons.
+Or il y eut un homme plein de prudence et de bienveillance, dont la bouche était remplie de paroles douces ; tous le prièrent d’aller en toute hâte auprès du roi Minoutchehr, de lui parler au nom de l’armée et de dire :
 
-Mais nous n’avons eu aucune liberté dans cette guerre, il fallait y aller par ordre du roi.
-
-Nous ne sommes venus au combat que comme soldats, mais non de notre volonté et par désir de vengeance.
-
-Maintenant nous sommes tous les esclaves du roi, notre tête est soumise à ses ordres et à sa volonté.
-
-S’il veut se venger et verser notre sang, nous n’avons pas la force de le combattre.
-
-Nous, les chefs de l’armée, sommes venus tous auprès du roi, nous t0us sommes venus dans notre innocence.
-
-Il peut faire tout ce qu’il désire, il est le maître de nos âmes innocentes.»
+> Nous sommes tous des hommes sans importance, nous ne possédons la terre que sous tes ordres ; quelques-uns de nous ont des troupeaux, d’autres des terres ensemencées et des maisons.
+>
+> Mais nous n’avons eu aucune liberté dans cette guerre, il fallait y aller par ordre du roi.
+>
+> Nous ne sommes venus au combat que comme soldats, mais non de notre volonté et par désir de vengeance.
+>
+> Maintenant nous sommes tous les esclaves du roi, notre tête est soumise à ses ordres et à sa volonté.
+>
+> S’il veut se venger et verser notre sang, nous n’avons pas la force de le combattre.
+>
+> Nous, les chefs de l’armée, sommes venus tous auprès du roi, nous t0us sommes venus dans notre innocence.
+>
+> Il peut faire tout ce qu’il désire, il est le maître de nos âmes innocentes.»
 
 Le sage prononça ces paroles et le roi lui prêta l’oreille avec étonnement, puis il lui répondit :
 
