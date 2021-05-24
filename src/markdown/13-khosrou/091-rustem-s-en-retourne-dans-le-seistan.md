@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/21xmyDjZPck'
 image: '21xmyDjZPck.jpeg'
 source: tome III - livre des rois - P. 214
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags: []
 order: '091'
 ---
