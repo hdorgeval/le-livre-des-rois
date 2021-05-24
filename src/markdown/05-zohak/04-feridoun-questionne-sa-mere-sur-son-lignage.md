@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 059
 reign: 'Zohak'
+reign-slug: 'regne-de-zohak'
 tags: ['Abtin', 'Dieu', 'Elborz', 'Feridoun', 'Firanek', 'Iran', 'Thahmouras', 'Zohak']
 order: '004'
 ---
