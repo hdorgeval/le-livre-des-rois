@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/xiy52D5Qxh4'
 image: 'u7dy-n4uZVk.jpeg'
 source: tome IV - livre des rois - P. 224
 reign: 'Lohrasp'
+reign-slug: 'regne-de-lohrasp'
 tags:
   [
     'Chine',
