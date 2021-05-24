@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/2pQk8FPOK1s'
 image: 'ZN60gTem64E.jpeg'
 source: tome IV - livre des rois - P. 233
 reign: 'Lohrasp'
+reign-slug: 'regne-de-lohrasp'
 tags:
   ['âme', 'Bessad', 'Bourab', 'Guschtasp', 'Heischoui', 'Iran', 'Kaisar', 'Kaisars', 'Roum', 'Selm']
 order: '05'
