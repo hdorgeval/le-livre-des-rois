@@ -4,7 +4,25 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 126
 reign: 'Feridoun'
-tags: []
+tags:
+  [
+    'âme',
+    'Chine',
+    'Dieu',
+    'Feridoun',
+    'Guerschasp',
+    'Iredj',
+    'Karen',
+    'Kaweh',
+    'Keschwad',
+    'Kobad',
+    'Mahaferid',
+    'Minoutchehr',
+    'Neriman',
+    'Roum',
+    'Sam',
+    'Schiroui',
+  ]
 order: '015'
 ---
 
