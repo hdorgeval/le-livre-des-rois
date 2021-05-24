@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/9yvADFNcXOc'
 image: '9yvADFNcXOc.jpeg'
 source: tome IV - livre des rois - P. 274
 reign: 'Lohrasp'
+reign-slug: 'regne-de-lohrasp'
 tags:
   [
     'Farrukhzad',
