@@ -26,14 +26,16 @@ Schapour le brave sortit du palais et introduisit le messager de Selm, qui dès 
 
 Le roi illustre, maître du, monde, lui assigna une place sur un siège d’or.
 
-Le messager commença à célébrer les louanges du roi : Ô toi, ornement du trône, de la couronne et du sceau !
+Le messager commença à célébrer les louanges du roi :
 
-Les degrés de ton trône chau-gent la terre en un jardin de roses, le monde est brillant par la grandeur de ta fortune.
+> Ô toi, ornement du trône, de la couronne et du sceau !
+>
+> Les degrés de ton trône changent la terre en un jardin de roses, le monde est brillant par la grandeur de ta fortune.
+>
+> Nous sommes tous les esclaves de la poussière de tes pieds, nous ne vivons tous que pour ton service.
 
-Nous sommes tous les esclaves de la poussière de tes -pieds, nous ne vivons tous que pour ton serviceun Le roi ayant reçu gracieusement ce salut, le messager étendit devant lui les joyaux qu’il avait apportés ; puis il recommença à parler avec prudence et le maître du monde lui prêta l’oreille.
+Le roi ayant reçu gracieusement ce salut, le messager étendit devant lui les joyaux qu’il avait apportés ; puis il recommença à parler avec prudence et le maître du monde lui prêta l’oreille.
 
-Il se mit à répéter le message de ces deux hommes de sang et s’ap»
-
-Pliqua à déguiser la vérité ; il dit comment ses fils demandaient pardon de leur crime et comment ils appelaient auprès d’eux Minoutchehr, pour le servir comme des esclaves, pour lui rendre la couronne et le trône du pouvoir, pour racheter de lui le sang de son père avec de l’or et des étoffes précieuses, avec des trésors et des joyaux.
+Il se mit à répéter le message de ces deux hommes de sang et s’appliqua à déguiser la vérité ; il dit comment ses fils demandaient pardon de leur crime et comment ils appelaient auprès d’eux Minoutchehr, pour le servir comme des esclaves, pour lui rendre la couronne et le trône du pouvoir, pour racheter de lui le sang de son père avec de l’or et des étoffes précieuses, avec des trésors et des joyaux.
 
 Le messager parla et le roi l’écouta ; sa réponse donna la clef de ce mystère.
