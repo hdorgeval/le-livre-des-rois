@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 030
 reign: 'Homaï'
+reign-slug: 'regne-de-homai'
 tags: []
 order: '006'
 ---
