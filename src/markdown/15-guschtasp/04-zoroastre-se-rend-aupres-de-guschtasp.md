@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/M1YdS0g8SRA'
 image: 'uWYedErgXgU.jpeg'
 source: tome II - Vie de Zoroastre - P. 29 (P.169) - Zend-Avesta - Anquetil du Perron
 reign: 'Guschtasp'
+reign-slug: 'regne-de-guschtasp'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b85930155/f1.item.r=carte%20perse.zoom'
 tags:
   [
