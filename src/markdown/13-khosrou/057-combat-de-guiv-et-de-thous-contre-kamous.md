@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/j_Ch0mwBNds'
 image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 081
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Dieu',
