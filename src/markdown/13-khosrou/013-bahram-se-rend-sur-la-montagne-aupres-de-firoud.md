@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/JMdgknOnV4c'
 image: 'F8uyQGQlNp8.jpeg'
 source: tome II - livre des rois - P. 484
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'âme',
