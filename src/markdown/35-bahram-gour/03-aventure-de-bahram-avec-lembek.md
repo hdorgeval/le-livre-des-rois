@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 449
 reign: 'Bahram Gour'
+reign-slug: 'regne-de-bahram-gour'
 tags: []
 order: '003'
 ---
