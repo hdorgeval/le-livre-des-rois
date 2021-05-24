@@ -41,17 +41,21 @@ export const FirdousiArticles: React.FC = () => {
 
   return (
     <>
-      {data.allMarkdownRemark.edges
-        .map((nodeWrapper) => nodeWrapper.node)
-        .map((node) => {
-          return {
-            ...node,
-            timeToRead: toMinutes(node.timeToRead * 2),
-          };
-        })
-        .map((node) => (
-          <ArticleCard key={node.id} {...node} />
-        ))}
+      <div className="row">
+        {data.allMarkdownRemark.edges
+          .map((nodeWrapper) => nodeWrapper.node)
+          .map((node) => {
+            return {
+              ...node,
+              timeToRead: toMinutes(node.timeToRead * 2),
+            };
+          })
+          .map((node) => (
+            <div className="col-sm-6 col-lg-3" key={node.id}>
+              <ArticleCard key={node.id} {...node} />
+            </div>
+          ))}
+      </div>
     </>
   );
 };

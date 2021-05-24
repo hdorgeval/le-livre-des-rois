@@ -11,7 +11,7 @@ export default () => (
     />
     <div>
       <Title text="A propos du Livre des Rois" subtitle="" />
-      <div className="text-light">
+      <div className="text-light ms-4 me-4">
         <p>
           L&apos; objectif est de transcrire l&apos;oeuvre de{' '}
           <a
@@ -99,7 +99,7 @@ export default () => (
           </a>{' '}
           on Github;
         </p>
-        <br />
+
         <FirdousiArticles />
       </div>
     </div>
