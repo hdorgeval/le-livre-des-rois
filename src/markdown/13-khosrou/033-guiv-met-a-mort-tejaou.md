@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/hPmEc27NT5k'
 image: 'tNhsb1k1jkE.jpeg'
 source: tome II - livre des rois - P. 555
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags: ['âme', 'Bahram', 'Bijen', 'Chine', 'Dieu', 'Guiv', 'Iraniens', 'Piran', 'Roum', 'Tejaou']
 order: '033'
 ---
