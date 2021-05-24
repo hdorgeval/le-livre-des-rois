@@ -66,3 +66,9 @@
 {"rule":"ACCORD_GENRE","sentence":"^\\QLorsqu'ils virent la face de leur frère pleine de tendresse, leurs regards devinrent plus sombres ; lui était plein d'affection, eux étaient pleins de mauvais vouloir et ils se mirent à le questionner d'une manière qui ne répondait pas à ses désirs.\\E$"}
 {"rule":"ETRE_VPPA_OU_ADJ","sentence":"^\\QLes bêtes fauves étaient privées de repos et de sommeil, tant elles criaient, se lamentaient et pleuraient.\\E$"}
 {"rule":"SUBJ_LOCU","sentence":"^\\QJe désire, ô Dieu créateur du monde, que le sort me laisse assez de vie pour que je vois un héros né de la race d'Iredj, se ceindre pour le venger et trancher la tête de ces deux méchants comme ils ont coupé la tête de cet innocent.\\E$"}
+{"rule":"A_INFINITIF","sentence":"^\\QUne branche digne d'une mère et d'un père purs a porter ses fruits.»\\E$"}
+{"rule":"ACCORD_NOMBRE","sentence":"^\\QUne branche digne d'une mère et d'un père purs a porter ses fruits.»\\E$"}
+{"rule":"ACCORD_NOMBRE","sentence":"^\\QUne branche digne d'une mère et d'un père purs a porté ses fruits.\\E$"}
+{"rule":"D_N","sentence":"^\\QPuis les ordres du Div impur détachent les cœurs de la crainte du maître du monde.\\E$"}
+{"rule":"D_N","sentence":"^\\QLes instigations du Div ont eu tant de pouvoir sur nous, que les cerveaux de deux hommes sages sont devenus sa demeure.\\E$"}
+{"rule":"D_N","sentence":"^\\QMais nous espérons du maître de la couronne, qu'il voudra nous pardonner ; que si grands que soient nos forfaits, le roi les attribuera en premier lieu à notre ignorance ; notre seconde excuse est la puissance du firmament, qui est un lieu tantôt de refuge, tantôt de destruction ; enfin, la troisième est le Div qui parcourt le monde comme un messager prêt à faire le mal.\\E$"}
