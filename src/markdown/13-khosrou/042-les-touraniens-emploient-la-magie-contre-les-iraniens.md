@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/-7B7Vvk3KlQ'
 image: '-h8U7Bh1oEk.jpeg'
 source: tome III - livre des rois - P. 025
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Bazour',
