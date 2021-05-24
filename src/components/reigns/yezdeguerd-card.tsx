@@ -23,10 +23,14 @@ export const YezdeguerdCard: React.FC = () => {
   const totalNumberOfEpsiodes = data.allMarkdownRemark.totalCount;
 
   return (
-    <Link className="nav-link" to="/regne-de-yezdeguerd/" aria-label="Règne de Yezdeguerd">
+    <Link
+      className="nav-link"
+      to="/regne-de-yezdeguerd/"
+      aria-label="Règne de Yezdeguerd le méchant"
+    >
       <div className="card text-center bg-dark text-white border-secondary">
         <div className="card-header pb-0">
-          <h5 className="card-title">Yezdeguerd</h5>
+          <h5 className="card-title">Yezdeguerd le méchant</h5>
         </div>
         <div className="card-body card-text">
           <blockquote className="blockquote mb-0">

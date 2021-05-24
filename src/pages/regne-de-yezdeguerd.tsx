@@ -7,11 +7,11 @@ export default () => (
     <SEO
       title="Le Livre des Rois - Shâhnâmeh"
       contentType="website"
-      description="Règne de Yezdeguerd"
+      description="Règne de Yezdeguerd le méchant"
     />
 
     <div>
-      <Title text="Règne de Yezdeguerd" subtitle="Son règne dura 21 ans." />
+      <Title text="Règne de Yezdeguerd le méchant" subtitle="Son règne dura 21 ans." />
       <YezdeguerdEpisodes />
     </div>
   </Layout>
