@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 218
 reign: 'Minoutchehr'
+reign-slug: 'regne-de-minoutchehr'
 tags: []
 order: '014'
 ---
