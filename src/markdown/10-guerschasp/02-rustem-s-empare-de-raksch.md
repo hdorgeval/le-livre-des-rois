@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 354
 reign: 'Guerschasp'
+reign-slug: 'regne-de-guerschasp'
 tags: []
 order: '002'
 ---
