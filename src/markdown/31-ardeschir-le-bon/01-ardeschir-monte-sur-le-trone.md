@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 386
 reign: 'Ardeschir le bon'
+reign-slug: 'regne-d-ardeschir-le-bon'
 tags: ['Ardeschir', 'Iran', 'Iraniens', 'Nikoukar', 'Schapour', 'tribut']
 order: '001'
 ---
