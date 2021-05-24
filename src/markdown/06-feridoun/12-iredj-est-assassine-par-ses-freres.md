@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 119
 reign: 'Feridoun'
+reign-slug: 'regne-de-feridoun'
 tags: ['Chine', 'cyprès', 'Dieu', 'Iran', 'Iredj', 'Keïanides', 'Roum', 'Tour', 'Turcs']
 order: '012'
 ---
