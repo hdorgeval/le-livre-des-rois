@@ -15,6 +15,7 @@ interface MarkdownTemplateProps {
     slug: string;
     reignTitle: string | null;
     reignSlug: string | null;
+    lastUpdate: string | null;
   };
 }
 export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageContext }) => {
@@ -29,6 +30,16 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
     : markdownData.html.replace(`<h1>${firstHeading}</h1>`, '');
 
   const image = getImage(data.file);
+  const lastUpdate = React.useMemo(() => {
+    if (pageContext.lastUpdate) {
+      return new Date(pageContext.lastUpdate).toLocaleDateString('fr', {
+        year: 'numeric',
+        month: 'short',
+        day: 'numeric',
+      });
+    }
+    return '';
+  }, [pageContext]);
 
   return (
     <Layout>
@@ -45,12 +56,17 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
               {hasTitleNote ? <span dangerouslySetInnerHTML={{ __html: note }}></span> : ''}
             </h2>
           </div>
-          <div className="card-body card-text">
+          <div className="card-body card-text pb-1">
             {image && <GatsbyImage image={image} className="card-img mb-4" alt="..."></GatsbyImage>}
             <div
               id="episode-content"
               dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
             />
+            {pageContext.lastUpdate && (
+              <p className="font-monospace text-muted fs-6 float-end mb-0">
+                <small>Dernière mise à jour : {lastUpdate}</small>
+              </p>
+            )}
           </div>
           <div className="card-footer">
             <ul className="pagination pagination-lg justify-content-center">

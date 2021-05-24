@@ -82,6 +82,7 @@ async function createAllEpisodePages(graphql, actions) {
             }
             frontmatter {
               image
+              lastUpdate
               reign_slug
               reign
             }
@@ -111,6 +112,7 @@ async function createAllEpisodePages(graphql, actions) {
     const image = markdown?.frontmatter?.image || 'default-for-episode.jpeg';
     const reignTitle = markdown?.frontmatter?.reign;
     const reignSlug = markdown?.frontmatter?.reign_slug;
+    const lastUpdate = markdown?.frontmatter?.lastUpdate;
 
     if (debug) {
       // eslint-disable-next-line no-console
@@ -126,6 +128,7 @@ async function createAllEpisodePages(graphql, actions) {
         previousSlug: markdown.previous?.fields?.slug,
         nextSlug: markdown.next?.fields?.slug,
         image,
+        lastUpdate,
         reignTitle,
         reignSlug,
       },
