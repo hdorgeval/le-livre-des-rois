@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/SwcaMnI7TUU'
 image: 'xOW_W2vsuk8.jpeg'
 source: tome III - livre des rois - P. 021
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Behil',
