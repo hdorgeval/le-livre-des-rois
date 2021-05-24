@@ -65,7 +65,9 @@ Le roi du monde aperçut le Pehlewan, le fit asseoir devant lui à une place d�
 
 Il prit la main du prince et la plaça dans celle du Pehlewan du monde, puis il tourna les yeux vers le ciel, en disant :
 
-> Ô Dieu de la justice et de la vérité, tu as dit : Je suis Dieu, le dispensateur de la justice ; je donne aide, dans le danger, à ceux qui ont souffert par l’iniquité.
+> Ô Dieu de la justice et de la vérité, tu as dit :
+
+> Je suis Dieu, le dispensateur de la justice ; je donne aide, dans le danger, à ceux qui ont souffert par l’iniquité.
 >
 > Tu m’as accordé justice et secours, tu m’as donné la couronne et la bague.
 >
