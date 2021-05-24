@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/vyyusolOVOg'
 image: 'ERrzhRFzO5w.jpeg'
 source: tome IV - livre des rois - P. 288
 reign: 'Guschtasp'
+reign-slug: 'regne-de-guschtasp'
 tags:
   [
     'Arabes',
