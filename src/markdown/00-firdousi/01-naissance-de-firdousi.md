@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/xE5vmelyM6k/'
 image: 'XXNfSFZWiII.jpeg'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
 reign: 'Firdousi'
+reign-slug: 'about'
 tags: ['Châb', 'Firdawsi', 'Firdousi', 'Hégire', 'Naissance', 'Peblewî', 'Perse', 'Qasim', 'Rizâ']
 order: '1'
 ---
