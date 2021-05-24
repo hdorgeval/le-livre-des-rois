@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/mlAryG9gNyE'
 image: 'mlAryG9gNyE.jpeg'
 source: tome III - livre des rois - P. 055
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Créateur',
