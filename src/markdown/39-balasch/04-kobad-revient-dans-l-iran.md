@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 092
 reign: 'Balasch fils de Pirouz'
+reign-slug: 'regne-de-balasch'
 tags: []
 order: '004'
 ---
