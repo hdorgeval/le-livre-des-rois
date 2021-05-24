@@ -32,7 +32,9 @@ J’apporte un message de deux esclaves au pied du puissant trône du roi des ro
 
 Devant leur père, ces deux pécheurs au cœur flétri, qui se sont repentis, puissent être admis à venir présenter leurs excuses ; car, jusqu’à présent, ils n’avalent pas espéré que quelqu’un voulût entendre leur défense.
 
-Ceux qui connaissent la sagesse ont dit : Celui qui a fait le mal en portera la peine, il restera dans la douleur et son cœur sera plein de tristesse ; c’est ainsi que nous sommes restés, ô roi généreux !
+Ceux qui connaissent la sagesse ont dit :
+
+> Celui qui a fait le mal en portera la peine, il restera dans la douleur et son cœur sera plein de tristesse ; c’est ainsi que nous sommes restés, ô roi généreux !
 
 C’est ainsi qu’il était écrit dans notre sort et nos actions n’ont fait que suivre notre destinée.
 
