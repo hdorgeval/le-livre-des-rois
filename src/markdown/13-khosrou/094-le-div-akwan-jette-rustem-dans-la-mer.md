@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/snbykIR_Imk'
 image: 'snbykIR_Imk.jpeg'
 source: tome III - livre des rois - P. 221
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags: []
 order: '094'
 ---
