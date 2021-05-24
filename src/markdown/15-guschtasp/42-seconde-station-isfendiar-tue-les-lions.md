@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/AJgvCKLWO8o'
 image: 'AJgvCKLWO8o.jpeg'
 source: tome IV - livre des rois - P. 398
 reign: 'Guschtasp'
+reign-slug: 'regne-de-guschtasp'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags: ['Beschouten', 'Dieu', 'Isfendiar', 'Kergsar', 'Sipehbed', 'Station', 'Turc']
 order: '42'
