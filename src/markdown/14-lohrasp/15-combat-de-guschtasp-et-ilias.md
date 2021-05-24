@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/JOzv_pAkcMk'
 image: 'JOzv_pAkcMk.jpeg'
 source: tome IV - livre des rois - P. 273
 reign: 'Lohrasp'
+reign-slug: 'regne-de-lohrasp'
 tags:
   ['Créateur', 'Guschtasp', 'Ilias', 'Kaisar', 'Khazars', 'Roum', 'Sagittaire', 'Sekil', 'tribut']
 order: '15'
