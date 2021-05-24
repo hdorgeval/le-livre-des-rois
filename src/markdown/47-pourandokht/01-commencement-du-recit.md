@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 340
 reign: 'PouranDokht'
+reign-slug: 'regne-de-pourandokht'
 tags: []
 order: '001'
 ---
