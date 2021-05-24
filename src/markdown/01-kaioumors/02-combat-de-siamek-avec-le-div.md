@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 021
 reign: 'Kaïoumors'
+reign-slug: 'regne-de-kaioumors'
 tags: ['Ahriman', 'âme', 'Dieu', 'Div', 'Divs', 'Serosch', 'Siamek']
 order: '002'
 ---
