@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/FNVYos3W0AY'
 image: 'sbyEMIcFx34.jpeg'
 source: tome III - livre des rois - P. 007
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Bahram',
