@@ -4,7 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 131
 reign: 'Feridoun'
-tags: []
+tags: ['cyprès', 'Feridoun', 'Keïanides', 'Minoutchehr', 'Roum', 'Schapour', 'Selm']
 order: '017'
 ---
 
