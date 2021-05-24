@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/bE6jYybsHsw'
 image: 'bE6jYybsHsw.jpeg'
 source: tome IV - livre des rois - P. 330
 reign: 'Guschtasp'
+reign-slug: 'regne-de-guschtasp'
 map: ''
 tags: ['âme', 'Ardjasp', 'Beschouten', 'Isfendiar', 'Lohrasp', 'Zerir']
 order: '21'
