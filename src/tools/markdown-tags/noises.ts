@@ -403,6 +403,7 @@ export const noises = [
   'Nul',
   'Nulle',
   'Observe',
+  'Observez',
   'Observons',
   'Occupe',
   'Ordonne-leur',
