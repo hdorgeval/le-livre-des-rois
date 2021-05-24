@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 075
 reign: 'Zohak'
+reign-slug: 'regne-de-zohak'
 tags: ['Arnewaz', 'cyprès', 'Divs', 'Djem', 'Feridoun', 'Kenderev', 'Roi', 'Schehrinaz', 'Zohak']
 order: '008'
 ---
