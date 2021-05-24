@@ -13,6 +13,8 @@ interface MarkdownTemplateProps {
     previousSlug: string | null;
     nextSlug: string | null;
     slug: string;
+    reignTitle: string | null;
+    reignSlug: string | null;
   };
 }
 export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageContext }) => {
@@ -37,10 +39,11 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
             id="episode-title"
             className="card-header text-light text-center text-uppercase border-bottom border-bottom-1 border-secondary pb-0 mb-0"
           >
-            <h1 className="card-title text-truncate">
+            {pageContext.reignTitle && <h1>{pageContext.reignTitle}</h1>}
+            <h2 className="card-title text-truncate">
               {firstHeading}
               {hasTitleNote ? <span dangerouslySetInnerHTML={{ __html: note }}></span> : ''}
-            </h1>
+            </h2>
           </div>
           <div className="card-body card-text">
             {image && <GatsbyImage image={image} className="card-img mb-4" alt="..."></GatsbyImage>}

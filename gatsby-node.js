@@ -82,6 +82,8 @@ async function createAllEpisodePages(graphql, actions) {
             }
             frontmatter {
               image
+              reign_slug
+              reign
             }
           }
           next {
@@ -107,6 +109,9 @@ async function createAllEpisodePages(graphql, actions) {
   });
   markdowns.forEach((markdown) => {
     const image = markdown?.frontmatter?.image || 'default-for-episode.jpeg';
+    const reignTitle = markdown?.frontmatter?.reign;
+    const reignSlug = markdown?.frontmatter?.reign_slug;
+
     if (debug) {
       // eslint-disable-next-line no-console
       console.log(`Creating episode page for markdown ${markdown.fields.slug}`);
@@ -121,6 +126,8 @@ async function createAllEpisodePages(graphql, actions) {
         previousSlug: markdown.previous?.fields?.slug,
         nextSlug: markdown.next?.fields?.slug,
         image,
+        reignTitle,
+        reignSlug,
       },
     });
   });

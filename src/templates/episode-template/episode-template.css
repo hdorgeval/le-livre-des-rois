@@ -2,6 +2,10 @@
   font-size: calc(0.4em + 2vw);
 }
 
+#episode-title h2 {
+  font-size: calc(0.4em + 1.5vw);
+}
+
 #episode-content blockquote {
   position: relative;
   font-style: italic;
