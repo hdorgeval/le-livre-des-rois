@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 046
 reign: 'Djemschid'
+reign-slug: 'regne-de-djemschid'
 tags: ['Arabes', 'Arabie', 'Chine', 'Dieu', 'Djemschid', 'Iran', 'Zohak']
 order: '004'
 ---
