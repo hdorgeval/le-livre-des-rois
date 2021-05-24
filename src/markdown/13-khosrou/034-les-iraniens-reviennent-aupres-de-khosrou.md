@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/xRFgX9oHG8U'
 image: 'xRFgX9oHG8U.jpeg'
 source: tome II - livre des rois - P. 559
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Afrasiab',
