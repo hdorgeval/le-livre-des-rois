@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 206
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags: []
 order: '233'
 ---
