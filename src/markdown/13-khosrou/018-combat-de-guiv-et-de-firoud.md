@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/HJYK6q7wVRk'
 image: 'zqwK4a6JXgc.jpeg'
 source: tome II - livre des rois - P. 497
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags:
   [
     'Adergouschasp',
