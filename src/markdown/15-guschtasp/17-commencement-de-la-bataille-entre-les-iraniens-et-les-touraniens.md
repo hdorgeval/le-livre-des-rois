@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com//_E1PQXKUkMw'
 image: '_E1PQXKUkMw.jpeg'
 source: tome IV - livre des rois - P. 320
 reign: 'Guschtasp'
+reign-slug: 'regne-de-guschtasp'
 map: ''
 tags:
   [
