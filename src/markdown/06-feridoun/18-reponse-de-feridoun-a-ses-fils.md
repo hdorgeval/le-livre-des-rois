@@ -76,7 +76,7 @@ Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils 
 >
 > Il alla vite comme le vent, la tête pleine de sa réponse, le cœur plein de doutes ; et lorsqu’il arriva en vue du pays d’occident, il vit une lente I dressée dans la plaine ; il s’approcha de la tente, dans laquelle se trouvait le maître de l’occident. l’était une tente de soie qu’on avait dressée et qui remplissait l’espace.
 >
-> Les deux mis des deux pays assis en consultation secrète, se dirent : Voilà notre messager qui revient!»
+> Les deux mis des deux pays assis en consultation secrète, se dirent : Voilà notre messager qui revient !»
 
 Le chef de la garde se présenta et conduisit l’envoyé devant les rois, qui lui préparèrent un siège nouveau et lui demandèrent des nouvelles du jeune roi.
 
