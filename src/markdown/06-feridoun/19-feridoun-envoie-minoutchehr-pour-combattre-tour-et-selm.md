@@ -12,9 +12,11 @@ order: '019'
 
 Feridoun reçut sur-le-champ la nouvelle qu’une armée avait passé le Djihoun et ordonna que Minoutchehr s’avançât avec son armée de la frontière dans le désert.
 
-Le vieux roi lui fit une allocution en ces termes : Quand un jeune homme est destiné à une haute fortune, le mouton sauvage que suit le tigre et devant lequel se tient le chasseur, tombe inopinément dans ses pièges ; et avec de la patience, avec de la prudence, de la ruse et de l’intelligence, il amène le lion terrible dans ses filets.
+Le vieux roi lui fit une allocution en ces termes :
 
-D’ailleurs, si les méchants se remuaient vers la fin du jour, je me hâterais de punir, je ferais briller un fer rouge.»
+> Quand un jeune homme est destiné à une haute fortune, le mouton sauvage que suit le tigre et devant lequel se tient le chasseur, tombe inopinément dans ses pièges ; et avec de la patience, avec de la prudence, de la ruse et de l’intelligence, il amène le lion terrible dans ses filets.
+>
+> D’ailleurs, si les méchants se remuaient vers la fin du jour, je me hâterais de punir, je ferais briller un fer rouge.»
 
 Minoutchehr lui répondit :
 
