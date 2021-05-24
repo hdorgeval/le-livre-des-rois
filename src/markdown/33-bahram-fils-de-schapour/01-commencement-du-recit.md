@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 391
 reign: 'Bahram fils de Schapour'
+reign-slug: 'regne-de-bahram-fils-de-schapour'
 tags: ['Bahram', 'cyprès', 'Dieu', 'Mahmoud', 'quatorze', 'Schapour', 'Yezdeguerd']
 order: '001'
 ---
