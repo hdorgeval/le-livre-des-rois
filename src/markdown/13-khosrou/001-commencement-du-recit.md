@@ -4,6 +4,7 @@ thumbnail: 'https://source.unsplash.com/0V7_N62zZcU'
 image: '0V7_N62zZcU.jpeg'
 source: tome II - livre des rois - P. 445
 reign: 'Keï Khosrou'
+reign-slug: 'regne-de-khosrou'
 tags: ['cyprès', 'Dieu', 'Firdousi', 'Keï', 'Khosrou']
 order: '001'
 ---
