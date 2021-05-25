@@ -5,7 +5,36 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 132
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
-tags: []
+tags:
+  [
+    'âme',
+    'Chine',
+    'cyprès',
+    'Destour',
+    'Dieu',
+    'Divs',
+    'Djemschid',
+    'Feridoun',
+    'Guerschasp',
+    'Iemen',
+    'Iran',
+    'Iredj',
+    'Karen',
+    'Kaweh',
+    'Minoutchehr',
+    'Neriman',
+    'Nestouh',
+    'Sam',
+    'Schapour',
+    'Schidousch',
+    'Schiroui',
+    'Selm',
+    'Serv',
+    'Teliman',
+    'Thahmouras',
+    'Tour',
+    'Touran',
+  ]
 order: '018'
 ---
 
