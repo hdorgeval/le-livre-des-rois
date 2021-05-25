@@ -340,6 +340,7 @@ export const noises = [
   'Lève',
   'Levez-vous',
   'Lisez-moi',
+  'Lisez',
   'Loin',
   'Lorsqu',
   'Lorsqu’elle',
