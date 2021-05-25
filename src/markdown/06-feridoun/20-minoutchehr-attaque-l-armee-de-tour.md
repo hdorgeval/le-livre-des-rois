@@ -11,37 +11,37 @@ order: '020'
 
 # Minoutchehr attaque l'armée de Tour
 
-Lorsque les ténèbres curent remplacé lejour, Illi-M3 nontcflehr envoya son avant-garde sur la montagne et dans la plaine.
+Lorsque les ténèbres eurent remplacé le jour, Minoutchehr envoya son avant-garde sur la montagne et dans la plaine.
 
 Karen le brave marchait devant l’armée avec Serv, le roi de Iemen, homme de bon conseil.
 
-Une voix s’éleva devant les rangs de l’armée : Ô braves, ô lions du roi !
+Une voix s’éleva devant les rangs de l’armée :
 
-Sachez que c’est un combat contre Ahriman, qui dans son cœur est l’ennemi du Créateur.
+> Ô braves, ô lions du roi !
+>
+> Sachez que c’est un combat contre Ahriman qui dans son cœur est l’ennemi du Créateur.
+>
+> Ceignez vos reins, soyez vigilants et que Dieu vous ait tous en sa garde.
+>
+> Quiconque sera tué dans ce combat, entrera au paradis lavé de tous ses péchés.
+>
+> Ceux qui verseront le sang des guerriers de Roum et de Chine, ceux qui feront la conquête de leur pays, seront célébrés jusqu’à la fin des jours et jouiront de la gloire des Mobeds.
+>
+> Le roi leur donnera des trônes et des diadèmes, leur chef de l’or et Dieu le juste du bonheur.
+>
+> Aussitôt que poindra la clarté du jour et que sa lumière aura avancé de deux degrés, vous ceindrez vos reins de héros, vous saisirez vos massues et vos épées de Kaboul.
+>
+> Chacun prendra son rang, aucun ne devancera de son pied les autres.
 
-Ceignez vos reins, soyez vigilants, et
-"que Dieu vous aittous en sa garde.
+Les chefs de l’armée, les grands pleins de courage, se rangèrent devant le roi au cœur de lion et lui dirent :
 
-Quiconque sera tué dans ce combat, entrera au paradis lavé de tous ses péchés.
-
-Ceux qui verseront le sang des guer-
--riers de Roum et de Chine, ceux qui feront la conquête de leur pays, seront célébrés jusqu’à la fin des jours et jouiront de la gloire des Mobeds.
-
-Le roi leur donnera des trônes et des diadèmes, leur chef de l’or et Dieu le juste du bonheur.
-
-Aussitôt que poindra la clarté du jour et que sa lumière aura avancé de deux degrés, vous ceindrez vos reins de héros, vous saisirez vos massues et vos épées de Kaboul.
-
-Chacun prendra son rang, aucun ne devancera de son pied les antresm Les chefs de l’armée, les grands pleins de courage, se rangèrent devant le roi au cœur de lion et lui dirent :
-
-> Nous sommes des esclaves et ne vivons que pour le roi ; ce qu’il nous ordonnera, nous le ferons sans hérsiter, nous convertirons avec nos épées la terre en un Djihonn de sang.»
+> Nous sommes des esclaves et ne vivons que pour le roi ; ce qu’il nous ordonnera, nous le ferons sans hésiter, nous convertirons avec nos épées la terre en un Djihoun de sang.
 
 Puis ils retournèrent vers leurs tentes tous méditant des moyens de vengeance.
 
-Lorque la lumière commeuca à rayonner du côté
+Lorsque la lumière commença à rayonner du côté du levant et à déchirer les ténèbres de la nuit, Minoutchehr s’élança du centre de l’armée, portant une cuirasse, une épée et un casque de Roum.
 
-IM du levant et à déchirer les ténèbres de la nuit, Minoutchehr s’élança du centre de l’armée, portant une cuirasse, une épée et un casque de Roum.
-
-Tonte l’armée poussa un cri ; ils levèrent leurs lances vers les nuages, la tête pleine de colère et les sourcils froncés ; ils roulèrent sous leurs pas la surface de la terre comme un tapis.
+Toute l’armée poussa un cri ; ils levèrent leurs lances vers les nuages, la tête pleine de colère et les sourcils froncés ; ils roulèrent sous leurs pas la surface de la terre comme un tapis.
 
 Le roi plaça avec art la gauche et la droite, le centre et les ailes de l’armée.
 
@@ -63,6 +63,6 @@ Toute la vaillance était du côté de Minoutchehr, pour lequel le cœur du mond
 
 Le combat dura jusqu’à ce que la nuit élevât sa tête et que le soleil brillant disparût.
 
-Le monde n’est jamais longtemps le même ; tantôt il est tout miel et douceur, tantôt il est tout amertume.
+Le monde n’est jamais longtemps le même ; tantôt il est tout miel et douceur, tantôt il est toute amertume.
 
-Les cœurs de Tour et de Selm étaient bouil-1 : Iants de rage ; ils résolurent de tenter une surprise et lorsque le jour succéda à la nuit, personne ne se présenta pour le combat, car les deux braves s’étaient décidés à attendre.
+Les cœurs de Tour et de Selm étaient bouillants de rage ; ils résolurent de tenter une surprise et lorsque le jour succéda à la nuit, personne ne se présenta pour le combat, car les deux braves s’étaient décidés à attendre.
