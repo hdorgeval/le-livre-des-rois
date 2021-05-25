@@ -4,6 +4,7 @@ export * from './ardeschir-le-bon-card';
 export * from './aschkanides-card';
 export * from './bahman-card';
 export * from './bahram-bahramian-card';
+export * from './bahram-gour-card';
 export * from './bahram-son-of-bahram-card';
 export * from './bahram-son-of-ormuzd-card';
 export * from './bahram-son-of-schapour-card';

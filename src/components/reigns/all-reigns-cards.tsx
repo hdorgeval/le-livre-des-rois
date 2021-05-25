@@ -4,6 +4,7 @@ import {
   AschkanidesCard,
   BahmanCard,
   BahramBahramianCard,
+  BahramGourCard,
   BahramSonOfBahramCard,
   BahramSonOfOrmuzdCard,
   BahramSonOfSchapourCard,
@@ -140,6 +141,9 @@ export const ReignCards: React.FC = () => (
       </div>
       <div className="col-sm-6 col-lg-3">
         <YezdeguerdCard />
+      </div>
+      <div className="col-sm-6 col-lg-3">
+        <BahramGourCard />
       </div>
     </div>
   </>
