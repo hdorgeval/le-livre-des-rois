@@ -178,6 +178,7 @@ export const noises = [
   'Distributeur',
   'Dites-leur',
   'Dites',
+  'Dix-huit',
   'Donne-lui',
   'Donne-moi',
   'Donne',
