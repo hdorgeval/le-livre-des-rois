@@ -5,7 +5,20 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 069
 reign: 'Hormuz fils de Yezdeguerd'
 reign-slug: 'regne-de-hormuz'
-tags: []
+tags:
+  [
+    'Dieu',
+    'Fughanisch',
+    'Heïtaliens',
+    'Hormuz',
+    'Keïanides',
+    'Pirouz',
+    'Tchegan',
+    'Tchegani',
+    'Tirmid',
+    'Wisehguerd',
+    'Yezdeguerd',
+  ]
 order: '001'
 ---
 
