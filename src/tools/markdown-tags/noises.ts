@@ -195,6 +195,7 @@ export const noises = [
   'elle',
   'Elle',
   'Elles',
+  'Emmenant',
   'Emmène-les',
   'Emmène',
   'Emmène',
