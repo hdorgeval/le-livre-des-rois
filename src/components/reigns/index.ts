@@ -15,6 +15,7 @@ export * from './feridoun-card';
 export * from './guerschasp-card';
 export * from './guschtasp-card';
 export * from './homai-card';
+export * from './hormuz-card';
 export * from './houscheng-card';
 export * from './iskender-card';
 export * from './kaioumors-card';

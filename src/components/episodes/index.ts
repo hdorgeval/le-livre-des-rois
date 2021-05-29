@@ -15,6 +15,7 @@ export * from './feridoun-episodes';
 export * from './guerschasp-episodes';
 export * from './guschtasp-episodes';
 export * from './homai-episodes';
+export * from './hormuz-episodes';
 export * from './houscheng-episodes';
 export * from './iskender-episodes';
 export * from './kaioumors-episodes';
