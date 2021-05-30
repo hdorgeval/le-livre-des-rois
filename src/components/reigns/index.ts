@@ -8,6 +8,7 @@ export * from './bahram-gour-card';
 export * from './bahram-son-of-bahram-card';
 export * from './bahram-son-of-ormuzd-card';
 export * from './bahram-son-of-schapour-card';
+export * from './balasch-card';
 export * from './dara-card';
 export * from './darab-card';
 export * from './djemschid-card';
