@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 070
 reign: 'Pirouz fils de Yezdeguerd'
 reign-slug: 'regne-de-pirouz'
-tags: []
+tags: ['Dieu', 'Djemschid', 'Ferwerdin', 'Hormuz', 'Iran', 'Keïanides', 'Mobeds', 'Pirouz']
 order: '001'
 ---
 
