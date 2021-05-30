@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 081
 reign: 'Balasch fils de Pirouz'
 reign-slug: 'regne-de-balasch'
-tags: []
+tags: ['âme', 'Balasch', 'Dieu', 'Iraniens', 'Mobed']
 order: '001'
 ---
 
