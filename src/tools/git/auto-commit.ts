@@ -6,6 +6,7 @@ import {
   autoCommitUpdatedLatexFiles,
   autoCommitUpdatedMarkdownFormatter,
   autoCommitUpdatedMarkdownTags,
+  autoCommitUpdatedMarkdownTagsHelpers,
   autoCommitUpdatedTagsTools,
 } from '.';
 
@@ -18,6 +19,7 @@ async function autoCommit() {
   await autoCommitUpdatedMarkdownTags().then();
   await autoCommitNewGitHelpers().then();
   await autoCommitUpdatedGitHelpers().then();
+  await autoCommitUpdatedMarkdownTagsHelpers().then();
 }
 
 autoCommit().then();
