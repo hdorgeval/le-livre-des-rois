@@ -5,7 +5,20 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 095
 reign: 'Kobad fils de Pirouz'
 reign-slug: 'regne-de-kobad-fils-de-pirouz'
-tags: []
+tags:
+  [
+    'chrysoprases',
+    'Ctésiphon',
+    'Dieu',
+    'Iran',
+    'Iraniens',
+    'Istakhr',
+    'Kobad',
+    'Mobed',
+    'Pehlewan',
+    'Souferaï',
+    'Thisifoun',
+  ]
 order: '001'
 ---
 
