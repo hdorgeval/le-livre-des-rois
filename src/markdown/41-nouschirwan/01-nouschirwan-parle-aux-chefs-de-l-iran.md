@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 123
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
-tags: []
+tags: ['âme', 'Créateur', 'Destour', 'Dieu', 'Iran', 'Iranien', 'Kesra', 'Nouschirwan', 'Seigneur']
 order: '001'
 ---
 
