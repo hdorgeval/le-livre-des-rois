@@ -9,6 +9,7 @@ tags:
   [
     'Arwend',
     'Bahram',
+    'Ctésiphon',
     'Dihkan',
     'Djileh',
     'Isthakhr',
@@ -20,6 +21,7 @@ tags:
     'Péri',
     'Schapour',
     'Thisifoun',
+    'Tigre',
   ]
 order: '001'
 ---
