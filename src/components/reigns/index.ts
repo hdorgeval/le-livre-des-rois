@@ -28,6 +28,7 @@ export * from './lohrasp-card';
 export * from './minoutchehr-card';
 export * from './nersi-card';
 export * from './newder-card';
+export * from './nouschirwan-card';
 export * from './ormuzd-card';
 export * from './ormuzd-son-of-nersi-card';
 export * from './pirouz-card';

@@ -28,6 +28,7 @@ export * from './lohrasp-episodes';
 export * from './minoutchehr-episodes';
 export * from './nersi-episodes';
 export * from './newder-episodes';
+export * from './nouschirwan-episodes';
 export * from './ormuzd-episodes';
 export * from './ormuzd-son-of-nersi-episodes';
 export * from './pirouz-episodes';
