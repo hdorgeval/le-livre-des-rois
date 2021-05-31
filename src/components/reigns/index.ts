@@ -23,6 +23,7 @@ export * from './kaioumors-card';
 export * from './kaous-card';
 export * from './khosrou-card';
 export * from './kobad-card';
+export * from './kobad-son-of-pirouz-card';
 export * from './lohrasp-card';
 export * from './minoutchehr-card';
 export * from './nersi-card';
