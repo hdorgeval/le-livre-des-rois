@@ -25,7 +25,7 @@ Il m’a dit :
 
 > Il arrive maintenant ce qui a été prédit autrefois.
 
-J’ai demandé au vieux Mihran Sitad ce qu’il savait de ces affaires et il m’a répondu : Si le roi du monde me fait des questions, je lui dirai Lce reoi des reoiscenrvoeya tà .l’inastant.un des grands auprès de ce vieillard et on l’enleva surle-cbamp et on le lit voyager rapidement dans une litière.
+J’ai demandé au vieux Mihran Sitad ce qu’il savait de ces affaires et il m’a répondu : Si le roi du monde me fait des questions, je lui dirai Lce reoi des reoiscenrvoeya tà .l’inastant.un des grands auprès de ce vieillard et on l’enleva surlecbamp et on le lit voyager rapidement dans une litière.
 
 Lorsque le vieux Mihran Sitad fut arrivé, le cœur plein de sagesse, la tête pleine de paroles, le roi lui demanda :
 
@@ -53,7 +53,7 @@ Mais c’est elle que a je choisis parmi ces jeunes filles et je me gardai de je
 
 Le Khakan me dit :
 
-> a Choisisen une autre, elles sont toutes les cinq belles et glorieuses ; mais je répondis : Il me faut celle-ci ; si j’en choisissais une autre, il m’en arriverait Il fit alors appeler ses Mobeds, les fit s’accummalheur. ..
+> a Choisisen une autre, elles sont toutes les cinq belles et glorieuses ; mais je répondis : Il me faut celle-ci ; si j’en choisissais une autre, il m’en arriverait Il fit alors appeler ses Mobeds, les fit s’accummalheur..
 
 HOBMUZD,’ M3
 ce pir devant le trône royal et leur adressa des questions sur la fortune future de sa fille et sur la rotation de son étoile.
@@ -64,7 +64,7 @@ Un astrologue dit :
 >
 > Il naîtra de ta fille et du roi des Iraniens un fils semblable à un lion terrible, haut de taille, fort de bras, vaillant comme un lion et bienfaisant comme les nuages, aux yeux noirs, colère et peu patient ; son père mourra et lui sera roi ; il dépensera une grande partie du trésor de son père et fera du mal pendant quelque temps, puis il s’arrâlera.
 >
-> Ensuite paraîtra un roi audacieux qui amè-nera une puissante armée de Turcs dans l’inten- tion de s’emparer avec cette multitude de l’Iran et du pays du Yemen.
+> Ensuite paraîtra un roi audacieux qui amè-nera une puissante armée de Turcs dans l’intention de s’emparer avec cette multitude de l’Iran et du pays du Yemen.
 >
 > Le roi de l’Iran en sera inquiet, il aura peur de ce puissant homme à la fortune victorieuse.
 >
@@ -94,8 +94,9 @@ Il dit aux Iraniens :
 >
 > Grâces soient rendues à Dieu de ce que ce vieillard a pu nous dire ce qu’il nous était si indispensable de savoir.
 >
-> Il faut maintenant chercher dans toutes les provinces l’homme dont il nous a fait la description, qu’il se trouve parmi les grands ou les petits. 
- M ce Cherchez-le jusqu’à ce que vous puissiez me l’ame- ner et ne reculez devant aucune fatigue.»
+> Il faut maintenant chercher dans toutes les provinces l’homme dont il nous a fait la description, qu’il se trouve parmi les grands ou les petits.
+>
+> M ce Cherchez-le jusqu’à ce que vous puissiez me l’amener et ne reculez devant aucune fatigue.»
 
 Or il y avait un seigneur illustre, chef des écuries du roi, dont le nom était Zad Farroukh (Fariroukhzad) et dont le seul souci était de faire plaisir au roi.
 
