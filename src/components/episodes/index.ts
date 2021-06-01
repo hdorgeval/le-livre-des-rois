@@ -17,6 +17,7 @@ export * from './guerschasp-episodes';
 export * from './guschtasp-episodes';
 export * from './homai-episodes';
 export * from './hormuz-episodes';
+export * from './hormuzd-episodes';
 export * from './houscheng-episodes';
 export * from './iskender-episodes';
 export * from './kaioumors-episodes';

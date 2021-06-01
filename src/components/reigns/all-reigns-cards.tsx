@@ -17,6 +17,7 @@ import {
   GuschtaspCard,
   HomaiCard,
   HormuzCard,
+  HormuzdCard,
   HouschengCard,
   IskenderCard,
   KaioumorsCard,
@@ -168,6 +169,9 @@ export const ReignCards: React.FC = () => (
       </div>
       <div className="col-sm-6 col-lg-3">
         <NouschirwanCard />
+      </div>
+      <div className="col-sm-6 col-lg-3">
+        <HormuzdCard />
       </div>
     </div>
   </>
