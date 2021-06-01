@@ -63,7 +63,7 @@ Si le roi tr veut me l’accorder, il partira sur-le-champ avec moisa Le roi ré
 
 > Ce méchant vagabond, ce comment se battrait-il devant toi ?
 >
-> C’est un meur- trier, un vaurien et un voleur que tu me demandes. et tu espères qu’il te récompensera ; et pourtant je ne puis te le refuser dans ce moment, quoiqu’il n’y ait pas de pire scélérat que lui.»
+> C’est un meurtrier, un vaurien et un voleur que tu me demandes et tu espères qu’il te récompensera ; et pourtant je ne puis te le refuser dans ce moment, quoiqu’il n’y ait pas de pire scélérat que lui.»
 
 Il lui donna donc cet homme de méchante nature, un être vil, un voleur et un assassin.
 
@@ -86,7 +86,9 @@ Pendant qu’il parlait en secret à la vieille femme en ne laissant entendre sa
 
 La vieille femme dit à Ayi’n Guschasp :
 
-> Qui est cet. a homme ?
+> Qui est cet.»
+
+Homme ?
 >
 > On aura à verser des larmes sur le coupqu’il te portera.
 >
@@ -110,13 +112,15 @@ Ayant écrit la lettre, il apposa son sceau et quand il fut sec, il appela son c
 
 Il lui dit :
 
-> Porte rapidement et en secret cette lettre au roi du monde ; quand tu auras sa réponse, hâte-toi de me la rapporter et garde-toi de rester auprès du e roi. a Les jeune homme prit la lettre, mais son esprit était inquiet de ce voyage.
+> Porte rapidement et en secret cette lettre au roi du monde ; quand tu auras sa réponse, hâte-toi de me la rapporter et garde-toi de rester auprès du e roi.»
+
+Les jeune homme prit la lettre, mais son esprit était inquiet de ce voyage.
 
 Il se dit :
 
 > J’ai en assez de prison, de lourdes chaînes et de manque de nourriture ; Dieu m’a délivré de cette misère, de cette angoisse, de ces soucis et de cette mauvaise fortune.
 >
-> Maintenant je dois retourner à Thisifoun, et mon cerveau et mon sang se mettent à bouillir à cette idée.»
+> Maintenant je dois retourner à Thisifoun et mon cerveau et mon sang se mettent à bouillir à cette idée.»
 
 Il resta pendant quelque temps sur la route dans cette anxiété, puis il détacha la corde qui fermait la lettre au roi.
 
@@ -126,7 +130,7 @@ Il lut la lettre du Pehlewan et resta confondu de ce coup du sort ; il se dit :
 
 Est-ce que cette mau-vaise inspiration lui serait venue dans un rêve ?
 
-Mais il va voir ce que c’est que de verser du sang, et il va se reposer de ses fatigues et de ses entrerr prises. n
+Mais il va voir ce que c’est que de verser du sang et il va se reposer de ses fatigues et de ses entrerr prises. n
 
 L’âme remplie de ces pensées, il rebroussa chemin et marcha d’un pas égal au vent.
 
@@ -166,7 +170,7 @@ Il répondit :
 
 Bahram dit :
 
-> Cet homme pur est venu de la cour du roi pour me réconcilier avec Hor- muzd et tu lui as coupé la tête pendant qu’il dormait.
+> Cet homme pur est venu de la cour du roi pour me réconcilier avec Hormuzd et tu lui as coupé la tête pendant qu’il dormait.
 >
 > Je vais te donner la rétribution que tu mérites et ce peuple ne le pleurera pasamèrement.»
 
