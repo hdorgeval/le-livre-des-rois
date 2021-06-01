@@ -57,10 +57,12 @@ Le roi Saweh dit à ses grands :
 Lorsque Bahram vit de loin les éléphants, il devint inquiet, tira l’épée et dit aux grands :
 
 > Ô hommes illustres et vaillants !
+>
+> Bandez vos arcs de Djadj, placez tous vos casques sur vos têtes.
+>
+> Je conjure par la vie et la tête du roi -du monde, qui est l’élu des grands et la couronne des hommes de bien, tous ceux qui ont un arc et des flèches de bander à l’instant leurs arcs, de planter dans les trompes de l’éléphant une flèche en bois de peuplier, avide de sang et à triple bois, puis de saisir vos massues, d’aller au combat et d’exterminer l’ennemi.»
 
-Bandez vos arcs de Djadj, placez tous vos casques sur vos têtes.
-
-Je conjure par la vie et la tête du roi -du monde, qui est l’élu des grands et la couronne des hommes de bien, tous ceux qui ont un arc et des flèches de bander à l’instant leurs arcs, de planter dans les trompes de l’éléphant une flèche en bois de peuplier, avide de sang et à triple bois, puis de saisir vos massues, d’aller au combat et d’exterminer l’ennemi. a Le Sipehhed banda son arc, plaça sur sa tête un ’ morion d’acier et se mit à faire pleuvoir devant lui une pluie de traits, se semant de son arc comme d’un nuage de printemps.
+Le Sipehhed banda son arc, plaça sur sa tête un ’ morion d’acier et se mit à faire pleuvoir devant lui une pluie de traits, se semant de son arc comme d’un nuage de printemps.
 
 Derrière lui s’avançaient ses troupes ; les étoiles furent obscurcies par les plumes et les pointes des flèches.
 
@@ -74,8 +76,7 @@ Son armée était connue une montagne de fer en motion, toutes les têtes étaie
 
 Les yeux de Saweh se remplirent de larmes ; il tâchait de comprendre comment son armée avait été. défaite.
 
-Il s’empressa de monter sur un cheval arabe isabelle et s’élance de pour qu’il ne lui arrivât malheur ; derrière lui courut Bahram, semblable à n. 3 
-A
+Il s’empressa de monter sur un cheval arabe isabelle et s’élance de pour qu’il ne lui arrivât malheur ; derrière lui courut Bahram, semblable à n. 3 A
 un éléphant en rut, un lacet suspendu à son bras. un arc dans sa main, il dità ses troupes :
 
 > Ô vous qui portez haut la tête !
@@ -87,7 +88,7 @@ un éléphant en rut, un lacet suspendu à son bras. un arc dans sa main, il dit
 
 Il monta sur la colline ou Saweh s’était tenu sur son trône et avec son diadème d’or et il le vit sur un cheval arabe, semblable à un lion et bondissant vers la plaine comme un tigre.
 
-Il choisit une flèche en bois de peuplier, garnie de quatre plumes d’aigle. avec une pointe brillante comme l’eau.
+Il choisit une flèche en bois de peuplier, garnie de quatre plumes d’aigle avec une pointe brillante comme l’eau.
 
 Il frotta de sa .
 main son arc de Djadj, plaça l’anneau sur la corde en peau de cerf, étendit droit la main gauche et courba l’arc avec la main droite.
@@ -98,7 +99,9 @@ Celui-ci tomba dans la poussière, la tête en avant ; il se forma sons lui un r
 
 Telle est l’action du ciel qui tourne ; jamais tu ne lui tron-I veras le visage miséricordieux ; prends donc garde de !
 
-T’enorgueillir d’un puissant trône, et, si certain que l tu sois de ta sécurité, crains le mal futur. i Le vaillant Bahram arriva sur lui, le traîna sur
+T’enorgueillir d’un puissant trône, et, si certain que !
+
+Tu sois de ta sécurité, crains le mal futur. i Le vaillant Bahram arriva sur lui, le traîna sur
 
 Nomma. -. la poussière sombre et coupa cette tête royale sans qu’aucun des siens s’en fût approché.
 
