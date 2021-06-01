@@ -48,7 +48,9 @@ Lui dit :
 Il répondit :
 
 > ’
-. Ô Pehlewan !
+.
+>
+> Ô Pehlewan !
 >
 > C’est Kharrad Benin qui m’a fait trembler en me disant : Tu ne dois pas rester ici ; tout retard dans ton départ n’est qu’une joie pour ceux qui disent du mal de toi.
 >
