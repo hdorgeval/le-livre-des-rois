@@ -21,7 +21,7 @@ Pandas de Thisifoun dans le pays entier, cette royauté perdit tout son éclat.
 
 La tête des serviteurs du roi était remplie de chagrin et de colère et ceux qui l’avaient béni auparavant le maudirent.
 
-Il n’y avait que peu de troupes à la cour et le monde devint étroit devant l’âme du roi..
+Il n’y avait que peu de troupes à la cour et le monde devint étroit devant l’âme du roi.
 
 Bendoui’ et Gustehem apprirent que le trône intrpérial était terni ; tous les prisonniers se délivrèrent de leurs chaînes et chargèrent l’un d’eux de savoir ce qui était vrai dans ces bruits et qui parmi les grands se tenait à la porte du roi.
 
@@ -32,7 +32,7 @@ Beudonï et Gustehem parurent couverts de cottes de mailles, entourés de leurs 
 
 Le vaillant Gustehem dit à ses troupes :
 
-> Ne prenez pas cela légèrement ; si vous voulez agir avec nous, il u faut vous dépouiller de tout attachement au roi, et si vous voulez tous prendre les armes pour venger les grands de l’lrau, car Hormuzd s’est tourné contre . ceux qui n’ont pas commis de faute et contre ce vertueux prime qui est digne du trône et de la courenne ; qu’alors tous ceux qui ont de la dignité et marchent dans la vraie voie lui refusent le titre de roi.
+> Ne prenez pas cela légèrement ; si vous voulez agir avec nous, il u faut vous dépouiller de tout attachement au roi et si vous voulez tous prendre les armes pour venger les grands de l’lrau, car Hormuzd s’est tourné contre . ceux qui n’ont pas commis de faute et contre ce vertueux prime qui est digne du trône et de la courenne ; qu’alors tous ceux qui ont de la dignité et marchent dans la vraie voie lui refusent le titre de roi.
 >
 > Mettez-vous à l’œuvre pour le punir selon qu’il le mérite, rendez-lui amère l’eau de l’Iran.
 >
@@ -51,8 +51,7 @@ Telles sont les actions de la roue du ciel sublime.
 >
 > Tantôt elle nous donne un trésor, tantôt elle nous accable de fatigue ; mais tu ne resteras pas O
 >
-> 
-dans ce lieu de passage, que tu y sois heureux ou malheureux.
+> dans ce lieu de passage, que tu y sois heureux ou malheureux.
 >
 > Que ce soilcent ou cent mille ans, tout ce qui se compte doit passer.
 >
