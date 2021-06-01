@@ -17,7 +17,7 @@ Je lui demandai ce qu’il savait de Hormuzd, lorsqu’il fut monté sur le trô
 
 Le vieux chef du Khorasan me raconta que Hormuzd, en montant sur le trône illustre, commença par adresser ses hommages au Créateur tout-puissant, maître du sort ; puis il dit :
 
-> Je rendrai glorieux ce trône, j’honorerai les grands, je couvrirai de mes ailes le monde. comme mon père l’a fait, selon les coutumes et avec la majesté des rois.
+> Je rendrai glorieux ce trône, j’honorerai les grands, je couvrirai de mes ailes le monde comme mon père l’a fait, selon les coutumes et avec la majesté des rois.
 >
 > Je ferai trembler ceux qui font du mal, je rendrai la tranquillité aux opprimés.
 >
@@ -31,9 +31,9 @@ Le vieux chef du Khorasan me raconta que Hormuzd, en montant sur le trône illus
 >
 > Je suis le maître dans tous les Kischwers de la terre ; c’est moi qui ordonne ; le pouvoir, l’autorité et la décision m’appartiennent.
 >
-> Tout homme par chérit celui que Dieu a fait roi.
+> Tout homme pur chérit celui que Dieu a fait roi.
 >
-> La première qua-° lité d’un roi est la libéralité ; c’est par elle que le monde est plein de belles choses.
+> La première qualité d’un roi est la libéralité ; c’est par elle que le monde est plein de belles choses.
 >
 > Je serai tendre pour les pauvres, je serai le protecteur des riches.
 >
@@ -43,21 +43,17 @@ Le vieux chef du Khorasan me raconta que Hormuzd, en montant sur le trône illus
 >
 > Je serai glorieux au lieu des grands, si je suis bienveillant, juste et libéral.
 >
-> Soyez de plus en plus doux, écartez de votre cœurla haine et l’avidité, car les yeux de celui qui s’abstient de ces deux vices ne verront jamais des jours de mal-.
+> Soyez de plus en plus doux, écartez de votre cœur la haine et l’avidité, car les yeux de celui qui s’abstient de ces deux vices ne verront jamais des jours de malheur.
 >
-> 
-heur.
->
-> Vous tous, que vous soyez grands ou petits, faites tous vos eil’orts pour satisfaire le Créateur du monde et que celui dont le cerveau est plein de raison ne se laisse pas aller à l’ingratitude.
+> Vous tous, que vous soyez grands ou petits, faites tous vos efforts pour satisfaire le Créateur du monde et que celui dont le cerveau est plein de raison ne se laisse pas aller à l’ingratitude.
 >
 > Si la fortune favorise quelqu’un particulièrement, ne t’empare pas de ce qui lui revient.
 >
 > Ne fréquente pas les hommes aux paroles tortueuses, car leurs discours ne sont que pour l’apparence.
 >
-> Si tu as un roi juste, ne l’accuse pas de faiblesse d’esprit, car pendant que tu dis qu’il ignore telle chose, il étudie peut-être les paroles des rois an-cime.
+> Si tu as un roi juste, ne l’accuse pas de faiblesse d’esprit, car pendant que tu dis qu’il ignore telle chose, il étudie peut-être les paroles des rois anciens.
 >
-> Quand le roi répand des grâces par l’impul-
-’ sien de son cœur, ne répands pas dans le monde la semence de la perversité.
+> Quand le roi répand des grâces par l’impulsion de son cœur, ne répands pas dans le monde la semence de la perversité.
 >
 > Celui qui méprise mes avis renonce à mes faveurs.
 >
@@ -67,16 +63,16 @@ heur.
 >
 > Ne t’abstiens jamais de faire le bien, parce qu’il coûte de la peine ; ne te réjouis pas de l’injustice et des richesses.
 >
-> Quand tu as atteint le désir de ton cœur, tu es arrivé à ta destination, et tu auras beau placer soixante et dix couronnes sur ta tête, tu laisseras à un ennemi tout ce que tu as accumulé.
+> Quand tu as atteint le désir de ton cœur, tu es arrivé à ta destination et tu auras beau placer soixante et dix couronnes sur ta tête, tu laisseras à un ennemi tout ce que tu as accumulé.
 >
-> Je prends à cœur tout ce qui touche les pauvres cl je n’en détournerai jamaismes pensées.
+> Je prends à cœur tout ce qui touche les pauvres et je n’en détournerai jamais mes pensées.
 >
-> Je de- Ml mande au Tout-Saint, au père nourricier de tous, de m’accorder le bonheur de rendre heureux les pauvres avec mes trésors et de n’allliger jamais le cœur d’un homme pur.
+> Je demande au Tout-Saint, au père nourricier de tous, de m’accorder le bonheur de rendre heureux les pauvres avec mes trésors et de n’affliger jamais le cœur d’un homme pur.
 >
 > Tous ceux qui se posent dans le monde comme des rois sont possédés d’une telle envie de trésors, qu’ils ne pensent plus qu’à l’argent ; mais je les ferai renoncer à leur pouvoir ; je ne veux pas que qui que ce soit veuille devenir le maître d’autrui.
 >
 > Voilà comment je commence et comment je finirai, c’est ce que je dis en public et c’est ma pensée secrète.
 >
-> Que le Créateur vous bénisse, que la voûte du ciel soit comme une autre, terre pour vous !»
+> Que le Créateur vous bénisse, que la voûte du ciel soit comme une autre terre pour vous !
 
 L’assemblée écouta ces paroles, qui firent réfléchir chacun ; la tête des riches se remplit de crainte, le cœur des oppresseurs se fendit, mais l’âme de tous les hommes intelligents et des pauvres fut pleine de bonheur.
