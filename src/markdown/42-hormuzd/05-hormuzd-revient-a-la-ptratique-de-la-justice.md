@@ -13,7 +13,7 @@ order: '005'
 
 A partir de la, tout plaisir disparut de la viol (l’llormuzvl, l’inquiétude lui perçait le cœur connue un aiguillon.
 
-Il restait à lslhakr les trois mois (le 3 l’année où les nuits sont les plus courtes, car la ville étaitbelle et l’air y est transparent et il n’avait aucune envie de quitter ce lieu ; il passait les trois mois d’automne à lsl’ahan, où l’air est bon et où demeuraient les grands ; en hiver, il résidait à Thisiphoun avec son armée, ses Mobeds et ses conseillers et il séjournait au printemps dans les plaines de l’Arwend.
+Il restait à lslhakr les trois mois de 3 l’année où les nuits sont les plus courtes, car la ville étaitbelle et l’air y est transparent et il n’avait aucune envie de quitter ce lieu ; il passait les trois mois d’automne à lsl’ahan, où l’air est bon et où demeuraient les grands ; en hiver, il résidait à Thisiphoun avec son armée, ses Mobeds et ses conseillers et il séjournait au printemps dans les plaines de l’Arwend.
 
 C’est ainsi que se passa quelque temps.
 
@@ -23,7 +23,7 @@ Chaque jour, aussitôt que le voile sombre de la nuit disparaissait et que la mo
 
 > Ô hommes illustres, glorieux et intelligents !
 >
-> Si un champ ensemencé est foulé aux pieds et le culti- vateur alliigé de cette perte, ou si un cheval entre dans un champ de blé, ou si un homme s’introduit dans un verger, il faut couper au cheval la queue et les oreilles et suspendre le voleur par la tête à la potences»
+> Si un champ ensemencé est foulé aux pieds et le cultivateur alliigé de cette perte, ou si un cheval entre dans un champ de blé, ou si un homme s’introduit dans un verger, il faut couper au cheval la queue et les oreilles et suspendre le voleur par la tête à la potences»
 
 Le roi traversait le monde pendant des mais et des années ; rien de ce qui était bon ou.mauvais ne lui restait caché et il rendait si bien la justice dans tous les pays que les Dihkans le bénissaient.
 
@@ -55,7 +55,7 @@ Le roi lui dit :
 
 > Calme-toi et coupe sunlechamp au cheval la queue et les oreilles ; puis il faut calculer combien de dommage a été fait au champ et le faire payer par Khosrou ; que ce soit cent ou sept cents dirima, il faut les verser en monnaie royale, sur ce champ ensemencé, aux pieds du maître de la semencem Lorsque Parwiz fut informé de la sentence, il engagea tous les grands à aller chez son pére pour l’excuser et pour demander qu’il ne fit pas couper les oreilles et la queue à son cheval noir ; mais le roi, fâché de cette affaire du cheval, reçut fort mal ces hommes pleins d’expérience.
 
-Le palefrenier, terrifié par le roi, partit en courant pour le champ, alla vers le jeune cheval et coupa avec son poignard les oreilles et la queue de ce cheval qui avait foulé de ses sabots le champ ensemencé, et Un) Khosrou, selon les ordres du roi, fit payer à l’homme qui avait demandé justice ce qui lui était dû.
+Le palefrenier, terrifié par le roi, partit en courant pour le champ, alla vers le jeune cheval et coupa avec son poignard les oreilles et la queue de ce cheval qui avait foulé de ses sabots le champ ensemencé et Un) Khosrou, selon les ordres du roi, fit payer à l’homme qui avait demandé justice ce qui lui était dû.
 Le roi partit alors pour la chasse, d’où chacun’
 apporta beaucoup de gibier.
 
@@ -82,8 +82,7 @@ Le maître de la vigne dit en voyant la ceinture :
 >
 > C’est moi qui t’oblige en acceptant la ceinture ; car si le roi entente duit parler de tout cela, tu serais un homme mort. v Le roi Hormuzd se rendit illustre par ses victoires, tout le peuple le célébrait pour sa bravoure, car personne ne l’avait jamais vu perdre une bataille ; il était également prêt à accorder et à deman-
 >
-> 
-der ce qui était juste,-el il élevait le diadème des Keïanidesau-dessus de la lune.
+> der ce qui était juste,-el il élevait le diadème des Keïanidesau-dessus de la lune.
 >
 > Il ne demeurait jamais longtemps à Madaïn ; c’était un vaillant et glorieux homme.
 >
