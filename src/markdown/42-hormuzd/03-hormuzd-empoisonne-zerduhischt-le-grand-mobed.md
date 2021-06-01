@@ -27,7 +27,7 @@ Il commença par mettre la main sur lzed Guschasp et le jeta sans raison dans le
 Le cœur du Grand Mobed en fut dans l’angoisse et son chagrin fit pâlir ses joues, car c’était un Mobed et un homme de bonne nature, un sage qui portait le nom de Zerdnhischt.
 
 Ces fers d’lzed Guschasp le scribe le blessaient au cœur, comme s’il eût été frappé d’une flèche. .
-Un jour se passa ; lzed Guschasp n’avait ni serviteur pour avoir soin de lui, ni nourriture, ni vêtements, ni ami consolateur ; il envoya alors de sa prison, à son ami le Grand Mobed, ce message : Ô toi qui es pour moi comme la moelle et la peau, je suis dans la prison du roi, sans serviteur, et personne ne peut venir jusqu’à moi ; j’ai envie de manger, mon estomac est afi’amé, mes peines sont grandes ; fais-moi porter quelque nourriture convenable ; et si je meurs, envoie du linge et quel- M3 qu’un pour coudre mon linceul.»
+Un jour se passa ; lzed Guschasp n’avait ni serviteur pour avoir soin de lui, ni nourriture, ni vêtements, ni ami consolateur ; il envoya alors de sa prison, à son ami le Grand Mobed, ce message : Ô toi qui es pour moi comme la moelle et la peau, je suis dans la prison du roi, sans serviteur et personne ne peut venir jusqu’à moi ; j’ai envie de manger, mon estomac est afi’amé, mes peines sont grandes ; fais-moi porter quelque nourriture convenable ; et si je meurs, envoie du linge et quel-M3 qu’un pour coudre mon linceul.»
 
 Le cœur du Mobed fut chagrin de ce douloureux message et du lieu où lzed Guschasp se trouvait ; il répondit :
 
@@ -47,8 +47,7 @@ Lorsque le gardien de la prison le vit, sa terreur fut si grande que toute coule
 
 Levieillard mit pied à terre en pleurant et entra dans la prison d’lzed Guschasp ; ils se serrèrent dans leurs bras, le cœur plein de douleur, les cils de leurs yeuxsemblables à un nuage de printemps et parlèrent du mauvais caractère du roi jusqu’à ce qu’ils n’eu’ssent plus rien à se dire.
 
-On plaça une table devant Ized Guschasp, ils prirent silencieusement le Barsom en main, puis lzed Guschasp 
-au
+On plaça une table devant Ized Guschasp, ils prirent silencieusement le Barsom en main, puis lzed Guschasp au
 énonça, en murmurant comme s’il priait, ses dernières volontés et le Mobed l’écouta pendant qu’il lui parlait de son argent, de ses trésors accumulés, de son palais, de sa salle d’audience et de ce qu’il avait de précieux. p Ensuite, il dit au Mobed :
 
 > Ô toi qui recherches une bonne renommée !
@@ -90,7 +89,7 @@ Le Mobed répondit :
 
 Hormuzd lui dit :
 
-> Je jure par le soleil et la. lune, par l’âme pure du ’roi, maître du monde. que tu prendras ce morceau de mes doigts et que tune m’hnmilicras pas on refusant de me com- plaire : n
+> Je jure par le soleil et la. lune, par l’âme pure du ’roi, maître du monde. que tu prendras ce morceau de mes doigts et que tune m’hnmilicras pas on refusant de me complaire : n
 
 Le Mobed dit :
 
@@ -113,7 +112,9 @@ L’œil du Mobed tomba sur l’émissaire et ses larmes coulèrent à travers l
 >
 > Dorénavant tu ne te coucheras plus en sécurité contre un malheur, car tu es livré à la justice qui viendra de Dieu.
 >
-> Je prends congé de toi, ô méchant homme ; tes mauvaises actions vont te porter malheur. a L’homme de confiance du roi partit en pleurant et rapporta cette réponse à Hormuzd.
+> Je prends congé de toi, ô méchant homme ; tes mauvaises actions vont te porter malheur.»
+
+L’homme de confiance du roi partit en pleurant et rapporta cette réponse à Hormuzd.
 >
 > Le roi se repentit de ce qu’il avait fait et se tordit en entendant ces paroles de vérité ; il ne voyait pas moyen d’échapper aux peines qui l’attendaicnt et exhala de sa poitrine beaucoup de soupirs.
 >
