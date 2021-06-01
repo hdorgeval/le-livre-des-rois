@@ -21,10 +21,9 @@ Lorsque la nuit fut devenue profonde, il le fit appeler, le fit s’accroupir de
 
 Quand le soleil brillera à la voûte du ciel et quand la cime de la montagne sera devenue comme le dos d’une cuirasse, tu viendras avec les grands de l’Iran et tu te placeras devant mon trône ; je te ferai alors des questions sur Simah Berzin et toi, en me répondant, garde-toi d’hésiter.
 
-Je te demanderai quel homme c’est que ton ami, s’il est méchant ou un adorateur de Dieu, et tu me répondras que c’est un méchant homme, malveillant et de la race d’Ahriman.
+Je te demanderai quel homme c’est que ton ami, s’il est méchant ou un adorateur de Dieu et tu me répondras que c’est un méchant homme, malveillant et de la race d’Ahriman.
 
-Ensuite tu me bb
-demanderas tout ce que tu voudras, des esclaves et un sceau, un trône et un diadèmem Bahram répondit :
+Ensuite tu me bb demanderas tout ce que tu voudras, des esclaves et un sceau, un trône et un diadèmem Bahram répondit :
 
 > Je le ferai et dirai cent fois plus de mal de lui que tu ne le demandeSm C’est ainsi.que le roi cherchait un prétexte de priver de toute sympathie Simah, qui était issu d’une grande famille et avait été un des favoris de son père, cette lumière du monde ; il quittait la voie de la droiture et se jetait dans les ruses, tissant ainsi lui-même le tapis de sa fortune sombre.
 
@@ -69,8 +68,7 @@ Bahram Adermihan lui répondit :
 >
 > Toi seul as
 >
-> 
-1.
+> 1.
 a déclaré que Hormuzd était digue du trône et maintenant tu es dignement récompensé de ce que tu as fait.
 >
 > C’est pour cela que j’ai rendu témoignage contre toi et que ma bouche t’a prodigué l’injure»
@@ -91,8 +89,7 @@ Lorsque Bahram Adermihan eut appris que cet homme au cœur par avait disparu, il
 
 Hormuzd reçut ce message et choisit parmi ses serviteurs un homme de confiance pour conduire Bahram auprès de lui, pour l’amener à sa cour illustre.
 
-Il lit appeler Bahram dans la nuit sombre. 
- !
+Il lit appeler Bahram dans la nuit sombre. !
 
 Lui fit de longs discours en paroles douces et lui dit :
 
@@ -100,7 +97,7 @@ Lui fit de longs discours en paroles douces et lui dit :
 
 Bahram répondit :
 
-> serai vu dans le trésor du roi une boîte noire, fort simple ; dans cette boîte est placé un coffret qui contient un écrit en langue perse, tracé sa ; du satin blanc, et c’est là-dessus que l’espoir des Iraniens repose ; il faut donc que tu examines cet écrit de ton père, le roi maître du monde.»
+> serai vu dans le trésor du roi une boîte noire, fort simple ; dans cette boîte est placé un coffret qui contient un écrit en langue perse, tracé sa ; du satin blanc et c’est là-dessus que l’espoir des Iraniens repose ; il faut donc que tu examines cet écrit de ton père, le roi maître du monde.»
 
 Lorsque Hormuzd eut entendu ce récit, il envoya chez son Destour, toujours prêt à le servir et lui fit dire :
 
@@ -122,7 +119,7 @@ La lettre disait :
 race, semblable à un Ahriman ; l’armée du roi dispersera de tous les côtés et son ennemi le précipitera du trône ; ce méchanthomme lui brûlera les deux yeux et ensuite on le privera de la vie.»
 
 .
-Hormuzd regarda cette lettre écrite de la main de son père ; il en [ut épouvanté et déchira la pièce de , soie ; ses yeux se remplirent de larmes de sang, son visage pâlit et il dit à Bahram :
+Hormuzd regarda cette lettre écrite de la main de son père ; il en [ut épouvanté et déchira la pièce de, soie ; ses yeux se remplirent de larmes de sang, son visage pâlit et il dit à Bahram :
 
 > Ô scélérat !
 >
