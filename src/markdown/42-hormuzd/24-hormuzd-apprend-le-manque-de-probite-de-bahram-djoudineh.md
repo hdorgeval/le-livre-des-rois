@@ -13,9 +13,11 @@ order: '024'
 
 Pendant ce temps arriva un vigoureux dromadaire avec une lettre du Grand Scribe, disant :
 
-> LE LIVRE DES liOlS. a Puisse le roi du monde vivre éternellement, puisse sa tête couronnée se souvenir de son serviteur !
+> LE LIVRE DES liOlS.»
+
+Puisse le roi du monde vivre éternellement, puisse sa tête couronnée se souvenir de son serviteur !
 >
-> CSache qu’il y avait deux pièces d’étoile du Yemeu , des bottinesbrodées de perles Fraîches et des boucles d’oreilles provenant du noble Siawusch, dont a nos âmes vénèrent le souvenir ; le Pehlewan a emporté d’ici tout cela, mais il ne faut pas s’en étonnuer, car il avait supporté bien des fatigues.»
+> CSache qu’il y avait deux pièces d’étoile du Yemeu, des bottinesbrodées de perles Fraîches et des boucles d’oreilles provenant du noble Siawusch, dont a nos âmes vénèrent le souvenir ; le Pehlewan a emporté d’ici tout cela, mais il ne faut pas s’en étonnuer, car il avait supporté bien des fatigues.»
 
 Hormuzd, qui cherchait une bonne renommée, demanda au petit roi Parmoudeh de lui raconter en détail tout ce qu’il savait là-dessus et celui-ci rapporta tout de la même manière.
 
@@ -35,8 +37,7 @@ Hormuzd dit au Khakan :
 
 Le roi lui dit :
 
-> Prête-moi un nouveau ser-. 
- t ment, mets toute cette allaire sur un autre pied ; jure par Dieu qui est au-dessus de tout ce qui est grand, qui fait briller Vénus et Jupiter, que, de retour dans ton pays, tu ne te détourneras ni de ce moi ni des grands de ma cour.»
+> Prête-moi un nouveau ser-. t ment, mets toute cette allaire sur un autre pied ; jure par Dieu qui est au-dessus de tout ce qui est grand, qui fait briller Vénus et Jupiter, que, de retour dans ton pays, tu ne te détourneras ni de ce moi ni des grands de ma cour.»
 
 Ils firent alors un serment solennel, par Dieu le toutwsaint, par la vie des grands, par la couronne et le trône, par le soleil et la lune, par Adergouschasp, par le sceau et le diadème, que le Khakan resterait fidèle au roi et que celui-ci ne l’alliigerait jamais en rien.
 
