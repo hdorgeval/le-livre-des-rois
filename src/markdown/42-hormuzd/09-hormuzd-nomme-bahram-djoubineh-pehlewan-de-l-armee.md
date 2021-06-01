@@ -17,13 +17,15 @@ Il donna à Bahram le commandement de ses troupes et éleva jusqu’aux nues sa 
 
 Le Sipehbed se présenta devant le roi dans son armure de combat et lui dit :
 
-> a Le roi me permet-il que je passe une revue pour con- naître le nombre de : hommes et pour voir qui, parmi eux, est propre à la guerre ou qui se fera attendre au moment ou il s’agira d’acquérir de la gloire?»
+> a Le roi me permet-il que je passe une revue pour connaître le nombre de : hommes et pour voir qui, parmi eux, est propre à la guerre ou qui se fera attendre au moment ou il s’agira d’acquérir de la gloire?»
 
 Le roi lui dit :
 
-> Tu es le chef de l’armée, c’est. de toi que dépend notre fortune, bonne ou mauvaise. a Le Sipehbed partit pour le lieu des revues et fil passer devant lui les troupes.
+> Tu es le chef de l’armée, c’est. de toi que dépend notre fortune, bonne ou mauvaise.»
 
-Il choisit une armée parmi les Iraniens, pour laquelle il prit tous les meilleurs cavaliers et l’on écrivit les noms de douze mille cavaliers armésde cottes de mailles et montés sur des chevaux caparaçonnés ; mais on ne comprit nounou). - dans les rôles que des hommes de quarante ans et l’on refusa ceux qui étaient plus âgés ou plus jeunes.
+Le Sipehbed partit pour le lieu des revues et fil passer devant lui les troupes.
+
+Il choisit une armée parmi les Iraniens, pour laquelle il prit tous les meilleurs cavaliers et l’on écrivit les noms de douze mille cavaliers armésde cottes de mailles et montés sur des chevaux caparaçonnés ; mais on ne comprit nounou). -dans les rôles que des hommes de quarante ans et l’on refusa ceux qui étaient plus âgés ou plus jeunes.
 
 Bahram fils de Bahram était commandant en chef et homme célèbre par sa bravoure.
 
@@ -45,7 +47,7 @@ Dès qu’il s’agit de combattre, r : il faut que ni les chevaux ni les hommes
 
 Lorsque le roi apprit comment Bahram préparait tout avec intelligence, il fut heureux de ses discours et de ses actes ; il ouvrit son trésor et paya la solde ; il remit de même à Bahram ses magasins d’agmes et en ouvrit les portes ; il fit venir en ville quelques troupeaux de chevaux de guerre qu’il avait sur les pâturages et ordonna au Pehlewan de lui demander tout ce qu’il fallait.
 
-Il ajouta : Tu as vu des combats de toute espèce et tu as entendu parler de la quantité d’armes et d’hommes que l’illustre Saweh possède ; tu me qu’au jour du combat les Turcs feront trembler le sol du champ de bataille, et pourtant tu n’as choisi dans mon armée que douze mille cavaliers couverts de cottes de mailles et mon- tés sur des chevaux caparaçonnés.
+Il ajouta : Tu as vu des combats de toute espèce et tu as entendu parler de la quantité d’armes et d’hommes que l’illustre Saweh possède ; tu me qu’au jour du combat les Turcs feront trembler le sol du champ de bataille et pourtant tu n’as choisi dans mon armée que douze mille cavaliers couverts de cottes de mailles et montés sur des chevaux caparaçonnés.
 
 Je ne comprends pas comment tu pourras agir avec si peu de monde au jour de la bataille, d’autant plus qu’au lieu d’hommes jeunes, prêts à frapper de l’épée, tu n’as choisi que des hommes de quarante anse Le Sipehbed répondit :
 
