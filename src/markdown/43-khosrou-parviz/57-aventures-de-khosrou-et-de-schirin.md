@@ -26,9 +26,11 @@ Dorénavant mon œuvre me rappellera au roi et j’espère que la semence de mes
 Puissent son diadème et son trône être éternels et sa fortune être plus brillante que le soleil !
 un.
 2
-Voici ce que dit un vieux et savant Dihkan : C’est le savoir qui vient en aide à l’homme ; il faut accepter le chagrin et la joie,il faut goûter de toute amertume et de toute mauvaise saveur.
+Voici ce que dit un vieux et savant Dihkan :
 
-La jeunesse si riche et si bien née qu’elle soit, n’acnqniert pas de mérite sans efforts ; c’est en s’essayant qu’on fait paraître le mérite et qu’on trouve la clef de toutes les affaires.»
+> C’est le savoir qui vient en aide à l’homme ; il faut accepter le chagrin et la joie,il faut goûter de toute amertume et de toute mauvaise saveur.
+>
+> La jeunesse si riche et si bien née qu’elle soit, n’acnqniert pas de mérite sans efforts ; c’est en s’essayant qu’on fait paraître le mérite et qu’on trouve la clef de toutes les affaires.»
 
 Lorsque Parviz était un jeune homme sans peur, que son père vivait encore et que le fils menait la vie de Pehlewan, il avait pour amie Schirin, qui lui était chère comme son œil brillant ; il n’y avait qu’elle dans le monde qui pût lui plaire parmi toutes les belles et les filles des grands.
 
