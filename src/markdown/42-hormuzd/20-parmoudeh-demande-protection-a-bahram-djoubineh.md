@@ -18,24 +18,26 @@ Bahram dit :
 
 Il ordonna à Yelan Sineh de choisir dans son camp trois mille cavaliers et à Ized Guschasp de faire monter à cheval quatre mille héros de cette vaillante armée et de frapper à la nuque sans aucun délai tous les Hollaliem qu’ils rencontreraient, dans l’espoir de faire sortir le roi de sa forteresse quand il verrait toute la plaine changée en un torrent de sang.
 
-Il demeura ainsi pendant trois jours devant la porte du château, et le quatrième, quand le soleil qui éclaire le monde parut dans sa splendeur, il envoya un messager à Parmoudeh, le chef de ce pays et de cette tribu, et lui fit dire :
+Il demeura ainsi pendant trois jours devant la porte du château et le quatrième, quand le soleil qui éclaire le monde parut dans sa splendeur, il envoya un messager à Parmoudeh, le chef de ce pays et de cette tribu et lui fit dire :
 
 > Ô chef et roi des Turcs et de la Chine !
-
-Pourquoi préfères-tu ce château au monde entier ?
-
-Qu’est devenue l’ambition de Saweh de conquérir le monde, où sont ses trésors et son pouvoir ?
-
-Où sont tous ces éléphants bardés de fer, où ces grands à l’esprit lucide?-Où sont Ces tours de magie et d’incantation, pour que tu te tiennes enfermé de cette façon ?
-
-Tous les pays des Turcs ne lui suffisaient pas ; jamais il n’y a eu un homme comme
+>
+> Pourquoi préfères-tu ce château au monde entier ?
+>
+> Qu’est devenue l’ambition de Saweh de conquérir le monde, où sont ses trésors et son pouvoir ?
+>
+> Où sont tous ces éléphants bardés de fer, où ces grands à l’esprit lucide?-Où sont Ces tours de magie et d’incantation, pour que tu te tiennes enfermé de cette façon ?
+>
+> Tous les pays des Turcs ne lui suffisaient pas ; jamais il n’y a eu un homme comme
 . ton père et toi tu es assis dans un château comme une femme, te frappant les joues avec tes deux mains sanglantes.
+>
+> Ouvre la porte, demande grâce. tr appelle-moi ton prolecteuranprès du roi du monde.
+>
+> Envoie hors du château tes trésors d’or, enroie sur la plaine toutes les caisses d’argent, ou, si tu veux garder tss trésors, tu ne conserveras pas le pays, sur un roi doit mépriser l’or.
+>
+> Je suis ton intermédiaire à la cour du roi, car je suis le héros du pays de l’Iran ; je te ferai grand au-dessus de tous les grands ; je ferai pour toi plus que tu ne penses et ne désires et si tu as un plan. qui puisse aider à, rendre brillantes tes affaires embrouiilées, dévoile-le et confie-le-moi ; et puisque la position est telle, ne cherche pas à la prolonger.-Mais si tu as quelques amis qui veulent faire la guerre, si tu as beaucoup de trésors et d’or, alors fais battre les timbales, recommence les combats. car quand on a de l’argent on ne manque jamais de troupes.»
 
-Ouvre la porte, demande grâce. tr appelle-moi ton prolecteuranprès du roi du monde.
-
-Envoie hors du château tes trésors d’or, enroie sur la plaine toutes les caisses d’argent, ou, si tu veux garder tss trésors, tu ne conserveras pas le pays, sur un roi doit mépriser l’or.
-
-Je suis ton intermédiaire à la cour du roi, car je suis le héros du pays de l’Iran ; je te ferai grand au-dessus de tous les grands ; je ferai pour toi plus que tu ne penses et ne désires et si tu as un plan. qui puisse aider à, rendre brillantes tes affaires embrouiilées, dévoile-le et confie-le-moi ; et puisque la position est telle, ne cherche pas à la prolonger.-Mais si tu as quelques amis qui veulent faire la guerre, si tu as beaucoup de trésors et d’or, alors fais battre les timbales, recommence les combats. car quand on a de l’argent on ne manque jamais de troupes. n L’envoyé arriva et transmit son message ; Parmoudeh, qui cherchait à atteindre son but, répondit :
+L’envoyé arriva et transmit son message ; Parmoudeh, qui cherchait à atteindre son but, répondit :
 
 > Dis-lui :
 
