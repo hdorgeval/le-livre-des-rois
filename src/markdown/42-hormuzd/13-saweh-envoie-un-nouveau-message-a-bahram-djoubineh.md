@@ -37,7 +37,9 @@ lui dit :
 >
 > Quant à ton propre sort, il est clair pour mon esprit qu’il est dans ma main.
 >
-> Si je fais avancer aman armée, elle empêchera les fourmis et les mou- l chas de passer ; ensuite j’ai mille éléphants couverts d’armures, devant l’odeur desquels les sitevaux des cavaliers s’enfuiront.
+> Si je fais avancer aman armée, elle empêchera les fourmis et les mou- !
+>
+> Chas de passer ; ensuite j’ai mille éléphants couverts d’armures, devant l’odeur desquels les sitevaux des cavaliers s’enfuiront.
 >
 > Qui, dans le Touran ou dans l’Iran, oserait se présenter devant moi espérant me mettre dans la peine par son arrivée ?
 >
@@ -62,9 +64,10 @@ tu donc pas de pitié pour toi-même ?
 >
 > Je dis tout cela, parce que je t’ai pris en gré ; tu as commencé glorieusement cette ollaire, tu sais manier une armée, tu connais les ruses de guerre ; ton père et ton grand-père ont été des chefs d’armée.
 >
-> Je ne parle l J2.
+> Je ne parle !
 >
-> 
-pas ainsi par artifice, je veux te faire du bien.
+> J2.
+>
+> pas ainsi par artifice, je veux te faire du bien.
 >
 > Tu as préparé aujourd’hui avec une si petite armée un champ de bataille en face de moi et tu ne recevras plus d’autres messages de moi, si tu refuses de le rendre à mon désir.»
