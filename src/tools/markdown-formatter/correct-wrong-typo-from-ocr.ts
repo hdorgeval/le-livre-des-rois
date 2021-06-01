@@ -255,6 +255,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Tonte /g, 'Toute '),
     (content: string) => content.replace(/Zabonlistan/g, 'Zaboulistan'),
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
+    (content: string) => content.replace(/allliger/g, 'affliger'),
     (content: string) => content.replace(/Souferaî/g, 'Souferaï'),
   ].forEach((format) => {
     result = format(result);
