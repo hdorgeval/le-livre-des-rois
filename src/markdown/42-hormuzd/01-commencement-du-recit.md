@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 437
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
-tags: []
+tags: ['chrysoprases', 'Hormuzd', 'Jupiter', 'Kaweh', 'Printemps', 'Tammouz']
 order: '001'
 ---
 
