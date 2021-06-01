@@ -31,9 +31,9 @@ Puis Parmo’udeh vit des troupes telles que le désert tremblait à leur aspect
 
 Quand il fut rentré dans l’enceinte de ses tentes, il tint un conseil de guerre et dit :
 
-> Ceci est une des plus grandes entreprises, car quoique cette armée soit peu nombreuse, ce sont des cavaliers et des chevaux magnin-fiques et ils occupent le premier rang parmi les guerriers les plus tiers. lis sont bien armés et ont pour chef Bahram, pour lequel les pointes des lances ne sont que comme des épines et de mau vaises herbes et qui est plein d’orgueil d’avoir vaincu le roi Saweh et ivre de sang.
+> Ceci est une des plus grandes entreprises, car quoique cette armée soit peu nombreuse, ce sont des cavaliers et des chevaux magninfiques et ils occupent le premier rang parmi les guerriers les plus tiers. lis sont bien armés et ont pour chef Bahram, pour lequel les pointes des lances ne sont que comme des épines et de mau vaises herbes et qui est plein d’orgueil d’avoir vaincu le roi Saweh et ivre de sang.
 >
-> Mais si le Créa- leur me vient en aide, je vengerai la mort de mon tr père, mon ennemi fûti1 une montagne.»
+> Mais si le Créa-leur me vient en aide, je vengerai la mort de mon tr père, mon ennemi fûti1 une montagne.»
 
 ’
 Du temps que Bahram était entré en campagne et avait quitté l’Iran, marchant contre les Turcs, un astrologue lui avait dit :
@@ -74,8 +74,7 @@ Arrivé près du camp un, il fit monter le son des clairons jusqu’à la lune.
 
 Lorsque retentit au milieu de la nuit ce son des trompettes, les cavaliers turcs se levèrent soudain, ils se levèrent de tous côtés dans les ténèbres à l’aile droite et à l’aile gauche de l’armée, mais ils ne se reconnaissaient pas l’un l’autre au milieu de l’obscurité et de ces longues lances.
 
-On fit sortir des épées des lammes qui brûlaient l’air et la terre ; il ne resta pas beaucoup de vaillants Turcs et le sang rendit les pierres semblables au corail. 
- 5H Le roi s’enfuit rapidement commeila poussière, la bouche sèche, les lèvres bleues ; il courut ainsi jus--qu’à ce que l’aurore se fût montrée dans sonéclat et que la nuit sombre eût retiré le pan de sa robe ; alors le Sipehdar iranien atteignit les Turcs et fit entendre un cri comme celui d’un lion terrible.
+On fit sortir des épées des lammes qui brûlaient l’air et la terre ; il ne resta pas beaucoup de vaillants Turcs et le sang rendit les pierres semblables au corail. 5H Le roi s’enfuit rapidement commeila poussière, la bouche sèche, les lèvres bleues ; il courut ainsi jus--qu’à ce que l’aurore se fût montrée dans sonéclat et que la nuit sombre eût retiré le pan de sa robe ; alors le Sipehdar iranien atteignit les Turcs et fit entendre un cri comme celui d’un lion terrible.
 
 Il dit à Parmoudeh :
 
