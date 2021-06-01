@@ -49,8 +49,9 @@ On compta à l’aile droite trois mille cavaliers, couverts de cottes de maille
 
 Bahram envoya le même nombre de vaillants cavaliers et d’hommes de guerre à l’aile gauche.
 
-Il avait à sa droite Ized Guschasp, qui traversait les fleuves à cheval ; à sa gauche était Kunda Guschasp, un adorateur d’Adergo’uschasp ; à l’arrièregarde Yelan Sineh, avec une treupe qui ne devait entrer que tard dans la mêlée ; au centre était Hamdan Guschasp, dont le cheval aurait pu embraser les roseaux avec les fers de ses sabots ; chacun avait sous lui trois mille héros, des cavaliers vaillants, au cœur de pierre. 
- On fit devant l’armée cette proclamation :
+Il avait à sa droite Ized Guschasp, qui traversait les fleuves à cheval ; à sa gauche était Kunda Guschasp, un adorateur d’Adergo’uschasp ; à l’arrièregarde Yelan Sineh, avec une treupe qui ne devait entrer que tard dans la mêlée ; au centre était Hamdan Guschasp, dont le cheval aurait pu embraser les roseaux avec les fers de ses sabots ; chacun avait sous lui trois mille héros, des cavaliers vaillants, au cœur de pierre.
+
+On fit devant l’armée cette proclamation :
 
 > Ô vous armés de lances et de casques d’or !
 >
@@ -61,12 +62,14 @@ Il y avait deux routes qui conduisaient à son camp, par lesquelles on pouvait s
 Le Grand Scribe du roi des rois s’approcha du Pehlewan de l’armée et lui dit :
 
 > Tu n’es pas assez fort pour cela et si tu veux calculer, tu verras que ce n’est pas sensé.
+>
+> Regarde donc les armées sur ce champ de bataille, nous ne sommes que comme un poil blanc sur la robe d’un bœuf noir.
+>
+> L’Iran deviendra dans cette guerre comme un enfer et tout notre paysyse changera en désert.
+>
+> On ne voit ni la terre, ni l’eau, ni la montagne, tant il ya de Touraniens armés d’épées.»
 
-Regarde donc les armées sur ce champ de bataille, nous ne sommes que comme un poil blanc sur la robe d’un bœuf noir.
-
-L’Iran deviendra dans cette guerre comme un enfer et tout notre paysyse changera en désert.
-
-On ne voit ni la terre, ni l’eau, ni la montagne, tant il ya de Tou- raniens armés d’épées. n Bahram poussa des cris violents et lui dit :
+Bahram poussa des cris violents et lui dit :
 
 > Ô homme lâche et d’une triste fortune !
 >
@@ -80,7 +83,7 @@ Le scribe s’approcha de Kharrad Benin et lui dit :
 
 Les deux vieillards cher-A obèrent un chemin pour s’enfuir et pour échapper à la destruction ; les deux scribes se mordaient les lèvres de peur d’un côté du roi des rois, de l’autre de la pluie de flèches.
 
-Or il y avait une hanteur escarpée, loin du champ de bataille et écartée de la route des cavaliers touraniens ; ils y montèrent tous les deux, parce que l’on pouvait de la observer les armées, et ils attachèrent leurs yeux sur les Turcs et sur Bahram, pour voir comment il se comporterait à l’heure du combat.
+Or il y avait une hanteur escarpée, loin du champ de bataille et écartée de la route des cavaliers touraniens ; ils y montèrent tous les deux, parce que l’on pouvait de la observer les armées et ils attachèrent leurs yeux sur les Turcs et sur Bahram, pour voir comment il se comporterait à l’heure du combat.
 
 Quand le vaillant Bahram eut mis en.ordre son armée, il quitta dans une grande émotion le champ de bataille et se roula dans la poussière devant Dieu, disant :
 
