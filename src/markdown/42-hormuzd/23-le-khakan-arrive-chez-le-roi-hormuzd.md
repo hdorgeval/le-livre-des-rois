@@ -34,8 +34,7 @@ Le roi chargea de toute cette affaire un de ses scribes et lorsqu’il entendit 
 Lorsque le Khakan se fut reposé pendant une semaine des fatigues de la route, le roi ordonna pour le huitième jour un banquet, Le Khakan, assis à une table devant le roi maître du. monde et occupant la a place d’honneur, lit apporter à dos d’hommes devant
 2 les grands les charges des chameaux et quelqu’un a compta le nombre des porteurs et trouva qu’on en L avait. payé ce jourlà dix mille.
 
-Le lendemain, à l’aube du jour. le roi fit placer du vin sur les tables v et s’assit ; en apporta ce jourlà cinquante mille objets, et le labeur était dur pour le dos des hommes de l
-l
+Le lendemain, à l’aube du jour. le roi fit placer du vin sur les tables v et s’assit ; en apporta ce jourlà cinquante mille objets et le labeur était dur pour le dos des hommes de l l
 i
 peine.
 
@@ -43,7 +42,7 @@ On avait enlevé d’Awazeh cent trésors et l’esprit. de Parmoudeh était tou
 
 Il fit apporter devant la cour un paquet de vêtements et des boucles d’oreilles et des ceintures ornées de Pierreries ; on aurait dit que tout l’or et tous les joyaux de la terre s’y trouvaient.
 
-Toute la salle du banquet retentit du cri : Puisse le maître du monde être toujours victorienx!»
+Toute la salle du banquet retentit du cri : Puisse le maître du monde être toujours victorienx !»
 
 Le roi dit alors à Ized Guschasp, pour lequel il n’avait pas de secrets :
 
