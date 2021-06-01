@@ -16,7 +16,7 @@ Lorsque le Pehlewan eut reçu cette lettre, le cœur du héros illustre rajeunit
 Il étala les présents du roi et tous ceux qui les virent bénirent Hormuzd.
 
 Bahram fit connaître
--auxflIraniens tout ce que la lettre contenait sur aux ; et il s’élcva de la salle d’audience un tel cri de bé- nédiction qu’on aurait dit que la terre en tremblait.
+-auxflIraniens tout ce que la lettre contenait sur aux ; et il s’élcva de la salle d’audience un tel cri de bénédiction qu’on aurait dit que la terre en tremblait.
 
 Il envoya au château de,Parmoudeh la belle lettre de prMection qui était arrivée de la part du roi et elle illumina de joie l’âme sombre de ce prince.
 
@@ -40,7 +40,7 @@ Parmoudeh lui dit :
 >
 > Que me veuxtu Le LIVRE pas nons. maintenant, puisque je t’ai livré mon trône, mon lieu de repos et mes richesses?»
 
-Bahram se mit en colère, ses yeux s’injectèrent de sang, les paroles de Parmoudeh l’exaspérèrent, et dans sa fureur il le frappa avec un fouet, comme le font des vilains.
+Bahram se mit en colère, ses yeux s’injectèrent de sang, les paroles de Parmoudeh l’exaspérèrent et dans sa fureur il le frappa avec un fouet, comme le font des vilains.
 
 On chargea à l’instant les pieds de Parmoudeh de fers et on l’enferma dans une tente étroite.
 
@@ -56,13 +56,13 @@ Il se rendit auprès du Grand Scribe et lui dit :
 
 Les deux hommes se rendirent auprès de Bahram, la langue pleine de conseils, le visage sombre et lui dirent :
 
-> Tu as donné au vent les fruits de toutes ces fatigues ; il ne faut pas que la tête d’un grand soit remplie du feu de la colères , Bahram reconnut qu’il avait fait une action vile et qu’il avait jeté dans l’eau la brique séchée ; il se repentit, fit ôter les fers à Parmoudeh et se frappa la tête de ses mains, honteux de ce qu’il avait fait ; il lui envoya un cheval avec une bride d’or et une épée indienne à fourreau d’or.
+> Tu as donné au vent les fruits de toutes ces fatigues ; il ne faut pas que la tête d’un grand soit remplie du feu de la colères, Bahram reconnut qu’il avait fait une action vile et qu’il avait jeté dans l’eau la brique séchée ; il se repentit, fit ôter les fers à Parmoudeh et se frappa la tête de ses mains, honteux de ce qu’il avait fait ; il lui envoya un cheval avec une bride d’or et une épée indienne à fourreau d’or.
 
-Il se rendit en même temps chez lui, pour faire revenir la sérénité dans son âme troublée et resta avec lui jusqu’à ce qu’il eût repris ses armes et fût monté sur un cheval ar- lent.
+Il se rendit en même temps chez lui, pour faire revenir la sérénité dans son âme troublée et resta avec lui jusqu’à ce qu’il eût repris ses armes et fût monté sur un cheval arlent.
 
-Ensuite le Sipehhed l’accompagna sur la route. et il vit que le visage du roi n’était pas calme ; au . noment de prendre bongé de lui, il dit :
+Ensuite le Sipehhed l’accompagna sur la route et il vit que le visage du roi n’était pas calme ; au . noment de prendre bongé de lui, il dit :
 
-> Tu m’en Mieux dans ton .âme ; mais, s’il en est ainsi, ne le r dis pas au roi d’Iran, car tu ne tirerais aucun hou- nenr de cette affaire.»
+> Tu m’en Mieux dans ton .âme ; mais, s’il en est ainsi, ne le r dis pas au roi d’Iran, car tu ne tirerais aucun hounenr de cette affaire.»
 
 Le Khakan lui dit :
 
@@ -113,8 +113,7 @@ Bahram pâlit en entendant ces paroles ; Kliarrad Berzin le regarda et craignit 
 >
 > Le Khakan a parlé avec droiture ; écoutecle et ne le laisse pas aller à de mauvaises pensées.
 >
-> Si r : vous ne vous étiez pas parlé avec tant de froideur, 
- ni lui ni toi n’auriez éprouvé tant de peines.»
+> Si r : vous ne vous étiez pas parlé avec tant de froideur, ni lui ni toi n’auriez éprouvé tant de peines.»
 
 Babram lui répondit :
 
@@ -140,8 +139,7 @@ Ce chef éprouvé dans les batailles dit aux grands dont les intentions étaient
 
 > Quo Kharrad Bénin et ces hommes intelligents, le Grand r : Scribe cl. les autres Mobeds écrivent au roi du monde du").
 >
-> 
-une lettre sur tout ce qui s’est passé en public et en secret.»
+> une lettre sur tout ce qui s’est passé en public et en secret.»
 
 Ensuite le Sipehhed dit dans sa colère au Grand Mobed et aux Mobeds :
 
