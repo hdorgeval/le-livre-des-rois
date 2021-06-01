@@ -15,7 +15,7 @@ De son côté, Kharrad Berzin chemina en secret et en toute hâte jusqu’à ce 
 
 Il lui raconta tout ce qu’il avait à dire,il lui dévoila tous les secrets.
 
-À la fin il conta toute l’histoire de la’ forêt et de la prairie, de l’arrivée de l’onagre, du défilé, de la tranquillité de Bahram et de sa lenteur, du palais et du trône incrusté de pierreries, des esclaves et de la femme qui portait une couronne ; il dit de point en point ce qu’il avait vu et. tout ce qu’il avait entendu de cette affaire.
+À la fin il conta toute l’histoire de la’ forêt et de la prairie, de l’arrivée de l’onagre, du défilé, de la tranquillité de Bahram et de sa lenteur, du palais et du trône incrusté de pierreries, des esclaves et de la femme qui portait une couronne ; il dit de point en point ce qu’il avait vu et tout ce qu’il avait entendu de cette affaire.
 
 Le roi resta confondu ; chaque mot qu’il entendit se grava dans son cœur.
 
@@ -69,7 +69,7 @@ Bahram ouvrit le couvercle de la corbeille et vit les pointes brisées de ces lo
 
 Cet homme, dont le jugement était déjà troublé, devint plein de soucis ; il envoya appeler les 5M Iraniens, les fit tous asseoir autour de la corbeille ; et leur dit :
 
-> Regardez ce cadeau du roi et ne l’es- timez pas pour peu de chose ; il veut dire que cette armée est sans valeur ; les pointes brisées des épées h sont la preuve de ce que je dis.»
+> Regardez ce cadeau du roi et ne l’estimez pas pour peu de chose ; il veut dire que cette armée est sans valeur ; les pointes brisées des épées h sont la preuve de ce que je dis.»
 
 Les hommes de guerre furent consternés de ce que le roi avait fait et des paroles du Pehlewan de l’armée ; ils dirent :
 
@@ -87,8 +87,7 @@ Le Sipehhed écouta leurs discours et voyant que le cœur de l’armée s’éta
 
 Il parla ainsi, mais son but était tout autre ; fais attention et tu en seras étonné.
 
-Il tenta l’armée de 
-au
+Il tenta l’armée de au
 toute manière, car dans son cœur il craignait les troupes.
 
 Il dispersa des cavaliers par tout le pays pour qu’ils ne laissassent passer aux Iraniens aucune lettre du roi, dont l’effet aurait été de les empêcher de prendre les armes contre lui.
