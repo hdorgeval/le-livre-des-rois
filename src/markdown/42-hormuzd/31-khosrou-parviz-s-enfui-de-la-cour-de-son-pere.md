@@ -25,7 +25,7 @@ Le messager partit pour Thisifoun et Bahram dit au inarchnnd :
 
 > Quand Hormuzd verra l’empreinte de ce coin sur les dirhems, il se tordra de douleur et quand Khosrou ne sera plus son ami ni son soutien, je lui préparerai un sort terrible.
 >
-> Quand j’aurai répandu mes grâces sur le monde, j’arra- cherai jusqu’aux racines la race de Sasan.
+> Quand j’aurai répandu mes grâces sur le monde, j’arracherai jusqu’aux racines la race de Sasan.
 >
 > Ce n’est pas pour elle que Dieu a créé le monde et le temps est venu où ses bénédictions cesseront.»
 
@@ -100,7 +100,9 @@ Tous lui dirent :
 
 Khosrou leur répondit :
 
-> Je suis rempli de crainte du roi et de sa cour, mais si les chefs veulent se présenter devant Adergouschasp et prêter un serment solennel, par lequel ils garantissent tous ensemble ma sécurité et rrpromettant qu’ils me garderont dorénavant leur fidélité, je resterai avec confiance dans ce pays et ne craindrai plus le mal que a pourrait me faire Aliriman. n Lorsque les héros eurent entendu ces paroles, ils allèrent. tous à Ader (gouachmp), prêtèrent les serments qu’il voulut et déclarèrent qu’ils le chérissaient comme leurs propres yeux.
+> Je suis rempli de crainte du roi et de sa cour, mais si les chefs veulent se présenter devant Adergouschasp et prêter un serment solennel, par lequel ils garantissent tous ensemble ma sécurité et rrpromettant qu’ils me garderont dorénavant leur fidélité, je resterai avec confiance dans ce pays et ne craindrai plus le mal que a pourrait me faire Aliriman.»
+
+Lorsque les héros eurent entendu ces paroles, ils allèrent. tous à Ader (gouachmp), prêtèrent les serments qu’il voulut et déclarèrent qu’ils le chérissaient comme leurs propres yeux.
 >
 > Se voyant sûr des grands, il envoya en secret de tous côtés des agents pour apprendre ce que disait son père de sa fuite et s’il méditait un nouveau plan.
 >
