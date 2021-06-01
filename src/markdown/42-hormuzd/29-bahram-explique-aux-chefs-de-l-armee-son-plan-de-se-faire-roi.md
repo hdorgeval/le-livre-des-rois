@@ -18,32 +18,34 @@ C’étaient Hamdan Guschasp et le Grand Scribe, Yelan Sineh, un homme illustre 
 Le Pehlewan de l’armée dit à ces hommes ardents et égarés :
 
 > Ô vous, hommes illustres et fiers, tout le monde a besoin de vos conseils !
+>
+> Le roi est mé-, content de nous, sans que ce soit de notre faute et vous savez comment il s’est écarté des convenances et de la. bonne voie.
+>
+> Que ferons-nous et quel remède y a-t-ill Car il ne faut pas que nous ayons à pleurer sur nous-mêmes comme des gens blessés.
+>
+> Quand on cache son mal au médecin, on est réduit à laisser tomber de ses cils des larmes de rsang ; quand on cache aux sages son secret, on rend 3 difficile une affaire qui était facile.
+>
+> Je suis affligé dans l’âme et je vais l’expliquer aux sages de ce et monde.
+>
+> Je suis parti de l’Iran pour faire la guerre tr sur l’ordre du roi, conduisant cette petite armée contre des ennemis plus nombreux que nul n’en ce verra, si longtemps qu’il vive.
+>
+> Des hommes comme le Turc Parmoudeh et le roi Saweh, quand ils ce commençaient une guerre contre l’Iran, ne faisaient pas plus de cas de ce pays que d’une boule de cire et pensaient après leur victoire sur nous s’attaquer au Roum.
+>
+> Mais le sort de Parmoudeh et du roi Saweh a été tel que le monde n’a jamais vu chose plus étonnante.
+>
+> Malgré toutes les fatigues qu’ils ont supportées, je ne leur ai pas laissé un éléphant ni un trésor et le roi a pu fonder un trésor nouveau ; il est devenu riche, mais il s’est mis en colère contre son armée.
+>
+> Que ferez-vous pour remédier à cela, comment guérirez-vous cette blessure ?
+>
+> J’ai maintenant dit tout le secret de mon cœur ; je me détache de cette royauté et vous, si vous connaissez dans ce moment un moyen de salut, hâtez-vous de parler de tout ce qui touche notre bonheur et notre malheur.»
 
-Le roi est mé-, content de nous, sans que ce soit de notre faute, et vous savez comment il s’est écarté des convenances et de la. bonne voie.
-
-Que ferons-nous et quel remède y a-t-ill Car il ne faut pas que nous ayons à pleurer sur nous-mêmes comme des gens blessés.
-
-Quand on cache son mal au médecin, on est réduit à laisser tomber de ses cils des larmes de rsang ; quand on cache aux sages son secret, on rend 3 difficile une affaire qui était facile.
-
-Je suis affligé dans l’âme et je vais l’expliquer aux sages de ce et monde.
-
-Je suis parti de l’Iran pour faire la guerre tr sur l’ordre du roi, conduisant cette petite armée contre des ennemis plus nombreux que nul n’en ce verra, si longtemps qu’il vive.
-
-Des hommes comme le Turc Parmoudeh et le roi Saweh, quand ils ce commençaient une guerre contre l’Iran, ne faisaient pas plus de cas de ce pays que d’une boule de cire, et pensaient après leur victoire sur nous s’attaquer au Roum.
-
-Mais le sort de Parmoudeh et du roi Saweh a été tel que le monde n’a jamais vu chose plus étonnante.
-
-Malgré toutes les fatigues qu’ils ont supportées, je ne leur ai pas laissé un éléphant ni un trésor et le roi a pu fonder un trésor nouveau ; il est devenu riche, mais il s’est mis en colère contre son armée.
-
-Que ferez-vous pour remédier à cela, comment guérirez-vous cette blessure ?
-
-J’ai maintenant dit tout le secret de mon cœur ; je me détache de cette royauté et vous, si vous connaissez dans ce moment un moyen de salut, hâtez-vous de parler de tout ce qui touche notre bonheur et notre malheur. n Or l’illustre Pehlewan avait dans l’appartement des femmes une sœur à l’esprit brillant, intelligente, du nom de Gordïeh ; cette femme au visage de Péri charmait le cœur de Bahram.
+Or l’illustre Pehlewan avait dans l’appartement des femmes une sœur à l’esprit brillant, intelligente, du nom de Gordïeh ; cette femme au visage de Péri charmait le cœur de Bahram.
 
 Elle entendit derrière. le rideau les discours de son frère, elle en frémit et
 
 5M LE LIVRE DÈS son cœur bonditde colère.
 
-Elle entra dans l’assemblée , l’âme pleine de paroles, les lèvres pleines de discours de sagesse antique, les yeux inondés de larmes. les joues jaunes comme le curcuma, la langue acérée comme la pointe d’une flèche.
+Elle entra dans l’assemblée, l’âme pleine de paroles, les lèvres pleines de discours de sagesse antique, les yeux inondés de larmes. les joues jaunes comme le curcuma, la langue acérée comme la pointe d’une flèche.
 
 Lorsque son frère entendit sa voix, il cessa de parler et de répondre et de même les Iraniens interrompirent tous leurs discours de peur qu’il n’arrivât un malheur.
 
@@ -57,7 +59,9 @@ Gordi’eh adressa la parole à ces chefs de l’armée, disant :
 
 Ized Guschasp le cavalierdit alors : Ô descendant denobles ancêtres !
 
-Si nos langues étaient des épées acérées, elles reculeraient devant les flots de ta l raison.
+Si nos langues étaient des épées acérées, elles reculeraient devant les flots de ta !
+
+Raison.
 
 Tout ce que tu fais vient de Dieu et porte la marque de ta bravoure, de ta sagesse. de ton inteli Iigence.
 
@@ -79,7 +83,7 @@ Yelan Sineh
 > Quand celui qui marche dans la voie de Dieu arrive à la victoire et à la gloire, c’est qu’il ne s’est jamais tourné du côté du a, mal, car alors les bénédictions se seraient changées en malédictions et la roue du ciel se serait remplie
 1 de colère contre lui.
 >
-> Le ciel t’a accordé la gloire et la i fortune, une armée, un trésor, une couronne et un J trône, accepte-les ; il y ajoutera encore et les cœurs qui se révolteront contre toi seront dans l’angoisse.»
+> Le ciel t’a accordé la gloire et la fortune, une armée, un trésor, une couronne et un J trône, accepte-les ; il y ajoutera encore et les cœurs qui se révolteront contre toi seront dans l’angoisse.»
 
 2 Ensuite Bahram dit à Bahram fils de Bahram :
 
@@ -95,10 +99,12 @@ Bahram sourit de cette discussion ; il secoua la bague qu’il avait au doigt et
 >
 > Le roi est puissant, ne l’évalue pas trop bas, car on ne peut pas compter pour peu un diadème.»
 
-Ensuite Bahram dit à Kunda Guschasp z Ô lion qui frappes de l’épée et lances ton cheval !
-que penses-tu, que dis-tu de mon affaire ?
+Ensuite Bahram dit à Kunda Guschasp :
 
-Suis-je digne du trône?»
+> Ô lion qui frappes de l’épée et lances ton cheval !
+que penses-tu, que dis-tu de mon affaire ?
+>
+> Suis-je digne du trône?»
 
 Kunda Guschasp, le cavalierh répondit :
 
@@ -186,26 +192,28 @@ Maudit soit ce pouvoir et maudite cette cou ronne !
 
 Il choisit dans l’Irau douze mille cavaliers propres à conquérir le monde et montés sur des chevaux bardés de fer, il délivra de leurs liens Kaous, Giv, Gouderz et Thous.
 
-De même lorsque Pirouz fut tué, que la fortune avait abandonné les Iraniens et que Khouschnewaz s’assit tranquillement sur ce trône orgueilleux, Souferaî, de la famille de Karen, partit et rétablit le trône des rois.
+De même lorsque Pirouz fut tué, que la fortune avait abandonné les Iraniens et que Khouschnewaz s’assit tranquillement sur ce trône orgueilleux, Souferaï, de la famille de Karen, partit et rétablit le trône des rois.
 
 Quand on eut nouvelle de sa vic-
--toire, des grands de l’Iran partirent pour I’accla- site) mer’roi et pour faire d’un sujet le roi du monde.
+-toire, des grands de l’Iran partirent pour I’acclasite) mer’roi et pour faire d’un sujet le roi du monde.
 
 Mais Souferaï leur dit :
 
 > Ceci ne doit pas se faire.
+>
+> Le pouvoir et la couronne appartiennent à la famille des rois ; Kohad est encore un enfant, mais il grandira ; n’introduisons pas le loup dans le domaine du lion.
+>
+> Voulez-vous donc faire roi un homme qui ne l’est pas de naissance et livrer à la destruction ce toute sa famille ?
+>
+> Lorsque Kohad futdevenu homme et qu’il vit que la tête de Souferaï dépassait sa couronne, il fit tuer, sur l’instigation d’hommes de mauvaise race, celui qui était le soutien de son trône.
+>
+> L’armée se révolta contre le roi Kohad et plaça Djamasp sur le trône de la justice ; on mit les fers aux pieds de Kohad, ce vaillant Keïanide, fils de Keîanide et un homme de mauvaise nature le livra à, Rezmihr, dans l’espoir qu’il se vengerait sur lui du meurtre de son père.
+>
+> Rezmihr regarda autour de lui et ne voyant personne digne de la couronne et du trône de la royauté, il lui ôta les fers pour qu’il pût rétablir ses affaires et revenir à la prospérité.
+>
+> Mais aucun des sujets du roi ne recherchait la couronne, quoiqu’il y en eût à qui leur naissance y donnât droit ; seulement un Turc, qu’on appelait le roi Saweh, arriva pour s’emparer du sceau et du diadème ; mais le Créateur du monde brillant décida qu’il périrait sur la terre d’Iran.»
 
-Le pouvoir et la couronne appartiennent à la famille des rois ; Kohad est encore un enfant, mais il grandira ; n’introduisons pas le loup dans le domaine du lion.
-
-Voulez-vous donc faire roi un homme qui ne l’est pas de naissance et livrer à la destruction ce toute sa famille ?
-
-Lorsque Kohad futdevenu homme et qu’il vit que la tête de Souferaï dépassait sa couronne, il fit tuer, sur l’instigation d’hommes de mauvaise race, celui qui était le soutien de son trône.
-
-L’armée se révolta contre le roi Kohad et plaça Djamasp sur le trône de la justice ; on mit les fers aux pieds de Kohad, ce vaillant Keïanide, fils de Keîanide et un homme de mauvaise nature le livra à, Rezmihr, dans l’espoir qu’il se vengerait sur lui du meurtre de son père.
-
-Rezmihr regarda autour de lui et ne voyant personne digne de la couronne et du trône de la royauté, il lui ôta les fers pour qu’il pût rétablir ses affaires et revenir à la prospérité.
-
-Mais aucun des sujets du roi ne recherchait la couronne, quoiqu’il y en eût à qui leur naissance y donnât droit ; seulement un Turc, qu’on appelait le roi Saweh, arriva pour s’emparer du sceau et du diadème ; mais le Créateur du monde brillant décida qu’il périrait sur la terre d’Iran. n Qu’est-ce qui a pu t’inspirer l’envie de t’emparer du trône impérial, toi qui as été son esclave ?
+Qu’est-ce qui a pu t’inspirer l’envie de t’emparer du trône impérial, toi qui as été son esclave ?
 
 Yelan
 
@@ -229,8 +237,9 @@ Le Sipehdar se mordit les lèvres ; toute l’assemblée était étonnée de cet
 
 Yelan Sineh dit :
 
-> Ô noble femme] ne donne pas ton avis dans l’assemblée sur les affaires des rois. 
- Hormuzd va disparaître en peu de temps et le Pehlewan va jouir de son trône ; et puisque Hormuzd est si dépourvu det mérite, compte que ton frère sera roi d’Iran.
+> Ô noble femme] ne donne pas ton avis dans l’assemblée sur les affaires des rois.
+>
+> Hormuzd va disparaître en peu de temps et le Pehlewan va jouir de son trône ; et puisque Hormuzd est si dépourvu det mérite, compte que ton frère sera roi d’Iran.
 >
 > Si Hormuzd veut jouir de la couronne des Keïanides. pourquoi fait-il des présents de fuo seaux ?
 >
@@ -254,8 +263,7 @@ Gordïeb lui dit :
 >
 > Notre père était gouverneur de Beï ; et toi, en faisant naître cette envie du trône, en faisant bouillonner le cœur de Bahram, en jetant le trouble dans notre tribu, tu donneras au vent par tes paroles tous les fruits des travaux de cette fa-
 >
-> 
-mille, ô misérable de mauvaise race !
+> mille, ô misérable de mauvaise race !
 >
 > Remplis donc de désordre ces jours paisibles et fais-toi le guide de Bahram !»
 
