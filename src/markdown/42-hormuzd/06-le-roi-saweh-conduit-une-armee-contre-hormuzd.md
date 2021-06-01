@@ -24,7 +24,7 @@ cette armée remplissait tout, comme la trame et la chaîne.
 
 Il conduisit son armée de ce côté jusqu’à Merv et la terre disparaissait sous la poussière . qu’elle soulevait.
 
-Le roi écrivit une lettre à Hormuzd , disant :
+Le roi écrivit une lettre à Hormuzd, disant :
 
 > Appelle à toi toutes les troupes, répare pour a. cette armée les ponts et les routes, prépare du leur. rage et pense à nos épées.
 >
@@ -49,8 +49,7 @@ Lorsque sa fortune s’obscurcissait ainsi, Hormuzd reçut des nouvelles de son 
 
 Il se repentit d’avoir, fait périr les Mobeds et (l’avoir écarté de sa cour les hommes intelligents.
 
-Il ne voyait pas autour, de lui des hommes qui pourraient le conseillel : ,,vt "tremblait 
-h
+Il ne voyait pas autour, de lui des hommes qui pourraient le conseillel : ,,vt "tremblait h
 dans son âme.
 
 Il fit appeler les Iraniens et remplit la salle d’hommes qu’il fit asseoir devant lui ; il dévoila le secret qu’il avait caché et dit aux grands de l’Iran qu’il se dirigeait vers leur pays des armées telles que personne n’avait souvenir de chose pareille.
@@ -75,15 +74,19 @@ C’est du côté du Khorasan que nous sommes en danger de voir détruire notre 
 
 Quand les Turcs passent le Djihoun pour nous attaquer, c’est alors qu’il faut agir sans délai.a Le roi, qui demandait conseil, dit. au Mobed :
 
-> Que feronsnous contre le roi Saweh?s-, Le Mobed ré- pondit : Prépare une armée ; c’est, appuyé sur son c armée, qu’un Chosroês relève la tête.
+> Que feronsnous contre le roi Saweh?s-, Le Mobed répondit :
 
-Appelle l’ins- pecteur des revues pour qu’il apporte les chiffres qui nous indiqueront le nombre des hommes qui ce peuvent servir. n L’inspecteur des revues arriva avec ses rôles et apporta le chiffre de l’armée, qui se montait à cent mille hommes, dont une partie de cavaliers et beau-coup de fantassins.
+> Prépare une armée ; c’est, appuyé sur son c armée, qu’un Chosroês relève la tête.
+>
+> Appelle l’inspecteur des revues pour qu’il apporte les chiffres qui nous indiqueront le nombre des hommes qui ce peuvent servir.»
+
+L’inspecteur des revues arriva avec ses rôles et apporta le chiffre de l’armée, qui se montait à cent mille hommes, dont une partie de cavaliers et beau-coup de fantassins.
 
 Le Mobed dit alors :
 
 > Avec cette armée nous serons peut-être embarrassés en face de Saweh.
 
-Mais si tu veux te conduire avec bra- voure et droiture et renoncer aux voies tortueuses et à la perversité, tu pourras sauver du malheur c tes sujets, comme c’est le devoir des rois.
+Mais si tu veux te conduire avec bravoure et droiture et renoncer aux voies tortueuses et à la perversité, tu pourras sauver du malheur c tes sujets, comme c’est le devoir des rois.
 
 Tu connais ces grandes histoires, comment Ardjasp, ce vieux loup destructeur, a fait tant de mal avec ses cavaliers chinois à Guschtasp et à Lohrasp, a cause de leur religion ; combien de misère la ville de Balkh a en à endurer et combien la vie était devenue amère dans ce pays, jusqu’à ce qu’Isfendiar eût été mis en liberté et eût pu livrer bataille comme il le voulait.
 
