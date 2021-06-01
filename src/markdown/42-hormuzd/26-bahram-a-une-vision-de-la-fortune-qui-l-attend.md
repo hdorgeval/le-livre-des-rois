@@ -15,8 +15,7 @@ Ainsi se passèrent deux semaines ; le Sipehhed sortit alors de son palais dans 
 
 Il aperçut sur la prairie un onagre qui était le plus beau qu’on eût jamais vu.
 
-Bahram le suivit doucement et sans échaufn. 56
-
+Bahram le suivit doucement et sans échaufn. 
 Fer son cheval.
 
 Dans la forêt et à l’endroit le plus propre à la chasse, se présentait un défilé étroit ; lorsque l’onagrc l’eut franchi, apparut une plaine parsemée de jardins et de terres incultes.
@@ -27,7 +26,7 @@ Bahram, jetant un regard sur cette plaine, vit apparaître un magnifique châtea
 
 Il poussa son cheval jusque devant le château, suivi par Ized Guschasp, à qui il remit les rênes de son destrier ardent. en disant :
 
-> Puisse la prudence être toujours ta compagne!»
+> Puisse la prudence être toujours ta compagne !»
 
 Ensuite le Sipehhed entra à pied sous le portail du château, sans avoir de guide.
 
@@ -67,7 +66,7 @@ Lorsque le (liner lut terminé, on amena en courant les chevaux de ces hommes qu
 
 > Puisse Jupiter être le compagnon de ta couronne,-n et la femme répondit :
 
-> n Puisseslu être victorieux, puisse ton cœur rester patient, puisses-tu toujours suivre les conseils de la prodence!»
+> n Puisseslu être victorieux, puisse ton cœur rester patient, puisses-tu toujours suivre les conseils de la prodence !»
 
 ’
 On aurait dit que les yeux de Bahram versaient une pluie de sang lorsqu’il sortit de ce jardin ; son humeur était changée, il parlait et répondait autrement ; il était comme s’il élevait la tête jusqu’au ciel. [d’onagre mâle revint alors, le Sipehhed le suivit à cheval et se laissa guider par lui jusqu’à ce qu’il fût sorti de cette forêt.
