@@ -11,7 +11,7 @@ order: '025'
 
 # Hormuzd envoie à Bahram une boite à fuseaux et une robe de femme
 
-Le roi non plus n’était pas content de Bahram, et sa colère lui obscurcissait l’esprit, d’abord pane que Bahram avait maltraité le Khakan et lui avait manqué de respect, ensuite à cause de sa hardiesse de s’approprier des choses précieuses qu’il n’avait pas la permission de prendre.
+Le roi non plus n’était pas content de Bahram et sa colère lui obscurcissait l’esprit, d’abord pane que Bahram avait maltraité le Khakan et lui avait manqué de respect, ensuite à cause de sa hardiesse de s’approprier des choses précieuses qu’il n’avait pas la permission de prendre.
 
 Le roi fit écrire à Bahram : Ô Div malfaisant !
 
@@ -28,7 +28,7 @@ Tu t’es écarté de mes ordres, tu as arrangé les affaires autrement que je n
 Voici un présent digne de toi, convenable et approprié à ton mérite.»
 
 Le roi mit son sceau sur la lettre et se fit apporter une. boite noire à fuseaux, remplie de fuseaux. de coton et de beaucoup decboses dégoûtantes, puis il ajouta une tunique bleue en poil, des pantalons rouges et une coiffe
-. jaune de femme ; il choisit un messager sans consistance et digne de porter un aussi misérable présent, et luidit : Porte ceci à Bahram et dis-lui aramon nom :
+. jaune de femme ; il choisit un messager sans consistance et digne de porter un aussi misérable présent et luidit : Porte ceci à Bahram et dis-lui aramon nom :
 
 > Ô homme sans valeur et sans naissance !
 >
@@ -41,8 +41,7 @@ Le roi mit son sceau sur la lettre et se fit apporter une. boite noire à fuseau
 >
 > Le
 >
-> 
-maître du monde est le maître de ses esclaves, et il est dans son droit s’il me traite avec ignominie, mais je n’aurais pas cru que les malveillants eussent trouvé accès auprès du roi.
+> maître du monde est le maître de ses esclaves et il est dans son droit s’il me traite avec ignominie, mais je n’aurais pas cru que les malveillants eussent trouvé accès auprès du roi.
 >
 > Depuis que j’ai quitté avec tant d’ardeur la cour du roi, accompagné d’une faible armée, tout le monde a vu ce que j’ai
 "fait et ce que j’ai supporté de soucis, de fatigues et de dangers.
