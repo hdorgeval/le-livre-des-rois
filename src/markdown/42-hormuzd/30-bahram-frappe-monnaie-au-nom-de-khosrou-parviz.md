@@ -27,8 +27,7 @@ Cet homme, qui partait haut la tête, arriva auprès du Khakan de la Chine, le c
 
 Le maître de la Chine fut heureux de ce message et fit à l’envoyé de Bahram beaucoup de cadeaux.
 
-Il écrivit sans délai une réponse à cette lettre et planta ainsi un arbre dans le jardin h
-du pouvoir ; il envoya des présents à Bahram, qui fut satisfait de la réponse qu’il reçut.
+Il écrivit sans délai une réponse à cette lettre et planta ainsi un arbre dans le jardin h du pouvoir ; il envoya des présents à Bahram, qui fut satisfait de la réponse qu’il reçut.
 
 Cette affaire étant terminée, Bahram en prépara une autre et ouvrit la porte du trésor qu’il avait amassé.
 
