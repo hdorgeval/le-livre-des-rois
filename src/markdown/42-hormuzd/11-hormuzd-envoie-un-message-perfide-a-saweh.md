@@ -29,7 +29,7 @@ Il dit à son messager :
 
 > Va vers Herat et quand tu rencontreras une armée, sache que c’est celle du vaillant Bahram et ne crois pas que ce soit une autre armée que la sienne.
 >
-> Rends- toi auprès de Bahram pour lui communiquer tout ce que j’ai dit, pour lui répéter bien des fois combien je désire qu’il soit victorieux et serein d’esprit.
+> Rends-toi auprès de Bahram pour lui communiquer tout ce que j’ai dit, pour lui répéter bien des fois combien je désire qu’il soit victorieux et serein d’esprit.
 >
 > Dis-lui que, par de bons messages et de bonnes nouvelles, je veux préparer un excellent piège pour Saweh ; mais qu’ilne faut pas que celuisci connaisse le secret de Bahram ni qu’il apprenne son nom et sa renommée ; dis-lui que je ferai tomber le roi Sawch dans ses filets et que j’emploierai pour cela de beaux et longs discours.»
 
@@ -38,14 +38,15 @@ Kharrad Berzin se prépara pour la route et fit le chemin que le roi lui avait i
 Quand il vit Bahram, il lui dit les secrets qui lui étaient confiés ; puis il se rendit auprès du roi Saweh, à l’endroit où se trouvaient ses éléphants, ses trésors et ses troupes.
 
 Il le vit, le couvrit de louanges,lui renditses hommages, lui dit en secret ce qu’on l’avait chargé de dire et dépassa encore en tout point le message du roi, pour persuader Saweh de conduire son armée à Heri ’(Herat).
-Le roi illustre entra dans la plaine de Herat et établit son camp sur les bords d’un courant d’eau. 
- lt Une ronde turque sortit du camp et aperçut Babram et son armée ; aussitôt qu’elle eut vu ces hommes vaillants,elle revinten grande hâle à la porte du roi Saweh et annonça qu’un corps de troupes était arrivé dans la plaine de Horst, sous le commandement d’un chef illustre.
+Le roi illustre entra dans la plaine de Herat et établit son camp sur les bords d’un courant d’eau. lt Une ronde turque sortit du camp et aperçut Babram et son armée ; aussitôt qu’elle eut vu ces hommes vaillants,elle revinten grande hâle à la porte du roi Saweh et annonça qu’un corps de troupes était arrivé dans la plaine de Horst, sous le commandement d’un chef illustre.
 
 Le roi Sawah entendit ces paroles et cet homme, qui était incertain sur la route qu’il devait suivre, devint soucieux ; il fit appeler de sa tente l’envoyé de Hormuzd et lui parla longuement et en colère, disant :
 
 > Vilain tourbe !
+>
+> Tu vos descendre de la hauteur sur laquelle tu t’es placé ; tu ce venu de la cour du roi Hormuzd espérant me tendre un piège ; tu amènes une armée perse pour ce me combattre, tu dresses les tentes sur les prairies et de Heri (Hem).»
 
-Tu vos descendre de la hauteur sur laquelle tu t’es placé ; tu ce venu de la cour du roi Hormuzd espérant me tendre un piège ; tu amènes une armée perse pour ce me combattre, tu dresses les tentes sur les prairies et de Heri (Hem). n Kharrad Baratin répondit au roi :
+Kharrad Baratin répondit au roi :
 
 > Si un petit corps de troupes se présente devant ton armée. n’en conçois pas de soupçons de trahison ; ce sera un gardien des frontières qui passe, ou un grand qui demande asile et a quitté son pays pour venir à toi, ou un marchand qui n amené une escorte pour sa sécurité sur la route ; car qui est-ce qui peut venir chez toi quand les montagnes et les fleuves sont pleins de troubles de guerre ?
 >
@@ -70,7 +71,7 @@ Qui est votre chef, votre commandant et votre champion dans le combat ?
 
 Le Faghfour, qui est l’œil et le cœur du roi, veut le voir, mais sans escorte.»
 
-Un des hommes deguerre de l’armée vint portera Bahram le message du Turc, et le Sipehbed sortit de l’enceinte de ses tentes et planta devant ses pieds un brillant drapeau, qui s’élevait tau-dessus de sa tête.
+Un des hommes deguerre de l’armée vint portera Bahram le message du Turc et le Sipehbed sortit de l’enceinte de ses tentes et planta devant ses pieds un brillant drapeau, qui s’élevait tau-dessus de sa tête.
 
 Lorsque le Faghfour de la Chine l’aperçut, il accourut, couvrant de sueur son cheval bondissant et il interrogea Bahram, disant :
 
@@ -84,7 +85,9 @@ Bahram répondit :
 
 Lorsqu’on reçut à la cour royale des nouvelles de l’armée de Saweh, Hormuzd me dit :
 
-> -Va.et barre-leur la route avec les massues et les lances, avec les épées et les flèches. n Quand le Faghfour eut entendu ces paroles, il se hâta de s’en retourner auprès de son père et de lui dire ce qui en était.
+> -Va.et barre-leur la route avec les massues et les lances, avec les épées et les flèches.»
+
+Quand le Faghfour eut entendu ces paroles, il se hâta de s’en retourner auprès de son père et de lui dire ce qui en était.
 
 Le roi l’écoute, devint soupçonneux etfit à l’instant rechercher l’envoyé de Hormuzd ; mais on lui dit que Kharrad Berzin s’était enfui en versant des larmes de sang par regret d’être venu.
 
