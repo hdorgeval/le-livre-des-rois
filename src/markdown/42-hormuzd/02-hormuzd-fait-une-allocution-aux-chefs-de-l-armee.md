@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 438
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
-tags: []
+tags: ['âme', 'Créateur', 'Dieu', 'Herat', 'Hormuzd', 'Khorasan', 'Kischwers', 'Makh', 'Tout-Saint']
 order: '002'
 ---
 
