@@ -25,8 +25,9 @@ Et il ordonna à Mihran d’accompagner le Sipehbed, de quitter en toute hâte s
 
 L’armée se mit en marche du pays de Thisifoun (Ctésiphon), Sous le commandement de Bahram : c’était une armée intelligente, brave et vaillante et un chef qui portait haut la tête comme un lion mâle.
 
-Bahram étant parti, le roi rentra au palais et conln Hà
-féra en secret avec son Grand Mobed.
+Bahram étant parti, le roi rentra au palais et con!»
+
+Hà féra en secret avec son Grand Mobed.
 
 Il dit :
 
@@ -42,7 +43,7 @@ Le Mobed répondit :
 >
 > Car tu mérites une vie sans fin.
 >
-> Il est impossible qu’avec cette force et cette stature, avec cette parole âpre et pleine de perspica- cité, ce Pehlewan ne soit pas heureux et victorieux, et qu’il ne rende pas sa prospérité à notre monde, qui était devenu stérile.
+> Il est impossible qu’avec cette force et cette stature, avec cette parole âpre et pleine de perspica-cité, ce Pehlewan ne soit pas heureux et victorieux et qu’il ne rende pas sa prospérité à notre monde, qui était devenu stérile.
 >
 > Je crains seulement qu’à la fin il ne se révolte contre le roi qui l’a élevé, car il a parlé bien hardiment et a montré sa nature de lion en s’adressant au roi.»
 
@@ -62,8 +63,9 @@ Il lui dit :
 
 L’émissaire partità l’instant sur les traces de Bahram, sans que personne connût sa mission.
 
-C’était un guide expert qui interprétait les présages et prédisait au roi la fin de toute affaire. 
- Or il arriva que Bahram, une fois hors de Thisil’oun et marchant à la tête de l’armée, la lance en main, rencontra sur la route un marchand de têtes de mouton.
+C’était un guide expert qui interprétait les présages et prédisait au roi la fin de toute affaire.
+
+Or il arriva que Bahram, une fois hors de Thisil’oun et marchant à la tête de l’armée, la lance en main, rencontra sur la route un marchand de têtes de mouton.
 
 L’homme était encore loin du chef de l’armée et tenait un beau panier couvert, d’où sortaient beaucoup de têtes, lorsque le Sipehbed poussa son cheval et, ô merveille !
 
@@ -72,7 +74,7 @@ il voulait.
 
 Tout en cheminant, il en fit un présage et dit :
 
-> C’est ainsi que j’enlèverai la tête de Saweh, je la jetterai sur la route devant ses troupes et je dé- truirai toute son armée.»
+> C’est ainsi que j’enlèverai la tête de Saweh, je la jetterai sur la route devant ses troupes et je détruirai toute son armée.»
 
 L’émissaire du roi vit tout cela et en tira aussi un augure selon les règles, disant :
 
@@ -83,14 +85,13 @@ roi et lui raconta ce qui s’était passé et le maître du monde en fut rempli
 
 Cette parole était plus amère pour lui que la mort, il en dépérit et cette feuille verte se noircit.
 
-Il choisit pour messager un jeune homme de la cour, l’envoya en toute hâte auprès du Pehlewan, et lui dit :
+Il choisit pour messager un jeune homme de la cour, l’envoya en toute hâte auprès du Pehlewan et lui dit :
 
 > Va auprès du Sipehbed et dis-lui :
 
 > Ne t’avance pas cette nuit au delà du point où tu te trouves, reviens au grand malin et entre chez a moi ; je renverrai de la salle tous les étrangers, ln.
 >
-> 
-car je veux te donner tous les conseils dont tu as besoin et je me suis souvenu de beaucoup de choses utiles ale dire.»
+> car je veux te donner tous les conseils dont tu as besoin et je me suis souvenu de beaucoup de choses utiles ale dire.»
 
 Le jeune messager se rendit auprès du Pehlewan et lui répéta ce qu’on lui avait dit ; mais Bahram répondit :
 
@@ -98,7 +99,7 @@ Le jeune messager se rendit auprès du Pehlewan et lui répéta ce qu’on lui a
 >
 > On ne fait pas revenir une armée qui est en marche.
 >
-> Rétrograder serait de mauvais augure, et les ennemis, en l’apprenant, reprendraient courage.
+> Rétrograder serait de mauvais augure et les ennemis, en l’apprenant, reprendraient courage.
 >
 > Quand je serai victorieux, je reviendrai au-près de toi et ton pays et ton armée brilleront glorieusement.»
 
