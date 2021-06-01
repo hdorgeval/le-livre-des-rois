@@ -17,15 +17,16 @@ Toute la route était couverte de caparaçons et de casques, de casques qui n’
 
 La terre était devenue une mer par le sang des morts, dans tous les coins on trouvait des chevaux encore sellés.
 
-Bahram faisait le tour de son armée pour s’assurer qui parmi les Iraniens était tombé ; lorsqu’il vit Ml.
- lîlâ
+Bahram faisait le tour de son armée pour s’assurer qui parmi les Iraniens était tombé ; lorsqu’il vit Ml. lîlâ
 Kharrad Berziu, il lui dit :
 
 > Prends au moins au-jourd’hui part à nos fatigues.
 >
-> Regarde qui parmi ries Iraniens est mort et la perte de qui nous devons pleurerm Kharrad Berzin alla partout, visita outes les tentes, grandes et petites.
+> Regarde qui parmi ries Iraniens est mort et la perte de qui nous devons pleurer.»
+
+Kharrad Berzin alla partout, visita outes les tentes, grandes et petites.
 >
-> Il manquait un homme illustre de l’armée, un homme plein de mérite. du nom de Bahram, vaillant personnage de la race de Siawusch, fils d’un Sipehhed, et un des chefs de l’Iran.
+> Il manquait un homme illustre de l’armée, un homme plein de mérite. du nom de Bahram, vaillant personnage de la race de Siawusch, fils d’un Sipehhed et un des chefs de l’Iran.
 >
 > Kharrad le chercha partout, courant comme un homme en démence, espérant trouver quelque part un indice de lui ; il examina bien des blessés et des morts, mais sans découvrir nulle part une trace de Bahram.
 >
@@ -42,17 +43,23 @@ Djoubineh en voyant Bahram dit :
 Puis, il interrogea ce vilain Turc, disant :
 
 > si) toi, à la mine infernale, exilé du paradis !
+>
+> Qui es-tu ?
+>
+> Quelle est la naissance, quelle est la race ?
+>
+> Ta mère aura à le pleurer»
 
-Qui es-tu ?
-
-Quelle est la naissance, quelle est la race ?
-
-Ta mère aura à le pleurerm Il répondit :
+Il répondit :
 
 > J’ai été sorcier et ma vie a été loin rrd’être celle d’un honnête homme.
+>
+> Chaque fois que tr mon chef va à la guerre et qu’il se trouve dans des circonstances (liliicilcs, je fais naître dans la nuit !
+>
+> R des songes pour stimuler les hommes qui sont lents. r (l’est moi quiai produit ton mauvais rêve, espérant r te mettre à mal. liais il faut que je cherche des çmoyens plus puissants, puisque mes sorcelleries xn’ont pas produit leur effet, que la mauvaise étoile
+æ s’est retournée contre moi et que toutes mes peines sont allées au vent et si tu veux me faire grâce de la vie, tu auras acquis en moi un ami plein de ce ressources.»
 
-Chaque fois que tr mon chef va à la guerre et qu’il se trouve dans des circonstances (liliicilcs, je fais naître dans la nuit l r des songes pour stimuler les hommes qui sont lents. r (l’est moi quiai produit ton mauvais rêve, espérant r te mettre à mal. liais il faut que je cherche des çmoyens plus puissants, puisque mes sorcelleries xn’ont pas produit leur effet, que la mauvaise étoile
-æ s’est retournée contre moi et que toutes mes peines sont allées au vent et si tu veux me faire grâce de la vie, tu auras acquis en moi un ami plein de ce ressources. n Bahram l’écouta et réiléchit, son cœur se remplit d’anxiété et ses joues pâlirent.
+Bahram l’écouta et réiléchit, son cœur se remplit d’anxiété et ses joues pâlirent.
 
 Tantôt il se dit :
 
@@ -70,8 +77,7 @@ Le pouvoir, la victoire et la majesté, la grandeur et le diadème ’ du roi de
 >
 > Tout
 >
-> 
-ce le pays d’Iran ne vit que grâce à toi, tous les Pehlerr wans sont tes esclaves ; c’est par toi que le trône du pouvoir est devenu puissant, c’esttpar toi qu’ont été sauvés les sujets.
+> ce le pays d’Iran ne vit que grâce à toi, tous les Pehlerr wans sont tes esclaves ; c’est par toi que le trône du pouvoir est devenu puissant, c’esttpar toi qu’ont été sauvés les sujets.
 >
 > Tu es Sipehhed et fils de Sipehbed.
 >
