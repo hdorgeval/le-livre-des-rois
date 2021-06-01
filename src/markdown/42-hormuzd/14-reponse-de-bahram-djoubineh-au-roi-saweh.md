@@ -31,7 +31,7 @@ Bahram dit :
 >
 > Ensuite tu dis que j’aurai à te rendre grâce pour ta fille, tes trésors, ton armée et ton pays et que je te saluerai comme un roi qui connaît les voies du monde, parce que tu m’aurais donné ta tille, que tu n’aurais pas pensé à garder pour toi-même le trône de l’Iran, que tu m’aurais envoyé de ton beau palais la fille et des richesses et qu’alors tu aurais un ami comme moi dans l’Iran et que les héros ne te combattraient pas.
 >
-> Mais me lance est ce aujourd’hui près de ton oreille, je vais te couper la tête avec l’épée et quand tu seras mort, la tête, tu couronne et ton trésor seront à moi, à moi ta fille et tout ce que tu as pris la peine d’amasser. et Ensuite tu dis que tu as des couronnes et des trônes. des éléphants et des chevaux sans nombre.
+> Mais me lance est ce aujourd’hui près de ton oreille, je vais te couper la tête avec l’épée et quand tu seras mort, la tête, tu couronne et ton trésor seront à moi, à moi ta fille et tout ce que tu as pris la peine d’amasser et Ensuite tu dis que tu as des couronnes et des trônes. des éléphants et des chevaux sans nombre.
 >
 > Un homme illustre, qui s’agitait au milieu des rangs sur (un champ de bataille, a dit qu’un chien court avec d’autant plus d’ardeur que l’eau est plus loin de sa coupe.
 >
@@ -43,10 +43,9 @@ Bahram dit :
 >
 > Ensuite, quand tu parles de me pardonner, tu es loin de tenir compte de me
 >
-> 
-bravoure et quand tu verras ma lance, tu ne me parleras pas de pardon et tu ne me demanderas pas d’être ton sujet.
+> bravoure et quand tu verras ma lance, tu ne me parleras pas de pardon et tu ne me demanderas pas d’être ton sujet.
 >
-> Quand j’aurai formé mes rangs , a je tiendrai pour rien tes troupes et ta cour, tes étéphants de guerre et ton trône ; je ne ferai pas plus de cas de ton armée que d’une obole.
+> Quand j’aurai formé mes rangs, a je tiendrai pour rien tes troupes et ta cour, tes étéphants de guerre et ton trône ; je ne ferai pas plus de cas de ton armée que d’une obole.
 >
 > Quand un roi dit tant de choses fausses, il n’acquiert point de l’honneur dans le monde.
 >
@@ -62,7 +61,7 @@ Le Faghfour lui dit :
 
 Ll se rendit au pavillon de la portp de l’enceinte des tentes royales et ordonna d’apporter les cymbales et les clochettes indiennes, d’amener les éléphants de guerre et les timbales et de faire lever au ciel une poussière noire comme l’ébène.
 
-Le roi qui portait haut la tête devint inquiet des préparatifs de combat que faisait son vaillant fils ; il craignait beaucoup la lutte avecsBahram, les feuilles fraiches de son arbre se desséchaient, et il dit à son fils :
+Le roi qui portait haut la tête devint inquiet des préparatifs de combat que faisait son vaillant fils ; il craignait beaucoup la lutte avecsBahram, les feuilles fraiches de son arbre se desséchaient et il dit à son fils :
 
 > Ô favori de l’armée !
 >
