@@ -11,7 +11,7 @@ order: '008'
 
 # Bahram Djoubineh arrive chez le roi Hormuzd
 
-L’ambitieux Bahram accourut de Berda sans avoir appelé auprès de lui aucun des braves de l’armée, et quand il arriva, le roi le fit entrer à l’instant.
+L’ambitieux Bahram accourut de Berda sans avoir appelé auprès de lui aucun des braves de l’armée et quand il arriva, le roi le fit entrer à l’instant.
 
 Cet homme, qui avait de l’expérience, en apercevant l’illustre roi des rois le couvrit de ses bénédictions.
 
@@ -29,11 +29,13 @@ Lorsque la nuit sombre eut rejeté son voile parfumé de musc et que le soleil e
 Bahram, qui était avide de combats, répondit :
 
 > Il ne faut pas de paix avec le roi Saweh.
-
-S’il veut engager la lutte, ce serait une défaite pour nous que de faire la paix ;
+>
+> S’il veut engager la lutte, ce serait une défaite pour nous que de faire la paix ;
 .ensuite tu enhardirais tes ennemis, s’ils voyaient que tu cèdes.
+>
+> Si tu te livrais aux festins au temps des combats, ton gouvernement en viendrait à la soumission.»
 
-Si tu te livrais aux festins au temps des combats, ton gouvernement en viendrait à la soumission. n Hormuzd lui dit :
+Hormuzd lui dit :
 
 > Ensuite que dois-je faire ?
 
