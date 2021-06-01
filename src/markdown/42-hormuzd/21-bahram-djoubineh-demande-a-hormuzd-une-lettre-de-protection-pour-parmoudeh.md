@@ -16,8 +16,10 @@ Il fut écrit alors à Hormuzd, le Grand Roi, une lettre qui pouvait porter de b
 > Le Khakan de la Chine demande à se soumettre : il est assiégé par le vaillant Bahram et il a besoin d’une lettre scellée du sceau royal et la bonne nouvelle que tu l’accorde :
 
 > sera une fête pour lui.
+>
+> Puisqu’il demande notre protection et qu’il est tombé bien bas de sa haute position, il faudrait que le roi fût généreux envers lui, toute sa gloire étantpassée.»
 
-Puisqu’il demande notre protection et qu’il est tombé bien bas de sa haute position, il faudrait que le roi fût généreux envers lui, toute sa gloire étantpassée. n Lorsque la lettre parvint au roi, il éleva son diadème fortuné jusqu’aux nues ; il envoya convoquer les Iraniens et les fit asseoir devant son trône impérial.
+Lorsque la lettre parvint au roi, il éleva son diadème fortuné jusqu’aux nues ; il envoya convoquer les Iraniens et les fit asseoir devant son trône impérial.
 
 Il leur fit lire la lettre de Bahram et ils répandirent des pierreries sur le lecteur.
 
@@ -26,7 +28,7 @@ Le roi dit aux hommes libres :
 > Grâces soient rendues à Dieu !
 >
 > Je passerai en prières devant lui trois veilles de la nuit, car le Khakan de la Chine va être mon
-- v sujet et le ciel sublime sera mon diadème.
+-v sujet et le ciel sublime sera mon diadème.
 >
 > Le Khakan avait levé sa tête jusqu’à la roue. du ciel, il se a croyait le maître du monde ; maintenant ce chef de l’armée, ce conquérant de provinces, est devenu l’esclave d’un plus puissant et il est arrivé que ce chef et maître des Turcs et de la Chine me rend hommage.
 >
@@ -47,10 +49,9 @@ Ensuite, il fit écrire en réponse à l’ambitieux Bahram une lettre allectueu
 
 > Dirige amicalement l’ar-.
 >
-> 
-moudeh et son cortège vers notre cour.
+> moudeh et son cortège vers notre cour.
 >
-> Du butin que tu as fait sur son armée et que tu t’es empressé de saisir comme c’est le devoir d’un serviteur, envoies-en à ma cour ce qui en vaut la peine et que le Créateur le soit favorable !
+> Du butin que tu as fait sur son armée et que tu t’es empressé de saisir comme c’est le devoir d’un serviteur, envoiesen à ma cour ce qui en vaut la peine et que le Créateur le soit favorable !
 >
 > Observe s’il y a quelque part des ennemis et si l’un deux a un lieu de refuge, saisis-le, mets-le sous bonne garde et brûle sa maison à l’aide d’une étoile heureuse et d’augures qui présagent un brillant succès.
 >
