@@ -15,7 +15,7 @@ Lorsque la nuit sombre eut frisé ses boucles et plongé ainsi les yeux des homm
 
 Le Sipehhed semontra, envoya chez ses compagnons et soutiens et leur demanda de couper les têtes à tous les morts parmi les grands, les puissants, les vaillants chefs et tous ceux qui avaient été les maîtres du peuple chez les Turcs et de planter un drapeau brillant derrière chacune de ces têtes qui avaient formé le diadème des braves.
 
-Il fit réunir ces têtes et les prisonniers, et les fit enlever du champ de bataille ; puis il appela le scribe qui écrivait ses lettres et lui parla longuement de toutes choses, de cette illustre et innombrable armée, de l’agitation et du sort de cette journée, de cette bataille et des moyens de toute espèce qu’il avait fallu employer contre des troupes si nombreuses, ’ de la lutte et du combat qu’avaient livré les Iraniens, et comment pas un cavalier n’avait ôté son armure pendant toute une journée.
+Il fit réunir ces têtes et les prisonniers et les fit enlever du champ de bataille ; puis il appela le scribe qui écrivait ses lettres et lui parla longuement de toutes choses, de cette illustre et innombrable armée, de l’agitation et du sort de cette journée, de cette bataille et des moyens de toute espèce qu’il avait fallu employer contre des troupes si nombreuses, ’ de la lutte et du combat qu’avaient livré les Iraniens et comment pas un cavalier n’avait ôté son armure pendant toute une journée.
 
 Le scribe écrivit cette lettre au roi et Bahram choisit dans son armée un messager.
 
@@ -39,13 +39,15 @@ Parmoudeh appela auprès de lui les héros,
 Un de ses conseillers dit :
 
 > Nous avons fait trop peu de cas de l’armée des Perses.
+>
+> Jamais personne dans le monde ne verra de cavalier dans la bataille comme le vaillant Bahram.
+>
+> Son armée n’était pas le centième de la nôtre et pas un jeune homme parmi ses cavaliers n’a été blessé.
+>
+> C’est Dieu, le maître du monde,
+. qui l’a guidé ; je pourrais en dire davantage, mais tu ne devrais pas l’entendre.»
 
-Jamais personne dans le monde ne verra de cavalier dans la bataille comme le vaillant Bahram.
-
-Son armée n’était pas le centième de la nôtre et pas un jeune homme parmi ses cavaliers n’a été blessé.
-
-C’est Dieu, le maître du monde,
-. qui l’a guidé ; je pourrais en dire davantage, mais tu ne devrais pas l’entendre.n À ces paroles, Parmoudeh devint tout pensif sur ce qu’il devait faire.
+À ces paroles, Parmoudeh devint tout pensif sur ce qu’il devait faire.
 
 Il bouillonnait de colère, ses joues pâlissaient et il se décida dans sa douleur à continuer la guerre.
 
@@ -56,8 +58,9 @@ Au moment où la lettre du Pehlewan arrivait chez le fils de Nouschirwan, le ma�
 > 0
 n chefs de l’armée !
 >
-> Voilà deux semaines qu’il n’est pas arrivé à notre cour royale des nouvelles de Bahram. 
- Qu’en dites-vous ?
+> Voilà deux semaines qu’il n’est pas arrivé à notre cour royale des nouvelles de Bahram.
+>
+> Qu’en dites-vous ?
 >
 > Qu’est-il arrivé et qu’arrivera-
 et-il ?
@@ -84,7 +87,7 @@ Cet homme dit :
 >
 > Les têtes de Saweh et de son fils cadet, à
 >
-> -qui sonpère avait donné le titre de Faghl’our, sont redevant ta porte, piquées sur des pointes de lance, et le pays entier peut les contempler.»
+> -qui sonpère avait donné le titre de Faghl’our, sont redevant ta porte, piquées sur des pointes de lance et le pays entier peut les contempler.»
 
 Le roi des rois écoula et se leva ; il courba soudain sa taille droite et se mit en prière devant Dieu, disant :
 
@@ -92,9 +95,9 @@ Le roi des rois écoula et se leva ; il courba soudain sa taille droite et se mi
 >
 > Tu as anéanti mes ennemis, ô Créateur du soleil et de la lune !
 >
-> J’étais dans une telle détresse, je désespérais telle- ment de la fortune que je me disais que je serais renversé du trône.
+> J’étais dans une telle détresse, je désespérais tellement de la fortune que je me disais que je serais renversé du trône.
 >
-> Ce n’est pas mon Sipehhed, ce nn’est pas ma vaillante armée qui ont amené la vie- toire, c’est Dieu qui a voulu du bien à son serviteur»
+> Ce n’est pas mon Sipehhed, ce nn’est pas ma vaillante armée qui ont amené la vie-toire, c’est Dieu qui a voulu du bien à son serviteur»
 
 Il fit apporter cent mille dirhems royaux d’un trésor qui était un héritage de son père ; il en distribua aux pauvres un tiers. dont il donna la plus
 
@@ -110,7 +113,7 @@ Il écrivit rapidement une réponse à la lettre de Bahram et planta un arbre da
 
 > Distribue à l’armée toutes les richesses que tu as fait ramasser sur la route, excepté le trénsor particulier de Saweh, qu’il faut envoyer à ma w cour.
 >
-> Ensuite tu combattras Parmoudeh aussi long- temps qu’il prétendra à l’indépendance.»
+> Ensuite tu combattras Parmoudeh aussi longtemps qu’il prétendra à l’indépendance.»
 
 Il fit aux Iraniens des largesses et les confirma par des lettres patentes qu’il envoya dans tous les pays.
 
@@ -118,4 +121,4 @@ Puis on revêtit le messager d’une robe d’honneur et les serviteurs du roi f
 
 Le Sipehdar Bahram fut heureux et content quand son envoyé fut revenu ; il distribua àses troupes tout le butin, excepté le trésor de Saweh au cœur impur, qu’il lit porter à la cour du roi par des cavaliers de sa»
 
-Famille, des hommes illustres et pleins d’expérience, et lui-même partit pour la guerre avec son armée.
+Famille, des hommes illustres et pleins d’expérience et lui-même partit pour la guerre avec son armée.
