@@ -24,8 +24,7 @@ car si une montagne voulait s’opposer à mon passage, je la foulerais aux pied
 
 Bahram, en entendant ces paroles, sourit des plans tenéhreux de cet homme et lui dit :
 
-> au
-Si Hormuzd médite en secret me mort, il faut, si
+> au Si Hormuzd médite en secret me mort, il faut, si
 (est là son bon plaisir, que je me soumette à ce que mon corps soit couché dans la poussière.»
 
 L’envoyé revint chez le roi Saweh et lui répéta ce qu’avait dit cet homme avide de combats.
@@ -64,7 +63,7 @@ SaWeh l’écoute et entra en colère contre cet homme au cœur de lion, avide d
 
 > Retourne auprès de lui, porte à ce cet homme pareil au Div ce message : Il n’y a aucune gloire à te combattre et je n’ai aucun désir de te tuer.
 
-De même que ton roi est mon inférieur. tu es l’inférieur de tous les grands de me cour.
+De même que ton roi est mon inférieur tu es l’inférieur de tous les grands de me cour.
 
 Mais si tu me demandes protection, j’élèverai ta tête au-
 x dessus de cette assemblée ; tu recevras de moi beau-coup de richesses et ton armée entière sera pournvue par moi.
@@ -85,7 +84,7 @@ Je trancherai la tête à Saweh et l’enverni au roi, car elle ne vaut pas la p
 
 Faire ton par ’ tégé d’un homme comme moi, qui malgré son insignifiance vient t’attaquer, serait une boute pour toi.
 
-Tu ne me verras qu’au jour de la bataille, un drapeau couleur de lapis-lazuli derrière moi, etla vue de ce dragon sera ta mort, ta tête et ton casque seront le fourreau du fer de ma lance. w L’envoyé du roi écouta ces rudes paroles et tourna le des à Bahram ; il revint et rapporta ce qu’il avait vu et entendu et la colère du roi des Turcs éclata.
+Tu ne me verras qu’au jour de la bataille, un drapeau couleur de lapis-lazuli derrière moi, etla vue de ce dragon sera ta mort, ta tête et ton casque seront le fourreau du fer de ma lance. w L’envoyé du roi écouta ces rudes paroles et tourna le dos à Bahram ; il revint et rapporta ce qu’il avait vu et entendu et la colère du roi des Turcs éclata.
 
 Il fit sortir les timbales et conduire dans la plaine les éléphants qui portaient haut la tête ; le pays entier fut obscurci par la poussière que soulevaient les sabots des chevaux et le son des trompettes résonna.
 
@@ -93,8 +92,9 @@ Quand Bahram apprit que l’armée s’approchait, que la vallée et la plaine �
 
 Derrière lui était la villede Herat, devant lui une armée prête à frapper de l’épée.
 
-Il plaça l’aile gauche et l’aile droite de son armée, qui était comme un seul cœur et un seul corps ; on eût dit que le monde était formé de cuirasses et que l’éclat des étoiles était le reflet des fers des lances. 
- Saweh regarda ce champ de bataille et cet arrangement, cet armement et cette habileté du chef ; il vit que Bahram avait Herat derrière lui et que le terrain qui restait pour lui-même était étroit et défavorable.
+Il plaça l’aile gauche et l’aile droite de son armée, qui était comme un seul cœur et un seul corps ; on eût dit que le monde était formé de cuirasses et que l’éclat des étoiles était le reflet des fers des lances.
+
+Saweh regarda ce champ de bataille et cet arrangement, cet armement et cette habileté du chef ; il vit que Bahram avait Herat derrière lui et que le terrain qui restait pour lui-même était étroit et défavorable.
 
 Il dit aux cavaliers, ses parents et compagnons pleins d’expérience :
 
