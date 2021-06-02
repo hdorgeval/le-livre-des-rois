@@ -25,6 +25,7 @@ export * from './kaous-card';
 export * from './khosrou-card';
 export * from './khosrou-parviz-card';
 export * from './kobad-card';
+export * from './kobad-son-of-parviz-card';
 export * from './kobad-son-of-pirouz-card';
 export * from './lohrasp-card';
 export * from './minoutchehr-card';

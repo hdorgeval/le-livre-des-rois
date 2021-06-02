@@ -25,6 +25,7 @@ export * from './kaous-episodes';
 export * from './khosrou-episodes';
 export * from './khosrou-parviz-episodes';
 export * from './kobad-episodes';
+export * from './kobad-son-of-parviz-episodes';
 export * from './kobad-son-of-pirouz-episodes';
 export * from './lohrasp-episodes';
 export * from './minoutchehr-episodes';
