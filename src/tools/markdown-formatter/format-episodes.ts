@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/43-khosrou-parviz', 2, 69);
+formatEpisodesIn('src/markdown/44-kobad-fils-de-parviz', 1, 5);
