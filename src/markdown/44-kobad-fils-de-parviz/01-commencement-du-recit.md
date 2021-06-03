@@ -5,7 +5,35 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 289
 reign: 'Kobad fils de Khosrou Parviz'
 reign-slug: 'regne-de-kobad-fils-de-parviz'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'âme',
+    'Aniran',
+    'Aschtad',
+    'Berzin',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Galinous',
+    'Guschasp',
+    'Iran',
+    'Iraniens',
+    'Jésus',
+    'Kaïsar',
+    'Keïanides',
+    'Kharrad',
+    'Khosrou',
+    'Kobad',
+    'lapis-lazuli',
+    'Marousipend',
+    'Messie',
+    'pehlewi',
+    'Roi',
+    'Roum',
+    'Schirouïeh',
+    'Thisifoun',
+  ]
 order: '001'
 ---
 
