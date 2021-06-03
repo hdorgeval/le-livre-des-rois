@@ -821,6 +821,8 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/KOBAD,/g, ''),
     (content: string) => content.replace(/KOBAD\./g, ''),
     (content: string) => content.replace(/KOBAI\)\./g, ''),
+    (content: string) => content.replace(/ARDESCIIIR,/g, ''),
+    (content: string) => content.replace(/ARDESCHIB, FILS DE SGHIBOUÏ\./g, ''),
     (content: string) => content.replace(/l 31 \./g, ''),
     (content: string) => content.replace(/l COUR\./g, ''),
     (content: string) => content.replace(/l ISKENDEB\./g, ''),
