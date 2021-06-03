@@ -5,7 +5,20 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 331
 reign: 'Ardeschir fils de Schirouï'
 reign-slug: 'regne-de-ardeschir-fils-de-schiroui'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'âme',
+    'Ardeschir',
+    'Dieu',
+    'Guerriers',
+    'Iran',
+    'Khosrou',
+    'Mobeds',
+    'Nouschirwan',
+    'Pehlewan',
+    'Pirouz',
+  ]
 order: '001'
 ---
 
