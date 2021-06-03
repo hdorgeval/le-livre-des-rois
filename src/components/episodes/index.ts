@@ -1,5 +1,6 @@
 export * from './ardeschir-babekan-episodes';
 export * from './ardeschir-le-bon-episodes';
+export * from './ardeschir-son-of-schiroui-episodes';
 export * from './aschkanides-episodes';
 export * from './bahman-episodes';
 export * from './bahram-bahramian-episodes';
