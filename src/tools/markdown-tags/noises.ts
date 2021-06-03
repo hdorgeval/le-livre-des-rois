@@ -212,6 +212,7 @@ export const noises = [
   'Entoure-toi',
   'Entre',
   'Entreprends',
+  'Entrez',
   'Envoie-le-moi',
   'Envoie-moi',
   'Envoie-nous',
