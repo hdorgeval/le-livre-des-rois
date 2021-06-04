@@ -25,14 +25,16 @@ An milieu de la nuit, nous n’avons, moi et les guerriers de grand renom, accor
 
 Maintenant nous avons cinq cent mille charges d’argent brutet d’or affiné, puis des étoffes, des tapis et toutes les choses qui sont dignes d’être offertes en présent, en si grand nombre que personne ne pourrait les compter, quand il compterait pendant beaucoup de mois et de jours.
 
-A présent que m’ordonne le Pehlewan?
+A présent que m’ordonne le Pehlewan ?
 que ses traces soient fortunées !
 
 Que son âme soit sereine?»
 
 Le messager partit, rapide comme le vent et remit la lettre au Pehlewan.
 
-Le prince la lut et s’écria : Puisse la grâce de Dieu accompagner toujours le brave ! »
+Le prince la lut et s’écria :
+
+> Puisse la grâce de Dieu accompagner toujours le brave ! »
 
 Zal fut tellement réjoui de cette bonne nouvelle, que tu aurais dit qu’il allait redevenir jeune.
 
