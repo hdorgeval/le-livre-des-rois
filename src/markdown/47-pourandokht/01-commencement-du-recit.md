@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 340
 reign: 'Pourandokht'
 reign-slug: 'regne-de-pourandokht'
-tags: []
+tags: ['Dieu', 'Khosrou', 'Pirouz', 'Pouran', 'Pourandokht']
 order: '001'
 ---
 
