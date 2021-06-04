@@ -88,3 +88,6 @@
 {"rule":"ACCORD_NOMBRE","sentence":"^\\QTe voilà maître de la couronne, tu possèdes maintenant une armée et un trésor dignes des rois ; aussi longtemps que tu auras un trésor, tu ne seras pas dans l'embarras.\\E$"}
 {"rule":"PREP_V","sentence":"^\\QIl fit enchaîner les pieds de Siah Djeschm et lui assigna la prison pour demeure.\\E$"}
 {"rule":"ACCORD_NOMBRE","sentence":"^\\QJouis donc de tes biens et donnes en le superflus ; ne mets pas de côté pour ton ennemi ce que tu as amassé avec tant de peine, car lorsque ta vie passera, les trésors que tu as mis en réserve passeront comme le souffle du vent sur la plaine.\\E$"}
+{"rule":"ACCORD_GENRE","sentence":"^\\QQue dire du cercle étroit de la vie tracé entre les deux orbes célestes ?\\E$"}
+{"rule":"AN_ANNEE","sentence":"^\\QPendant deux fois huit années la lune et le soleil tournèrent au-dessus de lui et ce roi.\\E$"}
+{"rule":"AN_ANNEE","sentence":"^\\QPendant deux fois huit années la lune et le soleil tournèrent au-dessus de lui et ce roi, gouvernant le monde suivant les coutumes anciennes et la justice, fit le bonheur de l'Iran tout entier.\\E$"}
