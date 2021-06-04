@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/45-ardeschir-fils-de-schiroui', 1, 2);
+formatEpisodesIn('src/markdown/46-guraz', 1, 2);
