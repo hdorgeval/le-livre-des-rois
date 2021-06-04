@@ -29,7 +29,7 @@ Puisse la main du malheur être impuissante contre toi !
 
 Quel homme est ce fils de Sam alu tête de vieillard ?
 
-Estce du trône ou du nid qu’il se souvient ?
+Est-ce du trône ou du nid qu’il se souvient ?
 
 Se comporte-t-il comme un homme ?
 
@@ -89,40 +89,46 @@ Tous les hommes sont pleins d’amour pour toi et l’image de tes traits se tro
 
 Avec ce visage, cette taille et ces cheveux, le soleil devraitdescendre du quatrième ciel pour devenir ton époux : n Roudabeh entendit ces paroles et son cœur s’en irrita comme le feu s’irrite par le vent ; elle poussa un cri de colère contre ses esclaves, sa figure brilla, ses yeux se troublèrent.
 
-Les yeux et le visage enflammés de fureur, les sourcils froncés par la colère, elle dit : Votre résistance est vaine ; vos paroles ne valent pas
+Les yeux et le visage enflammés de fureur, les sourcils froncés par la colère, elle dit :
+
+> Votre résistance est vaine ; vos paroles ne valent pas
 -la peine d’être écoutées.
+>
+> Mon cœur s’estégaré sur une étoile ; comment pourrait-il se plaire avec la lune ?
+>
+> Celui à qui convient la poussière ne regarde pas la
+>
+> Rose, quoique la rose soit plus prisée que la poussière ; et quiconque trouve pour son cœur un remède dans le vinaigre, ne trouverait dans le miel qu’une augmentation de douleur.
+>
+> Je ne veux pas du Kaiser, ni du Faghfour de la Chine, ni d’un prince du pays d’Iran : mais Zal, le fils de Sam, est mon égal en stature ; il a des épaules, des bras et des mains de lion.
+>
+> Qu’on l’appelle vieux ou jeune, c’est en lui que se repose mon âme et mon cœur ; personne autre n’aura de place dans mon âme ; ne me parlez jamais que de lui.
+>
+> Sans que je l’aie vu, son amour m’a blessé le cœur.
+>
+> C’est l’ami que j’ai choisi sur ce que j’ai entendu raconter de lui.
+>
+> Je recherche son amour, non à cause de ses cheveux on de ses traits, mais à cause de sa valeur.»
 
-Mon cœur s’estégaré sur une étoile ; comment pourrait-il se plaire avec la lune ?
+Les esclaves connurent tout son secret lorsqu’elles entendirent les cris de son âme déchirée et lui répondirent d’une voix :
 
-Celui à qui convient la poussière ne regarde pas la
+> Nous sommes tes esclaves, nous t’ai mons de cœur, nous sommes tes servantes.
+>
+> Considère maintenant les ordres que tu nous donneras, ils ne peuvent conduire qu’au bonheur.»
 
-Rose, quoique la rose soit plus prisée que la poussière ; et quiconque trouve pour son cœur un remède dans le vinaigre, ne trouverait dans le miel qu’une augmentation de douleur.
+Une d’elles dit :
 
-Je ne veux pas du Kaiser, ni du Faghfour de la Chine, ni d’un prince du pays d’Iran : mais Zal, le fils de Sam, est mon égal en stature ; il a des épaules, des bras et des mains de lion.
-
-Qu’on l’appelle vieux ou jeune, c’est en lui que se repose mon âme et mon cœur ; personne autre n’aura de place dans mon âme ; ne me parlez jamais que de lui.
-
-Sans que je l’aie vu, son amour m’a blessé le cœur.
-
-C’est l’ami que j’ai choisi sur ce que j’ai entendu raconter de lui.
-
-Je recherche son amour, non à cause de ses cheveux on de ses traits, mais à cause de sa valeur.»
-
-Les esclaves connurent tout son secret lorsqu’elles entendirent les cris de son âme déchirée et lui répondirent d’une voix : Nous sommes tes esclaves, nous t’ai mons de cœur, nous sommes tes servantes.
-
-Considère maintenant les ordres que tu nous donneras, ils ne peuvent conduire qu’au bonheur.»
-
-Une d’elles dit : Ô cyprès !
-
-Prends garde que personne n’apprenne cette affaire.
-
-Puisses-tu avoir pour rançon cent mille têtes comme les nôtres !
-
-Puisse toute l’intelligence qui se trouve dans le monde venir à ton aide !
-
-Quand il faudrait apprendre la magie et aveugler le monde par nos sorcelleries et nos incantations, nous sommes prêtcsà voler avec les oiseaux, à nous
-
-MINOUTCHEI-IR. faire magiciennes, à courir comme des biches pour venir à ton aide, dans l’espoir d’amener le roi auprès de notre lune et de le faire venir auprès de toi pour servir d’escabeau à tes pieds.»
+> Ô cyprès !
+>
+> Prends garde que personne n’apprenne cette affaire.
+>
+> Puisses-tu avoir pour rançon cent mille têtes comme les nôtres !
+>
+> Puisse toute l’intelligence qui se trouve dans le monde venir à ton aide !
+>
+> Quand il faudrait apprendre la magie et aveugler le monde par nos sorcelleries et nos incantations, nous sommes prêtcsà voler avec les oiseaux, à nous
+>
+> MINOUTCHEI-IR. faire magiciennes, à courir comme des biches pour venir à ton aide, dans l’espoir d’amener le roi auprès de notre lune et de le faire venir auprès de toi pour servir d’escabeau à tes pieds.»
 
 Roudabeh sourit avec ses lèvres de rubis, et, penchant ses joues de safran vers l’esclave, la belle lui dit :
 
