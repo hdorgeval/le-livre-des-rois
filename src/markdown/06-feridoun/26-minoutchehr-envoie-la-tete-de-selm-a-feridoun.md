@@ -5,7 +5,28 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 158
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
-tags: []
+tags:
+  [
+    'Adoration',
+    'âme',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Feridoun',
+    'Ghilan',
+    'Hindoustan',
+    'Iraniens',
+    'Mihr',
+    'Minoutchehr',
+    'Neriman',
+    'Occident',
+    'Pehlewan',
+    'Sam',
+    'Sari',
+    'Schiroui',
+    'Selm',
+    'Temmischeh',
+  ]
 order: '026'
 ---
 
