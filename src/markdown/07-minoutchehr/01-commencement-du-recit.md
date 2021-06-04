@@ -5,7 +5,25 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 164
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'âme',
+    'Berzin',
+    'Créateur',
+    'Dieu',
+    'Feridoun',
+    'Guerschasp',
+    'Iran',
+    'Kaweh',
+    'Keïanides',
+    'Minoutchehr',
+    'Mobeds',
+    'Neriman',
+    'Pehlewan',
+    'Pehlewans',
+    'Sam',
+  ]
 order: '001'
 ---
 
