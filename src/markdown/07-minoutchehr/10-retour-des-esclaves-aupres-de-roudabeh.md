@@ -26,7 +26,7 @@ Les idoles se préparèrent à lui répondre ; elles trépignèrent, dans leur e
 
 Le gardien répondit :
 
-> il ne faut pas faire aujourd’hui ce que vous faisiez quand Zal, le chef de l’armée, n’était pas encore à Kaboul. et quand la terre n’était pas encore couverte de ses tentes et de son armée.
+> il ne faut pas faire aujourd’hui ce que vous faisiez quand Zal, le chef de l’armée, n’était pas encore à Kaboul et quand la terre n’était pas encore couverte de ses tentes et de son armée.
 >
 > Ne voyez-vous donc pas que le roi de Kaboul quitte à cheval son palais dès l’aube du jour et qu’il passe la journée à aller et venir pour voir Zal ?
 >
@@ -68,7 +68,7 @@ Elle dit et sourit d’une lèvre et ses joues rougirent comme la fleur du grena
 
 Toi, viens voir une lune pleine de beauté. v L’esclave répondit à sa belle maîtresse :
 
-> Prépare les moyens de réussir, car Dieu t’a accordé tout ce que tu désirais ; puisse la fin de tout ceci être heureuse!»
+> Prépare les moyens de réussir, car Dieu t’a accordé tout ce que tu désirais ; puisse la fin de tout ceci être heureuse !»
 
 Roudabeh se mit en toute hâte à faire ses apprêts en les cachant à toute sa famille.Elle avait un palais comme le gai printemps, tout couvert de portraits de héros ; elle le fit tendre de brocarts de la Chine, elle fit disposerles vases d’or, mêler du vin avec du musc et de l’ambre et verser sur le sol des rubis et des émeraudes.
 
