@@ -14,6 +14,7 @@ export * from './dara-episodes';
 export * from './darab-episodes';
 export * from './djemschid-episodes';
 export * from './episode-card';
+export * from './farrukhzad-episodes';
 export * from './feridoun-episodes';
 export * from './guerschasp-episodes';
 export * from './guraz-episodes';

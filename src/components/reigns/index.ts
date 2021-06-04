@@ -14,6 +14,7 @@ export * from './balasch-card';
 export * from './dara-card';
 export * from './darab-card';
 export * from './djemschid-card';
+export * from './farrukhzad-card';
 export * from './feridoun-card';
 export * from './guerschasp-card';
 export * from './guraz-card';
