@@ -79,7 +79,7 @@ Tous les braves proclamèrent d’une voix, que jamais on ne verrait l’égal d
 >
 > Il faut le compter parmi les crocodiles.
 >
-> Heureux Sam le preux, de laisser dans le monde comme souvenir un fils si brave et si bon cavalier!»
+> Heureux Sam le preux, de laisser dans le monde comme souvenir un fils si brave et si bon cavalier !»
 
 Le puissant roi et tous les Pehlewans et les vaillants guerriers le bénirent.
 
