@@ -33,20 +33,22 @@ Le second Mobed lui dit :
 
 Le troisième lui dit :
 
-> Voilà trente cavaliers, qui passent devant le roi : si tu regardes avec attention. tu en trouveras un de moins ; si tu comptes de nouveau, tu en trouveras trente.»
+> Voilà trente cavaliers, qui passent devant le roi : si tu regardes avec attention tu en trouveras un de moins ; si tu comptes de nouveau, tu en trouveras trente.»
 
 Le quatrième lui dit :
 
 > Tu vois un jardin rempli de verdure et de sources : un homme fort, portant
 ’ une faux bien aiguisée, y entre brusquement et fauche également ce qui est vert et ce qui est sec ; si tu implores sa pitié, il ne t’écoute pas.»
 
-Le cinquième dit : Voilà deux hauts cyprès, qui sortent d’une mer orageuse, comme des roseaux.
+Le cinquième dit :
 
-Un oiseau y établit sa demeure ; il se perche sur l’un le soir, sur l’autre le matin.
-
-Quand ilts’envole du premier, toutes les feuilles se sèchent ; quand il se place sur le dernier, elles exhalent un parfum de musc.
-
-De ces deux arbres l’un est tristement desséché, l’autre toujours vert.»
+> Voilà deux hauts cyprès, qui sortent d’une mer orageuse, comme des roseaux.
+>
+> Un oiseau y établit sa demeure ; il se perche sur l’un le soir, sur l’autre le matin.
+>
+> Quand ilts’envole du premier, toutes les feuilles se sèchent ; quand il se place sur le dernier, elles exhalent un parfum de musc.
+>
+> De ces deux arbres l’un est tristement desséché, l’autre toujours vert.»
 
 . !
 
