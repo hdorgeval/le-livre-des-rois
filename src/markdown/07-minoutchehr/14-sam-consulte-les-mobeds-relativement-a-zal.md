@@ -20,23 +20,25 @@ Cherchez dans les astres et donnez-moi votre décision ; placez la pointe du ros
 Les astrologues employèrent une longue journée à rechercher le secret du ciel.
 
 Ils le trouvè-
-rent et revinrent en souriant, se présentèrent, joyeux de leur bonne fortune, devant Sam fils de Nériman et l’un d’eux dit : Ô héros à la ceinture d’or !
+rent et revinrent en souriant, se présentèrent, joyeux de leur bonne fortune, devant Sam fils de Nériman et l’un d’eux dit :
 
-J’ai de v bonnes nouvellesà t’apprendre sur la fille de Mihrab 2l!) etsur Zal, qui seront deux époux illustres.
-
-Ce couple vertueux aura un fils pareil à un éléphant de guerre qui se ceindra bravement, soumettra les hommes par l’épée et placera le trône du roi au-dessus des nuages ; il déracinera de terre le pied des méchants et ne leur laissera dans le monde aucun refuge ; il n’épargnera ni les Segsars ni le Mazenderan et purifiera la terre avec sa lourde massue.
-
-Par lui tous les maux accableront le Touran et toutes les prospérités se répandront sur l’Iran.
-
-Il rendra le sommeil aux malheureux, il fermera la porte de la discorde et la voie du mal.
-
-Les Iraniens mettront leur espérance en lui et le Pehlewan aura de lui de bonnes et joyeuses nouvelles.
-
-Son cheval bondira dans le combat, et, assis sur son dos, il foulera sous ses pieds la face du tigre féroce.
-
-L’empire sera heureux pendant qu’il vivra et le monde honorera son nom comme celui d’un roi.
-
-Roum et l’Hindoslan et le pays d’Iran graveront son nom sur leurs sceaux.»
+> Ô héros à la ceinture d’or !
+>
+> J’ai de v bonnes nouvellesà t’apprendre sur la fille de Mihrab 2l!) etsur Zal, qui seront deux époux illustres.
+>
+> Ce couple vertueux aura un fils pareil à un éléphant de guerre qui se ceindra bravement, soumettra les hommes par l’épée et placera le trône du roi au-dessus des nuages ; il déracinera de terre le pied des méchants et ne leur laissera dans le monde aucun refuge ; il n’épargnera ni les Segsars ni le Mazenderan et purifiera la terre avec sa lourde massue.
+>
+> Par lui tous les maux accableront le Touran et toutes les prospérités se répandront sur l’Iran.
+>
+> Il rendra le sommeil aux malheureux, il fermera la porte de la discorde et la voie du mal.
+>
+> Les Iraniens mettront leur espérance en lui et le Pehlewan aura de lui de bonnes et joyeuses nouvelles.
+>
+> Son cheval bondira dans le combat, et, assis sur son dos, il foulera sous ses pieds la face du tigre féroce.
+>
+> L’empire sera heureux pendant qu’il vivra et le monde honorera son nom comme celui d’un roi.
+>
+> Roum et l’Hindoslan et le pays d’Iran graveront son nom sur leurs sceaux.»
 
 Le roi entendit ces paroles des astrologues ; il sourit et agréa leur hommage et leur donna de l’or et de l’argent sans mesure, car ils lui rendaient le repos au moment de son angoisse ; puis il appela le messager de Zal et lui parla longuement, disant :
 
@@ -50,7 +52,7 @@ Le roi entendit ces paroles des astrologues ; il sourit et agréa leur hommage e
 
 Il donna à l’envoyé des pièces d’argent et lui dit :
 
-> R Pars et ne te repose pas un instant ; n puis il le congédia et se mit en route lui-même et l’armée et son chef se réjouissaient de ce qui étai!
+> R Pars et ne te repose pas un instant ; n puis il le congédia et se mit en route lui-même et l’armée et son chef se réjouissaient de ce qui étai !
 arrivé.
 >
 > Il fit prendre mille hommes parmi les Kerguesars, que l’on traînait avec mépris après l’armée ,v en les faisant marcher à pied.
