@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 145
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
-tags: []
+tags: ['Karen', 'Minoutchehr', 'Tour']
 order: '021'
 ---
 
