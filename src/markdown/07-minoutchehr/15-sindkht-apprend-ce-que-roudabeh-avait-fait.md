@@ -11,7 +11,7 @@ order: '015'
 
 # Sindokht apprend ce que Roudabeh avait fait
 
-Il y avait une femme aux paroles douces qui servait d’entremetteuse entre Zal et le cyprès ; elle portait les messages de Roudabeh au Pehlewan. et ceux de Zal à Roudaheh à l’âme brillante.
+Il y avait une femme aux paroles douces qui servait d’entremetteuse entre Zal et le cyprès ; elle portait les messages de Roudabeh au Pehlewan et ceux de Zal à Roudaheh à l’âme brillante.
 
 Destan la fit appeler, lui raconta tout ce qu’il avait appris et lui dit :
 
@@ -63,7 +63,9 @@ La femme lui répondit :
 
 > J’ai apporté ces deux objets à Roudabeh et elle veut maintenant que je lui en apporte davantage.»
 
-Sindokht dit : Montre-moi le prix que tu en as reçu et délivre-moi des soupçons qui pèsent sur mon cœur.»
+Sindokht dit :
+
+> Montre-moi le prix que tu en as reçu et délivre-moi des soupçons qui pèsent sur mon cœur.»
 
 La femme répondit :
 
@@ -81,7 +83,7 @@ Elle manda sa tille devant elle, se frappa le visage de ses mains et les larmes 
 
 > Ô lune de noble race !
 >
-> Pourquoi as-tu préféré un abîme au trône?
+> Pourquoi as-tu préféré un abîme au trône ?
 >
 > Qu’y a-t-il dans le monde, en fait de bonne conduite, que je ne t’aie pas enseigné en public et en secret ?
 >
@@ -101,8 +103,7 @@ Elle manda sa tille devant elle, se frappa le visage de ses mains et les larmes 
 >
 > Le trésor de la puissante couronne des Arabes nous a attiré beaucoup de bonheur et beau-coup de maux.
 >
-> Veux-tu donc livrer ainsi ton nom l. h
-au veut ?
+> Veux-tu donc livrer ainsi ton nom l. h au veut ?
 >
 > Quelle mère a jamais mis au monde une fille comme toi?»
 
