@@ -27,19 +27,19 @@ Varie, en lui disant :
 
 > Va voir ce convoi : pars et fais et moi connaître ce que c’est.»
 
-Le messager descendit du château, courut vers Rustem rapidement comme la poussière. et lui dit :
+Le messager descendit du château, courut vers Rustem rapidement comme la poussière et lui dit :
 
 > Ô chef de la caravane. donne-moi connaissance de ce que contiennent ces ce ballots fermés, pour que nous allions auprès de mon maître lui parler et entendre sa réponse.»
 
 Rustem lui répondit :
 
-> Va auprès de ton maître avide de renom, répète-lui mes paroles l’une après l’autre. et dis-lui que nos ballots ne contiennent que du a sel.»
+> Va auprès de ton maître avide de renom, répète-lui mes paroles l’une après l’autre et dis-lui que nos ballots ne contiennent que du a sel.»
 
 Le messager s’en retourna, se présenta devant son maître qui portait haut la tête et lui annonça que c’était une caravane et qu’elle était entièrement chargée de sel.
 
 Le maître l’ayant entendu, se leva la mine riante, le cœur joyeux outre mesure et ordonna qu’on ouvrît la porte pour que la caravane pût monter.
 
-Rustem, avide de combats, s’en aperçut. et se dirigea du pied de la montagne vers le sommet ; et lorsqu’il fut arrivé près de la porte, tous les habitants allèrent à sa rencontre sans délai.
+Rustem, avide de combats, s’en aperçut et se dirigea du pied de la montagne vers le sommet ; et lorsqu’il fut arrivé près de la porte, tous les habitants allèrent à sa rencontre sans délai.
 
 Rustem se présenta devant le maître, baisa la terre et se répan. dit en actions de grâces ; il apporta devant lui un grand nombre de charges de sel et invoqua les grâces de Dieu sur tous les habitants.
 
