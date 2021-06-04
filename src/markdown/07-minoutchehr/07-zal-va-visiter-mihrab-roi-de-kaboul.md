@@ -43,7 +43,9 @@ La sagesse et la prudence de Mihrab firent dire aZal : Le nom de sa mère ne a m
 >
 > Personne n’a un visage ni une taille comme la sienne, personne ne r : peut lui disputer la balle.»
 
-Un homme illustre parmi les grands dit alors au Pehlewan du monde : Mihrab tient derrière le voile une fille dont le visage est plus beau que le soleil.
+Un homme illustre parmi les grands dit alors au Pehlewan du monde :
+
+> Mihrab tient derrière le voile une fille dont le visage est plus beau que le soleil.
 
 Elle est de la tête aux pieds a comme de l’ivoire, ses joues sont comme le paradis, c sa taille est comme un platane.
 
@@ -70,7 +72,7 @@ Ils se rangèrent dans la cour du Pehlewan et pendant que les nobles cherchaient
 
 Le héros, semblable à un arbre chargé de fruits nouv veaux, s’avança vers Zal dontle cœur se réjouit ; Zal le salua et lui assigna la première place dans l’assemblée, puis il lui dit :
 
-> Demande ce que tu désires, I que ce soit mon trône ou mon sceau, mon épée ou ma couronnem Mihrab lui répondit :
+> Demande ce que tu désires, I que ce soit mon trône ou mon sceau, mon épée ou ma couronne.»Mihrab lui répondit :
 
 > Ô roi qui r portes haut la tête, roi victorieux, à qui tous obéissent !
 >
