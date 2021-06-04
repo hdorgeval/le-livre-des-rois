@@ -56,9 +56,11 @@ Mihrab l’écouta avec joie et sa joue devint rouge comme la tulipe pourprée.
 Il fit sonner a3
 
 2
-les trompettes d’airain et lier les timbales sur le dos des éléphants, il orna son armée comme l’œil du coq, il la fit précéder d’éléphants de guerre et de musiciens et le pays devint un paradis d’une frontière à l’autre, tant il y avait d’étendards de soie de toute couleur, rouges, verts, jaunes et violets ; et tel était le bruit des trompettes et des harpes, des clairons et des tambourins, que tu aurais dit : Estce le jour suprême ?
+les trompettes d’airain et lier les timbales sur le dos des éléphants, il orna son armée comme l’œil du coq, il la fit précéder d’éléphants de guerre et de musiciens et le pays devint un paradis d’une frontière à l’autre, tant il y avait d’étendards de soie de toute couleur, rouges, verts, jaunes et violets ; et tel était le bruit des trompettes et des harpes, des clairons et des tambourins, que tu aurais dit :
 
-Estce le jour de la résurrection, ou un tr jour de fête ?
+> Est-ce le jour suprême ?
+
+Est-ce le jour de la résurrection, ou un tr jour de fête ?
 
 V Mihrab s’avança ainsi jusqu’à ce qu’il vît Sam ; il descendit alors de cheval et courut vers lui à pied et le Pehlewan du monde le prit dansses bras et lui demanda comment le sort l’avait traité.
 
@@ -74,7 +76,9 @@ Sindokht sortit du palais avec ses suivantes, avec trois cents esclaves prêtes 
 
 Toutes appelèrent les grâces de Dieu sur Sam et versèrent de leurs coupes des joyaux sur lui ; et tous ceux qui étaient venus à cette fête furent comblés de dons, de sorte qu’ils n’avaient plus de vœux à former.
 
-Sam dit en souriant à Sindokht : Combien de temps prétends-tu cacher Reudabeh?»
+Sam dit en souriant à Sindokht :
+
+> Combien de temps prétends-tu cacher Reudabeh?»
 
 Sindokht lui répondit :
 
