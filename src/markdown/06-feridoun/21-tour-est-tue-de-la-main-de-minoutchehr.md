@@ -15,9 +15,9 @@ Lorsque la moitié du jour lumineux fut passée, le cœur des deux braves brûla
 
 Ils se proposèrent de surprendre Minoutchehr quand la nuit serait venue et de remplir de sang la plaine et le désert.
 
-Lorsque la nuit. fut venue et que le jour eut disparu, lorsque les ténèbres eurent enveloppé le monde entier, les deux impies firent prendre les armes à leurs troupes et se préparèrent avec ardeur pour une attaque nocturne.
+Lorsque la nuit fut venue et que le jour eut disparu, lorsque les ténèbres eurent enveloppé le monde entier, les deux impies firent prendre les armes à leurs troupes et se préparèrent avec ardeur pour une attaque nocturne.
 
-Mais aussitôt que les espions en eurent nonvelle, ils accoururent vers Minoutchehr et lui racontèrent ce qu’ils avaient enténdu, pour qu’il disposât sonarmée.
+Mais aussitôt que les espions en eurent nouvelle, ils accoururent vers Minoutchehr et lui racontèrent ce qu’ils avaient entendu, pour qu’il disposât son armée.
 
 Le prince les écouta et leur prêta attention, puis il s’occupe avec prudence des moyens de défense.
 
@@ -27,7 +27,7 @@ Parmi les chefs pleins de renom, il en prit trente mille braves, vaillants et ar
 
 Il trouva une place convenable pour une embuscade et vit que les cavaliers étaient pleins d’ardeurs et tels qu’il en avait besoin.
 
-Tour, quand la M6 nuit fut devenue sombre, s’avança avec cent mille hommes ceints pour le combat, résolus et préparés à tenter l’attaque nocturne et levant leurs lances jusqu’aux nuages ; mais lorsqu’il arriva, il vit l’armée en ordre et des étendards brillans devant elle.
+Tour, quand la nuit fut devenue sombre, s’avança avec cent mille hommes ceints pour le combat, résolus et préparés à tenter l’attaque nocturne et levant leurs lances jusqu’aux nuages ; mais lorsqu’il arriva, il vit l’armée en ordre et des étendards brillants devant elle.
 
 Il vit qu’il ne lui restait qu’à combattre et à lutter et éleva le cri de guerre au milieu de ses troupes.
 
@@ -39,29 +39,12 @@ Le roi sortit de son embuscade et Tour ne vit plus de retraite d’aucun côté 
 
 Minoutchehr se précipita après lui et plein du désir de la vengeance, il atteignit Tour le renommé.
 
-Il poussa un grand cri contre cet homme injuste : Arrête, ô tyran plein d’ardeur pour le combat !
+Il poussa un grand cri contre cet homme injuste :
 
-Est-ce ainsi que tu arrachais la tête des innocents, sans penser que le monde crierait vengeance contre toi !»
+> Arrête, ô tyran plein d’ardeur pour le combat !
+>
+> Est-ce ainsi que tu arrachais la tête des innocents, sans penser que le monde crierait vengeance contre toi !
 
 Il enfonça sa lance dans le dos de Tour, qui laissa échapper de ses mains son épée : rapide comme le vent, il l’enleva de la selle, le jeta par terre et fit tout ce que la bravoure exige.
 
-Il sépara sur-le-champ la tête du tronc et fit de son corps une fête pour les bêtes fauves, puis il retourn M7 a son camp, en contemplant cette tete, Signe dune Il écrivit une lettre au roi Feridoun, lui rendant compte des événements heureux et malheureux de la guerre.
-
-Il commença par des hommages adressés au Créateur du monde, maître de la bonté, de la sainteté et de la justice : Gloire au maître du monde le secourable !
-
-C’est lui seul qui protège dans le malheur, c’est lui qui donne la direction et qui console les cœurs, c’est lui qui sera le même en toute éternité.
-
-Après lui hommage au puissant Feridoun, maître du diadème et de la massue, à qui appartiennent la justice et la foi, la gloire, la couronne et le trône des rois !
-
-Tout bonheur émane de sa et fortune, toute gloire et tout honneur émane de son trône.
-
-Nous sommes arrivés sans malheur dans le s pays de Touran’, nous avons rangé notre armée et avons cherché la vengeance.
-
-En trois jours nous
--r avons livré trois grands combats, soit durant la nuit, soit pendant que le soleil éclairait le monde.
-
-Ils ont tenté une surprise nocturne, nous avons redressé une embuscade et combattu de toute mac nière.
-
-J’avais entendu dire que Tour se préparait à une attaque de nuit et que dans son désespoir il et avait eu recours aux enchantements.
-
-Alors j’ai dressé derrière lui une embuscade et je n’ai laissé entre fortune si haute et si basse.
+Il sépara sur-le-champ la tête du tronc et fit de son corps une fête pour les bêtes fauves, puis il retourna à son camp, en contemplant cette tête, signe d'une fortune si haute et si basse.
