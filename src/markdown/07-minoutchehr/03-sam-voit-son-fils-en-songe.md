@@ -23,7 +23,9 @@ Sam, aussitôt qu’il fut réveillé, appela les Mobeds et leur parla longuemen
 
 Que direz-vous de cette histoire et votre esprit peut-il déterminer si cet enfant est encore en vie, ou s’il a péri par le froid du mois de Mihr ou par la chaleur du mois de Temouz?»
 
-Tous, jeunes et vieux, ouvrirent la bouche, se tournant vers le héros et dirent : Quiconque n’est pas reconnaissant envers Dieu, ne connaîtra jamais le bonheur.
+Tous, jeunes et vieux, ouvrirent la bouche, se tournant vers le héros et dirent :
+
+> Quiconque n’est pas reconnaissant envers Dieu, ne connaîtra jamais le bonheur.
 
 Les lions et les tigres qui n’ont pour demeure que les rochers et la poussière, les poissons et les crocodiles qui vivent dans l’eau, tous élèvent leurs petits et font parvenir à Dieu leurs actions de grâce.
 
