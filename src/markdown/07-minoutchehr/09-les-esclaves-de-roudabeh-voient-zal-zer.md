@@ -65,7 +65,7 @@ La jeune fille sourit à ces paroles du page au visage de lune et lui répondit 
 
 > Ne parle pas ainsi, car Mihrab a dans son palais une lune qui est plus haute d’une tête que ton maître.
 >
-> De taille, c’est un platane ; de couleur, c’est de l’ivoire. et elle porte sur la tête une couronne de musc que Dieu lui a donnée ; ses deux yeux sont sombres ; ses sourcils sont des arcs ; son nez est une colonne mince comme un roseau argenté ; sa bouche est étroite comme le cœur d’un homme triste et les boucles de ses cheveux sont comme des anneaux pour les pieds ; ses deux yeux sont pleins de langueur, ses traits pleins d’éclat ; ses joues couvertes de tulipes ; ses cheveux sont comme du musc, le souffle de la vie ne trouve de chemin que par ses lèvres ; il n’y a pas dans le monde une lune comparable à elle.
+> De taille, c’est un platane ; de couleur, c’est de l’ivoire et elle porte sur la tête une couronne de musc que Dieu lui a donnée ; ses deux yeux sont sombres ; ses sourcils sont des arcs ; son nez est une colonne mince comme un roseau argenté ; sa bouche est étroite comme le cœur d’un homme triste et les boucles de ses cheveux sont comme des anneaux pour les pieds ; ses deux yeux sont pleins de langueur, ses traits pleins d’éclat ; ses joues couvertes de tulipes ; ses cheveux sont comme du musc, le souffle de la vie ne trouve de chemin que par ses lèvres ; il n’y a pas dans le monde une lune comparable à elle.
 >
 > Nous sommes venues de Kaboul ; nous sommes venues auprès du roi de Zaboulistan, dans le dessein de réunir ces lèvres de rubis aux lèvres du fils de Sam ; ce serait une chose convenable et à souhaiter, que Roudabeh devînt la compagne de Zal.»
 
@@ -83,7 +83,7 @@ Le page s’en retourna en souriant et le fils illustre de Sam lui demanda :
 
 > Que t’ont-elles dit, que tu souris ainsi en ouvrant tes lèvres et en montrant tes dents argentées 7»
 
-Il raconta au Pehlewan ce qu’il avait entendu, etnla joie rajeunit le cœur du brave.
+Il raconta au Pehlewan ce qu’il avait entendu et la joie rajeunit le cœur du brave.
 
 Il dit au jeune homme au visage de lune :
 
@@ -95,15 +95,19 @@ Les esclaves allèrent auprès des cinq jeunes filles au visage de
 
 . 2M lune, porteurs de paroles pleines de chaleur et chargés de pièces d’or et de trésors.
 
-Ils leur remirent l’or et les joyaux au nom de Zal le Pehlewan et une des esclaves dit au messager au visage de lune : Une parole ne restera jamais secrète si elle ne demeure pas entre deux personnes ; entre trois, il n’y a déjà plus de secret et quatre, c’est une multitude.
+Ils leur remirent l’or et les joyaux au nom de Zal le Pehlewan et une des esclaves dit au messager au visage de lune :
 
-O homme de sens et de bonnes intentions, dis à ton maître qu’il se confie à moi s’il a un secret à dire.»
+> Une parole ne restera jamais secrète si elle ne demeure pas entre deux personnes ; entre trois, il n’y a déjà plus de secret et quatre, c’est une multitude.
+>
+> Ô homme de sens et de bonnes intentions, dis à ton maître qu’il se confie à moi s’il a un secret à dire.»
 
-Les jeunes filles se dirent entre elles : Le lion est entré dans le filet ; les vœux de Roudabeh et ceux de Zal s’accomplissent ; un sort heureux nous a guidés.»
+Les jeunes filles se dirent entre elles :
+
+> Le lion est entré dans le filet ; les vœux de Roudabeh et ceux de Zal s’accomplissent ; un sort heureux nous a guidés.»
 
 Le trésorier aux yeux noirs qui, en cette affaire, était le confident de son maître, revint auprès du roi et lui rapporta en secret toutes les paroles qu’il avait entendues de ces enchanteresses.
 
-Le roi alla vers le jardin de roses. et s’approcha des jeunes filles de Kaboul et ces idoles de Tharaz au visage de Péri, aux jouesde roses, s’avancèrent et l’adorè-
+Le roi alla vers le jardin de roses et s’approcha des jeunes filles de Kaboul et ces idoles de Tharaz au visage de Péri, aux jouesde roses, s’avancèrent et l’adorè-
 rent.
 
 Le roi leur fit des questions sur la taille et le visage de ce cyprès, sur son langage, sa mine, son intelligence et son esprit, pour savoir si elle était digne de lui.
