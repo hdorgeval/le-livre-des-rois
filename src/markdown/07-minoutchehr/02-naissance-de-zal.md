@@ -83,8 +83,7 @@ Il parla ainsi dans sa colère ; son visage étincelait, il maudissait son sort 
 
 Or il y avait une montagne, appelée Alborz ; elle était près du soleil et loin de la foule des hommes.
 
-C’est là qu’avait son nid le Simurgh ; c’est dans ce lieu qu’il l
-se tenait éloigné du monde.
+C’est là qu’avait son nid le Simurgh ; c’est dans ce lieu qu’il l se tenait éloigné du monde.
 
 Ils exposèrent l’ayant sur la montagne et s’en retournèrent et un long temps se passa.
 
@@ -103,7 +102,7 @@ Des épines formaient le berceau de l’enfant, sa nourrice était la terre, son
 Autour de lui était le sol noir et brûlé, au-dessus le soleil qui était devenu ardent.
 0h !
 
-Que son père et sa mère n’étaient-ils des tigres!
+Que son père et sa mère n’étaient-ils des tigres !
 il aurait peut-être alors trouvé un abri contre le soleil.
 
 Dieu donna à Simurgh un mouvement de pitié, de sorte que l’oiseau ne pensa pas à dévorer cet enfant.
