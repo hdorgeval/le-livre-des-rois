@@ -62,7 +62,7 @@ Un cavalier semblable à Adergueschasp partit de Kaboul avec trois chevaux pour 
 
 Zal lui donna ses ordres et lui dit :
 
-> Si l’un de tes chevaux tombe. tu ne te permettras pas un instant de repos, tu sauteras sur un autre et tu continueras 2l7 de courir ainsi jusqu’à ce que tu sois en présence du héros.»
+> Si l’un de tes chevaux tombe tu ne te permettras pas un instant de repos, tu sauteras sur un autre et tu continueras 2l7 de courir ainsi jusqu’à ce que tu sois en présence du héros.»
 
 Le messager partit, rapide comme le vent et sous lui son cheval était comme de l’acier.
 
