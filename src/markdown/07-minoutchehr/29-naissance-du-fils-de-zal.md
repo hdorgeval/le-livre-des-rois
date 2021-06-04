@@ -101,7 +101,9 @@ Lorsque le cyprès se réveilla de son sommeil et adressa la parole à Sindokht,
 
 On lui apporta son enfant, qu’on exalta comme un être céleste ; il n’avait qu’un jour, mais on aurait dit qu’il avait un an ; il était comme un bouquet de lis et de tulipes.
 
-Boudabeb sourit sur cet enfant et aperçut en lui la majesté des rois des rois ; elle dit : Je suis délivrée (rustem) et mes douleurs sont finies : »
+Boudabeb sourit sur cet enfant et aperçut en lui la majesté des rois des rois ; elle dit :
+
+> Je suis délivrée (rustem) et mes douleurs sont finies : »
 
 Et l’on donna à l’enfant le nom de Rustem.
 
@@ -123,7 +125,7 @@ Les cheveux se dressèrent sur la tête de Sam.
 
 Cette image de soie me ressemble, dit-il ; et s’il n’est un jour qu’à moitié grand comme cette figure, il touchera de la tête aux nues et du pan de sa robe à la terre.»
 
-Puis, il appela le messager. et versa sur lui des pièces d’argent jusqu’à ce qu’elles montassent aussi haut que sa tête.
+Puis, il appela le messager et versa sur lui des pièces d’argent jusqu’à ce qu’elles montassent aussi haut que sa tête.
 
 Le bruit des timbales s’éleva joyeusement de la cour et Sam orna la grande place comme l’œil du coq ; il célébra une fête dans le pays des Segsars et dans le Mazenderan, d’une frontière à l’autre ; il fit apporter du vin et appela des chanteurs et versa des pièces d’argent sur tous ceux qui en demandaient.
 
@@ -131,7 +133,7 @@ Une semaine s’étant passée ainsi, le roi donna ordre à un scribe de s’ass
 
 Il commença par rendre grâce à Dieu du bonheur que la rotation du monde avait amené, puis il se mit à louer Zal, le maître de l’épée et de la !
 
-Massue ; il arriva ensuite à cette image de soie, qui avait les bras d’un héros et la majesté d’un roi et ordonna à Zal d’avoir soin de l’enfant de telle sorte que pas un souille ne pût l’atteindre : J’ai invoqué en sacret et jour et nuit le créateur du monde pour que mon œil vît un jour un fils de ta race qui me ressemblât.
+Massue ; il arriva ensuite à cette image de soie, qui avait les bras d’un héros et la majesté d’un roi et ordonna à Zal d’avoir soin de l’enfant de telle sorte que pas un souffle ne pût l’atteindre : J’ai invoqué en sacret et jour et nuit le créateur du monde pour que mon œil vît un jour un fils de ta race qui me ressemblât.
 
 Maintenant mon des et le tien seront redressés, il nous reste qu’à prier pour sa vie. »
 
