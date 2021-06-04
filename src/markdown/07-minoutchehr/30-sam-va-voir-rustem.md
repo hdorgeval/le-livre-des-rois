@@ -95,14 +95,14 @@ Le premier jour du mois de Mihr Sam résolut de retourner vers son trône brilla
 
 Le Pehlewan dit à Zal :
 
-> Ô mon fils!
+> Ô mon fils !
 ne t’éloigne jamais de Dieu le très-juste ; sois toujours prêt à servir les rois, préfère toujours. la raison aux richesses.
 >
 > Pendant toute l’année lave ta main de mauvaises actions et cherche chaque jour la voie de Dieu.
 >
 > Sache que le monde ne reste à personne ; et si tu veux que ton bonheur soit le même dans ce monde que dans l’autre, suis le conseil que je te donne et ne le néglige pas ; ne marche jamais sur la terre que dans le droit chemin, car je sens dans mon cœur que ma vie s’approche au.
 >
-> ses LE LIVRE pas BOIS. de sa fin.»
+> ses pas BOIS. de sa fin.»
 
 Puis, il prit congé de ses deux enfants, en les exhortant à suivre ces conseils.
 
