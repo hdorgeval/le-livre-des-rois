@@ -91,7 +91,7 @@ Kobad s’avança pour reconnaître l’ennemi et Tour, lorsqu’il le sut, vint
 
 > Retourne auprès de Minoutchehr et dis-lui :
 >
-> > Ô jeune roi sans père, puisque c’est une fille qui est née de la race d’Iredj, comment pourraient t’appartenir le trône et le sceau et la couronne?
+> > Ô jeune roi sans père, puisque c’est une fille qui est née de la race d’Iredj, comment pourraient t’appartenir le trône et le sceau et la couronne ?
 
 Il lui répondit :
 
