@@ -3,6 +3,7 @@ export * from './ardeschir-babekan-card';
 export * from './ardeschir-le-bon-card';
 export * from './ardeschir-son-of-schiroui-card';
 export * from './aschkanides-card';
+export * from './azermidokht-card';
 export * from './bahman-card';
 export * from './bahram-bahramian-card';
 export * from './bahram-gour-card';
