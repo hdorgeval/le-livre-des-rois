@@ -23,7 +23,7 @@ Puis le roi fit une réponse à la lettre de Sam et la rédigea dans les termes 
 >
 > Un lion qui fait sa proie du léopard, que peut-il produire qu’un lionceau qui rugit dans le combat ?
 >
-> Je l’ai renvoyé satisfait ; puissent ses ennemis être impuissants à lui nuire!»
+> Je l’ai renvoyé satisfait ; puissent ses ennemis être impuissants à lui nuire !»
 
 Zal se mit en marche, rempli de bonheur et levant la tête au-dessus des braves de son armée.
 
@@ -31,7 +31,7 @@ Il envoya un messager à Sam pour lui dire : Je quitte Minoutchehr le cœur en j
 
 Je me rends en toute hâte auprès de toi, ô mon père glorieux et plein
 
-De tendresse!»
+De tendresse !»
 
 Le Pehlewan en fut si heureux, que malgré sa vieillesse il se sentit rajeuni.
 
@@ -72,7 +72,7 @@ Roudabeh lui répondit :
 >
 > Puisse l’œil des Ahrimans ne pas le frapper !
 >
-> Puissent ton cœur et ton âme être comme une maison de noces!»
+> Puissent ton cœur et ton âme être comme une maison de noces !»
 
 Sindokht écouta les paroles de sa fille et se mit à décorer le palais ; elle arrangea la salle du roi comme un gai paradis, mêla du vin avec du musc et avec de l’ambre, étendit un tapis couvert de figures d’or et brodé partout d’émeraudes et un autre brodé de perles de belle eau, dont chacune était comme une goutte d’eau pure ; elle plaça dans la salle un trône d’or, elle le plaça et l’orna selon la mode de la Chine, un trône dont toutes les figures étaient de pierreries, sur lequel des sculptures remplissaient les intervalles des joyaux et dont les degrés étaient de rubis, car c’était un trône de roi et plein de magnificence.
 
@@ -83,6 +83,6 @@ Elle la fit asseoir dans ce palais doré et ne voulut que personne eût accès a
 I ’ ! .
 Tout le Kaboulistan était orné et rempli de couleurs, de parfums et de choses précieuses ; on jeta des caparaçons sur le dos de tous les éléphants, on les couvrit de brocarts de Roum.
 
-On plaça sur leur des des musiciens et tous les hommes se posèrent un diadème sur la tête.
+On plaça sur leur dos des musiciens et tous les hommes se posèrent un diadème sur la tête.
 
 On se prépara pour aller au-devant de Zal, on choisit les esclaves qui devaient répandre du musc et de l’ambre, étendre des tapis de soie et de poil de castor, verser sur les têtes des émeraudes et de l’or et arroser la terre d’éau de rose et de vin.
