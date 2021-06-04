@@ -13,7 +13,7 @@ order: '011'
 
 Lorsque le soleil brillant eut disparu, qu’on eut fermé la porte du palais et qu’on en eut retiré la clef, l’esclave se rendit auprès de Destan fils de Sam et lui dit :
 
-> Tout est préparé, viens!»
+> Tout est préparé, viens !»
 
 Le prince se dirigea vers le palais, comme il convient à un homme qui cherche une épouse.
 
@@ -33,7 +33,7 @@ Les créneaux étaient éclairés par ce joyau et la terre était devenue comme 
 
 Il répondit :
 
-> Ô jeune fille au visage de lune!
+> Ô jeune fille au visage de lune !
 que mes bénédictions et les grâces du ciel soient sur toi !
 >
 > Que de fois, dans la nuit, les yeux dirigés vers l’étoile du nord, j’ai prié Dieu le saint, demandant que le maître du monde me laisse voir en secret ton visage !
@@ -44,7 +44,11 @@ que mes bénédictions et les grâces du ciel soient sur toi !
 >
 > C’était boucle sur boucle, serpent sur serpent, fil sur fil, qui tombaient sur son cou.
 >
-> Elle fit descendre ces boucles du haut des créneaux et Zal dit en son âme : Voilà un lacet sans défauttnEnsuite Roudabeh cria du haut du mur : Ô Pehlewan, fils d’un brave !
+> Elle fit descendre ces boucles du haut des créneaux et Zal dit en son âme :
+
+> Voilà un lacet sans défauttnEnsuite Roudabeh cria du haut du mur :
+
+> Ô Pehlewan, fils d’un brave !
 >
 > Maintenant hâte-toi, hausse ta taille, étends t’a poitrine de lion et tes mains de roi ; prends mes boucles noires par le bout ; il faut bien que je devienne lacet pour toi.»
 
@@ -55,7 +59,7 @@ Il répondit :
 
 > Ce ne serait pas juste.
 >
-> Puisse le soleil ne jamais briller dans un jour où j’aurais levé la main contre une femme folle d’amour, où j’aurais frappé de la lance pointue un être dont le cœur est brisé!»
+> Puisse le soleil ne jamais briller dans un jour où j’aurais levé la main contre une femme folle d’amour, où j’aurais frappé de la lance pointue un être dont le cœur est brisé !»
 
 Il prit des mains de son esclave un lacet, y fit un nœud coulant et le lança en haut sans prononcer un mot.
 
@@ -96,4 +100,4 @@ Alors le roi prit congé de cette lune et fit de son corps la trame et du sein d
 
 > Ô gloire du monde !
 >
-> Encore un instant ; n’arrive pas si subitement!»Zal jeta du haut du toit son lacet et descendit du palais de sa belle compagne.
+> Encore un instant ; n’arrive pas si subitement !»Zal jeta du haut du toit son lacet et descendit du palais de sa belle compagne.
