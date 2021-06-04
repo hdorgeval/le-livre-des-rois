@@ -5,7 +5,20 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 152
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
-tags: []
+tags:
+  [
+    'âme',
+    'Arabe',
+    'Div',
+    'Dizhoukht',
+    'Gangui',
+    'Kakoui',
+    'Karen',
+    'Minoutchehr',
+    'Roum',
+    'Selm',
+    'Zohak',
+  ]
 order: '024'
 ---
 
