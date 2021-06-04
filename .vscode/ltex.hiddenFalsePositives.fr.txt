@@ -86,3 +86,5 @@
 {"rule":"ACCORD_R_PERS_VERBE","sentence":"^\\QNe dis jamais des choses insensées qui remplissent de joie ton ennemi quand ils les entend, car il comprendra que tu n'as pas assez d'intelligence pour que ton cerveau puisse nourrir une pensée sage.\\E$"}
 {"rule":"ETRE_DAFFAIRES","sentence":"^\\QUn homme qui t'appelle scélérat et puis te salue comme maître du monde, n'est pas digne de s'asseoir devant toi ni d'être chargé d'affaires grandes ou petites.\\E$"}
 {"rule":"ACCORD_NOMBRE","sentence":"^\\QTe voilà maître de la couronne, tu possèdes maintenant une armée et un trésor dignes des rois ; aussi longtemps que tu auras un trésor, tu ne seras pas dans l'embarras.\\E$"}
+{"rule":"PREP_V","sentence":"^\\QIl fit enchaîner les pieds de Siah Djeschm et lui assigna la prison pour demeure.\\E$"}
+{"rule":"ACCORD_NOMBRE","sentence":"^\\QJouis donc de tes biens et donnes en le superflus ; ne mets pas de côté pour ton ennemi ce que tu as amassé avec tant de peine, car lorsque ta vie passera, les trésors que tu as mis en réserve passeront comme le souffle du vent sur la plaine.\\E$"}
