@@ -5,7 +5,20 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 347
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
-tags: []
+tags:
+  [
+    'Farrukhzad',
+    'Feridoun',
+    'immortalité',
+    'Iran',
+    'Khosroës',
+    'Nouschirwan',
+    'Parviz',
+    'Poissons',
+    'Sipendarmud',
+    'Soleil',
+    'Yezdegird',
+  ]
 order: '001'
 ---
 
