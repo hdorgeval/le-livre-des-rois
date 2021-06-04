@@ -84,7 +84,7 @@ Un fils qui sort de la voie de ses pères, ne sera pas, parmi les braves, réput
 
 Un tigre a dit lin-dessus, dans un moment où sa griffe était prête pour le combat :
 
-> J’aime le tr carnage . et mon père avait hérité le même penchant de mon grand-père.
+> J’aime le tr carnage et mon père avait hérité le même penchant de mon grand-père.
 >
 > Il faut que le fils porte le sceau de son père ; serait-il juste qu’il restât au-dessous de lui en valeur ?
 >
@@ -146,7 +146,7 @@ Elle le força de jurer un grand serment et parvint, par son art, à purifier le
 
 Le roi illustre promit à Sindokht qu’il ne ferait aucun mal à Roudabeh, en ajoutant : Mais considère que le roi de la terre sera plein de colère contre nous à cause de ce qui s’est passé.»
 
-Sindokht, sur ces paroles, baissa la tête devant lui. et frappa la terre de son front ; puis elle entra chez sa fille, les lèvres pleines de sourire et montrant ses joues semblables au jour au-dessous de ses cheveux semblables à la nuit.
+Sindokht, sur ces paroles, baissa la tête devant lui et frappa la terre de son front ; puis elle entra chez sa fille, les lèvres pleines de sourire et montrant ses joues semblables au jour au-dessous de ses cheveux semblables à la nuit.
 
 Elle lui donna de bonnes nouvelles, disant :
 
@@ -156,7 +156,7 @@ Elle lui donna de bonnes nouvelles, disant :
 
 Roudaheh lui répondit :
 
-> Qu’est-ce que des ornements, qu’estce qu’une chose sans valeur à la place d’un trésor?
+> Qu’est-ce que des ornements, qu’estce qu’une chose sans valeur à la place d’un trésor ?
 >
 > Le fils de Sam est le fiancé de mon âme, pourquoi cacher ce qui est évident?»
 
