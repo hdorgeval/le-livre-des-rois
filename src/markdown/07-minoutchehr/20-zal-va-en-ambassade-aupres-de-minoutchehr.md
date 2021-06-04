@@ -85,8 +85,7 @@ Les hommes regardaient avidement ce combat, car ce dragon avait été un grand f
 
 Ils m’appelèrent de la Sam qui ne donne qu’un coup, ils versèrent sur moi des joyaux.
 
-Lorsque je revins, mon corps brillant était dépouillé de sa fameuse cuirasse, les caparaçons s’étaient 2b
-fondus sur mon cheval et le venin du dragon me rendit malade pendant longtemps.
+Lorsque je revins, mon corps brillant était dépouillé de sa fameuse cuirasse, les caparaçons s’étaient 2b fondus sur mon cheval et le venin du dragon me rendit malade pendant longtemps.
 
 Depuis heau-coup d’années il n’y avait pas eu de fruits dans ces pays et l’occident n’était couvert que de ronces brûlées.
 
@@ -130,8 +129,7 @@ Dans son désir il est venu me trouver, il est arrivé couvert de sang et de pou
 >
 > Sam, fils de Nériman, invoque mille bénédictions de Dieu sur le. roi du monde et sur les grands de sa cour.»
 
-Lorsque la lettre fut écrite et leurs plans concertés, Zal la saisit avidement et se leva, il sortit et 
-2A
+Lorsque la lettre fut écrite et leurs plans concertés, Zal la saisit avidement et se leva, il sortit et 2A
 sauta sur son cheval et le bruit des trompettes s’éleva.
 
 Les braves l’accompagnèrent sur la route, tournant leur visage en toute hâte vers le roi et Sam qui tue d’un seul coup se rendit dans le jardin de roses lorsque Zal eut quitté le Zaliboustan.
