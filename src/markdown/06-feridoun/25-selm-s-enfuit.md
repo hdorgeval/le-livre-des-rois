@@ -5,7 +5,22 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 155
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'âme',
+    'Chine',
+    'Dieu',
+    'Divs',
+    'Feridoun',
+    'Kakoui',
+    'Minoutchehr',
+    'Occident',
+    'Pescheng',
+    'Roum',
+    'Selm',
+    'Touran',
+  ]
 order: '025'
 ---
 
