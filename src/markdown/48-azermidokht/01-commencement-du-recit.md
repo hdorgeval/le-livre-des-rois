@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 342
 reign: 'Azermidokht'
 reign-slug: 'regne-de-azermidokht'
-tags: []
+tags: ['Arabe', 'Azerm', 'Chine', 'Inde', 'Iran', 'Keïanides', 'Perse', 'Roum', 'Roumi', 'Turcs']
 order: '001'
 ---
 
