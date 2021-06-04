@@ -40,7 +40,7 @@ Puis le roi dit à Sam :
 > Prends soin de lui par égard pour moi ; ne l’alllige pas par un regard de
 >
 > [
-colère ; ne cherche ton bonheur qu’en lui ; car il a la majesté d’un roi, les bras d’un lion, le cœur d’un sage. et la prudence d’un vieillard ; enseignelui l’art et les armes de la guerre et les plaisirs et les coutumes du banquet, car il n’a vu que l’oiseau du rocher et son nid : comment pourrait-il connaître toutes nos coutumes ?»
+colère ; ne cherche ton bonheur qu’en lui ; car il a la majesté d’un roi, les bras d’un lion, le cœur d’un sage et la prudence d’un vieillard ; enseignelui l’art et les armes de la guerre et les plaisirs et les coutumes du banquet, car il n’a vu que l’oiseau du rocher et son nid : comment pourrait-il connaître toutes nos coutumes ?»
 
 Ensuite Sam raconta tout ce qui regardait le Simurgh et son haut rocher, etpourquoi son fils illustre n’avait pas trouvé grâce devant lui et comment Zal avait été couché, nourri et caché dans le nid.
 
