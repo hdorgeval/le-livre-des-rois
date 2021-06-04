@@ -1024,6 +1024,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/ZEW\./g, ''),
     (content: string) => content.replace(/3&6 /g, ''),
     (content: string) => content.replace(/3&7 /g, ''),
+    (content: string) => content.replace(/FEBIDOUN/g, ''),
   ].forEach((format) => {
     result = format(result);
   });
