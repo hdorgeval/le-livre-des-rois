@@ -5,7 +5,20 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 149
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
-tags: []
+tags:
+  [
+    'Alains',
+    'Dieu',
+    'Dihkan',
+    'Guerschasp',
+    'Iran',
+    'Karen',
+    'Minoutchehr',
+    'Pehlewan',
+    'Schiroui',
+    'Selm',
+    'Tour',
+  ]
 order: '023'
 ---
 
