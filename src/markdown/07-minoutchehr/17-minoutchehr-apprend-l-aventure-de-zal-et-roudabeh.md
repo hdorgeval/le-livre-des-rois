@@ -39,7 +39,7 @@ Tous les Mobeds invoquèrent la grâce de Dieu sur lui, en disant :
 >
 > Fais ce que la raison exige, elle commande même au cœur du dragon.»
 
-Le glorieux roi ayant entendu leur réponse, chercha un moyen de mener à fin cette alfaire.
+Le glorieux roi ayant entendu leur réponse, chercha un moyen de mener à fin cette affaire.
 
 Il manda auprès de lui Newder avec ses nobles et ses grands et lui dit :
 
@@ -53,7 +53,7 @@ Bientôt les grands et le glorieux Newder arrivèrent auprès de Sam le cavalier
 
 > l’obéirai et la vue du roi sera une fête pour mon âme.»
 
-Ce jourlà ils furent les hôtes de Sam, qui était joyeux de cette rencontre.
+Ce jour là ils furent les hôtes de Sam, qui était joyeux de cette rencontre.
 
 On dressa des tables, on saisit les coupes, on porta d’abord la santé de Minoutchehr, puis œlle de Newder, de Sam et de tous les grands, ensuite ils par»
 
