@@ -207,6 +207,7 @@ export const noises = [
   'Empêche',
   'Enchaînez',
   'Enfin',
+  'Homme',
   'Enseigne-lui',
   'Ensuite',
   'Entoure-toi',
