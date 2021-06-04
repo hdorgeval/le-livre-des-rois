@@ -41,7 +41,7 @@ Les cuisiniers apportèrent une table d’or et le roi des rois s’y assit avec
 
 Le vin étant bu, le fils de Sam monta un cheval à frein d’or, il partit et passa la longue nuit, le cœur plein de pensées, la bouche pleine de paroles.
 
-A la pointe du jour il se présenta respectueusement devant Minoutchehr, qui était assis dans toute sa gloire.
+À la pointe du jour il se présenta respectueusement devant Minoutchehr, qui était assis dans toute sa gloire.
 
 Le roi du monde le bénit et après qu’il fut sorti, il fit son éloge en secret.
 
@@ -53,7 +53,7 @@ Après avoir employé trois jours à leur recherche, ils reparurent, une table a
 
 Ils adressèrent au roi la parole, disant :
 
-> Nous avons calculé les mouvements des astres. et voici ce que nous avons découvert sur les intentions du ciel.
+> Nous avons calculé les mouvements des astres et voici ce que nous avons découvert sur les intentions du ciel.
 >
 > Cette eau coulera limpide ; il naîtra de la fille de Mihrab et du fils de Sam un héros plein d’énergie et de gloire : il aura une longue vie, de la force, de la gloire et un grand nom, de la hardiesse, de l’intelligence et un brasfort et personne ne sera son égal ni au combat ni au banquet.
 >
