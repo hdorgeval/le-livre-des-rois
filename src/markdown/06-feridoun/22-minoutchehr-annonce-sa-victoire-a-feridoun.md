@@ -5,7 +5,21 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 147
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
-tags: []
+tags:
+  [
+    'âme',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Feridoun',
+    'Gloire',
+    'Iran',
+    'Iredj',
+    'Minoutchehr',
+    'Selm',
+    'Tour',
+    'Touran',
+  ]
 order: '022'
 ---
 
