@@ -19,22 +19,21 @@ Il résolut de s’y retirer, car le temps tient dans sa main le bonheur et le m
 
 Mais Minoutchehr dit :
 
-> Si Selm se retire du combat, il trouvera un a refuge dans le château des Alains.
+> Si Selm se retire du combat, il trouvera un refuge dans le château des Alains.
 >
-> Il faut lui intercepter le chemin, car s’il atteint le château de la mer, personne ne pourra plus le déraciner et il a tiendra une forteresse qui s’élève jusqu’aux nues et que l’art a fait sortir du fond des eaux.
+> Il faut lui intercepter le chemin, car s’il atteint le château de la mer, personne ne pourra plus le déraciner et il tiendra une forteresse qui s’élève jusqu’aux nues et que l’art a fait sortir du fond des eaux.
 >
-> Elle constient des trésors de toute espèce et les ailes de l’aigle royal la couvrent de leur ombre.
+> Elle contient des trésors de toute espèce et les ailes de l’aigle royal la couvrent de leur ombre.
 >
-> Il faut que a je parte pour cette entreprise, il faut que j’use de a l’étrier et des rênes.»
+> Il faut que je parte pour cette entreprise, il faut que j’use de l’étrier et des rênes.
 
-Après y avoir réfléchi, il en parla à Karen à qui. l’on pouvait confier de tels secrets et Karen ayant entendu les paroles du roi, lui dit :
+Après y avoir réfléchi, il en parla à Karen à qui l’on pouvait confier de tels secrets et Karen ayant entendu les paroles du roi, lui dit :
 
-> Ô mon gra-cieux maître !
+> Ô mon gracieux maître !
 >
-> S’il plaisait au roi de confier au derrr nier d’entre ses guerriers une armée nombreuse, je m’emparerais de la porte de la forteresse de Selm, car elle lui donne le moyen soit de combattre, soit de s’enfuir ; mais il faut que tu me laisses prendre avec moi l’étendard royal et la bague de Tour.
+> S’il plaisait au roi de confier au dernier d’entre ses guerriers une armée nombreuse, je m’emparerais de la porte de la forteresse de Selm, car elle lui donne le moyen soit de combattre, soit de s’enfuir ; mais il faut que tu me laisses prendre avec moi l’étendard royal et la bague de Tour.
 >
-> Je vais maintenant préparer un moyen de jeter mon armée dans le fort, je partirai avec Guerschasp pen-
-I dant cette nuit sombre ; mais garde-toi de confitr ce secret à qui que ce soit.»
+> Je vais maintenant préparer un moyen de jeter mon armée dans le fort, je partirai avec Guerschasp pendant cette nuit sombre ; mais garde-toi de confier ce secret à qui que ce soit.
 
 Parmi les guerriers renommés, il en choisit six mille qui tous avaient fait leurs preuves sur le champ de bataille.
 
@@ -42,21 +41,21 @@ L’air étant devenu noir comme l’ébène, ils placèrent les timbales sur le
 
 Alors Karen confia le commandement à Schiroui et lui dit :
 
-> Je vais me déguiser et me présenter avec un message devant le cognmandant du fort ; je lui montrerai le sceau de la bague. de Tour.
+> Je vais me déguiser et me présenter avec un message devant le commandant du fort ; je lui montrerai le sceau de la bague de Tour.
 >
 > Aussitôt que je serai dans le fort, j’élèverai mon étendard, je ferai briller mon épée bleue.
 >
-> Vous tiendrez les yeux fixés sur moi et quand je pousserai un cri, vous avancerez en toute hâte.»
+> Vous tiendrez les yeux fixés sur moi et quand je pousserai un cri, vous avancerez en toute hâte.
 
 Il laissa l’armée sur le bord de la mer, sous les ordres de Schiroui le vainqueur des lions ; lui-même se mit en marche et lorsqu’il fut arrivé auprès du château, il parla au chef et lui montra le sceau en disant :
 
 > Je viens d’auprès de Tour, qui m’a dit :
-
+>
 > Ne te donne pas le temps de respirer, va auprès du commandant du fort, dis-lui de ne se reposer et de ne se divertir ni jour ni nuit et sois son compagnon dans le bonheur et dans le malheur ; prends le commandement du fort et sois vigilant.
 >
-> S’il arrivait un drapeau, que Minoutchehr enverrait avec une armée contre le fort, vous le repousserez, vous vous défendrez bravement et j’espère que vous vaincrez l’ennemi.»
+> S’il arrivait un drapeau, que Minoutchehr enverrait avec une armée contre le fort, vous le repousserez, vous vous défendrez bravement et j’espère que vous vaincrez l’ennemi.
 
-Le commandant ayant entendu ces paroles et vu le sceau de la bague,’fit ouvrir la porte de la forteresse ; car il ne voyait que ce qui paraissait et ne devinait pas le secret.
+Le commandant ayant entendu ces paroles et vu le sceau de la bague, fit ouvrir la porte de la forteresse ; car il ne voyait que ce qui paraissait et ne devinait pas le secret.
 
 Remarque ce que dit le sage Dihkan :
 
@@ -64,23 +63,19 @@ Remarque ce que dit le sage Dihkan :
 >
 > Que ma profession et la tienne soient l’obéissance à Dieu et que nous y joignions la réflexion !
 >
-> Il faut nous consulter entre nous sur tout ce qu’il y aura à faire dans le bonheur et dans le malheur.»
+> Il faut nous consulter entre nous sur tout ce qu’il y aura à faire dans le bonheur et dans le malheur.
 
 Le commandant et Karen, avides de combats, examinèrent tous les remparts, l’un formant des plans de trahison, l’autre simple de cœur ; pendant que le chef de l’armée d’Iran était prêt à toute entreprise, le commandant posa sur l’étranger le sceau de l’intimité et livra follement sa tête et sa ville au vent.
 
-Voici ce que dit Icidessus à son petit un léopard courageux :
+Voici ce que dit là-dessus à son petit un léopard courageux :
 
 > Ô mon petit, plein de bravoure et prompt de la griffe !
 >
-> Ne te jette pas étourdiment ce dans une affaire difficile ; considèrela et pèsela de tous côtés.
+> Ne te jette pas étourdiment dans une affaire difficile ; considère là et pèse là de tous côtés.
 >
 > Si douces que soient les paroles d’un étranger, si candide qu’il paraisse au temps de la guerre et des combats, sois attentif, méfie-toi d’une surprise et en toute chose regarde le fond.
 >
-> Rap-pelle-toi comment un chef plein de sagesse a manqué de précaution dans une affaire délicate, n’a pas pensé aux ruses de l’ennemi et a liyré ainsi au i3
->
-> I5 ?
->
-> Vent sa forteresse.»
+> Rappelle-toi comment un chef plein de sagesse a manqué de précaution dans une affaire délicate, n’a pas pensé aux ruses de l’ennemi et a livré ainsi au vent sa forteresse.
 
 Quand la nuit fut plus avancée, Karen, avide de combats, éleva un drapeau semblable au disque de la lune.
 
