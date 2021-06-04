@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 344
 reign: 'Farrukhzad'
 reign-slug: 'regne-de-farrukhzad'
-tags: []
+tags: ['Créateur', 'cyprès', 'Djehrem', 'Djeschm', 'Farrukhzad', 'Keïanides', 'Siah']
 order: '001'
 ---
 
