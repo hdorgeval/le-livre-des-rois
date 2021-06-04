@@ -66,7 +66,7 @@ Tous les grands rendirent hommage au roi illustre plein de justice et une voix s
 
 > Ô vous, héros de bon conseil, ne versez plus le sang étourdiment, car la fortune des tyrans a baissé.»
 
-Làdessus tous les guerriers de Chine inclinèrent leurs têtes jusqu’à terre et apportèrent devant le fils de Pescheng toutes leurs armes et tous leurs instruments de guerre.
+Là-dessus tous les guerriers de Chine inclinèrent leurs têtes jusqu’à terre et apportèrent devant le fils de Pescheng toutes leurs armes et tous leurs instruments de guerre.
 
 Ils vinrent au-
 près de lui, bande par bande et formèrent de cuirasses, de casques, d’armures de chevaux, de massues et d’épées indiennes un monceau haut comme une montagne.
