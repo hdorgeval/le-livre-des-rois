@@ -55,7 +55,7 @@ Sindokht dit à Sam :
 >
 > Si quelqu’un a commis une faute, c’est Mihrab et ses paupières se sont mouillées du sang de son cœur.
 >
-> Mais quel crime ont commis les habitants de Kaboul pour qu’il faille les anéantir?
+> Mais quel crime ont commis les habitants de Kaboul pour qu’il faille les anéantir ?
 >
 > Ils ne vivent tous que pour te servir, ils sont tes esclaves et la poussière de tes pieds.
 >
