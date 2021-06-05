@@ -5,7 +5,29 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 171
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Alborz',
+    'âme',
+    'Créateur',
+    'Destan',
+    'Destan-i-zend',
+    'Dieu',
+    'Hindoustan',
+    'Keïanides',
+    'Mihr',
+    'Mobed',
+    'Mobeds',
+    'Pehlewan',
+    'Pehlewans',
+    'Pléiades',
+    'Sam',
+    'Saturne',
+    'Simurgh',
+    'Temouz',
+    'Zal-zer',
+  ]
 order: '003'
 ---
 
