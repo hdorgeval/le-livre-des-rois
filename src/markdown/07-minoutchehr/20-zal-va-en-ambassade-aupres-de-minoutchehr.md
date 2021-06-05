@@ -129,7 +129,6 @@ Dans son désir il est venu me trouver, il est arrivé couvert de sang et de pou
 >
 > Sam, fils de Nériman, invoque mille bénédictions de Dieu sur le. roi du monde et sur les grands de sa cour.»
 
-Lorsque la lettre fut écrite et leurs plans concertés, Zal la saisit avidement et se leva, il sortit et 2A
-sauta sur son cheval et le bruit des trompettes s’éleva.
+Lorsque la lettre fut écrite et leurs plans concertés, Zal la saisit avidement et se leva, il sortit et 2A sauta sur son cheval et le bruit des trompettes s’éleva.
 
 Les braves l’accompagnèrent sur la route, tournant leur visage en toute hâte vers le roi et Sam qui tue d’un seul coup se rendit dans le jardin de roses lorsque Zal eut quitté le Zaliboustan.
