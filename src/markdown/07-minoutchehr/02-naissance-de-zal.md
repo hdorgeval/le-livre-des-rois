@@ -5,7 +5,24 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 167
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Alborz',
+    'âme',
+    'Créateur',
+    'cyprès',
+    'Dieu',
+    'Div',
+    'Iran',
+    'Neriman',
+    'Noubehar',
+    'Pehlewan',
+    'Péri',
+    'Sam',
+    'Simurgh',
+    'Zal',
+  ]
 order: '002'
 ---
 
