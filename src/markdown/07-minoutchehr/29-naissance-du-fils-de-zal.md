@@ -57,7 +57,7 @@ Le Simurgh lui dit :
 >
 > Pourquoi l’œil du lion est-il humide ?
 >
-> Ce cyprès argenté au beau visage te donnera un lionceau avide de gloire ; les lions baiseront la poussière de ses pieds, ce et les nuages n’oseront passer ait-dessus de sa tête. tr A sa voix se fendra la peau du léopard courageux, qui mordra ses deux griffes.
+> Ce cyprès argenté au beau visage te donnera un lionceau avide de gloire ; les lions baiseront la poussière de ses pieds, ce et les nuages n’oseront passer ait-dessus de sa tête. tr À sa voix se fendra la peau du léopard courageux, qui mordra ses deux griffes.
 >
 > Tous les braves qui ç entendront le bruit de sa massue, qui verront sa poi, trine, ses bras et ses jambes, Sentimut, à sa voix, défaillir leur cœur, si courageux et si déterminés c qu’ils soient.
 >
