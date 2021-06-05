@@ -103,7 +103,7 @@ Sam le vaillant chef se présenta devant le puissant roi Minoutchehr.
 
 Le héros sans pareil offrit ses hommages au roi et il allait lui parler de Mihrab et de Zal, lorsque le roi du monde le prévint et commença à en parler dans un sens bien différent, en disant :
 
-> Pars d’ici avec l’élite des grands, allume un feu dans l’Hindostan et brûle tous les palais de Mihrab, roi de Kabriul ; il ne faut pas qu’il t’él La salle d’audience des rois de Perse n’était fermée par devant que par un rideau.
+> Pars d’ici avec l’élite des grands, allume un feu dans l’Hindoustan et brûle tous les palais de Mihrab, roi de Kabriul ; il ne faut pas qu’il t’él La salle d’audience des rois de Perse n’était fermée par devant que par un rideau.
 >
 > On peut voir encore aujourd’hui dans les ruines du palais des Khosroës à Ctésiphon, que la grande salle qui occupe le milieu de l’édifice n’était séparée de la cour par aucune maçonnerie.
 >
