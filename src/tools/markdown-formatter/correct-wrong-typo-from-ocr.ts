@@ -272,6 +272,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
     (content: string) => content.replace(/toujoursl /g, 'toujours ! '),
     (content: string) => content.replace(/ Mohed/g, ' Mobed'),
+    (content: string) => content.replace(/Hindostan/g, 'Hindoustan'),
+    (content: string) => content.replace(/A sa /g, 'À sa '),
   ].forEach((format) => {
     result = format(result);
   });
