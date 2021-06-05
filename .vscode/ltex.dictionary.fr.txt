@@ -409,3 +409,5 @@ Sipendarmud
 Ghilan
 Noubehar
 Simurgh
+zer
+Temouz
