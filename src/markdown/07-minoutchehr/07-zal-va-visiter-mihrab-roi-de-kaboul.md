@@ -13,7 +13,7 @@ order: '007'
 
 Il arriva un jour que Zal résolut de faire un tour dans l’empire ; il se mit en route avec ses amis fidèles, qui étaient unis avec lui de foi et de volonté.
 
-Il se dirigea vers l’Hindostan, vers Kaboul, Dambar, Murgh et Mai’ ; à chaque endroit il fit placer un trône, demandant du vin, de la musique et des chansons, ouvrant la porte de son trésor, bannissant les soucis comme il convient de faire dans ce monde fugitif.
+Il se dirigea vers l’Hindoustan, vers Kaboul, Dambar, Murgh et Mai’ ; à chaque endroit il fit placer un trône, demandant du vin, de la musique et des chansons, ouvrant la porte de son trésor, bannissant les soucis comme il convient de faire dans ce monde fugitif.
 
 Il alla du Zaboulistan au Kaboul avec pompe et le cœur plein de joie et de plaisir.
 
