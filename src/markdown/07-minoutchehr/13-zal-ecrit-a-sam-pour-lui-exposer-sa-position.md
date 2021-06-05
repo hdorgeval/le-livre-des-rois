@@ -25,7 +25,7 @@ Je suis devant lui comme un esclave ; mon âme et mon cœur sont remplis d’amo
 
 Je suis né de ma mère tel qu’il m’a vu et depuis ce temps le ciel n’a amené sur moi que des injustices.
 
-Mon père était vêtu mollement d’étoiles de castor et de soie et moi je fus porté par le Simurgh sur les montagnes de l’Hindostan, où ma seule prière était qu’il m’apportât de la proie et qu’il me comptât parmi ses petits.
+Mon père était vêtu mollement d’étoiles de castor et de soie et moi je fus porté par le Simurgh sur les montagnes de l’Hindoustan, où ma seule prière était qu’il m’apportât de la proie et qu’il me comptât parmi ses petits.
 
 Ma peau était brûlée par le vent et de temps en temps la poussière me couvrait les yeux.
 
