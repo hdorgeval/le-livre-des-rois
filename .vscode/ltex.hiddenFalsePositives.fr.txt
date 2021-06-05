@@ -105,3 +105,5 @@
 {"rule":"AUX_ETRE_VCONJ","sentence":"^\\QDerrière les rideaux de ton palais, ô mon glorieux maître, est né de sa mère un enfant pur, un fils de Pehlewan, au cœur de lion, qui tout petit qu'il est paraît avoir un cœur plein de courage.\\E$"}
 {"rule":"ACCORD_R_PERS_VERBE","sentence":"^\\QIls l'environnèrent d'une tendresse merveilleuse, il s'étonnèrent de la beauté de son visage.\\E$"}
 {"rule":"ACCORD_GENRE","sentence":"^\\QIl leva la tête droit vers le ciel et demanda pardon de ses actions, disant :\\E$"}
+{"rule":"ACCORD_NOMBRE","sentence":"^\\QSes cils étaient noirs, ses yeux couleur de bitume, ses lèvres comme le corail, ses joues comme le sang.\\E$"}
+{"rule":"PREP_V","sentence":"^\\QLes lions et les tigres qui n'ont pour demeure que les rochers et la poussière, les poissons et les crocodiles qui vivent dans l'eau, tous élèvent leurs petits et font parvenir à Dieu leurs actions de grâce.\\E$"}
