@@ -5,11 +5,30 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 178
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Alborz',
+    'âme',
+    'Créateur',
+    'Destan',
+    'Dieu',
+    'Karen',
+    'Keïanides',
+    'Minoutchehr',
+    'Neriman',
+    'Newder',
+    'Pehlewan',
+    'Sam',
+    'Simurgh',
+    'Zaboulistan',
+    'Zal',
+    'Zal-zer',
+    'Zarasp',
+  ]
 order: '004'
 ---
 
-# Minoutchehr apprend l'histoire de Sam et de Zal-Zer
+# Minoutchehr apprend l'histoire de Sam et de Zal-zer
 
 Minoutchehr reçut du Zaboulistan la nouvelle que Sam était revenu de la montagne en grande pompe.
 
