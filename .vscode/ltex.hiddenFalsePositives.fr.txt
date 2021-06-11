@@ -107,3 +107,5 @@
 {"rule":"ACCORD_GENRE","sentence":"^\\QIl leva la tête droit vers le ciel et demanda pardon de ses actions, disant :\\E$"}
 {"rule":"ACCORD_NOMBRE","sentence":"^\\QSes cils étaient noirs, ses yeux couleur de bitume, ses lèvres comme le corail, ses joues comme le sang.\\E$"}
 {"rule":"PREP_V","sentence":"^\\QLes lions et les tigres qui n'ont pour demeure que les rochers et la poussière, les poissons et les crocodiles qui vivent dans l'eau, tous élèvent leurs petits et font parvenir à Dieu leurs actions de grâce.\\E$"}
+{"rule":"QUI_VCONJ","sentence":"^\\QMais je vous laisserai mon fils qui m'est cher comme mon âme et comme le sang de mon cœur.\\E$"}
+{"rule":"EN_BON_ORDRE","sentence":"^\\QLes clochettes et les trompettes indiennes sonnèrent dans la cour des tentes du roi et Sam partit pour la guerre avec une armée en bon ordre et avide de combats.\\E$"}
