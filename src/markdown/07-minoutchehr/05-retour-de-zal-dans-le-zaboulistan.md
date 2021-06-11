@@ -5,7 +5,27 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 182
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Bust',
+    'Chine',
+    'Dambar',
+    'Dieu',
+    'Inde',
+    'Kaboul',
+    'Maï',
+    'Minoutchehr',
+    'Mobeds',
+    'Nimrouz',
+    'Pehlewan',
+    'Roum',
+    'Sam',
+    'Seïstan',
+    'Sind',
+    'Zaboulistan',
+    'Zal',
+    'Zal-zer',
+  ]
 order: '005'
 ---
 
