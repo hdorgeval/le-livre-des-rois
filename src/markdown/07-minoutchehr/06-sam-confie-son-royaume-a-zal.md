@@ -5,7 +5,20 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 182
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'cyprès',
+    'Destan',
+    'Dieu',
+    'Kerguesars',
+    'Mazenderan',
+    'Mobeds',
+    'Sam',
+    'Simurgh',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '006'
 ---
 
