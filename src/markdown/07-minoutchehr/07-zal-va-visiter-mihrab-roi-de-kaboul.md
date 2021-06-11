@@ -5,7 +5,29 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 188
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'Arabe',
+    'Arabes',
+    'cyprès',
+    'Dambar',
+    'Destan',
+    'Divs',
+    'Hindoustan',
+    'Kaboul',
+    'Maï',
+    'Mihrab',
+    'Mobed',
+    'Murgh',
+    'Pehlewan',
+    'Sam',
+    'Tharaz',
+    'tribut',
+    'Zaboulistan',
+    'Zal',
+    'Zohak',
+  ]
 order: '007'
 ---
 
