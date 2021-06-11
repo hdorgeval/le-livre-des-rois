@@ -6,7 +6,7 @@ source: tome I - livre des rois - P. 182
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
 tags: []
-order: '005'
+order: '006'
 ---
 
 # Sam confie son royaume à Zal
@@ -19,50 +19,45 @@ Il parla ainsi aux sages de renom :
 >
 > Le roi dans sa sagesse m’a ordonné de me mettre en route avec l’armée ; je marcherai contre le pays des Kerguesars et contre le Mazenderan avec des troupes nombreuses.
 >
-> Mais je vous laisserai mon fils qui m’est cher comme mon âme et comme le sang de mon !
->
-> Cœur.
+> Mais je vous laisserai mon fils qui m’est cher comme mon âme et comme le sang de mon cœur.
 >
 > J’ai commis, au temps de la jeunesse et de l’arrogance, une injustice cruelle.
 >
-> Dieu m’avaitdonné ce un fils ; je l’abandonnai, dans mon ignorance je méconnus son prix.
+> Dieu m’avait donné un fils ; je l’abandonnai, dans mon ignorance je méconnus son prix.
 >
 > Le noble Simurgh l’a recueilli et Dieu ne l’a pas laissé périr comme une chose vile.
 >
-> Je l’ai méprisé, un oiseau l’a respecté et l’a élevé usqu’à ce qu’il fût comme un cyprès élancé ; et lorsque se le temps de me pardonner est arrivé, Dieu le maître du monde me l’a rendu.
+> Je l’ai méprisé, un oiseau l’a respecté et l’a élevé jusqu’à ce qu’il fût comme un cyprès élancé ; et lorsque se le temps de me pardonner est arrivé, Dieu le maître du monde me l’a rendu.
 >
-> Sachez qu’il est un souvenir que je vauclusien et qu’il est mon gage auprès de vous.
+> Sachez qu’il est un souvenir que je vous laisse et qu’il est mon gage auprès de vous.
 >
 > Je vous charge de lui enseigner ce qui est bon et de faire briller son âme de toutes les vertus.
 >
-> Respectenle, donnez-lui vos conseils et les manières et la conduite d’un roi, car je pars avec les chefs de l’armée, selon les ordres du roi, pour aller combattre les ennemis.»
+> Respectez-le, donnez-lui vos conseils et les manières et la conduite d’un roi, car je pars avec les chefs de l’armée, selon les ordres du roi, pour aller combattre les ennemis.
 
 Puis Sam tourna ses regards vers Zal et lui dit :
 
 > Sois juste et généreux et cherche la tranquillité.
 >
-> Sache que le Zaboulistan est ton domaine et que le monde entier est à t’es ordres.
+> Sache que le Zaboulistan est ton domaine et que le monde entier est à tes ordres.
 >
 > Embellis ton palais et ton héritage, rends heureux le cœur de tes amis.
 >
 > La clef de la porte des trésors est devant toi et mon âme sera heureuse ou triste selon que tu seras heureux ou malheureux.
 >
-> Fais tout ce que ton cœur joyeux désirera, que ce soit une fête ou un combat.»
+> Fais tout ce que ton cœur joyeux désirera, que ce soit une fête ou un combat.
 
 Le jeune Zal répondit à Sam :
 
-> Comment pour-
-rai-je vivre pendant ton absence ?
+> Comment pourrai-je vivre pendant ton absence ?
 >
-> S’il y a quelqu’un que sa ’mèreait mis au monde innocent, c’est moi,
->
-> et pourtant je pourrais me plaindre avec justice.
+> S’il y a quelqu’un que sa mère ait mis au monde innocent, c’est moi, et pourtant je pourrais me plaindre avec justice.
 >
 > Ne m’éloigne pas de toi encore plus que tu ne l’as déjà fait, car le jour de la concorde est venu.
 >
 > Il fut un temps où je rampais à terre, sous les serres de l’oiseau, où je suçais du sang, où ma demeure était un nid, où un oiseau était mon protecteur, où j’étais compté parmi les oiseaux.
 >
-> Maintenant je suis loin de mon père nourricier ; c’est ainsi que le sort règle mes destinées ; il ne me revient de la rose que les épines : mais il n’y a pas à lutter contre le maître du monde.»
+> Maintenant je suis loin de mon père nourricier ; c’est ainsi que le sort règle mes destinées ; il ne me revient de la rose que les épines : mais il n’y a pas à lutter contre le maître du monde.
 
 Sam lui répondit :
 
@@ -70,14 +65,13 @@ Sam lui répondit :
 >
 > Les astrologues et ceux qui connaissent la marche des astres ont prédit, dans un horoscope de bon augure, que toujours tu auras un lieu de repos, toujours une armée, toujours une couronne.
 >
-> Ce que les sphères du ciel ont prédit est immuable et tu es destiné à répandre l’amour au-
-tour de toi.
+> Ce que les sphères du ciel ont prédit est immuable et tu es destiné à répandre l’amour autour de toi.
 >
-> Réunis maintenant autour de toi une assemblée de guerriers et de sages ; apprends et prête l’oreille à chaque enseignement, car chaque connaissance te donnera un plaisir ; ne cesse de jouir et de donner ; efforce-toi toujours d’apprendre et de rendre justice.»
+> Réunis maintenant autour de toi une assemblée de guerriers et de sages ; apprends et prête l’oreille à chaque enseignement, car chaque connaissance te donnera un plaisir ; ne cesse de jouir et de donner ; efforce-toi toujours d’apprendre et de rendre justice.
 
 Ainsi parla Sam et les timbales commencèrent à résonner ; la terre devint couleur de fer, le ciel couleur d’ébène.
 
-Les clochettes et les trompettes indiennes sonnèrent dans la cour des tentes du roi et Sam parq tit pour la guerre avec une armée en bon ordre et avide de combats.
+Les clochettes et les trompettes indiennes sonnèrent dans la cour des tentes du roi et Sam partit pour la guerre avec une armée en bon ordre et avide de combats.
 
 Zal l’accompagna dans sa marche pendant deux jours jusqu’au lieu où l’armée allait passer les crêtes des montagnes ; alors son père le serra dans ses bras et poussa de grands cris de douleur.
 
