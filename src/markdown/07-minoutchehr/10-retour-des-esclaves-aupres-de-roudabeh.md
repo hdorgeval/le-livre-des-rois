@@ -15,7 +15,9 @@ Les belles esclaves partirent et Zal s’en retourna, mesurant la lenteur de cet
 
 Les belles arrivèrent à la porte du palais, tenant chacune en main deux branches de rosier.
 
-Le gardien de la porte les vit et se mit à les gronder ; ses paroles étaient dures, son cœur était serré : Vous êtes hors du palais à une heure indue ; je m’étonne que vous sortiez.»
+Le gardien de la porte les vit et se mit à les gronder ; ses paroles étaient dures, son cœur était serré :
+
+> Vous êtes hors du palais à une heure indue ; je m’étonne que vous sortiez.»
 
 Les idoles se préparèrent à lui répondre ; elles trépignèrent, dans leur embarras, en disant :
 
@@ -42,17 +44,19 @@ Les jeunes filles étalèrent devant elles l’or et les joyaux et Roudabeh leur
 
 Vaut-il mieux le voir ou entendre parler de sa gloire et de sa renommée?»
 
-Les cinq filles au visage de Péri ayant trouvé un endroit où elles pouvaient parler à Roudabeh, se hâtèrent de lui répondre : Zal est le héros du monde entier ; personne ne l’égale en manières et en dignité.
+Les cinq filles au visage de Péri ayant trouvé un endroit où elles pouvaient parler à Roudabeh, se hâtèrent de lui répondre :
 
-Cet homme, haut comme un cyprès, a la grâce et la majesté’d’un roi des rois ; il est plein de couleurs et de parfums;, c’est un arbre avec tronc et branches, un cavalier mince de taille et large de poitrine ; ses deux yeux sont comme des narcisses brillants, ses lèvres comme du corail, ses joues comme du sang, ses mains et ses bras comme les bras d’un lion mâle ; il est prudent, il a le cœur d’un Mobed et la dignité d’un roi ; les cheveux de sa tête sont entièrement blancs, il n’a que ce défaut et encore est-ce une beauté.
-
-Les joues et les boucles des cheveux de ce Pehlewan du monde sont comme des mailles d’argent couvrant une rose pourprée.
-
-Tu dirais que cela devait être ainsi et que l’amour qu’il inspire n’augmenterait pas s’il en était autrement.
-
-Nous lui avons donné la bonne nouvelle qu’il pourrait te voir et quand il s’en est retourné, son cœur était rempli d’espoir.
-
-Maintenant prépare un moyen de recevoir cet hôte et donne-nous le message avec lequel nous devons retourner auprès de lui.»
+> Zal est le héros du monde entier ; personne ne l’égale en manières et en dignité.
+>
+> Cet homme, haut comme un cyprès, a la grâce et la majesté’d’un roi des rois ; il est plein de couleurs et de parfums;, c’est un arbre avec tronc et branches, un cavalier mince de taille et large de poitrine ; ses deux yeux sont comme des narcisses brillants, ses lèvres comme du corail, ses joues comme du sang, ses mains et ses bras comme les bras d’un lion mâle ; il est prudent, il a le cœur d’un Mobed et la dignité d’un roi ; les cheveux de sa tête sont entièrement blancs, il n’a que ce défaut et encore est-ce une beauté.
+>
+> Les joues et les boucles des cheveux de ce Pehlewan du monde sont comme des mailles d’argent couvrant une rose pourprée.
+>
+> Tu dirais que cela devait être ainsi et que l’amour qu’il inspire n’augmenterait pas s’il en était autrement.
+>
+> Nous lui avons donné la bonne nouvelle qu’il pourrait te voir et quand il s’en est retourné, son cœur était rempli d’espoir.
+>
+> Maintenant prépare un moyen de recevoir cet hôte et donne-nous le message avec lequel nous devons retourner auprès de lui.»
 
 Le cyprès répondit aux esclaves :
 
