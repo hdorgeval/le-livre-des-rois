@@ -37,7 +37,7 @@ Personne ne peut échapper à la volonté de Dieu. quand même il volerait et s�
 
 Il m’est arrivé une chose qui me. brise le cœur et qu’il m’est imposau ; sible d’approuver à la face du peuple ; mais si mon père, est un brave et un dragon courageux, v veut exaucer la prière de son serviteur, tout ira bien.
 
-Mou cœur s’est enflammé d’amour pour la fille de r Mihrab, j’ai été dévoré comme d’un feu ardent.
+Mou cœur s’est enflammé d’amour pour la fille de Mihrab, j’ai été dévoré comme d’un feu ardent.
 
 Les astres sont mes compagnons dans la nuit sombre et mon état est tel que mon sein ressemble mflot : 
 -de la mer.
