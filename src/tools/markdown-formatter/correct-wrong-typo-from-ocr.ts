@@ -280,10 +280,16 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/toute hâle/g, 'toute hâte'),
     (content: string) => content.replace(/Zabonlistan/g, 'Zaboulistan'),
     (content: string) => content.replace(/Zaboulislan/g, 'Zaboulistan'),
+    (content: string) => content.replace(/Zaboulislan/g, 'Zaboulistan'),
     (content: string) => content.replace(/ c : /g, ' '),
     (content: string) => content.replace(/ c /g, ' '),
+    (content: string) => content.replace(/ r : /g, ' '),
+    (content: string) => content.replace(/ r /g, ' '),
+    (content: string) => content.replace(/ æ /g, ' '),
+
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
     (content: string) => content.replace(/ a comme /g, ' comme '),
+    (content: string) => content.replace(/Ll /g, 'Il '),
   ].forEach((format) => {
     result = format(result);
   });
