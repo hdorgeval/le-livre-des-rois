@@ -175,6 +175,6 @@ Mihrab lui dit :
 >
 > Si un enchanteur de serpents du désert de Kahtan devenait Mage, il faudrait le tuer avec une flèche.»
 
-Lorsque Boudabeli entendit les paroles de son père, son cœur se remplit de sang et sa joue devint pourpre ; r elle baissa ses sourcils noirs sur ses yeux sombres et n’ose respirer, pendant que son père, le cœur plein de colère et la tête pleine de l’ardeur des combats, poussait des cris comme un tigre.
+Lorsque Boudabeli entendit les paroles de son père, son cœur se remplit de sang et sa joue devint pourpre ; elle baissa ses sourcils noirs sur ses yeux sombres et n’ose respirer, pendant que son père, le cœur plein de colère et la tête pleine de l’ardeur des combats, poussait des cris comme un tigre.
 
 Sa fille retourna dans son appartement, le cœur brisé, ses joues de safran colorées par le sang ; et tous les deux, la lune au cœur brisé et le roi, se réfugièrent en Dieu.
