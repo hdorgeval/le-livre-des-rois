@@ -5,7 +5,29 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 197
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'Chine',
+    'cyprès',
+    'Destan',
+    'Dieu',
+    'Ferwerdin',
+    'Kaboul',
+    'Kaboulistan',
+    'Mihrab',
+    'Pehlewan',
+    'Pléiades',
+    'Péri',
+    'Roudabeh',
+    'Roum',
+    'Sam',
+    'Tharaz',
+    'Yémen',
+    'Zaboulistan',
+    'Zal',
+    'Zal-Zer',
+  ]
 order: '009'
 ---
 
