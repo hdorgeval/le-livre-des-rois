@@ -21,7 +21,7 @@ Le gardien de la porte les vit et se mit à les gronder ; ses paroles étaient d
 
 Les idoles se préparèrent à lui répondre ; elles trépignèrent, dans leur embarras, en disant :
 
-> Le jour d’aujourd’hui est un r jour comme les autres et il n’y a pas de Div pervers
+> Le jour d’aujourd’hui est un jour comme les autres et il n’y a pas de Div pervers
 . dans le jardin de roses.
 >
 > Le printemps est venu, a nous cueillons des roses dans le jardin et cherchons dans les champs des tiges de lavande.»
@@ -40,9 +40,11 @@ Les idoles de Tharaz entrèrent dans le palais, s’assirent à côté de la lun
 
 Le cœur de Roudabeh s’enflamma d’amour dans l’espoir de voir son visage.
 
-Les jeunes filles étalèrent devant elles l’or et les joyaux et Roudabeh leur fit des questions sur tout ce qu’elles avaient remarqué : Qu’avez-vous fait avec le fils de Sam ?
+Les jeunes filles étalèrent devant elles l’or et les joyaux et Roudabeh leur fit des questions sur tout ce qu’elles avaient remarqué :
 
-Vaut-il mieux le voir ou entendre parler de sa gloire et de sa renommée?»
+> Qu’avez-vous fait avec le fils de Sam ?
+>
+> Vaut-il mieux le voir ou entendre parler de sa gloire et de sa renommée?»
 
 Les cinq filles au visage de Péri ayant trouvé un endroit où elles pouvaient parler à Roudabeh, se hâtèrent de lui répondre :
 
