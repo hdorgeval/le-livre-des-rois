@@ -5,7 +5,30 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 192
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Ahrimans',
+    'âme',
+    'arghawan',
+    'Chine',
+    'cyprès',
+    'Dieu',
+    'Div',
+    'Faghfour',
+    'Hindoustan',
+    'Iran',
+    'Kaiser',
+    'Kanoudj',
+    'Maï',
+    'Mihrab',
+    'Nil',
+    'Occident',
+    'Pléiades',
+    'Roudabeh',
+    'Sam',
+    'Sindokht',
+    'Zal',
+  ]
 order: '008'
 ---
 
