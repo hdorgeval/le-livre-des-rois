@@ -31,8 +31,8 @@ Buzurdjmihr répondit :
 
 > Celui qui s’occupe le plus du bien et dont les actions portent le plus de fruit.»
 
-Un autre demanda : Qu’est-ce qu’il y a de mieux en nous, 
- ’
+Un autre demanda : Qu’est-ce qu’il y a de mieux en nous,
+’
 et à quoi est dû le bonheur dans le monde?»
 
 Il répondit :
@@ -153,8 +153,7 @@ Il répondit :
 
 > Il faut d’abord qu’il recherche auprès de Dieu les moyens de réussir ; c’est lui qu’il faut prier, c’est lui qui est ton refuge, le’maître du jour et de la
 >
-> 
-nuit, de la lune et du soleil ; ilfaut se soumettre en public et en secret aux ordres du roi du monde. avoir soin de son corps et le défendre fortement contre les fatigues et les passions, veiller sur sa famille et multiplier la provision pour les pauvres, remettre les enfants jeunes à des maîtres, car on ne doit pas livrer le monde aux ignorants et si les enfants sont obéissants, le père doit les traiter avec indulgence.»
+> nuit, de la lune et du soleil ; ilfaut se soumettre en public et en secret aux ordres du roi du monde. avoir soin de son corps et le défendre fortement contre les fatigues et les passions, veiller sur sa famille et multiplier la provision pour les pauvres, remettre les enfants jeunes à des maîtres, car on ne doit pas livrer le monde aux ignorants et si les enfants sont obéissants, le père doit les traiter avec indulgence.»
 
 Un autre demanda : Quelle est la place qu’un fils honnête doit occuper auprès de son père?»
 
