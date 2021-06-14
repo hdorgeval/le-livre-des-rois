@@ -91,7 +91,9 @@ Il répondit :
 
 > Si je lui dis : Cela ne se peut pas, ne l’ais pas naître la discorde, tourne-toi vers la sa-
 >
-> gesse, alors je m’avilis devant Dieu et devant les hommes par mon manque de parole ; et si je dis : C’est bien !
+> gesse, alors je m’avilis devant Dieu et devant les hommes par mon manque de parole ; et si je dis :
+
+> C’est bien !
 >
 > Ton désir est juste, satisfais la passion de ton cœur, alors quelle race naîtra de ce nourrisson de l’oiseau et de cette fille du Div?»
 
