@@ -31,7 +31,7 @@ Il rendit d’abord hommage au maître du monde et réveilla de son sommeil l’
 >
 > Aucun être n’est seul, si ce n’est Dieu le créateur, qui n’a besoin ni de compagnon, ni de compagne, ni d’ami.
 >
-> Tout ce qu’il a créé est créé par couples ; c’est ainsi qu’il a r : tout fait sortir du secret du néant.
+> Tout ce qu’il a créé est créé par couples ; c’est ainsi qu’il a tout fait sortir du secret du néant.
 >
 > Reçois du ciel sublime cet enseignement ; l’univers entier est ainsi fait.
 >
@@ -68,7 +68,7 @@ Il rendit d’abord hommage au maître du monde et réveilla de son sommeil l’
 >
 > Qu’en dit maintenant le Mobed prévoyant ?
 >
-> Qu’en r disent les sages?»
+> Qu’en disent les sages?»
 
 Les Mobeds et les grands tenaient leurs lèvres fermées et la parole était enchaînée sur la langue des sages ; car Zohak était le grand-père de Mihrab et le cœur du roi était plein de colère contre eux.
 
