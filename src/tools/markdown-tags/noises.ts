@@ -688,4 +688,6 @@ export const noises = [
   "L'histoire",
   "L'oeuvre",
   "Lorsqu'il",
+  'Suit-il',
+  'Considère',
 ];
