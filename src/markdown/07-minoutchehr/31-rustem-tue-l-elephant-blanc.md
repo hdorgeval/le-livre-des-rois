@@ -61,7 +61,7 @@ Le prince écouta depuis le Commencement jusqu’à la fin le récit de ce que s
 >
 > Mais quelles que fussent ses victoires dans les combats, Rustem, fils de Zal, est plus fort que lui.»
 
-Ll fit venir Rustem devant lui, lui baisa les mains, les bras et la tête et lui dit :
+Il fit venir Rustem devant lui, lui baisa les mains, les bras et la tête et lui dit :
 
 > Ô fils d’un lion plein de courage, ce tu as levé la griffe, tu es devenu brave ; tu es encore un enfant et déjà tu n’as pas ton égal en gloire, en courage et en stature.
 >
