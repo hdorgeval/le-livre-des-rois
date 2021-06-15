@@ -288,6 +288,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ æ /g, ' '),
 
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
+    (content: string) => content.replace(/\. v /g, '.» '),
     (content: string) => content.replace(/ a comme /g, ' comme '),
     (content: string) => content.replace(/Ll /g, 'Il '),
   ].forEach((format) => {
