@@ -5,7 +5,21 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 203
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Chine',
+    'cyprès',
+    'Dieu',
+    'Div',
+    'Kaboul',
+    'Mobed',
+    'Pehlewan',
+    'Péri',
+    'Roudabeh',
+    'Sam',
+    'Tharaz',
+    'Zal',
+  ]
 order: '010'
 ---
 
