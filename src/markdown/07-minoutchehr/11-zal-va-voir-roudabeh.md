@@ -5,7 +5,21 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 206
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'Créateur',
+    'cyprès',
+    'Destan',
+    'Dieu',
+    'Minoutchehr',
+    'Neriman',
+    'Pehlewan',
+    'Péri',
+    'Roudabeh',
+    'Sam',
+    'Zal',
+  ]
 order: '011'
 ---
 
