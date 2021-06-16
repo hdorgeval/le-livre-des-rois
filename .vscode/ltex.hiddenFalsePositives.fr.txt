@@ -112,3 +112,4 @@
 {"rule":"D_N","sentence":"^\\QNe parle pas d'hommes devant les femmes, car le cœur de la femme est la demeure du Div et ces discours font naître en elle des ruses.»\\E$"}
 {"rule":"AN_ANNEE","sentence":"^\\QSachez donc toutes les cinq, puisse le bonheur accompagner toutes vos années, sachez que je suis folle d'amour comme la mer en fureur qui jette ses vagues vers le ciel.\\E$"}
 {"rule":"D_N","sentence":"^\\QNe parle pas d'hommes devant les femmes, car le cœur de la femme est la demeure du Div et ces discours font naître en elle des ruses.\\E$"}
+{"rule":"D_N","sentence":"^\\Qalors quelle race naîtra de ce nourrisson de l'oiseau et de cette fille du Div ?\\E$"}
