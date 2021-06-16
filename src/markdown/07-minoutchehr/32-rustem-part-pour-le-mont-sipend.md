@@ -47,7 +47,7 @@ Le châtelain lui répondit :
 
 > Puisses-tu vivre éternellementl puisses-tu être comme la lune brillante et comme le soleil !
 >
-> J’accepte etje te rends ton salut, ô mon fils au cœur par et dévoué à Dieu.»
+> J’accepte etje te rends ton salut, ô mon fils au cœur pur et dévoué à Dieu.»
 
 -Le jeune homme se rendit au bazar, amenant avec. lui ses chameliers.
 
