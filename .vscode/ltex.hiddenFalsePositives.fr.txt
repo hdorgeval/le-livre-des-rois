@@ -113,3 +113,7 @@
 {"rule":"AN_ANNEE","sentence":"^\\QSachez donc toutes les cinq, puisse le bonheur accompagner toutes vos années, sachez que je suis folle d'amour comme la mer en fureur qui jette ses vagues vers le ciel.\\E$"}
 {"rule":"D_N","sentence":"^\\QNe parle pas d'hommes devant les femmes, car le cœur de la femme est la demeure du Div et ces discours font naître en elle des ruses.\\E$"}
 {"rule":"D_N","sentence":"^\\Qalors quelle race naîtra de ce nourrisson de l'oiseau et de cette fille du Div ?\\E$"}
+{"rule":"ACCORD_NOMBRE","sentence":"^\\QJe lui ai apporté une tiare ornée d'or et un bracelet de pierres fines digne d'un roi.»\\E$"}
+{"rule":"ACCORD_NOMBRE","sentence":"^\\QJe lui ai apporté une tiare ornée d'or et un bracelet de pierres fines digne d'un roi.\\E$"}
+{"rule":"D_N","sentence":"^\\QLa femme quitta la chambre de Roudabeh et arriva dans la grande salle ; mais Sindokht la guettait et la voyant dit à haute voix :\\E$"}
+{"rule":"ELISION","sentence":"^\\QFeridoun devint roi à l'aide de Serv, maître du Iemen et Destan, qui désire la possession du monde, prend la même route ; car c'est par le mélange du feu et de l'eau, du vent et de la terre que la sombre face du monde devient brillante.»\\E$"}
