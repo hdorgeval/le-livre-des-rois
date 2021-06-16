@@ -5,7 +5,24 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 210
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'Arabes',
+    'Destan',
+    'Destour',
+    'Dieu',
+    'Mihrab',
+    'Minoutchehr',
+    'Mobed',
+    'Mobeds',
+    'Pehlewan',
+    'Roudabeh',
+    'Sam',
+    'Sindokht',
+    'Zal',
+    'Zohak',
+  ]
 order: '012'
 ---
 
