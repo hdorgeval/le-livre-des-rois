@@ -35,7 +35,9 @@ De tendresse !»
 
 Le Pehlewan en fut si heureux, que malgré sa vieillesse il se sentit rajeuni.
 
-Il envoya de suite un cavalier à Kaboul pour qu’il apprit à Mihrab ce qui s’était passé et comment le roi de la terre avait rétabli le bonheur qui avait disparu, en ajoutant : Aussitôt que Destan sera revenu, nous irons tous les deux auprès de toi, comme c’est notre devoir.»
+Il envoya de suite un cavalier à Kaboul pour qu’il apprit à Mihrab ce qui s’était passé et comment le roi de la terre avait rétabli le bonheur qui avait disparu, en ajoutant :
+
+> Aussitôt que Destan sera revenu, nous irons tous les deux auprès de toi, comme c’est notre devoir.»
 
 Le messager arriva promptement à Kaboul et fit au roi le récit de ce qui était arrivé.
 
