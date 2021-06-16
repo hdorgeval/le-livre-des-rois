@@ -5,7 +5,24 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 221
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'Arabes',
+    'cyprès',
+    'Destan',
+    'Dieu',
+    'Iran',
+    'Jupiter',
+    'Kaboul',
+    'Pehlewan',
+    'Péri',
+    'Roudabeh',
+    'Sam',
+    'Sindokht',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '015'
 ---
 
@@ -17,7 +34,6 @@ Destan la fit appeler, lui raconta tout ce qu’il avait appris et lui dit :
 
 > Va auprès de Roudabeh et dis-lui :
 
-> >
 > > Ô nouvelle lune au cœur pur !
 > >
 > > Quand une affaire est devenue étroite et difficile, on trouve bientôt une clef pour l’élargir.
