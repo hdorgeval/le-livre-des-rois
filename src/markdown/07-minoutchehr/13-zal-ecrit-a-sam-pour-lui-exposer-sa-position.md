@@ -5,7 +5,29 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 214
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Aderguschasp',
+    'Alban',
+    'âme',
+    'Destan',
+    'Dieu',
+    'Div',
+    'Hindoustan',
+    'Iran',
+    'Kaboul',
+    'Kerguesars',
+    'Mars',
+    'Mihrab',
+    'Mobed',
+    'Neriman',
+    'Pehlewan',
+    'Sam',
+    'Simurgh',
+    'Sipehbed',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '013'
 ---
 
