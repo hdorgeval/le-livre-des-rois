@@ -288,6 +288,12 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ æ /g, ' '),
 
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
+    (content: string) => content.replace(/Roudaheh/g, 'Roudabeh'),
+    (content: string) => content.replace(/ grille /g, ' griffe '),
+    (content: string) => content.replace(/allligé/g, 'affligé'),
+    (content: string) => content.replace(/ tille /g, ' fille '),
+    (content: string) => content.replace(/ tilles /g, ' filles '),
+    (content: string) => content.replace(/au cœur par /g, 'au cœur pur '),
     (content: string) => content.replace(/\. v /g, '.» '),
     (content: string) => content.replace(/; n /g, '.» '),
     (content: string) => content.replace(/ a comme /g, ' comme '),
