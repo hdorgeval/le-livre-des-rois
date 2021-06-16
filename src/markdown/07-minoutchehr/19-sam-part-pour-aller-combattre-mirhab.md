@@ -92,6 +92,6 @@ Le prince entendit les paroles de Zal, il écouta avidement, laissa tomber ses b
 >
 > Nous lui représenterons tout ce qu’il faudra, nous ramènerons son esprit et son cœur à la justice ; et si le roi notre maître se réunit à moi, toutes nos affaires tourneront selon tes désirs.
 >
-> Le lion triomphe toujours par la force de sa grille et partout où il est, il trouve une proie.»
+> Le lion triomphe toujours par la force de sa griffe et partout où il est, il trouve une proie.»
 
 Zalzer baisa la terre et invoqua plusieurs fois la grâce de Dieu sur son père.
