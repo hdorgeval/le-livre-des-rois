@@ -5,7 +5,29 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 218
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Créateur',
+    'Dehistan',
+    'Dieu',
+    'Feridoun',
+    'Hindoustan',
+    'Iran',
+    'Iraniens',
+    'Kerguesars',
+    'Mazenderan',
+    'Mihrab',
+    'Mobeds',
+    'Neriman',
+    'Pehlewan',
+    'Roudabeh',
+    'Roum',
+    'Sam',
+    'Segsars',
+    'Touran',
+    'Zal',
+    'Zohak',
+  ]
 order: '014'
 ---
 
