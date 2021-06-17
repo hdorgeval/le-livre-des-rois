@@ -5,7 +5,24 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 238
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Destan',
+    'Dieu',
+    'Feridoun',
+    'Kaboul',
+    'Kaboulistan',
+    'Kerguesars',
+    'Mazenderan',
+    'Mihrab',
+    'Pehlewan',
+    'Roudabeh',
+    'Sam',
+    'Sindokht',
+    'Sipehbed',
+    'Zal',
+    'Zal-zer',
+  ]
 order: '019'
 ---
 
