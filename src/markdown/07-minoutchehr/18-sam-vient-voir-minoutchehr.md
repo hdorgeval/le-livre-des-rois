@@ -5,7 +5,25 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 234
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'cyprès',
+    'Divs',
+    'Hindoustan',
+    'Iran',
+    'Kaboul',
+    'Kakoui',
+    'Kerguesars',
+    'Mazenderan',
+    'Mihrab',
+    'Minoutchehr',
+    'rideau',
+    'Sam',
+    'Segsars',
+    'Selm',
+    'Zal',
+    'Zohak',
+  ]
 order: '018'
 ---
 
@@ -47,7 +65,7 @@ Il lui fit maintes questions sur les Kerguesars pleins de bravoure et sur les Di
 >
 > Un petit-fils du terrible Selm, qui avait été le maître du monde, vint à moi semblable à un loup.
 >
-> Cet ambitieux s’appelait Karkoui, c’était un haut cyprès de bel aspect.
+> Cet ambitieux s’appelait Kakoui, c’était un haut cyprès de bel aspect.
 >
 > Il descendait, par sa mère, de la race de Zohak et les têtes des braves étaient devant lui comme de la poussière.
 >
@@ -59,7 +77,7 @@ Il lui fit maintes questions sur les Kerguesars pleins de bravoure et sur les Di
 >
 > Je poussai des cris du haut de mon cheval, de sorte que la terre leur paraissait tourner comme un moulin ; mon armée reprit courage et tous ne pensèrent plus qu’au combat.
 >
-> Karkoui entendant ma voix et les coups de ma massue qui jouait avec les têtes, vint à moi pour me combattre, semblable à un éléphant furieux et armé d’un long lacet.
+> Kakoui entendant ma voix et les coups de ma massue qui jouait avec les têtes, vint à moi pour me combattre, semblable à un éléphant furieux et armé d’un long lacet.
 >
 > Il cherchait à me prendre dans le nœud de son lacet, mais je m’en aperçus et je me détournai du danger.
 >
