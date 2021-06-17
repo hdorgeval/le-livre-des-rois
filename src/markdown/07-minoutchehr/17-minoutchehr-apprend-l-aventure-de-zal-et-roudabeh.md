@@ -27,7 +27,7 @@ Il dit aux sages :
 >
 > Maintenant quelle réponse me ferez-vous ?
 >
-> Tâchez de me donner un conseil qui porte honheur.
+> Tâchez de me donner un conseil qui porte bonheur.
 
 Tous les Mobeds invoquèrent la grâce de Dieu sur lui, en disant :
 
