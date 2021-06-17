@@ -5,7 +5,26 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 231
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'Amol',
+    'Destan',
+    'Dieu',
+    'Feridoun',
+    'Iran',
+    'Keïanide',
+    'Mihrab',
+    'Minoutchehr',
+    'Mobeds',
+    'Newder',
+    'Pehlewan',
+    'Roudabeh',
+    'Sam',
+    'Sari',
+    'Zal',
+    'Zohak',
+  ]
 order: '017'
 ---
 
