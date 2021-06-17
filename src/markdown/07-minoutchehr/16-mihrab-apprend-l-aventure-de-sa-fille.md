@@ -5,7 +5,32 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 225
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Ahwaz',
+    'âme',
+    'cyprès',
+    'Destan',
+    'Dieu',
+    'Feridoun',
+    'Iemen',
+    'Kaboul',
+    'Kahtan',
+    'Kandahar',
+    'Kerguesars',
+    'Mage',
+    'Mihrab',
+    'Minoutchehr',
+    'Mobed',
+    'Pehlewan',
+    'Péri',
+    'Roudabeh',
+    'Sam',
+    'Serv',
+    'Sindokht',
+    'Zal',
+  ]
 order: '016'
 ---
 
