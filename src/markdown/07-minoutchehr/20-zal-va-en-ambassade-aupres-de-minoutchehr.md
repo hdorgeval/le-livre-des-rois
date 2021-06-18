@@ -5,7 +5,30 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 242
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Alborz',
+    'Amol',
+    'Chine',
+    'Créateur',
+    'cyprès',
+    'Dieu',
+    'Divs',
+    'Feridoun',
+    'Kaboul',
+    'Kaboulistan',
+    'Kaschaf',
+    'Kerguesars',
+    'Mazenderan',
+    'Minoutchehr',
+    'Neriman',
+    'Nil',
+    'Sam',
+    'Saturne',
+    'Tout-Puissant',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '020'
 ---
 
