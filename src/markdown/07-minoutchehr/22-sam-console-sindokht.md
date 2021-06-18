@@ -5,7 +5,28 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 250
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Aderguschasp',
+    'âme',
+    'cyprès',
+    'Dieu',
+    'Kaboul',
+    'Mihrab',
+    'Pehlewan',
+    'Pehlewans',
+    'Péri',
+    'rideau',
+    'Roudabeh',
+    'Roum',
+    'Sam',
+    'Simurgh',
+    'Sindokht',
+    'Sipehbed',
+    'Zaboulistan',
+    'Zal',
+    'Zohak',
+  ]
 order: '022'
 ---
 
