@@ -122,3 +122,4 @@
 {"rule":"AUX_AVOIR","sentence":"^\\QMihrab et Destan apprirent les desseins que le roi et Sam avaient concertés ; tout le pays de KahOul en fut troublé et des cris s'élevèrent du palais de Mihrab.\\E$"}
 {"rule":"PORTER_FRUIT","sentence":"^\\QTu m'avais promis de ne jamais m'affliger, de faire porter fruit à l'arbre que je planterais ; mais en venant du Mazenderan tu as pris ta résolution, tu es accouru du pays des Kerguesars avec l'intention de désoler le palais que j'habite : c'est ainsi que tu veux me rendre justice.\\E$"}
 {"rule":"AUX_AVOIR","sentence":"^\\QMihrab et Destan apprirent les desseins que le roi et Sam avaient concertés ; tout le pays de Kaboul en fut troublé et des cris s'élevèrent du palais de Mihrab.\\E$"}
+{"rule":"MILLES","sentence":"^\\QLes hommes qui portaient l'or, les esclaves, les chevaux et les éléphants formèrent des rangs depuis la porte du palais jusqu'à une distance de deux milles.\\E$"}
