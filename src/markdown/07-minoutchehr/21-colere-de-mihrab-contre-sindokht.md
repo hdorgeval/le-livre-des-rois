@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 248
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags: ['Badakhschan', 'Iran', 'Kaboul', 'Mihrab', 'Roudabeh', 'Sam', 'Sindokht']
 order: '021'
 ---
 
