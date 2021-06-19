@@ -7,7 +7,7 @@ reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'Afrasiab',
     'âme',
     'Aschkesch',
@@ -111,7 +111,7 @@ Guiv lui dit :
 > Ô vieux Sipehdar !
 
 Toi qui as vu tant de massues et de flèches, si tu t’enfuis devant Piran, il faudra que je me couvre la tête de poussière.
->
+
 > Ni les héros, ni les grands pleins d’expérience ne vivront toujours.
 >
 > Toi et moi nous sommes sûrs de mourir ; car de tous les maux, la mort est le plus certain.
@@ -120,7 +120,7 @@ Toi qui as vu tant de massues et de flèches, si tu t’enfuis devant Piran, il 
 >
 > Ne nous enfuyons pas de la bataille, ne déshonorons pas la poussière de Keschwad.
 >
-> N’as-tu pas entendu le vieux proverbe que le sage nous a répété : 
+> N’as-tu pas entendu le vieux proverbe que le sage nous a répété :
 >
 > > Que deux frères se placent dos à dos et une montagne ne sera plus qu’une poignée de poussière ?
 >
@@ -144,7 +144,7 @@ Le vieux Gouderz dit alors à Bijen :
 
 > Pars avec ta massue et tes flèches, tourne la bride de ton cheval vers Feribourz et apporte-moi le drapeau de Kaweh ; et si Feribourz lui-même veut l’accompagner, il fera pâlir les joues de ses ennemis.
 
-Bijen l’écouta, lança son cheval, courut semblable à Adergouschasp auprès de Feribourz et lui dit :
+Bijen l’écouta, lança son cheval, courut semblable à Aderguschasp auprès de Feribourz et lui dit :
 
 > Pourquoi te caches-tu ici ?
 >
@@ -191,7 +191,7 @@ Sa tête et sa couronne roulèrent dans la poussière et plusieurs d’entre les
 > Ô illustres héros, ô vaillants guerriers !
 
 Personne dans notre camp n’était aussi honoré que lui de Feribourz fils de Kaous ;
->
+
 > Et le vieux Kaous a maintenant perdu dans ce lieu de malheur un petit-fils et un fils, Firoud fils de Siawusch et Rivniz ;
 >
 > Fut-il jamais au monde un plus affreux malheur !
