@@ -6,17 +6,7 @@ source: tome II - livre des rois - P. 492
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
 tags:
-  [
-    'Adergouschasp',
-    'âme',
-    'Firoud',
-    'Pehlewan',
-    'Rivniz',
-    'Sipehdar',
-    'Thous',
-    'Tokhareh',
-    'Zerasp',
-  ]
+  ['Aderguschasp', 'âme', 'Firoud', 'Pehlewan', 'Rivniz', 'Sipehdar', 'Thous', 'Tokhareh', 'Zerasp']
 order: '016'
 ---
 
@@ -24,11 +14,11 @@ order: '016'
 
 Le Pehlewan dit alors à Zerasp :
 
-> Il faut que tu jettes, dans ta colère, des flammes comme Adergouschasp.
+> Il faut que tu jettes, dans ta colère, des flammes comme Aderguschasp.
 >
 > Revêts-toi de ton armure de cavalier, exerce toutes les forces de ton âme et de ton corps et venge l’illustre Rivniz, sinon j’irai le venger moi-même.
 
-Zerasp alla sur-le-champ mettre son casque, le cœur plein de haine, la tête pleine de vent et sortit du centre de l’armée, rapide comme Adergouschasp.
+Zerasp alla sur-le-champ mettre son casque, le cœur plein de haine, la tête pleine de vent et sortit du centre de l’armée, rapide comme Aderguschasp.
 
 Le jeune Firoud le vit de loin, jeta un regard rapide sur Tokhareh et lui dit :
 
