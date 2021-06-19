@@ -84,7 +84,7 @@ S’il parvient pour un moment à rentrer à Gangue, une armée se rassemblera a
 
 Le grand-père répondit à son petit-fils par un sage conseil de vieillard, disant :
 
-> Courons nous deux à cheval au temple d’Adergouschasp.
+> Courons nous deux à cheval au temple d’Aderguschasp.
 >
 > Nous laverons nos têtes et nos corps, nos pieds et nos mains, comme c’est la coutume des hommes qui adorent Dieu.
 >
@@ -92,7 +92,7 @@ Le grand-père répondit à son petit-fils par un sage conseil de vieillard, dis
 
 Ils convinrent de ce plan et ils l’exécutèrent sans se détourner du chemin droit.
 
-Ils montèrent à cheval en toute hâte et coururent au temple d’Adergouschasp ; ils y entrèrent vêtus de robes blanches, le cœur tremblant et pourtant plein d’espérance ; en voyant le feu, ils versèrent des larmes, puis ils s’approchèrent et répandirent dessus des pierreries.
+Ils montèrent à cheval en toute hâte et coururent au temple d’Aderguschasp ; ils y entrèrent vêtus de robes blanches, le cœur tremblant et pourtant plein d’espérance ; en voyant le feu, ils versèrent des larmes, puis ils s’approchèrent et répandirent dessus des pierreries.
 
 Ces deux rois y demeurèrent en gémissant, en pleurant et dans la douleur qui remplit les suppliants ; ils adressèrent des prières au Créateur, ils versèrent in.
 
