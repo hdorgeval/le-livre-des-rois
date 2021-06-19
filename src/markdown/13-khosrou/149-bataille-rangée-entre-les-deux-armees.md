@@ -63,7 +63,7 @@ Ensuite Guiv le cavalier au visage de soleil et plein de fierté se rendit aupr�
 >
 > Si tu parviens à le vaincre. tout est fini : Dieu et la bonne étoile te favoriseront ; notre armée pourra se reposer de ses fatigues et de ses dangers ; le roi maître du monde se réjouira ; tu obtiendras de grands trésors et tout ce que tu peux désirer et la fortune ne ce : -sera plus de prospérer ; le dos d’Afrasiab sera brisé, son cœur sera gonflé de sang, ses deux yeux verseront des larmes.»
 
-Ainsi parla le Pehlewan à son fils ; et le fils, ceint pour le combat, lança à l’instant son cheval de bataille et partit semblable à Adergouschasp.
+Ainsi parla le Pehlewan à son fils ; et le fils, ceint pour le combat, lança à l’instant son cheval de bataille et partit semblable à Aderguschasp.
 
 Il lit appeler tous les cavaliers de l’aile droite et de l’aile gauche : Gourazeh et Gustehem, le Sipehdar Hedjir et Bijen accoururent.
 
