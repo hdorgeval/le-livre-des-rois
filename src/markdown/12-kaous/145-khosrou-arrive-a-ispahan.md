@@ -43,8 +43,8 @@ Le roi appela devant lui le messager et répandit des pierreries sur la lettre d
 
 Les hommes, dans leur joie, préparèrent des fêtes et dans chaque maison on demanda de la musique.
 
-La nouvelle du retour victorieux de Guiv qui illuminait le monde arriva dans le Nimrouz et Rustem distribua de l’or aux pauvres, pour remercier le ciel de ce que ce lion n’avait pas éprouvé de malheur. 
- A ,Insuite il envoya Banougouschasp qui ressemblait à Adergouschasp, pour porter à Guiv des présents,accompagnée de douze cents grands de haut renom.Il lui donna un trône, de pesantes couronnes et trois cent soixante esclaves, dont chacun portait à la main une coupe d’or.
+La nouvelle du retour victorieux de Guiv qui illuminait le monde arriva dans le Nimrouz et Rustem distribua de l’or aux pauvres, pour remercier le ciel de ce que ce lion n’avait pas éprouvé de malheur.
+A ,Insuite il envoya Banougouschasp qui ressemblait à Aderguschasp, pour porter à Guiv des présents,accompagnée de douze cents grands de haut renom.Il lui donna un trône, de pesantes couronnes et trois cent soixante esclaves, dont chacun portait à la main une coupe d’or.
 
 La princesse ’quitta son père et courut à la rencontre de Guiv, comme un oiseau qui vole à tired’aile.
 
@@ -60,7 +60,7 @@ Ils allèrent au-devant de lui à une distance de quatre-vingts farsangs. pour l
 
 Lorsque le roi parut, accompagné de Guiv, tous ces vaillants cavaliers mirent pied à terre ; et lorsque Gouderz aperçut Khosrou et son fils Guiv qui le suivait, il versa des larmes de fiel et exhala (les plaintes sur la mort de Siawusch.
 
-Le Pehlewan descendit de cheval et le jeune roi le n. 
+Le Pehlewan descendit de cheval et le jeune roi le n.
 4
 pressa contre son sein.
 
