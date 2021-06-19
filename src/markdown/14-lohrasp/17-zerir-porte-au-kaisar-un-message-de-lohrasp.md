@@ -7,7 +7,7 @@ reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'âme',
     'Ardeschir',
     'Bahram',
@@ -63,7 +63,7 @@ Il dit et se mit à faire ses préparatifs et à choisir une armée illustre.
 
 Les petits-fils d’hommes puissants et nobles, de Kaous et de Gouderz de la famille de Keschwad, ensuite les fils de Zerasp, Bahram, le vainqueur des lions et Rivniz, enfin Schirouieh, le conquérant du monde et Ardeschir, petit-fils du fier et vaillant Guiv et fils de Bijen, deux nobles lions, deux héros qui portaient haut la tête, deux hommes de race pure ;
 
-Tous ces chefs vinrent, amenant chacun deux chevaux : ils brillaient tous comme Adergouschasp.
+Tous ces chefs vinrent, amenant chacun deux chevaux : ils brillaient tous comme Aderguschasp.
 
 On ne s’arrêta pas jusqu’au pays d’Haleb et le monde fut rempli de combats et du bruit des hommes et des armes.
 
