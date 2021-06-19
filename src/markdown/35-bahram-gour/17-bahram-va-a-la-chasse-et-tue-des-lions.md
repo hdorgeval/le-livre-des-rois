@@ -20,8 +20,8 @@ Le roi dit à ses confidents :
 > Nous serons assez seuls dans le tombeau, si haut que nous soyons placés ; la mort efface les mm sur les rôles, elle fait tomber les palais et les salles d’audience et quiconque meurt, roi ou pauvre, ne peut emporter que ’sa bonne renommée.
 >
 > Toute la peine qu’il s’est donnée est en ra i
-pure perle et disparaît avec lui a sa mort et s’il reste de lui des louanges dans le monde, c’est tout, car sa couronne et ses joyaux sont à d’autres. l]
-faut que’ tu ne fasses du mal à personne et que tu aies de la droiture, pour que les jouissances de ce monde ne fassent pas tort à (on âme.
+> pure perle et disparaît avec lui a sa mort et s’il reste de lui des louanges dans le monde, c’est tout, car sa couronne et ses joyaux sont à d’autres. l]
+> faut que’ tu ne fasses du mal à personne et que tu aies de la droiture, pour que les jouissances de ce monde ne fassent pas tort à (on âme.
 >
 > J’ai a présent trente-huit ans et j’ai passé bien des jours dans la joie ; mais quand un jeune homme atteint quarante trans, le chagrin du jour de la mort lui entre dans l’âme.
 >
@@ -83,7 +83,7 @@ Quelqu’un lui dit :
 > Cette forêt a une profondeur de trois farsangs et si tu mettais toute une année à prendre des lions, le monde n’en’serait pourtant pas délivré ; pourquoi donc te donnerais-tu tant de mal ?
 >
 > Lorsque tu as pris possession du trône, tu as recherché le combat des lions, comme c’était convenu ; mais aujourd’hui 4
-tu es roi et le monde t’appartient ; tu es venu pour les onagres, pourquoi chasses-tu les lions ?»
+> tu es roi et le monde t’appartient ; tu es venu pour les onagres, pourquoi chasses-tu les lions ?»
 
 Le roi ’ répondit :
 
@@ -120,14 +120,14 @@ Ensuite, il dit :
 > Ce roi Ardeschir, dont la fortune rajeunissait les vieillards, était le chef de notre maison et nous sommes inférieurs à lui, si même il nous est permis de nous nommer ainsi.
 >
 > Dans les combats et dans les fêles, dans le conseil et à table, lui seul pouvait être appelé le maître du monde, dans le temps où
-’ Iskender était venu du Roum dans l’Iran et où ce pays était devenu un’ désert ; mais il était dur et sans générosité, car il a mis à mort trentesix rois et la bouche des rois est encore pleine de malédicv tiens sur lui ; le monde entier lui en veut encore.
+> ’ Iskender était venu du Roum dans l’Iran et où ce pays était devenu un’ désert ; mais il était dur et sans générosité, car il a mis à mort trentesix rois et la bouche des rois est encore pleine de malédicv tiens sur lui ; le monde entier lui en veut encore.
 >
 > On n’a pour Feridoun que des bénédictions et lui est maudit par ceux qui le haïssent.
 >
 > Puisse-t-il n’y avoir dans le monde que du bonheur répandu par moi sur les grands et les petits le Il reprit :
 
-> Amenez-moi un héraut avec une belle voix, un des chefs des guerriers illustres, qui fasse le tour du camp et proclame partout" : Si quelqu’un prend sans y avoir droit, dans le pays de Barkouh et de Djez, soit des joyaux, de l’or, du brocart ou des fourrures, soit autre chose, même des broutilles sans valeur, je le ferai placer sur un cheval, le visage noirci et le ferai emmener d’ici par deux hommes armés ; on lui liera les pieds sous le cheval et je l’enverrai au temple d’Adergouschasp, ou il fera ses prières, dans la poussière, devant le feu et ses adorations devant Dieu, le tout saint et je donnerai
-. ce qu’il possède à celui qu’il a dépouillé et violenté.
+> Amenez-moi un héraut avec une belle voix, un des chefs des guerriers illustres, qui fasse le tour du camp et proclame partout" : Si quelqu’un prend sans y avoir droit, dans le pays de Barkouh et de Djez, soit des joyaux, de l’or, du brocart ou des fourrures, soit autre chose, même des broutilles sans valeur, je le ferai placer sur un cheval, le visage noirci et le ferai emmener d’ici par deux hommes armés ; on lui liera les pieds sous le cheval et je l’enverrai au temple d’Aderguschasp, ou il fera ses prières, dans la poussière, devant le feu et ses adorations devant Dieu, le tout saint et je donnerai
+> . ce qu’il possède à celui qu’il a dépouillé et violenté.
 >
 > Ou si quelqu’un met un cheval dans un champ ensemencé, ou fait du dégât dans un jardin fruitier, il ne sortira pas de prison avant un an, que ce soit un noble cavalier ou un pauvre.
 >
