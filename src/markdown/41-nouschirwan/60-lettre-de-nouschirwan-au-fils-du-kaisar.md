@@ -48,9 +48,9 @@ Pendant une semaine tous ses conseillers s’assemblèrent chez le Kaiser.
 
 À la fin le Kaiser dit à son principal conseiller :
 
-> Réfléchis sur la réponse à donner à cette lettre et écrisla comme tu sais qu’il 
-Mo
-faut écrire et insère ce qu’il y a de bon et de mau-j vais à dire.»
+> Réfléchis sur la réponse à donner à cette lettre et écrisla comme tu sais qu’il
+> Mo
+> faut écrire et insère ce qu’il y a de bon et de mau-j vais à dire.»
 
 Le Mobed répondit :
 
@@ -88,7 +88,7 @@ Quand est homme Ml sage entendit qu’ils avaient terminé leurs conseils, il vi
 > Il ne diminuera pas par tes tentatives et si tu fais couler des larmes de sang, ce ne sera pas sur mes joues.
 >
 > Quand j’au-
-rai besoin de toi, tu seras mon roi, toi qui es pour moi un souvenir de mon père.
+> rai besoin de toi, tu seras mon roi, toi qui es pour moi un souvenir de mon père.
 >
 > Raconte, 6 messager, avec bienveillance ce que tu as vu et ne cherche pas de mauvaises intentions dans ma réponse.»
 
@@ -104,14 +104,13 @@ Le roi devint anxieux à ces paroles et lui dit :
 >
 > Il ne sait pas de qui il est
 >
-> 
-ami ou ennemi et c’est ainsi qu’il te dit le secret de son cœur.
+> ami ou ennemi et c’est ainsi qu’il te dit le secret de son cœur.
 >
 > Il croit que je n’ai d’autre ami que lui et que je n’ai ni sang, ni cerveau, ni pieds, ni peau.
 >
 > Si je laisse dorénavant un seul homme de race roumie jouir du trône, si je le laisse relever la tête et dire qu’il est Kaïsar, qu’il est le plus puis. saut parmi les grands, qu’on dise que je ne suis pas le fils du vaillant Kobad et qu’il ne soit plus question de moi parmi les hommes.
 >
-> Je vais détruire la gloire du Roum, je vais consumer parle l’en ce beau pays ; je le jure par Dieu le toutsaint, par le soleil et la lune, par Adergouschasp, par le trône et la couronne.
+> Je vais détruire la gloire du Roum, je vais consumer parle l’en ce beau pays ; je le jure par Dieu le toutsaint, par le soleil et la lune, par Aderguschasp, par le trône et la couronne.
 >
 > Ensuite, il se dépouillera de o tout ce qu’il y a de vieux trésors dans son royaume comme on dépouille le bœuf de sa peau et la pointe de mon épée ne touchera pas le fourreau avant que j’aie fait ma volonté contre ce Roumi.»
 
