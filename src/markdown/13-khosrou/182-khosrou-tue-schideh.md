@@ -11,7 +11,7 @@ order: '182'
 
 # Khosrou tue Schideh
 
-Le roi descendit de son cheval couleur de nuit ; il ôta de sa tête son casque impérial, remit à lichham son noble destrier et s’avança semblable à AdergouschaspJ’escheng le vit de loin à pied ; le vaillant J. b8 crocodile mit aussi pied à terre et ils s’attaquèrent sur la plaine comme des éléphants ; ils trempèrent de sang toute la poussière.
+Le roi descendit de son cheval couleur de nuit ; il ôta de sa tête son casque impérial, remit à lichham son noble destrier et s’avança semblable à AderguschaspJ’escheng le vit de loin à pied ; le vaillant J. b8 crocodile mit aussi pied à terre et ils s’attaquèrent sur la plaine comme des éléphants ; ils trempèrent de sang toute la poussière.
 
 Quand Schideh vit la poitrine et la stature du roi et qu’il sentit cette puis : sance donnée par Dieu et cette vigueur, il pria laciel de le sauver ; car il savait que le corps du Touran n’aurait plus de valeur quand la tête en serait abattue.
 
