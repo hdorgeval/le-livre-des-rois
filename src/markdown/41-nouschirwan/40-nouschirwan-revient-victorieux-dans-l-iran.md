@@ -37,7 +37,7 @@ Le Kaîsar envoya dix peaux de bœuf remplies de pièces d’or, comme tribut et
 
 On fit asseoir l’envoyé devant Kesra, qui écouta attentivement la lecture de cette lettre, contenant des souhaits chaleureux, énumérant ce qu’on envoyait et annonçant de nouveaux présents, ce qu’on apportait n’étant que le tribut auquel il fallait ajouter des couronnes.
 
-Le roi accepta ce qui avait été réuni avec peine et remit tout à son trésorier ; puis il se leva de son trône, monta à cheval et se rendit au temple d’Adergouschasp.
+Le roi accepta ce qui avait été réuni avec peine et remit tout à son trésorier ; puis il se leva de son trône, monta à cheval et se rendit au temple d’Aderguschasp.
 
 Lorsqu’il aper-
 çut de loin le lieu du culte, ses joues s’inondèrent de larmes ; il mit pied à terre, prit du barsom dans sa main, murmura une prière, s’avança en silence et respectueusement devant le feu et commença à prier et à rendre grâce au Créateur du monde.
