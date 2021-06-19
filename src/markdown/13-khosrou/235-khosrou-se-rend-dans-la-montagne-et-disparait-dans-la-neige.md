@@ -43,7 +43,7 @@ Lorsque le soleil leva sa tête au-dessus de la montagne, il s’assembla une fo
 >
 > Si tu as à te plaindre de ton armée, si tu es arrivé à mépriser ce trône, dis-nous-en la raison et ne quitte pas le pays d’Iran, ne donne pas un nouveau maître à ce vieux monde.
 >
-> Nous tous serons la poussière sous les pieds de ton cheval ; nous sommes les adorateurs de ton ange gardien Adergouschasp.
+> Nous tous serons la poussière sous les pieds de ton cheval ; nous sommes les adorateurs de ton ange gardien Aderguschasp.
 >
 > Qu’as-tu fait de ton savoir, de ton intelligence et de ta sagesse, toi qui a vu le Serosch, qui n’était pas apparu, même à Feridoun ?
 >
