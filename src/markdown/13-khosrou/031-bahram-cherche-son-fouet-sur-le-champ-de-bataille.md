@@ -7,7 +7,7 @@ reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'Bahram',
     'Dieu',
     'Ferenguis',
@@ -31,7 +31,7 @@ Lorsque les deux armées se furent livrées au repos et qu’une partie de la nu
 > Ô Pehlewan du monde !
 
 Lorsque j’ai ramassé la couronne de Rivniz et l’ai élevée sur la pointe de ma lance jusqu’aux nuages, j’ai laissé tomber un fouet.
->
+
 > Les vils Turcs le trouveront, je deviendrai leur risée et le monde s’obscurcira devant mes yeux ;
 >
 > Car mon nom est écrit sur le cuir du fouet et le Sipehdar des Turcs s’en emparera.
@@ -57,7 +57,7 @@ Guiv lui dit :
 > Ô mon frère !
 
 N’y va pas, je possède beaucoup de fouets neufs.
->
+
 > Il y en a un dont la poignée est d’or et d’argent et le cuir brodé de perles ;
 >
 > Lorsque Ferenguis ouvrit la porte de son trésor et m’offrit toutes les armes et les ceintures qu’il contenait, je pris ce fouet et la cuirasse que je porte, je jetai les miens et les laissai dans le Touran.
@@ -99,7 +99,7 @@ Or un de ces illustres cavaliers était blessé d’un coup d’épée, mais sa 
 > Ô lion !
 
 Je vis encore, quoique étendu parmi les morts.
->
+
 > Depuis trois jours je soupire après du pain et de l’eau ;
 >
 > Je soupire après une couche pour y dormir.
@@ -122,7 +122,7 @@ Il s’avança alors rapidement vers l’endroit où avait été le centre de l�
 
 Il mit pied à terre et le saisit ;
 
-Mais dans ce moment des chevaux se mirent à hennir, le destrier de Bahram entendit et sentit des juments, il s’enflamma comme Adergouschasp, tourna la tête du côté des juments et partit.
+Mais dans ce moment des chevaux se mirent à hennir, le destrier de Bahram entendit et sentit des juments, il s’enflamma comme Aderguschasp, tourna la tête du côté des juments et partit.
 
 Bahram en fut consterné !
 
