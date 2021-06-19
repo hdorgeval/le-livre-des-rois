@@ -49,7 +49,7 @@ Il appela Mihr Firouz fils de Khorrad, ensuite Mihr Berzin fils de Ferhad, Bahra
 
 Il remit le trône et la couronne à son frère Nersi, un homme intelligent avec des traits nobles, majestueux, croyant, juste et clément et le chargea de la garde de son trésor et du commandement de l’armée.
 
-Lui-même partit avec ses troupes et se dirigea vers Aderabadgan ; mais comme il n’emmenait du Farsistan qu’un petit corps de troupes, les grands et les petits croyaient que Bahram s’enfuyait pour ne pas se battre et qu’il se rendait au temple d’Adergouschasp.
+Lui-même partit avec ses troupes et se dirigea vers Aderabadgan ; mais comme il n’emmenait du Farsistan qu’un petit corps de troupes, les grands et les petits croyaient que Bahram s’enfuyait pour ne pas se battre et qu’il se rendait au temple d’Aderguschasp.
 
 Pendant que Bahram marchait vers Aderabadgan, un envoyé du Kaïsar arriva rapidement comme le vent et Nersi le fit descendre à son palais et lui assigna un appartement magnifique, conforme à son rang.
 
