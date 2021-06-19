@@ -46,7 +46,7 @@ Elle tourna la pointe de sa lance vers Sohrab et secoua violemment les rênes de
 
 Sohrab s’étonna et devint furieux comme un léopard, quand il vit que son ennemi usait de ruse dans le combat.
 
-Il saisit les rênes et lança son cheval ; il arriva sur elle, semblable à Adergouschasp, tenant dans sa main la lance qui ôte la vie;et reculant le bras jusqu’à ce que la pointe se trouvât en. arrière de son corps, il frappa Gnrdaferid à la ceinture et déchirant entièrement sur son corps sa cotte de mailles, il la souleva de selle comme une balle qu’atteint la raquette.
+Il saisit les rênes et lança son cheval ; il arriva sur elle, semblable à Aderguschasp, tenant dans sa main la lance qui ôte la vie;et reculant le bras jusqu’à ce que la pointe se trouvât en. arrière de son corps, il frappa Gnrdaferid à la ceinture et déchirant entièrement sur son corps sa cotte de mailles, il la souleva de selle comme une balle qu’atteint la raquette.
 
 Gnrdaferid se tordit au-dessus de la selle et tirant de sa ceinture une épée tranchante, elle en frappa la lance et la coupa en deux, puis elle se remit en selle et fit lever la poussière sous les pieds de son cheval.
 
@@ -59,10 +59,9 @@ Les cheveux de Gnrdaferid n’étaient plus retenus par la cotte de mailles, son
 Il en fut étonné et se dit :
 
 > Si les filles des braves de l’Iran vont ainsi sur le champ de ba-æwille, les cavaliers de ce pays doivent au jour du
-8
+> 8
 >
-> 
-combat faire voler la poussière jusqu’au-dessus du ciel qui tourne.»
+> combat faire voler la poussière jusqu’au-dessus du ciel qui tourne.»
 
 Il .détacha du pommeau de la selle son lacet roulé, le lança et prit Gurdaferid au milieu du corps.
 
@@ -90,8 +89,8 @@ Jamais semblable proie n’est tombée dans mes filets et tu ne m’échapperas 
 >
 > Le château, le trésor et le châtelain seront à toi aussitôt qu’il te plaira de venir.»
 
-En montrant ainsi ses joues à Sohrab, en lui montrant les perles de ses dents sous ses lèvres de jujubes, 
- elle était comme un jardin du paradis et jamais Dihkan n’avait planté un cyprès de sa taille.
+En montrant ainsi ses joues à Sohrab, en lui montrant les perles de ses dents sous ses lèvres de jujubes,
+elle était comme un jardin du paradis et jamais Dihkan n’avait planté un cyprès de sa taille.
 
 Ses deux yeux étaient comme les yeux de la gazelle, ses deux sourcils formaient un arc sous lequel on eût dit que s’épanouissait le ciel.
 
