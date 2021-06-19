@@ -7,7 +7,7 @@ reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'âme',
     'Bijen',
     'Dieu',
@@ -81,7 +81,7 @@ Tous les braves vinrent à sa rencontre, disant :
 > Gloire à Dieu !
 
 Ton cheval seul est blessé, ô noble héros et tu ne l’es pas ;
->
+
 > Tu n’as pas succombé, grâce au dispensateur de la justice.
 
 Bijen arriva dans ce moment, rapide comme le vent et adressa à son père des paroles irrespectueuses :
@@ -89,7 +89,7 @@ Bijen arriva dans ce moment, rapide comme le vent et adressa à son père des pa
 > Ô héros !
 
 Toi qui as vaincu des lions, toi dont la main a toujours été prête à frapper, toi qu’un éléphant n’aurait pas osé combattre !
->
+
 > Comment as-tu tourné le dos devant un cavalier seul, toi dont la main a toujours été l’âme de la bataille !
 >
 > Un Turc a blessé ton cheval et tu reviens tout étourdi comme un homme ivre ?
@@ -138,7 +138,7 @@ Bijen lui répondit :
 >
 > J’ai juré solennellement par la lune, par le maître du monde et par le diadème du roi, que je ne détournerai pas la tête de mon cheval de cette montagne, dussé-je périr comme Zerasp.
 >
-> Mais puisque tu ne veux pas me donner un cheval pour que je puisse venger Zerasp, j’irai à pied, fièrement comme Adergouschasp.
+> Mais puisque tu ne veux pas me donner un cheval pour que je puisse venger Zerasp, j’irai à pied, fièrement comme Aderguschasp.
 
 Kustehem lui répondit :
 
