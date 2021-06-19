@@ -7,7 +7,7 @@ reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'Afrasiab',
     'Arjeng',
     'Bijen',
@@ -119,7 +119,7 @@ Le Touranien chancela, sa cuirasse de Roum fut ébranlée et les boutons s’ouv
 
 Lorsque Bijen vit que son ennemi voulait se soustraire au combat, il jeta sa lance par terre, étendit la main comme un léopard dans la montagne étend sa griffe sur un bélier sauvage ; et semblable à un vautour qui saisit une alouette, il arracha à Tejaou cette couronne qu’Afrasiab avait mise sur sa tête en vantant sa sagesse et sa haute naissance.
 
-Tejaou, suivi par Bijen qui ressemblait à Adergouschasp, poussa son cheval vers la porte de son château ;
+Tejaou, suivi par Bijen qui ressemblait à Aderguschasp, poussa son cheval vers la porte de son château ;
 
 Mais lorsqu’il en fut tout près, Ispenoui se présenta devant lui, le visage inondé de larmes et s’écriant :
 
