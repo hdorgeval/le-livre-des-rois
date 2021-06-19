@@ -70,7 +70,7 @@ Le monde devint violet par la poussière que soulevaient les cavaliers, les dest
 
 Arrivés au-V près de lui, les grands mirent pied à terre et le saluèrent ; le Pehlewan du monde descendit de cheval, les héros accoururent vers lui et il adressa à chacun des questions sur le roi et sur le sort que leur avait amené la rotation du soleil et de la lune.
 
-Ensuite Rustem et les héros remontèrent à cheval, semblables au brillant Adergouschasp et se rendirent auprès du roi, l’illustre Rustem marchant le premier.
+Ensuite Rustem et les héros remontèrent à cheval, semblables au brillant Aderguschasp et se rendirent auprès du roi, l’illustre Rustem marchant le premier.
 
 Arrivé en présence du roi qui chérissait ses sujets, Rustem courut vers lui et lui offrit ses hommages ; il s’approcha de lui en le bénissant, car Khosrou était digne de bénédictions et d’amour.
 
