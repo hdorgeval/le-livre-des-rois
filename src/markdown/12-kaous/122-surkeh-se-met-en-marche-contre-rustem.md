@@ -47,7 +47,7 @@ Quand Surkheh vit le combat ainsi engagé, et qu’il aperçut la pointe de la l
 
 Faramourz s’avança du centre de l’armée vers Surkheh pour le combattre avec sa lance.
 
-Semblable à Adergouschasp, il le frappa de sa lance, le souleva de selle et le tira vers lui jusqu’à ce qu’il touchât la crinière de son cheval ; les chefs de l’armée du Touran accoururent pleins de rage et d’ardeur pour le combat, ils assénèrent de toute leur force de grands coups sur la lance de Faramourz et la mirent en morceaux.
+Semblable à Aderguschasp, il le frappa de sa lance, le souleva de selle et le tira vers lui jusqu’à ce qu’il touchât la crinière de son cheval ; les chefs de l’armée du Touran accoururent pleins de rage et d’ardeur pour le combat, ils assénèrent de toute leur force de grands coups sur la lance de Faramourz et la mirent en morceaux.
 
 Surkheh sentit avec douleur qu’il était le plus faible, et recula ; ensuite il se jeta de nouveau sur Faramourz. une épée indienne à la main et semblable à un éléphant furieux.
 
