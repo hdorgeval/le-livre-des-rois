@@ -37,9 +37,8 @@ Le troisième. jour on proclama :
 >
 > Il ne faut pas qu’un erseul homme parmi les cavaliers se présente et passe
 >
-> 
-devant cette porte sans casque et sans cuirasse de combat, pour que l’inspecteur vérifie son nom sur le rôle ; et vous qui jouissez de couronnes, d’hon- neurs royaux, du pouvoir et de trônes élevés, sachez que cette revue n’est pas une affaire de condescendance et qu’il ne s’agit pas de s’abstenir et d’être
-. honteux de paraître.»
+> devant cette porte sans casque et sans cuirasse de combat, pour que l’inspecteur vérifie son nom sur le rôle ; et vous qui jouissez de couronnes, d’hon- neurs royaux, du pouvoir et de trônes élevés, sachez que cette revue n’est pas une affaire de condescendance et qu’il ne s’agit pas de s’abstenir et d’être
+> . honteux de paraître.»
 
 Kesra, le roi des rois, prêta l’oreille et entendit cet appel venant du bureau de Babek ; il sourit, demanda une cette de mailles et un casque et parut devant Babek, tenant droit dans sa main l’étendard royal, la tête couverte d’un casque de fer, la cette de mailles rattachée au col du casque de Roum par une multitude de boutons, une massue à tête de bœuf à la main, quatre flèches de bois de peuplier dans la ceinture, l’arc pendu au bras, le lacet accroché à la selle, une ceinture d’or autour de la taille. ll lança son cheval et serra les cuisses, appuya la lourde massue sur son épaule, tourna les rênes un peu à gauche et un peu à droite et montra à Babek son équipement et son art de manier le cheval.
 
@@ -57,7 +56,7 @@ Babek l’examina et l’approuva ; il s’approcha tout près du roi des rois e
 >
 > Maintenant tourne les rênes encore une fois vers la droite, de façon à donner une nouvelle preuve de ton intelligence.»
 
-Kesra lança de nouveau son cheval à droite et à gauche, semblable à Adergouschasp.
+Kesra lança de nouveau son cheval à droite et à gauche, semblable à Aderguschasp.
 
 Babek le regarda et l’admira ; il invoqua à plusieurs reprises le Créateur.
 
@@ -83,7 +82,7 @@ Ne quitte jamais la voie de l’honnêteté.
 
 Quand on se ménage soi-même, on brise le cœur de la droiture.
 
-Je t’honore de ce que tu as fait et ma pensée s’est reportée sur moi-même et je me suis demandé comment nous nous comporterions dans la ban., ILS 
+Je t’honore de ce que tu as fait et ma pensée s’est reportée sur moi-même et je me suis demandé comment nous nous comporterions dans la ban., ILS
 l
 tailler Babek répondit au noble roi :
 
