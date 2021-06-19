@@ -7,7 +7,7 @@ reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'Bebr-i-beyan',
     'Chine',
     'cyprès',
@@ -50,7 +50,7 @@ Djinghisch baisa la terre devant lui et le Khakan lui dit :
 
 > Si tu accomplis cette vengeance, si tu m’apportes cette tête superbe, je te donnerai tant de joyaux et de trésors que tu n’auras plus besoin de te fatiguer.
 
-Djinghisch lança aussitôt son cheval et courut semblable à Adergouschasp ;
+Djinghisch lança aussitôt son cheval et courut semblable à Aderguschasp ;
 
 Arrivé auprès des Iraniens qu’il voulait attaquer, il prit dans son carquois une flèche de bois de peuplier et s’écria :
 
