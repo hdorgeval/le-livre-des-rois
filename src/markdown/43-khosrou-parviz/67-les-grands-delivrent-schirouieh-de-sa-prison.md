@@ -57,7 +57,7 @@ Tokhar répondit à Ferrukhzad :
 >
 > Si la fortune revenait à Parviz, il ne laisserait pas en vie un seul Pehlewan de l’Iran et personne n’échapperait, soit au gibet, soit au cachot et aux fers.»
 
-En disant cela, il poussa son cheval et s’élança, semblable à Adergouschasp, emmenant au combat toute son armée.
+En disant cela, il poussa son cheval et s’élança, semblable à Aderguschasp, emmenant au combat toute son armée.
 
 Le Sipehbed s’avança vers lui sans hésiter ; mais sa troupe illustre fut mise en désarroi et lui-même tué dans la mêlée.
 
@@ -68,7 +68,7 @@ Tokhar trouva ainsi moyen d’entrer dans la prison étroite, revêtu de son arm
 Schiroueïh comprit pourquoi cet homme plein d’orgueil était venu dans la prison en ce moment, ethuand il vit le visage radieux de Tokhar, son âme et son cœur exhalèrent son anxiété ; il lui dit en versant des larmes :
 
 > Où
-est Khosrou ?
+> est Khosrou ?
 >
 > Est-ce à vous de me mettre en liberté ?»
 
