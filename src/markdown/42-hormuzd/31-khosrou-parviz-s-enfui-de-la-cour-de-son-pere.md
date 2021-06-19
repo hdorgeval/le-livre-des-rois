@@ -94,16 +94,16 @@ Tous lui dirent :
 >
 > Ne crains pas le malheur, vis heureux, joyeux et respecté.
 >
-> Tantôt nous lancerons nos chevaux à la chasse, tantôt nous nous présenterons en tremblant devant Adergouschasp, glorifiant Dieu comme les saints, priant comme les adorateurs du ’ feu.
+> Tantôt nous lancerons nos chevaux à la chasse, tantôt nous nous présenterons en tremblant devant Aderguschasp, glorifiant Dieu comme les saints, priant comme les adorateurs du ’ feu.
 >
 > Et si dans l’Iran trois cent mille hommes montaient à cheval pour l’attaquer, nous nous laisserions tous tuer pour toi et nous célébrerions la mémoire de ceux qui tomberaient.»
 
 Khosrou leur répondit :
 
-> Je suis rempli de crainte du roi et de sa cour, mais si les chefs veulent se présenter devant Adergouschasp et prêter un serment solennel, par lequel ils garantissent tous ensemble ma sécurité et rrpromettant qu’ils me garderont dorénavant leur fidélité, je resterai avec confiance dans ce pays et ne craindrai plus le mal que a pourrait me faire Aliriman.»
+> Je suis rempli de crainte du roi et de sa cour, mais si les chefs veulent se présenter devant Aderguschasp et prêter un serment solennel, par lequel ils garantissent tous ensemble ma sécurité et rrpromettant qu’ils me garderont dorénavant leur fidélité, je resterai avec confiance dans ce pays et ne craindrai plus le mal que a pourrait me faire Aliriman.»
 
 Lorsque les héros eurent entendu ces paroles, ils allèrent. tous à Ader (gouachmp), prêtèrent les serments qu’il voulut et déclarèrent qu’ils le chérissaient comme leurs propres yeux.
->
+
 > Se voyant sûr des grands, il envoya en secret de tous côtés des agents pour apprendre ce que disait son père de sa fuite et s’il méditait un nouveau plan.
 >
 > Quand Hormuzd apprit le départ de Khosrou, il envoya en toute hâte quelqu’un qui devait charger de chaînes Gustehem et Bendoui et jeter en prison ces malheureux ; qui étaient tous les deux des oncles maternels de Khosrou et des hommes Uniques dans le monde pour leur bravoure.
