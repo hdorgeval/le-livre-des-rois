@@ -27,7 +27,7 @@ Les sabots des chevaux couvrirent la terre et les étendards de soie rendirent l
 
 Le roi partit avec le drapeau de Kaweh, portant la couronne et les bottines d’or ; le bruit de l’armée s’entendait à deux milles ; elle était précédée des timbales et des éléphants ; derrière eux se trouvait Ie roi, suivi par les nobles et ils marchèrent rapidement jusqu’à Ader Abadgan.
 
-Lorsque le roi vit de loin le temple d’Adergouschasp, il mit pied à terre et abandonna son cheval ; il demanda du barsonl au saint Destour et son visage
+Lorsque le roi vit de loin le temple d’Aderguschasp, il mit pied à terre et abandonna son cheval ; il demanda du barsonl au saint Destour et son visage
 
 Fut inondé de larmes ; il entra en silence dans le temple du feu ; du plaça un trône incrusté d’or sur lequel on posa le livre du Zend-Avesta et un Mobed se mil à le réciter à haute voix et selon la règle.
 
@@ -67,8 +67,7 @@ Il dit :
 
 > Si quelqu’un de cette armée innombrable, si quelqu’un des chefs et des commandants dévie de ma route, s’il méprise un seul instant mes avis, s’il fait de la peine aux hommes pauvres ou aux grands qui possèdent des trésors, s’il
 >
-> 
-foule aux pieds les champs ensemencés, ou s’il avance aildevant des rangs, s’il s’attaque aux arbres fruitiers ou s’il commet tout autre méfait, je jure par Dieu, qui m’a donné le diadème et le pouvoir, le maître de Saturne, de Mars et’du soleil, que je le couperai en deux avec l’épée, quand même il se cacherait dans les nues comme les étoiles. le fais des rondes au-devant du camp, je suis le maître ambitieux et le soutien du centre de l’armée, je surveille les éléphants, les troupes et les bagages ; tantôt je suis à l’aile droite, tantôt je vais à l’aile gauche ; je marche dans les terres sèches, je tra-.verse les flots des eaux, je ’ne me repose et ne m’endors pas quand il s’agit de livrer bataille.»
+> foule aux pieds les champs ensemencés, ou s’il avance aildevant des rangs, s’il s’attaque aux arbres fruitiers ou s’il commet tout autre méfait, je jure par Dieu, qui m’a donné le diadème et le pouvoir, le maître de Saturne, de Mars et’du soleil, que je le couperai en deux avec l’épée, quand même il se cacherait dans les nues comme les étoiles. le fais des rondes au-devant du camp, je suis le maître ambitieux et le soutien du centre de l’armée, je surveille les éléphants, les troupes et les bagages ; tantôt je suis à l’aile droite, tantôt je vais à l’aile gauche ; je marche dans les terres sèches, je tra-.verse les flots des eaux, je ’ne me repose et ne m’endors pas quand il s’agit de livrer bataille.»
 
 Un héraut du nom de Schirzad apprit par cœur ces paroles du roi, alla en courant partout dans l’armée et passa devant toutes les tentes, grandes et petites, criant :
 
