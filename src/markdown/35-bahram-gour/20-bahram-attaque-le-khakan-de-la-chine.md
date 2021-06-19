@@ -18,7 +18,7 @@ U-L"
 Tl ?
 seul jour dans les fêtes et à boire du vin.
 
-Lorsqu’il sut que le Khakan était à Merv avec une grande armée, il conduisit ses troupes à Adergouschasp, sans bagages et chaque homme étant pourvu de deux chevaux, d’une cuirasse, d’un carquois et d’un casque de Roum.
+Lorsqu’il sut que le Khakan était à Merv avec une grande armée, il conduisit ses troupes à Aderguschasp, sans bagages et chaque homme étant pourvu de deux chevaux, d’une cuirasse, d’un carquois et d’un casque de Roum.
 
 Jour et nuit il avançait sur la route, rapidement comme le vent ; il courait comme un torrent qui descend de la montagne et arriva ainsi d’ArdebiI à Amol.
 
