@@ -18,10 +18,10 @@ Lorsque le roi glorieux fut monté sur le trône, le grand chambellan parut à l
 Les grands, les vainqueurs des éléphants, les hommes au visage de lion, comme Thous, Gouderz, le vaillant Guiv, Gourguin, Bijen et Behham le lion, entrèrent, les mains respectueusement croisées ; en voyant Khosrou ils l’adorèrent, ensuite ils lui dévoilèrent leurs pensées secrètes, disant :
 
 > Ô roi, ô héros,
--ô homme vaillant, ô juge, ô maître du monde, ’
-ô puissant parmi les puissants !
+> -ô homme vaillant, ô juge, ô maître du monde, ’
+> ô puissant parmi les puissants !
 >
-> Jamais un roi comme toi ne s’est assis sur le trône d’ivoire ; le soleil et la couronne empruntent de toi leur splendeur ; c’est toi qui donnes leur force aux cuirasses, aux épées et aux chevaux, toi qui allumes le feu du bienheureux Adergouschasp.
+> Jamais un roi comme toi ne s’est assis sur le trône d’ivoire ; le soleil et la couronne empruntent de toi leur splendeur ; c’est toi qui donnes leur force aux cuirasses, aux épées et aux chevaux, toi qui allumes le feu du bienheureux Aderguschasp.
 >
 > Les fatigues ne t’effrayent pas, les trésors ne t’amollissent pas et les richesses sont au-dessous des fatigues que tu as éprouvées.
 >
@@ -66,4 +66,4 @@ Les Pehlewans quittèrent le roi, remplis de douleur et d’incertitudes et Khos
 A la nuit il se rendit au lieu de ses prières et ouvrit les lèvres devant Dieu le juste, le Seigneur, disant :
 
 > Ô toi qui es plus grand que les plus grands, qui favorises ceux qui sont purs et bons, sois mon guide
-’vers le ciel, pour que je puisse quitter ce séjour passager sans que mon cœur se soit tourné vers le mal et de manière que mon âme trouve une place dans le séjour des heureux.
+> ’vers le ciel, pour que je puisse quitter ce séjour passager sans que mon cœur se soit tourné vers le mal et de manière que mon âme trouve une place dans le séjour des heureux.
