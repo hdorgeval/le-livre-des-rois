@@ -7,7 +7,7 @@ reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'âme',
     'Bahram',
     'Chine',
@@ -68,7 +68,7 @@ Lorsque le soleil commença à lancer ses dards de l’horizon, qu’il se hâta
 >
 > Mon cœur est plein de soucis de ce que j’ai fait, il est brisé par la douleur et l’anxiété ;
 >
-> Mon âme est remplie de honte devant le roi, ma langue ne prononce que des demandes de pardon, je suis plein de repentir et je brûle comme Adergouschasp en pensant à l’innocent Firoud et à Zerasp.
+> Mon âme est remplie de honte devant le roi, ma langue ne prononce que des demandes de pardon, je suis plein de repentir et je brûle comme Aderguschasp en pensant à l’innocent Firoud et à Zerasp.
 >
 > C’est moi seul qui ai fait le mal ;
 >
