@@ -53,7 +53,7 @@ Ayant ainsi parlé, il se rassit sur son trône, heureux dans l’âme et plaça
 Les grands appelèrent sur lui des bénédictions, disant :
 
 > Puissent le diadème et le sceau n’être jamais privés de toil Lorsque le roi est un sage
-’ et que sa fortune est victorieuse, la terre, la couronne et le trône en sont glorieux.
+> ’ et que sa fortune est victorieuse, la terre, la couronne et le trône en sont glorieux.
 
 Tuas du savoir, de la bravoure et de la gloire et ton pouvoir, ton sang et ta naissance dépassent ce qu’il faut au trône impérial et le monde ne se rappelle pas un roi ’ comme toi.
 
@@ -63,7 +63,7 @@ Nous te glorifierons devant Dieu et devant les hommes libres.
 
 Sur cetrône des rois vénérables est assis un roi juste, victorieux et puissant ; tu ressuscites de leur tombe les morts par ta justice, ta générosité et tes saintes paroles.
 
-Que le Seigneur A9 tout-puissant te soit en aide, que l’étoile de la fortune repose dans tes bras la Les grands, pleins de sagesse, les favoris du sort, quittèrent le roi remplis de joie et Bahram monta à cheval avec son armée et se rendit au temple d’Adergouschasp.
+Que le Seigneur A9 tout-puissant te soit en aide, que l’étoile de la fortune repose dans tes bras la Les grands, pleins de sagesse, les favoris du sort, quittèrent le roi remplis de joie et Bahram monta à cheval avec son armée et se rendit au temple d’Aderguschasp.
 
 Il distribua aux pauvres beaucoup d’or et de joyaux et ceux qui cachaient leur besoin en reçurent le plus.
 
