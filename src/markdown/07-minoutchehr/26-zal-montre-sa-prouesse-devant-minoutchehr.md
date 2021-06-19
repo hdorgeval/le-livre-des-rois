@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 264
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags: ['Destan', 'Mihrab', 'Minoutchehr', 'Neriman', 'Pehlewans', 'Sam', 'Sipehbed', 'Zal']
 order: '026'
 ---
 
