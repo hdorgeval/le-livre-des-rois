@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 257
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags: ['âme', 'Dieu', 'Iran', 'Mihrab', 'Minoutchehr', 'Mobeds', 'Pehlewan', 'Sam', 'Zal']
 order: '023'
 ---
 
