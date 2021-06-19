@@ -7,6 +7,7 @@ export const noises = [
   'Adieu',
   'Adore',
   'Adorez',
+  'Combattez-le',
   'Adorons',
   'Adresse-toi',
   'Affranchis-toi',
