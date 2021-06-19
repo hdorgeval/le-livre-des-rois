@@ -17,15 +17,15 @@ Zal réfléchit quelque temps, il leva ses bras et élargit sa poitrine, puis il
 >
 > Il y a dans l’année douze nouvelles lunes semblables à un roi nouveau assis sur un trône nouveau.
 >
-> Le mais arrive à sa fin en trente jours, tel est le temps de sa rotation.
+> Le mois arrive à sa fin en trente jours, tel est le temps de sa rotation.
 >
-> Je passe à la question relative aux deux chevaux brillants comme Adergueschasp, dont l’un est toujours blanc, l’autre toujours noir et qui se poursuivent dans une DE.
+> Je passe à la question relative aux deux chevaux brillants comme Aderguschasp, dont l’un est toujours blanc, l’autre toujours noir et qui se poursuivent dans une course rapide.
 >
-> Course rapide.
+> C’est le jour et la nuit qui passent et qui comptent les pulsations du ciel au-dessus de nous.
 >
-> C’est le jour et la nuit qui passent et qui comptent les pulsations du ciel tau-dessus de nous.
+> Ils courent comme une bête fauve devant les chiens, sans que l’un gagne jamais l’autre de vitesse.
 >
-> Ils courent comme une bête fauve devant les chiens, sans que l’un gagne jamais l’autre de vitesse. ËEnsuite tu as parlé de trente cavaliers qui passent devant le roi et dont il manque un, mais qui de nouveau sont complets, quand tu les recomptes.
+> Ensuite tu as parlé de trente cavaliers qui passent devant le roi et dont il manque un, mais qui de nouveau sont complets, quand tu les recomptes.
 >
 > Sache que chaque lune se compte ainsi, telle a été la volonté du créateur du monde ; tu n’as voulu parler que de la lune décroissante, qui disparaît de temps en temps pendant une nuit.
 >
@@ -35,7 +35,7 @@ Zal réfléchit quelque temps, il leva ses bras et élargit sa poitrine, puis il
 >
 > Les deux cyprès sont, les deux côtés du ciel sublime, d’où nous viennent la joie et la tristesse ; sache que l’oiseau qui vole au-dessus est le soleil et que les craintes et les espérances du monde dépendent de lui.
 >
-> Enfin la ville située sur la montagne est le monde éternel et le lieu où l’on rend compte de sa vie ; le hallier est ce monde transitoire, lieu de plaisirs et de peines. de richesse et de travail ; c’est celui-ci qui compte les moments de ta vie et qui tantôt en prolonge la durée, tantôt en tranche le cours.
+> Enfin la ville située sur la montagne est le monde éternel et le lieu où l’on rend compte de sa vie ; le hallier est ce monde transitoire, lieu de plaisirs et de peines de richesse et de travail ; c’est celui-ci qui compte les moments de ta vie et qui tantôt en prolonge la durée, tantôt en tranche le cours.
 >
 > Il s’élèvera un vent accompagné d’un tremblement de terre et le monde se remplira de bruit et de cris de douleur.
 >
@@ -49,8 +49,8 @@ Zal réfléchit quelque temps, il leva ses bras et élargit sa poitrine, puis il
 >
 > Quand la poussière sèche couvrira notre poitrine et notre visage, alors tout ne sera que peur, terreur et désolation.
 >
-> A l’égard du désert et de l’homme à la. faux aiguë, qui fait trembler ce qui est vert et ce qui est sec, qui fauche également les herbes fraîches et les sèches et n’écoute pas les plaintes que tu lui adresses : le faucheur est le temps et nous sommes les herbes.
+> À l’égard du désert et de l’homme à la faux aiguë, qui fait trembler ce qui est vert et ce qui est sec, qui fauche également les herbes fraîches et les sèches et n’écoute pas les plaintes que tu lui adresses : le faucheur est le temps et nous sommes les herbes.
 >
-> Il ne fait pas de distinction entre le grand-père et le petit-fils, il ne regarde ni l’âge ni la jeunesSe, il abat toute proie qu’il rencontre ; telle est la loi et la condition de ce monde, que personne n’est enfanté par sa mère que pour. mourir.
+> Il ne fait pas de distinction entre le grand-père et le petit-fils, il ne regarde ni l’âge ni la jeunesse, il abat toute proie qu’il rencontre ; telle est la loi et la condition de ce monde, que personne n’est enfanté par sa mère que pour mourir.
 >
-> Il entre par cette porte et sort par cette autre et le nombre de ses respirations lui est compté par le sort.»
+> Il entre par cette porte et sort par cette autre et le nombre de ses respirations lui est compté par le sort.
