@@ -34,7 +34,7 @@ Or une nuit Babek, le fils de ltoudiab, dormait et son esprit’serein vit en r�
 
 Il établit un bon gouvernement dans le monde et délivrait les cœurs atlligés de leurs soucis.
 
-La nuit suivante, lorsque Babel : se coucha, sa tête était préoccupée des souvenirs de ce rêve et il eut un nouveau songe dans lequel des adorateurs du feu apportèrent dans leurs mains trois feux qui tous brûlèrent devant Sasan, brillants comme le feu des temples d’Adergouschasp et de Kliarrad Mihr, étince- tante comme le ciel qui tourne et nourris avec du bois d’aloès.
+La nuit suivante, lorsque Babel : se coucha, sa tête était préoccupée des souvenirs de ce rêve et il eut un nouveau songe dans lequel des adorateurs du feu apportèrent dans leurs mains trois feux qui tous brûlèrent devant Sasan, brillants comme le feu des temples d’Aderguschasp et de Kliarrad Mihr, étince- tante comme le ciel qui tourne et nourris avec du bois d’aloès.
 
 Babel : se réveilla et son esprit et son cœur se remplirent de projets.
 
@@ -57,7 +57,7 @@ Puis, il adressa les questions d’usage à Sasan, le reçut amicalement et le f
 A la lin il dit à Babek :
 
 > Ô LE LIVRE DES 5.
-roi !
+> roi !
 >
 > Si tu veux donner à ton pâtre une garantie pour a sa vie, je te dirai tout ce qui regarde mon origine, aussitôt que tu auras placé ta main dans la mienne et promis que tu ne me feras pas de mal ni en public ni en secret.»
 
@@ -68,7 +68,7 @@ Babek ayant entendu ces paroles, lui dit en invoquant Dieu, le distributeur de t
 Alors le pâtre dit à Babek :
 
 > Ô Pehlewan!
-a je suis le fils de Sasan et descendant du roi Ardeschir, le maître du monde, qui vit dans le souvenir des hommes sous le nom de Bahman et qui était le noble fils du héros Isfendiar, qui devait être le successeur de Guschtasp dans le gouvernement du monde.»
+> a je suis le fils de Sasan et descendant du roi Ardeschir, le maître du monde, qui vit dans le souvenir des hommes sous le nom de Bahman et qui était le noble fils du héros Isfendiar, qui devait être le successeur de Guschtasp dans le gouvernement du monde.»
 
 À ces paroles, Babek se mit à verser des larmes de ses yeux brillants qui avaient vu ce songe et il lui dit :
 
