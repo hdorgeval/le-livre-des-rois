@@ -21,6 +21,6 @@ Ils mirent pied à terre et s’altaquèrent de nouveau ; ils firent voler la po
 
 Gourazeh saisit Siamek comme un lion et rapide comme le vent, le renversa sous lui ; il le jeta sur le sol si violemment que ses os furent brisés et qu’il rendit’l’âme à l’instant.
 
-Alors Gourazeh l’attache sur son cheval et se remit en selle, semblable à Adergouschasp ; il emmena le cheval de Siamek et monta au haut de la colline comme un homme ivre, son drapeau fortuné en main, marchant fièrement et plein de joie, car il avait tué son ennemi.
+Alors Gourazeh l’attache sur son cheval et se remit en selle, semblable à Aderguschasp ; il emmena le cheval de Siamek et monta au haut de la colline comme un homme ivre, son drapeau fortuné en main, marchant fièrement et plein de joie, car il avait tué son ennemi.
 
 Il descendit de cheval et invoqua les bénédictions de Dieu le dispensateur de la justice sur la fortune du roi de la terre.
