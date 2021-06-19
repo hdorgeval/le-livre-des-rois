@@ -13,7 +13,7 @@ order: '018'
 
 Nouschzad ayant répondu ainsi au vieux Pirouz, les plumes des flèches couvrirent le ciel, les braves de l’armée s’ébranlèrept, les timbales et les clairons résonnèrent.
 
-Nouschzad lança son cheval rapidement comme le feu, s’avança, semblable à Adergouschasp , renversa l’aile gauche des Iraniens et aucun des héros ne restait plus en face de son armée.’Il tua beaucoup d’hommes vaillants.
+Nouschzad lança son cheval rapidement comme le feu, s’avança, semblable à Aderguschasp , renversa l’aile gauche des Iraniens et aucun des héros ne restait plus en face de son armée.’Il tua beaucoup d’hommes vaillants.
 
 Bain Bénin devint inquiet et ordonna de faire pleuvoir des flèches et d’en remplir l’air comme d’une grêle de printemps.
 
@@ -67,8 +67,7 @@ Tous les chrétiens qui se trouvaient dans ce pays se déchirèrent les joues ; 
 >
 > Cherche un passage, mais ne re-
 >
-> 
-cherche pas tant le monde, sa fleur est du poison ; ne la flaire pas étourdiment.
+> cherche pas tant le monde, sa fleur est du poison ; ne la flaire pas étourdiment.
 >
 > Ne te détourne pas de la foi et de la droiture, car la colère de Dieu amènerait la perte.
 >
