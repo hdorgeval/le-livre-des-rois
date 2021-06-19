@@ -8,7 +8,7 @@ reign-slug: 'regne-de-guschtasp'
 map: ''
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'âme',
     'Amschaspand',
     'Ardibehescht',
@@ -103,7 +103,7 @@ Qu'est-ce que cela, dit Guschtasp à Zoroastre?
 
 À peine achevait-il ces paroles, que les quatre cavaliers revêtus d’habits de différentes couleurs, la lance à la main, & répandant la terreur, s’avancèrent vers le Trône du Roi.
 
-L'un était Bahman [^2] & l’autre Ardibehescht [^3] suivi de Khordad [^4] & d’Adergouschasp.
+L'un était Bahman [^2] & l’autre Ardibehescht [^3] suivi de Khordad [^4] & d’Aderguschasp.
 
 Ils dirent à Guschtasp:
 
