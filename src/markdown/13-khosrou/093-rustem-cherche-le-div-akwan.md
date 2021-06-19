@@ -39,7 +39,7 @@ Rustem reconnut alors que ce n’était pas un onagre et qu’il fallait le vain
 >
 > Il faut donc me fier à mon épée et tacher de sang cette robe de jaune doré.
 
-En ce moment le Div reparut dans le désert et le Sipehbed lança de nouveau son cheval rapide, banda son arc et semblable à Adergouschasp, décocha une flèche tout en courant de toute la vitesse de sa monture ;
+En ce moment le Div reparut dans le désert et le Sipehbed lança de nouveau son cheval rapide, banda son arc et semblable à Aderguschasp, décocha une flèche tout en courant de toute la vitesse de sa monture ;
 
 Mais à peine avait-il tiré de l’étui son arc royal, que l’onagre disparut encore une fois.
 
