@@ -26,7 +26,7 @@ Dieu, le maître de la victoire, lui avait donnée. n’avait pris aucun repos e
 
 Ensuite le roi du monde dit : Ô hommes illustres, fortunés et puissantsl faites sortir vos femmes et vos enfants de la ville et ce portez avec vous dans la plaine des vivres et de la musique.»
 
-Il exécuta ce plan et ne s’occupe que de cette fête ; tous les héros de la famille royale et de la famille de Zerasp se rendirent au temple d’Adergouschasp et le roi Keï Kaous passa quarante jours en fêtes, avec des chants et des coupes de vin. ’
+Il exécuta ce plan et ne s’occupe que de cette fête ; tous les héros de la famille royale et de la famille de Zerasp se rendirent au temple d’Aderguschasp et le roi Keï Kaous passa quarante jours en fêtes, avec des chants et des coupes de vin. ’
 Lorsque la nouvelle lune parut au ciel brillante comme le soleil et semblable à la couronne d’or sur la tête d’un jeune roi, lesgrands se mirent en route pour le pays de Fers, rassasiés de combats et de discours :
 
 > dans chaque ville qu’ils trouvèrent sur leur route, la foule se pressait autour du roi et Kaous ouvrait ses caisses d’or et enrichit tous les hommes de bien.
