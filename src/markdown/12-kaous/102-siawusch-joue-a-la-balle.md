@@ -63,7 +63,7 @@ Guersiwez lui dit :
 
 Siawusch répondit :
 
-> Ne parle pas de celai ; tu es un prince et un lion avide de combats ; ton cheval est le roi du mien et ton casque est sacré pour moi comme Adergouschasp.
+> Ne parle pas de celai ; tu es un prince et un lion avide de combats ; ton cheval est le roi du mien et ton casque est sacré pour moi comme Aderguschasp.
 >
 > Désigne un Touranien autre que toi pour qu’il se mesure avec moi sans me garder rancune.»
 
