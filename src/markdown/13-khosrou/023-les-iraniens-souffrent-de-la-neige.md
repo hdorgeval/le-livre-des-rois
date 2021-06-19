@@ -7,7 +7,7 @@ reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'Afrasiab',
     'Bahram',
     'Bijen',
@@ -79,7 +79,7 @@ Bahram, le plus fier d’entre les héros, lui répondit :
 
 Thous lui dit :
 
-> Adergouschasp n’est pas plus glorieux que n’était le vaillant Zerasp et Firoud n’a pas été tué innocemment.
+> Aderguschasp n’est pas plus glorieux que n’était le vaillant Zerasp et Firoud n’a pas été tué innocemment.
 >
 > C’était écrit et ce qui est fait est fait.
 >
