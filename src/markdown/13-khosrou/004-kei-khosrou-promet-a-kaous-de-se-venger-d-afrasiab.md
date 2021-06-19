@@ -7,7 +7,7 @@ reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
 tags:
   [
-    'Adergouschasp',
+    'Aderguschasp',
     'Afrasiab',
     'âme',
     'Créateur',
@@ -87,7 +87,7 @@ Après avoir touché plusieurs fois la terre avec son front et célébré les lo
 
 > Ô mes braves, qui êtes prêts à conquérir le monde et à frapper avec vos épées !
 >
-> J’ai traversé à cheval le pays d’Iran, d’ici jusqu’au temple d’Adergouschasp.
+> J’ai traversé à cheval le pays d’Iran, d’ici jusqu’au temple d’Aderguschasp.
 >
 > Je n’ai pas rencontré un seul homme heureux, un seul riche, un seul dont les terres fussent bien cultivées ;
 >
