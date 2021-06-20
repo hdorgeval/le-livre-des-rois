@@ -13,7 +13,7 @@
     "eslint-init": "eslint --init",
     "format": "prettier --write \"src/**/*.{ts,tsx,css,html,json,md}\" ",
     "jest-init": "jest --init",
-    "lint": "eslint ./ --ext .js,.ts,.tsx,.jsx --format visualstudio --no-color --max-warnings 10 --report-unused-disable-directives --ignore-pattern 'public/*' --ignore-pattern 'coverage/*' --ignore-pattern 'node_modules/*' ",
+    "lint": "eslint ./ --ext .js,.ts,.tsx,.jsx --format visualstudio --no-color --max-warnings 10 --report-unused-disable-directives --ignore-pattern 'public/*' --ignore-pattern 'coverage/*' --ignore-pattern 'node_modules/*' --ignore-pattern 'src/markdown/*'  ",
     "ocr": "ocrmypdf --skip-text -l fra source.pdf target.pdf",
     "serve": "gatsby serve",
     "start": "npm run develop",
