@@ -11,7 +11,7 @@
     "create-types-for-sass-modules": "tsm src --nameFormat camel",
     "develop": "gatsby develop",
     "eslint-init": "eslint --init",
-    "format": "prettier --write \"src/**/*.{ts,tsx,css,html,json,md}\" ",
+    "format": "prettier --loglevel warn --list-different --write \"src/**/*.{ts,tsx,css,html,json}\" ",
     "jest-init": "jest --init",
     "lint": "eslint ./ --ext .js,.ts,.tsx,.jsx --format visualstudio --no-color --max-warnings 10 --report-unused-disable-directives --ignore-pattern 'public/*' --ignore-pattern 'coverage/*' --ignore-pattern 'node_modules/*' --ignore-pattern 'src/markdown/*'  ",
     "ocr": "ocrmypdf --skip-text -l fra source.pdf target.pdf",
