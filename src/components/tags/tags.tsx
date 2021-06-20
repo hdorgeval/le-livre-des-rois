@@ -68,14 +68,28 @@ export const Tags: React.FC = () => {
   }, [allData]);
 
   const [tags, setTags] = React.useState<MarkdownGroupedTag[]>(allTags);
+  const [isSearching, setIsSearching] = React.useState(false);
+  const inputSearchRef: React.LegacyRef<HTMLInputElement> = React.useRef(null);
+
   const onSearch: React.ChangeEventHandler<HTMLInputElement> = React.useCallback(
     (event) => {
       const searchValue = event.target.value;
+      if (searchValue) {
+        setIsSearching(true);
+      }
       const result = fuzzySearch(searchValue, allTags);
       setTags(result);
     },
     [setTags, allTags],
   );
+
+  const resetSearch = React.useCallback(() => {
+    setIsSearching(false);
+    if (inputSearchRef && inputSearchRef.current) {
+      inputSearchRef.current.value = '';
+      setTags(allTags);
+    }
+  }, [allTags]);
 
   return (
     <>
@@ -84,6 +98,7 @@ export const Tags: React.FC = () => {
           <i className="bi bi-search text-light"></i>
         </span>
         <input
+          ref={inputSearchRef}
           type="text"
           className="form-control bg-dark text-light"
           placeholder="Recherchez un mot dans le lexique"
@@ -91,6 +106,16 @@ export const Tags: React.FC = () => {
           aria-describedby="search-input"
           onChange={onSearch}
         />
+        {isSearching && (
+          <button
+            className="btn btn-outline-secondary py-0 px-1"
+            type="button"
+            id="reset-search"
+            onClick={resetSearch}
+          >
+            <i className="bi bi-x text-light fs-2"></i>
+          </button>
+        )}
       </div>
       <div id="tags-container" className="container-fluid">
         {tags
