@@ -5,7 +5,24 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 267
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Ahrimans',
+    'âme',
+    'Chine',
+    'Destan',
+    'Kaboul',
+    'Kaboulistan',
+    'Mihrab',
+    'Minoutchehr',
+    'Pehlewan',
+    'Roudabeh',
+    'Roum',
+    'Sam',
+    'Sindokht',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '027'
 ---
 
