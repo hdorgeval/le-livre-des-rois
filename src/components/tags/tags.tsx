@@ -4,6 +4,9 @@ import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
 const isFuzzyMatch = (word: string, search: string): boolean => {
+  if (word && word.includes(search)) {
+    return true;
+  }
   const searchletters = [...search].map((l) => l.toLowerCase());
   const wordLetters = [...word].map((l) => l.toLowerCase().replace('â', 'a'));
   let matchingLetters = 0;
@@ -83,8 +86,8 @@ export const Tags: React.FC = () => {
         <input
           type="text"
           className="form-control bg-dark text-light"
-          placeholder="Rechercher un mot dans le lexique"
-          aria-label="Rechercher un mot dans le lexique"
+          placeholder="Recherchez un mot dans le lexique"
+          aria-label="Recherchez un mot dans le lexique"
           aria-describedby="search-input"
           onChange={onSearch}
         />
