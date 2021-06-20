@@ -67,6 +67,7 @@
     "eslint-config-prettier": "8.3.0",
     "eslint-plugin-prettier": "3.4.0",
     "eslint-plugin-react": "7.24.0",
+    "eslint-plugin-react-hooks": "4.2.0",
     "gatsby-cli": "3.7.1",
     "jest": "27.0.4",
     "mermaid.cli": "0.5.1",
