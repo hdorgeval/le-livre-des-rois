@@ -2,7 +2,51 @@ import { Tag } from './tag';
 import { AllMarkdownRemarkResponse, MarkdownGroupedTag } from '../../graphql';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
-import Fuse from 'fuse.js';
+
+const isFuzzyMatch = (word: string, search: string): boolean => {
+  const searchletters = [...search].map((l) => l.toLowerCase());
+  const wordLetters = [...word].map((l) => l.toLowerCase().replace('â', 'a'));
+  let matchingLetters = 0;
+
+  searchletters.forEach((letter, letterIndexInSearch) => {
+    const letterIndexInWord = wordLetters.indexOf(letter);
+    if (letterIndexInWord < 0) {
+      return;
+    }
+    const distance = Math.abs(letterIndexInWord - letterIndexInSearch);
+    const isInRange = distance <= wordLetters.length / 2;
+    if (isInRange) {
+      matchingLetters += 1;
+    }
+  });
+
+  const ratio = matchingLetters / searchletters.length;
+  if (ratio > 0.8) {
+    return true;
+  }
+  return false;
+};
+
+const fuzzySearch = (searchValue: string, tags: MarkdownGroupedTag[]): MarkdownGroupedTag[] => {
+  if (!searchValue) {
+    return tags;
+  }
+
+  if (searchValue.length === 1) {
+    return tags.filter((tag) =>
+      tag.fieldValue.toLowerCase().replace('â', 'a').startsWith(searchValue.toLowerCase()),
+    );
+  }
+
+  if (searchValue.length === 2) {
+    return tags.filter((tag) => tag.fieldValue.toLowerCase().includes(searchValue.toLowerCase()));
+  }
+
+  const result = tags.filter((tag) => {
+    return isFuzzyMatch(tag.fieldValue, searchValue);
+  });
+  return result;
+};
 
 export const Tags: React.FC = () => {
   const allData = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
@@ -20,38 +64,14 @@ export const Tags: React.FC = () => {
     return allData?.allMarkdownRemark?.group || [];
   }, [allData]);
 
-  const fuzzySearch = React.useMemo(() => {
-    const options = {
-      includeScore: true,
-      findAllMatches: true,
-      threshold: 0.6,
-      keys: ['fieldValue'],
-    };
-    const search = new Fuse<MarkdownGroupedTag>(allTags, options);
-    return search;
-  }, [allTags]);
-
   const [tags, setTags] = React.useState<MarkdownGroupedTag[]>(allTags);
   const onSearch: React.ChangeEventHandler<HTMLInputElement> = React.useCallback(
     (event) => {
       const searchValue = event.target.value;
-      if (!searchValue) {
-        setTags(allTags);
-        return;
-      }
-      if (searchValue && searchValue.length === 1) {
-        setTags(
-          allTags.filter((tag) =>
-            tag.fieldValue.toLowerCase().startsWith(searchValue.toLowerCase()),
-          ),
-        );
-        return;
-      }
-      const fuzzyResult = fuzzySearch.search(searchValue);
-      const result = fuzzyResult.filter((r) => Number(r.score) <= 0.3).map((r) => r.item);
+      const result = fuzzySearch(searchValue, allTags);
       setTags(result);
     },
-    [setTags, allTags, fuzzySearch],
+    [setTags, allTags],
   );
 
   return (
