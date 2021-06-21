@@ -27,6 +27,7 @@
     "auto-commit-episodes-with-updated-tags": "ts-node src/tools/git/auto-commit-episodes-with-updated-tags.ts",
     "auto-commit-episodes-with-updated-lastUpdate": "ts-node src/tools/git/auto-commit-episodes-with-updated-last-update-metadata.ts",
     "auto-commit-new-episodes": "ts-node src/tools/git/auto-commit-new-episodes.ts",
+    "auto-commit-skip-netlify": "ts-node src/tools/git/auto-commit-skip-netlify.ts",
     "auto-commit": "ts-node src/tools/git/auto-commit.ts"
   },
   "dependencies": {
