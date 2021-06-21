@@ -125,3 +125,8 @@
 {"rule":"MILLES","sentence":"^\\QLes hommes qui portaient l'or, les esclaves, les chevaux et les éléphants formèrent des rangs depuis la porte du palais jusqu'à une distance de deux milles.\\E$"}
 {"rule":"ADRESSER_UN_PROBLEME","sentence":"^\\QLe roi alors manda Zal, parce qu'il voulait lui faire adresser des questions pour le mettre à l'épreuve.\\E$"}
 {"rule":"SUBJ_LOCU","sentence":"^\\QIl envoya tout de suite un cavalier à Kaboul pour qu'il apprit à Mihrab ce qui s'était passé et comment le roi de la terre avait rétabli le bonheur qui avait disparu, en ajoutant :\\E$"}
+{"rule":"UPPERCASE_SENTENCE_START","sentence":"^\\Qde joie et de repos.\\E$"}
+{"rule":"PORTER_FRUIT","sentence":"^\\QNe laisse pas ton cœur s'affliger ; car cette branche, digne de porter fruit, te portera fruit.\\E$"}
+{"rule":"MILLES","sentence":"^\\QDans le conseil, il sera prudent comme Sam, dans la colère, ce sera un lion de guerre ; par sa stature, il sera un cyprès et par sa force un crocodile ; il lancera avec son doigt une brique à deux milles.\\E$"}
+{"rule":"D_N","sentence":"^\\QDe là, ils se dirigèrent vers Gourabeh, poursuivant leur chemin joyeusement et bruyamment ; on plaça des trônes d'or dans tous les palais, on s'assit au festin et l'on fut joyeux et un mois se passa ainsi pendant lequel personne ne se ceignit pour le travail.\\E$"}
+{"rule":"MILLES","sentence":"^\\QLes hennissements des chevaux arabes et les cris des éléphants s'élevèrent et le bruit s'étendit jusqu'à une distance de cinq milles.\\E$"}
