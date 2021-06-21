@@ -19,17 +19,15 @@ Son corps enflait beaucoup et s’appesantissait et son visage de rose devenait 
 
 Sindokht lui dit :
 
-> ce Ô vie de ta mère !
-
-Que t’estvil arrivé, pour que tes joues pâlissent ainsi ?
-
-A Roudabeh répondit :
-
-> et Jour et nuit tr je demande secours à Dieu, je n’ai plus de sommeil, ce je suis fanée, tu dirais que toute vivante je suis
+> Ô vie de ta mère !
 >
-> morte.
+> Que t’est-il arrivé, pour que tes joues pâlissent ainsi ?
+
+Roudabeh répondit :
+
+> Jour et nuit je demande secours à Dieu, je n’ai plus de sommeil, ce je suis fanée, tu dirais que toute vivante je suis morte.
 >
-> Le terme est arrivé, mais je ne serai jamais délivrée de ce fardeau.»
+> Le terme est arrivé, mais je ne serai jamais délivrée de ce fardeau.
 
 Roudabeh resta dans cet état jusqu’au temps des couches, ne trouvant ni sommeil ni repos ; tu aurais dit que son corps était rempli de pierres, ou qu’il contenait une masse de fer.
 
@@ -57,13 +55,15 @@ Le Simurgh lui dit :
 >
 > Pourquoi l’œil du lion est-il humide ?
 >
-> Ce cyprès argenté au beau visage te donnera un lionceau avide de gloire ; les lions baiseront la poussière de ses pieds, ce et les nuages n’oseront passer ait-dessus de sa tête. tr À sa voix se fendra la peau du léopard courageux, qui mordra ses deux griffes.
+> Ce cyprès argenté au beau visage te donnera un lionceau avide de gloire ; les lions baiseront la poussière de ses pieds et les nuages n’oseront passer au-dessus de sa tête.
 >
-> Tous les braves qui ç entendront le bruit de sa massue, qui verront sa poi, trine, ses bras et ses jambes, Sentimut, à sa voix, défaillir leur cœur, si courageux et si déterminés qu’ils soient.
+> À sa voix se fendra la peau du léopard courageux, qui mordra ses deux griffes.
 >
-> Dans le conseil il sera prudent comme ce Sam, dans la colère ce sera un lion de guerre ; par ce sa stature il sera un cyprès et par sa force un crocodile ; il lancera avec son doigt une brique à deux milles.
+> Tous les braves qui entendront le bruit de sa massue, qui verront sa poitrine, ses bras et ses jambes, sentiront, à sa voix, défaillir leur cœur, si courageux et si déterminés qu’ils soient.
 >
-> Mais d’après les ordres de Dieu le distributeur de tout bien, il ne naîtra pas de la manière tr ordinaire.
+> Dans le conseil, il sera prudent comme Sam, dans la colère, ce sera un lion de guerre ; par sa stature, il sera un cyprès et par sa force un crocodile ; il lancera avec son doigt une brique à deux milles.
+>
+> Mais d’après les ordres de Dieu le distributeur de tout bien, il ne naîtra pas de la manière ordinaire.
 >
 > Apporte ici un poignard brillant et amène un sage habile dans l’art des enchantements.
 >
@@ -73,23 +73,21 @@ Le Simurgh lui dit :
 >
 > Tu broieras une herbe, que je t’indiquerai, dans du lait et du musc et après avoir laissé sécher le tout à l’ombre, tu en frotteras la blessure et tu verras la malade guérir sur-le-champ.
 >
-> Enfin tu passeras sur
->
-> la blessure une de mes plumes et l’ombre de ma puissance montrera son influence salutaire.
+> Enfin tu passeras sur la blessure une de mes plumes et l’ombre de ma puissance montrera son influence salutaire.
 >
 > Tu dois être heureux de cet événement et en rendre grâces au maître du monde, car c’est lui qui t’a donné cet arbre royal qui fera chaque jour épanouir ta fortune.
 >
-> Ne laisse pas ton cœur s’affliger ; car cette branche, digne de porter fruit, te portera fruit.»
+> Ne laisse pas ton cœur s’affliger ; car cette branche, digne de porter fruit, te portera fruit.
 
-Il dit, arracha une plume de son aile et la lit tomber, puis d’un puissant essor s’éleva dans les airs.
+Il dit, arracha une plume de son aile et la fit tomber, puis d’un puissant essor s’éleva dans les airs.
 
-Le Simurgh partit et Zal saisissant la plume, sortit et (ô merveille!) il accomplit ce que le Simurgh lui avait ordonné.
+Le Simurgh partit et Zal saisissant la plume, sortit et (ô merveille !) il accomplit ce que le Simurgh lui avait ordonné.
 
-Le monde entier était attem tif à ce qui se passait, tous les cœurs étaient brisés, tous les yeux remplis de larmes.
+Le monde entier était attentif à ce qui se passait, tous les cœurs étaient brisés, tous les yeux remplis de larmes.
 
 Sindokht versait des larmes de sang, ne sachant pas comment l’enfant pourrait sortir du sein de la mère.
 
-Un Mobed à la main adroite arriva et enivra avec du vin la belle au visage de lune, puis il lui fendit le côté sans qu’elle le sentît et tournant la tête de l’enfant vers l’ouverture,-le fit ainsi sortir sans faire de mal à la mère ; personne dans le monde n’a vu une telle merveille, c’était un enfant comme un héros qui ressemble au lion, grand de corps et beau de visage.
+Un Mobed à la main adroite arriva et enivra avec du vin la belle au visage de lune, puis il lui fendit le côté sans qu’elle le sentît et tournant la tête de l’enfant vers l’ouverture, le fit ainsi sortir sans faire de mal à la mère ; personne dans le monde n’a vu une telle merveille, c’était un enfant comme un héros qui ressemble au lion, grand de corps et beau de visage.
 
 Hommes et femmes en restèrent étonnés, car personne n’avait entendu parler d’un tel enfant au corps d’éléphant.
 
@@ -101,9 +99,9 @@ Lorsque le cyprès se réveilla de son sommeil et adressa la parole à Sindokht,
 
 On lui apporta son enfant, qu’on exalta comme un être céleste ; il n’avait qu’un jour, mais on aurait dit qu’il avait un an ; il était comme un bouquet de lis et de tulipes.
 
-Boudabeb sourit sur cet enfant et aperçut en lui la majesté des rois des rois ; elle dit :
+Roudabeh sourit sur cet enfant et aperçut en lui la majesté des rois des rois ; elle dit :
 
-> Je suis délivrée (rustem) et mes douleurs sont finies : »
+> Je suis délivrée (rustem) et mes douleurs sont finies
 
 Et l’on donna à l’enfant le nom de Rustem.
 
@@ -111,11 +109,9 @@ Ensuite on cousit un enfant de soie et de la taille de ce lion qui n’avait pas
 
 Lorsque cette œuvre fut faite et parfaite, comme elle devait l’être, on lança un dromadaire de course et l’on versa des pièces d’argent sur les messagers qui allèrent porter à Sam le cavalier cette image de Rustem armé de sa massue.
 
-On. fit une fête dans les jardins de roses depuis le Kaboul jusqu’au Zaboulistan, tout le pays était plein de festins et du bruit des trompettes et en chaque endroit se réunissaient cent hommes qui étaient les
+On fit une fête dans les jardins de roses depuis le Kaboul jusqu’au Zaboulistan, tout le pays était plein de festins et du bruit des trompettes et en chaque endroit se réunissaient cent hommes qui étaient les ornements des assemblées.
 
-Ornements des assemblées.
-
-Sur cette bonne nouvelle, Mirab, dans le Kaboul, se réjouit et donna de l’or aux pauvres.
+Sur cette bonne nouvelle, Mihrab, dans le Kaboul, se réjouit et donna de l’or aux pauvres.
 
 Dans le Zaboulistan, d’une frontière à l’autre, le peuple, en chaque lieu, s’assit à des banquets ; les petits n’y étaient pas placés au-dessous des grands, tous étaient mêlés comme la chaîne et la trame.
 
@@ -123,7 +119,7 @@ Puis on apporta l’image de Rustem qui buvait encore du lait, à Sam le cavalie
 
 Les cheveux se dressèrent sur la tête de Sam.
 
-Cette image de soie me ressemble, dit-il ; et s’il n’est un jour qu’à moitié grand comme cette figure, il touchera de la tête aux nues et du pan de sa robe à la terre.»
+Cette image de soie me ressemble, dit-il ; et s’il n’est un jour qu’à moitié grand comme cette figure, il touchera de la tête aux nues et du pan de sa robe à la terre.
 
 Puis, il appela le messager et versa sur lui des pièces d’argent jusqu’à ce qu’elles montassent aussi haut que sa tête.
 
@@ -131,11 +127,11 @@ Le bruit des timbales s’éleva joyeusement de la cour et Sam orna la grande pl
 
 Une semaine s’étant passée ainsi, le roi donna ordre à un scribe de s’asseoir et d’écrire à la lettre de Zal une réponse belle comme un jardin du paradis.
 
-Il commença par rendre grâce à Dieu du bonheur que la rotation du monde avait amené, puis il se mit à louer Zal, le maître de l’épée et de la !
+Il commença par rendre grâce à Dieu du bonheur que la rotation du monde avait amené, puis il se mit à louer Zal, le maître de l’épée et de la massue ; il arriva ensuite à cette image de soie, qui avait les bras d’un héros et la majesté d’un roi et ordonna à Zal d’avoir soin de l’enfant de telle sorte que pas un souffle ne pût l’atteindre :
 
-Massue ; il arriva ensuite à cette image de soie, qui avait les bras d’un héros et la majesté d’un roi et ordonna à Zal d’avoir soin de l’enfant de telle sorte que pas un souffle ne pût l’atteindre : J’ai invoqué en sacret et jour et nuit le créateur du monde pour que mon œil vît un jour un fils de ta race qui me ressemblât.
-
-Maintenant mon des et le tien seront redressés, il nous reste qu’à prier pour sa vie. »
+> J’ai invoqué en sacret et jour et nuit le créateur du monde pour que mon œil vît un jour un fils de ta race qui me ressemblât.
+>
+> Maintenant mon dos et le tien seront redressés, il nous reste qu’à prier pour sa vie.
 
 Le messager partit comme un vent rapide et se rendit auprès de Zal, content et le cœur joyeux.
 
@@ -147,8 +143,8 @@ Ainsi passèrent les rotations du ciel et le sort de Zal si longtemps obscur, s�
 
 Dix nourrices donnèrent du lait à Rustem, car le lait fait la force et la substance de l’homme.
 
-Lorqu’il fut sevré et qu’il commença à manger, sa nourriture se composa de pain et de viande ; il mangeait autant que cinq hommes et l’on se lassait à le nourrir.
+Lorsqu’il fut sevré et qu’il commença à manger, sa nourriture se composa de pain et de viande ; il mangeait autant que cinq hommes et l’on se lassait à le nourrir.
 
 Lorsqu’il eut atteint la hauteur de huit palmes et qu’il fut devenu semblable à un noble cyprès, on l’eût pris pour une étoile qui brille et que le monde contemple avec admiration.
 
-A voir sa stature et son intelligence, sa mine et sa sagesse, tu aurais dit que c’était Sam le héros.
+À voir sa stature et son intelligence, sa mine et sa sagesse, tu aurais dit que c’était Sam le héros.
