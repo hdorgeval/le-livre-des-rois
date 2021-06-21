@@ -21,27 +21,27 @@ Zal, aussitôt qu’il fut libre, baisa la terre devant son père et lui raconta
 
 Sam s’assit avec Zal au cœur joyeux et plein de contentement, sur le trône resplendissant, puis il lui conta, en tâchant de cacher son sourire, ce que Sindokht avait fait.
 
-Il me vint, dit-il, après ton départ, un message de Kaboul, dont le porteur était une femme, nommée Sindokht.
+> Il me vint, dit-il, après ton départ, un message de Kaboul, dont le porteur était une femme, nommée Sindokht.
+>
+> Elle exigea de moi la promesse, que je donnai sur-le-champ, de ne jamais agir hostilement à son égard.
+>
+> Je répondis sincèrement à toutes ses demandes, qu’elle me fit avec douceur.
+>
+> D’abord elle demanda que le roi du Zaboulistan devînt le mari de la lune du Kaboul, puis que nous allassions la visiter en qualité d’hôtes, pour la guérir entièrement de ses douleurs.
+>
+> Il m’arrive maintenant un messager de sa part, qui m’annonce que tout est préparé et plein de beauté et de parfum.
+>
+> Que faut-il répondre à ce messager ?
+>
+> Que faut-il faire dire au noble Mihrab ?
 
-Elle exigea de moi la promesse, que je donnai sur-le-champ, de ne jamais agir hostilement à son égard.
-
-Je répondis sincèrement à toutes ses demandes, qu’elle me fit avec douceur.
-
-D’abord elle demanda que le roi du Zaboulistan devînt le mari de la lune du Kaboul, puis que nous allassions la visiter en qualité d’hôtes, pour la guérir entièrement de ses douleurs.
-
-Il m’arrive maintenant un messager de sa part, qui m’annonce que tout est préparé et plein de beauté et de parfum.
-
-Que faut-il répondre à ce messager ?
-
-Que faut-il faire dire au noble Mihrab?»
-
-Zal, fils de Sam, fut si ravi, que de la tête aux pieds il devint couleur de rubis.
+Zal, fils de Sam, fut si ravi, que de la tête aux pieds, il devint couleur de rubis.
 
 Il répondit :
 
 > Ô Pehlewan !
 >
-> Si ton âme brillante y consent, devançons ensemble l’armée, pour pouvoir nous parler et nous entendre là-dessus.»
+> Si ton âme brillante y consent, devançons ensemble l’armée, pour pouvoir nous parler et nous entendre là-dessus.
 
 Sam regarda son fils et sourit ; il savait bien quel était le désir de son âme, car Zal ne parlait que de la fille de Mihrab et ne trouvait point de sommeil dans les nuits sombres.
 
@@ -53,18 +53,15 @@ Le messager arriva en peu de temps auprès de Mihrab et lui rapporta ce qu’il 
 
 Mihrab l’écouta avec joie et sa joue devint rouge comme la tulipe pourprée.
 
-Il fit sonner a3
-
-2
-les trompettes d’airain et lier les timbales sur le dos des éléphants, il orna son armée comme l’œil du coq, il la fit précéder d’éléphants de guerre et de musiciens et le pays devint un paradis d’une frontière à l’autre, tant il y avait d’étendards de soie de toute couleur, rouges, verts, jaunes et violets ; et tel était le bruit des trompettes et des harpes, des clairons et des tambourins, que tu aurais dit :
+Il fit sonner les trompettes d’airain et lier les timbales sur le dos des éléphants, il orna son armée comme l’œil du coq, il la fit précéder d’éléphants de guerre et de musiciens et le pays devint un paradis d’une frontière à l’autre, tant il y avait d’étendards de soie de toute couleur, rouges, verts, jaunes et violets ; et tel était le bruit des trompettes et des harpes, des clairons et des tambourins, que tu aurais dit :
 
 > Est-ce le jour suprême ?
+>
+> Est-ce le jour de la résurrection, ou un jour de fête ?
 
-Est-ce le jour de la résurrection, ou un tr jour de fête ?
+Mihrab s’avança ainsi jusqu’à ce qu’il vît Sam ; il descendit alors de cheval et courut vers lui à pied et le Pehlewan du monde le prit dans ses bras et lui demanda comment le sort l’avait traité.
 
-V Mihrab s’avança ainsi jusqu’à ce qu’il vît Sam ; il descendit alors de cheval et courut vers lui à pied et le Pehlewan du monde le prit dansses bras et lui demanda comment le sort l’avait traité.
-
-Le roi de Kaboul rendit ses hommages tant à Sam qu’à Zal, puis il remonta sur son cheval rapide, semblable à la nouvelle lune qui brille tau-dessus d’une montagne.
+Le roi de Kaboul rendit ses hommages tant à Sam qu’à Zal, puis il remonta sur son cheval rapide, semblable à la nouvelle lune qui brille au-dessus d’une montagne.
 
 Il posa sur la tête de Zal une couronne d’or ornée de joyaux et tous arrivèrent à Kaboul riants et joyeux et parlant d’anciennes aventures.
 
@@ -78,15 +75,15 @@ Toutes appelèrent les grâces de Dieu sur Sam et versèrent de leurs coupes des
 
 Sam dit en souriant à Sindokht :
 
-> Combien de temps prétends-tu cacher Reudabeh?»
+> Combien de temps prétends-tu cacher Roudabeh ?
 
 Sindokht lui répondit :
 
-> n Que me donnes-tu si tu veux voir le soleil?»
+> Que me donnes-tu si tu veux voir le soleil ?
 
 Sam répliqua à Sindokht :
 
-> Demande-moi tout ce que tu désires ; mes esclaves et mon trône, ma counronne et ma ceinture, tout ce que j’ai est à vous.»
+> Demande-moi tout ce que tu désires ; mes esclaves et mon trône, ma couronne et ma ceinture, tout ce que j’ai est à vous.
 
 Ils arrivèrent au palais doré dont l’intérieur était un gai printemps et Sam y vit la belle au visage de lune et fut saisi d’étonnement à son aspect.
 
@@ -94,7 +91,7 @@ Il ne sut comment la louer, il ne sut comment jeter les yeux sur elle.
 
 Il ordonna à Mihrab d’approcher et ils conclurent une alliance selon les règles et la loi.
 
-On lit asseoir les deux heureux sur le même trône ; on versa sur aux des rubis et des émeraudes.
+On fit asseoir les deux heureux sur le même trône ; on versa sur eux des rubis et des émeraudes.
 
 La tête de la lune était couverte d’un beau diadème, la tête du roi d’une couronne ornée de joyaux.
 
@@ -106,9 +103,7 @@ Sam voyant cela, en resta étonné et bénit ces dons au nom de Dieu.
 
 Puis ils se rendirent dans la salle du banquet et restèrent sept jours les coupes à la main.
 
-Toute la ville était remplie du a3.
-
-: ’ bruit des buveurs ; le palais du roi était comme un paradis en délire.
+Toute la ville était remplie du bruit des buveurs ; le palais du roi était comme un paradis en délire.
 
 Zal et la lune aux lèvres de corail ne dormirent ni jour ni nuit, pendant une semaine ; puis ils revinrent de la grande salle à leur palais et se livrèrent pendant trois semaines à leur joie ; et les grands du royaume, ornés de bracelets, formèrent des rangs devant le haut palais.
 
@@ -116,9 +111,9 @@ Un mois après, Sam, fils de Neriman, partit et se hâta de retourner dans le Se
 
 Après son départ Zal fit joyeusement, pendant sept jours, ses préparatifs de voyage.
 
-Il fit apprêter des litières], des chevaux de main, des haoudahs et un lit pour y placer Roudabeh.
+Il fit apprêter des litières, des chevaux de main, des haoudahs et un lit pour y placer Roudabeh.
 
-Sindokht, Mihrab et toute leur famille prirent la route du Seïstan,’et voyagèrent gaiement et en grande joie, la bouche pleine d’actions de grâces envers Dieu le distributeur de tout bonheur.
+Sindokht, Mihrab et toute leur famille prirent la route du Seïstan et voyagèrent gaiement et en grande joie, la bouche pleine d’actions de grâces envers Dieu le distributeur de tout bonheur.
 
 Ils arrivèrent comme en triomphe dans le Seïstan, heureux, riants et illuminant le monde.
 
@@ -126,15 +121,19 @@ Alors Sam prépara une fête et le banquet dura trois jours.
 
 Puis Sindokht resta dans le pays et Mihrab, avec son escorte, retourna à Kaboul.
 
-Sam abandonna son
-1 Je traduis par litière à défaut d’autre mot, car le ’amari, ainsi que le haoudah, est un siège placé sur le dos d’un seul chameau ou d’un seul éléphant et non pas suspendu entre deux animaux, comme une litière.
+Sam abandonna son royaume à Zal et partit avec son armée sous des auspices favorables ; il déploya son drapeau fortuné contre les Kerguesars et contre les pays de l’occident, disant :
 
-Les dictionnaires persans ne font aucune distinction entre ces deux mots, mais il paraît que dans l’Inde ’amari signifie un siège couvert d’un dais et haoudah, un siège couvert. royaume à Zal et partit avec son armée sous des auspices favorables ; il déploya son drapeau fortuné contre les Kerguesars et contre les pays de l’occident, disant :
-
-> a J’y vais, car ce royaume est à moi ; mais le peuple ne m’est pas dévoué du cœur et des yeux.
+> J’y vais, car ce royaume est à moi ; mais le peuple ne m’est pas dévoué du cœur et des yeux.
 >
-> Minoutchehr m’a investi de ce pays, en disant ; Prends et jOuisl Mais je crains les entreprises de cette mauvaise race qui met son espoir dans les Divs du Mazenderan.
+> Minoutchehr m’a investi de ce pays, en disant :
+
+> >
+> > Prends et jouis !
+>
+> Mais je crains les entreprises de cette mauvaise race qui met son espoir dans les Divs du Mazenderan.
 >
 > Ô Zal !
 >
-> Je te donne ce trône et ce royaume et ce noble diadèmesn Sam, qui tuait d’un seul coup, partit et Zal s’assit sur le trône, ordonna avec son épouse fortunée des assemblées et des banquets ; et Roudabeh étant assise à côté de lui, il posa sur sa tête une couronne d’or.
+> Je te donne ce trône et ce royaume et ce noble diadème.
+
+Sam, qui tuait d’un seul coup, partit et Zal s’assit sur le trône, ordonna avec son épouse fortunée des assemblées et des banquets ; et Roudabeh étant assise à côté de lui, il posa sur sa tête une couronne d’or.
