@@ -83,6 +83,15 @@ export const Tags: React.FC = () => {
     [setTags, allTags],
   );
 
+  const onKeyPress: React.KeyboardEventHandler<HTMLInputElement> = React.useCallback(
+    (event) => {
+      if (event.key === 'Enter' && inputSearchRef && inputSearchRef.current) {
+        inputSearchRef.current.blur();
+      }
+    },
+    [inputSearchRef],
+  );
+
   const resetSearch = React.useCallback(() => {
     setIsSearching(false);
     if (inputSearchRef && inputSearchRef.current) {
@@ -105,6 +114,7 @@ export const Tags: React.FC = () => {
           aria-label="Recherchez un mot dans le lexique"
           aria-describedby="search-input"
           onChange={onSearch}
+          onKeyPress={onKeyPress}
         />
         {isSearching && (
           <button
