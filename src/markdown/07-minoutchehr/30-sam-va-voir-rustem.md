@@ -5,7 +5,26 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 282
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'cyprès',
+    'Destan',
+    'Dieu',
+    'Gourabeh',
+    'Kaboul',
+    'Mihr',
+    'Mihrab',
+    'Pehlewan',
+    'Rustem',
+    'Sam',
+    'Schebdiz',
+    'Seïstan',
+    'Simurgh',
+    'Sipehbed',
+    'Zaboulistan',
+    'Zal',
+    'Zohak',
+  ]
 order: '030'
 ---
 
