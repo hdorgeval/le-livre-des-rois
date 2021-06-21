@@ -5,7 +5,27 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 270
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'Dieu',
+    'Divs',
+    'haoudahs',
+    'Kaboul',
+    'Kerguesars',
+    'Mazenderan',
+    'Mihrab',
+    'Minoutchehr',
+    'Neriman',
+    'Pehlewan',
+    'Roudabeh',
+    'résurrection',
+    'Sam',
+    'Seïstan',
+    'Sindokht',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '028'
 ---
 
@@ -126,8 +146,7 @@ Sam abandonna son royaume à Zal et partit avec son armée sous des auspices fav
 > J’y vais, car ce royaume est à moi ; mais le peuple ne m’est pas dévoué du cœur et des yeux.
 >
 > Minoutchehr m’a investi de ce pays, en disant :
-
-> >
+>
 > > Prends et jouis !
 >
 > Mais je crains les entreprises de cette mauvaise race qui met son espoir dans les Divs du Mazenderan.
