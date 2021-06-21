@@ -289,6 +289,8 @@ export function correctWrongTypoFromOcr(content: string): string {
 
     (content: string) => content.replace(/Zobak/g, 'Zohak'),
     (content: string) => content.replace(/Roudaheh/g, 'Roudabeh'),
+    (content: string) => content.replace(/en lit /g, 'en fit '),
+    (content: string) => content.replace(/On lit /g, 'On fit '),
     (content: string) => content.replace(/ grille /g, ' griffe '),
     (content: string) => content.replace(/allligé/g, 'affligé'),
     (content: string) => content.replace(/comhat/g, 'combat'),
@@ -303,7 +305,9 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Ll /g, 'Il '),
     (content: string) => content.replace(/ v /g, ' '),
     (content: string) => content.replace(/ honheur/g, ' bonheur'),
-    (content: string) => content.replace(/;n puis/g, '.» Puis'),
+    (content: string) => content.replace(/ honheur/g, ' bonheur'),
+    (content: string) => content.replace(/sur aux /g, 'sur eux '),
+    (content: string) => content.replace(/ la lit /g, ' la fit '),
   ].forEach((format) => {
     result = format(result);
   });
