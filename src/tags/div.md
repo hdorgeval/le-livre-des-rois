@@ -3,7 +3,7 @@ date: ''
 thumbnail: 'https://source.unsplash.com/K2s_YE031CA'
 image: '7BhTfoKsheQ.jpeg'
 source: Bibliothèque orientale P. 19, Zendavesta tome 3 P. 16 Anquetil du Perron
-tags: [Div, Dew]
+tags: [Div, Dew, Divs, Dews]
 order: '01'
 ---
 
