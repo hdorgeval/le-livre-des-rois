@@ -5,7 +5,24 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 275
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'cyprès',
+    'Dieu',
+    'Kaboul',
+    'Mazenderan',
+    'Mihrab',
+    'Mobed',
+    'Roudabeh',
+    'Rustem',
+    'Sam',
+    'Segsars',
+    'Simurgh',
+    'Sindokht',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '029'
 ---
 
