@@ -5,7 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 291
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags: ['Badakhschan', 'Dieu', 'Pehlewan', 'Pléiades', 'Rustem', 'Sipend', 'Tehemten']
 order: '032'
 ---
 
