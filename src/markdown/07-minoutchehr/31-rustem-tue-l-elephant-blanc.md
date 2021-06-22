@@ -97,7 +97,7 @@ Il fit venir Rustem devant lui, lui baisa les mains, les bras et la tête et lui
 
 Rustem répondit :
 
-> J’obeirai et je guérirai bientôt cette douleur.
+> J’obéirai et je guérirai bientôt cette douleur.
 
 Zal lui dit :
 
