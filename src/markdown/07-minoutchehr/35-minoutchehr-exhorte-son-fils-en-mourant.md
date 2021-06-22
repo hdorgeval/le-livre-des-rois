@@ -5,7 +5,25 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 298
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Dieu',
+    'Feridoun',
+    'Iran',
+    'Iredj',
+    'Keïanide',
+    'Minoutchehr',
+    'Mobed',
+    'Mobeds',
+    'Newder',
+    'Pescheng',
+    'Sam',
+    'Selm',
+    'Tour',
+    'Touran',
+    'Turcs',
+    'Zal',
+  ]
 order: '035'
 ---
 
