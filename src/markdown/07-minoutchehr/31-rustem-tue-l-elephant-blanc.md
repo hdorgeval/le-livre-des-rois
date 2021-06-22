@@ -5,7 +5,19 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 286
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'Bisoutoun',
+    'Dieu',
+    'Feridoun',
+    'Neriman',
+    'Pehlewan',
+    'Rustem',
+    'Sam',
+    'Sipend',
+    'Tehemten',
+    'Zal',
+  ]
 order: '031'
 ---
 
