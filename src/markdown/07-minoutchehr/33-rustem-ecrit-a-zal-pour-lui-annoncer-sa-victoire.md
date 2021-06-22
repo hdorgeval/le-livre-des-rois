@@ -5,7 +5,25 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 294
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
-tags: []
+tags:
+  [
+    'âme',
+    'Chine',
+    'Dieu',
+    'Iraniens',
+    'Kaweh',
+    'Mars',
+    'Neriman',
+    'Nimrouz',
+    'Pehlewan',
+    'Roudabeh',
+    'Rustem',
+    'Sam',
+    'Sipehdar',
+    'Sipend',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '033'
 ---
 
