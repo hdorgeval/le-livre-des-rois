@@ -21,13 +21,13 @@ Ils lui dirent :
 
 > Le temps est venu où il faut aller dans l’autre monde ; espérons que tu auras devant Dieu une place meilleure.
 >
-> Pense maintenant à ce que tu auras à faire, car il ne faut pas que la mort te surprenne, il ne faut pas que tu partes sans avoir fait les préparatifs du voyage et que tu te laisses ainsi ensevelir dans la terre.»
+> Pense maintenant à ce que tu auras à faire, car il ne faut pas que la mort te surprenne, il ne faut pas que tu partes sans avoir fait les préparatifs du voyage et que tu te laisses ainsi ensevelir dans la terre.
 
 Le roi ayant entendu les paroles des sages, fit préparer le palais d’une manière nouvelle.
 
 Il appela devant lui tous les Mobeds et tous les grands et leur dévoila les secrets de son cœur.
 
-Il ordonna que Newder vînt auprès de lui et lui donna des conseils’sans nombre, disant :
+Il ordonna que Newder vînt auprès de lui et lui donna des conseils sans nombre, disant :
 
 > Ce trône de la royauté est un vent et une illusion, il ne faut pas y mettre son cœur pour toujours.
 >
@@ -45,9 +45,7 @@ Il ordonna que Newder vînt auprès de lui et lui donna des conseils’sans nomb
 >
 > Garde-toi de t’éloigner de la foi de Dieu, car elle inspire les bons conseils.
 >
-> Bientôt il y aura dans le monde de nouvelles discussions, quand paraîtra un
->
-> Mobedl avec une mission de prophète ; il viendra du pays d’occident ; prends garde de le persécuter.
+> Bientôt, il y aura dans le monde de nouvelles discussions, quand paraîtra un Mobed avec une mission de prophète ; il viendra du pays d’occident ; prends garde de le persécuter.
 >
 > Crois en lui : car c’est là la religion de Dieu ; considère quels sont les engagements que tu auras contractés d’abord.
 >
@@ -55,7 +53,7 @@ Il ordonna que Newder vînt auprès de lui et lui donna des conseils’sans nomb
 >
 > Après ce temps arrivera une armée de Turcs qui placeront leur couronne sur le trône d’Iran.
 >
-> Tu as devant toi de longs travaux à exécuter ; il ’te faudra être tantôt loup, tantôt brebis.
+> Tu as devant toi de longs travaux à exécuter ; il te faudra être tantôt loup, tantôt brebis.
 >
 > Ton malheur viendra du fils de Pescheng, ce sera du Touran que viendront les afflictions qui te mettront à l’étroit.
 >
@@ -63,17 +61,10 @@ Il ordonna que Newder vînt auprès de lui et lui donna des conseils’sans nomb
 >
 > Quand il y aura une guerre, recherche l’aide de Zal et de Sam et de ce nouveau rejeton qui est sorti de Zal et qui pousse des branches.
 >
-> Par lui le pays de Touran sera rendu impuissant ; et quand il faudra te venger, c’est lui qui sera ton vengeur.»
+> Par lui le pays de Touran sera rendu impuissant ; et quand il faudra te venger, c’est lui qui sera ton vengeur.
 
 Il parla ainsi, les larmes inondèrent ses joues et Newder pleura sur lui avec amertume.
 
-Quoiqu’il n’eût pas de maladie et qu’aucune douleur
-1 La leçon Mobed est prise d’un manuscrit de la bibliothèque Bodléienne, copié par un l’ami ; la plupart des manuscrits écrits par des musulmans portent Mausa, ce qui me paraît une falsification l’aile dans un esprit de secte.
-
-Les Parsis. de leur côté, ont interpolé dans ce passage une longue suite de vers qui contiennent une prophélie sur Mohammed.
-
-On trouvera dans l’Appendice ce morceau tiré d’un manuscrit de la bibliothèque de la Compagnie des Indes. !
-
-Ne l’affligeât, Minoutchehr ferma ses deux yeux de Keïanide, faiblit et poussa un soupir froid.
+Quoiqu’il n’eût pas de maladie et qu’aucune douleur ne l’affligeât, Minoutchehr ferma ses deux yeux de Keïanide, faiblit et poussa un soupir froid.
 
 Ainsi mourut ce roi illustre et plein de vertus et il ne resta d’autre souvenir de lui dans le monde que les discours des hommes.
