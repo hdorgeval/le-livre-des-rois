@@ -8,6 +8,7 @@ reign-slug: 'regne-de-newder'
 tags:
   [
     'âme',
+    'âmes',
     'Dieu',
     'Feridoun',
     'Houscheng',
