@@ -27,9 +27,11 @@ Il alla et observa toute l’armée, il regarda la tente du roi Newder, puis il 
 >
 > Ils seront vaincus par moi, ils reconnaîtront qu’il n’y a que moi de brave dans le monde.»
 
-Le prudent Aghrirez dit : S’il arrivait dans cette entreprise un malheur à Barman, le cœur des gardiens des frontières en serait brisé et l’armée ne pourrait plus agir.
+Le prudent Aghrirez dit :
 
-Il faudrait choisir pour cette entreprise un homme inconnu, afin que nous n’ayons pas à nous mordre les doigts et les lèvres.»
+> S’il arrivait dans cette entreprise un malheur à Barman, le cœur des gardiens des frontières en serait brisé et l’armée ne pourrait plus agir.
+>
+> Il faudrait choisir pour cette entreprise un homme inconnu, afin que nous n’ayons pas à nous mordre les doigts et les lèvres.»
 
 Les traits du fils de Pescheng se contractèrent de colère, il eut honte des paroles d’Aghrirez et dit à’Barman en jetant sur lui un regard farouche :
 
@@ -113,7 +115,7 @@ Le roi le vit et versa des larmes de ses paupières fatiguées qui n’avaient p
 
 Il lui dit :
 
-> A la mort de Sam le brave, je n’ai pas senti dans mon cœur une tristesse pareille.
+> À la mort de Sam le brave, je n’ai pas senti dans mon cœur une tristesse pareille.
 >
 > Puisse l’âme de Kobad être brillante comme le soleil !
 >
