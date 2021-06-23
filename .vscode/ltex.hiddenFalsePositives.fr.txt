@@ -130,3 +130,4 @@
 {"rule":"MILLES","sentence":"^\\QDans le conseil, il sera prudent comme Sam, dans la colère, ce sera un lion de guerre ; par sa stature, il sera un cyprès et par sa force un crocodile ; il lancera avec son doigt une brique à deux milles.\\E$"}
 {"rule":"D_N","sentence":"^\\QDe là, ils se dirigèrent vers Gourabeh, poursuivant leur chemin joyeusement et bruyamment ; on plaça des trônes d'or dans tous les palais, on s'assit au festin et l'on fut joyeux et un mois se passa ainsi pendant lequel personne ne se ceignit pour le travail.\\E$"}
 {"rule":"MILLES","sentence":"^\\QLes hennissements des chevaux arabes et les cris des éléphants s'élevèrent et le bruit s'étendit jusqu'à une distance de cinq milles.\\E$"}
+{"rule":"VOIE_VOIX","sentence":"^\\QLe monde est devenu désert par ses actions et la fortune, qui avait veillé pour lui, s'est endormie ; il n'est pas dans la voie de la sagesse et la grâce de Dieu l'a abandonné.\\E$"}
