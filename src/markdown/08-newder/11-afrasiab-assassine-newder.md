@@ -49,7 +49,7 @@ Que peux-tu attendre de cette terre basse et obscure, qui le renverra triste et 
 
 Ensuite on amena avec mépris les autres prisonniers, qui tous demandèrent grâce pour leur vie.
 
-Le vertueux Aghrirez en eut nouvelle et le cœur lui battit dans la poitrine ; il accourut, poussant des cris, demandant grâce pour eux et faisant des reproches au roi : (les hommes sont de nobles guerrrriers, des cavaliers qui n’ont ni casque ni cuirasse et ne sont pas sur le champ de bataille.
+Le vertueux Aghrirez en eut nouvelle et le cœur lui battit dans la poitrine ; il accourut, poussant des cris, demandant grâce pour eux et faisant des reproches au roi : des hommes sont de nobles guerrrriers, des cavaliers qui n’ont ni casque ni cuirasse et ne sont pas sur le champ de bataille.
 
 Tuer des prisonniers est une chose contraire à l’honneur ; c’est rabaisser ta dignité que tu devrais respecter.
 
