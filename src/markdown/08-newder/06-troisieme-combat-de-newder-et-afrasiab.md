@@ -64,7 +64,9 @@ Newder lui répondit :
 >
 > Kustehem et Thous sont et partis pour protéger nos familles, au moment’même où les timbales commençaient à résonner.
 >
-> Ils se rendront sans délai auprès de nos femmes et les défendront comme c’est leur devoirm Pendant ce temps entrèrent dans l’appartement particulier du roi les héros et les grands portant haut la tête.
+> Ils se rendront sans délai auprès de nos femmes et les défendront comme c’est leur devoir.»
+
+Pendant ce temps entrèrent dans l’appartement particulier du roi les héros et les grands portant haut la tête.
 >
 > Ils s’assirent à table et demandèrent du vin et délivrèrent pour un temps leurs âmes de leurs soucis.
 >
@@ -74,7 +76,9 @@ Newder lui répondit :
 >
 > i l’Iran, les héros courageux, sortirent du palais du roi en désordre ; ils se rendirent au palais de Karen les yeux en pleura comme un nuage de printemps.
 >
-> Ils concertèrent des plans de toute espèce et se dirent tous d’un commun accord : Il faut que nous partions pourtle pays de Fars, il faut que pas un de nous ne fasse défaut ; car quand les femmes voilées des guerriers de l’Iran seront prisonnières de nos ennemis, quand nos femmes et nos enfants seront esclaves des Turcs, quand leurs cœurs seront percés de flèches, sans que personne ait combattu pour leur défense, qui de nous voudrait prendre en main une lance sur cette plaine ?
+> Ils concertèrent des plans de toute espèce et se dirent tous d’un commun accord :
+
+> Il faut que nous partions pourtle pays de Fars, il faut que pas un de nous ne fasse défaut ; car quand les femmes voilées des guerriers de l’Iran seront prisonnières de nos ennemis, quand nos femmes et nos enfants seront esclaves des Turcs, quand leurs cœurs seront percés de flèches, sans que personne ait combattu pour leur défense, qui de nous voudrait prendre en main une lance sur cette plaine ?
 >
 > Qui pourrait avoir du repos et une place pour s’asseoir?»
 
@@ -82,7 +86,7 @@ Schidousch, Keschwad et Karen ayant délibéré à fond sur cette affaire et la 
 
 Le soir ils arrivèrent le cœur découragé à un endroit que l’on appelle le Château-Blanc : d’un côté était Guezdchem le châtelain avec des braves infatigables ; de l’autre côté du château se trouvait Barman avec son armée, campé sur la route avec des éléphants et des troupes.
 
-Karen avait été blessé au cœur par ce dernier et il désirait venger sur lui le sang de son frère.
+Karen avait été blessé au cœur pur ce dernier et il désirait venger sur lui le sang de son frère.
 
 Il revêtit son armure, ordonna convenablement ce qui concernait son armée et suivi de ses braves il se dirigea droit -du côté du pays de Fers.
 
