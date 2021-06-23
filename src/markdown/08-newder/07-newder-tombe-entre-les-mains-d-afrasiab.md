@@ -22,11 +22,11 @@ Lorsqu’il fut arrivé près du roi, il vit que celui-ci, malgré la vitesse de
 Pendant toute la nuit et jUS-
 3’ qu’à ce que le soleil fût dans sa force, Afrasiab se tint près de Newder et le monde fut obscurci par la poussière que les braves soulevèrent.
 
-À la fin Newder fut atteint, lui et douze cents cavaliers renommés. tu aurais dit qu’ils ne pouvaient trouver un lieu (In refuge sur la terre.
+À la fin Newder fut atteint, lui et douze cents cavaliers renommés tu aurais dit qu’ils ne pouvaient trouver un lieu (In refuge sur la terre.
 
 Ils tentèrent beaucoup de chemins pour s’enfuir. mais ils tombèrent dans les lacets de l’infortune, etAfrasiab jeta ainsi dans les chaînes une armée prisonnière avec ce roi naguèresi puissant.
 
-Quand même le ciel s’associerait à toi en secret, tu ne trouverais pourtant pas le moyen de sortir de la sphère de sa rotation ; tantôt il te donne des couronnes, des trônes et du pouvoir ; tantôt il t’assigne l’obscurité et le malheur ; il ressemble tantôt à un ennemi, tantôt à un ami et te donne tantôt le noyau. tantôt l’écorce ; car le monde est un joueur subtil et qui change son jeu à chaque instant ; et quand même ta tête toucherait aux noirs nuages, à la lin le sort ne t’accordera pour demeure que la poussière.
+Quand même le ciel s’associerait à toi en secret, tu ne trouverais pourtant pas le moyen de sortir de la sphère de sa rotation ; tantôt il te donne des couronnes, des trônes et du pouvoir ; tantôt il t’assigne l’obscurité et le malheur ; il ressemble tantôt à un ennemi, tantôt à un ami et te donne tantôt le noyau. tantôt l’écorce ; car le monde est un joueur subtil et qui change son jeu à chaque instant ; et quand même ta tête toucherait aux noirs nuages, à la fin le sort ne t’accordera pour demeure que la poussière.
 
 Après cela Afrasiab donna ordre de garder les défilés et les montagnes, les déserts et les rivières. pour que Karen le guerrier ne pût échapper à l’armée de Touran ; mais lorsqu’il apprit que Karen les avait déjà franchis, il fut confondu de ce qui s’était passé dans l’appartement du roi.
 
@@ -40,4 +40,4 @@ Afrasiab en devint soucieux ; la faim, le repos et le sommeil l’abandonnèrent
 
 Quand Karen, fils de Kaweh, va au combat, le tigre hésite devant sa lance.
 
-Il faut r que tu partes avec une armée bien préparée et pleine de courage pour venger ton fils. 7)
+Il faut que tu partes avec une armée bien préparée et pleine de courage pour venger ton fils. 7)
