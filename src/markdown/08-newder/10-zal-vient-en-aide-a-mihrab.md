@@ -33,7 +33,9 @@ Il jeta avec colère une arbalète sur son bras, prit une flèche semblable à u
 
 Quand le jour eut paru, l’armée s’assembla et tous regardèrent ces flèches en (lisant : Voilà des flèches de Zal, nul autre n’en met de pareilles sur son arc.»
 
-Schemasas dit : Ô Khazarwan au cœur de lion !
+Schemasas dit :
+
+> Ô Khazarwan au cœur de lion !
 
 Jamais tu n’as entrepris un combat aussi étourdiment.
 
