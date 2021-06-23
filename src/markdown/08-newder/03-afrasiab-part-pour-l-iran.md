@@ -5,7 +5,27 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 311
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Chine',
+    'Dehistan',
+    'Djihoun',
+    'Feridoun',
+    'Iran',
+    'Karen',
+    'Khazarwan',
+    'Neriman',
+    'Newder',
+    'Nimrouz',
+    'Pescheng',
+    'Sam',
+    'Schemasas',
+    'Touran',
+    'Turcs',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '003'
 ---
 
