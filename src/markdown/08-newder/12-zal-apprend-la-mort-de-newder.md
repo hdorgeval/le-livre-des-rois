@@ -54,13 +54,15 @@ Pendant que les preux se hâtaient de se préparer à la vengeance, le bruit cou
 
 Ils en perdirent la faim, le repos et le sommeil ; ils furent effrayés à cause d’Afrasiab.
 
-Puis ils envoyèrent un message à Aghrirez pour lui dire : Ô toi qui es plein de volonté, de pouvoir et de gloire, nous sommes tous tes esclaves, nous ne vivons que grâce à ton intervention ; tu sais que Zal le maître du Zaboulistan et le roi de Kaboul sont prêts à combattre.
+Puis ils envoyèrent un message à Aghrirez pour lui dire :
 
-Berzin et Karen le guerrier, Kherrad et Keschwad le destructeur des armées, sont des héros dont la main est longue et ne lâchera pas l’Iran.
-
-Quand les braves tourneront en toute hâte leurs rênes de ce côté, quand ils montreront les pointes de leurs lances, le puissant Afrasiab en sera exaspéré, son cœur sera impatient de se venger de nous et pour sauver son diadème, il fera rouler dans la poussière les tètes d’une foule innocente.
-
-S’il plaisait au sage Aghrirez de délivrer ses prisonniers tous ensemble, nous nous disperserions pour faire le tour du monde, pour parler de lui devant les rois, réciter ses louanges devant les grands et prier Dieu pour lui.»
+> Ô toi qui es plein de volonté, de pouvoir et de gloire, nous sommes tous tes esclaves, nous ne vivons que grâce à ton intervention ; tu sais que Zal le maître du Zaboulistan et le roi de Kaboul sont prêts à combattre.
+>
+> Berzin et Karen le guerrier, Kherrad et Keschwad le destructeur des armées, sont des héros dont la main est longue et ne lâchera pas l’Iran.
+>
+> Quand les braves tourneront en toute hâte leurs rênes de ce côté, quand ils montreront les pointes de leurs lances, le puissant Afrasiab en sera exaspéré, son cœur sera impatient de se venger de nous et pour sauver son diadème, il fera rouler dans la poussière les tètes d’une foule innocente.
+>
+> S’il plaisait au sage Aghrirez de délivrer ses prisonniers tous ensemble, nous nous disperserions pour faire le tour du monde, pour parler de lui devant les rois, réciter ses louanges devant les grands et prier Dieu pour lui.»
 
 Le prudent Aghrirez leur répondit :
 
