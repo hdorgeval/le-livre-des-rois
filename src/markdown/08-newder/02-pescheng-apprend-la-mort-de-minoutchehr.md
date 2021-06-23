@@ -5,7 +5,38 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 307
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Aghrir',
+    'Aghrirez',
+    'âmes',
+    'Amol',
+    'Barman',
+    'cyprès',
+    'Dehistan',
+    'Gourgan',
+    'Guerschasp',
+    'Guersiwez',
+    'Iran',
+    'Iraniens',
+    'Karen',
+    'Kelbad',
+    'Keschwad',
+    'Minoutchehr',
+    'Neriman',
+    'Newder',
+    'Pehlewan',
+    'Pescheng',
+    'Sam',
+    'Selm',
+    'Sipehbed',
+    'Tour',
+    'Touran',
+    'Turcs',
+    'Wiseh',
+    'Zadschem',
+  ]
 order: '002'
 ---
 
