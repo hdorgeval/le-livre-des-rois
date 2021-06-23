@@ -5,7 +5,27 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 302
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
-tags: ["âme", "Dieu", "Feridoun", "Houscheng", "Iran", "Kerguesars", "Keïanides", "Mars", "Mazenderan", "Minoutchehr", "Mobeds", "Neriman", "Newder", "Pehlewan", "Sam", "Saturne", "Segsars", "tribut"]
+tags:
+  [
+    'âme',
+    'Dieu',
+    'Feridoun',
+    'Houscheng',
+    'Iran',
+    'Kerguesars',
+    'Keïanides',
+    'Mars',
+    'Mazenderan',
+    'Minoutchehr',
+    'Mobeds',
+    'Neriman',
+    'Newder',
+    'Pehlewan',
+    'Sam',
+    'Saturne',
+    'Segsars',
+    'tribut',
+  ]
 order: '001'
 ---
 
