@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 092
 reign: 'Balasch fils de Pirouz'
 reign-slug: 'regne-de-balasch'
+title: "Kobad revient dans l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '004'
 ---
