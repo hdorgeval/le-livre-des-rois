@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 372
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
+title: 'Afrasiab se rend auprès de son père | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
 ---
