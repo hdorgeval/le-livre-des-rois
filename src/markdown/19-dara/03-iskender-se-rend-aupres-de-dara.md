@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 052
 reign: 'Dara'
 reign-slug: 'regne-de-dara'
+title: 'Iskender se rend auprès de Dara comme son propre ambassadeur | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
 ---
