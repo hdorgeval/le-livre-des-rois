@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 104
 reign: 'Kobad fils de Pirouz'
 reign-slug: 'regne-de-kobad-fils-de-pirouz'
+title: "Kobad s'enfuit et prend refuge chez les Heïtaliens | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '004'
 ---
