@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 424
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: 'Questions que les Mobeds adressent à Hormuzd et ses réponses | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '064'
 ---
