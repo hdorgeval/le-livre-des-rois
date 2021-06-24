@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 434
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Rustem va chez le roi du Mazenderan avec un message | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '013'
 ---
