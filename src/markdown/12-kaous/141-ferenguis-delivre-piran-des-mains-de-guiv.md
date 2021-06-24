@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 410
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Ferenguis délivre Piran des mains de Guiv | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '141'
 ---
