@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 525
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: 'Le Khakan arrive chez le roi Hormuzd | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '023'
 ---
