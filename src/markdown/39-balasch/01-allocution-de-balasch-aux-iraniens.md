@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 081
 reign: 'Balasch fils de Pirouz'
 reign-slug: 'regne-de-balasch'
+title: 'Allocution de Balasch aux Iraniens | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Balasch', 'Dieu', 'Iraniens', 'Mobed']
 order: '001'
 ---
