@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 452
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: 'Hormuzd revient à la pratique de la justice | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '005'
 ---
