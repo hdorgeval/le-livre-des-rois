@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 435
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+title: 'Bahram saisit la couronne au milieu des loups | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '014'
 ---
