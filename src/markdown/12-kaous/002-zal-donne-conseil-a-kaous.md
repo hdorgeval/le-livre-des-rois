@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 391
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Zal donne conseil à Kaous | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Bahram',
