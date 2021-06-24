@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 1
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Guerre contre le roi du Hamaveran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '016'
 ---
