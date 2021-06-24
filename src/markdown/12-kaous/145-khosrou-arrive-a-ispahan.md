@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 421
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Keï Khosrou arrive à Ispahan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '145'
 ---
