@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 169
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Khosrou apprend ce que fait Bahram et écrit une lettre au Khakan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '038'
 ---
