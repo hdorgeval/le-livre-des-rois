@@ -5,6 +5,7 @@ image: '5otlbgWJlLs.jpeg'
 source: tome IV - livre des rois - P. 346
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Gurezm calomnie Isfendiar | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
   [
