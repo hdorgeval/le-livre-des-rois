@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 064
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: "Bendouï s'enfuit de chez Bahram | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '013'
 ---
