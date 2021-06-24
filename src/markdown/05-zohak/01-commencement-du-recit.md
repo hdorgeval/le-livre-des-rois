@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 048
 reign: 'Zohak'
 reign-slug: 'regne-de-zohak'
+title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Arnewaz',
