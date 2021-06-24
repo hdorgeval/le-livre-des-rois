@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 102
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Khosrou adresse des conseils aux Iraniens | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '197'
 ---
