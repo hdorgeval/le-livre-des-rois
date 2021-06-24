@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 017
 reign: 'Homaï'
 reign-slug: 'regne-de-homai'
+title: 'Le blanchisseur élève Darab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
 ---
