@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 399
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+title: "Yezdeguerd charge Mondhir et Noman d'élever son fils Bahram | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '003'
 ---
