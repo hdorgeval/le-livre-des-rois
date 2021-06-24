@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 275
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Naissance du fils de Zal | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
