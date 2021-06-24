@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 168
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Kaous et Khosrou s'en retournent dans le pays de Fars | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '218'
 ---
