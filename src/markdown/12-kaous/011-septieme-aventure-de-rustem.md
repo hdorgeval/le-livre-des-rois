@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 424
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: '7ème aventure -Rustem tue le Div blanc | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '011'
 ---
