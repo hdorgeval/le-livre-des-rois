@@ -5,6 +5,7 @@ image: 'OwqLxCvoVxI.jpeg'
 source: tome II - livre des rois - P. 511
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Thous conduit son armée vers le Kasehroud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
