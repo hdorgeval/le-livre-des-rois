@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 122
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: "Feridoun reçoit la nouvelle de la mort d'Iredj | Le Livre des Rois | Shâhnâmeh"
 tags: ['Ahriman', 'âme', 'Créateur', 'cyprès', 'Dieu', 'Feridoun', 'Iredj', 'Saturne']
 order: '013'
 ---
