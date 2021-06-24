@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 122
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Keï Khosrou envoie à Kaous les captifs et les présents | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '205'
 ---
