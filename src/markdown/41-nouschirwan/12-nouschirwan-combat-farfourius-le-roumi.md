@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 164
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: "Nouschirwan combat Farfourius (Porphyre) le Roumi et s'empare de Kalinius et d'Antioche | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '012'
 ---
