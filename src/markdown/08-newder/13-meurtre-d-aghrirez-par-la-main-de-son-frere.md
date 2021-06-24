@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 342
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+title: "Meurtre d'Aghrirez par la main de son frère | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '013'
 ---
