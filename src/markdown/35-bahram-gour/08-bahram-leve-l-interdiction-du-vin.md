@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 463
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: "Bahram lève l'interdiction du vin suite à l'aventure du petit cordonnier avec un lion | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '008'
 ---
