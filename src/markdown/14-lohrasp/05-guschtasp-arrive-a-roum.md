@@ -5,6 +5,7 @@ image: 'ZN60gTem64E.jpeg'
 source: tome IV - livre des rois - P. 233
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: 'Guschtasp arrive à Roum | Le Livre des Rois | Shâhnâmeh'
 tags:
   ['âme', 'Bessad', 'Bourab', 'Guschtasp', 'Heischoui', 'Iran', 'Kaisar', 'Kaisars', 'Roum', 'Selm']
 order: '05'
