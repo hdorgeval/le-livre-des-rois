@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 336
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Piran confie le jeune Keï Khosrou aux pâtres | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '114'
 ---
