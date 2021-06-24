@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 326
 reign: "Bahram fils d'Ormuzd"
 reign-slug: 'regne-de-bahram-fils-d-ormuzd'
+title: 'Bahram remet le gouvernement à Bahram fils de Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Bahram', 'cyprès', 'Mobed']
 order: '002'
 ---
