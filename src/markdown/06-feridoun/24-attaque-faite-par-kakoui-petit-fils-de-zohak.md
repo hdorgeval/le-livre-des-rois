@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 152
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: 'Attaque faite par Kakoui, petit-fils de Zohak | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
