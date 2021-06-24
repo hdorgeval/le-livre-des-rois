@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 420
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Piran demande des secours à Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '147'
 ---
