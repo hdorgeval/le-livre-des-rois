@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 318
 reign: 'Kobad fils de Khosrou Parviz'
 reign-slug: 'regne-de-kobad-fils-de-parviz'
+title: 'Les Grands réclament la mort de Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
 ---
