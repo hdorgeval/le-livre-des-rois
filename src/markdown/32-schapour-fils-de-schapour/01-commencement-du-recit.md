@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 389
 reign: 'Schapour fils de Schapour'
 reign-slug: 'regne-de-schapour-fils-de-schapour'
+title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['Créateur', 'Dieu', 'Iraniens', 'Keïanides', 'Mobeds', 'Schapour']
 order: '001'
 ---
