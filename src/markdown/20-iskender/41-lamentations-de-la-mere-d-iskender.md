@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 209
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: "Lamentations de la mère et de la femme d'Iskender | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '041'
 ---
