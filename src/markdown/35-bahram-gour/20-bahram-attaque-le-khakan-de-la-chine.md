@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 544
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: 'Bahram attaque le Khakan de la Chine | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '020'
 ---
