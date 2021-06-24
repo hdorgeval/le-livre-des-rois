@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 120
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Sohrab et Rustem retournent à leurs camps | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '049'
 ---
