@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 105
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Khosrou apprend qu'Afrasiab a rejoint l'armée du Faghfour | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '199'
 ---
