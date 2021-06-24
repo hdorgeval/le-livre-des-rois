@@ -5,6 +5,7 @@ image: '_Zbbs4muqkQ.jpeg'
 source: tome III - livre des rois - P. 061
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Le Khakan de la Chine s'approche du Hemawen | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'Afrasiab',
