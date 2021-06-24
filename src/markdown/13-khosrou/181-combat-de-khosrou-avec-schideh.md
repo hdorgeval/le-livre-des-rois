@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 042
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Combat de Khosrou avec Schideh fils d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '181'
 ---
