@@ -5,6 +5,7 @@ image: 'zOUC2BWW8ms.jpeg'
 source: tome IV - livre des rois - P. 223
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: 'Lohrasp fonde le Temple du Feu à Balkh | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Balkh',
