@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 094
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: "Khosrou écrit une lettre d'alliance et l'envoie au Kaïsar | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '020'
 ---
