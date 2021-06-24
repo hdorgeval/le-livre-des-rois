@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 172
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Keï Khosrou prend la vie en dégout | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '220'
 ---
