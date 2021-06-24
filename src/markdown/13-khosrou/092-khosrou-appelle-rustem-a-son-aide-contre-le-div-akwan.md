@@ -5,6 +5,7 @@ image: 'MwYBzsaSAGQ.jpeg'
 source: tome III - livre des rois - P. 216
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Khosrou appelle Rustem à son aide contre le div Akwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '092'
 ---
