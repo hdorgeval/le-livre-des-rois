@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 66
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Sohrab choisit un cheval | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '036'
 ---
