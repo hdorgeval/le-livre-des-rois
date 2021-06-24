@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 178
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: 'Iskender construit le rempart de Gog et Magog | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '031'
 ---
