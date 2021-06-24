@@ -5,6 +5,7 @@ image: '7mQaf3jipdA.jpeg'
 source: tome II - livre des rois - P. 524
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Afrasiab apprend l'invasion de Thous | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'Afrasiab',
