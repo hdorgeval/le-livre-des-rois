@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 351
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Faramourz tue Warazad, roi de Sipendjab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '121'
 ---
