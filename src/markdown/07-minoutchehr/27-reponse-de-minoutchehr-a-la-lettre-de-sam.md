@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 267
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Réponse de Minoutchehr à la lettre de Sam | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Ahrimans',
