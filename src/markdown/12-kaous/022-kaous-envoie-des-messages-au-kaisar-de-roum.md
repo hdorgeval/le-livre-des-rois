@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 25
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Kaous envoie des messages au Kaïsar de Roum et à Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '022'
 ---
