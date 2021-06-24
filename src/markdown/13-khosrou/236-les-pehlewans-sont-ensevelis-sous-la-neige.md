@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 216
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Les Pehlewans sont ensevelis sous la neige | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '236'
 ---
