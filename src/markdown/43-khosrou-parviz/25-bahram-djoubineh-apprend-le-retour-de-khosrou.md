@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 115
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Bahram Djoubineh apprend le retour de Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '025'
 ---
