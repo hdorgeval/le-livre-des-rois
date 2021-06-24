@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 023
 reign: 'Kaïoumors'
 reign-slug: 'regne-de-kaioumors'
+title: 'Combat de Kaïoumors et de Houscheng avec le Div noir | Le Livre des Rois | Shâhnâmeh'
 tags: ['Destour', 'Div', 'Divs', 'Houscheng', 'Kaïoumors', 'Péris', 'Siamek']
 order: '003'
 ---
