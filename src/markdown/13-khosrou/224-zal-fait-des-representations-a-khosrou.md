@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 183
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Zal fait des représentations à Keï Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '224'
 ---
