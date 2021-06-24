@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 342
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+title: "Thaïr l'arabe enlève la fille de Nersi | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '002'
 ---
