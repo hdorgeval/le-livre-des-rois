@@ -5,6 +5,7 @@ image: 'MFM8ASk4XNs.jpeg'
 source: tome III - livre des rois - P. 030
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Les Iraniens se retirent sur le mont Hemawen | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Bahram',
