@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 159
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Bahram Djoubineh tue Mekatoureh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '035'
 ---
