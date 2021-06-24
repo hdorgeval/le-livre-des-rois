@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 162
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: 'Nouschirwan prend des forteresses dans le pays de Roum | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '011'
 ---
