@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 217
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+title: "Babek voit en songe l'avenir de Sasan | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '003'
 ---
