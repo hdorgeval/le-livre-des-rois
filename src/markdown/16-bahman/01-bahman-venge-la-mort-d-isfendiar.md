@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 001
 reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
+title: "Bahman venge la mort d'Isfendiar | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '001'
 ---
