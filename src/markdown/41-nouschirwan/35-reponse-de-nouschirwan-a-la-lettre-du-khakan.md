@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 262
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: 'Réponse de Nouschirwan à la lettre du Khakan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '035'
 ---
