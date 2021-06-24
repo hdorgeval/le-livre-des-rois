@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 050
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Combat général des deux armées | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '183'
 ---
