@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 198
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: "Lettre d'Iskender à Aristalis et réponse de celui-ci | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '037'
 ---
