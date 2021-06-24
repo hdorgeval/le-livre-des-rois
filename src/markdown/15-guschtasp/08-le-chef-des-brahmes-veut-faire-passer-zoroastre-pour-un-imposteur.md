@@ -5,6 +5,7 @@ image: 'Zjp4vy3bJhk.jpeg'
 source: tome II - Vie de Zoroastre - P. 47 (P.187) - Zend-Avesta - Anquetil du Perron
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: "Le chef des Brahmes de l'Inde veut faire passer Zoroastre pour un imposteur | Le Livre des Rois | Shâhnâmeh"
 map: ''
 tags:
   [
