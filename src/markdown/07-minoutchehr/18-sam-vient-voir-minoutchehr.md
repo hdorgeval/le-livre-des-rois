@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 234
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Sam vient voir Minoutchehr | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'cyprès',
