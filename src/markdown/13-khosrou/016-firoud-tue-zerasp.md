@@ -5,6 +5,7 @@ image: 'UpR6FBeVvto.jpeg'
 source: tome II - livre des rois - P. 492
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Firoud tue Zerasp | Le Livre des Rois | Shâhnâmeh'
 tags:
   ['Aderguschasp', 'âme', 'Firoud', 'Pehlewan', 'Rivniz', 'Sipehdar', 'Thous', 'Tokhareh', 'Zerasp']
 order: '016'
