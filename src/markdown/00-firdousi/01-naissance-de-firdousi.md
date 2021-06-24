@@ -5,6 +5,7 @@ image: 'XXNfSFZWiII.jpeg'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
 reign: 'Firdousi'
 reign-slug: 'about'
+title: 'Naissance de Firdousi | Le Livre des Rois | Shâhnâmeh'
 tags: ['Châb', 'Firdawsi', 'Firdousi', 'Hégire', 'Naissance', 'Peblewî', 'Perse', 'Qasim', 'Rizâ']
 order: '1'
 ---
