@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 274
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Siawusch parle avec Piran de son avenir | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '096'
 ---
