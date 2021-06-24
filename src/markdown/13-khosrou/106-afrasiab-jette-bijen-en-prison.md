@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 262
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Afrasiab jette Bijen en prison | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '106'
 ---
