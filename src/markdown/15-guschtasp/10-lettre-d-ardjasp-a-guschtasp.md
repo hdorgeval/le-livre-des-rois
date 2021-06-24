@@ -5,6 +5,7 @@ image: '0q90Mumo-xE.jpeg'
 source: tome IV - livre des rois - P. 296
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: "Lettre d'Ardjasp à Guschtasp | Le Livre des Rois | Shâhnâmeh"
 map: ''
 tags:
   [
