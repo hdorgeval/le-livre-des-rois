@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 383
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Guiv se rend dans le Touran pour chercher Keï Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '132'
 ---
