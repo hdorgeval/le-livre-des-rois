@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 331
 reign: 'Ardeschir fils de Schirouï'
 reign-slug: 'regne-de-ardeschir-fils-de-schiroui'
+title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Ahriman',
