@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 89
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Kaous se met en colère contre Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '043'
 ---
