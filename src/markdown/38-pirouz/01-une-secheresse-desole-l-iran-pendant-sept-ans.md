@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 070
 reign: 'Pirouz fils de Yezdeguerd'
 reign-slug: 'regne-de-pirouz'
+title: "Une sécheresse désole l'Iran pendant sept ans | Le Livre des Rois | Shâhnâmeh"
 tags: ['Dieu', 'Djemschid', 'Ferwerdin', 'Hormuz', 'Iran', 'Keïanides', 'Mobeds', 'Pirouz']
 order: '001'
 ---
