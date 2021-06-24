@@ -5,6 +5,7 @@ image: 'j5ATKLbSqbM.jpeg'
 source: tome IV - livre des rois - P. 281
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: "Guschtasp s'en retourne dans l'Iran avec Zerir et Lohrasp lui abandonne le trône | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'âme',
