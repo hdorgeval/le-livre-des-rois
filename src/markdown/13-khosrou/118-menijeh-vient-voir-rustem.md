@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 301
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Menijeh vient voir Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '118'
 ---
