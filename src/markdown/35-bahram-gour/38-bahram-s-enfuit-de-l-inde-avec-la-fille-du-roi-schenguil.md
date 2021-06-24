@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 039
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: "Bahram s'enfuit de l'Inde avec la fille du roi Schenguil | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '038'
 ---
