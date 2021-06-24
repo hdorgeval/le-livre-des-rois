@@ -5,6 +5,7 @@ image: 'zqwK4a6JXgc.jpeg'
 source: tome II - livre des rois - P. 493
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Thous attaque Firoud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
