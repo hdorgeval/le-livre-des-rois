@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 466
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: 'Le grand Mobed de Bahram détruit un bourg et le fait refleurir | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '009'
 ---
