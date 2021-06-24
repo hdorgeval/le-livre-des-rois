@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 155
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Ce qui arriva entre Bahram Djoubineh et le Khakan de la Chine | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '034'
 ---
