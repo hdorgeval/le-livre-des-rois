@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 380
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Gouderz voit Keï Khosrou en songe | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '131'
 ---
