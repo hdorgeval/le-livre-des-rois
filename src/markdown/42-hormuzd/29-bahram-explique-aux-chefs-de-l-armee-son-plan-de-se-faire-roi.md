@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 542
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: "Bahram explique aux chefs de l'armée son plan de se faire roi | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '029'
 ---
