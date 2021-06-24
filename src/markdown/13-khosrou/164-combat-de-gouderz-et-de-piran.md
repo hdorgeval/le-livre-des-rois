@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 464
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Combat de Gouderz et de Piran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '164'
 ---
