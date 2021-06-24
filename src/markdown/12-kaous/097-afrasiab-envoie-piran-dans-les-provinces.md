@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 278
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Afrasiab envoie Piran dans les provinces | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '097'
 ---
