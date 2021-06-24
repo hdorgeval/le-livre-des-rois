@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 387
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Nestihen fait une attaque de nuit et y périt | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '141'
 ---
