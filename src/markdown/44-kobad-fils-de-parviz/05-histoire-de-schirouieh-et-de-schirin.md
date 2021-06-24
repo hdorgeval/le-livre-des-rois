@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 321
 reign: 'Kobad fils de Khosrou Parviz'
 reign-slug: 'regne-de-kobad-fils-de-parviz'
+title: 'Histoire de Schirouïeh et de Schirin, femme de Khosrou Parviz | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '005'
 ---
