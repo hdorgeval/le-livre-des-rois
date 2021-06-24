@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 107
 reign: 'Kobad fils de Pirouz'
 reign-slug: 'regne-de-kobad-fils-de-pirouz'
+title: 'Kobad revient du pays des Heïtaliens et remonte sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '005'
 ---
