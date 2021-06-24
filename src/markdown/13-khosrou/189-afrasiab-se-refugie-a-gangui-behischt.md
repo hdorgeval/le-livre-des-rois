@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 071
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Afrasiab se réfugie à Gangui-Behischt | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '189'
 ---
