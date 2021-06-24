@@ -5,6 +5,7 @@ image: 'sZO_aniGp6U.jpeg'
 source: tome IV - livre des rois - P. 322
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Mort de Guerami, fils de Djamasp | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
   [
