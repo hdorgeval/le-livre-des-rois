@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 302
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+title: 'Newder monte sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
