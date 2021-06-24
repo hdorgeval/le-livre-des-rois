@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 367
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
+title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '001'
 ---
