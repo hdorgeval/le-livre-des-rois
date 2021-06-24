@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 369
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
+title: 'Rustem combat Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
 ---
