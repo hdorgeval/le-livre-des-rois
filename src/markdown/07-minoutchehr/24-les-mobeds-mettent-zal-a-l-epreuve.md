@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 257
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: "Les Mobeds mettent Zal à l'épreuve | Le Livre des Rois | Shâhnâmeh"
 tags: ['cyprès', 'Mobed', 'Mobeds', 'Perse', 'Zal']
 order: '024'
 ---
