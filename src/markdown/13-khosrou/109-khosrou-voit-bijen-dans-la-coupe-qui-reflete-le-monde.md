@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 274
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Keï Khosrou voit Bijen dans la coupe qui reflète le monde | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '109'
 ---
