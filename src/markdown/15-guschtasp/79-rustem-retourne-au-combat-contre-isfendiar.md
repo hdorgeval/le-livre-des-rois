@@ -5,6 +5,7 @@ image: 'qix13-hfGFs.jpeg'
 source: tome IV - livre des rois - P. 540
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Rustem retourne au combat contre Isfendiar | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
     'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom',
