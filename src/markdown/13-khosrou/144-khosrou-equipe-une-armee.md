@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 400
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Khosrou équipe une armée | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '144'
 ---
