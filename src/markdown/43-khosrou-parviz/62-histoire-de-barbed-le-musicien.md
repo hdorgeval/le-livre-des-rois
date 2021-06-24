@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 255
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Histoire de Barbed le musicien | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '062'
 ---
