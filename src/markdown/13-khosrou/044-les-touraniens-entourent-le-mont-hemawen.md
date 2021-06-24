@@ -5,6 +5,7 @@ image: '3wkonYy2w94.jpeg'
 source: tome III - livre des rois - P. 032
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Les Touraniens entourent le mont Hemawen | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
