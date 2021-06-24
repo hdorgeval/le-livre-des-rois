@@ -13,6 +13,14 @@ module.exports = {
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-typescript',
     'gatsby-plugin-image',
+    'gatsby-plugin-sitemap',
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        host: 'https://www.lelivredesrois.com',
+        policy: [{ userAgent: '*', allow: '/' }],
+      },
+    },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
@@ -68,5 +76,6 @@ module.exports = {
   ],
   siteMetadata: {
     title: 'Le Livre des Rois',
+    siteUrl: 'https://www.lelivredesrois.com/',
   },
 };
