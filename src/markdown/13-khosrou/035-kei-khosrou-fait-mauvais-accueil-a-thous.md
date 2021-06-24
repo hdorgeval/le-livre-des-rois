@@ -5,6 +5,7 @@ image: 'lk5MYKmGyFE.jpeg'
 source: tome III - livre des rois - P. 002
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Keï Khosrou fait mauvais accueil à Thous | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
