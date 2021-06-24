@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 146
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: 'Iskender fait une convention avec Keïdafeh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '022'
 ---
