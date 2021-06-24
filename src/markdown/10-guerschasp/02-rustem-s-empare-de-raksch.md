@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 354
 reign: 'Guerschasp'
 reign-slug: 'regne-de-guerschasp'
+title: "Rustem s'empare de Raksch | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '002'
 ---
