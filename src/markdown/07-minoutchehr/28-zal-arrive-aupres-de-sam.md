@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 270
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Zal arrive auprès de Sam | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
