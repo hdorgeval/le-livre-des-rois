@@ -5,6 +5,7 @@ image: 'UpR6FBeVvto.jpeg'
 source: tome II - livre des rois - P. 491
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Firoud tue Rivniz | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Bahram',
