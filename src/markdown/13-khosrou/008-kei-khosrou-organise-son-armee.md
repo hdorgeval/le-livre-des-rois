@@ -5,6 +5,7 @@ image: 'bxURtAFagpc.jpeg'
 source: tome II - livre des rois - P. 464
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Keï Khosrou organise son armée | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
