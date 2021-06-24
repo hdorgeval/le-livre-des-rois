@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 396
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+title: 'Naissance de Bahram, fils de Yezdeguerd | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
 ---
