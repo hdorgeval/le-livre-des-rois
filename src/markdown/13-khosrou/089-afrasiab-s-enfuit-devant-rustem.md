@@ -5,6 +5,7 @@ image: '5HPyr6jk8Mk.jpeg'
 source: tome III - livre des rois - P. 208
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Afrasiab s'enfuit devant Rustem | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '089'
 ---
