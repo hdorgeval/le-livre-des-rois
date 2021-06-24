@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 339
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: "Piran mème Keï Khosrou auprès d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '115'
 ---
