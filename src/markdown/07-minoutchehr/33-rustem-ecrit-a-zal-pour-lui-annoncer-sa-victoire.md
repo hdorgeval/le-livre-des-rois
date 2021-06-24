@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 294
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Rustem écrit à Zal pour lui annoncer sa victoire | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
