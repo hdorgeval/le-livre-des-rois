@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 448
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Kaous retourne en Iran et congédie Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '015'
 ---
