@@ -5,6 +5,7 @@ image: 'MfNHW8vlbLs.jpeg'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
 reign: 'Firdousi'
 reign-slug: 'about'
+title: '1934 - le Millenaire De Firdousi | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Anquetil-Duperron',
