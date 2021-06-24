@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 361
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Houman provoque Feribourz au combat | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '135'
 ---
