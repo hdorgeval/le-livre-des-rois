@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 327
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+title: 'Wiseh trouve son fils mort | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '008'
 ---
