@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 178
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: "Minoutchehr apprend l'histoire de Sam et de Zal-zer | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'Alborz',
