@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 483
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: 'Aventure de Bahram avec un marchand et son apprenti | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
 ---
