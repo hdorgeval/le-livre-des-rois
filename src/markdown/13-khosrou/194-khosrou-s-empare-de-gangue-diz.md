@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 090
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Keï Khosrou s'empare de Gangue-Diz | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '194'
 ---
