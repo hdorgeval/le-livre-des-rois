@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 551
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: "Bahram revient dans le pays d'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '023'
 ---
