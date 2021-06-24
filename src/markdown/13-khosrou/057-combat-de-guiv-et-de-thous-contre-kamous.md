@@ -5,6 +5,7 @@ image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 081
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Combat de Guiv et de Thous contre Kamous | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Dieu',
