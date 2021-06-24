@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 153
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Lamentation de Firdousi sur la mort de son fils | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '033'
 ---
