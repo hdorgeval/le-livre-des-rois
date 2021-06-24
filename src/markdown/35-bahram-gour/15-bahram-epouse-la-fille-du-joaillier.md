@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 502
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: 'Bahram épouse la fille du joaillier | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '015'
 ---
