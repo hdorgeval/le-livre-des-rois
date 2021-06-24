@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 513
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: 'Parmoudeh demande protection à Bahram Djoubineh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '020'
 ---
