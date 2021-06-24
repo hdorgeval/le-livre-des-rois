@@ -5,6 +5,7 @@ image: 'tpC9UhdcQsg.jpeg'
 source: tome II - Vie de Zoroastre - P. 14 (P.154) - Zend-Avesta - Anquetil du Perron
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: 'Dogdo donne naissance à Zoroastre | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Chef',
