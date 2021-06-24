@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 139
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: 'Sur la justice et la sagesse de Nouschirwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '005'
 ---
