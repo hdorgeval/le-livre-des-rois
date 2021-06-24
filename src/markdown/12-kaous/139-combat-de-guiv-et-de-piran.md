@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 405
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Combat de Guiv et de Piran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '139'
 ---
