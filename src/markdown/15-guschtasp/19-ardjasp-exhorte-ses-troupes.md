@@ -5,6 +5,7 @@ image: 'fAZEw6xPhz8.jpeg'
 source: tome IV - livre des rois - P. 325
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Ardjasp exhorte ses troupes | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
   [
