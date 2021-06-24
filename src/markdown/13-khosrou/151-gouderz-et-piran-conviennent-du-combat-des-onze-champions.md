@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 438
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Gouderz et Piran conviennent du combat des onze champions | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '151'
 ---
