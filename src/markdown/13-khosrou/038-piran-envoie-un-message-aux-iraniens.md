@@ -5,6 +5,7 @@ image: '5HPyr6jk8Mk.jpeg'
 source: tome III - livre des rois - P. 009
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Piran envoie un message aux iraniens | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Ferenguis',
