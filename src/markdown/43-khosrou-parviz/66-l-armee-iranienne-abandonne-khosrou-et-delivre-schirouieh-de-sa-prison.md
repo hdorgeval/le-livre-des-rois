@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 270
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: "L'armée iranienne abandonne Khosrou et délivre Schirouïeh de sa prison | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '066'
 ---
