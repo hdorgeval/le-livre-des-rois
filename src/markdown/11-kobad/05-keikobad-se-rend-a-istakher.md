@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 381
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
+title: 'Keïkobad se rend à Istakher, dans le Fars | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '005'
 ---
