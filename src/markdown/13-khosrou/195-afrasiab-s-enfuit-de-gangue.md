@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 095
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Afrasiab s'enfuit de Gangue | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '195'
 ---
