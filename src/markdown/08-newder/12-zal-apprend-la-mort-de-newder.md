@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 337
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+title: 'Zal apprend la mort de Newder | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
 ---
