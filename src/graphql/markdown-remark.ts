@@ -57,6 +57,7 @@ export interface MarkdownFrontmatter {
   thumbnail: string;
   order: string;
   reign: string;
+  title: string;
 }
 
 export interface HtmlAST {

@@ -85,6 +85,7 @@ async function createAllEpisodePages(graphql, actions) {
               lastUpdate
               reign_slug
               reign
+              title
             }
           }
           next {
@@ -113,6 +114,7 @@ async function createAllEpisodePages(graphql, actions) {
     const reignTitle = markdown?.frontmatter?.reign;
     const reignSlug = markdown?.frontmatter?.reign_slug;
     const lastUpdate = markdown?.frontmatter?.lastUpdate;
+    const pageTitle = markdown?.frontmatter?.title;
 
     if (debug) {
       // eslint-disable-next-line no-console
@@ -131,6 +133,7 @@ async function createAllEpisodePages(graphql, actions) {
         lastUpdate,
         reignTitle,
         reignSlug,
+        pageTitle,
       },
     });
   });

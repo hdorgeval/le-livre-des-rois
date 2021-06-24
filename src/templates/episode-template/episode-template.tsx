@@ -16,6 +16,7 @@ interface MarkdownTemplateProps {
     reignTitle: string | null;
     reignSlug: string | null;
     lastUpdate: string | null;
+    pageTitle: string | null;
   };
 }
 export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageContext }) => {
@@ -43,7 +44,11 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
 
   return (
     <Layout>
-      <SEO title="Le Livre des Rois - Shâhnâmeh" contentType="website" description={firstHeading} />
+      <SEO
+        title={pageContext.pageTitle || 'Le Livre des Rois - Shâhnâmeh'}
+        contentType="website"
+        description={firstHeading}
+      />
       <div>
         <div className="card bg-dark text-white">
           <div
