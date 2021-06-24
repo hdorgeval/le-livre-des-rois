@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 359
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Afrasiab se met en campagne pour venger son fils | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '123'
 ---
