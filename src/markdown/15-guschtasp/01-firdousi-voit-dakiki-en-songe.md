@@ -5,6 +5,7 @@ image: '7BhTfoKsheQ.jpeg'
 source: tome IV - livre des rois - P. 287
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Firdousi voit Dakiki en songe | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Ardjasp', 'Chine', 'Dakiki', 'Firdousi', 'Guschtasp', 'Kaous', 'Keïanide', 'Mahmoud']
 order: '01'
 ---
