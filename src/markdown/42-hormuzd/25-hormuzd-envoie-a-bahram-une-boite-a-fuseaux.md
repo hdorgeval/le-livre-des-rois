@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 530
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: 'Hormuzd envoie à Bahram une boite à fuseaux et une robe de femme | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '025'
 ---
