@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 190
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Le Khakan apprend la mort de Bahram et détruit la maison et la famille de Kaloun | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '043'
 ---
