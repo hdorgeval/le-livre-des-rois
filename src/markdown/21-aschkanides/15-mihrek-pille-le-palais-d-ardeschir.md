@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 254
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+title: "Mihrek fils de Nouschzad pille le palais d'Ardeschir | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '015'
 ---
