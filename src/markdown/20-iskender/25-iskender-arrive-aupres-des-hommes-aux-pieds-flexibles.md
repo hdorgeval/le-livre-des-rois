@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 162
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: 'Iskender arrive auprès des hommes aux pieds flexibles et tue un dragon | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '025'
 ---
