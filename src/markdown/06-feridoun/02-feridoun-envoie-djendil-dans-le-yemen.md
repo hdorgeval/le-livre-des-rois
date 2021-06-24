@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 088
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: 'Feridoun envoie Djendil dans le Yemen | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
