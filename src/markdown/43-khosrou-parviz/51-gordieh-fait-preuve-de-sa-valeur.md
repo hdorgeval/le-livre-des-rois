@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 214
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Gordieh fait preuve de sa valeur auprès de Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '051'
 ---
