@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 142
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: "Minoutchehr attaque l'armée de Tour | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'Ahriman',
