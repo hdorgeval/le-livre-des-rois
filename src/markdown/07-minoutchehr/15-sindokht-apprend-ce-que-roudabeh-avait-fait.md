@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 221
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Sindokht apprend ce que Roudabeh avait fait | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
