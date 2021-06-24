@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 363
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+title: 'Combat entre Rustem et Saad, mort de Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '005'
 ---
