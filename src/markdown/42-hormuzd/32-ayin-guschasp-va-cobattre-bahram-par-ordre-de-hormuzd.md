@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 559
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: 'Ayïn Guschasp va combattre Bahram par ordre de Hormuzd et est tué | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '032'
 ---
