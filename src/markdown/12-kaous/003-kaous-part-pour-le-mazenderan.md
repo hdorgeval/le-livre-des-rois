@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 395
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Kaous part pour le Mazenderan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
 ---
