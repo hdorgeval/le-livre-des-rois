@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 533
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: "Bahram a une vision de la fortune qui l'attend | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '026'
 ---
