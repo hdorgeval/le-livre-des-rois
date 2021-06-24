@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 199
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Le Khakan envoie Thuwurg à la poursuite de Gordieh qui le tue | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '046'
 ---
