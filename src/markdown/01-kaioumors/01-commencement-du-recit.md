@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 019
 reign: 'Kaïoumors'
 reign-slug: 'regne-de-kaioumors'
+title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['Ahriman', 'Bélier', 'cyprès', 'Dihkan', 'Kaïoumors', 'Péri', 'Serosch', 'Siamek']
 order: '001'
 ---
