@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 024
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Keï Khosrou apprend qu'Afrasiab s'avance pour l'attaquer | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '177'
 ---
