@@ -5,6 +5,7 @@ image: 'ipT2Cp4U8bc.jpeg'
 source: tome IV - livre des rois - P. 243
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: 'Mirin demande en marriage la seconde fille du Kaisar | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
