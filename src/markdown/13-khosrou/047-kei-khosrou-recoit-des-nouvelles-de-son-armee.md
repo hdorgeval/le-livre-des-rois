@@ -5,6 +5,7 @@ image: 'ztYhqhlgi-8.jpeg'
 source: tome III - livre des rois - P. 046
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Keï Khosrou reçoit des nouvelles de son armée | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
