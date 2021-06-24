@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 039
 reign: 'Djemschid'
 reign-slug: 'regne-de-djemschid'
+title: 'Histoire de Zohak et de son père | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
