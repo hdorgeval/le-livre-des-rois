@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 316
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: "Les sages de l'Inde ne découvrent pas la façon de jouer du Nard | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '045'
 ---
