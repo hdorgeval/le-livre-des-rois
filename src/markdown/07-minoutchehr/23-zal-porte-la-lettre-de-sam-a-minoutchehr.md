@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 257
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Zal porte la lettre de Sam à Minoutchehr | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Dieu', 'Iran', 'Mihrab', 'Minoutchehr', 'Mobeds', 'Pehlewan', 'Sam', 'Zal']
 order: '023'
 ---
