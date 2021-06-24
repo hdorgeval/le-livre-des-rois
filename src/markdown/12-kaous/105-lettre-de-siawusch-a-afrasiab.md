@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 307
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Lettre de Siawusch à Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '105'
 ---
