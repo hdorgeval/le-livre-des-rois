@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 348
 reign: 'Guerschasp'
 reign-slug: 'regne-de-guerschasp'
+title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
