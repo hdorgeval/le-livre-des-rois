@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 067
 reign: 'Dara'
 reign-slug: 'regne-de-dara'
+title: 'Dara assassiné par ses destours | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '008'
 ---
