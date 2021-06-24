@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 374
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Guiv donne à Bijen la cuirasse de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '138'
 ---
