@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 263
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+title: 'Ardeschir met à mort Heftwad | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '017'
 ---
