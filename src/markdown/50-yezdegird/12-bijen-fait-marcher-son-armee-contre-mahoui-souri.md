@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 401
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+title: 'Bijen fait marcher son armée contre Mahouï Souri | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
 ---
