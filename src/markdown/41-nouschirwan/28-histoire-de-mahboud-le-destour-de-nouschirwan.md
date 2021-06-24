@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 232
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: 'Histoire de Mahboud le Destour de Nouschirwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '028'
 ---
