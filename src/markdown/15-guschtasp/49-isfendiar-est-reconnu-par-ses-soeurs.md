@@ -5,6 +5,7 @@ image: '2xPBKEvHzH8.jpeg'
 source: tome IV - livre des rois - P. 428
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Isfendiar est reconnu par ses soeurs | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
     'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom',
