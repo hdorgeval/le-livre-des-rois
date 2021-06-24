@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 384
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Guerre contre le Mazenderan | Le Livre des Rois | Shâhnâmeh'
 tags: ["Ader", "Ahriman", "âme", "Bahman", "Bahram", "Dieu", "Div", "Divs", "Djemschid", "Feridoun", "Ferwerdin", "Gouderz", "Guiv", "Gurguin", "Iran", "Kaous", "Keschwad", "Keïanides", "Keïkobad", "Kherrad", "Mazenderan", "Minoutchehr", "Nimrouz", "Pehlewans", "Péris", "Rustem", "Sam", "Thous", "Zal", "Zohak"]
 order: '001'
 ---
