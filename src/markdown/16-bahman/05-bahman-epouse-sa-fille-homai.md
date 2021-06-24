@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 011
 reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
+title: 'Bahman épouse sa fille Homaï et lui destine la succession | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '005'
 ---
