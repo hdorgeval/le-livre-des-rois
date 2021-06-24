@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 491
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: 'Bahram Djoubineh a un songe et dispose son armée | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '015'
 ---
