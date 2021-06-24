@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 150
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: "Neïathous et les Roumis reviennent de l'Iran auprès du Kaïsar | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '032'
 ---
