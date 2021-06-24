@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 186
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: 'Iskender se rend auprès du Faghfour de la Chine | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '034'
 ---
