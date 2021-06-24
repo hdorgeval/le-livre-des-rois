@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 285
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: "Nouschirwan revient victorieux dans l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '040'
 ---
