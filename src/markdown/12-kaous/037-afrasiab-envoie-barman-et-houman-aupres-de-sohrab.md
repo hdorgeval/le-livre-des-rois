@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 69
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Afrasiab envoie Barman et Houman auprès de Sohrab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '037'
 ---
