@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 344
 reign: 'Zew'
 reign-slug: 'regne-de-zew'
+title: 'Famine et paix | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
