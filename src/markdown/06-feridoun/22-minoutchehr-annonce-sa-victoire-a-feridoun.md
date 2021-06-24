@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 147
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: 'Minoutchehr annonce sa victoire à Feridoun | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
