@@ -5,6 +5,7 @@ image: '_E1PQXKUkMw.jpeg'
 source: tome II - livre des rois - P. 503
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Mort de Firoud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
