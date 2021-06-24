@@ -5,6 +5,7 @@ image: 'JOzv_pAkcMk.jpeg'
 source: tome IV - livre des rois - P. 273
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: "Combat de Guschtasp et d'Ilias et mort de ce dernier | Le Livre des Rois | Shâhnâmeh"
 tags:
   ['Créateur', 'Guschtasp', 'Ilias', 'Kaisar', 'Khazars', 'Roum', 'Sagittaire', 'Sekil', 'tribut']
 order: '15'
