@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 003
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: "Questions et réponses de l'envoyé Roumi et des Mobeds de l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '026'
 ---
