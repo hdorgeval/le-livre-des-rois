@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 97
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Kaous et Rustem se mettent en campagne | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '044'
 ---
