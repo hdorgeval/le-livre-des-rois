@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 234
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Les Irmaniens demandent protection à Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '098'
 ---
