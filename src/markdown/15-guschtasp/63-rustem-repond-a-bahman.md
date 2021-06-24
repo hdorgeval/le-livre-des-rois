@@ -5,6 +5,7 @@ image: '3actIYCf-sk.jpeg'
 source: tome IV - livre des rois - P. 476
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Rustem répond à Bahman | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
     'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom',
