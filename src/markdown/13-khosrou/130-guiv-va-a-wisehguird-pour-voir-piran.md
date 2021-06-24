@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 342
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Guiv va à Wisehguird pour voir Piran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '130'
 ---
