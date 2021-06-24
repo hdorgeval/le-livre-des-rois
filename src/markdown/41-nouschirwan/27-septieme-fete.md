@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 228
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: 'Septième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '027'
 ---
