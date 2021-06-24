@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 136
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Troisième combat de Khosrou avec Bahram Djoubineh -défaite de Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '028'
 ---
