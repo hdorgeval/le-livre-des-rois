@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 371
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+title: 'Lettre de Yezdegird à Mahouï Souri et aux Merzebans du Khorasan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
 ---
