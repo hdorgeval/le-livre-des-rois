@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 312
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Siawusch déclare ses dernières volontés à Ferenguis | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '108'
 ---
