@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 239
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+title: "Combat d'Ardeschir contre Ardewan | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '011'
 ---
