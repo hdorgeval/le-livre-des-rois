@@ -5,6 +5,7 @@ image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 204
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Rustem et Pouladwend luttent corps à corps | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
