@@ -5,6 +5,7 @@ image: 'KA96_wGagC8.jpeg'
 source: tome IV - livre des rois - P. 290 &  tome II - Vie de Zoroastre - P. 41 (P.181) - Zend-Avesta - Anquetil du Perron
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Guschtasp fonde les temples du feu | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
   [
