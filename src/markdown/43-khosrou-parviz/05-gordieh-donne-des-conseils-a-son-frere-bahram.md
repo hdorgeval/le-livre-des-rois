@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 032
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Gordieh donne des conseils à son frère Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '005'
 ---
