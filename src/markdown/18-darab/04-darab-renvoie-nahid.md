@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 043
 reign: 'Darab'
 reign-slug: 'regne-de-darab'
+title: 'Darab renvoie Nahid qui met au monde Iskender | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
 ---
