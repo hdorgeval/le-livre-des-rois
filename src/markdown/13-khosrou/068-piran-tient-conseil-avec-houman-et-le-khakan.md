@@ -5,6 +5,7 @@ image: 'kpmXIrzrXKE.jpeg'
 source: tome III - livre des rois - P. 120
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Piran tient conseil avec Houman et le Khakan | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
