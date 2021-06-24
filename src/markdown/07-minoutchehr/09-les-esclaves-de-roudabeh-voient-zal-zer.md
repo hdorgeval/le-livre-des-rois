@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 197
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Les esclaves de Roudabeh voient Zal-Zer | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
