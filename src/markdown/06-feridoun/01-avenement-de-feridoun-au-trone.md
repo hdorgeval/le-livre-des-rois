@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 085
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: 'Avènement de Feridoun au trône | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Amol',
