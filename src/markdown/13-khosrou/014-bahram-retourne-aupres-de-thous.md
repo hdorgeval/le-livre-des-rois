@@ -5,6 +5,7 @@ image: 'LvBwmKyK6oo.jpeg'
 source: tome II - livre des rois - P. 489
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Bahram retourne auprès de Thous | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
