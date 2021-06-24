@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 082
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: "Lettre d'Iskender à Dilaraï, mère de Rouschenek | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '002'
 ---
