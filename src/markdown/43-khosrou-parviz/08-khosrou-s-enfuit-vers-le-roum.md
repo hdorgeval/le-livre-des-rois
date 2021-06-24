@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 044
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: "Khosrou s'enfuit vers le Roum et son père Hormuzd est assassiné | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '008'
 ---
