@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 247
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Schirin tue Mariam et Khosrou met Schirouï en prison | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '060'
 ---
