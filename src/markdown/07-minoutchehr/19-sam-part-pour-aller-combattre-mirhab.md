@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 238
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Sam part pour aller combattre Mihrab | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Destan',
