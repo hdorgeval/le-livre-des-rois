@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 315
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: "Siawusch tombe entre les mains d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '109'
 ---
