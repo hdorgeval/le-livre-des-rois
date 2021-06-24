@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 374
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Zewareh va voir les réserves de chasse de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '128'
 ---
