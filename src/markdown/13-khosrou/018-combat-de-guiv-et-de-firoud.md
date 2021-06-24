@@ -5,6 +5,7 @@ image: 'zqwK4a6JXgc.jpeg'
 source: tome II - livre des rois - P. 497
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Combat de Guiv et de Firoud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Aderguschasp',
