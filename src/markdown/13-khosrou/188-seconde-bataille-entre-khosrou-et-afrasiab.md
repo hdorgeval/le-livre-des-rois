@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 068
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Seconde bataille entre Keï Khosrou et Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '188'
 ---
