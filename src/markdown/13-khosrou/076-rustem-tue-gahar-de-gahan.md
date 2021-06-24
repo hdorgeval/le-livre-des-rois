@@ -5,6 +5,7 @@ image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 152
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Rustem tue Gahar de Gahan | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
