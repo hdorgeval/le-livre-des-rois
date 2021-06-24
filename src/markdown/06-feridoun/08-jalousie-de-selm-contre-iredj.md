@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 105
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: 'Jalousie de Selm contre Iredj | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
