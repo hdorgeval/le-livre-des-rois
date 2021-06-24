@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 072
 reign: 'Zohak'
 reign-slug: 'regne-de-zohak'
+title: 'Feridoun voit les filles de Djemschid | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Abtin',
