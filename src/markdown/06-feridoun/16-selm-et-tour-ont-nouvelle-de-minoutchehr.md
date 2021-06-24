@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 128
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: 'Selm et Tour ont nouvelle de Minoutchehr | Le Livre des Rois | Shâhnâmeh'
 tags: ['Dieu', 'Div', 'Feridoun', 'Iran', 'Minoutchehr', 'Selm', 'Tour']
 order: '016'
 ---
