@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 155
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: "Selm s'enfuit et meurt de la main de Minoutchehr | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'Ahriman',
