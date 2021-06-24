@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 190
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: 'Nouschirwan a un songe et Buzurdjmihr se rend à la cour | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '019'
 ---
