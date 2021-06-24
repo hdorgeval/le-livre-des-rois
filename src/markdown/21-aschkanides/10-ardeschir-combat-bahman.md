@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 237
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+title: 'Ardeschir combat Bahman et reste vainqueur | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '010'
 ---
