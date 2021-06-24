@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 164
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Ahriman',
