@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 077
 reign: 'Pirouz fils de Yezdeguerd'
 reign-slug: 'regne-de-pirouz'
+title: 'Pirouz tombe dans le fossé et est tué | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
 ---
