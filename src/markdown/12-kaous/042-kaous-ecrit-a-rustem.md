@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 83
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Kaous écrit à Rustem et le fait venir du Zaboulistan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '042'
 ---
