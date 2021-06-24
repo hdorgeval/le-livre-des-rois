@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 195
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: "Kaous apprend qu'Afrasiab s'est mis en marche | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '070'
 ---
