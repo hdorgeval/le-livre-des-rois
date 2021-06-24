@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 056
 reign: 'Zohak'
 reign-slug: 'regne-de-zohak'
+title: 'Naissance de Feridoun | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Abtin',
