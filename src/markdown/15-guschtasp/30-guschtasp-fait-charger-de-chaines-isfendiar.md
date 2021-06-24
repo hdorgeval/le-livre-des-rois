@@ -5,6 +5,7 @@ image: 'NYcG61957Is.jpeg'
 source: tome IV - livre des rois - P. 351
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Guschtasp fait charger de chaînes Isfendiar | Le Livre des Rois | Shâhnâmeh'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
   [
