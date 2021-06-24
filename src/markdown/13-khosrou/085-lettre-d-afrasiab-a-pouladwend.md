@@ -5,6 +5,7 @@ image: 'kpmXIrzrXKE.jpeg'
 source: tome III - livre des rois - P. 193
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Lettre d'Afrasiab à Pouladwend | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'Afrasiab',
