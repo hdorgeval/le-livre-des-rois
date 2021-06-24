@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 112
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: "Lettre d'Iskender à Four l'indien | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '012'
 ---
