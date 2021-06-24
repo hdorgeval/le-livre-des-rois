@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 072
 reign: 'Pirouz fils de Yezdeguerd'
 reign-slug: 'regne-de-pirouz'
+title: 'Lutte de Pirouz contre les Touraniens | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
 ---
