@@ -5,6 +5,7 @@ image: 'OwqLxCvoVxI.jpeg'
 source: tome III - livre des rois - P. 147
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Schenkoul combat Rustem et s'enfuit | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'Afrasiab',
