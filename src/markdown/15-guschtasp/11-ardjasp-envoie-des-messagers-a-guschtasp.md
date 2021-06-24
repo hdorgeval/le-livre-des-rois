@@ -5,6 +5,7 @@ image: '0q90Mumo-xE.jpeg'
 source: tome IV - livre des rois - P. 299
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Ardjasp envoie des messagers à Guschtasp | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
   [
