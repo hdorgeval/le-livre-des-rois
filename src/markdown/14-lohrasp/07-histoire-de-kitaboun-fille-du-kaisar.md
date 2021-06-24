@@ -5,6 +5,7 @@ image: 'rEXWtuKw8Rs.jpeg'
 source: tome IV - livre des rois - P. 238
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: 'Histoire de Kitaboun fille du Kaisar | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'cyprès', 'Destour', 'Dieu', 'Guschtasp', 'Kaisar', 'Kitaboun', 'Pléiades', 'Roum']
 order: '07'
 ---
