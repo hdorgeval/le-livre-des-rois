@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 331
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+title: 'Zal vient en aide à Mihrab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '010'
 ---
