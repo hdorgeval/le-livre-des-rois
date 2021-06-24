@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 44
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Rustem combat les touraniens | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '027'
 ---
