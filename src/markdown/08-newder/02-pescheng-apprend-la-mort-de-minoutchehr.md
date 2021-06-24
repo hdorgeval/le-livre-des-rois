@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 307
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+title: 'Pescheng apprend la mort de Minoutchehr | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
