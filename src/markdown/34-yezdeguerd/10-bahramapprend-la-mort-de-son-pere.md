@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 421
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+title: 'Bahram Gour apprend la mort de son père | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '010'
 ---
