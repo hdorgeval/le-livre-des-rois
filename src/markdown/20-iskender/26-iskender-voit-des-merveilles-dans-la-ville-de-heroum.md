@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 165
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: 'Iskender voit des merveilles dans la ville de Heroum | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '026'
 ---
