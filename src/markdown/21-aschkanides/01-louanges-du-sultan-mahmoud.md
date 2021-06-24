@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 213
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+title: 'Louanges du sultan Mahmoud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Abou-l-Mozaffer',
