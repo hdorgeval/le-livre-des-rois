@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 225
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Kaous répond à la lettre de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '082'
 ---
