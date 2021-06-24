@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 516
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: 'Bahram Djoubineh demande à Hormuzd une lettre de protection pour Parmoudeh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '021'
 ---
