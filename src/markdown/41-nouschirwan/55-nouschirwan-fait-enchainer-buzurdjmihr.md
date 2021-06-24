@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 366
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: 'Nouschirwan se met en colère contre Buzurdjmihr et le fait enchainer | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '055'
 ---
