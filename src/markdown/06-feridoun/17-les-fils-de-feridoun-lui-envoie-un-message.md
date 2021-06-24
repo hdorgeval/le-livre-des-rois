@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 131
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: 'Les fils de Feridoun lui envoient un message | Le Livre des Rois | Shâhnâmeh'
 tags: ['cyprès', 'Feridoun', 'Keïanides', 'Minoutchehr', 'Roum', 'Schapour', 'Selm']
 order: '017'
 ---
