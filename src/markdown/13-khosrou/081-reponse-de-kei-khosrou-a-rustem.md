@@ -5,6 +5,7 @@ image: '7Au-5wQiAEQ.jpeg'
 source: tome III - livre des rois - P. 172
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Réponse de Keï Khosrou à Rustem | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
