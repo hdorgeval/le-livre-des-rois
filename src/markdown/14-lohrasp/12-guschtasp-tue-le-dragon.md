@@ -5,6 +5,7 @@ image: '1QAXTrmx5rU.jpeg'
 source: tome IV - livre des rois - P. 261
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: 'Guschtasp tue le Dragon | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Ahren',
