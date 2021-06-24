@@ -5,6 +5,7 @@ image: 'J8k-gzI0Zy0.jpeg'
 source: tome II - livre des rois - P. 501
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Combat de Bijen et de Firoud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Bijen',
