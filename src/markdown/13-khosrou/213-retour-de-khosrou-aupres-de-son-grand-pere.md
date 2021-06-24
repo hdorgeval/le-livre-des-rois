@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 152
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Retour de Keï Khosrou auprès de son grand-père | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '213'
 ---
