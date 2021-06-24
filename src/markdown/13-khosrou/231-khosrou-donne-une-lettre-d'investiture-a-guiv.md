@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 203
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Keï Khosrou donne une lettre d'investiture à Guiv | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '231'
 ---
