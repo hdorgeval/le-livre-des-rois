@@ -5,6 +5,7 @@ image: 'UkO87bTCVac.jpeg'
 source: tome IV - livre des rois - P. 349
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: "Djamasp arrive auprès d'Isfendiar | Le Livre des Rois | Shâhnâmeh"
 map: ''
 tags:
   ['Ader-Afrouz', 'Bahman', 'Destour', 'Div', 'Djamasp', 'Isfendiar', 'Mihri-Nousch', 'Nousch-Ader']
