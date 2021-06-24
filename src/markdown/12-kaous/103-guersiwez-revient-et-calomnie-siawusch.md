@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 293
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: "Guersiwez revient et calomnie Siawusch auprès d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '103'
 ---
