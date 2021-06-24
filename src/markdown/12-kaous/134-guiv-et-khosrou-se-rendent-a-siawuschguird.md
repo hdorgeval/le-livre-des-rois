@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 393
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Guiv et Keï Khosrou se rendent à Siawuschguird | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '134'
 ---
