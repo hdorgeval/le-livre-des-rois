@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 302
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+title: 'Ardeschir abandonne le gouvernement à Schapour | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
 ---
