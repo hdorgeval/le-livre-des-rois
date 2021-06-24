@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 182
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Soudabeh complote avec une magicienne | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '066'
 ---
