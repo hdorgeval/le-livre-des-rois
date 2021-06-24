@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 276
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+title: "Ardeschir se fait prédire son sort par Keïd l'Indien | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '005'
 ---
