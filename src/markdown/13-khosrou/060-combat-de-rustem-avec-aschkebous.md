@@ -5,6 +5,7 @@ image: 'ec6E029hwMo.jpeg'
 source: tome III - livre des rois - P. 095
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Combat de Rustem avec Aschkebous | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
