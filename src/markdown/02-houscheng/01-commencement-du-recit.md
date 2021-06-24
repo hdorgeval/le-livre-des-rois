@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 025
 reign: 'Houscheng'
 reign-slug: 'regne-de-houscheng'
+title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['Dieu', 'Houscheng']
 order: '001'
 ---
