@@ -5,6 +5,7 @@ image: 'Jxa5WMuFn78.jpeg'
 source: tome II - livre des rois - P. 518
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Bahram fait prisonnier Keboudeh | Le Livre des Rois | Shâhnâmeh'
 tags: ['Afrasiab', 'Bahram', 'Div', 'Guirauguird', 'Iraniens', 'Keboudeh', 'Sipehbed', 'Tejaou']
 order: '024'
 ---
