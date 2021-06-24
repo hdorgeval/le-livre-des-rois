@@ -5,6 +5,7 @@ image: 'OwqLxCvoVxI.jpeg'
 source: tome III - livre des rois - P. 088
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Les deux armées se rangent en bataille | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
