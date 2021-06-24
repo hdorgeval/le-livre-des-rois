@@ -5,6 +5,7 @@ image: 'USBmmRQNutE.jpeg'
 source: tome II - Vie de Zoroastre - P. 19 (P.159) - Zend-Avesta - Anquetil du Perron
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: "Zoroastre se rend auprès d'Ormuzd | Le Livre des Rois | Shâhnâmeh"
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b85930155/f1.item.r=carte%20perse.zoom'
 tags:
   [
