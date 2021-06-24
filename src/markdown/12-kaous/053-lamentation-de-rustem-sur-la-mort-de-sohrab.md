@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 141
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Lamentation de Rustem sur la mort de Sohrab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '053'
 ---
