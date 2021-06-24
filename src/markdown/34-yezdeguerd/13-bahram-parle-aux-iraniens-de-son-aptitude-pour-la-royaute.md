@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 432
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+title: 'Bahram parle aux Iraniens de son aptitude pour la royauté | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '013'
 ---
