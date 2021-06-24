@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 218
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Sam consulte les Mobeds relativement à Zal | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Créateur',
