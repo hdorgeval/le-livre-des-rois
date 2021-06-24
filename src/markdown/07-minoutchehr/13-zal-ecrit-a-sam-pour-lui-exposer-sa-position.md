@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 214
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Zal écrit à Sam pour lui exposer sa position | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Aderguschasp',
