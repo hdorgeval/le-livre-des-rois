@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 259
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+title: "Ardeschir tue le ver d'Heftwad | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '016'
 ---
