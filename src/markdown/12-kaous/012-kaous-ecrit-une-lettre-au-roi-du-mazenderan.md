@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 430
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Kaous écrit une lettre au roi du Mazenderan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
 ---
