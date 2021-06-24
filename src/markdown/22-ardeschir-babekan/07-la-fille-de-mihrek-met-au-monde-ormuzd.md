@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 282
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+title: 'La fille de Mihrek met au monde Ormuzd, fils de Schapour | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
 ---
