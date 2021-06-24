@@ -5,6 +5,7 @@ image: 'kpmXIrzrXKE.jpeg'
 source: tome III - livre des rois - P. 128
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Les Touraniens tiennent conseil | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Afrasiab',
