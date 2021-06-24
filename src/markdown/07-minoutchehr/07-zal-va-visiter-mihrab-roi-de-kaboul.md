@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 188
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Zal va visiter Mihrab, roi de Kaboul | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
