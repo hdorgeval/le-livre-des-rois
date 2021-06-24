@@ -5,6 +5,7 @@ image: 'tNhsb1k1jkE.jpeg'
 source: tome II - livre des rois - P. 555
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Guiv met à mort Tejaou | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Bahram', 'Bijen', 'Chine', 'Dieu', 'Guiv', 'Iraniens', 'Piran', 'Roum', 'Tejaou']
 order: '033'
 ---
