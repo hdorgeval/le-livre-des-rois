@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 225
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Schirouïeh, fils de Khosrou, nait sous de mauvais auspices | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '054'
 ---
