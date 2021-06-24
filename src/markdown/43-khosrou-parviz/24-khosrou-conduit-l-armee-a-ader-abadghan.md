@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 111
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: "Khosrou conduit l'armée à Ader Abadghan | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '024'
 ---
