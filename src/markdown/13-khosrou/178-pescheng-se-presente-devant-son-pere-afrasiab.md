@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 026
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Pescheng se présente de son père Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '178'
 ---
