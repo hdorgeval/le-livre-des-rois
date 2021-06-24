@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 204
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: 'Gustehem se révolte contre Khosrou et épouse Gordieh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '048'
 ---
