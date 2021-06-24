@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 139
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+title: "Bahram Djoubineh s'enfuit auprès du Khakan de la Chine | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '029'
 ---
