@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 468
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: "Hormuzd nomme Bahram Djoubineh Pehlewan de l'armée | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '009'
 ---
