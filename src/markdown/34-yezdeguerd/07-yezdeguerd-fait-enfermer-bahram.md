@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 413
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+title: 'Yezdeguerd fait enfermer Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
 ---
