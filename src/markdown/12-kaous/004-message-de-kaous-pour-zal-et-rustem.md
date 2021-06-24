@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 400
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Message de Kaous pour Zal et pour Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
 ---
