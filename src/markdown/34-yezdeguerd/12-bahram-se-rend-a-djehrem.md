@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 427
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+title: 'Bahram se rend à Djehrem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
 ---
