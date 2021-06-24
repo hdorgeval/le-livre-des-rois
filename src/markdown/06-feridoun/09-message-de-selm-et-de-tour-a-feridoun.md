@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 108
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: 'Message de Selm et de Tour à Feridoun | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Chine',
