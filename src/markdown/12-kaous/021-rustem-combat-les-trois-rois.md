@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 21
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Rustem combat les trois rois et délivre Kaous de prison | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '021'
 ---
