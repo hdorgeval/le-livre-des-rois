@@ -5,6 +5,7 @@ image: 'Mw00TR34O2c.jpeg'
 source: tome II - livre des rois - P. 455
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Keï Khosrou passe en revue les Pehlewans | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Barteh',
