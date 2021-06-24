@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 045
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: 'Les Iraniens vont au-devant de Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '040'
 ---
