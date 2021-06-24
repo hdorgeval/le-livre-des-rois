@@ -5,6 +5,7 @@ image: 'JOzv_pAkcMk.jpeg'
 source: tome IV - livre des rois - P. 269
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: 'Lettre du Kaisar à Ilias, à qui il demande un tribut | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Ahren',
