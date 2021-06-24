@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 101
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+title: "Feridoun met ses fils à l'épreuve | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'âme',
