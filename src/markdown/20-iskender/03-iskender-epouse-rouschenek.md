@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 086
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: 'Iskender épouse Rouschenek | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
 ---
