@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 265
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+title: 'Ardeschir monte sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags: ['Ardeschir', 'Baghdad', 'Guschtasp']
 order: '001'
 ---
