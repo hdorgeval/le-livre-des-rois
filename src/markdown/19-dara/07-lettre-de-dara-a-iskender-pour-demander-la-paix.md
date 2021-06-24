@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 065
 reign: 'Dara'
 reign-slug: 'regne-de-dara'
+title: 'Lettre de Dara à Iskender pour demander la paix | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
 ---
