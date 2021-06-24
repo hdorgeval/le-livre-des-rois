@@ -5,7 +5,7 @@ import React from 'react';
 export default () => (
   <Layout>
     <SEO
-      title="Le Livre des Rois - Shâhnâmeh"
+      title="A propos | Le Livre des Rois | Shâhnâmeh"
       contentType="website"
       description="A propos du Livre des Rois"
     />

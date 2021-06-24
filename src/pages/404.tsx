@@ -6,7 +6,7 @@ import { Link } from 'gatsby';
 export default () => (
   <Layout>
     <SEO
-      title="Le Livre des Rois - Shâhnâmeh"
+      title="Page inconnue | Le Livre des Rois | Shâhnâmeh"
       contentType="website"
       description="La page que vous cherchez n'existe pas"
     />

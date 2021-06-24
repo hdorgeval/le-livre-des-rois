@@ -4,7 +4,11 @@ import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
-    <SEO title="Le Livre des Rois - Shâhnâmeh" contentType="website" description="Règne de Nersi" />
+    <SEO
+      title="Règne de Nersi | Le Livre des Rois | Shâhnâmeh"
+      contentType="website"
+      description="Règne de Nersi"
+    />
 
     <div>
       <Title text="Règne de Nersi" subtitle="Son règne dura 9 ans." />
