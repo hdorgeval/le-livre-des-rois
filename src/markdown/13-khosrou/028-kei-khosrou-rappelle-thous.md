@@ -5,6 +5,7 @@ image: 'MRYZ2EAFJCk.jpeg'
 source: tome II - livre des rois - P. 531
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Keï Khosrou rappelle Thous | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
