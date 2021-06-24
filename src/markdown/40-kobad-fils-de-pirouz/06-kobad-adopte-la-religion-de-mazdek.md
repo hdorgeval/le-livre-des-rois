@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 109
 reign: 'Kobad fils de Pirouz'
 reign-slug: 'regne-de-kobad-fils-de-pirouz'
+title: 'Kobad adopte la religion de Mazdek | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '006'
 ---
