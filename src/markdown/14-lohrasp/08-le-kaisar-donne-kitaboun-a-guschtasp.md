@@ -5,6 +5,7 @@ image: '3z8kVEYCYxY.jpeg'
 source: tome IV - livre des rois - P. 241
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: 'Le Kaisar donne Kitaboun à Guschtasp | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Créateur', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun']
 order: '08'
 ---
