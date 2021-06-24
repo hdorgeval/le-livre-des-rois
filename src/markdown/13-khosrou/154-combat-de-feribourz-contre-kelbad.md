@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 454
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Combat de Feribourz contre Kelbad | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '154'
 ---
