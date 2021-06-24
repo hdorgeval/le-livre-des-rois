@@ -5,6 +5,7 @@ image: 'sZO_aniGp6U.jpeg'
 source: tome IV - livre des rois - P. 327
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: 'Zerir est tué par Bidirefsch | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
   [
