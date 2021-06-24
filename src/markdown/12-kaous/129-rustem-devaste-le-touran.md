@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 376
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Rustem dévaste le Touran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '129'
 ---
