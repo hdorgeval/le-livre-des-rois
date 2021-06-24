@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 174
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: 'Iskender converse avec les oiseaux | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '029'
 ---
