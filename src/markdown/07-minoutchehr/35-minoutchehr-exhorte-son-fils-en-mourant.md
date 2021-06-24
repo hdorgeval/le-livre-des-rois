@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 298
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+title: 'Minoutchehr exhorte son fils en mourant | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Dieu',
