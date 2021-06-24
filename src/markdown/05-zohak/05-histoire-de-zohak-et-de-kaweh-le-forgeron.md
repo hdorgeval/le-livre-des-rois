@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 061
 reign: 'Zohak'
 reign-slug: 'regne-de-zohak'
+title: 'Histoire de Zohak et de Kaweh le forgeron | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Ahriman',
