@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 153
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: 'Histoire de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '056'
 ---
