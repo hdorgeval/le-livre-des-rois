@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 021
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+title: 'Bahram combat un lutteur à la cour de Schenguil | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '032'
 ---
