@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 134
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Bataille entre Keï Khosrou et le roi du Mekran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '208'
 ---
