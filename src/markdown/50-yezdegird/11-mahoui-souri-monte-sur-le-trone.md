@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 398
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+title: 'Mahouï Souri monte sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '011'
 ---
