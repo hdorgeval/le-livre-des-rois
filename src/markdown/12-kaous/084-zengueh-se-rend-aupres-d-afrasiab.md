@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 234
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: "Zengueh se rend auprès d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '084'
 ---
