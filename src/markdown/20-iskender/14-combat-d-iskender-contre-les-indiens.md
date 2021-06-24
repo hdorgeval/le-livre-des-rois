@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 120
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: "Combat d'Iskender contre les indiens et mort de Four | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '014'
 ---
