@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 460
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+title: 'Hormuzd appelle Bahram Djoubineh auprès de lui | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
 ---
