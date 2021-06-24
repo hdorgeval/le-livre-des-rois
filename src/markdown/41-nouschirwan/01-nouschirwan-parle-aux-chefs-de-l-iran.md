@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 123
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: "Nouschirwan parle aux chefs de l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: ['âme', 'Créateur', 'Destour', 'Dieu', 'Iran', 'Iranien', 'Kesra', 'Nouschirwan', 'Seigneur']
 order: '001'
 ---
