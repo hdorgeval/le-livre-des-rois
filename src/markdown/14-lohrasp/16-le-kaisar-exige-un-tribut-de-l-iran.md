@@ -5,6 +5,7 @@ image: '9yvADFNcXOc.jpeg'
 source: tome IV - livre des rois - P. 274
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: "Le Kaisar exige de Guschtasp un tribut pour l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'Farrukhzad',
