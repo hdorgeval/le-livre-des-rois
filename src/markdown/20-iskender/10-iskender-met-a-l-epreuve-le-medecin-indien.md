@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 108
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+title: "Iskender met à l'épreuve le médecin indien | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '010'
 ---
