@@ -5,6 +5,7 @@ image: 'eYJ5yxMJuB4.jpeg'
 source: tome IV - livre des rois - P. 309
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+title: "Djamasp dévoile à Guschtasp l'issue de la bataille | Le Livre des Rois | Shâhnâmeh"
 map: ''
 tags:
   [
