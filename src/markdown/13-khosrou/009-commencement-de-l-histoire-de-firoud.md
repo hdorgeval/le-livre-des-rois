@@ -5,6 +5,7 @@ image: 'pxFtN74Djb4.jpeg'
 source: tome II - livre des rois - P. 472
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Commencement de l'histoire de Firoud fils de Siawusch | Le Livre des Rois | Shâhnâmeh"
 tags: ['âme', 'Firoud', 'Siawusch']
 order: '009'
 ---
