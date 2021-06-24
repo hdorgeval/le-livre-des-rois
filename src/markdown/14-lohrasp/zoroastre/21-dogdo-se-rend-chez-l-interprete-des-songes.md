@@ -5,6 +5,7 @@ image: 'ohx4v80mJm8.jpeg'
 source: tome II - Vie de Zoroastre - P. 12 (P.152) - Zend-Avesta - Anquetil du Perron
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+title: "Dogdo se rend chez l'interprète des songes | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'âme',
