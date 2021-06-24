@@ -5,6 +5,7 @@ image: 'moK7ZiiquG8.jpeg'
 source: tome III - livre des rois - P. 040
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Les Iraniens font une attaque de nuit | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Bijen',
