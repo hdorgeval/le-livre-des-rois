@@ -5,6 +5,7 @@ image: 'UkO87bTCVac.jpeg'
 source: tome III - livre des rois - P. 210
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Rustem revient à la cour du roi | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '090'
 ---
