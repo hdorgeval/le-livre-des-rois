@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 324
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+title: 'Gau et Thalhend se disputent le trône | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '047'
 ---
