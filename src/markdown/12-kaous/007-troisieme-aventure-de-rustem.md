@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 409
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: '3ème aventure -Rustem combat un dragon | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
 ---
