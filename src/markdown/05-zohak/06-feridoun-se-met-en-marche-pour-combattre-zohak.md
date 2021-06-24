@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 068
 reign: 'Zohak'
 reign-slug: 'regne-de-zohak'
+title: 'Feridoun se met en marche pour combattre Zohak | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Ahriman',
