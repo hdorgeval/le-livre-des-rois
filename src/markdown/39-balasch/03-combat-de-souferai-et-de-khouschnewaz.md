@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 087
 reign: 'Balasch fils de Pirouz'
 reign-slug: 'regne-de-balasch'
+title: 'Combat de Souferaï et de Khouschnewaz | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
 ---
