@@ -5,6 +5,7 @@ image: 'd5TBzrddHMk.jpeg'
 source: tome III - livre des rois - P. 105
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Kamous tue Alwa | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Alwa',
