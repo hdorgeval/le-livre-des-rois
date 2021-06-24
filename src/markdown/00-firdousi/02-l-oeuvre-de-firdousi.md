@@ -5,6 +5,7 @@ image: '20XFiqpMN50.jpeg'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
 reign: 'Firdousi'
 reign-slug: 'about'
+title: "L'œuvre de Firdousi | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
     'Ardéchir',
