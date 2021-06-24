@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 314
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: "Rustem attaque de nuit le palais d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '121'
 ---
