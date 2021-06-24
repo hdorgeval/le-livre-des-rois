@@ -5,6 +5,7 @@ image: '-wk6BuXySW0.jpeg'
 source: tome II - livre des rois - P. 538
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Les Iraniens sont de nouveau battus par les Turcs | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Aderguschasp',
