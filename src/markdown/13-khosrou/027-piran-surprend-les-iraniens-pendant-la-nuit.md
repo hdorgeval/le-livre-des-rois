@@ -5,6 +5,7 @@ image: 'uSQKwRQTjPQ.jpeg'
 source: tome II - livre des rois - P. 527
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+title: 'Piran surprend les iraniens pendant la nuit | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'Anbouh',
