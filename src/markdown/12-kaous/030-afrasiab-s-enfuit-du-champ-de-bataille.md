@@ -5,6 +5,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 52
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+title: "Afrasiab s'enfuit du champ de bataille | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '030'
 ---
