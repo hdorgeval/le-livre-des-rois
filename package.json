@@ -38,6 +38,8 @@
     "gatsby-image": "3.7.1",
     "gatsby-plugin-google-analytics": "3.7.1",
     "gatsby-plugin-image": "1.7.1",
+    "gatsby-plugin-manifest": "3.8.0",
+    "gatsby-plugin-offline": "4.8.0",
     "gatsby-plugin-postcss": "4.7.1",
     "gatsby-plugin-react-helmet": "4.7.1",
     "gatsby-plugin-robots-txt": "1.6.2",
