@@ -22,6 +22,30 @@ module.exports = {
       },
     },
     {
+      resolve: 'gatsby-plugin-manifest',
+      options: {
+        name: 'Le livre des Rois',
+        short_name: 'Shâhnâmeh',
+        start_url: '/',
+        display: 'standalone',
+        lang: 'fr',
+        icon: `src/images/icon.svg`,
+        theme_color_in_head: false,
+        cache_busting_mode: 'none',
+        icon_options: {
+          purpose: `any maskable`,
+        },
+      },
+    },
+    {
+      resolve: 'gatsby-plugin-offline',
+      options: {
+        workboxConfig: {
+          globPatterns: ['**/icon*'],
+        },
+      },
+    },
+    {
       resolve: `gatsby-transformer-remark`,
       options: {
         plugins: [
