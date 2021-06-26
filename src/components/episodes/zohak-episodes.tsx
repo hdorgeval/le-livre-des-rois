@@ -11,30 +11,7 @@ export const ZohakEpisodes: React.FC = () => {
       allMarkdownRemark(
         sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/05-zohak/**/*.md"}, frontmatter: {order: {}}}
       ) {
-        edges {
-          node {
-            excerpt(truncate: true, pruneLength: 200)
-            frontmatter {
-              date
-              image
-              tags
-            }
-            id
-            timeToRead
-            headings {
-              value
-              depth
-            }
-            wordCount {
-              words
-              paragraphs
-              sentences
-            }
-            fields {
-              slug
-            }
-          }
-        }
+        ...Episodes
       }
     }
   `);
