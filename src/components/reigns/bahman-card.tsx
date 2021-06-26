@@ -1,3 +1,4 @@
+import { ReignCard } from './reign-card';
 import { AllMarkdownRemarkResponse } from '../../graphql';
 import React from 'react';
 import { graphql, Link, useStaticQuery } from 'gatsby';
@@ -19,24 +20,13 @@ export const BahmanCard: React.FC = () => {
       }
     }
   `);
-
-  const totalNumberOfEpsiodes = data.allMarkdownRemark.totalCount;
-
   return (
-    <Link className="nav-link" to="/regne-de-bahman/" aria-label="Règne de Bahman">
-      <div className="card text-center bg-dark text-white border-secondary">
-        <div className="card-header pb-0">
-          <h5 className="card-title">Bahman</h5>
-        </div>
-        <div className="card-body card-text">
-          <blockquote className="blockquote mb-0">
-            <p className="text-secondary">Son règne dura 99 ans.</p>
-          </blockquote>
-        </div>
-        <div className="card-footer text-muted">
-          <span>{`${totalNumberOfEpsiodes} épisode${totalNumberOfEpsiodes > 1 ? 's' : ''}`}</span>
-        </div>
-      </div>
-    </Link>
+    <ReignCard
+      data={data}
+      reignSlug="regne-de-bahman"
+      reignTitle="Règne de Bahman"
+      cardTitle="Bahman"
+      cardBody="Son règne dura 99 ans."
+    />
   );
 };
