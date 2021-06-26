@@ -26,9 +26,6 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
             }
           }
         }
-        pageInfo {
-          totalCount
-        }
       }
     }
   `);

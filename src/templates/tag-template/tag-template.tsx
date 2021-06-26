@@ -1,7 +1,6 @@
 import { EpisodeCard } from './episode-card-with-reign';
 import { Layout, SEO, Title } from '../../components';
 import { AllMarkdownRemarkResponse, PageContext } from '../../graphql';
-import { toMinutes } from '../../tools';
 import { TagDescription } from '../../components/tag-description/tag-description';
 import React from 'react';
 import { graphql } from 'gatsby';
@@ -28,12 +27,6 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
         <div>
           {data.allMarkdownRemark.edges
             .map((nodeWrapper) => nodeWrapper.node)
-            .map((node) => {
-              return {
-                ...node,
-                timeToRead: toMinutes(node.timeToRead * 2),
-              };
-            })
             .map((node) => (
               <EpisodeCard {...node} key={node.id} index={Number(node.frontmatter.order)} />
             ))}
@@ -53,7 +46,6 @@ export const query = graphql`
         frontmatter: { tags: { in: [$tag] } }
       }
     ) {
-      totalCount
       edges {
         node {
           excerpt(truncate: true, pruneLength: 120)
@@ -61,22 +53,13 @@ export const query = graphql`
             slug
           }
           frontmatter {
-            image
-            title
-            tags
             order
             reign
           }
           id
-          timeToRead
           headings {
             value
             depth
-          }
-          wordCount {
-            words
-            paragraphs
-            sentences
           }
         }
       }
