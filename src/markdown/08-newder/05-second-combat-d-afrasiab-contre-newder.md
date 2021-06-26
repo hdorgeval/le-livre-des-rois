@@ -6,7 +6,26 @@ source: tome I - livre des rois - P. 318
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
 title: "Second combat d'Afrasiab contre Newder | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Alborz',
+    'âme',
+    'Chine',
+    'Fars',
+    'Feridoun',
+    'Iran',
+    'Iraniens',
+    'Isfahan',
+    'Karen',
+    'Kustehem',
+    'Newder',
+    'Pescheng',
+    'Reï',
+    'Thous',
+    'Turcs',
+    'Zaweh',
+  ]
 order: '005'
 ---
 
