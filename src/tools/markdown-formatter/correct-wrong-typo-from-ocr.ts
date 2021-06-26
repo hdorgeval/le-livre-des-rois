@@ -309,6 +309,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ honheur/g, ' bonheur'),
     (content: string) => content.replace(/sur aux /g, 'sur eux '),
     (content: string) => content.replace(/ la lit /g, ' la fit '),
+    (content: string) => content.replace(/aflliction/g, 'affliction'),
+    (content: string) => content.replace(/ e /g, ' '),
   ].forEach((format) => {
     result = format(result);
   });
