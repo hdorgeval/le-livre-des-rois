@@ -52,65 +52,66 @@ import {
 } from '.';
 import React from 'react';
 
-const orderedCards = [
-  KaioumorsCard,
-  HouschengCard,
-  ThahmourasCard,
-  DjemschidCard,
-  ZohakCard,
-  FeridounCard,
-  MinoutchehrCard,
-  NewderCard,
-  ZewCard,
-  GuerschaspCard,
-  KobadCard,
-  KaousCard,
-  KhosrouCard,
-  LohraspCard,
-  GuschtaspCard,
-  BahmanCard,
-  HomaiCard,
-  DarabCard,
-  DaraCard,
-  IskenderCard,
-  AschkanidesCard,
-  ArdeschirBabekanCard,
-  SchapourCard,
-  OrmuzdCard,
-  BahramSonOfOrmuzdCard,
-  BahramSonOfBahramCard,
-  BahramBahramianCard,
-  NersiCard,
-  OrmuzdSonOfNersiCard,
-  SchapourDhoulAktafCard,
-  ArdeschirLeBonCard,
-  SchapourSonOfSchapourCard,
-  BahramSonOfSchapourCard,
-  YezdeguerdCard,
-  BahramGourCard,
-  YezdeguerdSonOfBahramCard,
-  HormuzCard,
-  PirouzCard,
-  BalaschCard,
-  KobadSonOfPirouzCard,
-  NouschirwanCard,
-  HormuzdCard,
-  KhosrouParvizCard,
-  KobadSonOfParvizCard,
-  ArdeschirSonOfSchirouiCard,
-  GurazCard,
-  PourandokhtCard,
-  AzermidokhtCard,
-  FarrukhzadCard,
-  YezdegirdCard,
-];
-
-export const ReignCards: React.FC = () => (
-  <div className="row">
-    {orderedCards.map((Card, index) => (
-      <div className="col-sm-6 col-lg-3" key={index}>
-        <Card />
-      </div>
-    ))}
-  </div>
-);
+export const ReignCards: React.FC = () => {
+  const orderedCards = [
+    KaioumorsCard,
+    HouschengCard,
+    ThahmourasCard,
+    DjemschidCard,
+    ZohakCard,
+    FeridounCard,
+    MinoutchehrCard,
+    NewderCard,
+    ZewCard,
+    GuerschaspCard,
+    KobadCard,
+    KaousCard,
+    KhosrouCard,
+    LohraspCard,
+    GuschtaspCard,
+    BahmanCard,
+    HomaiCard,
+    DarabCard,
+    DaraCard,
+    IskenderCard,
+    AschkanidesCard,
+    ArdeschirBabekanCard,
+    SchapourCard,
+    OrmuzdCard,
+    BahramSonOfOrmuzdCard,
+    BahramSonOfBahramCard,
+    BahramBahramianCard,
+    NersiCard,
+    OrmuzdSonOfNersiCard,
+    SchapourDhoulAktafCard,
+    ArdeschirLeBonCard,
+    SchapourSonOfSchapourCard,
+    BahramSonOfSchapourCard,
+    YezdeguerdCard,
+    BahramGourCard,
+    YezdeguerdSonOfBahramCard,
+    HormuzCard,
+    PirouzCard,
+    BalaschCard,
+    KobadSonOfPirouzCard,
+    NouschirwanCard,
+    HormuzdCard,
+    KhosrouParvizCard,
+    KobadSonOfParvizCard,
+    ArdeschirSonOfSchirouiCard,
+    GurazCard,
+    PourandokhtCard,
+    AzermidokhtCard,
+    FarrukhzadCard,
+    YezdegirdCard,
+  ];
+  return (
+    <div className="row">
+      {orderedCards.map((Card, index) => (
+        <div className="col-sm-6 col-lg-3" key={index}>
+          <Card />
+        </div>
+      ))}
+    </div>
+  );
+};
