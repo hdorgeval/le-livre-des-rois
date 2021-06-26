@@ -6,7 +6,31 @@ source: tome I - livre des rois - P. 313
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
 title: 'Combat de Kobad et Barman et mort de Kobad | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Aderguschasp',
+    'Afrasiab',
+    'Aghrirez',
+    'âme',
+    'âmes',
+    'Barman',
+    'Chine',
+    'Dehistan',
+    'Dieu',
+    'Feridoun',
+    'Guersiwez',
+    'Iredj',
+    'Karen',
+    'Kaweh',
+    'Kobad',
+    'Mets',
+    'Minoutchehr',
+    'Newder',
+    'Pescheng',
+    'Sam',
+    'Touraniens',
+    'Turc',
+  ]
 order: '004'
 ---
 
