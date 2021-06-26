@@ -5,21 +5,10 @@ export const EpisodesFragment = graphql`
     edges {
       node {
         excerpt(truncate: true, pruneLength: 200)
-        frontmatter {
-          date
-          image
-          tags
-        }
         id
-        timeToRead
         headings {
           value
           depth
-        }
-        wordCount {
-          words
-          paragraphs
-          sentences
         }
         fields {
           slug

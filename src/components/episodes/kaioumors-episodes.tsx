@@ -1,6 +1,5 @@
 import { EpisodeCard } from '.';
 import { AllMarkdownRemarkResponse } from '../../graphql';
-import { toMinutes } from '../../tools';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
@@ -20,12 +19,6 @@ export const KaioumorsEpisodes: React.FC = () => {
     <>
       {data.allMarkdownRemark.edges
         .map((nodeWrapper) => nodeWrapper.node)
-        .map((node) => {
-          return {
-            ...node,
-            timeToRead: toMinutes(node.timeToRead * 2),
-          };
-        })
         .map((node, index) => {
           return <EpisodeCard key={node.id} {...node} index={index} />;
         })}
