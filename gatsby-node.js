@@ -147,7 +147,6 @@ async function createAllTagPages(graphql, actions) {
       allMarkdownRemark {
         group(field: frontmatter___tags) {
           fieldValue
-          totalCount
         }
       }
     }
