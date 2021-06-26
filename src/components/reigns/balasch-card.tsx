@@ -10,12 +10,6 @@ export const BalaschCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/39-balasch/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

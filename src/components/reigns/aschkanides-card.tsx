@@ -11,12 +11,6 @@ export const AschkanidesCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/21-aschkanides/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

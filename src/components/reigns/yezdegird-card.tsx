@@ -10,12 +10,6 @@ export const YezdegirdCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/50-yezdegird/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

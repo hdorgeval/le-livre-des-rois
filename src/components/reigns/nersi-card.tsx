@@ -10,12 +10,6 @@ export const NersiCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/28-nersi/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

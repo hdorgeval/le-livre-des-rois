@@ -10,12 +10,6 @@ export const IskenderCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/20-iskender/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

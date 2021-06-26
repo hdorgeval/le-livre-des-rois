@@ -10,12 +10,6 @@ export const KhosrouParvizCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/43-khosrou-parviz/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

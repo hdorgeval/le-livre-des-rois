@@ -10,12 +10,6 @@ export const ZohakCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/05-zohak/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

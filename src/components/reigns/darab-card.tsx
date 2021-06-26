@@ -10,12 +10,6 @@ export const DarabCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/18-darab/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

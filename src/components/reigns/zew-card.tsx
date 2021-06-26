@@ -10,12 +10,6 @@ export const ZewCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/09-zew/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

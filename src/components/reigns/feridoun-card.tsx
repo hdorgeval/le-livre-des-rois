@@ -10,12 +10,6 @@ export const FeridounCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/06-feridoun/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

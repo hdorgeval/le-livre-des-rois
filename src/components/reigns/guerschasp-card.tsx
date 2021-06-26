@@ -10,12 +10,6 @@ export const GuerschaspCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/10-guerschasp/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

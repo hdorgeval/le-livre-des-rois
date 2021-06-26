@@ -10,12 +10,6 @@ export const PirouzCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/38-pirouz/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

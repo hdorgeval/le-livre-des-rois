@@ -10,12 +10,6 @@ export const HormuzdCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/42-hormuzd/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

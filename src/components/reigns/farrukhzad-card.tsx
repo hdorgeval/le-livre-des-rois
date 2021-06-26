@@ -10,12 +10,6 @@ export const FarrukhzadCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/49-farrukhzad/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

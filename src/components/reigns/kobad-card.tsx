@@ -10,12 +10,6 @@ export const KobadCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/11-kobad/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

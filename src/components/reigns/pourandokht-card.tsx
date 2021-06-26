@@ -10,12 +10,6 @@ export const PourandokhtCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/47-pourandokht/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

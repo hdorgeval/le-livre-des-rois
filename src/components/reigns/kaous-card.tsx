@@ -10,12 +10,6 @@ export const KaousCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/12-kaous/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

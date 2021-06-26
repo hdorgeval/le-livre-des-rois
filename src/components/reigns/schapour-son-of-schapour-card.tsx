@@ -10,12 +10,6 @@ export const SchapourSonOfSchapourCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/32-schapour-fils-de-schapour/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

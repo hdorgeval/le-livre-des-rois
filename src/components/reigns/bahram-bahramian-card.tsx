@@ -10,12 +10,6 @@ export const BahramBahramianCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/27-bahram-bahramian/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

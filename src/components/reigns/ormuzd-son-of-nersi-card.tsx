@@ -10,12 +10,6 @@ export const OrmuzdSonOfNersiCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/29-ormuzd-fils-de-nersi/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

@@ -10,12 +10,6 @@ export const DaraCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/19-dara/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

@@ -10,12 +10,6 @@ export const GuschtaspCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/15-guschtasp/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

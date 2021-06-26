@@ -10,12 +10,6 @@ export const MinoutchehrCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/07-minoutchehr/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

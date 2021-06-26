@@ -11,12 +11,6 @@ export const ArdeschirSonOfSchirouiCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/45-ardeschir-fils-de-schiroui/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

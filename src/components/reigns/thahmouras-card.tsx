@@ -10,12 +10,6 @@ export const ThahmourasCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/03-thamouras/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

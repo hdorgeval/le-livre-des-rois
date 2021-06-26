@@ -10,12 +10,6 @@ export const GurazCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/46-guraz/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

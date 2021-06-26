@@ -10,12 +10,6 @@ export const KhosrouCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/13-khosrou/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

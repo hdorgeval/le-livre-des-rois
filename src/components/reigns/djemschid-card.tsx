@@ -10,12 +10,6 @@ export const DjemschidCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/04-djemschid/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

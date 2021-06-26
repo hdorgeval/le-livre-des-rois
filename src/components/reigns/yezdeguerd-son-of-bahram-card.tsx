@@ -10,12 +10,6 @@ export const YezdeguerdSonOfBahramCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/36-yezdeguerd-fils-de-bahram/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

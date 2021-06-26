@@ -10,12 +10,6 @@ export const LohraspCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/14-lohrasp/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

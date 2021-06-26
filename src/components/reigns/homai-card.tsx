@@ -10,12 +10,6 @@ export const HomaiCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/17-homai/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

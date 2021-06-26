@@ -11,12 +11,6 @@ export const AzermidokhtCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/48-azermidokht/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

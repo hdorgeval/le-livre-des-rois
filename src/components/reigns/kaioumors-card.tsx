@@ -10,12 +10,6 @@ export const KaioumorsCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/01-kaioumors/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

@@ -11,12 +11,6 @@ export const ArdeschirLeBonCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/31-ardeschir-le-bon/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

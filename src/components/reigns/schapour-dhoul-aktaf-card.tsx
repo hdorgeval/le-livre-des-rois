@@ -10,12 +10,6 @@ export const SchapourDhoulAktafCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/30-schapour-dhoul-aktaf/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

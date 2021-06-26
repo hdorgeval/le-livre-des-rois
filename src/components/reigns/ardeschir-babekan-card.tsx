@@ -11,12 +11,6 @@ export const ArdeschirBabekanCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/22-ardeschir-babekan/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

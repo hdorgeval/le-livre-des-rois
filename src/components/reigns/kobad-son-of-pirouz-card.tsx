@@ -10,12 +10,6 @@ export const KobadSonOfPirouzCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/40-kobad-fils-de-pirouz/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

@@ -11,12 +11,6 @@ export const BahmanCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/16-bahman/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

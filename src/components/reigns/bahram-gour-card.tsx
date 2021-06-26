@@ -10,12 +10,6 @@ export const BahramGourCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/35-bahram-gour/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

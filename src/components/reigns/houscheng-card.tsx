@@ -10,12 +10,6 @@ export const HouschengCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/02-houscheng/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

@@ -10,12 +10,6 @@ export const NouschirwanCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/41-nouschirwan/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);

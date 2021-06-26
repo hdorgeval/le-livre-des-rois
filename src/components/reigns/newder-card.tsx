@@ -10,12 +10,6 @@ export const NewderCard: React.FC = () => {
         filter: { fileAbsolutePath: { glob: "**/markdown/08-newder/**/*.md" } }
       ) {
         totalCount
-        edges {
-          node {
-            id
-            timeToRead
-          }
-        }
       }
     }
   `);
