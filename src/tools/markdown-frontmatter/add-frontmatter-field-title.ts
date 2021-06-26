@@ -3,7 +3,7 @@ import { PathLike, writeFileSync } from 'fs';
 import { EOL } from 'os';
 import path from 'path';
 
-export const addFrontmatterField = async (rootDirectory: PathLike): Promise<void> => {
+export const addFrontmatterField = (rootDirectory: PathLike): void => {
   const directories = getDirectoriesRecursivelyIn(rootDirectory).takeAll();
   directories.push(rootDirectory.toString());
   for (let index = 0; index < directories.length; index++) {
@@ -14,12 +14,12 @@ export const addFrontmatterField = async (rootDirectory: PathLike): Promise<void
       const file = files[index2];
       // eslint-disable-next-line no-console
       console.log(`adding frontmatter field 'title' in '${file}'`);
-      await addFrontmatterFieldIn(file);
+      addFrontmatterFieldIn(file);
     }
   }
 };
 
-export const addFrontmatterFieldIn = async (markdownFile: PathLike) => {
+export const addFrontmatterFieldIn = (markdownFile: PathLike): void => {
   const lines = readAllLinesInFile(markdownFile);
   const lineWithTitle = lines.filter((line) => line.startsWith('# ')).shift();
   if (!lineWithTitle) {
