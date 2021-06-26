@@ -9,6 +9,7 @@ export const Header: React.FC = () => (
         type="button"
         data-bs-toggle="collapse"
         data-bs-target="#responsiveNavBar"
+        aria-label="Ouvrir ou fermer la navigation"
       >
         <span className="navbar-toggler-icon"></span>
       </button>
