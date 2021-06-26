@@ -6,7 +6,36 @@ source: tome I - livre des rois - P. 321
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
 title: "Troisième combat de Newder et d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'âmes',
+    'Barman',
+    'Château-Blanc',
+    'Dehistan',
+    'Dieu',
+    'Fars',
+    'Guezdehem',
+    'Iran',
+    'Iraniens',
+    'Karen',
+    'Keschwad',
+    'Kuroukhan',
+    'Kustehem',
+    'Nestouweh',
+    'Newder',
+    'Schapour',
+    'Schidousch',
+    'Sipehbed',
+    'Teliman',
+    'Thous',
+    'Touran',
+    'Turc',
+    'Turcs',
+    'Turquoises',
+    'Wiseh',
+  ]
 order: '006'
 ---
 
@@ -82,7 +111,7 @@ Le soir ils arrivèrent le cœur découragé à un endroit que l’on appelle le
 
 Karen avait été blessé au cœur par ce dernier et il désirait venger sur lui le sang de son frère.
 
-Il revêtit son armure, ordonna convenablement ce qui concernait son armée et suivi de ses braves il se dirigea droit du côté du pays de Fers.
+Il revêtit son armure, ordonna convenablement ce qui concernait son armée et suivi de ses braves il se dirigea droit du côté du pays de Fars.
 
 Barman le courageux en eut nouvelle et vint au-devant de lui semblable à un lion.
 
