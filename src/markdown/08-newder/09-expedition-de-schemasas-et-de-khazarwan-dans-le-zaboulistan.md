@@ -6,7 +6,27 @@ source: tome I - livre des rois - P. 329
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
 title: 'Expédition de Schemasas et de Khazarwan dans le Zaboulistan | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Arabe',
+    'Arman',
+    'Djihoun',
+    'Gourabeh',
+    'Hirmend',
+    'Khazarwan',
+    'Mihrab',
+    'Pehlewan',
+    'Pehlewans',
+    'Sam',
+    'Schemasas',
+    'Seïstan',
+    'Touran',
+    'Turcs',
+    'Zaboulistan',
+    'Zal',
+    'Zohak',
+  ]
 order: '009'
 ---
 
