@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, DaraEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Dara" subtitle="Son règne dura 14 ans." />
-      <DaraEpisodes />
+      <div className="container">
+        <DaraEpisodes />
+      </div>
     </div>
   </Layout>
 );

@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, AschkanidesEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Dynastie des Aschkanides" subtitle="Sa durée a été de 120 ans." />
-      <AschkanidesEpisodes />
+      <div className="container">
+        <AschkanidesEpisodes />
+      </div>
     </div>
   </Layout>
 );

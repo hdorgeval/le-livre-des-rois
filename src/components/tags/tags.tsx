@@ -102,7 +102,7 @@ export const Tags: React.FC = () => {
 
   return (
     <>
-      <div className="bg-dark text-light input-group mx-auto sticky-top w-75 mb-3">
+      <div className="bg-dark text-light input-group mx-auto sticky-top mb-3">
         <span className="bg-dark input-group-text" id="search-input">
           <i className="bi bi-search text-light"></i>
         </span>

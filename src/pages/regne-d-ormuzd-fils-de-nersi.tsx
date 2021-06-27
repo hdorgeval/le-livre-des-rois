@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, OrmuzdSonOfNersiEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne d'Ormuzd" subtitle="Son règne dura 9 ans." />
-      <OrmuzdSonOfNersiEpisodes />
+      <div className="container">
+        <OrmuzdSonOfNersiEpisodes />
+      </div>
     </div>
   </Layout>
 );

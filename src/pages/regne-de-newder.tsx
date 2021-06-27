@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, NewderEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Newder" subtitle="Son règne dura 7 ans." />
-      <NewderEpisodes />
+      <div className="container">
+        <NewderEpisodes />
+      </div>
     </div>
   </Layout>
 );

@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, Genealogies } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -11,7 +10,7 @@ export default () => (
     />
     <div>
       <Title text="Le Livre des Rois - Shâhnâmeh" subtitle="Généalogies" />
-      <div>
+      <div className="container">
         <Genealogies />
       </div>
     </div>

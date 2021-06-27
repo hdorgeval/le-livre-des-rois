@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, BahmanEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Bahman" subtitle="Son règne dura 99 ans." />
-      <BahmanEpisodes />
+      <div className="container">
+        <BahmanEpisodes />
+      </div>
     </div>
   </Layout>
 );

@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, DarabEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Darab" subtitle="Son règne dura 12 ans." />
-      <DarabEpisodes />
+      <div className="container">
+        <DarabEpisodes />
+      </div>
     </div>
   </Layout>
 );

@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, HouschengEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Houscheng" subtitle="Son règne dura 30 ans." />
-      <HouschengEpisodes />
+      <div className="container">
+        <HouschengEpisodes />
+      </div>
     </div>
   </Layout>
 );

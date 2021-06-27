@@ -20,16 +20,18 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
       />
       <div>
         <Title text={tag} subtitle={''}></Title>
-        <div>
-          <TagDescription tag={tag} />
-        </div>
-        <Title text="" subtitle={`Tous les épisodes faisant référence au terme '${tag}'`}></Title>
-        <div>
-          {data.allMarkdownRemark.edges
-            .map((nodeWrapper) => nodeWrapper.node)
-            .map((node) => (
-              <EpisodeCard {...node} key={node.id} index={Number(node.frontmatter.order)} />
-            ))}
+        <div className="container">
+          <div>
+            <TagDescription tag={tag} />
+          </div>
+          <Title text="" subtitle={`Tous les épisodes faisant référence au terme '${tag}'`}></Title>
+          <div>
+            {data.allMarkdownRemark.edges
+              .map((nodeWrapper) => nodeWrapper.node)
+              .map((node) => (
+                <EpisodeCard {...node} key={node.id} index={Number(node.frontmatter.order)} />
+              ))}
+          </div>
         </div>
       </div>
     </Layout>

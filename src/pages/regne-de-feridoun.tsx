@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, FeridounEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Feridoun" subtitle="Son règne dura 500 ans." />
-      <FeridounEpisodes />
+      <div className="container">
+        <FeridounEpisodes />
+      </div>
     </div>
   </Layout>
 );

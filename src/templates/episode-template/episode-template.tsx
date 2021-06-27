@@ -4,7 +4,6 @@ import React from 'react';
 import { graphql, Link } from 'gatsby';
 import './episode-template.css';
 import { getImage, GatsbyImage } from 'gatsby-plugin-image';
-
 const firstSlug = '/01-kaioumors/01-commencement-du-recit/';
 
 interface MarkdownTemplateProps {
@@ -62,17 +61,22 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
             </h2>
           </div>
           <div className="card-body card-text pb-1">
-            {image && <GatsbyImage image={image} className="card-img mb-4" alt="..."></GatsbyImage>}
-            <div
-              id="episode-content"
-              dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
-            />
-            {pageContext.lastUpdate && (
-              <p className="font-monospace text-muted fs-6 float-end mb-0">
-                <small>Dernière mise à jour : {lastUpdate}</small>
-              </p>
-            )}
+            <div className="container">
+              {image && (
+                <GatsbyImage image={image} className="card-img mb-4" alt="..."></GatsbyImage>
+              )}
+              <div
+                id="episode-content"
+                dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
+              />
+              {pageContext.lastUpdate && (
+                <p className="font-monospace text-muted float-end fs-6">
+                  <small>Dernière mise à jour : {lastUpdate}</small>
+                </p>
+              )}
+            </div>
           </div>
+
           <div className="card-footer">
             <ul className="pagination pagination-lg justify-content-center">
               <li className="page-item w-50">

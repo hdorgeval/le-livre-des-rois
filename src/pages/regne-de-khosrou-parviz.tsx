@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, KhosrouParvizEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Khosrou Parviz" subtitle="Son règne dura 38 ans." />
-      <KhosrouParvizEpisodes />
+      <div className="container">
+        <KhosrouParvizEpisodes />
+      </div>
     </div>
   </Layout>
 );

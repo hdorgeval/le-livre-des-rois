@@ -1,6 +1,5 @@
 import { Layout, Title, SEO, KaioumorsEpisodes } from '../components';
 import React from 'react';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,7 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Kaïoumors" subtitle="Son règne dura 30 ans." />
-      <KaioumorsEpisodes />
+      <div className="container">
+        <KaioumorsEpisodes />
+      </div>
     </div>
   </Layout>
 );
