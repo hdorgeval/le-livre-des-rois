@@ -16,7 +16,7 @@ Wiseh, le chef de l’armée de Touran, se mit en route avec des troupes de gran
 
 Mais avant d’atteindre Karen, il trouva celui qu’il avait aimé, mort et abandonné sur la terre, son drapeau déchiré, ses timbales renversées ; n’ayant pour linceul que des fleurs sauvages, pâle comme la sandaraque et entouré des braves et des héros de l’armée de Touran couchés en grand nombre sur la route autour de lui.
 
-A cet aspect Wiseh se désola ; tu aurais dit que son cœur se fendait dans son angoisse.
+À cet aspect Wiseh se désola ; tu aurais dit que son cœur se fendait dans son angoisse.
 
 Il versa de ses yeux des larmes de pitié et se remit à suivre Karen avec fureur.
 
@@ -32,7 +32,7 @@ Wiseh éleva la voix du centre de son armée, s’écriant :
 
 > La couronne et le trône du pouvoir ont été livrés au vent ; depuis Kanoudji jusqu’aux frontières de Kaboul, jusqu’à Ghaznin et au Zaboulistan, tout est entre nos mains et nous avons placé nos trônes sculptés dans tous les palais.
 >
-> Où pourrais-tu trouver un lieu de repos, maintenant que le roi est notre prisonnier 2?»
+> Où pourrais-tu trouver un lieu de repos, maintenant que le roi est notre prisonnier ?
 
 Karen répondit :
 
@@ -40,7 +40,7 @@ Karen répondit :
 >
 > Je jette mon vêtement dans l’eau qui coule.
 >
-> Je n’ai pas quitté Dehistan par peur, ni par suite d’une querelle ; je suis allé combattre ton fils ; et maintenant que j’ai satisfait mon cœur par la vengeance que j’ai exercée sur lui, je suis prêt à te livrer bataille et à me venger de toi,-’et je te combattrai comme combattent les braves.»
+> Je n’ai pas quitté Dehistan par peur, ni par suite d’une querelle ; je suis allé combattre ton fils ; et maintenant que j’ai satisfait mon cœur par la vengeance que j’ai exercée sur lui, je suis prêt à te livrer bataille et à me venger de toi, et je te combattrai comme combattent les braves.
 
 Ils lancèrent leurs chevaux, le bruit des trompettes s’éleva, la poussière noire monta vers le ciel à droite et à gauche et l’air et la lune s’obscurcirent.
 
