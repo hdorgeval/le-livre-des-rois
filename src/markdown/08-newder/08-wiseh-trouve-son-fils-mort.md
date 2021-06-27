@@ -6,7 +6,21 @@ source: tome I - livre des rois - P. 327
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
 title: 'Wiseh trouve son fils mort | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Dehistan',
+    'Fars',
+    'Ghaznin',
+    'Kaboul',
+    'Kanoudji',
+    'Karen',
+    'Nimrouz',
+    'Touran',
+    'Turcs',
+    'Wiseh',
+    'Zaboulistan',
+  ]
 order: '008'
 ---
 
