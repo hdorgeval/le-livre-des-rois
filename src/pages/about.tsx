@@ -1,5 +1,6 @@
 import { Layout, Title, FirdousiArticles, SEO } from '../components';
 import React from 'react';
+import Container from 'react-bootstrap/Container';
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
@@ -11,7 +12,7 @@ export default () => (
     />
     <div>
       <Title text="A propos du Livre des Rois" subtitle="" />
-      <div className="text-light ms-4 me-4">
+      <Container className="text-light">
         <p>
           L&apos; objectif est de transcrire l&apos;oeuvre de{' '}
           <a
@@ -101,7 +102,7 @@ export default () => (
         </p>
 
         <FirdousiArticles />
-      </div>
+      </Container>
     </div>
   </Layout>
 );

@@ -1,5 +1,6 @@
 import { Layout, Title, SEO, PirouzEpisodes } from '../components';
 import React from 'react';
+import Container from 'react-bootstrap/Container';
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
@@ -12,7 +13,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Pirouz" subtitle="Son règne dura 11 ans." />
-      <PirouzEpisodes />
+      <Container>
+        <PirouzEpisodes />
+      </Container>
     </div>
   </Layout>
 );

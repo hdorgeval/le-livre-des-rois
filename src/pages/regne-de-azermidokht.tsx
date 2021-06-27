@@ -1,5 +1,6 @@
 import { Layout, Title, SEO, AzermidokhtEpisodes } from '../components';
 import React from 'react';
+import Container from 'react-bootstrap/Container';
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
@@ -12,7 +13,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Azermidokht" subtitle="Son règne dura 4 mois." />
-      <AzermidokhtEpisodes />
+      <Container>
+        <AzermidokhtEpisodes />
+      </Container>
     </div>
   </Layout>
 );

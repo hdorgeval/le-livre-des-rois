@@ -1,5 +1,6 @@
 import { Layout, Title, SEO, DjemschidEpisodes } from '../components';
 import React from 'react';
+import Container from 'react-bootstrap/Container';
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
@@ -12,7 +13,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Djemschid" subtitle="Son règne dura 700 ans." />
-      <DjemschidEpisodes />
+      <Container>
+        <DjemschidEpisodes />
+      </Container>
     </div>
   </Layout>
 );

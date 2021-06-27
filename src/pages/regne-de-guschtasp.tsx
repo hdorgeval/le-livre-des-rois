@@ -1,5 +1,6 @@
 import { Layout, Title, SEO, GuschtaspEpisodes } from '../components';
 import React from 'react';
+import Container from 'react-bootstrap/Container';
 
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
@@ -12,7 +13,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Guschtasp" subtitle="Son règne dura 120 ans." />
-      <GuschtaspEpisodes />
+      <Container>
+        <GuschtaspEpisodes />
+      </Container>
     </div>
   </Layout>
 );
