@@ -306,6 +306,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ v /g, ' '),
     (content: string) => content.replace(/ honheur/g, ' bonheur'),
     (content: string) => content.replace(/A cette /g, 'À cette '),
+    (content: string) => content.replace(/A cet /g, 'À cet '),
     (content: string) => content.replace(/ honheur/g, ' bonheur'),
     (content: string) => content.replace(/sur aux /g, 'sur eux '),
     (content: string) => content.replace(/ la lit /g, ' la fit '),

@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/08-newder', 4, 13);
+formatEpisodesIn('src/markdown/08-newder', 8, 13);
