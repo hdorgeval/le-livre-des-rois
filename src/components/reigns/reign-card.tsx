@@ -1,7 +1,6 @@
 import { AllMarkdownRemarkResponse } from '../../graphql';
-import React from 'react';
+import React, { CSSProperties } from 'react';
 import { Link } from 'gatsby';
-import { CSSProperties } from 'react';
 
 const cardStyle: CSSProperties = {
   backgroundImage:

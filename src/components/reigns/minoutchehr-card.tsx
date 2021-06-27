@@ -1,7 +1,7 @@
+import { ReignCard } from './reign-card';
 import { AllMarkdownRemarkResponse } from '../../graphql';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-import { ReignCard } from './reign-card';
 
 export const MinoutchehrCard: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
