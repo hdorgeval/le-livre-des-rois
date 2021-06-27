@@ -19,7 +19,7 @@ export const ReignCard: React.FC<ReignCardProps> = ({
   const totalNumberOfEpsiodes = data.allMarkdownRemark.totalCount;
 
   return (
-    <Link className="nav-link p-0" to={`/${reignSlug}/`} aria-label={reignTitle}>
+    <Link className="nav-link mb-4 p-0" to={`/${reignSlug}/`} aria-label={reignTitle}>
       <div className="card text-center bg-dark text-white border-secondary">
         <div className="card-header pb-0">
           <h3 className="card-title fs-5">{cardTitle}</h3>
