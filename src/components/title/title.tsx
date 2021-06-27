@@ -5,7 +5,7 @@ export interface TitleProps {
   subtitle: string;
 }
 export const Title: React.FC<TitleProps> = ({ text, subtitle }) => (
-  <section className="text-light text-center text-uppercase border-bottom border-bottom-1 border-secondary pb-0 mb-3">
+  <section className="text-light text-center text-uppercase border-bottom border-bottom-1 border-secondary pb-4 pt-2 mb-3">
     <h1>{text}</h1>
     {subtitle && subtitle.length > 0 && <h2 className="text-muted fs-4">{subtitle}</h2>}
   </section>
