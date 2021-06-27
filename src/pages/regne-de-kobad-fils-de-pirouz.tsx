@@ -1,7 +1,5 @@
 import { Layout, Title, SEO, KobadSonOfPirouzEpisodes } from '../components';
 import React from 'react';
-import Container from 'react-bootstrap/Container';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -13,9 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Kobad fils de Pirouz" subtitle="Son règne dura 40 ans." />
-      <Container>
+      <div className="container">
         <KobadSonOfPirouzEpisodes />
-      </Container>
+      </div>
     </div>
   </Layout>
 );

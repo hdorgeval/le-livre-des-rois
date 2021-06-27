@@ -1,7 +1,5 @@
 import { Layout, Title, SEO, ZewEpisodes } from '../components';
 import React from 'react';
-import Container from 'react-bootstrap/Container';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -12,9 +10,9 @@ export default () => (
     />
     <div>
       <Title text="Règne de Zew" subtitle="Son règne dura 5 ans." />
-      <Container>
+      <div className="container">
         <ZewEpisodes />
-      </Container>
+      </div>
     </div>
   </Layout>
 );

@@ -4,8 +4,6 @@ import React from 'react';
 import { graphql, Link } from 'gatsby';
 import './episode-template.css';
 import { getImage, GatsbyImage } from 'gatsby-plugin-image';
-import Container from 'react-bootstrap/Container';
-
 const firstSlug = '/01-kaioumors/01-commencement-du-recit/';
 
 interface MarkdownTemplateProps {
@@ -62,8 +60,8 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
               {hasTitleNote ? <span dangerouslySetInnerHTML={{ __html: note }}></span> : ''}
             </h2>
           </div>
-          <Container>
-            <div className="card-body card-text pb-1">
+          <div className="card-body card-text pb-1">
+            <div className="container">
               {image && (
                 <GatsbyImage image={image} className="card-img mb-4" alt="..."></GatsbyImage>
               )}
@@ -72,38 +70,39 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
                 dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
               />
               {pageContext.lastUpdate && (
-                <p className="font-monospace text-muted fs-6">
+                <p className="font-monospace text-muted float-end fs-6">
                   <small>Dernière mise à jour : {lastUpdate}</small>
                 </p>
               )}
             </div>
-            <div className="card-footer">
-              <ul className="pagination pagination-lg justify-content-center">
-                <li className="page-item w-50">
-                  {pageContext.previousSlug && firstSlug !== pageContext.slug && (
-                    <Link
-                      className="page-link text-center text-light bg-dark"
-                      to={pageContext.previousSlug}
-                      aria-label="épisode précédent"
-                    >
-                      Épisode précédent
-                    </Link>
-                  )}
-                </li>
-                <li className="page-item w-50">
-                  {pageContext.nextSlug && (
-                    <Link
-                      className="page-link text-center text-light bg-dark"
-                      to={pageContext.nextSlug}
-                      aria-label="épisode suivant"
-                    >
-                      Épisode suivant
-                    </Link>
-                  )}
-                </li>
-              </ul>
-            </div>
-          </Container>
+          </div>
+
+          <div className="card-footer">
+            <ul className="pagination pagination-lg justify-content-center">
+              <li className="page-item w-50">
+                {pageContext.previousSlug && firstSlug !== pageContext.slug && (
+                  <Link
+                    className="page-link text-center text-light bg-dark"
+                    to={pageContext.previousSlug}
+                    aria-label="épisode précédent"
+                  >
+                    Épisode précédent
+                  </Link>
+                )}
+              </li>
+              <li className="page-item w-50">
+                {pageContext.nextSlug && (
+                  <Link
+                    className="page-link text-center text-light bg-dark"
+                    to={pageContext.nextSlug}
+                    aria-label="épisode suivant"
+                  >
+                    Épisode suivant
+                  </Link>
+                )}
+              </li>
+            </ul>
+          </div>
         </div>
       </div>
     </Layout>

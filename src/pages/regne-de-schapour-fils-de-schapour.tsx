@@ -1,7 +1,5 @@
 import { Layout, Title, SEO, SchapourSonOfSchapourEpisodes } from '../components';
 import React from 'react';
-import Container from 'react-bootstrap/Container';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -13,9 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Schapour fils de Schapour" subtitle="Son règne dura 5 ans." />
-      <Container>
+      <div className="container">
         <SchapourSonOfSchapourEpisodes />
-      </Container>
+      </div>
     </div>
   </Layout>
 );

@@ -1,7 +1,5 @@
 import { Layout, Title, SEO, ReignCards } from '../components';
 import React from 'react';
-import Container from 'react-bootstrap/Container';
-
 const Index: React.FC = () => (
   <Layout>
     <SEO
@@ -14,7 +12,7 @@ const Index: React.FC = () => (
         text="Le Livre des Rois - Shâhnâmeh"
         subtitle="Histoire légendaire des rois de Perse"
       />
-      <Container>
+      <div className="container">
         <div className="text-light p-3">
           <p>
             Il y avait un livre des temps anciens, dans lequel étaient écrites beaucoup d’histoires.
@@ -43,7 +41,7 @@ const Index: React.FC = () => (
           </p>
         </div>
         <ReignCards />
-      </Container>
+      </div>
     </div>
   </Layout>
 );

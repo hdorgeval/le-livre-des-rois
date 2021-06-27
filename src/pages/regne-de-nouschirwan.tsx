@@ -1,7 +1,5 @@
 import { Layout, Title, SEO, NouschirwanEpisodes } from '../components';
 import React from 'react';
-import Container from 'react-bootstrap/Container';
-
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
@@ -13,9 +11,9 @@ export default () => (
 
     <div>
       <Title text="Règne de Kesra Nouschirwan" subtitle="Son règne dura 48 ans." />
-      <Container>
+      <div className="container">
         <NouschirwanEpisodes />
-      </Container>
+      </div>
     </div>
   </Layout>
 );
