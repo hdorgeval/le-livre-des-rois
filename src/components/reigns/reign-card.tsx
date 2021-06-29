@@ -31,7 +31,6 @@ export const ReignCard: React.FC<ReignCardProps> = ({
           className="card-img"
           alt="..."
         />
-        {/* <img src="background-card.jpg" className="card-img" alt="..." /> */}
         <div
           className="card-img-overlay"
           style={{
