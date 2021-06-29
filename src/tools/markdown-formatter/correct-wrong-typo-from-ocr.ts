@@ -312,6 +312,11 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ la lit /g, ' la fit '),
     (content: string) => content.replace(/aflliction/g, 'affliction'),
     (content: string) => content.replace(/ e /g, ' '),
+    (content: string) => content.replace(/s’élauça/g, 's’élança'),
+    (content: string) => content.replace(/le n /g, 'le '),
+    (content: string) => content.replace(/ ce de /g, ' de '),
+    (content: string) => content.replace(/ ce la /g, ' la '),
+    (content: string) => content.replace(/ l’êtes /g, ' fêtes '),
   ].forEach((format) => {
     result = format(result);
   });
