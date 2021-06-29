@@ -22,14 +22,21 @@ export const ReignCard: React.FC<ReignCardProps> = ({
   return (
     <Link className="nav-link mb-4 p-0" to={`/${reignSlug}/`} aria-label={reignTitle}>
       <div
-        className="card text-center bg-dark text-light border-secondary ratio ratio-16x9"
+        className="card text-center bg-dark text-light border-secondary"
         style={{ minHeight: '150px' }}
       >
         <StaticImage
           src="../../images/background-reign-card.jpg"
           placeholder="blurred"
           className="card-img"
+          imgClassName="card-img"
           alt="..."
+          objectFit="fill"
+          objectPosition="50% 50%"
+          aspectRatio={16 / 9}
+          formats={['auto']}
+          layout="fullWidth"
+          style={{ position: 'revert' }}
         />
         <div
           className="card-img-overlay"
