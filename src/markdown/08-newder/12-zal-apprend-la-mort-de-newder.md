@@ -6,7 +6,34 @@ source: tome I - livre des rois - P. 337
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
 title: 'Zal apprend la mort de Newder | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Aghrirez',
+    'Ahriman',
+    'âme',
+    'Amol',
+    'Berzin',
+    'Créateur',
+    'Destan',
+    'Dieu',
+    'Feridoun',
+    'Iran',
+    'Iraniens',
+    'Kaboul',
+    'Karen',
+    'Keschwad',
+    'Kherrad',
+    'Kustehem',
+    'Newder',
+    'Reï',
+    'résurrection',
+    'Sam',
+    'Sari',
+    'Thous',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '012'
 ---
 
