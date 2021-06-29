@@ -6,7 +6,23 @@ source: tome I - livre des rois - P. 331
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
 title: 'Zal vient en aide à Mihrab | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'Kaboul',
+    'Karen',
+    'Kaweh',
+    'Kelbad',
+    'Khazarwan',
+    'Mihrab',
+    'Pehlewan',
+    'Schemasas',
+    'Touran',
+    'Turcs',
+    'Wiseh',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '010'
 ---
 
