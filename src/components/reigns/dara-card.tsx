@@ -1,6 +1,7 @@
+import { ReignCard } from './reign-card';
 import { AllMarkdownRemarkResponse } from '../../graphql';
 import React from 'react';
-import { graphql, Link, useStaticQuery } from 'gatsby';
+import { graphql, useStaticQuery } from 'gatsby';
 
 export const DaraCard: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
@@ -14,23 +15,13 @@ export const DaraCard: React.FC = () => {
     }
   `);
 
-  const totalNumberOfEpsiodes = data.allMarkdownRemark.totalCount;
-
   return (
-    <Link className="nav-link" to="/regne-de-dara/" aria-label="Règne de Dara">
-      <div className="card text-center bg-dark text-white border-secondary">
-        <div className="card-header pb-0">
-          <h5 className="card-title">Dara</h5>
-        </div>
-        <div className="card-body card-text">
-          <blockquote className="blockquote mb-0">
-            <p className="text-secondary">Son règne dura 14 ans.</p>
-          </blockquote>
-        </div>
-        <div className="card-footer text-muted">
-          <span>{`${totalNumberOfEpsiodes} épisode${totalNumberOfEpsiodes > 1 ? 's' : ''}`}</span>
-        </div>
-      </div>
-    </Link>
+    <ReignCard
+      data={data}
+      reignSlug="regne-de-dara"
+      reignTitle="Règne de Dara"
+      cardTitle="Dara"
+      cardBody="Son règne dura 14 ans."
+    />
   );
 };
