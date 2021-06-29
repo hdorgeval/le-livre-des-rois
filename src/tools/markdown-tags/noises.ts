@@ -10,6 +10,8 @@ export const noises = [
   'Expédition',
   'Vole',
   'Adorons',
+  'Tuer',
+  'Amène-le',
   'Troisième',
   'Montre',
   'Second',
