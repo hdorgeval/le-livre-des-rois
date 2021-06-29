@@ -6,7 +6,22 @@ source: tome I - livre des rois - P. 334
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
 title: 'Afrasiab assassine Newder | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Aghrirez',
+    'âme',
+    'Dehistan',
+    'Iran',
+    'Keïanides',
+    'Minoutchehr',
+    'Newder',
+    'Reï',
+    'Sari',
+    'Selm',
+    'Tour',
+    'Wiseh',
+  ]
 order: '011'
 ---
 
