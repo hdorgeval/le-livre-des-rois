@@ -1,14 +1,7 @@
 import { AllMarkdownRemarkResponse } from '../../graphql';
-import React, { CSSProperties } from 'react';
+import React from 'react';
+import { StaticImage } from 'gatsby-plugin-image';
 import { Link } from 'gatsby';
-
-const cardStyle: CSSProperties = {
-  backgroundImage:
-    "linear-gradient(to bottom, rgba(0, 0, 0, 0.8), rgba(117, 19, 93, 0.30)), url('https://content.wdl.org/10610/thumbnail/1430174992/616x510.jpg')",
-  backgroundRepeat: 'no-repeat',
-  backgroundSize: 'cover',
-  minHeight: '280px',
-};
 
 export interface ReignCardProps {
   data: AllMarkdownRemarkResponse;
@@ -28,13 +21,32 @@ export const ReignCard: React.FC<ReignCardProps> = ({
 
   return (
     <Link className="nav-link mb-4 p-0" to={`/${reignSlug}/`} aria-label={reignTitle}>
-      <div className="card text-light border-secondary" style={cardStyle}>
-        <div className="card-body card-text text-light text-center d-flex flex-column align-items-center justify-content-center">
-          <h4 className="card-title">{cardTitle}</h4>
-          <p className="card-text">{cardBody}</p>
-        </div>
-        <div className="card-footer text-light border-0">
-          {totalNumberOfEpisodes} épisode{totalNumberOfEpisodes > 1 ? 's' : ''}
+      <div
+        className="card text-center bg-dark text-light border-secondary ratio ratio-16x9"
+        style={{ minHeight: '150px' }}
+      >
+        <StaticImage
+          src="../../images/background-reign-card.jpg"
+          placeholder="blurred"
+          className="card-img"
+          alt="..."
+        />
+        {/* <img src="background-card.jpg" className="card-img" alt="..." /> */}
+        <div
+          className="card-img-overlay"
+          style={{
+            background: 'linear-gradient(to bottom,rgba(0, 0, 0, 0.8), rgba(117, 19, 93, 0.30))',
+          }}
+        >
+          <div className="card-body card-text h-75">
+            <h3 className="card-title fs-5">{cardTitle}</h3>
+            <p className="card-text text-nowrap">{cardBody}</p>
+          </div>
+          <div className="card-footer text-light border-0 position-absolute start-0 bottom-0">
+            <span>
+              {totalNumberOfEpisodes} épisode{totalNumberOfEpisodes > 1 ? 's' : ''}
+            </span>
+          </div>
         </div>
       </div>
     </Link>
