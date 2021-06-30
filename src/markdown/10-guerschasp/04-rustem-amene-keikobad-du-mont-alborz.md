@@ -112,7 +112,7 @@ Rustem lui répondit :
 > Ô Pehlewan, je porte joyeusement un message ; on a préparé le trône des rois d’Iran et les grands ont choisi Keïkobad pour roi.
 >
 > Mon père qui est l’élu de tous les grands et à qui l’on donne le nom de Zal-Zer, m’a dit :
-
+>
 > > Va jusqu’au mont Alborz accompagné d’un cortège ; va voir Keïkobad le brave.
 > >
 > > Rends-lui hommage comme à ton roi et ne reste pas longtemps devant lui : dis-lui que les braves l’appellent et qu’ils ont préparé le trône de la royauté.
