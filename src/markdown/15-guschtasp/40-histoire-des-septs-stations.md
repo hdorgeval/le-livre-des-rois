@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-04-25'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/3wkonYy2w94'
 image: '3wkonYy2w94.jpeg'
 source: tome IV - livre des rois - P. 391
