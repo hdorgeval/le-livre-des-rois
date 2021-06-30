@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-04-25'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/AJgvCKLWO8o'
 image: 'AJgvCKLWO8o.jpeg'
 source: tome IV - livre des rois - P. 398
