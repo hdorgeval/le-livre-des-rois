@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-13'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/xsGApcVbojU'
 image: 'FNeDH_nWfcQ.jpeg'
 source: tome III - livre des rois - P. 099
