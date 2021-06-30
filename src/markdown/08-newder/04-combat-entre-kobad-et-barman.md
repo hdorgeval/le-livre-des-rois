@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-06-26'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 313
