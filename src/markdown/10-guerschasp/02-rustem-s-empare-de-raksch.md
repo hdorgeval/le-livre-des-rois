@@ -66,7 +66,9 @@ Rustem dit en lui-même :
 
 Il sauta sur Raksch rapide comme le vent et le cheval couleur de rose s’élança sous lui.
 
-Il demanda au pâtre : Quel est le prix de ce dragon et qui peut m’en dire la valeur ?
+Il demanda au pâtre :
+
+> Quel est le prix de ce dragon et qui peut m’en dire la valeur ?
 
 Le pâtre répondit :
 
