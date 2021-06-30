@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-06-19'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/hLUTRzcVkqg'
 image: 'DbJR10fEteE.jpeg'
 source: tome II - livre des rois - P. 451
