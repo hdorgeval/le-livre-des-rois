@@ -6,7 +6,7 @@ source: tome I - livre des rois - P. 354
 reign: 'Guerschasp'
 reign-slug: 'regne-de-guerschasp'
 title: "Rustem s'empare de Raksch | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags: ['Bisoutoun', 'Dieu', 'Iran', 'Kaboul', 'Pehlewan', 'Raksch', 'Rustem', 'Zaboulistan', 'Zal']
 order: '002'
 ---
 
