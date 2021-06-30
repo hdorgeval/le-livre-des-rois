@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-13'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/21lBAA_87xU'
 image: 'j5ATKLbSqbM.jpeg'
 source: tome IV - livre des rois - P. 281
