@@ -6,7 +6,34 @@ source: tome I - livre des rois - P. 359
 reign: 'Guerschasp'
 reign-slug: 'regne-de-guerschasp'
 title: 'Rustem amène Keïkobad du mont Alborz | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Alborz',
+    'âme',
+    'âmes',
+    'Dieu',
+    'Div',
+    'Feridoun',
+    'Iran',
+    'Iraniens',
+    'Kaloun',
+    'Keïanides',
+    'Keïkobad',
+    'Kobad',
+    'Mobeds',
+    'Pehlewan',
+    'Pehlewans',
+    'Raksch',
+    'Rustem',
+    'Sipehdar',
+    'Touran',
+    'Touraniens',
+    'Turc',
+    'Turcs',
+    'Zal',
+    'Zal-Zer',
+  ]
 order: '004'
 ---
 
