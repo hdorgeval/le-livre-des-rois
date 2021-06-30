@@ -6,7 +6,20 @@ source: tome I - livre des rois - P. 342
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
 title: "Meurtre d'Aghrirez par la main de son frère | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Aghrirez',
+    'Amol',
+    'Dieu',
+    'Div',
+    'Fars',
+    'Khar-Reï',
+    'Reï',
+    'Sam',
+    'Sipehbed',
+    'Zal',
+  ]
 order: '013'
 ---
 
