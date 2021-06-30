@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-23'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/xE5vmelyM6k/'
 image: 'XXNfSFZWiII.jpeg'
 source: https://gallica.bnf.fr/ark:/12148/bpt6k58383090/f1n36.texteBrut
