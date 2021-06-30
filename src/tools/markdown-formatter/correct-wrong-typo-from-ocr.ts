@@ -317,6 +317,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ ce de /g, ' de '),
     (content: string) => content.replace(/ ce la /g, ' la '),
     (content: string) => content.replace(/ l’êtes /g, ' fêtes '),
+    (content: string) => content.replace(/au-dessns/g, 'au-dessus'),
+    (content: string) => content.replace(/Buslem /g, 'Rustem '),
+    (content: string) => content.replace(/Ruslem /g, 'Rustem '),
+    (content: string) => content.replace(/ ce comme /g, ' comme '),
   ].forEach((format) => {
     result = format(result);
   });
