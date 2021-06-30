@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-13'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/Mw00TR34O2c'
 image: 'Mw00TR34O2c.jpeg'
 source: tome II - livre des rois - P. 455
