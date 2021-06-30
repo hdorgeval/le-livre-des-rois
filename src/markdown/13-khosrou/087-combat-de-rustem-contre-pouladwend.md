@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-13'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/FAq-TtmR_A0'
 image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 200
