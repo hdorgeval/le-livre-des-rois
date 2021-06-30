@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-13'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/o5VwDXtPN_E'
 image: 'lk5MYKmGyFE.jpeg'
 source: tome III - livre des rois - P. 002
