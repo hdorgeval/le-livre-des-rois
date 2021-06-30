@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-06-19'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/OwqLxCvoVxI'
 image: '-wk6BuXySW0.jpeg'
 source: tome II - livre des rois - P. 538
