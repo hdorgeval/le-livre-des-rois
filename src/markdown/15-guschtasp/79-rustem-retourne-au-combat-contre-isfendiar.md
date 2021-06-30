@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-04-25'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/76dgUcMupv4'
 image: 'qix13-hfGFs.jpeg'
 source: tome IV - livre des rois - P. 540
