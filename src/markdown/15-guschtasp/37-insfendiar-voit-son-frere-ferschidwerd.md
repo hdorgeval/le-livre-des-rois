@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-04-25'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/4Ww3R9KQ0KA'
 image: 'pLoMDKtl-JY.jpeg'
 source: tome IV - livre des rois - P. 376
