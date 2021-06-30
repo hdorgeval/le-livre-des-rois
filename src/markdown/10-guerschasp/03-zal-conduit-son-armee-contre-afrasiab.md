@@ -6,7 +6,23 @@ source: tome I - livre des rois - P. 357
 reign: 'Guerschasp'
 reign-slug: 'regne-de-guerschasp'
 title: 'Zal conduit son armée contre Afrasiab | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Feridoun',
+    'Iran',
+    'Keïanides',
+    'Keïkobad',
+    'Mobed',
+    'Pehlewan',
+    'Reï',
+    'Rustem',
+    'résurrection',
+    'Sipehbed',
+    'Zaboulistan',
+    'Zal',
+    'Zew',
+  ]
 order: '003'
 ---
 
@@ -22,7 +38,7 @@ Devant elle marchait Rustem le Pehlewan, derrière lui les vieux guerriers ; et 
 
 Ce fut ainsi que Zal emmena son armée du Zaboulistan dans la saison des fleurs et des roses.
 
-Afrasiab apprit des nouvelles de Zal et en perdit le repos, la faim et le sommeil ; il mena une armée sur le bord de la rivière de Roi, dans cette plaine arrosée et abondante en roseaux.
+Afrasiab apprit des nouvelles de Zal et en perdit le repos, la faim et le sommeil ; il mena une armée sur le bord de la rivière de Reï, dans cette plaine arrosée et abondante en roseaux.
 
 L’armée d’Iran s’avança peu à peu et quitta le désert pour s’approcher du champ de bataille.
 
