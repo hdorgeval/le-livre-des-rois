@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-13'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/FVTNhwyR4yk'
 image: 'odxB5oIG_iA.jpeg'
 source: tome II - livre des rois - P. 508
