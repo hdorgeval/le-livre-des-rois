@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-13'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/HSta_sQFx7c'
 image: 'HSta_sQFx7c.jpeg'
 source: tome III - livre des rois - P. 160
