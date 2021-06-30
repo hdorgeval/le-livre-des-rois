@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-13'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/5I4K1WQBrXQ'
 image: 'sZO_aniGp6U.jpeg'
 source: tome III - livre des rois - P. 107
