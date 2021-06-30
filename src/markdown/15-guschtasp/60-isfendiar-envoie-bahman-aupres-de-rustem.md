@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-04-25'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/GZrGiV2_sUI'
 image: 'GZrGiV2_sUI.jpeg'
 source: tome IV - livre des rois - P. 466
