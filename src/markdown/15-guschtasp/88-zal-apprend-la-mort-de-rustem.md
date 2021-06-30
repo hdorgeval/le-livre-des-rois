@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-04-25'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/IRh4OLpNUFc'
 image: 'yw2UcAJ6OAU.jpeg'
 source: tome IV - livre des rois - P. 579
