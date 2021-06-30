@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-04-25'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/b5H60hyMIkU'
 image: 'lk5MYKmGyFE.jpeg'
 source: tome IV - livre des rois - P. 370
