@@ -77,6 +77,7 @@ async function createAllEpisodePages(graphql, actions) {
       allMarkdownRemark(sort: { fields: fields___slug, order: ASC }, filter: {}) {
         edges {
           node {
+            fileAbsolutePath
             fields {
               slug
             }
@@ -117,6 +118,13 @@ async function createAllEpisodePages(graphql, actions) {
     const lastUpdate = markdown?.frontmatter?.lastUpdate;
     const pageTitle = markdown?.frontmatter?.title;
     const status = markdown?.frontmatter?.status;
+    const path = markdown?.fileAbsolutePath;
+    let githubPageUrl = null;
+    const paths = path.split('/src/');
+    if (Array.isArray(paths) && paths.length > 1) {
+      const relativePath = paths[1];
+      githubPageUrl = `https://github.com/hdorgeval/le-livre-des-rois/edit/master/src/${relativePath}`;
+    }
 
     if (debug) {
       // eslint-disable-next-line no-console
@@ -126,7 +134,7 @@ async function createAllEpisodePages(graphql, actions) {
     }
     createPage({
       path: markdown.fields.slug,
-      component: path.resolve(episodeTemplate),
+      component: episodeTemplate,
       context: {
         slug: markdown.fields.slug,
         previousSlug: markdown.previous?.fields?.slug,
@@ -137,6 +145,7 @@ async function createAllEpisodePages(graphql, actions) {
         reignSlug,
         pageTitle,
         status,
+        githubPageUrl,
       },
     });
   });

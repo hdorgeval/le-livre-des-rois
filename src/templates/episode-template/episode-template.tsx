@@ -17,6 +17,7 @@ interface MarkdownTemplateProps {
     lastUpdate: string | null;
     pageTitle: string | null;
     status: 'draft' | 'ready' | null;
+    githubPageUrl: string | null;
   };
 }
 export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageContext }) => {
@@ -43,6 +44,12 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
   }, [pageContext]);
 
   const isDraft = React.useMemo(() => pageContext.status === 'draft', [pageContext.status]);
+  const isReady = React.useMemo(() => pageContext.status === 'ready', [pageContext.status]);
+  const hasGithubPageUrl = React.useMemo(
+    () => pageContext.githubPageUrl !== null,
+    [pageContext.githubPageUrl],
+  );
+
   return (
     <Layout>
       <SEO
@@ -113,6 +120,32 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
                 )}
               </li>
             </ul>
+
+            {isReady && hasGithubPageUrl && (
+              <div className="w75 d-flex justify-content-center">
+                <div role="group" className="bg-dark text-light btn-group">
+                  <button
+                    type="button"
+                    className="btn btn-outline-light"
+                    aria-label="Proposer une correction sur GitHub"
+                  >
+                    <span className="bg-dark">
+                      <i className="bi bi-github text-light"></i>
+                    </span>
+                  </button>
+                  <a
+                    className="page-link btn btn-outline-light text-light bg-dark"
+                    href={pageContext.githubPageUrl || ''}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    aria-label="Proposer une correction sur GitHub"
+                  >
+                    Proposer une correction sur GitHub
+                    <i className="bi bi-box-arrow-up-right ms-3"></i>
+                  </a>
+                </div>
+              </div>
+            )}
           </div>
         </div>
       </div>
