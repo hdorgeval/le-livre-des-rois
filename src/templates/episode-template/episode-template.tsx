@@ -16,6 +16,7 @@ interface MarkdownTemplateProps {
     reignSlug: string | null;
     lastUpdate: string | null;
     pageTitle: string | null;
+    status: 'draft' | 'ready' | null;
   };
 }
 export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageContext }) => {
@@ -41,6 +42,7 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
     return '';
   }, [pageContext]);
 
+  const isDraft = React.useMemo(() => pageContext.status === 'draft', [pageContext.status]);
   return (
     <Layout>
       <SEO
@@ -60,6 +62,15 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
               {hasTitleNote ? <span dangerouslySetInnerHTML={{ __html: note }}></span> : ''}
             </h2>
           </div>
+          {isDraft && (
+            <div className="text-center fs-6 border-bottom border-bottom-1 border-secondary py-2 px-4">
+              <div className="badge bg-primary text-wrap">
+                Cette page peut présenter des erreurs qui seront bientôt corrigées. Merci pour votre
+                compréhension.
+              </div>
+            </div>
+          )}
+
           <div className="card-body card-text pb-1">
             <div className="container">
               {image && (

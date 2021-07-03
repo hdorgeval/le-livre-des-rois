@@ -71,7 +71,7 @@ exports.onCreateNode = async ({ node, getNode, actions, loadNodeContent }) => {
 
 async function createAllEpisodePages(graphql, actions) {
   const { createPage } = actions;
-  const tagTemplate = path.resolve('src/templates/episode-template/episode-template.tsx');
+  const episodeTemplate = path.resolve('src/templates/episode-template/episode-template.tsx');
   const { data } = await graphql(`
     {
       allMarkdownRemark(sort: { fields: fields___slug, order: ASC }, filter: {}) {
@@ -86,6 +86,7 @@ async function createAllEpisodePages(graphql, actions) {
               reign_slug
               reign
               title
+              status
             }
           }
           next {
@@ -115,6 +116,7 @@ async function createAllEpisodePages(graphql, actions) {
     const reignSlug = markdown?.frontmatter?.reign_slug;
     const lastUpdate = markdown?.frontmatter?.lastUpdate;
     const pageTitle = markdown?.frontmatter?.title;
+    const status = markdown?.frontmatter?.status;
 
     if (debug) {
       // eslint-disable-next-line no-console
@@ -124,7 +126,7 @@ async function createAllEpisodePages(graphql, actions) {
     }
     createPage({
       path: markdown.fields.slug,
-      component: path.resolve(tagTemplate),
+      component: path.resolve(episodeTemplate),
       context: {
         slug: markdown.fields.slug,
         previousSlug: markdown.previous?.fields?.slug,
@@ -134,6 +136,7 @@ async function createAllEpisodePages(graphql, actions) {
         reignTitle,
         reignSlug,
         pageTitle,
+        status,
       },
     });
   });
