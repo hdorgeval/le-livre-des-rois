@@ -122,28 +122,18 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
             </ul>
 
             {isReady && hasGithubPageUrl && (
-              <div className="w75 d-flex justify-content-center">
-                <div role="group" className="bg-dark text-light btn-group">
-                  <button
-                    type="button"
-                    className="btn btn-outline-light"
-                    aria-label="Proposer une correction sur GitHub"
-                  >
-                    <span className="bg-dark">
-                      <i className="bi bi-github text-light"></i>
-                    </span>
-                  </button>
-                  <a
-                    className="page-link btn btn-outline-light text-light bg-dark"
-                    href={pageContext.githubPageUrl || ''}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    aria-label="Proposer une correction sur GitHub"
-                  >
-                    Proposer une correction sur GitHub
-                    <i className="bi bi-box-arrow-up-right ms-3"></i>
-                  </a>
-                </div>
+              <div className="d-flex justify-content-center">
+                <a
+                  className="page-link btn btn-outline-light text-light bg-dark"
+                  href={pageContext.githubPageUrl || ''}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  aria-label="Proposer une correction sur GitHub"
+                >
+                  <i className="bi bi-github text-light me-3"></i>
+                  Proposer une correction
+                  <i className="bi bi-box-arrow-up-right ms-3"></i>
+                </a>
               </div>
             )}
           </div>
