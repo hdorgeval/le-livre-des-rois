@@ -1,13 +1,35 @@
 ---
 lastUpdate: '2021-05-06'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 367
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Berzin',
+    'Chine',
+    'Iraniens',
+    'Kaboul',
+    'Karen',
+    'Kaweh',
+    'Keschwad',
+    'Keïanides',
+    'Keïkobad',
+    'Kherrad',
+    'Kobad',
+    'Kustehem',
+    'Mihrab',
+    'Pehlewan',
+    'Rustem',
+    'Schemasas',
+    'Sipehdar',
+    'Turcs',
+    'Zal',
+  ]
 order: '001'
 ---
 
