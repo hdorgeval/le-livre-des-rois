@@ -7,7 +7,42 @@ source: tome I - livre des rois - P. 376
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
 title: 'Pescheng demande la paix à Keïkobad | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Aghrirez',
+    'âme',
+    'Berzin',
+    'Dieu',
+    'Djihoun',
+    'Erteng',
+    'Feridoun',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Iredj',
+    'Kaboul',
+    'Karen',
+    'Keschwad',
+    'Keïkobad',
+    'Kherrad',
+    'Kobad',
+    'Maveralnahar',
+    'Mihrab',
+    'Minoutchehr',
+    'Newder',
+    'Pehlewan',
+    'Pescheng',
+    'Poulad',
+    'Rustem',
+    'Sam',
+    'Selm',
+    'Sind',
+    'Tour',
+    'Touran',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '004'
 ---
 
