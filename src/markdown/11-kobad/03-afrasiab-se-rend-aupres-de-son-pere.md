@@ -7,7 +7,34 @@ source: tome I - livre des rois - P. 372
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
 title: 'Afrasiab se rend auprès de son père | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Aghrirez',
+    'Amol',
+    'Barman',
+    'Destan',
+    'Djihoun',
+    'Feridoun',
+    'Iran',
+    'Iredj',
+    'Kaboul',
+    'Karen',
+    'Kelbad',
+    'Keschwad',
+    'Keïkobad',
+    'Khazarwan',
+    'Kobad',
+    'Mihrab',
+    'Pescheng',
+    'Rustem',
+    'Sam',
+    'Schemasas',
+    'Tour',
+    'Touran',
+    'Turc',
+    'Zal',
+  ]
 order: '003'
 ---
 
