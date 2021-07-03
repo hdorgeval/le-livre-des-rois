@@ -7,7 +7,30 @@ source: tome I - livre des rois - P. 369
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
 title: 'Rustem combat Afrasiab | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Damghan',
+    'Dieu',
+    'Djihoun',
+    'Iran',
+    'Karen',
+    'Keïkobad',
+    'Kobad',
+    'Mages',
+    'Mihrab',
+    'Pehlewan',
+    'Pehlewans',
+    'Pescheng',
+    'Raksch',
+    'Rustem',
+    'Sam',
+    'Touran',
+    'Touraniens',
+    'Turc',
+    'Turcs',
+    'Zal',
+  ]
 order: '002'
 ---
 
