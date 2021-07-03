@@ -140,3 +140,5 @@
 {"rule":"N_V","sentence":"^\\QJe connais Keïkobad ; si tu entres dans cette maison qui est notre demeure et que tu réjouisses nos âmes de ta présence, je te donnerai des renseignements sur ce prince, je te dépeindrai ses manières et son caractère.»\\E$"}
 {"rule":"D_N","sentence":"^\\QKaloun crut voir un Div qui aurait rompu ses liens tenant en main une massue et ayant un lacet suspendu à sa selle.\\E$"}
 {"rule":"N_V","sentence":"^\\QJe connais Keïkobad ; si tu entres dans cette maison qui est notre demeure et que tu réjouisses nos âmes de ta présence, je te donnerai des renseignements sur ce prince, je te dépeindrai ses manières et son caractère.\\E$"}
+{"rule":"FAIRE_VPPA","sentence":"^\\QC'est le fils de Zal, fils de Sam ; ne vois-tu pas qu'il vient armé de la massue de Sam ?\\E$"}
+{"rule":"PREP_V","sentence":"^\\QLa tête du vieux Zal est devenue comme la neige, le sang des braves a rougi la terre et à la fin personne n'obtiendra en partage une place plus grande que son corps ; nous resterons sous terre, après notre dernier jour, avec un linceul pour vêtement, avec une fosse pour demeure.\\E$"}
