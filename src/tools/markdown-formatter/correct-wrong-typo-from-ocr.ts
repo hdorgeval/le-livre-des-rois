@@ -321,6 +321,11 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Buslem /g, 'Rustem '),
     (content: string) => content.replace(/Ruslem /g, 'Rustem '),
     (content: string) => content.replace(/ ce comme /g, ' comme '),
+    (content: string) => content.replace(/cette de mailles/g, 'cotte de mailles'),
+    (content: string) => content.replace(/n’auraieut/g, 'n’auraient'),
+    (content: string) => content.replace(/l’Irau /g, 'l’Iran '),
+    (content: string) => content.replace(/courenne/g, 'couronne'),
+    (content: string) => content.replace(/sm /g, 's.» '),
   ].forEach((format) => {
     result = format(result);
   });
