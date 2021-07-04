@@ -52,6 +52,30 @@ async function createSvgContentFieldOnFileNode({ node, actions, loadNodeContent 
   });
 }
 
+async function createGeoJsonContentFieldOnFileNode({ node, actions, loadNodeContent }) {
+  if (node.internal.type !== 'File') {
+    return;
+  }
+
+  if (node.internal.mediaType !== 'application/geo+json') {
+    return;
+  }
+
+  if (debug) {
+    // eslint-disable-next-line no-console
+    console.log(`onCreateNode > ${node.internal.mediaType}`);
+  }
+
+  const { createNodeField } = actions;
+  const content = `${await loadNodeContent(node)}`;
+  const geoData = JSON.parse(content);
+  await createNodeField({
+    node,
+    name: 'geoData',
+    value: geoData,
+  });
+}
+
 exports.onCreateNode = async ({ node, getNode, actions, loadNodeContent }) => {
   if (debug) {
     // eslint-disable-next-line no-console
@@ -63,6 +87,11 @@ exports.onCreateNode = async ({ node, getNode, actions, loadNodeContent }) => {
     actions,
   });
   await createSvgContentFieldOnFileNode({
+    node,
+    actions,
+    loadNodeContent,
+  });
+  await createGeoJsonContentFieldOnFileNode({
     node,
     actions,
     loadNodeContent,
