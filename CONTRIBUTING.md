@@ -8,6 +8,7 @@ As a contributor, here are the guidelines we would like you to follow:
 - [Commit Messages Guidelines](#Commit-Messages-Guidelines)
 - [Documentation Guidelines](#Documentation-Guidelines)
 - [Dependencies Guidelines](#Dependencies-Guidelines)
+- [Dev mode vs Prod mode](#Dev-mode-versus-production-mode)
 
 ## Getting started
 
@@ -34,10 +35,14 @@ open localhost:8000
 4. To run the web site in production mode
 
 ```bash
-npm run build
+npm run gatsby-build
 npm run serve
 open localhost:9000
 ```
+
+5. Working with VS Code
+
+If you are using VS Code, it is recommanded to install the recommanded extensions.
 
 ## Commit Messages Guidelines
 
@@ -93,11 +98,7 @@ A commiting strategy has been implemented in order to be able to easily track mo
 
 If you are not sure about how to lable the commit, or how many files to put in the same commit, you can look at the [commits history](https://github.com/hdorgeval/le-livre-des-rois/commits/master).
 
-Every commit, once pushed, goes directly into production. So if you are not sure of what you have done, you should modify the `.skip-netlify` file and commit this change before pushing all commits:
-
-```sh
-chore(netlify): [skip ci]
-```
+Every commit, once pushed, goes directly into production. So if you are not sure of what you have done, run this npm script before pushing all commits: `auto-commit-skip-netlify`.
 
 ## Documentation Guidelines
 
@@ -119,3 +120,7 @@ For all dependencies (both production and development):
 A barrier for introducing new production dependencies is especially high:
 
 - **Do not add** production dependency unless it's critical to project success.
+
+## Dev mode versus production mode
+
+If you change/add a React component, or if you change any CSS style, please run the web site in both dev mode with `npm start` and prod mode with `npm run gatsby-build; npm run serve`, and ensure that the web site renders the same in both mode.
