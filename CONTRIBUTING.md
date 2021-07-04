@@ -94,7 +94,7 @@ A commiting strategy has been implemented in order to be able to easily track mo
 
 - if you modify the frontmatter tags of one or more markdown files, do not commit manually those changes but run the npm script `auto-commit-episodes-with-updated-tags`.
 
-- for any other changes, first run the nom script `auto-commit`, then manually commit any remaining changes.
+- for any other changes, first run the npm script `auto-commit`, then manually commit any remaining changes.
 
 If you are not sure about how to lable the commit, or how many files to put in the same commit, you can look at the [commits history](https://github.com/hdorgeval/le-livre-des-rois/commits/master).
 
