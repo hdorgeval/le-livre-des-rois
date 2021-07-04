@@ -3,13 +3,17 @@
 	// for the documentation about the extensions.json format
 	"recommendations": [
 		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
-		"esbenp.prettier-vscode",
-		"dbaeumer.vscode-eslint",
-		"oderwat.indent-rainbow",
-		"coenraads.bracket-pair-colorizer-2",
-		"wmaurer.change-case",
 		"adamvoss.vscode-languagetool-fr",
 		"adamvoss.vscode-languagetool",
-		"valentjn.vscode-ltex"
+		"coenraads.bracket-pair-colorizer-2",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens",
+		"ecmel.vscode-html-css",
+		"esbenp.prettier-vscode",
+		"jumpinjackie.vscode-map-preview",
+		"kumar-harsh.graphql-for-vscode",
+		"oderwat.indent-rainbow",
+		"valentjn.vscode-ltex",
+		"wmaurer.change-case",
 	]
 }
