@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.75278,
+          36.31455
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Kūh-e Alborz",
+          "ar": "البرز کوه"
+        }
+      }
+    }
+  ]
+}
