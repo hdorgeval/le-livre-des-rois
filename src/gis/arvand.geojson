@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.58192,
+          36.38017
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Arvand",
+          "ar": "اروند"
+        }
+      }
+    }
+  ]
+}
