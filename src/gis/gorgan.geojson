@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.44391,
+          36.8427
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Gorgan",
+          "ar": "گرگان"
+        }
+      }
+    }
+  ]
+}
