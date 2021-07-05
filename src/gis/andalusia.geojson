@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.58333,
+          37.5
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Andalusia",
+          "ar": "اندلس"
+        }
+      }
+    }
+  ]
+}
