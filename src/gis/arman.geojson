@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          150.13164,
+          59.66994
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Arman'",
+          "ar": "ارمان"
+        }
+      }
+    }
+  ]
+}
