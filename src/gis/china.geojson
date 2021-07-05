@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          105,
+          35
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "China",
+          "ar": "چین"
+        }
+      }
+    }
+  ]
+}
