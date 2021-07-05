@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.27833,
+          37.22417
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Termez",
+          "ar": "ترمذ"
+        }
+      }
+    }
+  ]
+}
