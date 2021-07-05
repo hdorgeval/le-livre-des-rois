@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44.40088,
+          33.34058
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Baghdad",
+          "ar": "بغداد"
+        }
+      }
+    }
+  ]
+}
