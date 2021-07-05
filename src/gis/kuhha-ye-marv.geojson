@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          46.10752,
+          38.24601
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Kūhhā-ye Marv",
+          "ar": "مرو"
+        }
+      }
+    }
+  ]
+}
