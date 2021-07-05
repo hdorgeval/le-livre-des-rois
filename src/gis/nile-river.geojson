@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          171.45,
+          -41.9
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Nile River",
+          "ar": "نیل"
+        }
+      }
+    }
+  ]
+}
