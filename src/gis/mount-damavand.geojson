@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.11005,
+          35.95508
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Mount Damavand",
+          "ar": "دماوند"
+        }
+      }
+    }
+  ]
+}
