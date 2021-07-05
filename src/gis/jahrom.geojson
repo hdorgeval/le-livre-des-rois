@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.33333,
+          28.73333
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Jahrom",
+          "ar": "جهرم"
+        }
+      }
+    }
+  ]
+}
