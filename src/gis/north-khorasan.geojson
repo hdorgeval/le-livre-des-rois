@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57,
+          37.5
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "North Khorasan",
+          "ar": "خراسان"
+        }
+      }
+    }
+  ]
+}
