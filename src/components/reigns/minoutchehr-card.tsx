@@ -21,7 +21,7 @@ export const MinoutchehrCard: React.FC = () => {
       reignSlug="regne-de-minoutchehr"
       reignTitle="Règne de Minoutchehr"
       cardTitle="Minoutchehr"
-      cardBody="Minoutchehr"
+      cardBody="Son règne dura 120 ans."
     />
   );
 };
