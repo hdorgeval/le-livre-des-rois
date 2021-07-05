@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.93548,
+          37.1075
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Hotan",
+          "ar": "ختن"
+        }
+      }
+    }
+  ]
+}
