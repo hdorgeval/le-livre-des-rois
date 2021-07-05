@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.51133,
+          41.89193
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Rome",
+          "ar": "روم"
+        }
+      }
+    }
+  ]
+}
