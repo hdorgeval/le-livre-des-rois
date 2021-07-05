@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          39.18624,
+          21.49012
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Jeddah",
+          "ar": "جده"
+        }
+      }
+    }
+  ]
+}
