@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.16117,
+          36.20124
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Aleppo",
+          "ar": "حلب"
+        }
+      }
+    }
+  ]
+}
