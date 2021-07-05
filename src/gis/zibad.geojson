@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          58.48745,
+          34.27633
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Zībad",
+          "ar": "زیبد"
+        }
+      }
+    }
+  ]
+}
