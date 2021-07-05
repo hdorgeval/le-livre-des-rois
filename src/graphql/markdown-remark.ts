@@ -58,6 +58,7 @@ export interface MarkdownFrontmatter {
   order: string;
   reign: string;
   title: string;
+  geo_data: string | null;
 }
 
 export interface HtmlAST {
