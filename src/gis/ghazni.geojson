@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.42096,
+          33.55391
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Ghazni",
+          "ar": "غزنی"
+        }
+      }
+    }
+  ]
+}
