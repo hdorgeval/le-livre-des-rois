@@ -22,8 +22,6 @@ If you're having trouble rendering geoJSON files, ensure you have a valid geoJSO
 
 To automatically add a Map to a Tag page or to an Episode page, add the `frontmatter` metadata `geo-data: <filename>` within the `frontmatter` section of the corresponding Markdown file.
 
-!!! this feature is not yet implemented !!!
-
 For example:
 
 `src/tags/amol.md`:
