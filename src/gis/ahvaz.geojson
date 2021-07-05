@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          48.6842,
+          31.31901
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Ahvaz",
+          "ar": "اهواز"
+        }
+      }
+    }
+  ]
+}
