@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          75.40781,
+          33.5329
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Jammu and Kashmir",
+          "ar": "کشمیر"
+        }
+      }
+    }
+  ]
+}
