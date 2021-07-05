@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          68.76667,
+          26.13333
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Sindh",
+          "ar": "سند"
+        }
+      }
+    }
+  ]
+}
