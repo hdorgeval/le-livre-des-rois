@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.21633,
+          31.76904
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Jerusalem",
+          "ar": "بیت‌المقدس"
+        }
+      }
+    }
+  ]
+}
