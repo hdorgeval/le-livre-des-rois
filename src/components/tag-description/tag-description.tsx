@@ -1,4 +1,6 @@
 import { AllMarkdownRemarkResponse } from '../../graphql';
+import { LeafletMap } from '../leaflet-map';
+import { Title } from '../title';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
@@ -6,7 +8,7 @@ export interface TagDescriptionProps {
   tag: string;
 }
 export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
-  const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
+  const markdownData = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
       allMarkdownRemark(
         sort: { order: ASC, fields: frontmatter___order }
@@ -23,6 +25,7 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
             }
             frontmatter {
               tags
+              geo_data
             }
           }
         }
@@ -30,9 +33,13 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
     }
   `);
 
-  const markdownNodes = data.allMarkdownRemark.edges
+  const markdownNodes = markdownData.allMarkdownRemark.edges
     .map((edge) => edge.node)
     .filter((node) => node.frontmatter.tags.includes(tag));
+
+  if (markdownNodes.length === 0) {
+    return null;
+  }
 
   return (
     <div className="text-light ms-4 me-4 mb-4">
@@ -40,11 +47,18 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
         const firstHeading = node.headings[0].value;
         const htmlWithoutFirstHeading = node.html.replace(`<h1>${firstHeading}</h1>`, '');
         return (
-          <div
-            id="episode-content"
-            key={node.id}
-            dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
-          />
+          <div key={node.id}>
+            <div
+              id="episode-content"
+              dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
+            />
+            {node.frontmatter.geo_data && (
+              <>
+                <Title text="" subtitle={`Cartographie associée au terme '${tag}'`}></Title>
+                <LeafletMap geoJsonFilename={node.frontmatter.geo_data} />
+              </>
+            )}
+          </div>
         );
       })}
     </div>
