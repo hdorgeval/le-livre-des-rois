@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.78768,
+          32.10389
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Bīkand-e Kalamhadī",
+          "ar": "بیکند"
+        }
+      }
+    }
+  ]
+}
