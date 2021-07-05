@@ -18,7 +18,7 @@ export const EpisodeCard: React.FC<EpisodeCardProps> = ({
     <Link key={id} className="nav-link" to={fields.slug} aria-label={firstHeading}>
       <div className="card text-center bg-dark text-white border-secondary">
         <div className="card-header pb-0">
-          <h5 className="card-title text-truncate">{firstHeading}</h5>
+          <h3 className="card-title text-truncate fs-5">{firstHeading}</h3>
         </div>
         <div className="card-body card-text">
           <blockquote className="blockquote mb-0">
