@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          69.17233,
+          34.52813
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Kabul",
+          "ar": "کابل"
+        }
+      }
+    }
+  ]
+}
