@@ -26,7 +26,14 @@ export interface GeoJsonData {
 export interface GeoDataFeature {
   type: 'Feature';
   geometry: Geometry;
-  properties: unknown;
+  properties: GeoDataFeatureProperties;
+}
+
+export interface GeoDataFeatureProperties {
+  name: {
+    fr: string;
+    ar: string;
+  };
 }
 
 export interface Geometry {
