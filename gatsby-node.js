@@ -224,7 +224,7 @@ exports.onPostBootstrap = () => {
 };
 
 // TODO: temporary workaround for https://github.com/gatsbyjs/gatsby/issues/31878
-exports.onCreateWebpackConfig = ({ actions, plugins, stage, getConfig }) => {
+exports.onCreateWebpackConfig = ({ actions, plugins, stage, getConfig, loaders }) => {
   // override config only during production JS & CSS build
   if (stage === 'build-javascript') {
     // get current webpack config
@@ -296,5 +296,18 @@ exports.onCreateWebpackConfig = ({ actions, plugins, stage, getConfig }) => {
     }
     // replace webpack config with the modified object
     actions.replaceWebpackConfig(config);
+  }
+
+  if (stage === 'build-html') {
+    actions.setWebpackConfig({
+      module: {
+        rules: [
+          {
+            test: /leaflet-src/,
+            use: loaders.null(),
+          },
+        ],
+      },
+    });
   }
 };
