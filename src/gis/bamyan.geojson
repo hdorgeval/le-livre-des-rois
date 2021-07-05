@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.82734,
+          34.82156
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Bamyan",
+          "ar": "بامیان"
+        }
+      }
+    }
+  ]
+}
