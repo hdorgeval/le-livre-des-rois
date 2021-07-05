@@ -7,7 +7,22 @@ source: tome I - livre des rois - P. 381
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
 title: 'Keïkobad se rend à Istakher, dans le Fars | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Alborz',
+    'Arisch',
+    'Armin',
+    'Dieu',
+    'Fars',
+    'Farsistan',
+    'Istakher',
+    'Kaous',
+    'Keï',
+    'Keïkobad',
+    'Mobeds',
+    'Neschin',
+    'Reï',
+  ]
 order: '005'
 ---
 
