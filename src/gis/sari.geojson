@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          53.06009,
+          36.56332
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Sari",
+          "ar": "ساری"
+        }
+      }
+    }
+  ]
+}
