@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          67.66667,
+          36
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Samangān",
+          "ar": "سمنگان"
+        }
+      }
+    }
+  ]
+}
