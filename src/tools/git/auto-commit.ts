@@ -10,6 +10,8 @@ import {
   autoCommitUpdatedTagsTools,
   autoCommitNewGeoData,
   autoCommitUpdatedGeoData,
+  autoCommitNewGeoDataHelpers,
+  autoCommitUpdatedGeoDataHelpers,
 } from '.';
 
 async function autoCommit() {
@@ -24,6 +26,8 @@ async function autoCommit() {
   await autoCommitUpdatedMarkdownTagsHelpers().then();
   await autoCommitNewGeoData().then();
   await autoCommitUpdatedGeoData().then();
+  await autoCommitNewGeoDataHelpers().then();
+  await autoCommitUpdatedGeoDataHelpers().then();
 }
 
 autoCommit().then();
