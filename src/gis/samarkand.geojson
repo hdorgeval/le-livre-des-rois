@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.95972,
+          39.65417
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Samarkand",
+          "ar": "سمرقند"
+        }
+      }
+    }
+  ]
+}
