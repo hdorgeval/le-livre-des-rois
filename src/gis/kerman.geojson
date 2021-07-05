@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          57.07879,
+          30.28321
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Kerman",
+          "ar": "کرمان"
+        }
+      }
+    }
+  ]
+}
