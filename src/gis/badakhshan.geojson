@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72,
+          36.75
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Badakhshan",
+          "ar": "بدخشان"
+        }
+      }
+    }
+  ]
+}
