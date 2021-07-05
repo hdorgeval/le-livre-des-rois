@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          44,
+          33
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Iraq",
+          "ar": "عراق"
+        }
+      }
+    }
+  ]
+}
