@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          43.53333,
+          18.7
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Qaḩţān",
+          "ar": "قحطان"
+        }
+      }
+    }
+  ]
+}
