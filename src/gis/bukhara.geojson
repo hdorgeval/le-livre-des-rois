@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.42861,
+          39.77472
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Bukhara",
+          "ar": "بخارا"
+        }
+      }
+    }
+  ]
+}
