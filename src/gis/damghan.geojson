@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.34292,
+          36.1679
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Damghan",
+          "ar": "دامغان"
+        }
+      }
+    }
+  ]
+}
