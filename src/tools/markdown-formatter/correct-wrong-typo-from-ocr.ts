@@ -326,6 +326,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/l’Irau /g, 'l’Iran '),
     (content: string) => content.replace(/courenne/g, 'couronne'),
     (content: string) => content.replace(/sm /g, 's.» '),
+    (content: string) => content.replace(/corlége/g, 'cortège'),
   ].forEach((format) => {
     result = format(result);
   });
