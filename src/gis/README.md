@@ -47,3 +47,5 @@ Cité du Mazenderan
 - [Mapping geoJSON files on GitHub](https://docs.github.com/en/github/managing-files-in-a-repository/working-with-non-code-files/mapping-geojson-files-on-github)
 
 - [Leaflet Providers Preview](https://leaflet-extras.github.io/leaflet-providers/preview/)
+
+- [farikarimi / shahnameh-gis-data](https://github.com/farikarimi/shahnameh-gis-data)
