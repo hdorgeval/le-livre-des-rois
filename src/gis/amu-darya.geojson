@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.01667,
+          43.66667
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Amu Darya",
+          "ar": "جیحون"
+        }
+      }
+    }
+  ]
+}
