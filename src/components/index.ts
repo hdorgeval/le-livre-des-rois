@@ -3,6 +3,7 @@ export * from './episodes';
 export * from './firdousi-articles';
 export * from './genealogies';
 export * from './layout';
+export * from './leaflet-map';
 export * from './read-more-read-less';
 export * from './reigns';
 export * from './seo';
