@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.0534,
+          38.4218
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Dehestān",
+          "ar": "دهستان"
+        }
+      }
+    }
+  ]
+}
