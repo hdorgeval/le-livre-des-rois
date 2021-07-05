@@ -3,10 +3,16 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [52.35072, 36.46961] },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          52.35072,
+          36.46961
+        ]
+      },
       "properties": {
         "name": {
-          "fr": "Amol",
+          "fr": "Āmol",
           "ar": "آمل"
         }
       }
