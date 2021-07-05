@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.8972,
+          36.75635
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Balkh",
+          "ar": "بلخ"
+        }
+      }
+    }
+  ]
+}
