@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.67846,
+          27.0177
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Kannauj",
+          "ar": "قنوج"
+        }
+      }
+    }
+  ]
+}
