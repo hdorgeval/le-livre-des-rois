@@ -2,6 +2,7 @@ import {
   GenealogyArdjasp,
   GenealogyDjamasp,
   GenealogyGouderz,
+  GenealogyKaioumors,
   GenealogyKhosrou,
   GenealogyLohrasp,
   GenealogyNewder,
@@ -16,6 +17,7 @@ export const Genealogies: React.FC = () => {
       <GenealogyArdjasp />
       <GenealogyDjamasp />
       <GenealogyGouderz />
+      <GenealogyKaioumors />
       <GenealogyKhosrou />
       <GenealogyLohrasp />
       <GenealogyNewder />
