@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          49.5,
+          37.16667
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Ostān-e Gīlān",
+          "ar": "گیلان"
+        }
+      }
+    }
+  ]
+}
