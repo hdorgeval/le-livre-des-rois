@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          59.26809,
+          33.95781
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Mazra‘eh-ye Nīmrūz",
+          "ar": "نیمروز"
+        }
+      }
+    }
+  ]
+}
