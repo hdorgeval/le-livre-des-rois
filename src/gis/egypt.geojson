@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30,
+          27
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Egypt",
+          "ar": "مصر"
+        }
+      }
+    }
+  ]
+}
