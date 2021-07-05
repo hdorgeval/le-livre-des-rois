@@ -9,9 +9,18 @@ export interface LeafletMapProps {
 
 const leafletTileProvider = {
   openstreetmap: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png',
+  openRailwayMap: 'https://{s}.tiles.openrailwaymap.org/standard/{z}/{x}/{y}.png',
   stamenTerrain: 'https://stamen-tiles.a.ssl.fastly.net/terrain/{z}/{x}/{y}.jpg',
   stamenToner: 'https://stamen-tiles.a.ssl.fastly.net/toner/{z}/{x}/{y}.png',
+  stamenTonerLines: 'https://stamen-tiles.a.ssl.fastly.net/toner-lines/{z}/{x}/{y}.png',
+  stamenTonerLabels: 'https://stamen-tiles.a.ssl.fastly.net/toner-labels/{z}/{x}/{y}.png',
+  stamenWatercolor: 'https://stamen-tiles.a.ssl.fastly.net/watercolor/{z}/{x}/{y}.png',
+  stadiaOutdoors: 'https://tiles.stadiamaps.com/tiles/outdoors/{z}/{x}/{y}{r}.png',
   thunderforestPioneer: 'https://{s}.tile.thunderforest.com/pioneer/{z}/{x}/{y}.png',
+  esriWorldImagery:
+    'https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}',
+  esriDelorme:
+    'https://server.arcgisonline.com/ArcGIS/rest/services/Specialty/DeLorme_World_Base_Map/MapServer/tile/{z}/{y}/{x}',
 };
 
 /**
@@ -43,6 +52,53 @@ function overrideLeafletMarkers() {
   });
 }
 
+export type LayersType = 'Toner' | 'Ancient' | 'Terrain';
+export interface TileLayersProps {
+  layersType: LayersType;
+}
+
+const TileLayers: React.FC<TileLayersProps> = ({ layersType: layerType }) => {
+  switch (layerType) {
+    case 'Toner':
+      return (
+        <TileLayer
+          attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+          url={leafletTileProvider.stamenToner}
+        />
+      );
+    case 'Ancient':
+      return (
+        <>
+          <TileLayer
+            attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            url={leafletTileProvider.stamenWatercolor}
+          />
+          <TileLayer
+            attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            url={leafletTileProvider.stamenTonerLines}
+          />
+          <TileLayer
+            attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+            url={leafletTileProvider.stamenTonerLabels}
+          />
+        </>
+      );
+    case 'Terrain':
+      return (
+        <TileLayer
+          attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+          url={leafletTileProvider.stamenTerrain}
+        />
+      );
+    default:
+      return (
+        <TileLayer
+          attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+          url={leafletTileProvider.stamenToner}
+        />
+      );
+  }
+};
 export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
   const geoJsonData = useStaticQuery<AllGeoJsonFilesResponse>(graphql`
     {
@@ -69,6 +125,8 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
       }
     }
   `);
+
+  const [layersType, setLayersType] = React.useState<LayersType>('Toner');
 
   const geoData = React.useMemo(() => {
     return geoJsonData.allFile.edges
@@ -99,6 +157,30 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
 
   const configureLeaflet = React.useCallback(() => overrideLeafletMarkers(), []);
 
+  const selectToner = React.useCallback(() => {
+    if (layersType === 'Toner') {
+      return;
+    }
+
+    setLayersType('Toner');
+  }, [layersType]);
+
+  const selectAncient = React.useCallback(() => {
+    if (layersType === 'Ancient') {
+      return;
+    }
+
+    setLayersType('Ancient');
+  }, [layersType]);
+
+  const selectTerrain = React.useCallback(() => {
+    if (layersType === 'Terrain') {
+      return;
+    }
+
+    setLayersType('Terrain');
+  }, [layersType]);
+
   if (!geoData) {
     return null;
   }
@@ -110,15 +192,62 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
   configureLeaflet();
 
   return (
-    <div className="text-light" style={{ height: '40vh' }}>
-      <MapContainer className="h-100" center={center} zoom={7} scrollWheelZoom={false}>
-        <TileLayer
-          attribution='&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-          url={leafletTileProvider.stamenToner}
-        />
-        <GeoJSON data={geoData} />
-      </MapContainer>
-    </div>
+    <>
+      <div className="text-light" style={{ height: '40vh' }}>
+        <MapContainer
+          key={layersType}
+          className="h-100"
+          center={center}
+          zoom={7}
+          scrollWheelZoom={false}
+        >
+          <TileLayers layersType={layersType} />
+          <GeoJSON data={geoData} />
+        </MapContainer>
+      </div>
+      <div
+        className="btn-group d-flex flex-row"
+        role="group"
+        aria-label="Groupe de boutons pour selectionner un type de cartographie"
+      >
+        <button
+          aria-label="Cartographie style Toner"
+          type="button"
+          className={
+            layersType === 'Toner'
+              ? 'btn btn-primary text-light'
+              : 'btn btn-outline-secondary text-light bg-dark'
+          }
+          onClick={selectToner}
+        >
+          Toner
+        </button>
+        <button
+          aria-label="Cartographie style Ancien"
+          type="button"
+          className={
+            layersType === 'Ancient'
+              ? 'btn btn-primary text-light'
+              : 'btn btn-outline-secondary text-light bg-dark'
+          }
+          onClick={selectAncient}
+        >
+          Ancien
+        </button>
+        <button
+          aria-label="Cartographie style Terrain"
+          type="button"
+          className={
+            layersType === 'Terrain'
+              ? 'btn btn-primary text-light'
+              : 'btn btn-outline-secondary text-light bg-dark'
+          }
+          onClick={selectTerrain}
+        >
+          Terrain
+        </button>
+      </div>
+    </>
   );
 };
 LeafletMap.displayName = 'LeafletMap';
