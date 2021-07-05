@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          64.83333,
+          36.25
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Faryab",
+          "ar": "فاریاب"
+        }
+      }
+    }
+  ]
+}
