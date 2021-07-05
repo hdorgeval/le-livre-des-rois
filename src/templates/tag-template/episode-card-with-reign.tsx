@@ -15,7 +15,7 @@ export const EpisodeCard: React.FC<EpisodeCardProps> = ({
   const sanitizedExcerpt = excerpt.replace(firstHeading, '');
 
   return (
-    <Link key={id} className="nav-link" to={fields.slug} aria-label={firstHeading}>
+    <Link key={id} className="nav-link mb-4 p-0" to={fields.slug} aria-label={firstHeading}>
       <div className="card text-center bg-dark text-white border-secondary">
         <div className="card-header pb-0">
           <h3 className="card-title text-truncate fs-5">{firstHeading}</h3>

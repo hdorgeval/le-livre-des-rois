@@ -42,7 +42,7 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
   }
 
   return (
-    <div className="text-light ms-4 me-4 mb-4">
+    <div className="text-light mb-4">
       {markdownNodes.map((node) => {
         const firstHeading = node.headings[0].value;
         const htmlWithoutFirstHeading = node.html.replace(`<h1>${firstHeading}</h1>`, '');
