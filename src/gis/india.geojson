@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79,
+          22
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "India",
+          "ar": "هند"
+        }
+      }
+    }
+  ]
+}
