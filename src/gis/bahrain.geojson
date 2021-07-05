@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          50.55,
+          26.03333
+        ]
+      },
+      "properties": {
+        "name": {
+          "fr": "Bahrain",
+          "ar": "بحرین"
+        }
+      }
+    }
+  ]
+}
