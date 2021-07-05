@@ -121,6 +121,8 @@ A barrier for introducing new production dependencies is especially high:
 
 - **Do not add** production dependency unless it's critical to project success.
 
-## Dev mode versus production mode
+## Dev mode versus Production mode
 
 If you change/add a React component, or if you change any CSS style, please run the web site in both dev mode with `npm start` and prod mode with `npm run gatsby-build; npm run serve`, and ensure that the web site renders the same in both mode.
+
+If the `gatsby-build` fails with strange reasons due to your changes, this resource might help you : [Debugging HTML Builds in Gatsby](https://www.gatsbyjs.com/docs/debugging-html-builds/).
