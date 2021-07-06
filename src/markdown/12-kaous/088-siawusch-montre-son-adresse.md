@@ -50,7 +50,9 @@ Siawusch répondit :
 
 Le roi, fut réjoui de cette réponse et les paroles de tous les autres ne lui parurent que du vent.
 
-Par la vie et la tête de Kaousl dit-il, tu seras mon rival et mon adversaire.
+Par la vie et la tête de Kaous !
+
+Dit-il, tu seras mon rival et mon adversaire.
 
 Montre ton habileté devant ces cavaliers. pour qu’ils ne disent pas que j’ai mal choisi, pour que nos braves te rendent hommageiet que mes yeux étonnés soient réjouis de ton jeu.»
 
@@ -60,7 +62,7 @@ Siawusch répondit :
 
 Le roi choisit alors Gulbad et Guersiwez, Djehn et Poulad, Piran et Nestihen avide de combats, enfin Human qui pouvait faire rebondir la balle de l’eau.
 
-Ensuite il envoya du côté de Siawusch des compagnons, tels que Bouïn et Schideh le glorieux, Anderiman le brave guerrier et Ardjasp le hardi cavalier, le lion vaillant.
+Ensuite, il envoya du côté de Siawusch des compagnons, tels que Bouïn et Schideh le glorieux, Anderiman le brave guerrier et Ardjasp le hardi cavalier, le lion vaillant.
 
 Siawusch lui dit :
 
@@ -68,15 +70,17 @@ Siawusch lui dit :
 >
 > Qui d’entre eux oserait se placer devant ta balle ?
 >
-> Ils sont tous amis du roi. et je serais seul, je serais seul à manier la raquette.
+> Ils sont tous amis du roi et je serais seul, je serais seul à manier la raquette.
 >
 > Mais si le roi veut me le permettre, j’amènerai sur le Meïdan des cavaliers du pays d’Iran qui m’aideront à frapper la balle selon la règle des deux pays.»
 
-Le roi écouta la demande et y consentit et Siawusch choisit parmi les Iraniens sept hommes LE LIVRE DES ROISE habiles au jeu.
+Le roi écouta la demande et y consentit et Siawusch choisit parmi les Iraniens sept hommes DES ROISE habiles au jeu.
 
-Le bruit des tambours se fit entendre sur le Meïdan et la poussière s’étendit comme le firmament : tu aurais dit que le Meïdan sautait, tant était grand le bruit des cymbales et des trompettes.
+Le bruit des tambours se fit entendre sur le Meïdan et la poussière s’étendit comme le firmament :
 
-Le roi lança du Meïdan une balle dans l’air, et elle s’éleva jusqu’aux nues, comme cela doit être.
+> tu aurais dit que le Meïdan sautait, tant était grand le bruit des cymbales et des trompettes.
+
+Le roi lança du Meïdan une balle dans l’air et elle s’éleva jusqu’aux nues, comme cela doit être.
 
 Siawusch poussa son cheval de bataille et lorsque la balle arriva, il ne la laissa pas toucher la poussière,.mais la frappa au moment où elle s’approcha de terre, de manière à la faire disparaître aux yeux.
 
@@ -90,19 +94,21 @@ Aucun homme, dans le Meïdan, n’était l’égal de Siawusch ; aucun visage ne
 
 Afrasiab sourit en voyant disparaître la balle ; et quand les grands furent revenus de leur stupeur, ils dirent à haute voix que jamais ils n’avaient vu en selle un cavalier comme Siawusch l’illustre.
 
-Le roi dit : Tel devrait être quiconque a été revêtu par Dieu du pouvoir royal ,-et je reconnais que la beauté, la bonne mine, la gloire et l’adresse de Siawusch passent ce qu’en publie la renommée.»
+Le roi dit :
 
-On plaça un trône d’un côté du Meïdan et le roi alla s’y asseoir ; Siawusch y monta à côté de lui, et le roi se réjouit grandement à son aspect.
+> Tel devrait être quiconque a été revêtu par Dieu du pouvoir royal ,-et je reconnais que la beauté, la bonne mine, la gloire et l’adresse de Siawusch passent ce qu’en publie la renommée.»
+
+On plaça un trône d’un côté du Meïdan et le roi alla s’y asseoir ; Siawusch y monta à côté de lui et le roi se réjouit grandement à son aspect.
 
 Ensuite Afrasiab dit à son cortège :
 
 > A vous le Meïdan, les tr raquettes et les halles.»
 
-Les deux troupes se mirent à combattre et la poussière vola jusqu’au soleil, et chacun des deux partis alternativement enleva avec de grands cris la balle à ses adversaires.
+Les deux troupes se mirent à combattre et la poussière vola jusqu’au soleil et chacun des deux partis alternativement enleva avec de grands cris la balle à ses adversaires.
 
 Les Turcs à la fin s’irritèrent ; ils voulurent à toute force emporter la halle et Siawusch se mit en colère contre les Iraniens et leur dit en langue pehlewie :
 
-> mEstce un jeu de Meïdan que vous jouez, ou est-ce une bataille que vous voulez livrer, dans notre position et malgré la tournure qu’a prise notre sort ?
+> mEst-ce un jeu de Meïdan que vous jouez, ou est-ce une bataille que vous voulez livrer, dans notre position et malgré la tournure qu’a prise notre sort ?
 >
 > Puisque le jeu est fini, quittez la place aux Turcs et cédez-leur une fois la halle.»
 
@@ -121,7 +127,7 @@ Il
 A regarda l’arc et en resta étonné et prononça beau-
 coup de bénédictions sur les braves qui maniaient des armes pareilles.
 
-Ensuite il le donna à Guersiwez prompt de ’e’pée et lui dit :
+Ensuite, il le donna à Guersiwez prompt de ’e’pée et lui dit :
 
 > Frotte le dos de l’arc et bande-le.»
 
@@ -129,9 +135,11 @@ Guersiwez fit des efforts pour le bander, mais il ne réussit pas et en fut humi
 
 Siawusch reprit l’arc, s’accroupit sur ses genoux, frotta le dos de l’arc avec la main et le banda en souriant.
 
-Le roi dit : Voilà donc l’arc bandé, grâce à la force que donne la jeunesse ; moi aussi, lorsque j’étais jeune, j’avais un pareil arc, mais à présent est venu pour moi un autre temps.
+Le roi dit :
 
-Personne, dans l’Iran ni dans le Touran, n’oserait prendre cette arme au jour du combat ; mais Siawusch, avec cette poitrine, ces bras et ces épaules, ne demandera pas un autre arc quand il sera assis sur son cheval.»
+> Voilà donc l’arc bandé, grâce à la force que donne la jeunesse ; moi aussi, lorsque j’étais jeune, j’avais un pareil arc, mais à présent est venu pour moi un autre temps.
+>
+> Personne, dans l’Iran ni dans le Touran, n’oserait prendre cette arme au jour du combat ; mais Siawusch, avec cette poitrine, ces bras et ces épaules, ne demandera pas un autre arc quand il sera assis sur son cheval.»
 
 On plaça un but. dans la lice et Siawusch, sans adresser la parole à personne, s’assit sur son cheval comme un Div, le serra des jambes et partit en poussant un cri.
 
@@ -141,8 +149,7 @@ Il plaça sur son arc une seconde fois une flèche à quatre ailes et de bois de
 
 Il guida ensuite son cheval vers la droite et frappa au but une troisième fois là où il voulut.
 
-Il suspendit par la corde son arc à son bras, 
- s’approcha du puissant roi et mit pied à terre.
+Il suspendit par la corde son arc à son bras, s’approcha du puissant roi et mit pied à terre.
 
 Le roi se leva et lui dit :
 
@@ -156,6 +163,6 @@ Le roi fit placer devant la table des présents, un cheval, des caparaçons, un 
 
 Le roi fit compter ces présents et les fit porter au palais de Siawusch.
 
-Il ordonna à tous les Touraniens qui étaient de sa famille et à ceux qui avaient le plus de part à ses bonnes grâces, d’apporter aussi à Siawusch des joyaux et de la vaisselle précieuse, et il dit à son armée :
+Il ordonna à tous les Touraniens qui étaient de sa famille et à ceux qui avaient le plus de part à ses bonnes grâces, d’apporter aussi à Siawusch des joyaux et de la vaisselle précieuse et il dit à son armée :
 
 > Vous lui obéirez tous comme un troupeau obéit au berger.»
