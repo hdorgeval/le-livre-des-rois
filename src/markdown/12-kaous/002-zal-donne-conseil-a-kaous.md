@@ -43,7 +43,7 @@ Zal marchait donc le premier, suivi des grands à la ceinture d’or ; et lorsqu
 >
 > Puisse ta vie entière être heureuse et victorieuse !
 >
-> Que ton cœur soit plein de sagesse, que ta tête soit pleine de justice !
+> Que ton cœur soit plein de sagesse, que ta tête soit pleine de justice !
 
 Le roi illustre le reçut gracieusement, le fit asseoir à côté de lui sur le trône et s’informa des fatigues de sa longue route, des héros et de Rustem qui portait haut la tête.
 
@@ -109,7 +109,7 @@ Il répondit :
 >
 > Puisses-tu ne pas avoir à te rappeler mes conseils ni à te repentir de ton entreprise !
 >
-> Puissent ton cœur, ta foi et ta loi briller toujours !
+> Puissent ton cœur, ta foi et ta loi briller toujours !
 
 Aussitôt Zal prit congé du roi, le cœur plein de trouble et de soucis sur cette expédition.
 
