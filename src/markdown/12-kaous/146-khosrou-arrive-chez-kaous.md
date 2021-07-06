@@ -13,7 +13,7 @@ order: '146'
 
 # Keï Khosrou arrive chez Kaous
 
-Lorsque Keî Khosrou arriva auprès du roi, il trouva le monde rempli de parfums, de couleurs et de peintures ; les hommes étaient parés pour la fête : KEÏ mon s.
+Lorsque Keï Khosrou arriva auprès du roi, il trouva le monde rempli de parfums, de couleurs et de peintures ; les hommes étaient parés pour la fête : KEÏ mon s.
 
 A les portes, les terrasses et les murs des maisons étaient couvertes d’étayer : précieuses.
 
@@ -21,7 +21,7 @@ Partout on entendait des chanteurs ; partout ou voyait de l’eau de rose, du vi
 
 Les chevaux avaient la crinière trempée de musc et de vin et l’on jetait du sucre et des pièces d’argent sous leurs pas.
 
-Quand Kaous aperçut Keî Khosrou, une pluie de larmes tomba de ses yeux sur ses joues.
+Quand Kaous aperçut Keï Khosrou, une pluie de larmes tomba de ses yeux sur ses joues.
 
 Il descendit de son trône, alla au-devant de lui et le baisa sur les yeux et sur le visage.
 
@@ -47,8 +47,7 @@ Khosrou lui répondit :
 >
 > À la fin, Piran vint dans la montagne et m’emmena auprès de cet homme haineux ; j’eus peur de lui et de ses œuvres, je tremblais devant .
 >
-> 11
-sa colère et ses reproches.
+> sa colère et ses reproches.
 >
 > Il m’interrogea et me parla longuement, mais je cachai ce que j’avais de sens et de valeur ; quand il me parlait de la tête.»
 
@@ -61,9 +60,11 @@ Je ne saurais être l’ami du meurtrier de mon père, quand même les nuages fe
 Kaous lui répondit :
 
 > Ô toi qui portes haut la tête !
+>
+> Le monde soupire après ton règne ; car tu es de la race des Keïanides, tu es digne du trône et sage comme doit l’être le roi des
+(f TOIS.»
 
-Le monde soupire après ton règne ; car tu es de la race des Keïanides, tu es digne du trône et sage comme doit l’être le roi des
-(f TOIS. n Khosrou adressa de nouveau la parole à Kaous, en disant :
+Khosrou adressa de nouveau la parole à Kaous, en disant :
 
 > Ô maître de ce trône antique !
 >
@@ -99,9 +100,9 @@ On écrivit sur de la soie un diplôme, par lequel le roi qui ressemblait
 
 Le roi lui dit :
 
-> Tu as supporté beaucoup de peines, jouis maintenant de tes trésors, ô homme éprouvé!»
+> Tu as supporté beaucoup de peines, jouis maintenant de tes trésors, ô homme éprouvé !»
 
-Gouderz et ses fils bénirent le roi, ils baissèrent la tête jusqu’à I terre , et chacun célébrait la gloire de Kaous.
+Gouderz et ses fils bénirent le roi, ils baissèrent la tête jusqu’à I terre et chacun célébrait la gloire de Kaous.
 
 Ensuite le,roi fit apprêter pour Ferenguis un pavillon doré, il y fit porter des colliers et des boucles d’oreilles, fit placer dans les salles des trônes d’or et couvrit les murs de brocarts de la Chine.
 
@@ -113,4 +114,4 @@ Il lui dit :
 >
 > Tu as abandonné ton pays et ta famille, tu as souffert en route beaucoup de fatigues ; maintenant l’Iran est ta résidence et ta volonté est mon guide.»
 
-Toutes les femmes de Kaous bénirent Ferenguis’eu disant : Puisse le monde n’être jamais privé de toi!»
+Toutes les femmes de Kaous bénirent Ferenguis’eu disant : Puisse le monde n’être jamais privé de toi !»
