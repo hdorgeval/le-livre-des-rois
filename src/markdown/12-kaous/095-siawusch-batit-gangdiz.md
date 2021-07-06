@@ -61,7 +61,7 @@ C’est donc un bassin de trente-trois farsangs de diamètre, entouré de tous c
 
 Quand tu auras passé ce mur de rochers, tu apercevras une grande ville, remplie de parterres de roses, de parcs, de palais et de maisons, de bains chauds et d’eaux vives ; tu trouveras dans chaque maison de la musique et du luxe de toute espèce.
 
-La montagne est peuplée de bêtes fauves , et la plaine de cerfs ; c’est un paradis qu’on ne veut plus quitter une fois qu’on l’a vu.
+La montagne est peuplée de bêtes fauves et la plaine de cerfs ; c’est un paradis qu’on ne veut plus quitter une fois qu’on l’a vu.
 
 Si tu vas dans la montagne, tu y trouves des faisans, des paons et des perdrix ; les étés n’y sont pas chauds, les hivers n’y sont pas froids et ce n’est partout que plaisirs, repos et festins ; il n’y a pas un malade dans cette ville ; enfin c’est un jardin du paradis.
 
@@ -79,6 +79,6 @@ La hauteur de ce mur est de plus de deux cents palmes, son épaisseur de trente-
 
 Il faut nécessairement le voir pour comprendre combien il est inaccessible ; car si l’qn en parle à ceux qui ne l’ont pas vu, ils s’indignent contre le narrateur.
 
-Il y a deux farsangs du sommet du rempart jusqu’au pied des ro- LE LIVRE DES-BUIS. chers et tout autour se déroule une plaine liasse d’où l’œil ne peut s’étendre plus haut que la crête de la montagne . crête si élevée que les oiseaux hésitent de voler par-dessus.
+Il y a deux farsangs du sommet du rempart jusqu’au pied des ro-DES-BUIS. chers et tout autour se déroule une plaine liasse d’où l’œil ne peut s’étendre plus haut que la crête de la montagne . crête si élevée que les oiseaux hésitent de voler par-dessus.
 
-Siawusch entreprit beaucoup de’travaux sur ce point où il voulait établir son pouvoir, son trône et sa couronne ; il éleva des bâtiments dans cet endroit ravissant ; il construisit une ville dans ces beaux lieux, une ville avec des maisons, des palais et un Meïdan ; il y planta des arbres sans nombre ; il en lit un séjour semblable au paradis et y sema des roses. des hyacinthes, des narcisses et des tulipes.
+Siawusch entreprit beaucoup de’travaux sur ce point où il voulait établir son pouvoir, son trône et sa couronne ; il éleva des bâtiments dans cet endroit ravissant ; il construisit une ville dans ces beaux lieux, une ville avec des maisons, des palais et un Meïdan ; il y planta des arbres sans nombre ; il en fit un séjour semblable au paradis et y sema des roses. des hyacinthes, des narcisses et des tulipes.
