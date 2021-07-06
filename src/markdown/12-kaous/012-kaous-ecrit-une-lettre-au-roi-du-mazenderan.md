@@ -51,7 +51,7 @@ Les choisit dans son armée l’un après l’autre, espérant qu’il lui en re
 
 Il leur dit :
 
-> Il faut aujourd’hui dépouiller votre qualité. d’hommes pour revêtir celle de Divs, prendre toutes les al- Iures du tigre et vous emparer du chef de ces sages. »
+> Il faut aujourd’hui dépouiller votre qualité. d’hommes pour revêtir celle de Divs, prendre toutes les al-Iures du tigre et vous emparer du chef de ces sages. »
 
 Il allèrent au-devant de Ferhad, le front couvert de rides ; mais rien ne réussit selon leur désir : car lorsqu’ils approchèrent de Ferhad le preux, un des grands accoutumés à vaincre lui prit la main et la pressa, en serrant les fibres et les os ; mais le visage de Ferhad ne pâlit de peur ni ne rougit de douleur.
 
@@ -71,8 +71,7 @@ Il s’afIIigea de la mort d’Arzeng, de celle du Div blanc et des blessures de
 
 La lecture de la lettre étant achevée, ses deux yeux se mouillèrent du sang de son cœur.
 
-Il garda Ferhad pendant trois jours comme son hôte, 
- et avec lui ses grands et ses amis et le quatrième jour il lui dit :
+Il garda Ferhad pendant trois jours comme son hôte et avec lui ses grands et ses amis et le quatrième jour il lui dit :
 
 > Retourne auprès de ce jeune roi dépourvu de raison et porte à Kaous cette réponse :
 
@@ -98,13 +97,11 @@ Arrivé auprès de lui, il lui raconta ce qu’il avait vu et entendu et déchir
 >
 > Il a refusé de se soumettre à mes injonctions et le monde est sans valeur à ses yeux.»
 
-Le roi manda 
-A
-le Pehlewan et lui redit les paroles de Ferhad. flustem au corps d’éléphant répondit à Kaous :
+Le roi manda A le Pehlewan et lui redit les paroles de Ferhad. flustem au corps d’éléphant répondit à Kaous :
 
 > Je laverai notre peuple d’une telle honte.
 >
-> Il faut que j’an- nonce à ce roi que je tirerai du fourreau mon épée acérée-Il fautque je lui porte une lettre tranchante comme un glaive et un message semblable au nuage qui tonne.
+> Il faut que j’annonce à ce roi que je tirerai du fourreau mon épée acérée-Il fautque je lui porte une lettre tranchante comme un glaive et un message semblable au nuage qui tonne.
 >
 > Je me présenterai devant lui en messager et mes paroles rempliront de sang les rivières.»
 
