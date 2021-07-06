@@ -19,13 +19,13 @@ Guersiwez arriva et lança une balle, Siawusch courut après et la frappa du cre
 
 Siawusch la lança avec la raquette de manière à la faire disparaître ; tu aurais dit que le ciel l’avait attirée à lui.
 
-Ensuite il dit aux braves qui cherchaient la gloire :
+Ensuite, il dit aux braves qui cherchaient la gloire :
 
 > Le Meïdan, les raquettes et les balles sont à vous.»
 
 Ils coururent sur la place et enlevèrent en un instant la balle aux Turcs ; Siawusch fut fier des Iraniens et se redressa comme un noble cyprès.
 
-Ensuite il fit apporter un trône d’or et ordonna un combat aux javelots dans le Meïdan ; et les cavaliers s’élançant sur la place comme un tourbillon de poussière, combattirent avec leurs javelots, pendant que les deux princes, assis sur le trône d’or, décidaient qui s’était montré le plus habile.
+Ensuite, il fit apporter un trône d’or et ordonna un combat aux javelots dans le Meïdan ; et les cavaliers s’élançant sur la place comme un tourbillon de poussière, combattirent avec leurs javelots, pendant que les deux princes, assis sur le trône d’or, décidaient qui s’était montré le plus habile.
 
 Guersiwez dit à Siawusch :
 
@@ -35,9 +35,9 @@ Guersiwez dit à Siawusch :
 
 Siawusch posa les mains sur la poitrine en oigne d’ obéissance, quitta le trône où il était assis et monta à cheval.
 
-On lia ensemble cinq cuirasses, I dont chacune était assez lourde pour fatiguer la poitrine d’un homme ; on les plaça au bout de la lice, et toute l’armée regarda Siawusch pour voir ce qu’il allait faire.
+On lia ensemble cinq cuirasses, I dont chacune était assez lourde pour fatiguer la poitrine d’un homme ; on les plaça au bout de la lice et toute l’armée regarda Siawusch pour voir ce qu’il allait faire.
 
-Il prit une lance digne d’un roi ; c’était un souvenir de son père, qui s’en était servi dans la guerre du Mazenderan et en avait percé des lions . à la chasse.
+Il prit une lance digne d’un roi ; c’était un souvenir de son père, qui s’en était servi dans la guerre du Mazenderan et en avait percé des lions à la chasse.
 
 Il descendit dans la lice, cette lance en main, se précipita comme un éléphant en fureur, frappa les cuirasses de la lance et les enleva.
 
@@ -69,15 +69,19 @@ Siawusch répondit :
 >
 > Désigne un Touranien autre que toi pour qu’il se mesure avec moi sans me garder rancune.»
 
-Guersiwez reprit : Ô toi qui recherches la gloire !
+Guersiwez reprit :
 
-Un jeu ne fait pas naître de la colère, parce que deux hommes luttent ensemble et se saisissent par la ceinture.»
+> Ô toi qui recherches la gloire !
+>
+> Un jeu ne fait pas naître de la colère, parce que deux hommes luttent ensemble et se saisissent par la ceinture.»
 
-Siawusch lui ré- pondit : Tu as tort ; je ne puis pas lutter avec toi. ce Un combat entre deux hommes a beau n’être qu’une joute, il produit la colère lors même que la bouche des combattants sourit.
+Siawusch lui répondit :
 
-Tu es le frère du roi, tu foules la lune sous les pieds de ton cheval ; ce je suis prêt à t’obéir en toutes choses, mais sur ce R point je rejette ton avis et n’accepte pas ton défi.
-
-Choisis parmi tes compagnons un lion vaillant, fais-le monter sur ce cheval ardent ; et puisque tu veux que je combatte, tu verra : que les têtes les plus hautes sont au-dessous de la poussière de mes pieds et je m’elïorcerai de n’avoir pas à rougir de ce combat devant le roi illustre»
+> Tu as tort ; je ne puis pas lutter avec toi. ce Un combat entre deux hommes a beau n’être qu’une joute, il produit la colère lors même que la bouche des combattants sourit.
+>
+> Tu es le frère du roi, tu foules la lune sous les pieds de ton cheval ; ce je suis prêt à t’obéir en toutes choses, mais sur ce R point je rejette ton avis et n’accepte pas ton défi.
+>
+> Choisis parmi tes compagnons un lion vaillant, fais-le monter sur ce cheval ardent ; et puisque tu veux que je combatte, tu verra : que les têtes les plus hautes sont au-dessous de la poussière de mes pieds et je m’elïorcerai de n’avoir pas à rougir de ce combat devant le roi illustre»
 
 : L’ambitieux Guersiwez sourit et fut flatté de ces paroles ; il dit aux Turcs :
 
@@ -92,10 +96,12 @@ Le front de Siawusch se rida à ces paroles de Gueroui Zereh et ses joues se con
 Guersiwez lui dit :
 
 > Ô roi !
+>
+> Ne choisis-tu pas un second parmi les braves de l’armée ?»
 
-Ne choisis-tu pas un second parmi les braves de l’armée?n Siawusch lui répondit :
+Siawusch lui répondit :
 
-> Puisque je suis dispensé de me battre contre toi, je fais peu de cas d’une lutte contre les grands ; que deux z ! Ü d’entre eux se préparent à se mesurer avec moi dans la lice.»
+> Puisque je suis dispensé de me battre contre toi, je fais peu de cas d’une lutte contre les grands ; que deux : ! Ü d’entre eux se préparent à se mesurer avec moi dans la lice.»
 
 Or il y avait un Turc, un brave qui n’avait pas son pareil en force dans le Touran ; son nom était Demour.
 
@@ -107,7 +113,7 @@ Gueroui Zereh porta la main sur la ceinture de Siawusch et la tordit comme pour 
 
 Il s’élança ensuite sur Demour, le saisit fortement à la poitrine et au cou et l’enleva si lestement de selle que les braves en restèrent confondus ; il l’apporta à Guersiwez sans lui faire de mal ; tu aurais dit qu’il portait sous le bras une poule.
 
-Ensuite il descendit de cheval, lâcha Demour et monta en souriant sur le trône d’or.
+Ensuite, il descendit de cheval, lâcha Demour et monta en souriant sur le trône d’or.
 
 Guersiwez fut courroucé de ce que Siawusch avait fait ; son âme devint soucieuse et ses joues pâlirent.
 
@@ -117,7 +123,7 @@ Le huitième jour Guersiwez et les siens firent leurs préparatifs de départ et
 
 KEÏ nous. gré les soupçons qu’il avait conçus en secret, écrivit au roi une lettre remplie d’expressions de soumission et de questions amicales.
 
-Ensuite il fit à Guersiwez beaucoup de présents et les Turcs partirent joyeusement de cette belle ville, devisant entre eux longuement des hauts faits du roi et de la beauté de son pays.
+Ensuite, il fit à Guersiwez beaucoup de présents et les Turcs partirent joyeusement de cette belle ville, devisant entre eux longuement des hauts faits du roi et de la beauté de son pays.
 
 Mais Guersiwez, qui était avide de vengeance, leur dit :
 
