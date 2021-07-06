@@ -22,19 +22,19 @@ Quand Siawusch s’approcha du palais de Kaous, on entendit un grand bruit et la
 Ils versèrent sur lui beaucoup d’or et de joyaux et tous chantè-
 rent ses louanges.
 
-Quand Siawusch vit Kaous assis sur le trône d’ivoire et portant sur la tête une courenne de rubis brillants, il invoqua sur lui les grâces de Dieu et le salua en murmurant pendant quelque temps des paroles contre terre ; puis il s’approcha Il).
- LE LIVRE ces nons. du roi, qui le pressa contreson sein.
+Quand Siawusch vit Kaous assis sur le trône d’ivoire et portant sur la tête une couronne de rubis brillants, il invoqua sur lui les grâces de Dieu et le salua en murmurant pendant quelque temps des paroles contre terre ; puis il s’approcha Il). ces nons. du roi, qui le pressa contreson sein.
 
 Kaous adressa des questions à Rustem, le reçut gracieusement et le fit asseoir sur son trône incmsté de turquoises.
 
 Il resta confondu de l’aspect de Siawusch et invoqua plusieurs fois les bénédictions de Dieu sur lui et sur sa haute taille et sa noble mine, car il vit en lui beaucoup de choses dignes d’être vues.
 
 Il y avait dans cet enfant tant d’intelligence que tu aurais dit que l’intelligence même avait été la nourrice de son esprit.
+
 Kaous rendit grâces à Dieu le créateur, en frottant son front contre terre et en disant :
 
 > Ô Créateur du ciel, maître de l’intelligence et maître de l’amour !
 >
-> Tout bonheur dans le monde vient de toi, et je t’implore avant tout pour mon fils.»
+> Tout bonheur dans le monde vient de toi et je t’implore avant tout pour mon fils.»
 
 Tous les grands de l’Iran se présentèrent joyeusement devant le roi avec leurs offrandes.
 
@@ -46,9 +46,9 @@ La multitude se dirigea gaiement vers les jardins, les palais et la salle d’au
 
 Le roi ordonna une fête telle qu’aucun des princes de la terre n’en avait ordonné avant lui de semblable.
 
-On se réjouit ainsi pendant sept jours et le huitième le roi ouvrit la porte de ses trésors et fit donner à Siawusch tout en abondance, des perles et des épées, des trônes et des casques, des chevaux arabes à la selle de peau de léopard, des caparaçons et des cottes de mailles, des pièces de brocart et des dizaines de milliers de pièces d’argent, de l’or et des joyaux, grands et petits, tout, excepté un diadème, car il était trop jeune pour qu’une couronne lui convint ; il remit tout cela à Siawusch et lui fit fête, et lui donna dans sa tendresse de grandes espérances.
+On se réjouit ainsi pendant sept jours et le huitième le roi ouvrit la porte de ses trésors et fit donner à Siawusch tout en abondance, des perles et des épées, des trônes et des casques, des chevaux arabes à la selle de peau de léopard, des caparaçons et des cottes de mailles, des pièces de brocart et des dizaines de milliers de pièces d’argent, de l’or et des joyaux, grands et petits, tout, excepté un diadème, car il était trop jeune pour qu’une couronne lui convint ; il remit tout cela à Siawusch et lui fit fête et lui donna dans sa tendresse de grandes espérances.
 
-Ensuite il l’éprouva pendant sept années et le trouva pur dans toutes ses épreuves.
+Ensuite, il l’éprouva pendant sept années et le trouva pur dans toutes ses épreuves.
 
 La huitième année il fit préparer un trône d’or, un collier d’or et une ceinture d’or et fit écrire sur de la soie une investiture, selon la manière des grands et les coutumes des rois.
 
