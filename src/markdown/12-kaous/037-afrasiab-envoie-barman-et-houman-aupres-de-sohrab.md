@@ -17,7 +17,7 @@ Quelqu’un porta cette nouvelle à Afrasiab en disant :
 
 > Sohrab a lancé sur la mer son vaisseau ; une grande armée s’est assemblée autour de lui ; il lève la tête comme un cyprès au milieu d’un jardin.
 >
-> L’odeur du lait. lui sort encore de la bouche, et déjà il a pris l’épée et les flèches.
+> L’odeur du lait. lui sort encore de la bouche et déjà il a pris l’épée et les flèches.
 >
 > Il purifiera le monde avec son épée et maintenant il va attaquer Kaous.
 >
@@ -42,13 +42,15 @@ Ensuite
 
 Les deux Pehlewans plein de prudence partirent pour se rendre auprès de Sohrab à l’âme brillante, se faisant précéder par des présents dignes d’un roi : dix chevaux et dix mules, les uns sellés, les autres chargées, un trône de turquoiSes et une couronne d’ambre ; la couronne était surmontée d’une perle, les degrés du trône étaient d’ivoire.
 
-Ils portaient aussi une lettre adressée au noble guerrier et remplie de flatteries qui devaient lui plaire : Si tu peux t’emparer du trône de l’Iran, le monde sera affranchi de toute dissension ; de notre frontière à celle de l’Iran il n’y a qu’un court chemin et le Semengan, l’Iran et le Touran ne font qu’un.
+Ils portaient aussi une lettre adressée au noble guerrier et remplie de flatteries qui devaient lui plaire :
 
-Je t’envoie une armée telle qu’il te la faut place-toi sur ce trône et pose sur ta tête cette couronne.
-
-Certainement il n’y a jamais eu dans le pays de Tourau des braves 7l et des chefs comme Houman et comme Barman ; je te les envoie pour qu’ils soient tes hôtes pendant quelque temps.
-
-Si tu veux faire la guerre, ils la feront avec toi, ils rendront la terre étroite à tes ennemis.»
+> Si tu peux t’emparer du trône de l’Iran, le monde sera affranchi de toute dissension ; de notre frontière à celle de l’Iran il n’y a qu’un court chemin et le Semengan, l’Iran et le Touran ne font qu’un.
+>
+> Je t’envoie une armée telle qu’il te la faut place-toi sur ce trône et pose sur ta tête cette couronne.
+>
+> Certainement il n’y a jamais eu dans le pays de Tourau des braves 7l et des chefs comme Houman et comme Barman ; je te les envoie pour qu’ils soient tes hôtes pendant quelque temps.
+>
+> Si tu veux faire la guerre, ils la feront avec toi, ils rendront la terre étroite à tes ennemis.»
 
 Telle était la lettre et le présent digne d’un roi qu’ils emportèrent en conduisant les chevaux et les mules chargées.
 
