@@ -17,7 +17,7 @@ Rustem écouta ces paroles, il eut honte d’être resté si longtemps hors de s
 
 Il fit amener de tous côtés les troupeaux de chevaux qui paissaient dans les plaines du Touran ; il rassembla dix mille esclaves des deux sexes, dignes d’être ofl’erts au roi ; il amassa des bourses de musc et des peaux de zibeline, de petitgris, d’hermine et de marte brune ; il fit parer magnifiquement et couvrir de brocart d’or le dos des éléphants mâles ; il fit porter dans le palais des caparaçons et toute espèce de choses précieuses, des étoffes, de l’or et de l’argent, des épées, des cuirasses, des trônes et des couronnes et les fit charger sur des bêtes de somme.
 
-Ensuite il quitta le Touran et se rendit dans le Zaboulistan auprès de l’illustre Destan.
+Ensuite, il quitta le Touran et se rendit dans le Zaboulistan auprès de l’illustre Destan.
 
 De là Thous, Gouderz et Guiv, avec une armée brave et glorieuse, partirent pour le Fers et tous ces héros et ces grands comblés de prospérités se présentèrent devant Kaous.
 
@@ -47,6 +47,6 @@ Il faisait des attaques sur tous les points et les Iraniens n’avaient pas le t
 
 Il brûlait les récoltes et les arbres et la position des Iraniens devenait malheureuse.
 
-Pendant sept années le ciel ne donna pas de pluie ; la fortune se tournait contre l’Iran et la pros- périté de ce pays s’évanouissait.
+Pendant sept années le ciel ne donna pas de pluie ; la fortune se tournait contre l’Iran et la prospérité de ce pays s’évanouissait.
 
 Les hommes gémissaient sur ces peines et ces infortunes et c’est ainsi que se passa un long temps pendant lequel le héros au corps d’éléphant se tint tranquille dans le Zaboulistan, tandis que le monde était au pouvoir du Turc qui frappait de l’épée.
