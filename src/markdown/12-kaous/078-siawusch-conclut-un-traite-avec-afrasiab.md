@@ -21,7 +21,7 @@ Et bénit le roi.
 
 Siawusch .lui demanda comment il avait passé la nuit au milieu de l’armée, des fêtes et du bruit.
 
-Ensuite il lui dit :
+Ensuite, il lui dit :
 
 > Nous avons délibéré sur ta proposition et sur tes paroles et nous voulons tous deux sincèrement bannir toute haine de notre cœur.
 
@@ -29,15 +29,17 @@ Rends à Afrasiab notre réponse et dis. lui :
 
 > Écarte de ton cœur tout désir de vengeance ; car quand on voit les suites du mal, on s’abstient de le faire.
 
-Un cœur soumis à l’intelligence est semblable a un trésor rempli de choses précieuses ; et s’il n’y a sous le miel de tes paroles aucun poison caché, si ton cœur est libre de tout sentiment nible et haineux, si tu veux sérieusement faire un traité, il faut que tu m’envoies pour otages cent hommes liés à toi par le sang, des braves que Bus- tem connaît et dont il te lira les noms, pour qu’ils me soient garants de tes promesses.
+Un cœur soumis à l’intelligence est semblable a un trésor rempli de choses précieuses ; et s’il n’y a sous le miel de tes paroles aucun poison caché, si ton cœur est libre de tout sentiment nible et haineux, si tu veux sérieusement faire un traité, il faut que tu m’envoies pour otages cent hommes liés à toi par le sang, des braves que Rustem connaît et dont il te lira les noms, pour qu’ils me soient garants de tes promesses.
 
-Ensuite il faut que tu évacues toutes les parties de l’Iran qui se trouvent en ton pouvoir, que tu retournes dans le Touran et que tu renonces pour longtemps à la guerre et aux combats.
+Ensuite, il faut que tu évacues toutes les parties de l’Iran qui se trouvent en ton pouvoir, que tu retournes dans le Touran et que tu renonces pour longtemps à la guerre et aux combats.
 
 Il faut qu’il n’y ait dans le monde que du bonheur et que nous n’armions pas un seul homme.
 
-J’enverrai de mon côté une lettre au roi pour qu’il accepte la paix et rappelle tr son armée : Guersiwez expédia sur-le-champ un cavalier rapide comme le vent et lui dit :
+J’enverrai de mon côté une lettre au roi pour qu’il accepte la paix et rappelle tr son armée :
 
-> Ne laisse pas sur- prendre ta tête par le sommeil, va en toute hâte auprès d’AI’rasiab ; dis-lui que nous avons fait diligence et que nous avons obtenu tout ce qu’il désirait, mais que Siawusch lui demande des otages si l’on veut qu’il renonce à la guerre.»
+> Guersiwez expédia sur-le-champ un cavalier rapide comme le vent et lui dit :
+
+> Ne laisse pas surprendre ta tête par le sommeil, va en toute hâte auprès d’AI’rasiab ; dis-lui que nous avons fait diligence et que nous avons obtenu tout ce qu’il désirait, mais que Siawusch lui demande des otages si l’on veut qu’il renonce à la guerre.»
 
 Le cavalier arriva auprès d’Afrasiab et s’acquitte du message de Siawusch et du glorieux Guersiwez.
 
