@@ -25,7 +25,7 @@ Personne dans l’Iran ne peut lui résisler,
 
 Si ce n’est toi qui seul peux ternir sa gloire.
 
-Sache qu’il n’y a au monde que toiqui puisses don- ner aide en toutes choses.
+Sache qu’il n’y a au monde que toiqui puisses donner aide en toutes choses.
 
 Tu es le cœur et le soutien des braves de l’Iran, tu as les griffes et la force d’un lion ; tu as conquis le pays de Mazenderan, tu as brisé nos chaînes dans le Hamaveran ; le soleil pleure dans la crainte de ta massue et l’étoile du matin se consume dans la crainte de ton épée.
 
@@ -35,9 +35,9 @@ Ton lacet enchaîne le lion, tu lance perce le rocher ; tu es l’asile de l’I
 
 Il nous arrive maintenant une nouvelle alliaire qui nous met en danger et qui brise mon cœur de souci.
 
-Les héros de l’Iran se sont rassemblés ; ils ont lu une lettre de Guzdehem que je t’envoie et tous ces braves ont décidé que Guiv le noble guerrier se rendrait auprès de toi et te porterait cette lettre, dans laquelle tu verras tout ce qu’il nous écrit, le hm. et le mauvais.
+Les héros de l’Iran se sont rassemblés ; ils ont lu une lettre de Guzdehem que je t’envoie et tous ces braves ont décidé que Guiv le noble guerrier se rendrait auprès de toi et te porterait cette lettre, dans laquelle tu verras tout ce qu’il nous écrit, le hm et le mauvais.
 
-Quand tu l’auras lue, que ce soit de jour ou de nuit, n’ouvre pas la bouche pour parler, et si tu tiens à la main un bouquet de roses, ne prends pas le temps de le sentir, mais décide-toi surlechamp et viens ici.
+Quand tu l’auras lue, que ce soit de jour ou de nuit, n’ouvre pas la bouche pour parler et si tu tiens à la main un bouquet de roses, ne prends pas le temps de le sentir, mais décide-toi surlechamp et viens ici.
 
 J’espère donc que tu accourras du Zaboulistan avec des cavaliers pleins de prudence et que tu feras entendre ton cri de guerre.
 
@@ -73,7 +73,7 @@ Nonça les bonnes et les mauvaises nouvelles et lui présenta les dons du roi.
 
 Tehemten écouta et lut la lettre, il sourit et resta confondu ; enfin il dit :
 
-> Qu’il parût dans le monde, parmi les grands, un cavalier semblable à Sam, ce ne serait pas étonnant s’il était né parmi les hommes libres (les Iraniens) ; mais que ce cavalier vienne du pays des Turcs, cela n’est pas croyable.
+> Qu’il parût dans le monde, parmi les grands, un cavalier semblable à Sam, ce ne serait pas étonnant s’il était né parmi les hommes libres des Iraniens) ; mais que ce cavalier vienne du pays des Turcs, cela n’est pas croyable.
 
 Personne ne peut donc me dire d’où vient ce Pehlewan et je ne saurai pas de quelle race est ce cavalier ?
 
@@ -96,7 +96,9 @@ O Pehlewan du monde, ô vaillant guerrier !
 >
 > Que le trône et la couronne soient illustrés par toi, car tu es digue du diadème, ô prince fortuné !
 >
-> Le roi Kaous m’a donné ses ordres en ces termes : Tu ne dois pas dormir dans le Zaboulistan et si tu arrives de nuit, tu repartiras le matin.
+> Le roi Kaous m’a donné ses ordres en ces termes :
+
+> Tu ne dois pas dormir dans le Zaboulistan et si tu arrives de nuit, tu repartiras le matin.
 >
 > Car malheur à nous si nous sommes obligés de combattre avant votre arrivée.
 >
@@ -114,7 +116,7 @@ Rustem répondit :
 >
 > La fortune ne veillera pas toujours sur ce Turc et si elle s’endort, notre tâche ne sera pas difficile.
 >
-> Quand la mer déborde en jetant ses vagues, le souille du feu ardent ne lui peut résister et quand ce Turc verra de loin mon étendard, le cœur lui manquera, fût-il au milieu
+> Quand la mer déborde en jetant ses vagues, le souffle du feu ardent ne lui peut résister et quand ce Turc verra de loin mon étendard, le cœur lui manquera, fût-il au milieu
 9
 >
 > 8 d’une fête.
@@ -127,7 +129,7 @@ Ils portèrent la main aux coupes de vin, ils s’enice turc.»
 \*
 vrèrent et écoutèrent des chansons au lieu de penser au roi.
 
-Le lendemain, à l’aube du jour, Rustem, encore malade de sa débauche, ordonna une fête nouvelle ; cette journée fut encore consacrée à l’ivresse, et pendant ce second jour Rustem ne pensa pas au départ, car il ordonna aux cuisiniers de dresser sur-le-champ une table et après le repas ils tinrent une assemblée et firent venir du vin, de la musique et des chanteurs.
+Le lendemain, à l’aube du jour, Rustem, encore malade de sa débauche, ordonna une fête nouvelle ; cette journée fut encore consacrée à l’ivresse et pendant ce second jour Rustem ne pensa pas au départ, car il ordonna aux cuisiniers de dresser sur-le-champ une table et après le repas ils tinrent une assemblée et firent venir du vin, de la musique et des chanteurs.
 
 Ce jour étant passé, il prépara pour le
 ’ lendemain une nouvelle assemblée, brillante comme le soleil ; et au matin du troisième jour, il fit apporter du vin, sans se souvenir de Kaous.
@@ -144,6 +146,6 @@ Rustem lui ré-
 
 KEI nous. se pondit : Ne te mets pas en peine de cela, car personne au monde n’osera se fâcher contre nous.»
 
-Ensuite il ordonna qu’on sellât Raksch et fit sonner les trompettes d’airain ; les cavaliers du Zaboulistan entendirent le son des trompettes et se mirent en marche couverts de casquas et de cuirasses.
+Ensuite, il ordonna qu’on sellât Raksch et fit sonner les trompettes d’airain ; les cavaliers du Zaboulistan entendirent le son des trompettes et se mirent en marche couverts de casquas et de cuirasses.
 
 Rustem mit en ordre cette armée nombreuse et nomma Zewareh Pehlewan de ses troupes.
