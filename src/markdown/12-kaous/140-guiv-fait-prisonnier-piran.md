@@ -21,13 +21,13 @@ Guiv ne se pressa pas de combattre et lorsque le Sipehbed fut sorti de l’eau, 
 
 Son ennemi le suivit de près et le monde devint noir comme la nuit sombre.
 
-Mais Guiv, lorsqu’il l’eut attiré loin du fleuve et de son armée, détacha de la selle sa massue de combat, et se jeta sur le Pehlewan : tu aurais dit que c’était un dragon furieux.
+Mais Guiv, lorsqu’il l’eut attiré loin du fleuve et de son armée, détacha de la selle sa massue de combat et se jeta sur le Pehlewan : tu aurais dit que c’était un dragon furieux.
 
 Piran le lion s’enfuit à son tour devant Guiv qui le poursuivit et qui, sans que le puissant Pehlewan s’en aperçût. détacha son lacet KEÏ nous. : roulé du crochet de la selle, tourna plusieurs fois son bras, fit voler la courroie et y prit Piran.
 
 La tête du Pehlewan se trouvait dans le nœud du lacet et Guiv enleva ainsi Piran de la selle.
 
-Ensuite il le fit ignominieusement marcher àpied devantlui et l’amena à une grande distance du fleuve.
+Ensuite, il le fit ignominieusement marcher àpied devantlui et l’amena à une grande distance du fleuve.
 
 Là il le jeta par terre, lui lia les mains, se revêtit de son armure, monta sur son cheval, prit sa bannière et s’en retourna au bord du Gulzarrioun.
 
@@ -37,7 +37,7 @@ Guiv, voyant cela, entra dans le fleuve comme un vaisseau qui fend les vagues et
 
 Toute l’armée le regarda avec étonnement, il lâcha la bride à son cheval et se raffermit sur les étriers et les grands furent frappés de terreur.
 
-Il renversa les Turcs dans la poussière avec son épée et ses étriers, avec ses épaules et avec son souille et bientôt toute la plaine fut couverte de monceaux de morts.
+Il renversa les Turcs dans la poussière avec son épée et ses étriers, avec ses épaules et avec son souffle et bientôt toute la plaine fut couverte de monceaux de morts.
 
 Cesbraves eurent peur de sa massue et tous lui tournèrent le dos ; il était comme un lion qui se jette au milieu d’un troupeau et cette grande armée et tous ces guerriers s’enfuirent devant lui ; ensuite il s’en retourna victorieux et repassa le fleuve : tu aurais dit qu’il n’avait pas vu d’ennemi, même en songe.
 
@@ -49,7 +49,7 @@ Il l’amena ainsi devant le roi, humilié, les joues pâles, honteux et la têt
 
 Il descendit lui-même de cheval, baisa la terre devant le roi, lui rendit hommage et lui dit :
 
-> (le traître s’est pris dans les replis de la queue du dragon.
+> de traître s’est pris dans les replis de la queue du dragon.
 >
 > Siawusch a livré sa tête, parce qu’il a cru aux paroles de cet homme, qui doit périr comme Siawusch a péri.»
 
@@ -57,7 +57,7 @@ Piran se mit à.prononcer des bénédictions sur le roi, il gémit et baisa la t
 
 > Ô roi qui sais approfondir la vérité, qui brilles au milieu de la foule comme le soleil !
 >
-> Tu connais les angoisses que j’ai soudâtes à cause de toi et les soins dont cr je t’ai entouré, tu connnais les luttes que j’ai soutenues pour toi contre Afrasiab.
+> Tu connais les angoisses que j’ai soudâtes à cause de toi et les soins dontje t’ai entouré, tu connnais les luttes que j’ai soutenues pour toi contre Afrasiab.
 >
 > Si ton esclave se fût trouvé à la cour du roi, Siawusch n’eût pas été tué.
 >
