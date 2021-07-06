@@ -19,7 +19,9 @@ Afrall. 1 9
 
 Siab les fit appeler, leur assigna des places d’honneur près de lui et leur parla à eux tous, grands et petits.
 
-Il s’adresse en ces termes aux sages renommés, aux astrologues et aux Mobeds : Personne au monde ne doit entendre parler, ni en public ni en secret, de ce songe et de ce que je vais vous raconter ; et si quelqu’un laisse échapper de ses lèvres un mot sur cette affaire, je lui trancherai la tête.»
+Il s’adresse en ces termes aux sages renommés, aux astrologues et aux Mobeds :
+
+> Personne au monde ne doit entendre parler, ni en public ni en secret, de ce songe et de ce que je vais vous raconter ; et si quelqu’un laisse échapper de ses lèvres un mot sur cette affaire, je lui trancherai la tête.»
 
 Il leur donna beaucoup d’or et d’argent, pour qu’aucun d’eux, effrayé par ces paroles, ne s’éloignât ; ensuite il leur raconta son rêve.
 
@@ -59,8 +61,8 @@ Il dévoila à Guersiwez ces secrets et lui raconta les paroles mystérieuses qu
 >
 > J’enverrai à Siawusch de l’ar-.
 >
-> 2l0 LE LIVRE DES Bols. gent et de l’or, une couronne, un trône, un casque et une ceinture.
+> 2l0 DES Bols. gent et de l’or, une couronne, un trône, un casque et une ceinture.
 >
-> Minoutchehr n’a pas divisé le monde selon la justice et a fait trop grande la part du roi de l’Iran ; mais en ne touchant pas à la dis- tribution de la terre, telle qu’elle a été faite anciennement, j’espère que ces malheurs ne me frapperont pas et que ces deux flammes s’éteindront dans l’eau du Quand j’aurai cousu avec de l’or l’œil de tout prétexte de guerre, il faudra bien que le ciel m’épargne les malheurs.
+> Minoutchehr n’a pas divisé le monde selon la justice et a fait trop grande la part du roi de l’Iran ; mais en ne touchant pas à la distribution de la terre, telle qu’elle a été faite anciennement, j’espère que ces malheurs ne me frapperont pas et que ces deux flammes s’éteindront dans l’eau du Quand j’aurai cousu avec de l’or l’œil de tout prétexte de guerre, il faudra bien que le ciel m’épargne les malheurs.
 >
 > Je ne demande pas d’autre sort que ce qui est écrit ; car il faut que toute chose croisse, telle que Dieu l’a semée.»
