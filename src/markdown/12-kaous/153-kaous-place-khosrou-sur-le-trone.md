@@ -19,11 +19,13 @@ Son grand-père le prit par la main et l’y lit monter ; il lui céda sa place 
 
 Il fit apporter de son trésor une offrande composée d’émeraudes et d’un grand nombre de joyaux dignes d’un roi et prononça beaucoup de bénédictions sur la mémoire de Siawusch, dont les traits de Khosrou ollraient l’image.
 
-Les grands, les chefs (le M4 l’armée et les puissants de la terre s’avancèrent des deux côtés, rendirent hommage au nouveau roi et répandirent des perles et des pierreries en abondance.
+Les grands, les chefs de M4 l’armée et les puissants de la terre s’avancèrent des deux côtés, rendirent hommage au nouveau roi et répandirent des perles et des pierreries en abondance.
 
 Telle est la coutume du monde, il prend d’une main et donne de l’autre.
 
-Ses tromperies nous ailligent ; tantôt nous sommes en haut, tantôt en bas. Ô mon fils I si ton cœur parvient à être heureux, puisses-tu rester éternellement sur la terre !
+Ses tromperies nous ailligent ; tantôt nous sommes en haut, tantôt en bas.
+
+Ô mon fils I si ton cœur parvient à être heureux, puisses-tu rester éternellement sur la terre !
 
 Quand tu es dans le bonheur, jouisen ; quand tu es dans l’abondance, faisen jouir les autres et ne tourmente pas ton cœur.
 
