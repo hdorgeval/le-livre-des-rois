@@ -23,7 +23,7 @@ Rustem lui dit :
 >
 > Kaous est ce qu’il a toujours été et sa sévérité, au lieu de diminuer, ne fait qu’augmenter.
 >
-> Mais moi je peux aller auprès de lui et lui dévoiler le secret ; je déchirerai la terre si tu le désires. et si je vais à la cour, je n’en attends que de l’honneur pour toi.»
+> Mais moi je peux aller auprès de lui et lui dévoiler le secret ; je déchirerai la terre si tu le désires et si je vais à la cour, je n’en attends que de l’honneur pour toi.»
 
 Siawusch fut aise de ces paroles et renonça au projet d’envoyer des messagers.
 
@@ -37,12 +37,11 @@ Si quelqu’un se dérobait à l’obéissance qu’on lui doit, il n’éprouve
 Puisse le créateur du soleil et de la lune. qui donne de la splendeur aux couronnes et aux trônes, répandre ses grâces sur le roi, le maître du monde, l’élu d’entre les grands, lui dont l’esprit approfondit le bien et le mal, lui dont la stature est la colonne qui soutient l’intelligence !
 
 Je suis arrivé à Balkh et j’ai joui de la vie dans le gai
-- printemps.
+-printemps.
 
 Aussitôt qu’Afrasiab a su mon arrivée, le soleil s’est obscurci devant ses yeux ; il savait que sa position devenait difficile : le monde se troublait devant lui et sa fortune baissait.
 
-Son frère est venu auprès de moi avec des présents et beaucoup d’esclaves belles et parées : il est venu demander la protection du roi du monde et promettre de renoncer à la couronne et au trône des rois, de se contenter des limites de son royaume et de ne pas prétendre à plus qu’à sa place et à l’honneur qui lui est dû ; de ne plus fouler la terre d’Iran et d’épurer son cœur de toute envie de vengeance et de ) 
- combats.
+Son frère est venu auprès de moi avec des présents et beaucoup d’esclaves belles et parées : il est venu demander la protection du roi du monde et promettre de renoncer à la couronne et au trône des rois, de se contenter des limites de son royaume et de ne pas prétendre à plus qu’à sa place et à l’honneur qui lui est dû ; de ne plus fouler la terre d’Iran et d’épurer son cœur de toute envie de vengeance et de ) combats.
 
 Enfin Afrasiab m’a envoyé pour otages cent de ses parents.
 
