@@ -15,7 +15,7 @@ order: '113'
 
 Au milieu d’une nuit noire, où la lune était invisible et pendant que les oiseaux et les bêtes fauves dormaient, Piran eut un songe : il vit une lumière qui émanait du soleil et au milieu de cette lumière Siawusch, une épée à la main, qui lui dit :
 
-> Ce n’est pas le temps de rester couché, secoue le doux sommeil et pense aux destinées du monde ; c’est aujourd’hui un jour de gloire, un jour de fête, car cette nuit doit naître le roi Keî Khosrou.»
+> Ce n’est pas le temps de rester couché, secoue le doux sommeil et pense aux destinées du monde ; c’est aujourd’hui un jour de gloire, un jour de fête, car cette nuit doit naître le roi Keï Khosrou.»
 
 Le Sipehbed tremblait dans son doux sommeil et Gulschehr au visage de soleil se réveilla.
 
@@ -25,7 +25,7 @@ Piran lui dit :
 
 > Pourquoi dors-tu ?
 >
-> Ne tarde pas et va à la fête du roi Keî Khosrou.»
+> Ne tarde pas et va à la fête du roi Keï Khosrou.»
 
 DF.
 
@@ -53,11 +53,10 @@ près du roi.
 
 Il y resta jusqu’à ce que l’assemblée se fût retirée, alors il s’approcha du trône glorieux et dit à Afrasiab :
 
-> Ô prince qui ressembles au soleil!
+> Ô prince qui ressembles au soleil !
 ô maître du monde, roi vigilant et expert dans les arts magiques !
 >
-> Il t’est né cette nuit dans mon palais un nouvel esclave, tu dirais qu’il est formé de miel ; 
- il n’y a pas d’enfant aussi beau que lui dans le monde, tu dirais que c’est une lune dans un ber- cean ; et si Tour revenait à la vie, il serait envieux de la mine et du visage de cet enfant.
+> Il t’est né cette nuit dans mon palais un nouvel esclave, tu dirais qu’il est formé de miel ; il n’y a pas d’enfant aussi beau que lui dans le monde, tu dirais que c’est une lune dans un bercean ; et si Tour revenait à la vie, il serait envieux de la mine et du visage de cet enfant.
 >
 > Jamais on n’a vu dans le palais une peinture belle comme lui et la majesté du roi s’est rajeunie dans son petit-fils.
 >
@@ -78,8 +77,7 @@ Il répondit à Piran :
 > N’é-
 Iève pas cet enfant au milieu de la foule ; envoie-le dans la montagne, parmi les pâtres, afin qu’il n’apr prenne pas qui je suis ni pourquoi je l’ai fait confier
 >
-> 
-aux pâtres, afin que personne ne l’instruise ni ne lui apprenne sa naissance et que tout ce qui s’est passé lui reste inconnu.»
+> aux pâtres, afin que personne ne l’instruise ni ne lui apprenne sa naissance et que tout ce qui s’est passé lui reste inconnu.»
 
 Il continua à dire sur ce sujet ce qu’il pensait ; il croyait que ce vieux monde était jeune et sans expérience.
 
