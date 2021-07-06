@@ -19,7 +19,9 @@ Il vit un bois au milieu de la large plaine, tu aurais cru qu’on ne pouvait le
 
 Alors ce Turc ouvrit imprudemment ses lèvres et dità :
 
-> ) Zewareh : Ici étaient les réserves de chasse de Sia- wusch, voilà le lieu qu’il préférait à tout le pays de Touran ; c’est ici qu’il était gai et heureux, partout ce ailleurs il était triste. v Lorsque Zewareh eut entendu ces paroles, le souvenir de ce qui s’était passé autrefois se réveilla dans son esprit ; lorsque les paroles du Turc frappèrent son oreille, il tomba de cheval et perdit connaissance.
+> ) Zewareh : Ici étaient les réserves de chasse de Siawusch, voilà le lieu qu’il préférait à tout le pays de Touran ; c’est ici qu’il était gai et heureux, partout ce ailleurs il était triste.»
+
+Lorsque Zewareh eut entendu ces paroles, le souvenir de ce qui s’était passé autrefois se réveilla dans son esprit ; lorsque les paroles du Turc frappèrent son oreille, il tomba de cheval et perdit connaissance.
 
 Il portait un faucon sur le poing ; il le laissa envoler et ses cils se remplirent de sang.
 
@@ -34,10 +36,9 @@ Zewareh fit un grand serment pendant que ses deux yeux versaient des larmes de d
 Il faut maintenant nous préparer au combats Lorsqu’il fut arrivé près de Rustem et dès qu’il l’aperçut, il lui dit en poussant des cris de rage :
 
 > Sommes-nous venus ici pour exercer la vengeance, ou sommes-nous venus pour faire le bonheur de ce pays ?
-
-Puisque Dieu le distributeur des grâces t’a donné de la force, puisqu’il t’a assigné en partage dans le ciel étoilé la sphère du soleil, pourquoi ne dévastons-nous pas ce pays ?
-
-Pourquoi y laissons-nous un seul heureux ?
-
-N’oublie pas la 
- .vengeance due à ce roi dont cent générations ne verront pas l’égal. n
+>
+> Puisque Dieu le distributeur des grâces t’a donné de la force, puisqu’il t’a assigné en partage dans le ciel étoilé la sphère du soleil, pourquoi ne dévastons-nous pas ce pays ?
+>
+> Pourquoi y laissons-nous un seul heureux ?
+>
+> N’oublie pas la .vengeance due à ce roi dont cent générations ne verront pas l’égal. n
