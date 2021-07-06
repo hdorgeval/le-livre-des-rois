@@ -21,7 +21,7 @@ Les plaines et les déserts étaient si brûlants que tu aurais dit que le feu v
 
 Le corps du cheval et la langue du cavalier étaient haletants de chaleur et de soif.
 
-Rustem descendit. et le javelot en main, il s’avança en chancelant conime un homme ivre.
+Rustem descendit et le javelot en main, il s’avança en chancelant conime un homme ivre.
 
 Il ne vit aucun moyen de sauver sa vie et il tourna ses regards vers le ciel en disant :
 
@@ -39,16 +39,16 @@ Il tomba sur le sol brûlant et sa langue se fendait de soif.
 
 Dans ce moment un bélier bien nourri passa devant I Tehemten.
 
-A cette vue il lui vint une pensée et il dit dans son cœur :
+À cette vue il lui vint une pensée et il dit dans son cœur :
 
 > Où peut donc être l’abreuvoir
-- de cet animal ?
+-de cet animal ?
 >
 > Certainement c’est la grâce de Dieu qui se répand sur moi en ce moment.»
 
 V Il serra son épée dans sa main droite et se leva avec la force que Dieu le maître du monde lui avait donnée.
 
-Il suivit les pas du bélier, tenant d’une main son épée et prenant de l’autre la bride de Raksch, et il trouva dans son chemin une source d’eau, vers laquelle s’était dirigé le bélier qui tenait haut la tête.
+Il suivit les pas du bélier, tenant d’une main son épée et prenant de l’autre la bride de Raksch et il trouva dans son chemin une source d’eau, vers laquelle s’était dirigé le bélier qui tenait haut la tête.
 
 Rustemleva les yeux vers le ciel et dit : : Ô Seigneur, qui ne promets jamais en vain !
 
@@ -61,9 +61,7 @@ Puis Rustem prononça ses bénédictions sur le bélier du désert, en disant :
 
 > Puissent les rotations du ciel ne t’apporter aucun malheur !
 >
-> Puissent les herbes de les vallées et de tes déserts être 
-ses
-toujours vertes !
+> Puissent les herbes de les vallées et de tes déserts être ses toujours vertes !
 >
 > Puisse le cœur du guépard ne jamais se réjouir aux dépens de ta vie !
 >
@@ -77,7 +75,7 @@ Rustem s’étant rafraîchi, se prépara à la chasse ; il s’arma et remplit 
 
 Il abattit un onagre semblable à un éléphant sauvage, lui enleva la peau, les pieds et les entrailles ; il alluma un feu ardent comme le soleil, tira l’anagre de l’eau, le fit rôtir au feu et l’ayant cuit à point, se mit à manger, détachant la chair des os avec ses ongles.
 
-Ensuite il se rendit à la source limpide, se baigna et ayant fini, pensa à se coucher.
+Ensuite, il se rendit à la source limpide, se baigna et ayant fini, pensa à se coucher.
 
 Il dit à Raksch son cheval ardent :
 
