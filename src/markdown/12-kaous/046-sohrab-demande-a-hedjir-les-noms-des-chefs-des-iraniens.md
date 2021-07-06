@@ -18,7 +18,7 @@ Lorsque le soleil éleva son bouclier d’or et que ses rayons parurent au firma
 Une épée était suspendue sur sa poitrine, un casque royal couvrait sa tête ; au crochet de sa selle était un lacet roulé sur lui-même soixante fois ; sa mine inspirait la terreur.
 
 C’est ainsi qu’il sortit et il alla choisir un endroit escarpé. d’où
-il pût voir l’armée (les Iraniens.
+il pût voir l’armée des Iraniens.
 
 Il fit venir Hedjir auprès de lui et lui dit :
 
@@ -36,13 +36,17 @@ Hedjir lui repondit : Sur tout ce que le roi me demandera au sujet de l’armée
 
 Tu ne trouveras en moi que de la droiture et je n’ai pas l’intention de te tromper.
 
-La droiture est le meilleur guide dans le monde et aucune pensée n’est pire que celle de mentir. n Alors Sohrab reprit : Je vais t’adresser des questions sur tous. les grands, sur le roi et sur le peuple, sur tous les guerriers illustres de ce pays, tels que Guiv, Thous et Gouderz, tels que Bahram et Rustem l’illustre et tu me nommeras tous ceux que je te désignerai.
+La droiture est le meilleur guide dans le monde et aucune pensée n’est pire que celle de mentir.»
 
-Je vois une enceinte de brocart de différentes couleurs, qui renferme des tentes de peau de léopard et devant laquelle sont placés cent éléphants de guerre ; au-dessus de ce trône de
+Alors Sohrab reprit :
 
-KEI nous. turquoises bleu de mer flotte dans l’air un drapeau portant une figure du soleil sur un fond violet et surmonté d’une lune.
-
-Quel est ce camp assis au milieu de l’armée et à qui d’entre les braves de l’Iran appartient-il?»
+> Je vais t’adresser des questions sur tous. les grands, sur le roi et sur le peuple, sur tous les guerriers illustres de ce pays, tels que Guiv, Thous et Gouderz, tels que Bahram et Rustem l’illustre et tu me nommeras tous ceux que je te désignerai.
+>
+> Je vois une enceinte de brocart de différentes couleurs, qui renferme des tentes de peau de léopard et devant laquelle sont placés cent éléphants de guerre ; au-dessus de ce trône de
+>
+> KEI nous. turquoises bleu de mer flotte dans l’air un drapeau portant une figure du soleil sur un fond violet et surmonté d’une lune.
+>
+> Quel est ce camp assis au milieu de l’armée et à qui d’entre les braves de l’Iran appartient-il?»
 
 Hedjir lui répondit :
 
@@ -58,15 +62,17 @@ Hedjir répondit :
 
 > C’est Thous fils de Newder, car son drapeau porte la figure d’un éléphant.»
 
-Sohrab demanda : Quel est ce pavillon rouge devant lequel se tiennent beaucoup de cavaliers ?
+Sohrab demanda :
 
-On y voit un drapeau d’or avec une figure de lion et un joyau brillant dans le milieu.
-
-Derrière le drapeau est rangée une troupe nombreuse, tout armée de lances et couverte de cuirasses.
-
-Qui en est le maître ?
-
-Dis-moi son nom et ne provoque pas ta perte par un mensonge.»
+> Quel est ce pavillon rouge devant lequel se tiennent beaucoup de cavaliers ?
+>
+> On y voit un drapeau d’or avec une figure de lion et un joyau brillant dans le milieu.
+>
+> Derrière le drapeau est rangée une troupe nombreuse, tout armée de lances et couverte de cuirasses.
+>
+> Qui en est le maître ?
+>
+> Dis-moi son nom et ne provoque pas ta perte par un mensonge.»
 
 Hedjir répondit :
 
@@ -74,20 +80,19 @@ Hedjir répondit :
 >
 > Il a deux fois quarante fils semblables à
 >
-> 
-des éléphants et à des lions.
+> des éléphants et à des lions.
 >
 > Ni le crocodile courageux, ni le tigre du désert, ni le léopard de la montagne n’osent lutter avec lui.»
 
-À qui, demanda Sohrab, appartient cette enceinte verte gardée par une troupe nombreuse et dont le milieu est occupé par un trône brillant devant lequel est planté le drapeau de Kaweh’?
+À qui, demanda Sohrab, appartient cette enceinte verte gardée par une troupe nombreuse et dont le milieu est occupé par un trône brillant devant lequel est planté le drapeau de Kaweh’ ?
 
 Sur ce trône est assis un Pehlewan qui a la mine, les épaules et les membres d’un héros et qui, quoique assis, dépasse de la tête tous ceux qui sont debout devant lui.
 
 Devant son trône se tient un destrier haut comme lui, jusqu’aux pieds duquel pend un lacet.
 
-De temps en temps le cheval hennit. vers son maître, tu dirais que c’est la mer qui gronde.
+De temps en temps le cheval hennit vers son maître, tu dirais que c’est la mer qui gronde.
 
-Beaucoup d’éléphants caparaçonnés sont rangésldevant le héros assis, qui semble bouillon- ner sur son siégé.
+Beaucoup d’éléphants caparaçonnés sont rangésldevant le héros assis, qui semble bouillonner sur son siégé.
 
 Il n’y a dans l’Iran aucun homme de sa stature et je ne vois pas de cheval comparable à celui-ci.
 
@@ -96,12 +101,14 @@ Regarde son enseigne, elle porte l’image d’un dragon et sur la pointe est fi
 Hedjir dit en lui-même :
 
 > Si j’indique à ce lion plein de cœur les signes qui distinguent Rustem au corps ’éléphant, il ne tardera pas à l’anéantir.
+>
+> Ne vaut-il pas mieux que je les tienne secrets et que j’omette son nom dans le dénombrement des braves ?»
 
-Ne vaut-il pas mieux que je les tienne secrets et que j’omette son nom dans le dénombrement des braves?n Il répondit à Sohrab :
+Il répondit à Sohrab :
 
 > C’est quelque allié venu de la Chine et arrivé nouvellement auprès du roi.r.
 
-Sohrab de- manda son nom au noble Hedjir, qui lui dit :
+Sohrab demanda son nom au noble Hedjir, qui lui dit :
 
 > Je n’en ai aucun souvenir, car j’étais dans cette forteresse quand il a rejoint le roba Sohrab s’attrista de ce qu’il ne trouvait aucune trace de Rustem.
 
@@ -124,7 +131,7 @@ Hedjir répondit :
 
 > C’est Guiv fils de Gouderz, que les braves appellent Guiv le vaillant.
 >
-> C’est l’aîné et le meilleur des fils de Gouderz, et les deux tiers de l’armée des Iraniens lui obéissent.
+> C’est l’aîné et le meilleur des fils de Gouderz et les deux tiers de l’armée des Iraniens lui obéissent.
 >
 > Ce brave est le gendre de Rustem et le pays d’Iran contient peu d’hommes comme lui.»
 
@@ -132,8 +139,7 @@ Sohrab lui dit :
 
 > Je vois du côté où le soleil brillant se lève une enceinte blanche de brocart de Roum, devant laquelle sont rangés plus de mille cavaliers et des fantassins armés de boucliers et de javelots, for-
 >
-> 
-mant une armée innombrable.
+> mant une armée innombrable.
 >
 > Leur chef est assis sur un trône dont les degrés sont d’ivoire et le siège de bois de tek.
 >
@@ -151,7 +157,9 @@ Sohrab répliqua :
 
 Derrière l’enceinte on voit un autre drapeau avec une figure de sanglier et dont la pointe fort haute est surmontée d’une lune d’argent.»
 
-Hedjir répondit z Son nom est Gourazeh, guerrier qui ne tourne pas bride dans le combat des lions ; il est prudent, issu de la famille de Guiv et la peine et le danger ne le font pas murmurer.»
+Hedjir répondit :
+
+> Son nom est Gourazeh, guerrier qui ne tourne pas bride dans le combat des lions ; il est prudent, issu de la famille de Guiv et la peine et le danger ne le font pas murmurer.»
 
 Sohrab cherchait les traces de son père, mais Hedjir ne les lui indiquait pas et tenait sur ce point la vérité cachée.
 
@@ -175,11 +183,13 @@ Mais le Sipehbed Hedjir lui répondit :
 >
 > Si je ne t’ai pas dit le nom de ce Chinois, c’est que je ne le connais pas.»
 
-Sohrab reprit : Ce n’est pas vrai ; car tu n’as pas dit un mot de Rustem et un homme qui est Pehlewan du monde ne peut pas rester caché au milieu d’un camp.
+Sohrab reprit :
 
-Tu m’as assuré qu’il est le chef de l’armée et le gardien de toutes les frontières et de toutes les provinces.
-
-Or dans une campagne où Kaous lui-même conduit ses troupes, où il place son trône et son diadème sur le dos des éléphants de guerre, le Pehlewan du monde doit marcher devant lui quand la voix du tonnerre gronde sur le champ de bataille.»
+> Ce n’est pas vrai ; car tu n’as pas dit un mot de Rustem et un homme qui est Pehlewan du monde ne peut pas rester caché au milieu d’un camp.
+>
+> Tu m’as assuré qu’il est le chef de l’armée et le gardien de toutes les frontières et de toutes les provinces.
+>
+> Or dans une campagne où Kaous lui-même conduit ses troupes, où il place son trône et son diadème sur le dos des éléphants de guerre, le Pehlewan du monde doit marcher devant lui quand la voix du tonnerre gronde sur le champ de bataille.»
 
 Hedjir lui répondit :
 
@@ -219,15 +229,17 @@ Hedjir lui répondit :
 >
 > Quand il entre en colère au jour du combat, que sont dans sa main un lion, un éléphant, un homme?»
 
-Sohrab, fils d’un noble père, s’écria : Malheur à Gouderz fils de Keschwad, qui n’est qu’un enfant comme toi, malgré sa puissance, sa sagesse et sa
+Sohrab, fils d’un noble père, s’écria :
 
-KEI nous. tu bravoure !
-
-Où as-tu donc vu des hommes de guerre , toi qui n’as pas entendu le bruit du pied d’un chenal, toi qui parles ainsi de Rustem et ne fais que célébrer ses louanges ?
-
-Tant que la mer se balance tranquillement, tu as peut du feu ; mais quand tout à coup elle déborde, il ne reste plus un souille au feu dévorant.
-
-De même llohscurité cache sa tête quand le soleil tire l’épée ardente.»
+> Malheur à Gouderz fils de Keschwad, qui n’est qu’un enfant comme toi, malgré sa puissance, sa sagesse et sa
+>
+> KEI nous tu bravoure !
+>
+> Où as-tu donc vu des hommes de guerre, toi qui n’as pas entendu le bruit du pied d’un chenal, toi qui parles ainsi de Rustem et ne fais que célébrer ses louanges ?
+>
+> Tant que la mer se balance tranquillement, tu as peut du feu ; mais quand tout à coup elle déborde, il ne reste plus un souffle au feu dévorant.
+>
+> De même llohscurité cache sa tête quand le soleil tire l’épée ardente.»
 
 Hedjir, dans son inexpérience, dit en lui-même :
 
@@ -243,8 +255,7 @@ Le Mobed a dit :
 >
 > Le vieux Gouderz a, sans me compter, soixante et seize fils au cœur de lion, comme Guiv le maître du monde, le destructeur des armées, qui est partout le premier d’entre le peuple, comme Bahram et Rehham qui portent haut la tête, comme Schidousch le Il
 >
-> H
-brave, le vainqueur des lions ; ils me chériront après ma mort et arracheront la vie à mes ennemis pour me venger.
+> H brave, le vainqueur des lions ; ils me chériront après ma mort et arracheront la vie à mes ennemis pour me venger.
 >
 > Puisqu’il reste encore au pays d’Iran Gouderz et ses soixante et dix fils illustres, je peux lui manquer.
 >
