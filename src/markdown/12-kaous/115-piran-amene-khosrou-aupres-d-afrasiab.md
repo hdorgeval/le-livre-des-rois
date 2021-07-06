@@ -37,8 +37,7 @@ Piran lui dit :
 >
 > J’ai entendu dire hier. soir à son père nourricier qu’il a un visage de Péri, mais .qu’il manque de sens.
 >
-> Ses traits sont beaux et sa taille Il r) itlit
-est haute ; mais cette tête, qui devrait porter une couronne, est dépourvue de raison.
+> Ses traits sont beaux et sa taille Il r) itlit est haute ; mais cette tête, qui devrait porter une couronne, est dépourvue de raison.
 >
 > Ne t’inquiète pas et ne commets pas de violence, carje te répondrede lui.
 >
@@ -62,9 +61,9 @@ Piran baisa la terre et lui dit :
 >
 > Puisse l’intelligence te guider vers le bien !
 >
-> Puisse le monde et l’époque être la a poussière de tes pieds!»
+> Puisse le monde et l’époque être la a poussière de tes pieds !»
 
-Il courut auprès de Keî Khosrou, sa joue était co- 3M Iorée, son cœur était heureux ; il lui dit :
+Il courut auprès de Keï Khosrou, sa joue était co-3M Iorée, son cœur était heureux ; il lui dit :
 
 > Chasse à présent la raison de ta tête ; s’il te parle guerre, réponds-lui noces ; aborde-le comme si tu lui étais étranger, ne laisse prononcer à ta langue que des paroles insensées, ne laisse apercevoir aucune trace de raison, afin que le jour d’aujourd’hui passe sans te porter malheur.»
 
@@ -74,13 +73,13 @@ Le jeune héros à l’âme pure demanda d’une voix douce un cheval rapide et 
 
 On leur entendit dire : Faites place !
 
-Voici le jeune héros qui demande une conronne!»
+Voici le jeune héros qui demande une couronne !»
 
 Il entra chez le roi et le Sipehdar Piran le présenta.
 
-Lorsqu’il s’approcha d’Afrasiab, les joues de son grand-père furent inondées de larmes de honte ; Piran tremblait comme la branche du saule, car il désespérait de la vie de Keî Khosrou.
+Lorsqu’il s’approcha d’Afrasiab, les joues de son grand-père furent inondées de larmes de honte ; Piran tremblait comme la branche du saule, car il désespérait de la vie de Keï Khosrou.
 
-Le roi observa longtemps Keî Khosrou et resta confondu de cette mine royale, de cette main puissante, de cette manière de marcher, de cette dignité et de ce port majestueux ; il chercha à se rappeler ses promesses et à réprimer sa haine.
+Le roi observa longtemps Keï Khosrou et resta confondu de cette mine royale, de cette main puissante, de cette manière de marcher, de cette dignité et de ce port majestueux ; il chercha à se rappeler ses promesses et à réprimer sa haine.
 
 Il resta quelque temps dans cet état ; à la fin ses traits s’éclaircirent et le sort fit naître en lui de la tendresse pour cet enfant.
 
@@ -92,13 +91,13 @@ Il lui dit :
 
 (in.
 
-2 LE LIVRE DES BOlS.
+2 DES BOlS.
 
 Khosrou répondit :
 
 > Il n’y a pas de gibier et je n’ai ni arc, ni flèches, ni cordes.»
 
-Le roi l’interrogea alors sur les leçons qu’on lui donnait. et sur la bonne ou mauvaise fortune qu’il éprouvait.
+Le roi l’interrogea alors sur les leçons qu’on lui donnait et sur la bonne ou mauvaise fortune qu’il éprouvait.
 
 Khosrou répondit :
 
@@ -122,13 +121,13 @@ Le roi sourit et s’épanouit. comme une rose et lui dit d’une voix douce :
 
 > Ne veuxtu pas apprendre à écrire ?
 >
-> N’as-tu pas envie de te ven n-ger de tes ennemis?»
+> N’as-tu pas envie de te ven nger de tes ennemis?»
 
 L’enfant répondit :
 
 > Il n’y a plus de crème dans le lait ; je voudrais chasser du ce désert tous les pâtres.»
 
-Le roi rit de ces paroles. et se tourna vers le Pehlewan de l’armée, disant :
+Le roi rit de ces paroles et se tourna vers le Pehlewan de l’armée, disant :
 
 > Il est fou.
 >
@@ -136,6 +135,6 @@ Le roi rit de ces paroles. et se tourna vers le Pehlewan de l’armée, disant :
 >
 > Il ne fera jamais ni bien ni mal, ce n’est" pas ainsi que sont laits les hommes qui veulent se venger.
 >
-> Pars, rends-le gracieusement à sa mère. et mets-le entre les mains d’un homme prudent ; envoie-le à Siawuschguird et éloigne de lui tout mauvais conseiller.
+> Pars, rends-le gracieusement à sa mère et mets-le entre les mains d’un homme prudent ; envoie-le à Siawuschguird et éloigne de lui tout mauvais conseiller.
 >
 > Donne-lui ce qu’il faut dlor et d’argent, de chevaux, de serviteurs et tout le reste.»
