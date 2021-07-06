@@ -19,17 +19,17 @@ Après cela quelqu’un dit à Kaous :
 >
 > Il ne faut pas que le roi prenne une autre compagne.
 >
-> Quel bonheur pour lui de posséder cette lune!»
+> Quel bonheur pour lui de posséder cette lune !»
 
 Kaous sentit son cœur tressaillir et répondit :
 
 > Ce conseil est bon et je demanderai à son père cette beauté, car elle convient à mon trône.»
 
-Alors, il choisit parmi lafoule un homme d’esprit et de savoir, issu d’une famille noble et doué d’une intelligence profonde, et lui ordonna d’aller dans le Hamaveran.
+Alors, il choisit parmi lafoule un homme d’esprit et de savoir, issu d’une famille noble et doué d’une intelligence profonde et lui ordonna d’aller dans le Hamaveran.
 
 Rends, dit.il, le roi favorable à mes vœux ; prépare son esprit par des paroles douces ; dis-lui que mon alliance est recherchée dans le monde par tous les grands qui ont de l’expérience, car le soleil emprunte sa splendeur de ma couronne, la terre est la base de mon trône d’ivoire et tous ceux qui ne vivent pas à l’ombre de mon asile seront humiliés.
 
-Maintenant e désire contracter avec toi une alliance ; je désire cimenter notre paix.
+Maintenant désire contracter avec toi une alliance ; je désire cimenter notre paix.
 
 Tu as derrière tes rideaux une fille dont j’ai entendu dire qu’elle est digne de mon trône, que son visage est pur et pur son corps et qu’on la célèbre dans chaque ville et dans chaque assemblée.
 
@@ -50,17 +50,18 @@ Puis, il dit à l’envoyé aux douces paroles :
 >
 > Il. exige de moi deux choses plus précieuses que toute autre que je connaisse.
 >
-> Mes richesses formaient ma sécurité et mon âme était heureuse par mon enfant.,Ma.is idorénavant mon cœur sera loin de moi etj’en confiai, quoique ce soit le mi de l’Iran qui me le ravisse ; 
- 9 néanmoins je lui donnerai tout ce qu’il me demande, et je ne me soustrairai pas’àv sa volonté et à ses ordres.»
+> Mes richesses formaient ma sécurité et mon âme était heureuse par mon enfant.,Ma.is idorénavant mon cœur sera loin de moi etj’en confiai, quoique ce soit le mi de l’Iran qui me le ravisse ; 9 néanmoins je lui donnerai tout ce qu’il me demande et je ne me soustrairai pas’àv sa volonté et à ses ordres.»
 
 ’ ’ .
-Dans sa. douleuril fit appeler Soudabeh et lui parla de Kaous en ces termes : Il est venu de la part du roi. qui porte haut la tête et qui n’a rien à désirer en’p’ouvoir et en bonheur, un messager aux paroles douces et tenant en main une lettre remplie de nouvelles.
+Dans sa. douleuril fit appeler Soudabeh et lui parla de Kaous en ces termes :
 
-Il désire me ravir, contre mon gré, monsieur, mon sommeil et mon repos.
-
-Qu’en distuÏÎKquel est ton désir en ceci ?
-
-Quel est ton prudent conseil en cette allaite?»
+> Il est venu de la part du roi. qui porte haut la tête et qui n’a rien à désirer en’p’ouvoir et en bonheur, un messager aux paroles douces et tenant en main une lettre remplie de nouvelles.
+>
+> Il désire me ravir, contre mon gré, monsieur, mon sommeil et mon repos.
+>
+> Qu’en distuÏÎKquel est ton désir en ceci ?
+>
+> Quel est ton prudent conseil en cette allaite?»
 
 Soudabeh lui répondit :
 
@@ -76,7 +77,7 @@ Le roi y employa sept jeurs, lui et les grands de sa cour ; ensuite il amena, le
 
 Corps de l’armée avaient formé leurs rangs.
 
-Dans une litière venait la jeune lune toute parée ; après elle venaient les présents et un cortège orné comme un paradis : tu aurais dit que l’air s’était. changé en tulipes. , magnifique arrivèrent devant le roi Kaous, la jeune lune sortit de la litière, semblable à un roi assis dans sa pompe sur un trône nouveau.
+Dans une litière venait la jeune lune toute parée ; après elle venaient les présents et un cortège orné comme un paradis : tu aurais dit que l’air s’était. changé en tulipes., magnifique arrivèrent devant le roi Kaous, la jeune lune sortit de la litière, semblable à un roi assis dans sa pompe sur un trône nouveau.
 
 De nombre uses tresses de musc noir tombaient sur ses joues de rose, des boucles d’ambre gris pendaient à ses oreilles, ses deux lèvres brillaient comme le rubis, ses deux yeux étaient noirs comme le narcisse, la colonne de ses deux sourcils (son nez) ressemblait à un roseau d’argent.
 
