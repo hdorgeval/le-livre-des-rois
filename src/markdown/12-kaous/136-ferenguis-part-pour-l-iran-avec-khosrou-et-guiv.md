@@ -19,7 +19,7 @@ Ferenguis se couvrit d’un casque et tous les trois partirent rapidement comme 
 
 Mais leur fuite ne resta pas longtemps cachée ; quelqu’un alla trouver Piran et lui dit :
 
-> Le noble Guiv est venu de l’Iran, il s’est rendu auprès du sage et vaillant prince et maintenant F erenguis, Khosrou et le héros avide de combats sont partis pour l’Iran.»
+> Le noble Guiv est venu de l’Iran, il s’est rendu auprès du sage et vaillant prince et maintenant Ferenguis, Khosrou et le héros avide de combats sont partis pour l’Iran.»
 
 Piran fut cons terné de ces paroles, il trembla comme une branche de tremble ; il se dit en lui-même :
 
@@ -33,12 +33,12 @@ Il choisit parmi les braves Kelbad et Nestihen, un homme de fer ; il ordonna à 
 
 > Partez !
 >
-> Et une fois à cheval ne perdez pas un instant, plantez la tête de Guiv au bout du fer d’une lance, enterrez F erenguis et enchaînez Keî Khosrou le maudit, car la trace de ses pieds est la mauvaise étoile du Touran.
+> Et une fois à cheval ne perdez pas un instant, plantez la tête de Guiv au bout du fer d’une lance, enterrez Ferenguis et enchaînez Keï Khosrou le maudit, car la trace de ses pieds est la mauvaise étoile du Touran.
 >
-> Si cet homme de mauvais augure parvient à franchir le Djihoun, quels malheurs ne causera-t-il pasà ce KEÏ nous. pays et à ces grands!»
+> Si cet homme de mauvais augure parvient à franchir le Djihoun, quels malheurs ne causera-t-il pasà ce KEÏ nous. pays et à ces grands !»
 
 C’est ainsi que partit, sous le commandement de deux Pehlewans circonspects, une troupe de jeunes guerriers.
 
 Ferenguis et son fils, accablés de lassitude, s’étaient endormis, car ils avaient fait beaucoup de chemin et passé des nuits fatigantes et Guiv veillait pour la garde du roi qui désirait la possession du monde.
 
-Khosrou et sa mère dormaient et Guiv, harassé de fatigue, mais soutenu par la colère, tenait les yeux fixés sur le chemin par lequel les cavaliers arrivaient ; il avait laissé son cheval caparaçonné, comme doit le faire un chef vaillant ; sa poitrine était couverte d’une cuirasse, sa tête de lion armée. d’un casque, son cœur était brûlant et il avait voué son corps à la mort.
+Khosrou et sa mère dormaient et Guiv, harassé de fatigue, mais soutenu par la colère, tenait les yeux fixés sur le chemin par lequel les cavaliers arrivaient ; il avait laissé son cheval caparaçonné, comme doit le faire un chef vaillant ; sa poitrine était couverte d’une cuirasse, sa tête de lion armée d’un casque, son cœur était brûlant et il avait voué son corps à la mort.
