@@ -21,13 +21,13 @@ Il revint à son camp dans la nuit profonde, les reins brisés du combat, mais l
 
 Il dit à Houman :
 
-> Il s’est élevé au- .jourd’hui un brouillard et le monde s’est rempli de luttes et de discorde.
+> Il s’est élevé au-.jourd’hui un brouillard et le monde s’est rempli de luttes et de discorde.
 >
 > Que vous a dit ce brave cavalier aux bras de héros, aux griffes de lion ?
 >
 > Qu’est-il venu faire contre mon armée entière, lui à qui je ne connais point d’égal dans le monde ?
 >
-> Qu’a-t-il dit à mes braves et que leur a-t-il fait avec son bras, lui qui m’a résisté dans le combat?
+> Qu’a-t-il dit à mes braves et que leur a-t-il fait avec son bras, lui qui m’a résisté dans le combat ?
 >
 > C’est un vieillard semblable à un lion et la lutte et les batailles ne le fatiguent pas.
 >
@@ -43,7 +43,7 @@ Houman lui répondit :
 
 Du moins, répondit Sohrab, il n’a pas tué un seul héros de mon armée, pendant que j’ai tué beaucoup d’Iraniens, j’ai coloré la terre de leur sang comme une rose.
 
-Vous n’avez fait que regarder, et cependant personne n’est venu me combattre ; à quoi d’ailleurs cela aurait-il servi ?
+Vous n’avez fait que regarder et cependant personne n’est venu me combattre ; à quoi d’ailleurs cela aurait-il servi ?
 
 Car si un lion
 
@@ -59,7 +59,9 @@ Le jour de demain sera un grand jour, où l’on verra à la’fin qui est loup 
 
 Je jure par le nom du Créateur, du maître unique, de ne pas laisser en vie un seul de mes ennemis.
 
-Maintenant il faut préparer des tables ce et du vin et dissiper avec les coupes les soucis du cœur. n Rustem. de son côté, inspecta son armée et s’entretint avec Guiv, en disant :
+Maintenant il faut préparer des tables ce et du vin et dissiper avec les coupes les soucis du cœur.»
+
+Rustem. de son côté, inspecta son armée et s’entretint avec Guiv, en disant :
 
 > Comment Sohrab le guerrier éprouvé s’est-il aujourd’hui comporté dans le combat?»
 
@@ -89,14 +91,13 @@ Rustem lui parla de Sohrab et lui raconta combien il était fort et haut de stat
 
 > Personne au monde n’a vu un enfant tout jeune doué d’un tel courage de lion et d’une telle bravoure.
 >
-> Sa tête froisse les astres et la terre ne peut porter le poids de son corps ; ses bras et ses cuisses sont comme les cuisses d’un dromadaire, et plus forts encore.
+> Sa tête froisse les astres et la terre ne peut porter le poids de son corps ; ses bras et ses cuisses sont comme les cuisses d’un dromadaire et plus forts encore.
 >
 > Nous avons essayé longtemps l’un contre l’autre toutes les armes, l’épée et les flèches, la massue et le lacet.
 >
-> À la fin je me suis rappelé combien de braves j’avais autrefois enlevés de selle, j’ai saisi les courroies de sa ceinture, j’en ai serré fortement le nœud, j’ai voulu le soulever de selle et le jeter par terre comme j’ai souvent fait à d’autres ; mais quand le vent ébranlera les mon- 
+> À la fin je me suis rappelé combien de braves j’avais autrefois enlevés de selle, j’ai saisi les courroies de sa ceinture, j’en ai serré fortement le nœud, j’ai voulu le soulever de selle et le jeter par terre comme j’ai souvent fait à d’autres ; mais quand le vent ébranlera les mon-
 >
-> I2lt
-tagnes, alors j’ébranlerai ce brave dans sa selle.
+> I2lt tagnes, alors j’ébranlerai ce brave dans sa selle.
 >
 > Quand il s’est fait tard, je l’ai quitté ; car la nuit était obscure et la lune ne luisait pas.
 >
@@ -114,7 +115,7 @@ Rustem répondit :
 
 > Par la grâce du roi, tout ce que désirent ceux qui lui sont dévoués sera accompli.»
 
-Ensuite il partit pour son camp, l’âme remplie de soucis, la tête pleine du désir de la vengeance.
+Ensuite, il partit pour son camp, l’âme remplie de soucis, la tête pleine du désir de la vengeance.
 
 Zewareh s’approche de lui, le cœur déchiré, pour savoir comment le sort avait traité le Pehlewan dans cette journée.
 
@@ -132,7 +133,7 @@ Il parla ainsi à son frère :
 >
 > Console le cœur de ma mère du sort que Dieu aura fait passer sur ma tête.
 >
-> Dis-lui de ne pas attacher son cœur à moi, de ne pas s’afiliger éternellement de ma mort.
+> Dis-lui de ne pas attacher son cœur à moi, de ne pas s’affliger éternellement de ma mort.
 >
 > Personne ne reste à jamais dans ce monde et je n’ai point à me plaindre du ciel.
 >
@@ -144,9 +145,8 @@ Il parla ainsi à son frère :
 >
 > Quand tu auras consolé ma mère, tu diras à Zal : Reste fidèle au roi du monde, n’hésite pas quand li.
 >
-> 
-il se prépare pour la guerre et obéis à ses ordres.
+> il se prépare pour la guerre et obéis à ses ordres.
 >
-> Jeunes et vieux, nous appartenons tous à la mort, et personne ne demeure pour toujours sur la terre.»
+> Jeunes et vieux, nous appartenons tous à la mort et personne ne demeure pour toujours sur la terre.»
 
 Ainsi parla Rustem au sujet de Sohrab pendant la moitié de la nuit et il donna l’autre moitié au repos et au sommeil.
