@@ -28,7 +28,7 @@ Il courba ainsi beaucoup de bons chevaux par la force de sa main sans en trouver
 
 Aucun de ces chevaux n’était digne de lui et le cœur du héros avide de gloire s’en resserra.
 
-À la fin un brave d’entre la foule s’approcha de Sohrab au corps d’éléphant, et lui dit :
+À la fin un brave d’entre la foule s’approcha de Sohrab au corps d’éléphant et lui dit :
 
 > J’ai un poulain de la race de Raksch, qui égale le lion en force et le vent en vitesse ; c’est un cheval haut comme une montagne qui s’élève au-
 dessus d’une vallée et il court dans la plaine comme un oiseau qui vole.
@@ -37,18 +37,19 @@ dessus d’une vallée et il court dans la plaine comme un oiseau qui vole.
 >
 > Ses pas ébranlent le tau-
 >
-> 
-areau-poisson qui soutient la terre ; son bond est rapide comme l’éclair ; sa stature est haute comme une montagne.
+> areau-poisson qui soutient la terre ; son bond est rapide comme l’éclair ; sa stature est haute comme une montagne.
 >
 > Il vole sur la montagne comme un corbeau : il nage dans la mer comme une araignée d’eau ; il court’dans la plaine comme une flèche partie de l’arc, quand il suit la trace de ses ennemis.»
 
 Les paroles de cet homme réjouirent Sohrab ; il sourit et ses joues brillèrent de joie.
 
-On amena incontinent ce cheval de belle couleur devant Sohrab ; il l’essaya en se servant de toute sa vigueur, et le trouva fort et tel qu’il lui fallait.
+On amena incontinent ce cheval de belle couleur devant Sohrab ; il l’essaya en se servant de toute sa vigueur et le trouva fort et tel qu’il lui fallait.
 
 Alors le héros, fils d’un brave, caressa le cheval, le flatta de la main, le sella et sauta sur son dos.
 
-Monté sur ce cheval, le glorieux héros ressemblait au mont Bisoutoun ; il prit dans sa main une lance haute comme une colonne et s’écria : Maintenant que j’ai un pareil destrier, je chevaucherai comme il convient ; je rendrai noir le jour devant Kaous.»
+Monté sur ce cheval, le glorieux héros ressemblait au mont Bisoutoun ; il prit dans sa main une lance haute comme une colonne et s’écria :
+
+> Maintenant que j’ai un pareil destrier, je chevaucherai comme il convient ; je rendrai noir le jour devant Kaous.»
 
 Il dit et rentrant au palais, il se prépara à la guerre contre les Iraniens ; et de tous côtés s’assemble autour de lui une armée, car il était de noble origine et prêt pour le combat.
 
