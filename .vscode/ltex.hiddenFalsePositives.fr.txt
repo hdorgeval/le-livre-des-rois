@@ -143,3 +143,12 @@
 {"rule":"FAIRE_VPPA","sentence":"^\\QC'est le fils de Zal, fils de Sam ; ne vois-tu pas qu'il vient armé de la massue de Sam ?\\E$"}
 {"rule":"PREP_V","sentence":"^\\QLa tête du vieux Zal est devenue comme la neige, le sang des braves a rougi la terre et à la fin personne n'obtiendra en partage une place plus grande que son corps ; nous resterons sous terre, après notre dernier jour, avec un linceul pour vêtement, avec une fosse pour demeure.\\E$"}
 {"rule":"AN_ANNEE","sentence":"^\\QLorsque cent années eurent passé sur son trône et sur sa couronne, sa fortune déclina ; et le roi, sentant qu'il était près de mourir et qu'une feuille verte allait se faner, appela le noble Keï Kaous et lui parla beaucoup sur la justice et la libéralité, en disant :\\E$"}
+{"rule":"D_N","sentence":"^\\QOr il avait auprès de lui un Div nommé Sandjeb, dont l'âme et le cœur étaient navrés de ces nouvelles.\\E$"}
+{"rule":"D_N","sentence":"^\\QVa auprès du Div blanc et cours comme le soleil qui traverse la voûte du ciel.\\E$"}
+{"rule":"ACCORD_GENRE","sentence":"^\\QIls ont brûlé toute la ville de Mazenderan, ils ont par leur agression allumé le feu de la vengeance.\\E$"}
+{"rule":"D_N","sentence":"^\\QSandjeb écouta le message et partit pour porter en toute hâte l'ordre du roi au Div blanc.\\E$"}
+{"rule":"D_N","sentence":"^\\QIl se présenta devant le Div avide de combats et lui répéta les paroles de son maître superbe.\\E$"}
+{"rule":"D_N","sentence":"^\\QLe Div blanc lui répondit :\\E$"}
+{"rule":"D_N","sentence":"^\\QLe huitième jour le Div blanc s'écria d'une voix de tonnerre :\\E$"}
+{"rule":"D_N","sentence":"^\\QArzeng ayant ouï ces paroles, partit pour la cour du roi de Mazenderan, avec l'armée et le butin, avec les prisonniers et les chevaux caparaçonnés ; puis le Div blanc s'en retourna à sa demeure, brillant comme le soleil et Kaous resta dans le Mazenderan, répétant : Ç'a été ma faute !\\E$"}
+{"rule":"D_N","sentence":"^\\QArzeng ayant ouï ces paroles, partit pour la cour du roi de Mazenderan, avec l'armée et le butin, avec les prisonniers et les chevaux caparaçonnés ; puis le Div blanc s'en retourna à sa demeure, brillant comme le soleil et Kaous resta dans le Mazenderan, répétant :\\E$"}
