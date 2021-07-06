@@ -64,7 +64,7 @@ Il dit au dragon :
 
 Le dragon malfaisant lui répondit :
 
-> Personne ne peut se sauver de mes griffes ; depuis des siècles et des siècles ce désert est mon séjour, et le ciel sublime qui le couvre est le lieu où je respire.
+> Personne ne peut se sauver de mes griffes ; depuis des siècles et des siècles ce désert est mon séjour et le ciel sublime qui le couvre est le lieu où je respire.
 >
 > Aucun aigle n’ose voler au-dessus et les étoiles ne le regardent pas même en rêve.»
 
@@ -78,9 +78,9 @@ Rustem lui répondit :
 >
 > A moi seul je suis une armée qui cherche le combat et je foule la terre assis sur Raksch le courageux.
 >
-> Tu me verras vainqueur dans le combat, et je ferai rouler ta tête sur la terre.»
+> Tu me verras vainqueur dans le combat et je ferai rouler ta tête sur la terre.»
 
-Le dragon se jeta sur lui pour le combattre, mais à la lin il n’eut pas le dessus ; car quand Raksch vit la force de corps du dragon qui assaillait ainsi le distributeur des couronnes, il coucha ses oreilles et (ô merveille!) se mit. à déchirer avec ses dents les deux épaules du dragon, à mettre en lambeaux sa peau comme aurait fait un lion ; et le vaillant Pehlewan en fut étonné.
+Le dragon se jeta sur lui pour le combattre, mais à la fin il n’eut pas le dessus ; car quand Raksch vit la force de corps du dragon qui assaillait ainsi le distributeur des couronnes, il coucha ses oreilles et (ô merveille!) se mit à déchirer avec ses dents les deux épaules du dragon, à mettre en lambeaux sa peau comme aurait fait un lion ; et le vaillant Pehlewan en fut étonné.
 
 Rustem frappa le dragon de son épée et sépara sa tête du corps et le sang sortit du tronc comme un torrent.
 
@@ -88,7 +88,7 @@ La terre disparut à la vue sous ce corps et il en jaillit une fontaine de sang.
 
 Lorsque
 
-Rustem regarda ce dragon furieux, sa poitrine, ses pieds et son haleine brûlante ; lorsqu’il vit que le désertentier en était rempli et que son sang chaud coulait sur la terre noire, il en fut effrayé et resta longtemps dans l’étonnement ; puis il invoqua le nom de Dieu, entra dans l’eau, se lava la tête et le corps, et ne désira conquérir le monde que par la force que Dieu le protecteur du monde lui avait donnée.
+Rustem regarda ce dragon furieux, sa poitrine, ses pieds et son haleine brûlante ; lorsqu’il vit que le désertentier en était rempli et que son sang chaud coulait sur la terre noire, il en fut effrayé et resta longtemps dans l’étonnement ; puis il invoqua le nom de Dieu, entra dans l’eau, se lava la tête et le corps et ne désira conquérir le monde que par la force que Dieu le protecteur du monde lui avait donnée.
 
 Il s’adressa à Dieu en ces mots :
 
