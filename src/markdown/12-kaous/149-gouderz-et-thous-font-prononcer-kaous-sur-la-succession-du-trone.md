@@ -24,11 +24,13 @@ Son messager alla trouver le Pehlewan de l’armée et lui dit d’une voix douc
 Thous et Gouderz se rendirent auprès de Kaous et plaidè-
 rent leur cause devant son trône.
 
-Thous dit : Ô noble roi !
+Thous dit :
 
-Quand un prince est las du trône et de la couronne, il faut que l’empire, le pouvoir, le diadème et les trésors des grands reviennent à son fils ; et quand il a un fils, pourquoi un petit-fils porterait-il le diadème, pourquoi s’asseyerait-il sur le trône ?
-
-Feribourz a la majesté et la grandeur des Keïanides, il est prêt pour le combat comme un lion furieux.»
+> Ô noble roi !
+>
+> Quand un prince est las du trône et de la couronne, il faut que l’empire, le pouvoir, le diadème et les trésors des grands reviennent à son fils ; et quand il a un fils, pourquoi un petit-fils porterait-il le diadème, pourquoi s’asseyerait-il sur le trône ?
+>
+> Feribourz a la majesté et la grandeur des Keïanides, il est prêt pour le combat comme un lion furieux.»
 
 Gouderz lui répondit :
 
@@ -44,7 +46,7 @@ Gouderz lui répondit :
 >
 > Il a passé le Djihoun sans demander une barque ; il s’est fié à la fortune des Keïanides età la droiture de ses intentions ; et à l’exemple de Feridoun, qui après avoir passé le fleuve Arwend a fait fleurir le monde, il assujettira, par sa bravoure et par la grâce de Dieu, le cœur, la main et l’œil des méchants.
 >
-> Ensuite il se ceindra, semblableà un lion furieux, pour venger son père, il guérira l’Iran de ses maux et le rusé Afrasiab tremblera sous sa main.
+> Ensuite, il se ceindra, semblableà un lion furieux, pour venger son père, il guérira l’Iran de ses maux et le rusé Afrasiab tremblera sous sa main.
 >
 > Le bienheureux Serosch m’a dit, dans mon rêve, qu’il fera cesser par sa haute fortune les cris qui s’élèvent de l’Iran et qu’il mettra fin aux peines et aux angoisses du monde quand il sera le maître de la couronne et du trône puissant.
 >
@@ -70,7 +72,7 @@ Gouderz répondit :
 
 > Ne parle pas ainsi, car je ne te reconnais pas une gloire assez grande pour cela.»
 
-Ensuite il se tourna vers Kaous, disant :
+Ensuite, il se tourna vers Kaous, disant :
 
 > Ô roi plein d’expérience, ne rejette pas la coutume antique et la droite voie.
 >
@@ -87,7 +89,6 @@ Kaous répondit :
 > Il faut que mes deux fils partent, accompagnés chacun d’un corps d’armée et qu’ils se rendent à Ardebil ; car Ahriman nous livre tous les ans des combats sur la frontière où est situé le château de Bahman ; il y met en détresse les adorateurs de Dieu et aucun Mobed n’ose y demeurer.
 >
 > Je donnerai mes trésors et mon trône à celui de mes enfants qui, l’épée en main, prendra ce château.»
-
 
 Gouderz et Thous écoutèrent la décision du prudent roi ; ils en furent tous deux contents et personne n’eut rien de plus sage à proposer.
 
