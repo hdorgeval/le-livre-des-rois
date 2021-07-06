@@ -13,13 +13,13 @@ order: '028'
 
 # Combat de Pilsem contre les Iraniens
 
-Or il y avait un héros dont le nom était Pilsem , A7 un héros de race royale et de grand renom dans la guerre ; son père était Wiseh l’illustre ; son frère, Piran le victorieux ; et dans l’Iran et dans le Touran il n’avait d’égal que Rustem.
+Or il y avait un héros dont le nom était Pilsem, A7 un héros de race royale et de grand renom dans la guerre ; son père était Wiseh l’illustre ; son frère, Piran le victorieux ; et dans l’Iran et dans le Touran il n’avait d’égal que Rustem.
 
 Lorsqu’il entendit les paroles d’Afrasiab, son front se rida de colère.
 
 Il accourut, la tête pleine du désir de combattre, le cœur rempli d’impatience et il dit au roi du Touran :
 
-> Je suis jeune, je suis un des braves de l’armée ; Thous le guerrier, Guiv le héros, ce lion couvert de gloire, Bahram et Zengueh fils de Schaweran, et Gourazeh toujours prêt pour le combat, ne sont devant moi que de la poussière.
+> Je suis jeune, je suis un des braves de l’armée ; Thous le guerrier, Guiv le héros, ce lion couvert de gloire, Bahram et Zengueh fils de Schaweran et Gourazeh toujours prêt pour le combat, ne sont devant moi que de la poussière.
 >
 > Si le roi me le permet, je me jetterai courageusement comme un lion au milieu des braves ; avec mon épée je séparerai de leurs corps les têtes des princes ; je couvrirai leur lune d’un brouillard ; je traînerai la couronne des grands dans la poussière ; je trancherai leurs têtes avec l’épée du combat.»
 
@@ -27,7 +27,7 @@ Le roi lui répondit :
 
 > Ô héros illustre !
 >
-> Puisses-tu être victorieuxl puisses-tu être heureux dans cette lutte et en revenir vainqueur et couvert de gloire!»
+> Puisses-tu être victorieuxl puisses-tu être heureux dans cette lutte et en revenir vainqueur et couvert de gloire !»
 
 Pilsem ayant entendu les paroles du roi, poussa un cri pareil au son de la trompette d’airain, il se précipita sur le centre de l’armée des Iraniens, comme la poussière qui vole devant l’orage et frappa à droite et à gauche avec la massue et l’épée du combat ; il courut plus vite que le vent et se jeta sur Gourguin rugissant comme un lion en fureur ; il frappa de l’épée le cheval de Gourguin sur la tête et la douleur de la blessure fit tomber le cheval.
 
@@ -43,7 +43,7 @@ Mais Zengueh fils de Schaweran, qui se trouvait à l’aile droite, avait remarq
 
 Pilsem, semblable à un crocodile courageux, soutint l’attaque ; il courut sur Zengueh, son épée indienne à la main ; il frappa de son épée et déchirant les caparaçons, fit rouler dans la poussière la tête du cheval.
 
-Zengueh tomba, mais ramassant les pans de sa cette de mailles, il les roula autour de sa ceinture et attaqua Pilsem à pied, semblable, au milieu de la poussière, à un lion qui se jette sur sa proie.
+Zengueh tomba, mais ramassant les pans de sa cotte de mailles, il les roula autour de sa ceinture et attaqua Pilsem à pied, semblable, au milieu de la poussière, à un lion qui se jette sur sa proie.
 
 Ils soulevaient ainsi la poussière noire sur la place où ils combattaient, lorsque Guiv s’aperçut, du centre de l’armée, que le monde s’obscurcissait devant les yeux des braves ; il rugit comme le tonnerre dans les montagnes, on comme un lion courageux au moment de la lutte et courut au secours de ses trois amis.
 
