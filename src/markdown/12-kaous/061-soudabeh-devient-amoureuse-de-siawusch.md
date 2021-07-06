@@ -15,7 +15,7 @@ order: '061'
 
 Il se passa de nouveau quelque temps et le cœur du roi se réjouissait à cause de son fils.
 
-Or un jour Keî Kaous était assis avec Siawusch, lorsque Soudabeh parut à la porte et aperçut inopinément Siawusch.
+Or un jour Keï Kaous était assis avec Siawusch, lorsque Soudabeh parut à la porte et aperçut inopinément Siawusch.
 
 Elle devint pensive et le cœur lui battit.
 
@@ -31,7 +31,7 @@ Le messager partit et remplit sa mission ; mais le noble Siawusch s’en irrita 
 
 Le lendemain Soudabeh sortit ; elle accourut au-près du roi de l’Iran et lui dit :
 
-> Ô roi du peuple, ni le soleil ni la lune n’ont vu un roi comme toi, et personne sur la terre n’égale ton fils.
+> Ô roi du peuple, ni le soleil ni la lune n’ont vu un roi comme toi et personne sur la terre n’égale ton fils.
 
 Que le monde se réjouisse à cause de ton enfant !
 
@@ -55,8 +55,7 @@ Kaous appela Siawusch et lui dit :
 >
 > Dieu t’a donné une naissance
 >
-> 
-pure et jamais mère n’a mis au monde un enfant pur comme toi.
+> pure et jamais mère n’a mis au monde un enfant pur comme toi.
 >
 > Vraiment, ceux qui sont tes proches par le sang, comment pourraient-ils se croire tes parents, s’ils ne te voyaient que de loin ?
 >
@@ -72,7 +71,7 @@ Il se dit :
 
 > C’est mauvais !
 >
-> C’est de Soudabeh que vient cette insistance et si r je vais dans l’appartement des femmes, elle m’attirera bien des reproches.»
+> C’est de Soudabeh que vient cette insistance et si je vais dans l’appartement des femmes, elle m’attirera bien des reproches.»
 
 Il répondit :
 
@@ -90,7 +89,9 @@ Le roi lui dit :
 
 > Ô mon fils !
 >
-> Puisses-tu être heureuxl puisses-tu toujours être le soutien de la raisonl J’ai entendu peu de paroles aussi bonnes et ta sagesse ne fera qu’accroître puisque tu as compris cela.
+> Puisses-tu être heureux !
+>
+> Puisses-tu toujours être le soutien de la raisonl J’ai entendu peu de paroles aussi bonnes et ta sagesse ne fera qu’accroître puisque tu as compris cela.
 >
 > Ne laisse pas entrer de soupçon dans ton cœur, sois joyeux et bannis tout souci.
 >
