@@ -13,7 +13,7 @@ order: '030'
 
 # Afrasiab s'enfuit du champ de bataille
 
-Le roi du Touran voyant ce qui arrivait, se dé- roba subitement du combat, secoua les rênes de son cheval et s’enfuit courant comme un nuage noir.
+Le roi du Touran voyant ce qui arrivait, se déroba subitement du combat, secoua les rênes de son cheval et s’enfuit courant comme un nuage noir.
 
 Rustem lança Raksch à la poursuite d’Afrasiab, en lui disant :
 
