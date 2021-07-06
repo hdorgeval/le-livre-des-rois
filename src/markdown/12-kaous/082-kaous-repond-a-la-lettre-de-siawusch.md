@@ -33,18 +33,17 @@ Tu as mené joyeuse vie avec de belles esclaves et tu as reculé devant le comba
 
 L’espoir de me succéder sur ce vil trône impérial t’a fait perdre l’amour des combats.
 
-Mais c’est avec l’épée qu’il faut ouvrir la porte des richesses, et c’est par la conquête des provinces qu’un roi devieut glorieux.
+Mais c’est avec l’épée qu’il faut ouvrir la porte des richesses et c’est par la conquête des provinces qu’un roi devieut glorieux.
 
 Quand le Sipehbed Thous sera arrivé auprès de toi, il réglera convenablement tout ce qui te regarde et tu placeras alors sur des ânes les otages que tu tiens lourdement enchaînés.
 
-L’in- tention secrète des sphères puissantes est de mettre, par cette paix, ta vie en péril ; la nouvelle de ce malheur arrivera dans l’Iran et nos jours de bonheur en seront ternis.
+L’intention secrète des sphères puissantes est de mettre, par cette paix, ta vie en péril ; la nouvelle de ce malheur arrivera dans l’Iran et nos jours de bonheur en seront ternis.
 
 Pars donc, prépare-toi à la vengeance et à l’invasion et ne fais pas de longs discours là-dessus.
 
 Quand tu seras prêt pour la lutte et les surprises de nuit, quand tu auras soulevé une poussière noire grande comme le Djihoun, alors Afrasiab ne laissera pas aller sa tête au sommeil et il viendra te combattre.
 
-Mais si tu portes affection à cet Ahriman, si tu ne veux pas qu’on t’appelle violateur de traités, cède le com-
- : r mandement de l’armée à l’illustre Thous et reviens ici, car alors tu n’es pas un homme fait pour les luttes, la gloire et la guerre.»
+Mais si tu portes affection à cet Ahriman, si tu ne veux pas qu’on t’appelle violateur de traités, cède le com- : mandement de l’armée à l’illustre Thous et reviens ici, car alors tu n’es pas un homme fait pour les luttes, la gloire et la guerre.»
 
 On apposa le sceau du roi sur la lettre et le dromadaire prenant sa course déchira la route.
 
@@ -66,8 +65,7 @@ Son cœur s’inquiéla des actions de son père, du son des otages turcs et de 
 >
 > Si je fais la guerre au roi du Touran follement et sans qu’il ait commis de faute,
 >
-> 
-Dieu le maître du monde ne m’approuvera pas, et le peuple élèvera sa voix contre moi ; et si je recteurne à la cour du roi, laissant à Thous le commandement de l’armée, il m’en arrivera également du mal.
+> Dieu le maître du monde ne m’approuvera pas et le peuple élèvera sa voix contre moi ; et si je recteurne à la cour du roi, laissant à Thous le commandement de l’armée, il m’en arrivera également du mal.
 >
 > Je ne vois que perdition à droite et à gauche et perdition devant moi.
 >
