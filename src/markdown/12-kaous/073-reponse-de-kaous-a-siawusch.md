@@ -19,11 +19,11 @@ Il implora Dieu et le pria de lui faire la grâce que ce jeune arbre portât du 
 
 Puis, il écrit, dans l’allégresse de son cœur, une réponse semblable au vert printemps et au paradis plein de délices, disant :
 
-> Que Dieu qui a créé le soleil et la lune, le maître du monde, le distributeur des couronnes. et des trônes, ne cesse d’accorder à ton âme le bonheur, et de délivrer ton cœur de douleur et de peine !
+> Que Dieu qui a créé le soleil et la lune, le maître du monde, le distributeur des couronnes et des trônes, ne cesse d’accorder à ton âme le bonheur et de délivrer ton cœur de douleur et de peine !
 >
 > Qu’il te conserve toujours la victoire et la gloire, la couronne du pouvoir et le diadème de la puissancel Tu as conduit ton armée, tu as recherché le combat ; la fortune, la bravoure et la droiture sont ton partage.
 >
-> Tes lèvres sentent encore le lait, et déjà l’écorce qui couvre ton arc s’est déchirée dans la bataille.
+> Tes lèvres sentent encore le lait et déjà l’écorce qui couvre ton arc s’est déchirée dans la bataille.
 >
 > Puisse ton corps rester toujours sain et ton âme brillante toujours atteindre l’objet de ses désirs !
 >
@@ -47,7 +47,7 @@ Après ces événements, Guersiwez au cœur de lion arriva auprès du roi du Tou
 >
 > Leurs fantassins sont arrivés comme la flamme qui s’élance, armés de boucliers, de flèches et de carquois.
 >
-> Il n’y a pas d’aigle qui vole comme eux, et le sommeil n’a sur eux aucune prise.
+> Il n’y a pas d’aigle qui vole comme eux et le sommeil n’a sur eux aucune prise.
 >
 > Ils se sont présentés au combat pendant trois jours et trois nuits et les corps de nos braves et leurs chevaux se sont fatigués ; un Iranien, au contraire, quand il sentait le besoin de dormir, s’éloignait en toute tr hâte de la mêlée, dormait, se relevait rafraîchi et combattait de nouveau.»
 
@@ -55,8 +55,10 @@ KEÏ. nous.
 
 Ce discours mit Afrasiab tout en feu, il s’écria :
 
-> Que parles-tu tant de repos et de sommeil?n Il regarda Guersiwez, tu aurais dit qu’il voulait le déchirer.
+> Que parles-tu tant de repos et de sommeil ?»
+
+Il regarda Guersiwez, tu aurais dit qu’il voulait le déchirer.
 >
 > Il poussa un cri de fureur et le chassa de sa présence, il n’était pas maître de sa colère.
 >
-> Ensuite il fit appeler mille grands et apprêter un festin pour eux.
+> Ensuite, il fit appeler mille grands et apprêter un festin pour eux.
