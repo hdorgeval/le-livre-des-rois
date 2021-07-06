@@ -27,7 +27,7 @@ Quand il eut atteint l’âge de dix ans, personne dans son pays n’osait lutte
 
 Il alla auprès de sa mère et lui adressa une question, en lui disant audacieusement :
 
-> Puisque je suis plus grand que mes frères de lait et que ma tète s’élève plus haut que le ciel, apprends-moi de quelle race je suis et quel est mon lignage et ce que je dois dire quand on me demande le nom de mon père.
+> Puisque je suis plus grand que mes frères de lait et que ma tête s’élève plus haut que le ciel, apprends-moi de quelle race je suis et quel est mon lignage et ce que je dois dire quand on me demande le nom de mon père.
 >
 > Si tu refuses de répondre à cette question je ne te laisserai pas vivante parmi les grands de la terre.»
 
@@ -57,8 +57,7 @@ Sohrab lui répondit :
 >
 > Tous ceux d’entre les grands 7.
 >
-> 
-et les braves qui sont vieux parlent des hauts faits de Rustem ; et mon origine étant aussi noble, pourquoi me l’avoir cachée ?
+> et les braves qui sont vieux parlent des hauts faits de Rustem ; et mon origine étant aussi noble, pourquoi me l’avoir cachée ?
 >
 > Je vais maintenant me mettre à la tête d’une armée innombrable de Turcs pleins de bravoure ; je précipiterai Kaous de son trône ; j’ell’acerai de l’Iran la trace du pied de Thous ; je ne laisserai en vie ni Gourguin, ni Gouderz, ni Guiv, ni Kustehem fils de Newder, ni Bahram le brave ; je donnerai à Rustem la massue, le cheval et le casque du roi ; je le ferai monter sur le trône de Kaous ; ensuite je tournerai de l’Iran vers le Touran pour l’attaquer, j’irai à la rencontre du roi ; je m’emparerai du trône d’Afrasiab, je lèverai ma lance au-dessus du soleil ; je te ferai reine du pays d’Iran ; je me montrerai comme un lion dans le combat des braves.
 >
