@@ -28,14 +28,14 @@ Le huitième jour, il fit sonner les trompettes d’airain et battre les timbale
 Rustem leur dit :
 
 > J’ai dévoué à cette vengeance mon cœur, mon âme et mon corps ; car jamais plus cavalier semblable à Siawusch ne se ceindra pour le combat.
-
-Mais c’est une entreprise dans la- quelle aucun de vous ne doit s’engager légèrement, c’est une vengeance qu’on ne peut compter pour peu de chose ; il faut que vous écartiez de vos cœurs toute crainte, que vous inondiez la terre d’un torrent de sang semblable au Djihoun.
-
-Je jure par Dieu qu’aussi longtemps que je vivrai, mon cœur sera rempli du deuil de Siawusch.
-
-Pour soulager ma douleur, je veux toucher de mes yeux et de mon front la place dure et desséchée où le vil Guerouia versé son sang ; et à moins que je n’aie les mains liées et une cangue au cou, à moins que je ne sois jeté honteusement dans la poussière comme une brebis, les deux mains liées avec la corde du lacet. je ferai trembler le monde devant ma massue et mon épée tranchante, comme il tremblera au jour de la résurrection.
-
-Mes yeux ne verront dorénavant que la poussière des balailles et je renonce à la coupe des banquetsm
+>
+> Mais c’est une entreprise dans laquelle aucun de vous ne doit s’engager légèrement, c’est une vengeance qu’on ne peut compter pour peu de chose ; il faut que vous écartiez de vos cœurs toute crainte, que vous inondiez la terre d’un torrent de sang semblable au Djihoun.
+>
+> Je jure par Dieu qu’aussi longtemps que je vivrai, mon cœur sera rempli du deuil de Siawusch.
+>
+> Pour soulager ma douleur, je veux toucher de mes yeux et de mon front la place dure et desséchée où le vil Guerouia versé son sang ; et à moins que je n’aie les mains liées et une cangue au cou, à moins que je ne sois jeté honteusement dans la poussière comme une brebis, les deux mains liées avec la corde du lacet. je ferai trembler le monde devant ma massue et mon épée tranchante, comme il tremblera au jour de la résurrection.
+>
+> Mes yeux ne verront dorénavant que la poussière des balailles et je renonce à la coupe des banquets.»
 
 KE !
 
@@ -51,4 +51,4 @@ Les astres commençaient à se combattre et l’univers se préparait à de gran
 
 Les héros iraniens se ceignirent et se mirent en marche précédés du drapeau de Kaweh.
 
-Rustem, le maître du Zaboulistan, lit un choix parmi les guerriers du Kaboul qui étaient prêts à frapper de l’épée, et cent mille braves du pays d’Iran et de la forêt de Narwen se rassemblèrent.
+Rustem, le maître du Zaboulistan, lit un choix parmi les guerriers du Kaboul qui étaient prêts à frapper de l’épée et cent mille braves du pays d’Iran et de la forêt de Narwen se rassemblèrent.
