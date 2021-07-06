@@ -23,7 +23,7 @@ Piran dit à Siawusch :
 >
 > Sache que tu es son gai printemps, son idole, sa consolation dans ses peines.
 >
-> Tu es puissant et fils de Keî Kaous, tes prouesses font toucher ta tête à la lune.
+> Tu es puissant et fils de Keï Kaous, tes prouesses font toucher ta tête à la lune.
 >
 > Ton père est vieux, mais tu es jeune dans expérience, prends garde que la couronne des rois ne t’échappe.
 >
