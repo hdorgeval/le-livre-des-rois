@@ -21,7 +21,7 @@ Lorsque Rustem eut faim et qu’il se sentit fatigué, il arriva dans une plaine
 
 Le lion lança son lacet royal et prit dans le nœud l’onagre vigoureux ; puis il alluma du feu avec la pointe d’une flèche et le nourrit de ronces et de branches d’arbres ; et lorsque l’onagre eut perdu toute vie et tout mouvement, il le fit rôtir à ce feu ardent, puis le mangea et jeta les os loin de lui : ainsi l’onagre même lui servit de marmite et de table.
 
-Ensuite il ôta la bride à Raksch, l’envoya paître dans la prairie et se prépara une couche dans un champ de roseaux, regardant un séjour d’effroi comme une demeure suffisamment sûre pour lui-même.
+Ensuite, il ôta la bride à Raksch, l’envoya paître dans la prairie et se prépara une couche dans un champ de roseaux, regardant un séjour d’effroi comme une demeure suffisamment sûre pour lui-même.
 
 Au milieu de ces roseaux était le gîte d’un lion et un éléphant n’aurait pas osé les couper.
 
@@ -39,7 +39,7 @@ Lorsque Rustem prompt à. combattre fut réveillé, il vit queole monde était d
 
 Qui t’a ordonné de combattre un lion ?
 
-Si tu étais tombé sous ses griffes, comment aurais-je porté jusque dans le Mazenderan cette cuirasse et ce casque de guerrier, et mon lacet, mon arc, mon épée et cette lourde il] :.
+Si tu étais tombé sous ses griffes, comment aurais-je porté jusque dans le Mazenderan cette cuirasse et ce casque de guerrier et mon lacet, mon arc, mon épée et cette lourde il] :.
 
 1 massue ?
 
@@ -47,4 +47,4 @@ Si j’avais été averti dans mon doux sonimeil, ton combat avec le lion aurait
 
 Enfin, lorsque le soleil leva sa tête au-dessus des sombres montagnes, Rustem se réveilla de son doux sommeil, encore toutf’atigué.
 
-Il étrilla Raksch, lui mit la selle surle dos, et adressa ses. prières à Dieu qui répand les grâces.
+Il étrilla Raksch, lui mit la selle surle dos et adressa ses. prières à Dieu qui répand les grâces.
