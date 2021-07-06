@@ -49,7 +49,7 @@ J’aurais dû partir et je me suis laissé arrêter : ma tête était remplie d
 >
 > Marche sans délai avec ton armée avide de combats, jusqu’à la cour d’Afrasiab ; lâche la mainà tes troupes pour qu’elles s’avancent comme des loups qui se jettent sur des agneaux.
 >
-> Si tu veux prendre la peine de leur enseigner à faire le mal, tous les braves se mettront à dévaster et à brûler, et Afrasiab viendra te combattre, car le repos et le sommeil lui seront devenus amers.»
+> Si tu veux prendre la peine de leur enseigner à faire le mal, tous les braves se mettront à dévaster et à brûler et Afrasiab viendra te combattre, car le repos et le sommeil lui seront devenus amers.»
 
 Rustem lui répondit :
 
@@ -71,7 +71,7 @@ Rustem lui répondit :
 >
 > Tu as tout cela ; ne cherche pas follement la guerre, n’inonde pas, de larmes ton cœur joyeux.
 >
-> Si Afrasiab a en secret l’intention de violer la parole qu’il a donnée dans son traité, nous ne sommes pas las de le combattre, et nos épées et nos griffes de lion sont prêtes.
+> Si Afrasiab a en secret l’intention de violer la parole qu’il a donnée dans son traité, nous ne sommes pas las de le combattre et nos épées et nos griffes de lion sont prêtes.
 >
 > As seyez-vous, toi et le noble Siawusch, heureux et contents sur le trône d’or, dans le pays d’Iran ; et moi j’emmènerai du Zaboulistan une petite armée, je détruirai le trône du Touran, j’obscurcirai avec ma massue de guerre la lumière du soleil devant Afrasiab.
 >
