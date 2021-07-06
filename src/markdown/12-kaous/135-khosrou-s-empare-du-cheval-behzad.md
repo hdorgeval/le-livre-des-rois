@@ -21,7 +21,7 @@ Le noble Khosrou descendit de cheval auprès de la source, s’avança rapidemen
 
 Behzad leva la tête et aperçut le roi, il poussa un soupir, il regarda la peau de léopard qui couvrait la selle de Siawusch, les longs étriers et la selle de bois de peuplier ; il se tenait au bord de l’abreuvoir et ne bougeait pas.
 
-Keî Khosrou le voyant tranquille, alla doucement à lui avec la selle.
+Keï Khosrou le voyant tranquille, alla doucement à lui avec la selle.
 
 Le noble cheval resta en place et ses deux yeux devinrent des fontaines de larmes.
 
@@ -43,19 +43,23 @@ Mais le vaillant et prudent roi ayant parcouru la moitié de la montagne, retint
 >
 > Tous les secrets devraient t’être connus et la grâce de Dieu et le pouvoir des Retanides te mettent en état d’entrer dans un cheveu pour voir ce qu’il contient.»
 
-Keî Khosrou lui répondit :
+Keï Khosrou lui répondit :
 
 > Tu as des soupçons sur ce cheval de noble race et voici, ô Pehlewan, ce que tu as pensé : Ahriman est venu perdre ce jeune homme ; et maintenant qu’il l’a emporté, toute ma peine est donnée au vent, mon cœur est rempli de souci et le Div triomphe.»
 
-Le sage Guiv descendit de cheval et appela les grâces de Dieu sur le vaillant roi : Que tes jours et tes nuits soient bénis !
+Le sage Guiv descendit de cheval et appela les grâces de Dieu sur le vaillant roi :
 
-Que le cœur de tes ennemis soit déchiré !
+> Que tes jours et tes nuits soient bénis !
+>
+> Que le cœur de tes ennemis soit déchiré !
+>
+> Dieu t’a donné du pouvoir, une couronne, un trône et sa grâce ; il t’a donné de la bravoure et une noble naissance»
 
-Dieu t’a donné du pouvoir, une couronne, un trône et sa grâce ; il t’a donné de la bravoure et une noble naissancem Ils s’en retournèrent de la montagne au palais, la tête pleine de soucis, l’esprit cherchant que voie de salut.
+Ils s’en retournèrent de la montagne au palais, la tête pleine de soucis, l’esprit cherchant que voie de salut.
 
 Arrivés auprès de Ferenguis, ils parlèrent beaucoup de la longue route qu’ils avaient à parcourir et cherchèrent comment ils tiendraient secrète leur entreprise, de manière que personne ne devinât leur projet.
 
-Lorsque Ferenguis vit Behzad,ses yeux inondèrent de larmes son visage, elle appliqua ses. deux joues contre la crinière et le poitrail du cheval et invoqua les mânes de Siawusch.
+Lorsque Ferenguis vit Behzad,ses yeux inondèrent de larmes son visage, elle appliqua ses deux joues contre la crinière et le poitrail du cheval et invoqua les mânes de Siawusch.
 
 À la fin, les larmes de ses yeux étant épuisées, elle alla rapidement vers le lieu où étaient accumulées ses richesses :
 
