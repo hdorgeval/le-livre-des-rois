@@ -7,7 +7,39 @@ source: tome I - livre des rois - P. 384
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Guerre contre le Mazenderan | Le Livre des Rois | Shâhnâmeh'
-tags: ["Ader", "Ahriman", "âme", "Bahman", "Bahram", "Dieu", "Div", "Divs", "Djemschid", "Feridoun", "Ferwerdin", "Gouderz", "Guiv", "Gurguin", "Iran", "Kaous", "Keschwad", "Keïanides", "Keïkobad", "Kherrad", "Mazenderan", "Minoutchehr", "Nimrouz", "Pehlewans", "Péris", "Rustem", "Sam", "Thous", "Zal", "Zohak"]
+tags:
+  [
+    'Ader',
+    'Ahriman',
+    'âme',
+    'Bahman',
+    'Bahram',
+    'Dieu',
+    'Div',
+    'Divs',
+    'Djemschid',
+    'Feridoun',
+    'Ferwerdin',
+    'Gouderz',
+    'Guiv',
+    'Gurguin',
+    'Iran',
+    'Kaous',
+    'Keschwad',
+    'Keïanides',
+    'Keïkobad',
+    'Kherrad',
+    'Mazenderan',
+    'Minoutchehr',
+    'Nimrouz',
+    'Pehlewans',
+    'Péris',
+    'Rustem',
+    'Sam',
+    'Thous',
+    'Zal',
+    'Zohak',
+  ]
 order: '001'
 ---
 
@@ -78,9 +110,13 @@ Lorsque les grands entendirent ces paroles, aucun d’eux n’approuva le projet
 
 Aucun n’osa répondre ouvertement, mais leurs cœurs étaient en souci et leurs bouches pleines de soupirs.
 
-Thous et Gouderz, Keschwad, Guiv, Kherrad, Gurguin et Bahram le preux dirent hautement : Nous sommes tes sujets et nous ne foulerons la terre aux pieds que conformément à ton ordre.
+Thous et Gouderz, Keschwad, Guiv, Kherrad, Gurguin et Bahram le preux dirent hautement :
 
-Mais ensuite ils se réunirent et soulagèrent leurs cœurs de la douleur que leur avaient causée ses paroles : ils s’assirent et se parlèrent les uns aux autres, disant :
+> Nous sommes tes sujets et nous ne foulerons la terre aux pieds que conformément à ton ordre.
+
+Mais ensuite ils se réunirent et soulagèrent leurs cœurs de la douleur que leur avaient causée ses paroles.
+
+Ils s’assirent et se parlèrent les uns aux autres, disant :
 
 > Quel malheur est survenu à notre fortune !
 >
