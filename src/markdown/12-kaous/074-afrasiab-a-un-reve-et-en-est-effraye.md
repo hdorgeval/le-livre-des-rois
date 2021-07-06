@@ -29,7 +29,9 @@ Il le pressa contre son sein et lui dit :
 
 Le roi lui répondit :
 
-> Ne me fais pas de questions, ne m’adresse maintenant aucune parole ; et pour que je reprenne mes sens, presse-moi contre toi et tiens-moi ferme tr un moment. n Quelques instants s’étant ainsi passés, le roi revint à lui et vit le monde rempli de lamentations et de cris.
+> Ne me fais pas de questions, ne m’adresse maintenant aucune parole ; et pour que je reprenne mes sens, presse-moi contre toi et tiens-moi ferme tr un moment.»
+
+Quelques instants s’étant ainsi passés, le roi revint à lui et vit le monde rempli de lamentations et de cris.
 
 On apporta des flambeaux et Afrasiab s’assit sur le trône, tremblant comme une branche d’arbre.
 
@@ -51,7 +53,7 @@ Le glorieux Afrasiab répondit :
 >
 > Je voyais autour de moi beaucoup d’hommes, mais aucun de mes serviteurs n’était auprès de moi.
 >
-> Un Pehlewan renommé et plein de fierté me mena en courant devant Kaous ; je vis un trône semblable à la lune brillante, sur lequel se tenait le roi Kaous, et auprès de lui était assis un jeune homme dont les joues ressemblaient à la lune.
+> Un Pehlewan renommé et plein de fierté me mena en courant devant Kaous ; je vis un trône semblable à la lune brillante, sur lequel se tenait le roi Kaous et auprès de lui était assis un jeune homme dont les joues ressemblaient à la lune.
 >
 > Il n’avait pas plus de deux fois sept ans et quand il me vit enchaîné devant lui, il s’élance comme un lion furieux pour me couper en deux avec son épée.
 >
