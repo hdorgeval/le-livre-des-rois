@@ -23,7 +23,7 @@ Il conduisit ses troupes jusqu’au bord de la mer de la Chine, car la large sur
 
 Il se hâta tant qu’aucun Iranien ne put l’atteindre ; et le cœur dévoré de soucis, les joues inondées de larmes, il traversa la mer à l’endroit où il voulut.
 
-Ensuite il dit à Piran :
+Ensuite, il dit à Piran :
 
 > Donne-moi un bon con-
 >
@@ -44,10 +44,12 @@ Piran lui répondit :
 Le roi lui répondit :
 
 > Ô maître de la sagesse !
+>
+> Tu me guides toujours vers ce qui est bien ; fais sur-le-champ tes préparatifs, car il ne faut pas que nous négligions cette affaire.»
 
-Tu me guides toujours vers ce qui est bien ; fais sur-le-champ tes préparatifs, car il ne faut pas que nous négligions cette affaire. n Alors Piran expédia un messager, un homme de sens et de noble naissance et lui ordonna d’amener le prince.
+Alors Piran expédia un messager, un homme de sens et de noble naissance et lui ordonna d’amener le prince.
 
-Le messager se mit en route incontinent et voyagea rapidement comme la fumée qui vole, et comme le Sipehbed le lui avait ordonné.
+Le messager se mit en route incontinent et voyagea rapidement comme la fumée qui vole et comme le Sipehbed le lui avait ordonné.
 
 Il arriva auprès de Khosrou et le vit dans sa pompe et sa majesté ; il prononça sur lui des bénédictions répétées et lui rendit hommage.
 
@@ -79,4 +81,6 @@ Quand il eut pourvu à tous ses besoins et : qu’il fut délivré de ces soins,
 
 Le roi du pays de Touran répondit à Piran :
 
-> Il faut le renvoyer du bord de la mer de la Chine, si loin que les grands de l’Iran n’en entendent jamais parler ; n et Pirau l’envoya vite, connue la fumée que pousse le vent, du côté où le roi l’avait ordonné.
+> Il faut le renvoyer du bord de la mer de la Chine, si loin que les grands de l’Iran n’en entendent jamais parler .»
+
+Et Pirau l’envoya vite, connue la fumée que pousse le vent, du côté où le roi l’avait ordonné.
