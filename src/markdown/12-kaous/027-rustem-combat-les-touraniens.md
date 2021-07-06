@@ -25,7 +25,7 @@ Il courut vers le pont, après avoir assujetti à la corde les deux bouts de l�
 
 Mais, arrivé près du pont, il aperçut les étendards du roi injuste ; car les Touraniens avaient déjà traversé le fleuve, Afrasiab à leur tête.
 
-Rustem revêtit sa cuirasse de peau de léopard, et monta sur Raksch, qui était pareil à un éléphant indomptable.
+Rustem revêtit sa cuirasse de peau de léopard et monta sur Raksch, qui était pareil à un éléphant indomptable.
 
 Il s’avança vers le roi du Touran pour le combattre ; il rugit comme un crocodile en fureur ; et quand Afrasiab le vit assis sur son cheval, tu aurais dit que son âme abandonnait son corps, tant il fut effrayé des mains et de la poitrine, des bras et des cuisses de Rustem et de cette terrible massue qu’il tenait sur son épaule.
 
@@ -51,8 +51,7 @@ Tandis que les yeux des Touraniens s’obscurcissaient et que Rustem élevait so
 >
 > Tourne encore une fois avec vigueur les rênes de ton che-
 >
-> 
-val contre les Iraniens ; va et délivre d’eux ce pays.
+> val contre les Iraniens ; va et délivre d’eux ce pays.
 >
 > Si tu peux les vaincre, l’Iran t’appartiendra ; car tu as le corps d’un éléphant et la griffe d’un lion.»
 
