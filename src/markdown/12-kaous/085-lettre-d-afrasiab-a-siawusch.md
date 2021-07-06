@@ -15,9 +15,9 @@ order: '085'
 
 Afrasiab ayant entendu ces paroles, prit une résolution sage, fit appeler un scribe plein d’expérience, ouvrit les lèvres et lui dicta une lettre.
 
-Le scribe en se mettant à l’œuvre, trempa le bout de son roseau dans de l’ambre et le roi commença la lettre par les louanges de Dieu et par un hommage rendu à sa toutepuis-sance et à sa sagesse.
+Le scribe en se mettant à l’œuvre, trempa le bout de son roseau dans de l’ambre et le roi commença la lettre par les louanges de Dieu et par un hommage rendu à sa toutepuissance et à sa sagesse.
 
-Dieu qui est au-dessus de l’espace et du temps, comment la pensée de ses ser- viteurs pourrait-elle l’atteindre ?
+Dieu qui est au-dessus de l’espace et du temps, comment la pensée de ses serviteurs pourrait-elle l’atteindre ?
 
 Il est le maître de l’âme, de l’esprit et de l’intelligence et sa justice est le soutien du sage.
 
@@ -43,7 +43,7 @@ Du reste, tu trouverais dilli-cilement une sortie de ce côté, à moins d’êt
 
 Dieu le dispense de le faire ; viens ici et établis chez nous amicalement ta résidence.
 
-Mon armée, mes forte- resses et mes richesses sont à toi et tu n’auras pas besoin d’un prétexte pour me quitter.
+Mon armée, mes forteresses et mes richesses sont à toi et tu n’auras pas besoin d’un prétexte pour me quitter.
 
 Quand tu voudras faire la paix avec ton père, je te donnerai des trésors et des ceintures d’or, pour que tu ailles d’ici dans l’Iran avec une armée et je t’accompagnerai dans ta roule, livré à la plus vive douleur.
 
