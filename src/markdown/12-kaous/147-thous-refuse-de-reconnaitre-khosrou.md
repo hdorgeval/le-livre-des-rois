@@ -31,7 +31,9 @@ Il lui dit :
 >
 > Si tu refuses de lui obéir, tu encourras ma haine et je le combattrai.
 >
-> J’envoie Guiv pour te porter ce message, qui contient les ordres de l’assemblée des grands ; il ira te trouver, ô hérosl ne rejette pas ses avis.»
+> J’envoie Guiv pour te porter ce message, qui contient les ordres de l’assemblée des grands ; il ira te trouver, ô héros !
+>
+> Ne rejette pas ses avis.»
 
 Guiv quitta son père, la tête remplie de paroles dures ; il se rendit auprès du Sipehbed Thous et lui dit :
 
@@ -49,7 +51,7 @@ Thous l’écouta et lui répondit :
 >
 > Je n’y consentirai pas, ne me parle pas de Khosrou.
 >
-> Si nous plaçons sur le trône un roi de la race d’Al’rasiab, la fortune de l’Iran s’endormira ; nous ne voulons pas d’un roi de la famille de Pescheng, car le troupeau ne peut prospérer en présence d’un léo- pard.
+> Si nous plaçons sur le trône un roi de la race d’Al’rasiab, la fortune de l’Iran s’endormira ; nous ne voulons pas d’un roi de la famille de Pescheng, car le troupeau ne peut prospérer en présence d’un léopard.
 >
 > Les fatigues que tu as supportées sont perdues, car Khosrou est jeune et vain ; tandis qu’un homme qui veut être roi de la terre doit être vaillant, de naissance pure, majestueux et croyant.
 >
