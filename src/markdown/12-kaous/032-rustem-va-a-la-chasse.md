@@ -25,7 +25,7 @@ Il se dirigea vers la frontière du Touran, comme un lion qui, dans sa colère, 
 
 Arrivé près de la ville de Semengan, il trouva une plaine remplie d’onagres sauvages ; la joue du distributeur des couronnes se colora comme la rose ; il sourit, fit bondir Raksch et tua un grand nombre de bêtes avec la flèche et l’arc, avec la massue et le lacet.
 
-Ensuite il alluma un grand feu de broussailles, d’épines et de branches d’arbres ; et lorsque le feu eut bien pris, il choisit un arbre pour lui servir de broche et en perça le corps d’un onagre mâle qui ne pesait pas dans sa main ce que pèse une plume d’oiseau.
+Ensuite, il alluma un grand feu de broussailles, d’épines et de branches d’arbres ; et lorsque le feu eut bien pris, il choisit un arbre pour lui servir de broche et en perça le corps d’un onagre mâle qui ne pesait pas dans sa main ce que pèse une plume d’oiseau.
 
 Quand l’onagre fut rôti, il le dépeça, en mangea et brisa les os qui contenaient la moelle ; puis il s’endormit et se reposa des fatigues de la journée, pendant que Raksch paissait dans la plaine.
 
@@ -43,8 +43,7 @@ Il fut courroucé lorsqu’il se vit privé de cheval et prit, tout confus, le c
 
 > R Main-
 >
-> 
-retenant qu’il me faut marcher, comment pourrai-je avancer, accablé de honte, portant mon carquois et ma massue, armé de ce casque pesant, de cette épée et de cette cuirasse ?
+> retenant qu’il me faut marcher, comment pourrai-je avancer, accablé de honte, portant mon carquois et ma massue, armé de ce casque pesant, de cette épée et de cette cuirasse ?
 >
 > Comment traverserai-je le désert ?
 >
