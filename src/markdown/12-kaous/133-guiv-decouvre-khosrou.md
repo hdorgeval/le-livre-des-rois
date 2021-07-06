@@ -23,11 +23,11 @@ Il vivait de la chair des onagres et se vêtait de leurs peaux ; il mangeait des
 
 Il errait de cette manière dans les déserts et dans les montagnes, épuisé de fatigue et se tenant loin des hommes.
 
-Cependant Afrasiab, qui était rentré dans Gang, et s’était emparé de nouveau du Touran, après que Rustem eut ramené son armée sur la rive gauche du Djihoun, avait dit à Piran :
+Cependant Afrasiab, qui était rentré dans Gang et s’était emparé de nouveau du Touran, après que Rustem eut ramené son armée sur la rive gauche du Djihoun, avait dit à Piran :
 
 > Ô sage !
 >
-> Amène-moi Keî Khosrou le maudit ; amène-le du Madjin ; rends-le à sa mère, mais coupe-lui de tous côtés le chemin de la fuite.»
+> Amène-moi Keï Khosrou le maudit ; amène-le du Madjin ; rends-le à sa mère, mais coupe-lui de tous côtés le chemin de la fuite.»
 
 Piran avait envoyé sur-le-champ un messager monté sur un dromadaire de course, avait fait amener le fils de Siawusch et avait rendu à sa mère ce jeune homme sage et intelligent.
 
@@ -47,9 +47,9 @@ Il se dit :
 >
 > Je ne trouve aucune
 >
-> KEÎ nous. trace de Keî Khosrou, pourquoi donc me trainetr rais-je à travers ce pays ?
+> KEÎ nous. trace de Keï Khosrou, pourquoi donc me trainetr rais-je à travers ce pays ?
 >
-> Mes compagnons d’armes tr livrent maintenant des batailles et mes amis pas-" sent leur vie dans les l’êtes ; les uns recherchent la ce gloire, les autres le plaisir, pendant que le sort me prive de toute joie.
+> Mes compagnons d’armes tr livrent maintenant des batailles et mes amis pas-" sent leur vie dans les fêtes ; les uns recherchent la ce gloire, les autres le plaisir, pendant que le sort me prive de toute joie.
 >
 > C’est en vain que j’appelle ce Khosrou et que mon esprit se replie sur lui-même R comme un lacel roulé.
 >
@@ -57,7 +57,9 @@ Il se dit :
 >
 > Je n’ai recueilli de cette recherche que peine et fatigue.
 >
-> Heureux celui qui meurt par le poisonln Le héros qui était à la recherche du roi parcourait tristement la forêt, lorsqu’il vit de loin une l’ontaine brillante et à côté un jeune homme d’une taille de cyprès et dont la vue calmait l’âme.
+> Heureux celui qui meurt par le poison !»
+
+Le héros qui était à la recherche du roi parcourait tristement la forêt, lorsqu’il vit de loin une l’ontaine brillante et à côté un jeune homme d’une taille de cyprès et dont la vue calmait l’âme.
 >
 > Il tenait en main une coupe remplie de vin et portait sur la tête un bouquet de fleurs de toutes couleurs.
 >
@@ -65,20 +67,24 @@ Il se dit :
 >
 > Son visage exhalait un parfum d’amour et ses cheveux embellissaient sa couronne dejleurs.
 >
-> Guiv dit dans son âme : (le ne peut être que le roi, on ne trouve de pareils traits qu’à ceux à qui appartiennent les trônes.»
+> Guiv dit dans son âme :
 
-Il s’avança à pied et lorsqu’il fut près (le lui, les nœuds de la corde qui avaitfcrmé si longtemps
+> de ne peut être que le roi, on ne trouve de pareils traits qu’à ceux à qui appartiennent les trônes.»
+
+Il s’avança à pied et lorsqu’il fut près de lui, les nœuds de la corde qui avaitfcrmé si longtemps
 3h.
 
 La porte de ses soucis se relâchèrent et le trésor qu’il avait tant cherché lui apparut.
 
-Quand Keî Khosrou, qui était assis au bord de la source, l’aperçut, il sourit et son cœur bondit de joie.
+Quand Keï Khosrou, qui était assis au bord de la source, l’aperçut, il sourit et son cœur bondit de joie.
 
 Il se dit :
 
-> (le brave ne peut être que Guiv, il n’y a pas dans ce pays d’homme de cette mine.
+> de brave ne peut être que Guiv, il n’y a pas dans ce pays d’homme de cette mine.
+>
+> Il me cherche sans doute et m’emmènera dans l’Iran pour que j’y et règne.»
 
-Il me cherche sans doute et m’emmènera dans l’Iran pour que j’y et règne. v Lorsque l’illustre Guiv s’approcha, Khosrou, le fils du roi, s’avança vers lui en disant :
+Lorsque l’illustre Guiv s’approcha, Khosrou, le fils du roi, s’avança vers lui en disant :
 
 > Ô Guiv !
 >
@@ -106,9 +112,9 @@ Il dit à Khosrou :
 >
 > Qui t’a donné connaissance de Keschwad et de Guiv ?
 >
-> Puissent le bonheur et le pouvoir être ton partage!»
+> Puissent le bonheur et le pouvoir être ton partage !»
 
-Keî Khosrou répondit :
+Keï Khosrou répondit :
 
 > Ô homme au cœur de "lion !
 
@@ -118,7 +124,7 @@ KEÏ nous. 3m père, lorsque, parlant par l’inspiration de Dieu, il déclara s
 
 Il dit alors à ma gloce rieuse mère :
 
-> Quelque malheur qui me soit réservé, Keî Khosrou naîtra et c’est lui qui délivrera l’Iran de toutes ses chaînes, dans le temps où le fier et e vaillant Guiv le maître du monde, après de longues recherches, arrivera dans le pays de Touran et le conduira sur le trône d’Iran et dans l’assemblée des grands et des lions.
+> Quelque malheur qui me soit réservé, Keï Khosrou naîtra et c’est lui qui délivrera l’Iran de toutes ses chaînes, dans le temps où le fier et vaillant Guiv le maître du monde, après de longues recherches, arrivera dans le pays de Touran et le conduira sur le trône d’Iran et dans l’assemblée des grands et des lions.
 >
 > Il rétablira alors par sa vaillance la prospérité du monde et me vengera.»
 
@@ -144,9 +150,9 @@ Guiv lui répondit :
 >
 > Si tu m’avais donné le paradis entier elles sept zones de la terre avec l’empire du monde, si tu m’avais donné le pouvoir et la couronne des Keïanides, mon cœur n’en serait pas aussi joyeux que de t’avoir trouvé dans le pays de Touran.
 >
-> Qui peut savoir dans l’Iran si je suis en vie, ou sons terre, ou jeté dans le feu, ou si j’ai vu Siawusch vivant et l’ai interrogé sur ses peines et sur ses dou- leurs ?
+> Qui peut savoir dans l’Iran si je suis en vie, ou sous terre, ou jeté dans le feu, ou si j’ai vu Siawusch vivant et l’ai interrogé sur ses peines et sur ses dou-leurs ?
 >
-> Grâces soient rendues à Dieu de ce que mon étoile a fait aboutir mes grandes fatigues. à la joie et au bonheur!»
+> Grâces soient rendues à Dieu de ce que mon étoile a fait aboutir mes grandes fatigues à la joie et au bonheur !»
 
 Ensuite ils sortirent tous deux de la forêt et pendant la route Khosrou s’entretint avec Guiv du roi Kaous, il le questionna sur les soucis et les peines qu’il avait endurés depuis sept ans et voulut savoir comment il s’était couché, comment il avait dormi et s’était nourri.
 
