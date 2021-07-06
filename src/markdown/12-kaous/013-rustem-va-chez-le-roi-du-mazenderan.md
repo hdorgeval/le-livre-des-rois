@@ -25,7 +25,7 @@ Au moment où l’œil de [lustem le découvrit, il vit sur la route un arbre au
 
 Lorsqu’il fut près d’eux, il jeta l’arbre de côté et renversa une foule de cavaliers sous les branches.
 
-Un des grands du Mazenderan, qui avait le pas sur tous les chefs, prit une des mains de Rustem et la serra et lui fit du mal pour l’éprouver ; mais Rustem au corps d’éléphant en sourit. et les yeux de la mullitude restèrent fixés sur lui avec étonnement.
+Un des grands du Mazenderan, qui avait le pas sur tous les chefs, prit une des mains de Rustem et la serra et lui fit du mal pour l’éprouver ; mais Rustem au corps d’éléphant en sourit et les yeux de la mullitude restèrent fixés sur lui avec étonnement.
 
 Tout en souriant, Rustem pressa à son tour la main du cavalier, lui rompit les veines de la main et le fit pâlir.
 
@@ -87,10 +87,9 @@ Quand le roi eut entendu le message et lu la letpondit à Rustem :
 Dis-lui :
 
 > Tu es le maître de l’Iran ; mais quand même tu aurais le
-æ cœur et la grille d’un lion, je suis le roi du Mazenderan, j’ai une armée, un trône d’or et une tiare d’or : et me mander auprès de lui insolemment
+æ cœur et la griffe d’un lion, je suis le roi du Mazenderan, j’ai une armée, un trône d’or et une tiare d’or : et me mander auprès de lui insolemment
 >
-> 
-n’est pas selon les coutumes des rois ni selonla voie des croyants.
+> n’est pas selon les coutumes des rois ni selonla voie des croyants.
 >
 > Réfléchis et ne recherche pas le trône des puissants, car cette ambition ne peut te conduire qu’à l’humiliation.
 >
