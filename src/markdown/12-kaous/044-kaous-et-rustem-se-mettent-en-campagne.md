@@ -30,6 +30,7 @@ Cette masse de lances et de drapeaux aux couleurs variées, de boucliers d’or 
 Le monde ne distinguait plus la nuit du jour ; tu aurais dit que le firmament etles Pléiades avaient disparu.
 
 C’est ainsi que l’armée s’avança jusqu’à ce qu’elle fût devant le château, couvrant les rochers et les terres.
+
 Un grand cri ’s’éleva de la tour du château, qui annonça à Sohrab que l’armée des Iraniens était arrivée ; et aussitôt qu’il entendit la voix de la sentinelle, il monta sur les remparts pour observer l’ennemi.
 
 Il montra du doigt à Houman cette armée, une armée qui n’avait pas de tin ; et lorsque Houman la vitlde loin, son cœur se remplit de crainte et il poussa un soupir.
