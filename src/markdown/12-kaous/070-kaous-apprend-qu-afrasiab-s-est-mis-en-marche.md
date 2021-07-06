@@ -51,7 +51,9 @@ Il se dit en lui-même :
 
 Il se ceignit, se rendit auprès du roi Kaous et lui dit :
 
-> Mon rang est tel que je puis prétendre à combattre le roi du Touran et à jeter l dans la poussière le chef des braves.»
+> Mon rang est tel que je puis prétendre à combattre le roi du Touran et à jeter !
+>
+> Dans la poussière le chef des braves.»
 
 Dieu le créateur avait ordonné que Siawusch devait perdre la vie dans le pays de Touran par les machinations et les artifices des méchants, lorsque son temps serait accompli.
 
@@ -61,7 +63,7 @@ Il lui dit :
 
 > Les trésors de ton père sont devant toi et tu peux dire que l’armée entière est à toi.»
 
-Ensuite il appela devant lui Rustem au corps d’éléphant et lui adressa beaucoup de bonnes paroles, disant :
+Ensuite, il appela devant lui Rustem au corps d’éléphant et lui adressa beaucoup de bonnes paroles, disant :
 
 > L’éléphant n’est pas ton égal en force et le courant du Nil n’est pas aussi puissant que ta main.
 >
@@ -85,4 +87,4 @@ Rustem répondit :
 
 Le roi ’écouta et le bénit en disant :
 
-> Puisse la raison être toujours la compagne de ton r âme pure!»
+> Puisse la raison être toujours la compagne de ton âme pure !»
