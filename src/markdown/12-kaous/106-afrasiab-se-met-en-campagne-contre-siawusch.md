@@ -27,15 +27,16 @@ Ferenguis lui dit :
 
 Il lui répondit :
 
-> r : Ô femme au beau visage !
+> Ô femme au beau visage !
+>
+> L’honneur dont j’étais en- : rtouré dans le pays de Touran est terni.
+>
+> Je ne sais comment te répondre, je suis confondu de ce qui m’arrive.
+>
+> Si Guersiwez a dit vrai, il ne me reste du
+æ cercle de la vie que le point du centre.»
 
-L’honneur dont j’étais en-
- : rtouré dans le pays de Touran est terni.
-
-Je ne sais comment te répondre, je suis confondu de ce qui m’arrive.
-
-Si Guersiwez a dit vrai, il ne me reste du
-æ cercle de la vie que le point du centre. n Ferenguis saisit de ses mains les boucles de ses icheveux, elle déchira de ses ongles ses joues de rose et de corail et ces joues au parfum de musc se couvrirent de sang ; son cœur était en feu, son visage inondé de larmes qui tombaient en torrent sur les collines d’argent de son sein ; elle déchirait ses lèvres
+Ferenguis saisit de ses mains les boucles de ses icheveux, elle déchira de ses ongles ses joues de rose et de corail et ces joues au parfum de musc se couvrirent de sang ; son cœur était en feu, son visage inondé de larmes qui tombaient en torrent sur les collines d’argent de son sein ; elle déchirait ses lèvres
 
 De tulipe avec ses dents de perles ; elle arrachait ses cheveux et pleurait sur ce qu’avait dit et fait Afrasiab.
 
