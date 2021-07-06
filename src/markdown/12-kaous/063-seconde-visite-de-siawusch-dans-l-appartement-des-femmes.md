@@ -33,7 +33,7 @@ Alors, il partit troublé et chancelant ; il se rendit auprès de Soudabeh, qu�
 
 Soudabeh descendit du trône et alla au-devant de lui, le front et les cheveux couverts de joyaux ; elle le fit asseoir sur son trône d’or et se plaça devant lui en tenant les mains croisées sur la poitrine.
 
-Elle montra au jeune roi ces idoles, qui ressemblaient à (les perles intactes, en disant :
+Elle montra au jeune roi ces idoles, qui ressemblaient à des perles intactes, en disant :
 
 > Regarde ces esclaves à la couronne d’or, qui se tiennent devant ton trône ; ce sont de jeunes idoles de Tharaz, que Dieu a pétries de grâce et de pudeur.
 >
@@ -42,13 +42,12 @@ Elle montra au jeune roi ces idoles, qui ressemblaient à (les perles intactes, 
 Siawusch jeta un court regard sur ces belles, mais aucune d’elles n’ose le lui rendre ; car ces lunes se disaient l’une à l’autre : Il ne convient
 -pas de regarder ce roi.»
 
-Ensuite chacune d’elles if».
-
+Ensuite chacune d’elles if». 
 L7à
-s’en retourna à son trône, calculant ses chances (le bonheur. ’ .
+s’en retourna à son trône, calculant ses chances de bonheur. ’ .
 Quand elles furent parties, Soudabeh lui dit :
 
-> r : Pourquoi me caches-tu tes pensées ?
+> Pourquoi me caches-tu tes pensées ?
 >
 > Ne veux-tu pas me dire quel est ton désir, toi sur le visage de qui brille la beauté des Péris ?
 >
@@ -66,7 +65,7 @@ Siawusch était confondu et ne répondit pas ; il pensait en son âme pure :
 
 Pendant que Siawusch tardait ainsi à répondre, la belle au visage de Péri ôta de son front son voile et lui dit :
 
-> Si tu tOÎS assis sur leurs trônes brillants le soleil et la nouvelle lune, il n’est pas étonnant que tu méprises la lune et que tu presses coutre ton sein le soleil.
+> Si tu tOÎS assis sur leurs trônes brillants le soleil et la nouvelle lune, il n’est pas étonnant que tu méprises la lune et que tu presses contre ton sein le soleil.
 >
 > Quand un homme m’a vue, assise sur le trône d’ivoire, un diadème de rubis et de turquoises sur la tête, il ne faut pas s’étonner s’il ne regarde plus la lune et ne complc pour belle aucune autre que moi.
 >
@@ -86,7 +85,7 @@ Les joues de Siaquch rougirent de honte comme la rose et les cils de ses yeux fu
 
 Il dit en son âme :
 
-> Que le maître de Saturne me préserve des œuvres du Div!
+> Que le maître de Saturne me préserve des œuvres du Div !
 >
 > Je ne veux pas trahir mon père ni faire alliance avec Ahriman.
 >
@@ -96,7 +95,7 @@ Il dit en son âme :
 
 Il répondit ensuite à Soudabeh :
 
-> Il n’y a pas de femme dans le monde qui soit ton égale ; la beauté ne peut se com-- parer qu’à la lune et personne n’est digue de toi que le roi.
+> Il n’y a pas de femme dans le monde qui soit ton égale ; la beauté ne peut se com--parer qu’à la lune et personne n’est digue de toi que le roi.
 >
 > C’est assez de bonheur pour moi que tu me donnes ta fille et je ne dois pas posséder une autre femme.
 >
@@ -112,7 +111,7 @@ Il répondit ensuite à Soudabeh :
 >
 > Tu es la première des princesses et tu es la reine et je te regarde comme ma même Il dit et quitta Soudabeh, dont l’âme méchante était remplie d’amour pour lui.
 >
-> Lorsque Keî Kaous entra dans l’appartement des femmes, Soudabeh l’aperçut et alla au-devant du roi, lui donna de bonnes nouvelles et lui parla longuement de Siawusch.
+> Lorsque Keï Kaous entra dans l’appartement des femmes, Soudabeh l’aperçut et alla au-devant du roi, lui donna de bonnes nouvelles et lui parla longuement de Siawusch.
 >
 > Il est venu, lui dit-elle et a vu tout le palais ; j’avais réuni les idoles aux yeux noirs et le palais était si rempli de filles au doux visage que tu aurais dit que la lune faisait pleuvoir de l’amour.
 >
@@ -124,7 +123,7 @@ KEÏ nous. m aurais dit qu’il tenait embrassée la lune.
 
 Il ouvril les portes de son trésor et en lira des joyaux, des étoffes tissues d’or et des ceintures d’or, des bracelets, des couronnes et des bagues, des trônes et des colliers, insignes du pouvoir, enfin il étala toutes sortes de trésors dès longtemps amassés et le monde parut rempli de choses précieuses.
 
-Ensuite il dit à Soudabeh :
+Ensuite, il dit à Soudabeh :
 
 > Garde ceci pour Siawusch et quand il en sera besoin, donne-le lui et dis-lui que c’est peu de chose et qu’il faudrait lui donner deux cents trésors comme celui-ci.»
 
