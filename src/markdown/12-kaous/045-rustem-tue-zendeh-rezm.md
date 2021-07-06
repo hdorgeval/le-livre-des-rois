@@ -17,7 +17,7 @@ Lorsque le soleil eut disparu du monde et que la nuit noire eut étendu le pan d
 
 Il lui dit :
 
-> Le roi me permet-il de sortir sans casque ni c ceinture pour observer ce nouveau maître du monde, et pour voir qui sont ses braves et qui est le chef de son armée?»
+> Le roi me permet-il de sortir sans casque ni ceinture pour observer ce nouveau maître du monde et pour voir qui sont ses braves et qui est le chef de son armée?»
 
 Kaous lui dit :
 
@@ -29,13 +29,15 @@ Kaous lui dit :
 >
 > Le héros se glissa dans la forteresse comme un lion qui surprend des antilopes ; il aperçut tout à coup les chefs de l’armée et ses joues s’épanouirent de joie comme une rose.
 >
-> Or lorsque Sohrab s’était décidé pour la guerre et que son départ s’approchait, sa mère avait mandé l’illustre Zendeh Rezm, qui était fils du roi de-Semengan et oncle de Sohrab le glorieux et qui avait vu Rustem au banquet et elle lui avait dit : Ô héros à l’âme brillante. je t’enverrai avec cet enfant ; et quand il sera arrivé dans l’Iran et auprès du, roi des braves, quand au jour du combat les armées se rapprocheront, alors tu montreras son père à mon noble fils.»
+> Or lorsque Sohrab s’était décidé pour la guerre et que son départ s’approchait, sa mère avait mandé l’illustre Zendeh Rezm, qui était fils du roi de-Semengan et oncle de Sohrab le glorieux et qui avait vu Rustem au banquet et elle lui avait dit :
+
+> Ô héros à l’âme brillante. je t’enverrai avec cet enfant ; et quand il sera arrivé dans l’Iran et auprès du, roi des braves, quand au jour du combat les armées se rapprocheront, alors tu montreras son père à mon noble fils.»
 
 Rustem vit donc Sohrab assis au festin sur un trône et placés près de lui, d’un côté Zendeh Bezm, de l’autre Houman le vaillant cavalier et Barman le lion renommé.
 
 Tu aurais dit que Sohrab remplissait le trône tout entier ; il ressemblait à un cyprès plein de séve ; ses deux bras étaient forts comme les cuisses d’un chameau, sa poitrine large comme la poitrine d’un lion, son visage rougecomme du sang.
 
-Autour de lui étaient assis cent Turcs braves, jeunes, fiers et sem- blables à des lions ; cinquante esclaves ornés de bracelets, rangés debout devant le ravisseur des cœurs dont la fortune était haute, invoquaient les bénédictions de Dieu sur sa taille élancée, sur son épée et son sceau, Bustcm se tenait à l’écart, en observant les braves assis au banquet, lorsque Zendeh eut besoin de sortir et aperçut un brave semblable à un cyprès élancé.
+Autour de lui étaient assis cent Turcs braves, jeunes, fiers et semblables à des lions ; cinquante esclaves ornés de bracelets, rangés debout devant le ravisseur des cœurs dont la fortune était haute, invoquaient les bénédictions de Dieu sur sa taille élancée, sur son épée et son sceau, Bustcm se tenait à l’écart, en observant les braves assis au banquet, lorsque Zendeh eut besoin de sortir et aperçut un brave semblable à un cyprès élancé.
 
 Il n’y avait dans l’armée des Turcs aucun homme de sa stature.
 
@@ -47,19 +49,21 @@ Zendeh s’approcha de lui et lui demanda subitement :
 >
 > Viens vers la lumière et montre-toi.»
 
-Bustein le frappa sur la nuque d’un violent coup de poing, et l’âme de Zendeh Bezm abandonna son corps ; il mourut sur la place ; il ne devait plus combattre et les fêtes avaient fini pour lui.
+Bustein le frappa sur la nuque d’un violent coup de poing et l’âme de Zendeh Bezm abandonna son corps ; il mourut sur la place ; il ne devait plus combattre et les fêtes avaient fini pour lui.
 
 Sohrab attendit longtemps, mais Zendeh le lion ne revint pas auprès de lui, il demanda où il était allé, laissant vide sa place au banquet.
 
-Quelques-uns sortirent et le trouvèrent par terre ; il était sans vie, et l’âme avait quitté le corps.
+Quelques-uns sortirent et le trouvèrent par terre ; il était sans vie et l’âme avait quitté le corps.
 
-Ils revinrent en poussant des cris de terreur, ils revinrent ’âme troublée de douleur et dirent à Sohrab : Zendeh Bezm est mort !
+Ils revinrent en poussant des cris de terreur, ils revinrent ’âme troublée de douleur et dirent à Sohrab :
 
-Les fêtes et les combats sont passés pour lui.»
+> Zendeh Bezm est mort !
+>
+> Les fêtes et les combats sont passés pour lui.»
 
 Sohrab, en entendant ces paroles, sauta sur ses pieds et alla vers Zendeh, courant comme la fumée.
 
-Il y alla suivi d’esclaves, de torches et de musiciens, et le trouva mort.
+Il y alla suivi d’esclaves, de torches et de musiciens et le trouva mort.
 
 Il fut saisi d’un grand étonnement et resta stupéfait ; ensuite ce lion appela les braves.
 
@@ -94,12 +98,12 @@ Tehemten ouvrit la bouche pour lui répondre et raconta ce qu’il avait fait et
 
 Le noble Guiv invoqua les grâces de Dieu sur lui en disant :
 
-> Puisses-tu ne jamais manquer à ton cheval, à ta massue et à ta selle!»
+> Puisses-tu ne jamais manquer à ton cheval, à ta massue et à ta selle !»
 
 De la Rustem alla auprès du roi et lui fit la description des Turcs et de leur festin, de Sohrab, de sa haute taille et de ses bras prêts pour le combat. disant : Jamais homme comme lui n’a paru chez les Turcs ; il ressemble à un cyprès, tant sa taille est droite ; il n’a d’égal ni dans l’Iran ni dans le Touran ; tu croirais que c’est Sam le cavalier.
 
 Que puisje dire de plus?»
 
-Ensuite il parla du coup qu’il avait donné à Zendeh Bezm et qui le mettait hors d’état de prendre part aux combats et aux banquets.
+Ensuite, il parla du coup qu’il avait donné à Zendeh Bezm et qui le mettait hors d’état de prendre part aux combats et aux banquets.
 
 Ils conversèrent de cette sorte, ensuite ils firent venir des musiciens et du vin et passèrent. la nuit réunis en assemblée.
