@@ -13,7 +13,7 @@ order: '150'
 
 # Thous et Feribourz attaque en vain le château de Bahman
 
-Lorsque le soleil fut entré dans le signe du Lion. et au moment où le ciel subjuguait la nuit, Feribourz et Thous entrèrent à la hâte chez le roi du monde.
+Lorsque le soleil fut entré dans le signe du Lion et au moment où le ciel subjuguait la nuit, Feribourz et Thous entrèrent à la hâte chez le roi du monde.
 
 Thous dit à Kaous :
 
@@ -27,7 +27,7 @@ Le roi lui répondit :
 
 Thous se mit en marche avec le drapeau de Kaweh ; il y avait dans l’armée quarante braves portant des bottines d’or ; Feribourz fils de Kaous occupait le centre et Thous, avec ses éléphants et son cortège, marchait devant lui.
 
-Lorsque les troupes arrivèrentt A en vue du château, la terre semblait exhaler des flammes ; la chaleur rendait brûlantes les pointes des lances et les guerriers, dans leurs cottes de mailles, étaient consumés par la chaleur : tu aurais dit que la terre n’était que du feu. et que l’air était un filet tendu par Ahriman le rebelle.
+Lorsque les troupes arrivèrentt A en vue du château, la terre semblait exhaler des flammes ; la chaleur rendait brûlantes les pointes des lances et les guerriers, dans leurs cottes de mailles, étaient consumés par la chaleur : tu aurais dit que la terre n’était que du feu et que l’air était un filet tendu par Ahriman le rebelle.
 
 Les sommets des remparts se perdaient dans les nues et les Iraniens cherchaient en vain comment livrer un combat dans les airs.
 
