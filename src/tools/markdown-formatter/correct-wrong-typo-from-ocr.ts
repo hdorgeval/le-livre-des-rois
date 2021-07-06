@@ -327,6 +327,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/courenne/g, 'couronne'),
     (content: string) => content.replace(/sm /g, 's.» '),
     (content: string) => content.replace(/corlége/g, 'cortège'),
+    (content: string) => content.replace(/sl /g, 's ! '),
   ].forEach((format) => {
     result = format(result);
   });
