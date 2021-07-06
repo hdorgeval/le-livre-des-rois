@@ -41,13 +41,13 @@ Elle répondit :
 >
 > Jamais homme ne m’a vue dévoilée ; jamais home n’a connu le son de ma voix.
 >
-> Mais j’ai entendu faire de toi beaucoup de récits qui semblent des contes de fées et qui m’ont appris que tu ne crains ni Div, ni lion, ni léopard, ni crocodile, tant ta main est prompte à frapper ; que tu viens, dans la nuit obscure, tout seul, dans le pays de Tourau ; que tu erres sur la frontière sans te lasser ; que tu fais rôtir un onagre pour toi seul ; que tu fais gémir l’air sous les coups de ton épée ; que le cœur du lion et la peau du léopard se fendent quand ils voient la massue dans ta main ; que l’aigle n’ose pas s’abattre sur sa proie quand il voit ton épée une ; que le lion porte les marques de ton lacet, et que le nuage verse du sang de peur de ta lance.
+> Mais j’ai entendu faire de toi beaucoup de récits qui semblent des contes de fées et qui m’ont appris que tu ne crains ni Div, ni lion, ni léopard, ni crocodile, tant ta main est prompte à frapper ; que tu viens, dans la nuit obscure, tout seul, dans le pays de Tourau ; que tu erres sur la frontière sans te lasser ; que tu fais rôtir un onagre pour toi seul ; que tu fais gémir l’air sous les coups de ton épée ; que le cœur du lion et la peau du léopard se fendent quand ils voient la massue dans ta main ; que l’aigle n’ose pas s’abattre sur sa proie quand il voit ton épée une ; que le lion porte les marques de ton lacet et que le nuage verse du sang de peur de ta lance.
 >
 > Tels sont les récits qu’on m’a faits et je me suis souvent mordu la lèvre à cause de toi ; souvent j’ai désiré de voir tes épaules, tes bras et ta poitrine.
 >
-> Maintenant Dieu t’a fait demeurer dans cette ville, et je suis à toi si tu veux de moi. sinon ni oiseau ni poisson ne me verront jamais.
+> Maintenant Dieu t’a fait demeurer dans cette ville et je suis à toi si tu veux de moi. sinon ni oiseau ni poisson ne me verront jamais.
 >
-> Songe d’abord que mon amour pour toi m’a réduite à un état tel que je sacrifie ma raison pour ma passion ; ensuite que Dieu permettra peut-être qu’il me naisse un fils qui deviendra comme toi, un homme brave et fort, et à qui Saturne et le soleil donneront l’empire du ce monde ; enfin que je t’amènerai ton cheval et mettrai à tes pieds tout le pays de Semengan.»
+> Songe d’abord que mon amour pour toi m’a réduite à un état tel que je sacrifie ma raison pour ma passion ; ensuite que Dieu permettra peut-être qu’il me naisse un fils qui deviendra comme toi, un homme brave et fort et à qui Saturne et le soleil donneront l’empire du ce monde ; enfin que je t’amènerai ton cheval et mettrai à tes pieds tout le pays de Semengan.»
 
 Les paroles de cette lune cessèrent.
 
@@ -59,7 +59,7 @@ Dès que le roi entendit les paroles du Mobed, il en fut réjoui et en grandit c
 
 Il donna sa fille à ce Pehlewan, en observant les coutumes et les rites et conclut cette alliance avec joie et selon le plaisir, le vœu et la volonté de Rustem.
 
-Quand il donna sa tille au Pehlewan, tous, jeunes et vieux, y applaudirent ; dans l’excès de leur joie ils versèrent leur âme sur Rustem et le bénirent, disant :
+Quand il donna sa fille au Pehlewan, tous, jeunes et vieux, y applaudirent ; dans l’excès de leur joie ils versèrent leur âme sur Rustem et le bénirent, disant :
 
 > Que cette nouvelle lune te porte bonheur !
 
@@ -70,7 +70,7 @@ N
 KEI nous sa Ensuite sa compagne fut laissée seule avec lui,’et
 .la nuit longue et sombre s’écoula ; et lorsque le soleil brillant commença de lancer de la haute voûte du ciel ses lacets de lumière, Rustem prit un onyx qu’il portait au bras et qui était célèbre dans le monde entier et le donna à Tehmimeh, en disant :
 
-> Garde ce joyau et si le ciel veut que tu mettes au monde une fille, prends cet onyx et attache-le aux boucles de ses cheveux sous une bonne étoile et sous d’heureux auspices ; mais si les astres t’accordent un fils, attache-le à son bras, comme l’a porté son père ; il égalera en stature Sam fils de Neriman ; par sa bravoure et sa bonté il ressemblera à Keri- man ; il abattra dans les nues l’aigle ailé et le soleilne luira pas sur lui malignement.»
+> Garde ce joyau et si le ciel veut que tu mettes au monde une fille, prends cet onyx et attache-le aux boucles de ses cheveux sous une bonne étoile et sous d’heureux auspices ; mais si les astres t’accordent un fils, attache-le à son bras, comme l’a porté son père ; il égalera en stature Sam fils de Neriman ; par sa bravoure et sa bonté il ressemblera à Keriman ; il abattra dans les nues l’aigle ailé et le soleilne luira pas sur lui malignement.»
 
 Rustem passa ainsi la nuit avec la belle au visage de lune, tenant avec elle des discours sur toutes choses ; et lorsque
 .le soleil se leva brillant dans le ciel et commença d’embellir avec amour la terre, Rustem prit congé de Tehmimeh, la pressa contre son cœur et lui baisa plusieurs fois les yeux et le front.
