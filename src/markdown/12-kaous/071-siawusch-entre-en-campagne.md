@@ -20,7 +20,7 @@ Kaous ouvrit les portes de ses trésors où étaientdes monceaux d’or et envoy
 
 Le roi choisit parmi les cavaliers renommés douze mille guerriers pleins d’ardeur, tous Pehlewans du pays de F ars, du Koutch et du Beloudjistan, ou guerriers du Ghilan et du désert de Seroudj.
 
-Ensuite il choisit douze mille fantassins armés de boucliers et ,propres au combat, tous fils de héros, braves, prudents et hommes libres, tous de la stature et de l’âge de Siawusch, tous pleins de sens, de circonspection et de discrétion.
+Ensuite, il choisit douze mille fantassins armés de boucliers et ,propres au combat, tous fils de héros, braves, prudents et hommes libres, tous de la stature et de l’âge de Siawusch, tous pleins de sens, de circonspection et de discrétion.
 
 Parmi eux se trouvaient des chefs de haut renom, cOmme Bahman et Zengueh, fils de Schaweran.
 
@@ -40,7 +40,7 @@ Le roi Kaous passa la frontière et son armée fit voler une immense poussière 
 >
 > Puissiez-vous partir sous une bonne étoile et sains de corps !
 >
-> Puissiez-vous revenir heureux et victorieux!»
+> Puissiez-vous revenir heureux et victorieux !»
 
 Le jeune Sipehdar fit placer les timbales sur les éléphants, fit monter a cheval les braves et monta lui-même.
 
@@ -70,7 +70,7 @@ Ils eurent des nouvelles du jeune prince, on leur dit :
 
 > Il vient de l’Iran une armée et un jeune roi accompagné de Rustem au corps d’éléphant. »
 
-Guersiwez envoya sur-le-champ à Afra- siab un dromadaire rapide comme la barque v0-
+Guersiwez envoya sur-le-champ à Afrasiab un dromadaire rapide comme la barque v0-
 guant sur l’eau et luifit dire :
 
 > Il arrive de l’Iran une grande armée dont le chef est Siawusch, accompagné des grands.
