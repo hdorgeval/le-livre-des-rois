@@ -15,11 +15,11 @@ order: '086'
 
 Siawusch écrivit une lettre à son père, dans laquelle il lui racontait tout ce qui s’était passé, disant :
 
-> Malgré ma jeunesse, j’ai de l’intelligence, et me suis toujours détourné de toute mauvaise action.
+> Malgré ma jeunesse, j’ai de l’intelligence et me suis toujours détourné de toute mauvaise action.
 >
 > Mais le feu de la colère du roi du mondea brûlé en secret mon cœur ; ma première douleur est venue de l’appartement de tes femmes ; il m’a fallu inonder mes joues du sang de mon cœur, il m’a fallu traverser une montagne de feu, de sorte que les biches du désert ont pleuré sur moi amèrement.
 >
-> Pour échapper à la honte et à la disgrâce qui m’accablait, je suis allé à la guerre, j’ai mar- ché au combat contre les crocodiles.
+> Pour échapper à la honte et à la disgrâce qui m’accablait, je suis allé à la guerre, j’ai marché au combat contre les crocodiles.
 >
 > Les deux pays se sont réjouis de la paix que j’ai conclue : mais le cœur du roi a été comme une épée d’acier.
 >
@@ -33,21 +33,23 @@ Siawusch écrivit une lettre à son père, dans laquelle il lui racontait tout c
 >
 > Je ne sais quel destin, dans sa haine ou dans son amour, me réserve en secret le ciel qui tourne.»
 
-Ensuite il donna ses ordres à Bahram, disant :
+Ensuite, il donna ses ordres à Bahram, disant :
 
 > Fais fleurir ton nom dans le monde ; je te confie la couronne, le camp, le trésor, mon trône, ma place, mon étendard, les cavaliers, les éléphants et les timbales.
 >
 > Quand le Sipehdar Thous sera arrivé, tu lui remettras tout comme tu l’as reçu.
 >
-> Sois prudent, que tes jours soient heureux!»
+> Sois prudent, que tes jours soient heureux !»
 
 Il choisit dans l’armée six cents cavaliers, tous guerriers propres au combat ; il ordonna qu’on lui apportât de l’argent autant qu’il lui en fallait, de l’or et des joyaux dignes d’un roi, qu’on amenât cent chevaux caparaçonnés d’or, cent esclaves avec des ceintures d’or pour le servir et qu’on fit une liste des armes, des caparaçons et des ceintures qu’il emportait.
 
-Ensuite il appela les grands et leur adressa quelques paroles convenables : Piran vient de la part d’Afrasiab ; il a traversé le Djihoun et m’apporte un message secret qui vous délivrera tous de vos soucis.
+Ensuite, il appela les grands et leur adressa quelques paroles convenables :
 
-Je me prépare maintenant à aller au-devant de lui, mais il est nécessaire que vous restiez ici.
-
-Vous regarderez tous Bahram comme votre chef et vous ne refuserez pas d’obéir à ses ordres.»
+> Piran vient de la part d’Afrasiab ; il a traversé le Djihoun et m’apporte un message secret qui vous délivrera tous de vos soucis.
+>
+> Je me prépare maintenant à aller au-devant de lui, mais il est nécessaire que vous restiez ici.
+>
+> Vous regarderez tous Bahram comme votre chef et vous ne refuserez pas d’obéir à ses ordres.»
 
 Tous les braves baisèrent la terre devant Siawusch en invoquant la grâce de Dieu sur lui.
 æ
@@ -69,11 +71,11 @@ Les joues du roi pâlirent à ces nouvelles ; et dans sa colère contre Siawusch
 Car il ne savait pas ce que la rotation des sphères lui réservait, ni si le ciel voulait le traiter avec amour ou avec haine.
 
 Il oublia sa colère,son envie de combats et sa vengeance et dès ce momentne parla plus de guerre. ’ ’
-Afrasiab apprit que Siawusch avait passé le Djihoun, qu’il avait franchi la frontière avec son v 2A3 escorte et qu’un messager envoyé par lui était arrivé à la cour.
+Afrasiab apprit que Siawusch avait passé le Djihoun, qu’il avait franchi la frontière avec son 2A3 escorte et qu’un messager envoyé par lui était arrivé à la cour.
 
 Il ordonna que l’on allât à sa rencontre et que les grands se missent en route précédés des tambours.
 
-Piran choisit mille hommes de sa tribu et fit ses préparatifs pour aller âudevant de Siawusch ; il distribua à son escorte des provisiOns et des présents, et fit caparaçonner quatre éléphants blancs, sur l’un desquels on plaça un trône incrmté de turquoises et un étendard brillant et grand comme un arbre.
+Piran choisit mille hommes de sa tribu et fit ses préparatifs pour aller âudevant de Siawusch ; il distribua à son escorte des provisiOns et des présents et fit caparaçonner quatre éléphants blancs, sur l’un desquels on plaça un trône incrmté de turquoises et un étendard brillant et grand comme un arbre.
 
 Le drapeau était surmonté d’une lune d’or, le fond en était violet et brodé d’or au milieu.
 
@@ -99,7 +101,7 @@ Piran lui baisa la tête et les pieds, ainsi que ce beau visage qui ravissait le
 >
 > Maintenant, ô Siawusch, que je t’ai vu brillant et en bonne santé, j’en rends avant tout grâce à Dieu.
 >
-> Afrasiab s’era pour toi un père, et tous ceux qui demeurent de ce côté du Djihoun seront tes esclaves.
+> Afrasiab s’era pour toi un père et tous ceux qui demeurent de ce côté du Djihoun seront tes esclaves.
 >
 > J’ai plus de mille alliés qui sont mes serviteurs, portant la boucle d’oreille de l’esclavage.
 >
@@ -137,13 +139,12 @@ Siawusch lui répondit :
 
 > Ô vieillard aux paroles pures et droites, célèbre dans le monde entier par ta bonté et ta bonne foi !
 >
-> Tu es éloigné des œuvres d’Ahriman et de tonte injustice.
+> Tu es éloigné des œuvres d’Ahriman et de toute injustice.
 >
 > Si tu veux faire avec moi une alliance et je sais que tu ne la violeras pas, alors je me préparerai un rlieu de repos dans ce pays, par amour pour toi et
 2 : 1.
 >
-> 
-dans la confiance que tu m’inspires.
+> dans la confiance que tu m’inspires.
 >
 > Si mon séjour ici me porte bonheur, tu n’auras pas à déplorer la part que tu y auras prise ; et s’il en doit être autrement, ordonne-moi de partir et enseigne-moi le chemin d’un autre pays.»
 
@@ -167,7 +168,7 @@ Piran lui dit :
 >
 > Que tout cela soit à toi, si tu veux établir parmi nous ta joyeuse demeure.
 >
-> Je t’ai reçu de Dieu le très- saint et je te servirai de tout mon cœur et de toute mon âme ; je te garantirai de tout malheur, autant qu’il sera possible ; car personne ne connaît le secret du ciel sublime.»
+> Je t’ai reçu de Dieu le très-saint et je te servirai de tout mon cœur et de toute mon âme ; je te garantirai de tout malheur, autant qu’il sera possible ; car personne ne connaît le secret du ciel sublime.»
 
 KEÏ nous.
 
