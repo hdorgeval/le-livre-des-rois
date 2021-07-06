@@ -17,7 +17,7 @@ Le quatrième jour Kaous monta sur le trône des Keïanides, une massue à tête
 
 Il était en courroux et manda Soudabeh devant lui ; il lui reprocha tout ce qui s’était passé : Tu es une femme éhontée, tu as fait beaucoup de mal, tu as grandement affligé mon cœur.
 
-Quel jeu as-tu donc et joué jusqu’à la fin, en conspirant contre la vie de mon fils, en le précipitant dans le feu et en prati- quant les arts magiques contre lui ?
+Quel jeu as-tu donc et joué jusqu’à la fin, en conspirant contre la vie de mon fils, en le précipitant dans le feu et en pratiquant les arts magiques contre lui ?
 
 Le repentir ne te servira plus ; il faut que tu renonces à la vie et I que tu te prépares à la mort.
 
@@ -49,7 +49,9 @@ Tous invoquèrent les grâces de Dieu sur le roi, disant :
 
 > Sa peine doit être la mort, il faut qu’elle se torde de douleur en punition de ses méfaits.»
 
-Le roi dit alors au bourreau : Attachela au gibet sur la grande route et détourne d’elle la tête.»
+Le roi dit alors au bourreau :
+
+> Attachela au gibet sur la grande route et détourne d’elle la tête.»
 
 Quand on emmena Soudabeh, toutes les femmes du palais poussèrent un cri de douleur.
 
@@ -77,7 +79,7 @@ Quelque temps se passa ainsi et le roi s’attacha à elle plus ardemment que ja
 
 Ses paroles excitèrent dans l’esprit du roi des soupçons contre son fils, mais il n’en laissa rien voir à personne.
 
-La position de Kaous était telle qu’il lui aurait fallu du sens et de la sagesse, de la piété et de la justice ; car ce n’est que quand l’homme craint Dieu que toutes choses s’ac- complissent selon les vœux de son cœur.
+La position de Kaous était telle qu’il lui aurait fallu du sens et de la sagesse, de la piété et de la justice ; car ce n’est que quand l’homme craint Dieu que toutes choses s’accomplissent selon les vœux de son cœur.
 
 N’attends pas follement qu’il sorte une boisson saine de la coupe dans laquelle le sort a versé du poison.
 
