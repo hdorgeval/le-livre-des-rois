@@ -79,7 +79,7 @@ Rustem lui répondit :
 
 > Mon nom est le nuage et si le nuage vient combattre le lion, il fera pleuvoir des coups de lance et d’épée et tranchera les têtes des grands.
 >
-> Si mon nom te parvient aux oreilles, il glacera le souille de ta vie et le sang de ton cœur.
+> Si mon nom te parvient aux oreilles, il glacera le souffle de ta vie et le sang de ton cœur.
 >
 > Est-ce que tu n’as pas entendu parler en toute assemblée du lacet et de l’arc du héros au corps d’éléphant ?
 >
@@ -101,7 +101,7 @@ Rustem courut comme un éléphant furieux, portant son lacet roulé soixante.
 
 Fois autour de son bras ; et lorsque Raksch fut près d’Aulad, le jour devint noir devant les yeux du maître du diadème.
 
-Rustem lança son long lacet, et la tête du superbeguerrier fut prise dans le nœud.
+Rustem lança son long lacet et la tête du superbeguerrier fut prise dans le nœud.
 
 Il le tira de cheval et lui lia les deux mains ; il le jeta par terre devant lui, remonta à cheval et lui dit :
 
@@ -113,7 +113,7 @@ Aulad lui répondit :
 
 > Purifie ton cerveau de sa colère et ouvre une fois tes yeux ; n’arrache pas mon âme de mon corps étourdiment et je t’apprendrai tout ce que tu me demandes ; j’irai te montrer toutes les villes et tous les chemins qui conduisent aux lieux où le roi Kaous est captif ; je t’indiquerai la résidence de Bid et du Div blanc, puisque tu donnes de l’espoir à mon cœur.
 >
-> Ô homme dont les traces sont fortunées, il y a cent farsangs d’ici jusqu’à l’endroit où.se trouve le roi Kaous, et A de là pour arriver auprès du Div blanc. il y a encore cent farsangs d’un chemin dangereux et pénible.
+> Ô homme dont les traces sont fortunées, il y a cent farsangs d’ici jusqu’à l’endroit où.se trouve le roi Kaous et A de là pour arriver auprès du Div blanc. il y a encore cent farsangs d’un chemin dangereux et pénible.
 >
 > Là se trouve entre deux montagnes un séjour d’effroi au-dessus duquel aucun aigle n’oseraitvoler et où gît, au milieu de deux cents autres, une caverne étonnante, dont l’étendue ne peut se mesurer.
 >
@@ -121,7 +121,7 @@ Aulad lui répondit :
 >
 > Le maître de tous ces Divs est le Div blanc, sous lequel s’agite la montagne comme une feuille de tremble.
 >
-> Tu trouveras en lui un brave dont le corps est comme une montagne, dont la poitrine et les épaules sont larges de dix cordes et les bras r longs de dix cordes également ; et malgré tes bras, tes mains et tes rênes, malgré ton épée tranchante, ta massue et ta lance, malgré ta haute stature et ta force, il te sera difficile de combattre .ce Div.
+> Tu trouveras en lui un brave dont le corps est comme une montagne, dont la poitrine et les épaules sont larges de dix cordes et les bras longs de dix cordes également ; et malgré tes bras, tes mains et tes rênes, malgré ton épée tranchante, ta massue et ta lance, malgré ta haute stature et ta force, il te sera difficile de combattre .ce Div.
 >
 > Quand tu auras passé outre, tu. trouveras un pays rocailleux et désert, qu’une biche n’oserait traverser.
 >
@@ -145,9 +145,9 @@ Il dit, s’assit gaiement sur llaksch et Aulad courut devant lui, rapide comme 
 
 Il ne se reposa ni durant la nuit obscure ni durant le jour lumineux et courut jusqu’au pied du mont Asprous, là où Kaous avait amené son armée et où les Divs et les magiciens l’avaient accablé de malheur.
 
-Lorsque la moitié de la nuit sombre fut passée, ils entendirent du côté de la plaine un bruit et un son de tambours. et virent des feux s’allumer dans le pays de Mazen-
+Lorsque la moitié de la nuit sombre fut passée, ils entendirent du côté de la plaine un bruit et un son de tambours et virent des feux s’allumer dans le pays de Mazen-
 
-KEÎ nous. à?!
+KEÎ nous à ? !
 deran et une lampe briller dans chaque lieu.
 
 Rustem dit à Aulad :
