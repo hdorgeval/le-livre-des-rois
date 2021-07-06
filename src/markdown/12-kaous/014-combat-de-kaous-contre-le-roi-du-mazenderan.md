@@ -13,7 +13,7 @@ order: '014'
 
 # Combat de Kaous contre le roi du Mazenderan
 
-Aussitôt que Rustem eut quitté le Mazenderan, le roi des magiciens se prépara à la guerre ; il fit sortir yses tentes de la ville et avancer son armée dans la plaine ; et lorsque la poussière s’éleva sous les pieds de cette multitude, la splendeur du soleil disparut, on ne vit plus ni plaines, ni déserts, ni montagnes, et la terre se fatiguait sous les pieds des éléphants.
+Aussitôt que Rustem eut quitté le Mazenderan, le roi des magiciens se prépara à la guerre ; il fit sortir yses tentes de la ville et avancer son armée dans la plaine ; et lorsque la poussière s’éleva sous les pieds de cette multitude, la splendeur du soleil disparut, on ne vit plus ni plaines, ni déserts, ni montagnes et la terre se fatiguait sous les pieds des éléphants.
 
 Ainsi s’avança l’armée avec rapidité et personne ne resta en arrière au moment du départ.
 
@@ -21,10 +21,9 @@ Quand le roi Kaous reçut la nouvelle de l’approche de l’armée des Divs, il
 
 Les tentes du roi et des grands furent envoyées vers le désert du Mazenderan ; l’aile gauche fut confiée à Thous fils de Newder et le cœur des montagnes résonnait du bruit des trompettes d’airain.
 
-Gouderz et Keschwad commandèrent l’aile droite et couvrirent de fer toutes les montagnes ; le roi Kaous se plaça au centre de l’armée, et les lignes de l’armée s’étendirent au loin.
+Gouderz et Keschwad commandèrent l’aile droite et couvrirent de fer toutes les montagnes ; le roi Kaous se plaça au centre de l’armée et les lignes de l’armée s’étendirent au loin.
 
-Audevant de tous se tenait Rustem au corps d’éléphant, qui n’avait jamais éprouvé de défaite dans un combat. l.
-
+Audevant de tous se tenait Rustem au corps d’éléphant, qui n’avait jamais éprouvé de défaite dans un combat. l. 
 MO
 Un des grands du Mazenderan portait sur son épaule une massue pesante ; il s’appelait Djouia ; son ambition était grande ; il brandissait sa massue et en frappait tout ce qu’il rencontrait.
 
@@ -38,7 +37,9 @@ Il vint et s’approcha des Iraniens ; les montagnes tremblèrent à sa voix ; i
 
 Personne ne sortit des rangs pour combattre Djouia ; tu aurais dit que leurs fibres ne vibraient pas, que leur sang ne coulait pas dans leurs veines.
 
-Le roi Kaous s’écria d’une voix forte : Qu’y a-t-il, mes braves, mes hommes de guerre, que vos cœurs soient troublés par ce Div, que vos visages deviennent sombres à sa voix?»
+Le roi Kaous s’écria d’une voix forte :
+
+> Qu’y a-t-il, mes braves, mes hommes de guerre, que vos cœurs soient troublés par ce Div, que vos visages deviennent sombres à sa voix?»
 
 Les guerriers ne donnèrent aucune réponse au roi ; tu aurais dit qu’à l’aspect de Djouia l’armée était devenue semblable à une fleur fanée.
 
@@ -52,9 +53,9 @@ Kaous lui répondit :
 >
 > Va et que le Créateur te soit en aide !
 >
-> Que tous les Divs etque tous les magiciens deviennent ta proie!»
+> Que tous les Divs etque tous les magiciens deviennent ta proie !»
 
-Rustem lança Raksch le coura- Ml geux, tenant en main une lance qui brisait les têtes ; il courut au champ de bataille comme un éléphant furieux, assis sur un tigre et tenant en main un serpent de lacet).
+Rustem lança Raksch le coura-Ml geux, tenant en main une lance qui brisait les têtes ; il courut au champ de bataille comme un éléphant furieux, assis sur un tigre et tenant en main un serpent de lacet).
 
 Le brave serra les rênes et fit voler la poussière ; le champ de bataille trembla sous ses mouvements.
 
@@ -124,9 +125,7 @@ Gourazeh accourut, semblable à un sanglier et tenant en main un étendard haut 
 
 Rustem attaqua le premier le centre de l’arruée et lava la terre avec le sang des braves.
 
-Gouderz et Keschwad, pourvus d’armes et de timbales et sui-\* vis de leurs troupes et de leurs bagages, attaquèrent l’aile gauche ; Guiv parcourait la ligne des ennemis depuis la gauche jusqu’à la droite, comme un loup 
-Ml : 
-parmi des agneaux ; et depuis le grand matin jusqu’au coucher du soleil le sang coula en ruisseaux comme de l’eau ; la modestie, la courtoisie et la pitié avaient disparu de tous les visages ; tu aurais dit que le ciel faisait pleuvoir des massues.
+Gouderz et Keschwad, pourvus d’armes et de timbales et sui-\* vis de leurs troupes et de leurs bagages, attaquèrent l’aile gauche ; Guiv parcourait la ligne des ennemis depuis la gauche jusqu’à la droite, comme un loup Ml : parmi des agneaux ; et depuis le grand matin jusqu’au coucher du soleil le sang coula en ruisseaux comme de l’eau ; la modestie, la courtoisie et la pitié avaient disparu de tous les visages ; tu aurais dit que le ciel faisait pleuvoir des massues.
 
 De tous côtés s’élevaient des monceaux de morts et les herbes étaient souillées par les cervelles des têtes ; le bruit des timbales et des clairons ressemblait au tonnerre qui gronde et le soleil était enveloppé d’un voile noir.
 
@@ -150,7 +149,7 @@ Kaous vint vers ce lieu, entouré d’éléphants. de timbales, de drapeaux et d
 
 Rustem lui répondit :
 
-> Lorsque le plus fort du combat était passé et que ma fortune victorieuse commençait à briller, ce roi du Mazenderan m’a vu arriver sur lui, une lance brillante dans la main : j’ai lâché les rênes à Raksch mon cheval fougueux, j’ai frappé le roi de ma lance à la ceinture et sur sa cette de mailles ; j’ai cru qu’il se baissait et qu’il allait tomber de la selle ; mais voilà qu’il s’est converti en pierre devant moi et s’est rendu insensible à tout ce que je peux faire.
+> Lorsque le plus fort du combat était passé et que ma fortune victorieuse commençait à briller, ce roi du Mazenderan m’a vu arriver sur lui, une lance brillante dans la main : j’ai lâché les rênes à Raksch mon cheval fougueux, j’ai frappé le roi de ma lance à la ceinture et sur sa cotte de mailles ; j’ai cru qu’il se baissait et qu’il allait tomber de la selle ; mais voilà qu’il s’est converti en pierre devant moi et s’est rendu insensible à tout ce que je peux faire.
 >
 > Je vais maintenant le porter au camp. dans l’espoir qu’il sortira de sa pierre.»
 
@@ -164,7 +163,7 @@ Alors Rustem au corps d’éléphant y appliqua ses mains et n’eut pas besoin 
 
 Le héros porta la pierre devant les tentes du roi, où il la jeta et la livra aux Iraniens en disant :
 
-> Parais maintenant et renonce à cette lâcheté et à ces ente chantements, sinon je briserai toute la pierre en morceaux avec de l’acier tranchant et avec des haches. w Le roi du Mazenderan l’entendit et apparut comme un nuage épais, le casque d’acier sur la tête et la cette de mailles sur la poitrine.
+> Parais maintenant et renonce à cette lâcheté et à ces ente chantements, sinon je briserai toute la pierre en morceaux avec de l’acier tranchant et avec des haches. w Le roi du Mazenderan l’entendit et apparut comme un nuage épais, le casque d’acier sur la tête et la cotte de mailles sur la poitrine.
 
 Rustem le prit sur-le-champ par la main en riant, se dirigea avec lui vers le roi et dit :
 
@@ -200,14 +199,13 @@ Kaous s’étant assis sur son trône, dit à Rustem qui portait haut la tête :
 
 > Ô Pehlewan du monde
 >
-> 
-entier, tu t’es partout signalé glorieusement par ton courage, c’est par toi que j’ai recouvré mon trône.
+> entier, tu t’es partout signalé glorieusement par ton courage, c’est par toi que j’ai recouvré mon trône.
 >
-> Puissent ton cœur, ta loi et ta foi briller à jamais!»
+> Puissent ton cœur, ta loi et ta foi briller à jamais !»
 
 Rustem lui répondit :
 
-> Il faut qu’en toute circons- tance l’homme remplisse ses devoirs : ces honneurs, je les dois à Aulad, qui m’a toujours montré le véritable chemin.
+> Il faut qu’en toute circonstance l’homme remplisse ses devoirs : ces honneurs, je les dois à Aulad, qui m’a toujours montré le véritable chemin.
 >
 > Il espère maintenant, d’après ma a promesse sincère, obtenir le pays de Mazenderan.
 >
