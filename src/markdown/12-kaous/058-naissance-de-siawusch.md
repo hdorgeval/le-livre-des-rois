@@ -15,7 +15,7 @@ order: '058'
 
 Il s’écoula ainsi un peu de temps et le gai printemps prit ses couleurs.
 
-Le ciel tourna sans relâche et lorsque neuf mois eurent passé sur cette belle,on annonça au roi Keî Kaous : Tu as joui de la belle aux traces fortunées et elle a mis au monde un noble enfant ; il faut que tu élèves maintenant ton trône au-dessus de la lune.
+Le ciel tourna sans relâche et lorsque neuf mois eurent passé sur cette belle,on annonça au roi Keï Kaous : Tu as joui de la belle aux traces fortunées et elle a mis au monde un noble enfant ; il faut que tu élèves maintenant ton trône au-dessus de la lune.
 
 Elle a mis au monde un enfant beau comme. un Péri et dont le visage ressemble à une idole d’Aderbeïdjan.
 
@@ -31,13 +31,13 @@ Quelque temps s’étant passé, Rustem arriva auprès du roi et lui dit :
 >
 > Il n’y a personne assez illustre pour que tu lui confies ton fils, qui ne trouvera jamais dans le monde une nourrice comme moi.»
 
-Le roi y réfléchit longtemps, et cette parole ne lui déplut pas ; il confia à Rustem son cœur et ses yeux, cet enfant bienaimé qui adevait être le maître du" monde.
+Le roi y réfléchit longtemps et cette parole ne lui déplut pas ; il confia à Rustem son cœur et ses yeux, cet enfant bienaimé qui adevait être le maître du" monde.
 
 Rustem l’emporta dans le Zaboulistan et lui fit élever un palais dans un jardin de roses, lui donna des chevaux, des flèches, un arc, un lacet, des rênes et des étriers et tout ce qu’il désirait ; il lui donna une salle d’assemblée, du vin et des compagnons pour ses banquets, des fau-
 
 Cons, des gerfauts et des guépards de chasse.
 
-Il lui fit connaître ce qui est juste et ce qui est injuste, il lui apprit les devoirs du trône et de la couronne, les arts de la parole et de la guerre ; il lui enseigna toutes les vertus ; il se donna beaucoup de peine, et cette peine porta son fruit.
+Il lui fit connaître ce qui est juste et ce qui est injuste, il lui apprit les devoirs du trône et de la couronne, les arts de la parole et de la guerre ; il lui enseigna toutes les vertus ; il se donna beaucoup de peine et cette peine porta son fruit.
 
 Siawusch devint tel que dans le monde on n’avait jamais vu son égal parmi les grands.
 
