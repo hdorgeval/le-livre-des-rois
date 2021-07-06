@@ -15,19 +15,20 @@ order: '123'
 
 Lorsque les Touraniens revinrent chez eux du champ de bataille, le corps souillé de sang, la tête couverte de poussière, ils racontèrent que la fortune si courte de Surkheh était passée, qu’un brave plein de courage lui avait coupé la tête, que l’armée revenait fatiguée de combats, que tout le pays d’Iran était armé, que tous les cœurs y étaient blessés du meurtre de Siawusch.
 
-Afrasiab baissa sa tête couronnée, il arracha ses cheveux, il versa des larmes, il poussa des cris, répandit de la poussière sur sa tête, déchira tous ses vêtements royaux et s’écria : 
-3
+Afrasiab baissa sa tête couronnée, il arracha ses cheveux, il versa des larmes, il poussa des cris, répandit de la poussière sur sa tête, déchira tous ses vêtements royaux et s’écria :
+
+> 3
 0 mon noble, mon courageux, mon vaillant fils] chef des braves, héros et roi !
+>
+> Hélas !
+>
+> Cette joue rose, belle comme la lunel Hélas !
+>
+> Cette poitrine, cette taille et cette stature royales !
+>
+> Ton père n’aura plus d’autre siège que la selle de son destrier sur le champ de bataille.»
 
-Hélas !
-
-Cette joue rose, belle comme la lunel Hélas !
-
-Cette poitrine, cette taille et cette stature royales !
-
-Ton père n’aura plus d’autre siège que la selle de son destrier sur le champ de bataille.»
-
-.Ensuite il dit à ses braves :
+.Ensuite, il dit à ses braves :
 
 > Il ne faut plus songer à la faim ni au sommeil.
 >
@@ -58,4 +59,6 @@ Gouderz fils de Keschwad, Hedjir et les. nobles qui les suivaient, à l’aile g
 
 Rustem saisit ses armes de combat ; son cœur et sa poitrine se dilatèrent, car il était avide de vengeance.
 
-Les sabots des chevaux rendaient noire la terre, le ciel était rayé par les lances comme la peau du tigre ; on aurait dit que la terre était devenue une montagne de fer dont la crête était : formée de casques et de cuirasses ; les pointes des drapeaux et ’éclat des épées bleues perçaient les nuages.
+Les sabots des chevaux rendaient noire la terre, le ciel était rayé par les lances comme la peau du tigre ; on aurait dit que la terre était devenue une montagne de fer dont la crête était :
+
+> formée de casques et de cuirasses ; les pointes des drapeaux et ’éclat des épées bleues perçaient les nuages.
