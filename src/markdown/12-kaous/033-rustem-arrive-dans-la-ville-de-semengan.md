@@ -18,17 +18,19 @@ Lorsqu’il s’approcha de la ville de Semengan, le
 
 Les grands et le roi, tous ceux qui portaient un diadème allèrent à sa rencontre ; et lorsqu’ils l’aperçurent, chacun dit :
 
-> Estce Rustem, ou
+> Est-ce Rustem, ou
 (f est-ce le soleil du matin î?»
 
 Le roi de Semengan alla auvdevant de lui, à pied, entouré de la foule de ses braves et lui adressa ces paroles :
 
-> Qu’est-il arrivé?
+> Qu’est-il arrivé ?
 qui est-ce qui a osé se mesurer avec toi dans le combat ?
+>
+> Dans cette ville, nous sommes tous tes amis, tous debout pour attendre tes ordres et ta KEI nous. volonté.
+>
+> Tu es le maître de nos personnes et de nos trésors ; le cœur des nobles et mon âme sont à toi.»
 
-Dans cette ville, nous sommes tous tes amis, tous debout pour attendre tes ordres et ta KEI nous. volonté.
-
-Tu es le maître de nos personnes et de nos trésors ; le cœur des nobles et mon âme sont à toi. a Lorsque Rustem entendit ces paroles, il reconnut que le roi n’avait pas de mauvais desseins et lui répondit :
+Lorsque Rustem entendit ces paroles, il reconnut que le roi n’avait pas de mauvais desseins et lui répondit :
 
 > Mon cheval Raksch s’est éloigné de moi dans cette prairie, sans rênes et sans mors ; les traces de ses pieds vont de la rivière et des roseaux jusqu’à Semengan.
 >
@@ -50,7 +52,7 @@ Le roi lui répondit :
 >
 > Le prince le plaça sur le trône et se tint devant lui comme un esclave.
 >
-> Il ap- .
+> Il ap-.
 pela de la ville et de l’armée les grands et éloigna de sa vue tous ses ennemis.
 >
 > Il ordonna aux cuisiniers d’apporter les tables et de les dresser devant les guerriers et pour conjurer le courroux de Rustem, il fit asseoir parmi les chanteurs des idoles de Tharaz aux yeux noirs et aux joues de rose, qui faisaient oublier le vin, les chansons et la musique.
