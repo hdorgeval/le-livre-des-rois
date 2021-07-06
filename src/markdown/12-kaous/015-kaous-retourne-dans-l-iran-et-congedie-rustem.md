@@ -35,7 +35,7 @@ Puis le roi le bénit et dit :
 
 > Puissestn vivre aussi longtemps qu’on verra le soleil et la lune !
 >
-> Puisse le cœur des grands s’attacher à toit puisse ton âme être pleine de modestie et de tendresse l»
+> Puisse le cœur des grands s’attacher à toit puisse ton âme être pleine de modestie et de tendresse !»
 
 Rustem se prosterna et baisa le trône ; puis il se prépara pour le départ et fit charger ses bagages.
 
