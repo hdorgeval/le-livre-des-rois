@@ -13,9 +13,11 @@ order: '098'
 
 # Siawusch bâtit Siawuschguird
 
-Une nuit, arriva courant comme une flamme, un messager d’Afrasiab monté sur un dromadaire : il apportait à Siawusch une lettre affectueuse, étoilée d’or comme le brillant firmament et dans laquelle le roi lui disait.-Depuis que tu es parti, j’ai perdu ma gaieté et les chagrins ne me quittent plus.
+Une nuit, arriva courant comme une flamme, un messager d’Afrasiab monté sur un dromadaire :
 
-Néan-
+> il apportait à Siawusch une lettre affectueuse, étoilée d’or comme le brillant firmament et dans laquelle le roi lui disait.-Depuis que tu es parti, j’ai perdu ma gaieté et les chagrins ne me quittent plus.
+>
+> Néan-
 R moins j’ai cherché pour toi une résidence convenable dans le Touran et quoique le lieu où tu es allé soit beau et charmant et que ton âme soit à l’abri de tout souci, je te prie de te rendre maintenant dans le pays que je t’ai donné et de jeter dans la poussière la tête de nos ennemis.»
 
 Siawusch fit ses préparatifs et se dirigea en toute hâte du côté où le roi lui ordonnait d’aller.
@@ -23,7 +25,7 @@ Siawusch fit ses préparatifs et se dirigea en toute hâte du côté où le roi 
 On chargea de bagages précieux mille chameaux femelles au poil roux ; on chargea cent mules de pièces d’argent et quarante autres de pièces d’or.
 
 Dix mille ca-
-Il. 20 valiers iraniens et touraniens, choisis et prêts à frapper de l’épée, les escortaient et ce cortège était pré-I cédé par les trésors du roi et par les litières qui renfermaient de belles femmes parées.
+Il. valiers iraniens et touraniens, choisis et prêts à frapper de l’épée, les escortaient et ce cortège était pré-I cédé par les trésors du roi et par les litières qui renfermaient de belles femmes parées.
 
 Siawusch emmena avec lui trente charges de chameau de rubis, de turquoises dignes d’un roi, de colliers, de couronnes incrustées de pierreries, d’ambre, de bois de sandal, de musc et d’autres parfums, enfin de brocarts et de trônes couverts de soie tirée de l’Egypte, de la Perse et de la Chine.
 
