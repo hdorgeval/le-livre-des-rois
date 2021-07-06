@@ -39,7 +39,7 @@ La montagne résonnait des voix des braves, la terre tremblait sous les pieds de
 
 Les armées se mirent en ordre des deux côtés et tous ces braves ne désiraient que le combat et la vengeance.
 
-Gou- razeh rangea l’aile droite, c’est là que l’armée déposa les bagages ; à l’aile gauche fut placé chareh le lien ’ renommé, le dragon courageux ; au centre était le fils de Destan fils de Sam, ayant son lacet roulé autour du bouton de la selle.
+Gourazeh rangea l’aile droite, c’est là que l’armée déposa les bagages ; à l’aile gauche fut placé chareh le lien ’ renommé, le dragon courageux ; au centre était le fils de Destan fils de Sam, ayant son lacet roulé autour du bouton de la selle.
 
 Alors Rustem ordonna aux trompettes de sonner et l’armée s’ébranla ; on vit briller les épées et les javelots et l’on aurait dit que l’air avait semé des tulipes sur la terre.
 
@@ -47,17 +47,15 @@ Partout ’ où Rustem poussait Raksch, c’était comme une flamme qui s’éla
 
 De tous côtés roulaient des têtes couvertes de leurs casques et les plaines et les ravins étaient jonchés de cottes de mailles.
 
-Rustem poussa Raksch, et épargnant le sang de la multitude ignoble, il courut après le roi de l’Occident, fit voler de sa main son lacet roulé et lui jeta le nœud autour du corps ; en aurait dit qu’il faisait entrer la corde dans le flanc du roi.
+Rustem poussa Raksch et épargnant le sang de la multitude ignoble, il courut après le roi de l’Occident, fit voler de sa main son lacet roulé et lui jeta le nœud autour du corps ; en aurait dit qu’il faisait entrer la corde dans le flanc du roi.
 
-Il l’enleva de selle comme une balle que frappe la raquette, il le jeta par terre. et Bahram lui lia les mains ; soixante des grands de son royaume furent faits prisonniers avec lui.
+Il l’enleva de selle comme une balle que frappe la raquette, il le jeta par terre et Bahram lui lia les mains ; soixante des grands de son royaume furent faits prisonniers avec lui.
 
 La plaine et la montagne étaient inondées de sang, tant on avait renversé et tué d’hommes de ces trois armées.
 
 Le roi du Berberistan, avec quarante de ses capitaines, fut pris par Gourazeh le sanglier.
 
-Le roi du Hamaveran vit le champ de bataille rempli de morts 
-2h
-d’un bout à l’autre ; il vit une foule de nobles blessés et d’autres enchaînés avec de lourdes chaînes ; il vit Rustem, avec son épée tranchante, jetant la terreur parmi les combattants ; alors il comprit que ce jour était un jour de malheur et envoya auprès de Rustem demander grâce.
+Le roi du Hamaveran vit le champ de bataille rempli de morts 2h d’un bout à l’autre ; il vit une foule de nobles blessés et d’autres enchaînés avec de lourdes chaînes ; il vit Rustem, avec son épée tranchante, jetant la terreur parmi les combattants ; alors il comprit que ce jour était un jour de malheur et envoya auprès de Rustem demander grâce.
 
 Il promit de lui amener du Hamaveran Kaous et les grands de l’empire, ses tentes, ses trésors, sa couronne, ses joyaux, ses esclaves, son trône et sa ceinture d’or.
 
@@ -69,7 +67,7 @@ Rustem ayant fait sortir de la forteresse Kaous, Guiv, Gouderz et Thous, déposa
 
 Kaous, qui brillait comme le soleil, fit préparer une couche d’or avec des brocarts de Roum. une couronne de rubis et un trône de turquoises ; il fit broder de pierres fines une housse noire et la fit mettre sur une haquenée qui allaitl’amble, dont la tête était ornée de rênes dorées, dent la selle était haute, faite de bois frais d’aleès et incrustée de toute espèce de pierreries.
 
-Ensuite il dit à Soudabeh :
+Ensuite, il dit à Soudabeh :
 
 > Monte sur cette haquenée et pars voilée comme le x soleil quand il marche alu-dessous de la terre.»
 
