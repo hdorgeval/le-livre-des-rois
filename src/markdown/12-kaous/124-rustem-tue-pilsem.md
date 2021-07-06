@@ -26,10 +26,12 @@ Son cœur
 L’âme d’Afrasiab fut réjouie de ces paroles, il éleva la pointe de sa lance au-dessus du soleil et répondit :
 
 > Ô glorieux lion !
+>
+> Puisse cet éléphant ne pas te vaincre !
+>
+> Si tu réussis à t’emparer de Rustem, tu délivreras le monde d’une grande tyrannie ; ton nom et ton sceau, ton épée et ta massue seront tout-puissants dans le Touran ; tu élèveras ma tête jusqu’au ciel qui tourne et je te donnerai ma fille et mon diadème ; deux tiers de l’Iran et du Touran seront à toi ; les joyaux, les trésors et les villes de ces pays t’appartiendront.»
 
-Puisse cet éléphant ne pas te vaincre !
-
-Si tu réussis à t’emparer de Rustem, tu délivreras le monde d’une grande tyrannie ; ton nom et ton sceau, ton épée et ta massue seront tout-puissants dans le Touran ; tu élèveras ma tête jusqu’au ciel qui tourne et je te donnerai ma fille et mon diadème ; deux tiers de l’Iran et du Touran seront à toi ; les joyaux, les trésors et les villes de ces pays t’appartiendront. a Piran fut affligé de ces discours.
+Piran fut affligé de ces discours.
 
 Il s’approcha du roi sur qui veillait la fortune et lui dit :
 
@@ -37,7 +39,7 @@ Il s’approcha du roi sur qui veillait la fortune et lui dit :
 >
 > S’il attaque Rustem, sa tête roulera dans la poussière.
 >
-> A mon avis, il ne peut qu’y perdre sa renommée ; il tranchera le cours de la destinée qui l’attend ; cette entreprise couvrira le roi de honte, et l’armée n’aura plus le courage de combattre.
+> A mon avis, il ne peut qu’y perdre sa renommée ; il tranchera le cours de la destinée qui l’attend ; cette entreprise couvrira le roi de honte et l’armée n’aura plus le courage de combattre.
 >
 > Tu sais avec combien de tendresse un frère aîné veille sur un frère plus jeune que lui.»
 
@@ -45,11 +47,13 @@ Pilsem répondit à Piran :
 
 > Je ne crains pas ce Pehlewan et si je combats ce vaillant crocodile, j’espère, grâce à ta bonne étoile, ne pas être une source de honte pour le roi.
 >
-> Tu m’as vu combattre et vaincre en taprésence quatre héros illustres ; depuis ce temps mes forces doivent s’être accrues et tu fais mal de vouloir m’ôter le courage. l’accom- plirai cette entreprise ; ne réveille donc pas une mau-vaise étoiler Lorsque le roi eutentendu ces paroles, il lui donna un cheval de bataille, une épée, une lourde massue, une cuirasse, un casque et une armure de cheval.
+> Tu m’as vu combattre et vaincre en taprésence quatre héros illustres ; depuis ce temps mes forces doivent s’être accrues et tu fais mal de vouloir m’ôter le courage. l’accomplirai cette entreprise ; ne réveille donc pas une mau-vaise étoiler Lorsque le roi eutentendu ces paroles, il lui donna un cheval de bataille, une épée, une lourde massue, une cuirasse, un casque et une armure de cheval.
 >
 > Pilsem s’arma pour le combat et s’élança bravement comme un lion plein de fierté.
 >
-> Il cria aux Iraniens : Où est Rustem, que l’on dit être un dragon au jour de la bataille ?
+> Il cria aux Iraniens :
+
+> Où est Rustem, que l’on dit être un dragon au jour de la bataille ?
 >
 > Dites-lui que je le cherche pour qu’il vienne me combattre, car j’ai envie de me mesurer avec lui.»
 
@@ -74,24 +78,28 @@ Il se dit :
 Il avait d’ailleurs entendu, pendant qu’il traversait le monde en tous sens, les prédictions heureuses et malheureuses qui se rapportaient au pays de Touran et que lui avaient faites de vieux Mobeds, des astrologues et des sages et il se dit :
 
 > Si Pilsem peut échapper aux dangers qui le menacent et acquérir de l’expérience, il est destiné à devenir un héros tel, que personne, ni dans l’Iran, ni dans le Touran, ni dans le monde entier, ne lui serait comparable.
+>
+> Mais je pense que son heure est venue, puisquïl s’élance avec cette fureur pour me combattre.»
 
-Mais je pense que son heure est venue, puisquïl s’élance avec cette fureur pour me combattre. n Il dit à son armée :
+Il dit à son armée :
 
 > Qu’aucun de vous ne porte le pied en avant pour quitter sa place ; je vais mettre Pilsem à l’épreuve ; je vais voir qui de nous deux est le plus fort.»
 
 Il saisit une forte lance, se raffermit sur la selle, mit son casque, appuya sur les étriers, mania légèrement les rênes et éleva la pointe brillante de sa lance à la hauteur de son œil.
 
-Il était en colère et ses lèvres se couvraient d’écume ; il courut du centre de son armée jusqu’aux lignes des Turcs et s’écria : Ô illustre Pilsem !
+Il était en colère et ses lèvres se couvraient d’écume ; il courut du centre de son armée jusqu’aux lignes des Turcs et s’écria :
 
-Tu me cherches pour me brûler avec ton haleine.
-
-Tu vas éprouver maintenant les coups du vaillant crocodile et c’est la dernière fois que tu guideras ton cheval dans la mê- Iée.
-
-Mon cœur brûle de pitié pour ta jeunesse.
-
-Hélas !
-
-Faut-il qu’un Pehlewan comme toi périsse!»
+> Ô illustre Pilsem !
+>
+> Tu me cherches pour me brûler avec ton haleine.
+>
+> Tu vas éprouver maintenant les coups du vaillant crocodile et c’est la dernière fois que tu guideras ton cheval dans la mê-Iée.
+>
+> Mon cœur brûle de pitié pour ta jeunesse.
+>
+> Hélas !
+>
+> Faut-il qu’un Pehlewan comme toi périsse !»
 
 Il dit et lança son cheval ; il courut au combat comme la sphère du ciel qui tourne ; il frappa Pilsem à la ceinture et l’enleva de selle comme une balle que frappe la raquette ; ensuite il s’élança jusqu’au centre de l’armée des Touraniens et le jeta au milieu d’eux comme une chose vile, disant :
 
