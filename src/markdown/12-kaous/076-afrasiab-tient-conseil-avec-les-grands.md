@@ -19,7 +19,7 @@ Le roi tint une assemblée de sages et de Mobeds intelligents et prudents ; il l
 
 > Toute ma vie je n’ai vu sortir de la guerre que du mal ; grand est le nombre des hommes illustres parmi les Iraniens qui sont morts de ma main dans le combat, nombreuses sont les villes qui sont devenues des hôpitaux, nombreux les jardins de roses qui se sont couverts d’épines, nombreux les parcs où j’ai livré bataille et partout on voit les traces de mes armées.
 >
-> Quand le roi du monde se livre à l’injustice, tout ce qui est beau 2H disparaît ; l’onagre ne met plus bas dans le désert en temps propice et les petits des faucons de--r viennent aveugles ; les mamelles des bêtes fauves ne donnent plus de lait et l’eau devient noire dans les sources ; les puits se sèchent dans le monde entier, et la bourse du musc perd son parfum ; la justice s’enfuit devant la tyrannie et le mensonge paraît de tous côtés.
+> Quand le roi du monde se livre à l’injustice, tout ce qui est beau 2H disparaît ; l’onagre ne met plus bas dans le désert en temps propice et les petits des faucons de--r viennent aveugles ; les mamelles des bêtes fauves ne donnent plus de lait et l’eau devient noire dans les sources ; les puits se sèchent dans le monde entier et la bourse du musc perd son parfum ; la justice s’enfuit devant la tyrannie et le mensonge paraît de tous côtés.
 >
 > Mon cœur est fatigué des combats et du mal et je veux chercher la voie de Dieu.
 >
@@ -35,7 +35,7 @@ Les grands, l’un après l’autre, lui répondirent, ils votèrent tous pour l
 
 > Tu es le roi et nous sommes des esclaves, notre cœur ne demande que ce que tu ordonnes.»
 
-Ils partirent tous, la tête remplie du désir de la justice, et aucun ne pensait aux peines et aux travaux de la guerre.
+Ils partirent tous, la tête remplie du désir de la justice et aucun ne pensait aux peines et aux travaux de la guerre.
 
 Le roi regarda alors Guersiwez et lui dit :
 
@@ -57,8 +57,8 @@ pare-toi à agir et mets-toi en route ; prépare-toien toute hâte, ne t’arrê
 >
 > Divisons le monde comme il fut divisé du temps d ?
 >
-> K El nous. me Feridoun le héros, qui’l’a partagé entre ses fils courageux ; revenons à ce qui fut fait alors et re- nonçons aux combats et aux vengeances.
+> K El nous. me Feridoun le héros, qui’l’a partagé entre ses fils courageux ; revenons à ce qui fut fait alors et renonçons aux combats et aux vengeances.
 >
 > Tu es un roi, répète mes paroles au roi de l’Iran pour attendrir son cœur avide de guerre.
 >
-> Ensuite, ô Guersiwez, tu parleras dans le même sens à Rustem au corps d’éléphant, tu lui diras beaucoup de paroles amicales et pour que cette allaire se conclue, tu lui porteras des présents semblables à ceux que tu auras donnés à Siawusch, à l’exception du trône d’or, car il n’est pas roi et un Pehlewan ne serait pas à sa place sur un trône.»
+> Ensuite, ô Guersiwez, tu parleras dans le même sens à Rustem au corps d’éléphant, tu lui diras beaucoup de paroles amicales et pour que cette affaire se conclue, tu lui porteras des présents semblables à ceux que tu auras donnés à Siawusch, à l’exception du trône d’or, car il n’est pas roi et un Pehlewan ne serait pas à sa place sur un trône.»
