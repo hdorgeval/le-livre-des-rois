@@ -31,7 +31,7 @@ Elle lui dit :
 >
 > Ne tranche pas une tête couronnée et innocente, car le maître du soleil et de la lune ne t’approuverait pas.
 >
-> Siawusch a renoncé au pays d’Iran, il t’a rendu hommage entre tous les rois de la terre, il a mis en courroux son père à cause de toi, il a renoncé au diadème. aux trésors et au trône impérial ; il est venu ici te demandant secours et asile et qu’a-t-il fait qui te porte à dévier du droit chemin ?
+> Siawusch a renoncé au pays d’Iran, il t’a rendu hommage entre tous les rois de la terre, il a mis en courroux son père à cause de toi, il a renoncé au diadème aux trésors et au trône impérial ; il est venu ici te demandant secours et asile et qu’a-t-il fait qui te porte à dévier du droit chemin ?
 >
 > Personne ne peut trancher la tête à un roi et conserver longtemps son propre trône et sa tr couronne.
 >
@@ -50,35 +50,37 @@ Elle lui dit :
 > Tu n’es pas à une chasse où tu tuerais les onagres, où tu abattrais des antilopes ; c’est un roi que tu arraches de son trône et le soleil et la lune te maudiront.
 >
 > Ne livre pas au vent par la folie le pays de Touran.
-,Puisses-tu ne jamais avoir à te rappeler mes conseils!»
+,Puisses-tu ne jamais avoir à te rappeler mes conseils !»
 
-Pendant qu’elle’prononçait ces mots, elle aperçut Siawusch et s’écria en se déchirant les joues et en poussant des cris : Ô roi !
+Pendant qu’elle’prononçait ces mots, elle aperçut Siawusch et s’écria en se déchirant les joues et en poussant des cris :
 
-Pourquoi as-tu quitté l’Iran ?
-
-Pourquoi as-tu reconnu mon père pour ton roi ?
-
-Ils t’ont lié les mains, ils t’ont traîné à pied, et où sont ta couronne et le trône des braves ?
-
-Où sont ces promesses et ces serments du roi qui ont fait trembler le ciel et la lune qui tourne ?
-
-Où sont le roi Kaous et ses héros, pour qu’ils te voient dans ce ce moment et dans cet état ?
-
-Où sont Guiv et Thous, ou sont Rustem et Faramourz, Zal et toute la cour de l’Iran ?
-
-Le pays d’Iran connaîtra ce crime et le trône impérial en tremblera.
-
-C’est Guersiwez qui t’a fait du mal : qu’il soit maudit, lui, Demour et Gueroui ; et que quiconque lève la main contre toi ait la tête tranchée et jetée dans la poussière.
-
-Puisse Dieu adoucir tes peines !
-
-Puisse-t-il frapper de terreur le cœur de les ennemis !
-
-0h !
-
-Que mes yeux ne sont-ils privés de la vue plutôt que de te voir traîné sur la route !
-
-Comment me serais-je attendue que mon père arracherait de mes bras le soleil qu’il m’avait donné pour épouse?»
+> Ô roi !
+>
+> Pourquoi as-tu quitté l’Iran ?
+>
+> Pourquoi as-tu reconnu mon père pour ton roi ?
+>
+> Ils t’ont lié les mains, ils t’ont traîné à pied et où sont ta couronne et le trône des braves ?
+>
+> Où sont ces promesses et ces serments du roi qui ont fait trembler le ciel et la lune qui tourne ?
+>
+> Où sont le roi Kaous et ses héros, pour qu’ils te voient dans ce ce moment et dans cet état ?
+>
+> Où sont Guiv et Thous, ou sont Rustem et Faramourz, Zal et toute la cour de l’Iran ?
+>
+> Le pays d’Iran connaîtra ce crime et le trône impérial en tremblera.
+>
+> C’est Guersiwez qui t’a fait du mal : qu’il soit maudit, lui, Demour et Gueroui ; et que quiconque lève la main contre toi ait la tête tranchée et jetée dans la poussière.
+>
+> Puisse Dieu adoucir tes peines !
+>
+> Puisse-t-il frapper de terreur le cœur de les ennemis !
+>
+> 0h !
+>
+> Que mes yeux ne sont-ils privés de la vue plutôt que de te voir traîné sur la route !
+>
+> Comment me serais-je attendue que mon père arracherait de mes bras le soleil qu’il m’avait donné pour épouse?»
 
 Quand le roi entendit ces paroles de sa fille, le monde s’obscurcit devant ses yeux ; il lui dit :
 
