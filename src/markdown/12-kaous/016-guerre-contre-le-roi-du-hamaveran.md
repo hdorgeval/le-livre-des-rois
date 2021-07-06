@@ -64,13 +64,11 @@ se détournant de Kaous, s’éloigne avec dédain de la porte de la soumission.
 
 Lorsque le roi du monde apprit qu’il avait un rival prétendant au pouvoir impérial, il fit battre les timbales et sortit du Nimrouz ; le roi qui illuminait le monde eut le cœur en joie ; les braves écrivirent son nom sur leurs boucliers et les épées s’agitèrent dans les fourreaux.
 
-Il 
-à
-conduisit son armée de la plaine à la mer, du côté où ses ennemis avaient paru ; il prépara des vaisseaux sans nombre et se hâta d’embarquer ses troupes sur la mer.
+Il à conduisit son armée de la plaine à la mer, du côté où ses ennemis avaient paru ; il prépara des vaisseaux sans nombre et se hâta d’embarquer ses troupes sur la mer.
 
 Il traversa un espace qui ferait. mille farsangs si on le mesurait ; il avança jusqu’à ce qu’il se trouvât au milieu de trois pays, cherchant ainsi sa fortune dans le monde.
 
-A sa gauche était l’Égypte, à sa droite le pays de Berber et au milieu, du côté vers lequel il se dirigeait, la mer de Zereh, de sorte qu’il avait en face le pays de Hamaveran.
+À sa gauche était l’Égypte, à sa droite le pays de Berber et au milieu, du côté vers lequel il se dirigeait, la mer de Zereh, de sorte qu’il avait en face le pays de Hamaveran.
 
 Dans chacun de ces pays se trouvait une armée puissante ; et les ayant appris que le roi Kaous arrivait avec ses troupes par la mer de Zereh, se concertèrent ensemble et envoyèrent leurs braves du côté du Berber.
 
@@ -78,7 +76,7 @@ C’est ainsi qu’une armée de héros se formait dans le Berberistan ; elle é
 
 Les lions ne trouvaient plus de lieu de repos et les éléphants ne trouvaient plus dechemin dans le désert.
 
-Le léopard du haut de son rocher, le poisson dans la mer et l’aigle qui volait dans l’air cherchaient tous un chemin ; mais comment y aurait-il eu dans ces lieux un chemin pour les bêtes sauvages ? . . à Quand Kaous eut abordé avec son armée sur la terre ferme, personne au monde ne vit plus ni montagne ni plaine.
+Le léopard du haut de son rocher, le poisson dans la mer et l’aigle qui volait dans l’air cherchaient tous un chemin ; mais comment y aurait-il eu dans ces lieux un chemin pour les bêtes sauvages ? à Quand Kaous eut abordé avec son armée sur la terre ferme, personne au monde ne vit plus ni montagne ni plaine.
 
 Tu aurais dit que la terre était composée d’armures et de cuirasses et que les étoiles
 
@@ -92,7 +90,9 @@ Le son des trompettes fendait les rochers, le sol pliait sousles pieds des cheva
 
 Les clairons et les timbales retentissaient dans l’armée de l’Iran ; Bahram, Gourguin et Thous sortirent des rangs ; et du côté où se tenaient Gouderz fils de Keschwad, Guiv, Schidousch et Ferhad’, ,leslguem’ers jetèrent les rênes sur la crinière des chevaux, ettrempèrent dans le fiel lap’ointe de leurs lances.
 
-Ilsbaissèrent la tête sur le bouton des selles;r.o’n entendit des cris et les haches d’armes lendirentle : armures,-tu aurais dit qu’elles brisaient des rochers et du fer, ou qu’on abattait le ciel sur la terre.
+Ilsbaissèrent la tête sur le bouton des selles;r.o’n entendit des cris et les haches d’armes lendirentle :
+
+> armures,-tu aurais dit qu’elles brisaient des rochers et du fer, ou qu’on abattait le ciel sur la terre.
 
 Kaous sortit du centre de son armée ; les deux partis s’approchèrent l’un de l’autre et le combat "fut tel que les yeux des braves s’obscurcissaient et qu’il pleuvait du cinabre sur la terre noire ; tu aurais ditnquerl’air faisait tomber de la rosée et qu’il semait des tulipes sur les rochers.
 
@@ -118,4 +118,4 @@ Il apporta des émeraudes, de l’or et des joyaux, en disant :
 >
 > Puisses-tu être toujours heureux et victorieux !
 >
-> Puissent la tête et la fortune de tes ennemis rester abaissées] v Il dit et baisa la terre, puis il se rendit chez le Sipehdar Thous et étala devantlui beaucoup d’or et de pierreries qu’il distribua entre tous les braves, grands et petits.
+> Puissent la tête et la fortune de tes ennemis rester abaissées] Il dit et baisa la terre, puis il se rendit chez le Sipehdar Thous et étala devantlui beaucoup d’or et de pierreries qu’il distribua entre tous les braves, grands et petits.
