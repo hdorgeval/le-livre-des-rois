@@ -56,13 +56,13 @@ Il m’a dit :
 >
 > Aussitôt qu’il sera assez fort pour combattre, il saisira de sa griffe la tête de son père nourricier.
 >
-> Ensuite de vieux Mobeds et des astrologues qui connaissent leur art, ayant consulté selon les règles leur astrolabe, m’ont tous annoncé la même chose de point en point et m’ont prédit, en présence de mon père, des choses étonnantes de mon petit-fils ; ils m’ont dit que ma cou- ronne, mon trésor, mon armée, mon pays et mon trône seront détruits par lui, que je ne pourrai pas trouver un asile dans le monde pour lui échapper, qu’il prendra mes royaumes l’un après l’autre et qu’il m’accablera de malheurs.
+> Ensuite de vieux Mobeds et des astrologues qui connaissent leur art, ayant consulté selon les règles leur astrolabe, m’ont tous annoncé la même chose de point en point et m’ont prédit, en présence de mon père, des choses étonnantes de mon petit-fils ; ils m’ont dit que ma couronne, mon trésor, mon armée, mon pays et mon trône seront détruits par lui, que je ne pourrai pas trouver un asile dans le monde pour lui échapper, qu’il prendra mes royaumes l’un après l’autre et qu’il m’accablera de malheurs.
 >
 > Je crois maintenant aux prédictions de ce Mobed sur les desseins secrets du ciel qui tourne.
 >
 > Ce couple aurait pour fils un roi qui s’emparerait du monde, qui dévasterait entièrement le pays de Touran et qui commencerait par ceindre mon diadème.
 >
-> Pourquoi donc me faudrait-il planter de mes propres mains un arbre dont le fruit serait du poison et la racine du venin?
+> Pourquoi donc me faudrait-il planter de mes propres mains un arbre dont le fruit serait du poison et la racine du venin ?
 >
 > La race de Kaous et celle d’Af’rasiab sont comme la flamme ardente méléeavec les vagues de la mer.
 >
