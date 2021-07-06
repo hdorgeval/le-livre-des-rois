@@ -7,7 +7,33 @@ source: tome I - livre des rois - P. 395
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Kaous part pour le Mazenderan | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'âme',
+    'Arzeng',
+    'Asprous',
+    'Chine',
+    'Div',
+    'Divs',
+    'Gouderz',
+    'Guiv',
+    'Iran',
+    'Iranien',
+    'Iraniens',
+    'Kaous',
+    'Keï',
+    'Mazenderan',
+    'Milad',
+    'Pehlewan',
+    'Pehlewans',
+    'Rithwan',
+    'Rustem',
+    'Sandjeb',
+    'Sipehbed',
+    'Thous',
+    'Zal',
+  ]
 order: '003'
 ---
 
