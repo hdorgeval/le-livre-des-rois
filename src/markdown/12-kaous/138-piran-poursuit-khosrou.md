@@ -15,13 +15,15 @@ order: '138'
 
 Piran choisit mille cavaliers tous braves et propres au combat et leur dit :
 
-> Il faut nous hâter de saisir les rênes de nos destriers, il faut suivre la trace de nos ennemis sans tarder un instant ; car si Guiv et Khosrou parviennent à atteindre l’Iran, les femmes de ce pays deviendront comme des lionnes, il ne nous restera ni terre, ni eau, le cœur d’Afrasiab en saignera et c’est à moi qu’il imputera cette fuite, et non pas à la rotation des étoiles, du soleil et de la lune. n Les Turcs, sur l’ordre de cet illustre Pehlewan, partirent semblables à un ouragan ; ils levèrent la tête lorsqu’ils entendirent ces paroles ; ils coururent jour et nuit sans s’arrêter, jusqu’à ce qu’ils arrivèrent a une rivière profonde.
+> Il faut nous hâter de saisir les rênes de nos destriers, il faut suivre la trace de nos ennemis sans tarder un instant ; car si Guiv et Khosrou parviennent à atteindre l’Iran, les femmes de ce pays deviendront comme des lionnes, il ne nous restera ni terre, ni eau, le cœur d’Afrasiab en saignera et c’est à moi qu’il imputera cette fuite et non pas à la rotation des étoiles, du soleil et de la lune.»
+
+Les Turcs, sur l’ordre de cet illustre Pehlewan, partirent semblables à un ouragan ; ils levèrent la tête lorsqu’ils entendirent ces paroles ; ils coururent jour et nuit sans s’arrêter, jusqu’à ce qu’ils arrivèrent a une rivière profonde.
 
 L’armée était dispersée et en désordre ; la rivière était peu large, mais profonde et difficile à passer.
 
 Le fleuve se nommait Gulzarrioun et au printemps il ressemblait à une mer de sang.
 
-Sur l’autre rive se trouvaient Guiv et le roi, qui dormaient tandis que F erenguis assise faisait la garde ; en regardant attentivement elle aperçut l’étendard du Sipehbed du Touran et courut à Guiv pour l’avertir ; elle réveilla les dans : héros endormis et dit à Guiv :
+Sur l’autre rive se trouvaient Guiv et le roi, qui dormaient tandis que Ferenguis assise faisait la garde ; en regardant attentivement elle aperçut l’étendard du Sipehbed du Touran et courut à Guiv pour l’avertir ; elle réveilla les dans : héros endormis et dit à Guiv :
 
 > Lève-toi, quelle que soit ta fatigue, car voici pour toi un jour de combats.
 >
@@ -44,7 +46,7 @@ Guiv lui répondit :
 >
 > Par la force que Dieu le créateur de l’âme m’a donnée, je montrerai, assis sur ma selle élevée, que je connais mon devoir de cavalier.»
 
-Keî Khosrou lui répondit :
+Keï Khosrou lui répondit :
 
 > Ô toi qui es toujours prêt à combattre !
 >
