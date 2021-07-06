@@ -13,7 +13,9 @@ order: '057'
 
 # Histoire de la mère de Siawusch
 
-Voici ce que dit le Mobed : Un jour Thous, à l’heure où chante le coq, partit joyeusement de la cour du roi, accompagné de Guiv, de Gouderz et de quelques autres cavaliers.
+Voici ce que dit le Mobed :
+
+> Un jour Thous, à l’heure où chante le coq, partit joyeusement de la cour du roi, accompagné de Guiv, de Gouderz et de quelques autres cavaliers.
 
 Ils voulaient chasser l’onagre dans la forêt de Daghoui, avec des faucons et des guépards avides de proie.
 
@@ -29,8 +31,7 @@ Ils y trouvèrent une femme aux belles joues et tous les deux coururent vers ell
 
 Il n’y avait dans le monde aucune femme comme elle et sa beauté était telle qu’on ne pouvait y trouver un défaut.
 
-Elle ressemblait par la taille à un cyprès et par son aspect à une lune ; on n’osait jeter un regard sur elle. me
-Thous lui dit :
+Elle ressemblait par la taille à un cyprès et par son aspect à une lune ; on n’osait jeter un regard sur elle. me Thous lui dit :
 
 > Ô lune enchanteresse, pourquoi es-tu venue dans cette forêt?»
 
@@ -40,7 +41,7 @@ Elle répondit :
 
 Le héros lui demanda son origine et peu à peu elle lui raconta tout depuis le commencement jusqu’à la fin, disant :
 
-> Je suis de la famille de Guersiwez, et ma race tire son origine du roi Feridoun. -Comment, lui dit Thous, es-tu venue ici à pied ?
+> Je suis de la famille de Guersiwez et ma race tire son origine du roi Feridoun. -Comment, lui dit Thous, es-tu venue ici à pied ?
 >
 > Car tu es sans monture et sans guide.»
 
@@ -48,17 +49,21 @@ Elle lui répondit :
 
 > Mon cheval est resté en route ; il était si fatigué qu’il est tombé sous moi.
 >
-> J’ai de l’or et des joyaux sans nombre ; j’ai une couronne d’or que je portais sur la tête, mais mes gardes me l’ont prise, et m’ont frappée avec le fourreau d’une épée. le me suis enfuie de devant eux tout effrayée ; et maintenant je me trouve dans cette forêt versant des larmes de sang.
+> J’ai de l’or et des joyaux sans nombre ; j’ai une couronne d’or que je portais sur la tête, mais mes gardes me l’ont prise et m’ont frappée avec le fourreau d’une épée. le me suis enfuie de devant eux tout effrayée ; et maintenant je me trouve dans cette forêt versant des larmes de sang.
 >
 > Lorsque mon père sera revenu à lui, il enverra sans doute des cavaliers après moi en toute hâte et ma mère accourra et ne voudra pas que je quitte ce pays. »
 
 Le cœur des Pehlewans s’adoucit pour elle et la tête de Thous, fils de Newder, se remplit de tendresse.
 
-Le prince, fils de Newder, dit : C’est moi qui l’ai trouvée, c’est pour elle que je me suis lant
+Le prince, fils de Newder, dit :
+
+> C’est moi qui l’ai trouvée, c’est pour elle que je me suis lant
 
 KE’I’ nous. hâtém Guiv lui répondit :
 
-> Ô Sipehdar du roi, tu a n’es pas mon égal quand tu es séparé de ton armée. n Thous continua à lui disputer cette femme, en disant :
+> Ô Sipehdar du roi, tu a n’es pas mon égal quand tu es séparé de ton armée.»
+
+Thous continua à lui disputer cette femme, en disant :
 
 > Elle est venue ici au-devant de mon cheval.»
 
@@ -78,9 +83,13 @@ Quand Kaous vit le visage de la jeune fille, il sourit en se mordant les lèvres
 
 > Vous n’avez pas été longtemps en route.
 >
-> Vous n’amenez qu’une gazelle gracieuse, et pourtant c’est un gibier de grande chasse, un gibier qui n’appartient qu’au roi.
+> Vous n’amenez qu’une gazelle gracieuse et pourtant c’est un gibier de grande chasse, un gibier qui n’appartient qu’au roi.
 >
-> Nous passerons la journée à entendre comment les héros ont pris un soleil à l’aide des guépardsm Ensuite le roi demanda àla jeune fille : Quelle est ta naissance, ô toi dont le visage est le visage d’une Péri ?»
+> Nous passerons la journée à entendre comment les héros ont pris un soleil à l’aide des guépards.»
+
+Ensuite le roi demanda àla jeune fille :
+
+> Quelle est ta naissance, ô toi dont le visage est le visage d’une Péri ?»
 
 Elle répondit :
 
