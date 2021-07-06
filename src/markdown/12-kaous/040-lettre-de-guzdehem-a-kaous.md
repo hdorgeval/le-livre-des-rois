@@ -13,7 +13,7 @@ order: '040'
 
 # Lettre de Guzdehem à Kaous
 
-Aussitôt que Sohrab fut parti, le vieux Guzdehem appela un scribe et l’ayant fait asseoir, il lui fit l écrire une lettre au roi qu’il expédia par un messager agile et dans laquelle il commençait par appeler sur le roi les grâces de Dieu ; ensuite il lui exposait ce que le sort avait amené, en disant :
+Aussitôt que Sohrab fut parti, le vieux Guzdehem appela un scribe et l’ayant fait asseoir, il lui fit ! écrire une lettre au roi qu’il expédia par un messager agile et dans laquelle il commençait par appeler sur le roi les grâces de Dieu ; ensuite il lui exposait ce que le sort avait amené, en disant :
 
 > Une armée nombreuse, toute composée d’hommes avides de combats et pleins de bravoure, est arrivée près de nous ayant à sa tête un Pehlewan qui n’a pas
 >
