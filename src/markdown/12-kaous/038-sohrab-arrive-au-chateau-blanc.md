@@ -51,6 +51,6 @@ Sohrab sauta de cheval, s’accroupit à côté de lui et allait lui séparer la
 
 Sohrab retira sa main, lui fit grâce de la vie et content de sa vic-toire, lui donna beaucoup de conseils.
 
-Ensuite il le lia avec des cordes et l’envoya auprès de Houman.
+Ensuite, il le lia avec des cordes et l’envoya auprès de Houman.
 
 Lorsqu’on sut dans le châtéau que Hedjir avait été pris et emmené captif . on entendit un grand bruit et des lamentations d’hommes et de femmes criant que Hedjir avait disparu au milieu des ennemis.
