@@ -21,7 +21,7 @@ Le roi de l’Iran dit à ce fourbe :
 
 > Aussitôt que le soleil dévoilera ses rayons, tu te rendras secrètement auprès de Siawusch et tu feras ce qu’il t’ordonnera.
 >
-> Tu diras à Soudabeh de préparer des présents et des joyaux, du musc et des parfums, et de faire verser sur Siawusch, par les esclaves et par ses sœurs, des émeraudes et du safran.»
+> Tu diras à Soudabeh de préparer des présents et des joyaux, du musc et des parfums et de faire verser sur Siawusch, par les esclaves et par ses sœurs, des émeraudes et du safran.»
 
 Aussitôt que le soleil montra sa face au-dessus des montagnes, Siawusch se rendit auprès du roi, appela sur lui les grâces de Dieu et le salua ; le roi lui parla en secret et quand il eut fini, il manda Hirbed, à qui il adressa quelques paroles convenables ; ensuite il dit à Siawusch . :
 
@@ -59,8 +59,7 @@ Toutes les femmes ne cessaient de parler de lui, disant :
 
 > Voilà donc les traits et la cou-
 >
-> 
-renne de ce prince avide de sagesse !
+> renne de ce prince avide de sagesse !
 >
 > Tu dirais qu’il ne ressemble pas à un homme et que son esprit répand de l’intelligence sur cette qui l’approchent.»
 
@@ -82,7 +81,7 @@ Lorsque le jour devint sombre et que la nuit parut, le roi glorieux se rendit da
 >
 > En es-tu contente ?
 >
-> Estce un homme de sens ?
+> Est-ce un homme de sens ?
 >
 > Sa vue vaut-elle mieux que ce que tu en as entendu dire de loin?»
 
@@ -110,7 +109,7 @@ Le roi lui dit :
 
 > Je désire la même chose et mon pouvoir, mes projets et ma gloire l’exigent.»
 
-À l’aube du jour, Siawusch se rendit auprès de son père et invoqua les grâces de Dieu sur sa courenne et son trône.
+À l’aube du jour, Siawusch se rendit auprès de son père et invoqua les grâces de Dieu sur sa couronne et son trône.
 
 Le père voulut avoir un entretien secret avec son fils et éloigna tous les étrangers.
 
@@ -139,4 +138,4 @@ rent de ses soupçons secrets.
 
 Il offrit ses actions de grâces au roi du monde ; il prononça ses prières courbé devant le trône.
 
-Mais il avait encore peur des ruses de Soudabeh et son cœur était brisé ; car il sentait que ces paroles étaient inspirées par elle, et la peau de son corps se fendait quand il pensait à cette femme.
+Mais il avait encore peur des ruses de Soudabeh et son cœur était brisé ; car il sentait que ces paroles étaient inspirées par elle et la peau de son corps se fendait quand il pensait à cette femme.
