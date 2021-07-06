@@ -13,7 +13,7 @@ order: '011'
 
 # 7ème aventure -Rustem tue le Div blanc
 
-De là Rustem se mit en route, prêt à combattre, et la tête remplie de haine et d’ardeur. guerrière.
+De là Rustem se mit en route, prêt à combattre et la tête remplie de haine et d’ardeur. guerrière.
 
 Il prit Aulad avec lui et lança Raksch aussi rapidement que le vent.
 
@@ -55,7 +55,11 @@ Le blessé se rua sur lui comme un éléphant énorme, comme un lion en fureur ;
 
 Rustem dit en lui-même :
 
-> Si je sauve ma vie aujourd’hui, je vivrai éternellement. a Et le Div dit de même dans son cœur : Je désespère de ma douce vie ; et quand même je me délivrerais des griffes de ce dragon, après avoir perdu un pied .
+> Si je sauve ma vie aujourd’hui, je vivrai éternellement.»
+
+Et le Div dit de même dans son cœur :
+
+> Je désespère de ma douce vie ; et quand même je me délivrerais des griffes de ce dragon, après avoir perdu un pied .
 et ayant la peau déchirée, jamais ni les petits ni
 >
 > KEÏ nous.»
@@ -76,12 +80,11 @@ Rustem étant retourné auprès d’Aulad, le délivra de ses liens, suspendit s
 
 Aulad lui dit :
 
-> Ô lion courageux, tu as soumis le monde avec ton épée, mais mon corps porte les marques de tes liens ; je suis brisé par les nœuds de ton lacet, et quoique tu m’aies fait espérer une récompense, mon espoir a besoin d’être renouvelé.
+> Ô lion courageux, tu as soumis le monde avec ton épée, mais mon corps porte les marques de tes liens ; je suis brisé par les nœuds de ton lacet et quoique tu m’aies fait espérer une récompense, mon espoir a besoin d’être renouvelé.
 
 Il n’est pas digne de toi de manquer à ta parole ; car tu es un lion indomptable et tu as l’air d’un reins Rustem lui répondit :
 
-> Je te donnerai le pays du Mazenderan 
-E28 d’une frontière à l’autre ; mais j’ai encore devant moi une grande entreprise et de longs combats, dans lesquels je peux être vaincu ou victorieux.
+> Je te donnerai le pays du Mazenderan E d’une frontière à l’autre ; mais j’ai encore devant moi une grande entreprise et de longs combats, dans lesquels je peux être vaincu ou victorieux.
 >
 > Il faut que j’arrache de son trône le roi du Mazenderanret que je le précipite dans la tombe ; il faut qu’avec mon poignard je tranche la tête à des milliers de milliers de ces Divs adonnés à la magie.
 >
@@ -127,7 +130,6 @@ Lorsque la nuit noire approcha, les braves se reposèrent de leurs combats et le
 >
 > Il est né.
 >
-> 
-cessait-e qu’un homme prudent et grave, un homme qui sache quand il faut se hâter et quand il faut tarder, aille auprès du roi du Mazenderan pour réveiller sa prudence et faire entrer la crainte dans son esprit.»
+> cessaite qu’un homme prudent et grave, un homme qui sache quand il faut se hâter et quand il faut tarder, aille auprès du roi du Mazenderan pour réveiller sa prudence et faire entrer la crainte dans son esprit.»
 
 Le fils de Zal et les grands qui étaient avec lui furent satisfaits de ces paroles et Kaous envoya une lettre au roi du Mazenderan, pour éclairer son âme ténébreuse.
