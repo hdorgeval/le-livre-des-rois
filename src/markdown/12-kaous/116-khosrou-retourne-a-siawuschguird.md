@@ -13,19 +13,19 @@ order: '116'
 
 # Keï Khosrou retourne à Siawusch
 
-Le Sipehbed se hâta d’emmener Keî Khosrou hors de la présence du roi et s’achemina vers son palais ; le bonheur brillait dans ses yeux, il marchait fièrement, car il avait éloigné tout danger.
+Le Sipehbed se hâta d’emmener Keï Khosrou hors de la présence du roi et s’achemina vers son palais ; le bonheur brillait dans ses yeux, il marchait fièrement, car il avait éloigné tout danger.
 
 Il dit :
 
-> Par r : la grâce de Dieu le créateur, un nouvel arbre porte du fruit dans le monde.»
+> Par la grâce de Dieu le créateur, un nouvel arbre porte du fruit dans le monde.»
 
 Il ouvrit les portes de son ancien trésor et équipa le roi de tout ce qu’il lui fallait ; il lui donna du brocart, de l’or, des perles et des pierres fines, des chevaux, des armes, des casques et des ceintures, des trônes et des monceaux d’argent, des tapis et d’autres richesses.
 
-Il fit tout apporter sans délai devant Keî Khosrou et ajouta à ces dons ses bénédictions.
+Il fit tout apporter sans délai devant Keï Khosrou et ajouta à ces dons ses bénédictions.
 
-Ensuite il l’envoya, lui et sa mère, à la ville que le bon roi Siawusch avait bâtie ; ils partirent joyeusement pour cette ville, qui était, redevenue comme un hallier.
+Ensuite, il l’envoya, lui et sa mère, à la ville que le bon roi Siawusch avait bâtie ; ils partirent joyeusement pour cette ville, qui était, redevenue comme un hallier.
 
-Ferenguis et Keî Khosrou y arrivèrent et de tous côtés accourut la foule des hommes, ils se prosternè-
+Ferenguis et Keï Khosrou y arrivèrent et de tous côtés accourut la foule des hommes, ils se prosternè-
 rent et touchèrent la terre de leurs yeux et dans toute la ville on entendit des voix qui les bénissaient, disant :
 
 > Le noble arbre qu’on avait coupé a repoussé de sa racine un vigoureux rejeton.
@@ -54,5 +54,4 @@ rent et touchèrent la terre de leurs yeux et dans toute la ville on entendit de
 >
 > Le monde t’offre beaucoup de plaisirs, quoiqu’il n’accorde son amourà personne ; il élève la tête d’un homme jusqu’à la lune et demain il le jette dans une fosse.
 >
-> Telle est la manière d’agir du sublime firmament ; il exalte tantôt l’un, tantôt l’autre. 
- 3&5 J’ai achevé le récit de la mort de Siawusch ; je vais raconter maintenant de quelle manière elle fut vengée et comment Keî Khosrou fut emmené du pays de Touran.
+> Telle est la manière d’agir du sublime firmament ; il exalte tantôt l’un, tantôt l’autre. 3&5 J’ai achevé le récit de la mort de Siawusch ; je vais raconter maintenant de quelle manière elle fut vengée et comment Keï Khosrou fut emmené du pays de Touran.
