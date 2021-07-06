@@ -17,14 +17,15 @@ Après cela il se prépara au départ ; il était stupéfié de sa mauvaise fort
 
 Il monta sur un cheval frais ; ses joues étaient rougies par ses larmes de sang comme la fleur de la coloquinte.
 
-Il ordonna aux u. 31
-Iraniens de prendre la route qui conduisait dans l’lran ; mais lorsqu’il eut parcouru un farsang et demi de chemin, il rencontra le roi du Touran.
+Il ordonna aux u.
 
-Il vit des troupes armées d’épées, de massues et de cuirasses. et lui-même avait boutonné sa cotte de mailles.
+Iraniens de prendre la route qui conduisait dans l’Iran ; mais lorsqu’il eut parcouru un farsang et demi de chemin, il rencontra le roi du Touran.
+
+Il vit des troupes armées d’épées, de massues et de cuirasses et lui-même avait boutonné sa cotte de mailles.
 
 Il dit en lui-même :
 
-> Guersiwez cette fois a dit la vérité, et il ne faut pas nier sa droiture en ce poian Siawusch tremblait pour sa vie, mais il ne voulut pas se cacher ; il resta donc jusqu’à ce que l’armée du Touran s’approchât et s’arrêtât devant lui.
+> Guersiwez cette fois a dit la vérité et il ne faut pas nier sa droiture en ce poian Siawusch tremblait pour sa vie, mais il ne voulut pas se cacher ; il resta donc jusqu’à ce que l’armée du Touran s’approchât et s’arrêtât devant lui.
 >
 > Il se tint immobile à la même place, espérant encore détruire l’effet des calomnies de ses. ennemis.
 >
@@ -40,13 +41,13 @@ Siawusch leur dit :
 
 Je déshonorerais aujourd’hui ma naissance, si j’oErais au roi le combat au lieu d’un présent.
 
-Quand le ciel qui tourne veut malgré mon innocence me faire périr par la main des méchants, ce jourlà ma bravoure ne me sert à rien, car on ne peut aller contre la volonté de Dieu.
+Quand le ciel qui tourne veut malgré mon innocence me faire périr par la main des méchants, ce jour là ma bravoure ne me sert à rien, car on ne peut aller contre la volonté de Dieu.
 
 Un Sage plein de prudence et de raison a dit :
 
 > N’essaye pas de surmonter à force de bravoure ta mauvaise étoile.»
 
-Ensuite il dit à Afrasiab :
+Ensuite, il dit à Afrasiab :
 
 > Ô vaillant roi, maître du trône et de la gloire !
 >
@@ -60,21 +61,23 @@ L’insensé Guersiwez lui répondit :
 
 > Ces paroles sont inconvenantes dans ta bouche.
 >
-> Si tu es venu si innocemment, pourquoi te présentes-tu devant le roi en cette de mailles ?
+> Si tu es venu si innocemment, pourquoi te présentes-tu devant le roi en cotte de mailles ?
 >
 > Ce n’est pas ainsi qu’on va au devant de lui et l’arc et les cuirasses ne sont pas le présent qu’on offre au roi.»
 
-Siawusch reconnut alors que tout cela provenait de ce méchant et que la colère du roi était son œuvre, et aussitôt qu’il eut entendu ces paroles, il s’écria z Ô misérable ! ô homme haineux !
+Siawusch reconnut alors que tout cela provenait de ce méchant et que la colère du roi était son œuvre et aussitôt qu’il eut entendu ces paroles, il s’écria :
 
-Tu finiras par être puni de ce que tu as fait, tu mangeras le fruit de la semence que tu as semée.
+> Ô misérable ! ô homme haineux !
+>
+> Tu finiras par être puni de ce que tu as fait, tu mangeras le fruit de la semence que tu as semée.
+>
+> Des milliers de têtes innocentes tomberont à cause de tes calomnies ; ce sont les paroles qui m’ont fait dévier du droit chemin, c’est toi qui as fait naître la colère du roi. »
 
-Des milliers de têtes in- nocentes tomberont à cause de tes calomnies ; ce sont les paroles qui m’ont fait dévier du droit chemin, c’est toi qui as fait naître la colère du roi. »
-
-Ensuite il se tourna vers Afiasiab, disant :
+Ensuite, il se tourna vers Afiasiab, disant :
 
 > Ô roi !
 >
-> Ne laisse pas , dans ta passion, allumer en ton sein une flamme qui le dévorerait.
+> Ne laisse pas, dans ta passion, allumer en ton sein une flamme qui le dévorerait.
 >
 > Ce n’est pas un jeu de verser mon sang et d’attaquer des hommes innocents.
 >
@@ -112,7 +115,7 @@ Le roi du Touran leur dit :
 
 > Emmenez-le d’ici et loin de la route,tranchez-lui la tête avec l’épée dans un lieu stérile où jamais plante ne poussera.
 >
-> Répandez son sang sur ce terrain embrasé, faites- le promptement et n’ayez pas peur. »
+> Répandez son sang sur ce terrain embrasé, faites-le promptement et n’ayez pas peur. »
 
 Toute l’armée répondit à Afrasiab :
 
@@ -140,11 +143,11 @@ Pilsem dit à l’illustre Afivwiab :
 >
 > Que celui qui est en colère se serve donc de la raison pour se guérir.
 >
-> La précipitation et la méchanceté sont l’œuvre d’Abriman. et c’est d’elles que viennent le repentir de l’âme et les peines du corps.
+> La précipitation et la méchanceté sont l’œuvre d’Abriman et c’est d’elles que viennent le repentir de l’âme et les peines du corps.
 >
 > Il n’est pas digne de toi de faire couper, dans un moment de courroux, la tête à un homme dont tu es le roi.
 >
-> Tiens-le dans les fers jusqu’à ce que le temps t’ait éclairé sur son compte ; et quand le souille de la raison aura purifié ton cœur, alors tu pourras lui faire trancher la tête.
+> Tiens-le dans les fers jusqu’à ce que le temps t’ait éclairé sur son compte ; et quand le souffle de la raison aura purifié ton cœur, alors tu pourras lui faire trancher la tête.
 >
 > Ne donne pas d’ordres dans ce moment et n’agis pas pendant que tu es en colère, car la colère amène à la fin le repentir.
 >
@@ -152,7 +155,7 @@ Pilsem dit à l’illustre Afivwiab :
 >
 > Pourquoi trancher une tête innocente qui sera vengée par Kaous et par Rustem ?
 >
-> Car le père de Siawusch est roi de l’Iran. et son père nourricier est Rustem, qui l’a élevé dans la pratique de toutes les vertus.
+> Car le père de Siawusch est roi de l’Iran et son père nourricier est Rustem, qui l’a élevé dans la pratique de toutes les vertus.
 >
 > Ce crime ne nous portera pas bonheur et ce que tu fais auj ourd’hui te fera trembler un jour.
 >
@@ -162,7 +165,7 @@ Pilsem dit à l’illustre Afivwiab :
 >
 > Feribourz
 >
-> KEÎ nous. fils de Kaous, le terrible lion, que jamais personne n’a vu las de batailles, Rustem cet éléphant furieux , aux yeux duquel une armée n’est rien, Gouderz, Gourguin, Thous et Ferhad feront tous lier leurs timbales sur le dos des éléphants, se ceindront tous pour venger Siawusch et les plaines se couvriront, à cause de lui, de cavaliers armés de lances.
+> KEÎ nous. fils de Kaous, le terrible lion, que jamais personne n’a vu las de batailles, Rustem cet éléphant furieux, aux yeux duquel une armée n’est rien, Gouderz, Gourguin, Thous et Ferhad feront tous lier leurs timbales sur le dos des éléphants, se ceindront tous pour venger Siawusch et les plaines se couvriront, à cause de lui, de cavaliers armés de lances.
 >
 > Ni moi, ni ceux qui me ressemblent, ni aucun des braves de cette assemblée, ne pourrons leur résister.
 >
@@ -176,7 +179,7 @@ Le roi fut ébranlé par ces paroles, mais son frère Guersiwez resta impitoyabl
 >
 > Ne te laisse pas arrêter par les paroles d’un enfant.
 >
-> La plaine est remplie de vautours qui dé- vorent les Iraniens ; de sorte que si tu crains la vengeance, tu as déjà assez à craindre.
+> La plaine est remplie de vautours qui dévorent les Iraniens ; de sorte que si tu crains la vengeance, tu as déjà assez à craindre.
 >
 > Si Siawusch pousse un cri de guerre, tu verras le monde se remplir des massues et des épées des guerriers du Roum et de la Chine.
 >
@@ -184,13 +187,13 @@ Le roi fut ébranlé par ces paroles, mais son frère Guersiwez resta impitoyabl
 >
 > Tu as foulé aux pieds la queue du serpent et percé sa tête et maintenant tu couvrirais sa poitrine de brocart ?
 >
-> Si tu lui fais grâce de la vie, je ne paraîtrai plus devant toi, j’irai me cacher dans un coin du monde pour éviter que ma r tête ne tombe bientôt.»
+> Si tu lui fais grâce de la vie, je ne paraîtrai plus devant toi, j’irai me cacher dans un coin du monde pour éviter que ma tête ne tombe bientôt.»
 
 Demour et Gueroui se présentèrent alors dans l’angoisse de la peur et s’approchèrent du roi, disant :
 
 > Ne recule pas ainsi devant la mort de Siawusch, considère qu’il n’y aurait plus pour toi de repos ; agis donc selon le conseil de Guersiwez, ton guide fidèle et détruis ton ennemi.
 >
-> Tu as tendu un piégé, et ton ennemi s’y est pris ; fais-le mourir sur-le-champ et ne te déshonore pas.
+> Tu as tendu un piégé et ton ennemi s’y est pris ; fais-le mourir sur-le-champ et ne te déshonore pas.
 >
 > Tu tiens entre les mains le maître de l’Iran, brise donc le cœur de ce ceux qui ont voulu te faire du mal.
 >
@@ -202,7 +205,7 @@ Demour et Gueroui se présentèrent alors dans l’angoisse de la peur et s’ap
 
 Le roi leur répondit :
 
-> Je ne l’ai pas vu moi-même commettre de crime, mais d’après les paroles des astrologues il finira par nous accabler de maux ; et pourtant si dans ma haine je verse son sang, il s’élévera dans le pays de Touran une immense poussière qui obscurcira le soleil et ce jourlà les sages seront confondus.
+> Je ne l’ai pas vu moi-même commettre de crime, mais d’après les paroles des astrologues il finira par nous accabler de maux ; et pourtant si dans ma haine je verse son sang, il s’élévera dans le pays de Touran une immense poussière qui obscurcira le soleil et ce jour là les sages seront confondus.
 >
 > Le malheur qui m’était prédit approche du Touran et mes chagrins, mes ’ soucis et mes peines arrivent.
 >
