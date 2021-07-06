@@ -19,7 +19,7 @@ Il vit un nuage chargé d’eau, qui descendait sur l’Iran ; sur ce nuage plan
 
 > Ouvre l’oreille, si tu veux être délivré de ton angoisse et de ce Turc renommé, de ce fier dragon.
 >
-> Il y a dans le Touran un jeune rejeton de la race royale ; son nom est Keî Khosrou.
+> Il y a dans le Touran un jeune rejeton de la race royale ; son nom est Keï Khosrou.
 >
 > C’est un prince issu de Siawusch ; il est brave, de race illustre et porte haut la tête.
 >
@@ -33,7 +33,7 @@ Il vit un nuage chargé d’eau, qui descendait sur l’Iran ; sur ce nuage plan
 
 Gouderz s’étant réveillé de son sommeil, adressa ses prières à Dieu le distributeur de la justice et toucha la poussière avec sa barbe blanche, plein d’espoir dans le roi du monde.
 
-Lorsque le soleil apparut à travers les ailes du corbeau de la nuit et qu’il se leva semblable à une lampe d’or, le Sipehbed s’assit sur son trône d’ivoire, et fit placer dans la salle d’audience un siégé de bois de tek.
+Lorsque le soleil apparut à travers les ailes du corbeau de la nuit et qu’il se leva semblable à une lampe d’or, le Sipehbed s’assit sur son trône d’ivoire et fit placer dans la salle d’audience un siégé de bois de tek.
 
 Il fit appeler Guiv, le cœur plein de soucis et lui parla longuement de ce rêve, disant :
 
@@ -51,14 +51,13 @@ Il fit appeler Guiv, le cœur plein de soucis et lui parla longuement de ce rêv
 >
 > C’est parce que le roi n’a ni dignité ni pouvoir et qu’il ne suit pas la voie des rois.
 >
-> Quand Keî Khosrou arrivera du pays de Touran, il accablera vos ennemis sous le poids des guerres et des vengeances.
+> Quand Keï Khosrou arrivera du pays de Touran, il accablera vos ennemis sous le poids des guerres et des vengeances.
 >
 > Mais parmi les vaillants héros il n’y en a qu’un qui puisse le découvrir, c’est Guiv, l’illustre fils de Gouderz.
 >
 > Telle
 >
-> 
-est la fortune que te destine le ciel sublime, que c’est toi qui nous délivreras de nos soucis, de nos souffrances et de nos chaînes.
+> est la fortune que te destine le ciel sublime, que c’est toi qui nous délivreras de nos soucis, de nos souffrances et de nos chaînes.
 >
 > Tu as cherché la gloire entre deux armées ; maintenant s’offre à toi une gloire immortelle, qui ne vieillira pas tant qu’il y aura sur la terre des hommes et des traditions.
 >
@@ -83,6 +82,6 @@ Banougouschasp, la reine des reines, la fille chérie du vaillant Rustem, était
 > J’ai appris que tu vas dans le Touran pour chercher Khosrou partout, qu’il soit près ou loin.
 >
 > Je désire me rendre auprès de Rustem, si le Pehlewan me le permet ; j’ai envie de voir son visage, car je suis triste de ne l’avoir pas vu depuis si longtemps. le te dis adieu, ô
-Pehlewan du mondel Puisses-tu ne jamais cesser d’être le soutien des braves!»
+Pehlewan du mondel Puisses-tu ne jamais cesser d’être le soutien des braves !»
 
 Guiv permit à sa compagne de partir et elle se dirigea aussitôt vers le Seistan.
