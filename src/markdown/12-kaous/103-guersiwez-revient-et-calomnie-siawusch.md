@@ -19,30 +19,31 @@ Lorsqu’il fut arrivé auprès du maître de l’armée du Touran, le roi lui a
 
 Le roi la lut en souriant et s’en réjouit.
 
-L’illustre Guersiwez remarqua sur son visage ces signes de plaisir ; il se retira au coucher du soleil, le cœur rempli de haine et de douleur ; pendant. tonte la nuit, jusqu’à Mi.
+L’illustre Guersiwez remarqua sur son visage ces signes de plaisir ; il se retira au coucher du soleil, le cœur rempli de haine et de douleur ; pendant. toute la nuit, jusqu’à Mi.
 
 Ce que le jour brillant parût, il se tordit comme un serpent qui se roule dans la poussière ; la haine l’empêche de dormir et dès le matin il se rendit auprès du roi ; ils firent sortir tous les étrangers, s’assirent et délibérèrent sur toutes choses.
 
-Guersiwez dit : Ô roil Siawusch n’est plus tel que tu l’as vu autrefois.
+Guersiwez dit :
 
-Un envoyé secret du roi Kaous est arrivé auprès de lui il y a peu de temps ; il a reçu de même des messagers de Roum et de la Chine.
+> Ô roil Siawusch n’est plus tel que tu l’as vu autrefois.
+>
+> Un envoyé secret du roi Kaous est arrivé auprès de lui il y a peu de temps ; il a reçu de même des messagers de Roum et de la Chine.
+>
+> Il boit à la santé de Kaous ; il a réuni autour de lui une grande armée et tu auras à trembler devant lui avant que tu t’y attendes.
+>
+> Si Tour n’avait pas eu le cœur farouche, il n’eût jamais tué injustement Iredj ; mais depuis ce temps ces deux pays sont comme le feu et l’eau et irrités l’un contre l’autre.
+>
+> Tu veux aujourd’hui les amener follement à une alliance, comme si tu pouvais conjurer l’orage.
+>
+> Si je t’avais caché ce danger, j’aurais rendu mon nom infâme dans le monde.»
 
-Il boit à la santé de Kaous ; il a réuni autour de lui une grande armée et tu auras à trembler devant lui avant que tu t’y attendes.
-
-Si Tour n’avait pas eu le cœur farouche, il n’eût jamais tué injustement Iredj ; mais depuis ce temps ces deux pays sont comme le feu et l’eau et irrités l’un contre l’autre.
-
-Tu veux aujourd’hui les amener follement à une alliance, comme si tu pouvais conjurer l’orage.
-
-Si je t’avais caché ce danger, j’aurais rendu mon nom infâme dans le monde.»
-
-Le roi s’afiligea de ces paroles et l’idée de ce fâcheux avenir le frappa ; il répondit à Guersiwez :
+Le roi s’affligea de ces paroles et l’idée de ce fâcheux avenir le frappa ; il répondit à Guersiwez :
 
 > C’est ton amour fraternel qui s’est ému pour moi et qui a guidé ton cœur.
 >
-> Pensons pendant trois jours à cette affaire, et nous pourrons alors nous décider plus mûrement ; et quand je me serai assuré si quelque péril nous menace, je dirai quel remède tu dois y apporter.»
+> Pensons pendant trois jours à cette affaire et nous pourrons alors nous décider plus mûrement ; et quand je me serai assuré si quelque péril nous menace, je dirai quel remède tu dois y apporter.»
 
-Le quatrième jour Guersiwez se présenta à la cour, 
- le casque en tête, la ceinture serrée autour des reins.
+Le quatrième jour Guersiwez se présenta à la cour, le casque en tête, la ceinture serrée autour des reins.
 
 Le roi du Touran l’appela auprès de lui et lui parla longuement de ce qui regardait Siawusch.
 
@@ -62,8 +63,7 @@ Il lui dit :
 >
 > Je n’ai aucun prétexte pour lui faire du mal ; et quelque peu de tort que je lui fisse, je serais blâmé par les grands
 >
-> 
-et honni du monde entier.
+> et honni du monde entier.
 >
 > Il n’y a pas de bête féroce qui ait les dents plus aiguës que le lion, dont le cœur ne craint pas l’épée ; et pourtant. quand il voit un enfant dans la détresse, il lui fait d’un bos quet un asile contre tout danger : le maître du soleil et de la lune m’approuverait-il donc si je sévissais contre un innocent ?
 >
@@ -87,7 +87,7 @@ Afrasiab réfléchit sur ces paroles et tout ce que Guersiwez avait dit lui paru
 
 Il répondit :
 
-> Je vois que tout est malheureux dans cette affaire, de- puis le commencement jusqu’à la fin.
+> Je vois que tout est malheureux dans cette affaire, depuis le commencement jusqu’à la fin.
 
 J’attendrai jusqu’à ce que je voie comment la rotation secrète du ciel en décidera ; en toute chose il vaut mieux attendre que se hâter.
 
@@ -97,7 +97,7 @@ Si je rappelais Siawusch à ma cour, je saurais découvrir ses intentions secrè
 
 > Ô roi à l’esprit clairvoyant, à la parole juste !
 >
-> Les arme- ments, la superbe et la puissance de Siawusch sont si grands, la force que Dieu a donnée à son bras, à son épée et à sa massue est telle, qu’il viendra à ta cour accompagné d’une armée et obscurcira devant toi le soleil et la lune.
+> Les armements, la superbe et la puissance de Siawusch sont si grands, la force que Dieu a donnée à son bras, à son épée et à sa massue est telle, qu’il viendra à ta cour accompagné d’une armée et obscurcira devant toi le soleil et la lune.
 >
 > Il n’est plus tel que tu l’as connu, il élève son diadème au-dessus du ciel.
 >
@@ -107,8 +107,7 @@ Si je rappelais Siawusch à ma cour, je saurais découvrir ses intentions secrè
 >
 > Une armée qui verrait un roi comme lui, heureux, intelligent et beau comme la lune, ne
 >
-> 
-voudrait plus jamais de toi pour maître ; la place de Siawusch serait dans le Bélier et la tienne dans les Poissons.
+> voudrait plus jamais de toi pour maître ; la place de Siawusch serait dans le Bélier et la tienne dans les Poissons.
 >
 > Et puis tu veux lui ordonner de quitter la ville qu’il a bâtie et le beau pays de sa résidence, de venir ici pour être ton esclave, pour baisser la tête humblement et respectueusement devant toi !
 >
