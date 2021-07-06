@@ -19,7 +19,7 @@ Or il y avait entre les deux armées un espace de deux farsangs sur lequel perso
 
 Rustem se rendit sur ce champ de bataille, après avoir placé sur sa tête son casque de fer.
 
-Toute amertume naît du désir d’agrandissement ; puissions-nous rester étrangers aux passions!
+Toute amertume naît du désir d’agrandissement ; puissions-nous rester étrangers aux passions !
 
 De son côté, Sohrab passait la nuit dans une assemblée, buvant du vin et écoutant le chant des chanteurs.
 
@@ -29,7 +29,7 @@ Il dit à Houman :
 >
 > Quand je regarde son pied et son étrier, je suis ému de tendresse et mon front se couvre de honte.
 >
-> Je KEI nous. trouve en lui les signes que ma mère m’a indiqués, et mon cœur en tremble un peu.
+> Je KEI nous. trouve en lui les signes que ma mère m’a indiqués et mon cœur en tremble un peu.
 >
 > Je crois que c’est Rustem, car il y a peu de braves dans le monde comme lui.
 >
@@ -43,13 +43,13 @@ Houman lui répondit :
 
 Il courut au champ de bataille en poussant des cris et tenant dans sa main une massue à tête de bœuf.
 
-Il s’adressa à Rustem le sourire sur les lèvres, tu aurais dit qu’il avait passé la nuit avec lui amicalement, et lui demanda :
+Il s’adressa à Rustem le sourire sur les lèvres, tu aurais dit qu’il avait passé la nuit avec lui amicalement et lui demanda :
 
 > Comment as-tu dormi, comment t’es-tu levé ce matin ?
 >
 > Pourquoi as-tu préparé ton cœur pour la lutte ?
 >
-> Jette cette massue et cette épée de la vengeance, jette tout cet appareil d’un com- bat impie.
+> Jette cette massue et cette épée de la vengeance, jette tout cet appareil d’un combat impie.
 >
 > Asseyons-nous tous deux à terre et adou-cissons avec du vin nos regards courroucés.
 >
@@ -57,8 +57,7 @@ Il s’adressa à Rustem le sourire sur les lèvres, tu aurais dit qu’il avait
 >
 > Attends qu’un autre se présente pour le combat et apprête avec
 >
-> 
-moi une fête.
+> moi une fête.
 >
 > Mon cœur te communiquera son amour et je ferai couler de tes yeux des larmes de honte.
 >
@@ -76,15 +75,17 @@ Rustem lui répondit :
 >
 > Nous ferons de notre mieux et il en sera ce que le maître du monde aura voulu et ordonné.
 >
-> J’ai trouvé dans la vie beaucoup de bonheur et de malheur, et ne suis pas un homme à paroles feintes et trompenses.»
+> J’ai trouvé dans la vie beaucoup de bonheur et de malheur et ne suis pas un homme à paroles feintes et trompenses.»
 
 ’ Sohrab lui dit :
 
 > Ô vieillard !
+>
+> Mon avis ne te va pas au cœur et pourtant j’avais désiré que ton âme ne quittât ton corps que sur la couche et quand ton temps serait venu, que ceux que tu laisseras après toi te préparassent un tombeau et que ton âme s’envolât pendant que ton corps descendrait dans la tombe.
+>
+> Mais puisque tu me livres ta vie, apprê-tons-nous à accomplir les desseins de Dieu.»
 
-Mon avis ne te va pas au cœur et pourtant j’avais désiré que ton âme ne quittât ton corps que sur la couche et quand ton temps serait venu, que ceux que tu laisseras après toi te préparassent un tombeau et que ton âme s’envolât pendant que ton corps descendrait dans la tombe.
-
-Mais puisque tu me livres ta vie, apprê-tons-nous à accomplir les desseins de Dieu. n Ils descendirent de leurs destriers et marchèrent avec précaution, couverts de leurs cottes de mailles et de leurs casques.
+Ils descendirent de leurs destriers et marchèrent avec précaution, couverts de leurs cottes de mailles et de leurs casques.
 
 Ils lièrent leurs chevaux de bataille à des rochers et s’approchèrent l’un de l’autre l’âme en souci.
 
@@ -117,8 +118,7 @@ Il adressa à Sohrab ces paroles :
 >
 > Celui qui combat à la lutte et renverse sur la poussière un brave, ne lui coupe pas la tête la première fois qu’il le jette par terre, quand même ce serait un cas de vengeance ; mais s’il le met sous lui une se-
 >
-> 
-coude fois, ct acquiert par sa victoire le nom de lion, alors il a le droit delui trancher la tête ; telle est notre coutume.»
+> coude fois, ct acquiert par sa victoire le nom de lion, alors il a le droit delui trancher la tête ; telle est notre coutume.»
 
 C’est par cette ruse que Rustem espérait se tirer de la griffe de ce dragon et échapper à la mort.
 
@@ -148,7 +148,7 @@ Un roi a dit en pareil cas :
 
 Ces paroles jetèrent au désespoir Sohrab, qui en resta pensif et étonné.A lafin il dit à Houman :
 
-> Oublie ces soucis, car il doit me combattre demain encore. et tu le verras le joug sur le cou.»
+> Oublie ces soucis, car il doit me combattre demain encore et tu le verras le joug sur le cou.»
 
 K si ne U s.
 
@@ -178,7 +178,7 @@ TRustem quitta le bassin d’eau et se rendit sur le champ de bataille, le cœur
 
 Sohrab s’était mis à courir comme un éléphant l’urieux, portant autour du bras son lacet et dans la main son arc ; il s’avançait fièrement, rugissant comme un lion et son cheval bondissait et déchirait le sol.
 
-Lorsque Rustem le vit si fier, il resta étonné, il l’observa, fut allligé et confondu par son aspect et calcula les chances du combat.
+Lorsque Rustem le vit si fier, il resta étonné, il l’observa, fut affligé et confondu par son aspect et calcula les chances du combat.
 
 Sohrab, en revenant, l’aperçut et le vent de la jeunesse emporta son cœur ; quand il fut plus près, il le regarda, observant sa mine majestueuse et sa force et lui dit :
 
