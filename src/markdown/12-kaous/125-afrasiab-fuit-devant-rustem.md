@@ -69,8 +69,10 @@ Rustem lui répondit :
 
 > Quand le bras d’un brave fait pleuvoir des coups de massue, ni le rocher ni l’enclume ne lui résistent ; il faut pour frapper ainsi, avoir surtout une poitrine et un bras : mais quand Houman manie sa massue, tu dirais qu’elle est de cire et non pas de fer.»
 
-Lorsque Rustem fut revenu de cercombat et que le vaillant Houman se fut enfui, toute l’armée fit entendre un cri,tous les braves élevèrent leurslances ses jusqu’aux nues ; on ne voyait partout que tués et blessés, on aurait dit : qu’il avait poussé des tulipes sur un sol de safran ; les chevaux piétinaient dans le sang et les pieds des éléphants en étaient rougis.
+Lorsque Rustem fut revenu de cercombat et que le vaillant Houman se fut enfui, toute l’armée fit entendre un cri,tous les braves élevèrent leurslances ses jusqu’aux nues ; on ne voyait partout que tués et blessés, on aurait dit :
 
-Les Turcs s’enfuirent comme le vent, car Rustem leur faisait sentir la force de son bras ; il les poursuivit trois farsangs, semblable à un dragon bondissant ; ensuite il revint sur ses pas, car le ciel avait puni ses ennemis et lui et les siens rentrèrent dans leur camp.
-
-Son armée s’était enrichie par un butin immense, et toute la plaine était couverte de fer, d’argent et d’or, de lances, de brides, d’armures et de ceintures.
+> qu’il avait poussé des tulipes sur un sol de safran ; les chevaux piétinaient dans le sang et les pieds des éléphants en étaient rougis.
+>
+> Les Turcs s’enfuirent comme le vent, car Rustem leur faisait sentir la force de son bras ; il les poursuivit trois farsangs, semblable à un dragon bondissant ; ensuite il revint sur ses pas, car le ciel avait puni ses ennemis et lui et les siens rentrèrent dans leur camp.
+>
+> Son armée s’était enrichie par un butin immense et toute la plaine était couverte de fer, d’argent et d’or, de lances, de brides, d’armures et de ceintures.
