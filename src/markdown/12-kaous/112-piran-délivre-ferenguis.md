@@ -19,8 +19,7 @@ Lui, le vaillant Rouïn et Ferschidwerd firent voler incontinent la poussière s
 
 Tous les spectateurs avaient le cœur rempli de dou-leur et les yeux pleins de larmes à cause de ce que faisait l’infâme Afrasiab.
 
-Tous ceux qui se trouvaient dans la cour, hommes, femmes et enfants, se di- saient l’un à l’autre : C’est une action cruelle et
- : 2 dangereuse que de mettre à mort Ferenguis et le royaume périra par la violence de cet homme que personne ne voudra plus appeler roi.»
+Tous ceux qui se trouvaient dans la cour, hommes, femmes et enfants, se disaient l’un à l’autre : C’est une action cruelle et : 2 dangereuse que de mettre à mort Ferenguis et le royaume périra par la violence de cet homme que personne ne voudra plus appeler roi.»
 
 Dans ce moment Piran arriva, rapide comme le vent et tous ceux qui avaient du sens s’en réjouirent.
 
@@ -51,8 +50,7 @@ frasiab, le cœur navré, les yeux remplis de larmes, s’écriant :
 >
 > Le monde était délivré du mal, la voie de
 >
-> 
-Dieu était ouverte ; mais un Div trompeur est sorti de l’enfer et a perverti le cœur du roi.
+> Dieu était ouverte ; mais un Div trompeur est sorti de l’enfer et a perverti le cœur du roi.
 >
 > Maudit soit cet Ahriman qui t’a égaré dans la voie du mal !
 >
