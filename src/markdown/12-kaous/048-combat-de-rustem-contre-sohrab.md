@@ -17,7 +17,7 @@ Sohrab se rendit au champ du combat et prit un javelot, tout en pensant avec ét
 
 Ils choisirent une lice étroite et s’attaquèrent avec leurs courts javelots.
 
-Quand il ne resta plus à leurs javelots ni pointe ni anneau de fer, ils tournèrent tous deux bride à gauche, puis ils fondirent l’un sur l’autre avec leurs épées indiennes, et firent jaillir le feu de l’acier.
+Quand il ne resta plus à leurs javelots ni pointe ni anneau de fer, ils tournèrent tous deux bride à gauche, puis ils fondirent l’un sur l’autre avec leurs épées indiennes et firent jaillir le feu de l’acier.
 
 Leurs épées se brisèrent sous leurs coups, quels coups !
 
@@ -40,11 +40,13 @@ L’amour ne se manifestait dans aucun de ces hommes ; ils étaient privés de s
 
 Les animaux connaissent leurs petits, que ce soit ll8 LE LlVllE le poisson de la mer ou l’onagre du désert ; mais l’homme, dans son trouble et sa passion, ne distingue pas son ennemi de son fils.
 
-Rustem dit en son cœur : Je n’ai jamais vu un crocodile qui aille au combat comme cet homme.
+Rustem dit en son cœur :
 
-La lutte avec le Div blanc n’a été qu’un jeu pour moi et maintenant le cœur me manque devant un homme, devant le bras de quelqu’un qui n’est pas un des maîtres du monde, ni un héros, ni un homme illustre parmi les grands !
-
-Je me suis retiré fatigué du combat, pendant que deux armées le regardaient.»
+> Je n’ai jamais vu un crocodile qui aille au combat comme cet homme.
+>
+> La lutte avec le Div blanc n’a été qu’un jeu pour moi et maintenant le cœur me manque devant un homme, devant le bras de quelqu’un qui n’est pas un des maîtres du monde, ni un héros, ni un homme illustre parmi les grands !
+>
+> Je me suis retiré fatigué du combat, pendant que deux armées le regardaient.»
 
 Lorsque les chevaux des deux combattants furent reposés des fatigues de la lutte et de la bataille, le jeune homme et le vieillard bandèrent leurs arcs ; mais étant couverts de cottes de mailles, d’armures et de cuirasses de peau de léopard, les flèches de roseau et leurs pointes de fer ne leur firent aucun mal.
 
@@ -52,7 +54,7 @@ Tous les deux s’irritèrent, tous les deux se saisirent par les courroies de l
 
 Rustem, qui au jour du combat arrachait le rocher noir quand il portait la main dessus, saisit la ceinture de Sohrab, espérant de l’enlever de selle dans cette lutte.
 
-Mais le corps du jeune homme ne s’en ressentit pas, et la main de Rustem resta impuissante.
+Mais le corps du jeune homme ne s’en ressentit pas et la main de Rustem resta impuissante.
 
 Il la retira de la ceinture de Sohrab et ne cessait de s’étonner de lui.
 
@@ -80,7 +82,7 @@ Il se hâtait de retourner à son camp, le cœur rempli de ces craintes, lorsqu�
 
 Chasse.
 
-A cette vue, Rustem entra en fureur.
+À cette vue, Rustem entra en fureur.
 
 Il poussa un cri comme un lion féroce et lui dit :
 
