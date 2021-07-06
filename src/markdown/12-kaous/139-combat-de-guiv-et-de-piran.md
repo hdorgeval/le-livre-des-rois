@@ -27,8 +27,7 @@ Tu es venu seul sur ce champ de bataille, tu es, venu bravement t’opposer a un
 
 Nous allons te faire sentir les pointes de nos javelots, nous allons te donner pour linceul les griffes des oiseaux de proie ; et quand même tu serais une montagne de fer, ô cavalier isolé !
 
-Des milliers d’ennemis t’entoureraient comme des fourmis et briseraient cette armure sur ta poitrine,
- : t’arracheraient la tête et t’enterreraient comme une chose immonde.
+Des milliers d’ennemis t’entoureraient comme des fourmis et briseraient cette armure sur ta poitrine, : t’arracheraient la tête et t’enterreraient comme une chose immonde.
 
 Un lion bondissant a dit :
 
@@ -52,7 +51,7 @@ Le terrible Guiv, le puissant Pehlewan, chef des braves, poussa un cri de rage e
 >
 > Il te faut des hommes semblables aux femmes pour les combattre ; mais ne te vante pas de tes hauts faits, quand tu es avec des braves : car les grands publieront à jamais ta honte, au milieu des chants et de la musique ; ils raconteront que Guiv tout seul a enlevé [ : 07 Khosrou et ils le livreront au mépris toi et les tiens.
 >
-> Ignores-tu que tous les princes de la terre, tels que le Faghfour, le Kaïsar de Roum, le Khakan de la Chine, tous les grands de l’Iran et tous les parents de Kaous, tous les braves et tous les héros au casque d’or, ont demandé la fille de Rustem en mariage et l’ont désirée dans leur cœur?
+> Ignores-tu que tous les princes de la terre, tels que le Faghfour, le Kaïsar de Roum, le Khakan de la Chine, tous les grands de l’Iran et tous les parents de Kaous, tous les braves et tous les héros au casque d’or, ont demandé la fille de Rustem en mariage et l’ont désirée dans leur cœur ?
 >
 > Thous a envoyé un messager pour la demander ; mais Tehemten n’a fait qu’en rire, il a refusé toutes ces alliances, n’en ayant trouvé aucune digne de lui.
 >
@@ -69,10 +68,10 @@ Le terrible Guiv, le puissant Pehlewan, chef des braves, poussa un cri de rage e
 > J’emmènerai Khosrou le roi des r0is,je le conduirai devantle roi des braves, le placerai sur l’illustre trône (l’ivoire,
 >
 > [
-je poserai sur sa tête la couronne qui réjouit les cœurs ; ensuite je me revêtirai de ma noble cuirasse, et convertirai le pays de Touran en un repaire de lions.
+je poserai sur sa tête la couronne qui réjouit les cœurs ; ensuite je me revêtirai de ma noble cuirasse et convertirai le pays de Touran en un repaire de lions.
 >
 > Je suis fils de Gouderz fils de Keschwad le chef des braves, Guiv issu de nobles parents et tu es Piran le maudit, le Turc à la mauvaise étoile.
 >
 > Puisses-tu te trouver sans couronne, sans trône et sans patrie !
 >
-> Le nœud de mon lacet va être ta mort, et ton casque et ta cuirasse te serviront de linceul.»
+> Le nœud de mon lacet va être ta mort et ton casque et ta cuirasse te serviront de linceul.»
