@@ -25,11 +25,11 @@ Mais quand
 [
 Thous aperçut Gouderz et sa nombreuse troupe, la face du soleil et de la lune s’obscurcit devant lui.
 
-Il vit un trône resplendissant de turquoises qui ressemblaient aux eaux de la mer et dressé sur le dos d’un éléphant furieux ; Keî Khosrou qui était digne de la couronne et qui recherchait la possession du monde était assis tout armé sur cet éléphant.
+Il vit un trône resplendissant de turquoises qui ressemblaient aux eaux de la mer et dressé sur le dos d’un éléphant furieux ; Keï Khosrou qui était digne de la couronne et qui recherchait la possession du monde était assis tout armé sur cet éléphant.
 
 Il était entouré de deux cents éléphants de guerre : tu aurais dit que le monde ne pouvait les contenir.
 
-Khosrou brillait sur ce trône comme une lune ; il portait. sur sa tête une couronne de rubis étincelants ; il portait des bracelets, un collier et des boucles d’oreilles et tenait en main une massue à tête de bœuf.
+Khosrou brillait sur ce trône comme une lune ; il portait sur sa tête une couronne de rubis étincelants ; il portait des bracelets, un collier et des boucles d’oreilles et tenait en main une massue à tête de bœuf.
 
 Thous en fut consterné et dit :
 
