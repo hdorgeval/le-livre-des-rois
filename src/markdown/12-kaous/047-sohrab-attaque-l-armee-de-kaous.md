@@ -35,13 +35,13 @@ Là-dessus Sohrab poussa des cris et défia le roi Kaous en disant :
 >
 > Qu’as-tu à faire sur un champ de bataille ?
 >
-> Comment oses-tu prendre le nom de Keî Kaous, toi qui ne parais jamais dans le combat des lions ?
+> Comment oses-tu prendre le nom de Keï Kaous, toi qui ne parais jamais dans le combat des lions ?
 >
 > Si je fais vibrer cette lance dans ma main, j’auéantis toute ton armée.
 >
-> J’ai fait un grand serment dans un banquet, la nuit où Zendeh Rezm Il. 
-llà
-fut tué : j’ai juré de ne laisser dans l’Iran aucun homme armé d’une lance et de pendre le. roi Kaous vivant au gibet.
+> J’ai fait un grand serment dans un banquet, la nuit où Zendeh Rez»
+
+Il. llà fut tué : j’ai juré de ne laisser dans l’Iran aucun homme armé d’une lance et de pendre le. roi Kaous vivant au gibet.
 >
 > Qui astu, parmi les Iraniens, assez prompt de la main pour venir à ma rencontre sur ce champ de bataille?»
 
@@ -49,9 +49,11 @@ Ayant ainsi parlé, il se tut pendant longtemps, mais aucun des Iraniens ne lui 
 
 Alors, il se courba en arrière et frappant de grands coups avec le fer de sa lance, fit sauter soixante et dix piquets de l’enceinte des tentes du roi, dont une partie s’écroula et l’on entendit de tous côtés le son des trompettes.
 
-Kaous fut effrayé et s’écria : Ô hommes illustres et de hautenaissance !
+Kaous fut effrayé et s’écria :
 
-Que quelqu’un de vous aille annoncer à Rustem que le cerveau des braves est vide devant ce Turc, que je n’ai pas un. cavalier à lui opposer et qu’il n’y a personne dans l’Iran qui ose le combattre.»
+> Ô hommes illustres et de hautenaissance !
+>
+> Que quelqu’un de vous aille annoncer à Rustem que le cerveau des braves est vide devant ce Turc, que je n’ai pas un. cavalier à lui opposer et qu’il n’y a personne dans l’Iran qui ose le combattre.»
 
 ’
 Thous partit, porta le message du roi à Rustem et lui conta tout ce qu’il avait entendu.
@@ -62,7 +64,7 @@ Rustem lui répondit :
 
 Il ordonna qu’on sellât Raksch et dit à ses cavaliers de rider leurs fronts ; il jeta de sa tente un regard sur la plaine et vit sur la route Guiv qui arrivait et qui mettait à Raksch une selle brillante ; Gourguin qui criait :
 
-> Hâte-toi, hâteloi!»
+> Hâte-toi, hâteloi !»
 
 Rehham qui bou-
 
@@ -72,17 +74,19 @@ Vitel»
 
 Rustem entendant ces voix de sa tente, dit en lui-même :
 
-> C’est donc ici un combat contre un Abriman, car toute cette lerreur ne peut avoir été produite par un homme!»
+> C’est donc ici un combat contre un Abriman, car toute cette lerreur ne peut avoir été produite par un homme !»
 
 Il se hâta de mettre sa cuirasse de peau de léopard, se ceignit de sa ceinture royale, monta sur Raksch et partit.
 
-Il laissa à Zewareh la garde de ses tentes et de son armée et lai dit : Ne quitte pas ce poste, et obéis-moi de préférence aux autres chefs.»
+Il laissa à Zewareh la garde de ses tentes et de son armée et lai dit :
+
+> Ne quitte pas ce poste et obéis-moi de préférence aux autres chefs.»
 
 On porta devant Rustem son drapeau et il s’avança, avide de combats et en colère.
 
 Quand il vit Sohrab avec ses bras et ses jambes puissantes et sa poitrine large comme celle de Sam, il lui dit :
 
-> Éloignons-nous d’ici et sortons des lignes des deux armées!»
+> Éloignons-nous d’ici et sortons des lignes des deux armées !»
 
 Sohrab frotta ses mains l’une dans l’autre et courut au combat en dehors des lignes, disant :
 
@@ -100,7 +104,9 @@ Rustem regarda cet homme si altier, il regarda ses épaules, ses mains et ses lo
 >
 > Je suis vieux, j’ai vu maint champ de bataille ; j’ai détruit mainte armée ; maint Div est mort de ma main et je n’ai jamais été battu.
 >
-> Certesl si tu me combats et que tu me survives, tu n’as plus à craindre le crocodile.
+> Certes !
+>
+> Si tu me combats et que tu me survives, tu n’as plus à craindre le crocodile.
 >
 > La mer et les montagnes ont vu mes combats ; ce que j’ai fait des grands de l’armée du Touran, les astres en sonttémoins et ma valeur a mis le monde sous mes pieds.
 >
