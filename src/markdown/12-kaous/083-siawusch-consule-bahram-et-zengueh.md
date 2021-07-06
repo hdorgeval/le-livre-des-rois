@@ -27,7 +27,7 @@ Il leur dit :
 >
 > J’ai préféré aux festins du roi les fatigues et les combats, je suis resté loin de tout plaisir et de toute fêle.
 >
-> Il y avait sa Balkh une grande armée sons le commandement !
+> Il y avait sa Balkh une grande armée sous le commandement !
 >
 > De Guersiwez le guerrier et dans le Soghd était campé Afrasiab, rempli de haine et entouré de et cent mille hommes prêts à tirer l’épée.
 >
@@ -57,14 +57,13 @@ Pourquoi ma mère m’a-t-elle mis au monde !
 
 Et pourquoi, si je devais naître, la mon, me m’a-t-elle pas emporté !
 
-Quand on est obligé. de 
- traîner de pareilles douleurs, on ne se nourrit que d’amertume et de soucis ; la oie alors n’est qu’un arbre qui a crû, mais dont le fruit est du poison, dont la feuille donne la mort.
+Quand on est obligé. de traîner de pareilles douleurs, on ne se nourrit que d’amertume et de soucis ; la oie alors n’est qu’un arbre qui a crû, mais dont le fruit est du poison, dont la feuille donne la mort.
 
-Si après une promesse telle que je l’ai donnée en invoquant Dieu, et après les serments que j’ai faits, je détourne ma tête de la droite voie, si de tous côtés on ne voit que mensonge, les hommes ouvriront partout leurs lèvres pour me maudire comme je l’aurai mérité.
+Si après une promesse telle que je l’ai donnée en invoquant Dieu et après les serments que j’ai faits, je détourne ma tête de la droite voie, si de tous côtés on ne voit que mensonge, les hommes ouvriront partout leurs lèvres pour me maudire comme je l’aurai mérité.
 
 Car le monde entier sait que j’ai fait la paix avec le roi des Turcs.
 
-Comment Dieu m’approuverait-il, et qu’amènerait sur moi la rotation du ciel, si, contre mes serments, je recommençais la guerre, si je me révoltais contre le ciel et la terre ?
+Comment Dieu m’approuverait-il et qu’amènerait sur moi la rotation du ciel, si, contre mes serments, je recommençais la guerre, si je me révoltais contre le ciel et la terre ?
 
 Je m’en irai, je chercherai un coin dans le monde où mon nom reste caché à Kaous ; alors arrivera, dans ce monde brillant, ce que Dieu voudra et ordonnera.
 
@@ -73,13 +72,15 @@ Maintenant, ô illustre Zengueh fils de Schaweran, prépare-toi pour une grande 
 Ramène-lui ses otages, rap-
 porte-lui ses trésors de toute espèce, son or, ses joyaux et son trône et raconte-lui ce qui m’arrive.»
 
-Ensuite il dit à Bahram fils.de Gouderz :
+Ensuite, il dit à Bahram fils.de Gouderz :
 
 > Je ; te confie cette armée glorieuse, cette frontière, ces éléphants et ces timbales.
+>
+> Tu attendras l’arrivée du Sipehdar Thons, à qui tu remettras l’armée et les
+>
+> KEÎ nous. trésors, le tout en bon ordre et tu lui rendras compte de tout, de l’or, des couronnes et des trônes.»
 
-Tu attendras l’arrivée du Sipehdar Thons, à qui tu remettras l’armée et les
-
-KEÎ nous. trésors, le tout en bon ordre et tu lui rendras compte de tout, de l’or, des couronnes et des trônesm A ces mots, le cœur de Bahram trembla de ce que Siavvusch allait faire et Zengueh fils de Schaweran versa des larmes de sang et maudit le pays de Hamaveran.
+À ces mots, le cœur de Bahram trembla de ce que Siavvusch allait faire et Zengueh fils de Schaweran versa des larmes de sang et maudit le pays de Hamaveran.
 
 Tous deux restaient assis, dans leur douleur, les traits décomposés par l’elYet de ces paroles.
 
@@ -87,7 +88,7 @@ Tous deux restaient assis, dans leur douleur, les traits décomposés par l’el
 
 > Ce n’est pas ainsi que que tu dois agir ; car, séparé de ton père, tu es déplacé partout dans le monde.
 >
-> Écris une lettre’au roi, demande qu’il t’envoie une seconde fois Bus- tem au corps d’éléphant ; et s’il t’ordonne de faire la guerre, faisla.
+> Écris une lettre’au roi, demande qu’il t’envoie une seconde fois Rustem au corps d’éléphant ; et s’il t’ordonne de faire la guerre, faisla.
 >
 > C’est une afl’aire qui sera bientôt terminée, à moins que tu ne choisisses le plus long chemin.
 >
@@ -108,8 +109,7 @@ Tous deux restaient assis, dans leur douleur, les traits décomposés par l’el
 > Ne détruis pas notre fortune au moment où l’arbre de la puissance porte du
 2]
 >
-> 
-fruit.
+> fruit.
 >
 > N’inonde pas de sang tes yeux, ton trône et ta couronne, ne dessèche pas le cœur de l’arbre royal.
 >
@@ -131,7 +131,7 @@ Il répondit :
 >
 > Et si je quittais ce champ de bataille et revenais auprès de lui sans avoir accompli sa volonté, il me témoignerait son inimitié et sa haine et couverait dans son sein le feu de son courroux.
 >
-> Mais si vous êtes affligés de ce que je fais, si vous refusez de m’obéir, je serai mon propre mes- sager et mon propre guide, abandonnant mes tentes dans cette plaine.
+> Mais si vous êtes affligés de ce que je fais, si vous refusez de m’obéir, je serai mon propre messager et mon propre guide, abandonnant mes tentes dans cette plaine.
 >
 > Car ceux qui ne peuvent plus participer à ma fortune, pourquoi les forcerais-je à partager mes peines?»
 
@@ -142,8 +142,10 @@ Leurs cœurs et leurs yeux voyaient les malheurs que le sort préparait en secre
 Zengueh lui dit :
 
 > Nous sommes tes esclaves et notre cœur est rempli d’amour pour toi : puissent nos corps et nos âmes te servir de rançon !
+>
+> Puissions-nous te rester fidèles jusqu’à la mort !»
 
-Puissions-nous te rester fidèles jusqu’à la mortln Le prudent Siawusch ayant entendu cette réponse de son ami, lui dit :
+Le prudent Siawusch ayant entendu cette réponse de son ami, lui dit :
 
 > Va et raconte au roi des Turcs ce qui m’est arrivé en cette affaire, comment de cette paix est sortie peur moi la discorde et comment ce qui est du miel pour lui est pour moi du poison et de la douleur.
 >
@@ -153,7 +155,6 @@ Puissions-nous te rester fidèles jusqu’à la mortln Le prudent Siawusch ayant
 >
 > Dis-lui encore qu’il ne me convient pas de retourner imprudemment auprès de Kaous dont je n’ai pas rempli les ordres ; qu’Afrasiab m’ouvre donc un chemin pour que je me rende au lieu où Dieu m’aura assigné. une demeure.
 >
-> Je veux cher- à".
+> Je veux cher-à".
 >
-> i
- cher sur la terre un pays où mon nom reste caché à Kaous, où je n’entende pas parler de ses mauvaises intentions et ou je puisse pendant quelque temps r me reposer de la lutte que j’ai à soutenir contre lui.»
+> i cher sur la terre un pays où mon nom reste caché à Kaous, où je n’entende pas parler de ses mauvaises intentions et ou je puisse pendant quelque temps me reposer de la lutte que j’ai à soutenir contre lui.»
