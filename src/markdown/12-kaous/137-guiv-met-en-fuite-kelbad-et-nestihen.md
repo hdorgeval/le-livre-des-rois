@@ -18,24 +18,25 @@ Lorsque Guiv aperçut de loin la poussière que soulevait l’armée, il se hât
 Il fit pleuvoir du haut de son cheval tantôt des coups ’épée, tantôt des coups de massue et les chefs des Touraniens furent bientôt rebutés du combat, tant frappait fort la masse d’armes du vaillant Guiv.
 
 Il était si réjoui de ce jour de colère, qu’il n’eût pas Je
-1 : 
-craint la mer plus qu’une source d’eau.
+1 : craint la mer plus qu’une source d’eau.
 
 Les Touraniens I’environnèrent, ils formaient une troupe nombreuse et le lion furieux était seul.
 
-Les lances faisaient du champ de bataille comme un champ de roseaux et le soleil et la lune voilèrent leur face ; le lion s’agitait avec rage dans ce champ de roseaux, et il l’eut bientôt rougi de sang comme un pressoir ; il renversa un grand nombre de ses ennemis et les braves cavaliers en eurent peur.
+Les lances faisaient du champ de bataille comme un champ de roseaux et le soleil et la lune voilèrent leur face ; le lion s’agitait avec rage dans ce champ de roseaux et il l’eut bientôt rougi de sang comme un pressoir ; il renversa un grand nombre de ses ennemis et les braves cavaliers en eurent peur.
 
-Kelbad dit au vaillant Nestihen : Cet homme est un rocher qui a des bras et des épaules.
+Kelbad dit au vaillant Nestihen :
 
-C’est contre la grâce de Dieu qui repose sur Keî Khosrou que nous luttons, et non pas contre l’épée et la massue de Guiv.
+> Cet homme est un rocher qui a des bras et des épaules.
+>
+> C’est contre la grâce de Dieu qui repose sur Keï Khosrou que nous luttons et non pas contre l’épée et la massue de Guiv.
+>
+> Je ne sais quel sera le sort de ce pays, on ne peut se ce dérober aux décrets de Dieu et les astrologues annoncent que les présages sont mauvais pour le Touran et pour ses braves.»
 
-Je ne sais quel sera le sort de ce pays, on ne peut se ce dérober aux décrets de Dieu et les astrologues an- noncent que les présages sont mauvais pour le Touran et pour ses braves.»
-
-Pareils à des lions, ils firent avec leur armée une attaque vigoureuse, des coups furent donnés et reçus, et les cris des combattants et le son des trompettes firent trembler le cœur des montagnes.
+Pareils à des lions, ils firent avec leur armée une attaque vigoureuse, des coups furent donnés et reçus et les cris des combattants et le son des trompettes firent trembler le cœur des montagnes.
 
 Les ravins et les plaines étaient jonchés de morts, la terre était teinte de sang comme une rose et les Touraniens s’enfuirent de tous côtés devant Guiv le hardi, le soutien des armées ; tous s’en retournèrent blessés et défaits auprès de Piran qui portait haut la tète.
 
-Guiv se rendit, semblable à un lion, auprès de r Keî Khosrou, la poitrine et les mains couvertes de !
+Guiv se rendit, semblable à un lion, auprès de Keï Khosrou, la poitrine et les mains couvertes de !
 
 Sang et lui dit :
 
@@ -70,7 +71,7 @@ Kelbad lui dit :
 > â
 parler des hauts faits des braves, mais je n’ai jacr mais vu d’homme aussi ferme que Guiv sous les coups des ennemis et aussi calme dans le tumulte et les vicissitudes d’une bataille.
 >
-> Quand même les massues de nos braves n’auraient été que de cire, et les lances de nos cavaliers que de peau de léor ?
+> Quand même les massues de nos braves n’auraient été que de cire et les lances de nos cavaliers que de peau de léor ?
 >
 > Pard, sa poitrine, ses bras et ses mains auraient dû être broyés.
 >
@@ -86,9 +87,9 @@ Piran éclata contre lui, en s’écriant :
 >
 > Ne pense plus à combattre des braves.
 >
-> Tu es parti avec le glorieux Nestihen et avec une troupe de guerriers qui ressemblaient. à des lions.
+> Tu es parti avec le glorieux Nestihen et avec une troupe de guerriers qui ressemblaient à des lions.
 >
-> Maintenant tu as fait de Guiv un éléphant furieux et tu es perdu d’hon- neur parmi les héros.
+> Maintenant tu as fait de Guiv un éléphant furieux et tu es perdu d’honneur parmi les héros.
 >
 > Si Afrasiab apprend ces nouvelles, il jettera par terre sa couronne impériale, parce que deux braves Pehlewans montés surleun destriers et une armée si vaillante, se sont enfuis devant un seul cavalier, qui a tué un grand nombre d’entre eux.
 >
