@@ -40,14 +40,12 @@ ment ; Ma jeunesse sera pour le peuple un sujet de moquerie, puisque ma haute st
 >
 > Je l’ai cherché pour voir son visage, j’ai sacrifié ma vie à ce désir.
 >
-> Hélas!
+> Hélas !
 ma peine a été inutile, je n’ai pu voir les traits de mon père.
 >
 > Maintenant, dusses-tu devenir un poisrrson dans la mer, te cacher dans les ténèbres comme la nuit, te réfugier dans le ciel comme une étoile, arracher du monde le soleil brillant, mon père ti-œra vengeance de toi, quand il verra qu’une brique est devenue ma (touche.
 >
-> Un de ces grands, un de 
-l3lt
-ces fiers guerriers attestera à Rustem que Sohrab a été tué et jeté par terre comme une chose vile, pendant qu’il était à la recherche de son père.»
+> Un de ces grands, un de l3lt ces fiers guerriers attestera à Rustem que Sohrab a été tué et jeté par terre comme une chose vile, pendant qu’il était à la recherche de son père.»
 
 Rustem l’écouta, sa tête se troubla, le monde devint confus devant ses yeux, son corps faiblit, la force et la vigueur lui manquèrent, il tomba et la raison l’abandonna.
 
@@ -55,11 +53,15 @@ Lorsqu’il eut repris ses sens, il demanda à Sohrab avec des cris de douleur e
 
 > Dis-moi quelles marques tu as de Rustem ?
 >
-> Puisse son nom disparaître d’entre les noms des grandsl car je suis ce Rustem ; que mon nom périsse et que Zal fils de Sam s’asseye pour pleurer ma mort!»
+> Puisse son nom disparaître d’entre les noms des grands !
+>
+> Car je suis ce Rustem ; que mon nom périsse et que Zal fils de Sam s’asseye pour pleurer ma mort !»
 
 Il jetait des cris, son sang bouillonnait, il s’arrachait les cheveux et se lamentait.
 
-Quand Sohrab vit Rustem dans cet état, il se laissa retomber, il perdit le sens ; il s’écria : S’il en est ainsi, si tu es Rustem, tu m’as tué follement et aveuglé par ta mauvaise nature.
+Quand Sohrab vit Rustem dans cet état, il se laissa retomber, il perdit le sens ; il s’écria :
+
+> S’il en est ainsi, si tu es Rustem, tu m’as tué follement et aveuglé par ta mauvaise nature.
 
 Je t’ai voulu amener à la paix de toute manière, mais je n’ai pu trouver en toi un seul mouvement de tendresse.
 
@@ -67,11 +69,15 @@ Maintenant délie ma cuirasse, regarde à nu mon corps brillant.
 
 Lorsque le son des trompettes se fit entendre sous ma porte, ma mère accourut, les deux joues rougies de larmes de sang.
 
-Son cœur se brisait à l’idée de mon départ ; elle m’attacha un onyx au bras et me dit : C’est un souvenir de ton père ; garde-le et pensesy quand le temps de t’en servir sera venu.
+Son cœur se brisait à l’idée de mon départ ; elle m’attacha un onyx au bras et me dit :
 
-Mais je n’ai pu m’en servir que trop tard, car le com- bat a eu lieu et le fils périt devant les yeux de son père.»
+> C’est un souvenir de ton père ; garde-le et pensesy quand le temps de t’en servir sera venu.
+>
+> Mais je n’ai pu m’en servir que trop tard, car le combat a eu lieu et le fils périt devant les yeux de son père.»
 
-Rustem ouvrit l’armure et vit l’onyx ; il déchira sur son corps tous ses vêtements et s’écria : Ô toi que j’ai tué de ma main, toiqui es glorieux en tout pays et chez tous les peuples!»
+Rustem ouvrit l’armure et vit l’onyx ; il déchira sur son corps tous ses vêtements et s’écria :
+
+> Ô toi que j’ai tué de ma main, toiqui es glorieux en tout pays et chez tous les peuples !»
 
 Il poussa des cris, s’arrache les cheveux, se couvrit la tête de poussière et inonda ses joues de larmes.
 
@@ -90,9 +96,9 @@ Ils y trouvèrent deux chevaux debout et couverts de poussière, mais Rustem n�
 Voyant que le héros au corps
 ’éléphant n’était pas à cheval sur le champ de la vengeance, ils crurent qu’il avait été tué et les têtes de tous ces grands se troublèrent.
 
-Ils se hâtèrent d’annoncer à Keî Kaous que le trône du pouvoir avait perdu Rustem.
+Ils se hâtèrent d’annoncer à Keï Kaous que le trône du pouvoir avait perdu Rustem.
 
-Toute l’armée fit entendre des cris, et le monde entier s’émut.
+Toute l’armée fit entendre des cris et le monde entier s’émut.
 
 Kaous fit sonner du clairon et battre les timbales et Thous, le chef de l’armée, vint auprès de lui.
 
@@ -102,9 +108,9 @@ Le roi dit à ses braves :
 
 L3 d’Iran, si cette nouvelle était vraie.
 
-Qui d’entre les Ira- niens oserait se présenter devant Sohrab si Rustem était mort ?
+Qui d’entre les Iraniens oserait se présenter devant Sohrab si Rustem était mort ?
 
-Il faudrait alors, en masse, frapper un grand coup. et ne jamais plus reparaître sur ce champ de bataillent Lorsqu’on entendit le bruit qui s’élevait du camp, Sohrab dit à Rustem :
+Il faudrait alors, en masse, frapper un grand coup et ne jamais plus reparaître sur ce champ de bataillent Lorsqu’on entendit le bruit qui s’élevait du camp, Sohrab dit à Rustem :
 
 > Maintenant que ma vie s’en va, le sort des Turcs change ; prouve-moi la tendresse en empêchant le roi de mener contre eux son armée, car ce n’est que leur confiance en moi qui les a excités à porter la guerre sur les frontières de l’Iran.
 >
@@ -138,7 +144,7 @@ au Créateur de ce que Rustem était revenu vivant du combat ; mais quand ils vi
 
 Il leur parla de la chose terrible qu’il avait faite et du noble fils qu’il avait tué.
 
-Tous poussèrent des cris avec lui, et la raison abandonna de nouveau le Sipehdar.
+Tous poussèrent des cris avec lui et la raison abandonna de nouveau le Sipehdar.
 
 Il dit aux grands :
 
@@ -150,20 +156,26 @@ Zewareh s’approcha de Rustem, ses vêtements pendaient en lambeaux sur son cor
 
 Quand Rustem vit son frère dans cet état, il lui répéta tout.
 
-Ce que lui avait dit le fils qu’il avait frappé, en ajoutant : Je me repens de ce que j’ai fait et une punition sans mesure m’attend.
+Ce que lui avait dit le fils qu’il avait frappé, en ajoutant :
 
-Moi vieillard j’ai tué mon enfant ; j’ai détruit, tronc et racine, cet enfant illustre.
+> Je me repens de ce que j’ai fait et une punition sans mesure m’attend.
+>
+> Moi vieillard j’ai tué mon enfant ; j’ai détruit, tronc et racine, cet enfant illustre.
+>
+> J’ai déchiré la poitrine de mon enfant et le ciel le pleurera éternellement.»
 
-J’ai déchiré la poitrine de mon enfant et le ciel le pleurera éternellement.»
+Puis, il envoya à Houman ce message :
 
-Puis, il envoya à Houman ce message : L’épée de la vengeance doit rester dans le fourreau.
-
-Tu es maintenant le chef de cette armée, aie soin de sa sûreté et ne t’endors pas.
-
-Quant à moi, je ne veux pas te combattre, mais dorénavant je ne veux plus te parler ; car tu as caché à Sohrab la vérité, parce que
+> L’épée de la vengeance doit rester dans le fourreau.
+>
+> Tu es maintenant le chef de cette armée, aie soin de sa sûreté et ne t’endors pas.
+>
+> Quant à moi, je ne veux pas te combattre, mais dorénavant je ne veux plus te parler ; car tu as caché à Sohrab la vérité, parce que
 ’ tu as une mauvaise nature ; tu as brûlé avec du feu mon âme et mes yeux.»
 
-Le Pehlewan dit alors à son frère : Ô guerrier illustre à l’âme brillantel accompagne Houman jusqu’au bord du fleuve (Oxus) et ne force personne à se hâter.»
+Le Pehlewan dit alors à son frère :
+
+> Ô guerrier illustre à l’âme brillantel accompagne Houman jusqu’au bord du fleuve (Oxus) et ne force personne à se hâter.»
 
 Zewareh partit sur-le-champ et porta à Houman les paroles du Pehlewan.
 
@@ -181,7 +193,7 @@ Rustem devint furieux à ces paroles, le monde s’obscurcit devant ses yeux ; i
 
 Les grands descendirent de cheval pour demander sa grâce et arrachèrent Iledjir des portes de la mort.
 
-Quelque temps s’étant passé ainsi, Rustem se rendit auprès de son fils, l’âme déchirée;tous les grands , comme Thous, Gouderz et Kustehem, l’accompagnèrent ; tous les braves élevèrent la voix en priant Dieu pour le noble Rustem, le priant de guérir cette douleur, de l’aider à supporter cette angoisse.
+Quelque temps s’étant passé ainsi, Rustem se rendit auprès de son fils, l’âme déchirée;tous les grands, comme Thous, Gouderz et Kustehem, l’accompagnèrent ; tous les braves élevèrent la voix en priant Dieu pour le noble Rustem, le priant de guérir cette douleur, de l’aider à supporter cette angoisse.
 
 Bus,-tem saisit un poignard pour séparer de son corps sa vile tête ; les grands se jetèrent sur lui, le sang coulant des cils de leurs yeux et Gouderz lui dit :
 
@@ -189,13 +201,11 @@ Bus,-tem saisit un poignard pour séparer de son corps sa vile tête ; les grand
 >
 > Quand tu te ferais cent blessures, quel soulagement en reviendrait-il à ton noble fils ?
 >
-> S’il a encore quelque temps à vivre sur la terre, il vivra, et tu dois vivre avec lui ; et si cet enfant doit quitter le monde, songe que rien n’est éternel sur la terre.
+> S’il a encore quelque temps à vivre sur la terre, il vivra et tu dois vivre avec lui ; et si cet enfant doit quitter le monde, songe que rien n’est éternel sur la terre.
 >
 > Nous sommes tous la proie de la mort, que notre tête soit ornée d’un diadème ou couverte d’un casque.
 >
-> Quand le temps est venu, il faut mourir ; et ce qui se’ra après la vie, nous ne le savons 
-no
-pas.
+> Quand le temps est venu, il faut mourir ; et ce qui se’ra après la vie, nous ne le savons no pas.
 >
 > Qui donc, ô Sipehdar, est exempt du souci de la mort ?
 >
