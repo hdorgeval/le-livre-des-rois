@@ -15,15 +15,17 @@ order: '114'
 
 Piran appela des pâtres des montagnes de Kala et leur parla longuement de cet enfant ; il leur confia les délices de ses yeux et de son cœur, ce bel enfant qui avait trouvé grâce devant lui, disant :
 
-> Traitez-le tendrement comme s’il était votre âme et préser- vez-le du vent et de la poussière.
+> Traitez-le tendrement comme s’il était votre âme et préser-vez-le du vent et de la poussière.
 >
 > Ayez soin que ses jours ne courent pas de danger, quand même il faudraity sacrifier tout ce qui vous est cher.»
 
-Ils répondirent d’une commune voix : Nous t’obéirons et ne nous écarterons jamais de tes ordres.»
+Ils répondirent d’une commune voix :
+
+> Nous t’obéirons et ne nous écarterons jamais de tes ordres.»
 
 Alors Piran gratifia les pâtres de riches présents et les lit KEl nous. accompagner par une nourrice.
 
-Ils portèrent le doigt, en signe d’obéissance, à leurs yeux et à leur tête, et emportèrent dans la montagne l’enfant royal.
+Ils portèrent le doigt, en signe d’obéissance, à leurs yeux et à leur tête et emportèrent dans la montagne l’enfant royal.
 
 C’est ainsi que le ciel tourna quelque temps et Piran ne révéla son secret à personne.
 
@@ -58,13 +60,13 @@ Le prince se mit à courir comme le vent ; il arriva en bondissant et baisa la m
 
 Le Sipehbed admira sa mine royale et sa beauté ; ses joues furent mouillées de larmes et son cœur se remplit de tendresse.
 
-Il pressa longtemps Keî Khosrou contre sa poitrine en priant Dieu pour lui en silence.
+Il pressa longtemps Keï Khosrou contre sa poitrine en priant Dieu pour lui en silence.
 
 À la fin il lui dit :
 
 > Ô toi dont la foi est pure, puisses-tu faire le bonheur du mondel car quiconque te connaîtra ne voudra te donner d’autre nom que celui d’ami.»
 
-Keî Khosrou lui répondit :
+Keï Khosrou lui répondit :
 
 > Ô toi qui portes haut la tête !
 >
@@ -77,7 +79,7 @@ Le sage Piran eut le cœur enflammé d’amour pour lui et sa joue brûlait comm
 
 > Ô héritier des rois, digne de posséder le monde ; et privé de sa possession !
 >
-> Aucun pâtre n’est de ta pa- renté et j’ai beaucoup à te raconter sur ton origine.»
+> Aucun pâtre n’est de ta parenté et j’ai beaucoup à te raconter sur ton origine.»
 
 Il fit donner au jeune homme un cheval de parade et des vêtements dignes d’un roi et le ramena dans son palais, l’âme remplie d’amertume au souvenir de Siawusch.
 
