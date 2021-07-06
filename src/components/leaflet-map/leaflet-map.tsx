@@ -1,4 +1,4 @@
-import { AllGeoJsonFilesResponse } from '../../graphql';
+import { AllGeoJsonFilesResponse, GeoDataFeature } from '../../graphql';
 import { graphql, useStaticQuery } from 'gatsby';
 import React from 'react';
 import { MapContainer, TileLayer, GeoJSON } from 'react-leaflet';
@@ -114,6 +114,12 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
                     type
                   }
                   type
+                  properties {
+                    name {
+                      ar
+                      fr
+                    }
+                  }
                 }
                 type
               }
@@ -181,6 +187,14 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
     setLayersType('Terrain');
   }, [layersType]);
 
+  const onEachFeature = (feature: GeoDataFeature, layer: L.Layer) => {
+    const name = feature?.properties?.name?.fr;
+    if (name) {
+      const popupContent = name;
+      layer.bindPopup(popupContent);
+    }
+  };
+
   if (!geoData) {
     return null;
   }
@@ -202,7 +216,7 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
           scrollWheelZoom={false}
         >
           <TileLayers layersType={layersType} />
-          <GeoJSON data={geoData} />
+          <GeoJSON data={geoData} onEachFeature={onEachFeature} />
         </MapContainer>
       </div>
       <div
