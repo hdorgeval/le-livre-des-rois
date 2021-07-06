@@ -13,11 +13,11 @@ order: '054'
 
 # Retour de Rustem dans le Zaboulistan
 
-Le roi partit de là avec son armée et marcha vers I’Iran ; mais Rustem demeura, attendant que Zewareh fût de retour et lui apportât des nouvelles de l’armée du Touran.
+Le roi partit de là avec son armée et marcha vers l’Iran ; mais Rustem demeura, attendant que Zewareh fût de retour et lui apportât des nouvelles de l’armée du Touran.
 
 Zewareh revint quelques jours après de grand matin et Rustem se mit sur-le-champ en route avec son armée ; il se dirigea vers le Zaboulistan et lorsque Zal eut nouvelle de son approche, tout le Seistan s’avança vers Rustem et se porta à sa rencontre, accablé de douleur et de peine.
 
-L’armée marchait devant le cercueil, les grands avaient répandu de la poussière sur leurs têtes ; ils avaient coupé la queue à leurs nobles chevaux noirs, et fêlé toutes les cymbales et les trompettes d’airain.
+L’armée marchait devant le cercueil, les grands avaient répandu de la poussière sur leurs têtes ; ils avaient coupé la queue à leurs nobles chevaux noirs et fêlé toutes les cymbales et les trompettes d’airain.
 
 Lorsque le Destan fils de Sam vit le cercueil, il descendit de son cheval à bride d’or.
 
@@ -35,9 +35,11 @@ Rustem souleva, devant son père, le couvercle du cercueil que fermaient des clo
 
 Le Destan versa de ses deux yeux des larmes de sang et invoqua, dans son angoisse, Dieu le guide.
 
-Rus- M7 tem dit : Ô enfant illustre !
+Rus-M7 tem dit :
 
-Tu es mort et je suis resté dans la tristesse et dans la douleur.»
+> Ô enfant illustre !
+>
+> Tu es mort et je suis resté dans la tristesse et dans la douleur.»
 
 Zal lui dit :
 
@@ -49,9 +51,11 @@ Il dit et les cils de ses yeux se remplirent de larmes de sang ; il ne cessait d
 
 Rustem entra dans son palais en poussant des cris et plaça le cercueil devant lui.
 
-Quand Roudabeh vit le cercueil de Sohrab et Rustem qui versait de ses deux yeux des torrents de sang, elle dit tristement : Ô noble héros !
+Quand Roudabeh vit le cercueil de Sohrab et Rustem qui versait de ses deux yeux des torrents de sang, elle dit tristement :
 
-Lève pour un instant la tête hors de ce cercueil!»
+> Ô noble héros !
+>
+> Lève pour un instant la tête hors de ce cercueil !»
 
 Elle commença alors à se lamenter et à exhaler de sa poitrine des soupirs froids, disant :
 
@@ -85,13 +89,15 @@ Rustem le couvrit de nouveau de brocart jaune et ferma le couvercle de ce cercue
 
 Il lui bâtit alors un tombeau voûté comme le sabot d’un cheval et les larmes du deuil rendirent aveugle le monde.
 
-Il creusa des blocs de bois d’aloès, en fit son cercueil et le ferma avec des clous d’or. v Le monde entier fut rempli de la nouvelle que le Pehlewan avait tué son fils ; le monde entier fut 1&9 consterné et quiconque entendit ce récit fut en proie à la tristesse.
+Il creusa des blocs de bois d’aloès, en fit son cercueil et le ferma avec des clous d’or.»
+
+Le monde entier fut rempli de la nouvelle que le Pehlewan avait tué son fils ; le monde entier fut 1&9 consterné et quiconque entendit ce récit fut en proie à la tristesse.
 
 Rustem passa ainsi quelque temps, pendant lequel aucune joie n’entra dans son cœur ; à la fin il se résigna, car il vit qu’il ne lui restait pas d’autre parti à prendre.
 
 Le monde garde le souvenir de maint événement pareil, car le sort a répandu beaucoup de douleur dans l’âme de chacun.
 
-Quel est l’homme de sens et de raison qui pourrait endurer les perfidies du sort?
+Quel est l’homme de sens et de raison qui pourrait endurer les perfidies du sort ?
 
 Quandles Iraniens surent ce qui s’était passé, le feu de la douleur s’alluma dans leurs âmes.
 
