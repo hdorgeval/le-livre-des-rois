@@ -25,64 +25,70 @@ Il se jeta à bas de son cheval rapidement comme le vent, ôta son casque et se 
 
 Les grands de l’armée tous ensemble jetaient des cris, pleuraient et se lamentaient.
 
-Rustem dit : Hélas!
+Rustem dit :
+
+> Hélas !
 ô mon enfant plein de bravoure, qui portais haut la tête, qui étais issu de la race des Pehlewans !
-
-Ni le soleil et la lune, ni la cuirasse et le trône, ni la couronne et le casque ne verront plus un homme tel que toi.
-
-À qui arriva-t-il jamais ce qui m’arrive, à moi qui dans ma vieillesse ai tué mon enfant, un enfant qui était petit-fils de Sam le cavalier, et, du côté de sa mère, issu de race royale ?
-
-Il n’y a pas dans le monde un brave comme moi ; et pourtant, devant lui, je n’étais qu’un enfant en bravoure.
-
-On devrait me couper les deux mains ; je ne devrais plus m’asseoir que dans la poussière noire.
-
-Que dirai-je quand sa mère le saura ?
-
-Comment oserai-je lui envoyer un messager ?
-
-Pourrai-je dire pourquoi j’ai tué cet innocent, pourquoi je l’ai privé de la lumière du jour ?
-
-Est-ce que jamais père a fait chose pareille ?
-
-L’ai mérité qu’on parle de moi avec horreur.
-
-Qui dans le monde a tué son fils, brave, jeune et plein de sagesse ?
-
-Et le père de sa mère, l’orgueilleux Pehlewan, que dira-t-il à sa fille jeune et pure ?
-
-Il maudira la race de Sam ; il m’appellera mécréant.
-
-Mais qui aurait pu penser que ce noble enfant, malgré sa jeunesse, avait atteint la taille d’un haut cyprès, qu’il avait tourné ses pensées vers la guerre et préparé une armée, et que c’était lui qui rendait noir pour moi le jour brillant?»
+>
+> Ni le soleil et la lune, ni la cuirasse et le trône, ni la couronne et le casque ne verront plus un homme tel que toi.
+>
+> À qui arriva-t-il jamais ce qui m’arrive, à moi qui dans ma vieillesse ai tué mon enfant, un enfant qui était petit-fils de Sam le cavalier, et, du côté de sa mère, issu de race royale ?
+>
+> Il n’y a pas dans le monde un brave comme moi ; et pourtant, devant lui, je n’étais qu’un enfant en bravoure.
+>
+> On devrait me couper les deux mains ; je ne devrais plus m’asseoir que dans la poussière noire.
+>
+> Que dirai-je quand sa mère le saura ?
+>
+> Comment oserai-je lui envoyer un messager ?
+>
+> Pourrai-je dire pourquoi j’ai tué cet innocent, pourquoi je l’ai privé de la lumière du jour ?
+>
+> Est-ce que jamais père a fait chose pareille ?
+>
+> L’ai mérité qu’on parle de moi avec horreur.
+>
+> Qui dans le monde a tué son fils, brave, jeune et plein de sagesse ?
+>
+> Et le père de sa mère, l’orgueilleux Pehlewan, que dira-t-il à sa fille jeune et pure ?
+>
+> Il maudira la race de Sam ; il m’appellera mécréant.
+>
+> Mais qui aurait pu penser que ce noble enfant, malgré sa jeunesse, avait atteint la taille d’un haut cyprès, qu’il avait tourné ses pensées vers la guerre et préparé une armée et que c’était lui qui rendait noir pour moi le jour brillant?»
 
 Il ordonna qu’on couvrît de brocart digne d’un roi le corps de cet enfant, qui avait eu envie d’un trône et d’un empire et qui n’avait trouvé qu’une bière étroite.
 
-Il fit emporter de la plaine le cercueil, et se dirigea vers ses tentes.
+Il fit emporter de la plaine le cercueil et se dirigea vers ses tentes.
 
 On mit le feu au camp et toute l’armée se couvrit la tête de poussière.
 
 Il fit jeter dans le feu toutes ses tentes de brocart de sept couleurs et sa selle couverte de peau de léopard, qui avait formé son noble trône.
 
-Il s’éleva un cri comme le tonnerre et le héros maître du monde fit entendre des lamentations : Le monde ne verra plus jamais un cavalier comme toi, si brave, si coura- geux au jour du combat.
+Il s’éleva un cri comme le tonnerre et le héros maître du monde fit entendre des lamentations :
 
-Hélas tant de valeur et tant de sagesse !
-
-Hélas ces joues et cette taille élancée !
-
-Hélas cette douleur qui déchire l’âme !
-
-Tu es mort loin de ta mère et le cœur percé par ton père.»
+> Le monde ne verra plus jamais un cavalier comme toi, si brave, si courageux au jour du combat.
+>
+> Hélas tant de valeur et tant de sagesse !
+>
+> Hélas ces joues et cette taille élancée !
+>
+> Hélas cette douleur qui déchire l’âme !
+>
+> Tu es mort loin de ta mère et le cœur percé par ton père.»
 
 Einstein versa des larmes de sang, il creusa la terre avec ses ongles et déchira sur son corps ses vêtements royaux, en s’écriant :
 
 > Zal et la vertueuse Roudabeh m’accuseront, en disant :
 
 > Comment Rustem a-t-il pu trouver une main pour frapper son fils, pour lui fendre la poitrine avec son poignard ?
+>
+> Quelle excuse trouverai-je pour mon crime ?
+>
+> Comment adoucirai-je leurs cœurs par mes paroles ?
+>
+> Que diront les braves et les grands quand ils connaî-tront mon crime, quand ils sauront que j’ai arraché du jardin le cyprès élancé ?»
 
-Quelle excuse trouverai-je pour mon crime ?
-
-Com- ment adoucirai-je leurs cœurs par mes paroles ?
-
-Que diront les braves et les grands quand ils connaî- tront mon crime, quand ils sauront que j’ai arraché du jardin le cyprès élancé?n Tous les Pehlewans du roi Kaous s’assirent avec Rustem dans la poussière de la route ; les lèvres des grands étaient prodigues de conseils, mais la douleur de Rustem s’y refusait.
+Tous les Pehlewans du roi Kaous s’assirent avec Rustem dans la poussière de la route ; les lèvres des grands étaient prodigues de conseils, mais la douleur de Rustem s’y refusait.
 
 C’est ainsi qu’agit le ciel sublime.
 
@@ -94,9 +100,11 @@ Pourquoi tant de chagrins au sujet de cette vie, puisqu’il faut marcher vers l
 
 Que le ciel sache ce qu’il fait, ou qu’il agisse sans le savoir, sois sûr que personne ne peut pénétrer le secret de ses mouvements et qu’il n’y a aucune voie pour apprendre comment et pourquoi il fait ce qu’il fait.
 
-Ainsi ne déplorons pas cette nécessité de mourir, car ne savons-nous pas quelle doit être la fin de tout cela?
+Ainsi ne déplorons pas cette nécessité de mourir, car ne savons-nous pas quelle doit être la fin de tout cela ?
 
-Lorsque Kaous eut appris la mort de Sohrab, il l se rendit auprès de Rustem avec un cortège et lui dit :
+Lorsque Kaous eut appris la mort de Sohrab, il !
+
+Se rendit auprès de Rustem avec un cortège et lui dit :
 
 > Tout, depuis le mont Alhorz jusqu’à l’eau qui nourrit le roseau, tout est emporté par la rotation du ciel ; il ne faut donc pas tourner ses affections vers la terre.
 >
@@ -116,7 +124,7 @@ Lorsque Kaous eut appris la mort de Sohrab, il l se rendit auprès de Rustem ave
 
 Rustem répondit :
 
-> Il est mort ; mais Houman reste sur la large plaine, et avec lui les chefs du Touran et quelques-uns de la Chine.
+> Il est mort ; mais Houman reste sur la large plaine et avec lui les chefs du Touran et quelques-uns de la Chine.
 >
 > Ne pense pas à les combattre.
 >
