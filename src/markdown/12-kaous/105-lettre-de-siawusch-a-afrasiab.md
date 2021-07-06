@@ -25,7 +25,7 @@ Il commença par glorifier Dieu le créateur, qui soulage les peines de ses serv
 >
 > Puisses-tu être environné de sages !
 >
-> Tu as aussi appelé F erenguis, ce qui a rempli son cœur de tendresse et du désir de t’obéir ; mais elle est souffrante en ce moment, ses lèvres ne prennent point de nourriture. et son corps ne peut se mouvoir.
+> Tu as aussi appelé Ferenguis, ce qui a rempli son cœur de tendresse et du désir de t’obéir ; mais elle est souffrante en ce moment, ses lèvres ne prennent point de nourriture et son corps ne peut se mouvoir.
 >
 > Elle est couchée et me tient enchaîné au chevet de son lit, car je la vois suspendue entre les deux mondes.
 >
@@ -51,7 +51,7 @@ Guersiwez répondit :
 
 > Quand la fortune devient mauvaise, ce n’est plus le temps de se reposer.
 >
-> Siawusch n’a fait aucune attention à moi, il n’est pas venu au-devant de moi sur la route, il n’a voulu rien écouter ni lire ta lettre, il m’a assigné la dernière place devant son trône. lI venait de recevoir une lettre de l’Iran et la porte de sa ville est res- tée fermée pour nous.
+> Siawusch n’a fait aucune attention à moi, il n’est pas venu au-devant de moi sur la route, il n’a voulu rien écouter ni lire ta lettre, il m’a assigné la dernière place devant son trône. lI venait de recevoir une lettre de l’Iran et la porte de sa ville est restée fermée pour nous.
 >
 > Une armée du pays de Roum et une autre de la Chine peuvent dans un instant remplir le monde de troubles.
 >
