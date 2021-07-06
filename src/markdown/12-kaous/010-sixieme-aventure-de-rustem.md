@@ -19,7 +19,9 @@ Le Div Arzeng se précipita de sa tente lorsque ce cri frappa ses oreilles et Ru
 
 Lorsque les Divs virent sa massue de fer, leurs cœurs se fendirent par la peur qu’ils
 
-Eurent de ses griffes et il : s’enfuirent sans faire attention au terrain, ni aux plaines, ni aux endroits rocailleux ; et les pères renversaient les fils pour fuir plus vite.
+Eurent de ses griffes et il :
+
+> s’enfuirent sans faire attention au terrain, ni aux plaines, ni aux endroits rocailleux ; et les pères renversaient les fils pour fuir plus vite.
 
 Rustem tira l’épée de la vengeance et extermina cette foule de Divs ; et lorsque le soleil qui illumine le monde descendit vers l’horizon, il s’en retourna en toute hâte vers le mont Asprous.
 
@@ -38,9 +40,11 @@ vais jours sont finis ; mes oreilles ont été frappées de la voix de Raksch et
 >
 > C’est ainsi qu’il hennissait du temps de Kobad, quand il attaqua le roi des Turcs.»
 
-Les Iraniens se dirent : Ces lourdes chaînes ont fait perdre la tête au roi Kaous ; la raison, le sens et l’intelligence l’ont quitté : tu dirais qu’il parle en rêvant.
+Les Iraniens se dirent :
 
-Il n’y a point de secours pour nous dans cette dure captivité et la fortune nous a abandonnés entièrement.»
+> Ces lourdes chaînes ont fait perdre la tête au roi Kaous ; la raison, le sens et l’intelligence l’ont quitté : tu dirais qu’il parle en rêvant.
+>
+> Il n’y a point de secours pour nous dans cette dure captivité et la fortune nous a abandonnés entièrement.»
 
 Au même instant, le
 
@@ -66,9 +70,7 @@ Puisses-tu le vaincre !
 
 Car il est le chef et le soutien de ses troupes.
 
-La vue de 
-au
-mes compagnons est affaiblie par l’effet des chagrins et la mienne est trouble et obscurcie.
+La vue de au mes compagnons est affaiblie par l’effet des chagrins et la mienne est trouble et obscurcie.
 
 Les médecins qui ont vu mes yeux me donnent l’espoir de guérir par le moyen du sang du cœur et de la cervelle du Div blanc.
 
