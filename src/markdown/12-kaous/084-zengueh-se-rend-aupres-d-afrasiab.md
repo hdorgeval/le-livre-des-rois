@@ -27,7 +27,7 @@ I et ordonna qu’on le traitât selon son rang ; ensuite il fit appeler en tout
 
 Lorsque Piran fut entré, le roi renvoya toute sa cour et parla à cet illustre seigneur de Kaous, de ses emportements, de son mauvais naturel et du désir qu’il avait de continuer la guerre.
 
-Il KEÏ nous. en parla et ses traits s’assombrirent, son cœur se remplit de pitié pour Siawusch ; il lui raconta l’arrivée de Zengueh fils de Schaweran et tout ce qui s’était passé depuis le commencement jusqu’à la fin, et lui demanda :
+Il KEÏ nous. en parla et ses traits s’assombrirent, son cœur se remplit de pitié pour Siawusch ; il lui raconta l’arrivée de Zengueh fils de Schaweran et tout ce qui s’était passé depuis le commencement jusqu’à la fin et lui demanda :
 
 > Quel remède apporter à ce, mal ?
 >
@@ -39,7 +39,9 @@ Piran répondit :
 >
 > Tu connais mieux que nous toute chose, tu es plus puissant que nous par tes trésors et par ta bravoure.
 >
-> Voici mon opinion, mon avis, mon désir et mon conseil, ô roi qui éclaires mes idéesl Quiconque a le pouvoir de faire le bien ouvertement ou en secret, ne peut se refuser à aider ce fils de roi de ses trésors et à l’enlourer de ses soins aussi longtemps qu’il voudra rester auprès de lui.
+> Voici mon opinion, mon avis, mon désir et mon conseil, ô roi qui éclaires mes idées !
+>
+> Quiconque a le pouvoir de faire le bien ouvertement ou en secret, ne peut se refuser à aider ce fils de roi de ses trésors et à l’enlourer de ses soins aussi longtemps qu’il voudra rester auprès de lui.
 >
 > J’ai ouï dire qu’en stature et en beauté, en douceur et en prudence, en raison et en conduite, il n’a pas son égal parmi les grands de la terre.
 >
@@ -48,13 +50,13 @@ Piran répondit :
 > Mais nous allons le voir, ce qui vaut mieux que d’en entendre parler.
 >
 > C’est un noble prince et un fils de roi ; et n’eût-il d’autre mérite que d’avoir rompu avec son père pour sauver cent nobles, d’avoir renoncé pour cela au trône et à la couronne et de s’être ainsi réduità te demander le passage par tes États, il fau-drait en faire un grand de ce royaume ; car il est .
-avide de montrer sa bravoure et les sages ne l’ap- prouveraient pas, ô roi, si tu le laissais passer dans un autre pays.
+avide de montrer sa bravoure et les sages ne l’approuveraient pas, ô roi, si tu le laissais passer dans un autre pays.
 >
 > Kaous d’ailleurs est vieux et le temps approche où il laissera le trône vacant ; mais Siavvusch est jeune et illustre et le pouvoir et le trône de la royauté lui appartiendront.
 >
 > Si tu le repousser, les grands te blâmeront et tu l’indisposeras contre toi.
 >
-> Si le roi, dans sa sagesse. approuvait mon avis, il écrirait une lettre mûrement réfléchie, il recevrait ce jeune homme plein d’intelligence comme on reçoit un fils. il lui préparerait une résidence dans ce pays et le traiterait selon son rang et son mérite, il lui donnerait une des filles qu’il a dans l’appartement de ses femmes et l’entourerait de prévenances et d’honneurs : car si Siawusch restait auprès de toi, il ferait de ton pays le séjour de la paix ; et s’il retournait auprès du roi de l’Iran, ta fortune ne pourrait que s’en accroître ; car il se- rait ton défenseur auprès de Kaous et les puissants de la terre lui rendraient hommage.
+> Si le roi, dans sa sagesse. approuvait mon avis, il écrirait une lettre mûrement réfléchie, il recevrait ce jeune homme plein d’intelligence comme on reçoit un fils. il lui préparerait une résidence dans ce pays et le traiterait selon son rang et son mérite, il lui donnerait une des filles qu’il a dans l’appartement de ses femmes et l’entourerait de prévenances et d’honneurs : car si Siawusch restait auprès de toi, il ferait de ton pays le séjour de la paix ; et s’il retournait auprès du roi de l’Iran, ta fortune ne pourrait que s’en accroître ; car il serait ton défenseur auprès de Kaous et les puissants de la terre lui rendraient hommage.
 >
 > Si Dieu amène chez nous Siawusch, nous pourrons espérer qu’il calmera la haine des deux pays ; il serait digne de la justice du Créateur de rétablir ainsi le bonheur sur la terre.»
 
@@ -64,7 +66,11 @@ Le roi écouta le discours de Piran ; il envisagea tout l’avenir ; il réfléc
 
 > J’approuve tout ce que tu m’as dit et parmi l’élite des grands pleins d’expérience. il n’y en a aucun qui te soit comparable.
 >
-> Et pourtant j’ai entendu la parole d’un sage, qui peut s’appliquer au conseil que tu me donnes : Si tu élèves un lionceau, dit-il, tu t’en repentiras : aussitôt que ses dents seront devenues aiguës, aussitôt qu’il aura des ongles et la force de bondir, il se jettera sur son père nourricier.»
+> Et pourtant j’ai entendu la parole d’un sage, qui peut s’appliquer au conseil que tu me donnes :
+
+> Si tu élèves un lionceau, dit-il, tu t’en repentiras :
+
+> aussitôt que ses dents seront devenues aiguës, aussitôt qu’il aura des ongles et la force de bondir, il se jettera sur son père nourricier.»
 
 Piran lui dit :
 
