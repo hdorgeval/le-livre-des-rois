@@ -19,7 +19,7 @@ Elle passa la mer sur des navires et des barques, puis se dirigea de la mer vers
 
 Lorsqu’elle toucha le sol de l’Iran, il se réd pandit dans le monde la nouvelle que le haut cyprès avait disparu du mont Alborz et que le trône du roi des rois était vide.
 
-Quand on ne vit plus de roi sur le trône d’or, chacun voulut s’emparer de la couronne ; du pays des Turcs et du désert des guerriers armés de lances arrivèrent de tous côtés de nombreuses armées ; Afrasiab prépara un grand armement et oublia la faim, le repos et le sommeil ; de tous côtés s’éleva dans l’Iran le bruit des armes, et le monde, naguère si heureux, se remplit de combats et d’agitation.
+Quand on ne vit plus de roi sur le trône d’or, chacun voulut s’emparer de la couronne ; du pays des Turcs et du désert des guerriers armés de lances arrivèrent de tous côtés de nombreuses armées ; Afrasiab prépara un grand armement et oublia la faim, le repos et le sommeil ; de tous côtés s’éleva dans l’Iran le bruit des armes et le monde, naguère si heureux, se remplit de combats et d’agitation.
 
 Afrasiab se jeta en toute hâte sur l’armée des Arabes ; trois mois dura le combat des braves et ils exposèrent leurs têtes dans le désir d’acquérir la couronne.
 
@@ -33,11 +33,11 @@ Telle est la condition de ce monde passager ; chacun s’y attire des peines et 
 
 L’armée du Touran s’empara de tout l’Iran et le monde devint noir pour les Iraniens.
 
-Une grande foule de peuple partit pour le Zaboulislan et se reno dit auprès du fils de Zal pour l’implorer, en disant :
+Une grande foule de peuple partit pour le Zaboulistan et se reno dit auprès du fils de Zal pour l’implorer, en disant :
 
-> Sois notre asile contre le malheur, puisque la 3 
-ltfi
-gloire de Kaous a disparulwlls se dirent entre eux : L’infortune est tombée sur nous et notre sort est I devenu dur.
+> Sois notre asile contre le malheur, puisque la 3 ltfi gloire de Kaous a disparulwlls se dirent entre eux :
+
+> L’infortune est tombée sur nous et notre sort est I devenu dur.
 >
 > Hélas !
 >
@@ -53,10 +53,12 @@ Un Mobed partit et parcourut le chemin jusqu’à la demeure du fils de Destan, 
 
 Il raconta ce qu’il avait vu et entendu et Rustem au cœur de lion tressaillit, ses yeux versèrent des larmes de fiel, son cœur trembla de colère et son âme fut remplie de douleur ; il répondit :
 
-> Nous sommes prêts pour le combat, moi et mon armée ; nous désirons la vengeance ; et quand j’aurai des nouvelles de Kaous, j’irai délivrer des Tarcs le pays d’Iranm Il envoya de tous côtés dans les provinces et partout parurent des armées ; du Zaboulistan, de Kaboul et de l’Inde toutes les troupes accoururent auprès du.
+> Nous sommes prêts pour le combat, moi et mon armée ; nous désirons la vengeance ; et quand j’aurai des nouvelles de Kaous, j’irai délivrer des Tarcs le pays d’Iran»
+
+Il envoya de tous côtés dans les provinces et partout parurent des armées ; du Zaboulistan, de Kaboul et de l’Inde toutes les troupes accoururent auprès du.
 >
 > Pehlewan ; le son des clairons et des clochettes indiennes s’éleva et l’armée remplit de bruit les plaines immenses.
 >
-> Le cœur de Rustem s’élança comme l ?
+> Le cœur de Rustem s’élança comme ! ?
 >
 > S’élance la flamme et il fit avancer son armée semblable à l’ouragan.
