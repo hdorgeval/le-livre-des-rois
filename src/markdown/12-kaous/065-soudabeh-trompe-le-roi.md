@@ -17,7 +17,9 @@ Soudabeh déchira soudain tous ses vêtements, elle ensanglanta ses joues avec s
 
 La nouvelle parvint aux oreilles du roi ; il descendit de son trône impérial ; il quitta, plein de soupçons, son trône d’or et courut vers l’appartement de ses femmes.
 
-Il y arriva et voyant le visage de Soudabeh tout déchiré et le palais plein de tumulte, il fit des questions à tous cette : qu’il vit ; son cœur étaitserré, mais il ne se doutait pas de ce qu’avait fait cette femme au coeur de pierre.
+Il y arriva et voyant le visage de Soudabeh tout déchiré et le palais plein de tumulte, il fit des questions à tous cette :
+
+> qu’il vit ; son cœur étaitserré, mais il ne se doutait pas de ce qu’avait fait cette femme au coeur de pierre.
 
 Soudabeh vint à lui, poussant des cris, versant des larmes de sang, arrachant ses cheveux et s’écriant :
 
@@ -31,13 +33,13 @@ Soudabeh vint à lui, poussant des cris, versant des larmes de sang, arrachant s
 >
 > Il a fait tomber le diadème de ma’ tête aux cheveux de musc et tu vois comment il a déchiré ma robe sur mon sein.»
 
-Le roi devint pensif à ce récit et adressa à Soudabeh des questions de tonte espèce.
+Le roi devint pensif à ce récit et adressa à Soudabeh des questions de toute espèce.
 
 Il dit en son
 
 âme :
 
-> Si elle dit vrai, si elle ne cherche pas à le calomnier, il faudra que je tranche la tête à Sia- wusch ; c’est ainsi que je romprai le sort que la méchanceté a jeté sur moi.»
+> Si elle dit vrai, si elle ne cherche pas à le calomnier, il faudra que je tranche la tête à Siawusch ; c’est ainsi que je romprai le sort que la méchanceté a jeté sur moi.»
 
 Le sage dira maintenant que le doux courant de cette histoire va se changer en sang.
 
@@ -75,17 +77,19 @@ Soudabeh répliqua :
 >
 > Je porte, ô roi, dans mon sein un enfant de toi ; mais Siawusch a manqué de le tuer, tant il m’a maltraitée et le monde est devenu étroit et sombre devant mes yeux.»
 
-Le roi dit en lui-même : Leurs paroles ne me permettent pas de décider.
+Le roi dit en lui-même :
 
-Il ne faut pas que je me hâte en cette affaire, car l’angoisse du cœur confond le jugement.
-
-Il faut d’abord que j’examine, et mon cœur prononcera quand le calme y sera rentré ; je verrai qui des deux est criminel et digne des scorpions de la punition.»
+> Leurs paroles ne me permettent pas de décider.
+>
+> Il ne faut pas que je me hâte en cette affaire, car l’angoisse du cœur confond le jugement.
+>
+> Il faut d’abord que j’examine et mon cœur prononcera quand le calme y sera rentré ; je verrai qui des deux est criminel et digne des scorpions de la punition.»
 
 Il chercha alors un moyen de reconnaître la vérité et commença par sentir les mains de Siawusch ; il flaira sa poitrine et son visage et de la tête aux pieds il flaira tout son corps.
 
 Kaous trouva sur Soudabeh l’odeur du vin et du musc et le parfum de l’eau de rose, mais il ne trouva sur Siawusch aucune odeur semblable et aucun indice qu’il eût touché Soudabeh.
 
-Il en fut courroucé, et. traita Soudabeh avec mépris ; son cœur était rempli de tristesse.
+Il en fut courroucé et traita Soudabeh avec mépris ; son cœur était rempli de tristesse.
 
 Il dit en son âme :
 
@@ -93,7 +97,7 @@ Il dit en son âme :
 
 V0
 
-Ensuite il se souvint du Hamaveran et des dangers, des luttes et des combats de ce pays ; il se souvint que quand il était dans les chaînes et qu’il n’avait autour de lui ni parent ni ami, Soudabeh le servait jour et nuit, sans se lasser, sans se plaindre de sa peine.
+Ensuite, il se souvint du Hamaveran et des dangers, des luttes et des combats de ce pays ; il se souvint que quand il était dans les chaînes et qu’il n’avait autour de lui ni parent ni ami, Soudabeh le servait jour et nuit, sans se lasser, sans se plaindre de sa peine.
 
 Il songea qu’elle avait un cœur rempli d’amour et qu’il aurait fallu lui épargner toute tentation de faire du mal ; enfin il se souvint des petits enfants qu’il avait d’elle et qu’on ne devait pas compter pour peu de chose la douleur de l’enfance.
 
