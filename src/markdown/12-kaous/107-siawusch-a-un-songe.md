@@ -17,7 +17,7 @@ Siawusch passa trois jours dans les larmes à cause de cette trahison du sort ; 
 
 Ferenguis au beau visage le pressa contre son sein et lui dit :
 
-> Ô roil je t’en conjure par notre amour, dis-moi ce qui t’arrive!»
+> Ô roil je t’en conjure par notre amour, dis-moi ce qui t’arrive !»
 
 3H Siawusch continua de pousser des cris ; on alluma un flambeau et l’on brûla devant lui du bois de sandal et de l’ambre.
 
@@ -41,7 +41,7 @@ Siawusch lui répondit :
 >
 > Afrasiab me vit, sa mine devint sombre et il attisa ce feu déjà si ardent.»
 
-F erenguis lui dit :
+Ferenguis lui dit :
 
 > Il n’en arrivera que du bonheur, pourvu que tu mettes à profit cette nuit même.
 >
@@ -49,7 +49,7 @@ F erenguis lui dit :
 
 Siawusch rassembla toute son armée et la plaça devant le palais ; lui-même prit ses armes, monta à rheval l’épée en main et envoya des. vedettes du côté de Gang.
 
-Quand les deux tiers de cette longue nuit furent passés, une vedette à cheval revint. du désert, et rapporta qu’elle avait vu de loin Afrasiab s’avan-
+Quand les deux tiers de cette longue nuit furent passés, une vedette à cheval revint. du désert et rapporta qu’elle avait vu de loin Afrasiab s’avan-
 çant rapidement avec une grande armée.
 
 Un messager arriva de la part de Guersiwez et dit à Siawusch :
