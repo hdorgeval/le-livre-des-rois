@@ -13,7 +13,7 @@ order: '152'
 
 # Keï Khosrou revient victorieux
 
-Lorsqu’on apprit dans l’Iran la victoire que le roi avait remportée par la grâce de Dieu, le monde fut étonné de la fortune et de la puissance où Keî Khosrou avait atteint.
+Lorsqu’on apprit dans l’Iran la victoire que le roi avait remportée par la grâce de Dieu, le monde fut étonné de la fortune et de la puissance où Keï Khosrou avait atteint.
 
 Tous les grands se rendirent au-près de lui, joyeux et chargés de présents.
 
@@ -23,7 +23,7 @@ Le vaillant roi descendit aussi de son destrier noir et le frère de son père l
 
 Invoquant les grâces de Dieu sur lui.
 
-Keî Khosrou s’assit sur le trône d’or, une couronne ornée de pierreries sur la tête et Thous s’approcha de lui, portant le drapeau de Kaweh, ses timbales et ses bottines d’or, qu’il déposa aux pieds du roi en baisant la terre et en disant :
+Keï Khosrou s’assit sur le trône d’or, une couronne ornée de pierreries sur la tête et Thous s’approcha de lui, portant le drapeau de Kaweh, ses timbales et ses bottines d’or, qu’il déposa aux pieds du roi en baisant la terre et en disant :
 
 > Voici les timbales, les bottines d’or et le drapeau de Kaweh qui porte bonheur.
 >
@@ -41,11 +41,11 @@ Le roi victorieux l’accueillit gracieusement, sourit et le fit monter sur le t
 >
 > Je n’ai dans le cœur aucune inimitié contre toi et tu n’as pas à demander pardon, car ce n’est pas un étranger que tu as voulu placer sur le trône.»
 
-Keî Khosrou se dirigea de là vers le Farsistan et se rendit auprès du roi glorieux.
+Keï Khosrou se dirigea de là vers le Farsistan et se rendit auprès du roi glorieux.
 
-Lorsque Keî Kaous apprit que son petit-fils aux traces fortunées s’approchait, il alla au-devant de lui ; ses joues étaient colo rées par la joie et son vieux cœur était rajeuni.
+Lorsque Keï Kaous apprit que son petit-fils aux traces fortunées s’approchait, il alla au-devant de lui ; ses joues étaient colo rées par la joie et son vieux cœur était rajeuni.
 
-Il 4&3 descendit gaiement de son cheval lui et son cortège, et ils s’avancèrent à pied pour présenter à Khosrou leurs offrandes et leurs salutations.
+Il 4&3 descendit gaiement de son cheval lui et son cortège et ils s’avancèrent à pied pour présenter à Khosrou leurs offrandes et leurs salutations.
 
 Lorsque le jeune roi aperçut de loin son grand-père, il sourit et son cœur bondit de joie ; il descendit de cheval et rendit hommage à Kaous, qui avait tant désiré de le voir.
 
