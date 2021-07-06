@@ -39,18 +39,20 @@ Le roi éclata contre Guiv et contre Rustem de manière à jeter dans la stupeur
 
 Thous s’approcha de Rustem et le prit par la main ; les braves en restèrent étonnés ; il voulait le conduire hors de la présence de Kaous, craignant que dans son ressentiment il ne fît une mauvaise action.
 
-Mais Tehemten s’emporte contre le roi et s’écria : Ne remplis pas ainsi ton sein du feu de ta colère ; toutes les actions sont plus mauvaises l’une que l’autre, et tu n’es point digne de la royauté.
+Mais Tehemten s’emporte contre le roi et s’écria :
 
-Fais pendre vivant au gibet ce Turc, réserve ton courroux et tes mauvais traitements pour ton ennemi.
-
-Le Roum,, le Segsar, le Mazenderan, l’Égypte, la Chine et le Hamaveran sont des esclaves prosternés devant mon cheval Raksch ; leurs cœurs ont été brisés par mon épée et mon arbalète ; et toi-même, ce n’est que grâce à moi que tu vis ; comment peux-tu laisser aller ton cœur à cette fureur?»
+> Ne remplis pas ainsi ton sein du feu de ta colère ; toutes les actions sont plus mauvaises l’une que l’autre et tu n’es point digne de la royauté.
+>
+> Fais pendre vivant au gibet ce Turc, réserve ton courroux et tes mauvais traitements pour ton ennemi.
+>
+> Le Roum,, le Segsar, le Mazenderan, l’Égypte, la Chine et le Hamaveran sont des esclaves prosternés devant mon cheval Raksch ; leurs cœurs ont été brisés par mon épée et mon arbalète ; et toi-même, ce n’est que grâce à moi que tu vis ; comment peux-tu laisser aller ton cœur à cette fureur?»
 
 Il dit et frappa rudement de sa main la main de Thous ; tu aurais dit que c’était un éléphant furieux qui l’assaillait.
 
-Thous!
+Thous !
 tomba par terre sur la tête et Rustem dans sa colère lui passa sur le corps pour sortir.
 
-Ilustem sor- 9l lit, monta sur Raksch et dit :
+Ilustem sor-9l lit, monta sur Raksch et dit :
 
 > Je suis le vainqueur des lions, le distributeur des couronnes.
 >
@@ -76,11 +78,11 @@ Ilustem sor- 9l lit, monta sur Raksch et dit :
 >
 > C’est moi qui ai placé sur ce trône Keî Kobad.
 >
-> Que savais-je alors de Kaous, et qu’était sa colère ?
+> Que savais-je alors de Kaous et qu’était sa colère ?
 >
 > Du vent.
 >
-> Si je n’avais pas amenédans le pays d’Iran Keî Kobad, qui vivait dans la détresse et loin de la foule sur le mont Alborz, tu ne te ceindrais pas de la ceinture royale et du glaive de la vengeance, tu n’aurais pas ce pouvoir et ces richesses qui t’enhardissent à dire LE LIVRE ces des paroles dures à Destan fils de Sam.»
+> Si je n’avais pas amenédans le pays d’Iran Keî Kobad, qui vivait dans la détresse et loin de la foule sur le mont Alborz, tu ne te ceindrais pas de la ceinture royale et du glaive de la vengeance, tu n’aurais pas ce pouvoir et ces richesses qui t’enhardissent à dire ces des paroles dures à Destan fils de Sam.»
 
 Puis, il dit aux Iraniens :
 
@@ -105,23 +107,25 @@ Ils dirent à Gouderz :
 Alors tous les grands pleins de courage, tels que Guiv, Gouderz et Bahram le brave, tels que Rehham et Gourguin le vaillant cavalier, s’assirent ensemble, discourant entre eux et se disant l’un à l’autre :
 
 > Le roi n’a aucun égard à la coutume et à la décence.
-
-Rustem est le Pehlewan du monde.
-
-C’est à lui que Kaous doit la vie et il n’y eut jamais pour les malheureux un sauveur tel que lui.
-
-Quand les Divs du Mazenderan ont chargé le roi et les grands de lourdes chaînes, que de peines et
-
-KEI nous. de dangers Rustem n’a-t-il pas supportés ?
-
-Il a dé-
+>
+> Rustem est le Pehlewan du monde.
+>
+> C’est à lui que Kaous doit la vie et il n’y eut jamais pour les malheureux un sauveur tel que lui.
+>
+> Quand les Divs du Mazenderan ont chargé le roi et les grands de lourdes chaînes, que de peines et
+>
+> KEI nous. de dangers Rustem n’a-t-il pas supportés ?
+>
+> Il a dé-
 .chiré le corps du terrible Div, il a rétabli avec joie Kaous sur son trône, il l’a salué comme on salue les rois.
+>
+> Et lorsque le pied de Kaous était chargé de lourdes chaînes dans le Hamaveran, Rustem a combattu tant de rois pour le secourir et n’a jamais tourné le dos devant le roi du Hamaveran.
+>
+> Il a ramené Kaous sur le trône, il s’est prosterné devant lui dans la joie de son âme.
+>
+> Si un gibet doit être se récompense, il ne nous reste plus qu’à nous enfuir ; et pourtant c’est le moment de combattre, car le sort nous serre de près.»
 
-Et lorsque le pied de Kaous était chargé de lourdes chaînes dans le Hamaveran, Rustem a combattu tant de rois pour le secourir. et n’a jamais tourné le dos devant le roi du Hamaveran.
-
-Il a ramené Kaous sur le trône, il s’est prosterné devant lui dans la joie de son âme.
-
-Si un gibet doit être se récompense, il ne nous reste plus qu’à nous enfuir ; et pourtant c’est le moment de combattre, car le sort nous serre de près. a Le Sipehdar Gouderz fils de Keschwad partit, se rendit auprès du roi et lui dit :
+Le Sipehdar Gouderz fils de Keschwad partit, se rendit auprès du roi et lui dit :
 
 > Qu’a donc fait Rustem pour que tu détruises aujourd’hui la fortune de l’Iran ?
 
@@ -145,7 +149,7 @@ Il répondit :
 >
 > Un roi doit avoir de la prudence, car la violence et le courroux ne mènent pas au but.
 >
-> Il faut vous rendre au- près de Rustem et lui adresser beaucoup de bonnes paroles, lui faire oublier ma colère et lui montrer un avenir de bonheur.
+> Il faut vous rendre au-près de Rustem et lui adresser beaucoup de bonnes paroles, lui faire oublier ma colère et lui montrer un avenir de bonheur.
 >
 > Ramène-le auprès de moi pour que mon âme sombre redevienne brillante.»
 
@@ -163,9 +167,9 @@ Le roi est maintenant honteux.de ses paroles et se mord le dos de la main d’av
 
 KEI nous.
 
-Buslem leur répondit :
+Rustem leur répondit :
 
-> Je n’ai aucun besoin de Keî Kaous ; ma selle est mon trône, mon casque est ma couronne, ma cuirasse est ma robe et mon âme ne songe qu’à la mort.
+> Je n’ai aucun besoin de Keï Kaous ; ma selle est mon trône, mon casque est ma couronne, ma cuirasse est ma robe et mon âme ne songe qu’à la mort.
 
 Qu’est-il devant moi Kaous ?
 
@@ -177,7 +181,7 @@ Ai-je mérité les paroles inconvenantes qu’il m’a dites dans sa fureur ?
 
 Lui que j’ai délivré de ses chaînes, à qui j’ai rendu la couronne et le trône ; lui qu’au jour du combat contre les Divs du Mazenderan, au jour de la lutte contre le roi du Hamaveran, j’ai tiré de la captivité et de la détresse quand je l’ai vu entre les mains de ses ennemis.
 
-Ma patience est à bout, mon cœur est gros et je ne crains que Dieu le tout saintm A ces mots, le froid de la mort saisit toute l’assemblée ; mais Gouderz répondit au héros au corps d’éléphant :
+Ma patience est à bout, mon cœur est gros et je ne crains que Dieu le tout saintm À ces mots, le froid de la mort saisit toute l’assemblée ; mais Gouderz répondit au héros au corps d’éléphant :
 
 > Le roi et les grands qui portent haut la tête vont supposer tout autre chose. lis vont croire que le fier Rustem a peur de ce Turc et ils vont se dire tout bas : il faut bien, comme Guzdehem nous l’a dit, abandonner le pays ; car puiSque Rustem craint de le combattre, aucun de nous ne doit tarder.
 >
@@ -189,9 +193,9 @@ Ma patience est à bout, mon cœur est gros et je ne crains que Dieu le tout sai
 >
 > Car aucun homme attaché à notre foi pure ne peut approuver que le pays de Touran nous couvre de honte.»
 
-C’est ainsi qu’il parla à Rustem, et celui-ci l’écouta avec étonnement ; à la fin il lui dit :
+C’est ainsi qu’il parla à Rustem et celui-ci l’écouta avec étonnement ; à la fin il lui dit :
 
-> Si la peur était entrée dans mon cœur, je ne voudrais pas que mon âme restât dans mon corps, et je l’en arracherais.
+> Si la peur était entrée dans mon cœur, je ne voudrais pas que mon âme restât dans mon corps et je l’en arracherais.
 
 Tu sais que je ne fuis pas le combat, mais que le roi m’a traité avec indignitém Rustem sentit que sa position était telle qu’il ne pouvait que s’en retourner et se rendre auprès du roi.
 
@@ -213,7 +217,7 @@ Rustem lui répondit :
 
 Et moi aussi je suis un des esclaves qui se tiennent (levant tu porte, si tant
 
-K E i K A Ô U s. est que je sois digue d’être compté parmi eux, et je suis venu maintenant pour exécuter tes ordres. !
+K E i K A Ô U s. est que je sois digue d’être compté parmi eux et je suis venu maintenant pour exécuter tes ordres. !
 
 Puissent le bonheur et le pouvoir rester tes compagnons la Kaous lui dit :
 
