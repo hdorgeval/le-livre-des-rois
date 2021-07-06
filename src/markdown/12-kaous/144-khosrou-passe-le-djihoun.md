@@ -13,21 +13,23 @@ order: '144'
 
 # Keï Khosrou passe le Djihoun
 
-Guiv dit au roi : Si tu es Keî Khosrou, tu peux affronter cette eau sans péril.
+Guiv dit au roi :
 
-Feridoun, qui passa le fleuve Arwend, s’empara du trône du pouvoir, et tous les hommes lui obéirent, car il avait la majesté d’un roi et la grâce de Dieu reposait sur lui.
+> Si tu es Keï Khosrou, tu peux affronter cette eau sans péril.
+>
+> Feridoun, qui passa le fleuve Arwend, s’empara du trône du pouvoir et tous les hommes lui obéirent, car il avait la majesté d’un roi et la grâce de Dieu reposait sur lui.
+>
+> Comment peux-tu hésiter, si tu es le roi de l’Iran, si tu es l’asile des braves et des lions ?
+>
+> Pourquoi l’eau le serait-elle hostile, à toi qui possèdes la ma-jesté, la puissance et la pompe du trône ?
+>
+> Si nous étions noyés moi et ta mère, il ne faudrait pas trop t’en affliger.
+>
+> Ta mère t’a mis au monde parce que le monde avait besoin de toi, car le trône du roi des rois était abaissé ; et moi je ne fus mis au monde par ma mère que pour toi.
+>
+> N’hésite donc pas, car je ne doute pas qu’Afrasiab ne s’approche en toute hâte du bord du fleuve ; et s’il nousy trouve, il me suspendra vivant à un gibet en me couvrant d’opprebre et toi et Ferenguis il vous jettera dans le fleuve pour que les poissons vous dévorent, ou il vous fera fouler aux pieds des chevaux.»
 
-Comment peux-tu hésiter, si tu es le roi de l’Iran, si tu es l’asile des braves et des lions ?
-
-Pourquoi l’eau le serait-elle hostile, à toi qui possèdes la ma-jesté, la puissance et la pompe du trône ?
-
-Si nous étions noyés moi et ta mère, il ne faudrait pas trop t’en affliger.
-
-Ta mère t’a mis au monde parce que le monde avait besoin de toi, car le trône du roi des rois était abaissé ; et moi je ne fus mis au monde par ma mère que pour toi.
-
-N’hésite donc pas, car je ne doute pas qu’Afrasiab ne s’approche en toute hâte du bord du fleuve ; et s’il nousy trouve, il me suspendra vivant à un gibet en me couvrant d’opprebre et toi et Ferenguis il vous jettera dans le fleuve pour que les poissons vous dévorent, ou il vous fera fouler aux pieds des chevaux.»
-
-Keî Khosrou lui répondit :
+Keï Khosrou lui répondit :
 
 > Cela suffit.
 >
@@ -53,14 +55,17 @@ Il dit à ses compagnons :
 
 > C’est une chose étonnante et l’on ne peut concevoir rien de plus hardi.
 >
-> Ils ont trois chevaux, trois cuirasses et trois caparaçons, le Djihoun et ses eaux rapides sont enflés par les pluies du printemps et ils ont passé néanmoins ce fleuve profond ; un homme de sens ne peut. pas les prendre pour des hommesm Il avait honte des paroles grossières dont il s’était servi et il vit qu’il avait manqué son but.
+> Ils ont trois chevaux, trois cuirasses et trois caparaçons, le Djihoun et ses eaux rapides sont enflés par les pluies du printemps et ils ont passé néanmoins ce fleuve profond ; un homme de sens ne peut. pas les prendre pour des hommes»
+
+Il avait honte des paroles grossières dont il s’était servi et il vit qu’il avait manqué son but.
 >
-> Il remplit alors sa barque de tout ce qu’il avait de précieux, et le vent du ciel gonfla sa voile.
+> Il remplit alors sa barque de tout ce qu’il avait de précieux et le vent du ciel gonfla sa voile.
 >
 > Il se présenta devant
 >
-> 
-le roi aussitôt qu’il eut touché la rive, et’lui demanda pardon en déposant à ses pieds des présents, un arc, un lacet et un casque ; mais Guiv s’écria : Ô chien stupide !
+> le roi aussitôt qu’il eut touché la rive, et’lui demanda pardon en déposant à ses pieds des présents, un arc, un lacet et un casque ; mais Guiv s’écria :
+
+> Ô chien stupide !
 >
 > Pourquoi nous as-tu dit que cette eau emportait les hommes ?
 >
@@ -86,11 +91,11 @@ rais dit que l’air les portait dans ses bras, ou qu’ils étaient les fils de
 
 Afrasiab l’écouta ; sa joue pâlit et dans son angoisse il soupira, ensuite il lui dit :
 
-> Hâte-toi de mettre ta barque à l’eau pour voir ou je pourrai trouver ces fugitifs ; regarde s’ils sont Il? !
+> Hâte-toi de mettre ta barque à l’eau pour voir ou je pourrai trouver ces fugitifs ; regarde s’ils sont Il ? !
 >
 > Partis ou s’ils se sont arrêtés pour dormir.
 >
-> Ne perds pas de temps, amène ta barque et pars, afin que æ nous puissions les atteindre.»
+> Ne perds pas de temps, amène ta barque et pars, afin que nous puissions les atteindre.»
 
 Houman lui dit :
 
