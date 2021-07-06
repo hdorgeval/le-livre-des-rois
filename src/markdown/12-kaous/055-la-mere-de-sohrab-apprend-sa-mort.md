@@ -35,7 +35,7 @@ Je tenais mes deux yeux fixés sur la route, disant en moi-même :
 >
 > C’était là mon espérance et je disais : Dans ce moment il fait le tour du monde ; il a cherché et trouvé son père et maintenant il se hâte de revenir.
 >
-> Comment pouvais-je deviner, ô mon fils, que j’apprendrais que Rustems t’avait percé le cœur avec son poignard?
+> Comment pouvais-je deviner, ô mon fils, que j’apprendrais que Rustems t’avait percé le cœur avec son poignard ?
 >
 > Il n’a pas eu pitié de ton beau visage, de ta haute stature, de tes cheveux ; il n’a pas eu pitié de ce nombril qu’il a déchiré avec son épée.
 >
@@ -69,7 +69,7 @@ Je tenais mes deux yeux fixés sur la route, disant en moi-même :
 >
 > Rustem m’aurait reconnue de loin et nous aurait reçus avec joie, ô mon fils !
 >
-> Il n’aurait pas lancé son javelot contre toi ; il ne t’aurait pas fendu la poitrine, ô mon enfant!»
+> Il n’aurait pas lancé son javelot contre toi ; il ne t’aurait pas fendu la poitrine, ô mon enfant !»
 
 Elle dit et s’emporta contre elle-même, s’arrachant les cheveux et frappant de ses mains son beau visage ; et ses lamentations et ses cris étaient. tels que toute créature eut les yeux pleins de larmes ; elle tomba par terre sans connaissance et ivre de dou-leur et le cœur de toutes les créatures se brisa de pitié pour elle ; elle tomba par terre comme morte ; tu aurais dit que son sang était glacé dans ses veines.
 
@@ -77,15 +77,15 @@ Elle reprit connaissance et recommença ses lamentations et ses plaintes sur la 
 
 Leur de rubis ; elle fit apporter le trône de Sohrab et pleura amèrement sur ce trône et cette couronne en s’écriant :
 
-> Ô rejeton d’un arbre royal!»
+> Ô rejeton d’un arbre royal !»
 
 Elle fit amener ce destrier aux pieds de vent qu’il avait aimé à monter dans les jours de joie ; elle pressa la tête du cheval contre sa poitrine et les hommes en restèrent étonnés ; elle le baisa tantôt à la tête, tantôt à la face ; elle frotta son visage et ses cheveux contre le sabot du cheval.
 
-Elle fit apporter le vêtement royal de son fils et l’embrasse comme si c’eût été son enfant ; elle rougit le sol du sang de ses paupières ; elle se laissa tomber de douleur sur la terre et dans le sang ; elle prit la cette de mailles, la cuirasse de cuir et l’arc, la lance, l’épée et la lourde massue.
+Elle fit apporter le vêtement royal de son fils et l’embrasse comme si c’eût été son enfant ; elle rougit le sol du sang de ses paupières ; elle se laissa tomber de douleur sur la terre et dans le sang ; elle prit la cotte de mailles, la cuirasse de cuir et l’arc, la lance, l’épée et la lourde massue.
 
 Elle prit la bride d’or et le bouclier de son fils et se frappa le front avec la bride et le bouclier ; elle prit son lacet de quatre-vingts brasses et le saisissant par l’anneau, le jeta au loin ; elle prit la cuirasse de fer et le casque, en disant :
 
-> Ô lion avide de combats!»
+> Ô lion avide de combats !»
 
 Elle tira l’épée de Sohrab, courut vers son cheval et lui coupa la queue, ensuite elle donna toutes ces richesses aux pauvres, l’or, l’argent et les chevaux caparaçonnés.
 
@@ -93,7 +93,9 @@ Elle ferma la porte du palais, brisa son trône et le jeta par terre comme une c
 
 Elle noircit par le feu les portes du palais ; elle dévasta le palais et la salle d’audience ; elle détruisit cette belle demeure, parce que son fils était parti de ce lieu de plaisir pour aller à la guerre.
 
-Elle se re- l vêtit d’un vêtement bleu, mais la couleur disparut sous le sang ; elle soupirait jour et nuit et pleurait, et elle vécut encore une année après la mort de Sohrab.
+Elle se re- !
+
+Vêtit d’un vêtement bleu, mais la couleur disparut sous le sang ; elle soupirait jour et nuit et pleurait et elle vécut encore une année après la mort de Sohrab.
 
 À la fin elle mourut de douleur et son âme se rendit auprès de Sohrab le héros.
 
