@@ -46,7 +46,7 @@ rais à m’en repentir.
 >
 > Quand tu laves tes joues pour prier Dieu, prie aussi pour moi le Créateur, qui est plus puissant que toute puissance et dont tous les rois sont esclaves, sans la volonté duquel le ciel ne tournerait pas, sans l’ordre duquel il n’y aurait ni sommeil ni nourriture, qui a créé la terre et le ciel et ce qui est fort et ce qui est faible.
 >
-> Il est la source de l’espoir et de la crainte, il est le maître de l’eau, du feu, du vent et de la terre, puisse-t-il être mon protecteur et me guider jusqu’auprès du roi glorieux!»
+> Il est la source de l’espoir et de la crainte, il est le maître de l’eau, du feu, du vent et de la terre, puisse-t-il être mon protecteur et me guider jusqu’auprès du roi glorieux !»
 
 Le père était vieux et le fils était vaillant et semblable à un lion qui ouvre la gueule pour le combat.
 
@@ -62,7 +62,7 @@ Le vieux Gouderz adressa ses prières à Dieu, disant :
 >
 > KI-. raison ; je le le confie pour qu’il délivre mon pays de ses maux.
 >
-> Rends-Ie-moi, ô Seigneur!»
+> Rends-Ie-moi, ô Seigneur !»
 
 Ceux qui ont souffert dans la vie beaucoup de peines et qui les ont supportées pour acquérir du pouvoir, n’ont à la fin d’autre couche que la poussière ; le monde ne leur donne que du poison, un poison contre lequel il n’y a pas de remède.
 
@@ -127,7 +127,7 @@ Le Turc répondit :
 Alors Guiv lui demanda :
 
 > Où
-est Keî Khosrou ?
+est Keï Khosrou ?
 >
 > Il faut que tu me répondes selon la vérité.»
 
