@@ -13,7 +13,7 @@ order: '068'
 
 # Siawusch traverse le feu
 
-Le roi Keî Kaous était rempli de soucis à l’égard de son fils et de Soudabeh aux traces sinistres et il disait :
+Le roi Keï Kaous était rempli de soucis à l’égard de son fils et de Soudabeh aux traces sinistres et il disait :
 
 > Si l’un des deux se trouve coupable, qui dorénavant voudra m’appeler roi ?
 >
@@ -73,7 +73,7 @@ Siawusch s’approcha du bûcher en disant :
 
 > Ô Dieu !
 >
-> Toi qui es au-dessus de tout besoin, permets-moi de passer à travers cette montagne de feu et délivre-moi de la honte qui me couvre aux yeux de cr mon père.»
+> Toi qui es au-dessus de tout besoin, permets-moi de passer à travers cette montagne de feu et délivre-moi de la honte qui me couvre aux yeux demon père.»
 
 Ayant exhalé ainsi sa grande douleur, il lança son cheval noir rapidement comme la fumée.
 
@@ -83,19 +83,19 @@ Soudabeh entendant le cri qui venait de la plaine, monta de la salle sur le toit
 
 Les hommes tenaient les yeux fixés
 
-KEI mou s. sur Kaous, la bouche pleine d’imprécations, les lèvres tremblantes de colère.
+KEI mou s sur Kaous, la bouche pleine d’imprécations, les lèvres tremblantes de colère.
 
 Siawusch poussa son cheval noir dans le feu, tu aurais dit qu’il le caparaçonnait de flammes, car le feu s’élançait de tous côtés et personne ne vit plus le casque et le cheval de Siawusch.
 
 Toute la plaine était couverte d’yeux pleins de sang et regardant avec anxiété comment il sortirait du feu ; et il sortit du feu, le noble jeune homme, les lèvres souriantes, les joues comme des feuilles de rose.
 
-Quand les hommes le virent, il s’éleva un seul cri : Le jeune roi est sorti du feu!»
+Quand les hommes le virent, il s’éleva un seul cri : Le jeune roi est sorti du feu !»
 
 Le cheval, le cavalier et sa robe parurent frais ; tu aurais dit qu’il portait un lis sur sa poitrine.
 
 Et s’il eût traversé la mer, il n’aurait pas été mouillé et sa robe n’aurait pas porté trace d’humidité.
 
-Quand Dieu le très-saint l’ordonne, le souille du feu et le souille du vent ne font qu’un.
+Quand Dieu le très-saint l’ordonne, le souffle du feu et le souffle du vent ne font qu’un.
 
 Lorsque Siawusch sortit de cette montagne de feu pour entrer dans la plaine, la ville et le désert retentirent de cris.
 
@@ -115,7 +115,7 @@ Le roi lui dit :
 
 Il le pressa contre son sein et lui demanda pardon de ce qu’il avait fait contre lui.
 
-Ensuite il se rendit dans son palais et s’assit, dans la joie de son cœur, la couronne des Keïanides sur la tête.
+Ensuite, il se rendit dans son palais et s’assit, dans la joie de son cœur, la couronne des Keïanides sur la tête.
 
 Il fit apporter du vin et appeler des musiciens et accorda à Siawusch tout ce qu’il lui demandait.
 
