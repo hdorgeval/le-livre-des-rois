@@ -23,8 +23,7 @@ Son messager arriva à la cour du roi et lui dit que Guersiwez était en route.
 
 Siawusch appela le héros au corps d’éléphant et lui parla longuement de cette nouvelle.
 
-Guersiwez s’approcha du palais et Siawusch ordonna qu’on le fit entrer ; et lorsqu’il le vit, il se leva vivement et en souriant et lui adressa beaucoup 2ll
-de paroles polies.
+Guersiwez s’approcha du palais et Siawusch ordonna qu’on le fit entrer ; et lorsqu’il le vit, il se leva vivement et en souriant et lui adressa beaucoup 2ll de paroles polies.
 
 Guersiwez baisa la terre à une grande distance ; ses joues étaient rouges de boute, son cœur était plein de terreur.
 
@@ -40,13 +39,17 @@ Depuis les murs de la ville jusqu’au palais du roi on ne voyait qu’argent, c
 
 Tous les esclaves portaient des casques et des ceintures, toutes les esclaves avaient des bracelets et des colliers d’or.
 
-Siawusch admira beaucoup ces présents et sourit ; il les regarda et prêta l’oreille au message de Guersiwez ; à la fin Rustem dit : Livrons-nous à la joie pendant une semaine, avant de parler de réponse.
+Siawusch admira beaucoup ces présents et sourit ; il les regarda et prêta l’oreille au message de Guersiwez ; à la fin Rustem dit :
 
-Il nous faut beaucoup réfléchir sur cette demande etadresser des questions à tout le monde. v Guersiwez ayant entendu ces paroles, toucha de son front et de ses cheveux le trône de Siawusch.
+> Livrons-nous à la joie pendant une semaine, avant de parler de réponse.
+>
+> Il nous faut beaucoup réfléchir sur cette demande etadresser des questions à tout le monde.»
+
+Guersiwez ayant entendu ces paroles, toucha de son front et de ses cheveux le trône de Siawusch.
 
 On lui prépara une demeure ornée de brocarts et l’on appela les cuisiniers.
 
-Siawusch et Rustem au corps d’éléphant s’éloi- 2l5 gnèrent de la foule ; ces deux héros pleins de prudence s’assirent et discutèrent sur toute chose grande et petite ; Rustem eut des soupçons sur cette alliaire et sur cette arrivée subite de Guersiwez.
+Siawusch et Rustem au corps d’éléphant s’éloi-2l5 gnèrent de la foule ; ces deux héros pleins de prudence s’assirent et discutèrent sur toute chose grande et petite ; Rustem eut des soupçons sur cette alliaire et sur cette arrivée subite de Guersiwez.
 
 Ils envoyèrent de tous côtés des éclaireurs et se préparèrent, comme il convient, à tout événement.
 
