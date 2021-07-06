@@ -15,7 +15,7 @@ order: '129'
 
 Zewareh parvint à tirer de son inaction cet homme au cœur de lion et Rustem fit tout ce que son frère lui avait demandé.
 
-Il commença àtuer et à dévaster, et le pays entier fut bouleversé.
+Il commença àtuer et à dévaster et le pays entier fut bouleversé.
 
 On ne voyait plus, depuis le Touran jusqu’aux pays de Seklab et de Roum, un seul district qui fût habité ; on tranchait la tête aux jeunes gens et aux vieillards, on emmenait en esclavage les femmes et les petits enfants et sur une étendue de plus de mille farsangs s’élevait la fumée des incendies.
 
@@ -27,17 +27,17 @@ Tous les grands issus de familles nobles vinrent auprès de Rustem, la tête cou
 >
 > Personne ne sait où se trouve ce roi, ni s’il est. en vie ou si la queue du dragon l’a enveloppé.»
 
-Lorsque Rustem eut entendu les paroles de cette assemblée, son cœur plein de sagesse trembla ; il sa porta en grande hâte sur la frontière de Kafdjar- baschi et y convoqua tous les chefs de son armée.
+Lorsque Rustem eut entendu les paroles de cette assemblée, son cœur plein de sagesse trembla ; il sa porta en grande hâte sur la frontière de Kafdjar-baschi et y convoqua tous les chefs de son armée.
 
 Les sages, les grands et les hommes qui avaient de l’expérience se réunirent autour de lui et lui dirent :
 
-> Kaous est assis sur son trône sans guide, sans dignité, sans soutien ; et si Afrasiab amenait rapidement, par une route quelconque, une armée dans l’Iran, il pourrait s’emparer du vieux Kaous, et tous nos succès seraient vains, il n’y aurait plus pour nous de repos.
+> Kaous est assis sur son trône sans guide, sans dignité, sans soutien ; et si Afrasiab amenait rapidement, par une route quelconque, une armée dans l’Iran, il pourrait s’emparer du vieux Kaous et tous nos succès seraient vains, il n’y aurait plus pour nous de repos.
 >
 > Nous avons tendu partout le filet de la vengeance, nous avons dévasté par le feu toutes les terres cultivées du Touran ; allons maintenant auprès du vieux roi et quand il faudra combattre pour lui, nous aurons tous repris nos forces.
 >
 > Nous avons maintenant passé six ans sans jouir d’un jour de bonheur ; c’est dans l’Iran que sont nos esclaves et nos trônes, nos sceaux et nos diadèmes.
 >
-> Nous sommes fatigués et mécontents, car notre corps est toujours couvert d’une armure, et notre esprit s’affaisse.
+> Nous sommes fatigués et mécontents, car notre corps est toujours couvert d’une armure et notre esprit s’affaisse.
 >
 > Si tu t’attaches à ce vieux monde, il te caressera, mais il te cachera la vérité.
 >
@@ -45,10 +45,11 @@ Les sages, les grands et les hommes qui avaient de l’expérience se réunirent
 >
 > Revêtstoi de riches vêtements et fais des largesses, bois et mange ; voilà ta part dans cette vie, qui n’est qu’un passage.»
 
-Rustem approuva les paroles qu’avait prononcées le glorieux Mobed et ce joyeux conseiller ajouta : Ne recherche que les plaisirs de ce séjour passager.
+Rustem approuva les paroles qu’avait prononcées le glorieux Mobed et ce joyeux conseiller ajouta :
 
-Songe quels seront tes compagnons .
+> Ne recherche que les plaisirs de ce séjour passager.
+>
+> Songe quels seront tes compagnons .
 ’C
-
-37
-quand tu seras sous terre et combien tu regret- teras alors les biens dont tu n’auras pas joui.»
+>
+> quand tu seras sous terre et combien tu regretteras alors les biens dont tu n’auras pas joui.»
