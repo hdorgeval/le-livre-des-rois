@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2020-03-22'
+lang: 'fr'
 status: 'ready'
 thumbnail: 'https://source.unsplash.com/icU3Up45KZs/'
 image: 'MfNHW8vlbLs.jpeg'
