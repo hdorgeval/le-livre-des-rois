@@ -4,10 +4,32 @@ const { createFilePath } = require('gatsby-source-filesystem');
 const path = require('path');
 const debug = false;
 
+function extractLangFromNode(node) {
+  return node?.frontmatter?.lang;
+}
+
+function addLangToSlug(lang, slug) {
+  if (!lang) {
+    return slug;
+  }
+
+  if (slug.includes(`/${lang}/`)) {
+    return slug;
+  }
+
+  if (lang === 'fr') {
+    // disable i18n urls for the moment
+    return slug;
+  }
+
+  return `/${lang}${slug}`;
+}
+
 async function createSlugFieldNodeOnMarkdownRemarkNode({ node, getNode, actions }) {
   if (node.internal.type !== 'MarkdownRemark') {
     return;
   }
+  const lang = extractLangFromNode(node);
 
   const { createNodeField } = actions;
   const slug = createFilePath({
@@ -15,14 +37,15 @@ async function createSlugFieldNodeOnMarkdownRemarkNode({ node, getNode, actions 
     getNode,
     basePath: 'markdown',
   });
+  const i18nSlug = addLangToSlug(lang, slug);
   if (debug) {
     // eslint-disable-next-line no-console
-    console.log(`onCreateNode > slug = '${slug}'`);
+    console.log(`onCreateNode > slug = '${i18nSlug}'`);
   }
   await createNodeField({
     node,
     name: 'slug',
-    value: slug,
+    value: i18nSlug,
   });
 }
 
