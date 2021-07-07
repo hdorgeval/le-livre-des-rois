@@ -152,3 +152,4 @@
 {"rule":"D_N","sentence":"^\\QLe huitième jour le Div blanc s'écria d'une voix de tonnerre :\\E$"}
 {"rule":"D_N","sentence":"^\\QArzeng ayant ouï ces paroles, partit pour la cour du roi de Mazenderan, avec l'armée et le butin, avec les prisonniers et les chevaux caparaçonnés ; puis le Div blanc s'en retourna à sa demeure, brillant comme le soleil et Kaous resta dans le Mazenderan, répétant : Ç'a été ma faute !\\E$"}
 {"rule":"D_N","sentence":"^\\QArzeng ayant ouï ces paroles, partit pour la cour du roi de Mazenderan, avec l'armée et le butin, avec les prisonniers et les chevaux caparaçonnés ; puis le Div blanc s'en retourna à sa demeure, brillant comme le soleil et Kaous resta dans le Mazenderan, répétant :\\E$"}
+{"rule":"FR_SPELLING_RULE","sentence":"^\\QLe mont Damavand est un volcan semi-actif qui culmine à 5 670 m au nord de l'Iran.\\E$"}
