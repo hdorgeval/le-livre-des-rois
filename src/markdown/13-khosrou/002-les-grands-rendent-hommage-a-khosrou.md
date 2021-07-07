@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-05-13'
+lang: 'fr'
 status: 'ready'
 thumbnail: 'https://source.unsplash.com/4fwRyKISwfk'
 image: 'SE24tM-mnug.jpeg'
