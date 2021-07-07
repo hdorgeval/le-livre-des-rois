@@ -5,7 +5,7 @@ export * from './genealogies';
 export * from './layout';
 export * from './leaflet-map';
 export * from './read-more-read-less';
-export * from './reigns';
+export * from './reigns/fr';
 export * from './seo';
 export * from './tag-description';
 export * from './tags';

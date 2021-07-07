@@ -1,4 +1,4 @@
-import { AllMarkdownRemarkResponse } from '../../graphql';
+import { AllMarkdownRemarkResponse } from '../../../graphql';
 import React from 'react';
 import { StaticImage } from 'gatsby-plugin-image';
 import { Link } from 'gatsby';
@@ -26,7 +26,7 @@ export const ReignCard: React.FC<ReignCardProps> = ({
         style={{ minHeight: '150px' }}
       >
         <StaticImage
-          src="../../images/background-reign-card.jpg"
+          src="../../../images/background-reign-card.jpg"
           placeholder="blurred"
           className="card-img"
           imgClassName="card-img"
