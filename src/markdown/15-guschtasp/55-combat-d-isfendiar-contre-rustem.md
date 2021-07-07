@@ -1,5 +1,6 @@
 ---
 lastUpdate: '2021-04-25'
+lang: 'fr'
 status: 'ready'
 thumbnail: 'https://source.unsplash.com/FAq-TtmR_A0'
 image: 'https:/www.christies.com/media-library/images/features/articles/2015/04/09/astrolabes/mainimage.jpg.jpeg'
