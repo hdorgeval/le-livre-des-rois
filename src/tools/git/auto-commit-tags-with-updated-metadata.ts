@@ -21,7 +21,7 @@ async function autoCommitTagsWithUpdatedMetadata(sourceFolder: string) {
       const filename = unstagedFile.split(path.sep).pop();
       const tagName = filename?.split('.md')[0] || filename;
 
-      const commitMessage = `chore(tags): refactor image metadata for the '${tagName}' tag `;
+      const commitMessage = `chore(tags): add lang metadata for the '${tagName}' tag `;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
