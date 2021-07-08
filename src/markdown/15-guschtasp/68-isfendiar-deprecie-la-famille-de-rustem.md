@@ -57,6 +57,8 @@ tags:
 order: '68'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar déprécie la famille de Rustem
 
 Isfendiar dit à Rustem:
