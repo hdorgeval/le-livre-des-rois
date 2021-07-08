@@ -35,6 +35,8 @@ tags:
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou fait le tour de son empire
 
 Lorsque le soleil eut tiré son épée brillante et que la sombre nuit se fut enfuie de peur, on entendit dans la cour du roi le bruit des trompettes et les grands se rendirent auprès du roi.
