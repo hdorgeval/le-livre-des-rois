@@ -12,6 +12,8 @@ tags: []
 order: '052'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem demande un baume à Kaous
 
 Alors Rustem dit à Gouderz :
