@@ -44,6 +44,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guerre contre le Mazenderan
 
 Lorsqu’un arbre fruitier est devenu grand, s’il lui survient quelque dommage, ses feuilles se fanent, ses racines faiblissent, sa tête se penche vers la terre ; lorsque son pied est arraché du sol, il cède sa place à une nouvelle branche, à laquelle il abandonne les fleurs, les feuilles et la verdure et ce printemps semblable à une lampe brillante ; si alors d’une bonne souche il sort une mauvaise branche, ne commence pas néanmoins à dire du mal de la souche.
