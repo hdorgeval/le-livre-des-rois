@@ -12,6 +12,8 @@ tags: ['âme', 'Arabes', 'Dieu', 'Feridoun', 'Iemen', 'Mobed', 'Mobeds', 'Serv']
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Serv essaye sa magie contre Les fils de Feridoun
 
 Serv le chef des Arabes, le roi de Iemen, fit apporter du vin et en fit boire à l’assemblée ; il manda des chanteurs et continua à parler et à boire jusque dans la nuit profonde.
