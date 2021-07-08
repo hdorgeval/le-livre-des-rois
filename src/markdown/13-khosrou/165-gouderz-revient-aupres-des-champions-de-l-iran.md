@@ -12,6 +12,8 @@ tags: []
 order: '165'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat drevient auprès des champions de l'Iran
 
 Pendant ce temps les héros avides de vengeance et de combats se dirigeaient du haut de la colline vers l’armée, portant attachés à la selle de leurs chevaux les morts qu’ils avaient traités selon les usages de la guerre.
