@@ -12,6 +12,8 @@ tags: []
 order: '127'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab rassemble une armée
 
 J’ai entendu raconter que les suites malheureuses de ses passions jetèrent le roi des Turcs dans une grande tristesse.
