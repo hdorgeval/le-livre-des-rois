@@ -25,6 +25,8 @@ tags:
 order: '023'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Karen prend la forteresse des Alains
 
 Selm eut nouvelle de ce combat et de l’obscurité qui voilait son étoile.
