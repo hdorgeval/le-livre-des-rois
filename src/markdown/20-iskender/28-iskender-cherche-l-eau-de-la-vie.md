@@ -12,6 +12,8 @@ tags: []
 order: '028'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender cherche l'eau de la vie
 
 Il partit de là gaiement avec son armée, et appela
