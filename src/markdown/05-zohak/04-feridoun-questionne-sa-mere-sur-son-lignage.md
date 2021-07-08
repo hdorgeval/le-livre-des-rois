@@ -12,6 +12,8 @@ tags: ['Abtin', 'Dieu', 'Elborz', 'Feridoun', 'Firanek', 'Iran', 'Thahmouras', '
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feridoun questionne sa mère sur son lignage
 
 Lorsque deux fois huit ans eurent passé sur Feridoun, il descendit du mont Elborz dans la plaine, il vint à sa mère et lui fit des questions, en disant :
