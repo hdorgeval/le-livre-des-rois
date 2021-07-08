@@ -29,6 +29,8 @@ tags:
 order: '019'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sam part pour aller combattre Mihrab
 
 Mihrab et Destan apprirent les desseins que le roi et Sam avaient concertés ; tout le pays de Kaboul en fut troublé et des cris s’élevèrent du palais de Mihrab.
