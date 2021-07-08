@@ -12,6 +12,8 @@ tags: []
 order: '031'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Schenguil à la lettre de Bahram
 
 Schenguil l’écoute et demanda la lettre ; il était étonné de l’aspect et des paroles de cet illustre cavalier.
