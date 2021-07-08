@@ -12,6 +12,8 @@ tags: []
 order: '048'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gau et Thalhend se préparent au combat
 
 On dit à Thalhend et à Gau que dans chaque rue se montrait un chef, que le ville était pleine de cris, de cris tels que les cœurs en étaient émus, que tout le pays allait être ruiné par ces passions et que les princes ne devaient pas y consentir.
