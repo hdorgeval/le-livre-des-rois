@@ -12,6 +12,8 @@ tags: []
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir met à mort Heftwad
 
 Heftwad apprit ce qui s’était passé ; son cœur se remplit de douleur et sa bouche de soupirs ; il arriva pour reprendre le château ; mais Ardeschir monta en toute hâte sur le mur et Heftwad lutta pendant quelque temps, mais en vain, car le pied du lion était planté sur le rempart.
