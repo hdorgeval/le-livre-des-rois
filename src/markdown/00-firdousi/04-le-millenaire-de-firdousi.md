@@ -31,6 +31,8 @@ tags:
 order: '4'
 ---
 
+<!-- LTeX: language=fr -->
+
 # 1934 - le Millenaire De Firdousi
 
 Il est facile de comprendre ce que le nom de Firdousi représente aujourd'hui pour nos contemporains persans, et la valeur symbolique des honneurs qui lui sont rendus par le gouvernement de Téhéran.
