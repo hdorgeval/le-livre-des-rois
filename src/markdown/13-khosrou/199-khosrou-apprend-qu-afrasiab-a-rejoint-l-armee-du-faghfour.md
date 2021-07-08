@@ -12,6 +12,8 @@ tags: []
 order: '199'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou apprend qu'Afrasiab a rejoint l'armée du Faghfour
 
 On reçut de la Chine et du Khoten la nouvelle
