@@ -12,6 +12,8 @@ tags: []
 order: '053'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lamentation de Rustem sur la mort de Sohrab
 
 Rustem ordonna à ses serviteurs de préparer un
