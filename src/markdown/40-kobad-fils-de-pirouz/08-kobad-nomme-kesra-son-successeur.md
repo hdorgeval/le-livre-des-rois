@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kobad nomme Kesra son successeur et les grands lui donnent le nom de Nouschirwan
 
 Lorsque son règne eut duré quarante ans, le cha-’
