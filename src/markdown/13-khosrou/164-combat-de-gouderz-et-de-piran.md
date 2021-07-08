@@ -12,6 +12,8 @@ tags: []
 order: '164'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Gouderz et de Piran
 
 Lorsque neuf heures de la journée se furent écoulées, il n’y avait plus aucun Turc sur cette large plaine ; l’épée avait séparé leurs âmes de leurs corps.
