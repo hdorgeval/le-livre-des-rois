@@ -8,6 +8,8 @@ tags: [Iblis, Ahriman]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iblis
 
 Le mot Iblis dont Firdousi se sert dans le récit, au lieu du mot Ahriman, qu’il emploie habituellement, paraît indiquer que cette tradition avait déjà passé par un intermédiaire musulman avant d’arriver jusqu’à lui.
