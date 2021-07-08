@@ -37,6 +37,8 @@ tags:
 order: '46'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sixième Station - Isfendiar traverse les neiges
 
 Isfendiar fit amener en toute hâte Kergsar; il lui donna coup sur coup trois coupes de vin, et ses joues devinrent comme la fleur du fenugrec.
