@@ -12,6 +12,8 @@ tags: []
 order: '025'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender arrive auprès des hommes aux pieds flexibles et tue un dragon
 
 Lorsqulil fut arrivé auprès des hommes aux pieds
