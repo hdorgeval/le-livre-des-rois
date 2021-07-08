@@ -12,6 +12,8 @@ tags: []
 order: '078'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch conclut un traité avec Afrasiab
 
 À l’aube du jour Guersiwez se présenta à la cour, revêtu d’un casque et d’une ceinture, comme c’est la coutume.
