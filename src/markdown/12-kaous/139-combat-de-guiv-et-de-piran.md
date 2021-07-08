@@ -12,6 +12,8 @@ tags: []
 order: '139'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Guiv et de Piran
 
 Guiv se revêtit de son armure et partit comme un lion, monté sur son ardent destrier.
