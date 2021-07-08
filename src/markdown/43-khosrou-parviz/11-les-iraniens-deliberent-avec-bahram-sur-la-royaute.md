@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens délibèrent avec Bahram sur la royauté
 
 Lorsque le soleil eut tiré du fourreau son épée et que salrobe jaune eut paru, Bahram envoya conroquer les hommes qui portaient haut la tête et fit asseoir sur un tapis ces s’agir couronnés ; il fit placer à part un siège d’or et s’y assit, heureux et comme un roi victorieux.
