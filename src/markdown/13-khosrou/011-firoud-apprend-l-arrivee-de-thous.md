@@ -38,6 +38,8 @@ tags:
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Firoud apprend l'arrivée de Thous
 
 Firoud apprit que la face brillante du soleil était obscurcie et que les pieds des dromadaires et des éléphants soulevaient une poussière qui roulait sur la terre comme les flots de la mer.
