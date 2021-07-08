@@ -34,6 +34,8 @@ tags:
 order: '16'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp et Ardjasp mettent en ordre leurs armées
 
 Selon le conseil de Djamasp, le roi quitta ce lieu à l’aube du jour, aussitôt que l’éclat des étoiles eut disparu, et se rendit au camp; il plaça cette armée choisie dans un endroit où le vent du matin apportait des jardins jusque dans les maisons le parfum des roses.
