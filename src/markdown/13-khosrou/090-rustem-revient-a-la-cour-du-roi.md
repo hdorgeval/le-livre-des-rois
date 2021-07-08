@@ -12,6 +12,8 @@ tags: []
 order: '090'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem revient à la cour du roi
 
 Ensuite ils firent leurs bagages pour quitter le Touran, emportant des armes précieuses, de l’or et des trônes, car Rustem avait cherché et trouvé bien des trésors.
