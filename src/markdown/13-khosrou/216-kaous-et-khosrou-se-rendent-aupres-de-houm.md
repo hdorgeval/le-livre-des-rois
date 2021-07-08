@@ -12,6 +12,8 @@ tags: []
 order: '216'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous et Khosrou se rendent auprès de Houm
 
 Kaous était absorbé dans ses penséessur cet événement, pendant qu’il se rendait auprès de l’ermite.
