@@ -29,6 +29,8 @@ tags:
 order: '065'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan apprend la mort de Kamous
 
 > Écoute-moi, ô homme intelligent [^1] : 
