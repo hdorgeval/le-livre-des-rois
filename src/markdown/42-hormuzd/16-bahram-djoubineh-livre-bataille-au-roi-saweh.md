@@ -12,6 +12,8 @@ tags: []
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh livre bataille au roi Saweh
 
 Saweh, de son côté, s’adresse à ses troupes, disant :
