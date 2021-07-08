@@ -12,6 +12,8 @@ tags: ['Ahriman', 'âme', 'Arabes', 'Destour', 'Divs', 'Iblis', 'Zohak']
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iblis se présente comme cuisinier
 
 Il se donna la forme d’un jeune homme à la parole facile, intelligent et pur de corps.
