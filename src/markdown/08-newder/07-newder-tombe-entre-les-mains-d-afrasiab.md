@@ -12,6 +12,8 @@ tags: ['Afrasiab', 'Barman', 'Karen', 'Kaweh', 'Newder', 'Touran', 'Wiseh']
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Newder tombe entre les mains d'Afrasiab
 
 Lorsque Newder apprit que Karen était parti, il se mit à le suivre avec précipitation.
