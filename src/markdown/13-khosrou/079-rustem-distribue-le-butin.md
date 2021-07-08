@@ -48,6 +48,8 @@ tags:
 order: '079'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem distribue le butin
 
 Rustem dit aux Iraniens :
