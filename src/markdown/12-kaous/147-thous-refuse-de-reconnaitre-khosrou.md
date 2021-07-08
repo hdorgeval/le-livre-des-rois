@@ -12,6 +12,8 @@ tags: []
 order: '147'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Thous refuse de reconnaître Keï Khosrou
 
 Keschwad avait à Isthakher un palais qui était la gloire de sa noble famille ; et lorsque Gouderz et Khosrou furent sortis de la présence de Kaous, ils firent leurs préparatifs pour s’y rendre.
