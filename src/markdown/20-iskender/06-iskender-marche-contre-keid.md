@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender marche contre Keïd
 
 skender observa le pays d’lran, et comprit qu’il
