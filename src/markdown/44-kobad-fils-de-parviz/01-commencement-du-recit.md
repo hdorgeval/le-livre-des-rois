@@ -40,6 +40,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque Schirouïeh se fut assis joyeusement sur le trône, il plaça sur sa tête cette couronne des Keïanides, symbole de la justice.
