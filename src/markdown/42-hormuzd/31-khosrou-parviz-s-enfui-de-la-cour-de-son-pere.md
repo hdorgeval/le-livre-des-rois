@@ -12,6 +12,8 @@ tags: []
 order: '031'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou Parviz s'enfuit de la cour de son père
 
 Il écrivit au roi une lettre pleine d’orgueil ; il y parla de toutes choses, grandes et petites, de Parmoudeh et de l’armée de Saweh, de la bataille qu’il avait livrée avec ses troupes et de ce présent d’une coill’e de femme et de la boîte noire à fuseaux qu’il avait reçu du roi, puis il disait :
