@@ -12,6 +12,8 @@ tags: []
 order: '152'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran adresse la parole aux grands de son armée
 
 Les Touraniens étaient attristés et humiliés de la défaite qu’ils venaient d’éprouver ; des pères aux joues pâles poussaient des cris sur la mort de leurs fils, des frères gémissaient sur la perte de leurs frères, tous étaient en deuil et abattus, les hères étaient effrayés de la rotation du ciel sublime.
