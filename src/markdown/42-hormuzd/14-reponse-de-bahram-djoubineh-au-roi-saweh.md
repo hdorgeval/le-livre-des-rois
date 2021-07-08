@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Bahram Djoubineh au roi Saweh
 
 L’envoyé parlait et le Sipehhed écoutait ; sa réponse fut une parole sombre.
