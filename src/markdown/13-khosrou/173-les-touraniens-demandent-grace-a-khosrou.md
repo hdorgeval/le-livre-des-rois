@@ -12,6 +12,8 @@ tags: []
 order: '173'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Touraniens demande grâce à Khosrou
 
 Le roi resta pendant quelques jours campé sur le champ de bataille, afin d’avoir le temps d’équiper ses troupes pour la campagne prochaine et de donner des royaumes à ceux qui en étaient dignes et des robes d’honneur et des diadèmes à ceux qui les avaient mérités.
