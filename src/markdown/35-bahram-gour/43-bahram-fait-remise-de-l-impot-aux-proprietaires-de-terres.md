@@ -12,6 +12,8 @@ tags: []
 order: '043'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram fait remise de l'impôt aux propriétaires de terres
 
 Lorsque Bahram fut de retour, il s’assit tranquillement sur le trône, réfléchit sur la mort et la mau-
