@@ -12,6 +12,8 @@ tags: []
 order: '184'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Fuite d'Afrasiab
 
 Lorsque la moitié de la nuit sombre fut écoulée et que la moitié du ciel eut passé au-dessus des mon--
