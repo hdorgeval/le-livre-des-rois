@@ -12,6 +12,8 @@ tags: []
 order: '104'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guersiwez retourne auprès de Siawusch
 
 Le traître Guersiwez s’apprêta pour le voyage, le cœur rempli de haine, la tête pleine de desseins secrets.
