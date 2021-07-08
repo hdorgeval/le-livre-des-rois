@@ -37,6 +37,8 @@ tags:
 order: '37'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar voit son frère Ferschidwerd
 
 La nuit vint, noire comme Ahriman le vindicatif, et le bruit des clochettes se fit entendre dans le château.
