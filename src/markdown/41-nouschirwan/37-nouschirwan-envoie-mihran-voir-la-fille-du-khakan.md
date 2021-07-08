@@ -12,6 +12,8 @@ tags: []
 order: '037'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan envoie Mihran Sitad voir la fille du Khakan
 
 Le roi appela un scribe et lui parla longuement du Khakan ; il lui ordonna d’écrire une réponse à sa lettre, de l’écrire dans un choix de belles paroles.
