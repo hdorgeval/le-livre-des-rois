@@ -27,6 +27,8 @@ tags:
 order: '052'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens tiennent conseil sur leur position
 
 Lorsque le soleil s’élança sur la voûte céleste, Thous et Gouderz étaient pleins d’inquiétude et Thous dit :
