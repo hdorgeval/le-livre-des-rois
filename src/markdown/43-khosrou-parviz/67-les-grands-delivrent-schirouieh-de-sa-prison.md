@@ -12,6 +12,8 @@ tags: []
 order: '067'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les grands délivrent Schirouïeh de sa prison
 
 Ferrukhzad savait que Khosrou apprendrait par l’armée toutes ses trahisons et lorsque cet ennemi du roi fut sorti du palais, il n’osa plus se présenter devant le trône.
