@@ -12,6 +12,8 @@ tags: []
 order: '021'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan donne une fête aux Mobeds
 
 Or il arriva qu’un jour le roi fit dresser des tables et inviter les Mobeds qui avaient du savoir et le désir de s’instruire, qui étaient éloquents, intelligents et observateurs.
