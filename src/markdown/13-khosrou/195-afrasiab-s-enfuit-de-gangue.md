@@ -12,6 +12,8 @@ tags: []
 order: '195'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab s'enfuit de Gangue
 
 Afrasiab se rendit dans son palais, le cœur gonflé de sang, les yeux remplis de larmes ; il monta sur la tour où se trouvait son palais ; il monta et regarda sa ville.
