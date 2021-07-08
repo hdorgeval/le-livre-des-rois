@@ -32,6 +32,8 @@ tags:
 order: '051'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan de la Chine s'approche du Hemawen
 
 Lorsque Piran fut arrivé près de l’armée d’Afrasiab, il vit les vallées et les plaines couvertes de l’empreinte des sabots des chevaux ;
