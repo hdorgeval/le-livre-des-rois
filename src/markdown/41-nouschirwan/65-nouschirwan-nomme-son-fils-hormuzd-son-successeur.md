@@ -12,6 +12,8 @@ tags: []
 order: '065'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan annonce son fils Hormuzd son successeur
 
 Les actions du monde ne ressemblent pas à ses dehors et son dedans n’est que peine et douleurs.
