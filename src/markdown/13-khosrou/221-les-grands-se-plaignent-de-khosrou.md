@@ -12,6 +12,8 @@ tags: []
 order: '221'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les grands se plaignent de ce que Keï Khosrou ferme sa cour
 
 Tous les Pehlewans de l’armée d’Iran restèrent confondus de ce que faisait le roi et tous ces hommes illustres dans les combats eurent chacun une idée différente.
