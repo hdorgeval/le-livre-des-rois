@@ -26,6 +26,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque Bahram Gour s’assit sur son trône, le soleil rendit hommage à sa royauté.
