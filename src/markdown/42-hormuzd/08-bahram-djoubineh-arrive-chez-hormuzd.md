@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh arrive chez le roi Hormuzd
 
 L’ambitieux Bahram accourut de Berda sans avoir appelé auprès de lui aucun des braves de l’armée et quand il arriva, le roi le fit entrer à l’instant.
