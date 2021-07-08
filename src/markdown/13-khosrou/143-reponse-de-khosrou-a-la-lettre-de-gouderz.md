@@ -12,6 +12,8 @@ tags: []
 order: '143'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Khosrou à la lettre de Gouderz
 
 Khosrou appela un secrétaire plein de prudence et lui parla sagement ; il lui fit écrire une réponse à la lettre de Gouderz, dans laquelle il se montra tour à tour gracieux et sévère.
