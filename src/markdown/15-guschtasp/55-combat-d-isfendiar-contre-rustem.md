@@ -37,6 +37,8 @@ tags:
 order: '55'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat d'Isfendiar contre Rustem
 
 ## Commencement du récit.
