@@ -12,6 +12,8 @@ tags: []
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou entre dans le pays de Roum
 
 Lorsque l’armée fut partie de ce lieu frais, elle continua en toute hâte sa route vers la frontière du Roum, jusqu’à ce qu’elle eût atteint la grande ville, à laquelle le Kaïsar avait donné le nom de Karsan.
