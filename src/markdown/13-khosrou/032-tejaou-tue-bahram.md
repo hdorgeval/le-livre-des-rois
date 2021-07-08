@@ -27,6 +27,8 @@ tags:
 order: '032'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Tejaou tue Bahram
 
 Lorsque les Turcs furent arrivés auprès de Piran, ils lui racontèrent les hauts faits de ce jeune homme et parlèrent longuement de sa bravoure, de leur combat et de tout ce qui le regardait, disant :
