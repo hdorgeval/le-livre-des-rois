@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Kaïsar de Roum demande la paix à Nouschirwan
 
 Ensuite Farfourius apporta à Roum des nouvelles et raconta le sort de Kalinius ; il dit au Kaïsar :
