@@ -24,6 +24,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Zohak s’étant emparé du trône des rois, y resta mille ans ; le monde entier se soumit à lui et un long espace de temps se passa ainsi.
