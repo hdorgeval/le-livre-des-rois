@@ -12,6 +12,8 @@ tags: []
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahman venge la mort d'Isfendiar
 
 Bahman s’assit sur le trône de son grand-père, se revêtit d’une armure et se mit à faire des largesses.
