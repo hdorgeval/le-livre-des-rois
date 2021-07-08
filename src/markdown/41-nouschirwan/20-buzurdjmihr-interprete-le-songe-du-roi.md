@@ -12,6 +12,8 @@ tags: []
 order: '020'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Buzurdjmihr interprète le songe du roi
 
 En quittant cette forêt, ils continuèrent leur route en toute hâte et arrivèrent auprès du roi.
