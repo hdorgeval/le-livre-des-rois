@@ -12,6 +12,8 @@ tags: ['âme', 'Bahram', 'Bijen', 'Chine', 'Dieu', 'Guiv', 'Iraniens', 'Piran', 
 order: '033'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv met à mort Tejaou
 
 Lorsque le soleil brillant commença à baisser, Guiv devint inquiet sur le sort de son frère et dit à Bijen :
