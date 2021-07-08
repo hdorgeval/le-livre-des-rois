@@ -27,6 +27,8 @@ tags:
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab assassine Newder
 
 Afrasiab reçut la nouvelle que ses guerriers illustres avaient cessé de vivre, son âme fut enflammée de douleur et de soucis et le sang de son cœur mouillait ses deux yeux.
