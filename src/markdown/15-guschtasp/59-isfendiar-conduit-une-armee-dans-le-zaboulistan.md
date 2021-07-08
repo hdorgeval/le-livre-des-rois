@@ -30,6 +30,8 @@ tags:
 order: '59'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar conduit une armée dans le Zaboulistan
 
 Le lendemain matin, à l’heure où chante le coq, on entendit les timbales sous la porte du palais;
