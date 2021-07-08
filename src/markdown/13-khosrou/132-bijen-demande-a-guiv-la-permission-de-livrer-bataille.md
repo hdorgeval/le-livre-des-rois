@@ -12,6 +12,8 @@ tags: []
 order: '132'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen demande à Guiv la permission de livrer bataille
 
 Les deux armées, composées de guerriers illustres et avides de combat, restèrent ainsi immobiles en face l’une de l’autre pendant trois jours et trois nuits ; tu aurais dit que pas un homme ne remuait les lèvres.
