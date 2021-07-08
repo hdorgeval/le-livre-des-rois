@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Entrevue entre Khosrou Parviz et Bahram Djoubineh
 
 Khosrou et Bahram se rencontrèrent, l’un le visage ouvert et l’autre avec une mine sombre.
