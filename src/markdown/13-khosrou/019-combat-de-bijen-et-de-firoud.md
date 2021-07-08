@@ -27,6 +27,8 @@ tags:
 order: '019'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Bijen et de Firoud
 
 Le jeune roi dit à Tokhareh :
