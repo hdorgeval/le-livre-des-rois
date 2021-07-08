@@ -40,6 +40,8 @@ tags:
 order: '80'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem lance une flèche dans l'oeil d'Isfendiar
 
 Rustem comprit que les supplications ne servaient à rien auprès d’Isfendiar;
