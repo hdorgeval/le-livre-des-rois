@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh monte sur le trône
 
 Lorsque le rideau couleur de poix parut, que les astres brillèrent à la voûte du ciel et que l’on entendit la voix des gardes de nuit, Bahram demanda un roseau et du papier.-Un scribe intelligent et noble arriva ; Bahram plaça devant ce savant l’encrier et le roseau et lui dit :
