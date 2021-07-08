@@ -18,6 +18,8 @@ tags: ['âme', 'Créateur', 'Dieu', 'Roudabeh', 'Rustem', 'Séistan', 'Tehemten'
 order: '90'
 ---
 
+<!-- LTeX: language=fr -->
+
 # La perte de son fils rend folle Roudabeh
 
 Tout le pays de Séistan porta le deuil de Rustem pendant une année, et tous les vêtements étaient noirs et bleus.
