@@ -26,6 +26,8 @@ tags:
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lohrasp fonde le Temple du Feu à Balkh
 
 Lorsque Lohrasp se fut assis sur le trône de la justice et qu’il eut placé sur sa tête la couronne des rois des rois, il se mit à célébrer le Créateur et à lui rendre des grâces innombrables.
