@@ -12,6 +12,8 @@ tags: []
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh a un songe et dispose son armée
 
 Bahram était resté seul dans sa tente ; il fit appe-ler les Iraniens et discuta avec son armée le plan de la bataille, jusqu’à ce que le monde fût couvert de ténèbres.
