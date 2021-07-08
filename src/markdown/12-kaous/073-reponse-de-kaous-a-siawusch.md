@@ -12,6 +12,8 @@ tags: []
 order: '073'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Kaous à la lettre de Siawusch
 
 Quand le roi de l’Iran eut reçu cette lettre, sa couronne et son trône s’élevèrent jusqu’à Saturne.
