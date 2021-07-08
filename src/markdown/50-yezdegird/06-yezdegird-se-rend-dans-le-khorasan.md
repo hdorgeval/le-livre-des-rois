@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Yezdegird tient conseil avec les Iraniens et se rend dans le Khorasan
 
 Farrukhzad, fils d’Hormuzd, furieux et répandant des larmes, traversa le Tigre, entra dans Kerkh et livra un assaut terrible qui ne laissa vivant aucun des guerriers armés de lances.
