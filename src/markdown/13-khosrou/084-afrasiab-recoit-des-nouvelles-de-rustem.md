@@ -59,6 +59,8 @@ tags:
 order: '084'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab reçoit des nouvelles de Rustem
 
 Afrasiab apprit que le royaume de Zadschem était dévasté ;
