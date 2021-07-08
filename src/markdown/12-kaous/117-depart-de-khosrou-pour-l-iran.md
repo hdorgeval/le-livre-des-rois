@@ -12,4 +12,6 @@ tags: []
 order: '117'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Départ de Keï Khosrou pour le pays de l'Iran 
