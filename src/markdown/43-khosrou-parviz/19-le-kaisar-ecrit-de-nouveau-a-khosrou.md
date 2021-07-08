@@ -12,6 +12,8 @@ tags: []
 order: '019'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Kaïsar écrit de nouveau à Khosrou
 
 Il écrivit à l’instant et rapidement une lettre ; il y accumula les bénédictions et dit :
