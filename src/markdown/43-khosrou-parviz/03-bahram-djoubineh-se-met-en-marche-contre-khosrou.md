@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh se met en marche contre Khosrou Parvis
 
 Bahram apprit quel sort avait frappé le roi, qu’on avait brûlé ses yeux brillants et que ces flambeaux qui ressemblaient à deux narcisses dans un jardin étaient éteints, que son fils était monté sur le trône et que la fortune du père était abaissée.
