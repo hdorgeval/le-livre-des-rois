@@ -12,6 +12,8 @@ tags: []
 order: '062'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch se rend chez Soudabeh
 
 Or il y avait un homme nommé Hirbed ; son cœur et sa tête étaient de la fumée, son âme était mauvaise.
