@@ -25,6 +25,8 @@ tags:
 order: '11'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ahren demande en marriage la troisième fille du Kaisar
 
 Il y avait un homme plus jeune que Mirin, dont la taille dépassait celle de tous les grands du Roum : c’était un héros plein de dignité ; son nom était Ahren, il descendait d’une race puissante, son corps était d’airain.
