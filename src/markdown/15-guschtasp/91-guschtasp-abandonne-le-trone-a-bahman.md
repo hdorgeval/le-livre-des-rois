@@ -18,6 +18,8 @@ tags: ['Bahman', 'Beschouten', 'Djamasp', 'Guschtasp', 'Isfendiar', 'Tehemten']
 order: '91'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp abandonne le trône à Bahman
 
 Maintenant que la vie de Tehemten est terminée, je vais raconter d’autres histoires.
