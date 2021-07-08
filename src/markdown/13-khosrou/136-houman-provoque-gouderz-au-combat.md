@@ -12,6 +12,8 @@ tags: []
 order: '136'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Houman provoque Gouderz au combat
 
 Ensuite Houman partit si impétueusement, qu’on aurait cru que c’était un Div malfaisant.
