@@ -31,6 +31,8 @@ tags:
 order: '22'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Dogdo donne naissance à Zoroastre [^1]
 
 Au bout de neuf mois, Dogdo accoucha d'un fils, qui fut nommé Zoroastre.
