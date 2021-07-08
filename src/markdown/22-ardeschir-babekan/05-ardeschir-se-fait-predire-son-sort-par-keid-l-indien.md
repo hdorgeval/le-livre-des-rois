@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir se fait prédire son sort par Keïd l'Indien
 
 Lorsque Schapour fut devenu comme un cyprès élancé, Ardeschir ne cessait de craindre pour lui les effets du mauvais œil ; jamais il ne s’en séparait un instant et il en fit comme un Destour et un vizir.
