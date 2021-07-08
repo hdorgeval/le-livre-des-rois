@@ -12,6 +12,8 @@ tags: []
 order: '030'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Khosrou au Kaïsar sur sa victoire et réponse du Kaïsar
 
 Khosrou, de son côté, alla au camp que Bahram avait occupé avec son armée ; il livra tout le camp au pillage ; il donna à ses troupes tout le trésor et les couronnes de Bahram.
