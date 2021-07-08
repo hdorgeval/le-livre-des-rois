@@ -12,6 +12,8 @@ tags: []
 order: '031'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Neïathous se met en colère contre Bendouï.
 
 Mariam fait la paix entre eux
