@@ -34,6 +34,8 @@ tags:
 order: '060'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Rustem avec Aschkebous
 
 Il y avait un brave nommé Aschkebous qui poussait des cris semblables au bruit de la timbale ;
