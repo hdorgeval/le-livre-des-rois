@@ -25,6 +25,8 @@ tags:
 order: '28'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gurezm calomnie Isfendiar
 
 Le conteur m’a raconté que, dans le temps où le roi avait donné un trône à Isfendiar, il y avait un homme orgueilleux, dont le nom était Gurezm, un héros renommé qui avait livré maint combat.
