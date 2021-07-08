@@ -12,6 +12,8 @@ tags: []
 order: '176'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab apprend la mort de Piran et les préparatifs de guerre de Keï Khosrou
 
 Le roi du Touran était assis en repos de l’autre côté de Djadj, sur son trône d’ivoire ; il était assis sur les bords du Gulzarrioun avec quelques amis, l6 tous des grands et des héros.
