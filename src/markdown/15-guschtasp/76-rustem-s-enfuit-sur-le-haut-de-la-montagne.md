@@ -40,6 +40,8 @@ tags:
 order: '76'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem s'enfuit sur le haut de la montagne
 
 Ils prirent leurs arcs et leurs flèches en bois de peuplier, et le soleil en perdit son éclat;
