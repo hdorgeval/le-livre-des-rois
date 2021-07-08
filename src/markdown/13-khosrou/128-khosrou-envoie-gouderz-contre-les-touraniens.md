@@ -12,6 +12,8 @@ tags: []
 order: '128'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou envoie Gouderz contre les touraniens
 
 Khosrou, le roi toujours victorieux, apprit qu’une armée touranienne était entrée dans l’Iran ; que le cruel Afrasiab, issu d’une race méchante, avait renoncé au repos et au sommeil pour se venger ; qu’il voulait effacer sa honte ; qu’il faisait de tous côtés des préparatifs de guerre ; qu’il frottait avec du poison le fer de ses lances, sans doute pour tourner la bride de son cheval vers l’Iran ; qu’il voulait faire passer le Djihoun à trois cent mille cavaliers du Touran, armée qui, au moment où il faudrait combattre pour la gloire, ferait monter jusqu’au firmament l’écume des eaux du Djihoun ; que le bruit des tambours privait de sommeil les grands de sa cour ; que le son des clairons et le tintement des clochettes faisait bondir tous les cœurs dans le Touran ; que les lions les plus courageux n’oseraient se montrer, si cette armée arrivait dans l’Iran pour livrer bataille ; qu’Afrasiab avait confié la garde de la frontière du Touran à Piran et avait fait partir avec lui des troupes nombreuses ; enfin qu’il avait envoyé sur la frontière du Kharezm cinquante mille hommes décidés à se battre, sous le commandement de Schideh au cœur de lion, dont l’épée frappait les flammes de terreur, armée semblable à des éléphants furieux dont le poids aplatirait les montagnes.
