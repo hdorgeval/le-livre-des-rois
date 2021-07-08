@@ -12,6 +12,8 @@ tags: []
 order: '035'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Sohrab
 
 Quand neuf mois eurent passé sur la tête de la fille du roi, elle mit au monde un enfant beau comme la lune brillante.
