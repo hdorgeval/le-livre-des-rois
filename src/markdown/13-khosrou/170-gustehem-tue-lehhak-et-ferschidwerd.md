@@ -12,6 +12,8 @@ tags: []
 order: '170'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gustehem tue Lehhak et Ferschidwerd
 
 La nuit noire étant venue, il fit clair de lune ; les deux héros fatigués étaient alors livrés au sommeil.
