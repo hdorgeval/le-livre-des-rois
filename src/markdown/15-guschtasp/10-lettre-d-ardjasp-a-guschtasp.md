@@ -40,6 +40,8 @@ tags:
 order: '10'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Ardjasp à Guschtasp
 
 Les braves de la Chine furent de son avis; ils choisirent parmi eux deux hommes, dont l’un était le puissant Bidirefsch, un vieux et vaillant magicien, un loup hargneux; l’autre était un magicien du nom de Namkhast, et dont le cœur ne cherchait que la destruction.
