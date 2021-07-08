@@ -39,6 +39,8 @@ tags:
 order: '018'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Guiv et de Firoud
 
 Guiv ayant ainsi parlé, revêtit promptement sa cuirasse et s’élança comme un bélier sauvage qui grimpe sur une montagne.
