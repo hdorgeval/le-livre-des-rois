@@ -12,6 +12,8 @@ tags: []
 order: '124'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Retour de Rustem auprès de Keï Khosrou
 
 Lorsque le vaillant roi apprit que le lion revenait victorieux de la forêt ; qu’il avait délivré Bijen des fers, de la prison et des mains du méchant dragon ; qu’il avait détruit une armée de Turcs et réduit au néant tous les plans de ses ennemis, il se présenta, dans sa joie, devant le Créateur et resta longemps le visage prosterné contre terre.
