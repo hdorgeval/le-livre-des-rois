@@ -12,6 +12,8 @@ tags: []
 order: '028'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Troisième combat de Khosrou avec Bahram Djoubineh -défaite de Bahram
 
 A l’instant l’armée se mit en marche, quitta la montagne et le monde devint noir par la poussière soulevée par les cavaliers.
