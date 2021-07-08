@@ -12,6 +12,8 @@ tags: []
 order: '159'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Bijen et de Rouïn
 
 En sixième lieu s’élancèrent sur le champ de bataille Bijen et Bouïn ; ils bandèrent tous deux leur arc et s’attaquèrent à droite et à gauche ; mais les flèches qu’ils lancèrent de leurs arcs ne produisirent aucun effet.
