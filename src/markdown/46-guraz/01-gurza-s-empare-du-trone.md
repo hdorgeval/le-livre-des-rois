@@ -12,6 +12,8 @@ tags: []
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guraz s'empare du trône
 
 Lorsque Ferayîn eut posé sur sa tête la couronne des Keïanides, il se mit à parler à l’aventure, disant :
