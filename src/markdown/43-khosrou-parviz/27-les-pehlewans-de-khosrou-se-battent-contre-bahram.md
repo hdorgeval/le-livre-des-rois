@@ -12,6 +12,8 @@ tags: []
 order: '027'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Pehlewans de Khosrou se battent contre Bahram Djoubineh
 
 Lorsque le drapeau blanc du soleil se leva de la mer et que les astres désespéraient de la durée des ténèbres, les tambours partirent des deux enceintes des tentes des chefs, avec les éléphants et les clairons.
