@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender conduit son armée à la guerre contre Four
 
 Lorsque cette lettre fut parvenue à Iskender, il choisit à l’instant des héros dans son armée, des
