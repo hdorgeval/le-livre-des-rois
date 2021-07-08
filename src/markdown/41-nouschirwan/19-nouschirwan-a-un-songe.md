@@ -12,6 +12,8 @@ tags: []
 order: '019'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan a un songe et Buzurdjmihr se rend à la cour
 
 Maintenant nous allons parler d’un sujet plus gai, de l’histoire de Buzurdjmihr.
