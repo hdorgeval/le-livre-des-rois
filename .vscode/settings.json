@@ -13,7 +13,7 @@
         "typescript",
         "typescriptreact",
     ],
-    "jest.autoEnable": false,
+    "jest.autoRun": "off",
     "editor.codeActionsOnSave": {
         "source.fixAll.eslint": true
     },
