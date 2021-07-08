@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # 4ème aventure -Rustem tue une magicienne
 
 Ayant achevé ses dévotions, Rustem mit à Raksch ses caparaçons, monta à cheval, reprit son chemin et entra dans le pays des magiciens.
