@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram retourne auprès de son père Yezdeguerd avec Noman
 
 Son père eut envie de voir Bahram, que dis-je, Bahram !
