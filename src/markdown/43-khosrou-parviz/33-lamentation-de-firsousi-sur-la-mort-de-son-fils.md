@@ -12,6 +12,8 @@ tags: []
 order: '033'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lamentation de Firdousi sur la mort de son fils
 
 J’ai dépassé la soixante-cinquième année et il ne me servirait à rien d’étendre les mains vers des richesses.
