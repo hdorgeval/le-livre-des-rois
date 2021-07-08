@@ -12,6 +12,8 @@ tags: []
 order: '076'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab tient conseil avec les grands
 
 Quand la moitié d’une rotation du ciel fut achevée et que le soleil brillant eut montré sa face, les grands se présentèrent devant le roi humblement et couverts de leurs casques.
