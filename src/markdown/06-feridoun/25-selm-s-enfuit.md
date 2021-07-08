@@ -27,6 +27,8 @@ tags:
 order: '025'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Selm s'enfuit et meurt de la main de Minoutchehr
 
 Kakoui étant mort, le roi de l’Occident se trouva sans appui et changea ses plans.
