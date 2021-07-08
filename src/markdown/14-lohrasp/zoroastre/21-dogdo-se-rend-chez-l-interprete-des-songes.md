@@ -35,6 +35,8 @@ tags:
 order: '21'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Dogdo se rend chez l'interprète des songes [^1]
 
 C'était vers le milieu de la nuit.
