@@ -35,6 +35,8 @@ tags:
 order: '037'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou renvoie Thous dans le Touran
 
 Lorsque le soleil brillant se leva et que l’aurore s’élança devant lui sur la courbe du firmament, Thous parut soudain, avec les grands de l’armée, en présence de Khosrou.
