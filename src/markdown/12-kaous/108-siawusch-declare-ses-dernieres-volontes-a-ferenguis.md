@@ -12,6 +12,8 @@ tags: []
 order: '108'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch déclare ses dernières volontés à Ferenguis
 
 Siawusch lui dit :
