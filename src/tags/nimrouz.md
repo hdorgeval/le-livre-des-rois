@@ -8,6 +8,8 @@ tags: [Nimrouz]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nimrouz
 
 Nimrouz signifie le royaume du midi, c’est-à-dire le Seïstan.
