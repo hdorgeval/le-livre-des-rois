@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat d'Iskender contre les indiens et mort de Four
 
 Lorsque Iskender se fut approché de Four, il ob- serva de loin ces cavaliers et cette armée. Il s’éleva
