@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir va à la cour d'Ardewan
 
 Lorsque Ardeschir fut arrivé à la cour, on au-nonce au roi qu’il demandait audience et Ardewan appela amicalement auprès de lui ce jeune homme et lui parla longuement de Babek, le fit asseoir près du trône, lui fit préparer un logement dans les de»
