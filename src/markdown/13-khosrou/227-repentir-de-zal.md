@@ -12,6 +12,8 @@ tags: []
 order: '227'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Keï Khosrou et repentir de Zal
 
 Keï Khosrou écouta le discours du Destau et se contint pendant un temps en étouffant ses larmes, ensuite il dit gravement :
