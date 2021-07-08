@@ -35,6 +35,8 @@ tags:
 order: '028'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou rappelle Thous
 
 Le messager de Gouderz apprit à Khosrou que les jours de bonheur s’étaient obscurcis.
