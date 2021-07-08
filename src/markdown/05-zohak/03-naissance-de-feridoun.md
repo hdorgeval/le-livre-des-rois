@@ -27,6 +27,8 @@ tags:
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Feridoun
 
 Ainsi passa un long temps pendant lequel l’homme aux serpents était en proie à sa terreur.
