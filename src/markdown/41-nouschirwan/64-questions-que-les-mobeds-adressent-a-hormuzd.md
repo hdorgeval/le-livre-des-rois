@@ -12,6 +12,8 @@ tags: []
 order: '064'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Questions que les Mobeds adressent à Hormuzd et ses réponses
 
 Les Mobeds, les hommes qui recherchent en tout la vérité et les conseillers du roi s’assembl’erent ; ils firent appeler Hormuzd, le prince ambitieux et le firent asseoir devant cette réunion illustre.
