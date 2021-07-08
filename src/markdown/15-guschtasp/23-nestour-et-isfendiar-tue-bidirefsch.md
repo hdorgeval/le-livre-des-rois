@@ -29,6 +29,8 @@ tags:
 order: '23'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nestour et Isfendiar tue Bidirefsch
 
 Guschtasp donna à Nestour son cheval Behzad, sa cuirasse et son casque d’acier; le fils qui avait perdu son père revêtit cette armure, monta sur Behzad, le destrier noir, et se mit à chevaucher vers le champ de bataille assis sur ce cheval de belle couleur; il se plaça devant les rangs des ennemis, poussa un soupir et s’écria:
