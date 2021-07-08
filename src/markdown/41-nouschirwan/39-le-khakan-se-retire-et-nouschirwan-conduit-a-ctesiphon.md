@@ -12,6 +12,8 @@ tags: []
 order: '039'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan se retire et Nouschirwan conduit son armée à Ctésiphon
 
 Losque le Khakan reçut des nouvelles de l’Iran et du roi d’Iran, de la joie avec laquelle sa fille avait été ’reçue et du plaisir que donnait au roi cette alliance, il évacua le’Soghd.
