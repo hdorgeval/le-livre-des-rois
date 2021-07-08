@@ -12,6 +12,8 @@ tags: []
 order: '166'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lehhak et Ferschidwerd se lamentent sur la mort de Piran
 
 La sentinelle vit du haut du mont Kenabed ces événements étonnants et descendit en courant au-
