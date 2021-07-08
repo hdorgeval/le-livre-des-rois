@@ -12,6 +12,8 @@ tags: ["Ahriman", "âme", "Créateur", "Garde-toi", "Mars", "Ormuzd", "Puissant"
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque Ormuzd le Puissant fut assis sur le trône, la griffe du loup s’abstint de sa proie ; il répandit sur le monde la sécurité et les œuvres d’Ahriman disparurent.
