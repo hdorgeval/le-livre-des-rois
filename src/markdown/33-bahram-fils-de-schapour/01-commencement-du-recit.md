@@ -12,6 +12,8 @@ tags: ['Bahram', 'cyprès', 'Dieu', 'Mahmoud', 'quatorze', 'Schapour', 'Yezdegue
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Le roi Schapour avait un fils unique, vieux de sagesse et jeune d’années.
