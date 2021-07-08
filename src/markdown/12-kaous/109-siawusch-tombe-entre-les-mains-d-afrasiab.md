@@ -12,6 +12,8 @@ tags: []
 order: '109'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch tombe entre les mains d'Afrasiab
 
 Après cela il se prépara au départ ; il était stupéfié de sa mauvaise fortune.
