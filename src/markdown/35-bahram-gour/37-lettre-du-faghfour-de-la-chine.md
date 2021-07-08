@@ -12,6 +12,8 @@ tags: []
 order: '037'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre du Faghfour de la Chine et réponse de Bahram
 
 Lorsque le Faghfour de la Chine apprit qu’un homme plein de majesté avait été envoyé du pays d’Iran auprès de Schenguil, qu’il avait l’air d’un roi et d’un homme de grande naissance et que Schenguil lui avait donné sa fille pour que son diadème touchât la lune, ce puissant prince écrivit une lettre au roi Bahram, adressée ainsi : De la part du roi du monde, qui est le chef des hommes illustres et la couronne des grands, à l’envoyé perse, qui est arrivé à Kanoudj avec trente compagnons.»
