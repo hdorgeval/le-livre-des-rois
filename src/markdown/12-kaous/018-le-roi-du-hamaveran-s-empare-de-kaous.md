@@ -12,6 +12,8 @@ tags: []
 order: '018'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le roi du Hamaveran s'empare de Kaous
 
 Mais le cœur du roi du Hamaveran était triste ; il cherchait de tous côtés un remède à son malheur et lorsque sept jours furent écoulés, il parut, au matin du huitième, un messager devant Kaous, qui lui dit :
