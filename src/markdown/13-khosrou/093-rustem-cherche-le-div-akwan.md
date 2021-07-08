@@ -12,6 +12,8 @@ tags: []
 order: '093'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem cherche le div Akwan
 
 Rustem partit pour la chasse, semblable à un lion courageux, un lacet en main et assis sur un dragon.
