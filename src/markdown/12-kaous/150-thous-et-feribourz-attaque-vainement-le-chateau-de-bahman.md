@@ -12,6 +12,8 @@ tags: []
 order: '150'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Thous et Feribourz attaque en vain le château de Bahman
 
 Lorsque le soleil fut entré dans le signe du Lion et au moment où le ciel subjuguait la nuit, Feribourz et Thous entrèrent à la hâte chez le roi du monde.
