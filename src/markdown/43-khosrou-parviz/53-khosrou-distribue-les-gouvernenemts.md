@@ -12,6 +12,8 @@ tags: []
 order: '053'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou distribue les gouvernements et envoie des armées aux frontières de l'Iran
 
 Lorsque la main du roi se fut étendue sur tout fmpire et que le monde entier lui fut soumis, tous ceux qui portaient des couronnes devinrent ses sujets et tous ses sujets furent enrichis.
