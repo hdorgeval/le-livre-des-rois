@@ -12,6 +12,8 @@ tags: ['Arnewaz', 'cyprès', 'Divs', 'Djem', 'Feridoun', 'Kenderev', 'Roi', 'Sch
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ce qui se passa entre Feridoun et le lieutenant de Zohak
 
 Zohak avait un homme de confiance humble comme un esclave et quand il quittait le pays, il lui confiait son trône, son trésor et son palais, car son maître admirait son vif attachement.
