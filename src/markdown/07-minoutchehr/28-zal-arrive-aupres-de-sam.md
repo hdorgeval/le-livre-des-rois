@@ -32,6 +32,8 @@ tags:
 order: '028'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal arrive auprès de Sam
 
 Pendant ce temps Zal accourut en toute hâte, comme un oiseau ailé, comme un vaisseau sur l’eau.
