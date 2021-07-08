@@ -12,6 +12,8 @@ tags: []
 order: '133'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv découvre Keï Khosrou
 
 Guiv errait ainsi’dans le pays de Touran, comme un insensé, espérant trouver quelque trace du roi.
