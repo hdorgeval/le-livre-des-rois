@@ -12,6 +12,8 @@ tags: []
 order: '020'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keïdafeh donne un conseil à Iskender
 
 Keïdafeh se mit à rire de lui, et de sa bravoure, et de ses paroles de colère, et lui dit: «0 roi qui «ressembles au lion! ne te vante pas trop de ta bra- 13.
