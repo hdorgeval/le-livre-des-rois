@@ -12,6 +12,8 @@ tags: []
 order: '223'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou voit en rêve le Serosch
 
 Lorsqu’ils furent partis, le roi vigilant ordonna de baisser le rideau de la salle d’audience et s’assit en pleurant dans sa douleur, se tordant et les joues pâles.
