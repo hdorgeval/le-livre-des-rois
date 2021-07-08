@@ -12,6 +12,8 @@ tags: ['âme', 'Dikhan', 'Feridoun', 'Guschtasp', 'Juge', 'Tout-puissant']
 order: '06'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Un Dikhan reçoit Guschtasp chez lui
 
 Guschtasp partit, le cœur en souci, en poussant des cris et en maudissant le ciel sublime, de ce que sa part dans le monde n’était que du poison.
