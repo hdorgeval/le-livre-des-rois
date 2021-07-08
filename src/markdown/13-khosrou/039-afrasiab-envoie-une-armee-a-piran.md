@@ -13,6 +13,8 @@ tags:
 order: '039'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab envoie une armée à Piran
 
 Il envoya à l’heure du sommeil, auprès d’Afrasiab, un messager monté sur un dromadaire et lui fit dire :
