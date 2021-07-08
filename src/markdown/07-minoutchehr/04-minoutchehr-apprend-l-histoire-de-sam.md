@@ -31,6 +31,8 @@ tags:
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Minoutchehr apprend l'histoire de Sam et de Zal-zer
 
 Minoutchehr reçut du Zaboulistan la nouvelle que Sam était revenu de la montagne en grande pompe.
