@@ -25,6 +25,8 @@ tags:
 order: '038'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran envoie un message aux iraniens
 
 Thous envoya de là auprès de Piran un messager rapide comme le vent et monté sur un dromadaire et lui fit dire :
