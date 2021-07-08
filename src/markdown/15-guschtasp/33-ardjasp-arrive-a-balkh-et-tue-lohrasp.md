@@ -32,6 +32,8 @@ tags:
 order: '33'
 ---
 
+<!-- LTeX: language=fr -->
+
 # L'armée d'Ardjasp arrive à Balkh et tue Lohrasp
 
 Je vais maintenant rajeunir le récit de la lutte contre Ardjasp, et, par mon talent, délivrer de mauvaises herbes le jardin.
