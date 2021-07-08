@@ -12,6 +12,8 @@ tags: []
 order: '207'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou envoie un message au Faghfour de la Chine et au roi du Mekran
 
 Il choisit dans l’armée des messagers qui savaient parler et écouler, les envoya auprès du Khakan de l3l la Chine, du Faghfour et du roi du Mekran et leur fit dire :
