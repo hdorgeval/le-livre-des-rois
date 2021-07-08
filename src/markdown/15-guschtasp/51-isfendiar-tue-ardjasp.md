@@ -33,6 +33,8 @@ tags:
 order: '51'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar tue Ardjasp
 
 Quand la nuit fut devenue plus sombre, Isfendiar revêtit son armure de combat;
