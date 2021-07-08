@@ -12,6 +12,8 @@ tags: []
 order: '042'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Meurtre de Bahram Djoubineh par Kaloun
 
 Kaloun prit le sceau et partit, courant comme un asclian à qu’au jour de Bahram, qui était néfaste pour Djoubineh.
