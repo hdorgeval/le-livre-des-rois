@@ -12,6 +12,8 @@ tags: []
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous retourne en Iran et congédie Rustem
 
 Lorsque Kaous atteignit le pays d’Iran, le monde disparut sous la poussière que soulevait son armée ; le bruit monta jusqu’au soleil et les hommes et les femmes vinrent à sa rencontre avec des cris de joie.
