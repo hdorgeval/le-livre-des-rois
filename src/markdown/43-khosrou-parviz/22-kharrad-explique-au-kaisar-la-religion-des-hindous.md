@@ -12,6 +12,8 @@ tags: []
 order: '022'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kharrad explique au Kaïsar la religion des Hindous
 
 Le Kaîsar lui dit :
