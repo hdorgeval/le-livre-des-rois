@@ -12,6 +12,8 @@ tags: []
 order: '142'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gouderz demande du secours à Khosrou
 
 Gouderz appela un secrétaire et lui dit :
