@@ -27,6 +27,8 @@ tags:
 order: '027'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran surprend les iraniens pendant la nuit
 
 Piran choisit dans son armée glorieuse trente mille cavaliers armés d’épées, avec lesquels il partit à minuit en défendant de battre le tambour, de sonner du clairon et de faire du bruit.
