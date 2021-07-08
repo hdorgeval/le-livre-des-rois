@@ -12,6 +12,8 @@ tags: []
 order: '178'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Pescheng se présente de son père Afrasiab
 
 Le quatrième jour, quand vint le moment d’agir, le vaillant Pescheng se présenta devant son père et lui dit :
