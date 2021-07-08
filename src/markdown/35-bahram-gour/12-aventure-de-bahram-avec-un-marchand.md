@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure de Bahram avec un marchand et son apprenti
 
 La semaine suivante le roi alla de nouveau à la chasse ; il était mal disposé lorsqu’il partit avec le carquois et les flèches ; la plaine était échaudée par un soleil ardent et il revint lentement de la chasse.
