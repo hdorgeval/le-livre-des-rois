@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou tient conseil avec ses Sipehdars et ses Mobeds
 
 De l’autre côté, le roi du monde s’en retourna, et, ayant passé sain et sauf le pont du Nahrewan, il convoqua tous les grands de l’armée et fit asseoir devant le trône royal ceux qui y avaient droit.
