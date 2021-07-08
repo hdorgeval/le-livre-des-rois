@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Hormuzd met à mort Simah Berzin et Bahram Adermihan
 
 Lorsque l’affaire du Mobed fut terminée si tristement, tout le pays fut bouleversé par la douleur ; mais le sanguinaire et indigne maître du monde ne pensa pas un instant aux malheurs du sort.
