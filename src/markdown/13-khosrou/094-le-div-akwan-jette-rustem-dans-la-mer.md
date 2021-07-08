@@ -12,6 +12,8 @@ tags: []
 order: '094'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Div Akwan jette Rustem dans la mer
 
 Akwan le voyant de loin endormi, accourut comme le vent auprès de lui, creusa la terre tout autour, souleva la motte sur laquelle il était couché et l’éleva jusqu’au ciel.
