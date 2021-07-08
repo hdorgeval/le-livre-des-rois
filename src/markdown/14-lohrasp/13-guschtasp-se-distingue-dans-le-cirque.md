@@ -13,6 +13,8 @@ tags:
 order: '13'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp se distingue dans le cirque
 
 Le Kaisar fit construire devant son palais une tribune qui ressemblait à son trône brillant ; ses deux gendres se rendirent au cirque et réjouirent son cœur enchanté, en tirant des flèches, en jouant à la balle, en joutant avec des lances ; en faisant tourner leurs chevaux avec un art parfait ils s’élançaient à gauche et à droite, on aurait dit que l’équitation n’était faite que pour eux.
