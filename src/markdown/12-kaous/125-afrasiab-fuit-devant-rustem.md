@@ -12,6 +12,8 @@ tags: []
 order: '125'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab fuit devant Rustem
 
 Afrasiab s’adressa à ses braves et leur dit :
