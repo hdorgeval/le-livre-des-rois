@@ -12,6 +12,8 @@ tags: []
 order: '153'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous place Keï Khosrou sur le trône
 
 Lorsque les rois furent descendus de leurs chevaux et entrés dans le palais, la bouche et le cœur pleins de souhaits bienveillants, Khosrou s’avança, baisa la main de Kaous et se prosterna devant le trône.
