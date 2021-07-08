@@ -40,6 +40,8 @@ tags:
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou distribue des trésors aux Pehlewans
 
 Les troupeaux de chevaux du roi ayant été amenés de leurs prairies par les pâtres et conduits au camp, Khosrou dit :
