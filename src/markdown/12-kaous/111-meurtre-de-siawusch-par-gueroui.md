@@ -12,6 +12,8 @@ tags: []
 order: '111'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Meurtre de Siawusch par Gueroui
 
 Guersiwez jeta alors un regard sur Gueroui et le cruel Gueroui se retourna sur-le-champ, s’approcha de Siawusch et se dépouillant de tout sentimentde générosité et de pitié, il saisit le roi par les cheveux et le traîna, ô honte !
