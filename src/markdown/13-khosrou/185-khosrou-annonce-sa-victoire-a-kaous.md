@@ -12,6 +12,8 @@ tags: []
 order: '185'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou annonce sa victoire à Kaous
 
 Khosrou lit venir un scribe muni de papier, de musc et d’ambre et l’on écrivit une lettre à Kaous, dans les formes qu’exigent la coutume et le respect.
