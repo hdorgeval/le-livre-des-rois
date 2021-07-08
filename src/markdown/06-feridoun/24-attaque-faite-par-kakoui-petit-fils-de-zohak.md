@@ -25,6 +25,8 @@ tags:
 order: '024'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Attaque faite par Kakoui, petit-fils de Zohak
 
 Karen le héros se rendit de ce lieu auprès de Minoutchehr et raconta au jeune roi ce qu’il avait fait et comment avaient tourné les événements de la guerre.
