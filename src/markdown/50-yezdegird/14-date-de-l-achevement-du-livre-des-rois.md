@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Date de l'achèvement du livre des rois
 
 Soixanan années avaient passé sur me tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l’histoire des rois et plus mon étoile ralentissaitsa marche.
