@@ -12,6 +12,8 @@ tags: ['Guschtasp', 'Hirbed', 'Lohrasp', 'Pehlewan', 'Roum', 'Rustem']
 order: '04'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp part pour le Roum
 
 Quand la nuit fut devenue sombre, Guschtasp plaça une selle qui lui appartenait sur un cheval noir qui était à Lohrasp.
