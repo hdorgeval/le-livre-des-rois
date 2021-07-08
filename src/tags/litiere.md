@@ -8,6 +8,8 @@ tags: [litière]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Litière
 
 La litière un siège suspendu entre deux animaux.
