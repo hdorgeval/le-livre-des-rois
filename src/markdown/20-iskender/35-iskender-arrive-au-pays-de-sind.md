@@ -12,6 +12,8 @@ tags: []
 order: '035'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender arrive au pays de Sind et y livre une bataille
 
 Le roi resta en ce lieu pendant un mois, et quand son armée fut reposée, il se remit en marche. En re- venant de cette mer verte, ils traversèrent des déserts
