@@ -12,6 +12,8 @@ tags: []
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Darab fonde la ville de Darabguird
 
 Implorons les bénédictions du Créateur sur le roi de la terre, Aboul-Kasim, le roi au visage de soleil, qui a rendu heureux le monde par sa justice et sa bonté, qui ne cherche que ce qui est bon et droit et ne laisse pas dépérir la justice.
