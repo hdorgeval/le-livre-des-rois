@@ -12,6 +12,8 @@ tags: []
 order: '021'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem combat les trois rois et délivre Kaous de prison
 
 Le lendemain dans on disposa les troupes ; des deux côtés on arbora les étendards.
