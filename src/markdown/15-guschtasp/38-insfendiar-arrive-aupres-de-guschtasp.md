@@ -46,6 +46,8 @@ tags:
 order: '38'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar arrive dans la montagne, auprès de Guschtasp
 
 Isfendiar arriva sur la montagne rocheuse, aperçut son père et lui rendit hommage.
