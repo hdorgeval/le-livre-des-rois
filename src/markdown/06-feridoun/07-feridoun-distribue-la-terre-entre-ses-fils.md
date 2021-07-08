@@ -12,6 +12,8 @@ tags: ['Chine', 'Feridoun', 'Iran', 'Iredj', 'Roum', 'Selm', 'Tour', 'Touran', '
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feridoun distribue la terre entre ses fils
 
 Ayant ainsi dévoilé le secret du sort, Feridoun divisa le monde en trois parties.
