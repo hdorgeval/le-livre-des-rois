@@ -12,6 +12,8 @@ tags: []
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender va en pèlerinage à la Ka'ba
 
 Lorsque l’armée fut enrichie par ces trésors, et.
