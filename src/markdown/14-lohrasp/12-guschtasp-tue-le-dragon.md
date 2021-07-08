@@ -30,6 +30,8 @@ tags:
 order: '12'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp tue le Dragon
 
 Ahren, partit et apporta tout ce que Guschtasp avait demandé et quand tout fut préparé, celui-ci monta à cheval sur le bord de la mer et ses amis partirent avec lui.
