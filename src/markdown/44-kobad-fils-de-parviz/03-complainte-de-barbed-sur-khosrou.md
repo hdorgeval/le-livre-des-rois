@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Complainte de Barbed sur Khosrou
 
 Écoute maintenant la complainte de Barbed et honore sa dévotion envers le prince.
