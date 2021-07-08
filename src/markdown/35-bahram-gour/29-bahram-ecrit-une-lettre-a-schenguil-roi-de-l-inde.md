@@ -12,6 +12,8 @@ tags: []
 order: '029'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram écrit une lettre à Schenguil roi de l'Inde
 
 Un jour, son Vizir plein d’intelligence se leva devant Bahram et lui dit :
