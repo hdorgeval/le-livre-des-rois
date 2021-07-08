@@ -12,6 +12,8 @@ tags: []
 order: '130'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv va à Wisehguird pour voir Piran
 
 Guiv quitta son père et ayant imprimé dans sa mémoire les paroles amères de Gouderz, il partit pour Balkh.ll s’y arrêta et envoya un messager devant lui, comme son père le lui avait ordonné ; dès la nuit même il réunit son escorte, sortit de Balkh et se rendit à Wisehguird, ville dont Piran, qui ambitionnait le diadème et le trône de l’Iran, était le maître.
