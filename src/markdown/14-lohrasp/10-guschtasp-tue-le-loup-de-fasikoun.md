@@ -31,6 +31,8 @@ tags:
 order: '10'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp tue le Loup de Fasikoun
 
 Quand ils furent arrivés près de la forêt et de la tanière du loup, Mirin trembla en pensant à ce loup terrible et montra à Guschtasp, avec son doigt étendu, le lieu où se tenait le dragon et lui et Heischoui s’en retournèrent dans leur terreur, le cœur gonflé et les yeux pleins de larmes de sang.
