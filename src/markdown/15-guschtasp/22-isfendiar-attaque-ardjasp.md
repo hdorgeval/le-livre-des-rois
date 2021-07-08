@@ -30,6 +30,8 @@ tags:
 order: '22'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar attaque Ardjasp
 
 Quand Isfendiar, le héros au corps d’éléphant, le maître de la prudence, l’homme doué d’une force terrible, entendit ces cris de son père, il baissa la tête, navré de douleur;
