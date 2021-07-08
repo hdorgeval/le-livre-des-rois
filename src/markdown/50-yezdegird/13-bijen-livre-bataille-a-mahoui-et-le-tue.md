@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen livre bataille à Mahouï Souri et le tue
 
 Bijen, après avoir rangé son armée en bataille, voulut attaquer en masse les Iraniens ; Mahouî, placé au centre, devina son dessein et s’éloigia en gémissant du milieu de ses troupes.
