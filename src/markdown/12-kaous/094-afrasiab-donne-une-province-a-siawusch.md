@@ -12,6 +12,8 @@ tags: []
 order: '094'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab donne une province à Siawusch
 
 Sept jours s’étant ainsi passés, Afrasiab prépara beaucoup de présents, des chevaux arabes, des troupeaux, dcs cuirasses : des casques, des massues et des lacets, de l’or et des monceaux d’argent, des robes et autres choses de toute espèce.
