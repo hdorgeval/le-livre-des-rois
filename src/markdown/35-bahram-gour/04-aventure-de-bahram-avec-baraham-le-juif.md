@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure de Bahram avec Baharam le juif
 
 Bahram quitta rapidement son escorte, se dirigea
