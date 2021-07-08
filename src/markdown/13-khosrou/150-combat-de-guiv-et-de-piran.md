@@ -12,6 +12,8 @@ tags: []
 order: '150'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Guiv et de Piran.
 
 Le cheval de Guiv s'arrete
