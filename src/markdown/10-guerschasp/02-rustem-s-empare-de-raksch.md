@@ -12,6 +12,8 @@ tags: ['Bisoutoun', 'Dieu', 'Iran', 'Kaboul', 'Pehlewan', 'Raksch', 'Rustem', 'Z
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem s'empare de Raksch
 
 Zal fit amener du Zaboulistan tous les troupeaux qu’il y possédait et quelques-uns du Kaboul.
