@@ -12,6 +12,8 @@ tags: []
 order: '151'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou s'empare du château de Bahman
 
 Lorsque Guiv, Gouderz et le reste de la noble famille de Keschwad apprirent que Thous et Feribourz étaient de retour, Gouderz dit en lui-même :
