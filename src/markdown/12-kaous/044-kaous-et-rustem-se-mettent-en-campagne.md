@@ -12,6 +12,8 @@ tags: []
 order: '044'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous et Rustem se mettent en campagne
 
 Lorsque le soleil eut déchiré le noir rideau de la nuit et qu’il fut sorti de derrière son voile, Kaous ordonna à Guiv et à Thous de placer les timbales sur le dos des éléphants ; il ouvrit la porte de son trésor et distribua des présents ; il mit en ordre l’armée et fit préparer les bagages.
