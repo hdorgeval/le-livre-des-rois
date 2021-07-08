@@ -12,6 +12,8 @@ tags: []
 order: '018'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh envoie à Hormuzd la tête du roi Saweh
 
 Lorsque la nuit sombre eut frisé ses boucles et plongé ainsi les yeux des hommes dans le sommeil et que le voile couleur d’ébène eut paru, le monde se reposa du bruit des timbales, la roue du ciel continua à tourner et se hâta en trouvant que la nuit sombre était bien longue ; à la fin, le vaisseau jaune du soleil sortit de l’eau, les fatigues des hommes reprirent et le sommeil s’enfuit.
