@@ -9,6 +9,8 @@ order: '01'
 geo-data: 'amol.geojson'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Amol
 
 Cité du Mazenderan
