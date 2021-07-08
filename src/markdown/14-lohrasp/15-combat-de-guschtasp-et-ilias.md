@@ -13,6 +13,8 @@ tags:
 order: '15'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Guschtasp et d'Ilias et mort de ce dernier
 
 Lorsque le soleil s’aperçut de ce voile, il monta sur son trône dans le signe du Sagittaire ; la source du jour devint rouge comme la sandaraque et partout s’éleva le bruit des clairons et des timbales.
