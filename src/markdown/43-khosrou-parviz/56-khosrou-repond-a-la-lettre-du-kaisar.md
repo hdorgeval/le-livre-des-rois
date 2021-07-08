@@ -12,6 +12,8 @@ tags: []
 order: '056'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou répond à la lettre du Kaïsar
 
 Au bout du mois Khosrou écrivit sa réponse ; il écrivit des paroles fortunées et pleines de sens :
