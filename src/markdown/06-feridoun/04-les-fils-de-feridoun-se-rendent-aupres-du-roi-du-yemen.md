@@ -12,6 +12,8 @@ tags: ['Feridoun', 'Iemen', 'Mobeds', 'Roum', 'Serv', 'Yemen']
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les fils de Feridoun se rendent auprès du roi du Yemen
 
 Ils s’en allèrent tous les trois pour faire les préparatifs du voyage et appelèrent auprès d’eux des Mobeds.
