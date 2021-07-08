@@ -41,6 +41,8 @@ tags:
 order: '061'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran s'informe si Rustem est arrivé
 
 Piran arriva dans son camp plein d’inquiétude et le visage jaune et adressa plusieurs questions à ses compagnons illustres.
