@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mondhir, l'arabe, demande aide contre les iniquités du Kaïsar
 
 Du Ghilan, il marcha vers Madaïn (Ctésiphon) avec une armée dont il ne connaissait pas lui-même le nombre et ’étendue ; il parut de loin sur la route une armée innombrable d’hommes armés de lances.
