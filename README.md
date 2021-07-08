@@ -1,17 +1,21 @@
-# [Le Livre des Rois - Shâhnâmeh](https://www.lelivredesrois.com/)
-
-!!! I am looking for a Web Designer to create a better user experience and an Artist to replace photos by illustrations/drawings. Feel free to introduce yourself in the [discussions](https://github.com/hdorgeval/le-livre-des-rois/discussions) !!!
+# [The Book of Kings — Shâhnâmeh](https://www.lelivredesrois.com/)
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ce361110-8082-440c-938a-267a21d43f05/deploy-status)](https://app.netlify.com/sites/lelivredesrois/deploys)
 
-## Histoire légendaire des rois de Perse par Ferdowsi
+## The mythic history of Persian Kings by Ferdowsi
 
-Il y avait un livre des temps anciens, dans lequel étaient écrites beaucoup d’histoires.
+It took more than 30 years and more than 100,000 verses for the Persian poet Ferdowsi to write the Book of Kings.
 
-Tous les Mobeds en possédaient des parties, chaque homme intelligent en portait un fragment avec lui.
+This book is mainly the mythical and to some extent the historical past of the Persian Empire from the creation of the world until the Muslim conquest in the seventh century.
 
-Il y avait un Pehlewan, d’une famille de Dihkans, brave et puissant, plein d’intelligence et très illustre ; il aimait à rechercher les faits des anciens et à recueillir les récits des temps passés.
+This repo is intended to :
 
-Il fit venir de chaque province un vieux Mobed, qui avait rassemblé les parties de ce livre ; il leur demanda l’origine des rois et des guerriers illustres, et la manière dont ils organisèrent au commencement le monde, qu’ils nous ont transmis dans un état si misérable, et comment, sous une heureuse étoile, ils terminèrent chaque jour une entreprise.
+- hold Ferdowsi's work in Markdown format in all available languages used to translate this book;
 
-Les grands récitèrent devant lui, l’un après l’autre, les traditions des rois et les vicissitudes du monde. Il écouta leurs discours, et en composa un livre digne de renom. C’est le souvenir qu’il a laissé parmi les hommes, et les grands et les petits célébrèrent ses louanges.
+- bring a framework that enables to automatically build a website from these Markdown assets.
+
+I started with the French language, any contributor for other languages is welcomed.
+
+You can read the book in French at https://www.lelivredesrois.com
+
+!!! I am looking for a Web Designer to create a better user experience and an Artist to replace photos by illustrations/drawings. Feel free to introduce yourself in the [discussions](https://github.com/hdorgeval/le-livre-des-rois/discussions) !!!
