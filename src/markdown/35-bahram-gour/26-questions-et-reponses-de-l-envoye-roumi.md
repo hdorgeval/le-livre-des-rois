@@ -12,6 +12,8 @@ tags: []
 order: '026'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Questions et réponses de l'envoyé Roumi et des Mobeds de l'Iran
 
 Le lendemain, lorsque le soleil eut montré sa couronne et que ses flammes s’élancèrent de la voûte du ciel, le roi fit appeler l’envoyé et le fit placer devant son glorieux trône d’ivoire.
