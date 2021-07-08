@@ -12,6 +12,8 @@ tags: []
 order: '105'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran demande grâce à Afrasiab pour la vie de Bijen
 
 Dieu eut pitié de la jeunesse de Bijen et confondit son ennemi.
