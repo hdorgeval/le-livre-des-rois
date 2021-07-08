@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh part combattre le roi Saweh
 
 Lorsque l’aurore leva sa tête au-dcssus de la montagne et que le bouclier brillant du soleil parut au loin, le Sipehbed se rendit chez le roi d’Iran et se prosterna par terre en présence de la foule, disant :
