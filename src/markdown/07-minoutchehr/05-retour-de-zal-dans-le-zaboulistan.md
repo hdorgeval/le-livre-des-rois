@@ -32,6 +32,8 @@ tags:
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Retour de Zal dans le Zaboulistan
 
 Puis le roi ordonna aux Mobeds, aux astrologues et aux sages de rechercher l’astre de Zal et la fortune que cet horoscope présageait au prince, d’annoncer tout ce qui arriverait quand il serait devenu grand et de révéler tout ce qui le regardait.
