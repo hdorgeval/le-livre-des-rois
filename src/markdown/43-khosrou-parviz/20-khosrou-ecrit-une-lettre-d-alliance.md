@@ -12,6 +12,8 @@ tags: []
 order: '020'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou écrit une lettre d'alliance et l'envoie au Kaïsar
 
 Jette lettre arriva à Khosrou et il y trouva des nouvelles tout imprévues sur son alliance avec le Kaisar ; il dit aux Iraniens :
