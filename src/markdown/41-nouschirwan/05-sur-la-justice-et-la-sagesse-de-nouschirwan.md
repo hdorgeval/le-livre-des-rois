@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sur la justice et la sagesse de Nouschirwan
 
 Lorsque le soleil eut montré sa face brillante, que le ciel qui tourne eut. ouvert la porte de son jardin, que l’on vit cette meule de fenugrec de jour) et que les deux boucles noires de la nuit eurent disparu, Nouschirwan s’assit sur son trône, le cœur en gaieté et heureux de son jeune pouvoir.
