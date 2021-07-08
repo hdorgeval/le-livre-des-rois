@@ -29,6 +29,8 @@ tags:
 order: '027'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Minoutchehr à la lettre de Sam
 
 Puis le roi fit une réponse à la lettre de Sam et la rédigea dans les termes les plus gracieux :
