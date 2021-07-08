@@ -12,6 +12,8 @@ tags: ['cyprès', 'Mobed', 'Mobeds', 'Perse', 'Zal']
 order: '024'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Mobeds mettent Zal à l'épreuve
 
 Le roi alors manda Zal, parce qu’il voulait lui faire adresser des questions pour le mettre à l’épreuve.
