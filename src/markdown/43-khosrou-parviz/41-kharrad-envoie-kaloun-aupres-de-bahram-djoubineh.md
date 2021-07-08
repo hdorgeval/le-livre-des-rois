@@ -12,6 +12,8 @@ tags: []
 order: '041'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kharrad, fils de Berzin, envoie Kaloun auprès de Bahram Djoubineh
 
 Bahram de son côté se rendit à Merv et rassembla une armée belle comme le plumage du faisan.
