@@ -12,6 +12,8 @@ tags: ['Badakhschan', 'Dieu', 'Pehlewan', 'Pléiades', 'Rustem', 'Sipend', 'Tehe
 order: '032'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem par pour le mont Sipend
 
 Rustem ayant écouté son père, se prépara comme il fallait pour soutenir le combat.
