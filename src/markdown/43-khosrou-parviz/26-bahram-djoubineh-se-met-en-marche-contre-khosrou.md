@@ -12,6 +12,8 @@ tags: []
 order: '026'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh se met en marche contre Khosrou et bat les Roumis
 
 Lorsque l’ambitieux Bahram eut lu les lettres, il chassa la raison et appela la passion.
