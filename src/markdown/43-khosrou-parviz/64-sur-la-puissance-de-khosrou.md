@@ -12,6 +12,8 @@ tags: []
 order: '064'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sur la puissance de Khosrou Parviz
 
 Quiconque a lu l’histoire de ce roi doit secouer le pan de sa robe en dégoût du monde.
