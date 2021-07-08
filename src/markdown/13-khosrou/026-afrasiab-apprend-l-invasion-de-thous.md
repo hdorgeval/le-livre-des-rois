@@ -26,6 +26,8 @@ tags:
 order: '026'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab apprend l'invasion de Thous
 
 Tejaou se présenta devant Afrasiab les yeux inondés de larmes de douleur et lui dit :
