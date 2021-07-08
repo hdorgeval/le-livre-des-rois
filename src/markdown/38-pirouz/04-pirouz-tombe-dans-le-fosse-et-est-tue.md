@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Pirouz tombe dans le fossé et est tué
 
 Pendant que Khouschnewaz continua d’un côté sa marche, jusqu’à ce qu’il fût établi derrière son fossé, le cœur rempli d’inquiétude, le roi Pirouz, qui avait perdu la tête, accourut de l’antre côté avec son armée, aussi rapide que le vent.
