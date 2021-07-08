@@ -12,6 +12,8 @@ tags: []
 order: '018'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le fils de Keïdafeh tombe entre les mains des Roumis
 
 Lorsque Iskender eut lu cette lettre, il fit sonner les trompettes et mit en mouvement son armée. Il marcha en toute diligence pendant un mois, et arriva avec ses troupes à la frontière du pays de Keïdafeh.
