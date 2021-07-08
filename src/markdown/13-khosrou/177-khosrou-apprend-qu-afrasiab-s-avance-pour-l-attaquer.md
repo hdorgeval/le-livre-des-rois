@@ -12,6 +12,8 @@ tags: []
 order: '177'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou apprend qu'Afrasiab s'avance pour l'attaquer
 
 Lorsque le maître du monde, Khosrou, eut reçu par la bouche de ses espions vigilants la nouvelle que les Turcs étaient en marche et que le roi Afrasiab amenait sestroupes de l’autre côté du fleuve et faisait passer le Djihoun à une armée sous laquelle disparaissaient les rochers et le sable, il appela les héros et leur répéta tout ce qu’il avait entendu.
