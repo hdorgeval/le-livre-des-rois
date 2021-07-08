@@ -12,6 +12,8 @@ tags: []
 order: '063'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Seconde visite de Siawusch dans l'appartement des femmes
 
 Une nuit s’étant ainsi passée et le ciel ayant achevé sa rotation au-dessus de la terre obscure, Soudabeh s’assit joyeuse sur son trône, un diadème de rubis et d’or sur la tête.
