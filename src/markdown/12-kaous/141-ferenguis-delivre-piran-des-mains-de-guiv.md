@@ -12,6 +12,8 @@ tags: []
 order: '141'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ferenguis délivre Piran des mains de Guiv
 
 Cependant Guiv regardait Keï Khosrou, attendant les ordres que le vaillant roi lui donnerait.
