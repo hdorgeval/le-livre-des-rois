@@ -12,6 +12,8 @@ tags: []
 order: '099'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran visite Siawuschguird
 
 Piran, en revenant de l’Inde et de la Chine, entendit parler de cette noble ville de Siawuschguird, dont le renom s’était répandu dans le Touran et qui avait été fondée sous de bons auspices le jour d’Ard.
