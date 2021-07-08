@@ -1,5 +1,5 @@
 import { ReignCard } from './reign-card';
-import { AllMarkdownRemarkResponse } from '../../graphql';
+import { AllMarkdownRemarkResponse } from '../../../graphql';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 
