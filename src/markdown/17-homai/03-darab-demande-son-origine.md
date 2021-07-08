@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Darab demande son origine à la femme du blanchisseur
 
 Un jour Darab dit au blanchisseur : «J’ai un se- «cret que je n’ose pas m’avouer à moi-même : je ne
