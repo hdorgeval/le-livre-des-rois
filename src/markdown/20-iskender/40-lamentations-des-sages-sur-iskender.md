@@ -12,6 +12,8 @@ tags: []
 order: '040'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lamentations des sages sur Iskender
 
 Lorsque Iskender fut porté à lskenderieh , le monde
