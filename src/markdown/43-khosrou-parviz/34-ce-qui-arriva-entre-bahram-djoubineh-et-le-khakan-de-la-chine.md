@@ -12,6 +12,8 @@ tags: []
 order: '034'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ce qui arriva entre Bahram Djoubineh et le Khakan de la Chine
 
 Maintenant, conte de longues histoires,conte ce qui arriva à Bahram Djoubineh lorsqu’il eut atteint le pays des Turcs et rencontré leurs chefs et leurs grands.
