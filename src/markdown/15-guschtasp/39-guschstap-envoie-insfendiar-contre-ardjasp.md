@@ -26,6 +26,8 @@ tags:
 order: '39'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp envoie Isfendiar contre Ardjasp
 
 Isfendiar se rendit ensuite aux tentes du roi, et lui parla de toutes choses, de Lohrasp, de Ferschidwerd, de ses fils glorieux aux jours des combats, et de la manière dont il les avait vengés.
