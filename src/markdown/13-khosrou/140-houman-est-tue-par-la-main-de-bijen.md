@@ -12,6 +12,8 @@ tags: []
 order: '140'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Houman est tué par la main de Bijen
 
 Houman reparut le cœur brisé, semblable à un corbeau, le visage noir comme la fumée d’une lampe ; et tout blessés qu’étaient les deux héros, ils recommencèrent le combat, en s’avançant fièrement comme des léopards.
