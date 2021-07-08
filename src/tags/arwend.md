@@ -8,6 +8,8 @@ tags: [Arwend]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Arwend
 
 Terme de la langue pehlevi, le fleuve d'Arwend s’appelle en arabe Dijleh, le Tigre.
