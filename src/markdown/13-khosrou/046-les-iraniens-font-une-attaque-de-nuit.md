@@ -38,6 +38,8 @@ tags:
 order: '046'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens font une attaque de nuit
 
 Gouderz et Thous devinèrent le plan des Touraniens et la tête des grands fut troublée par cette ruse.
