@@ -12,6 +12,8 @@ tags: ['âme', 'Bahram', 'cyprès', 'Mobed']
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram remet le gouvernement à Bahram fils de Bahram
 
 Un peu de temps passa sur lui, puis sa tête couronnée fut saisie par les ciseaux de la mort.
