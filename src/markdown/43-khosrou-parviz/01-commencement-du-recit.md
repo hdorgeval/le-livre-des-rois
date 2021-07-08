@@ -23,6 +23,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Gustehem et Bendouï envoyèrent en toute hâte un cavalier avec un cheval de rechange, pour qu’il se rendît dans la nuit à Aderguschasp auprès de Khosrou, pour qu’il se rendît auprès de lui avec ces grandes nouvelles de l’Iran.
