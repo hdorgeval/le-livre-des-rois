@@ -12,6 +12,8 @@ tags: []
 order: '030'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender voit l'ange Israfil
 
 Iskender, à ces paroles, se mit à monter sur la montagne et se rendit sans cortége sur la crête pour voir ce qui s’y trouvait. Il vit Israfil, une trompette
