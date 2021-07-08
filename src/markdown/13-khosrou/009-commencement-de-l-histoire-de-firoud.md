@@ -12,6 +12,8 @@ tags: ['âme', 'Firoud', 'Siawusch']
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement de l'histoire de Firoud fils de Siawusch
 
 Un prince qui est noble et brave ne doit pas confier son armée à un ennemi, car celui-ci, par sa jalousie, ferait couler des larmes des yeux du prince, des larmes pour lesquelles le médecin n’a pas de remède.
