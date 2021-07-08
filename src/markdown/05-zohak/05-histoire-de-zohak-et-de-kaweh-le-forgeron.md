@@ -29,6 +29,8 @@ tags:
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de Zohak et de Kaweh le forgeron
 
 Zohak ne cessait jour et nuit de parler de Feridoun ; la peur avait courbé sa haute stature, son cœur était en angoisse à cause de Feridoun.
