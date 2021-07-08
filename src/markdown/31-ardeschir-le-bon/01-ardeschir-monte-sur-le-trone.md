@@ -12,6 +12,8 @@ tags: ['Ardeschir', 'Iran', 'Iraniens', 'Nikoukar', 'Schapour', 'tribut']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir monte au trône et fait une allocation aux chefs de l'Iran
 
 Le roi Ardeschir monta sur le trône, para le palais du vieux Schapour, mit la ceinture royale, rassembla les Iraniens et les fit asseoir sur les marches de ce trône d’or.
