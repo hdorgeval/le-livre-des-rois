@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens reconnaissent Schapour
 
 Schapour resta cette nuit, mangea , parla et écouta, et le matin, lorsque l’aurore se montra sur le ’haut
