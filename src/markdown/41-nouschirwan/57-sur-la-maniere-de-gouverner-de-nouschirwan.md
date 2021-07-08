@@ -12,6 +12,8 @@ tags: []
 order: '057'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sur la manière de gouverner de Nouschirwan
 
 Il en fut ainsi jusqu’à la fin des jours de Nouschirwan ; il était roi et était Pehlewan, il était homme de guerre et était MObed, il était Hirbed et était chef de l’armée.
