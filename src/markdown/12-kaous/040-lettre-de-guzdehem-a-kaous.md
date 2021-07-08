@@ -12,6 +12,8 @@ tags: []
 order: '040'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Guzdehem à Kaous
 
 Aussitôt que Sohrab fut parti, le vieux Guzdehem appela un scribe et l’ayant fait asseoir, il lui fit ! écrire une lettre au roi qu’il expédia par un messager agile et dans laquelle il commençait par appeler sur le roi les grâces de Dieu ; ensuite il lui exposait ce que le sort avait amené, en disant :
