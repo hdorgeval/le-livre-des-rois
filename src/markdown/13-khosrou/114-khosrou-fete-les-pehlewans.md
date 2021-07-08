@@ -12,6 +12,8 @@ tags: []
 order: '114'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou fête les Pehlewans
 
 Le grand chambellan ouvrit la porte des jardins du roi pour y préparer une fête royale.
