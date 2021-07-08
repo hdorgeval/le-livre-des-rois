@@ -47,6 +47,8 @@ tags:
 order: '056'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran tient conseil avec le Khakan
 
 Lorsque l’armée de Feribourz fut visible de la tour des Touraniens, la sentinelle accourut au camp et dit à Piran :
