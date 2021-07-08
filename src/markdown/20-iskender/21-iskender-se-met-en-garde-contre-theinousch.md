@@ -12,6 +12,8 @@ tags: []
 order: '021'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender se met en garde contre Theïnousch
 
 Iskender partit, le cœur haut comme une mon- tagne, car même le sage devient soucieux par le danger de la mort; Keïdafeh avait effacé le fronce- ment de ses sourcils, et il ne songea pas un instant à s’écarter de sa volonté. Il resta ainsi cette nuit, et
