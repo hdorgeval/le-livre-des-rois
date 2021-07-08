@@ -12,6 +12,8 @@ tags: []
 order: '148'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Colère de Gouderz contre Thous
 
 Gouderz se mit en colère et dit :
