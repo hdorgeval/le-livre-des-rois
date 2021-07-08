@@ -12,6 +12,8 @@ tags: []
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir tue le ver d'Heftwad
 
 De là Ardeschir partit peur faire la guerre au ver et toute son armée était décidée à cette lutte ; il emmena un corps de douze mille hommes, des cavaliers expérimentés et ayant fait la guerre.
