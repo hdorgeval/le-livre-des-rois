@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Schapour, fils d'Ardeschir
 
 Le Mobed dit en lui-même :
