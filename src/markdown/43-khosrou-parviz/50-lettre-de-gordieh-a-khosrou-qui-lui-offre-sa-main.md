@@ -12,6 +12,8 @@ tags: []
 order: '050'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Gordieh à Khosrou qui lui offre sa main
 
 La femme intrépide demanda un encrier et un roseau et s’assit tranquillement avec ses conseillers.
