@@ -12,6 +12,8 @@ tags: []
 order: '235'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou se rend dans la montagne et disparait dans la neige
 
 Il ordonna à Lohrasp de s’en retourner et ajouta :
