@@ -12,6 +12,8 @@ tags: []
 order: '234'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou dit adieu à ses favorites
 
 Il avait quatre femmes, belles comme le soleil ; personne n’en avait vu de pareilles même en rêve ; Il les appela de leur appartement auprès de lui et dévoila le secret de son âme à ces idoles, disant :
