@@ -12,6 +12,8 @@ tags: []
 order: '128'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zewareh va voir les réserves de chasse de Siawusch
 
 Il arriva qu’un jour Zewareh partit pour aller à la chasse aux onagres ; il se fit précéder par un Turc qui devait lui servir de guide et arriva au lieu assigné.
