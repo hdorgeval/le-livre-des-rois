@@ -12,6 +12,8 @@ tags: []
 order: '123'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab se met en campagne pour venger son fils
 
 Lorsque les Touraniens revinrent chez eux du champ de bataille, le corps souillé de sang, la tête couverte de poussière, ils racontèrent que la fortune si courte de Surkheh était passée, qu’un brave plein de courage lui avait coupé la tête, que l’armée revenait fatiguée de combats, que tout le pays d’Iran était armé, que tous les cœurs y étaient blessés du meurtre de Siawusch.
