@@ -12,6 +12,8 @@ tags: []
 order: '132'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv se rend dans le Touran pour chercher Keï Khosrou
 
 Lorsque le soleil brillant se fut levé et eut rendu la terre semblable à la rose et au fenugrec, Guiv parut, ceint pour le combat et monté sur un cheval aux pieds de vent.
