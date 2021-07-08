@@ -12,6 +12,8 @@ tags: []
 order: '142'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran rencontre Afrasiab sur la route
 
 Lorsque Afrasiab apprit la fuite de Khosrou, la lumière du soleil s’obscurcit devant ses yeux.
