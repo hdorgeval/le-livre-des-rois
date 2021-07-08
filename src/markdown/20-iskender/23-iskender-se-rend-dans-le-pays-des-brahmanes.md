@@ -12,6 +12,8 @@ tags: []
 order: '023'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender se rend dans le pays des brahmanes
 
 Iskender fit partir son armée de ce lieu et marcha en toute hâte jusqu’à ce qu’il eût atteint le pays des Brahmanes, ou il voulait s’informer de leurs an- ciennes coutumes auprès de ces hommes voués à l’abstinence. Lorsque les Brahmanes apprirent que. le roi amenait une armée de ce côté, ces hommes’
