@@ -12,6 +12,8 @@ tags: []
 order: '024'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous est tenté par Iblis et vole vers le ciel
 
 Or il arriva qu’un matin Iblis tint une assemblée à l’insu du roi et dit aux Divs :
