@@ -28,6 +28,8 @@ tags:
 order: '081'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Keï Khosrou à Rustem
 
 Pendant ces événements la voûte sublime du ciel ne cessait de tourner et bientôt on vint dire au roi de l’Iran que Feribourz fils de Kaous s’approchait.
