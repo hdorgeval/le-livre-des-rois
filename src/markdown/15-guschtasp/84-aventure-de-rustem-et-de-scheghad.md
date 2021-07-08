@@ -41,6 +41,8 @@ tags:
 order: '84'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure de Rustem et Scheghad
 
 ## Commencement du récit
