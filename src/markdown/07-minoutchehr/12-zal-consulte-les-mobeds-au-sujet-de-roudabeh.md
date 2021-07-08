@@ -29,6 +29,8 @@ tags:
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal consulte les Mobeds au sujet de Roudabeh
 
 Aussitôt que le soleil brillant se fut levé au-dessus des montagnes, les braves de l’armée vinrent tous en foule, de grand matin, visiter le Pehlewan ; de là ils s’en allèrent chacun suivant son chemin.
