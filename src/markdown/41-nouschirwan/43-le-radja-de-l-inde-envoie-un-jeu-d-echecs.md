@@ -12,6 +12,8 @@ tags: []
 order: '043'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Radja de l'Inde envoie à Nouschirwan un jeu d'échecs
 
 Un Mobed raconte qu’un jour le roi para son palais de brocart de Roum et suspendit sa couronne au-dessus du trône de bois de teck ; tout le bois du trône était recouvert d’ivoire, tout l’ivoire disparaissait devant la couronne, tout brillait comme le cercle de la lune, tout était éclipsé par le trône du roi, toute la cour était remplie du cortège de Kesra ; tout le palais était plein de Mobeds et des chefs des frontières de Balkh, de Bami et de toutes les limites de l’empire.
