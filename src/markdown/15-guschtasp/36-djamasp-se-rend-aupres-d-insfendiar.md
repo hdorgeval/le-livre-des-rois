@@ -38,6 +38,8 @@ tags:
 order: '36'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Djamasp se rend auprès d'Isfendiar
 
 Un noble fils d’Isfendiar, dont le nom était Nousch-Ader, se tenait sur les remparts du château, regardant la route pour voir si quelqu’un venait de l’armée d’Iran, et le dire à son père: il devait descendre dès qu’il verrait quelqu’un.
