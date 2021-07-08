@@ -12,9 +12,15 @@ This repo is intended to :
 
 - hold Ferdowsi's work in Markdown format in all available languages used to translate this book;
 
-- bring a framework that enables to automatically build a website from these Markdown assets.
+- bring a framework that enables to automatically build a website from these Markdown assets;
 
-I started with the French language, any contributor for other languages is welcomed.
+- bring innovative tools, like machine learning, to be able to manage and study this new corpus of data.
+
+I started with the French translation of the `Shâhnâmeh` brought by `Jules Mohl` in 1876 after he started it in 1826.
+
+Any contributor for other languages is welcomed.
+
+As you imagine, translating `Jules Mohl`'s work into Markdown is a huge task: it's not a matter of weeks but a matter of years to achieve this. The key success factor is to bring automation and machine learning wherever possible.
 
 You can read the book in French at https://www.lelivredesrois.com
 
