@@ -12,6 +12,8 @@ tags: []
 order: '029'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender converse avec les oiseaux
 
 Iskender arriva dans un pays où régnait la lumière
