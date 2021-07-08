@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Rustem à Saad fils de Wakkas
 
 Rustem envoya aussitôt à Saad un messager rapide comme l’éclair et la foudre.
