@@ -12,6 +12,8 @@ tags: []
 order: '107'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gourguin s'en retourne dans l'Iran et fait des mensonges sur Bijen
 
 Gourguin resta sept jours sur la route et voyant que Bijen ne reparaissait pas, il se mit à le chercher de tous côtés en inondant ses joues de larmes de sang.
