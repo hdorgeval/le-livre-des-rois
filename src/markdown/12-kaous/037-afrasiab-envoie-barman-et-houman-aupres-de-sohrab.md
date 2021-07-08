@@ -12,6 +12,8 @@ tags: []
 order: '037'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab envoie Barman et Houman auprès de Sohrab
 
 Quelqu’un porta cette nouvelle à Afrasiab en disant :
