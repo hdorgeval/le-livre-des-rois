@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Grands réclament la mort de Khosrou
 
 Tous ceux qui avaient trahi le grand Roi redoutaient nuit et jour les surprises du sort ; Schirouï, lâche autant que perfide, ne considérait le trône que comme un piège ; quiconque avait de l’expé rience sentait que la puissance ne resterait pas long. temps assoupie.
