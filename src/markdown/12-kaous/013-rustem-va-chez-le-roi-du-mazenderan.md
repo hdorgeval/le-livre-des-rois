@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem va chez le roi du Mazenderan avec un message
 
 Lorsque le roi eut apposé son sceau à la lettre, Rustem, qui ambitionnait la conquête du monde, partit après avoir suspendu à la selle sa massue pesante.
