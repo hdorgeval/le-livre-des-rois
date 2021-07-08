@@ -12,6 +12,8 @@ tags: []
 order: '065'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou devient injuste et l'armée se révolte
 
 Le roi, maître du monde, ne se contenta pas de son trône illustre, de sa grandeur, de sa puissance ni du diadème des rois des rois ; il provoqua la ruine dé l’Iran et du Touran.
