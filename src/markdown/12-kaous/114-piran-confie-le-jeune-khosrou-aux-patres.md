@@ -12,6 +12,8 @@ tags: []
 order: '114'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran confie le jeune Keï Khosrou aux pâtres
 
 Piran appela des pâtres des montagnes de Kala et leur parla longuement de cet enfant ; il leur confia les délices de ses yeux et de son cœur, ce bel enfant qui avait trouvé grâce devant lui, disant :
