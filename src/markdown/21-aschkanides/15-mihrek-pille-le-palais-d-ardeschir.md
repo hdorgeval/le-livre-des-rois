@@ -12,6 +12,8 @@ tags: []
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mihrek fils de Nouschzad pille le palais d'Ardeschir
 
 Il y avait à Djehrem un homme de la famille des Keïanides et du nom de Mihrek, fils de Nouschzad.
