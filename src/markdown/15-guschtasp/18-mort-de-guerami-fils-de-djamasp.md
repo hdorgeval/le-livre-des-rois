@@ -34,6 +34,8 @@ tags:
 order: '18'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mort de Guerami, fils de Djamasp
 
 Alors un cavalier sortit des rangs de l’armée, le noble fils de Djamasp, le Destour du roi, un cavalier vaillant dont le nom était Guerami, et qui ressemblait à Rustem fils de Destan, fils de Sam.
