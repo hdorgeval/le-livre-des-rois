@@ -12,6 +12,8 @@ tags: []
 order: '029'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat d'Alkous
 
 Afrasiab observait tout et voyant ce qui se passait, il exhala un soupir de sa poitrine et demanda :
