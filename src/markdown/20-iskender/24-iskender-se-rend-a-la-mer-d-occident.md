@@ -12,6 +12,8 @@ tags: []
 order: '024'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender se rend à la mer d'occident et au pays de Habesch
 
 Du pays des Brahmanes il arriva à un lieu d’où il
