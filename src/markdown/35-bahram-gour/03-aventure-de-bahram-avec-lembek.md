@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure de Bahram avec Lembek le porteur d'eau
 
 Il arriva qu’un jour Bahram alla à la chasse aux lions avec quelques hommes vaillants et qu’un vieillard, un bâton à la main, lui dit :
