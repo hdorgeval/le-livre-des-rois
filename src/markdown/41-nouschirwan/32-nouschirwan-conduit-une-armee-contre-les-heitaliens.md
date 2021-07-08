@@ -12,6 +12,8 @@ tags: []
 order: '032'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan apprend ce que les Heïtaliens ont fait et conduit une armée contre eux
 
 Le Grand roi reçut des nouvelles du Khakan de la Chine, qui était un grand et formidable personnage, des Heïtaliens et des chefs de ce peuple, de la victoire que le Khakan avait remportée sur eux et du roi du pays de Tchegan, qui, favorisé par une fortune jeune, s’était assis sur un trône nouveau.
