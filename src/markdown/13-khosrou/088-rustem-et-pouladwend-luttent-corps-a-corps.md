@@ -33,6 +33,8 @@ tags:
 order: '088'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem et Pouladwend luttent corps à corps
 
 Les deux héros qui portaient haut la tête et étaient avides de combats se mirent alors à lutter, ayant stipulé d’abord qu’aucun des guerriers des deux amées ne viendrait à l’aide ni de l’un ni de l’autre.
