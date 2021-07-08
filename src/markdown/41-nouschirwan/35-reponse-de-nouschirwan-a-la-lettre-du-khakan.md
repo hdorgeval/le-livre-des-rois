@@ -12,6 +12,8 @@ tags: []
 order: '035'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Nouschirwan à la lettre du Khakan
 
 Le roi fit venir son scribe et le Grand Mobed Ardeschir et le scribe écrivit une lettre royale en peh lewi sur du papier.
