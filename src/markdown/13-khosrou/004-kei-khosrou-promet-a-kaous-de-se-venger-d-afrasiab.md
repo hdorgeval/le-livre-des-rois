@@ -35,6 +35,8 @@ tags:
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou promet à Kaous de se venger d'Afrasiab
 
 Lorsque le soleil resplendissant eut amené l’aube du jour et qu’il eut répandu ses rubis sur la terre sombre, Khosrou et Kaous, ces deux rois orgueilleux, dont les traces portaient bonheur, s’assirent avec Rustem et le Destan.
