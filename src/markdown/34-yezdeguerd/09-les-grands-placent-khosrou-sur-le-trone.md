@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les grands placent Khosrou sur le trône
 
 Lorsque le roi de la terre fut dans son tombeau, les grands vinrent en pleurant de tout l’Iran ; les gouverneurs accompagnés des Mobeds et des Pehlewans, les sages et les Destours à l’esprit clairvoyant, tous se réunirent’dans le pays de Fers et s’assemblè-rent devant le tombeau de Yezdeguerd.
