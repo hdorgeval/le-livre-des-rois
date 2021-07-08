@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram trouve le trésor de Djemschid
 
 Une autre semaine, Bahram alla à la chasse avec son Mobed et ses favoris dans l’armée.
