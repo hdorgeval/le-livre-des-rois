@@ -8,6 +8,8 @@ tags: [Ahriman]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Arihman
 
 Les Livres Zends présentent d'un côté l'Univers créé par Ormuzd et de l'autre l'univers corrompu par Ahriman;
