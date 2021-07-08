@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat d'Ardeschir contre Ardewan
 
 A ces nouvelles, le cœur d’Ardewan se remplit de crainte et son esprit. devint troublé.
