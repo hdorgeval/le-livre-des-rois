@@ -12,6 +12,8 @@ tags: []
 order: '044'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre du Khakan à Gordieh, sœur de Bahram et réponse de Gordieh
 
 Le Khakan, lorsqu’il eut salisl’ail son fleur et KI-rougi tout le pays de Chine du sang versé pour venger Bahram, se dit un jour :
