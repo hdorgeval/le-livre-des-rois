@@ -12,6 +12,8 @@ tags: []
 order: '018'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram montre son habilité dans la chasse à l'onagre
 
 Le lendemain, lorsque le soleil eut fait resplendir sa couronne, le roi du monde alla à la chasse des onagres.
