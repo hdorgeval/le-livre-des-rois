@@ -12,6 +12,8 @@ tags: []
 order: '129'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem dévaste le Touran
 
 Zewareh parvint à tirer de son inaction cet homme au cœur de lion et Rustem fit tout ce que son frère lui avait demandé.
