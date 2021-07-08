@@ -30,6 +30,8 @@ tags:
 order: '068'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran tient conseil avec Houman et le Khakan
 
 Houman partit sur-le-champ et en toute hâte, son front avait pâli et ses joues avaient perdu leurs couleurs.
