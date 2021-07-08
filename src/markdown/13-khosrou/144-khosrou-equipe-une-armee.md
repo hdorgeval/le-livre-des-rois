@@ -12,6 +12,8 @@ tags: []
 order: '144'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou équipe une armée
 
 Khosrou, aussitôt que Hedjir l’eut quitté, tint conseil avec son secrétaire ; il était si rempli de sollicitude pour son armée, qu’il ne pensait qu’à livrer bataille, disant :
