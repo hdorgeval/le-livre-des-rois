@@ -34,6 +34,8 @@ tags:
 order: '082'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab apprend la défaite de son armée
 
 Afrasiab reçut la nouvelle qu’une flamme était sortie des flots du Schahd ;
