@@ -12,6 +12,8 @@ tags: []
 order: '050'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bataille entre Gau et Thalhend
 
 Lorsque le soleil leva la tête dans le signe du Lion, la terre devint brillante comme une mer d’eau ; le soleil apporta une étoile jaune et l’étendit sur la voûte sombre du ciel ; on entendit le son des trompettes et le bruit des timbales qui s’élevait des enceintes des tentes des deux princes ; les étendards des jeunes rois parurent, les ailes droite et gauche se formèrent ; les deux princes, qui portaient haut la tête, se rendirent au centre des lignes et leurs savants Destours se placèrent à leurs côtés.
