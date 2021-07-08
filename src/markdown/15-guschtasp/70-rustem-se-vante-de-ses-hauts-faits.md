@@ -45,6 +45,8 @@ tags:
 order: '70'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem se vante de ses hauts faits
 
 Rustem répondit à Isfendiar:
