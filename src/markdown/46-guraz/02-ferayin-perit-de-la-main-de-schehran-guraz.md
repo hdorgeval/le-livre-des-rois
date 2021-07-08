@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ferayîn périt de la main de Schehran Guraz
 
 Or, un jour le roi fit ses préparatifs et sortit de la ville pour aller à la chasse, accompagné d’une armée d’Iraniens composée d’hommes de tout rang.
