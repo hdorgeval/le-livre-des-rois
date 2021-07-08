@@ -25,6 +25,8 @@ tags:
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feridoun enchaine Zohak
 
 Zohak, irrité de cette dispute, prépara son retour en toute hâte.
