@@ -34,6 +34,8 @@ tags:
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal écrit à Sam pour lui exposer sa position
 
 Zal appela un scribe ; son cœur était plein et il s’épancha tout entier.
