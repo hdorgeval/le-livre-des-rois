@@ -32,6 +32,8 @@ tags:
 order: '20'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Dogdo fait un songe effrayant [^1]
 
 Dogdo, mère de Zoroastre, étant grosse de cinq mois et vingt jours, eut un songe effrayant.
