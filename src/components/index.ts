@@ -2,7 +2,7 @@ export * from './episodes/fr';
 export * from './firdousi-articles';
 export * from './genealogies/fr';
 export * from './layout/fr';
-export * from './leaflet-map';
+export * from './leaflet';
 export * from './read-more-read-less';
 export * from './reigns/fr';
 export * from './seo';
