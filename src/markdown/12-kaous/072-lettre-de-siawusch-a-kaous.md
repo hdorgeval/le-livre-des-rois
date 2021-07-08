@@ -12,6 +12,8 @@ tags: []
 order: '072'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Siawusch à Kaous
 
 Siawusch ayant, avec son armée, pris possession
