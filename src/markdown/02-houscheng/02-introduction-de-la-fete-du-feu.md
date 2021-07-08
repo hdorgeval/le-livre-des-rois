@@ -12,6 +12,8 @@ tags: ['Arabes', 'Créateur', 'Dieu', 'Houscheng', 'Sedeh']
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Introduction de la fête du feu
 
 Nos pères avaient un culte et une religion et l’adoration de Dieu était en honneur.
