@@ -29,6 +29,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Le trône resta inoccupé pendant quelque temps et la tête des grands fut remplie de soucis.
