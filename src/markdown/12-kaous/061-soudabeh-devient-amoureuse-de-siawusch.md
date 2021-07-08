@@ -12,6 +12,8 @@ tags: []
 order: '061'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Soudabeh devient amoureuse de Siawusch
 
 Il se passa de nouveau quelque temps et le cœur du roi se réjouissait à cause de son fils.
