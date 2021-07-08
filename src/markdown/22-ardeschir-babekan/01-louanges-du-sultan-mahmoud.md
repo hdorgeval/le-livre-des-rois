@@ -12,6 +12,8 @@ tags: ['Ardeschir', 'Baghdad', 'Guschtasp']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir monte sur le trône
 
 Ardeschir s’assit à Baghdad sur le trône d’ivoire et posa sur sa tête la couronne de turquoises ; il se ceignit de la ceinture et prit dans sa main la massue des rois ; il para le palais de sa résidence et dorénavant on l’appelait roi des rois ; personne ne l’aurait distingué de Guschtasp.
