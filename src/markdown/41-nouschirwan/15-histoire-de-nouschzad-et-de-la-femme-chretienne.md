@@ -12,6 +12,8 @@ tags: []
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de Nouschzad, fils de Nouschirwan et de la femme chrétienne
 
 Kesra, le maître de la terre, brillait comme le soleil et le monde le craignait et espérait en lui ; il marchait comme le soleil au ciel, dans une main l’épée, dans l’autre un trésor de bienveillance, renon-
