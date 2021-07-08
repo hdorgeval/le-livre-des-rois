@@ -12,6 +12,8 @@ tags: []
 order: '039'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan de la Chine prépare une armée
 
 Lorsque le vaillant Bahram eut su que quelqu’un avait apporté au Khakan une lettre de l’Iran, il alla en courant chez le Khakan de la Chine et lui dit :
