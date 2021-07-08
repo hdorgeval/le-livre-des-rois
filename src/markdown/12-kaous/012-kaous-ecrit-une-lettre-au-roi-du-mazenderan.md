@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous écrit une lettre au roi du Mazenderan
 
 Un scribe habile écrivit en beaux caractères, sur i de la soie blanche, une lettre contenant des "wifi de crainte et d’espoir et y mit des paroles douces et des paroles dures.
