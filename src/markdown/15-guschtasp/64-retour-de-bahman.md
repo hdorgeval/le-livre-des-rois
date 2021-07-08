@@ -35,6 +35,8 @@ tags:
 order: '64'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Retour de Bahman
 
 Bahman, ayant entendu la réponse de Rustem, partit et chevaucha en toute hâte avec ses Mobeds pleins de vertu.
