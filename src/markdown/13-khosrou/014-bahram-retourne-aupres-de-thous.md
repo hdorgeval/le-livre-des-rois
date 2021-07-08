@@ -29,6 +29,8 @@ tags:
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram retourne auprès de Thous
 
 Bahram, à son retour, dit à Thous :
