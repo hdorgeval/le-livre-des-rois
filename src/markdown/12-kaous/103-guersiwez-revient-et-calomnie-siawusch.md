@@ -12,6 +12,8 @@ tags: []
 order: '103'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guersiwez revient et calomnie Siawusch auprès d'Afrasiab
 
 Guersiwez se rendit donc à la cour du roi, privé par la colère de repos et de sommeil.
