@@ -12,6 +12,8 @@ tags: []
 order: '028'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram adresse aux chefs un discours sur la justice
 
 Lorsque le roi eut terminé l’affaire du Roumi, son esprit s’inquiéta de l’état du peuple.
