@@ -12,6 +12,8 @@ tags: []
 order: '044'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram fait venir de l'Inde des Louris
 
 Plus tard il écrivit une lettre à chaque Mobed, et, dans le but d’améliorer la position de tous les pauvres, il leur demanda : Dites-moi qui, dans chaque endroit, peut vivre sans se fatiguer et qui est pauvre et dépourvu de richesses.
