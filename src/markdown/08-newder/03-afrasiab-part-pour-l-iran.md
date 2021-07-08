@@ -32,6 +32,8 @@ tags:
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab part pour l'Iran
 
 Lorsque le désert fut devenu par la verdure comme une soie peinte, les braves du Touran se ceignirent les reins.
