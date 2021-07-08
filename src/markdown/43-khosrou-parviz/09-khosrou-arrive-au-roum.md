@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou arrive au Roum
 
 Lorsque Bahram futenlré dans la salle d’audience du roi, il choisit dans son armée, qui demandait vengeance, six mille hommes couverts de cottes de A9 mailles et prêts à frapper de l’épée, pour les envoyer à la poursuite du roi.
