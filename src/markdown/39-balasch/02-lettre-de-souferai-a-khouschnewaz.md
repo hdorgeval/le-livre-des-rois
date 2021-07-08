@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Souferaï à Khouschnewaz
 
 Pirouz, en partant pour la guerre, avait cherché un Pehlewan, homme de poids et de bon conseil, qui pût être le gardien du trône et du diadème et l’ami de son jeune frère Balasch.
