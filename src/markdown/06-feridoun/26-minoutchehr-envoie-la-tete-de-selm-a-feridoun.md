@@ -33,6 +33,8 @@ tags:
 order: '026'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Minoutchehr envoie la tête de Selm à Feridoun
 
 Le héros fit partir du camp un messager et lui remit la tête du roi de l’Occident.
