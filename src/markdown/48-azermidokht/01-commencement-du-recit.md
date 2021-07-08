@@ -12,6 +12,8 @@ tags: ['Arabe', 'Azerm', 'Chine', 'Inde', 'Iran', 'Keïanides', 'Perse', 'Roum',
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Il y avait une autre princesse nommée Azerm, qui ambitionnait la couronne souveraine.
