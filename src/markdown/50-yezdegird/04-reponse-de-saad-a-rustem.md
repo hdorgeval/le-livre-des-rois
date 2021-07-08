@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Saad à la lettre de Rustem
 
 Saad, instruit de l’anivée de cet homme illustre, alla à sa rencontre avec une armée nombreuse comme le sable.
