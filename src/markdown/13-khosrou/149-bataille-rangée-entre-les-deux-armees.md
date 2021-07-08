@@ -12,6 +12,8 @@ tags: []
 order: '149'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bataille rangée entre les deux armées
 
 Lorsque le soleil étendit sur la lem le brocart jaune de sa lumière, les flots d’hommes qui couvraient le champ de bataille s’émurent ; on entendit les cris de guerre des deux armées et la terre trembla sous les sabots des chevaux.
