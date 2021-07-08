@@ -12,6 +12,8 @@ tags: []
 order: '081'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous renvoie Rustem dans le Seïstan
 
 Kaous écouta ces paroles et en fut courroucé ; il était confondu et n’osait pas lever les yeux.
