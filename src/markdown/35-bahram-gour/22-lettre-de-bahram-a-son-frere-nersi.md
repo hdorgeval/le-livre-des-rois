@@ -12,6 +12,8 @@ tags: []
 order: '022'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Bahram à son frère Nersi
 
 Lorsque les affaires du Touran furent arrangées et le cœur de Bahram délivré de ses inquiétudes, il écrivit une lettre à Nersi sur sa lutte avec les Turcs et les hauts faits de son armée.
