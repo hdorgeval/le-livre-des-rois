@@ -12,6 +12,8 @@ tags: []
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque Dara fut remis du deuil de Darab, il éleva le trône des Keïanides au-dessus du soleil.
