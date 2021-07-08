@@ -12,6 +12,8 @@ tags: []
 order: '045'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Fin de la vie de Bahram
 
 C’est ainsi que Bahram passa soixante-trois ans, pendant lesquels il n’avait pas d’égal ; mais au commencement d’une année nouvelle, son vizir, le Mobed intelligent qui lui servait de scribe, se pré--sente devant lui, disant :
