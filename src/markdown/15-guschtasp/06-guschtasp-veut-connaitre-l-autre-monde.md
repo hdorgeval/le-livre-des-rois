@@ -58,6 +58,8 @@ tags:
 order: '06'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp veut savoir quelle sera sa place dans l'autre Monde [^1]
 
 Ces prodiges multipliés augmentèrent l’estime que Guschtasp faisait de Zoroastre.
