@@ -29,6 +29,8 @@ tags:
 order: '055'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feribourz arrive au mont hemawen
 
 Lorsque le soleil entoura la voûte d’azur d’une enceinte de brocart jaune, on entendit la sentinelle qui cria à Gouderz :
