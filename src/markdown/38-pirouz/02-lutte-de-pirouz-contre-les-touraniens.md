@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lutte de Pirouz contre les Touraniens
 
 Pirouz, étant délivré de ce temps de famine, put s’asseoir tranquillement sur le trône de la royauté et fonda une grande ville, à laquelle il fit donner le nom de Pirouz-Rem et le maître éloquent du monde dit :
