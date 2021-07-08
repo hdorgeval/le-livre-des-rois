@@ -8,6 +8,8 @@ tags: [Dikhan, Dihkan]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Dihkan
 
 Dihkan signifie à la fois cultivateur et historien.
