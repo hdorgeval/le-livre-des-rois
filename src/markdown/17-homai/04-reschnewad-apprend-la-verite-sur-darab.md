@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Reschnewad apprend la vérité sur Darab
 
 Un jour il s’éleva un orage qui donnait des soucis
