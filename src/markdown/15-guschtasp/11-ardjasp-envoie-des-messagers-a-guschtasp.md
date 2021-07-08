@@ -38,6 +38,8 @@ tags:
 order: '11'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardjasp envoie des messagers à Guschtasp
 
 Lorsque le Destour du roi eut terminé la lettre, en présence de tous les grands de l’armée, Ardjasp la plia, y apposa son sceau, la remit à ces vieillards du pays des magiciens et leur donna ses ordres, disant:
