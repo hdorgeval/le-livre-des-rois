@@ -44,6 +44,8 @@ tags:
 order: '13'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les envoyés d'Ardjasp s'en retournent avec la réponse de Guschtasp
 
 Le roi de la terre, ayant terminé son discours, fit appeler Siyah-Pil et lui confia les deux guerriers chinois, en disant:
