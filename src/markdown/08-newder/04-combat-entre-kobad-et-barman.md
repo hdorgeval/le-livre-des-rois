@@ -36,6 +36,8 @@ tags:
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Kobad et Barman et mort de Kobad
 
 Lorsque l’aube du jour leva la tête au-dessus des montagnes, un éclaireur s’approcha de Dehistan.
