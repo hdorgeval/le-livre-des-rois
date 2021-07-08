@@ -25,6 +25,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Allocution de Kobad aux Iraniens
 
 Lorsque le fortuné Kobad fut monté sur le trône et eut placé sur sa tête le diadème du pouvoir, il partit d’Istakhr pour Thisifoun (Ctésiphon), qui faisait la gloire des grands.
