@@ -47,6 +47,8 @@ tags:
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Pescheng demande la paix à Keïkobad
 
 Le roi de Touran, les deux yeux remplis de larmes, resta étonné que de telles paroles sortissent de la bouche d’Afrasiab et que l’esprit de son fils se fût tourné vers la justice.
