@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Troisième bataille entre Iskender et Dara
 
 Lorsque lskender apprit ce que faisait Dara et qu’il était assis sur le trône, brillant comme le diadème
