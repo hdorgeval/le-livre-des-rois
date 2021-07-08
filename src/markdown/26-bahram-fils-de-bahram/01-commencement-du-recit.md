@@ -12,6 +12,8 @@ tags: ['âme', 'Bahram', 'Créateur', 'Dieu', 'Iran', 'Keïanides', 'Mobed', 'Mo
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque quarante jours furent passés sans que Bahram, portant le deuil de son père Bahram, eût mis sur sa tête le diadème, les héros pleins de sagesse arrivèrent en sa présence, remplis de soucis, exhalant leurs plaintes et leurs lamentations et s’assirent devant lui, affligés et en deuil ; leurs joues avaient pâli, leurs lèvres étaient devenues bleues.
