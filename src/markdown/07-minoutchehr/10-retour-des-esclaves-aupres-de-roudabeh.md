@@ -26,6 +26,8 @@ tags:
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Retour des esclaves auprès de Roudabeh
 
 Les belles esclaves partirent et Zal s’en retourna, mesurant la lenteur de cette nuit qui lui parut longue comme une année.
