@@ -12,6 +12,8 @@ tags: []
 order: '191'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou arrive devant Gangue
 
 Dans la troisième marche Keï Khosrou arriva devant Gangue ; il entendit le bruit des flûtes et le son des harpes et sourit ; il fit le tour des fortifications et resta comme de ce changement de la fortune, se disant :
