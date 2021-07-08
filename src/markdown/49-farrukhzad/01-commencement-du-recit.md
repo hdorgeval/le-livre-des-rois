@@ -12,6 +12,8 @@ tags: ['Créateur', 'cyprès', 'Djehrem', 'Djeschm', 'Farrukhzad', 'Keïanides',
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 On appela de Djehrem Farrukhzad et on le plaça sur le trône des rois.
