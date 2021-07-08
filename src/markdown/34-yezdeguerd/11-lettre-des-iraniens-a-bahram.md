@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre des Iraniens à Bahram et sa réponse
 
 Lorsque les Iraniens apprirent la nouvelle de ce qui se passait, ils se hâtèrent tous de chercher un remède ; tous étaient effrayés du danger et s’assirent ensemble en assemblée plénière, disant :
