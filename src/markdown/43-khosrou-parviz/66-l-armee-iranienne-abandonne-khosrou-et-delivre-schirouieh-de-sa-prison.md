@@ -12,6 +12,8 @@ tags: []
 order: '066'
 ---
 
+<!-- LTeX: language=fr -->
+
 # L'armée iranienne abandonne Khosrou et délivre Schirouïeh de sa prison
 
 Lorsque le roi connut ces nouvelles, il prit légè-rement cette grave affaire.
