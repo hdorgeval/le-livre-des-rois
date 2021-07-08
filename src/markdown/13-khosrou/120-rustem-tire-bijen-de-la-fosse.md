@@ -12,6 +12,8 @@ tags: []
 order: '120'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tire Bijen de la fosse
 
 Cependant Tehemten revêtit sa cotte de mailles de Roum et en attacha les boutons ; il se présenta devant le maître du soleil et de la lune, l’adore et lui demanda protection et asile, disant :
