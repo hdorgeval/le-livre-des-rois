@@ -12,6 +12,8 @@ tags: []
 order: '027'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Septième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds
 
 Le septième jour après, il fit suspendre la couronne ait-dessus du trône et vint s’asseoir sur le trône d’ivoire ; devant lui se trouvaient le Grand Mobed, les nobles, les sages pleins d’ambition et à l’esprit éveillé, comma Sadeh, Yezdeguerd, le scribe et au-devant de tous Bahman, à l’esprit pénétrant.
