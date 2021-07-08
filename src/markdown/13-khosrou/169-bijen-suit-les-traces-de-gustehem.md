@@ -12,6 +12,8 @@ tags: []
 order: '169'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen suit les traces de Gustehem
 
 Bijen se ceignit et se prépara au combat, il lit seller son cheval Schebreng.
