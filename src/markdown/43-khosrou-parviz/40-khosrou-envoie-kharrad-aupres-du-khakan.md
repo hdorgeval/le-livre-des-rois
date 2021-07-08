@@ -12,6 +12,8 @@ tags: []
 order: '040'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou envoie Kharrad, fils de Berzin, auprès du Khakan
 
 Lorsque le grand roi apprit que le loup était sorti du bois et que le vaillant Bahram amenait une armée qui enlevait au ciel son éclat, il dit à Kharrad, fils de Berzin :
