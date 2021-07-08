@@ -12,6 +12,8 @@ tags: []
 order: '060'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Nouschirwan au fils du Kaïsar et sa réponse
 
 J’ai vu dans un vieux livre ; écrit d’après les paroles d’un savant véridique, que Kesra, le maître du monde, reçut du beau pays du Roum ce message : Puisses-tu rester en vie !
