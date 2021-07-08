@@ -12,6 +12,8 @@ tags: []
 order: '028'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de Mahboud le Destour de Nouschirwan
 
 Ayant fini cette histoire, je passe à celle de Mahboud, le Destour du roi.
