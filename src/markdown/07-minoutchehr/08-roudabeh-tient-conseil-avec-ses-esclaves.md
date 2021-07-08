@@ -35,6 +35,8 @@ tags:
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Roudabeh tien conseil avec ses esclaves
 
 Il arriva qu’un jour Mihrab se leva de grand matin et sortit de son palais.
