@@ -12,6 +12,8 @@ tags: []
 order: '100'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab envoie Guersiwez auprès de Siawusch
 
 Afrasiab raconta ces nouvelles à Guersiwez, il dévoila devant lui tout ce qui était secret et lui dit :
