@@ -12,6 +12,8 @@ tags: []
 order: '116'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem compose son cortège
 
 Le roi dit ensuite à Rustem : Puisque tu veux Le charger de cette lutte, demande-moi ce qu’il te faut en trésors et en troupes et dis-moi par qui tu veux être accompagné.
