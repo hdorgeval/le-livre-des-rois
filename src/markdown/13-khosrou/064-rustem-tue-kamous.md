@@ -30,6 +30,8 @@ tags:
 order: '064'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tue Kamous
 
 Tehemten fut affligé de la mort d’Alwa ;
