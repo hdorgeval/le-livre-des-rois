@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram saisit la couronne au milieu des loups
 
 La nuit passa et le lendemain de grand matin le roi vint et monta sur le trône.
