@@ -12,6 +12,8 @@ tags: ['Bahram', 'chrysoprases', 'Créateur', 'Dieu', 'Kirmanschah', 'Nersi']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque Bahram, fils et petit-fils de Bahram, se fut assis sur le trône et se fut armé de justice et de générosité, on versa sur lui des chrysoprases et on le salua du nom de Kirmanschah.
