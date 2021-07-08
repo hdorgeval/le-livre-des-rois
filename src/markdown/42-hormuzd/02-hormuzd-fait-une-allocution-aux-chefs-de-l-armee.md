@@ -12,6 +12,8 @@ tags: ['âme', 'Créateur', 'Dieu', 'Herat', 'Hormuzd', 'Khorasan', 'Kischwers',
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Hormuzd monte sur le trône et fait une allocution aux chefs des armées
 
 Il y avait un gardien des frontières de Herat, un vieillard aimable et connaissant toute chose ; le nom de cet homme plein d’expérience était Makh ; il était éloquent, noble et prospère.
