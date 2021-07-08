@@ -12,6 +12,8 @@ tags: []
 order: '038'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou apprend ce que fait Bahram et écrit une lettre au Khakan
 
 Ainsi Bahram jouissait de la vie et faisait des largesses, chacun lui rendait hommage et cela dura jusqu’à ce que des nouvelles de lui fussent arrivées dans l’Iran et chez le roi des braves, à qui l’on dit :
