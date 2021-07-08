@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de Schirouïeh et de Schirin, femme de Khosrou Parviz
 
 J’ai terminé maintenant l’histoire de Khosrou et je vais parler de Schirouï et de Schirin.
