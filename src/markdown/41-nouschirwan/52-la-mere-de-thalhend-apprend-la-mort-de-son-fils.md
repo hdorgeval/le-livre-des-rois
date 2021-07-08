@@ -12,6 +12,8 @@ tags: []
 order: '052'
 ---
 
+<!-- LTeX: language=fr -->
+
 # La mère de Thalhend apprend la mort de son fils
 
 La mère des princes ne dormait pas, ne prenait ni repos ni nourriture depuis qu’ils avaient choisi leur champ de bataille ; elle tenait toujours un guetrasas nouscumwxn. ’ teur sur la route, elle passait ses jours dans l’amer-, turne.
