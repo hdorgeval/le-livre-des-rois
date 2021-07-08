@@ -12,6 +12,8 @@ tags: []
 order: '024'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram écrit des instructions pour ses employés
 
 Le troisième jour on prépara une fête pour les nobles et l’on plaça un scribe devant le roi, qui, tout iifif en s’apprêtent à boire du vin, fit écrire, dans son bonheur et sa clémence, une lettre qu’il commença par les louanges de ceux qui purifient leur esprit a par leur savoir, qui ornent leur cœur par l’intelligence et acquièrent vaillamment leur fortune avec rr le travail de leur corps, qui reconnaissent que tout bien vient de Dieu, qui recherchent l’intelligence et la cultivent à l’aide d’hommes savants, qui écar-
