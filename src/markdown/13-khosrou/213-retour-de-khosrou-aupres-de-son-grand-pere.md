@@ -12,6 +12,8 @@ tags: []
 order: '213'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Retour de Keï Khosrou auprès de son grand-père
 
 Le cœur du vieux roi rajeunit par ces nouvelles ; tu aurais dit qu’il en avait grandi.
