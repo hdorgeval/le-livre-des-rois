@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan prend des forteresses dans le pays de Roum
 
 Il s’avança ainsi jusqu’à une grande ville ; le nom de ce lieu plein d’activité était Schourab.
