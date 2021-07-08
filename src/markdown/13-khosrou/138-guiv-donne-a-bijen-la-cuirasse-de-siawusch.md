@@ -12,6 +12,8 @@ tags: []
 order: '138'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv donne à Bijen la cuirasse de Siawusch
 
 Lorsqu’il eut disparu du milieu de l’armée, le cœur de Guiv bondit d’angoisse.
