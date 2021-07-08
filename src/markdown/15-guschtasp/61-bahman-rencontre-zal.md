@@ -37,6 +37,8 @@ tags:
 order: '61'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahman rencontre Zal
 
 Bahman, aussitôt qu’il eut entendu les paroles du prince illustre, se mit en route, vêtu d’une robe royale de tissu d’or, couvert de son casque princier.
