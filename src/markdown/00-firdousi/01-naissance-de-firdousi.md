@@ -12,6 +12,8 @@ tags: ['Châb', 'Firdawsi', 'Firdousi', 'Hégire', 'Naissance', 'Peblewî', 'Per
 order: '1'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Firdousi
 
 D'après les indications qu'il est possible de relever dans son œuvre même, c'est peu après 320 de l'Hégire, soit environ l'an 934 de notre ère, qu'il faut placer la naissance de Firdousi (Abu'l Qasim Firdawsi, selon la transcription littérale de ses nom et surnom).
