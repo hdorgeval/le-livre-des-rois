@@ -12,6 +12,8 @@ tags: []
 order: '019'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender se rend en ambassadeur auprès de Keïdafeh
 
 Le roi, qui voulait conquérir le monde, choisit parmi lesllloumis dix hommes illustres tels qu’il lui
