@@ -12,6 +12,8 @@ tags: []
 order: '055'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan se met en colère contre Buzurdjmihr et le fait enchainer
 
 Fais attention maintenant au sort de Buzurdjmihr et comment l’a traité le ciel, qui élève un homme jusqu’aux plus hauts nuages, puis le rabaisse jusque dans la poussière sombre.
