@@ -12,6 +12,8 @@ tags: ['âme', 'Bahrams', 'Créateur', 'Dieu', 'Nersi', 'Ormuzd']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque Nersi se fut assis sur le trône d’ivoire et qu’il eut placé sur sa tête la glorieuse couronne, tous les grands s’approchèrent avec des offrandes ; ils approchèrent portant le deuil de son père.
