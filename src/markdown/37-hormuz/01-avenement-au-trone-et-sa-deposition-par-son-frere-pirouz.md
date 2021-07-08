@@ -25,6 +25,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Avènement au trône de Hormuz et sa déposition par son frère Pirouz
 
 Lorsque Hormuz monta sur le trône de son père et qu’il plaça sur sa tête la couronne d’or des Keïanides, on aurait dit que Pirouz n’était composé que de colère et les larmes de l’envie remplirent ses yeux.
