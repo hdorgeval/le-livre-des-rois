@@ -12,6 +12,8 @@ tags: []
 order: '020'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Parmoudeh demande protection à Bahram Djoubineh
 
 Bahram dit :
