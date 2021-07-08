@@ -12,6 +12,8 @@ tags: ['âme', 'Créateur', 'Destour', 'Dieu', 'Iran', 'Iranien', 'Kesra', 'Nous
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan parle aux chefs de l'Iran
 
 Lorsque Kesra fut assis sur le trône d'ivoire et qu’il eut placé sur sa tête cette couronne qui éblouit les cœurs, les grands de la terre se réunirent et quand le maître et ses conseillers furent assis, le chef des grands commença par célébrer le Distributeur de la justice, celui qui répand le bonheur dans le monde disant :
