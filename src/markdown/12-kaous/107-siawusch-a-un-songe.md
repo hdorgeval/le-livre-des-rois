@@ -12,6 +12,8 @@ tags: []
 order: '107'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch a un songe
 
 Siawusch passa trois jours dans les larmes à cause de cette trahison du sort ; le quatrième jour le prime était endormi dans les bras de Ferenguis au visage de lune, quand tout à coup il trembla, se réveilla de son doux sommeil, se redressa et jeta un cri comme un éléphant en fureur.
