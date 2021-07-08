@@ -28,6 +28,8 @@ tags:
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal vient en aide à Mihrab
 
 Zal se mit en route pour aller vers Mihrab le brave, il se hâtait avec une armée demandant à combattre.
