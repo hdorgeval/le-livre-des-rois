@@ -12,6 +12,8 @@ tags: []
 order: '167'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lehhak et Ferschidwerd partent pour le Touran
 
 L’armée ayant donné cette réponse à ses deux nobles chçfir, Lehhak et Ferschidwerd se levèrent ; ils savaient que ce illétait pas le moment de combattre et d’acquérir de la gloire et que l’armée avait raison de dire qu’un trônpeau sans gardien ne pouvait que périr.
