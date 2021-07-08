@@ -12,6 +12,8 @@ tags: []
 order: '113'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Keï Khosrou
 
 Au milieu d’une nuit noire, où la lune était invisible et pendant que les oiseaux et les bêtes fauves dormaient, Piran eut un songe : il vit une lumière qui émanait du soleil et au milieu de cette lumière Siawusch, une épée à la main, qui lui dit :
