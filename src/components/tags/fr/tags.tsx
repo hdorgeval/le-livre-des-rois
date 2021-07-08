@@ -1,5 +1,5 @@
-import { Tag } from './tag';
-import { AllMarkdownRemarkResponse, MarkdownGroupedTag } from '../../graphql';
+import { Tag } from '../common/tag';
+import { AllMarkdownRemarkResponse, MarkdownGroupedTag } from '../../../graphql';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
@@ -139,9 +139,11 @@ export const Tags: React.FC = () => {
             return (
               <Tag
                 index={index}
+                lang="fr"
                 key={group.fieldValue}
                 size={group.totalCount}
                 text={group.fieldValue}
+                description={`Voir tous les articles liés à ${group.fieldValue}`}
               />
             );
           })}

@@ -6,8 +6,10 @@ export interface TagProps {
   text: string;
   size: number;
   index: number;
+  description: string;
+  lang: 'fr' | 'en';
 }
-export const Tag: React.FC<TagProps> = ({ text, size, index }) => {
+export const Tag: React.FC<TagProps> = ({ text, size, index, description }) => {
   const getStyleByIndex = (i: number) => {
     const konwnIndex = (i % 22) + 1;
     return `color${konwnIndex}`;
@@ -19,7 +21,7 @@ export const Tag: React.FC<TagProps> = ({ text, size, index }) => {
         fontSize: 30 * (1 + Math.log10(size)),
       }}
     >
-      <Link to={`/tag/${text}`} aria-label={`voir tous les articles liés à ${text}`}>
+      <Link to={`/tag/${text}`} aria-label={description}>
         {text}
       </Link>{' '}
       {''}
