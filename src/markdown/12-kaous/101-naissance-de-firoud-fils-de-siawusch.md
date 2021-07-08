@@ -12,6 +12,8 @@ tags: []
 order: '101'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Firoud, fils de Siawusch
 
 Dans ce moment un cavalier rapide comme le vent accourut vers Siawusch et lui apporta une bonne nouvelle, disant :
