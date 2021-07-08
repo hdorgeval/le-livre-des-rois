@@ -13,6 +13,8 @@ tags:
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Firoud tue Zerasp
 
 Le Pehlewan dit alors à Zerasp :
