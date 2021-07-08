@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Une jeune fille délivre Schapour de sa peau d'âne
 
 Ainsi senpassa quelque temps; tout le peuple de l’lran lut emmené et dispersé, et le Kaïsar tenait Scha-
