@@ -27,6 +27,8 @@ tags:
 order: '066'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Djinghisch avec Rustem
 
 Un cavalier plein d’orgueil et dévoué au roi se présenta pour tenter cette aventure ;
