@@ -12,6 +12,8 @@ tags: []
 order: '175'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou réunit une armée contre Afrasiab
 
 La lutte de Gouderz et de Piran étant terminée, le roi victorieux se prépara pour une nouvelle guerre et de tous côtés arrivèrent les grands, accompagnés d’armées innombrables.
