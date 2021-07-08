@@ -12,6 +12,8 @@ tags: []
 order: '095'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tue Akwan
 
 Dans ce moment arriva inopinément et comme un vent qui s’échappe d’une crevasse, Afrasiab qui voulait voir ses chevaux.
