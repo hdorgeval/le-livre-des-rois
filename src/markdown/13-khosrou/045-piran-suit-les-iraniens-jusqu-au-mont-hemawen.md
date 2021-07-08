@@ -28,6 +28,8 @@ tags:
 order: '045'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran suit les Iraniens jusqu'au mont Hemawen
 
 Lorsque le soleil fatigué de son voile noir l’eut déchiré et se fut montré, le Sipehbed arriva devant le mont Hemawen et le monde disparut sous la poussière que soulevaient ses troupes.
