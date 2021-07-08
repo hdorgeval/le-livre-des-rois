@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schapour communique à son fils Ormuzd ses dernières volontés
 
 Schapour continua ainsi à gouverner avec justice et sagesse ; son étoile était puissante et le trône des rois se maintenait.
