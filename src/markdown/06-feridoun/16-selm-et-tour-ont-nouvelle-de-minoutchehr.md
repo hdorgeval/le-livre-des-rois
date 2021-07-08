@@ -12,6 +12,8 @@ tags: ['Dieu', 'Div', 'Feridoun', 'Iran', 'Minoutchehr', 'Selm', 'Tour']
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Selm et Tour ont nouvelle de Minoutchehr
 
 La renommée de la splendeur qui entourait de nouveau le trône du roi des rois parvint à Tour et à Selm et leurs cœurs injustes furent remplis de crainte parce que leur étoile commençait à baisser.
