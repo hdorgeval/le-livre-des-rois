@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens mettent Kobad dans les chaines et placent sur le trône son frère Djamasp
 
 Lorsque les Iraniens apprirent que cet homme au corps d’éléphant avait cessé de vivre, il s’éleva un grand cri de douleur dans le pays entier et les -
