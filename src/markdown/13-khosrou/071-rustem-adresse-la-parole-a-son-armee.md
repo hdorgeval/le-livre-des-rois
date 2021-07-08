@@ -48,6 +48,8 @@ tags:
 order: '071'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem adresse la parole à son armée
 
 Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et Guiv, Feribourz et Gustehem les nobles guerriers, Gourguin le cavalier expérimenté et Bijen qui brillait dans le combat et il leur adressa des paroles convenables, disant :
