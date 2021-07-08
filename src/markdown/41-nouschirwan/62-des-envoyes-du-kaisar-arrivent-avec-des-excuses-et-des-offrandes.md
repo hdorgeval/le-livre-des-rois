@@ -12,6 +12,8 @@ tags: []
 order: '062'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Des envoyés du Kaïsar arrivent avec des excuses et des offrandes
 
 La nuit arrivait, le roi était en colère de ce qui s’était dit :
