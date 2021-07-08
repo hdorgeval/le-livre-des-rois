@@ -12,6 +12,8 @@ tags: []
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure de Bahram avec Ferschidwerd le chef de village et l'homme qui arrachait les ronces
 
 Le roi des rois partit avec Rouzbeh de la maison du chef du village, le cœur ouvert et joyeux.
