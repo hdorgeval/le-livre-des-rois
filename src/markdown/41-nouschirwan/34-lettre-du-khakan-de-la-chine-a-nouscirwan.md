@@ -12,6 +12,8 @@ tags: []
 order: '034'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre du Khakan de la Chine à Nouschirwan
 
 Il choisit dans son armée dix hommes éloquents. qui savaient parler et comprendre ce qu’on leur disait ; un Chinois savant écrivit une lettre magnifique selon la coutume chinoise et les dix cavaliers pleins d’intel-
