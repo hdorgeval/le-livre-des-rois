@@ -12,6 +12,8 @@ tags: []
 order: '116'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou retourne à Siawusch
 
 Le Sipehbed se hâta d’emmener Keï Khosrou hors de la présence du roi et s’achemina vers son palais ; le bonheur brillait dans ses yeux, il marchait fièrement, car il avait éloigné tout danger.
