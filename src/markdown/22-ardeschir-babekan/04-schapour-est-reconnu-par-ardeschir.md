@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schapour joue à la balle et est reconnu par Ardeschir
 
 À l’aube du jour le Destour du roi mena les enfants sur la place du château, tous égaux de vête--ments, de mine et de taille, de sorte qu’on ne pouvait distinguer l’un de l’autre.
