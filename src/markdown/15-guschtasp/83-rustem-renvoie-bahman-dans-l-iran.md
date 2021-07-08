@@ -36,6 +36,8 @@ tags:
 order: '83'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem renvoie Bahman dans l'Iran
 
 Cependant Bahman restait dans le Zaboulistan, passait sa vie à la chasse, au banquet et dans le jardin des roses.
