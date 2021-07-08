@@ -12,6 +12,8 @@ tags: ['âme', 'cyprès', 'Destour', 'Dieu', 'Guschtasp', 'Kaisar', 'Kitaboun', 
 order: '07'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de Kitaboun fille du Kaisar
 
 Or il arriva que le Kaisar avait l’intention, lorsqu’il aurait une fille devenue grande et désirant se marier et qu’il verrait arrivé le temps de lui donner un époux, de tenir dans son palais une assemblée des grands, des sages, des hommes de bon conseil, enfin de tous ceux qui étaient ses égaux et les plus puissants parmi les hommes illustres, puis alors de faire traverser à cette fille au visage de lune toute cette assemblée réunie dans le palais, pour se choisir un mari, mais en restant entourée d’esclaves, de sorte qu’aucun homme ne pût apercevoir même son diadème.
