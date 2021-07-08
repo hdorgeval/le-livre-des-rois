@@ -47,6 +47,8 @@ tags:
 order: '69'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar fait l'éloge de sa famille
 
 Isfendiar écouta ces paroles de Rustem, il se mit à sourire et son cœur s’épanouit; il lui dit:
