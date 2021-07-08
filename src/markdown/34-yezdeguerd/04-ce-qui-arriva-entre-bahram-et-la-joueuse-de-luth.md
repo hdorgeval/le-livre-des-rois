@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ce qui arriva à la chasse entre Bahram et la joueuse de Luth
 
 Bahram ne s’occupait que du jeu de balle sur le Meîdan ; tantôt il jouait de la raquette, tantôt il allait à la chasse.
