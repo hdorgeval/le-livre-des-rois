@@ -8,6 +8,8 @@ tags: [haoudah, haoudahs]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Haoudah
 
 Le haoudah est un siège placé sur le dos d’un seul chameau ou d’un seul éléphant.
