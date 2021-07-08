@@ -12,6 +12,8 @@ tags: []
 order: '079'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch envoie Rustem auprès de Kaous
 
 Siawusch s’assit sur le trône d’ivoire et suspendit sa couronne au-dessous du trône.
