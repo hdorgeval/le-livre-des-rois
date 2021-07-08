@@ -37,6 +37,8 @@ tags:
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mihrab apprend l'aventure de sa fille
 
 Mihrab revint de la cour tout joyeux, car Zal avait beaucoup parlé de lui.
