@@ -12,6 +12,8 @@ tags: []
 order: '039'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sohrab combat Gurdaferid
 
 Quand la fille de Guzdehem apprit que le chef de cette armée avait disparu, elle fut saisie de douleur et poussa un cri d’angoisse et un soupir sortit de sa poitrine.
