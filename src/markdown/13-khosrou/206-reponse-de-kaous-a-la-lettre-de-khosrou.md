@@ -12,6 +12,8 @@ tags: []
 order: '206'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Kaous à la lettre de Keï Khosrou
 
 Ensuite entra un scribe, apportant du papier, du musc et de l’ambre et il écrivitla réponse du roi :
