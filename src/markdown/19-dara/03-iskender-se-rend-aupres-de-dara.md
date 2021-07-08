@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender se rend auprès de Dara comme son propre ambassadeur
 
 Aussitôt qu’Iskender apprit l’arrivée de cette ar-
