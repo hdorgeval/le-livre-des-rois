@@ -47,6 +47,8 @@ tags:
 order: '040'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Thous tue Arjeng
 
 Or il y avait un grand du Touran nommé Arjeng, qui s’était fait dans les combats un nom qui allait jusqu’aux nues ;
