@@ -25,6 +25,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Après la mort de Farrukhzad, Yezdegird devint roi, le vingt-cinquième jour du mois de Sipendarmud (février).
