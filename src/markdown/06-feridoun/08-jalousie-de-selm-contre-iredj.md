@@ -27,6 +27,8 @@ tags:
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Jalousie de Selm contre Iredj
 
 Un long temps se passa ainsi ; mais le sort avait caché dans son sein un secret.
