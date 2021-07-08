@@ -12,6 +12,8 @@ tags: []
 order: '134'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv et Keï Khosrou se rendent à Siawuschguird
 
 Le roi monta sur le cheval du vaillant Guiv, qui se mit à marcher devant lui une épée indienne à la main.
