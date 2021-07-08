@@ -12,6 +12,8 @@ tags: []
 order: '047'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gau et Thalhend se disputent le trône
 
 Les fils, bouillonnant sous l’influence des mauvais enseignements de leurs maîtres, vinrent chez leur mère et demandèrent bruyamment lequel d’eux se conduisait le mieux et était le plus patient dans la bonne et la mauvaise fortune ?
