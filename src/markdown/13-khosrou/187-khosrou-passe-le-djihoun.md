@@ -12,6 +12,8 @@ tags: []
 order: '187'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou passe le Djihoun
 
 Lorsque Keï Khosrou eut passé de l’autre côté du Djihoun, il oublia la faim, le repos et le sommeil.
