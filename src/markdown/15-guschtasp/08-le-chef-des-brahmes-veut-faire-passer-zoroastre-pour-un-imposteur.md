@@ -70,6 +70,8 @@ tags:
 order: '08'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le chef des Brahmes de l'Inde veut faire passer Zoroastre pour un imposteur [^1]
 
 Les Missionnaires envoyés par Guschtasp, dans plusieurs Provinces de l'Iran, portèrent bientôt jusqu’aux Indes le bruit de la réforme de Zoroastre.
