@@ -12,6 +12,8 @@ tags: []
 order: '038'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram s'enfuit de l'Inde avec la fille du roi Schenguil
 
 Lorsque Bahram eut commencé à vivre avec la fille de Schenguil, sa femme reconnut qu’il était le roi du monde.
