@@ -27,6 +27,8 @@ tags:
 order: '25'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar fait grâce aux Turcs
 
 Lorsque les Turcs virent qu’Ardjasp était parti et que de tous côtés ils étaient frappés par des épées brûlantes, tous leurs grands mirent pied à terre et s’approchèrent d’Isfendiar.
