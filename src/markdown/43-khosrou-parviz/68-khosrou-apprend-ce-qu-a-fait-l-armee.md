@@ -12,6 +12,8 @@ tags: []
 order: '068'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou apprend ce que l'armée à fait
 
 Pendant ce temps Ferrukhzad se tenait devant la porte du palais et ne laissait entrer personne par qui le roi aurait pu apprendre ce qui se passait ; il se tenait à la porte pour en garder le rideau, lui seul.
