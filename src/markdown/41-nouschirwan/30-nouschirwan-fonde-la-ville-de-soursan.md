@@ -12,6 +12,8 @@ tags: []
 order: '030'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan fonde la ville de Soursan
 
 Maintenant, l’histoire de Zerwan et du Juif étant terminée, chantons les louanges de la raison.
