@@ -12,6 +12,8 @@ tags: []
 order: '088'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch montre son adresse devant d'Afrasiab
 
 Une nuit le roi dit à Siawusch :
