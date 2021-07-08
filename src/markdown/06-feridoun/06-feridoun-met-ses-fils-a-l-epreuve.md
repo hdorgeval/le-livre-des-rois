@@ -32,6 +32,8 @@ tags:
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feridoun met ses fils à l'épreuve
 
 Feridoun ayant reçu la nouvelle que ses trois fils revenaient vers lui, se mit en marche ; il désirait éprouver leur courage et se délivrer de ses soupçons sur eux.
