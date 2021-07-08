@@ -12,6 +12,8 @@ tags: ['Chine', 'cyprès', 'Dieu', 'Iran', 'Iredj', 'Keïanides', 'Roum', 'Tour'
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iredj est assassiné par ses frères
 
 Le rideau qui cachait le soleil s’étant levé, l’aurore ayant paru et le sommeil s’étant dissipé, les deux insensés brûlèrent du désir de laver leurs yeux de toute honte.
