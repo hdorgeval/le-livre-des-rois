@@ -12,6 +12,8 @@ tags: []
 order: '024'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Quatrième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds
 
 Deux semaines s’étant passées, le roi se débarrassa un jour des all’aires publiques et ordonna aux Mobeds et aux nobles de venir au palais avec les sages ; il leur fit des questions sur le corps et la naissance, sur l’ardeur et le repos, sur l’intelligence et la justice , sur la royauté, le trône et le pouvoir, sur le commencement et la fin de la fortune.
