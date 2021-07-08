@@ -12,6 +12,8 @@ tags: []
 order: '068'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch traverse le feu
 
 Le roi Keï Kaous était rempli de soucis à l’égard de son fils et de Soudabeh aux traces sinistres et il disait :
