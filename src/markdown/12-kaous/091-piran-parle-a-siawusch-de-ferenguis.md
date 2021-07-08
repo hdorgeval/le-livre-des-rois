@@ -12,6 +12,8 @@ tags: []
 order: '091'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran parle à Siawusch de Ferenguis
 
 Un jour le prudent Piran dit à Siawusch :
