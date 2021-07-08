@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Souferaï et de Khouschnewaz
 
 Khouschnewaz eut nouvelle de ce mouvement ; il entra dans le désert et se prépara à la lutte ; il se rendit à Beîkend et y établit un camp’tel que la voûte du ciel qui tourne ne voyait plus la surface de la plaine.
