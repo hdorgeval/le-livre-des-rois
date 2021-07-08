@@ -12,6 +12,8 @@ tags: []
 order: '061'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kesra marche contre le Roum et fait un emprunt chez les marchands
 
 Lorsque le Kaïsar apprit que le roi quittait l’Iran avec son armée, plein de colère, il marcha d’Ammourieh vers Haleb et le monde devint rempli de tumulte, de bruit et de clameurs ; trois cent mille cavaliers roumis entreprirent le siège d’Haleb.
