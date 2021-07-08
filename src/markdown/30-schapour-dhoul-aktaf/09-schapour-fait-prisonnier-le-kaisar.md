@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schapour, dans une attaque de nuit, fait prisonnier le Kaïsar
 
 Il ne se passa pas beaucoup de temps avant que
