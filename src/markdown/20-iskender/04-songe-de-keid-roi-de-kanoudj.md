@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Songe de Keïd, roi de Kanoudj
 
 Voici ce qu’un conteur a récité en pehlevi; tu seras étonné de l’entendre. Il y avait un roi de l’Inde, nommé Keïd, un homme intelligent, clairvoyant et d’humeur joyeuse; il avait un cœur de sage, un cer- veau d’homme de sens, un trône de roi et une illus- tration de Mobed. Pendant dix nuits. l’une après l’autre, il eut des songes z réfléchis aune pareille
