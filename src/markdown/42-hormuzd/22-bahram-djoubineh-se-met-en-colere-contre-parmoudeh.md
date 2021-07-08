@@ -12,6 +12,8 @@ tags: []
 order: '022'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh se met en colère contre Parmoudeh
 
 Lorsque le Pehlewan eut reçu cette lettre, le cœur du héros illustre rajeunit ; il resta rempli d’admiration et envoya appeler auprès de lui les Iraniens.
