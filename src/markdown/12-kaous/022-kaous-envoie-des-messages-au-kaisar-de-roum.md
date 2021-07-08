@@ -12,6 +12,8 @@ tags: []
 order: '022'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous envoie des messages au Kaïsar de Roum et à Afrasiab
 
 Le roi dépêcha un cavalier au Kaïsar, un cavalier qui faisait disparaître le chemin devant lui et lui fit dire :
