@@ -56,6 +56,8 @@ tags:
 order: '070'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Touraniens tiennent conseil
 
 Piran courut à son camp rapidement comme le vent, convoqua tous les membres de la famille de Wiseh et leur fit connaître son secret, en disant :
