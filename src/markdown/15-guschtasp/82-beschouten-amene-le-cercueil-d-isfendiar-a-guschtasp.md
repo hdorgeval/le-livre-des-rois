@@ -49,6 +49,8 @@ tags:
 order: '82'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Beschouten amène le cercueil d'Isfendiar à Guschtasp
 
 Rustem fit faire un beau cercueil en fer et étendit dessus un poêle en brocart de Chine;
