@@ -12,6 +12,8 @@ tags: []
 order: '146'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou arrive chez Kaous
 
 Lorsque Keï Khosrou arriva auprès du roi, il trouva le monde rempli de parfums, de couleurs et de peintures ; les hommes étaient parés pour la fête : KEÏ mon s.
