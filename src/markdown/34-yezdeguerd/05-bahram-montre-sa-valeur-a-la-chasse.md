@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram montre sa valeur à la chasse
 
 Une autre semaine il partit avec un noble cortège pour la chasse, emmenant des guépards et des fau-cons.
