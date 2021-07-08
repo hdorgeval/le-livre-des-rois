@@ -12,6 +12,8 @@ tags: []
 order: '020'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem envoie un message au roi du Hamaveran
 
 Rustem envoya auprès .dulroi Kaous un homme prudent et habile à découvrir le chemin et lui fit dire :
