@@ -12,6 +12,8 @@ tags: []
 order: '064'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Troisième visite de Siawusch dans l'appartement des femmes
 
 Soudabeh s’assit sur son trône, parée de boucles d’oreilles et la tête couverte d’un diadème incrusté d’or.
