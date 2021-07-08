@@ -12,6 +12,8 @@ tags: []
 order: '043'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan apprend la mort de Bahram et détruit la maison et la famille de Kaloun
 
 Lorsque le Khakan apprit ce qui était arrivé à Bahram, il comprit que sa gloire était perdue.
