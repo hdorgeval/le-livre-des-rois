@@ -12,6 +12,8 @@ tags: []
 order: '047'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou tue Bendouï pour venger la mort de son père
 
 Le vaillant Bahram étant écarté, le roi se sentit en sécurité ; il ne voyait plus, parmi les grands, personne qui pourrait le combattre et qui oserait lui tenir tête.
