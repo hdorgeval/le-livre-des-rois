@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Yezdeguerd charge Mondhir et Noman d'élever son fils Bahram
 
 Lorsque lYezdeguerd eut entendu ce discours, il rassembla tout ce qu’il avait de sens et d’esprit ; il comprit quelle devait être la fin de ce commencement, ’et remit à Mondhir le noble Bahram.
