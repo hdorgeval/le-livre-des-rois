@@ -12,6 +12,8 @@ tags: []
 order: '157'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Fourouhil et de Zengouleh
 
 Le quatrième combat fut celui de Fourouhil contre Zengouleh, deux braves semblables à des lions déchaînés.
