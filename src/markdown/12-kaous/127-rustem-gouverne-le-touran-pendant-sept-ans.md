@@ -12,6 +12,8 @@ tags: []
 order: '127'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem gouverne le Touran pendant sept ans
 
 Rustem se rendit. dans le Touran et s’avança jusqu’à la mer de la Chine.
