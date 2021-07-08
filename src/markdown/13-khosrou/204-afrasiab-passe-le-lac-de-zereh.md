@@ -12,6 +12,8 @@ tags: []
 order: '204'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab passe le lac de Zereh
 
 Afrasiab, à ces paroles, se repentit de ce qu’il Il. avait fait autrefois.
