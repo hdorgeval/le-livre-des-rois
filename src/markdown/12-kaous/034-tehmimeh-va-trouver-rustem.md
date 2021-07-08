@@ -12,6 +12,8 @@ tags: []
 order: '034'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Tehmimeh, fille du roi de Semengan, va trouver Rustem
 
 Quand une partie de la nuit se fut écoulée et pendant que l’étoile du matin passait le long du ciel qui tourne, on entendit des paroles prononcées à voix basse et la porte de la chambre où couchait Rustem s’ouvrit doucement ; une esclave entra, tenant à la main une lampe parfumée d’ambre et s’approcha du lit du héros ivre.
