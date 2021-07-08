@@ -12,6 +12,8 @@ tags: []
 order: '028'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kharrad Berzin averti Hormuzd de ce que faisait Bahram
 
 De son côté, Kharrad Berzin chemina en secret et en toute hâte jusqu’à ce qu’il arrivât auprès du mi du monde.
