@@ -33,6 +33,8 @@ tags:
 order: '48'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar s'introduit dans le château d'airin, déguisé en marchand
 
 De là Isfendiar se rendit à son camp, et l’on renvoya de sa tente tous les étrangers.
