@@ -12,6 +12,8 @@ tags: []
 order: '193'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou répond à Djehn
 
 Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui dit :
