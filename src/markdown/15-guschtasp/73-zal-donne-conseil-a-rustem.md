@@ -46,6 +46,8 @@ tags:
 order: '73'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal donne conseil à Rustem
 
 Quand Rustem fut arrivé dans son palais, il regarda pendant quelques instants ses amis;
