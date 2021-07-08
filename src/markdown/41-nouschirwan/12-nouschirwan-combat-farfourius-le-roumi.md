@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan combat Farfourius (Porphyre) le Roumi et s'empare de Kalinius et d'Antioche
 
 De’là, il marcha avec son armée, laissant derrière lui Araïschi Roum.
