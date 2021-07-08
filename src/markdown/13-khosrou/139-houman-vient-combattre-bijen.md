@@ -12,6 +12,8 @@ tags: []
 order: '139'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Houman vient combattre Bijen
 
 Lorsque l’aube du jour montra sa tête au-dessus de la montagne et que la nuit retira le pan de sa robe noire, Houman revêtit son armure de combat, se rendit auprès de Piran et lui raconta tout ; comment il avail défié Bijen fils de Guiv et s’était pri-.9 paré au combat pendant toute la nuit.
