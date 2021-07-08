@@ -39,6 +39,8 @@ tags:
 order: '79'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem retourne au combat contre Isfendiar
 
 Cependant l’aube du jour commença à rayonner du haut de la montagne et à s’avancer timidement au milieu de la nuit sombre;
