@@ -12,6 +12,8 @@ tags: []
 order: '019'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab attaque le pays d'Iran
 
 L’armée s’en retourna dans l’Iran aussitôt que le roi qui cherchait la couronne du monde fut prisonnier.
