@@ -12,6 +12,8 @@ tags: []
 order: '030'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram frappe monnaie au nom de Khosrou Parviz
 
 Lorsque le soleil sublime éleva la pointe de sa lance et que la nuit sombre s’effraya de cette splendeur, le Sipehdar Bahram, ce héros audacieux, fit venir le Grand Scribe et ils écrivirent au Khakan une lettre digne d’Arjeng, pleine de parfums, de couleurs et d’embellissements, disant :
