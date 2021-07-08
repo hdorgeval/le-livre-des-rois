@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guerre de Schapour contre les Roumis
 
 Cependant la nouvelle se répandit que le trône du roi des rois était vacant, qu’Ardeschir, le roi sage, était mort et avait laissé à Schapour le trône et le diadème.
