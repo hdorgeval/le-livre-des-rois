@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure de Babek, Mobed de Kesra, qui passe en revue l'armée
 
 De tous les rois qui ont possédé) le trône et le diadème, qui ont été puissants par leurs trésors et leurs armées, aucun n’a été plus juste que Nouschirwan ; puissent ses mânes rester toujours jeunes !
