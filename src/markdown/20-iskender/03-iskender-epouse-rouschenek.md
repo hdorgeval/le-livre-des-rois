@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender épouse Rouschenek
 
 Iskender appela auprès de lui sa mère, qui était
