@@ -12,6 +12,8 @@ tags: []
 order: '023'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous rétablit l'ordre dans le monde
 
 Kaous retourna alors dans le pays de Fars et les hommes furent rajeunis par la joie.
