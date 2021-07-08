@@ -32,6 +32,8 @@ tags:
 order: '66'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar n'invite pas Rustem à diner
 
 Lorsque Rustem eut quitté le bord du Hirmend, le puissant roi resta plein de soucis; dans ce moment Beschouten, le conseiller du roi, entra dans l’enceinte des tentes, et le héros Isfendiar lui dit:
