@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardewan apprend la fuite de Gulnar et Ardeschir
 
 Mais Ardewan n’était jamais content, ni jour ni nuit, s’il ne voyait Gulnar ; il ne levait de son lit de brocart ni épaules ni bras qu’il n’eût aperçu le vi- sage" de la jeune fille comme un augure favorable.
