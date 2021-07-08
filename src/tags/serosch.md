@@ -8,6 +8,8 @@ tags: [Serosch]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Serosch
 
 Le Serosch est, dans la mythologie persane, l’ange spécialement chargé de défendre les hommes contre les pièges des Divs.
