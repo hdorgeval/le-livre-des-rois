@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Yezdegird arrive à Thous où il est reçu par Mahouï Souri
 
 Le roi fit donner par les tambours le signal du départ et se rendit à Thous par Bust et Nischapour.
