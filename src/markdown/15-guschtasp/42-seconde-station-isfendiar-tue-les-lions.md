@@ -13,6 +13,8 @@ tags: ['Beschouten', 'Dieu', 'Isfendiar', 'Kergsar', 'Sipehbed', 'Station', 'Tur
 order: '42'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Seconde Station - Isfendiar tue les lions
 
 Kergsar n’avait en partage que le chagrin de voir la fortune des hommes de guerre et d’Isfendiar.
