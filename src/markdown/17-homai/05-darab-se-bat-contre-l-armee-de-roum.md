@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Darab se bat contre l'armée de Roum
 
 Ayant douné cet ordre, le chef de l’armée partit
