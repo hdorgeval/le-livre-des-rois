@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir combat les Kurdes
 
 Il emmena d’lstbakhr une armée sans nombre ; il partit, préparé à livrer bataille aux Kurdes.
