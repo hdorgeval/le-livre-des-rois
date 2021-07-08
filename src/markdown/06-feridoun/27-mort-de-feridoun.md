@@ -12,6 +12,8 @@ tags: ['âme', 'Feridoun', 'Keïanides', 'lapis-lazuli', 'Minoutchehr']
 order: '027'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mort de Feridoun
 
 Ensuite la vie et la fortune abandonnèrent Feridoun, les feuilles de l’arbre des Keïanides se desséchèrent.
