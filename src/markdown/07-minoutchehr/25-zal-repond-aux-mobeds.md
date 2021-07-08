@@ -12,6 +12,8 @@ tags: ['Aderguschasp', 'Balance', 'Bélier', 'cyprès', 'Mobeds', 'Poisson', 'Sa
 order: '025'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal répond aux Mobeds
 
 Zal réfléchit quelque temps, il leva ses bras et élargit sa poitrine, puis il ouvrit la bouche pour répondre en reprenant l’une après l’autre toutes les questions des Mobeds :
