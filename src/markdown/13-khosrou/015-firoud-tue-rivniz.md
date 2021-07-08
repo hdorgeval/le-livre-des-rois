@@ -24,6 +24,8 @@ tags:
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Firoud tue Rivniz
 
 Mais le gendre de Thous, sur lequel le ciel tournait avec dérision, se remit en route et se dirigea de Djerem vers le mont Siped, le cœur plein d’arrogance et de bravoure.
