@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Khouschnewaz à Pirouz
 
 Lorsque Khouschnewaz, le fils du Khakan, eut appris que Pirouz avait passé le Djihoun avec une armée, qu’il violait le traité de Bahram Gour et que tout ce pays était plein de combats et de troubles, il appela auprès de lui un scribe expérimenté et fit écrire une lettre.
