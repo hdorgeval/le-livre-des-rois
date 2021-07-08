@@ -35,6 +35,8 @@ tags:
 order: '02'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lohrasp se retire à Balkh et Guschtasp monte sur le trône
 
 Lorsque Lohrasp eut donné sa couronne à Guschtasp, il descendit de son trône et s’apprêta à partir.
