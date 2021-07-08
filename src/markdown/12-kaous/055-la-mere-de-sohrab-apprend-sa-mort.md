@@ -12,6 +12,8 @@ tags: []
 order: '055'
 ---
 
+<!-- LTeX: language=fr -->
+
 # La mère de Sohrab apprend sa mort
 
 Il s’éleva un cri des villes du pays de Touran quand on apprit que Sohrab était mort dans le combat ; la nouvelle arriva au roi de Semengan et il déchira sur son corps tous ses vêtements.
