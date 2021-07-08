@@ -24,6 +24,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Avènement de Feridoun au trône
 
 Feridoun, lorsqu’il se vit le maître fortuné du monde et qu’il ne connut plus d’autre roi que lui-même, prépara le trône et la couronne dans le palais impérial, selon l’usage des rois.
