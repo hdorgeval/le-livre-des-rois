@@ -12,6 +12,8 @@ tags: []
 order: '033'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem arrive dans la ville de Semengan
 
 Lorsqu’il s’approcha de la ville de Semengan, le
