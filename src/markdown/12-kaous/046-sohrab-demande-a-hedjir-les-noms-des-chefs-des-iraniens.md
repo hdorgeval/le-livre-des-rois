@@ -12,6 +12,8 @@ tags: []
 order: '046'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sohrab demande à Hedjir les noms des chefs des Iraniens
 
 Lorsque le soleil éleva son bouclier d’or et que ses rayons parurent au firmament, Sohrab se revêtit de son armure de guerre et s’assit sur son che-I val couleur de musc.
