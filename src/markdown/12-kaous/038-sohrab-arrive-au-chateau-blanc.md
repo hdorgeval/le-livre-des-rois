@@ -12,6 +12,8 @@ tags: []
 order: '038'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sohrab arrive au château blanc
 
 Or il y avait un château qu’on appelait le Château Blanc et les Iraniens mettaient leur espérance dans cette forteresse.
