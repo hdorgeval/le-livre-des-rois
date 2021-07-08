@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat entre Rustem et Saad, mort de Rustem
 
 Aussitôt après le départ de Schobah, Rustem ordonna a l’armée de se préparer au combat,-il fit sonner les clairons et les troupes accoururent de tous côtés pour prendre leurs rangs ; du milieu des nuages de poussière sortaient des cris à assourdir l’o-
