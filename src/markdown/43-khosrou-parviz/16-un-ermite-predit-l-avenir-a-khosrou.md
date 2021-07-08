@@ -12,6 +12,8 @@ tags: []
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Un ermite prédit l'avenir à Khosrou Parviz
 
 Khosrou resta trois jours dans cette ville ; le quatrième, lorsque le soleil qui illumine le monde commença à briller et à percer les nuages de son épée tranchante, le prince se mit en route pour Aurigh, une grande ville qui possédait un morceau de la croix et un hospice.
