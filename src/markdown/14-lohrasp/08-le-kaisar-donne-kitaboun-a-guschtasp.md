@@ -12,6 +12,8 @@ tags: ['âme', 'Créateur', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun']
 order: '08'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Kaisar donne Kitaboun à Guschtasp
 
 Le Kaisar l’écouta et se décida à donner sa fille illustre à Guschtasp.
