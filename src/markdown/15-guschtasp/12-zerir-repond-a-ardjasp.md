@@ -32,6 +32,8 @@ tags:
 order: '12'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zerir répond à Ardjasp
 
 Pendant que le roi prononçait ces paroles, le Sipehdar Zerir et Isfendiar tirèrent leurs épées et s’écrièrent:
