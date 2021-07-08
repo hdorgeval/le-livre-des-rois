@@ -12,6 +12,8 @@ tags: []
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh fait tuer un sorcier
 
 Lorsque neuf heures de ce jour de malheur furent passées, les Iraniens ne virent plus un seul ennemi en vie, excepté ceux qui étaient liés et prisonniers, leurs âmes percées de chagrins, leurs corps blessés de flèches.
