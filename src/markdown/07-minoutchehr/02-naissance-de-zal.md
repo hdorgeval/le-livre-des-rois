@@ -29,6 +29,8 @@ tags:
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Zal
 
 Maintenant je vais raconter d’après des récits anciens une histoire étonnante.
