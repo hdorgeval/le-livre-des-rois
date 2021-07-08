@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kharrad prononce les louanges d'Ardeschir
 
 Lorsque le roi Ardeschir se fut rassis, un homme vieux s’avança au pied de son trône ; le nom du vieillard était Kharrad, son esprit et sa langue étaient pleins de droiture.
