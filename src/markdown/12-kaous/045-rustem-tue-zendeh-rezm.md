@@ -12,6 +12,8 @@ tags: []
 order: '045'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tue Zendeh Rezm
 
 Lorsque le soleil eut disparu du monde et que la nuit noire eut étendu le pan de sa robe sur les montagnes, Rustem se rendit auprès du roi, ceint pour le combat et le cœur avide de vengeance.
