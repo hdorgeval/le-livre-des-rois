@@ -12,6 +12,8 @@ tags: []
 order: '108'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv amène Gourguin devant Khosrou
 
 Guiv se dirigea vers le palais du roi, les yeux remplis de larmes de sang, le cœur plein du désir de la vengeance.
