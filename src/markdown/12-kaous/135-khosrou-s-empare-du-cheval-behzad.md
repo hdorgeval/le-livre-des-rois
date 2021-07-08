@@ -12,6 +12,8 @@ tags: []
 order: '135'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou s'empare du cheval Behzad
 
 Le vaillant roi monta à cheval et Guiv alla devant lui à pied ; ils se dirigèrent vers la haute montagne, mprcsse’s ,comme des hommes qui cherchent un moyen de salut.
