@@ -39,6 +39,8 @@ tags:
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem amène Keïkobad du mont Alborz
 
 Puis Zal le fortuné dit à Rustem :
