@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Dara assassiné par ses destours
 
 Lorsque Dura lut cette lettre, [il resta confondu de ce que le sort amenait; à la fin il dit : «Paraître «devant le Boumi, ceint comme un esclave, serait pire «que la mort, et la tombe vaut mieux pour moi que «la honte. Un sage a .dit lit-dessus : Quand l’eau du «fleuve grossit, une goutte .de pluie ne s’y aperçoit
