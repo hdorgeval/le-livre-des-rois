@@ -29,6 +29,8 @@ tags:
 order: '20'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zerir est tué par Bidirefsch
 
 Le roi fut heureux de l’entendre et célébra ses louanges.
