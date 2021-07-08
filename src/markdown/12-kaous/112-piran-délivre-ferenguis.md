@@ -12,6 +12,8 @@ tags: []
 order: '112'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran délivre Ferenguis
 
 Lorsque Piran eut entendu cet horrible récit, il sortit du palais en poussant des cris et bouillonnant de rage ; il tira des écuries dix chevaux jeunes et accoutumés à porter des cavaliers.
