@@ -26,6 +26,8 @@ tags:
 order: '078'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Défaite des Touraniens
 
 Tehemten saisit sa lourde massue, les forts et les faibles étaient également impuissants contre lui et le champ de bataille avec ses ravins et sa plaine fut bientôt si encombré, qu’une fourmi ou une mouche n’auraient pas trouvé de chemin pour y passer ;
