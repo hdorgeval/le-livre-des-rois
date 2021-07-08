@@ -12,6 +12,8 @@ tags: []
 order: '148'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse d'Afrasiab à Piran
 
 Afrasiab ordonna au messager de s’en retourner auprès du puissant Pirau aux traces fortunées et de lui porter la réponse suivante :
