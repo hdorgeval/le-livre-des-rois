@@ -8,6 +8,8 @@ tags: [rideau]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rideau
 
 La salle d’audience des rois de Perse n’était fermée par devant que par un rideau.
