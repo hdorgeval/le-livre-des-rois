@@ -12,6 +12,8 @@ tags: []
 order: '110'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ferenguis vient se lamenter auprès d'Afrasiab
 
 Ferenguis apprit ce qui s’était passé, elle déchira ses joues, elle se ceignit d’une ceinture sanglante.
