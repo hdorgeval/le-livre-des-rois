@@ -12,6 +12,8 @@ tags: ['Ahriman', 'Bélier', 'cyprès', 'Dihkan', 'Kaïoumors', 'Péri', 'Serosc
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Qui, selon le récit du Dihkan, a le premier recherché sur la terre la couronne de la puissance ?
