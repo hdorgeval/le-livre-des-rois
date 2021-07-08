@@ -12,6 +12,8 @@ tags: []
 order: '215'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab échappe à Houm
 
 Houm lia ainsi les bras à Afrasiab et l’entraîna du lieu de sa retraite.
