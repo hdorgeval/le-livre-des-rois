@@ -12,6 +12,8 @@ tags: []
 order: '037'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh tue le lion Keppi
 
 Lorsque le disque de la lune parut dans le ciel et que la nuit ténébreuse secoua ses boucles noires, l’assemblée se dispersa : ils étaient ivres et chacun s’en retourna dans son palais.
