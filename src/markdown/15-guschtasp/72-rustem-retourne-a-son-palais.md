@@ -41,6 +41,8 @@ tags:
 order: '72'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem retourne à son palais
 
 Quand Rustem arriva à l’enceinte des tentes d’Isfendiar, il resta pendant quelque temps debout devant la porte, et adressa la parole à cette toile en disant:
