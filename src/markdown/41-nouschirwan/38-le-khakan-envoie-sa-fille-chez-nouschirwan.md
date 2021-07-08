@@ -12,6 +12,8 @@ tags: []
 order: '038'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan envoie sa fille avec Mihran chez Nouschirwan
 
 À ces paroles, le cœur du Khakan se calma et la princesse au visage de soleil sourit, et, l’esprit délivré de soucis, ils firent asseoir devant eux l’envoyé, et dirent ce qu’il était convenable de dire d’une fille de princesse qui avait été cachée à tous les yeux.
