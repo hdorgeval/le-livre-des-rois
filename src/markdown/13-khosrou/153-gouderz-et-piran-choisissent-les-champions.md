@@ -12,6 +12,8 @@ tags: []
 order: '153'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gouderz et Piran choisissent les champions
 
 Lorsque Pirau aperçut Gouderz le fils de Keschwad, il lui adressa la parole et écouta sa réponse ; il lui dit :
