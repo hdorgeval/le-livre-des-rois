@@ -12,6 +12,8 @@ tags: []
 order: '224'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal fait des représentations à Keï Khosrou
 
 A la tin de cette semaine Zal et Rustem arrivè-rent enfin, le cœur plein de tristesse.
