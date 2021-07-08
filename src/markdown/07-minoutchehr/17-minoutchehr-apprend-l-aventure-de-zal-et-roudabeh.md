@@ -31,6 +31,8 @@ tags:
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Minoutchehr apprend l'aventure de Zal et de Roudabeh
 
 Après cela le puissant roi eut nouvelle de Destan, de Mihrab et du vaillant Sam, de l’alliance avec Mihrab, de l’amour de Zal et des deux amants de race si noble et si inégale.
