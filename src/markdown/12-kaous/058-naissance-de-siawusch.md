@@ -12,6 +12,8 @@ tags: []
 order: '058'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Siawusch
 
 Il s’écoula ainsi un peu de temps et le gai printemps prit ses couleurs.
