@@ -12,6 +12,8 @@ tags: []
 order: '136'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ferenguis part pour l'Iran avec Keï Khosrou et Guiv
 
 Leurs préparatifs étant terminés, ils sellèrent leurs nobles chevaux aux pieds de vent.
