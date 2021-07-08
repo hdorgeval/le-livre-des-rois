@@ -12,6 +12,8 @@ tags: []
 order: '042'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous écrit à Rustem et le fait venir du Zaboulistan
 
 Le roi fit écrire une lettre à Rustem le glorieux, elle commençait par l’invocation des grâces de Dieu sur le Pehlewan : Puisse ton cœur être vigilant et ton âme joyeuse !
