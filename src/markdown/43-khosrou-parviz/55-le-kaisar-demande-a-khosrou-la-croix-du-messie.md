@@ -12,6 +12,8 @@ tags: []
 order: '055'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou écrit au Kaïsar qui lui répond en demandant la croix du messie
 
 Le roi fit écrire au Kaïsar une lettre dans laquelle il disait :
