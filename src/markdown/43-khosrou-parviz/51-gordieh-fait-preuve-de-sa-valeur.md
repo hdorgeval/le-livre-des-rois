@@ -12,6 +12,8 @@ tags: []
 order: '051'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gordieh fait preuve de sa valeur auprès de Khosrou
 
 Deux semaines étaient passées, lorsque le roi dit à Gordieh :
