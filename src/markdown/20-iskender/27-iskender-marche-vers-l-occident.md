@@ -12,6 +12,8 @@ tags: []
 order: '027'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender marche vers l'occident
 
 Ayant fait ses questions sur toute chose et ins- pecté la rivière, il mit en marche son armée vers l’Occident; une grande et forte ville s’offrit à ses
