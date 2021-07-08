@@ -12,6 +12,8 @@ tags: []
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schapour monte sur le trône
 
 Lorsque Schapour fut assis sur le trône de la justice et eut placé sur sa tête le diadème qui réjouit les cœurs, les sages, les puissants, les savants et les Mobeds s’assemblèrent devant lui.
