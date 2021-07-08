@@ -12,6 +12,8 @@ tags: []
 order: '163'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Barteh avec Kehrem
 
 En dixième lieu se présentèrent sur le champ de bataille Barteh et Kehrem toujours prêt à frapper de l’épée ; c’étaient deux braves, deux chefs de l’assemblée des grands.
