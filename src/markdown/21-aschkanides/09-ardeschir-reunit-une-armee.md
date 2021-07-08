@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir réunit une armée
 
 De son côté, Ardeschir était arrivé au bord de l’eau et dit à Dieu :
