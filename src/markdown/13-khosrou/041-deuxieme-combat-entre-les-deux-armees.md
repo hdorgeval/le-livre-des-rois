@@ -43,6 +43,8 @@ tags:
 order: '041'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Deuxième combat entre les deux armées
 
 Lorsque le sublime firmament se fut fait une couronne de jade et qu’il eut répandu sur la voûte bleue les étoiles semblables à des pastilles de camphre, on envoya des deux camps des vedettes et l’on plaça des sentinelles devant les enceintes des tentes.
