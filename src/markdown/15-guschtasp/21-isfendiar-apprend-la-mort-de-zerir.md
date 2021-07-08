@@ -13,6 +13,8 @@ tags: ['âme', 'Ardjasp', 'Beschouten', 'Isfendiar', 'Lohrasp', 'Zerir']
 order: '21'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar apprend la mort de Zerir
 
 Cependant Isfendiar apprit que ce fils de roi, ce héros, était tué, que son père en périssait de douleur, et qu’il voulait venger cette mort lui-même.
