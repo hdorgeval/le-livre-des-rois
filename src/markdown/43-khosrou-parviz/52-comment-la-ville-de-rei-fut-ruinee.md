@@ -12,6 +12,8 @@ tags: []
 order: '052'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Comment la ville de Reï fut ruinée
 
 Il se passa de nouveau un temps assez long pendant lequel l’étoile du roi illustre tourna favorablement.
