@@ -34,6 +34,8 @@ tags:
 order: '023'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens souffrent de la neige
 
 Ensuite Afrasiab apprit que la frontière du Touran était couverte de flots d’hommes, qu’une armée s’approchait du Kasehroud et que le monde était obscurci par la vengeance de Siawusch.
