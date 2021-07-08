@@ -12,6 +12,8 @@ tags: []
 order: '091'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem s'en retourne dans le Seistan
 
 Tehemten s’était tenu pendant un mois à côté de Khosrou, assis sur le trône, la coupe remplie de vin en main ;
