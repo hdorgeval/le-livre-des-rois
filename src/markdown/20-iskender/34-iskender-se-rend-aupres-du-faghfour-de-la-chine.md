@@ -12,6 +12,8 @@ tags: []
 order: '034'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender se rend auprès du Faghfour de la Chine
 
 Delà il mena son armée vers la Chine; un il lit arrêter ses troupes à une station, et fit écrire
