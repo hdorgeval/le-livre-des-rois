@@ -12,6 +12,8 @@ tags: []
 order: '049'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sohrab et Rustem retournent à leurs camps
 
 Ils se séparèrent, l’air devint sombre, le firmament fut étonné à l’aspect de Sohrab.
