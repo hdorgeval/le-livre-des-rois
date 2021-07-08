@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Kaous contre le roi du Mazenderan
 
 Aussitôt que Rustem eut quitté le Mazenderan, le roi des magiciens se prépara à la guerre ; il fit sortir yses tentes de la ville et avancer son armée dans la plaine ; et lorsque la poussière s’éleva sous les pieds de cette multitude, la splendeur du soleil disparut, on ne vit plus ni plaines, ni déserts, ni montagnes et la terre se fatiguait sous les pieds des éléphants.
