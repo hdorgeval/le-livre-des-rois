@@ -12,6 +12,8 @@ tags: []
 order: '046'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de Gau et de Thalhend et de l'invention des échecs
 
 Le vieux et savant Schahouî raconte et il faut faire attention à ce que dit ce vieillard, il raconte qu’il y avait dans l’Inde un homme qui portait haut.
