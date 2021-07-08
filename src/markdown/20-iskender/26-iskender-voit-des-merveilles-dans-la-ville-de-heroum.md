@@ -12,6 +12,8 @@ tags: []
 order: '026'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender voit des merveilles dans la ville de Heroum
 
 l partit avec les grands du Boum et marcha sur une grande ville qui portait le nom de Heroum et était occupée entièrement par des femmes, qui ne laissaient passer personne par les portes; leur sein droit était comme celui des femmes, on aurait dit une grenade qui avait roulé sur une pièce de soie, pendant que leur sein gauche était comme celui d’un homme avide de combats, qui revêt sa cuirasse au jour de la bataille. Lorsque le roi plein d’orgueil fut arrivé
