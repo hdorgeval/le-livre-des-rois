@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure de Bahram avec Mihr Bendad
 
 Bahram eut l’idée de se servir de guépards du. chasse ; il se leva et résolut d’aller chasser ; il monta sur un destrier rapide et parcourut la plaine un faucon sur le poing.
