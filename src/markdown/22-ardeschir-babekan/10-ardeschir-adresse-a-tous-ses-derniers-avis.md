@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir adresse à tous ses derniers avis
 
 Prêtez tous l’oreille, vieux et jeunes, aux paroles d’Ardeschir, le roi illustre : Quiconque sait que le distributeur de la justice existe ne doit adorer que Dieu, le saint.
