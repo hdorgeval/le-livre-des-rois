@@ -12,6 +12,8 @@ tags: []
 order: '180'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou répond à Afrasiab
 
 Khosrou écouta les paroles de Karen, il se rappela ce qui s’était passé autrefois et se mit à rire de la tentative de son grand-père et de la manière dont il cherchait à ruser et ale duper.
