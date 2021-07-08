@@ -12,6 +12,8 @@ tags: []
 order: '066'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Soudabeh complote avec une magicienne
 
 Quand Soudabeh sentit qu’elle était déshonorée et que le cœur du roi ne lui était plus attaché, elle chercha un moyen de sortir de cette position difficile et planta de nouveau l’arbre de la vengeance.
