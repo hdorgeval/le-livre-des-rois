@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Bahram, fils de Yezdeguerd
 
 Ainsi passèrent sept années de son règne, tous les Mobeds étant peinés et tourmentés par lui, lorsque au commencement de la huitième année, au mais de Ferwerdin, quand le soleil, objet de l’adoration, se montra, il naquit au roi un fils, au jour d’Ormuzd, sous une bonne étoile et des présages qui illuminaient le monde.
