@@ -12,6 +12,8 @@ tags: []
 order: '134'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Houman défie Rehham au combat
 
 Étant retourné dans son quartier, Houman se prépara au combat comme un sanglier qui aiguise ses défenses.
