@@ -12,6 +12,8 @@ tags: []
 order: '047'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sohrab attaque l'armée de Kaous
 
 Lorsque Sohrab entendit ces paroles dures, il détourna la tête et cacha son front sans rien dire et étonné de ce discours mystérieux ; ensuite du haut de son cheval il frappa Hedjir violemment avec le poing, le jeta par terre et retourna dans sa demeure.
