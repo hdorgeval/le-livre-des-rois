@@ -12,6 +12,8 @@ tags: []
 order: '097'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab envoie Piran dans les provinces
 
 Ils se livrèrent ainsi au plaisir pendant sept jours, buvant à la santé des rois de la terre.
