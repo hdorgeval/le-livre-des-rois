@@ -12,6 +12,8 @@ tags: []
 order: '115'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran mème Keï Khosrou auprès d'Afrasiab
 
 Pendant une nuit sombre, à l’heure du repos et du sommeil, un messager d’Afrasiab arriva et dit au Pehlewan que le roi illustre l’appelait.
