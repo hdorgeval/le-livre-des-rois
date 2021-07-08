@@ -12,6 +12,8 @@ tags: []
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous demande en mariage Soudabeh, fille du roi du Hamaveran
 
 Après cela quelqu’un dit à Kaous :
