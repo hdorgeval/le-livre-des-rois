@@ -12,6 +12,8 @@ tags: ['Div', 'Hormuz', 'Iran', 'Mobeds', 'Pirouz', 'Yezdeguerd']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque Yezdeguerd devint roi du monde, il réunit son armée dispersée ; les Mobeds et les nobles, les grands et les hommes intelligents, dignes du commandement, s’assirent devant lui ; le prince monta sur le trône d’or ; il ferma la porte des peines et lia la main du mal en commençant à parler ainsi :
