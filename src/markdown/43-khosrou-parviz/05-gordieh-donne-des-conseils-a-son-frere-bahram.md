@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gordieh donne des conseils à son frère Bahram
 
 Lorsque la sœur de Bahram apprit que son frère paraissait sur la route, de retour de son entrevue avec le roi, elle ôta son beau diadème, une servante lui apporta son voile et elle courut au-devant de son frère, le cœur percé de douleur et l’esprit assombri.
