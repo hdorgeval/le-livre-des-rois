@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Hormuzd met à mort Ized Guschasp et empoisonne Zerduhischt le grand Mobed
 
 Il gouverna ainsi jusqu’à ce que son pouvoir fût bien établi et qu’il fût le maître en tout ce qu’il voulait.
