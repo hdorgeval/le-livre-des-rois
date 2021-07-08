@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mort de Pheïlekous et avènement d'Iskender
 
 Vers ce temps Pheîlekous mourut, et le Boum fut plongé dans une grande affliction. Is-kender monta sur le trône de son grand-père; il rechercha le bien
