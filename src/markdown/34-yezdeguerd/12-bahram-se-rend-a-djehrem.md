@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram se rend à Djehrem
 
 Mondhir et Bahram s’assirent avec un conseiller et se parlèrent sans autres assistants.
