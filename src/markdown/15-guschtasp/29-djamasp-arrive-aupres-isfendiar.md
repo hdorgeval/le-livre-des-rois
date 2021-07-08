@@ -14,6 +14,8 @@ tags:
 order: '29'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Djamasp arrive auprès d'Isfendiar
 
 Isfendiar se trouvait alors dans le désert, se livrant à la chasse; quelqu’un lui rapporta que le roi, disait-on, avait envoyé Djamasp vers lui.
