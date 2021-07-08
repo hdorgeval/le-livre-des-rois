@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les neuf savants amènent à Iskender les quatre merveilles de Keïd
 
 Le messager partit de ce pays verdoyantet se rendit auprès des vieillards roumis, et ces Mobeds ayant reçu la réponse du roi des mains du cavalier fatigué
