@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender écrit une lettre aux grands de l'Iran
 
 Un homme vint du Karman à Ispahan, à la ville
