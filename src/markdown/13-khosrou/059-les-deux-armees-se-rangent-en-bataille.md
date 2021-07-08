@@ -55,6 +55,8 @@ tags:
 order: '059'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les deux armées se rangent en bataille
 
 Lorsque l’astre qui illumine le monde commença à luire au-dessus de la montagne et que le jour saisit les deux boucles de cheveux qui pendent sur les joues de la nuit sombre, qu’il se dégagea de son voile noir et mordit jusqu’au sang les lèvres de la lune, on entendit dans les deux camps le bruit des tambours et les héros quittèrent leur couche.
