@@ -12,6 +12,8 @@ tags: []
 order: '022'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Deuxième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds
 
 Une semaine plus tard, le roi à l’esprit serein invita de nouveau les savants : il mit de côté les alliaires . du monde pour pouvoir entendre les discours des sages, de ceux qui méritaient le plus d’honneur et dont le savoir était digne de l’attention du roi.
