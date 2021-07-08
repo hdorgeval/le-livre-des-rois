@@ -25,6 +25,8 @@ tags:
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feridoun voit les filles de Djemschid
 
 Il vit un talisman que Zohak avait préparé et dont la tête s’élevait jusqu’au ciel ; Feridoun le jeta du haut en bas, parce qu’il vit qu’il portait un nom autre que celui de Dieu.
