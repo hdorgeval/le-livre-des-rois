@@ -12,6 +12,8 @@ tags: ['Créateur', 'Dieu', 'Iraniens', 'Keïanides', 'Mobeds', 'Schapour']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque Schapour s’assit sur le trône à la place de son oncle, beaucoup d’Iraniens en furent contents, d’autres s’en affligèrent.
