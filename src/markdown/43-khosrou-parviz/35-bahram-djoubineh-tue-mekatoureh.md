@@ -12,6 +12,8 @@ tags: []
 order: '035'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh tue Mekatoureh
 
 Lorsque la nuit eut retiré le pan noir de sa robe et que l’aurore s’épanouit du haut de la montagne sombre, Mekatoureh revêtit sa cotte de mailles de combat et sortit, une épée touranienne en main.
