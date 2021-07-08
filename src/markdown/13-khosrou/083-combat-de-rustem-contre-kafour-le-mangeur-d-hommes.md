@@ -48,6 +48,8 @@ tags:
 order: '083'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Rustem contre Kafour le mangeur d'hommes
 
 Pendant que ce plan des méchants se développait, Feribourz retourna joyeusement auprès de Rustem et lui apporta avec les autres présents du roi une couronne et des boucles d’oreilles.
