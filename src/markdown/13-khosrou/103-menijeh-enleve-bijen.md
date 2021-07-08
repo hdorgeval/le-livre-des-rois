@@ -12,6 +12,8 @@ tags: []
 order: '103'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Menijeh enlève Bijen et l'emmène dans son palais
 
 Lorsque le temps du départ de Menijeh fut arrivé, elle ne pouvait se résoudre de renoncer à voir Bijen ; et comme il demeurait pensif, elle appela ses esclaves et leur ordonna de mêler avec du miel un breuvage qui rendait insensible.
