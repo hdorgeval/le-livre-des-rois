@@ -12,6 +12,8 @@ tags: []
 order: '051'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sohrab est frappé à mort par Rustem
 
 Ils attachèrent encore une fois leurs chevaux et leur malheur commença de s’accomplir.
