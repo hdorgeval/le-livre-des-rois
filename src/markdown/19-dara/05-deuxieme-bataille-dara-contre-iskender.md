@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Deuxième bataille de Dara contre Iskender
 
 Lorsque Dura se fut éloigné d’Iskender, il envoya
