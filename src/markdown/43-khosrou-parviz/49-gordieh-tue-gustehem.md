@@ -12,6 +12,8 @@ tags: []
 order: '049'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gordieh tue Gustehem
 
 Ainsi se passa quelque temps ; le roi eut le cœur»
