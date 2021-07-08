@@ -31,6 +31,8 @@ tags:
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Thous attaque Firoud
 
 Un grand tumulte s’éleva dans l’armée des Iraniens et tous les braves se couvrirent de leurs casques.
