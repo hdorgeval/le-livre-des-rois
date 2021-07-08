@@ -12,6 +12,8 @@ tags: []
 order: '210'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou arrive à Gangue Diz
 
 Khosrou mit en ordre ses troupes et leur distribua la solde, ensuite il leur parla de Dieu de qui vient tout bien, disant :
