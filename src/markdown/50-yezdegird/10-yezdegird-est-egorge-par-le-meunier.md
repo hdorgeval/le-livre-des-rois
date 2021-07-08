@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Yezdegird est égorgé par le meunier
 
 Lorsque le perfide Mahouï eut entendu les paroles que son fils lui avait adressées, il dit au meunier :
