@@ -32,6 +32,8 @@ tags:
 order: '41'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Première Station - Isfendiar tue les deux loups
 
 Lorsque le Dihkan qui raconte les histoires eut placé la table, il fit le récit des sept stations; il saisit de la main une coupe d’or, et se mit à parler de Guschtasp, du château d’airain, des hauts faits d’Isfendiar, de sa route et des instructions données par Kergsar, disant: Isfendiar était sorti de Balkh, la bouche et l’âme remplies de paroles amères; il quitta son père et prit la route du Touran en emmenant Kergsar.
