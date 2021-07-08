@@ -38,6 +38,8 @@ tags:
 order: '05'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zoroastre sauve le cheval noir de Guschtasp [^1]
 
 Guschtasp avait un beau cheval, appelé le cheval noir.
