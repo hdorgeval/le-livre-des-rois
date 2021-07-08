@@ -12,6 +12,8 @@ tags: []
 order: '152'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou revient victorieux
 
 Lorsqu’on apprit dans l’Iran la victoire que le roi avait remportée par la grâce de Dieu, le monde fut étonné de la fortune et de la puissance où Keï Khosrou avait atteint.
