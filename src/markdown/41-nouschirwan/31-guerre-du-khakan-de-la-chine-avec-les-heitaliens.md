@@ -12,6 +12,8 @@ tags: []
 order: '031'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guerre du Khakan de la Chine avec les Heïtaliens
 
 Que va dire le glorieux poële sur le roi. les Heî-e talions et le Khakan de la Chine ?
