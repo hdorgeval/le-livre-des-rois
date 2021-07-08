@@ -12,6 +12,8 @@ tags: []
 order: '077'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guersiwez arrive auprès de Siawusch
 
 Guersiwez emporta ces présents, qui rendaient brillante la face de la terre ; il chemina en toute hâte jusqu’au rivage du Djihoun.
