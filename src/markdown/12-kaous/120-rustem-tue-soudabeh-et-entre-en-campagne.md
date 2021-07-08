@@ -12,6 +12,8 @@ tags: []
 order: '120'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tue Soudabeh et entre en campagne
 
 Kaous observa ses traits, les larmes de sang qui coulaient de ses yeux et l’amour de Siawusch l’animail ; la honte l’empêche de lui répondre, il se mita verser des larmes brûlantes ; mais Tehemten sortit de sa présence et se dirigea vers le palais de Soudabeh.
