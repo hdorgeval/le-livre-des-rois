@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Nouschirwan et réponse du Kaïsar de Roum
 
 Il fit appeler un scribe qui se trouvait dans le palais et lui ordonna d’écrire une lettre de la part du roi Nouschirwan, de naissance illustre, maître du monde, successeur du roi Kobad, au Kaïsar de Roum, qui porte haut la tête, à qui est confiée cette frontière des pays cultivés.»
