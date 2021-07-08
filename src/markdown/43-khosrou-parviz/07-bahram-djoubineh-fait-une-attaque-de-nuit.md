@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh fait une attaque de nuit contre les Iraniens
 
 Bahram, le lion, choisit dans son armée une troupe propre à conquérir le monde, brave et vaillante.
