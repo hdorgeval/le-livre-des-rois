@@ -12,6 +12,8 @@ tags: ['Dieu', 'Khosrou', 'Pirouz', 'Pouran', 'Pourandokht']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Il y avait une jeune fille de race royale qu’on nommait Pouran ; quoique les affaires aillent mal sous la domination d’une femme, on la plaça sur le trône et les grands répandirent des pierreries sur elle.
