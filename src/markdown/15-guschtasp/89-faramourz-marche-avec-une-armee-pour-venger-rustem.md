@@ -30,6 +30,8 @@ tags:
 order: '89'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Faramourz marche avec une armée pour venger Rustem
 
 Faramourz, ayant accompli le deuil de son père, fit sortir une armée dans la plaine; il ouvrit le palais du héros au corps d’éléphant et équipa ses troupes avec les armes que son père avait accumulées.
