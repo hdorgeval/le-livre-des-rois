@@ -12,6 +12,8 @@ tags: []
 order: '093'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Fiançailles de Ferenguis et de Siawusch
 
 Lorsque la voûte du ciel qui tourne amena le soleil qu’elle tenait devant elle comme un bouclier d’or, le Sipehdar Piran se ceignit et monta sur un cheval rapide, il alla au palais de Siawusch et se répandit en bénédictions sur sa gloire ; il lui dit :
