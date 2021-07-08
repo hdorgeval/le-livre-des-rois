@@ -12,6 +12,8 @@ tags: []
 order: '036'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram épouse la fille du roi de l'Inde
 
 Tous étaient heureux, mais Schenguil avait le cœur blessé et le haut fait de Bahram le faisait pâlir.
