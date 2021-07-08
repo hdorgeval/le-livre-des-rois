@@ -12,6 +12,8 @@ tags: []
 order: '045'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les sages de l'Inde ne découvrent pas la façon de jouer du Nard
 
 Un seigneur illustre vint et assigna à l’envoyé une demeure convenable : on para gaiement une salle de banquet et l’on fit venir du vin, de la musique et des chanteurs.
