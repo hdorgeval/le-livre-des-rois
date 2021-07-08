@@ -31,6 +31,8 @@ tags:
 order: '07'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp fonde les temples du feu
 
 Lorsque le roi excellent entendit de Zerdouscht [^1] la bonne doctrine, il accepta de lui la vraie voie et le vrai culte.
