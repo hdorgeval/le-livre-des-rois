@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Dernières volontés et mort d'Ormuzd
 
 Lorsqu’il sentit qu’il ne pouvaitiéchapper à la
