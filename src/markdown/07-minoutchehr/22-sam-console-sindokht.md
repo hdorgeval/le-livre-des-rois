@@ -33,6 +33,8 @@ tags:
 order: '022'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sam console Sindokht
 
 Sindokht ayant épuisé le trésor, monta à cheval comme un héros semblable à Aderguschasp.
