@@ -40,6 +40,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Zew avait un fils selon son cœur, à qui il avait donné le nom de Guerschasp.
