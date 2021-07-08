@@ -12,6 +12,8 @@ tags: []
 order: '043'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous se met en colère contre Rustem
 
 Lorsque Rustem fut proche de la cour du roi, les grands, tels que Thous et Gouderz fils de Keschwad, allèrent à sa rencontre à la distance d’une journée ; ils descendirent de cheval et coururent vers lui et Rustem mit de même pied à terre.
