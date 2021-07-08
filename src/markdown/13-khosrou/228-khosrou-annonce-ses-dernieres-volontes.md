@@ -12,6 +12,8 @@ tags: []
 order: '228'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou annonce aux Iraniens ses dernieres volontés
 
 Ensuite le roi dit à Zal-Zer :
