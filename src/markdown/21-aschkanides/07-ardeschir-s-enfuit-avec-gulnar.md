@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir s'enfuit avec Gulnar
 
 Aussitôt que la face de la terre fut devenue comme de la poix, Gulnar se rendit chez Ardeschir : y le jeune . homme bouillonnait de colère comme la mer de ce qu’elle était toujours occupée d’Ardewan.
