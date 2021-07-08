@@ -12,6 +12,8 @@ tags: []
 order: '019'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh combat Parmoudeh fils de Saweh
 
 Lorsque Parmoudeh apprit que Bahram cherchait à s’emparer du trône impérial, il plaça tout ce qu’il avait d’argent, d’or, de joyaux et d’autres richesses dans un château qu’il possédait et qu’on appelait Avvazeh, lieu où il était en sécurité et où il pouvait jouir de la vie.
