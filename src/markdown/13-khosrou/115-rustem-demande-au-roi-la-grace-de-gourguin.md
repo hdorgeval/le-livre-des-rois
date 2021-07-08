@@ -12,6 +12,8 @@ tags: []
 order: '115'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem demande au roi la grâce de Gourguin
 
 Lorsque Gourguin entendit le bruit que faisait l’arrivée de Tehemten, il sentit que sa délivrance approchait.
