@@ -12,6 +12,8 @@ tags: []
 order: '104'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guersiwez amène Bijen devant Afrasiab
 
 Lorsque Guersiwez s’approcha de la porte, il entendit dans l’intérieur les bruits d’un banquet ;
