@@ -12,6 +12,8 @@ tags: []
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender conduit son armée vers le Misr
 
 Le roi emmena son armée de ce lieu, se rendit à Djuddah et yvresta longtemps; il ordonna à son armée de construire des vaisseaux et des barques en grand nombre, et le prince, ambitieux de conquérir le monde, se dirigea de Djuddah vers le Misr avec son armée. Keïthoun était alors roi du Misr, et le nombre de ses troupes dépassait l’imagination. Lors-
