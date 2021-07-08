@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Malikeh, la fille de Thaïr, devient amoureuse de Schapour
 
 Un jour, de grand matin, le vaillant Schapour monta à cheval et partit bouillonnapt d’ardew, un
