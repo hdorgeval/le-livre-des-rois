@@ -12,6 +12,8 @@ tags: []
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou envoie une lettre au Kaïsar de Roum
 
 Lorsque le roi fut entré dans Aurigh, un cavalier y arriva envoyé par le Kaiser illustre et dit :
