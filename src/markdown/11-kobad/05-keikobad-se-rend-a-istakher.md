@@ -27,6 +27,8 @@ tags:
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keïkobad se rend à Istakher, dans le Fars
 
 Keïkobad partit et se rendit dans le Farsistan ; c’est là que se trouvaient les clefs de ses trésors.
