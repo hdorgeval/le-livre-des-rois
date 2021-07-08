@@ -12,6 +12,8 @@ tags: []
 order: '058'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou envoie Schirin dans l'appartement de ses femmes
 
 Or, un jour le roi Parviz eut envie d’aller à la chasse et fit des préparatifs comme les Grands rois qui avaient vécu avant lui en faisaient.
