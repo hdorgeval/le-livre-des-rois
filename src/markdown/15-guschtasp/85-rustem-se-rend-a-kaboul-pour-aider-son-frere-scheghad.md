@@ -40,6 +40,8 @@ tags:
 order: '85'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem se rend à Kaboul pour aider son frère Scheghad
 
 Voici ce que dit ce vieillard, avide de connaissances, plein de talents, d’éloquence et de souvenirs:
