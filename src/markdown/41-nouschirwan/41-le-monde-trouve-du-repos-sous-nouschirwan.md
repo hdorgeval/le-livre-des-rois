@@ -12,6 +12,8 @@ tags: []
 order: '041'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le monde trouve du repos sous Nouschirwan
 
 Lorsque Kesra monta sur son trône solennellement et se sentant le compagnon de la fortune, le monde brillait comme un paradis, rempli de richesses par l’effet de sa justice et de sa bonté.
