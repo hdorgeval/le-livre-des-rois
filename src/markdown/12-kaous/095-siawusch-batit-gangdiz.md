@@ -12,6 +12,8 @@ tags: []
 order: '095'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch bâtit Gangdiz
 
 Je vais maintenant ouvrir la porte des histoires et des belles traditions de nos ancêtres ; je vais parler de Gangi Siawusch, je vais décrire cette ville et rapporter les récits des anciens.
