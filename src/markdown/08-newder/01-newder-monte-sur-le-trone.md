@@ -33,6 +33,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Newder monte sur le trône
 
 Quand le roi Newder eut porté le deuil de son père, il éleva la couronne des Keïanides plus haut que Saturne.
