@@ -12,6 +12,8 @@ tags: []
 order: '201'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat entre les Iraniens et les Touraniens
 
 Khosrou, à ces paroles de Rustem, changea d’avis et dit au messager :
