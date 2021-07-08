@@ -8,6 +8,8 @@ tags: [Kaweh, Kawejaneh, Kawéiani]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Étendard de Kaweh
 
 L'étendard de Kaweh, au départ un simple tablier de cuir, fabriqué par le forgeron du même nom, devint l'étendard de l'empire persan jusqu'à la chute de la dynastie des Sassanides.
