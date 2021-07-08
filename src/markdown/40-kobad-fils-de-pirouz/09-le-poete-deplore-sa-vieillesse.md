@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le poète déplore sa vieillesse
 
 Hélas ! ô cyprès élancé, qui ravissais les cœurs, pourquoi es-tu devenu si triste ?
