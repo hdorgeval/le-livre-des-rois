@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Darab renvoie Nahid qui met au monde Iskender
 
 Une nuit, cette lune était couchée avec le roi,
