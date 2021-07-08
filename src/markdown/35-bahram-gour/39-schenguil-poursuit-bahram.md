@@ -12,6 +12,8 @@ tags: []
 order: '039'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schenguil poursuit Bahram et apprends qui il est
 
 Un cavalier partit en toute hâte de Kanoudj pour porter au roi cette nouvelle et Schenguil, aussitôt qu’il eut entendu les paroles de cet ami, quitta le lieu de la fête, rapidement comme la flamme ; il courut ainsi jusque sur le bord du fleuve, d’où il aperçut Sepinoud et le héros Bahram.
