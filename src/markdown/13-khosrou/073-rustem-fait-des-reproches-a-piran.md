@@ -36,6 +36,8 @@ tags:
 order: '073'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem fait des reproches à Piran
 
 Schenkoul s’avança au milieu des deux armées, une épée indienne à la main ;
