@@ -31,6 +31,8 @@ tags:
 order: '075'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Rustem contre Saweh
 
 Rustem dit aux Iraniens :
