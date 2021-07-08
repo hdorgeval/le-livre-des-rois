@@ -12,6 +12,8 @@ tags: ['Ahriman', 'âme', 'Créateur', 'cyprès', 'Dieu', 'Feridoun', 'Iredj', '
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feridoun reçoit la nouvelle de la mort d'Iredj
 
 Feridoun tenait ses deux yeux sur la route ; l’armée et la couronne soupiraient après l’arrivée du jeune roi.
