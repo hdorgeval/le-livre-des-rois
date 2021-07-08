@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram épouse les filles du Dihkan Berzin
 
 Trois jours après le roi partit avec son cortège et son équipage de chasse.
