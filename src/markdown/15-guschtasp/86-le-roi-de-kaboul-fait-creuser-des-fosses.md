@@ -18,6 +18,8 @@ tags: ['Kaboul', 'Pehlewan', 'Raksch', 'Rustem', 'Scheghad', 'Tehemten', 'Zeware
 order: '86'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le roi de Kaboul fait creuser des fosses dans la réserve de chasse
 
 Lorsque Scheghad à la mauvaise étoile eut quitté Kaboul, le roi partit à l’instant pour le lieu de la chasse avec les hommes de son armée les plus habiles dans l’art de faire des fosses, et ils en creusèrent partout sous les routes dans la réserve de chasse, et en garnirent le fond avec des épieux, des lances, des javelots et des épées de combat dont la poignée était fixée en terre. Ensuite on rendit invisible, avec beaucoup d’art, l’ouverture des fosses, de manière que ni un homme ni l’œil d’un cheval ne pouvaient les découvrir.
