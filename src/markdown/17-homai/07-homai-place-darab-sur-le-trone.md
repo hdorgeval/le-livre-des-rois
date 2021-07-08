@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Homaï place Darab sur le trône
 
 La reine baissa le rideau de sa salle d’audience,
