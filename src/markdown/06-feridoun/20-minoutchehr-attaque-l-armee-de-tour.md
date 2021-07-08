@@ -29,6 +29,8 @@ tags:
 order: '020'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Minoutchehr attaque l'armée de Tour
 
 Lorsque les ténèbres eurent remplacé le jour, Minoutchehr envoya son avant-garde sur la montagne et dans la plaine.
