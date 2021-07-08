@@ -12,6 +12,8 @@ tags: []
 order: '230'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal demande à Keï Khosrou une investiture pour Rustem
 
 Lorsque Zal, le dévoué serviteur du roi, entendit ces paroles, il baisa la terre, se releva etidit :
