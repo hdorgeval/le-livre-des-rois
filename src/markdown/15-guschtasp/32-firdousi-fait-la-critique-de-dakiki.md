@@ -13,6 +13,8 @@ tags: ['Aboul', 'Dakiki', 'Firdousi', 'Kasim', 'Mahmoud', 'Saturne']
 order: '32'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Firdousi fait la critique de Dakiki
 
 Lorsque ce livre tomba entre mes mains, il me manquait un mois pour avoir soixante ans. J’examinai ces vers, et ils me parurent faibles; bien des distiques me semblèrent mal faits, mais je les ai copiés ici, pour que le roi voie ce qu’est un récit dépourvu d’art.
