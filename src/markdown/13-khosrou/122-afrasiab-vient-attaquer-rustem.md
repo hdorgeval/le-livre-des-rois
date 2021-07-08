@@ -12,6 +12,8 @@ tags: []
 order: '122'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab vient attaquer Rustem
 
 Au moment où le soleil commençait à montrer sa tête au-dessus de la montagne, les cavaliers turcs firent leurs préparatifs de départ, se rendirent à la porte du palais d’Afrasiab, formèrent leurs rangs et attendirent ses ordres.
