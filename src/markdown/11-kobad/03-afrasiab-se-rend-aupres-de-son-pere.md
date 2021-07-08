@@ -39,6 +39,8 @@ tags:
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab se rend auprès de son père
 
 Du côté par où Afrasiab s’était enfui, il courut jusqu’au bord du Djihoun ; il s’arrêta près de la rive pendant sept jours et le huitième il se remit en marche plein de colère et d’angoisse.
