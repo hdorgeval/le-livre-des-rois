@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mahouï Souri incite Bijen à faire la guerre à Yezdegird ; le roi se réfugie dans un moulin
 
 Il y avait un Pehlewan dont la puissance s’étendait au loin ; originaire du Touran,. son nom était Bijen ; il résidait dans la ville de Samarcande et avait un grand nombre d’alliés dans ce pays.
