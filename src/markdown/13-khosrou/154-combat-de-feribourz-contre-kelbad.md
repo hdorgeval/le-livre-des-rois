@@ -12,6 +12,8 @@ tags: []
 order: '154'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Feribourz contre Kelbad
 
 Feribourz fils de Kaous fut le premier qui sortit des rangs des héros de l’armée de l’Iran.
