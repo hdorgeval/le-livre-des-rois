@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schapour conduit une armée dans le Roum et combat le frère du Kaïsar
 
 On prépara une revue et le rôle des troupes, on demanda les clefs du trésor, le roi réunit son armée
