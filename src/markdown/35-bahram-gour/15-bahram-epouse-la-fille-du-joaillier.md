@@ -12,6 +12,8 @@ tags: []
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram épouse la fille du joaillier
 
 Bahram se rendit le huitième jour surle lieu de la chasse, accompagné de Rouzbeh et d’une escorte de ; mille cavaliers ; il vit touteila plaine remplie d’onagres, lira de l’étui son arc de Keîanide, attacha la corde aux deux bouts noirs et invoqua Dieu, le victorieux. ’était le printemps, les onagres mâles cherchaient des femelles ; ils s’étaient réunis du monde entier en ce lieu et se déchiraient la peau l’un à l’autre, de façon que leur sang avait donné à la terre la couleur des tulipes.
