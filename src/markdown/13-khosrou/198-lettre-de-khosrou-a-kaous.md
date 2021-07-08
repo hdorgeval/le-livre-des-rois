@@ -12,6 +12,8 @@ tags: []
 order: '198'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Keï Khosrou à Kaous pour lui annoncer sa victoire
 
 Khosrou appela celui qui écrivait ses lettres, lui dit tout ce qui était nécessaire. et composa une lettre pour Keï Kaous sur le Tourau et ce qui s’était passé avec l’armée des Turcs.
