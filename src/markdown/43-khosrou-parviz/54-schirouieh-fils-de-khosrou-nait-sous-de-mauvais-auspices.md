@@ -12,6 +12,8 @@ tags: []
 order: '054'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schirouïeh, fils de Khosrou, nait sous de mauvais auspices
 
 Lorsque cinq années de son règne furent passées, il n’y eut pas son égal dans le monde entier ; la sixième année, la tille du Kaïsar, qui ressemblait à la lune, mit au monde un fils, l’image du roi.
