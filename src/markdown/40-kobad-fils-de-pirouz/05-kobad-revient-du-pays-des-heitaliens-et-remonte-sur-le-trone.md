@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kobad revient du pays des Heïtaliens et remonte sur le trône
 
 Lorsqu’il arriva près de la maison du Dihkan, il vit dans toutes les rues des groupes d’hommes qui tous lui annoncèrent une bonne nouvelle, disant :
