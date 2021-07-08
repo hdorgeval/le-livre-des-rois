@@ -25,6 +25,8 @@ tags:
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Meurtre d'Aghrirez par la main de son frère
 
 Lorsque Aghrirez fut arrivé d’Amol à Reï, le roi eut nouvelle de ce qu’il avait fait et lui dit :
