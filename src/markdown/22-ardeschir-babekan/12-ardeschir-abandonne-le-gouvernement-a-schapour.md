@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir abandonne le gouvernement à Schapour
 
 Lorsque soixante.huit ans avaient passé sur lui, le maître du monde à l’esprit éveillé devint malade ; il sentit que sa mort approchait et que la’feuille verte de sa me allait jaunir.
