@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # 3ème aventure -Rustem combat un dragon
 
 Un dragon sortit du désert, tu aurais dit qu’un éléphant ne pourrait lui échapper ; son gîte était dans cet endroit ; et, de peur de le rencontrer, aucun Div n’aurait osé passer par la.
