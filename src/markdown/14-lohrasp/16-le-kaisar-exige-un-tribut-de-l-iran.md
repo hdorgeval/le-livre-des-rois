@@ -25,6 +25,8 @@ tags:
 order: '16'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Kaisar exige de Guschtasp un tribut pour l'Iran
 
 C’est ainsi que le ciel tourna pendant quelque temps, cachant ses desseins dans son cœur et ne les montrant pas ouvertement.
