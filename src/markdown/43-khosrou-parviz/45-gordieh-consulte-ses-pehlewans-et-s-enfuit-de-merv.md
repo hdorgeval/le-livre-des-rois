@@ -12,6 +12,8 @@ tags: []
 order: '045'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gordieh consulte ses Pehlewans et s'enfuit de Merv
 
 Ensuite cette jeune et intelligente femme s’assit tranquillement avec ses conseillers.
