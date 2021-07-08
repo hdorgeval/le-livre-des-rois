@@ -30,6 +30,8 @@ tags:
 order: '49'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar est reconnu par ses soeurs
 
 Quand le soleil brillant eut quitté la voûte du ciel, et que les acheteurs eurent abandonné le marché, les deux sœurs d’Isfendiar sortirent du palais dans la rue en pleurant et portant sur l’épaule des cruches d’eau;
