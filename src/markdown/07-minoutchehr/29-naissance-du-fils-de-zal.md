@@ -29,6 +29,8 @@ tags:
 order: '029'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance du fils de Zal
 
 Il ne se passa pas beaucoup de temps avant que le cyprès jusqu’alors infécond se chargeât de fruits ; ce printemps qui ravissait les cœurs se fanait, son âme était en proie à la douleur et aux soucis.
