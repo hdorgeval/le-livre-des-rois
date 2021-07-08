@@ -12,6 +12,8 @@ tags: []
 order: '090'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran donne sa fille en mariage à Siawusch
 
 Un jour Siawusch et Piran étaient assis ensemble, parlant sur toute chose grande et petite.
