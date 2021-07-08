@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure d'Ardeschir avec la fille d'Ardewan
 
 Ardeschir, lorsqu’il eut tué Ardewan et qu’il se fut emparé du monde après. la mort de ce roi, épousa sa fille, dans l’espoir qu’elle lui indiquerait où était le trésor de son père.
