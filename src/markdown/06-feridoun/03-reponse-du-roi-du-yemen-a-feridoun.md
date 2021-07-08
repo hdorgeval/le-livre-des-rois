@@ -12,6 +12,8 @@ tags: ['âme', 'cyprès', 'Djendil', 'Feridoun', 'Iemen', 'Serosch', 'Yemen']
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse du roi du Yemen à Feridoun
 
 Il manda devant lui l’envoyé du roi et lui adressa beaucoup de douces paroles :
