@@ -3,6 +3,7 @@ import React from 'react';
 const Index: React.FC = () => (
   <Layout>
     <SEO
+      lang="fr"
       title="Le Livre des Rois | Shâhnâmeh"
       contentType="website"
       description="Histoire légendaire des rois de Perse - Shâhnâmeh"

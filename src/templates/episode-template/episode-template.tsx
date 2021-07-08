@@ -53,6 +53,7 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
   return (
     <Layout>
       <SEO
+        lang="fr"
         title={pageContext.pageTitle || 'Le Livre des Rois - Shâhnâmeh'}
         contentType="website"
         description={firstHeading}

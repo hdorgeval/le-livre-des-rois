@@ -14,6 +14,7 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
   return (
     <Layout>
       <SEO
+        lang="fr"
         title={`${tag} | Lexique | Le Livre des Rois | Shâhnâmeh`}
         contentType="website"
         description={tag}

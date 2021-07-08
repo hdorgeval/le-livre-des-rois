@@ -4,6 +4,7 @@ import React from 'react';
 export default () => (
   <Layout>
     <SEO
+      lang="fr"
       title="Règne de Kobad fils de Pirouz | Le Livre des Rois | Shâhnâmeh"
       contentType="website"
       description="Règne de Kobad fils de Pirouz"

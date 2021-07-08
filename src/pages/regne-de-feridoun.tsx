@@ -4,6 +4,7 @@ import React from 'react';
 export default () => (
   <Layout>
     <SEO
+      lang="fr"
       title="Règne de Feridoun | Le Livre des Rois | Shâhnâmeh"
       contentType="website"
       description="Règne de Feridoun"

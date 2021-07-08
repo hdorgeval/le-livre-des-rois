@@ -5,14 +5,15 @@ export interface SEOProps {
   contentType: ContentType;
   description?: string;
   image?: string;
+  lang: 'fr' | 'en';
   title: string;
   url?: string;
 }
 
 export type ContentType = 'article' | 'website';
-export const SEO: React.FC<SEOProps> = ({ title, description, image, url, contentType }) => (
+export const SEO: React.FC<SEOProps> = ({ title, description, image, url, contentType, lang }) => (
   <Helmet>
-    <html lang="fr" />
+    <html lang={lang} />
     <title>{title}</title>
     {url && <link rel="canonical" href={url} />}
     {description && <meta name="description" content={description} />}
