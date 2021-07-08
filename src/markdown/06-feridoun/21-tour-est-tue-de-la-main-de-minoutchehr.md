@@ -12,6 +12,8 @@ tags: ['Karen', 'Minoutchehr', 'Tour']
 order: '021'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Tour est tué de la main de Minoutchehr
 
 Lorsque la moitié du jour lumineux fut passée, le cœur des deux braves brûlait du désir de la vengeance ; ils délibérèrent ensemble et se jetèrent dans toute espèce de plans insensés.
