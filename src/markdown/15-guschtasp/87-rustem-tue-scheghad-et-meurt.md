@@ -38,6 +38,8 @@ tags:
 order: '87'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tue Scheghad et meurt
 
 Lorsque Rustem, malgré ses blessures, ouvrit les yeux, il vit le visage malveillant de Scheghad et sentit que cette ruse et ce plan venaient de lui et que Scheghad, le fourbe, était son ennemi.
