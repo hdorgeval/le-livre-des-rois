@@ -46,6 +46,8 @@ tags:
 order: '23'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Dews se déchainent contre Zoroastre [^1]
 
 Quelque temps après ils enlevèrent Zoroastre et le portèrent dans le désert.
