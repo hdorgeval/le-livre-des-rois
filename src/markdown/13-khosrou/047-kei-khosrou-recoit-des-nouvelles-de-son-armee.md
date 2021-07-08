@@ -46,6 +46,8 @@ tags:
 order: '047'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou reçoit des nouvelles de son armée
 
 Cependant Keï Khosrou apprit que Piran avait remporté une victoire ;
