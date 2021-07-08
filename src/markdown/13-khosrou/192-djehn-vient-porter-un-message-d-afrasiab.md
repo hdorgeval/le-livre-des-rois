@@ -12,6 +12,8 @@ tags: []
 order: '192'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Djehn vient porter un message d'Afrasiab
 
 Le lendemain, lorsque le soleil se montra au-des-sus des cimes des montagnes et qu’il plaça son flambeau d’or sous la voûte du ciel, on entendit un grand bruit dans la forteresse, el Khosrou en devint inquiet.
