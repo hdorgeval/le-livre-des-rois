@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Saad, fils de Wakkas, envahit l'Iran, Yezdegird envoie Rustem contre lui
 
 Omar donna une armée à Saad, fils de Wakkas, pour faire la guerre au roi Yezdegird ; dès qu’il en fut informé, le roi leva des troupes de tous côtés et ordonna à un fils d’Hormuzd d’en prendre le commandement et de partir.
