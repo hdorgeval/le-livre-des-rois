@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender envoie neuf savants pour voir les quatre merveilles de Keïd
 
 Iskender choisit quelques hommes parmi les Bou- mis, des hommes de sens, de savoir, et sans mau- vaises intentions; puis il écrivit une lettre pleine d’excuses et de flatteries. de parfums et d’ornements,
