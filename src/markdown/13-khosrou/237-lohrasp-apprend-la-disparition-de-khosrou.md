@@ -12,6 +12,8 @@ tags: []
 order: '237'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lohrasp apprend la disparition de Keï Khosrou
 
 Lorsque Lohrasp eut appris le sort du roi, l’armée se rendit de son camp auprès de lui.
