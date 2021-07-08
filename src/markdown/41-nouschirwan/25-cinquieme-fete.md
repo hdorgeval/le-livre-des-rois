@@ -12,6 +12,8 @@ tags: []
 order: '025'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Cinquième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds
 
 Une autre semaine se passa et le huitième jour, au moment où le soleil qui illumine le monde commença à briller, rejetant le voile sombre de la nuit et parant le monde d’une robe de brocart jaune, le roi des rois s’assit en présence des Mobeds, des vieillards intelligents et sachant bien parler, d’Ardeschir, chef des Mobeds et des grands, de Schapour et de Yezdeguerd, le scribe.
