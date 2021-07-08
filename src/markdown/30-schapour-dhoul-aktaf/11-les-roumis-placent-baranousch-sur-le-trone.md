@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Roumis placent Baranousch sur le trône
 
 Or il y avait un homme de sens, Baranousch , un homme dont l’esprit et la langue étaient pleins de
