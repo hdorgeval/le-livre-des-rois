@@ -12,6 +12,8 @@ tags: []
 order: '162'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Gourguin et d'Anderiman
 
 Gourguin, le neuvième des combattants et Anderiman, un des champions de l’armée des Turcs, s’avancèrent l’un contre l’autre.
