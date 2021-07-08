@@ -12,6 +12,8 @@ tags: ['Destour', 'Div', 'Divs', 'Houscheng', 'Kaïoumors', 'Péris', 'Siamek']
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Kaïoumors et de Houscheng avec le Div noir
 
 Siamek le glorieux avait un fils qui servait de Destour à son grand-père.
