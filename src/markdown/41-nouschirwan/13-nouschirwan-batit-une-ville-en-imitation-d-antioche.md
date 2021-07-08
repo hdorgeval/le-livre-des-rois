@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan bâtit une ville en imitation d'Antioche et y établit les captifs Roumis
 
 Le roi parcourut la ville et vit un pays plus brillant que le cercle de la lune ; les jardins, les places et les eaux courantes faisaient reverdir les vieillards et leur rendaient la jeunesse.
