@@ -12,6 +12,8 @@ tags: []
 order: '085'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Afrasiab à Siawusch
 
 Afrasiab ayant entendu ces paroles, prit une résolution sage, fit appeler un scribe plein d’expérience, ouvrit les lèvres et lui dicta une lettre.
