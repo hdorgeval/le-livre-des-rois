@@ -26,6 +26,8 @@ tags:
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Message de Selm et de Tour à Feridoun
 
 Ils choisirent alors un Mobed plein de sagacité, éloquent, clairvoyant et de fidèle mémoire ; ils éloignèrent tous les étrangers et concertèrent toute espèce de plans rusés.
