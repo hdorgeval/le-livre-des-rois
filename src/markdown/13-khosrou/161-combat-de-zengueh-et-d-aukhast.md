@@ -12,6 +12,8 @@ tags: []
 order: '161'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Zengueh fils de Schaweran et d'Aukhast
 
 Le huitième des héros qui devaient combattre, Zengueh fils de Schaweran, s’avança ; son adversaire était Aukhast, devant lequel les lions s’enfuyaient.
