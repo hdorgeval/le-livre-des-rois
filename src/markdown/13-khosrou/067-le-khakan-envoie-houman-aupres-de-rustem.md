@@ -48,6 +48,8 @@ tags:
 order: '067'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan envoie Houman auprès de Rustem
 
 Le Khakan dit à Houman :
