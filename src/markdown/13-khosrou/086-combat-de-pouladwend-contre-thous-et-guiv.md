@@ -34,6 +34,8 @@ tags:
 order: '086'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Pouladwend contre Thous et Guiv
 
 Lorsque le soleil brillant fit paraître son étendard et que le satin sombre de la nuit eut pris une teinte de safran, on entendit les tambours sous la porte du roi et le bruit de l’armée monta jusqu’aux nuages.
