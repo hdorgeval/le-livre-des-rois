@@ -12,6 +12,8 @@ tags: []
 order: '029'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram explique aux chefs de l'armée son plan de se faire roi
 
 Ensuite Bahram convoqua les grands et leur lit part de beaucoup de secrets.
