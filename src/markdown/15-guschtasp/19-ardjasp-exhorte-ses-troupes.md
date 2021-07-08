@@ -28,6 +28,8 @@ tags:
 order: '19'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardjasp exhorte ses troupes
 
 Deux semaines se passèrent ainsi, et à chaque instant le combat devint plus vif.
