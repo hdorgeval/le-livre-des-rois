@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # 6ème aventure -Combat de Rustem contre le Div Arzeng
 
 Rustem, un casque royal sur la tête et la poitrine couverte de sa cuirasse de peau de léopard trempée de sueur, se dirigea vers Arzeng, le chef de l’armée ; et arrivé près de ces troupes avides de combats, il poussa au milieu de la foule un cri tel que tu aurais dit qu’il fendait la mer et les montagnes.
