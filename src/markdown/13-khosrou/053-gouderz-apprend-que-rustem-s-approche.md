@@ -38,6 +38,8 @@ tags:
 order: '053'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gouderz apprend que Rustem s'approche
 
 Le Sipehdar Gouderz quitta la foule et gravit jusqu’à la crête de la montagne.
