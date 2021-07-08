@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram donne à Lembek les richesses de Baraham
 
 Bahram partit, rentra dans son palais et chercha pendant toute la nuit ce qu’il y avait à faire.
