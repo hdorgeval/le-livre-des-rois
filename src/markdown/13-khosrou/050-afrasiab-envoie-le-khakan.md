@@ -57,6 +57,8 @@ tags:
 order: '050'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab envoie le Khakan et Kamous au secours de Piran
 
 Lorsque le soleil eut montré dans le signe du Cancer la pointe de ses doigts et qu’il eut déchiré son voile noir, un messager du roi se présenta devant Piran, disant :
