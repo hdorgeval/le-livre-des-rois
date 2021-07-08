@@ -12,6 +12,8 @@ tags: []
 order: '109'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou voit Bijen dans la coupe qui reflète le monde
 
 Lorsque la joyeuse fête du Nourouz fut arrivée, Guiv sentit le besoin de consulter la coupe fortunée.
