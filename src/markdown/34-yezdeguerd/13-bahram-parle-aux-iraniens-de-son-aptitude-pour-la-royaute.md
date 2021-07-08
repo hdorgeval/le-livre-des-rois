@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram parle aux Iraniens de son aptitude pour la royauté
 
 Bahram dit :
