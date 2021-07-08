@@ -12,6 +12,8 @@ tags: []
 order: '063'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan parle de son fils Hormuzd comme successeur
 
 Que dit mon maître, le Dihkan ambitieux, sur les rotations du monde ?
