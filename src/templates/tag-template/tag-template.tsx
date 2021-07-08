@@ -1,7 +1,7 @@
 import { EpisodeCard } from './episode-card-with-reign';
 import { Layout, SEO, Title } from '../../components';
 import { AllMarkdownRemarkResponse, PageContext } from '../../graphql';
-import { TagDescription } from '../../components/tag-description/tag-description';
+import { TagDescription } from '../../components/tag-description/fr';
 import React from 'react';
 import { graphql } from 'gatsby';
 

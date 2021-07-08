@@ -1,6 +1,6 @@
-import { AllMarkdownRemarkResponse } from '../../graphql';
-import { LeafletMap } from '../leaflet-map';
-import { Title } from '../title';
+import { AllMarkdownRemarkResponse } from '../../../graphql';
+import { LeafletMap } from '../../leaflet-map';
+import { Title } from '../../title';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
