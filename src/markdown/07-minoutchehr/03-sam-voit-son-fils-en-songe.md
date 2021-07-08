@@ -34,6 +34,8 @@ tags:
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sam voit son fils en songe
 
 Une nuit Sam dormait, le cœur navré et fatigué des affaires de ce monde.
