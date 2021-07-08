@@ -12,6 +12,8 @@ tags: []
 order: '181'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Khosrou avec Schideh fils d'Afrasiab
 
 Lorsque le voile azuré du ciel fut éclairé et que le monde fut devenu semblable à un joyau jaune, le vaillant Pescheng, la tête remplie du vent de la jeunesse, ne respirant que les combats, monta à cheval ; il couvrit sa poitrine brillante d’une cuirasse ; il plaça sur sa tête un casque royal de fer, mit son drapeau dans la main d’un Turc courageux et se rendit fièrement sur le champ de bataille.
