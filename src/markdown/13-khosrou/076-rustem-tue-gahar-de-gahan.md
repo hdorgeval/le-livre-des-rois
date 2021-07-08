@@ -34,6 +34,8 @@ tags:
 order: '076'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tue Gahar de Gahan
 
 Rustem se porta de l’aile droite à l’aile gauche et toute la ligne des Touraniens trembla.
