@@ -12,6 +12,8 @@ tags: []
 order: '046'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan envoie Thuwurg à la poursuite de Gordieh qui le tue
 
 Beaucoup de transfuges quittèrent l’armée de Gordieh et se rendirent auprès du Khakan pour chercher sa protection.
