@@ -12,6 +12,8 @@ tags: []
 order: '106'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab se met en campagne contre Siawusch
 
 Lorsque Afrasiab ont entendu ces paroles, sa vieillesse parut se rajeunir ; son cœur brûlait ; sa poitrine exhalait des soupirs et sa colère fut.si grande qu’il ne donna aucune réponse à Guersiwez.
