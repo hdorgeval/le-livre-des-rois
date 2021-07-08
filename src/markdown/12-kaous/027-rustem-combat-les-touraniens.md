@@ -12,6 +12,8 @@ tags: []
 order: '027'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem combat les touraniens
 
 Guiv adressa alors au Pehlewan ces paroles :
