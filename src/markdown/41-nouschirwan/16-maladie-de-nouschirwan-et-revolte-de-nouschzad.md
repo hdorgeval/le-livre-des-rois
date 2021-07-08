@@ -12,6 +12,8 @@ tags: []
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Maladie de Nouschirwan et révolte de Nouschzad
 
 On raconte de Nouschzad cette histoire, qui s’est. conservée dans d’anciens récits, que, lorsque le fils de Kesra eut entendu dire que le trône échappait à cette branche de l’arbre royal, il ouvrit la porte du palais et de tous côtés se.rassemblèrent autour de lui en foule ceux qui avaient brisé les liens de la raison et que Nouschirwan avait enfermés en prison.
