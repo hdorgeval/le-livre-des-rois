@@ -8,6 +8,8 @@ tags: [Kischwers, Keschwars]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kischwers
 
 La terre était divisée, chez les Persans comme chez les Hindous, en sept parties, dont chacune correspondait à une planète.
