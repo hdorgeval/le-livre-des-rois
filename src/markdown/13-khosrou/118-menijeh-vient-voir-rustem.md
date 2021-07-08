@@ -12,6 +12,8 @@ tags: []
 order: '118'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Menijeh vient voir Rustem
 
 Menijeh entendit aussi parler de cette caravane et à l’instant elle courut à la ville.
