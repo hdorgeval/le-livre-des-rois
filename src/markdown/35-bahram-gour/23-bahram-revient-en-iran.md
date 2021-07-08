@@ -12,6 +12,8 @@ tags: []
 order: '023'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram revient dans le pays d'Iran
 
 Quand le temple du feu fut prêt, ainsi que le lieu pour le Naurouz et la fête de Sedeh.
