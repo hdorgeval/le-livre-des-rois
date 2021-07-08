@@ -12,6 +12,8 @@ tags: []
 order: '031'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender construit le rempart de Gog et Magog
 
 Ayant ainsi parcouru l’Occident, il se dirigea vers l’Orient, essayant ainsi toutes les routes du monde entier. Il trouva sur son chemin une belle ville, sur laquelle on aurait dit que ni le vent ni la poussière ne passaient. Au bruit des timbales qu’on battait sur le dos des éléphants, les grands de la ville s’avancèrent de deux milles à la rencontre du roi,
