@@ -12,6 +12,8 @@ tags: []
 order: '205'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou envoie à Kaous les captifs et les présents
 
 Le roi fut heureux de ces paroles et reçut gra-cieusement les grands, qu’il fit asseoir selon leur rang.
