@@ -12,6 +12,8 @@ tags: []
 order: '069'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch demande à son père la grâce de Soudabeh
 
 Le quatrième jour Kaous monta sur le trône des Keïanides, une massue à tête de bœuf à la main.
