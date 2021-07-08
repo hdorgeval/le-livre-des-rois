@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram fils de Siawusch amène Bendouï devant Bahram Djoubineh
 
 Lorsque la face de la lune fut devenue brillante comme le soleil, l’éloquent Bendouî monta sur la terrasse et dit à Bahram :
