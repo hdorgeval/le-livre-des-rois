@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kesra attaque Mazdek et le fait mettre à mort
 
 Or un jour Mazdek alla de grand matin de son palais chez le roi et lui dit :
