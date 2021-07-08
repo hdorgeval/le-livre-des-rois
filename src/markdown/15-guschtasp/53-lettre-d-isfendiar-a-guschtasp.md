@@ -31,6 +31,8 @@ tags:
 order: '53'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Isfendiar à Guschtasp et réponse de celui-ci
 
 Isfendiar appela son scribe, et lui parla longuement des ruses qu’il avait employées et des combats qu’il avait livrés;
