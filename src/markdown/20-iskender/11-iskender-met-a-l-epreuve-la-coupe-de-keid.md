@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender met à l'épreuve la coupe de Keïd
 
 Ensuite Iskender fit apporter la coupe jaune, rem- plie d’eau fraîche, et tous se mirent à boire de l’eau
