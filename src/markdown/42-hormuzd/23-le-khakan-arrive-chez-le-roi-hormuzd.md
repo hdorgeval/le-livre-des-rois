@@ -12,6 +12,8 @@ tags: []
 order: '023'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan arrive chez le roi Hormuzd
 
 Le Khakan arriva près du roi avec les trésors de ses ancêtres et son escorte et le roi du monde, aussitôt qu’il en reçut la nouvelle, monta à cheval, une couronne sur la tête et une massue à la main.
