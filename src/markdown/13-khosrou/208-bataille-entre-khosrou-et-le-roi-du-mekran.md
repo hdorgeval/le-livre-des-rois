@@ -12,6 +12,8 @@ tags: []
 order: '208'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bataille entre Keï Khosrou et le roi du Mekran
 
 Keï Khosrou s’avançait et lorsqu’il fut près du Mekran, il choisit dans son armée un homme pleih d’expérience, l’envoya auprès du roi du Mekran et lui fit dire :
