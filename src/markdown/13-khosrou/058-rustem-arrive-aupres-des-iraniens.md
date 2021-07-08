@@ -35,6 +35,8 @@ tags:
 order: '058'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem arrive auprès des Iraniens
 
 Lorsque le soleil et la lune eurent quitté la voûte du ciel, les deux armées firent sortir des rondes et la sentinelle cria de sa tour :
