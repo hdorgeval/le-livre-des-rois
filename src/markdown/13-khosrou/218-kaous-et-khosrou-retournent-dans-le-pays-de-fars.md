@@ -12,6 +12,8 @@ tags: []
 order: '218'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous et Khosrou s'en retournent dans le pays de Fars
 
 Lorsque le roi eut ainsi obtenu de Dieu l’accomplissement de ses vœux, il s’en retourna du lac au temple du feu.
