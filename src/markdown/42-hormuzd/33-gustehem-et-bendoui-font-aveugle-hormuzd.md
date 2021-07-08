@@ -12,6 +12,8 @@ tags: []
 order: '033'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gustehem et Bendouï font aveugle Hormuzd
 
 Lorsque le roi apprit le sort d’Ayi’n Guschasp, le héros illustre, il refusa dans sa douleur de donner audience et personne ne le vit plus prendre en main une coupede vin.
