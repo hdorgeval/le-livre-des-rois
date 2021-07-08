@@ -12,6 +12,8 @@ tags: []
 order: '022'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender fait une convention avec Keïdafeh
 
 Iskender passa cette longue nuit. à chercher des moyens de salut. et lorsque les soleil eut montré la
