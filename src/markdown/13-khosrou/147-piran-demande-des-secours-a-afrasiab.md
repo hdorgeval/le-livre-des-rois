@@ -12,6 +12,8 @@ tags: []
 order: '147'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran demande des secours à Afrasiab
 
 Cela fait, Piran envoya à l’heure du sommeil un messager vers Afrasiab, un messager vieux, sage et de bon conseil, un héros plein d’éloquence, un cavalier plein de courage ; il lui dit :
