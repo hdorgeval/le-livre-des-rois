@@ -12,6 +12,8 @@ tags: []
 order: '174'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen ramène Gustehem
 
 Alors on entendit annoncer du haut de la tour des sentinelles qu’on voyait sur la route la poussière soulevée par des cavaliers et qu’on apercevait de loin trois chevaux et trois corps attachés dessus, accompagnés d’un seul cavalier.
