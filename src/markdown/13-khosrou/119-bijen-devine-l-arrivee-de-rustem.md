@@ -12,6 +12,8 @@ tags: []
 order: '119'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen devine l'arrivée de Rustem
 
 Menijeh s’en retourna vers le cachot en courant et en pressant contre son sein la volaille qu’on lui avait donnée et qu’elle portait enveloppée dans une serviette.
