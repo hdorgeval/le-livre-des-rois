@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le roi Saweh conduit une armée contre Hormuzd
 
 Lorsque pendant dix années son gouvernement eut été prospère,’onrentendit de tous côtés s’élever des evoix ennemies.
