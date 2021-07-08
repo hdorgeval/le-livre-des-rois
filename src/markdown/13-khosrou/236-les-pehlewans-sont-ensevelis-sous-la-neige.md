@@ -12,6 +12,8 @@ tags: []
 order: '236'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Pehlewans sont ensevelis sous la neige
 
 Les têtes des grands furent remplies de soucis à ces paroles et ils s’endormirent tristement.
