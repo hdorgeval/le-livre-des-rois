@@ -12,6 +12,8 @@ tags: []
 order: '059'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les grands donnent un conseil à Khosrou
 
 Lorsque la nouvelle se répandit parmi les grands et dans le peuple que Schirin était dans le palais de Khosrou et que cette ancienne affaire s’était renouée, toute la ville en fut’atIligée, tous étaient pleins de soupçons, de chagrins et de malédictions.
