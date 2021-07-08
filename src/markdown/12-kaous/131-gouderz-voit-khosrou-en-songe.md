@@ -12,6 +12,8 @@ tags: []
 order: '131'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gouderz voit Keï Khosrou en songe
 
 Il arriva une nuit que Gouderz eut un songe.
