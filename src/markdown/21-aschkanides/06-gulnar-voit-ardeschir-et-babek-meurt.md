@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gulnar voit Ardeschir et Babek meurt
 
 Ardewan possédait un grand palais, dans lequel se trouvait une noble fille captive.
