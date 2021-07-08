@@ -12,6 +12,8 @@ tags: []
 order: '082'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous répond à la lettre de Siawusch
 
 Le roi fit caparaçonner un dromadaire et ordonna qu’on le tînt prêt à partir ; ensuite il appela son scribe, il lui assigna un siège devant son trône, et, plein de colère et de rage, la bouche remplie de paroles amères, les joues rouges comme la couleur du vin, il lui fit écrire une lettre.
