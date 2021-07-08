@@ -12,6 +12,8 @@ tags: []
 order: '102'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch joue à la balle
 
 Lorsque le soleil brillant se dévoila, montrant d’en haut sa face au monde entier, Siawusch se rendit du palais dans le Meïdan et en fit le tour en jouant à la balle.
