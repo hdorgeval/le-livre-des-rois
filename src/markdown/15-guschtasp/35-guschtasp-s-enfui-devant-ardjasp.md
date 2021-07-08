@@ -14,6 +14,8 @@ tags:
 order: '35'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp s'enfuit devant Ardjasp
 
 A la fin le sort accabla tellement Guschtasp qu’il fut forcé de fuir.
