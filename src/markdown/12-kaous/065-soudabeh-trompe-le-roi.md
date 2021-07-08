@@ -12,6 +12,8 @@ tags: []
 order: '065'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Soudabeh trompe le roi
 
 Soudabeh déchira soudain tous ses vêtements, elle ensanglanta ses joues avec ses ongles et fit retentir de ses cris les appartements des femmes du roi ; on entendit dans la rue un bruit qui provenait du palais ; on entendit des voix et des clameurs qui en venaient ; tu aurais dit que c’était la nuit de la résur. rection.
