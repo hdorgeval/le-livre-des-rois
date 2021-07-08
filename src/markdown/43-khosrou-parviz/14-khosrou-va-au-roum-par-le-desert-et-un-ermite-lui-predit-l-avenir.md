@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou va au Roum par le désert et un ermite lui prédit l'avenir
 
 Je vais maintenant parler de ce que faisait Khosrou après sa fuite de Thisifoun.
