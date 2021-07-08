@@ -29,6 +29,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Houscheng avait un fils plein de sagesse, Thahmouras l’illustre, le vainqueur des Divs : Thahmouras vint et monta sur le trône de son père et ceignit la ceinture de la royauté.
