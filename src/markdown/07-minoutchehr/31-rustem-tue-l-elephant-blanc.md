@@ -24,6 +24,8 @@ tags:
 order: '031'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tue l'éléphant blanc
 
 Or un jour, il arriva qu’ils étaient dans un jardin à boire du vin avec des amis.
