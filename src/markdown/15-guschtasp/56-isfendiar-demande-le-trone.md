@@ -37,6 +37,8 @@ tags:
 order: '56'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar demande le trône à son père
 
 Lorsque la nuit fut passée et que l’aurore eut rassemblé les rênes de ses chevaux et montré ses rayons brillants, le roi s’assit sur son trône d’or, et Isfendiar se présenta devant lui: il se présenta humblement, plein de soucis et tenant les mains sous les aisselles.
