@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Faramourz combat Bahman et perd la vie
 
 F aramourz reçut ces nouvelles à la frontière de Bosl;
