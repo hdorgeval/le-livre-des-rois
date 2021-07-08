@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # 5ème aventure -Aulad tombe au pouvoir de Rustem
 
 De la il continua sa route comme il convient à un voyageur ; il s’avança en toute hâte et arriva dans un lieu où le monde était privé de toute lumière : c’était une nuit noire comme la face d’un nègre ; on n’y voyait ni les étoiles ni la lune brillante : tu aurais dit que le soleil était enchaîné et que les étoiles étaient dans les nœuds d’un lacet.
