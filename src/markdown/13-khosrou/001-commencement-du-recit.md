@@ -12,6 +12,8 @@ tags: ['cyprès', 'Dieu', 'Firdousi', 'Keï', 'Khosrou']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit [^1]
 
 Quand un cyprès, dans un jardin, pousse un rejeton dont la cime verte s’élève au-dessus du toit du palais, l’arbre se réjouit de la hauteur où il le voit atteindre ; ainsi un père qui voit son rejeton prudent et heureux est content du sort de son enfant, dont les œuvres feront le bonheur du monde.
