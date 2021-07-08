@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahman charge Zal de chaines
 
 Arrivé près du Hirmend, Bahman choisit un noble messager, l’envoya auprès du Destan fils de Sam
