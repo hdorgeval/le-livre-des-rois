@@ -12,6 +12,8 @@ tags: []
 order: '042'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schenguil s'en retourne de l'Iran dans l'Hindoustan
 
 Ainsi se passa bien du temps ; à la fin le roi de l’Inde se prépara à son retour.
