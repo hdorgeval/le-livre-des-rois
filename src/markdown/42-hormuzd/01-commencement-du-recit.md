@@ -12,6 +12,8 @@ tags: ['chrysoprases', 'Hormuzd', 'Jupiter', 'Kaweh', 'Printemps', 'Tammouz']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Le mois de Tammouz (juillet) regarde en souriant les pommes rouges et fait au pommier une querelle sur ses fruits et ses feuilles, disant :
