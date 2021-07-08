@@ -12,6 +12,8 @@ tags: ['âme', 'Ardjasp', 'Chine', 'Dakiki', 'Firdousi', 'Guschtasp', 'Kaous', '
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Firdousi voit Dakiki en songe
 
 Une nuit le poète rêvait qu’il tenait en main une coupe remplie de vin parfumé comme de l’eau de rose.
