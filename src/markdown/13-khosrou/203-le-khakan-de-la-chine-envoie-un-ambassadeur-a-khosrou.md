@@ -12,6 +12,8 @@ tags: []
 order: '203'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan de la Chine envoie un ambassadeur à Keï Khosrou
 
 Lorsqu’on sut dans le Madjin et en Chine ce qui s’était passé entre les Turcs et le roi de l’Iran, le Faghfour et le Khakan se tordirent de douleur et l’on ne parla que du trône puissant de l’Iran.
