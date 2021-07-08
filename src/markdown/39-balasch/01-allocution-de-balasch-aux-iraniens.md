@@ -12,6 +12,8 @@ tags: ['âme', 'Balasch', 'Dieu', 'Iraniens', 'Mobed']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Allocution de Balasch aux Iraniens
 
 Lorsque Balasch eut passé un mois dans le deuil, la tête couverte de poussière et les joues déchirées, une foule se présenta devant lui, composée du Grand Mobed et de tout ce qui était noble et intelligent.
