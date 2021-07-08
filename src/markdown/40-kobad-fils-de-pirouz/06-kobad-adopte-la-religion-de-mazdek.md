@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kobad adopte la religion de Mazdek
 
 Il arriva un homme nommé Mazdek, homme éloquent, savant, intelligent et ambitieux.
