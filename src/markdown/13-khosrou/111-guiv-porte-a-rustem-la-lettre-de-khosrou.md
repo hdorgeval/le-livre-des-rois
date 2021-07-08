@@ -12,6 +12,8 @@ tags: []
 order: '111'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv porte à Rustem la lettre de Khosrou
 
 Khosrou apposa son sceau sur la lettre ; Guiv la prit, salua le roi, se rendit dans son palais et s’apprêta en grande hâte pour le voyage du Seistan.
