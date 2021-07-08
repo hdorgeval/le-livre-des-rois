@@ -12,6 +12,8 @@ tags: []
 order: '101'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen va regarder Menijeh fille d'Afrasiab
 
 Ils se mirent ainsi en route, l’un n’ayant que des intentions droites, l’autre méditant une trahison.
