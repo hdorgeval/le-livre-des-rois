@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Thaïr l'arabe enlève la fille de Nersi
 
 Lorsque quelque temps se fut passé ainsi et que
