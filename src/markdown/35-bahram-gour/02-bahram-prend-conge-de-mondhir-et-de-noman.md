@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Gour prend congé de Mondhir et de Noman
 
 Le lendemain, lorsque le soleil parut, que les montagnes devinrent visibles et que le sommeil fut troublé, la foule des grands, dont Bahram était encore mécontent, se rendit auprès de Mondhir, pour qu’il intercédât en leur faveur auprès du roi et qu’il fit. pardonner leur faute, disant :
