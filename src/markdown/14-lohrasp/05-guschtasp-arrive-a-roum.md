@@ -13,6 +13,8 @@ tags:
 order: '05'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp arrive à Roum
 
 Lorsque Guschtasp arriva à la mer, il descendit de cheval et un receveur de péages le vit ; c’était un vieillard du nom de Heischoui, homme généreux, de bon conseil, prudent et heureux.
