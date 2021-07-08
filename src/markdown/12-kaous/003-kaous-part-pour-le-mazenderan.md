@@ -38,6 +38,8 @@ tags:
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous part pour le Mazenderan
 
 Aussitôt que Zal le Sipehbed eut passé la frontière, l’armée se prépara en toute hâte à se mettre en campagne.
