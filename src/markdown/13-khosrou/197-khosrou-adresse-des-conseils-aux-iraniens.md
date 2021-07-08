@@ -12,6 +12,8 @@ tags: []
 order: '197'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou adresse des conseils aux Iraniens
 
 Le roi victorieux dit aux Iraniens :
