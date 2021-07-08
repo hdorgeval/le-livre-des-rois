@@ -8,6 +8,8 @@ tags: [Aderguschasp]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aderguschasp
 
 Aderguschasp est le nom d’un ange qui, dans la mythologie persane, est le gardien du feu et qui par cette raison sert de terme de comparaison à tout ce qui est brillant.
