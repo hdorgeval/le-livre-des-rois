@@ -36,6 +36,8 @@ tags:
 order: '035'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou fait mauvais accueil à Thous
 
 Feribourz, Thous, Guiv le vainqueur des armées et leurs troupes revinrent du Touran et prirent la route de l’Iran, tous accablés de tristesse et le visage inondé de larmes.
