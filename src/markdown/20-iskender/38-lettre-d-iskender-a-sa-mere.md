@@ -12,6 +12,8 @@ tags: []
 order: '038'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Iskender à sa mère et ses dernières volontés
 
 Ce même jour il tomba malade à Babil, car il sen- tait que le malheur était proche. Il appela un scribe expérimenté et lui dit tout ce qu’il avait dans le
