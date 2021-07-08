@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Saweh envoie un message à Bahram Djoubineh
 
 Ensuite Stiweh envoya auprès de Bahram un vieillard éloquent à qui il dit :
