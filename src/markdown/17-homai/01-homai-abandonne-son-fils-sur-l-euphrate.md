@@ -12,6 +12,8 @@ tags: []
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Homaï abandonne son fils sur l'Euphrate, enfermé dans une boite
 
 Ardeschir mourut de sa maladie et le cœur de sa fille, qui charmait les âmes, fut gonflé de sang dans sa douleur ; elle porta le deuil de Bahman et passa bien des jours absorbée par son malheur.
