@@ -27,6 +27,8 @@ tags:
 order: '031'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram cherche son fouet sur le champ de bataille
 
 Lorsque les deux armées se furent livrées au repos et qu’une partie de la nuit sombre fut passée, Bahram accourut auprès de son père et lui dit :
