@@ -12,6 +12,8 @@ tags: []
 order: '071'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch entre en campagne
 
 On entendit le bruit des trompettes et des timbales ; Thous le Sipehbed au front orgueilleux arriva, l’armée s’assembla devant le palais du roi.
