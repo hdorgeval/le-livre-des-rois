@@ -12,6 +12,8 @@ tags: []
 order: '137'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen apprend ce qu'a fait Houman
 
 Bijen apprit. que Houman s’était présenté comme un lion devant son grand-père ; qu’il avait traversé les rangs de l’armée de l’aile gauche à l’aile droite, provoquant les braves, mais qu’aucun d’eux n’avait accepté le combat ; qu’il leur avait tourné le dos en colère et avec mépris, qu’il avait frappé quatre cavaliers et les avait fait rouler honteusement dans la poussière.
