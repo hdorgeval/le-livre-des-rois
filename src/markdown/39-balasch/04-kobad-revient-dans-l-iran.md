@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kobad revient dans l'Iran
 
 Lorsque l’armée aperçut le visage de Kobad, toute cette masse d’hommes fut heureuse de le revoir, lui, le Grand Mobed Ardeschir et les prisonniers, jeunes et vieux.
