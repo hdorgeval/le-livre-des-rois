@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahman rend la liberté à Zal et s'en retourne dans l'Iran
 
 Le généreux Beschouten, qui était le Destour du
