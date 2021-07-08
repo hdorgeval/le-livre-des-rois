@@ -12,6 +12,8 @@ tags: []
 order: '222'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens appellent Zal et Rustem
 
 Une semaine s’étant passée sans que le roi se fût montré, on entendit des murmures et des paroles confuses.
