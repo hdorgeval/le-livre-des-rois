@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan fait le tour de son empire
 
 Le sage roi se décida à quitter pour un peu de temps le pays où il résidait à faire le tour de ce monde plein de joies et à tirer au jour les choses cachées.
