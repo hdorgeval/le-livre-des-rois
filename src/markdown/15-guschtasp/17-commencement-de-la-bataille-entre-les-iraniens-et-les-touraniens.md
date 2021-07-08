@@ -28,6 +28,8 @@ tags:
 order: '17'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement de la bataille entre les iraniens et les touraniens
 
 Lorsque la nuit fut passée, que le jour eut paru et que le soleil qui éclaire le monde eut commencé à briller, les deux armées montèrent à cheval pendant que le roi Guschtasp les observait du haut de la montagne.
