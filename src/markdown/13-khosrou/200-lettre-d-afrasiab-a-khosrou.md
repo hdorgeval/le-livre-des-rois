@@ -12,6 +12,8 @@ tags: []
 order: '200'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Afrasiab à Keï Khosrou
 
 Le roi des Turcs choisit dans cette assemblée trois hommes pleins d’expérience et 0voya par en à Khosrou ce message : Tu as fait beaucoup de chemin pour me suivre.
