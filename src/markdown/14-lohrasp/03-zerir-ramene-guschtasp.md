@@ -30,6 +30,8 @@ tags:
 order: '03'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zerir ramène Guschtasp
 
 Cependant Guschtasp continuait sa route les yeux en larmes, le cœur rempli de haine, de colère et de passion ; il marcha jusqu’à ce qu’il fut près de Kaboul.
