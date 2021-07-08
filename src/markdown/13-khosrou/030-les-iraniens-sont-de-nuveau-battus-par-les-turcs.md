@@ -47,6 +47,8 @@ tags:
 order: '030'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens sont de nouveau battus par les Turcs
 
 Quand le mois fut fini et le temps des combats revenu sans qu’on eût violé le traité et la foi donnée, les deux armées firent entendre le bruit des armes et se portèrent sur le champ de bataille.
