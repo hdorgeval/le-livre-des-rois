@@ -34,6 +34,8 @@ tags:
 order: '025'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Tejaou combat les iraniens
 
 Aussitôt que le soleil se fut levé sur la plaine et que son poignard eut jeté un reflet violet sur la nuit qui fuyait, Tejaou s’avança avec son armée et les vedettes crièrent aux Iraniens qu’il arrivait du Touran une troupe guerrière, dont le Sipehbed était un crocodile qui tenait dans sa main un étendard.
