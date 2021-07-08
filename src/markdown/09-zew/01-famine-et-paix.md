@@ -38,6 +38,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Famine et paix
 
 Une nuit Zal était assis à l’heure où l’on dort, parlant longuement d’Afrasiab et des braves du pays d’Iran, de ses Pehlewans et de ses amis.
