@@ -12,4 +12,6 @@ tags: []
 order: '097'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de Bijen et de Menijeh 
