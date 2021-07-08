@@ -54,6 +54,8 @@ tags:
 order: '60'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar envoie Bahman auprès de Rustem
 
 Isfendiar fit venir Bahman devant lui et lui parla longuement, disant:
