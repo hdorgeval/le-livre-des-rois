@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir combat Heftwad et est défait
 
 Lorsque Ardeschir entendit parler d’Heftwad, ces récits lui déplurent ; il envoya contre lui une armée protégée par une étoile puissante et avide de gloire.
