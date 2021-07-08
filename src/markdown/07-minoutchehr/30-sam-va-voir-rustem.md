@@ -31,6 +31,8 @@ tags:
 order: '030'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sam va voir Rustem
 
 Sam ayant eu la nouvelle que le fils de Zal était devenu pareil à un lion et que personne dans le monde n’avait vu un enfant doué de ce courage de lion et de cette bravoure, son cœur commença à battre et il résolut d’aller le voir.
