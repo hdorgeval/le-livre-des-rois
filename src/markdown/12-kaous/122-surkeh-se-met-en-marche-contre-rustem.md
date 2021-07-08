@@ -12,6 +12,8 @@ tags: []
 order: '122'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Surkeh se met en marche contre Rustem
 
 Un messager partit de Sipendjab, se rendit auprès du roi du Touran et lui dit :
