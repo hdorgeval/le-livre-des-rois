@@ -12,6 +12,8 @@ tags: []
 order: '032'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Neïathous et les Roumis reviennent de l'Iran auprès du Kaïsar
 
 Le roi dit à Kharrad, fils de Bénin :
