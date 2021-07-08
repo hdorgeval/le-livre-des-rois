@@ -30,6 +30,8 @@ tags:
 order: '018'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sam vient voir Minoutchehr
 
 Arrivé près de la cour, Sam descendit de cheval et le roi ordonna qu’on l’admît.
