@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Darab bat l'armée de Schoaïb
 
 Or il advint que cent mille Arabes, des cavaliers vaillants qui perçaient avec leurs lances, arrivèrent avec leur chef Schoaïb, un homme illustre de la race de Koteïb.
