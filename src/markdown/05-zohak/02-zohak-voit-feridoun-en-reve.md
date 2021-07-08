@@ -29,6 +29,8 @@ tags:
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zohak voit Feridoun en rêve
 
 Lorsqu’il lui restait encore quarante ans de vie, voici ce que Dieu amena sur sa tête.
