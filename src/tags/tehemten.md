@@ -8,6 +8,8 @@ tags: [Tehemten]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Tehemten
 
 Autre nom donné à Rustem.
