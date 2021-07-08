@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Kaïsar du Roum fait coudre Schapour dans une peau d'âne
 
 Or il arriva qu’un jour, malgré sa couronne et ses trésors, son âme fut fatiguée de la vie; trois veilles
