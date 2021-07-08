@@ -12,6 +12,8 @@ tags: []
 order: '146'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Gouderz à la lettre de Piran
 
 Lorsque sept jours se furent écoulés, le chef des armées de Khosrou manda, au matin du huitième jour, un secrétaire et lui ordonna d’écrire la réponse à la lettre et de planter de nouveau l’arbre de la vengeance.
