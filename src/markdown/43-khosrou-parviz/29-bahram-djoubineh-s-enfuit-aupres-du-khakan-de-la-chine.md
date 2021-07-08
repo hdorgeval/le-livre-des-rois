@@ -12,6 +12,8 @@ tags: []
 order: '029'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh s'enfuit auprès du Khakan de la Chine
 
 Lorsque le soleil brillant se mit à parer son trône, une ronde sortit du camp du roi ; elle ne vit personne dans l’enceinte des tentes de Bahram, les tentes étaient debout, mais personne ne parut.
