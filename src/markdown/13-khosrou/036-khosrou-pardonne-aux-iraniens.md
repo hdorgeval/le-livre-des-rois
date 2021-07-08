@@ -31,6 +31,8 @@ tags:
 order: '036'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou pardonne aux Iraniens
 
 Lorsque le soleil au visage d’or se leva au-dessus de la montagne et que la nuit sombre s’enfuit, on entendit un bruit sous la porte du palais, Rustem se présenta devant le roi et lui dit :
