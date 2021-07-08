@@ -12,6 +12,8 @@ tags: []
 order: '149'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gouderz et Thous font prononcer Kaous sur la succession au trône
 
 Lorsque Kaous eut entendu ces paroles droites, il fit appeler devant lui les deux adversaires.
