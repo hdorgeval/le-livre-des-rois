@@ -54,6 +54,8 @@ tags:
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou organise son armée
 
 Lorsque le soleil, dans sa splendeur, se fut levé derrière les montagnes et que les chanteurs furent fatigués, on entendit sous la porte royale le bruit des tambours et l’armée forma ses rangs devant le palais.
