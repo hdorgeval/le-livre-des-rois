@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahman épouse sa fille Homaï et lui destine la succession
 
 Ardeschir avait un fils, vainqueur de lions, à qui il avait donné le nom de Sasan, et une fille appelée Homaï, pleine d’adresse, de savoir et de bonnes in- tentions, à qui l’on donnait aussi le nom de Tchehrzad.
