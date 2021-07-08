@@ -12,6 +12,8 @@ tags: []
 order: '025'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram envoie son frère Nersi dans le Khorasan
 
 Un jour Bahram dit à Nersi :
