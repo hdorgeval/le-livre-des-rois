@@ -35,6 +35,8 @@ tags:
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem combat Afrasiab
 
 Lorsque Rustem vit les hauts faits de Karen et comment les braves luttent et combattent, il tourna bride, courut auprès de Zal et lui dit :
