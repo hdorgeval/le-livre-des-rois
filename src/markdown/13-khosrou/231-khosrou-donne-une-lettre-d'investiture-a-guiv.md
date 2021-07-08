@@ -12,6 +12,8 @@ tags: []
 order: '231'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou donne une lettre d'investiture à Guiv
 
 Le sage Gouderz se leva et adressa au roi un discours plein de droiture, disant :
