@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir indique ses dernières volontés aux grands de l'Iran
 
 Le monde, depuis le Roum jusqu’à la Chine, du pays des Turcs jusqu’à l’Inde, était devenu, sous la main d’Ardeschir, brillant comme du satin roumi.
