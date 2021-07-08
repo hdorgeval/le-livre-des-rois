@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram lève l'interdiction du vin suite à l'aventure du petit cordonnier avec un lion
 
 Ainsi se passa une année entière ; tout le monde observait la défense du vin,4et le roi, quand il tenait une assemblée et qu’il faisait réciter d’anciens livres, ne buvait pas de vin et s’en tenait loin ; on n’en voyait pas la couleur, on n’en respirait pas le parfum.
