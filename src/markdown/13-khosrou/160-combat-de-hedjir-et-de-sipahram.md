@@ -12,6 +12,8 @@ tags: []
 order: '160'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Hedjir et de Sipahram
 
 Le septième des héros qui s’élance au combat fut Hedjir, un guerrier glorieux, un excellent cavalier.
