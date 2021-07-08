@@ -26,6 +26,8 @@ tags:
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal va voir Roudabeh
 
 Lorsque le soleil brillant eut disparu, qu’on eut fermé la porte du palais et qu’on en eut retiré la clef, l’esclave se rendit auprès de Destan fils de Sam et lui dit :
