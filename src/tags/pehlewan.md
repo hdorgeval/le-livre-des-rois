@@ -8,6 +8,8 @@ tags: [Pehlewan]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Pehlewan
 
 Le mot Pehlewan ou Pahalavan signifiait, dans l’origine, commandant des frontières;
