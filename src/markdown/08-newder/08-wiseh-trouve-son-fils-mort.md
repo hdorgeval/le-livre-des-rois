@@ -26,6 +26,8 @@ tags:
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Wiseh trouve son fils mort
 
 Wiseh, le chef de l’armée de Touran, se mit en route avec des troupes de grand renom et avides de combats.
