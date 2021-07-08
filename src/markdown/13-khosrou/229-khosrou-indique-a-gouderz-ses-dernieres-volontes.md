@@ -12,6 +12,8 @@ tags: []
 order: '229'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou indique à Gouderz ses dernieres volontés
 
 Le huitième jour le roi s’assit sur son trône, sans son collier, sa massue et son casque de Roum.
