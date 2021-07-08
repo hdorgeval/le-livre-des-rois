@@ -12,6 +12,8 @@ tags: []
 order: '133'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Houman demande à Piran la permission de combattre
 
 Dans le camp des Turcs, le vaillant Houman se rendit, furieux comme un lion, auprès de son frère et lui dit :
