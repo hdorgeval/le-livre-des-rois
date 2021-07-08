@@ -12,6 +12,8 @@ tags: ['Ahriman', 'âme', 'Bahram', 'Dieu', 'Iran', 'Keïanides']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Maintenant occupe-toi du diadème de Bahram, de ce roi qui n’est pas resté longtemps sur le trône.
