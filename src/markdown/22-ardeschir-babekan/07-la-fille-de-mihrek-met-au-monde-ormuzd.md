@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # La fille de Mihrek met au monde Ormuzd, fils de Schapour
 
 Il ne se passa pas beaucoup de temps avant que ce cyprès fût enceint comme une rose qui va fleurir.
