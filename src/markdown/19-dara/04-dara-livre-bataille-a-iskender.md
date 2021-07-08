@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Dara livre bataille à Iskender et est vaincu
 
 Lorsqlie le soleil leva la tête derrière le dos du corbeau de la nuit, la terre devint comme une lampe d’or; Dara, le maître du monde, réunit son armée,
