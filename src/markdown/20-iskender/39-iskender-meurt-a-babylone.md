@@ -12,6 +12,8 @@ tags: []
 order: '039'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender meurt à Babylone
 
 Lorsque l’armée connut la maladie du roi, le monde devint noir devant les yeux des grands; ils se dirigèrent vers le trône du pouvoir, et le monde
