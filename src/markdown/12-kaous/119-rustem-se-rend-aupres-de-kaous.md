@@ -12,6 +12,8 @@ tags: []
 order: '119'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem se rend auprès de Kaous
 
 Ensuite on apprit dans le Nimrouz, on dit devant le Pehlewan qui était la lumière du monde, que l’on avait entendu des cris dans le pays d’Iran, que la terre noire y avait tremblé, que Kaous avait répandu de la poussière sur son trône, qu’il avait déchiré ses robes royales, parce qu’on avait ignominieusement tranché la tête à Siawusch, parce que la tête du fils du roi avait été jetée dans la poussière.
