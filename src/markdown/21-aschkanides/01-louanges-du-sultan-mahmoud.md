@@ -37,6 +37,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Louanges du sultan Mahmoud
 
 Glorifie maintenant le roi du monde, qui jouit également des fêtes, des combats et du savoir, le maître de la terre, Aboul Kasim, le roi plein d’une sagesse qui fait prospérer tous ses desseins.
