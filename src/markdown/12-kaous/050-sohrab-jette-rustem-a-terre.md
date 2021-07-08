@@ -12,6 +12,8 @@ tags: []
 order: '050'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sohrab jette Rustem par terre
 
 Lorsque le soleil brillant leva sa tête et que le corbeau aux plumes noires plia ses ailles, Busteni se revêtit de sa cuirasse de peau de léopard et monta sur son dragon bondissant.
