@@ -12,6 +12,8 @@ tags: []
 order: '214'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab est pris par Houm, de la famille de Feridoun
 
 Pendant ce temps Afrasiab errait partout sans trouver de nourriture et de repos.
