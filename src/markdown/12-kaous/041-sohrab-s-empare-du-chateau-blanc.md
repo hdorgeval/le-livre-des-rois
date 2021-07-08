@@ -12,6 +12,8 @@ tags: []
 order: '041'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sohrab s'empare du château blanc
 
 Aussitôt’que le soleil se fut levé au-dessus des montagnes, l’armée du Touran se ceignit pour le combat et le Sipehdar Sohrab saisissant sa lance, monta sur un destrier rapide.
