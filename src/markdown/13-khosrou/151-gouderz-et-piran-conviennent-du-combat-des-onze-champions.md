@@ -12,6 +12,8 @@ tags: []
 order: '151'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gouderz et Piran conviennent du combat des onze champions
 
 Lorsque la terre fut devenue couleur d’ébène, on entendit dans les deux armées retentir les clairons et les timbales et les timbaliers assis sur le dos des éléphants quittèrent le champ de bataille.
