@@ -12,6 +12,8 @@ tags: []
 order: '025'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Hormuzd envoie à Bahram une boite à fuseaux et une robe de femme
 
 Le roi non plus n’était pas content de Bahram et sa colère lui obscurcissait l’esprit, d’abord pane que Bahram avait maltraité le Khakan et lui avait manqué de respect, ensuite à cause de sa hardiesse de s’approprier des choses précieuses qu’il n’avait pas la permission de prendre.
