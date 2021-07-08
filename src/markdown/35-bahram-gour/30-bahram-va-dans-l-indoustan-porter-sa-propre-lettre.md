@@ -12,6 +12,8 @@ tags: []
 order: '030'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram va dans l'Hindoustan porter sa propre lettre
 
 Le roi, ayant apposé son sceau sur la lettre, fit des préparatifs comme pour la chasse ; personne dans l’armée ne connaissait son secret, si ce n’est les grands qui (levaient l’accompagner.
