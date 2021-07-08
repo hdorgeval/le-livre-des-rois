@@ -12,6 +12,8 @@ tags: ['Arabes', 'Arabie', 'Chine', 'Dieu', 'Djemschid', 'Iran', 'Zohak']
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mort de Djemschid
 
 Après cela, de grands tumultes remplirent l’Iran et de tous côtés il n’y eut que combats et discordes ; le jour brillant et pur devint noir ; les hommes brisèrent les liens de Djemschid, la grâce de Dieu se retira de lui et il tomba dans la tyrannie et la démence.
