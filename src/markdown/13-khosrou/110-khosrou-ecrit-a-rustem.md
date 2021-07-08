@@ -12,6 +12,8 @@ tags: []
 order: '110'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou écrit à Rustem
 
 Le roi appela un écrivain, lui parla longuement de ce qui s’était passé et lui ordonna d’écrire une lettre comme un prince en écrit à un ami.
