@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schapour épouse la fille de Mihrek
 
 Écoute maintenant l’aventure de la fille de Mihrek avec le vaillant Schapour, qui frappait de l’épée.
