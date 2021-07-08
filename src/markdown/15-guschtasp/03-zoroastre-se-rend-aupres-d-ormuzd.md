@@ -88,6 +88,8 @@ tags:
 order: '03'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zoroastre se rend auprès d'Ormuzd [^1]
 
 Lorsque Zoroastre eut trente ans, son cœur le porta vers l'Iran: mais il ne fit alors qu'y passer.
