@@ -12,6 +12,8 @@ tags: []
 order: '040'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens vont au-devant de Bahram
 
 Lorsqu’on reçut dans l’Iran la nouvelle que le roi arrivait du Kanoudj avec son escorte, on lui prépara Mi des pavillons de fête sur les routes et dans les villes et chacun y contribua selon son On répandit de l’argent d’une frontière du pays à l’autre, de même du musc, de l’or et du safran.
