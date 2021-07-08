@@ -12,6 +12,8 @@ tags: []
 order: '029'
 ---
 
+<!-- LTeX: language=fr -->
+
 # On découvre les incantations de Zerwan et du juif et ils sont tous les deux mis à mort
 
 Il arriva que le maître du monde fit le plan d’aller à la chasse aux loups ; il fit amener un grand nombre de chevaux de chasse devant le .palais et aperçut la marque de Mahboud sur deux des chevaux qu’il examinait.
