@@ -36,6 +36,8 @@ tags:
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les grands rendent hommage à Keï Khosrou
 
 Lorsque le roi Keï Khosrou fut monté sur le trône, le monde entier se ressentit de son influence.
