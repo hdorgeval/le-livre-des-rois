@@ -12,6 +12,8 @@ tags: []
 order: '023'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Kaïsar envoie à Khosrou une armée et sa fille
 
 Lorsque le Kaisar eut appris que son armée était arrivée et que le monde était obscurci par la poussière soulevée par ses cavaliers, il choisit parmi ses Roumis cent mille hommes, tous illustrés par des combats.
