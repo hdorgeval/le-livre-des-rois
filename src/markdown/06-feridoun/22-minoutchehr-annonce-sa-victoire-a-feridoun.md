@@ -26,6 +26,8 @@ tags:
 order: '022'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Minoutchehr annonce sa victoire à Feridoun
 
 Il écrivit une lettre au roi Feridoun, lui rendant compte des événements heureux et malheureux de la guerre.
