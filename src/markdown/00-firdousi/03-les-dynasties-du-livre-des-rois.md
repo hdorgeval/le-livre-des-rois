@@ -28,6 +28,8 @@ tags:
 order: '3'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les dynasties du livre des rois
 
 Rappelons-en ici les grandes divisions, la longueur consacrée à chacune étant très inégale. L'histoire légendaire des Iraniens, que Firdousi répartit en cinquante règnes, énumère la succession de quatre dynasties :
