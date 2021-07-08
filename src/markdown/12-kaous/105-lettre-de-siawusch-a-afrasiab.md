@@ -12,6 +12,8 @@ tags: []
 order: '105'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Siawusch à Afrasiab
 
 Siawusch fit appeler un scribe intelligent et lui dicta une longue lettre.
