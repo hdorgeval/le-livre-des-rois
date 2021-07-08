@@ -12,6 +12,8 @@ tags: []
 order: '129'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv porte à Piran un message de Gouderz
 
 Arrivé à Reibed, Gouderz choisit les chefs de l’armée les plus vaillants, des cavaliers iraniens éprouvés, des hommes éloquents et prêts au combat ; il choisit ainsi, parmi les plus illustres héros, mille braves LE LIVRE ses Bois. armés de poignards ; ensuite il appela Guiv sur le front de l’armée et lui répéta tout ce que le roi lui avait dit : Ô mon prudent fils, toi qui élèves ta tête au-dessus de beaucoup de têtes, je t’ai choisi parmi toute cette armée, parmi des hommes dignes de régner sur tous les pays de la terre, pour t’envoyer auprès de Piran, à qui tu parleras et dont tu écouteras la réponse.
