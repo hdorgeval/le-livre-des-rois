@@ -34,6 +34,8 @@ tags:
 order: '74'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Rustem et Isfendiar
 
 Lorsqu’il fit jour, Rustem revêtit une cotte de mailles par-dessus laquelle il mit sa cuirasse de peau de léopard pour protéger son corps, il attacha le lacet au crochet de la selle, et monta sur son destrier, qui ressemblait à un éléphant.
