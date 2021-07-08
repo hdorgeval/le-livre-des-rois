@@ -35,6 +35,8 @@ tags:
 order: '52'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar tue Kehrem
 
 Quand la lune fut assise sur son trône d’argent, et quand trois veilles de la nuit sombre furent passées, le gardien cria d’une voix forte sur les murs du palais:
