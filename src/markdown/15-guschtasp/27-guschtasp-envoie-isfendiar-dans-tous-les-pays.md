@@ -29,6 +29,8 @@ tags:
 order: '27'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp envoie Isfendiar dans tous les pays pour les convertir à la religion de Zerdouscht [^1]
 
 Alors le héros illustre s’assit sur son trône royal; il donna accès aux grands de son empire, aux puissants, aux princes de naissance royale.
