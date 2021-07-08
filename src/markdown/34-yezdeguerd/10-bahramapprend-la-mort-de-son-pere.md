@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Gour apprend la mort de son père
 
 Ensuite Bahram Gour reçut la nouvelle du mau-vais sort que le ciel avait infligé au trône.
