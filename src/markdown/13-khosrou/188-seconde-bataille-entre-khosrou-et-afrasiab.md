@@ -12,6 +12,8 @@ tags: []
 order: '188'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Seconde bataille entre Keï Khosrou et Afrasiab
 
 À l’aube du jour, à l’heure où l’on entend le coq, le bruit des timbales monta dans l’air du palais d’Afrasiab, une armée sortit de Gangue dans le désert, une armée telle que la place manquait aux fourmis et aux mouches ; elle s’approcha du Gulzarrioun et la terre devint comme le mont Bisoutonn ; elle marcha trois jours et trois nuits ; le monde se remplit de terreur, de désordre et de rapine ; elle étendit ses rangs sur sept farsangs ; elle était plus nombreuse que les fourmis et les sauterelles.
