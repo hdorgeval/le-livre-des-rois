@@ -12,6 +12,8 @@ tags: []
 order: '124'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tue Pilsem
 
 Pilsem se rendit au centre de l’armée.
