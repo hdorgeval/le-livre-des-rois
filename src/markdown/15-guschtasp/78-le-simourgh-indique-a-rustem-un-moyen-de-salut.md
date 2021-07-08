@@ -18,6 +18,8 @@ tags: ['âme', 'Isfendiar', 'Pehlewan', 'Raksch', 'Rustem', 'Simourgh', 'Sipehbe
 order: '78'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Simourgh indique à Rustem un moyen de salut
 
 Tous les trois étant convenus de ce plan hardi, le Sipehbed Zal monta sur une haute montagne;
