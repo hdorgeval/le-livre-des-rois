@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Yezdegird à Mahouï Souri et aux Merzebans du Khorasan
 
 Lorisque le maître du monde se dirigeait vers Merve, se rendant chez Mahouï Souri, gouverneur de ce pays, il lui adressa une lettre pleine de tristesse et d’émotion.
