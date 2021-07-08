@@ -35,6 +35,8 @@ tags:
 order: '020'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal va en ambassade auprès de Minoutchehr
 
 Ils mandèrent un scribe et se concertèrent sur toutes choses.
