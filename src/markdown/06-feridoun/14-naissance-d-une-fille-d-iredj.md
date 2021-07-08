@@ -12,6 +12,8 @@ tags: ['âme', 'Djemschid', 'Feridoun', 'Iredj', 'Mahaferid', 'Pescheng', 'Péri
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance d'une fille d'Iredj
 
 Quelque temps s’étant ainsi passé, le roi visita l’appartement des femmes d’Iredj ; il le parcourut en entier et passa devant toutes les femmes à la face de lune.
