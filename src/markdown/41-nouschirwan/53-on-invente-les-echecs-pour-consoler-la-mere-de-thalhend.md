@@ -12,6 +12,8 @@ tags: []
 order: '053'
 ---
 
+<!-- LTeX: language=fr -->
+
 # On invente les échecs pour consoler La mère de Thalhend
 
 Gau envoya des cavaliers partout où il y avaitvun v1. 35h
