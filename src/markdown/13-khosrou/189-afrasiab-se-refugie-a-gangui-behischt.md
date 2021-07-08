@@ -12,6 +12,8 @@ tags: []
 order: '189'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab se réfugie à Gangui-Behischt
 
 La nuit était noire comme le visage d’un nègre, lorsqu’un messager de Gustehem fils de Newder arriva auprès de Khosrou, disant :
