@@ -12,6 +12,8 @@ tags: []
 order: '016'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guerre contre le roi du Hamaveran
 
 Je vais conter ce que j’ai appris d’un Mobcd et d’un vieillard issu d’une famille de Dihkans.
