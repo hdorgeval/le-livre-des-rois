@@ -12,6 +12,8 @@ tags: []
 order: '232'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou donne une investiture à Thous
 
 Gouderz s’assit et Thous se leva, s’avança vers Khosrou, baisa la terre et dit :
