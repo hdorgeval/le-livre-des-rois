@@ -12,6 +12,8 @@ tags: []
 order: '075'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab fait interpréter son songe
 
 Tous ceux qui connaissaient cet art, qu’ils fussent éloignés ou qu’ils fussent auprès de la cour du roi, se rassemblèrent dans le palais du maître pour entendre ce que le roi avait à leur demander.
