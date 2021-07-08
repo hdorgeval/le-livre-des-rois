@@ -12,6 +12,8 @@ tags: []
 order: '190'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab écrit au Faghfour de la Chine
 
 On écrivit une lettre au Faghfour de la Chine, auquel le roi, après mille salutations, dit :
