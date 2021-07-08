@@ -37,6 +37,8 @@ tags:
 order: '042'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Touraniens emploient la magie contre les Iraniens
 
 Il y avait parmi les Turcs un homme nommé Bazour, qui avait en tout pays exercé la magie, qui avait appris les ruses et l’art des enchantements et savait le pehlewi et le chinois.
