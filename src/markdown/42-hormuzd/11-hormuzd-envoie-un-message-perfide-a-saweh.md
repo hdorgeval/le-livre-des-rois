@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Hormuzd envoie un message perfide au roi Saweh
 
 Hormuzd était dans la peine par les soucis que lui donnaient l’armée, les éléphants et les trésors de Sa ; weh ; son cœur était plein de doute et Bahram le remplit de douleur et d’inquiétude.
