@@ -12,6 +12,8 @@ tags: []
 order: '060'
 ---
 
+<!-- LTeX: language=fr -->
+
 # La mère de Siawusch meurt
 
 Lorsque ceci fut accompli selon les ordres du roi, la mère de Siawusch quitta ce monde et son fils abandonna son trône comme un insensé et fit monter jusqu’au ciel qui tourne ses cris de douleur.
