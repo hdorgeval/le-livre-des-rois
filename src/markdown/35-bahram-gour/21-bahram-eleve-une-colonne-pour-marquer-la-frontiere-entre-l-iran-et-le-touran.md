@@ -12,6 +12,8 @@ tags: []
 order: '021'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram élève une colonne pour marquer la frontière entre l'Iran et le Touran
 
 Bahram Gour se reposa à Merv et lorsque le roi et les chevaux de guerre eurent repris leurs forces, il devint guerroyant, de pacifique qu’il avait été et se décida à attaquer Bokhara.
