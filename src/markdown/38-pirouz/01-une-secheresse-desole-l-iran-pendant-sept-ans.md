@@ -12,6 +12,8 @@ tags: ['Dieu', 'Djemschid', 'Ferwerdin', 'Hormuz', 'Iran', 'Keïanides', 'Mobeds
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Une sécheresse désole l'Iran pendant sept ans
 
 Lorsque Pirouz eut le cœur en repos sur Hormuz et que son esprit fut délivré de ses soucis, il monta sur le trône des Keïanides, comme il convient à un roi adorateur de Dieu.
