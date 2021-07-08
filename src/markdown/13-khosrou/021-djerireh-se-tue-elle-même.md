@@ -38,6 +38,8 @@ tags:
 order: '021'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Djerireh se tue elle même
 
 Lorsque Firoud, le fils de Siawusch, qui n’avait pas atteint son but et la gloire qu’il cherchait, eut quitté ce monde qui ne lui avait pas tenu ses promesses, ses esclaves montèrent sur le portail du château et se précipitèrent en bas.
