@@ -37,6 +37,8 @@ tags:
 order: '26'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp s'en retourne à Balkh
 
 Le Keïanide illustre, le vaillant roi Guschtasp s’en retourna du champ de bataille à Balkh, et ordonna à son Destour de mettre le lendemain matin l’armée en marche vers le glorieux pays d’Iran.
