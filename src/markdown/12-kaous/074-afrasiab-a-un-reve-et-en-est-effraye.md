@@ -12,6 +12,8 @@ tags: []
 order: '074'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab a un rêve et en est effrayé
 
 On couvrit toute la plaine de pavillons et tout le Soghd fut paré selon la manière des Chinois.
