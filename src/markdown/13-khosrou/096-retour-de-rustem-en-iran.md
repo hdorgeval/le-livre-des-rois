@@ -12,6 +12,8 @@ tags: []
 order: '096'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Retour de Rustem en Iran
 
 Rustem ayant tranché la tête au Div, monta sur son cheval qui ressemblait à une montagne, réunit les troupeaux de chevaux et tous les bagages que les Turcs avaient laissés et se mit en marche avec les éléphants et ce riche butin ;
