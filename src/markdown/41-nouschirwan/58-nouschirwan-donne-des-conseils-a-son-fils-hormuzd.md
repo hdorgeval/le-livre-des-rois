@@ -12,6 +12,8 @@ tags: []
 order: '058'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan donne des conseils à son fils Hormuzd
 
 Kesra fit venir un scribe et lui ordonna d’écrire une lettre qui devait charmer les cœurs, de la part du puissant roi au visage de soleil, du grand roi, au gré duquel tourne le ciel, du maître du monde juste et bienfaisant, qui répand ses trésors librement, qui a dépassé la gloire de Kobad et agrandison trône, du maître de la couronne et du glaive de la justice, du glorieux, du puissant, du savant, du renommé, à qui le trône du pouvoir a fait obtenir tout ce qu’il désirait, à son fils chéri, Hormuzd, qui accueille tous les conseils que lui donne mon cœur.
