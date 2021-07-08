@@ -25,6 +25,8 @@ tags:
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de Zohak et de son père
 
 Il y avait dans ce temps un homme vivant dans le désert des cavaliers armés de lances : c’était un grand roi et un homme vertueux, qui s’humiliait dans la crainte de Dieu, le maître du monde.
