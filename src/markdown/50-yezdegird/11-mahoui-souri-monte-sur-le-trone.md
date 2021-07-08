@@ -12,6 +12,8 @@ tags: []
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mahouï Souri monte sur le trône
 
 Quelqu’un se présenta chez Mahouî Souri et lui dit :
