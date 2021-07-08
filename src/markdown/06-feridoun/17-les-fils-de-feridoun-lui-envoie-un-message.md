@@ -12,6 +12,8 @@ tags: ['cyprès', 'Feridoun', 'Keïanides', 'Minoutchehr', 'Roum', 'Schapour', '
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les fils de Feridoun lui envoient un message
 
 Le messager partit, le cœur rempli de ce discours et ne voyant pas comment cette affaire commencerait ni comment elle finirait.
