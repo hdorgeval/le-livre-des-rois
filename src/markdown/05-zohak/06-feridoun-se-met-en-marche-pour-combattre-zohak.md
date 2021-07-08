@@ -34,6 +34,8 @@ tags:
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feridoun se met en marche pour combattre Zohak
 
 Feridoun leva sa tête jusqu’au soleil et se ceignit étroitement pour venger son père.
