@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen fait marcher son armée contre Mahouï Souri
 
 Telle était la situation, lorsque Bijen apprit que MahOuï Souri s’était emparé de la royauté et que, répandant partout ses ordres revétusdu sceau royal, il soumettait le monde à son autorité ; enfin qu’il se dirigeait vert l’Oxus pour combattre à la tête d’une vaillante armée.
