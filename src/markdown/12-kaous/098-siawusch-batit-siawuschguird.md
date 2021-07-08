@@ -12,6 +12,8 @@ tags: []
 order: '098'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch bâtit Siawuschguird
 
 Une nuit, arriva courant comme une flamme, un messager d’Afrasiab monté sur un dromadaire :
