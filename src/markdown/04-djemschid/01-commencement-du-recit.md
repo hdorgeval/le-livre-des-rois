@@ -29,6 +29,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Djemschid, son fils glorieux, plein d’énergie et le cœur rempli des conseils de son père, monta sur le trône brillant de Thahmouras, la couronne d’or sur la tête, selon la coutume des rois ; il était ceint de la splendeur impériale et l’univers entier se soumit à lui.
