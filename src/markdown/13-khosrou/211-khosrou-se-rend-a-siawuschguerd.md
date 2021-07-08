@@ -12,6 +12,8 @@ tags: []
 order: '211'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou se rend à Siawuschguerd
 
 Au moment où se réveille le coq, on entendit le son des timbales s’élever du palais et une armée us empressée et avide de partir se mit en route vers le désert.
