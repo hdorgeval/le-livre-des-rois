@@ -12,6 +12,8 @@ tags: []
 order: '217'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab est pris pour la seconde fois et mis à mort avec Guersiwez
 
 Pendant que ces deux princes se parlaient ainsi, l’esprit du dévot Houm cherchait une ruse.
