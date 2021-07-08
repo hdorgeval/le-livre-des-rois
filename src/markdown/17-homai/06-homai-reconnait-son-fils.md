@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Homaï reconnait son fils
 
 Darab, couvert de louanges,- et Beschnewad s’en revinrent joyeusement. A une des stations, ils arri- vèrent à cette voûte en ruines dans laquelle Besch- newad avait trouvé Darab endormi; la femme du blanchisseur et son mari, qui apportaient le joyau,
