@@ -12,4 +12,6 @@ tags: []
 order: '126'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire du combat des douze champions 
