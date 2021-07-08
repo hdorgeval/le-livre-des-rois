@@ -29,6 +29,8 @@ tags:
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou envoie Rustem dans l'Inde
 
 Aussitôt que le retour du jour eut couvert les montagnes d’une teinte de sandaraque et que la voix du coq se fut élevée vers les nues, Rustem, accompagné de Zewareh et de Faramourz, se rendit auprès du roi et lui parla de l’Iran, du trône et de la couronne et ils délibérèrent sur toute chose, grande et petite.
