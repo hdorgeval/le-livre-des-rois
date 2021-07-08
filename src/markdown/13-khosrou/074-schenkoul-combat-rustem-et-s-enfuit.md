@@ -37,6 +37,8 @@ tags:
 order: '074'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schenkoul combat Rustem et s'enfuit
 
 Schenkoul devançait l’armée en poussant des cris et en disant :
