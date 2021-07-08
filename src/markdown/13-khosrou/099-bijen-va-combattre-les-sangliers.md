@@ -12,6 +12,8 @@ tags: []
 order: '099'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen va combattre les sangliers
 
 Bijen s’arma pour le départ ;
