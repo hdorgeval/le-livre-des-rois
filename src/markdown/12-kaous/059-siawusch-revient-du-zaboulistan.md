@@ -12,6 +12,8 @@ tags: []
 order: '059'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch revient du Zaboulistan
 
 Lorsque le roi Kaous sut que Siawusch revenait avec pompe, il ordonna que Guiv et Thous allassent joyeusement au-devant de lui avec un cortège, avec des clairons et des timbales.
