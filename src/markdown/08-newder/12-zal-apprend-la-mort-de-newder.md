@@ -39,6 +39,8 @@ tags:
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal apprend la mort de Newder
 
 On porta à Kustehem et à Thous la nouvelle que la gloire des rois était obscurcie, qu’on avait coupé avec l’épée tranchante la tête de leur malheureux père et que tout était fini.
