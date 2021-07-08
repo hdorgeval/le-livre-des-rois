@@ -12,6 +12,8 @@ tags: []
 order: '021'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh demande à Hormuzd une lettre de protection pour Parmoudeh
 
 Il fut écrit alors à Hormuzd, le Grand Roi, une lettre qui pouvait porter de bons fruits et qui disait :
