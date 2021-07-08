@@ -33,6 +33,8 @@ tags:
 order: '057'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Guiv et de Thous contre Kamous
 
 Lorsque le soleil posa ses doigts sur le dos du taureau qui supporte le monde et que le chant de l’alouette s’éleva de la plaine, il sortit un cri de la tente de Kamous qui était avide de carnage et de marcher le premier.
