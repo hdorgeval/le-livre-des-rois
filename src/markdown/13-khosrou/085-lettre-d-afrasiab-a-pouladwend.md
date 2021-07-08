@@ -54,6 +54,8 @@ tags:
 order: '085'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Afrasiab à Pouladwend
 
 Afrasiab sortit de son palais et se rendit dans la plaine ;
