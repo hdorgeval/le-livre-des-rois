@@ -30,6 +30,8 @@ tags:
 order: '033'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem écrit à Zal pour lui annoncer sa victoire
 
 Rustem se mit à écrire une lettre à son père, pour lui rendre compte de tout ce qu’il avait entrepris et achevé.
