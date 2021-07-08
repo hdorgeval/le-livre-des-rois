@@ -12,6 +12,8 @@ tags: []
 order: '155'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Guiv et de Gerouï Zereh
 
 Ensuite Guerouï Zereh le vaillant héros s’avança contre Guiv fils de Gouderz ; ils se combattirent longtemps avec la lance et mêlèrent leur sang avec la poussière ; le fer des lances se brisa entre les mains des cavaliers dans ce terrible combat ; ils saisirent l’arc et les flèches de bois de peuplier et se jetèrent l’un sur l’autre semblables à des crocodiles.
