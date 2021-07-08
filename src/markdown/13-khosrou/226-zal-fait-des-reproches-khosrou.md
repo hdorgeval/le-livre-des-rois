@@ -12,6 +12,8 @@ tags: []
 order: '226'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal fait des reproches à Keï Khosrou
 
 Zal, à ces paroles, se mit debout et dit :
