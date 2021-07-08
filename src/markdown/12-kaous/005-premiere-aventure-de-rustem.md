@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # 1ère aventure -Raksch combat un lion
 
 Le preux qui était la gloire du monde quitta son père et le pays de Nimrouz.
