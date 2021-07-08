@@ -12,6 +12,8 @@ tags: ['Dieu', 'Houscheng']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Houscheng, le maître du monde, le prudent, le juste, mit la couronne sur sa tête à la place de son grand-père et le ciel tourna pendant quarante ans sur sa tête.
