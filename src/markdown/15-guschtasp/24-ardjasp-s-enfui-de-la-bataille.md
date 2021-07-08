@@ -26,6 +26,8 @@ tags:
 order: '24'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardjasp s'enfui de la bataille
 
 Ayant ainsi mené à bonne fin cette noble vengeance, Isfendiar fit placer une selle sur le cheval de Zerir, retourna au champ de bataille et divisa l’armée du Keïanide en trois corps.
