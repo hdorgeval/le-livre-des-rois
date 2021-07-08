@@ -12,6 +12,8 @@ tags: []
 order: '117'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem se rend à Khoten auprès de Piran
 
 Quand le capitaine des gardes parut à la porte du palais, les héros prirent les armes pendant qu’il était encore nuit et se mirent à la tête des troupes.
