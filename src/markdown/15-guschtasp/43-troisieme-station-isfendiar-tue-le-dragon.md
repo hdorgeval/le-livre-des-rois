@@ -24,6 +24,8 @@ tags:
 order: '43'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Troisème Station - Isfendiar tue le dragon
 
 Alors Isfendiar ordonna que le méchant et malheureux Kergsar parût devant lui.
