@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bendouï s'enfuit de chez Bahram
 
 Bendouî resta dans la prison de Bahram, enchaîné comme un guépard, pendant soixante et dix jours.
