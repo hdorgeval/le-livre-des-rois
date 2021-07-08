@@ -12,6 +12,8 @@ tags: []
 order: '141'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nestihen fait une attaque de nuit et y périt
 
 Piran, de son côté, était en fureur ; son cœur était blessé par la douleur, ses yeux se remplissaient de larmes.
