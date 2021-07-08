@@ -12,6 +12,8 @@ tags: []
 order: '057'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de la mère de Siawusch
 
 Voici ce que dit le Mobed :
