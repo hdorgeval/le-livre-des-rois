@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Mihran à Keïd
 
 Mihran, ayant écouté ce discours de Keïd, lui
