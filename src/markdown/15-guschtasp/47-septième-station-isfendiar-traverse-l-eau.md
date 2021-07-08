@@ -39,6 +39,8 @@ tags:
 order: '47'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Septième Station - Isfendiar traverse l'eau et tue Kergsar
 
 Quand une veille de la nuit sombre fut passée, de la tête de la colonne on entendit des clameurs confuses.
