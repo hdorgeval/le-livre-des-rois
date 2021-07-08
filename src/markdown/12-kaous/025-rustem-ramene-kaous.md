@@ -12,6 +12,8 @@ tags: []
 order: '025'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem ramène Kaous
 
 Pendant que Kaous demandait ainsi à Dieu grâce pour ses péchés, son armée le cherchait de tous côtés.
