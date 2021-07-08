@@ -46,6 +46,8 @@ tags:
 order: '31'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp se rend dans le Séistan et Ardjasp réunit de nouveau son armée
 
 Ainsi se passa un long temps pendant lequel le roi se rendit dans le Séistan [^1], pour y introduire le Zendavesta et en prendre pour témoins les Mobeds.
