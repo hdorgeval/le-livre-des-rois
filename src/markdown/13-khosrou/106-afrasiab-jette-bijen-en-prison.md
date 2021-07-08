@@ -12,6 +12,8 @@ tags: []
 order: '106'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab jette Bijen en prison
 
 Afrasiab donna ses ordres à Guersiwez et lui dit :
