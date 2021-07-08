@@ -12,6 +12,8 @@ tags: []
 order: '036'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan offre sa fille en mariage à Nouschirwan
 
 Le Khakan écouta ces récits, il en pâlit et devint comme la fleur du fenugrec.
