@@ -12,6 +12,8 @@ tags: []
 order: '131'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les deux armées forment une ligne de bataille
 
 Guiv arriva auprès de son père et lui rapporta 5 de point en point la réponse qu’il avait reçue, en disant :
