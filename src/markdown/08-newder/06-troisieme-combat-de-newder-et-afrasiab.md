@@ -41,6 +41,8 @@ tags:
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Troisième combat de Newder et d'Afrasiab
 
 Pendant deux jours l’armée se reposa ; mais le troisième, aussitôt que l’astre qui éclaire le monde eut paru, il fut impossible au roi de retarder le combat ; il n’y avait plus moyen de l’éviter, car Afrasiab attaqua l’armée de Newder comme une mer furieuse.
