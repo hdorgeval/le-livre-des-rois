@@ -12,6 +12,8 @@ tags: []
 order: '032'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram combat un lutteur à la cour de Schenguil
 
 Sc’henguil répondit à ces paroles de Bahram :
