@@ -12,6 +12,8 @@ tags: []
 order: '140'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv fait Piran prisonnier
 
 À ces paroles, Piran se sentit enflammé de colère ; le sang de son cœur bouillonna et ses yeux se remplirent de larmes.
