@@ -12,6 +12,8 @@ tags: ['âme', 'Dieu', 'Iran', 'Mihrab', 'Minoutchehr', 'Mobeds', 'Pehlewan', 'S
 order: '023'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal porte la lettre de Sam à Minoutchehr
 
 Maintenant écoute ce qui arriva à Zal dans son voyage à la cour de Minoutchehr le fortuné.
