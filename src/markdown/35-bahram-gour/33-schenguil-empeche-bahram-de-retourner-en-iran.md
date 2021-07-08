@@ -12,6 +12,8 @@ tags: []
 order: '033'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schenguil empêche Bahram de retourner en Iran
 
 Schenguil conçut des soupçons sur Bahram ; il se dit :
