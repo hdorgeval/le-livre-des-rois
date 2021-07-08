@@ -12,6 +12,8 @@ tags: []
 order: '113'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem se rend auprès de Khosrou
 
 Le quatrième jour ils firent les apprêts du départ, car le temps était arrivé.
