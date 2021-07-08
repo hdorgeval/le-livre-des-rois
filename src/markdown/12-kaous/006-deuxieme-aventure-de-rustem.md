@@ -12,6 +12,8 @@ tags: []
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # 2ème aventure -Raksch trouve une source
 
 Rustem avait devant lui un chemin difficile qu’il fallait traverser en toute hâte.
