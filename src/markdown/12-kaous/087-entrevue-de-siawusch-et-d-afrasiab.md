@@ -12,6 +12,8 @@ tags: []
 order: '087'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Entrevue de Siawusch et d'Afrasiab
 
 Lorsque Afrasiab apprit que Siawusch arrivait en grande pompe, il courut à pied de la salle d’au-dience jusque dans la rue, ceint au milieu du corps et la tête remplie d’impatience.
