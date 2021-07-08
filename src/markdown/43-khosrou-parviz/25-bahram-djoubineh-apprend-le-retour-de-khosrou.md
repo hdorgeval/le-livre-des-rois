@@ -12,6 +12,8 @@ tags: []
 order: '025'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram Djoubineh apprend le retour de Khosrou
 
 Lorsque Bahram reçut la nouvelle que la majesté du roi des rois brillait d’un nouvel éclat, il jeta les yeux sur un homme illustre de son armée, un .homme savant et honoré, du nom de Dura Penah, qui lui était tout dévoué.
