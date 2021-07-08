@@ -34,6 +34,8 @@ tags:
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les esclaves de Roudabeh voient Zal-Zer
 
 Les esclaves la quittèrent en courant, et, dans leur désespoir, s’appliquèrent à leur ruse.
