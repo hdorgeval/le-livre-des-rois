@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement de l'histoire des Aschkanides
 
 Maintenant, ô vieux poète !
