@@ -12,6 +12,8 @@ tags: []
 order: '144'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou passe le Djihoun
 
 Guiv dit au roi :
