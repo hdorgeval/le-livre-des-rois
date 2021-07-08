@@ -12,6 +12,8 @@ tags: []
 order: '057'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventures de Khosrou et de Schirin, commencement du récit
 
 Le livre ancien qui raconte les paroles et les actions des hommes de bien a vieilli et j’en fais un livre nouveau, de manière à rappeler la mémoire de ces hommes qui portaient haut la tête ; il sera composé de six fois dix mille distiques, en belles paroles propres à consoler dans les chagrins.
