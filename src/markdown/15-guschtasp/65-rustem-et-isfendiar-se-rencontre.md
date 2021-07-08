@@ -43,6 +43,8 @@ tags:
 order: '65'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem et Isfendiar se rencontrent
 
 Le fortuné Isfendiar fit seller son cheval noir et lui fit mettre une selle d’or;
