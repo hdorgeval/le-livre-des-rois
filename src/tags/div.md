@@ -8,6 +8,8 @@ tags: [Div, Dew, Divs, Dews]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Div ou Dew
 
 Démon à figure humaine disciple d'Ahriman.
