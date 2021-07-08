@@ -41,6 +41,8 @@ tags:
 order: '018'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Feridoun à ses fils
 
 Aussitôt que le roi, maître du monde, eut entendu ce message de ses deux fils aux intentions sinistres, il répondit au noble messager point pour point :
