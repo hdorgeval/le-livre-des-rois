@@ -36,6 +36,8 @@ tags:
 order: '019'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feridoun envoie Minoutchehr pour combattre Tour et Selm
 
 Feridoun reçut sur-le-champ la nouvelle qu’une armée avait passé le Djihoun et ordonna que Minoutchehr s’avançât avec son armée de la frontière dans le désert.
