@@ -8,6 +8,8 @@ tags: [Thehour]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Thehour
 
 Roi de l'île de Besla dans la mer de Madjin.
