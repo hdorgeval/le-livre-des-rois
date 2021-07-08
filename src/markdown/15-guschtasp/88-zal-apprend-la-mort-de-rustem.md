@@ -32,6 +32,8 @@ tags:
 order: '88'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal apprend la mort de Rustem
 
 Un seul de ces cavaliers illustres s’échappa, marchant tantôt à pied, tantôt à cheval;
