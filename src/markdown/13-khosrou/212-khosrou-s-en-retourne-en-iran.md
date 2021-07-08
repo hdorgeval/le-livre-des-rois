@@ -12,6 +12,8 @@ tags: []
 order: '212'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou ss'en retourne du Touran en Iran
 
 Après son long séjour à Gangue, il sentit le besoin de revoir Kaous ; il confia le commandement de ce pays à Gustehem fils de Newder, depuis Kaschgar jusqu’à la mer de la Chine et lui laissa une armée innombrable, disant :
