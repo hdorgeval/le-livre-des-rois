@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kobad s'enfuit et prend refuge chez les Heïtaliens
 
 ’âme de Kobad fut rassurée par Rezmihr et les paroles de cet homme intelligent lui rendirent le bonheur.
