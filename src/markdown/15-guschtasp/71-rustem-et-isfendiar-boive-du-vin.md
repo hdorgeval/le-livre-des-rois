@@ -35,6 +35,8 @@ tags:
 order: '71'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem et Isfendiar boivent du vin
 
 Isfendiar lui répondit:
