@@ -37,6 +37,8 @@ tags:
 order: '087'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Rustem contre Pouladwend
 
 Rustem fut attristé de ces nouvelles ; il tremblait comme une feuille d’arbre, il s’approcha de Pouladwend et vit qu’il ressemblait à une haute montagne.
