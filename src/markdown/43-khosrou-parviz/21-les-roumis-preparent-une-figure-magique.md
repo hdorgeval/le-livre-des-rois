@@ -12,6 +12,8 @@ tags: []
 order: '021'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Roumis préparent une figure magique et soumettent les Iraniens à une épreuve
 
 Lorsque le soleil qui tourne eut pâli et que l’astre I eut paru dans la constellation de Sirius, le Kaisar ordonna aux magiciens de réfléchir longuement.
