@@ -12,6 +12,8 @@ tags: []
 order: '032'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender voit un mort dans un palais de topazes
 
 Il continua sa marche en grande diligence pen- dant un mois, et le roi et son armée furent fatigués
