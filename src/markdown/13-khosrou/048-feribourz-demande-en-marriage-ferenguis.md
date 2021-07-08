@@ -33,6 +33,8 @@ tags:
 order: '048'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feribourz demande en marriage Ferenguis, la mère de Khosrou
 
 Feribourz lui répondit :
