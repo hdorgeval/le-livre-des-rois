@@ -12,6 +12,8 @@ tags: []
 order: '121'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem attaque de nuit le palais d'Afrasiab
 
 Les héros partirent et arrivèrent au palais d’Afrasiab à l’heure du repos et au temps du sommeil ; ils jetèrent les brides sur les selles des chevaux et tirèrent tous l’épée de la vengeance.
