@@ -12,6 +12,8 @@ tags: []
 order: '036'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sohrab choisit un cheval
 
 Ensuite le vaillant Sohrab dit à sa mère :
