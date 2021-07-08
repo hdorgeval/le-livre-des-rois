@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Yezdeguerd fait enfermer Bahram
 
 -0r un jour Bahram se tenait devant le roi, dans la salle des festins et ayant été longtemps debout, il finit par avoir sommeil et être impatient de rester ainsi.
