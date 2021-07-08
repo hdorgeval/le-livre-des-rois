@@ -12,6 +12,8 @@ tags: []
 order: '092'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou appelle Rustem à son aide contre le div Akwan
 
 Le Dihkan qui raconte les traditions a dit :
