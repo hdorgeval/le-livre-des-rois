@@ -12,6 +12,8 @@ tags: []
 order: '044'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Buzurdjmihr invente le jeu du Nard (Trictrac) et Nouschirwan l'envoie en Inde
 
 Le sage se retira dans l’intérieur de sa maison, !
