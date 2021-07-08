@@ -12,6 +12,8 @@ tags: []
 order: '143'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv dispute avec le percepteur du péage
 
 Piran s’achemina tristement vers le Khoten et le puissant roi prit en toute hâte la route opposée ; lui et ses braves marchèrent vers le Djihoun et de colère il traînait le pan de sa robe dans le sang.
