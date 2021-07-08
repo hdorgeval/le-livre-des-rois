@@ -55,6 +55,8 @@ tags:
 order: '57'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Guschtasp
 
 Le roi répondit à son fils:
