@@ -12,6 +12,8 @@ tags: []
 order: '034'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram combat un loup et le tue
 
 Il y avait dans le pays du roi un loup qui était si grand qu’il empêchait le vent de passer.
