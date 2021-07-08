@@ -12,6 +12,8 @@ tags: []
 order: '060'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schirin tue Mariam et Khosrou met Schirouï en prison
 
 Plus tard la puissance du roi augmenta encore et ce qui avait été la lune devint le soleil.
