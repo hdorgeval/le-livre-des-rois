@@ -12,6 +12,8 @@ tags: []
 order: '112'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem donne une fête à Guiv
 
 De la ils s’acheminèrent vers le palais de Rustem et délibérèrent en route sur leur prochain départ.
