@@ -12,6 +12,8 @@ tags: []
 order: '026'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sixième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds
 
 Le roi laissa passer de nouveau une semaine, puis il ordonna de parer la cour.
