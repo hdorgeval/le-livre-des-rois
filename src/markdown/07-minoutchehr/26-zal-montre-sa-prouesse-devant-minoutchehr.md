@@ -12,6 +12,8 @@ tags: ['Destan', 'Mihrab', 'Minoutchehr', 'Neriman', 'Pehlewans', 'Sam', 'Sipehb
 order: '026'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal montre sa prouesse devant Minoutchehr
 
 Lorsque Zal eut prononcé ces paroles, le roi en fut ravi dans son cœur.
