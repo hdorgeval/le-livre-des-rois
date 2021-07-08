@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender met à l'épreuve le sage, le médecin et la coupe de Keïd
 
 Lorsque l’affaire de ce cyprès élancé fut terminée
