@@ -12,6 +12,8 @@ tags: []
 order: '069'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou devient le prisonnier de son fils Schirouïeh
 
 Khosrou resta sur cette prairie, où un grand arbre lui donnait de l’ombre ; la moitié de la longue journée s’étant écoulée, le roi eut besoin de pain.
