@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Saweh envoie un nouveau message à Bahram Djoubineh
 
 Encore une fois un messager, homme éloquent et rusé du pays de Herat, arriva auprès de Bahram et ha
