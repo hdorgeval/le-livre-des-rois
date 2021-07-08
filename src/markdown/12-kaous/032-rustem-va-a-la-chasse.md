@@ -12,6 +12,8 @@ tags: []
 order: '032'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem va à la chasse
 
 Je vais raconter, selon les paroles du Dihkan, une histoire tirée des récits des anciens.
