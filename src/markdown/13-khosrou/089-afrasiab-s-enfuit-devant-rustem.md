@@ -12,6 +12,8 @@ tags: []
 order: '089'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab s'enfuit devant Rustem
 
 Piran dit à Afrasiab :
