@@ -8,7 +8,29 @@ source: tome I - livre des rois - P. 400
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Message de Kaous pour Zal et pour Rustem | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'âme',
+    'Arzeng',
+    'Bid',
+    'Créateur',
+    'Destan',
+    'Dieu',
+    'Div',
+    'Divs',
+    'Ghandi',
+    'Iraniens',
+    'Kaous',
+    'Mazenderan',
+    'Poulad',
+    'Raksch',
+    'Roudabeh',
+    'Rustem',
+    'Sandjeb',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '004'
 ---
 
