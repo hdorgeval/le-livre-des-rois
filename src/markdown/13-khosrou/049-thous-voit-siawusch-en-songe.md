@@ -25,6 +25,8 @@ tags:
 order: '049'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Thous voit Siawusch en songe
 
 Une nuit, à l’heure où l’on bat le tambour, Thous s’endormit le cœur blessé et plein de soucis.
