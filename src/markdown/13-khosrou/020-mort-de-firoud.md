@@ -29,6 +29,8 @@ tags:
 order: '020'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mort de Firoud
 
 Lorsque le soleil brillant eut disparu et que la sombre nuit eut envahi le ciel avec son armée d’étoiles, mille braves cavaliers entrèrent dans Kelat pour en former la garnison.
