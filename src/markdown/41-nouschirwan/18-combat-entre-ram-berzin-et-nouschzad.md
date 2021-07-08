@@ -12,6 +12,8 @@ tags: []
 order: '018'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat entre Nouschzad et Ram Berzin et mort de Nouschzad
 
 Nouschzad ayant répondu ainsi au vieux Pirouz, les plumes des flèches couvrirent le ciel, les braves de l’armée s’ébranlèrept, les timbales et les clairons résonnèrent.
