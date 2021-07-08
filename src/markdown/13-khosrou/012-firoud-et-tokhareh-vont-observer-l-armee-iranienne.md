@@ -42,6 +42,8 @@ tags:
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Firoud et Tokhareh vont observer l'armée iranienne
 
 Tokhareh et Firoud sortirent en toute hâte ;
