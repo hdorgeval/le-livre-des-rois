@@ -12,6 +12,8 @@ tags: []
 order: '037'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Iskender à Aristalis et réponse de celui-ci
 
 Il sentit que sa mort approchait, et le jour deve- nait sombre devant ses yeux. Il avait l’idée qu’il ne
