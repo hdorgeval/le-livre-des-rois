@@ -12,6 +12,8 @@ tags: []
 order: '023'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Troisième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds
 
 Une semaine se passa ; le huitième jour, de grand matin, le roi s’assit sur le trône de turquoise et appela tous les sages, tous ceux qui étaient puissants par la parole et par le savoir.
