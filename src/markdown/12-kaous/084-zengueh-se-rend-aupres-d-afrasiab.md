@@ -12,6 +12,8 @@ tags: []
 order: '084'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zengueh se rend auprès d'Afrasiab
 
 Zengueh partit avec cent cavaliers pleins de renom, emmenant de la cour du roi les otages et emportant tous les présents, quels qu’ils fussent, que Guersiwez avait naguère apportés.
