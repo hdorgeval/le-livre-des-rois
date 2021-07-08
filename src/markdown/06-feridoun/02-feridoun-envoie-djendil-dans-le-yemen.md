@@ -29,6 +29,8 @@ tags:
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feridoun envoie Djendil dans le Yemen
 
 Après que cinquante ans furent écoulés, trois nobles enfants lui naquirent.
