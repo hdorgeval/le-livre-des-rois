@@ -12,6 +12,8 @@ tags: []
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ram Berzin se prépare à la guerre contre Nouschzad
 
 On plaça le sceau du roi sur la lettre et le messager partit en toute hâte.
