@@ -32,6 +32,8 @@ tags:
 order: '072'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens et les Touraniens forment leurs rangs
 
 Lorsque le soleil commença à montrer son casque brillant et que la face de la lune fut devenue semblable à un bouclier d’argent, la lune craignit d’entrer en lutte avec le soleil, elle se courba et voila sa face.
