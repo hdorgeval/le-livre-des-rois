@@ -12,6 +12,8 @@ tags: []
 order: '100'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gourguin trompe Bijen
 
 Le malveillant Gourguin à l’humeur méchante s’était tenu prudemment en dehors du bois et toute la forêt parut noire à ses yeux ;
