@@ -12,6 +12,8 @@ tags: []
 order: '063'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou construit le palais de Madaïn
 
 Un Perse, homme d’un cœur serein, sur lequel quatre fois trente années avaient passé, raconte que Khosrou envoya des messagers dans le Roum, dans l’Inde, en Chine et dans. tous les pays riches et o !
