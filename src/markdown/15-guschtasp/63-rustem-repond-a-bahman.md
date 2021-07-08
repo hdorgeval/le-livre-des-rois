@@ -34,6 +34,8 @@ tags:
 order: '63'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem répond à Bahman
 
 Rustem écouta les paroles de Bahman, et le cerveau du vieillard se remplit de soucis; il répondit:
