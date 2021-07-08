@@ -30,6 +30,8 @@ tags:
 order: '054'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan de la Chine va reconnaître l'armée des Iraniens
 
 Lorsque le soleil eut conduit son cortège de rayons sur la voûte du ciel et mis en fuite la sombre nuit, le Khakan de la Chine tint une assemblée et couvrit le sol de pièces de brocart.
