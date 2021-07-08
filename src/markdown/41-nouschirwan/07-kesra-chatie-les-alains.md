@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kesra châtie les Alains, les Beloudschi et les Ghilani
 
 Il se dirigea du Djihoun yers les Alains, où il trouva un pays désert et sans culture. il dit aux Perses :
