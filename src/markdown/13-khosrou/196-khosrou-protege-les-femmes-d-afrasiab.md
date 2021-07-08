@@ -12,6 +12,8 @@ tags: []
 order: '196'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou protège les femmes d'Afrasiab
 
 Ensuite Khosrou choisit dans son armée des hommes de sens, des nobles qui avaient de l’expérience et de la bravoure et leur dit :
