@@ -29,6 +29,8 @@ tags:
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sindokht apprend ce que Roudabeh avait fait
 
 Il y avait une femme aux paroles douces qui servait d’entremetteuse entre Zal et le cyprès ; elle portait les messages de Roudabeh au Pehlewan et ceux de Zal à Roudabeh à l’âme brillante.
