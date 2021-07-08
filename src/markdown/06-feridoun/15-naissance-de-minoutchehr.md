@@ -30,6 +30,8 @@ tags:
 order: '015'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance de Minoutchehr
 
 Prête attention à l’événement que la voûte bleue du ciel amena, après qu’elle eut tourné pendant neuf mois.
