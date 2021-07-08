@@ -12,6 +12,8 @@ tags: []
 order: '051'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Deuxième bataille entre Gau et Thalhend
 
 Un grand bruit de guerre s’élève de la cour de Thalhend et son armée mit en émotion le pays entier.
