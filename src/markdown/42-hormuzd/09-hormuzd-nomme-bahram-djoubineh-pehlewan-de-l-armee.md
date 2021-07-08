@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Hormuzd nomme Bahram Djoubineh Pehlewan de l'armée
 
 Le roi de l’Iran était heureux, il se sentait délivré du souci que lui causait l’armée de Saweh.
