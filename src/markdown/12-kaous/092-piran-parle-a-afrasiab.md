@@ -12,6 +12,8 @@ tags: []
 order: '092'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran parle à Afrasiab
 
 Piran se leva sur-le-champ et se rendit au palais du roi, où il descendit de cheval ; on lui livra passage et il se tint quelque temps debout devant le roi, qui lui dit avec bonté :
