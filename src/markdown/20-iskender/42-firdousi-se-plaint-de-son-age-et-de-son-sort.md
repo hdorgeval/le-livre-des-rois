@@ -12,6 +12,8 @@ tags: []
 order: '042'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Firdousi se plaint de son âge et de son sort
 
 0 voûte sublime du ciel qui réjouis les cœurs! pourquoi m’allliges-tu dans ma vieillesse? Quand j’étais jeune, tu m’as tenu sur ton sein, et dans ma vieillesse tu m’abandonnes avec mépris. La rose heu-I
