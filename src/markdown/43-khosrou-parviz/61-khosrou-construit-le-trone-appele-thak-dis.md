@@ -12,6 +12,8 @@ tags: []
 order: '061'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou construit le trône Thak-Dis
 
 Conte maintenant, d’après des hommes sincères et véridiques, les histoires compliquées qui se rapportent au trône appelé Thakdis, que Parviz a élevé dans l’hippodrome.
