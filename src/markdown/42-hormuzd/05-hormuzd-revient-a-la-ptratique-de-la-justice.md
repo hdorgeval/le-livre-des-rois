@@ -12,6 +12,8 @@ tags: []
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Hormuzd revient à la pratique de la justice
 
 A partir de la, tout plaisir disparut de la viol (l’llormuzvl, l’inquiétude lui perçait le cœur connue un aiguillon.
