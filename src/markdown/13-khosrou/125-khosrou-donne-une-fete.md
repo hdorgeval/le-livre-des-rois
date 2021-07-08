@@ -12,6 +12,8 @@ tags: []
 order: '125'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou donne une fête
 
 Khosrou ordonna qu’on dressât les tables, il fit appeler les grands pleins de’lîerté.
