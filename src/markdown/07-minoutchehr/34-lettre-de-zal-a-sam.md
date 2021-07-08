@@ -12,6 +12,8 @@ tags: ['Bélier', 'Destan', 'Minoutchehr', 'Mobed', 'Neriman', 'Pehlewan', 'Rust
 order: '034'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Zal à Sam
 
 Le héros illustre envoya à Sam le cavalier une lettre portant cette bonne nouvelle où il contait de point en point au Pehlewan plein d’intelligence tout ce qui était arrivé.
