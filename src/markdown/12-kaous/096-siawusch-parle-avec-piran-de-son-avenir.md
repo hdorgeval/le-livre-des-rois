@@ -12,6 +12,8 @@ tags: []
 order: '096'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch parle avec Piran de son avenir
 
 Lorsqu’ils repartirent de ce beau pays, Siawusch devint pensif et adressa une question aux astrologués, disant :
