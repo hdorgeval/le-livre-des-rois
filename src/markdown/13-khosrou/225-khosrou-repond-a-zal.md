@@ -12,6 +12,8 @@ tags: []
 order: '225'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou répond à Zal
 
 Khosrou écouta ces paroles du Destau et lui répondit par un sage discours.
