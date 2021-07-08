@@ -9,6 +9,8 @@ order: '01'
 geo-data: 'mount-damavand.geojson'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Demawend
 
 Le mont Damavand est un volcan semi-actif qui culmine à plus de 5 600 m au nord de l'Iran.
