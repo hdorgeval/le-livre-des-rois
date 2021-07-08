@@ -12,6 +12,8 @@ tags: []
 order: '059'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Questions que les Mobeds adressent à Nouschirwan et ses réponses
 
 Il y avait un vieillard qui savait le pehlewi et avait vieilli en parlant et agissant beaucoup.
