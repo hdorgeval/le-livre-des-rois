@@ -25,6 +25,8 @@ tags:
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Feridoun à ses fils
 
 Feridoun écouta ses paroles avec attention et son cerveau s’enflamma à mesure qu’il entendait.
