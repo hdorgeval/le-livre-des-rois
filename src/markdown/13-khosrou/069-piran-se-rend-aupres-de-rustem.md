@@ -51,6 +51,8 @@ tags:
 order: '069'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran se rend auprès de Rustem
 
 Piran partit rempli de crainte et d’inquiétude et le cœur navré de l’arrivée de Rustem.
