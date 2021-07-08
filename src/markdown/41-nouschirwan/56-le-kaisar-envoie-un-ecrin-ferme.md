@@ -12,6 +12,8 @@ tags: []
 order: '056'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Kaïsar envoie un écrin fermé et Buzurdjmihr est mis en liberté pour en deviner le secret
 
 Or il’arriva que vers ce temps le Kaiser envoya un messager auprès du roi, avec des présents, une lettre, une offrande d’or et un écrin fermé par un cadenas et lui fit dire :
