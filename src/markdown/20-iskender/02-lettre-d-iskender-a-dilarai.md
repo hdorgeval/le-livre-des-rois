@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Iskender à Dilaraï, mère de Rouschenek
 
 Iskender fit venir un scribe et lai fit prendre un roseau du Boum et de la soie de Chine. Le scribe
