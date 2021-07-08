@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir organise l'administration de son empire
 
 Écoute maintenant ce que j’ai à te dire de la justice et de l’intelligence d’Ardeschir, des règles qu’il suivit en faisant le bien partout, de sa grandeur et de son habileté et souviens-toi de tout.
