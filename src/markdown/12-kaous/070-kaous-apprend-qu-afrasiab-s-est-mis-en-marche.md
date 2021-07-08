@@ -12,6 +12,8 @@ tags: []
 order: '070'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous apprend qu'Afrasiab s'est mis en marche
 
 Le roi du monde était ainsi occupé de son amour lorsqu’il apprit de ceux qui savaient ce qui se passait, qu’Afrasiab s’approchait avec cent mille cavaliers turcs qu’il avait choisis et comptés.
