@@ -28,6 +28,8 @@ tags:
 order: '14'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre du Kaisar à Ilias, à qui il demande un tribut
 
 Les plus proches voisins du Kaisar étaient les Khazars, qui avaient toujours assombri ses jours.
