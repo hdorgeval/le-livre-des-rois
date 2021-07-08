@@ -12,6 +12,8 @@ tags: []
 order: '202'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab fait une attaque de nuit
 
 Le roi des Turcs, aussitôt que la nuit eut envahi le ciel, revêtit ses armes de combat, lui et son armée, Il appela les plus expérimentés de ses guerriers et parla longuement des choses passées ; ensuite il ajouta : Cet homme vil et traître s’est approché follement de l’armée de son grand-père.
