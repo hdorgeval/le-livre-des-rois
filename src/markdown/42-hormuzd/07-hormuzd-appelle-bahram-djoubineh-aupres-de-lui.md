@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Hormuzd appelle Bahram Djoubineh auprès de lui
 
 Le roi avait un serviteur du nom de Nestouh, un homme toujours content, intelligent et prévoyant.
