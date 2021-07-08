@@ -12,6 +12,8 @@ tags: []
 order: '156'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Gourazeh et de Siamek
 
 Le troisième Touranien qui s’avança sur le champ de bataille fut Siamek, qui avait à combattre Gourazeh.
