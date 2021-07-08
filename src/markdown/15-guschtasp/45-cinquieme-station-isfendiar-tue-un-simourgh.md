@@ -28,6 +28,8 @@ tags:
 order: '45'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Cinquième Station - Isfendiar tue un Simourgh
 
 Le prince, qui ambitionnait la possession du monde, se présenta devant le Créateur, et resta longtemps le front prosterné contre terre; ensuite il fit dresser ses tentes dans la forêt, et l’on couvrit une table de tout ce qui était nécessaire.
