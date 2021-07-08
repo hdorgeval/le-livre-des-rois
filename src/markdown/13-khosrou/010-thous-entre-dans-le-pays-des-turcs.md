@@ -36,6 +36,8 @@ tags:
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Thous entre dans le pays des Turcs
 
 Lorsque le soleil se fut montré dans toute sa grandeur, qu’il eut occupé sa place sur le trône des cieux, qu’il eut foulé aux pieds le signe du Bélier et qu’il eut rempli le monde d’une lumière dorée comme le vin, le bruit des tambours, des clairons et des timbales se fit entendre sous la porte des tentes de Thous ;
