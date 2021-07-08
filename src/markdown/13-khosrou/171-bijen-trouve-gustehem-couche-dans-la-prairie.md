@@ -12,6 +12,8 @@ tags: []
 order: '171'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen trouve Gustehem couché dans la prairie
 
 Lorsque le monde commença à être illuminé par les rayons du soleil, Bijen arriva dans ce lieu.
