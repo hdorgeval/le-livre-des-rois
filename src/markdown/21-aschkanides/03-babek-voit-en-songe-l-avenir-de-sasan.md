@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Babek voit en songe l'avenir de Sasan
 
 Lorsque Iskender désespéra de la vie, il exécuta avec les grands un plan qui devait faire que dorénavant personne ne se mêlât des affaires du Roum et qu’au moins un pays restât cultivé et prospère.
