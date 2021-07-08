@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Dara à Iskender pour demander la paix
 
 Le roi fit appeler un scribe expert, qui apporta du papier et du musc noir. Le cœur navré et peiné,
