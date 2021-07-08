@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Baranousch se rend auprès de Schapour et conclut un traité avec lui
 
 Lorsque Baranousch connut la réponse à sa lettre, son cœur pur s’épanouit de joie. Il ordonna aux grands
