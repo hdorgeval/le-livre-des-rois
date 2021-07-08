@@ -12,6 +12,8 @@ tags: []
 order: '145'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou arrive à Ispahan
 
 Keï Khosrou arriva avec Guiv à Zem.
