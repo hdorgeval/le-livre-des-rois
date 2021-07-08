@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le blanchisseur élève Darab
 
 Le blanchisseur revint de la rivière à une heure indue ; alors sa femme lui dit :
