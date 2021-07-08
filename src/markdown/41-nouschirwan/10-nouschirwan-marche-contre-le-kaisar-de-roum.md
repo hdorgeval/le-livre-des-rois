@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan marche contre le Kaïsar de Roum
 
 Le roi lut cette lettre et fut confondu de la rotation du sort.
