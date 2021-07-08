@@ -12,6 +12,8 @@ tags: []
 order: '089'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab et Siawusch vont à la chasse
 
 Le roi dit à ce fils de roi :
