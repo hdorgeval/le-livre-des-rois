@@ -33,6 +33,8 @@ tags:
 order: '063'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kamous tue Alwa
 
 On entendit des deux côtés le bruit des clairons et des timbales ;
