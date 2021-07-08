@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure de Bahram avec Kebrouï.
 
 Interdiction de l'usage du vin
