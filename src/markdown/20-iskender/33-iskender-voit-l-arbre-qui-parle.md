@@ -12,6 +12,8 @@ tags: []
 order: '033'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender voit l'arbre qui parle
 
 Par la route du désert Iskender arriva dans un
