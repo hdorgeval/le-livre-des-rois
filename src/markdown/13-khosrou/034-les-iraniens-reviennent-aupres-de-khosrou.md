@@ -31,6 +31,8 @@ tags:
 order: '034'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens reviennent auprès de Khosrou
 
 Lorsque le soleil eut levé sa tête brillante au-dessus de la montagne et que la couronne du jour lumineux eut paru, l’armée, qui avait été dispersée, se réunit et les braves se dirent entre eux :
