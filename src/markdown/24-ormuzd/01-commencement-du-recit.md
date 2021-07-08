@@ -12,6 +12,8 @@ tags: ['Ardeschir', 'arghawan', 'cyprès', 'Dieu', 'Ormuzd', 'Schapour']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Maintenant je vais rendre le trône et le diadème du roi Ormuzd brillants comme le premier jour du mois qu’inaugure Ormuzd.
