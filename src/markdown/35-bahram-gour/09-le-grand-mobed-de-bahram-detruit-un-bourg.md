@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le grand Mobed de Bahram détruit un bourg et le fait refleurir
 
 Un autre jour le roi alla avec’son cortège, de grand matin, dans la plaine pour chasser ; à sa gauche était Hormuz, son vizir, à sa droite le Grand Mobed, homme de bon conseil, qui lui récitèrent des histoires et parlèrent de Djemschid et de Ferij doun et au-devant étaient les chiens, les guépards, les gerfauts et les faucons.
