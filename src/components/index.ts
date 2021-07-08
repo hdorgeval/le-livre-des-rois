@@ -1,5 +1,5 @@
 export * from './episode-link/episode-link';
-export * from './episodes';
+export * from './episodes/fr';
 export * from './firdousi-articles';
 export * from './genealogies';
 export * from './layout';
