@@ -12,6 +12,8 @@ tags: []
 order: '172'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou fait construire un mausolée pour Piran
 
 Lorsque dix heures du jour furent écoulées et au moment où le soleil disparaissait de la voûte du ciel qui tourne, Khosrou le maître du monde arriva, sur son trône et dans toute sa pompe, dans la plaine
