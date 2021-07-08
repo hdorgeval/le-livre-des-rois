@@ -28,6 +28,8 @@ tags:
 order: '043'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens se retirent sur le mont Hemawen
 
 Ils se retirèrent tous du combat, le cœur brisé par la perte de leurs parents, la tête remplie de honte.
