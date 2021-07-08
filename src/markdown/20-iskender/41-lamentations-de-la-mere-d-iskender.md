@@ -12,6 +12,8 @@ tags: []
 order: '041'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lamentations de la mère et de la femme d'Iskender
 
 La mère d’lskender accourut; elle posa longtemps
