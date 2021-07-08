@@ -12,6 +12,8 @@ tags: []
 order: '024'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou conduit l'armée à Ader Abadghan
 
 Le huitième jour, le roi au visage de soleil ordonna l’armée comme le ciel qui tourne ; le son des
