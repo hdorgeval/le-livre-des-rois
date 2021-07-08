@@ -12,6 +12,8 @@ tags: []
 order: '086'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch cède le commandement à Bahram
 
 Siawusch écrivit une lettre à son père, dans laquelle il lui racontait tout ce qui s’était passé, disant :
