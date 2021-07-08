@@ -12,6 +12,8 @@ tags: []
 order: '048'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gustehem se révolte contre Khosrou et épouse Gordieh
 
 Ensuite Khosrou envoya quelqu’un dans le Khorasan avec beaucoup de recommandations, disant :
