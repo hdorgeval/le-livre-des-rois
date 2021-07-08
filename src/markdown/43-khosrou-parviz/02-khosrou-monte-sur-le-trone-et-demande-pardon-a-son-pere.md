@@ -25,6 +25,8 @@ tags:
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Khosrou monte sur le trône et demande pardon à son père
 
 Lorsque Khosrou s’assit sur le trône d’or, tous les hommes de valeur se présentèrent devant lui ; on appela tous les grands et ils répandirent des joyaux sur cette couronne nouvelle.
