@@ -12,6 +12,8 @@ tags: []
 order: '080'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem rend compte à Kaous
 
 De son côté, Rustem le lion était arrivé auprès du roi de l’Iran, vite comme la poussière qui vole.
