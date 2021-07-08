@@ -34,6 +34,8 @@ tags:
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal va visiter Mihrab, roi de Kaboul
 
 Il arriva un jour que Zal résolut de faire un tour dans l’empire ; il se mit en route avec ses amis fidèles, qui étaient unis avec lui de foi et de volonté.
