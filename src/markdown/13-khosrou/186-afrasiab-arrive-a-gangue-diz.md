@@ -12,6 +12,8 @@ tags: []
 order: '186'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab arrive à Gangue Diz
 
 Lorsque Afrasiab se fut déterminé à repasser le Djihoun, il traversa le fleuve rapidement comme un ouragan, son armés se réunit à l’armée de Karakhan et chacun raconta ce qui lui était arrivé dans la bataille.
