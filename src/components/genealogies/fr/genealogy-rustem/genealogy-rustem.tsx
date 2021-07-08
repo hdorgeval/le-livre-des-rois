@@ -1,5 +1,5 @@
-import { Genealogy } from '../genealogy/genealogy';
-import { AllFileResponse } from '../../../graphql';
+import { Genealogy } from '../../common/genealogy';
+import { AllFileResponse } from '../../../../graphql';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
 export const GenealogyRustem: React.FC = () => {

@@ -1,11 +1,11 @@
-import { Genealogy } from '../genealogy/genealogy';
-import { AllFileResponse } from '../../../graphql';
+import { Genealogy } from '../../common/genealogy';
+import { AllFileResponse } from '../../../../graphql';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-export const GenealogyArdjasp: React.FC = () => {
+export const GenealogyKhosrou: React.FC = () => {
   const data = useStaticQuery<AllFileResponse>(graphql`
     {
-      allFile(filter: { absolutePath: { glob: "**/ardjasp.svg" } }) {
+      allFile(filter: { absolutePath: { glob: "**/khosrou.svg" } }) {
         edges {
           node {
             id
@@ -25,5 +25,5 @@ export const GenealogyArdjasp: React.FC = () => {
 
   const graph = data.allFile.edges[0].node.fields.svgContent;
 
-  return <Genealogy treeName="Ardjasp" svgGraph={graph} />;
+  return <Genealogy treeName="Khosrou" svgGraph={graph} />;
 };

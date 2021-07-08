@@ -1,6 +1,6 @@
 export * from './episodes/fr';
 export * from './firdousi-articles';
-export * from './genealogies';
+export * from './genealogies/fr';
 export * from './layout';
 export * from './leaflet-map';
 export * from './read-more-read-less';
