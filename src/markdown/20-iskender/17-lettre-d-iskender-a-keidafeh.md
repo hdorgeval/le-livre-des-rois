@@ -12,6 +12,8 @@ tags: []
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Iskender à Keïdafeh
 
 Iskender, ayant entendu les paroles de cet homme
