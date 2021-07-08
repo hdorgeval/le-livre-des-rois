@@ -12,6 +12,8 @@ tags: []
 order: '008'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Yezdeguerd va à Thous et est tué par un cheval qui sort de l'eau
 
 Ainsi se passa quelque temps.
