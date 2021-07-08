@@ -12,6 +12,8 @@ tags: ['Badakhschan', 'Iran', 'Kaboul', 'Mihrab', 'Roudabeh', 'Sam', 'Sindokht']
 order: '021'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Colère de Mihrab contre Sindokht
 
 Lorsque ces événements furent connus à Kaboul, la tête du gardien des frontières se remplit de colère.
