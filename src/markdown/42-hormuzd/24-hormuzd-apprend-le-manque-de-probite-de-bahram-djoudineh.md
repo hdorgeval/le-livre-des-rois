@@ -12,6 +12,8 @@ tags: []
 order: '024'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Hormuzd apprend le manque de probité de Bahram Djoubineh et fait un traité avec le Khakan
 
 Pendant ce temps arriva un vigoureux dromadaire avec une lettre du Grand Scribe, disant :
