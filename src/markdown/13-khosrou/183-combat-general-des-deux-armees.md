@@ -12,6 +12,8 @@ tags: []
 order: '183'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat général des deux armées
 
 Lorsque le soleil montra sa tête au-dessus du dos du taureau et que le chant de l’alouette s’éleva de la plaine, on entendit dans les pavillons des deux rois KEÏ Kl-à !
