@@ -12,6 +12,8 @@ tags: []
 order: '026'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le combat des sept héros
 
 Comme il est inutile de lutter contre la mort, écoute en attendant ce que fit Rustem.
