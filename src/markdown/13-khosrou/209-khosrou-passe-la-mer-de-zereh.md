@@ -12,6 +12,8 @@ tags: []
 order: '209'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou passe la mer de Zereh
 
 Lorsque le roi fut sur les bords de la mer de Zereh, les braves déboutonnèrent leurs cottes de mailles.
