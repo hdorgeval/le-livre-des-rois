@@ -26,6 +26,8 @@ tags:
 order: '09'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mirin demande en marriage la seconde fille du Kaisar
 
 Il y avait un homme à Roum, du nom de Mirin, qui envoya un message au Kaisar et lui fit dire :
