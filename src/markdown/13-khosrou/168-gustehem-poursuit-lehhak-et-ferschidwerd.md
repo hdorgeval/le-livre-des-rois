@@ -12,6 +12,8 @@ tags: []
 order: '168'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gustehem poursuit Lehhak et Ferschidwerd
 
 Gustehem revêtit sa cuirasse de combat et prit congé de tous les héros qu’il rencontrait ; il sortit du camp en toute hâte ; il partit pour aller combattre les Turcs qui portaient haut la tête et toute l’armée se disait que Gustehem pourrait bien ne pas suffire contre deux.
