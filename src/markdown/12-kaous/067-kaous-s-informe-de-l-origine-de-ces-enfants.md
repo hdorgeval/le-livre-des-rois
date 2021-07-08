@@ -12,6 +12,8 @@ tags: []
 order: '067'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous s'informe de l'origine de ces enfants
 
 Le roi Kaous regarda autour de lui et ayant pensé à tous ceux qui connaissaient les astres, il les fit appeler auprès de lui par un message poli.
