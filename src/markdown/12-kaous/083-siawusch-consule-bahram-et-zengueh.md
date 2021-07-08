@@ -12,6 +12,8 @@ tags: []
 order: '083'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Siawusch consulte Bahram et Zengueh
 
 Alors Siawusch appela auprès de lui deux d’entre les grands de l’armée, Bahram et Zengueh fils de Schaweran, pour leur confier ce secret ; il renvoya tout le monde de la salle et les fit asseoir devant lui. car c’étaient les deux confidents de ses secrets depuis que Rustem avait quitté l’armée.
