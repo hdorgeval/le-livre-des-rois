@@ -32,6 +32,8 @@ tags:
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Expédition de Schemasas et de Khazarwan dans le Zaboulistan
 
 Maintenant je vais parler de ceux qui avaient quitté le pays d’Arman et qui se dirigeaient vers le Zaboulistan avides de vengeance.
