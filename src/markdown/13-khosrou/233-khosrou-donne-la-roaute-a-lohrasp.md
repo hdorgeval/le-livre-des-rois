@@ -12,6 +12,8 @@ tags: []
 order: '233'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou donne la royauté à Lohrasp
 
 Quand les affaires des grands furent arrangées, le roi des rois était malade de fatigue ; mais il restait un nom, parmi ceux des grands, qui n’avait pas paru sur cette liste de décrets du roi : c’était celui de Lohrasp.
