@@ -12,6 +12,8 @@ tags: []
 order: '036'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Une bête fauve tue la fille du Khakan
 
 Il se passa ainsi quelque temps pendant lequel le calme régnait jour et nuit et Bahram dormait et mangeait ; il se reposait de la guerre et des combats.
