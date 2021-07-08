@@ -49,6 +49,8 @@ tags:
 order: '15'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Djamasp dévoile à Guschtasp l'issue de la bataille
 
 Ayant quitté Balkh la glorieuse et étant arrivés sur le Djihoun, le roi et son armée s’arrêtèrent.
