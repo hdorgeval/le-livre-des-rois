@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ardeschir combat Bahman et reste vainqueur
 
 Il y avait un homme illustre, du nom, de Tebak, qui possédait des armes et des troupes et était de bon conseil.
