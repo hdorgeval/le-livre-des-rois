@@ -39,6 +39,8 @@ tags:
 order: '062'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens et les Touraniens forment leur ligne de bataille
 
 Lorsque le soleil couchant répandit sur le monde une teinte de rubis et que la nuit commença sa marche à travers le ciel, tous les braves de l’armée, tous ceux qui étaient de bon conseil et savaient frapper de l’épée, se rassemblèrent et se rendirent à la tente du Khakan, le cœur plein d’ardeur pour le combat et la vengeance : c’étaient Kamous le destructeur des hommes, le lion ;
