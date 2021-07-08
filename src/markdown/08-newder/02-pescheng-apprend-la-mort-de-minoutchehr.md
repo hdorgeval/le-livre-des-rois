@@ -43,6 +43,8 @@ tags:
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Pescheng apprend la mort de Minoutchehr
 
 Après cela la nouvelle de la mort de Minoutchehr se répandit jusque chez les guerriers du Touran, qui s’entretinrent avec les malveillants de la mort du roi et des affaires de Newder.
