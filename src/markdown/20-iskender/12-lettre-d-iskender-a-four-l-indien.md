@@ -12,6 +12,8 @@ tags: []
 order: '012'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre d'Iskender à Four l'indien
 
 Iskender lit partir son armée de Milad, rapide- ment comme le rent, et se rendit à Kanondj, ayant
