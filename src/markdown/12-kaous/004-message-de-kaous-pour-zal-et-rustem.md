@@ -34,6 +34,8 @@ tags:
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Message de Kaous pour Zal et pour Rustem
 
 Après cela le roi Kaous envoya, le cœur brisé, un de ses braves comme un oiseau qui vole à tire d’aile.
