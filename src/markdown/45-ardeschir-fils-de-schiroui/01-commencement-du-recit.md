@@ -25,6 +25,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque le roi Ardeschir prit possession du trône, ses sujets grands et petits et plusieurs hommes illustres chargés d’années accoururent de l’Iran pour entendre ses discours.
