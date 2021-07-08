@@ -36,6 +36,8 @@ tags:
 order: '34'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp apprend la mort de Lohrasp et marche vers Balkh
 
 Or Guschtasp avait une femme pleine de sens, prudente, remplie de sagesse et d’une intelligence puissante; elle prit dans les écuries un coursier et le monta; elle s’habilla à la manière des Turcs, sortit du palais et prit la route du Séistan.
