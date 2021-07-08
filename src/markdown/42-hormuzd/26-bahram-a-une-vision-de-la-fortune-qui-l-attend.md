@@ -12,6 +12,8 @@ tags: []
 order: '026'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram a une vision de la fortune qui l'attend
 
 Ainsi se passèrent deux semaines ; le Sipehhed sortit alors de son palais dans la campagne et arriva auprès d’un bois plein d’arbres, qui invitait les hommes heureux à boire du vin.
