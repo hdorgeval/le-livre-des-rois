@@ -12,6 +12,8 @@ tags: []
 order: '033'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan part pour la guerre contre le Khakan
 
 Il emmena de Madaîn une armée qui couvrit le monde jusqu’à la mer ; la terre était obscurcie par la poussière, les yeux étaient fatigués de voir tant d’hommes.
