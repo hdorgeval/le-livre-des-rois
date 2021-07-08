@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Aventure de Bahram et des quatre sœurs
 
 Une autre semaine le roi du monde partit pour la chasse avec ses Mobeds et ses grands ; il s’était arrangé à’rester un mois à chasser etrà boire du vin avec son escorte et il se livra à la chasse. dans la montagne et à la chasse dans la plaine d’une manière démesurée.
