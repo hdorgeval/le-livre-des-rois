@@ -30,6 +30,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Tous ayant passé une semaine dans le deuil et dans les lamentations, le roi Minoutchehr parut le huitième jour et plaça sur sa tête la couronne des Keïanides.
