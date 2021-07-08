@@ -12,6 +12,8 @@ tags: []
 order: '062'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire de Barbed le musicien
 
 Le roi ne cessait de grandir en pouvoir ; il dépassa la vingt-huitième année de son règne ; tout le monde faisait fortune à sa cour et la renommée un arriva à Barbed.
