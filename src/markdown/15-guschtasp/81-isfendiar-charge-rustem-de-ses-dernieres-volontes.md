@@ -42,6 +42,8 @@ tags:
 order: '81'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar charge Rustem de ses dernières volontés
 
 Isfendiar dit à Rustem:
