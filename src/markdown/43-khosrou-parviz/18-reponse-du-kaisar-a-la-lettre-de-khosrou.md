@@ -12,6 +12,8 @@ tags: []
 order: '018'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse du Kaïsar à la lettre de Khosrou
 
 Il lit. appeler un scribe qui connaissait le monde et le fit asseoir devant le trône du pouvoir ; il lui ordonna d’écrire une lettre en réponse et de l’orner comme une prairie du paradis avec beaucoup de conseils et des promesses et de belles paroles sur les temps actuels et remontant aux temps anciens.
