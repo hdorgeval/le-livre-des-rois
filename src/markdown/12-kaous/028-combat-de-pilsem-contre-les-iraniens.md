@@ -12,6 +12,8 @@ tags: []
 order: '028'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Pilsem contre les Iraniens
 
 Or il y avait un héros dont le nom était Pilsem, A7 un héros de race royale et de grand renom dans la guerre ; son père était Wiseh l’illustre ; son frère, Piran le victorieux ; et dans l’Iran et dans le Touran il n’avait d’égal que Rustem.
