@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guraz désapprouve la prise de possession du trône par Ardeschir et le fait assassiner par Firouz, fils de Khosrou
 
 Guraz, pour lequel Khosrou Parviz avait eu une ardente amitié, apprit ces nouvelles et envoya du Roum un éloquent messager porteur de ces paroles :
