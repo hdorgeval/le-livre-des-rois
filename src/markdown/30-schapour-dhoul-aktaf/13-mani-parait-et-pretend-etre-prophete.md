@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mani paraît et prétend être prophète
 
 vint de la Chine un homme éloquent, qui était un peintre tel que le monde n’en verra plus. Il ob« tenait par son habileté ce qu’il voulait; c’était un ambitieux, son nom était Mani. Il disait: «Ma pein- «ture prouve que je suis prophète, que je suis le «plus grand de tous ceux qui ont enseigné une reli- «gion au monde.» Il vint de Chine auprès de Scha-
