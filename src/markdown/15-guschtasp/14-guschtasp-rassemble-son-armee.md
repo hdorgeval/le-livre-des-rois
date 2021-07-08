@@ -27,6 +27,8 @@ tags:
 order: '14'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp rassemble son armée
 
 Lorsque le roi Guschtasp entendit que le roi des Turcs et de la Chine se préparait, lui et son armée, avait quitté le lieu de sa résidence et envoyé au-devant de lui le féroce Khaschasch;
