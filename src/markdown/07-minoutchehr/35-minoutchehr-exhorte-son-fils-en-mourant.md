@@ -30,6 +30,8 @@ tags:
 order: '035'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Minoutchehr exhorte son fils en mourant
 
 Lorsque Minoutchehr eut atteint deux fois soixante ans, il se prépara à quitter ce monde.
