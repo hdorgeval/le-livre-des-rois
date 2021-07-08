@@ -12,6 +12,8 @@ tags: ['Feribourz', 'Gouderz', 'Kaous', 'Pehlewan', 'Piran', 'Rehham', 'Thous', 
 order: '029'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Feribourz propose à Piran un armistice
 
 Feribourz posa sur sa tête la couronne, car il était Pehlewan de l’armée et fils de roi.
