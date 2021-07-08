@@ -12,6 +12,8 @@ tags: ['âme', 'Chine', 'Dieu', 'Iredj', 'Selm', 'Tour']
 order: '011'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iredj se rend auprès de ses frères
 
 Le roi de la terre écrivit une lettre au roi de l’occident et au roi de la Chine.
