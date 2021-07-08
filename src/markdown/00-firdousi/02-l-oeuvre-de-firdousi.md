@@ -28,6 +28,8 @@ tags:
 order: '2'
 ---
 
+<!-- LTeX: language=fr -->
+
 # L'œuvre de Firdousi
 
 Le nom de Firdousi marque un moment décisif dans l'histoire du vieil Iran.
