@@ -12,6 +12,8 @@ tags: []
 order: '040'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan revient victorieux dans l'Iran
 
 Quittant le lieu de ses dévotions, Nouschirwan monta sur le trône et son armée s’apprêta à partir.
