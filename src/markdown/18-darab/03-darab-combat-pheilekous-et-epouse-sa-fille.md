@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Darab combat Pheïlekous et épouse sa fille
 
 Darab quitta le désert des cavaliers armés de lances
