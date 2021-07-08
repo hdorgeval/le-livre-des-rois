@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Naissance d'Ardeschir Babekan
 
 Lorsque neuf mois eurent passé sur cette femme au visage de lune, elle mit au monde un enfant beau comme le soleil brillant, qui ressemblait au roi Ardeschir et qui grandit, prospéra et ravit les cœurs.
