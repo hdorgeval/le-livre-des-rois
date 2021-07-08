@@ -30,6 +30,8 @@ tags:
 order: '022'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Thous conduit son armée vers le Kasehroud
 
 Lorsque Thous eut enterré Firoud, il quitta le château et s’arrêta pendant trois jours à Djerem ;
