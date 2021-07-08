@@ -12,6 +12,8 @@ tags: []
 order: '036'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender conduit son armée à Babylone
 
 Iskender conduisit son armée vers Babil, et le monde disparut sous la poussière qu’elle faisait lever.
