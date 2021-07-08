@@ -34,6 +34,8 @@ tags:
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sam consulte les Mobeds relativement à Zal
 
 Aussitôt qu’il se fut levé, il tint une assemblée de Mobeds et de sages ; il raconta tout aux astrologues et leur demanda :
