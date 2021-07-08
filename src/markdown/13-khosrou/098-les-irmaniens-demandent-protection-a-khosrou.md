@@ -12,6 +12,8 @@ tags: []
 order: '098'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Irmaniens demandent protection à Khosrou
 
 Au nom du maître du ciel qui tourne, du maître de Mercure et du soleil.
