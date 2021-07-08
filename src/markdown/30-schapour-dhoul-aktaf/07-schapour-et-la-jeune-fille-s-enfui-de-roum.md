@@ -12,6 +12,8 @@ tags: []
 order: '007'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schapour et la jeune fille s'enfuit de Roum et arrivent dans l'Iran
 
 Ils se dirigèrent vers l’lran, comme deux êtres
