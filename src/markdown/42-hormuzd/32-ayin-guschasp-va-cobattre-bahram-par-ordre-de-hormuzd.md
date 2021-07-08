@@ -12,6 +12,8 @@ tags: []
 order: '032'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Ayïn Guschasp va combattre Bahram par ordre de Hormuzd et est tué
 
 Le roi dit à Ayïn Guschasp :
