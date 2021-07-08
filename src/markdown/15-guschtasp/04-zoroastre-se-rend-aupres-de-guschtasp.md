@@ -61,6 +61,8 @@ tags:
 order: '04'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zoroastre se rend auprès de Guschtasp mais ce dernier le jete en prison [^1]
 
 Après avoir consulté Ormuzd & les autres Esprits célestes, Zoroastre revint dans le Monde.
