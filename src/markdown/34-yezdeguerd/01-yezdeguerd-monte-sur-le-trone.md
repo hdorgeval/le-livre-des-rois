@@ -12,6 +12,8 @@ tags: ['âme', 'Dieu', 'Yezdeguerd']
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Lorsque Yezdeguerd fut roi dans le monde, il réunit l’armée du pays entier et plaça sur sa tête la couronne de son frère, dont la mort lamentable le réjouissait.
