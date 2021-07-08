@@ -12,6 +12,8 @@ tags: []
 order: '027'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram donne congé à l'envoyé du Kaïsar
 
 Lorsque le soleil montra sa main alu-dessus des montagnes, le roi des rois s’assit sur son trône d’or ; l’envoyé du Kaïsar se présenta à la cour et lui et l’habile Mobed plein d’intelligence entrèrent gaiement auprès du roi et parlèrent de toute sorte de choses.
