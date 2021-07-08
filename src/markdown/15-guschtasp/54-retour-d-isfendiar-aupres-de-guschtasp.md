@@ -31,6 +31,8 @@ tags:
 order: '54'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Retour d'Isfendiar auprès de Guschtasp
 
 Isfendiar ayant lu cette lettre, se mit à distribuer de l’or et termina ce qu’il avait à faire.
