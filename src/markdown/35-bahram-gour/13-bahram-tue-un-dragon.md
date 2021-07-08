@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram tue un dragon, son aventure avec la femme du jardinier
 
 Il passa quelque temps avec ses grands, s’amusant avec du vin brillant, des coupes et des chanteurs.
