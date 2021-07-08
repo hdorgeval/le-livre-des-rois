@@ -39,6 +39,8 @@ tags:
 order: '75'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les fils d'Isfendiar sont tués par Zeraweh et Faramourz
 
 Lorsque le combat des héros eut duré longtemps, et que Rustem fils de Zal tardait à revenir, Zewareh amena son armée de l’autre rive du Hirmend, une armée au cœur blessé et avide de vengeance.
