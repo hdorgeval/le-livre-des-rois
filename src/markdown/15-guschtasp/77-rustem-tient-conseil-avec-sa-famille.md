@@ -33,6 +33,8 @@ tags:
 order: '77'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem tient conseil avec sa famille
 
 Rustem, de son côté, arriva dans son palais, et Destan le vit dans l’état où il se trouvait;
