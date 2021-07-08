@@ -12,6 +12,8 @@ tags: []
 order: '054'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Retour de Rustem dans le Zaboulistan
 
 Le roi partit de là avec son armée et marcha vers l’Iran ; mais Rustem demeura, attendant que Zewareh fût de retour et lui apportât des nouvelles de l’armée du Touran.
