@@ -24,6 +24,8 @@ tags:
 order: '30'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp fait charger de chaînes Isfendiar
 
 Lorsque le roi sut que son fils était arrivé et qu’il avait couvert sa tête du casque des Keïanides, il réunit les grands et les petits, et fit placer devant lui le Zendavesta entier.
