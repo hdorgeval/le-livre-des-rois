@@ -12,6 +12,8 @@ tags: []
 order: '042'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Buzurdjmihr donne des conseils à Nouschirwan
 
 Un jour le maître du monde s’assit gaiement sur le trône, reçut les grands et les savants et leur parla en souriant et le visage ouvert ; Buzurdjmihr prit sa place devant le trône et prononça sur le roi des bénédictions qui rendirent son cœur comme le gai printemps ; il dit :
