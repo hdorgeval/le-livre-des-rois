@@ -12,6 +12,8 @@ tags: []
 order: '054'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Barzouï apporte de l'Inde le Calila et Dimna
 
 Fais attention à ce que Schadan fils de Benin a raconté quand il a dévoilé le secret des actions de.
