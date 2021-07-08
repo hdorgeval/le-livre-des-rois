@@ -12,6 +12,8 @@ tags: []
 order: '145'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran écrit à Gouderz pour demander la paix
 
 Pirau apprit ce que faisait le chef des Iraniens ; cette nouvelle remplit son cœur d’inquiétude ; il s’appliqua à chercher un moyen de salut dans les ruses. et la fourberie. et demanda à un Destour plein de sagesse des conseils touchant cette guerre.
