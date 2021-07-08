@@ -25,6 +25,8 @@ tags:
 order: '006'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Sam confie son royaume à Zal
 
 Ensuite Sam enseigna à son fils les vertus des rois, il appela de tous les pays ceux qui avaient de l’expérience et prononça devant eux des paroles convenables.
