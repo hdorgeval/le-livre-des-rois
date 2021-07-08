@@ -31,6 +31,8 @@ tags:
 order: '44'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Quatrième Station - Isfendiar tue la magicienne
 
 Le roi fit placer l’enceinte de ses tentes sur le bord de l’eau, et toute l’armée dressa les siennes autour de lui.
