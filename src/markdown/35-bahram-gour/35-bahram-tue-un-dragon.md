@@ -12,6 +12,8 @@ tags: []
 order: '035'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram tue un dragon
 
 Or il y avait un dragon qui vivait dans l’eau et ; sur terre ; tantôt il était dans le fleuve, tantôt au soleil ; il enveloppait avec sa queue un éléphant de guerre et soulevait en vagues les flots de l’Indus.
