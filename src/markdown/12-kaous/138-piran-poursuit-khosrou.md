@@ -12,6 +12,8 @@ tags: []
 order: '138'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Piran poursuit Keï Khosrou
 
 Piran choisit mille cavaliers tous braves et propres au combat et leur dit :
