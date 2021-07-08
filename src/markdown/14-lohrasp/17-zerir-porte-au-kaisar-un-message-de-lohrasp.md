@@ -40,6 +40,8 @@ tags:
 order: '17'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zerir porte au Kaisar un message de Lohrasp
 
 Lohrasp resta longtemps assis, absorbé dans ses pensées ; ensuite il fit appeler devant lui Zerir, à qui il dit :
