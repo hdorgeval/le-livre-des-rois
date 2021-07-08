@@ -12,6 +12,8 @@ tags: []
 order: '194'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou s'empare de Gangue-Diz
 
 Pendant toute la nuit et jusqu’à ce que le soleil se fût levé à l’horizon et eût fait briller la montagne comme le dos d’un éléphant blanc, Afrasiab s’occupa à mettre en ordre son armée et aucun Turc ne se livra au sommeil.
