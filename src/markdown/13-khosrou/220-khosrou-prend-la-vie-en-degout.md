@@ -12,6 +12,8 @@ tags: []
 order: '220'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou prend la vie en dégout
 
 L’âme de ce roi, qui était comblé des biens du monde, se remplit de pensées sur les jours qui s’écoulaient et sur le pouvoir qu’il exerçait.
