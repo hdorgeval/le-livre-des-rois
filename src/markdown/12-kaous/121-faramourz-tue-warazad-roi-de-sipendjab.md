@@ -12,6 +12,8 @@ tags: []
 order: '121'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Faramourz tue Warazad, roi de Sipendjab
 
 Un jeune guerrier, Faramourz, fils de Rustem, commandait l’avantsgarde ; il s’avança jusqu’à la frontière du Touran, où une vedette de l’ennemi le vit sur la route.
