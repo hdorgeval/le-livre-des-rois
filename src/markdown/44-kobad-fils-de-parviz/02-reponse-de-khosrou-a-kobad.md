@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Réponse de Khosrou Parviz à Kobad
 
 Maintenant je vais donner ma réponse à tout cela, pour que vous puissiez la répéter devant tout le peuple ; on se souviendra de moi après ma mort ; alors mes paroles véridiques témoigneront pour moi et quand je t’aurai dévoilé la multitude des fatigues que j’ai supportées, tu comprendras qu’elles aient produit des trésors.
