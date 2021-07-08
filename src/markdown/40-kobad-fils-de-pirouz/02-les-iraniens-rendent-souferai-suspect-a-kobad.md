@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Les Iraniens rendent Souferaï suspect à Kobad
 
 Les choses allèrent ainsi jusqu’à ce que le roi eût vingt et un ans.
