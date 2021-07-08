@@ -13,6 +13,8 @@ tags: ['Aboulkasem', 'Bélier', 'Chine', 'Mahmoud', 'Mani', 'Occident', 'Orient'
 order: '40'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire des septs stations
 
 Maintenant je vais conter l’aventure des sept stations; je la conterai dans un beau et frais récit, plein de combats et d’entreprises, de conseils et de résolutions, d’actes de vengeance et de justice, de batailles et de fêtes, et si la fortune veut pour une fois venir à mon aide et donner un libre essor à mon talent, je parlerai sous les auspices du roi Mahmoud, de son glorieux règne et de sa couronne royale.
