@@ -31,6 +31,8 @@ tags:
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Second combat d'Afrasiab contre Newder
 
 Les Iraniens formèrent leurs lignes comme il convient à des braves qui vont au combat ; les timbales et les trompettes retentissaient, tu aurais dit que la terre en tremblait.
