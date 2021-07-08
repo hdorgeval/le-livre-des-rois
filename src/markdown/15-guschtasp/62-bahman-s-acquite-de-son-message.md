@@ -36,6 +36,8 @@ tags:
 order: '62'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahman s'acquite de son message
 
 Le jeune homme se trouva devant une montagne, sur laquelle il poussa son cheval de guerre; d’en haut il avait la vue sur le lieu de la chasse, et il aperçut le Pehlewan de l’armée, un homme semblable au mont Bisoutoun;
