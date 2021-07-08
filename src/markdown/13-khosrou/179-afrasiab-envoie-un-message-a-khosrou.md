@@ -12,6 +12,8 @@ tags: []
 order: '179'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab envoie un message à Khosrou
 
 Le roi dit à Puckeng :
