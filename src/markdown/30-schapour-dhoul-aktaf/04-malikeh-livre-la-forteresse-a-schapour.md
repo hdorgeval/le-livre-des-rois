@@ -12,6 +12,8 @@ tags: []
 order: '004'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Malikeh livre la forteresse à Schapour et Thaïr y périt
 
 Lorsque le soleil faisait voir sa couronne du côté
