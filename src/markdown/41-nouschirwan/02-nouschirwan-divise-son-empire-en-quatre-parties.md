@@ -12,6 +12,8 @@ tags: []
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Nouschirwan divise son empire en quatre parties
 
 Le roi des rois appela les sages et leur parla des affaires du gouvernement du monde.
