@@ -12,6 +12,8 @@ tags: []
 order: '014'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schapour nomme régent son frère Ardeschir
 
 Le monde devint tel sous Schapour qu’on ne voyait pas d’épine sur les roses du jardin; il était si juste, si prudent, si intelligent, si prêt à travailler, à donner et à. se battre, qu’il ne lui restait pas un ennemi dans tout le pays, et que les méchants ne conservaient pas un refuge sur la terre. Lorsqu’il n’eut plus rien à espérer du ciel sublime, car ses an-
