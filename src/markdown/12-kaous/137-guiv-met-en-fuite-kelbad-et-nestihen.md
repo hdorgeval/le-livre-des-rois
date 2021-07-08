@@ -12,6 +12,8 @@ tags: []
 order: '137'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guiv met en fuite Kelbad et Nestihen
 
 Lorsque Guiv aperçut de loin la poussière que soulevait l’armée, il se hâta de tirer son épée, il poussa un cri comme le tonnerre des nues, un cri qui faisait trembler le cerveau et le cœur du lion ; il s’élança au milieu des cavaliers comme un brave et la terre devint sombre, épouvantée de sa fureur.
