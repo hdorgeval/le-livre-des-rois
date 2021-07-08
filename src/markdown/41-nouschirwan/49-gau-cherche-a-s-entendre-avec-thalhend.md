@@ -12,6 +12,8 @@ tags: []
 order: '049'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Gau cherche à s'entendre avec Thalhend
 
 Gau regarda ce champ de bataille, il vit l’air strié comme le dos d’un vaillant léopard, toutes les bouches remplies de poussière, toute la plaine couverte de sang et les lances montrant le chemin au milieu de la poussière.
