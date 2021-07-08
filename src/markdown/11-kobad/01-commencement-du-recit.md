@@ -34,6 +34,8 @@ tags:
 order: '001'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Commencement du récit
 
 Keïkobad s’assit sur le trône des Keïanides et mit sur sa tête la couronne ornée de joyaux.
