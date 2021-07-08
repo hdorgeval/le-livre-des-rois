@@ -46,6 +46,8 @@ tags:
 order: '005'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Keï Khosrou passe en revue les Pehlewans
 
 Le ciel continua de tourner jusqu’à ce que le soleil montra sa face dans le signe de la Vierge ; alors le roi appela de toutes les provinces les Mobeds et leur adressa des paroles convenables.
