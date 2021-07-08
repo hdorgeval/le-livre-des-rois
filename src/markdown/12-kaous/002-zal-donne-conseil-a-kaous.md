@@ -34,6 +34,8 @@ tags:
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal donne conseil à Kaous
 
 Zal marchait donc le premier, suivi des grands à la ceinture d’or ; et lorsque le fils de Sam vit Kaous assis sur le trône et joyeux dans son cœur, il s’avança, croisant les mains respectueusement et la tête baissée vers la terre, jusqu’auprès de son siège, en disant :
