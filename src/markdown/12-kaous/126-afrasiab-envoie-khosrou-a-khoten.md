@@ -12,6 +12,8 @@ tags: []
 order: '126'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Afrasiab envoie Keï Khosrou à Khoten
 
 Lorsque le soleil montra sa face au-dessus des montagnes et qu’il répandit ses rubis sur la poix des ténèbres, on entendit le bruit des armes et le son des trompettes et Tehemten mit en marche son armée.
