@@ -12,6 +12,8 @@ tags: []
 order: '019'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan de la Chine attaque l'Iran
 
 Quelque temps après, on apprit dans l’Inde, à Roum, chez les Turcs, en Chine et dans tous les pays habités, que Bahram n’était occupé que de plaisirs et qu’il ne tenait plus compte de personne ; qu’il n’envoyait plus de rondes, qu’il n’avait plus de guetteurs et que les frontières étaient dépourvues de gardiens ; qu’il passait son temps à se divertir et ne savait pas ce qui se faisait en public ou en secret.
