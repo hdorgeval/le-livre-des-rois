@@ -12,6 +12,8 @@ tags: []
 order: '123'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Défaite d'Afrasiab
 
 À ces paroles le farouche Turc trembla et poussa 9,8 . un soupir ; ensuite il s’écria avec colère :
