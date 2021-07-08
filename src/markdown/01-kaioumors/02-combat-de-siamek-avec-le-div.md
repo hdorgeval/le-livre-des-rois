@@ -12,6 +12,8 @@ tags: ['Ahriman', 'âme', 'Dieu', 'Div', 'Divs', 'Serosch', 'Siamek']
 order: '002'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Siamek avec le Div
 
 Lorsque les desseins hostiles du méchant Div parvinrent aux oreilles de Siamek, la colère souleva le cœur du jeune roi ; il rassembla une armée et prit conseil ; il couvrit son corps d’une peau de tigre, car la cuirasse n’était pas encore en usage à la guerre.
