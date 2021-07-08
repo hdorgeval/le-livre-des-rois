@@ -31,6 +31,8 @@ tags:
 order: '50'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Beschouten attaque le château d'airin
 
 La nuit étant arrivée, Isfendiar alluma un grand feu dont l’ardeur brûlait le ciel, et la sentinelle regardant de sa tour vit l’air rempli de feu et de fumée.
