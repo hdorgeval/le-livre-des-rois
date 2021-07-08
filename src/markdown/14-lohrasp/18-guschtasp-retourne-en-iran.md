@@ -38,6 +38,8 @@ tags:
 order: '18'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Guschtasp s'en retourne dans l'Iran avec Zerir et Lohrasp lui abandonne le trône
 
 Zerir s’étant levé pour partir, le Kaisar demanda à Guschtasp pourquoi il n’avait pas fait entendre une réponse.
