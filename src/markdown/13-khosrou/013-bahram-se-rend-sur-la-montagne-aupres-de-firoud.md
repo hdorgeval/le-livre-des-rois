@@ -42,6 +42,8 @@ tags:
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram se rend sur la montagne auprès de Firoud
 
 Bahram fils de Gouderz dit au Sipehdar :
