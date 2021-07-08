@@ -12,6 +12,8 @@ tags: []
 order: '130'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Rustem retourne dans le pays de l'Iran
 
 Rustem écouta ces paroles, il eut honte d’être resté si longtemps hors de son page et conçut un désir ardent de partir.
