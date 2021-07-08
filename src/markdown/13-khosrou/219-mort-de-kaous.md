@@ -12,6 +12,8 @@ tags: []
 order: '219'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mort de Keï Kaous
 
 Lorsque Kaous eut retrouvé sa sécurité, il énonça devant Dieu toutes les pensées secrètes de son coeur,.
