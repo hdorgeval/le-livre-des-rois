@@ -12,6 +12,8 @@ tags: []
 order: '102'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bijen se rend à la tente de Menijeh
 
 Bijen n’avait plus rien à dire ; il sortit de dessous l’ombre du cyprès et se dirigea à pied, rempli de désirs, vers la tente de la jeune tille au noble cœur.
