@@ -12,6 +12,8 @@ tags: []
 order: '041'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Schenguil se rend avec sept rois auprès de Bahram
 
 Lorsque Schenguil apprit par sa fille les hauts faits de Bahram, dont elle était la compagne sur le trône, il eut envie de voir l’Iran, la demeure de sa fille et du roi au noble caractère.
