@@ -12,6 +12,8 @@ tags: []
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Nouschirwan à ses employés
 
 Il fit écrire une lettre en pehlewi et tu me sauras gré si je te la récite.
