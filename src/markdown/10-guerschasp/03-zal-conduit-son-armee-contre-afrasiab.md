@@ -28,6 +28,8 @@ tags:
 order: '003'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Zal conduit son armée contre Afrasiab
 
 Les timbales et les trompettes, les éléphants de guerre et les clochettes indiennes firent dans le Zaboulistan un bruit comme celui du jour de la résurrection et la terre cria aux morts :
