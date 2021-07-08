@@ -12,6 +12,8 @@ tags: []
 order: '118'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kaous apprend le sort de Siawusch
 
 Lorsque Kaous apprit que Siawusch avait cessé
