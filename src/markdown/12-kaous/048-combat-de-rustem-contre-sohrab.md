@@ -12,6 +12,8 @@ tags: []
 order: '048'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Combat de Rustem contre Sohrab
 
 Sohrab se rendit au champ du combat et prit un javelot, tout en pensant avec étonnement aux paroles de sa mère.
