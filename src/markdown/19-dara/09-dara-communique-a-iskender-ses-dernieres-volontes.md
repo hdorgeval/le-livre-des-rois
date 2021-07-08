@@ -12,6 +12,8 @@ tags: []
 order: '009'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Dara communique à Iskender ses dernières volontés
 
 Les vizirs se rendirent auprès d’Iskender et lui dirent: «O roi comblé de victoires et de joies! nous «avons surpris et tué ton ennemi, et le trône et la «couronne des rois l’ont abandonné.» A ces paroles
