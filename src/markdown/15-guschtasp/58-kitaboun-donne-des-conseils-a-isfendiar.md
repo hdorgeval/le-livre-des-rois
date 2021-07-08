@@ -36,6 +36,8 @@ tags:
 order: '58'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Kitaboun donne des conseils à Isfendiar
 
 Quand Kitaboun sut ce qui s’était passé, elle se rendit auprès de son fils le cœur plein de colère, les yeux pleins de larmes, et dit au noble Isfendiar:
