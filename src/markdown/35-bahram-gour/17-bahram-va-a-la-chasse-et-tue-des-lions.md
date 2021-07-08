@@ -12,6 +12,8 @@ tags: []
 order: '017'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram va à la chasse et tue des lions
 
 Bahram Gour ordonna a ses esclaves de porter son trône dans le jardin printanier ; ils y portèrent. selon son ordre, le trône de turquoises et le placè-rent sous un arbre qui versait des lieurs ; on y mit du vin et des coupes et les musiciens se rendirent au. jardin avec les grands de la cour.
