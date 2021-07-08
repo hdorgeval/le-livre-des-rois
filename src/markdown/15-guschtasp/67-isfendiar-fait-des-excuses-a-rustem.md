@@ -35,6 +35,8 @@ tags:
 order: '67'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Isfendiar fait des excuses à Rustem
 
 Rustem monta à cheval, semblable à un éléphant, et Raksch hennit de manière à être entendu à deux milles.
