@@ -12,6 +12,8 @@ tags: []
 order: '010'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Iskender met à l'épreuve le médecin indien
 
 Ensuite Iskender fit venir le médecin qui pouvait, en voyant une goutte d’urine, indiquer la maladie
