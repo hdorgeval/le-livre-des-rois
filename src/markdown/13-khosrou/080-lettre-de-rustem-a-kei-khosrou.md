@@ -38,6 +38,8 @@ tags:
 order: '080'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Lettre de Rustem à Keï Khosrou
 
 Rustem appela un écrivain expérimenté et lui dit ce qu’il fallait mander au roi.
