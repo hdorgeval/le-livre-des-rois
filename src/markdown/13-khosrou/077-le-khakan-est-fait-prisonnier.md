@@ -50,6 +50,8 @@ tags:
 order: '077'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Le Khakan est fait prisonnier
 
 Le Khakan lui répondit par des injures et lui dit :
