@@ -12,6 +12,8 @@ tags: ['Afrasiab', 'Bahram', 'Div', 'Guirauguird', 'Iraniens', 'Keboudeh', 'Sipe
 order: '024'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Bahram fait prisonnier Keboudeh
 
 Lorsque l’armée fut réunie autour du Sipehbed et qu’elle se trouva sur la route de Guirauguird, après avoir traversé le feu, elle se mit en marche en bon ordre, couvrant de ses tentes les plaines et les ravins, prenant toutes les précautions nécessaires et envoyant de tous cotés des éclaireurs.
