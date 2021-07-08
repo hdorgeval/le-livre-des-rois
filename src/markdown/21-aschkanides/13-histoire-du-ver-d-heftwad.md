@@ -12,6 +12,8 @@ tags: []
 order: '013'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Histoire du ver d'Heftwad
 
 Écoute la merveilleuse histoire qu’a contée le Dihkan, lorsqu’il a dévoilé les secrets de la ville de Kudjaran sur le golfe Persique, en parlant de tout ce qui s’est passé dans le pays de Fars.
