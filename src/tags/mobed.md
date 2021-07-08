@@ -8,6 +8,8 @@ tags: [Mobed]
 order: '01'
 ---
 
+<!-- LTeX: language=fr -->
+
 # Mobed
 
 Ministre de la religion de Zoroastre.
