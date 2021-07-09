@@ -91,11 +91,12 @@ async function createGeoJsonContentFieldOnFileNode({ node, actions, loadNodeCont
 
   const { createNodeField } = actions;
   const content = `${await loadNodeContent(node)}`;
+  // check content is a valid JSON
   const geoData = JSON.parse(content);
   await createNodeField({
     node,
     name: 'geoData',
-    value: geoData,
+    value: JSON.stringify(geoData),
   });
 }
 
