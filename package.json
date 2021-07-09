@@ -53,11 +53,13 @@
     "gatsby-transformer-remark": "4.4.1",
     "gatsby-transformer-sharp": "3.7.1",
     "leaflet": "1.7.1",
+    "leaflet-draw": "1.0.4",
     "postcss": "8.3.5",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-helmet": "6.1.0",
-    "react-leaflet": "3.2.0"
+    "react-leaflet": "3.2.0",
+    "react-leaflet-draw": "0.19.8"
   },
   "devDependencies": {
     "@types/jest": "26.0.23",
