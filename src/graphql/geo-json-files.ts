@@ -14,29 +14,6 @@ export interface GeoJsonFile {
   name: string;
   extension: string;
   fields: {
-    geoData: GeoJsonData;
+    geoData: string;
   };
-}
-
-export interface GeoJsonData {
-  type: 'FeatureCollection';
-  features: GeoDataFeature[];
-}
-
-export interface GeoDataFeature {
-  type: 'Feature';
-  geometry: Geometry;
-  properties: GeoDataFeatureProperties;
-}
-
-export interface GeoDataFeatureProperties {
-  name: {
-    fr: string;
-    ar: string;
-  };
-}
-
-export interface Geometry {
-  type: 'Point';
-  coordinates: number[];
 }

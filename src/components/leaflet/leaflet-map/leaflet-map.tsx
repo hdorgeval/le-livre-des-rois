@@ -1,9 +1,15 @@
-import { AllGeoJsonFilesResponse, GeoDataFeature } from '../../../graphql';
-import { LayersType, overrideLeafletMarkers, TileLayers } from '../common';
+import { AllGeoJsonFilesResponse } from '../../../graphql';
+import {
+  GeoDataFeature,
+  GeoJsonData,
+  LayersType,
+  overrideLeafletMarkers,
+  TileLayers,
+} from '../common';
 import { graphql, useStaticQuery } from 'gatsby';
 import React from 'react';
 import { MapContainer, GeoJSON } from 'react-leaflet';
-import L, { LatLngLiteral } from 'leaflet';
+import L, { LatLngLiteral, PathOptions } from 'leaflet';
 
 export interface LeafletMapProps {
   geoJsonFilename: string;
@@ -17,22 +23,7 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
           node {
             id
             fields {
-              geoData {
-                features {
-                  geometry {
-                    coordinates
-                    type
-                  }
-                  type
-                  properties {
-                    name {
-                      ar
-                      fr
-                    }
-                  }
-                }
-                type
-              }
+              geoData
             }
             name
             extension
@@ -49,6 +40,7 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
       .map((edge) => edge.node)
       .filter((node) => `${node.name}.${node.extension}` === geoJsonFilename)
       .map((node) => node.fields.geoData)
+      .map((s) => JSON.parse(s) as GeoJsonData)
       .pop();
   }, [geoJsonFilename, geoJsonData]);
 
@@ -64,8 +56,8 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
 
     if (firstPoint) {
       return {
-        lat: firstPoint.coordinates[1],
-        lng: firstPoint.coordinates[0],
+        lat: firstPoint.coordinates[1] as number,
+        lng: firstPoint.coordinates[0] as number,
       };
     }
     return iranCenter;
@@ -97,12 +89,23 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
     setLayersType('Terrain');
   }, [layersType]);
 
-  const onEachFeature = (feature: GeoDataFeature, layer: L.Layer) => {
-    const name = feature?.properties?.name?.fr;
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const onEachFeature = (feature: any, layer: L.Layer) => {
+    const f = feature as GeoDataFeature;
+    const name = f?.properties?.name?.fr;
     if (name) {
       const popupContent = name;
       layer.bindPopup(popupContent);
     }
+  };
+
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const onStyleFeature = (feature: any): PathOptions => {
+    const f = feature as GeoDataFeature;
+    const options = f.properties?.options;
+    return {
+      ...options,
+    } as PathOptions;
   };
 
   if (!geoData) {
@@ -126,7 +129,7 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
           scrollWheelZoom={false}
         >
           <TileLayers layersType={layersType} />
-          <GeoJSON data={geoData} onEachFeature={onEachFeature} />
+          <GeoJSON data={geoData} onEachFeature={onEachFeature} style={onStyleFeature} />
         </MapContainer>
       </div>
       <div

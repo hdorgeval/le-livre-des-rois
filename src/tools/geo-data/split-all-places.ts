@@ -1,4 +1,4 @@
-import { GeoDataFeature, GeoJsonData } from '../../graphql';
+import { GeoDataFeature, GeoJsonData } from '../../components/leaflet/common';
 import { readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 
