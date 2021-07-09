@@ -330,6 +330,10 @@ exports.onCreateWebpackConfig = ({ actions, plugins, stage, getConfig, loaders }
             test: /leaflet-src/,
             use: loaders.null(),
           },
+          {
+            test: /leaflet-draw/,
+            use: loaders.null(),
+          },
         ],
       },
     });
