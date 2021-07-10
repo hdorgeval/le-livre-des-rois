@@ -48,7 +48,7 @@ Le cœur et la tête de Guersiwez bouillonnaient, mais il dissimula par courtois
 
 > Il ne se passera pas un an avant que Siawusch ne veuille plus ménager personne ; c’est à lui qu’appartiennent la royauté et le trône, le trésor, le pays et l’armée.»
 
-Il renferma en lui-même le secret de son aime, mais il trembla de colère et ses joues pâlirent ; il dità Siawusch :
+Il renferma en lui-même le secret de son aime, mais il trembla de colère et ses joues pâlirent ; il dit à Siawusch :
 
 > Tu goûtes les fruits de ton travail et ton cœur ne cesse de se réjouir de ton trésors»
 
