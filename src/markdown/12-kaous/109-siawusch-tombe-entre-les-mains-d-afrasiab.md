@@ -30,7 +30,7 @@ Il dit en lui-même :
 
 > Guersiwez cette fois a dit la vérité et il ne faut pas nier sa droiture en ce poian Siawusch tremblait pour sa vie, mais il ne voulut pas se cacher ; il resta donc jusqu’à ce que l’armée du Touran s’approchât et s’arrêtât devant lui.
 >
-> Il se tint immobile à la même place, espérant encore détruire l’effet des calomnies de ses. ennemis.
+> Il se tint immobile à la même place, espérant encore détruire l’effet des calomnies de ses ennemis.
 >
 > Les deux partis se regardèrent, jamais avant ce temps ils n’avaient senti de haine l’un pour l’autre.
 >
