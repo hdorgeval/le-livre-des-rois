@@ -1,6 +1,6 @@
 import { ArticleCard } from '.';
-import { AllMarkdownRemarkResponse } from '../../graphql';
-import { toMinutes } from '../../tools';
+import { AllMarkdownRemarkResponse } from '../../../graphql';
+import { toMinutes } from '../../../tools';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 

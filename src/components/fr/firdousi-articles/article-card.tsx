@@ -1,4 +1,4 @@
-import { MarkdownNode } from '../../graphql';
+import { MarkdownNode } from '../../../graphql';
 import React from 'react';
 import { Link } from 'gatsby';
 

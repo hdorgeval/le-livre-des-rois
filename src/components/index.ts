@@ -1,4 +1,3 @@
-export * from './firdousi-articles';
 export * from './genealogies/fr';
 export * from './layout/fr';
 export * from './leaflet';
