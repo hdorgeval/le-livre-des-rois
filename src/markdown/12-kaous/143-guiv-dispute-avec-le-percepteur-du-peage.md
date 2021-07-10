@@ -18,7 +18,7 @@ order: '143'
 
 Piran s’achemina tristement vers le Khoten et le puissant roi prit en toute hâte la route opposée ; lui et ses braves marchèrent vers le Djihoun et de colère il traînait le pan de sa robe dans le sang.
 
-Il dità Houman :
+Il dit à Houman :
 
 > Hâte-toi, lâche les rênes à ton cheval, jusqu’à ce que tu aies atteint le Djihoun : car si nous apprenons que Khosrou l’a franchi, toute notre peine est vaine comme le vent qui passe sur le désert.
 >
