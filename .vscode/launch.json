@@ -42,7 +42,7 @@
         "--output",
         "${fileDirname}/${fileBasenameNoExtension}.svg",
         "--cssFile",
-        "${workspaceFolder}/src/graphs/mermaid-graph.css"
+        "${workspaceFolder}/src/graphs/common/mermaid-graph.css"
       ],
       "cwd": "${workspaceFolder}",
       "console": "integratedTerminal",
