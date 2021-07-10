@@ -39,7 +39,7 @@ Tu as derrière tes rideaux une fille dont j’ai entendu dire qu’elle est dig
 Puisque tu trouves un gendre comme le fils de Kobad, sache que lesoleil t’a traité avec faveur.»
 
 ’ ’
-Le sage messager à. la langue affilée se rendit au-près du roi du Hamaveran ; il exerça sa langue et excita son cœur ; il prépara ses lèvres à prononcer de douces paroles ; il porta au roi le salut et les bénédictions de Kaous et s’acquitte de son message.
+Le sage messager à la langue affilée se rendit au-près du roi du Hamaveran ; il exerça sa langue et excita son cœur ; il prépara ses lèvres à prononcer de douces paroles ; il porta au roi le salut et les bénédictions de Kaous et s’acquitte de son message.
 
 Le roi du Hamaveran l’écouta, son cœur se remplit d’amertume et sa tête s’appesantit ; il dit en luimémé - :
 
