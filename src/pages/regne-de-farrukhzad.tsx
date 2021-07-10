@@ -1,4 +1,5 @@
-import { Layout, Title, SEO, FarrukhzadEpisodes } from '../components';
+import { Layout, Title, SEO } from '../components';
+import { FarrukhzadEpisodes } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (

@@ -1,4 +1,5 @@
-import { Layout, Title, SEO, ArdeschirBabekanEpisodes } from '../components';
+import { Layout, Title, SEO } from '../components';
+import { ArdeschirBabekanEpisodes } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (

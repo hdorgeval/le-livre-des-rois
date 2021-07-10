@@ -1,4 +1,5 @@
-import { Layout, Title, SEO, HouschengEpisodes } from '../components';
+import { Layout, Title, SEO } from '../components';
+import { HouschengEpisodes } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (

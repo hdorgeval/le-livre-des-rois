@@ -1,4 +1,5 @@
-import { Layout, Title, SEO, KhosrouParvizEpisodes } from '../components';
+import { Layout, Title, SEO } from '../components';
+import { KhosrouParvizEpisodes } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (

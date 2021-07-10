@@ -1,4 +1,5 @@
-import { Layout, Title, SEO, GuerschaspEpisodes } from '../components';
+import { Layout, Title, SEO } from '../components';
+import { GuerschaspEpisodes } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
