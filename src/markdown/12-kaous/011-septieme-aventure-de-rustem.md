@@ -22,7 +22,7 @@ Il prit Aulad avec lui et lança Raksch aussi rapidement que le vent.
 
 Quand Raksch fut arrivé dans les sept montagnes et auprès de ces troupes de Divs courageux, Rustem s’approcha de la caverne sans fond et vil tout autour l’armée du Div.
 
-Il dità Aulad :
+Il dit à Aulad :
 
 > Dans KEÏ nous.
 >
