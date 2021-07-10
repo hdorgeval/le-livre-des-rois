@@ -15,7 +15,11 @@ export async function getLastCommitForUpdatedContentOf(
   const fileHistory = await git.log({ file: filepath });
   const mostRecent = fileHistory.all
     .filter(
-      (history) => !history.message.includes('metadata') && !history.message.includes('metada'),
+      (history) =>
+        !history.message.includes('metadata') &&
+        !history.message.includes('metada') &&
+        !history.message.includes('refactor') &&
+        !history.message.includes('refacto'),
     )
     .shift();
   const oldest = [...fileHistory.all].pop();
