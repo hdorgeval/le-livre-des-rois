@@ -1,4 +1,4 @@
-import { Tag } from '../common/tag';
+import { Tag } from '../../common';
 import { AllMarkdownRemarkResponse, MarkdownGroupedTag } from '../../../graphql';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
