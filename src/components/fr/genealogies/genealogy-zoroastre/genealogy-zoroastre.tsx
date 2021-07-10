@@ -1,4 +1,4 @@
-import { Genealogy } from '../../../common/genealogy';
+import { Genealogy } from '../../../common';
 import { AllFileResponse } from '../../../../graphql';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
