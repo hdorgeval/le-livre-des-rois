@@ -127,24 +127,26 @@ r : éclaire les cieux.
 Le méchant Guersiwez lui répondit :
 
 > Sache qu’Afrasiab n’est plus tel que tu l’as vu.
+>
+> D’ailleurs quand le ciel qui tourne s’irrite et couvre sa face de rides, l’homme même le plus sage et le plus savant peut ne pas voir la fraude qui paraît sur le bord de l’horizon.
+>
+> Toi, malgré ta sagesse et ton esprit prudent, malgré ta haute stature et ta puissante volonté, tu ne sais pas distinguer entre la ruse et l’amitié.
+>
+> Puisse la mauvaise fortune ne jamais t’atr : teindre !
+>
+> Afrasiah t’a entouré d’artifices et de sorceL nieries, il a fasciné les yeux de ton intelligence.
+>
+> D’abord il t’a donné le nom de gendre et tu t’en zes follement réjoui ; ensuite quand il t’a fait partir, il t’a donné un festin où assistaient les grands, dans l’espoir que tu serais hautain envers lui et que cela ferait mal parler de toi.
+>
+> Tu n’es pas un parent ou un allié plus proche de lui que ne l’était le noble Aghrirez et pourtant il l’a coupé en deux avec son épée et a frappé l’armée de terreur par cette mauvaise action.
+>
+> Je t’ai maintenant développé tous les replis de son âme, sache qu’il est tel queje dis et ne te fie pas à sa parenté.
+>
+> Tous les soucis qui agitent mon cœur, toutes mes pensées et les ressources de toute espèce que je possède, je te les ai ce révélées, je les ai rendues claires comme la lumière du soleil.
+>
+> Tu as laissé ton père dans l’Iran, tu as fondé une ville dans le Touran, tu as livré ton n cœur aux paroles d’Al’rasiab, tu t’es plu à l’entourer de tes soins et pourtant tu n’as fait que planter de tes mains un arbre dont le fruit est du poison, dont les feuilles sont du venin.»
 
-D’ailleurs quand le ciel qui tourne s’irrite et couvre sa face de rides, l’homme même le plus sage et le plus savant peut ne pas voir la fraude qui paraît sur le bord de l’horizon.
-
-Toi, malgré ta sagesse et ton esprit prudent, malgré ta haute stature et ta puissante volonté, tu ne sais pas distinguer entre la ruse et l’amitié.
-
-Puisse la mauvaise fortune ne jamais t’atr : teindre !
-
-Afrasiah t’a entouré d’artifices et de sorceL nieries, il a fasciné les yeux de ton intelligence.
-
-D’abord il t’a donné le nom de gendre et tu t’en zes follement réjoui ; ensuite quand il t’a fait partir, il t’a donné un festin où assistaient les grands, dans l’espoir que tu serais hautain envers lui et que cela ferait mal parler de toi.
-
-Tu n’es pas un parent ou un allié plus proche de lui que ne l’était le noble Aghrirez et pourtant il l’a coupé en deux avec son épée et a frappé l’armée de terreur par cette mauvaise action.
-
-Je t’ai maintenant développé tous les replis de son âme, sache qu’il est tel queje dis et ne te fie pas à sa parenté.
-
-Tous les soucis qui agitent mon cœur, toutes mes pensées et les ressources de toute espèce que je possède, je te les ai ce révélées, je les ai rendues claires comme la lumière du soleil.
-
-Tu as laissé ton père dans l’Iran, tu as fondé une ville dans le Touran, tu as livré ton n cœur aux paroles d’Al’rasiab, tu t’es plu à l’entourer de tes soins et pourtant tu n’as fait que planter de tes mains un arbre dont le fruit est du poison, dont les feuilles sont du veninm Pendant que Guersiwez parlait ainsi, ses cils étaient mouillés de larmes, son cœur rempli de ruse, ses lèvres poussaient des soupirs.
+Pendant que Guersiwez parlait ainsi, ses cils étaient mouillés de larmes, son cœur rempli de ruse, ses lèvres poussaient des soupirs.
 
 Siawusch le regarda avec étonnement et deux torrents de larmes coulaient sur ses joues ; il pensa à son sort malheureux, au ciel qui le privait de son amour, à la fin de sa jeune vie qui s’approchait, au peu de temps qui lui restait à vivre.
 
