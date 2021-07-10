@@ -1,11 +1,11 @@
-import { Genealogy } from '../../common/genealogy';
+import { Genealogy } from '../../../common/genealogy';
 import { AllFileResponse } from '../../../../graphql';
 import React from 'react';
 import { graphql, useStaticQuery } from 'gatsby';
-export const GenealogyDjamasp: React.FC = () => {
+export const GenealogyNewder: React.FC = () => {
   const data = useStaticQuery<AllFileResponse>(graphql`
     {
-      allFile(filter: { absolutePath: { glob: "**/djamasp.svg" } }) {
+      allFile(filter: { absolutePath: { glob: "**/newder.svg" } }) {
         edges {
           node {
             id
@@ -25,5 +25,5 @@ export const GenealogyDjamasp: React.FC = () => {
 
   const graph = data.allFile.edges[0].node.fields.svgContent;
 
-  return <Genealogy treeName="Djamasp" svgGraph={graph} />;
+  return <Genealogy treeName="Newder" svgGraph={graph} />;
 };

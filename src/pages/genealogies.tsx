@@ -1,4 +1,5 @@
-import { Layout, Title, SEO, Genealogies } from '../components';
+import { Layout, Title, SEO } from '../components';
+import { Genealogies } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
