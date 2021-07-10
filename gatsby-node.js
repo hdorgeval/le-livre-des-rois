@@ -127,7 +127,13 @@ async function createAllFrenchEpisodePages(graphql, actions) {
   const episodeTemplate = path.resolve('src/templates/fr/episode-template/episode-template.tsx');
   const { data } = await graphql(`
     {
-      allMarkdownRemark(sort: { fields: fields___slug, order: ASC }, filter: {}) {
+      allMarkdownRemark(
+        filter: {
+          frontmatter: { lang: { eq: "fr" } }
+          fileAbsolutePath: { glob: "**/markdown/**/*.md" }
+        }
+        sort: { fields: fields___slug, order: ASC }
+      ) {
         edges {
           node {
             fileAbsolutePath
@@ -209,7 +215,7 @@ async function createAllFrenchTagPages(graphql, actions) {
   const tagTemplate = path.resolve('src/templates/fr/tag-template/tag-template.tsx');
   const { data } = await graphql(`
     {
-      allMarkdownRemark {
+      allMarkdownRemark(filter: { frontmatter: { lang: { eq: "fr" } } }) {
         group(field: frontmatter___tags) {
           fieldValue
         }
