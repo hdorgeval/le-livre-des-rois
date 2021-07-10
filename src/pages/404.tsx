@@ -1,4 +1,5 @@
-import { Layout, SEO } from '../components';
+import { SEO } from '../components';
+import { Layout } from '../components/fr';
 import React from 'react';
 import { Link } from 'gatsby';
 

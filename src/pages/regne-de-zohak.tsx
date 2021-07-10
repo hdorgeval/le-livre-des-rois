@@ -1,5 +1,5 @@
-import { Layout, Title, SEO } from '../components';
-import { ZohakEpisodes } from '../components/fr';
+import { Title, SEO } from '../components';
+import { Layout, ZohakEpisodes } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (

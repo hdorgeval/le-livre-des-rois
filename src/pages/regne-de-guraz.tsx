@@ -1,5 +1,5 @@
-import { Layout, Title, SEO } from '../components';
-import { GurazEpisodes } from '../components/fr';
+import { Title, SEO } from '../components';
+import { GurazEpisodes, Layout } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (

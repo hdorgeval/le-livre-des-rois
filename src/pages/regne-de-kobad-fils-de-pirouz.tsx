@@ -1,5 +1,5 @@
-import { Layout, Title, SEO } from '../components';
-import { KobadSonOfPirouzEpisodes } from '../components/fr';
+import { Title, SEO } from '../components';
+import { KobadSonOfPirouzEpisodes, Layout } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (

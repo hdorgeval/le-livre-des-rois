@@ -1,5 +1,5 @@
-import { Layout, Title, SEO } from '../components';
-import { YezdeguerdSonOfBahramEpisodes } from '../components/fr';
+import { Title, SEO } from '../components';
+import { Layout, YezdeguerdSonOfBahramEpisodes } from '../components/fr';
 import React from 'react';
 // eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (

@@ -1,9 +1,11 @@
 import { MarkdownRemarkResponse } from '../../graphql';
-import { Layout, SEO } from '../../components';
+import { Layout } from '../../components/fr';
+import { SEO } from '../../components';
 import React from 'react';
 import { graphql, Link } from 'gatsby';
 import './episode-template.css';
 import { getImage, GatsbyImage } from 'gatsby-plugin-image';
+
 const firstSlug = '/01-kaioumors/01-commencement-du-recit/';
 
 interface MarkdownTemplateProps {

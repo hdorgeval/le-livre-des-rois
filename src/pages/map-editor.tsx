@@ -1,4 +1,5 @@
-import { Layout, Title, SEO, LeafletEditor } from '../components';
+import { Title, SEO, LeafletEditor } from '../components';
+import { Layout } from '../components/fr';
 import React from 'react';
 const Index: React.FC = () => (
   <Layout>

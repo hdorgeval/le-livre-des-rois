@@ -1,4 +1,3 @@
-export * from './layout/fr';
 export * from './leaflet';
 export * from './read-more-read-less';
 export * from './reigns/fr';
