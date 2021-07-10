@@ -1,4 +1,4 @@
-import { AllGeoJsonFilesResponse } from '../../../graphql';
+import { AllGeoJsonFilesResponse } from '../../../../graphql';
 import {
   GeoDataFeature,
   GeoJsonData,

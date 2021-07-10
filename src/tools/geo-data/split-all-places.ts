@@ -1,4 +1,4 @@
-import { GeoDataFeature, GeoJsonData } from '../../components/leaflet/common';
+import { GeoDataFeature, GeoJsonData } from '../../components/common/leaflet';
 import { readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 
