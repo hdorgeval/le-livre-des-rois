@@ -20,7 +20,7 @@ Il arriva qu’un jour Zewareh partit pour aller à la chasse aux onagres ; il s
 
 Il vit un bois au milieu de la large plaine, tu aurais cru qu’on ne pouvait le quitter, tant il était beau de couleur et de parfum et arrosé d’eaux courantes ; on aurait dit que l’âme s’en nourrissait.
 
-Alors ce Turc ouvrit imprudemment ses lèvres et dità :
+Alors ce Turc ouvrit imprudemment ses lèvres et dit à :
 
 > ) Zewareh : Ici étaient les réserves de chasse de Siawusch, voilà le lieu qu’il préférait à tout le pays de Touran ; c’est ici qu’il était gai et heureux, partout ce ailleurs il était triste.»
 
