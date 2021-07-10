@@ -1,6 +1,6 @@
-import { MarkdownRemarkResponse } from '../../graphql';
-import { Layout } from '../../components/fr';
-import { SEO } from '../../components';
+import { MarkdownRemarkResponse } from '../../../graphql';
+import { Layout } from '../../../components/fr';
+import { SEO } from '../../../components';
 import React from 'react';
 import { graphql, Link } from 'gatsby';
 import './episode-template.css';

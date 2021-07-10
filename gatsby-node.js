@@ -122,9 +122,9 @@ exports.onCreateNode = async ({ node, getNode, actions, loadNodeContent }) => {
   });
 };
 
-async function createAllEpisodePages(graphql, actions) {
+async function createAllFrenchEpisodePages(graphql, actions) {
   const { createPage } = actions;
-  const episodeTemplate = path.resolve('src/templates/episode-template/episode-template.tsx');
+  const episodeTemplate = path.resolve('src/templates/fr/episode-template/episode-template.tsx');
   const { data } = await graphql(`
     {
       allMarkdownRemark(sort: { fields: fields___slug, order: ASC }, filter: {}) {
@@ -204,9 +204,9 @@ async function createAllEpisodePages(graphql, actions) {
   });
 }
 
-async function createAllTagPages(graphql, actions) {
+async function createAllFrenchTagPages(graphql, actions) {
   const { createPage } = actions;
-  const tagTemplate = path.resolve('src/templates/tag-template/tag-template.tsx');
+  const tagTemplate = path.resolve('src/templates/fr/tag-template/tag-template.tsx');
   const { data } = await graphql(`
     {
       allMarkdownRemark {
@@ -236,8 +236,8 @@ async function createAllTagPages(graphql, actions) {
 }
 
 exports.createPages = async ({ graphql, actions }) => {
-  await createAllEpisodePages(graphql, actions);
-  await createAllTagPages(graphql, actions);
+  await createAllFrenchEpisodePages(graphql, actions);
+  await createAllFrenchTagPages(graphql, actions);
 };
 
 exports.onPostBootstrap = () => {
