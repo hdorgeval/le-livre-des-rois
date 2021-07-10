@@ -8,13 +8,25 @@ source: tome I - livre des rois - P. 406
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: '2ème aventure -Raksch trouve une source | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Dieu',
+    'Div',
+    'Iraniens',
+    'Kaous',
+    'Raksch',
+    'Rustem',
+    'Seigneur',
+    'Tehemten',
+    'Tout-Puissant',
+  ]
 order: '006'
 ---
 
 <!-- LTeX: language=fr -->
 
-# 2ème aventure -Rustem trouve une source
+# 2ème aventure - Rustem trouve une source
 
 Rustem avait devant lui un chemin difficile qu’il fallait traverser en toute hâte.
 
