@@ -54,7 +54,7 @@ Le nom de Dieu de qui vient tout bien et fit voler comme le vent son destrier ra
 
 La lettre du roi disparut ; on entendit un grand bruit ; le sol du château se souleva et soudain, par l’ordre de Dieu, le mur du château se fendit avec un bruit comme celui du tonnerre ou d’un orage de printemps.
 
-La plaine et la montagne en résonnèrent ; le monde devint noir comme le visage d’un nègre ; on ne voyait plus ni soleil, ni Pléiades, ni lune ; on aurait ditqu’un nuage noir couvrait la terre et le ciel ressemblait à. la gueule du lion.
+La plaine et la montagne en résonnèrent ; le monde devint noir comme le visage d’un nègre ; on ne voyait plus ni soleil, ni Pléiades, ni lune ; on aurait ditqu’un nuage noir couvrait la terre et le ciel ressemblait à la gueule du lion.
 
 Keï Khosrou lança son cheval noir, en disant aux braves de l’armée :
 
