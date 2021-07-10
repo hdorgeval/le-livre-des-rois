@@ -18,7 +18,7 @@ order: '005'
 
 Le preux qui était la gloire du monde quitta son père et le pays de Nimrouz.
 
-Il fit en un seul jour deuxjournées de marche, tenant la nuit sombre pour aussi bonne que le jour ; ainsi le pied de Raksch foula la route également pendant le jour lumineux et pendant la nuit noire.
+Il fit en un seul jour deux journées de marche, tenant la nuit sombre pour aussi bonne que le jour ; ainsi le pied de Raksch foula la route également pendant le jour lumineux et pendant la nuit noire.
 
 Lorsque Rustem eut faim et qu’il se sentit fatigué, il arriva dans une plaine remplie d’onagres ; il eut envie d’en prendre un et serra Raksch du genou et la course de l’onagre devint lourde comparée à la sienne ; car aucune bête fauve n’avait de chances devant Rustem à cheval, devant son lacet et le pied de Raksch.
 
@@ -32,22 +32,24 @@ Lorsque la première veille fut passée, le terrible lion rentra dans son gîte 
 
 Il se dit :
 
-> Il faut que je déchire d’abord le cheval, alors le cavalier sera à moi quand je voudraim Puis, il courut en bondissant vers Raksch le brillant.
+> Il faut que je déchire d’abord le cheval, alors le cavalier sera à moi quand je voudrai.
 
-Mais ce-lui-ci s’élance comme le feu, levaises deux pieds de devant et frappa le lion sur la tête ; il le saisit avec ses dents aiguës par le dos et en battit la terre jus--qu’à ce qu’il l’eût mis en lambeaux ; c’est par ce moyen qu’il tua la bête féroce.
+Puis, il courut en bondissant vers Raksch le brillant.
 
-Lorsque Rustem prompt à. combattre fut réveillé, il vit queole monde était devenu étroit par la masse de ce terrible lion et il dità Raksch :
+Mais celui-ci s’élança comme le feu, leva ses deux pieds de devant et frappa le lion sur la tête ; il le saisit avec ses dents aiguës par le dos et en battit la terre jusqu’à ce qu’il l’eût mis en lambeaux ; c’est par ce moyen qu’il tua la bête féroce.
+
+Lorsque Rustem prompt à combattre fut réveillé, il vit que le monde était devenu étroit par la masse de ce terrible lion et il dit à Raksch :
 
 > Ô prudent animal !
+>
+> Qui t’a ordonné de combattre un lion ?
+>
+> Si tu étais tombé sous ses griffes, comment aurais-je porté jusque dans le Mazenderan cette cuirasse et ce casque de guerrier et mon lacet, mon arc, mon épée et cette lourde massue ?
+>
+> Si j’avais été averti dans mon doux sommeil, ton combat avec le lion aurait été court.
 
-Qui t’a ordonné de combattre un lion ?
+Ainsi dit le héros renommé, le guerrier vaillant se remit à dormir et se reposa longuement.
 
-Si tu étais tombé sous ses griffes, comment aurais-je porté jusque dans le Mazenderan cette cuirasse et ce casque de guerrier et mon lacet, mon arc, mon épée et cette lourde il] :.
+Enfin, lorsque le soleil leva sa tête au-dessus des sombres montagnes, Rustem se réveilla de son doux sommeil, encore tout fatigué.
 
-1 massue ?
-
-Si j’avais été averti dans mon doux sonimeil, ton combat avec le lion aurait été Ainsi dit le héros renommé, le guerrier vaillant se remit à dormir et reposa longuement.
-
-Enfin, lorsque le soleil leva sa tête au-dessus des sombres montagnes, Rustem se réveilla de son doux sommeil, encore toutf’atigué.
-
-Il étrilla Raksch, lui mit la selle surle dos et adressa ses. prières à Dieu qui répand les grâces.
+Il étrilla Raksch, lui mit la selle sur le dos et adressa ses prières à Dieu qui répand les grâces.
