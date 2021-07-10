@@ -326,8 +326,13 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/l’Irau /g, 'l’Iran '),
     (content: string) => content.replace(/courenne/g, 'couronne'),
     (content: string) => content.replace(/sm /g, 's.» '),
+    (content: string) => content.replace(/nm /g, 'n.» '),
+    (content: string) => content.replace(/im P/g, 'i.» P'),
     (content: string) => content.replace(/corlége/g, 'cortège'),
     (content: string) => content.replace(/sl /g, 's ! '),
+    (content: string) => content.replace(/à\. /g, 'à '),
+    (content: string) => content.replace(/dità /g, 'dit à '),
+    (content: string) => content.replace(/ ses. /g, ' ses '),
   ].forEach((format) => {
     result = format(result);
   });
