@@ -6,7 +6,7 @@ import { graphql, Link } from 'gatsby';
 import './episode-template.css';
 import { getImage, GatsbyImage } from 'gatsby-plugin-image';
 
-const firstSlug = '/01-kaioumors/01-commencement-du-recit/';
+const firstSlug = '/fr/01-kaioumors/01-commencement-du-recit/';
 
 interface MarkdownTemplateProps {
   data: MarkdownRemarkResponse;

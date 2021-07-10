@@ -8,7 +8,7 @@ export const HormuzdEpisodes: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
       allMarkdownRemark(
-        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/42-hormuzd/**/*.md"}, frontmatter: {order: {}}}
+        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/fr/42-hormuzd/**/*.md"}, frontmatter: {order: {}}}
       ) {
         ...Episodes
       }

@@ -8,7 +8,7 @@ export const BahramSonOfSchapourEpisodes: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
       allMarkdownRemark(
-        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/33-bahram-fils-de-schapour/**/*.md"}, frontmatter: {order: {}}}
+        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/fr/33-bahram-fils-de-schapour/**/*.md"}, frontmatter: {order: {}}}
       ) {
         ...Episodes
       }

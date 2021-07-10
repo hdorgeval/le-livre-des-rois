@@ -8,7 +8,7 @@ export const BahramSonOfOrmuzdCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/25-bahram-fils-d-ormuzd/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/25-bahram-fils-d-ormuzd/**/*.md" } }
       ) {
         totalCount
       }

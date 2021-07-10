@@ -8,7 +8,7 @@ export const ZohakCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/05-zohak/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/05-zohak/**/*.md" } }
       ) {
         totalCount
       }

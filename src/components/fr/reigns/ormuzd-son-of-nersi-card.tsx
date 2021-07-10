@@ -8,7 +8,7 @@ export const OrmuzdSonOfNersiCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/29-ormuzd-fils-de-nersi/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/29-ormuzd-fils-de-nersi/**/*.md" } }
       ) {
         totalCount
       }

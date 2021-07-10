@@ -8,7 +8,7 @@ export const YezdeguerdSonOfBahramCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/36-yezdeguerd-fils-de-bahram/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/36-yezdeguerd-fils-de-bahram/**/*.md" } }
       ) {
         totalCount
       }

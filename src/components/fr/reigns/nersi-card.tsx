@@ -8,7 +8,7 @@ export const NersiCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/28-nersi/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/28-nersi/**/*.md" } }
       ) {
         totalCount
       }

@@ -130,7 +130,7 @@ async function createAllFrenchEpisodePages(graphql, actions) {
       allMarkdownRemark(
         filter: {
           frontmatter: { lang: { eq: "fr" } }
-          fileAbsolutePath: { glob: "**/markdown/**/*.md" }
+          fileAbsolutePath: { glob: "**/markdown/fr/**/*.md" }
         }
         sort: { fields: fields___slug, order: ASC }
       ) {

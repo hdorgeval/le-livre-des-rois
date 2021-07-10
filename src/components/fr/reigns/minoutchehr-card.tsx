@@ -8,7 +8,7 @@ export const MinoutchehrCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/07-minoutchehr/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/07-minoutchehr/**/*.md" } }
       ) {
         totalCount
       }

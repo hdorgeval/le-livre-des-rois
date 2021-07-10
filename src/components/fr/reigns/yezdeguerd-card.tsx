@@ -8,7 +8,7 @@ export const YezdeguerdCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/34-yezdeguerd/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/34-yezdeguerd/**/*.md" } }
       ) {
         totalCount
       }

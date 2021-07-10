@@ -8,7 +8,7 @@ export const FeridounCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/06-feridoun/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/06-feridoun/**/*.md" } }
       ) {
         totalCount
       }

@@ -8,7 +8,7 @@ export const IskenderCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/20-iskender/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/20-iskender/**/*.md" } }
       ) {
         totalCount
       }

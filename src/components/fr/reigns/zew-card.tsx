@@ -8,7 +8,7 @@ export const ZewCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/09-zew/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/09-zew/**/*.md" } }
       ) {
         totalCount
       }

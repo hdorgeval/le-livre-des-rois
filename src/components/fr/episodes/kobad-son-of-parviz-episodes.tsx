@@ -8,7 +8,7 @@ export const KobadSonOfParvizEpisodes: React.FC = () => {
   const data = useStaticQuery<AllMarkdownRemarkResponse>(graphql`
     {
       allMarkdownRemark(
-        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/44-kobad-fils-de-parviz/**/*.md"}, frontmatter: {order: {}}}
+        sort: {fields: frontmatter___order, order: ASC}, filter: {fileAbsolutePath: {glob: "**/markdown/fr/44-kobad-fils-de-parviz/**/*.md"}, frontmatter: {order: {}}}
       ) {
         ...Episodes
       }

@@ -8,7 +8,7 @@ export const BahmanCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/16-bahman/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/16-bahman/**/*.md" } }
       ) {
         totalCount
       }

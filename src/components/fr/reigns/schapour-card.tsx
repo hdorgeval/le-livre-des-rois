@@ -8,7 +8,7 @@ export const SchapourCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/23-schapour/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/23-schapour/**/*.md" } }
       ) {
         totalCount
       }

@@ -8,7 +8,9 @@ export const ArdeschirSonOfSchirouiCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/45-ardeschir-fils-de-schiroui/**/*.md" } }
+        filter: {
+          fileAbsolutePath: { glob: "**/markdown/fr/45-ardeschir-fils-de-schiroui/**/*.md" }
+        }
       ) {
         totalCount
       }

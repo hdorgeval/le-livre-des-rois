@@ -8,7 +8,7 @@ export const GurazCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/46-guraz/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/46-guraz/**/*.md" } }
       ) {
         totalCount
       }

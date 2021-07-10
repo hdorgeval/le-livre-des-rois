@@ -8,7 +8,7 @@ export const KobadSonOfParvizCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/44-kobad-fils-de-parviz/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/44-kobad-fils-de-parviz/**/*.md" } }
       ) {
         totalCount
       }

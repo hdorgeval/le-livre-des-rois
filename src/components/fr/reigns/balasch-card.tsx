@@ -8,7 +8,7 @@ export const BalaschCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/39-balasch/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/39-balasch/**/*.md" } }
       ) {
         totalCount
       }

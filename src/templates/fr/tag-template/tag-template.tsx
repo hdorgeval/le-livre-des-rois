@@ -45,7 +45,7 @@ export const query = graphql`
       limit: 1000
       sort: { fields: fileAbsolutePath, order: ASC }
       filter: {
-        fileAbsolutePath: { glob: "**/markdown/**/*.md" }
+        fileAbsolutePath: { glob: "**/markdown/fr/**/*.md" }
         frontmatter: { tags: { in: [$tag] } }
       }
     ) {

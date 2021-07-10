@@ -8,7 +8,7 @@ export const GuschtaspCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 100
-        filter: { fileAbsolutePath: { glob: "**/markdown/15-guschtasp/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/15-guschtasp/*.md" } }
       ) {
         totalCount
       }

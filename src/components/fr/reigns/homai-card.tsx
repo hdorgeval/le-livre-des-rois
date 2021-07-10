@@ -8,7 +8,7 @@ export const HomaiCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/17-homai/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/17-homai/**/*.md" } }
       ) {
         totalCount
       }

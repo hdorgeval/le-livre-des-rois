@@ -8,7 +8,7 @@ export const DarabCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/18-darab/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/18-darab/**/*.md" } }
       ) {
         totalCount
       }

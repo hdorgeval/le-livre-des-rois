@@ -8,7 +8,7 @@ export const HormuzCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/37-hormuz/**/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/markdown/fr/37-hormuz/**/*.md" } }
       ) {
         totalCount
       }
