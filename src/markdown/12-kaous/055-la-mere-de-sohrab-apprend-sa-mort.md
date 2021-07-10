@@ -68,7 +68,7 @@ Je tenais mes deux yeux fixés sur la route, disant en moi-même :
 >
 > Pourquoi ne me suis-je pas mise en route avec toi ?
 >
-> Car alors le soleil et la lune auraient tourné à. ton gré.
+> Car alors le soleil et la lune auraient tourné à ton gré.
 >
 > Rustem m’aurait reconnue de loin et nous aurait reçus avec joie, ô mon fils !
 >
