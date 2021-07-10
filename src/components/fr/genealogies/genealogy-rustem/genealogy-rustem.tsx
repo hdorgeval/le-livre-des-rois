@@ -5,7 +5,7 @@ import { graphql, useStaticQuery } from 'gatsby';
 export const GenealogyRustem: React.FC = () => {
   const data = useStaticQuery<AllFileResponse>(graphql`
     {
-      allFile(filter: { absolutePath: { glob: "**/rustem.svg" } }) {
+      allFile(filter: { absolutePath: { glob: "**/fr/**/rustem.svg" } }) {
         edges {
           node {
             id
