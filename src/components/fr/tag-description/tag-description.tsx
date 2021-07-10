@@ -11,7 +11,7 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
     {
       allMarkdownRemark(
         sort: { order: ASC, fields: frontmatter___order }
-        filter: { fileAbsolutePath: { glob: "**/tags/*.md" } }
+        filter: { fileAbsolutePath: { glob: "**/tags/fr/*.md" } }
       ) {
         edges {
           node {
