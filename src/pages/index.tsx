@@ -1,5 +1,5 @@
-import { Title, SEO, ReignCards, ReadMoreReadLess } from '../components';
-import { Layout } from '../components/fr';
+import { Title, SEO, ReadMoreReadLess } from '../components';
+import { Layout, ReignCards } from '../components/fr';
 import React from 'react';
 const Index: React.FC = () => (
   <Layout>
