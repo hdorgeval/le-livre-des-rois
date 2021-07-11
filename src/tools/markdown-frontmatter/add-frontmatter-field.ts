@@ -43,7 +43,7 @@ export const addFrontmatterField = (rootDirectory: PathLike): void => {
 
 export const addFrontmatterFieldIn = (markdownFile: PathLike): void => {
   const lines = readAllLinesInFile(markdownFile);
-  const search = markdownFile.toString().match(/markdown\/\d\d-(.*)\//i);
+  const search = markdownFile.toString().match(/markdown\/fr\/\d\d-(.*)\//i);
   const reign = search ? search[1] : '';
   const formattedReign = reignMapping[reign] || reign;
 

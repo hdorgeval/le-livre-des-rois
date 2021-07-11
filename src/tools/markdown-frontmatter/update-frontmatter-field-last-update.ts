@@ -23,6 +23,7 @@ export const updateFrontmatterField = async (rootDirectory: PathLike): Promise<v
 export const updateFrontmatterFieldIn = async (markdownFile: PathLike): Promise<void> => {
   const lines = readAllLinesInFile(markdownFile);
   const lastCommit = await getLastCommitForUpdatedContentOf(markdownFile.toString());
+  let hasBeenUpdated = false;
   const refactoredLines = lines.map((line) => {
     if (line.startsWith('lastUpdate:')) {
       if (!lastCommit) {
@@ -33,12 +34,19 @@ export const updateFrontmatterFieldIn = async (markdownFile: PathLike): Promise<
       const month = lastCommitDate.toLocaleDateString('en', { month: '2-digit' });
       const day = lastCommitDate.toLocaleDateString('en', { day: '2-digit' });
       const lastUpdate = `${year}-${month}-${day}`;
-      return `lastUpdate: '${lastUpdate}'`;
+      const updatedLine = `lastUpdate: '${lastUpdate}'`;
+      if (line !== updatedLine) {
+        hasBeenUpdated = true;
+      }
+      return updatedLine;
     }
 
     return line;
   });
-  writeFileSync(markdownFile, refactoredLines.join(EOL));
+
+  if (hasBeenUpdated) {
+    writeFileSync(markdownFile, refactoredLines.join(EOL));
+  }
 };
 
 updateFrontmatterField(path.join(process.cwd(), 'src', 'markdown')).then(() => {

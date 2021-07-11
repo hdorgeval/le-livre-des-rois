@@ -79,7 +79,7 @@ export const addFrontmatterFieldIn = (markdownFile: PathLike): void => {
   }
 
   const lines = readAllLinesInFile(markdownFile);
-  const search = markdownFile.toString().match(/markdown\/(\d\d-.*)\//i);
+  const search = markdownFile.toString().match(/markdown\/fr\/(\d\d-.*)\//i);
   const reign = search ? search[1] : '';
   const slug = reignMapping[reign] || '';
   const refactoredLines = lines.map((line) => {
