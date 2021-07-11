@@ -14,6 +14,8 @@ import {
   autoCommitUpdatedGeoDataHelpers,
   autoCommitNewLtexHelpers,
   autoCommitUpdatedLtexHelpers,
+  autoCommitNewFrontmatterHelpers,
+  autoCommitUpdatedFrontmatterHelpers,
 } from '.';
 
 async function autoCommit() {
@@ -32,6 +34,8 @@ async function autoCommit() {
   await autoCommitUpdatedGeoDataHelpers().then();
   await autoCommitNewLtexHelpers().then();
   await autoCommitUpdatedLtexHelpers().then();
+  await autoCommitNewFrontmatterHelpers().then();
+  await autoCommitUpdatedFrontmatterHelpers().then();
 }
 
 autoCommit().then();

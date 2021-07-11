@@ -1,5 +1,6 @@
 export * from './auto-commit-new-geo-data';
 export * from './auto-commit-new-tags';
+export * from './auto-commit-updated-frontmatter-helpers';
 export * from './auto-commit-updated-geneaology';
 export * from './auto-commit-updated-geo-data-helpers';
 export * from './auto-commit-updated-git-helpers';
