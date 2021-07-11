@@ -31,7 +31,7 @@ export const Header: React.FC = () => (
             </Link>
           </li>
           <li className="nav-item ms-auto">
-            <Link className="nav-link" to="/fr/about" aria-label="généalogies">
+            <Link className="nav-link" to="/fr/about" aria-label="A propos">
               A propos
             </Link>
           </li>
@@ -41,6 +41,7 @@ export const Header: React.FC = () => (
               href="https://github.com/hdorgeval/le-livre-des-rois/discussions/1"
               target="_blank"
               rel="noopener noreferrer"
+              aria-label="Ouvrir le code source du livre des rois sur GitHub"
             >
               GitHub
             </a>
