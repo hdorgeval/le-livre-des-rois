@@ -3,6 +3,8 @@
 	// for the documentation about the extensions.json format
 	"recommendations": [
 		// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+		"adamvoss.vscode-languagetool-en",
+		"adamvoss.vscode-languagetool-fa",
 		"adamvoss.vscode-languagetool-fr",
 		"adamvoss.vscode-languagetool",
 		"coenraads.bracket-pair-colorizer-2",
