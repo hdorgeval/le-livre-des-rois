@@ -18,6 +18,7 @@ export const NersiCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-nersi"
       reignTitle="Règne de Nersi"
       cardTitle="Nersi"

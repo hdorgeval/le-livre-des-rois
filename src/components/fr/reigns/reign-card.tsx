@@ -9,6 +9,7 @@ export interface ReignCardProps {
   reignTitle: string;
   cardTitle: string;
   cardBody: string;
+  lang: 'fr';
 }
 export const ReignCard: React.FC<ReignCardProps> = ({
   data,
@@ -16,11 +17,12 @@ export const ReignCard: React.FC<ReignCardProps> = ({
   reignTitle,
   cardTitle,
   cardBody,
+  lang,
 }) => {
   const totalNumberOfEpisodes = data.allMarkdownRemark.totalCount;
 
   return (
-    <Link className="nav-link mb-4 p-0" to={`/${reignSlug}/`} aria-label={reignTitle}>
+    <Link className="nav-link mb-4 p-0" to={`/${lang}/${reignSlug}/`} aria-label={reignTitle}>
       <div
         className="card text-center bg-dark text-light border-secondary"
         style={{ minHeight: '150px' }}

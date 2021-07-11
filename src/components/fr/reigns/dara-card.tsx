@@ -18,6 +18,7 @@ export const DaraCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-dara"
       reignTitle="Règne de Dara"
       cardTitle="Dara"

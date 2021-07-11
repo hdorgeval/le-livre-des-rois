@@ -21,17 +21,17 @@ export const Header: React.FC = () => (
             </Link>
           </li>
           <li className="nav-item ms-auto">
-            <Link className="nav-link" to="/tags" aria-label="tags">
+            <Link className="nav-link" to="/fr/tags" aria-label="tags">
               Lexique
             </Link>
           </li>
           <li className="nav-item ms-auto">
-            <Link className="nav-link" to="/genealogies" aria-label="généalogies">
+            <Link className="nav-link" to="/fr/genealogies" aria-label="généalogies">
               Généalogies
             </Link>
           </li>
           <li className="nav-item ms-auto">
-            <Link className="nav-link" to="/about" aria-label="généalogies">
+            <Link className="nav-link" to="/fr/about" aria-label="généalogies">
               A propos
             </Link>
           </li>

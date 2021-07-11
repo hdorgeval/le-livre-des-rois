@@ -18,6 +18,7 @@ export const PourandokhtCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-pourandokht"
       reignTitle="Règne de Pourandokht"
       cardTitle="Pourandokht"

@@ -18,6 +18,7 @@ export const KobadSonOfParvizCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-kobad-fils-de-parviz"
       reignTitle="Règne de Kobad fils de Khosrou Parviz"
       cardTitle="Kobad fils de Khosrou Parviz"

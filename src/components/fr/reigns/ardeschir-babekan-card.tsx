@@ -17,6 +17,7 @@ export const ArdeschirBabekanCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-ardeschir-babekan"
       reignTitle="Règne de Ardeschir Babekan"
       cardTitle="Ardeschir Babekan"

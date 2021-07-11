@@ -18,6 +18,7 @@ export const HomaiCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-homai"
       reignTitle="Règne de Homaï"
       cardTitle="Homaï"

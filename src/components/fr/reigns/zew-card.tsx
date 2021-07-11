@@ -18,6 +18,7 @@ export const ZewCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-zew"
       reignTitle="Règne de Zew"
       cardTitle="Zew"

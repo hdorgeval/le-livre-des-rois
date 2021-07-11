@@ -18,6 +18,7 @@ export const BalaschCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-balasch"
       reignTitle="Règne de Balasch"
       cardTitle="Balasch"

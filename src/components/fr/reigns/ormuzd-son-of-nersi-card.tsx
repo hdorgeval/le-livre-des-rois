@@ -18,6 +18,7 @@ export const OrmuzdSonOfNersiCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-d-ormuzd-fils-de-nersi"
       reignTitle="Règne d'Ormuzd fils de Nersi"
       cardTitle="Ormuzd"

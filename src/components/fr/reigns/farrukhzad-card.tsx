@@ -18,6 +18,7 @@ export const FarrukhzadCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-farrukhzad"
       reignTitle="Règne de Farrukhzad"
       cardTitle="Farrukhzad"

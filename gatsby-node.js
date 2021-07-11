@@ -17,11 +17,6 @@ function addLangToSlug(lang, slug) {
     return slug;
   }
 
-  if (lang === 'fr') {
-    // disable i18n urls for the moment
-    return slug;
-  }
-
   return `/${lang}${slug}`;
 }
 
@@ -226,7 +221,7 @@ async function createAllFrenchTagPages(graphql, actions) {
   const tags = data.allMarkdownRemark.group;
 
   tags.forEach((tag) => {
-    const path = `tag/${tag.fieldValue}`;
+    const path = `fr/tag/${tag.fieldValue}`;
     if (debug) {
       // eslint-disable-next-line no-console
       console.log(`Creating page for tag ${tag.fieldValue}`);

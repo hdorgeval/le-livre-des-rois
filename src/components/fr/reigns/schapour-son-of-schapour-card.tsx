@@ -8,7 +8,9 @@ export const SchapourSonOfSchapourCard: React.FC = () => {
     {
       allMarkdownRemark(
         limit: 200
-        filter: { fileAbsolutePath: { glob: "**/markdown/fr/32-schapour-fils-de-schapour/**/*.md" } }
+        filter: {
+          fileAbsolutePath: { glob: "**/markdown/fr/32-schapour-fils-de-schapour/**/*.md" }
+        }
       ) {
         totalCount
       }
@@ -18,6 +20,7 @@ export const SchapourSonOfSchapourCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-schapour-fils-de-schapour"
       reignTitle="Règne de Schapour fils de Schapour"
       cardTitle="Schapour fils de Schapour"

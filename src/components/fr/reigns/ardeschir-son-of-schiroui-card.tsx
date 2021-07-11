@@ -19,6 +19,7 @@ export const ArdeschirSonOfSchirouiCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-ardeschir-fils-de-schiroui"
       reignTitle="Règne de Ardeschir fils de Schirouï"
       cardTitle="Ardeschir fils de Schirouï"

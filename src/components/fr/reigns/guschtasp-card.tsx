@@ -18,6 +18,7 @@ export const GuschtaspCard: React.FC = () => {
   return (
     <ReignCard
       data={data}
+      lang="fr"
       reignSlug="regne-de-guschtasp"
       reignTitle="Règne de Guschtasp"
       cardTitle="Guschtasp"
