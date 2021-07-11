@@ -118,7 +118,7 @@ exports.onCreateNode = async ({ node, getNode, actions, loadNodeContent }) => {
 };
 
 async function createAllFrenchEpisodePages(graphql, actions) {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
   const episodeTemplate = path.resolve('src/templates/fr/episode-template/episode-template.tsx');
   const { data } = await graphql(`
     {
@@ -202,11 +202,28 @@ async function createAllFrenchEpisodePages(graphql, actions) {
         githubPageUrl,
       },
     });
+
+    if (markdown.fields.slug.includes('/fr/')) {
+      const fromPath = markdown.fields.slug.replace('/fr/', '/');
+      const toPath = markdown.fields.slug;
+      createRedirect({
+        fromPath,
+        toPath,
+        isPermanent: true,
+        redirectInBrowser: true,
+      });
+      createRedirect({
+        fromPath: `${fromPath}/`,
+        toPath,
+        isPermanent: true,
+        redirectInBrowser: true,
+      });
+    }
   });
 }
 
 async function createAllFrenchTagPages(graphql, actions) {
-  const { createPage } = actions;
+  const { createPage, createRedirect } = actions;
   const tagTemplate = path.resolve('src/templates/fr/tag-template/tag-template.tsx');
   const { data } = await graphql(`
     {
@@ -221,6 +238,7 @@ async function createAllFrenchTagPages(graphql, actions) {
   const tags = data.allMarkdownRemark.group;
 
   tags.forEach((tag) => {
+    const oldPath = `tag/${tag.fieldValue}`;
     const path = `fr/tag/${tag.fieldValue}`;
     if (debug) {
       // eslint-disable-next-line no-console
@@ -233,12 +251,107 @@ async function createAllFrenchTagPages(graphql, actions) {
         tag: tag.fieldValue,
       },
     });
+    createRedirect({
+      fromPath: `/${oldPath}`,
+      toPath: `/${path}`,
+      isPermanent: true,
+      redirectInBrowser: true,
+    });
+    createRedirect({
+      fromPath: `/${oldPath}/`,
+      toPath: `/${path}`,
+      isPermanent: true,
+      redirectInBrowser: true,
+    });
+  });
+}
+
+/**
+ * Temporary hack that will enable pages already indexed by Google
+ * to automatically be redirected with the localized path
+ *
+ * @param {*} actions
+ */
+async function createAllRedirectsForFrenchPages(actions) {
+  const { createRedirect } = actions;
+  const pages = [
+    'about',
+    'tags',
+    'genealogies',
+    'regne-d-ardeschir-le-bon',
+    'regne-d-ormuzd-fils-de-nersi',
+    'regne-d-ormuzd',
+    'regne-de-ardeschir-babekan',
+    'regne-de-ardeschir-fils-de-schiroui',
+    'regne-de-azermidokht',
+    'regne-de-bahman',
+    'regne-de-bahram-bahramian',
+    'regne-de-bahram-fils-d-ormuzd',
+    'regne-de-bahram-fils-de-bahram',
+    'regne-de-bahram-fils-de-schapour',
+    'regne-de-bahram-gour',
+    'regne-de-balasch',
+    'regne-de-dara',
+    'regne-de-darab',
+    'regne-de-djemschid',
+    'regne-de-farrukhzad',
+    'regne-de-feridoun',
+    'regne-de-guerschasp',
+    'regne-de-guraz',
+    'regne-de-guschtasp',
+    'regne-de-homai',
+    'regne-de-hormuz',
+    'regne-de-hormuzd',
+    'regne-de-houscheng',
+    'regne-de-iskender',
+    'regne-de-kaioumors',
+    'regne-de-kaous',
+    'regne-de-khosrou-parviz',
+    'regne-de-khosrou',
+    'regne-de-kobad-fils-de-parviz',
+    'regne-de-kobad-fils-de-pirouz',
+    'regne-de-kobad',
+    'regne-de-lohrasp',
+    'regne-de-minoutchehr',
+    'regne-de-nersi',
+    'regne-de-newder',
+    'regne-de-nouschirwan',
+    'regne-de-pirouz',
+    'regne-de-pourandokht',
+    'regne-de-schapour-dhoul-aktaf',
+    'regne-de-schapour-fils-de-schapour',
+    'regne-de-schapour',
+    'regne-de-thahmouras',
+    'regne-de-yezdegird',
+    'regne-de-yezdeguerd-fils-de-bahram',
+    'regne-de-yezdeguerd',
+    'regne-de-zew',
+    'regne-de-zohak',
+    'regne-des-aschkanides',
+  ];
+
+  pages.forEach((page) => {
+    const fromPath = `/${page}`;
+    const toPath = `/fr/${page}`;
+    createRedirect({
+      fromPath,
+      toPath,
+      isPermanent: true,
+      redirectInBrowser: true,
+    });
+    createRedirect({
+      fromPath: `${fromPath}/`,
+      toPath,
+      isPermanent: true,
+      redirectInBrowser: true,
+    });
   });
 }
 
 exports.createPages = async ({ graphql, actions }) => {
   await createAllFrenchEpisodePages(graphql, actions);
   await createAllFrenchTagPages(graphql, actions);
+  await createAllRedirectsForFrenchPages(actions);
 };
 
 exports.onPostBootstrap = () => {
