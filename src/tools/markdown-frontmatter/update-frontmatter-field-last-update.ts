@@ -49,7 +49,7 @@ export const updateFrontmatterFieldIn = async (markdownFile: PathLike): Promise<
   }
 };
 
-updateFrontmatterField(path.join(process.cwd(), 'src', 'markdown')).then(() => {
+updateFrontmatterField(path.join(process.cwd(), 'src', 'markdown', 'fr')).then(() => {
   // eslint-disable-next-line no-console
   console.log('end');
 });

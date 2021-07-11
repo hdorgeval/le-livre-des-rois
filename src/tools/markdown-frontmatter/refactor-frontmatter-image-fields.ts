@@ -41,6 +41,6 @@ export const refactorImageFieldsIn = (markdownFile: PathLike): void => {
   writeFileSync(markdownFile, refactoredLines.join(EOL));
 };
 
-// refactorFrontmatterImageFields(path.join(process.cwd(), 'src', 'markdown'));
-// refactorFrontmatterImageFields(path.join(process.cwd(), 'src', 'tags'));
+// refactorFrontmatterImageFields(path.join(process.cwd(), 'src', 'markdown', 'fr'));
+// refactorFrontmatterImageFields(path.join(process.cwd(), 'src', 'tags', 'fr'));
 refactorFrontmatterImageFields(path.join(process.cwd(), 'src', 'tools', 'markdown-tags', 'tests'));

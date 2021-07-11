@@ -41,7 +41,7 @@ export const addFrontmatterFieldIn = async (markdownFile: PathLike): Promise<voi
   writeFileSync(markdownFile, refactoredLines.join(EOL));
 };
 
-addFrontmatterField(path.join(process.cwd(), 'src', 'markdown')).then(() => {
+addFrontmatterField(path.join(process.cwd(), 'src', 'markdown', 'fr')).then(() => {
   // eslint-disable-next-line no-console
   console.log('end');
 });

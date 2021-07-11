@@ -31,4 +31,4 @@ export const addFrontmatterFieldIn = (markdownFile: PathLike): void => {
   writeFileSync(markdownFile, refactoredLines.join(EOL));
 };
 
-addFrontmatterField(path.join(process.cwd(), 'src', 'tags'));
+addFrontmatterField(path.join(process.cwd(), 'src', 'tags', 'fr'));
