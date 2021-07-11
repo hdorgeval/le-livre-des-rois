@@ -18,7 +18,7 @@ async function autoCommitEpisodesWithUpdatedTags() {
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
     if (unstagedFile.includes('src/markdown/')) {
-      const search = unstagedFile.match(/markdown\/\d\d-(.*)\//i);
+      const search = unstagedFile.match(/markdown\/fr\/\d\d-(.*)\//i);
       const reign = search ? search[1] : 'reign';
 
       const filename = unstagedFile.split(path.sep).pop();
