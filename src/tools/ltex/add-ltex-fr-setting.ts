@@ -49,4 +49,4 @@ export const addLtexFrSettingIn = (markdownFile: PathLike): void => {
   writeFileSync(markdownFile, refactoredLines.join(EOL));
 };
 
-addLtexFrSetting(path.join(process.cwd(), 'src', 'tags'));
+addLtexFrSetting(path.join(process.cwd(), 'src', 'tags', 'fr'));
