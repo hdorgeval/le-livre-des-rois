@@ -2,7 +2,7 @@ import { getFilesInDirectory, getDirectoriesRecursivelyIn } from '../fs';
 import { PathLike, readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 export const extractChapterArtifacts = (foundArtifacts: string[]): void => {
-  const rootDirectory = path.join(process.cwd(), 'src', 'markdown');
+  const rootDirectory = path.join(process.cwd(), 'src', 'markdown', 'fr');
 
   const directories = getDirectoriesRecursivelyIn(rootDirectory).takeAll();
   directories.push(rootDirectory.toString());
