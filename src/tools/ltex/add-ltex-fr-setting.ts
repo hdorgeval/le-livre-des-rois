@@ -13,7 +13,7 @@ export const addLtexFrSetting = (rootDirectory: PathLike): void => {
     for (let index2 = 0; index2 < files.length; index2++) {
       const file = files[index2];
       // eslint-disable-next-line no-console
-      console.log(`adding frontmatter field 'title' in '${file}'`);
+      console.log(`adding LTeX settings in '${file}'`);
       addLtexFrSettingIn(file);
     }
   }
