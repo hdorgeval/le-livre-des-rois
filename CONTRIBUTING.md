@@ -25,17 +25,17 @@ cd le-livre-des-rois
 npm install
 ```
 
-3. To run the web site in dev mode
+3. To run the website in dev mode
 
 ```bash
 npm start
 open localhost:8000
 ```
 
-4. To run the web site in production mode
+4. To run the website in production mode
 
 ```bash
-npm run gatsby-build
+npm run build
 npm run serve
 open localhost:9000
 ```
@@ -48,7 +48,7 @@ If you are using VS Code, it is recommanded to install the recommanded extension
 
 Commit messages should follow the Semantic Commit Messages format:
 
-```
+```txt
 label(namespace): title
 
 description
@@ -66,15 +66,15 @@ footer
    - `style` - a change in the code style: spaces/alignment/wrapping etc.
    - `test` - adding missing tests or correcting existing tests.
 
-2. _namespace_ is put in parenthesis after label and is mandatory. Must be lowercase.
+2. _namespace_ is put in parentheses after label and is mandatory. Must be lowercase.
 3. _title_ is a brief summary of changes.
 4. _description_ is **optional**, new-line separated from title and is in present tense.
-5. _footer_ is **optional**, new-line separated from _description_ and contains "fixes" / "references" attribution to github issues.
+5. _footer_ is **optional**, new-line separated from _description_ and contains "fixes" / "references" attribution to GitHub issues.
 6. _footer_ should also include "BREAKING CHANGE" if current API clients will break due to this change. It should explain what changed and how to get the old behavior.
 
 Example:
 
-```
+```txt
 fix(page): fix page.pizza method
 
 This patch fixes page.pizza so that it works with iframes.
@@ -90,11 +90,11 @@ To deliver to a different location, use "deliver" option:
 
 A commiting strategy has been implemented in order to be able to easily track modifications on each separate markdown file in the repo:
 
-- if you modify the content of one or more markdown files, do not commit manually those changes but run the npm script `auto-commit-formatted-episodes`.
+- If you modify the content of one or more markdown files, do not commit manually those changes but run the npm script `auto-commit-formatted-episodes`.
 
-- if you modify the frontmatter tags of one or more markdown files, do not commit manually those changes but run the npm script `auto-commit-episodes-with-updated-tags`.
+- If you modify the frontmatter tags of one or more markdown files, do not commit manually those changes but run the npm script `auto-commit-episodes-with-updated-tags`.
 
-- for any other changes, first run the npm script `auto-commit`, then manually commit any remaining changes.
+- For any other changes, first run the npm script `auto-commit`, then manually commit any remaining changes.
 
 If you are not sure about how to lable the commit, or how many files to put in the same commit, you can look at the [commits history](https://github.com/hdorgeval/le-livre-des-rois/commits/master).
 
@@ -104,7 +104,7 @@ Every commit, once pushed, goes directly into production. So if you are not sure
 
 ### Markdown Guidelines
 
-- You should follow this [Github Guide on Markdown](https://guides.github.com/features/mastering-markdown/)
+- You should follow this [GitHub Guide on Markdown](https://guides.github.com/features/mastering-markdown/)
 
 ### Code Comment
 
@@ -123,6 +123,14 @@ A barrier for introducing new production dependencies is especially high:
 
 ## Dev mode versus Production mode
 
-If you change/add a React component, or if you change any CSS style, please run the web site in both dev mode with `npm start` and prod mode with `npm run gatsby-build; npm run serve`, and ensure that the web site renders the same in both mode.
+If you change/add a React component, or if you change any CSS style, please run the website in both dev mode with `npm start` and prod mode with `npm run gatsby-build; npm run serve`, and ensure that the website renders the same in both mode.
 
 If the `gatsby-build` fails with strange reasons due to your changes, this resource might help you : [Debugging HTML Builds in Gatsby](https://www.gatsbyjs.com/docs/debugging-html-builds/).
+
+## Before pushing
+
+Always run the `build` script before pushing:
+
+```bash
+npm run build
+```
