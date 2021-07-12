@@ -7,7 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 404
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
-title: '1ère aventure -Raksch combat un lion | Le Livre des Rois | Shâhnâmeh'
+title: '1ère aventure - Raksch combat un lion | Le Livre des Rois | Shâhnâmeh'
 tags: ['Dieu', 'Mazenderan', 'Nimrouz', 'Raksch', 'Rustem']
 order: '005'
 ---
