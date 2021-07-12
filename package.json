@@ -24,13 +24,13 @@
     "update-tags": "ts-node src/tools/markdown-tags/set-tags-in-website-markdowns.ts",
     "update-metadata-lastUpdate": "ts-node src/tools/markdown-frontmatter/update-frontmatter-field-last-update.ts",
     "update-metadata-status": "ts-node src/tools/markdown-frontmatter/update-frontmatter-field-status.ts",
-    "auto-commit-formatted-episodes": "ts-node src/tools/git/auto-commit-formatted-episodes.ts",
-    "auto-commit-episodes-with-updated-tags": "ts-node src/tools/git/auto-commit-episodes-with-updated-tags.ts",
-    "auto-commit-episodes-with-updated-lastUpdate": "ts-node src/tools/git/auto-commit-episodes-with-updated-last-update-metadata.ts",
-    "auto-commit-episodes-with-updated-status": "ts-node src/tools/git/auto-commit-episodes-with-updated-status.ts",
-    "auto-commit-new-episodes": "ts-node src/tools/git/auto-commit-new-episodes.ts",
-    "auto-commit-skip-netlify": "ts-node src/tools/git/auto-commit-skip-netlify.ts",
-    "auto-commit": "ts-node src/tools/git/auto-commit.ts"
+    "auto-commit-formatted-episodes": "ts-node src/tools/common/git/auto-commit-formatted-episodes.ts",
+    "auto-commit-episodes-with-updated-tags": "ts-node src/tools/common/git/auto-commit-episodes-with-updated-tags.ts",
+    "auto-commit-episodes-with-updated-lastUpdate": "ts-node src/tools/common/git/auto-commit-episodes-with-updated-last-update-metadata.ts",
+    "auto-commit-episodes-with-updated-status": "ts-node src/tools/common/git/auto-commit-episodes-with-updated-status.ts",
+    "auto-commit-new-episodes": "ts-node src/tools/common/git/auto-commit-new-episodes.ts",
+    "auto-commit-skip-netlify": "ts-node src/tools/common/git/auto-commit-skip-netlify.ts",
+    "auto-commit": "ts-node src/tools/common/git/auto-commit.ts"
   },
   "dependencies": {
     "@popperjs/core": "2.9.2",

@@ -1,5 +1,5 @@
 import { getFilesInDirectory, getDirectoriesRecursivelyIn, readAllLinesInFile } from '../common/fs';
-import { getLastCommitForUpdatedContentOf } from '../git/get-last-commit-for-markdown';
+import { getLastCommitForUpdatedContentOf } from '../common/git/get-last-commit-for-markdown';
 import { PathLike, writeFileSync } from 'fs';
 import { EOL } from 'os';
 import path from 'path';

@@ -1,5 +1,5 @@
-import { formatMarkdown } from '../markdown-formatter';
-import { getFilesInDirectory } from '../common/fs';
+import { formatMarkdown } from '../../markdown-formatter';
+import { getFilesInDirectory } from '../fs';
 import simpleGit, { SimpleGit, SimpleGitOptions } from 'simple-git';
 import path from 'path';
 
