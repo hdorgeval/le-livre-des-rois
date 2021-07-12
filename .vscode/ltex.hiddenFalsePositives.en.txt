@@ -1,0 +1,1 @@
+{"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QIf you are not sure about how to lable the commit, or how many files to put in the same commit, you can look at the commits history.\\E$"}
