@@ -5,12 +5,15 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [52.11005, 35.95508]
+        "coordinates": [
+          52.11005,
+          35.95508
+        ]
       },
       "properties": {
         "name": {
-          "fr": "Mont Damavand",
-          "ar": "دماوند"
+          "fr": "Mount Damavand",
+          "ar": " دماوند"
         }
       }
     }
