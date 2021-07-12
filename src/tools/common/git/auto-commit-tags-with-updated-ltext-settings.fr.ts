@@ -8,7 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitTagsWithUpdatedMetadata(sourceFolder: string) {
+async function autoCommitTagsWithUpdatedLtexSettings(sourceFolder: string) {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -21,7 +21,7 @@ async function autoCommitTagsWithUpdatedMetadata(sourceFolder: string) {
       const filename = unstagedFile.split(path.sep).pop();
       const tagName = filename?.split('.md')[0] || filename;
 
-      const commitMessage = `chore(tags): add lang metadata for the '${tagName}' tag `;
+      const commitMessage = `chore(tags): add ltex settings metadata for the '${tagName}' tag `;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
@@ -30,4 +30,4 @@ async function autoCommitTagsWithUpdatedMetadata(sourceFolder: string) {
   }
 }
 
-autoCommitTagsWithUpdatedMetadata('/tags/').then();
+autoCommitTagsWithUpdatedLtexSettings('/tags/fr/').then();

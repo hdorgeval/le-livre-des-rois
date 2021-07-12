@@ -17,7 +17,16 @@ export async function autoCommitUpdatedLatexFiles(): Promise<void> {
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
     if (unstagedFile.includes('ltex.dictionary')) {
-      const commitMessage = `chore(spelling-checker): update dictionary`;
+      let commitMessage = `chore(spelling-checker): update dictionary`;
+      if (unstagedFile.includes('.en.')) {
+        commitMessage = `chore(spelling-checker): update english dictionary`;
+      }
+      if (unstagedFile.includes('.fr.')) {
+        commitMessage = `chore(spelling-checker): update french dictionary`;
+      }
+      if (unstagedFile.includes('.fa.')) {
+        commitMessage = `chore(spelling-checker): update persian dictionary`;
+      }
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
@@ -25,7 +34,16 @@ export async function autoCommitUpdatedLatexFiles(): Promise<void> {
     }
 
     if (unstagedFile.includes('ltex.hiddenFalsePositives')) {
-      const commitMessage = `chore(grammar-checker): update false-positives dictionary`;
+      let commitMessage = `chore(grammar-checker): update false-positives dictionary`;
+      if (unstagedFile.includes('.en.')) {
+        commitMessage = `chore(grammar-checker): update english false-positives dictionary`;
+      }
+      if (unstagedFile.includes('.fr.')) {
+        commitMessage = `chore(grammar-checker): update french false-positives dictionary`;
+      }
+      if (unstagedFile.includes('.fa.')) {
+        commitMessage = `chore(grammar-checker): update persian false-positives dictionary`;
+      }
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
