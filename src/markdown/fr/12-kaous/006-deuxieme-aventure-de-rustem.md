@@ -7,7 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 406
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
-title: '2ème aventure -Raksch trouve une source | Le Livre des Rois | Shâhnâmeh'
+title: '2ème aventure - Raksch trouve une source | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
     'âme',
