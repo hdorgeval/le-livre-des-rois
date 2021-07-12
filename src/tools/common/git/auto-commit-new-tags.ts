@@ -8,7 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-export async function autoCommitNewMarkdownTags(): Promise<void> {
+export async function autoCommitNewFrenchMarkdownTags(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -17,11 +17,12 @@ export async function autoCommitNewMarkdownTags(): Promise<void> {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tags/') && unstagedFile.endsWith('.md')) {
+    if (unstagedFile.includes('/tags/fr/') && unstagedFile.endsWith('.md')) {
       const filename = unstagedFile.split(path.sep).pop();
       const tagName = filename?.split('.md')[0] || filename;
 
-      const commitMessage = `feat(tags): add description for tag ${tagName}`;
+      const commitMessage = `feat(tags/fr): add description for tag ${tagName}`;
+
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
@@ -30,7 +31,7 @@ export async function autoCommitNewMarkdownTags(): Promise<void> {
   }
 }
 
-export async function autoCommitUpdatedMarkdownTags(): Promise<void> {
+export async function autoCommitUpdatedFrenchMarkdownTags(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -39,11 +40,11 @@ export async function autoCommitUpdatedMarkdownTags(): Promise<void> {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tags/') && unstagedFile.endsWith('.md')) {
+    if (unstagedFile.includes('/tags/fr/') && unstagedFile.endsWith('.md')) {
       const filename = unstagedFile.split(path.sep).pop();
       const tagName = filename?.split('.md')[0] || filename;
 
-      const commitMessage = `feat(tags): update description for tag ${tagName}`;
+      const commitMessage = `feat(tags/fr): update description for tag ${tagName}`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console

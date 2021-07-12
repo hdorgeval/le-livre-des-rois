@@ -7,7 +7,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-export async function autoCommitUpdatedMarkdownFormatter(): Promise<void> {
+export async function autoCommitUpdatedFrenchMarkdownFormatter(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -18,13 +18,13 @@ export async function autoCommitUpdatedMarkdownFormatter(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/markdown-formatter/')) {
+    if (unstagedFile.includes('/fr/markdown-formatter/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
   }
   if (hasUpdatedFiles) {
-    const commitMessage = `feat(markdown): enhance markdown formatter`;
+    const commitMessage = `feat(markdown/fr): enhance markdown formatter`;
     // eslint-disable-next-line no-console
     console.log(commitMessage);
     await git.commit(commitMessage);

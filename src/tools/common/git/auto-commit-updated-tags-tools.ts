@@ -6,7 +6,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-export async function autoCommitUpdatedTagsTools(): Promise<void> {
+export async function autoCommitUpdatedFrenchTagsTools(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -16,16 +16,16 @@ export async function autoCommitUpdatedTagsTools(): Promise<void> {
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
 
-    if (unstagedFile.includes('noises.ts')) {
-      const commitMessage = `chore(tags): update noises dictionary`;
+    if (unstagedFile.includes('/fr/') && unstagedFile.includes('noises.ts')) {
+      const commitMessage = `chore(tags/fr): update noises dictionary`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
       console.log(commitMessage);
     }
 
-    if (unstagedFile.includes('favorites.ts')) {
-      const commitMessage = `chore(tags): update favorites dictionary`;
+    if (unstagedFile.includes('/fr/') && unstagedFile.includes('favorites.ts')) {
+      const commitMessage = `chore(tags/fr): update favorites dictionary`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console

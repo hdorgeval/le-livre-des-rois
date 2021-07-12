@@ -6,29 +6,29 @@ import {
   autoCommitNewGeoData,
   autoCommitNewGeoDataHelpers,
   autoCommitNewGitHelpers,
-  autoCommitNewMarkdownTags,
+  autoCommitNewFrenchMarkdownTags,
   autoCommitUpdatedFrenchFrontmatterHelpers,
   autoCommitUpdatedFrenchLtexHelpers,
   autoCommitUpdatedFrenchMarkdownTagsHelpers,
-  autoCommitUpdatedGenealogy,
+  autoCommitUpdatedFrenchGenealogy,
   autoCommitUpdatedGeoData,
   autoCommitUpdatedGeoDataHelpers,
   autoCommitUpdatedGitHelpers,
   autoCommitUpdatedLatexFiles,
-  autoCommitUpdatedMarkdownFormatter,
-  autoCommitUpdatedMarkdownTags,
-  autoCommitUpdatedTagsTools,
+  autoCommitUpdatedFrenchMarkdownFormatter,
+  autoCommitUpdatedFrenchMarkdownTags,
+  autoCommitUpdatedFrenchTagsTools,
 } from '.';
 
 async function autoCommit() {
-  await autoCommitUpdatedMarkdownFormatter().then();
+  await autoCommitUpdatedFrenchMarkdownFormatter().then();
   await autoCommitUpdatedLatexFiles().then();
   await autoCommitAddedLatexDictionaryFiles().then();
   await autoCommitAddedLatexFalsePositivesFiles().then();
-  await autoCommitUpdatedGenealogy().then();
-  await autoCommitUpdatedTagsTools().then();
-  await autoCommitNewMarkdownTags().then();
-  await autoCommitUpdatedMarkdownTags().then();
+  await autoCommitUpdatedFrenchGenealogy().then();
+  await autoCommitUpdatedFrenchTagsTools().then();
+  await autoCommitNewFrenchMarkdownTags().then();
+  await autoCommitUpdatedFrenchMarkdownTags().then();
   await autoCommitNewGitHelpers().then();
   await autoCommitUpdatedGitHelpers().then();
   await autoCommitUpdatedFrenchMarkdownTagsHelpers().then();

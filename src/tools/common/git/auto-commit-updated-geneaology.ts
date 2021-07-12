@@ -8,7 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-export async function autoCommitUpdatedGenealogy(): Promise<void> {
+export async function autoCommitUpdatedFrenchGenealogy(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -17,13 +17,13 @@ export async function autoCommitUpdatedGenealogy(): Promise<void> {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/graphs/')) {
+    if (unstagedFile.includes('/graphs/fr/')) {
       const filename = unstagedFile.split(path.sep).pop();
       const graphName = filename?.split('.')[0] || filename;
       const graphType = filename?.split('.')[1] || 'mmd';
-      let commitMessage = `feat(${graphName}): update genealogy graph`;
+      let commitMessage = `feat(${graphName}/fr): update genealogy graph`;
       if (graphType === 'svg') {
-        commitMessage = `feat(${graphName}): update genealogy chart`;
+        commitMessage = `feat(${graphName}/fr): update genealogy chart`;
       }
       await git.add(unstagedFile);
       await git.commit(commitMessage);
