@@ -1,4 +1,4 @@
-import { getFilesInDirectory, getDirectoriesRecursivelyIn, readAllLinesInFile } from '../fs';
+import { getFilesInDirectory, getDirectoriesRecursivelyIn, readAllLinesInFile } from '../common/fs';
 import { PathLike, writeFileSync } from 'fs';
 import { EOL } from 'os';
 import path from 'path';

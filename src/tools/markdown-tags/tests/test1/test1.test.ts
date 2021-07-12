@@ -1,5 +1,5 @@
 import 'jest';
-import { getFirstMarkdownInDirectory } from '../../../fs';
+import { getFirstMarkdownInDirectory } from '../../../common/fs';
 import { getTagsFrom } from '../..';
 
 test('Should get tags', () => {

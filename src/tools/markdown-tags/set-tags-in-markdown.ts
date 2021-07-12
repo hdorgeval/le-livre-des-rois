@@ -1,5 +1,5 @@
 import { setTagsIn } from './markdown-to-tags';
-import { getFilesInDirectory, getDirectoriesRecursivelyIn } from '../fs';
+import { getFilesInDirectory, getDirectoriesRecursivelyIn } from '../common/fs';
 import { PathLike } from 'fs';
 
 export const setTagsOfMarkdownFilesIn = (rootDirectory: PathLike): void => {

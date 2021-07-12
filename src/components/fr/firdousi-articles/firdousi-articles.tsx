@@ -1,6 +1,5 @@
 import { ArticleCard } from '.';
 import { AllMarkdownRemarkResponse } from '../../../graphql';
-import { toMinutes } from '../../../tools';
 import React from 'react';
 import { useStaticQuery, graphql } from 'gatsby';
 
@@ -44,12 +43,6 @@ export const FirdousiArticles: React.FC = () => {
       <div className="row">
         {data.allMarkdownRemark.edges
           .map((nodeWrapper) => nodeWrapper.node)
-          .map((node) => {
-            return {
-              ...node,
-              timeToRead: toMinutes(node.timeToRead * 2),
-            };
-          })
           .map((node) => (
             <div className="col-sm-6 col-lg-3" key={node.id}>
               <ArticleCard key={node.id} {...node} />

@@ -1,5 +1,5 @@
 import 'jest';
-import { getFirstMarkdownInDirectory, readAllLinesInFile } from '../../../fs';
+import { getFirstMarkdownInDirectory, readAllLinesInFile } from '../../../common/fs';
 import { removeFrontMatterIn } from '../..';
 
 test('Should remove frontmatter', () => {

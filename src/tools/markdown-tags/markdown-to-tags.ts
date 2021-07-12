@@ -1,6 +1,6 @@
 import { noises } from './noises';
 import { favorites } from './favorites';
-import { readAllLinesInFile } from '../fs';
+import { readAllLinesInFile } from '../common/fs';
 import { updateFrontmatter, removeFrontMatterIn } from '../markdown-frontmatter';
 import { PathLike, writeFileSync } from 'fs';
 import { EOL } from 'os';

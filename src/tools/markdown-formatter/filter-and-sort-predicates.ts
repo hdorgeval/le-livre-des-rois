@@ -1,4 +1,4 @@
-import { readAllLinesInFile } from '../fs';
+import { readAllLinesInFile } from '../common/fs';
 import { writeFileSync } from 'fs';
 import path from 'path';
 

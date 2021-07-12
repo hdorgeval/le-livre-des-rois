@@ -1,5 +1,5 @@
 import { formatMarkdown } from '.';
-import { getFilesInDirectory } from '../fs';
+import { getFilesInDirectory } from '../common/fs';
 import path from 'path';
 
 function formatEpisodesIn(folder: string, start: number, end: number) {

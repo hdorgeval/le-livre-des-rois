@@ -1,5 +1,5 @@
 import 'jest';
-import { getFirstMarkdownInDirectory, readAllLinesInFile } from '../../../fs';
+import { getFirstMarkdownInDirectory, readAllLinesInFile } from '../../../common/fs';
 import { setTagsIn } from '../../markdown-to-tags';
 import { writeFileSync } from 'fs';
 import { EOL } from 'os';

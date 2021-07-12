@@ -1,5 +1,5 @@
 import 'jest';
-import { getFirstMarkdownInDirectory, readAllLinesInFile } from '../../../fs';
+import { getFirstMarkdownInDirectory, readAllLinesInFile } from '../../../common/fs';
 import { getTagsFrom } from '../../../markdown-tags';
 import { updateFrontmatter } from '../..';
 

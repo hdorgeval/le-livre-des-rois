@@ -1,4 +1,4 @@
-import { getFilesInDirectory, getDirectoriesRecursivelyIn } from '../fs';
+import { getFilesInDirectory, getDirectoriesRecursivelyIn } from '../common/fs';
 import { PathLike, readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 export const extractChapterArtifacts = (foundArtifacts: string[]): void => {
