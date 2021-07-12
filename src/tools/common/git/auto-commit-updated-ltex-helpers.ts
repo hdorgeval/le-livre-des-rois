@@ -7,7 +7,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-export async function autoCommitUpdatedLtexHelpers(): Promise<void> {
+export async function autoCommitUpdatedFrenchLtexHelpers(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -17,20 +17,20 @@ export async function autoCommitUpdatedLtexHelpers(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/ltex/')) {
+    if (unstagedFile.includes('/tools/fr/ltex/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
   }
   if (hasUpdatedFiles) {
-    const commitMessage = `feat(tools): update ltex helpers`;
+    const commitMessage = `feat(tools/fr): update ltex helpers`;
     // eslint-disable-next-line no-console
     console.log(commitMessage);
     await git.commit(commitMessage);
   }
 }
 
-export async function autoCommitNewLtexHelpers(): Promise<void> {
+export async function autoCommitNewFrenchLtexHelpers(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -40,13 +40,13 @@ export async function autoCommitNewLtexHelpers(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/ltex/')) {
+    if (unstagedFile.includes('/tools/fr/ltex/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
   }
   if (hasUpdatedFiles) {
-    const commitMessage = `feat(tools): add ltex helpers`;
+    const commitMessage = `feat(tools/fr): add ltex helpers`;
     // eslint-disable-next-line no-console
     console.log(commitMessage);
     await git.commit(commitMessage);

@@ -50,14 +50,14 @@
       "program": "${workspaceFolder}/node_modules/mermaid.cli/index.bundle.js",
     },
     {
-      "name": "Format Current Markdown File",
+      "name": "[fr] Format Current Markdown File",
       "type": "node",
       "request": "launch",
       "env": {
         "CURRENT_MD_FILEPATH": "${relativeFile}",
       },
       "args": [
-        "src/tools/markdown-formatter/markdown-formatter.ts"
+        "src/tools/fr/markdown-formatter/markdown-formatter.ts"
       ],
       "runtimeArgs": [
         "-r",
@@ -68,14 +68,14 @@
       "internalConsoleOptions": "openOnSessionStart"
     },
     {
-      "name": "Set Tags in Current Markdown File",
+      "name": "[fr] Set Tags in Current Markdown File",
       "type": "node",
       "request": "launch",
       "env": {
         "CURRENT_MD_FILEPATH": "${relativeFile}",
       },
       "args": [
-        "src/tools/markdown-tags/set-tags-in-current-markdown.ts"
+        "src/tools/fr/markdown-tags/set-tags-in-current-markdown.ts"
       ],
       "runtimeArgs": [
         "-r",

@@ -17,7 +17,7 @@ export async function autoCommitUpdatedGeoDataHelpers(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/geo-data/')) {
+    if (unstagedFile.includes('/tools/common/geo-data/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
@@ -40,7 +40,7 @@ export async function autoCommitNewGeoDataHelpers(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/geo-data/')) {
+    if (unstagedFile.includes('/tools/common/geo-data/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }

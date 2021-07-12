@@ -17,7 +17,7 @@ export async function autoCommitUpdatedGitHelpers(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/git/')) {
+    if (unstagedFile.includes('/tools/common/git/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
@@ -40,7 +40,7 @@ export async function autoCommitNewGitHelpers(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/git/')) {
+    if (unstagedFile.includes('/tools/common/git/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }

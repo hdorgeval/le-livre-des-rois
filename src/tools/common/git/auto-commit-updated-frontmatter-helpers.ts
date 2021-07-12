@@ -7,7 +7,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-export async function autoCommitUpdatedFrontmatterHelpers(): Promise<void> {
+export async function autoCommitUpdatedFrenchFrontmatterHelpers(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -17,20 +17,20 @@ export async function autoCommitUpdatedFrontmatterHelpers(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/markdown-frontmatter/')) {
+    if (unstagedFile.includes('/tools/fr/markdown-frontmatter/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
   }
   if (hasUpdatedFiles) {
-    const commitMessage = `feat(tools): update markdown-frontmatter helpers`;
+    const commitMessage = `feat(tools/fr): update markdown-frontmatter helpers`;
     // eslint-disable-next-line no-console
     console.log(commitMessage);
     await git.commit(commitMessage);
   }
 }
 
-export async function autoCommitNewFrontmatterHelpers(): Promise<void> {
+export async function autoCommitNewFrenchFrontmatterHelpers(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -40,13 +40,13 @@ export async function autoCommitNewFrontmatterHelpers(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/markdown-frontmatter/')) {
+    if (unstagedFile.includes('/tools/fr/markdown-frontmatter/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
   }
   if (hasUpdatedFiles) {
-    const commitMessage = `feat(tools): add markdown-frontmatter helpers`;
+    const commitMessage = `feat(tools/fr): add markdown-frontmatter helpers`;
     // eslint-disable-next-line no-console
     console.log(commitMessage);
     await git.commit(commitMessage);
