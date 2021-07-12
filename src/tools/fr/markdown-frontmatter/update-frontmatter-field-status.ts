@@ -27,15 +27,20 @@ export const updateFrontmatterFieldIn = async (markdownFile: PathLike): Promise<
   const lines = readAllLinesInFile(markdownFile);
   const hasEmptyTag = lines.some((line) => line.startsWith('tags: []'));
   const status = hasEmptyTag ? 'draft' : 'ready';
+  let hasBeenUpdated = false;
 
   const refactoredLines = lines.map((line) => {
     if (line.startsWith('status:')) {
-      return `status: '${status}'`;
+      const updatedLine = `status: '${status}'`;
+      hasBeenUpdated = updatedLine !== line;
+      return updatedLine;
     }
 
     return line;
   });
-  writeFileSync(markdownFile, refactoredLines.join(EOL));
+  if (hasBeenUpdated) {
+    writeFileSync(markdownFile, refactoredLines.join(EOL));
+  }
 };
 
 updateFrontmatterField(path.join(process.cwd(), 'src', 'markdown', 'fr')).then(() => {
