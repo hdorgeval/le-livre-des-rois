@@ -60,7 +60,7 @@ Siawusch fut son hôte pendant un mois, comme ils en étaient convenus et il ne 
 
 À la fin du mois les timbales résonnèrent à l’heure où se fait. entendre le chant du coq et Siawusch partit pour son royaume, suivi de son armée et précédé par Piran ; et lorsque les habitants de la frontière furent avertis, les grands se levèrent dans la joie de leur âme et allèrent aildevant du fila du roi des rois et le peuple prépara des fêtes selon ses coutumes.
 
-On ouït alors dans ce royaume un bruit tel que tu au-rais dit que c’était là certainement la nuit de la résurrection ; et les sons des voix, des luths et des flûtes étaient tels que les cœurs tressaillaient de joie.
+On ouït alors dans ce royaume un bruit tel que tu aurais dit que c’était là certainement la nuit de la résurrection ; et les sons des voix, des luths et des flûtes étaient tels que les cœurs tressaillaient de joie.
 
 Ils arrivèrent à un endroit habité, à un lieu beau et fortuné ; d’un côté on y voyait la mer ; de l’autre, des montagnes ; d’un troisième, des réserves de chasse éloignées des habitations.
 
