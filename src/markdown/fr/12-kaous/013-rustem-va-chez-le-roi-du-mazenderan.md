@@ -74,7 +74,9 @@ Le roi le regarda, lui assigna une place honorable, lui demanda des nouvelles de
 
 > Comment as-tu fait pour traverser ces vallées et ces montagnes?»
 
-Puis, il ajouta : Tu es Rustem, car tu as la poitrine et les bras d’un Pehlewan.»
+Puis, il ajouta :
+
+> Tu es Rustem, car tu as la poitrine et les bras d’un Pehlewan.»
 
 Rustem lui répondit î Je suis son serviteur, si tant est que je sois digne de le servir ; là où il est, je n’ai rien à faire, car c’est un Pehlewan, un braveet un cavalier.»
 
