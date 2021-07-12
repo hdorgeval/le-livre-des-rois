@@ -65,7 +65,7 @@ Il fut rejoint par des armées venant du Zaboulistan, du Kaboul et de l’Inde e
 
 Il marcha ainsi contre la ville d’Hérat et en emmena beaucoup de fantassins dont il donna le commandement à Zengueh fils de Schaweran.
 
-Il se porta ensuite vers Thalikan et le Mervroud ; tu au-rais dit que le ciel le bénissait ; de là il s’approcha de Balkh et sur toute cette route il n’ailligea personne par un mot amer.
+Il se porta ensuite vers Thalikan et le Mervroud ; tu aurais dit que le ciel le bénissait ; de là il s’approcha de Balkh et sur toute cette route il n’ailligea personne par un mot amer.
 
 De ce côté s’avançaient vers lui, rapidement comme le vent, Guersiwez et Barman avec une armée dont Sipahram commandait l’arrièregarde et Barman l’avant-garde.
 
