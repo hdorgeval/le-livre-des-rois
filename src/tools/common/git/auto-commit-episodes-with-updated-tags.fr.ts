@@ -8,7 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitEpisodesWithUpdatedTags() {
+async function autoCommitEpisodesWithUpdatedFrenchTags() {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -17,13 +17,13 @@ async function autoCommitEpisodesWithUpdatedTags() {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('src/markdown/')) {
+    if (unstagedFile.includes('src/markdown/fr/')) {
       const search = unstagedFile.match(/markdown\/fr\/\d\d-(.*)\//i);
       const reign = search ? search[1] : 'reign';
 
       const filename = unstagedFile.split(path.sep).pop();
       const episodeNumber = Number(filename?.split('-')[0]);
-      const commitMessage = `feat(${reign}): update tags in episode n° ${episodeNumber}`;
+      const commitMessage = `feat(${reign}/fr): update tags in episode n° ${episodeNumber}`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
@@ -32,4 +32,4 @@ async function autoCommitEpisodesWithUpdatedTags() {
   }
 }
 
-autoCommitEpisodesWithUpdatedTags().then();
+autoCommitEpisodesWithUpdatedFrenchTags().then();

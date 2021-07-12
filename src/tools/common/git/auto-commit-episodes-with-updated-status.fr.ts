@@ -1,6 +1,5 @@
 import simpleGit, { SimpleGit, SimpleGitOptions } from 'simple-git';
 import path from 'path';
-import {} from 'fs';
 
 const options: Partial<SimpleGitOptions> = {
   baseDir: process.cwd(),
@@ -8,21 +7,20 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitNewEpisodes() {
+export async function autoCommitEpisodesWithUpdatedStatus(): Promise<void> {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
-  const unstagedFiles = status.not_added;
-
+  const unstagedFiles = status.modified;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('src/markdown/')) {
+
+    if (unstagedFile.includes('src/markdown/fr/')) {
       const search = unstagedFile.match(/markdown\/fr\/\d\d-(.*)\//i);
       const reign = search ? search[1] : 'reign';
-
       const filename = unstagedFile.split(path.sep).pop();
       const episodeNumber = Number(filename?.split('-')[0]);
-      const commitMessage = `feat(${reign}): add episode n° ${episodeNumber}`;
+      const commitMessage = `feat(${reign}/fr): update status metada in episode n° ${episodeNumber}`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
@@ -31,4 +29,4 @@ async function autoCommitNewEpisodes() {
   }
 }
 
-autoCommitNewEpisodes().then();
+autoCommitEpisodesWithUpdatedStatus().then();
