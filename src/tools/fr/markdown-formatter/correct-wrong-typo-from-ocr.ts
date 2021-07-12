@@ -332,7 +332,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/sl /g, 's ! '),
     (content: string) => content.replace(/à\. /g, 'à '),
     (content: string) => content.replace(/dità /g, 'dit à '),
-    (content: string) => content.replace(/ ses. /g, ' ses '),
+    (content: string) => content.replace(/ ses\. /g, ' ses '),
+    (content: string) => content.replace(/au-rais /g, 'aurais '),
   ].forEach((format) => {
     result = format(result);
   });
