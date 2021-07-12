@@ -20,7 +20,7 @@ export async function autoCommitFormattedEpisodes(): Promise<void> {
       const reign = search ? search[1] : 'reign';
       const filename = unstagedFile.split(path.sep).pop();
       const episodeNumber = Number(filename?.split('-')[0]);
-      const commitMessage = `feat(${reign}): update reign metada in episode n° ${episodeNumber}`;
+      const commitMessage = `feat(${reign}): update reign metadata in episode n° ${episodeNumber}`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
