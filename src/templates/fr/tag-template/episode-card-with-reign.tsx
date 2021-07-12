@@ -26,7 +26,7 @@ export const EpisodeCard: React.FC<EpisodeCardProps> = ({
           </blockquote>
         </div>
         <div className="card-footer text-muted">
-          <small>{` ${frontmatter.reign} / épisode n°${index + 1}`}</small>
+          <small>{` ${frontmatter.reign} / épisode n°${index}`}</small>
         </div>
       </div>
     </Link>
