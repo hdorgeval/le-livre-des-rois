@@ -48,11 +48,13 @@ Elle lui dit :
 
 > Regarde ces présents avec reconnaissance ; c’est ton père qui te les envoie, ô mon vaillant fils.»
 
-Ensuite elle ajouta : Mais il ne faut pas qu’Afrasiab sache rien de cette affaire, depuis le commencement jusqu’à la fin ; car il est l’ennemi du glorieux Rustem et tout le Touran gémit sous sa tyrannie.
+Ensuite elle ajouta :
 
-Puisse-t-il ne pas te prendre en haine et détruire le [ils par inimitié contre le père !
-
-En outre, si ton père savait que tu es devenu tel que je te vois, portant haut la tête parmi ceux qui la portent haute, s’il le savait, il t’appellerait auprès de lui et la douleur briserait le cœur de la mère.»
+> Mais il ne faut pas qu’Afrasiab sache rien de cette affaire, depuis le commencement jusqu’à la fin ; car il est l’ennemi du glorieux Rustem et tout le Touran gémit sous sa tyrannie.
+>
+> Puisse-t-il ne pas te prendre en haine et détruire le [ils par inimitié contre le père !
+>
+> En outre, si ton père savait que tu es devenu tel que je te vois, portant haut la tête parmi ceux qui la portent haute, s’il le savait, il t’appellerait auprès de lui et la douleur briserait le cœur de la mère.»
 
 Sohrab lui répondit :
 
