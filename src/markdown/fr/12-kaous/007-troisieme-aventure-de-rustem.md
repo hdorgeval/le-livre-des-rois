@@ -8,7 +8,8 @@ source: tome I - livre des rois - P. 409
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: '3ème aventure - Rustem combat un dragon | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  ['âme', 'Destan', 'Dieu', 'Div', 'Mazenderan', 'Neriman', 'Pehlewan', 'Raksch', 'Rustem', 'Sam']
 order: '007'
 ---
 
