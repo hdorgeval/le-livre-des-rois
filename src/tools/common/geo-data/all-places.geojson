@@ -4,34 +4,34 @@
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [52.35072, 36.46961] },
-      "properties": { "name": "Āmol", "name2": "آمل", "wikilink": "en.wikipedia.org/wiki/Amol" }
+      "properties": { "name": "Āmol", "name2": " آمل", "wikilink": "en.wikipedia.org/wiki/Amol" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [69.17233, 34.52813] },
-      "properties": { "name": "Kabul", "name2": "کابل", "wikilink": "en.wikipedia.org/wiki/Kabul" }
+      "properties": { "name": "Kabul", "name2": " کابل", "wikilink": "en.wikipedia.org/wiki/Kabul" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [66.8972, 36.75635] },
-      "properties": { "name": "Balkh", "name2": "بلخ", "wikilink": "en.wikipedia.org/wiki/Balkh" }
+      "properties": { "name": "Balkh", "name2": " بلخ", "wikilink": "en.wikipedia.org/wiki/Balkh" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [62.0, 30.5] },
-      "properties": { "name": "Sīstān", "name2": "سیستان", "wikilink": "" }
+      "properties": { "name": "Sīstān", "name2": " سیستان", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [59.26809, 33.95781] },
-      "properties": { "name": "Mazra‘eh-ye Nīmrūz", "name2": "نیمروز", "wikilink": "" }
+      "properties": { "name": "Mazra‘eh-ye Nīmrūz", "name2": " نیمروز", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [68.42096, 33.55391] },
       "properties": {
         "name": "Ghazni",
-        "name2": "غزنی",
+        "name2": " غزنی",
         "wikilink": "en.wikipedia.org/wiki/Ghazni"
       }
     },
@@ -40,7 +40,7 @@
       "geometry": { "type": "Point", "coordinates": [67.82734, 34.82156] },
       "properties": {
         "name": "Bamyan",
-        "name2": "بامیان",
+        "name2": " بامیان",
         "wikilink": "en.wikipedia.org/wiki/Bamiyan_%28town%29"
       }
     },
@@ -49,26 +49,26 @@
       "geometry": { "type": "Point", "coordinates": [65.71013, 31.61332] },
       "properties": {
         "name": "Kandahar",
-        "name2": "قندهار",
+        "name2": " قندهار",
         "wikilink": "en.wikipedia.org/wiki/Kandahar"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [46.10752, 38.24601] },
-      "properties": { "name": "Kūhhā-ye Marv", "name2": "مرو", "wikilink": "" }
+      "properties": { "name": "Kūhhā-ye Marv", "name2": " مرو", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [58.48745, 34.27633] },
-      "properties": { "name": "Zībad", "name2": "زیبد", "wikilink": "en.wikipedia.org/wiki/Zibad" }
+      "properties": { "name": "Zībad", "name2": " زیبد", "wikilink": "en.wikipedia.org/wiki/Zibad" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [64.83333, 36.25] },
       "properties": {
         "name": "Faryab",
-        "name2": "فاریاب",
+        "name2": " فاریاب",
         "wikilink": "en.wikipedia.org/wiki/Faryab_Province"
       }
     },
@@ -77,7 +77,7 @@
       "geometry": { "type": "Point", "coordinates": [64.42861, 39.77472] },
       "properties": {
         "name": "Bukhara",
-        "name2": "بخارا",
+        "name2": " بخارا",
         "wikilink": "en.wikipedia.org/wiki/Bukhara"
       }
     },
@@ -86,7 +86,7 @@
       "geometry": { "type": "Point", "coordinates": [75.40781, 33.5329] },
       "properties": {
         "name": "Jammu and Kashmir",
-        "name2": "کشمیر",
+        "name2": " کشمیر",
         "wikilink": "en.wikipedia.org/wiki/Jammu_and_Kashmir_%28union_territory%29"
       }
     },
@@ -95,7 +95,7 @@
       "geometry": { "type": "Point", "coordinates": [67.27833, 37.22417] },
       "properties": {
         "name": "Termez",
-        "name2": "ترمذ",
+        "name2": " ترمذ",
         "wikilink": "en.wikipedia.org/wiki/Termez"
       }
     },
@@ -104,45 +104,44 @@
       "geometry": { "type": "Point", "coordinates": [72.0, 36.75] },
       "properties": {
         "name": "Badakhshan",
-        "name2": "بدخشان",
+        "name2": " بدخشان",
         "wikilink": "en.wikipedia.org/wiki/Badakhshan_Province"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [48.6842, 31.31901] },
-      "properties": { "name": "Ahvaz", "name2": "اهواز", "wikilink": "en.wikipedia.org/wiki/Ahvaz" }
+      "properties": {
+        "name": "Ahvaz",
+        "name2": " اهواز",
+        "wikilink": "en.wikipedia.org/wiki/Ahvaz"
+      }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [51.27743, 35.37448] },
-      "properties": { "name": "Rey", "name2": "ری", "wikilink": "" }
+      "properties": { "name": "Rey", "name2": " ری", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [54.34292, 36.1679] },
       "properties": {
         "name": "Damghan",
-        "name2": "دامغان",
+        "name2": " دامغان",
         "wikilink": "en.wikipedia.org/wiki/Damghan"
       }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [150.13164, 59.66994] },
-      "properties": { "name": "Arman'", "name2": "ارمان", "wikilink": "" }
-    },
-    {
-      "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [79.67846, 27.0177] },
-      "properties": { "name": "Kannauj", "name2": "قنوج", "wikilink": "" }
+      "properties": { "name": "Kannauj", "name2": " قنوج", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [44.40088, 33.34058] },
       "properties": {
         "name": "Baghdad",
-        "name2": "بغداد",
+        "name2": " بغداد",
         "wikilink": "en.wikipedia.org/wiki/Baghdad"
       }
     },
@@ -151,21 +150,21 @@
       "geometry": { "type": "Point", "coordinates": [35.21633, 31.76904] },
       "properties": {
         "name": "Jerusalem",
-        "name2": "بیت‌المقدس",
+        "name2": " بیت‌المقدس",
         "wikilink": "en.wikipedia.org/wiki/Jerusalem"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [79.93548, 37.1075] },
-      "properties": { "name": "Hotan", "name2": "ختن", "wikilink": "en.wikipedia.org/wiki/Hotan" }
+      "properties": { "name": "Hotan", "name2": " ختن", "wikilink": "en.wikipedia.org/wiki/Hotan" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [47.0534, 38.4218] },
       "properties": {
         "name": "Dehestān",
-        "name2": "دهستان",
+        "name2": " دهستان",
         "wikilink": "en.wikipedia.org/wiki/Dehestan%2C_East_Azerbaijan"
       }
     },
@@ -174,21 +173,21 @@
       "geometry": { "type": "Point", "coordinates": [53.06009, 36.56332] },
       "properties": {
         "name": "Sari",
-        "name2": "ساری",
+        "name2": " ساری",
         "wikilink": "en.wikipedia.org/wiki/Sari%2C_Iran"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [71.36667, 42.9] },
-      "properties": { "name": "Taraz", "name2": "طراز", "wikilink": "en.wikipedia.org/wiki/Taraz" }
+      "properties": { "name": "Taraz", "name2": " طراز", "wikilink": "en.wikipedia.org/wiki/Taraz" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [57.07879, 30.28321] },
       "properties": {
         "name": "Kerman",
-        "name2": "کرمان",
+        "name2": " کرمان",
         "wikilink": "en.wikipedia.org/wiki/Kerman"
       }
     },
@@ -197,7 +196,7 @@
       "geometry": { "type": "Point", "coordinates": [54.44391, 36.8427] },
       "properties": {
         "name": "Gorgan",
-        "name2": "گرگان",
+        "name2": " گرگان",
         "wikilink": "en.wikipedia.org/wiki/Gorgan"
       }
     },
@@ -206,7 +205,7 @@
       "geometry": { "type": "Point", "coordinates": [51.60262, 30.18506] },
       "properties": {
         "name": "Gūrāb",
-        "name2": "گوراب",
+        "name2": " گوراب",
         "wikilink": "en.wikipedia.org/wiki/Gurab%2C_Fars"
       }
     },
@@ -215,7 +214,7 @@
       "geometry": { "type": "Point", "coordinates": [48.2933, 38.2498] },
       "properties": {
         "name": "Ardabil",
-        "name2": "اردبیل",
+        "name2": " اردبیل",
         "wikilink": "en.wikipedia.org/wiki/Ardabil"
       }
     },
@@ -224,7 +223,7 @@
       "geometry": { "type": "Point", "coordinates": [51.67462, 32.65246] },
       "properties": {
         "name": "Isfahan",
-        "name2": "اصفهان",
+        "name2": " اصفهان",
         "wikilink": "en.wikipedia.org/wiki/Isfahan"
       }
     },
@@ -233,7 +232,7 @@
       "geometry": { "type": "Point", "coordinates": [57.0, 37.5] },
       "properties": {
         "name": "North Khorasan",
-        "name2": "خراسان",
+        "name2": " خراسان",
         "wikilink": "en.wikipedia.org/wiki/North_Khorasan_Province"
       }
     },
@@ -242,149 +241,157 @@
       "geometry": { "type": "Point", "coordinates": [66.95972, 39.65417] },
       "properties": {
         "name": "Samarkand",
-        "name2": "سمرقند",
+        "name2": " سمرقند",
         "wikilink": "en.wikipedia.org/wiki/Samarkand"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [36.0, 34.0] },
-      "properties": { "name": "Levant", "name2": "شام", "wikilink": "en.wikipedia.org/wiki/Levant" }
+      "properties": {
+        "name": "Levant",
+        "name2": " شام",
+        "wikilink": "en.wikipedia.org/wiki/Levant"
+      }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [49.5, 37.16667] },
       "properties": {
         "name": "Ostān-e Gīlān",
-        "name2": "گیلان",
+        "name2": " گیلان",
         "wikilink": "en.wikipedia.org/wiki/Gilan_Province"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [60.0, 26.0] },
-      "properties": { "name": "Makran", "name2": "مکران", "wikilink": "" }
+      "properties": { "name": "Makran", "name2": " مکران", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [58.79575, 36.21329] },
       "properties": {
         "name": "Neyshabur",
-        "name2": "نشاپور",
+        "name2": " نشاپور",
         "wikilink": "en.wikipedia.org/wiki/Nishapur"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [53.33333, 28.73333] },
-      "properties": { "name": "Jahrom", "name2": "جهرم", "wikilink": "" }
+      "properties": { "name": "Jahrom", "name2": " جهرم", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [37.16117, 36.20124] },
-      "properties": { "name": "Aleppo", "name2": "حلب", "wikilink": "en.wikipedia.org/wiki/Aleppo" }
+      "properties": {
+        "name": "Aleppo",
+        "name2": " حلب",
+        "wikilink": "en.wikipedia.org/wiki/Aleppo"
+      }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [44.0, 33.0] },
       "properties": {
         "name": "Iraq",
-        "name2": "عراق",
+        "name2": " عراق",
         "wikilink": "en.wikipedia.org/wiki/Mesopotamia"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [43.53333, 18.7] },
-      "properties": { "name": "Qaḩţān", "name2": "قحطان", "wikilink": "" }
+      "properties": { "name": "Qaḩţān", "name2": " قحطان", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [52.11005, 35.95508] },
       "properties": {
         "name": "Mount Damavand",
-        "name2": "دماوند",
+        "name2": " دماوند",
         "wikilink": "en.wikipedia.org/wiki/Mount_Damavand"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [50.75278, 36.31455] },
-      "properties": { "name": "Kūh-e Alborz", "name2": "البرز کوه", "wikilink": "" }
+      "properties": { "name": "Kūh-e Alborz", "name2": " البرز کوه", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [59.01667, 43.66667] },
       "properties": {
         "name": "Amu Darya",
-        "name2": "جیحون",
+        "name2": " جیحون",
         "wikilink": "en.wikipedia.org/wiki/AMU"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [61.61667, 31.25] },
-      "properties": { "name": "Shahrestān-e Hīrmand", "name2": "هیرمند", "wikilink": "" }
+      "properties": { "name": "Shahrestān-e Hīrmand", "name2": " هیرمند", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [59.58192, 36.38017] },
       "properties": {
         "name": "Arvand",
-        "name2": "اروند",
+        "name2": " اروند",
         "wikilink": "en.wikipedia.org/wiki/Arvand%2C_Iran"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [68.76667, 26.13333] },
-      "properties": { "name": "Sindh", "name2": "سند", "wikilink": "en.wikipedia.org/wiki/Sindh" }
+      "properties": { "name": "Sindh", "name2": " سند", "wikilink": "en.wikipedia.org/wiki/Sindh" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [55.78768, 32.10389] },
-      "properties": { "name": "Bīkand-e Kalamhadī", "name2": "بیکند", "wikilink": "" }
+      "properties": { "name": "Bīkand-e Kalamhadī", "name2": " بیکند", "wikilink": "" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [67.66667, 36.0] },
       "properties": {
         "name": "Samangān",
-        "name2": "سمنگان",
+        "name2": " سمنگان",
         "wikilink": "en.wikipedia.org/wiki/Samangan_Province"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [30.0, 27.0] },
-      "properties": { "name": "Egypt", "name2": "مصر", "wikilink": "en.wikipedia.org/wiki/Egypt" }
+      "properties": { "name": "Egypt", "name2": " مصر", "wikilink": "en.wikipedia.org/wiki/Egypt" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [12.51133, 41.89193] },
-      "properties": { "name": "Rome", "name2": "روم", "wikilink": "en.wikipedia.org/wiki/Rome" }
+      "properties": { "name": "Rome", "name2": " روم", "wikilink": "en.wikipedia.org/wiki/Rome" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [47.5, 15.5] },
-      "properties": { "name": "Yemen", "name2": "یمن", "wikilink": "en.wikipedia.org/wiki/Yemen" }
+      "properties": { "name": "Yemen", "name2": " یمن", "wikilink": "en.wikipedia.org/wiki/Yemen" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [105.0, 35.0] },
-      "properties": { "name": "China", "name2": "چین", "wikilink": "en.wikipedia.org/wiki/China" }
+      "properties": { "name": "China", "name2": " چین", "wikilink": "en.wikipedia.org/wiki/China" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [79.0, 22.0] },
-      "properties": { "name": "India", "name2": "هند", "wikilink": "en.wikipedia.org/wiki/India" }
+      "properties": { "name": "India", "name2": " هند", "wikilink": "en.wikipedia.org/wiki/India" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-4.58333, 37.5] },
       "properties": {
         "name": "Andalusia",
-        "name2": "اندلس",
+        "name2": " اندلس",
         "wikilink": "en.wikipedia.org/wiki/Andalusia"
       }
     },
@@ -393,27 +400,31 @@
       "geometry": { "type": "Point", "coordinates": [50.55, 26.03333] },
       "properties": {
         "name": "Bahrain",
-        "name2": "بحرین",
+        "name2": " بحرین",
         "wikilink": "en.wikipedia.org/wiki/Bahrain"
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [39.82563, 21.42664] },
-      "properties": { "name": "Makkah", "name2": "مکه", "wikilink": "en.wikipedia.org/wiki/Mecca" }
+      "properties": { "name": "Makkah", "name2": " مکه", "wikilink": "en.wikipedia.org/wiki/Mecca" }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [39.18624, 21.49012] },
-      "properties": { "name": "Jeddah", "name2": "جده", "wikilink": "en.wikipedia.org/wiki/Jeddah" }
+      "properties": {
+        "name": "Jeddah",
+        "name2": " جده",
+        "wikilink": "en.wikipedia.org/wiki/Jeddah"
+      }
     },
     {
       "type": "Feature",
-      "geometry": { "type": "Point", "coordinates": [171.45, -41.9] },
+      "geometry": { "type": "Point", "coordinates": [30.16196, 31.14946] },
       "properties": {
         "name": "Nile River",
-        "name2": "نیل",
-        "wikilink": "en.wikipedia.org/wiki/Waitakere_River"
+        "name2": " نیل",
+        "wikilink": "en.wikipedia.org/wiki/Nile"
       }
     }
   ]
