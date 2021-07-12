@@ -16,13 +16,23 @@ export interface LeafletMapProps {
 }
 
 export interface ZoomAndPositionTrackerProps {
+  onCenterChanged: (center: LatLngLiteral) => void;
   onZoomChanged: (zoom: number) => void;
 }
-const ZoomAndPositionTracker: React.FC<ZoomAndPositionTrackerProps> = ({ onZoomChanged }) => {
+const ZoomAndPositionTracker: React.FC<ZoomAndPositionTrackerProps> = ({
+  onCenterChanged,
+  onZoomChanged,
+}) => {
   useMapEvent('zoomend', (event) => {
     const map = event.target as Map;
     const zoom = map.getZoom();
     onZoomChanged(zoom);
+  });
+
+  useMapEvent('moveend', (event) => {
+    const map = event.target as Map;
+    const center = map.getCenter();
+    onCenterChanged(center);
   });
 
   return <></>;
@@ -57,7 +67,7 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
       .pop();
   }, [geoJsonFilename, geoJsonData]);
 
-  const center = React.useMemo(() => {
+  const initialCenter = React.useMemo(() => {
     const iranCenter: LatLngLiteral = { lat: 32, lng: 53 };
     if (!geoData) {
       return iranCenter;
@@ -82,6 +92,14 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
       setZoom(value);
     },
     [setZoom],
+  );
+
+  const [center, setCenter] = React.useState<LatLngLiteral>(initialCenter);
+  const handleCenterChanged = React.useCallback(
+    (value) => {
+      setCenter(value);
+    },
+    [setCenter],
   );
   const configureLeaflet = React.useCallback(() => overrideLeafletMarkers(), []);
 
@@ -150,7 +168,10 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
         >
           <TileLayers layersType={layersType} />
           <GeoJSON data={geoData} onEachFeature={onEachFeature} style={onStyleFeature} />
-          <ZoomAndPositionTracker onZoomChanged={handleZoomChanged} />
+          <ZoomAndPositionTracker
+            onZoomChanged={handleZoomChanged}
+            onCenterChanged={handleCenterChanged}
+          />
         </MapContainer>
       </div>
       <div
