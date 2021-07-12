@@ -4,6 +4,7 @@ import {
   TileLayers,
   LayerEvent,
   toGeoJsonDataFeatureFromLayerEvent,
+  ZoomAndPositionTracker,
 } from '../common';
 import React from 'react';
 import { FeatureGroup, MapContainer } from 'react-leaflet';
@@ -12,10 +13,26 @@ import { EditControl } from 'react-leaflet-draw';
 
 export const LeafletEditor: React.FC = () => {
   const [layersType, setLayersType] = React.useState<LayersType>('Toner');
-  const center = React.useMemo(() => {
+  const initialCenter = React.useMemo(() => {
     const iranCenter: LatLngLiteral = { lat: 32, lng: 53 };
     return iranCenter;
   }, []);
+
+  const [zoom, setZoom] = React.useState<number>(5);
+  const handleZoomChanged = React.useCallback(
+    (value) => {
+      setZoom(value);
+    },
+    [setZoom],
+  );
+
+  const [center, setCenter] = React.useState<LatLngLiteral>(initialCenter);
+  const handleCenterChanged = React.useCallback(
+    (value) => {
+      setCenter(value);
+    },
+    [setCenter],
+  );
 
   const configureLeaflet = React.useCallback(() => overrideLeafletMarkers(), []);
 
@@ -63,7 +80,7 @@ export const LeafletEditor: React.FC = () => {
           key={layersType}
           className="h-100"
           center={center}
-          zoom={5}
+          zoom={zoom}
           scrollWheelZoom={false}
         >
           <TileLayers layersType={layersType} />
@@ -81,6 +98,10 @@ export const LeafletEditor: React.FC = () => {
               onCreated={handleOnCreated}
             />
           </FeatureGroup>
+          <ZoomAndPositionTracker
+            onZoomChanged={handleZoomChanged}
+            onCenterChanged={handleCenterChanged}
+          />
         </MapContainer>
       </div>
       <div
