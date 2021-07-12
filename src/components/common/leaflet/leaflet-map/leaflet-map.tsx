@@ -8,12 +8,25 @@ import {
 } from '../common';
 import { graphql, useStaticQuery } from 'gatsby';
 import React from 'react';
-import { MapContainer, GeoJSON } from 'react-leaflet';
-import L, { LatLngLiteral, PathOptions } from 'leaflet';
+import { MapContainer, GeoJSON, useMapEvent } from 'react-leaflet';
+import L, { LatLngLiteral, Map, PathOptions } from 'leaflet';
 
 export interface LeafletMapProps {
   geoJsonFilename: string;
 }
+
+export interface ZoomAndPositionTrackerProps {
+  onZoomChanged: (zoom: number) => void;
+}
+const ZoomAndPositionTracker: React.FC<ZoomAndPositionTrackerProps> = ({ onZoomChanged }) => {
+  useMapEvent('zoomend', (event) => {
+    const map = event.target as Map;
+    const zoom = map.getZoom();
+    onZoomChanged(zoom);
+  });
+
+  return <></>;
+};
 
 export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
   const geoJsonData = useStaticQuery<AllGeoJsonFilesResponse>(graphql`
@@ -63,6 +76,13 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
     return iranCenter;
   }, [geoData]);
 
+  const [zoom, setZoom] = React.useState<number>(7);
+  const handleZoomChanged = React.useCallback(
+    (value) => {
+      setZoom(value);
+    },
+    [setZoom],
+  );
   const configureLeaflet = React.useCallback(() => overrideLeafletMarkers(), []);
 
   const selectToner = React.useCallback(() => {
@@ -125,11 +145,12 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
           key={layersType}
           className="h-100"
           center={center}
-          zoom={7}
+          zoom={zoom}
           scrollWheelZoom={false}
         >
           <TileLayers layersType={layersType} />
           <GeoJSON data={geoData} onEachFeature={onEachFeature} style={onStyleFeature} />
+          <ZoomAndPositionTracker onZoomChanged={handleZoomChanged} />
         </MapContainer>
       </div>
       <div
