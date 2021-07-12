@@ -5,38 +5,16 @@ import {
   LayersType,
   overrideLeafletMarkers,
   TileLayers,
+  ZoomAndPositionTracker,
 } from '../common';
 import { graphql, useStaticQuery } from 'gatsby';
 import React from 'react';
-import { MapContainer, GeoJSON, useMapEvent } from 'react-leaflet';
-import L, { LatLngLiteral, Map, PathOptions } from 'leaflet';
+import { MapContainer, GeoJSON } from 'react-leaflet';
+import L, { LatLngLiteral, PathOptions } from 'leaflet';
 
 export interface LeafletMapProps {
   geoJsonFilename: string;
 }
-
-export interface ZoomAndPositionTrackerProps {
-  onCenterChanged: (center: LatLngLiteral) => void;
-  onZoomChanged: (zoom: number) => void;
-}
-const ZoomAndPositionTracker: React.FC<ZoomAndPositionTrackerProps> = ({
-  onCenterChanged,
-  onZoomChanged,
-}) => {
-  useMapEvent('zoomend', (event) => {
-    const map = event.target as Map;
-    const zoom = map.getZoom();
-    onZoomChanged(zoom);
-  });
-
-  useMapEvent('moveend', (event) => {
-    const map = event.target as Map;
-    const center = map.getCenter();
-    onCenterChanged(center);
-  });
-
-  return <></>;
-};
 
 export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
   const geoJsonData = useStaticQuery<AllGeoJsonFilesResponse>(graphql`
