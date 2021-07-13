@@ -121,9 +121,7 @@ Keï Khosrou répondit :
 
 > Ô homme au cœur de "lion !
 
-Ma mère m’a rapporté ce que lui dit mon
-
-KEÏ nous. 3m père, lorsque, parlant par l’inspiration de Dieu, il déclara ses dernières volontés.
+Ma mère m’a rapporté ce que lui dit mon 3m père, lorsque, parlant par l’inspiration de Dieu, il déclara ses dernières volontés.
 
 Il dit alors à ma gloce rieuse mère :
 
