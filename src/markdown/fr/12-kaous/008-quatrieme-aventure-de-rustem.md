@@ -7,8 +7,8 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 412
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
-title: '4ème aventure -Rustem tue une magicienne | Le Livre des Rois | Shâhnâmeh'
-tags: []
+title: '4ème aventure - Rustem tue une magicienne | Le Livre des Rois | Shâhnâmeh'
+tags: ['Ahriman', 'Dieu', 'Divs', 'magicienne', 'Mazenderan', 'Raksch', 'Rustem', 'Tehemten']
 order: '008'
 ---
 
