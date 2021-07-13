@@ -168,7 +168,7 @@ Pilsem dit à l’illustre Afivwiab :
 >
 > Feribourz
 >
-> KEÎ nous. fils de Kaous, le terrible lion, que jamais personne n’a vu las de batailles, Rustem cet éléphant furieux, aux yeux duquel une armée n’est rien, Gouderz, Gourguin, Thous et Ferhad feront tous lier leurs timbales sur le dos des éléphants, se ceindront tous pour venger Siawusch et les plaines se couvriront, à cause de lui, de cavaliers armés de lances.
+> fils de Kaous, le terrible lion, que jamais personne n’a vu las de batailles, Rustem cet éléphant furieux, aux yeux duquel une armée n’est rien, Gouderz, Gourguin, Thous et Ferhad feront tous lier leurs timbales sur le dos des éléphants, se ceindront tous pour venger Siawusch et les plaines se couvriront, à cause de lui, de cavaliers armés de lances.
 >
 > Ni moi, ni ceux qui me ressemblent, ni aucun des braves de cette assemblée, ne pourrons leur résister.
 >
