@@ -48,7 +48,7 @@ Ils servirent de témoins aux fiançailles et ayant dressé le contrat et conclu
 
 Gulschehr remplit cet ordre avec joie en disantà Ferenguis qu’elle devait cette nuit se rendre auprès du jeune roi, pour que la lune devînt l’ornement de son palais.
 
-On para sur-le-champ Ferenguis, on forma de ses cheveux de musc des tresses qui tom- ’ baient sur ses joues de rose ; ensuite elle parut semblable à la nouvelle lune devant le jeune roi digne de la couronne.
+On para sur-le-champ Ferenguis, on forma de ses cheveux de musc des tresses qui tom-’ baient sur ses joues de rose ; ensuite elle parut semblable à la nouvelle lune devant le jeune roi digne de la couronne.
 
 Ils restèrent ensemble jouissant de leur bonheur et leur amour s’accrut de moment en moment.
 
