@@ -26,8 +26,7 @@ Les tentes du roi et des grands furent envoyées vers le désert du Mazenderan ;
 
 Gouderz et Keschwad commandèrent l’aile droite et couvrirent de fer toutes les montagnes ; le roi Kaous se plaça au centre de l’armée et les lignes de l’armée s’étendirent au loin.
 
-Audevant de tous se tenait Rustem au corps d’éléphant, qui n’avait jamais éprouvé de défaite dans un combat. l.
-
+Audevant de tous se tenait Rustem au corps d’éléphant, qui n’avait jamais éprouvé de défaite dans un combat. l. 
 MO
 Un des grands du Mazenderan portait sur son épaule une massue pesante ; il s’appelait Djouia ; son ambition était grande ; il brandissait sa massue et en frappait tout ce qu’il rencontrait.
 
