@@ -186,3 +186,18 @@
 {"rule":"D_N","sentence":"^\\QLes médecins qui ont vu mes yeux me donnent l'espoir de guérir par le moyen du sang du cœur et de la cervelle du Div blanc.\\E$"}
 {"rule":"D_N","sentence":"^\\QSoyez vigilants ; je vais combattre le Div blanc : c'est un éléphant dans la guerre et un être plein de ruse et autour de lui se presse une grande armée.\\E$"}
 {"rule":"D_N","sentence":"^\\Q6ème aventure - Combat de Rustem contre le Div Arzeng\\E$"}
+{"rule":"D_N","sentence":"^\\Q7ème aventure - Rustem tue le Div blanc\\E$"}
+{"rule":"D_N","sentence":"^\\QQuand Raksch fut arrivé dans les sept montagnes et auprès de ces troupes de Divs courageux, Rustem s'approcha de la caverne sans fond et vit tout autour l'armée du Div.\\E$"}
+{"rule":"D_N","sentence":"^\\QDe là il se dirigea vers le Div blanc, pareil au soleil resplendissant ; il aperçut une caverne semblable à l'enfer et dont le fond était caché dans l'obscurité ; il y resta quelques temps l'épée enmain.\\E$"}
+{"rule":"D_N","sentence":"^\\QCe fut ainsi que Rustem aperçut le Div endormi, mais il ne se hâta pas de le tuer ; il poussa un cri comme le cri du tigre et le Div s'étant réveillé, s'avança pour combattre Rustem, semblable à une montagne noire ; ses brassards étaient de fer et de fer son casque.\\E$"}
+{"rule":"D_N","sentence":"^\\QLe cœur de Rustem trembla devant le Div et le héros crut sa perte imminente.\\E$"}
+{"rule":"D_N","sentence":"^\\QIl se mit en colère comme un lion sauvage, donna au Div un coup de son épée tranchante sur le milieu du corps et détacha de ce grand corps, par la force de son bras, un pied et une cuisse.\\E$"}
+{"rule":"D_N","sentence":"^\\QEt le Div dit de même dans son cœur :\\E$"}
+{"rule":"D_N","sentence":"^\\QLe Div blanc se parla ainsi à lui-même ; cependant il reprit courage.\\E$"}
+{"rule":"D_N","sentence":"^\\QA la fin de ces efforts et de ce combat, le héros glorieux enlaça le Div, le saisit, le souleva comme fait un lion plein de vigueur, l'éleva au-dessus de son épaule et le jeta contre terre ; il le jeta sur le sol comme un lion furieux et avec tant de force que la vie quitta son corps ; puis il enfonça son poignard dans le cœur du Div et arracha le foie de son corps noir.\\E$"}
+{"rule":"D_N","sentence":"^\\QÀ la fin de ces efforts et de ce combat, le héros glorieux enlaça le Div, le saisit, le souleva comme fait un lion plein de vigueur, l'éleva au-dessus de son épaule et le jeta contre terre ; il le jeta sur le sol comme un lion furieux et avec tant de force que la vie quitta son corps ; puis il enfonça son poignard dans le cœur du Div et arracha le foie de son corps noir.\\E$"}
+{"rule":"D_N","sentence":"^\\QRustem étant retourné auprès d'Aulad, le délivra de ses liens, suspendit son lacet royal à l'arçon de la selle, remit à Aulad le foie qu'il avait arraché du corps du Div et se dirigea vers le roi Kaous.\\E$"}
+{"rule":"D_N","sentence":"^\\QÔ roi qui a appris la sagesse, réjouis-toi de la mort de ton ennemi : j'ai déchiré la poitrine du Div blanc et le roi du Mazenderan ne peut plus espérer en lui ; j'ai arraché le foie du corps du Div.\\E$"}
+{"rule":"D_N","sentence":"^\\QÔ brave dont les traces sont fortunées, verse maintenant le sang du Div dans mes yeux et dans ceux de cette multitude, pour que nous puissions de nouveau te contempler.\\E$"}
+{"rule":"AUX_ETRE_VCONJ","sentence":"^\\QOn versa du sang dans les yeux du roi et de troubles qu'ils étaient ils devinrent brillants comme le soleil.\\E$"}
+{"rule":"D_N","sentence":"^\\QDe là il se dirigea vers le Div blanc, pareil au soleil resplendissant ; il aperçut une caverne semblable à l'enfer et dont le fond était caché dans l'obscurité ; il y resta quelque temps l'épée en main.\\E$"}
