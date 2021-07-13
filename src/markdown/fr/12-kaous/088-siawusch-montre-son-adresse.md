@@ -105,7 +105,7 @@ On plaça un trône d’un côté du Meïdan et le roi alla s’y asseoir ; Siaw
 
 Ensuite Afrasiab dit à son cortège :
 
-> A vous le Meïdan, les tr raquettes et les halles.»
+> À vous le Meïdan, les raquettes et les halles.»
 
 Les deux troupes se mirent à combattre et la poussière vola jusqu’au soleil et chacun des deux partis alternativement enleva avec de grands cris la balle à ses adversaires.
 
