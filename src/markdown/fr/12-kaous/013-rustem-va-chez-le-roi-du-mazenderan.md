@@ -8,7 +8,7 @@ source: tome I - livre des rois - P. 434
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Rustem va chez le roi du Mazenderan avec un message | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ['Iran', 'Kalahour', 'Kaous', 'Keï-Kaous', 'Mazenderan', 'Pehlewan', 'Rustem', 'tribut']
 order: '013'
 ---
 
