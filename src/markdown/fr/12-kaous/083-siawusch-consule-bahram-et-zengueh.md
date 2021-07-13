@@ -81,7 +81,7 @@ Ensuite, il dit à Bahram fils.de Gouderz :
 >
 > Tu attendras l’arrivée du Sipehdar Thons, à qui tu remettras l’armée et les
 >
-> KEÎ nous. trésors, le tout en bon ordre et tu lui rendras compte de tout, de l’or, des couronnes et des trônes.»
+> trésors, le tout en bon ordre et tu lui rendras compte de tout, de l’or, des couronnes et des trônes.»
 
 À ces mots, le cœur de Bahram trembla de ce que Siavvusch allait faire et Zengueh fils de Schaweran versa des larmes de sang et maudit le pays de Hamaveran.
 
