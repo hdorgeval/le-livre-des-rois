@@ -27,8 +27,7 @@ Si Dieu le maître du monde est le très-juste, comment pourrait-on se soustrair
 
 Vois comment Dieu punit les méfaits, comment il a anéanti les Divs et les magiciens.
 
-Si maintenant tu réfléchis à leur sort, si ton intelli-
-KEÏ nous. sa : gence et ton esprit t’ont éclairé, quitte sur-le-champ le trône du Mazenderan et présente-toi à ma cour comme fait un vassal.
+Si maintenant tu réfléchis à leur sort, si ton intelli- sa : gence et ton esprit t’ont éclairé, quitte sur-le-champ le trône du Mazenderan et présente-toi à ma cour comme fait un vassal.
 
 Puisque tu n’es pas assez fort pour combattre Rustem, paye-moi promptement un tribut et une redevance selon ma demande.
 
