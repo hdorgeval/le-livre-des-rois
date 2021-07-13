@@ -18,6 +18,7 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/Ensuite il /g, 'Ensuite, il '),
     (content: string) => content.replace(/] : /g, ']: '),
     (content: string) => content.replace(/-Rustem/g, '- Rustem'),
+    (content: string) => content.replace(/-Aulad/g, '- Aulad'),
   ].forEach((format) => {
     result = format(result);
   });

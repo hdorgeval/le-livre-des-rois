@@ -333,10 +333,17 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/à\. /g, 'à '),
     (content: string) => content.replace(/dità /g, 'dit à '),
     (content: string) => content.replace(/ ses\. /g, ' ses '),
+    (content: string) => content.replace(/ tu\. /g, ' tu '),
     (content: string) => content.replace(/au-rais /g, 'aurais '),
     (content: string) => content.replace(/ digue /g, ' digne '),
     (content: string) => content.replace(/ llaksch /g, ' Raksch '),
     (content: string) => content.replace(/sortiléges/g, 'sortilèges'),
+    (content: string) => content.replace(/De la il/g, 'De là il'),
+    (content: string) => content.replace(/Ilustom /g, 'Rustem '),
+    (content: string) => content.replace(/ de pour /g, ' de peur '),
+    (content: string) => content.replace(/ de pour, /g, ' de peur, '),
+    (content: string) => content.replace(/ tr /g, ' '),
+    (content: string) => content.replace(/A vous /g, 'À vous '),
   ].forEach((format) => {
     result = format(result);
   });
