@@ -201,3 +201,10 @@
 {"rule":"D_N","sentence":"^\\QÔ brave dont les traces sont fortunées, verse maintenant le sang du Div dans mes yeux et dans ceux de cette multitude, pour que nous puissions de nouveau te contempler.\\E$"}
 {"rule":"AUX_ETRE_VCONJ","sentence":"^\\QOn versa du sang dans les yeux du roi et de troubles qu'ils étaient ils devinrent brillants comme le soleil.\\E$"}
 {"rule":"D_N","sentence":"^\\QDe là il se dirigea vers le Div blanc, pareil au soleil resplendissant ; il aperçut une caverne semblable à l'enfer et dont le fond était caché dans l'obscurité ; il y resta quelque temps l'épée en main.\\E$"}
+{"rule":"D_N","sentence":"^\\QPrends cette lettre pleine de bons conseils et porte-la à ce Div échappé de ses chaînes.»\\E$"}
+{"rule":"D_N","sentence":"^\\QS'il te reste une chance de conserver le trône du Mazenderan, ce n'est que par là que tu en trouveras le moyen, sinon désespère de ta vie comme Arzeng et le Div blanc.»\\E$"}
+{"rule":"NOM_MAL_EPELE","sentence":"^\\QIl s'affligea de la mort d'Arzeng, de celle du Div blanc et des blessures de Bid et de Poulad fils de Ghandi.\\E$"}
+{"rule":"D_N","sentence":"^\\QIl s'affligea de la mort d'Arzeng, de celle du Div blanc et des blessures de Bid et de Poulad fils de Ghandi.\\E$"}
+{"rule":"D_N","sentence":"^\\QQuand il eut appris les hauts fait de Rustem et le sort du Div, ses yeux se remplirent de sang ; son cœur se remplit de douleur.\\E$"}
+{"rule":"D_N","sentence":"^\\QPrends cette lettre pleine de bons conseils et porte-la à ce Div échappé de ses chaînes.\\E$"}
+{"rule":"D_N","sentence":"^\\QS'il te reste une chance de conserver le trône du Mazenderan, ce n'est que par là que tu en trouveras le moyen, sinon désespère de ta vie comme Arzeng et le Div blanc.\\E$"}
