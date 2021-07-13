@@ -45,8 +45,7 @@ Elle montra au jeune roi ces idoles, qui ressemblaient à des perles intactes, e
 Siawusch jeta un court regard sur ces belles, mais aucune d’elles n’ose le lui rendre ; car ces lunes se disaient l’une à l’autre : Il ne convient
 -pas de regarder ce roi.»
 
-Ensuite chacune d’elles if».
-
+Ensuite chacune d’elles if». 
 L7à
 s’en retourna à son trône, calculant ses chances de bonheur. ’ .
 Quand elles furent parties, Soudabeh lui dit :
@@ -121,9 +120,7 @@ Il répondit ensuite à Soudabeh :
 >
 > Mais il n’a jeté les yeux que sur ma fille, aucune autre de ces belles n’était digne de lui.»
 
-Le roi fut si content de ces paroles que tu
-
-KEÏ nous. m aurais dit qu’il tenait embrassée la lune.
+Le roi fut si content de ces paroles que tu m aurais dit qu’il tenait embrassée la lune.
 
 Il ouvril les portes de son trésor et en lira des joyaux, des étoffes tissues d’or et des ceintures d’or, des bracelets, des couronnes et des bagues, des trônes et des colliers, insignes du pouvoir, enfin il étala toutes sortes de trésors dès longtemps amassés et le monde parut rempli de choses précieuses.
 
