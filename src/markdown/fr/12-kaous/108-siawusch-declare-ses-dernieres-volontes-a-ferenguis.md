@@ -28,7 +28,7 @@ Siawusch lui dit :
 >
 > L’un trouve son tombeau dans la gueule du lion ; un autre est dévoré parle vautour, un troisième par l’aigle royal ; mais personne, quelle que soit sa science, ne peut convertir les ténèbres en lumière.
 >
-> Tu es maintenant enceinte de cinq mois et tu mettras au monde un enfant illustre ; le noble arbre de ton corps portera du fruit et donnera un roi au KEÏ nous. monde.
+> Tu es maintenant enceinte de cinq mois et tu mettras au monde un enfant illustre ; le noble arbre de ton corps portera du fruit et donnera un roi au monde.
 >
 > Appelle cet enfant, qui portera haut la tête, du nom de Keï Khosrou, faisen ta consolation dans tes soucis.
 >
@@ -65,9 +65,7 @@ Ensuite, il poussa des cris d’angoisse et sortit du palais le cœur rempli de 
 
 Ô mondel je ne sais pourquoi tu élèves les hommes ; tu les fais grandir et ensuite tu en fais ta prote.
 
-Ferenguis se déchira le visage et s’arracha les cheveux, elle laissa couler deux torrents de larmes sur ses joues ; et lorsque Siawusch prononça ces paroles douloureuses, elle se suspendit à son cou en
-
-KEÏ nous. poussant des cris.
+Ferenguis se déchira le visage et s’arracha les cheveux, elle laissa couler deux torrents de larmes sur ses joues ; et lorsque Siawusch prononça ces paroles douloureuses, elle se suspendit à son cou en poussant des cris.
 
 Siawusch, les joues inondées du sang de son cœur et de ses yeux, alla à l’écurie de ses chevaux arabes ; il en amena Behzad son cheval noir, qui, au jour de la bataille, égalait le vent en vitesse.
 
