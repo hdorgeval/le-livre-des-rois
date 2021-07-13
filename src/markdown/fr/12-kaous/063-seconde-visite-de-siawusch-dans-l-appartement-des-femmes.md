@@ -98,7 +98,7 @@ Il dit en son âme :
 
 Il répondit ensuite à Soudabeh :
 
-> Il n’y a pas de femme dans le monde qui soit ton égale ; la beauté ne peut se com--parer qu’à la lune et personne n’est digue de toi que le roi.
+> Il n’y a pas de femme dans le monde qui soit ton égale ; la beauté ne peut se com--parer qu’à la lune et personne n’est digne de toi que le roi.
 >
 > C’est assez de bonheur pour moi que tu me donnes ta fille et je ne dois pas posséder une autre femme.
 >
