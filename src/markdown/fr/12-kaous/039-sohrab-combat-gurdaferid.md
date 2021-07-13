@@ -151,7 +151,7 @@ Gnrdaferid l’écouta en souriant et lui dit en se jouantde lui :
 >
 > Faut-il que
 >
-> KEÏ nous. de tels bras et une telle poitrine servent de pâture aux tigreslNe te fie pas trop à la force de tes bras, ncar la vache stupide mangera l’herbe qui croîtra sur ton corps.
+> de tels bras et une telle poitrine servent de pâture aux tigreslNe te fie pas trop à la force de tes bras, ncar la vache stupide mangera l’herbe qui croîtra sur ton corps.
 >
 > Tu ferais mieux de suivre mon conseil et de t’en retourner dans le Touran.»
 
