@@ -26,7 +26,6 @@ Il fit venir des plaines tous les chevaux qui y paissaient et ses pâtres les am
 
 Quand l’armée fut équipée, quand elle eut reçu les largesses du roi, il fit battre les timbales d’airain et sonner les clochettes indiennes et les cavaliers se préparèrent au combat.
 
-KEÏ nous.
 
 Le roi sortit de la ville de Gang et conduisit l’armée des rues étroites de la ville dans la plaine ; il choisit Surkheh parmi tous les braves et lui parla longuement de Rustem, disant :
 
