@@ -20,7 +20,7 @@ Keschwad avait à Isthakher un palais qui était la gloire de sa noble famille ;
 
 Ils se mirent en route et quand ils furent arrivés dans ce palais doré, on fit asseoir Khosrou sur un trône d’or, on le salua comme roi.
 
-Tous les braves de l’Iran le reconnurent, à l’exception de Thous fils de Newder, qui s’y KEÏ nous. ses refusa, sous le prétexte qu’il avait le droit d’avoir des timbales et de porter des bottines d’or et qu’il était le gardien de l’étendard de Kaweh.
+Tous les braves de l’Iran le reconnurent, à l’exception de Thous fils de Newder, qui s’y ses refusa, sous le prétexte qu’il avait le droit d’avoir des timbales et de porter des bottines d’or et qu’il était le gardien de l’étendard de Kaweh.
 
 Gouderz fut courroucé de cette prétention et lui envoya un message conçu en termes modérés ; il le lui envoya par le vaillant Guiv qui ambitionnait la possession du monde, qui avait une main de héros et un bras de lion.
 
