@@ -62,7 +62,7 @@ Quel enseignement en tirestu, ô sage ?
 
 Si quelqu’un ne t’est pas uni parle sang, ne te fie jamais beaucoup en lui et même il y a des hommes qui te sont alliéspar le sang. qui briseront les liens de l’affection jusqu’au point de détourner de toi leur visage.
 
-Si tu. veux mettre à profit l’amitié d’un homme, il faut l’éprouver par le bonheur et par lemalheur.-ll se peut que, placé andessous de toi ,1 il perde par jalousie toute l’affection qu’il te portait.
+Si tu veux mettre à profit l’amitié d’un homme, il faut l’éprouver par le bonheur et par lemalheur.-ll se peut que, placé andessous de toi ,1 il perde par jalousie toute l’affection qu’il te portait.
 
 Tel est ce monde pervers, que chaque vent contraire l’ébranlem Kaous fut ainsi chargé de chaînes par trahison et le plan du roi du Hamaveran réussit.
 
