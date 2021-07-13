@@ -1017,6 +1017,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/DABA\./g, ''),
     (content: string) => content.replace(/DADA\./g, ''),
     (content: string) => content.replace(/DARA\./g, ''),
+    (content: string) => content.replace(/K E i K A Ô U s\./g, ''),
     (content: string) => content.replace(/KOBAD,/g, ''),
     (content: string) => content.replace(/ROIS\./g, ''),
     (content: string) => content.replace(/ZE W\./g, ''),

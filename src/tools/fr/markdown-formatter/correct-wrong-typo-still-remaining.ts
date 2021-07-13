@@ -17,6 +17,7 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/et à la fin il/g, 'et à la fin, il'),
     (content: string) => content.replace(/Ensuite il /g, 'Ensuite, il '),
     (content: string) => content.replace(/] : /g, ']: '),
+    (content: string) => content.replace(/-Rustem/g, '- Rustem'),
   ].forEach((format) => {
     result = format(result);
   });
