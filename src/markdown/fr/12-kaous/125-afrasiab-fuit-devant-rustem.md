@@ -30,8 +30,7 @@ Il tua un grand nombre de chefs des Iraniens et Thous eut peur et s’enfuit.
 
 Un homme accourut vers Rustem et lui dit :
 
-> La gloire de ce jour est perdue ; l’aile droite est devenue une mer de sang et le drapeau iranien est abattum KEÏ nous.
-
+> La gloire de ce jour est perdue ; l’aile droite est devenue une mer de sang et le drapeau iranien est abattum 
 Rustem partit du centre de l’armée, suivi de Faramourz et de ses braves.
 
 Il trouva devant lui de nombreux cavaliers armés de boucliers, tous irrités contre lui, tous parents et alliés d’Afrasiab, tous ayant le cœur rempli de haine et la tête pleine d’impatience. antem en tua un grand nombre et Faramourz et Thous le soutinrent dans la mêlée.
