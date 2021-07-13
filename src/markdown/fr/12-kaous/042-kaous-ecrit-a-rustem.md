@@ -44,8 +44,6 @@ Quand tu l’auras lue, que ce soit de jour ou de nuit, n’ouvre pas la bouche 
 
 J’espère donc que tu accourras du Zaboulistan avec des cavaliers pleins de prudence et que tu feras entendre ton cri de guerre.
 
-KEÎ nous.
-
 Car le héros dont nous parle Guzdehem est tel que toi Seul peux le combattre.»
 
 Aussitôt que la lettre fut scellée, le roi la donna à Guiv le vaillant et lui dit :
