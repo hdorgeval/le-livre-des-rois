@@ -24,7 +24,6 @@ Gloire à son prophète et à chacun
 (le ses compagnons !
 
 Puisque le monde a vu dispa-
-KEÏ nous.
 
 I reître ces hommes justes, ne compte pas y rester.
 
