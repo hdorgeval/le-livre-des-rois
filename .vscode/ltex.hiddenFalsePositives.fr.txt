@@ -165,3 +165,4 @@
 {"rule":"D_N","sentence":"^\\QJe me traîne encore dans l'espoir que le Tout-Puissant prêtera secours au roi Kaous et que le maître du monde le très-juste délivrera les Iraniens des griffes du Div.\\E$"}
 {"rule":"D_N","sentence":"^\\QUn dragon sortit du désert, tu aurais dit qu'un éléphant ne pourrait lui échapper ; son gîte était dans cet endroit ; et, de peur de le rencontrer, aucun Div n'aurait osé passer par là.\\E$"}
 {"rule":"D_N","sentence":"^\\QQue sont devant moi un lion, un Div, un éléphant, un désert sans eau ou les flots bleus de la mer ?\\E$"}
+{"rule":"ADRESSER_UN_PROBLEME","sentence":"^\\QIl lui adressa des questions et lui dit :\\E$"}
