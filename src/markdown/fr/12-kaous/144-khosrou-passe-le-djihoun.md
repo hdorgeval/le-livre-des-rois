@@ -36,7 +36,7 @@ Keï Khosrou lui répondit :
 
 > Cela suffit.
 >
-> Je mets KEÏ nous.
+> Je mets 
 >
 > A mon espoir en Dieu le secourable.»
 
