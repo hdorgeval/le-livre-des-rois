@@ -18,7 +18,7 @@ order: '013'
 
 Lorsque le roi eut apposé son sceau à la lettre, Rustem, qui ambitionnait la conquête du monde, partit après avoir suspendu à la selle sa massue pesante.
 
-Quand il fut près de la ville de Mazenderan, le roi eut nouvelle que Keï-Kaous lui envoyait un KEÏ nous. nouveau messager avec une lettre, un messager qui ressemblait à un lion indomptable, qui avait suspendu à l’arçon de la selle un lacet roulé soixante. fois et qui était assis sur un cheval rapide et si grand qu’on aurait dit que c’était un éléphant de guerre.
+Quand il fut près de la ville de Mazenderan, le roi eut nouvelle que Keï-Kaous lui envoyait un nouveau messager avec une lettre, un messager qui ressemblait à un lion indomptable, qui avait suspendu à l’arçon de la selle un lacet roulé soixante. fois et qui était assis sur un cheval rapide et si grand qu’on aurait dit que c’était un éléphant de guerre.
 
 Quand le roi du Mazenderan eut reçu cette nouvelle, il choisit quelques-uns d’entre ses grands’et leur 0rdonna de se réunir et d’aller à la rencontre de ce lion formidable.
 
@@ -62,7 +62,7 @@ Kalahour laissa pendre sa main, dont les fibres, la peau et les ongles tombaient
 >
 > Prends ce garde que la prospérité ne diminue ; tu ne peux pas résister à un pareil Pehlewan et s’il Veut s’en
 >
-> KEÏ nous.
+> 
 >
 > A contenter, il n’y a rien de mieux que de lui payer un tribut ; nous le payerons pour sauver le pays de Mazenderan et nous le répartirons entre les petits et les grands ; c’est ainsi que nous allégerons ce malheur.
 >
