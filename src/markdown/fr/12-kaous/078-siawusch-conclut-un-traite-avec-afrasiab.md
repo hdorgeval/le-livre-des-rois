@@ -38,7 +38,7 @@ Ensuite, il faut que tu évacues toutes les parties de l’Iran qui se trouvent 
 
 Il faut qu’il n’y ait dans le monde que du bonheur et que nous n’armions pas un seul homme.
 
-J’enverrai de mon côté une lettre au roi pour qu’il accepte la paix et rappelle tr son armée :
+J’enverrai de mon côté une lettre au roi pour qu’il accepte la paix et rappelle son armée :
 
 > Guersiwez expédia sur-le-champ un cavalier rapide comme le vent et lui dit :
 
