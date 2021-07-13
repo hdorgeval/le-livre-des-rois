@@ -34,7 +34,7 @@ Guersiwez dit à Siawusch :
 
 > Ô roi plein de brar1 voure, héritier des rois, plus illustre encore par la bravoure que par la naissance !
 >
-> Montre aux Turcs KEÏ nous. ton art à te servir de la pointe de la lance, des flèches et de l’arc, manie les rênes et fais une joute.»
+> Montre aux Turcs ton art à te servir de la pointe de la lance, des flèches et de l’arc, manie les rênes et fais une joute.»
 
 Siawusch posa les mains sur la poitrine en oigne d’ obéissance, quitta le trône où il était assis et monta à cheval.
 
@@ -122,9 +122,7 @@ Guersiwez fut courroucé de ce que Siawusch avait fait ; son âme devint soucieu
 
 Ils quittèrent le trône d’or et s’en retournèrent au palais ; tu aurais dit qu’ils portaientla tête plus haut que Saturne et tous les grands aux traces fortunées banquetèrent pendant sept jours avec du vin et de la musique.
 
-Le huitième jour Guersiwez et les siens firent leurs préparatifs de départ et Siawusch, mal-
-
-KEÏ nous. gré les soupçons qu’il avait conçus en secret, écrivit au roi une lettre remplie d’expressions de soumission et de questions amicales.
+Le huitième jour Guersiwez et les siens firent leurs préparatifs de départ et Siawusch, mal- gré les soupçons qu’il avait conçus en secret, écrivit au roi une lettre remplie d’expressions de soumission et de questions amicales.
 
 Ensuite, il fit à Guersiwez beaucoup de présents et les Turcs partirent joyeusement de cette belle ville, devisant entre eux longuement des hauts faits du roi et de la beauté de son pays.
 
