@@ -122,7 +122,7 @@ Guersiwez fut courroucé de ce que Siawusch avait fait ; son âme devint soucieu
 
 Ils quittèrent le trône d’or et s’en retournèrent au palais ; tu aurais dit qu’ils portaientla tête plus haut que Saturne et tous les grands aux traces fortunées banquetèrent pendant sept jours avec du vin et de la musique.
 
-Le huitième jour Guersiwez et les siens firent leurs préparatifs de départ et Siawusch, mal- gré les soupçons qu’il avait conçus en secret, écrivit au roi une lettre remplie d’expressions de soumission et de questions amicales.
+Le huitième jour Guersiwez et les siens firent leurs préparatifs de départ et Siawusch, malgré les soupçons qu’il avait conçus en secret, écrivit au roi une lettre remplie d’expressions de soumission et de questions amicales.
 
 Ensuite, il fit à Guersiwez beaucoup de présents et les Turcs partirent joyeusement de cette belle ville, devisant entre eux longuement des hauts faits du roi et de la beauté de son pays.
 
