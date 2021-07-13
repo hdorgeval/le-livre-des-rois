@@ -38,7 +38,7 @@ Siawusch lui dit :
 >
 > J’avais mieux espéré de Piran ; tous ses serments ne sont que du vent et moi je suis comme la feuille du tremble.
 >
-> Il m’avait dit qu’il viendrait à mon aide avec cent mille cavaliers couverts de cuirasses et montés sur des chevaux raparaçonnés et qu’au jour du malheur il serait pour moi une prairie au moment où j’aurais besoin de KEÏ nous. brouter ; et maintenant je suis obligé de marcher à pied devant Guersiwez, couvert de mépris et l’âme en peine et sans avoir auprès de moi un seul ami ce qui pleure sur ma destinée.»
+> Il m’avait dit qu’il viendrait à mon aide avec cent mille cavaliers couverts de cuirasses et montés sur des chevaux raparaçonnés et qu’au jour du malheur il serait pour moi une prairie au moment où j’aurais besoin de brouter ; et maintenant je suis obligé de marcher à pied devant Guersiwez, couvert de mépris et l’âme en peine et sans avoir auprès de moi un seul ami ce qui pleure sur ma destinée.»
 
 Lorsqu’ils eurent traversé la ville et le camp, ils le traînèrent dans la large plaine et Gueroui Zereh prit le poignard brillant de Guersiwez pour verser le sang de Siawusch.
 
@@ -79,7 +79,7 @@ Leurs cris arrivèrent aux oreilles du roi, qui, entendant ces plaintes amères 
 
 > Faites sortir de sa retraite cette femme aux mau-
 >
-> KEÏ nous. vaises paroles, arrachez-la des appartements des femmes et traînez-la dans la cour, livrez-la aux gardes qui sont accoutumés aux meurtres, pour qu’ils la saisissent par les cheveux, qu’ils déchirent le voile qui couvre sa tête et qu’ils la frappent avec des bâtons jusqu’à ce qu’elle ait rejeté sur la terre de Touran l’enfant de la vengeance qu’elle porte dans son sein.
+> vaises paroles, arrachez-la des appartements des femmes et traînez-la dans la cour, livrez-la aux gardes qui sont accoutumés aux meurtres, pour qu’ils la saisissent par les cheveux, qu’ils déchirent le voile qui couvre sa tête et qu’ils la frappent avec des bâtons jusqu’à ce qu’elle ait rejeté sur la terre de Touran l’enfant de la vengeance qu’elle porte dans son sein.
 >
 > Je ne veux pas que la racine de Siawusch pousse un rejeton ; je ne veux ni de ses feuilles ni de ses fruits, ni de son trône ni de sa couronne.»Tous les grands de l’assemblée, l’un après l’autre, le maudirent, disant :
 
