@@ -8,7 +8,30 @@ source: tome I - livre des rois - P. 424
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: '7ème aventure - Rustem tue le Div blanc | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Aulad',
+    'Bahram',
+    'Créateur',
+    'Dieu',
+    'Div',
+    'Divs',
+    'Feribourz',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Kaous',
+    'Mazenderan',
+    'Pehlewan',
+    'Raksch',
+    'Rehham',
+    'Rustem',
+    'Sipehdar',
+    'Thous',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '011'
 ---
 
