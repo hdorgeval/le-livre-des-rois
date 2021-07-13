@@ -88,7 +88,7 @@ Quand le roi du Touran vit ce qui se passait, il bouillonna sans feu comme du vi
 >
 > Faites un effort, soutenez la lutte et rendez le
 >
-> KEÏ nous. monde étroit pour Kaous.
+> monde étroit pour Kaous.
 >
 > Frappez les héros avec la lance et avec l’épée, abattez tous les guerriers de Kaous et surtout faites prisonnier, à force de bravoure, Rustem le Sejestani au cœur de lion, devant l’épéeduquel tremble la voûte du ciel ; enveloppez sa tête du lacet de la destruction.
 >
