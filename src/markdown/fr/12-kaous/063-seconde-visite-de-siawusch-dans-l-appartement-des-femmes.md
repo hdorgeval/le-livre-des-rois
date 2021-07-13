@@ -45,8 +45,7 @@ Elle montra au jeune roi ces idoles, qui ressemblaient à des perles intactes, e
 Siawusch jeta un court regard sur ces belles, mais aucune d’elles n’ose le lui rendre ; car ces lunes se disaient l’une à l’autre : Il ne convient
 -pas de regarder ce roi.»
 
-Ensuite chacune d’elles if».
-
+Ensuite chacune d’elles if». 
 L7à
 s’en retourna à son trône, calculant ses chances de bonheur. ’ .
 Quand elles furent parties, Soudabeh lui dit :
