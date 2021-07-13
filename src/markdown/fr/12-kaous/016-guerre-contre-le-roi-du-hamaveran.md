@@ -46,8 +46,7 @@ Aussitôt que les vieillards de la ville s’aper-çurent que l’orage du comba
 
 > Nous sommes les serviteurs et les esclaves du roi ; nous consentons à lui payer tribut ; nous lui donnerons, au lieu de pièces d’argent, des pièces d’or et des joyaux et nous comhlerons encore son trésorier de nos actions de grâce.»
 
-Kaous leur pardonna’et leur accorda sa faveur ; il leur traça une nouvelle voie et leur imposa une loi nouvelle. 
- 3 Ensuite on entendit dans ce lieu le bruit des clochettes et des cymbales et le son des trompettes ; le roi quitta le pays de Barber et se dirigea vers la montagne de Kaf et vers l’orient.
+Kaous leur pardonna’et leur accorda sa faveur ; il leur traça une nouvelle voie et leur imposa une loi nouvelle. 3 Ensuite on entendit dans ce lieu le bruit des clochettes et des cymbales et le son des trompettes ; le roi quitta le pays de Barber et se dirigea vers la montagne de Kaf et vers l’orient.
 
 Les peuples apprenant son arrivée, accoururent lui rendre hommage : tous les grands allèrent au-devant de lui et se soumirent à de lourds tributs et comme ils étaient prêts à lui obéir et à marcher dans sa voie, le roi passa avec son armée sans leur faire de mal.
 
@@ -84,7 +83,7 @@ Tu aurais dit que la terre était composée d’armures et de cuirasses et que l
 
 Ksi nous. s empruntaient leur lumière aux pointes des lances.
 
-Il y avait tant de casques d’or et de boucliers d’or, tant débuches diamines brillantes appuyées sur les épaules i des braves, que tu aurais dit que la terre était de l’or fluide et qu’il pleuvait des épées indiennes.
+Il y avait tant de casques d’or et de boucliers d’or, tant débuches diamines brillantes appuyées sur les épaules des braves, que tu aurais dit que la terre était de l’or fluide et qu’il pleuvait des épées indiennes.
 
 L’air ’étaitjdevetiu couleur de sandaraque par la multitude des bonnets ; la terre tout entière était noire comme du bois d’ébène.
 
