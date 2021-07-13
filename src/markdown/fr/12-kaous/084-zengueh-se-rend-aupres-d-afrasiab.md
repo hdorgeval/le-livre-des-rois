@@ -30,7 +30,7 @@ I et ordonna qu’on le traitât selon son rang ; ensuite il fit appeler en tout
 
 Lorsque Piran fut entré, le roi renvoya toute sa cour et parla à cet illustre seigneur de Kaous, de ses emportements, de son mauvais naturel et du désir qu’il avait de continuer la guerre.
 
-Il KEÏ nous. en parla et ses traits s’assombrirent, son cœur se remplit de pitié pour Siawusch ; il lui raconta l’arrivée de Zengueh fils de Schaweran et tout ce qui s’était passé depuis le commencement jusqu’à la fin et lui demanda :
+Il en parla et ses traits s’assombrirent, son cœur se remplit de pitié pour Siawusch ; il lui raconta l’arrivée de Zengueh fils de Schaweran et tout ce qui s’était passé depuis le commencement jusqu’à la fin et lui demanda :
 
 > Quel remède apporter à ce, mal ?
 >
