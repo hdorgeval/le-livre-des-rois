@@ -160,4 +160,4 @@ Le prudent Siawusch ayant entendu cette réponse de son ami, lui dit :
 >
 > Je veux cher-à".
 >
-> i cher sur la terre un pays où mon nom reste caché à Kaous, où je n’entende pas parler de ses mauvaises intentions et ou je puisse pendant quelque temps me reposer de la lutte que j’ai à soutenir contre lui.»
+> cher sur la terre un pays où mon nom reste caché à Kaous, où je n’entende pas parler de ses mauvaises intentions et ou je puisse pendant quelque temps me reposer de la lutte que j’ai à soutenir contre lui.»
