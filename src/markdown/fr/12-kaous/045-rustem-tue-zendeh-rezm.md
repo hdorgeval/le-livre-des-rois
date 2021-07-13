@@ -86,7 +86,7 @@ Il s’en retourna, reprit sa place, appela les grands et leur dit :
 
 > Zendeh Rezm me manquera dans le combat, mais je ne suis pas las du festins»
 
-Pendant que Rustem s’en retournait auprès du roi, Guiv sortit du camp des Iraniens pour faire la ronde ; il aperçut sur la roule le héros au corps d’éléphant et se hâta de tirer l’épée du fourreau ; il poussa un cri comme un éléphant furieux, se couvrit la tête de son bouclier et (se tint prêt à combattre.
+Pendant que Rustem s’en retournait auprès du roi, Guiv sortit du camp des Iraniens pour faire la ronde ; il aperçut sur la route le héros au corps d’éléphant et se hâta de tirer l’épée du fourreau ; il poussa un cri comme un éléphant furieux, se couvrit la tête de son bouclier et (se tint prêt à combattre.
 
 Rustem, qui savait que Guiv devait cette nuit faire la ronde devant le camp des Iraniens, sourit et jeta un cri.
 
