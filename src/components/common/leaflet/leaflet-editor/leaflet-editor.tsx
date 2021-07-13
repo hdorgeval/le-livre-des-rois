@@ -5,9 +5,14 @@ import {
   LayerEvent,
   toGeoJsonDataFeatureFromLayerEvent,
   ZoomAndPositionTracker,
+  GeometryPolygon,
+  GeoDataFeature,
+  reverseCoordinates,
+  GeoJsonData,
+  defaultGeoDataFeatureProperties,
 } from '../common';
 import React from 'react';
-import { FeatureGroup, MapContainer } from 'react-leaflet';
+import { FeatureGroup, MapContainer, Polygon, Popup } from 'react-leaflet';
 import { LatLngLiteral } from 'leaflet';
 import { EditControl } from 'react-leaflet-draw';
 
@@ -33,6 +38,8 @@ export const LeafletEditor: React.FC = () => {
     },
     [setCenter],
   );
+
+  const [polygon, setPolygon] = React.useState<GeoDataFeature | null>(null);
 
   const configureLeaflet = React.useCallback(() => overrideLeafletMarkers(), []);
 
@@ -60,12 +67,37 @@ export const LeafletEditor: React.FC = () => {
     setLayersType('Terrain');
   }, [layersType]);
 
-  const handleOnCreated = React.useCallback((event: LayerEvent) => {
-    // eslint-disable-next-line no-console
-    console.log(`onCreated:`, event);
-    const geodataFeature = toGeoJsonDataFeatureFromLayerEvent(event);
-    event.layer.bindPopup(JSON.stringify(geodataFeature, null, 2));
-  }, []);
+  const handleOnCreated = React.useCallback(
+    (event: LayerEvent) => {
+      const geodataFeature = toGeoJsonDataFeatureFromLayerEvent(event);
+      event.layer.bindPopup(JSON.stringify(geodataFeature, null, 2));
+
+      if (geodataFeature.geometry.type === 'Polygon') {
+        setPolygon(geodataFeature);
+      }
+    },
+    [setPolygon],
+  );
+
+  const handleOnEdited = React.useCallback(
+    // eslint-disable-next-line @typescript-eslint/no-explicit-any
+    (event: any) => {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const geodata = (event.layers as any).toGeoJSON() as GeoJsonData;
+      const feature = geodata.features[0];
+      if (feature.geometry.type === 'Polygon') {
+        const geodataFeature: GeoDataFeature = {
+          type: 'Feature',
+          geometry: feature.geometry,
+          properties: {
+            ...defaultGeoDataFeatureProperties,
+          },
+        };
+        setPolygon(geodataFeature);
+      }
+    },
+    [setPolygon],
+  );
 
   if (typeof window === undefined) {
     return null;
@@ -88,15 +120,23 @@ export const LeafletEditor: React.FC = () => {
             <EditControl
               position="topleft"
               draw={{
-                rectangle: true,
+                rectangle: false,
                 polygon: true,
-                polyline: true,
-                circle: true,
-                circlemarker: true,
-                marker: true,
+                polyline: false,
+                circle: false,
+                circlemarker: false,
+                marker: false,
               }}
               onCreated={handleOnCreated}
+              onEdited={handleOnEdited}
             />
+            {polygon && (
+              <Polygon
+                positions={reverseCoordinates((polygon.geometry as GeometryPolygon).coordinates)}
+              >
+                <Popup>{JSON.stringify(polygon, null, 2)}</Popup>
+              </Polygon>
+            )}
           </FeatureGroup>
           <ZoomAndPositionTracker
             onZoomChanged={handleZoomChanged}
@@ -146,6 +186,11 @@ export const LeafletEditor: React.FC = () => {
           Terrain
         </button>
       </div>
+      <p className="text-light mt-4">
+        You can draw a polygon, then you can modify it by adding new points or moving existing ones.
+        You can visualize/edit it at any zoom level and in any views (Toner/Ancien/Terrain). Once
+        you are ready, click on the polygon to get the corresponding GeoJSON data.
+      </p>
     </>
   );
 };
