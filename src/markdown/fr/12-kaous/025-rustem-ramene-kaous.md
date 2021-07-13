@@ -16,9 +16,7 @@ order: '025'
 
 # Rustem ramène Kaous
 
-Pendant que Kaous demandait ainsi à Dieu grâce pour ses péchés, son armée le cherchait de tous côtés.
-
-KEÎ nous. 
+Pendant que Kaous demandait ainsi à Dieu grâce pour ses péchés, son armée le cherchait de tous côtés. 
 À la fin, Rustem, Guiv et Thous reçurent des nouvelles de lui et partirent avec une armée, des éléphants et des timbales.
 
 Le vieux Gouderz dit à Rustem :
