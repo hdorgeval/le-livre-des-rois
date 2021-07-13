@@ -38,7 +38,7 @@ Il choisit parmi les braves Kelbad et Nestihen, un homme de fer ; il ordonna à 
 >
 > Et une fois à cheval ne perdez pas un instant, plantez la tête de Guiv au bout du fer d’une lance, enterrez Ferenguis et enchaînez Keï Khosrou le maudit, car la trace de ses pieds est la mauvaise étoile du Touran.
 >
-> Si cet homme de mauvais augure parvient à franchir le Djihoun, quels malheurs ne causera-t-il pasà ce KEÏ nous. pays et à ces grands !»
+> Si cet homme de mauvais augure parvient à franchir le Djihoun, quels malheurs ne causera-t-il pasà ce pays et à ces grands !»
 
 C’est ainsi que partit, sous le commandement de deux Pehlewans circonspects, une troupe de jeunes guerriers.
 
