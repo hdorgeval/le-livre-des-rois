@@ -24,7 +24,7 @@ On a donné à ce noble enfant le nom de Firoud ; et Piran, lorsqu’il l’a ap
 
 Djerireh, la mère de cet enfant illustre, la première parmi les reines puissantes, a ordonné de son lit à ses esclaves de tremper la main de l’enfant dans du safran.
 
-On a appliqué sa main sur le dos de cette lettre et Piran KEÎ nous. m’a dit :
+On a appliqué sa main sur le dos de cette lettre et Piran m’a dit :
 
 > Portela à Siawusch, dont les vœux sont exaucés et dis-lui que, malgré ma vieillesse,je me sens heureux par la grâce de Dieu le saint.»
 
