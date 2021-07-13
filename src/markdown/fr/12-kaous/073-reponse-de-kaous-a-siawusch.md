@@ -52,7 +52,7 @@ Après ces événements, Guersiwez au cœur de lion arriva auprès du roi du Tou
 >
 > Il n’y a pas d’aigle qui vole comme eux et le sommeil n’a sur eux aucune prise.
 >
-> Ils se sont présentés au combat pendant trois jours et trois nuits et les corps de nos braves et leurs chevaux se sont fatigués ; un Iranien, au contraire, quand il sentait le besoin de dormir, s’éloignait en toute tr hâte de la mêlée, dormait, se relevait rafraîchi et combattait de nouveau.»
+> Ils se sont présentés au combat pendant trois jours et trois nuits et les corps de nos braves et leurs chevaux se sont fatigués ; un Iranien, au contraire, quand il sentait le besoin de dormir, s’éloignait en toute hâte de la mêlée, dormait, se relevait rafraîchi et combattait de nouveau.»
 
 KEÏ. nous.
 
