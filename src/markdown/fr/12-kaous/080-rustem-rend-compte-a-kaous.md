@@ -64,7 +64,7 @@ Rustem lui répondit :
 >
 > Nous nous sommes avancés jusqu’au bord du fleuve, pour qu’Afrasiab vînt. nous combattre ; mais il a été le premier à
 >
-> KEÎ nous. ouvrir la porte de la paix et il n’aurait pas été juste d’attaquer un homme qui ne demandait que paix, fêtes et festins.
+> ouvrir la porte de la paix et il n’aurait pas été juste d’attaquer un homme qui ne demandait que paix, fêtes et festins.
 >
 > Ensuite songe qu’un roi qui romprait un traité ne serait pas approuvé par ses amis.
 >
