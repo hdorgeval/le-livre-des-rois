@@ -208,3 +208,4 @@
 {"rule":"D_N","sentence":"^\\QQuand il eut appris les hauts fait de Rustem et le sort du Div, ses yeux se remplirent de sang ; son cœur se remplit de douleur.\\E$"}
 {"rule":"D_N","sentence":"^\\QPrends cette lettre pleine de bons conseils et porte-la à ce Div échappé de ses chaînes.\\E$"}
 {"rule":"D_N","sentence":"^\\QS'il te reste une chance de conserver le trône du Mazenderan, ce n'est que par là que tu en trouveras le moyen, sinon désespère de ta vie comme Arzeng et le Div blanc.\\E$"}
+{"rule":"ADRESSER_UN_PROBLEME","sentence":"^\\QIl lui adressa les questions d'usage d'un air de tigre et avec une mine féroce ; puis il lui donna la main et serra si fort, celle de l'éléphant qui portait haut la tête, que la douleur la rendit bleue.\\E$"}
