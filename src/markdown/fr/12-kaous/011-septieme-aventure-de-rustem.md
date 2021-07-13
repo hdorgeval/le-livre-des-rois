@@ -24,7 +24,7 @@ Quand Raksch fut arrivé dans les sept montagnes et auprès de ces troupes de Di
 
 Il dit à Aulad :
 
-> Dans KEÏ nous.
+> Dans 
 >
 > A tout ce que je t’ai demandé, je t’ai toujours trouvé sur la voie de la vérité ; maintenant que le temps d’aller au combat est arrivé, montre-moi le chemin et dévoile-moi le mystère.»
 
@@ -65,7 +65,7 @@ Et le Div dit de même dans son cœur :
 > Je désespère de ma douce vie ; et quand même je me délivrerais des griffes de ce dragon, après avoir perdu un pied .
 et ayant la peau déchirée, jamais ni les petits ni
 >
-> KEÏ nous.»
+> »
 
 Les grands, dans le Mazenderan, ne me reverraient.»
 
