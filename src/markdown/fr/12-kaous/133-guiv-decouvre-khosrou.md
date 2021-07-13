@@ -50,9 +50,9 @@ Il se dit :
 >
 > Je ne trouve aucune
 >
-> KEÎ nous. trace de Keï Khosrou, pourquoi donc me trainetr rais-je à travers ce pays ?
+> trace de Keï Khosrou, pourquoi donc me trainetr rais-je à travers ce pays ?
 >
-> Mes compagnons d’armes tr livrent maintenant des batailles et mes amis pas-" sent leur vie dans les fêtes ; les uns recherchent la ce gloire, les autres le plaisir, pendant que le sort me prive de toute joie.
+> Mes compagnons d’armes livrent maintenant des batailles et mes amis pas-" sent leur vie dans les fêtes ; les uns recherchent la ce gloire, les autres le plaisir, pendant que le sort me prive de toute joie.
 >
 > C’est en vain que j’appelle ce Khosrou et que mon esprit se replie sur lui-même R comme un lacel roulé.
 >
