@@ -218,9 +218,7 @@ Rustem lui répondit :
 
 > Le commandement est à toi, nous sommes tous tes esclaves et le monde t’appartient.
 
-Et moi aussi je suis un des esclaves qui se tiennent (levant tu porte, si tant
-
-K E i K A Ô U s. est que je sois digue d’être compté parmi eux et je suis venu maintenant pour exécuter tes ordres. !
+Et moi aussi je suis un des esclaves qui se tiennent (levant tu porte, si tant est que je sois digne d’être compté parmi eux et je suis venu maintenant pour exécuter tes ordres. !
 
 Puissent le bonheur et le pouvoir rester tes compagnons la Kaous lui dit :
 
