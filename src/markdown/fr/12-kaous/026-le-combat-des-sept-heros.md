@@ -30,7 +30,7 @@ Voici ce que dit un barde, homme de cœur, qui eut inopinément à combattre un 
 
 Je vais donc raconter une aventure de Rustem qui cherchait les combats, aventure pleine de couleurs et de parfums.
 
-J’ai entendu dire qu’un jour Rustem au corps d’éléphant donna une fête à l’assemblée des grands, dans un lieu qui portait le nom de Newend et qui KEÏ nous. renfermait de hauts palais.
+J’ai entendu dire qu’un jour Rustem au corps d’éléphant donna une fête à l’assemblée des grands, dans un lieu qui portait le nom de Newend et qui renfermait de hauts palais.
 
 C’est là que brille maintenant comme un fanal la puissante flamme du feu Berzin.
 
