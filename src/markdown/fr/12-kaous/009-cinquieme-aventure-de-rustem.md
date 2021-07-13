@@ -144,7 +144,7 @@ Aulad lui répondit :
 >
 > Maintenant montre-moi le chemin qui conduit auprès de Kaous et mets-toi en marche.»
 
-Il dit, s’assit gaiement sur llaksch et Aulad courut devant lui, rapide comme le vent.
+Il dit, s’assit gaiement sur Raksch et Aulad courut devant lui, rapide comme le vent.
 
 Il ne se reposa ni durant la nuit obscure ni durant le jour lumineux et courut jusqu’au pied du mont Asprous, là où Kaous avait amené son armée et où les Divs et les magiciens l’avaient accablé de malheur.
 
