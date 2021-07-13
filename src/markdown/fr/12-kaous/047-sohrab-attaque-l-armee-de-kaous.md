@@ -20,7 +20,7 @@ Lorsque Sohrab entendit ces paroles dures, il détourna la tête et cacha son fr
 
 Il y réfléchit longtemps et fit des préparatifs de guerre de toute espèce.
 
-Il attacha sa ceinture pour KEÏ nous. aller au combat et ôta de sa tête royale sa couronne d’or.
+Il attacha sa ceinture pour aller au combat et ôta de sa tête royale sa couronne d’or.
 
 Il se revêtit joyeusement de sa cotte de mailles et de sa cuirasse et se couvrit la tête d’un casque de Roum ; le héros vainqueur des Divs prit sa lance, son arc, son lacet et sa lourde massue ; le sang bouillait de colère dans ses veines ; il monta sur son cheval rapide, poussa un cri de guerre, saisit un javelot et partit pour le champ de bataille, semblable à un éléphant furieux.
 
