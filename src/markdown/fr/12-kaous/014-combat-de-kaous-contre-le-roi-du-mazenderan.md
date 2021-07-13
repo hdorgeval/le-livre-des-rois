@@ -26,7 +26,8 @@ Les tentes du roi et des grands furent envoyées vers le désert du Mazenderan ;
 
 Gouderz et Keschwad commandèrent l’aile droite et couvrirent de fer toutes les montagnes ; le roi Kaous se plaça au centre de l’armée et les lignes de l’armée s’étendirent au loin.
 
-Audevant de tous se tenait Rustem au corps d’éléphant, qui n’avait jamais éprouvé de défaite dans un combat. l. 
+Audevant de tous se tenait Rustem au corps d’éléphant, qui n’avait jamais éprouvé de défaite dans un combat. l.
+
 MO
 Un des grands du Mazenderan portait sur son épaule une massue pesante ; il s’appelait Djouia ; son ambition était grande ; il brandissait sa massue et en frappait tout ce qu’il rencontrait.
 
@@ -109,9 +110,7 @@ Les chevaux aux pieds de vent la traversaient comme un vaisseau traverse la mer 
 
 Les coups de massue pleuvaient sur les casques et sur les morions, nombreux comme les feuilles que fait tomber le veut d’automne.
 
-Les deux armées glorieuses combattirent ainsi
-
-KEÎ nous. au pendant sept jours ; le huitième le roi Kaous, le maître du monde, ôta de sa tête le diadème des Keîaaides et se présentant devant Dieu le Seigneur qui donne la direction, il se tint debout en pleurant ; puis il se prosterna le visage contre terre, disant :
+Les deux armées glorieuses combattirent ainsi au pendant sept jours ; le huitième le roi Kaous, le maître du monde, ôta de sa tête le diadème des Keîaaides et se présentant devant Dieu le Seigneur qui donne la direction, il se tint debout en pleurant ; puis il se prosterna le visage contre terre, disant :
 
 > Ô Seigneur, maître de la vérité, donne-moi de la gloire et fais que je remporte la victoire sur ces Divs courageux,qui ne tremblent pas devant celui qui a créé le vent et la terre.
 >
