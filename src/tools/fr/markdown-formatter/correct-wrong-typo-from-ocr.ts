@@ -344,6 +344,13 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ de pour, /g, ' de peur, '),
     (content: string) => content.replace(/ tr /g, ' '),
     (content: string) => content.replace(/A vous /g, 'À vous '),
+    (content: string) => content.replace(/ i /g, ' '),
+    (content: string) => content.replace(/la roule /g, 'la route '),
+    (content: string) => content.replace(/sa roule /g, 'sa route '),
+    (content: string) => content.replace(/en roule /g, 'en route '),
+    (content: string) => content.replace(/cette roule /g, 'cette route '),
+    (content: string) => content.replace(/afIIigea/g, 'affligea'),
+    (content: string) => content.replace(/flustem/g, 'Rustem'),
   ].forEach((format) => {
     result = format(result);
   });
