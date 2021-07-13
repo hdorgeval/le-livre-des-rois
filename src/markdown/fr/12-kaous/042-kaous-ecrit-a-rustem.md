@@ -97,7 +97,7 @@ Ensuite Guiv invoqua une seconde fois les grâces de Dieu sur lui, en disant :
 > ’
 O Pehlewan du monde, ô vaillant guerrier !
 >
-> Que le trône et la couronne soient illustrés par toi, car tu es digue du diadème, ô prince fortuné !
+> Que le trône et la couronne soient illustrés par toi, car tu es digne du diadème, ô prince fortuné !
 >
 > Le roi Kaous m’a donné ses ordres en ces termes :
 
