@@ -26,7 +26,7 @@ Son ennemi le suivit de près et le monde devint noir comme la nuit sombre.
 
 Mais Guiv, lorsqu’il l’eut attiré loin du fleuve et de son armée, détacha de la selle sa massue de combat et se jeta sur le Pehlewan : tu aurais dit que c’était un dragon furieux.
 
-Piran le lion s’enfuit à son tour devant Guiv qui le poursuivit et qui, sans que le puissant Pehlewan s’en aperçût. détacha son lacet KEÏ nous. : roulé du crochet de la selle, tourna plusieurs fois son bras, fit voler la courroie et y prit Piran.
+Piran le lion s’enfuit à son tour devant Guiv qui le poursuivit et qui, sans que le puissant Pehlewan s’en aperçût. détacha son lacet : roulé du crochet de la selle, tourna plusieurs fois son bras, fit voler la courroie et y prit Piran.
 
 La tête du Pehlewan se trouvait dans le nœud du lacet et Guiv enleva ainsi Piran de la selle.
 
