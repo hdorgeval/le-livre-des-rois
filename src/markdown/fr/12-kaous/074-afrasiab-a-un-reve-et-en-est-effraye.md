@@ -32,7 +32,7 @@ Il le pressa contre son sein et lui dit :
 
 Le roi lui répondit :
 
-> Ne me fais pas de questions, ne m’adresse maintenant aucune parole ; et pour que je reprenne mes sens, presse-moi contre toi et tiens-moi ferme tr un moment.»
+> Ne me fais pas de questions, ne m’adresse maintenant aucune parole ; et pour que je reprenne mes sens, presse-moi contre toi et tiens-moi ferme un moment.»
 
 Quelques instants s’étant ainsi passés, le roi revint à lui et vit le monde rempli de lamentations et de cris.
 
