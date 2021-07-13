@@ -8,7 +8,7 @@ source: tome I - livre des rois - P. 430
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Kaous écrit une lettre au roi du Mazenderan | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ["Arzeng", "Bid", "Dieu", "Div", "Divs", "Ferhad", "Ghandi", "Iran", "Kaous", "Mazenderan", "Mobed", "Pehlewan", "Poulad", "Rustem", "tribut"]
 order: '012'
 ---
 
