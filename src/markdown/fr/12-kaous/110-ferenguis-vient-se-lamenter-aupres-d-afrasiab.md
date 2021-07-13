@@ -36,7 +36,7 @@ Elle lui dit :
 >
 > Siawusch a renoncé au pays d’Iran, il t’a rendu hommage entre tous les rois de la terre, il a mis en courroux son père à cause de toi, il a renoncé au diadème aux trésors et au trône impérial ; il est venu ici te demandant secours et asile et qu’a-t-il fait qui te porte à dévier du droit chemin ?
 >
-> Personne ne peut trancher la tête à un roi et conserver longtemps son propre trône et sa tr couronne.
+> Personne ne peut trancher la tête à un roi et conserver longtemps son propre trône et sa couronne.
 >
 > Ne m’accable pas. moi qui suis innocente : car le monde n’est qu’un séjour passager, plein d’orages et de soupirs ; il précipite l’un dans un fossé sans qu’il ait commis de crime, il fait monter sur le trône l’autre chargé de méfaits ; mais à la fin la poussière les couvre tous les deux et le piégé ténébreux de la tombe les retient.
 >
