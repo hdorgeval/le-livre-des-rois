@@ -39,7 +39,7 @@ Siawusch répondit :
 
 > La rotation du ciel sublime afflige et trouble mon âme.
 >
-> J’ai beau accumuler des choses KEÎ nous. précieuses et des trésors et multiplier mes palais ornés, à la fin tout cela tombera entre les mains de mes ennemis ; il m’arrivera malheur sur malheur et la mort m’atteindra.
+> J’ai beau accumuler des choses précieuses et des trésors et multiplier mes palais ornés, à la fin tout cela tombera entre les mains de mes ennemis ; il m’arrivera malheur sur malheur et la mort m’atteindra.
 >
 > Il n’y a pas de lieu dans le monde comme le château de Gang ; il n’y a pas de ville qui ravisse autant le cœur.
 >
