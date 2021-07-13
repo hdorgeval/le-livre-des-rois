@@ -173,7 +173,6 @@ Piran lui dit :
 >
 > Je t’ai reçu de Dieu le très-saint et je te servirai de tout mon cœur et de toute mon âme ; je te garantirai de tout malheur, autant qu’il sera possible ; car personne ne connaît le secret du ciel sublime.»
 
-KEÏ nous.
 
 Siawusch fut consolé par ces discours et il bannit de son esprit ses sombres pensées.
 
