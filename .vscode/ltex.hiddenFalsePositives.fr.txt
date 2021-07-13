@@ -178,3 +178,11 @@
 {"rule":"D_N","sentence":"^\\QQuand tu auras laissé ce lieu derrière toi, tu rencontreras un courant d'eau dont la largeur excède deux farsangs et dont le gardien est le Div Kunareng, qui commande à tous les Divs.\\E$"}
 {"rule":"D_N","sentence":"^\\QIl faut que le Div Arzeng soit dans le lieu d'où s'élèvent ces bruits et tr ces cris continus.\\E$"}
 {"rule":"D_N","sentence":"^\\QIl faut que le Div Arzeng soit dans le lieu d'où s'élèvent ces bruits et ces cris continus.\\E$"}
+{"rule":"D_N","sentence":"^\\QLe Div Arzeng se précipita de sa tente lorsque ce cri frappa ses oreilles et Rustem, en l'apercevant, lança son cheval, courut sur lui, semblable à Adergueschasp, le saisit bravement de ses mains par la tête et par les oreilles, lui arracha la tête du tronc, comme fait un lion et la jeta toute sanglante du côté où se trouvait l'armée du Div.\\E$"}
+{"rule":"D_N","sentence":"^\\QLe Div Arzeng se précipita de sa tente lorsque ce cri frappa ses oreilles et Rustem, en l'apercevant, lança son cheval, courut sur lui, semblable à Aderguschasp, le saisit bravement de ses mains par la tête et par les oreilles, lui arracha la tête du tronc, comme fait un lion et la jeta toute sanglante du côté où se trouvait l'armée du Div.\\E$"}
+{"rule":"D_N","sentence":"^\\QMaintenant, il faut que tu fasses courir Raksch sans que ces Divs s'en aperçoivent ; car quand le Div blanc saura qu'Arzeng a disparu de la terre et que Rustem est arrivé auprès de Kaous, tous les Divs se rassembleront, tes peines seront perdues et le monde se remplira d'une armée de Divs.\\E$"}
+{"rule":"D_N","sentence":"^\\QPrends tout de suite le chemin de la résidence du Div et ne laisse pas reposer ton corps, ton épée et tes flèches.\\E$"}
+{"rule":"D_N","sentence":"^\\QDans cette caverne est la résidence du Div blanc, qui est en même temps la terreur et l'espoir de son armée.\\E$"}
+{"rule":"D_N","sentence":"^\\QLes médecins qui ont vu mes yeux me donnent l'espoir de guérir par le moyen du sang du cœur et de la cervelle du Div blanc.\\E$"}
+{"rule":"D_N","sentence":"^\\QSoyez vigilants ; je vais combattre le Div blanc : c'est un éléphant dans la guerre et un être plein de ruse et autour de lui se presse une grande armée.\\E$"}
+{"rule":"D_N","sentence":"^\\Q6ème aventure - Combat de Rustem contre le Div Arzeng\\E$"}
