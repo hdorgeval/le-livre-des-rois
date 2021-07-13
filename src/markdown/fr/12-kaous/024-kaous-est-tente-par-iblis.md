@@ -50,7 +50,7 @@ Le cœur du roi fut détourné du vrai chemin par le Div ; soulesprit succomba �
 
 Il ignorait qu’il n’y a nul moyen de monter au ciel, que les étoiles sont sans
 
-KEÏ nous., nombre, mais que Dieu est un.
+, nombre, mais que Dieu est un.
 
 Toutes les créatures sont impuissantes contre ses ordres, car elles sont impures, rebelles et méchantes.
 
