@@ -14,7 +14,7 @@ order: '011'
 
 <!-- LTeX: language=fr -->
 
-# 7ème aventure -Rustem tue le Div blanc
+# 7ème aventure - Rustem tue le Div blanc
 
 De là Rustem se mit en route, prêt à combattre et la tête remplie de haine et d’ardeur. guerrière.
 
