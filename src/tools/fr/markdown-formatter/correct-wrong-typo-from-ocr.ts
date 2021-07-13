@@ -351,6 +351,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/cette roule /g, 'cette route '),
     (content: string) => content.replace(/afIIigea/g, 'affligea'),
     (content: string) => content.replace(/flustem/g, 'Rustem'),
+    (content: string) => content.replace(/ parlit /g, ' partit '),
+    (content: string) => content.replace(/ \(le/g, ' de'),
+    (content: string) => content.replace(/ raconla/g, ' raconta'),
+    (content: string) => content.replace(/au-des-sus /g, 'au-dessus '),
   ].forEach((format) => {
     result = format(result);
   });

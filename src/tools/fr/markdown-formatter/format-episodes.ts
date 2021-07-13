@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/fr/12-kaous', 12, 153);
+formatEpisodesIn('src/markdown/fr/12-kaous', 13, 153);
