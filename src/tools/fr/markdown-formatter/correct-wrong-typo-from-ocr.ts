@@ -328,6 +328,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/sm /g, 's.» '),
     (content: string) => content.replace(/nm /g, 'n.» '),
     (content: string) => content.replace(/im P/g, 'i.» P'),
+    (content: string) => content.replace(/\. w L/g, '.» L'),
     (content: string) => content.replace(/corlége/g, 'cortège'),
     (content: string) => content.replace(/sl /g, 's ! '),
     (content: string) => content.replace(/à\. /g, 'à '),
@@ -355,6 +356,13 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ \(le/g, ' de'),
     (content: string) => content.replace(/ raconla/g, ' raconta'),
     (content: string) => content.replace(/au-des-sus /g, 'au-dessus '),
+    (content: string) => content.replace(/ etque /g, ' et que '),
+    (content: string) => content.replace(/-Ml /g, ''),
+    (content: string) => content.replace(/Ml : /g, ' '),
+    (content: string) => content.replace(/ M5 /g, ''),
+    (content: string) => content.replace(/s’ébranle /g, 's’ébranla '),
+    (content: string) => content.replace(/cette de mailles/g, 'cotte de mailles'),
+    (content: string) => content.replace(/Keîaaides/g, 'Keïanides'),
   ].forEach((format) => {
     result = format(result);
   });
