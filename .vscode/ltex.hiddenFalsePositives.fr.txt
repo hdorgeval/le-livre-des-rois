@@ -209,3 +209,10 @@
 {"rule":"D_N","sentence":"^\\QPrends cette lettre pleine de bons conseils et porte-la à ce Div échappé de ses chaînes.\\E$"}
 {"rule":"D_N","sentence":"^\\QS'il te reste une chance de conserver le trône du Mazenderan, ce n'est que par là que tu en trouveras le moyen, sinon désespère de ta vie comme Arzeng et le Div blanc.\\E$"}
 {"rule":"ADRESSER_UN_PROBLEME","sentence":"^\\QIl lui adressa les questions d'usage d'un air de tigre et avec une mine féroce ; puis il lui donna la main et serra si fort, celle de l'éléphant qui portait haut la tête, que la douleur la rendit bleue.\\E$"}
+{"rule":"D_N","sentence":"^\\QQu'y a-t-il, mes braves, mes hommes de guerre, que vos cœurs soient troublés par ce Div, que vos visages deviennent sombres à sa voix?»\\E$"}
+{"rule":"D_N","sentence":"^\\QQue le roi m'accorde la permission de combattre ce Div voué à la destruction.»\\E$"}
+{"rule":"ACCORD_GENRE","sentence":"^\\QMais Rustem s'élança derrière lui, rapide comme la foudre et dirigeant sa lance droit contre la ceinture de Djouia, il l'en frappa sur les jointures de son armure et de sa cotte de mailles et aucun bouton de l'armure ne résista.\\E$"}
+{"rule":"D_N","sentence":"^\\QLe Div avait la mine sauvage, la taille haute et la tête, le cou et les défenses d'un sanglier.\\E$"}
+{"rule":"D_N","sentence":"^\\QKaous lui reprocha ses anciennes souffrances, dont le souvenir fit saigner son cœur et lui arracha un soupir et il ordonna au bourreau de prendre son épée tranchante et de couper en morceaux le Div.\\E$"}
+{"rule":"D_N","sentence":"^\\QQu'y a-t-il, mes braves, mes hommes de guerre, que vos cœurs soient troublés par ce Div, que vos visages deviennent sombres à sa voix ?\\E$"}
+{"rule":"D_N","sentence":"^\\QQue le roi m'accorde la permission de combattre ce Div voué à la destruction.\\E$"}
