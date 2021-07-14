@@ -363,6 +363,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/s’ébranle /g, 's’ébranla '),
     (content: string) => content.replace(/cette de mailles/g, 'cotte de mailles'),
     (content: string) => content.replace(/Keîaaides/g, 'Keïanides'),
+    (content: string) => content.replace(/ fêle /g, ' fête '),
   ].forEach((format) => {
     result = format(result);
   });
