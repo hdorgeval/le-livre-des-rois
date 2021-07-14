@@ -8,7 +8,39 @@ source: tome I - livre des rois - P. 439
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Combat de Kaous contre le roi du Mazenderan | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Aulad',
+    'Berzin',
+    'Créateur',
+    'Dieu',
+    'Div',
+    'Divs',
+    'Djouia',
+    'Fars',
+    'Ferhad',
+    'Gouderz',
+    'Gourazeh',
+    'Guiv',
+    'Gurguin',
+    'Iran',
+    'Iraniens',
+    'Kaous',
+    'Keschwad',
+    'Keï',
+    'Keïanides',
+    'Kherrad',
+    'Mazenderan',
+    'Newder',
+    'Pehlewan',
+    'Raksch',
+    'Rehham',
+    'Rustem',
+    'Schaweran',
+    'Seigneur',
+    'Thous',
+    'Zengueh',
+  ]
 order: '014'
 ---
 
