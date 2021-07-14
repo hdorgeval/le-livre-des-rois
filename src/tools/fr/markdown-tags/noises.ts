@@ -265,6 +265,8 @@ export const noises = [
   'Extrait',
   'Fais-en',
   'Fais-lui',
+  'Assis',
+  'Extirpe',
   'Fais-moi',
   'Fais',
   'Faisons',
