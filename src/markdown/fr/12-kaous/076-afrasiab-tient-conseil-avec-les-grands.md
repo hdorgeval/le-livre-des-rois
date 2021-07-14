@@ -26,7 +26,7 @@ Le roi tint une assemblée de sages et de Mobeds intelligents et prudents ; il l
 >
 > Mon cœur est fatigué des combats et du mal et je veux chercher la voie de Dieu.
 >
-> Ramenons maintenant la sagesse et la justice, que la paix succède aux soucis et aux peines, que nos guerres cessent de troubler le monde, etque la mort ne vienne plus surprendre les hommes.
+> Ramenons maintenant la sagesse et la justice, que la paix succède aux soucis et aux peines, que nos guerres cessent de troubler le monde et que la mort ne vienne plus surprendre les hommes.
 >
 > Deux tiers du monde sont sous mes pieds, je tiens ma cour dans l’Iran et dans le Touran.
 >
