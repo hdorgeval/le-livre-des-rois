@@ -6,6 +6,9 @@
 
 module.exports = {
   /* Your site config here */
+  flags: {
+    DEV_WEBPACK_CACHE: true,
+  },
   plugins: [
     'gatsby-plugin-postcss',
     'gatsby-plugin-sharp',
