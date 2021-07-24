@@ -22,6 +22,6 @@ Any contributor for other languages is welcomed.
 
 As you imagine, translating `Jules Mohl`'s work into Markdown is a huge task: it's not a matter of weeks but a matter of years to achieve this. The key success factor is to bring automation and machine learning wherever possible.
 
-You can read the book in French at https://www.lelivredesrois.com
+You can read the book in French at <https://www.lelivredesrois.com>
 
 !!! I am looking for a Web Designer to create a better user experience and an Artist to replace photos by illustrations/drawings. Feel free to introduce yourself in the [discussions](https://github.com/hdorgeval/le-livre-des-rois/discussions) !!!
