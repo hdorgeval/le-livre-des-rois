@@ -34,7 +34,7 @@
   },
   "dependencies": {
     "@popperjs/core": "2.9.2",
-    "bootstrap": "5.0.1",
+    "bootstrap": "5.0.2",
     "bootstrap-icons": "1.5.0",
     "gatsby": "3.10.1",
     "gatsby-image": "3.10.0",
@@ -54,7 +54,7 @@
     "gatsby-transformer-sharp": "3.10.0",
     "leaflet": "1.7.1",
     "leaflet-draw": "1.0.4",
-    "postcss": "8.3.5",
+    "postcss": "8.3.6",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "react-helmet": "6.1.0",
