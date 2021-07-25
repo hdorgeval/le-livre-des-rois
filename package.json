@@ -30,7 +30,8 @@
     "fr-auto-commit-episodes-with-updated-status": "ts-node src/tools/common/git/auto-commit-episodes-with-updated-status.fr.ts",
     "fr-auto-commit-new-episodes": "ts-node src/tools/common/git/auto-commit-new-episodes.fr.ts",
     "auto-commit-skip-netlify": "ts-node src/tools/common/git/auto-commit-skip-netlify.ts",
-    "auto-commit": "ts-node src/tools/common/git/auto-commit.ts"
+    "auto-commit": "ts-node src/tools/common/git/auto-commit.ts",
+    "ltex-check-sample": "ltex-ls-12.4.0/bin/ltex-ls  --input-documents=src/markdown/fr/00-firdousi/01-naissance-de-firdousi.md --settings-file=ltex-settings.fr.json" 
   },
   "dependencies": {
     "@popperjs/core": "2.9.2",
