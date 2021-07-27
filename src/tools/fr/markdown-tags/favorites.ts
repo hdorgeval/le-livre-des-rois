@@ -5,6 +5,8 @@ export const favorites = [
   'barsom',
   'chrysoprases',
   'cyprès',
+  'farsang',
+  'farsangs',
   'haoudah',
   'haoudahs',
   'immortalité',
