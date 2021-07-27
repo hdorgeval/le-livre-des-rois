@@ -8,7 +8,41 @@ source: tome II - livre des rois - P. 1
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Guerre contre le roi du Hamaveran | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Arabes',
+    'Bahram',
+    'Barber',
+    'Berber',
+    'Berberistan',
+    'Berbers',
+    'Chine',
+    'Dihkans',
+    'farsangs',
+    'Ferhad',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Hamaveran',
+    'Iran',
+    'Iraniens',
+    'Kaf',
+    'Kaous',
+    'Keschwad',
+    'Mazenderan',
+    'Mekran',
+    'Mobed',
+    'Nimrouz',
+    'Schidousch',
+    'Sipehdar',
+    'Syrie',
+    'Thous',
+    'Touran',
+    'tribut',
+    'Zaboulistan',
+    'Zal',
+    'Zereh',
+  ]
 order: '016'
 ---
 
