@@ -77,7 +77,7 @@ Le monde t’offre beaucoup de délices, pourquoi te donneraistu de la peine pou
 
 Tu travailles, mais un autre jouira du fruit de tes travaux à son aise et sans jeter un regard sur ton tombeau et sur ta bière.
 
-Et lui, à son tour, verra la fin de ses joies, etla poussière recouvrira sa tête.
+Et lui, à son tour, verra la fin de ses joies, et la poussière recouvrira sa tête.
 
 Pense que les jours s’en vont ; fais ton occupation des prières à Dieu le tout juste.
 
