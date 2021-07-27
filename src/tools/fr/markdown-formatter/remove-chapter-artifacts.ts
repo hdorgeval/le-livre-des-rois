@@ -1029,6 +1029,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/KEÎ nous\./g, ''),
     (content: string) => content.replace(/KEÏ nous\./g, ''),
     (content: string) => content.replace(/KEÎ KAOUs\./g, ''),
+    (content: string) => content.replace(/Ksi nous\./g, ''),
   ].forEach((format) => {
     result = format(result);
   });
