@@ -47,7 +47,7 @@ Il m’a dit :
 >
 > Maintenant, qu’il prépare pour moi un mariage, car, dans la bonne et dans la mauvaise fortune, j’ai besoin de lui.
 >
-> Il possède derrière les rideaux une fille qui est digne démon palais et de mon trône ; sa mère lui a donné le nom de Ferenguis et je serais heureux s’il me trouvait digne d’elle.»
+> Il possède derrière les rideaux une fille qui est digne démon palais et de mon trône ; sa mère lui a donné le nom de Ferenguis et je serais heureux s’il me trouvait digne d’elle. »
 
 À ces paroles Afrasiab devint soucieux et il répondit, les yeux remplis de larmes :
 
@@ -77,7 +77,7 @@ Il m’a dit :
 >
 > Pourquoi s’exposer’voloutairement à l’haleine du dragon ?
 >
-> Je le traiterai bien aussi longtemps qu’il restera ici et je serai pour lui un frère ; et quand il voudra retourner dans l’Irau, je l’équiperai magnifiquement pour son voyage et le renverrai à son père amicalement, comme le veut Dieu le tout juste.»
+> Je le traiterai bien aussi longtemps qu’il restera ici et je serai pour lui un frère ; et quand il voudra retourner dans l’Irau, je l’équiperai magnifiquement pour son voyage et le renverrai à son père amicalement, comme le veut Dieu le tout juste. »
 
 2ôâ
 Piran lui répondit :
@@ -88,13 +88,13 @@ Piran lui répondit :
 >
 > Et quand même le dessein secret du ciel serait autre, tes inquiétudes ne le rendront pas plus favorable ; ce qui doit arriver arrivera certainement et tes craintes n’amoindriront pas ce qui doit grandir.
 >
-> Pense que tu tireras de la gloire de cette alliance et que tout ce que tu demanderas à la fortune te sera accordé.»
+> Pense que tu tireras de la gloire de cette alliance et que tout ce que tu demanderas à la fortune te sera accordé. »
 
 Le roi dit à Piran :
 
 > Ton conseil ne peut pas porter malheur ; je cède à ta demande et à ton avis.
 >
-> Va et fais convenablement tout ce qu’il y a à faire.»
+> Va et fais convenablement tout ce qu’il y a à faire. »
 
 Piran se baissa jusqu’à terre et lui rendit ses hommages, il le couvrit de bénédictions et partit.
 
