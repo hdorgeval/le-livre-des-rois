@@ -66,4 +66,4 @@ Sohrab lui répondit :
 >
 > Je vais maintenant me mettre à la tête d’une armée innombrable de Turcs pleins de bravoure ; je précipiterai Kaous de son trône ; j’ell’acerai de l’Iran la trace du pied de Thous ; je ne laisserai en vie ni Gourguin, ni Gouderz, ni Guiv, ni Kustehem fils de Newder, ni Bahram le brave ; je donnerai à Rustem la massue, le cheval et le casque du roi ; je le ferai monter sur le trône de Kaous ; ensuite je tournerai de l’Iran vers le Touran pour l’attaquer, j’irai à la rencontre du roi ; je m’emparerai du trône d’Afrasiab, je lèverai ma lance au-dessus du soleil ; je te ferai reine du pays d’Iran ; je me montrerai comme un lion dans le combat des braves.
 >
-> Puisque Rustem est mon père et que je suis son fils, je ne laisserai aucun autre roi dans le monde ; car pourquoi les étoiles porte-raient-elles des couronnes quand le soleil et la lune brillent?»
+> Puisque Rustem est mon père et que je suis son fils, je ne laisserai aucun autre roi dans le monde ; car pourquoi les étoiles porte-raient-elles des couronnes quand le soleil et la lune brillent ? »
