@@ -46,7 +46,7 @@ Siawusch lui répondit :
 >
 > Pour-rais-je renoncer à la vertu et à la sagesse ?
 >
-> Tu es la femme du roi et le soleil qui éclaire son trône et tu me proposes un crime pareil?»
+> Tu es la femme du roi et le soleil qui éclaire son trône et tu me proposes un crime pareil ? »
 
 Il se leva de son trône. indigné et courroucé ; mais Soudabeh le saisit de ses mains et lui dit. :
 
