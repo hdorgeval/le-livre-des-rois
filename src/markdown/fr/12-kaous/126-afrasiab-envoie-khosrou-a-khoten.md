@@ -80,7 +80,7 @@ Quand il eut pourvu à tous ses besoins et : qu’il fut délivré de ces soins,
 
 > Ô roi, sage, illustre et glorieux !
 >
-> J’ai fait amener ici ce noble enfant, quel ordre maintenant me donnes-tu àson égard ?»
+> J’ai fait amener ici ce noble enfant, quel ordre maintenant me donnes-tu àson égard ? »
 
 Le roi du pays de Touran répondit à Piran :
 
