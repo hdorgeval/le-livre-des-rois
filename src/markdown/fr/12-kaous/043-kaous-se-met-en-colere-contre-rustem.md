@@ -59,7 +59,7 @@ Ilustem sor-9l lit, monta sur Raksch et dit :
 
 > Je suis le vainqueur des lions, le distributeur des couronnes.
 >
-> Quand je suis en’ colère, que devient Kaous ?
+> Quand je suis en colère, que devient Kaous ?
 >
 > Qui est donc Thous pour qu’il porte la main sur moi ?
 >
