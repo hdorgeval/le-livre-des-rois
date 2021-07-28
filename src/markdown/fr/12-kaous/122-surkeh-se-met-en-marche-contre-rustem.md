@@ -52,7 +52,7 @@ Faramourz s’avança du centre de l’armée vers Surkheh pour le combattre ave
 
 Semblable à Aderguschasp, il le frappa de sa lance, le souleva de selle et le tira vers lui jusqu’à ce qu’il touchât la crinière de son cheval ; les chefs de l’armée du Touran accoururent pleins de rage et d’ardeur pour le combat, ils assénèrent de toute leur force de grands coups sur la lance de Faramourz et la mirent en morceaux.
 
-Surkheh sentit avec douleur qu’il était le plus faible et recula ; ensuite il se jeta de nouveau sur Faramourz. une épée indienne à la main et semblable à un éléphant furieux.
+Surkheh sentit avec douleur qu’il était le plus faible et recula ; ensuite il se jeta de nouveau sur Faramourz une épée indienne à la main et semblable à un éléphant furieux.
 
 Les cavaliers touraniens arrivèrent derrière leur chef en poussant des cris ; mais Faramourz, aussitôt que Surkheh fut à sa portée, étendit la main brusquement comme un léopard agile, le saisit à la ceinture, l’enleva de selle, le jeta par terre, le fit marcher ignominieusement devant lui à pied et l’emmena ainsi de la mêlée au camp iramen.
 
