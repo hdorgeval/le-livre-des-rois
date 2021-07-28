@@ -22,7 +22,7 @@ Il vit un bois au milieu de la large plaine, tu aurais cru qu’on ne pouvait le
 
 Alors ce Turc ouvrit imprudemment ses lèvres et dit à :
 
-> ) Zewareh : Ici étaient les réserves de chasse de Siawusch, voilà le lieu qu’il préférait à tout le pays de Touran ; c’est ici qu’il était gai et heureux, partout ce ailleurs il était triste.»
+> ) Zewareh : Ici étaient les réserves de chasse de Siawusch, voilà le lieu qu’il préférait à tout le pays de Touran ; c’est ici qu’il était gai et heureux, partout ce ailleurs il était triste. »
 
 Lorsque Zewareh eut entendu ces paroles, le souvenir de ce qui s’était passé autrefois se réveilla dans son esprit ; lorsque les paroles du Turc frappèrent son oreille, il tomba de cheval et perdit connaissance.
 
