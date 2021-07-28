@@ -42,7 +42,7 @@ Le roi versa de ses yeux des larmes de sang et dit aux grands de l’armée :
 >
 > Ils nous ont vaincus dans une campagne, mais il ne faut pas nous laisser abattre ainsi.
 >
-> Amassons de tous côtés des armes et des troupes ; ouvrons de nouveau la voie de la fortune.»
+> Amassons de tous côtés des armes et des troupes ; ouvrons de nouveau la voie de la fortune. »
 
 Il rassembla en toute hâte une grande armée portant des lances et couverte d’armures ; il la conduisit dans le pays d’Iran ; il la mena au combat contre les braves et les lions.
 
