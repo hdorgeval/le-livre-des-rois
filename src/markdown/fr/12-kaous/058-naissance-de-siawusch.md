@@ -20,7 +20,7 @@ Il s’écoula ainsi un peu de temps et le gai printemps prit ses couleurs.
 
 Le ciel tourna sans relâche et lorsque neuf mois eurent passé sur cette belle,on annonça au roi Keï Kaous : Tu as joui de la belle aux traces fortunées et elle a mis au monde un noble enfant ; il faut que tu élèves maintenant ton trône au-dessus de la lune.
 
-Elle a mis au monde un enfant beau comme. un Péri et dont le visage ressemble à une idole d’Aderbeïdjan.
+Elle a mis au monde un enfant beau comme un Péri et dont le visage ressemble à une idole d’Aderbeïdjan.
 
 Le monde est rempli de bruits touchant cet enfant, car personne ne verra plus un visage et une chevelure comme les siens. »
 
