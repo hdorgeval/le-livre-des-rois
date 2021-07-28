@@ -54,7 +54,7 @@ Il descendit lui-même de cheval, baisa la terre devant le roi, lui rendit homma
 
 > de traître s’est pris dans les replis de la queue du dragon.
 >
-> Siawusch a livré sa tête, parce qu’il a cru aux paroles de cet homme, qui doit périr comme Siawusch a péri.»
+> Siawusch a livré sa tête, parce qu’il a cru aux paroles de cet homme, qui doit périr comme Siawusch a péri. »
 
 Piran se mit à.prononcer des bénédictions sur le roi, il gémit et baisa la terre, en disant :
 
@@ -64,4 +64,4 @@ Piran se mit à.prononcer des bénédictions sur le roi, il gémit et baisa la t
 >
 > Si ton esclave se fût trouvé à la cour du roi, Siawusch n’eût pas été tué.
 >
-> Je vous ai sauvés toi et ta mère, je vous ai tirés des mains du Div, à force de prudence et de ruse et j’espère que, par tu grâce et La fortune, j’échapperai aux griffes de ce dragon.»
+> Je vous ai sauvés toi et ta mère, je vous ai tirés des mains du Div, à force de prudence et de ruse et j’espère que, par tu grâce et La fortune, j’échapperai aux griffes de ce dragon. »
