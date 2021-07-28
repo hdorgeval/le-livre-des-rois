@@ -36,7 +36,7 @@ Le roi sortit de la ville de Gang et conduisit l’armée des rues étroites de 
 >
 > Tu es mon fils et mon ami, le soutien de l’armée et ma lune ; et si tu es prudent et diligent, qui osera s’opposer à toi ?
 >
-> Maintenant prends les devants, sois circonspect et préserve l’armée des attaques de Rustem.»
+> Maintenant prends les devants, sois circonspect et préserve l’armée des attaques de Rustem. »
 
 Surkheh quitta son père et se mit en marche ; il porta son étendard noir dans la plaine ; et se dirigea en toute hâte vers Sipendjab, ne rêvant que combats.
 
@@ -74,7 +74,7 @@ Ensuite, il dit en parlant de son fils :
 >
 > L’œil ne voit dans le feu que la lumière, mais quand on s’en approche, on sent qu’il brûle.
 >
-> Faramourz ne s’était pas montré jusqu’à présent, quoiqu’il soit plein de fierté ; l’acier est rempli de feu, mais sa qualité n’apparaît que quand on le met en contact avec une pierre dure.»
+> Faramourz ne s’était pas montré jusqu’à présent, quoiqu’il soit plein de fierté ; l’acier est rempli de feu, mais sa qualité n’apparaît que quand on le met en contact avec une pierre dure. »
 
 Rustem jeta alors les yeux sur Surkheh, qui était élancé comme un cyprès au milieu d’un pré, sa poitrine ressemblait à la poitrine d’un lion, son visage était comme le printemps et les boucles noires de ses cheveux se dessinaient sur les roses de ses joues. lins-
 
@@ -88,7 +88,7 @@ Celui-ci lui dit :
 >
 > Pourquoi verserais-tu mon sang innocent ?
 >
-> Siawusch était du même âge que moi et mon ami et mon cœur se désole de sa perte, mes yeux le pleurent jour et nuit, mes lèvres maudissent sans cesse ceux qui lui ont tranché la tête, ceux qui ont porté l’épée et le vase qu’on a employés.»
+> Siawusch était du même âge que moi et mon ami et mon cœur se désole de sa perte, mes yeux le pleurent jour et nuit, mes lèvres maudissent sans cesse ceux qui lui ont tranché la tête, ceux qui ont porté l’épée et le vase qu’on a employés. »
 
 Le cœur de Thous eut pitié de cet homme d’un si haut rang et tombé si bas ; il s’en retourna auprès de Rustem et lui répéta les paroles par lesquelles le fils d’Afrasiab l’avait touché.
 
@@ -96,7 +96,7 @@ Mais Rustem lui répondit :
 
 > Quand il serait digne d’un roi d’être affligé et de se lamenter comme il fait, il ne faut pas que nous cessions de tourmenter le cœur d’Afrasiab et de faire couler des larmes de ses yeux ; d’ailleurs un fils de cet homme de méchante race méditerait de nouvelles ruses et de nouvelles fourberies.
 >
-> On a jeté par terre Siawusch. on a inondé de sang sa poitrine, ses membres et ses cheveux et je jure par la vie et la tête du roi de l’Iran, du noble et illustre Kaous, qu’aussi longtemps que je vivrai je trancherai la tête à chaque Turc, à chaque homme de ce pays et de ce peuple que je rencontrerai, qu’il soit roi, qu’il soit esclave.»
+> On a jeté par terre Siawusch. on a inondé de sang sa poitrine, ses membres et ses cheveux et je jure par la vie et la tête du roi de l’Iran, du noble et illustre Kaous, qu’aussi longtemps que je vivrai je trancherai la tête à chaque Turc, à chaque homme de ce pays et de ce peuple que je rencontrerai, qu’il soit roi, qu’il soit esclave. »
 
 Le héros au cœur de lion fit un signe à Zewareh et lui ordonna de verser ce sang qui ne pouvait être épargné ; Zewareh prit l’épée et le vase et livra le jeune prince aux bourreaux.
 >
