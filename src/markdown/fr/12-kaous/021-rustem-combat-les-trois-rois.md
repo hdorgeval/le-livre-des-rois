@@ -26,7 +26,7 @@ Les trois rois et leurs armées, il dit à ses braves qui portaienthaut la tête
 >
 > Que nos ennemis soient cent cavaliers ou cent mille, ce n’est pas le nombre qui décide des batailles.
 >
-> Si Dieu le tout pur nous vient en aide, je ferai rouler dans la poussière les têtes de nos ennemis.»
+> Si Dieu le tout pur nous vient en aide, je ferai rouler dans la poussière les têtes de nos ennemis. »
 
 Du côté opposé, les rois assis sur des éléphants rangèrent leurs armées sur une ligne de deux milles d’étendue.
 
@@ -72,6 +72,6 @@ Kaous, qui brillait comme le soleil, fit préparer une couche d’or avec des br
 
 Ensuite, il dit à Soudabeh :
 
-> Monte sur cette haquenée et pars voilée comme le x soleil quand il marche alu-dessous de la terre.»
+> Monte sur cette haquenée et pars voilée comme le x soleil quand il marche alu-dessous de la terre. »
 
 Après toutes ces conquêtes, il ramena ses troupes de la ville dans le camp et cent mille cavaliers du Berberistan, de l’Égypte et du Hamaveran se rassemblèrent autour de lui, de sorte que son armée se montait à plus de trois cent mille hommes portant des cottes de mailles et montés sur des chevaux caparaçonnés.
