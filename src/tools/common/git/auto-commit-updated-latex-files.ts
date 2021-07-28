@@ -49,6 +49,23 @@ export async function autoCommitUpdatedLatexFiles(): Promise<void> {
       // eslint-disable-next-line no-console
       console.log(commitMessage);
     }
+
+    if (unstagedFile.includes('ltex.settings.') && unstagedFile.endsWith('.json')) {
+      let commitMessage = `chore(ltex): update stand-alone ltex-ls settings`;
+      if (unstagedFile.includes('.en.')) {
+        commitMessage = `chore(ltex): update stand-alone ltex-ls english settings`;
+      }
+      if (unstagedFile.includes('.fr.')) {
+        commitMessage = `chore(ltex): update stand-alone ltex-ls french settings`;
+      }
+      if (unstagedFile.includes('.fa.')) {
+        commitMessage = `chore(ltex): update stand-alone ltex-ls persian settings`;
+      }
+      await git.add(unstagedFile);
+      await git.commit(commitMessage);
+      // eslint-disable-next-line no-console
+      console.log(commitMessage);
+    }
   }
 }
 export async function autoCommitAddedLatexDictionaryFiles(): Promise<void> {
