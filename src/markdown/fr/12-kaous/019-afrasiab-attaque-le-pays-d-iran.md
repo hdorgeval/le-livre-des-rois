@@ -50,7 +50,7 @@ Une grande foule de peuple partit pour le Zaboulistan et se reno dit auprès du 
 >
 > Un lion qui ne redoute pas les tigres doit venir à notre aide dans cette douleur.
 >
-> Il faut que nous envoyions respectueusement un homme de sens auprès de Rustem.»
+> Il faut que nous envoyions respectueusement un homme de sens auprès de Rustem. »
 
 Un Mobed partit et parcourut le chemin jusqu’à la demeure du fils de Destan, de ce héros avide de vengeance.
 
