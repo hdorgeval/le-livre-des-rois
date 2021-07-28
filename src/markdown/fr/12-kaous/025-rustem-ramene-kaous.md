@@ -29,7 +29,7 @@ Le vieux Gouderz dit à Rustem :
 >
 > Jamais aucun des grands des temps passés n’a fait une entreprise contre le ciel.
 >
-> Mais Kaous est comme un possédé, sans direction et sans raison et chaque vent qui souffle l’emporte.»
+> Mais Kaous est comme un possédé, sans direction et sans raison et chaque vent qui souffle l’emporte. »
 
 Ensuite les Pehlewans arrivèrent auprès de lui, pleins d’amertume et de colère ; ils lui firent des reproches et Gouderz lui dit :
 
@@ -51,13 +51,13 @@ Ensuite les Pehlewans arrivèrent auprès de lui, pleins d’amertume et de col�
 >
 > Tu as toujours trouvé moyen de te tirer de malheur ; mais après ta mort on se racontera qu’il y a eu un roi qui a voulu monter au ciel pour voir la lune et le soleil et pour compter les étoiles une à une.
 >
-> Fais comme les rois sensés, bons et pieux ; ne tends de toutes les forces qu’à la soumission envers Dieu et soit dans le bonheur, soit dans le malheur, n’implore que lui.»
+> Fais comme les rois sensés, bons et pieux ; ne tends de toutes les forces qu’à la soumission envers Dieu et soit dans le bonheur, soit dans le malheur, n’implore que lui. »
 
 Kaous resta confondu et dévora la honte dont les grands et les braves le couvrirent.
 
 À la fin il répondit :
 
-> La justice ne saurait souffrir de ce qui est vrai ; tout ce que vous avez dit est vrai et juste et mon âme est captive dans vos lacets.»
+> La justice ne saurait souffrir de ce qui est vrai ; tout ce que vous avez dit est vrai et juste et mon âme est captive dans vos lacets. »
 
 Il versa de ses yeux des larmes de fiel et adressa beaucoup de prières au Créateur ; ensuite il se revêtit de ses armes et entra dans une litière, accablé de repentir et de douleur.
 
