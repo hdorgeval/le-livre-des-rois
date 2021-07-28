@@ -46,7 +46,7 @@ Pars donc, prépare-toi à la vengeance et à l’invasion et ne fais pas de lon
 
 Quand tu seras prêt pour la lutte et les surprises de nuit, quand tu auras soulevé une poussière noire grande comme le Djihoun, alors Afrasiab ne laissera pas aller sa tête au sommeil et il viendra te combattre.
 
-Mais si tu portes affection à cet Ahriman, si tu ne veux pas qu’on t’appelle violateur de traités, cède le com- : mandement de l’armée à l’illustre Thous et reviens ici, car alors tu n’es pas un homme fait pour les luttes, la gloire et la guerre.»
+Mais si tu portes affection à cet Ahriman, si tu ne veux pas qu’on t’appelle violateur de traités, cède le com- : mandement de l’armée à l’illustre Thous et reviens ici, car alors tu n’es pas un homme fait pour les luttes, la gloire et la guerre. »
 
 On apposa le sceau du roi sur la lettre et le dromadaire prenant sa course déchira la route.
 
@@ -72,4 +72,4 @@ Son cœur s’inquiéla des actions de son père, du son des otages turcs et de 
 >
 > Je ne vois que perdition à droite et à gauche et perdition devant moi.
 >
-> Soudabeh ne sera aussi pour moi qu’une source de malheur et je ne sais quels destins Dieu me réserve.»
+> Soudabeh ne sera aussi pour moi qu’une source de malheur et je ne sais quels destins Dieu me réserve. »
