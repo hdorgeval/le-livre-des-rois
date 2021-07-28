@@ -20,7 +20,7 @@ Lorsque le soleil brillant se fut levé et eut rendu la terre semblable à la ro
 
 Gouderz lui dit :
 
-> Quel compagnon as-tu l’intention de prendre avec toi?»
+> Quel compagnon as-tu l’intention de prendre avec toi ? »
 
 Il répondit :
 
