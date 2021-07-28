@@ -32,7 +32,7 @@ Il dit dans son cœur :
 
 > Malheur, malheur à moi !
 >
-> Cette lune brillante a disparu derrière les nuages !»
+> Cette lune brillante a disparu derrière les nuages ! »
 
 Lorsque Kaous reçut la lettre de Guzdehem, son cœur s’affligea de ce qu’il apprenait ; il rappela tous les grands de l’empire et leur parla longuement de ces nouvelles.
 
