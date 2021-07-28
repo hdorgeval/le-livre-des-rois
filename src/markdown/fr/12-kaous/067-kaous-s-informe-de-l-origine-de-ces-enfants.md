@@ -31,7 +31,7 @@ KEI nous. miques et leurs astrolabes et passèrent sept jours à calculer.
 >
 > Ces deux petits sont d’autre naissance qu’on ne prétend, ils n’ont pas été engendrés par le roi ni mis au monde par Soudabeh.
 >
-> S’ils étaient de la race royale, il nous eût été facile de les trouver dans nos tables ; mais sache que le firmament ne dévoile pas ce secret et que la clef de cette énigme ne se trouve pas sur la terre.»
+> S’ils étaient de la race royale, il nous eût été facile de les trouver dans nos tables ; mais sache que le firmament ne dévoile pas ce secret et que la clef de cette énigme ne se trouve pas sur la terre. »
 
 Ils donnèrent ensuite au roi et à l’assemblée des indications sur la méchante femme impure.
 
@@ -39,7 +39,7 @@ Soudabeh se lamentait et demandait justice, elle demandait au roi maître du mon
 
 > J’ai été la fidèle compagne du roi dans le temps où il était blessé, où il avait perdu la couronne et le trône.
 >
-> Mon cœur est navré du meurtre de mes enfants et par moments j’en perds la raison.»
+> Mon cœur est navré du meurtre de mes enfants et par moments j’en perds la raison. »
 
 Le roi lui dit :
 
@@ -77,7 +77,7 @@ Soudabeh dit :
 >
 > Si tu n’as pas pitié de tes enfants, que dmÂendrai-je, moi qui n’ai d’autres liens que ceux qui m’attachent à toi ?
 >
-> Mais si tu crois aux paroles futiles de ces hommes, j’en appelle à l’autre monde de ton jugement.»
+> Mais si tu crois aux paroles futiles de ces hommes, j’en appelle à l’autre monde de ton jugement. »
 
 Elle versait, en parlant, plus de larmes que le soleil n’aspire d’eau du Nil.
 
@@ -85,7 +85,7 @@ Le roi s’attrista de ces paroles, il pleura amèrement avec Soudabeh, ensuite 
 
 À la fin il dit :
 
-> Je poursuivrai cette afl’aire sans relâche, jusqu’à ce que j’arrive à une solution.»
+> Je poursuivrai cette afl’aire sans relâche, jusqu’à ce que j’arrive à une solution. »
 
 Il appela des frontières tous les Mobeds et leur parla longuement de Soudabeh.
 
@@ -95,7 +95,7 @@ Un Mobed répondit au roi :
 >
 > Quelque cher que te soit ton fils, ton cœur le soupçonne et tu souffres ; et d’un autre côté, tu es plein de doutes au sujet de cette fille du roi du Hamaveran.
 >
-> Puisque tu en es venu là avec tous les deux, il faut que l’un d’eux traverse le feu ; car la volonté du ciel sublime est que l’innocent n’y périsse pas.»
+> Puisque tu en es venu là avec tous les deux, il faut que l’un d’eux traverse le feu ; car la volonté du ciel sublime est que l’innocent n’y périsse pas. »
 
 Le roi appela Soudabeh et la fit asseoir pour débattre avec Siawusch qui (l’entre eus :
 
@@ -105,7 +105,7 @@ Danger.
 
 À la fin il leur dit :
 
-> Jamais mon cœur ni mon âme brillante n’auront confiance en aucun de vous, si le feu ardent ne fait paraître la vérité et ne confond le coupable.»
+> Jamais mon cœur ni mon âme brillante n’auront confiance en aucun de vous, si le feu ardent ne fait paraître la vérité et ne confond le coupable. »
 
 Soudabeh dit :
 
@@ -115,7 +115,7 @@ Soudabeh dit :
 >
 > Il faut que Siawusch se juslifie, car c’est»
 
-Lui qui a fait le mal, qui est allé chercher sa perte.»
+Lui qui a fait le mal, qui est allé chercher sa perte. »
 
 Le roi de la terre dit à Siawusch :
 
@@ -125,4 +125,4 @@ Siawusch répondit :
 
 > L’enfer n’est rien à mes yeux, comparé à cette affaire.
 >
-> S’il y avait une montagne de feu, je la foulerais aux pieds et mieux vaut y périr que de soufl’rir la honte qui m’accable.»
+> S’il y avait une montagne de feu, je la foulerais aux pieds et mieux vaut y périr que de soufl’rir la honte qui m’accable. »
