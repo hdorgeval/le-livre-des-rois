@@ -20,7 +20,7 @@ Lorsque Piran eut entendu cet horrible récit, il sortit du palais en poussant d
 
 Lui, le vaillant Rouïn et Ferschidwerd firent voler incontinent la poussière sur la route ; ils marchèrent deux jours et deux nuits et arrivèrent à la cour, où ils virent le portail du palais occupé par les bourreaux ; ils virent Ferenguis presque sans connaissance ; les valets l’avaient saisie et la traînaient par les cheveux, tenant chacun dans la main une épée tranchante et l’on entendait un grand tumulte dans la cour du palais.
 
-Tous les spectateurs avaient le cœur rempli de dou-leur et les yeux pleins de larmes à cause de ce que faisait l’infâme Afrasiab.
+Tous les spectateurs avaient le cœur rempli de douleur et les yeux pleins de larmes à cause de ce que faisait l’infâme Afrasiab.
 
 Tous ceux qui se trouvaient dans la cour, hommes, femmes et enfants, se disaient l’un à l’autre : C’est une action cruelle et : 2 dangereuse que de mettre à mort Ferenguis et le royaume périra par la violence de cet homme que personne ne voudra plus appeler roi. »
 
@@ -30,7 +30,7 @@ Lorsque les regards de la noble Ferenguis tombèrent sur lui, ses larmes inondè
 
 > Pourquoi m’as tu plongée dans ces malheurs ?
 >
-> Pourquoi m’as-tu précipitée toute vivante dans le feu?»
+> Pourquoi m’as-tu précipitée toute vivante dans le feu ? »
 
 Piran sauta à bas de son cheval, il déchira sur son corps ses vêtements de Pehlewan et ordonna aux gardiens de la porte de suspendre un instant l’exécution des ordres du roi.
 
