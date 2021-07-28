@@ -30,7 +30,7 @@ Il se précipita" sur l’enceinte des tentes du roi et en emporta le dessus ave
 
 Les chefs courageux se dispersèrent devant lui comme des onagres devant les griffes du lion ; aucun des grands de l’armée de l’Iran n’osa le regarder en face à cause de ses pieds et de ses étriers, de ses mains et de ses rênes, de ses bras et de sa lance vibrante.
 
-Les chefs et les braves s’assemblèrent en sedisant : Voici un héros au corps d’éléphant ; il ne faut pas le regarder en face étourdiment ; qui est-ce qui oserait le combattre?»
+Les chefs et les braves s’assemblèrent en sedisant : Voici un héros au corps d’éléphant ; il ne faut pas le regarder en face étourdiment ; qui est-ce qui oserait le combattre ? »
 
 Là-dessus Sohrab poussa des cris et défia le roi Kaous en disant :
 
@@ -46,7 +46,7 @@ Là-dessus Sohrab poussa des cris et défia le roi Kaous en disant :
 
 Il. llà fut tué : j’ai juré de ne laisser dans l’Iran aucun homme armé d’une lance et de pendre le. roi Kaous vivant au gibet.
 >
-> Qui astu, parmi les Iraniens, assez prompt de la main pour venir à ma rencontre sur ce champ de bataille?»
+> Qui astu, parmi les Iraniens, assez prompt de la main pour venir à ma rencontre sur ce champ de bataille ? »
 
 Ayant ainsi parlé, il se tut pendant longtemps, mais aucun des Iraniens ne lui répondit.
 
