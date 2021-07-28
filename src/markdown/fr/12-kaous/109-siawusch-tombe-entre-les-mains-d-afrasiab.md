@@ -36,7 +36,7 @@ Il dit en lui-même :
 >
 > Les Iraniens formèrent leurs rangs ; ils se préparèrent à verser du sang, ils se mirent tous à blâmer Siawusch, car ils ne croyaient pas que ce fût le temps d’attendre et de tarder ; il s’éleva parmi eux un bruit confus : Ils vont nous tuer, mais il ne faut pas que nous soyons jetés seuls dans la poussière.
 >
-> Attends que les Iraniens leur aient fait sentir leur bravoure et ne compte pas cette affaire pour rien.»
+> Attends que les Iraniens leur aient fait sentir leur bravoure et ne compte pas cette affaire pour rien. »
 
 Siawusch leur dit :
 
@@ -48,7 +48,7 @@ Quand le ciel qui tourne veut malgré mon innocence me faire périr par la main 
 
 Un Sage plein de prudence et de raison a dit :
 
-> N’essaye pas de surmonter à force de bravoure ta mauvaise étoile.»
+> N’essaye pas de surmonter à force de bravoure ta mauvaise étoile. »
 
 Ensuite, il dit à Afrasiab :
 
@@ -58,7 +58,7 @@ Ensuite, il dit à Afrasiab :
 >
 > Pourquoi veux-tu me tuer, moi qui suis innocent ?
 >
-> Par toi la haine s’allumera entre les deux peuples et le monde et le siècle se rempliront de malédictions.»
+> Par toi la haine s’allumera entre les deux peuples et le monde et le siècle se rempliront de malédictions. »
 
 L’insensé Guersiwez lui répondit :
 
@@ -66,7 +66,7 @@ L’insensé Guersiwez lui répondit :
 >
 > Si tu es venu si innocemment, pourquoi te présentes-tu devant le roi en cotte de mailles ?
 >
-> Ce n’est pas ainsi qu’on va au devant de lui et l’arc et les cuirasses ne sont pas le présent qu’on offre au roi.»
+> Ce n’est pas ainsi qu’on va au devant de lui et l’arc et les cuirasses ne sont pas le présent qu’on offre au roi. »
 
 Siawusch reconnut alors que tout cela provenait de ce méchant et que la colère du roi était son œuvre et aussitôt qu’il eut entendu ces paroles, il s’écria :
 
@@ -84,7 +84,7 @@ Ensuite, il se tourna vers Afiasiab, disant :
 >
 > Ce n’est pas un jeu de verser mon sang et d’attaquer des hommes innocents.
 >
-> Ne jette pas au vent le pays de Touran et ta vie à cause des paroles de Guersiwez, issu d’une race méchante.»
+> Ne jette pas au vent le pays de Touran et ta vie à cause des paroles de Guersiwez, issu d’une race méchante. »
 
 Guersiwez le traître regardait le roi pendant que Siawusch parlait, puis il dit avec colère :
 
@@ -100,7 +100,7 @@ Afrasiab approuva les paroles de Guersiwez et dans ce montent le puissant soleil
 
 Le roi ordonna à son armée de tirer l’épée tranchante et de pousser des cris qui fissent trembler la terre ; Siawusch, fidèle au serment qu’il avait fait, ne porta pas la main à l’épée ni à la lance et ne donna à aucun de ses amis l’ordre d’avancer au combat ; mais le farouche Afrasiab aux mauvais desseins assouvit sa rage contre le roi de l’Iran, en s’écriant :
 
-> Livrez-les tous au tranchant de l’épée, étendez-les dans leur sang sur ce champ de carnage.»
+> Livrez-les tous au tranchant de l’épée, étendez-les dans leur sang sur ce champ de carnage. »
 
 Les Iraniens étaient au nombre de mille et tous guerriers illustres ; ils furent tous frappés, blessés et exterminés : c’est ainsi que se termina leur vie.
 
@@ -174,7 +174,7 @@ Pilsem dit à l’illustre Afivwiab :
 >
 > Demain matin Piran arrivera et le roi entendra de sa bouche les mêmes paroles que de la mienne.
 >
-> Et puisque la nécessité ne t’y pousse pas, ne répands pas dans le monde la semence de la vengeance, n’ordonne pas que l’on se hâte, car le Touran deviendra un désert par les suites de ce crime.»
+> Et puisque la nécessité ne t’y pousse pas, ne répands pas dans le monde la semence de la vengeance, n’ordonne pas que l’on se hâte, car le Touran deviendra un désert par les suites de ce crime. »
 
 Le roi fut ébranlé par ces paroles, mais son frère Guersiwez resta impitoyable et lui dit :
 
@@ -190,7 +190,7 @@ Le roi fut ébranlé par ces paroles, mais son frère Guersiwez resta impitoyabl
 >
 > Tu as foulé aux pieds la queue du serpent et percé sa tête et maintenant tu couvrirais sa poitrine de brocart ?
 >
-> Si tu lui fais grâce de la vie, je ne paraîtrai plus devant toi, j’irai me cacher dans un coin du monde pour éviter que ma tête ne tombe bientôt.»
+> Si tu lui fais grâce de la vie, je ne paraîtrai plus devant toi, j’irai me cacher dans un coin du monde pour éviter que ma tête ne tombe bientôt. »
 
 Demour et Gueroui se présentèrent alors dans l’angoisse de la peur et s’approchèrent du roi, disant :
 
@@ -204,7 +204,7 @@ Demour et Gueroui se présentèrent alors dans l’angoisse de la peur et s’ap
 >
 > Et quand même il n’aurait pas eu les premiers torts, crois-tu pouvoir laver avec de l’eau une pareille injure ?
 >
-> Ce qu’il y a de mieux à faire maintenant, c’est de ne pas permettre à Siawusch de vivre, soit en face des hommes, soit caché dans un coin du monde.»
+> Ce qu’il y a de mieux à faire maintenant, c’est de ne pas permettre à Siawusch de vivre, soit en face des hommes, soit caché dans un coin du monde. »
 
 Le roi leur répondit :
 
@@ -212,6 +212,6 @@ Le roi leur répondit :
 >
 > Le malheur qui m’était prédit approche du Touran et mes chagrins, mes ’ soucis et mes peines arrivent.
 >
-> Néanmoins il vaut encore mieux le tuer que de le laisser libre, quoiqu’il m’en coûte de le mettre à mort.»
+> Néanmoins il vaut encore mieux le tuer que de le laisser libre, quoiqu’il m’en coûte de le mettre à mort. »
 
 Ni le sage ni le méchant neconnaissent le secret du ciel qui tourne.
