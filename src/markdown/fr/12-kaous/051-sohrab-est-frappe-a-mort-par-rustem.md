@@ -48,7 +48,7 @@ ma peine a été inutile, je n’ai pu voir les traits de mon père.
 >
 > Maintenant, dusses-tu devenir un poisrrson dans la mer, te cacher dans les ténèbres comme la nuit, te réfugier dans le ciel comme une étoile, arracher du monde le soleil brillant, mon père ti-œra vengeance de toi, quand il verra qu’une brique est devenue ma (touche.
 >
-> Un de ces grands, un de l3lt ces fiers guerriers attestera à Rustem que Sohrab a été tué et jeté par terre comme une chose vile, pendant qu’il était à la recherche de son père.»
+> Un de ces grands, un de l3lt ces fiers guerriers attestera à Rustem que Sohrab a été tué et jeté par terre comme une chose vile, pendant qu’il était à la recherche de son père. »
 
 Rustem l’écouta, sa tête se troubla, le monde devint confus devant ses yeux, son corps faiblit, la force et la vigueur lui manquèrent, il tomba et la raison l’abandonna.
 
@@ -58,7 +58,7 @@ Lorsqu’il eut repris ses sens, il demanda à Sohrab avec des cris de douleur e
 >
 > Puisse son nom disparaître d’entre les noms des grands !
 >
-> Car je suis ce Rustem ; que mon nom périsse et que Zal fils de Sam s’asseye pour pleurer ma mort !»
+> Car je suis ce Rustem ; que mon nom périsse et que Zal fils de Sam s’asseye pour pleurer ma mort ! »
 
 Il jetait des cris, son sang bouillonnait, il s’arrachait les cheveux et se lamentait.
 
@@ -76,11 +76,11 @@ Son cœur se brisait à l’idée de mon départ ; elle m’attacha un onyx au b
 
 > C’est un souvenir de ton père ; garde-le et pensesy quand le temps de t’en servir sera venu.
 >
-> Mais je n’ai pu m’en servir que trop tard, car le combat a eu lieu et le fils périt devant les yeux de son père.»
+> Mais je n’ai pu m’en servir que trop tard, car le combat a eu lieu et le fils périt devant les yeux de son père. »
 
 Rustem ouvrit l’armure et vit l’onyx ; il déchira sur son corps tous ses vêtements et s’écria :
 
-> Ô toi que j’ai tué de ma main, toiqui es glorieux en tout pays et chez tous les peuples !»
+> Ô toi que j’ai tué de ma main, toiqui es glorieux en tout pays et chez tous les peuples ! »
 
 Il poussa des cris, s’arrache les cheveux, se couvrit la tête de poussière et inonda ses joues de larmes.
 
@@ -90,7 +90,7 @@ Sohrab lui dit :
 >
 > À quoi te servirait-il de te tuer ?
 >
-> La chose est faite et devait se faire.»
+> La chose est faite et devait se faire. »
 
 Lorsque le ciel brillant eut quitté la voûte du ciel sans que Rustem fût revenu du désert à son camp, vingt guerriers prudents partirent pour voir ce qui se passait sur le champ de bataille.
 
@@ -136,7 +136,7 @@ Il faudrait alors, en masse, frapper un grand coup et ne jamais plus reparaître
 > Mon sort était écrit au-des-
 sus de ma tête et je devais mourir de la main de mon père.
 >
-> Je suis venu comme la foudre, je m’en vais comme le vent ; peut-être que je te retrouverai heureux dans le ciel.»
+> Je suis venu comme la foudre, je m’en vais comme le vent ; peut-être que je te retrouverai heureux dans le ciel. »
 
 L’excès de la douleur arrêta la respiration de Rustem ; son cœur était en feu, ses yeux en larmes ; il s’assit sur Raksch rapide comme la foudre, le cœur plein de sang, les lèvres pleines de soupirs.
 
@@ -153,7 +153,7 @@ Il dit aux grands :
 
 > On dirait que je n’ai aujourd’hui ni cœur ni corps.
 >
-> Il ne faut pas qu’aucun de vous aille combattre les Touraniens, car le mal que j’ai fait aujourd’hui est assez grand.»
+> Il ne faut pas qu’aucun de vous aille combattre les Touraniens, car le mal que j’ai fait aujourd’hui est assez grand. »
 
 Zewareh s’approcha de Rustem, ses vêtements pendaient en lambeaux sur son corps, sa poitrine était déchirée.
 
@@ -165,7 +165,7 @@ Ce que lui avait dit le fils qu’il avait frappé, en ajoutant :
 >
 > Moi vieillard j’ai tué mon enfant ; j’ai détruit, tronc et racine, cet enfant illustre.
 >
-> J’ai déchiré la poitrine de mon enfant et le ciel le pleurera éternellement.»
+> J’ai déchiré la poitrine de mon enfant et le ciel le pleurera éternellement. »
 
 Puis, il envoya à Houman ce message :
 
@@ -174,11 +174,11 @@ Puis, il envoya à Houman ce message :
 > Tu es maintenant le chef de cette armée, aie soin de sa sûreté et ne t’endors pas.
 >
 > Quant à moi, je ne veux pas te combattre, mais dorénavant je ne veux plus te parler ; car tu as caché à Sohrab la vérité, parce que
-’ tu as une mauvaise nature ; tu as brûlé avec du feu mon âme et mes yeux.»
+’ tu as une mauvaise nature ; tu as brûlé avec du feu mon âme et mes yeux. »
 
 Le Pehlewan dit alors à son frère :
 
-> Ô guerrier illustre à l’âme brillantel accompagne Houman jusqu’au bord du fleuve (Oxus) et ne force personne à se hâter.»
+> Ô guerrier illustre à l’âme brillantel accompagne Houman jusqu’au bord du fleuve (Oxus) et ne force personne à se hâter. »
 
 Zewareh partit sur-le-champ et porta à Houman les paroles du Pehlewan.
 
@@ -188,7 +188,7 @@ Houman le brave, qui avait montré à Sohrab l’art de la guerre, lui répondit
 >
 > Sohrab lui avait demandé à quels signes il pourrait reconnaître son père, mais il l’a trompé et a tenu son esprit dans l’ignorance.
 >
-> C’est par son crime que ce malheur nous est arrivé, il faudrait lui trancher la tête.»
+> C’est par son crime que ce malheur nous est arrivé, il faudrait lui trancher la tête. »
 
 Zewareh retourna auprès de lluslem et lui parla de Houman, de son armée et de ce qu’avait fait le méchant, le malveillant Hedjir, qui était la cause de la mort de Sohrab.
 
@@ -214,4 +214,4 @@ Bus,-tem saisit un poignard pour séparer de son corps sa vile tête ; les grand
 >
 > Chacun n’a-t-il pas à pleurer sur lui-même ?
 >
-> Que le chemin que doitfaire la Mort en nous poursuivant soit long ou court, nous sommes perdus aussitôt qu’elle nous rejoint sur la route.»
+> Que le chemin que doitfaire la Mort en nous poursuivant soit long ou court, nous sommes perdus aussitôt qu’elle nous rejoint sur la route. »
