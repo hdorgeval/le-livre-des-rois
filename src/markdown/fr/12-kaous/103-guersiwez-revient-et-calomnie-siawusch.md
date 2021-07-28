@@ -84,7 +84,7 @@ Chaque fois qu’un étranger entre dans ta famille, il apprend le secret de ta 
 
 > Un orage qui vient de ta maison même ne peut que te faire éprouver toute sorte de soucis et de peines, il détruira ta famille et ta gloire, il dispersera tes trésors.
 >
-> Ne sais-tu donc pas que quiconque élève un léopard ne peut s’attendre qu’à de la haine et à des combats?»
+> Ne sais-tu donc pas que quiconque élève un léopard ne peut s’attendre qu’à de la haine et à des combats ? »
 
 Afrasiab réfléchit sur ces paroles et tout ce que Guersiwez avait dit lui parut vrai ; il se repentit de ce qu’il avait voulu et de ce qu’il avait fait, il sentit que tous ses plans étaient dérangés.
 
