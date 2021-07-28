@@ -69,4 +69,4 @@ Ensuite, il écrivit une lettre à son père sur le sort de Warazad qui avait é
 
 > J’ai ouvert la porte de la vengeance et de la guerre, j’ai enlevé Warrazad de la selle de peau de léopard, je lui ai tran-3 : .
 >
-> h ché la tête pour venger Siawusch, j’ai déVasté par le feu son royaume. »
+> ché la tête pour venger Siawusch, j’ai déVasté par le feu son royaume. »
