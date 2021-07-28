@@ -36,11 +36,11 @@ Il lui dit :
 >
 > J’envoie Guiv pour te porter ce message, qui contient les ordres de l’assemblée des grands ; il ira te trouver, ô héros !
 >
-> Ne rejette pas ses avis.»
+> Ne rejette pas ses avis. »
 
 Guiv quitta son père, la tête remplie de paroles dures ; il se rendit auprès du Sipehbed Thous et lui dit :
 
-> Ta conduite est insensée.»
+> Ta conduite est insensée. »
 
 Thous l’écouta et lui répondit :
 
@@ -58,7 +58,7 @@ Thous l’écouta et lui répondit :
 >
 > Les fatigues que tu as supportées sont perdues, car Khosrou est jeune et vain ; tandis qu’un homme qui veut être roi de la terre doit être vaillant, de naissance pure, majestueux et croyant.
 >
-> Feribourz, le fils de Kaous, est plus digne du trône et du diadème que Khosrou ; d’aucun côté il n’est parent de nos ennemis ; il a de la dignité et de la bravoure, il est juste et clément.»
+> Feribourz, le fils de Kaous, est plus digne du trône et du diadème que Khosrou ; d’aucun côté il n’est parent de nos ennemis ; il a de la dignité et de la bravoure, il est juste et clément. »
 
 Guiv se leva en fureur, car il n’avait point de confiance dans la sagesse et dans la foi de Thous ; il lui répondit :
 
@@ -70,8 +70,8 @@ Guiv se leva en fureur, car il n’avait point de confiance dans la sagesse et d
 >
 > Dieu ne
 >
-> un mon s. â3l donne le trône des rois qu’à un homme digne du pouvoir, fort, prudent et sage.»
+> un mon s. â3l donne le trône des rois qu’à un homme digne du pouvoir, fort, prudent et sage. »
 
 Après avoir prononcé ces paroles dures, Guiv tourna vivement le dos à Thous, s’en retourna au-près de Gouderz fils de Keschwad et lui dit :
 
-> Thous n’a ni dignité, ni sens ; tu dirais qu’il a des yeux et qu’il ne voit pas : c’est Feribourz qu’il choisit pour roi et pourtant il n’y a pas dans le palais une peinture belle comme Khosrou ; il n’y a pas de roi comme lui quand il est assis sur la selle d’or ; jamais il n’y a’eu dans l’Iran un cavalier comme lui, ni sur le trône un prince paré de colliers et de boucles d’oreilles beau comme lui.»
+> Thous n’a ni dignité, ni sens ; tu dirais qu’il a des yeux et qu’il ne voit pas : c’est Feribourz qu’il choisit pour roi et pourtant il n’y a pas dans le palais une peinture belle comme Khosrou ; il n’y a pas de roi comme lui quand il est assis sur la selle d’or ; jamais il n’y a’eu dans l’Iran un cavalier comme lui, ni sur le trône un prince paré de colliers et de boucles d’oreilles beau comme lui. »
