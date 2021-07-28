@@ -24,7 +24,7 @@ Son cœur
 
 > Ô roi sage et illustre !
 >
-> Si tu ne me refuses pas une cuirasse, un cheval, un casque et une épée, je veux aujourd’hui attaquer Rustem, je veux couvrir son nom de honte ; je t’apporterai sa tête, sa massue et son épée qui distribue les royaumes, je t’amènerai son cheval Raksch.»
+> Si tu ne me refuses pas une cuirasse, un cheval, un casque et une épée, je veux aujourd’hui attaquer Rustem, je veux couvrir son nom de honte ; je t’apporterai sa tête, sa massue et son épée qui distribue les royaumes, je t’amènerai son cheval Raksch. »
 
 L’âme d’Afrasiab fut réjouie de ces paroles, il éleva la pointe de sa lance au-dessus du soleil et répondit :
 
@@ -32,7 +32,7 @@ L’âme d’Afrasiab fut réjouie de ces paroles, il éleva la pointe de sa lan
 >
 > Puisse cet éléphant ne pas te vaincre !
 >
-> Si tu réussis à t’emparer de Rustem, tu délivreras le monde d’une grande tyrannie ; ton nom et ton sceau, ton épée et ta massue seront tout-puissants dans le Touran ; tu élèveras ma tête jusqu’au ciel qui tourne et je te donnerai ma fille et mon diadème ; deux tiers de l’Iran et du Touran seront à toi ; les joyaux, les trésors et les villes de ces pays t’appartiendront.»
+> Si tu réussis à t’emparer de Rustem, tu délivreras le monde d’une grande tyrannie ; ton nom et ton sceau, ton épée et ta massue seront tout-puissants dans le Touran ; tu élèveras ma tête jusqu’au ciel qui tourne et je te donnerai ma fille et mon diadème ; deux tiers de l’Iran et du Touran seront à toi ; les joyaux, les trésors et les villes de ces pays t’appartiendront. »
 
 Piran fut affligé de ces discours.
 
@@ -44,7 +44,7 @@ Il s’approcha du roi sur qui veillait la fortune et lui dit :
 >
 > A mon avis, il ne peut qu’y perdre sa renommée ; il tranchera le cours de la destinée qui l’attend ; cette entreprise couvrira le roi de honte et l’armée n’aura plus le courage de combattre.
 >
-> Tu sais avec combien de tendresse un frère aîné veille sur un frère plus jeune que lui.»
+> Tu sais avec combien de tendresse un frère aîné veille sur un frère plus jeune que lui. »
 
 Pilsem répondit à Piran :
 
@@ -58,7 +58,7 @@ Pilsem répondit à Piran :
 
 > Où est Rustem, que l’on dit être un dragon au jour de la bataille ?
 >
-> Dites-lui que je le cherche pour qu’il vienne me combattre, car j’ai envie de me mesurer avec lui.»
+> Dites-lui que je le cherche pour qu’il vienne me combattre, car j’ai envie de me mesurer avec lui. »
 
 Quand Guiv entendit ces paroles, il bondit et se hâtant de tirer l’épée du fourreau, il s’écria :
 
@@ -76,17 +76,17 @@ Pilsem et les deux Iraniens se poursuivirent sur la plaine comme des lions furie
 
 Il se dit :
 
-> Il n’y a parmi les Turcs que Pilsem qui ait assez de force et de vigueur pour se défendre de la sorte.»
+> Il n’y a parmi les Turcs que Pilsem qui ait assez de force et de vigueur pour se défendre de la sorte. »
 
 Il avait d’ailleurs entendu, pendant qu’il traversait le monde en tous sens, les prédictions heureuses et malheureuses qui se rapportaient au pays de Touran et que lui avaient faites de vieux Mobeds, des astrologues et des sages et il se dit :
 
 > Si Pilsem peut échapper aux dangers qui le menacent et acquérir de l’expérience, il est destiné à devenir un héros tel, que personne, ni dans l’Iran, ni dans le Touran, ni dans le monde entier, ne lui serait comparable.
 >
-> Mais je pense que son heure est venue, puisquïl s’élance avec cette fureur pour me combattre.»
+> Mais je pense que son heure est venue, puisquïl s’élance avec cette fureur pour me combattre. »
 
 Il dit à son armée :
 
-> Qu’aucun de vous ne porte le pied en avant pour quitter sa place ; je vais mettre Pilsem à l’épreuve ; je vais voir qui de nous deux est le plus fort.»
+> Qu’aucun de vous ne porte le pied en avant pour quitter sa place ; je vais mettre Pilsem à l’épreuve ; je vais voir qui de nous deux est le plus fort. »
 
 Il saisit une forte lance, se raffermit sur la selle, mit son casque, appuya sur les étriers, mania légèrement les rênes et éleva la pointe brillante de sa lance à la hauteur de son œil.
 
@@ -102,11 +102,11 @@ Il était en colère et ses lèvres se couvraient d’écume ; il courut du cent
 >
 > Hélas !
 >
-> Faut-il qu’un Pehlewan comme toi périsse !»
+> Faut-il qu’un Pehlewan comme toi périsse ! »
 
 Il dit et lança son cheval ; il courut au combat comme la sphère du ciel qui tourne ; il frappa Pilsem à la ceinture et l’enleva de selle comme une balle que frappe la raquette ; ensuite il s’élança jusqu’au centre de l’armée des Touraniens et le jeta au milieu d’eux comme une chose vile, disant :
 
-> Enveloppez cet homme dans du brocart jaune, car ma massue l’a rendu bien.»
+> Enveloppez cet homme dans du brocart jaune, car ma massue l’a rendu bien. »
 
 Puis, il s’éloigne du lieu du combat et retourna en galopant au centre de son armée.
 
