@@ -33,7 +33,7 @@ Thous dit :
 >
 > Quand un prince est las du trône et de la couronne, il faut que l’empire, le pouvoir, le diadème et les trésors des grands reviennent à son fils ; et quand il a un fils, pourquoi un petit-fils porterait-il le diadème, pourquoi s’asseyerait-il sur le trône ?
 >
-> Feribourz a la majesté et la grandeur des Keïanides, il est prêt pour le combat comme un lion furieux.»
+> Feribourz a la majesté et la grandeur des Keïanides, il est prêt pour le combat comme un lion furieux. »
 
 Gouderz lui répondit :
 
@@ -59,7 +59,7 @@ Gouderz lui répondit :
 >
 > Faudrait-il donc te permettre de jeter la désunion parmi les Keïanides et de te livrer à ta présomption ?
 >
-> Le roi des rois sait ce qu’il veut sur ce point, il donnera le trône à qui il lui plaira, car il est le maître.»
+> Le roi des rois sait ce qu’il veut sur ce point, il donnera le trône à qui il lui plaira, car il est le maître. »
 
 G Thous lui dit :
 
@@ -69,17 +69,17 @@ G Thous lui dit :
 >
 > Pourquoi disputer ?
 >
-> Le roi des rois sait qui est digne du trône.»
+> Le roi des rois sait qui est digne du trône. »
 
 Gouderz répondit :
 
-> Ne parle pas ainsi, car je ne te reconnais pas une gloire assez grande pour cela.»
+> Ne parle pas ainsi, car je ne te reconnais pas une gloire assez grande pour cela. »
 
 Ensuite, il se tourna vers Kaous, disant :
 
 > Ô roi plein d’expérience, ne rejette pas la coutume antique et la droite voie.
 >
-> Appelle les deux nobles fils ; ils méritent tous deux le trône, décide lequel en est le plus digne par son pouvoir et par la grâce de Dieu, remets-lui la couronne et réjouis-toi de voir que c’est toujours un de tes enfants qui sera roi.»
+> Appelle les deux nobles fils ; ils méritent tous deux le trône, décide lequel en est le plus digne par son pouvoir et par la grâce de Dieu, remets-lui la couronne et réjouis-toi de voir que c’est toujours un de tes enfants qui sera roi. »
 
 Kaous répondit :
 
@@ -91,7 +91,7 @@ Kaous répondit :
 >
 > Il faut que mes deux fils partent, accompagnés chacun d’un corps d’armée et qu’ils se rendent à Ardebil ; car Ahriman nous livre tous les ans des combats sur la frontière où est situé le château de Bahman ; il y met en détresse les adorateurs de Dieu et aucun Mobed n’ose y demeurer.
 >
-> Je donnerai mes trésors et mon trône à celui de mes enfants qui, l’épée en main, prendra ce château.»
+> Je donnerai mes trésors et mon trône à celui de mes enfants qui, l’épée en main, prendra ce château. »
 
 Gouderz et Thous écoutèrent la décision du prudent roi ; ils en furent tous deux contents et personne n’eut rien de plus sage à proposer.
 
