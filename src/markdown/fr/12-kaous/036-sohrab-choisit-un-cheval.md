@@ -20,7 +20,7 @@ Ensuite le vaillant Sohrab dit à sa mère :
 
 > Maintenant tu vas voir ma prouesse ; il me faut un bon coursier, dont le sabot d’acier brise le rocher, fort comme un éléphant, rapide comme un oiseau dans l’air, comme un poisson dans la mer et comme une biche sur la terre ; qui puisse porter ma massue et ma hache d’armes, ma poitrine et mes bras de Pehlewan.
 >
-> Il ne me convient pas d’aller au combat à pied, car je vais à la rencontre de mes ennemis.»
+> Il ne me convient pas d’aller au combat à pied, car je vais à la rencontre de mes ennemis. »
 
 La mère écouta les paroles de son fils et levant la tête jusqu’au soleil, elle ordonna au gardien des chevaux d’amener sans délai toutes les juments, pour que Sohrab choisît un cheval sur lequel il pût s’asseoir en allant à la guerre.
 
@@ -42,7 +42,7 @@ dessus d’une vallée et il court dans la plaine comme un oiseau qui vole.
 >
 > areau-poisson qui soutient la terre ; son bond est rapide comme l’éclair ; sa stature est haute comme une montagne.
 >
-> Il vole sur la montagne comme un corbeau : il nage dans la mer comme une araignée d’eau ; il court’dans la plaine comme une flèche partie de l’arc, quand il suit la trace de ses ennemis.»
+> Il vole sur la montagne comme un corbeau : il nage dans la mer comme une araignée d’eau ; il court’dans la plaine comme une flèche partie de l’arc, quand il suit la trace de ses ennemis. »
 
 Les paroles de cet homme réjouirent Sohrab ; il sourit et ses joues brillèrent de joie.
 
@@ -52,7 +52,7 @@ Alors le héros, fils d’un brave, caressa le cheval, le flatta de la main, le 
 
 Monté sur ce cheval, le glorieux héros ressemblait au mont Bisoutoun ; il prit dans sa main une lance haute comme une colonne et s’écria :
 
-> Maintenant que j’ai un pareil destrier, je chevaucherai comme il convient ; je rendrai noir le jour devant Kaous.»
+> Maintenant que j’ai un pareil destrier, je chevaucherai comme il convient ; je rendrai noir le jour devant Kaous. »
 
 Il dit et rentrant au palais, il se prépara à la guerre contre les Iraniens ; et de tous côtés s’assemble autour de lui une armée, car il était de noble origine et prêt pour le combat.
 
