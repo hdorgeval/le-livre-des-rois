@@ -54,7 +54,7 @@ Piran lui dit :
 >
 > Mais tranquillise-moi d’abord par un serment ; jure à la manière des rois.
 >
-> Feridoun quand il voulait attester la vérité, jurait par sa gloire, sa fortune et sa couronne ; Tour, le maître du trône et de la couronne, jurait par Dieu le distributeur de la justice dans le monde et ton grand-père Zadschem jurait par le maître de Mars, de Saturne et du soleil.»
+> Feridoun quand il voulait attester la vérité, jurait par sa gloire, sa fortune et sa couronne ; Tour, le maître du trône et de la couronne, jurait par Dieu le distributeur de la justice dans le monde et ton grand-père Zadschem jurait par le maître de Mars, de Saturne et du soleil. »
 
 Ces paroles de Piran calmèrent l’esprit irascible d’Afrasiab ; il fit un grand serment comme en font les rois, en jurant par le jour brillant et la nuit sombre, par Dieu le créateur du monde, créateur de la terre, de l’espace et du temps, que jamais il ne ferait de mal à cet enfant, que jamais il ne se montrerait dur envers lui.
 
@@ -64,11 +64,11 @@ Piran baisa la terre et lui dit :
 >
 > Puisse l’intelligence te guider vers le bien !
 >
-> Puisse le monde et l’époque être la a poussière de tes pieds !»
+> Puisse le monde et l’époque être la a poussière de tes pieds ! »
 
 Il courut auprès de Keï Khosrou, sa joue était co-3M Iorée, son cœur était heureux ; il lui dit :
 
-> Chasse à présent la raison de ta tête ; s’il te parle guerre, réponds-lui noces ; aborde-le comme si tu lui étais étranger, ne laisse prononcer à ta langue que des paroles insensées, ne laisse apercevoir aucune trace de raison, afin que le jour d’aujourd’hui passe sans te porter malheur.»
+> Chasse à présent la raison de ta tête ; s’il te parle guerre, réponds-lui noces ; aborde-le comme si tu lui étais étranger, ne laisse prononcer à ta langue que des paroles insensées, ne laisse apercevoir aucune trace de raison, afin que le jour d’aujourd’hui passe sans te porter malheur. »
 
 Il lui mit alors sur la tête un casque royal et le ceignit d’une ceinture royale.
 
@@ -76,7 +76,7 @@ Le jeune héros à l’âme pure demanda d’une voix douce un cheval rapide et 
 
 On leur entendit dire : Faites place !
 
-Voici le jeune héros qui demande une couronne !»
+Voici le jeune héros qui demande une couronne ! »
 
 Il entra chez le roi et le Sipehdar Piran le présenta.
 
@@ -98,19 +98,19 @@ Il lui dit :
 
 Khosrou répondit :
 
-> Il n’y a pas de gibier et je n’ai ni arc, ni flèches, ni cordes.»
+> Il n’y a pas de gibier et je n’ai ni arc, ni flèches, ni cordes. »
 
 Le roi l’interrogea alors sur les leçons qu’on lui donnait et sur la bonne ou mauvaise fortune qu’il éprouvait.
 
 Khosrou répondit :
 
-> Quand il paraît un léopard, le cœur de l’homme courageux se déchire de peur.»
+> Quand il paraît un léopard, le cœur de l’homme courageux se déchire de peur. »
 
 Afrasiab lui adressa une troisième question sur l’Iran, sur la ville de Gang, sur son père et sa mère.
 
 Khosrou répondit :
 
-> Un chien de caravane ne peut se rendre maître du lion féroce.»
+> Un chien de caravane ne peut se rendre maître du lion féroce. »
 
 Afrasiab lui demanda :
 
@@ -118,7 +118,7 @@ Afrasiab lui demanda :
 
 Khosrou répondit :
 
-> Un cavalier a passé la ce nuit d’avanthier auprès de moi dans la montagne et dans le désert.»
+> Un cavalier a passé la ce nuit d’avanthier auprès de moi dans la montagne et dans le désert. »
 
 Le roi sourit et s’épanouit. comme une rose et lui dit d’une voix douce :
 
@@ -128,7 +128,7 @@ Le roi sourit et s’épanouit. comme une rose et lui dit d’une voix douce :
 
 L’enfant répondit :
 
-> Il n’y a plus de crème dans le lait ; je voudrais chasser du ce désert tous les pâtres.»
+> Il n’y a plus de crème dans le lait ; je voudrais chasser du ce désert tous les pâtres. »
 
 Le roi rit de ces paroles et se tourna vers le Pehlewan de l’armée, disant :
 
@@ -140,4 +140,4 @@ Le roi rit de ces paroles et se tourna vers le Pehlewan de l’armée, disant :
 >
 > Pars, rends-le gracieusement à sa mère et mets-le entre les mains d’un homme prudent ; envoie-le à Siawuschguird et éloigne de lui tout mauvais conseiller.
 >
-> Donne-lui ce qu’il faut dlor et d’argent, de chevaux, de serviteurs et tout le reste.»
+> Donne-lui ce qu’il faut dlor et d’argent, de chevaux, de serviteurs et tout le reste. »
