@@ -38,7 +38,7 @@ Rustem leur dit :
 >
 > Pour soulager ma douleur, je veux toucher de mes yeux et de mon front la place dure et desséchée où le vil Guerouia versé son sang ; et à moins que je n’aie les mains liées et une cangue au cou, à moins que je ne sois jeté honteusement dans la poussière comme une brebis, les deux mains liées avec la corde du lacet. je ferai trembler le monde devant ma massue et mon épée tranchante, comme il tremblera au jour de la résurrection.
 >
-> Mes yeux ne verront dorénavant que la poussière des balailles et je renonce à la coupe des banquets.»
+> Mes yeux ne verront dorénavant que la poussière des balailles et je renonce à la coupe des banquets. »
 
 KE !
 
