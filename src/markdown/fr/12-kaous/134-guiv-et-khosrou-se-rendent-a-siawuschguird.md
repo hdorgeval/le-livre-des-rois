@@ -37,7 +37,7 @@ Il y a une prairie non loin d’ici, à côté de la route que suivent les caval
 
 Vasy demain matin avec Guiv et prends avec toi une selle et une bride noire.
 
-Tu verras une montagne qui s’élève jusqu’aux nues et h contre laquelle se heurtent les nuages.
+Tu verras une montagne qui s’élève jusqu’aux nues et contre laquelle se heurtent les nuages.
 
 Tu y monteras et tu trouveras une prairie semblable au gai paradis et traversée par up ruisseau d’eau courante dont l’aspect rajeunit l’âme.
 
