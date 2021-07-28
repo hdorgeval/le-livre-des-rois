@@ -33,13 +33,13 @@ Il fit venir Hedjir auprès de lui et lui dit :
 >
 > Alors je te donnerai des trésors dqmis longtemps accumulés ; je te ferai beaucoup de présents et des dons précieux.
 >
-> Mais si tu veux me tromper, tu porteras toujours ces chaînes et le cachot restera ta demeure.»
+> Mais si tu veux me tromper, tu porteras toujours ces chaînes et le cachot restera ta demeure. »
 
 Hedjir lui repondit : Sur tout ce que le roi me demandera au sujet de l’armée de l’Iran, je lui dirai tout ce que je sais ; car pourquoi lui mentirais-je ?
 
 Tu ne trouveras en moi que de la droiture et je n’ai pas l’intention de te tromper.
 
-La droiture est le meilleur guide dans le monde et aucune pensée n’est pire que celle de mentir.»
+La droiture est le meilleur guide dans le monde et aucune pensée n’est pire que celle de mentir. »
 
 Alors Sohrab reprit :
 
@@ -53,17 +53,17 @@ Alors Sohrab reprit :
 
 Hedjir lui répondit :
 
-> C’est le roi de l’Iran, devant la porte duquel on tient toujours des éléphants et des lions.»
+> C’est le roi de l’Iran, devant la porte duquel on tient toujours des éléphants et des lions. »
 
 Ensuite Sohrab lui dit :
 
 > Je vois sur la droite beaucoup de cavaliers, d’éléphants et de bagages ; on y a formé une enceinte noire, entourée de troupes rangées et de tentes innombrables ; derrière sont placés des éléphants et devant des chevaux de main.
 >
-> Sur le devant. aussi est planté un drapeau portant une figure d’éléphant et à côté se tiennent des cavaliers aux bottines d’or.»
+> Sur le devant. aussi est planté un drapeau portant une figure d’éléphant et à côté se tiennent des cavaliers aux bottines d’or. »
 
 Hedjir répondit :
 
-> C’est Thous fils de Newder, car son drapeau porte la figure d’un éléphant.»
+> C’est Thous fils de Newder, car son drapeau porte la figure d’un éléphant. »
 
 Sohrab demanda :
 
@@ -75,7 +75,7 @@ Sohrab demanda :
 >
 > Qui en est le maître ?
 >
-> Dis-moi son nom et ne provoque pas ta perte par un mensonge.»
+> Dis-moi son nom et ne provoque pas ta perte par un mensonge. »
 
 Hedjir répondit :
 
@@ -85,7 +85,7 @@ Hedjir répondit :
 >
 > des éléphants et à des lions.
 >
-> Ni le crocodile courageux, ni le tigre du désert, ni le léopard de la montagne n’osent lutter avec lui.»
+> Ni le crocodile courageux, ni le tigre du désert, ni le léopard de la montagne n’osent lutter avec lui. »
 
 À qui, demanda Sohrab, appartient cette enceinte verte gardée par une troupe nombreuse et dont le milieu est occupé par un trône brillant devant lequel est planté le drapeau de Kaweh’ ?
 
@@ -99,7 +99,7 @@ Beaucoup d’éléphants caparaçonnés sont rangésldevant le héros assis, qui
 
 Il n’y a dans l’Iran aucun homme de sa stature et je ne vois pas de cheval comparable à celui-ci.
 
-Regarde son enseigne, elle porte l’image d’un dragon et sur la pointe est figuré un lion à tête d’or.»
+Regarde son enseigne, elle porte l’image d’un dragon et sur la pointe est figuré un lion à tête d’or. »
 
 Hedjir dit en lui-même :
 
@@ -128,7 +128,7 @@ part le son des clairons ?
 >
 > Au devant de l’enceinte est planté un drapeau avec une tête de loup et sa pointe dorée s’élève jusqu’aux nues.
 >
-> Au milieu est placé un trône devant lequel des ; esclaves forment une haie.»
+> Au milieu est placé un trône devant lequel des ; esclaves forment une haie. »
 
 Hedjir répondit :
 
@@ -136,7 +136,7 @@ Hedjir répondit :
 >
 > C’est l’aîné et le meilleur des fils de Gouderz et les deux tiers de l’armée des Iraniens lui obéissent.
 >
-> Ce brave est le gendre de Rustem et le pays d’Iran contient peu d’hommes comme lui.»
+> Ce brave est le gendre de Rustem et le pays d’Iran contient peu d’hommes comme lui. »
 
 Sohrab lui dit :
 
@@ -146,23 +146,23 @@ Sohrab lui dit :
 >
 > Leur chef est assis sur un trône dont les degrés sont d’ivoire et le siège de bois de tek.
 >
-> L’enceinte est tendue de drap d’or et gardée par des troupes de serviteurs.»
+> L’enceinte est tendue de drap d’or et gardée par des troupes de serviteurs. »
 
 Hedjir répondit :
 
-> Ce chef s’appelle Feribourz, c’est le fils du roi et le diadème des braves.»
+> Ce chef s’appelle Feribourz, c’est le fils du roi et le diadème des braves. »
 
 Sohrab répliqua :
 
-> Cette magnificence est à sa place, puisqu’il est fils de roi et possesseur d’un diadème.»
+> Cette magnificence est à sa place, puisqu’il est fils de roi et possesseur d’un diadème. »
 
 À qui, reprit Sohrab, appartient cette enceinte jaune devant laquelle est planté un drapeau portant la figure de la lune et entouré d’étendards jaunes, rouges, violets et de toute couleur ?
 
-Derrière l’enceinte on voit un autre drapeau avec une figure de sanglier et dont la pointe fort haute est surmontée d’une lune d’argent.»
+Derrière l’enceinte on voit un autre drapeau avec une figure de sanglier et dont la pointe fort haute est surmontée d’une lune d’argent. »
 
 Hedjir répondit :
 
-> Son nom est Gourazeh, guerrier qui ne tourne pas bride dans le combat des lions ; il est prudent, issu de la famille de Guiv et la peine et le danger ne le font pas murmurer.»
+> Son nom est Gourazeh, guerrier qui ne tourne pas bride dans le combat des lions ; il est prudent, issu de la famille de Guiv et la peine et le danger ne le font pas murmurer. »
 
 Sohrab cherchait les traces de son père, mais Hedjir ne les lui indiquait pas et tenait sur ce point la vérité cachée.
 
@@ -184,7 +184,7 @@ Mais le Sipehbed Hedjir lui répondit :
 
 > Pourquoi te cacherais-je la vérité ?
 >
-> Si je ne t’ai pas dit le nom de ce Chinois, c’est que je ne le connais pas.»
+> Si je ne t’ai pas dit le nom de ce Chinois, c’est que je ne le connais pas. »
 
 Sohrab reprit :
 
@@ -192,11 +192,11 @@ Sohrab reprit :
 >
 > Tu m’as assuré qu’il est le chef de l’armée et le gardien de toutes les frontières et de toutes les provinces.
 >
-> Or dans une campagne où Kaous lui-même conduit ses troupes, où il place son trône et son diadème sur le dos des éléphants de guerre, le Pehlewan du monde doit marcher devant lui quand la voix du tonnerre gronde sur le champ de bataille.»
+> Or dans une campagne où Kaous lui-même conduit ses troupes, où il place son trône et son diadème sur le dos des éléphants de guerre, le Pehlewan du monde doit marcher devant lui quand la voix du tonnerre gronde sur le champ de bataille. »
 
 Hedjir lui répondit :
 
-> Il faut que le héros, le vainqueur des lions, soit allé dans le Zaboulistan, car c’est le temps des fêtes dans les jardins de roses.»
+> Il faut que le héros, le vainqueur des lions, soit allé dans le Zaboulistan, car c’est le temps des fêtes dans les jardins de roses. »
 
 Sohrab lui dit :
 
@@ -218,7 +218,7 @@ Choisis des deux maintenant.
 
 Ne sais-tu pas ce que le Mobed a dit au roi quand il lui a révélé les secrets de la sagesse :
 
-> Une parole, avant d’être prononcée, est comme une perle intacte et encore attachée à sa coquille,-mais quand on la dégage de ses chaînes et de ses liens. elle devient un joyau brillant et sans prix.»
+> Une parole, avant d’être prononcée, est comme une perle intacte et encore attachée à sa coquille,-mais quand on la dégage de ses chaînes et de ses liens. elle devient un joyau brillant et sans prix. »
 
 Hedjir lui répondit :
 
@@ -242,7 +242,7 @@ Sohrab, fils d’un noble père, s’écria :
 >
 > Tant que la mer se balance tranquillement, tu as peut du feu ; mais quand tout à coup elle déborde, il ne reste plus un souffle au feu dévorant.
 >
-> De même llohscurité cache sa tête quand le soleil tire l’épée ardente.»
+> De même llohscurité cache sa tête quand le soleil tire l’épée ardente. »
 
 Hedjir, dans son inexpérience, dit en lui-même :
 
@@ -262,7 +262,7 @@ Le Mobed a dit :
 >
 > Puisqu’il reste encore au pays d’Iran Gouderz et ses soixante et dix fils illustres, je peux lui manquer.
 >
-> Le Mobed à la foi pure m’a enseigné qu’il est naturel que le faisan ne flaire pas d’autres herbes, quand il y a dans la prairie des racines de cyprès qui poussent des tendrons.»
+> Le Mobed à la foi pure m’a enseigné qu’il est naturel que le faisan ne flaire pas d’autres herbes, quand il y a dans la prairie des racines de cyprès qui poussent des tendrons. »
 
 Il dit donc à Sohrab :
 
@@ -274,4 +274,4 @@ Il dit donc à Sohrab :
 >
 > Tu voudrais tuer Rustem au corps d’éléphant, mais il ne tombera pas facilement en ton pouvoir.
 >
-> Tu ferais mieux de ne pas chercher à le combattre, car il t’anéantirait sur le champ de bataille.»
+> Tu ferais mieux de ne pas chercher à le combattre, car il t’anéantirait sur le champ de bataille. »
