@@ -29,13 +29,13 @@ Kaous écouta ces paroles et en fut courroucé ; il était confondu et n’osait
 > Je vais envoyer un dromadaire à Balkh pour y porter une lettre et des paroles amères ; et si Siawusch veut me désobéir et se soustraire à ses devoirs envers moi, il cédera le commandement au Sipehbed Thous, qui le renverra de l’armée lui et ses amis et je lui ferai voir ce qu’il peut gagner s’il s’aviæ
 de faire le maître.
 >
-> Quant à toi, je cesse de t’appeler mon ami, je ne veux plus que tu combattes pour mon.»
+> Quant à toi, je cesse de t’appeler mon ami, je ne veux plus que tu combattes pour mon. »
 
 Rustem se mit en colère et dit à haute voix :
 
 > Le firmament ne peut cacher ma tête.
 >
-> Tu tiens Thous le brave pour un Rustem : sache qu’il n’y a pas beaucoup de Rustems dans le monde.»
+> Tu tiens Thous le brave pour un Rustem : sache qu’il n’y a pas beaucoup de Rustems dans le monde. »
 
 Il dit et quitta le roi, l’âme remplie de courroux et le visage pâle de colère ; il partit avec son escorte et marcha en toute hâte vers le Seistan.
 
