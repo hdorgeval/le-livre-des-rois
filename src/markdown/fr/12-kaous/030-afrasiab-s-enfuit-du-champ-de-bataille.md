@@ -22,7 +22,7 @@ Rustem lança Raksch à la poursuite d’Afrasiab, en lui disant :
 
 > Mon ami !
 >
-> Ne te lasse pas un jour de combat ; car j’espère, par ton aide, priver ce roi de la vie et rendre couleur de corail les champs et les déserts.»
+> Ne te lasse pas un jour de combat ; car j’espère, par ton aide, priver ce roi de la vie et rendre couleur de corail les champs et les déserts. »
 
 Raksch, dont la nature était le feu, devint
 ’ si ardent que tu aurais dit que des ailes sortaient ’
