@@ -35,7 +35,7 @@ Le messager se rendit auprès de Siawusch, baisa la terre aussitôt qu’il l’
 Siawusch en ressentit une inquiétude intérieure et resta longtemps assis, plongé dans ses réflexions et se disant :
 
 > Il y a un secret lin-dessous.
-Île ne sais ce que Guersiwez, qui prétend être mon ami, aura dit de moi à Afrasiab.»
+Île ne sais ce que Guersiwez, qui prétend être mon ami, aura dit de moi à Afrasiab. »
 
 Lorsque Guersiwez parut devant le palais, Siawusch quitta la salle d’audience, s’avança à pied jusque dans la rue et adressa à Guersiwez des questions sur son voyage et sur la santé du roi, sur l’état de l’armée, sur le trône et la couronne.
 
@@ -55,7 +55,7 @@ N Lorsque le méchant Guersiwez entendit cette réponse du prudent roi, il tremb
 >
 > Mes paroles n’auront plus d’elïet et le roi verra que mes conseils étaient perfides.
 >
-> Il faut donc que je trouve un moyen de le détourner de ce voyage.»
+> Il faut donc que je trouve un moyen de le détourner de ce voyage. »
 
 Il demeura quelque temps dans le silence, les regards fixés sur Siawusch ; à la fin ses yeux versèrent un torrent de fiel, car c’était dans ses larmes qu’il cherchait son salut.
 
@@ -74,7 +74,7 @@ Siawusch le voyant pleurer comme un homme qui tremble de colère, lui dit d’un
 > Si tu as eu le malheur de tomber dans la disgrâce d’Afrasiab, si les paroles d’un calomniateur t’ont fait perdre la première place de l’empire, ra-
 conte-moi le secret de cette alliaire pour que je trouve un remède à tes douleurs.
 >
-> Je partirai pour tout aplanir, pour faire trembler le cœur de tes ennemis.»
+> Je partirai pour tout aplanir, pour faire trembler le cœur de tes ennemis. »
 
 Guersiwez lui répondit :
 
@@ -104,7 +104,7 @@ Guersiwez lui répondit :
 >
 > Tu sais que je suis ton ami, que dans le bonheur et dans le malheur je te suis sincèrement dévoué et il ne faut pas qu’un jour tu puisses croire que j’ai connu les inetentions injustes du roi sans t’en avertir.
 >
-> Réfléchis et cherche un moyen de salut et ne parle qu’avec douceur et avec mesure.»
+> Réfléchis et cherche un moyen de salut et ne parle qu’avec douceur et avec mesure. »
 
 Siawusch lui répondit :
 
@@ -122,7 +122,7 @@ r : éclaire les cieux.
 >
 > Ainsi reprends ta gaieté et ne laisse pas aller ton âme à de mauvais soupçons.
 >
-> Un homme qui ne veut pas suivre la voie du dragon ne s’écarte pas des ordres de Dieu.»
+> Un homme qui ne veut pas suivre la voie du dragon ne s’écarte pas des ordres de Dieu. »
 
 Le méchant Guersiwez lui répondit :
 
@@ -144,7 +144,7 @@ Le méchant Guersiwez lui répondit :
 >
 > Tous les soucis qui agitent mon cœur, toutes mes pensées et les ressources de toute espèce que je possède, je te les ai ce révélées, je les ai rendues claires comme la lumière du soleil.
 >
-> Tu as laissé ton père dans l’Iran, tu as fondé une ville dans le Touran, tu as livré ton n cœur aux paroles d’Al’rasiab, tu t’es plu à l’entourer de tes soins et pourtant tu n’as fait que planter de tes mains un arbre dont le fruit est du poison, dont les feuilles sont du venin.»
+> Tu as laissé ton père dans l’Iran, tu as fondé une ville dans le Touran, tu as livré ton n cœur aux paroles d’Al’rasiab, tu t’es plu à l’entourer de tes soins et pourtant tu n’as fait que planter de tes mains un arbre dont le fruit est du poison, dont les feuilles sont du venin. »
 
 Pendant que Guersiwez parlait ainsi, ses cils étaient mouillés de larmes, son cœur rempli de ruse, ses lèvres poussaient des soupirs.
 
@@ -158,7 +158,7 @@ Il répondit :
 >
 > Ma main a été prodigue des trésors du roi, mais mon cœur a souffert de ses soulirances.
 >
-> Quel que soit le malheur qui puisse m’en arriver, je ne désobéirai pas à ses ordres et à sa volonté, je vais partir avec toi sans cortège et je verrai d’où vient cette malveillance du roi.»
+> Quel que soit le malheur qui puisse m’en arriver, je ne désobéirai pas à ses ordres et à sa volonté, je vais partir avec toi sans cortège et je verrai d’où vient cette malveillance du roi. »
 
 Guersiwez lui dit :
 
@@ -180,7 +180,7 @@ Guersiwez lui dit :
 >
 > Tu n’es ici éloigné d’aucun pays, tu peux aller chez tous les grands et chez tous les rois ; il n’y a que cent vingt farsangs d’ici jusqu’à la Chine et trois cent quarante jusqu’à l’Iran : du côté de la Chine tu n’as que des amis et tous les grands te veulent du bien ; dans l’Iran est ton père qui désire ton retour,.et une armée qui est l’esclave de ton sceau et de tes ordres.
 >
-> Envoie secrètement des lettres de ces deux côtés, tiensloi armé et n’ajourne aucune mesure.»
+> Envoie secrètement des lettres de ces deux côtés, tiensloi armé et n’ajourne aucune mesure. »
 
 Siawusch se laissa convaincre par ces discours et c’est ainsi que son esprit vigilant fut endormi.
 
@@ -188,4 +188,4 @@ Il répondit :
 
 > Je ne dévierai eu rien de la voie que tes
 >
-> K si K A o u s. paroles et tes conseils m’indiquent, charge-toi de mes demandes auprès d’Afrasiab, maintiens la paix entre nous et sers-moi de guide.»
+> K si K A o u s. paroles et tes conseils m’indiquent, charge-toi de mes demandes auprès d’Afrasiab, maintiens la paix entre nous et sers-moi de guide. »
