@@ -30,7 +30,7 @@ Guiv dit au roi :
 >
 > Ta mère t’a mis au monde parce que le monde avait besoin de toi, car le trône du roi des rois était abaissé ; et moi je ne fus mis au monde par ma mère que pour toi.
 >
-> N’hésite donc pas, car je ne doute pas qu’Afrasiab ne s’approche en toute hâte du bord du fleuve ; et s’il nousy trouve, il me suspendra vivant à un gibet en me couvrant d’opprebre et toi et Ferenguis il vous jettera dans le fleuve pour que les poissons vous dévorent, ou il vous fera fouler aux pieds des chevaux.»
+> N’hésite donc pas, car je ne doute pas qu’Afrasiab ne s’approche en toute hâte du bord du fleuve ; et s’il nousy trouve, il me suspendra vivant à un gibet en me couvrant d’opprebre et toi et Ferenguis il vous jettera dans le fleuve pour que les poissons vous dévorent, ou il vous fera fouler aux pieds des chevaux. »
 
 Keï Khosrou lui répondit :
 
@@ -38,11 +38,11 @@ Keï Khosrou lui répondit :
 >
 > Je mets 
 >
-> A mon espoir en Dieu le secourable.»
+> A mon espoir en Dieu le secourable. »
 
 Il descendit de son cheval rapide et se jeta le visage contre terre en gémissant et en disant :
 
-> Tu es mon soutien et mon asile, tu m’as guidé vers la justice, ce que j’éprouve de bonheur et de malheur vient de ta grâce, l’esprit et l’intelligence sont l’ombre de tes ailes.»
+> Tu es mon soutien et mon asile, tu m’as guidé vers la justice, ce que j’éprouve de bonheur et de malheur vient de ta grâce, l’esprit et l’intelligence sont l’ombre de tes ailes. »
 
 Il dit et remonta sur son cheval noir, le visage resplendissant c0mme l’étoile du matin.
 
@@ -74,7 +74,7 @@ Il avait honte des paroles grossières dont il s’était servi et il vit qu’i
 >
 > Quand le roi, qui possède assez de joyaux, t’a demandé ta barque, tu la lui as -refusée et maintenant il refuse tes présents.
 >
-> Le jour de la vengeance viendra et alors tes jeun seront donnés au vent.»
+> Le jour de la vengeance viendra et alors tes jeun seront donnés au vent. »
 
 ’
 Le batelier revint si épouvanté, qu’il désespérait de sa vie.
@@ -90,7 +90,7 @@ Celui-ci répondit :
 > Dans ce moment il est enflé par les pluies du printemps et jette de fortes vagues et si tu y entres, tu ne pourras plus lui échapper.
 >
 > Malgré cela, ces trois cavaliers l’ont passé : tu au-
-rais dit que l’air les portait dans ses bras, ou qu’ils étaient les fils de l’orage et envoyés par Dieu auprès des hommes.»
+rais dit que l’air les portait dans ses bras, ou qu’ils étaient les fils de l’orage et envoyés par Dieu auprès des hommes. »
 
 Afrasiab l’écouta ; sa joue pâlit et dans son angoisse il soupira, ensuite il lui dit :
 
@@ -98,7 +98,7 @@ Afrasiab l’écouta ; sa joue pâlit et dans son angoisse il soupira, ensuite i
 >
 > Partis ou s’ils se sont arrêtés pour dormir.
 >
-> Ne perds pas de temps, amène ta barque et pars, afin que nous puissions les atteindre.»
+> Ne perds pas de temps, amène ta barque et pars, afin que nous puissions les atteindre. »
 
 Houman lui dit :
 
@@ -112,7 +112,7 @@ Houman lui dit :
 >
 > Du bord de ce fleuve jusqu’à la Chine et au Madjin tout est à toi ; le soleil et la lune, Saturne et les Pléiades, te sont soumis.
 >
-> Occupe-toi du Touran et deton puissant trône ; tu n’as rien à craindre de l’Iran.»
+> Occupe-toi du Touran et deton puissant trône ; tu n’as rien à craindre de l’Iran. »
 
 Les Touraniens s’en retournè-
 rent tristes et le cœur gonflé de sang et un long temps se passa ainsi.
