@@ -87,4 +87,4 @@ Il porta la main à son épée et la tira en disant :
 
 > Je les détrui-
 >
-> rai avec cette épée qui coupe le fer ; quand j’aurai saisi Ferenguis, je rendrai le monde noir et étroit devant elle, je la couperai en deux avec l’épée tranchante,je la jetterai aux poissons pour qu’ils la mettent en pièces : car je comprends que Khosrou cherche a rentrer dans l’Iran ; mais Ferenguis, pourquoi se mettrait-elle aussi en route?»
+> rai avec cette épée qui coupe le fer ; quand j’aurai saisi Ferenguis, je rendrai le monde noir et étroit devant elle, je la couperai en deux avec l’épée tranchante,je la jetterai aux poissons pour qu’ils la mettent en pièces : car je comprends que Khosrou cherche a rentrer dans l’Iran ; mais Ferenguis, pourquoi se mettrait-elle aussi en route ? »
