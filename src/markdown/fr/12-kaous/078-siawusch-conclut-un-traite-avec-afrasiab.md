@@ -42,7 +42,7 @@ J’enverrai de mon côté une lettre au roi pour qu’il accepte la paix et rap
 
 > Guersiwez expédia sur-le-champ un cavalier rapide comme le vent et lui dit :
 
-> Ne laisse pas surprendre ta tête par le sommeil, va en toute hâte auprès d’AI’rasiab ; dis-lui que nous avons fait diligence et que nous avons obtenu tout ce qu’il désirait, mais que Siawusch lui demande des otages si l’on veut qu’il renonce à la guerre.»
+> Ne laisse pas surprendre ta tête par le sommeil, va en toute hâte auprès d’AI’rasiab ; dis-lui que nous avons fait diligence et que nous avons obtenu tout ce qu’il désirait, mais que Siawusch lui demande des otages si l’on veut qu’il renonce à la guerre. »
 
 Le cavalier arriva auprès d’Afrasiab et s’acquitte du message de Siawusch et du glorieux Guersiwez.
 
@@ -56,7 +56,7 @@ Il se dit :
 >
 > Il faut donc que je lui en envoie, puisqu’il ne veut pas faire la paix sans garantie.
 >
-> J’espère qu’alors ces malheurs ne m’atteinriront pas et il vaut mieux agir comme un homme prudent que comme un insensé.»
+> J’espère qu’alors ces malheurs ne m’atteinriront pas et il vaut mieux agir comme un homme prudent que comme un insensé. »
 
 Il désigna alors, suivant la liste de Rustem, près de cent de ses parents et les envoya auprès du roi de l’Iran, en leur donnant des robes d’honneur et beaucoup de présents.
 
@@ -68,7 +68,7 @@ Il bannit ses soupçons ; il courut auprès de Siawusch rapidement comme la pous
 
 Il lui dit :
 
-> Maintenant que tout est accompli, il conviendrait de laisser partir Guersiwez.»
+> Maintenant que tout est accompli, il conviendrait de laisser partir Guersiwez. »
 
 Siawusch fit préparer un présent et l’on choisit une armure, un casque, une ceinture, un cheval arabe au frein d’or et une épée indienne à fourreau d’or.
 
