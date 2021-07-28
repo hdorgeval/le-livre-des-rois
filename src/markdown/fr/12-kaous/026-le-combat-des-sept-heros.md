@@ -26,7 +26,7 @@ Voici ce que dit un barde, homme de cœur, qui eut inopinément à combattre un 
 >
 > Si tu veux mener de front le courage et la raison, les braves ne te compteront pas parmi les hommes de courage.
 >
-> La raison et la foi ont une tout autre voie que le courage, mais les paroles sages ne sont pas écoutées.»
+> La raison et la foi ont une tout autre voie que le courage, mais les paroles sages ne sont pas écoutées. »
 
 Je vais donc raconter une aventure de Rustem qui cherchait les combats, aventure pleine de couleurs et de parfums.
 
@@ -44,13 +44,13 @@ Cette assemblée ne se lassa pas pendant quelque temps du jeu de paume, de l’a
 
 O illustre guerrier, si tu as envie d’aller à la chasse et si tes guépards aux pieds légers sont prêts, obscurcissons la face brillante du soleil par la poussière que feront lever les cavaliers, les guépards et les faucons dans les réservés de chasse du puissant Afrasiab.
 
-Nous porterons haut nos longues lances ; jetant le lacet sur l’onagre rapide ; combattant le lion avec nos épées ; poursuivant pendant de longues journées le sanglier avec des javelots et le faisan avec des faucons ; nous livrant à la chasse dans les 5 No plaines du Touran, pour qu’il reste de nous un souvenir parmi les hommes.»
+Nous porterons haut nos longues lances ; jetant le lacet sur l’onagre rapide ; combattant le lion avec nos épées ; poursuivant pendant de longues journées le sanglier avec des javelots et le faisan avec des faucons ; nous livrant à la chasse dans les 5 No plaines du Touran, pour qu’il reste de nous un souvenir parmi les hommes. »
 
 Rustem lui répondit :
 
 > Puisse le monde remplir tes vœux et ta fin être heureuse !
 >
-> Demain matin nous irons dans les plaines du Touran et nous ne cesserons pas d’y chasser et de les traverser.»
+> Demain matin nous irons dans les plaines du Touran et nous ne cesserons pas d’y chasser et de les traverser. »
 
 Tous applaudirent à ces paroles, personne ne songea à proposer un autre projet et le lendemain matin, aussitôt qu’ils furent levés de leurs couches, ils se préparèrent à cette expédition.
 
@@ -68,7 +68,7 @@ Ils restèrent ainsi pendant sept jours, la coupe en main, le cœur joyeux et c�
 >
 > un nous. la tête, sans doute Afrasiab a reçu maintenant de nos nouvelles : il ne faut pas que ce méchant aux desseins funestes concerte un plan avec ses grands pleins de fierté, prépare un moyen de nous détruirc et vienne nous surprendre et rendre étroites à nos guépards les plaines on ils chassent.
 >
-> Il faut que nous ayons une sentinelle sur la route, qui, au premier avis qu’elle recevra, vienne nous avertir de l’approche de son armée, car nous ne devons pas nous laisser couper le chemin par l’ennemi.»
+> Il faut que nous ayons une sentinelle sur la route, qui, au premier avis qu’elle recevra, vienne nous avertir de l’approche de son armée, car nous ne devons pas nous laisser couper le chemin par l’ennemi. »
 
 Gourazeh tendit son arc et se mit en route prêt à remplir ce devoir ; et les Iraniens ayant une sentinelle comme lui, ne tinrent plus compte des entreprises de leurs ennemis, allèrent à la chasse et ne pensèrent plus à ceux qui leur voulaient du mal.
 
@@ -92,7 +92,7 @@ Il s’en retourna rapide comme l’ouragan, poussant des cris de guerre et d’
 
 Il lui dit :
 
-> Ô Rustem au cœur de lion, quitte ce lieu malgré les plaisirs du festin ; car il vient une armée sans fin qui couvre également les hauteurs et les plaines et l’étendard d’Afrasiab le tyran brille au milieu de la poussière comme le soleil.»
+> Ô Rustem au cœur de lion, quitte ce lieu malgré les plaisirs du festin ; car il vient une armée sans fin qui couvre également les hauteurs et les plaines et l’étendard d’Afrasiab le tyran brille au milieu de la poussière comme le soleil. »
 
 Rustem l’écoute, poussa des éclats de rire et lui dit :
 
@@ -111,26 +111,26 @@ frasiab, ni de sa grande armée, ni de son ardeur ; n’y eût-il qu’un seul d
 >
 > Un seul de nous vaut cinq cents cavaliers illustres et pleins de fierté et deux en valent mille.
 >
-> Échansonl remplis-moi jusqu’au bord une coupe de vin du Zaboulistan.»
+> Échansonl remplis-moi jusqu’au bord une coupe de vin du Zaboulistan. »
 
 L’échanson la remplit auâsitôt et la lui donna.
 
 Rustem la prit et fut content ; il saisit de sa main la coupe brillante et prononça d’abord le nom de Keî
 Kaous, disant :
 
-> Je bois à la santé du roi du monde.»
+> Je bois à la santé du roi du monde. »
 
 Il dit, but et baisa la terre.
 
 Puis, il prit de nouveau la coupe, baisa de nouveau la terre et dit :
 
-> Je bois à Thous !»
+> Je bois à Thous ! »
 
 Les grands qui étaient les maîtres du monde se levèrent et prièrent le Pehlewan de les épargner, disant :
 
 > Nous ne pouvons plus. vider cette coupe de vin ; Iblis même ne pourrait lutter contre toi en buvant.
 >
-> Dans les banquets, comme avec la massue de Sam sur le champ de bataille, tu es le maître de tous.»
+> Dans les banquets, comme avec la massue de Sam sur le champ de bataille, tu es le maître de tous. »
 
 Rustem remplit de nouveau la coupe de vin rouge du Zaboulistan et la vida en buvant à Zewareh,-qui la prit aussi dans sa main, prononça le nom du roi glorieux, but et baisa la terre.
 
@@ -138,4 +138,4 @@ Rustem le couvrit de bénédictions en disant :
 
 > ’ ”est au frère à boire dans la coupe de son frère.
 >
-> Il n’y a qu’un lion qui osât prendre cette coupe.»
+> Il n’y a qu’un lion qui osât prendre cette coupe. »
