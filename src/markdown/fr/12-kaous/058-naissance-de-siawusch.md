@@ -22,7 +22,7 @@ Le ciel tourna sans relâche et lorsque neuf mois eurent passé sur cette belle,
 
 Elle a mis au monde un enfant beau comme. un Péri et dont le visage ressemble à une idole d’Aderbeïdjan.
 
-Le monde est rempli de bruits touchant cet enfant, car personne ne verra plus un visage et une chevelure comme les siens.»
+Le monde est rempli de bruits touchant cet enfant, car personne ne verra plus un visage et une chevelure comme les siens. »
 
 Le roi du monde lui donna le nom de Siawusch et remercia pour lui le ciel qui tourne ; mais tous ceux qui savaient calculer par les mouvements du ciel sublime la bonne et la mauvaise fortune et quand et comment elle (initierait, connurent que les astres étaient hostiles à cet enfant et s’attristèrent en voyant que la fortune ne veillait pas sur lui ; ils virent que ses bonnes et ses mauvaises qualités ne lui causeraient que des malheurs, et, dans leur sollicitude pour lui, se réfugièrent auprès de Dieu.
 
@@ -32,7 +32,7 @@ Quelque temps s’étant passé, Rustem arriva auprès du roi et lui dit :
 
 > Il faut que j’élève dans mes bras cet enfant qui ressemble à un lion.
 >
-> Il n’y a personne assez illustre pour que tu lui confies ton fils, qui ne trouvera jamais dans le monde une nourrice comme moi.»
+> Il n’y a personne assez illustre pour que tu lui confies ton fils, qui ne trouvera jamais dans le monde une nourrice comme moi. »
 
 Le roi y réfléchit longtemps et cette parole ne lui déplut pas ; il confia à Rustem son cœur et ses yeux, cet enfant bienaimé qui adevait être le maître du" monde.
 
@@ -49,7 +49,7 @@ Quelque temps se passa ainsi ; il devint fort et attaqua les lions pour prendre 
 Alors, il dit à Rustem qui portait haut la tête :
 
 > Je désire voir le roi ; tu as eu heau-
-coup de peine et je t’ai donné beaucoup de souci ; tu m’as enseigné les vertus des rois ; il faut mainte tenant que mon père voie en moi comment le héros au corps d’éléphant enseigne les vertus.»
+coup de peine et je t’ai donné beaucoup de souci ; tu m’as enseigné les vertus des rois ; il faut mainte tenant que mon père voie en moi comment le héros au corps d’éléphant enseigne les vertus. »
 
 P Le héros au cœur de lion fit les préparatifs du voyage ; il envoya de tous côtés des messagers.
 
