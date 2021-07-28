@@ -86,7 +86,7 @@ Lorsque le jour devint sombre et que la nuit parut, le roi glorieux se rendit da
 >
 > Est-ce un homme de sens ?
 >
-> Sa vue vaut-elle mieux que ce que tu en as entendu dire de loin?»
+> Sa vue vaut-elle mieux que ce que tu en as entendu dire de loin ? »
 
 Soudabeh répondit :
 
@@ -94,7 +94,7 @@ Soudabeh répondit :
 >
 > Qui dans le monde ressemble à ton fils ?
 >
-> Pourquoi ne pas dire tout haut la vérité?»
+> Pourquoi ne pas dire tout haut la vérité ? »
 
 Le roi lui dit :
 
