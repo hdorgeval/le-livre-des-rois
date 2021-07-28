@@ -34,7 +34,7 @@ Il en parla et ses traits s’assombrirent, son cœur se remplit de pitié pour 
 
 > Quel remède apporter à ce, mal ?
 >
-> Que faire dans cet embarras?»
+> Que faire dans cet embarras ? »
 
 Piran répondit :
 
