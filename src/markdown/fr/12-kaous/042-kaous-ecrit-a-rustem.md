@@ -44,7 +44,7 @@ Quand tu l’auras lue, que ce soit de jour ou de nuit, n’ouvre pas la bouche 
 
 J’espère donc que tu accourras du Zaboulistan avec des cavaliers pleins de prudence et que tu feras entendre ton cri de guerre.
 
-Car le héros dont nous parle Guzdehem est tel que toi Seul peux le combattre.»
+Car le héros dont nous parle Guzdehem est tel que toi Seul peux le combattre. »
 
 Aussitôt que la lettre fut scellée, le roi la donna à Guiv le vaillant et lui dit :
 
@@ -54,7 +54,7 @@ Aussitôt que la lettre fut scellée, le roi la donna à Guiv le vaillant et lui
 >
 > Si tu arrives dans la nuit, repars le matin.
 >
-> Dis-lui que la guerre nous presse et que nous ne pouvons pas mépriser notre ennemi si Rustem n’est pas auprès de nous.»
+> Dis-lui que la guerre nous presse et que nous ne pouvons pas mépriser notre ennemi si Rustem n’est pas auprès de nous. »
 
 Guiv se hâta de prendre la lettre des mains du roi, il partit et ne prit ni repos ni nourriture.
 
@@ -103,7 +103,7 @@ O Pehlewan du monde, ô vaillant guerrier !
 >
 > Car malheur à nous si nous sommes obligés de combattre avant votre arrivée.
 >
-> Il faut donc, ô héros illustre, que nous partions en toute hâte pour l’Iran.»
+> Il faut donc, ô héros illustre, que nous partions en toute hâte pour l’Iran. »
 
 Rustem répondit :
 
@@ -125,7 +125,7 @@ Rustem répondit :
 > Ressemblât-il à Rustem fils de Zal, maître de l’épée et de la massue ; fût-il un guerrier tel que Sam, brave, prudent et sage, il ne se jettera peurtant pas dans le combat avec la même ardeur que moi.
 >
 > Ainsi ne t’alarme pas de cetteaven-
-Ils portèrent la main aux coupes de vin, ils s’enice turc.»
+Ils portèrent la main aux coupes de vin, ils s’enice turc. »
 
 \*
 vrèrent et écoutèrent des chansons au lieu de penser au roi.
@@ -141,11 +141,11 @@ Mais le quatrième jour, Guiv fit ses préparatifs de départ et dit au héros, 
 >
 > Si nous tardons à part’ir, nous rendrons étroite la terre pour Kaous.
 >
-> Le roi de l’Iran sera courroucé contre nous et dans sa fureur cherchera à se venger.»
+> Le roi de l’Iran sera courroucé contre nous et dans sa fureur cherchera à se venger. »
 
 Rustem lui ré-
 
-KEI nous. se pondit : Ne te mets pas en peine de cela, car personne au monde n’osera se fâcher contre nous.»
+KEI nous. se pondit : Ne te mets pas en peine de cela, car personne au monde n’osera se fâcher contre nous. »
 
 Ensuite, il ordonna qu’on sellât Raksch et fit sonner les trompettes d’airain ; les cavaliers du Zaboulistan entendirent le son des trompettes et se mirent en marche couverts de casquas et de cuirasses.
 
