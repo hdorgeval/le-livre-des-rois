@@ -24,7 +24,7 @@ Quel jeu as-tu donc et joué jusqu’à la fin, en conspirant contre la vie de m
 
 Le repentir ne te servira plus ; il faut que tu renonces à la vie et I que tu te prépares à la mort.
 
-Tu ne peux pas rester sur la terre et ta récompense sera le gibet.»
+Tu ne peux pas rester sur la terre et ta récompense sera le gibet. »
 
 Soudabeh répondit :
 
@@ -36,7 +36,7 @@ Soudabeh répondit :
 >
 > Siawusch finira par dire la vérité sur cette affaire, il éteindra dans le cœur du roi le feu de sa colère.
 >
-> Il a employé tous les arts magiques de Zal et le feu ardent ne l’a pas dévoré.»
+> Il a employé tous les arts magiques de Zal et le feu ardent ne l’a pas dévoré. »
 
 Ensuite elle dit à Siawusch :
 
@@ -50,11 +50,11 @@ Le roi demanda aux Iraniens :
 
 Tous invoquèrent les grâces de Dieu sur le roi, disant :
 
-> Sa peine doit être la mort, il faut qu’elle se torde de douleur en punition de ses méfaits.»
+> Sa peine doit être la mort, il faut qu’elle se torde de douleur en punition de ses méfaits. »
 
 Le roi dit alors au bourreau :
 
-> Attachela au gibet sur la grande route et détourne d’elle la tête.»
+> Attachela au gibet sur la grande route et détourne d’elle la tête. »
 
 Quand on emmena Soudabeh, toutes les femmes du palais poussèrent un cri de douleur.
 
@@ -64,15 +64,15 @@ Toute l’assemblée détourna la tête lorsqu’on fit partir Soudabeh ignomini
 
 Mais Siawusch se dit en lui-même :
 
-> Quand le roi aura fait exécuter Soudabeh, il finira par s’en repentir et verra en moi l’auteur de la souffrance qui le torture.»
+> Quand le roi aura fait exécuter Soudabeh, il finira par s’en repentir et verra en moi l’auteur de la souffrance qui le torture. »
 
 Il s’adressa donc au roi et lui dit :
 
-> Que ton cœur ne s’afllige pas de ce qui se passe ; accorde-moi le pardon du crime de Soudabeh, elle suivra peut-être dorénavant de meilleurs conseils et rentrera dans la bonne voie.»
+> Que ton cœur ne s’afllige pas de ce qui se passe ; accorde-moi le pardon du crime de Soudabeh, elle suivra peut-être dorénavant de meilleurs conseils et rentrera dans la bonne voie. »
 
 Le roi, qui ne demandait qu’un prétexte pour pardonner à Soudabeh toutes ses fautes passées, répondit à Siawusch :
 
-> Je lui ai pardonné dès que j’ai vu qu’elle versait des larmes de sang.»
+> Je lui ai pardonné dès que j’ai vu qu’elle versait des larmes de sang. »
 
 Siawusch baisa le trône du roi, se leva et sortit de l’assemblée ; il ramena Soudabeh et sur l’ordre du roi, la rétablit dans son palais.
 
