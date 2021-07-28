@@ -22,7 +22,7 @@ Lorsqu’il s’approcha de la ville de Semengan, le
 Les grands et le roi, tous ceux qui portaient un diadème allèrent à sa rencontre ; et lorsqu’ils l’aperçurent, chacun dit :
 
 > Est-ce Rustem, ou
-(f est-ce le soleil du matin î?»
+(f est-ce le soleil du matin î ? »
 
 Le roi de Semengan alla auvdevant de lui, à pied, entouré de la foule de ses braves et lui adressa ces paroles :
 
