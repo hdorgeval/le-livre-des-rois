@@ -72,7 +72,7 @@ Je tenais mes deux yeux fixés sur la route, disant en moi-même :
 >
 > Rustem m’aurait reconnue de loin et nous aurait reçus avec joie, ô mon fils !
 >
-> Il n’aurait pas lancé son javelot contre toi ; il ne t’aurait pas fendu la poitrine, ô mon enfant !»
+> Il n’aurait pas lancé son javelot contre toi ; il ne t’aurait pas fendu la poitrine, ô mon enfant ! »
 
 Elle dit et s’emporta contre elle-même, s’arrachant les cheveux et frappant de ses mains son beau visage ; et ses lamentations et ses cris étaient. tels que toute créature eut les yeux pleins de larmes ; elle tomba par terre sans connaissance et ivre de dou-leur et le cœur de toutes les créatures se brisa de pitié pour elle ; elle tomba par terre comme morte ; tu aurais dit que son sang était glacé dans ses veines.
 
@@ -80,7 +80,7 @@ Elle reprit connaissance et recommença ses lamentations et ses plaintes sur la 
 
 Leur de rubis ; elle fit apporter le trône de Sohrab et pleura amèrement sur ce trône et cette couronne en s’écriant :
 
-> Ô rejeton d’un arbre royal !»
+> Ô rejeton d’un arbre royal ! »
 
 Elle fit amener ce destrier aux pieds de vent qu’il avait aimé à monter dans les jours de joie ; elle pressa la tête du cheval contre sa poitrine et les hommes en restèrent étonnés ; elle le baisa tantôt à la tête, tantôt à la face ; elle frotta son visage et ses cheveux contre le sabot du cheval.
 
@@ -88,7 +88,7 @@ Elle fit apporter le vêtement royal de son fils et l’embrasse comme si c’e�
 
 Elle prit la bride d’or et le bouclier de son fils et se frappa le front avec la bride et le bouclier ; elle prit son lacet de quatre-vingts brasses et le saisissant par l’anneau, le jeta au loin ; elle prit la cuirasse de fer et le casque, en disant :
 
-> Ô lion avide de combats !»
+> Ô lion avide de combats ! »
 
 Elle tira l’épée de Sohrab, courut vers son cheval et lui coupa la queue, ensuite elle donna toutes ces richesses aux pauvres, l’or, l’argent et les chevaux caparaçonnés.
 
@@ -116,6 +116,6 @@ Bahram à la parole sage a dit :
 >
 > Et pourtant le sort qui nous emporte est le sort assigné par notre Seigneur.
 >
-> N’attache pas ton cœur à ce séjour passager, car ce qui est passager ne peut te profiter beaucoup.»
+> N’attache pas ton cœur à ce séjour passager, car ce qui est passager ne peut te profiter beaucoup. »
 
 Maintenant je finis ce conte et j’arrive à l’histoire de Siawusch ; c’est une histoire pleine de larmes et qui fera naître dans les cœurs tendres de la haine contre Rustem.
