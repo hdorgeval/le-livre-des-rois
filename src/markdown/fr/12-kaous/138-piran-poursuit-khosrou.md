@@ -18,7 +18,7 @@ order: '138'
 
 Piran choisit mille cavaliers tous braves et propres au combat et leur dit :
 
-> Il faut nous hâter de saisir les rênes de nos destriers, il faut suivre la trace de nos ennemis sans tarder un instant ; car si Guiv et Khosrou parviennent à atteindre l’Iran, les femmes de ce pays deviendront comme des lionnes, il ne nous restera ni terre, ni eau, le cœur d’Afrasiab en saignera et c’est à moi qu’il imputera cette fuite et non pas à la rotation des étoiles, du soleil et de la lune.»
+> Il faut nous hâter de saisir les rênes de nos destriers, il faut suivre la trace de nos ennemis sans tarder un instant ; car si Guiv et Khosrou parviennent à atteindre l’Iran, les femmes de ce pays deviendront comme des lionnes, il ne nous restera ni terre, ni eau, le cœur d’Afrasiab en saignera et c’est à moi qu’il imputera cette fuite et non pas à la rotation des étoiles, du soleil et de la lune. »
 
 Les Turcs, sur l’ordre de cet illustre Pehlewan, partirent semblables à un ouragan ; ils levèrent la tête lorsqu’ils entendirent ces paroles ; ils coururent jour et nuit sans s’arrêter, jusqu’à ce qu’ils arrivèrent a une rivière profonde.
 
@@ -47,7 +47,7 @@ Guiv lui répondit :
 >
 > Dieu le victorieux est mon soutien et je porte en moi votre bonne étoile.
 >
-> Par la force que Dieu le créateur de l’âme m’a donnée, je montrerai, assis sur ma selle élevée, que je connais mon devoir de cavalier.»
+> Par la force que Dieu le créateur de l’âme m’a donnée, je montrerai, assis sur ma selle élevée, que je connais mon devoir de cavalier. »
 
 Keï Khosrou lui répondit :
 
@@ -57,7 +57,7 @@ Keï Khosrou lui répondit :
 >
 > J’ai été délivré par toi des piègea du malheur ; ne te jette pas toi-même dans la gueule du dragon.
 >
-> C’est à moi d’aller sur ce champ de bataille et de faire, avec mon épée, rejaillir le sang jusqu’au firmament.»
+> C’est à moi d’aller sur ce champ de bataille et de faire, avec mon épée, rejaillir le sang jusqu’au firmament. »
 
 Guiv lui répondit :
 
@@ -77,4 +77,4 @@ Guiv lui répondit :
 >
 > Si tu péris dans une captivité lointaine, je ne connais personne qui soit digne du trône et du diadème, mes sept années de peine sont perdues et le méchant Afinsiab dévastera de nouveau l’Iran.
 >
-> Monte sur cette hauteur et observe l’armée ; Dieu le créateur m’aidera et si je suis vainqueur, ce sera par l’effet de ta fortune, car le monde ne vit que sous l’ombre de ton aile.»
+> Monte sur cette hauteur et observe l’armée ; Dieu le créateur m’aidera et si je suis vainqueur, ce sera par l’effet de ta fortune, car le monde ne vit que sous l’ombre de ton aile. »
