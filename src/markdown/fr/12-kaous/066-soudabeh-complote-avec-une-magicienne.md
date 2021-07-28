@@ -36,11 +36,11 @@ Ience de cet Ahriman.
 >
 > Il se peut que cela suffise pour perdre Siawusch.
 >
-> Il faut trouver maintenant un moyen d’exécuter ce plan ; et si tu m’obéis en ceci, son honneur sera terni devant le roi et il sera exclu du trône.»
+> Il faut trouver maintenant un moyen d’exécuter ce plan ; et si tu m’obéis en ceci, son honneur sera terni devant le roi et il sera exclu du trône. »
 
 La femme lui répondit :
 
-> Je suis ton esclave, j’ai abandonné ma tête à tes ordres et à ta volonté.»
+> Je suis ton esclave, j’ai abandonné ma tête à tes ordres et à ta volonté. »
 
 Aussitôt que la nuit fut venue, elle prit une médecine etmit au monde deux enfants d’Ahriman, deux enfants tels que doivent être les petits du Div ; et comment en pourrait-il être autrement de l’engeance d’une sorcière ?
 
@@ -62,10 +62,10 @@ Il y trouva Soudabeh couchée, toute la maison dans la stupeur et deux enfants m
 
 Soudabeh versa une pluie de larmes, disant :
 
-> Regarde ce soleil par ; je t’ai dit le mal qu’il avait fait, mais tu as cru aveuglément à ses paroles.»
+> Regarde ce soleil par ; je t’ai dit le mal qu’il avait fait, mais tu as cru aveuglément à ses paroles. »
 
 Le cœur du roi se remplit de soupçons ; il partit et réfléchit longuement, disant :
 
 > Quel remède puis-je apporter à ceci ?
 >
-> Car il ne faut pas que je traite légèrement cette affaire.»
+> Car il ne faut pas que je traite légèrement cette affaire. »
