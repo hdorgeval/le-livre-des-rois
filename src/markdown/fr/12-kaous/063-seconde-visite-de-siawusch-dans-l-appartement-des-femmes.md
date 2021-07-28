@@ -26,7 +26,7 @@ Soudabeh au visage de lune dit à Hirbed :
 
 > Va sur-le-champ auprès de Siawusch et dis-lui :
 
-> Il faut que tu fatigues les pieds pour venir lui montrer-Iton visage et ta taille.»
+> Il faut que tu fatigues les pieds pour venir lui montrer-Iton visage et ta taille. »
 
 Hirbed se rendit en courant auprès de Siawusch et s’acquitta du message de celle qui l’aimait.
 
@@ -40,13 +40,12 @@ Elle montra au jeune roi ces idoles, qui ressemblaient à des perles intactes, e
 
 > Regarde ces esclaves à la couronne d’or, qui se tiennent devant ton trône ; ce sont de jeunes idoles de Tharaz, que Dieu a pétries de grâce et de pudeur.
 >
-> Dis-moi laquelle d’entre elles te plaît, regarde leur mine et leur taille.»
+> Dis-moi laquelle d’entre elles te plaît, regarde leur mine et leur taille. »
 
 Siawusch jeta un court regard sur ces belles, mais aucune d’elles n’ose le lui rendre ; car ces lunes se disaient l’une à l’autre : Il ne convient
--pas de regarder ce roi.»
+-pas de regarder ce roi. »
 
-Ensuite chacune d’elles if».
-
+Ensuite chacune d’elles if». 
 L7à
 s’en retourna à son trône, calculant ses chances de bonheur. ’ .
 Quand elles furent parties, Soudabeh lui dit :
@@ -57,7 +56,7 @@ Quand elles furent parties, Soudabeh lui dit :
 >
 > Quiconque te voit de loin perd la raison et te choisit entre tous.
 >
-> Regarde avec les yeux de l’intelligence ces filles aux belles ce joues et décide laquelle te convient.»
+> Regarde avec les yeux de l’intelligence ces filles aux belles ce joues et décide laquelle te convient. »
 
 Siawusch était confondu et ne répondit pas ; il pensait en son âme pure :
 
@@ -65,7 +64,7 @@ Siawusch était confondu et ne répondit pas ; il pensait en son âme pure :
 >
 > J’ai entendu raconter par les grands de haut renom tout ce qui s’est passé dans le Hamaveran et ce que le roi a fait au roi de l’Iran et comment il a exterminé les braves de ce pays.
 >
-> Soudabeh, qui est sa fille, est pleine de ruses et ne veut laisser à notre famille ni cervelle rni peau.»
+> Soudabeh, qui est sa fille, est pleine de ruses et ne veut laisser à notre famille ni cervelle rni peau. »
 
 Pendant que Siawusch tardait ainsi à répondre, la belle au visage de Péri ôta de son front son voile et lui dit :
 
@@ -81,7 +80,7 @@ Pendant que Siawusch tardait ainsi à répondre, la belle au visage de Péri ôt
 >
 > Quand le roi aura quitté le monde, tu le remplaceras auprès de moi, tu ne souffriras pas qu’il m’arrive de mal, tu me chériras comme ta propre âme.
 >
-> Me voilà devant toi debout comme une esclave, je te donne mon corps et mon âme brillante ; en tout ce que tu me demanderas, je te satisferai et jamais je ne soustrairai ma tête à ton lacet.»
+> Me voilà devant toi debout comme une esclave, je te donne mon corps et mon âme brillante ; en tout ce que tu me demanderas, je te satisferai et jamais je ne soustrairai ma tête à ton lacet. »
 
 Elle appliqua ses lèvres étroitement sur la joue de Siawusch et l’embrassa ; elle avait oublié toute honte et toute vertu.
 
@@ -95,7 +94,7 @@ Il dit en son âme :
 >
 > Si je parle froidement à cette femme à l’œil impudique, son cœur bouillonnera et la rage la mettra en feu ; alors elle préparera en secret quelque ruse magique et le roi croira à ses paroles.
 >
-> Il vaut mieux qu’avec une voix chaleureuse je lui dise quelques mots doux et flatteurs.»
+> Il vaut mieux qu’avec une voix chaleureuse je lui dise quelques mots doux et flatteurs. »
 
 Il répondit ensuite à Soudabeh :
 
@@ -119,7 +118,7 @@ Il répondit ensuite à Soudabeh :
 >
 > Il est venu, lui dit-elle et a vu tout le palais ; j’avais réuni les idoles aux yeux noirs et le palais était si rempli de filles au doux visage que tu aurais dit que la lune faisait pleuvoir de l’amour.
 >
-> Mais il n’a jeté les yeux que sur ma fille, aucune autre de ces belles n’était digne de lui.»
+> Mais il n’a jeté les yeux que sur ma fille, aucune autre de ces belles n’était digne de lui. »
 
 Le roi fut si content de ces paroles que tu m aurais dit qu’il tenait embrassée la lune.
 
@@ -127,10 +126,10 @@ Il ouvril les portes de son trésor et en lira des joyaux, des étoffes tissues 
 
 Ensuite, il dit à Soudabeh :
 
-> Garde ceci pour Siawusch et quand il en sera besoin, donne-le lui et dis-lui que c’est peu de chose et qu’il faudrait lui donner deux cents trésors comme celui-ci.»
+> Garde ceci pour Siawusch et quand il en sera besoin, donne-le lui et dis-lui que c’est peu de chose et qu’il faudrait lui donner deux cents trésors comme celui-ci. »
 
 Soudabeh regarda et fut étonnée ; elle récita dans son cœur beaucoup de paroles magiques et se dit :
 
 > Si Siawusch ne fait pas ma volonté, je consens qu’il brise mon âme.
 >
-> J’userai de tous les moyens dont le monde se sert ouvertement et en secret et s’il détourne la tête de moi, je me plaindrai de lui au roi du peuple.»
+> J’userai de tous les moyens dont le monde se sert ouvertement et en secret et s’il détourne la tête de moi, je me plaindrai de lui au roi du peuple. »
