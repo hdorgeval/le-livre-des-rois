@@ -36,7 +36,7 @@ Il n’y avait dans le monde aucune femme comme elle et sa beauté était telle 
 
 Elle ressemblait par la taille à un cyprès et par son aspect à une lune ; on n’osait jeter un regard sur elle. me Thous lui dit :
 
-> Ô lune enchanteresse, pourquoi es-tu venue dans cette forêt?»
+> Ô lune enchanteresse, pourquoi es-tu venue dans cette forêt ? »
 
 Elle répondit :
 
@@ -92,7 +92,7 @@ Quand Kaous vit le visage de la jeune fille, il sourit en se mordant les lèvres
 
 Ensuite le roi demanda àla jeune fille :
 
-> Quelle est ta naissance, ô toi dont le visage est le visage d’une Péri ?»
+> Quelle est ta naissance, ô toi dont le visage est le visage d’une Péri ? »
 
 Elle répondit :
 
