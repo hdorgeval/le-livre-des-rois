@@ -48,7 +48,7 @@ Sohrab le brave lui dit :
 >
 > Il y a beaucoup d’armes et beaucoup d’hommes, mais je n’y vois pas un brave ni un guerrier.
 >
-> Je jure par le trône du roi Afrasiab que je vais remplir de sang ce champ de bataillecomme la mer est remplie d’eau.»
+> Je jure par le trône du roi Afrasiab que je vais remplir de sang ce champ de bataillecomme la mer est remplie d’eau. »
 
 Sohrab n’abandonnait pas son cœur à la crainte ; il descenditjoyeusement des remparts, demanda à l’échanson une coupe de vin et son âme n’était pas inquiète du combat.
 
