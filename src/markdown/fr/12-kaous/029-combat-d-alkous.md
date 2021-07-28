@@ -24,11 +24,11 @@ Afrasiab observait tout et voyant ce qui se passait, il exhala un soupir de sa p
 
 Alkous apprit ce que le roi venait de dire et les paroles que le maître du Touran venait de prononcer ; il poussa son cheval noir, et, les mains lavées dans le sang (n’en doute pas), il courut vers le centre de l’armée et vers Afrasiab, en criant àhaute voix :
 
-> Je suis un brave ; je suis un lion qui a du courage et qui en même temps sait attendre ; et si le roi l’ordonne, je me jetterai tout seul dans cette mêlée.»
+> Je suis un brave ; je suis un lion qui a du courage et qui en même temps sait attendre ; et si le roi l’ordonne, je me jetterai tout seul dans cette mêlée. »
 
 Quand le roi du Touran eut entendu ces paroles, il répondit :
 
-> Choisis des compagnons parmi les chefs de l’armée.»
+> Choisis des compagnons parmi les chefs de l’armée. »
 
 Plus de mille cavaliers, avides de com-
 . bats, sortirent avec lui des rangs, tous armés de lances meurtrières, tous brillants comme l’étoile du matin et comme Ormuzd.
@@ -60,7 +60,7 @@ A ce signal, les sept héros, semblables à des lions, saisirent leurs épées e
 
 Afrasiab voyant ces événements merveilleux, jeta un regard sur ses braves et dit :
 
-> Les ennemis l’emportent sur vous dans cette lutte ; faites un efi’ort, montrezvons tels que des léopards et continuez à combattre.»
+> Les ennemis l’emportent sur vous dans cette lutte ; faites un efi’ort, montrezvons tels que des léopards et continuez à combattre. »
 
 L’armée entendit sa voix et se tourna en ; core une fois contre Rustem ; mais lorsque Rustem et les sept héros s’en aperçurent, ils firent une attaque vigoureuse et mirent en fuite les Touraniens, de telle sorte que l’on ne distinguait plus les têtes des pieds.
 
