@@ -28,7 +28,7 @@ Tous les grands issus de familles nobles vinrent auprès de Rustem, la tête cou
 >
 > Et maintenant,quoique nous soyons un peuple dispersé, nous sommes tous tes esclaves ; et puisque tu es le maître, ne verse pas le sang innocent, ne lutte pas contre le ciel qui tourne.
 >
-> Personne ne sait où se trouve ce roi, ni s’il est. en vie ou si la queue du dragon l’a enveloppé.»
+> Personne ne sait où se trouve ce roi, ni s’il est. en vie ou si la queue du dragon l’a enveloppé. »
 
 Lorsque Rustem eut entendu les paroles de cette assemblée, son cœur plein de sagesse trembla ; il sa porta en grande hâte sur la frontière de Kafdjar-baschi et y convoqua tous les chefs de son armée.
 
@@ -46,7 +46,7 @@ Les sages, les grands et les hommes qui avaient de l’expérience se réunirent
 >
 > Il est ton ennemi ; ne vise pas à sa possession, si ton cœur n’est pas dans la voie d’Ahriman.
 >
-> Revêtstoi de riches vêtements et fais des largesses, bois et mange ; voilà ta part dans cette vie, qui n’est qu’un passage.»
+> Revêtstoi de riches vêtements et fais des largesses, bois et mange ; voilà ta part dans cette vie, qui n’est qu’un passage. »
 
 Rustem approuva les paroles qu’avait prononcées le glorieux Mobed et ce joyeux conseiller ajouta :
 
@@ -55,4 +55,4 @@ Rustem approuva les paroles qu’avait prononcées le glorieux Mobed et ce joyeu
 > Songe quels seront tes compagnons .
 ’C
 >
-> quand tu seras sous terre et combien tu regretteras alors les biens dont tu n’auras pas joui.»
+> quand tu seras sous terre et combien tu regretteras alors les biens dont tu n’auras pas joui. »
