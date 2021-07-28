@@ -46,7 +46,7 @@ Ensuite, il leur dit en secret :
 >
 > Quel remède y a-t-il contre ce danger ?
 >
-> Qui dans l’Iran peut combattre ce Turc?»
+> Qui dans l’Iran peut combattre ce Turc ? »
 
 Tous furent d’avis que Guiv se rendît dans le Zaboulistan auprès du chef vaillant, qu’il fit connaître à Rustem que le trône du roi des rois tremblait et qu’il appelât au combat le héros au corps d’éléphant, puisqu’en lui résidait le salut de l’armée.
 
