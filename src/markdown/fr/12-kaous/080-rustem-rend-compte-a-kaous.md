@@ -52,7 +52,7 @@ J’aurais dû partir et je me suis laissé arrêter : ma tête était remplie d
 >
 > Marche sans délai avec ton armée avide de combats, jusqu’à la cour d’Afrasiab ; lâche la mainà tes troupes pour qu’elles s’avancent comme des loups qui se jettent sur des agneaux.
 >
-> Si tu veux prendre la peine de leur enseigner à faire le mal, tous les braves se mettront à dévaster et à brûler et Afrasiab viendra te combattre, car le repos et le sommeil lui seront devenus amers.»
+> Si tu veux prendre la peine de leur enseigner à faire le mal, tous les braves se mettront à dévaster et à brûler et Afrasiab viendra te combattre, car le repos et le sommeil lui seront devenus amers. »
 
 Rustem lui répondit :
 
