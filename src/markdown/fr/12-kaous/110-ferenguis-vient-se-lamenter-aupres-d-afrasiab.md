@@ -53,7 +53,7 @@ Elle lui dit :
 > Tu n’es pas à une chasse où tu tuerais les onagres, où tu abattrais des antilopes ; c’est un roi que tu arraches de son trône et le soleil et la lune te maudiront.
 >
 > Ne livre pas au vent par la folie le pays de Touran.
-,Puisses-tu ne jamais avoir à te rappeler mes conseils !»
+,Puisses-tu ne jamais avoir à te rappeler mes conseils ! »
 
 Pendant qu’elle’prononçait ces mots, elle aperçut Siawusch et s’écria en se déchirant les joues et en poussant des cris :
 
