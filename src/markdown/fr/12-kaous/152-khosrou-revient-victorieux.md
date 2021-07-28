@@ -32,7 +32,7 @@ Keï Khosrou s’assit sur le trône d’or, une couronne ornée de pierreries s
 >
 > Cherche dans l’armée quelqu’un qui en soit digne, un Pehlewan qui les ait mérités et donne-les-lui.
 >
-> Moi j’en suis indigne ; et quand on a fait une faute, on doit se contenter de sauver sa vie.»
+> Moi j’en suis indigne ; et quand on a fait une faute, on doit se contenter de sauver sa vie. »
 
 C’est ainsi qu’il demanda pardon des paroles qu’il avait prononcées et qu’il renonça aux projets insensés qu’il avait conçus.
 
@@ -42,7 +42,7 @@ Le roi victorieux l’accueillit gracieusement, sourit et le fit monter sur le t
 >
 > Continue à jouir de ces faveurs et de ces marques de pouvoir, qui ne conviennent à personne autant qu’à Thous.
 >
-> Je n’ai dans le cœur aucune inimitié contre toi et tu n’as pas à demander pardon, car ce n’est pas un étranger que tu as voulu placer sur le trône.»
+> Je n’ai dans le cœur aucune inimitié contre toi et tu n’as pas à demander pardon, car ce n’est pas un étranger que tu as voulu placer sur le trône. »
 
 Keï Khosrou se dirigea de là vers le Farsistan et se rendit auprès du roi glorieux.
 
