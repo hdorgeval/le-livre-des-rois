@@ -50,7 +50,7 @@ export async function autoCommitUpdatedLatexFiles(): Promise<void> {
       console.log(commitMessage);
     }
 
-    if (unstagedFile.includes('ltex.settings.') && unstagedFile.endsWith('.json')) {
+    if (unstagedFile.includes('ltex-settings.') && unstagedFile.endsWith('.json')) {
       let commitMessage = `chore(ltex): update stand-alone ltex-ls settings`;
       if (unstagedFile.includes('.en.')) {
         commitMessage = `chore(ltex): update stand-alone ltex-ls english settings`;
