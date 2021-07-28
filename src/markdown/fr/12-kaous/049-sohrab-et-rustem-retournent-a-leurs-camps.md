@@ -34,7 +34,7 @@ Il dit à Houman :
 >
 > C’est un vieillard semblable à un lion et la lutte et les batailles ne le fatiguent pas.
 >
-> Je ne connais dans le monde aucun homme qui se ceigne pour le combat comme lui.»
+> Je ne connais dans le monde aucun homme qui se ceigne pour le combat comme lui. »
 
 Houman lui répondit :
 
@@ -42,7 +42,7 @@ Houman lui répondit :
 >
 > Nous étions encore mal préa parés et ne faisions que d’arriver sur le champ de bataille, lorsqu’un homme s’est présenté, plein d’ardeur guerrière, se dirigeant vers cette armée nombreuse ; tu aurais dit qu’il venait de sortir ivre d’un banquet pour commencer tout seul une telle attaque.
 >
-> Il a fait voler de tous côtés la poussière du combat et a tué un grand nombre des nôtres ; ensuite il s’est tourné vers les siens et est parti au galop.»
+> Il a fait voler de tous côtés la poussière du combat et a tué un grand nombre des nôtres ; ensuite il s’est tourné vers les siens et est parti au galop. »
 
 Du moins, répondit Sohrab, il n’a pas tué un seul héros de mon armée, pendant que j’ai tué beaucoup d’Iraniens, j’ai coloré la terre de leur sang comme une rose.
 
@@ -62,7 +62,7 @@ Le jour de demain sera un grand jour, où l’on verra à la’fin qui est loup 
 
 Je jure par le nom du Créateur, du maître unique, de ne pas laisser en vie un seul de mes ennemis.
 
-Maintenant il faut préparer des tables ce et du vin et dissiper avec les coupes les soucis du cœur.»
+Maintenant il faut préparer des tables ce et du vin et dissiper avec les coupes les soucis du cœur. »
 
 Rustem. de son côté, inspecta son armée et s’entretint avec Guiv, en disant :
 
@@ -106,17 +106,17 @@ Rustem lui parla de Sohrab et lui raconta combien il était fort et haut de stat
 >
 > Nous sommes convenus de nous revoir demain et de lutter un peu.
 >
-> J’y emploierai toutes mes forces, je verrai qui sera victorieux et nous saurons quelle est la volonté de Dieu ; car la victoire et la puissance viennent de lui, qui est le créateur du soleil et de la lune.»
+> J’y emploierai toutes mes forces, je verrai qui sera victorieux et nous saurons quelle est la volonté de Dieu ; car la victoire et la puissance viennent de lui, qui est le créateur du soleil et de la lune. »
 
 Kaous lui dit :
 
 > Dieu le saint brisera le corps de ton ennemi.
 >
-> Je passerai cette nuit devant le créateur du monde ; je ne cesserai de frotter mon front contre la terre pour qu’il t’accorde son aide contre ce Turc insensé notre ennemi, pour qu’il fasse refleurir ton espoir flétri et qu’il porte la gloire jusqu’au soleil.»
+> Je passerai cette nuit devant le créateur du monde ; je ne cesserai de frotter mon front contre la terre pour qu’il t’accorde son aide contre ce Turc insensé notre ennemi, pour qu’il fasse refleurir ton espoir flétri et qu’il porte la gloire jusqu’au soleil. »
 
 Rustem répondit :
 
-> Par la grâce du roi, tout ce que désirent ceux qui lui sont dévoués sera accompli.»
+> Par la grâce du roi, tout ce que désirent ceux qui lui sont dévoués sera accompli. »
 
 Ensuite, il partit pour son camp, l’âme remplie de soucis, la tête pleine du désir de la vengeance.
 
@@ -150,6 +150,6 @@ Il parla ainsi à son frère :
 >
 > il se prépare pour la guerre et obéis à ses ordres.
 >
-> Jeunes et vieux, nous appartenons tous à la mort et personne ne demeure pour toujours sur la terre.»
+> Jeunes et vieux, nous appartenons tous à la mort et personne ne demeure pour toujours sur la terre. »
 
 Ainsi parla Rustem au sujet de Sohrab pendant la moitié de la nuit et il donna l’autre moitié au repos et au sommeil.
