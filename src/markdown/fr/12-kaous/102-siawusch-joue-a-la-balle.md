@@ -88,7 +88,7 @@ Siawusch lui répondit :
 
 : L’ambitieux Guersiwez sourit et fut flatté de ces paroles ; il dit aux Turcs :
 
-> Qui d’entre vous, â guerriers qui portez haut la tête, désire se faire un renom dans le monde, soutenir une lutte contre Siawusch et jeter dans la poussière le chef des braves Ï?»
+> Qui d’entre vous, â guerriers qui portez haut la tête, désire se faire un renom dans le monde, soutenir une lutte contre Siawusch et jeter dans la poussière le chef des braves Ï ? »
 
 Les Turcs ne voulurent ni entendre ni répondre, excepté Gueroui Zereh, qui s’avança, disant :
 
@@ -100,7 +100,7 @@ Guersiwez lui dit :
 
 > Ô roi !
 >
-> Ne choisis-tu pas un second parmi les braves de l’armée ?»
+> Ne choisis-tu pas un second parmi les braves de l’armée ? »
 
 Siawusch lui répondit :
 
