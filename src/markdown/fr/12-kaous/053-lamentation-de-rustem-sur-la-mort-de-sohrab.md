@@ -57,7 +57,7 @@ Rustem dit :
 >
 > Il maudira la race de Sam ; il m’appellera mécréant.
 >
-> Mais qui aurait pu penser que ce noble enfant, malgré sa jeunesse, avait atteint la taille d’un haut cyprès, qu’il avait tourné ses pensées vers la guerre et préparé une armée et que c’était lui qui rendait noir pour moi le jour brillant?»
+> Mais qui aurait pu penser que ce noble enfant, malgré sa jeunesse, avait atteint la taille d’un haut cyprès, qu’il avait tourné ses pensées vers la guerre et préparé une armée et que c’était lui qui rendait noir pour moi le jour brillant ? »
 
 Il ordonna qu’on couvrît de brocart digne d’un roi le corps de cet enfant, qui avait eu envie d’un trône et d’un empire et qui n’avait trouvé qu’une bière étroite.
 
@@ -89,7 +89,7 @@ Einstein versa des larmes de sang, il creusa la terre avec ses ongles et déchir
 >
 > Comment adoucirai-je leurs cœurs par mes paroles ?
 >
-> Que diront les braves et les grands quand ils connaî-tront mon crime, quand ils sauront que j’ai arraché du jardin le cyprès élancé ?»
+> Que diront les braves et les grands quand ils connaî-tront mon crime, quand ils sauront que j’ai arraché du jardin le cyprès élancé ? »
 
 Tous les Pehlewans du roi Kaous s’assirent avec Rustem dans la poussière de la route ; les lèvres des grands étaient prodigues de conseils, mais la douleur de Rustem s’y refusait.
 
@@ -123,7 +123,7 @@ Se rendit auprès de Rustem avec un cortège et lui dit :
 >
 > Quel remède y a-t-il ?
 >
-> Jusqu’à quand pleure-ras-tu celui qui est mort?»
+> Jusqu’à quand pleure-ras-tu celui qui est mort ? »
 
 Rustem répondit :
 
