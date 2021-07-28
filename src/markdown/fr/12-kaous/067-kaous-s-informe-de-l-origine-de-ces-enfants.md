@@ -119,7 +119,7 @@ Lui qui a fait le mal, qui est allé chercher sa perte. »
 
 Le roi de la terre dit à Siawusch :
 
-> Quel est ton avis lia-dessus?»
+> Quel est ton avis lia-dessus ? »
 
 Siawusch répondit :
 
