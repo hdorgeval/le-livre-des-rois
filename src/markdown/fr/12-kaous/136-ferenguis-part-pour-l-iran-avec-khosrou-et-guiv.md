@@ -22,7 +22,7 @@ Ferenguis se couvrit d’un casque et tous les trois partirent rapidement comme 
 
 Mais leur fuite ne resta pas longtemps cachée ; quelqu’un alla trouver Piran et lui dit :
 
-> Le noble Guiv est venu de l’Iran, il s’est rendu auprès du sage et vaillant prince et maintenant Ferenguis, Khosrou et le héros avide de combats sont partis pour l’Iran.»
+> Le noble Guiv est venu de l’Iran, il s’est rendu auprès du sage et vaillant prince et maintenant Ferenguis, Khosrou et le héros avide de combats sont partis pour l’Iran. »
 
 Piran fut cons terné de ces paroles, il trembla comme une branche de tremble ; il se dit en lui-même :
 
@@ -30,7 +30,7 @@ Piran fut cons terné de ces paroles, il trembla comme une branche de tremble ; 
 >
 > Que dirai-je âpresent devant Afrasiab ?
 >
-> Mon honneur est terni à ses yeux.»
+> Mon honneur est terni à ses yeux. »
 
 Il choisit parmi les braves Kelbad et Nestihen, un homme de fer ; il ordonna à trois cents cavaliers turcs de marcher au combat et dit en sladressant àcette troupe :
 
@@ -38,7 +38,7 @@ Il choisit parmi les braves Kelbad et Nestihen, un homme de fer ; il ordonna à 
 >
 > Et une fois à cheval ne perdez pas un instant, plantez la tête de Guiv au bout du fer d’une lance, enterrez Ferenguis et enchaînez Keï Khosrou le maudit, car la trace de ses pieds est la mauvaise étoile du Touran.
 >
-> Si cet homme de mauvais augure parvient à franchir le Djihoun, quels malheurs ne causera-t-il pasà ce pays et à ces grands !»
+> Si cet homme de mauvais augure parvient à franchir le Djihoun, quels malheurs ne causera-t-il pasà ce pays et à ces grands ! »
 
 C’est ainsi que partit, sous le commandement de deux Pehlewans circonspects, une troupe de jeunes guerriers.
 
