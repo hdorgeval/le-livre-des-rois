@@ -64,7 +64,7 @@ Il s’adressa à Rustem le sourire sur les lèvres, tu aurais dit qu’il avait
 >
 > Mon cœur te communiquera son amour et je ferai couler de tes yeux des larmes de honte.
 >
-> Puisque tu es né d’une noble race, fais-moi connaître ton origine ; ne me cache pas ton nom, puisque tu vas me combattre : ne serais-tu pas Rustem le maître du Zaboulistan, le choisi, l’illustre, le fils de Zal fils de Sam le héros?»
+> Puisque tu es né d’une noble race, fais-moi connaître ton origine ; ne me cache pas ton nom, puisque tu vas me combattre : ne serais-tu pas Rustem le maître du Zaboulistan, le choisi, l’illustre, le fils de Zal fils de Sam le héros ? »
 
 Rustem lui répondit :
 
