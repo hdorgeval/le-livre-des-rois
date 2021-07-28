@@ -22,7 +22,7 @@ Afrasiab raconta ces nouvelles à Guersiwez, il dévoila devant lui tout ce qui 
 >
 > Il a mis son cœur dans le Touran et ne pense plus à l’Iran, depuis qu’il a renoncé au trône et à la couronne, depuis qu’il a abandonné Gouderz, Bahram et le roi Kaous ; il ne désire plus voir Rustem fils de Zal ; il ne prend plus en main sa lance et sa massue de fer.
 >
-> Il a bâti, dans un lieu qui n’était qu’un champ de ronces, une ville semblable au gai printemps ; il y a élevé de grands palais pour Ferenguis, et la traite avec respect.
+> Il a bâti, dans un lieu qui n’était qu’un champ de ronces, une ville semblable au gai printemps ; il y a élevé de grands palais pour Ferenguis et la traite avec respect.
 >
 > Lève-toi, fais tes préparatifs de départ et rends-toi auprès du noble Siawusch.
 >
@@ -32,7 +32,7 @@ Afrasiab raconta ces nouvelles à Guersiwez, il dévoila devant lui tout ce qui 
 >
 > Porte de même des présents à Ferenguis et vasy la langue chargée de bénédictions.
 >
-> Si ton hôte le reçoit avec honneur, reste joyeusement dans cette belle ville.»
+> Si ton hôte le reçoit avec honneur, reste joyeusement dans cette belle ville. »
 
 L’illustre Guersiwez jeta les yeux sur mille cavaliers choisis dans le Touran ; il rassembla cette troupe
 
