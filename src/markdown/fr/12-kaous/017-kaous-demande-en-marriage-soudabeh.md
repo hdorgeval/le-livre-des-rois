@@ -45,7 +45,7 @@ Le roi du Hamaveran l’écouta, son cœur se remplit d’amertume et sa tête s
 
 > y Quoique Kaous soit roi, quoiqu’il soit le maître de la terre, victorieux et tout-puissant, je n’ai dans le monde que cette fille unique qui m’est plus chère que ma douce vie.
 >
-> Mais si je traite ce messager avec froideur et mépris, je n’ai pas le pouvoir et le moyen de combattre son maître ; il vaut mieux que ; je ferme les yeux sur cette violence et que je renl’erme ma colèresdans mon cœur. »
+> Mais si je traite ce messager avec froideur et mépris, je n’ai pas le pouvoir et le moyen de combattre son maître ; il vaut mieux que ; je ferme les yeux sur cette violence et que je renferme ma colèresdans mon cœur. »
 
 Puis, il dit à l’envoyé aux douces paroles :
 
@@ -58,7 +58,7 @@ Puis, il dit à l’envoyé aux douces paroles :
 ’ ’ .
 Dans sa douleur il fit appeler Soudabeh et lui parla de Kaous en ces termes :
 
-> Il est venu de la part du roi qui porte haut la tête et qui n’a rien à désirer en’p’ouvoir et en bonheur, un messager aux paroles douces et tenant en main une lettre remplie de nouvelles.
+> Il est venu de la part du roi qui porte haut la tête et qui n’a rien à désirer en p’ouvoir et en bonheur, un messager aux paroles douces et tenant en main une lettre remplie de nouvelles.
 >
 > Il désire me ravir, contre mon gré, monsieur, mon sommeil et mon repos.
 >
@@ -76,7 +76,7 @@ Le roi vit que Soudabeh n’était point affligée de ce qui arrivait ; il fit v
 
 Ils conclurent alors cette alliance selon les formes et les rites de la religion de ce temps.
 
-Le roi y employa sept jours, lui et les grands de sa cour ; ensuite il amena, le cœur brisé, six cents esclaves, quarante litières, millel’chameaux, mille mulets et mille chevaux, tous chargés de brocart et d’or ; du haut des litières pendaient des tissus magnifiques ; tous les
+Le roi y employa sept jours, lui et les grands de sa cour ; ensuite il amena, le cœur brisé, six cents esclaves, quarante litières, mille chameaux, mille mulets et mille chevaux, tous chargés de brocart et d’or ; du haut des litières pendaient des tissus magnifiques ; tous les
 
 Corps de l’armée avaient formé leurs rangs.
 
