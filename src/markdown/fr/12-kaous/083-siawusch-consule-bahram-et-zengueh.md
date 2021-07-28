@@ -156,7 +156,7 @@ Le prudent Siawusch ayant entendu cette réponse de son ami, lui dit :
 >
 > Dieu le créateur est mon asile, la terre est mon trône, le ciel est ma couronne.
 >
-> Dis-lui encore qu’il ne me convient pas de retourner imprudemment auprès de Kaous dont je n’ai pas rempli les ordres ; qu’Afrasiab m’ouvre donc un chemin pour que je me rende au lieu où Dieu m’aura assigné. une demeure.
+> Dis-lui encore qu’il ne me convient pas de retourner imprudemment auprès de Kaous dont je n’ai pas rempli les ordres ; qu’Afrasiab m’ouvre donc un chemin pour que je me rende au lieu où Dieu m’aura assigné une demeure.
 >
 > Je veux cher-à".
 >
