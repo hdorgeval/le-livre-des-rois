@@ -52,20 +52,20 @@ Khosrou lui répondit :
 >
 > sa colère et ses reproches.
 >
-> Il m’interrogea et me parla longuement, mais je cachai ce que j’avais de sens et de valeur ; quand il me parlait de la tête.»
+> Il m’interrogea et me parla longuement, mais je cachai ce que j’avais de sens et de valeur ; quand il me parlait de la tête. »
 
 Je répondais sur le pied ; quand il m’adressait une question sur la nourriture, je répondais sur ma demeure.
 
 Dieu obscurcit l’esprit et l’intelligence de cet homme aux noirs desseins, de sorte qu’il me prit pour un fou et trouvant que mon cerveau était vide, il me renvoya auprès de ma mère en me meus clissant.
 
-Je ne saurais être l’ami du meurtrier de mon père, quand même les nuages feraient pleuvoir des perles.»
+Je ne saurais être l’ami du meurtrier de mon père, quand même les nuages feraient pleuvoir des perles. »
 
 Kaous lui répondit :
 
 > Ô toi qui portes haut la tête !
 >
 > Le monde soupire après ton règne ; car tu es de la race des Keïanides, tu es digne du trône et sage comme doit l’être le roi des
-(f TOIS.»
+(f TOIS. »
 
 Khosrou adressa de nouveau la parole à Kaous, en disant :
 
@@ -92,7 +92,7 @@ Khosrou adressa de nouveau la parole à Kaous, en disant :
 >
 > C’est ainsi que Guiv a continué à,combattre avec sa massue à tête de bœuf, jusqu’à ce que nous ayons touché le Djihoun, qu’il a traversé dans sa colère, sans regarder si c’était de l’eau ou de la terre.
 >
-> Un Pehlewan comme lui ne devraitjamais cesser (l’être jeune.»
+> Un Pehlewan comme lui ne devraitjamais cesser (l’être jeune. »
 
 Kaous écouta les paroles de Khosrou et son âme s’épanouit comme une rose ; il pressa la tête de Guiv contre son cœur et l’embrasse plusieurs fois sur le visage et sur la tête ; il appela les grâces de Dieu sur Gouderz et lui rendit de tels honneurs que jamais personne n’en avait vu de pareils.
 
@@ -103,7 +103,7 @@ On écrivit sur de la soie un diplôme, par lequel le roi qui ressemblait
 
 Le roi lui dit :
 
-> Tu as supporté beaucoup de peines, jouis maintenant de tes trésors, ô homme éprouvé !»
+> Tu as supporté beaucoup de peines, jouis maintenant de tes trésors, ô homme éprouvé ! »
 
 Gouderz et ses fils bénirent le roi, ils baissèrent la tête jusqu’à I terre et chacun célébrait la gloire de Kaous.
 
@@ -115,6 +115,6 @@ Il lui dit :
 >
 > Puissent les soucis ne te faire jamais verser de larmes !
 >
-> Tu as abandonné ton pays et ta famille, tu as souffert en route beaucoup de fatigues ; maintenant l’Iran est ta résidence et ta volonté est mon guide.»
+> Tu as abandonné ton pays et ta famille, tu as souffert en route beaucoup de fatigues ; maintenant l’Iran est ta résidence et ta volonté est mon guide. »
 
-Toutes les femmes de Kaous bénirent Ferenguis’eu disant : Puisse le monde n’être jamais privé de toi !»
+Toutes les femmes de Kaous bénirent Ferenguis’eu disant : Puisse le monde n’être jamais privé de toi ! »
