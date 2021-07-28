@@ -74,7 +74,7 @@ Elle commença alors à se lamenter et à exhaler de sa poitrine des soupirs fro
 
 Les cris de Roudabeh montèrcnt du palais jusqu’à Saturne et quiconque les entendait pleurait amèrement.
 
-Puis elle se retira dans ses appartements, plongée dans la tristesse et le deuil, le cœur rempli de douleur, les deux joues pâles. un
+Puis elle se retira dans ses appartements, plongée dans la tristesse et le deuil, le cœur rempli de douleur, les deux joues pâles un
 
 Lorsque Rustem rit ceci, il pleura dans l’amertume de son cœur, il versa de ses yeux des torrents de sang sur sa poitrine ; tu aurais demandé si le jour du jugement était arrivé pour que la joie eût ainsi abandonné tous les cœurs.
 
