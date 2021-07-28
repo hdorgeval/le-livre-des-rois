@@ -32,11 +32,11 @@ Le roi tint une assemblée de sages et de Mobeds intelligents et prudents ; il l
 >
 > Regardez combien de peuples guerriers m’apportent tous les ans de lourds tributs.
 >
-> Si vous partagez mon avis, j’enverrai un message à Rustem, je chercherai à ouvrir la porte de la paix avec Siawusch et lui enverrai des dons sans mesure.»
+> Si vous partagez mon avis, j’enverrai un message à Rustem, je chercherai à ouvrir la porte de la paix avec Siawusch et lui enverrai des dons sans mesure. »
 
 Les grands, l’un après l’autre, lui répondirent, ils votèrent tous pour la douceur et la paix, disant :
 
-> Tu es le roi et nous sommes des esclaves, notre cœur ne demande que ce que tu ordonnes.»
+> Tu es le roi et nous sommes des esclaves, notre cœur ne demande que ce que tu ordonnes. »
 
 Ils partirent tous, la tête remplie du désir de la justice et aucun ne pensait aux peines et aux travaux de la guerre.
 
@@ -64,4 +64,4 @@ pare-toi à agir et mets-toi en route ; prépare-toien toute hâte, ne t’arrê
 >
 > Tu es un roi, répète mes paroles au roi de l’Iran pour attendrir son cœur avide de guerre.
 >
-> Ensuite, ô Guersiwez, tu parleras dans le même sens à Rustem au corps d’éléphant, tu lui diras beaucoup de paroles amicales et pour que cette affaire se conclue, tu lui porteras des présents semblables à ceux que tu auras donnés à Siawusch, à l’exception du trône d’or, car il n’est pas roi et un Pehlewan ne serait pas à sa place sur un trône.»
+> Ensuite, ô Guersiwez, tu parleras dans le même sens à Rustem au corps d’éléphant, tu lui diras beaucoup de paroles amicales et pour que cette affaire se conclue, tu lui porteras des présents semblables à ceux que tu auras donnés à Siawusch, à l’exception du trône d’or, car il n’est pas roi et un Pehlewan ne serait pas à sa place sur un trône. »
