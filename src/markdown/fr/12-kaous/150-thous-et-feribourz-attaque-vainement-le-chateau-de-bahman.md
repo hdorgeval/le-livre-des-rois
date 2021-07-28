@@ -20,13 +20,13 @@ Lorsque le soleil fut entré dans le signe du Lion et au moment où le ciel subj
 
 Thous dit à Kaous :
 
-> Je vais emmener mon armée, mes timbales et mes éléphants ; je vais porter le drapeau de Kaweh et faire pâlir les rubis de : joues de mes ennemis ; je vais me ceindre de la ceinture des Keïanides, me fiant à la fortune de Feribourz et à la valeur de notre famille.»
+> Je vais emmener mon armée, mes timbales et mes éléphants ; je vais porter le drapeau de Kaweh et faire pâlir les rubis de : joues de mes ennemis ; je vais me ceindre de la ceinture des Keïanides, me fiant à la fortune de Feribourz et à la valeur de notre famille. »
 
 Le roi lui répondit :
 
 > Quand tu te mets en campagne, personne ne tient plus compte des dangers, qu’ils soient grands ou petits et tu peux espérer de revenir victorieux par la grâce du maître du soleil et de la lune.
 >
-> Si Feribourz y consent, conduis l’armée et ne le quitte pas.»
+> Si Feribourz y consent, conduis l’armée et ne le quitte pas. »
 
 Thous se mit en marche avec le drapeau de Kaweh ; il y avait dans l’armée quarante braves portant des bottines d’or ; Feribourz fils de Kaous occupait le centre et Thous, avec ses éléphants et son cortège, marchait devant lui.
 
