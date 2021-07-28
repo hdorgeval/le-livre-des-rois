@@ -38,4 +38,4 @@ Maintenant mon armée s’étend jusqu’au Djihoun et le monde est soumis à mo
 
 Afrasiab est dans le Sogd avec son armée, lui et ses troupes sont de l’autre côté du fleuve.
 
-Si le roi me l’ordonne, je passerai l’eau avec mon armée et livrerai bataille à Afiasiab.»
+Si le roi me l’ordonne, je passerai l’eau avec mon armée et livrerai bataille à Afiasiab. »
