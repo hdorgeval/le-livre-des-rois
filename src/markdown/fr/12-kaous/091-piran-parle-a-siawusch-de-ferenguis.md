@@ -36,7 +36,7 @@ Siawusch jeta un regard sur Piran et lui dit :
 
 > Il ne faut pas se refuser aux ordres de Dieu ; si mon sort le veut ainsi, il faut s’y soumettre ; car personne ne connaît les secrets du ciel.
 >
-> Si je ne dois plus retourner dans l’Iran, si je ne dois plus voir ni Kaous, ni Zal qui m’a élevé, ni Rustem qui est pour moi comme le gai printemps, ni Bahram, ni Zengueh fils de Schaweran, ni Guiv, ni Schapour, ni les autres héros, s’il faut que je renonce à les voir et que j’établisse ma demeure dans le Touran . alors sers-moi de père, prépare pour moi ce marr riage et n’en parle à qui que ce soit qu’en secret.»
+> Si je ne dois plus retourner dans l’Iran, si je ne dois plus voir ni Kaous, ni Zal qui m’a élevé, ni Rustem qui est pour moi comme le gai printemps, ni Bahram, ni Zengueh fils de Schaweran, ni Guiv, ni Schapour, ni les autres héros, s’il faut que je renonce à les voir et que j’établisse ma demeure dans le Touran . alors sers-moi de père, prépare pour moi ce marr riage et n’en parle à qui que ce soit qu’en secret. »
 
 Il dit, ses cils se mouillèrent de larmes et un soupir s’échappa de sa poitrine.
 
@@ -47,4 +47,4 @@ Piran lui répondit :
 >
 > Si tu as des amis dans l’Iran, tu les a laissés en partant sous la garde de Dieu.
 >
-> Ta demeure et ton étendard sont maintenant ici ; mais le trône de l’Iran n’en est pas moins entre tes mains.»
+> Ta demeure et ton étendard sont maintenant ici ; mais le trône de l’Iran n’en est pas moins entre tes mains. »
