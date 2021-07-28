@@ -66,7 +66,7 @@ Piran quitta Siawusch ; il courut en toute hâte auprès de Gulschehr et lui dit
 
 > Apprète les atours deDjerireh en l’honneur de Siawusch qui porte haut la tête.
 >
-> Comment ne serions-nous pas heureux aujourd’hui que le petit-fils de Keïkobad devient notre gendre?»
+> Comment ne serions-nous pas heureux aujourd’hui que le petit-fils de Keïkobad devient notre gendre ? »
 
 Gulschehr amena sa fille, posa un diadème sur sa tête, la para comme le gai printemps avec du brocart et des pièces d’or, avec de l’or et des pièces d’argent, avec des couleurs et des parfums de toute espèce et la fit mener ainsi parée auprès du fils du roi.
 
