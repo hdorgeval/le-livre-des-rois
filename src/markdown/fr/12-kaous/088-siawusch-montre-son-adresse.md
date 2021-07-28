@@ -21,7 +21,7 @@ Une nuit le roi dit à Siawusch :
 > Tenons-nous prêts tous deux demain de grand matin ; nous irons au Meïdan avec des balles et des raquettes ; nous y jouerons quelque temps et nous nous livrerons à la joie.
 >
 > J’ai toujours entendu dire que dans ton Meï-
-dan les braves n’osent pas regarder ta raquette.»
+dan les braves n’osent pas regarder ta raquette. »
 
 Siawusch répondit :
 
@@ -31,7 +31,7 @@ Siawusch répondit :
 >
 > Les rois cherchent en toi le modèle de toute prouesse ; et qui pourrait te surpasser en rien ?
 >
-> Le jour brille pour moi par ta grâce et c’est de ta main que me vient le bonheur et le malheur.»
+> Le jour brille pour moi par ta grâce et c’est de ta main que me vient le bonheur et le malheur. »
 
 Afrasiab lui dit :
 
@@ -43,13 +43,13 @@ Le roi des Turcs dit à Siawusch :
 
 > Choisissons maintenant nos compagnons pour le jeu de la balle.
 >
-> Mets-toi de ce côtélà ; moi je resterai de ce côté-ci et toute l’assemblée se divisera de même en deux partis.»
+> Mets-toi de ce côtélà ; moi je resterai de ce côté-ci et toute l’assemblée se divisera de même en deux partis. »
 
 Siawusch répondit :
 
 > Pourquoi prendrais-je une balle et une 2M raquette ?
 >
-> Je ne veux pas lancerla balle contre toi ; cherche un autre antagoniste dans le Meïdan;je serai de ton côté si tu m’en juges digne ; je serai un de tes cavaliers sur ce large Meïdan.»
+> Je ne veux pas lancerla balle contre toi ; cherche un autre antagoniste dans le Meïdan;je serai de ton côté si tu m’en juges digne ; je serai un de tes cavaliers sur ce large Meïdan. »
 
 Le roi, fut réjoui de cette réponse et les paroles de tous les autres ne lui parurent que du vent.
 
@@ -57,11 +57,11 @@ Par la vie et la tête de Kaous !
 
 Dit-il, tu seras mon rival et mon adversaire.
 
-Montre ton habileté devant ces cavaliers. pour qu’ils ne disent pas que j’ai mal choisi, pour que nos braves te rendent hommageiet que mes yeux étonnés soient réjouis de ton jeu.»
+Montre ton habileté devant ces cavaliers. pour qu’ils ne disent pas que j’ai mal choisi, pour que nos braves te rendent hommageiet que mes yeux étonnés soient réjouis de ton jeu. »
 
 Siawusch répondit :
 
-> Tu es le maître ; les cavaliers, le Meïdan et les raquettes sont à toi.»
+> Tu es le maître ; les cavaliers, le Meïdan et les raquettes sont à toi. »
 
 Le roi choisit alors Gulbad et Guersiwez, Djehn et Poulad, Piran et Nestihen avide de combats, enfin Human qui pouvait faire rebondir la balle de l’eau.
 
@@ -75,7 +75,7 @@ Siawusch lui dit :
 >
 > Ils sont tous amis du roi et je serais seul, je serais seul à manier la raquette.
 >
-> Mais si le roi veut me le permettre, j’amènerai sur le Meïdan des cavaliers du pays d’Iran qui m’aideront à frapper la balle selon la règle des deux pays.»
+> Mais si le roi veut me le permettre, j’amènerai sur le Meïdan des cavaliers du pays d’Iran qui m’aideront à frapper la balle selon la règle des deux pays. »
 
 Le roi écouta la demande et y consentit et Siawusch choisit parmi les Iraniens sept hommes DES ROISE habiles au jeu.
 
@@ -99,13 +99,13 @@ Afrasiab sourit en voyant disparaître la balle ; et quand les grands furent rev
 
 Le roi dit :
 
-> Tel devrait être quiconque a été revêtu par Dieu du pouvoir royal ,-et je reconnais que la beauté, la bonne mine, la gloire et l’adresse de Siawusch passent ce qu’en publie la renommée.»
+> Tel devrait être quiconque a été revêtu par Dieu du pouvoir royal ,-et je reconnais que la beauté, la bonne mine, la gloire et l’adresse de Siawusch passent ce qu’en publie la renommée. »
 
 On plaça un trône d’un côté du Meïdan et le roi alla s’y asseoir ; Siawusch y monta à côté de lui et le roi se réjouit grandement à son aspect.
 
 Ensuite Afrasiab dit à son cortège :
 
-> À vous le Meïdan, les raquettes et les halles.»
+> À vous le Meïdan, les raquettes et les halles. »
 
 Les deux troupes se mirent à combattre et la poussière vola jusqu’au soleil et chacun des deux partis alternativement enleva avec de grands cris la balle à ses adversaires.
 
@@ -113,7 +113,7 @@ Les Turcs à la fin s’irritèrent ; ils voulurent à toute force emporter la h
 
 > mEst-ce un jeu de Meïdan que vous jouez, ou est-ce une bataille que vous voulez livrer, dans notre position et malgré la tournure qu’a prise notre sort ?
 >
-> Puisque le jeu est fini, quittez la place aux Turcs et cédez-leur une fois la halle.»
+> Puisque le jeu est fini, quittez la place aux Turcs et cédez-leur une fois la halle. »
 
 Les cavaliers iraniens manièrent alors la bride doucement et depuis ce moment ils ne mirent plus en sueur aucun de leurs chevaux.
 
@@ -132,7 +132,7 @@ coup de bénédictions sur les braves qui maniaient des armes pareilles.
 
 Ensuite, il le donna à Guersiwez prompt de ’e’pée et lui dit :
 
-> Frotte le dos de l’arc et bande-le.»
+> Frotte le dos de l’arc et bande-le. »
 
 Guersiwez fit des efforts pour le bander, mais il ne réussit pas et en fut humilié.
 
@@ -142,7 +142,7 @@ Le roi dit :
 
 > Voilà donc l’arc bandé, grâce à la force que donne la jeunesse ; moi aussi, lorsque j’étais jeune, j’avais un pareil arc, mais à présent est venu pour moi un autre temps.
 >
-> Personne, dans l’Iran ni dans le Touran, n’oserait prendre cette arme au jour du combat ; mais Siawusch, avec cette poitrine, ces bras et ces épaules, ne demandera pas un autre arc quand il sera assis sur son cheval.»
+> Personne, dans l’Iran ni dans le Touran, n’oserait prendre cette arme au jour du combat ; mais Siawusch, avec cette poitrine, ces bras et ces épaules, ne demandera pas un autre arc quand il sera assis sur son cheval. »
 
 On plaça un but. dans la lice et Siawusch, sans adresser la parole à personne, s’assit sur son cheval comme un Div, le serra des jambes et partit en poussant un cri.
 
@@ -156,7 +156,7 @@ Il suspendit par la corde son arc à son bras, s’approcha du puissant roi et m
 
 Le roi se leva et lui dit :
 
-> Ta prouesse est la preuve de ta haute naissance.»
+> Ta prouesse est la preuve de ta haute naissance. »
 
 Ils se rendirent de là au palais du roi, pleins d’allégresse et d’une affection mutuelle.
 
@@ -168,4 +168,4 @@ Le roi fit compter ces présents et les fit porter au palais de Siawusch.
 
 Il ordonna à tous les Touraniens qui étaient de sa famille et à ceux qui avaient le plus de part à ses bonnes grâces, d’apporter aussi à Siawusch des joyaux et de la vaisselle précieuse et il dit à son armée :
 
-> Vous lui obéirez tous comme un troupeau obéit au berger.»
+> Vous lui obéirez tous comme un troupeau obéit au berger. »
