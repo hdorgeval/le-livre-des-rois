@@ -34,7 +34,7 @@ Cependant Afrasiab, qui était rentré dans Gang et s’était emparé de nouvea
 
 Piran avait envoyé sur-le-champ un messager monté sur un dromadaire de course, avait fait amener le fils de Siawusch et avait rendu à sa mère ce jeune homme sage et intelligent.
 
-Quelque temps s’était. écoulé depuis, lorsque le vaillant Guiv, en traversant, dans son inquiétude, tout le pays de Touran, se trouva un jour tout pensif devant une forêt magnifique.
+Quelque temps s’était écoulé depuis, lorsque le vaillant Guiv, en traversant, dans son inquiétude, tout le pays de Touran, se trouva un jour tout pensif devant une forêt magnifique.
 
 Il y entra tristement ; la nature était gaie, mais le cœur de Guiv était navré de douleur.
 
@@ -99,7 +99,7 @@ Lorsque l’illustre Guiv s’approcha, Khosrou, le fils du roi, s’avança ver
 >
 > Sont-ils tous heureux?Pen-sent-ils à Khosrou ?
 >
-> Comment se porte Rustem, le héros au corps d’éléphant qui ambitionne la possession du monde et le Destan et toute cette Iamille?»
+> Comment se porte Rustem, le héros au corps d’éléphant qui ambitionne la possession du monde et le Destan et toute cette Iamille ? »
 
 Quand Guiv entendit ces paroles, il resta confondu et sa langue prononça le nom de Dieu.
 
