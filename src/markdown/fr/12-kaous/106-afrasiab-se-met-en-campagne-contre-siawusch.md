@@ -37,7 +37,7 @@ Il lui répondit :
 > Je ne sais comment te répondre, je suis confondu de ce qui m’arrive.
 >
 > Si Guersiwez a dit vrai, il ne me reste du
-æ cercle de la vie que le point du centre.»
+æ cercle de la vie que le point du centre. »
 
 Ferenguis saisit de ses mains les boucles de ses icheveux, elle déchira de ses ongles ses joues de rose et de corail et ces joues au parfum de musc se couvrirent de sang ; son cœur était en feu, son visage inondé de larmes qui tombaient en torrent sur les collines d’argent de son sein ; elle déchirait ses lèvres
 
@@ -57,10 +57,10 @@ Elle dit à Siawusch :
 >
 > Où trouveras-tu maintenant un asile ?
 >
-> Le seul qui te reste, c’est le maître du soleil et de la lune.»
+> Le seul qui te reste, c’est le maître du soleil et de la lune. »
 
 Siawusch lui répondit :
 
-> Guersiwez, qui est mon ami, est maintenant en route avec un bon message pour Afrasiab et il a certainement apaisé le roi, adouci son cœur et rempli de tendresse son iâme haineuse.»
+> Guersiwez, qui est mon ami, est maintenant en route avec un bon message pour Afrasiab et il a certainement apaisé le roi, adouci son cœur et rempli de tendresse son iâme haineuse. »
 
 Il dit et mit sa confiance en Dieu ; mais son cœur était sombre à cause de la rigueur de sa destinée.
