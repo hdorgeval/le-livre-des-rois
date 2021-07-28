@@ -36,11 +36,11 @@ Il dit à Houman :
 >
 > Je crois que c’est Rustem, car il y a peu de braves dans le monde comme lui.
 >
-> Il ne faut pas que je combatte mon père et que je lutte follement avec lui.»
+> Il ne faut pas que je combatte mon père et que je lutte follement avec lui. »
 
 Houman lui répondit :
 
-> Rustem m’a été quelquefois opposé dans la guerre et je sais ce que ce brave a fait avec sa lourde massue dans la guerre du Mazenderan ; le Raksch de ce guerrier ressemble au Raksch de Rustem, mais il ne frappe pas la terre comme lui et ne laisse pas la même empreinte.»
+> Rustem m’a été quelquefois opposé dans la guerre et je sais ce que ce brave a fait avec sa lourde massue dans la guerre du Mazenderan ; le Raksch de ce guerrier ressemble au Raksch de Rustem, mais il ne frappe pas la terre comme lui et ne laisse pas la même empreinte. »
 
 À l’aube du jour, lorsque le soleil commença à montrer ses rayons et que les braves se réveillèrent, Sohrab se revêtit de sa cuirasse de guerre, la tête pleine du combat, le cœur encore plein du festin.
 
@@ -78,7 +78,7 @@ Rustem lui répondit :
 >
 > Nous ferons de notre mieux et il en sera ce que le maître du monde aura voulu et ordonné.
 >
-> J’ai trouvé dans la vie beaucoup de bonheur et de malheur et ne suis pas un homme à paroles feintes et trompenses.»
+> J’ai trouvé dans la vie beaucoup de bonheur et de malheur et ne suis pas un homme à paroles feintes et trompenses. »
 
 ’ Sohrab lui dit :
 
@@ -86,7 +86,7 @@ Rustem lui répondit :
 >
 > Mon avis ne te va pas au cœur et pourtant j’avais désiré que ton âme ne quittât ton corps que sur la couche et quand ton temps serait venu, que ceux que tu laisseras après toi te préparassent un tombeau et que ton âme s’envolât pendant que ton corps descendrait dans la tombe.
 >
-> Mais puisque tu me livres ta vie, apprê-tons-nous à accomplir les desseins de Dieu.»
+> Mais puisque tu me livres ta vie, apprê-tons-nous à accomplir les desseins de Dieu. »
 
 Ils descendirent de leurs destriers et marchèrent avec précaution, couverts de leurs cottes de mailles et de leurs casques.
 
@@ -109,7 +109,7 @@ Il tira un poignard brillant et s’apprêta à séparer du corps la tête de Ru
 
 Rustem le vit et se dit :
 
-> Il faut donc que je dévoile ce secret.»
+> Il faut donc que je dévoile ce secret. »
 
 Il adressa à Sohrab ces paroles :
 
@@ -121,7 +121,7 @@ Il adressa à Sohrab ces paroles :
 >
 > Celui qui combat à la lutte et renverse sur la poussière un brave, ne lui coupe pas la tête la première fois qu’il le jette par terre, quand même ce serait un cas de vengeance ; mais s’il le met sous lui une se-
 >
-> coude fois, ct acquiert par sa victoire le nom de lion, alors il a le droit delui trancher la tête ; telle est notre coutume.»
+> coude fois, ct acquiert par sa victoire le nom de lion, alors il a le droit delui trancher la tête ; telle est notre coutume. »
 
 C’est par cette ruse que Rustem espérait se tirer de la griffe de ce dragon et échapper à la mort.
 
@@ -151,7 +151,7 @@ Un roi a dit en pareil cas :
 
 Ces paroles jetèrent au désespoir Sohrab, qui en resta pensif et étonné.A lafin il dit à Houman :
 
-> Oublie ces soucis, car il doit me combattre demain encore et tu le verras le joug sur le cou.»
+> Oublie ces soucis, car il doit me combattre demain encore et tu le verras le joug sur le cou. »
 
 K si ne U s.
 
@@ -173,7 +173,7 @@ Mais lorsqu’il se trouva dans le danger et que son cœur fut déchiré par la 
 >
 > Viens en aide à ton esclave dans cette circonstance !
 >
-> Ô Dieu tout-puissant et tout saint, rends-moi ma force telle que tu me l’avais donnée au commencement.»
+> Ô Dieu tout-puissant et tout saint, rends-moi ma force telle que tu me l’avais donnée au commencement. »
 
 Dieu la lui rendit comme il le demandait, il augmenta la vigueur de son corps autant qu’il l’avait diminuée.
 
@@ -189,4 +189,4 @@ Sohrab, en revenant, l’aperçut et le vent de la jeunesse emporta son cœur ; 
 >
 > Pourquoi te présentes-tu de nouveau devant moi ?
 >
-> Certainement ton front n”est pas tourné du côté qu’il faudrait.»
+> Certainement ton front n”est pas tourné du côté qu’il faudrait. »
