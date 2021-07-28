@@ -23,7 +23,7 @@ ra-t-elle à ma puissance et à mon bonheur, ou me repentirai-je de ce que j’a
 
 Tous répondirent au roi de la terre :
 
-> Cette fondation ne te promet pas beaucoup de bonheur.»
+> Cette fondation ne te promet pas beaucoup de bonheur. »
 
 Siawusch se mit en colère contre les astrologues ; son cœur se remplit de dou-leur et ses yeux furent pleins de larmes.
 
@@ -43,7 +43,7 @@ Siawusch répondit :
 >
 > Il n’y a pas de lieu dans le monde comme le château de Gang ; il n’y a pas de ville qui ravisse autant le cœur.
 >
-> La grâce de Dieu, le distributeur du bonheur.»
+> La grâce de Dieu, le distributeur du bonheur. »
 
 été mon soutien et la prudence et le sort ont veillé sur moi, de sorte que j’ai pu bâtir cette grande ville, dont j’ai élevé le faîtejusqu’aux Pléiades.
 
@@ -55,7 +55,7 @@ Ni moi, ni mes enfants, ni un noble héros de ma famille, n’en jouirons ; il n
 
 Mou trône deviendra le siège d’A-frasiab et la mort se hâtera de me dévorer, moi qui suis innocent.
 
-Tel est le secret du ciel sublime, qui tantôt nous comble de joie, tantôt nous jette rdans la tristesse.»
+Tel est le secret du ciel sublime, qui tantôt nous comble de joie, tantôt nous jette rdans la tristesse. »
 
 Piran lui répondit :
 
@@ -67,7 +67,7 @@ Piran lui répondit :
 >
 > pas, aussi longtemps que la vie demeurera dans cecorps.
 >
-> Je ne te laisserai pas atteindre par un souffle de vent, je ne permettrai pas à l’air de compter tes cheveux.»
+> Je ne te laisserai pas atteindre par un souffle de vent, je ne permettrai pas à l’air de compter tes cheveux. »
 
 Siawusch lui dit :
 
@@ -115,7 +115,7 @@ Piran l’écouta et devint soucieux ; son cœur se remplit de douleur à ces pa
 >
 > Ces pensées le sont venues parce que tu t’es rappelé le pays d’Iran, Kaous et le trône impérial, parce que tu t’es rappelé le temps de ton bonheur.
 >
-> Écarte-les de ton souvenir, agis et pense comme un homme de sans.»
+> Écarte-les de ton souvenir, agis et pense comme un homme de sans. »
 
 Ils continuèrent de converser ainsi pendant leur route ; leur esprit était occupé de l’avenir et ce ne fut que lorsqu’ils descendirent de cheval qu’ils cessèrent de parler.
 
