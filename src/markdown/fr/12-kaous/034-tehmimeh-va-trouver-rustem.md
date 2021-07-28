@@ -30,7 +30,7 @@ Il lui adressa la parole et lui demanda :
 >
 > Que cherches-tu dans la nuit sombre ?
 >
-> Quel est ton désir?»
+> Quel est ton désir ? »
 
 Elle répondit :
 
