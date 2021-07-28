@@ -56,18 +56,18 @@ Kaous fut effrayé et s’écria :
 
 > Ô hommes illustres et de hautenaissance !
 >
-> Que quelqu’un de vous aille annoncer à Rustem que le cerveau des braves est vide devant ce Turc, que je n’ai pas un. cavalier à lui opposer et qu’il n’y a personne dans l’Iran qui ose le combattre.»
+> Que quelqu’un de vous aille annoncer à Rustem que le cerveau des braves est vide devant ce Turc, que je n’ai pas un. cavalier à lui opposer et qu’il n’y a personne dans l’Iran qui ose le combattre. »
 
 ’
 Thous partit, porta le message du roi à Rustem et lui conta tout ce qu’il avait entendu.
 
 Rustem lui répondit :
 
-> Quand les autres rois se sont adressés à moi inopinément, c’était tantôt pour un combat. tantôt pour une fête et un banquet ; mais Kaous ne m’a jamais donné que la peine de combattre.»
+> Quand les autres rois se sont adressés à moi inopinément, c’était tantôt pour un combat. tantôt pour une fête et un banquet ; mais Kaous ne m’a jamais donné que la peine de combattre. »
 
 Il ordonna qu’on sellât Raksch et dit à ses cavaliers de rider leurs fronts ; il jeta de sa tente un regard sur la plaine et vit sur la route Guiv qui arrivait et qui mettait à Raksch une selle brillante ; Gourguin qui criait :
 
-> Hâte-toi, hâteloi !»
+> Hâte-toi, hâteloi ! »
 
 Rehham qui bou-
 
@@ -77,25 +77,25 @@ Vitel»
 
 Rustem entendant ces voix de sa tente, dit en lui-même :
 
-> C’est donc ici un combat contre un Abriman, car toute cette lerreur ne peut avoir été produite par un homme !»
+> C’est donc ici un combat contre un Abriman, car toute cette lerreur ne peut avoir été produite par un homme ! »
 
 Il se hâta de mettre sa cuirasse de peau de léopard, se ceignit de sa ceinture royale, monta sur Raksch et partit.
 
 Il laissa à Zewareh la garde de ses tentes et de son armée et lai dit :
 
-> Ne quitte pas ce poste et obéis-moi de préférence aux autres chefs.»
+> Ne quitte pas ce poste et obéis-moi de préférence aux autres chefs. »
 
 On porta devant Rustem son drapeau et il s’avança, avide de combats et en colère.
 
 Quand il vit Sohrab avec ses bras et ses jambes puissantes et sa poitrine large comme celle de Sam, il lui dit :
 
-> Éloignons-nous d’ici et sortons des lignes des deux armées !»
+> Éloignons-nous d’ici et sortons des lignes des deux armées ! »
 
 Sohrab frotta ses mains l’une dans l’autre et courut au combat en dehors des lignes, disant :
 
 > Viens et rendonsonous tout seuls dans un lieu écarté,-nous sommes tous" deux des braves ; n’appelle auprès de toi aucun de tes amis de l’Iran, nous combattrons seuls toi et moi, cela suffit.
 >
-> Mais stu ne peux tenir contre moi sur le champ de bataille ; tu ne peux résister à un seul coup de ma main ; tu es haut de stature et puissant d’épaules et de bras, mais tes bras se sont affaiblis sous le poids des années.»
+> Mais stu ne peux tenir contre moi sur le champ de bataille ; tu ne peux résister à un seul coup de ma main ; tu es haut de stature et puissant d’épaules et de bras, mais tes bras se sont affaiblis sous le poids des années. »
 
 Rustem regarda cet homme si altier, il regarda ses épaules, ses mains et ses longs
 
@@ -115,7 +115,7 @@ Rustem regarda cet homme si altier, il regarda ses épaules, ses mains et ses lo
 >
 > Mais j’ai pitié de toi et ne voudrais pas t’arracher la vie.
 >
-> Ne reste pas avec les Turcs, je ne connais personne dans l’Iran qui ait des épaules et des bras comme toi.»
+> Ne reste pas avec les Turcs, je ne connais personne dans l’Iran qui ait des épaules et des bras comme toi. »
 
 Pendant que Rustem parlait ainsi, le cœur de Sohrab s’élançait vers lui ; il lui dit :
 
@@ -123,12 +123,12 @@ Pendant que Rustem parlait ainsi, le cœur de Sohrab s’élançait vers lui ; i
 >
 > Dis-moi franchement quelle estta naissance et réjouis mon cœur par de bonnes paroles.
 >
-> Je crois que tu es Rustem, que tu es de la race de l’illustre Neriman.»
+> Je crois que tu es Rustem, que tu es de la race de l’illustre Neriman. »
 
 Rustem lui répondit :
 
 > Je ne suis pas Rustem, je ne suis pas issu de la race de Sam fils de Neriman.
 >
-> Rustem est un Pehlewan et moi je suis un homme du commun ; je n’ai ni trône, ni palais, ni diadème.»
+> Rustem est un Pehlewan et moi je suis un homme du commun ; je n’ai ni trône, ni palais, ni diadème. »
 
 Sohrab, qui avait été plein d’espoir, se désespéra et l’aspect du jour brillant devint sombre pour lui.
