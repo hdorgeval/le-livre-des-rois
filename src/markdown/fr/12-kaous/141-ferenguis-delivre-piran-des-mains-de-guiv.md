@@ -28,7 +28,7 @@ Il observait Ferenguis, dont les yeux étaient remplis de kat au larmes et la bo
 >
 > Accorde-nous sa grâce, ô illustre héros !
 >
-> Car jamais il n’a conseillé le mal.»
+> Car jamais il n’a conseillé le mal. »
 
 Guiv lui répondit :
 
@@ -40,7 +40,7 @@ J’ai juré par la lune et par la couronne et le trône du roi illustre, que je
 
 > Ô héros qui ressembles au lion, ne viole pas un serment que tu as fait devant Dieu.
 >
-> Satisfais ton cœur et accomplis ton serment en perçant l’oreille de Piran avec ton poignard ; et quand le sang que ton arme versera sera tombé sur le sol, tu auras satisfait en même temps à la vengeance et à la clémence.»
+> Satisfais ton cœur et accomplis ton serment en perçant l’oreille de Piran avec ton poignard ; et quand le sang que ton arme versera sera tombé sur le sol, tu auras satisfait en même temps à la vengeance et à la clémence. »
 
 Le Pehlewan vit que le roi s’attendrissait sur le sort de Piran et que ses joues inondées de larmes trahissaient sa tendresse pour lui.
 
@@ -50,11 +50,11 @@ Piran dit alors au roi :
 
 > 3G
 >
-> M2 ces Je ne puis rejoindre mon armée à pied ; ordonne-lui donc de me rendre mon cheval et rappelle-toi que je te dois la vie et tout ce que je possède.»
+> M2 ces Je ne puis rejoindre mon armée à pied ; ordonne-lui donc de me rendre mon cheval et rappelle-toi que je te dois la vie et tout ce que je possède. »
 
 Le roi dit à Guiv :
 
-> Ô vaillant lion, fais-moi présent de son cheval.»
+> Ô vaillant lion, fais-moi présent de son cheval. »
 
 Guiv dit à Piran -.
 
@@ -64,7 +64,7 @@ Comment les champs de bataille t’ont-ils rendu si paresseux ?
 
 Si tu veux avoir ce cheval aux pieds de vent, je le lierai les deux mains avec une forte courroie, ensuite je te ferai prêter un serment so-Iennel et ne rendrai la liberté à ton corps captif que si tu promets de ne te laisser délier que par Gulschehr.
 
-C’est elle que je choisis pour cet office, car elle est la première de tes femmes et rien de ce qui te regarde n’est un secret pour elle.»
+C’est elle que je choisis pour cet office, car elle est la première de tes femmes et rien de ce qui te regarde n’est un secret pour elle. »
 
 Le Pehlewan se soumit à cette condition et racheta son cheval rapide en jurant de ne permettre à personne de le délier pendant son voyage et de réserver ce service à Gulschehr.
 
