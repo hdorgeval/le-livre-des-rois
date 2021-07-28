@@ -54,10 +54,10 @@ Aussitôt que Sohrab fut parti, le vieux Guzdehem appela un scribe et l’ayant 
 >
 > Nous préparerons cette nuit nos bagages et nous nous dirigerons vers ton armée.
 >
-> Car si nous attendions encore quelque temps, nous lutterions, mais on n’entendrait plus notre voix, parce que ces remparts ne peuvent lui résister et que le bond du lion est lent comparé à son agilité.»
+> Car si nous attendions encore quelque temps, nous lutterions, mais on n’entendrait plus notre voix, parce que ces remparts ne peuvent lui résister et que le bond du lion est lent comparé à son agilité. »
 
 La lettre fut scellée dans la nuit ; le messager se leva et prit congé et Guadehem lui dit :
 
-> Pars de manière qu’a l’aube du jour les Touraniens ne puissent plus te voir.»
+> Pars de manière qu’a l’aube du jour les Touraniens ne puissent plus te voir. »
 
 Le messager attacha la lettre à son côté droit et partit sur-le-champ.
