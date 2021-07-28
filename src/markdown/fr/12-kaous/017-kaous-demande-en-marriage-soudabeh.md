@@ -22,13 +22,13 @@ Après cela quelqu’un dit à Kaous :
 >
 > Il ne faut pas que le roi prenne une autre compagne.
 >
-> Quel bonheur pour lui de posséder cette lune !»
+> Quel bonheur pour lui de posséder cette lune ! »
 
 Kaous sentit son cœur tressaillir et répondit :
 
-> Ce conseil est bon et je demanderai à son père cette beauté, car elle convient à mon trône.»
+> Ce conseil est bon et je demanderai à son père cette beauté, car elle convient à mon trône. »
 
-Alors, il choisit parmi lafoule un homme d’esprit et de savoir, issu d’une famille noble et doué d’une intelligence profonde et lui ordonna d’aller dans le Hamaveran.
+Alors, il choisit parmi la foule un homme d’esprit et de savoir, issu d’une famille noble et doué d’une intelligence profonde et lui ordonna d’aller dans le Hamaveran.
 
 Rends, dit.il, le roi favorable à mes vœux ; prépare son esprit par des paroles douces ; dis-lui que mon alliance est recherchée dans le monde par tous les grands qui ont de l’expérience, car le soleil emprunte sa splendeur de ma couronne, la terre est la base de mon trône d’ivoire et tous ceux qui ne vivent pas à l’ombre de mon asile seront humiliés.
 
@@ -36,7 +36,7 @@ Maintenant désire contracter avec toi une alliance ; je désire cimenter notre 
 
 Tu as derrière tes rideaux une fille dont j’ai entendu dire qu’elle est digne de mon trône, que son visage est pur et pur son corps et qu’on la célèbre dans chaque ville et dans chaque assemblée.
 
-Puisque tu trouves un gendre comme le fils de Kobad, sache que lesoleil t’a traité avec faveur.»
+Puisque tu trouves un gendre comme le fils de Kobad, sache que le soleil t’a traité avec faveur. »
 
 ’ ’
 Le sage messager à la langue affilée se rendit au-près du roi du Hamaveran ; il exerça sa langue et excita son cœur ; il prépara ses lèvres à prononcer de douces paroles ; il porta au roi le salut et les bénédictions de Kaous et s’acquitte de son message.
@@ -45,7 +45,7 @@ Le roi du Hamaveran l’écouta, son cœur se remplit d’amertume et sa tête s
 
 > y Quoique Kaous soit roi, quoiqu’il soit le maître de la terre, victorieux et tout-puissant, je n’ai dans le monde que cette fille unique qui m’est plus chère h que ma douce vie.
 >
-> Mais si je traite ce messager avec froideur et mépris, je n’ai pas le pouvoir et le moyen de combattre son maître ; il vaut mieux que ; je ferme lesyeux sur cette violence et que je renl’erme ma colèresdans mon cœur.»
+> Mais si je traite ce messager avec froideur et mépris, je n’ai pas le pouvoir et le moyen de combattre son maître ; il vaut mieux que ; je ferme les yeux sur cette violence et que je renl’erme ma colèresdans mon cœur. »
 
 Puis, il dit à l’envoyé aux douces paroles :
 
@@ -53,10 +53,10 @@ Puis, il dit à l’envoyé aux douces paroles :
 >
 > Il. exige de moi deux choses plus précieuses que toute autre que je connaisse.
 >
-> Mes richesses formaient ma sécurité et mon âme était heureuse par mon enfant.,Ma.is idorénavant mon cœur sera loin de moi etj’en confiai, quoique ce soit le mi de l’Iran qui me le ravisse ; 9 néanmoins je lui donnerai tout ce qu’il me demande et je ne me soustrairai pas’àv sa volonté et à ses ordres.»
+> Mes richesses formaient ma sécurité et mon âme était heureuse par mon enfant.,Ma.is idorénavant mon cœur sera loin de moi etj’en confiai, quoique ce soit le mi de l’Iran qui me le ravisse ; 9 néanmoins je lui donnerai tout ce qu’il me demande et je ne me soustrairai pas’àv sa volonté et à ses ordres. »
 
 ’ ’ .
-Dans sa. douleuril fit appeler Soudabeh et lui parla de Kaous en ces termes :
+Dans sa. douleur il fit appeler Soudabeh et lui parla de Kaous en ces termes :
 
 > Il est venu de la part du roi. qui porte haut la tête et qui n’a rien à désirer en’p’ouvoir et en bonheur, un messager aux paroles douces et tenant en main une lettre remplie de nouvelles.
 >
@@ -70,7 +70,7 @@ Soudabeh lui répondit :
 
 > S’il n’y a pas de remède, il vaut mieux commeneer par ne pas s’en afiliger ; et pourquoi serais-tu attristé d’une alliance avec celui qui est le maître du’monde, qui peut prendre aux rois leurs trônes et leurs provinces ?
 >
-> Personne n’envisage avec dou-leur un événement qui doit être un sujet de joie.»
+> Personne n’envisage avec dou-leur un événement qui doit être un sujet de joie. »
 
 Le roi vit que Soudabeh n’était point affligée de ce qui arrivait ; il fitvenirlauprès de lui. l’envoyé de Kaous et le plaça au-dessus de tous les grands.
 
@@ -88,4 +88,4 @@ Kaous la regarda et resta étonné,-il invoqua la grâce de Dieu sur Soudabeh.
 
 Il tint une assemblée de sages et de Mobeds âgés et pleins de prudence ; il reconnut que Soudabeh était digne d’être sa compagne et l’épousa selon les coutumes et les rites, puis il lui dit :
 
-> Aussitôt que je t’ai aperçue, je t’ai jugée digne du trône d’or.»
+> Aussitôt que je t’ai aperçue, je t’ai jugée digne du trône d’or. »
