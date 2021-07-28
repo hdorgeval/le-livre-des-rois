@@ -36,11 +36,11 @@ Sohrab le guerrier l’aperçut-, tira aussitôt l’épée du combat et s’él
 >
 > Quel est ton nom et ta nais sauce ?
 >
-> Car ta mère aura à pleurer sur toi.»
+> Car ta mère aura à pleurer sur toi. »
 
 Hedjir lui répondit :
 
-> Je n’ai pas besoin de beaucoup de compagnons pour te combattre ; je suis Hedjir le brave, le chef de l’armée et maintenant je vais te séparer la tête du tronc et l’envoyer au roi du monde pendant que les vautours dévoreront ton corps.»
+> Je n’ai pas besoin de beaucoup de compagnons pour te combattre ; je suis Hedjir le brave, le chef de l’armée et maintenant je vais te séparer la tête du tronc et l’envoyer au roi du monde pendant que les vautours dévoreront ton corps. »
 
 Sohrab sourit. lorsque ces bravades frappè-rent son oreille, il courut rapidement sur Hedjir et ils lancèrent javelot sur javelot si vite qu’on ne ponvait distinguer ces armes l’une de l’autre.
 
