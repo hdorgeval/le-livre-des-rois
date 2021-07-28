@@ -34,7 +34,7 @@ Ensuite, il dit à Piran :
 >
 > Si Rustem parvient à s’en emparer, ill’emmènera dans le pays d’Iran et ils feront un roi de cet enfant du Div, ils le feront asseoir sur le trône, ils lui donneront une couronne brillante.
 >
-> Amène-le de ce côté de la mer ; hâte-toi et ne me désobéis pas en cette affaire.»
+> Amène-le de ce côté de la mer ; hâte-toi et ne me désobéis pas en cette affaire. »
 
 Piran lui répondit :
 
@@ -42,13 +42,13 @@ Piran lui répondit :
 >
 > Je prendrai des mesures telles que le roi approuvera son serviteur dévoué.
 >
-> Nous allons le faire venir ici, nous I’emmènerons avec nous et le reléguerons à Khoten ; car il ne faut pas que jamais un méchant puisse se lever contre le roi.»
+> Nous allons le faire venir ici, nous I’emmènerons avec nous et le reléguerons à Khoten ; car il ne faut pas que jamais un méchant puisse se lever contre le roi. »
 
 Le roi lui répondit :
 
 > Ô maître de la sagesse !
 >
-> Tu me guides toujours vers ce qui est bien ; fais sur-le-champ tes préparatifs, car il ne faut pas que nous négligions cette affaire.»
+> Tu me guides toujours vers ce qui est bien ; fais sur-le-champ tes préparatifs, car il ne faut pas que nous négligions cette affaire. »
 
 Alors Piran expédia un messager, un homme de sens et de noble naissance et lui ordonna d’amener le prince.
 
@@ -66,7 +66,7 @@ Quand Khosrou eut entendu ses paroles, il ne sutà quoi se résoudre ; il courut
 >
 > Quel rernède y apporter ?
 >
-> La sagesse nous fournirait peut-être un moyen de sauver notre vie.»
+> La sagesse nous fournirait peut-être un moyen de sauver notre vie. »
 
 Ils en parlèrent longuement et émirent beaucoup d’avis ; mais ils ne trouvèrent aucun moyen de se soustraire à la nécessité, ils ne virent aucune possibilité d’éviter le voyage et ils partirent à contrecœur et en grande hâte.
 
@@ -84,6 +84,6 @@ Quand il eut pourvu à tous ses besoins et : qu’il fut délivré de ces soins,
 
 Le roi du pays de Touran répondit à Piran :
 
-> Il faut le renvoyer du bord de la mer de la Chine, si loin que les grands de l’Iran n’en entendent jamais parler .»
+> Il faut le renvoyer du bord de la mer de la Chine, si loin que les grands de l’Iran n’en entendent jamais parler . »
 
 Et Pirau l’envoya vite, connue la fumée que pousse le vent, du côté où le roi l’avait ordonné.
