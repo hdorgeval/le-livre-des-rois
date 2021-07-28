@@ -38,7 +38,7 @@ porter, il le faudrait deux cents éléphants.
 >
 > Je te préparerai plus de bracelets, de couronnes et de trônes que le roi ne t’en donne.
 >
-> Mais si tu désobéis à mes ordres, si ton cœur refuse de guérir mes douleurs. je te priverai de cet empire, j’ohscurcirai devant toi le soleil et la lune.»
+> Mais si tu désobéis à mes ordres, si ton cœur refuse de guérir mes douleurs. je te priverai de cet empire, j’ohscurcirai devant toi le soleil et la lune. »
 
 Siawusch lui répondit :
 
