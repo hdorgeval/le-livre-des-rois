@@ -22,13 +22,13 @@ Or il arriva qu’un matin Iblis tint une assemblée à l’insu du roi et dit a
 >
 > Il faudrait qu’un Div rusé, qui connût les coutumes et les voies du palais, s’approchât de Kaous et détournât son âme du vrai chemin, pour délivrer ainsi les Divs de leurs peines, pour éloigner l’esprit du roi de Dieu le
 >
-> tout pur et pour répandre de la poussière sur sa gloire resplendissante.»
+> tout pur et pour répandre de la poussière sur sa gloire resplendissante. »
 
 Les Divs écoutèrent ces paroles et y réfléchirent ; mais aucun n’osa répondre, car ils craignaient Kaous.
 
 À la fin, un Div plein de méchanceté se leva en disant :
 
-> C’est à moi qu’appartient cette entreprise difficile ; je détournerai Kaous du service de Dieu ; personne autre que moi ne peut accomplir ce dessein secret.»
+> C’est à moi qu’appartient cette entreprise difficile ; je détournerai Kaous du service de Dieu ; personne autre que moi ne peut accomplir ce dessein secret. »
 
 Il prit la forme d’un jeune homme éloquent et aux manières élégantes et alla trouver le roi illustre, qui ce jour là était parti pour la chasse.
 
@@ -44,7 +44,7 @@ Il s’approcha de lui, baisa la terre et lui présenta un bouquet de roses en d
 >
 > Quelle est la nature de la lune, de la nuit et du jour et qui est le maître de la rotation du ciel ?
 >
-> Tu t’es emparé de la terre et de tout ce qui s’y trouvait à ta convenance, mais le ciel doit encore t’obéir.»
+> Tu t’es emparé de la terre et de tout ce qui s’y trouvait à ta convenance, mais le ciel doit encore t’obéir. »
 
 Le cœur du roi fut détourné du vrai chemin par le Div ; soulesprit succomba à ses pensées et il ne cessa de songer que le ciel qui tourne ne lui avait jamais refusé ses faveurs.
 
