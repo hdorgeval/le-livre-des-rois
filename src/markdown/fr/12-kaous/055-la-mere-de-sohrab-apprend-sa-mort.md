@@ -74,7 +74,7 @@ Je tenais mes deux yeux fixés sur la route, disant en moi-même :
 >
 > Il n’aurait pas lancé son javelot contre toi ; il ne t’aurait pas fendu la poitrine, ô mon enfant ! »
 
-Elle dit et s’emporta contre elle-même, s’arrachant les cheveux et frappant de ses mains son beau visage ; et ses lamentations et ses cris étaient. tels que toute créature eut les yeux pleins de larmes ; elle tomba par terre sans connaissance et ivre de dou-leur et le cœur de toutes les créatures se brisa de pitié pour elle ; elle tomba par terre comme morte ; tu aurais dit que son sang était glacé dans ses veines.
+Elle dit et s’emporta contre elle-même, s’arrachant les cheveux et frappant de ses mains son beau visage ; et ses lamentations et ses cris étaient. tels que toute créature eut les yeux pleins de larmes ; elle tomba par terre sans connaissance et ivre de douleur et le cœur de toutes les créatures se brisa de pitié pour elle ; elle tomba par terre comme morte ; tu aurais dit que son sang était glacé dans ses veines.
 
 Elle reprit connaissance et recommença ses lamentations et ses plaintes sur la mort de son fils ; ses larmes mêlées au sangde son cœur devinrent cou-
 
