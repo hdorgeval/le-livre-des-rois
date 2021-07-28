@@ -34,7 +34,7 @@ Soudabeh vint à lui, poussant des cris, versant des larmes de sang, arrachant s
 >
 > Voilà la vérité, il faut bien que je la dise.
 >
-> Il a fait tomber le diadème de ma’ tête aux cheveux de musc et tu vois comment il a déchiré ma robe sur mon sein.»
+> Il a fait tomber le diadème de ma’ tête aux cheveux de musc et tu vois comment il a déchiré ma robe sur mon sein. »
 
 Le roi devint pensif à ce récit et adressa à Soudabeh des questions de toute espèce.
 
@@ -42,7 +42,7 @@ Il dit en son
 
 âme :
 
-> Si elle dit vrai, si elle ne cherche pas à le calomnier, il faudra que je tranche la tête à Siawusch ; c’est ainsi que je romprai le sort que la méchanceté a jeté sur moi.»
+> Si elle dit vrai, si elle ne cherche pas à le calomnier, il faudra que je tranche la tête à Siawusch ; c’est ainsi que je romprai le sort que la méchanceté a jeté sur moi. »
 
 Le sage dira maintenant que le doux courant de cette histoire va se changer en sang.
 
@@ -58,7 +58,7 @@ Il dit à Siawusch avec prudence et avec mesure :
 >
 > Il nous en revient, à moi la honte, à toi les incantations et l’ensorcellement.
 >
-> Dis-moi la vérité, montre-moi ton front, raconte-moi comment tout s’est passé.»
+> Dis-moi la vérité, montre-moi ton front, raconte-moi comment tout s’est passé. »
 
 Siawusch lui raconta ce qui était arrivé par l’amour insensé de Soudabeh.
 
@@ -78,7 +78,7 @@ Soudabeh répliqua :
 >
 > Il a voulu me forcer de me prêter à ses désirs, il m’a saisie de ses deux mains dures comme une pierre ; et comme je lui résistais, il m’a arraché tous mes cheveux ; et mes joues ont été déchirées.
 >
-> Je porte, ô roi, dans mon sein un enfant de toi ; mais Siawusch a manqué de le tuer, tant il m’a maltraitée et le monde est devenu étroit et sombre devant mes yeux.»
+> Je porte, ô roi, dans mon sein un enfant de toi ; mais Siawusch a manqué de le tuer, tant il m’a maltraitée et le monde est devenu étroit et sombre devant mes yeux. »
 
 Le roi dit en lui-même :
 
@@ -86,7 +86,7 @@ Le roi dit en lui-même :
 >
 > Il ne faut pas que je me hâte en cette affaire, car l’angoisse du cœur confond le jugement.
 >
-> Il faut d’abord que j’examine et mon cœur prononcera quand le calme y sera rentré ; je verrai qui des deux est criminel et digne des scorpions de la punition.»
+> Il faut d’abord que j’examine et mon cœur prononcera quand le calme y sera rentré ; je verrai qui des deux est criminel et digne des scorpions de la punition. »
 
 Il chercha alors un moyen de reconnaître la vérité et commença par sentir les mains de Siawusch ; il flaira sa poitrine et son visage et de la tête aux pieds il flaira tout son corps.
 
@@ -108,4 +108,4 @@ Ainsi Siawusch fut déclaré innocent et le roi reconnut sa sagesse.
 
 Il lui dit :
 
-> Ne pense plus à ce chagrin, arme-toi de sens et de prudence, ne parle pas de ce qui est arrivé, ne le confie à personne, car il ne faut pas que cette aventure s’ébruite.»
+> Ne pense plus à ce chagrin, arme-toi de sens et de prudence, ne parle pas de ce qui est arrivé, ne le confie à personne, car il ne faut pas que cette aventure s’ébruite. »
