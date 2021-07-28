@@ -49,7 +49,7 @@ Rustem dit en son cœur :
 >
 > La lutte avec le Div blanc n’a été qu’un jeu pour moi et maintenant le cœur me manque devant un homme, devant le bras de quelqu’un qui n’est pas un des maîtres du monde, ni un héros, ni un homme illustre parmi les grands !
 >
-> Je me suis retiré fatigué du combat, pendant que deux armées le regardaient.»
+> Je me suis retiré fatigué du combat, pendant que deux armées le regardaient. »
 
 Lorsque les chevaux des deux combattants furent reposés des fatigues de la lutte et de la bataille, le jeune homme et le vieillard bandèrent leurs arcs ; mais étant couverts de cottes de mailles, d’armures et de cuirasses de peau de léopard, les flèches de roseau et leurs pointes de fer ne leur firent aucun mal.
 
@@ -71,7 +71,7 @@ Sohrab sourit et lui dit :
 
 > Ô cavalier !
 >
-> Tu n’es pas ferme sous les coups des braves et l’on dirait que Raksch est un âne dans le combat ; mais les deux mains d’un héros surpassent tout en force et un vieillard, quelque haute que soit sa taille, est insensé s’il veut faire ce que fait un jeune homme.»
+> Tu n’es pas ferme sous les coups des braves et l’on dirait que Raksch est un âne dans le combat ; mais les deux mains d’un héros surpassent tout en force et un vieillard, quelque haute que soit sa taille, est insensé s’il veut faire ce que fait un jeune homme. »
 
 Ils se quittèrent épuisés ; ils s’étaient rendu le monde si étroit, qu’ils se détournèrent l’un de l’autre et se séparèrent, le cœur et l’âme en souci.
 
@@ -99,7 +99,7 @@ Il poussa un cri comme un lion féroce et lui dit :
 
 Sohrab lui répondit :
 
-> L’armée du Touran s’est abstenue du combat et n’a fait aucun mal ; mais tu l’as attaquée le premier, pendant que personne ne cherchait à te combattre et à lutter contre toi.»
+> L’armée du Touran s’est abstenue du combat et n’a fait aucun mal ; mais tu l’as attaquée le premier, pendant que personne ne cherchait à te combattre et à lutter contre toi. »
 
 Rustem lui dit :
 
@@ -107,4 +107,4 @@ Rustem lui dit :
 >
 > Puisses-tu ne jamais mourir, puisque tu manies l’épée pendant que tu lèvres sentent encore le lait !
 >
-> Nous reviendrons à l’aube du jour avec nos épées ; va maintenant, en attendant que la volonté de Dieu se fasse.»
+> Nous reviendrons à l’aube du jour avec nos épées ; va maintenant, en attendant que la volonté de Dieu se fasse. »
