@@ -367,6 +367,13 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Mobcd/g, 'Mobed'),
     (content: string) => content.replace(/que ce vous /g, 'que vous '),
     (content: string) => content.replace(/etla /g, 'et la '),
+    (content: string) => content.replace(/!»/g, '! »'),
+    (content: string) => content.replace(/\.»/g, '. »'),
+    (content: string) => content.replace(/ lafoule /g, ' la foule '),
+    (content: string) => content.replace(/ lafoule /g, ' la foule '),
+    (content: string) => content.replace(/ lesoleil /g, ' le soleil '),
+    (content: string) => content.replace(/lesyeux/g, 'les yeux'),
+    (content: string) => content.replace(/douleuril/g, 'douleur il'),
   ].forEach((format) => {
     result = format(result);
   });
