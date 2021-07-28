@@ -395,6 +395,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ roi\. q/g, ' roi q'),
     (content: string) => content.replace(/ sa\. /g, ' sa '),
     (content: string) => content.replace(/ s’était\. /g, ' s’était '),
+    (content: string) => content.replace(/ renl’erme /g, ' renferme '),
+    (content: string) => content.replace(/millel’/g, 'mille '),
+    (content: string) => content.replace(/ en’/g, ' en '),
+    (content: string) => content.replace(/\. u/g, ' u'),
   ].forEach((format) => {
     result = format(result);
   });
