@@ -38,13 +38,13 @@ Guersiwez dit :
 >
 > Tu veux aujourd’hui les amener follement à une alliance, comme si tu pouvais conjurer l’orage.
 >
-> Si je t’avais caché ce danger, j’aurais rendu mon nom infâme dans le monde.»
+> Si je t’avais caché ce danger, j’aurais rendu mon nom infâme dans le monde. »
 
 Le roi s’affligea de ces paroles et l’idée de ce fâcheux avenir le frappa ; il répondit à Guersiwez :
 
 > C’est ton amour fraternel qui s’est ému pour moi et qui a guidé ton cœur.
 >
-> Pensons pendant trois jours à cette affaire et nous pourrons alors nous décider plus mûrement ; et quand je me serai assuré si quelque péril nous menace, je dirai quel remède tu dois y apporter.»
+> Pensons pendant trois jours à cette affaire et nous pourrons alors nous décider plus mûrement ; et quand je me serai assuré si quelque péril nous menace, je dirai quel remède tu dois y apporter. »
 
 Le quatrième jour Guersiwez se présenta à la cour, le casque en tête, la ceinture serrée autour des reins.
 
@@ -72,7 +72,7 @@ Il lui dit :
 >
 > Je ne connais que Siawusch à qui je voulusse donner le nom de fils et tu veux que je le renvoie à son père !
 >
-> Si jamais il a envie d’un trône et d’un sceau, ce n’est pas mon pays qu’il subjuguera.»
+> Si jamais il a envie d’un trône et d’un sceau, ce n’est pas mon pays qu’il subjuguera. »
 
 Guersiwez lui répondit :
 
@@ -116,7 +116,7 @@ Si je rappelais Siawusch à ma cour, je saurais découvrir ses intentions secrè
 >
 > Mais personne n’a vu d’alliance entre le lion et l’éléphant, personne n’a vu le feu sortir de l’eau.
 >
-> On aurait beau coucher dans de la soie un lionceau qui n’aurait pas encore bu du lait de sa mère, le nourrir délicatement de lait et de sucre et l’élever constamment dans son sein, il reprendra son naturel aussitôt qu’il aura grandi et n’aura pas peur des forces du puissant éléphant.»
+> On aurait beau coucher dans de la soie un lionceau qui n’aurait pas encore bu du lait de sa mère, le nourrir délicatement de lait et de sucre et l’élever constamment dans son sein, il reprendra son naturel aussitôt qu’il aura grandi et n’aura pas peur des forces du puissant éléphant. »
 
 Afrasiab fut pris dans les liens de ce discours, il en fut attristé et les soucis ne le quittèrent plus.
 
@@ -124,7 +124,7 @@ Mais il aimait mieux attendre que se hâter ; car c’est le prudent qui finit p
 
 Un sage a dit là-dessus :
 
-> Quand un vent s’élève inopinément, tu pourras lui résister si tu montres de la pmdence ; mais un homme dont la tête est légère ne deviendra jamais puissant, quand même ce serait un brave à la stature de cyprès.»
+> Quand un vent s’élève inopinément, tu pourras lui résister si tu montres de la pmdence ; mais un homme dont la tête est légère ne deviendra jamais puissant, quand même ce serait un brave à la stature de cyprès. »
 
 Afrasiab et Guersiwez se quittèrent inquiets, la bouche remplie de paroles, le cœur plein d’une haine excitée par le souvenir des temps anciens.
 
@@ -152,4 +152,4 @@ Tu lui diras :
 >
 > Pourquoi repousserais-tu notre vin et nos coupes ?
 >
-> Ne pense pluslau trône des Keïanides et resserre ta ceinture pour le départ.»
+> Ne pense pluslau trône des Keïanides et resserre ta ceinture pour le départ. »
