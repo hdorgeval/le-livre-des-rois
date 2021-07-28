@@ -64,4 +64,4 @@ Guersiwez répondit :
 >
 > Et s’il se rend avec son armée dans l’Iran, qui osera l’y attaquer ?
 >
-> Tu ne fais pas attention à ses trames et plus tard tu auras à frémir de ses projets.»
+> Tu ne fais pas attention à ses trames et plus tard tu auras à frémir de ses projets. »
