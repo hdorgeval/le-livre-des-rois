@@ -98,7 +98,7 @@ Il lui demanda des nouvelles de son pays et de son maître et lui dit :
 
 Piran lui baisa la tête et les pieds, ainsi que ce beau visage qui ravissait les cœurs ; il dit en s’adressant àDieu le créateur :
 
-> Ô maître de tout ce qui est Il. 9 2
+> Ô maître de tout ce qui est Il. 2
 >
 > 2M : connu et inconnu, si tu m’avais montré seulement en songe un être aussi intelligent, tu aurais rajeuni ma vieillesse.
 >
