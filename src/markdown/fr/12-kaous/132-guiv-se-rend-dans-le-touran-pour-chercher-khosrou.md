@@ -49,7 +49,7 @@ rais à m’en repentir.
 >
 > Quand tu laves tes joues pour prier Dieu, prie aussi pour moi le Créateur, qui est plus puissant que toute puissance et dont tous les rois sont esclaves, sans la volonté duquel le ciel ne tournerait pas, sans l’ordre duquel il n’y aurait ni sommeil ni nourriture, qui a créé la terre et le ciel et ce qui est fort et ce qui est faible.
 >
-> Il est la source de l’espoir et de la crainte, il est le maître de l’eau, du feu, du vent et de la terre, puisse-t-il être mon protecteur et me guider jusqu’auprès du roi glorieux !»
+> Il est la source de l’espoir et de la crainte, il est le maître de l’eau, du feu, du vent et de la terre, puisse-t-il être mon protecteur et me guider jusqu’auprès du roi glorieux ! »
 
 Le père était vieux et le fils était vaillant et semblable à un lion qui ouvre la gueule pour le combat.
 
@@ -65,7 +65,7 @@ Le vieux Gouderz adressa ses prières à Dieu, disant :
 >
 > KI-. raison ; je le le confie pour qu’il délivre mon pays de ses maux.
 >
-> Rends-Ie-moi, ô Seigneur !»
+> Rends-Ie-moi, ô Seigneur ! »
 
 Ceux qui ont souffert dans la vie beaucoup de peines et qui les ont supportées pour acquérir du pouvoir, n’ont à la fin d’autre couche que la poussière ; le monde ne leur donne que du poison, un poison contre lequel il n’y a pas de remède.
 
@@ -77,7 +77,7 @@ Le monde t’offre beaucoup de délices, pourquoi te donneraistu de la peine pou
 
 Tu travailles, mais un autre jouira du fruit de tes travaux à son aise et sans jeter un regard sur ton tombeau et sur ta bière.
 
-Et lui, à son tour, verra la fin de ses joies, et la poussière recouvrira sa tête.
+Et lui, à son tour, verra la fin de ses joies et la poussière recouvrira sa tête.
 
 Pense que les jours s’en vont ; fais ton occupation des prières à Dieu le tout juste.
 
@@ -119,23 +119,23 @@ Une fois il prit pour guide un homme du peuple ; il le suivit avec précaution e
 
 > J’ai à t’adresser en confidence une question.
 >
-> Si tu agis envers moi avec droiture, si tu écartes de ton cœur toute fausseté et tout mensonge, je te donnerai tout ce que tu voudras, je ne te refuserai pas ma vie et mon corps.»
+> Si tu agis envers moi avec droiture, si tu écartes de ton cœur toute fausseté et tout mensonge, je te donnerai tout ce que tu voudras, je ne te refuserai pas ma vie et mon corps. »
 
 Le Turc répondit :
 
 > Il y a beaucoup de choses qui sont connues, mais la connaissance en est répartie entre tous les hommes.
 >
-> Si je sais ce que tu me demanderas, ma langue ne te refusera pas une réponse.»
+> Si je sais ce que tu me demanderas, ma langue ne te refusera pas une réponse. »
 
 Alors Guiv lui demanda :
 
 > Où
 est Keï Khosrou ?
 >
-> Il faut que tu me répondes selon la vérité.»
+> Il faut que tu me répondes selon la vérité. »
 
 Le Turc répondit :
 
-> Je n’en ai jamais entendu parler et n’ai jamais fait de question à personne sur un homme de ce nom.»
+> Je n’en ai jamais entendu parler et n’ai jamais fait de question à personne sur un homme de ce nom. »
 
 Guiv ayant reçu cette réponse de son guide, le frappa de son épée et lui abattit la tête.
