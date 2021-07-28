@@ -36,7 +36,7 @@ Warazad sortit du centre de l’armée, s’avança rapidement vers Faramourz et
 >
 > N’as-tu donc jamais entendu parler d’Afrasiab, de sa dignité, de son trône et de sa couronne royale ?
 >
-> Il faudrait me dire ton nom ; car tu succomberas dans cette entreprise et je ne voudrais pas que ma main fit quitter à ton âme ce corps terrestre sans que l’on sût ton nom.»
+> Il faudrait me dire ton nom ; car tu succomberas dans cette entreprise et je ne voudrais pas que ma main fit quitter à ton âme ce corps terrestre sans que l’on sût ton nom. »
 
 Faramourz lui dit :
 
@@ -48,7 +48,7 @@ Faramourz lui dit :
 >
 > Rustem me suit avec une armée, lui qui sait vaincre tous ses ennemis.
 >
-> Il s’est ceint pour venger Siawusch, il s’est mis en marche comme un lion féroce ; il va porter la destruction dans le Touron et l’air n’osera pas disperser la poussière qu’il va soulever.»
+> Il s’est ceint pour venger Siawusch, il s’est mis en marche comme un lion féroce ; il va porter la destruction dans le Touron et l’air n’osera pas disperser la poussière qu’il va soulever. »
 
 Warazad entendit ces paroles et sentit qu’il était inutile de disputer ; il donna à son armée l’ordre de s’ébranle] ; et de bander les arcs.
 
@@ -60,7 +60,7 @@ Dans une seule attaque il renversa mille braves et décida du sort de la bataill
 
 Ensuite, il l’enleva de sa selle à peau de léopard, tu aurais dit qu’il tenait dans la main une mouche ; il le jeta par terre. descendit de cheval, bénit le nom de Siawusch, lui trancha la tête et couvrit de sang sa tunique, disant :
 
-> Voici les prémices de la vengeance ; on a semé la haine et l’on recueille la guerre.»
+> Voici les prémices de la vengeance ; on a semé la haine et l’on recueille la guerre. »
 
 Il porta le feu dans tout le pays et la fumée s’é-
 Ieva jusqu’au ciel sublime.
@@ -69,4 +69,4 @@ Ensuite, il écrivit une lettre à son père sur le sort de Warazad qui avait é
 
 > J’ai ouvert la porte de la vengeance et de la guerre, j’ai enlevé Warrazad de la selle de peau de léopard, je lui ai tran-3 : .
 >
-> h ché la tête pour venger Siawusch, j’ai déVasté par le feu son royaume.»
+> h ché la tête pour venger Siawusch, j’ai déVasté par le feu son royaume. »
