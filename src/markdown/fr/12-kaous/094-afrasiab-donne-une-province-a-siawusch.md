@@ -36,7 +36,7 @@ Le huitième jour Siawusch alla de grand matin au palais du roi avec Piran le h�
 >
 > Puissent tes jours être heureux à jamais !
 >
-> Puisse le dos de tes ennemis rester courbé !»
+> Puisse le dos de tes ennemis rester courbé ! »
 
 Ensuite ils se mirent en route joyeusement et s’entretinrent longuement du roi.
 
@@ -46,7 +46,7 @@ La sphère du ciel tourna ainsi de nouveau pendant une année en veillant sur Si
 
 > Ô prince illustre !
 >
-> Je t’ai donné toutes les provinces qui s’étendent d’ici à la Chine ; fais maintenant le tour de ces contrées et examine ce pays ; fixe-toi joyeusement dans une ville où tu puisses espérer du repos, qui le plaise et qui satisfasse à tous tes désirs ; soisy heureux et ne laisse jamais ton cœur renoncer à la joie.»
+> Je t’ai donné toutes les provinces qui s’étendent d’ici à la Chine ; fais maintenant le tour de ces contrées et examine ce pays ; fixe-toi joyeusement dans une ville où tu puisses espérer du repos, qui le plaise et qui satisfasse à tous tes désirs ; soisy heureux et ne laisse jamais ton cœur renoncer à la joie. »
 
 Siawusch écouta ces paroles et son cœur s’en réjouit ; il fit sonner les trompettes, battre les timbales et charger les bagages.
 
@@ -70,14 +70,14 @@ Siawusch dit à Piran :
 
 > Voici un beau pays ; j’établirai ici une résidence au.
 >
-> magnifique qui ouvrira mon cœur à la joie ; je bâtirai une ville immense, renfermant beaucoup de palais et de janlius ; je ferai élever un château qui touchera à la lune et qui sera digne du maître de la couronne et du trône.»
+> magnifique qui ouvrira mon cœur à la joie ; je bâtirai une ville immense, renfermant beaucoup de palais et de janlius ; je ferai élever un château qui touchera à la lune et qui sera digne du maître de la couronne et du trône. »
 
 Piran lui répondit :
 
 > 0
 toi qui ne veux que le bien !
 >
-> Si tu me le permets, je vais bâtir, à l’endroit sur lequel ta pensée se fixera, un palais qui s’élèvera jusqu’à la lune ; je ne veux plus posséder de terres ni de trésors, car le monde entier m’est devenu indill’érent à cause de toi.»
+> Si tu me le permets, je vais bâtir, à l’endroit sur lequel ta pensée se fixera, un palais qui s’élèvera jusqu’à la lune ; je ne veux plus posséder de terres ni de trésors, car le monde entier m’est devenu indill’érent à cause de toi. »
 
 Siawusch lui répondit :
 
@@ -86,4 +86,4 @@ tu feras porter du fruit à l’arbre de ma puissance.
 >
 > Tous mes trésors et tout mon bonheur, je te les dois ; et la première chose qui me frappe partout, c’est la peine que tu te donnes pour moi.
 >
-> Je vais rebâtir ici moi-même une ville qui fera l’étonnement a des hommes.»
+> Je vais rebâtir ici moi-même une ville qui fera l’étonnement a des hommes. »
