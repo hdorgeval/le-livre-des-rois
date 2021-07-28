@@ -22,7 +22,7 @@ Afrasiab s’adressa à ses braves et leur dit :
 >
 > Conduisez-vous au moins pour aujourd’hui comme des léopards.
 >
-> Assaillez-les de tous côtés et combattez ; accablez-les partout ; portez les pointes de vos lances jusqu’au soleil et faites-le descendre sur la terre.»
+> Assaillez-les de tous côtés et combattez ; accablez-les partout ; portez les pointes de vos lances jusqu’au soleil et faites-le descendre sur la terre. »
 
 Il s’élança du centre de l’armée du Touran, et, le cœur blessé et avide de vengeance, il se jeta sur l’aile que commandait Thous.
 
@@ -68,7 +68,7 @@ Quand il lui eut échappé, Rustem retourna vers la siens plein de colère et le
 
 Rustem lui répondit :
 
-> Quand le bras d’un brave fait pleuvoir des coups de massue, ni le rocher ni l’enclume ne lui résistent ; il faut pour frapper ainsi, avoir surtout une poitrine et un bras : mais quand Houman manie sa massue, tu dirais qu’elle est de cire et non pas de fer.»
+> Quand le bras d’un brave fait pleuvoir des coups de massue, ni le rocher ni l’enclume ne lui résistent ; il faut pour frapper ainsi, avoir surtout une poitrine et un bras : mais quand Houman manie sa massue, tu dirais qu’elle est de cire et non pas de fer. »
 
 Lorsque Rustem fut revenu de cercombat et que le vaillant Houman se fut enfui, toute l’armée fit entendre un cri,tous les braves élevèrent leurslances ses jusqu’aux nues ; on ne voyait partout que tués et blessés, on aurait dit :
 
