@@ -34,7 +34,7 @@ Des milliers d’ennemis t’entoureraient comme des fourmis et briseraient cett
 
 Un lion bondissant a dit :
 
-> Quand l’heure d’une gazelle est venue, le sort compte ses respirations et elle court se jeter dans mes griffes C’est ainsi que le sort t’amène maintenant devant moi et devant cette armée renommée.»
+> Quand l’heure d’une gazelle est venue, le sort compte ses respirations et elle court se jeter dans mes griffes C’est ainsi que le sort t’amène maintenant devant moi et devant cette armée renommée. »
 
 Le terrible Guiv, le puissant Pehlewan, chef des braves, poussa un cri de rage et dit :
 
@@ -77,4 +77,4 @@ je poserai sur sa tête la couronne qui réjouit les cœurs ; ensuite je me rev�
 >
 > Puisses-tu te trouver sans couronne, sans trône et sans patrie !
 >
-> Le nœud de mon lacet va être ta mort et ton casque et ta cuirasse te serviront de linceul.»
+> Le nœud de mon lacet va être ta mort et ton casque et ta cuirasse te serviront de linceul. »
