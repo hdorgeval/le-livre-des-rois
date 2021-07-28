@@ -34,6 +34,6 @@ Gouderz fut affligé quand ilvit le fils du roi si attristé ; quand il vit ce n
 >
 > Quiconque naît d’une mère doit mourir et personne n’a jamais soustrait sa vie à la main de la destinée.
 >
-> Quelque chère que te fût ta mère, elle est dans le ciel ; ne la pleure pas.»
+> Quelque chère que te fût ta mère, elle est dans le ciel ; ne la pleure pas. »
 
 C’est ainsi que par mille consolations et mille conseils, par des tendresses et des avis, il tranquillisa le cœur du fils du roi.
