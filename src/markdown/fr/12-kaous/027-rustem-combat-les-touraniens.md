@@ -22,7 +22,7 @@ Guiv adressa alors au Pehlewan ces paroles :
 >
 > Je pars pour couper le chemin a Afrasiab et ne veux pas attendre qu’il ait traversé le fleuve.
 >
-> J’occuperai la tête du pont pour la défendre contre ce méchant ; je l’arrêterai pendant quelque temps sur l’autre rive du fleuve, afin que les braves puissent se revêtir de leurs armes ; car le temps du plaisir et des propos joyeux est passé pour nous.»
+> J’occuperai la tête du pont pour la défendre contre ce méchant ; je l’arrêterai pendant quelque temps sur l’autre rive du fleuve, afin que les braves puissent se revêtir de leurs armes ; car le temps du plaisir et des propos joyeux est passé pour nous. »
 
 Il courut vers le pont, après avoir assujetti à la corde les deux bouts de l’arc.
 
@@ -56,7 +56,7 @@ Tandis que les yeux des Touraniens s’obscurcissaient et que Rustem élevait so
 >
 > val contre les Iraniens ; va et délivre d’eux ce pays.
 >
-> Si tu peux les vaincre, l’Iran t’appartiendra ; car tu as le corps d’un éléphant et la griffe d’un lion.»
+> Si tu peux les vaincre, l’Iran t’appartiendra ; car tu as le corps d’un éléphant et la griffe d’un lion. »
 
 Piran, à ces paroles d’Afrasiab, s’élança du milieu des grands,’tel qu’un ouragan.
 
@@ -73,4 +73,4 @@ Afrasiab l’observait de loin et il dit à ses guerriers de grand renom :
 >
 > C’est un combat qu’il ne fallait pas engager.
 >
-> Nous sommes venus lutter contre les braves du pays d’Iran ; quand nous avons délibéré, nous nous sommes crus des lions ; mais maintenant, voyant que nous sommes trop faibles, il faut nous confier aux ruses du renard.»
+> Nous sommes venus lutter contre les braves du pays d’Iran ; quand nous avons délibéré, nous nous sommes crus des lions ; mais maintenant, voyant que nous sommes trop faibles, il faut nous confier aux ruses du renard. »
