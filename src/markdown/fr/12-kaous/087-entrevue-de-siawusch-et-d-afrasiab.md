@@ -58,7 +58,7 @@ Ensuite, il se tourna vers Piran, disant :
 >
 > Le l’ai vu en songe et mon cœur en a été confondu.
 >
-> Quand un homme a un pareil fils, comment peut-il laisser errer ses yeux dans le monde pour chercher autre chose que lui?»
+> Quand un homme a un pareil fils, comment peut-il laisser errer ses yeux dans le monde pour chercher autre chose que lui ? »
 
 N Ensuite, il choisit un de ses palais et le tendit entièrement de tissus d’or ; on y plaça un trône d’or dont les pieds avaient la forme de têtes de buffles ; on le couvrit de brocarts d’or ; on demanda du»
 
