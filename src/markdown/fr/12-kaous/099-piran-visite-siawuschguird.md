@@ -35,7 +35,7 @@ Le Sipehdar Piran visita tout et appela sur Siawusch les bénédic-à tions de D
 > Puisse ton drapeau rester, jusqu’au jour de la résurrection, entouré de grands et de braves !
 >
 > Puissent tes fils, de génération en génération, rester heureux comme toi, maîtres du monde, victorieux et de noble na-
-R ture.»
+R ture. »
 
 Ayant parcouru une partie de cette belle ville, il se rendit au palais et au jardin de Siawusch, et, rempli de bonheur, de gaieté et d’ambition, il se dirigea vers la demeure de Ferenguis.
 
@@ -58,7 +58,7 @@ Il arriva joyeusement à son palais, se rendit à l’appartement de ses femmes 
 >
 > Fais joyeusement un av peu de chemin pour aller voir la ville de Siawusch et le maître de la ville plus brillant qu’elle ; tu dirais qu’il illumine tout l’Occident.
 >
-> Tu y verras Ferenguis, belle et brillante et semblable à la lune de deux semaines, se tenant à côté du soleil.»
+> Tu y verras Ferenguis, belle et brillante et semblable à la lune de deux semaines, se tenant à côté du soleil. »
 
 De là Piran se rendit auprès d’Afrasiab rapidement comme une barque qui vole sur l’eau.
 
@@ -79,6 +79,6 @@ Quiconque a vu de ses yeux le gai paradis au mois d’Ardibehischt ne peut le di
 >
 > Enfin les deux pays qui se combattaient et étaient en guerre sont maintenant en repos, comme un insensé qui recouvre la raison.
 >
-> Puissent le cœur des hommes de sens et la volonté des grands rester ainsi disposés à tout jamais !»
+> Puissent le cœur des hommes de sens et la volonté des grands rester ainsi disposés à tout jamais ! »
 
 Le roi fut ravi de ces paroles, car il vit que son rejeton fertile portait du fruit.
