@@ -24,13 +24,13 @@ Siab les fit appeler, leur assigna des places d’honneur près de lui et leur p
 
 Il s’adresse en ces termes aux sages renommés, aux astrologues et aux Mobeds :
 
-> Personne au monde ne doit entendre parler, ni en public ni en secret, de ce songe et de ce que je vais vous raconter ; et si quelqu’un laisse échapper de ses lèvres un mot sur cette affaire, je lui trancherai la tête.»
+> Personne au monde ne doit entendre parler, ni en public ni en secret, de ce songe et de ce que je vais vous raconter ; et si quelqu’un laisse échapper de ses lèvres un mot sur cette affaire, je lui trancherai la tête. »
 
 Il leur donna beaucoup d’or et d’argent, pour qu’aucun d’eux, effrayé par ces paroles, ne s’éloignât ; ensuite il leur raconta son rêve.
 
 Lorsque le grand Mobed eut entendu ce récit, il eut peur et demanda au roi une promesse, disant :
 
-> Qui pourrait interpréter ce rêve selon la vérité ? à moins que le roi ne fasse une convention avec son esclave et ne nous donne sa parole pour garantir que nous pouvons lui dévoiler tout ce que nous avons à dire, sans que nous ayons à souffrir de violences.»
+> Qui pourrait interpréter ce rêve selon la vérité ? à moins que le roi ne fasse une convention avec son esclave et ne nous donne sa parole pour garantir que nous pouvons lui dévoiler tout ce que nous avons à dire, sans que nous ayons à souffrir de violences. »
 
 Le roi prit l’engagement qu’on lui demandait et promit de ne leur faire au-cun mal.
 
@@ -50,7 +50,7 @@ Il dit :
 >
 > Quand même le roi deviendrait un oiseau ailé, il ne pourrait sortir de cette sphère qui tourne.
 >
-> C’est ainsi que le ciel accompfit sa rotation, tantôt rempli de colère, tantôt plein d’amour.»
+> C’est ainsi que le ciel accompfit sa rotation, tantôt rempli de colère, tantôt plein d’amour. »
 
 À ces paroles, Afrasiab devint soucieux et ne se hâta pas de commencer la guerre.
 
@@ -68,4 +68,4 @@ Il dévoila à Guersiwez ces secrets et lui raconta les paroles mystérieuses qu
 >
 > Minoutchehr n’a pas divisé le monde selon la justice et a fait trop grande la part du roi de l’Iran ; mais en ne touchant pas à la distribution de la terre, telle qu’elle a été faite anciennement, j’espère que ces malheurs ne me frapperont pas et que ces deux flammes s’éteindront dans l’eau du Quand j’aurai cousu avec de l’or l’œil de tout prétexte de guerre, il faudra bien que le ciel m’épargne les malheurs.
 >
-> Je ne demande pas d’autre sort que ce qui est écrit ; car il faut que toute chose croisse, telle que Dieu l’a semée.»
+> Je ne demande pas d’autre sort que ce qui est écrit ; car il faut que toute chose croisse, telle que Dieu l’a semée. »
