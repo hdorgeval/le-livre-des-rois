@@ -35,7 +35,7 @@ V avec ardeur et je crains que notre vie ne tire àsa fin.
 >
 > S’ils t’atteignent, ils te tueront et la douleur que nous causera ta perte sera une torture pour nous.
 >
-> Ils nous mèneront moi et mon fils devant Afrasiab, chargés de chaînes et les yeux remplis de larmes et je ne sais quels malheurs s’ensuivront ; car qui peut connaître le secret du ciel sublime?»
+> Ils nous mèneront moi et mon fils devant Afrasiab, chargés de chaînes et les yeux remplis de larmes et je ne sais quels malheurs s’ensuivront ; car qui peut connaître le secret du ciel sublime ? »
 
 Guiv lui répondit :
 
