@@ -31,13 +31,13 @@ qui est-ce qui a osé se mesurer avec toi dans le combat ?
 >
 > Dans cette ville, nous sommes tous tes amis, tous debout pour attendre tes ordres et ta KEI nous. volonté.
 >
-> Tu es le maître de nos personnes et de nos trésors ; le cœur des nobles et mon âme sont à toi.»
+> Tu es le maître de nos personnes et de nos trésors ; le cœur des nobles et mon âme sont à toi. »
 
 Lorsque Rustem entendit ces paroles, il reconnut que le roi n’avait pas de mauvais desseins et lui répondit :
 
 > Mon cheval Raksch s’est éloigné de moi dans cette prairie, sans rênes et sans mors ; les traces de ses pieds vont de la rivière et des roseaux jusqu’à Semengan.
 >
-> Si tu me le retrouves, tu en recevras mes remerclinents et tu obtiendras la ré-œcompense due à ceux qui font le bien ; mais si Rakseh ne se trouve plus, je trancherai la tête à beaucoup de grands.»
+> Si tu me le retrouves, tu en recevras mes remerclinents et tu obtiendras la ré-œcompense due à ceux qui font le bien ; mais si Rakseh ne se trouve plus, je trancherai la tête à beaucoup de grands. »
 
 Le roi lui répondit :
 
