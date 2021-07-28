@@ -26,7 +26,7 @@ Quelqu’un porta cette nouvelle à Afrasiab en disant :
 >
 > Une grande armée l’entoure et il n’a plus peur de personne ; Mais pourquoi faire de longs discours ?
 >
-> Il cufit de dire qu’il montre une bravoure au-dessus de celle de sa race.»
+> Il cufit de dire qu’il montre une bravoure au-dessus de celle de sa race. »
 
 Afrasiab entendit ces paroles et en fut réjoui ; il sourit et ne cacha pas son contentement ; il choisit, parmi les chefs courageux de son armée, des hommes qui marchaient fièrement avec leurs lourdes massues, des Sipehbeds comme Houman et Barman qui n’hésitaieut pas dans le combat des lions ; il leur confia douze mille guerriers pleins de cœur, l’élite de son armée.
 
@@ -41,7 +41,7 @@ Ensuite
 >
 > Quand ils seront en présence l’un de l’autre, Rustem voudra sans doute commencer le combat et le vieux guerrier sera peut-être tué par ce lion ; alors nous entrerons dans l’Iran privé de Rustem, nous rendrons le monde étroit devant Kaous ; plus tard nous saisirons Sohrab et une nuit nous le ferons dormir d’un sommeil éternel.
 >
-> Si au contraire Sohrab meurt de la main de son père, le cœur du glorieux Rustem se consumera de douleur.»
+> Si au contraire Sohrab meurt de la main de son père, le cœur du glorieux Rustem se consumera de douleur. »
 
 Les deux Pehlewans plein de prudence partirent pour se rendre auprès de Sohrab à l’âme brillante, se faisant précéder par des présents dignes d’un roi : dix chevaux et dix mules, les uns sellés, les autres chargées, un trône de turquoiSes et une couronne d’ambre ; la couronne était surmontée d’une perle, les degrés du trône étaient d’ivoire.
 
@@ -53,7 +53,7 @@ Ils portaient aussi une lettre adressée au noble guerrier et remplie de flatter
 >
 > Certainement il n’y a jamais eu dans le pays de Tourau des braves 7l et des chefs comme Houman et comme Barman ; je te les envoie pour qu’ils soient tes hôtes pendant quelque temps.
 >
-> Si tu veux faire la guerre, ils la feront avec toi, ils rendront la terre étroite à tes ennemis.»
+> Si tu veux faire la guerre, ils la feront avec toi, ils rendront la terre étroite à tes ennemis. »
 
 Telle était la lettre et le présent digne d’un roi qu’ils emportèrent en conduisant les chevaux et les mules chargées.
 
