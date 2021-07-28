@@ -38,17 +38,17 @@ Guiv en fut affligé, il resta confondu et adressa dans son étonnement des pri�
 
 > Ahriman le rusé a pris la forme d’un cheval et s’est montré à nous sous cette apparence.
 >
-> Maintenant la vie de Khosrou et ma peine sont perdues, ce qui était mon trésor dans le monde a disparu, A et je n’ai eu en partage que des fatigues inutiles.»
+> Maintenant la vie de Khosrou et ma peine sont perdues, ce qui était mon trésor dans le monde a disparu, A et je n’ai eu en partage que des fatigues inutiles. »
 
 Mais le vaillant et prudent roi ayant parcouru la moitié de la montagne, retint Behzad par sa bride noire, attendit que Guiv l’eût rejoint et lui dit :
 
 > Veux-tu queje devine. par la force de mon intelligence, les pensées secrètes, ô Pehlewan’h Guiv repartit : Ô noble roi !
 >
-> Tous les secrets devraient t’être connus et la grâce de Dieu et le pouvoir des Retanides te mettent en état d’entrer dans un cheveu pour voir ce qu’il contient.»
+> Tous les secrets devraient t’être connus et la grâce de Dieu et le pouvoir des Retanides te mettent en état d’entrer dans un cheveu pour voir ce qu’il contient. »
 
 Keï Khosrou lui répondit :
 
-> Tu as des soupçons sur ce cheval de noble race et voici, ô Pehlewan, ce que tu as pensé : Ahriman est venu perdre ce jeune homme ; et maintenant qu’il l’a emporté, toute ma peine est donnée au vent, mon cœur est rempli de souci et le Div triomphe.»
+> Tu as des soupçons sur ce cheval de noble race et voici, ô Pehlewan, ce que tu as pensé : Ahriman est venu perdre ce jeune homme ; et maintenant qu’il l’a emporté, toute ma peine est donnée au vent, mon cœur est rempli de souci et le Div triomphe. »
 
 Le sage Guiv descendit de cheval et appela les grâces de Dieu sur le vaillant roi :
 
@@ -72,7 +72,7 @@ Elle ouvrit devant son fils la porte du trésor, le cœur gonflé de douleur et 
 
 Elle dit à Guiv :
 
-> Ô toi qui as supporté de si grandes fatigues, regarde ces richesses et prends les joyaux que tu voudras, de l’or et des pierreries dignes d’un roi, des rubis et des couronnes incrustées de pierres fines ; car nous ne sommes que les gardiens de ce trésor qui est à toi, qui est la rançon de notre vie et la récompense de tes peines.»
+> Ô toi qui as supporté de si grandes fatigues, regarde ces richesses et prends les joyaux que tu voudras, de l’or et des pierreries dignes d’un roi, des rubis et des couronnes incrustées de pierres fines ; car nous ne sommes que les gardiens de ce trésor qui est à toi, qui est la rançon de notre vie et la récompense de tes peines. »
 
 Le Pehlewan baisa la terre devant elle et lui dit :
 
