@@ -20,7 +20,7 @@ Lorsque le soleil eut disparu du monde et que la nuit noire eut étendu le pan d
 
 Il lui dit :
 
-> Le roi me permet-il de sortir sans casque ni ceinture pour observer ce nouveau maître du monde et pour voir qui sont ses braves et qui est le chef de son armée?»
+> Le roi me permet-il de sortir sans casque ni ceinture pour observer ce nouveau maître du monde et pour voir qui sont ses braves et qui est le chef de son armée ? »
 
 Kaous lui dit :
 
@@ -94,7 +94,7 @@ Guiv reconnut la voix de Buslem, courut à pied vers lui et lui dit :
 
 > Ô prince et ami !
 >
-> Où as-tu été à pied dans la nuit sombre?»
+> Où as-tu été à pied dans la nuit sombre ? »
 
 Tehemten ouvrit la bouche pour lui répondre et raconta ce qu’il avait fait et comment il avait traité
 1m homme au cœur de lion.
@@ -105,7 +105,7 @@ Le noble Guiv invoqua les grâces de Dieu sur lui en disant :
 
 De la Rustem alla auprès du roi et lui fit la description des Turcs et de leur festin, de Sohrab, de sa haute taille et de ses bras prêts pour le combat. disant : Jamais homme comme lui n’a paru chez les Turcs ; il ressemble à un cyprès, tant sa taille est droite ; il n’a d’égal ni dans l’Iran ni dans le Touran ; tu croirais que c’est Sam le cavalier.
 
-Que puisje dire de plus?»
+Que puisje dire de plus ? »
 
 Ensuite, il parla du coup qu’il avait donné à Zendeh Bezm et qui le mettait hors d’état de prendre part aux combats et aux banquets.
 
