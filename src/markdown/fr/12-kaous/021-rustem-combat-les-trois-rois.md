@@ -68,7 +68,7 @@ Le roi du Hamaveran étant arrivé dans sa ville et s’étant concerté avec se
 
 Rustem ayant fait sortir de la forteresse Kaous, Guiv, Gouderz et Thous, déposa dans le tréser du roi de l’Iran les armes des trois armées, les trésors des trois reis, les tentes des troupes, les conrennes et les trônes et y ajouta tout ce qu’il vit de précieux.
 
-Kaous, qui brillait comme le soleil, fit préparer une couche d’or avec des brocarts de Roum. une couronne de rubis et un trône de turquoises ; il fit broder de pierres fines une housse noire et la fit mettre sur une haquenée qui allaitl’amble, dont la tête était ornée de rênes dorées, dent la selle était haute, faite de bois frais d’aleès et incrustée de toute espèce de pierreries.
+Kaous, qui brillait comme le soleil, fit préparer une couche d’or avec des brocarts de Roum une couronne de rubis et un trône de turquoises ; il fit broder de pierres fines une housse noire et la fit mettre sur une haquenée qui allaitl’amble, dont la tête était ornée de rênes dorées, dent la selle était haute, faite de bois frais d’aleès et incrustée de toute espèce de pierreries.
 
 Ensuite, il dit à Soudabeh :
 
