@@ -24,7 +24,7 @@ Siawusch la lança avec la raquette de manière à la faire disparaître ; tu au
 
 Ensuite, il dit aux braves qui cherchaient la gloire :
 
-> Le Meïdan, les raquettes et les balles sont à vous.»
+> Le Meïdan, les raquettes et les balles sont à vous. »
 
 Ils coururent sur la place et enlevèrent en un instant la balle aux Turcs ; Siawusch fut fier des Iraniens et se redressa comme un noble cyprès.
 
@@ -34,7 +34,7 @@ Guersiwez dit à Siawusch :
 
 > Ô roi plein de brar1 voure, héritier des rois, plus illustre encore par la bravoure que par la naissance !
 >
-> Montre aux Turcs ton art à te servir de la pointe de la lance, des flèches et de l’arc, manie les rênes et fais une joute.»
+> Montre aux Turcs ton art à te servir de la pointe de la lance, des flèches et de l’arc, manie les rênes et fais une joute. »
 
 Siawusch posa les mains sur la poitrine en oigne d’ obéissance, quitta le trône où il était assis et monta à cheval.
 
@@ -64,19 +64,19 @@ Guersiwez lui dit :
 >
 > Je n’ai pas d’égal parmi les Turcs et tu ne trouveras pas beaucoup de chevaux comme le mien ; et toi aussi tu n’as pas ton pareil dans le pays d’Iran, ni en force ni en stature.
 >
-> Si je parviens à l’enlever de selle et à te jeter par terre avant que tu t’y attendes, tu reconnaîtras que je suis plus fort que toi, meil-leur cavalier et plus expert dans les jeux du Meidan ; si au contraire tu me jettes par terre, je ne me montrerai plus sur un champ de bataille.»
+> Si je parviens à l’enlever de selle et à te jeter par terre avant que tu t’y attendes, tu reconnaîtras que je suis plus fort que toi, meil-leur cavalier et plus expert dans les jeux du Meidan ; si au contraire tu me jettes par terre, je ne me montrerai plus sur un champ de bataille. »
 
 Siawusch répondit :
 
 > Ne parle pas de celai ; tu es un prince et un lion avide de combats ; ton cheval est le roi du mien et ton casque est sacré pour moi comme Aderguschasp.
 >
-> Désigne un Touranien autre que toi pour qu’il se mesure avec moi sans me garder rancune.»
+> Désigne un Touranien autre que toi pour qu’il se mesure avec moi sans me garder rancune. »
 
 Guersiwez reprit :
 
 > Ô toi qui recherches la gloire !
 >
-> Un jeu ne fait pas naître de la colère, parce que deux hommes luttent ensemble et se saisissent par la ceinture.»
+> Un jeu ne fait pas naître de la colère, parce que deux hommes luttent ensemble et se saisissent par la ceinture. »
 
 Siawusch lui répondit :
 
@@ -92,7 +92,7 @@ Siawusch lui répondit :
 
 Les Turcs ne voulurent ni entendre ni répondre, excepté Gueroui Zereh, qui s’avança, disant :
 
-> rrJe suis digne de ce combat, si Siawusch ne trouve pas d’autre antagoniste.»
+> rrJe suis digne de ce combat, si Siawusch ne trouve pas d’autre antagoniste. »
 
 Le front de Siawusch se rida à ces paroles de Gueroui Zereh et ses joues se contractèrent.
 
@@ -104,7 +104,7 @@ Guersiwez lui dit :
 
 Siawusch lui répondit :
 
-> Puisque je suis dispensé de me battre contre toi, je fais peu de cas d’une lutte contre les grands ; que deux : ! Ü d’entre eux se préparent à se mesurer avec moi dans la lice.»
+> Puisque je suis dispensé de me battre contre toi, je fais peu de cas d’une lutte contre les grands ; que deux : ! Ü d’entre eux se préparent à se mesurer avec moi dans la lice. »
 
 Or il y avait un Turc, un brave qui n’avait pas son pareil en force dans le Touran ; son nom était Demour.
 
@@ -130,4 +130,4 @@ Mais Guersiwez, qui était avide de vengeance, leur dit :
 
 > Il nous est venu du malheur de l’Iran ; le roi a appelé de ce pays un homme qui nous fait asseoir honteusement dans notre sang : deux lions terribles, comme Demour et Gueroui, deux héros pleins d’ardeur pour le combat, étaient faibles, impuissants et sans force entre les mains de ce cavalier seul, au cœur impur.
 >
-> Cette affaire ne finira pas paisiblement ; elle a mal commencé et se terminera mal.»
+> Cette affaire ne finira pas paisiblement ; elle a mal commencé et se terminera mal. »
