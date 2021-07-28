@@ -32,7 +32,7 @@ Il alla auprès de sa mère et lui adressa une question, en lui disant audacieus
 
 > Puisque je suis plus grand que mes frères de lait et que ma tête s’élève plus haut que le ciel, apprends-moi de quelle race je suis et quel est mon lignage et ce que je dois dire quand on me demande le nom de mon père.
 >
-> Si tu refuses de répondre à cette question je ne te laisserai pas vivante parmi les grands de la terre.»
+> Si tu refuses de répondre à cette question je ne te laisserai pas vivante parmi les grands de la terre. »
 
 Sa mère lui répondit :
 
@@ -40,13 +40,13 @@ Sa mère lui répondit :
 >
 > Tu es fils de Rustem, du héros au corps d’éléphant ; tu es issu de la famille de Sam le Destan et de Neriman et ta tête est plus haute que le ciel, parce que tu descends de cette race illustre.
 >
-> Depuis que Dieu a créé le monde, il n’a pas paru un cavalier tel que Rustem ; jamais il n’y a en sur la terre un homme tel que Sam fils de Neriman, dontle ciel dans sa rotation n’ose atteindre la tête.»
+> Depuis que Dieu a créé le monde, il n’a pas paru un cavalier tel que Rustem ; jamais il n’y a en sur la terre un homme tel que Sam fils de Neriman, dontle ciel dans sa rotation n’ose atteindre la tête. »
 
 Puis elle apporta une lettre de Rustem le guerrier et lui montra en secret trois rubis brillants et trois bedrehs d’or que Rustem, dans le temps où Sohrab naquit, avait envoyés du pays d’Iran, en les accompagnant d’un message.
 
 Elle lui dit :
 
-> Regarde ces présents avec reconnaissance ; c’est ton père qui te les envoie, ô mon vaillant fils.»
+> Regarde ces présents avec reconnaissance ; c’est ton père qui te les envoie, ô mon vaillant fils. »
 
 Ensuite elle ajouta :
 
@@ -54,7 +54,7 @@ Ensuite elle ajouta :
 >
 > Puisse-t-il ne pas te prendre en haine et détruire le [ils par inimitié contre le père !
 >
-> En outre, si ton père savait que tu es devenu tel que je te vois, portant haut la tête parmi ceux qui la portent haute, s’il le savait, il t’appellerait auprès de lui et la douleur briserait le cœur de la mère.»
+> En outre, si ton père savait que tu es devenu tel que je te vois, portant haut la tête parmi ceux qui la portent haute, s’il le savait, il t’appellerait auprès de lui et la douleur briserait le cœur de la mère. »
 
 Sohrab lui répondit :
 
