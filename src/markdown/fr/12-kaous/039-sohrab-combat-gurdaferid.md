@@ -28,7 +28,7 @@ Elle descendit du château semblable à une lionne, ceinte au milieu du corps et
 
 Elle se présenta devant l’armée comme un homme de guerre et poussa un cri pareil au tonnerre qui éclate, disant :
 
-> Qui d’entre les braves et les guerriers, les hommes de cœur, les chefs pleins d’expérience, veut, comme. un crocodile courageux, s’essayer à combattre contre moi ? »
+> Qui d’entre les braves et les guerriers, les hommes de cœur, les chefs pleins d’expérience, veut, comme un crocodile courageux, s’essayer à combattre contre moi ? »
 
 Aucun des guerriers de cette armée orgueilleuse ne sortit des rangs pour la combattre ; mais lorsque Sohrab le vainqueur des lions la vit, il sourit, se mordit les lèvres et dit :
 
