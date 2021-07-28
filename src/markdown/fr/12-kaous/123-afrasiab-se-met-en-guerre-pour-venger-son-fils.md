@@ -29,7 +29,7 @@ Afrasiab baissa sa tête couronnée, il arracha ses cheveux, il versa des larmes
 >
 > Cette poitrine, cette taille et cette stature royales !
 >
-> Ton père n’aura plus d’autre siège que la selle de son destrier sur le champ de bataille.»
+> Ton père n’aura plus d’autre siège que la selle de son destrier sur le champ de bataille. »
 
 .Ensuite, il dit à ses braves :
 
@@ -37,7 +37,7 @@ Afrasiab baissa sa tête couronnée, il arracha ses cheveux, il versa des larmes
 >
 > Ne respirons que la vengeance, couvrons-nous de cottes de mailles et de cuirasses, remplissons nos cœurs de haine pour mieux combattre, donnons à nos javelots les corps de nos ennemis pour fourreaux.
 >
-> Quand la voix des timbales s’élève des deux côtés, un brave ne demande plus de délai.»
+> Quand la voix des timbales s’élève des deux côtés, un brave ne demande plus de délai. »
 
 On entendit alors un bruit d’armes et le son des trompettes, des clairons et des cymbales d’airain ; la terre tremblait sous les sabots des chevaux et le bruit de l’armée montait jusqu’au ciel. k sière de la plaine, un homme qui avait été placé en Pendant que cette armée soulevait ainsi la pousvedette accourut auprès de Rustem et lui dit que le roi Afrasiab arrivait avec une armée qui marchait comme un vaisseau sur l’eau, une armée préparée pour la vengeance et le combat et prompte à verser le sang.
 
