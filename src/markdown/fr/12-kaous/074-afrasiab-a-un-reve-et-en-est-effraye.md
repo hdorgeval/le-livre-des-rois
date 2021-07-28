@@ -28,11 +28,11 @@ On avertit Guersiwez que le trône du roi des rois s’était obscurci ; il acco
 
 Il le pressa contre son sein et lui dit :
 
-> Raconte à ton frère ce qui t’est arrivé.»
+> Raconte à ton frère ce qui t’est arrivé. »
 
 Le roi lui répondit :
 
-> Ne me fais pas de questions, ne m’adresse maintenant aucune parole ; et pour que je reprenne mes sens, presse-moi contre toi et tiens-moi ferme un moment.»
+> Ne me fais pas de questions, ne m’adresse maintenant aucune parole ; et pour que je reprenne mes sens, presse-moi contre toi et tiens-moi ferme un moment. »
 
 Quelques instants s’étant ainsi passés, le roi revint à lui et vit le monde rempli de lamentations et de cris.
 
@@ -60,7 +60,7 @@ Le glorieux Afrasiab répondit :
 >
 > Il n’avait pas plus de deux fois sept ans et quand il me vit enchaîné devant lui, il s’élance comme un lion furieux pour me couper en deux avec son épée.
 >
-> Je poussais dans ma peur de longs cris et les cris et la peur m’ont réveillé.»
+> Je poussais dans ma peur de longs cris et les cris et la peur m’ont réveillé. »
 
 Guersiwez lui dit :
 
@@ -68,4 +68,4 @@ Guersiwez lui dit :
 >
 > Il nous faut quelqu’un qui sache interpréter les rêves et qui se soit beaucoup occupé de cet art.
 >
-> Nous appellerons les sages et les astrologues choisis parmi les Mobeds à l’esprit prudent.»
+> Nous appellerons les sages et les astrologues choisis parmi les Mobeds à l’esprit prudent. »
