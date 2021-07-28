@@ -19,13 +19,13 @@ order: '096'
 Lorsqu’ils repartirent de ce beau pays, Siawusch devint pensif et adressa une question aux astrologués, disant :
 
 > J’ai fondé ici une ville : contribue-
-ra-t-elle à ma puissance et à mon bonheur, ou me repentirai-je de ce que j’ai fait?»
+ra-t-elle à ma puissance et à mon bonheur, ou me repentirai-je de ce que j’ai fait ? »
 
 Tous répondirent au roi de la terre :
 
 > Cette fondation ne te promet pas beaucoup de bonheur. »
 
-Siawusch se mit en colère contre les astrologues ; son cœur se remplit de dou-leur et ses yeux furent pleins de larmes.
+Siawusch se mit en colère contre les astrologues ; son cœur se remplit de douleur et ses yeux furent pleins de larmes.
 
 Il tenait mollement les rênes de son cheval et des larmes brûlantes tombaient de ses yeux.
 
@@ -33,7 +33,7 @@ Piran lui dit :
 
 > Ô roi !
 >
-> Pourquoi es-tu devenu si soucieux?»
+> Pourquoi es-tu devenu si soucieux ? »
 
 Siawusch répondit :
 
@@ -105,7 +105,7 @@ Siawusch lui dit :
 >
 > Pourquoi te donnerais-tu de la peine pour les acquérir ?
 >
-> Un autre jouirait après nous de ces trésors et pourquoi un homme sage se fatiguerait-il pour agrandir un ennemi?»
+> Un autre jouirait après nous de ces trésors et pourquoi un homme sage se fatiguerait-il pour agrandir un ennemi ? »
 
 Piran l’écouta et devint soucieux ; son cœur se remplit de douleur à ces paroles ; il se dit :
 
