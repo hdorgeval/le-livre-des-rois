@@ -32,7 +32,7 @@ Il commença par pousser un cri de rage contre Guiv et oubliant toute décence i
 >
 > Prends-le, amène-le, pends-le vivant au gibet et ne prononce plus jamais son g.
 >
-> nom devant moi.»
+> nom devant moi. »
 
 Le cœur de Guiv bondit à ces paroles et il répondit :
 
@@ -85,7 +85,7 @@ Ilustem sor-9l lit, monta sur Raksch et dit :
 >
 > Du vent.
 >
-> Si je n’avais pas amenédans le pays d’Iran Keî Kobad, qui vivait dans la détresse et loin de la foule sur le mont Alborz, tu ne te ceindrais pas de la ceinture royale et du glaive de la vengeance, tu n’aurais pas ce pouvoir et ces richesses qui t’enhardissent à dire ces des paroles dures à Destan fils de Sam.»
+> Si je n’avais pas amenédans le pays d’Iran Keî Kobad, qui vivait dans la détresse et loin de la foule sur le mont Alborz, tu ne te ceindrais pas de la ceinture royale et du glaive de la vengeance, tu n’aurais pas ce pouvoir et ces richesses qui t’enhardissent à dire ces des paroles dures à Destan fils de Sam. »
 
 Puis, il dit aux Iraniens :
 
@@ -93,7 +93,7 @@ Puis, il dit aux Iraniens :
 >
 > Que chacun de vous cherche un moyen de sauver sa vie et qu’il y applique son intelligence.
 >
-> Dorénavant vous ne me verrez plus dans l’Iran ; la terre est à vous et les ailes du vautour sont à moi.»
+> Dorénavant vous ne me verrez plus dans l’Iran ; la terre est à vous et les ailes du vautour sont à moi. »
 
 Il dit, poussa son cheval et les quitta ; tu aurais dit que sa peau se fendait sur son corps.
 
@@ -105,7 +105,7 @@ Ils dirent à Gouderz :
 >
 > Car le Sipehbed, quoiqu’il ne veuille pas entendre nos paroles, aura sans doute égard à tes conseils.
 >
-> Va auprès de ce roi insensé et parle-lui longuement de ce qui est arrivé, parle-lui avec douceur et avec patience ; il se peut que tu ramènes la fortune qui s’éloigne de nous.»
+> Va auprès de ce roi insensé et parle-lui longuement de ce qui est arrivé, parle-lui avec douceur et avec patience ; il se peut que tu ramènes la fortune qui s’éloigne de nous. »
 
 Alors tous les grands pleins de courage, tels que Guiv, Gouderz et Bahram le brave, tels que Rehham et Gourguin le vaillant cavalier, s’assirent ensemble, discourant entre eux et se disant l’un à l’autre :
 
@@ -126,7 +126,7 @@ Alors tous les grands pleins de courage, tels que Guiv, Gouderz et Bahram le bra
 >
 > Il a ramené Kaous sur le trône, il s’est prosterné devant lui dans la joie de son âme.
 >
-> Si un gibet doit être se récompense, il ne nous reste plus qu’à nous enfuir ; et pourtant c’est le moment de combattre, car le sort nous serre de près.»
+> Si un gibet doit être se récompense, il ne nous reste plus qu’à nous enfuir ; et pourtant c’est le moment de combattre, car le sort nous serre de près. »
 
 Le Sipehdar Gouderz fils de Keschwad partit, se rendit auprès du roi et lui dit :
 
@@ -142,7 +142,7 @@ Guzdehem a entendu parler de tous tes guerriers et les a vus grands et petits et
 
 > Puisse ne jamais arriver le jour ou un cavalier ose penser à le combattre !
 >
-> Insensé serait quiconque l’attaquerait, eût-il la bravoure de Rustem.»
+> Insensé serait quiconque l’attaquerait, eût-il la bravoure de Rustem. »
 
 Le roi écouta les paroles de Gouderz, il sentit qu’elles étaient conformes aux convenances et à la raison ; il fut honteux de ce qui s’était passé et confondu de sa conduite insensée.
 
@@ -154,7 +154,7 @@ Il répondit :
 >
 > Il faut vous rendre au-près de Rustem et lui adresser beaucoup de bonnes paroles, lui faire oublier ma colère et lui montrer un avenir de bonheur.
 >
-> Ramène-le auprès de moi pour que mon âme sombre redevienne brillante.»
+> Ramène-le auprès de moi pour que mon âme sombre redevienne brillante. »
 
 Gouderz quitta le roi et se hâta de courir après le Pehlewan ; les chefs de l’armée partirent avec lui et suivirent les traces de Rustem.
 
@@ -166,7 +166,7 @@ Tu sais que Kaous est un écervelé et que sa parole n’est pas douce quand il 
 
 Si Rustem a été blessé par le roi, les Iraniens du moins n’ont pas commis de faut pour qu’il quitte le pays d’Iran et lui cache son front fortuné.
 
-Le roi est maintenant honteux.de ses paroles et se mord le dos de la main d’avoir été si rude.»
+Le roi est maintenant honteux.de ses paroles et se mord le dos de la main d’avoir été si rude. »
 
 KEI nous.
 
@@ -194,7 +194,7 @@ Ma patience est à bout, mon cœur est gros et je ne crains que Dieu le tout sai
 >
 > En outre, maintenant que l’armée des ennemis nous serre de près, n’obscurcis pas follement cette couronne et ce trône.
 >
-> Car aucun homme attaché à notre foi pure ne peut approuver que le pays de Touran nous couvre de honte.»
+> Car aucun homme attaché à notre foi pure ne peut approuver que le pays de Touran nous couvre de honte. »
 
 C’est ainsi qu’il parla à Rustem et celui-ci l’écouta avec étonnement ; à la fin il lui dit :
 
@@ -212,7 +212,7 @@ Aussitôt que le roi le vit de loin, il sauta sur ses pieds et lui fit beaucoup 
 >
 > Je t’ai fait appeler pour trouver un moyen de salut, tu as tardé à venir et je t’ai traité durement.
 >
-> Mais, ô héros au corps d’éléphant, quand tu t’es senti blessé, je me suis repenti et j’ai rempli ma bouche de poussière.»
+> Mais, ô héros au corps d’éléphant, quand tu t’es senti blessé, je me suis repenti et j’ai rempli ma bouche de poussière. »
 
 Rustem lui répondit :
 
@@ -224,7 +224,7 @@ Puissent le bonheur et le pouvoir rester tes compagnons la Kaous lui dit :
 
 > Ô Pehlewan, puisses-tu être toujOurs heureux !
 >
-> Viens, célébrons aujourd’hui une fête joyeuse ; demain nous nous préparerons pour la guerre.»
+> Viens, célébrons aujourd’hui une fête joyeuse ; demain nous nous préparerons pour la guerre. »
 
 Kaous fit arranger pour la musique une salle digne d’un roi, et’le palais devint comme un jardin printanier.
 
