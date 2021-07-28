@@ -34,7 +34,7 @@ Puis, il écrit, dans l’allégresse de son cœur, une réponse semblable au ve
 >
 > Ne disperse pas ton armée, mets-toi en marche et prépare-toi un lieu de séjour ; car ce Turc est plein de ruse et de malveillance, il vient d’une vile race et est vil lui-même ; mais il a une couronne et du pouvoir et sa tête s’élève au-dessus de la lune brillante.
 >
-> Ne te hâte pas de l’attaquer, car il viendra lui-même te combattre ; et quand il passera de ce côté du Djihoun, il traînera dans le sang le pan de sa robe.»
+> Ne te hâte pas de l’attaquer, car il viendra lui-même te combattre ; et quand il passera de ce côté du Djihoun, il traînera dans le sang le pan de sa robe. »
 
 Kaous apposa son sceau sur la lettre et appela devant lui le messager ; il lui donna la lettre et lui ordonna de s’en retourner et de se hâter à travers les montagnes et les vallées.
 
@@ -52,7 +52,7 @@ Après ces événements, Guersiwez au cœur de lion arriva auprès du roi du Tou
 >
 > Il n’y a pas d’aigle qui vole comme eux et le sommeil n’a sur eux aucune prise.
 >
-> Ils se sont présentés au combat pendant trois jours et trois nuits et les corps de nos braves et leurs chevaux se sont fatigués ; un Iranien, au contraire, quand il sentait le besoin de dormir, s’éloignait en toute hâte de la mêlée, dormait, se relevait rafraîchi et combattait de nouveau.»
+> Ils se sont présentés au combat pendant trois jours et trois nuits et les corps de nos braves et leurs chevaux se sont fatigués ; un Iranien, au contraire, quand il sentait le besoin de dormir, s’éloignait en toute hâte de la mêlée, dormait, se relevait rafraîchi et combattait de nouveau. »
 
 KEÏ. nous.
 
