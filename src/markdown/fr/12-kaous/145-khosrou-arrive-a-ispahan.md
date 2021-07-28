@@ -28,7 +28,7 @@ Un brave cavalier et choisit parmi les grands de Zem un homme prudent, prévoyan
 
 > Va à Ispahan qui ml le pays des rois et le siège des grands et dis à Gouderz : Ô Pehlewan du monde, tu dormais quand tu a : fait ton rêve, mais ton esprit était réveillé.
 >
-> Keï Khosrou est arrivé à Zem, sans que le souffle d’un vent hostile l’ait atteint.»
+> Keï Khosrou est arrivé à Zem, sans que le souffle d’un vent hostile l’ait atteint. »
 
 Ensuite Guiv écrivit une lettre à Kaous et le messager se leva et partit.
 
@@ -80,13 +80,13 @@ Gouderz couvrit le roi de bénédictions et lui rendit hommage en disant :
 >
 > Puisse la lumière être le partage des mânes a de Siawusch !
 >
-> Dieu le maître du monde m’est témoin que te voir est la joie de mon âme et que mon cœur en est plus heureux que si je revoyais Siawusch en vie.»
+> Dieu le maître du monde m’est témoin que te voir est la joie de mon âme et que mon cœur en est plus heureux que si je revoyais Siawusch en vie. »
 
 Ensuite, il baisa Guiv sur les yeux et sur le front et lui dit :
 
 > Tu as dévoilé le secret du sort.
 >
-> Tu es un héros qui sait se passer de sommeil, tu es un brave qui sait attendre quand la nécessité l’exige.»
+> Tu es un héros qui sait se passer de sommeil, tu es un brave qui sait attendre quand la nécessité l’exige. »
 
 Tous les grands du pays de l’Iran touchèrent la terre de leur front devant Khosrou.
 
