@@ -20,7 +20,7 @@ Rustem envoya auprès .dulroi Kaous un homme prudent et habile à découvrir le 
 
 > Je viens avec une grande armée pour combattre le roi du Hamaveran.
 >
-> Réjouis-toi et n’aie pas de soucis, car j’arrive dans le pays où tu te trouves.»
+> Réjouis-toi et n’aie pas de soucis, car j’arrive dans le pays où tu te trouves. »
 
 Un autre d’entre les grands pleins de fierté partit pour aller auprès du roi du Hamaveran avec une lettre de Rustemremplie de menaces et ne parlant que de massues, d’épées et de combats :
 
@@ -30,7 +30,7 @@ Un autre d’entre les grands pleins de fierté partit pour aller auprès du roi
 >
 > Sinon prépare-toi à me. combattre et à mesurer latence avec la mienne.
 >
-> Tu dois avoir appris desgrands de ta cour comment j’ai fait la guerre dans le Mazenderan, comment j’ai combattu Poulad fils de Rhandi et Bid et ce que j’ai fait du Div blanc.»
+> Tu dois avoir appris desgrands de ta cour comment j’ai fait la guerre dans le Mazenderan, comment j’ai combattu Poulad fils de Rhandi et Bid et ce que j’ai fait du Div blanc. »
 
 Lorsque la lettre fut scellée, le messager partit et se hâta de parcourir sa route.
 
@@ -45,11 +45,11 @@ Néanmoins il répondit :
 
 > J’espère faire de sorte que Keï Kaous ne remette jamais les pieds dans la plaine ; et si jamais tu viens dans le Berberistan, tu trouveras mes cavaliers tenant les rênes de leurs chevaux et tes chaînes et ta prison sont prêtes si tu persistes dans ton pro-jet.
 >
-> Je viendrai te combattre, moi et mon armée : telle est notre coutume et notre manière d’agir.»
+> Je viendrai te combattre, moi et mon armée : telle est notre coutume et notre manière d’agir. »
 
 Le messager ayant ouï ces paroles, s’en retourna auprès de son maître avide de renom et répéta à Rustem tout ce qu’on lui avait dit, en ajoutant :
 
-> J’ai vu que c’était un insensé et un compagnon du Div ; aussi sa réponse est-elle inconvenante, car Ahriman a rempli sa tête de fumée.»
+> J’ai vu que c’était un insensé et un compagnon du Div ; aussi sa réponse est-elle inconvenante, car Ahriman a rempli sa tête de fumée. »
 
 Quand le héros au corps d’éléphant eut entendu cette réponse, les braves de son armée se rassemblèrent, le son des trompettes, se fit entendre, Rustem monta sur Raksch et se tourna vers la mer profonde pour aller a la guerre, car. le chemin de terre était trop long.
 
@@ -62,7 +62,7 @@ Le jour brillant se convertit en nuit obscure, lorsque le roi eut quitté la vil
 
 On rangea les armées à droite et à gauche ; on appela au combat les guerriers illustres et Rustem au corps d’éléphant dit :
 
-> Je suis un brave, mais je sais attendre le moment propice sur le champ de bataille.»
+> Je suis un brave, mais je sais attendre le moment propice sur le champ de bataille. »
 
 Il se revêtit de sa cuirasse de combat et s’assit sur Raksch son cheval rapide ; il posa sa pesante massue sur son épaule, lança son cheval et s’avança avec fureur.
 
@@ -82,7 +82,7 @@ Rustem voyant ces préparatifs, dépêcha en ; secret un brave vers Kaous et lui
 >
 > Quand je secouerai mon poignet, ces braves ne distingueront’plns la : tête des pieds, mais il ne faut pas qu’il t’arrive malheur danscette lutte, carlin doit toujours s’attendre à du mal de la part destinéchants.
 >
-> Jane désireupas la couronne du Berberistain, si elle doit mettre en danger la vie du roi.»
+> Jane désireupas la couronne du Berberistain, si elle doit mettre en danger la vie du roi. »
 
 Kaous répondit :
 
@@ -90,7 +90,7 @@ Kaous répondit :
 >
 > D’ailleurs Dieu le tout-puissant est mon protecteur et mon asile et sa grâce est ma forteresse.
 >
-> Abandonne les rênes à Raksch le rapide ; couche-4 sur ses oreilles le fer de ta lance et ne laisse vivre aucun de nos ennemis ni au grand jour ni dans les ténèbres.»
+> Abandonne les rênes à Raksch le rapide ; couche-4 sur ses oreilles le fer de ta lance et ne laisse vivre aucun de nos ennemis ni au grand jour ni dans les ténèbres. »
 
 Quand Rustem eut entendu cette réponse, il se couvrit de son armure et courut vers le champ de bataille ; il lança Haksch son cheval rapide et alla au-devant de ceux qui voulaient combattre.
 
