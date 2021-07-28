@@ -18,7 +18,7 @@ order: '113'
 
 Au milieu d’une nuit noire, où la lune était invisible et pendant que les oiseaux et les bêtes fauves dormaient, Piran eut un songe : il vit une lumière qui émanait du soleil et au milieu de cette lumière Siawusch, une épée à la main, qui lui dit :
 
-> Ce n’est pas le temps de rester couché, secoue le doux sommeil et pense aux destinées du monde ; c’est aujourd’hui un jour de gloire, un jour de fête, car cette nuit doit naître le roi Keï Khosrou.»
+> Ce n’est pas le temps de rester couché, secoue le doux sommeil et pense aux destinées du monde ; c’est aujourd’hui un jour de gloire, un jour de fête, car cette nuit doit naître le roi Keï Khosrou. »
 
 Le Sipehbed tremblait dans son doux sommeil et Gulschehr au visage de soleil se réveilla.
 
@@ -28,7 +28,7 @@ Piran lui dit :
 
 > Pourquoi dors-tu ?
 >
-> Ne tarde pas et va à la fête du roi Keï Khosrou.»
+> Ne tarde pas et va à la fête du roi Keï Khosrou. »
 
 DF.
 
@@ -49,7 +49,7 @@ Le Sipehbed alla voir le jeune roi et rendit des grâces abondantes à Dieu de c
 
 Il versa des larmes au souvenir de Siawusch et maudit Afrasiab, ensuite il dit à l’illustre assemblée :
 
-> Quand je devrais y sacrifler ma vie, je ne permettrai pas à Afrasiab de le toucher, dût-il me livrer aux griffes des crocodiles.»
+> Quand je devrais y sacrifler ma vie, je ne permettrai pas à Afrasiab de le toucher, dût-il me livrer aux griffes des crocodiles. »
 
 Aussitôtque le soleil eut montré ses rayons et que le sombre nuage de la nuit eut disparu, le Pehlewan de l’armée se réveilla et se rendit en toute hâte au-
 près du roi.
@@ -65,7 +65,7 @@ Il y resta jusqu’à ce que l’assemblée se fût retirée, alors il s’appro
 >
 > En voyant sa beauté, son visage, ses mains et ses pieds, on dirait que Feridoun le héros est ressus-cité.
 >
-> Écarte de ton esprit toute mauvaise pensée, fais briller ta couronne et que ton âme se relève de son abattement.»
+> Écarte de ton esprit toute mauvaise pensée, fais briller ta couronne et que ton âme se relève de son abattement. »
 
 Le Créateur du monde, par sa grâce, éloigna du cœur d’Afrasiab toute pensée de guerre, d’injustice et de vengeance.
 
@@ -80,7 +80,7 @@ Il répondit à Piran :
 > N’é-
 Iève pas cet enfant au milieu de la foule ; envoie-le dans la montagne, parmi les pâtres, afin qu’il n’apr prenne pas qui je suis ni pourquoi je l’ai fait confier
 >
-> aux pâtres, afin que personne ne l’instruise ni ne lui apprenne sa naissance et que tout ce qui s’est passé lui reste inconnu.»
+> aux pâtres, afin que personne ne l’instruise ni ne lui apprenne sa naissance et que tout ce qui s’est passé lui reste inconnu. »
 
 Il continua à dire sur ce sujet ce qu’il pensait ; il croyait que ce vieux monde était jeune et sans expérience.
 
