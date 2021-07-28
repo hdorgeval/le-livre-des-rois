@@ -40,13 +40,13 @@ Soudabeh répondit :
 
 Ensuite elle dit à Siawusch :
 
-> Jusqu’à présent tu as réussi par la sorcellerie, mais le dos de ton impudence ne sera-t-il jamais courbé?»
+> Jusqu’à présent tu as réussi par la sorcellerie, mais le dos de ton impudence ne sera-t-il jamais courbé ? »
 
 Le roi demanda aux Iraniens :
 
 > Comment la pu-nirai-je du mal qu’elle a fait en secret ?
 >
-> Comment le lui ferai-je expier?»
+> Comment le lui ferai-je expier ? »
 
 Tous invoquèrent les grâces de Dieu sur le roi, disant :
 
