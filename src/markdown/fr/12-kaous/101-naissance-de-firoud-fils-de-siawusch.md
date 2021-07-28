@@ -26,17 +26,17 @@ Djerireh, la mère de cet enfant illustre, la première parmi les reines puissan
 
 On a appliqué sa main sur le dos de cette lettre et Piran m’a dit :
 
-> Portela à Siawusch, dont les vœux sont exaucés et dis-lui que, malgré ma vieillesse,je me sens heureux par la grâce de Dieu le saint.»
+> Portela à Siawusch, dont les vœux sont exaucés et dis-lui que, malgré ma vieillesse,je me sens heureux par la grâce de Dieu le saint. »
 
 Siawusch répondit :
 
-> Puisse cet enfant n’être jamais privé du trône et du pouvoir !»
+> Puisse cet enfant n’être jamais privé du trône et du pouvoir ! »
 
 Il donna au messager tant de pièces d’argent que l’homme qui les portait fut fatigué du poids.
 
 Lorsque cette nouvelle parvint jusqu’à Guersiwez, il dit :
 
-> Piran est devenu aujourd’hui l’égal du roi.»
+> Piran est devenu aujourd’hui l’égal du roi. »
 
 Ils arrivèrent joyeusement au palais de Ferenguis, à qui Siawusch raconta ce qu’il venait d’apprendre.
 
@@ -46,7 +46,7 @@ Elle descendit de son trône et le salua ; elle lui demanda comment il avait sup
 
 Le cœur et la tête de Guersiwez bouillonnaient, mais il dissimula par courtoisie et par prudence, il se dit :
 
-> Il ne se passera pas un an avant que Siawusch ne veuille plus ménager personne ; c’est à lui qu’appartiennent la royauté et le trône, le trésor, le pays et l’armée.»
+> Il ne se passera pas un an avant que Siawusch ne veuille plus ménager personne ; c’est à lui qu’appartiennent la royauté et le trône, le trésor, le pays et l’armée. »
 
 Il renferma en lui-même le secret de son aime, mais il trembla de colère et ses joues pâlirent ; il dit à Siawusch :
 
