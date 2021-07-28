@@ -34,7 +34,7 @@ Il demanda :
 >
 > Qui est-ce qui a pu indiquer à ce fils du Div qu’il y avait ici un enfant de Siawusch ? 0h !
 >
-> Que n’ai-je donné à cet enfant la terre pour nourricel mes deux yeux n’auraient pas vu un pareil désastre.»
+> Que n’ai-je donné à cet enfant la terre pour nourricel mes deux yeux n’auraient pas vu un pareil désastre. »
 
 Sipahram lui répondit :
 
@@ -42,13 +42,13 @@ Sipahram lui répondit :
 >
 > Si c’est l’idée d’une armée qui t’elfraye, je le dirai qu’il n’est venu que Guiv fils de Gouderz et que nous n’avons pas vu avec lui un seul cavalier.
 >
-> L’armée a été frappée de terreur par l’attaque d’un seul homme et c’est ainsi que Guiv, Ferenguis et le prince ont pu s’enfuir.»
+> L’armée a été frappée de terreur par l’attaque d’un seul homme et c’est ainsi que Guiv, Ferenguis et le prince ont pu s’enfuir. »
 
 Les joues d’Afrasiab pâlirent à ces paroles, son cœur fut effrayé du sort que lui préparait le ciel et il répondit :
 
 > Maintenant s’accomplit tout ce que les sages m’ont prédit.
 >
-> Quand Dieu favorise quelqu’un, il le fait parvenir au trône sans effort.»
+> Quand Dieu favorise quelqu’un, il le fait parvenir au trône sans effort. »
 
 Pendant que’Sipahram écoutait les paroles du roi, on vit arriver une armée, précédée par le Sipehdar Piran, dont la tête, le visage et le corps.
 
@@ -77,7 +77,7 @@ un nouveau danger me menaçait, car il voulait me couper la tête.
 >
 > Mais Ferenguis me vint en aide, de sorte qu’au lieu de me tuer il se contenta de me percer l’oreille, de me lier les mains et en poussant des cris de rage, de me fairejurer solennellement, par la vie et la tête du roi, par le soleil el la lune, par Dieu le tout-puissant, par le trône et la couronne, que je garderais mes liens jusqu’à Khoten. ce Voyant que la fortune était contre moi, j’ai prêté le serment, j’ai juré de ne demander à personne de me délier et de continuer ma route jusqu’à ma résidence.
 >
-> Je ne sais quelle est la secrète intention du ciel, qui parait me refuser toute faveur ; car tantôt il livre ma tête et mes bras au lacet de mon ennemi, tantôt il m’assujettit à des serments et à des liens.»
+> Je ne sais quelle est la secrète intention du ciel, qui parait me refuser toute faveur ; car tantôt il livre ma tête et mes bras au lacet de mon ennemi, tantôt il m’assujettit à des serments et à des liens. »
 
 Lorsque Afrasiab eut entendu ces paroles, la colère amena des larmes dans ses yeux ; il poussa un cri et ordonna à Piran de sortir de sa présence.
 
