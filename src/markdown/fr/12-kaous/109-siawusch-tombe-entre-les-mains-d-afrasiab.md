@@ -94,7 +94,7 @@ Guersiwez le traître regardait le roi pendant que Siawusch parlait, puis il dit
 >
 > Pourquoi parles-tu à un ennemi ?
 >
-> Pourquoi l’écoutes-tu?»
+> Pourquoi l’écoutes-tu ? »
 
 Afrasiab approuva les paroles de Guersiwez et dans ce montent le puissant soleil se leva.
 
