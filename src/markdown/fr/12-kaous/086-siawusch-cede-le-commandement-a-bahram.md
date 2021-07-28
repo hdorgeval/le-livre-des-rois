@@ -34,7 +34,7 @@ Siawusch écrivit une lettre à son père, dans laquelle il lui racontait tout c
 >
 > Quant à moi, je m’expose dans ma douleur à l’haleine du dragon.
 >
-> Je ne sais quel destin, dans sa haine ou dans son amour, me réserve en secret le ciel qui tourne.»
+> Je ne sais quel destin, dans sa haine ou dans son amour, me réserve en secret le ciel qui tourne. »
 
 Ensuite, il donna ses ordres à Bahram, disant :
 
@@ -42,7 +42,7 @@ Ensuite, il donna ses ordres à Bahram, disant :
 >
 > Quand le Sipehdar Thous sera arrivé, tu lui remettras tout comme tu l’as reçu.
 >
-> Sois prudent, que tes jours soient heureux !»
+> Sois prudent, que tes jours soient heureux ! »
 
 Il choisit dans l’armée six cents cavaliers, tous guerriers propres au combat ; il ordonna qu’on lui apportât de l’argent autant qu’il lui en fallait, de l’or et des joyaux dignes d’un roi, qu’on amenât cent chevaux caparaçonnés d’or, cent esclaves avec des ceintures d’or pour le servir et qu’on fit une liste des armes, des caparaçons et des ceintures qu’il emportait.
 
@@ -52,7 +52,7 @@ Ensuite, il appela les grands et leur adressa quelques paroles convenables :
 >
 > Je me prépare maintenant à aller au-devant de lui, mais il est nécessaire que vous restiez ici.
 >
-> Vous regarderez tous Bahram comme votre chef et vous ne refuserez pas d’obéir à ses ordres.»
+> Vous regarderez tous Bahram comme votre chef et vous ne refuserez pas d’obéir à ses ordres. »
 
 Tous les braves baisèrent la terre devant Siawusch en invoquant la grâce de Dieu sur lui.
 æ
@@ -94,7 +94,7 @@ Il lui demanda des nouvelles de son pays et de son maître et lui dit :
 
 > Ô Pehlewan de l’armée, pourquoi te fatigues-tu à venir au-devant de moi ?
 >
-> Le plus grand désir de mon âme était que mes deux yeux te vissent en bonne santé.»
+> Le plus grand désir de mon âme était que mes deux yeux te vissent en bonne santé. »
 
 Piran lui baisa la tête et les pieds, ainsi que ce beau visage qui ravissait les cœurs ; il dit en s’adressant àDieu le créateur :
 
@@ -136,7 +136,7 @@ Ses deux yeux se fixèrent sur Siawusch avec étonnement et de temps en temps il
 >
 > Enrrsuite tu as accoutumé ta langue à être véridique et à ne prononcer que de bonnes paroles.
 >
-> Enfin ton visage est tel que l’on dirait qu’il sème de l’amour pour toi sur la terre.»
+> Enfin ton visage est tel que l’on dirait qu’il sème de l’amour pour toi sur la terre. »
 
 Siawusch lui répondit :
 
@@ -149,7 +149,7 @@ Siawusch lui répondit :
 >
 > dans la confiance que tu m’inspires.
 >
-> Si mon séjour ici me porte bonheur, tu n’auras pas à déplorer la part que tu y auras prise ; et s’il en doit être autrement, ordonne-moi de partir et enseigne-moi le chemin d’un autre pays.»
+> Si mon séjour ici me porte bonheur, tu n’auras pas à déplorer la part que tu y auras prise ; et s’il en doit être autrement, ordonne-moi de partir et enseigne-moi le chemin d’un autre pays. »
 
 Piran lui dit :
 
@@ -171,7 +171,7 @@ Piran lui dit :
 >
 > Que tout cela soit à toi, si tu veux établir parmi nous ta joyeuse demeure.
 >
-> Je t’ai reçu de Dieu le très-saint et je te servirai de tout mon cœur et de toute mon âme ; je te garantirai de tout malheur, autant qu’il sera possible ; car personne ne connaît le secret du ciel sublime.»
+> Je t’ai reçu de Dieu le très-saint et je te servirai de tout mon cœur et de toute mon âme ; je te garantirai de tout malheur, autant qu’il sera possible ; car personne ne connaît le secret du ciel sublime. »
 
 Siawusch fut consolé par ces discours et il bannit de son esprit ses sombres pensées.
 
