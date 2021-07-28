@@ -90,7 +90,7 @@ Il lui dit :
 
 > Ô jeune pâtre I comment connais-tu les jours et les nuits ?
 >
-> Que fais-tu de tes troupeaux ? "comment comptes-tu tes chèvres et les moutons?»
+> Que fais-tu de tes troupeaux ? "comment comptes-tu tes chèvres et les moutons ? »
 
 (in.
 
@@ -114,7 +114,7 @@ Khosrou répondit :
 
 Afrasiab lui demanda :
 
-> Quitteras-tu ce pays pour aller dans l’Iran auprès du roi des et braves î?»
+> Quitteras-tu ce pays pour aller dans l’Iran auprès du roi des et braves î ? »
 
 Khosrou répondit :
 
@@ -124,7 +124,7 @@ Le roi sourit et s’épanouit. comme une rose et lui dit d’une voix douce :
 
 > Ne veuxtu pas apprendre à écrire ?
 >
-> N’as-tu pas envie de te ven nger de tes ennemis?»
+> N’as-tu pas envie de te ven nger de tes ennemis ? »
 
 L’enfant répondit :
 
