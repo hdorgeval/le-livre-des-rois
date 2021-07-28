@@ -25,7 +25,7 @@ Siawusch adressa ses plaintes à Dieu en disant :
 > Ô toi qui es maître de l’espace et du
 , sort !
 >
-> Fais naître de mon tronc un rejeton qui brille devant le peuple comme le soleil, qui me venge de mes ennemis, qui fasse refleurir mon nom dans tous les pays, qui mette sous ses pieds le monde entier et qui montre ce que peut la bravoure d’un homme.»
+> Fais naître de mon tronc un rejeton qui brille devant le peuple comme le soleil, qui me venge de mes ennemis, qui fasse refleurir mon nom dans tous les pays, qui mette sous ses pieds le monde entier et qui montre ce que peut la bravoure d’un homme. »
 
 .
 Pilsem le suivit, les yeux inondés de sang et le cœur rempli de douleur.
@@ -38,7 +38,7 @@ Siawusch lui dit :
 >
 > J’avais mieux espéré de Piran ; tous ses serments ne sont que du vent et moi je suis comme la feuille du tremble.
 >
-> Il m’avait dit qu’il viendrait à mon aide avec cent mille cavaliers couverts de cuirasses et montés sur des chevaux raparaçonnés et qu’au jour du malheur il serait pour moi une prairie au moment où j’aurais besoin de brouter ; et maintenant je suis obligé de marcher à pied devant Guersiwez, couvert de mépris et l’âme en peine et sans avoir auprès de moi un seul ami ce qui pleure sur ma destinée.»
+> Il m’avait dit qu’il viendrait à mon aide avec cent mille cavaliers couverts de cuirasses et montés sur des chevaux raparaçonnés et qu’au jour du malheur il serait pour moi une prairie au moment où j’aurais besoin de brouter ; et maintenant je suis obligé de marcher à pied devant Guersiwez, couvert de mépris et l’âme en peine et sans avoir auprès de moi un seul ami ce qui pleure sur ma destinée. »
 
 Lorsqu’ils eurent traversé la ville et le camp, ils le traînèrent dans la large plaine et Gueroui Zereh prit le poignard brillant de Guersiwez pour verser le sang de Siawusch.
 
@@ -81,10 +81,10 @@ Leurs cris arrivèrent aux oreilles du roi, qui, entendant ces plaintes amères 
 >
 > vaises paroles, arrachez-la des appartements des femmes et traînez-la dans la cour, livrez-la aux gardes qui sont accoutumés aux meurtres, pour qu’ils la saisissent par les cheveux, qu’ils déchirent le voile qui couvre sa tête et qu’ils la frappent avec des bâtons jusqu’à ce qu’elle ait rejeté sur la terre de Touran l’enfant de la vengeance qu’elle porte dans son sein.
 >
-> Je ne veux pas que la racine de Siawusch pousse un rejeton ; je ne veux ni de ses feuilles ni de ses fruits, ni de son trône ni de sa couronne.»Tous les grands de l’assemblée, l’un après l’autre, le maudirent, disant :
+> Je ne veux pas que la racine de Siawusch pousse un rejeton ; je ne veux ni de ses feuilles ni de ses fruits, ni de son trône ni de sa couronne. »Tous les grands de l’assemblée, l’un après l’autre, le maudirent, disant :
 
 > Personne n’a jamais en-
-’tendu prononcer par un roi, ou un Destour, ou un homme de guerre un jugement pareil.»
+’tendu prononcer par un roi, ou un Destour, ou un homme de guerre un jugement pareil. »
 
 Pilsem, les deux joues couvertes de sang, l’âme blessée et le cœur rempli d’angoisse, se rendit auprès de Lehhak et de Ferschidwerd et les informa de tout ce qui s’était passé, ajoutant :
 
@@ -104,4 +104,4 @@ NPilsem lui dit :
 
 > Hâte-toi, car des dou-leurs plus grandes que celles-ci t’attendent.
 >
-> On a enlevé Ferenguis de son trône, tremblante comme une feuille d’arbre ; on l’a emportée pleurante et traitée avec mépris et on l’a livrée aux valets du roi habitués aux meurtres.»
+> On a enlevé Ferenguis de son trône, tremblante comme une feuille d’arbre ; on l’a emportée pleurante et traitée avec mépris et on l’a livrée aux valets du roi habitués aux meurtres. »
