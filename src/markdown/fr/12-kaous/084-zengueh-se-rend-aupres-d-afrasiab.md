@@ -61,7 +61,7 @@ avide de montrer sa bravoure et les sages ne l’approuveraient pas, ô roi, si 
 >
 > Si le roi, dans sa sagesse. approuvait mon avis, il écrirait une lettre mûrement réfléchie, il recevrait ce jeune homme plein d’intelligence comme on reçoit un fils. il lui préparerait une résidence dans ce pays et le traiterait selon son rang et son mérite, il lui donnerait une des filles qu’il a dans l’appartement de ses femmes et l’entourerait de prévenances et d’honneurs : car si Siawusch restait auprès de toi, il ferait de ton pays le séjour de la paix ; et s’il retournait auprès du roi de l’Iran, ta fortune ne pourrait que s’en accroître ; car il serait ton défenseur auprès de Kaous et les puissants de la terre lui rendraient hommage.
 >
-> Si Dieu amène chez nous Siawusch, nous pourrons espérer qu’il calmera la haine des deux pays ; il serait digne de la justice du Créateur de rétablir ainsi le bonheur sur la terre.»
+> Si Dieu amène chez nous Siawusch, nous pourrons espérer qu’il calmera la haine des deux pays ; il serait digne de la justice du Créateur de rétablir ainsi le bonheur sur la terre. »
 
 Le roi écouta le discours de Piran ; il envisagea tout l’avenir ; il réfléchit quelque temps, pensant au bonheur et au malheur qui pouvait lui arriver.
 
@@ -73,7 +73,7 @@ Le roi écouta le discours de Piran ; il envisagea tout l’avenir ; il réfléc
 
 > Si tu élèves un lionceau, dit-il, tu t’en repentiras :
 
-> aussitôt que ses dents seront devenues aiguës, aussitôt qu’il aura des ongles et la force de bondir, il se jettera sur son père nourricier.»
+> aussitôt que ses dents seront devenues aiguës, aussitôt qu’il aura des ongles et la force de bondir, il se jettera sur son père nourricier. »
 
 Piran lui dit :
 
@@ -81,4 +81,4 @@ Piran lui dit :
 >
 > Tu vois que Kaous est devenu vieux et puisqu’il est vieux, il va bientôt mourir ; alors Siawusch possédera le monde entier ; et de grands trésors acquis sans peine, des palais, les pays d’Iran et de Touran, le trône et la couronne seront à toi.
 >
-> Il faut être le favori du sort pour trouver une pareille fortune.»
+> Il faut être le favori du sort pour trouver une pareille fortune. »
