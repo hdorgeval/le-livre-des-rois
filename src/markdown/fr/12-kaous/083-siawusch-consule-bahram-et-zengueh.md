@@ -73,7 +73,7 @@ Je m’en irai, je chercherai un coin dans le monde où mon nom reste caché à 
 Maintenant, ô illustre Zengueh fils de Schaweran, prépare-toi pour une grande fatigue ; pars pour la cour d’Afrasiab, ne tarde pas et ne te laisse pas aller au sommeil.
 
 Ramène-lui ses otages, rap-
-porte-lui ses trésors de toute espèce, son or, ses joyaux et son trône et raconte-lui ce qui m’arrive.»
+porte-lui ses trésors de toute espèce, son or, ses joyaux et son trône et raconte-lui ce qui m’arrive. »
 
 Ensuite, il dit à Bahram fils.de Gouderz :
 
@@ -81,7 +81,7 @@ Ensuite, il dit à Bahram fils.de Gouderz :
 >
 > Tu attendras l’arrivée du Sipehdar Thons, à qui tu remettras l’armée et les
 >
-> trésors, le tout en bon ordre et tu lui rendras compte de tout, de l’or, des couronnes et des trônes.»
+> trésors, le tout en bon ordre et tu lui rendras compte de tout, de l’or, des couronnes et des trônes. »
 
 À ces mots, le cœur de Bahram trembla de ce que Siavvusch allait faire et Zengueh fils de Schaweran versa des larmes de sang et maudit le pays de Hamaveran.
 
@@ -146,7 +146,7 @@ Zengueh lui dit :
 
 > Nous sommes tes esclaves et notre cœur est rempli d’amour pour toi : puissent nos corps et nos âmes te servir de rançon !
 >
-> Puissions-nous te rester fidèles jusqu’à la mort !»
+> Puissions-nous te rester fidèles jusqu’à la mort ! »
 
 Le prudent Siawusch ayant entendu cette réponse de son ami, lui dit :
 
@@ -160,4 +160,4 @@ Le prudent Siawusch ayant entendu cette réponse de son ami, lui dit :
 >
 > Je veux cher-à".
 >
-> cher sur la terre un pays où mon nom reste caché à Kaous, où je n’entende pas parler de ses mauvaises intentions et ou je puisse pendant quelque temps me reposer de la lutte que j’ai à soutenir contre lui.»
+> cher sur la terre un pays où mon nom reste caché à Kaous, où je n’entende pas parler de ses mauvaises intentions et ou je puisse pendant quelque temps me reposer de la lutte que j’ai à soutenir contre lui. »
