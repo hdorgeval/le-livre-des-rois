@@ -20,7 +20,7 @@ Le roi dit à ce fils de roi :
 
 > Viens un jour avec moi à la chasse, pour nous réjouir et nous livrer au plaisir et pour que la chasse délivre notre âme
 >
-> de ses soucis.»
+> de ses soucis. »
 
 Siawusch lui répondit :
 
@@ -38,13 +38,13 @@ Le cortège du roi le regarda avidement et toute l’assemblée dit d’une comm
 
 > Quel héros !
 >
-> Quel homme habile à manier l’épée !»
+> Quel homme habile à manier l’épée ! »
 
 Mais tous les grands 5e dirent l’un à l’autre :
 
 > Le pays d’Iran nous a envoyé du malheur et le nom de nos chefs est déshonoré.
 >
-> Il vaudrait mieux se mettre en guerre avec ce prince.»
+> Il vaudrait mieux se mettre en guerre avec ce prince. »
 
 Siawusch courut dans la plaine, dans la montagne et dans le désert, se servant de l’épée, des flèches et des javelots ; il accumula de tous côtés des monceaux de gibier, assez pour en nourrir tout le cortège.
 
