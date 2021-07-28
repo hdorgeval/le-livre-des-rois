@@ -28,7 +28,7 @@ Le roi Keï Kaous était rempli de soucis à l’égard de son fils et de Soudab
 >
 > Qu’a dit ce roij aux paroles sages ?
 >
-> On ne saurait exercer la royauté quand le cœur est inquiet.»
+> On ne saurait exercer la royauté quand le cœur est inquiet. »
 
 Kaous ordonna à son Destour de faire amener du désert, par les chameliers, cent caravanes de dromadaires.
 
@@ -70,13 +70,13 @@ Siawusch lui dit :
 >
 > Ma tête est maintenant couverte de honte et d’ignominie ; la délivrance m’attend si je suis innocent ; mais si je suis coupable de ce crime, Dieu le créateur m’ai bandonnera.
 >
-> Grâce à la force que me donnera Dieu, l’auteur de tout bien, le cœur ne me faudra pas devant cette montagne de feu.»
+> Grâce à la force que me donnera Dieu, l’auteur de tout bien, le cœur ne me faudra pas devant cette montagne de feu. »
 
 Siawusch s’approcha du bûcher en disant :
 
 > Ô Dieu !
 >
-> Toi qui es au-dessus de tout besoin, permets-moi de passer à travers cette montagne de feu et délivre-moi de la honte qui me couvre aux yeux demon père.»
+> Toi qui es au-dessus de tout besoin, permets-moi de passer à travers cette montagne de feu et délivre-moi de la honte qui me couvre aux yeux demon père. »
 
 Ayant exhalé ainsi sa grande douleur, il lança son cheval noir rapidement comme la fumée.
 
@@ -92,7 +92,7 @@ Siawusch poussa son cheval noir dans le feu, tu aurais dit qu’il le caparaçon
 
 Toute la plaine était couverte d’yeux pleins de sang et regardant avec anxiété comment il sortirait du feu ; et il sortit du feu, le noble jeune homme, les lèvres souriantes, les joues comme des feuilles de rose.
 
-Quand les hommes le virent, il s’éleva un seul cri : Le jeune roi est sorti du feu !»
+Quand les hommes le virent, il s’éleva un seul cri : Le jeune roi est sorti du feu ! »
 
 Le cheval, le cavalier et sa robe parurent frais ; tu aurais dit qu’il portait un lis sur sa poitrine.
 
@@ -114,7 +114,7 @@ Siawusch ayant échappé aux flammes de cette montagne de feu et déjoué tous l
 
 Le roi lui dit :
 
-> Ô mon fils, ô vaillant jeune homme, issu d’une race pure, doué d’une âme brillante, tu es tel que doit être le fils d’une sainte mère, né pour être le roi du monde.»
+> Ô mon fils, ô vaillant jeune homme, issu d’une race pure, doué d’une âme brillante, tu es tel que doit être le fils d’une sainte mère, né pour être le roi du monde. »
 
 Il le pressa contre son sein et lui demanda pardon de ce qu’il avait fait contre lui.
 
