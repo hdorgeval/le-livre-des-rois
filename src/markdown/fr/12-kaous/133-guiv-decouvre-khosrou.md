@@ -30,7 +30,7 @@ Cependant Afrasiab, qui était rentré dans Gang et s’était emparé de nouvea
 
 > Ô sage !
 >
-> Amène-moi Keï Khosrou le maudit ; amène-le du Madjin ; rends-le à sa mère, mais coupe-lui de tous côtés le chemin de la fuite.»
+> Amène-moi Keï Khosrou le maudit ; amène-le du Madjin ; rends-le à sa mère, mais coupe-lui de tous côtés le chemin de la fuite. »
 
 Piran avait envoyé sur-le-champ un messager monté sur un dromadaire de course, avait fait amener le fils de Siawusch et avait rendu à sa mère ce jeune homme sage et intelligent.
 
@@ -60,7 +60,7 @@ Il se dit :
 >
 > Je n’ai recueilli de cette recherche que peine et fatigue.
 >
-> Heureux celui qui meurt par le poison !»
+> Heureux celui qui meurt par le poison ! »
 
 Le héros qui était à la recherche du roi parcourait tristement la forêt, lorsqu’il vit de loin une l’ontaine brillante et à côté un jeune homme d’une taille de cyprès et dont la vue calmait l’âme.
 >
@@ -72,7 +72,7 @@ Le héros qui était à la recherche du roi parcourait tristement la forêt, lor
 >
 > Guiv dit dans son âme :
 
-> de ne peut être que le roi, on ne trouve de pareils traits qu’à ceux à qui appartiennent les trônes.»
+> de ne peut être que le roi, on ne trouve de pareils traits qu’à ceux à qui appartiennent les trônes. »
 
 Il s’avança à pied et lorsqu’il fut près de lui, les nœuds de la corde qui avaitfcrmé si longtemps
 3h.
@@ -85,7 +85,7 @@ Il se dit :
 
 > de brave ne peut être que Guiv, il n’y a pas dans ce pays d’homme de cette mine.
 >
-> Il me cherche sans doute et m’emmènera dans l’Iran pour que j’y et règne.»
+> Il me cherche sans doute et m’emmènera dans l’Iran pour que j’y et règne. »
 
 Lorsque l’illustre Guiv s’approcha, Khosrou, le fils du roi, s’avança vers lui en disant :
 
@@ -115,7 +115,7 @@ Il dit à Khosrou :
 >
 > Qui t’a donné connaissance de Keschwad et de Guiv ?
 >
-> Puissent le bonheur et le pouvoir être ton partage !»
+> Puissent le bonheur et le pouvoir être ton partage ! »
 
 Keï Khosrou répondit :
 
@@ -127,7 +127,7 @@ Il dit alors à ma gloce rieuse mère :
 
 > Quelque malheur qui me soit réservé, Keï Khosrou naîtra et c’est lui qui délivrera l’Iran de toutes ses chaînes, dans le temps où le fier et vaillant Guiv le maître du monde, après de longues recherches, arrivera dans le pays de Touran et le conduira sur le trône d’Iran et dans l’assemblée des grands et des lions.
 >
-> Il rétablira alors par sa vaillance la prospérité du monde et me vengera.»
+> Il rétablira alors par sa vaillance la prospérité du monde et me vengera. »
 
 Guiv lui répondit :
 
@@ -137,7 +137,7 @@ Guiv lui répondit :
 >
 > Siawusch avait au bras un signe bien visible, c’était comme une tache de ce poix dans un parterre de roses.
 >
-> Découvre ton bras et montre-le-lnoi, car la marque que tu dois porter est connue de tout le peuple.»
+> Découvre ton bras et montre-le-lnoi, car la marque que tu dois porter est connue de tout le peuple. »
 
 Le roi lui montra son corps nu et Guiv y vit le signe noir héréditaire dans la famille royale depuis Keïkobad et qui était un indice infaillible de la race des Keïanides.
 
@@ -153,7 +153,7 @@ Guiv lui répondit :
 >
 > Qui peut savoir dans l’Iran si je suis en vie, ou sous terre, ou jeté dans le feu, ou si j’ai vu Siawusch vivant et l’ai interrogé sur ses peines et sur ses dou-leurs ?
 >
-> Grâces soient rendues à Dieu de ce que mon étoile a fait aboutir mes grandes fatigues à la joie et au bonheur !»
+> Grâces soient rendues à Dieu de ce que mon étoile a fait aboutir mes grandes fatigues à la joie et au bonheur ! »
 
 Ensuite ils sortirent tous deux de la forêt et pendant la route Khosrou s’entretint avec Guiv du roi Kaous, il le questionna sur les soucis et les peines qu’il avait endurés depuis sept ans et voulut savoir comment il s’était couché, comment il avait dormi et s’était nourri.
 
@@ -163,4 +163,4 @@ La peine que le récit des souffrances de Guiv fità Khosrou consumait son cœur
 
 > Puisse le sort te donner maintenant du repos et du bonheur après ces longues fatigues !
 >
-> Sois un père pour moi, ne parlait personne et observe la tournure que prendra la fortune .»
+> Sois un père pour moi, ne parlait personne et observe la tournure que prendra la fortune . »
