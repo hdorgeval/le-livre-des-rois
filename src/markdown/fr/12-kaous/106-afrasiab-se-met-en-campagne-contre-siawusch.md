@@ -26,7 +26,7 @@ Ferenguis lui dit :
 
 > Ô héros avide de combats !
 >
-> Qu’est-il arrivé se que tu aies changé de couleur?»
+> Qu’est-il arrivé se que tu aies changé de couleur ? »
 
 Il lui répondit :
 
