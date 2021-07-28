@@ -35,7 +35,7 @@ Le sage Piran répondit :
 
 > Puisse le monde ne jamais être privé de toi !
 
-J’ai des richesses, des trésors et une armée, et, grâce à ta haute fortune. une épée, une couronne et un trône.
+J’ai des richesses, des trésors et une armée, et, grâce à ta haute fortune une épée, une couronne et un trône.
 
 C’est au nom de Siawusch que je viens porter à l’oreille du roi un long message secret.
 
