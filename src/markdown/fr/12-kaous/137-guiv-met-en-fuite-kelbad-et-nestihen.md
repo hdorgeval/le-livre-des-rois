@@ -33,7 +33,7 @@ Kelbad dit au vaillant Nestihen :
 >
 > C’est contre la grâce de Dieu qui repose sur Keï Khosrou que nous luttons et non pas contre l’épée et la massue de Guiv.
 >
-> Je ne sais quel sera le sort de ce pays, on ne peut se ce dérober aux décrets de Dieu et les astrologues annoncent que les présages sont mauvais pour le Touran et pour ses braves.»
+> Je ne sais quel sera le sort de ce pays, on ne peut se ce dérober aux décrets de Dieu et les astrologues annoncent que les présages sont mauvais pour le Touran et pour ses braves. »
 
 Pareils à des lions, ils firent avec leur armée une attaque vigoureuse, des coups furent donnés et reçus et les cris des combattants et le son des trompettes firent trembler le cœur des montagnes.
 
@@ -58,7 +58,7 @@ Lorsque les Turcs arrivèrent auprès de Piran, blessés, honteux et navrés de 
 >
 > Qu’avez-vous fait de Guiv et où est Khosrou ?
 >
-> Raconte-moi exactement tout ce qui s’est passé.»
+> Raconte-moi exactement tout ce qui s’est passé. »
 
 Kelbad lui dit :
 
@@ -80,7 +80,7 @@ parler des hauts faits des braves, mais je n’ai jacr mais vu d’homme aussi f
 >
 > Mais chacun de nos coups ne faisait qu’exciter sa rage et il poussait toujours des cris comme un éléphant.
 >
-> La plaine semblait changée en montagne par les monceaux de morts et tant de braves avaient peur d’un seul homme.»
+> La plaine semblait changée en montagne par les monceaux de morts et tant de braves avaient peur d’un seul homme. »
 
 Piran éclata contre lui, en s’écriant :
 
