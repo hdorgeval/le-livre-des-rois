@@ -28,7 +28,7 @@ Parler et lui dit :
 >
 > Par l’âme et la tête du roi du Touran, par l’âme, la tête et la couronne de Kaous, je te conjure de ne pas te lever de ton trône pour moi et de ne pas venir à ma rencontre ; car tu en es dispensé par ton savoir et ta haute fortune, par ta dignité, ta naissance, ta couronne et ton trône.
 >
-> Les vents mêmes devraient t’obéir et tu te lèverais pour moi de ton trône royal?»
+> Les vents mêmes devraient t’obéir et tu te lèverais pour moi de ton trône royal ? »
 
 Le messager se rendit auprès de Siawusch, baisa la terre aussitôt qu’il l’aperçut et lui répéta les paroles de Guersiwez.
 
