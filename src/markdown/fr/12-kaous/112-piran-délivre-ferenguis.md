@@ -22,7 +22,7 @@ Lui, le vaillant Rouïn et Ferschidwerd firent voler incontinent la poussière s
 
 Tous les spectateurs avaient le cœur rempli de dou-leur et les yeux pleins de larmes à cause de ce que faisait l’infâme Afrasiab.
 
-Tous ceux qui se trouvaient dans la cour, hommes, femmes et enfants, se disaient l’un à l’autre : C’est une action cruelle et : 2 dangereuse que de mettre à mort Ferenguis et le royaume périra par la violence de cet homme que personne ne voudra plus appeler roi.»
+Tous ceux qui se trouvaient dans la cour, hommes, femmes et enfants, se disaient l’un à l’autre : C’est une action cruelle et : 2 dangereuse que de mettre à mort Ferenguis et le royaume périra par la violence de cet homme que personne ne voudra plus appeler roi. »
 
 Dans ce moment Piran arriva, rapide comme le vent et tous ceux qui avaient du sens s’en réjouirent.
 
@@ -63,15 +63,15 @@ frasiab, le cœur navré, les yeux remplis de larmes, s’écriant :
 >
 > Après avoir tué Siawusch, tu t’en prends à ton enfant ; tu en es arrivé à sévir contre ta propre famille ; tu t’es levé comme si tu étais possédé du Div et tu prépares follement de nouveaux malheurs : et pourtant la malheureuse Ferenguis ne demande plus les honneurs de la royauté, ni la couronne, ni le trône.
 >
-> Ne te rends donc pas infâme dans le monde par ta cruauté envers ta fille qui porte un enfant dans son sein ; car leur malédiction pl.»
+> Ne te rends donc pas infâme dans le monde par ta cruauté envers ta fille qui porte un enfant dans son sein ; car leur malédiction pl. »
 
 Serait sur toi pendant toute ta vie et après la mort l’enfer serait ton lot.
 
-Si tu veux me rendre heureux, envoie Ferenguis dans mon palais ; et si son enfant t’inquiète, quoiqu’il ne puisse te donner que peu de souci, attends que sa mère l’ait mis au monde ; alors je te l’apporterai et tu lui feras tout le mal que tu voudras.»
+Si tu veux me rendre heureux, envoie Ferenguis dans mon palais ; et si son enfant t’inquiète, quoiqu’il ne puisse te donner que peu de souci, attends que sa mère l’ait mis au monde ; alors je te l’apporterai et tu lui feras tout le mal que tu voudras. »
 
 Le roi lui répondit :
 
-> Fais comme tu as dit ; tu m’as ôté l’envie de mettre à mort Ferenguis.»
+> Fais comme tu as dit ; tu m’as ôté l’envie de mettre à mort Ferenguis. »
 
 Le Sipehdar du Touran fut heureux de cette réponse et son esprit fut délivré du poids de ses chagrins.
 
@@ -85,6 +85,6 @@ Lorsqu’il entra dans son palais, il dit à Gulschehr :
 
 > Il faut tenir cachée cette femme au beau visage, jusqu’à ce qu’elle ait mis un roi au monde et alors je trouverai moyen de les protéger.
 >
-> Tiens-toi debout devant la belle reine que je te confie et sois pour elle comme une esclave.»
+> Tiens-toi debout devant la belle reine que je te confie et sois pour elle comme une esclave. »
 
 Ainsi se passa de nouveau quelque temps et Ferenguis, qui illuminait le monde, voyait avancer sa grossesse.
