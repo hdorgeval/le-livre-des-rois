@@ -22,7 +22,7 @@ Il dit à Houman :
 
 > Hâte-toi, lâche les rênes à ton cheval, jusqu’à ce que tu aies atteint le Djihoun : car si nous apprenons que Khosrou l’a franchi, toute notre peine est vaine comme le vent qui passe sur le désert.
 >
-> J’ai été prévenu de ce qui arrive parles paroles d’hommes véridiques, qui m’ont assuré que les sages avaient dit dans les temps anciens qu’un roi naîtrait de l’union des familles de Tour et de Keïkobad, qu’il convertirait en désert le pays de Touran et qu’il ne laisserait pas subsister dans l’empire une seule ville ; que son cœur se tournerait avec amour vers l’Iran et qu’il ne montrerait au Touran qu’un vissage irrité.»
+> J’ai été prévenu de ce qui arrive parles paroles d’hommes véridiques, qui m’ont assuré que les sages avaient dit dans les temps anciens qu’un roi naîtrait de l’union des familles de Tour et de Keïkobad, qu’il convertirait en désert le pays de Touran et qu’il ne laisserait pas subsister dans l’empire une seule ville ; que son cœur se tournerait avec amour vers l’Iran et qu’il ne montrerait au Touran qu’un vissage irrité. »
 
 Pendant ce temps Guiv et Khosrou arrivèrent au bord du fleuve ; ils désiraient passer surlemhamp, M7 et disputèrent avec le fermier du péage, qui avait une barque de passage, une barque rapide, munie d’une voile neuve et qui était digne de servir à Keî
 Khosrou.
@@ -31,7 +31,7 @@ Le fermier dit à Guiv :
 
 > Quelle différence fait l’eau qui coule entre un esclave et un roi ?
 >
-> Si tu avais besoin de passer le fleuve, il fallait faire avertir le maître d’une barque.»
+> Si tu avais besoin de passer le fleuve, il fallait faire avertir le maître d’une barque. »
 
 Guiv lui répondit :
 
