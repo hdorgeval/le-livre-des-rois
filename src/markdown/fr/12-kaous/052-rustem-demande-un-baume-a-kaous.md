@@ -28,7 +28,7 @@ Porte un message de moi à Kaous ; raconte-lui quel malheur m’a frappé et dis
 >
 > Envoie-moi de ce baume qui se trouve dans ton trésor et qui guérit les blessés, envoie-lemoi en toute hâte avec une coupe de vin.
 >
-> Il se peut que Sohrab guérisse par ta grâce et qu’il devienne, comme moi, un des esclaves qui se tiennent devant ton trône.»
+> Il se peut que Sohrab guérisse par ta grâce et qu’il devienne, comme moi, un des esclaves qui se tiennent devant ton trône. »
 
 Le Sipehdar partit rapide comme le vent et porta le message à Kaous.
 
@@ -62,7 +62,7 @@ Tu as entendu comment Rustem a dit :
 >
 > S’il vit, les grands et les petits plieront devant lui.
 >
-> Quiconque aide à sauver son ennemi donne au monde une mauvaise opinion de lui -même.»
+> Quiconque aide à sauver son ennemi donne au monde une mauvaise opinion de lui -même. »
 
 Gouderz l’écoute et s’en retourna sur-le-champ ; il arriva auprès de Rustem, courant comme la fumée et lui dit :
 
@@ -70,4 +70,4 @@ Gouderz l’écoute et s’en retourna sur-le-champ ; il arriva auprès de Ruste
 >
 > Sa dureté est cause qu’il n’a aucun ami dans le monde et jamais il n’a fait un sacrifice pour soulager la peine d’un homme.
 >
-> Va toi-même auprès de lui et tâche d’éclairer son âme noire.»
+> Va toi-même auprès de lui et tâche d’éclairer son âme noire. »
