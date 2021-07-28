@@ -26,7 +26,7 @@ Rustem lui dit :
 >
 > Kaous est ce qu’il a toujours été et sa sévérité, au lieu de diminuer, ne fait qu’augmenter.
 >
-> Mais moi je peux aller auprès de lui et lui dévoiler le secret ; je déchirerai la terre si tu le désires et si je vais à la cour, je n’en attends que de l’honneur pour toi.»
+> Mais moi je peux aller auprès de lui et lui dévoiler le secret ; je déchirerai la terre si tu le désires et si je vais à la cour, je n’en attends que de l’honneur pour toi. »
 
 Siawusch fut aise de ces paroles et renonça au projet d’envoyer des messagers.
 
@@ -48,7 +48,7 @@ Son frère est venu auprès de moi avec des présents et beaucoup d’esclaves b
 
 Enfin Afrasiab m’a envoyé pour otages cent de ses parents.
 
-Rustem part pour te soumettre ces demandes et il serait convenable que tu les accordasses par l’elïet de la bienveillance, dont la douceur de tes traits m’est garant.»
+Rustem part pour te soumettre ces demandes et il serait convenable que tu les accordasses par l’elïet de la bienveillance, dont la douceur de tes traits m’est garant. »
 
 Rustem partit pour se rendre auprès du roi, avec des étendards et un cortège convenable et de son côté Guersiwez le bienveillant se rendit auprès du roi du Touran.
 
@@ -60,4 +60,4 @@ Le roi sourit et lui dit :
 >
 > Mon cœur était accablé par ce songe et je voyais du haut de ma fortune des signes de déclin.
 >
-> J’étais soucieux et je cherchais un moyen de salut afin de ne pas périr, je le préparais avec des trésors et de l’argent et l’événement est tel que je l’ai voulu.»
+> J’étais soucieux et je cherchais un moyen de salut afin de ne pas périr, je le préparais avec des trésors et de l’argent et l’événement est tel que je l’ai voulu. »
