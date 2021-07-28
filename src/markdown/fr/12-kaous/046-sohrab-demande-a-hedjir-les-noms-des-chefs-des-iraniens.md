@@ -49,7 +49,7 @@ Alors Sohrab reprit :
 >
 > KEI nous. turquoises bleu de mer flotte dans l’air un drapeau portant une figure du soleil sur un fond violet et surmonté d’une lune.
 >
-> Quel est ce camp assis au milieu de l’armée et à qui d’entre les braves de l’Iran appartient-il?»
+> Quel est ce camp assis au milieu de l’armée et à qui d’entre les braves de l’Iran appartient-il ? »
 
 Hedjir lui répondit :
 
@@ -105,7 +105,7 @@ Hedjir dit en lui-même :
 
 > Si j’indique à ce lion plein de cœur les signes qui distinguent Rustem au corps ’éléphant, il ne tardera pas à l’anéantir.
 >
-> Ne vaut-il pas mieux que je les tienne secrets et que j’omette son nom dans le dénombrement des braves ?»
+> Ne vaut-il pas mieux que je les tienne secrets et que j’omette son nom dans le dénombrement des braves ? »
 
 Il répondit à Sohrab :
 
@@ -230,7 +230,7 @@ Hedjir lui répondit :
 >
 > Son corps est doué de la force de cent hommes forts ; sa tête est plus haute qu’un arbre élancé.
 >
-> Quand il entre en colère au jour du combat, que sont dans sa main un lion, un éléphant, un homme?»
+> Quand il entre en colère au jour du combat, que sont dans sa main un lion, un éléphant, un homme ? »
 
 Sohrab, fils d’un noble père, s’écria :
 
@@ -258,7 +258,7 @@ Le Mobed a dit :
 >
 > Le vieux Gouderz a, sans me compter, soixante et seize fils au cœur de lion, comme Guiv le maître du monde, le destructeur des armées, qui est partout le premier d’entre le peuple, comme Bahram et Rehham qui portent haut la tête, comme Schidousch le Il
 >
-> H brave, le vainqueur des lions ; ils me chériront après ma mort et arracheront la vie à mes ennemis pour me venger.
+> brave, le vainqueur des lions ; ils me chériront après ma mort et arracheront la vie à mes ennemis pour me venger.
 >
 > Puisqu’il reste encore au pays d’Iran Gouderz et ses soixante et dix fils illustres, je peux lui manquer.
 >
