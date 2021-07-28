@@ -76,7 +76,7 @@ Keï Khosrou lui répondit :
 > Que]
 besoin as-tu de me voir !
 >
-> Tu presses tendrement contre ton cœur le fils d’un pâtre ; est-ce que tu n’en rougis pas?»
+> Tu presses tendrement contre ton cœur le fils d’un pâtre ; est-ce que tu n’en rougis pas ? »
 
 Le sage Piran eut le cœur enflammé d’amour pour lui et sa joue brûlait comme du feu ; il lui dit :
 
