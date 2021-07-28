@@ -24,11 +24,11 @@ Le roi de l’Iran dit à ce fourbe :
 
 > Aussitôt que le soleil dévoilera ses rayons, tu te rendras secrètement auprès de Siawusch et tu feras ce qu’il t’ordonnera.
 >
-> Tu diras à Soudabeh de préparer des présents et des joyaux, du musc et des parfums et de faire verser sur Siawusch, par les esclaves et par ses sœurs, des émeraudes et du safran.»
+> Tu diras à Soudabeh de préparer des présents et des joyaux, du musc et des parfums et de faire verser sur Siawusch, par les esclaves et par ses sœurs, des émeraudes et du safran. »
 
 Aussitôt que le soleil montra sa face au-dessus des montagnes, Siawusch se rendit auprès du roi, appela sur lui les grâces de Dieu et le salua ; le roi lui parla en secret et quand il eut fini, il manda Hirbed, à qui il adressa quelques paroles convenables ; ensuite il dit à Siawusch . :
 
-> Va avec lui et prépare ton cœur à ce que tu vas voir de nouveau.»
+> Va avec lui et prépare ton cœur à ce que tu vas voir de nouveau. »
 
 Hirbed et Siawusch partirent ensemble le cœur en joie, l’âme sans souci ; mais quand Hirbed tira le rideau de la porte, Siawusch trembla du malheur qui pouvait arriver.
 
@@ -64,7 +64,7 @@ Toutes les femmes ne cessaient de parler de lui, disant :
 >
 > renne de ce prince avide de sagesse !
 >
-> Tu dirais qu’il ne ressemble pas à un homme et que son esprit répand de l’intelligence sur cette qui l’approchent.»
+> Tu dirais qu’il ne ressemble pas à un homme et que son esprit répand de l’intelligence sur cette qui l’approchent. »
 
 Siawusch s’en retourna auprès de son père et lui dit :
 
@@ -72,7 +72,7 @@ Siawusch s’en retourna auprès de son père et lui dit :
 >
 > Tout ce que le monde a de beau est à toi ; ne te plains donc pas de Dieu.
 >
-> Tu es plus grand que Djemschid, que Feridoun et Houscheng, par ton épée, tes trésors et ton armée.»
+> Tu es plus grand que Djemschid, que Feridoun et Houscheng, par ton épée, tes trésors et ton armée. »
 
 Le roi se réjouit de ces paroles et para son palais comme un jardin printanier.
 
@@ -98,7 +98,7 @@ Soudabeh répondit :
 
 Le roi lui dit :
 
-> Quand il sera devenu homme, il ne faut pas qu’aucun mauvais œil puisse le frapper.»
+> Quand il sera devenu homme, il ne faut pas qu’aucun mauvais œil puisse le frapper. »
 
 Soudabeh] répondit :
 
@@ -110,7 +110,7 @@ Soudabeh] répondit :
 
 Le roi lui dit :
 
-> Je désire la même chose et mon pouvoir, mes projets et ma gloire l’exigent.»
+> Je désire la même chose et mon pouvoir, mes projets et ma gloire l’exigent. »
 
 À l’aube du jour, Siawusch se rendit auprès de son père et invoqua les grâces de Dieu sur sa couronne et son trône.
 
@@ -134,7 +134,7 @@ N. : 6 Siawusch lui répondit :
 
 Le roi sourit àcette réponse, sans s’apercevoir qu’il y avait de l’eau sous la paille (un danger caché) ; il lui dit :
 
-> C’est à toi de choisir ta femme ; n’aie pas peur de Soudabeh ni de personne autre, car ses paroles seront tendres et elle veillera sur ton âme.»
+> C’est à toi de choisir ta femme ; n’aie pas peur de Soudabeh ni de personne autre, car ses paroles seront tendres et elle veillera sur ton âme. »
 
 Siawusch se réjouit de ces paroles qui le délivrè-
 rent de ses soupçons secrets.
