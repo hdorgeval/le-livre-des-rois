@@ -50,7 +50,7 @@ Elle répondit :
 >
 > Maintenant Dieu t’a fait demeurer dans cette ville et je suis à toi si tu veux de moi. sinon ni oiseau ni poisson ne me verront jamais.
 >
-> Songe d’abord que mon amour pour toi m’a réduite à un état tel que je sacrifie ma raison pour ma passion ; ensuite que Dieu permettra peut-être qu’il me naisse un fils qui deviendra comme toi, un homme brave et fort et à qui Saturne et le soleil donneront l’empire du ce monde ; enfin que je t’amènerai ton cheval et mettrai à tes pieds tout le pays de Semengan.»
+> Songe d’abord que mon amour pour toi m’a réduite à un état tel que je sacrifie ma raison pour ma passion ; ensuite que Dieu permettra peut-être qu’il me naisse un fils qui deviendra comme toi, un homme brave et fort et à qui Saturne et le soleil donneront l’empire du ce monde ; enfin que je t’amènerai ton cheval et mettrai à tes pieds tout le pays de Semengan. »
 
 Les paroles de cette lune cessèrent.
 
@@ -73,7 +73,7 @@ N
 KEI nous sa Ensuite sa compagne fut laissée seule avec lui,’et
 .la nuit longue et sombre s’écoula ; et lorsque le soleil brillant commença de lancer de la haute voûte du ciel ses lacets de lumière, Rustem prit un onyx qu’il portait au bras et qui était célèbre dans le monde entier et le donna à Tehmimeh, en disant :
 
-> Garde ce joyau et si le ciel veut que tu mettes au monde une fille, prends cet onyx et attache-le aux boucles de ses cheveux sous une bonne étoile et sous d’heureux auspices ; mais si les astres t’accordent un fils, attache-le à son bras, comme l’a porté son père ; il égalera en stature Sam fils de Neriman ; par sa bravoure et sa bonté il ressemblera à Keriman ; il abattra dans les nues l’aigle ailé et le soleilne luira pas sur lui malignement.»
+> Garde ce joyau et si le ciel veut que tu mettes au monde une fille, prends cet onyx et attache-le aux boucles de ses cheveux sous une bonne étoile et sous d’heureux auspices ; mais si les astres t’accordent un fils, attache-le à son bras, comme l’a porté son père ; il égalera en stature Sam fils de Neriman ; par sa bravoure et sa bonté il ressemblera à Keriman ; il abattra dans les nues l’aigle ailé et le soleilne luira pas sur lui malignement. »
 
 Rustem passa ainsi la nuit avec la belle au visage de lune, tenant avec elle des discours sur toutes choses ; et lorsque
 .le soleil se leva brillant dans le ciel et commença d’embellir avec amour la terre, Rustem prit congé de Tehmimeh, la pressa contre son cœur et lui baisa plusieurs fois les yeux et le front.
