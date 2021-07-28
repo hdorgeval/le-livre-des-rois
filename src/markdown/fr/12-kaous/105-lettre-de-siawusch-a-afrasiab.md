@@ -48,7 +48,7 @@ Il commença par glorifier Dieu le créateur, qui soulage les peines de ses serv
 >
 > Pourquoi, lui dit-il, arrives-tu en si grande hâte ?
 >
-> Comment astu pu faire si rapidement un si long chemin?»
+> Comment astu pu faire si rapidement un si long chemin ? »
 
 Guersiwez répondit :
 
