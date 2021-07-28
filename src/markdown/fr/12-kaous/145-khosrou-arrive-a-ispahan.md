@@ -34,7 +34,7 @@ Ensuite Guiv écrivit une lettre à Kaous et le messager se leva et partit.
 
 Les dromadaires à la bouche écumante et aux pieds de vent s’élancèrent comme une flamme et l’envoyé de Guiv à l’esprit brillant arriva d’abord chez le Pehlewan.
 
-Il s’acquitte de son message, il remit la lettre, que le Pehlewan du monde porta à son front, en versant des larmes au souvenir de Siawusch et en maudissant Afrasiab.
+Il s’acquitta de son message, il remit la lettre, que le Pehlewan du monde porta à son front, en versant des larmes au souvenir de Siawusch et en maudissant Afrasiab.
 
 Ensuite, il se rendit»
 
