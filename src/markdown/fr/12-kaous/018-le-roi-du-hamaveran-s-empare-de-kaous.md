@@ -20,7 +20,7 @@ Mais le cœur du roi du Hamaveran était triste ; il cherchait de tous côtés u
 
 > S’il plaisait au roi d’être mon hôte, qu’il Lorsque la conquérante des cœurs et ce cortège KEi n vienne joyeusement dans mon palais.
 >
-> Le pays de Hamaveran sera honoré quand le peuple verra le visage du maître puissant.»
+> Le pays de Hamaveran sera honoré quand le peuple verra le visage du maître puissant. »
 
 C’est ainsi qu’il méditait un dessein contre Kaous ; son intention secrète était mauvaise et son cœur n’était pas droit ; car il espérait se ressaisir de son pays et de sa fille et s’affranchir du tribut à payer à Kaous.
 
@@ -32,7 +32,7 @@ Elle dit au roi :
 >
 > Il ne faut pas lui donner occasion de tomber sur toi pendant la fête et de s’emparer de ta personne inappréciable.
 >
-> Tout ce bruit ne se fait ’qu’à cause de moi et il t’arrivera malheur de ce mes,-sage.»
+> Tout ce bruit ne se fait ’qu’à cause de moi et il t’arrivera malheur de ce mes,-sage. »
 
 Kaous refusa de croire aux paroles de Soudabeh, car il ne tenait pour brave aucun homme de ce pays.
 
@@ -54,7 +54,7 @@ Le roi du Hamaveran se tint devant lui jour et nuit, ceint comme un esclave et s
 
 Mais à la fin de la semaine les hommesdu Hamaveran furent prêts à agir, leurs plans étaient’arrêtés et ils étaient u tous debout.
 
-L’armée des Berbers était avertie, ses plans étaient les mêmes et elle se mit en marche ; et lorsqu’elle fut arrivée, le cœur du roi du Hamaveran se réjouit.»Une nuit on entendit le bruit des clairons et des armes pendant que personne parmi les Iraniens ne pensait à se mettre en garde et l’on saisit subitement’Kaous,’ et avec lui Guiv, Gouderz et Thous, Gourguin et Zengueh fils de Schaweran et tous les héros pleins de courage ; on les saisit et on les lia avec de forts liens, on renversa leur gloire et leurs trônes.
+L’armée des Berbers était avertie, ses plans étaient les mêmes et elle se mit en marche ; et lorsqu’elle fut arrivée, le cœur du roi du Hamaveran se réjouit. »Une nuit on entendit le bruit des clairons et des armes pendant que personne parmi les Iraniens ne pensait à se mettre en garde et l’on saisit subitement’Kaous,’ et avec lui Guiv, Gouderz et Thous, Gourguin et Zengueh fils de Schaweran et tous les héros pleins de courage ; on les saisit et on les lia avec de forts liens, on renversa leur gloire et leurs trônes.
 
 Qu’en dit l’homme à l’œil perçant ?
 
@@ -90,13 +90,13 @@ Elle leur dit :
 >
 > Vous faites donc du trône d’or un piège !
 >
-> Vous trahissez la foi jurée !»
+> Vous trahissez la foi jurée ! »
 
 Elle appela les esclaves des chiennes ; ses yeux étaient remplis de sang et sa bouche de cris de colère.
 
 Je ne veux pas, dit-elle, être séparée de Kaous, quand même il serait caché dans un tombeau.
 
-S’il faut que Kaous traîne des fers, que l’on coupe ma tête innocente.»
+S’il faut que Kaous traîne des fers, que l’on coupe ma tête innocente. »
 
 Les esclaves répétèrent ce qu’elle avait dit à son père, dont la tête se remplit de colère, dont le cœur se gonfla de sang.
 
