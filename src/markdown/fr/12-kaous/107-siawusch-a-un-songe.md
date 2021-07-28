@@ -20,7 +20,7 @@ Siawusch passa trois jours dans les larmes à cause de cette trahison du sort ; 
 
 Ferenguis au beau visage le pressa contre son sein et lui dit :
 
-> Ô roil je t’en conjure par notre amour, dis-moi ce qui t’arrive !»
+> Ô roil je t’en conjure par notre amour, dis-moi ce qui t’arrive ! »
 
 3H Siawusch continua de pousser des cris ; on alluma un flambeau et l’on brûla devant lui du bois de sandal et de l’ambre.
 
@@ -42,13 +42,13 @@ Siawusch lui répondit :
 >
 > D’un côté était le feu qui tourbillonnait et consumait Siawuschguird ; devant moi se tenait Afrasiab monté sur un éléphant ; d’un côté était l’eau, de l’autre le feu.
 >
-> Afrasiab me vit, sa mine devint sombre et il attisa ce feu déjà si ardent.»
+> Afrasiab me vit, sa mine devint sombre et il attisa ce feu déjà si ardent. »
 
 Ferenguis lui dit :
 
 > Il n’en arrivera que du bonheur, pourvu que tu mettes à profit cette nuit même.
 >
-> C’est sur Guersiwez que tombera tout le mal et il sera tué par la main du Khakan de Roum.»
+> C’est sur Guersiwez que tombera tout le mal et il sera tué par la main du Khakan de Roum. »
 
 Siawusch rassembla toute son armée et la plaça devant le palais ; lui-même prit ses armes, monta à rheval l’épée en main et envoya des. vedettes du côté de Gang.
 
@@ -61,7 +61,7 @@ Un messager arriva de la part de Guersiwez et dit à Siawusch :
 >
 > Tous mes discours ont été vains et ce feu n’a produit qu’une fumée noire.
 >
-> Songe maintenant à ce que tu as à faire et où tu dois conduire ton armée.»
+> Songe maintenant à ce que tu as à faire et où tu dois conduire ton armée. »
 
 Siawusch ne pénétra pas ses intentions et crut à la sincérité de ses paroles.
 
@@ -71,4 +71,4 @@ Ferenguis lui dit :
 >
 > Ne fais aucune attention à nous : monte sur un cheval rapide et ne te fie plus au pays de Touran.
 >
-> Je voudrais te voir rester vivant sur la terre ; sauve donc ta tête et ne retarde ton départ pour personne.»
+> Je voudrais te voir rester vivant sur la terre ; sauve donc ta tête et ne retarde ton départ pour personne. »
