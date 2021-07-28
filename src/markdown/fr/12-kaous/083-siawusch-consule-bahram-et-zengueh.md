@@ -136,7 +136,7 @@ Il répondit :
 >
 > Mais si vous êtes affligés de ce que je fais, si vous refusez de m’obéir, je serai mon propre messager et mon propre guide, abandonnant mes tentes dans cette plaine.
 >
-> Car ceux qui ne peuvent plus participer à ma fortune, pourquoi les forcerais-je à partager mes peines?»
+> Car ceux qui ne peuvent plus participer à ma fortune, pourquoi les forcerais-je à partager mes peines ? »
 
 L’âme de ces deux hommes qui portaient haut la tête se flétrit à ces paroles de Siavvusch ; ils pleuraient de peur de le perdre, ils étaient dévorés comme d’un feu ardent.
 
