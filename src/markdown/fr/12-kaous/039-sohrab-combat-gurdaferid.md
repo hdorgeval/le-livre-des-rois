@@ -32,7 +32,7 @@ Elle se présenta devant l’armée comme un homme de guerre et poussa un cri pa
 
 Aucun des guerriers de cette armée orgueilleuse ne sortit des rangs pour la combattre ; mais lorsque Sohrab le vainqueur des lions la vit, il sourit, se mordit les lèvres et dit :
 
-> Voici encore un onagre dans le filet du maître de l’épée et de la force.»
+> Voici encore un onagre dans le filet du maître de l’épée et de la force. »
 
 Il se revêtit de sa cuirasse, mit à la hâte sur sa tête un casque de Roum et s’élança vers Gurdaferid.
 
@@ -65,7 +65,7 @@ Il en fut étonné et se dit :
 > Si les filles des braves de l’Iran vont ainsi sur le champ de ba-æwille, les cavaliers de ce pays doivent au jour du
 > 8
 >
-> combat faire voler la poussière jusqu’au-dessus du ciel qui tourne.»
+> combat faire voler la poussière jusqu’au-dessus du ciel qui tourne. »
 
 Il .détacha du pommeau de la selle son lacet roulé, le lança et prit Gurdaferid au milieu du corps.
 
@@ -73,7 +73,7 @@ Il lui dit :
 
 > Ne cherche pas à m’échapper ; pourquoi as-tu recherché le combat, ô belle au visage de lune ?
 >
-> Jamais semblable proie n’est tombée dans mes filets et tu ne m’échapperas pas de force.»
+> Jamais semblable proie n’est tombée dans mes filets et tu ne m’échapperas pas de force. »
 
 Alors Gnrdaferid lui montra son visage découvert, car elle ne vit plus d’autre moyen de salut ; elle lui montra son visage et lui dit :
 
@@ -93,7 +93,7 @@ Alors Gnrdaferid lui montra son visage découvert, car elle ne vit plus d’autr
 >
 > Maintenant nos troupes et le château sont à toi et il ne faut pas vouloir la guerre au moment de la paix.
 >
-> Le château, le trésor et le châtelain seront à toi aussitôt qu’il te plaira de venir.»
+> Le château, le trésor et le châtelain seront à toi aussitôt qu’il te plaira de venir. »
 
 En montrant ainsi ses joues à Sohrab, en lui montrant les perles de ses dents sous ses lèvres de jujubes, elle était comme un jardin du paradis et jamais Dihkan n’avait planté un cyprès de sa taille.
 
@@ -103,7 +103,7 @@ Sohrab lui dit :
 
 > Ne démens jamais les paroles que tu viens de prononcer, car tu m’as vu au jour du combat.
 >
-> Ne mets pas l’espoir de ton cœur dans les murs de ce château, car ils ne sont pas plus hauts que la voûte du ciel ; les coups de ma massue les feraient écrouler ; ma lance et mes bras renverseraient ces bastions.»
+> Ne mets pas l’espoir de ton cœur dans les murs de ce château, car ils ne sont pas plus hauts que la voûte du ciel ; les coups de ma massue les feraient écrouler ; ma lance et mes bras renverseraient ces bastions. »
 
 Gurdaferid saisit les rênes et conduisit son cheval à la tête haute vers la forteresse ; elle se mit en route accompagnée par Sohrab et Guadehem de son côté se dirigea vers la porte du château.
 
@@ -117,7 +117,7 @@ Gazdehem s’approcha de sa fille, entouré des grands et des guerriers et lui d
 >
 > Nos cœurs étaient pleins d’anxiété à cause de toi ; tu t’es jetée dans le combat, dans les ruses et dans les stratagèmes ; mais notre famille n’a pas à rougir de ta conduite.
 >
-> Grâces soient rendues au maître du ciel sublime, dece que ton ennemi ne t’a pas privée de la vie !»
+> Grâces soient rendues au maître du ciel sublime, dece que ton ennemi ne t’a pas privée de la vie ! »
 
 Gnrdaferid rit beaucoup, puis elle monta sur le rempart et regarda l’armée des Iraniens ; elle aperçut Sohrab assis sur son cheval et lui cria :
 
@@ -125,7 +125,7 @@ Gnrdaferid rit beaucoup, puis elle monta sur le rempart et regarda l’armée de
 >
 > Pourquoi te fatigues-tu ?
 >
-> Retourne par où tu es venu et abandonne le champ de bataille.»
+> Retourne par où tu es venu et abandonne le champ de bataille. »
 
 Sohrab lui répondit :
 
@@ -153,7 +153,7 @@ Gnrdaferid l’écouta en souriant et lui dit en se jouantde lui :
 >
 > de tels bras et une telle poitrine servent de pâture aux tigreslNe te fie pas trop à la force de tes bras, ncar la vache stupide mangera l’herbe qui croîtra sur ton corps.
 >
-> Tu ferais mieux de suivre mon conseil et de t’en retourner dans le Touran.»
+> Tu ferais mieux de suivre mon conseil et de t’en retourner dans le Touran. »
 
 À ces mots, Sohrab fut honteux, car il s’en était peu fallu qu’il ne se rendit maître du château.
 
@@ -161,6 +161,6 @@ Il y avait au-dessous de la forteresse une plaine sur laquelle les remparts s’
 
 Ensuite, il dit :
 
-> Il est trop tard pour aujourd’hui et nous ne pouvons plus livrer bataille ; mais demain à l’aube du jour nous ferons voler en l’air la poussière de ce château, nous désolerons ce lieu par toutes les horreurs de la guerre.»
+> Il est trop tard pour aujourd’hui et nous ne pouvons plus livrer bataille ; mais demain à l’aube du jour nous ferons voler en l’air la poussière de ce château, nous désolerons ce lieu par toutes les horreurs de la guerre. »
 
 Il dit, secoua les rênes de son cheval et partit en prenant le chemin de son camp.
