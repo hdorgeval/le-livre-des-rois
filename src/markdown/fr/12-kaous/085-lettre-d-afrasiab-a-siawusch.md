@@ -56,7 +56,7 @@ L’Iran, le trône et l’armée seront à toi et tu iras de contrée en contr�
 
 J’ai reçu l’ordre de Dieu de m’employer pour toi de toute mon âme et de toutes mes forces.
 
-Je ne te demanderai jamais de faire le mal et ne t’y entraînerai pas et je ne laisserai pas aller mon cœur à un seul soupçon contre toi.»
+Je ne te demanderai jamais de faire le mal et ne t’y entraînerai pas et je ne laisserai pas aller mon cœur à un seul soupçon contre toi. »
 
 Le roi apposa son sceau sur la lettre et ordonna à Zengueh, l’ami deSiawusch, de se ceindre en toute hâte pour le départ.
 
