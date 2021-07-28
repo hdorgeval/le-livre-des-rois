@@ -18,11 +18,11 @@ order: '093'
 
 Lorsque la voûte du ciel qui tourne amena le soleil qu’elle tenait devant elle comme un bouclier d’or, le Sipehdar Piran se ceignit et monta sur un cheval rapide, il alla au palais de Siawusch et se répandit en bénédictions sur sa gloire ; il lui dit :
 
-> Fais tes préparatifs pour recevoir aujourd’hui la fille du roi et si tu le permets, je m’apprêterai à l’accompagner pour lui rendre les honneurs du : à son rang.»
+> Fais tes préparatifs pour recevoir aujourd’hui la fille du roi et si tu le permets, je m’apprêterai à l’accompagner pour lui rendre les honneurs du : à son rang. »
 
 Siawusch eut le cœur rempli de confusion et sa joue rougit devant Piran, dont il était le gendre et qui le portait dans son sein comme s’il eût été son âme et son cœur ; il lui répondit :
 
-> Va et prépare tout selon les désirs ; tu sais que je n’ai pas de secret pour toi.»
+> Va et prépare tout selon les désirs ; tu sais que je n’ai pas de secret pour toi. »
 
 Piran, sur ces paroles, s’en retourna à son palais, le cœur et ’âme tout occupés de cette affaire.
 
@@ -40,7 +40,7 @@ On porta tout chez Ferenguis et toutes les langues prononcèrent des bénédicti
 
 Gulschehr baisa la terre et dit :
 
-> L’étoile du matin est devenue la compagne du soleil.»
+> L’étoile du matin est devenue la compagne du soleil. »
 
 Ensuite Piran et Afrasiab, par égard pour Siawusch, se hâtèrent de lui fiancer la princesse selon leurs coutumes et selon les rites de leur religion.
 
