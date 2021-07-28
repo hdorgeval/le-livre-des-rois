@@ -34,7 +34,7 @@ Rustem souleva, devant son père, le couvercle du cercueil que fermaient des clo
 
 > Regarde !
 >
-> Celui qui chevauchait sur l’arc-en-ciel dort misérablement dans cette bière étroite.»
+> Celui qui chevauchait sur l’arc-en-ciel dort misérablement dans cette bière étroite. »
 
 Le Destan versa de ses deux yeux des larmes de sang et invoqua, dans son angoisse, Dieu le guide.
 
@@ -42,13 +42,13 @@ Rus-M7 tem dit :
 
 > Ô enfant illustre !
 >
-> Tu es mort et je suis resté dans la tristesse et dans la douleur.»
+> Tu es mort et je suis resté dans la tristesse et dans la douleur. »
 
 Zal lui dit :
 
 > Quelle chose étonnante que Sohrab ait pris la lourde massue !
 >
-> Certes il était une merveille parmi les grands et jamais mère ne mettra au monde un semblable fils.»
+> Certes il était une merveille parmi les grands et jamais mère ne mettra au monde un semblable fils. »
 
 Il dit et les cils de ses yeux se remplirent de larmes de sang ; il ne cessait de parler de Sohrab.
 
@@ -58,7 +58,7 @@ Quand Roudabeh vit le cercueil de Sohrab et Rustem qui versait de ses deux yeux 
 
 > Ô noble héros !
 >
-> Lève pour un instant la tête hors de ce cercueil !»
+> Lève pour un instant la tête hors de ce cercueil ! »
 
 Elle commença alors à se lamenter et à exhaler de sa poitrine des soupirs froids, disant :
 
@@ -70,7 +70,7 @@ Elle commença alors à se lamenter et à exhaler de sa poitrine des soupirs fro
 >
 > Tu ne diras pas que !
 >
-> Sort t’a réservé ton père et comment il t’a déchiré la poitrine.»
+> Sort t’a réservé ton père et comment il t’a déchiré la poitrine. »
 
 Les cris de Roudabeh montèrcnt du palais jusqu’à Saturne et quiconque les entendait pleurait amèrement.
 
@@ -88,11 +88,11 @@ A voir ses bras et ses pieds, tu aurais dit que c’était Sam fatigué du comba
 
 Rustem le couvrit de nouveau de brocart jaune et ferma le couvercle de ce cercueil étroit, disant :
 
-> Si je lui bâtis un tombeau d’or, si je remplis sa bière de musc noir, on les enlèvera quand je serai mort et pourtant il ne me reste pas autre chose à faire.»
+> Si je lui bâtis un tombeau d’or, si je remplis sa bière de musc noir, on les enlèvera quand je serai mort et pourtant il ne me reste pas autre chose à faire. »
 
 Il lui bâtit alors un tombeau voûté comme le sabot d’un cheval et les larmes du deuil rendirent aveugle le monde.
 
-Il creusa des blocs de bois d’aloès, en fit son cercueil et le ferma avec des clous d’or.»
+Il creusa des blocs de bois d’aloès, en fit son cercueil et le ferma avec des clous d’or. »
 
 Le monde entier fut rempli de la nouvelle que le Pehlewan avait tué son fils ; le monde entier fut 1&9 consterné et quiconque entendit ce récit fut en proie à la tristesse.
 
