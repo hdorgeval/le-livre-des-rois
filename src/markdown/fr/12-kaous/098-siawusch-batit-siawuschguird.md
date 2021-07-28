@@ -21,7 +21,7 @@ Une nuit, arriva courant comme une flamme, un messager d’Afrasiab monté sur u
 > il apportait à Siawusch une lettre affectueuse, étoilée d’or comme le brillant firmament et dans laquelle le roi lui disait.-Depuis que tu es parti, j’ai perdu ma gaieté et les chagrins ne me quittent plus.
 >
 > Néan-
-R moins j’ai cherché pour toi une résidence convenable dans le Touran et quoique le lieu où tu es allé soit beau et charmant et que ton âme soit à l’abri de tout souci, je te prie de te rendre maintenant dans le pays que je t’ai donné et de jeter dans la poussière la tête de nos ennemis.»
+R moins j’ai cherché pour toi une résidence convenable dans le Touran et quoique le lieu où tu es allé soit beau et charmant et que ton âme soit à l’abri de tout souci, je te prie de te rendre maintenant dans le pays que je t’ai donné et de jeter dans la poussière la tête de nos ennemis. »
 
 Siawusch fit ses préparatifs et se dirigea en toute hâte du côté où le roi lui ordonnait d’aller.
 
