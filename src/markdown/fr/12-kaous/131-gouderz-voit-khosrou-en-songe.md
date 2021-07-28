@@ -32,7 +32,7 @@ Il vit un nuage chargé d’eau, qui descendait sur l’Iran ; sur ce nuage plan
 >
 > Il se ceindra pour venger son père et bouleversera tout le pays de Touran ; il fera bouillonner l’eau de la mer de Kolzoum ; il n’hésitera pas à se venger d’Afrasiab ; il restera toute l’année revêtu de la cuirasse de combat, il restera jour et nuit en selle pour livrer bataille.
 >
-> Aucun des braves et des grands de l’Iran n’est destiné à trouver ses traces, si ce n’est Guiv ; telle est la volonté du ciel qui tourne et qui, dans sa justice qui embrasse le monde, aime ton fils.»
+> Aucun des braves et des grands de l’Iran n’est destiné à trouver ses traces, si ce n’est Guiv ; telle est la volonté du ciel qui tourne et qui, dans sa justice qui embrasse le monde, aime ton fils. »
 
 Gouderz s’étant réveillé de son sommeil, adressa ses prières à Dieu le distributeur de la justice et toucha la poussière avec sa barbe blanche, plein d’espoir dans le roi du monde.
 
@@ -68,13 +68,13 @@ Il fit appeler Guiv, le cœur plein de soucis et lui parla longuement de ce rêv
 >
 > Puisque tu ne peux rester à jamais sur la terre, la renommée vaut mieux que cette demeure passagère.
 >
-> Tu rendras un roi au monde ; tu feras fleurir l’arbre du salut.»
+> Tu rendras un roi au monde ; tu feras fleurir l’arbre du salut. »
 
 Guiv lui répondit :
 
 > Ô mon père !
 >
-> Je suis ton esclave, je m’efforcerai de suivre tes ordres aussi longtemps que je vivrai ; et je jure par ton nom glorieux, ô mon guide, que si je puis, j’accomplirai ce devoir.»
+> Je suis ton esclave, je m’efforcerai de suivre tes ordres aussi longtemps que je vivrai ; et je jure par ton nom glorieux, ô mon guide, que si je puis, j’accomplirai ce devoir. »
 
 Il rentra dans son palais et se prépara pour le départ, tout étonné du rêve de son père.
 
@@ -85,6 +85,6 @@ Banougouschasp, la reine des reines, la fille chérie du vaillant Rustem, était
 > J’ai appris que tu vas dans le Touran pour chercher Khosrou partout, qu’il soit près ou loin.
 >
 > Je désire me rendre auprès de Rustem, si le Pehlewan me le permet ; j’ai envie de voir son visage, car je suis triste de ne l’avoir pas vu depuis si longtemps. le te dis adieu, ô
-Pehlewan du mondel Puisses-tu ne jamais cesser d’être le soutien des braves !»
+Pehlewan du mondel Puisses-tu ne jamais cesser d’être le soutien des braves ! »
 
 Guiv permit à sa compagne de partir et elle se dirigea aussitôt vers le Seistan.
