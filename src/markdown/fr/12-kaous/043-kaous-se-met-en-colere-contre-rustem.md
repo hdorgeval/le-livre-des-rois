@@ -36,7 +36,7 @@ Il commença par pousser un cri de rage contre Guiv et oubliant toute décence i
 
 Le cœur de Guiv bondit à ces paroles et il répondit :
 
-> Est-ce que tu porterais ainsi la main sur Rustem?»
+> Est-ce que tu porterais ainsi la main sur Rustem ? »
 
 Le roi éclata contre Guiv et contre Rustem de manière à jeter dans la stupeur toute l’assemblée ; il ordonna à Thous de les prendre tous les deux et de les pendre vivants au gibet et lui-même se leva de son trône, brûlant de colère comme la flamme qui dévore les roseaux.
 
@@ -48,7 +48,7 @@ Mais Tehemten s’emporte contre le roi et s’écria :
 >
 > Fais pendre vivant au gibet ce Turc, réserve ton courroux et tes mauvais traitements pour ton ennemi.
 >
-> Le Roum,, le Segsar, le Mazenderan, l’Égypte, la Chine et le Hamaveran sont des esclaves prosternés devant mon cheval Raksch ; leurs cœurs ont été brisés par mon épée et mon arbalète ; et toi-même, ce n’est que grâce à moi que tu vis ; comment peux-tu laisser aller ton cœur à cette fureur?»
+> Le Roum,, le Segsar, le Mazenderan, l’Égypte, la Chine et le Hamaveran sont des esclaves prosternés devant mon cheval Raksch ; leurs cœurs ont été brisés par mon épée et mon arbalète ; et toi-même, ce n’est que grâce à moi que tu vis ; comment peux-tu laisser aller ton cœur à cette fureur ? »
 
 Il dit et frappa rudement de sa main la main de Thous ; tu aurais dit que c’était un éléphant furieux qui l’assaillait.
 
