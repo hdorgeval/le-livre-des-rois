@@ -77,7 +77,7 @@ Il s’éleva un cri comme le tonnerre et le héros maître du monde fit entendr
 >
 > Hélas cette douleur qui déchire l’âme !
 >
-> Tu es mort loin de ta mère et le cœur percé par ton père.»
+> Tu es mort loin de ta mère et le cœur percé par ton père. »
 
 Einstein versa des larmes de sang, il creusa la terre avec ses ongles et déchira sur son corps ses vêtements royaux, en s’écriant :
 
@@ -131,7 +131,7 @@ Rustem répondit :
 >
 > Ne pense pas à les combattre.
 >
-> Zewareh, par la grâce de Dieu et par l’ordre du roi, servira de guide à cette armée dans sa marche.»
+> Zewareh, par la grâce de Dieu et par l’ordre du roi, servira de guide à cette armée dans sa marche. »
 
 Le roi lui dit :
 
@@ -139,4 +139,4 @@ Le roi lui dit :
 >
 > Tout le malheur de cette guerre est tombé sur toi.
 >
-> Quoique les Touraniens m’aient fait du mal, quoiqu’ils aient fait élever du pays d’Iran la fumée de la destruction, mon cœur est attristé de ta tristesse et je ne pense pas à tirer vengeance d’eux.»
+> Quoique les Touraniens m’aient fait du mal, quoiqu’ils aient fait élever du pays d’Iran la fumée de la destruction, mon cœur est attristé de ta tristesse et je ne pense pas à tirer vengeance d’eux. »
