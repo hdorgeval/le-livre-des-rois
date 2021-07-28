@@ -20,7 +20,7 @@ Afrasiab observait tout et voyant ce qui se passait, il exhala un soupir de sa p
 
 > Où est donc Alkous le brave qui a tant souhaité le combat des lions, qui dans son ivresse a désiré voir devant lui Guiv, qui s’est préparé à prendre surlui tout le poids du combat contre Rustem et qui n’a pas cessé de parler du pays d’Iran ?
 >
-> Où est donc maintenant son ardeur et son arrogance?»
+> Où est donc maintenant son ardeur et son arrogance ? »
 
 Alkous apprit ce que le roi venait de dire et les paroles que le maître du Touran venait de prononcer ; il poussa son cheval noir, et, les mains lavées dans le sang (n’en doute pas), il courut vers le centre de l’armée et vers Afrasiab, en criant àhaute voix :
 
