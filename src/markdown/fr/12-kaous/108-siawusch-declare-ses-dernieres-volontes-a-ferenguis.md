@@ -51,7 +51,7 @@ Siawusch lui dit :
 > Mainte armée, désirant me venger, revêtira ses cuirasses en mon honneur, la terre retentira des cris des hommes et Keï Khosrou ébranlera le
 . monde.
 >
-> Le Raksch de Rustem foulera la terre sous ses pieds et ne comptera pour rien les Touraniens : et tu ne verras depuis ce jour, jusqu’au jour de la résurrection, que des massues et des épées tranchantes employées à me venger.»
+> Le Raksch de Rustem foulera la terre sous ses pieds et ne comptera pour rien les Touraniens : et tu ne verras depuis ce jour, jusqu’au jour de la résurrection, que des massues et des épées tranchantes employées à me venger. »
 
 Ayant prononcé ces paroles, le noble Siawusch embrassa Ferenguis, prit congé d’elle et lui dit :
 
@@ -59,7 +59,7 @@ Ayant prononcé ces paroles, le noble Siawusch embrassa Ferenguis, prit congé d
 >
 > Je vais à la mort.
 >
-> N’oublie jamais les paroles que j’ai prononcées et renonce dorénavant à la vie molle et au trône.»
+> N’oublie jamais les paroles que j’ai prononcées et renonce dorénavant à la vie molle et au trône. »
 
 Ensuite, il poussa des cris d’angoisse et sortit du palais le cœur rempli de tristesse, les joues couvertes de pâleur.
 
@@ -77,7 +77,7 @@ Il pressa en soupirant la tête du cheval contre sa poitrine, il le débarrassa 
 >
 > Renonce pour toujours à l’écurie, car tu es destiné à porter Keï Khosrou au jour de la vengeance.
 >
-> Sers-lui alors de monture, foule la terre et délivre le monde des ennemis de mon fils en les frappant de tes sabots.»
+> Sers-lui alors de monture, foule la terre et délivre le monde des ennemis de mon fils en les frappant de tes sabots. »
 
 Ensuite, il coupa les jarrets aux autres chevaux, il brûlait de colère comme la flamme qui dévore les roseaux.
 
