@@ -46,7 +46,7 @@ Il se dit :
 
 > ces !
 >
-> Probablement. un vil Div qui a apparu au Pehlerewan, lorsqu’il a eu ce rêve.
+> Probablement un vil Div qui a apparu au Pehlerewan, lorsqu’il a eu ce rêve.
 >
 > Je ne trouve aucune
 >
