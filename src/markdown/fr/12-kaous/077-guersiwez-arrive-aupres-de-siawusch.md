@@ -34,7 +34,7 @@ Siawusch lui assigna un siège au-dessous de son trône et lui fit des questions
 
 Guersiwez écouta le jeune roi, il regarda cette tête jeune et ce trône brillant ; ensuite il s’adressa à Rustem, disant :
 
-> Aussitôt qu’Afrasiab a eu de tes nouvelles, il a ennoyé au roi en toute hâte un souvenir que j’apporte avec moi.»
+> Aussitôt qu’Afrasiab a eu de tes nouvelles, il a ennoyé au roi en toute hâte un souvenir que j’apporte avec moi. »
 
 Il ordonna alors qu’on apportât les présents et qu’on les fît passer devant Siawusch.
 
@@ -46,7 +46,7 @@ Siawusch admira beaucoup ces présents et sourit ; il les regarda et prêta l’
 
 > Livrons-nous à la joie pendant une semaine, avant de parler de réponse.
 >
-> Il nous faut beaucoup réfléchir sur cette demande etadresser des questions à tout le monde.»
+> Il nous faut beaucoup réfléchir sur cette demande etadresser des questions à tout le monde. »
 
 Guersiwez ayant entendu ces paroles, toucha de son front et de ses cheveux le trône de Siawusch.
 
@@ -68,8 +68,8 @@ Siawusch s’adressa à Rustem et lui dit :
 >
 > Ne vois-tu pas que la peur que nous lui inspirons le trouble et qu’il bat le tambour sous le manteau (qu’il veut cacher ce qui ne peut se cacher) ?
 >
-> Quand nous aurons conclu avec lui, il nous faudra envoyer auprès du roi un de nos amis qui lui explique ce qui s’est passé, pour que le désir de la vengeance ne fasse pas commettre à Kaous quelque acte insensé.»
+> Quand nous aurons conclu avec lui, il nous faudra envoyer auprès du roi un de nos amis qui lui explique ce qui s’est passé, pour que le désir de la vengeance ne fasse pas commettre à Kaous quelque acte insensé. »
 
 Rustem répondit :
 
-> C’est ainsi que nous ferons et ce n’est qu’ainsi qu’un traité pourra se conclure.»
+> C’est ainsi que nous ferons et ce n’est qu’ainsi qu’un traité pourra se conclure. »
