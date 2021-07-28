@@ -468,7 +468,13 @@
       "Schaweran",
       "Gourazeh",
       "Irem",
-      "Hamaveran"
+      "Hamaveran",
+      "Mekran",
+      "Berber",
+      "Berberistan",
+      "Berbers",
+      "Kaf",
+      "Zereh"
     ]
   },
   "hiddenFalsePositives": {
@@ -493,7 +499,10 @@
         "rule": "D_N",
         "sentence": "^\\QSache qu'un méchant homme, et quiconque n'adore pas Dieu, est un Div;\\E$"
       },
-      { "rule": "D_N", "sentence": "^\\QMais n'appelle pas ainsi le Div Akwan.\\E$" },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QMais n'appelle pas ainsi le Div Akwan.\\E$"
+      },
       {
         "rule": "D_N",
         "sentence": "^\\QRustem ayant tranché la tête au Div, monta sur son cheval qui ressemblait à une montagne, réunit les troupeaux de chevaux et tous les bagages que les Turcs avaient laissés, et se mit en marche avec les éléphants et ce riche butin; le monde entier fut embelli par l'éclat de ses belles actions.\\E$"
@@ -514,17 +523,26 @@
         "rule": "D_N",
         "sentence": "^\\QPendant ce temps un Div, déguisé en chanteur, s'approcha du chambellan, demandant accès auprès du roi en ces mots :\\E$"
       },
-      { "rule": "D_N", "sentence": "^\\QKeïkobad se rend à Istakher, dans le Fars\\E$" },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QKeïkobad se rend à Istakher, dans le Fars\\E$"
+      },
       {
         "rule": "IMP_PRON",
         "sentence": "^\\QPasse le Djihoun, fais avancer ton armée et n'attends pas que quelqu'un s'asseye sur le trône !\\E$"
       },
-      { "rule": "D_N", "sentence": "^\\QCombat de Kaïoumors et de Houscheng avec le Div noir\\E$" },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QCombat de Kaïoumors et de Houscheng avec le Div noir\\E$"
+      },
       {
         "rule": "FR_SPELLING_RULE",
         "sentence": "^\\QSelm et Tour ont nouvelle de Minoutchehr\\E$"
       },
-      { "rule": "D_N", "sentence": "^\\QCombat de Siamek avec le Div\\E$" },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QCombat de Siamek avec le Div\\E$"
+      },
       {
         "rule": "D_N",
         "sentence": "^\\QIl alla à la rencontre du Div avide de combat ; et lorsque les armées furent en présence, Siamek s'avança le corps nu et saisit le fils d'Ahriman.\\E$"
@@ -581,7 +599,10 @@
         "rule": "D_N",
         "sentence": "^\\QÔ complices du Div, qui avez arraché de votre cœur toute crainte du maître du ciel, vous vous êtes tournés vers l'enfer, vous avez asservi vos âmes à ses ordres.\\E$"
       },
-      { "rule": "UPPERCASE_SENTENCE_START", "sentence": "^\\Qmon cœur a été comme brisé.\\E$" },
+      {
+        "rule": "UPPERCASE_SENTENCE_START",
+        "sentence": "^\\Qmon cœur a été comme brisé.\\E$"
+      },
       {
         "rule": "CONF_VERBE_NOM",
         "sentence": "^\\QPourquoi s'assied-il auprès des filles du roi Djem et tient-il avec elles conseil sur toutes choses, grandes et petites ?\\E$"
@@ -690,7 +711,10 @@
         "rule": "VOIE_VOIX",
         "sentence": "^\\QCelui-là est vraiment le sage, qui ne foule pas aux pieds un ennemi terrassé et qui marche dans le monde dans la voie de la sagesse, en se tournant toujours vers elle.\\E$"
       },
-      { "rule": "UPPERCASE_SENTENCE_START", "sentence": "^\\Qô héros !\\E$" },
+      {
+        "rule": "UPPERCASE_SENTENCE_START",
+        "sentence": "^\\Qô héros !\\E$"
+      },
       {
         "rule": "AN_ANNEE",
         "sentence": "^\\QIl gouverna le monde avec justice et prudence et fut le guide du peuple vers tout ce qui est bien ; il augmenta le trésor et l'armée du roi, il para son palais et son trône et cinq années se passèrent ainsi, pendant lesquelles l'enfant acquit de la dignité et des forces.\\E$"
@@ -779,7 +803,10 @@
         "rule": "PORTER_FRUIT",
         "sentence": "^\\QIl faut d'abord tout entendre et si c'est un homme de savoir qui parle, sa réponse ira droit au but ; mais quand l'homme qui sait les choses est avide, son savoir ne peut pas porter fruit et si l'homme savant agit avec précipitation, son savoir est inutile comme l'eau dans un marais salé.\\E$"
       },
-      { "rule": "UPPERCASE_SENTENCE_START", "sentence": "^\\Qprintemps !\\E$" },
+      {
+        "rule": "UPPERCASE_SENTENCE_START",
+        "sentence": "^\\Qprintemps !\\E$"
+      },
       {
         "rule": "ETRE_VPPA_OU_ADJ",
         "sentence": "^\\QÀ la porte était assis Galinous, devant lequel on aurait dit que la terre bouillonnait ; toute sa troupe était en armes, toute ornée et parée et les épées tirées, revêtue de cuirasses et de casques, montée sur des chevaux arabes caparaçonnés.\\E$"
@@ -960,7 +987,10 @@
         "rule": "SUBJ_LOCU",
         "sentence": "^\\QIl envoya tout de suite un cavalier à Kaboul pour qu'il apprit à Mihrab ce qui s'était passé et comment le roi de la terre avait rétabli le bonheur qui avait disparu, en ajoutant :\\E$"
       },
-      { "rule": "UPPERCASE_SENTENCE_START", "sentence": "^\\Qde joie et de repos.\\E$" },
+      {
+        "rule": "UPPERCASE_SENTENCE_START",
+        "sentence": "^\\Qde joie et de repos.\\E$"
+      },
       {
         "rule": "PORTER_FRUIT",
         "sentence": "^\\QNe laisse pas ton cœur s'affliger ; car cette branche, digne de porter fruit, te portera fruit.\\E$"
@@ -1049,7 +1079,10 @@
         "rule": "D_N",
         "sentence": "^\\QIl se présenta devant le Div avide de combats et lui répéta les paroles de son maître superbe.\\E$"
       },
-      { "rule": "D_N", "sentence": "^\\QLe Div blanc lui répondit :\\E$" },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QLe Div blanc lui répondit :\\E$"
+      },
       {
         "rule": "D_N",
         "sentence": "^\\QLe huitième jour le Div blanc s'écria d'une voix de tonnerre :\\E$"
@@ -1086,7 +1119,10 @@
         "rule": "D_N",
         "sentence": "^\\QMais à présent je suis ceint et prêt à partir et ne demande de secours qu'au Dieu juste ; je dévoue au roi mon corps et mon âme ; je briserai les talismans et les corps des magiciens ; je ramènerai tous les Iraniens qui sont encore en vie ; je les ceindrai de nouveau de leurs ceintures ; je n'épargnerai ni Arzeng, ni le Div blanc, ni Sandjeb, ni Poulad fils de Ghandi, ni Bid ; je jure par le nom de Dieu l'unique, le créateur, que Rustem ne descendra pas de Raksch avant d'avoir lié les mains d'Arzeng dur comme un rocher et de lui avoir mis un joug sur le cou, avant d'avoir foulé aux pieds la tête et la cervelle de Poulad et avant que le pied de Raksch ait remis la terre à sa place.»\\E$"
       },
-      { "rule": "P_V_PAS", "sentence": "^\\QQui pouvait savoir s'ils le reverraient jamais ?\\E$" },
+      {
+        "rule": "P_V_PAS",
+        "sentence": "^\\QQui pouvait savoir s'ils le reverraient jamais ?\\E$"
+      },
       {
         "rule": "D_N",
         "sentence": "^\\QMais à présent je suis ceint et prêt à partir et ne demande de secours qu'au Dieu juste ; je dévoue au roi mon corps et mon âme ; je briserai les talismans et les corps des magiciens ; je ramènerai tous les Iraniens qui sont encore en vie ; je les ceindrai de nouveau de leurs ceintures ; je n'épargnerai ni Arzeng, ni le Div blanc, ni Sandjeb, ni Poulad fils de Ghandi, ni Bid ; je jure par le nom de Dieu l'unique, le créateur, que Rustem ne descendra pas de Raksch avant d'avoir lié les mains d'Arzeng dur comme un rocher et de lui avoir mis un joug sur le cou, avant d'avoir foulé aux pieds la tête et la cervelle de Poulad et avant que le pied de Raksch ait remis la terre à sa place.\\E$"
@@ -1195,7 +1231,10 @@
         "rule": "D_N",
         "sentence": "^\\Q6ème aventure - Combat de Rustem contre le Div Arzeng\\E$"
       },
-      { "rule": "D_N", "sentence": "^\\Q7ème aventure - Rustem tue le Div blanc\\E$" },
+      {
+        "rule": "D_N",
+        "sentence": "^\\Q7ème aventure - Rustem tue le Div blanc\\E$"
+      },
       {
         "rule": "D_N",
         "sentence": "^\\QQuand Raksch fut arrivé dans les sept montagnes et auprès de ces troupes de Divs courageux, Rustem s'approcha de la caverne sans fond et vit tout autour l'armée du Div.\\E$"
@@ -1216,7 +1255,10 @@
         "rule": "D_N",
         "sentence": "^\\QIl se mit en colère comme un lion sauvage, donna au Div un coup de son épée tranchante sur le milieu du corps et détacha de ce grand corps, par la force de son bras, un pied et une cuisse.\\E$"
       },
-      { "rule": "D_N", "sentence": "^\\QEt le Div dit de même dans son cœur :\\E$" },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QEt le Div dit de même dans son cœur :\\E$"
+      },
       {
         "rule": "D_N",
         "sentence": "^\\QLe Div blanc se parla ainsi à lui-même ; cependant il reprit courage.\\E$"
@@ -1308,6 +1350,10 @@
       {
         "rule": "D_N",
         "sentence": "^\\QQue le roi m'accorde la permission de combattre ce Div voué à la destruction.\\E$"
+      },
+      {
+        "rule": "VOIE_VOIX",
+        "sentence": "^\\QLes peuples apprenant son arrivée, accoururent lui rendre hommage : tous les grands allèrent au-devant de lui et se soumirent à de lourds tributs et comme ils étaient prêts à lui obéir et à marcher dans sa voie, le roi passa avec son armée sans leur faire de mal.\\E$"
       }
     ]
   }
