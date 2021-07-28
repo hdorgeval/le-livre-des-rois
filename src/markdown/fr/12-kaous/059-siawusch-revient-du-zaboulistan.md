@@ -37,7 +37,7 @@ Kaous rendit grâces à Dieu le créateur, en frottant son front contre terre et
 
 > Ô Créateur du ciel, maître de l’intelligence et maître de l’amour !
 >
-> Tout bonheur dans le monde vient de toi et je t’implore avant tout pour mon fils.»
+> Tout bonheur dans le monde vient de toi et je t’implore avant tout pour mon fils. »
 
 Tous les grands de l’Iran se présentèrent joyeusement devant le roi avec leurs offrandes.
 
