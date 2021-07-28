@@ -28,7 +28,7 @@ La fille d’Afrasiab lui demanda encore :
 
 > Ô sage roi !
 >
-> Qu’asotu vu en songe?»
+> Qu’asotu vu en songe ? »
 
 Siawusch lui répondit :
 
