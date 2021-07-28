@@ -34,7 +34,7 @@ Kaous lui dit :
 >
 > Or lorsque Sohrab s’était décidé pour la guerre et que son départ s’approchait, sa mère avait mandé l’illustre Zendeh Rezm, qui était fils du roi de-Semengan et oncle de Sohrab le glorieux et qui avait vu Rustem au banquet et elle lui avait dit :
 
-> Ô héros à l’âme brillante. je t’enverrai avec cet enfant ; et quand il sera arrivé dans l’Iran et auprès du, roi des braves, quand au jour du combat les armées se rapprocheront, alors tu montreras son père à mon noble fils.»
+> Ô héros à l’âme brillante. je t’enverrai avec cet enfant ; et quand il sera arrivé dans l’Iran et auprès du, roi des braves, quand au jour du combat les armées se rapprocheront, alors tu montreras son père à mon noble fils. »
 
 Rustem vit donc Sohrab assis au festin sur un trône et placés près de lui, d’un côté Zendeh Bezm, de l’autre Houman le vaillant cavalier et Barman le lion renommé.
 
@@ -50,7 +50,7 @@ Zendeh s’approcha de lui et lui demanda subitement :
 >
 > Réponds-moi.
 >
-> Viens vers la lumière et montre-toi.»
+> Viens vers la lumière et montre-toi. »
 
 Bustein le frappa sur la nuque d’un violent coup de poing et l’âme de Zendeh Bezm abandonna son corps ; il mourut sur la place ; il ne devait plus combattre et les fêtes avaient fini pour lui.
 
@@ -62,7 +62,7 @@ Ils revinrent en poussant des cris de terreur, ils revinrent ’âme troublée d
 
 > Zendeh Bezm est mort !
 >
-> Les fêtes et les combats sont passés pour lui.»
+> Les fêtes et les combats sont passés pour lui. »
 
 Sohrab, en entendant ces paroles, sauta sur ses pieds et alla vers Zendeh, courant comme la fumée.
 
@@ -80,7 +80,7 @@ Et les grands et leur dit :
 >
 > Si Dieu le créateur du monde m’est en aide, je vengerai sur les Iraniens la mort de Zendeh.
 >
-> Demain, aussitôt que le sabot de mon cheval foulera la terre, je délierai mon lacet du crochet de la selle.»
+> Demain, aussitôt que le sabot de mon cheval foulera la terre, je délierai mon lacet du crochet de la selle. »
 
 Il s’en retourna, reprit sa place, appela les grands et leur dit :
 
@@ -101,7 +101,7 @@ Tehemten ouvrit la bouche pour lui répondre et raconta ce qu’il avait fait et
 
 Le noble Guiv invoqua les grâces de Dieu sur lui en disant :
 
-> Puisses-tu ne jamais manquer à ton cheval, à ta massue et à ta selle !»
+> Puisses-tu ne jamais manquer à ton cheval, à ta massue et à ta selle ! »
 
 De la Rustem alla auprès du roi et lui fit la description des Turcs et de leur festin, de Sohrab, de sa haute taille et de ses bras prêts pour le combat. disant : Jamais homme comme lui n’a paru chez les Turcs ; il ressemble à un cyprès, tant sa taille est droite ; il n’a d’égal ni dans l’Iran ni dans le Touran ; tu croirais que c’est Sam le cavalier.
 
