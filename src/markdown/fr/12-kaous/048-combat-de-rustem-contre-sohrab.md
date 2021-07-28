@@ -95,7 +95,7 @@ Il poussa un cri comme un lion féroce et lui dit :
 >
 > Pourquoi n’as-tu pas retenu la main du mal ?
 >
-> Pourquoi es-tu venu comme un loup au milieu du troupeau?»
+> Pourquoi es-tu venu comme un loup au milieu du troupeau ? »
 
 Sohrab lui répondit :
 
