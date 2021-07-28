@@ -50,7 +50,7 @@ Piran dit à Siawusch :
 >
 > Djerireh en est l’aînée ; elle n’a pas son égale parmi les filles au beau visage.
 >
-> Si tu le désires, elle sera la servante, elle se tiendra devant toi comme une esclave.»
+> Si tu le désires, elle sera la servante, elle se tiendra devant toi comme une esclave. »
 
 Siawusch lui répondit :
 
@@ -60,7 +60,7 @@ Siawusch lui répondit :
 >
 > Elle fera les délices de mon cœur et de mes yeux et je ne demande qu’elle parmi toutes ces jeunes filles.
 >
-> Tu me mets, par ce mariage, une dette sur la tête que je ne pourrai acquitter de ma vie.»
+> Tu me mets, par ce mariage, une dette sur la tête que je ne pourrai acquitter de ma vie. »
 
 Piran quitta Siawusch ; il courut en toute hâte auprès de Gulschehr et lui dit :
 
