@@ -58,7 +58,7 @@ KEÏ. nous.
 
 Ce discours mit Afrasiab tout en feu, il s’écria :
 
-> Que parles-tu tant de repos et de sommeil ?»
+> Que parles-tu tant de repos et de sommeil ? »
 
 Il regarda Guersiwez, tu aurais dit qu’il voulait le déchirer.
 >
