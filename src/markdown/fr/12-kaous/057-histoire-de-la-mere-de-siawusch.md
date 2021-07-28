@@ -40,13 +40,13 @@ Elle ressemblait par la taille à un cyprès et par son aspect à une lune ; on 
 
 Elle répondit :
 
-> Mon père m’a battue hier soir et je me suis enfuie à travers le pays ; il revenait, dans la nuit profonde, d’une fête de noce ; il était ivre et dès qu’il m’a vue de loin, il s’est mis en colère, a tiré un poignard brillant et a voulu me séparer la tête du corps.»
+> Mon père m’a battue hier soir et je me suis enfuie à travers le pays ; il revenait, dans la nuit profonde, d’une fête de noce ; il était ivre et dès qu’il m’a vue de loin, il s’est mis en colère, a tiré un poignard brillant et a voulu me séparer la tête du corps. »
 
 Le héros lui demanda son origine et peu à peu elle lui raconta tout depuis le commencement jusqu’à la fin, disant :
 
 > Je suis de la famille de Guersiwez et ma race tire son origine du roi Feridoun. -Comment, lui dit Thous, es-tu venue ici à pied ?
 >
-> Car tu es sans monture et sans guide.»
+> Car tu es sans monture et sans guide. »
 
 Elle lui répondit :
 
@@ -64,21 +64,21 @@ Le prince, fils de Newder, dit :
 
 KE’I’ nous. hâtém Guiv lui répondit :
 
-> Ô Sipehdar du roi, tu a n’es pas mon égal quand tu es séparé de ton armée.»
+> Ô Sipehdar du roi, tu a n’es pas mon égal quand tu es séparé de ton armée. »
 
 Thous continua à lui disputer cette femme, en disant :
 
-> Elle est venue ici au-devant de mon cheval.»
+> Elle est venue ici au-devant de mon cheval. »
 
 Guiv répondit :
 
 > Ne parle pas ainsi, car c’est moi qui dans l’ardeur de la chasse vous ai devancés tous.
 >
-> Ne dis pas un mensonge pour gagner une esrrclave, car tu n’es pas assez brave pour soutenir une querelle.»
+> Ne dis pas un mensonge pour gagner une esrrclave, car tu n’es pas assez brave pour soutenir une querelle. »
 
 .Leurs paroles devinrent si violentes, qu’ils allaient trancher la tête à cette lune ; mais lorsque leur discussion eut duré longtemps, un des grands vint s’interposer, disant :
 
-> Amenez-la devant le roi et soumettez-vous tous deux à sa décision.»
+> Amenez-la devant le roi et soumettez-vous tous deux à sa décision. »
 
 Ils l’épargnèreut selon son conseil et se dirigèrent vers le roi de l’Iran.
 
@@ -88,7 +88,7 @@ Quand Kaous vit le visage de la jeune fille, il sourit en se mordant les lèvres
 >
 > Vous n’amenez qu’une gazelle gracieuse et pourtant c’est un gibier de grande chasse, un gibier qui n’appartient qu’au roi.
 >
-> Nous passerons la journée à entendre comment les héros ont pris un soleil à l’aide des guépards.»
+> Nous passerons la journée à entendre comment les héros ont pris un soleil à l’aide des guépards. »
 
 Ensuite le roi demanda àla jeune fille :
 
@@ -102,11 +102,11 @@ Les tentes couvrent cette frontière, est mon grandpèrem Le roi lui demanda :
 
 > Comment as-tu pu donner au vent ces beaux cheveux et ce visage et ce cette haute naissance ?
 >
-> Tu es digne que je te place sur un coussin d’or ; il faut que je te fasse la reine des femmes au visage de lune.»
+> Tu es digne que je te place sur un coussin d’or ; il faut que je te fasse la reine des femmes au visage de lune. »
 
 Elle lui répondit :
 
-> Aussitôt que je t’ai vu, je t’ai choisi parmi tous les grands qui portent haut la tête.»
+> Aussitôt que je t’ai vu, je t’ai choisi parmi tous les grands qui portent haut la tête. »
 
 Le roi envoyaà chacun des deux Pehlewans dix nobles chevaux, un trône et une couronne ; il fit entrer la belle dans l’appartement des femmes et lui ordonna de s’asseoir sur le trône.
 
