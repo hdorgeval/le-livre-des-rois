@@ -39,11 +39,11 @@ Tu as derrière tes rideaux une fille dont j’ai entendu dire qu’elle est dig
 Puisque tu trouves un gendre comme le fils de Kobad, sache que le soleil t’a traité avec faveur. »
 
 ’ ’
-Le sage messager à la langue affilée se rendit au-près du roi du Hamaveran ; il exerça sa langue et excita son cœur ; il prépara ses lèvres à prononcer de douces paroles ; il porta au roi le salut et les bénédictions de Kaous et s’acquitte de son message.
+Le sage messager à la langue affilée se rendit au-près du roi du Hamaveran ; il exerça sa langue et excita son cœur ; il prépara ses lèvres à prononcer de douces paroles ; il porta au roi le salut et les bénédictions de Kaous et s’acquitta de son message.
 
-Le roi du Hamaveran l’écouta, son cœur se remplit d’amertume et sa tête s’appesantit ; il dit en luimémé - :
+Le roi du Hamaveran l’écouta, son cœur se remplit d’amertume et sa tête s’appesantit ; il dit en lui-même - :
 
-> y Quoique Kaous soit roi, quoiqu’il soit le maître de la terre, victorieux et tout-puissant, je n’ai dans le monde que cette fille unique qui m’est plus chère h que ma douce vie.
+> y Quoique Kaous soit roi, quoiqu’il soit le maître de la terre, victorieux et tout-puissant, je n’ai dans le monde que cette fille unique qui m’est plus chère que ma douce vie.
 >
 > Mais si je traite ce messager avec froideur et mépris, je n’ai pas le pouvoir et le moyen de combattre son maître ; il vaut mieux que ; je ferme les yeux sur cette violence et que je renl’erme ma colèresdans mon cœur. »
 
@@ -53,34 +53,34 @@ Puis, il dit à l’envoyé aux douces paroles :
 >
 > Il. exige de moi deux choses plus précieuses que toute autre que je connaisse.
 >
-> Mes richesses formaient ma sécurité et mon âme était heureuse par mon enfant.,Ma.is idorénavant mon cœur sera loin de moi etj’en confiai, quoique ce soit le mi de l’Iran qui me le ravisse ; 9 néanmoins je lui donnerai tout ce qu’il me demande et je ne me soustrairai pas’àv sa volonté et à ses ordres. »
+> Mes richesses formaient ma sécurité et mon âme était heureuse par mon enfant.,Ma.is dorénavant mon cœur sera loin de moi etj’en confiai, quoique ce soit le mi de l’Iran qui me le ravisse ; néanmoins je lui donnerai tout ce qu’il me demande et je ne me soustrairai pas’àv sa volonté et à ses ordres. »
 
 ’ ’ .
-Dans sa. douleur il fit appeler Soudabeh et lui parla de Kaous en ces termes :
+Dans sa douleur il fit appeler Soudabeh et lui parla de Kaous en ces termes :
 
-> Il est venu de la part du roi. qui porte haut la tête et qui n’a rien à désirer en’p’ouvoir et en bonheur, un messager aux paroles douces et tenant en main une lettre remplie de nouvelles.
+> Il est venu de la part du roi qui porte haut la tête et qui n’a rien à désirer en’p’ouvoir et en bonheur, un messager aux paroles douces et tenant en main une lettre remplie de nouvelles.
 >
 > Il désire me ravir, contre mon gré, monsieur, mon sommeil et mon repos.
 >
 > Qu’en distuÏÎKquel est ton désir en ceci ?
 >
-> Quel est ton prudent conseil en cette allaite?»
+> Quel est ton prudent conseil en cette affaire ? »
 
 Soudabeh lui répondit :
 
-> S’il n’y a pas de remède, il vaut mieux commeneer par ne pas s’en afiliger ; et pourquoi serais-tu attristé d’une alliance avec celui qui est le maître du’monde, qui peut prendre aux rois leurs trônes et leurs provinces ?
+> S’il n’y a pas de remède, il vaut mieux commencer par ne pas s’en affliger ; et pourquoi serais-tu attristé d’une alliance avec celui qui est le maître du monde, qui peut prendre aux rois leurs trônes et leurs provinces ?
 >
-> Personne n’envisage avec dou-leur un événement qui doit être un sujet de joie. »
+> Personne n’envisage avec douleur un événement qui doit être un sujet de joie. »
 
-Le roi vit que Soudabeh n’était point affligée de ce qui arrivait ; il fitvenirlauprès de lui. l’envoyé de Kaous et le plaça au-dessus de tous les grands.
+Le roi vit que Soudabeh n’était point affligée de ce qui arrivait ; il fit venirlauprès de lui. l’envoyé de Kaous et le plaça au-dessus de tous les grands.
 
 Ils conclurent alors cette alliance selon les formes et les rites de la religion de ce temps.
 
-Le roi y employa sept jeurs, lui et les grands de sa cour ; ensuite il amena, le cœur brisé, six cents esclaves, quarante litières, millel’cham’eaux, mille mulets et mille chevaux, tous chargés de brocart et d’or ; du haut des litières pendaient des tissus magnifiques ; tous les
+Le roi y employa sept jours, lui et les grands de sa cour ; ensuite il amena, le cœur brisé, six cents esclaves, quarante litières, millel’chameaux, mille mulets et mille chevaux, tous chargés de brocart et d’or ; du haut des litières pendaient des tissus magnifiques ; tous les
 
 Corps de l’armée avaient formé leurs rangs.
 
-Dans une litière venait la jeune lune toute parée ; après elle venaient les présents et un cortège orné comme un paradis : tu aurais dit que l’air s’était. changé en tulipes., magnifique arrivèrent devant le roi Kaous, la jeune lune sortit de la litière, semblable à un roi assis dans sa pompe sur un trône nouveau.
+Dans une litière venait la jeune lune toute parée ; après elle venaient les présents et un cortège orné comme un paradis : tu aurais dit que l’air s’était changé en tulipes., magnifique arrivèrent devant le roi Kaous, la jeune lune sortit de la litière, semblable à un roi assis dans sa pompe sur un trône nouveau.
 
 De nombre uses tresses de musc noir tombaient sur ses joues de rose, des boucles d’ambre gris pendaient à ses oreilles, ses deux lèvres brillaient comme le rubis, ses deux yeux étaient noirs comme le narcisse, la colonne de ses deux sourcils (son nez) ressemblait à un roseau d’argent.
 
