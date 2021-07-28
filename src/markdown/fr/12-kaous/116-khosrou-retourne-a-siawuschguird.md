@@ -20,7 +20,7 @@ Le Sipehbed se hâta d’emmener Keï Khosrou hors de la présence du roi et s�
 
 Il dit :
 
-> Par la grâce de Dieu le créateur, un nouvel arbre porte du fruit dans le monde.»
+> Par la grâce de Dieu le créateur, un nouvel arbre porte du fruit dans le monde. »
 
 Il ouvrit les portes de son ancien trésor et équipa le roi de tout ce qu’il lui fallait ; il lui donna du brocart, de l’or, des perles et des pierres fines, des chevaux, des armes, des casques et des ceintures, des trônes et des monceaux d’argent, des tapis et d’autres richesses.
 
