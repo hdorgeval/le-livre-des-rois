@@ -66,7 +66,7 @@ Maintenant il faut préparer des tables ce et du vin et dissiper avec les coupes
 
 Rustem. de son côté, inspecta son armée et s’entretint avec Guiv, en disant :
 
-> Comment Sohrab le guerrier éprouvé s’est-il aujourd’hui comporté dans le combat?»
+> Comment Sohrab le guerrier éprouvé s’est-il aujourd’hui comporté dans le combat ? »
 
 Guiv le brave lui répondit :
 
