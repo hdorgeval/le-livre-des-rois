@@ -56,6 +56,6 @@ Il fut courroucé lorsqu’il se vit privé de cheval et prit, tout confus, le c
 >
 > Rustem s’est endormi et il est mort.
 >
-> Il faut maintenant que je parte dans cet embarras, que je. laisse aller entièrement mon cœur à nette douleur ; il faut que je mette ma ceinture et a que je me chargede mes armes, peut-être arriverai-je à un endroit où je trouverai des traces de Raksch.»
+> Il faut maintenant que je parte dans cet embarras, que je. laisse aller entièrement mon cœur à nette douleur ; il faut que je mette ma ceinture et a que je me chargede mes armes, peut-être arriverai-je à un endroit où je trouverai des traces de Raksch. »
 
 C’est ainsi qu’il partit le cœur plein de trouble et de soucis, le corps dans la souffrance, l’esprit à la torture.
