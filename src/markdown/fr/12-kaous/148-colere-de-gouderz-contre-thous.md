@@ -20,7 +20,7 @@ Gouderz se mit en colère et dit :
 
 > Puisse Thous disparaître d’entre les grands !
 >
-> Nous lui montrerons qui est digne du commandement et du trône, de la splendeur de la couronne et de la faveur de la fortune.»
+> Nous lui montrerons qui est digne du commandement et du trône, de la splendeur de la couronne et de la faveur de la fortune. »
 
 Il avait soixante et dix-huit fils ou petits-fils ; il fit battre les timbales et se rendit du palais au Meïdan, où se rassemblèrent douze mille braves cavaliers montés sur des chevaux caparaçonnés.Thous ayant été averti que Gouderz avait paru, précédé de timbales, il se mit aussitôt lui-même en marche ; on plaça les timbales sur le dos des éléphants, un grand nombre de braves prirent les armes et l’étendard de Kawelt fut porté à la tête de l’armée.
 
@@ -38,7 +38,7 @@ Thous en fut consterné et dit :
 
 > Si je livre au-jourd’hui un combat dans ce lieu, il périra des deux côtés un grand nombre de braves et l’Iran ne cessera jamais de servir de champ de bataille.
 >
-> Ce serait remplir les vœux d’Afrasiab ; la fortune des Turcs se réveillerait, le trône du roi des rois serait transporté dans le Touran et notre bonheur serait entièrement détruit.»
+> Ce serait remplir les vœux d’Afrasiab ; la fortune des Turcs se réveillerait, le trône du roi des rois serait transporté dans le Touran et notre bonheur serait entièrement détruit. »
 
 Il envoya alors un homme sage et bien intentionné auprès du roi Kaous et lui fit dire :
 
