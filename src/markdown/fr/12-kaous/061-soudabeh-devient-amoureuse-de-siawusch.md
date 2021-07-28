@@ -26,11 +26,11 @@ Tu aurais dit qu’elle était belle comme la bordure d’un KEI nous. tapis, qu
 
 Elle envoya quelqu’un auprès de Siawusch en disant :
 
-> Va en secret auprès de lui et dis-lui qu’on ne s’étonnera pas dans l’appartement des femmes du roi de t’y voir paraître soudain.»
+> Va en secret auprès de lui et dis-lui qu’on ne s’étonnera pas dans l’appartement des femmes du roi de t’y voir paraître soudain. »
 
 Le messager partit et remplit sa mission ; mais le noble Siawusch s’en irrita et lui dit :
 
-> Je ne suis pas un homme pour les appartements des femmes ; ne viens plus me chercher, car je n’aime pas les ruses et les mensonges.»
+> Je ne suis pas un homme pour les appartements des femmes ; ne viens plus me chercher, car je n’aime pas les ruses et les mensonges. »
 
 Le lendemain Soudabeh sortit ; elle accourut au-près du roi de l’Iran et lui dit :
 
@@ -44,11 +44,11 @@ Envoiele auprès de tes femmes, auprès de ses sœurs et de tes idoles et dis-lu
 >
 > Toutes les femmes voilées ont le cœur gonflé de sang et les joues inondées de larmes à cause de leur amour pour lui.
 >
-> Nous le saluerons et lui apporterons des présents ; nous ferons porter des fruits à l’arbre du respect.»
+> Nous le saluerons et lui apporterons des présents ; nous ferons porter des fruits à l’arbre du respect. »
 
 Le roi répondit :
 
-> Tes paroles sont convenables et tu l’aimes de l’amour de cent mères.»
+> Tes paroles sont convenables et tu l’aimes de l’amour de cent mères. »
 
 Kaous appela Siawusch et lui dit :
 
@@ -64,7 +64,7 @@ Kaous appela Siawusch et lui dit :
 >
 > Derrière les rideaux de l’appartement de mes femmes se trouvent tes sœurs et Soudabeh est pour toi comme une mère tendre.
 >
-> Va voir ces femmes voilées et reste chez elles un peu pour qu’elles invoquent les grâces de Dieu sur toi.»
+> Va voir ces femmes voilées et reste chez elles un peu pour qu’elles invoquent les grâces de Dieu sur toi. »
 
 Siawusch entendit les paroles du roi et jeta sur lui un regard troublé ; il réfléchit longuement en lui-même et s’efforça de bannir de son cœur cette inquiétude.
 
@@ -74,7 +74,7 @@ Il se dit :
 
 > C’est mauvais !
 >
-> C’est de Soudabeh que vient cette insistance et si je vais dans l’appartement des femmes, elle m’attirera bien des reproches.»
+> C’est de Soudabeh que vient cette insistance et si je vais dans l’appartement des femmes, elle m’attirera bien des reproches. »
 
 Il répondit :
 
@@ -86,7 +86,7 @@ Il répondit :
 >
 > Sontce les femmes qui montrent le chemin de la sagesse ?
 >
-> Et pourtant, si c’est la volonté du roi, mon devoir est de lui obéir.»
+> Et pourtant, si c’est la volonté du roi, mon devoir est de lui obéir. »
 
 Le roi lui dit :
 
@@ -98,7 +98,7 @@ Le roi lui dit :
 >
 > Ne laisse pas entrer de soupçon dans ton cœur, sois joyeux et bannis tout souci.
 >
-> Va voir une fois ces enfants pour qu’elles aient un peu de plaisir.»
+> Va voir une fois ces enfants pour qu’elles aient un peu de plaisir. »
 
 Siawusch répondit :
 
@@ -106,4 +106,4 @@ Siawusch répondit :
 >
 > Je suis debout devant toi comme un esclave ; j’ai livré mon âme et mon cœur à tes commandements.
 >
-> J’irai comme tu l’ordonnes, car tu es le roi maître du monde et je suis un esclave.»
+> J’irai comme tu l’ordonnes, car tu es le roi maître du monde et je suis un esclave. »
