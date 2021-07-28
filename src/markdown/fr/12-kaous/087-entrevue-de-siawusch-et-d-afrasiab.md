@@ -36,19 +36,19 @@ Afrasiab dit :
 ’1
 partiennent et le Sipehbed Piran est à toi de cœur et de corps.
 >
-> Il t’aimera comme un père, il ramènera le sourire sur tes lèvres.»
+> Il t’aimera comme un père, il ramènera le sourire sur tes lèvres. »
 
 Siawusch influa les bénédictions de Dieu sur Afrasiab, en disant :
 
 > Puisse le bonheur ne te quitter jamais dans ce monde !
 >
-> Grâce soit rendue à Dieu le créateur, lui dont vient le repos et la guerre et la haine !»
+> Grâce soit rendue à Dieu le créateur, lui dont vient le repos et la guerre et la haine ! »
 
 Le roi, tenant dans sa main la main de Siawusch, monta sur son trône royal et s’assit.
 
 Il regarda le visage de Siawusch et dit :
 
-> Je ne lui connais point d’égal sur la terre et il n’y a pas d’homme qui ait ces traits, cette stature et cet air de grandeur.»
+> Je ne lui connais point d’égal sur la terre et il n’y a pas d’homme qui ait ces traits, cette stature et cet air de grandeur. »
 
 Ensuite, il se tourna vers Piran, disant :
 
@@ -84,7 +84,7 @@ Afrasiab lui donna son cœur et son âme et l’image de Siawusch l’empêcha d
 
 Dans cette même nuit il donna ses ordres aux grands qui se trouvaient dans la salle du banquet, en disant à Schideh son fils :
 
-> Aussitôt que le soleil montrera sa tête au-dessus des montagnes, toi et les Pehlewans, mes parents et les plus grands personnages de ma cour, vous vous rendrez tous ensemble, à l’aube du jour, avec des présents et des esclaves, avec des chevaux de noble race, caparaçonnés d’or, au palais de Siawusch et vous vous y présenterez prudemment, discrè-tement et en silence.»
+> Aussitôt que le soleil montrera sa tête au-dessus des montagnes, toi et les Pehlewans, mes parents et les plus grands personnages de ma cour, vous vous rendrez tous ensemble, à l’aube du jour, avec des présents et des esclaves, avec des chevaux de noble race, caparaçonnés d’or, au palais de Siawusch et vous vous y présenterez prudemment, discrè-tement et en silence. »
 
 Tous les grands de l’armée se rendirent dans l’ordre prescrit auprès de Siawusch, avec des présents, avec de l’or et des joyaux dignes
 
