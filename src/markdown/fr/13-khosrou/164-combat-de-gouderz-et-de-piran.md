@@ -59,7 +59,7 @@ Il s’écria :
 > Ô illustre Pehlewan, que t’ar-
 nrive-t-il ?
 >
-> Pourquoi t’enfuis-tu ainsi à pied devantmoi comme une bête fauve ?
+> Pourquoi t’enfuis-tu ainsi à pied devant moi comme une bête fauve ?
 >
 > Où sont donc les troupes, ô chef de l’armée ?
 >
@@ -68,7 +68,7 @@ nrive-t-il ?
 >
 > Le sort te tourne entièrement le dos ; ce n’est pas le moment d’employer des ruses ; ainsi ne cherche pas à t’échapper.
 >
-> Puisque le destin t’y réduit, demande grâce, afin que je t’amène en vie devant le roi victorieux. qui te pardonnera, quand il verra e ta tête et ta barbe blanches comme la neige.»
+> Puisque le destin t’y réduit, demande grâce, afin que je t’amène en vie devant le roi victorieux. qui te pardonnera, quand il verra ta tête et ta barbe blanches comme la neige. »
 
 Piran répondit :
 
@@ -80,7 +80,7 @@ Piran répondit :
 >
 > J’ai ouï dire aux grands que, pour longue que soit la vie dans ce monde joyeux, la mort est au bout et qu’on ne peut s’y soustraire.
 >
-> Je ne me plains pas de mon sort.»
+> Je ne me plains pas de mon sort. »
 
 Gouderz se mit à faire le tour de la montagne, mais il se fatigua sans trouver de route ; alors il mit pied à terre, prit son bouclier et grimpa sur la montagne comme un chasseur, se couvrant de son bouclier, tenant en main un javelot et les yeux dirigés en haut.
 
@@ -102,7 +102,7 @@ Lorsque Gouderz eut atteint la cime de la montagne, il vit Pirau dans cet état,
 
 > Ô vaillant lion ! ô chef des Pehlewans ! ô brave cavalier !
 >
-> Le monde a vu beaucoup d’hommes comme toi et comme moi, mais il n’ac-I corde du repos à personne.»
+> Le monde a vu beaucoup d’hommes comme toi et comme moi, mais il n’ac-I corde du repos à personne. »
 
 Il porta la main sur le corps de Pirau et la remplit de sang qu’il but et dont il se frotta le visage, ô horreur !
 
