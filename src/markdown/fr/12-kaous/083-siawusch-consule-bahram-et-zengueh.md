@@ -83,7 +83,7 @@ Ensuite, il dit à Bahram fils.de Gouderz :
 >
 > trésors, le tout en bon ordre et tu lui rendras compte de tout, de l’or, des couronnes et des trônes. »
 
-À ces mots, le cœur de Bahram trembla de ce que Siavvusch allait faire et Zengueh fils de Schaweran versa des larmes de sang et maudit le pays de Hamaveran.
+À ces mots, le cœur de Bahram trembla de ce que Siawusch allait faire et Zengueh fils de Schaweran versa des larmes de sang et maudit le pays de Hamaveran.
 
 Tous deux restaient assis, dans leur douleur, les traits décomposés par l’elYet de ces paroles.
 
