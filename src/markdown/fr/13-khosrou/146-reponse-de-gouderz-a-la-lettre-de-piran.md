@@ -81,7 +81,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Tu dis qu’il ne
 >
-> à" LE LIVRE DES Bols. faut pas priver les vivants de la vie pour un homme qui est devenu poussière.
+> à" DES Bols. faut pas priver les vivants de la vie pour un homme qui est devenu poussière.
 >
 > Mais quand je me rappelle vos actes atroces, tous les tourments que vous avez infligés à nos cœurs par les crimes que vous avez commis dans le pays d’Iran, toutes les angoisses que vous avez fait éprouver à nos rois, tous les traités que vous avez violés, toutes les guerres que vous avez commencées et le mal dont : vous avez toujours été les instigateurs, quand je me rappelle cela, comment ferais-je la paix avec toi qui as toujours regardé comme bonnes les actions mau-vaises ?
 >
@@ -97,7 +97,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 >
 >
-> M5 de toi toutes les troupes les crawl.
+>de toi toutes les troupes les crawl.
 >
 > Mais Dieu m’a mis dans une position où je n’ai pas besoin d’accepter cela ; et si tu ne le sais pas, je vais te dévoiler ce secret.
 >
@@ -105,7 +105,9 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Devers le midi, jusqu’au Sind, le monde ressemble à une brillante épée de Roum et le vaillant Rustem, avec son glaive tranchant, a allumé dans ces pays la fournaise de la destruction ; il a envoyé au roi le chef des Indiens avec un drapeau noir.
 >
-> Dans le Dehistan, le Kharism et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils les abandonnent, eux qui s’étaient préparés à faire des excursions de tous côtés ; Aschkesch a fait tomber sur Schideh une grêle qui l’a abattu et : presque tué et il a envoyé à Khosrou des prisonniers et du butin de toute espèce.
+> Dans le Dehistan, le Kharis. »
+
+Et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils les abandonnent, eux qui s’étaient préparés à faire des excursions de tous côtés ; Aschkesch a fait tomber sur Schideh une grêle qui l’a abattu et : presque tué et il a envoyé à Khosrou des prisonniers et du butin de toute espèce.
 >
 > Et enfin de ce côté-ci nous nous combattons toi et moi, sur cette frontière où s’acquièrent la gloire et le renom.
 >
@@ -113,7 +115,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Si tu consens à te battre avec moi, je te débarrasserai de ces discussions et à l’aide de la force que Dieu m’a donnée et par ordre du roi, j’inonderai de sang ce champ de bataille.
 >
-> Réfléchis, ô illustre Pehlewan, sur la manière dont le soleil et la lune ont tourné ; la chaîne du son est descendue du ciel et la tête de irla fortune (les Turcs est placée sous les ciseaux.
+> Réfléchis, ô illustre Pehlewan, sur la manière dont le soleil et la lune ont tourné ; la chaîne du son est descendue du ciel et la tête de irla fortune des Turcs est placée sous les ciseaux.
 > : .
 >
 > MG Songe à la rétribution que le Créateur réserve à tes crimes ; car le sort a retiré le pan de sa robe de dessus les malheurs qui te menacent et déjà apparaît le mal qui doit punir le mal que tu as fait.
@@ -128,7 +130,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Tu ne l’as pas se-»couru au jour fatal, bien qu’il t’ait souvent imploré dans sa détresse.
 
-En huitième lieu tu dis que tu l’emportes sur moi par ton trône et la couronne, par la bravoure r et ta fortune, par ton armée et tes trésors, mais que ton cœur souffre de pitié. .lc crois que tu m’as suftisamment éprouvé jusqu’ici dans les combats et tu sais si tu m’as trouvé dépourvu de bravoure au jour de la bataille. [hagarde-0i donc de la tête aux pieds ; car il se pourrait que mon trésor et mon [II7 trône, que ma couronne et mon courage me missent à ta hauteur.
+En huitième lieu tu dis que tu l’emportes sur moi par ton trône et la couronne, par la bravoure et ta fortune, par ton armée et tes trésors, mais que ton cœur souffre de pitié. .lc crois que tu m’as suffisamment éprouvé jusqu’ici dans les combats et tu sais si tu m’as trouvé dépourvu de bravoure au jour de la bataille. [hagarde-0i donc de la tête aux pieds ; car il se pourrait que mon trésor et mon [II7 trône, que ma couronne et mon courage me missent à ta hauteur.
 
 En dernier lieu tu demandes que je choisisse quelques braves pour champions et tu promets d’amener de ton côté quelques cavaliers turcs prêts à verser du sang, parce que la pitié profonde que tu éprouves pour ton armée te fait désirer de mettre des bornes aux violences et aux vengeances ; et tu m’exhortes à agir avec humanité et à montrer les qualités cachées de mon cœur et de ma raison.
 
@@ -152,17 +154,17 @@ Si tu me demandes du temps et un délai, je te l’accorde ; sinon pré : pare-t
 
 Je te dis tout cela afin que tu ne cherches pas un nouveau prétexte pour éluder la bataille.
 
-Tu nous as attaqués inopinément, tu nous a tendu un piège et dressé une embuscade, tu ne nousas accordé aucun délai ; mais il n’importe que je me venge dans cent ans ou dans ce moment même : seulement n’espère pas que je m’en retourne sans avoir livré ce combat, pour lequel la nuit et le jour, le temps opportun et inopportun me sont indifférents.»
+Tu nous as attaqués inopinément, tu nous a tendu un piège et dressé une embuscade, tu ne nousas accordé aucun délai ; mais il n’importe que je me venge dans cent ans ou dans ce moment même : seulement n’espère pas que je m’en retourne sans avoir livré ce combat, pour lequel la nuit et le jour, le temps opportun et inopportun me sont indifférents. »
 
 La réponse à la lettre de Pirau étant achevée, le messager accourut rapide comme une Péri, la ceinture serrée, assis sur son coursier et entouré de son escorte de cavaliers.
 
 Le vaillant Rouïn mit pied à terre et amena tous les braves qui l’accompagnaient devant le chef de l’armée.
 
-Gouderz fit ordonner-à tous les Mobeds, à tous les hommes illustres par leur sagesse de se rendre auprès de lui en toute hâle et ils arrivèrent pleins de prudence et de sérénité.
+Gouderz fit ordonner-à tous les Mobeds, à tous les hommes illustres par leur sagesse de se rendre auprès de lui en toute hâte et ils arrivèrent pleins de prudence et de sérénité.
 
 Alors le Pehlewan fit lire sa réponse devant les héros.
 
-Les grands entendirent lire par le fortuné scribe litt) cettelettre qui gagnait tous les esprits ; ils reconnurent que l’intelligence de Pirau était vaincue et traitè-
+Les grands entendirent lire par le fortuné scribe litt) cette lettre qui gagnait tous les esprits ; ils reconnurent que l’intelligence de Pirau était vaincue et traitè-
 rent avec mépris les avis qu’il leur avait donnés.
 
 Ils célébrèrent les louanges de Gouderz, ils l’appelerent le Pehlewan du monde.
@@ -193,6 +195,6 @@ Il dit à son armée :
 >
 > Jamais cavalier aussi brave que Houman ne prendra les armes dans le pays des Turcs et Nestihen, ce cyprès qui répandait au loin son ombre, a disparu subitement de la prairie.
 >
-> Il faut donc nous ceindre et ne pas laisser aux Iraniens une parcelle de terre ; et à l’aide de la force que Dieu m’a donnée et de mon épée tranchante, je détruirai ce peuple.»
+> Il faut donc nous ceindre et ne pas laisser aux Iraniens une parcelle de terre ; et à l’aide de la force que Dieu m’a donnée et de mon épée tranchante, je détruirai ce peuple. »
 
 Il fit choisir de tous côtés parmi ses troupeaux des chevaux propres à la guerre ; il fit de chaque fantassin un cavalier et donna à chaque homme deux chevaux de bataille ; ensuite il ouvrit son antique trésor et se mit à distribuer de l’or.
