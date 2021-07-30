@@ -66,7 +66,7 @@ La terre trembla sous les sabots des chevaux, tous les grands déchirèrent leur
 >
 > Et mes fils et mes petits-fils m’ont toujours accompagné quand je suis allé à la guerre avec les héros et mes cavaliers.
 >
-> Déjà dans la première guerre contre le Touran presque personne de ma race n’a survécu pour le jour de la vengeance ;
+> Déjà dans la première guerre contre le Touran presque personne de ma race n’a survécu pour le jour de la vengeance ;
 >
 > J’y ai perdu mon fils Bahram et notre soleil parait s’être éteint avec lui ;
 >
@@ -90,6 +90,6 @@ Plût à Dieu que Newder le saint n’eût jamais planté les racines de ma vie 
 >
 > Son cœur s’enflammera et il nous enverra du secours.
 >
-> Déjà j’ai fait partir un cavalier pour lui porter des nouvelles et j’espère qu’il aura ordonné à Rustem fils de Zal de se rendre avec une armée sur le siège de la guerre.
+> Déjà j’ai fait partir un cavalier pour lui porter des nouvelles et j’espère qu’il aura ordonné à Rustem fils de Zal de se rendre avec une armée sur le siège de la guerre.
 
 Il fit monter ses troupes à cheval et charger les bagages, ne cessant de parler de ceux qui étaient morts.
