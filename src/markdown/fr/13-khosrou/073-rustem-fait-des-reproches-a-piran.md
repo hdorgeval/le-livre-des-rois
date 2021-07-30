@@ -44,7 +44,7 @@ Schenkoul s’avança au milieu des deux armées, une épée indienne à la main
 
 On tenait sur sa tête un parasol indien et une foule d’hommes de Damber, de Marg et de Maï se tenant derrière lui, à sa droite et à sa gauche, le suivaient partout où il se dirigeait.
 
-Piran le vit avec grande joie et le poids du combat à livrer à Rustem ne pesait déjà plus sur son cœur.
+Piran le vit avec grande joie et le poids du combat à livrer à Rustem ne pesait déjà plus sur son cœur.
 
 Il dit à Houman :
 
@@ -72,8 +72,9 @@ Ensuite, il s’avança vers le groupe et vers le lieu sur lequel se projetait l
 >
 > Je me suis empressé de leur parler de la paix et de la guerre, de leur parler de toute chose.
 >
-> Mais à la fin ils m’ont dit : 
->
+> Mais à la fin ils m’ont dit :
+
+> >
 > > Comment pourrions-nous éteindre cette vengeance par le moyen que tu indiques ?
 > >
 > > Il nous est facile de rendre les trésors, l’or, les joyaux et tout ce qu’il nous demande de précieux ;
