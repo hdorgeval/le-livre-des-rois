@@ -80,7 +80,7 @@ Ensuite Gourguin dit :
 >
 > Toute la plaine sera parée et remplie de choses précieuses comme un temple chinois.
 >
-> Partons pour ce lieu de fêtes, parcourons rapidement cette distance d’une journée et emparons nous de quelquesunes de ces femmes au visage de Péri pour les ramener auprès de Khosrou et nous couvrir de gloire.
+> Partons pour ce lieu de fêtes, parcourons rapidement cette distance d’une journée et emparons nous de quelques-unes de ces femmes au visage de Péri pour les ramener auprès de Khosrou et nous couvrir de gloire.
 
 Ainsi parla Gourguin.
 
