@@ -22,7 +22,7 @@ Le roi dépêcha un cavalier au Kaïsar, un cavalier qui faisait disparaître le
 >
 > C’est la l’armée que je demande au pays de Roum et qui doit m’accompagner dans tous les pays habités. »
 
-Après cela se répandit, du pays de Hamaveran dans le désert des cavaliers armés de lances, la nouvelle des hauts faits de Rustem au jour du combat contre les rois d’Egypte et du Berberistan ; et les braves du désert choisirentun cavalier courageux qui savait manier les rênes et combattre un lion, un [homme de cœur et le chargèrent de porter une lettre digne d’être adressée à un roi et contenant des paroles convenables et éloquentes :
+Après cela se répandit, du pays de Hamaveran dans le désert des cavaliers armés de lances, la nouvelle des hauts faits de Rustem au jour du combat contre les rois d’Égypte et du Berberistan ; et les braves du désert choisirent un cavalier courageux qui savait manier les rênes et combattre un lion, un [homme de cœur et le chargèrent de porter une lettre digne d’être adressée à un roi et contenant des paroles convenables et éloquentes :
 
 > Nous sommes tous a
 >
@@ -90,7 +90,7 @@ Quand le roi du Touran vit ce qui se passait, il bouillonna sans feu comme du vi
 >
 > monde étroit pour Kaous.
 >
-> Frappez les héros avec la lance et avec l’épée, abattez tous les guerriers de Kaous et surtout faites prisonnier, à force de bravoure, Rustem le Sejestani au cœur de lion, devant l’épéeduquel tremble la voûte du ciel ; enveloppez sa tête du lacet de la destruction.
+> Frappez les héros avec la lance et avec l’épée, abattez tous les guerriers de Kaous et surtout faites prisonnier, à force de bravoure, Rustem le Sejestani au cœur de lion, devant l’épée duquel tremble la voûte du ciel ; enveloppez sa tête du lacet de la destruction.
 >
 > Quiconque l’enlèvera sur le champ de bataille de sa selle de peau de léopard et le jettera dans la poussière, je lui donnerai un royaume, le droit d’avoir un parasol et la imain de ma fille ; il portera le titre de Sipehbed ; je lui confierai le pays d’Iran ; j’élèverai sa tête jusqu’à la voûte du ciel qui tourne. »
 
