@@ -172,7 +172,7 @@ Les assiégés exposèrent tous leurs têtes à la mort pour sauver leurs tréso
 
 Mais il aurait mieux valu pour eux que leurs mères ne les eussent pas mis au monde.
 
-Les cavaliers iraniens mirent pied à terre, saisirent leurs boucliers, leurs arcs et leurs flèches et s’avancèrent avec les fantasains armés de lances, Bijen et Gustehem à leur tête et il n’était plus possible que les assiégés résistassent au souffle ardent du feu et à la pluie des traits ;
+Les cavaliers iraniens mirent pied à terre, saisirent leurs boucliers, leurs arcs et leurs flèches et s’avancèrent avec les fantassins armés de lances, Bijen et Gustehem à leur tête et il n’était plus possible que les assiégés résistassent au souffle ardent du feu et à la pluie des traits ;
 
 Ils sortirent du château et se réfugièrent en pleurant dans la plaine.
 
