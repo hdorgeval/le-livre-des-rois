@@ -18,17 +18,19 @@ order: '142'
 
 Gouderz appela un secrétaire et lui dit :
 
-> Je vais te confier des paroles secrètes ; mais si tu ouvres tes lèvres pour les laisser échapper, ta langue attirera la destruction sur ta tête.»
+> Je vais te confier des paroles secrètes ; mais si tu ouvres tes lèvres pour les laisser échapper, ta langue attirera la destruction sur ta tête. »
 
 Il lui ordonna d’écrire une lettre au roi pour lui donner des nouvelles de l’armée ; de lui exposer tout ce qui s’était passé, tout. ce que Piran lui avait fait dire ; de raconter comment il avait envoyé Guiv avec des oll’res d’alliance et d’amitié, pour éclairer Pirau sur le sort. que lui préparait la rotation du ciel ; comment Piran avait répondu à Guiv et aux grands, ses vaillants conseillers ; comment une armée avait marché sur les pas de Guiv comme une troupe de léopards et s’était avancée hostilement jusqu’à Kenabed ; comment les Iraniens avaient disposé leurs troupes et préparé leurs cœurs à la lutte.
 
 Il raconta de point en point l’histoire de Houman et de Nestihen les vaillants guerriers et les hauts faits de Bijen aujour de la bataille et comment il avait traité les Touraniens armés de massues ; il exposa tout cela. dans la lettre, tel que c’était arrivé.
 
-Ensuite, il se mit à parler d’Al’rasiab, qui s’approchait avec une armée des bords du Djihoun et il ajouta : Tu sais, ô roi de l’Iran maître du monde, que s’il passe le fleuve avec son armée, s’il entre dans l’Iran et arrive sur ce champ de bataille, nous ne pourrons lui tenir ce tête.
+Ensuite, il se mit à parler d’Al’rasiab, qui s’approchait avec une armée des bords du Djihoun et il ajouta :
 
-J’espère qu’alors le roi commandera aux héros de mettre le casque sur la tête et qu’il viendra soutenir son armée ; mais si c’est Piran seul qui nous attaque, tes troupes ne te demanderont pas de secours et tu apprendras ce que ton esclave aura fait pour toi et ton trône.
-
-Enfin je prie le roi toujours victorieux de faire parvenir à son serviteur des nouvelles de Buslem le vainqueur des Divs, de Lohrasp, du prudent Aschkesch et de leurs hauts faits.»
+> Tu sais, ô roi de l’Iran maître du monde, que s’il passe le fleuve avec son armée, s’il entre dans l’Iran et arrive sur ce champ de bataille, nous ne pourrons lui tenir ce tête.
+>
+> J’espère qu’alors le roi commandera aux héros de mettre le casque sur la tête et qu’il viendra soutenir son armée ; mais si c’est Piran seul qui nous attaque, tes troupes ne te demanderont pas de secours et tu apprendras ce que ton esclave aura fait pour toi et ton trône.
+>
+> Enfin je prie le roi toujours victorieux de faire parvenir à son serviteur des nouvelles de Rustem le vainqueur des Divs, de Lohrasp, du prudent Aschkesch et de leurs hauts faits. »
 
 Lorsqu’il eut fermé la lettre par un sceau et un fil, il fit mettre une selle royale sur un cheval de course, envoyer aux relais un grand nombre de chevaux rapides et manda Hedjir, jeune homme qui ressemblait à un lion plein de prudence.
 
@@ -36,7 +38,7 @@ Le Pehlewan exposa à son jeune et sage fils toute l’affaire et ajouta :
 
 > Ô jeune homme à l’esprit prudent, prends à cœur ce dont je te charge ; et si jamais tu as cru devoir gagner mes bonnes grâces, c’est aujourd’hui le moment.
 >
-> Aussitôt que tu auras caché sur toi cette lettre, pars comme l’ouragan : ne te repose ni jour ni nuit ; ne prends pas le temps de te gratter la tête et porte ma lettre au roi.»
+> Aussitôt que tu auras caché sur toi cette lettre, pars comme l’ouragan : ne te repose ni jour ni nuit ; ne prends pas le temps de te gratter la tête et porte ma lettre au roi. »
 
 Gouderz le congédia en le pressant contre sa poitrine et Hedjir quitta son noble père.
 
@@ -45,9 +47,11 @@ Il choisit dans l’armée deux de ses parents, les lit monter à l’instant su
 À chaque station il monta sur un
 
 ’ !
-’cheval frais ; lui et ses compagnons mangèrent, se reposèrent et dormirent sur leurs chevaux, tant pendant la nuit sombre que sous les rayons du soleil. (l’estainsi qu’ils firent leur route en courant et qu’ils arrivèrent en sept jours à la cour du roi.
+’cheval frais ; lui et ses compagnons mangèrent, se reposèrent et dormirent sur leurs chevaux, tant pendant la nuit sombre que sous les rayons du soleil. (l’est ainsi qu’ils firent leur route en courant et qu’ils arrivèrent en sept jours à la cour du roi.
 
-Lorsqu’on vit Hedjir s’avancer à cheval sur la route de l’Iran, on en donna nouvelle au roi illustre et Schammakh, accompagné d’un grand nombre de fiers guerriers, alla au-devant de lui par ordre du roi ; aussitôt qu’il l’aperçut, il luidemanda : Ô fils de Pehlewan, vainqueur des lions, qu’est-il arrivé pour que tu reviennes si inopinément à la cour du roi du monde?»
+Lorsqu’on vit Hedjir s’avancer à cheval sur la route de l’Iran, on en donna nouvelle au roi illustre et Schammakh, accompagné d’un grand nombre de fiers guerriers, alla au-devant de lui par ordre du roi ; aussitôt qu’il l’aperçut, il lui demanda :
+
+> Ô fils de Pehlewan, vainqueur des lions, qu’est-il arrivé pour que tu reviennes si inopinément à la cour du roi du monde ? »
 
 Il ordonna de lever le rideau et de laisser entrer Hedjir à cheval dans le palais.
 
