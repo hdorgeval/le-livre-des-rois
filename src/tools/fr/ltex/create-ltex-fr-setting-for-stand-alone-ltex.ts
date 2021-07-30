@@ -3,6 +3,8 @@ import { writeFileSync } from 'fs';
 import path from 'path';
 
 export const syncFrSettingsFromVscode = (): void => {
+  // eslint-disable-next-line no-console
+  console.log('Generating settings file for stand alone ltex checker ...');
   const ltexFrDictionaryFile = path.join(process.cwd(), '.vscode', 'ltex.dictionary.fr.txt');
   const frDictionary = readAllLinesInFile(ltexFrDictionaryFile).filter(
     (line) => line && line.length > 0,
