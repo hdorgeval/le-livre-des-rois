@@ -23,7 +23,7 @@ Il fit pleuvoir du haut de son cheval tantôt des coups ’épée, tantôt des c
 Il était si réjoui de ce jour de colère, qu’il n’eût pas Je
 1 : craint la mer plus qu’une source d’eau.
 
-Les Touraniens I’environnèrent, ils formaient une troupe nombreuse et le lion furieux était seul.
+Les Touraniens l'environnèrent, ils formaient une troupe nombreuse et le lion furieux était seul.
 
 Les lances faisaient du champ de bataille comme un champ de roseaux et le soleil et la lune voilèrent leur face ; le lion s’agitait avec rage dans ce champ de roseaux et il l’eut bientôt rougi de sang comme un pressoir ; il renversa un grand nombre de ses ennemis et les braves cavaliers en eurent peur.
 
