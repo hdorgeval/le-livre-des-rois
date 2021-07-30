@@ -16,7 +16,7 @@ order: '111'
 
 # Meurtre de Siawusch par Gueroui
 
-Guersiwez jeta alors un regard sur Gueroui et le cruel Gueroui se retourna sur-le-champ, s’approcha de Siawusch et se dépouillant de tout sentimentde générosité et de pitié, il saisit le roi par les cheveux et le traîna, ô honte !
+Guersiwez jeta alors un regard sur Gueroui et le cruel Gueroui se retourna sur-le-champ, s’approcha de Siawusch et se dépouillant de tout sentiment de générosité et de pitié, il saisit le roi par les cheveux et le traîna, ô honte !
 
 Le visage contre terre comme une chose vile.
 
