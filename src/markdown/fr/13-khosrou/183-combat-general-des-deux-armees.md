@@ -19,11 +19,11 @@ order: '183'
 Lorsque le soleil montra sa tête au-dessus du dos du taureau et que le chant de l’alouette s’éleva de la plaine, on entendit dans les pavillons des deux rois KEÏ Kl-à !
 le son du tambour et le bruit des timbales et des trompettes.
 
-Djehn amena trente mille héros prêts à frapper de l’épée, propres au c0mbat ; et Khosrou, voyant ces préparatifs, ordonna à Karen, qui était toujours prêt pour la bataille, de sortir du centre de l’armée avec un corps de troupes semblable à une montagne et le vaillant Djehn en tressaillit de peur.
+Djehn amena trente mille héros prêts à frapper de l’épée, propres au combat ; et Khosrou, voyant ces préparatifs, ordonna à Karen, qui était toujours prêt pour la bataille, de sortir du centre de l’armée avec un corps de troupes semblable à une montagne et le vaillant Djehn en tressaillit de peur.
 
 A l’aile droite s’avança, rapide comme la poussière, Gustehem fils de Newder, avec son étendard de combat.
 
-Le monde devint violet sons la poussière que soulevaient les héros, la terre fut couverte d’hommes et l’air rempli d’étendards.
+Le monde devint violet sous la poussière que soulevaient les héros, la terre fut couverte d’hommes et l’air rempli d’étendards.
 
 Pendant ce combat, ni Khosrou ni Afrasiab ne quittèrent le centre de leurs armées, mais la lutte devint telle que les héros et les braves n’en avaient jamais vu de pareille.
 
@@ -45,9 +45,9 @@ Il se frotta le visage contrela terre sombre, disant :
 
 > n Ô saint maître de la justice, tu sais que j’ai été opprimé et que je me suis soumis à ta volonté dans ces longs jours de malheur !
 >
-> Fais expier ses crimes au méchant par le sang, tu es le guide de celui qui a souffert.»
+> Fais expier ses crimes au méchant par le sang, tu es le guide de celui qui a souffert. »
 
-De là il se rendit au centre de son armée en poussant des cris de guerre, l’âme remplie de douleur, le cœur plein de colère contre la race de Zadschem et plaça sur sa tête son casque fortuné ; le bruit de la multitude, le son des trompettes, le souille des clairons et des cymbales d’airain montèrent vers le ciel.
+De là il se rendit au centre de son armée en poussant des cris de guerre, l’âme remplie de douleur, le cœur plein de colère contre la race de Zadschem et plaça sur sa tête son casque fortuné ; le bruit de la multitude, le son des trompettes, le souffle des clairons et des cymbales d’airain montèrent vers le ciel.
 
 De l’autre côté s’avança, semblable à une montagne, une armée agitée, formée en corps, une armée semblable aux flots de la mer, au centre de laquelle se trouvaient Djehn et Afrasiab.
 
@@ -68,7 +68,7 @@ Il tomba des tours une pluie de traits et le bruit des coups donnés et reçus s
 Les éléphants et les cavaliers armés de lances s’avancè-
 rent et un grand corps de troupes sortit du centre de l’armée.
 
-Afrasiab observa d’une distance de deux milles cette armée, ce combat, ces tours et ces éléphants ; il lit avancer ses éléphants de guerre et son armée et le monde devint obscur, la lumière du jour disparut.
+Afrasiab observa d’une distance de deux milles cette armée, ce combat, ces tours et ces éléphants ; il fit avancer ses éléphants de guerre et son armée et le monde devint obscur, la lumière du jour disparut.
 
 Il s’écria :
 
@@ -76,7 +76,7 @@ Il s’écria :
 >
 > Pourquoi vous rendez-vous le combat si difficile ?
 >
-> Vous restez tous en face de ces tours et de ces éléphants, pendant que l’armée des Iraniens est grande et s’értend à des milles au delà : portez-vous à droite età gauche et éloignez-vous du centre et des tours.»
+> Vous restez tous en face de ces tours et de ces éléphants, pendant que l’armée des Iraniens est grande et s’értend à des milles au delà : portez-vous à droite età gauche et éloignez-vous du centre et des tours. »
 
 Il ordonna à Djehn, qui avait de l’expérience dans la guerre, de partir avec les grands de l’armée, d’emmener dix mille cavaliers aguerris, armés de lances et propres au combat.
 
@@ -95,7 +95,7 @@ Lorsque la poussière s’élevait à droite et à gauche, le maître du monde d
 
 D’un côté de Khosrou se tenait le Sipehdar Thous ; tous les Pehlewans aux bottines d’or s’avancèrent le cœur aigri, portant ’étendard de Kaweh et formèrent l’aile gauche du roi.
 
-A la droite du roi marchait Rustem, avide de combat, avec son frère Zewareh ; Gouderz fils de Keschwad, le guerrier expérimenté et un nombre de grands et de nobles se tinrent près de Rustem, de même que Zerasp et Menouschan, le sage conseiller.
+À la droite du roi marchait Rustem, avide de combat, avec son frère Zewareh ; Gouderz fils de Keschwad, le guerrier expérimenté et un nombre de grands et de nobles se tinrent près de Rustem, de même que Zerasp et Menouschan, le sage conseiller.
 
 On entendit le bruit des coups donnés et reçus sur le champ de bataille.
 
@@ -158,6 +158,6 @@ Quand il s’aperçut de la fuite des cavaliers turcs, tu aurais dit que ses jou
 
 > Ton courage de lion vient des ténèbres et nous ne nous retirons que parce que c’est un combat de nuit.
 >
-> Aujourd’hui le venta pour une fois souillé pour toi et t’a comblé de bonheur ; mais regarde-nous demain, quand le jour brillera, regarde alors notre drapeau qui remplit de joie nos âmes ; alors nous convertirons la surface de l’Iran en une mer de sang, nous changerons le soleil en pléiades.»
+> Aujourd’hui le venta pour une fois souillé pour toi et t’a comblé de bonheur ; mais regarde-nous demain, quand le jour brillera, regarde alors notre drapeau qui remplit de joie nos âmes ; alors nous convertirons la surface de l’Iran en une mer de sang, nous changerons le soleil en pléiades. »
 
 C’est ainsi que les deux rois des deux pays se retirèrent dans leur camp, prêts à recommencer le combat.
