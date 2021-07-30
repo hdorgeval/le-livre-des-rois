@@ -96,7 +96,7 @@ Khosrou ordonna au Mobed d’amener dix esclaves portant de belles ceintures, di
 
 Bijen mit encore une fois sa main sur son cœur, s’approcha du roi de la terre toujours victorieux, lui rendit grâces et pria pour lui le Créateur du monde.
 
-Le puissant roi le regarda avec plaisir. et lui dit :
+Le puissant roi le regarda avec plaisir et lui dit :
 
 > Ô illustre guerrier !
 >
