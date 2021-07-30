@@ -18,7 +18,7 @@ order: '150'
 
 Le cheval de Guiv s'arrete
 
-Lorsque Rouïn fils de Pirau vit de l’arrièregarde le vaillant Guiv qui s’avançait rapidement, il quitta les derrières de la puissante armée, accompagné de héros qui ressemblaient à des loups et s’élauça comme un léopard en fureur ; mais ayant fait de vains efforts pour pénétrer jusqu’au fort de la mêlée, il jeta son épée indienne et s’en retourna désespérant de la bataille.
+Lorsque Rouïn fils de Pirau vit de l’arrièregarde le vaillant Guiv qui s’avançait rapidement, il quitta les derrières de la puissante armée, accompagné de héros qui ressemblaient à des loups et s’élança comme un léopard en fureur ; mais ayant fait de vains efforts pour pénétrer jusqu’au fort de la mêlée, il jeta son épée indienne et s’en retourna désespérant de la bataille.
 
 Le Sipehdar Piran et quelquesuns des siens restèrent à leur poste étourdiment.
 
@@ -48,7 +48,7 @@ Bijen accourut vers son père et lui dit :
 
 > Ô mon illustre et fortuné père, j’ai entendu dire au roi que Pirau livrera encore beaucoup de batailles et qu’au jour du danger il échappera encore aux griffes de beaucoup de dragons avides de combats, mais qu’à la fin son sort s’accomplira par la main de Gouderz.
 >
-> Ne te donne donc pas une peine inutile, ô mon père ; son temps n’est pas encore venu : pourquoi le poursuivrais-tu avec tant de passion et de persévérance?»
+> Ne te donne donc pas une peine inutile, ô mon père ; son temps n’est pas encore venu : pourquoi le poursuivrais-tu avec tant de passion et de persévérance ? »
 
 »
 
@@ -58,15 +58,15 @@ Quand il arriva auprès de Lehhak et de Ferschidwerd, il poussait des cris de do
 
 > Ormes illustres fières, mes vaillants compagnons, toujours prêts à frapper de l’épée, c’est pour un jour comme celui-ci que je vous ai élevés entre mes bras.
 >
-> A peine notre armée s’estelle avancée au combat que nos ennemis ont rendu le monde noir devant nous et je ne vois personne qui veuille se mettre à la tête de nos troupes pour acquérir de la gloire et du renom.»
+> À peine notre armée s’estelle avancée au combat que nos ennemis ont rendu le monde noir devant nous et je ne vois personne qui veuille se mettre à la tête de nos troupes pour acquérir de la gloire et du renom. »
 
 À ces paroles les cœurs des héros illustres bondirent d’envie de combattre ; ils accoururent en disant :
 
 > Si nos âmes sont menacées du déshonneur, quel souci pourrions-nous avoir de nos corps ?
 >
-> Nous avons boutonné les pans de nos cottes de mailles et ce serait une honte de défaire nos ceintures pendant que dure ce combat.»
+> Nous avons boutonné les pans de nos cottes de mailles et ce serait une honte de défaire nos ceintures pendant que dure ce combat. »
 
-’ i Lehhak et Ferschidwerd s’avancèrent contre Guiv pour l’attaquer.
+’ Lehhak et Ferschidwerd s’avancèrent contre Guiv pour l’attaquer.
 
 Le vaillant Lehhak s’approcha de lui et le frappa de sa lance à la ceinture ; il voulait l’enlever de selle et le jeter sur la terre la tête en bas.
 
@@ -86,21 +86,23 @@ Que de coups de massue il plut sur lui des mains des vaillants héros !
 
 Mais il resta assis sur sa selle de bois de peuplier et cette lutte ne lui parut qu’un jeu.
 
-Quand Lehhak et Ferschidwerd virent comment cet homme ail cœur de lion leur résistait, ils se dirent dans leur colère : L’Iran nous porte malheur.
+Quand Lehhak et Ferschidwerd virent comment cet homme ail cœur de lion leur résistait, ils se dirent dans leur colère :
+
+> L’Iran nous porte malheur.
 
 C’est donc un éléphant qui est assis sur cette selle et il n’y a qu’un lion qui puisse lui déchirer la peauun Guiv de son côté se fit donner par ses compagnons une autre lance et se mit à tourner à droite et à gauche, assaillant les Jeux frères de tous côtés, mais sans pouvoir abattre aucun des deux.
 
 Il se dit à lui-même :
 
-> Il m’arrive une chose étrange avec ces deux braves avides de combat ; ce ne sont pas des chefs de l’armée du Touran qui m’attaquent, ce sont des Divs du Mazenderan.»
+> Il m’arrive une chose étrange avec ces deux braves avides de combat ; ce ne sont pas des chefs de l’armée du Touran qui m’attaquent, ce sont des Divs du Mazenderan. »
 
-A la droite de Guiv arriva Gourazeh. comme un tourbillon de poussière, pour combattre
+À la droite de Guiv arriva Gourazeh. comme un tourbillon de poussière, pour combattre
 
 , A Ferschidwerd ; il tenait en main une massue d’acier de Roum semblable à une colonne et était assis sur un destrier puissant comme un dromadaire : au moment où il étendait la main sur le Turc plus rapidement que le vent, celui-ci, qui l’avait observé, se baissa sur la selle et le frappa de sa lance à la ceinture ; mais la ceinture était de mailles de fer et ne se rompit pas.
 
 Bijen, l’épée en main, se porta comme un lion au secours du vaillant Gourazeh et donna un coup d’épée sur le haut du casque de Ferschidwerd, qui combattait comme s’il avait voulu fendre la terre.
 
-Bijen allait le prendre par son casque avec la main droite ; mais Ferschidwerd se jeta. à bas de son cheval et Bijen ne réussit pas dans sa tentative.
+Bijen allait le prendre par son casque avec la main droite ; mais Ferschidwerd se jeta à bas de son cheval et Bijen ne réussit pas dans sa tentative.
 
 Derrière Bijen arriva en courant Gustehem avec d’autres grands de l’Iran : ils fondirent sur l’armée du Touran, l’âme blessée et avides de vengeance.
 
@@ -110,7 +112,7 @@ Hedjir vola au secours des héros et fit pleuvoir sur Anderiman une pluie de fl�
 
 Un de ces traits traversa la selle et les caparaçons du cheval, qui tomba mort ; le vaillant cavalier fut jeté à terre, mais il se couvrit la tête avec son bouclier et se releva tout meurtri.
 
-Un pri de douleur s’élev’a de tous les
+Un pri de douleur s’éleva de tous les
 
 8, rangs des Turcs ; ils se précipitèrent vers lui comme des Divs et réussirent à le tirer de la mêlée età l’éloigner du front de l’armée.
 
