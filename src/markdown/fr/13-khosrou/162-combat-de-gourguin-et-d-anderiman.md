@@ -24,7 +24,7 @@ Ils s’attaquèrent avec leur lance ; et cellesci étant brisées, ils s’arm�
 
 À la fin une flèche lancée par Gourguin contre Anderiman lui cloua sur la tête son casque de Roum.
 
-La force du coup lit chanceler le Turc sur la selle ; satraosaou. . ces l’illustre Gourguin décocha une autre [lèche et le frappa au côté ;-le Turc tomba de cheval et la dou-leur lui fit sortir le sang des yeux.
+La force du coup lit chanceler le Turc sur la selle ; satraosaou. . ces l’illustre Gourguin décocha une autre [lèche et le frappa au côté ;-le Turc tomba de cheval et la douleur lui fit sortir le sang des yeux.
 
 Gourguin sauta à bas de son cheval comme un tourbillon de poussière et trancha la tête à Anderiman, l’attacha à la courroie de la selle, remonta à cheval, saisit les rênes du destrier de son vaillant ennemi et s’élança vers la haute colline, tenant l’arc encore bandé suspendu à son bras.
 
