@@ -31,13 +31,13 @@ Guiv dit à Gouderz :
 
 > Ô mon père, il m’est arrivé aujourd’hui une chose étonnante.
 >
-> Lorsque je me suis jeté sur les Touraniens, j’ai rompu leurs rangs. et ils m’ont fait place ; mais lorsque je me suis trouvé en face de Pirau, mon destrier s’est arrêté et a refusé de faire un pas en avant, quoique mon ardeur fût telle qu’on eût dit que mon âme se briserait.
+> Lorsque je me suis jeté sur les Touraniens, j’ai rompu leurs rangs et ils m’ont fait place ; mais lorsque je me suis trouvé en face de Pirau, mon destrier s’est arrêté et a refusé de faire un pas en avant, quoique mon ardeur fût telle qu’on eût dit que mon âme se briserait.
 >
-> Alors Bijen s’est rappelé les paroles du roi et m’a dévoilé ce secret. que c’est de ta main que Pirau doit périr ; voilà ce que le roi a dit d’après l’indication des astres.»
+> Alors Bijen s’est rappelé les paroles du roi et m’a dévoilé ce secret. que c’est de ta main que Pirau doit périr ; voilà ce que le roi a dit d’après l’indication des astres. »
 
 Gouderz répondit :
 
-> Ô mon fils, sans au-cun doute son heure est dans ma main ; et je vengerai sur lui, avec la force que Dieu le créateur m’a donnée, mes soixante et dix fils chéris.»
+> Ô mon fils, sans au-cun doute son heure est dans ma main ; et je vengerai sur lui, avec la force que Dieu le créateur m’a donnée, mes soixante et dix fils chéris. »
 
 Ensuite, il regarda les chefs de l’armée ; il vit qu’ils étaient tout abattus par suite des fatigues du combat, du carnage et des attaques continuelles qu’ils avaient faites contre l’ennemi.
 
@@ -52,7 +52,7 @@ Ils saluèrent leur chef, disant :
 >
 > En quel état t’es-tu levé ?
 >
-> Qu’as-tu décidé sur le combat que nous devons livrer aux Turcs?»
+> Qu’as-tu décidé sur le combat que nous devons livrer aux Turcs ? »
 
 Le Pehlewan leur répondit :
 
@@ -66,11 +66,11 @@ Le Pehlewan leur répondit :
 >
 > Que de mal ne fit-il pas au monde, aussi longtemps que le Créateur lui permit tout !
 >
-> Quelques années s’étant ainsi passées, Dieu jeta ce méchantdans le malheur : le Dispensateur de la justice n’approuvant pas ses crimes, suscita contre lui un homme juste à qui il livra celui qui avait introduit la tyrannie dans le monde ; et Zolzak qui était venu du vent, redevint
+> Quelques années s’étant ainsi passées, Dieu jeta ce méchant dans le malheur : le Dispensateur de la justice n’approuvant pas ses crimes, suscita contre lui un homme juste à qui il livra celui qui avait introduit la tyrannie dans le monde ; et Zolzak qui était venu du vent, redevint
 >
 > Il’x
 >
-> Ml. vent par un souille.
+> Ml. vent par un souffle.
 >
 > Feridoun le fortuné, le roi juste, prit les armes pour conquérir la royauté, rompit tous les enchantements d’Ahriman et ordonna le monde selon la justice.
 >
@@ -82,13 +82,13 @@ Le Pehlewan leur répondit :
 >
 > Il alla ainsi errant de lieu en lieu, comme un homme en démence, pour chercher les traces du roi Keï Khosrou ; quand il l’eut enfin découvert, il lui offrit ses hommages dès qu’il l’aperçut ; ensuite ils se mirent tous deux en route pour l’Iran.
 >
-> Le belliqueux Pirau en eut avis et accourut en toute hâte avec une armée, dans l’espoir de les faire périr en route ; il lit tout ce qu’il put pour les perdre et Dieu seul les sauva.
+> Le belliqueux Pirau en eut avis et accourut en toute hâte avec une armée, dans l’espoir de les faire périr en route ; il fit tout ce qu’il put pour les perdre et Dieu seul les sauva.
 >
 > Plus tard, quand nous nous fûmes portés sur le Kasehroud pour venger Siawusch, il arriva à Lawen une grande armée qui nous attaqua pendant la nuit et nous livra la bataille de Peschen, dans laquelle périt
 >
 > M2 devant mes yeux un si grand nombre de mes fils et où le cœur faillit à tous nos grands.
 >
-> Maintenant Pirau a paru de nouveau avec une armée nombreuse r.»
+> Maintenant Pirau a paru de nouveau avec une armée nombreuse r. »
 
 Et avide de combats et a pris position en face de nous.
 
@@ -110,7 +110,7 @@ Il. n’y avait dans le Touran aucun cavalier comparable à Houman ; il s’est 
 
 Il ne faut donc pas les craindre, il ne faut pas retirer votre main du combat.
 
-Et si Pirau préfère une bataille rangée, s’il amène toute son armée comme un tourbillon de poussière, alors il faut que nous aussi nous avancions contre lui en formant une masse semblable à une montagne ; car leur esprit est frappé, ils ne sont occupés que du soin de leur vie. le crois que nous aurons le dessus, que nous ferons lever la poussière noire de leur destruction.»
+Et si Pirau préfère une bataille rangée, s’il amène toute son armée comme un tourbillon de poussière, alors il faut que nous aussi nous avancions contre lui en formant une masse semblable à une montagne ; car leur esprit est frappé, ils ne sont occupés que du soin de leur vie. le crois que nous aurons le dessus, que nous ferons lever la poussière noire de leur destruction. »
 
 Le Pehlewan ayant prononcé ce discours devant les héros fortunés et expérimentés, ils le comblèrent de louanges, disant :
 
@@ -120,13 +120,13 @@ Le Pehlewan ayant prononcé ce discours devant les héros fortunés et expérime
 >
 > Feridoun, qui a soumis à sa royauté la terre entière, n’avait pas un serviteur comme toi : tu es l’appui des braves, le chef des armées du roi, le
 >
-> Ml : soutien de la couronne, du trône et du diadème ; tu offres au roi le sacrifice de ta vie, de celle de tes enfants et de tes biens : que peut demander de plus un roi au chef de son armée ?
+> soutien de la couronne, du trône et du diadème ; tu offres au roi le sacrifice de ta vie, de celle de tes enfants et de tes biens : que peut demander de plus un roi au chef de son armée ?
 >
 > Tout ce que Khosrou avait attendu de Feribourz et de Thous, tu vas maintenant l’accomplir ; nous sommes tous les esclaves et nos cœurs te sont dévoués.
 >
 > Si Pirau amène les chefs de son armée pour nous livrer un combat, fussions-nous dix contre mille des siens, tu verras si un seul de nous le refuse ; s’il amène son armée entière pour nous combattre dans la plaine et dans la montagne, nous voilà prêts, le cœur brûlant du désir de la vengeance et les reins ceints pour le combat.
 >
-> Puisse notre vie être la rancon de la tiennel tel est notre engagement solennel.»
+> Puisse notre vie être la rancon de la tiennel tel est notre engagement solennel. »
 
 Cette réponse remplit de joie le cœur de Gouderz ; il prononça des bénédictions sur les grands, disant :
 
@@ -138,9 +138,9 @@ Son aile gauche avait pour Pehlewan le vaillant Rehham et pour commandant Ferhad
 
 Il donna ses ordres à Schidousch, disant :
 
-> Ô mon fils, ô mon Destour propre à toute affaire, prends le drapeau 4A5 noir de Kaweh et va servir de soutien et d’asile à l’armée.»
+> Ô mon fils, ô mon Destour propre à toute affaire, prends le drapeau noir de Kaweh et va servir de soutien et d’asile à l’armée. »
 
-Ensuite, il dità Gustehem :
+Ensuite, il dit à Gustehem :
 
 > Va te mettre aujourd’hui à la tête des troupes, prends la place du commandant en chef, sois attentif et prudent et protège l’armée. »
 
@@ -150,7 +150,7 @@ Il s’éleva un cri du milieu des braves, ils se lamentèrent sur le.combat auq
 
 > Ô vieux Pehlewan de l’armée, puisses-tu être victorieux sur ce champ de bataille !
 >
-> Dieu le dispensateur de la justice approuvera-t-il que nous permettions à un vieillard comme toi de combattre?»
+> Dieu le dispensateur de la justice approuvera-t-il que nous permettions à un vieillard comme toi de combattre ? »
 
 Gouderz appela le Sipehdar Gustehem et lui donna beaucoup d’avis et de conseils, disant :
 
@@ -166,8 +166,8 @@ Gouderz appela le Sipehdar Gustehem et lui donna beaucoup d’avis et de conseil
 >
 > M6 niens font une attaque subite, il faut que tu combattes comme un brave et que tu te jettes dans la mêlée pour repousser les héros.
 >
-> Mais s’il t’arrive du camp des Turcs de mauvaises nouvelles du combat que je vais livrer ; si tu apprends que nous sommes tombés sur le champ de bataille et que l’on a jeté sur la route nos corps privés de leurs têtes, alors garde-toi de conduire tes troupes au combat et attends trois jours ; car le quatrième jour le roi illustre arrivera avec son trône et dans toute sa pompe au secours de cette armée.»
+> Mais s’il t’arrive du camp des Turcs de mauvaises nouvelles du combat que je vais livrer ; si tu apprends que nous sommes tombés sur le champ de bataille et que l’on a jeté sur la route nos corps privés de leurs têtes, alors garde-toi de conduire tes troupes au combat et attends trois jours ; car le quatrième jour le roi illustre arrivera avec son trône et dans toute sa pompe au secours de cette armée. »
 
 À ces paroles de Gouderz, les larmes coulèrent sur les cils de Gustehem et inondèrent ses joues ; il accepta tous ces conseils et promit de suivre les injonctions du chef de l’armée, disant :
 
-> Tout ce que tu ordonnes, je le ferai ; me voici ceint comme un esclave.»
+> Tout ce que tu ordonnes, je le ferai ; me voici ceint comme un esclave. »
