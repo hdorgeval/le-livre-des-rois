@@ -52,7 +52,7 @@ Il y resta sept jours une coupe. de vin à la main ; et ce lieu lui parut beau e
 
 Le roi du Hamaveran se tint devant lui jour et nuit, ceint comme un esclave et son armée ceinte également se tint devant les Iraniens pour les servir jusqu’à ce qu’ils fussent plongés dans la sécurité, oubliant le comment et le pourquoi, la crainte et l’idée du. malheur.
 
-Mais à la fin de la semaine les hommesdu Hamaveran furent prêts à agir, leurs plans étaient’arrêtés et ils étaient u tous debout.
+Mais à la fin de la semaine les hommes du Hamaveran furent prêts à agir, leurs plans étaient’arrêtés et ils étaient u tous debout.
 
 L’armée des Berbers était avertie, ses plans étaient les mêmes et elle se mit en marche ; et lorsqu’elle fut arrivée, le cœur du roi du Hamaveran se réjouit. »Une nuit on entendit le bruit des clairons et des armes pendant que personne parmi les Iraniens ne pensait à se mettre en garde et l’on saisit subitement’Kaous,’ et avec lui Guiv, Gouderz et Thous, Gourguin et Zengueh fils de Schaweran et tous les héros pleins de courage ; on les saisit et on les lia avec de forts liens, on renversa leur gloire et leurs trônes.
 
@@ -60,9 +60,9 @@ Qu’en dit l’homme à l’œil perçant ?
 
 Quel enseignement en tirestu, ô sage ?
 
-Si quelqu’un ne t’est pas uni parle sang, ne te fie jamais beaucoup en lui et même il y a des hommes qui te sont alliéspar le sang. qui briseront les liens de l’affection jusqu’au point de détourner de toi leur visage.
+Si quelqu’un ne t’est pas uni parle sang, ne te fie jamais beaucoup en lui et même il y a des hommes qui te sont alliés par le sang. qui briseront les liens de l’affection jusqu’au point de détourner de toi leur visage.
 
-Si tu veux mettre à profit l’amitié d’un homme, il faut l’éprouver par le bonheur et par lemalheur.-ll se peut que, placé andessous de toi ,1 il perde par jalousie toute l’affection qu’il te portait.
+Si tu veux mettre à profit l’amitié d’un homme, il faut l’éprouver par le bonheur et par le malheur.-ll se peut que, placé au-dessous de toi ,1 il perde par jalousie toute l’affection qu’il te portait.
 
 Tel est ce monde pervers, que chaque vent contraire l’ébranlem Kaous fut ainsi chargé de chaînes par trahison et le plan du roi du Hamaveran réussit.
 
@@ -70,7 +70,7 @@ Or il y avait dans ce pays un recherldont la cime s’élevait jusqu’aux nues 
 
 > c’est la que le roi envoya Kaous et Guiv, Gouderz et Thous et qu’il jeta le reste des grands dans les fers avec le roi.
 
-Mille braves gardaientle château, tous guerriers renommés et prompts à tirer l’épée.
+Mille braves gardaient le château, tous guerriers renommés et prompts à tirer l’épée.
 
 Les tentes de Kaous furent livrées au pillage et des boisseaux d’or et des couronnes distribués aux nobles.
 
