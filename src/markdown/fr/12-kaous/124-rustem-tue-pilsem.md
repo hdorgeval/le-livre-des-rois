@@ -50,7 +50,7 @@ Pilsem répondit à Piran :
 
 > Je ne crains pas ce Pehlewan et si je combats ce vaillant crocodile, j’espère, grâce à ta bonne étoile, ne pas être une source de honte pour le roi.
 >
-> Tu m’as vu combattre et vaincre en taprésence quatre héros illustres ; depuis ce temps mes forces doivent s’être accrues et tu fais mal de vouloir m’ôter le courage. l’accomplirai cette entreprise ; ne réveille donc pas une mau-vaise étoiler Lorsque le roi eutentendu ces paroles, il lui donna un cheval de bataille, une épée, une lourde massue, une cuirasse, un casque et une armure de cheval.
+> Tu m’as vu combattre et vaincre en ta présence quatre héros illustres ; depuis ce temps mes forces doivent s’être accrues et tu fais mal de vouloir m’ôter le courage. l’accomplirai cette entreprise ; ne réveille donc pas une mau-vaise étoiler Lorsque le roi eut entendu ces paroles, il lui donna un cheval de bataille, une épée, une lourde massue, une cuirasse, un casque et une armure de cheval.
 >
 > Pilsem s’arma pour le combat et s’élança bravement comme un lion plein de fierté.
 >
