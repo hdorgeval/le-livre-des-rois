@@ -102,4 +102,4 @@ Le maître de la couronne fut si content de ces paroles que tu aurais dit qu’i
 
 Pendant un mois Rustem demeura auprès de Khosrou, la coupe en main, réjouissant par sa présence le trône et le palais du roi ;
 
-Et l’on récitait ses hauts faits dans des chants héroïques, accompagnés du son des flûtes et des instruments à cordes.
+Et l’on récitait ses hauts faits dans des chants héroïques, accompagnés du son des flûtes et des instruments à cordes.
