@@ -70,7 +70,7 @@ Rustem lui répondit :
 
 > Quand le bras d’un brave fait pleuvoir des coups de massue, ni le rocher ni l’enclume ne lui résistent ; il faut pour frapper ainsi, avoir surtout une poitrine et un bras : mais quand Houman manie sa massue, tu dirais qu’elle est de cire et non pas de fer. »
 
-Lorsque Rustem fut revenu de cercombat et que le vaillant Houman se fut enfui, toute l’armée fit entendre un cri,tous les braves élevèrent leurslances ses jusqu’aux nues ; on ne voyait partout que tués et blessés, on aurait dit :
+Lorsque Rustem fut revenu de cercombat et que le vaillant Houman se fut enfui, toute l’armée fit entendre un cri,tous les braves élevèrent leurs lances ses jusqu’aux nues ; on ne voyait partout que tués et blessés, on aurait dit :
 
 > qu’il avait poussé des tulipes sur un sol de safran ; les chevaux piétinaient dans le sang et les pieds des éléphants en étaient rougis.
 >
