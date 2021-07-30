@@ -72,7 +72,7 @@ Rustem arrêta Raksch, se retourna, désarçonna Kamous et le jeta par terre.
 
 Alors, il s’approcha de lui, le lia avec son lacet et lui dit :
 
-> A présent tu ne feras plus de mal ;
+> À présent tu ne feras plus de mal ;
 >
 > La magie et les incantations t’ont fait défaut et ton esprit est devenu en vain l’esclave du Div.
 
@@ -114,4 +114,4 @@ L’histoire du combat de Kamous est finie : le héros est mort ;
 
 Celui qui donne la vie la lui a ravie.
 
-A présent je vais raconter le combat du Khakan de la Chine ; je vais faire agir les héros sur ce champ de la vengeance.
+À présent je vais raconter le combat du Khakan de la Chine ; je vais faire agir les héros sur ce champ de la vengeance.
