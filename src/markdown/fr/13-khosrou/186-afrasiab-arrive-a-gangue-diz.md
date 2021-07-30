@@ -34,7 +34,7 @@ Tu sais ce qui nous est arrivé par suite de notre folie, car tu es le roi et no
 
 Si donc le roi veut suivre un avis sensé, il conduira l’armée d’ici à Djadj et quand Khosrou viendra pour le combattre, il sera temps de mettre sur pied une armée.
 
-Puisse-t-il plaire au roi de se retirer derrière le Gulzarrioun et de se tenir en ce repos dans son paradis de Gangue, qui est le dépôt de ses trésors et son champ de bataille!»
+Puisse-t-il plaire au roi de se retirer derrière le Gulzarrioun et de se tenir en ce repos dans son paradis de Gangue, qui est le dépôt de ses trésors et son champ de bataille ! »
 
 Tous se réunirent à cet avis et personne n’en ouvrit un autre.
 
@@ -52,10 +52,10 @@ Il appela de tous côtés une armée sans nombre, des grands qui portaient haut 
 
 Il jouit ainsi de la vie en at-
 
-Sa LE LIVRE pas sors. tendant qu’il vil. comment le sort tournerait et quel secret se cachait sous cc qui était apparent.
+Sa pas sors. tendant qu’il vil. comment le sort tournerait et quel secret se cachait sous cc qui était apparent.
 
 Mais bientôt arrivèrent des espions qui lui dirent en secret :
 
 > Khosrou a conduit son armée de ce côté du Djihoun. il a quitté le bord du fleuve et arrive dans le désert.
 >
-> Fais attention et prépare sur-le-champ ce qu’il faut, car l’ennemi va paraître inopinément.»
+> Fais attention et prépare sur-le-champ ce qu’il faut, car l’ennemi va paraître inopinément. »
