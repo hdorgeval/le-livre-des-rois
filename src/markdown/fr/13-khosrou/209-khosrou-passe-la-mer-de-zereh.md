@@ -37,8 +37,7 @@ L’armée resta confondue de ce qu’elle voyait dans cette eau et chacun le mo
 
 On y voyait des lions et des taureaux et les tau-reaux se battaient avec les lions ; on y voyait des
 
-Me LE LIVRE ces nons. hommes dont les cheveux étaient comme des lacets ,
-. et la peau couverte de laine comme celle des brebis ; les uns avaient un corps de poisson et une tête de léopard, les autres une tête d’onagre, sur un corps de crocodile ; d’autres avaient des têtes de buffle et deux mains par derrière et des pieds par devant ; d’autres encore avaient des têtes de sanglier sur des corps de mouton.
+Me ces nons. hommes dont les cheveux étaient comme des lacets et la peau couverte de laine comme celle des brebis ; les uns avaient un corps de poisson et une tête de léopard, les autres une tête d’onagre, sur un corps de crocodile ; d’autres avaient des têtes de buffle et deux mains par derrière et des pieds par devant ; d’autres encore avaient des têtes de sanglier sur des corps de mouton.
 
 Toute la mer était remplie de ces créatures ; chacun les montrait aux autres et invoquait Dieu le distributeur de la justice ; et parla grâce du’Créateur du ciel, l’air se calma et la tempête cessa.
 
@@ -48,7 +47,7 @@ Quand Khosrou aborda la terre ferme, quand il vit les plaines et la terre habita
 
 Il fit tirer de l’eau les vaisseaux et les barques : il avait hâte d’agir et c’était le moment pour se hâter.
 
-Il avait devant lui un désert, des sables et des plaines ; mais il s’engageadans les sables mouvants, le’corps dispos.
+Il avait devant lui un désert, des sables et des plaines ; mais il s’engagea dans les sables mouvants, le’corps dispos.
 
 Il trouva des villes qui rappelaient la Chine, mais la langue des habitants ressemblait à celle du Mekran.
 
@@ -56,11 +55,11 @@ Il se reposa dans ces villes et demanda des vivres pour son armée ; il confia c
 
 > La fortune t’a favorisé toujours.
 >
-> Ne sois pas sévère, même envers les coupables, car ce pays et toute chose n’ont aucun prix à mes yeux ; je n’attache plus aucune valeur à Ml personne ; je ne veux plus que me tenir en prière devant Dieu.»
+> Ne sois pas sévère, même envers les coupables, car ce pays et toute chose n’ont aucun prix à mes yeux ; je n’attache plus aucune valeur à Ml personne ; je ne veux plus que me tenir en prière devant Dieu. »
 
 Ensuite, il choisit dans l’armée un guerrier illustre, qui comprenait toutes les langues et envoya par lui un message à tous les princes, disant :
 
-> Quiconque veut le repos et l’accomplissement de ses désirs, qu’il vienne avec confiance à ma cour, qu’il ait le cœur joyeux, la main ouverte, les intentions amicales ; mais quiconque désobéit à cet ordre portera la peine de sa mauvaise disposition.»
+> Quiconque veut le repos et l’accomplissement de ses désirs, qu’il vienne avec confiance à ma cour, qu’il ait le cœur joyeux, la main ouverte, les intentions amicales ; mais quiconque désobéit à cet ordre portera la peine de sa mauvaise disposition. »
 
 Pas un seul de ces princes ne désobéit ; ils arrivèrent à la cour comme des sujets et le roi les reçut avec bienveillance lorsqu’ils parurent et éleva leurs têtes jusqu’au soleil.
 
