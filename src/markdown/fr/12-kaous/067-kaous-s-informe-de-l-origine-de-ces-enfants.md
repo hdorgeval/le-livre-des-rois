@@ -49,7 +49,7 @@ Kaous ordonna à tous les gardes de son palais de se mettre en route, de fouille
 
 Ils en trouvèrent des traces dans-le voisinage et les suivirent en hommes qui avaient de l’expérience.
 
-Ils traînèrent la malheureuse sur la route et la menèrent devant le roi en I’accablant de mauvais traii7. tements.
+Ils traînèrent la malheureuse sur la route et la menèrent devant le roi en l'accablant de mauvais traii7. tements.
 
 Kaous l’interrogea avec bonté et lui donna désespérances ; pendant bien des jours il lui [il des promesses ; mais elle ne confessa rien et le roi illustre n’en fut pas content.
 
