@@ -58,7 +58,7 @@ Le prince, en le voyant, dit à Tokhareh :
 
 > Qui est-ce qui s’avance là si insolemment ?
 >
-> Estce qu’il ne tient pas compte de moi et veut-il monter ici de force ?
+> Est-ce qu’il ne tient pas compte de moi et veut-il monter ici de force ?
 >
 > Il a sous lui un cheval isabelle et au crochet de sa selle pend un lacet.
 
@@ -182,7 +182,9 @@ Je répéterai à Thous tes paroles, je baiserai sa main pour obtenir ce que tu 
 >
 > Si donc un autre que moi s’avançait vers toi, ne lui laisse pas apercevoir ta tête et ton casque.
 >
-> Thous m’avait dit : Va voir qui est sur cette montagne et quand tu l’auras atteint, ne lui demande pas pourquoi il est là, ne lui parle qu’avec la massue et le poignard ; comment laisserions-nous quelqu’un se placer aujourd’hui sur cette hauteur ?
+> Thous m’avait dit :
+
+> Va voir qui est sur cette montagne et quand tu l’auras atteint, ne lui demande pas pourquoi il est là, ne lui parle qu’avec la massue et le poignard ; comment laisserions-nous quelqu’un se placer aujourd’hui sur cette hauteur ?
 >
 > Si donc Thous s’adoucit, je reviendrai avec cette bonne nouvelle et te conduirai avec joie à notre camp ;
 >
