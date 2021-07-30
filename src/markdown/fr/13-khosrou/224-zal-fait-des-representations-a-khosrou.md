@@ -16,22 +16,24 @@ order: '224'
 
 # Zal fait des représentations à Keï Khosrou
 
-A la tin de cette semaine Zal et Rustem arrivè-rent enfin, le cœur plein de tristesse.
+À la tin de cette semaine Zal et Rustem arrivè-rent enfin, le cœur plein de tristesse.
 
-Quand les Ira-LE LIVRE DES [3.
+Quand les Ira-DES [3.
 niens en eurent la nouvelle, ils s’empressèrent d’aller à leur rencontre, tous l’âme ulcérée et lorsque Rustem et Zal parurent, accompagnés de leurs Mobeds accomplis dans toutes les vertus, tous ceux qui étaient de la famille de Zerasp firent caparaçonner 1 leurs chevaux pour les recevoir ; de même Thous, qui portait le drapeau de Kaweh et tous les grands aux bottines d’or.
 
-Lorsque Gouderz fut arrivé près de Tehemten, des larmes de sang coulaient de ses cils sur ses joues ; toute l’armée s’avança, tous les visages étaient pâles, tous les cœurs navrés et désolés à cause de Khosrou ; les Iraniens dirent à Zal et à Rustem : Le roi a été égaré par les conseils d’lblis.
+Lorsque Gouderz fut arrivé près de Tehemten, des larmes de sang coulaient de ses cils sur ses joues ; toute l’armée s’avança, tous les visages étaient pâles, tous les cœurs navrés et désolés à cause de Khosrou ; les Iraniens dirent à Zal et à Rustem :
 
-Toute sa cour est remplie de son armée, mais depuis bien des jours et des nuits personne n’a pu le voir.
-
-Chaque semaine on ouvre une fois la porte de la salle d’audience et nous y allons et nous entrons ; mais Khosrou n’est plus ce roi, rô Pehlewans, que vous avez vu heureux et l’esprit serein.
-
-Sa taille de cyprès est courbée et la rose aux couleurs brillantes de son bonheur est cueillie.
-
-Je ne sais quel mau-vais œil est tombé sur lui et pourquoi cette fleur fraiche s’est fanée.
-
-Est-ce que la fortune des Iraniens serait obscurcie, ou les astres voudraient-ils perdre le roi?»
+> Le roi a été égaré par les conseils d’lblis.
+>
+> Toute sa cour est remplie de son armée, mais depuis bien des jours et des nuits personne n’a pu le voir.
+>
+> Chaque semaine on ouvre une fois la porte de la salle d’audience et nous y allons et nous entrons ; mais Khosrou n’est plus ce roi, rô Pehlewans, que vous avez vu heureux et l’esprit serein.
+>
+> Sa taille de cyprès est courbée et la rose aux couleurs brillantes de son bonheur est cueillie.
+>
+> Je ne sais quel mau-vais œil est tombé sur lui et pourquoi cette fleur fraiche s’est fanée.
+>
+> Est-ce que la fortune des Iraniens serait obscurcie, ou les astres voudraient-ils perdre le roi ? »
 
 Le vaillant Zal leur répondit :
 
@@ -41,7 +43,7 @@ Le vaillant Zal leur répondit :
 >
 > sommes dans le bonheur, tantôt dans le malheur ; mais n’abandonnez pas ainsi votre cœur aux soucis, car les soucis troublent l’âme sereine.
 >
-> Nous ferons tous nos efforts, nous donnerons des conseils à Khosrou et nos conseils lui rendront favorables les astres.»
+> Nous ferons tous nos efforts, nous donnerons des conseils à Khosrou et nos conseils lui rendront favorables les astres. »
 
 Les nouveaux arrivés se rendirent en toute hâte à la cour ; on ouvrit à l’instant le rideau de la porte et on les admit avec plaisir, dans l’ordre de leur rang.
 
