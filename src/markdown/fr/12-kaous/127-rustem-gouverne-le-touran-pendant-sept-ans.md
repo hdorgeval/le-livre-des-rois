@@ -36,7 +36,7 @@ Il enrichit tous les hommes de son armée ; il leur donna des bracelets, des cou
 
 Il donna à Thous le célèbre trône d’ivoire, des bracelets, un collier et l’investiture de la ville de Djad et lui dit :
 
-> Quiconque se révoltera et reconnaîtra l’autorité d’Afrasiab, tranche-lui surlerchamp la tête et fais de son corps un festin pour a les vaulou rs ; mais quiconque se soumettra et recherchera ta protection, quiconque renoncera à la foi d’Ahriman, traite-le avec tendresse comme un fils, préserve-le de toute peine, mets-le au-dessus de tout besoin.
+> Quiconque se révoltera et reconnaîtra l’autorité d’Afrasiab, tranche-lui sur-le-champ la tête et fais de son corps un festin pour a les vaulou rs ; mais quiconque se soumettra et recherchera ta protection, quiconque renoncera à la foi d’Ahriman, traite-le avec tendresse comme un fils, préserve-le de toute peine, mets-le au-dessus de tout besoin.
 >
 > N’afilige pas ceux qui sont heureux, ne quitte jamais la voie de la justice et de la droiture, car ce monde est passager et ne dure pas éternellement.
 >
@@ -61,7 +61,7 @@ H joyaux et lui fit dire :
 
 > Tu es le chef de l’armée, tu es prince, tu es frère de Siawusch.
 >
-> Ceins-toi pour venger ton frère ; tiens toujours ton lacet suspendu au crochet de ta selle, ne te lasse pas de poursuivre Afrasiab ; oublie la nourriture, le repos et lesommeil.
+> Ceins-toi pour venger ton frère ; tiens toujours ton lacet suspendu au crochet de ta selle, ne te lasse pas de poursuivre Afrasiab ; oublie la nourriture, le repos et le sommeil.
 >
 > Ne cesse point de pratiquer dans le monde ce que la justice exige, car on ne perd jamais rien à être juste. »
 
