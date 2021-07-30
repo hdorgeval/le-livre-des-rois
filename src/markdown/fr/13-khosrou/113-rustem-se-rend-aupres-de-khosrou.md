@@ -36,7 +36,7 @@ Rustem lui répondit :
 
 > Pars et sois heureux.
 >
-> Parle au roi et bannis loin de toi les soucis.»
+> Parle au roi et bannis loin de toi les soucis. »
 
 Guiv partit pour aller porter son message au roi dont le cœur était pur et la voie sainte.
 
@@ -52,7 +52,7 @@ Guiv lui dit :
 >
 > Lorsque je lui ai remis ta lettre, il l’a portée à ses yeux et à son front ; il a lié les rênes de Bakech aux rênes de mon destrier, commec’était le devoir d’un serviteur de Khosrou.
 >
-> Maintenant j’ai pris les devants pour annoncer au roi que Tehemten s’avance sur la route.»
+> Maintenant j’ai pris les devants pour annoncer au roi que Tehemten s’avance sur la route. »
 
 Le roi lui dit :
 
@@ -62,7 +62,7 @@ Le roi lui dit :
 
 Guiv répondit au roi digne d’occuper le trône :
 
-> Je l’ai devancé de deux journées pour t’annoncer son arrivée.»
+> Je l’ai devancé de deux journées pour t’annoncer son arrivée. »
 
 Khosrou ordonna alors à ses conseillers, aux princes de sa famille et aux nobles d’aller avec un cortège à la rencontre de Rustem, qui arrivait selon les ordres qu’il lui avait donnés.
 
@@ -81,7 +81,7 @@ Arrivé en présence du roi qui chérissait ses sujets, Rustem courut vers lui e
 
 Ensuite, il releva la tête. le salua et dit :
 
-> Que la fortune t’accompagne toute l’année ; qu’Ormuzd te maintienne dans ta dignité, en te donnant Bahman pour gardien du trône et du diadème ; qu’Ardibehischt ne cesse de t’être favorable ; que Bahram et Tir veillent sur toi ; que Schahrir te donne la victoire, un grand nom, de la splendeur et de la bravoure ; que Sipendarmed te préserve de tout mal ; que l’intelligence soit la demeure de ton esprit brillant;que Deï et Ferwerdin répandent sur toi leurs faveurs ; que la porte de tout mal soit fermée pour toi ; qu’Ader rende brillants tes jours et tes nuits ; que tu sois heureux et que ta couronne illumine le monde ; qu’Aban te fasse réussir en toutes choses ; que le ciel qui tourne soit ton esclave ; que Murdad garde tes troupeaux ; que tu fleurisses à jamais toi et ta race ; que Khardad fasse prospérer ton pays ; que ta fortune grau : -disse chaque mois de l’année.»
+> Que la fortune t’accompagne toute l’année ; qu’Ormuzd te maintienne dans ta dignité, en te donnant Bahman pour gardien du trône et du diadème ; qu’Ardibehischt ne cesse de t’être favorable ; que Bahram et Tir veillent sur toi ; que Schahrir te donne la victoire, un grand nom, de la splendeur et de la bravoure ; que Sipendarmed te préserve de tout mal ; que l’intelligence soit la demeure de ton esprit brillant;que Deï et Ferwerdin répandent sur toi leurs faveurs ; que la porte de tout mal soit fermée pour toi ; qu’Ader rende brillants tes jours et tes nuits ; que tu sois heureux et que ta couronne illumine le monde ; qu’Aban te fasse réussir en toutes choses ; que le ciel qui tourne soit ton esclave ; que Murdad garde tes troupeaux ; que tu fleurisses à jamais toi et ta race ; que Khardad fasse prospérer ton pays ; que ta fortune grau : -disse chaque mois de l’année. »
 
 Quand Rustem eut ainsi comblé Khosrou de ses louanges et de ses bénédictions, le roi des rois lui assigna une place à côté de lui et lui dit :
 
@@ -95,7 +95,7 @@ Quand Rustem eut ainsi comblé Khosrou de ses louanges et de ses bénédictions,
 >
 > Zewareh, Faramourz et Destan fils de Sam se portent-ils bien ?
 >
-> Quelles nouvelles as-tu à m’en donner?»
+> Quelles nouvelles as-tu à m’en donner ? »
 
 Rustem se prosterna à terre, baisa le trône et dit :
 
@@ -103,4 +103,4 @@ Rustem se prosterna à terre, baisa le trône et dit :
 >
 > Par ta grâce tous les trois sont heureux et en bonne santé.
 >
-> Béni est celui dont le roi daigne se souvenir.»
+> Béni est celui dont le roi daigne se souvenir. »
