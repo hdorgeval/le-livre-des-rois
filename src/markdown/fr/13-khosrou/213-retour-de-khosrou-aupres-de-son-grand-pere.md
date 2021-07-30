@@ -42,17 +42,17 @@ Keï Kaous célébra les louanges de ce prince heureux, dont les traces étaient
 >
 > Puissent le cœur et l’âme de ton ennemi périrI Puisse Siawusch revenir, fût-ce pour un seul jour !
 >
-> Ta gloire comblerait tous ses vœux.»
+> Ta gloire comblerait tous ses vœux. »
 
 Le prince lui répondit :
 
-> Tout cela est dû à ta fortune ; une branche de ton arbre a porté fruit.»
+> Tout cela est dû à ta fortune ; une branche de ton arbre a porté fruit. »
 
 Le grand-père baisa Khosrou sur la tête et sur les lèvres, disant :
 
 > Puisses-tu ne jamais me quitter, ni jour ni nuit !
 
-A Khosrou fit apporter des chrysoprases, des rubis. et des pièces d’or et les versa sur la tête du roi, jusqu’à ce que cette offrande couvrît entièrement les pieds du trône incrusté de pierres fines.
+A Khosrou fit apporter des chrysoprases, des rubis et des pièces d’or et les versa sur la tête du roi, jusqu’à ce que cette offrande couvrît entièrement les pieds du trône incrusté de pierres fines.
 
 Kaous fit entrer la cour et placer des tables dans une autre salle ; et les grands, comblés de richesses, s’assirent avec lui dans la salle dorée des festins.
 
@@ -66,7 +66,7 @@ A Keï Kaous resta dans l’admiration de son petitfils et commença à comprend
 >
 > Personne n’a vu dans le monde’un roi comme toi, aucune oreille n’a jamais entendu de pareils récits.
 >
-> Maintenant célébrons cette nouvelle étoile, célébrons tous Khosrou, la coupe en main.»
+> Maintenant célébrons cette nouvelle étoile, célébrons tous Khosrou, la coupe en main. »
 
 Il fit orner la salle dorée des festins, apporter du vin et appeler des échansons aux Ièvres de rubis.
 
@@ -81,11 +81,13 @@ Ensuite le roi s’occupa des troupes et leur distribua la solde d’une année.
 
 Alors le grand-père et le roi qui ambitionnait la possession du monde s’assirent seuls pour tenir conseil.
 
-Khosrou dit au roi Kaous : À qui pouvons-nous demander la direction si ce n’est au Créateur ?
+Khosrou dit au roi Kaous :
 
-Moi et mon armée avons parcouru, le cœur blessé, les déserts, les montagnes et une mer qui exige une année de traversée ; mais nous n’avons trouvé aucune trace d’Afrasiab, ni dans les plaines, ni dans les montagnes,’ ni sur l’eau.
-
-S’il parvient pour un moment à rentrer à Gangue, une armée se rassemblera autour de lui à l’instant de tous les côtés et nous aurons devant nous les mêmes travaux et les mêmes fatigues, quand même Dieu nous donnerait la victoire.»
+> À qui pouvons-nous demander la direction si ce n’est au Créateur ?
+>
+> Moi et mon armée avons parcouru, le cœur blessé, les déserts, les montagnes et une mer qui exige une année de traversée ; mais nous n’avons trouvé aucune trace d’Afrasiab, ni dans les plaines, ni dans les montagnes,’ ni sur l’eau.
+>
+> S’il parvient pour un moment à rentrer à Gangue, une armée se rassemblera autour de lui à l’instant de tous les côtés et nous aurons devant nous les mêmes travaux et les mêmes fatigues, quand même Dieu nous donnerait la victoire. »
 
 Le grand-père répondit à son petit-fils par un sage conseil de vieillard, disant :
 
