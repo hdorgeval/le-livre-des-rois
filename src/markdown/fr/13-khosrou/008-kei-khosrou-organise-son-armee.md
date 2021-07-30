@@ -102,7 +102,7 @@ Gouderz fils de Keschwad, dont la sagesse faisait prospérer le monde, suivit Fe
 
 On portait derrière lui un drapeau orné d’une figure de lion dont les griffes s’appuyaient sur une massue et sur une épée.
 
-A sa gauche marchait le vaillant Rehham, à sa droite le fier Guiv et derrière lui Schidousch, lequel tenait ce drapeau à figure de lion qui jetait sur la terre une teinte violette et était suivi par des milliers de braves à cheval et armés de longues lances.
+À sa gauche marchait le vaillant Rehham, à sa droite le fier Guiv et derrière lui Schidousch, lequel tenait ce drapeau à figure de lion qui jetait sur la terre une teinte violette et était suivi par des milliers de braves à cheval et armés de longues lances.
 
 On portait derrière Guiv un drapeau noir et à figure de loup, que ses troupes entouraient.
 
