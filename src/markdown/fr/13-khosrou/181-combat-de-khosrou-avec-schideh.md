@@ -22,7 +22,7 @@ Lorsqu’il fut arrivé auprès des Iraniens, un des grands accourut vers le roi
 
 > Un cavalier s’est avancé entre les deux armées, haut la tête, poussantvdes cris et l’épée à la main.
 >
-> Ce guerrier illustre et prompt à frapper demande qu’on annonce au roi que Pescheng est arrivé.»
+> Ce guerrier illustre et prompt à frapper demande qu’on annonce au roi que Pescheng est arrivé. »
 
 Le roi sourit et demanda sa cotte de mailles ; il éleva droit en l’air l’étendard, signe de son pouvoir, plaça un casque d’or sur sa tête et remit son étendard à Rehham fils de Gouderz.
 
@@ -30,15 +30,17 @@ Tous ses braves étaient dans l’angoisse et dans les larmes ; ils étaient com
 
 Ne fatigue pas ton corps de cette armure de fer.
 
-La place des rois est sur le trône ; que celui qui te force de revêtir cette armure de combat ne trouve d’autre demeure que dans la terre noire ; [t3 que nul de ses desseins ne lui réussisse!»
+La place des rois est sur le trône ; que celui qui te force de revêtir cette armure de combat ne trouve d’autre demeure que dans la terre noire ; [t3 que nul de ses desseins ne lui réussisse ! »
 
-Le roi, armé de sa cuirasse, de sa massue et de son casque, leur envoya le message suivant :.
+Le roi, armé de sa cuirasse, de sa massue et de son casque, leur envoya le message suivant :
 
-Que personne ne quitte le camp royal, ni la droite ni la gauche, ni le centre ni ses ailes ; que personne ne recherche le combat ni ne s’agite ; que tous obéissent à Behham fils de Gouderz.
-
-Quand le soleil sera arrivé au faîte du ciel, vous irez voir sur qui le malheur est tombé et si,vous trouvez que c’est Pescheng qui est vainqueur, Rustem aura la direction de la s guerre ; soyez tous devant lui comme des esclaves obéissants et vous trouverez bientôt un remède à votre douleur ; car les moyens de salut et les combats sont faciles pour une armée qui a un chef comme lui.
-
-Ainsi ne laissez pas vos cœurs se resserrer : tel est le commencement et la fin des guerres, que tantôt on est en haut et tantôt en bas, tantôt on est dans la joie et tantôt dans la terreur.»
+> .
+>
+> Que personne ne quitte le camp royal, ni la droite ni la gauche, ni le centre ni ses ailes ; que personne ne recherche le combat ni ne s’agite ; que tous obéissent à Behham fils de Gouderz.
+>
+> Quand le soleil sera arrivé au faîte du ciel, vous irez voir sur qui le malheur est tombé et si,vous trouvez que c’est Pescheng qui est vainqueur, Rustem aura la direction de la s guerre ; soyez tous devant lui comme des esclaves obéissants et vous trouverez bientôt un remède à votre douleur ; car les moyens de salut et les combats sont faciles pour une armée qui a un chef comme lui.
+>
+> Ainsi ne laissez pas vos cœurs se resserrer : tel est le commencement et la fin des guerres, que tantôt on est en haut et tantôt en bas, tantôt on est dans la joie et tantôt dans la terreur. »
 
 Il lança Behzad, son cheval couleur de nuit, qui aurait roulé devant lui le vent, tant il allait vite.
 
@@ -52,7 +54,7 @@ Schideh, qui se tenait entre les deux camps, l’aperçut ; il poussa de sa poit
 >
 > (Il : tendre d’un homme qui a de l’expérience et qui a été nourri par la sagesse ; car si tu avais du sens, tu ne serais pas si impatient d’attaquer le frère de la mère.
 >
-> Mais si tu veux combattre, éloigne-toi des armées ; choisis un lieu écarté, pour que ni Iraniens ni Touraniens ne nous voient, car nous ne vouions pas d’amis ni d’aides.»
+> Mais si tu veux combattre, éloigne-toi des armées ; choisis un lieu écarté, pour que ni Iraniens ni Touraniens ne nous voient, car nous ne vouions pas d’amis ni d’aides. »
 
 ’
 Le roi lui répondit :
@@ -67,7 +69,7 @@ Le roi lui répondit :
 >
 > Ils convinrent que des deux côtés personne ne viendrait à leur aide et ne prendrait part au combat et qu’aucun malheur ne devait assombrir les jours de leur porte-étendard.
 >
-> Ils s’éloignèrent ensemble de leurs armées, joyeux comme des hommes qui vont à une fête et choisirent, dans une plaine propre au combat et faisant partie du désert de Kharizm, un lieu si stérile et si dépourvu d’eau que les lions et les léopards n’y mettaient pas le pied, que les aigles n’y traversaient pas le ciel ; c’était en bas un désert slérile, en haut un mirage.
+> Ils s’éloignèrent ensemble de leurs armées, joyeux comme des hommes qui vont à une fête et choisirent, dans une plaine propre au combat et faisant partie du désert de Kharizm, un lieu si stérile et si dépourvu d’eau que les lions et les léopards n’y mettaient pas le pied, que les aigles n’y traversaient pas le ciel ; c’était en bas un désert stérile, en haut un mirage.
 >
 > La ils commencèrent un
 >
@@ -93,13 +95,13 @@ Le roi lui répondit :
 
 > Ô roi !
 >
-> Tout le monde se bat avec l’épée et la lance et manie en même temps les rênes ; mais il vaudrait mieux nous combattre à pied et nous attaquer comme des lions.»
+> Tout le monde se bat avec l’épée et la lance et manie en même temps les rênes ; mais il vaudrait mieux nous combattre à pied et nous attaquer comme des lions. »
 
 Khosrou, le maître du monde, Â)
 
 Fifi comprit à l’instant la pensée de son ennemi ; il se dit en lui-même :
 
-> si je laisse partir ce lion avec sa force et ses griffes, ce descendant de Feridoun, ce petit-fils de Pescheng, il abattra bien des têtes, il effrayera bien des héros au cœur de lion et si j’accepte le combat à pied, j’allligerai les Iraniens.
+> si je laisse partir ce lion avec sa force et ses griffes, ce descendant de Feridoun, ce petit-fils de Pescheng, il abattra bien des têtes, il effrayera bien des héros au cœur de lion et si j’accepte le combat à pied, j’affligerai les Iraniens.
 
 Rebham lui dit :
 
@@ -109,7 +111,7 @@ Rebham lui dit :
 >
 > Si Khosrou se bat à pied, pourquoi alors y a-t-il tant de cavaliers sur cette plaine ?
 >
-> Si quelqu’un doit mettre pied à terre, me voici, moi qui suis de la race de Keschwad ; reste ici, pour que je m’avance contre lui, prêt au combat ; tu es le roi, le maître du monde qui porte haut la tête.»
+> Si quelqu’un doit mettre pied à terre, me voici, moi qui suis de la race de Keschwad ; reste ici, pour que je m’avance contre lui, prêt au combat ; tu es le roi, le maître du monde qui porte haut la tête. »
 
 Le roi répondit à Rehham :
 
@@ -117,7 +119,7 @@ Le roi répondit à Rehham :
 >
 > Schideh est un héros de la famille de Pescheng ; sache donc qu’il ne voudra pas se battre avec toi ; ensuite, tu n’es pas de force à lui résister, car les Turcs n’ont pas de chef comparable à lui.
 >
-> C’est un brave de la race de Feridoun et jamais mère n’a mis au monde un fils aussi vaillant ; ce n’est donc pas une honte pour moi de marcher à lui et nous allons livrer à pied un combat de léopards.»
+> C’est un brave de la race de Feridoun et jamais mère n’a mis au monde un fils aussi vaillant ; ce n’est donc pas une honte pour moi de marcher à lui et nous allons livrer à pied un combat de léopards. »
 
 De l’autre côté,l’interprète de Schideh s’approcha de lui et lui dit :
 
@@ -129,7 +131,7 @@ De l’autre côté,l’interprète de Schideh s’approcha de lui et lui dit :
 >
 >
 >
-> A7 mieux que d’affronter les coups et le bruit et le tumulte de la bataille.»
+> A7 mieux que d’affronter les coups et le bruit et le tumulte de la bataille. »
 
 Schideh répondit à son illustre interprète :
 
@@ -142,7 +144,7 @@ Schideh répondit à son illustre interprète :
 > Je sais d’où viennent cette force et cette bravoure : c’est la grâce de Dieu qui repose sur ce héros illustre.
 >
 > Peut-
-> être, étant à pied, le vaincrai-je et dans ce combat verserai-je son sang par torrents.»
+> être, étant à pied, le vaincrai-je et dans ce combat verserai-je son sang par torrents. »
 
 Le roi du monde dit à Schideh :
 
