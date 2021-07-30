@@ -30,7 +30,7 @@ Le roi victorieux dit aux Iraniens :
 >
 > Faire du mal à ceux qui n’en ont pas fait ne trouve pas grâce devant Dieu.
 >
-> Quiconque voudra me plaire, qu’il s’abstienne de désoler mon empire et qu’en appelle injuste et maudit quiconque rend désert le pays où je réside!»
+> Quiconque voudra me plaire, qu’il s’abstienne de désoler mon empire et qu’en appelle injuste et maudit quiconque rend désert le pays où je réside ! »
 
 Ensuite le roi ordonna à son armée d’ouvrir le trésor public du Touran, à l’exception du trésor privé du noble Afrasiab, auquel personne n’avait accès.
 
