@@ -16,7 +16,9 @@ order: '200'
 
 # Lettre d'Afrasiab à Keï Khosrou
 
-Le roi des Turcs choisit dans cette assemblée trois hommes pleins d’expérience et 0voya par en à Khosrou ce message : Tu as fait beaucoup de chemin pour me suivre.
+Le roi des Turcs choisit dans cette assemblée trois hommes pleins d’expérience et 0voya par en à Khosrou ce message :
+
+> Tu as fait beaucoup de chemin pour me suivre.
 
 Il y a, ô roi, mille farsangs du pays d’Iran jusqu’à Gangue et deux armées nombreuses comme les fourmis et les sauterelles ont traversé les montagnes et les plaines, les sables et les marais ; les terres sont devenues des mers de sang versé par la vengeance depuis Gangue et la Chine jusque dans l’Iran et si l’ordre de Dieu le très-saint réunissait dans une vallée le sang de tous ces morts qui est répandu sur la poussière, il formerait une mer comme la nier de Kolzoum et les deux armées disparaîtraient dans le sang.
 
@@ -41,7 +43,7 @@ Si, au contraire, je te tue, je jure par la protection que je demande à Dieu qu
 >
 > Il parle maintenant d’un combat ; est-ce qu’il cherche le tombeau de Schideh ?
 >
-> Il est petit-fils de Feridoun et fils de Pescheng et je ne dérogerai pas’en le combattant.»
+> Il est petit-fils de Feridoun et fils de Pescheng et je ne dérogerai pas’en le combattant. »
 
 Rustem lui répondit :
 
@@ -55,4 +57,4 @@ Rustem lui répondit :
 >
 > Pour faire avec ton grand-père un traité devant Dieu, il ne faudrait pas qu’il y eût de la fausseté dans les cœurs.
 >
-> Conduis ton armée entière au combat et méprise ces paroles trompeuses et vaines.»
+> Conduis ton armée entière au combat et méprise ces paroles trompeuses et vaines. »
