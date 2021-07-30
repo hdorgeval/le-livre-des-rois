@@ -18,11 +18,11 @@ order: '161'
 
 Le huitième des héros qui devaient combattre, Zengueh fils de Schaweran, s’avança ; son adversaire était Aukhast, devant lequel les lions s’enfuyaient.
 
-Aukhast et Zengueh fils de Schaweran prirent tous deux leur lourde massue : ils se combattirent à outrance, ils s’assenèreut tant de coups qu’ils en furent bientôt épuisés ; leurs chevaux de bataille ne pouvaient plus se mouvoir ; on eût dit que la vie ne faisait plus battre dans leur corps une seule artère ; le soleil brillant, qui accomplissait son cours à travers le firmament, échauffait la plaine comme il échouierait une plaque de fer ; les deux combattants étaient si fatigués qu’on eût dit qu’aucun d’eux ne pourrait plus remuer un pied.
+Aukhast et Zengueh fils de Schaweran prirent tous deux leur lourde massue : ils se combattirent à outrance, ils s’assenèreut tant de coups qu’ils en furent bientôt épuisés ; leurs chevaux de bataille ne pouvaient plus se mouvoir ; on eût dit que la vie ne faisait plus battre dans leur corps une seule artère ; le soleil brillant, qui accomplissait son cours à travers le firmament, échauffait la plaine comme il échouerait une plaque de fer ; les deux combattants étaient si fatigués qu’on eût dit qu’aucun d’eux ne pourrait plus remuer un pied.
 
 Alors ils s’adressèrent la parole, disant :
 
-> La chaleur nous brûle le foie ; il faut nous reposer et reprendre haleine ; ensuite nous recommencerons le combat.»
+> La chaleur nous brûle le foie ; il faut nous reposer et reprendre haleine ; ensuite nous recommencerons le combat. »
 
 Ils se séparèrent, conduisirent leurs chevaux à l’écart et leur mirent des entraves aux pieds.
 
