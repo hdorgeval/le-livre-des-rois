@@ -28,7 +28,9 @@ Un prince qui devient sanguinaire ne reste pas longtemps sur le trône royal.
 
 Voici un roi, maître du trône, né sous une bonne étoile, favori de la fortune, qui a eu des ennemis aussitôt qu’il eut commencé à verser du sang.
 
-Heureux le roi qui n’a jamais vu couler le sang des roisl Dans ce temps un homme de bien, un sage de la famille de Feridoun, qui, dans toute la majesté et la puissance d’un Keïanide, était un adorateur humble de Dieu et en toute chose prêt à servir le roi, avait fait de toute cette montagne son lieu de prières et vivait loin des plaisirs et de la foule.
+Heureux le roi qui n’a jamais vu couler le sang des rois !
+
+Dans ce temps, un homme de bien, un sage de la famille de Feridoun, qui, dans toute la majesté et la puissance d’un Keïanide, était un adorateur humble de Dieu et en toute chose prêt à servir le roi, avait fait de toute cette montagne son lieu de prières et vivait loin des plaisirs et de la foule.
 
 Le nom de cet homme plein de vertus était Houm ; il adorait Dieu loin des terres habitées.
 
@@ -42,11 +44,11 @@ Où sont ton pouvoir, la valeur, ton courage, la force et ton intelligence ?
 
 Où sont (a puissance, ton trône et ton casque ?
 
-Où sont les provinces et tes armées nombreuses, ô toi qui es maintenant dans cet antre étroit, qui es réfugié dans cette forteresse de rochers?»
+Où sont les provinces et tes armées nombreuses, ô toi qui es maintenant dans cet antre étroit, qui es réfugié dans cette forteresse de rochers ? »
 
 Houm entendit ’ces plaintes faites en langue turque ; il abandonna ses prières et ’quitta ce lieu en disant :
 
-> Ces lamentations au milieu de la nuit ne peuvent être que les cris d’Afrasiah.»
+> Ces lamentations au milieu de la nuit ne peuvent être que les cris d’Afrasiah. »
 
 Cette pensée se fortifia en lui ; il chercha pendant quelque temps l’entrée de la caverne obscure, monta sur la montagne pendant le temps du sommeil, découvrit l’ouverture de l’antre d’Afrasiab, arriva comme un lion furieux, se dépouilla bravement de son froc, saisit le lacet qu’il portait en guise de cordon et qui lui assurait la protection du maître du monde et entra dans la caverne.
 
@@ -58,4 +60,4 @@ Il est naturel qu’on s’étonne de cette aventure.
 
 Mais quand on est roi dans ce monde, il ne faut ambitionner que la gloire de la bonté, il ne faut pas se livrer aux jouissances.
 
-Afrasiab avait raison de choisir une caverne comme sa. part dans le monde ; comment pouvait-il savoir qu’elle deviendrait le lieu de sa perte ?
+Afrasiab avait raison de choisir une caverne comme sa part dans le monde ; comment pouvait-il savoir qu’elle deviendrait le lieu de sa perte ?
