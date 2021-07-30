@@ -20,7 +20,7 @@ Cependant Tehemten revêtit sa cotte de mailles de Roum et en attacha les bouton
 
 > Puisse l’œil des méchants s’éteindre !
 >
-> Puisse ma force suffire pour sauver Bijen !»
+> Puisse ma force suffire pour sauver Bijen ! »
 
 Il ordonna à ses compagnons de se ceindre pour la vengeance ; on mit aux chevaux les selles couvertes de peau de léopard et tous s’apprêtèrent au combat.
 
@@ -28,16 +28,18 @@ Tehemten se dirigea sur la lueur du bûcher et y courut en toute hâte.
 
 Arrivé à la pierre d’Akwan et à cette fosse, séjour de douleurs brûlantes et de dépérissements, il dit aux sept héros :
 
-> 3H Il faut mettre pied à terre et trouver un moyen de débarrasser l’ouverture de la fosse de cette pierre.»
+> 3H Il faut mettre pied à terre et trouver un moyen de débarrasser l’ouverture de la fosse de cette pierre. »
 
 Les chefs de l’armée descendirent de cheval pour
 ôter la pierre de dessus la fosse ; ils essayèrent longtemps la force de leurs mains contre la pierre, mais ils se fatiguèrent sans l’ébranler.
 
-Quand le vaillant lion vit couler la sueur des braves sans que la pierre eût remué, il sauta à bas de son cheval, serra lé pan de sa cette de mailles dans sa ceinture, demanda des forces au Créateur de toute force, saisit la pierre et l’enleva ; il la jeta dans la forêt du pays de Chine et la terre en trembla. r Ensuite, il demanda à Bijen en poussant des soupirs :
+Quand le vaillant lion vit couler la sueur des braves sans que la pierre eût remué, il sauta à bas de son cheval, serra lé pan de sa cotte de mailles dans sa ceinture, demanda des forces au Créateur de toute force, saisit la pierre et l’enleva ; il la jeta dans la forêt du pays de Chine et la terre en trembla.
+
+Ensuite, il demanda à Bijen en poussant des soupirs :
 
 > Comment es-tu tombé dans ce malheur !
 >
-> Le monde t’avait donné en partage toutes ses délices ; comment donc lui as-tu pris des mains la coupe de poison?»
+> Le monde t’avait donné en partage toutes ses délices ; comment donc lui as-tu pris des mains la coupe de poison ? »
 
 Bijen répondit de sa fosse ténébreuse :
 
@@ -45,7 +47,7 @@ Bijen répondit de sa fosse ténébreuse :
 >
 > Aussitôt que mon oreille a été frappée de tes cris, tout le poison dont m’abreuve le monde est devenu pour moi du miel.
 >
-> Tu vois quelle est ma demeure ; des fers sont pour moi la terre, une pierre est mon ciel ; aussi mon cœur avait-il déjà renoncé à ce monde passager, tant j’avais souffert de douleurs et de soucis, de malheurs et de peines.»
+> Tu vois quelle est ma demeure ; des fers sont pour moi la terre, une pierre est mon ciel ; aussi mon cœur avait-il déjà renoncé à ce monde passager, tant j’avais souffert de douleurs et de soucis, de malheurs et de peines. »
 
 Rustem lui dit :
 
@@ -54,7 +56,7 @@ Rustem lui dit :
 >
 > Abandonne-moi Gourguin
 >
-> 3P) fils de Milad ; arrache de ton cœur toute idée de vengeance et de haine.»
+> 3P) fils de Milad ; arrache de ton cœur toute idée de vengeance et de haine. »
 
 Bijen lui répondit :
 
@@ -64,7 +66,7 @@ Bijen lui répondit :
 
 > Si tu es assez méchant pour
 > ’ n’avoir aucun égard à mon amitié et à mes paroles, je te laisserai enchaîné par les pieds dans cette fosse .
-> je monterai sur Raksch et je repartirai.»
+> je monterai sur Raksch et je repartirai. »
 
 Lorsque Bijen entendit ces paroles de Rustem, il poussa un cri dans son cachot étroit et dit :
 
@@ -74,7 +76,7 @@ Lorsque Bijen entendit ces paroles de Rustem, il poussa un cri dans son cachot �
 >
 > Eh bien !
 >
-> Je l’oublie, je lui pardonne et mon cœur renonce à toute vengeance contre lui.»
+> Je l’oublie, je lui pardonne et mon cœur renonce à toute vengeance contre lui. »
 
 Alors Rustem laissa tomber dans le cachot le boul de son lacet et tira Bijen de la fosse les pieds encore enchaînés, la tête nue, les cheveux et les ongles longs, tout amaigri par les soucis, les douleurs et le dénûment, les joues jaunes elle corps ensanglanté par ces fers et ces chaînes rouillées.
 
@@ -86,7 +88,7 @@ Les deux jeunes gens racontèrent à Rustem toute leur histoire, le cœur et l�
 
 Tehemten ordonna qu’on lavât la tête à Bijen et qu’on le couvrit de vêtements neufs.
 
-Gourguin s’approcha de Bijen et se prosterna devantlui le visage dans la poussière ; il demanda pardon de ses crimes et se repentit de ses paroles inconsidérées ; le cœur de Bijen renonça à la vengeance et le méfait de Gourguin demeura impuni.
+Gourguin s’approcha de Bijen et se prosterna devant lui le visage dans la poussière ; il demanda pardon de ses crimes et se repentit de ses paroles inconsidérées ; le cœur de Bijen renonça à la vengeance et le méfait de Gourguin demeura impuni.
 
 On chargea les chameaux, on sella les chevaux ; Rustem revêtit une armure de choix et monta sur Raksch ; les héros illustres tirè-rent leurs épées, apprêtèrent leurs lourdes massues et partirent en ordre de bataille : leur entreprise était achevée.
 
@@ -96,7 +98,7 @@ Le prudent Aschkesch, qui veillait toujours au salut de l’armée, se mit en ro
 >
 > Je vais lui faire dans son palais une insulte qui le livrera demain à la risée de son armée ; je rendrai noir pour lui le jour brillant, je lui arracherai la tête et la porterai à Khosrou.
 >
-> Toi, pars avec Menijeh ; car je vais détruire le Touran avec mon épée tranchante et tu es trop exténué par les chaînes et le cachot pour assister à ce combat.»
+> Toi, pars avec Menijeh ; car je vais détruire le Touran avec mon épée tranchante et tu es trop exténué par les chaînes et le cachot pour assister à ce combat. »
 
 A ce conseil que lui donnait Rustem de partir avec Menijeh et de rentrer dans son pays, Bijen répondit :
 
