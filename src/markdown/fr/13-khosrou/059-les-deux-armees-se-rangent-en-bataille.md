@@ -97,7 +97,7 @@ De là il courut auprès de Kamous, de Manschour et de Ferthous et leur dit :
 
 > Je suis sorti à l’aube du jour, j’ai fait le tour de l’armée iranienne et j’ai reconnu qu’elle a reçu de grands renforts et qu’un grand nombre de guerriers illustres l’ont rejointe.
 >
-> Je crois que Rustem, dont j’ai déjà parlé à cette assemblée a quitté la cour de l’Iran et est venu ici au secours de Thous.
+> Je crois que Rustem, dont j’ai déjà parlé à cette assemblée a quitté la cour de l’Iran et est venu ici au secours de Thous.
 
 Kamous lui répondit :
 
