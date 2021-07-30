@@ -74,11 +74,11 @@ Les joues du roi pâlirent à ces nouvelles ; et dans sa colère contre Siawusch
 Car il ne savait pas ce que la rotation des sphères lui réservait, ni si le ciel voulait le traiter avec amour ou avec haine.
 
 Il oublia sa colère,son envie de combats et sa vengeance et dès ce momentne parla plus de guerre. ’ ’
-Afrasiab apprit que Siawusch avait passé le Djihoun, qu’il avait franchi la frontière avec son 2A3 escorte et qu’un messager envoyé par lui était arrivé à la cour.
+Afrasiab apprit que Siawusch avait passé le Djihoun, qu’il avait franchi la frontière avec son escorte et qu’un messager envoyé par lui était arrivé à la cour.
 
 Il ordonna que l’on allât à sa rencontre et que les grands se missent en route précédés des tambours.
 
-Piran choisit mille hommes de sa tribu et fit ses préparatifs pour aller âudevant de Siawusch ; il distribua à son escorte des provisiOns et des présents et fit caparaçonner quatre éléphants blancs, sur l’un desquels on plaça un trône incrmté de turquoises et un étendard brillant et grand comme un arbre.
+Piran choisit mille hommes de sa tribu et fit ses préparatifs pour aller au-devant de Siawusch ; il distribua à son escorte des provisiOns et des présents et fit caparaçonner quatre éléphants blancs, sur l’un desquels on plaça un trône incrmté de turquoises et un étendard brillant et grand comme un arbre.
 
 Le drapeau était surmonté d’une lune d’or, le fond en était violet et brodé d’or au milieu.
 
