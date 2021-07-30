@@ -18,7 +18,7 @@ order: '111'
 
 Khosrou apposa son sceau sur la lettre ; Guiv la prit, salua le roi, se rendit dans son palais et s’apprêta en grande hâte pour le voyage du Seistan.
 
-Il. fit monter à cheval tous les cavaliers de sa maison, se recommanda à Dieu en prononçant son nom et s’avança dans le’désert et sur la route du Hirmend.
+Il. fit monter à cheval tous les cavaliers de sa maison, se recommanda à Dieu en prononçant son nom et s’avança dans le désert et sur la route du Hirmend.
 
 Il marcha rapidement comme un messager, il s’élance comme une bête fauve que l’on chasse et fit chaque jour deux journées de marche.
 
@@ -32,27 +32,33 @@ Il lança son cheval et alla à la rencontre de l’étranger pour voir si ce n�
 
 Quand il aperçut sur la route Guiv le visage défait, il courut tindevant de lui tout étonné et disant en lui-même :
 
-> Il est arrivé quelque chose de grave au roi, car c’est Guiv qu’on envoie de l’Iranm Le Pehlewan et son cortège, lorsqu’ils furent près de Destan, lui barrèrent le chemin en le saluant et Destan demanda aux Iraniens des nouvelles du roi et de la guerre contre le Touran.
+> Il est arrivé quelque chose de grave au roi, car c’est Guiv qu’on envoie de l’Iran. »
+
+Le Pehlewan et son cortège, lorsqu’ils furent près de Destan, lui barrèrent le chemin en le saluant et Destan demanda aux Iraniens des nouvelles du roi et de la guerre contre le Touran.
 >
 > Guiv le salua comme les grands l’en avaient chargé, au nom du roi et des héros de noble naissance ; ensuite il lui confia tous !
 >
-> Les soucis de son cœur et l’angoisse que lui causait la perte de son fils, en ajoutant : C’est pour cela que tu ne vois pas de couleur sur mes joues et que le dessus de mes pieds est taché de sang comme la robe du léopard.»
+> Les soucis de son cœur et l’angoisse que lui causait la perte de son fils, en ajoutant :
+
+> C’est pour cela que tu ne vois pas de couleur sur mes joues et que le dessus de mes pieds est taché de sang comme la robe du léopard. »
 
 Ensuite, il demanda où était Tehemten, en disant :
 
-> ce Où est donc Rustem?»
+> ce Où est donc Rustem ? »
 
 Destan répondit :
 
-> Rustem est à la chasse aux onagres, mais il va revenir au coucher du soleil.»
+> Rustem est à la chasse aux onagres, mais il va revenir au coucher du soleil. »
 
-Guiv dit : Je vais aller le rejoindre, pour lui remettre une lettre de Khosrou.»
+Guiv dit :
+
+> Je vais aller le rejoindre, pour lui remettre une lettre de Khosrou. »
 
 Destan répondit :
 
 > Ne t’éloigne pas, car le héros va revenir du désert où il chasse.
 >
-> Reste ici jusqu’à son retour, passe la journée avec moi pour que je fête ton arrivée.»
+> Reste ici jusqu’à son retour, passe la journée avec moi pour que je fête ton arrivée. »
 
 ’
 Ils partirent tous deux pour le palais de Zal, chevauchant et causant ; et au moment où Guiv arrivait au palais, Tehemten revint de la chasse.
@@ -63,7 +69,7 @@ Quand Rustem vit Guiv le cœur blessé et le visage mouillé de larmes qui tomba
 
 > Mon Dieu !
 >
-> Tout est donc perdu,.le pays d’Iran et le roi et la fortune l»
+> Tout est donc perdu,.le pays d’Iran et le roi et la fortune ! »
 
 Il sauta à bas de son cheval, serra Guiv dans ses bras et lui demanda des nouvelles de Khosrou maître de la couronne, de Gouderz, de Thous, de Gustehem et de tous les héros, grands et petits ; de Schapour, de Ferhad et de Bijen, de Rehham, de Gourguin et de tous les autres.
 
@@ -73,7 +79,7 @@ Lorsque l’oreille de Guiv fut frappée du nom de Bijen, il poussa involontaire
 >
 > Tous ceux que tu as nommés se portent bien, ils te saluent et sont tes amis ; mais tu ne sais pas comment le malheur a fondu sur ma tête de vieillard, comment le mauvais œil a frappé la famille de Gouderz et quel revers a éprouvé notre fortune.
 >
-> J’avais dans le monde un seul enfant, qui était pour moi nonseulement un fils, mais un sage conseiller ; maintenant il a disparu : jamais pareil malheur n’avait atteint ma famille.
+> J’avais dans le monde un seul enfant, qui était pour moi non seulement un fils, mais un sage conseiller ; maintenant il a disparu : jamais pareil malheur n’avait atteint ma famille.
 >
 > Depuis lors, j’ai été tel que tu me vois, assis sur mon destrier, courant jour et nuit ; le soleil s’est obscurci pour moi ; jour et nuit j’ai cherché comme un insensé dans le monde entier des traces de Bijen.
 >
@@ -83,7 +89,7 @@ Lorsque l’oreille de Guiv fut frappée du nom de Bijen, il poussa involontaire
 >
 > Me voici donc ici le cœur plein d’espérance, les joues pâles, les yeux ternes.
 >
-> Je t’ai toujours vu apparaître comme un sauveur, je t’ai toujours vu prêt à te ceindre pour aider tous ceux qui ont besoin d’aide.»
+> Je t’ai toujours vu apparaître comme un sauveur, je t’ai toujours vu prêt à te ceindre pour aider tous ceux qui ont besoin d’aide. »
 
 Il parla ainsi les yeux remplis de larmes de fiel et poussant des soupirs ; ensuite il remit à Rustem la lettre et lui raconta tout ce qu’avait fait Gourguin.
 
