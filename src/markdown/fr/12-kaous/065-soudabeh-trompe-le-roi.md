@@ -22,7 +22,7 @@ La nouvelle parvint aux oreilles du roi ; il descendit de son trône impérial ;
 
 Il y arriva et voyant le visage de Soudabeh tout déchiré et le palais plein de tumulte, il fit des questions à tous cette :
 
-> qu’il vit ; son cœur étaitserré, mais il ne se doutait pas de ce qu’avait fait cette femme au coeur de pierre.
+> qu’il vit ; son cœur était serré, mais il ne se doutait pas de ce qu’avait fait cette femme au coeur de pierre.
 
 Soudabeh vint à lui, poussant des cris, versant des larmes de sang, arrachant ses cheveux et s’écriant :
 
