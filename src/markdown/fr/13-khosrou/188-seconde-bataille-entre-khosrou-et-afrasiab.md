@@ -34,7 +34,9 @@ Le bruit des haches qui fracassaient les casques était tel, que les âmes disai
 
 Quand Keï Khosrou vit les convulsions de la bataille, il sentit le monde peser sur son cœur ; il se retira derrière l’armée et se présenta devant le Créateur, demandant justice et disant :
 
-> Ô toi qui es au-dessus de la sagesse des saints, maître du monde, roi au-dessus de tous les roisl Si je n’avais pas été I victime de l’injustice, si je n’avais pas été tordu comme le fer dans la forge, je ne demanderais pas la victoire, je ne t’importunerais pas de mes prières.»
+> Ô toi qui es au-dessus de la sagesse des saints, maître du monde, roi au-dessus de tous les rois !
+>
+> Si je n’avais pas été I victime de l’injustice, si je n’avais pas été tordu comme le fer dans la forge, je ne demanderais pas la victoire, je ne t’importunerais pas de mes prières. »
 
 Il parla ainsi en frottant ses joues dans la poussière et le monde fut rempli de ses cris d’angoisse.
 >
