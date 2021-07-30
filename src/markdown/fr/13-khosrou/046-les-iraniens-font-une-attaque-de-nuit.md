@@ -130,7 +130,7 @@ Houman s’écria d’une voix perçante :
 >
 > Votre mauvaise fortune vous a fait sortir de votre camp pour qu’il arrive malheur aux méchants.
 
-De ceux qui étaient venus livrer combat il ne restait déjà plus que les trois chefs et quelques débris de leur petite armée ;
+De ceux qui étaient venus livrer combat il ne restait déjà plus que les trois chefs et quelques débris de leur petite armée ;
 
 Ils prononçaient fréquemment le nom de Rustem toujours victorieux ;
 
