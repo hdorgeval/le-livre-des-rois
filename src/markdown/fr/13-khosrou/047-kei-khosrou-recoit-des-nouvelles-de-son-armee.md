@@ -62,7 +62,7 @@ Que les astres les pleuraient et que dans le jardin le rosier ne croissait plus 
 
 Que leur mort remplissait le monde de sang et de poussière, enfin que le puissant astre de Thous avait baissé.
 
-A ces nouvelles le cœur de l’illustre Keï Khosrou fut bouleversé ;
+À ces nouvelles le cœur de l’illustre Keï Khosrou fut bouleversé ;
 
 Il ordonna à Rustem au corps d’éléphant de se rendre avec son armée à la cour, où les sages, les expérimentés et les glorieux Mobeds de tout l’Iran se réunirent.
 
