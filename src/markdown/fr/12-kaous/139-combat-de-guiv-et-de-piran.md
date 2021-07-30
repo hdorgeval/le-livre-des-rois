@@ -58,7 +58,7 @@ Le terrible Guiv, le puissant Pehlewan, chef des braves, poussa un cri de rage e
 >
 > Thous a envoyé un messager pour la demander ; mais Tehemten n’a fait qu’en rire, il a refusé toutes ces alliances, n’en ayant trouvé aucune digne de lui.
 >
-> Il a regardé longtemps et de tous côtés, etaucun des braves qu’il voyait ne lui a convenu.
+> Il a regardé longtemps et de tous côtés, et aucun des braves qu’il voyait ne lui a convenu.
 >
 > C’est à moi qu’il a donné sa noble fille, qui lui était plus chère que son diadème ; c’est à moi que le héros qui porte haut la tête a donné sa fille aînée Banougouschasp la guerrière ; c’est moi qu’il’a choisi parmi tant de braves ; c’est moi dont il a élevé la tête jusqu’au ciel sublime.
 >
@@ -68,7 +68,7 @@ Le terrible Guiv, le puissant Pehlewan, chef des braves, poussa un cri de rage e
 >
 > Seul même comme je suis, je vais rendre le monde noir devant tes yeux avec cette épée brillante ; et si je laisse en vie un seul homme de cette armée, ne m’appelle plus jamais un brave.
 >
-> J’emmènerai Khosrou le roi des r0is,je le conduirai devantle roi des braves, le placerai sur l’illustre trône (l’ivoire,
+> J’emmènerai Khosrou le roi des r0is,je le conduirai devant le roi des braves, le placerai sur l’illustre trône (l’ivoire,
 >
 > [
 je poserai sur sa tête la couronne qui réjouit les cœurs ; ensuite je me revêtirai de ma noble cuirasse et convertirai le pays de Touran en un repaire de lions.
