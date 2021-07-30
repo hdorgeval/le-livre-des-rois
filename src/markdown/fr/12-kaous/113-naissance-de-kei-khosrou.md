@@ -51,7 +51,7 @@ Il versa des larmes au souvenir de Siawusch et maudit Afrasiab, ensuite il dit �
 
 > Quand je devrais y sacrifler ma vie, je ne permettrai pas à Afrasiab de le toucher, dût-il me livrer aux griffes des crocodiles. »
 
-Aussitôtque le soleil eut montré ses rayons et que le sombre nuage de la nuit eut disparu, le Pehlewan de l’armée se réveilla et se rendit en toute hâte au-
+Aussitôt que le soleil eut montré ses rayons et que le sombre nuage de la nuit eut disparu, le Pehlewan de l’armée se réveilla et se rendit en toute hâte au-
 près du roi.
 
 Il y resta jusqu’à ce que l’assemblée se fût retirée, alors il s’approcha du trône glorieux et dit à Afrasiab :
