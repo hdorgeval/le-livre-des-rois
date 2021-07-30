@@ -25,10 +25,14 @@ Il en est ainsi dans ce monde passager.
 Lorsque Afrasiab vit cet état des choses, ces massacres et cet abandon de la fortune, quand il comprit qu’il avait perdu Djehn et son frère, son pays, sa couronne, sa royauté, son trône et sa ceinture, il dit en lui-même, le cœur navré et déchiré :
 
 > De quels malheurs m’accable la sphère céleste !
+>
+> Je vois des jours tels qu’être tué et mourir ne me parait plus un malheur. »
 
-Je vois des jours tels qu’être tué et mourir ne me parait plus un malheurm Il descendit de la tour, rempli de douleur ; il dit adieu au trône de la royauté en s’écr’iant :
+Il descendit de la tour, rempli de douleur ; il dit adieu au trône de la royauté en s’écriant :
 
-> Quand te reverrai-je dans un jour de bonheur, de repos et de délices?n Il quitta celieu, dans son trouble et disparut ; son esprit et sa raison s’envolèrent comme un oiseau.
+> Quand te reverrai-je dans un jour de bonheur, de repos et de délices ? »
+
+Il quitta celieu, dans son trouble et disparut ; son esprit et sa raison s’envolèrent comme un oiseau.
 
 Il avait fait construire sous son palais un chemin souterrain ; personne, dans son armée, ne savait que ce chemin existait sous la forteresse.
 
@@ -38,11 +42,11 @@ Keï Khosrou entra dans son palais et foula aux pieds son étoile ; le roi s’a
 
 On le chercha peudant longtemps, mais on ne trouva aucune trace du chef des hommes qui portaient haut la tête ; le roi demanda de nouveau ce qu’étaient devenus Guersiwez
 
-KEÏ KH()SllOU. et Djehn et le chef de l’armée du Touran, comment, il était parti et où il se cachait, où était son lieu de refuge, puisqu’il ne se trouvait plus la.
+KEÏ KH()SllOU et Djehn et le chef de l’armée du Touran, comment, il était parti et où il se cachait, où était son lieu de refuge, puisqu’il ne se trouvait plus la.
 
 De tous côtés on répondit à Khosrou qu’on n’avait découvert au-
 cune trace de lui.
 
-Le roi victorieux écouta ces paroles et dit. aux Iraniens :
+Le roi victorieux écouta ces paroles et dit aux Iraniens :
 
 > Mon ennemi s’est enfui comme un lâche ; mais sa gloire et sa puissance étant passées, il est indifférent qu’il soit mort ou qu’il soit vivant.
