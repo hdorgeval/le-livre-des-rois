@@ -22,11 +22,13 @@ Il avait quatre femmes, belles comme le soleil ; personne n’en avait vu de par
 >
 > Vous ne me reverrez plus jamais ; je suis las de ce monde plein d’injustice.
 >
-> Je vais aller auprès de Dieu, le juge, le très-saint ; je ne sais pas pourquoi je resterais ici.»
+> Je vais aller auprès de Dieu, le juge, le très-saint ; je ne sais pas pourquoi je resterais ici. »
 
 Les quatre belles au visage de soleil perdirent la raison et poussèrent des cris de douleur et d’amour, elles se déchirèrent les joues, elles s’arrachèrent les cheveux, elles mirent en lambeaux leurs parures musquées.
 
-À mesure qu’elles retrouvèrent leur raison, elles dirent en gémissant et en se lamentant : Em-mène-nous de ce séjour de passage, sois notre guide 2H vers le bonheur!»
+À mesure qu’elles retrouvèrent leur raison, elles dirent en gémissant et en se lamentant :
+
+> Em-mène-nous de ce séjour de passage, sois notre guide 2H vers le bonheur ! »
 
 Le noble roi leur dit :
 
@@ -41,7 +43,7 @@ Le noble roi leur dit :
 > C’est de la vertu qu’il faut se parer, car la mort ne peut l’en-
 Iever à personne.
 >
-> Ne tâchez pas de m’effrayer des terreurs de la mort, car la route que je vois devant moi est aisée.»
+> Ne tâchez pas de m’effrayer des terreurs de la mort, car la route que je vois devant moi est aisée. »
 
 Il poussa un cri et appela Lohrasp, à qui il parla longuement de ses femmes, disant :
 
@@ -51,7 +53,7 @@ Il poussa un cri et appela Lohrasp, à qui il parla longuement de ses femmes, di
 >
 > Laisse-leur le même établissement et le même palais aussi longtemps que tu vivras, car il ne faut pas que Dieu, quand il t’appellera devant lui, couvre ton âme de honte de ce que tu auras fait.
 >
-> Grains d’avoir à rougir devant deux rois quand tu me trouveras avec Siawusch.»
+> Grains d’avoir à rougir devant deux rois quand tu me trouveras avec Siawusch. »
 
 Lohrasp lui promit tout ce qu’il demandait et qu’il garderait dans leur retraite ces femmes que personne ne verrait.
 
@@ -61,8 +63,8 @@ Ensuite Khosrou serra sa ceinture et revint au milieu des Iraniens, à qui il di
 >
 > Soyez toujours fiers et joyeux ; ne pensez à moi qu’en bien.
 >
-> Soyez contents et confiants en Dieu ; quand vous partirez, soyez heureux et souriez.»
+> Soyez contents et confiants en Dieu ; quand vous partirez, soyez heureux et souriez. »
 
 Tous les grands de l’armée d’Iran posèrent leur tête sur le sol devant le roi, s’écriant :
 
-> Les conseils du roi nous seront chers comme la vie et aussi longtemps que durera notre vie!»
+> Les conseils du roi nous seront chers comme la vie et aussi longtemps que durera notre vie ! »
