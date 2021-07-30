@@ -130,7 +130,7 @@ Il
 A regarda l’arc et en resta étonné et prononça beau-
 coup de bénédictions sur les braves qui maniaient des armes pareilles.
 
-Ensuite, il le donna à Guersiwez prompt de ’e’pée et lui dit :
+Ensuite, il le donna à Guersiwez prompt de ’épée et lui dit :
 
 > Frotte le dos de l’arc et bande-le. »
 
