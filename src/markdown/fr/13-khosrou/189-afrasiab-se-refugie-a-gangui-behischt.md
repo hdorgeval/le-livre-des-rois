@@ -26,7 +26,7 @@ Nous avons surpris les héros d’A-frasiab pendant le temps du sommeil.
 
 Ils n’avaient pas un seul cavalier en vedette, personne parmi eux n’avait en un peu de prudence ; pendant que leurs chefs se réveillaient, nous tirâmes nos épées et nos lourdes massues et lorsque la nuit eut fait place au jour, il ne restait plus en vie que Karakhan et un petit nombre de ses hommes.
 
-Toute la plaine est couverte de leurs membres et de leurs têtes ; la terre est leur oreiller et la poussière leur couvertureun 7.
+Toute la plaine est couverte de leurs membres et de leurs têtes ; la terre est leur oreiller et la poussière leur couverture un 7.
 
 Il survint de grand matin un messager de Buslelu, monté sur un dromadaire et porteur de bonnes nouvelles, disant :
 
@@ -34,7 +34,7 @@ Il survint de grand matin un messager de Buslelu, monté sur un dromadaire et po
 >
 > Nous avons atteint l’ennemi à l’heure où le soleil qui éclaire le monde lève sa tête au-dessus des montagnes ; Rustem banda son arc et lorsqu’il fut plus près, il mit son casque sur sa tête, et, avec la première flèche qu’il fit partir de sa main, le désert fut délivré de l’armée des Turcs.
 >
-> Maintenant il est entré dans le Touran, poursuivant sa vengeance et le roi en aura prorcchainement des nouvelles.»
+> Maintenant il est entré dans le Touran, poursuivant sa vengeance et le roi en aura prochainement des nouvelles. »
 
 Une clameur joyeuse remplit le camp et frappa les oreilles du roi des Turcs, qui ordonna à l’instant à tous ses serviteurs de monter à cheval.
 
@@ -53,15 +53,15 @@ Toute l’armée, tous les sages et les chefs partagèrent cet avis ; on abandon
 Mais bientôt un éclaireur arriva du désert, annon-
 çant à Khosrou que l’air était obscurci de la poussière soulevée par l’armée des Turcs.
 
-Il aVait vu que les Turcs avaient disparu. et vint dire au roi du peuple que toute la plaine était couverte de tentes de toute espèce, mais que personne ne s’y trouvait plus.
+Il aVait vu que les Turcs avaient disparu et vint dire au roi du peuple que toute la plaine était couverte de tentes de toute espèce, mais que personne ne s’y trouvait plus.
 
 Khosrou comprit que le roi de la Chine avait quitté le champ de bataille si inopinément parce qu’il avait reçu des. nouvelles de Gustehem et de Rustem qui avaient précipité sa marche.
 
-Il fit partirsur-le-champ un messager, qu’il envoya en grande hâte à Rustem et lui fit dire :
+Il fit partir sur-le-champ un messager, qu’il envoya en grande hâte à Rustem et lui fit dire :
 
 > Al’rasiab a renoncé à la bataille qu’il allait me livrer et sans doute il va se jeter sur toi.
 >
-> Tiens prête ton armée et sois sur tes gardes ; ne quitte ni jour ni nuit ton carquois et tes flèches.»
+> Tiens prête ton armée et sois sur tes gardes ; ne quitte ni jour ni nuit ton carquois et tes flèches. »
 
 Le messager était un homme d’expérience et tel qu’il le fallait ; il connaissait la route et ce qui était hors la route ; il partit et lorsqu’il arriva auprès de Rustem, il trouva le héros au cœur de lion tout armé et Ses troupes la massue sur l’épaule et l’oreille tendue vers
 
@@ -72,7 +72,7 @@ Un bruit lointain.
 
 Il fit à Rustem son message, dont le but était d’assurer sa sécurité.
 
-De son côté, Keï Khosrou, le roi avide de vengeance, s’assit en repos et en paix ; il distribua à l’armée tout ce qu’on avait trouvé, les lgrandes et les petites tentes et les trônes de toute forme.
+De son côté, Keï Khosrou, le roi avide de vengeance, s’assit en repos et en paix ; il distribua à l’armée tout ce qu’on avait trouvé, les grandes et les petites tentes et les trônes de toute forme.
 
 Il fit rechercher les Iraniens morts, les fit laver pour enlever le sang et la boue, les fit mettre dans des linceuls et leur construisit un mausolée royal.
 
@@ -80,25 +80,27 @@ Lorsqu’il se fut débarrassé du sang et de la poussière du combat, il fit pl
 
 Afrasiab étant arrivé près de sa ville de Gangue, crut que Rustem devait être livré au sommeil et il dit aux’chçfs de ses troupes :
 
-> Allons le surprendre, allons le détruire lui et son armée.»
+> Allons le surprendre, allons le détruire lui et son armée. »
 
 Mais il aperçut dans les ténèbres une ronde ; il entendit dans la plaine un bruit de chevaux ; il fut confondu de la vigilance de Rustem, s’arrêta et se mita réfléchir que son armée était affaiblie et battue, que ses hommes tenaient à la douce vie, que Rustem prompt à frapper était devant lui et derrière lui le roi et ses vaillants cavaliers.
 
 Il appela ceux qui se trouvaient près de sa personne, leur parla longuement de ses inquiétudes et demanda leur avis.
 
-Un de ses conseillers dit au roi illustre : Pourquoi endurerions-nous de nouveau les fatigues de la route ?
+Un de ses conseillers dit au roi illustre :
 
-Voici
-
-Gangue-Diz où sont les trésors du roi ; c’est un eudroit qui a huit farsangs de longueur et près de quatre en largeur, qui est rempli de femmes, d’enfants, d’hommes et d’une grande armée ; c’est le siège du pouvoir et de l’empire, du trône et de la couronne.
-
-Aucun aigle ne peut voler au-dessus de ses murs, personne même en songe n’en a vu de plus hauts ; il s’y trouve des vivres, ton palais, ton diadème et une armée ; tu y jouiras de tes trésors pendant que l’ennemi aura à supporter les fatigues de la route.
-
-Voici ce pays qu’on appelle le paradis, où tout est plaisir, repos et délices ; dans chaque coin sont une source et un bassin d’eau long et large d’une portée de flèche ; tu y as amené des Mobeds de l’Inde et de Roum, tu en as fait une demeure comme le paradis et du haut de la tour on observe facilement, a la distance de vingt farsangs, ceux qui se trouvent dans la plaine.
-
-N’as-tu donc pas autre chose à faire sur la terre que de livrer des batailles ?
-
-À la fin le monde ne reste à personne.»
+> Pourquoi endurerions-nous de nouveau les fatigues de la route ?
+>
+> Voici
+>
+> Gangue-Diz où sont les trésors du roi ; c’est un eudroit qui a huit farsangs de longueur et près de quatre en largeur, qui est rempli de femmes, d’enfants, d’hommes et d’une grande armée ; c’est le siège du pouvoir et de l’empire, du trône et de la couronne.
+>
+> Aucun aigle ne peut voler au-dessus de ses murs, personne même en songe n’en a vu de plus hauts ; il s’y trouve des vivres, ton palais, ton diadème et une armée ; tu y jouiras de tes trésors pendant que l’ennemi aura à supporter les fatigues de la route.
+>
+> Voici ce pays qu’on appelle le paradis, où tout est plaisir, repos et délices ; dans chaque coin sont une source et un bassin d’eau long et large d’une portée de flèche ; tu y as amené des Mobeds de l’Inde et de Roum, tu en as fait une demeure comme le paradis et du haut de la tour on observe facilement, a la distance de vingt farsangs, ceux qui se trouvent dans la plaine.
+>
+> N’as-tu donc pas autre chose à faire sur la terre que de livrer des batailles ?
+>
+> À la fin le monde ne reste à personne. »
 
 Le roi écouta ces paroles ; elles lui convinrent et il reprit confiance dans le sort.
 
@@ -110,4 +112,4 @@ Il entra dans la salle d’audience et y tint sa cour ; il donna à ses troupes 
 
 Sur la tour se tenait debout un guetteur, pendant le jour un gardien, pendant la nuit une sentinelle.
 
-A la droite du roi s’assirent les nobles et les Mobeds et il appela devant lui l’homme qui écrivait ses lettres.
+À la droite du roi s’assirent les nobles et les Mobeds et il appela devant lui l’homme qui écrivait ses lettres.
