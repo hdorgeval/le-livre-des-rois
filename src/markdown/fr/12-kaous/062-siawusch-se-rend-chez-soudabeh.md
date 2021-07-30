@@ -32,7 +32,7 @@ Aussitôt que le soleil montra sa face au-dessus des montagnes, Siawusch se rend
 
 Hirbed et Siawusch partirent ensemble le cœur en joie, l’âme sans souci ; mais quand Hirbed tira le rideau de la porte, Siawusch trembla du malheur qui pouvait arriver.
 
-Toutes les femmes vinrentà sa rencontre, pleines de joie et préparées pour une fête ; tout l’appartement d’un bout à l’autre était rempli de musc, d’or et de safran ; les ifemmes jetèrent des pièces d’argent sous les pieds de Siawusch et mêlèrent des rubis avec des émeraudes pour les verser sur sa tête.
+Toutes les femmes vinrentà sa rencontre, pleines de joie et préparées pour une fête ; tout l’appartement d’un bout à l’autre était rempli de musc, d’or et de safran ; les femmes jetèrent des pièces d’argent sous les pieds de Siawusch et mêlèrent des rubis avec des émeraudes pour les verser sur sa tête.
 
 Le sol était caché sous le brocart de la Chine ; la terre était couverte de perles d’une belle eau ; il y avait du vin et de la musique ; on entendait des chanteurs qui tous avaient des diadèmes de pierres fines sur la tête.
 
@@ -42,7 +42,7 @@ Quand Siawusch arriva à l’entrée de la grande salle. il y vit un trône resp
 
 ’ I tout incrusté de turquoises et orné de brocarts dignes d’un roi.
 
-Sur ce trône était assise Soudabeh au visage de lune, belle de couleur et de parfum comme un paradis ; elle était assise, semblable au brillant Canope du Yemen, couverte de boucles de cheveux qui tombaient l’une sur l’autre, elle portait sur la tête une hautecouronne et les tresses de ses cheveux de musc descendaient jusque sur ses pieds.
+Sur ce trône était assise Soudabeh au visage de lune, belle de couleur et de parfum comme un paradis ; elle était assise, semblable au brillant Canope du Yemen, couverte de boucles de cheveux qui tombaient l’une sur l’autre, elle portait sur la tête une haute couronne et les tresses de ses cheveux de musc descendaient jusque sur ses pieds.
 
 Devant elle étaient rangées des esclaves, debout, tenant leurs souliers d’or à la main et baissant la. tête vers la terre.
 
