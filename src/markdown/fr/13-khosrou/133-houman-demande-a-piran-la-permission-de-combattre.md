@@ -34,17 +34,17 @@ Dans le camp des Turcs, le vaillant Houman se rendit, furieux comme un lion, aup
 >
 > Nous n’avons pas perdu un seul de nos illustres cavaliers et Rustem n’est pas le Pehlewan de cette race.
 >
-> Si tu ne veux pas répandre toi-même du sang, si tu ne veux pas lancer l’armée au combat, choisis une troupe parmi nos braves, confie-la-moi et regarde ce qui se passera sur ce champ de bataille.»
+> Si tu ne veux pas répandre toi-même du sang, si tu ne veux pas lancer l’armée au combat, choisis une troupe parmi nos braves, confie-la-moi et regarde ce qui se passera sur ce champ de bataille. »
 
 Piran répondit à ces paroles de Houman :
 
 > Ne va pas si vite et ne t’emporte pas.
 >
 > Sache, ô mon frère, que le guerrier qui s’est avancé contre nous avec 3l.
-> y une armée .est l’élu (les grands de la cour de Kei’
+> y une armée .est l’élu des grands de la cour de Kei’
 > Khosrou, le chef de ses héros et un Pehlewan.
 >
-> D’abord Kei Khosrou porte, devant tous les peuples, la tête plus haut que mon roi ; ensuite je ne connais aucun Pehlewan du roi qui soit ’égal de Gouderz en rang, qui soit aussi fier, aussi brave, aussi prudeut dans les projels, aussi sage dans les conseils.
+> D’abord Kei Khosrou porte, devant tous les peuples, la tête plus haut que mon roi ; ensuite je ne connais aucun Pehlewan du roi qui soit ’égal de Gouderz en rang, qui soit aussi fier, aussi brave, aussi prudeut dans les projets, aussi sage dans les conseils.
 >
 > En outre son cœur est navré de douleur, son âme est remplie du désir de venger la mort de ses fils nombreux, que j’ai laissés privés de leurs têtes, sur un sol que j’ai teint de leur sang tout autour.
 >
@@ -64,12 +64,12 @@ Piran répondit à ces paroles de Houman :
 >
 > Du reste, aucun des grands de l’Iran ne se présenterait pour combattre le léopard rugissant ; Gouderz choisirait parmi ses guerriers quelque inconnu, quelque homme ambitieux de se mesurer avec un brave et l’enverrait se battre contre toi.
 >
-> Eh bien, quand tu enroulerais devant lui la surface de la terre, ton nom n’en deviendrait pas plus grand et les Iraniens n’en souffriraient aucun dommage ; tandis que nos vaillants Turcs perdraient courage, si ton ennemi parvenait à verser ton sang.»
+> Eh bien, quand tu enroulerais devant lui la surface de la terre, ton nom n’en deviendrait pas plus grand et les Iraniens n’en souffriraient aucun dommage ; tandis que nos vaillants Turcs perdraient courage, si ton ennemi parvenait à verser ton sang. »
 
-Houman écouta attentivement ces paroles ; mais il était persuadé que Piran agissait follement. et il répondit :
+Houman écouta attentivement ces paroles ; mais il était persuadé que Piran agissait follement et il répondit :
 
 > Aucun des cavaliers de l’Iran n’osera se mesurer avec moi.
 >
 > Ta nature te porte vers la clémence, mais moi je suis avide de combats.
 >
-> Puis donc que tu n’as pas envie de livrer bataille, puisque le feu du courage est éteint dans ton cœur, je m’en vais seller mon destrier rapide et à l’aube du jour je provoquerai un combat.»
+> Puis donc que tu n’as pas envie de livrer bataille, puisque le feu du courage est éteint dans ton cœur, je m’en vais seller mon destrier rapide et à l’aube du jour je provoquerai un combat. »
