@@ -22,7 +22,7 @@ Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui di
 >
 > D’abord, quant aux souhaits que tu as faits pour moi, puissent-ils se vérifier pour mon trône, ma couronne et mon sceau !
 >
-> Quant aux salutations que tu m’as portées de la part d’Afrasiab, dont les yeux sont remplis de larmes, selon ton récit, je les ai entendues ; puissent-elles porter bonheur à ma couronne et à mon trône, que j’espère voir toujours heureux et victorieux] Ensuite, quant à ce que tu dis sur les grâces qu’il rend au Créateur de voir son petit-fils dévoué à Dieu, plus heureux que tous les rois de la terre. et le prince le plus aimé et le plus victorieux, je te réponds que Dieu m’a donné tout ce que dit Afrasiab ; puisse mon mérite ne pas être au-dessous de cette fortune !
+> Quant aux salutations que tu m’as portées de la part d’Afrasiab, dont les yeux sont remplis de larmes, selon ton récit, je les ai entendues ; puissent-elles porter bonheur à ma couronne et à mon trône, que j’espère voir toujours heureux et victorieux] Ensuite, quant à ce que tu dis sur les grâces qu’il rend au Créateur de voir son petit-fils dévoué à Dieu, plus heureux que tous les rois de la terre et le prince le plus aimé et le plus victorieux, je te réponds que Dieu m’a donné tout ce que dit Afrasiab ; puisse mon mérite ne pas être au-dessous de cette fortune !
 >
 > Quoique tu aies la parole séduisante, tu n’es pas pur de cœur, ni un vrai serviteur de Dieu.
 >
@@ -68,7 +68,7 @@ Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui di
 >
 > Si l’on voulait compter les méfaits, on dépasserait le nombre des rotations du ciel ; tu es un rejeton envoyé de l’enfer, ne dis pas que tu es de naissance humaine.
 >
-> se Ensuite tu dis que le maudit Div a leurné ton r cœur et la volonté vers le mal ; c’est ainsi que Zohak et Djemschid, lorsqu’ils ont renoncé à la vertu, ont dit qu’lblis a jeté leur âme hors de la voie et les a rendus impuissants pour le bien.
+> se Ensuite tu dis que le maudit Div a leurné ton cœur et la volonté vers le mal ; c’est ainsi que Zohak et Djemschid, lorsqu’ils ont renoncé à la vertu, ont dit qu’lblis a jeté leur âme hors de la voie et les a rendus impuissants pour le bien.
 >
 > Mais le malheur ne les a pas abandonnés, à cause de leur mauvaise nature et des conseils de leur maître le Div.
 >
@@ -88,7 +88,7 @@ Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui di
 >
 > Je lutterai contre toi avec toute la ce puissance de mes trésors et de mes armées, à l’aide de ma bonne étoile et de la rotation du soleil et de la lune ; je me tiendrai humblement devant Dieu, a je ne demanderai d’autre guide que lui, dans l’espoir d’arracher les mauvaises herbes du jardin. de et rajeunir le monde par la justice et la générosité, de détruire mes ennemis et d’ôter le diadème aux méchants.
 >
-> Répète à mon grand-père toutes mes par : roles et qu’il ne cherche pas un prétexte pour éviter une lutte pareille.»
+> Répète à mon grand-père toutes mes par : roles et qu’il ne cherche pas un prétexte pour éviter une lutte pareille. »
 
 Il donna à Djehn une couronne incrustée de chrysoprases, un collier d’or et deux boucles d’oreilles.
 
