@@ -32,7 +32,7 @@ Il s’approcha, armé pour le combat des héros, de Gouderz fils de Keschwad et
 >
 > Tu te sers de la montagne comme d’un rempart quand il est temps de combattre.
 >
-> Estce là ce que tu as promis à Khosrou?»
+> Est-ce là ce que tu as promis à Khosrou ? »
 
 Gouderz lui dit :
 
@@ -42,7 +42,7 @@ Gouderz lui dit :
 >
 > Je suis venu avec une grande armée et de vaillants chefs choisis dans l’fran, mais vous autres vous vous tenez dans la forêt, comme un vieux renard qui a peur du chasseur ; vous vous fiez aux ruses et aux artifices, mais vous fuyez les massues. les lances et les lacets.
 >
-> Ne fais pas le brave, ne nous provoque pas, car le renard ne se hasarde pas contre le lion.»
+> Ne fais pas le brave, ne nous provoque pas, car le renard ne se hasarde pas contre le lion. »
 
 À ces paroles de Gouderz, Houman bondit comme un lion sur le champ de babataille ; à lafin il répondit :
 
@@ -56,7 +56,9 @@ Gouderz lui dit :
 >
 > Tu es l’homme qui dit qu’au jour du combat il couvrira avec son épée la montagne jaunâtre de tulipes de sang ; viens donc t’essayer contre moi sur ce champ de bataille et venge-toi de moi avec la lourde massue.
 >
-> Tu as un grand nombre de fils et de héros illustres, tous ceints pour nous combattre : appellesenun pour qu’il me tienne tête ; si tu es d’humeur si guerrière, pourquoi hésitestufs Le Pehlewan réfléchit longtemps et se dit :
+> Tu as un grand nombre de fils et de héros illustres, tous ceints pour nous combattre : appellesenun pour qu’il me tienne tête ; si tu es d’humeur si guerrière, pourquoi hésites-tu ? »
+
+Le Pehlewan réfléchit longtemps et se dit :
 
 > Qui d’entre les héros doit lutter contre lui ?
 >
@@ -66,9 +68,9 @@ Gouderz lui dit :
 >
 > Il vaut donc mieux ne pas le combattre et ne pas lui conper le chemin par une embuscade ; car j’espère qu’ils se fatigueront à attendre.-qu’à [afin ils vou-3. !
 >
-> dront en venir aux mains et feront sortir leur armée de ces passes étroites.»
+> dront en venir aux mains et feront sortir leur armée de ces passes étroites. »
 
-Il répondità Houman :
+Il répondit à Houman :
 
 > Pars ; tu es vif en paroles et inexpérimenté dans les affaires.
 >
@@ -84,7 +86,7 @@ Il répondità Houman :
 >
 > Retourne maintenant à ton camp ; porte’haut la tête devant ton chef ; dis-lui que tu as provoqué les Iraniens, mais qu’ils n’ont fait que soupirer :
 
-> alors ton nom deviendra grand dans votre camp et Piran satisfera tous tes vœux.»
+> alors ton nom deviendra grand dans votre camp et Piran satisfera tous tes vœux. »
 
 Houman répondit d’une voix terrible :
 
@@ -99,15 +101,17 @@ Houman répondit d’une voix terrible :
 >
 > ’ battre ; mais on ne peut cueillir des roses sans rencontrer des épines.
 >
-> Tu n’as pas un seul homme au cœur de lion qui veuille se mesurer avec moi devant les deux armées et tu tâches de m’éloigner par une ruse ; mais si tu me connaissais, tu saurais que je ne suis pas homme à me laisser tromper par toi.»
+> Tu n’as pas un seul homme au cœur de lion qui veuille se mesurer avec moi devant les deux armées et tu tâches de m’éloigner par une ruse ; mais si tu me connaissais, tu saurais que je ne suis pas homme à me laisser tromper par toi. »
 
-Tous les grands avides de combats dirent à Gouderz : Ceci n’est pas raisonnable.
+Tous les grands avides de combats dirent à Gouderz :
 
-Envoie l’un de nous sur le champ de bataille contre ce Turc qui nous défie.»
+> Ceci n’est pas raisonnable.
+>
+> Envoie l’un de nous sur le champ de bataille contre ce Turc qui nous défie. »
 
 Mais Gouderz leur répondit :
 
-> Aujourd’hui personne ne doit le combattre.»
+> Aujourd’hui personne ne doit le combattre. »
 
 Houman était las de parler ; il se mit en colère comme un vaillant lion, tourna le dos au Sipehbed en ricanant, courut vers la garde du camp, banda son arc, frappa quatre cavaliers et les jeta sur le pré.
 
@@ -116,7 +120,7 @@ Lorsque la garde du camp vit que ce fier Touranien les frappait de loin, elle lu
 Houman s’élança vers les hau-
 teurs comme un homme ivre et la montagne s’abaissait sous les cris qu’il poussait ; il faisait tournoyer sa lance au-dessus de sa tête, en s’écriant :
 
-> Houman est le héros victorieux.»
+> Houman est le héros victorieux. »
 
 Le son des trompettes d’airain s’éleva de la plaine et monta dans les airs ; et les braves de l’armée des Turcs frottè-
 rent, dans leur joie, leurs casques contre le cercle de la lune.
@@ -126,6 +130,6 @@ accablé de honte et cette indignité le remplit de colère et d’impatience.
 
 Il était si honteux devant les braves que la sueur coulait sur lui ; mais il tira un présage heureux de ce qui se passait, disant :
 
-> Ce sont eux qui ont commencé à verser du sang et malheur à ceux qui commencent le mal.»
+> Ce sont eux qui ont commencé à verser du sang et malheur à ceux qui commencent le mal. »
 
 Il regarda les héros qui portaient haut la tête, pour voir qui d’entre eux s’avancerait au combat.
