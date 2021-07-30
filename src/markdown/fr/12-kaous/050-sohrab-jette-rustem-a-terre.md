@@ -78,7 +78,7 @@ Rustem lui répondit :
 >
 > Nous ferons de notre mieux et il en sera ce que le maître du monde aura voulu et ordonné.
 >
-> J’ai trouvé dans la vie beaucoup de bonheur et de malheur et ne suis pas un homme à paroles feintes et trompenses. »
+> J’ai trouvé dans la vie beaucoup de bonheur et de malheur et ne suis pas un homme à paroles feintes et trompeuses. »
 
 ’ Sohrab lui dit :
 
