@@ -20,7 +20,7 @@ Zengueh partit avec cent cavaliers pleins de renom, emmenant de la cour du roi l
 
 Lorsqu’il entra dans la ville où résidait le roi des Turcs, on entendit un cri et la sentinelle le vit.
 
-Un noble et puissant seigneur, dont le nom était Thewurg le brave, alla auvdevant de lui et Zengueh étant arrivé auprès du roi, Afrasiab se leva de son trône, le serra étroitement contre sa poitrine, le reçut gracieusement et lui assigna la place d’honneur.
+Un noble et puissant seigneur, dont le nom était Thewurg le brave, alla au-devant de lui et Zengueh étant arrivé auprès du roi, Afrasiab se leva de son trône, le serra étroitement contre sa poitrine, le reçut gracieusement et lui assigna la place d’honneur.
 
 Zengueh s’assit à côté du roi, lui remit la lettre et lui raconta tout de point en point.
 
@@ -55,7 +55,7 @@ Piran répondit :
 > C’est un noble prince et un fils de roi ; et n’eût-il d’autre mérite que d’avoir rompu avec son père pour sauver cent nobles, d’avoir renoncé pour cela au trône et à la couronne et de s’être ainsi réduità te demander le passage par tes États, il fau-drait en faire un grand de ce royaume ; car il est .
 avide de montrer sa bravoure et les sages ne l’approuveraient pas, ô roi, si tu le laissais passer dans un autre pays.
 >
-> Kaous d’ailleurs est vieux et le temps approche où il laissera le trône vacant ; mais Siavvusch est jeune et illustre et le pouvoir et le trône de la royauté lui appartiendront.
+> Kaous d’ailleurs est vieux et le temps approche où il laissera le trône vacant ; mais Siawusch est jeune et illustre et le pouvoir et le trône de la royauté lui appartiendront.
 >
 > Si tu le repousser, les grands te blâmeront et tu l’indisposeras contre toi.
 >
