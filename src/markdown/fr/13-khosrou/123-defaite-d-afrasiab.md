@@ -16,20 +16,20 @@ order: '123'
 
 # Défaite d'Afrasiab
 
-À ces paroles le farouche Turc trembla et poussa 9,8 . un soupir ; ensuite il s’écria avec colère :
+À ces paroles le farouche Turc trembla et poussa 9,8 un soupir ; ensuite il s’écria avec colère :
 
 > Ô grands du Touran, est-ce ici un champ de bataille, ou une salle de festin ?
 >
-> Il faut que vous combattiez de toutes vos forces et je comblerai vos vœux, je vous donnerai des trésors.»
+> Il faut que vous combattiez de toutes vos forces et je comblerai vos vœux, je vous donnerai des trésors. »
 
 Les héros du Touran répondirent à ces paroles de leur chef par un cri de guerre ; la poussière obscurcit tellement le soleil qu’on eût dit que le monde était noyé dans l’eau.
 
 On attacha sur le dos des éléphants les timbales d’airain ; les clairons et les trompettes résonnèrent ; les héros formaient avec leurs cuirasses, sur la surface de la terre, un mur de fer ; la plaine tremblait et les échos de la montagne répondaient aux cris des cavaliers des deux armées ; les flèches et les épées brillaient au milieu de la poussière comme le soleil au milieu d’un brouillard ; il pleuvait des coups de massue sur les casques et les morions ; il en pleuvait sur les cuirasses comme une grêle qui tombe ; la face brillante du soleil pâlissait devant le drapeau de Rustem à figure de dragon ; la poussière que soulevaient les éléphants dérobait le ciel à la vue ; tu au-
 rais dit qu’elle couvrait le soleil d’une couche d’indigo.
 
-Partout où Rustem lançait Raksch il tranchait les têtes des grands ; il tenait en main une massue à tête de bœuf ; il ressemblait à unedromadaire qui a rompu son licou.
+Partout où Rustem lançait Raksch il tranchait les têtes des grands ; il tenait en main une massue à tête de bœuf ; il ressemblait à un dromadaire qui a rompu son licou.
 
-Il se jeta sur le centre des Touram’ens, semblable à un loup et dispersa cette grande armée.
+Il se jeta sur le centre des Touraniens, semblable à un loup et dispersa cette grande armée.
 
 Aschkesch accourut de l’aile droite, vite !
 
