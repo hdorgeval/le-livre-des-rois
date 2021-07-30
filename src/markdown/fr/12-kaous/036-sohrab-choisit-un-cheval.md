@@ -42,7 +42,7 @@ dessus d’une vallée et il court dans la plaine comme un oiseau qui vole.
 >
 > areau-poisson qui soutient la terre ; son bond est rapide comme l’éclair ; sa stature est haute comme une montagne.
 >
-> Il vole sur la montagne comme un corbeau : il nage dans la mer comme une araignée d’eau ; il court’dans la plaine comme une flèche partie de l’arc, quand il suit la trace de ses ennemis. »
+> Il vole sur la montagne comme un corbeau : il nage dans la mer comme une araignée d’eau ; il court dans la plaine comme une flèche partie de l’arc, quand il suit la trace de ses ennemis. »
 
 Les paroles de cet homme réjouirent Sohrab ; il sourit et ses joues brillèrent de joie.
 
