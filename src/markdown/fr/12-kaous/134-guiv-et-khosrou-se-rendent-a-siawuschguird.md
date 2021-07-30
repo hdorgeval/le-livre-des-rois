@@ -43,6 +43,6 @@ Tu y monteras et tu trouveras une prairie semblable au gai paradis et traversée
 
 A l’heure où le soleil arrive au haut de la voûte du ciel et où tu auras envie d’ouvrir les portes du sommeil, tous les troupeaux de chevaux qui paissent dans la montagne viendront boire au ruisseau.
 
-Montre alors à Behzad la selle et la bride et s’il t’ohéit comme un cheval bien dressé, approche-le en souriant, appelle-le et caresse-le doucement de la main ; car Siavv’usch, lorsqu’il désespérait de sa vie et que le jour brillant s’obscurcissait devant lui, a dit à Rehzad son cheval noir :
+Montre alors à Behzad la selle et la bride et s’il t’ohéit comme un cheval bien dressé, approche-le en souriant, appelle-le et caresse-le doucement de la main ; car Siawusch, lorsqu’il désespérait de sa vie et que le jour brillant s’obscurcissait devant lui, a dit à Rehzad son cheval noir :
 
 > N’obéis désormais pas même au vent, erre dans les montagnes et les prairies et quand Keï Khosrou viendra te chercher, laisse-toi monter par lui, frappe la terre de les pieds et délivrela de ses ennemis avec tes sabots. »
