@@ -44,7 +44,7 @@ Une grande foule de peuple partit pour le Zaboulistan et se reno dit auprès du 
 >
 > Hélas !
 >
-> Le pays d’Iran sera un désert et un repaire de tigres et de lions ; et ce pays, qui était d’un bout à l’autre la demeure des cavaliers vaillants et la résidence des rois, est maintenantun lieu de désolation et de malheur et le séjour des dragons aux griffes aiguës.
+> Le pays d’Iran sera un désert et un repaire de tigres et de lions ; et ce pays, qui était d’un bout à l’autre la demeure des cavaliers vaillants et la résidence des rois, est maintenant un lieu de désolation et de malheur et le séjour des dragons aux griffes aiguës.
 >
 > Il faut trouver un remède à nos maux et délivrer nos cœurs de cette affliction.
 >
