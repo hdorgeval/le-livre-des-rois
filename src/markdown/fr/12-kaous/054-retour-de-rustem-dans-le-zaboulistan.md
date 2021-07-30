@@ -82,7 +82,7 @@ Rustem apporta de nouveau le cercueil du lion Sohrab devant les grands pleins de
 
 Tu aurais dit que le firmament s’écroulait ; tous, jeunes et vieux, hommes et femmes, tremblaient ; leurs joues étaient blêmes, leurs habits en lambeaux, leurs cœurs dans la douleur, leurs têtes couvertes de poussière.
 
-Le palais tout entier était devenu un cercucil depuis que le lion était là couché dans sa bière.
+Le palais tout entier était devenu un cercueil depuis que le lion était là couché dans sa bière.
 
 A voir ses bras et ses pieds, tu aurais dit que c’était Sam fatigué du combat et endormi.
 
