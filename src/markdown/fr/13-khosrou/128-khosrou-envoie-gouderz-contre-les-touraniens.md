@@ -24,7 +24,7 @@ Le roi du monde ayant écouté les rapports de ses espions, s’assit et médita
 >
 > Frappe le serpent noir quand il lève la tête et de son trou il viendra ramper devant ton bâton.
 >
-> Quand un roi plante l’arbre de l’injustice, il livre à la destruction son empire et son trône.»
+> Quand un roi plante l’arbre de l’injustice, il livre à la destruction son empire et son trône. »
 
 Il appela devant lui tous les Mobeds et leur communiqua tout ce qu’il avait appris.
 
@@ -32,7 +32,7 @@ Les grands et les vaillants conseillers du roi, comme Destan, Rustem, Gouderz et
 
 Le roi dit aux Pehlewans :
 
-> Les Turcs veulent s’emparer de ma couronne et de mon trône ; et puisque nos ennemis ont réuni une armée et aiguisé leurs griffes, il ne faut pas que nous perdions du temps à nous préparer à la lutte.»
+> Les Turcs veulent s’emparer de ma couronne et de mon trône ; et puisque nos ennemis ont réuni une armée et aiguisé leurs griffes, il ne faut pas que nous perdions du temps à nous préparer à la lutte. »
 
 Il fit sonner des trompettes sous la porte de son palais et lier les timbales d’airain sur le dos des éléphants ; il se rendit du palais sur la place publique ; on placa son trône sur un éléphant ; le roi y monta et donna le signal du départ en jetant la boule dans la coupe : tu aurais dit qu’à l’instant le monde se couvrait d’une couche d’indigo ;
 
@@ -40,7 +40,7 @@ H l’air devint noir ; la terre revêtit des couleurs de toute espèce ; les br
 
 Une voix qui sortait du palais s’écria :
 
-> Ô Pehlewans de l’armée de l’Iran, quiconque sait se servir de la bride et de l’étrier ne doit pas rester dans sa maison.»
+> Ô Pehlewans de l’armée de l’Iran, quiconque sait se servir de la bride et de l’étrier ne doit pas rester dans sa maison. »
 
 Khosrou ordonna que l’on appelât du Roum et de l’Inde des cavaliers braves et vaillants, de l’Arabie des héros portant haut la tête et prêts à combattre le lion féroce et trois cent mille hommes du désert des cavaliers armés de lances, en annonçant que quiconque ne paraîtrait pas devant le roi dans un délai de quarante jours ne recevrait pas de diadème.
 
@@ -51,18 +51,22 @@ Un matin, à l’heure où le coq chante, on entendit de tous côtés le son des
 Lorsque les troupes furent entièrement équipées, Khosrou, délivré de ce souci, choisit d’abord parmi cette armée illustre trente mille cavaliers prêts à frapper de l’épée et les confia à Rustem, en disant :
 
 > Ô glorieux héros, prends la route du Seistan et conduis ces troupes ; va dans l’Inde combattre mes ennemis et avance de Ghaznin jusqu’à la route du nord : tu acquerras une couronne, un trône et un sceau.
+>
+> Confie à Faramourz le diadème et le sceau du Nimrouz, laisse-lui des troupes choisies comme il le désire ; il fera fleurir ton royaume et le léopard et les troupeaux iront s’abreuver ensemble.
+>
+> Fais battre les timbales d’airain et sonner les clairons et les trompettes et ne t’arrête pas dans le Kaschmir ni dans le Kaboul ; car la guerre contre Afrasiab ne me laissera prendre ni nourriture, ni repos, ni sommeil»
 
-Confie à Faramourz le diadème et le sceau du Nimrouz, laisse-lui des troupes choisies comme il le désire ; il fera fleurir ton royaume et le léopard et les troupeaux iront s’abreuver ensemble.
+Il assigna ensuite à Lohrasp le pays des Alains et Ghartcheh, en lui disant :
 
-Fais battre les timbales d’airain et sonner les clairons et les trompettes et ne t’arrête pas dans le Kaschmir ni dans le Kaboul ; car la guerre contre Afrasiab ne me laissera prendre ni nourriture, ni repos, ni sommeilm Il assigna ensuite à Lohrasp le pays des Alains et Ghartcheh, en lui disant :
+> Ô vaillant fils de Khosrou, pars avec une armée qui ressemble à une montagne ; choisis des troupes parmi les héros de l’Iran ; emmène les cavaliers propres aux combats, pour que tu puisses détruire mes ennemis»
 
-> Ô vaillant fils de Khosrou, pars avec une armée qui ressemble à une montagne ; choisis des troupes parmi les héros de l’Iran ; emmène les cavaliers propres aux combats, pour que tu puisses détruire mes ennemism Il ordonna à Aschkesch de conduire dans le Kharezm trente mille lions bondissants, armés de lances et précédés de grandes timbales, armée de loups ra-LE LIVRE ces BOIS. ’
+Il ordonna à Aschkesch de conduire dans le Kharezm trente mille lions bondissants, armés de lances et précédés de grandes timbales, armée de loups races BOIS. ’
 puces et de combattre Schideh, qui désirait le combat et avait assis son camp dans le pays de Kharezm.
 
 Enfin il mit Gouderz-à la tête d’une quatrième armée, lui adressa beaucoup de conseils et d’exhortations et lui dit :
 
 > Pars avec les grands de l’Iran,
-> ’ avec Gourguin, Zengueh et Gustehem, Feribourz fils de Kaous, Ferhad et Guiv, le Sipehdar Gourazeh et le vaillant Schapour.»
+> ’ avec Gourguin, Zengueh et Gustehem, Feribourz fils de Kaous, Ferhad et Guiv, le Sipehdar Gourazeh et le vaillant Schapour. »
 
 Il leur ordonna de se ceindre pour le combat et de partir sans délai pour le Touran.
 
@@ -76,16 +80,16 @@ Khosrou lui dit :
 >
 > Quand tu conduiras ton armée dans le Touran, ne livre pas ton cœur aux emportements et ta tête au feu de la colère ; ne l’emporte pas, comme a fait Thous ; ne place pas à tout moment les timbales sur le dos des éléphants ; sois juste toujours et en, vers tous ; souviens-toi de Dieu le distributeur de tout bien ; envoie un homme qui ait de l’expérience
 >
-> un Knosaou. auprès de l’iran, un homme prudent et qui n’oublie rien ; fais entendre à Piran de sages conseils et revêts pour lui la robe de l’amitié.»
+> un Knosaou. auprès de l’iran, un homme prudent et qui n’oublie rien ; fais entendre à Piran de sages conseils et revêts pour lui la robe de l’amitié. »
 
 Le chef de l’armée répondit au roi :
 
 > Tes ordres sont plus sublimes que la sphère de la lune.
 >
-> Je marcherai comme tu me l’ordonnes ; tu es le roi maître du monde et je suis ton esclave.»
+> Je marcherai comme tu me l’ordonnes ; tu es le roi maître du monde et je suis ton esclave. »
 
-Soixante éléphants précédèrent l’armée et la terre se courbait sous leur poids ; on caparaçonna, comme on eût fait pour le roi, quatre de ces furieux éléphants de guerre ; on plaça sur leur des un trône d’or, un siégé royal avec une couronne et les emv blêmes de la royauté et Khosrou commanda à Gouderz de monter sur ce trône d’or que portaient les éléphants furieux ; ensuite il donna ordre qu’on fît partir les éléphants et tira un heureux présage de la poussière que soulevaient leurs pieds, en disant :
+Soixante éléphants précédèrent l’armée et la terre se courbait sous leur poids ; on caparaçonna, comme on eût fait pour le roi, quatre de ces furieux éléphants de guerre ; on plaça sur leur dos un trône d’or, un siégé royal avec une couronne et les emv blêmes de la royauté et Khosrou commanda à Gouderz de monter sur ce trône d’or que portaient les éléphants furieux ; ensuite il donna ordre qu’on fît partir les éléphants et tira un heureux présage de la poussière que soulevaient leurs pieds, en disant :
 
-> Nous réduirons le palais de Piran en une pouss sière semblable à celle que font lever les pieds de ces éléphants.»
+> Nous réduirons le palais de Piran en une pouss sière semblable à celle que font lever les pieds de ces éléphants. »
 
 L’armée se mit en mouvement selon les ordres du roi et marcha d’étape en étape sans trouver d’obstacle.
