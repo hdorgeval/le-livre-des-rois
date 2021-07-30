@@ -58,7 +58,7 @@ J’ai reçu l’ordre de Dieu de m’employer pour toi de toute mon âme et de 
 
 Je ne te demanderai jamais de faire le mal et ne t’y entraînerai pas et je ne laisserai pas aller mon cœur à un seul soupçon contre toi. »
 
-Le roi apposa son sceau sur la lettre et ordonna à Zengueh, l’ami deSiawusch, de se ceindre en toute hâte pour le départ.
+Le roi apposa son sceau sur la lettre et ordonna à Zengueh, l’ami de Siawusch, de se ceindre en toute hâte pour le départ.
 
 Il lui avait préparé beaucoup de présents, de l’argent, de l’or et un cheval avec de lourds caparaçons d’or.
 
