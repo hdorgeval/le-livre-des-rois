@@ -42,7 +42,7 @@ Surkheh quitta son père et se mit en marche ; il porta son étendard noir dans 
 
 Une sentinelle vit la poussière que soulevait son armée et se rendit promptement auprès de Faramourz ; le son des timbales retentit dans le camp des Iraniens, l’air devint comme de l’ébène par la poussière que soulevait leur armée et le bruit des chevaux et des cavaliers qui couvraient la plaine monta plus haut que le soleil et l’étoile du malin.
 
-Les épées d’acier flamboyèrent, les pointes des lances LE LlVllE se réchauflèrent dans le sang ; on aurait dit qu’une vapeur s’élevait du. monde entier embrasé par le feu de ce combat.
+Les épées d’acier flamboyèrent, les pointes des lances LE LlVllE se réchauffèrent dans le sang ; on aurait dit qu’une vapeur s’élevait du. monde entier embrasé par le feu de ce combat.
 
 Les cadavres des chefs, gisants de toutes parts, faisaient du terrain d’un bout à l’autre une montagne.
 
