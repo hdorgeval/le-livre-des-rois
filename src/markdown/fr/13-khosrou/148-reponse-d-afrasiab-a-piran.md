@@ -24,7 +24,7 @@ Depuis le moment où ta chaste mère t’a mis au monde, tu as porté la tête p
 
 Dans tous les combats qu’on m’a livrés, tu m’as fait de ton corps un bouclier et de tavie une rançon ; et malgré tes richesses, tu t’es soumis dans toute occasion aux fatigues de la guerre pour me servir.
 
-Tu as condnit ton armée de la Chine jusque dans l’Iran, tu as assombri le cœur et la fortune de mes ennemis ; tu es un prince et le Pehlewan du monde ; que ta vie soit bénie de mille bénédictions !
+Tu as conduit ton armée de la Chine jusque dans l’Iran, tu as assombri le cœur et la fortune de mes ennemis ; tu es un prince et le Pehlewan du monde ; que ta vie soit bénie de mille bénédictions !
 
 Tu m’as accordé l’amitié que tu avais vouée à Tour et à Pescheng et le ciel ne fera plus naître de Pehlewan comme toi ; l’armée ne verra plus de obel qui te ressemble, elle ne verra plus de guide plein de sagesse comme loi.
 
@@ -83,7 +83,7 @@ Il s’adressa à Dieu, disant :
 >
 > Regarde ce que fait le sort inconstant : les ronces. desséchées de celui qu’il favorise poussent des roses fraiches ; et la fortune qui veille sur un homme convertit en .
 >
-> [t LE LIVRE DES nons. musc la poussière sous ses pieds.
+> [t musc la poussière sous ses pieds.
 >
 > Plus étonnant encore est le sort d’un homme plein de noblesse, dont le cœur est toujours rempli de soucis.
 >
@@ -91,7 +91,7 @@ Il s’adressa à Dieu, disant :
 >
 > Et que dirai-je de la fin de cette guerre et de la, tournure que va prendre le sort ?
 >
-> Si Afrasiab et les grands du Touran succombent dans cette guerre et sur ce champ de bataille, ma fortune périra avec en.»
+> Si Afrasiab et les grands du Touran succombent dans cette guerre et sur ce champ de bataille, ma fortune périra avec en »
 
 Il recommença à soupirer devant Dieu, disant :
 
