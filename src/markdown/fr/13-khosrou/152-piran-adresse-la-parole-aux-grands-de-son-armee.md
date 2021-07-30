@@ -44,11 +44,13 @@ Quand Piran vit que toute son armée ressemblaità un troupeau ravagé par un lo
 >
 > Dans l’un et dans l’autre cas, le destin aura eu son cours.
 >
-> Si quelqu’un de vous refuse de m’obéir, je lui ferai trancher la tête.»
+> Si quelqu’un de vous refuse de m’obéir, je lui ferai trancher la tête. »
 
-Les héros s’em pressèrent de lui répondre : Ô Peh -lewan du noble Afrasiab, tu es possesseur d’un trône antique et de grands trésors et pourtant tu t’es exposé aux fatigues de la guerre pour l’amour de nous ; tu es devant nous ceint comme un esclave, tu as livré à la mort ton fils et ton frère : comment Le désobéirions-nous tous tant que nous sommes ?
+Les héros s’em pressèrent de lui répondre :
 
-Pourquoi serions-nous tes esclaves, si ce n’est pour faire ta volonté?»
+> Ô Peh -lewan du noble Afrasiab, tu es possesseur d’un trône antique et de grands trésors et pourtant tu t’es exposé aux fatigues de la guerre pour l’amour de nous ; tu es devant nous ceint comme un esclave, tu as livré à la mort ton fils et ton frère : comment Le désobéirions-nous tous tant que nous sommes ?
+>
+> Pourquoi serions-nous tes esclaves, si ce n’est pour faire ta volonté ? »
 
 Ils dirent et se levèrent pour partir et se préparer au combat :
 
@@ -56,12 +58,14 @@ Ils dirent et se levèrent pour partir et se préparer au combat :
 >
 > À l’aube du jour les clairons et les trompettes résonnèrent sous la porte de l’enceinte des tentes de Pirau ; tous les grands montèrent à chevalà la première lueur du jour et suspendirent leur arc à leur bras ; tu aurais dit que les sabots de leurs chevaux couvraient la terre d’un voile de fer.
 >
-> Le Sipehdar dit alors à Lehhak et à F erschidwerd : Ô hommes illustres, il faut que vous commandiez l’armée du M9 Touran sur ce champ de bataille.
+> Le Sipehdar dit alors à Lehhak et à F erschidwerd :
+
+> Ô hommes illustres, il faut que vous commandiez l’armée du M9 Touran sur ce champ de bataille.
 >
 > Placez sur le haut a : de la montagne une sentinelle qui veille jour et nuit et si le ciel qui tourne amène du malheur sur ma tête, s’il renonce àtoute pitié pour moi, alors bâtez-vous de partir pour le Touran ; car notre fortune sera entièrement passée, il ne restera personne de la race de Wiseh et le destin aura dispersé leur pous-’sière.
 >
 > Que pouvons-nous contre le sort ?
 >
-> Dès le premier jour de notre vie il est notre maître.»
+> Dès le premier jour de notre vie il est notre maître. »
 
 Ils s’embrassèrent étroitement les uns les autres, dans leur tristesse ils versèrent des larmes amères, ensuite ils se quittèrent, faisant entendre des lamentalions et le chef de l’armée du Touran se rendit sur le champ de bataille en poussant des cris de guerre et le cœur rempli d’ardeur pour le combat.
