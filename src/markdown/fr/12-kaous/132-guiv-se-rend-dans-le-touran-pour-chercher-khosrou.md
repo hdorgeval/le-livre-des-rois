@@ -73,7 +73,7 @@ Puisque tu sais que tu ne resteras pas longtemps dans ce monde, pourquoi mets-tu
 
 Tu l’emporteras avec toi sous terre, tu la porteras sur ta tête dans le tombeau.
 
-Le monde t’offre beaucoup de délices, pourquoi te donneraistu de la peine pour un autre que toi ?
+Le monde t’offre beaucoup de délices, pourquoi te donnerais tu de la peine pour un autre que toi ?
 
 Tu travailles, mais un autre jouira du fruit de tes travaux à son aise et sans jeter un regard sur ton tombeau et sur ta bière.
 
