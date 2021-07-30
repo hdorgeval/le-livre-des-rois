@@ -18,7 +18,7 @@ order: '100'
 
 Afrasiab raconta ces nouvelles à Guersiwez, il dévoila devant lui tout ce qui était secret et lui dit :
 
-> Va joyeusement à Siawuscbguird, regarde ce que Siawusch y a fait et examine tout.
+> Va joyeusement à Siawuschguird, regarde ce que Siawusch y a fait et examine tout.
 >
 > Il a mis son cœur dans le Touran et ne pense plus à l’Iran, depuis qu’il a renoncé au trône et à la couronne, depuis qu’il a abandonné Gouderz, Bahram et le roi Kaous ; il ne désire plus voir Rustem fils de Zal ; il ne prend plus en main sa lance et sa massue de fer.
 >
