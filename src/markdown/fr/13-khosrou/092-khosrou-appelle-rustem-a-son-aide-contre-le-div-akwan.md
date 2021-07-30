@@ -24,7 +24,7 @@ Les grands, tels que Gouderz, Zengueh, Gustehem, Berzin fils de Guerschasp issu 
 
 Ils vidèrent leurs coupes à la santé du roi des rois et le vin réjouit leurs cœurs.
 
-A la neuvième heure du jour un pâtre arriva du désert et se présenta à la porte du palais ;
+À la neuvième heure du jour un pâtre arriva du désert et se présenta à la porte du palais ;
 
 Il s’avança vers Khosrou, baisa la terre et dit au roi d’illustre naissance :
 
