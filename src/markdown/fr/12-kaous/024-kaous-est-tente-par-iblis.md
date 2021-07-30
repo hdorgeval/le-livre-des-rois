@@ -56,7 +56,7 @@ Toutes les créatures sont impuissantes contre ses ordres, car elles sont impure
 
 Dieu le créateur n’a paS.besoin du monde ; c’est pour toi, ô homme, que le ciel et la terre ont été créés.
 
-L’espritdu roi s’occupa continuellement des moyens de s’élever sans ailes dans les airs ; il adressa beau-
+L’esprit du roi s’occupa continuellement des moyens de s’élever sans ailes dans les airs ; il adressa beau-
 coup de questions aux savants sur la distance qui est entre la terre et le ciel de la lune.
 
 Les astrologues la lui enseignèrent, le roi les écouta et fit choix d’un moyeu étrange et impie.
