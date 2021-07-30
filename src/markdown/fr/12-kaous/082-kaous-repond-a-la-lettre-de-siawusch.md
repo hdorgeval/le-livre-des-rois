@@ -22,7 +22,7 @@ Il la commença par les louanges du Créateur, maître de la paix et de la guerr
 
 Puissent, ô mon fils, la santé et la fortune, la couronne et le trône le rester à jamais, quand même ton cœur oublierait mes conseils, quand même ta tête serait troublée par le vertige de la jeunesse !
 
-Tu as ouï raconter ce que l’ennemi a fait dans l’Iran, quand il a été victorieux au jour du combat : ne recherche donc pas follement son amitié, ne contribue pas à la gloire de sa cour ; ne livre pas étourdiment ta tête aux ruses des méchants, si tu ne veux pas que le ciel qui tourne te jette dans l’affiiction.
+Tu as ouï raconter ce que l’ennemi a fait dans l’Iran, quand il a été victorieux au jour du combat : ne recherche donc pas follement son amitié, ne contribue pas à la gloire de sa cour ; ne livre pas étourdiment ta tête aux ruses des méchants, si tu ne veux pas que le ciel qui tourne te jette dans l’affliction.
 
 Envoie à me cour les otages que tu tiens.
 
