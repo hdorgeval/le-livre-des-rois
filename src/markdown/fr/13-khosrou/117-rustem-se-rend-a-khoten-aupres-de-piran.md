@@ -20,13 +20,13 @@ Quand le capitaine des gardes parut à la porte du palais, les héros prirent le
 
 Ils avaient tous mis leur vie sur la paume de leur main ; ils étaient tous revêtus d’une armure complète ; ils étaient tous prêts à verser du sang dans le combat.
 
-A la première lueur du jour et à l’heure où le coq chante, en entendit le bruit des timbales sous la porte du roi ; Tehemten parut, semblable à un cyprès élancé, la massue en main et le lacet accroché à la selle et il sortit avec ses troupes du palais du roi, en prononçant des bénédictions sur son pays.
+À la première lueur du jour et à l’heure où le coq chante, en entendit le bruit des timbales sous la porte du roi ; Tehemten parut, semblable à un cyprès élancé, la massue en main et le lacet accroché à la selle et il sortit avec ses troupes du palais du roi, en prononçant des bénédictions sur son pays.
 
 Arrivé à la frontière du Touran, le Pehlewan appela autour de lui tous les chefs de ses troupes, ensuite il s’adressa à celles-ci et leur dit :
 
 > Vous resterez ici sans vous impatienter et vous ne quitterez pas ce lieu, à moins que Dieu le très-saint ne me prive de la vie.
 >
-> Vous vous tiendrez prêts à combattre ; vos mains seront toujours préparées à verser du sang.»
+> Vous vous tiendrez prêts à combattre ; vos mains seront toujours préparées à verser du sang. »
 
 Il laissa ainsi son armée sur la frontière, pendant qu’il se dirigeait avec ses fidèles vers le Touran.
 
@@ -43,7 +43,7 @@ Mais lorsque Rustem le vit revenir de la chasse, il prit une coupe d’or rempli
 Il salua Piran, en disant :
 
 > Ô illustre Pehlewan, dont ’
-> la fortune et les hauts faits remplissent le Touran et l’Iran, personne n’est aussi digne du pouvoir et du diadème que toile conseiller des rois et l’ornement de leur trône.»
+> la fortune et les hauts faits remplissent le Touran et l’Iran, personne n’est aussi digne du pouvoir et du diadème que toile conseiller des rois et l’ornement de leur trône. »
 
 Piran, par la grâce du Maître du monde, ne reconnut pas Rustem et il lui demanda :
 
@@ -78,7 +78,7 @@ Lorsque Piran vit les joyaux que contenait la coupe brillante, il appela les I b
 >
 > Va et apporte ici tout ce que tu as de précieux et cherche partout des acheteurs.
 >
-> Viens résider dans le palais de mon fils et comporte-toi envers moi comme si tu étais de ma famille.»
+> Viens résider dans le palais de mon fils et comporte-toi envers moi comme si tu étais de ma famille. »
 
 Rustem lui répondit :
 
@@ -86,15 +86,15 @@ Rustem lui répondit :
 >
 > Tout ce que j’ai de précieux est à toi ; et quelque part que nous demeurions dorénavant, tout \* sera bien.
 >
-> Mais j’aime mieux, ô Pehlewan, séjourner hors du palais, pour que je puisse rester auprès de ma caravane ; car j’ai avec moi des hommes de toute espèce et il ne faut pas qu’un seul de mes joyaux se perde.»
+> Mais j’aime mieux, ô Pehlewan, séjourner hors du palais, pour que je puisse rester auprès de ma caravane ; car j’ai avec moi des hommes de toute espèce et il ne faut pas qu’un seul de mes joyaux se perde. »
 
 Piran lui répondit :
 
-> Va et choisis ta demeure comme il te plaira ; je placerai des gardiens près de toi.»
+> Va et choisis ta demeure comme il te plaira ; je placerai des gardiens près de toi. »
 
 Alors Rustem loua une maison, s’y établit et plaça ses bagages et ses marchandises dans le magasin.
 
-Le bruit se répandit qu’une caravane de l’Iran était arrivée dans la ville de’ l’illustre Pehlewan ; de tous côtés les acheteurs ouvrirent les oreilles, lorsqu’ils entendirent parler du marchand de pierreries ; tous ceux qui avaient besoin de brocarts, de tapis ou de joyaux se mirent en roule pour aller à la cour de
+Le bruit se répandit qu’une caravane de l’Iran était arrivée dans la ville de l’illustre Pehlewan ; de tous côtés les acheteurs ouvrirent les oreilles, lorsqu’ils entendirent parler du marchand de pierreries ; tous ceux qui avaient besoin de brocarts, de tapis ou de joyaux se mirent en route pour aller à la cour de
 
 KEÏ Kuo’saou.
 
