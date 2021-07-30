@@ -113,7 +113,7 @@ frasiab, ni de sa grande armée, ni de son ardeur ; n’y eût-il qu’un seul d
 >
 > Échansonl remplis-moi jusqu’au bord une coupe de vin du Zaboulistan. »
 
-L’échanson la remplit auâsitôt et la lui donna.
+L’échanson la remplit aussitôt et la lui donna.
 
 Rustem la prit et fut content ; il saisit de sa main la coupe brillante et prononça d’abord le nom de Keî
 Kaous, disant :
