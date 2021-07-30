@@ -26,7 +26,7 @@ Ils longèrent les bords d’un ruisseau, courant et s’élancent sur les bête
 
 Ils en tuèrent beaucoup et en poursuivirent beaucoup et amassèrent de la nourriture pour quarante jours.
 
-Or il résidait dans les environs un Turc dont les tentes obscurcissaient la terre et devantles chasseurs se trouvait une forêt qui s’étendait au loin le long de la frontière des cavaliers du Touran.
+Or il résidait dans les environs un Turc dont les tentes obscurcissaient la terre et devant les chasseurs se trouvait une forêt qui s’étendait au loin le long de la frontière des cavaliers du Touran.
 
 Thous et Guiv, accompagnés de quelques braves, y entrèrent ; les deux cavaliers s’avancèrent dans la forêt et se livrèrent à la chasse pendant quelque temps.
 
@@ -74,13 +74,13 @@ Guiv répondit :
 
 > Ne parle pas ainsi, car c’est moi qui dans l’ardeur de la chasse vous ai devancés tous.
 >
-> Ne dis pas un mensonge pour gagner une esrrclave, car tu n’es pas assez brave pour soutenir une querelle. »
+> Ne dis pas un mensonge pour gagner une esclave, car tu n’es pas assez brave pour soutenir une querelle. »
 
 .Leurs paroles devinrent si violentes, qu’ils allaient trancher la tête à cette lune ; mais lorsque leur discussion eut duré longtemps, un des grands vint s’interposer, disant :
 
 > Amenez-la devant le roi et soumettez-vous tous deux à sa décision. »
 
-Ils l’épargnèreut selon son conseil et se dirigèrent vers le roi de l’Iran.
+Ils l’épargnèrent selon son conseil et se dirigèrent vers le roi de l’Iran.
 
 Quand Kaous vit le visage de la jeune fille, il sourit en se mordant les lèvres et dit aux deux Sipehbeds :
 
@@ -97,8 +97,10 @@ Ensuite le roi demanda àla jeune fille :
 Elle répondit :
 
 > Du côté de ma mère, je suis une princesse ; du côté de mon père, je suis issue de la race de Feridoun et (luersiwez le Sipehbed, dont
+>
+> Les tentes couvrent cette frontière, est mon grand-père. »
 
-Les tentes couvrent cette frontière, est mon grandpèrem Le roi lui demanda :
+Le roi lui demanda :
 
 > Comment as-tu pu donner au vent ces beaux cheveux et ce visage et ce cette haute naissance ?
 >
