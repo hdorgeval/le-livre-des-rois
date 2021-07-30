@@ -24,7 +24,7 @@ Les grands du Touran se prosternèrent devant le maître du monde la ceinture de
 
 > Il nous est arrivé une chose qui passe l’imagination ; que faut-il faire maintenant ?
 >
-> Car l’insulte de Bijen laissera sur l’honneur du roi une tache éternelle ; dans l’Iran on ne nous comptera plus pour des hommes ; on nous appellera des femmes armées.»
+> Car l’insulte de Bijen laissera sur l’honneur du roi une tache éternelle ; dans l’Iran on ne nous comptera plus pour des hommes ; on nous appellera des femmes armées. »
 
 Le roi était furieux comme un léopard ; il leur dit de se préparer au combat, il ordonna à Piran de faire placer les timbales sur le dos des éléphants,-car il était confondu et indigné de ce qui était arrivé.
 
@@ -32,21 +32,25 @@ Les trompettes d’airain résonnèrent devant la porte du palais, la ville rete
 
 Lorsque la sentinelle vit de sa tour la terre se mouvoir comme une mer, elle courut auprès de Rustem et lui dit :
 
-> Prépare-toi, car le monde est noirci par la poussière que soulèvent les chevaux.»
+> Prépare-toi, car le monde est noirci par la poussière que soulèvent les chevaux. »
 
 Rustem lui répondit :
 
-> Nous n’avons pas pour ; nous répandrons de la poussière sur les mains de nos ennemis.»
+> Nous n’avons pas pour ; nous répandrons de la poussière sur les mains de nos ennemis. »
 
-Il fit partir Menijeh et les bagages, revêtit son armure de bataille, monta sur une hauteur, regarda l’armée des Touranicns et poussa un cri comme un lion en fureur.
+Il fit partir Menijeh et les bagages, revêtit son armure de bataille, monta sur une hauteur, regarda l’armée des Touraniens et poussa un cri comme un lion en fureur.
 
-Le vaillant cavalier dit : Que pèse lll. le renard entre les griffes du lion?»
+Le vaillant cavalier dit :
 
-Ensuite, il cria à ses braves pleins de fierté : L’heure du combat est arivée : où sont vos épées et vos javelots qui percentle fer ?
+> Que pèse lll. le renard entre les griffes du lion ? »
 
-Où sontvos lances et vos massues à tête de bœuf ?
+Ensuite, il cria à ses braves pleins de fierté :
 
-Voici le moment de montrer sa bravoure et de courir au combat.»
+> L’heure du combat est arivée : où sont vos épées et vos javelots qui percentle fer ?
+>
+> Où sont vos lances et vos massues à tête de bœuf ?
+>
+> Voici le moment de montrer sa bravoure et de courir au combat. »
 
 On sonna des trompettes ; Tehemten monta sur Raksch et mena sa troupe de la montagne dans la plaine, aussitôt que l’armée ennemie eut paru dans le défilé de la montagne opposée.
 
@@ -58,7 +62,7 @@ Plaça à l’aile droite Aschkesch et Gustehem avec un grand nombre de cavalier
 
 Le mont Bisoutoun se trouvait derrière teeIraniens, qui formaient devant lui un mur d’épées.
 
-Afrasiab, en voyant cette armée, à la tête de laquelle brillait Rustem, fut saisi de colère ; il revêtit la cette de mailles qu’il portait dans les combats et ordonna à son armée de s’arrêter.
+Afrasiab, en voyant cette armée, à la tête de laquelle brillait Rustem, fut saisi de colère ; il revêtit la cotte de mailles qu’il portait dans les combats et ordonna à son armée de s’arrêter.
 
 Il forma sa ligne, selon les règles, en face de celle des Iraniens ; l’air devint noir, la terre disparut.
 
@@ -74,4 +78,4 @@ Tehemten tout couvert de fer et semblable à une montagne noire, tournait devant
 >
 > Puisse un homme aussi léger que toi ne monter jamais sur un trône, car il livrera aux vents son royaume !
 >
-> Tu périras corps et âme dans le combat que tu vas tenter contre moi sur cette large plaine.»
+> Tu périras corps et âme dans le combat que tu vas tenter contre moi sur cette large plaine. »
