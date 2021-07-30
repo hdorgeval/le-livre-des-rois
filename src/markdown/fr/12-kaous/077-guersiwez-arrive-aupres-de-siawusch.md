@@ -46,7 +46,7 @@ Siawusch admira beaucoup ces présents et sourit ; il les regarda et prêta l’
 
 > Livrons-nous à la joie pendant une semaine, avant de parler de réponse.
 >
-> Il nous faut beaucoup réfléchir sur cette demande etadresser des questions à tout le monde. »
+> Il nous faut beaucoup réfléchir sur cette demande et adresser des questions à tout le monde. »
 
 Guersiwez ayant entendu ces paroles, toucha de son front et de ses cheveux le trône de Siawusch.
 
