@@ -68,7 +68,7 @@ Il lui dit :
 >
 > et honni du monde entier.
 >
-> Il n’y a pas de bête féroce qui ait les dents plus aiguës que le lion, dont le cœur ne craint pas l’épée ; et pourtant. quand il voit un enfant dans la détresse, il lui fait d’un bos quet un asile contre tout danger : le maître du soleil et de la lune m’approuverait-il donc si je sévissais contre un innocent ?
+> Il n’y a pas de bête féroce qui ait les dents plus aiguës que le lion, dont le cœur ne craint pas l’épée ; et pourtant. quand il voit un enfant dans la détresse, il lui fait d’un bosquet un asile contre tout danger : le maître du soleil et de la lune m’approuverait-il donc si je sévissais contre un innocent ?
 >
 > Je ne connais que Siawusch à qui je voulusse donner le nom de fils et tu veux que je le renvoie à son père !
 >
