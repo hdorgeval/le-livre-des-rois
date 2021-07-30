@@ -36,11 +36,11 @@ Les dromadaires partirent pour chercher du bois et tout le pays d’Iran vint le
 
 Les dromadaires au poil roux et pleins d’ardeur apportèrent en cent voyages du bois que l’on empila haut comme le firmament et dont la masse excédait tout calcul.
 
-I On voyait le bûcher de la distance de deux farasanges et chacun dit :
+I On voyait le bûcher de la distance de deux farsangs et chacun dit :
 
 > Voici la clef de ce mystère d’iniquité,»
 
-Et chacun voulut voir comment la vérité sortirait de la fourberie et durmensonge.
+Et chacun voulut voir comment la vérité sortirait de la fourberie et du mensonge.
 
 Quand tu auras écouté jusqu’à la fin cette histoire, tu feras bien de te méfier des femmes.
 
@@ -50,7 +50,7 @@ On éleva sur la plaine deux montagnes de bois et les hommes vinrent en foule le
 
 Ensuite le roi glorieux ordonna de verser du naphte noir sur le bois et deux cents hommes s’avancèrent pour allumer le feu ; ils le soufflaient et tu aurais dit que la nuit arrivait au milieu du jour, car leurs efforts ne produisirent d’abord que de la fumée noire.
 
-Mais bientôt des langues de feu la percèrent, la terre devint plus brillante que le ciel, les hommes poussèrent des cris et le feu s’élan’ça.
+Mais bientôt des langues de feu la percèrent, la terre devint plus brillante que le ciel, les hommes poussèrent des cris et le feu s’élança.
 
 Le peuple qui couvrait la plaine souffrait de la chaleur et pleurait sur Siawusch au visage souriant, qui s’approcha de son père ,
 
