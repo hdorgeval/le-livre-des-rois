@@ -26,7 +26,7 @@ Guiv arriva auprès de son père et lui rapporta 5 de point en point la réponse
 >
 > Afrasiab a envoyé cette armée et elle a passé le Djihoun pendant que nous revenions.
 >
-> Maintenant place sur les éléphants les timbales de combat, car la bataille est imminente.»
+> Maintenant place sur les éléphants les timbales de combat, car la bataille est imminente. »
 
 Gouderz répondit à Guiv :
 
@@ -34,7 +34,7 @@ Gouderz répondit à Guiv :
 >
 > Je m’attendais à cela de la part de ce méchant et pourtant il n’y avait pas moyen d’éviter cette entrevue après les ordres du roi ; maintenant Khosrou a mis à l’épreuve le cœur de cet homme.
 >
-> J’ai parlé au roi lorsqu’il m’a 0rdonné de mettre l’armée en marche ; je lui ai dit d’arracher de son âme toute tendresse pour un homme dont le langage et les pensées ne s’accordaient pas ; que tout l’amour de Piran était pour les Turcs et qu’il ne restait au roi qu’à le renoncer.»
+> J’ai parlé au roi lorsqu’il m’a 0rdonné de mettre l’armée en marche ; je lui ai dit d’arracher de son âme toute tendresse pour un homme dont le langage et les pensées ne s’accordaient pas ; que tout l’amour de Piran était pour les Turcs et qu’il ne restait au roi qu’à le renoncer. »
 
 Le vaillant Piran suivit Guiv en toute hâte ; il précipitait la marche de son armée, semblable à un lion.
 
@@ -58,7 +58,7 @@ Quand la nuit fut devenue sombre, on plaça les éléphants sur le front des arm
 
 L’aube du jour descendit de la montagne sombre ; le Sipehdar des Iraniens monta, devant le front de l’armée, sur un cheval frais et assigna aux héros leurs postes.
 
-A la droite de l’armée était la montagne, que la lutte des braves ne pouvait ébranler ; à sa gauche coulait une rivière ; au premier rang caracolaient des cavaliers pourvus de boucliers.
+À la droite de l’armée était la montagne, que la lutte des braves ne pouvait ébranler ; à sa gauche coulait une rivière ; au premier rang caracolaient des cavaliers pourvus de boucliers.
 
 Derrière ces hommes armés de lances venaient les fantassins munis de carquois et de flèches propres à traverser les cuirasses ; ils tenaient l’arc suspendu au bras et leur cœur était gonflé de sang.
 
@@ -74,7 +74,7 @@ Gouderz para son armée comme un paradis et planta pour son roi dans le jardin d
 
 Ensuite Gouderz dit à Rehham :
 
-> Ô toi qui es ’âme de la couronne, du trône et de l’intelligence, rends-toi avec tes cavaliers à l’aile gauche, tu y brilleras comme le soleil du N0uroüz dans le signe du Bélier ; tu illumineras l’armée par ta splendeur, tu la prendras sous ton aile ; et semblable à un lion féroce, tu cornbattras les héros avec cette épée brillante qui dévore les braves.»
+> Ô toi qui es ’âme de la couronne, du trône et de l’intelligence, rends-toi avec tes cavaliers à l’aile gauche, tu y brilleras comme le soleil du N0uroüz dans le signe du Bélier ; tu illumineras l’armée par ta splendeur, tu la prendras sous ton aile ; et semblable à un lion féroce, tu cornbattras les héros avec cette épée brillante qui dévore les braves. »
 
 Les amis de Rehham partirent avec lui ; Gustehem le premier, ensuite Guejdehem qui ne reculait jamais devant le combat, puis F ourouhil qui lançait ses traits pardessus le firmament.
 
@@ -84,7 +84,7 @@ Deux braves, Gourguin et’Zengueh fils de Schaweran, partirent avec Guiv.
 
 Ensuite Gouderz envoya trois rmille hommes avec un étendard pour garder l’armée du côté de la rivière et il plaça de même du côté de la montagne un étendard avec trois cents cavaliers choisis parmi la masse des braves.
 
-Une sentinelle postée sur la cime de la montagne et dominant de là toute l’armée, tendait 9 le cou nuit et jour et perçait des yeux l’espace du haut de sa tour.
+Une sentinelle postée sur la cime de la montagne et dominant de là toute l’armée, tendait le cou nuit et jour et perçait des yeux l’espace du haut de sa tour.
 
 Elle épiait la marche de l’armée du Touran ; elle aurait distingué les pieds d’une fourmi se mouvant sur cette route ; aussitôt qu’elle aurait poussé un cri du haut de sa tour, Gouderz eût été sur pied.
 
