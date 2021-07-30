@@ -18,7 +18,7 @@ order: '194'
 
 Pendant toute la nuit et jusqu’à ce que le soleil se fût levé à l’horizon et eût fait briller la montagne comme le dos d’un éléphant blanc, Afrasiab s’occupa à mettre en ordre son armée et aucun Turc ne se livra au sommeil.
 
-Lorsque le son des timbales se fil entendre à Gangue, la terre se couvrit de fer et l’air se remplit d’une poussière noire et Khosrou, le chef des Moheds, le roi bienveillant, monta à cheval à l’aube du jour.
+Lorsque le son des timbales se fil entendre à Gangue, la terre se couvrit de fer et l’air se remplit d’une poussière noire et Khosrou, le chef des Mobeds, le roi bienveillant, monta à cheval à l’aube du jour.
 
 Il fit le tour de la ville et forma son plan de bataille.
 
@@ -41,7 +41,7 @@ Ayant préparé ainsi l’attaque des quatre côtés, comme on doit faire dans u
 
 > L’accomplissement des vœux et la puissance viennent de toi ; en tout danger, le secours vient de toi.
 >
-> Si tu vois que ce que je veux est juste, ne me force pas d’abandonner ce lieu, renverse ces magiciens de leur trône, contente mon cœur et rends-moi favorable la fortune.»
+> Si tu vois que ce que je veux est juste, ne me force pas d’abandonner ce lieu, renverse ces magiciens de leur trône, contente mon cœur et rends-moi favorable la fortune. »
 
 Il releva la tête après sa prière et revêtit d’une cuirasse sa poitrine brillante, prit ses armes et s’élança au combat, rapide comme la fumée.
 
@@ -62,7 +62,7 @@ Afrasiab apprit aussitôt de quel côté le mur de la ville s’écroulait ; il 
 >
 > C’est avec les épées qu’une armée doit former ses murs.
 >
-> Pour sauver le pays et vos enfants, pour sauver vos trésors et vos parents. liez ensemble les pans de vos cottes de maille et ne laissez pas autour de vous ces ennemis.»
+> Pour sauver le pays et vos enfants, pour sauver vos trésors et vos parents. liez ensemble les pans de vos cottes de maille et ne laissez pas autour de vous ces ennemis. »
 
 Toute une
 9
