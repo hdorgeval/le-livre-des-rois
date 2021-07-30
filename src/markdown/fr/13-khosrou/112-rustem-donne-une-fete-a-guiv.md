@@ -16,7 +16,7 @@ order: '112'
 
 # Rustem donne une fête à Guiv
 
-De la ils s’acheminèrent vers le palais de Rustem et délibérèrent en route sur leur prochain départ.
+De là ils s’acheminèrent vers le palais de Rustem et délibérèrent en route sur leur prochain départ.
 
 Lorsque Rustem eut lu’ la lettre du roi, il demeura confondu de ce que lui mandait Khosrou.
 
@@ -28,7 +28,7 @@ Il appela les grâces de Dieu sur le roi maître du monde, le glorieux Pehlewan 
 >
 > Dans la guerre qui devait venger Siawusch et dans le Mazenderan, tu étais en armes et à la tête des braves ; et maintenant tu as enduré les fatigues de ce voyage, tu as parcouru cette route difficile.
 >
-> Je suis heureux de te voir ; mais les nouvelles de Bijen m’allligent et ce n’est pas ainsi, triste et blessé par le sort, que j’aurais voulu te voir.
+> Je suis heureux de te voir ; mais les nouvelles de Bijen m’affligent et ce n’est pas ainsi, triste et blessé par le sort, que j’aurais voulu te voir.
 >
 > Obéissant à cette lettre du roi, je vais me mettre en route .
 > ses comme il me l’ordonne.
@@ -39,7 +39,7 @@ Il appela les grâces de Dieu sur le roi maître du monde, le glorieux Pehlewan 
 >
 > Mais livre-toi à la joie dans cette maison pendant trois jours, bois du vin doux et oublie tes soucis, car ta maison et la mienne n’ont jamais été divisées et nous n’avons qu’un corps, qu’une âme et qu’un trésor.
 >
-> Nous resterons encore trois jours joyeusement dans cette maison, en parlant des héros de l’Iran ; le quatrième nous partirons pour l’Iran ; nous partirons pour la cour du roi des braves.»
+> Nous resterons encore trois jours joyeusement dans cette maison, en parlant des héros de l’Iran ; le quatrième nous partirons pour l’Iran ; nous partirons pour la cour du roi des braves. »
 
 À ces paroles de Rustem, Guiv se leva vivement, baisa les mains, le visage et les pieds du héros et le bénit, en disant :
 
@@ -51,11 +51,11 @@ Il appela les grâces de Dieu sur le roi maître du monde, le glorieux Pehlewan 
 >
 > Puissent toutes sortes de bonheurs être ton partage,
 >
-> puisque tu as effacé la rouille qui couvrait mon âme!»
+> puisque tu as effacé la rouille qui couvrait mon âme ! »
 
-Rustem voyant l’âme de Guiv tranquillisée et espérant une heureuse fin dans cette aventure, dità son maître d’hôtel :
+Rustem voyant l’âme de Guiv tranquillisée et espérant une heureuse fin dans cette aventure, dit à son maître d’hôtel :
 
-> Dresse les tables, appelle les grands et les sages.»
+> Dresse les tables, appelle les grands et les sages. »
 
 Zewareh, Faramourz, Destan et Guiv s’assirent à la table du vaillant chef de l’armée ; ils mangèrent et le dîner fini, on prépara une fête magnifique ; les musiciens et les échansons entrèrent dans la salle incrustée de pierreries ; toutes les mains furent rougies par le vin couleur de rubis ; les luths résonnaient, les coupes brillaient.
 
@@ -63,4 +63,4 @@ C’est ainsi que Rustem avait ordonné cette fête, car il savait ordonner un f
 
 Pendant trois jours Rustem fils de Zal fils de Sam but du vin dans son palais sans se presser de partir ; ensuite il se leva, saisit une coupe remplie de vin rouge et dit :
 
-> J’élèverai si haut la fortune du roi, que tous ses ennemis en seront dans le deuil ; je vengerai Bijen avec tant de rigueur qu’il n’y aura dans le Touran qu’un cri de.détresse.»
+> J’élèverai si haut la fortune du roi, que tous ses ennemis en seront dans le deuil ; je vengerai Bijen avec tant de rigueur qu’il n’y aura dans le Touran qu’un cri de.détresse. »
