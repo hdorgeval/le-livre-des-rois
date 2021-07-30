@@ -18,7 +18,7 @@ order: '212'
 
 Après son long séjour à Gangue, il sentit le besoin de revoir Kaous ; il confia le commandement de ce pays à Gustehem fils de Newder, depuis Kaschgar jusqu’à la mer de la Chine et lui laissa une armée innombrable, disant :
 
-> Veille et sois heureux, étends la main sur la Chine et le Mekrau, envoie des messagers avec des lettres à chaque prince, cherche des nouvelles d’Afrasiab, pour que nous puissions en délivrer la face de la terre.»
+> Veille et sois heureux, étends la main sur la Chine et le Mekrau, envoie des messagers avec des lettres à chaque prince, cherche des nouvelles d’Afrasiab, pour que nous puissions en délivrer la face de la terre. »
 
 Il emporta du musc, des esclaves hommes et femmes, des brides d’or, des robes, des trônes, des chevaux, des tapis tels que les fournit la Chine, des choses précieuses de toute espèce produites par le pays de Mekrau et fit partir devant lui dix mille bœufs traînant des chariots chargés.
 
