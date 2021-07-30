@@ -44,7 +44,7 @@ Elle salua Rustem et lui dit :
 >
 > La sollicitude que j’éprouve pour lui ne me laisse pas dormir et les plaintes qu’il exhale remplissent mes yeux de larmes.
 >
-> Ô homme illustre, si tu vas dans l’Iran, si tu visites le pays des héros, tu verras peut-être Guiv ou le vaillant Rustem à la cour de Khosrou ; alors dis-leur que Bijen est enchaîné et qu’il périra si vous tardez a venir.»
+> Ô homme illustre, si tu vas dans l’Iran, si tu visites le pays des héros, tu verras peut-être Guiv ou le vaillant Rustem à la cour de Khosrou ; alors dis-leur que Bijen est enchaîné et qu’il périra si vous tardez a venir. »
 
 Rustem fut effrayé de ce discours et poussa contre Menijeh un cri furieux, en disant :
 
@@ -52,11 +52,13 @@ Rustem fut effrayé de ce discours et poussa contre Menijeh un cri furieux, en d
 >
 > Je ne connais pas Khosrou, ni ce jeune guer. rier ; je ne sais rien de Gouderz ni de Guiv et tes paroles me troublent le cerveau.
 >
-> Menijeh le regarda en pleurant amèrement et dans sa détresse inonda son sein de larmes de sang ; à la fin elle dit : Ô homme puissant et sage, cette réponse froide est-elle digne de toi ?
+> Menijeh le regarda en pleurant amèrement et dans sa détresse inonda son sein de larmes de sang ; à la fin elle dit :
+
+> Ô homme puissant et sage, cette réponse froide est-elle digne de toi ?
 >
 > Si tu ne veux pas me dire ce que je demande, au moins ne me chasse pas d’au-près de toi, car mon pauvre cœur se brise de dou-leur.
 >
-> Estce donc la coutume de l’Iran de refuser des nouvelles à un pauvre?»
+> Est-ce donc la coutume de l’Iran de refuser des nouvelles à un pauvre ? »
 
 Rustem lui répondit :
 
@@ -72,7 +74,7 @@ Rustem lui répondit :
 
 Il ordonna qu’on apportât sur-le-champ devant la pauvresse tout ce qu’il y avait de nourriture dans la maison et se mit à lui adresser des questions : Comment se fait-il que tu sois si malheureuse ?
 
-Pourquoi me parles-tu de ces héros et du trône du roi?pourquoi regardes-tu la route de l’Iran?»
+Pourquoi me parles-tu de ces héros et du trône du roi?pourquoi regardes-tu la route de l’Iran ? »
 
 Menijeh lui répondit :
 
@@ -89,13 +91,13 @@ Menijeh lui répondit :
 >
 > Le malheureux Bijen ne distingue dans son cachot profond ni le jour de la nuit, ni le soleil de la lune.
 >
-> Attaché par un collier, par des clous et de lourdes chaînes, il demande à Dieu de lui accorder plutôt la mort qu’une telle existence. .I e suis accablée de douleurs et mes yeux en sont desséchés.
+> Attaché par un collier, par des clous et de lourdes chaînes, il demande à Dieu de lui accorder plutôt la mort qu’une telle existence. .I suis accablée de douleurs et mes yeux en sont desséchés.
 >
 > Maintenant, si tu vas dans l’Iran, tu t’informeras de a Gouderz fils de Keschwad ; et peut-être tu verras, à
 >
-> h la cour de Khosrou, Guiv ou le vaillant Rustem.
+> la cour de Khosrou, Guiv ou le vaillant Rustem.
 >
-> Tu leur diras que Bijen est dans le malheur et que s’ils tardent à venir, il périra ; que s’ils veulent le voir, ils ne perdent pas de temps, car un rocher ferme sa prison au-dessus de sa tête et il est assis sur ses fers.»
+> Tu leur diras que Bijen est dans le malheur et que s’ils tardent à venir, il périra ; que s’ils veulent le voir, ils ne perdent pas de temps, car un rocher ferme sa prison au-dessus de sa tête et il est assis sur ses fers. »
 
 En prononçant ces paroles, Menijeh versait des larmes de tendresse ; Rustem lui répondit :
 
@@ -103,8 +105,8 @@ En prononçant ces paroles, Menijeh versait des larmes de tendresse ; Rustem lui
 >
 > Car il se peut qu’il ait pitié de toi, que sa tendresse revive et que le remords s’empare de son cœur.
 >
-> Si je ne craignais pas pour toi sa colère, je te donnerais des richesses sans mesure.»
+> Si je ne craignais pas pour toi sa colère, je te donnerais des richesses sans mesure. »
 
 Ensuite, il ordonna à ses cuisiniers d’apporter autant de mets qu’il fallait à Menijeh ; il se fit donner à lui-même une volaille rôtie toute chaude et enveloppée dans du pain mon ; et sa main prompte comme la main d’une Péri cacha un anneau dans l’intérieur de cette volaille, qu’il remit à Menijeh en disant :
 
-> Porte ceci au cachot, ô protectrice des malheureux!»
+> Porte ceci au cachot, ô protectrice des malheureux ! »
