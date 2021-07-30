@@ -16,7 +16,7 @@ order: '177'
 
 # Keï Khosrou apprend qu'Afrasiab s'avance pour l'attaquer
 
-Lorsque le maître du monde, Khosrou, eut reçu par la bouche de ses espions vigilants la nouvelle que les Turcs étaient en marche et que le roi Afrasiab amenait sestroupes de l’autre côté du fleuve et faisait passer le Djihoun à une armée sous laquelle disparaissaient les rochers et le sable, il appela les héros et leur répéta tout ce qu’il avait entendu.
+Lorsque le maître du monde, Khosrou, eut reçu par la bouche de ses espions vigilants la nouvelle que les Turcs étaient en marche et que le roi Afrasiab amenait ses troupes de l’autre côté du fleuve et faisait passer le Djihoun à une armée sous laquelle disparaissaient les rochers et le sable, il appela les héros et leur répéta tout ce qu’il avait entendu.
 
 Il choisit une armée de guerriers et de grands de l’Iran telle que les circonstances l’exigeaient, des .Iwmmes qui avaient éprouvé les malheurs et l’amertume de la vie ; ils devaient aller à Balkh au secours de Gustehem fils de Newder. il ordonna à Aschkesch Les troupes tournèrent le dos à l’orient ; et la nuit
 
@@ -34,6 +34,6 @@ Lorsque le soleil, qui brillait dans le signe du Bélier, jeta ses rayons sur to
 
 Le monde fut rempli du son des clairons et du bruit de l’armée, tous les braves se couvrirent de leurs casques de fer ; on aurait dit que la surface de la terre était d’acier et que le ciel portait une cuirasse de lances.
 
-Les deux armées demeurèrent ainsi deux jeurs et deux nuits, personne ne pronànçant un mot, les cavaliers restant à cheval des deux côtés et les fantassins se tenant devant eux.
+Les deux armées demeurèrent ainsi deux jours et deux nuits, personne ne pronànçant un mot, les cavaliers restant à cheval des deux côtés et les fantassins se tenant devant eux.
 
 On aurait dit que le monde était changé en une montagne de fer et que la voûte du ciel était revêtue d’une cuirasse.-Les astrologues étaient assis devant les deux rois, réfléchissant profondément et tenant devant eux, leurs tables astronomiques ; ils cherchaient à l’aide des astrolabes le secret du ciel pour découvrir sur qui il tournerait avec faveur ; mais le ciel regardait le champ du combat et les astrologues ne savaient que dire.
