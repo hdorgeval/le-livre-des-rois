@@ -48,7 +48,9 @@ Il se dit :
 >
 > Il ferma la cour des Keïanides et alla en soupirant et les vêtements en désordre, se laver la tête et le corps pour la prière et chercher la voie de Dieu avec le flambeau de la raison.
 >
-> Ensuite, il revêtit une robe blanche et neuve, pour adorer Dieu avec un cœur plein d’espérance ; il se rendit au lieu des prières et énonça devant le Juge bienveillant ses pensées secrètes : Ô toi qui es au-dessus des âmes les plus saintes, qui as créé le feu et la terre sombre, dirige-moi, donne-moi de lasagesse, préserve mon intelligence de l’erreur.
+> Ensuite, il revêtit une robe blanche et neuve, pour adorer Dieu avec un cœur plein d’espérance ; il se rendit au lieu des prières et énonça devant le Juge bienveillant ses pensées secrètes :
+
+> Ô toi qui es au-dessus des âmes les plus saintes, qui as créé le feu et la terre sombre, dirige-moi, donne-moi de lasagesse, préserve mon intelligence de l’erreur.
 >
 > Je t’adorerai tant que j’existerai ; j’essayerai de faire mieux que je n’ai fait ; pardonne-moi mes péchés passés, donne-moi le souci du bien et du mal.
 >
