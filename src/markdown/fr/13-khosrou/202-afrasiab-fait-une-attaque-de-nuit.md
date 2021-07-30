@@ -16,12 +16,14 @@ order: '202'
 
 # Afrasiab fait une attaque de nuit
 
-Le roi des Turcs, aussitôt que la nuit eut envahi le ciel, revêtit ses armes de combat, lui et son armée, Il appela les plus expérimentés de ses guerriers et parla longuement des choses passées ; ensuite il ajouta : Cet homme vil et traître s’est approché follement de l’armée de son grand-père.
+Le roi des Turcs, aussitôt que la nuit eut envahi le ciel, revêtit ses armes de combat, lui et son armée, Il appela les plus expérimentés de ses guerriers et parla longuement des choses passées ; ensuite il ajouta :
 
-Sans doute à cette heure ses troupes sont endormies, dispersées dans la plaine et sur la montagne ; rejetons donc de nos Cœurs toute crainte et surpre-
+> Cet homme vil et traître s’est approché follement de l’armée de son grand-père.
+>
+> Sans doute à cette heure ses troupes sont endormies, dispersées dans la plaine et sur la montagne ; rejetons donc de nos Cœurs toute crainte et surpre-
 ’nons les Iraniens à llaube du jour.
-
-Si nous réussissons à les vaincre cette nuit, vous me verrez remonter sur mon trône ; mais si notre fortune ne retrouve pas sa splendeur, c’est que tout n’est que déception et la bravoure n’est qu’un mensonge.»
+>
+> Si nous réussissons à les vaincre cette nuit, vous me verrez remonter sur mon trône ; mais si notre fortune ne retrouve pas sa splendeur, c’est que tout n’est que déception et la bravoure n’est qu’un mensonge. »
 
 Les grands approuvèrent ce plan et se. levèrent pour se préparer au combat de nuit.
 
@@ -29,11 +31,11 @@ Afrasiab choisit tu cinquante mille cavaliers de son armée, des hommes pleins d
 
 Il se fit précéder par des éclaireurs, de vieux soldats remplis d’ardeur pour le combat.
 
-Le guide des éclaireurs se rendit près du camp de Khosrou, nulle part il n’entendit une voix de garde de nuit ; il trouva tout le monde en repos ; il n’aperçut ni une ronde, ni du feu, ni un souille de vent ; personne n’avait l’air de penser aux Touraniens.
+Le guide des éclaireurs se rendit près du camp de Khosrou, nulle part il n’entendit une voix de garde de nuit ; il trouva tout le monde en repos ; il n’aperçut ni une ronde, ni du feu, ni un souffle de vent ; personne n’avait l’air de penser aux Touraniens.
 
-Voyantcela, il s’en retourna en courant. et dit :
+Voyant cela, il s’en retourna en courant et dit :
 
-> Personne parmi eux n’a l’esprit lucide ; ils dorment tous d’un sommeil de mort, ou ils ont passé leurjournée à boire du vin ; on ne voit nulle part une ronde et dans toute la plaine il n’y a debout que les broussailles.»
+> Personne parmi eux n’a l’esprit lucide ; ils dorment tous d’un sommeil de mort, ou ils ont passé leur journée à boire du vin ; on ne voit nulle part une ronde et dans toute la plaine il n’y a debout que les broussailles. »
 
 Afrasiab entendit ces paroles et son cœur en fut rempli de joie.
 
@@ -69,7 +71,7 @@ Les troupes s’avancèrent par corps d’armée, comme les vagues que soulève 
 
 On aurait dit que les vallées et les plaines n’étaient que du sang et que le soleil avait disparu de la sphère céleste ; personne n’avait pitié de son I
 
-Ne v LE LIVRE ces nons. !
+Ne ces nons. !
 
 Propre corps et la face du ciel était comme couverte de goudron.
 
@@ -79,7 +81,7 @@ Toute la plaine n’était que sangr et cervelles et le sable prit la couleur de
 
 Les cavaliers turcs, qui, dans leurs jours de loisir, regardaient comme rien la chasse aux léopards, virent qu’ils ne pouvaient lutter contre le ciel qui soulevait la terre et la poussière du désert.
 
-Khosrou, lorsqu’il vit cette tourmente qui s’élevait et le courage et la fortune des Iraniens qui s’afi’ermissaient, s’avança du centre de son armée, accompagné de Rustem, de Guiv, de Gouderz et de Thous et précédé par les timbales ; le centre entier de l’armée s’ébranla ; d’un côté marchait le roi, de l’autre Rustem ; l’air était rempli de poussière comme d’un brouillard, mais d’un brouillard d’où il pleuvait des coups de massue et d’épée ; partout on voyait des monceaux de morts comme des montagnes et des fontaines de sang jaillirent sous les deux armées ; l’air devint comme un voile bleu, la terre comme une mer de sang et tant de flèches traversaient le ciel, qu’il ressemblait à l’aile de l’aigle.
+Khosrou, lorsqu’il vit cette tourmente qui s’élevait et le courage et la fortune des Iraniens qui s’affermissaient, s’avança du centre de son armée, accompagné de Rustem, de Guiv, de Gouderz et de Thous et précédé par les timbales ; le centre entier de l’armée s’ébranla ; d’un côté marchait le roi, de l’autre Rustem ; l’air était rempli de poussière comme d’un brouillard, mais d’un brouillard d’où il pleuvait des coups de massue et d’épée ; partout on voyait des monceaux de morts comme des montagnes et des fontaines de sang jaillirent sous les deux armées ; l’air devint comme un voile bleu, la terre comme une mer de sang et tant de flèches traversaient le ciel, qu’il ressemblait à l’aile de l’aigle.
 
 Afrasiab regarda consterné, il vit paraître le brillant drapeau violet de Khosrou et cacha le sien au centre de ses troupes.
 
@@ -87,7 +89,7 @@ Il abandonna son armée rangée on Q
 
 H7 bataille, lui et les grandS’du Touran s’eul’uirent ; il emmena mille hommes vaillants de ses alliés, des . hommes propres au combat et chercha à travers la campagne la route du désert, sauvant sa vie des mains de ses ennemis en fatiguant son corps.
 
-Khosrou chercha son grand-pèredans les rangs de l’armée, il se précipita vers le centre des Turcs, pressant son cheval avec ’étrier et se hâtant, mais il ne vit pas une trace d’Afrasiab.
+Khosrou chercha son grand-père dans les rangs de l’armée, il se précipita vers le centre des Turcs, pressant son cheval avec ’étrier et se hâtant, mais il ne vit pas une trace d’Afrasiab.
 
 Les Turcs regardèrent le centre de leur armée et ne virent plus le drapeau noir ; alors ils implorèrent la grâce du roi Keïanide I et jetèrent leurs armes.
 
