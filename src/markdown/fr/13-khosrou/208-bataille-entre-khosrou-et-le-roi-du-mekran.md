@@ -16,7 +16,7 @@ order: '208'
 
 # Bataille entre Keï Khosrou et le roi du Mekran
 
-Keï Khosrou s’avançait et lorsqu’il fut près du Mekran, il choisit dans son armée un homme pleih d’expérience, l’envoya auprès du roi du Mekran et lui fit dire :
+Keï Khosrou s’avançait et lorsqu’il fut près du Mekran, il choisit dans son armée un homme plein d’expérience, l’envoya auprès du roi du Mekran et lui fit dire :
 
 > ll faut que les rois aient de l’intelligence.
 >
@@ -30,13 +30,13 @@ Keï Khosrou s’avançait et lorsqu’il fut près du Mekran, il choisit dans s
 >
 > Si mes hommes ne trouvent pas de vivres, ils vous apporteront la guerre, ils rendront étroite la terre devant leurs ennemis.
 >
-> Ainsi, si tu ne veux pas écouter mes paroles, tu marcheras dans le sang d’une multitude d’hommes ; si tu attaques ces lions, contre lesquels tu n’as aucune vengeance à exercer, tu feras dévaster tout le pays du Mekran.»
+> Ainsi, si tu ne veux pas écouter mes paroles, tu marcheras dans le sang d’une multitude d’hommes ; si tu attaques ces lions, contre lesquels tu n’as aucune vengeance à exercer, tu feras dévaster tout le pays du Mekran. »
 
-Le messager partit et s’acquitte de son message ; mais les conseils et la justice n’avaient pas accès dans cette âme ; cette tête insensée bouillonna de colère et sa cervelle se remplit de mauvaises pensée.
+Le messager partit et s’acquitta de son message ; mais les conseils et la justice n’avaient pas accès dans cette âme ; cette tête insensée bouillonna de colère et sa cervelle se remplit de mauvaises pensée.
 
 Le roi réunit son armée éparse ,se prépara à livrer bataille dans le désert et répondit à l’envoyé :
 
-> Vat’en ; retourne auprès de mon ennemi et dis-lui que la rotation de la fortune incertaine l’a rendu joyeux et puissant ; mais il éprouvera notre supériorité quand il s’avancera : il saura qui sont les braves et les héros.»
+> Vat’en ; retourne auprès de mon ennemi et dis-lui que la rotation de la fortune incertaine l’a rendu joyeux et puissant ; mais il éprouvera notre supériorité quand il s’avancera : il saura qui sont les braves et les héros. »
 
 Aussitôt que l’envoyé du roi fut parti, tout le Mekran se remplit de clameurs, l’armée occupa tout le pays d’une chaîne de montagnes à l’autre, elle occupa le désert et le Mekran.
 
@@ -52,13 +52,13 @@ Tokhar, le gardien du camp iranien, qui n’avait jamais peur d’un combat, arr
 
 Il le frappa de l’épée et le coupa en deux et le cœur du roi du Mekran se remplit de terreur.
 
-Les LE LIVRE ces deux armées formèrent leurs lignes et le ciel disparut sons la poussière qu’elles soulevaient ; elles s’approchèrent comme deux montagnes et se jetèrent l’une sur l’autre avec toute leur masse.
+Les ces deux armées formèrent leurs lignes et le ciel disparut sous la poussière qu’elles soulevaient ; elles s’approchèrent comme deux montagnes et se jetèrent l’une sur l’autre avec toute leur masse.
 
 Le Sipehdar Thous s’avança du centre et le monde fut rempli du son des clairons et des timbales ; Thous était précédé par le drapeau de Kaweh et suivi par les héros aux bottines d’or ; l’air fut obscurci par les javelines et les plumes des flèches, la terre devint comme une mer de poix.
 
 Thous frappa le roi du Mekran au milieu de son armée et l’âme du roi s’envola par la blessure.
 
-Un homme dit à Khosrou .-O roi, coupons-lui la tête!»
+Un homme dit à Khosrou .-O roi, coupons-lui la tête ! »
 
 Mais il répondit :
 
@@ -68,7 +68,7 @@ Mais il répondit :
 >
 > Il ne faut pas mettre à nu cet homme qui a été ainsi frappé à travers sa cuirasse.
 >
-> Préparez-lui un tombeau et versez du musc et de l’eau de rose sur lui comme si c’était de l’eau simple ; couvrez son visage avec des brocarts de Chine, car il est mort de la mort des grands.»
+> Préparez-lui un tombeau et versez du musc et de l’eau de rose sur lui comme si c’était de l’eau simple ; couvrez son visage avec des brocarts de Chine, car il est mort de la mort des grands. »
 
 Dix mille hommes de cette armée, des cavaliers et des héros qui perçaient leurs ennemis avec l’épée,
 "furent tués, mille cent quarante furent faits prisonniers et la tête de ceux qui survivaient était remplie de terreur.
@@ -83,7 +83,7 @@ Se !
 
 Knossos. grand nombre d’entre eux s’emparèrent de trônes et de diadèmes.
 
-On entendit dans les villes et les caurpagnes les lamentations des femmes ; tout le désert et tout le Mekran étaient remplis de terreur.
+On entendit dans les villes et les campagnes les lamentations des femmes ; tout le désert et tout le Mekran étaient remplis de terreur.
 
 On mit le feu aux portes des villes et le ciel semblait s’écrouler sur la terre.
 
@@ -95,13 +95,13 @@ Tous les hommes de bien de ce pays vinrent auprès du roi pour demander pardon, 
 > Nous sommes innocents et réduits au désespoir, nous avons toujours été opprimés
 ’ par des tyrans.
 >
-> Si un roi voit un innocent, il est digne de lui d’en avoir pitié.»
+> Si un roi voit un innocent, il est digne de lui d’en avoir pitié. »
 
-Lorsque le roi fortuné entendit ces paroles, il fit faire une proclamation à l’armée et l’on cria à haute voix sous la porte de l’enceinte de la tente royale : Ô Pehlewans, hommes de bon conseil, si dorénavant il s’élève un seul cri provoqué par l’injustice, la rapine, les rixes et la turbulence, je ferai couper en deux ceux qui commettent des violences et qui ne craignent pas r Dieu, le distributeur de la justice.»
+Lorsque le roi fortuné entendit ces paroles, il fit faire une proclamation à l’armée et l’on cria à haute voix sous la porte de l’enceinte de la tente royale :
 
-LE LIVRE DES nons.
+> Ô Pehlewans, hommes de bon conseil, si dorénavant il s’élève un seul cri provoqué par l’injustice, la rapine, les rixes et la turbulence, je ferai couper en deux ceux qui commettent des violences et qui ne craignent pas Dieu, le distributeur de la justice. »
 
-Le roi du monde resta un an dans le Mekran ; il lit amener de tous côtés des constructeurs de navires et lorsque le printemps vint, que la terre verdit, que les montagnes se couvrirent d’anémones et les plaines d’herbages et que les pâturages des chevaux et les réserves de chasse se parèrent de roses et des fleurs des arbres fruitiers, le roi enjoignit à Aschkesch de rester avec une armée dans le Mekran, avec l’ordre d’y maintenir son autorité, de ne faire que ce qui est bien et droit et de n’entreindre en rien la justice.
+Le roi du monde resta un an dans le Mekran ; il fit amener de tous côtés des constructeurs de navires et lorsque le printemps vint, que la terre verdit, que les montagnes se couvrirent d’anémones et les plaines d’herbages et que les pâturages des chevaux et les réserves de chasse se parèrent de roses et des fleurs des arbres fruitiers, le roi enjoignit à Aschkesch de rester avec une armée dans le Mekran, avec l’ordre d’y maintenir son autorité, de ne faire que ce qui est bien et droit et de n’entreindre en rien la justice.
 
 Lui-même quitta la ville et prit le chemin du désert, déterminé à supporter toutes les fatigues.
 
