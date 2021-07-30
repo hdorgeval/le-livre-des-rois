@@ -18,7 +18,7 @@ order: '144'
 
 Khosrou, aussitôt que Hedjir l’eut quitté, tint conseil avec son secrétaire ; il était si rempli de sollicitude pour son armée, qu’il ne pensait qu’à livrer bataille, disant :
 
-> Si Afrasiab mettait son armée en marche et passait le Djihoun, il ferait reculer mes troupes : il faut donc que je parte moi-même ; c’est le seul parti que je puisse prendre.»
+> Si Afrasiab mettait son armée en marche et passait le Djihoun, il ferait reculer mes troupes : il faut donc que je parte moi-même ; c’est le seul parti que je puisse prendre. »
 
 Il fit venir sur-le-champ le chef de la famille de Newder et lui ordonna d’entrer à l’instant en campagne, de marcher contre le Dehistân et d’occuper avec ses troupes toutes les plaines du Kharezm ; d’avoir grand soin de l’armée au jour de la bataille et de combattre comme un léopard.
 
@@ -50,11 +50,11 @@ A02 Le Sipehdar invoqua les grâces de Dieu sur le roi et baisa la terre en sign
 
 Hedjir apporta la lettre du roi fortuné et la posa devant le secrétaire, qui la lut devant les braves et fit connaître les conseils et les ordres de Khosrou.
 
-Le Sipehdar manda les payeurs de l’armée. et se plaça dans la salle d’audience pour distribuer de l’or ; il fit amener en masse dans le camp tous les troupeaux de chevaux qu’il possédait dans la montagne ; il remit aux payeurs les clefs de tous ses trésors d’or, d’épées, de ceintures, de riches cuirasses et de casques d’or ; et comme le temps de combattre s’approchait, il prodigua à l’armée toutes ces richesses et en combla les cavaliers et les fantassins.
+Le Sipehdar manda les payeurs de l’armée et se plaça dans la salle d’audience pour distribuer de l’or ; il fit amener en masse dans le camp tous les troupeaux de chevaux qu’il possédait dans la montagne ; il remit aux payeurs les clefs de tous ses trésors d’or, d’épées, de ceintures, de riches cuirasses et de casques d’or ; et comme le temps de combattre s’approchait, il prodigua à l’armée toutes ces richesses et en combla les cavaliers et les fantassins.
 
 Il réunit une armée semblable à une montagne ; la terre pliait sous les chevaux aux pieds de vent ; le cœur des lions tremblait devant ces hommes couverts de fer, d’or et d’argent.
 
-Gouderz leur commanda de se préparer au combat. et d’être tout cœurs, tout oreilles et tout yeux pour la vengeance.
+Gouderz leur commanda de se préparer au combat et d’être tout cœurs, tout oreilles et tout yeux pour la vengeance.
 
 Ils défilèrent par corps d’armée devant le Sipehbed, formant une masse semblable à une montagne.
 
@@ -62,6 +62,6 @@ Leur vaillant chef regarda cette multitude ; il vit que la terre en devenait som
 
 > Depuis le temps du grand Djem-
 >
-> Un . schid, personne n’a couvert ainsi un champ de bataille de chevaux, d’armures, d’or et d’argent, d’éléphants de guerre et de lions courageux ; et si le Créateur m’est favorable, je secouerai la bride de mon cheval d’ici jusqu’au pays de Chine.»
+> Un . schid, personne n’a couvert ainsi un champ de bataille de chevaux, d’armures, d’or et d’argent, d’éléphants de guerre et de lions courageux ; et si le Créateur m’est favorable, je secouerai la bride de mon cheval d’ici jusqu’au pays de Chine. »
 
 Ensuite, il rentra dans sa tente et appela ses conseillers ; il s’assit avec les grands de l’armée pour entendre de la musique et but joyeusement en tenant conseil avec les héros sur le prochain combat.
