@@ -18,7 +18,7 @@ order: '130'
 
 Rustem écouta ces paroles, il eut honte d’être resté si longtemps hors de son page et conçut un désir ardent de partir.
 
-Il fit amener de tous côtés les troupeaux de chevaux qui paissaient dans les plaines du Touran ; il rassembla dix mille esclaves des deux sexes, dignes d’être ofl’erts au roi ; il amassa des bourses de musc et des peaux de zibeline, de petitgris, d’hermine et de marte brune ; il fit parer magnifiquement et couvrir de brocart d’or le dos des éléphants mâles ; il fit porter dans le palais des caparaçons et toute espèce de choses précieuses, des étoffes, de l’or et de l’argent, des épées, des cuirasses, des trônes et des couronnes et les fit charger sur des bêtes de somme.
+Il fit amener de tous côtés les troupeaux de chevaux qui paissaient dans les plaines du Touran ; il rassembla dix mille esclaves des deux sexes, dignes d’être offerts au roi ; il amassa des bourses de musc et des peaux de zibeline, de petitgris, d’hermine et de marte brune ; il fit parer magnifiquement et couvrir de brocart d’or le dos des éléphants mâles ; il fit porter dans le palais des caparaçons et toute espèce de choses précieuses, des étoffes, de l’or et de l’argent, des épées, des cuirasses, des trônes et des couronnes et les fit charger sur des bêtes de somme.
 
 Ensuite, il quitta le Touran et se rendit dans le Zaboulistan auprès de l’illustre Destan.
 
