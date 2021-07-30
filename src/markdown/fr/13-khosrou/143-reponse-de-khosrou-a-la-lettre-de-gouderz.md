@@ -28,7 +28,7 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Ta bonne étoile a lui sur toi et nos ennemis ont été à l’instant réduits en poussière.
 >
-> Tu me dis d’abord que tu as envoyé Guiv avec des grands, de sages et vaillants conseillers, auprès de Pirau et que tu lui as fait adresser des conseils excellents, mais que tes avis n’ont pas eu de prise’sur lui et qu’il n’a pas voulu ce faire de convention avec toi.
+> Tu me dis d’abord que tu as envoyé Guiv avec des grands, de sages et vaillants conseillers, auprès de Pirau et que tu lui as fait adresser des conseils excellents, mais que tes avis n’ont pas eu de prise sur lui et qu’il n’a pas voulu ce faire de convention avec toi.
 >
 > Et à propos de ce refus qui t’a autorisé à commencer la guerre, tu me dis encore que tout homme dans l’âme duquel les sentiments d’humanité s’éteignent renonce au bonheur et se livre à sa mauvaise étoile.
 >
@@ -61,7 +61,7 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Puisses-tu être, dans tout ce que tu entreprends, le compagnon de la fortune !
 >
-> Sur la route de l’lnde et du Kaschmir que Rustem au cœur de lion a suivie, la poussière de la destruction s’est élevée.
+> Sur la route de l’Inde et du Kaschmir que Rustem au cœur de lion a suivie, la poussière de la destruction s’est élevée.
 >
 > Du côté du Kharezm où s’est porté le prudent Aschkesch, on n’a entendu qu’un seul cri ; Schideh s’est enfui devant lui dans la bataille et a tourné vers le pays de Guerguentsch.
 >
@@ -87,6 +87,6 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Ne crains pas une attaque d’Afrasiab ; ranime ton courage et ne détourne pas ton visage de lui ; tu le vaincras dans la bataille, si tu ne laisses pas faiblir ton cœur. l’espère en Dieu le créateur, qu’il rendra heureuse ma destinée.
 >
-> Je penSe que lorsque j’aurai conduit mes troupes sur les derrières de l’armée des Turcs, que lorsque de votre côté vous marcherez contre eux, vous obtiendrez la victoire et porterez votre nom jusqu’au soleil brillant ; dès lors nos armées seront dispensées de combattre et toutes nos affaires prospéreront.»
+> Je penSe que lorsque j’aurai conduit mes troupes sur les derrières de l’armée des Turcs, que lorsque de votre côté vous marcherez contre eux, vous obtiendrez la victoire et porterez votre nom jusqu’au soleil brillant ; dès lors nos armées seront dispensées de combattre et toutes nos affaires prospéreront. »
 
 Le roi ajouta beaucoup de salutations que Kaous et Thous envoyaient aux troupes, ensuite il apposa son sceau sur la lettre, la remit au messager et le bénit.
