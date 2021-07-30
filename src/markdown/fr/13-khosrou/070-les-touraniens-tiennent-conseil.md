@@ -160,7 +160,7 @@ Il s’avança alors vers le Khakan et lui dit :
 >
 > Et pourtant Siawusch était un homme de sens et un noble personnage, dont Rustem du Zaboulistan était le père nourricier.
 >
-> A présent sa mort nous amène la guerre et les vengeances ;
+> À présent sa mort nous amène la guerre et les vengeances ;
 >
 > Elle fait que le ciel s’abaisse sur la terre.
 >
@@ -224,7 +224,7 @@ L’assemblée écouta Schenkoul, les cœurs des vieillards rajeunirent ; Piran 
 
 > Puisses-tu vivre heureux !
 >
-> Puisse ton âme se nourrir de combats!»
+> Puisse ton âme se nourrir de combats ! »
 
 Et les grands et le Khakan offrirent leurs hommages au roi de l’Inde.
 
