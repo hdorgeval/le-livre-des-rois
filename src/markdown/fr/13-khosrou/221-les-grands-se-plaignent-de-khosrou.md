@@ -42,13 +42,13 @@ Les grands, les vainqueurs des éléphants, les hommes au visage de lion, comme 
 >
 > Si le roi nous en veut pour quelque chose, si sa tristesse est la suite de nos fautes, qu’il le dise et nous rendrons la joie à son âme en nous repentant avec des larmes de sang et du feu dans le cœur ; ou, s’il a en secret un ennemi, que le roi de la terre nous l’indique ; tous les rois qui portent des couronnes mettent l’honnent de leur trône et de leur diadème à tuer tes ennemis ou à perdre leur vie une fois qu’ils ont placé sur leur tête le casque des braves.
 >
-> Que le roi nous dise son secret et cherche avec nous le remède à son mal.»
+> Que le roi nous dise son secret et cherche avec nous le remède à son mal. »
 
 Le roi illustre leur répondit :
 
 > Ô Pehlewans qui demandez la voie à suivre !
 >
-> Aucunennemi dans le monde ne me cause de souci ; aucun de mes trésors n’est dissipé ; l’armée ne me donne aucun chagrin et aucun de vous n’a commis de faute envers moi.
+> Aucun ennemi dans le monde ne me cause de souci ; aucun de mes trésors n’est dissipé ; l’armée ne me donne aucun chagrin et aucun de vous n’a commis de faute envers moi.
 >
 > Depuis que j’ai vengé mon père, j’ai rétabli partout la justice et la foi et il ne reste pas une poignée de terre noire qui n’ait reçul’empreinte de mon sceau.
 >
@@ -64,11 +64,11 @@ Le roi illustre leur répondit :
 >
 > !
 >
-> De juste ou d’injuste nous vient de lui.»
+> De juste ou d’injuste nous vient de lui. »
 
 Les Pehlewans quittèrent le roi, remplis de douleur et d’incertitudes et Khosrou ordonna au grand chambellan de s’asseoir derrière le rideau de la salle d’audience et de ne laisser entrer personne auprès de lui, ni des étrangers ni ses familiers.
 
-A la nuit il se rendit au lieu de ses prières et ouvrit les lèvres devant Dieu le juste, le Seigneur, disant :
+À la nuit il se rendit au lieu de ses prières et ouvrit les lèvres devant Dieu le juste, le Seigneur, disant :
 
 > Ô toi qui es plus grand que les plus grands, qui favorises ceux qui sont purs et bons, sois mon guide
 > ’vers le ciel, pour que je puisse quitter ce séjour passager sans que mon cœur se soit tourné vers le mal et de manière que mon âme trouve une place dans le séjour des heureux.
