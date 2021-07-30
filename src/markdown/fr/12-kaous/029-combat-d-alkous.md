@@ -18,7 +18,7 @@ order: '029'
 
 Afrasiab observait tout et voyant ce qui se passait, il exhala un soupir de sa poitrine et demanda :
 
-> Où est donc Alkous le brave qui a tant souhaité le combat des lions, qui dans son ivresse a désiré voir devant lui Guiv, qui s’est préparé à prendre surlui tout le poids du combat contre Rustem et qui n’a pas cessé de parler du pays d’Iran ?
+> Où est donc Alkous le brave qui a tant souhaité le combat des lions, qui dans son ivresse a désiré voir devant lui Guiv, qui s’est préparé à prendre sur lui tout le poids du combat contre Rustem et qui n’a pas cessé de parler du pays d’Iran ?
 >
 > Où est donc maintenant son ardeur et son arrogance ? »
 
