@@ -18,7 +18,7 @@ order: '156'
 
 Le troisième Touranien qui s’avança sur le champ de bataille fut Siamek, qui avait à combattre Gourazeh.
 
-Ils tenaient tous deux leur lance à la main et poussaient (les cris comme (les éléphants en rut ; leur tête était remplie de colère, d’envie de combattre et du désir de la vengeance.
+Ils tenaient tous deux leur lance à la main et poussaient des cris comme des éléphants en rut ; leur tête était remplie de colère, d’envie de combattre et du désir de la vengeance.
 
 Ensuite ils saisirent leur lourde massue ; ils bondissaient connue des lions courageux, ils se frappaient l’un l’autre sur la tête ; leur langue se fendait de soif ; ils se serraient de près dans ce combat acharné.
 
