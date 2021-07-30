@@ -16,37 +16,39 @@ order: '169'
 
 # Bijen suit les traces de Gustehem
 
-Bijen se ceignit et se prépara au combat, il lit seller son cheval Schebreng.
+Bijen se ceignit et se prépara au combat, il fit seller son cheval Schebreng.
 
 Guiv apprit ce que faisait Bijen et qu’il s’apprêtait à combattre Ferschidwerd ; il se mit debout à l’instant, monta sur un cheval arabe et courut comme un tourbillon de fumée sur la route.
 
 Lorsqu’il eut atteint Bijen, il tira à lui brusquement la bride de son cheval, disant :
 
 > Je t’ai adressé bien des discours, mais tu ne veux jamais te rendre à mon avis, de manière que je puisse être content de toi une seule fois.
+>
+> Où cours-tu donc ainsi ?
+>
+> Ne cherche pas en toute occasion à me désoler ; dis quel nouveau malheur tu veux infliger à ton vieux père.
+>
+> Je n’ai d’autre enfant que toi dans le monde et mon âme n’est jamais heureuse, tant tu me donnes d’allliction.
+>
+> Tu es resté en selle pendant dix jours et dix nuits, tenant levé sur tes ennemis le glaive de la vengeance.
+>
+> Ton corps est usé par la cotte de mailles qui le couvre et cependant tu ne veux pas cesser de verser du sang.
+>
+> Quand Dieu le dispensateur de tout bien nous a donné la fortune victorieuse, il faut s’asseoir joyeusement et se reposer.
+>
+> Pourquoi joues-tu avec la tête devant le sort ?
+>
+> Tu as donc bien de la confiance dans cette épée que tu portes ?
+>
+> Quand on ne regarde pas le but, on n’atteint pas souvent ce qu’on espère de la vie.
+>
+> Ne provoque pas si souvent le deslin, il n’a
+>
+> A déjà que trop les yeux sur nous.
+>
+> Renonce à cette entreprise par égard pour ton père, car il ne te sied pas d’alliiger mon cœur. »
 
-Où cours-tu donc ainsi ?
-
-Ne cherche pas en toute occasion à me désoler ; dis quel nouveau malheur tu veux infliger à ton vieux père.
-
-Je n’ai d’autre enfant que toi dans le monde et mon âme n’est jamais heureuse, tant tu me donnes d’allliction.
-
-Tu es resté en selle pendant dix jours et dix nuits, tenant levé sur tes ennemis le glaive de la vengeance.
-
-Ton corps est usé par la cotte de mailles qui le couvre et cependant tu ne veux pas cesser de verser du sang.
-
-Quand Dieu le dispensateur de tout bien nous a donné la fortune victorieuse, il faut s’asseoir joyeusement et se reposer.
-
-Pourquoi joues-tu avec la tête devant le sort ?
-
-Tu as donc bien de la confiance dans cette épée que tu portes ?
-
-Quand on ne regarde pas le but, on n’atteint pas souvent ce qu’on espère de la vie.
-
-Ne provoque pas si souvent le deslin, il n’a
-
-A déjà que trop les yeux sur nous.
-
-Renonce à cette entreprise par égard pour ton père, car il ne te sied pas d’alliiger mon cœurm Bijen lui répondit :
+Bijen lui répondit :
 
 > Ô homme plein d’intelligence, le monde portera un jugement défavorable sur ton compte.
 >
@@ -60,25 +62,25 @@ Renonce à cette entreprise par égard pour ton père, car il ne te sied pas d�
 >
 > Il n’est pas nécessaire de faire la : dessus de longs discours.
 >
-> Ne me détourne pas de ce combat, car j’ai voué ma vie à cette entreprise.»
+> Ne me détourne pas de ce combat, car j’ai voué ma vie à cette entreprise. »
 
 Guiv répondit :
 
-> Si tu ne t’en retournes pas, il vaut mieux que tu ne parcoures pas sans moi ces montées et ces descentes et qu’au jour du combat je sois ton compagnon dans tous les dangers.»
+> Si tu ne t’en retournes pas, il vaut mieux que tu ne parcoures pas sans moi ces montées et ces descentes et qu’au jour du combat je sois ton compagnon dans tous les dangers. »
 
 Bijen lui dit :
 
 > Puisse-t-il n’arriver jamais que trois grands de la famille de Khosrou fassent une si longue route à cause de deux Turcs frappés de terreur.
 >
-> Je te conjure par la vie et la tête du noble roi, par la vie de mon grand-père le Pehlewan illustre et par lavengeance due à Siawusch, de t’en retourner de ce champ de bataille et de me laisser pour-
+> Je te conjure par la vie et la tête du noble roi, par la vie de mon grand-père le Pehlewan illustre et par la vengeance due à Siawusch, de t’en retourner de ce champ de bataille et de me laisser pour-
 >
 > A8ü suivre ma route.
 >
-> Je ne veux pas obéir à ton ordre de renoncer à ce combat.»
+> Je ne veux pas obéir à ton ordre de renoncer à ce combat. »
 
 À ces paroles Guiv se détermina à s’en retourner et il le laissa partir en le bénissant et en disant :
 
-> Puisses-tu partir victorieux et revenir sain et sauf, la joie dans le cœur et après avoir enchaîné la main du mal.»
+> Puisses-tu partir victorieux et revenir sain et sauf, la joie dans le cœur et après avoir enchaîné la main du mal. »
 
 Bijen s’élança sur les traces de Gustehem, en qui étaient concentrés tous ses soucis et toutes ses joies ; il courut après lui sur la route, pour aller combattre les cavaliers de l’armée du Touran.
 
