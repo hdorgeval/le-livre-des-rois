@@ -38,7 +38,7 @@ Quelques instants s’étant ainsi passés, le roi revint à lui et vit le monde
 
 On apporta des flambeaux et Afrasiab s’assit sur le trône, tremblant comme une branche d’arbre.
 
-Guersiwez avide de gloire lui demanda d’ouvrir ses lèvres etvde raconter cette aventure étonnante.
+Guersiwez avide de gloire lui demanda d’ouvrir ses lèvres ét de raconter cette aventure étonnante.
 
 Le glorieux Afrasiab répondit :
 
