@@ -94,7 +94,7 @@ Rustem, de son côté, convoqua les héros, comme Thous et Rehham, Gouderz et Gu
 >
 > Le monde est rempli de trésors, de couronnes et de trônes et tout cela sera le partage de celui à qui la fortune sourit.
 
-A ces mots Gouderz se leva et lui dit :
+À ces mots Gouderz se leva et lui dit :
 
 > Ô lion plein de justice et de droiture, tu es le pilier de l’armée et l’ornement de la cour ;
 >
