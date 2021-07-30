@@ -16,13 +16,13 @@ order: '216'
 
 # Kaous et Khosrou se rendent auprès de Houm
 
-Kaous était absorbé dans ses penséessur cet événement, pendant qu’il se rendait auprès de l’ermite.
+Kaous était absorbé dans ses pensées sur cet événement, pendant qu’il se rendait auprès de l’ermite.
 
 Lorsque Houm aperçut le visage et la couronne des rois, il leur rendit les hommages qui leur étaient dus et les rois invoquèrent sur lui les grâces de Dieu le créateur du monde.
 
 Kaous lui dit :
 
-> Grâces soient rendues à Dieu, qui est notre refuge, de ce que j’ai vu un homme pieux, puissant, sage et fort.»
+> Grâces soient rendues à Dieu, qui est notre refuge, de ce que j’ai vu un homme pieux, puissant, sage et fort. »
 
 Houm, le serviteur de Dieu, répondit :
 
@@ -44,7 +44,9 @@ Je descends de la cime de la montagne vers cette caverne étroite, tenant en mai
 
 Je le lie dur comme pierre avec mon lacet, je le traîne misérablement hors de l’antre étroit ; sur ses instances je relâche les nœuds du lacet, et, arrivé au bord du lac, il se défait de ses liens ; dans ce moment il est caché dans l’eau ; mais on doit espérer dans le juge suprême du monde.
 
-Si le ciel veut le perdre, ce sera par Guersiwez, pour lequel son sang bouillonne de tendresse et si le grand roi veut ordonner qu’on amène son frère les pieds liés et qu’il soit cousu dans une peau de vache jusqu’à ce qu’il s’évanouisse, alors Afrasiab sortira sans doute de l’eau, quand il entendra les cris de son frère. v Le roi ordonna aux gardes du palais de partir armés de leurs épées et de leurs boucliers du Ghilan et l’on amena le malheureux Guersiwez, qui avait causé tant de trouble dans le monde.
+Si le ciel veut le perdre, ce sera par Guersiwez, pour lequel son sang bouillonne de tendresse et si le grand roi veut ordonner qu’on amène son frère les pieds liés et qu’il soit cousu dans une peau de vache jusqu’à ce qu’il s’évanouisse, alors Afrasiab sortira sans doute de l’eau, quand il entendra les cris de son frère. »
+
+Le roi ordonna aux gardes du palais de partir armés de leurs épées et de leurs boucliers du Ghilan et l’on amena le malheureux Guersiwez, qui avait causé tant de trouble dans le monde.
 
 Kaous dit au bourreau de le traîner devant lui, de lui arracher du visage le voile qui couvrait sa honte, de coudre sur ses épaules une peau fraîche de vache, de manière à
 ôter toute force à son corps.
@@ -63,7 +65,7 @@ Où sont ton savoir et la puissance de ta main, où sont les grands dévoués au
 
 Où sont ta gloire et ton renom dans les combats, où sont ton palais etta coupe célèbres dans les festins, pour que maintenant tu aies besoin de te cacher sous les eaux ?
 
-Voici donc le sort que l’étoile du Div t’a préparé!»
+Voici donc le sort que l’étoile du Div t’a préparé ! »
 
 Afrasiab se mit à pleurer lorsqu’il entendit ces paroles et versa des larmes de sang dans l’eau du lac.
 
@@ -75,4 +77,4 @@ Il répondit :
 >
 > Faut-il qu’un descendant de Feridoun, qu’un fils de Pescheng soit ainsi tombé dans les filets du crocodile !
 >
-> Ta peau se fend sous ce cuir de vache et je ne vois personne qui dans son âme ait pitié de toi.»
+> Ta peau se fend sous ce cuir de vache et je ne vois personne qui dans son âme ait pitié de toi. »
