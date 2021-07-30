@@ -20,7 +20,7 @@ Le lendemain dans on disposa les troupes ; des deux côtés on arbora les étend
 
 Tehemten conduisit son armée sur le champ de bataille et voyant
 
-Les trois rois et leurs armées, il dit à ses braves qui portaienthaut la tête :
+Les trois rois et leurs armées, il dit à ses braves qui portaient haut la tête :
 
 > Ne fermez pas vos paupières aujourd’hui, regardez la crinière et le cou, la tête et la bride de vos chevaux, tenez les yeux ouverts sur le fer de vos lances.
 >
@@ -66,7 +66,7 @@ Ils en convinrent et conclurent le traité et les armées des trois royaumes se 
 
 Le roi du Hamaveran étant arrivé dans sa ville et s’étant concerté avec ses conseillers, envoya chercher Kaous et lui céda sa place sur le trône selon les convenances.
 
-Rustem ayant fait sortir de la forteresse Kaous, Guiv, Gouderz et Thous, déposa dans le tréser du roi de l’Iran les armes des trois armées, les trésors des trois reis, les tentes des troupes, les conrennes et les trônes et y ajouta tout ce qu’il vit de précieux.
+Rustem ayant fait sortir de la forteresse Kaous, Guiv, Gouderz et Thous, déposa dans le tréser du roi de l’Iran les armes des trois armées, les trésors des trois reis, les tentes des troupes, les couronnes et les trônes et y ajouta tout ce qu’il vit de précieux.
 
 Kaous, qui brillait comme le soleil, fit préparer une couche d’or avec des brocarts de Roum une couronne de rubis et un trône de turquoises ; il fit broder de pierres fines une housse noire et la fit mettre sur une haquenée qui allaitl’amble, dont la tête était ornée de rênes dorées, dent la selle était haute, faite de bois frais d’aleès et incrustée de toute espèce de pierreries.
 
