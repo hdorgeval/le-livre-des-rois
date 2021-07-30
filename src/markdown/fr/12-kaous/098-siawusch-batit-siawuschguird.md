@@ -30,9 +30,9 @@ On chargea de bagages précieux mille chameaux femelles au poil roux ; on charge
 Dix mille ca-
 Il. valiers iraniens et touraniens, choisis et prêts à frapper de l’épée, les escortaient et ce cortège était pré-I cédé par les trésors du roi et par les litières qui renfermaient de belles femmes parées.
 
-Siawusch emmena avec lui trente charges de chameau de rubis, de turquoises dignes d’un roi, de colliers, de couronnes incrustées de pierreries, d’ambre, de bois de sandal, de musc et d’autres parfums, enfin de brocarts et de trônes couverts de soie tirée de l’Egypte, de la Perse et de la Chine.
+Siawusch emmena avec lui trente charges de chameau de rubis, de turquoises dignes d’un roi, de colliers, de couronnes incrustées de pierreries, d’ambre, de bois de sandal, de musc et d’autres parfums, enfin de brocarts et de trônes couverts de soie tirée de l’Égypte, de la Perse et de la Chine.
 
-Le roi et son glorieux corte’ge se dirigèrent vers le beau pays de Behar, et, arrivé dans ce pays, Siawusch indiqua de la main un endroit et fit préparer un emplacement long et large de deux linsangs.
+Le roi et son glorieux cortège se dirigèrent vers le beau pays de Behar, et, arrivé dans ce pays, Siawusch indiqua de la main un endroit et fit préparer un emplacement long et large de deux linsangs.
 
 Il y fonda une ville renfermant de hauts palais, des jardins et de beaux parterres de roses : il fit couvrir sa salle d’audience de peintures représentant des rois, des. fêtes et des scènes de guerre.
 
