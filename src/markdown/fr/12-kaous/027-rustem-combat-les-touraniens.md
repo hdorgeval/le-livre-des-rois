@@ -44,7 +44,7 @@ Mais tout à coup il se jeta vivement dans le fort de la bataille, plein de col�
 
 Rustem le vit, plaça sur l’épaule sa lourde massue et serra Raksch entre ses jambes.
 
-Il courut bravement au-devant des ennemis, en rugissantcomme un lion furieux et suivi par le fils de Keschwad armé d’une cuirasse et d’une massue d’acier, ainsi que par les cavaliers et les braves du pays d’Iran tenant en main des massues, des flèches et des arcs.
+Il courut bravement au-devant des ennemis, en rugissant comme un lion furieux et suivi par le fils de Keschwad armé d’une cuirasse et d’une massue d’acier, ainsi que par les cavaliers et les braves du pays d’Iran tenant en main des massues, des flèches et des arcs.
 
 Tandis que les yeux des Touraniens s’obscurcissaient et que Rustem élevait son casque jusqu’au ciel, le roi Afrasiab dit à Piran fils de Wiseh :
 
