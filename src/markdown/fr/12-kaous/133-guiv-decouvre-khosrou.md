@@ -66,7 +66,7 @@ Le héros qui était à la recherche du roi parcourait tristement la forêt, lor
 >
 > Il tenait en main une coupe remplie de vin et portait sur la tête un bouquet de fleurs de toutes couleurs.
 >
-> Sa taille était empreinte de cette majesté que donne la grâce de Dieu, son visage annonçait l’intelligence d’un sage ; tu aurais dit que c’était Siawusch a5sis sur son trône d’ivoire et portant sa couronne de corail.
+> Sa taille était empreinte de cette majesté que donne la grâce de Dieu, son visage annonçait l’intelligence d’un sage ; tu aurais dit que c’était Siawusch assis sur son trône d’ivoire et portant sa couronne de corail.
 >
 > Son visage exhalait un parfum d’amour et ses cheveux embellissaient sa couronne dejleurs.
 >
@@ -147,7 +147,7 @@ Le roi de la terre le pressa contre son sein et dans sa joie il le bénit ; ensu
 
 Guiv lui répondit :
 
-> Ô Keïanide maître du a monde, portanthaut la tête, prudent, bienheureux, roi de la terre, connaissant la bonne et la mauvaise fortune !
+> Ô Keïanide maître du a monde, portant haut la tête, prudent, bienheureux, roi de la terre, connaissant la bonne et la mauvaise fortune !
 >
 > Si tu m’avais donné le paradis entier elles sept zones de la terre avec l’empire du monde, si tu m’avais donné le pouvoir et la couronne des Keïanides, mon cœur n’en serait pas aussi joyeux que de t’avoir trouvé dans le pays de Touran.
 >
