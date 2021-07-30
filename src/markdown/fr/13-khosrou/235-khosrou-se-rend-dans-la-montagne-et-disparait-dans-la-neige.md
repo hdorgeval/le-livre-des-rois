@@ -26,13 +26,13 @@ Il ordonna à Lohrasp de s’en retourner et ajouta :
 >
 > Rappelle-toi que tu ne tarderas pas à partir, que la route qui te conduit auprès de Dieu est difficile à percevoir.
 >
-> Cherche toujours la justice et exerce la toujours ; honore ceux qui sont les meilleurs dans le monde.»
+> Cherche toujours la justice et exerce la toujours ; honore ceux qui sont les meilleurs dans le monde. »
 
 Lohrasp descendit de cheval à l’instant, baisa la terre et resta absorbé par la douleur.
 
 Le roi lui dit adieu, ajoutant :
 
-> Sois la trame et la chaîne de la justice.»
+> Sois la trame et la chaîne de la justice. »
 
 Quelques chefs de l’armée, des grands pleins de vigilance et des héros partirent avec Khosrou : c’étaient le Destan, Rustem, Gouderz, Guiv, ensuite Bijen le vaillant et le courageux Gustehem ; le septième était Feribourz fils de Kaous ; enfin le huitième’, l’illustre Thous.
 
@@ -52,7 +52,7 @@ Lorsque le soleil leva sa tête au-dessus de la montagne, il s’assembla une fo
 >
 > Qu’as-tu fait de ton savoir, de ton intelligence et de ta sagesse, toi qui a vu le Serosch, qui n’était pas apparu, même à Feridoun ?
 >
-> Nous prierons tous Dieu, nous ferons tous nos adorations dans le temple du feu, espérant que Dieu, le très-saint, aura pitié de nous et qu’il éclairera ton cœur de Mobed en notre faveur.»
+> Nous prierons tous Dieu, nous ferons tous nos adorations dans le temple du feu, espérant que Dieu, le très-saint, aura pitié de nous et qu’il éclairera ton cœur de Mobed en notre faveur. »
 
 Le roi des rois, confondu, appela les plus puissants parmi ceux qui se trouvaient dans cette foule et leur dit :
 
@@ -60,7 +60,7 @@ Le roi des rois, confondu, appela les plus puissants parmi ceux qui se trouvaien
 >
 > Soyez reconnaissants envers Dieu ; soyez pieux et apprenez à connaître le Créateur.
 >
-> Nous serons bientôt réunis de nouveau, ne vous affligez donc pas de mon départ.»
+> Nous serons bientôt réunis de nouveau, ne vous affligez donc pas de mon départ. »
 
 Ensuite, il dit aux grands qui l’avaient accompagné :
 
@@ -70,7 +70,7 @@ Ensuite, il dit aux grands qui l’avaient accompagné :
 >
 > Épargnez-vous la route et le retour ; dirigez vos esprits vers la lumière de Dieu.
 >
-> Personne ne peut traverser ces sables à moins d’être doué de beaucoup de force et de puissance.»
+> Personne ne peut traverser ces sables à moins d’être doué de beaucoup de force et de puissance. »
 
 Trois parmi les héros qui portaient haut la tête, le Destan, Rustem et le vieux Gouderz, qui était plein d’ambition et de sagacité et n’oubliait rien, écoutèrent le roi et partirent.
 
