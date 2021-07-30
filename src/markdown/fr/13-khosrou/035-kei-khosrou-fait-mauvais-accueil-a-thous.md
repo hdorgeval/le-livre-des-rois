@@ -62,7 +62,7 @@ Il adressa à Dieu ces paroles :
 >
 > J’étais impatient de venger mon père ;
 >
-> Mon cœur était déjà plein de douleur, de peine et d’émotion et maintenant j’ai à venger une nouvelle mort, celle de Firoud.
+> Mon cœur était déjà plein de douleur, de peine et d’émotion et maintenant j’ai à venger une nouvelle mort, celle de Firoud.
 >
 > Je devrais faire tomber la tête de Thous fils de Newder, à qui j’avais ordonné ne pas s’approcher de Kelat et de Djerem, quand même on verserait sur sa tête des pièces d’argent, parce que Firoud y demeurait avec sa mère, que c’était un Keïanide, un homme vaillant, qui ne connaissait pas le vil Thous, qui ne saurait pourquoi on envoyait une si grande armée et qui sans doute descendrait de sa montagne pour livrer bataille et mettrait à mort un grand nombre de braves.
 >
