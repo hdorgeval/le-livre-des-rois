@@ -14,7 +14,7 @@ order: '211'
 
 <!-- LTeX: language=fr -->
 
-# Keï Khosrou se rend à Siawuschguerd
+# Keï Khosrou se rend à Siawuschguird
 
 Au moment où se réveille le coq, on entendit le son des timbales s’élever du palais et une armée us empressée et avide de partir se mit en route vers le désert.
 
@@ -31,7 +31,7 @@ Le maître du monde les re-
 
 Quand Khosrou fut arrivé auprès des vaisseaux, il descendit sur la plage et inpeeta les voiles ; il resta deux semaines sur le bord de la mer et parla sans cesse avec Guiv, à qui il dit :
 
-> Quiconque n’a pas vu Gangue ne doit par rien au monde se laisser empêcher d’y aller.»
+> Quiconque n’a pas vu Gangue ne doit par rien au monde se laisser empêcher d’y aller. »
 
 Ensuite, il fit faire tous les préparatifs de départ et lorsque les barques furent mises à l’eau, il ordonna à tous ceux qui se connaissaient en navigation et qui
 
@@ -59,15 +59,17 @@ Lorsqu’il arriva du Mekran aux frontières de la Chine, lui et les grands de l
 
 Quand Keï Khosrou parut dans le lointain, le héros, qui aperçut son parasol, mit pied à terre de loin et l’adora ; le roi plein de fierté le serra dans ses bras et lui raconta les merveilles qu’il avait vues sur mer et comment Afrasiab le magicien avait disparu.
 
-Il devint l’hôte de Rustem dans la Chine ; mais après une semaine il quitta la Chine et le Madschiu et arriva à Siawuschguerd le vingt-cinquième jour du mois de Sefendarmuz.
+Il devint l’hôte de Rustem dans la Chine ; mais après une semaine il quitta la Chine et le Madschiu et arriva à Siawuschguird le vingt-cinquième jour du mois de Sefendarmuz.
 
-Étant entré dans cette ville de son père, les joues inondées de larmes et le cœur brisé, il se rendit à l’endroit où Guersiwez, le méchant et Gueroui, le maudit, le meurtrier, avaient tranché la tête au roi d’Iran comme à un être vil ; il prit de cette terre noire et la répandit sur sa tête ; il v se déchira les joues et la poitrine et Rustem frotta son visage sur cette terre et noircit la face de Gueroui par ses malédictions.
+Étant entré dans cette ville de son père, les joues inondées de larmes et le cœur brisé, il se rendit à l’endroit où Guersiwez, le méchant et Gueroui, le maudit, le meurtrier, avaient tranché la tête au roi d’Iran comme à un être vil ; il prit de cette terre noire et la répandit sur sa tête ; il se déchira les joues et la poitrine et Rustem frotta son visage sur cette terre et noircit la face de Gueroui par ses malédictions.
 
-Keï Khosrou dit : Ô roi !
+Keï Khosrou dit :
 
-Tu n m’as laissé dans le monde comme un souvenir et je
-
-MS ne laisserai rien debout dans ma vengeance ; ma douleur durera tant que le monde existera ; j’ai détruit le trône d’Afrasiab et dorénavant je ne jouirai ni du repos ni du sommeil tant que j’aurai l’espoir de le saisir de ma main et de rendre le monde sombre et étroit devant lui.»
+> Ô roi !
+>
+> Tu n m’as laissé dans le monde comme un souvenir et je
+>
+> MS ne laisserai rien debout dans ma vengeance ; ma douleur durera tant que le monde existera ; j’ai détruit le trône d’Afrasiab et dorénavant je ne jouirai ni du repos ni du sommeil tant que j’aurai l’espoir de le saisir de ma main et de rendre le monde sombre et étroit devant lui. »
 
 Ensuite, il se dirigea vers le trésor de son père, que sa mère lui avait indiqué ; il ouvrit la porte du trésor et distribua la solde à ses troupes.
 
@@ -87,7 +89,7 @@ Un soir le maître du monde se lava la tête et le corps, s’en alla au loin av
 
 Il dit :
 
-> Ton faible serviteur.»
+> Ton faible serviteur. »
 
 L’âme éternellement remplie de douleur.
 
@@ -102,7 +104,7 @@ Est-ce que Dieu, l’unique, le juste, ne sera pas mon guide pour découvrir ce 
 Le nom et la voix d’A-
 frasiab ont disparu du monde, son séjour est, un secret pour moi ; mais pour toi il n’y a pas de secret.
 
-Si tu es satisfait de lui, ô Dieu de la justice, alors détourne de ma tête l’envie de le combattre, éteins dans mon cœur ce feu de la vengeance et fais que ta volonté devienne la mienne.»
+Si tu es satisfait de lui, ô Dieu de la justice, alors détourne de ma tête l’envie de le combattre, éteins dans mon cœur ce feu de la vengeance et fais que ta volonté devienne la mienne. »
 
 Le jeune et lier prince, sur lequel veillait la fortune, quitta le lieu de ses prières et monta sur son trône.
 
