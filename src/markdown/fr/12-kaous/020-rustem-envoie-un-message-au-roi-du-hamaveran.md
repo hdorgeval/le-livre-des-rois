@@ -24,13 +24,13 @@ Rustem envoya auprès .dulroi Kaous un homme prudent et habile à découvrir le 
 
 Un autre d’entre les grands pleins de fierté partit pour aller auprès du roi du Hamaveran avec une lettre de Rustemremplie de menaces et ne parlant que de massues, d’épées et de combats :
 
-> Tu as trahi le roi de l’Iran ; tu as tramé de mauvais desseins pendant que tu concluais une alliance avec lui ; il n’est pas digne d’un homme de recourir aux ruses. dans. lecombat ; tu n’es pas venu comme un crocodilecourageux. qui nerprépare pas d’embuscades, quel que soitle désir. de vengeance qui l’anime.
+> Tu as trahi le roi de l’Iran ; tu as tramé de mauvais desseins pendant que tu concluais une alliance avec lui ; il n’est pas digne d’un homme de recourir aux ruses. dans. le combat ; tu n’es pas venu comme un crocodile courageux. qui nerprépare pas d’embuscades, quel que soitle désir. de vengeance qui l’anime.
 >
 > Ce n’est qu’en rendant la liberté à Kaous que tu échapperas au griffe et au souffle du dragon.
 >
 > Sinon prépare-toi à me. combattre et à mesurer latence avec la mienne.
 >
-> Tu dois avoir appris desgrands de ta cour comment j’ai fait la guerre dans le Mazenderan, comment j’ai combattu Poulad fils de Rhandi et Bid et ce que j’ai fait du Div blanc. »
+> Tu dois avoir appris des grands de ta cour comment j’ai fait la guerre dans le Mazenderan, comment j’ai combattu Poulad fils de Rhandi et Bid et ce que j’ai fait du Div blanc. »
 
 Lorsque la lettre fut scellée, le messager partit et se hâta de parcourir sa route.
 
@@ -72,15 +72,15 @@ Le roi s’assit avec ses conseillers et appela deux jeunes gens de l’assembl�
 
 Voici ces lettres : Il n’y a pas loin d’un de nos royaumes à l’autre et le bonheur et le malheur, les combats et les fêtes, tout a été commun entre nous.
 
-Si vous veniez vous réunir à moi, je combatl7rai Rustem sans crainte ; sinon le malheur s’étendra de moi usqu’è vous tous, car Rustem conduira partout son armée. au Lorsqu’ils reçurent ces lettres qui annonçaient que Rustem amenait son armée de ce côté, ils se levèrent tous, le cœur effrayé, ils assemblèrent les armées des trois royaumes et se dirigèrentvers le Hamaveran.
+Si vous veniez vous réunir à moi, je combattrai Rustem sans crainte ; sinon le malheur s’étendra de moi usqu’è vous tous, car Rustem conduira partout son armée. au Lorsqu’ils reçurent ces lettres qui annonçaient que Rustem amenait son armée de ce côté, ils se levèrent tous, le cœur effrayé, ils assemblèrent les armées des trois royaumes et se dirigèrent vers le Hamaveran.
 
-La terre devint semblable à’ une montagne d’une frontière à l’autre ; d’une montagneà l’antre les armées. étendirent leursz’rangs et la lune disparut sous la poussière queïfaisaient lever lesguerriers.
+La terre devint semblable à’ une montagne d’une frontière à l’autre ; d’une montagneà l’antre les armées. étendirent leursz’rangs et la lune disparut sous la poussière queïfaisaient lever les guerriers.
 
 Rustem voyant ces préparatifs, dépêcha en ; secret un brave vers Kaous et lui fit dire :
 
-> Lesarois des trois pays, remplis d’une ardeur guerrière;,-s’avancent ensemble contre moi.
+> Les rois des trois pays, remplis d’une ardeur guerrière;,-s’avancent ensemble contre moi.
 >
-> Quand je secouerai mon poignet, ces braves ne distingueront’plns la : tête des pieds, mais il ne faut pas qu’il t’arrive malheur danscette lutte, carlin doit toujours s’attendre à du mal de la part destinéchants.
+> Quand je secouerai mon poignet, ces braves ne distingueront’plns la : tête des pieds, mais il ne faut pas qu’il t’arrive malheur dans cette lutte, carlin doit toujours s’attendre à du mal de la part des méchants.
 >
 > Jane désireupas la couronne du Berberistain, si elle doit mettre en danger la vie du roi. »
 
