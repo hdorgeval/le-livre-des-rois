@@ -46,7 +46,7 @@ Il s’approcha des Iraniens la tête remplie d’ardeur pour le combat, le cœu
 
 > Ô illustre Thous, maître des éléphants, de la massue et des timbales ;
 >
-> Il y a maintenant cinq mois que tu es venu chercher les fatigues de la guerre et déjà les plus braves de la famille de Gouderz gisent sans tête sur ce champ de bataille.
+> Il y a maintenant cinq mois que tu es venu chercher les fatigues de la guerre et déjà les plus braves de la famille de Gouderz gisent sans tête sur ce champ de bataille.
 >
 > Tu t’es réfugié dans les rochers comme un argali, le cœur plein de dépit, la tête remplie du désir de la vengeance.
 >
