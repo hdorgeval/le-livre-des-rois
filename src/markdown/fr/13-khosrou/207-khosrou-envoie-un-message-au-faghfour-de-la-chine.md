@@ -18,17 +18,19 @@ order: '207'
 
 Il choisit dans l’armée des messagers qui savaient parler et écouler, les envoya auprès du Khakan de l3l la Chine, du Faghfour et du roi du Mekran et leur fit dire :
 
-> Si vous voulez vous convertir à la justice et m’obéir, si vous vous repentez de vos mauvaises actions, envoyez des vivres eau-devant de l’armée, que vous verrez infailliblement paraître sur la route ; mais quiconque me désobéit, si même il s’abstient de m’attaquer, quiconque ne me reçoit pas avec des festins, qu’il prépare son armée pour le combat.»
+> Si vous voulez vous convertir à la justice et m’obéir, si vous vous repentez de vos mauvaises actions, envoyez des vivres eau-devant de l’armée, que vous verrez infailliblement paraître sur la route ; mais quiconque me désobéit, si même il s’abstient de m’attaquer, quiconque ne me reçoit pas avec des festins, qu’il prépare son armée pour le combat. »
 
 Un messager se rendit dans chaque pays, à chaque endroit où il y avait un prince.
 
-Le Faghfour et le Khakan de la Chine et les grands de tous les pays furent effrayés ; ils parlèrent aux messagers chaleureusement, ils prononcèrent des paroles douces avec des voixdouces, disant :
+Le Faghfour et le Khakan de la Chine et les grands de tous les pays furent effrayés ; ils parlèrent aux messagers chaleureusement, ils prononcèrent des paroles douces avec des voix douces, disant :
 
 > Nous tous sommes les sujets du roi, nous ne régnons que par sa permission.
 >
-> Nous inspecterons les lieux où passeront les braves et s’il s’y trouve des endroits difficiles, nous les aplanirons depuis la frontière et nous y a pporterons des vivres et des présents.»
+> Nous inspecterons les lieux où passeront les braves et s’il s’y trouve des endroits difficiles, nous les aplanirons depuis la frontière et nous y a pporterons des vivres et des présents. »
 
-Tous les hommes de sens dirent : S’il passe par notre pays sans y faire de mal, nous ferons de grandes largesses aux pauvres, nous lui préparerons des présents et des vivres.»
+Tous les hommes de sens dirent :
+
+> S’il passe par notre pays sans y faire de mal, nous ferons de grandes largesses aux pauvres, nous lui préparerons des présents et des vivres. »
 
 Le messager reçut des cadeaux infinis et revint à la cour content et heureux. .
 Mais le messager illustre qui alla chez le roi du Mekran le trouva dans une tout autre disposition d’esprit.
@@ -47,9 +49,9 @@ Le roi éclata soudain en injures contre lui et remplit de terreur le cœur de l
 >
 > Si a tu me demandes le passage pour toi, c’est bien ; car tout être vivant est le maître de marcher sur la terre et je ne t’empêchcrai pas de passer, si tu ne fais pas de dommage dans mon pays et si tu viens sans armée.
 >
-> Mais si tu entres dans ce pays avec des troupes, sache que tu n’as aucun droit dans mon royaume et je ne te permettrai pas de le traverser et de fouler un endroit quelconque de cette froutière ; je ne te laisserai pas la gloire de rester le roi victorieux, si favorable que te soit ta bonne étoile.»
+> Mais si tu entres dans ce pays avec des troupes, sache que tu n’as aucun droit dans mon royaume et je ne te permettrai pas de le traverser et de fouler un endroit quelconque de cette froutière ; je ne te laisserai pas la gloire de rester le roi victorieux, si favorable que te soit ta bonne étoile. »
 
-Aussitôt que Khosrou eutreçu cette réponse, il mit en marche son armée et le maître du inonde arriva fièrement dans le pays de Khoten, accompagné d’une armée glorieuse.
+Aussitôt que Khosrou eut reçu cette réponse, il mit en marche son armée et le maître du monde arriva fièrement dans le pays de Khoten, accompagné d’une armée glorieuse.
 
 Le Faghfour et le Khakan de la Chine allèrent au-devant de lui pour lui offrir leurs excuses et leurs hommages ; ils s’avancèrent vers lui à trois stations au delà de la frontière de la Chine. eux et leurs grands ; toute la route était aplanie
 
@@ -65,7 +67,7 @@ La il lui dit :
 
 > Nous sommes les sujets du roi, si même nous sommes dignes de l’être ; le monde est heureux par l’effet de ta fortune et le cœur de tes amis se réjouit à cause de toi.
 >
-> Si notre palais n’est pas digne du roi, au moins je pense qu’il vaut mieux que la route.»
+> Si notre palais n’est pas digne du roi, au moins je pense qu’il vaut mieux que la route. »
 
 Le roi entra dans le palais la tête hante et s’assit dans la magnifique salle d’audience ; le Faghfonr fit apporter cent mille pièces d’or chinoises comme cadeau de bienvenue et se tint debout devant Khosrou avec les gouverneurs des provinces, ses sages conseillers.
 
