@@ -24,11 +24,13 @@ Cela fait, Piran envoya à l’heure du sommeil un messager vers Afrasiab, un me
 >
 > Depuis que la voûte du cieljtourne au-dessus de la terre sombre, jamais roi semblable à toi n’a occupé le trône, jamais la à ? !
 >
-> Gloire de la royauté ne s’estainsi attachée à d’autres qu’à toi ; nul autre n’est digne du trône, du diadème, de la ceinture et de la fortune des rois et le maître du monde réduira en poussière la tête de quiconque osera t’affronter au jour du combat.
+> Gloire de la royauté ne s’est ainsi attachée à d’autres qu’à toi ; nul autre n’est digne du trône, du diadème, de la ceinture et de la fortune des rois et le maître du monde réduira en poussière la tête de quiconque osera t’affronter au jour du combat.
 >
 > Mais moi je suis un esclave coupable envers toi et je me suis écarté de tes ordres pleins de prévoyance.
 >
-> Le roi m’en a voulu d’avoir laissé échapper Keî Khosrou, mais je ne crois pas qu’il y eût de ma faute ; n car’c’était l’ordre de Dieu : qui est arrivé devait arriver et il ne servirait à rien d’en parler plus
+> Le roi m’en a voulu d’avoir laissé échapper Keï Khosrou, mais je ne crois pas qu’il y eût de ma faute . »
+
+Car’c’était l’ordre de Dieu : qui est arrivé devait arriver et il ne servirait à rien d’en parler plus
 > -au long.
 >
 > Si le roi trouve que je suis innocent, il délivrera mon cou de ce fardeau et viendra à mon aide.J’ai à faire connaître au roi ce que la rotation du ciel a amené sur la tête de son esclave.
@@ -37,9 +39,9 @@ Cela fait, Piran envoya à l’heure du sommeil un messager vers Afrasiab, un me
 >
 > De l’autre côté s’est avancée une grande armée ayant Gouderz et d’autres chefs à sa tête ; jamais, depuis le temps du roi ll’linoutchehr, une armée plus nombreuse n’est entrée dans le Tourau.
 >
-> Ils se sont établis à Beibed et ont occupé la montagne ; pendant trois jours et trois nuitsles deux armées sontrestées en présence, semblables à des léopards.
+> Ils se sont établis à Beibed et ont occupé la montagne ; pendant trois jours et trois nuits les deux armées sont restées en présence, semblables à des léopards.
 >
-> Je n’ai pas voulu livrer bataille dans ce lieu, car j’espérais que les Iraniens descendraient dans la plaine ; ets’ils avaient quitté la montagne, les têtes de leurs Pehlewans v tombaient.
+> Je n’ai pas voulu livrer bataille dans ce lieu, car j’espérais que les Iraniens descendraient dans la plaine ; ets’ils avaient quitté la montagne, les têtes de leurs Pehlewans tombaient.
 >
 > Mais le Sipehdar de l’Iran ne s’est pas
 >
@@ -57,7 +59,7 @@ Cela fait, Piran envoya à l’heure du sommeil un messager vers Afrasiab, un me
 >
 > Ensuite l’illustre Nestihen m’a quitté à l’aube du jour avec dix mille cavaliers éprouvés dans les combats et le vaillant Bijen lui a aussi donné la mort.
 >
-> Dans la douleur de mon cœur, j’ai conduit mes braves sur le champ de bataille en poussant des cris de rage ; et les deux’armées se sont livré un grand combat, jusqu’à ce que la nuit soit descendue de la montagne.
+> Dans la douleur de mon cœur, j’ai conduit mes braves sur le champ de bataille en poussant des cris de rage ; et les deux armées se sont livré un grand combat, jusqu’à ce que la nuit soit descendue de la montagne.
 >
 > Neuf cents d’entre les héros du roi gisaient alors sur la terre ayant leurs têtes tranchées ; deux tiers des braves de notre armée ne pouvaient plus combattre, carleur cœur était blessé par la douleur, leur corps déchiré par l’épée ; et les Iraniens avaient le dessus et restaient ceints pour de nouveaux combats.
 >
@@ -69,13 +71,13 @@ Cela fait, Piran envoya à l’heure du sommeil un messager vers Afrasiab, un me
 >
 > S’il est vrai que Khosrou se dirige vers nous, alors, ô roi des rois, sache que je ne puis pas lui livrer bataille ; à moins que tu ne t’avances toi-même vers l’Iran avec une armée avide de vengeance, que tu ne te détermines à détourner ce malheur des Touraniens, que tu ne te ceignes pour le combat.
 >
-> Sinon l’armée de l’Iran nous détruira et tu te trouveras sans défenseurs.»
+> Sinon l’armée de l’Iran nous détruira et tu te trouveras sans défenseurs. »
 
 Le messager ayant entendu ces paroles de Pirau, s’élança comme un ouragan, monta sur un cheval aux pieds de vent, sur un puissant coursier qui a ressemblait à une flamme.
 
 Il courut d’un trait jusqu’à la cour d’Afrasiab, sans respirer, sans se reposer, sans dormir en route.
 
-Il entra chez le roi, rapide comme le vent, baisa le trône et s’acquitte de son message.
+Il entra chez le roi, rapide comme le vent, baisa le trône et s’acquitta de son message.
 
 Afrasiab écouta les paroles que lui faisait dire Pirau ; la douleur fit gonfler son cœur de sang et ses joues pâlirent.
 
