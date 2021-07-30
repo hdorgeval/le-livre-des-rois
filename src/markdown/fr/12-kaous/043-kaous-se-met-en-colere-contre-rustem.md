@@ -20,7 +20,7 @@ Lorsque Rustem fut proche de la cour du roi, les grands, tels que Thous et Goude
 
 Les grands lui adressèrent des questions amicales et ils se rendirent de là au palais du roi, cheminant avec allée grasse.
 
-Arrivés devant Kaous, ils I’adorèrent ; mais il entra en colère et ne leur répondit pas.
+Arrivés devant Kaous, ils l'adorèrent ; mais il entra en colère et ne leur répondit pas.
 
 Son air était sévère, son front couvert de rides ; il se tenait droit comme le lion de la forêt.
 
@@ -77,7 +77,7 @@ Ilustem sor-9l lit, monta sur Raksch et dit :
 >
 > Ai-je mérité les paroles que tu m’as dites ?
 >
-> Sontce là les bienfaits que tu me devais ?
+> Sont ce là les bienfaits que tu me devais ?
 >
 > C’est moi qui ai placé sur ce trône Keî Kobad.
 >
@@ -85,7 +85,7 @@ Ilustem sor-9l lit, monta sur Raksch et dit :
 >
 > Du vent.
 >
-> Si je n’avais pas amenédans le pays d’Iran Keî Kobad, qui vivait dans la détresse et loin de la foule sur le mont Alborz, tu ne te ceindrais pas de la ceinture royale et du glaive de la vengeance, tu n’aurais pas ce pouvoir et ces richesses qui t’enhardissent à dire ces des paroles dures à Destan fils de Sam. »
+> Si je n’avais pas amené dans le pays d’Iran Keî Kobad, qui vivait dans la détresse et loin de la foule sur le mont Alborz, tu ne te ceindrais pas de la ceinture royale et du glaive de la vengeance, tu n’aurais pas ce pouvoir et ces richesses qui t’enhardissent à dire ces des paroles dures à Destan fils de Sam. »
 
 Puis, il dit aux Iraniens :
 
