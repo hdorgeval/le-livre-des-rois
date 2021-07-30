@@ -171,7 +171,7 @@ Le messager répondit :
 >
 > Je suis fort, j’ai mon lacet suspendu au bras ;
 >
-> Estce le moment de me tromper et de me donner des conseils ?
+> Est-ce le moment de me tromper et de me donner des conseils ?
 >
 > Qu’est devant mon lacet le Khakan de la Chine ?
 >
@@ -209,4 +209,4 @@ On lui lia les bras ; Rustem le mena jusqu’au fleuve Schahd, à pied, privé d
 >
 > Tu as donné à l’un, donne aussi à l’autre et n’excite pas la haine entre deux nobles cœurs.
 
-[^1] : C'est Firdousi lui-même qui parle ici.
+[^1]: C'est Firdousi lui-même qui parle ici.
