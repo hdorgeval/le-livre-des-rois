@@ -18,11 +18,11 @@ order: '219'
 
 Lorsque Kaous eut retrouvé sa sécurité, il énonça devant Dieu toutes les pensées secrètes de son coeur,.
 
-LE LIVRE DES llUlS. disant : : Ô toi qui es au-dessus du sort, toi qui nous instruis en tout ce qui est bien, c’est de toi que j’ai reçu ma dignité royale, ma gloire, ma fortune, ma puissance, mon diadème, ma valeur et mon trône.
+DES llUlS. disant : : Ô toi qui es au-dessus du sort, toi qui nous instruis en tout ce qui est bien, c’est de toi que j’ai reçu ma dignité royale, ma gloire, ma fortune, ma puissance, mon diadème, ma valeur et mon trône.
 
 Tu n’as donné à personne des trésors, un trône et un grand renom comme à moi.
 
-Je t’ai adressé des prières pour qu’un vengeur prît les armes pour venger Siawusch et j’ai vu mon petit-fils, la joie de mes yeux, me venger et se venger lui-même. l1 est ambitieux, plein de dignité, ce de force et d’intelligence, il dépasse tous les rois de la terre ; mais cent cinquante ans ont passé sur moi. et ma tête et ma barbe, noires comme du musc, sont devenues blanches comme du camphre ; ma taille de cyprès s’est courbée comme un arc et je ne regarderais pas comme un malheur que ma fin arrivâtgæ
+Je t’ai adressé des prières pour qu’un vengeur prît les armes pour venger Siawusch et j’ai vu mon petit-fils, la joie de mes yeux, me venger et se venger lui-même. l1 est ambitieux, plein de dignité, de force et d’intelligence, il dépasse tous les rois de la terre ; mais cent cinquante ans ont passé sur moi et ma tête et ma barbe, noires comme du musc, sont devenues blanches comme du camphre ; ma taille de cyprès s’est courbée comme un arc et je ne regarderais pas comme un malheur que ma fin arrivâtgæ
 Peu de temps après il ne restait de lui dans le monde que le souvenir de son nom et Keï Khosrou, le roi du monde, monta sur le trône et s’assit, le maître de cette terre pleine de ténèbres.
 
 Tous les Iraniens illustres arrivèrent à pied, la bouche pleine de paroles, tous couverts de robes bleues et noires et restèrent pendant deux semaines portant le deuil du roi.
@@ -44,4 +44,4 @@ Essaye d’être joyeux, cherche à atteindre l’objet de tes désirs et quand 
 
 Pendant quarante jours le roi porta le deuil de son grand-père, se tenant loin de la joie, de la couronne et du trône ; au quarante et unième jour, il s’assit sur son trône d’ivoire et plaça sur sa tête la couronne qui réjouissait les cœurs.
 
-L’armée se rassembla devant son palais : les nobles et les grandsp portant des diadèmes d’or, le saluèrent comme roi et versèrent des pierreries sur sa couronne ; le monde entier célébra une grande fête lorsque le roi victorieux s’assit sur le trône et c’est ainsi que toute la v terre obéit à Khosrou pendant que soixante années passèrent sur le monde.
+L’armée se rassembla devant son palais : les nobles et les grandsp portant des diadèmes d’or, le saluèrent comme roi et versèrent des pierreries sur sa couronne ; le monde entier célébra une grande fête lorsque le roi victorieux s’assit sur le trône et c’est ainsi que toute la terre obéit à Khosrou pendant que soixante années passèrent sur le monde.
