@@ -20,13 +20,13 @@ Houm lia ainsi les bras à Afrasiab et l’entraîna du lieu de sa retraite.
 
 Afrasiab lui dit.
 
-O homme intelligent et pieux, qui adores Dieu le très-saint, que veux-tu de moi, qui suis un roi sur la terre, demeurant dans cette cave et me tenant caché?»
+O homme intelligent et pieux, qui adores Dieu le très-saint, que veux-tu de moi, qui suis un roi sur la terre, demeurant dans cette cave et me tenant caché ? »
 
 Houm lui répondit :
 
 > Ta place n’est pas ici, le monde est rempli de ton nom, du nom de celui qui a tué un frère parmi les rois de la terre, qui a offensé Dieu par le meurtre d’Aghrires,’ de l’illustre Newder et de Siawusch, l’héritier des Keïanides.
 >
-> Ne verse pas le sang des rois, pour n’avoir pas à échanger ton palais contre une caverne sans fond.»
+> Ne verse pas le sang des rois, pour n’avoir pas à échanger ton palais contre une caverne sans fond. »
 
 Afrasiab lui répondit :
 
@@ -40,14 +40,14 @@ Afrasiab lui répondit :
 >
 > Où veux-tu me conduire lié ignominieusement ?
 >
-> Ne crains-tu pas Dieu et le jour où tu lui rendras compte?»
+> Ne crains-tu pas Dieu et le jour où tu lui rendras compte ? »
 
 \*
 Houm répondit :
 
 > Ô homme méchant et malveillant, probablement il ne te reste pas beaucoup de temps.
 >
-> Tesparoles sont douces comme un frais jardin, de roses ; mais ton sort est entre les mains de Khosrou.»
+> Tes paroles sont douces comme un frais jardin, de roses ; mais ton sort est entre les mains de Khosrou. »
 
 Néanmoins son cœur souffrait de cet état misérable et il relâcha les nœuds de son lacet royal.
 
@@ -61,13 +61,13 @@ Il vit aussi que l’eau était trouble ; il observa ce serviteur de Dieu qui av
 
 > Est-ce que ce saint homme pêcherait dans le lac de Khandjest ?
 >
-> Un crocodile aurait-il saisi l’hameçon destiné à un poisson et l’homme serait-il confondu à cet aspect?»
+> Un crocodile aurait-il saisi l’hameçon destiné à un poisson et l’homme serait-il confondu à cet aspect ? »
 
 Il dit à Houm :
 
 > Ô saint homme, fais-moi connaître ton secret ; que cherches-tu dans cette eau du lac ?
 >
-> Est-ce que tu veux y laver ton corps malpropre?»
+> Est-ce que tu veux y laver ton corps malpropre ? »
 
 Houm lui répondit :
 
@@ -91,7 +91,7 @@ Houm lui répondit :
 >
 > Il s’est caché dans ce lac de Khandjest.
 >
-> Je t’ai dit tout se-’ Ion la vérité.»
+> Je t’ai dit tout se-’ Ion la vérité. »
 
 -Lorsque Gouderz eut entendu ce récit, il lui vint en mémoire d’anciennes prophéties ; il s’en retourna vers le temple d’Aderguschasp, tout pensif et comme un homme qui a perdu la raison.
 
