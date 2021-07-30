@@ -18,7 +18,7 @@ order: '121'
 
 Un jeune guerrier, Faramourz, fils de Rustem, commandait l’avantsgarde ; il s’avança jusqu’à la frontière du Touran, où une vedette de l’ennemi le vit sur la route.
 
-Or il y avait alors un roi de Sipendjab dont levnom était Warazad et qui brillait au milieu des héros comme une perle d’une belle eau.
+Or il y avait alors un roi de Sipendjab dont le nom était Warazad et qui brillait au milieu des héros comme une perle d’une belle eau.
 
 Lorsque le n.
 
