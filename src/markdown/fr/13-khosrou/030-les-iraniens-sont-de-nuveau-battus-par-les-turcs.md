@@ -125,7 +125,7 @@ Toi qui as vu tant de massues et de flèches, si tu t’enfuis devant Piran, il 
 >
 > Ne nous enfuyons pas de la bataille, ne déshonorons pas la poussière de Keschwad.
 >
-> N’as-tu pas entendu le vieux proverbe que le sage nous a répété :
+> N’as-tu pas entendu le vieux proverbe que le sage nous a répété : 
 >
 > > Que deux frères se placent dos à dos et une montagne ne sera plus qu’une poignée de poussière ?
 >
@@ -183,7 +183,7 @@ Les plus braves d’entre les Iraniens s’avancèrent avec leurs lourdes massue
 
 L’illustre Bijen les rejoignit en toute hâte et ils continuèrent ensemble leur route jusqu’à ce qu’ils atteignirent le gros de l’armée.
 
-Bijen y arriva comme un lion féroce, tenant en main le drapeau de Kaweh, autour duquel tonte l’armée se pressa, en obscurcissant l’air par des flots de poussière.
+Bijen y arriva comme un lion féroce, tenant en main le drapeau de Kaweh, autour duquel toute l’armée se pressa, en obscurcissant l’air par des flots de poussière.
 
 Ils s’ébranlèrent encore une fois et recommencèrent la lutte sur ce champ de bataille ;
 
@@ -207,7 +207,7 @@ Personne dans notre camp n’était aussi honoré que lui de Feribourz fils de K
 >
 > Mais il ne faut pas que cette couronne royale demeure au pouvoir des Turcs sur ce champ de bataille ;
 >
-> Car la perte de la couronne de Rivniz, jointe à la perte de ce héros, serait une honte plus grande que celles qui nous accablent déjà.
+> Car la perte de la couronne de Rivniz, jointe à la perte de ce héros, serait une honte plus grande que celles qui nous accablent déjà.
 
 Or il arriva que le noble Sipehbed, le vaillant Piran entendit ces paroles de Guiv ;
 
