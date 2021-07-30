@@ -65,7 +65,7 @@ Piran lui répondit :
 >
 > Afrasiab est ton soutien contre le malheur et tu portes au doigt le sceau de la royauté ; et moi je ferai tout pour que notre alliance ne se brise
 >
-> pas, aussi longtemps que la vie demeurera dans cecorps.
+> pas, aussi longtemps que la vie demeurera dans ce corps.
 >
 > Je ne te laisserai pas atteindre par un souffle de vent, je ne permettrai pas à l’air de compter tes cheveux. »
 
@@ -101,7 +101,7 @@ Siawusch lui dit :
 >
 > Pourquoi lierais-tu ton cœur à ce séjour passager ?
 >
-> Pourquoi t’attacheraistu aux trésors ?
+> Pourquoi t’attacherais tu aux trésors ?
 >
 > Pourquoi te donnerais-tu de la peine pour les acquérir ?
 >
