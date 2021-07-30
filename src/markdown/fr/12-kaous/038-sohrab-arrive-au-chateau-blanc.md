@@ -28,7 +28,7 @@ Il avait une fille guerrière, aimant à aller à cheval, à manier les rênes, 
 
 Lorsque Sohrab s’approcha du château, Hedjir le brave le vit, s’assit comme un héros sur son cheval aux pieds de vent et sortit du château courant vers le champ de bataille.
 
-Sohrab le guerrier l’aperçut-, tira aussitôt l’épée du combat et s’élança ausdevant de l’armée, rapide comme la tempête, en s’écriant :
+Sohrab le guerrier l’aperçut-, tira aussitôt l’épée du combat et s’élança au-devant de l’armée, rapide comme la tempête, en s’écriant :
 
 > Ô toi qui as jeté au vent ta vie, qui es revenu seul au combat comme un insensé, tiens-toi referme maintenant et saisis bien les rênes de ton cheval !
 >
