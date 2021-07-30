@@ -27,7 +27,7 @@ Il leva la tête vers le ciel, le cœur rempli de sang. l’âme déchirée par 
 >
 > Ne brûle pas mon cœur par la mort de Bijen ; les larmes qui ce tombent de mes yeux ont mouillé la terre sous mes pieds.
 >
-> Rends-moi mon enfant, ô Créateur ; détourne de sa vie l’heure fatale.»
+> Rends-moi mon enfant, ô Créateur ; détourne de sa vie l’heure fatale. »
 
 Le Pehlewan s’élança l’âme agitée de soucis, le cœur gonflé de pitié pour son fils qui était parti et se disant :
 
@@ -35,7 +35,7 @@ Le Pehlewan s’élança l’âme agitée de soucis, le cœur gonflé de pitié 
 >
 > S’il est tué par Houman, qu’ai-je alors besoin de cuirasse. d’épée et de ceinture ?
 >
-> Je me consumerais dans mes peines, dans mes angoisses et dans ma colère, le cœur plein de soucis, les yeux remplis de larmes.»
+> Je me consumerais dans mes peines, dans mes angoisses et dans ma colère, le cœur plein de soucis, les yeux remplis de larmes. »
 
 Il courut comme un tourbillon de poussière et navré de douleur, il devança son fils et lui dit :
 
@@ -47,7 +47,7 @@ Il courut comme un tourbillon de poussière et navré de douleur, il devança so
 >
 > La lune brille-t-elle donc de manière à éclipser le soleil ?
 >
-> Tu vas te précipiter sur Houman, tu refuses de m’obéir ; c’est toi qui le désires, c’est toi qui le veux et pourtant tu ignores quel sort t’attend.»
+> Tu vas te précipiter sur Houman, tu refuses de m’obéir ; c’est toi qui le désires, c’est toi qui le veux et pourtant tu ignores quel sort t’attend. »
 
 Bijen lui répondit :
 
@@ -55,19 +55,21 @@ Bijen lui répondit :
 >
 > Houman n’est pas d’airain ni de fer ; ce n’est pas un éléphant furieux ni un -Ahriman ; c’est un homme qui veut se battre : et moi aussi je suis avide du combat et je jure par ta fortune que je ne reculerai pas devant lui.
 >
-> Il se peut qu’un sort funeste soit écrit pour moi, mais le destin est dans la main du maître du monde ; et s’il arrive ce qui doit arriver, n’abandonne pas ton cœur à la douleur, ne te laisse pas abattre.»
+> Il se peut qu’un sort funeste soit écrit pour moi, mais le destin est dans la main du maître du monde ; et s’il arrive ce qui doit arriver, n’abandonne pas ton cœur à la douleur, ne te laisse pas abattre. »
 
 À ces paroles de son vaillant fils, Guiv le voyant décidé au combat comme un lion, descendit de son destrier rapide et donna à Bijen le cheval et la cuirasse de Siawusch, disant :
 
 > Puisque tu veux te battre et que ce désir l’emporte sur ta prudence, monte sur ce destrier au pas rapide ; il enroulera sous toi la terre : Tu auras aussi besoin de mon armure, puisque tu as à combattre un Ahriman. »
 
-Bijen voyant devant lui le cheval de son père, sauta à bas du sien vite comme le vent, monta sur ce destrier royal, serra sa ceinture, saisit sa massue et alla chercher dans l’armée un trucheman qui sût bien la langue des Turcs.
+Bijen voyant devant lui le cheval de son père, sauta à bas du sien vite comme le vent, monta sur ce destrier royal, serra sa ceinture, saisit sa massue et alla chercher dans l’armée un truchement qui sût bien la langue des Turcs.
 
 Ensuite, il partit semblable à un lion bondissant, prêt à venger Siawusch.
 
 Arrivé auprès de Houman, il vit comme une montagne de fer en ébullition : c’était une cuirasse qui illuminait toute la plaine et qui surmontait un éléphant.
 
-Klâl KHOSIIOUÇ Bijen ordonna au trucheman de pousser un cri contre son ennemi et de lui dire : Si tu veux combattre, reviens ici, car Bijen te délie.»
+Klâl KHOSIIOUÇ Bijen ordonna au truchement de pousser un cri contre son ennemi et de lui dire :
+
+> Si tu veux combattre, reviens ici, car Bijen te délie. »
 
 Il fit ajouter : Ô cavalier qui as vu maint combat, pourquoi lances-tu ton cheval dans cette prairie ?
 
@@ -77,9 +79,9 @@ C’est ta mauvaise nature qui a fait naître cette inimitié ; car tu es l’ho
 
 Mais grâces soit rendues à Dieu, qui est mon asile, de ce.qu’il t’a amené devant moi et sur ce champ de bataille.
 
-Tourne la bride de ton cheval rapide et reviens ici, puisque le désir de la vengeance fait bouillonner ton sang, choisis l’endroit où tu veux te battre. et tiens-moi tête dans la plaine ou dans la vallée, dans la montagne ou entre les lignes des deux armées, où tu pourras agrandir ton nom et ton rang, à la vue de tous, amis et ennemis.
+Tourne la bride de ton cheval rapide et reviens ici, puisque le désir de la vengeance fait bouillonner ton sang, choisis l’endroit où tu veux te battre et tiens-moi tête dans la plaine ou dans la vallée, dans la montagne ou entre les lignes des deux armées, où tu pourras agrandir ton nom et ton rang, à la vue de tous, amis et ennemis.
 
-Quel est le lieu que tu préfères?»
+Quel est le lieu que tu préfères ? »
 
 À ces paroles Houman se mit à rire et répondit :
 
@@ -99,7 +101,7 @@ Quel est le lieu que tu préfères?»
 >
 > La nuit approche ; pars donc maintenant sous la protection des ténèbres.
 >
-> Je m’en retourne vers mes troupes ; et à l’aube du jour je me présenterai devant mon chef ; puis je reviendrai te trouver, portant haut la tête et prêt à te combattre.»
+> Je m’en retourne vers mes troupes ; et à l’aube du jour je me présenterai devant mon chef ; puis je reviendrai te trouver, portant haut la tête et prêt à te combattre. »
 
 Bijen répondit :
 
@@ -109,7 +111,7 @@ Bijen répondit :
 >
 > Ou si ce sont des lâches, qu’ils s’enfuient devant moi !
 >
-> Si tu te présentes demain sur le champ de bataille, ton roi et ton armée ne te reverront plus ; je lancerai la tête si loin que tu n’auras jamais plus à t’occuper de ton armée.»
+> Si tu te présentes demain sur le champ de bataille, ton roi et ton armée ne te reverront plus ; je lancerai la tête si loin que tu n’auras jamais plus à t’occuper de ton armée. »
 
 A l’entrée de la nuit ils se tournèrent le dos et quittèrent le champ de bataille ; chacun retourna dans son camp et mit pied à terreauprès de ses Pehlewans.
 
