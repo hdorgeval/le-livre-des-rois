@@ -16,7 +16,9 @@ order: '129'
 
 # Guiv porte à Piran un message de Gouderz
 
-Arrivé à Reibed, Gouderz choisit les chefs de l’armée les plus vaillants, des cavaliers iraniens éprouvés, des hommes éloquents et prêts au combat ; il choisit ainsi, parmi les plus illustres héros, mille braves LE LIVRE ses Bois. armés de poignards ; ensuite il appela Guiv sur le front de l’armée et lui répéta tout ce que le roi lui avait dit : Ô mon prudent fils, toi qui élèves ta tête au-dessus de beaucoup de têtes, je t’ai choisi parmi toute cette armée, parmi des hommes dignes de régner sur tous les pays de la terre, pour t’envoyer auprès de Piran, à qui tu parleras et dont tu écouteras la réponse.
+Arrivé à Reibed, Gouderz choisit les chefs de l’armée les plus vaillants, des cavaliers iraniens éprouvés, des hommes éloquents et prêts au combat ; il choisit ainsi, parmi les plus illustres héros, mille braves ses Bois. armés de poignards ; ensuite il appela Guiv sur le front de l’armée et lui répéta tout ce que le roi lui avait dit :
+
+> Ô mon prudent fils, toi qui élèves ta tête au-dessus de beaucoup de têtes, je t’ai choisi parmi toute cette armée, parmi des hommes dignes de régner sur tous les pays de la terre, pour t’envoyer auprès de Piran, à qui tu parleras et dont tu écouteras la réponse.
 
 Tu lui répéteras en mon nom ces paroles :
 
@@ -44,7 +46,7 @@ Si ton cœur et ta langue s’accordent, tu peux regarder tes inquiétudes comme
 
 Mais si tu donnes lieu au soupçon d’une trahison, la couronne, le trône et le diadème le seront enlevés ; je ne me permettrai dans cette guerre ni repos ni sommeil ; moi et ma massue, le champ de bataille et Afrasiab et c’est assez : mon roi n’aura pas besoin de beaucoup de troupes pour accomplir sa vengeance.
 
-Si tu veux suivre mon conseil de point en point, si tu donnes ton assenliment à mes sages paroles, saisis d’abord, dans l’assemblée des grands, tous ceux qui ont fait naître cette haine, qui ont retroussé leurs manches pour répandre du sang, qui ont étendu leurs mains pour ôter la vie à Siawusch et dont l’injustice a pesé
+Si tu veux suivre mon conseil de point en point, si tu donnes ton assentiment à mes sages paroles, saisis d’abord, dans l’assemblée des grands, tous ceux qui ont fait naître cette haine, qui ont retroussé leurs manches pour répandre du sang, qui ont étendu leurs mains pour ôter la vie à Siawusch et dont l’injustice a pesé
 
 3M) sur les hommes ; enchaîne-les comme des chiens et remets-les-moi pour que je les envoie au roi, qui les fera mourir ou leur fera grâce.
 
@@ -72,7 +74,7 @@ Je détruirai entiè-rement la fortune des Turcs ; mon arc est un nuage d’où 
 
 Enfin, si tout cela ne t’arrête pas, si tu désires le combat, si tu veux marcher contre l’Iran, si tu crois pouvoir résister au lion dévorant, eh bien, prépare tes armes, lève-toi et avance jusqu’ici ; quand deux armées forment leurs lignes, alors on voit qui est le coupable et qui est l’innocent.
 
-Si tu n’écoutes pas mes conseils, tu t’en repentiras jusqu’à la fin de tes jours ; mais ce repentir ne te profitera plus, quand l’épée du sort aura moissonné ta tête.»
+Si tu n’écoutes pas mes conseils, tu t’en repentiras jusqu’à la fin de tes jours ; mais ce repentir ne te profitera plus, quand l’épée du sort aura moissonné ta tête. »
 
 Ainsi parla le .Pehlewan, 3o
 
