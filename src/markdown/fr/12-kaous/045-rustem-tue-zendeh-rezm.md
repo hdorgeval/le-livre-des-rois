@@ -38,7 +38,7 @@ Kaous lui dit :
 
 Rustem vit donc Sohrab assis au festin sur un trône et placés près de lui, d’un côté Zendeh Bezm, de l’autre Houman le vaillant cavalier et Barman le lion renommé.
 
-Tu aurais dit que Sohrab remplissait le trône tout entier ; il ressemblait à un cyprès plein de séve ; ses deux bras étaient forts comme les cuisses d’un chameau, sa poitrine large comme la poitrine d’un lion, son visage rougecomme du sang.
+Tu aurais dit que Sohrab remplissait le trône tout entier ; il ressemblait à un cyprès plein de séve ; ses deux bras étaient forts comme les cuisses d’un chameau, sa poitrine large comme la poitrine d’un lion, son visage rouge comme du sang.
 
 Autour de lui étaient assis cent Turcs braves, jeunes, fiers et semblables à des lions ; cinquante esclaves ornés de bracelets, rangés debout devant le ravisseur des cœurs dont la fortune était haute, invoquaient les bénédictions de Dieu sur sa taille élancée, sur son épée et son sceau, Bustcm se tenait à l’écart, en observant les braves assis au banquet, lorsque Zendeh eut besoin de sortir et aperçut un brave semblable à un cyprès élancé.
 
