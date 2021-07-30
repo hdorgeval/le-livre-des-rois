@@ -25,7 +25,7 @@ jours secourable, il faut livrer un combat ; il faut ce te hâter de venger la m
 
 Emmène dix mille cavaliers expérimentés, couverts de leur armure de combat et tu parviendras peul-être à venger Houman et à mettre les têtes de ses ennemis sous les ciseaux de la morm-Nestihen répondit :
 
-> Me voilà prêt ; je ferai couler sur la terre un torrent de sang semblable au Djihoun.»
+> Me voilà prêt ; je ferai couler sur la terre un torrent de sang semblable au Djihoun. »
 
 Lorsque les deux tiers de la nuit sombre se lurent écoulés, la plaine retentit du bruit des cavaliers ; les Turcs se préparèrent à une attaque ,espérant que ce combat leur permettrait de relever la tête.
 >
@@ -35,7 +35,7 @@ Lorsque les deux tiers de la nuit sombre se lurent écoulés, la plaine retentit
 
 > Il arrive une armée silencieuse comme un courant d’eau, on dirait qu’elle n’a pas de langue pour parler : c’est ainsi qu’on agit dans une surprise de nuit.
 >
-> Le Sipehdar sait ce qu’il aura à faire.»
+> Le Sipehdar sait ce qu’il aura à faire. »
 
 Le Pehlewan ordonna à ses troupes de se tenir éveillées et attentives, de prêter l’oreille au moindre bruit que feraient les Touraniens, afin qu’on s’aperçût de leur approche.
 
@@ -43,7 +43,7 @@ Ensuite, il fit appeler Bijen fils de Guiv, le vaillant héros toujours prêt à
 
 > Ton étoile est heureuse, tes entreprises réussissent, ton nom brise le cœur de nos ennemis ; prends parmi ces héros, ces grands et ces braves, autant de
 >
-> xsî Knosnou. cavaliers qu’il en faut ; va comme un lion à la rencontre de cette troupe qui vient nous attaquer et foulela vaillamment aux pieds.»
+> xsî Knosnou. cavaliers qu’il en faut ; va comme un lion à la rencontre de cette troupe qui vient nous attaquer et foulela vaillamment aux pieds. »
 
 Bijen choisit dans l’armée mille cavaliers braves et ardents pour le combat et bientôt les deux troupes s’avancèrent l’une contre l’autre, remplies de haine et impatientes de se livrer bataille.
 >
@@ -53,7 +53,7 @@ Bijen choisit dans l’armée mille cavaliers braves et ardents pour le combat e
 >
 > Lorsque Bijen s’approcha de Nestihen et qu’il vit le drapeau du chef de la famille de Wiseh, il tendit les muscles de sa poitrine et lança une flèche contre le cheval de Nestihen, qui s’abattit vaincu par la douleur.
 >
-> Bijen, avide de renom, se jeta sur Nestihen, le frappa avec une massue sur sa tête couverte d’un casque, en lit jaillir toute la cervelle et le tua.
+> Bijen, avide de renom, se jeta sur Nestihen, le frappa avec une massue sur sa tête couverte d’un casque, en fit jaillir toute la cervelle et le tua.
 >
 > Alors, il dit aux Iraniens :
 
@@ -65,11 +65,11 @@ Bijen choisit dans l’armée mille cavaliers braves et ardents pour le combat e
 >
 > Il dit aux espions :
 
-> Il faut envoyer d’ici un cavalier dans le camp des Iraniens ; et s’il ne rapporle pas des nouvelles de mon frère Nestihen, je lui arracherai les yeux de la tête.»
+> Il faut envoyer d’ici un cavalier dans le camp des Iraniens ; et s’il ne rapporle pas des nouvelles de mon frère Nestihen, je lui arracherai les yeux de la tête. »
 
 On expédia sur lechamp un cavalier ; celui-ci partit, vit tout et revint en toute hâte, disant :
 
-> Nestihen gît sur le champ de bataille avec les grands de l’armée du Touran, la tête coupée et jetée par terre comme celle d’un éléphant, le corps brisé par les coups de massue et ’tout bleu.»
+> Nestihen gît sur le champ de bataille avec les grands de l’armée du Touran, la tête coupée et jetée par terre comme celle d’un éléphant, le corps brisé par les coups de massue et ’tout bleu. »
 
 À ces paroles Piran entra dans une grande agitation, sa raison s’égara ; il s’arracha les cheveux, versa des larmes et perdit l’ap-
 
@@ -95,4 +95,4 @@ Le Sipehdar del’Iran rentra dans Beibed l’âme agitée de soucis ; il se dit
 
 > Nous avons livré aujourd’hui une grande bataille, nous avons tué quelquesuns de leurs chefs et je suppose que Piran va envoyer en toute hâte un cavalierau roi du Touron et lui demander du secours pour les combats que son armée aura mon à livrer.
 >
-> Il faut donc que moi aussi je donne des nouvelles à Khosrou.»
+> Il faut donc que moi aussi je donne des nouvelles à Khosrou. »
