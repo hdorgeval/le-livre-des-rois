@@ -28,7 +28,7 @@ Il distribua encore des trésors dans ce pays et désira qu’il lût cultivé.
 
 À chaque station arrivait une escorte de cavaliers pour protéger le roi.
 
-Khosrou reçut des nouvelles de Gangue et d’Alrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Al’rasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afia-) aiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sons le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
+Khosrou reçut des nouvelles de Gangue et d’Alrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Al’rasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afia-) aiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sous le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
 
 Khosrou, le maître du monde, méprisa ces mouvements ; son esprit ne s’occupait que d’Al’rasiab.
 
@@ -42,7 +42,7 @@ Ces deux chefs, l’honneur des couronnes qu’ils portaient, partirent, l’un 
 
 Le roi lui-même resta un mois dans le pays de Soghd, qui lui devint tout dévoué ; il donna de l’argentà son armée et la [il reposer, il guettait le moment où il faudrait livrer bataille.
 
-Il rassembla tous ceux qui étaient propres au combat, qui contraissaient l’art et les ruses des sièges ; il s’en lit (les amis et remplit de terreur la tête des méchants.
+Il rassembla tous ceux qui étaient propres au combat, qui contraissaient l’art et les ruses des sièges ; il s’en fit des amis et remplit de terreur la tête des méchants.
 
 Ensuite, il partit du pays de Soghd et de Kaschan avec une armée fière, couverte d’armures, préparée au combat et telle que le monde en resta confondu.
 
@@ -52,7 +52,7 @@ Keï Khosrou adressa la parole à son armée, disant :
 
 > Maintenant il faut faire la guerre sur un plan nouveau.
 >
-> Ceux parmi les Turcs qui nous obéiront, qui regretteront de nous avoir combattus, ne les attaquez pas, ne versez pas leur sang, ne permettez à personne de leur faire du mal ; mais ceux qui s’aviseraient de nous attaquer, ceux dont le cœur haineux ne veut pas suivre la bonne voie. il vous est permis de verser leur sang, de les attaquer partout et de les piller.»
+> Ceux parmi les Turcs qui nous obéiront, qui regretteront de nous avoir combattus, ne les attaquez pas, ne versez pas leur sang, ne permettez à personne de leur faire du mal ; mais ceux qui s’aviseraient de nous attaquer, ceux dont le cœur haineux ne veut pas suivre la bonne voie. il vous est permis de verser leur sang, de les attaquer partout et de les piller. »
 
 On proclama devant l’armée qu’il ne fallait pas prendre les vivres, ni montrer de la haine, ni faire la guerre à quiconque ne portait pas dans son cœur de la haine contre le roi.
 
@@ -68,6 +68,12 @@ Les montagnes étaient remplies de bêtes fauves, les plaines couvertes d’arbr
 
 Il envoya des vedettes et des espions ponr être garanti de dangers cachés ; on plaça le camp du jeune roi sur les bords del’eau ; le maître du monde s’assit sur son trône d’or, entouré des grands, ses serviteurs et il passa ses nuits, jusqu’au retour de la pure lumière du jour, dans des fêtes qui faisaient sortir les morts de leurs tombes dans la terre noire.
 
-De l’autre côté, Afrasiab, qui se tenait à Gangue, ne cessait ni pendant le jour brillant, ni pendant le temps du sommeil, de dire à tous ses confidents, aux grands pleins de vigilance et de sagesse : Maintenant que l’ennemi est arrivé jusqu’à notre chevet, comment pourrions-nous rester tranquilles à Gangue?n Tous lui répondirent : Notre ennemi étant proche, nous ne voyons que le combat, car pourquoi nous soumettrions-nous?»
+De l’autre côté, Afrasiab, qui se tenait à Gangue, ne cessait ni pendant le jour brillant, ni pendant le temps du sommeil, de dire à tous ses confidents, aux grands pleins de vigilance et de sagesse :
+
+> Maintenant que l’ennemi est arrivé jusqu’à notre chevet, comment pourrions-nous rester tranquilles à Gangue ? »
+
+Tous lui répondirent :
+
+> Notre ennemi étant proche, nous ne voyons que le combat, car pourquoi nous soumettrions-nous ? »
 
 Ils le dirent, se levèrent et passèrent toute la nuit à mettre en ordre leur armée.
