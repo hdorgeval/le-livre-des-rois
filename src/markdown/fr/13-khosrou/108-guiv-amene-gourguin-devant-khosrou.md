@@ -27,11 +27,11 @@ Il salua Khosrou en disant :
 > Je n’avais au monde qu’un fils, un jeune homme pour la vie duquel je tremblais jour et nuit ; je me consumais dans la crainte de le perdre, je versais r2 des larmes de peur d’être séparé de lui.
 >
 > Maintenant.
-ô roi, Gourguin revient la bouche pleine de récits insensés, l’âme chargée de crimes ; il apporte de v mauvaises nouvelles de cet enfant, qui est. un prince glorieux et mon Destour.
+ô roi, Gourguin revient la bouche pleine de récits insensés, l’âme chargée de crimes ; il apporte de mauvaises nouvelles de cet enfant, qui est un prince glorieux et mon Destour.
 >
 > Il ramène un cheval qui traîne par terre sa selle et voilà tout ce qu’il rapporte de Bijen.
 >
-> Si le roi veut arriver à la vérité dans cette affaire, qu’il y jette son regard pénétrant et qu’il me venge de Gourguin, qui a rempli ma vie d’amertume.»
+> Si le roi veut arriver à la vérité dans cette affaire, qu’il y jette son regard pénétrant et qu’il me venge de Gourguin, qui a rempli ma vie d’amertume. »
 
 Le roi fut affligé de la douleur de Guiv, il se troubla et ôta de sa tête son glorieux diadème.
 
@@ -39,7 +39,7 @@ Il restait sur son trône les joues pâles, le cœur serré par ses inquiétudes
 
 > Qu’a dit Gourguin ?
 >
-> Où dit-il qu’il a laissé son vertueux compagnon ?»
+> Où dit-il qu’il a laissé son vertueux compagnon ? »
 
 Guiv répéta alors à Khosrou ce que Gourguin lui avait conté de son noble fils.
 
@@ -49,7 +49,7 @@ Khosrou écouta Guiv et lui répondit :
 >
 > Il a été convenu entre moi et les Mobeds, les illustres sages à l’esprit Vigilant, que je partirais sans délai avec les cavaliers de l’Iran pour livrer bataille aux Touraniens ; je mettrai en marche mon armée pour venger Siawusch ; je dévasterai le Touran avec mes éléphants et Bijen paraîtra sur le champ de bataille et combattra avec nous comme un Ahriman.
 >
-> Va donc et ne t’afilige pas de cette affaire ; car je désire autant que toi revoir Bijen.»
+> Va donc et ne t’afilige pas de cette affaire ; car je désire autant que toi revoir Bijen. »
 
 Guiv se retira le cœur plein de soucis et de douleur, les joues pâles, les yeux remplis de sang.
 
@@ -57,7 +57,7 @@ Lorsque Gourguin arriva en présence du roi, il trouva que les héros avaient qu
 
 7. tous les Pehlewans avaient suivi Guiv en pleurant.
 
-Il franchit la porte du palais et s’avança jusqu’auprès i du roi ; son âme méchante était remplie de honte. !
+Il franchit la porte du palais et s’avança jusqu’auprès du roi ; son âme méchante était remplie de honte. !
 
 Arrivé en face de Khosrou, il baisa la terre et invoqua Ies grâces de Dieu sur lui.
 
@@ -67,9 +67,11 @@ Il plaça devant le trône les dents des sangliers dures comme le diamant et sal
 >
 > Puisse chaque jour être pour toi un jour de Nourouz !
 >
-> Puisses-tu être heureux à jamaisl puisses-tu rester libre de soucis et d’inquiétude !
+> Puisses-tu être heureux à jamais !
 >
-> Puissent les têtes de tes ennemis tomber sous les ciseaux de la mort et être tranchées comme les têtes de ces sangliers!»
+> Puisses-tu rester libre de soucis et d’inquiétude !
+>
+> Puissent les têtes de tes ennemis tomber sous les ciseaux de la mort et être tranchées comme les têtes de ces sangliers ! »
 
 Le roi regarda ces dents, ensuite il lui demanda :
 
@@ -79,17 +81,17 @@ Le roi regarda ces dents, ensuite il lui demanda :
 >
 > Comment se fait-il qu’il t’ait quitté ?
 >
-> Dis-Ie-moi si tu veux échapper à ta perte.»
+> Dis-Ie-moi si tu veux échapper à ta perte. »
 
-À ces paroles de Khosrou, Gourguin resta debout, tout troublé et confondu, la langue’ embarrassée, le cœur rempli de la conscience de son crime, les joues pâles, le corps tremblant par la crainte du roi ; à la fin il parla vaguemenl d’une forêt, d’un onagre et d’une prairie.
+À ces paroles de Khosrou, Gourguin resta debout, tout troublé et confondu, la langue’ embarrassée, le cœur rempli de la conscience de son crime, les joues pâles, le corps tremblant par la crainte du roi ; à la fin il parla vaguement d’une forêt, d’un onagre et d’une prairie.
 
 Mais comme ses discours se contredisaient, le roi entra en fureur et le chassa d’auprès du trône.
 
 Il voyait que sa tête se troublait, il voyait que c’était un méchant homme et il se mit à l’injurier en disant :
 
-> N’as-tu pas entendu de la bouche du Destan ce vieux dicton, qu’un lion qui lutte contre .la vengeance de la’famille de Gouderz périt infailliblement ?
+> N’as-tu pas entendu de la bouche du Destan ce vieux dicton, qu’un lion qui lutte contre .la vengeance de la famille de Gouderz périt infailliblement ?
 >
-> Si tu n’étais pas si malfamé, si Dieu ne te réservait une fin misérable, je voudrais qu’Ahriman t’arrachât la tête comme on l’arrache à un oiseau.»
+> Si tu n’étais pas si malfamé, si Dieu ne te réservait une fin misérable, je voudrais qu’Ahriman t’arrachât la tête comme on l’arrache à un oiseau. »
 
 I Khosrou ordonna à un forgeron de préparer une lourde chaîne avec des clous pour la river et lui fit mettre à l’instant même des fers aux pieds, pour que ce méchant apprît dans les chaînes à réfléchir.
 
@@ -101,7 +103,7 @@ Ensuite, il dit à Guiv :
 >
 > Je me ferai apporter la coupe qui réfléchit le monde, je me présenterai devant Dieu, je me
 >
-> H tiendrai debout devant lui et je regarderai dans la coupe les sept Kischwers ; je scruterai tous les pays de toutes les zones de la terre ; j’invoquerai les grâces de Dieu sur mes ancêtres, les élus, les puissants, les saints ; ensuite je te dirai où se trouve Bijen, car la coupe me le montrera clairement.»
+> tiendrai debout devant lui et je regarderai dans la coupe les sept Kischwers ; je scruterai tous les pays de toutes les zones de la terre ; j’invoquerai les grâces de Dieu sur mes ancêtres, les élus, les puissants, les saints ; ensuite je te dirai où se trouve Bijen, car la coupe me le montrera clairement. »
 
 Guiv se réjouit de ces paroles et se sentit soulagé. de ses soucis sur le sort de son fils ; il sourit et bénit le roi, disant :
 
@@ -109,7 +111,7 @@ Guiv se réjouit de ces paroles et se sentit soulagé. de ses soucis sur le sort
 >
 > Que le firmament sublime soit à tes ordres !
 >
-> Que l’œil du méchant ne puisse t’atteindre!»
+> Que l’œil du méchant ne puisse t’atteindre ! »
 
 Le roi, aussitôt que Guiv l’eut quitté, fit expédier de partout et sans délai des cavaliers pour aller s’enquérir dans le monde entier si quelque part on avait des nouvelles de Bijen.
 
