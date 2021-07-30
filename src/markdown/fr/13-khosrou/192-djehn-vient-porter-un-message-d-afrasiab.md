@@ -16,7 +16,7 @@ order: '192'
 
 # Djehn vient porter un message d'Afrasiab
 
-Le lendemain, lorsque le soleil se montra au-des-sus des cimes des montagnes et qu’il plaça son flambeau d’or sous la voûte du ciel, on entendit un grand bruit dans la forteresse, el Khosrou en devint inquiet.
+Le lendemain, lorsque le soleil se montra au-dessus des cimes des montagnes et qu’il plaça son flambeau d’or sous la voûte du ciel, on entendit un grand bruit dans la forteresse, el Khosrou en devint inquiet.
 
 Tout à coup on ouvrit la porte du château et ce secret mystérieux fut dévoilé.Djehn, accompagné de dix cavaliers, sortit de la. ville.
 
@@ -40,24 +40,28 @@ Lorsque celui-ci fut arrivé en présence du roi, Khosrou versa des larmes qui i
 >
 > Puissent ton départ et ton retour avoir été heureux !
 >
-> Puisses-tu être disposé à de bonnes parolesl J’apporte un message d’Afrasiab, si le roi a la patience de m’écouter.»
+> Puisses-tu être disposé à de bonnes paroles !
+>
+> J’apporte un message d’Afrasiab, si le roi a la patience de m’écouter. »
 
 Le roi ayant entendu ces paroles de Djehn, ordonna de placer cet homme sage sur un trône d’or.
 
 Djehn s’assit et s’acquitta du message de son père,
 8
 
-’ disant : Afrasiab est assis sur son trône dans la dou-leur et les cils des yeux mouillés de larmes.
+’ disant :
+
+> Afrasiab est assis sur son trône dans la douleur et les cils des yeux mouillés de larmes.
 
 D’abord je porte au roi les salutations du chef de l’armée de ’ Touran, au cœur déchiré ; il m’a dit :
 
 > Grâces soient rendues à Dieu, en qui est notre refuge, de ce que mon petit-fils est parvenu à un tel degré de puissance, qu’il conduit l’armée, qu’il gouverne l’empire, qu’il monte sur la voûte du ciel qui tourne !
 >
-> Du côté du père, ses aïeux ont été rois, depuis Keîkohad ; du côté de la mère, il descend de Tour ; sa tête dépasse les têtes des rois de la terre et son nom est le diadème qui surmonte le trône L’aigle qui vole dans les nues et le vaillant crocodile dans les flots de la mer sont les gardiens de ton trône ; les bêtes fauves se réjouissent de la fortune et les princes, avec leurs couronnes et leurs joyaux, sont tes inférieurs.
+> Du côté du père, ses aïeux ont été rois, depuis Keïkobad ; du côté de la mère, il descend de Tour ; sa tête dépasse les têtes des rois de la terre et son nom est le diadème qui surmonte le trône L’aigle qui vole dans les nues et le vaillant crocodile dans les flots de la mer sont les gardiens de ton trône ; les bêtes fauves se réjouissent de la fortune et les princes, avec leurs couronnes et leurs joyaux, sont tes inférieurs.
 >
 > C’est l’œuvre la plus étonnante du Div, le maudit, qu’il n’ait jamais voulu que ma perte.
 >
-> Comment mon cœur a-t-il tellement failli, que malgré ma tendresse et me droilure, j’ai tué de ma main le noble Siawusch, le fils innocent de Kaous ?
+> Comment mon cœur a-t-il tellement failli, que malgré ma tendresse et me droiture, j’ai tué de ma main le noble Siawusch, le fils innocent de Kaous ?
 >
 > Mon âme en est déchirée, je suis assis dans ma douleur, ayant perdu la faim et le sommeil.
 >
@@ -83,7 +87,7 @@ D’abord je porte au roi les salutations du chef de l’armée de ’ Touran, a
 >
 > Suppose que la fortune qui change t’abandonne dans la bataille : alors le sort t’accablera au delà de tout ce que tu as pu craindre et un autre que toi profitera de ta peine.
 >
-> Et si tu dis : Je prendrai le pays des Turcs et la Chine, je ferai écrouler le ciel sur la terre, j’exterminerai cette cour avec l’épée et Afrasiab tombera dans ma main, ne crois pas que cela soit dans l’avenir, car celuilà ne sera jamais broyé, qui n’est pas destiné à périr.
+> Et si tu dis : Je prendrai le pays des Turcs et la Chine, je ferai écrouler le ciel sur la terre, j’exterminerai cette cour avec l’épée et Afrasiab tombera dans ma main, ne crois pas que cela soit dans l’avenir, car celui-là ne sera jamais broyé, qui n’est pas destiné à périr.
 >
 > Je suis le petittils de Zadschem, le plus grand des rois, je suis de la race de Feridoun et de Djemschid, je possède la sa-. gesse et la dignité que Dieu donne aux rois, je suis comme le Serosch et j’ai des ailes comme lui.
 >
@@ -91,7 +95,7 @@ D’abord je porte au roi les salutations du chef de l’armée de ’ Touran, a
 >
 > Je traverserai la mer de Kaimak, je t’abandonnerai mon armée et mon empire.
 >
-> Ganguediz sera la résidence et mon e : pays et mon peuple ne me verront plus ; mais quand le jour de la vengeance aura paru, alors aie soin de tenir prête ton armée, car je viendrai me venger de toi et rétablir en tout lieu ma foi.
+> Ganguediz sera la résidence et mon : pays et mon peuple ne me verront plus ; mais quand le jour de la vengeance aura paru, alors aie soin de tenir prête ton armée, car je viendrai me venger de toi et rétablir en tout lieu ma foi.
 >
 > Mais si tu veux renoncer à toute idée de guerre, si tu veux rendre heureux ce pays par ta clémence, j’ouvrirai mes trésors de couronnes et de ceintures. mes trésors d’argent, d’or et de pierreries et tu prendras ce que Feridoun n’avait jamais donné à Iredj et ne parleras plus de vengeance.
 >
@@ -103,4 +107,4 @@ D’abord je porte au roi les salutations du chef de l’armée de ’ Touran, a
 >
 > Dis ce que tu veux, ce que tu désires, réfléchis sur le passé et sur ton avenir.
 >
-> Mais si tu refuses mon conseil, si tu médites vengeance contre ton grand-père, alors prépare-toi à la bataille, aussitôt que Djehn sera revenu : je suis prêt pour le combat comme un léopard.»
+> Mais si tu refuses mon conseil, si tu médites vengeance contre ton grand-père, alors prépare-toi à la bataille, aussitôt que Djehn sera revenu : je suis prêt pour le combat comme un léopard. »
