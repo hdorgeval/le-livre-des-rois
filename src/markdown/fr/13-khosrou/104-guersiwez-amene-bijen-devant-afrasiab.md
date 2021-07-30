@@ -191,6 +191,7 @@ Je suis loin des héros pleins de valeur.
 >
 > Dites à Gouderz fils de Keschwad que c’est Gourguin qui a terni ma gloire.
 >
-> Dites à Gourguin : 
->
+> Dites à Gourguin :
+
+> >
 > > Ô chien stupide, que me répondras-tu dans l’autre monde, toi qui m’as jeté dans le malheur de manière que je ne puisse trouver de sauveur ?
