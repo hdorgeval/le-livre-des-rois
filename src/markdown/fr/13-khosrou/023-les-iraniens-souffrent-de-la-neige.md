@@ -80,7 +80,7 @@ Bahram, le plus fier d’entre les héros, lui répondit :
 >
 > Je t’avais averti de ne pas le faire, parce que ce n’était pas juste.
 >
-> Souviens-toi des désastres qui en sont déjà résultés ; et quels malheurs ne vont-ils pas encore t’atteindre car cette affaire ne fait que commencer.
+> Souviens-toi des désastres qui en sont déjà résultés ; et quels malheurs ne vont-ils pas encore t’atteindre car cette affaire ne fait que commencer.
 
 Thous lui dit :
 
