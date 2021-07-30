@@ -32,7 +32,7 @@ Il emmena de la prairie le cheval de Bijen, le conduisit à sa tente et s’y ar
 
 > Quand je serai arrivé, que dirai-je ?
 >
-> Comment oserai-je re garder le visage du roi ?»
+> Comment oserai-je regarder le visage du roi ? »
 
 Le roi ayant appris que Gourguin arrivait, mais sans être accompagné de Bijen, n’en dit rien à Guiv pour avoir le temps d’interroger Gourguin.
 
@@ -42,7 +42,7 @@ Il sortit de son palais et courut dans la rue le cœur blessé, le visage inond�
 
 > Bijen ne viendra-t-il donc pas ?
 >
-> Je ne sais pourquoi il reste chez les Irmaniens.»
+> Je ne sais pourquoi il reste chez les Irmaniens. »
 
 Il ordonna qu’on mît la selle de peau de léopard au destrier de Keschwad, dont il se servait quand il allait au secours de quelqu’un.
 
@@ -50,27 +50,29 @@ Guiv, le cœur rempli de rage comme un crocodile, monta à l’instant à cheval
 
 Il se dit en lui-même :
 
-> Je crains que Gourguin n’ait commis un crime à l’improviste et secrètement ; et si je le vois arriver sans mon fils Bijen, je lui trancherai aussitôt la tête.»
+> Je crains que Gourguin n’ait commis un crime à l’improviste et secrètement ; et si je le vois arriver sans mon fils Bijen, je lui trancherai aussitôt la tête. »
 
 Lorsque Gourguin le vit s’approcher, il mit pied à terre et courut au-devant de lui ; il se roula dans la poussière tête nue et déchirant ses joues avec ses ongles.
 
 Ensuite, il demanda à Guiv :
 
-> Ô élu des hérrros, chef de l’armée de l’Iran, gardien du trône, pourquoi es-tu venu au-devant de moi ?
+> Ô élu des héros, chef de l’armée de l’Iran, gardien du trône, pourquoi es-tu venu au-devant de moi ?
+>
+> Pourquoi es-tu venu les yeux remplis de sang ?
+>
+> Mon pauvre cœur était déjà assez affligé et maintenant il va être encore plus malheureux ; mes yeux sont honteux de te regarder et mon visage est inondé de n brûlantes larmes de sang.
+>
+> Mais ne sois pas inquiet, car il est en vie et je vais t’indiquer ses traces. »
 
-Pourquoi es-tu venu les yeux remplis de sang ?
-
-Mon pauvre cœur était déjà assez affligé et maintenant il va être encore plus malheureux ; mes yeux sont honnteux de te regarder et mon visage est inondé de n brûlantes larmes de sang.
-
-Mais ne sois pas inquiet, car il est en vie et je vais t’indiquer ses tracesm Quand Guiv vit le cheval de son fils conduit par Gourguin, couvert de poussière et trébuchant comme s’il était ivre, quand son oreille fut frappée des paroles de Gourguin, il tomba de cheval et perdit la raison ; il enfonça sa tête dans la poussière, déchira ses vêtements de Pehlewan, s’arracha les cheveux et la barbe et répandit de la poussière sur sa tête en poussant des cris.
+Quand Guiv vit le cheval de son fils conduit par Gourguin, couvert de poussière et trébuchant comme s’il était ivre, quand son oreille fut frappée des paroles de Gourguin, il tomba de cheval et perdit la raison ; il enfonça sa tête dans la poussière, déchira ses vêtements de Pehlewan, s’arracha les cheveux et la barbe et répandit de la poussière sur sa tête en poussant des cris.
 
 Puis, il dit :
 
-> Ô créateur du ciel, e : tu as mis dans mon cœur de la raison et de la tenrr dresse.
+> Ô créateur du ciel, : tu as mis dans mon cœur de la raison et de la tenrr dresse.
 >
-> Puisque mon fils m’est enlevé, je désire que r tu brises les liens de ma vie et que tu portes mon âme dans le séjour des bons ; car tu connais les douleurs de mon cœur.
+> Puisque mon fils m’est enlevé, je désire que tu brises les liens de ma vie et que tu portes mon âme dans le séjour des bons ; car tu connais les douleurs de mon cœur.
 >
-> Je n’avais dans le monde qu’un seul fils, qui était pour moi un consolateur et un soutien ; maintenant le malheur me l’a ravi et je me trouve dans la gueule du dragon.»
+> Je n’avais dans le monde qu’un seul fils, qui était pour moi un consolateur et un soutien ; maintenant le malheur me l’a ravi et je me trouve dans la gueule du dragon. »
 
 Ensuite, il se retourna vers Gourguin et lui demanda :
 
@@ -82,7 +84,7 @@ Ensuite, il se retourna vers Gourguin et lui demanda :
 >
 > Quel Div s’est élancé sur lui dans la prairie, a mis fin à sa vie et l’a anéanti ?
 >
-> Ô brave, comment as-tu trouvé ce cheval et quand t’es-tu séparé de Bijen ?»
+> Ô brave, comment as-tu trouvé ce cheval et quand t’es-tu séparé de Bijen ? »
 
 Gourguin répondit :
 
@@ -114,7 +116,7 @@ Gourguin répondit :
 >
 > Je m’arrêtai longtemps dans cette prairie, je cherchai partout Bijen.
 >
-> À la fin je partis désespéré et convaincu que cet onagre féroce était le Div blanc.»
+> À la fin je partis désespéré et convaincu que cet onagre féroce était le Div blanc. »
 
 En entendant ce discours artificieux, Guiv sentit que tout était fini ; il vit que la parole de Gourguin était embarrassée et que ses yeux se troublaient quand il le regardait ; que sa joue était pâle par la crainte du roi, que son corps tremblait et que son cœur se sentait coupable.
 
@@ -128,11 +130,11 @@ Mais il se mit à penser et à réfléchir ; il ne vit pas jour à cette affaire
 >
 > Il faut que je trouve un autre remède à mon malheur.
 >
-> Il me serait facile de me venger, car il n’y a pas de muraille devant ma lance ; mais il vaut mieux que je me rende auprès de Khosrou, pour que les paroles de Gourguin le convainquent de son crime.»
+> Il me serait facile de me venger, car il n’y a pas de muraille devant ma lance ; mais il vaut mieux que je me rende auprès de Khosrou, pour que les paroles de Gourguin le convainquent de son crime. »
 
 Al :
 
-Alors, il dit à Gourguin d’une voix de tonnerre :
+> Alors, il dit à Gourguin d’une voix de tonnerre :
 
 > Ô vil et méchant homme, souillé de crimes, lu m’as enlevé mon soleil et ma lune, mon fils, l’élu des cavaliers et mon roi.
 >
