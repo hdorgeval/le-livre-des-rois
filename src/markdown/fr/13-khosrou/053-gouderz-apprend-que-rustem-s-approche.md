@@ -172,7 +172,7 @@ Il revint en courant auprès du Sipehbed, le cœur soucieux et en peine et l’e
 >
 > On voit des drapeaux et des lances sans nombre ;
 >
-> Le soleil dans les cieux est obscurci par la se poussière ;
+> Le soleil dans les cieux est obscurci par la poussière ;
 >
 > Si tu voulais compter cette armée, aucun chiffre ni aucune mesure n’y suffirait et l’oreille est assourdie par le bruit de leurs tambours.
 
@@ -192,7 +192,7 @@ Il rassembla les chefs de l’armée, dévoré d’anxiété et de sollicitude p
 >
 > Si je tombe dans cette bataille, l’Iran trouvera toujours un Sipehbed aussi longtemps qu’il y aura un roi.
 >
-> On ne dira pas que je suis mort sans gloire et comme un lâche, mais considérez-moi comme un homme que recouvre déjà la terre.
+> On ne dira pas que je suis mort sans gloire et comme un lâche, mais considérez-moi comme un homme que recouvre déjà la terre.
 
 L’avis du Pehlewan fut partagé par l’armée, par tous ceux qui se trouvaient dans le camp ;
 
