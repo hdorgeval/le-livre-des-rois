@@ -73,7 +73,10 @@ const rules = createRulesFromLtex(path.join(process.cwd(), 'src/markdown/fr/12-k
 console.log(rules);
 const replacers = rules.map((rule) => {
   const [word, replacement] = rule.split(' => ');
-  return `(content: string) => content.replace(/${word.replace('.', '.')}/, '${replacement}')`;
+  if (replacement.includes("'")) {
+    return `(content: string) => content.replace(/${word.replace('.', '\\.')}/, "${replacement}"),`;
+  }
+  return `(content: string) => content.replace(/${word.replace('.', '\\.')}/, '${replacement}'),`;
 });
 
 writeFileSync(path.join(__dirname, 'replacers.fr.txt'), replacers.join('\n'));
