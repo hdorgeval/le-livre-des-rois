@@ -33,7 +33,7 @@ order: '065'
 
 # Le Khakan apprend la mort de Kamous
 
-> Écoute-moi, ô homme intelligent [^1] : 
+> Écoute-moi, ô homme intelligent [^1]: 
 >
 > Que ta langue ne prononce d’autre nom que celui de Dieu, qui est notre guide dans le bonheur et dans le malheur, qui maintient la voûte du ciel qui tourne, qui a créé l’âme et la raison et que seul on doit adorer.
 >
@@ -91,4 +91,4 @@ Il réunit autour de lui un grand nombre de héros illustres, d’hommes armés 
 >
 > Sachez aussi de quel pays il est et quel est son nom, ensuite nous préparerons sa perte.
 
-[^1] : C'est Firdousi qui parle ici au lecteur.
+[^1]: C'est Firdousi qui parle ici au lecteur.
