@@ -58,6 +58,6 @@ Il fit apporter cent robes de brocart de Roum toutes brodées de pierreries et d
 >
 > Le destin ne rougit pas de mal faire et il n’a de tendresse pour personne ; il est éternellement le maître du bonheur et du malheur, mais il ne demande à personne de l’amitié.
 >
-> Telle est la coutume de ce monde passager, qui nous guide sur la route du bien et du mal ; mais aussi longtemps que tu le garantiras du souci des richesses, ton cœur noble demeurera exempt de’ trouble.»
+> Telle est la coutume de ce monde passager, qui nous guide sur la route du bien et du mal ; mais aussi longtemps que tu le garantiras du souci des richesses, ton cœur noble demeurera exempt de trouble. »
 
 J’ai maintenant raconté en entier cette aventure, telle que je l’ai entendu réciter selon la tradition antique ; et ayant achevé l’histoire de Bijen, je vais parlerde Gouderz et de Piran.
