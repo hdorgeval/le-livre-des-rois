@@ -60,40 +60,42 @@ Porte à Keï Khosrou mon message et dis-lui :
 >
 > Si tu ne veux pas me combattre, si tu n’oses pas t’opposer au crocodile plein d’expérience, voici Pesclieng qui se présente devant toi en armes ; n’hésite pas à accepter le combat qu’il t’offre.
 >
-> Le père est vieux, mais son fils tiendra sa place ; il est jeune, prudent, fort et glorieux ; il t’atlaquera sur le champ de bataille, il y apportera un cœur de lion et des gril’fes de léopard et nous verrons alors sur qui le ciel tournera favorablement, surla tête de qui il placera la’couronne de sa grâce.
+> Le père est vieux, mais son fils tiendra sa place ; il est jeune, prudent, fort et glorieux ; il t’attaquera sur le champ de bataille, il y apportera un cœur de lion et des gril’fes de léopard et nous verrons alors sur qui le ciel tournera favorablement, surla tête de qui il placera la’couronne de sa grâce.
 >
 > Ou encore si tu ne veux pas de lui comme adversaire, si tu veux que le combat soit livré d’une autre manière, attends que mon armée se soit reposée cette nuit ; et demain, quand les montagnes se seront ceintes de leur diadème d’or, quand la nuit sombre aura retiré d’elles le pan de sa robe et caché sa tête sous son voile de feutre, nous choisirons dans nos rangs des braves portant haut la tête et armés de lourdes massues ; le sang teindra la terre comme du brocart, nous coucherons sur le sol nos ennemis.
 >
 > Le second jour, àl’heure où chante le coq, nous placerons les timbales sur le dos des éléphants, nous amènerons les héros de nos armées pour nous seconder et nous ferons couler des ruisseaux de sang.
 >
-> Le troisième jour nous mènerons au combat des armées semblables à des montagnes, nouslivrerons une bataille générale et nous verrons lequel de nous le ciel sublime rejette et lequel il honore.»
+> Le troisième jour nous mènerons au combat des armées semblables à des montagnes, nous livrerons une bataille générale et nous verrons lequel de nous le ciel sublime rejette et lequel il honore. »
 
 R-Si mon ennemi refuse d’obéir au message que
 1v.
 
-Il tu portes, s’il recule et ne veut pas consentir à ce queje propose, alors provoque-le à un combat corps à corps, loin de l’armée.»
+Il tu portes, s’il recule et ne veut pas consentir à ce queje propose, alors provoque-le à un combat corps à corps, loin de l’armée. »
 
 Pescheng choisit parmi les chyle : intelligents quatre hommes qui avaient souvent souffert la chaleur et le froid du monde, ensuite il rendit ses hommages au roi et sortit ; son père avait les yeux remplis de larmes et le cœur gonflé de sang.
 
-Pescheng prit dans l’armée mille braves, hommes de sens, habiles au combat. et partit.
+Pescheng prit dans l’armée mille braves, hommes de sens, habiles au combat et partit.
 
-Les vedettes iraniennes l’aperçurent de loin : elles virent l’étendard brillant de Tour et les Turcs qui formaient la tête du corte’ge. jeunes gens sans expérience, attaquèrent les vedettes sur la route et commencèrent à l’improviste, avant que Schideh fût arrivé, à verser du sang.
+Les vedettes iraniennes l’aperçurent de loin : elles virent l’étendard brillant de Tour et les Turcs qui formaient la tête du cortège. jeunes gens sans expérience, attaquèrent les vedettes sur la route et commencèrent à l’improviste, avant que Schideh fût arrivé, à verser du sang.
 
 Quelques Iraniens étaient blessés et le combat était engagé. lorsque Schideh survint et aperçut le chef des Iraniens.
 
 Son cœur se serra, il rappela ses braves du combat et dit aux Iraniens :
 
-> Envoyez un cavalier auprès du roi, selon les usages et les coutumes ,-et faites-lui dire qu’il est arrivé un brave, du nom de Schideh, qui porte au roi un message d’Afrasiab, le maître de la Chine, le père de la mère du roi de l’Iran.»
+> Envoyez un cavalier auprès du roi, selon les usages et les coutumes ,-et faites-lui dire qu’il est arrivé un brave, du nom de Schideh, qui porte au roi un message d’Afrasiab, le maître de la Chine, le père de la mère du roi de l’Iran. »
 
 Un cavalier quitta en toute hâte les avantpostes et courut auprès du roi de l’Iran, disant :
 
-> Un mes-. sager du roi de Touran, un héros plein de dignité, accompagné d’un drapeau noir, est arrivé et (léclare que son nom est Schideh : il demande la ) permission de s’acquitter de son message.»
+> Un mes-. sager du roi de Touran, un héros plein de dignité, accompagné d’un drapeau noir, est arrivé et (léclare que son nom est Schideh : il demande la ) permission de s’acquitter de son message. »
 
 Le cœur du roi fut ému de ces paroles, il versa des larmes brûlantes et dit :
 
-> Schideh est mon oncle maternel, il est mon égal en stature et en bracevourem Il regarda l’assemblée pour choisir un des grands et ne vit que Karen, de la race de Kaweh ; il lui dit :
+> Schideh est mon oncle maternel, il est mon égal en stature et en bracevoure»
 
-> Rends-toi auprès de Schideh avec empressement, porte-lui mes salutations et écoute son message.»
+Il regarda l’assemblée pour choisir un des grands et ne vit que Karen, de la race de Kaweh ; il lui dit :
+
+> Rends-toi auprès de Schideh avec empressement, porte-lui mes salutations et écoute son message. »
 
 Karen sortit du camp, il vit le brillant drapeau noir, s’approcha de Schideh et le combla de salutations de la part du roi et des Iraniens.
 
