@@ -46,7 +46,7 @@ Quand tu m’auras placé dans le cercueil et que tu auras couvert mon visage, v
 
 Il remonta sur-le-champ à cheval, le cœur rempli de douleur et de vengeance et s’arma d’une épée indienne.
 
-A la nuit tombante, Tejaou parut faisant sa ronde ;
+À la nuit tombante, Tejaou parut faisant sa ronde ;
 
 Le vaillant Guiv le vit de loin, il secoua les rênes de son cheval et respira plus librement quand il reconnut que son ennemi s’était écarté de l’armée et qu’il était loin des braves qui portaient haut la tête.
 
@@ -104,7 +104,7 @@ Mais Guiv regarda son frère, si grièvement blessé ;
 
 Il regarda Tejaou le cruel, lié de cordes et il poussa un cri de rage, le saisit à la barbe et lui trancha la tête comme à une alouette.
 
-A cette vue, le vaillant Bahram s’écria d’une voix telle que personne n’en a jamais entendu de semblable :
+À cette vue, le vaillant Bahram s’écria d’une voix telle que personne n’en a jamais entendu de semblable :
 
 > Si je le tue, ou que je le laisse tuer devant mes yeux, mon frère ou un de mes parents seront tués ;
 
