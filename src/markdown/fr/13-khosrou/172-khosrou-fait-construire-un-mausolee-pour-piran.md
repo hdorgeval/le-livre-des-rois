@@ -21,11 +21,11 @@ Lorsque dix heures du jour furent écoulées et au moment où le soleil disparai
 
 Tous les chefs, tous les grands, tous les héros allèrent à pied au-devant de lui et les sages invoquèrent les bénédictions de Dieu sur lui, disant :
 
-> Ô roi. ô chef des Mobeds, ton corps ressemble à celui d’un éléphant terrible, ton âme à celle de Gabriel ; ta main est un nuage de printemps, ton cœur est comme les eaux de l’Indus.»
+> Ô roi. ô chef des Mobeds, ton corps ressemble à celui d’un éléphant terrible, ton âme à celle de Gabriel ; ta main est un nuage de printemps, ton cœur est comme les eaux de l’Indus. »
 
 Le roi monta à cheval pour que l’armée pût voir ses traits et la salua à son tour, disant :
 
-> Puisse la terre appartenir à jamais aux braves.»
+> Puisse la terre appartenir à jamais aux braves. »
 
 Ensuite Gouderz le soutien de l’armée, semblable à une montagne. se mit en marche, selon la coutume, accompagné d’un cortège.
 
@@ -41,13 +41,13 @@ Le roi descendit aussitôt de cheval et adressa des actions de grâce au Créate
 >
 > 
 >
-> A donné la victoire et la domination!»
+> A donné la victoire et la domination ! »
 
 Il se tenait debout en priant ; il ôta de dessus sa tête son diadème de Keïanide et invoqua les grâces du Dispensateur de la justice sur le Pehlewan et sur son armée, disant :
 
 > Ô hommes illustres dont les traces sont fortunées, vous êtes comme le feu et vos ennemis sont comme des roseaux.’Puisse le cœur du Sipehdar Gouderz et de tous les siens rester content et joyeux !
 >
-> Dorénavant les trésors et le pouvoir sont à moi et à vous et rien de ce que peut donner ma main droite ne vous sera refusé ; car vos âmes et vos corps ont été ma rançon et vous avez ôté le souille de la vie au pays de Touran. »
+> Dorénavant les trésors et le pouvoir sont à moi et à vous et rien de ce que peut donner ma main droite ne vous sera refusé ; car vos âmes et vos corps ont été ma rançon et vous avez ôté le souffle de la vie au pays de Touran. »
 
 Ensuite, il jeta les yeux sur les morts ; quand il aperçut les traits du Sipehdar Piran, il versa sur lui des larmes amères, car il se rappela toutes ses bonnes actions.
 
@@ -73,11 +73,11 @@ Son cœur se consumait tellement de douleur, qu’on aurait dit qu’un feu le b
 >
 > Il est venu avec une armée vous livrer la bataille où tant d’Iraniens ont succombé ; il a rejeté les conseils de Gouderz, mes ordres et les propositions de mes héros ; il a étouffé la bonté de son cœur vertueux et a mêlé du poison avec la thériaque de son naturel ; il s’est élancé en armes du Touran pour combattre Gouderz le Pehlewan à l’esprit serein.
 >
-> Il a sacrifié son fils et son frère, son diadème et sa ceinture, son armure, ses troupes et son pays entier à son amour pour Afrasiab et vous voyez que le destin n’a pas tardé à mettre lin à sa vie.»
+> Il a sacrifié son fils et son frère, son diadème et sa ceinture, son armure, ses troupes et son pays entier à son amour pour Afrasiab et vous voyez que le destin n’a pas tardé à mettre lin à sa vie. »
 
 Khosrou commanda qu’on embaumât le corps de Piran de la tête aux pieds avec un mélange de musc, de camphre, de poix et d’eau de rose ; il commanda qu’on remplît sa tête de camphre et de musc et qu’on revêtît de brocart de Roum son noble à corps, quoiqu’il eût été animé d’un si mauvais esprit.
 
-Dans sa tendresse pour le mort, il lit élever un tombeau dont le sommet touchait la sphère de Saturne ; on y plaça des trônes massifs et dignes de servir à un prince ; on assit sur un de ces trônes le Pehlewan couvert de ses armes et le casque sur la tête.
+Dans sa tendresse pour le mort, il fit élever un tombeau dont le sommet touchait la sphère de Saturne ; on y plaça des trônes massifs et dignes de servir à un prince ; on assit sur un de ces trônes le Pehlewan couvert de ses armes et le casque sur la tête.
 
 Telle est la manière d’agir du monde trompeur ; tantôt il vous élève, tantôt il vous précipite et le cœur du sage reste confondu en voyant ce qu’il promet et ce qu’il tient.
 
@@ -89,10 +89,10 @@ Il dit :
 >
 > Il faut que Kaous ait commis des crimes, qu’il ait offensé le Créateur du monde, pour que Dieu ait suscité un pareil Div contre Siawusch ; et encore je ne sais comment Gueroui a pu en vouloir à cet innocent.
 >
-> Mais je jure par Dieu l’unique, le victorieux, le maître du monde, le dispensateur de tout bien, le guide, que je vais sans délai demander compte du sang de Siawusch àAfrasiab.»
+> Mais je jure par Dieu l’unique, le victorieux, le maître du monde, le dispensateur de tout bien, le guide, que je vais sans délai demander compte du sang de Siawusch àAfrasiab. »
 
 Il fit tirailler toutes les articulations à Gueroui Zereh avec des cordes d’arc ; et lorsque toutes les jointures de son corps furent disloquées, on lui trancha la tête comme à une brebis.
 
 Khosrou le lit ensuite jeter dans l’eau, en disant :
 
-> Puissé-je voir un jour Afrasiab dans cet état!»
+> Puissé-je voir un jour Afrasiab dans cet état ! »
