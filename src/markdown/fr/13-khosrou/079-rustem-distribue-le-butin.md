@@ -146,7 +146,7 @@ Il les injuria, disant :
 
 Il se tourna ensuite vers Thous, furieux et semblable à un léopard et lui dit :
 
-> Estce là un banquet ou un champ de bataille ?
+> Est-ce là un banquet ou un champ de bataille ?
 >
 > Dès ce moment ce sera à toi et à ton armée d’affronter sur cette plaine Piran, Kelbad, Houman, Rouïn et Poulad.
 >
