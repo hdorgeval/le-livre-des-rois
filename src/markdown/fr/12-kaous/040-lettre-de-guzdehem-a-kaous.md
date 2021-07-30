@@ -44,7 +44,7 @@ Aussitôt que Sohrab fut parti, le vieux Guzdehem appela un scribe et l’ayant 
 >
 > Si le roi prend le temps de respirer avant d’amener une armée et de dresser une embuscade, il peut tenir pour perdue toute la gloire de l’Iran, il doit s’attendre que le monde tremble devant l’épée de son ennemi.
 >
-> Ce Turc sera le maître de la terre, car il ne se fie qu’à sa propre force et n’a pas besain que quelqu’un le prenne par la main pour l’aider.
+> Ce Turc sera le maître de la terre, car il ne se fie qu’à sa propre force et n’a pas besoin que quelqu’un le prenne par la main pour l’aider.
 >
 > Personne n’a vu un homme manier les rênes comme lui ; tu dirais que c’est Sam le cavalier.
 >
