@@ -61,7 +61,7 @@ Sohrab en eut connaissance et serra sa ceinture pour aller à leur rencontre.
 
 Il alla avec son grand-père au-devant de Houman rapidement comme le vent, etvoyant cette grande armée, son cœur s’en réjouit.
 
-Lorsque Houman vit les bras et les épaules de Sohrab, il en resta tout interdit ; il lui remit la lettre du roi avec les présents et les armes et les deux Pehlewans pleins de prudence s’acquitlèrent du message du roi de la terre.
+Lorsque Houman vit les bras et les épaules de Sohrab, il en resta tout interdit ; il lui remit la lettre du roi avec les présents et les armes et les deux Pehlewans pleins de prudence s’acquittèrent du message du roi de la terre.
 
 Sohrab, qui ambitionnait la possession du monde, ayant lu la lettre, mit aussitôt l’armée en marche, fit battre les timbales, partit et remplit le monde du bruit de ses troupes.
 
