@@ -139,7 +139,7 @@ Il n’admit aucun étranger en sa présence et envoya chercher son fils Schideh
 >
 > Sache que cette armée innombrable et cette masse de cavaliers qui ont passé notre frontière sont commandés par Rustem au cœur de lion, dont l’épée rougit la terre.
 >
-> Grâce a la fortune de ce vainqueur des lions, ils ont tué ou emmené en captivité Kamous, Gargoui, le Khakan, Gahar, le glorieux Manschour, Kender, Schenkoul le roi de l’lnde et leur armée qui s’étendait depuis le Kaschmir jusqu’à la frontière du Sind.
+> Grâce a la fortune de ce vainqueur des lions, ils ont tué ou emmené en captivité Kamous, Gargoui, le Khakan, Gahar, le glorieux Manschour, Kender, Schenkoul le roi de l’Inde et leur armée qui s’étendait depuis le Kaschmir jusqu’à la frontière du Sind.
 >
 > La lutte a duré quarante jours, qui ont été remplis tantôt par des combats, tantôt par des trêves ;
 >
