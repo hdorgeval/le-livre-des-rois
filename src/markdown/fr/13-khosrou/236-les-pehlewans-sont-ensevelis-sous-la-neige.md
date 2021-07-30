@@ -26,7 +26,9 @@ Ils ne virent nulle part une trace de Khosrou et revinrent commé des hommes qui
 
 Ils revinrent à la source d’eau en se lamentant, le cœur plein de douleur et d’angoisse et tous ceux qui y étaient réunis renoncèrent à l’espoir de revoir le roi du monde.
 
-Feribourz dit : Quant à ce que Khosrou nous a dit, (puisse la raison être toujours la compagne de son âmel), voici mon avis, quand nous nous serons reposés et aurons mangé, nous resterons auprès de cette source pour une nuit, car la terre est chaude et humide et le ciel est serein ; je ne vois pas pourquoi nous quitterions cet endroit.»
+Feribourz dit :
+
+> Quant à ce que Khosrou nous a dit, (puisse la raison être toujours la compagne de son âmel), voici mon avis, quand nous nous serons reposés et aurons mangé, nous resterons auprès de cette source pour une nuit, car la terre est chaude et humide et le ciel est serein ; je ne vois pas pourquoi nous quitterions cet endroit. »
 
 Ils se placèrent donc tous auprès de la source et parlèrent longuement de Khosrou, disant :
 
@@ -36,17 +38,17 @@ Ils se placèrent donc tous auprès de la source et parlèrent longuement de Kho
 >
 > Que sont devenus sa puissante étoile et sa’ sagesse, son pouvoir, sa bravoure et sa haute sta-, ture ?
 >
-> Les hommes de sens riront quand on leur dira que quelqu’un est allé tout vivant devant Dieu. rQni peut savoir ce qui lui estarrivé et que dirons-nous, car les oreilles refuseront d’entendre la. même?»
+> Les hommes de sens riront quand on leur dira que quelqu’un est allé tout vivant devant Dieu. rQni peut savoir ce qui lui estarrivé et que dirons-nous, car les oreilles refuseront d’entendre la. même ? »
 
 Guiv dit aux grands :
 
 > Jamais il n’y a eue dans le monde un homme aussi grand que lui en bravoure, en générosité, en justice et en vertus, en beauté, en stature, en renommée et en nais-, sance.
 >
-> Dans le combat’ et à la tête de son armée, c’était un éléphant ; dans le festin, c’était une lune couronnée d’un diadème.»
+> Dans le combat’ et à la tête de son armée, c’était un éléphant ; dans le festin, c’était une lune couronnée d’un diadème. »
 
 Après cela ils mangèrent ce qu’ils avaient et s’empressèrent de s’endormir.
 
-Mais en même temps il se leva un vent qui amenait des nuages et le ciel prit l’aspect de l’œil du lion ; la neige s’étendit sur la terre comme la voile blanche d’un vaisseau et les lances des héros disparurent sons elle ; une neige profonde et lourde tomba et couvrit partout la terre d’une surface égale.
+Mais en même temps il se leva un vent qui amenait des nuages et le ciel prit l’aspect de l’œil du lion ; la neige s’étendit sur la terre comme la voile blanche d’un vaisseau et les lances des héros disparurent sous elle ; une neige profonde et lourde tomba et couvrit partout la terre d’une surface égale.
 
 Les vaillants héros Thous,-I Bijen, Feribourz et Guiv ne surent comment se préserver ; ils furent entièrement couverts de neige : je ne sais pourquoi ils restaient en place.
 
@@ -56,15 +58,15 @@ Cependant Rustem resta dans la montagne avec Zal, Gouderz et quelques cavaliers 
 
 > Cette afl’aire est bien longue ; voici déjà quelque temps que nous restons dans ces montagnes et ces rochers.
 >
-> Si le roi a disparu de la terre lorsque le vent du ciel s’est déchaîné, où sontdonc allés les antres grands ?
+> Si le roi a disparu de la terre lorsque le vent du ciel s’est déchaîné, où sont donc allés les antres grands ?
 >
-> Il est à craindre qu’ils n’aient pas suivi le conseil de Khosrou.»
+> Il est à craindre qu’ils n’aient pas suivi le conseil de Khosrou. »
 
 Ils passèrent une semaine sur le haut de la montagne et furent entièrement découragés au bout des sept jours.
 
 Ils erraient çà et là en se lamentant et en pleurant ; ils se consumèrent au feu de cette douleur.
 
-Gouderz fils de Keschwad arrachait ses cheveux, versait des larmes, se déchirait les joues ; à la lin il dit :
+Gouderz fils de Keschwad arrachait ses cheveux, versait des larmes, se déchirait les joues ; à la fin il dit :
 
 > Jamais personne n’a éprouvé ce qui m’est arrivé par le fait de la race de KaOus.
 >
@@ -76,15 +78,17 @@ Devaient venger Siawusch les ont tous tués et cette vengeance a détruit ma fam
 
 Voici encore un de mes fils qui disparaît devant moi !
 
-Qui a jamais éprouvé les malheurs étonnants qui in’arrivent?n Le Destan lui parla longuement, disant :
+Qui a jamais éprouvé les malheurs étonnants qui m’arrivent ? »
+
+Le Destan lui parla longuement, disant :
 
 > Il faut que la raison se réconcilie avec ce que fait Dieu.
 >
 > A moins qu’ils ne reviennent eux-mêmes et retrouvent la route, comment en verrait-on une trace dans la neige ?
 >
-> Il ne faut pas rester sur cette montagne, où il n’y a point de nourriture ; il faut nous en ’ 2 : 9 retourner.
+> Il ne faut pas rester sur cette montagne, où il n’y a point de nourriture ; il faut nous en ’ 2 : retourner.
 >
-> Nous enverrons ici des hommes à pied, qui retrouveront un jour les traces du cortège du r01.»
+> Nous enverrons ici des hommes à pied, qui retrouveront un jour les traces du cortège du r01. »
 
 Ils quittèrent la montagne en pleurant de douleur, chacun parlant sans cesse ou d’un fils, ou d’un parent, ou d’un ami, ou de ce roi qui avait été comme un cyprès dans un jardin.
 
