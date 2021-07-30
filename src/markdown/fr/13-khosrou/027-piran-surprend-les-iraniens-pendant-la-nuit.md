@@ -61,7 +61,7 @@ Une armée est tombée sur nous et nos braves sont endormis.
 
 De là il courut chez son père, une massue à tête de bœuf à la main, il traversa le camp avec la rapidité de la fumée, stimula ceux qui n’étaient pas ivres et gronda Bijen, en lui disant :
 
-> Estce le moment de se battre ou de tenir la coupe de vin ?
+> Est-ce le moment de se battre ou de tenir la coupe de vin ?
 
 Cependant l’armée ennemie arrivait enveloppée d’une poussière noire et un cri immense s’éleva du champ de bataille.
 
