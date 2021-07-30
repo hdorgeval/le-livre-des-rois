@@ -22,7 +22,7 @@ Il fit le tour de la prairie pour trouver les traces de son ami qui avait dispar
 
 Il découvrit au loin un destrier de couleur isabelle, qui courait dans la prairie comme un cheval de course, tantôt trépignant, tantôt paissant, tantôt bondissant comme un léopard ; sa selle était retournée, sa bride brisée. toutes ses housses traînaient par terre ; les étriers, le lacet et les rênes étaient couverts de sang.
 
-A cette vue Bijen devint comme insensé ; il poussa un cri comme un lion en fureur et dit :
+À cette vue Bijen devint comme insensé ; il poussa un cri comme un lion en fureur et dit :
 
 > Ô mon ami plein de tendresse, ô mon compagnon bienaimé, où gis-tu dans cette prairie ?
 >
@@ -40,7 +40,7 @@ A cette vue Bijen devint comme insensé ; il poussa un cri comme un lion en fure
 >
 > Il»
 
-Délit la cette de mailles de Roum qui lui couvrait la poitrine, il ôta le casque de sa tête blessée, il examina ses blessures ; il vit qu’il se mourait parce qu’elles n’étaient. pas pansées et qu’il avait perdu tant de sang que son corps avait jauni ; le cœur de Gustehem était rempli de soucis, son corps plein de douleurs.
+Délit la cotte de mailles de Roum qui lui couvrait la poitrine, il ôta le casque de sa tête blessée, il examina ses blessures ; il vit qu’il se mourait parce qu’elles n’étaient. pas pansées et qu’il avait perdu tant de sang que son corps avait jauni ; le cœur de Gustehem était rempli de soucis, son corps plein de douleurs.
 
 Bijen regarda ces blessures et éclata en lamentations devant lui, disant :
 
@@ -48,7 +48,7 @@ Bijen regarda ces blessures et éclata en lamentations devant lui, disant :
 >
 > Il fallait m’avertir dès le commencement de me rendre à l’endroit où tu avais un combat à livrer ; j’aurais été à côté de toi dans le moment du danger et quand tu avais à lutter contre un Abriman.
 >
-> Maintenant nos ennemis ont obtenu l’objet de tous leurs vœux et ce qu’ils voulaient faire est accompli.»
+> Maintenant nos ennemis ont obtenu l’objet de tous leurs vœux et ce qu’ils voulaient faire est accompli. »
 
 Ainsi parla Bijen.
 
@@ -69,7 +69,7 @@ Gustehem trembla, poussa un soupir et lui répondit :
 > à -
 > peux, sur la selle d’un cheval ; et si tu ne peux pas, tranche-leur la tête et emporte leurs armures et leurs têtes glorieuses, pour que les Iraniens reconnaissent leurs traits.
 >
-> Dis au roi maître du monde que je n’ai pas étourdiment jeté au vent tua vie, que j’ai lutté en toute circonstance contre la fortune, que je n’ai jamais hésité quand il s’agissait d’acquérir un nom.»
+> Dis au roi maître du monde que je n’ai pas étourdiment jeté au vent tua vie, que j’ai lutté en toute circonstance contre la fortune, que je n’ai jamais hésité quand il s’agissait d’acquérir un nom. »
 
 Ensuite, il indiqua à Bijen le lieu éloigné où il avait tué les deux Touraniens et où ils gisaient.
 
@@ -87,7 +87,7 @@ Il descendit en toute hâte de la colline, tremblant de peur que Gustehem ne mou
 
 Il courut ensuite, semblable à un tourbillon de poussière, au lieu où gisaient Lehhak et Ferschidwerd et trouva ces chefs à!" de l’armée du Tourau couchés sur le sol trempé de sang ; près d’eux se trouvaient leurs destriers qui paissaient dans la prairie.
 
-A cet aspect Bijen prononça des bénédictions sur Gustehem, qui avait. accompli cette vengeance.
+À cet aspect Bijen prononça des bénédictions sur Gustehem, qui avait. accompli cette vengeance.
 
 Il ordonna au Turc qui lui avait demandé grâce de soulever de terre les héros et de les jeter sur un cheval et il lui aida à leur lier ensemble les mains et les pieds et à les jeter sur les selles royales de leurs chevaux.
 
