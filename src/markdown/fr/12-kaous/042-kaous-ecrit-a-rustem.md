@@ -24,7 +24,7 @@ Il s’est établi avec cette armée devant le Château Blanc et a coupé le che
 
 C’est un Pehlewan brave et vaillant ; de corps c’est un éléphant furieux, de cœur c’est un lion mâle.
 
-Personne dans l’Iran ne peut lui résisler,
+Personne dans l’Iran ne peut lui résister,
 
 Si ce n’est toi qui seul peux ternir sa gloire.
 
@@ -40,7 +40,7 @@ Il nous arrive maintenant une nouvelle alliaire qui nous met en danger et qui br
 
 Les héros de l’Iran se sont rassemblés ; ils ont lu une lettre de Guzdehem que je t’envoie et tous ces braves ont décidé que Guiv le noble guerrier se rendrait auprès de toi et te porterait cette lettre, dans laquelle tu verras tout ce qu’il nous écrit, le hm et le mauvais.
 
-Quand tu l’auras lue, que ce soit de jour ou de nuit, n’ouvre pas la bouche pour parler et si tu tiens à la main un bouquet de roses, ne prends pas le temps de le sentir, mais décide-toi surlechamp et viens ici.
+Quand tu l’auras lue, que ce soit de jour ou de nuit, n’ouvre pas la bouche pour parler et si tu tiens à la main un bouquet de roses, ne prends pas le temps de le sentir, mais décide-toi sur-le-champ et viens ici.
 
 J’espère donc que tu accourras du Zaboulistan avec des cavaliers pleins de prudence et que tu feras entendre ton cri de guerre.
 
@@ -124,7 +124,7 @@ Rustem répondit :
 >
 > Ressemblât-il à Rustem fils de Zal, maître de l’épée et de la massue ; fût-il un guerrier tel que Sam, brave, prudent et sage, il ne se jettera peurtant pas dans le combat avec la même ardeur que moi.
 >
-> Ainsi ne t’alarme pas de cetteaven-
+> Ainsi ne t’alarme pas de cette aven-
 Ils portèrent la main aux coupes de vin, ils s’enice turc. »
 
 \*
@@ -139,7 +139,7 @@ Mais le quatrième jour, Guiv fit ses préparatifs de départ et dit au héros, 
 
 > Kaous est un homme dur et sans modération et le récit de Guzdehem pèse sur son cœur ; il en est affligé et son âme est pleine d’impatience ; il en a perdu le repos, la faim et le sommeil.
 >
-> Si nous tardons à part’ir, nous rendrons étroite la terre pour Kaous.
+> Si nous tardons à partir, nous rendrons étroite la terre pour Kaous.
 >
 > Le roi de l’Iran sera courroucé contre nous et dans sa fureur cherchera à se venger. »
 
