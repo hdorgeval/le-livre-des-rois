@@ -16,9 +16,9 @@ order: '198'
 
 # Lettre de Keï Khosrou à Kaous pour lui annoncer sa victoire
 
-Khosrou appela celui qui écrivait ses lettres, lui dit tout ce qui était nécessaire. et composa une lettre pour Keï Kaous sur le Tourau et ce qui s’était passé avec l’armée des Turcs.
+Khosrou appela celui qui écrivait ses lettres, lui dit tout ce qui était nécessaire et composa une lettre pour Keï Kaous sur le Tourau et ce qui s’était passé avec l’armée des Turcs.
 
-Il commen’ça par les louanges de Dieu, qui a délivré la terre de ses maux, réveillé l’astre endormi de l’empire d’une manière si éclatante et abaissé les têtes des magiciens ; de qui vient tout pouvoir, toute sagesse, toute justice, qui réjouit le cœur de ceux qui ont été opprimés dans le monde.
+Il commença par les louanges de Dieu, qui a délivré la terre de ses maux, réveillé l’astre endormi de l’empire d’une manière si éclatante et abaissé les têtes des magiciens ; de qui vient tout pouvoir, toute sagesse, toute justice, qui réjouit le cœur de ceux qui ont été opprimés dans le monde.
 
 Ensuite, il continua : Par l’étoile de Keï Kaous le puissant, l’expérimenté, le roi aux traces heureuses, ce Gangue, la ville d’Afrasiab, a été prise et la fortune de ce Turc s’est endormie.
 
@@ -30,7 +30,9 @@ Une partie de son armée, qui cherchait à nous résister, fut jelée dans l’e
 
 A l’assaut de la forteresse, nous l05 tuâmes bien trente mille hommes dans le combat ; le tyran se défendit bravement, mais ni son art ni sa fortune ne pouvaient le sauver : son armée se dispersa sur toute la surface du pays et lui-même a disparu.
 
-Plus tard j’enverrai au roi des nouvelles, quand la fortune m’aura accordé d’autres faveursm Ensuite Khosrou s’établit joyeusement, entouré d’échansons au visage de péris, tenant en main des coupes de vin et il se reposa ainsi jusqu’à ce que le printemps se montra et que le monde devint un paradis rempli de couleurs et de parfums.
+Plus tard j’enverrai au roi des nouvelles, quand la fortune m’aura accordé d’autres faveurs. »
+
+Ensuite Khosrou s’établit joyeusement, entouré d’échansons au visage de péris, tenant en main des coupes de vin et il se reposa ainsi jusqu’à ce que le printemps se montra et que le monde devint un paradis rempli de couleurs et de parfums.
 
 Tout le désert était diapré de fleurs comme de la soie brodée et l’air tacheté de nuages comme le dos du léopard ; les onagres et les gazelles couraient dans le désert ; et c’est ainsi que Khosrou passa quelque temps dans le bonheur, en chassant avec des guépards et avec des, faucons ailés, en buvant du vin au parfum de musc et en compagnie de femmes belles comme les idoles de Tharaz.
 
