@@ -41,7 +41,7 @@ order: '044'
 
 # Les Touraniens entourent le mont Hemawen
 
-Lorsque le soleil brillant montra sa couronne et qu’il commença à verser du camphre sur son trône d’ivoire, Thous avait déjà fait dix farsangs pendant que ses ennemis fatigués dormaient encore.
+Lorsque le soleil brillant montra sa couronne et qu’il commença à verser du camphre sur son trône d’ivoire, Thous avait déjà fait dix farsangs pendant que ses ennemis fatigués dormaient encore.
 
 Il continua de marcher jour et nuit, le cœur soucieux, les lèvres privées de nourriture, les yeux remplis de sang, l’âme blessée et rendue noire comme le plumage du corbeau par ses angoisses.
 
