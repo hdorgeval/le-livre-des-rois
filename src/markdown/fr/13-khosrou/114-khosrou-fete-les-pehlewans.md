@@ -20,7 +20,7 @@ Le grand chambellan ouvrit la porte des jardins du roi pour y préparer une fêt
 
 Il plaça le trône et la couronne d’or sous un arbre qui versait une pluie de roses ; il étendit dans le jardin des tapis de brocart dignes d’un roi et le jardin de roses brillait comme une lampe.
 
-A côté du trône du roi on plaça un arbre qui projetait son ombre sur le trône et la couronne ; son tronc était d’argent, ses branches d’or et de rubis et incrustées de pierreries de toute espèce, ses feuilles de cornaline et de chrysoprase et de chaque branche pendaient des fruits brillants comme des boucles d’oreilles.
+À côté du trône du roi on plaça un arbre qui projetait son ombre sur le trône et la couronne ; son tronc était d’argent, ses branches d’or et de rubis et incrustées de pierreries de toute espèce, ses feuilles de cornaline et de chrysoprase et de chaque branche pendaient des fruits brillants comme des boucles d’oreilles.
 
 Ces fruits étaient des oranges et des coings d’or ; le milieu en était creux et rempli de musc dissous dans du vin et toute la .surface percée comme de trous de roseau.
 
@@ -46,9 +46,9 @@ Ensuite le roi dit à Rustem :
 >
 > Si tu ne viens pas à notre secours dans cette affaire, je ne vois personne qui puisse nous y aider.
 >
-> Cherche un moyen de sauver Bijen, que les Turcs accablent de maux ; prends tout ce qu’il te faut en chevaux, en armes, en hommes et en trésors et ne me refuse pas ce service.»
+> Cherche un moyen de sauver Bijen, que les Turcs accablent de maux ; prends tout ce qu’il te faut en chevaux, en armes, en hommes et en trésors et ne me refuse pas ce service. »
 
-Rustem. à ces paroles du roi, baisa la terre et se relevant promptement, le bénit en disant :
+Rustem à ces paroles du roi, baisa la terre et se relevant promptement, le bénit en disant :
 
 > Ô glorieux roi, qui semblable au soleil étends partout ta domination, puisses-tu ignorer l’avidité, la colère et le besoin !
 >
@@ -66,7 +66,7 @@ Rustem. à ces paroles du roi, baisa la terre et se relevant promptement, le bé
 >
 > J’ai arraché le cœur au Div du Mazenderan par la grâce des Keïauides et à l’aide de ma lourde massue ; et maintenant quand le ciel ferait pleuvoir du feu sur ma tête pendant que je marcherai au secours de Guiv, je n’y ferais pas attention et quand des fers de lance traverseraient les cils de mes yeux, je ne reculerais pas devant l’exécution des ordres du roi.
 >
-> J’accomplirai cette entreprise, confiant dans ta fortune et je ne le demande ni chefs ni soldats.»
+> J’accomplirai cette entreprise, confiant dans ta fortune et je ne le demande ni chefs ni soldats. »
 
 Rustem ayant ainsi parlé, Gouderz, Guiv, Faribourz, Schapour, le vaillant F erhad et tous les grands de l’armée appelèrent les grâces du Créateur sur lui.
 
