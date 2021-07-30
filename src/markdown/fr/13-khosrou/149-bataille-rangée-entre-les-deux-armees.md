@@ -18,7 +18,7 @@ order: '149'
 
 Lorsque le soleil étendit sur la lem le brocart jaune de sa lumière, les flots d’hommes qui couvraient le champ de bataille s’émurent ; on entendit les cris de guerre des deux armées et la terre trembla sous les sabots des chevaux.
 
-Les deux armées s’avancèrent en masse, KEt KHosnoU. r et les cuirasses couvrirent la plaine et la montagne ; les chefs des deux partis, semblables à des léopards, menèrent leurs troupes au combat et l’on vit pleut voir des flèches sur le champ de bataille, comme une pluie qui tombe d’un nuage sombre.
+Les deux armées s’avancèrent en masse, KEt KHosnoU et les cuirasses couvrirent la plaine et la montagne ; les chefs des deux partis, semblables à des léopards, menèrent leurs troupes au combat et l’on vit pleut voir des flèches sur le champ de bataille, comme une pluie qui tombe d’un nuage sombre.
 
 Un brouillard noir pesait sur le monde comme une nuit de poix ; quel nuage que celui qui verse une pluie de javelots et de coups d’épée !
 
@@ -26,11 +26,13 @@ La terre était convertie en fer par les sabots des chevaux ; la poitrine et les
 
 Le champ de bataille était tellement jonché de morts dont les têtes étaient tranchées et les corps étendus par terre, qu’il ne restait plus de place pour passer et que les pieds des chevaux ne pouvaient plus avancer.
 
-La terre était couleur de tulipe, l’air couleur d’indigo ; une mer de sang formait des vagues et les chefs des deux armées se dirent : Si l’on ne sépare pas ces héros sur ce champ de la vengeance, il ne restera plus, quand la nuit sombre
-"sera venue, que le ciel qui tourne et Dieu le maître du monde.»
+La terre était couleur de tulipe, l’air couleur d’indigo ; une mer de sang formait des vagues et les chefs des deux armées se dirent :
+
+> Si l’on ne sépare pas ces héros sur ce champ de la vengeance, il ne restera plus, quand la nuit sombre
+"sera venue, que le ciel qui tourne et Dieu le maître du monde. »
 
 Lorsque Pirau vit le champ de bataille en cet état, il commanda à Lehhak et à F erschidwerd de réunir toutes les troupes qui leur restaient, tous les cavaliers qui étaient encore capables de manier les armes et de les distribuer en trois corps pour rétablir le combat ; il leur commanda de confier l’arrièregarde aux plus prudents, à ceux qui étaient le mieux en état. de défendre l’armée contre l’ennemi, peu-
-(lant qu’eux-mêmes s’avanceraient sur les deux flancs, Lehhak avec son corps tout entier du côté de la montagne et Ferschidwerd du côté du fleuve, où il devait faire monter la poussière jusqu’au-des-sus du soleil.
+(lant qu’eux-mêmes s’avanceraient sur les deux flancs, Lehhak avec son corps tout entier du côté de la montagne et Ferschidwerd du côté du fleuve, où il devait faire monter la poussière jusqu’au-dessus du soleil.
 (les deux grands du Touran se mirent en marche avec leurs troupes avides de vengeance ; mais aussitôt la sentinelle des Iraniens envoya de sa tour un messager au Pehlewan.
 
 Gouderz, le chef de l’armée, était en personne avec ses troupes et observait tous les mouvements de l’ennemi ; et lorsque Lehhak et F erschidwerd firent lever des deux côtés la poussière sur la route par où ils venaient le surprendre, les cavaliers iraniens se jetèrent sur eux et mêlèrent le sang avec la poussière.
@@ -51,7 +53,7 @@ Il confia en toute hâte deux cents héros et un drapeau à Gourguin fils de Mil
 
 > Secoue la bride, apprételes massues et les lances au fer luisant.
 >
-> C’est le moment d’observer l’ennemi et de paraître sur le champ de bataille ; dirige-toi vers Lehhak, ô toi qui cherches le renom et verse par torrents le sang de nos ennemis.»
+> C’est le moment d’observer l’ennemi et de paraître sur le champ de bataille ; dirige-toi vers Lehhak, ô toi qui cherches le renom et verse par torrents le sang de nos ennemis. »
 
 Ensuite Guiv le cavalier au visage de soleil et plein de fierté se rendit auprès de son père, qui lui dit :
 
@@ -61,12 +63,12 @@ Ensuite Guiv le cavalier au visage de soleil et plein de fierté se rendit aupr�
 >
 > C’est sur toi que repose l’espoir de l’armée de l’Iran ; montre donc ta valeur sur ce champ de bataille.
 >
-> Ne crains pas les Touraniem et réjouis-toi ,
+> Ne crains pas les Touranien et réjouis-toi ,
 > car le jour de la bataille et de la vengeance est arrivé.
 >
 > Avance-toi contre le centre de leur armée et combats Piran qui s’y tient : car toute la force de l’armée du Touran réside en lui ; et dès qu’il t’apercevra, sa peau se fendra de terreur.
 >
-> Si tu parviens à le vaincre. tout est fini : Dieu et la bonne étoile te favoriseront ; notre armée pourra se reposer de ses fatigues et de ses dangers ; le roi maître du monde se réjouira ; tu obtiendras de grands trésors et tout ce que tu peux désirer et la fortune ne ce : -sera plus de prospérer ; le dos d’Afrasiab sera brisé, son cœur sera gonflé de sang, ses deux yeux verseront des larmes.»
+> Si tu parviens à le vaincre. tout est fini : Dieu et la bonne étoile te favoriseront ; notre armée pourra se reposer de ses fatigues et de ses dangers ; le roi maître du monde se réjouira ; tu obtiendras de grands trésors et tout ce que tu peux désirer et la fortune ne ce : -sera plus de prospérer ; le dos d’Afrasiab sera brisé, son cœur sera gonflé de sang, ses deux yeux verseront des larmes. »
 
 Ainsi parla le Pehlewan à son fils ; et le fils, ceint pour le combat, lança à l’instant son cheval de bataille et partit semblable à Aderguschasp.
 
