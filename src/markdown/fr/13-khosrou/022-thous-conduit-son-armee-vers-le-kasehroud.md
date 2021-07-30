@@ -68,7 +68,7 @@ Bijen lui dit :
 >
 > Prête-moi, pour ce combat, l’armure de Siawusch et tu verras un léopard saisir sa proie.
 
-Guiv lui remit la cette de mailles qu’il demandait et Bijen en ferma soigneusement les boucles ;
+Guiv lui remit la cotte de mailles qu’il demandait et Bijen en ferma soigneusement les boucles ;
 
 Il monta un cheval ardent et s’avança dans la plaine, une lance en main.
 
