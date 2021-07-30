@@ -27,7 +27,7 @@ rent ses louanges.
 
 Quand Siawusch vit Kaous assis sur le trône d’ivoire et portant sur la tête une couronne de rubis brillants, il invoqua sur lui les grâces de Dieu et le salua en murmurant pendant quelque temps des paroles contre terre ; puis il s’approcha Il). ces nons. du roi, qui le pressa contreson sein.
 
-Kaous adressa des questions à Rustem, le reçut gracieusement et le fit asseoir sur son trône incmsté de turquoises.
+Kaous adressa des questions à Rustem, le reçut gracieusement et le fit asseoir sur son trône incrusté de turquoises.
 
 Il resta confondu de l’aspect de Siawusch et invoqua plusieurs fois les bénédictions de Dieu sur lui et sur sa haute taille et sa noble mine, car il vit en lui beaucoup de choses dignes d’être vues.
 
