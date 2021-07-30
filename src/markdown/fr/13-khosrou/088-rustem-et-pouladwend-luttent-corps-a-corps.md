@@ -39,7 +39,7 @@ order: '088'
 
 Les deux héros qui portaient haut la tête et étaient avides de combats se mirent alors à lutter, ayant stipulé d’abord qu’aucun des guerriers des deux amées ne viendrait à l’aide ni de l’un ni de l’autre.
 
-Entre les deux armées s’étendait un espace large d’un demifarsang et les étoiles regardaient le combat que se livraient Pouladwend et Tehemten, ces deux furieux lions.
+Entre les deux armées s’étendait un espace large d’un demi-farsang et les étoiles regardaient le combat que se livraient Pouladwend et Tehemten, ces deux furieux lions.
 
 Ils se frottèrent d’abord les mains et se saisirent par les courroies de leurs ceintures.
 
@@ -51,7 +51,7 @@ Lorsque Schideh vit la poitrine et les bras de Rustem, il dit à son père en so
 
 Afrasiab lui répondit :
 
-> Mon cerveau est tout troublé de cette alfaire.
+> Mon cerveau est tout troublé de cette affaire.
 >
 > Va et regarde comment Pouladwend étreint son ennemi dans la lutte, donne-lui des conseils en langue turque, montre-lui comment il pourra soulever le héros au corps d’éléphant et dis-lui de terminer cette querelle avec le poignard aussitôt qu’il l’aura renversé sous lui.
 
