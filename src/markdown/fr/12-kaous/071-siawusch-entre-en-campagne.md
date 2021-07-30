@@ -18,7 +18,7 @@ order: '071'
 
 On entendit le bruit des trompettes et des timbales ; Thous le Sipehbed au front orgueilleux arriva, l’armée s’assembla devant le palais du roi.
 
-Kaous ouvrit les portes de ses trésors où étaientdes monceaux d’or et envoya à Siawusch la clef de ses magasins d’épées et de massues, de casques et de ceintures,
+Kaous ouvrit les portes de ses trésors où étaient des monceaux d’or et envoya à Siawusch la clef de ses magasins d’épées et de massues, de casques et de ceintures,
 (le morions et de cottes de mailles, de lances et de boucliers, enfin la clef du magasin qui contenait les vêtements neufs, avec ce mage : Tu es le maître du palais et de tout ce qu’il contient de précieux, équipe-toi comme tu l’entends. »
 
 Le roi choisit parmi les cavaliers renommés douze mille guerriers pleins d’ardeur, tous Pehlewans du pays de F ars, du Koutch et du Beloudjistan, ou guerriers du Ghilan et du désert de Seroudj.
