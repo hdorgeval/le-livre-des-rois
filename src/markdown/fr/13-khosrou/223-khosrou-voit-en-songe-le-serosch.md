@@ -22,7 +22,7 @@ Il se rendit devant Dieu, le maître suprême et le pria pour qu’il le guidât
 
 Cette royauté n’a aucune valeur pour moi, si le Seigneur n’est pas content de moi.
 
-J’ai fait beaucoup de bien et beaucoup de mal, accorde-moi cependant une place dans le paradis.»
+J’ai fait beaucoup de bien et beaucoup de mal, accorde-moi cependant une place dans le paradis. »
 
 C’est ainsi qu’il resta debout pendant cinq semaines en implorant le Maître de l’univers.
 
@@ -41,10 +41,10 @@ Durant une nuit sombre ses peines ne laissèrent aucun repos au roi ; au moment 
 >
 > Quand tu partiras, fais des largesses aux Iraniens, car tu ne resteras plus longtemps ici.
 >
-> Chosis pour occuper le trône un roi qui protège toutes les créatures jusqu’à la fourmi et quand tu auras disposé du monde, ne te repose pas, car le moment de ton départ arrive.»
+> Chosis pour occuper le trône un roi qui protège toutes les créatures jusqu’à la fourmi et quand tu auras disposé du monde, ne te repose pas, car le moment de ton départ arrive. »
 
-Quand le roi, qui avait éprouvé tant de fatigues dans sa vie, se réveilla, il vit que le lieu des prières étaitinondé d’un torrent deseslarmes ; il recommença à pleurer, posa son front sur la terre et adressa ses hommages au Créateur, disant :
+Quand le roi, qui avait éprouvé tant de fatigues dans sa vie, se réveilla, il vit que le lieu des prières était inondé d’un torrent de ses larmes ; il recommença à pleurer, posa son front sur la terre et adressa ses hommages au Créateur, disant :
 
-> Si je meurs soudain, j’aurai obtenu de Dieu tout ce que désire mon cœur.»
+> Si je meurs soudain, j’aurai obtenu de Dieu tout ce que désire mon cœur. »
 
 Il monta alors sur son trône, siège de la royauté, se revêtit d’une robe qui n’avait jamais servi et s’assit sur le trône d’ivoire, comme le maître du monde, mais sans collier, massue ni couronne.
