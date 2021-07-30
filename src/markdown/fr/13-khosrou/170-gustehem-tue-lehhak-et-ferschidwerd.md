@@ -34,18 +34,20 @@ F erschidwerd courut vers Lehhak et le réveilla, en disant :
 >
 > Lève-toi !
 >
-> Hâte-toil une armée arrive de l’Iran et nous barre le chemin.»
+> Hâte-toil une armée arrive de l’Iran et nous barre le chemin. »
 
 Mais il avait beau courir et se presser, personne n’évite le jour Les deux cavaliers montèrent à cheval et sortirent du malheur. ’
 en toute hâte de la forêt.
 
 Ils tournèrent les yeux vers la plaine pour se préparer à tout événement.
 
-Dans ce moment Gustehem parut au loin ; ils virent qu’au-cun cavalier ne l’accompagnant ; les deux braves levèrent la tête ; ils le reconnurent aussitôt qu’ils l’eurent aperçu et se dirent l’un à l’autre : C’est un seul homme qui se dirige de notre côté, c’est Gusertehem sans compagnon qui vient nous combattre, [la le drapeau des braves en main.
+Dans ce moment Gustehem parut au loin ; ils virent qu’au-cun cavalier ne l’accompagnant ; les deux braves levèrent la tête ; ils le reconnurent aussitôt qu’ils l’eurent aperçu et se dirent l’un à l’autre :
 
-Il ne faut pas nous ce enfuir devant lui ; car s’il continue de s’avancer dans ce la plaine, il ne nous échappera certainement pas.
-
-Il c : paraît que sa mauvaise fortune a voulu le perdre.»
+> C’est un seul homme qui se dirige de notre côté, c’est Gusertehem sans compagnon qui vient nous combattre, [la le drapeau des braves en main.
+>
+> Il ne faut pas nous ce enfuir devant lui ; car s’il continue de s’avancer dans la plaine, il ne nous échappera certainement pas.
+>
+> Il paraît que sa mauvaise fortune a voulu le perdre. »
 
 Ils sortirent de leur retraite et se dirigèrent vers la plaine.
 
@@ -53,9 +55,9 @@ Gustehem courut sur eux avide de combat ; il s’approcha et arrivé près d’e
 
 F erschidwerd s’élança pour l’attaquer ; mais Gustehem décocha contre lui une flèche qui le frappa à la tête et qui mêla son sang avec sa cervelle.
 
-Il tomba de cheval et mourut. à l’instant ; cet illustre héros fils de Wiseh avait cessé de vivre.
+Il tomba de cheval et mourut à l’instant ; cet illustre héros fils de Wiseh avait cessé de vivre.
 
-Lehhak regarda le visage de son frère et reconnut que les combats étaient finis pour lui ; il trembla et la douleur qu’il éprouvait de le voir mort le troubla ; le mondedevint noir devant ses yeux ; l’excès de
+Lehhak regarda le visage de son frère et reconnut que les combats étaient finis pour lui ; il trembla et la douleur qu’il éprouvait de le voir mort le troubla ; le monde devint noir devant ses yeux ; l’excès de
 ’l’allliction rendit son âme indifférente à la vie ; il banda son arc et le tendit ; il lança une flèche contre Gustehem pendant que ses yeux versaient un torrent de larmes.
 
 Ils s’attaquèrent tour à tour et pas une seule flèche ne tomba à terre.
@@ -80,6 +82,6 @@ Il dit :
 
 > Ô gracieux maître du monde, fais que Bijen fils de Guiv, ou un autre des héros pleins de valeur, quitte notre armée glorieuse, vienne ici poussé par son inquiétude pour moi et m’emmène de ce lieu, mort ou vivant, au camp des Iraniens, pour qu’ils sachent que je ne suis pas mort sans gloire.
 >
-> C’est la seule chose au monde que je désire encore.»
+> C’est la seule chose au monde que je désire encore. »
 
 Il passa toute la nuit à gémir et se tordit de douleur, jusqu’à ce que le jour commença à briller, comme un serpent qui se roule dans la poussière.
