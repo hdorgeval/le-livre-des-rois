@@ -84,7 +84,7 @@ Il répondit :
 >
 > Que puis-je apprendre dans l’appartement des femmes du roi ?
 >
-> Sontce les femmes qui montrent le chemin de la sagesse ?
+> Sont ce les femmes qui montrent le chemin de la sagesse ?
 >
 > Et pourtant, si c’est la volonté du roi, mon devoir est de lui obéir. »
 
