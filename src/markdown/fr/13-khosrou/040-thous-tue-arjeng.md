@@ -171,12 +171,11 @@ Thous lui dit :
 >
 > Le roi de l’Iran m’a dit :
 
-> >
 > > Il ne faut pas qu’il arrive du mal à Piran ;
 > >
 > > Car c’est le vertueux guide de mon enfance, un homme plein d’expérience et mon sincère ami.
 >
-> Ne t’associe pas follement à lui dans cette guerre injuste et efforce-toi au contraire de lui faire adopter les tonseils.
+> Ne t’associe pas follement à lui dans cette guerre injuste et efforce-toi au contraire de lui faire adopter tes conseils.
 
 Houman lui répondit :
 
@@ -193,7 +192,7 @@ Il sortit des rangs rapidement comme le vent et lui dit :
 > Ô illustre Thous !
 
 Ce Turc rusé, qui s’est avancé entre les deux armées l’écume à la bouche, qu’a-t-il donc à te dire en secret dans ce long entretien au milieu des deux armées rangées en bataille ?
->
+
 > Ne lui parle qu’avec l’épée et ne cherche pas la paix.
 
 Lorsque Houman entendit ces paroles, il entra dans une grande colère et dit à Guiv sur qui veillait la fortune :
