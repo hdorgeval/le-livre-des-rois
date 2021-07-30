@@ -64,7 +64,7 @@ Il fut tout confus, il devint triste et soucieux de ce qu’il voyait et interro
 >
 > Il s’est avancé et avec sa lourde massue il a frappé comme avec un marteau de forgeron ; il a renversé mes cavaliers avec son cheval et son pied, avec son bras et son étrier ; il a blessé et tué nos braves ; il n’a tenu aucun compte de nos a guerriers.
 >
-> Jamais nuage n’a laissé tomber autant de gouttes de pluie que nous avons fait tomber sur sa tête de coups de massue ; mais il est resté tranrrquille sur sa selle, comme s’il avait été dans un bosquet de roses : tu aurais dit que sa massue faisait partie de lui-même.
+> Jamais nuage n’a laissé tomber autant de gouttes de pluie que nous avons fait tomber sur sa tête de coups de massue ; mais il est resté tranquille sur sa selle, comme s’il avait été dans un bosquet de roses : tu aurais dit que sa massue faisait partie de lui-même.
 >
 > À la fin toute l’armée s’est enfuie et je suis resté seul à le combattre.
 >
@@ -75,7 +75,7 @@ Il fut tout confus, il devint triste et soucieux de ce qu’il voyait et interro
 > Il descendit, m’attacha les deux mains, me fit marcher devant lui, remonta sur son cheval et m’amena ignominieusement devant Khosrou, où
 un nouveau danger me menaçait, car il voulait me couper la tête.
 >
-> Mais Ferenguis me vint en aide, de sorte qu’au lieu de me tuer il se contenta de me percer l’oreille, de me lier les mains et en poussant des cris de rage, de me fairejurer solennellement, par la vie et la tête du roi, par le soleil el la lune, par Dieu le tout-puissant, par le trône et la couronne, que je garderais mes liens jusqu’à Khoten. ce Voyant que la fortune était contre moi, j’ai prêté le serment, j’ai juré de ne demander à personne de me délier et de continuer ma route jusqu’à ma résidence.
+> Mais Ferenguis me vint en aide, de sorte qu’au lieu de me tuer il se contenta de me percer l’oreille, de me lier les mains et en poussant des cris de rage, de me faire jurer solennellement, par la vie et la tête du roi, par le soleil el la lune, par Dieu le tout-puissant, par le trône et la couronne, que je garderais mes liens jusqu’à Khoten. ce Voyant que la fortune était contre moi, j’ai prêté le serment, j’ai juré de ne demander à personne de me délier et de continuer ma route jusqu’à ma résidence.
 >
 > Je ne sais quelle est la secrète intention du ciel, qui parait me refuser toute faveur ; car tantôt il livre ma tête et mes bras au lacet de mon ennemi, tantôt il m’assujettit à des serments et à des liens. »
 
