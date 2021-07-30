@@ -28,9 +28,11 @@ Khosrou s’approcha, une épée tranchante en main, la tête remplie de haine, 
 
 > J’ai vu en songe ce jour de triomphe pour toi.
 >
-> Le ciel a tourné longtemps et à la lin il a déchiré le voile des secrets.»
+> Le ciel a tourné longtemps et à la fin, il a déchiré le voile des secrets. »
 
-L Ensuite, il ajouta d’une voix forte : Ô méchant, qui as cherché la vengeance, dis-moi pourquoi tu veux tuer ton grand père?»
+L Ensuite, il ajouta d’une voix forte :
+
+> Ô méchant, qui as cherché la vengeance, dis-moi pourquoi tu veux tuer ton grand père ? »
 
 Khosrou répondit :
 
@@ -46,7 +48,7 @@ Khosrou répondit :
 > D’un mauvais homme on ne peut attendre que le meurtre et l’insulte.
 >
 > Le passé
->, a été ce que tu dis ; ce qui devait arriver est arrivé ; maintenant il faut que j’écoute ce que tu dis, mais permets que je voie le visage de ta mère, ensuite tu raconteras ces histoires.»
+>, a été ce que tu dis ; ce qui devait arriver est arrivé ; maintenant il faut que j’écoute ce que tu dis, mais permets que je voie le visage de ta mère, ensuite tu raconteras ces histoires. »
 
 Khosrou lui dit :
 
@@ -55,7 +57,7 @@ Khosrou lui dit :
 > Mon père était innocent, moi je n’étais pas encore né et pourtant que de malheurs n’as-tu pas déversés sur le monde !
 >
 > Tu as tranché la tête à un roi que la couronne et le trône d’ivoire ont pleuré amèrement ; mais aujourd’hui est le jour de la vengeance de Dieu et la récompense qu’il donne aux méchants
-> . est le malheur.»
+> . est le malheur. »
 
 Khosrou le frappa au cou avec son épée indienne et jeta dans la poussière son corps délicatement élevé ;
 
@@ -69,7 +71,7 @@ Mon fils, ne cherche pas la clef de la chaîne qui retient le mal ; si tu la che
 
 Un roi à qui Dieu a donné la majesté ne doit employer dans sa colère que les chaînes et la prison ; s’il verse du sang, il restera abhorré et le ciel su-, blime le punira.
 
-Un Mobcd a dit à Bahram le violent :
+Un Mobed a dit à Bahram le violent :
 
 > Ne verse pas le sang des innocents ; si tu veux que la couronne te reste, sois toujours clément et bienveillant.
 
