@@ -127,7 +127,7 @@ Piran lui répondit :
 
 > J’ai renoncé au trône et à la couronne, j’ai désespéré de la lumière du soleil et de la lune, quand j’ai entendu dire qu’une armée d’Iraniens s’approchait et arrivait sur ce champ de bataille ;
 >
-> Mon âme et mon cervau étaient remplis de soucis et mon cœur poussait un grand soupir.
+> Mon âme et mon cerveau étaient remplis de soucis et mon cœur poussait un grand soupir.
 
 Kelbad lui dit :
 
