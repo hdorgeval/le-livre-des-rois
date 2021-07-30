@@ -16,7 +16,7 @@ order: '102'
 
 # Bijen se rend à la tente de Menijeh
 
-Bijen n’avait plus rien à dire ; il sortit de dessous l’ombre du cyprès et se dirigea à pied, rempli de désirs, vers la tente de la jeune tille au noble cœur.
+Bijen n’avait plus rien à dire ; il sortit de dessous l’ombre du cyprès et se dirigea à pied, rempli de désirs, vers la tente de la jeune fille au noble cœur.
 
 Il souleva le rideau de la tente et entra, semblable à un cyprès élancé, ceint d’une ceinture d’or.
 
