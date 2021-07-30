@@ -120,7 +120,7 @@ Ensuite, il descendit de cheval, lâcha Demour et monta en souriant sur le trôn
 
 Guersiwez fut courroucé de ce que Siawusch avait fait ; son âme devint soucieuse et ses joues pâlirent.
 
-Ils quittèrent le trône d’or et s’en retournèrent au palais ; tu aurais dit qu’ils portaientla tête plus haut que Saturne et tous les grands aux traces fortunées banquetèrent pendant sept jours avec du vin et de la musique.
+Ils quittèrent le trône d’or et s’en retournèrent au palais ; tu aurais dit qu’ils portaient la tête plus haut que Saturne et tous les grands aux traces fortunées banquetèrent pendant sept jours avec du vin et de la musique.
 
 Le huitième jour Guersiwez et les siens firent leurs préparatifs de départ et Siawusch, malgré les soupçons qu’il avait conçus en secret, écrivit au roi une lettre remplie d’expressions de soumission et de questions amicales.
 
