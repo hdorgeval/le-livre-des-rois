@@ -24,7 +24,7 @@ Les grands et le roi, tous ceux qui portaient un diadème allèrent à sa rencon
 > Est-ce Rustem, ou
 (f est-ce le soleil du matin î ? »
 
-Le roi de Semengan alla auvdevant de lui, à pied, entouré de la foule de ses braves et lui adressa ces paroles :
+Le roi de Semengan alla au-devant de lui, à pied, entouré de la foule de ses braves et lui adressa ces paroles :
 
 > Qu’est-il arrivé ?
 qui est-ce qui a osé se mesurer avec toi dans le combat ?
