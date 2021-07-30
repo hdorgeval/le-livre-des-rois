@@ -16,7 +16,7 @@ order: '206'
 
 # Réponse de Kaous à la lettre de Keï Khosrou
 
-Ensuite entra un scribe, apportant du papier, du musc et de l’ambre et il écrivitla réponse du roi :
+Ensuite entra un scribe, apportant du papier, du musc et de l’ambre et il écrivit la réponse du roi :
 
 > Dieu nous a donné de la joie et la fortune nous a comblé de bonheur, car notre fils est victorieux, il est digne du pouvoir, de la couronne et du trône.
 >
@@ -40,7 +40,7 @@ Ensuite entra un scribe, apportant du papier, du musc et de l’ambre et il écr
 
 On plaça sur la lettre le sceau du roi et Guiv quitta le palais et se mit en route ; il ne s’arrêta nulle part dans son chemin et arriva à Gangue au-près de Khosrou.
 
-Il offrit ses hommages au roi, lui remit la lettre. et lui rapporta le message de son grand-père.
+Il offrit ses hommages au roi, lui remit la lettre et lui rapporta le message de son grand-père.
 
 Le’ roi l2 fut heureux de ces paroles, il fit apporter du vin et appeler les chanteurs et les échansons et se livra pendant trois jours aux festins, joyeux de ses vic-toires.
 
@@ -54,4 +54,4 @@ C’est ainsi que Khosrou continua sa route, consumé de douleur et le cœur gon
 
 > .
 >
-> Ire Si Dieu, l’unique, le juge qui distribue la justice, veut être mon guide, je verserai ici et de la même manière, comme de l’eau, le sang d’Alrasiab.»
+> Ire Si Dieu, l’unique, le juge qui distribue la justice, veut être mon guide, je verserai ici et de la même manière, comme de l’eau, le sang d’Alrasiab. »
