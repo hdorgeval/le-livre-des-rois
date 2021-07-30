@@ -30,7 +30,7 @@ Guiv dit au roi :
 >
 > Ta mère t’a mis au monde parce que le monde avait besoin de toi, car le trône du roi des rois était abaissé ; et moi je ne fus mis au monde par ma mère que pour toi.
 >
-> N’hésite donc pas, car je ne doute pas qu’Afrasiab ne s’approche en toute hâte du bord du fleuve ; et s’il nousy trouve, il me suspendra vivant à un gibet en me couvrant d’opprebre et toi et Ferenguis il vous jettera dans le fleuve pour que les poissons vous dévorent, ou il vous fera fouler aux pieds des chevaux. »
+> N’hésite donc pas, car je ne doute pas qu’Afrasiab ne s’approche en toute hâte du bord du fleuve ; et s’il nousy trouve, il me suspendra vivant à un gibet en me couvrant d’opprobre et toi et Ferenguis il vous jettera dans le fleuve pour que les poissons vous dévorent, ou il vous fera fouler aux pieds des chevaux. »
 
 Keï Khosrou lui répondit :
 
