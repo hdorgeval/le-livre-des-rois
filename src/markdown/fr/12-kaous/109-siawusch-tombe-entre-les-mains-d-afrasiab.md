@@ -134,7 +134,7 @@ Toute l’armée répondit à Afrasiab :
 >
 > Ne plante pas, au jour de la prospérité, un arbre des fruits duquel le sort se servira pour t’empoisonner. »
 
-Mais le méchant Guersiwez appuya dans sa démence les meurtriers, parce qu’il voulait verser le sang de Siawusch, à cause de la haine qu’il avaitconçue contre lui au jour de la joute.
+Mais le méchant Guersiwez appuya dans sa démence les meurtriers, parce qu’il voulait verser le sang de Siawusch, à cause de la haine qu’il avait conçue contre lui au jour de la joute.
 
 Or il y avait un frère de Piran, plus jeune que lui et son noble compagnon ; Pilsem était le nom de ce jeune héros plein de bravoure et d’un esprit brillant.
 
