@@ -107,7 +107,7 @@ Le prudent Kamous, dont l’âme était toute absorbée par cette affaire, deman
 
 Piran lui dit :
 
-> A Dieu ne plaise qu’un seul cavalier se hasarde à lutter contre lui.
+> À Dieu ne plaise qu’un seul cavalier se hasarde à lutter contre lui.
 >
 > Tu verras un homme d’une stature de cyprès, d’un aspect beau et majestueux.
 >
@@ -141,8 +141,9 @@ Il fut flatté de ces paroles, prit feu à ce discours calculé et lui répondit
 
 > Puisse ton cœur rester prudent et ton esprit serein !
 >
-> Choisis parmi tous les serments solennels qu’ont faits les rois sur lesquels veille la fortune et je vais en prononcer devant toi un plus grand pour rassurer ton cœur et ta foi : 
->
+> Choisis parmi tous les serments solennels qu’ont faits les rois sur lesquels veille la fortune et je vais en prononcer devant toi un plus grand pour rassurer ton cœur et ta foi :
+
+> >
 > Je jure de ne pas desseller mon cheval jusqu’à ce que par la force que m’a donnée le maître de Saturne et du soleil, j’aie raffermi et fait briller ta fortune et rendu aux Iraniens le monde étroit comme le trou d’une aiguille.
 
 Piran le combla de louanges, disant :
