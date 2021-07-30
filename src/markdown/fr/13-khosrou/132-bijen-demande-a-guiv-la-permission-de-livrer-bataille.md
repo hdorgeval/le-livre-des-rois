@@ -18,12 +18,14 @@ order: '132'
 
 Les deux armées, composées de guerriers illustres et avides de combat, restèrent ainsi immobiles en face l’une de l’autre pendant trois jours et trois nuits ; tu aurais dit que pas un homme ne remuait les lèvres.
 
-Gouderz dit : Si je quitte ma position, si je m’avance contre les Touraniens, un corps d’armée fondra sur mes derrières et il ne me restera dans la main que du vent.»
+Gouderz dit :
+
+> Si je quitte ma position, si je m’avance contre les Touraniens, un corps d’armée fondra sur mes derrières et il ne me restera dans la main que du vent. »
 
 Jour et nuit il se tenait sur le front de l’armée, cherchant à tirer un bon augure du soleil et de la lune ; cherchant quel était le jour heureux, quel était le moment d’agir, quand se lè-
 verait l’orage du jour de la bataille qui devait aveugler par la poussière les yeux des combattants et se disant :
 
-> Puissé-je avoir le dessus et lancer mon armée sur les Touraniens comme un ouragan!»
+> Puissé-je avoir le dessus et lancer mon armée sur les Touraniens comme un ouragan ! »
 
 Piran, de son côté, attendait le moment où Gouderz bouillonnant enfin de colère s’avancerait sans assurer ses derrières, de sorte que la troupe placée en embuscade trouvât un chemin pour le prendre à des.
 
@@ -49,7 +51,7 @@ Le quatrième jour Bijen se rendit de l’arrièregarde au centre de l’armée 
 > Dans ce moment ou la terre ést chaude et l’air serein, l’armée ne reçoit pas l’ordre de combattre ; mais lorsque la bonne saison sera passée, que la terre sera gelée et dure comme l’acier, quand les mains seront glacées .
 sur les lances, quand nous aurons derrière nous la neige et devant nous l’ennemi, qui d’entre les héros donnera alors l’exemple à l’armée et ira combattre sur ce champ de bataille ?
 >
-> Si tu crains une embuscade, donne-moi mille vaillants cavaliers, mille hommes de guerre que je choisirai parmi les plus braves ; et nous réduirons au néant leur embuscade, nous lancerons leurs têtes jusqu’au delà de la lune.»
+> Si tu crains une embuscade, donne-moi mille vaillants cavaliers, mille hommes de guerre que je choisirai parmi les plus braves ; et nous réduirons au néant leur embuscade, nous lancerons leurs têtes jusqu’au delà de la lune. »
 
 Guiv sourit aux paroles de Bljen et combla de bénédictions son héroïque enfant ; il s’adresse à Dieu le distributeur de la justice, disant :
 
@@ -68,11 +70,11 @@ Un homme qui a manié les affaires du monde n’a pas besoin qu’on lui donne d
 
 Si nos cavaliers souffrent du poids de leur armure, les Turcs de leur côté ne vivent pas dans les délices ; ils sont malheureux, ils perdent la tête ; leurs yeux sont remplis de larmes et leurs cœurs de sang.
 
-Le. vieux et rusé Gouderz veut forcer les Turcs à s’avancer pour livrer bataille ; et aussitôt que leurs derrières seront loin de la montagne, il lancera contre eux toute son armée avide de combat : alors-tu verras comment la massue de Gouderz e : balayera toute cette frontière.
+Le vieux et rusé Gouderz veut forcer les Turcs à s’avancer pour livrer bataille ; et aussitôt que leurs derrières seront loin de la montagne, il lancera contre eux toute son armée avide de combat : alors-tu verras comment la massue de Gouderz : balayera toute cette frontière.
 
 Enfin Gouderz observe la rotation du ciel pour découvrir notre bonne et notre mauvaise étoile ; et lorsque le jour pmpice sera arrivé, il délivrera la terre de nos ennemis."
 Bijen répondit à son illustre père :
 
 > Ô Pehlewan du monde !
 >
-> Si mon grand-père que bénisse le ciel n’y veut pas consentir, nous ne mettrons pas de cottes de mailles de Roum ; je m’en irai ôter ma cuirasse et mon casque, je boirai du vin jusqu’à donner à mes joues pâles des couleurs vermeilles ; et quand le Pehlewan du monde aura besoin de moi, je partirai ceint pour le combat.»
+> Si mon grand-père que bénisse le ciel n’y veut pas consentir, nous ne mettrons pas de cottes de mailles de Roum ; je m’en irai ôter ma cuirasse et mon casque, je boirai du vin jusqu’à donner à mes joues pâles des couleurs vermeilles ; et quand le Pehlewan du monde aura besoin de moi, je partirai ceint pour le combat. »
