@@ -54,7 +54,7 @@ Alors, il se courba en arrière et frappant de grands coups avec le fer de sa la
 
 Kaous fut effrayé et s’écria :
 
-> Ô hommes illustres et de hautenaissance !
+> Ô hommes illustres et de haute naissance !
 >
 > Que quelqu’un de vous aille annoncer à Rustem que le cerveau des braves est vide devant ce Turc, que je n’ai pas un. cavalier à lui opposer et qu’il n’y a personne dans l’Iran qui ose le combattre. »
 
@@ -67,7 +67,7 @@ Rustem lui répondit :
 
 Il ordonna qu’on sellât Raksch et dit à ses cavaliers de rider leurs fronts ; il jeta de sa tente un regard sur la plaine et vit sur la route Guiv qui arrivait et qui mettait à Raksch une selle brillante ; Gourguin qui criait :
 
-> Hâte-toi, hâteloi ! »
+> Hâte-toi, hâte-toi ! »
 
 Rehham qui bou-
 
@@ -111,7 +111,7 @@ Rustem regarda cet homme si altier, il regarda ses épaules, ses mains et ses lo
 >
 > Si tu me combats et que tu me survives, tu n’as plus à craindre le crocodile.
 >
-> La mer et les montagnes ont vu mes combats ; ce que j’ai fait des grands de l’armée du Touran, les astres en sonttémoins et ma valeur a mis le monde sous mes pieds.
+> La mer et les montagnes ont vu mes combats ; ce que j’ai fait des grands de l’armée du Touran, les astres en sont témoins et ma valeur a mis le monde sous mes pieds.
 >
 > Mais j’ai pitié de toi et ne voudrais pas t’arracher la vie.
 >
