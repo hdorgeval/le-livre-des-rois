@@ -92,7 +92,7 @@ Khosrou adressa de nouveau la parole à Kaous, en disant :
 >
 > C’est ainsi que Guiv a continué à,combattre avec sa massue à tête de bœuf, jusqu’à ce que nous ayons touché le Djihoun, qu’il a traversé dans sa colère, sans regarder si c’était de l’eau ou de la terre.
 >
-> Un Pehlewan comme lui ne devraitjamais cesser (l’être jeune. »
+> Un Pehlewan comme lui ne devrait jamais cesser (l’être jeune. »
 
 Kaous écouta les paroles de Khosrou et son âme s’épanouit comme une rose ; il pressa la tête de Guiv contre son cœur et l’embrasse plusieurs fois sur le visage et sur la tête ; il appela les grâces de Dieu sur Gouderz et lui rendit de tels honneurs que jamais personne n’en avait vu de pareils.
 
