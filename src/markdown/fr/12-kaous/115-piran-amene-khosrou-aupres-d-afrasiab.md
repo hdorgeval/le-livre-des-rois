@@ -42,7 +42,7 @@ Piran lui dit :
 >
 > Ses traits sont beaux et sa taille Il r) itlit est haute ; mais cette tête, qui devrait porter une couronne, est dépourvue de raison.
 >
-> Ne t’inquiète pas et ne commets pas de violence, carje te répondrede lui.
+> Ne t’inquiète pas et ne commets pas de violence, carje te répondre de lui.
 >
 > Que dit, en effet, le sage ?
 >
