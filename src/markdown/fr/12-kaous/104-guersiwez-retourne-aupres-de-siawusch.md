@@ -98,7 +98,7 @@ Guersiwez lui répondit :
 >
 > Je suis sérieusement inquiet pour toi, car tu es un homme sage et vaillant et jamais tu ne fis de mal à qui que ce soit avant de venir dans ce pays.
 >
-> Tu as toujours agi avec droiture et humanité, tu as rendu les hommes meilleurs par ta tsagesse.
+> Tu as toujours agi avec droiture et humanité, tu as rendu les hommes meilleurs par ta sagesse.
 >
 > Mais maintenant Ahriman qui désunit les âmes a enflammé le cœur du roi contre toi et l’a rempli d’amertume et de haine et je ne puis dire ce que Dieu ordonnera de ton sort.
 >
@@ -174,7 +174,7 @@ Guersiwez lui dit :
 >
 > J’espère que Dieu le créateur, qui sait ce qui est connu et ce qui est inconnu, fera qu’Afrasiab rentre dans la droite voie et s’éloigne de l’injustice et du désir de mal faire.
 >
-> Mais si je le vois courroucé, je t’enverrai’en toute hâte un messager monté sur un dromadaire.
+> Mais si je le vois courroucé, je t’enverraient toute hâte un messager monté sur un dromadaire.
 >
 > Fais maintenant sans délai tes préparatifs et ne perds pas de temps.
 >
