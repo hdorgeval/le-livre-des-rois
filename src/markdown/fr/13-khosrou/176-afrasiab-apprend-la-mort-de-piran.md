@@ -50,7 +50,7 @@ Afrasiab entendit ce récit et sa tête se troubla, ses yeux se voilèrent et so
 
 Afrasiab pleurait de douleur ; il arrachait ses cheveux et versait des larmes en s’écriant avec amertume :
 
-> Ô mon fils Rouïn, qui portais si haut la tête ; ô Lehbak, qui ambitionnais la possession du monde ; ô Ferschidwerd, ô cavaliers et lions au jour du combat!»
+> Ô mon fils Rouïn, qui portais si haut la tête ; ô Lehbak, qui ambitionnais la possession du monde ; ô Ferschidwerd, ô cavaliers et lions au jour du combat ! »
 
 Cette bataille ne lui laissait plus ni frères, ni fils, ni grands, ni chefs d’ar-
 I mées.
@@ -65,19 +65,21 @@ N Il poussait encore ces cris, lorsqu’il reçut des nouvelles de Keï Khosrou 
 
 Dans sa douleur et son désespoir, il
 
-Sui il) réunit son armée et parla longuement de Piran, du sang de son frère Ferschidwerd, de Bouïn et de tout de braves, lions au jour du combat.»
+Sui il) réunit son armée et parla longuement de Piran, du sang de son frère Ferschidwerd, de Bouïn et de tout de braves, lions au jour du combat. »
 
 Voici le moment, dit-il, de nous venger, de verser du sang et d’attaquer Guiv et Rustem.
 
-Je me donne tout entier à mon amour pour les "dem et à la vengeance que je veux tirer de l’Iran et de son roi.»
+Je me donne tout entier à mon amour pour les "dem et à la vengeance que je veux tirer de l’Iran et de son roi. »
 
-Les grands du Touran répondirent à Afrasiab, les yeux remplis de larmes : Nous sommes tous les esclaves du roi, nous baissons la tête devant ses ordres et ses desseins.
+Les grands du Touran répondirent à Afrasiab, les yeux remplis de larmes :
 
-Jamais mère n’a mis au monde des fils tels que Pirau, Rouïn et le noble Ferschidwerd.
-
-Nous voici maintenant devant le roi, nous tous, grands et petits et quand nous verrions les montagnes et les vallées converties en une mer de sang, nos gueurier : renversés et étendus sur le sol, aucun de nous ce ne quitterait le champ de bataille.
-
-Puisse le maître de la lune nous être favorable!»
+> Nous sommes tous les esclaves du roi, nous baissons la tête devant ses ordres et ses desseins.
+>
+> Jamais mère n’a mis au monde des fils tels que Pirau, Rouïn et le noble Ferschidwerd.
+>
+> Nous voici maintenant devant le roi, nous tous, grands et petits et quand nous verrions les montagnes et les vallées converties en une mer de sang, nos guerrier : renversés et étendus sur le sol, aucun de nous ce ne quitterait le champ de bataille.
+>
+> Puisse le maître de la lune nous être favorable ! »
 
 Le cœur du roi des Turcs rajeunit à ces paroles ; il sourit et prit de nouvelles mesures ; il ouvrit la porte de son trésor et distribua la solde ; son cœur était gonflé du désir de la vengeance et sa tête était remplie de vent.
 
@@ -90,9 +92,9 @@ Il envoya partout des troupes et mit en œuvre des ruses de toute espèce.
 Mais la volonté de Dieu le tout pur était que le roi injuste pérît. --
 Pendant la nuit noire il s’assit avec les sages, avec les mobeds expérimentés et de bon conseil, qui lui tinrent beaucoup de discours et disposèrent tout selon leur fantaisie ; tous étaient d’avis que le roi devait passer de l’autre côté du Djihoun.
 
-Il chercha à se prémunir contre le mal que ses ennemis pourraientlui faire et divisa son armée en deux parties ; il ordonna à Karakhan, son fils aîné, de paraître devant lui ; on aurait dit que c’était Afrasiab lui-même, tant il lui ressemblait par la stature, par l’aspect, par l’intelligence et la prudence.
+Il chercha à se prémunir contre le mal que ses ennemis pourraient lui faire et divisa son armée en deux parties ; il ordonna à Karakhan, son fils aîné, de paraître devant lui ; on aurait dit que c’était Afrasiab lui-même, tant il lui ressemblait par la stature, par l’aspect, par l’intelligence et la prudence.
 
-Il lui confia la moitié de son armée, composée d’hommes expérimentés, renommés etvaillants ; il lui ordonna de se rendre à Bokhara, de former derrière son père un rempart comme un rocher, d’envoyer incessamment aux camps des armes et des troupes et de faire transporter des vivres à dos de chameau.
+Il lui confia la moitié de son armée, composée d’hommes expérimentés, renommés et vaillants ; il lui ordonna de se rendre à Bokhara, de former derrière son père un rempart comme un rocher, d’envoyer incessamment aux camps des armes et des troupes et de faire transporter des vivres à dos de chameau.
 
 Afrasiab fit sortir son armée de Beïkend et l’amena en toute hâte au Djihoun ; il couvrit les bords du 2l fleuve de ses troupes, réunit mille barques et canots et les fit passer et repasser pendant une semaine.
 
@@ -100,20 +102,22 @@ Les plaines et les montagnes n’étaient qu’une masse d’hommes armés et la
 
 Afrasiab suivit son armée et passa la rivière, tout occupé de plans pour le combat ; il envoya de tous. côtés des dromadaires de course, chacun monté par un homme prudent et intelligent.
 
-Regardez, leur dit-il, à droite et à gauche et examinez où il se trouve un espace suffisant pour une si vaste armée.»
+Regardez, leur dit-il, à droite et à gauche et examinez où il se trouve un espace suffisant pour une si vaste armée. »
 
-Lorsque ces braves revinrent de leurs courses, un d’eux dit au roi qui portait haut la tête : Une telle armée, pour faire la guerre, a besoin de fourrages, de matériel de toute sorte et d’un lieu ou elle puisse, y camper.
+Lorsque ces braves revinrent de leurs courses, un d’eux dit au roi qui portait haut la tête :
 
-Or il se trouve sur le bord de la mer de Ghilan une route, des prairies pour les chevaux et de la place pour le campement et le prévoyant ’ Karakhan y amènera desvivres, parteau, de notre côté du Djihoun.
-
-Entre les deux armées se trouveront des sables et un large désert, ou l’on dressera les tentes et leurs enceintes, qui tiendront lieu de maisons.»
+> Une telle armée, pour faire la guerre, a besoin de fourrages, de matériel de toute sorte et d’un lieu ou elle puisse, y camper.
+>
+> Or il se trouve sur le bord de la mer de Ghilan une route, des prairies pour les chevaux et de la place pour le campement et le prévoyant ’ Karakhan y amènera des vivres, parteau, de notre côté du Djihoun.
+>
+> Entre les deux armées se trouveront des sables et un large désert, ou l’on dressera les tentes et leurs enceintes, qui tiendront lieu de maisons. »
 
 Le cœur d’Afrasiab rajeunit à cette nouvelle et il grandit sur son trône impérial ; il avait beaucoup d’expérience et ne se réglait pas sur les paroles d’un maître.
 
 Il disposa le centre de l’armée et les ailes du contre, il envoya des détachements pour observer l’ennemi, fixa un endroit pour la réserve et les bagages et assigna leur place aux deux ailes.
 
 Il fit des dispositions dignes d’un roi pour l’ordre de bataille, plaça au centre cent mille hommes armés d’épées,’
-en se réservant ce poste, car il était lui-même le chef et l’ordonnatenr de l’armée ; il mit àsa gauche Pescheng, qui était fort comme un léopard vail-7 lant, qui n’avait son égal ni parmi les grands de’ l’armée ni parmi les cavaliers du monde entier, qui lançaitison cheval, saisissait la queue du léopard et l’arrachait par la force de son bras, qui portait une lance de fer et en perçait les montagnes dans le combat.
+en se réservant ce poste, car il était lui-même le chef et l’ordonnateur de l’armée ; il mit àsa gauche Pescheng, qui était fort comme un léopard vail-7 lant, qui n’avait son égal ni parmi les grands de l’armée ni parmi les cavaliers du monde entier, qui lançaitison cheval, saisissait la queue du léopard et l’arrachait par la force de son bras, qui portait une lance de fer et en perçait les montagnes dans le combat.
 
 Son nom était Pescheng, mais son père l’appelait Schideh de brillant), parce qu’il ressem-
 . blaiIt au soleil brillant.
@@ -150,4 +154,4 @@ Afrasiab lui donna trente mille Chinois, cavaliers dignes de livrer combat et lu
 >
 > Le roi qui portait haut la tête, le chef des grands, le soutien de l’armée, lui donna le commandement des éléphants.
 >
-> Puis, il choisit dix mille braves qui n’étaient jamais las de combattre et leur ordonna de se couvrir les lèvres d’écume au milieu des deux armées, de lancer isolés leurs chevaux sur l’ennemi et de jeter la terreur parmi les Iraniens. -I étant tombée, on attacha les éléphants sur la roule et le roi qui faisait la gloire du mande ordonna que l’armée se dirigeât vers le midi.
+> Puis, il choisit dix mille braves qui n’étaient jamais las de combattre et leur ordonna de se couvrir les lèvres d’écume au milieu des deux armées, de lancer isolés leurs chevaux sur l’ennemi et de jeter la terreur parmi les Iraniens. -I étant tombée, on attacha les éléphants sur la route et le roi qui faisait la gloire du mande ordonna que l’armée se dirigeât vers le midi.
