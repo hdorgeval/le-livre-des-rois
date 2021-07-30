@@ -47,7 +47,7 @@ Piran dit à ce magicien :
 
 > Va sur la crête de la montagne et accable à l’instant les Iraniens de neige, de froid et d’un vent furieux.
 
-Déjà l’air était sombre, quoiqu’on fût au premier mois de l’été et un nuage noir couvrait la montagne.
+Déjà l’air était sombre, quoiqu’on fût au premier mois de l’été et un nuage noir couvrait la montagne.
 
 Bazour monta sur la hauteur et tout à coup il s’éleva un orage et une tourmente de neige qui paralysait dans la bataille les mains des Iraniens armés de lances.
 
