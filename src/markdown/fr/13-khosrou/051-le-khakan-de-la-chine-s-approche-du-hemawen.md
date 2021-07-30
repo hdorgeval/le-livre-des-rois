@@ -40,11 +40,11 @@ Lorsque Piran fut arrivé près de l’armée d’Afrasiab, il vit les vallées 
 
 Il vit le monde rempli de tentes et de leurs enceintes jaunes, rouges, violettes et bleues, toutes placées en rangs et un drapeau de brocart de soie de la Chine planté au milieu de chaque enceinte.
 
-A cet aspect il s’arrêta étonné, les pensées se pressaient dans sa tête et il se dit :
+À cet aspect il s’arrêta étonné, les pensées se pressaient dans sa tête et il se dit :
 
-> Estce un paradis ou un camp ?
+> Est-ce un paradis ou un camp ?
 >
-> Estce le ciel sublime ou une couronne et un trône ?
+> Est-ce le ciel sublime ou une couronne et un trône ?
 
 Il s’approcha à pied du Khakan de la Chine et baisa la terre devant lui.
 
