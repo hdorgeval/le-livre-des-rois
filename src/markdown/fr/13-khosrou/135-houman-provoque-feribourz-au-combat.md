@@ -16,7 +16,7 @@ order: '135'
 
 # Houman provoque Feribourz au combat
 
-Ensuite, il se rendit au centre de l’armée ; il courut jusqu’à ce qu’il l’eût atteint et s’approcha avec son trucheman de Feribourz, semblable à un éléphant furieux.
+Ensuite, il se rendit au centre de l’armée ; il courut jusqu’à ce qu’il l’eût atteint et s’approcha avec son truchement de Feribourz, semblable à un éléphant furieux.
 
 Il poussa un cri et dit :
 
@@ -30,7 +30,7 @@ Il poussa un cri et dit :
 >
 > Il faut maintenant que tu viennes m’affronter sur le champ de bataille à la vue de l’armée ; tu es digne de combattre, prépare-toi donc au combat ; et quand tu te seras avancé contre moi, ton nom s’élèvera jusqu’au soleil brillant.
 >
-> Mais s’il ne te convient pas de te battre avec moi, regarde où sont Zewareh et Gourazeh ; amène-moi un des héros qui ont un nom parmi les Iraniens.»
+> Mais s’il ne te convient pas de te battre avec moi, regarde où sont Zewareh et Gourazeh ; amène-moi un des héros qui ont un nom parmi les Iraniens. »
 
 ’ Feribourz répondit :
 
@@ -38,7 +38,7 @@ Il poussa un cri et dit :
 
 Tel est le sort des batailles, que l’un est heureux et victorieux, l’autre vaincu et triste.
 
-Quand tu triomphes, crains un malheurfutur ; car le ciel sublime ne tourne pas toujours de la même manière.
+Quand tu triomphes, crains un malheur futur ; car le ciel sublime ne tourne pas toujours de la même manière.
 
 Un homme querelleur fait tant qu’à la fin sa vieille maison devient déserte.
 
@@ -56,4 +56,4 @@ S’il me permet de me mesurer avec toi, il mettra un baume sur la blessure de m
 >
 > Attaque-moi avec cette misérable massue, elle ne
 >
-> fera aucune impression sur mon casque et ma cuirasse.»
+> fera aucune impression sur mon casque et ma cuirasse. »
