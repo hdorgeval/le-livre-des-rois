@@ -38,15 +38,15 @@ Lorsque Zal, le dévoué serviteur du roi, entendit ces paroles, il baisa la ter
 >
 > Mais j’aurais beau parler de ses hauts faits, a : je ne pourrais jamais les énumérer tous.
 >
-> Si le roi est fatigué du trône et de la couronne, que laisse-t-il à cet ami au cœur de lion.»
+> Si le roi est fatigué du trône et de la couronne, que laisse-t-il à cet ami au cœur de lion. »
 
 Le roi répondit :
 
-> I Ses grandes actions, ses fatigues et les dangers qu’il a subis pour moi, qui peut les connaître entièrement, si ce n’est le Créateur du r ciel, le maître de la justice, du repos et de l’amour ?
+> I Ses grandes actions, ses fatigues et les dangers qu’il a subis pour moi, qui peut les connaître entièrement, si ce n’est le Créateur du ciel, le maître de la justice, du repos et de l’amour ?
 >
-> Mais sa vie ne s’est pas passée dans le secret et je ne connais pas son semblable dans toutes les parties du monde.»
+> Mais sa vie ne s’est pas passée dans le secret et je ne connais pas son semblable dans toutes les parties du monde. »
 
-Ll fit venir un scribe. qui apporta -du papier, de l’ambre et du musc et l’on écrivit un brevet du roi de la terre, de Keï Khosrou, à la foi pure, qui portait haut la tête, en faveur du Sipehbed, I du héros au corps d’éléphant, célébré pour sa bravoure par toute la cour, le champion de l’armée dans le monde entier, le maître du monde, le vigilant et jeune chef de l’armée, lui attribuant le Zaboulistan jusqu’à la mer du Sind, tout le Kaboul, Dambar, Maï et l’Inde ; ensuite Bost, Ghaznin et le Zaboulistan et tous les pays jusqu’au Kaboulistan ; tout le Kischwer de Nimronz fut donné au Sipehdar victorieux qui faisait la gloire de l’armée.
+Il fit venir un scribe. qui apporta -du papier, de l’ambre et du musc et l’on écrivit un brevet du roi de la terre, de Keï Khosrou, à la foi pure, qui portait haut la tête, en faveur du Sipehbed, I du héros au corps d’éléphant, célébré pour sa bravoure par toute la cour, le champion de l’armée dans le monde entier, le maître du monde, le vigilant et jeune chef de l’armée, lui attribuant le Zaboulistan jusqu’à la mer du Sind, tout le Kaboul, Dambar, Maï et l’Inde ; ensuite Bost, Ghaznin et le Zaboulistan et tous les pays jusqu’au Kaboulistan ; tout le Kischwer de Nimronz fut donné au Sipehdar victorieux qui faisait la gloire de l’armée.
 
 On apposa sur le brevet un sceau d’or, selon la coutume de Keï
 Khosrou, le distributeur de la justice.
