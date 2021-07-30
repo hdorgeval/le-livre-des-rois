@@ -18,7 +18,7 @@ order: '106'
 
 Lorsque Afrasiab ont entendu ces paroles, sa vieillesse parut se rajeunir ; son cœur brûlait ; sa poitrine exhalait des soupirs et sa colère fut.si grande qu’il ne donna aucune réponse à Guersiwez.
 
-Il ordonna de sonner des trompettes, de jouer des cymbales, de faire résonner les clairons et les clqchettes indiennes et il sortit de Gang, qui était un paradis riant, pour planter de nouveau l’arbre de la vengeance.
+Il ordonna de sonner des trompettes, de jouer des cymbales, de faire résonner les clairons et les clochettes indiennes et il sortit de Gang, qui était un paradis riant, pour planter de nouveau l’arbre de la vengeance.
 
 Pendant que Guersiwez le fourbe fatiguait les courroies de ses étriers sur la route du Touran, Siawusch entra tristement dans l’appartement des femmes, le corps tremblant, les joues pâles.
 
@@ -39,7 +39,7 @@ Il lui répondit :
 > Si Guersiwez a dit vrai, il ne me reste du
 æ cercle de la vie que le point du centre. »
 
-Ferenguis saisit de ses mains les boucles de ses icheveux, elle déchira de ses ongles ses joues de rose et de corail et ces joues au parfum de musc se couvrirent de sang ; son cœur était en feu, son visage inondé de larmes qui tombaient en torrent sur les collines d’argent de son sein ; elle déchirait ses lèvres
+Ferenguis saisit de ses mains les boucles de ses cheveux, elle déchira de ses ongles ses joues de rose et de corail et ces joues au parfum de musc se couvrirent de sang ; son cœur était en feu, son visage inondé de larmes qui tombaient en torrent sur les collines d’argent de son sein ; elle déchirait ses lèvres
 
 De tulipe avec ses dents de perles ; elle arrachait ses cheveux et pleurait sur ce qu’avait dit et fait Afrasiab.
 
