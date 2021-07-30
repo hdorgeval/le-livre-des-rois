@@ -22,4 +22,4 @@ Il se jeta sur Kelbad fils de Wiseh, tenant en main son arc bandé ; il tourna a
 
 Ensuite, il mit pied à terre, détacha son lacet de Keïanide du crochet de la selle, lia le corps de Kelbad sur la selle de son cheval, déboutonna l’armure d’acier du mort, se dirigea triomphant vers la colline et s’avança en s’écriant :
 
-> Puisse notre chef être victorieux] puissent tous les ennemis de ce notre roi avoir le cœur déchiré.»
+> Puisse notre chef être victorieux] puissent tous les ennemis de ce notre roi avoir le cœur déchiré. »
