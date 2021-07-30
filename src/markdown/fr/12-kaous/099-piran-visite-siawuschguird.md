@@ -30,7 +30,7 @@ Toutes les maisons, tous les palais et les jardins brillaient comme des lampes r
 
 Le Sipehdar Piran visita tout et appela sur Siawusch les bénédic-à tions de Dieu, disant :
 
-> Si tu n’avais pas été doué d’une puissance et d’une majesté royales en même temps que de sagesse pour découvrir un pareil ence droit, comment aurais-tu pu trouver un lieu comme celuisci pour y fonder une ville si belle ?
+> Si tu n’avais pas été doué d’une puissance et d’une majesté royales en même temps que de sagesse pour découvrir un pareil ence droit, comment aurais-tu pu trouver un lieu comme celui-ci pour y fonder une ville si belle ?
 >
 > Puisse ton drapeau rester, jusqu’au jour de la résurrection, entouré de grands et de braves !
 >
