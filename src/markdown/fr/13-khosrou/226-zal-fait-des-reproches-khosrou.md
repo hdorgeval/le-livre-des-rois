@@ -18,7 +18,7 @@ order: '226'
 
 Zal, à ces paroles, se mit debout et dit :
 
-> Ô Khosrou, le noble, le juste ! écoute ce que dit un vieillard qui a de l’expérience ; si son avis est faux, ne le suis pas ; mais si sa parole est amère et vraie, si elle ferme la porte à la perversité et à la ruine, ne m’en veuille pas de ce que je parle si franchemcnt devant cette assemblée.
+> Ô Khosrou, le noble, le juste ! écoute ce que dit un vieillard qui a de l’expérience ; si son avis est faux, ne le suis pas ; mais si sa parole est amère et vraie, si elle ferme la porte à la perversité et à la ruine, ne m’en veuille pas de ce que je parle si franchement devant cette assemblée.
 >
 > Ta mère l’a mis au monde dans le pays de Touran ; c’est là qu’ont été ton berceau et ta demeure.
 >
@@ -38,7 +38,7 @@ Zal, à ces paroles, se mit debout et dit :
 >
 > Dieu t’a fait sortir sain et sauf des mains de Pescheng, il a en pitié de toi et a fait réussir tes plans.
 >
-> Tu as mis à mort quiconque inspiraitde la terreur et n’adorait pas le Seigneur distributeur de la justice. !
+> Tu as mis à mort quiconque inspirait de la terreur et n’adorait pas le Seigneur distributeur de la justice. !
 >
 > Pour le repos, pour les habits de fête, pour les présents et les coupes de vin, les temps sont devenus encore plus difficiles pour les Iraniens, les maux plus grands, les cœurs plus affligés.
 >
@@ -49,4 +49,6 @@ Zal, à ces paroles, se mit debout et dit :
 > Si tu rejettes entièrement mes conseils, si tu le fies à Ahriman le méchant, personne ne te saluera plus ; il ne te restera ni fortune, ni hommages royaux, ni couronne. ni trône.
 >
 > Puisse la raison l7.
-Lorsque nous disions que le moment était arrivé guideriton âme, puisse ton cerveau être préservé de l’égarement par des pensées saintes In Lorsque le Destau eut cessé de parler, les héros dirent d’une seule voix : Nous tous approuvons les paroles du vieillard ; il ne faut pas cacher la porte de la vérité.»
+Lorsque nous disions que le moment était arrivé guideriton âme, puisse ton cerveau être préservé de l’égarement par des pensées saintes In Lorsque le Destau eut cessé de parler, les héros dirent d’une seule voix :
+
+> Nous tous approuvons les paroles du vieillard ; il ne faut pas cacher la porte de la vérité. »
