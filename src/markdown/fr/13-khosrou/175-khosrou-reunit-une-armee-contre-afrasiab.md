@@ -27,9 +27,11 @@ Le roi, ceint de la couronne, monta sur ce trône et un bruit s’éleva de la p
 
 Lorsque le roi, assis sur son éléphant, eut donné le signal de la guerre en jetant les boules dans la coupe et en s’armant pour le combat, il n’était plus permis à personne dans l’empire de demeurer autre part qu’à la cour du roi : tel était le commandement de l’illustre Khosrou, qui portait haut la tête.
 
-Il envoya des ordres sur toutes les frontières . 9 où il avait dirigé des armées pourvues de ses conseils et de ses instructions,à Lohrasp, Aschkesch prompt à frapper, qui tirait le crocodile du fond de la mer, puis à l’illustre Rustem, le Pehlewan bienaimé ; noble et toujours calme ; et il rappela à la cour tous . ceux qui étaient braves et avides de combats.
+Il envoya des ordres sur toutes les frontières . où il avait dirigé des armées pourvues de ses conseils et de ses instructions,à Lohrasp, Aschkesch prompt à frapper, qui tirait le crocodile du fond de la mer, puis à l’illustre Rustem, le Pehlewan bienaimé ; noble et toujours calme ; et il rappela à la cour tous . ceux qui étaient braves et avides de combats.
 
-Ensuite, il ouvrit ses trésors et paya la solde de l’armée ; il parla beaucoup des mânes de son père et distingua parmi la foule trois hommes à la parole facile, au cœur serein et prompts à frapper de l’épée : Rustem, le grand Pehlewan ; Gouderz le sagace, le vieux s loup ; enfin Thous, le Pehlewan aux bottines d’or, qui portait le drapeau de Kaweh.
+Ensuite, il ouvrit ses trésors et paya la solde de l’armée ; il parla beaucoup des mânes de son père et distingua parmi la foule trois hommes à la parole facile, au cœur serein et prompts à frapper de l’épée :
+
+> Rustem, le grand Pehlewan ; Gouderz le sagace, le vieux s loup ; enfin Thous, le Pehlewan aux bottines d’or, qui portait le drapeau de Kaweh.
 
 Le roi du monde leur dit :
 
@@ -41,11 +43,13 @@ Le roi du monde leur dit :
 >
 > Je ne cesserai de combattre Afrasiab ni pendant le jour brillant ni pendant les heures du sommeil.
 >
-> J’ai appelé une armée de toutes les provinces et je mènerai à bonne fin cette guerre et cette vengeance.»
+> J’ai appelé une armée de toutes les provinces et je mènerai à bonne fin cette guerre et cette vengeance. »
 
-Il choisit dans sa cour des envoyés éloquents, in. telligents et bons conseillers ; il fit écrire dans chaque province, à tous ceux qui avaient du renom et de l’indépendance, une lettre disant : Keï Khosrou, le victorieux, a donné le signal sur le dos de son éléphant et le monde est devenu semblable au Nil. à !
+Il choisit dans sa cour des envoyés éloquents, in. telligents et bons conseillers ; il fit écrire dans chaque province, à tous ceux qui avaient du renom et de l’indépendance, une lettre disant :
 
-Ne vous livrez donc ni au repos ni au sommeil, mais préparez-vous à la guerre contre Afrasiab.»
+> Keï Khosrou, le victorieux, a donné le signal sur le dos de son éléphant et le monde est devenu semblable au Nil à !
+>
+> Ne vous livrez donc ni au repos ni au sommeil, mais préparez-vous à la guerre contre Afrasiab. »
 
 Cette lettre ayant été lue par tous les princes qui commandaient dans l’empire, les braves du monde
 4 entier poussèrent un cri qui fit bondir la terre comme bondissent les cagues de la mer et les grands de toutes les provinces se dirigèrent avec leurs troupes vers la cour du roi. \* Tous les grands de tous les pays ayant équipé leurs troupes pour la guerre, Khosrou visita ces différentes armées et établit de tous côtés des camps.
@@ -84,7 +88,7 @@ Ensuite le roi forma un corps choisi de troupes de l’Occident munies de boucli
 
 I3 du Dehistan, qui méprisait ses ennemis ; Tokhar était issu de la race de l’illustre Deschmeh, famille alors très-puissante.
 
-A côté de Feribourz se trouvait Nestouh, autour duquel se pressait une foule de grands et de chefs aguerris qui venaient du désert des cavaliers armés de lances.
+À côté de Feribourz se trouvait Nestouh, autour duquel se pressait une foule de grands et de chefs aguerris qui venaient du désert des cavaliers armés de lances.
 
 A leur tête marchait Hedjir devant lequel un lion n’étaitqu’une faible gazelle.
 
@@ -98,9 +102,9 @@ Au delà se trouvait un homme illustre, de la famille de Keroukhan, un prince de
 
 Le roi les plaça à côté de Minoutcher et nomma le chef de cette fa mille ordonnateur de l’armée.
 
-Ensuite s’avancèrent les grands du mont Kaf : ils marchaient fièrement, armés de lances et d’épées ; c’était une troupe de la souche de Feridoun. et de Djemschid, dent le cœur se gonflait de sang quand ils pensaient à la race de
+Ensuite s’avancèrent les grands du mont Kaf : ils marchaient fièrement, armés de lances et d’épées ; c’était une troupe de la souche de Feridoun et de Djemschid, dent le cœur se gonflait de sang quand ils pensaient à la race de
 
-Ll : Zadschem.
+Il : Zadschem.
 
 Il choisit trente mille grands de race royale qui frappaient de l’épée et confia cette armée à Guiv, fils de Gouderz, ce qui remplit de joie toute cette frontière.
 
