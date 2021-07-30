@@ -22,7 +22,7 @@ Il ouvrit la porte des trésors de son grand-père, et, sans parler de sa parent
 
 Ensuite le roi ordonna que toutes les parentes et toute la famille d’Afrasiab, que ce fussent des princesses ou des esclaves, fussent amenées la nuit dans des litières et portées du palais sur la place devant sa résidence ; enfin il fit venir cent princes et nobles, tous renommés pour leur bravoure, tous parents et alliés d’Afrasiab, qui avaient les. yeux remplis de larmes de pitié sur leur maître, comme Djehn et Guersiwez et qui étaient ses serviteurs depuis le berceau et mille prisonniers turcs et chinois, que Khosrou avait pris comme otages qui lui répondaient de leurs villes ; puis il choisit dix mille Iraniens, en donna le commandement à Guiv et lui dit :
 
-> Ô homme dont le pied laisse des traces fortunées, rends-toi avec ce corps d’armée auprès de Kaous.»
+> Ô homme dont le pied laisse des traces fortunées, rends-toi avec ce corps d’armée auprès de Kaous. »
 
 Il ordonna qu’on appelât un scribe, qui devait apporter du papier et de la soie de la Chine et lui fit écrire, sur les affaires d’Afrasiab, une lettre avec du noir de fumée, du musc et de l’eau de rose.
 
@@ -30,7 +30,9 @@ Quand le roseau da scribe fut mouillé avec du musc et du noir, le roi commença
 
 L2x’l conserve et qui détruit ; c’est lui qui a donné sa forme à l’univers ; il est le créateur de la fourmi et de l’éléphant et de tout, depuis le brin d’herbe sans valeur jusqu’aux flots du Nil ; devant sa puissance tout est également impuissant ; il est le maître de l’existence et le maître du néant ; la sphère céleste ne. tourne pas avec dureté au-dessus de ceux qu’il protège tendrement.
 
-Puissent reposer sur le roi de la terre les bénédictions de celui qui créa la trame et la chaîne du tissu du reposl Je suis arrivé à Gangue Diz, qu’Afrasiab a bâti pour lui servir de lieu de refuge et de repos et où se trouvaient son trône et sa couronne, sa puissance, son diadème, ses trésors et son armée.
+Puissent reposer sur le roi de la terre les bénédictions de celui qui créa la trame et la chaîne du tissu du repos !
+
+Je suis arrivé à Gangue Diz, qu’Afrasiab a bâti pour lui servir de lieu de refuge et de repos et où se trouvaient son trône et sa couronne, sa puissance, son diadème, ses trésors et son armée.
 
 Nous avons livré des combats incessants pendant quarante jours et le monde est devenu étroit pour notre ennemi ; à la fin il s’est dérobé à nos mains et tous ceux des siens qui sont parvenus à se sauver ont eu le cœur percé de douleur.
 
@@ -38,7 +40,7 @@ Guiv va raconter au roi, l’un après l’autre, tous les événements de cette
 
 Quand tu ouvres tes lèvres en prière devant Dieu, prie tendrement pour moi, le jour et la nuit.
 
-J’ai conduit l’armée dans le Madjin et la Chine et de là je la mènerai dans le pays de Mekran ; ensuite nous passerons le lac de Zereh, si Dieu le très-saint veut nous être secourable.»
+J’ai conduit l’armée dans le Madjin et la Chine et de là je la mènerai dans le pays de Mekran ; ensuite nous passerons le lac de Zereh, si Dieu le très-saint veut nous être secourable. »
 
 Guiv quitta le roi des rois et se mitenmarche avec une armée nombreuse et de vaillants héros ; après
 
