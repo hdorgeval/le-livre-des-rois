@@ -16,7 +16,7 @@ order: '145'
 
 # Piran écrit à Gouderz pour demander la paix
 
-Pirau apprit ce que faisait le chef des Iraniens ; cette nouvelle remplit son cœur d’inquiétude ; il s’appliqua à chercher un moyen de salut dans les ruses. et la fourberie. et demanda à un Destour plein de sagesse des conseils touchant cette guerre.
+Pirau apprit ce que faisait le chef des Iraniens ; cette nouvelle remplit son cœur d’inquiétude ; il s’appliqua à chercher un moyen de salut dans les ruses et la fourberie et demanda à un Destour plein de sagesse des conseils touchant cette guerre.
 
 Ensuite, il ordonna, pour dernière ressource, à un secrétaire d’écrire une lettre. qu’il adressait au Pehlewan.
 
@@ -29,7 +29,7 @@ A06 lions tu as privés de la tête et jetés dans la poussière.
 
 N’as-tu donc aucune crainte de Dieu 2’ Tu as renoncé aux sentiments d’humanité et à la raison et maintenant tu as atteint ton but ; le temps est venu où tu dois être las de vengeance et n’être plus aussi empressé de répandre du sang.
 
-Songe combien d’Iraniens et de Touraniens ont péri sur ce champ de bataille ; le moment est venu où tu dois incliner à la pitié, où tu dois aspirer à te resposer de cette guerre.
+Songe combien d’Iraniens et de Touraniens ont péri sur ce champ de bataille ; le moment est venu où tu dois incliner à la pitié, où tu dois aspirer à te reposer de cette guerre.
 
 Pourquoi trancher la tête aux vivants pour venger un mort qu’on ne reverra plus ?
 
@@ -57,9 +57,9 @@ La frontière remontera plus haut encore, embrassant les plaines d’Amoui et de
 
 De plus, tu peux prendre le pays de Soghd, dont personne ne te disputera la possession.
 
-Du côté où s’avance Ruslem le destructeur des héros, je lui céderai tout le Nimrouz ; je rappellerai l’armée qui se trouve en
+Du côté où s’avance Rustem le destructeur des héros, je lui céderai tout le Nimrouz ; je rappellerai l’armée qui se trouve en
 
-[ face de lui, je lui ouvrirai la route de l’Oiient el lui livrerai, sans que mon cœur les regrette, tous les pays qui s’étendent jusqu’à l’Inde, ainsi que le Kaschmir, Kaboul, Kandahar. et de proche en proche toutes les contrées jusqu’au Sind.
+[ face de lui, je lui ouvrirai la route de l’Oiient el lui livrerai, sans que mon cœur les regrette, tous les pays qui s’étendent jusqu’à l’Inde, ainsi que le Kaschmir, Kaboul, Kandahar et de proche en proche toutes les contrées jusqu’au Sind.
 
 Du côlé où se trouve le vaillant Lohrasp, je lui céderai le pays des Alains et toute cette région ; je donnerai à Khosrou sans combat et sans contestation une frontière continue jusqu’au mont Kaf.
 
@@ -95,11 +95,11 @@ Mais alors il faut que tu fasses avec moi le traité suivant : Si tu parviens à
 
 Et si c’est moi qui suis victorieux. si ma bonne étoile me livre le monde, alors je n’inquiéterai pas les Iraniens, je ne leur en voudrai pas et ne chercherai pas à me venger d’eux ; je les laisserai tous partir pour l’Iran, je les laisserai retourner auprès de leur roi et désormais aucun d’eux ne périra ; leur vie et leurs trésors seront en sûreté.
 
-Enfin, si tu n’acceptes pas cette forme de combat, si tu veux livrer une bataille en règle, si tu veux que les troupes se battent en masse, alors fais avancer ton armée entière ; et tout le sang qui sera versé dans cette ’lutte, tu en seras responsable dans l’autre monde.»
+Enfin, si tu n’acceptes pas cette forme de combat, si tu veux livrer une bataille en règle, si tu veux que les troupes se battent en masse, alors fais avancer ton armée entière ; et tout le sang qui sera versé dans cette ’lutte, tu en seras responsable dans l’autre monde. »
 
 KEÏ lf 1 : 09 Il attacha un fil autour de la lettre et appela son noble fils (il avait un fils qui tenait le premier rang dans l’assemblée des grands et se nommait Rouïn au corps d’airain) ; il l’appela et lui dit :
 
-> Rends-toi auprès de Gouderz, parle-lui sagement et écoute sa réponse.»
+> Rends-toi auprès de Gouderz, parle-lui sagement et écoute sa réponse. »
 
 Rouïn quitta son illustre père et se mit en route avec dix cavaliers ; il partit plein de prudence et de sérénité et courut jusqu’à l’enceinte des tentes du Pehlewan.
 
@@ -110,15 +110,15 @@ Ilouïn entra ; et lorsqu’il aperçut Gouderz, il croisa les mains sur la poit
 
 Le Sipehdar se leva et le serra avec empressement dans ses bras ; il lui demanda des nouvelles de Pirau et de son armée, des héros, du roi et de son pays.
 
-Bouïu tira en toute hâte la lettre, la remit et s’acquitte de son message.
+Bouïu tira en toute hâte la lettre, la remit et s’acquitta de son message.
 
 Un secrétaire vint, parcourut la lettre et dit à Gouderz ce qu’elle contenait.
 
-Lorsqu’on eut lu la lettre devant Gouderz, tous les grands restèrent étonnés de ces paroles douces, de ces bons conseils et de ce traité humain que proposait le sage Pirau, quidisait tantde bonnes choses dans la lettre et donnait tant de bon avis.
+Lorsqu’on eut lu la lettre devant Gouderz, tous les grands restèrent étonnés de ces paroles douces, de ces bons conseils et de ce traité humain que proposait le sage Pirau, qui disait tantde bonnes choses dans la lettre et donnait tant de bon avis.
 
 Gouderz dit à Roum :
 
-> Ô fils du chef de l’armée, noblejeune homme, il faut d’abord que tu reçoives de moi l’hospitalité, ensuite tu me demanderas la
+> Ô fils du chef de l’armée, noble jeune homme, il faut d’abord que tu reçoives de moi l’hospitalité, ensuite tu me demanderas la
 >
 > MO réponse à cette lettrem On dressa une nouvelle tente ; on y arrangea une salle de festin digne d’un roi, qu’on orna de brocart de Roum ; on fit venir des mets et des musiciens.
 >
