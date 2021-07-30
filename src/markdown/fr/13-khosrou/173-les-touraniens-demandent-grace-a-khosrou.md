@@ -28,7 +28,7 @@ Il dit à Khosrou :
 >
 > Le maître du monde sait pourquoi nous avons, tous tant que nous sommes, ceint nos reins pour le combat ; nous n’avons point pris part au meurtre de Siawusch ; mais Ahriman a détourné de la bonne voie notre roi, qui est un homme léger et de mauvaise intention, qui n’a pas de honte devant les grands ni de crainte devant Dieu.
 >
-> Depuis ce jour nous n’avons cessé de souffrir. et l’angoisse de nos cœurs a fait couler sur nos joues un torrent de larmes ; les Iraniens ont rempli de douleur. le Touran et nos femmes et nos pe-[ tits enfants sont en deuil.
+> Depuis ce jour nous n’avons cessé de souffrir et l’angoisse de nos cœurs a fait couler sur nos joues un torrent de larmes ; les Iraniens ont rempli de douleur. le Touran et nos femmes et nos pe-[ tits enfants sont en deuil.
 >
 > Nous ne sommes pas vénus faire la guerre de notre gré, nous sommes venus défendre notre pays et nos demeures ; la guerre nous a porté malheur ; les pères ont perdu leurs fils et les fils leurs pères.
 >
@@ -42,27 +42,31 @@ Il dit à Khosrou :
 >
 > Si tu gardes dans ton cœur de la haine contre nous, la coutume te permet de trancher la tête à les ennemis ; si tu préfères la clémence, tu peux en user.
 >
-> Fais ce qui est digne d’un roi.»
+> Fais ce qui est digne d’un roi. »
 
-Le roi au cœur noble écouta ces paroles lamentables et pardonna aux Touraniens ; il leur ordonna de paraître devant lui et ils arrivèrentselon son désir, espérant d’être sauvés ; ils se prosternèrent contre terre, les yeux pleins de larmes de sang et le cœur de ressentiment.
+Le roi au cœur noble écouta ces paroles lamentables et pardonna aux Touraniens ; il leur ordonna de paraître devant lui et ils arrivèrent selon son désir, espérant d’être sauvés ; ils se prosternèrent contre terre, les yeux pleins de larmes de sang et le cœur de ressentiment.
 
-Khosrou dit : Ô Dieu de la justice, c’est toi qui m’as donné le trône, le pouvoir et la bravoure.
+Khosrou dit :
 
-Voici donc cette armée qui, remplie de haine, a voulu mettre en poudre l’Iran, pour l’iuonder d’un poison destructeur où elle aurait jeté III. [i3
+> Ô Dieu de la justice, c’est toi qui m’as donné le trône, le pouvoir et la bravoure.
+
+Voici donc cette armée qui, remplie de haine, a voulu mettre en poudre l’Iran, pour l’inonder d’un poison destructeur où elle aurait jeté III. [i3
 
 8 les têtes les plus hautes ; mais la justice divine les a réduits à un état où ils n’ont plus ni volonté, ni avis, ni pieds, ni ailes.
 
-J’étends ma main sup pliante vers Dieu, car lui seul est mon protecteur et je ne demande d’aide à personne sur la terre. et C’est ici que s’applique le mot d’un sage, qui dit en montant à cheval pour aller à la guerre : Dès à présent ce destrier sera mon trône brillant et le moment d’agir est venu pour la fortune qui veille sur moi.
+J’étends ma main sup pliante vers Dieu, car lui seul est mon protecteur et je ne demande d’aide à personne sur la terre et C’est ici que s’applique le mot d’un sage, qui dit en montant à cheval pour aller à la guerre :
 
-Il faut apporter dans cette guerre mon trône et ma couronne, quand je risquerais d’être à lafin placé dans un cercueil de bois de tek ; sinon je me trouverai dans les griffes du léopard et ma ce cervelle deviendra la nourriture des vautours.
-
-Maintenant vos mauvaises actions ont tourné contre x vous, c’est ce que comprendra tout homme de sens.
-
-Je n’ai pas trempé mes mains dans votre sang et a je ne veux pas aggraver vos malheurs ; toute votre armée est sous ma protection, quelque mal qu’elle ait voulu à mon trône.
-
-Quiconque d’entre vous veut repartir. peut le faire, il ne lui en arrivera ni bien ni mal ; quiconque veut se rendre auprès de son roi, qu’il parte, je lui laisse le chemin libre.
-
-La puissance que Dieu m’a donnée me met au-dessus w de l’agrandissement et de la diminution, au-dessus des fatigues et de la convoitise.»
+> Dès à présent ce destrier sera mon trône brillant et le moment d’agir est venu pour la fortune qui veille sur moi.
+>
+> Il faut apporter dans cette guerre mon trône et ma couronne, quand je risquerais d’être à lafin placé dans un cercueil de bois de tek ; sinon je me trouverai dans les griffes du léopard et ma ce cervelle deviendra la nourriture des vautours.
+>
+> Maintenant vos mauvaises actions ont tourné contre x vous, c’est ce que comprendra tout homme de sens.
+>
+> Je n’ai pas trempé mes mains dans votre sang et a je ne veux pas aggraver vos malheurs ; toute votre armée est sous ma protection, quelque mal qu’elle ait voulu à mon trône.
+>
+> Quiconque d’entre vous veut repartir. peut le faire, il ne lui en arrivera ni bien ni mal ; quiconque veut se rendre auprès de son roi, qu’il parte, je lui laisse le chemin libre.
+>
+> La puissance que Dieu m’a donnée me met au-dessus w de l’agrandissement et de la diminution, au-dessus des fatigues et de la convoitise. »
 
 Les Turcs, à ces paroles du roi, ôtèrent tous le musque de dessus leur lêtc ; ils déclarèrent que le roi
 
