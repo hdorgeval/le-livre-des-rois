@@ -50,7 +50,7 @@ Tu sais quel est leur rang à ma cour et qu’en franchise, en courage et en sag
 
 S’il le plait de ne pas refuser ce service pénible, demande-moi en hommes et en trésors tout ce que tu voudras.
 
-Je n’ai jamais vu aussi allligée cette famille, la plus glorieuse dont parle la renommée.
+Je n’ai jamais vu aussi affligée cette famille, la plus glorieuse dont parle la renommée.
 
 Guiv n’avait que ce seul enfant, qui était pour lui en même temps un fils et un appui ; et Guiv est un homme que j’honore infiniment, qui est mon ami et a été l’ami de mon grand-père.
 
@@ -64,4 +64,4 @@ Je tiendrai prêts pour toi des hommes, des trésors et tout ce que tu peux dés
 
 Je jure par les glorieuses traces de ton pied, je jure par ton nom illustre, que tu feras du Touran tout ce que tu voudras.
 
-Fais donc les préparatifs de départ, car tu peux espérer de rendre Bijen à la liberté.»
+Fais donc les préparatifs de départ, car tu peux espérer de rendre Bijen à la liberté. »
