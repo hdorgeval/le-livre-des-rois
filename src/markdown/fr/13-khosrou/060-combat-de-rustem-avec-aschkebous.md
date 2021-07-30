@@ -120,7 +120,7 @@ Tehemten répondit :
 >
 > Un fantassin vaut, sur cette plaine, dans ce jour et dans cette lutte, cinq cents cavaliers comme toi.
 
-Quand Rustem vit combien Aschkebous, sur son cheval magnifique, était dédaigneux, il tira une flèche de sa ceinture et la décocha contre le cheval, qui s’abattit surlecbamp.
+Quand Rustem vit combien Aschkebous, sur son cheval magnifique, était dédaigneux, il tira une flèche de sa ceinture et la décocha contre le cheval, qui s’abattit sur-le-champ.
 
 Alors, il se mit à rire et s’écria :
 
@@ -142,13 +142,21 @@ Lorsqu’il eut amené l’entaille de la flèche jusqu’à l’oreille, la lan
 
 La voûte du ciel applaudit au coup de Rustem ;
 
-Le Sort dit : Prends !
+Le Sort dit :
 
-Et le Destin dit : Donne !
+> Prends !
 
-Le ciel dit : Bien !
+Et le Destin dit :
 
-Et la lune dit : Bravo !
+> Donne !
+
+Le ciel dit :
+
+> Bien !
+
+Et la lune dit :
+
+> Bravo !
 
 Le héros de Kaschan mourut à l’instant ;
 
