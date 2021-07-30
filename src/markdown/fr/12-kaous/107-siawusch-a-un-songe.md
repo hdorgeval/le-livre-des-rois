@@ -50,7 +50,7 @@ Ferenguis lui dit :
 >
 > C’est sur Guersiwez que tombera tout le mal et il sera tué par la main du Khakan de Roum. »
 
-Siawusch rassembla toute son armée et la plaça devant le palais ; lui-même prit ses armes, monta à rheval l’épée en main et envoya des. vedettes du côté de Gang.
+Siawusch rassembla toute son armée et la plaça devant le palais ; lui-même prit ses armes, monta à cheval l’épée en main et envoya des. vedettes du côté de Gang.
 
 Quand les deux tiers de cette longue nuit furent passés, une vedette à cheval revint. du désert et rapporta qu’elle avait vu de loin Afrasiab s’avan-
 çant rapidement avec une grande armée.
