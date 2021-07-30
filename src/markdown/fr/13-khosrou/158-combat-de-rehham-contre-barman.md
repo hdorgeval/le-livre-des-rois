@@ -16,7 +16,7 @@ order: '158'
 
 # Combat de Rehham contre Barman
 
-Le cinquième combat fut celui dans lequel [lehham fils de Gouderz se mesura avec Barman. (les vaillants cavaliers saisirent leur arc et leurs flèches de bois de peuplier et poussèrent des cris de guerre.
+Le cinquième combat fut celui dans lequel [lehham fils de Gouderz se mesura avec Barman. des vaillants cavaliers saisirent leur arc et leurs flèches de bois de peuplier et poussèrent des cris de guerre.
 
 Lorsque leurs arcs furent brisés, ils prirent leur lance et leur épée ; et ces deux braves, ces deux vaillants cavaliers qui étaient pleins de prudence et avaient assisté à maint combat, tournèrent longtemps l’un autour de l’autre.
 
