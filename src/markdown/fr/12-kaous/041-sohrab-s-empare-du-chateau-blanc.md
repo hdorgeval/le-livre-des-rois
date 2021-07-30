@@ -24,7 +24,7 @@ Mais en attaquant le chateau il ne vit personne ; il poussa un cri comme un lion
 
 Les cavaliers et les braves étaient partis dans la nuit avec le châtelain, car il y avait sous le château un chemin que l’ennemi ne connaissait pas.
 
-Lorsque Sohrab futentré avec son armée dans la forteresse et qu’il ne vit pas Guzdehem, il fit rassembler tous ceux qui se trouvèrent dans ce lieu, qu’ils fussent coupables ou innocents et tous parurent devant lui, demandant grâce de la vie.
+Lorsque Sohrab fut entré avec son armée dans la forteresse et qu’il ne vit pas Guzdehem, il fit rassembler tous ceux qui se trouvèrent dans ce lieu, qu’ils fussent coupables ou innocents et tous parurent devant lui, demandant grâce de la vie.
 
 Il chercha en vain Gnrdaferid, qu’il aimait et avec laquelle il aurait voulu contracter une alliance.
 
