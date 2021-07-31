@@ -18,7 +18,7 @@ order: '063'
 
 Que dit mon maître, le Dihkan ambitieux, sur les rotations du monde ?
 
-Un jour nous sommes en haut, un autre en bas ; tantôt nous sommesdans la joie, tantôt dans la terreur et à la fin notre couche sera la terre sombre, pour l’un surla hauteur, pour l’autre dans un fossé et jamais nous ne recevrons un signe de ceux qui sont partis, pour nous dire s’ils sont éveillés et heureux, ou s’ils dorment.
+Un jour nous sommes en haut, un autre en bas ; tantôt nous sommes dans la joie, tantôt dans la terreur et à la fin notre couche sera la terre sombre, pour l’un surla hauteur, pour l’autre dans un fossé et jamais nous ne recevrons un signe de ceux qui sont partis, pour nous dire s’ils sont éveillés et heureux, ou s’ils dorment.
 
 Si peu de bonheur qu’on ait dans ce monde, personne n’a envie de la mort ; qu’on ait cent ans ou vingt-
 b2 ?
@@ -59,11 +59,11 @@ Il était fier, savant, beau de visage et plein d’amour pour le peuple libre d
 
 Kesra chargea ses agents de rechercher en silence le secret de ses actions.
 
-Ils observèrent jour et nuit toutes les paroles qu’il prononçait et tout ce qu’il faisait de bien ou de mal fut rapporté au roi du monde.»
+Ils observèrent jour et nuit toutes les paroles qu’il prononçait et tout ce qu’il faisait de bien ou de mal fut rapporté au roi du monde. »
 
 Alors Nouschirwan dit à Buzurdjmihr.-Je m’oc-
 
-L2t LE LIVRE ces sans. cupe en secret d’une grande alfaire.
+L2t ces sans. cupe en secret d’une grande affaire.
 
 J’ai dépassé soixante et dix ans ; ma tête et ma barbe, jadis noires, sont devenues comme du camphre ; je vais quitter ce séjour de passage et il faut au monde un maître qui soit généreux envers les pauvres, envers les étrangers et envers sa famille, qui soit libéral, qui craigne de trop aimer les trésors et n’attache pas son cœur à cette demeure passagère, ne parle qu’avec sens et justice et montre toujours de l’intelligence et une nature bienveillante.
 
@@ -71,4 +71,4 @@ Je rends grâce au Créateur de ce que j’ai des fils intelligents, instruits e
 
 Hormuzd est celui d’entre eux qui m’est le plus cher, qui brille le plus par le sens et la prudence et je crois que son cœur ne laisse rien à désirer en fait de bonté, de libéralité et de droiture ; il pense toujours à faire du bien et sa place est sur le trône des rois.
 
-Maintenant appelle les Mobeds, les nobles et tous ceux qui s’occupent de science,’mettez à l’épreuve ses connaissances et aidez-le à dévelop- per ses talents. »
+Maintenant appelle les Mobeds, les nobles et tous ceux qui s’occupent de science,’mettez à l’épreuve ses connaissances et aidez-le à développer ses talents. »
