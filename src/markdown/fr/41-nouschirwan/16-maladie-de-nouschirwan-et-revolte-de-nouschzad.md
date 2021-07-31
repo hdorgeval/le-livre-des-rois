@@ -22,15 +22,17 @@ Nouschzad mit en liberté ces fous et toute la ville fut terrifiée de ce qu’i
 
 Tous les chrétiens de la ville, qu’ils l’ussentlaïques ou prêtres, se réunirent à lui en grand nombre, des cavaliers portant haut la tête et prêts à frapper de ’épée.
 
-Sa mère lui donna de l’argent, car le roi avait rempli son trésor, et il rassembla ainsi trente mille hommes, tous armésde lances et propres au combat.
+Sa mère lui donna de l’argent, car le roi avait rempli son trésor et il rassembla ainsi trente mille hommes, tous armés de lances et propres au combat.
 
 Il s’empara de toutes les villes d’alentour et l’on parla partout de lui.
 
-Il leva un tribut et des impôts à Ahwaz et à Schouschter : personne ne pouvait lui résister.
+Il leva un tribut et des impôts à Ahwaz et à Schouschter :
+
+> personne ne pouvait lui résister.
 
 Dans ses intentions ténébreuses, il écrivit une lettre àson parent le Kaïsar :
 
-> Tu es le maître de Djundischapour, tu es mon ami, mon coreligionnaire et mon chef.»
+> Tu es le maître de Djundischapour, tu es mon ami, mon coreligionnaire et mon chef. »
 
 Il remplit la ville de malfaiteurs et la fortune de cet homme égaré se réveillait.
 
@@ -44,7 +46,7 @@ Le maître du monde et son Mobed qui portait haut la tête s’assirent et se pa
 
 Il commença par des hommages rendus à celui qui a créé le ciel, la terre et le temps ; qui a orné le ciel du soleil, de Saturne et de la lune, qui a rendu glorieux le diadème, le trône et la majesté des rois.
 
-Depuis le brin de bois sans valeur jusqu’à l’éléphant au dos puissant, depuis la poussière que soulève le souffle de la fourmi jusqu’aux flots du Nil, toute chose est sous les ordres de Dieu, quand même elle se cacherait au milieu d’une enclume, et nul ne peut voir une limite à son pouvoir ni lui ravir sa puissance.
+Depuis le brin de bois sans valeur jusqu’à l’éléphant au dos puissant, depuis la poussière que soulève le souffle de la fourmi jusqu’aux flots du Nil, toute chose est sous les ordres de Dieu, quand même elle se cacherait au milieu d’une enclume et nul ne peut voir une limite à son pouvoir ni lui ravir sa puissance.
 
 Je connais cette lettre mau-dite qu’a écrite mon fils, qui est un si grand malheur pour moi ; je connais ces criminels qui ont !
 
@@ -65,16 +67,16 @@ Les plumes et la pointe de la flèche de la mort les traverseront.
 Mais on a beau dire que personne ne peut rester ici, peu d’hommes se réjouissent de la mort d’un fils.
 
 Pourvu que Nouschazd échappe lui-même au malheur. on se réjouirait de la destruction de cette foule qui s’est associée à lui et qui ne parle que de la mort de Kesra. -
-qui aime à parler de la mort d’un roi juste et si Nouschzad s’est détourné de moi, c’est qu’un de ces Divs l’y a entraîné, mais il n’y persistera pas ; c : il.s’est enflammé quand il a cru pouvoir atteindre l’objet de ses désirs.
+qui aime à parler de la mort d’un roi juste et si Nouschzad s’est détourné de moi, c’est qu’un de ces Divs l’y a entraîné, mais il n’y persistera pas ; il.s’est enflammé quand il a cru pouvoir atteindre l’objet de ses désirs.
 
 Aussi longtemps que ma tête portera la couronne, aucun autre ne sera roi du monde à côté de moi et il n’aurait pas dû si légè-
 Ensuite, il n’y a qu’un homme de mauvaise race renient, sur un simple bruit, déclarer vacante ma place.
 
-Nouschzad aurait été le maître de la couronne impériale, si j’avais laissé vide le trône ; mais sa conduite.»
+Nouschzad aurait été le maître de la couronne impériale, si j’avais laissé vide le trône ; mais sa conduite. »
 
 été conforme à sa croyance, qui est digne de son âme méchante.
 
-Ce n’est pas tout cela qui m’inquiète et me fait peur, quoique la foi de mon fils soit impure ; les trésors qu’il a gaspillés ne pèsent pas sur mon cœur et tous ceux qui ont agi de concert avec lui et ont écarté de leurs âmes le respect qu’ils me devaient sont des hommes méchants, des malfaitenrs, des hommes de mauvaise race et indignes d’être mes sujets.
+Ce n’est pas tout cela qui m’inquiète et me fait peur, quoique la foi de mon fils soit impure ; les trésors qu’il a gaspillés ne pèsent pas sur mon cœur et tous ceux qui ont agi de concert avec lui et ont écarté de leurs âmes le respect qu’ils me devaient sont des hommes méchants, des malfaiteurs, des hommes de mauvaise race et indignes d’être mes sujets.
 
 Tout cela me touche peu et tu A ne dois pas te chagriner de ce qu’ils ont fait.
 
@@ -85,21 +87,21 @@ Mais je crains le Maître du monde et tremble devant lui, qui dépasse en sagess
 Il m’a donné la victoire et la majesté royale, la prospérité et le diadème de l’empire et si ma reconnaissance avait été égale à sa bonté,’ma prospérité aurait toujours augmenté.
 
 Est-ce qu’il n’est pas
-’ sorti de mes reins une goutte et ce fila n’a-t-il pas trouvé un lieu de repos et de sommeil loin de moi , et n’est-il pas devenu mon ennemi dès qu’il s’est ’réveillé ?
+’ sorti de mes reins une goutte et ce fila n’a-t-il pas trouvé un lieu de repos et de sommeil loin de moi et n’est-il pas devenu mon ennemi dès qu’il s’est ’réveillé ?
 
 Je crains que ce ne soit moi-même qui me sois préparé ce chagrin.
 
 Mais si le Maître du monde n’est pas en colère contre moi, je n’ai pas
 
-De souci de cette alfaire et si la fortune me protége encore, je ne périrai pas.
+De souci de cette affaire et si la fortune me protège encore, je ne périrai pas.
 
-Tous ceux qui se sont réunis à NouSChzad sont méprisables à mes yeux ; c’est de la lettre que le Kaïsar lui a écrite qu’est venue l’eau qui a rendu trouble le ruisseau, , car on a cru qu’il était parent de mon fils parce qu’il est son ami et son coreligionnaire.
+Tous ceux qui se sont réunis à NouSChzad sont méprisables à mes yeux ; c’est de la lettre que le Kaïsar lui a écrite qu’est venue l’eau qui a rendu trouble le ruisseau,, car on a cru qu’il était parent de mon fils parce qu’il est son ami et son coreligionnaire.
 
-Ce n’est qu’un homme de peu de sens, qui ne respecte pas la foi de ses ancêtres et celuilà est le meilleur des fils qui accepte la religion de son père et ne l’attaque pas.
+Ce n’est qu’un homme de peu de sens, qui ne respecte pas la foi de ses ancêtres et celui-là est le meilleur des fils qui accepte la religion de son père et ne l’attaque pas.
 
-Mais quoique cet insensé se soit détourné de la r justice, il ne faut pas l’injurier, car l’injure tomberait sur moi, puisqu’il est de mon sang et de ma chair.
+Mais quoique cet insensé se soit détourné de la justice, il ne faut pas l’injurier, car l’injure tomberait sur moi, puisqu’il est de mon sang et de ma chair.
 
-Réunis une armée et prépare tout pour le combat, mais procède avec douceur et avec lenteur. et si l’on en vient aux extrémités et qu’il veuille livrer bataille, n’agis pas avec’violence ; il vaut mieux s’en emparer que le tuer : il y a toujours ce espoir de le ramener de sa mauvaise conduite.
+Réunis une armée et prépare tout pour le combat, mais procède avec douceur et avec lenteur et si l’on en vient aux extrémités et qu’il veuille livrer bataille, n’agis pas avec’violence ; il vaut mieux s’en emparer que le tuer : il y a toujours ce espoir de le ramener de sa mauvaise conduite.
 
 Voici ta position : \* il faut que tu laves avec l’eau de la raison la poussière qui couvre ce cyprès de belle venue ; mais si le prince méprise tes avis, si le puissant cyprès s’abaisse, si sa tête se relève de son lit de mollesse, n’épargne pas contre lui la massue et l’épée.
 
@@ -107,13 +109,13 @@ Quand un noble homme se prend d’aumour pour les choses viles, on ne peut plus 
 
 Combat le roi du monde ; ne crains pas de le tuer, s’il te provoque lui-même de verser son sang dans la poussière.
 
-Un homme glorieux auparavant qui se jette dans la religion du Kaïsar erse détourne de mon diadème, devient méprisable, vil et faible, et amène lui-même sa destruction par le ciel su-
+Un homme glorieux auparavant qui se jette dans la religion du Kaïsar erse détourne de mon diadème, devient méprisable, vil et faible et amène lui-même sa destruction par le ciel su-
 Mihri Nousch, un homme sage et dévot, vêtu de ’ blime.
 
 I .
 laine, a dit lia-dessus :
 
-> Que celui qui se réjouit de la mort de son père soit privé des joies de la vie.»
+> Que celui qui se réjouit de la mort de son père soit privé des joies de la vie. »
 
 Ne crois pas trouver de la lumière sans ombre, car dam ce monde l’eau et le feu coulent ensemble dans le ruisseau.
 
@@ -133,16 +135,18 @@ Si Nouschzad est fait prisonnier dans le combat, ne lui parle pas de tout cela ;
 
 Il vaut mieux que son palais serve de prison à lui et à ses serviteurs.
 
-Ne ferme jamais la porte du trésor contre lui, quoiqu’il soit déchu de sa dignité ; il ne faut pas qu’il soit restreint cuvâtements, en nourriture, en tentures et en tapis, car sans cela il ne fera aucune attention à tes paroles.
+Ne ferme jamais la porte du trésor contre lui, quoiqu’il soit déchu de sa dignité ; il ne faut pas qu’il soit restreint en vêtements, en nourriture, en tentures et en tapis, car sans cela il ne fera aucune attention à tes paroles.
 
-Quant aux chefs iraniens qui se sont armés pour lui, n’hésite pas, quand tu auras remporté la victoire, à les couper en deux avec l’épée, car il est juste que tu livres à la gueule du dragon tous ceux qui sontles ennemis du roi.
+Quant aux chefs iraniens qui se sont armés pour lui, n’hésite pas, quand tu auras remporté la victoire, à les couper en deux avec l’épée, car il est juste que tu livres à la gueule du dragon tous ceux qui sont les ennemis du roi.
 
-Ensuite ceux qui sont en secret mes ennemis, qui sont de la race d’Ahriman, l’injuste et ne parlent jamais de ce que je l’ais de bien, tu peux les tr reconnaitre par leur conduite dans l’allaire de Nou- l schud.
+Ensuite ceux qui sont en secret mes ennemis, qui sont de la race d’Ahriman, l’injuste et ne parlent jamais de ce que je l’ais de bien, tu peux les reconnaitre par leur conduite dans l’allaire de Nou- !
+
+Schud.
 
 Tous étaient en ma présence pleins de vertu, ils craignaient mes punitions ; mais quand ils ont vu ce qui se passait, ceux qui disaient du mal de moi toumaientleur langue contre Nouschzad, mais c’est moi qu’ils injurient, qu’ils saisissent l’occasion de blâmer.
 
 Ne permets pas que les malveillants parlent ainsi, car, quoiqu’il ait tourné à mal, toujours est-il mon fils et mon cœur l’atteste.
 
-Perce donc r devant l’assemblée la langue à ceux qui parlent mal de Nouschzad et sont injustes envers lui ; maudite ’ soit leur langue, maudite leur bouche !
+Perce donc devant l’assemblée la langue à ceux qui parlent mal de Nouschzad et sont injustes envers lui ; maudite ’ soit leur langue, maudite leur bouche !
 
-Ceux qui ne cherchent que l’occasion d’abaisser le roi, qui emploient des moyens détournés et hostiles et se livrent aux mauvaises pensées et à la foi d’Ahriman, ne doivent pas vivre dans ce royaume, car l’honneur de mon fils est mon diadème.»
+Ceux qui ne cherchent que l’occasion d’abaisser le roi, qui emploient des moyens détournés et hostiles et se livrent aux mauvaises pensées et à la foi d’Ahriman, ne doivent pas vivre dans ce royaume, car l’honneur de mon fils est mon diadème. »
