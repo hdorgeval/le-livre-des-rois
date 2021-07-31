@@ -18,7 +18,7 @@ order: '007'
 
 Il se dirigea du Djihoun yers les Alains, où il trouva un pays désert et sans culture. il dit aux Perses :
 
-> C’est une honte que ce qui appartient à l’Iran soit un désert et il ne l’aut pas permettre que nos ennemis puissent nous reprocher des choses pareilles.»
+> C’est une honte que ce qui appartient à l’Iran soit un désert et il ne l’aut pas permettre que nos ennemis puissent nous reprocher des choses pareilles. »
 
 Il choisit dans son armée un envoyé éloquent, sage et tel qu’il le tallait et lui dit :
 
@@ -28,7 +28,7 @@ Il choisit dans son armée un envoyé éloquent, sage et tel qu’il le tallait 
 >
 > Votre désert est vaste et ses montagnes sont hautes, mais notre armée sait se servir de flèches, de massues et du lacet.
 >
-> Les vallées et les cavernes sont pour vous des lieux d’embûches ; votre pays est tout montagne et lia terre est à vous, pendant que nous sommes des guerriers étrangers, et ni l’armée ni le chef ne sont ici chez eux.»
+> Les vallées et les cavernes sont pour vous des lieux d’embûches ; votre pays est tout montagne et lia terre est à vous, pendant que nous sommes des guerriers étrangers et ni l’armée ni le chef ne sont ici chez eux. »
 
 Le messager partit et leur fit ce discours ; il leur dit quel était le but du roi d’Iran.
 
@@ -44,7 +44,9 @@ Le roi à l’esprit éveillé eut pitié d’eux et leur pardonna tOus leurs m�
 
 Il leur ordonna de construire en toute hâte dans ce pays, qui était devenu un désert, le repaire des léopards et des tigres, une grande ville dans laquelle serait inclus un terrain pour les semences et les moissons, entouré d’un mur élevé, pour qu’on n’ait à souffrir d’aucun ennemi.
 
-Ils répondirent au roi illustre : Nous sommes tes esclaves et portons dans les oreilles ton anneau ; nous élèverons, comme le roi l’a ordonné , un mur et une belle résidence.»
+Ils répondirent au roi illustre :
+
+> Nous sommes tes esclaves et portons dans les oreilles ton anneau ; nous élèverons, comme le roi l’a ordonné, un mur et une belle résidence. »
 
 ’
 Le roi emmena son armée de ce pays et alla dans l’Inde, où il resta quelque temps.
@@ -59,11 +61,11 @@ de deux milles, tout était couvert de pièces d’argent, de présents, de chev
 Tous les grands se présentèrent devant le roi, le’cœur en joie et pleins de bonne volonté.
 
 Kesra leur adressa les questions d’usage, les reçut bien et leur assigna un rang selon leurs degrés. ’
-ll se remit en marche de ce lieu, le cœur heureux ; le monde fut rempli de chevaux, d’éléphants et de troupes ; il continua à marcher et apprit que tout un pays était dépeuplé par les Beloudschi, tant ils avaient tué et pillé, ravagé et tout bouleversé ; que dans le Ghilan la désolation étaitencore plus grande. et que les bénédictions avaient disparu sous les malédictions.
+ll se remit en marche de ce lieu, le cœur heureux ; le monde fut rempli de chevaux, d’éléphants et de troupes ; il continua à marcher et apprit que tout un pays était dépeuplé par les Beloudschi, tant ils avaient tué et pillé, ravagé et tout bouleversé ; que dans le Ghilan la désolation était encore plus grande et que les bénédictions avaient disparu sous les malédictions.
 
 Le cœur du roi en fut affligé et sa joie fut troublée par ces soucis ; il dit aux Iraniens :
 
-> Les Alains et les Indiens sont devenus, par peur de nos épées, souples comme le satin, mais nous ne pouvons encore nous en retourner satisfaits ; il faut tâcher de détourner le lion de la brebis.»
+> Les Alains et les Indiens sont devenus, par peur de nos épées, souples comme le satin, mais nous ne pouvons encore nous en retourner satisfaits ; il faut tâcher de détourner le lion de la brebis. »
 
 Un homme lui dit :
 
@@ -82,7 +84,7 @@ Tout le bas des montagnes, jusqu’à la plaine aride. était occupé par des tr
 
 Des hérauts parcoururentl’armée et leur voix retentissait de la montagne et de la plaine, proclamant :
 
-> Tous les gens du Coutch que vous trouverez, que ce soient des enfants ou des hommes vaillants et portant une épée, qu’ils soient en grand ou en petit nombre, vous n’en laisserez échapper aucun.»
+> Tous les gens du Coutch que vous trouverez, que ce soient des enfants ou des hommes vaillants et portant une épée, qu’ils soient en grand ou en petit nombre, vous n’en laisserez échapper aucun. »
 
 Lorsque l’armée eut connaissance de cette colère du roi, les cavaliers et les piétons ne laissèrent plus passer personne et il n’en survécut ni beaucoup ni peu, il ne survécut ni femmes, ni hommes de guerre, ni enfants : on les passa tous au fil de l’épée et l’on mit fin aux iniquités des gens du Coutch.
 
@@ -94,7 +96,7 @@ Car on lui avait signalé le mal qui se faisait dans le Ghilan et le Deïlem ; l
 
 Il dit :
 
-> Il ne faut pas qu’il reste ici upe trace de lions ni de loups, ni petits ni grands.»
+> Il ne faut pas qu’il reste ici upe trace de lions ni de loups, ni petits ni grands. »
 
 Il répandit son armée par tout le Ghilan et le soleil et la, lune en furent obscurcis et l’on tuait tant d’hommes dans ce pays que toute la province fut inondée de sang.
 
@@ -107,7 +109,7 @@ Ils se raSsemblèrent devant la porte du roi, les mains liées, le corps blessé
 
 > Nous avons abandonné notre mauvaise voie, espérant que le roi détournera de nous son mauvais vouloir.
 >
-> Si le cœur du roi est blessé par les gens du Ghilan, nous couperons nos têtes avec nos propres mains ; peut-être que l’âme du roi sera satisfaite quand il verra un amas de têtes tranchées.»
+> Si le cœur du roi est blessé par les gens du Ghilan, nous couperons nos têtes avec nos propres mains ; peut-être que l’âme du roi sera satisfaite quand il verra un amas de têtes tranchées. »
 
 À ces clameurs qui venaient de la perte, à ces lamentations qu’il entendait, le roi eut pitié d’eux et son cœur oublia le passé.
 
