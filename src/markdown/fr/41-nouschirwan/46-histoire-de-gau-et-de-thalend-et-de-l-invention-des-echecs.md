@@ -22,7 +22,7 @@ La tête et possédait un trésor, une armée et tout l’apv pareil de la guerr
 
 Il était célébré en tout lieu, son nom était Djemhour et son renom était plus grand que celui de Four (Parus).
 
-Il était roi des Indiens, un homme intelligent, sagace et d’un esprit serein ; il possédait le Kaschmir et toutle pays jusqu’aux frontières de la Chine et les grands lui rendaient hommage ; il dominait la terre par sa vaillance ; sa résidence était Sendeli et c’est la qu’il avait sa couronne, son trésor et son armée, c’est là qu’il te’nait son sceau et son diadème.
+Il était roi des Indiens, un homme intelligent, sagace et d’un esprit serein ; il possédait le Kaschmir et toutle pays jusqu’aux frontières de la Chine et les grands lui rendaient hommage ; il dominait la terre par sa vaillance ; sa résidence était Sendeli et c’est la qu’il avait sa couronne, son trésor et son armée, c’est là qu’il tenait son sceau et son diadème.
 
 Djemhour était un homme de mérite qui cherchait à s’instruire ; il était puissant, savant et glorieux ; ses sujets, tant les gens de la ville que les serviteurs de la cour, étaient heureux sous lui.
 
@@ -34,8 +34,7 @@ Peu de temps après, le roi devint subitement malade, fit connaître à la reine
 
 Cet homme juste laissa à Gau tout un monde à gouverner, mais l’enfant était trop jeune pour un trône, pour une couronne et une armure.
 
-Tous les chefs du pays couvrirent leur tête de poussière ; leur cœur étaitplein de douleur de la mort de Djemhour et le monde était rempli du souvenir de sa générosité, 
- !
+Tous les chefs du pays couvrirent leur tête de poussière ; leur cœur était plein de douleur de la mort de Djemhour et le monde était rempli du souvenir de sa générosité, !
 
 De ses fêtes et de sa justice.
 
@@ -43,9 +42,9 @@ Les hommes de guerre et les gens de la ville se rassemblèrent ; les femmes, les
 
 > Ce petit enfant ne peut pas commander une armée, rendre justice, montrer de la colère, monter sur le trône et porter la couronne.
 >
-> Tout royaume souffre quand il n’y a pas un puissant maître.»
+> Tout royaume souffre quand il n’y a pas un puissant maître. »
 
-Ce roi avait un frère, homme intelligent et digne, d’un trône ; le nom de cet homme illustre était Mai, et la résidence de cet idolâtre était à Denber.
+Ce roi avait un frère, homme intelligent et digne, d’un trône ; le nom de cet homme illustre était Mai et la résidence de cet idolâtre était à Denber.
 
 Les hommes expérimentés qui cherchaient tous un roi se rendirent de Sendel à Denber et tous les grands du Kaschmir et des pays jusqu’à la frontière de Chine acclamèrent Mai comme leur roi.
 
@@ -65,27 +64,27 @@ Ils restèrent pendant un mois absorbés dans leur deuil ; mais à la fin du mai
 
 > Cette femme quia été la compagne de Djemhour s’est toujours tenue loin de toute mauvaise action, elle a toujours suivi la voie de la droiture sous ses deux maris et a recherché la justice pendant toute sa vie.
 >
-> Cette femme, qui a toujours été juste et véridique et qui inspire de la confiance, est de grande naissance ; ce qu’il y a de mieux, c’est qu’on la prenne pour reine, car elle est l’héritière de ces rois.»
+> Cette femme, qui a toujours été juste et véridique et qui inspire de la confiance, est de grande naissance ; ce qu’il y a de mieux, c’est qu’on la prenne pour reine, car elle est l’héritière de ces rois. »
 
 L’assemblée adopta cet avis et l’on envoya un messager auprès de cette femme pure, qui lui dit :
 
 > Occupe le trône de tes deux fils, c’est indispensable pour le bien public ; quand les fils seront en état de régner, tu leur remettras le pouvoir, le trône et l’armée et tu resteras leur guide, leur amie, leur conseillère et leur appuim À ces paroles, la femme à laquelle souriait la fortune fit briller la couronne et para le trône ; elle exerça le pouvoir avec modération, avec bonté et avec justice et tout le royaume fut heureux sous elle.
 >
-> Elle choisit deux Mo- beds vertueux, habiles et ayant voyagé dans le monde entier ; elle leur confia ses deux fils, deux princes pleins d’intelligence, mais elle ne s’en séparait jamais et son bonheur consistait à les voir.
+> Elle choisit deux Mobeds vertueux, habiles et ayant voyagé dans le monde entier ; elle leur confia ses deux fils, deux princes pleins d’intelligence, mais elle ne s’en séparait jamais et son bonheur consistait à les voir.
 >
-> Lorsque les princes furent devenus forts, bien instruits et maîtres de toute science, ils vinrent de temps en temps, chacun isolément, chez leur mère, pleine de vertu. disant : Qui de nous se conduit. le mieux, a le cœur le plus haut, fait le mieux son devoir?»
+> Lorsque les princes furent devenus forts, bien instruits et maîtres de toute science, ils vinrent de temps en temps, chacun isolément, chez leur mère, pleine de vertu. disant : Qui de nous se conduit. le mieux, a le cœur le plus haut, fait le mieux son devoir ? »
 
 La mère disait à chacun :
 
-> Pour que je voie qui de vous a du mérite, il faut montrer de l’application, du sens, de l’abstinence, de la foi, parler doucement, rechercher le respect des hommes ; étant tous les deux de race royale, vous avez besoin d’intelligence, de modestie, de modé- ration et de justice.»
+> Pour que je voie qui de vous a du mérite, il faut montrer de l’application, du sens, de l’abstinence, de la foi, parler doucement, rechercher le respect des hommes ; étant tous les deux de race royale, vous avez besoin d’intelligence, de modestie, de modération et de justice. »
 
 Quand un des fils allait seul chez sa mère, il lui adressait quelques paroles, disant :
 
-> À qui de nous, tes deux enfants, appartient le pays comme à son roi et à qui sont ce trône et ce diadème?»
+> À qui de nous, tes deux enfants, appartient le pays comme à son roi et à qui sont ce trône et ce diadème ? »
 
 La mère lui disait :
 
-> Le trône est à toi ; tu es sage, intelligent et fortuné.»
+> Le trône est à toi ; tu es sage, intelligent et fortuné. »
 
 Et elle répétait la même chose à l’autre jusqu’à satiété, de sorte que tous les deux se réjouissaient d’hériter du trône, du trésor, de l’armée, de la gloire et de la fortune.
 
