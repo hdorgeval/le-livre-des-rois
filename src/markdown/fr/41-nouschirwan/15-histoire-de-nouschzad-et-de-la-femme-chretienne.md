@@ -23,13 +23,13 @@ Tel était ce roi, fils des Chosroès ; il avait mis de l’ordre dans le monde 
 
 Mais que l’on ait devant soi un roi, ou un sujet, ou un homme au cœur par, voué au culte de Dieu, sache qu’il a besoin d’une compagne, de vêtements, de nourriture et d’une habitation ; et si sa femme est pure et de bon conseil, elle est comme un trésor multiple, surtout si elle est de haute taille, avec des boucles de cheveux noirs qui tombent jusque sur ses pieds, intelligente, sage, prudente et chaste, parlant bien et d’une voix douce.
 
-Or c’est une telle femme qu’avait le noble roi ; elle avait une taille de cyprès et unvisage de lune ; elle suivait la religion du Messie et la villevétait remplie de la renommée de sa beauté.
+Or c’est une telle femme qu’avait le noble roi ; elle avait une taille de cyprès et unvisage de lune ; elle suivait la religion du Messie et la ville était remplie de la renommée de sa beauté.
 
 Elle mit au monde un fils au visage de soleil, plus brillant que Vénus dans le ciel.
 
 La mère illustre lui donna le nom de Nouschzad et sa tendresse ne laissait pénétrer auprès de lui aucun vent d’orage.
 
-Il grandit comme un cyprès élancé ; il avait tous les u. l7fl LE LIVRE DES ROIS, talents et était un ornement pour la royauté ; il connaissait l’enfer et la voie du paradis, la doctrine d’Esra, du Messie et la foi de Zerdouscht, mais il n’approuvait pas le Zend-Avesta et lavait ses deux joues dans l’eau du Messie ; au lieu de la foi de son père il adopta celle de sa mère et le monde en resta dans l’étonnement.
+Il grandit comme un cyprès élancé ; il avait tous les u. l7fl DES ROIS, talents et était un ornement pour la royauté ; il connaissait l’enfer et la voie du paradis, la doctrine d’Esra, du Messie et la foi de Zerdouscht, mais il n’approuvait pas le Zend-Avesta et lavait ses deux joues dans l’eau du Messie ; au lieu de la foi de son père il adopta celle de sa mère et le monde en resta dans l’étonnement.
 
 Le roi en fut tellement irrité que ce rosier ne portait plus pour lui que des épines ; on ferma la porte de son palais et la brillante salle d’audience de Nouschzad et l’on en fit une prison pour lui.
 
@@ -39,7 +39,7 @@ Il y avait dans cette ville en même temps que lui beaucoup d’hommes en prison
 
 Le roi, pendant qu’il revenait de Roum. se plaignait de ce mouvement continuel et des fatigues de la route et à la fin, il devint si faible que son corps fléchit et son état l’empêche de donner des audiences.
 
-Quelqu’un apporta à Nouschzad la nouvelle que cette gloire de l’empire était ternie, que Kesra, le vigilant maître du monde, était mort, et que le sort remettait la terre à un autre et Nouschzad se’réjouit de la mort de son père.
+Quelqu’un apporta à Nouschzad la nouvelle que cette gloire de l’empire était ternie, que Kesra, le vigilant maître du monde, était mort et que le sort remettait la terre à un autre et Nouschzad se’réjouit de la mort de son père.
 
 Qu’on ne lui donne jamais le nom de Nousch de doux) !
 
@@ -47,9 +47,9 @@ Car un homme qui se réjouit de la mort d’un roi juste doit être de mauvaise 
 
 Un vieillard a dit làdessns :
 
-> Si tu te réjouis de ma’ mort, alors tâche de ne pas mourir.»
+> Si tu te réjouis de ma’ mort, alors tâche de ne pas mourir. »
 
-Si tu sais qu’on ne peut échappera la mort, tout devient indifférent, le passé et l’avenir ; celuilà seul n’en aura pas l’esprit troublé dont la vie est belle devant Dieu.
+Si tu sais qu’on ne peut échappera la mort, tout devient indifférent, le passé et l’avenir ; celui-là seul n’en aura pas l’esprit troublé dont la vie est belle devant Dieu.
 
 Mais un fils qui s’écarte de la voie de son père est ou un scélérat ou un insensé.
 
@@ -75,4 +75,4 @@ Moi, le’poëte, je recherche ce renom éternel après ma mort.
 
 Un poète persan, sur lequel, cent vingt ans ont passé, a dit :
 
-> Celui qui est l’ennemi du Distributeur de la justice ce n’est pas de la race des hommes, mais un Ahriman.»
+> Celui qui est l’ennemi du Distributeur de la justice ce n’est pas de la race des hommes, mais un Ahriman. »
