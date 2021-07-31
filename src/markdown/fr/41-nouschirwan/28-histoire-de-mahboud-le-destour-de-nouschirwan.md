@@ -28,7 +28,7 @@ Le sort te jouera un beau, tour et te forcera de te rasseoir devant ton maître.
 
 Un Mobed a dit :
 
-> Aucun roi comparable à Kesra sur son trône d’ivoire n’a placé depuis lui la couronne sur la tête et personne n’a souvenir d’un roi aussi grand dans la KESRA NOUSCHIRWÀN. guerre et dans les fêtes, aussi maître de ses passions et aussi juste.
+> Aucun roi comparable à Kesra sur son trône d’ivoire n’a placé depuis lui la couronne sur la tête et personne n’a souvenir d’un roi aussi grand dans la guerre et dans les fêtes, aussi maître de ses passions et aussi juste.
 >
 > Il apprenait. des sages la sagesse, il éclairait son esprit par le savoir.
 >
@@ -36,7 +36,7 @@ Un Mobed a dit :
 >
 > De même que Nouschirwan encourageait les discours des savants, ne te relâche pas dans l’étude.
 >
-> Tu ne le connais pas, si tu dis que tu es savant, que tu as acquis le pouvoir de faire tout ce que tu désires.»
+> Tu ne le connais pas, si tu dis que tu es savant, que tu as acquis le pouvoir de faire tout ce que tu désires. »
 
 Quand tu auras entendu cette histoire, garde dans ta mémoire les paroles du vieux Dihkan.
 
@@ -48,18 +48,17 @@ Le nom de cet honnête homme était Mahboud, son esprit et son cœur étaient re
 
 Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou ou quand il demandait à un Mobed le barsom.
 
-Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud, et il se regardait comme l’hôte de celui-ci et les a !
-
+Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a ! 
 H
 deux jeunes gens illustres et purs portaient les mets chez le roi.
 
 Les grands de la cour versaient des larmes par jalousie contre Mahboud.
 
-Il y avait surtout un grand du nom de Zerwan, qui voulait régner â la cour du roi ; il était vieux, chambellan duroi et intendant des l’êtes et du palais.
+Il y avait surtout un grand du nom de Zerwan, qui voulait régner â la cour du roi ; il était vieux, chambellan duroi et intendant des fêtes et du palais.
 
 Toute l’année son visage était inondé de larmes à cause de Mahboud et de ses fils et il cherchait un prétexte pour irriter le roi contre ces hommes sans reproche ; mais il ne trouvait pas moyen de parler mal d’eux et de leur aliéner l’esprit de Nouschirwan.
 
-Quoique le sage Mahboud sût bien qu’il avait un ennemi à la cour, il ne s’inquiétait en aucune façon desdiscours et des actes de ce misérable.
+Quoique le sage Mahboud sût bien qu’il avait un ennemi à la cour, il ne s’inquiétait en aucune façon des discours et des actes de ce misérable.
 
 Or, un jour, un Juif emprunta à Zerwan de l’argent pour le faire valoir ; il allait, il venait, son influence s’accrut et il devint l’ami de cet homme à l’âme ténébreuse.
 
@@ -75,7 +74,7 @@ Zerwan devint attentif aux discours du Juif ; il écouta ce qu’il disait des m
 >
 > Il faut que tu fasses une œuvre de magie pour délivrer le monde de Mahboud ; son pouvoir a atteint un tel point qu’il veut s’emparer du monde, il ne respecte personne, on dirait qu’il est Nouschirwan lui-même.
 >
-> Le roi ne prend jamais de nourriture que des mains des fils de Mahboud et l’indulgence du maître l’a rendu si puissant que le ciel baise le pan de sa robe.»
+> Le roi ne prend jamais de nourriture que des mains des fils de Mahboud et l’indulgence du maître l’a rendu si puissant que le ciel baise le pan de sa robe. »
 
 Le Juif répondit à Zerwan :
 
@@ -85,7 +84,7 @@ Le Juif répondit à Zerwan :
 >
 > Il suffit que j’aperçoive du lait, de si loin que ce soit, pour que tu ne revoies plus en vie ni Mahboud ni ses fils.
 >
-> Si celui qui en mangerait était en bronze ou en pierre, il fondrait à l’instant et sans délai.»
+> Si celui qui en mangerait était en bronze ou en pierre, il fondrait à l’instant et sans délai. »
 
 Zerwan fit grande attention aux paroles du Juif, son cœur se réjouissait à sa vue, il n’allait plus à la cour sans l’avoir pour compagnon et il partageait avec lui ses dîners, ses plaisirs et ses secrets.
 
@@ -105,13 +104,13 @@ Au moment ou ils entraient sous le vestibule du roi, Zerwan, le chambellan, les 
 >
 > Laisse-moi jeter un seul regard, pour que je voie quelle est la couleur de ces mets qui forment la nourriture du roi, car ils répandent une bonne odeur.
 >
-> Ôte un instant cette étoffe de satin qui les recouvre.»
+> Ôte un instant cette étoffe de satin qui les recouvre. »
 
 Le jeune homme découvrit à l’instant les mets et Zerwan les regarda de loin ; dans ce moment le Juif y jeta les yeux, puis il s’en alla, ayant vu la couleur des mets.
 
 Ensuite, il dit au chambellan :
 
-> L’arbre que tu as planté porte fruit.»
+> L’arbre que tu as planté porte fruit. »
 
 Les deux jeunes gens intelligents et à l’esprit ouvert placèrent la table devant Nouschirwan, mais derrière eux arriva Zerwan, rapidement comme la poussière et dit au roi des hommes libres :
 
@@ -121,7 +120,7 @@ Les deux jeunes gens intelligents et à l’esprit ouvert placèrent la table de
 >
 > Le ciel est la fortune qui te sourit, le monde brille par ton trône et ton Meïdan.
 >
-> Le cuisinier a mêlé du poison avec ton lait ; puissent tes ennemis avoir leur part de ce venin !»
+> Le cuisinier a mêlé du poison avec ton lait ; puissent tes ennemis avoir leur part de ce venin ! »
 
 Nouschirwan en entendant ces paroles eta un regard plein de sérénité sur les jeunes gens, car c’était leur mère qui lui préparait son dî-
 ner, une femme intelligente et pleine d’amour pour eux.
@@ -130,7 +129,7 @@ Les jeunes gens, dans leur innocence et leur droiture, replièrent les manches s
 
 > tous les deux se couchèrent par terre et exhalèrent l’âme devant Nouschirwan.
 >
-> Lorsque le roi du monde vit cela, il futépouvanté et devint pâle comme la lieur du fenugrec.
+> Lorsque le roi du monde vit cela, il fut épouvanté et devint pâle comme la lieur du fenugrec.
 >
 > Il ordonna de détruire le palais de Mahboud, de n’épargner personne et de couper la tête à Mahboud sur ces ruines.
 >
@@ -138,6 +137,6 @@ Les jeunes gens, dans leur innocence et leur droiture, replièrent les manches s
 >
 > Le roi livra au pillage toutes ses richesses, ses’femmes, ses enfants et ses trésors accumulés.
 >
-> C’est ainsique Zerwan atteignit l’objet de tous ses désirs et pendant un temps il jouit à cette cour d’une haute renommée.
+> C’est ainsi que Zerwan atteignit l’objet de tous ses désirs et pendant un temps il jouit à cette cour d’une haute renommée.
 >
 > Il tenait en grand honneur le Juif et élevait sa tête jusqu’aux nues sublimes et c’est ainsi que le ciel continua à tourner pendant quevla droiture avait voilé sa face devant le roi.
