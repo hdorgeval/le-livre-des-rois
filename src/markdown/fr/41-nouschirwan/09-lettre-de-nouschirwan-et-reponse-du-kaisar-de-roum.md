@@ -16,7 +16,7 @@ order: '009'
 
 # Lettre de Nouschirwan et réponse du Kaïsar de Roum
 
-Il fit appeler un scribe qui se trouvait dans le palais et lui ordonna d’écrire une lettre de la part du roi Nouschirwan, de naissance illustre, maître du monde, successeur du roi Kobad, au Kaïsar de Roum, qui porte haut la tête, à qui est confiée cette frontière des pays cultivés.»
+Il fit appeler un scribe qui se trouvait dans le palais et lui ordonna d’écrire une lettre de la part du roi Nouschirwan, de naissance illustre, maître du monde, successeur du roi Kobad, au Kaïsar de Roum, qui porte haut la tête, à qui est confiée cette frontière des pays cultivés. »
 
 Il commença par implorer les bénédictions de Dieu, seule source de toute grandeur, maître de la rotation du soleil et de la lune, maître de la victoire et de la puissance, qui est au-dessus des intentions du ciel qui tourne, qu’elles soient pour la guerre ou pour la justice et la clémence.
 
@@ -28,7 +28,7 @@ Si un sujet devient trop volontaire, je le punis avec ’épée.
 
 Ne t’avance pas d’une coudée au delà de la frontière, si tu veux maintenir le traité qui te lie à moi ; et si tu passes outre, je ferai de même et foulerai aux pieds ta tête et ton trône.
 
-Salut du maître de la couronne et du ’ pouvoir à ceux qui ne troublent pas le monde par leur injustice !»
+Salut du maître de la couronne et du ’ pouvoir à ceux qui ne troublent pas le monde par leur injustice ! »
 
 On posa le sceau du roi sur la lettre et l’on choisit un cavalier parmi les gens de la cour, un homme comme il le fallait, doux de langage, expérimenté, vaillant et d’un esprit serein.
 
@@ -53,7 +53,7 @@ Comment pourrais-je acceptera tous ces vains propos par peur des pieds de tes é
 C’est moi maintenant qui vous demanderai des tributs et rede-
 ’vances ; et qui pourra résister aux Roumis dans la bataille ?
 
-Tu connais les hauts faits d’Iskender dans l’Iran ; or ce roi des Perses était un des nôtres, et son épée n’est pas perdue.
+Tu connais les hauts faits d’Iskender dans l’Iran ; or ce roi des Perses était un des nôtres et son épée n’est pas perdue.
 
 Pourquoi donc nous imposer la suprématie ?
 
