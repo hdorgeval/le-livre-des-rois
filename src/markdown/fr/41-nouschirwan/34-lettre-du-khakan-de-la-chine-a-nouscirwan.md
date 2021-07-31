@@ -33,7 +33,7 @@ La lettre commençait par implorer les bénédictions du Distributeur de la just
 
 C’est pour me venger’que j’ai quitté le pays de Djadj et ravi à Ghatfer ses trésors et son trône et que, en sortant de Gulzarrioun, j’ai coloré en rubis avec du sang l’eau du Djihoun.
 
-J’ai béni ceux qui ont répandu dans le Madjin et la Chine les nouvelles des victoires du roi, de sa bravoure, de son intelligence, de sa modestie et de son savoir, et j’ai désiré dans mon âme de devenir l’ami du roi du monde.»
+J’ai béni ceux qui ont répandu dans le Madjin et la Chine les nouvelles des victoires du roi, de sa bravoure, de son intelligence, de sa modestie et de son savoir et j’ai désiré dans mon âme de devenir l’ami du roi du monde. »
 
 Lorsque Kesra eut entendu cette lettre et ces paroles et compris la puissance, la bravoure et les intentions du Khakan, on assigna une demeure aux envoyés, on les complimenta et les traita bien et chaque fois que l’échanson eut préparé des tables et du vin, le roi les invita.
 
@@ -50,10 +50,9 @@ La terre était pleine de bruit ; l’air rempli d’agitation et les oreilles l
 On prépara un champ de bataille dans la plaine, les vaillants cavaliers s’y élancèrent, l’air fut rempli d’agitation et de la poussière soulevée par les cavaliers ; la terre était couverte d’armures ; les hommes pleins de fierté firent un tournoi pendant quelque temps avec la massue et l’épée, avec l’arc et les
 [lèches ; toute la plaine était couverte d’hommes armés de javetots et de lances, d’un côté les fantassins, de l’autre les cavaliers.
 
-Les envoyés de tous les pays, de tous les princes et de tous les rois furent confondus de cette armée et de cet appareil de guerre, et de l’aspect, de la gloire et de la voix du roi.
+Les envoyés de tous les pays, de tous les princes et de tous les rois furent confondus de cette armée et de cet appareil de guerre et de l’aspect, de la gloire et de la voix du roi.
 
-On rapporta en secret au roi du monde ce.que 
- 2ôl’ les envoyés disaient et il ordonna à son trésorier d’apporter sur la plaine ses armes de bataille ; il apporta la cuirasse, le casque et la cotte de mailles et le roi fit défaire les boutons (qui joignaient le casque à la cuirasse).
+On rapporta en secret au roi du monde ce.que 2ôl’ les envoyés disaient et il ordonna à son trésorier d’apporter sur la plaine ses armes de bataille ; il apporta la cuirasse, le casque et la cotte de mailles et le roi fit défaire les boutons (qui joignaient le casque à la cuirasse).
 
 Un homme fort et aux larges épaules n’aurait pas pu soulever la cuirasse en essayant de toutes ses forces ; il n’y avait que la poitrine et les membres du roi qui pussent supporter le poids du casque, de la cotte de mailles et de la massue.
 
@@ -71,4 +70,4 @@ Les envoyés se dirent entre eux tout bas :
 
 > Ce roi, qui porte si haut la tête, est très-habile ; il sait gouverner les rênes et montrer aux braves la pointe de sa lance.
 >
-> Il faut nous souvenir des talents qu’il a déployés devant nous et nous et nos compagnons, quand nous serons de retour auprès de nos princes, devons déclarer que ni vieux ni jeunes n’ont vu un roi comme Nouschirwan.»
+> Il faut nous souvenir des talents qu’il a déployés devant nous et nous et nos compagnons, quand nous serons de retour auprès de nos princes, devons déclarer que ni vieux ni jeunes n’ont vu un roi comme Nouschirwan. »
