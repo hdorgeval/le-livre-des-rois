@@ -50,17 +50,17 @@ Le Mobed dirigea son cheval vers ce lieu, entra et fit au maître des questions 
 
 Le maître d’écriture dit :
 
-> Ceci n’est pas mon affaire ; je m’en tiens, en fait de savoir, au Zend ; je l’enseigne à ces enfants, mais je n’ose pas aller au delà.»
+> Ceci n’est pas mon affaire ; je m’en tiens, en fait de savoir, au Zend ; je l’enseigne à ces enfants, mais je n’ose pas aller au delà. »
 
 Buzurdjmihr entendit les paroles du Mobed, en fut frappé et levant les yeux, dit au maître :
 
-> Ceci est du gibier pour moi ; c’est mon affaire d’interpréter les songes.»
+> Ceci est du gibier pour moi ; c’est mon affaire d’interpréter les songes. »
 
 L’homme de l’Avesta poussa un cri contre lui, disant :
 
 > As-tu fini avec ton livre ?
 >
-> Si tu te mets mainvrtenant à interpréter des songes, comment satisferas- tu ton ventre atfamé?»
+> Si tu te mets maintenant à interpréter des songes, comment satisferas-tu ton ventre atfamé ? »
 
 L’envoyé lui dit ; Ô homme intelligent !
 
@@ -68,17 +68,17 @@ Il possède peut-être cette science, ne le traite pas avec tant de mépris.
 
 Que sais-tu de la rotation du sort ?
 
-Le vêtement n’importe pas chez un homme ; la fortunede cet enfant commence peut-être à briller ; ce n’est pas toi, mais le sort qui l’aura instruit.»
+Le vêtement n’importe pas chez un homme ; la fortunede cet enfant commence peut-être à briller ; ce n’est pas toi, mais le sort qui l’aura instruit. »
 
 Le maître, tout en colère contre Buzurdjmihr, s’écria :
 
-> Dis donc ce que tu sais.»
+> Dis donc ce que tu sais. »
 
 Mais le jeune homme répondit :
 
-> Je ne parlerai que devant le roi et quand il m’aura fait asseoir devant son trône.»
+> Je ne parlerai que devant le roi et quand il m’aura fait asseoir devant son trône. »
 
-L’envoyé lui donna un cheval et de l’argent, et tout ce qu’il fallait pour l’équiper et ils partirent ensemble de Merv. courant comme les francolins sous les buissons de roses.
+L’envoyé lui donna un cheval et de l’argent et tout ce qu’il fallait pour l’équiper et ils partirent ensemble de Merv. courant comme les francolins sous les buissons de roses.
 
 C’est ainsi que marchant et parlant du roi, de son pouvoir, de sa majesté, de sa couronne et de son trône, ils arrivèrent à un endroit où ils trouvèrent de l’eau ; et coulme c’était l’heure de manger et de se reposer, ils mirent pied àterre sous un arbre.
 
@@ -88,7 +88,7 @@ Le personnage qui était son compagnon de route était encore éveillé, ses ré
 
 Il regardait la forêt et vit un serpent qui retira au dormeur la pièce d’étoile qui lui couvrait le visage
 
-L9â LE LIVRE DES BOIS : et le flaira avidement de la tête aux pieds ; puis il le quitta pour se cacher dans les feuilles de l’arbre.
+L9â DES BOIS : et le flaira avidement de la tête aux pieds ; puis il le quitta pour se cacher dans les feuilles de l’arbre.
 
 Lorsque le serpent noir eut atteint le haut du tronc, le jeune homme se réveilla et quand le serpent noir vit son trouble, il disparut dans les branches sombres de l’arbre.
 
