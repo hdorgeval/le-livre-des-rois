@@ -31,7 +31,7 @@ Il y avait tant de bourses de musc, de satin de Chine, de belles choses qui vena
 Les hommes tournaient leurs yeux vers l’Iran, délivrés de leurs peines et de leurs querelles ; on aurait dit que les larmes des nuages étaient de l’eau de rose et qu’il n’y avait plus ni souffrance ni besoin de médecin ; l’eau tombait sur les fleurs au moment propice et le cultivateur ne souffrait jamais du manque de pluie ; les vallées et les plaines étaient convertes de fleurs, de maisons et de palais ; le monde était rempli de verdure et de bétail ; les ruisseaux ressemblaient aux fleuves et les fleurs des potagers Dans l’Iran, on apprenait les langues étrangères, aux Pléiades. .
 on éclairait son esprit par le savoir.
 
-Les marchands de tous les pays, de l’Inde et de la Chine, du Turkestan et du Roum célébraient la gloire du maître, et les animaux se multipliaient à cause de l’abondance de l’herbe.
+Les marchands de tous les pays, de l’Inde et de la Chine, du Turkestan et du Roum célébraient la gloire du maître et les animaux se multipliaient à cause de l’abondance de l’herbe.
 
 Quiconque était savant dans une science et habile à parler allait à la cour du roi ; les nobles, les Mobeds, les sages étaient honorés, les méchants tremblaient de peur des peines qui les menaçaient.
 
@@ -45,4 +45,4 @@ Chaquajour, quand le soleil se levait sur le monde, une voix se faisait entendre
 >
 > Si un homme jette les yeux sur la femme d’un autre et si celui-ci l’accuse devant le roi, il n’échappera pas au cachot on au gibet et aux coups de flèches sur le gibet on aux chaînes dans le cachot.
 >
-> Si l’on trouve quelque part un cheval en liberté, et si le maître du terrain s’en plaint à ma cour, on tuera le cheval sur le champ cultivé où on l’aura trouvé ; l’homme lésé emportera la chair et le cavalier restera à pied et sans cheval et ira faire pénitence au temple d’Aderguschasp ; l’inspecteur déformée rayera son nom du rôle et sa maison sera rasée et pour chaque faute, qu’elle soit plus ou moins grande que celle-ci, le coupable sera dé gradé, car jamais le roi n’approuvera les méfaits ; il n’admet à sa cour que des hommes de droiture, et ceux qui n’approuvent pas notre voie, à Dieu ne plaise que nous les voyions à notre cour. »
+> Si l’on trouve quelque part un cheval en liberté et si le maître du terrain s’en plaint à ma cour, on tuera le cheval sur le champ cultivé où on l’aura trouvé ; l’homme lésé emportera la chair et le cavalier restera à pied et sans cheval et ira faire pénitence au temple d’Aderguschasp ; l’inspecteur déformée rayera son nom du rôle et sa maison sera rasée et pour chaque faute, qu’elle soit plus ou moins grande que celle-ci, le coupable sera dé gradé, car jamais le roi n’approuvera les méfaits ; il n’admet à sa cour que des hommes de droiture et ceux qui n’approuvent pas notre voie, à Dieu ne plaise que nous les voyions à notre cour. »
