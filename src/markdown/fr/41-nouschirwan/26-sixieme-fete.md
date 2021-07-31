@@ -24,38 +24,37 @@ Le roi dit alors à Buzurdjmihr :
 
 > Pourquoi tenir cachés les joyaux de la sagesse, les paroles salutaires à l’âme, qui donnent de la grandeur à l’homme qui n’avait pas de valeur ?
 >
-> Le trésor de celui qui parle ne diminue pas pendant qu’il délecte l’esprit de celui qui écoute.»
+> Le trésor de celui qui parle ne diminue pas pendant qu’il délecte l’esprit de celui qui écoute. »
 
 Le Mobed dit à Buzurdjmihr :
 
 > Ô toi qui es plus illustre que le ciel qui tourne !
 >
-> Connais-tu quelque chose qui te diminue par son accroissement et dont la diminution ne tarde pas à t’accroître?»
+> Connais-tu quelque chose qui te diminue par son accroissement et dont la diminution ne tarde pas à t’accroître ? »
 
 Il répondit :
 
-> Moins tu manges, mieux ton corps se portera et plus ton esprit. gagnera et à mesure que tu feras de bonnes actions, tu devanceras tes égaux.»
+> Moins tu manges, mieux ton corps se portera et plus ton esprit. gagnera et à mesure que tu feras de bonnes actions, tu devanceras tes égaux. »
 
 Yezdeguerd, le scribe, lui dit :
 
 > Ô homme éloquent et observateur !
 >
-> Quels sont les trois défauts que l’homme tient cachés dans son cœur et qui ne lui servent à rien?»
+> Quels sont les trois défauts que l’homme tient cachés dans son cœur et qui ne lui servent à rien ? »
 
 Il répondit :
 
 > Il faut d’abord garder ton cœur contre l’envie de blâmer.
 >
-> Personne dans le monde n’est sans défaut, s’il veut en secret . 22h
-tâter son corps et son âme.
+> Personne dans le monde n’est sans défaut, s’il veut en secret . h tâter son corps et son âme.
 >
-> Si tu es le supérieur. on te portera envie ; si tu es l’inférienr, ton supérieur te fera verser des larmes.
+> Si tu es le supérieur. on te portera envie ; si tu es l’inférieur, ton supérieur te fera verser des larmes.
 >
 > Puis le délateur et l’homme à double face travaillent à faire sortir de la poussière même de l’eau (à inventer du mal là où il n’y en a pas).
 >
 > Un homme enfin qui parle hors de propos perd sa dignité et sa réputation ; celui qui n’écoute pas jusqu’au bout n’apprend rien par ce qu’on lui dit ni ne s’y conforme.
 >
-> Le sage n’attache pas les yeux sur les richesses, et, si elles ne lui arrivent pas, il ne se tord pas de colère.»
+> Le sage n’attache pas les yeux sur les richesses, et, si elles ne lui arrivent pas, il ne se tord pas de colère. »
 
 Le Grand Mobed lui demanda :
 
@@ -63,9 +62,11 @@ Le Grand Mobed lui demanda :
 >
 > Chacun, dans ce inonde, a ses désirs, qu’il les montre ou qu’il les cache,»
 
-Et il poursuit leur accomplissement par des voies qui montrent aux hommes ce qu’il vaut ; quelle est la voie qui te paraît la plus avantageuse, et laquelle est douloureuse, pénible et perni-cieuse?n Il répondit :
+Et il poursuit leur accomplissement par des voies qui montrent aux hommes ce qu’il vaut ; quelle est la voie qui te paraît la plus avantageuse et laquelle est douloureuse, pénible et perni-cieuse ? »
 
-> Il y a une voie double, pense laquelle tu as envie de suivre : l’une est la voie de ceux qui ne respectent rien, elle est pleine re de mauvaises actions ; l’autre est celle de la vertu et de la raison ,-mais il n’y en a qu’une pour rentrer dans la poussière, une voie longue et pleine de terreur et d’ellroi.
+Il répondit :
+
+> Il y a une voie double, pense laquelle tu as envie de suivre : l’une est la voie de ceux qui ne respectent rien, elle est pleine re de mauvaises actions ; l’autre est celle de la vertu et de la raison ,-mais il n’y en a qu’une pour rentrer dans la poussière, une voie longue et pleine de terreur et d’effroi.
 >
 > L’intelligence sera ton guide en cela, c’est à elle que tu dois adresser tes questions sur le pourquoi et le comment.
 >
@@ -97,10 +98,11 @@ Et il poursuit leur accomplissement par des voies qui montrent aux hommes ce qu�
 >
 > Si tu as à . combattre, sois prudent, gare-toi des coups de l’en.-nemi ; quand tes ennemis forment leur rangs, garde
 >
-> 
-ta prudence et ton sangfroid ; quand tu vois un combattant en face de toi, ne pâlis pas ; tu vaincras en attaquant ; mais si tu montres de la mollesse, ta tête sera abaissée ; quand tu lances ton cheval, l’ais attention, prends garde aux armes de ton adversaire et s’il devient impétueux, ne te détourne pas de lui.
+> ta prudence et ton sangfroid ; quand tu vois un combattant en face de toi, ne pâlis pas ; tu vaincras en attaquant ; mais si tu montres de la mollesse, ta tête sera abaissée ; quand tu lances ton cheval, l’ais attention, prends garde aux armes de ton adversaire et s’il devient impétueux, ne te détourne pas de lui.
 >
-> Choisis dans le combat des camarades prudents et si tu n’es pas assez fort pour lutter contre un ennemi, ne l’essaye pas, car ce que veut la prudence, c’est qu’on revienne en vie d’un combat. v Observe-toi en mangeant, il ne faut pas que ta nourriture te fasse mal ; ne mange rien de trop, cela te nuirait, au lieu que tes forces augmentent si tu es sobre ; ne fais pas de toi un carrefour en mangeant (ne mange pas à toute occasion) ; mange de façon à conserver de l’appétit.
+> Choisis dans le combat des camarades prudents et si tu n’es pas assez fort pour lutter contre un ennemi, ne l’essaye pas, car ce que veut la prudence, c’est qu’on revienne en vie d’un combat. »
+
+Observe-toi en mangeant, il ne faut pas que ta nourriture te fasse mal ; ne mange rien de trop, cela te nuirait, au lieu que tes forces augmentent si tu es sobre ; ne fais pas de toi un carrefour en mangeant (ne mange pas à toute occasion) ; mange de façon à conserver de l’appétit.
 >
 > Bois de manière à t’égayer, mais un ivrogne n’entendra jamais un mot d’approbation.
 >
@@ -110,9 +112,9 @@ ta prudence et ton sangfroid ; quand tu vois un combattant en face de toi, ne p�
 >
 > Observe profondément le moment pour agir, réserve-toi jour et nuit du temps pour le repos, Choisis le juste milieu en tout ce que tu fais, dans les dévotions, dans les combats et les luttes.
 >
-> Tu es un souffle de vent, tu es de l’ar- gile pétrie d’eau ; n’oublie pas la voie de Dieu.
+> Tu es un souffle de vent, tu es de l’argile pétrie d’eau ; n’oublie pas la voie de Dieu.
 >
-> N’a- brége pas tes prières pour te livrer à un travail in- cessant ; la loi est ancienne, mais toi maintiens-toi jeune.
+> N’abrége pas tes prières pour te livrer à un travail incessant ; la loi est ancienne, mais toi maintiens-toi jeune.
 >
 > Cherche le bonheur et regarde-le comme un butin, regarde-le comme une grâce du Créateur.
 >
@@ -120,7 +122,7 @@ ta prudence et ton sangfroid ; quand tu vois un combattant en face de toi, ne p�
 >
 > Celui qui fait le bien en public et en secret sera célébré partout.
 >
-> Ne laisse pas tes passions l’emporter sur la prudence et la raison, car dès ce moment la raison se détourne- rait de toi.
+> Ne laisse pas tes passions l’emporter sur la prudence et la raison, car dès ce moment la raison se détournerait de toi.
 >
 > Enseigne à tes enfants l’art d’écrire aussitôt que ton existence et celle de ta famille est assurée.
 >
@@ -134,10 +136,10 @@ ta prudence et ton sangfroid ; quand tu vois un combattant en face de toi, ne p�
 >
 > S’il combine l’éloquence avec l’art.d’écrire et si son esprit s’élargit par la réflexion, il saura choisir avec grâ’ce l’expression la plus brève et la reproduire dans l’écriture la plus élégante.
 >
-> Il faut que le scribe soit homme de sens et infatigable et se rappelle les mots . qu’on lui dit, qu’il soit prudent, s’accommode il l’humeur du roi, s’abstienne de dire du mal, soit chaste, patient, sage, véridique, de bonne foi, intègre et de bonne mine ; s’il se présente auprès du roi avec ces qualités, il obtiendra certainement un siège devant le trône.»
+> Il faut que le scribe soit homme de sens et infatigable et se rappelle les mots . qu’on lui dit, qu’il soit prudent, s’accommode il l’humeur du roi, s’abstienne de dire du mal, soit chaste, patient, sage, véridique, de bonne foi, intègre et de bonne mine ; s’il se présente auprès du roi avec ces qualités, il obtiendra certainement un siège devant le trône. »
 
 . »
 
 Le roi, en écoutant ces paroles, sentit son cœur s’épanouir comme une rose au printemps ; il dit au Grand Mobed :
 
-> Va et confère-lui un nouveau degré ; fais apporter de l’argent et une robe d’honneur digne de lui, car ses discours réjouissent l’âme.»
+> Va et confère-lui un nouveau degré ; fais apporter de l’argent et une robe d’honneur digne de lui, car ses discours réjouissent l’âme. »
