@@ -16,14 +16,14 @@ order: '064'
 
 # Questions que les Mobeds adressent à Hormuzd et ses réponses
 
-Les Mobeds, les hommes qui recherchent en tout la vérité et les conseillers du roi s’assembl’erent ; ils firent appeler Hormuzd, le prince ambitieux et le firent asseoir devant cette réunion illustre.
+Les Mobeds, les hommes qui recherchent en tout la vérité et les conseillers du roi s’assemblèrent ; ils firent appeler Hormuzd, le prince ambitieux et le firent asseoir devant cette réunion illustre.
 
-Buzurdj- A mihr lui adressa le premier la parole, disant :
+Buzurdj-A mihr lui adressa le premier la parole, disant :
 
 > 0
 prince à l’étoile fortunée, au beau visage !
 >
-> Saistu ce qui rend brillants l’esprit et l’âme et fait prospérer le corps?»
+> Saistu ce qui rend brillants l’esprit et l’âme et fait prospérer le corps ? »
 
 Il répondit :
 
@@ -31,22 +31,23 @@ Il répondit :
 >
 > Le savoir donne à l’homme de la sécurité et restreint le pouvoir d’Ahriman pour le mal.
 >
-> Ensuite viennent la longanimité et la libéralité, qui donnentà l’homme du renom et sont des ornements pour lui ; enfin il y a l’humilité, la justice, la patience, la dévotion et le talent.»
+> Ensuite viennent la longanimité et la libéralité, qui donnentà l’homme du renom et sont des ornements pour lui ; enfin il y a l’humilité, la justice, la patience, la dévotion et le talent. »
 
-Buzurdjmihr demanda : Qu’est-ce qu’il y a de plus utile et par quoi devient-on puissant?»
+Buzurdjmihr demanda :
+
+> Qu’est-ce qu’il y a de plus utile et par quoi devient-on puissant ? »
 
 Il répondit :
 
-> ’ C’est d’abord quand on est, dans le bonheur et le malheur, doux envers tous ; quand on s’efforce d’épargner de la peine au cœur de chacun ; enfin quand on rend justice à tous et qu’on acquiert ce ainsi le contentement de soi-même.»
+> ’ C’est d’abord quand on est, dans le bonheur et le malheur, doux envers tous ; quand on s’efforce d’épargner de la peine au cœur de chacun ; enfin quand on rend justice à tous et qu’on acquiert ce ainsi le contentement de soi-même. »
 
 Buzurdjmihr regarda ce prince au cœur pur, au beau visage, qu’il interrogeait, puis il lui dit :
 
-> Je vais te parler de tout ce dont nous devons parler, a compte les sujets sur tes doigts, marque toutes les questions que je t’adresserai, réponds à toutes comme’il faut ; n’intervertis pas leur ordre ; tâche de te montrer vaillant et de te bien acquitter.
+> Je vais te parler de tout ce dont nous devons parler, a compte les sujets sur tes doigts, marque toutes les questions que je t’adresserai, réponds à toutes comme il faut ; n’intervertis pas leur ordre ; tâche de te montrer vaillant et de te bien acquitter.
 >
 > Si tu fais attention, tu peux espérer que la porte du ciel s’ouvre pour toi ; si je t’accable de questions, c’est pour obtenir un plus grand nombre de réponses ri.
 >
-> I 
-A
+> I A
 de celui à qui je parle.
 >
 > Puisse le maître du monde t’inspirer, puisse ton intelligence briller et la fortune être ton soutien !
@@ -67,11 +68,11 @@ de celui à qui je parle.
 >
 > Quel est l’endroit dans le monde qu’il vaut mieux quitter, parce qu’on serait exposé à la destruction en y séjournant ?
 >
-> De quoi se faut-il réjouir dans cette vie, et de quoi dans le passé faut-il se souvenir ?
+> De quoi se faut-il réjouir dans cette vie et de quoi dans le passé faut-il se souvenir ?
 >
 > Quels sont les temps qu’il faut louer et qu’est-ce qui nous est le plus profitable ?
 >
-> Quel est l’ami le plus noble et qui convertit le cœuren jardin par sa voix ?
+> Quel est l’ami le plus noble et qui convertit le cœur en jardin par sa voix ?
 >
 > Qui, dans le monde, a le plus d’amis qu’il rend heureux en toute circonstance et qui a le plus d’ennemis et les plus malveillants ?
 >
@@ -87,7 +88,7 @@ de celui à qui je parle.
 >
 > Qui est-ce qui produit le plus de ruines par ses paroles et remplit le plus le cœur de ses amis de malaise ?
 >
-> Quels sont les discours qui donnent de l’honneur et qui pourtant portent malheur?»
+> Quels sont les discours qui donnent de l’honneur et qui pourtant portent malheur ? »
 
 Le sage avait parlé sans produire de la lassitude tout un jour, jusqu’à ce que la nuit sortît de la montagne ; mais lorsque les ténèbres forcèrent d’allumer les bougies, les têtes des grands étaient obscurcies et confuses, le roi était fatigué de tant de paroles et écoutait en silence les réponses.
 
@@ -101,8 +102,9 @@ Je vais répondre à toutes les questions qu’on m’a faites et j’appliquera
 
 Le sage m’a adressé une question sur la conduite que doit tenir un fils et il faut que je touche le but dans ma réponse.
 
-Le cœur du père se réjouit . 
- I du fils, il se sent délivré de ses soucis, si le fils est rempli de tendresse pour lui, adonné au bien et agissant selon la justice.
+Le cœur du père se réjouit.
+
+I du fils, il se sent délivré de ses soucis, si le fils est rempli de tendresse pour lui, adonné au bien et agissant selon la justice.
 
 Ensuite, il a parlé d’un homme, objet de pitié,’et pour lequel les larmes filtrent à travers les cils : c’est l’homme puissant que la fortune aidéJaissé, qui est devenu l’esclave d’un vilain.
 
@@ -117,7 +119,7 @@ Ilvm’a demandé si je savais qui nous donne le plus de bonheur dans le monde ?
 
 C’est un frère eu un ami qui charme le cœur.
 
-Il m’a adressé une question sur le temps le plus heureux ; or il estjuste de célébrer et de célébrer au-dessus de tout le temps où’l’on n’a pas d’ennemis.
+Il m’a adressé une question sur le temps le plus heureux ; or il est juste de célébrer et de célébrer au-dessus de tout le temps où’l’on n’a pas d’ennemis.
 
 Ensuite, il m’a fait une question sur lesamis ; il est bon de donnerde l’aide à l’ami ou de l’accepter de lui ; s’il est riche. abrite-toi chez lui ; s’il est pauvre, travaille avec lui : l’homme le plus humble et le plus noble est celai qui rend le plus heureux le cœur de ses amis.
 
@@ -131,13 +133,15 @@ Celui dont la langue est toujours hardie à dire du mal suscite nécessairement 
 
 Ensuite, il demande ce qu’il y a de plus pénible et ce qui remplit le plus de trouble une âme sereine ? Être assis à côté d’un homme méchant en paroles et en actions rend la vie amère comme la coloquinte.
 
-Il demande : Qui est. un té-moin véridique, ayant pour garant de son témoi- gnage l’âme et l’intelligence ?
+Il demande :
 
-Iln’y a pas de meilleur témoin que l’expérience ; elle est le plus .éloquent et le plus puissant des témoins.
+> Qui est un té-moin véridique, ayant pour garant de son témoignage l’âme et l’intelligence ?
+
+Il n’y a pas de meilleur témoin que l’expérience ; elle est le plus .éloquent et le plus puissant des témoins.
 
 Il dit :
 
-> Quelle est la chose la plusnuisible et dont on finit toujours par pleurer le mauvais effet ?
+> Quelle est la chose la plus nuisible et dont on finit toujours par pleurer le mauvais effet ?
 
 Quand la passion qui domine l’âme passe sur elle comme le souffle de l’air, le repentir ne tarde pas à arriver ; garde-toi donc de toucher de la main la fleur des désirs. lI demande : Quelle est la, chose laplus instable, de sorte que, si tu en cherches le pied, la main rencontre la tête ?
 
@@ -145,13 +149,15 @@ C’est l’amitié d’un ignorant de mau-
 vaise nature et d’humeur changeante.
 
 Ensuite, il a demandé : Qui est l’homme injuste et qui est l’homme éhonté dont il faut désespérer ?
-- Celui qui agit d’une manière perverse, appelle-le désespéré ; s’il est éhonté, appelleale injuste ; s’il fait du mensonge son métier, je l’appelle injuste et déshonoré.
+-Celui qui agit d’une manière perverse, appelle-le désespéré ; s’il est éhonté, appelleale injuste ; s’il fait du mensonge son métier, je l’appelle injuste et déshonoré.
 
 Il demande : Qui est-ce dont les paroles font des ruines et qui, sans souffrir lui-même, rem-
 
-1. ’ LE LIVRE ors plit les aubes de peine et de trouble ?
+1. ’ ors plit les aubes de peine et de trouble ?
 
-Le délateur. l’homme à double face et le désœuvré remplissent l k : de peine le cœur des hommes de sens.
+Le délateur. l’homme à double face et le désœuvré remplissent !
+
+K : de peine le cœur des hommes de sens.
 
 Le sage a dit :
 
@@ -159,7 +165,7 @@ Le sage a dit :
 >
 > Ce C’est de parler d’une manière frivole et de se vanter ; en face d’une assemblée ; car, quand on est seul et !
 >
-> Dans son intérieur, on a honte de ce qu’on a dit. et plus tard, si l’on veut ouvrir la bouche, les hommes de mérite et ceux qui n’en ont pas vous reprocheront vos anciennes vanteries, car personne n’échappe aux conséquences de ses actes.
+> Dans son intérieur, on a honte de ce qu’on a dit et plus tard, si l’on veut ouvrir la bouche, les hommes de mérite et ceux qui n’en ont pas vous reprocheront vos anciennes vanteries, car personne n’échappe aux conséquences de ses actes.
 >
 > C’étaient là toutes les questions et ce sont mes réponses.
 >
