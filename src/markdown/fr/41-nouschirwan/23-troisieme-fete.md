@@ -22,13 +22,13 @@ Ils parlèrent tous et de toutes choses ; mais le roi n’en fut pas très-conte
 
 Kesra dit à Buzurdjmihr :
 
-> Ôte de devant ton visage le voile de la modestie.»
+> Ôte de devant ton visage le voile de la modestie. »
 
 Le jeune homme savant et éloquent délia alors sa langue et énonça des paroles de sagesse sur toute chose.
 
 Il commença par bénir le roi, disant :
 
-> Puisse le maître de la couronne, maître du monde, le vainqueur des lions, le roi illustre, puissant, savant et vertueux, être toujours victorieux !»
+> Puisse le maître de la couronne, maître du monde, le vainqueur des lions, le roi illustre, puissant, savant et vertueux, être toujours victorieux ! »
 
 Puis, il dit :
 
@@ -36,27 +36,27 @@ Puis, il dit :
 
 Comme il faut que tu grandisses par le savoir, tu as besoin d’intelligence pour trouver des paroles.
 
-La bravoure est le moyen d’arriver à la renommée et le monde repousse les vI. 19 hommes sans cœur ; quand un homme est lâche, il n’obtient pas ce qu’il désire ; quand il n’est pas lâche, il poursuit son but dans le monde.
+La bravoure est le moyen d’arriver à la renommée et le monde repousse les vI. hommes sans cœur ; quand un homme est lâche, il n’obtient pas ce qu’il désire ; quand il n’est pas lâche, il poursuit son but dans le monde.
 
 Si tu recherches un trône, il te faut faire de grandes actions ; quand tes branches donnent de la verdure, il faut que tu produises des fruits.
 
-Quand on demande quels sont tes mérites, il ne faut pas que tu répondes en vantant ta naissance ; la naissance sans mérite est chose indifl’érente et de nulle valeur.
+Quand on demande quels sont tes mérites, il ne faut pas que tu répondes en vantant ta naissance ; la naissance sans mérite est chose indifférente et de nulle valeur.
 
 Un roi a dit à ce sujet :
 
-> Si une rose n’a pas de parfum, ne parle pas de sa couleur et que personne ne demande au feu de lui donner l’eau du ruisseau.»
+> Si une rose n’a pas de parfum, ne parle pas de sa couleur et que personne ne demande au feu de lui donner l’eau du ruisseau. »
 
 Un roi s’enrichit par sa libéralité et ce n’est pas par des trésors cachés que tu peux acquérir de la gloire.
 
-Quand en belles paroles tu t’attribues du mé- rite, prouve-le par des actions.
+Quand en belles paroles tu t’attribues du mérite, prouve-le par des actions.
 
 L’homme de sens est humble et c’est lui que le ciel a nourri de raison ; tel est l’homme au cœur simple et son âme noble le préserve de toute perversité.
 
-La raison repré- sente dans le monde l’arbre de la sincérité et son premier fruit est le cœur du roi.
+La raison représente dans le monde l’arbre de la sincérité et son premier fruit est le cœur du roi.
 
 Si tu es content de ton sort, tu jouis de la tranquillité ; si tu te livres à la convoitise, elle te cau-sera des terreurs.
 
-Ne sois pas débonnaire avec les gens, car tu seras peu récompensé de tes bienl’aits.
+Ne sois pas débonnaire avec les gens, car tu seras peu récompensé de tes bienfaits.
 
 La fortune est. propice’à ceux qui ont le cœur ouvert ; heureux qui a de la patience.
 
@@ -93,45 +93,49 @@ Puisse l’âme de Nouschirwan rester toujours en état d’apprendrel »
 
 Un Mobed d’un esprit ingénieux lui demanda :
 
-> Quelle est la chose bienséante et bonne qui donne à l’homme de la sérénité et le délivre des difficultés de ce monde?»
+> Quelle est la chose bienséante et bonne qui donne à l’homme de la sérénité et le délivre des difficultés de ce monde ? »
 
 Il répondit :
 
-> Quiconque possède. de la raison estheureux dans les deux mondes.»
+> Quiconque possède. de la raison estheureux dans les deux mondes. »
 
 Le Mobed dit :
 
-> Mais s’il ’n’a pas de raison, car la raison est un don brillant de Dieu?»
+> Mais s’il ’n’a pas de raison, car la raison est un don brillant de Dieu ? »
 
 Il répondit :
 
-> Le savoir est ce qu’il y a de mieux, car le savant est plus grand que les plus grands.»
+> Le savoir est ce qu’il y a de mieux, car le savant est plus grand que les plus grands. »
 
 Le Mobed dit :
 
-> Mais s’il n’a pas cherché la voie du savoir et n’a jamais lavé son esprit avec cette eau?»
+> Mais s’il n’a pas cherché la voie du savoir et n’a jamais lavé son esprit avec cette eau ? »
 
 Il répondit :
 
-> Alors, il faut qu’en homme vaillant il compte son corps pour rien ; s’il a de la force au jour du combat et jette dans la poussière la tête de ceux qui méditentle mal, il sera cher au cœur du roi, il sera heureux et puissant pour toute sa vie.»
+> Alors, il faut qu’en homme vaillant il compte son corps pour rien ; s’il a de la force au jour du combat et jette dans la poussière la tête de ceux qui méditentle mal, il sera cher au cœur du roi, il sera heureux et puissant pour toute sa vie. »
 
-Le Mobed demanda : Mais s’il n’a pas cette vaillance, s’il ne veut pas apprendre, s’il n’a ni conduite ni foi?»
+Le Mobed demanda :
+
+> Mais s’il n’a pas cette vaillance, s’il ne veut pas apprendre, s’il n’a ni conduite ni foi ? »
 
 Buzurdjmihr répondit :
 
-> Alors, il vaut mieux que la mort place sur sa tête un casque sombre.»
+> Alors, il vaut mieux que la mort place sur sa tête un casque sombre. »
 
-Le Mobed demanda : Comment ferons-nous pour que chacun de nous se nourrisse du fruit de l’arbre que le sage cultive dans ce jardin printanier et que
+Le Mobed demanda :
 
-Nous marchions dans son ombre?»
+> Comment ferons-nous pour que chacun de nous se nourrisse du fruit de l’arbre que le sage cultive dans ce jardin printanier et que
+>
+> Nous marchions dans son ombre ? »
 
 Il répondit :
 
-> Celui qui ne permet pas à sa langue de prononcer de mauvaises paroles ne metpas dans la peine son âme ;\* celui qui ne déchire pas la peau des autres avec ses discours sera regardé comme un ami par toute l’assemblée ; toute difficulté deviendra aisée pour lui, et ennemis et amis le traiteront également bien. »
+> Celui qui ne permet pas à sa langue de prononcer de mauvaises paroles ne metpas dans la peine son âme ;\* celui qui ne déchire pas la peau des autres avec ses discours sera regardé comme un ami par toute l’assemblée ; toute difficulté deviendra aisée pour lui et ennemis et amis le traiteront également bien. »
 
 Le Mobed dit de nouveau :
 
-> Celui qui s’écarte de la route du mal peut-il être un homme puissant ou un homme honorable?»
+> Celui qui s’écarte de la route du mal peut-il être un homme puissant ou un homme honorable ? »
 
 Il répondit a Les mau-vaises actions sont comme un arbre plein de mau-vais fruits.
 
@@ -139,12 +143,12 @@ L’oreille de celui qui parle d’un ton doux sera rarement frappée par des pa
 
 Sache que c’est lalangue qui est la cause des peines des hommes et si tu ne veux pas qu’elle te fasse du mal, pèse tes paroles.
 
-La seule place qui convienne à un homme de peu de paroles et dévoué au roi est. devant le trône ; il pleure les malheurs à venir, comme un oiseau ou une bête fauve pleure dans le piège ; ensuite il est fort contre ce qui est mal, il l’évite et suit entièrement les voies de la sagesse ; il ne s’occupe pas d’une alliaire dont il faut s’abstenir ; il ne s’atllige pas de ce qui ne mérite pas d’aflliction ; il ne laisse pas passer le bonheur sans en jouir ; il se garde de compter les pas des jours futurs ; il évite ses ennemis avec plus de ruse qu’une bête fauve ; il tient à ses amis comme la plume à la flèche.
+La seule place qui convienne à un homme de peu de paroles et dévoué au roi est. devant le trône ; il pleure les malheurs à venir, comme un oiseau ou une bête fauve pleure dans le piège ; ensuite il est fort contre ce qui est mal, il l’évite et suit entièrement les voies de la sagesse ; il ne s’occupe pas d’une alliaire dont il faut s’abstenir ; il ne s’atllige pas de ce qui ne mérite pas d’affliction ; il ne laisse pas passer le bonheur sans en jouir ; il se garde de compter les pas des jours futurs ; il évite ses ennemis avec plus de ruse qu’une bête fauve ; il tient à ses amis comme la plume à la flèche.
 
 L’homme de sens a peu d’envie 2H) de plaisirs dont la fin doit être le chagrin.
 
 Renonce à la mollesse et à la paresse, travaille et conquiers . par lal’atigue le droit à la fête, car dans ce monde il n’y a pas de gain sans fatigue et le paresseux n’aura jamais de trésors.
 
-Puisse Nourchirwan faire prospérer la terrre, puisse-t-il rester maître du monde et son pouvoir être toujours jeune !»
+Puisse Nourchirwan faire prospérer la terrre, puisse-t-il rester maître du monde et son pouvoir être toujours jeune ! »
 
 On parla longuement sur ce thème, les cœurs des endormis se réveillèrent ; les Mobeds, les grands, les sages à l’esprit’éveillé bénirent Buzurdjmihr, célébrèrent la gloire du roi du monde et se séparèrent le cœur joyeux.
