@@ -24,7 +24,7 @@ Les servantes qui charmaient les cœurs et les serviteurs de toute espèce mont�
 
 Ils partirent à une heure propice et l’esprit serein, la reine entourée des eunuques.
 
-Mihran Sitad, le Grand Mobed, accompagna la reine, tille du Khakan ; le trésor et les bagages se dirigèrent vers Thisifoun et aucun des héros ne resta en arrière.
+Mihran Sitad, le Grand Mobed, accompagna la reine, fille du Khakan ; le trésor et les bagages se dirigèrent vers Thisifoun et aucun des héros ne resta en arrière.
 
 Tous les vaillants amis du roi, tous les Perses partirent pour Ader Abadgan ; une foule venue de tous les pays se rassembla ; les hommes du Ghilan et de Deïlem, des montagnes des Beloutchis, du désert de Seroudj et les gens du Coutch, qui frappent de l’épée, arrivèrent tous devant l’enceinte des tentes du roi, chargés de présents et d’offrandes.
 
@@ -36,9 +36,9 @@ Dans le pays que traversait l’armée, les cultivateurs n’avaient rien à sou
 
 C’est ainsi que le roi fit le tour du monde, observant partout l’état des campagnes et des plaines ; il vit partout dans le monde des terres ensemencées, des vallées et des plaines remplies de bœufs et de moutons ; il regarda des pays qui n’avaient jamais été cultivés, où l’on n’avait jamais vu de semences et de moissons et les trouva pleins de fruits de la terre et toutes les maisons remplies d’enfants ; les branches des arbres pliaient sous les, fruits par la grâce du maître du monde sur lequel veillait la fortune.
 
-Lorsque le ciel et la lune eurent tourné pendant quelque temps, un envoyé du Kaîsar arriva, chargé de présents, de vêtements, d’argent et d’or, de brocarts roumis et de pierreries du Roum, des offrandes telles que la surface de la terre en était couverte, et un tribut tel que jamais le Roum n’en avait fourni de pareil.
+Lorsque le ciel et la lune eurent tourné pendant quelque temps, un envoyé du Kaîsar arriva, chargé de présents, de vêtements, d’argent et d’or, de brocarts roumis et de pierreries du Roum, des offrandes telles que la surface de la terre en était couverte et un tribut tel que jamais le Roum n’en avait fourni de pareil.
 
-Le Kaîsar envoya dix peaux de bœuf remplies de pièces d’or, comme tribut et redevance de trois années et une lettre au roi accompagnée d’une oll’rande d’or.
+Le Kaîsar envoya dix peaux de bœuf remplies de pièces d’or, comme tribut et redevance de trois années et une lettre au roi accompagnée d’une offrande d’or.
 
 On fit asseoir l’envoyé devant Kesra, qui écouta attentivement la lecture de cette lettre, contenant des souhaits chaleureux, énumérant ce qu’on envoyait et annonçant de nouveaux présents, ce qu’on apportait n’étant que le tribut auquel il fallait ajouter des couronnes.
 
