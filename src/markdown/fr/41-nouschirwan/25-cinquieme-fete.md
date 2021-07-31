@@ -22,13 +22,13 @@ Buzurdjmihr, le jeune homme éloquent, se présenta aussi devant Nouschirwan.
 
 Le roi du monde dit à cette assemblée de savants :
 
-> Qui parmi vous a dans son âme assez de sagesse pour être le soutien de la religion de Dieu et pour préserver de tout mal le trône de la royauté?»
+> Qui parmi vous a dans son âme assez de sagesse pour être le soutien de la religion de Dieu et pour préserver de tout mal le trône de la royauté ? »
 
 Lorsque le Grand Mobed entendit ces paroles, il commença à parler au milieu des nobles, en réponse au roi :
 
-> C’est la justice de Nouschirwan qui fait briller la majesté royale, le diadème et le trône. - Puisqu’il ouvre son trésor selon de mérite des hommes, son nom restera grand après la mort ; car c’est la générosité qui donne le grand renom, et les trésors sont faits pour être répandus.
+> C’est la justice de Nouschirwan qui fait briller la majesté royale, le diadème et le trône. -Puisqu’il ouvre son trésor selon de mérite des hommes, son nom restera grand après la mort ; car c’est la générosité qui donne le grand renom et les trésors sont faits pour être répandus.
 >
-> Ensuite, il restera glorieux, parce que sa langue est pure de tout mensonge et .qu’il ne cherche pas à acquérir de l’honneur dans. le monde par des moyens frau-duleux ; ensuite parce qu’il est juste et généreux, et que sa couronne embellit notre époque ; puis parce que la tête du roi illustre ne s’émeut pas des fautes que commettent les sujets ; ensuite parce qu’il sait parler de telle façon que son nom ne peut jamais vieillir dans le monde ; en toute chose. grande et petite, il dit la vérité et dans aucun cas il ne s’écarte des règles de la dignité.
+> Ensuite, il restera glorieux, parce que sa langue est pure de tout mensonge et .qu’il ne cherche pas à acquérir de l’honneur dans. le monde par des moyens frau-duleux ; ensuite parce qu’il est juste et généreux et que sa couronne embellit notre époque ; puis parce que la tête du roi illustre ne s’émeut pas des fautes que commettent les sujets ; ensuite parce qu’il sait parler de telle façon que son nom ne peut jamais vieillir dans le monde ; en toute chose. grande et petite, il dit la vérité et dans aucun cas il ne s’écarte des règles de la dignité.
 >
 > Ensuite, il aime les serviteurs de son trône autant que sa fortune ; puis, si savant que.soit son discours,sa langue sait lui donner de l’éloquence ; son esprit ne se relâche pas à apprendre et à consumer le cerveau dans ses pensées.
 >
@@ -36,7 +36,7 @@ Lorsque le Grand Mobed entendit ces paroles, il commença à parler au milieu de
 >
 > Ne fais jamais, ô roi, de divorce entre ton cœur et ton intelligence ; c’est elle qui conduit à la gloire et à une lin heureuse.
 >
-> C’est un esprit pauvre et de peu de sagesse qui a pu dire : C’est à moi que personne n’est égal en savorr.»
+> C’est un esprit pauvre et de peu de sagesse qui a pu dire : C’est à moi que personne n’est égal en savorr. »
 
 Yezdeguerd, le scribe, dit :
 
@@ -50,7 +50,7 @@ Yezdeguerd, le scribe, dit :
 >
 > Le pouvoir ne sied pas à un pauvre, car le pauvre n’est pas propre au com--mandement.
 >
-> Un vieillard fourbe se rend odieux, et, après sa mort, son âme ira au feu ; si un jeune homme est paresseux dans l’action, le monde en sera dégoûté et son esprit ne restera pas sain et vigoureux ; maudit soit son esprit, maudite sa langue !»
+> Un vieillard fourbe se rend odieux, et, après sa mort, son âme ira au feu ; si un jeune homme est paresseux dans l’action, le monde en sera dégoûté et son esprit ne restera pas sain et vigoureux ; maudit soit son esprit, maudite sa langue ! »
 
 ’
 Lorsque Buzurdjmihr eut entendu ces beaux discours et rempli son cerveau de sagesse, il dit :
@@ -61,8 +61,7 @@ Lorsque Buzurdjmihr eut entendu ces beaux discours et rempli son cerveau de sage
 >
 > Le cœur des pierres et des rochers pleure sur l’homme ignorant, et, à cause de son ignorance, personne ne le respecte ; il ne comprend
 >
-> 
-2
+> 2
 ni le commencement des choses ni leur but ; il ne distingue pas ce qui est honteux de ce qui est honorable.
 >
 > Sont méprisés par la foule qui travaille, plus méprisés encore par les sages, d’abord : le juge de mauvaise foi, à qui le sage n’accorde pas son estime ; ensuite le chef de l’armée qui n’a soin que de ses trésors, le soldat qui se refuse a la fatigue, le savant qui ne recule pas devant le crime quand il s’agit de quelque chose qui flatte ses goûts, le médecin qui est malade lui-même, car comment déli-vrerait-il le malade de son mal ?
@@ -72,4 +71,4 @@ ni le commencement des choses ni leur but ; il ne distingue pas ce qui est honte
 > Un homme sans talent, mais qui a de la raison, se re-
 I pent quand il a fait mal ; mais le cœur d’un homme sans raison s’enflamme par ses désirs comme le feu qui trouve pour aliment du soufre on que propage un champ de roseaux.
 >
-> Que le cœur du roi reste vaillant, que les chefs de la terre soient ses serviteurs !»
+> Que le cœur du roi reste vaillant, que les chefs de la terre soient ses serviteurs ! »
