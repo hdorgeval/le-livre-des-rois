@@ -16,28 +16,32 @@ order: '060'
 
 # Lettre de Nouschirwan au fils du Kaïsar et sa réponse
 
-J’ai vu dans un vieux livre ; écrit d’après les paroles d’un savant véridique, que Kesra, le maître du monde, reçut du beau pays du Roum ce message : Puisses-tu rester en vie !
+J’ai vu dans un vieux livre ; écrit d’après les paroles d’un savant véridique, que Kesra, le maître du monde, reçut du beau pays du Roum ce message :
 
-Le Kaïsar est mort et sa fin a livré la terre à un autre.»
+> Puisses-tu rester en vie !
+>
+> Le Kaïsar est mort et sa fin a livré la terre à un autre. »
 
 Cette nouvelle rempIit l’âme de Kesra de soucis et ses joues de rubis devinrent comme des feuilles qui jaunissent.
 
-Il choisit dans l’Iran un envoyé qui avait vu le monde, un homme noble, l’envoya auprès du fils du Kaiser, cette branche verte et féconde de l’ancien tronc, et lui donna beaucoup de bonnes paroles sur ce malheur auquel personne ne peut échapper.
+Il choisit dans l’Iran un envoyé qui avait vu le monde, un homme noble, l’envoya auprès du fils du Kaiser, cette branche verte et féconde de l’ancien tronc et lui donna beaucoup de bonnes paroles sur ce malheur auquel personne ne peut échapper.
 
-Dans son deuil et sa douleur, les yeux remplis de larmes, les joues pâlies, il écrivit la lettre suivante : Que Dieu t’accorde une vie longue, qu’il t’accorde le bonheur ce après la mort de ton père !
+Dans son deuil et sa douleur, les yeux remplis de larmes, les joues pâlies, il écrivit la lettre suivante :
 
-Aucune créature ne naît
+> Que Dieu t’accorde une vie longue, qu’il t’accorde le bonheur ce après la mort de ton père !
+>
+> Aucune créature ne naît
 , ; que pour devenir poussière ; le monde est un séjour passager et nous ne faisons que le traverser.
-
-Que nous portions une couronne ou un casque et un morion, nous n’échapperons pas aux griffes de la mort.
-
-Qu’on soit Kaîsar ou Khakan, on couche sa tête dans la poussière infailliblement quand le moment en est venu.
-
-Puisses-tu recevoir beaucoup de bonnes nouvelles du Kaiser, puisse le Messie protéger son âme !
-
-L’ai appris que tu t’es assis sur son trône illustre et que tu en as rétabli la gloire.
-
-De-mande-moi toute l’assislance dont tu as besoin, des chevaux, des armes, des trésors ou des troupes.»
+>
+> Que nous portions une couronne ou un casque et un morion, nous n’échapperons pas aux griffes de la mort.
+>
+> Qu’on soit Kaîsar ou Khakan, on couche sa tête dans la poussière infailliblement quand le moment en est venu.
+>
+> Puisses-tu recevoir beaucoup de bonnes nouvelles du Kaiser, puisse le Messie protéger son âme !
+>
+> L’ai appris que tu t’es assis sur son trône illustre et que tu en as rétabli la gloire.
+>
+> De-mande-moi toute l’assislance dont tu as besoin, des chevaux, des armes, des trésors ou des troupes. »
 
 L’envoyé quitta "Kesra et se rendit en toute hâte auprès du Kaiser.
 
@@ -55,11 +59,11 @@ Pendant une semaine tous ses conseillers s’assemblèrent chez le Kaiser.
 
 > Réfléchis sur la réponse à donner à cette lettre et écrisla comme tu sais qu’il
 > Mo
-> faut écrire et insère ce qu’il y a de bon et de mau-j vais à dire.»
+> faut écrire et insère ce qu’il y a de bon et de mau-j vais à dire. »
 
 Le Mobed répondit :
 
-> Je suis ton serviteur et ne m’écarterai pas des ordres du roi du monde.»
+> Je suis ton serviteur et ne m’écarterai pas des ordres du roi du monde. »
 
 Tous les évêques, les Mobeds et les conseillers se retirèrent de l’assemblée et composèrent en toute hâte une réponse telle que le Kaiser l’avait ordonnée.
 
@@ -75,14 +79,16 @@ Le jeune homme a écrit à chaque administrateur et à chaque prinœ indépendan
 >
 > L’envoyé du, roi de l’Iran est arrivé, il te rapportera ce qu’il a vu de notre état, ce qu’il a dit dans son chagrin et dans sa joie et ne te cachera pas ce qui lui a fait du souci ou du plaisir.
 >
-> Le Kaïsar étant mort, il est venu un successeur qui lève sa tête au-dessus des plus grands et ne compte pour rien les rois, car comment le roi, soutien de tous, serait-il inférieur à quelqu’un?»
+> Le Kaïsar étant mort, il est venu un successeur qui lève sa tête au-dessus des plus grands et ne compte pour rien les rois, car comment le roi, soutien de tous, serait-il inférieur à quelqu’un ? »
 
 ’
 Quand ils eurent terminé leur lettre roumis, ils appelèrent l’envoyé à la cour.
 
 Quand est homme Ml sage entendit qu’ils avaient terminé leurs conseils, il vint à la cour et demanda une réponse à la lettre ; on le revêtit d’une robe d’honneur, on fit sortir de la salle d’audience les’étrangers et le Kaîsar lui dit :
 
-> l Je ne suis le serviteur de personne, je ne suis pas inférieur aux Chinois et aux Heïtaliens, Il n’est pas convenable de traiter légèrement un homme puissant, ton roi fût-il roi du monde.
+> !
+>
+> Je ne suis le serviteur de personne, je ne suis pas inférieur aux Chinois et aux Heïtaliens, Il n’est pas convenable de traiter légèrement un homme puissant, ton roi fût-il roi du monde.
 >
 > Est puissant qui a beaucoup d’ennemis et moi j’ai des ennemis et a des amis plein le pan de ma robe.
 >
@@ -95,7 +101,7 @@ Quand est homme Ml sage entendit qu’ils avaient terminé leurs conseils, il vi
 > Quand j’au-
 > rai besoin de toi, tu seras mon roi, toi qui es pour moi un souvenir de mon père.
 >
-> Raconte, 6 messager, avec bienveillance ce que tu as vu et ne cherche pas de mauvaises intentions dans ma réponse.»
+> Raconte, 6 messager, avec bienveillance ce que tu as vu et ne cherche pas de mauvaises intentions dans ma réponse. »
 
 On prépara à l’envoyé, chef des frontières, un présent peu digne de son rang et l’on fit venir à la porte du palais son destrier.
 
@@ -117,11 +123,11 @@ Le roi devint anxieux à ces paroles et lui dit :
 >
 > Je vais détruire la gloire du Roum, je vais consumer parle l’en ce beau pays ; je le jure par Dieu le toutsaint, par le soleil et la lune, par Aderguschasp, par le trône et la couronne.
 >
-> Ensuite, il se dépouillera de o tout ce qu’il y a de vieux trésors dans son royaume comme on dépouille le bœuf de sa peau et la pointe de mon épée ne touchera pas le fourreau avant que j’aie fait ma volonté contre ce Roumi.»
+> Ensuite, il se dépouillera de o tout ce qu’il y a de vieux trésors dans son royaume comme on dépouille le bœuf de sa peau et la pointe de mon épée ne touchera pas le fourreau avant que j’aie fait ma volonté contre ce Roumi. »
 
 Il fit résonner devant la porte du palais les trompettes, les cymbales et les clochettes indiennes.
 
-On plaça les timbales sur le dos des éléphants de guerre, et le monde devint comme les flots du Nil.
+On plaça les timbales sur le dos des éléphants de guerre et le monde devint comme les flots du Nil.
 
 Il s’avança de Madaïn dans la plaine une armée telle que les eaux vertes du fleuve furenttroublées par le son dm clairons, par les couleurs des étendards et les mouvements des cavaliers aux bottines d’or ; on aurait dit que les astres étaient au milieu de l’eau et que
 
