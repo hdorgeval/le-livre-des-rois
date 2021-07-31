@@ -24,7 +24,7 @@ Il resta trois jours à délibérer avec ses conseillers et les Pehlewans qui d�
 
 Le quatrième jour il était fixé sur ses plans et déterminé à conduire son armée à la guerre contre le Kaïsar.
 
-Les trompettes, les timbales et les tambours d’airain résonnèrent a la porte du palais ; le roi ne s’attarde pas pour se reposer, il partit pour la guerre résolument, réunit son armée, fit charger’les bagages et invoqua Dieu, source de tout bonheur.
+Les trompettes, les timbales et les tambours d’airain résonnèrent a la porte du palais ; le roi ne s’attarde pas pour se reposer, il partit pour la guerre résolument, réunit son armée, fit charger les bagages et invoqua Dieu, source de tout bonheur.
 
 Il s’éleva une poussière telle qu’on aurait dit que le soleil avait trempé sa face dans une mer de poix.
 
@@ -44,18 +44,18 @@ Le roi s’approcha et se mit à prier, à glorifier le Créateur, à le supplie
 
 Il distribua des dons aux serviteurs du temple et partout où l’on voyait des pauvres.
 
-Il fit dresser une tente devant le temple du feu et l’armée se forma en rangs des deux côtés ; il lit appeler un scribe intelligent et lui dicta des paroles convenables.
+Il fit dresser une tente devant le temple du feu et l’armée se forma en rangs des deux côtés ; il fit appeler un scribe intelligent et lui dicta des paroles convenables.
 
 Il lui fit écrire une lettre pleine de dignité, adressée aux commandants des frontières de l’Iran :
 
 > Craignez Dieu et soyez vigilants, préservez le monde de nos ennemis ; que les gouverneurs et les Pehlewans exercent la justice envers les sujets ; qu’ils tiennent sur pied assez de troupes pour pouvoir repousser l’ennemi.
 >
-> Aussi longtemps que vous ne verrez pas reparaître mon drapeau, gardez-vous de dormir en sécurité.»
+> Aussi longtemps que vous ne verrez pas reparaître mon drapeau, gardez-vous de dormir en sécurité. »
 
 .
 
 I ’
-Lorsqu’il parlit du temple du feu pour marcher sur le Roum, le bruit s’en répandit dans le pays
+Lorsqu’il partit du temple du feu pour marcher sur le Roum, le bruit s’en répandit dans le pays
 
 Assas ’ me d’alentour, tous ses sujets fidèles allèrent à sa rencontre et la terre disparut sous la foule de ces hommes vaillants ; bien des princes arrivèrent auprès du roi avec des présents et des offrandes ; partout où
 il s’arrêta, il reçut de tout côté des. messages et des salutations ; partout où il conduisit son armée, on ne vit que des fêtes et des chasses et chaque soir mille braves se réunirent chez le roi pour un banquet.
@@ -66,23 +66,23 @@ Le chef de l’armée était Schiroui fils de Bahram, un homme prudent et calme 
 
 Il appela auprès de lui les chefs expérimentés de l’armée, les exhorta et leur donna beaucoup de bons avis.
 
-Il chargea des rondes Hormuzd fils de Khorrad, lui parla longuement de ce qui est juste et injuste, et envoya partout des espions pour que rien ne lui restât caché.
+Il chargea des rondes Hormuzd fils de Khorrad, lui parla longuement de ce qui est juste et injuste et envoya partout des espions pour que rien ne lui restât caché.
 
 Il dit :
 
 > Si quelqu’un de cette armée innombrable, si quelqu’un des chefs et des commandants dévie de ma route, s’il méprise un seul instant mes avis, s’il fait de la peine aux hommes pauvres ou aux grands qui possèdent des trésors, s’il
 >
-> foule aux pieds les champs ensemencés, ou s’il avance aildevant des rangs, s’il s’attaque aux arbres fruitiers ou s’il commet tout autre méfait, je jure par Dieu, qui m’a donné le diadème et le pouvoir, le maître de Saturne, de Mars et’du soleil, que je le couperai en deux avec l’épée, quand même il se cacherait dans les nues comme les étoiles. le fais des rondes au-devant du camp, je suis le maître ambitieux et le soutien du centre de l’armée, je surveille les éléphants, les troupes et les bagages ; tantôt je suis à l’aile droite, tantôt je vais à l’aile gauche ; je marche dans les terres sèches, je tra-.verse les flots des eaux, je ’ne me repose et ne m’endors pas quand il s’agit de livrer bataille.»
+> foule aux pieds les champs ensemencés, ou s’il avance aildevant des rangs, s’il s’attaque aux arbres fruitiers ou s’il commet tout autre méfait, je jure par Dieu, qui m’a donné le diadème et le pouvoir, le maître de Saturne, de Mars et’du soleil, que je le couperai en deux avec l’épée, quand même il se cacherait dans les nues comme les étoiles. le fais des rondes au-devant du camp, je suis le maître ambitieux et le soutien du centre de l’armée, je surveille les éléphants, les troupes et les bagages ; tantôt je suis à l’aile droite, tantôt je vais à l’aile gauche ; je marche dans les terres sèches, je tra-.verse les flots des eaux, je ’ne me repose et ne m’endors pas quand il s’agit de livrer bataille. »
 
 Un héraut du nom de Schirzad apprit par cœur ces paroles du roi, alla en courant partout dans l’armée et passa devant toutes les tentes, grandes et petites, criant :
 
-> Ô armée innombrablel voici l’ordre du roi vigilant : On versera dans cette poussière noire, s’il s’écarte des ordres de Dieu, le sang de quiconque marche sur cette terre obscure autrement qu’avec miséricorde, justice et raison.»
+> Ô armée innombrablel voici l’ordre du roi vigilant : On versera dans cette poussière noire, s’il s’écarte des ordres de Dieu, le sang de quiconque marche sur cette terre obscure autrement qu’avec miséricorde, justice et raison. »
 
 Mais le roi ne se contentait pas des avis donnés dans la proclamation ; il faisait le tour de l’armée pendant le jour brillant et la nuit sombre, s’enquérant du bien et du mal, apprenant tout ce qui se passait dans le monde et ne négligeant rien de ce qui se faisait de bon et de mauvais.
 
 Si un homme de l’armée mourait en l6 !
 
-Route, il le faisait enterrer sur place et quand il laissait de l’or et de l’argent, un lacet, un casque. une ceinture et un arc, bons ou mauvais, on les enterrait avec le mort;mais c’est lui qui était le plus précieux de ce qu’on enterrait.
+Route, il le faisait enterrer sur place et quand il laissait de l’or et de l’argent, un lacet, un casque une ceinture et un arc, bons ou mauvais, on les enterrait avec le mort;mais c’est lui qui était le plus précieux de ce qu’on enterrait.
 
 Les hommes étaient confondus de la puissance que montrait Nouschirwan.
 
