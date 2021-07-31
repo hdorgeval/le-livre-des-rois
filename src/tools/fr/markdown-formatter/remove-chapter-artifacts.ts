@@ -1030,6 +1030,10 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/KEÏ nous\./g, ''),
     (content: string) => content.replace(/KEÎ KAOUs\./g, ''),
     (content: string) => content.replace(/Ksi nous\./g, ''),
+    (content: string) => content.replace(/KESRA NOUSCHAIRWAN\./g, ''),
+    (content: string) => content.replace(/KESRA NOUSCHIRWÀN\./g, ''),
+    (content: string) => content.replace(/KESRA NOUSGHIBWANÏ/g, ''),
+    (content: string) => content.replace(/KESRA NOUSCf/g, ''),
   ].forEach((format) => {
     result = format(result);
   });
