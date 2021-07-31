@@ -16,9 +16,9 @@ order: '018'
 
 # Combat entre Nouschzad et Ram Berzin et mort de Nouschzad
 
-Nouschzad ayant répondu ainsi au vieux Pirouz, les plumes des flèches couvrirent le ciel, les braves de l’armée s’ébranlèrept, les timbales et les clairons résonnèrent.
+Nouschzad ayant répondu ainsi au vieux Pirouz, les plumes des flèches couvrirent le ciel, les braves de l’armée s’ébranlèrent, les timbales et les clairons résonnèrent.
 
-Nouschzad lança son cheval rapidement comme le feu, s’avança, semblable à Aderguschasp , renversa l’aile gauche des Iraniens et aucun des héros ne restait plus en face de son armée.’Il tua beaucoup d’hommes vaillants.
+Nouschzad lança son cheval rapidement comme le feu, s’avança, semblable à Aderguschasp, renversa l’aile gauche des Iraniens et aucun des héros ne restait plus en face de son armée.’Il tua beaucoup d’hommes vaillants.
 
 Bain Bénin devint inquiet et ordonna de faire pleuvoir des flèches et d’en remplir l’air comme d’une grêle de printemps.
 
@@ -26,13 +26,13 @@ Nouschzad fut blessé dans la mêlée et se rappela ; alors les avis de Pirouz ;
 
 Il dit devant les vaillants BOUIIJIS :
 
-> Combattre son père est un acte vil, triste et déplotable.»
+> Combattre son père est un acte vil, triste et déplotable. »
 
 Il se lamenta et appela un évêque qui pleurait ; il lui confessa tout ce qu’il avait sur le cœur et lui dit :
 
 > C’est par ma faut que ce triste jour amène sur moi un si grand malheur.
 >
-> Maintenant que ma tête est dans la poussière, envoie un cavalier auprès de ma mère et fais-lui dire que Nouschzad a quitté ce monde et que les jours de la justice et de l’injustice sont finis r : pour lui.
+> Maintenant que ma tête est dans la poussière, envoie un cavalier auprès de ma mère et fais-lui dire que Nouschzad a quitté ce monde et que les jours de la justice et de l’injustice sont finis pour lui.
 >
 > Ô ma niera !
 >
@@ -44,7 +44,7 @@ Il se lamenta et appela un évêque qui pleurait ; il lui confessa tout ce qu’
 >
 > Ne me prépare pas un tombeau et un trône et de longues cérémonies, donne-moi une tombe chrétienne.
 >
-> Il n’y faut ni camphre, ni musc, ni ambre, parce que je sors du monde blessé par une flèche.»
+> Il n’y faut ni camphre, ni musc, ni ambre, parce que je sors du monde blessé par une flèche. »
 
 Il dit, ferma les lèvres et l’illustre Nouschzad au cœur de lion était mort.
 
@@ -60,9 +60,9 @@ L’évêque répondit :
 >
 > Sa mère va lui préparer, selon la coutume chrétienne, une tombe et un linceul et enveloppera sa tête, sans diadème, sans brocart de Roum, sans trône, tel que le malheureux l’a vu faire pour des esclaves.
 >
-> Maintenant son âme est réunie au Messie, quoique lui ne soit pas mort sur la croix.»
+> Maintenant son âme est réunie au Messie, quoique lui ne soit pas mort sur la croix. »
 
-Tous les chrétiens qui se trouvaient dans ce pays se déchirèrent les joues ; il s’éleva un cri de deuil, et les hommes et’les femmes du pays entier se rassemblèrent, disant :
+Tous les chrétiens qui se trouvaient dans ce pays se déchirèrent les joues ; il s’éleva un cri de deuil et les hommes et’les femmes du pays entier se rassemblèrent, disant :
 
 > Il est mort, ce prince vaillant et jeune, qui était le cœur et l’œil du roi NouschirwananOn l’emporta de cette plaine dans un cercueil qu’on se passait de mains en mains pendant trois farsangs.
 >
