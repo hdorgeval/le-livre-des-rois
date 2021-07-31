@@ -29,7 +29,9 @@ Je place sur ta tête la couronne d’or, comme je l’ai reçue de mon père, a
 
 Sois toujours éveillé ; sois le maître du monde, sois sage et noble et ne fais du mal à personne.
 
-Augmente ton savoir, attache-toi à Dieu et prends-le pour guide de ton âme. l J’ai demandé à un vieillard aux paroles sages, à l’intelligence mûre, qui de nous se rapprochait le plus de Dieu et qui de nous suivait le plus sûrement la route vers lui ; il m’a répondu : Adonne- toi au savoir, si tu veux que le père de tous te bénisse, car l’ignorance ne s’élève pas au-dessus’ de. la poussière ; c’est par le savoir que tu peux cultiver ton âme pure ; c’est par le savoir que le roi devient digne du trône.
+Augmente ton savoir, attache-toi à Dieu et prends-le pour guide de ton âme. !
+
+J’ai demandé à un vieillard aux paroles sages, à l’intelligence mûre, qui de nous se rapprochait le plus de Dieu et qui de nous suivait le plus sûrement la route vers lui ; il m’a répondu : Adonne-toi au savoir, si tu veux que le père de tous te bénisse, car l’ignorance ne s’élève pas au-dessus’ de la poussière ; c’est par le savoir que tu peux cultiver ton âme pure ; c’est par le savoir que le roi devient digne du trône.
 
 Puisses-tu être savant et ton trône être victorieux !
 
@@ -43,12 +45,11 @@ Ainsi, si un sujet est riche, il faut que le roi soit son soutien et tous doiven
 
 Récompense celui qui te fait du bien, combats les ennemis de tes amis.
 
-Si honoré que tu puisses être dans le monde, réfléchis aux fatigues, aux peines et aux c pertes des autres.
+Si honoré que tu puisses être dans le monde, réfléchis aux fatigues, aux peines et aux pertes des autres.
 
-Quelque place que nous occupions,.
-
-392 -
-elle n’est qu’un lieu de passage. dans lequel on ne demeure pas en sécurité ; cherche donc à acquérir du mérite et assieds-toi avecdes vieillards savants, si tu veux que la fortune te favorise.
+Quelque place que nous occupions,. 
+ -
+elle n’est qu’un lieu de passage. dans lequel on ne demeure pas en sécurité ; cherche donc à acquérir du mérite et assieds-toi avec des vieillards savants, si tu veux que la fortune te favorise.
 
 Applique-toi au savoir et deviens puissant par lui, si tu veux ne pas souffrir du malheur.
 
@@ -83,19 +84,19 @@ Il ne leur survit que leurrenommée, car cette de-
 
 Ne verse pas légèrement du sang, n’envoie pas légèrement ton armée à la guerre.
 
-Médite cette lettre pleine de conseils ; n’attache pas ton cœur à. ce lieu de
-- passage.
+Médite cette lettre pleine de conseils ; n’attache pas ton cœur à ce lieu de
+-passage.
 
 Je voudrais te faire du bien par ces avis et orner ton esprit avec de lasagesse.
 
 Marche dans la voie du Maître du soleil et de la lune et écarte l’influence du Div.
 
-Garde devant toi jour et nuit cette lettre ; rends la raison maîtresse de ton cœur, e et si tu fais dans le monde ce qui mérite un sou- venir, ton nom ne cessera pas de rester grand.
+Garde devant toi jour et nuit cette lettre ; rends la raison maîtresse de ton cœur, et si tu fais dans le monde ce qui mérite un souvenir, ton nom ne cessera pas de rester grand.
 
 Que le maître de tout bonheur soit ton.refuge ; que le temps et le monde te soient favorables ; que la roue du ciel tourne selon ton gré et écarte de toi
 . les mauvaises actions et les malheurs ; que le chagrin ne trouve pas la voie de ton cœur et que la joie y ait un libre accès ; que le monde soit toujours ton esclave, que les cœurs de les ennemis soient abattus ;
 
-I. que l’étoile de ta fortune soit au neuvième ciel ; que la lune et Jupiter abritent ton trône par leur ombre ; que le monde brille par ta couronne ; que les rois se tiennent devant ton trône comme des esclaves !»
+I. que l’étoile de ta fortune soit au neuvième ciel ; que la lune et Jupiter abritent ton trône par leur ombre ; que le monde brille par ta couronne ; que les rois se tiennent devant ton trône comme des esclaves ! »
 
 Ayant écrit cette lettre, il l’enferma dans son trésor.
 
