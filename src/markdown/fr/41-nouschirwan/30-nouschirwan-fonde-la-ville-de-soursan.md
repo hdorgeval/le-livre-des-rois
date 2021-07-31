@@ -28,9 +28,9 @@ Si tu veux être célébré après ta mort, il faut que tu te couvres de la rais
 
 Depuis le moment où la terre s’était soumise à lui, il ne désirait obtenir par le pouvoir que des bénédictions.
 
-Les grands et les petits pouvaient dormir dans le désert, la brebis et le loup buvaient au même abreuvoir, les grands avaient soin des inférieurs, et le nom du roi était plus glorifié que son diadème.
+Les grands et les petits pouvaient dormir dans le désert, la brebis et le loup buvaient au même abreuvoir, les grands avaient soin des inférieurs et le nom du roi était plus glorifié que son diadème.
 
-Le cou des hommes fut délivré des attaches de la cette de mailles et les braves défirent les boutons de leurs cuirasses ; les épaules furent soulagées du poids des massues et des épées et l’on n’entendit que des cris de joie ; personne ne pouvait résister au maître du monde , et il reçut de partout des tributs et des redevances.
+Le cou des hommes fut délivré des attaches de la cotte de mailles et les braves défirent les boutons de leurs cuirasses ; les épaules furent soulagées du poids des massues et des épées et l’on n’entendit que des cris de joie ; personne ne pouvait résister au maître du monde et il reçut de partout des tributs et des redevances.
 
 Le roi faisait facilement les choses difficiles ; il aimait l’appareil des chasses et les jeux du Meïdan ; il s’asseyait dans sa salle d’audience, incrustée de pierreries et tenait conseil en buvant avec ses convives.
 
