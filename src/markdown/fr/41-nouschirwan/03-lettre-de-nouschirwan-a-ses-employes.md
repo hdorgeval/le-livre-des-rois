@@ -20,7 +20,7 @@ Il fit écrire une lettre en pehlewi et tu me sauras gré si je te la récite.
 
 Il commença ainsi : De la part du Grand roi, roi des rois, Kesra, le serviteur de Dieu.
 
-C’est le jour de Bahram du mois Khordad de mai) que Dieu lui a donné le trône et la couronne et que cette branche fertile de l’ar- LE LIVREo bre de Kobad a placé sur sa tête le diadème du pouvoir. l’adresse aux administrateurs des tributs et des impôts, aux serviteurs de l’ombre de ma majesté et de ma couronne, des salutations sans nombre et je les récompenserai si leur mérite égale
+C’est le jour de Bahram du mois Khordad de mai) que Dieu lui a donné le trône et la couronne et que cette branche fertile de l’aro bre de Kobad a placé sur sa tête le diadème du pouvoir. l’adresse aux administrateurs des tributs et des impôts, aux serviteurs de l’ombre de ma majesté et de ma couronne, des salutations sans nombre et je les récompenserai si leur mérite égale
 . leur naissance.
 
 Je commence mon discours par célébrer le Créateur du monde.
@@ -33,8 +33,7 @@ Devant Dieu il n’y a ni roi ni sujet, nous ne sommes tous que des esclaves ; d
 
 Il nous défend toute autre route que celle de la droiture ; c’est le Div qui amène la perversité et la ruine.
 
-Si ma part dans ce monde immense n’avait été qu’un jardin, un champ et une maison, je n’aurais cherché que la justice et l’affection, des hommes, et à mettre toute mon attention à mes affaires ; 
- l3 !
+Si ma part dans ce monde immense n’avait été qu’un jardin, un champ et une maison, je n’aurais cherché que la justice et l’affection, des hommes et à mettre toute mon attention à mes affaires ; l3 !
 
 Mais puisque Dieu le tout saint m’a donné pour royaume la surface de la terre, depuis l’occident jusqu’à l’orient, tout depuis le soleil brillantjusqu’à la terre sombre, je ne dois pas exercer autre chose que la justice et la tendresse, si irritantes que puissent être les affaires.
 
@@ -44,14 +43,14 @@ Il ne faut pas que le soleil luise du haut de la voûte céleste autrement qu’
 
 Telle a été la coutume dans notre race et notre famille ; le fils reçoit la couronne du père et la justice et la bonté ont régné sous eux dans le monde et non le moins en secret qu’en public.
 
-J’ai établi pour toute la terre, pour les besoins du trône et de la cou-. renne, un impôt sur les arbres et une capitation, et quand on vous aura apporté cette lettre, puisse Ormuzd vous être propice !
+J’ai établi pour toute la terre, pour les besoins du trône et de la cou-. renne, un impôt sur les arbres et une capitation et quand on vous aura apporté cette lettre, puisse Ormuzd vous être propice !
 
 Je jure par Dieu, qui m’a donné le diadème et la majesté royale, que, si l’un de vous demande un seul dirhem de trop, s’il commet pendant un seul instant une injustice, je le ferai scier en deux et c’est ainsi que la ven-
 ’geanca du Créateur atteindra celui qui aura fait
 
 Porter fruit à la semence du mal.
 
-Tenez devant vos yeux cette règle et cettelettre et ne déviez pas de la loi et de la foi qui portent bonheur.
+Tenez devant vos yeux cette règle et cette lettre et ne déviez pas de la loi et de la foi qui portent bonheur.
 
 Demandez tous les quatre mois une partie de ces impôts selon la justice et de manière à vous faire bénir.
 
@@ -64,7 +63,7 @@ Donnez de mon trésor tout’ce qu’il faudra, grâce à Dieu je n’en ai pas 
 
 Et si celui qui en est chargé néglige cette besogne diffi-cile, je le ferai suspendre tout vivant au gibet, à l’endroit où il se trouvera, que ce soit un homme puissant ou un humble sujet.
 
-Les hommes puissants qui autrefois étaient rois l avaient en cela d’autres manières ; le bien et le mal étaient entre les mains des employés, le monde était foulé par les chevaux des cavaliers ; ils bravaient follement la raison et ne cessaient d’augmenter leurs trésors.
+Les hommes puissants qui autrefois étaient rois avaient en cela d’autres manières ; le bien et le mal étaient entre les mains des employés, le monde était foulé par les chevaux des cavaliers ; ils bravaient follement la raison et ne cessaient d’augmenter leurs trésors.
 
 La justice est mon trésor ; le peuple est mon armée et l’or n’attire pas mes regards. l’aime mieux acquérir l’amour du monde par ma justice et récompenser le mérite des hommes bien nés, que combattre même les malveilrrlanls qui cherchent à s’emparer de mes provinces et de mon trône.
 
@@ -76,15 +75,14 @@ Je n’aime pas ceux qui manquent de justice, car il n’y a pas de différence 
 
 Je n’ai point besoin de richesses qui vous font maudire et perdent les âmes.
 
-Quand on vit de la chair des pauvres, on dévore sans doute encore leur peau et mieux vaut un léopard qu’un 
-tu
+Quand on vit de la chair des pauvres, on dévore sans doute encore leur peau et mieux vaut un léopard qu’un tu
 pareil roi, qui n’a pas de honte et n’observe pas les règles de la foi.
 
 La porte de la droiture est ouverte devant nous, pourquoi frapper à celle de la perdition ?
 
 Faire en secret le mal et rendre justice en public pour en avoir la réputation auprès de moi, ne trouve pas d’approbation devant Dieu et ne sera pas un titre d’honneur à cette cour.
 
-Dieu et moi approuverons ceux dont le cœur a pour trame la justice et pour chaîne la tendresse.»
+Dieu et moi approuverons ceux dont le cœur a pour trame la justice et pour chaîne la tendresse. »
 
 0 roi !
 
