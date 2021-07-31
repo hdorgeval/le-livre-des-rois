@@ -25,10 +25,10 @@ rent.
 
 Un messager des espions arriva en courant au-près du roi du monde et lui dit quele Kaïsar envoyait une armée composée de ses plus illustres guerriers, tous avides de combats comme des loups, commandés par un farouche Pehlewan dont le nom roumi était Farfourius, un cavalier portant haut la tête et précédé de clairons et de timbales.
 
-A peine eut-on dit cela au roi vigilant que la poussière que soulevait cette armée parut au loin ; le roi du monde sourit des paroles du messager et lui dit :
+À peine eut-on dit cela au roi vigilant que la poussière que soulevait cette armée parut au loin ; le roi du monde sourit des paroles du messager et lui dit :
 
 > Nous le savions et nous avons déjà fait nos préparatifs pour la bataille ; nous n’avons jamais été sans y pen-
-5er.»
+5er. »
 
 Le roi amena de la salive à ses lèvres (se mit à parler) et ordonna de former les rangs ; les deux KESl’t armées se rapprochèrent et la poussière ne laissa plus passer le vent.
 
@@ -51,11 +51,11 @@ Le roi observa la ville, ses troupes y entrèrent plus nombreusees à chaque ins
 
 Lorsque le soleil brillant commença à pâlir et que la moitié du ciel fut devenue sombre, il ne restait plus beau-coup du mur de la forteresse et toute la ville était à ras de terre.
 
-On lit alors une proclamation du haut de la porte du roi :
+On fit alors une proclamation du haut de la porte du roi :
 
 > Ô hommes illustres de l’armée d’Iran !
 >
-> Sortez tous de cette ville, revenez à la nuit dans larplaine et si pendant la nuit sombre mes oreilles sont frappées d’un cri de femme ou de vieillard, d’un bruit de pillage, de meurtre et de coups donnés et reçus, si une seule voix plaintive s’élève, vous verrez à l’instant écorché l’homme qui sera la cause de ces cris de secours et sa peau remplie de Lporsaquielelseole.il»tira s\*on épée dans le Cancer, effaçant la rouille du monde et dissipant le sommeil et que le son des tambours se fit entendre à la porte du roi, les notables se mirent en route, les femmes et les hommes de ce château et de cette ville se réunirent à la porte de Kesra, disant :
+> Sortez tous de cette ville, revenez à la nuit dans la plaine et si pendant la nuit sombre mes oreilles sont frappées d’un cri de femme ou de vieillard, d’un bruit de pillage, de meurtre et de coups donnés et reçus, si une seule voix plaintive s’élève, vous verrez à l’instant écorché l’homme qui sera la cause de ces cris de secours et sa peau remplie de Lporsaquielelseole.il»tira s\*on épée dans le Cancer, effaçant la rouille du monde et dissipant le sommeil et que le son des tambours se fit entendre à la porte du roi, les notables se mirent en route, les femmes et les hommes de ce château et de cette ville se réunirent à la porte de Kesra, disant :
 
 > Il ne reste pas un seul cavalier de nos hommes de guerre, il ne reste pas un homme illustre de notre ville ; ils sont tous tués ou blessés sans avoir commis de faute.
 >
@@ -63,9 +63,9 @@ On lit alors une proclamation du haut de la porte du roi :
 >
 > Le château et la ville sont dans un état tel qu’on n’y verra dorénavant que des ronces.
 >
-> Si leKaïsar est en faute, pourquoi le serions- nous ?
+> Si leKaïsar est en faute, pourquoi le serions-nous ?
 >
-> Qu’a-t-on à reprocher à nous, gens de Kalinius?»
+> Qu’a-t-on à reprocher à nous, gens de Kalinius ? »
 
 Le roi pardonna à ces Roumis et les coupables échappèrent avec les innocents ; il leur laissa beaucoup de richesses et continua en toute hâte sa marche ; mais il emmena tous les hommes en état de porter des armes, enchaînés et placés sur des éléphants. ’ .
 On apprit à Anthakia (Antioche) que le roi arrivait avec des éléphants et une armée ; il y avait dans cette ville une innombrable armée de Roumis vaillants et fiers ; le roi s’arrêta pendant trois jours pour leur laisser le temps de se soumettre, mais le quatrième jour les corps de l’armée des braves de l’Iran s’avancèrent l’un après l’autre.
