@@ -22,7 +22,7 @@ Lorsque l’armée, à son retour, souleva la poussière de la route, le guetteu
 
 Il regarda à la distance de deux milles, espérant apercevoir la couronne de Thalhend et son éléphant, et, ne le voyant pas au milieu de cette armée, il dépêcha de son poste un.cavalier et fit dire à la reine :
 
-> Une armée composée de Gau et de la foule de ses partisans a passé au pied de la montagne ; mais ni Thalhend ni son éléphant et son drapeau, ni ses grands aux bottines d’or n’ont paru.»
+> Une armée composée de Gau et de la foule de ses partisans a passé au pied de la montagne ; mais ni Thalhend ni son éléphant et son drapeau, ni ses grands aux bottines d’or n’ont paru. »
 
 Alors le sang de la mère tomba en torrents de ses cils et elle frappa sa tête à plusieurs reprises contre le mur.
 
@@ -38,36 +38,40 @@ Lorsque Gau eut des nouvelles de sa mère, il lança son destrier rapide, arriva
 >
 > Nous somma innocents de ce combat.
 >
-> Ni moi ni mes amis ne l’avons tué ; aucun des héros de mon armée ne croyait qu’il était permis de lancer contre lui un souille hostile.
+> Ni moi ni mes amis ne l’avons tué ; aucun des héros de mon armée ne croyait qu’il était permis de lancer contre lui un souffle hostile.
 >
-> C’est la rotation d’une mauvaise étoile qui l’a tué.»
+> C’est la rotation d’une mauvaise étoile qui l’a tué. »
 
 Le mère lui répondit :
 
 > Ô toi qui as fait le mal !
 >
-> Le ciel sublime te punira ; tu as mis à mort ton frère pour la couronne et le trône, et aucun homme au cœur pur ne t’appellera fortuné.»
+> Le ciel sublime te punira ; tu as mis à mort ton frère pour la couronne et le trône et aucun homme au cœur pur ne t’appellera fortuné. »
 
 Il dit :
 
 > Ô ma tendre mère !
+>
+> Il ne faut pas que tu penses mal de moi.
+>
+> Calme-toi pour que je t’explique le champ de bataille et ce qu’y ont fait les rois et les armées.
+>
+> Qui est-ce qui aurait osé s’approcher de lui pour le combattre et qui aurait seulement pensé à lui faire une querelle ?
+>
+> Je jure par le Dispensateur de la justice, qui a créé la lune et le soleil, qui a créé le jour, la nuit et le ciel tourne, que dorénavant je ne regarderai ni le sceau, ni le trône, ni mon cheval, ni ma massue, ni mon épée et mon casque, avant d’avoir rendu tout cela clair pour toi et rendu sa douceur à ton cœur aigri, en faisant voir à ton esprit lucide que la main de personne n’a causé sa mort.
+>
+> Qui, dans le monde, peut échapper à la mort, même en abritant sa vie sous un casque d’acierîQuand ce flambeau s’éteint, on meurt et personne ne peut prolonger sa vie d’une seule respiration.
+>
+> Si tu not’apaises pas quand je t’aurai démontré ce que je dis, je jure par Dieu le tout juste, le tout-puissant, que je brûlerai mon corps dans le feu et réjouirai l’âme de mes ennemis. »
 
-Il ne faut pas que tu penses mal de moi.
+À ces paroles de Gau, sa mère eut pitié de cette haute taille de son fils et de ce qu’un si vaillant jeune homme brûlerait ce corps que l’âme n’avait pas encore en le temps d’user ; elle lui répondit :
 
-Calme-toi pour que je t’explique le champ de bataille et ce qu’y ont fait les rois et les armées.
+> Montre-moi comment Thalhend est mort sur son éléphant ; si tu ne peux pas me rendre cela clair, mon âme pleine de tendresse sera consumée par le feu de la douleur. »
 
-Qui est-ce qui aurait osé s’approcher de lui pour le combattre et qui aurait seulement pensé à lui faire une querelle ?
-
-Je jure tr par le Dispensateur de la justice, qui a créé la lune et le soleil, qui a créé le jour, la nuit et le ciel tourne, que dorénavant je ne regarderai ni le sceau, ni le trône, ni mon cheval, ni ma massue, ni mon épée et mon casque, avant d’avoir rendu tout cela clair pour toi et rendu sa douceur à ton cœur aigri, en faisant voir à ton esprit lucide que la main de personne n’a causé sa mort.
-
-Qui, dans le monde, peut échapper à la mort, même en abritant sa vie sous un casque d’acierîQuand ce flambeau s’éteint, on meurt et personne ne peut prolonger sa vie d’une seule respiration.
-
-Si tu not’apaises pas quand je t’aurai démontré ce que je dis, je jure par Dieu le toutjuste, le tout-puissant, que je brûlerai mon corps dans le feu et réjouirai l’âme de mes enne’misun À ces paroles de Gau, sa mère eut pitié de cette haute taille de son fils et de ce qu’un si vaillant jeune homme brûlerait ce corps que l’âme n’avait pas encore en le temps d’user ; elle lui répondit :
-
-> Montre- moi comment Thalhend est mort sur son éléphant ; si tu. ne peux pas me rendre cela clair, mon âme pleine de tendresse sera consumée par le feu de la douleur. a Gau rentra dans son palais, rempli de chagrin ; il appela son précepteur qui connaissait le monde et lui raconta ce qui lui était arrivé avec sa mère et comment elle l’avait agité jusqu’à lui donner envie de se brûler.
+Gau rentra dans son palais, rempli de chagrin ; il appela son précepteur qui connaissait le monde et lui raconta ce qui lui était arrivé avec sa mère et comment elle l’avait agité jusqu’à lui donner envie de se brûler.
 
 Ils s’assirent pour tenir conseil, eux deux, Gau et le précepteur, sans admettre d’autre, personne et le précepteur bienveillant dit à Gau :
 
 > Nous n’arriverons pas facilement à ce que nous désirons.
 >
-> Appelons les jeunes et les vieux de partout où il y a un homme illustre par sa saga-cité ; appelons du Kachmir, de Denber, de Margli et de Mai des hommes ingénieux et studieux et parlons du fleuve, du fossé et du champ de bataille à ceux qui cherchent la vraie voie.»
+> Appelons les jeunes et les vieux de partout où il y a un homme illustre par sa saga-cité ; appelons du Kachmir, de Denber, de Margli et de Mai des hommes ingénieux et studieux et parlons du fleuve, du fossé et du champ de bataille à ceux qui cherchent la vraie voie. »
