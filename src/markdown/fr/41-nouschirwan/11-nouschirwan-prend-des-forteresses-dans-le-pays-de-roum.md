@@ -24,11 +24,13 @@ L’armée entoura la forteresse, mais on ne voyait aucun moyen d’approcher de
 
 Le roi planta sur les quatre fronts des catapultes et le mur des chrétiens s’écroule.
 
-De tous les coins du château s’éleva une grande commotion ; ces hommes ne trouvaient aucune issue pour s’enfuir, et lorsque le soleil brillant quitta lakvoûte du ciel, le mur du château était à bas comme la plaine ; les cris des cavaliers et la poussière que soulevait l’armée, la fumée et le feu montaient jusqu’à la lune.
+De tous les coins du château s’éleva une grande commotion ; ces hommes ne trouvaient aucune issue pour s’enfuir et lorsque le soleil brillant quitta la voûte du ciel, le mur du château était à bas comme la plaine ; les cris des cavaliers et la poussière que soulevait l’armée, la fumée et le feu montaient jusqu’à la lune.
 
 Partout dans la ville on voyait des têtes et des pieds sans corps et les corps sans tête étaient en d’autres lieux ; les cris pour demander grâce et les lamentations des femmes dominaient le bruit des tambours.
 
-On lia et plaça sur des éléphants tous-les hommes l riches, tous ceux qui se distinguaient par leur bravoure et leurs trésors et l’on entendit leurs cris et leurs demandes de grâce ; mais le roi ne l’accorde à personne ni pendant le combat ni pour des trésors et de l’or au moment du festin.
+On lia et plaça sur des éléphants tous-les hommes !
+
+Riches, tous ceux qui se distinguaient par leur bravoure et leurs trésors et l’on entendit leurs cris et leurs demandes de grâce ; mais le roi ne l’accorde à personne ni pendant le combat ni pour des trésors et de l’or au moment du festin.
 
 Il continua de la sa marche avec l’armée èt l’on vit sur la route un autre château qui contenait le trésor du Kaïsar et était sous la garde d’un homme puissant ; la ville était appelée Araïschi Roum (l’ornement du Roum) ; mais Kesra lui préparait une mau-vaise fin.
 
@@ -45,7 +47,6 @@ rent et s’approchèrent du puissant roi, se lamentant, demandant grâce et dis
 >
 > Nous te demandons grâce de la vie ; nous adorons i5.
 >
-> i
-la majesté de ton diadème.»
+> i la majesté de ton diadème. »
 
 Le roi lit cesser le massacre et leur distribua de grandes richesses.
