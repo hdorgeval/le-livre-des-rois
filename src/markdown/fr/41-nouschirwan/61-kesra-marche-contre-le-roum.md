@@ -33,8 +33,10 @@ Ainsi se passa un long temps et l’armée commença à manquer d’or et d’ar
 Le roi fit venir les payeurs des troupes et leur parla longuement de cette guerre, disant :
 
 > Cette affaire est bien fatigante, car nous ne pouvons pas traverser l’eau et le fossé ;
+>
+> MA l’armée a besoin d’argent et de matériel, de chevaux, de cuirasses et de casques roumis. »
 
-MA l’armée a besoin d’argent et de matériel, de chevaux, de cuirasses et de casques roumis.n Les payeurs, les scribes et le Destour du roi du monde se rendirent au trésor et trouvèrent que. considérant le nombre des troupes du roi, il fallait trois cent mille dinars de plus qu’il n’y en avait ; Le Grand Mobed courut chez le roi, rapidement comme la poussière et lui dit ce qu’il y arait d’argent au trésor.
+Les payeurs, les scribes et le Destour du roi du monde se rendirent au trésor et trouvèrent que. considérant le nombre des troupes du roi, il fallait trois cent mille dinars de plus qu’il n’y en avait ; Le Grand Mobed courut chez le roi, rapidement comme la poussière et lui dit ce qu’il y arait d’argent au trésor.
 
 Le visage du roi se rembrunit :
 
@@ -42,19 +44,19 @@ Le visage du roi se rembrunit :
 
 > Si mes caisses sont vides, à quoi me sert le titre de roi des rois ?
 >
-> Va et appelle le chef des chameliers ; emmène des chameaux bactriens et prends dans le trésor du Mazenderan cent charges d’or ou encore davantage.»
+> Va et appelle le chef des chameliers ; emmène des chameaux bactriens et prends dans le trésor du Mazenderan cent charges d’or ou encore davantage. »
 
 Buzurdjmihr répondit :
 
 > Ô roi plein de justice, de raison et de bonté !
 >
-> La route jusqu’au trésor dans l’Iran est longue et ta main est vide et ton armée ne peut pas agir ; mais ily a dans les villes autour de nous des gens qui ont des richesses dont le centième suffirait à l’armée et si tu veux emprunter de l’argent aux marchands et aux propriétaires de terres, ils ne le refuserontpas.»
+> La route jusqu’au trésor dans l’Iran est longue et ta main est vide et ton armée ne peut pas agir ; mais ily a dans les villes autour de nous des gens qui ont des richesses dont le centième suffirait à l’armée et si tu veux emprunter de l’argent aux marchands et aux propriétaires de terres, ils ne le refuseront pas. »
 
 Le roi consentit à ce que lui proposait le sage de l’Iran et Buzurdjmihr chercha un homme qu’il pourrait envoyer, intelligent, de bonne humeur cl de belle mine.
 
 Il lui dit :
 
-> Pars d’ici à cheval, avec deux chevaux de rechange et choisis parmi les marchands et les Dihkans de la ville un homme de 5 bonne renommée, jeune et que tout le monde connaisse : demande-lui de prêter cette somme pour l’armée ; le roi la lui fera rendre avec l’argent qu’il s’empressera de faire venir de son trésor.»
+> Pars d’ici à cheval, avec deux chevaux de rechange et choisis parmi les marchands et les Dihkans de la ville un homme de 5 bonne renommée, jeune et que tout le monde connaisse : demande-lui de prêter cette somme pour l’armée ; le roi la lui fera rendre avec l’argent qu’il s’empressera de faire venir de son trésor. »
 
 Le messager, qui avait la parole douce et était jeune d’années et vieux de sagesse, partit ; c’était un agent d’un esprit subtil.
 
@@ -64,11 +66,11 @@ Une foule de gens riches se rassemblèrent autour de lui ; parmi eux un cordonni
 
 Le vaillant messager mentionna la somme, disant :
 
-> Ô homme riche et intelà ligentl il faut quarante fois cent mille dirhems.»
+> Ô homme riche et intelà ligentl il faut quarante fois cent mille dirhems. »
 
 Le cordonnier dit :
 
-> Je les donnerai ; je veux gagner les bonnes grâces du trésorier.»
+> Je les donnerai ; je veux gagner les bonnes grâces du trésorier. »
 
 Il apporta des balances, des poids et l’argent et l’on n’eut pas besoin de bordereau et de reseau à écrire.
 
@@ -80,7 +82,7 @@ Veux-tu prendre la peine de dire à Buzurdjmihr que j’ai dans le monde un fils
 
 > Je le .
 >
-> ’lllô LE LIVRE DES ItOlS. ferai volontiers, car tu m’as épargné beaucoup de chemin avec ton trésor.»
+> ’lllô DES ItOlS. ferai volontiers, car tu m’as épargné beaucoup de chemin avec ton trésor. »
 
 .
 Buzurdjmihr se présenta devant le roi, qui fut joyeux d’avoir obtenu l’argent et dit :
@@ -119,12 +121,12 @@ S’il plaisait au roi de faire de mon fils chéri un de ses scribes, je prierai
 >
 > Un fils de marchand, si habile, si savant, si attentif qu’il soit, deviendrait scribe !
 >
-> Quand mon fils s’assiéra sur le trône, il lui faudra un scribe à la fortune victorieuse et si ce bottier avait du talent, le roi ne verrait que par ses yeux, en’entendrait que par ses oreilles et il ne resterait aux gens intelligents de haute naissance que du chagrin et des soupirs ; les hommes qui connaissent le mieux le monde seraient traités avec mépris par ce fils de marchand et devraient le remerciers’il leur répondait sans les faire attendre !
+> Quand mon fils s’assiéra sur le trône, il lui faudra un scribe à la fortune victorieuse et si ce bottier avait du talent, le roi ne verrait que par ses yeux, en entendrait que par ses oreilles et il ne resterait aux gens intelligents de haute naissance que du chagrin et des soupirs ; les hommes qui connaissent le mieux le monde seraient traités avec mépris par ce fils de marchand et devraient le remerciers’il leur répondait sans les faire attendre !
 >
 > On me maudirait après ma mort, si, de mon temps, une telle coutume s’introduisait.
 >
 > Je ne veux pas payer la solde avec ce trésor ; ne demande pas d’argent à cet homme et ne parle pas de nos difficultés.
 >
-> Fais à l’instant repartir les chameaüx, demande de l’argent, mais non pas aux cordonniers.»
+> Fais à l’instant repartir les chameaüx, demande de l’argent, mais non pas aux cordonniers. »
 
 Le messager repartit avec l’argent et le cœur du cordonnier en fut rempli de douleur.
