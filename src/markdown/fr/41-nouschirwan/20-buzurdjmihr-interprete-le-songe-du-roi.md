@@ -24,7 +24,7 @@ L’envoyé entra avant le jeune homme, se présenta à l’instant devant le tr
 >
 > En quittant la cour je suis allé à Merv, couinant comme un francolin dans un jardin de roses.
 >
-> J’ai trouvé parmi les savants un jeune homme;je l’ai emmené et me suis hâté de revenir.»
+> J’ai trouvé parmi les savants un jeune homme;je l’ai emmené et me suis hâté de revenir. »
 
 Puis, il raconta ce qu’il avait entendu de sa’bouche et le prodige du serpent noir qu’il avait’observé.
 
@@ -32,11 +32,13 @@ Kesra, le maître du monde, fit appeler Buzurdjmihr et lui parla longuement de s
 
 Le jeune homme écouta Nouschirwan, sa tête se remplit de paroles, sa langue devint éloquente et il répondit :
 
-> Dans ton palais et parmi les idoles de l’appartement de les femmes, il y a un jeune homme qui s’est dé- l guisé en adoptant des vêtements de femme.
+> Dans ton palais et parmi les idoles de l’appartement de les femmes, il y a un jeune homme qui s’est dé- !
+>
+> Guisé en adoptant des vêtements de femme.
 >
 > Fais partir de cette salle tous les étrangers pour qu’ils n’apprennent pas ce que nous voulons faire.
 >
-> Ordonne à tes femmes de passer devant toi, en comptant les pas qu’elles fontsur le sol et nous demanderons à cet intrus hardi comment il est arrivé jusqu’à la couche du lion.»
+> Ordonne à tes femmes de passer devant toi, en comptant les pas qu’elles font sur le sol et nous demanderons à cet intrus hardi comment il est arrivé jusqu’à la couche du lion. »
 
 Le roi renvoya de la salle d’audience toits les étrangers et fit fermer la porte du palais impérial.
 
@@ -46,11 +48,11 @@ L’interprète des songes dit :
 
 > Cela ne devrait pas cette ; mais il y a un jeune homme parmi ces femmes et si tuas bien vu ton songe, ô roi, il faut de toutes manières en trouver l’interprétation.
 >
-> Fais-les repasser encore une fois le visage découvert et pénètre au fond de leur ruse.»
+> Fais-les repasser encore une fois le visage découvert et pénètre au fond de leur ruse. »
 
 Le roi ordonna à l’eunuque de ramener à l’instant toutes ces idoles, à qui il dit :
 
-> Il faut passer de nouveau et montrer vos visages sans le voile de la pudeur.»
+> Il faut passer de nouveau et montrer vos visages sans le voile de la pudeur. »
 
 Elles passèrent donc encore une fois devant lui et toutes reconnurent la sagacité de l’interprète du songe, car il parut au milieu d’elles un jeune homme ayant la taille d’un cyprès et le visage d’un Keïanide ; son corps tremblait comme un saule et son cœur désespérait de la douce vie.
 
@@ -64,7 +66,7 @@ La femme dit :
 >
 > Nous avons des pères différents, mais la même mère et il ne se passe rien de mal entre nous.
 >
-> Il a pris ce vêtement parce que, par respect pour le roi, il n’ose pas le regarder en face.»
+> Il a pris ce vêtement parce que, par respect pour le roi, il n’ose pas le regarder en face. »
 
 C’est ainsi que s’excusait cette fille au visage de lune, dans sa terreur d’un roi amoureux.
 
@@ -74,13 +76,13 @@ N ouschirwan fronça les sourcils ; il était confus de ce qu’avaient fait ces
 
 Sa colère éclata et il dit à l’exécuteur des hautes œuvres :
 
-> Il faut que la terre recouvre ces deux coupables.»
+> Il faut que la terre recouvre ces deux coupables. »
 
 Le bourreau les traîna dehors, derrière le rideau de l’appartement des femmes du roi et les pendit dans cet appartement pour que d’autres ne commissent pas de péché.
 
 Nouschirwan donna à l’interprète du songe une
 
-- caisse remplie d’or et des chevaux et des vêtements à souhait.
+-caisse remplie d’or et des chevaux et des vêtements à souhait.
 
 Il était étonné de son savoir et ses paroles le faisaient réfléchir.
 
