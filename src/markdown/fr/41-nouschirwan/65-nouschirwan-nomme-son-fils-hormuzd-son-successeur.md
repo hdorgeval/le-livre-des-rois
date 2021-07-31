@@ -28,7 +28,7 @@ O toi, vieillard décrépit, qui ne veux pas te convertir, choisis la soie de la
 
 Le monde était frais quand tu as saisi la coupe et tu as détourné ton esprit à la porte du repentir ; tourne-toi vers elle, si tu as du sens, car l’homme pieux suit toujours la bonne voie.
 
-Il ne te reste pas beaucoup de temps de la vieillesse, ni beaucoup d’étés, d’automnes et de printemps ; réfléchis donc où cette âme précieuse ira quand ton corps aura trouvé sa place dans la Voici ce que dit un vieillard éloquent en parlant terre. , des dernières volontés de Nouschirwan.
+Il ne te reste pas beaucoup de temps de la vieillesse, ni beaucoup d’étés, d’automnes et de printemps ; réfléchis donc où cette âme précieuse ira quand ton corps aura trouvé sa place dans la Voici ce que dit un vieillard éloquent en parlant terre., des dernières volontés de Nouschirwan.
 
 Lorsque Hormuzd eut cessé de parler, le Mobed prononça de nouveau un discours.
 
@@ -38,13 +38,13 @@ Le scribe et ils écrivirent sur du satin une lettre dans laquelle Nouschirwan s
 
 Après avoir parlé de Dieu, il dit :
 
-> Voici lesconseils du fils de Kobad.
+> Voici les conseils du fils de Kobad.
 >
-> Sache, ô mon enfant, que le monde est perfide, plein de fatigues et de douleurs , de peines et de maux.
+> Sache, ô mon enfant, que le monde est perfide, plein de fatigues et de douleurs, de peines et de maux.
 >
 > Il verse le sang de tous ceux qu’il élève, aussi le sage s’abstient desœuvres du monde.
 >
-> Si content que tu sois de lui, si libre que ton cœur soit des soucis du sort, toute cette joie ne durera pas et il faudra quitter cettedemeure passagère.
+> Si content que tu sois de lui, si libre que ton cœur soit des soucis du sort, toute cette joie ne durera pas et il faudra quitter cette demeure passagère.
 >
 > Je te transmets le monde selon la justice et tu seras obligé de le rendre de même à un autre.
 >
@@ -56,7 +56,7 @@ Après avoir parlé de Dieu, il dit :
 >
 > Kobad avait dépassé quatre-vingts ans lorsqu’il me parla du trône ; j’en ai atteint soixante et quatorze et je te nomme roi du monde.
 >
-> Je ne cherche en cela que le repos de mon âme et le bien public, pour que je sois béniaprès ma mort.
+> Je ne cherche en cela que le repos de mon âme et le bien public, pour que je sois béni après ma mort.
 >
 > J’espère que Dieu le créateur t’accordera le bonheur ce et la prospérité.
 >
@@ -78,14 +78,13 @@ Après avoir parlé de Dieu, il dit :
 >
 > Si tu rends le monde prospère par ta justice, ton trésor prospérera et ton trône sera le siège du bonheur.
 >
-> Quand quelqu’un fait le bien, récompense-le de manière qu’il oublie la peine que’lui a coûté le bien.
+> Quand quelqu’un fait le bien, récompense-le de manière qu’il oublie la peine que lui a coûté le bien.
 >
 > Contente les hommes de mérite et retiens-les auprès de toi ; rends le monde noir pour les malveillants.
 >
 > Délibère sur tout avec un homme sage ; ne te plains pas des fatigues qu’impose la royauté-Aussi longtemps que
 >
-> 
-w les hommes intelligents auront accès auprès de toi, ton trône, ton trésor et ton armée te resteront.
+> w les hommes intelligents auront accès auprès de toi, ton trône, ton trésor et ton armée te resteront.
 >
 > Ne laisse croupir dans la misère aucun de les su-jets et fais participer à tes bontés les grands et les nobles du pays ; mais refuse les grâces à tout être ignoble et ne confie aucune affaire à un homme injuste.
 >
@@ -103,13 +102,15 @@ w les hommes intelligents auront accès auprès de toi, ton trône, ton trésor 
 >
 > Que ta tête reste jeune et ton cœur heureux, que ton corps reste pur et que tes ennemis ne puissent pas te faire du mal !
 >
-> Que la raison soit toujours ton gardien, que tu sois toujours disposé à croire au bien l Quand je partirai de ce vaste monde, il faut me construire un beau tombeau, dans un lieu solitaire, où les hommes ne passent pas et au-dessus duquel les vautours aux ailes rapides ne volent pas. il 5»
+> Que la raison soit toujours ton gardien, que tu sois toujours disposé à croire au bien !
+>
+> Quand je partirai de ce vaste monde, il faut me construire un beau tombeau, dans un lieu solitaire, où les hommes ne passent pas et au-dessus duquel les vautours aux ailes rapides ne volent pas. il 5»
 
 Aura une porte inaccessible dans la voûte de la chambre sépulcrale, qui s’élèvera à la hauteur de dix lacets.
 
-Dans cette chambre ou représentera ma cour, mes grands et ma vaillante armée ; on y éten- dru de nombreux tapis de toute espèce, on emploiera des couleurs et des parfums et tout ce qui doit être répandu sur la sol.
+Dans cette chambre ou représentera ma cour, mes grands et ma vaillante armée ; on y étendru de nombreux tapis de toute espèce, on emploiera des couleurs et des parfums et tout ce qui doit être répandu sur la sol.
 
-Vous embaumerez le corps avec du camphre, vous placerez sur la tête une cou- renne de musc, vous apporterez du trésor cinq robes intactes en brocart d’or, qui n’aient jamais servi. et vous m’en revêtirez selon la manière des Keïanides et la coutume des rois Sassanides.
+Vous embaumerez le corps avec du camphre, vous placerez sur la tête une courenne de musc, vous apporterez du trésor cinq robes intactes en brocart d’or, qui n’aient jamais servi et vous m’en revêtirez selon la manière des Keïanides et la coutume des rois Sassanides.
 
 Vous y placerez de même un trône d’ivoire, au-dessus duquel vous suspendrez ma couronne.
 
@@ -122,7 +123,9 @@ Mes enfants et ceux de ma noble famille, tous ceux à qui . ma mort fera de la p
 
 Hommes purs pleureront en voyant cette lettre royale.
 
-Ne désobéissez jamais à Hormuzd, ne respirez que selon sa volonté ln Tous versèrent beaucoup de larmes sur cette lettre.
+Ne désobéissez jamais à Hormuzd, ne respirez que selon sa volonté ! »
+
+Tous versèrent beaucoup de larmes sur cette lettre.
 
 Kesra survécut d’une année à la désignation de son fils, puis il mourut et mes paroles restent comme souvenir de lui ; et toi respecte ce souvenir.
 
