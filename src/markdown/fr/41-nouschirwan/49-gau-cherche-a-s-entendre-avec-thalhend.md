@@ -18,7 +18,7 @@ order: '049'
 
 Gau regarda ce champ de bataille, il vit l’air strié comme le dos d’un vaillant léopard, toutes les bouches remplies de poussière, toute la plaine couverte de sang et les lances montrant le chemin au milieu de la poussière.
 
-Son âme brûlait de pour Thalhend et sa raison ferma la bouche à sa passion.
+Son âme brûlait de peur Thalhend et sa raison ferma la bouche à sa passion.
 
 Il choisit un homme-éloquent, le premier parmi les grands qui l’entouraient et lui dit :
 
@@ -26,7 +26,7 @@ Il choisit un homme-éloquent, le premier parmi les grands qui l’entouraient e
 
 > Ne cherche pas une lutte in : juste contre ton frère.
 
-Tu serais responsable de tout le sang qu’on verserait dans ce combat ; ouvre ton oreille aux conseils de Gau, ne te laisse pas égarer par les paroles des méchants, car il ne faut pas que cette lutte laisse dans le monde un blâme comme souvenir de nous et que le pays de l’Indedevienne par elle un désert, un repaire de léopards et de lions.
+Tu serais responsable de tout le sang qu’on verserait dans ce combat ; ouvre ton oreille aux conseils de Gau, ne te laisse pas égarer par les paroles des méchants, car il ne faut pas que cette lutte laisse dans le monde un blâme comme souvenir de nous et que le pays de l’Inde devienne par elle un désert, un repaire de léopards et de lions.
 
 Renonce à ce combat et à ces attaques, renonce à verser injustement du sang, réjouis mon cœur par la paix, décharge ton cou du poids que
 
@@ -40,7 +40,7 @@ Mais si tu préfères le combat et l’injustice, si tu disperses le troupeau qu
 
 Grains le maître du soleil et de la lune, car tu t’es certainement égaré sur cette route ténébreuse.
 
-Ne te laisse pas aller à l’iniquité, ô mon frère, car l’injustice ne peut pas tenir devant la justiceun Le messager se rendit auprès de Thalhend, porteur du message et des conseils du prince, mais Thalhend répondit :
+Ne te laisse pas aller à l’iniquité, ô mon frère, car l’injustice ne peut pas tenir devant la justice un Le messager se rendit auprès de Thalhend, porteur du message et des conseils du prince, mais Thalhend répondit :
 
 > Dis à Gau : Ne cherche pas ce tant d’excuses pour éviter le combat.
 >
@@ -52,7 +52,7 @@ Ne te laisse pas aller à l’iniquité, ô mon frère, car l’injustice ne peu
 >
 > Ensuite tu proposes que nous partagions laceuronne, ce pays glorieux et le trône d’ivoire ; mais le pouvoir, le trône et la royauté sont à moi ; tout, depuis le soleil jusqu’au dos du poisson sur lequel repose le monde, est à moi et j’aimerais mieux que mon âme quittât mon corps que de jeter un regard sur cette couronne et ce trône tant que tu prétendras être roi, me donner un pays et être mon ami.
 >
-> Maintenant que j’ai formé les rangs de mon armée et que l’air est devenu comme du brocart brodé d’or, il y aura tant de flèches, de javelots et de pointes de lances que Gau ne distinguera plus les étriers des rênes ; j’irai sur le champ de bataille faire tomber des têtes, je ferai pousser des cris de douleur à toute son armée, je mènerai mes troupes au combat de façon à décourager les plus vaillants léopards ; je vais emmener Gau, les mains liées ; ses armées verront la poussière de la défaite et aucun des prisonniers, jusqu’au prince, ne revêtira plus la cuirasse de combat.»
+> Maintenant que j’ai formé les rangs de mon armée et que l’air est devenu comme du brocart brodé d’or, il y aura tant de flèches, de javelots et de pointes de lances que Gau ne distinguera plus les étriers des rênes ; j’irai sur le champ de bataille faire tomber des têtes, je ferai pousser des cris de douleur à toute son armée, je mènerai mes troupes au combat de façon à décourager les plus vaillants léopards ; je vais emmener Gau, les mains liées ; ses armées verront la poussière de la défaite et aucun des prisonniers, jusqu’au prince, ne revêtira plus la cuirasse de combat. »
 
 Le messager intelligent écouta cette réponse et revint la rendre point pour point à Gau, qui à ces paroles, s’alIligea de voir que Thalhend était dépourvu de toute raison ; il appela, plein de soucis, son précepteur, lui parla longuement de cette réponse et lui dit :
 
@@ -60,10 +60,9 @@ Le messager intelligent écouta cette réponse et revint la rendre point pour po
 >
 > Toute la plaine est couverte de sang et de têtes sans corps, tous les esprits et tous les cœurs sont
 >
-> 
-en peine.
+> en peine.
 >
-> Il ne faut pas qu’à la fin cette lutte amène sur nous les malheurs du sort.»
+> Il ne faut pas qu’à la fin cette lutte amène sur nous les malheurs du sort. »
 
 Le sage lui dit :
 
@@ -73,7 +72,9 @@ Le sage lui dit :
 >
 > Envoie auprès de lui un homme de haut rang, sage et ayant la parole douce, avec un message qui pourrait le calmer dans cette querelle.
 >
-> Donne-lui tous les trésors dont tu a : hérité sans avoir la peine de les amasser, car il faut préférer à des trésors la vie d’un frère ; pourvu que tu gardes la couronne et l’anneau royal, ne te dispute pas avec lui pour l’or.
+> Donne-lui tous les trésors dont tu a :
+
+> hérité sans avoir la peine de les amasser, car il faut préférer à des trésors la vie d’un frère ; pourvu que tu gardes la couronne et l’anneau royal, ne te dispute pas avec lui pour l’or.
 >
 > J’ai observé la rotation du ciel et j’ai vu que sa vie se terminera promptement, car parmi les sept astres qui tournent dans le ciel, il n’y en avait pas un qui lui fût favorable.
 >
@@ -81,7 +82,7 @@ Le sage lui dit :
 >
 > Ne lui donne pas le sceau de la royauté, le trône et le diadème, pour qu’on ne t’appelle pas le roi lâche ; mais tout ce qu’il demandera de chevaux et de trésors, donne-le-lui pour que tu n’aies pas à te reprocher sa mort.
 >
-> Tu es le roi, les astres te sont favorables, tu es plus savant dans les voies du ciel.»
+> Tu es le roi, les astres te sont favorables, tu es plus savant dans les voies du ciel. »
 
 .
 
@@ -99,9 +100,9 @@ Le visage inondé de larmes, à cause de la peine que lui faisait son frère, il
 >
 > Si violent ce et si vaillant que tu sois, tu ne peux te soustraire à la rotation du ciel.
 >
-> Nous sommes partout entourés d’ennemis ; le monde est plein d’hommes malfaisants et si nous nous battons entre nous, je suis inquiet à cause du roi de Kacbmir, du Faghfour de la Chine, qui nous enserrent de tous les côtés, et des griffes des lions de l’Iran.
+> Nous sommes partout entourés d’ennemis ; le monde est plein d’hommes malfaisants et si nous nous battons entre nous, je suis inquiet à cause du roi de Kacbmir, du Faghfour de la Chine, qui nous enserrent de tous les côtés et des griffes des lions de l’Iran.
 >
-> De ces trois côtés nous serons traités avec mépris ; les grands, avides de combats, nous blâmeront ; ils diront : Pourquoi n Thalhend et Gau se livrent-ils des batailles pour le trône etla couronne ?
+> De ces trois côtés nous serons traités avec mépris ; les grands, avides de combats, nous blâmeront ; ils diront : Pourquoi n Thalhend et Gau se livrent-ils des batailles pour le trône et la couronne ?
 >
 > Ne sont-ils pas nés de la même famille, ne sont-ils pas de race pure par leurs pères ?
 >
@@ -110,10 +111,9 @@ ce nés par les discours d’un conseiller au mauvais cœur.
 >
 > Si tu veux quitter tes troupes et venir à moi, tu répandras la lumière sur mon âme assombrie ; je te donnerai de l’or, du brocart, des chevaux et des
 >
-> 
-trésors et ne veux pas te faire du chagrin ; tu recevras de ma main un pays, un sceau, une counonne, des bracelets et un trône d’ivoire ; il n’y a pas de honte pour toi d’accepter cela d’un frère aîné, qui n’a aucune envie de te combattre.
+> trésors et ne veux pas te faire du chagrin ; tu recevras de ma main un pays, un sceau, une counonne, des bracelets et un trône d’ivoire ; il n’y a pas de honte pour toi d’accepter cela d’un frère aîné, qui n’a aucune envie de te combattre.
 >
-> Mais si tu ne suis pas de point en point mes avis tu te repentiras à la fin de ce que tu fais.»
+> Mais si tu ne suis pas de point en point mes avis tu te repentiras à la fin de ce que tu fais. »
 
 Le messager se rendit, comme l’eau qui court, auprès de Thalhend à l’âme sombre ; il lui répéta les paroles de Gau et s’étendit sur la royauté, les trésors, l’or et les richesses qu’il promettoit.
 
@@ -123,7 +123,9 @@ Thalhend écouta ces discours pleins de raison et de prudence prévoyante ; mais
 >
 > Ta langue sera coupée par l’épée du malheur, ton corps sera brûlé dans le feu du Hirbed.
 >
-> J’ai écouté tous ces messages vains que tu m’envoies, mais je vois que ton intention n’est que l d’employer des ruses.
+> J’ai écouté tous ces messages vains que tu m’envoies, mais je vois que ton intention n’est que !
+>
+> D’employer des ruses.
 >
 > Comment me donnerais-tu un trésor et un royaume et qui es-tu donc parmi cette grande foule ?
 >
@@ -134,9 +136,9 @@ Thalhend écouta ces discours pleins de raison et de prudence prévoyante ; mais
 > Voici une armée occupant une ligne de deux milles sur le champ de bataille des n cavaliers .et des éléphants ; amène donc tes troupes ’
 ce et commence le combat ; tu es venu pour te battre, ce pourquoi tant tarder ?
 >
-> Je vais te montrer ma puiss et sance, qui est telle que les astres devront compter tr tes jours.
+> Je vais te montrer ma puiss et sance, qui est telle que les astres devront compter tes jours.
 >
-> Quand tu vois que l’abîme est devant toi, ce tu ne sais que ruser, tromper et user d’artifices ; tu ce ne sais pas réfléchir, tu es loin du trône et de la couronne et l’homme sage ne dira pas que la for- tune t’a favorisé.»
+> Quand tu vois que l’abîme est devant toi, ce tu ne sais que ruser, tromper et user d’artifices ; tu ce ne sais pas réfléchir, tu es loin du trône et de la couronne et l’homme sage ne dira pas que la fortune t’a favorisé. »
 
 Le messager revint la bouche pleine de soupirs et rapporta toutes les paroles du prince ; et c’est ainsi que les messages s’échangeaient de l’un à l’autre, jusqu’à ce que la nuit sombre montra sa face.
 
