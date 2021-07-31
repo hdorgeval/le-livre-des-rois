@@ -30,8 +30,7 @@ Depuis ce temps, l’intelligent Khakan recherchait l’amitié du roi ; il asse
 
 Au moment de commencer cette liaison avec Nouschirwan, il demanda conseil aux nobles et aux Mobeds, ensuite il prépara des cadeaux sans nombre, tous des souvenirs dignes d’un roi, des chevaux chinois, des brocarts de Chine, des trônes, des couronnes, des épées et des sceaux ; il réunit des curiosités telles qu’on les a en Chine, assez pour en charger cent chameaux.
 
-Il on donna à son trésorier d’apporter trente mille pièces Yl. 2A
-d’or chinoises pour une offrande au roi, de les joindre aux cadeaux et de charger de pièces d’argent dix chameaux.
+Il on donna à son trésorier d’apporter trente mille pièces Yl. 2A d’or chinoises pour une offrande au roi, de les joindre aux cadeaux et de charger de pièces d’argent dix chameaux.
 
 Puis, il choisit parmi les grands un homme éloquent et intelligent, qui avait fait le tour du monde, appela un scribe et fit écrire au roi une lettre sur du satin, contenant cent mille bénédictions et belle comme une peinture d’Ardjeng le Chinois.
 
@@ -43,7 +42,7 @@ Il dit à ces hommes pleins de fierté :
 
 > Les étoiles nous menacent d’un malheur ; si le roi d’Iran et le Khakan de la Chine s’entendent et deviennent amis de cœur, cette amitié est un sujet de terreur pour nous et notre pays sera dévasté des deux côtés.
 >
-> Il faut préparer une expédition et faire disparaître l’envoyé chinois.»
+> Il faut préparer une expédition et faire disparaître l’envoyé chinois. »
 
 Il choisit un homme notable dans l’armée, qui portait haut la tête et était vaillant comme il le fallait, livra au pillage toutes ces richesses, les chameaux et les chevaux parés et fit trancher la tête à 2A7 l’envoyé.
 
@@ -51,7 +50,7 @@ Un seul cavalier. chinois parmi tous ces braves put s’échapper.
 
 Lorsque le Khakan reçut cette nouvelle, son cœur fut rempli de douleur et sa tête du désir de la vengeance ; il fit partir son armée pour Kadjghar-Baschi et ne laissa pas un grand en Chine et dans le Khoten ; il ne laissa pas en repos et dans l’inaction un seul des descendants d’Ardjasp et d’Afrasiab ; tous partirent de Gulzarrioun, le cœur plein de colère, la tête remplie du désir de verser du sang.
 
-Le chef de l’armée du Khakan était Fundj, il faisait voler jusqu’au ciel la poussière de l’eau et ses cavaliers assouvirent leur rage dans le Djadj, de façon à coloror de sang l’eau du Gulzarrioun.
+Le chef de l’armée du Khakan était Fundj, il faisait voler jusqu’au ciel la poussière de l’eau et ses cavaliers assouvirent leur rage dans le Djadj, de façon à colorer de sang l’eau du Gulzarrioun.
 
 Ghatfer apprit ce que le Khakan de la Chine avait entrepris ; il choisit parmi les Heïtaliens une armée telle que le soleil devenait invisible dans le monde ; il fit venir des armes, des troupes et des trésors d’argent de Balkh, de Scheknan, d’Amouï, de Zem, de Khatlan, de Termed et de Wisehguerd ; son armée faisait lever la poussière de tous les côtés ; ses troupes sortaient des montagnes et des plaines, des’sables et des terres nues, comme des fourmis et des sauterelles.
 
@@ -73,7 +72,7 @@ Les gens de Kasclian et de Soghdse rassemblèrent, hommes, femmes et enfants, le
 
 Pendant sept jours ces armées ardentes pour la lutte restèrent en face l’une de l’aulre ; partout il y avait des monceaux de morts, le sang rougissait la terre et les pierres comme la [leur de .l’argliawan ; il y avait tant de coups de lances, de massues, de masses d’armes et d’épées, qu’on aurait dit qu’il pleuvait des pierres des nues ; la poussière cachait le soleil et remplissait l’œil de l’aigle dans son vol.
 
-Le huitième jour, la poussière se tournait du côté de Ghatfer ; le monde devint noir comme la nuit sombre et les Heïtaliens subirent une défaite lelleque pendant des années ils ne purent encrevenir ; tous ceux qui survivaient in- 2&9
+Le huitième jour, la poussière se tournait du côté de Ghatfer ; le monde devint noir comme la nuit sombre et les Heïtaliens subirent une défaite lelleque pendant des années ils ne purent encrevenir ; tous ceux qui survivaient in-2&9
 voquaient le nom de Dieu. partout il y avait des blessés dispersés,’ et le pays entier litait plein de morts et de captifs.
 
 L’un disait à l’autre :
@@ -86,12 +85,11 @@ L’un disait à l’autre :
 >
 > Sinon nous
 >
-> 
-choisirons dans la famille de Khouschnewaz un homme vaillant, portant haut la tête et agréable à Nouschirwan, qui seul pourra rajeunir notre vieil empire et à qui il racontera ce qu’a fait le Khakan de la Chine.
+> choisirons dans la famille de Khouschnewaz un homme vaillant, portant haut la tête et agréable à Nouschirwan, qui seul pourra rajeunir notre vieil empire et à qui il racontera ce qu’a fait le Khakan de la Chine.
 >
 > Le monde entier bénit Kesra, car il est majestueux et puissant, généreux et sage et son intelligence favorise tout ce qui est droit.
 >
-> Il a imposé au Kaïsar un tribut et des redevances et personne ne peut lui résister.»
+> Il a imposé au Kaïsar un tribut et des redevances et personne ne peut lui résister. »
 
 Tous les Heïtaliens-, hommes, femmes et enfants, furent unanimement de cet avis.
 
