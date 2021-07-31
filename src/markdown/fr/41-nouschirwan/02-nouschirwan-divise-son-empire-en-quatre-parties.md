@@ -26,7 +26,7 @@ La troisième partie comprenait le Farsistan et Ahwaz et le pays des Khazars,dep
 
 Quiconque dans ces pays était pauvre et vivait du travail de ses mains eut sa part dans la distribution d’un trésor plein et les hommes en bénirent le roi.
 
-Tous les rois qui l’avaient précédé, que leur puissance fût moindre ou plus grande que la sienne, avaientprélevé leur part des moissons et personne n’avait échappé à l’impôt ; la part du roi formait un tiers ou un quart.
+Tous les rois qui l’avaient précédé, que leur puissance fût moindre ou plus grande que la sienne, avaient prélevé leur part des moissons et personne n’avait échappé à l’impôt ; la part du roi formait un tiers ou un quart.
 
 Kobad vint et la fixa à un dixième.
 
@@ -42,9 +42,9 @@ Les sages, les nobles, les grands et les Mobeds à l’esprit éveillé se réun
 
 On leva un impôt de chaque dirhem de produit, de façon à ne pas réduire alu détresse les propriétaires ; ceux qui n’avaient pas de semences ou de bestiaux au temps du labourage les recevaient du trésor impérial et n’avaient pas à laisser la terre inculte ; on ne demandait rien pour les terres non ensemencées et les anciennes coutumes furent abolies sur ce point.
 
-Six plants de vignes en fruit payaient. un dirhem et le même décret s’appliquait aux plantations de palmiers ; les oliviers, les noyers et les arbres dont les branches sont chargées de fruits en automne payaient au trésor un dirhem par dix pieds et l’on ne s’en occupait plus jusqu’à l’année suivante ; mais les fruits, du printemps jusqu’au mois de Khordad, n’étaient pas regardés comme sujets à impôt.
+Six plants de vignes en fruit payaient un dirhem et le même décret s’appliquait aux plantations de palmiers ; les oliviers, les noyers et les arbres dont les branches sont chargées de fruits en automne payaient au trésor un dirhem par dix pieds et l’on ne s’en occupait plus jusqu’à l’année suivante ; mais les fruits, du printemps jusqu’au mois de Khordad, n’étaient pas regardés comme sujets à impôt.
 
-A ceux qui avaient de l’argent et pas de terre et qui ne subissaient pas les fatigues et le travail des semences et des moissons, le receveur demandait, selon leur degré, de quatre à dix dirhems par au ; les pères de famille n’étaient l pas opprimés, cet impôt se payait en trois termes par au et des messagers portaient tous les quatre mais une partie de cette contribution aux bureaux du roi.
+A ceux qui avaient de l’argent et pas de terre et qui ne subissaient pas les fatigues et le travail des semences et des moissons, le receveur demandait, selon leur degré, de quatre à dix dirhems par au ; les pères de famille n’étaient pas opprimés, cet impôt se payait en trois termes par au et des messagers portaient tous les quatre mais une partie de cette contribution aux bureaux du roi.
 
 Dans ces bureaux il n’y avait pas d’innombrables secrétaires et employés du roi.
 
@@ -54,4 +54,4 @@ Le premier restait entre les mains du trésorier et le Destour devait le viser ;
 
 Toutes les atfaires étaient dans sa main, les tributs et les impôts, les semences et les moissons.
 
-Il avait des agents dispersés dans l’empire pour que le bien et le mal lui fussent signalés ; il faisait régner partout la justice, partout il faisait cultiver les terres incultes ; les grands et les petits dormaient en sécurité dans le désert, et les loups et les brebis allaient ensemble à l’abreuvoir.
+Il avait des agents dispersés dans l’empire pour que le bien et le mal lui fussent signalés ; il faisait régner partout la justice, partout il faisait cultiver les terres incultes ; les grands et les petits dormaient en sécurité dans le désert et les loups et les brebis allaient ensemble à l’abreuvoir.
