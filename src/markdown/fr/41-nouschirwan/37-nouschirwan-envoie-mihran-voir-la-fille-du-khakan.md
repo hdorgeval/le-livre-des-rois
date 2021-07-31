@@ -32,7 +32,7 @@ Je t’envoie un homme de sans, un homme dont mon esprit estime hautement l’â
 
 Puisse ton âme être toujours pleine de pudeur !
 
-Puisses-tu être heureux et rester toujours amical envers moi !»
+Puisses-tu être heureux et rester toujours amical envers moi ! »
 
 Lorsque le roseau eut fait son cilice, le scribe arrangea le papier et le plia et lorsque l’air eut séché les larmes du roseau, on apposa sur la lettre un sceau de musc.
 
@@ -48,11 +48,11 @@ Il dit à Mihran Sitad :
 >
 > Commence par observer les femmes du Khakan et parte rendre compte de ce qu’il y a de bon et de mauvais parmi elles et ne te laisse pas tromper par le fard des visages, par l’or et les ornements qu’elles porteront.
 >
-> Le Khakan a derrière le voile une fille, haute de taille et portant un diadème ; mais la fille d’une esclave ne me convient pas, bien que son père soit roi ; enquiers-toi respec- tueusement et exactement laquelle est, par sa mère, fille de princesse, petitefille du puissant F aght’our de la Chine et fille du Khakan, qui est un prince glorieux.
+> Le Khakan a derrière le voile une fille, haute de taille et portant un diadème ; mais la fille d’une esclave ne me convient pas, bien que son père soit roi ; enquiers-toi respectueusement et exactement laquelle est, par sa mère, fille de princesse, petitefille du puissant F aght’our de la Chine et fille du Khakan, qui est un prince glorieux.
 >
-> Si elle est aussi belle que sa naissance est grande, elle rendra heureux le monde et sera heureuse elle-même.»
+> Si elle est aussi belle que sa naissance est grande, elle rendra heureux le monde et sera heureuse elle-même. »
 
-Mihran Sitad écouta les paroles du roi, prononça bien des bénédictions sur la couronne et le trône, et partit de la cour qui rendait brillant le monde, à une heure propice du sixième jour du mais Khordad.
+Mihran Sitad écouta les paroles du roi, prononça bien des bénédictions sur la couronne et le trône et partit de la cour qui rendait brillant le monde, à une heure propice du sixième jour du mais Khordad.
 
 Lorsque le Khakan sut qu’il était en route, il envoya au-devant de lui un cortège.
 
@@ -66,35 +66,38 @@ Aussitôt que le prince l’eut aperçu, il le reçut amicalement et lui fit pr�
 >
 > Mais des femmes servantes m’ont donné quatre filles, servantes elles-mêmes et esclaves à l’esprit éveillé.
 >
-> Je lui en donnerai une et serai libre alors de guerres et de querelles.»
+> Je lui en donnerai une et serai libre alors de guerres et de querelles. »
 
 La princesse lui dit :
 
-> Personne dans le monde ne te surpasse en sagacité. n Il se coucha, sur ces paroles et dormit la nuit.
+> Personne dans le monde ne te surpasse en sagacité. »
+
+Il se coucha, sur ces paroles et dormit la nuit.
 
 Lorsque le soleil se montra au-dessus des montagnes, Mihran Sitad se présenta à la cour, s’avança jusqu’au trône et remit la lettre de Nouschirwan.
 
 Le Khakan lut la lettre et sourit à ce qu’il y trouvait sur l’alliance et le bon choix qu’il devait faire.
 
-Il 
-h
+Il h
 donna à Mihran la clef de l’appartement de ses femmes et lui dit :
 
-> Va et regarde ce que tu y trouveras caché.»
+> Va et regarde ce que tu y trouveras caché. »
 
 Quatre serviteurs de confiance du Khakan devaient l’accompagner et lMihran Sitad, lorsqu’il eut entendu ces paroles, prit la clef et partit avec les hommes de confiance.
 
 Il ouvrit la porte des appartements secrets et ils yentrèrent et les serviteurs lui firent des contes, disant :
 
-> Les personnes que tu vas rencontrer n’ont jamais été vues par les astres, ou la lune ou le soleil.»
+> Les personnes que tu vas rencontrer n’ont jamais été vues par les astres, ou la lune ou le soleil. »
 
 L’appartement des femmes était arrangé comme un paradis, plein de lunes, de soleils et de richesses.
 
-Il y avait cinq jeunes filles aux visages de Péris, assises sur des trônes, ayant toutes des couronnes sur la tête et couvertes de trésors de joyaux, excepte celle qui était la fille de la princesse et qui n’avait ni diadème, ni bracelets, ni collier, ni pierreries ; une simple robe la couvrait et son diadème consistait dans les cheveux noirs que Dieu lui avait donnés ; ses joues n’étaient pas colorées de fard, elle n’avait de parure que celle qu’elle devait au Créateur ; mais c’était unjcyprès surmonté d’une lune nouvelle dont le reflet faisait briller un trône nouveau.
+Il y avait cinq jeunes filles aux visages de Péris, assises sur des trônes, ayant toutes des couronnes sur la tête et couvertes de trésors de joyaux, excepte celle qui était la fille de la princesse et qui n’avait ni diadème, ni bracelets, ni collier, ni pierreries ; une simple robe la couvrait et son diadème consistait dans les cheveux noirs que Dieu lui avait donnés ; ses joues n’étaient pas colorées de fard, elle n’avait de parure que celle qu’elle devait au Créateur ; mais c’était un cyprès surmonté d’une lune nouvelle dont le reflet faisait briller un trône nouveau.
 
 Quand Mihran Sitad la regarda, il vit qu’aucune des autres ne lui était comparable et cet homme clairvoyant et à l’âme noble comprit que le Khakan et la princesse s’étaient écartés de la justice.
 
-La jeune fille couvrit ses yeux avec son écharpe et sa main et l la colère de Mihran s’en accrut.
+La jeune fille couvrit ses yeux avec son écharpe et sa main et !
+
+La colère de Mihran s’en accrut.
 
 Il dit au serviteur :
 
@@ -102,19 +105,19 @@ Il dit au serviteur :
 >
 > Je choisis celle qui n’a ni couronne ni panure et qui doit encore grandir.
 >
-> J’ai supporté ce æpénible voyage pour faire un bon choix et non pas pour des brocarts de Chine.»
+> J’ai supporté ce pénible voyage pour faire un bon choix et non pas pour des brocarts de Chine. »
 
 La princesse lui dit :
 
 > Ô vieillard, tu ne dis pas une parole qui soit raisonnable.
 
-Voici des princesses illustres, gracieuses, intelligentes, qui peuvent enflammer les cœurs, d’âge à être mariées, a avec des tailles de cyprès, des joues comme le printemps et qui sauraient être les servantes d’un roi, et tu choisis à leur place une enfant qui est trop jeune !
+Voici des princesses illustres, gracieuses, intelligentes, qui peuvent enflammer les cœurs, d’âge à être mariées, a avec des tailles de cyprès, des joues comme le printemps et qui sauraient être les servantes d’un roi et tu choisis à leur place une enfant qui est trop jeune !
 
 Tu n’es pas un homme de sensu Mihran Sitad répondit :
 
-> Si le Khakan veut être juste, il reconnaîtra que le roi, maître du monde, ne m’apeapellera pas vieillard insensé. le choisis celle qui est là sur son trône de bois de teck, sans aucun ornement, sans collier ni diadème.
+> Si le Khakan veut être juste, il reconnaîtra que le roi, maître du monde, ne m’appellera pas vieillard insensé. le choisis celle qui est là sur son trône de bois de teck, sans aucun ornement, sans collier ni diadème.
 >
-> Si les maîtres de ce pays n’y consentent pas, je m’en retournerai dès que vous le permettrez.»
+> Si les maîtres de ce pays n’y consentent pas, je m’en retournerai dès que vous le permettrez. »
 
 Le Khakan réfléchit sur ces paroles, il fut étonné de son sens et de sa décision ; il reconnut que ce vieillard à l’esprit net était un puissant homme et propre aux alliaires délicates.
 
@@ -128,4 +131,4 @@ Le Khakan ordonna à tous ceux ’qui auraient de l’amitié pour lui de calcul
 
 > Ô roi, que ton cœur ne s’inquiète pas de malheurs qui pourraient arriver.
 >
-> La volonté du ciel sublime, que la rotation favorable des astres indique, est que cette affaire n’ait que des suites heureuses, que tes ennemis ne prévalent pas avec leurs mauvaises intentions, qu’il naisse de l’union de la fille du Khakan avec le roi un prince digne du trône, auquel le pays d’Iran et les vaillants grands de la Chine rendront hommage.»
+> La volonté du ciel sublime, que la rotation favorable des astres indique, est que cette affaire n’ait que des suites heureuses, que tes ennemis ne prévalent pas avec leurs mauvaises intentions, qu’il naisse de l’union de la fille du Khakan avec le roi un prince digne du trône, auquel le pays d’Iran et les vaillants grands de la Chine rendront hommage. »
