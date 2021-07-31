@@ -26,13 +26,13 @@ Lorsque le soleil montra sa
 
 Ceuronne dans le signe des Poissons et qu’il étendit sur la terre une robe d’ivoire, une ronde revint du bord du fossé et le chef entra chez le roi qui portait haut la tête, disant :
 
-> Il arrive une mission du Kaïsar auprès du roi, pleine de soucis et d’excuses sur la faut qui a été faite.»
+> Il arrive une mission du Kaïsar auprès du roi, pleine de soucis et d’excuses sur la faut qui a été faite. »
 
 Au même moment arriva en courant l’envoyé, qui salua Nouschirwan.
 
 Lorsque le Roumi aperçut la tête et la couronne de Kesra, un soupirs’échappa de sa poitrine et il dit en lui-même :
 
-> Voici un roi digne de la couronne par la majesté, la bravoure et une grande armée !»
+> Voici un roi digne de la couronne par la majesté, la bravoure et une grande armée ! »
 
 Quarante philosophes roumis, la langue pleine de paroles,.le cœur plein de vanité, apportaient chacun au roi une offrande de trente mille pièces d’or ; et quand ils virent la splendeur du visage de Kesra, ils s’avancèrent en versant des larmes et en rampant comme des serpents.
 
@@ -60,11 +60,11 @@ Nouschirwan écouta ce discours en souriant, car l’envoyé avait touché le bu
 
 Il lui répondit :
 
-> Cet en. faut est illustre, mais il y a peu de sens dans ses paroles.
+> Cet en faut est illustre, mais il y a peu de sens dans ses paroles.
 >
 > Qu’est le Kaïsar, qu’est ce Bathroun insensé que le sort a tant abaissé ?
 >
-> Tous les rois intelligents de la race d’Iskender ont été victorieux et ont occupé le premier rang ; et si quelqu’un s’écarte a de mes ordres, renonce à la sagesse et à l’obéissance envers moi, je ferai lever la poussière. de la destruction de ses terres cultivées et n’aurai pas peur de ses trésors et de ses armées.»
+> Tous les rois intelligents de la race d’Iskender ont été victorieux et ont occupé le premier rang ; et si quelqu’un s’écarte a de mes ordres, renonce à la sagesse et à l’obéissance envers moi, je ferai lever la poussière. de la destruction de ses terres cultivées et n’aurai pas peur de ses trésors et de ses armées. »
 
 Les envoyés baisèrent la terre comme le font les flatteurs, disant :
 
@@ -74,12 +74,11 @@ Les envoyés baisèrent la terre comme le font les flatteurs, disant :
 >
 > Nous ap-
 >
-> 
-porterons dans ton trésor comme tribut dix peaux de bœuf remplies de pièces d’or ; tu peux indiquer la quantité qu’il faut et consens à l’accepter, quoiqu’elle ne soit pas digne de toi.»
+> porterons dans ton trésor comme tribut dix peaux de bœuf remplies de pièces d’or ; tu peux indiquer la quantité qu’il faut et consens à l’accepter, quoiqu’elle ne soit pas digne de toi. »
 
 Il répondit :
 
-> C’est mon Destour expérimenté qui s’occupe du trésor.»
+> C’est mon Destour expérimenté qui s’occupe du trésor. »
 
 Tous les Roumis se rendirent auprès du Mobed se lamentant et sous une mauvaise étoile ; ils discutèrent longuement sur tous les points et lui dirent tous les secrets du Kaïsar ; ils lui parlèrent de l’or et des peaux de bœuf et de quoi dépendait le repos du pays de Roum.
 
@@ -87,21 +86,21 @@ Le Mobed leur dit :
 
 > Vous donnez de l’or, mais combien de brocart ajoutez-vous ?
 >
-> A l’époque où le roi s’en va d’ici, il me faut mille pièces de drap d’or, car le roi a toujours des robes d’honneur à distribuer, tant aux grands qu’aux petits.»
+> A l’époque où le roi s’en va d’ici, il me faut mille pièces de drap d’or, car le roi a toujours des robes d’honneur à distribuer, tant aux grands qu’aux petits. »
 
 Les Roumis y consentirent et revinrent chez le roi, à qui ils firent leurs humbles salutations.
 
 Le roi resla pendant quelque temps dans ce camp et quand lui et ses troupes furent reposés, il choisit dans l’armée un homme vaillant qui savait compter, écrire et effacer, lui donna une escorte et le chargea de demander le tribut et de le porter dans le riche pays de l’Iran.
 
-Ensuite, il partit pour Thisiphoun, précédé et suivi de ses troupes, qui toutes avaient en abondance de l’or et de l’argent, des freins d’argent et des ceintures d’or.
+Ensuite, il partit pour Thisifoun, précédé et suivi de ses troupes, qui toutes avaient en abondance de l’or et de l’argent, des freins d’argent et des ceintures d’or.
 
-Il y avait tant d’étendards de soie des chefs qu’on aurait dit que A? !
+Il y avait tant d’étendards de soie des chefs qu’on aurait dit que A ? !
 
 L’air était du satin ; on aurait cru que la terre était de l’or et les pierreries sur les ceintures brillaient comme les Pléiades.
 
 Lorsqu’il fut près de la ville, une grande foule alla à sa rencontre ; elle alla au-devant de Kesra à pied, en armes et le cœur enjoie et toute la suite du roi l’accompagner à pied jusqu’à la porte du palais.
 
-Tous les grands prononcèrent des bénédictions sur ce roi prévoyant et glorieux, et tous les Mobeds illustres lui firent des oll’randes de rubis et de perles.
+Tous les grands prononcèrent des bénédictions sur ce roi prévoyant et glorieux et tous les Mobeds illustres lui firent des offrandes de rubis et de perles.
 
 Lorsqu’il fut près de son palais, le roi congédia chacun des grands et ces héros se rendirent aux lieux de leur demeure, célébrant dans le monde entier la gloire de Kesra.
 
