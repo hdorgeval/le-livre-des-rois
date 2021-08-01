@@ -68,7 +68,7 @@ export const processLog = (logFile: PathLike | null): string[] => {
 };
 
 syncFrSettingsFromVscode();
-const rules = createRulesFromLtex(path.join(process.cwd(), 'src/markdown/fr/42-hormuzd'));
+const rules = createRulesFromLtex(path.join(process.cwd(), 'src/markdown/fr/43-khosrou-parviz'));
 // eslint-disable-next-line no-console
 console.log(rules);
 const replacers = rules.map((rule) => {
