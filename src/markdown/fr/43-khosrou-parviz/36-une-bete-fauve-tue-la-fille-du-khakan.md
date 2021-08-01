@@ -34,7 +34,7 @@ Le lion Keppi les vit du haut de la montagne, en descendit et dévora la princes
 
 Elle disparut de la terre dans un instant et le monde prit lin pour cette jeune fille au beau visage.
 
-Quandle Khakan le sut, ses joues devinrent noires et la mère s’arracha les cheveux ; ils la pleurèrent pendant des années, ils se consumèrent comme sur un l’en ardent et ils ne cessèrent de chercher un moyen de détruire ce dragon et de délivrer la Chine de cette calamité.
+Quand le Khakan le sut, ses joues devinrent noires et la mère s’arracha les cheveux ; ils la pleurèrent pendant des années, ils se consumèrent comme sur un l’en ardent et ils ne cessèrent de chercher un moyen de détruire ce dragon et de délivrer la Chine de cette calamité.
 
 Lorsque Bahram eut combattu Mekatoureh et qu’il eut détruit cet homme vaillant, la Khatoun cherchait à le voir et parlait à tout le monde de son haut fait.
 
@@ -57,19 +57,19 @@ Un autre serviteur lui dit :
 >
 > Depuis qu’il est arrivé de l’Iran en Chine,
 >
-> : LE LIVRE pasteurs. la terre tremble sous son destrier.
+> : pasteurs. la terre tremble sous son destrier.
 >
-> Notre maîlre l’appelle prince et a posé sur sa tête une couronne de roi.»
+> Notre maîlre l’appelle prince et a posé sur sa tête une couronne de roi. »
 
 La Khatoun dit :
 
 > Puisqu’il est si glorieux, nous pourrions être heureux sous l’ombre de ses ailes.
 >
-> Je vais tout droit lui demander ce que je désire et il ne sera pas aussi mon dans cette affaire que le Khakan ; j’espère’qu’il voudra me venger de ce dragon et qu’il écoutera mes douleurs et mes malédictions.»
+> Je vais tout droit lui demander ce que je désire et il ne sera pas aussi mon dans cette affaire que le Khakan ; j’espère’qu’il voudra me venger de ce dragon et qu’il écoutera mes douleurs et mes malédictions. »
 
 Le serviteur dit :
 
-> Si tu racontes cette histoire à ce prince plein de droiture, tu n’apprendras plus rien du lion Keppi, si ce n’est qu’il est mort et que les loups traînent ses membres dans la forêt.»
+> Si tu racontes cette histoire à ce prince plein de droiture, tu n’apprendras plus rien du lion Keppi, si ce n’est qu’il est mort et que les loups traînent ses membres dans la forêt. »
 
 Ces paroles réjouirent la Khatoun ; elle fut soulagée du poids de la. douleur que lui causait la perte de sa fille.
 
@@ -83,12 +83,12 @@ Le Khakau lui dit :
 >
 > Ce serait une opprobre pour ma race.
 >
-> Sachez que ce dragon terrible arracherait avec son haleine une montagne de fer et si illustre que soit une princesse, la vie est néanmoins chère à un roi.»
+> Sachez que ce dragon terrible arracherait avec son haleine une montagne de fer et si illustre que soit une princesse, la vie est néanmoins chère à un roi. »
 
 La Khatoun répon-.
 dit : Je veux avoir ma vengeance, je veux venger mon enfant chérie.
 
-Qu’il y ait de la honte ou de la gloire, moi je veux parler et j’espère que mon désir rsera accompli.»
+Qu’il y ait de la honte ou de la gloire, moi je veux parler et j’espère que mon désir rsera accompli. »
 
 ’ Lia-dessus bien des jours se passèrent de nouveau et la femme cacha à tous ses plans de vengeance. ,Mais il arriva que le Khakan prépara un festin qui remplissait le monde de sa splendeur.
 
@@ -98,11 +98,11 @@ Lorsque la Khatoun, dans l’appartement des femmes, entendit les bruits dufeau�
 
 > Puissent les pays des Turcs et de la Chine prospérer par toi !
 >
-> J’ai une grâce à demander au roi ; puisse-t-il faire ce que je désire.»
+> J’ai une grâce à demander au roi ; puisse-t-il faire ce que je désire. »
 
 Bahram dit :
 
-> Tu n’as qu’à ordonner, ma volonté et mon devoir sont de faire ce que tu demandes.»
+> Tu n’as qu’à ordonner, ma volonté et mon devoir sont de faire ce que tu demandes. »
 
 La Khatoun dit :
 
@@ -112,10 +112,9 @@ La Khatoun dit :
 >
 > Une portée de flèche au-dessus de ce bois, tu vois une montagne plus noire que de la poix et dans cette montagne rocheuse vit un dragon qui désole ce pays de Chine ; on l’appelle le lion Keppi et on ne le connaît sous aucun autre nom.
 >
-> J’avais du Kbakan de la Chine une fille à laquelle le soleil rendait hommage ; elle était allée du palais a ce lieu de fête, pendant que le Khakan était à la chasse avec son armée et ce féroce dragon sorit de la montagne et emporta ma tille dans sa gueule.
+> J’avais du Kbakan de la Chine une fille à laquelle le soleil rendait hommage ; elle était allée du palais a ce lieu de fête, pendant que le Khakan était à la chasse avec son armée et ce féroce dragon sorit de la montagne et emporta ma fille dans sa gueule.
 >
-> Maintenant il va chasser tous les printemps de la même vu. 
-manière sur cette prairie et il ne reste plus dans ces pays un seul jeune homme, il ne reste plus un seul Pehlewan illustre.
+> Maintenant il va chasser tous les printemps de la même vu. manière sur cette prairie et il ne reste plus dans ces pays un seul jeune homme, il ne reste plus un seul Pehlewan illustre.
 >
 > Ils ont péri par cette calamité du lion Keppi, qui a détruit ce pays jadis prospère.
 >
@@ -127,4 +126,4 @@ manière sur cette prairie et il ne reste plus dans ces pays un seul jeune homme
 
 Bahram lui répondit :
 
-> J’irai demain, au grand matin, regarder ce lieu de fête et je jure par la puissance de Dieu, qui m’a donné de la force, par le Créateur sublime de la lune et du soleil, que je délivrerai de ce dragon le lieu des fêtes, si à l’aube du jour on me montre le chemin.»
+> J’irai demain, au grand matin, regarder ce lieu de fête et je jure par la puissance de Dieu, qui m’a donné de la force, par le Créateur sublime de la lune et du soleil, que je délivrerai de ce dragon le lieu des fêtes, si à l’aube du jour on me montre le chemin. »
