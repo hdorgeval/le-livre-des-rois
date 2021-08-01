@@ -20,7 +20,7 @@ L’envoyé parlait et le Sipehhed écoutait ; sa réponse fut une parole sombre
 
 Bahram dit :
 
-> Ô toi qui portes une mauvaise marque au milieu des grands qui lèvent haut leur tête, maîtredu monde sans valeur, prodigue de paroles, personne ne te respecte plus.
+> Ô toi qui portes une mauvaise marque au milieu des grands qui lèvent haut leur tête, maître du monde sans valeur, prodigue de paroles, personne ne te respecte plus.
 >
 > J’ai reconnu, par tes premiers et par tes derniers messages, que tu étais fort en paroles.
 >
@@ -30,7 +30,7 @@ Bahram dit :
 >
 > D’abord tu as dis que tu tuerais le roi et me donnerais son pays et son trône.
 >
-> Ceci me rappelle ce mot d’un homme puissant, que, quand on expulse un mendiant de son village, il dit partout qu’il a été le n chef, que tous étaient des esclaves et lui le maître.
+> Ceci me rappelle ce mot d’un homme puissant, que, quand on expulse un mendiant de son village, il dit partout qu’il a été le chef, que tous étaient des esclaves et lui le maître.
 >
 > Mais le soleil ne luira pas sur le monde pendant deux jours du haut du ciel, avant que j’envoie ta tête au bout d’une lance au roi du monde.
 >
@@ -50,11 +50,11 @@ Bahram dit :
 >
 > bravoure et quand tu verras ma lance, tu ne me parleras pas de pardon et tu ne me demanderas pas d’être ton sujet.
 >
-> Quand j’aurai formé mes rangs, a je tiendrai pour rien tes troupes et ta cour, tes étéphants de guerre et ton trône ; je ne ferai pas plus de cas de ton armée que d’une obole.
+> Quand j’aurai formé mes rangs, a je tiendrai pour rien tes troupes et ta cour, tes éléphants de guerre et ton trône ; je ne ferai pas plus de cas de ton armée que d’une obole.
 >
 > Quand un roi dit tant de choses fausses, il n’acquiert point de l’honneur dans le monde.
 >
-> Je t’ai donné trois jours de répit ; mais quand la couronne du soleil qui éclaire le monde aura paru, on portera ta tête au peuple d’Iran et on la verra plantée au bout d’une lance devant le trône de Hmuzd.»
+> Je t’ai donné trois jours de répit ; mais quand la couronne du soleil qui éclaire le monde aura paru, on portera ta tête au peuple d’Iran et on la verra plantée au bout d’une lance devant le trône de Hmuzd. »
 
 L’envoyé partit, les joues jaunes comme le curcuma ; sa fortune, qui avait été jeune et féconde, avait vieilli.
 
@@ -62,15 +62,15 @@ Il transmit à Saweh son message et le visage du roi devint noir.
 
 Le Faghfour lui dit :
 
-> Que signifie cette faiblesse, en face d’une armée si pestite qu’il faut en déplorer le sort ?»
+> Que signifie cette faiblesse, en face d’une armée si pestite qu’il faut en déplorer le sort ? »
 
-Ll se rendit au pavillon de la portp de l’enceinte des tentes royales et ordonna d’apporter les cymbales et les clochettes indiennes, d’amener les éléphants de guerre et les timbales et de faire lever au ciel une poussière noire comme l’ébène.
+Il se rendit au pavillon de la portp de l’enceinte des tentes royales et ordonna d’apporter les cymbales et les clochettes indiennes, d’amener les éléphants de guerre et les timbales et de faire lever au ciel une poussière noire comme l’ébène.
 
 Le roi qui portait haut la tête devint inquiet des préparatifs de combat que faisait son vaillant fils ; il craignait beaucoup la lutte avecsBahram, les feuilles fraiches de son arbre se desséchaient et il dit à son fils :
 
 > Ô favori de l’armée !
 >
 > Ne livre
-(pas bataille avant demain matin.»
+(pas bataille avant demain matin. »
 
 A!" .-Les deux armées rentrèrent dans leurs camps, des rondes partirent des enceintes des tentes des chefs. on alluma des feux des deux côtés et le monde fut plein de discussions sur ce mystère.
