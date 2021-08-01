@@ -16,13 +16,15 @@ order: '016'
 
 # Un ermite prédit l'avenir à Khosrou Parviz
 
-Khosrou resta trois jours dans cette ville ; le quatrième, lorsque le soleil qui illumine le monde commença à briller et à percer les nuages de son épée tranchante, le prince se mit en route pour Aurigh, une grande ville qui possédait un morceau de la croix et un hospice.
+Khosrou resta trois jours dans cette ville ; le quatrième, lorsque le soleil qui illumine le monde commença à briller et à percer les nuages de son épée tranchante, le prince se mit en route pour Aurige, une grande ville qui possédait un morceau de la croix et un hospice.
 
-Or, il y avait dans un lieu écarté de la route un sanctuaire et le roi entendant la voix de l’ermite s’approcha du sanctuaire et lui cria : Puisses-tu ne jamais cesser de servir Dieu !
+Or, il y avait dans un lieu écarté de la route un sanctuaire et le roi entendant la voix de l’ermite s’approcha du sanctuaire et lui cria :
 
-Si tu veux sortir de ton vieux sanctuaire, que Dieu, qui donne le bonheur, te bénisse la Aussitôt que l’ermite eut entendu cette voix, il sortit du sanctuaire, aperçut le roi et se mit à le saluer humblement et à lui adresser de longs discours.
-
-Certainement, dit-il, tu es Khosrou, à qui le trône de son père a porté malheur par le fait d’un esclave malfaisant et vil, d’un serviteur orgueilleux ?»
+> Puisses-tu ne jamais cesser de servir Dieu !
+>
+> Si tu veux sortir de ton vieux sanctuaire, que Dieu, qui donne le bonheur, te bénisse la Aussitôt que l’ermite eut entendu cette voix, il sortit du sanctuaire, aperçut le roi et se mit à le saluer humblement et à lui adresser de longs discours.
+>
+> Certainement, dit-il, tu es Khosrou, à qui le trône de son père a porté malheur par le fait d’un esclave malfaisant et vil, d’un serviteur orgueilleux ? »
 
 L’ermite se répandit en discours et le cœur du roi se rajeunit sous l’influence de cette
 , tendresse ; il resta confondu de ses paroles et appela les grâces du Créateur sur lui ; il lui tendit la main du haut de son chevalet interrogea ce serviteur de Dieu.
@@ -31,7 +33,7 @@ Pour le mettre à l’épreuve, il lui dit :
 
 > Je suis un homme peu important dans l’armée de l’Iran, je porte au Kaîsar un message et quand il m’aura donné sa réponse, je la rapporterai à mon chef.
 >
-> Vois si la suite de ce voyage sera heureuse pour moi et quel sera à la fin mon sort.»
+> Vois si la suite de ce voyage sera heureuse pour moi et quel sera à la fin mon sort. »
 
 L’ermite répondit :
 
@@ -58,23 +60,25 @@ Khosrou répondit :
 
 > Puisse-t-il en être comme tu l’as dit, ô sage vieillard !
 >
-> Que m’apprendras-tu sur le temps qu’il faudra pour que l’empire me soit rendu?»
+> Que m’apprendras-tu sur le temps qu’il faudra pour que l’empire me soit rendu ? »
 
 Il répondit :
 
-> Quand douze mois se seront écoulés, tu retrouveras ta couronne ; puis quinze jours passeront encore sur ta tête et tu seras redevenu le roi des rois qui répandsa lumière sur le monde.»
+> Quand douze mois se seront écoulés, tu retrouveras ta couronne ; puis quinze jours passeront encore sur ta tête et tu seras redevenu le roi des rois qui répandsa lumière sur le monde. »
 
-Khosrou demanda : Qui, parmi mon entonrage, m’aidera le plus dans mes peines et dans mes troubles?»
+Khosrou demanda :
+
+> Qui, parmi mon entonrage, m’aidera le plus dans mes peines et dans mes troubles ? »
 
 Il répondit :
 
-> Celui qui porte le nom de Bistham, un homme altier et joyeux ; tu l’appelle ton oncle maternel et tu crois que c’est par lui que tes mois et tes années se passeront dans le bonheur ; mais prends garde à cet homme pernicieux, il t’attirera de la douleur, de la peine et du dommage.»
+> Celui qui porte le nom de Bistham, un homme altier et joyeux ; tu l’appelle ton oncle maternel et tu crois que c’est par lui que tes mois et tes années se passeront dans le bonheur ; mais prends garde à cet homme pernicieux, il t’attirera de la douleur, de la peine et du dommage. »
 
 Khosrou fut tout troublé et dit à Gustehem :
 
 > L’ermite m’a dévoilé ton secret.
 >
-> Ta mère t’a donné le nom de Bistham, mais tu préteuds que dans le combat tu es un Gustehem.»
+> Ta mère t’a donné le nom de Bistham, mais tu préteuds que dans le combat tu es un Gustehem. »
 
 Puis, il dit à l’ermite :
 
@@ -82,11 +86,11 @@ Puis, il dit à l’ermite :
 
 L’ermite répondit :
 
-> Néanmoins c’est Gustehem qui causera tes peines et tes luttes.»
+> Néanmoins c’est Gustehem qui causera tes peines et tes luttes. »
 
 Khosrou dit :
 
-> Ô mon conseiller, qu’est-ce qui arrivera après?»
+> Ô mon conseiller, qu’est-ce qui arrivera après ? »
 
 Il répondit :
 
@@ -94,7 +98,7 @@ Il répondit :
 >
 > Jamais plus il ne t’arrivera de mal, et, si tu as des travaux pénibles, ils te seront imposés par Dieu.
 >
-> Cet esprit rebelle troublera ton repos, mais ensuite tout ira selon ton gré et cet homme à mauvaises intentions aura beau se détourner de toi, son sort sera entre tes mains.»
+> Cet esprit rebelle troublera ton repos, mais ensuite tout ira selon ton gré et cet homme à mauvaises intentions aura beau se détourner de toi, son sort sera entre tes mains. »
 
 Gustehem dit à Khosrou :
 
@@ -108,16 +112,16 @@ Gustehem dit à Khosrou :
 >
 > Pourquoi écouter ses discours malséants ?
 >
-> Rassure-moi contre l’effet de ses paroles et puisque j’ai prêté ce serment, ne cherche pas de prétexte contre moi.»
+> Rassure-moi contre l’effet de ses paroles et puisque j’ai prêté ce serment, ne cherche pas de prétexte contre moi. »
 
 Khosrou lui dit :
 
 > Ô homme peureux, ne fais pas de discours inutiles.
 >
-> Jamais je n’ai éprouvé du mal de ta part, tu n’es pas porté à la perversité ni à la folie et pourtant il ne faudraitpas s’étonner si, par le fait du ciel sublime, tu devenais malfaisant, car lorsque Dieu a décidé que quelque chose doit arriver, la sagesse et l’intelligence ne servent de rien.»
+> Jamais je n’ai éprouvé du mal de ta part, tu n’es pas porté à la perversité ni à la folie et pourtant il ne faudraitpas s’étonner si, par le fait du ciel sublime, tu devenais malfaisant, car lorsque Dieu a décidé que quelque chose doit arriver, la sagesse et l’intelligence ne servent de rien. »
 
 Ensuite le roi dit à l’ermite :
 
-> Puisse ton cœur être heureux et ta fortune propice !»
+> Puisse ton cœur être heureux et ta fortune propice ! »
 
 Puis, il partit de ce sanctuaire pour la ville d’Aurigh, comme un éclair qui brille dans les nuages et les grands et tous les hommes considérables de la ville vinrent à sa rencontre.
