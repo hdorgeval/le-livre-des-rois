@@ -33,28 +33,28 @@ Kaloun arriva seul à la porte et dit au gardien :
 > Peux-tu le lui faire savoir pour faisan
 , de la vi lle de K Merv.
 >
-> Il y resta jusque je fasse parvenir son message à ce prince couronné, au nom glorieux?»
+> Il y resta jusque je fasse parvenir son message à ce prince couronné, au nom glorieux ? »
 
 Le vénérable gardien du rideau courut à la porte de la chambre du Pehlewan et dit :
 
-> Il est arrivé un messager de mauvaise mine, vêtu d’une peau de mouton ; il dit qu’il est chargé d’un mesage de la fille du Khakan pour le prince fortuné.»
+> Il est arrivé un messager de mauvaise mine, vêtu d’une peau de mouton ; il dit qu’il est chargé d’un mesage de la fille du Khakan pour le prince fortuné. »
 
 Bahram répondit :
 
-> Dis-lui de se montrer à la porte de cette chambre.»
+> Dis-lui de se montrer à la porte de cette chambre. »
 
 Kaloun s’avança jusqu’à la porte et montra sa tête par l’ouverture de cette porte et quand Bahram vit un vieillard fatigué et misérable, il lui dit :
 
-> Si tu as une lettre, donnela.»
+> Si tu as une lettre, donnela. »
 
 Kaloun répondit :
 
-> Ô roi, je n’ai qu’un message et ne puis m’en acquitter w devant personne.»
+> Ô roi, je n’ai qu’un message et ne puis m’en acquitter w devant personne. »
 
 Bahram dit :
 
 > Entre vite et parle-moi secrètement à l’oreille sans faire des difficul-
-Iés.»
+Iés. »
 
 Kaloun s’avança, le couteau dans la manche de sa robe ; le moment pour son crime était arrivé.
 
@@ -62,7 +62,7 @@ Il s’avança comme pour lui dire dans l’oreille son secret, le frappa du poi
 
 Quand Bahram poussa ce cri, des hommes arrivèrent du dehors en courant auprès du roi, qui leur dit :
 
-> Saisissez-le vite et demandez-lui qui lui a donné des instructions.»
+> Saisissez-le vite et demandez-lui qui lui a donné des instructions. »
 
 Tout ce qui était dans le palais accourut ; on tirait le vieillard par la tête et les pieds, tous les serviteurs étaient courroucés contre lui et le frappaient du tranchant de la main et des poings.
 
@@ -98,11 +98,11 @@ Elle s’écriait :
 >
 > Nous sommes des étrangers, seuls, sans amis, sans protecteurs ; nous reslons méprisés dans le pays d’autrui.
 >
-> Je t’avais exhorté, ô chef du peuple, à ne pas arracher l’arbre tr de la loyauté ; car s’il ne restait de la race de Sâsân qu’une seule fille, elle poserait le diadème sur sa tête, tout le pays serait son esclave et sa couronne brillante s’élèverait jusqu’au ciel ; toutes les villes de l’Iran lui obéiraient ; jamais les cœurs n’abandonneront cette famille.
+> Je t’avais exhorté, ô chef du peuple, à ne pas arracher l’arbre de la loyauté ; car s’il ne restait de la race de Sâsân qu’une seule fille, elle poserait le diadème sur sa tête, tout le pays serait son esclave et sa couronne brillante s’élèverait jusqu’au ciel ; toutes les villes de l’Iran lui obéiraient ; jamais les cœurs n’abandonneront cette famille.
 >
 > Maintenant le Sipehdar, qui n’a pas écouté mon conseil ni mes bonnes paroles, se repent de ce qu’il a fait et va porter devant Dieu une âme coupable.
 >
-> Le malheur a frappé notre maison puissante, nous sommes devenus des moutons et notre ennemi est comme un loup.»
+> Le malheur a frappé notre maison puissante, nous sommes devenus des moutons et notre ennemi est comme un loup. »
 
 Lorsque le blessé entendit ces paroles, qu’il vit ce grand cœur et cette intelligence pleine de sagesse, qu’il vit cette femme qui avait déchiré ses joues avec ses ongles, qui avait arraché ses cheveux, dont le cœur et les yeux étaient pleins de sang et le visage couvert de poussière, il ouvrit ses lèvres tristement et péniblement et dit :
 
@@ -112,7 +112,7 @@ Lorsque le blessé entendit ces paroles, qu’il vit ce grand cœur et cette int
 >
 > Je n’ai pas suivi tes conseils, c’est comme si en toute chose le Div avait été mon guide.
 >
-> Il n’y a pas en de roi plus grand que Djemscbid, qui a rempli le monde de crainte et d’espérance et pourtant les discours des Divs l’ont égaré et il s’est rendu le monde n noir devant les yeux.
+> Il n’y a pas en de roi plus grand que Djemschid, qui a rempli le monde de crainte et d’espérance et pourtant les discours des Divs l’ont égaré et il s’est rendu le monde n noir devant les yeux.
 >
 > Ensuite le prudent Keï Kaous, ce maître du monde à la bonne étoile, aux traces de pied fortunées, a été perdu par les discours d’un Div maudit et tu as entendu les malheurs qu’il s’est attirés ; il a voulu s’élever au ciel pour voir comment la voûte qui tourne dirige le soleil et la lune sur leurs routes.
 >
@@ -137,7 +137,7 @@ rais-je de ce que j’ai fait autrefois ?
 >
 > Le maître du monde est votre seul soutien dans le malheur, ne parlez donc à personne de vos soucis ni de vos joies.
 >
-> Je n’ai pu avoir dans le monde que la part que j’ai obtenue et maintenant le sort me fait partir.»
+> Je n’ai pu avoir dans le monde que la part que j’ai obtenue et maintenant le sort me fait partir. »
 
 Il dit à Yelan Sineh :
 
@@ -165,7 +165,7 @@ Il fit écrire au Khakan :
 >
 > Rends heureux ceux que je laisse après moi ; sauvegarde-les de la misère et du mal que leur feraient mes ennemis ; car jamais je ne t’ai fait du mal.
 >
-> J’ai toujours tâché de suivre la voie de la droiture et de l’intelligence.»
+> J’ai toujours tâché de suivre la voie de la droiture et de l’intelligence. »
 
 Ensuite, il donna à sa sœur beaucoup de conseils, pressant contre sa poitrine cette tête chérie ; il posa sa bouche sur le lobe de l’oreille de sa sœur, sesyeux se rem. plirent de larmes de sang et il rendit l’âme.
 
