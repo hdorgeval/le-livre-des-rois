@@ -30,17 +30,17 @@ Kharrad Berzin écouta son récit, il comprit que c’était la suite de ses anc
 >
 > Il ne faut pas parler de tout cela, mais il faut cette nuit partir pour la cour du roi.
 >
-> Le roi des rois, notre maître, a fait une folie en envoyant ce présent d’une boîte à fuseaux ; il ne comprenait pas que cela produirait chez ce lion avide de combats la révolte que nous voyons ; mais Bahram a le cœur rempli de ilidée d’une couronne et a changé maintenant son siège en trône d’ivoire.»
+> Le roi des rois, notre maître, a fait une folie en envoyant ce présent d’une boîte à fuseaux ; il ne comprenait pas que cela produirait chez ce lion avide de combats la révolte que nous voyons ; mais Bahram a le cœur rempli de ilidée d’une couronne et a changé maintenant son siège en trône d’ivoire. »
 
 Ils se concertèrent de toute manière et s’arrêtèrent à l’idée de partir, et, ayant combiné une ruse qui leur permît de fuir, ils quittèrent Balkh dans la nuit sombre.
 
 Le Sipehhed comprit à l’instant leur plan, car il connaissait leur esprit brillant et éveillé ; il dit à Yelan Sineh :
 
-> Cours avec cent cavaliers après ces hommes insensés.»
+> Cours avec cent cavaliers après ces hommes insensés. »
 
 Yelan Sineh atteignit le Grand Scribe et se démena comme un loup ,tlui prit tout ce qu’il avait sur lui et le ramena chargé de chaînes.
 
-Il le conduisit auprès de Bahram pour que celui-ci pût mettre à. mort cet homme innocent.
+Il le conduisit auprès de Bahram pour que celui-ci pût mettre à mort cet homme innocent.
 
 Le Pehlewan
 
@@ -48,7 +48,7 @@ Lui dit :
 
 > Ô toi qui agis comme un Div !
 >
-> Pourquoi m’as-tu quitté sans permission?»
+> Pourquoi m’as-tu quitté sans permission ? »
 
 Il répondit :
 
@@ -59,11 +59,11 @@ Il répondit :
 >
 > C’est Kharrad Benin qui m’a fait trembler en me disant : Tu ne dois pas rester ici ; tout retard dans ton départ n’est qu’une joie pour ceux qui disent du mal de toi.
 >
-> Puisque le vaillant Bahram, le Pehlewan de l’armée, s’assied à cette cour sur un trône comme un roi, toi et moi devons craindre pour notre vie, à moins de nous éloigner ’d’ici.»
+> Puisque le vaillant Bahram, le Pehlewan de l’armée, s’assied à cette cour sur un trône comme un roi, toi et moi devons craindre pour notre vie, à moins de nous éloigner ’d’ici. »
 
 Bahram lui dit :
 
-> Cela pourrait arriver ; il faut délibérer en nous-mêmes sur ce qui peut nous faire du bien ou du mal.»
+> Cela pourrait arriver ; il faut délibérer en nous-mêmes sur ce qui peut nous faire du bien ou du mal. »
 
 Il le dédommagea de toutes les pertes qu’il avait faites, il lui remplaça tout sur son propre trésor, puis il lui dit :
 
