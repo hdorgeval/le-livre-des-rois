@@ -18,7 +18,7 @@ order: '040'
 
 Lorsque le grand roi apprit que le loup était sorti du bois et que le vaillant Bahram amenait une armée qui enlevait au ciel son éclat, il dit à Kharrad, fils de Berzin :
 
-> Prends le chemin du palais du Khakan, va auprès de cet homme ignoble et dis-lui ce que tu sais qu’il faut dire ; car tu es l’homme le plus sage dans l’Iran et l’Aniran et le plus puissant par la parole.»
+> Prends le chemin du palais du Khakan, va auprès de cet homme ignoble et dis-lui ce que tu sais qu’il faut dire ; car tu es l’homme le plus sage dans l’Iran et l’Aniran et le plus puissant par la parole. »
 
 Il ouvrit la porte de son trésor et apporta des joyaux, des épées et des ceintures d’or, tels que Kharrad en fut étonné et invoqua dans son âme le nom de Dieu.
 
@@ -28,11 +28,11 @@ Arrivé près de la cour du Khakan, il prit ses précautions et choisit un messa
 
 Lorsque le Khakan le sut, il fit apprêter la salle d’audience et ordonna de faire entrer l’envoyé, qui descendit de cheval tout près, puis lui adressa la parole et le salua, ajoutant :
 
-> Quand tu voudras donner la permission à ton esclave de parler, il parlera.»
+> Quand tu voudras donner la permission à ton esclave de parler, il parlera. »
 
 Le Khakan répondit :
 
-> Une voix douce rajeunit le cœur du vieillard ; dis ce que tu as de bon à dire, car ce qu’on énonce est le noyau, ce qu’on ne dit pas est l’écorce.»
+> Une voix douce rajeunit le cœur du vieillard ; dis ce que tu as de bon à dire, car ce qu’on énonce est le noyau, ce qu’on ne dit pas est l’écorce. »
 
 Lorsque Kharrad, fils de Berzin, entendit ce discours, il se souvint de paroles antiques ; il commença par des actions de grâce au Créateur, le tout-puissant, qui tient dans ses mains le sort, qui a créé la voûte du ciel et la terre et le temps, qui a créé la puissance et ce qui est impuissant.
 
@@ -50,19 +50,19 @@ Il n’a pas de faveur pour l’un ni de colère pour l’autre ; on ne le conna
 
 Petits et grands nous naissons pour redevenir poussière, nous livrons inévitablement notre corps à la mort.
 
-En commençant par Djemscbid, le sublime et Thahmouras, le glorieux maître du monde, en continuant jusqu’à Keîkobad et les grands dont nous avons conservé le souvenir, comme Keï Khosrou et l’illustre Rustem et de même jusqu’à lsfendiar, nous voyons qu’ils n’ont obtenu du monde qu’un tombeau, qu’ils ont sucé du poison au lieu de thériaque.
+En commençant par Djemschid, le sublime et Thahmouras, le glorieux maître du monde, en continuant jusqu’à Keîkobad et les grands dont nous avons conservé le souvenir, comme Keï Khosrou et l’illustre Rustem et de même jusqu’à Isfendiar, nous voyons qu’ils n’ont obtenu du monde qu’un tombeau, qu’ils ont sucé du poison au lieu de thériaque.
 
 Maintenant le roi de l’Iran est ton parent, il est heureux ou triste selon que .tu grandis ou que tu dépéris.
 
 Du temps d’un des glorieux rois, le Khakan de la Chine était le père de la mère de Khosrou et alors nos liens se sont resserrés et tout a changé.
 
-Puisse celui qui donne la victoire te bénir, puissent les têtes des rois former le sol sous tes pieds.»
+Puisse celui qui donne la victoire te bénir, puissent les têtes des rois former le sol sous tes pieds. »
 
 Il dit et le Kbakan, qui lui avait prêté l’oreille, répondit :
 
 > Ô toi qui as à vendre de la sagesse !
 >
-> S’il y a encore dans l’Iran un homme comme toi, il est en état de célébrer le ciel comme on le doit.»
+> S’il y a encore dans l’Iran un homme comme toi, il est en état de célébrer le ciel comme on le doit. »
 
 On lui assigna une place distinguée dans la salle et le roi le fit asseoir près de lui.
 
@@ -74,7 +74,7 @@ Le Khakan lui dit :
 >
 > Si tu veux accepter quelque chose de moi, dis-le, pour que je puisse accepter ce que tu m’apportes.
 >
-> Dans tous les cas, tu es plus brillant que tous les présents, tu es le diadème des savants du monde.»
+> Dans tous les cas, tu es plus brillant que tous les présents, tu es le diadème des savants du monde. »
 
 On apprêta pour Kharrad une gaie demeure, qu’on orna d’étoiles de toute espèce.
 
@@ -93,29 +93,29 @@ lui parler courageusement, disant :
 >
 > Lorsqu’il fut devenu puissant par la volonté du roi, il renonça à la loyauté et à ses devoirs envers lui ; il a ambitionné sans hésiter la dignité de roi des rois, disant que l’Iran et l’Aniran étaient à lui.
 >
-> Quand même il te ferait beaucoupde bien, à la fin il brisera les liens qui l’attachent à toi, comme il a brisé ceux qui l’attachaient au roi d’Iran, car il n’est dévoué ni à un roi ni à Dieu.
+> Quand même il te ferait beaucoup de bien, à la fin il brisera les liens qui l’attachent à toi, comme il a brisé ceux qui l’attachaient au roi d’Iran, car il n’est dévoué ni à un roi ni à Dieu.
 >
-> Si tu le renvoies au roi, tu élè-veras la tête du maître de l’Iran jusqu’à la lune ; dès ce moment la Chine et l’Irau seront à toi et tu établiras ta résidence où tu voudras.»
+> Si tu le renvoies au roi, tu élè-veras la tête du maître de l’Iran jusqu’à la lune ; dès ce moment la Chine et l’Iran seront à toi et tu établiras ta résidence où tu voudras. »
 
 Le Khakan fut troublé en écoutant ce discours ; ses yeux devinrent sombres en regardant Kharrad ; il répondit :
 
 > Ne parle pas ainsi, car tu perdrais mon estime.
 >
-> Je ne suis pas un homme méchant, je ne viole pas les traités que j’ai faits ; car celui qui viole les traités aura pour linceul la poussière.»
+> Je ne suis pas un homme méchant, je ne viole pas les traités que j’ai faits ; car celui qui viole les traités aura pour linceul la poussière. »
 
-Quand Kharrad, fils de Berrin, eut entendu ces paroles, il comprit que cette graine qu’il avaitcru fraîche était vieille etne pousserait pas, que Bahram avait fait espérer au Khakan la possession de l’Iran et que toute parole était stérile et du vent.
+Quand Kharrad, fils de Berrin, eut entendu ces paroles, il comprit que cette graine qu’il avait cru fraîche était vieille etne pousserait pas, que Bahram avait fait espérer au Khakan la possession de l’Iran et que toute parole était stérile et du vent.
 
 Ayant ainsi désespéré d’agir sur le Khakan, il se tourna, dans son désappointement, vers la Khatoun et chercha quelqu’un auprès d’elle qui éclairerait son esprit prévenu.
 
 Il avait rencontré un intendant du palais ; il lui faisait des visites et lui répétait des discours de Khosrou qui charmaient ce mécréant ; puis il lui dit :
 
-> Aide-moi à devenir le scribe de la Khatoun et à me tenir à sa porte.»
+> Aide-moi à devenir le scribe de la Khatoun et à me tenir à sa porte. »
 
-Mais l’intendaut dit à cet homme qui cherchait une issue :
+Mais l’intendant dit à cet homme qui cherchait une issue :
 
 > Ce n’est pas par elle que tu parviendras au but ; car Bahram Djoubineh est son gendre et c’est d’elle que lui vient tout son pouvoir.
 >
-> Tu es lettré, cherche un autre moyen et ne révèle ton secret pas même au vent.»
+> Tu es lettré, cherche un autre moyen et ne révèle ton secret pas même au vent. »
 
 Kharrad, à ces paroles, ne savait plus où commen-çaient et où finiraient ses soucis.
 
@@ -136,11 +136,11 @@ Tout en voyant le Khakau jour et nuit, il était fort discret envers lui, pendan
 
 Un jour ce vieillard dit au puissant Kharrad :
 
-> Si toi, qui es un si éminent lettré, tu avais quelque connaissance de médecine et si la renommée de ton nom arrivait de loin, tu deviendrais par là le diadème sur la tête de la Khatoun, surtout maintenant que sa fille est malade.»
+> Si toi, qui es un si éminent lettré, tu avais quelque connaissance de médecine et si la renommée de ton nom arrivait de loin, tu deviendrais par là le diadème sur la tête de la Khatoun, surtout maintenant que sa fille est malade. »
 
 Il répondit :
 
-> Je possède aussi cette science et si tu veux en parler, je me chargerai de ce cas.»
+> Je possède aussi cette science et si tu veux en parler, je me chargerai de ce cas. »
 
 L’intendant du palais se rendit en courant auprès de la Khatoun et lui dit qu’un nouveau médecin savant était arrivé.
 
@@ -154,7 +154,7 @@ Il revint et dit à Kharrad, fils de Berzin :
 
 > Il faut que tu gardes ton secret.
 >
-> Va chez elle, ne dis pas ton nom et prends l’air d’un médecin de bonne mine.»
+> Va chez elle, ne dis pas ton nom et prends l’air d’un médecin de bonne mine. »
 
 ’
 Cet homme rusé alla chez la Khatoun ; il vit que sa malade avait le l’oie dérangé.
@@ -167,8 +167,8 @@ Il voulait ainsi calmer la fièvre dans le cerveau de la malade ; et, par l’or
 
 La Khatoun apporta de son trésor une caisse remplie de pièces d’or et cinq robes de tissu d’or et lui dit :
 
-> Accepte ce faible présent et demande-moi ce qu’il faut en sus.»
+> Accepte ce faible présent et demande-moi ce qu’il faut en sus. »
 
 Il répondit :
 
-> Garde tout cela, je te demanderai en tout temps ce dont j’aurai besoin.»
+> Garde tout cela, je te demanderai en tout temps ce dont j’aurai besoin. »
