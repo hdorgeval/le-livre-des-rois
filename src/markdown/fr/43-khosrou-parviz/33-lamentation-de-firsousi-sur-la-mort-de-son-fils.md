@@ -18,8 +18,7 @@ order: '033'
 
 J’ai dépassé la soixante-cinquième année et il ne me servirait à rien d’étendre les mains vers des richesses.
 
-Si je ne m’appliquais les conseils que je A
-donne aux autres, je ne ferais que penser à la mort de mon fils.
+Si je ne m’appliquais les conseils que je A donne aux autres, je ne ferais que penser à la mort de mon fils.
 
 C’était mon tour de partir et c’est ce jeune homme qui est parti et la peine que j’en éprouve fait de moi un corps sans âme.
 
@@ -29,7 +28,7 @@ Je me hâterai dans l’espoir de le rejoindre et si je le retrouve, je lui fera
 >
 > Tu étais mon soutien dans les malheurs, pourquoi as-tu pris une autre route que ton vieux compagnon ?
 >
-> As-tu donc rencontré des compagnons jeunes, pour que tu m’aies laissé en arrière?»
+> As-tu donc rencontré des compagnons jeunes, pour que tu m’aies laissé en arrière ? »
 
 Quand ce jeune homme a eu trentesept ans, il n’a pas trouvé le monde à son goût et s’en est allé.
 
