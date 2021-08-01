@@ -18,11 +18,11 @@ order: '051'
 
 Deux semaines étaient passées, lorsque le roi dit à Gordieh :
 
-> Je te conjure par le soleil et la lune, par le trône et le diadème, raconte-moi cette lutte avec les gens du Khakan, dans laquelle tu as revétu une armure.»
+> Je te conjure par le soleil et la lune, par le trône et le diadème, raconte-moi cette lutte avec les gens du Khakan, dans laquelle tu as revétu une armure. »
 
 Elle répondit :
 
-> Ô roi, puissestu être heureux, puisses la vue servir de nourriture aux âmes !
+> Ô roi, puisses tu être heureux, puisses la vue servir de nourriture aux âmes !
 
 Ordonne qu’on amène un cheval, qu’on apporte une selle, un arc et un lacet de combat, une lance, un casque, une cotte de mailles et un carquois rempli de flèches de bois de peuplier. n
 ’ Le roi ordonna à un serviteur de préparer une place dans le jardin, au parterre de roses.
@@ -40,7 +40,7 @@ Puisses-tu rester loin de tout maltn Le roi ordonna à cette femme vaillante d�
 
 Elle dit au roi :
 
-> C’est ainsi que j’étais comme un loup furieux quand j’ai combattu Thuwurg.»
+> C’est ainsi que j’étais comme un loup furieux quand j’ai combattu Thuwurg. »
 
 Schirin dit :
 
@@ -48,21 +48,21 @@ Schirin dit :
 >
 > Tu t’assois sur ton trône dans une robe simple et sans armure et elle aura toujours accès .
 >
-> auprès de toi.»
+> auprès de toi. »
 
 Le roi répondit à Schirin en souriant :
 
-> Ne t’attends de cette femme qu’à des services d’amitié.»
+> Ne t’attends de cette femme qu’à des services d’amitié. »
 
 Pendant ce temps Gordieh continuait à faire des voltes sur l’arène et Khosrou s’écria :
 
-> Bravo !»
+> Bravo ! »
 
 Elle répondit :
 
 > Plût à Dieu qu’il y eût devant moi, sur le champ de bataille, un ennemi du roi !
 >
-> Je l’enlèverais de la selle à l’instant, devant le Grand roi, comme j’ai enlevé Thuwurg.»
+> Je l’enlèverais de la selle à l’instant, devant le Grand roi, comme j’ai enlevé Thuwurg. »
 
 Le roi resta confondu de sa haute taille, de ses bras et de ses épaules ; il lui dit :
 
@@ -70,7 +70,7 @@ Le roi resta confondu de sa haute taille, de ses bras et de ses épaules ; il lu
 >
 > J’ai sur la surface du monde quatre chefs d’armée qui sont les gardiens de ma vie et chacun d’eux est à la tête de douze mille vaillants cavaliers iraniens ; de même, dans les appartements dorés de mes femmes et dans mon palais incrusté de pierreries, il y a douze mille serviteurs, tous portant des colliers et des boucles d’oreilles.
 >
-> Dorénavant tu es la surveillante, car tu as toujours travaillé pour les tiens et tu en as eu soin et je veux que personne, qu’il soit et jeune ou vieux, ne me dise jamais un mot sur eux, si ce n’est toi.»
+> Dorénavant tu es la surveillante, car tu as toujours travaillé pour les tiens et tu en as eu soin et je veux que personne, qu’il soit et jeune ou vieux, ne me dise jamais un mot sur eux, si ce n’est toi. »
 
 Gordieh fut heureuse d’entendre ces paroles ; elle se sentit garantie contre la malveillance de ses ennemis.
 
