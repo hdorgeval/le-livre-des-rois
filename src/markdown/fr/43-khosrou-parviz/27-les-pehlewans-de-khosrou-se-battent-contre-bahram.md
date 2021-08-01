@@ -30,7 +30,7 @@ Les champions de l’armée étaient Schapour et Endian, qui resserraient leurs 
 
 Gustehem se tenait à côté du roi, qu’il devait protéger contre l’ennemi.
 
-Lorsque Bahram le héros ne vit pas les Roumis, il s’arrêta hésitant et garda le silence ; puis il ordonna de lier les timbales sur le dos des éléphants, et la face du monde devint agitée comme les flots du Nil.
+Lorsque Bahram le héros ne vit pas les Roumis, il s’arrêta hésitant et garda le silence ; puis il ordonna de lier les timbales sur le dos des éléphants et la face du monde devint agitée comme les flots du Nil.
 
 Il monta sur le dos d’un éléphant blanc et ses compagnons dans le combat désespérèrent de sa fortune. il poussa son éléphant jusqu’à l’aile droite et dit à Schapour :
 
@@ -38,7 +38,7 @@ Il monta sur le dos d’un éléphant blanc et ses compagnons dans le combat dé
 >
 > N’as-tu pas promis dans ta lettre que tu viendrais à moi sur cette plaine de sang ?
 >
-> Ce n’est pas une conduite digne d’un Perse et tu livres gratuitement ton corps à la destruction.»
+> Ce n’est pas une conduite digne d’un Perse et tu livres gratuitement ton corps à la destruction. »
 
 Schapour lui dit :
 
@@ -46,11 +46,11 @@ Schapour lui dit :
 >
 > Est-ce que tu as perdu la tête dans l’esclaclavage ?
 >
-> Qu’est-ce que cette lettre dont tu parles devant les grands et quelle trace y en a-t-il?»
+> Qu’est-ce que cette lettre dont tu parles devant les grands et quelle trace y en a-t-il ? »
 
 Le puissant Khosrou dit à Schapour :
 
-> Cette lettre était conforme aux intentions de cet homme ; et par suite tu seras récompensé par moi, de même que les autres grands de ma cour ; quand il en sera temps, je le l’expliquerai et je réfuterai les soupçons qui pourraient s’attacher à toi.»
+> Cette lettre était conforme aux intentions de cet homme ; et par suite tu seras récompensé par moi, de même que les autres grands de ma cour ; quand il en sera temps, je le l’expliquerai et je réfuterai les soupçons qui pourraient s’attacher à toi. »
 
 Bahram entendit ces paroles de Khosrou et il comprit la ruse dont on avait usé envers lui.
 
@@ -62,7 +62,7 @@ Le roi voyant cela, dit à Endian :
 
 > Ô vail-. celant et terrible lion !
 >
-> Faites pleuvoir des traits sur cet éléphant, convertissez vos arcs en nuages du prinrtemps.»
+> Faites pleuvoir des traits sur cet éléphant, convertissez vos arcs en nuages du printemps. »
 
 Tous les Iraniens, que favorisait la fortune ,
 
@@ -70,7 +70,7 @@ Tous les Iraniens, que favorisait la fortune ,
 
 Bahram demanda à l’instant un cheval de main, il demanda un casque, qui aurait fait la parure d’un roi, mais on recommença à faire pleuvoir la pluie de traits sur le destrier de l’orgueilleux Bahram.
 
-Cet homme, avide de combat, mit pied à terre, fit entrer le pan de sa cette de mailles dans sa ceinture, protégea sa tête avec son bouclier et son épée tranchante porta la mort dans les rangs des combattants, qui s’enfuirent à pied devant Bahram et jetèrent leurs arcs On amena dans ce moment un destrier, sur lequel de Djadj. ’ le Sipehbed Bahram monta rapidement ; il s’élança en rugissant sur le centre de l’armée des Perses, à la place où se trouvait le roi à la tête des troupes. il dispersa tout le centre de l’armée et le drapeau du maître du monde disparut.
+Cet homme, avide de combat, mit pied à terre, fit entrer le pan de sa cotte de mailles dans sa ceinture, protégea sa tête avec son bouclier et son épée tranchante porta la mort dans les rangs des combattants, qui s’enfuirent à pied devant Bahram et jetèrent leurs arcs On amena dans ce moment un destrier, sur lequel de Djadj. ’ le Sipehbed Bahram monta rapidement ; il s’élança en rugissant sur le centre de l’armée des Perses, à la place où se trouvait le roi à la tête des troupes. il dispersa tout le centre de l’armée et le drapeau du maître du monde disparut.
 
 De là il se dirigea vers l’aile droite, où les bagages se trouvaient placés derrière la ligne des Perses.
 
@@ -90,7 +90,7 @@ N Guerdouî répondit :
 >
 > Tu es un homme avide de sang, méchant et vil, tu es dans ton cœur ennemi du Créateur.
 >
-> Un frère ne vient pas attaquer un frère, s’il respecte son nom et son honneur.»
+> Un frère ne vient pas attaquer un frère, s’il respecte son nom et son honneur. »
 
 Lorsque Bahram eut entendu ces paroles, il quitta Guerdouî et suivit avec une mine sombre l’avis que lui donnait son fière.
 
@@ -98,7 +98,7 @@ Guerdouî courut auprès de Khosrou, rempli d’horreur et son visage guerrier t
 
 Le roi le bénit all’ectuensement, disant :
 
-> Que le ciel qui tourne te récompense.»
+> Que le ciel qui tourne te récompense. »
 
 Puis Khosrou se rendit sur le front de la ligne au centre de l’armée, et, voyant que ses braves commençaient à plier, il envoya quelqu’un à Schapour et lui fit dire :
 
@@ -106,15 +106,15 @@ Puis Khosrou se rendit sur le front de la ligne au centre de l’armée, et, voy
 
 > Si un seul Roumi se battait et si le vaillant Bahram était tué ou était seulement blessé dans la bataille, tous ces Roumis lèveraient la tête jusqu’à la voûte du ciel et se vanteraient outre mesure ; mais je ne veux pas qu’ils lèvent la tête et se donnent des airs en face de nous pour ce combat. l’ai été témoin de tous leurs hauts faits : ils sont vu. [Il LE une pas sors. comme un troupeau dans un jour de bourrasque.
 >
-> Il vaut mieux que j’attaque Djoubineh une bonne fois avec un petit cortège et je ne veux, en cette affaire, de l’aide de personne ; mon refuge est Dieu le secourable.»
+> Il vaut mieux que j’attaque Djoubineh une bonne fois avec un petit cortège et je ne veux, en cette affaire, de l’aide de personne ; mon refuge est Dieu le secourable. »
 
 Gustehem lui répondit :
 
-> Ô roi, ne conspire pas contre ta douce vie, mais si ta résolution est prise, choisis des hommes et ne te fais pas tuer sur ce champ de la vengeance.»
+> Ô roi, ne conspire pas contre ta douce vie, mais si ta résolution est prise, choisis des hommes et ne te fais pas tuer sur ce champ de la vengeance. »
 
 Khosrou lui répondit :
 
-> Ce que tu dis est juste ; choisis maintenant des amisdans l’armée.»
+> Ce que tu dis est juste ; choisis maintenant des amis dans l’armée. »
 
 Gustehem désigna parmi les cavaliers de l’Iran quatorze hommes illustres qui portaient haut la tête.
 
@@ -126,7 +126,7 @@ Ayant choisi de cette façon quatorze hommes, il les fit àcl’instant sortir d
 >
 > Il vaut mieux être tué dans la bataille que de souffrir qu’un esclave devienne notre maître.
 >
-> Il faut que vous me protégiez dans la bataille, il faut ne pas tarder quand il est temps de s’élancer.»
+> Il faut que vous me protégiez dans la bataille, il faut ne pas tarder quand il est temps de s’élancer. »
 
 Tous à l’unisson lui rendirent hommage, l’appelèrent roi de la terre et jurèrent qu’aucun d’eux n’abandonnerait le roi dans cette journée.
 
@@ -144,7 +144,7 @@ Quand il vit du haut de son destrier cette poignée d’hommes, il choisit quelq
 >
 > Il vient nous combattre avec cette poignée d’hommes, mais il se met peut-être devant la gueule du crocodile.
 >
-> Il n’a pas plus de vingt guerriers avec lui et je n’en connais aucun.»
+> Il n’a pas plus de vingt guerriers avec lui et je n’en connais aucun. »
 
 Puis, il dit à Ized.
 
@@ -168,7 +168,7 @@ Lorsque Khosrou le vit sur la route, il dit aux Iraniens :
 >
 > Moi et ma massue nous nous chargeons de Djoubineh, le mal famé ; vous, combattez ces rebelles.
 >
-> Vous êtes quatorze amis, ils ne sont que trois ; à Dieu ne plaise que nous soyons jamais battus.»
+> Vous êtes quatorze amis, ils ne sont que trois ; à Dieu ne plaise que nous soyons jamais battus. »
 
 Neïathous et tous les Roumis revêtirent leurs armures, embarrassés de leur rôle.
 
@@ -176,7 +176,7 @@ Ils se rendirent du champ de bataille sur la montagne d’où l’on voyait les 
 
 > Pourquoi le noble roi vend-il sa vie pour une couronne ?
 >
-> Pourquoi laisse-t-il sur cette plaine tant de cavaliers et va-t-il follement se battre tout seul ?»
+> Pourquoi laisse-t-il sur cette plaine tant de cavaliers et va-t-il follement se battre tout seul ? »
 
 Tous levèrent les mains vers le ciel, car ils le croyaient perdu.
 
@@ -190,11 +190,11 @@ Le maître du monde tourna à regret son cheval et Ized Guschasp s’élança su
 
 Le roi dit à Gustehem :
 
-> Le sort me serre étroitement ; à quoi a servi cette tuerie insensée, puisqu’on m’a vu fuir et montrer mon des?»
+> Le sort me serre étroitement ; à quoi a servi cette tuerie insensée, puisqu’on m’a vu fuir et montrer mon des ? »
 
 Gustehem lui dit :
 
-> Les cavaliers sont partis, tu es resté seul, comment te battrais-tu?»
+> Les cavaliers sont partis, tu es resté seul, comment te battrais-tu ? »
 
 Khosrou regarda derrière lui et vit que Bahram devançait ses trois compagnons ; il tâcha d’échapper à ses ennemis et coupa les caparaçons de son cheval noir pour l’alléger ; les trois cavaliers qui étaient avec lui restèrent en arrière, mais ses ennemis, avides de vengeance, le poursuivirent.
 
@@ -208,23 +208,23 @@ Mais il se trouvait l’a à pied, le chemin était fermé devant lui et le cœu
 >
 > . fourbe !
 >
-> Voici l’abîme qui s’ouvre (levant la grandeur.
+> Voici l’abîme qui s’ouvre devant la grandeur.
 >
 > Comment as-tu pu me livrer ton sort ?
 >
-> Comment. en as-tu chargé tes propres épaules ?»
+> Comment. en as-tu chargé tes propres épaules ? »
 
 La position du roi étant devenue désespérée, avec une épée derrière et le rocher devant lui ; il s’adressa à Dieu, disant :
 
 > Ô Créateur !
 >
-> Tu es au-dessns de la rotation du sort ; dans ce lieu de détresse tu es mon sauveur et je ne prierai ni Saturne ni Mercure.»
+> Tu es au-dessus de la rotation du sort ; dans ce lieu de détresse tu es mon sauveur et je ne prierai ni Saturne ni Mercure. »
 
 Aussitôt que ce cri fut sorti de la montagne apparut le bienheureux Serosch, vêtu d’une robe verte et monté sur un cheval blanc et sa vue rendit le courage à Khosrou.
 
 Lorsqu’il fut près de lui, le.
 
-Serosch saisit la main de Khosrou (il ne faut pas s’étonner de cela de la part de Dieu le toutsaint), l’enleva de devant son ennemi, l’emporta sans effortet puis le lâcha.
+Serosch saisit la main de Khosrou (il ne faut pas s’étonner de cela de la part de Dieu le toutsaint), l’enleva de devant son ennemi, l’emporta sans effort et puis le lâcha.
 
 Khosrou, tantôt parlant, tantôt pleurant, lui demanda son nom ; l’ange répondit :
 
@@ -232,7 +232,7 @@ Khosrou, tantôt parlant, tantôt pleurant, lui demanda son nom ; l’ange répo
 >
 > Puisque tu es en sûreté, cesse de le lamenter.
 >
-> Tu seras dorénavant le roi du monde, garde-toi de te conduire autrement que les hommes purs.»
+> Tu seras dorénavant le roi du monde, garde-toi de te conduire autrement que les hommes purs. »
 
 Il dit et disparut devant ses yeux ; jamais on n’a vu chose plus étonnante. .
 Bahram, à cette vue, resta confondu ; il invoqua à plusieurs reprises le nom de Dieu, Créateur du monde et dit :
@@ -245,20 +245,20 @@ L’armée était placée sur la plaine et sur la montagne et le cœur des Roumi
 
 Quand Neïathous ne vit plus Khosrou, il fit placer à l’écart la litière d’or et dit à Mariam :
 
-> Reste là, j’ai peur que le roi du pays d’Iran n’ait péri.»
+> Reste là, j’ai peur que le roi du pays d’Iran n’ait péri. »
 
 Dans ce moment Khosrou reparut de l’autre côté de la montagne, sur la route et loin de la foule et toute cette illustre armée fut remplie de joie et le cœur de Mariam fut délivré, de sa peine.
 
 Quand Khosrou fut arrivé près de Mariam, il lui raconta la chose merveilleuse qui lui était arrivée, disant :
 
-> Ô lune, tille du Kaisar, le Seigneur, dispensateur de la justice, m’a justifié.
+> Ô lune, fille du Kaisar, le Seigneur, dispensateur de la justice, m’a justifié.
 >
 > Ce n’est pas par lâcheté ni par manque de cœur qùe je me suis rayai, car il n’y a que le méchant qui soit lâche dans le combat.
 >
 > Dans cette fente où j’étais abandonné sans compagnon, j’ai invoqué dans ma douleur le Créateur et le Seigneur, qui tient. cachées les affaires du monde, a dévoilé le secret devant son serviteur.
 >
-> Jamais ni le Fortuné Feridoua, ni Tour, ni Slem, ni Al’rasiab n’ont vu en songe une chose pareille, un présage de victoire et de pouvoir rojal, tel que je l’ai vu aujourd’hui.
+> Jamais ni le Fortuné Feridoua, ni Tour, ni Slem, ni Al’rasiab n’ont vu en songe une chose pareille, un présage de victoire et de pouvoir royal, tel que je l’ai vu aujourd’hui.
 >
 > Ô vous qui portez haut la tête !
 >
-> Maintenant ranimez votre colère pour recommencer le combat et souve-nez-vous de Khosrou au milieu de la bataille.»
+> Maintenant ranimez votre colère pour recommencer le combat et souve-nez-vous de Khosrou au milieu de la bataille. »
