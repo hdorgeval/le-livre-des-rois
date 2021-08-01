@@ -30,7 +30,7 @@ Bendouî se hâta de s’approcher de lui, le Barsom en main ; le roi le prit et
 
 Kaosaou mavrz. ’m Neïathous, voyant cela, jeta son pain, et, tout troublé, recula loin de la table, s’écriant :
 
-> Mêler la croix à vo’s prières, c’est faire insulter le Messie par le Kaisar.»
+> Mêler la croix à vo’s prières, c’est faire insulter le Messie par le Kaisar. »
 
 Quand Bendouî vit cela, il frappa du revers de la main, à travers la table, cet adorateur de la croix dans le visage.
 
@@ -40,15 +40,15 @@ Khosrou, en voyant cet acte, fut consterné ; ses joues devinrent pâle : comme 
 >
 > Qu’est-ce qu’il a avec Neïathous le Roumi ?
 >
-> Il a fait aujourd’hui peu de cas de sa vie.»
+> Il a fait aujourd’hui peu de cas de sa vie. »
 
-Neïathous quitta le palais, monta à cheval et se rendit, à moitié ivre, dans son camp, où il mit une cette de mailles roumie de combat pour détruire le réunie aunbanquet.
+Neïathous quitta le palais, monta à cheval et se rendit, à moitié ivre, dans son camp, où il mit une cotte de mailles roumie de combat pour détruire le réunie aunbanquet.
 
 Tous les cavaliers roumis, ardents pour le combat, se dirigèrent vers la cour du roi et Neïathous envoya aussitôt, rapidement comme le vent, un cavalier de race roumie au-près de Khosrou et lui fit dire :
 
 > Pourquoi Bendouî, cet homme de rien, frappe-t-il sur la joue un adorateur de Dieu ?
 >
-> Livre-le-moi, ou tu verras ’ du trouble dans ta cour et tu plieras devant moi bien autrement que tu n’as eu à plier devant cet esclave qui ambitionne la couronne des rois des rois.»
+> Livre-le-moi, ou tu verras ’ du trouble dans ta cour et tu plieras devant moi bien autrement que tu n’as eu à plier devant cet esclave qui ambitionne la couronne des rois des rois. »
 
 Khosrou se mit en colère en entendant ces paroles et dit :
 
@@ -58,13 +58,13 @@ Khosrou se mit en colère en entendant ces paroles et dit :
 >
 > bad, personne n’a parlé du Messie ; à Dieu ne plaise que j’abandonne la foi de mes pères, des nobles maîtres du monde, de mes parents saints’, que j’adopte la religion du Messie, que je ne prie pas à table et me fasse chrétien.
 >
-> Compte bien que c’est toi qui seras courbé. car j’ai vu ce que les Roumis font au jour du combat.»
+> Compte bien que c’est toi qui seras courbé. car j’ai vu ce que les Roumis font au jour du combat. »
 
 Mariam dit :
 
 > Je mettrai fin à cette querelle dans ta cour.
 >
-> Donne-moi Bendoui’, qui porte haut la tête, pour que les Roumis le voient ; je le ramènerai sain et sauf, car personne n’a jamais voulu d’une lutte insensée.»
+> Donne-moi Bendoui’, qui porte haut la tête, pour que les Roumis le voient ; je le ramènerai sain et sauf, car personne n’a jamais voulu d’une lutte insensée. »
 
 Le roi envoya, auprès de Neïathous, Bendouî
 avec dix cavaliers et avec Mariam, sa femme prudente, dont les lèvres n’émettaient jamais que de A bene conseils et à qui il dit :
@@ -91,11 +91,11 @@ avec dix cavaliers et avec Mariam, sa femme prudente, dont les lèvres n’émet
 >
 > Ne détruis pas l’œuvre du Kaisar ni les peines qu’il s’est données.
 >
-> Ne plaise à Dieu que tu aies un jour à te rappeler mes conseils négligés.»
+> Ne plaise à Dieu que tu aies un jour à te rappeler mes conseils négligés. »
 
 En même temps Khosrou lui fit encore une confidence, disant :
 
-> Je ne fais aucun cas de Bendouî, car mon cœur saigne à cause du sang de mon père qu’il a versé et je ne quitte jamais mon deuil ; mon âme est toute pleine du désir de me venger de lui et ma langue est chargée de paroles de chagrin et de malédiction sur lui.»
+> Je ne fais aucun cas de Bendouî, car mon cœur saigne à cause du sang de mon père qu’il a versé et je ne quitte jamais mon deuil ; mon âme est toute pleine du désir de me venger de lui et ma langue est chargée de paroles de chagrin et de malédiction sur lui. »
 
 A Mariam l’écouta, partit rapidement comme le vent et lit son discours à Neïathous, qui accepta ses conseils et approuva ses paroles.
 
@@ -103,7 +103,7 @@ Quand il aperçut Bendouî, il se leva vivement, demanda à son trésorier un ch
 
 Khosrou, en voyant Neïathous, lui dit :
 
-> Le cœur du méchant ne recherche pas le bien ; Bendouî n’a recherché que le trouble et la lutte, mais garde-toi de rendre le monde sombre et étroit pour nous ; ne livre pas au vent, par ton impétuosité, toute la peine que le Kaisar s’est donnée et reste avec nous pour que tr nous nous livrionsà lajoic pendantquelque temps.»
+> Le cœur du méchant ne recherche pas le bien ; Bendouî n’a recherché que le trouble et la lutte, mais garde-toi de rendre le monde sombre et étroit pour nous ; ne livre pas au vent, par ton impétuosité, toute la peine que le Kaisar s’est donnée et reste avec nous pour que nous nous livrionsà lajoic pendant quelque temps. »
 
 Neïathous répondit :
 
@@ -111,6 +111,6 @@ Neïathous répondit :
 >
 > demande pas de la raison à un Roumi ivre.
 >
-> Continue dans la foi de tes pères ; un homme de sens ne change pas de religion.»
+> Continue dans la foi de tes pères ; un homme de sens ne change pas de religion. »
 
 Lis parlèrent ainsi peudant longtemps, puis Neïathous rentra dans son camp.
