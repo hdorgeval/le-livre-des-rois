@@ -45,24 +45,24 @@ orent du vin et se mirent à prier à voix basse.
 
 La vieille femme dit :
 
-> Si vous voulez du vin, il y en a et j’ai aussi une vieille courge dont j’ai coupé le haut quand elle était fraîche ; j’en ai fait une c : coupe et je l’ai placée sur le vase qui contient le vin.»
+> Si vous voulez du vin, il y en a et j’ai aussi une vieille courge dont j’ai coupé le haut quand elle était fraîche ; j’en ai fait une coupe et je l’ai placée sur le vase qui contient le vin. »
 
 Bahram répondit :
 
 > Pourvu qu’il y ait du vin, qu’est-il besoin d’une coupe plus belle ?-n La vieille alla chercher le vin et la coupe et Bahram s’en réjouit. \*
 Il plaça dans la main de la vieille une coupe pleine pour qu’elle se réjouît aussi et il lui dit :
 
-> Ô mère vénérable, quelle nouvelle as-tu des affaires du monde.»
+> Ô mère vénérable, quelle nouvelle as-tu des affaires du monde. »
 
 La vieille femme répondit :
 
 > J’ai entendu tant de choses que mon cerveau en est fatigué.
 >
-> Il est venu aujourd’hui beaucoup de personnes de la ville qui ont parlé de la guerre de Djoubineh et ont dit que son armée s’était réunie Ml à celle du roi et que le Sipehbed s’était enfui avec une escorte.»
+> Il est venu aujourd’hui beaucoup de personnes de la ville qui ont parlé de la guerre de Djoubineh et ont dit que son armée s’était réunie Ml à celle du roi et que le Sipehbed s’était enfui avec une escorte. »
 
 Bahram lui dit :
 
-> Ô sainte femme, ne me fais pas de contes lia-dessus ; c’était dans les calculs de Bahram. ou il aura préféré ses fantaisies à ses calculs.»
+> Ô sainte femme, ne me fais pas de contes lia-dessus ; c’était dans les calculs de Bahram. ou il aura préféré ses fantaisies à ses calculs. »
 
 La vieille dit :
 
@@ -72,7 +72,7 @@ Comment le Div a-t-il troublé la vue ?
 
 Ne sais-tu pas que depuis que Bahram, fils de Guschasp, a lancé son cheval contre le fils de Hormuzd, tous les hommes de sens en rient et personne ne le compte plus parmi les grandsn Bahram répondit :
 
-> S’il a envie de boire du.viu dans une courge, tiens prêt du pain d’orge sur ce vieux sas, jusqu’à ce que la nouvelle orge soit moissonnée.»
+> S’il a envie de boire du.viu dans une courge, tiens prêt du pain d’orge sur ce vieux sas, jusqu’à ce que la nouvelle orge soit moissonnée. »
 
 La nuit venue, il se coucha dans ce lieu sombre, ayant pour se couvrir sa tunique et appuyant son épaule sur sa cuirasse ; mais le sommeil ne lui vint pas et il ne trouva pas de repos.
 
@@ -84,17 +84,19 @@ Sur son chemin se trouvait un beau champ de roseaux et beaucoup d’hommes y ét
 
 Lorsqu’ils virent de loin Bahram et sa grande et vaillante troupe, ils lui dirent :
 
-> Puisses-tu vivre toujoursl Pourquoi as-tu pris la route du champ de roseaux ?
+> Puisses-tu vivre toujours !
+>
+> Pourquoi as-tu pris la route du champ de roseaux ?
 >
 > Il y a la Un
 >
-> M2 LE LIVRE-DES sors. devant toi une troupe nombreuse d’hommes qui ont tous lavé leurs mains dans le sang pour se préparer au combat.»
+> M2 -DES sors. devant toi une troupe nombreuse d’hommes qui ont tous lavé leurs mains dans le sang pour se préparer au combat. »
 
 Bahram dit :
 
 > Il ne peut y avoir ici que des cavaliers de l’armée du roi.
 >
-> J’ai appris que le roi, lorsque nous nous sommes décidés à quitter lienceinte de mes tentes et à nous préparer pour la route, chargea Nestouh de nous suivre en toute hâte avec une armée qui doit nous attaquer en masse ; mais si je le vois, je mettrai fin à sa vie.»
+> J’ai appris que le roi, lorsque nous nous sommes décidés à quitter lienceinte de mes tentes et à nous préparer pour la route, chargea Nestouh de nous suivre en toute hâte avec une armée qui doit nous attaquer en masse ; mais si je le vois, je mettrai fin à sa vie. »
 
 Il ordonna de serrer les sangles des chevaux et parcourut tous les rangs de ses troupes ; ses cavaliers serrèrent rapidement les sangles des selles, saisirent leurs épées indiennes, mirent le feu dans tout ce champ de roseaux et détruisirent entièrement cette armée ; tout le champ s’étant enflammé, les uns y furent tués, les autres y furent brûlés.
 
@@ -106,7 +108,7 @@ Nestouh demanda grâce à Bahram, disant :
 >
 > Pourquoi verserais-tu mon sang ?
 >
-> Aie pitié de ma fortune renversée, ne me tue pas, pour que je puisse m’approcher de toi en courant et être ton humble pauvre.»
+> Aie pitié de ma fortune renversée, ne me tue pas, pour que je puisse m’approcher de toi en courant et être ton humble pauvre. »
 
 Bahram dit :
 
@@ -114,7 +116,7 @@ Bahram dit :
 >
 > Je ne te couperai pas la tête, cela me ferait honte (ravoir été combattre un cavalier tel que toi.
 >
-> Maintenant M3 que je le lâche de mes mains, cours et va raconter à Khosrou tout ce que tu m’as vu faire.»
+> Maintenant M3 que je le lâche de mes mains, cours et va raconter à Khosrou tout ce que tu m’as vu faire. »
 
 Nestouh, à ces paroles, baisa la terre et le bénit à plusieurs reprises.
 
