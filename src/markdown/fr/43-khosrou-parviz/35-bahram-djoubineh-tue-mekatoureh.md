@@ -28,11 +28,11 @@ Mekatoureh, quand il fut arrivé sur le champ du combat, fit lever la poussière
 
 > Qu’as-tu maintenant à dire sur ma bravoure ?
 >
-> Est-ce toi. qui commenceras ce combat, ou le Turc au cœur de lion, le serviteur du Khakan?»
+> Est-ce toi. qui commenceras ce combat, ou le Turc au cœur de lion, le serviteur du Khakan ? »
 
 Bahram répondit :
 
-> Commence, car tu as été le provocateur par tes paroles.»
+> Commence, car tu as été le provocateur par tes paroles. »
 
 .
 
@@ -44,7 +44,7 @@ Bahram se tint éloigné pendant quelque temps, pour laisser Mekntoureh se fatig
 
 > Ô homme avide de luttes, tu ne m’as pas tué, ne t’en vas pas à ta tente.
 >
-> Tu as parlé, reste et écoute la réponse et si tu es en vie après l’avoir entendue tu t’en iras.»
+> Tu as parlé, reste et écoute la réponse et si tu es en vie après l’avoir entendue tu t’en iras. »
 
 Il choisit avec soin une flèche qui traversait une cuirasse et devant laquelle le fer était comme de la cire.
 
@@ -58,17 +58,17 @@ Bahram dit au Khakan :
 
 > Ô toi qui cherches l’accomplissement de tes désirs !
 >
-> Cet ambitieux demande un fossoyeur.»
+> Cet ambitieux demande un fossoyeur. »
 
 Il répondit :
 
-> Regarde mieux ; il est couché tout vivant sur le dos de la selle.»
+> Regarde mieux ; il est couché tout vivant sur le dos de la selle. »
 
 Barliram dit :
 
 > Ô prince magnanime, son corps va tomber dans la poussière.
 >
-> Puisse le corps de tes ennemis être counché, comme celui-ci est couché sur son cheval touranien.»
+> Puisse le corps de tes ennemis être counché, comme celui-ci est couché sur son cheval touranien. »
 
 Le Khakan envoya un vaillant cavalier auprès de est homme illustre qui avait été semblable à un lion et l’on vit qu’il était lié sur son cheval et avait péri misérablement ; il se reposait des vicissitudes du sort.
 
