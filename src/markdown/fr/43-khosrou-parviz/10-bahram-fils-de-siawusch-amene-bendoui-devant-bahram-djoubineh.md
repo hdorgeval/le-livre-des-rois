@@ -34,7 +34,7 @@ Il dit à ses amis :
 
 Il dit à Bendouî :
 
-> Ô mauvais homme, plein de ruses, plaide cette cause devant Bahram.»
+> Ô mauvais homme, plein de ruses, plaide cette cause devant Bahram. »
 
 Bendouî, le lion, descendit de la terrasse et se mit en marche courageusement avec les grands.
 
@@ -42,25 +42,29 @@ Lorsque Bahram apprit que l’armée était arrivéeet que Khosrou était parti 
 
 > Ô méchant homme, à la fortune mauvaise !
 >
-> Tu n’as pas fait ce que je t’avais ordonné. j’avais follement loué un homme sans mérite.»
+> Tu n’as pas fait ce que je t’avais ordonné. j’avais follement loué un homme sans mérite. »
 
 Il fit appeler Bendouî et déversa sur lui toute la colère qu’il éprouvait contre Bahram et lui dit :
 
 > Ô mau-
-vais homme, ô malfaiteur, fourbe, propre seulement à faire naître des querellesl tu as dupé mon armée dans ta folie, ta mauvaise nature ne t’a pas permis de rester tranquille.
+vais homme, ô malfaiteur, fourbe, propre seulement à faire naître des querelles !
 >
-> Tu t’es uni à ce vil Khosrou, tu as fait de cet enfant un homme d’expérience et maintenant tu viens avec un esprit plein de paroles mensongères, annonçant que tu feras revivre l’ancien état des choses.»
+> Tu as dupé mon armée dans ta folie, ta mauvaise nature ne t’a pas permis de rester tranquille.
+>
+> Tu t’es uni à ce vil Khosrou, tu as fait de cet enfant un homme d’expérience et maintenant tu viens avec un esprit plein de paroles mensongères, annonçant que tu feras revivre l’ancien état des choses. »
 
 Bendouî
-dit : Ô homme qui portes haut la tête !
+dit :
 
-Ne cherche en moi que de la droiture et n’agis pas précipitamment.
-
-Sache que ce roi des rois est mon parent, que sa grandeur et sa noblesse sont tout pour moi. le lui ai dévoué ma vie, comme c’est mon devoir, et, puissant comme tu es, ne te laisse pas aller à l’iniquité.»
+> Ô homme qui portes haut la tête !
+>
+> Ne cherche en moi que de la droiture et n’agis pas précipitamment.
+>
+> Sache que ce roi des rois est mon parent, que sa grandeur et sa noblesse sont tout pour moi. le lui ai dévoué ma vie, comme c’est mon devoir, et, puissant comme tu es, ne te laisse pas aller à l’iniquité. »
 
 Bahram répondit :
 
-> Je ne veux pas te mettre à mort pour ce crime, mais c’est lui qui te tuera bientôt et tu reconnaîtras que j’ai dit vrai.»
+> Je ne veux pas te mettre à mort pour ce crime, mais c’est lui qui te tuera bientôt et tu reconnaîtras que j’ai dit vrai. »
 
 On chargea de chaînes les pieds de Bendouî et Bahram le remit au [ils de Siawusch pourle préserver de tout danger.
 
