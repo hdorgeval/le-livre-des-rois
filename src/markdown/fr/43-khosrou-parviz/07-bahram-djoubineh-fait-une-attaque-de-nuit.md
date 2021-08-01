@@ -22,7 +22,7 @@ Lorsque les scribes lui en firent l’énumération. il y avait six mille hommes
 
 Il dit aux héros :
 
-> Lorsque vous entendrez battre les timbales à l’heure où chante le coq, vous pousserez un cri, vous attaquerez les ennemis et vous couronnerez la tête des chefs d’un diadème de sang.»
+> Lorsque vous entendrez battre les timbales à l’heure où chante le coq, vous pousserez un cri, vous attaquerez les ennemis et vous couronnerez la tête des chefs d’un diadème de sang. »
 
 La troupe partit avec ardeur sur l’ordre du héros, précédée par les trois Turcs, qui portaient haut la tête ; elle marcha sur l’armée du roi, elle marcha pleine de colère et de vengeance.
 
@@ -37,9 +37,9 @@ Découragé par cet événement qui confondait le monde et perdu dans ses réfle
 Il resta ainsi jusqu’à ce que parût, au haut des montagnes, l’aurore, effrayée par les coups d’épée des armées. -
 a Lorsque le pan de la robe sombre de la nuit eut disparu, Khosrou vit le champ de bataille couvert de morts et de blessés ; il dit aux hommes qui portaient haut la tête :
 
-> Venez à mon aide, agissez contre nos ennemis, car celui qui donne la victoire est ma force et mon protecteur et maintenant les coups et l’épée sont mon affaire.»
+> Venez à mon aide, agissez contre nos ennemis, car celui qui donne la victoire est ma force et mon protecteur et maintenant les coups et l’épée sont mon affaire. »
 
-Ll courut jusqu’auprès de ces trois Turcs, que dis-je, des Turcs, les trois loups féroces.
+Il courut jusqu’auprès de ces trois Turcs, que dis-je, des Turcs, les trois loups féroces.
 
 L’un d’eux lança son cheval, arriva en face de Khosrou, tira son épée damasquinée et voulut frapper le roi sur la tête ; mais le vaillant prince couvrit sa tête du bouclier, frappa un coup rapide sous le bouclier du Turc avec son épée tranchante et le jeta par terre, la tête en bas.
 
@@ -47,13 +47,13 @@ Puis, il s’écria :
 
 > Ô hommes illustrés par les combats !
 >
-> Ce n’est pas le moment de nous arrêter.»
+> Ce n’est pas le moment de nous arrêter. »
 
 Mais tous se détournèrent et abandonnèrent honteusement le prince.
 
 Alors, il dit à Bendouï et à Gustehem :
 
-> Mainlenant j’ai mauvaise opinion de cette affaire.
+> Maintenant j’ai mauvaise opinion de cette affaire.
 
 Je n’ai pas de fils en âge d’homme, ni un parent propre à occuper le trône et si je suis tué dans la bataille, il ne restera pas un héritier pour la couronnem
 
@@ -63,13 +63,13 @@ Bendouï lui dit :
 >
 > Le monde a besoin de ta majesté.
 >
-> L’armée est partie, ne reste pas ici, car dans cette calamité tu ne trouves pas d’aide.»
+> L’armée est partie, ne reste pas ici, car dans cette calamité tu ne trouves pas d’aide. »
 
 Khosrou dit à Guers douï :
 
 > Pars en toute hâte avec Tokhar.
 >
-> Prends un millier de cavaliers parmi ceux qui restent encore et emporte du camp ce que tu trouveras de tentes, de brocarts, de trésors, de couronnes, de caisses d’or, d’esclaves et le trône d’ivoire.»
+> Prends un millier de cavaliers parmi ceux qui restent encore et emporte du camp ce que tu trouveras de tentes, de brocarts, de trésors, de couronnes, de caisses d’or, d’esclaves et le trône d’ivoire. »
 
 Les grands rassemblèrent les bagages et les trésors et se fatiguèrent à les emporter.
 
@@ -107,7 +107,6 @@ Bahram, le lion, s’élance sur lui, un arc à la main, un destrier semblable �
 
 Khosrou vit cela avec plaisir, il attacha la corde aux deux bouts de l’arc et frappa d’une flèche la poitrine du destrier, qui succomba du coup ; le Sipehbed, se trouvant démonté, saisit son bouclier et porta dans son désespoir la main à son front.
 
-Yelan Sineh accourut rapide comme la poussière, mais le prince Kei’anide, qui savait que c’était un brave, blessa aussitôt son cheval et Yelan Sineh, à pied, s’enfuit du pont ; tous les Turcs, jeunes et vieux, quittèrent le pont Un
-du Nahrewan et lorsque Bahram se fut aussi rei tiré, Khosrou démolit entièrement le pont.
+Yelan Sineh accourut rapide comme la poussière, mais le prince Kei’anide, qui savait que c’était un brave, blessa aussitôt son cheval et Yelan Sineh, à pied, s’enfuit du pont ; tous les Turcs, jeunes et vieux, quittèrent le pont Un du Nahrewan et lorsque Bahram se fut aussi rei tiré, Khosrou démolit entièrement le pont.
 
 Ensuite, il courut, rempli de chagrin, jusqu’à Thisifoun, le cœur plein de douleur, les yeux pleins de larmes de sang ; il fit fortifier les portes de la ville par des barres de fer et s’assit assiégé par une foule de soucis ; il fit venir un des notables de chaque rue et plaça des gardes à toutes les portes.
