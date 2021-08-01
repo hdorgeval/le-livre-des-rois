@@ -30,11 +30,11 @@ Le roi lui dit :
 
 > Accepte de moi cette commission et fais attention à tout ce que je te dis.
 >
-> Je veux un palais dans lequel mes fils et ma famille puissent demeurer pendant deux cents ans, sans qu’il tombe en ruines par l’effet de la pluie, rrde la foudre ou du soleil ; il faut le construire dans de telles proportions que personne ne soit obligé de le remanier.»
+> Je veux un palais dans lequel mes fils et ma famille puissent demeurer pendant deux cents ans, sans qu’il tombe en ruines par l’effet de la pluie, rrde la foudre ou du soleil ; il faut le construire dans de telles proportions que personne ne soit obligé de le remanier. »
 
 Le géomètre se chargea du palais du roi, en disant :
 
-> Je puis faire cela.»
+> Je puis faire cela. »
 
 Il creusa les fondements jusqu’à dix empans de roi, dont chacun fait cinq empans ordinaires ; il construisit les murs avec la pierre et le mortier, comme un homme qui veut bien faire son œuvre.
 
@@ -42,9 +42,9 @@ Lorsque les murs du palais furent élevés, le Roumi se présenta devant le maî
 
 > Si le roi connaît un homme expert, d’âge mur et savant en bien des c’hoses, a : ’t
 >
-> qu’il envoie sur les lieux ce Mobed bienveillant avec quelques hommes de son choix.»
+> qu’il envoie sur les lieux ce Mobed bienveillant avec quelques hommes de son choix. »
 
-Le roi lui donna un homme tel qu’il le demandait et ils allèrent et constatèrent que les murs étaient d’aplomh.
+Le roi lui donna un homme tel qu’il le demandait et ils allèrent et constatèrent que les murs étaient d’aplomb.
 
 Le Roumi apporta de la soie et en fit tresser par les hommes présents une corde mince, avec laquelle il toisa. les murs du palais, d’en haut jusqu’au sol de la salle du conseil ; puis il mesura devant cette assemblée la longueur de la corde qu’il avait fait tresser et la porta au trésor du roi des rois, la fit mettre sous le sceau par le trésorier et la lui remit.
 
@@ -54,13 +54,13 @@ Ensuite, il alla chez le roi et dit :
 >
 > Il y a quarante jours que le roi m’a chargé de cette œuvre et m’a choisi parmi tous les architectes ; mais que le roi, si pressé qu’il soit, me permette de ne pas hâter l’achèvement de l’œuvre.
 >
-> Quand le temps de terminer le palais sera arrivé, sa cime atteindra Saturne. mais il ne faut pas que tu montres de l’impatience et que tu m’accables de travail.»
+> Quand le temps de terminer le palais sera arrivé, sa cime atteindra Saturne. mais il ne faut pas que tu montres de l’impatience et que tu m’accables de travail. »
 
 Khosrou répondit :
 
 > Ô méchant homme, pourquoi me demandes-tu tant de temps ?
 >
-> Il ne faut pas que tu interrompes l’œuvre, tu n’as pas encore besoin de repos.»
+> Il ne faut pas que tu interrompes l’œuvre, tu n’as pas encore besoin de repos. »
 
 Il ordonna qu’on payât au Roumi trente mille dirhems, pour qu’il ne fût pas mécontent.
 
@@ -84,13 +84,13 @@ Le roi lui dit :
 
 > Ô homme criminel !
 >
-> Dis quelle est ton excuse et comment astn pu dire que la leçon que tu voulais nous donner serait reconnue juste?»
+> Dis quelle est ton excuse et comment astn pu dire que la leçon que tu voulais nous donner serait reconnue juste ? »
 
 Le Roumi lui dit :
 
 > S’il plaît au roi de me faire ac-Lili.
 >
-> compaguer d’un homme en qui il ait confiance, je montrerai à cet expert ce qui doit me faire pardonner et pour excuse je prouverai la justesse de ma leçon.»
+> compaguer d’un homme en qui il ait confiance, je montrerai à cet expert ce qui doit me faire pardonner et pour excuse je prouverai la justesse de ma leçon. »
 
 Le roi envoya un de ses amis qui partit avec le maître illustre.
 
@@ -102,7 +102,7 @@ Ils rapportèrent la corde auprès du roi et celui qui avait accompagné le Roum
 
 Le Roumi dit alors :
 
-> Ô roi, si j’avais terminé ’édifice en haut, il ne serait resté ni mur, ni voûte, ni édifice et moi je. ne serais pas resté en oie à la cour du roi.»
+> Ô roi, si j’avais terminé ’édifice en haut, il ne serait resté ni mur, ni voûte, ni édifice et moi je. ne serais pas resté en oie à la cour du roi. »
 
 Le roi comprit qu’il avait dit vrai ; personne ne peut résister à la vérité.
 
@@ -116,7 +116,7 @@ Après sept ans, le palais fut achevé de manière à être approuvé par les ho
 
 Khosrou combla d’honneurs le Roumi et lui assigna des terres, lui donna de l’argent et de l’or et le couvrit de louanges.
 
-Tout le monde vint voir le palais et le roi s’y rendit au jour de l’an ; personne n’avait jamais vu un édifice comme celuilà, ni n’avait entendu parler d’une
+Tout le monde vint voir le palais et le roi s’y rendit au jour de l’an ; personne n’avait jamais vu un édifice comme celui-là, ni n’avait entendu parler d’une
 
 KHOSROU maux. ’
 construction pareille par des artistes illustres.
@@ -133,7 +133,7 @@ Alors s’éleva du palais une voix dont les sons remuaient tous les cœurs et q
 >
 > Quiconque jettera les yeux sur ce palais élevégsentira disparaître ses soucis.
 >
-> Mais il faut regarder plus loin que le trône des Keïanides, avoir des égards pour vos inférieurs, avoir soin des blessés, si vous en rencontrez sur la route.»
+> Mais il faut regarder plus loin que le trône des Keïanides, avoir des égards pour vos inférieurs, avoir soin des blessés, si vous en rencontrez sur la route. »
 
 Alors personne ne restait plus dans les Chaînes du roi, qu’il fût coupable ou innocent.
 
