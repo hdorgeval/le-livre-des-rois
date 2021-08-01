@@ -18,7 +18,7 @@ order: '038'
 
 Ainsi Bahram jouissait de la vie et faisait des largesses, chacun lui rendait hommage et cela dura jusqu’à ce que des nouvelles de lui fussent arrivées dans l’Iran et chez le roi des braves, à qui l’on dit :
 
-> Bahram a acquis sans peine un royaume et des trésors plus grands que les tiens.»
+> Bahram a acquis sans peine un royaume et des trésors plus grands que les tiens. »
 
 Le roi s’en attrista, car il le craignait et les hauts faits de Bahram faisaient trembler son cœur ; il tint conseil avec ses . grands, il parla beaucoup et proposa toute sorte de plans.
 
@@ -44,9 +44,9 @@ Pas un homme doué de droiture ne le comprendra et pour moi, je le désapprouve.
 
 Il ne faut pas que tu rendes stérile ta gloire et que tu vendes à Bahram ton repos.
 
-Quand on te remettra cette lettre, réfléchis mûrement dans ton esprit pénétrant et si tu me renvoies cet esclave, r : les pieds enchaînés, tu auras pris le bon parti ; sinon, j’enverrai de l’Iran une armée et rendrai noir pour les Touraniens le jour brillanta Lorsque la lettre l’ut arrivée aux mains du Khakau et qu’il eut entendu des paroles semblables de la part de Khosrou, il dit à l’envoyé :
+Quand on te remettra cette lettre, réfléchis mûrement dans ton esprit pénétrant et si tu me renvoies cet esclave, les pieds enchaînés, tu auras pris le bon parti ; sinon, j’enverrai de l’Iran une armée et rendrai noir pour les Touraniens le jour brillanta Lorsque la lettre fut arrivée aux mains du Khakau et qu’il eut entendu des paroles semblables de la part de Khosrou, il dit à l’envoyé :
 
-> Demain matin, quand tu te présenteras à la cour, demande la rérponse à cette lettre.»
+> Demain matin, quand tu te présenteras à la cour, demande la réponse à cette lettre. »
 
 L’envoyé partit le cœur plein d’anxiété et ne put ni se reposer ni dormir.
 
@@ -66,11 +66,11 @@ Depuis que j’existe je n’ai pas enfreint un traité ; ne me parle donc pas a
 
 Mais je ne crains que Dieu le toutsaint, et, si grande que soit devenue ta puissance,
 
-Il aurait mieux valu que ton intelligence eût grandi.»
+Il aurait mieux valu que ton intelligence eût grandi. »
 
 Il posa son sceau sur la lettre et dit à l’envoyé :
 
-> Il faut que tu le fasses le compagnon du vent.»
+> Il faut que tu le fasses le compagnon du vent. »
 
 L’envoyé revint auprès du roi ; il parcourut cette roulelen moins d’un mais.
 
@@ -86,8 +86,8 @@ Il reçut des Iraniens cette réponse :
 >
 > Choisis dans l’Iran un vieillard intelligent, éloquent, vaillant et lettré, pour qu’il se rende d’ici chez le Khakan, lui parle et apprenne ses intentions.
 >
-> Il lui dira ce qu’était Bahram au commencement et ce qu’il chercha plus tard à tirer de son poste de Pehlewan, comment il s’est comporté usqu’à ce qu’il eût acquis du pouvoir et comment il voulut alors réduire à la captivité son maître.
+> Il lui dira ce qu’était Bahram au commencement et ce qu’il chercha plus tard à tirer de son poste de Pehlewan, comment il s’est comporté jusqu’à ce qu’il eût acquis du pouvoir et comment il voulut alors réduire à la captivité son maître.
 >
 > Si l’envoyé ne réussit pas dans un mois, qu’il reste et qu’il prenne une année de temps.
 >
-> Puisque Bahram est le gendre du Khakan, il ne sera pas facile de parler mal de lui ; il faudra prononcer bien des paroles douces, sans que personne pénètre le secret.»
+> Puisque Bahram est le gendre du Khakan, il ne sera pas facile de parler mal de lui ; il faudra prononcer bien des paroles douces, sans que personne pénètre le secret. »
