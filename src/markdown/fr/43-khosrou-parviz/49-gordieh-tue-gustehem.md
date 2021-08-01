@@ -25,7 +25,7 @@ Un jour il dit, dans son trouble, à Guerdouî :
 > Gustehem a épousé Gordieh ; c’est vers lui que sont dirigées ces grandes masses d’hommes et je crois que c’est
 ’ elle qui les a conseillées.
 >
-> Un de mes espions est revenu d’Amol et a dévoilé tout ce qui était secret.»
+> Un de mes espions est revenu d’Amol et a dévoilé tout ce qui était secret. »
 
 Il parla ainsi jusqu’à ce qu’il fût nuit et que les yeux du héros ne virent plus clair.
 
@@ -36,7 +36,7 @@ et Khosrou se mirent à parler ensemble de toute chose grande et petite et le ro
 
 > J’ai envoyé à Amol des troupes nombreuses pour livrer bataille ; mais elles sont toutes restées prisonnières, ou revenues battues et pleines de lamentations et de douleur.
 
-Maintenant je n’ai qu’une seule ressource, i quoiqu’elle soit faible. quand il s’agit d’un trône et d’une couronne.
+Maintenant je n’ai qu’une seule ressource, quoiqu’elle soit faible. quand il s’agit d’un trône et d’une couronne.
 
 Quand Bahram Djoubineh a quitté la bonne voie, Gordieh est toujours restée notre amie et cela me donne aujourd’hui un moyen de salut ; mais n’en parle pas devant la cour.
 
@@ -56,7 +56,7 @@ Il faut écrire à Gordieh une lettre semblable au ruisseau de vin du jardin du 
 >
 > Tu entreras dans les appartements. dorés de mes femmes, tu mettras fin àstoutes mes vengeances.
 >
-> Je jure de tenir tout cela, j’ajoute de nouveaux serments a mes serments et si jamais je détourne mon cœur de mes engagements, que tous mes alliés m’abandonnent !»
+> Je jure de tenir tout cela, j’ajoute de nouveaux serments a mes serments et si jamais je détourne mon cœur de mes engagements, que tous mes alliés m’abandonnent ! »
 
 Guerdouî. répondit :
 
@@ -68,7 +68,7 @@ Guerdouî. répondit :
 >
 > Je demande une lettre avec le sceau du roi et écrite de sa main, une lettre brillante comme la lune ; j’enverrai ma femme auprès de ma sœur et j’écarterai ainsi tous les malveillants, car ce sont des paroles qu’une femme seule doit porter, surtout une femme de bon conseil.
 >
-> Plus je réfléchis là-dessus, plus je vois qu’il faut confier ton message à ma sœur et alors tout se terminera vite et selon ton gré ; il ne faut faire ni plus ni moins.»
+> Plus je réfléchis là-dessus, plus je vois qu’il faut confier ton message à ma sœur et alors tout se terminera vite et selon ton gré ; il ne faut faire ni plus ni moins. »
 
 Khosrou fut heureux de ces paroles, tous ses chagrins devinrent pour son cœur légers comme un souffle d’air.
 
@@ -80,7 +80,7 @@ Il commença sa lettre par ce qu’avait fait Bahram, qui a donné un mauvais re
 
 Celui dont l’âme ne possède pas la sagesse ne réfléchit pas sur ce qu’il fait ; mais nous, qui devons, mourir de même qu’il est mort, con-fions-nous-en à la justice du;maître du monde.
 
-Quand ma femme sera arrivée chez toi, elle éclairera ton jugement troublé ; ne te détourne d’aucune manière de ses paroles, car si tu les négligeais, notre fortune pâlirait.»
+Quand ma femme sera arrivée chez toi, elle éclairera ton jugement troublé ; ne te détourne d’aucune manière de ses paroles, car si tu les négligeais, notre fortune pâlirait. »
 
 Il plaça dans cette lettre celle du roi et les enferma dans une enveloppe de satin ; sa femme, pleine de ressources, les prit, écouta ses paroles impérieuses et voyagea rapidement jusqu’à la forêt de Narwen.
 
@@ -94,7 +94,7 @@ Quand cette lionne vit la lettre royale, on aurait dit qu’elle voyait la lune 
 
 Elle sourit, disant :
 
-> Cette affaire est facile pour quelqu’un qui a cinq amis.»
+> Cette affaire est facile pour quelqu’un qui a cinq amis. »
 
 Elle lut la lettre du roi à cinq hommes, en la cachant à l’assemblée des grands ; puis elle prit la parole, conclut rapidement une convention avec eux et donna sa main à chacun
 
