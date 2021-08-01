@@ -50,7 +50,7 @@ Un de ses conseillers dit :
 > Son armée n’était pas le centième de la nôtre et pas un jeune homme parmi ses cavaliers n’a été blessé.
 >
 > C’est Dieu, le maître du monde,
-. qui l’a guidé ; je pourrais en dire davantage, mais tu ne devrais pas l’entendre.»
+. qui l’a guidé ; je pourrais en dire davantage, mais tu ne devrais pas l’entendre. »
 
 À ces paroles, Parmoudeh devint tout pensif sur ce qu’il devait faire.
 
@@ -70,7 +70,7 @@ n chefs de l’armée !
 > Qu’est-il arrivé et qu’arrivera-
 et-il ?
 >
-> Il faut quenous en délibérions.»
+> Il faut quenous en délibérions. »
 
 Pendant que le roi des rois parlait ainsi, le grand maître des cév rémonies entra et donna de bonnes nouvelles, disant :
 
@@ -78,7 +78,7 @@ Pendant que le roi des rois parlait ainsi, le grand maître des cév rémonies e
 
 Reux !
 
-Bahram a vaincu Saweh et a rendu le monde brillant par sa victoire.»
+Bahram a vaincu Saweh et a rendu le monde brillant par sa victoire. »
 
 Le roi fit appeler à l’instant l’envoyé de Bahram et le lit asseoir au-dessus de tous les grands.
 
@@ -92,7 +92,7 @@ Cet homme dit :
 >
 > Les têtes de Saweh et de son fils cadet, à
 >
-> -qui sonpère avait donné le titre de Faghl’our, sont redevant ta porte, piquées sur des pointes de lance et le pays entier peut les contempler.»
+> -qui sonpère avait donné le titre de Faghl’our, sont redevant ta porte, piquées sur des pointes de lance et le pays entier peut les contempler. »
 
 Le roi des rois écoula et se leva ; il courba soudain sa taille droite et se mit en prière devant Dieu, disant :
 
@@ -118,7 +118,7 @@ Il écrivit rapidement une réponse à la lettre de Bahram et planta un arbre da
 
 > Distribue à l’armée toutes les richesses que tu as fait ramasser sur la route, excepté le trénsor particulier de Saweh, qu’il faut envoyer à ma w cour.
 >
-> Ensuite tu combattras Parmoudeh aussi longtemps qu’il prétendra à l’indépendance.»
+> Ensuite tu combattras Parmoudeh aussi longtemps qu’il prétendra à l’indépendance. »
 
 Il fit aux Iraniens des largesses et les confirma par des lettres patentes qu’il envoya dans tous les pays.
 
