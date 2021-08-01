@@ -38,7 +38,7 @@ Le vaillant Bahram frotta de nouveau son arc et le brillant de ses flèches écl
 
 Bahram décocha une autre flèche contre sa tête et le sang du Keppi coula comme de l’eau.
 
-Bahram, voyant la force de l’animal qui allait l’attaquer, lui envoya une troisième flèchedans la patte.
+Bahram, voyant la force de l’animal qui allait l’attaquer, lui envoya une troisième flèche dans la patte.
 
 Ensuite, il détacha le lacet et s’élance sur la liante montagne, perça la bête fauve au milieu du corps Hi.
 
@@ -47,7 +47,7 @@ Le KhaIran et la Khatoun se rendirent à cette forêt et montèrent en courant t
 
 Le Sipehdar de la Chine serra Bahram dans ses bras et lui donna, à partir de la, le titre de roi.
 
-Quand la Khatoun arriva, elle baisa la main à Bahram ; les vaillants membres de la famille du Khakan s’approehèrent ; les héros de la Chine poussèrent un cri tel qu’on aurait dit que ces voix fendaient la terre ; ils couvrirent Bahram de bénédictions et répandirent sur lui beaucoup d’or et de pierreries.
+Quand la Khatoun arriva, elle baisa la main à Bahram ; les vaillants membres de la famille du Khakan s’approchèrent ; les héros de la Chine poussèrent un cri tel qu’on aurait dit que ces voix fendaient la terre ; ils couvrirent Bahram de bénédictions et répandirent sur lui beaucoup d’or et de pierreries.
 
 Lorsque le Khakan fut arrivé dans son palais, il choisit un messager plein d’aménité et envoya à Bahram cent caisses remplies d’argent, des esclaves, des étoiles et d’autres présents.
 
@@ -57,18 +57,18 @@ Il dit au messager :
 
 > Tu t’es couvert de gloire devant moi.
 >
-> J’ai dans l’appartement des femmes une fille qui est le diadème sur la tête des princesses ; si tu me la demandes en mariage je te confierai mon armée et mon pays.»
+> J’ai dans l’appartement des femmes une fille qui est le diadème sur la tête des princesses ; si tu me la demandes en mariage je te confierai mon armée et mon pays. »
 
 Bahram répondit :
 
 > C’est bien !
 >
-> Le maître du monde est le riialtre de ses esclaves.»
+> Le maître du monde est le riialtre de ses esclaves. »
 
-Le Khakan lit venir un scribe et l’on écrivit le diplôme sur de la soie ; il donna à Bahram sa tille et mit tout son pays sous ses ordres.
+Le Khakan lit venir un scribe et l’on écrivit le diplôme sur de la soie ; il donna à Bahram sa fille et mit tout son pays sous ses ordres.
 
 Ou prépara un présent selon les coutumes de la Chine, on fit venir beaucoup de diadèmes et de ceintures et le Khakan lui dit :
 
-> Distribué tout cela aux chefs iraniens selon leur droit.»
+> Distribué tout cela aux chefs iraniens selon leur droit. »
 
-Bahram s’adonnaitaux festins, il faisait des cadeaux, il allait à la chasse sans souci de la rotation du sort ; les grands de la Chine, qui portaient haut la tête, témoignaient leur déférence au héros et tous les Chinois lui disaient : lNous sommes tes esclaves, nous ne vivons que pour te servir.»
+Bahram s’adonnaitaux festins, il faisait des cadeaux, il allait à la chasse sans souci de la rotation du sort ; les grands de la Chine, qui portaient haut la tête, témoignaient leur déférence au héros et tous les Chinois lui disaient : lNous sommes tes esclaves, nous ne vivons que pour te servir. »
