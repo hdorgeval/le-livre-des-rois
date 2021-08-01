@@ -36,7 +36,7 @@ Il lui dit :
 >
 > Bahram me suivit jusqu’au pont de Nahrewan avec b5 une armée qui ressemblait à une montagne mouvante et quand mes affaires furent désespérées je me suis enfui pour n’être pas pris dans tas pièges de la destruction.
 >
-> J’ai réfléchi sur ce qui pouvait nous être utile ou nuisible, j’ai pensé que les Arabes pourraient nous soutenir et si le roi le permet, j’amènerai les cavaliers arabes à notre aide.»
+> J’ai réfléchi sur ce qui pouvait nous être utile ou nuisible, j’ai pensé que les Arabes pourraient nous soutenir et si le roi le permet, j’amènerai les cavaliers arabes à notre aide. »
 
 Hormuzd répondit :
 
@@ -48,31 +48,32 @@ Hormuzd répondit :
 >
 > Si tu te décides à quitter ce pays, cours rapidement vers Roum et quand tu y seras arrivé, répète au Kaïsar toutes mes paroles suppliantes.
 >
-> C’est un pays où il y a de la religion et des richesses et où les armes et les troupes sont en bon ordre ; de plus, ces princes descendent de Feridoun, ils sont tes parents et viendront au-devant de toi, si tu es dans le malheur.»
+> C’est un pays où il y a de la religion et des richesses et où les armes et les troupes sont en bon ordre ; de plus, ces princes descendent de Feridoun, ils sont tes parents et viendront au-devant de toi, si tu es dans le malheur. »
 
 Khosrou écouta ces paroles, baisa la terre devant Hormuzd et prononça beaucoup de bénédictions sur lui.
 
 Ensuite, il dit à Bandouï, Guerdouî et Gustehem :
 
-> (i fifi
-Les chagrins et les fatigues sont devenus nos compagnons ; préparez les bagages et faites-les charger, abandonnez le pays d’Iran à notre ennemi.»
+> (i fifi Les chagrins et les fatigues sont devenus nos compagnons ; préparez les bagages et faites-les charger, abandonnez le pays d’Iran à notre ennemi. »
 
 Ayant dit cela, il entendit la voix de la vigie qui criait :
 
 > Ô prince à l’étoile heureuse et plein de justice !
 >
-> Une poussière noire s’élève sur la route, on voit un drapeau brillant au milieu des troupes.»
+> Une poussière noire s’élève sur la route, on voit un drapeau brillant au milieu des troupes. »
 
 Aussitôt que Khosrou entendit ce cri, il monta à cheval, rapide comme la fumée et quitta la ville en courant comme la poussière, suivi du drapeau couleur de lapis-lazuli, de ce drapeau à figure de dragon, que Djoubineh avait porté haut aux bords du Nahrewan.
 
 Il secouait ses bras et son corps et en tournant la tête il aperçut Gustehem et Bendouî
 qui tous les deux cheminaient doucement.
 
-Il leur cria avec une voix de colère : Ô hommes indignes !
+Il leur cria avec une voix de colère :
 
-Que s’est-il donc passé que nos ennemis puissent arriver comme s’ils étaient des nôtres ?
-
-Dans tous les cas, pourquoi allez-vous si lentement, puisque Bahram est derrière vous?»
+> Ô hommes indignes !
+>
+> Que s’est-il donc passé que nos ennemis puissent arriver comme s’ils étaient des nôtres ?
+>
+> Dans tous les cas, pourquoi allez-vous si lentement, puisque Bahram est derrière vous ? »
 
 Bendouî répondit :
 
@@ -88,7 +89,7 @@ Bendouî répondit :
 >
 > S’il arrive donc dans votre pays, liez-le et remplissez de douleur son cœur joyeux ; renvoyez-le à cette cour et n’attendez pas jusqu’à ce qu’il soit devenu puissant.
 >
-> On enchaînera alors les pieds du roi et on le renverra à cette cour versant des larmes.»
+> On enchaînera alors les pieds du roi et on le renverra à cette cour versant des larmes. »
 
 Le cœur de Khosrou fut troublé par ces paroles et son visage devint sombre par l’effet de leurs discours.
 
@@ -96,13 +97,13 @@ Il répondit :
 
 > Il se peut que notre mauvaise destinée nous envoie quelque chose de semblable.
 >
-> Il y aurait beaucoup à dire et notre position est difficile ; mais nous mettons notre confiance en Dieu.»
+> Il y aurait beaucoup à dire et notre position est difficile ; mais nous mettons notre confiance en Dieu. »
 
 Il poussa son cheval, en disant :
 
 > Le bonheur ou le malheur que le maître du monde a inscrit sur notre front arrivera et nos soucis ne le changeront pas.
 >
-> Plut à Dieu que nos ennemis n’obtiennent pas ce qu’ils désirent.»
+> Plut à Dieu que nos ennemis n’obtiennent pas ce qu’ils désirent. »
 
 Aussitôt qu’il se fut éloigné, ces deux scélérats s’en retournèrent pleins de haine ; ils entrèrent dans la salle d’au-dience du roi, remplis de colère et le cœur prêt à tout crime ; ayant franchi la porte et étant arrivés auprès du trône, ils détachèrent la corde d’un arc, la jetèrent rapidement autour du con du roi vénérable ti.
 
@@ -114,7 +115,7 @@ Telle est la coutume de ce monde changeant, tantôt il porte comme fruit du miel
 
 Puisque telle est sa nature, n’y cherche pas des jouissances, car cette recherche ne te donnera que de la peine.
 
-Lorsque la rotation des jours de Hormuzd fut terminée, ce trône et ce lieu béni restèrent vides ; on entendit le son des timbales, la joue des meurtriers devint blanche comme de la sandaraque, le drapeau du Sipehbed parut sur la route au milieu de son armée, Gustehem et Bendouî, ces deux mall’aiteurs, s’enfuirent du palais en toute hâte et coururent rejoindre Khosrou.
+Lorsque la rotation des jours de Hormuzd fut terminée, ce trône et ce lieu béni restèrent vides ; on entendit le son des timbales, la joue des meurtriers devint blanche comme de la sandaraque, le drapeau du Sipehbed parut sur la route au milieu de son armée, Gustehem et Bendouî, ces deux malfaiteurs, s’enfuirent du palais en toute hâte et coururent rejoindre Khosrou.
 
 Quand le prince les vit avec leurs visages pâles, il comprit pourquoi ces hommes au cœur plein de mystères avaient quitté le maître du monde.
 
@@ -122,4 +123,4 @@ Ses joues devinrent blanches comme la fleur du fenugrec, mais il ne laissa rien 
 
 Il leur dit :
 
-> Quittez la grande route, car une armée s’approche de nous ; prenez le désert et cette longue route et ne laissez pas fléchir vos corps sous la fatigue.»
+> Quittez la grande route, car une armée s’approche de nous ; prenez le désert et cette longue route et ne laissez pas fléchir vos corps sous la fatigue. »
