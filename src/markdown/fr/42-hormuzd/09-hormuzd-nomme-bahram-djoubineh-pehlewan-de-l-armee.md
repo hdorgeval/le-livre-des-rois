@@ -22,15 +22,15 @@ Il donna à Bahram le commandement de ses troupes et éleva jusqu’aux nues sa 
 
 Le Sipehbed se présenta devant le roi dans son armure de combat et lui dit :
 
-> a Le roi me permet-il que je passe une revue pour connaître le nombre de : hommes et pour voir qui, parmi eux, est propre à la guerre ou qui se fera attendre au moment ou il s’agira d’acquérir de la gloire?»
+> a Le roi me permet-il que je passe une revue pour connaître le nombre de : hommes et pour voir qui, parmi eux, est propre à la guerre ou qui se fera attendre au moment ou il s’agira d’acquérir de la gloire ? »
 
 Le roi lui dit :
 
-> Tu es le chef de l’armée, c’est. de toi que dépend notre fortune, bonne ou mauvaise.»
+> Tu es le chef de l’armée, c’est. de toi que dépend notre fortune, bonne ou mauvaise. »
 
 Le Sipehbed partit pour le lieu des revues et fil passer devant lui les troupes.
 
-Il choisit une armée parmi les Iraniens, pour laquelle il prit tous les meilleurs cavaliers et l’on écrivit les noms de douze mille cavaliers armésde cottes de mailles et montés sur des chevaux caparaçonnés ; mais on ne comprit nounou). -dans les rôles que des hommes de quarante ans et l’on refusa ceux qui étaient plus âgés ou plus jeunes.
+Il choisit une armée parmi les Iraniens, pour laquelle il prit tous les meilleurs cavaliers et l’on écrivit les noms de douze mille cavaliers armés de cottes de mailles et montés sur des chevaux caparaçonnés ; mais on ne comprit nounou). -dans les rôles que des hommes de quarante ans et l’on refusa ceux qui étaient plus âgés ou plus jeunes.
 
 Bahram fils de Bahram était commandant en chef et homme célèbre par sa bravoure.
 
@@ -44,21 +44,25 @@ Ensuite le Peblewan dit à l’armée :
 
 > Ô hommes illustres, à l’esprit clairvoyant !
 
-Si vous voulez que Dieu vienne à votre aide et qu’il dissipe les ténèbres de tr votre position, n’opprimez personne, ne causez pas de dommage, ne vous servez jamais de vos armes pour faire du mal.
+Si vous voulez que Dieu vienne à votre aide et qu’il dissipe les ténèbres de votre position, n’opprimez personne, ne causez pas de dommage, ne vous servez jamais de vos armes pour faire du mal.
 
-Lorsque le bruit des trompettes résonne dans la nuit sombre, levez-vous à l’instant v et dirigez vos destriers de manière à remplir de terreur les ténèbres.
+Lorsque le bruit des trompettes résonne dans la nuit sombre, levez-vous à l’instant et dirigez vos destriers de manière à remplir de terreur les ténèbres.
 
-Dès qu’il s’agit de combattre, r : il faut que ni les chevaux ni les hommes ne pensent à l’étendue de leurs forces ni au besoin de repos. a
+Dès qu’il s’agit de combattre, il faut que ni les chevaux ni les hommes ne pensent à l’étendue de leurs forces ni au besoin de repos. a
 
 Lorsque le roi apprit comment Bahram préparait tout avec intelligence, il fut heureux de ses discours et de ses actes ; il ouvrit son trésor et paya la solde ; il remit de même à Bahram ses magasins d’agmes et en ouvrit les portes ; il fit venir en ville quelques troupeaux de chevaux de guerre qu’il avait sur les pâturages et ordonna au Pehlewan de lui demander tout ce qu’il fallait.
 
-Il ajouta : Tu as vu des combats de toute espèce et tu as entendu parler de la quantité d’armes et d’hommes que l’illustre Saweh possède ; tu me qu’au jour du combat les Turcs feront trembler le sol du champ de bataille et pourtant tu n’as choisi dans mon armée que douze mille cavaliers couverts de cottes de mailles et montés sur des chevaux caparaçonnés.
+Il ajouta :
+
+> Tu as vu des combats de toute espèce et tu as entendu parler de la quantité d’armes et d’hommes que l’illustre Saweh possède ; tu me qu’au jour du combat les Turcs feront trembler le sol du champ de bataille et pourtant tu n’as choisi dans mon armée que douze mille cavaliers couverts de cottes de mailles et montés sur des chevaux caparaçonnés.
 
 Je ne comprends pas comment tu pourras agir avec si peu de monde au jour de la bataille, d’autant plus qu’au lieu d’hommes jeunes, prêts à frapper de l’épée, tu n’as choisi que des hommes de quarante anse Le Sipehbed répondit :
 
-> Ô roi à l’étoile fortunée, aux paroles doucesl tu connais les histoires des grands qui ont été jadis rois du monde.
+> Ô roi à l’étoile fortunée, aux paroles douces !
 >
-> Si le roi mon maître veut les écouter, je prouverai par elles que, quand on est soutenu par la fortune victotorieuse, le petit nombre des troupes importe peu.
+> Tu connais les histoires des grands qui ont été jadis rois du monde.
+>
+> Si le roi mon maître veut les écouter, je prouverai par elles que, quand on est soutenu par la fortune victorieuse, le petit nombre des troupes importe peu.
 >
 > On avait enchaîné dans le Hamavaran Keï Kaous, ce et une armée innombrable le gardait.
 >
@@ -76,15 +80,15 @@ Je ne comprends pas comment tu pourras agir avec si peu de monde au jour de la b
 >
 > Un jeune homme voit un appât et tombe dans une embûche ; il n’a pas de patience au moment où il faudrait tarder ; il n’a ni femme, ni enfants, ni champs ensemencés ; il ne distingue pas ce qui a de la valeur de ce qui n’en a pas ; et comme on ne peut pas acquérir de l’intelligence sans expérience, il ne comprend pas ce qui est important dans une affaire.
 >
-> S’il est victorieux dans le combat, il est heureux, se réjouit et s’arrête et s’il est vaincu, il s’enfuit et son ennemi ne voit de lui quevle des.»
+> S’il est victorieux dans le combat, il est heureux, se réjouit et s’arrête et s’il est vaincu, il s’enfuit et son ennemi ne voit de lui quevle des. »
 
 À ces paroles, le visage du roi devint frais comme une rose de printemps :
 
 > il lui dit :
 
-> Va, revêts ta cuirasse de combat et sors du palais pour aller au Meîdan.»
+> Va, revêts ta cuirasse de combat et sors du palais pour aller au Meîdan. »
 
-Le Sipehbed quitta le roi, demanda une ceinture, une cette de mailles ’et un casque roumi, jeta un caparaçon sur son destrier isabelle et attacha au crochet de la selle un lacet roulé.
+Le Sipehbed quitta le roi, demanda une ceinture, une cotte de mailles ’et un casque roumi, jeta un caparaçon sur son destrier isabelle et attacha au crochet de la selle un lacet roulé.
 
 Le roi du monde se rendit au Meîdan avec son vizir, armé de raquettes. de balles et de flèches et le Sipehbed arriva au Meî-
 dan du roi avec une cuirasse, une massue et un casque roumi.
@@ -93,12 +97,14 @@ Le roi en le voyant le bénit et le Sipehbed baisa la terre devant lui.
 
 Le roi fit apporter un drapeau impérial à figure de dragon violet, le même qu’on avait porté devant Rustem dans les batailles.
 
-Le roi de l’Iran le saisit rapidement, le caressa de la main en souriant et le remit à Bahram avec maintes bénédictions, ajoutant : Celui dont tu tiens le drapeau est l’homme que les rois, mes ancêtres, appelaient le chef du peuple et dont le nom était Rustem le Pehlewan, le conquérant du monde, le victorieux, le clairvoyant.
+Le roi de l’Iran le saisit rapidement, le caressa de la main en souriant et le remit à Bahram avec maintes bénédictions, ajoutant :
+
+> Celui dont tu tiens le drapeau est l’homme que les rois, mes ancêtres, appelaient le chef du peuple et dont le nom était Rustem le Pehlewan, le conquérant du monde, le victorieux, le clairvoyant.
 
 Puisses-tu être heureux et dévoué au roi !
 
 Je crois que tu es un autre Rusrr lem en bravoure, en vaillance et en dévouementn [ : Le Pehlewau le bénit, disant :
 
-> Puisses-tu être victorieux et serein d’esprit !»
+> Puisses-tu être victorieux et serein d’esprit ! »
 
 Le Sipehbed rentra du Meîdan chez lui, le drapeau de Rustem en main ; les héros du roi se dispersèrent et le Pehlewan de l’armée se sentit heureux.
