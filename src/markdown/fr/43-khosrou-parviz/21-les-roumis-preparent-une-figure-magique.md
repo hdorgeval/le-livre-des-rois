@@ -20,7 +20,7 @@ Lorsque le soleil qui tourne eut pâli et que l’astre I eut paru dans la const
 
 Péparez, dit-il, quelque part une œuvre merveilleuse de magie, que personne ne puisse distinguer d’un corps humain, une figure de belle femme assise sur un trône paré, vêtue modestement d’une longue robe, ayant des deux côtés des suivantes et devant et derrière des esclaves.
 
-Cette figure au visage de lune sera assise sur le trône sans parler et ressemblera à une femme qui pleure ; de temps en temps elle lèvera une main et essuiera une larme sur ses cils et qui la verra de loin la prendra pour une femme aux joues brillantes, qui pleurerait amèrement le Messie, les joues roses, les Knosnou innvnz. au larmes tombant des cils comme d’un nuage prinlanier.»
+Cette figure au visage de lune sera assise sur le trône sans parler et ressemblera à une femme qui pleure ; de temps en temps elle lèvera une main et essuiera une larme sur ses cils et qui la verra de loin la prendra pour une femme aux joues brillantes, qui pleurerait amèrement le Messie, les joues roses, les Knosnou innvnz. au larmes tombant des cils comme d’un nuage printanier. »
 
 Cette grande ligure magique étant mise en place, un de ses conseillers vint l’annoncer au Kaisar, qui écoula les paroles du sage et alla à l’instant en toute hâte voir l’image.
 
@@ -44,11 +44,11 @@ Il dit à Gustehem :
 >
 > Prends la peine d’aller la voir, faisolui entendre les paroles des sages.
 >
-> Tu es jeune et de race de Pehlewans, peut-être qu’elle déliera sa langue devant toi.»
+> Tu es jeune et de race de Pehlewans, peut-être qu’elle déliera sa langue devant toi. »
 
 Gustehem dit :
 
-> Je vais le faire, dans l’espoir de réveiller la sensibilité de son cœur.»
+> Je vais le faire, dans l’espoir de réveiller la sensibilité de son cœur. »
 
 Cet homme illustre alla vers la figure, le cœur ouvert et plein d’éloquence ; lorsqu’il s’en approcha, LE LIVRÉ elle s’inclina du haut de son trône.
 
@@ -58,17 +58,17 @@ Il commença bravement par lui donner des avis et lui fit de longs et sages disc
 
 > Ô fille des Kaisars, un être doué de raison ne se plaint pas de ce que le sort amène.
 >
-> L’aigle dans son vol, le lion dans le fourré, le poisson dans l’eau, n’échappent pas à la mort.»
+> L’aigle dans son vol, le lion dans le fourré, le poisson dans l’eau, n’échappent pas à la mort. »
 
 Mais les paroles du Pehlewan n’étaient que du vent, car il avait devant lui un corps sans âme et une tête sans langue, qui sans cesse faisait tomber avec son doigt des larmes devant ce médecin éloquent.
 
 Pendant que Gustehem restait la, étonné de cette figure, le Kaisar le fit appeler et lui dit :
 
-> Que le semble-t-il de cette fille dont la tristese et le deuil me remplissent de peine?»
+> Que le semble-t-il de cette fille dont la tristese et le deuil me remplissent de peine ? »
 
 Gustehem répondit :
 
-> Je lui ai donné beaucoup de conseils, mais ils n’ont produit au-jcune impression sur elle.»
+> Je lui ai donné beaucoup de conseils, mais ils n’ont produit au-jcune impression sur elle. »
 
 Le lendemain, le Kaïsar dit à Balôuï :
 
@@ -84,21 +84,21 @@ Le lendemain, le Kaïsar dit à Balôuï :
 
 Et vos avis, elle comprendra ce que vous êtes et ce que vous valez.
 
-Je crois qu’aujourd’hui elle vous répondra et aussitôt qu’elle aura parlé avec sa voix qui porte bonheur, je serai délivré des soucis que me cause cette affligée, qui fait sans cesse couler des larmes de sang sur son sein.»
+Je crois qu’aujourd’hui elle vous répondra et aussitôt qu’elle aura parlé avec sa voix qui porte bonheur, je serai délivré des soucis que me cause cette affligée, qui fait sans cesse couler des larmes de sang sur son sein. »
 
 Ces trois nobles Perses y allèrent ; chacun parla de gloire et de combats, mais aucun d’eux ne reçut de réponse et la femme muette continua à se taire.
 
 Ils quittèrent ce palais et revinrent chez le Kaisar, ils arrivèrent près du prince, ayant échoué et disant :
 
-> Nous avons parlé et conseillé, mais cette âme désolée ne s’est pas rendue à nos avis.»
+> Nous avons parlé et conseillé, mais cette âme désolée ne s’est pas rendue à nos avis. »
 
 Il répondit :
 
 > Le malheur veut que cette fille nous attriste par son deuilm N’ayant trouvé aucune ressource chez ces hommes illustres, il s’empressa de s’adresser au noble Kharrad, fils de Berzin et lui dit :
 
-> Ô homme lr glorieux et vaillant, l’élite de la race d’Ardeschir, Va donc une fois voir ma fille ; j’espère qu’elle te fera entendre tout à coup sa voix ; car je suis très-allligé de son état et plein de chagrin de son apathie.
+> Ô homme lr glorieux et vaillant, l’élite de la race d’Ardeschir, Va donc une fois voir ma fille ; j’espère qu’elle te fera entendre tout à coup sa voix ; car je suis très-affligé de son état et plein de chagrin de son apathie.
 
-Je ne sais quel jeu le sort joue avec elle, ehje suis tout interdit de cette affaire.
+Je ne sais quel jeu le sort joue avec elle, et je suis tout interdit de cette affaire.
 
 Il se peut que tu dénoues pour moi cette difficulté, car tu es un homme noble, prudent et glorieux.
 
@@ -108,7 +108,7 @@ Arrivé en sa présence, Kharrad, fils de Bcrzin, examina son
 
 Visage, sa tête et son diadème ; il resta longtemps devant elle et la figure trompeuse le salua.
 
-Il regarda longuement de la tête aux pieds cette femme, il regarda les servantes qui se tenaient (levant elle, il lui parla beaucoup, mais elle ne répondit pas et le descendant des rois devint plein de soupçons et se dit :
+Il regarda longuement de la tête aux pieds cette femme, il regarda les servantes qui se tenaient devant elle, il lui parla beaucoup, mais elle ne répondit pas et le descendant des rois devint plein de soupçons et se dit :
 
 > Si la douleur a rendu,insensible cette lemme, pourquoi ses suivantes sont-elles muettes ?
 >
@@ -118,7 +118,7 @@ Il regarda longuement de la tête aux pieds cette femme, il regarda les servante
 >
 > S’il y avait une âme dans cette ligure, elle remuerait le corps et non pas seulement cette main et ce pied. elle lancerait ses larmes d’autres côtés et son autre main s’étendrait dans d’autres directions.
 >
-> Je ne vois pas de mouvements de vie dans ce corps, ce n’est qu’un artifice des philosophes.»
+> Je ne vois pas de mouvements de vie dans ce corps, ce n’est qu’un artifice des philosophes. »
 
 Il retourna chez le Kaisar et lui dit en souriant :
 
@@ -128,4 +128,4 @@ Il retourna chez le Kaisar et lui dit en souriant :
 >
 > Tu as voulu rire des Iraniens ou ensorceler nos yeux.
 >
-> Le roi, quand il apprendra cette aventure, rira à bouche ouverte et en montrant ses denls d’argent.»
+> Le roi, quand il apprendra cette aventure, rira à bouche ouverte et en montrant ses denls d’argent. »
