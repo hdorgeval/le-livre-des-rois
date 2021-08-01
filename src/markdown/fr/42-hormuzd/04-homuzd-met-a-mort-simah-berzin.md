@@ -42,9 +42,9 @@ Le roi s’adressa à Bahram Adermihan et lui dit :
 
 > Simah Berzin qui està notre cour est-il digne de recevoir des trésors, ou ce est-ce un homme qui fait de la peine aux autres ?
 >
-> Par tr un homme malveillant ne mérite pas des trésors»
+> Par un homme malveillant ne mérite pas des trésors»
 
-Bahram Adermihan savait quelles étaient l’origine et la raison de cette question du roi du monde ; il savait qu’eux tous auraient lieu de verser des larmes i et qu’à la [in ils n’obliendraient sous ce maître du 9 peuple qu’une tombe sans linceul.
+Bahram Adermihan savait quelles étaient l’origine et la raison de cette question du roi du monde ; il savait qu’eux tous auraient lieu de verser des larmes et qu’à la [in ils n’obliendraient sous ce maître du peuple qu’une tombe sans linceul.
 
 Il répondit :
 
@@ -55,9 +55,9 @@ Il parle toujours pour ce qu’il y a de plus mauvais et c’est dans ce sens qu
 
 > Ô mon bon et vieil ami !
 >
-> Ne donne donc pas.un mauvais témoingnage contre moi, ne te ligue pas ainsi avec le Div.
+> Ne donne donc pas.un mauvais témoignage contre moi, ne te ligue pas ainsi avec le Div.
 >
-> Quelles actions ou quelles paroles dignes d’Ahriman connais-tu donc. de moi, depuis que nous sommes amis?»
+> Quelles actions ou quelles paroles dignes d’Ahriman connais-tu donc. de moi, depuis que nous sommes amis ? »
 
 Bahram Adermihan lui répondit :
 
@@ -74,7 +74,7 @@ Bahram Adermihan lui répondit :
 > Toi seul as
 >
 > 1.
-a déclaré que Hormuzd était digue du trône et maintenant tu es dignement récompensé de ce que tu as fait.
+a déclaré que Hormuzd était digne du trône et maintenant tu es dignement récompensé de ce que tu as fait.
 >
 > C’est pour cela que j’ai rendu témoignage contre toi et que ma bouche t’a prodigué l’injure»
 
@@ -84,13 +84,13 @@ Il les envoya tous les dans en prison pendant la nuit sombre et n’en parla pas
 
 La troisième nuit, lorsque la lune eut paru sur la cime de la montagne, il se débarrassa de Simah Berzin ; il le lit tuer dans la prison comme on tue les voleurs, mais il n’en relira que du chagrin et des malédictions.
 
-Lorsque Bahram Adermihan eut appris que cet homme au cœur par avait disparu, il envoya au roi un message et lui fit dire :
+Lorsque Bahram Adermihan eut appris que cet homme au cœur pur avait disparu, il envoya au roi un message et lui fit dire :
 
 > Ô toi dont la couronne est au-dessus du cercle de la lune !
 >
 > Tu sais combien je me suis donné de peine pour tenir cachés tes secrets et que devant ton père, le roi glorieux, j’ai toujours agi en la faveur.
 >
-> Si tu veux m’appeler et me faire asseoir devant le trône royal, je te donnerai un conseil qui le sera de grande utilité ; ne me laisse donc plus un instant dans les fers et la prison ; l’I-ran en profitera et tous les hommes de sens seront délivrés de leurs inquiétudes.»
+> Si tu veux m’appeler et me faire asseoir devant le trône royal, je te donnerai un conseil qui le sera de grande utilité ; ne me laisse donc plus un instant dans les fers et la prison ; l’I-ran en profitera et tous les hommes de sens seront délivrés de leurs inquiétudes. »
 
 Hormuzd reçut ce message et choisit parmi ses serviteurs un homme de confiance pour conduire Bahram auprès de lui, pour l’amener à sa cour illustre.
 
@@ -98,17 +98,17 @@ Il lit appeler Bahram dans la nuit sombre. !
 
 Lui fit de longs discours en paroles douces et lui dit :
 
-> Dis-moi quel est ce conseil qui doit rendre heureux mon sort.»
+> Dis-moi quel est ce conseil qui doit rendre heureux mon sort. »
 
 Bahram répondit :
 
-> serai vu dans le trésor du roi une boîte noire, fort simple ; dans cette boîte est placé un coffret qui contient un écrit en langue perse, tracé sa ; du satin blanc et c’est là-dessus que l’espoir des Iraniens repose ; il faut donc que tu examines cet écrit de ton père, le roi maître du monde.»
+> serai vu dans le trésor du roi une boîte noire, fort simple ; dans cette boîte est placé un coffret qui contient un écrit en langue perse, tracé sa ; du satin blanc et c’est là-dessus que l’espoir des Iraniens repose ; il faut donc que tu examines cet écrit de ton père, le roi maître du monde. »
 
 Lorsque Hormuzd eut entendu ce récit, il envoya chez son Destour, toujours prêt à le servir et lui fit dire :
 
 > Cherche dans mon antique trésor une boîte très-simple, fermée par un sceau qui porte le nom de Nouschirwan, puisse son âme rester toujours jeune !
 >
-> Apporte-la-moi surgiechamp encore pendant la I nuit et ne mets pas beaucoup de temps à la chercher.»
+> Apporte-la-moi sur-le-champ encore pendant la I nuit et ne mets pas beaucoup de temps à la chercher. »
 
 Le trésorier se hâta, chercha la boîte et l’apporta, le sceau intact.
 
@@ -121,7 +121,7 @@ La lettre disait :
 > Plus tard le a monde sera rempli de trouble et le nom et le renom du roi se perdront ; des ennemis apparaîtront de tous les points, surloul un homme de mauvaise .
 >
 > [
-race, semblable à un Ahriman ; l’armée du roi dispersera de tous les côtés et son ennemi le précipitera du trône ; ce méchanthomme lui brûlera les deux yeux et ensuite on le privera de la vie.»
+race, semblable à un Ahriman ; l’armée du roi dispersera de tous les côtés et son ennemi le précipitera du trône ; ce méchant homme lui brûlera les deux yeux et ensuite on le privera de la vie. »
 
 .
 Hormuzd regarda cette lettre écrite de la main de son père ; il en [ut épouvanté et déchira la pièce de, soie ; ses yeux se remplirent de larmes de sang, son visage pâlit et il dit à Bahram :
@@ -130,13 +130,13 @@ Hormuzd regarda cette lettre écrite de la main de son père ; il en [ut épouva
 >
 > Que cherchais-tu dans cet écrit ?
 >
-> Veux-tu donc m’arracher la tête?»
+> Veux-tu donc m’arracher la tête ? »
 
 Bahram.1épondit : Ô fils d’une femme turque !
 
 Quand seras-tu las de verser du sang ?
 
-Tu es de la race du Khakan et ’non pas de celle de Kcïkohad, toi à qui Kesra a posé la rouronne sur la tête la Hormuzd comprit que, si ce !
+Tu es de la race du Khakan et ’non pas de celle de Keïkobad, toi à qui Kesra a posé la rouronne sur la tête la Hormuzd comprit que, si ce !
 
 Homme restait en vie, il étendrait une main sanglante sur son maître, et, ayant entendu ces paroles blessantes, il renvoya Bahram à la prison.
 
