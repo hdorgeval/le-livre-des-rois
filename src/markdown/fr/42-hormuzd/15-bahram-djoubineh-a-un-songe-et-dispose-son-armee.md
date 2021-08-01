@@ -32,21 +32,21 @@ Dans ce moment Kharrad Beniu arriva, s’étant enfui de chez Saweh ; il dit à 
 
 > Comment peux-tu être si confiant ?
 >
-> Regarde donc ce piège nd’Ahriman.
+> Regarde donc ce piège d'Ahriman.
 >
 > Ne livre pas au vent les têtes des Iraniens, aie de justes égards pour ces hommes illuscrtres.
 >
 > Je le conjure par ta bravoure, aie pitié de la vie. car tu n’as jamais en une pareille besogne de-
 >
-> vaut toi.»
+> vaut toi. »
 
 Bahram lui dit :
 
-> Dans ton pays, tu n’as pu apprendre plus de bravoure que cela : ,’ ils v vendent tous du poisson, depuis l’été jusqu’à la saison des frimas.
+> Dans ton pays, tu n’as pu apprendre plus de bravoure que cela : ,’ ils vendent tous du poisson, depuis l’été jusqu’à la saison des frimas.
 >
 > Ton métier est de dresser (la pièges, ta demeure est auprès des bassins d’eau, tu n’es pas un hommeà lances, à massues et à flèches.
 >
-> Aussitôt que le soleil montrera sa tête au-dessus des montagnes sombres, je te ferai voir comment se battent les rois et les armées.»
+> Aussitôt que le soleil montrera sa tête au-dessus des montagnes sombres, je te ferai voir comment se battent les rois et les armées. »
 
 Lorsque le soleil se fut levé dans le signe du Lion et que le monde fut blanc comme le visage d’une Roumie, on sonna des trompettes d’airain ; il se lit un grand bruit ; le monde fut ébranlé par les sabots des chevaux et Bahram mit en ordre ses troupes et monta à cheval, une massue, qui avait vu bien des combats, en main.
 
@@ -54,13 +54,13 @@ On compta à l’aile droite trois mille cavaliers, couverts de cottes de maille
 
 Bahram envoya le même nombre de vaillants cavaliers et d’hommes de guerre à l’aile gauche.
 
-Il avait à sa droite Ized Guschasp, qui traversait les fleuves à cheval ; à sa gauche était Kunda Guschasp, un adorateur d’Adergo’uschasp ; à l’arrièregarde Yelan Sineh, avec une treupe qui ne devait entrer que tard dans la mêlée ; au centre était Hamdan Guschasp, dont le cheval aurait pu embraser les roseaux avec les fers de ses sabots ; chacun avait sous lui trois mille héros, des cavaliers vaillants, au cœur de pierre.
+Il avait à sa droite Ized Guschasp, qui traversait les fleuves à cheval ; à sa gauche était Kunda Guschasp, un adorateur d’Aderguschasp ; à l’arrièregarde Yelan Sineh, avec une treupe qui ne devait entrer que tard dans la mêlée ; au centre était Hamdan Guschasp, dont le cheval aurait pu embraser les roseaux avec les fers de ses sabots ; chacun avait sous lui trois mille héros, des cavaliers vaillants, au cœur de pierre.
 
 On fit devant l’armée cette proclamation :
 
 > Ô vous armés de lances et de casques d’or !
 >
-> Quiconque de cette armée s’enfuira du combat, quand même il n aurait devant lui un lion ou un léopard, je jure par Dieu que je lui trancherai la tête et consumerai dans le feu son corps sans valeur.»
+> Quiconque de cette armée s’enfuira du combat, quand même il n aurait devant lui un lion ou un léopard, je jure par Dieu que je lui trancherai la tête et consumerai dans le feu son corps sans valeur. »
 
 Il y avait deux routes qui conduisaient à son camp, par lesquelles on pouvait s’enfuir facilement ; il fit élever sur ces deux routes une barricade de terre, haute de dix empans, puis il se rendit au milieu de ses troupes.
 
@@ -72,7 +72,7 @@ Le Grand Scribe du roi des rois s’approcha du Pehlewan de l’armée et lui di
 >
 > L’Iran deviendra dans cette guerre comme un enfer et tout notre paysyse changera en désert.
 >
-> On ne voit ni la terre, ni l’eau, ni la montagne, tant il ya de Touraniens armés d’épées.»
+> On ne voit ni la terre, ni l’eau, ni la montagne, tant il ya de Touraniens armés d’épées. »
 
 Bahram poussa des cris violents et lui dit :
 
@@ -80,11 +80,11 @@ Bahram poussa des cris violents et lui dit :
 >
 > Ton affaire, c’est l’eucrier et le papier.
 >
-> Qui, dans cette armée. ce t’a dit de compter les hommes?»
+> Qui, dans cette armée. ce t’a dit de compter les hommes ? »
 
 Le scribe s’approcha de Kharrad Benin et lui dit :
 
-> Bahram n’est r qu’un compagnon du Div.»
+> Bahram n’est qu’un compagnon du Div. »
 
 Les deux vieillards cher-A obèrent un chemin pour s’enfuir et pour échapper à la destruction ; les deux scribes se mordaient les lèvres de peur d’un côté du roi des rois, de l’autre de la pluie de flèches.
 
@@ -96,6 +96,6 @@ Quand le vaillant Bahram eut mis en.ordre son armée, il quitta dans une grande 
 >
 > Si tu trouves que cette guerre soit injuste, si tu préfères Saweh à moi, donne-lui du sangfroid dans la bataille et la victoire sur les Iraniens.
 >
-> Mais si c’est ta cause que je défends, si c’est pour elle que je mets en danger ma tête dans le combat, accorde de la fortune à moi et à mon armée et rends par cette guerre la prospérité au monde.»
+> Mais si c’est ta cause que je défends, si c’est pour elle que je mets en danger ma tête dans le combat, accorde de la fortune à moi et à mon armée et rends par cette guerre la prospérité au monde. »
 
 Il quitta ce lieu très-ému et monta à cheval, une massue à tête de bœuf en main.
