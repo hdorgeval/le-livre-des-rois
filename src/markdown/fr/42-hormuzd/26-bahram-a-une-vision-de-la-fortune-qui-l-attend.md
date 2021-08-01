@@ -20,10 +20,11 @@ Ainsi se passèrent deux semaines ; le Sipehhed sortit alors de son palais dans 
 
 Il aperçut sur la prairie un onagre qui était le plus beau qu’on eût jamais vu.
 
-Bahram le suivit doucement et sans échaufn. 
+Bahram le suivit doucement et sans échaufn.
+
 Fer son cheval.
 
-Dans la forêt et à l’endroit le plus propre à la chasse, se présentait un défilé étroit ; lorsque l’onagrc l’eut franchi, apparut une plaine parsemée de jardins et de terres incultes.
+Dans la forêt et à l’endroit le plus propre à la chasse, se présentait un défilé étroit ; lorsque l’onagre l’eut franchi, apparut une plaine parsemée de jardins et de terres incultes.
 
 Bahram chevauchait, l’onagrc courait, l’homme et son destrier étaient noyés dans la sueur.
 
@@ -31,7 +32,7 @@ Bahram, jetant un regard sur cette plaine, vit apparaître un magnifique châtea
 
 Il poussa son cheval jusque devant le château, suivi par Ized Guschasp, à qui il remit les rênes de son destrier ardent. en disant :
 
-> Puisse la prudence être toujours ta compagne !»
+> Puisse la prudence être toujours ta compagne ! »
 
 Ensuite le Sipehhed entra à pied sous le portail du château, sans avoir de guide.
 
@@ -41,11 +42,11 @@ Yelan Sineh, qui les avait suivis, arriva tout armé et monté sur un cheval ard
 
 > Entre dans le château, ô vaillant lion !
 >
-> Et regarde où est allé notre chef, le Sipehdar, notre illustre maître.»
+> Et regarde où est allé notre chef, le Sipehdar, notre illustre maître. »
 
 Yelan Sineh explora le jardin, cherchant son chef et le cœur rempli d’inquiétude.
 
-Il vil. un palais plus beau que tout ce qu’il avait vu ou dont il avait entendu parler dans l’Iran ; dans une partie du palais, il aperçut une salle voûtée dont son
+Il vil un palais plus beau que tout ce qu’il avait vu ou dont il avait entendu parler dans l’Iran ; dans une partie du palais, il aperçut une salle voûtée dont son
 œil ne pouvait atteindre la hauteur ; dans cette salle était placé un trône or, incrusté dans toutes ses parties de perles et de pierreries.
 
 Un drap de brocart roumi, brodé de figures en pierres fines et en or pur, couvrait le trône sur lequel était assise une femme portant une couronne, svelte comme un cyprès et belle comme le printemps.
@@ -56,7 +57,7 @@ Bahram et la femme se dirent en secret bien des choses que personne n’entendai
 
 Lorsque la femme aperçut Yelan Sineh, elle dit à un esclave :
 
-> Mon bel ami, va vite dire à cet homme ce au cœurde lion qu’il n’a pas le droit d’entrer ici ; qu’il aille rejoindre ses camarades ; son maître va partir, qu’il le précède.»
+> Mon bel ami, va vite dire à cet homme ce au cœurde lion qu’il n’a pas le droit d’entrer ici ; qu’il aille rejoindre ses camarades ; son maître va partir, qu’il le précède. »
 
 En même temps elle envoya du palais des serviteurs auprès de l’escorte de Bahram, avec l’ordre de conduire les chevaux de ces hommes vaillants à l’écurie et d’avoir soin des couvertures et des selles.
 
@@ -71,7 +72,7 @@ Lorsque le (liner lut terminé, on amena en courant les chevaux de ces hommes qu
 
 > Puisse Jupiter être le compagnon de ta couronne,-n et la femme répondit :
 
-> n Puisseslu être victorieux, puisse ton cœur rester patient, puisses-tu toujours suivre les conseils de la prodence !»
+> n Puisses-tu être victorieux, puisse ton cœur rester patient, puisses-tu toujours suivre les conseils de la prodence ! »
 
 ’
 On aurait dit que les yeux de Bahram versaient une pluie de sang lorsqu’il sortit de ce jardin ; son humeur était changée, il parlait et répondait autrement ; il était comme s’il élevait la tête jusqu’au ciel. [d’onagre mâle revint alors, le Sipehhed le suivit à cheval et se laissa guider par lui jusqu’à ce qu’il fût sorti de cette forêt.
@@ -82,6 +83,6 @@ Kharrad Berzin le regarda et lui dit :
 
 > Ô homme puissant et véridique !
 >
-> Quelle est cette merveille que tu as vue à la chasse et qui dépasse tout ce qu’on a jamais vu et entendu?»
+> Quelle est cette merveille que tu as vue à la chasse et qui dépasse tout ce qu’on a jamais vu et entendu ? »
 
 Mais le Pehlewan Bahram ne lui donna aucune réponse ; il était devenu sombre et il se dirigea vers son palais.
