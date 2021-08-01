@@ -20,7 +20,7 @@ Quiconque a lu l’histoire de ce roi doit secouer le pan de sa robe en dégoût
 
 Je vais dire un mot sur lequel les hommes de sens seront de mon avis : Il ne faut pas que ce monde, qui contient plus de poison que de contrepoison, te rende insolent ; c’est un lieu de passage, suis ta route ; tu as vieilli et de jeunes arrivent.
 
-L’un vient et l’autre s’en va, chacun se pavane ou broute un instant à cette station ; mais quand le tambour du départ bat, la tête de la fourmi et celle de ’e’léphant se couchent également dans la poussière. ’
+L’un vient et l’autre s’en va, chacun se pavane ou broute un instant à cette station ; mais quand le tambour du départ bat, la tête de la fourmi et celle de ’éléphant se couchent également dans la poussière. ’
 Fais attention quand je te raconte des histoires de Parviz qui t’étonneront, car tu auras beau interroger les savants et les grands, tu n’entendras jamais quelque.chose qui dépasse la dignité, la puissance, la grandeur, la gloire, la majesté et l’armée de ce roi.
 
 On lui apportait pendant les jours brillants et les nuits sombres des tributs de la Chine, de l’Inde, du Roum et de tous les pays où l’on cultive la terre ; chaque cour lui envoyait des esclaves et des serviteurs, des perles, des rubis et des pierreries de toute espèce.
