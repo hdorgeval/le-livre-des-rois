@@ -32,13 +32,13 @@ Elle leur dit :
 >
 > Aujourd’hui vient le Khakan et roi, qui n’est pas un petit personnage, qui a du pouvoir et sait s’en servir ; mais, s’il travaille à amener une parenté entre les Turcs et les Iraniens, notre temps verrait à la fin que cette alliance et ces liens ne produisent que des soucis et des peines.
 >
-> Réfléchissez que Siawusch n’a obtenu d’Afrasiab que de mafia. des ardeurs du soleil et que ce jeune homme, que le fils d’aucune mère n’a jamais égalé, a donné au vent sa tête des r le commencement de sa liaison avec le Touran.
+> Réfléchissez que Siawusch n’a obtenu d’Afrasiab que de mafia. des ardeurs du soleil et que ce jeune homme, que le fils d’aucune mère n’a jamais égalé, a donné au vent sa tête des le commencement de sa liaison avec le Touran.
 >
 > Et son fils, qu’a-t-il fait, si ce n’est détruire le Touran et l’Iran ?
 >
 > Faites vos apprêts pour que nous nous adressions à l’Iran à l’insu des Turcs.
 >
-> J’ai écrit une lettre à Guerdouî, car je suis préoccupée de nos soucis ; je l’ai prié de faire connaître au roi notre position, de lui parler de nos peines et de nos soucis et je jure, par la puissance de Dieu, qu’il se conformera à mes douces paroles quand il les aura entendues.»
+> J’ai écrit une lettre à Guerdouî, car je suis préoccupée de nos soucis ; je l’ai prié de faire connaître au roi notre position, de lui parler de nos peines et de nos soucis et je jure, par la puissance de Dieu, qu’il se conformera à mes douces paroles quand il les aura entendues. »
 
 Tous répondirent :
 
@@ -65,16 +65,18 @@ Elle paya la solde et s’en retourna à son palais, où elle dit à ses troupes
 > Soyez unis de cœur et si cette armée arrive, recevez et donnez des coups.
 >
 > Si cela ne vous, convient pas,
-. qu’aucun de vous ne quitte ce lieu.»
+. qu’aucun de vous ne quitte ce lieu. »
 
-Ils répondirent d’une seule voix : Nous sommes les serviteurs, nous ne dévierons ni de les avis ni de les ordreSJn’ Ayant fait cette déclaration, ils se levèrent et se préparèrent au combat contre les Chinois.
+Ils répondirent d’une seule voix :
 
-Yelan Sineh et le puissant Ized Guschasp montèrent à cheval avec les guerriers illustres, dont chacun se disait qu’il valait mieux mourir glorieusement que vivre et laisser triompher ses ennemis.
-
-En même temps Gordieh se rendit auprès d’une caravane dans le désert et demanda qu’on fît passer les chameaux devant elle.
-
-Elle en choisit trois mille pour qu’on les, chargeât de bagages.
-
-Lorsque la nuit fut devenue sombre, Gordieh monta à cheval comme un homme de guerre, portant haut la tête, une massue en main, le cheval couvert, de caparaçons magnifiques, elle-même portant une cuirasse, un casque et une épée de combat.
-
-L’armée courut sur la route, rapide comme le vent, pendant les jours brillants et les nuits noires.
+> Nous sommes les serviteurs, nous ne dévierons ni de les avis ni de les ordreSJn’ Ayant fait cette déclaration, ils se levèrent et se préparèrent au combat contre les Chinois.
+>
+> Yelan Sineh et le puissant Ized Guschasp montèrent à cheval avec les guerriers illustres, dont chacun se disait qu’il valait mieux mourir glorieusement que vivre et laisser triompher ses ennemis.
+>
+> En même temps Gordieh se rendit auprès d’une caravane dans le désert et demanda qu’on fît passer les chameaux devant elle.
+>
+> Elle en choisit trois mille pour qu’on les, chargeât de bagages.
+>
+> Lorsque la nuit fut devenue sombre, Gordieh monta à cheval comme un homme de guerre, portant haut la tête, une massue en main, le cheval couvert, de caparaçons magnifiques, elle-même portant une cuirasse, un casque et une épée de combat.
+>
+> L’armée courut sur la route, rapide comme le vent, pendant les jours brillants et les nuits noires.
