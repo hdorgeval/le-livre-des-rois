@@ -36,13 +36,13 @@ Chacun de ceux qui portèrent la couronne de la royauté ajouta quelque chose à
 
 Le trône arriva ainsi à Lehrasp, et, après lui, â Guschtasp, qui dit en le voyant :
 
-> Il ne faut pas cacher cette œuvre des Grands rois.»
+> Il ne faut pas cacher cette œuvre des Grands rois. »
 
 Ce noble homme dit à Djamasp :
 
 > Que peux-tu ajou-2.3l cetera ce chef-d’œuvre ?
 >
-> Examine-le dans toutes ses parties pour voir comment tu voudrais le compléter, de façon qu’il me fasse honneur après me mon.»
+> Examine-le dans toutes ses parties pour voir comment tu voudrais le compléter, de façon qu’il me fasse honneur après me mon. »
 
 Djamasp examina le trône, il découvrit la clef de la porte du savoir et figura sur le trône le ciel sublime, pour qu’on pût calculer la nature, l’arrivée et la durée des événements ; il y figura, par ordre du roi, toutes les constellations, depuis Saturne jusqu’à la Lune.
 
@@ -72,7 +72,9 @@ Mesuré en empans, il avait cent empans de roi en hauteur et encore soixante et 
 
 Chaque matin des trente jours du mois on y posait un tapis différent.
 
-Sur la face du trône étaient cent quarante mille ornements d’or, incrustés de turquoises, tous les clous et les crampons étaient d’argent pur, chacun pesanl soixantesix miskals. i Ce trône était posé de telle façon que son dos se trouvait tourné vers le désert et sa face vers les jardins dans la saison où le soleil plaçait sa lampe dans le signe du bélier ; quand le soleil devenait ardent a dans le règne du Lion, le dos du trône se trouvait encore tourné vers lui ; au mois de juin et à la saison des fruits et des fêtes, le trône était en face des fruits et des jardins, de sorte que le parfum de tous les fruitsy arrivait.
+Sur la face du trône étaient cent quarante mille ornements d’or, incrustés de turquoises, tous les clous et les crampons étaient d’argent pur, chacun pesanl soixantesix miskals.
+
+Ce trône était posé de telle façon que son dos se trouvait tourné vers le désert et sa face vers les jardins dans la saison où le soleil plaçait sa lampe dans le signe du bélier ; quand le soleil devenait ardent a dans le règne du Lion, le dos du trône se trouvait encore tourné vers lui ; au mois de juin et à la saison des fruits et des fêtes, le trône était en face des fruits et des jardins, de sorte que le parfum de tous les fruitsy arrivait.
 
 En hiver, quand venait le temps du vent et de la neige, personne ne souffrait sur ce trône, car tout le haut était entouré d’un rideau de fourrures de castor et de zibeline dignes d’un roi.
 
@@ -88,8 +90,7 @@ Personne, si savant qu’il fût, ne pouvait les compter.
 
 La moindre pierre qui y était employée valait au moins soixante et dix pièces d’or, beaucoup dépassaient sept cents : fais une moyenne entre les plus et les moins chères.
 
-Ensuite, il y avait bien des pierreries rouges dont personne ne savait la valeur, car il y en avait sans fin et elles rendaient lumineuse i
-la nuit au visage sombre et ressemblaient à Vénus ’ brillant au ciel.
+Ensuite, il y avait bien des pierreries rouges dont personne ne savait la valeur, car il y en avait sans fin et elles rendaient lumineuse i la nuit au visage sombre et ressemblaient à Vénus ’ brillant au ciel.
 
 Il y avait trois siègea sur les degrés du trône royal,-ils étaient enrichis de pierreries de haut en bas ; de l’un à l’autre, il y avait quatre degrés tout en or et incrustés de pierres fines ; le siège inférieur était appelé Mischsar (tête de bélier), étant tout couvert d’ornements en forme de tête de bélier.
 
