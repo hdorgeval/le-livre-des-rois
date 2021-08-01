@@ -22,7 +22,7 @@ Il fut écrit alors à Hormuzd, le Grand Roi, une lettre qui pouvait porter de b
 
 > sera une fête pour lui.
 >
-> Puisqu’il demande notre protection et qu’il est tombé bien bas de sa haute position, il faudrait que le roi fût généreux envers lui, toute sa gloire étantpassée.»
+> Puisqu’il demande notre protection et qu’il est tombé bien bas de sa haute position, il faudrait que le roi fût généreux envers lui, toute sa gloire étant passée. »
 
 Lorsque la lettre parvint au roi, il éleva son diadème fortuné jusqu’aux nues ; il envoya convoquer les Iraniens et les fit asseoir devant son trône impérial.
 
@@ -39,7 +39,7 @@ Le roi dit aux hommes libres :
 >
 > Grâces soient rendues au Maître du soleil et de la lune, qui m’a accordé les moyens d’atteindre cette suprématie.
 >
-> Et vous aussi adressez des prières à Dieu et efforcez-vous de faire le bien en toute chose.»
+> Et vous aussi adressez des prières à Dieu et efforcez-vous de faire le bien en toute chose. »
 
 I Il fit appeler l’envoyé du Pehlewan et lui parla longuement et avec bienveillance. il fit demander une ceinture ornée de pierreries dignes d’un roi, une robe royale et un destrier avec une, bride d’or, dont tous les boutons étaient incrustés de pierreries.
 
@@ -48,9 +48,9 @@ Puis, il donna au messager une caisse remplie d’or et beaucoup d’autres chos
 Puis, il fit venir un scribe et l’on écrivit sur de la soie une lettre, disant :
 
 > Le Khakan Parmoudeli. est mon ami, il est sous ma protection : dans le pays où il se trouve et je prends, pour garant de ce sceau et de ce diplôme, Dieu, qui est
-’ le maître et dont nous sommes les esclaves.»
+’ le maître et dont nous sommes les esclaves. »
 
-Ensuite, il fit écrire en réponse à l’ambitieux Bahram une lettre allectueusc et belle comme le paradis, . dans laquelle il lui dit :
+Ensuite, il fit écrire en réponse à l’ambitieux Bahram une lettre affectueuse et belle comme le paradis, . dans laquelle il lui dit :
 
 > Dirige amicalement l’ar-.
 >
