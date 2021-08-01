@@ -32,7 +32,7 @@ Le Pehlewan de l’armée dit à ces hommes ardents et égarés :
 >
 > Je suis affligé dans l’âme et je vais l’expliquer aux sages de ce et monde.
 >
-> Je suis parti de l’Iran pour faire la guerre tr sur l’ordre du roi, conduisant cette petite armée contre des ennemis plus nombreux que nul n’en ce verra, si longtemps qu’il vive.
+> Je suis parti de l’Iran pour faire la guerre sur l’ordre du roi, conduisant cette petite armée contre des ennemis plus nombreux que nul n’en ce verra, si longtemps qu’il vive.
 >
 > Des hommes comme le Turc Parmoudeh et le roi Saweh, quand ils ce commençaient une guerre contre l’Iran, ne faisaient pas plus de cas de ce pays que d’une boule de cire et pensaient après leur victoire sur nous s’attaquer au Roum.
 >
@@ -42,13 +42,13 @@ Le Pehlewan de l’armée dit à ces hommes ardents et égarés :
 >
 > Que ferez-vous pour remédier à cela, comment guérirez-vous cette blessure ?
 >
-> J’ai maintenant dit tout le secret de mon cœur ; je me détache de cette royauté et vous, si vous connaissez dans ce moment un moyen de salut, hâtez-vous de parler de tout ce qui touche notre bonheur et notre malheur.»
+> J’ai maintenant dit tout le secret de mon cœur ; je me détache de cette royauté et vous, si vous connaissez dans ce moment un moyen de salut, hâtez-vous de parler de tout ce qui touche notre bonheur et notre malheur. »
 
 Or l’illustre Pehlewan avait dans l’appartement des femmes une sœur à l’esprit brillant, intelligente, du nom de Gordïeh ; cette femme au visage de Péri charmait le cœur de Bahram.
 
 Elle entendit derrière. le rideau les discours de son frère, elle en frémit et
 
-5M LE LIVRE DÈS son cœur bonditde colère.
+5M DÈS son cœur bondit de colère.
 
 Elle entra dans l’assemblée, l’âme pleine de paroles, les lèvres pleines de discours de sagesse antique, les yeux inondés de larmes. les joues jaunes comme le curcuma, la langue acérée comme la pointe d’une flèche.
 
@@ -60,9 +60,11 @@ Gordi’eh adressa la parole à ces chefs de l’armée, disant :
 >
 > Pourquoi devenez-vous si silencieux. comment avez-vous calmé cette ébullition de vos cœurs ?
 >
-> Que pensez-vous tous de cette atl’aire et quel jeu jouez-vous sur ce champ sanglant, vous les chefs de l’Iran, vaillants et intelligents, vous les grands à l’esprit éveillé?»
+> Que pensez-vous tous de cette atl’aire et quel jeu jouez-vous sur ce champ sanglant, vous les chefs de l’Iran, vaillants et intelligents, vous les grands à l’esprit éveillé ? »
 
-Ized Guschasp le cavalierdit alors : Ô descendant denobles ancêtres !
+Ized Guschasp le cavalier dit alors :
+
+> Ô descendant denobles ancêtres !
 
 Si nos langues étaient des épées acérées, elles reculeraient devant les flots de ta !
 
@@ -78,7 +80,7 @@ Mais si tu veux combattre, nous te soutiendrons, nous nous comporterons comme de
 
 > -deux partis ; son œil tomba sur Yelan Sineh et il lui s dit :
 
-> Quelle est ta pensée secrète?»
+> Quelle est ta pensée secrète ? »
 
 Yelan Sineh
 ,4 dit :
@@ -88,7 +90,7 @@ Yelan Sineh
 > Quand celui qui marche dans la voie de Dieu arrive à la victoire et à la gloire, c’est qu’il ne s’est jamais tourné du côté du a, mal, car alors les bénédictions se seraient changées en malédictions et la roue du ciel se serait remplie
 1 de colère contre lui.
 >
-> Le ciel t’a accordé la gloire et la fortune, une armée, un trésor, une couronne et un J trône, accepte-les ; il y ajoutera encore et les cœurs qui se révolteront contre toi seront dans l’angoisse.»
+> Le ciel t’a accordé la gloire et la fortune, une armée, un trésor, une couronne et un J trône, accepte-les ; il y ajoutera encore et les cœurs qui se révolteront contre toi seront dans l’angoisse. »
 
 2 Ensuite Bahram dit à Bahram fils de Bahram :
 
@@ -96,20 +98,20 @@ Yelan Sineh
 >
 > Que penses-tu ?
 >
-> La fin de cette recherche du trône et du trésor sera-t-elle le pouvoir ou la douleur et la peine?»
+> La fin de cette recherche du trône et du trésor sera-t-elle le pouvoir ou la douleur et la peine ? »
 
 Bahram sourit de cette discussion ; il secoua la bague qu’il avait au doigt et dit :
 
 > Tant. que ceci restera un objet d’ambition, le roi aura des serviteurs.
 >
-> Le roi est puissant, ne l’évalue pas trop bas, car on ne peut pas compter pour peu un diadème.»
+> Le roi est puissant, ne l’évalue pas trop bas, car on ne peut pas compter pour peu un diadème. »
 
 Ensuite Bahram dit à Kunda Guschasp :
 
 > Ô lion qui frappes de l’épée et lances ton cheval !
 que penses-tu, que dis-tu de mon affaire ?
 >
-> Suis-je digne du trône?»
+> Suis-je digne du trône ? »
 
 Kunda Guschasp, le cavalierh répondit :
 
@@ -117,22 +119,22 @@ Kunda Guschasp, le cavalierh répondit :
 
 Un Mobed de Beï a dit :
 
-> i t7
+> t7
 >
 > Mû
 Quand un homme qui a de la sagesse et dont les traces sont fortunées a une fois acquis la royauté, son âme s’envole au ciel.
 >
-> Il vaut mieux ambitionner la gloire d’être maître du monde que de passer une longue vie dans la servitude.»
+> Il vaut mieux ambitionner la gloire d’être maître du monde que de passer une longue vie dans la servitude. »
 
 Bahram s’adressa alors au Grand Scribe et lui dit :
 
-> Ô vieux loup, ouvre tes lèvres !»
+> Ô vieux loup, ouvre tes lèvres ! »
 
 Le Grand Scribe ferma ses lèvres et resta absorbé dans ses pensées, qui naissaient en foule ; ensuite il dit à Bahram :
 
 > Quiconque recherche l’objet de ses désirs l’obtiendra, pourvu qu’il recherche ce qui lui est dû, car la main que la Fortune étend est toute-puissante.
 >
-> Sache que si Dieu, le juste, accorde quelque chose.»
+> Sache que si Dieu, le juste, accorde quelque chose. »
 
 Il est inutile de vouloir résistera»
 
@@ -140,9 +142,11 @@ Bahram dit à Hamdan Guschasp :
 
 > Ô toi qui as éprouvé la bonne et la mauvaise fortune !
 >
-> Les paroles que tu prononceras en présence des grands passez : ront comme le vent et n’auront pas de conséquence pour toi.
+> Les paroles que tu prononceras en présence des grands passez :
+
+> ront comme le vent et n’auront pas de conséquence pour toi.
 >
-> Dis-nous ce que tu penses sur cette affaire et sur ses bonnes et mauvaises chances.»
+> Dis-nous ce que tu penses sur cette affaire et sur ses bonnes et mauvaises chances. »
 
 Le puissantIHamdan Guschasp répondit :
 
@@ -152,7 +156,7 @@ Le puissantIHamdan Guschasp répondit :
 >
 > Agis et remets à Dieu ce qui est fait ; pourquoi étendre la main sur la datte quand on craint les épines ?
 >
-> Le chef d’un peuple n’a pas la vie facile, tout est pour lui crainte pour la vie et fatigue du corps.»
+> Le chef d’un peuple n’a pas la vie facile, tout est pour lui crainte pour la vie et fatigue du corps. »
 
 5H La sœur du Pehlewan souffrait et s’attristait de ces discours ; elle n’ouvrit pas les lèvres pendant cette discussion depuis le coucher du soleil jusqu’à minuit.
 
@@ -164,7 +168,7 @@ Que penses-tu de ce qui s’est dit dans cette assemblée’h Gordîeh ne lui do
 
 > Ô homme méchant comme un Div et un loup !
 
-Tu crois donc que la couronne et le trône, l’armée, e : le pouvoir et la fortune victorieuse n’ont jamais fait envie à personne parmi les grands, les hommes de ce noble caractère, quoique la vie soit plus douce pour (r un roi que pour un serviteur ?
+Tu crois donc que la couronne et le trône, l’armée, : le pouvoir et la fortune victorieuse n’ont jamais fait envie à personne parmi les grands, les hommes de ce noble caractère, quoique la vie soit plus douce pour (r un roi que pour un serviteur ?
 
 Il faudrait verser des larmes sur une pareille sagesse.
 
@@ -174,9 +178,9 @@ Le trône des rois a été souvent vacant, mais aucun sujet ne l’a jamais conv
 
 Ils ont vaillamment protégé le monde, mais ils n’ont jamais jeté les yeux sur le a trône.
 
-Tout homme sage, dont le cerveau est sain et qui a réfléchi sans passion sur le monde, sait tr qu’il est plus doux d’être roi que serviteur, qu’il vaut mieux être placé en haut que croupir en bas.
+Tout homme sage, dont le cerveau est sain et qui a réfléchi sans passion sur le monde, sait qu’il est plus doux d’être roi que serviteur, qu’il vaut mieux être placé en haut que croupir en bas.
 
-Et pourtant ils n’ont pas étendu la main vers le trône des Keïanides, ils se sont revêtus de la ceinture de r la servitude, n’ont attendu la fortune que des rois et ont. tous assujetli leurs cœurs à l’obéissance ; car
+Et pourtant ils n’ont pas étendu la main vers le trône des Keïanides, ils se sont revêtus de la ceinture de la servitude, n’ont attendu la fortune que des rois et ont. tous assujetli leurs cœurs à l’obéissance ; car
 "un homme étranger à la faniille des Ketanidcs ne la7.
 
 Doit pas occuper le trône et c’est la naissance qui donne le droit au pouvoir.
@@ -195,7 +199,7 @@ J’aurais un trône d’or, pendant que le roi serait captif ?
 
 Maudit soit ce pouvoir et maudite cette cou ronne !
 
-Il choisit dans l’Irau douze mille cavaliers propres à conquérir le monde et montés sur des chevaux bardés de fer, il délivra de leurs liens Kaous, Giv, Gouderz et Thous.
+Il choisit dans l’Iran douze mille cavaliers propres à conquérir le monde et montés sur des chevaux bardés de fer, il délivra de leurs liens Kaous, Giv, Gouderz et Thous.
 
 De même lorsque Pirouz fut tué, que la fortune avait abandonné les Iraniens et que Khouschnewaz s’assit tranquillement sur ce trône orgueilleux, Souferaï, de la famille de Karen, partit et rétablit le trône des rois.
 
@@ -216,7 +220,7 @@ Mais Souferaï leur dit :
 >
 > Rezmihr regarda autour de lui et ne voyant personne digne de la couronne et du trône de la royauté, il lui ôta les fers pour qu’il pût rétablir ses affaires et revenir à la prospérité.
 >
-> Mais aucun des sujets du roi ne recherchait la couronne, quoiqu’il y en eût à qui leur naissance y donnât droit ; seulement un Turc, qu’on appelait le roi Saweh, arriva pour s’emparer du sceau et du diadème ; mais le Créateur du monde brillant décida qu’il périrait sur la terre d’Iran.»
+> Mais aucun des sujets du roi ne recherchait la couronne, quoiqu’il y en eût à qui leur naissance y donnât droit ; seulement un Turc, qu’on appelait le roi Saweh, arriva pour s’emparer du sceau et du diadème ; mais le Créateur du monde brillant décida qu’il périrait sur la terre d’Iran. »
 
 Qu’est-ce qui a pu t’inspirer l’envie de t’emparer du trône impérial, toi qui as été son esclave ?
 
@@ -236,7 +240,7 @@ Sineh fera bondir son cheval, disant :
 >
 > Je ne suis qu’une femme et je donne des conseils aux hommes, mais je ne suis pas beaucoup plus jeune que mon frère.
 >
-> Ne livre pas au vent ce que tes ancêtres ont accompli et à Dieu ne plaise que tu aies à te rappeler mes avis !»
+> Ne livre pas au vent ce que tes ancêtres ont accompli et à Dieu ne plaise que tu aies à te rappeler mes avis ! »
 
 Le Sipehdar se mordit les lèvres ; toute l’assemblée était étonnée de cette femme et comprit qu’elle disait vrai et qu’elle ne conseillait que la voie du bien.
 
@@ -258,7 +262,7 @@ Yelan Sineh dit :
 >
 > Ne pense pas non plus à Khosrou Parviz, car il ne servirait à rien de le mentionner.
 >
-> Les plus intimes de cette cour sont les plus humbles serviteurs de ton frère ; et si Bahram dit à ces sujets de Hormuzd de charger ses pieds de lourdes chaînes, ils"le feront à l’instant et placeront ton frère sur son trône.»
+> Les plus intimes de cette cour sont les plus humbles serviteurs de ton frère ; et si Bahram dit à ces sujets de Hormuzd de charger ses pieds de lourdes chaînes, ils"le feront à l’instant et placeront ton frère sur son trône. »
 
 Gordïeb lui dit :
 
@@ -270,7 +274,7 @@ Gordïeb lui dit :
 >
 > mille, ô misérable de mauvaise race !
 >
-> Remplis donc de désordre ces jours paisibles et fais-toi le guide de Bahram !»
+> Remplis donc de désordre ces jours paisibles et fais-toi le guide de Bahram ! »
 
 Ayant ainsi parlé, elle rentra en pleurant dans son appartement et devint dans son cœur comme une étrangère envers son frère.
 
@@ -278,22 +282,22 @@ Ils dirent tous :
 
 > Cette sainte femme, comme elle a bien parlé à l’assemblée !
 >
-> On aurait dit que ses paroles sortaient d’un livre ; elle surpasse Djamasp en sagesse.»
+> On aurait dit que ses paroles sortaient d’un livre ; elle surpasse Djamasp en sagesse. »
 
 Tout cela déplut à Bahram et les paroles de sa sœur le rendirent farouche, car son âme sombre était si constamment pleine du trône de la royauté qu’il le voyait même en songe.
 
 Il se dit :
 
-> Ceux qui recherchent la possession du monde fugitif ne l’obtiennent que péniblement.»
+> Ceux qui recherchent la possession du monde fugitif ne l’obtiennent que péniblement. »
 
 Il ordonna de préparer des tables et de faire venir du vin, de la musique et des chanteurs et il dit à ces chanteurs :
 
-> Aujourd’hui vous nous donnerez les chants héroïques ; je veux que vous ne fassiez entendre à mes hôtes que la chanson des Sept Aventures, qui raconte comment Isfendiar est allé au château d’airain et quel jeu il a joué dans ce temps.»
+> Aujourd’hui vous nous donnerez les chants héroïques ; je veux que vous ne fassiez entendre à mes hôtes que la chanson des Sept Aventures, qui raconte comment Isfendiar est allé au château d’airain et quel jeu il a joué dans ce temps. »
 
 Les grands burent du vin à la santé de Bahram, en s’écriant :
 
 > Puisse prospérer le pays de Rai, qui produit des Sipehheds comme toi !
 >
-> Puisse Dieu en créer d’autres qui te ressemblent !»
+> Puisse Dieu en créer d’autres qui te ressemblent ! »
 
 Ils se dispersèrent dans la nuit sombre, la tête des buveurs étant troublée par le vin.
