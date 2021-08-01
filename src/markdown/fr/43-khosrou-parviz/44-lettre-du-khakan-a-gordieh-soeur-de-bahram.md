@@ -24,7 +24,7 @@ Le Khakan, lorsqu’il eut salisl’ail son fleur et KI-rougi tout le pays de Ch
 >
 > Quiconque l’apprendra me blâmera et n’aura plus confiance dans mes serments.
 >
-> Je n’ai pas compati avec son jeune enfant, je n’ai pas pensé à ses parents et alliés, quoiqu’il fût de ma famille par ma fille et que son âme fût pleine de tendresse et d’intellitr gence.»
+> Je n’ai pas compati avec son jeune enfant, je n’ai pas pensé à ses parents et alliés, quoiqu’il fût de ma famille par ma fille et que son âme fût pleine de tendresse et d’intellitr gence. »
 
 Il fil venir son frère et lui parla longuement, disant :
 
@@ -34,23 +34,25 @@ Il fil venir son frère et lui parla longuement, disant :
 >
 > Que le sort de Bahram ait été tel qu’il a été, c’est l’œuvre du Div pervers.
 >
-> Mais je resterai fidèle à mes promesses et à mes anciens traités et à mes conventions avec Bahram.»
+> Mais je resterai fidèle à mes promesses et à mes anciens traités et à mes conventions avec Bahram. »
 
 Il ajouta une lettre particulière pour Gordieh, dans laquelle
 
 Il dit :
 
 > Ô femme sainte, aux pans de la robe purs !
+>
+> Tu as de la droiture tu as de l’humanité, la nature est sublime, tu es loin de tout défaut ; j’ai longtemps réfléchi sur ton sort dans le secret de mon esprit et de.mon cœur.
+>
+> Je ne vois pas pour toi un meilleur maître que moi-même ; viens gouverner ma maison par ton intelligence : je te tiendrai chère comme mon âme et mon corps, je serai attentil’ à ne pas briser le lien qui me liera à toi.
+>
+> Dorénavant tu commanderas dans ce pays et mon cœur est le gage de l’accomplissement de tous tes vœux.
+>
+> Réunis maintenant tout ce que tu possèdes, parle de cette affaire devant des hommes de sens ; vois alors ce que tu veux décider et mets d’accord ton intelligence avec ton âme sereine.
+>
+> Prends dans cette affaire la raison pour roi et fais-moi savoir ce que tu en penses. »
 
-Tu as de la droiture tu as de l’humanité, la nature est sublime, tu es loin de tout défaut ; j’ai longtcmps réfléchi sur ton sort dans le secret de mon esprit et de.mon cœur.
-
-Je ne vois pas pour toi un i meilleur maître que moi-même ; viens gouverner ma maison par ton intelligence : je te tiendrai chère comme mon âme et mon corps, je serai attentil’ à ne pas briser le lien qui me liera à toi.
-
-Dorénavant tu commanderas dans ce pays et mon cœur est le gage de l’accomplissement de tous tes vœux.
-
-Réunis maintenant tout ce que tu possèdes, parle de cette affaire devant des hommes de sens ; vois alors ce que tu veux décider et mets d’accord ton intelligence avec ton âme sereine.
-
-Prends dans cette affaire la raison pour roi et fais-moi savoir ce que tu en pensesm ’
+’
 Il parla ainsi et son frère s’élança rapidement vers Merv, comme une tourterelle s’envole d’un cyprès.
 
 Cet homme ambitieux se présenta respectueusement devant l’illustre Gordieh, il se présenta devant les intimes de Bahram ; il leur répéta les paroles du Khakan, raconta combien cette mort le troublait et ajouta :
@@ -59,7 +61,7 @@ Cet homme ambitieux se présenta respectueusement devant l’illustre Gordieh, i
 >
 > C’était une mort soudaine et un grand événement auquel personne ne s’attendait.
 >
-> Puissiez-vous recevoir souvent des nouvelles de ses mânes et que le juge suprême lui soit favoniable !»
+> Puissiez-vous recevoir souvent des nouvelles de ses mânes et que le juge suprême lui soit favoniable ! »
 
 Ensuite, il remit en secret à Gordieh la lettre du Khakan et lui rapporta ses discours sur leur parenté, sur les conseils et les bons avis qu’elle avait donnés à Bahram, sur ce qui s’était passé anciennement et récemment ; sur la pureté et la sainteté des femmes, les consolatrices et les conseillères de l’homme.
 
