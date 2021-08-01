@@ -22,14 +22,16 @@ Lorsque le ciel eut pâli sous son voile et que tous les grands eurent préparé
 
 Il leur dit :
 
-> Cette nuit, il faut adopter un cri autre que celui d’hier soir et à chaque veille, de la nuit il faut que tous les gardiens proclament le nom de Kobad.»
+> Cette nuit, il faut adopter un cri autre que celui d’hier soir et à chaque veille, de la nuit il faut que tous les gardiens proclament le nom de Kobad. »
 
 On lui répondit :
 
-> >, Nous ferons ainsi et nous chasserons de notre tête le nom de Parviz.»
+> >, Nous ferons ainsi et nous chasserons de notre tête le nom de Parviz. »
 
 Et lorsque la nuit eut renouvelé son voile couleur de poix, tous les gardiens
-’élevèrent leur voix dans la ville et sur les marchés, poussant leur cri au nom de Kobad : Que Kobad, le descendant des Grands rois, vive et soit . heureux !
+’élevèrent leur voix dans la ville et sur les marchés, poussant leur cri au nom de Kobad :
+
+> Que Kobad, le descendant des Grands rois, vive et soit . heureux !
 
 Que son nom soit proclamé dans tous les pays !
 
@@ -41,29 +43,29 @@ Elle dit à Khosrou :
 
 > Ô roi, que va-t-il arriver ?
 >
-> Il faut que nous parlions de ce qui se passe.»
+> Il faut que nous parlions de ce qui se passe. »
 
 Le roi s’éveilla à la voix de Schirin, et, tout irrité de ce qu’elle lui parlait, il lui dit :
 
 > Ô toi, au visage de lune !
 >
-> Pourquoi parles-tu pendant que je dors?»
+> Pourquoi parles-tu pendant que je dors ? »
 
 Elle répondit :
 
-> Ouvre les oreilles et écoute’les cris des gardes de nuit.»
+> Ouvre les oreilles et écoute’les cris des gardes de nuit. »
 
 Khosrou entendit alors ces cris et ses joues devinrent pâles comme la fleur du fenugrec.
 
 Il dit :
 
-> Quand trois veilles de la nuit seront passées, demandez l’avis des astrologues ; car, quand ce malfaiteur a été mis au monde par sa mère, je lui ai donné en secret le nom de Kobad, mais tout haut je l’ai appelé Schirouïeh et ai toujours tenu caché son autre nom ; en public il a toujours porté le nom de Schirouïeh, et, pourtantce vilain l’appelle Kobad.
+> Quand trois veilles de la nuit seront passées, demandez l’avis des astrologues ; car, quand ce malfaiteur a été mis au monde par sa mère, je lui ai donné en secret le nom de Kobad, mais tout haut je l’ai appelé Schirouïeh et ai toujours tenu caché son autre nom ; en public il a toujours porté le nom de Schirouïeh, et, pourtant ce vilain l’appelle Kobad.
 >
-> Il faut que nous partions pendant la nuit sombre pour la Chine, ou le Madjiu, ou le pays de Mekran ; nous devancerons nos canerais sur la route à l’aide d’une ruse et je demanderai une armée au F aghfour de la Chine.»
+> Il faut que nous partions pendant la nuit sombre pour la Chine, ou le Madjiu, ou le pays de Mekran ; nous devancerons nos canerais sur la route à l’aide d’une ruse et je demanderai une armée au F aghfour de la Chine. »
 
 Mais son étoile dans le ciel s’étant obscurcie, ses affaires sur la terre se gâtèrent.
 
-Il n’exécute pas son i plan pendant la nuit sombre ; il prit trop légèrement une affaire grave.
+Il n’exécute pas son plan pendant la nuit sombre ; il prit trop légèrement une affaire grave.
 
 Schirin lui dit :
 
