@@ -24,9 +24,9 @@ Puis, il dit d’une voix forte :
 >
 > Maintenant avez-vous quelqu’un qui soit en état de maintenir la voie et les coutumes des Keïanides, jusqu’à ce que paraisse dans le monde un illustre rejeton des rois, qui serait digne de prétendre au trône, au diadème, à la ceinture et à la fortune des rois ?
 >
-> Je jure par le maître du soleil sublime que je vous aiderai en cela.»
+> Je jure par le maître du soleil sublime que je vous aiderai en cela. »
 
-Les grands écoutèrentle discours que cet homme puissant et illustre avait prononcé.
+Les grands écoutèrent le discours que cet homme puissant et illustre avait prononcé.
 
 Personne ne contredit ses paroles droites et un vieillard, dont le nom était Schehran Guraz, se leva, un homme vail-Iant et âgé, un grand qui portait haut la tête.
 
@@ -42,7 +42,7 @@ Il dit :
 >
 > Quatre fois des armées de cent mille hommes, tous braves et propres au combat, ont reculé devant les flèches de simple bois et l’Iran a été sauvé de ses angoisses et de la ruine.
 >
-> Aujourd’hui il convient que tu occupes le trône de l’Iran ; la fortune, qui a toujours veillé sur toi, rend cela évident et si un Iranien refuse de t’obéir, ou s’il se tient à l’écart et ne veut pas te reconnaître, nous te l’amènerons d’après tes ordres, si vaillant qu’il puisse être et sa renommée fût-elle celle d’un Chosroës.»
+> Aujourd’hui il convient que tu occupes le trône de l’Iran ; la fortune, qui a toujours veillé sur toi, rend cela évident et si un Iranien refuse de t’obéir, ou s’il se tient à l’écart et ne veut pas te reconnaître, nous te l’amènerons d’après tes ordres, si vaillant qu’il puisse être et sa renommée fût-elle celle d’un Chosroës. »
 
 Ayant ainsi parlé, il se rassit à sa place et le Sipehbed Khorasan s’avança vers Bahram, disant :
 
@@ -53,7 +53,7 @@ Ayant ainsi parlé, il se rassit à sa place et le Sipehbed Khorasan s’avança
 > Mais il y a une belle parole que vous, hommesà l’esprit pur, voudrez peut-être vu. . 7
 >
 > écouter et que Zerdouscht prononce dans le Zend-
-Avesta, la voici : Quiconque s’écarte du Créateur tout-puissant, donnez-lui pendant un an des conseils et fournissez-lui ce dont il a besoin ; si, au bout de l’année, il n’est pas revenu à la vraie voie, il faut le tuer sur l’ordre du roi ; mais quand il devient l’ennemi du roi distributeur de la justice, il faut se hâter de lui trancher la tête.»
+Avesta, la voici : Quiconque s’écarte du Créateur tout-puissant, donnez-lui pendant un an des conseils et fournissez-lui ce dont il a besoin ; si, au bout de l’année, il n’est pas revenu à la vraie voie, il faut le tuer sur l’ordre du roi ; mais quand il devient l’ennemi du roi distributeur de la justice, il faut se hâter de lui trancher la tête. »
 
 Ayant ainsi parlé, Khorasan ferma ses lèvres et retourna à la place où il avait été assis.
 
@@ -65,7 +65,7 @@ Il dit :
 >
 > Vaut-il mieux parler avec justice ou avec complaisance ?
 >
-> Si la justice vaut mieux, maudit soit qui approuverait des paroles iniques ; et si nos paroles n’étaient que des complaisances, Dieu, le victorieux, ne nous viendrait pas en aide.»
+> Si la justice vaut mieux, maudit soit qui approuverait des paroles iniques ; et si nos paroles n’étaient que des complaisances, Dieu, le victorieux, ne nous viendrait pas en aide. »
 
 Puis, il dit à Bahram :
 
@@ -75,7 +75,7 @@ Puis, il dit à Bahram :
 >
 > Assois-toi sur ce trône dont tu es digne, car tu as délivré du mal tous les Kischwers.
 >
-> Vis heureux à jamais, ô roi et que la main et la langue des méchants restent loin de toi !»
+> Vis heureux à jamais, ô roi et que la main et la langue des méchants restent loin de toi ! »
 
 Ainsi parla le vaillant homme, puis il se rassit ; et le chef du pays des Khazars, Khosrou, se leva comme un lion, disant :
 
@@ -88,7 +88,7 @@ Ainsi parla le vaillant homme, puis il se rassit ; et le chef du pays des Khazar
 > Le passé et ne dirige pas tes pas audacieux vers le trône, car, aussi longtemps que vit le roi maître du monde, aucun Sipehbed ne peut prétendre au trône.
 >
 > Si, dans ton cœur, Khosrou t’inspire des craintes, quitte le Farsistan et Thisifoun et vis tranquille dans le pays de Khorasan, où tu jouiras
-. de la sécurité et du pouvoir que tu mérites ; écris lettre sur lettre pour t’excuser et il faut espérer que le roi reviendra vers toi.»
+. de la sécurité et du pouvoir que tu mérites ; écris lettre sur lettre pour t’excuser et il faut espérer que le roi reviendra vers toi. »
 
 Khosrou n’avait pas encore quitté sa place, que déjà le noble Farrulrh s’avançait ; il commença à parler selon la justice, disant :
 
@@ -112,7 +112,7 @@ Khosrou n’avait pas encore quitté sa place, que déjà le noble Farrulrh s’
 >
 > Le quatrième était Khouschnevvaz, au cœur impur, qui a enlevé à ce pays sa gloire et son bien-être et lorsque les Heïtaliens eurent tué inopinément un roi comme Pirouz, à l’étoile puissante, maître du monde et chef des rois, le trône des rois des rois fut abaissé.
 >
-> Mais personne n’a vu dans le monde une chose aussi étonnante, une chose inouïe comme celle qui arrive aujourd’hui dans l’Iran, qu’un roi tel que Khosrou s’enfuie de son trône et aille chez nos ennemis pour échapper a son armes.»
+> Mais personne n’a vu dans le monde une chose aussi étonnante, une chose inouïe comme celle qui arrive aujourd’hui dans l’Iran, qu’un roi tel que Khosrou s’enfuie de son trône et aille chez nos ennemis pour échapper a son armes. »
 
 Ayant ainsi parlé, il se rassit, pleurant de dou-(il leur et son discours fit pâlir Bahram.
 
@@ -120,18 +120,18 @@ Sinar, un homme plein d’expérience, se leva tout armé, une épée indienne �
 
 > Ce noble Pehlewan est puissant, juste et d’un esprit brillant.
 >
-> Il vaut mieux qu’il s’asseye sur le trône, jusqu’à ce qu’un rejeton des Keïanides vienne armé pour le combat, car il est vaillant, il sait se battre et la fortune lui est propice.»
+> Il vaut mieux qu’il s’asseye sur le trône, jusqu’à ce qu’un rejeton des Keïanides vienne armé pour le combat, car il est vaillant, il sait se battre et la fortune lui est propice. »
 
 Le chef de l’armée, entendant ces paroles, saisit son épée et la tira, disant :
 
-> Si l’on trouve dans une maison de la ville une femme de race royale, je lui couperai la tête avec cette épée tranchante, je ferai passer sur sa vie le souffle de la mort ; je n’attendrai pas qu’un prétendant au trône paraisse et montre sa bravoure au milieu des cavaliers.»
+> Si l’on trouve dans une maison de la ville une femme de race royale, je lui couperai la tête avec cette épée tranchante, je ferai passer sur sa vie le souffle de la mort ; je n’attendrai pas qu’un prétendant au trône paraisse et montre sa bravoure au milieu des cavaliers. »
 
 I Lorsque les braves, remplis de l’esth d’Ahriman, virent cette résolution de leur chef impie, ils tirèrent les épées, se levèrent et parlèrent sur un nouveau ton, s’écriant :
 
-> Bahram est roi et nous sommes ses sujets nous foulerons aux pieds la tête de ses ennemis.»
+> Bahram est roi et nous sommes ses sujets nous foulerons aux pieds la tête de ses ennemis. »
 
 Quand Bahram vit ces épées nues, il montra de la prudence et de la droiture et dit :
 
-> Si quelqu’un se lève de sa place et touche son épée, je lui couperai à l’instant la main et ferai rentrer la raison dans sa tête ivre.»
+> Si quelqu’un se lève de sa place et touche son épée, je lui couperai à l’instant la main et ferai rentrer la raison dans sa tête ivre. »
 
 Il dit, quitta les nobles de l’Iran et entra dans le jardin royal et cette grande assemblée se dispersa, les visages froncés, les cœurs brisés.
