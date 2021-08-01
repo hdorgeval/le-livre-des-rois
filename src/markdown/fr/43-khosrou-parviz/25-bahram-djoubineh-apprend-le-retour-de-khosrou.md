@@ -34,11 +34,11 @@ Le cœur des grands fut blessé par lui ; mais un homme qui ne sait pas agir hon
 
 Ne mettez pas votre espoir dans les Sâsânides, ne cherchez pas des rubis sur le saule rouge.
 
-Puisse la l’ortnne vous être propice quand on vous apportera cette lettre.
+Puisse la fortune vous être propice quand on vous apportera cette lettre.
 
 Vous avez auprès de moi une position brillante, où le devant et la manche de la chemise sont de la même étoffe, où vous jouirez tous du x repos et du sommeil ,’soit dans la nuit sombre, soit quand le soleil est au haut du ciel et quand vous tous viendrez me rejoindre, mon âme troublée reprendra sa sérénité.
 
-Je ne crains ni les Roumis ni leur Kaisar, je foulerai aux pieds leur têtes et leur trône.»
+Je ne crains ni les Roumis ni leur Kaisar, je foulerai aux pieds leur têtes et leur trône. »
 
 On posa sur la lettre le sceau du roi et le messager rusé partit.
 
@@ -48,13 +48,13 @@ Quand ce vieillard vit cette puissance du roi et cette armée si nombreuse qu’
 
 > le suis engagé dans une affaire désespérée.
 >
-> Qui demandera la prortection du vaillant Bahram en face de la majesté et de la gloire de ce roi ?
+> Qui demandera la protection du vaillant Bahram en face de la majesté et de la gloire de ce roi ?
 >
 > Le suis un Perse qui n’a pas d’ennemis et j’ai là trente charges de chameau ; pourquoi me ferais-je tuer, puisque la grandeur du Il)
 >
-> H roi est remontée de l’abîme ?
+> roi est remontée de l’abîme ?
 >
-> J’irai remettre au roi ces lettres, je lui remettrai des présents tels qu’on n’en a jamais vu.»
+> J’irai remettre au roi ces lettres, je lui remettrai des présents tels qu’on n’en a jamais vu. »
 
 Il se rendit plein de soucis à la cour du roi, avec les lettres de ce sujet ennemi.
 
@@ -84,12 +84,12 @@ Lorsque Khosrou verra ton armée, lorsqu’il verra ta bravoure et ta haute posi
 
 Le roi fit poser des sceaux sur ces lettres, il fit appeler cet ami qu’il choyait et lui dit :
 
-> Ô homme il!) plein d’intelligencel-tu cueilleras le fruit de la peine dans cette entreprise.»
+> Ô homme il!) plein d’intelligencel-tu cueilleras le fruit de la peine dans cette entreprise. »
 
 Il lui donna des pierreries, il lui donna de l’or, il lui donna beaucoup de rubis de haut prix et lui dit :
 
 > Porte ceci à Djoubineh et regarde comme déjà décapité le vil corps de cet homme.
 >
-> Quand ma fortune orgueilleuse brillera de tout son éclat, je t’élèverai au-dessus de tout besoin dans le monde.»
+> Quand ma fortune orgueilleuse brillera de tout son éclat, je t’élèverai au-dessus de tout besoin dans le monde. »
 
 Dara Penah quitta la cour du roi, parcourut la roide, rapide comme le vent, remit à Djoubineh toutes les lettres et se répandit devant lui en paroles douces.
