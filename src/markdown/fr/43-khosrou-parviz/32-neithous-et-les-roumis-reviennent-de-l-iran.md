@@ -18,9 +18,11 @@ order: '032'
 
 Le roi dit à Kharrad, fils de Bénin :
 
-> Prépare un champ pour une revue et convoque le bureau ; passe en revue toute l’armée des Roumis, tous ceux qui sont là, jeunes et vieux ; et de mon trésor donne à chacun solde double ; il ne faut pas qu’ils soient mécontents de notre libéralité.»
+> Prépare un champ pour une revue et convoque le bureau ; passe en revue toute l’armée des Roumis, tous ceux qui sont là, jeunes et vieux ; et de mon trésor donne à chacun solde double ; il ne faut pas qu’ils soient mécontents de notre libéralité. »
 
-Il fit préparer des robes d’honneur pour ceux qui en étaient dignes et avaient fait leur devoir au jour de la bataille et l’on demanda pour chacun d’eux un cheval de prix du écurie : de la cour.
+Il fit préparer des robes d’honneur pour ceux qui en étaient dignes et avaient fait leur devoir au jour de la bataille et l’on demanda pour chacun d’eux un cheval de prix du écurie :
+
+> de la cour.
 
 Il donnaàNeïathous tant de joyaux, de chevaux et d’esclaves à ceintures d’or, qu’il l’éleva au-dessus de tous par la quantité des présents et lui fit porter la tête plus haut que les plus nobles.
 
@@ -78,7 +80,7 @@ Un héraut éloquent, un grand ayant une belle voix et plein de prudence, procla
 >
 > N’exercez pas de vengeance, ne versez pas de sang, ne soyez pas les instigateurs du mal.
 >
-> Si un sujet se plaint d’avoir eu beaucoup à soufirir de la part d’un homme armé, le malfaiteur ne trouvera d’autre place que le gibet et dans l’autre monde les tourments du feu.
+> Si un sujet se plaint d’avoir eu beaucoup à souffrir de la part d’un homme armé, le malfaiteur ne trouvera d’autre place que le gibet et dans l’autre monde les tourments du feu.
 >
 > Vous êtes tous les maîtres de vos trésors. de tout ce que vous avez acquis par votre travail.
 >
@@ -86,6 +88,6 @@ Un héraut éloquent, un grand ayant une belle voix et plein de prudence, procla
 >
 > J’ai un trésor dans chaque ville, accumulé par mes ancêtres ou par moi-même et j’ai ordonné au trésorier de fournir des vêtements et de la nourriture à tous ceux qui ne possèdent rien.
 >
-> Si quelqu’un n’a rien à manger le matin, il obtiendra du trésorier du roi trois man de blé, à condition qu’il invoquera les bénédictions de Dieu sur le roi et qu’il travaillera à cultiver la terre.»
+> Si quelqu’un n’a rien à manger le matin, il obtiendra du trésorier du roi trois man de blé, à condition qu’il invoquera les bénédictions de Dieu sur le roi et qu’il travaillera à cultiver la terre. »
 
 Quand il y a un roi pareil, cela Haut mieux que s’il était savant, mais impur.
