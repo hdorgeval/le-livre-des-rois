@@ -22,7 +22,7 @@ Le frère du Khakan alla chez lui, disant :
 
 > Ô prince puissant et avide de combats !
 >
-> Une troupe vaillante se dirige vers l’Iran et beaucoup de déserteurs nous en arrivent ; ce sera une honte éternelle pour la cour et l’armée et le peuple en : riront.»
+> Une troupe vaillante se dirige vers l’Iran et beaucoup de déserteurs nous en arrivent ; ce sera une honte éternelle pour la cour et l’armée et le peuple en : riront. »
 
 Le maître de la Chine entendit ces paroles et la colère lit pâlir ses joues.
 
@@ -32,7 +32,7 @@ Il dit :
 >
 > Va les rejoindre, ne montre pas de la colère, commence par des paroles douces ; ils ne connaissent pas nos usages ; tu réduiras peut-être nos ennemis à l’impuissance : parle-leur donc doucement et accueille-les bien ; relève-les par ton humanité.
 >
-> Mais si l’on l’attaque, agis en homme et n’hésite pas : remplis de leurs corps un cimetière à Merv, pour que la terre en devienne comme le plumage du faisan.»
+> Mais si l’on l’attaque, agis en homme et n’hésite pas : remplis de leurs corps un cimetière à Merv, pour que la terre en devienne comme le plumage du faisan. »
 
 Le Sipehdar partit avec six mille vaillants cavaliers, l’élite des Turcs.
 
@@ -42,7 +42,7 @@ Les deux armées formèrent leurs lignes ; tous placèrent leur vie sur la paume
 
 Thuwurg, que le Khakan appelait le vieux loup, se présenta devant le front des Iraniens et dit :
 
-> Est-ce que cette sainte femme ne se trouve pas avec Cette grande foule?»
+> Est-ce que cette sainte femme ne se trouve pas avec Cette grande foule ? »
 
 Parce que Gordieh était revêtue d’une lourde armure et armée comme un homme de guerre, le vaillant Thuwurg ne l’avait !
 
@@ -50,7 +50,7 @@ Pas reconnue, et, frappant du talon son cheval, il s’avança vers elle et dit 
 
 > Où dois-je chercher au milieu de l’armée cette sœur du roi assassiné ?
 >
-> Car j’ai beaucoup à lui parler de choses récentes et des jours anciens.»
+> Car j’ai beaucoup à lui parler de choses récentes et des jours anciens. »
 
 Gordieh lui dit :
 
@@ -69,11 +69,11 @@ Le Khakan m’a dit :
 >
 > Arrange les affaires de cette manière et si un conseil du Khakan ne te suffit pas, l’ais un traité.
 >
-> Quiconque croit le Khakan capable de faire ce que tu crains, dépasse ce qu’il est permis de dire.»
+> Quiconque croit le Khakan capable de faire ce que tu crains, dépasse ce qu’il est permis de dire. »
 
 Gordieh répondit :
 
-> Écartons-nous du champ de bataille et du front des armées ; je répondrai à tout ce que tu as dit et je te donnerai des raisons excellentes.»
+> Écartons-nous du champ de bataille et du front des armées ; je répondrai à tout ce que tu as dit et je te donnerai des raisons excellentes. »
 
 Thuwurg quitta le front de l’armée et suivit cette v1.
 
@@ -81,13 +81,13 @@ Fière et illustre femme et lorsque la rusée se vit seule avec lui, elle lui mo
 
 > Tu .as vu Bahram, tu as ’ admiré sa manière d’aller à cheval et de combattre.
 >
-> Or il était mon frère de père et de mère et maintenant qu’il est mort, je te mettrai à l’épreuve et me battrai avec toi ; si tu me trouves digne d’unmari, dis-le : je pourrais peut-être t’accepter pour époux.»
+> Or il était mon frère de père et de mère et maintenant qu’il est mort, je te mettrai à l’épreuve et me battrai avec toi ; si tu me trouves digne d’un mari, dis-le : je pourrais peut-être t’accepter pour époux. »
 
 Ayant dit cela, elle poussa son cheval et Ized Guschasp s’élance après elle.
 
 Le Sipehdar chinois l’attaqua de son côté et ces deux lions de combat ne s’arrêtèrent plus dans leur lutte.
 
-La sœur de l’illustre Pehlewan courut sur lui avec sa lance, l’en frappa au milieu du corps et perça sa cette de mailles et sa ceinture ; il tomba du haut de son cheval et tout le sable devint sous lui une mare de sang.
+La sœur de l’illustre Pehlewan courut sur lui avec sa lance, l’en frappa au milieu du corps et perça sa cotte de mailles et sa ceinture ; il tomba du haut de son cheval et tout le sable devint sous lui une mare de sang.
 
 Yelan Sineh, à la tête de cette troupe d’élite, poussa son cheval sur le champ de bataille et rompit toute l’armée des Chinois, jetant à bas bien des hommes, les uns morts, les autres’blessés.
 
@@ -101,7 +101,7 @@ KHOSlt et ’y resta un peu de temps, obsédée dans son cœur de bien des inqui
 
 Elle écrivit à son frère Guerdouî une lettre pleine de douleur et lui rendit compte de toutes ses affaires, disant :
 
-> Lorsque le vaillant Bahram mourut, rempli des soucis et des inquiétudes qui peuvent assaillir un frère, i il m’adresse beaucoup de bonnes paroles pour tolet pour moi ; que ses mânes ne soient jamais exposés à nos reproches !
+> Lorsque le vaillant Bahram mourut, rempli des soucis et des inquiétudes qui peuvent assaillir un frère, il m’adresse beaucoup de bonnes paroles pour tolet pour moi ; que ses mânes ne soient jamais exposés à nos reproches !
 >
 > Ensuite, il m’a ordonné de redire au grand roi»
 
@@ -112,4 +112,4 @@ Une grande armée toute composée d’hommes illustres et vaillants nous a pours
 J’ai avec moi beau-
 coup de nobles chefs et il ne faut pas qu’il leur arrive malheur.
 
-Je reste à Amont, espérant que mon étoile fortunée m’apporte ta réponse.»
+Je reste à Amont, espérant que mon étoile fortunée m’apporte ta réponse. »
