@@ -32,13 +32,13 @@ Puis Parmo’udeh vit des troupes telles que le désert tremblait à leur aspect
 
 > Ce chef est le compagnon d’Ahriman ; on ne peut pas juger du nombre de ses troupes et personne ne voudra les attaquer, car leur Sipehdar est un homme fier et colère et la poussière noire sous ses pieds deviendra une mare de sang.
 >
-> Mais quand les ténèbres seront arrivées, nous ferons une attaque de nuit, rejetant de nos cœurs toute crainte et toutsouci.»
+> Mais quand les ténèbres seront arrivées, nous ferons une attaque de nuit, rejetant de nos cœurs toute crainte et tout souci. »
 
 Quand il fut rentré dans l’enceinte de ses tentes, il tint un conseil de guerre et dit :
 
-> Ceci est une des plus grandes entreprises, car quoique cette armée soit peu nombreuse, ce sont des cavaliers et des chevaux magninfiques et ils occupent le premier rang parmi les guerriers les plus tiers. lis sont bien armés et ont pour chef Bahram, pour lequel les pointes des lances ne sont que comme des épines et de mau vaises herbes et qui est plein d’orgueil d’avoir vaincu le roi Saweh et ivre de sang.
+> Ceci est une des plus grandes entreprises, car quoique cette armée soit peu nombreuse, ce sont des cavaliers et des chevaux magnifiques et ils occupent le premier rang parmi les guerriers les plus tiers. lis sont bien armés et ont pour chef Bahram, pour lequel les pointes des lances ne sont que comme des épines et de mauvaises herbes et qui est plein d’orgueil d’avoir vaincu le roi Saweh et ivre de sang.
 >
-> Mais si le Créa-leur me vient en aide, je vengerai la mort de mon tr père, mon ennemi fûti1 une montagne.»
+> Mais si le Créa-leur me vient en aide, je vengerai la mort de mon père, mon ennemi fûti1 une montagne. »
 
 ’
 Du temps que Bahram était entré en campagne et avait quitté l’Iran, marchant contre les Turcs, un astrologue lui avait dit :
@@ -65,7 +65,7 @@ Puis lui et Ized Guschasp montèrent à cheval avec les plus ardents de leurs co
 
 Sait comment ces fiers cavaliers y réussirent.
 
-On entendit de la porte du jardin le son des trompettes. le Sipehhed se précipita dans la mêlée, ont lit rapidement une seconde brèche et la Per.»
+On entendit de la porte du jardin le son des trompettes. le Sipehhed se précipita dans la mêlée, ont lit rapidement une seconde brèche et la Per. »
 
 Renversèrent tout le corps lm ; Bahram, un javelot en main, bondissait comme fait un homme à moitié ivre.
 
@@ -85,7 +85,7 @@ Il dit à Parmoudeh :
 
 > c0 toi, qui t’enfuis, ne te mêle donc ce pas aux hommes de guerre !
 >
-> Tu n’es pas encore un homme, d mon fils, tu .es un enfant et tu ferais bien de sucer le lait de ta mère.»
+> Tu n’es pas encore un homme, d mon fils, tu .es un enfant et tu ferais bien de sucer le lait de ta mère. »
 
 Le roi répondit :
 
@@ -95,7 +95,7 @@ Le roi répondit :
 >
 > Je crois que tu es un lion féroce.
 >
-> Tu as tr tranché la tête à Saweh ,ique le ciel qui tourne avait traité avec tendresse pendant toute sa vie ; tu as détruit son armée de telle façon que le soleil et la lune en ont eu pitié.
+> Tu as tranché la tête à Saweh ,ique le ciel qui tourne avait traité avec tendresse pendant toute sa vie ; tu as détruit son armée de telle façon que le soleil et la lune en ont eu pitié.
 >
 > Je suis l’héritier de ce rail»
 
@@ -109,11 +109,11 @@ N’irrite pas ton cerveau, n’enflamme pas ta tète. ce n’est pas ainsi que 
 
 Armée.
 
-Je me rends à me tente, je tâcherai de renvenir sur mes pas ; j’écrirai au roi une lettre telle qu’il convient aux circonstances actuelles, espérant ce qu’il l’accueillera favorablement et qu’il me délivrera de cette invasion.
+Je me rends à me tente, je tâcherai de revenir sur mes pas ; j’écrirai au roi une lettre telle qu’il convient aux circonstances actuelles, espérant ce qu’il l’accueillera favorablement et qu’il me délivrera de cette invasion.
 
 Je suis l’esclave de son trône, je renonce à toute idée de souveraineté.
 
-Écarte donc de ton cœur toute pensée de guerre et de lutte, sois de bonne humeur et livre-toi aux fêtes.»
+Écarte donc de ton cœur toute pensée de guerre et de lutte, sois de bonne humeur et livre-toi aux fêtes. »
 
 Bahram l’écoute et s’en retourna, puisqu’il était d’accord avec lui sur la souveraineté.
 
