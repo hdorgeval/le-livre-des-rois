@@ -35,22 +35,24 @@ deux armées se rapprochèrent tellement que les fourmis et les mouches ne trouv
 
 Le prince avide de vengeance dit :
 
-> Je veux voir de près cette armée, je veux voir quels sont ces cavaliers du Roum, quel est le nombre de ces troupes et quelle est leur valeur?»
+> Je veux voir de près cette armée, je veux voir quels sont ces cavaliers du Roum, quel est le nombre de ces troupes et quelle est leur valeur ? »
 
 Les héros moutèrent à cheval avec Yelan Sineh et le puissant Ized Guschasp et ces grands personnages se mirent en route pour examiner les Roumis avides de combats.
 
-Ayant observé cette armée ils revinrent ; ils mirent pied à terre chez le prince et dirent : C’est une armée innombrable ; elle est bien plus grande que ce que nous avions supposé.»
+Ayant observé cette armée ils revinrent ; ils mirent pied à terre chez le prince et dirent :
+
+> C’est une armée innombrable ; elle est bien plus grande que ce que nous avions supposé. »
 
 De l’autre côté, les cavaliers roumis du roi accoururent à la salle d’au-
 dience et revêtirent leurs armures devant le roi, s’écriant :
 
-> Nous voulons combattre ces Iraniens !»
+> Nous voulons combattre ces Iraniens ! »
 
 Et le roi ne demandait pas mieux que d’accorder ce que désirait l’armée des Roumis.
 
 Lorsque le soleil leva la tête au-dessus de la montagne ; sombre, on entendit sortir des deux camps de grands bruits ; on aurait dit que la terre était devenue le ciel qui tourne, ou que le soleil était éclipsé par l’éclat des épées.
 
-On plaça lesnailes droites et gauches des armées et la terre entière devint une montagne de fer.
+On plaça les ailes droites et gauches des armées et la terre entière devint une montagne de fer.
 
 Le hennissement des chevaux et le l2 !
 
@@ -60,7 +62,7 @@ Quand le vaillant Bahram vil cet état de choses, il tira son épée brillante e
 
 Il dit à Yelan Sineh :
 
-> Tienstoi au centre et sur le front des troupes, car aujourd’hui je serai le champion de mon armée et si elle est mise en fuite, je resterai le dernier.»
+> Tienstoi au centre et sur le front des troupes, car aujourd’hui je serai le champion de mon armée et si elle est mise en fuite, je resterai le dernier. »
 
 Khosrou examina le champ de bataille, il vit que le monde entier était obscurci par les armées ; la face du soleil était noire comme la gueule du lion et l’on aurait dit qu’il tombait des nuages une pluie d’épées.
 
@@ -79,20 +81,20 @@ Quand Khosrou vit cet état de choses, quand il vit que le ciel était comme la 
 > Peux savoir qui sera aujourd’hui heureux dans la bataille, de qui la form
 >
 > l2 ?
-tune faiblira aujourd’hui, de qui la pointe de la lance sera convertie en épines et en brins d’herbe.»
+tune faiblira aujourd’hui, de qui la pointe de la lance sera convertie en épines et en brins d’herbe. »
 
 .
 Le cœur et l’âme de Khosrou étaient remplis de soucis, le monde était devant ses yeux comme une forêt sombre ; lorsque Kent, qui, sous son armure de fer, ressemblait à une montagne noire, quitta le centre de l’armée, se détacha de la foule, monta sur la hauteur, s’approcha de Khosrou et lui dit :
 
 > Ô roi qui portes haut la tête !
 >
-> Cherche des yeux cet esclave semblable au Div, contre lequel tu as lutté dans l’Iran, qui t’a vaincu et devant lequel tu t’es enfui ; cherche, à la droite et à la gauche de l’armée, où il se trouve. au milieu des grands, pour que je lui enseigne comment on combat et ce que peuvent le cœur et la force d’un homme qui sait agir.»
+> Cherche des yeux cet esclave semblable au Div, contre lequel tu as lutté dans l’Iran, qui t’a vaincu et devant lequel tu t’es enfui ; cherche, à la droite et à la gauche de l’armée, où il se trouve. au milieu des grands, pour que je lui enseigne comment on combat et ce que peuvent le cœur et la force d’un homme qui sait agir. »
 
 Ces paroles de Kent réveillèrent en Khosrou les douleurs de ses anciennes luttes, en lui rappelant qu’il s’était enfui devant un esclave et avait jeté ses armes de guerre.
 
 Il ne lui répondit pas, son cœur se remplit de sang et sa bouche de soupirs ; à la tin il dit :
 
-> Va vers ce cavalier au cheval blanc ; quand il te verra, il s’avancera pour te combattre et toi ne t’enfuis pas pour n’avoir pas à te mordre les lèvres de honte.»
+> Va vers ce cavalier au cheval blanc ; quand il te verra, il s’avancera pour te combattre et toi ne t’enfuis pas pour n’avoir pas à te mordre les lèvres de honte. »
 
 Kou’t ayant entendu ces paroles, s’en retourna ; il partit si rapidement qu’il se lit le compagnon du vent.
 
@@ -104,7 +106,7 @@ Yelan Sineh avertit Bahram en criant :
 
 > Prends garde, ô cavalier vaillant !
 >
-> Voici un Div qui arrive comme un éléphant ivre, le lacet au crochet de la selle et la lance en main.»
+> Voici un Div qui arrive comme un éléphant ivre, le lacet au crochet de la selle et la lance en main. »
 
 À ces paroles Bahram tira son épée du fourreau, rapidement comme le vent et dit tout haut son nom.
 
@@ -124,7 +126,7 @@ Il dit au roi :
 >
 > On ne trouvera pas l’égal de Kent, fils de Hezareh, dans les pays prospères de l’Iran et du Roum.
 >
-> Tu ris de la mort de cet homme : sache qu’elle emporte ta fortune.»
+> Tu ris de la mort de cet homme : sache qu’elle emporte ta fortune. »
 
 Khosrou dit :
 
@@ -134,15 +136,17 @@ Khosrou dit :
 >
 > Il m’a (lit que je m’étais enfui devant un esclave, que je n’avais pas en assez de cœur pour me mesurer avec lui.
 >
-> Mais ce n’est pas une honte de fuir devant un esclave qui donne de pareils coups au jour de combat.»
+> Mais ce n’est pas une honte de fuir devant un esclave qui donne de pareils coups au jour de combat. »
 
 De son côté Bahram s’écria :
 
-> Ô vous hommes illustres et d’illustre naissance, Yelan Sineh, Rem et Ized Guschasp, il faut attacher ce mort sur son cheval et le renvoyer d’ici à son camp, pour que son roi voie son corps déchiré.»
+> Ô vous hommes illustres et d’illustre naissance, Yelan Sineh, Rem et Ized Guschasp, il faut attacher ce mort sur son cheval et le renvoyer d’ici à son camp, pour que son roi voie son corps déchiré. »
 
 Les hommes de guerre attachèrent rapidement et solidement le corps de Kent sur la selle du cheval, qui repartit en courant vers son camp, portant le corps de son maître orgueilleux.
 
-Le cœur de Khosrou fut affligé à la vue de Kent ; on détacha le lacet qui liait son corps ; le roi fit remplir de musc les blessures, ordonna de sécher le corps, de le coudre dans une étoffe fine de lin, de-le recouvrir de sa cette de mailles et de scrrer sa ceinture ; puis il l’envoya au Kaisar avec ce message : Voilà comment ’épée de cet esclave qui ressemble au Div frappe au jour du combat ; il n’y a pas de honte pour moi d’avoir fui devant lui.»
+Le cœur de Khosrou fut affligé à la vue de Kent ; on détacha le lacet qui liait son corps ; le roi fit remplir de musc les blessures, ordonna de sécher le corps, de le coudre dans une étoffe fine de lin, de-le recouvrir de sa cotte de mailles et de scrrer sa ceinture ; puis il l’envoya au Kaisar avec ce message :
+
+> Voilà comment ’épée de cet esclave qui ressemble au Div frappe au jour du combat ; il n’y a pas de honte pour moi d’avoir fui devant lui. »
 
 Le cœur de tous les Roumis était brisé, ceux qui n’avaient pas combattu étaient tous blessés dans l’âme ; les patriciens roumis versèrent des larmes. tous les visages étaient inondés, tous les cœurs étaient ulcérés.
 
@@ -158,10 +162,12 @@ On en forma une butte comme une haule montagne, que l’on nomma Bahramdjid
 Khosrou perdait l’espoir qu’il avait placé dans les Roumis ; il se disait :
 
 > Si les hommes du Roum se présentent deux fois de cette façon sur le champ de bataille, sache qu’il n’y saura plus d’armée de Roum, sache que leurs épées
-(l’acier sont devenues de la cire.»
+(l’acier sont devenues de la cire. »
 
 Puis, il dit à Serguis :
 
-> Ne mène pas demain tes troupes au combat ; reposeloi demain ; je marcherai avec les Iraniens avides de vengeancew et puis aux Iraniens : Il faut que demain vous alliez au combat et ne lardiez pas.»
+> Ne mène pas demain tes troupes au combat ; repose-toi demain ; je marcherai avec les Iraniens avides de vengeancew et puis aux Iraniens : Il faut que demain vous alliez au combat et ne lardiez pas. »
 
-Ils répondirent tous sans exception : Nous trierons de manière à couvrir de sang la plaine el la R montagne. »
+Ils répondirent tous sans exception :
+
+> Nous trierons de manière à couvrir de sang la plaine el la R montagne. »
