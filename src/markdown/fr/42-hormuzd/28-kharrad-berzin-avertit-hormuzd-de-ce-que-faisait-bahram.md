@@ -36,11 +36,11 @@ Le roi dit alors au Grand Mobed :
 
 > Qu’est-ce que cela peut être ?
 >
-> Il faut rapprocher tous ces récits : un onagre qui sert de guide dans la forêt, un château qu’on voit au milieu du désert, une femme portant une couronne, assise sur un trône d’or, des serviteurs dignes d’un roi qui se tiennent devant elle.-Celte histoire est comme un de ces rêves dont on parle dans les vieux contes.»
+> Il faut rapprocher tous ces récits : un onagre qui sert de guide dans la forêt, un château qu’on voit au milieu du désert, une femme portant une couronne, assise sur un trône d’or, des serviteurs dignes d’un roi qui se tiennent devant elle.-Celte histoire est comme un de ces rêves dont on parle dans les vieux contes. »
 
 Le Mobed dit au roi du monde :
 
-> Cetonagre aura été un Div déguisé, qui a détourné Bahram de la droiture et mis à nu la défaillance de son cœur. ce Prends le château pour un cimetière et cette femme sur le trône pour une magicienne impie qui a exalté l’orgueil de Bahram et lui a montré la couronne et le trône du pouvoir.
+> Cet onagre aura été un Div déguisé, qui a détourné Bahram de la droiture et mis à nu la défaillance de son cœur. ce Prends le château pour un cimetière et cette femme sur le trône pour une magicienne impie qui a exalté l’orgueil de Bahram et lui a montré la couronne et le trône du pouvoir.
 >
 > Quand il l’a quittée, il était hautain et enivré.
 >
@@ -52,7 +52,7 @@ Le Mobed dit au roi du monde :
 >
 > Les Iraniens en ont été ébranlés et cessent de placer leur espérance dans le roi.
 >
-> Maintenant cherche un moyen de ramener cette armée de Balkh à ta cour.»
+> Maintenant cherche un moyen de ramener cette armée de Balkh à ta cour. »
 
 Le roi fut honteux de ce qu’il avait fait, de ce coton et de ces vêtements brodés.
 
@@ -62,7 +62,7 @@ Il répondit :
 
 > Ô roi !
 >
-> Toute l’armée a dit que cette femme illustre, qui était si belle et si parée sur son trône, était la fortune de Bahram.»
+> Toute l’armée a dit que cette femme illustre, qui était si belle et si parée sur son trône, était la fortune de Bahram. »
 
 Ces paroles remplirent le roi de terreur sur les malheurs que le sort lui réservait.
 
@@ -74,13 +74,13 @@ Bahram ouvrit le couvercle de la corbeille et vit les pointes brisées de ces lo
 
 Cet homme, dont le jugement était déjà troublé, devint plein de soucis ; il envoya appeler les 5M Iraniens, les fit tous asseoir autour de la corbeille ; et leur dit :
 
-> Regardez ce cadeau du roi et ne l’estimez pas pour peu de chose ; il veut dire que cette armée est sans valeur ; les pointes brisées des épées h sont la preuve de ce que je dis.»
+> Regardez ce cadeau du roi et ne l’estimez pas pour peu de chose ; il veut dire que cette armée est sans valeur ; les pointes brisées des épées sont la preuve de ce que je dis. »
 
 Les hommes de guerre furent consternés de ce que le roi avait fait et des paroles du Pehlewan de l’armée ; ils dirent :
 
 > Un jour le roi nous envoie des fuseaux et des robes brodées de femme, un autre jour il brise nos épées, ce qui est pire que des injures et des coups.
 >
-> Si jamais Bahram fils de Guschasp fait passer de nouveau son cheval sur la poussière de la cour du roi, malédiction sur sa cervelle, malédiction sur sa peau, malédiction sur cet homme sans valeur, son père !»
+> Si jamais Bahram fils de Guschasp fait passer de nouveau son cheval sur la poussière de la cour du roi, malédiction sur sa cervelle, malédiction sur sa peau, malédiction sur cet homme sans valeur, son père ! »
 
 Le Sipehhed écouta leurs discours et voyant que le cœur de l’armée s’était détaché du roi maître de la couronne, il dit :
 
@@ -88,12 +88,11 @@ Le Sipehhed écouta leurs discours et voyant que le cœur de l’armée s’éta
 >
 > Cherchez tous un moyen de sauver votre vie et faites tous aujourd’hui un traité avec moi.
 >
-> Il faudra que j’envoie des hommes de l’armée sur les routes pour observerles mouvements de nos ennemis ; si je ne le fais pas, vous pouvez être sûrs que je serai perdu et que toute l’armée sera exterminée. »
+> Il faudra que j’envoie des hommes de l’armée sur les routes pour observer les mouvements de nos ennemis ; si je ne le fais pas, vous pouvez être sûrs que je serai perdu et que toute l’armée sera exterminée. »
 
 Il parla ainsi, mais son but était tout autre ; fais attention et tu en seras étonné.
 
-Il tenta l’armée de au
-toute manière, car dans son cœur il craignait les troupes.
+Il tenta l’armée de au toute manière, car dans son cœur il craignait les troupes.
 
 Il dispersa des cavaliers par tout le pays pour qu’ils ne laissassent passer aux Iraniens aucune lettre du roi, dont l’effet aurait été de les empêcher de prendre les armes contre lui.
 
