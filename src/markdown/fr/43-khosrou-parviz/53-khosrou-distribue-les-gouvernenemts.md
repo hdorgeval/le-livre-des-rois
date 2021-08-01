@@ -31,13 +31,13 @@ Il leur dit :
 
 > Ceux qui s’écartent de la bonne voie et qui ne gardent pas leur langue, ramenez-les doucement au vrai chemin et s’ils transgressent de nouveau, jetez-les dans les fers et la prison.
 >
-> Envoyez de tous côtés des espions pour que rien ne reste caché, faites des rondes jour et nuit, ne dormez jamais dans vos tentes sans gardiens.»
+> Envoyez de tous côtés des espions pour que rien ne reste caché, faites des rondes jour et nuit, ne dormez jamais dans vos tentes sans gardiens. »
 
 Ensuite, il appela douze mille autres cavaliers vaillants, puissants et pleins d’ardeur guerrière, leur donna beaucoup de conseils et les envoya du côté des Alains.
 
 Il leur confia cette porte du couchant de l’empire, pour que ses ennemis ne pussent la passer et il dit à ces hommes qui portaient haut la tête :
 
-> Soyez vigilants, tenez-vous sous la protection de Dieu, le maître du monde.»
+> Soyez vigilants, tenez-vous sous la protection de Dieu, le maître du monde. »
 
 Puis, il choisit encore douze mille cavaliers, des hommes de guerre tels qu’il les faut, les envoya dans le Khorasan et leur donna bien des conseils et des avis, disant :
 
@@ -45,7 +45,7 @@ Puis, il choisit encore douze mille cavaliers, des hommes de guerre tels qu’il
 >
 > Je possède dans chaque pays un trésor rempli et cette ressource ne doit être hors de la portée de personne.
 >
-> Demandez ce qui convient et vous serez satisfaits, soyez prudents et vous serez exempts de chagrin.»
+> Demandez ce qui convient et vous serez satisfaits, soyez prudents et vous serez exempts de chagrin. »
 
 Il ouvrit la porte du trésor et fit apporter une quantité de dirhems qui avaient été frappés par Hormuzd et les distribua aux pauvres en versant des larmes et quand les pauvres furent pourvus de vêtements, il leur donna de nouveau de l’argent.
 
@@ -57,8 +57,7 @@ Il fixa et divisa en quatre parties les heures de la nuit et du jour que produit
 
 Quand il voyait que quelque chose allait mal dans le monde, soit dans l’armée, soit parmi ses sujets, il se mettait à l’instant à faire justice, examinait ce qui s’était passé et y remédiait.
 
-Une autre partie de la journée était uniquement li
-vouée à la joie, à entendre les musiciens, assis tranquillement avec les grands, ne s’occupant pas de choSes pénibles et n’y pensant pas, comme cela convient aux princes.
+Une autre partie de la journée était uniquement li vouée à la joie, à entendre les musiciens, assis tranquillement avec les grands, ne s’occupant pas de choSes pénibles et n’y pensant pas, comme cela convient aux princes.
 
 Une troisième partie était donnée aux prières et aux louanges du Créateur ; la quatrième était consacrée à l’observation du ciel sublime et aux questions sur la nature, les mouvements et le nombre des astres, les astronomes se tenant devant le roi et lui servant de guides vers le savoir ; mais une moitié de cette partie se passait à boire du vin, dans les longues nuits, avec des belles de Tharaz.
 
