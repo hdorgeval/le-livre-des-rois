@@ -28,9 +28,9 @@ Un vieillard qui avait de l’expérience dans les affaires s’approcha de Ferr
 >
 > Or on ne peut pas aller plus loin, jusqu’à ce que tu aies mis en avant un roi, car ce pays prospère deviendrait un désert et par suite de ces troubles, l’Iran ressemblerait bientôt à l’Aniran.
 >
-> Il faut donc examiner lequel des fils de Khosrou est le plus modeste et trouvera le moins d’opposition, le placer hardiment sur ce trône et répandre sur sa couronne des pièces d’or ; et puisque Schirouîeh, son fils aîné, est intelligent
+> Il faut donc examiner lequel des fils de Khosrou est le plus modeste et trouvera le moins d’opposition, le placer hardiment sur ce trône et répandre sur sa couronne des pièces d’or ; et puisque Schirouïeh, son fils aîné, est intelligent
 >
-> et se trouve en prison, il n’en faut pas un autre.»
+> et se trouve en prison, il n’en faut pas un autre. »
 
 Tout le monde donna des avis du même genre et il ne se passa pas beaucoup de jours ni de nuits avant que l’armée de Tokhar eût fait lever la poussière, ayant pris son parti résolument.
 
@@ -39,7 +39,7 @@ coup de troupes ; ils descendirent de cheval ensemble et causèrent longuement e
 
 Fer. rukhzad se mità parler et à exposer les maux qu’avait causés Khosrou, puis il ajouta :
 
-> L’armée veut rétablir la royauté par sa valeur et son intelligence.»
+> L’armée veut rétablir la royauté par sa valeur et son intelligence. »
 
 Le Sipehbed lui répondit :
 
@@ -47,20 +47,20 @@ Le Sipehbed lui répondit :
 >
 > Ce roi, dans sa jeunesse, était cher à tous les grands et à tous les Pehlevans et quand on voit s’obscurcir les jours d’un pareil homme, on ne peut désirer à personne une couronne et un trône.
 >
-> Khosrou a perdu tout pouvoir au moment où il est devenu injuste et lorsqu’il s’est mis à favoriser l’injustice de ses serviteurs.»
+> Khosrou a perdu tout pouvoir au moment où il est devenu injuste et lorsqu’il s’est mis à favoriser l’injustice de ses serviteurs. »
 
 4
 Lorsque Ferrukhzad eut entendu ces paroles, il choisit Tokhar parmi tous les Iraniens pour exécuter son plan et lui dit :
 
 > Allons maintenant à la prison, allons auprès de ces malheureux, enlevons sans hésitation Schirouïeh, ce prince jeune, brave et ambitieux.
 >
-> Maisril y a un surveillant de la prison, un Sipehbed à qui tu arracherais plutôt la cervelle et la peau que la personne de Schirouïeh et qui garde ses prisonniers désolés à l’aide de six mille cavaliers éprouvés.»
+> Maisril y a un surveillant de la prison, un Sipehbed à qui tu arracherais plutôt la cervelle et la peau que la personne de Schirouïeh et qui garde ses prisonniers désolés à l’aide de six mille cavaliers éprouvés. »
 
 Tokhar répondit à Ferrukhzad :
 
 > Nous avons traité trop légèrement l’affaire de ce Sipehbed.
 >
-> Si la fortune revenait à Parviz, il ne laisserait pas en vie un seul Pehlewan de l’Iran et personne n’échapperait, soit au gibet, soit au cachot et aux fers.»
+> Si la fortune revenait à Parviz, il ne laisserait pas en vie un seul Pehlewan de l’Iran et personne n’échapperait, soit au gibet, soit au cachot et aux fers. »
 
 En disant cela, il poussa son cheval et s’élança, semblable à Aderguschasp, emmenant au combat toute son armée.
 
@@ -75,7 +75,7 @@ Schiroueïh comprit pourquoi cet homme plein d’orgueil était venu dans la pri
 > Où
 > est Khosrou ?
 >
-> Est-ce à vous de me mettre en liberté ?»
+> Est-ce à vous de me mettre en liberté ? »
 
 Tokhar dit au fils du roi :
 
@@ -87,6 +87,6 @@ Tokhar dit au fils du roi :
 >
 > Mêler.
 >
-> Nous pouvons nous passer d’un prince sur seize ; il nous reste encore quinze de tes frères, dont chacun est digne d’être roi des rois et le trône du pouvoir sera heureux d’être occupé par un d’eux.»
+> Nous pouvons nous passer d’un prince sur seize ; il nous reste encore quinze de tes frères, dont chacun est digne d’être roi des rois et le trône du pouvoir sera heureux d’être occupé par un d’eux. »
 
 Schirouïeh resta confondu et versa des larmes, incertain s’il devait sortir de sa demeure étroite.
