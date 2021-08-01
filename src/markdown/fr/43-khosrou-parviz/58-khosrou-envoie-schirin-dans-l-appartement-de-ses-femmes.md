@@ -52,13 +52,13 @@ lion, ô loi au corps de Sipehbed, ô fortuné Keïanide,ô héros vainqueur des
 >
 > Où est tout cet amour, où sont ces larmes de sang dont la vue de Schirin te guérissait ?
 >
-> Où sont ces nuits converties en jour, où nos cœurs et nos yeux pleuraient et nos lèvres souriaient, où sont ces serments et ces protestations, ces promesses et cette foi jurée ?»
+> Où sont ces nuits converties en jour, où nos cœurs et nos yeux pleuraient et nos lèvres souriaient, où sont ces serments et ces protestations, ces promesses et cette foi jurée ? »
 
 Elle parla ainsi en versant de ses yeux des larmes de sang sur son visage en deuil et Khosrou se mit à pleurer sur elle et son visage devintjaune comme le soleil.
 
 Il envoya un cheval de main à bride d’or et quarante eunuques roumis de bon renom, disant :
 
-> Vous ramènerez dans l’appartement doré de mes femmes, vous la conduirez dans la chambre incrustée de pierreries.»
+> Vous ramènerez dans l’appartement doré de mes femmes, vous la conduirez dans la chambre incrustée de pierreries. »
 
 De là il alla dans la plaine où il devait chasser et y passa son temps avec du vin et de la musique et avec ses compagnons de festin.
 
@@ -68,7 +68,6 @@ Lorsque cet homme à la stature royale et aux membres puissants entra de la vill
 
 Le roi de la terre dit au Grand Mobed :
 
-> N’aie pas mau- 2h
- l’aise opinion de moi, marie-moi à cette femme au beau visage et donne au monde cet heureux message.»
+> N’aie pas mau-2h l’aise opinion de moi, marie-moi à cette femme au beau visage et donne au monde cet heureux message. »
 
 Il ’épousa selon les rites antiques, comme le prescrivaient à cette époque la coutume et la loi.
