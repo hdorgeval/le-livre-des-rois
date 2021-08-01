@@ -38,7 +38,7 @@ Lorsque Bahram vit le visage du roi des rois, il pâlit de colère et dit à ses
 >
 > Un éléphant n’ose tenir sur le champ de bataille quand je m’ébranle avec mon armée, les montagnes se fendent quand j’élève la voix et le lion, plein de cœur, s’enfuit.
 >
-> Je jette un charme sur la mer avec mon épée, je couvre de sang les plaines.»
+> Je jette un charme sur la mer avec mon épée, je couvre de sang les plaines. »
 
 Il parla ainsi et lança son cheval blanc ; on aurait dit que ce destrier était un aigle royal qui volait.
 
@@ -50,25 +50,25 @@ Khosrou dit :
 
 > Ô vous qui portez haut la tête !
 >
-> Qui de vous reconnaît Bahram Djoubineh?»
+> Qui de vous reconnaît Bahram Djoubineh ? »
 
 Guerdouî répondit :
 
-> Ô roi, regarde l’homme monté sur un cheval blanc, en tunique blanche, avec un baudrier noir et courant au milieu de la troupe.»
+> Ô roi, regarde l’homme monté sur un cheval blanc, en tunique blanche, avec un baudrier noir et courant au milieu de la troupe. »
 
 Lorsque le maître du monde vit Bahram, il comprit sa nature parfaitement et dit :
 
-> Cet homme sombre à haute taille, assis sur ce cheval blanc qui relève la tête?»
+> Cet homme sombre à haute taille, assis sur ce cheval blanc qui relève la tête ? »
 
 Guerdouî répondit :
 
-> C’est lui, un homme qui n’a jamais en une pensée de bien.»
+> C’est lui, un homme qui n’a jamais en une pensée de bien. »
 
 Khosrou dit :
 
-> Si tu fais une question à ce Pehlewan au des courbé, il te donnera une réponse rude.0n dirait que cet homme au museau de sanglier et aux yeux moitié fermés a le cœ’ur rempli de colère ; regarde ses yeux et tu verras que c’est un mauvais homme et l’ennemi de Dieu dans le monde.
+> Si tu fais une question à ce Pehlewan au des courbé, il te donnera une réponse rude.0n dirait que cet homme au museau de sanglier et aux yeux moitié fermés a le cœur rempli de colère ; regarde ses yeux et tu verras que c’est un mauvais homme et l’ennemi de Dieu dans le monde.
 >
-> Je ne vois pas en lui une trace de soumission et il n’obéira jamais à personne.»
+> Je ne vois pas en lui une trace de soumission et il n’obéira jamais à personne. »
 
 Puis, il dit à Bendouï et à Gustehem :
 
@@ -90,7 +90,7 @@ Puis, il dit à Bendouï et à Gustehem :
 >
 > Alors cette lutte et ces préparations. pour le champ de bataille se tourneront en paix ; la paix me profitera et ma prudence aura empêché des malheurs.
 >
-> Quand un roi agit comme un marchand, le cœur des hommes purs se réjouit.»
+> Quand un roi agit comme un marchand, le cœur des hommes purs se réjouit. »
 
 Gustehem lui dit :
 
@@ -100,7 +100,7 @@ Gustehem lui dit :
 >
 > Tes paroles sont des perles que tu répands, tu es le plus sage des homes ,-fais ce que tu trouves bon.
 >
-> Tu es plein de justice ; mais Baram, cet esclave, est dépourvu de justice ; la tête est remplie de cervelle et la sienne est pleine de vent.»
+> Tu es plein de justice ; mais Baram, cet esclave, est dépourvu de justice ; la tête est remplie de cervelle et la sienne est pleine de vent. »
 
 Khosrou, ayant entendu ces paroles, se mit en route et s’avança majestueusement, précédant son escorte.
 
@@ -114,11 +114,11 @@ Il adressa de loin à Bahram les questions (l’usage, il désirait convertir en
 >
 > Tu es un héros plein d’ambition et un adorateur de Dieu ; puisse le Seigneur ne jamais rétirer sa main de toi !
 >
-> J’ai réfléchisur ton sort, j’ai pesé ta position avec bienveillance ; je te donnerai l’hospitalité à toi et à ton armée, ta vue fera la joie de mon âme.
+> J’ai réfléchi sur ton sort, j’ai pesé ta position avec bienveillance ; je te donnerai l’hospitalité à toi et à ton armée, ta vue fera la joie de mon âme.
 >
-> Je te nommerai Sipehdar de l’Iran, comme c’est juslice ; je prierai Dieu le Créateur pour loi.»
+> Je te nommerai Sipehdar de l’Iran, comme c’est juslice ; je prierai Dieu le Créateur pour loi. »
 
-Le vaillant Bahram écouta ce discours ; il rendit labride à son cheval blanc à queue couleur (lemme, salua le roi du haut de son destrier et se tint devant lui pendant longtemps.
+Le vaillant Bahram écouta ce discours ; il rendit labride à son cheval blanc à queue couleur demme, salua le roi du haut de son destrier et se tint devant lui pendant longtemps.
 
 Ensuite. cet homme monté sur le cheval blanc répondit :
 
@@ -128,9 +128,9 @@ Ensuite. cet homme monté sur le cheval blanc répondit :
 >
 > Moi aussi j’ai réfléchi sur ton sort et je viens d’assouplir un lacet qui t’est destiné ; ferai préparer en toute
 >
-> hâte un gibet élevé, je te lierai en roulant mon lacet autour de tes deux mains, je le suspendrai à ce gibet dont tu es digne et je te ferai goûter l’amertume du sort.»
+> hâte un gibet élevé, je te lierai en roulant mon lacet autour de tes deux mains, je le suspendrai à ce gibet dont tu es digne et je te ferai goûter l’amertume du sort. »
 
-I A cette réponse de Bahram, la joue de Khosrou pâlit comme la fleur du fenugrec, il comprit que le cœur de cet homme ne renoncerait pas au trône ni au diadème par respect pour lui. il répondit :
+I À cette réponse de Bahram, la joue de Khosrou pâlit comme la fleur du fenugrec, il comprit que le cœur de cet homme ne renoncerait pas au trône ni au diadème par respect pour lui. il répondit :
 
 > Ô ingrat !
 >
@@ -138,13 +138,13 @@ I A cette réponse de Bahram, la joue de Khosrou pâlit comme la fleur du fenugr
 >
 > Quand un hôte arrive de loin à ta table, tu l’accables d’injures au moment de la fête ; tu suspends au gibet ton hôte et c’est ainsi que tu veux jeter les fondements de ta fortune ?
 >
-> Telle n’est pas la coutume des rois et les cavaliers qui portenthaut la tête n’agissent pas ainsi.
+> Telle n’est pas la coutume des rois et les cavaliers qui portent haut la tête n’agissent pas ainsi.
 >
 > Si tu remontes à trente siècles, tu ne trouveras pas un Arabe ni un Perse qui ait fait cela.
 >
 > Un homme de sens en serait honteux ; garde-toi de ce qui est indécent.
 >
-> Quand un hôte te donne de bonnes paroles, il faut r être un Div pour répondre de cette façon.
+> Quand un hôte te donne de bonnes paroles, il faut être un Div pour répondre de cette façon.
 >
 > Je crains que tes mauvais’jours n’approchent, car tu te conduis comme un insensé.
 >
@@ -154,7 +154,7 @@ I A cette réponse de Bahram, la joue de Khosrou pâlit comme la fleur du fenugr
 >
 > Suis-je donc indigne d’être roi des rois ; est-ce que le diadème du pouvoir ne me conl7 vient pas, à moi dont le grand-père était Kesra et le père, Hormuzd ?
 >
-> Qui donc connais-tu ayant plus de droit que moi?»
+> Qui donc connais-tu ayant plus de droit que moi ? »
 
 Bahram répondit :
 
@@ -168,11 +168,11 @@ Bahram répondit :
 >
 > Tu étais roi des Alains, maintenant tu es sujet, tu es le plus infime esclave des esclaves.
 >
-> Tu fais le mal dans le monde et ne portes pas de fruit, tu n’es pas roi, ni digue d’être le chef des grands.
+> Tu fais le mal dans le monde et ne portes pas de fruit, tu n’es pas roi, ni digne d’être le chef des grands.
 >
 > On m’a acclamé roi et je ne te permettrai pas de prendre pied sur la terre.
 >
-> Ensuite . si j’ai dit que ton étoile est mauvaise, que la royauté et la qualité de maître ne te conviennent pas, je l’ai dit, ô prince indigne (puisses-tu ne jamais t’asseoir sur le trônel), parce que les Iraniens sont tes ennemis ; ils lutteront contre toi et te déracineront ; ils déchireront la peau et les veines de ton corps, ilslivreront la chair aux guépards et aux chiens.»
+> Ensuite . si j’ai dit que ton étoile est mauvaise, que la royauté et la qualité de maître ne te conviennent pas, je l’ai dit, ô prince indigne (puisses-tu ne jamais t’asseoir sur le trônel), parce que les Iraniens sont tes ennemis ; ils lutteront contre toi et te déracineront ; ils déchireront la peau et les veines de ton corps, ils livreront la chair aux guépards et aux chiens. »
 
 Khosrou lui dit :
 
@@ -184,7 +184,7 @@ Khosrou lui dit :
 >
 > La raison a abandonné ton cerveau ; heureux l’homme illustre qui se nourrit de raison, mais tout Div qui sont approcher sa fin rdevient vantard dans ses discours.
 >
-> Et pourtant je ne désire pas qu’un Pehlewan comme toi s’anéantisse et se perde lui-même, par suite de ses vioviolences.
+> Et pourtant je ne désire pas qu’un Pehlewan comme toi s’anéantisse et se perde lui-même, par suite de ses violences.
 >
 > Ne pourrais-tu pas débarrasser ton cœur de cette haine, renoncer à cette ébullition et conjurer toi-même ta colère ?
 >
@@ -194,7 +194,7 @@ Khosrou lui dit :
 >
 > Ton cœur ne rêve que le pouvoir, mais nous verrons ce que sera la volonté de Dieu.
 >
-> Je ne sais qui a été ton maître dans toute A cette méchanceté et qui t’a enseigné une pareille foi en Ahriman, mais ceux qui t’ont tenu de pareils discours veulent amener ta mort par leurs paroles.»
+> Je ne sais qui a été ton maître dans toute À cette méchanceté et qui t’a enseigné une pareille foi en Ahriman, mais ceux qui t’ont tenu de pareils discours veulent amener ta mort par leurs paroles. »
 
 ; Il dit et descendit de son cheval blanc, qui ressemblait à l’ivoire, ôta de sa tête sa précieuse couronne, soupira, se tourna vers le soleil, remplit son cœur d’espérance en Dieu et dit :
 
@@ -202,7 +202,7 @@ Khosrou lui dit :
 >
 > Tu sais ce qu’est cet esclave devant moi ; il faudrait pleurer de honte sur la couronne.
 >
-> Si la race des Keïanides devait perdre cette royauté, si je ne pouvais plusporter la ceinture royale, je de.-viendrais serviteur dans le temple du feu, je me nourrirais de lait et de légumes, je n’aurais plus ni or ni argent en ma possession, je me vêtirais de t9 hure dans le lieu des prières.
+> Si la race des Keïanides devait perdre cette royauté, si je ne pouvais plus porter la ceinture royale, je de.-viendrais serviteur dans le temple du feu, je me nourrirais de lait et de légumes, je n’aurais plus ni or ni argent en ma possession, je me vêtirais de t9 hure dans le lieu des prières.
 >
 > Mais si cette royauté est à moi, je serai ton serviteur et agirai selon la justice et la droiture.
 >
@@ -214,7 +214,7 @@ Khosrou lui dit :
 >
 > Tout prisonnier fait sur les ce Bahramiens’, tout captif qu’on m’amènera, j’en ferai un serviteur du feu béni et je réjouirai le cœur des Mobeds et des Hirbeds.
 >
-> Je travaillerai à rebâtir toute ville qui aura été dévastée injustement et sera devenue un lieu de passage pour les lions et les onagres ; je ne la laisserai pas remplie d’épines et de mauvaises herbes.»
+> Je travaillerai à rebâtir toute ville qui aura été dévastée injustement et sera devenue un lieu de passage pour les lions et les onagres ; je ne la laisserai pas remplie d’épines et de mauvaises herbes. »
 
 Il dit et se releva de la poussière et cet homme opprimé se redressa après avoir prié ; il partit, rapide comme le vent, du lieu de ses dévotions et adressa à Bahram Djoubineh ces paroles :
 
@@ -224,13 +224,13 @@ Il dit et se releva de la poussière et cet homme opprimé se redressa après av
 >
 > qui tient acclamé roi.
 >
-> Tu prends un hallier pour une ville, un enfer pour unjardin ; le flambeau de la raison s’est éteint devant tes yeux et a enlevé la lumière à ton âme et à ton cœur.
+> Tu prends un hallier pour une ville, un enfer pour un jardin ; le flambeau de la raison s’est éteint devant tes yeux et a enlevé la lumière à ton âme et à ton cœur.
 >
 > Il n’y a [qu’un et magicien trompeur qui ait pu t’amener par les grandeurs à un abîme.
 >
 > Tu étends aujourd’hui la main vers une branche dont la feuille est du poison, dont le fruit est la coloquinte.
 >
-> Jamais La famille n’a en r : une pareille ambition et celui qui l’aura ne recueillera pas des bénédictions.
+> Jamais La famille n’a en une pareille ambition et celui qui l’aura ne recueillera pas des bénédictions.
 >
 > Dieu ne t’a pas accordé cette haute position ni ce droit ; ne penses-tu donc pas à Gourguin, fils de Milad ?
 >
@@ -242,13 +242,13 @@ Il dit et se releva de la poussière et cet homme opprimé se redressa après av
 >
 > J’ai entendu bien des paroles dures de toi, mais mon soutien est celui qui accorde la vie»
 
-Moire et si je ne suis pas digne de la royauté, à Dieu ne plaise que je supporte la honte de vivre en sujet.»
+Moire et si je ne suis pas digne de la royauté, à Dieu ne plaise que je supporte la honte de vivre en sujet. »
 
 Bahram lui répondit :
 
 > n Ô homme insensé, vif et possédé du Div !
 
-Ton père était un pieux maîtredu monde et n’a jamais jeté un souffle froid sur quelqu’un ; mais tu n’a pas compris la valeur d’un pa-2l rail homme, tu l’as ignominieusement privé du trône et tu prétends être maître du monde après lui, tu prétends être un homme de raison et de sens.
+Ton père était un pieux maître du monde et n’a jamais jeté un souffle froid sur quelqu’un ; mais tu n’a pas compris la valeur d’un pa-2l rail homme, tu l’as ignominieusement privé du trône et tu prétends être maître du monde après lui, tu prétends être un homme de raison et de sens.
 
 Mais tu es un être impur et ennemi de Dieu, dontles bienfaits se changeront en malheurs pour toi.
 
@@ -264,7 +264,7 @@ Tu verras que désormais la royauté est à moi, que tout est à moi. depuis le 
 
 > À Dieu ne plaise que même un esclave se réjouisse des douleurs d’un père. (l’était écrit et il est arrivé ce qui devait arriver ; mais tu veux accumuler paroles sur paroles, tu t’attribues toi-même la royauté et quand arrivera la mort, tu n’auras pas même un linceul.
 >
-> Sur ce cheval et avec ces caparaçons digne : d’un grand seigneur, tu ces un roi impuissant ; tu n’as ni maison, ni héritage, ni pays, ni haute naissanœ;tu es un roi qui n’est rempli que de vent.
+> Sur ce cheval et avec ces caparaçons digne : d’un grand seigneur, tu ces un roi impuissant ; tu n’as ni maison, ni héritage, ni pays, ni haute naissance;tu es un roi qui n’est rempli que de vent.
 >
 > Malgré cette armée, ces g m. à
 >
@@ -276,13 +276,13 @@ Tu verras que désormais la royauté est à moi, que tout est à moi. depuis le 
 >
 > Dieu en créant un roi le choisit pour sa justice, ou il le choisit pour ses hauts faits et pour sa grande naissance ; il donne la royauté au plus digne, au plus intelligent et au plus innocent.
 >
-> Si mon père m’a nommé roi des Alains, c’est qu’il était inquiet pour moi de tes embûches ; mais maintenant Dieu m’a donné l’empire, la puissance, le trône et la couronne de la royauté ; je les ai reçus du maître du monde, qui connaît ce qui estpublic et ce qui est secret.
+> Si mon père m’a nommé roi des Alains, c’est qu’il était inquiet pour moi de tes embûches ; mais maintenant Dieu m’a donné l’empire, la puissance, le trône et la couronne de la royauté ; je les ai reçus du maître du monde, qui connaît ce qui est public et ce qui est secret.
 >
 > Je les ai reçus par ordre du roi Hormuzd, qui lui-même avait hérité la couronne de son père et par le Grand Mobed, par les sages, les grands et les nobles expérimentés dans les affaires.
 >
-> Selon la loi sainte, apportée du ciel par le vieux et sage Zerdouscht, qui a remis le message de Dieu à Lohrasp, lequel l’a accepté et transmis à Guschtasp, tous les hommes sont sous ma protection, ’qu’ils m’aient fait de la peine, ou qu’ils m’aientdonné des trésors, qu’ils soient mes ennemis ou mes amis ; tous sont maîtres de leurs femmes et de leurs enfants et je les appelle tous des hommes purs.
+> Selon la loi sainte, apportée du ciel par le vieux et sage Zerdouscht, qui a remis le message de Dieu à Lohrasp, lequel l’a accepté et transmis à Guschtasp, tous les hommes sont sous ma protection, ’qu’ils m’aient fait de la peine, ou qu’ils m’aient donné des trésors, qu’ils soient mes ennemis ou mes amis ; tous sont maîtres de leurs femmes et de leurs enfants et je les appelle tous des hommes purs.
 >
-> Partout où se trouve un homme pauvre, venant d’une ville qui a été dévastée, je l’enrichirai, que ce soit un homme perdu ou un homme maître. de luivmême.
+> Partout où se trouve un homme pauvre, venant d’une ville qui a été dévastée, je l’enrichirai, que ce soit un homme perdu ou un homme maître. de lui-même.
 >
 > Je convertirai les halliers en paradis, je les remplirai d’hommes, de bétail et de moissons.
 >
@@ -296,7 +296,7 @@ Tu verras que désormais la royauté est à moi, que tout est à moi. depuis le 
 >
 > Maintenant, qui a droit au trône ?
 >
-> Et si je n’en suis pas digne, qui donc le mérite?»
+> Et si je n’en suis pas digne, qui donc le mérite ? »
 
 Bahram répondit :
 
@@ -305,14 +305,13 @@ Bahram répondit :
 > Celui qui l’enlève le trône le mérite.
 >
 > Est-ce que les Aschkanides ne possédaient pas le pouvoir royal, lorsque la fille de Babelr mit au monde Ardeschir ?
-rlût ilrdeschir ne devint-il pas puissant et le trône ’i. 2b
-ne tomba-t-il pas entre ses mains lorsqu’il eut tué Ardewan ?
+rlût Ardeschir ne devint-il pas puissant et le trône ’i. 2b ne tomba-t-il pas entre ses mains lorsqu’il eut tué Ardewan ?
 >
 > Cinq cents ans ont passé depuis, la tête et la couronne des Sâsânides se sont affaiblies ; le jour est venu où je m’empare du trône et du dia-I dème et ma fortune victorieuse est aujourd’hui dominante.
 >
-> Quand je vois ton visage et ta fortune, ton armée, ton diadème et ton trône, j’étends la main sur le pouvoirdes Sâsânides, comme un lion apprivoisé qui devient féroce.
+> Quand je vois ton visage et ta fortune, ton armée, ton diadème et ton trône, j’étends la main sur le pouvoir des Sâsânides, comme un lion apprivoisé qui devient féroce.
 >
-> J’effacerai leurs noms du livre, je foulerai aux pieds le trône de Sâsân ; car le pouvoir appartiendrait aux Aschkanides, si l’on écoutait les hommes qui savent la vérité.»
+> J’effacerai leurs noms du livre, je foulerai aux pieds le trône de Sâsân ; car le pouvoir appartiendrait aux Aschkanides, si l’on écoutait les hommes qui savent la vérité. »
 
 Khosrou dit :
 
@@ -324,7 +323,7 @@ Khosrou dit :
 >
 > Ce sont des hommesà deux faces et quels hommes sont-ils ?
 >
-> C’est de Beï qu’est venu Mahiar, au cœur impur, qui a détruit la famille d’Ist’endiar ; c’est de Reï qu’est sortie une petite armée, qui s’est réunie aux troupes d’Iskender, s’est alliée aux Roumis et s’est emparée subitement du trône des Keïanides ; mais le Créateur n’a pas approuvé et ce sont les gens de Reï qui ont attiré le malheur sur les Iraniens, qui, à partir de là, se sont tous combattus les uns les autres.
+> C’est de Beï qu’est venu Mahiar, au cœur impur, qui a détruit la famille d’Isfendiar ; c’est de Reï qu’est sortie une petite armée, qui s’est réunie aux troupes d’Iskender, s’est alliée aux Roumis et s’est emparée subitement du trône des Keïanides ; mais le Créateur n’a pas approuvé et ce sont les gens de Reï qui ont attiré le malheur sur les Iraniens, qui, à partir de là, se sont tous combattus les uns les autres.
 >
 > Le maître du monde, toujours secourable, a placé alors le diadème royal sur la tête d’Ardeschir, qui était digne de la couronne des Keïanides, car il était un maître du monde de race royale.
 >
@@ -334,11 +333,11 @@ Khosrou dit :
 >
 > Qui est-ce maintenant quiest digne du pouvoir ?
 >
-> Qui est le maître de ce monde instable?»
+> Qui est le maître de ce monde instable ? »
 
 Le vaillant Bahram répondit :
 
-> Moi, qui arracherai la racine des Keïaaides.»
+> Moi, qui arracherai la racine des Keïaaides. »
 
 Khosrou reprit :
 
@@ -362,7 +361,7 @@ Khosrou reprit :
 >
 > Sur ce trône, tu ’as voulu t’élever au-dessus de la lune ; tu étais Sipehbed et tu as voulu être roi.
 >
-> Aucun homme de sens n’a pu te conseiller ainsi et je crois que tu t’es associé à un Div.»
+> Aucun homme de sens n’a pu te conseiller ainsi et je crois que tu t’es associé à un Div. »
 
 Bahram lui dit :
 
@@ -384,15 +383,13 @@ Je suis de la race de l’illustre Ariseh ; quand je fais la guerre je suis un f
 
 Je suis le petit-fils de Gourguin, qui ambitionnait la possession du monde ; je suis la flamme ardente du feu de Berzin.
 
-Le roi Saweh ne voulait laisser dans l’Iran ni trône, ni sceau, ni diadème, il voulait raser jus-
-
-KHOSROU PAsflVlZ. qu’à terre les temples du feu, ne laisser célébrer ni le jour du Naurouz ni la fête de Sedeh et tous les Iraniens furent des esclaves jusqu’à ce que j’eusse pris les armes pour ce pays.
+Le roi Saweh ne voulait laisser dans l’Iran ni trône, ni sceau, ni diadème, il voulait raser jus- qu’à terre les temples du feu, ne laisser célébrer ni le jour du Naurouz ni la fête de Sedeh et tous les Iraniens furent des esclaves jusqu’à ce que j’eusse pris les armes pour ce pays.
 
 Si tu ne connais pas le nombre de ces maîtres insolents, va et compte jusqu’à quatre cent mille et douze cents’ éléphants de guerre ; on aurait dit que les chemins ne leur suffisaient pas.
 
 Cette grande armée fut battue et je l’ai poursuivie comme un lion féroce.
 
-Sache qu’un homme qui n’a pas fait de grandes choses ne prétend pas follement au trône des rois ; mais mon casque exhale un parfum de couronne et mon épée me donnera le trône d’ivoire, pendant qu’une mouche qui t’attaquerait te précipilerait en bas du trônes V Khosrou répondit :
+Sache qu’un homme qui n’a pas fait de grandes choses ne prétend pas follement au trône des rois ; mais mon casque exhale un parfum de couronne et mon épée me donnera le trône d’ivoire, pendant qu’une mouche qui t’attaquerait te précipiterait en bas du trônes V Khosrou répondit :
 
 > Ô homme dont les traces portent malheur !
 
@@ -434,7 +431,7 @@ Si tu veux, tu posséderas tout ce que tu désires, tu auras une part de ce roya
 
 Il faut faire ni plus ni moins que ce que Zerdouscht dit dans le Zend :
 
-> Si quelqu’un s’écarte de la foi pure et n’a pas danslson cœur la crainte et la terreur de Dieu, il faut lui donner des avis pendant une année et s’il n’en profite pas, il faut le tuer sur l’ordre du roi et jeter sur la route son corps souillé de crimes ; mais s’il a de mauvaises intentions contre le roi de la terre, il faut le tuer à. l’instant même.
+> Si quelqu’un s’écarte de la foi pure et n’a pas danslson cœur la crainte et la terreur de Dieu, il faut lui donner des avis pendant une année et s’il n’en profite pas, il faut le tuer sur l’ordre du roi et jeter sur la route son corps souillé de crimes ; mais s’il a de mauvaises intentions contre le roi de la terre, il faut le tuer à l’instant même.
 >
 > Aussi ton sang sera certainement versé, c’est à cela que doit aboutir ton sort misérable ; ta vie sera désormais malheureuse et après ta mort, ta place sera le feu.
 >
@@ -456,7 +453,7 @@ Il faut faire ni plus ni moins que ce que Zerdouscht dit dans le Zend :
 >
 > Il ne faut pas que ces braves sans peur et sans frayeur périssent de ma main et je ne veux pas que ces grandes armées, tous ces hommes illustres et vaillants se combattent jusqu’à ce que le pays d’Iran soit dépeuplé et que le trône du pouvoir soit brisé.
 >
-> Dis-moi qui était roi du temps d’Arisch ; cela me débarrassera peut-être de tes prétentions.»
+> Dis-moi qui était roi du temps d’Arisch ; cela me débarrassera peut-être de tes prétentions. »
 
 , Bahram dit :
 
@@ -465,21 +462,23 @@ Il faut faire ni plus ni moins que ce que Zerdouscht dit dans le Zend :
 > Ô homme de mauvaise nature, si tu sais que Minoutchehr était roi du monde, comment ne sais-tu pas qu’Arisch était son esclave, courbant la tête sous les ordres et la volonté du roi.
 >
 > Puis, quand il
-.y eut un roi comme Keïkhosrou, le vindicatif et r : un serviteur comme Rustem, celuic1 aurait pu 3l saisir le pouvoir et s’emparer de la majesté du trône des Keïanides ; mais il a respecté le droitdes rois et n’a pas jeté un seul regard sur le trône.»
+.y eut un roi comme Keïkhosrou, le vindicatif et un serviteur comme Rustem, celuic1 aurait pu 3l saisir le pouvoir et s’emparer de la majesté du trône des Keïanides ; mais il a respecté le droitdes rois et n’a pas jeté un seul regard sur le trône. »
 
 Bahram répondit :
 
-> La vérité est, ô homme de mauvaise race, que tu es dela famille des Sâsânides et que Sâsân était pâtre et fils de pâtre et que ce n’est pas même Babek qui, le premier, lui avait confié un troupeau.»
+> La vérité est, ô homme de mauvaise race, que tu es dela famille des Sâsânides et que Sâsân était pâtre et fils de pâtre et que ce n’est pas même Babek qui, le premier, lui avait confié un troupeau. »
 
 Khosrou lui dit :
 
 > Ô malfaiteur !
+>
+> Ton orgueil ne peut venir de ce que tu descendrais de Sâsân ; toutes tes paroles sont des mensonges ; mais, proférer des paroles fausses est un déshonneur.
+>
+> Tu sors de gens de rien et de malfaiteurs, tu ne sors point de la race de’Sâsân. »
 
-Ton orgueil ne peut venir de ce que tu descendrais de Sâsân ; toutes tes paroles sont des mensonges ; mais, proférer des paroles fausses est un déshonneur.
+Bahram dit :
 
-Tu sors de gens de rien et de malfaiteurs, tu ne sors point de la race de’Sâsânm Bahram dit :
-
-> Le fait que Sâsân a été pâtre ne sera jamais oublié dans le monde.»
+> Le fait que Sâsân a été pâtre ne sera jamais oublié dans le monde. »
 
 Khosrou répondit :
 
@@ -501,6 +500,6 @@ Le vaillant Turc banda à l’instant son arc et y plaça une flèche qui éclip
 >
 > Qui t’a dit de combattre le roi ?
 >
-> N’as-tu pas vu que j’ai été debout devant lui?»
+> N’as-tu pas vu que j’ai été debout devant lui ? »
 
 Puis, il s’en retourna à son camp, l’âme pleine de douleur et le corps en feu.
