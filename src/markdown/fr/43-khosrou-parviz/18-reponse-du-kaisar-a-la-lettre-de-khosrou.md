@@ -26,11 +26,11 @@ Lorsque le scribe fut fatigué d’écrire, le Kaisar chercha des yeux un cavali
 >
 > J’ai des trésors, des hommes et des armes et n’ai besoin de dépouiller personne pour m’en procurer ; et si je n’en avais pas, je demanderais de l’argent à tous les grands, dans toutes les provinces, pour que tu puisses retourner du Roum dans l’Iran victorieusement et rentrer dans ton palais.
 >
-> Ne sois pas triste pendant que tu restes dans mon pays, car telle est la manière d’agir de la voûte du ciel quitourne : tantôt elle est un refuge, tantôt un lieu de détresse ; tantôt elle est caressante et douce, tantôt elle saisit comme un lacet.
+> Ne sois pas triste pendant que tu restes dans mon pays, car telle est la manière d’agir de la voûte du ciel qui tourne : tantôt elle est un refuge, tantôt un lieu de détresse ; tantôt elle est caressante et douce, tantôt elle saisit comme un lacet.
 >
 > Ainsi ne t’afllige pas pendant que je t’amè-
 >
-> nerai des troupes, des armures et de l’argent.»
+> nerai des troupes, des armures et de l’argent. »
 
 Le messager partit pour se rendre auprès de Khosrou, à qui il répéta toutes les paroles du Kaisar.
 
@@ -38,11 +38,11 @@ Le Kaisar renvoya tous les étrangers et s’assit avec son conseiller, le cœur
 
 Il dit à son Mobed :
 
-> Ce suppliant s’adresse maintenant de préférence à nous ; mais que ferons-nous quand il sera redevenu puissant et quand il sera délivré de la honte de la défaite que lui a infligée son sujet?»
+> Ce suppliant s’adresse maintenant de préférence à nous ; mais que ferons-nous quand il sera redevenu puissant et quand il sera délivré de la honte de la défaite que lui a infligée son sujet ? »
 
 Le conseiller dit au Kaisar :
 
-> Il faut que quelques-uns des philosophes de bon conseil et à l’esprit éveillé viennent et délibèrent avec nous sur cette affaire.»
+> Il faut que quelques-uns des philosophes de bon conseil et à l’esprit éveillé viennent et délibèrent avec nous sur cette affaire. »
 
 Le Kaisar envoya un messager et quatre d’entre les philosophes arrivèrent, les uns jeunes, les autres vieux, tous Roumis de naissance ; ils discoururent longuement de ce qui s’était passé, disant :
 
@@ -54,7 +54,7 @@ Le Kaisar envoya un messager et quatre d’entre les philosophes arrivèrent, le
 >
 > Si Khosrou ressaisit sa couronne impériale, il lèvera sa tête jusqu’à la lune et demandera à l’instant un tribut du Roum et s’emparera de tous les pays.
 >
-> Qu’il te plaise main-S7 tenant de réfléchir sagement et de tenir pour du vent les paroles des Iraniens.»
+> Qu’il te plaise main-S7 tenant de réfléchir sagement et de tenir pour du vent les paroles des Iraniens. »
 
 Ces discours firent changer d’idée au Kaisar, et’il envoya un cavalier auprès du roi, à qui il écrivit une lettre pour lui indiquer la voie à suivre, selon les avis donnés par les sages pleins de prévoyance qui avaient fait làdessus de si longs discours.
 
@@ -84,11 +84,11 @@ Porte au Kaisar mes salutations et dis-lui :
 >
 > Si je trouve que les Roumis ne veulent pas m’aider, je vais envoyer auprès du Khakan, car toutes mes paroles ont été vaines, parce que l’eau de votre fleuve a été troublée jusqu’au fond.
 >
-> Quand mes envoyés seront de retour, je ne resterai plus longtemps dans cette ville.»
+> Quand mes envoyés seront de retour, je ne resterai plus longtemps dans cette ville. »
 
 Il dit aux Iraniens :
 
-> Obéissez à mes ordres, ne vous désolez pas de ce qui se passe, car Dieu, le victorieux, est notre soutien et notre devoir est d’être vaillants et virils.»
+> Obéissez à mes ordres, ne vous désolez pas de ce qui se passe, car Dieu, le victorieux, est notre soutien et notre devoir est d’être vaillants et virils. »
 
 Il se mit dans son cœur au-dessus de cette affaire et envoya Tokhar avec une lettre, qu’il écrivit sans penser au bien ou au mal qu’elle pouvait lui attirer.
 
@@ -105,7 +105,7 @@ coup de ce qui s’est passé.
 >
 > Si vous dites qu’il ne sera pas vainqueur, qu’il n’y aura plus pour lui de Naurouz, nous attendrons qu’il aille chez le Khakan et qu’il y cherche le remède de son mal.
 >
-> Mais s’il doit être victorieux, s’il doit être maître de l’empire comme l’était son père, il vaudrait mieux qu’il partît d’ici avec une armée pour qu’il ne garde pas dans son cœur une pensée de vengeance.»
+> Mais s’il doit être victorieux, s’il doit être maître de l’empire comme l’était son père, il vaudrait mieux qu’il partît d’ici avec une armée pour qu’il ne garde pas dans son cœur une pensée de vengeance. »
 
 Le savant Destour écouta ces paroles ; il fit apporter par les astrologues leurs antiques tables et ils discutèrent pendant trois quarts de la nuit.
 
@@ -113,10 +113,10 @@ Le savant Destour écouta ces paroles ; il fit apporter par les astrologues leur
 
 > Ô porteur de la couronnel j’ai étudié ces tables antiques que Falathoun (Platon) a construites d’après les astres.
 
-Il ne se passera pas beaucoup de temps avant que l’empirerevienne à Khosrou et que la royauté des n Perses retrouve un nouveau tourde la fortune et la poussière sombre ne couvrira ce roi qu’après trente-
+Il ne se passera pas beaucoup de temps avant que l’empire revienne à Khosrou et que la royauté des n Perses retrouve un nouveau tourde la fortune et la poussière sombre ne couvrira ce roi qu’après trente-
 Le Kaîsar’e’couût et dit à son Destour :
 
-> Voici huit ans.»
+> Voici huit ans. »
 
 .
 donc le secret de son sort découvert.
@@ -133,7 +133,7 @@ Le puissant Destour dit :
 >
 > un autre pays, il ne cessera jamais d’être ton ennemi.
 >
-> Réfléchis que dans ce moment tu connais mieux l’avenir que Khosrou et que sa demande te rend plus puissant que lui.»
+> Réfléchis que dans ce moment tu connais mieux l’avenir que Khosrou et que sa demande te rend plus puissant que lui. »
 
 Le Kaïsar dit :
 
