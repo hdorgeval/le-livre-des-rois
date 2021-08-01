@@ -18,7 +18,7 @@ order: '048'
 
 Ensuite Khosrou envoya quelqu’un dans le Khorasan avec beaucoup de recommandations, disant :
 
-> N’ouvre la bouche à qui que ce soit ; va d’ici chez le commandant des frontières et dis à Gustehem : Ne tarde pas un instant ; viens ici aussitôt que tu auras lu ma lettre.»
+> N’ouvre la bouche à qui que ce soit ; va d’ici chez le commandant des frontières et dis à Gustehem : Ne tarde pas un instant ; viens ici aussitôt que tu auras lu ma lettre. »
 
 L’envoyé étant arrivé dans le Khorasan et à la cour de cet homme, qui vivait tout tranquillement, lui communiqua les ordres de Parviz, qui était un roi jeune et avide de verser du sang.
 
@@ -28,7 +28,7 @@ Il alla ainsi jusqu’à ce qu’il arrivât dans le pays des hommes puissants, 
 
 Il y apprit que le roi d’Iran était devenu féroce ; qu’il avait tué son frère une nuit, étant ivre.
 
-A cette nouvelle, il déchira la chair de son corps de héros, il descendit de son cheval à crinière noire, déchira ses vêtements de Pehlewan et versa de la poussière sur sa tête en poussant des cris.
+À cette nouvelle, il déchira la chair de son corps de héros, il descendit de son cheval à crinière noire, déchira ses vêtements de Pehlewan et versa de la poussière sur sa tête en poussant des cris.
 
 Il comprit que le roi, maître du monde, voulait le tuer pour venger la mort de son père.
 
@@ -42,7 +42,7 @@ De l’autre côté, Guerdouî, lorsqu’il fut en présence du roi, lui raconta
 
 De son côté, Gustehem apprit que le vaillant Bahram avait péri, que Gordieh avec une puissante armée avait quitté le farouche Khakan, qu’une armée l’avait poursuivie pour la combattre et quel sort elle avait infligé à ces illustres guerriers de la Chine.
 
-Il fitmonter à cheval ses troupes pour aller à la rencontre de Gordieh et emmena son armée de cette
+Il fit monter à cheval ses troupes pour aller à la rencontre de Gordieh et emmena son armée de cette
 
 Forêt rapidement comme le vent.
 
@@ -62,13 +62,13 @@ En voyant de loin Yelan Sineh et Ized Guschasp, il descendit de cheval en pleura
 >
 > Attendez-vous plutôt à ce que le saule porte ce fruit en juin.
 >
-> Il fera de vous des haches pour fraprrper vos compagnons, il rendra la viande bon marché dans la ville par cette boucherie.
+> Il fera de vous des haches pour frapper vos compagnons, il rendra la viande bon marché dans la ville par cette boucherie.
 >
 > Quand il verra de loin Yelan Sineh, il se mettra en colère et se livrera à de nouvelles vengeances, car tu as été le chef de l’armée de Bahram et c’est lui qui t’a donné du pouvoir dans le monde.
 >
 > Quiconque le connaît fera bien de l’éviter et ce qu’il y aurait de mieux ce serait d’appliquer à sa gorge un couteau acéré.
 >
-> Si vous restez ici avec moi, nous tiendrons -conseil sur toute chose, grande ou petite.»
+> Si vous restez ici avec moi, nous tiendrons -conseil sur toute chose, grande ou petite. »
 
 Tous ceux qui l’écoutaient acceptèrent ses avis, tous désiraient sortir de la voie du malheur.
 
@@ -84,11 +84,11 @@ Un jour il dit à Yelan Sineh :
 
 > Cette femme, que pense-t-elle d’un mari ?
 >
-> Que cherche cette personne si brillante?»
+> Que cherche cette personne si brillante ? »
 
 Yelan Sineh répondit :
 
-> Attends que je lui aie parlé, que j’aie préparé son cœur par beaucoup de discours.»
+> Attends que je lui aie parlé, que j’aie préparé son cœur par beaucoup de discours. »
 
 Yelan Sineh dit à Gordieh :
 
@@ -98,11 +98,11 @@ Yelan Sineh dit à Gordieh :
 >
 > Tu as bien fait de passer la frontière au lieu d’épouser le Khakan, car tu préfères les Perses.
 >
-> Que dis-tu du vaillant Gustehem, l’oncle du roi, qui est un Sipehbed puissant, chef d’une armée ?»
+> Que dis-tu du vaillant Gustehem, l’oncle du roi, qui est un Sipehbed puissant, chef d’une armée ? »
 
 Elle répondit :
 
-> Un mari iranien ne détruira jamais ma famille.»
+> Un mari iranien ne détruira jamais ma famille. »
 
 Alors Yelan Sineh la maria à Gustehem, qui était un héros vaillant et de race royale et il en eut soin, 4 comme d’une pomme fraîche ; il ne croyait, au mi-
 1
