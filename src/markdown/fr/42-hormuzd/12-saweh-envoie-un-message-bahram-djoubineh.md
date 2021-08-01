@@ -25,12 +25,12 @@ Il est probable que tu comprends parfaitement que ce roi, ton maître, n’a che
 Il t’a dit :
 
 > Va et barre-lui le chemin ; tu as écouté ces paroles qui n’auraient pas dû te charmer;’
-car si une montagne voulait s’opposer à mon passage, je la foulerais aux pieds de mes éléphants et de mon armée.»
+car si une montagne voulait s’opposer à mon passage, je la foulerais aux pieds de mes éléphants et de mon armée. »
 
-Bahram, en entendant ces paroles, sourit des plans tenéhreux de cet homme et lui dit :
+Bahram, en entendant ces paroles, sourit des plans ténébreux de cet homme et lui dit :
 
 > au Si Hormuzd médite en secret me mort, il faut, si
-(est là son bon plaisir, que je me soumette à ce que mon corps soit couché dans la poussière.»
+(est là son bon plaisir, que je me soumette à ce que mon corps soit couché dans la poussière. »
 
 L’envoyé revint chez le roi Saweh et lui répéta ce qu’avait dit cet homme avide de combats.
 
@@ -40,13 +40,13 @@ Sawoh lui (lit :
 
 > Pourquoi as-tu besoin de tant de pourparlers ?
 >
-> Puisque tu es venu sur ce champ de bataille, demande-nous tout ce que tu désires.»
+> Puisque tu es venu sur ce champ de bataille, demande-nous tout ce que tu désires. »
 
 L’envoyé alla et dit à Bahram :
 
 > Dévoile le secret que tu tiens caché.
 >
-> Mon roi est un homme à bonne étoile et il désire acquérir un serviteur comme toi.»
+> Mon roi est un homme à bonne étoile et il désire acquérir un serviteur comme toi. »
 
 Bahram répondit :
 
@@ -58,22 +58,26 @@ Bahram répondit :
 >
 > J’enverrai un cavalier auprès de mon roi, pour qu’il fasse la moitié, du chemin à ta rencontre ; il te fournira des vivres, A comme on le fait pour ses égaux, il le recevra amiralement, si tu veux être son ami.
 >
-> Maissi tu es venu ici pour combattre, tu t’es jeté dans la mer entre les griffes du crocodile et tu auras à revenir des plaines de Herat dans un état qui fera pleurer v de pitié tous les grands ; je le renverrai avec mépris, je ne te permettrai pas de rester ici.
+> Maissi tu es venu ici pour combattre, tu t’es jeté dans la mer entre les griffes du crocodile et tu auras à revenir des plaines de Herat dans un état qui fera pleurer de pitié tous les grands ; je le renverrai avec mépris, je ne te permettrai pas de rester ici.
 >
-> Puisseslu 3 trouver à ton retour une fosse devant ta porte, puisse l’orage te suivre et la pluie t’accompagner!C’est ta mauvaise fortune qui t’a amené ici, elle a tr voulu te perdre.»
+> Puisses-tu 3 trouver à ton retour une fosse devant ta porte, puisse l’orage te suivre et la pluie t’accompagner!C’est ta mauvaise fortune qui t’a amené ici, elle a voulu te perdre. »
 
 L’envoyé partit. courant comme le vent et rendit au roi le message de cet ambitieux d’un bout à l’autre.
 
 SaWeh l’écoute et entra en colère contre cet homme au cœur de lion, avide de combats ; puis il dit à son envoyé :
 
-> Retourne auprès de lui, porte à ce cet homme pareil au Div ce message : Il n’y a aucune gloire à te combattre et je n’ai aucun désir de te tuer.
+> Retourne auprès de lui, porte à ce cet homme pareil au Div ce message :
 
-De même que ton roi est mon inférieur tu es l’inférieur de tous les grands de me cour.
+> Il n’y a aucune gloire à te combattre et je n’ai aucun désir de te tuer.
+>
+> De même que ton roi est mon inférieur tu es l’inférieur de tous les grands de me cour.
+>
+> Mais si tu me demandes protection, j’élèverai ta tête au-
+x dessus de cette assemblée ; tu recevras de moi beau-coup de richesses et ton armée entière sera pourvue par moi.
+>
+> Un ambitieux comme toi ne cherche pas sa réputation de bravoure dans des paroles ce vaines et folles. »
 
-Mais si tu me demandes protection, j’élèverai ta tête au-
-x dessus de cette assemblée ; tu recevras de moi beau-coup de richesses et ton armée entière sera pournvue par moi.
-
-Un ambitieux comme toi ne cherche pas sa réputation de bravoure dans des paroles ce vaines et folles. w L’envoyé, un homme qui portait haut la tête. revintauprès de Bahram et lui fit ce triste discours, qui était probablement selon son propre cœur.
+L’envoyé, un homme qui portait haut la tête. revint auprès de Bahram et lui fit ce triste discours, qui était probablement selon son propre cœur.
 
 Bahram écouta cet indigne message et dit :
 
@@ -82,14 +86,16 @@ Bahram écouta cet indigne message et dit :
 Dis-lui :
 
 > Si je suis un si petit personnage que mon insignifiance me couvre de honte, le roi des rois, de son côté, te méprise trop pour se mettre en colère et te combattre et c’est moi, à cause de me petitesse, qui suis
+>
+> Venu avec une armée pour détruire la tribu de Saweh.
+>
+> Je trancherai la tête à Saweh et l’enverni au roi, car elle ne vaut pas la peine que je la porte en route sur la pointe de me lance.
+>
+> Faire ton par ’ tégé d’un homme comme moi, qui malgré son insignifiance vient t’attaquer, serait une boute pour toi.
+>
+> Tu ne me verras qu’au jour de la bataille, un drapeau couleur de lapis-lazuli derrière moi, et la vue de ce dragon sera ta mort, ta tête et ton casque seront le fourreau du fer de ma lance. »
 
-Venu avec une armée pour détruire la tribu de Saweh.
-
-Je trancherai la tête à Saweh et l’enverni au roi, car elle ne vaut pas la peine que je la porte en route sur la pointe de me lance.
-
-Faire ton par ’ tégé d’un homme comme moi, qui malgré son insignifiance vient t’attaquer, serait une boute pour toi.
-
-Tu ne me verras qu’au jour de la bataille, un drapeau couleur de lapis-lazuli derrière moi, etla vue de ce dragon sera ta mort, ta tête et ton casque seront le fourreau du fer de ma lance. w L’envoyé du roi écouta ces rudes paroles et tourna le dos à Bahram ; il revint et rapporta ce qu’il avait vu et entendu et la colère du roi des Turcs éclata.
+L’envoyé du roi écouta ces rudes paroles et tourna le dos à Bahram ; il revint et rapporta ce qu’il avait vu et entendu et la colère du roi des Turcs éclata.
 
 Il fit sortir les timbales et conduire dans la plaine les éléphants qui portaient haut la tête ; le pays entier fut obscurci par la poussière que soulevaient les sabots des chevaux et le son des trompettes résonna.
 
