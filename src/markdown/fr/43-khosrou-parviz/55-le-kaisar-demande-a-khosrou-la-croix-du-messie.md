@@ -20,7 +20,7 @@ Le roi fit écrire au Kaïsar une lettre dans laquelle il disait :
 
 > Mets sur ta tête un diadème digne de la royauté, car Mariam a mis au monde un enfant semblable à la lune, un enfant tel que tu n’en a jamais vu et qui est tout à fait digne d’acquérir du savoir, d’obtenir les grâces de la fortune et de gagner par son mérite le trône et les moyens d’être généreux.
 >
-> Puisses-tu vivre heureux comme je suis heureux, car le bonheur et la fierté sont tes rdroits.»
+> Puisses-tu vivre heureux comme je suis heureux, car le bonheur et la fierté sont tes rdroits. »
 
 Lorsque la lettre parvint au Kaïsar, il l’examina il].
 
@@ -51,12 +51,12 @@ Khaneghi frotta longtemps sa joue sur le sol, puis il dit :
 
 > Ô maître de la justice, ô saint roi !
 >
-> Puisse Dieu, qui donne la victoire, te bénir, puisses-tu rester toujours roi et toujours heureux !»
+> Puisse Dieu, qui donne la victoire, te bénir, puisses-tu rester toujours roi et toujours heureux ! »
 
 Les grands le relevèrent et lui assignè-
 rent une place près du roi ; alors Khaneghi lui dit :
 
-> Qui est-ce qui pourrait t’égalcr en savoir !
+> Qui est-ce qui pourrait t’égaler en savoir !
 >
 > Tu es plus brillant que le soleil sur la voûte du ciel, plus ingénieux que l’esprit le plus éloquent.
 >
@@ -68,15 +68,15 @@ rent une place près du roi ; alors Khaneghi lui dit :
 >
 > Nous venons avec des présents etxavec le tribut du Roum ; nous sommes arrivés dans ton pays glorieux, amenant avec nous des philosophes pour qu’aucun de vous ne soit désappointé en nous.
 >
-> Plaît-il au roi d’accepter le tribut et les présents du Kaïsar, accompagnés de nos hommages?»
+> Plaît-il au roi d’accepter le tribut et les présents du Kaïsar, accompagnés de nos hommages ? »
 
 Le roi sourit à cet homme plein de mérite, qu’il fit placer sur un siège, puis il envoya toutes ces richesses dans son trésor, disant :
 
-> Il n’aurait pas fallu vous imposer tant de peine.»
+> Il n’aurait pas fallu vous imposer tant de peine. »
 
 EnSuite il dit à Kharrad, fils de Berzin :
 
-> Lis cette lettre devant l’assemblée.»
+> Lis cette lettre devant l’assemblée. »
 
 Le scribe, qui était un homme éloquent et observateur, regarda la suscription de la lettre et dit :
 
@@ -84,7 +84,7 @@ Le scribe, qui était un homme éloquent et observateur, regarda la suscription 
 >
 > Ce noble prince de la race de Kaïoumors, ce descendant de Houscheng, fils de Thalmouras et ainsi de père en fils, de génération en génération (puisse cette famille ne jamais s’éteindrel), que Dieu, le saint, que les grands du royaume et les chefs de la foi le bénissent !
 >
-> Il n’y a pas de cavalier vaillant comme toi, ni de printemps joyeuæ comme toi, ni dans un palais une peinture chinoise belle comme toi ; tu es tout humanité et toute droiture, puisse ta vie ne jamais dépérir.
+> Il n’y a pas de cavalier vaillant comme toi, ni de printemps joyeux comme toi, ni dans un palais une peinture chinoise belle comme toi ; tu es tout humanité et toute droiture, puisse ta vie ne jamais dépérir.
 >
 > Dieu t’a fait naître de la race la plus pure qui existe dans l’Iran et l’Aniran, dans l’Hindoustan, chez les Turcs et jusqu’en Roum et dans le pays des magiciens et jamais mère sainte n’a mis au monde un fils comme toi.
 >
@@ -118,13 +118,13 @@ Le scribe, qui était un homme éloquent et observateur, regarda la suscription 
 >
 > Le pays sera délivré des incursions et des vengeances de toute espèce qui éclataient, car les femmes et les enfants des Bouh mis étaient enlevés et nos cœurs blessés de toutes les manières.
 >
-> Le monde a été pacifié par notre al-Iiance et ces folies ont été calmées ; que la grâce du Créateur soit sur toi, que tu sois comblé des bénédictions du monde !»
+> Le monde a été pacifié par notre al-Iiance et ces folies ont été calmées ; que la grâce du Créateur soit sur toi, que tu sois comblé des bénédictions du monde ! »
 
 Lorsque la lecture de cette lettre fut terminée, le maître du monde, qui avait écouté toutes ces paroles, s’en réjouit dans son âme et il sentit la fortune des rois refleurir en lui.
 
 Il combla de louanges I Khaneghi et lui dit :
 
-> Ne te regarde pas comme étranger ici.»
+> Ne te regarde pas comme étranger ici. »
 
 On prépara un appartement pour cet homme noble, on arrangea pour lui deux belles salles ; on opporta à cet homme prudent et vaillant tout ce qu’il fallait.
 
