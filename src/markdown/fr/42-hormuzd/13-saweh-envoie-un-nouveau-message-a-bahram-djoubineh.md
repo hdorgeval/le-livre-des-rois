@@ -75,4 +75,4 @@ tu donc pas de pitié pour toi-même ?
 >
 > pas ainsi par artifice, je veux te faire du bien.
 >
-> Tu as préparé aujourd’hui avec une si petite armée un champ de bataille en face de moi et tu ne recevras plus d’autres messages de moi, si tu refuses de le rendre à mon désir.»
+> Tu as préparé aujourd’hui avec une si petite armée un champ de bataille en face de moi et tu ne recevras plus d’autres messages de moi, si tu refuses de le rendre à mon désir. »
