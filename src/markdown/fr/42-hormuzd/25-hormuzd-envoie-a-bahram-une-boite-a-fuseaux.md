@@ -26,14 +26,16 @@ Tu ne vois pas que le succès vient de ’ Dieu et tu veux t’asseoir sur la ro
 
 R Tu as donc oublié toutes les peines que j’ai prises ; que c’est mon armée que j’ai donnée et me trésors que j’ai dépensés ?
 
-Tu ne marches pas dans la voiedes Pehlewans, tu lèves ta tête jusqu’au ciel.
+Tu ne marches pas dans la voie des Pehlewans, tu lèves ta tête jusqu’au ciel.
 
 Tu t’es écarté de mes ordres, tu as arrangé les affaires autrement que je ne coulais.
 
-Voici un présent digne de toi, convenable et approprié à ton mérite.»
+Voici un présent digne de toi, convenable et approprié à ton mérite. »
 
 Le roi mit son sceau sur la lettre et se fit apporter une. boite noire à fuseaux, remplie de fuseaux. de coton et de beaucoup decboses dégoûtantes, puis il ajouta une tunique bleue en poil, des pantalons rouges et une coiffe
-. jaune de femme ; il choisit un messager sans consistance et digne de porter un aussi misérable présent et luidit : Porte ceci à Bahram et dis-lui aramon nom :
+. jaune de femme ; il choisit un messager sans consistance et digne de porter un aussi misérable présent et luidit :
+
+> Porte ceci à Bahram et dis-lui aramon nom :
 
 > Ô homme sans valeur et sans naissance !
 >
@@ -51,7 +53,7 @@ Le roi mit son sceau sur la lettre et se fit apporter une. boite noire à fuseau
 > Depuis que j’ai quitté avec tant d’ardeur la cour du roi, accompagné d’une faible armée, tout le monde a vu ce que j’ai
 "fait et ce que j’ai supporté de soucis, de fatigues et de dangers.
 >
-> Si la récompense de mes peines est l’avilissement, si la fortune ne me vaut que des indignités, je me plaindrai au Maître du ciel instable qui m’a retiré de cette façon toute sa tendresse.»
+> Si la récompense de mes peines est l’avilissement, si la fortune ne me vaut que des indignités, je me plaindrai au Maître du ciel instable qui m’a retiré de cette façon toute sa tendresse. »
 
 Il invoqua le Maître de la justice de qui vient tout bien, puis il revêtit les vêtements rouges et jaunes, plaça devant lui la boîte noire à fuseaux et .
 tout ce que le roi lui avait envoyé et fit venir chez lui tous les grands,-tous les hommes illustres de la cour du roi qui se trouvaient à l’armée.
@@ -64,11 +66,11 @@ Le Pehlewan de l’armée leur dit :
 
 > Voici la robe d’honneur que m’envoie le roi.
 >
-> Le roi tr est le maître du monde et nous sommes ses esclaves, nos cœurs et nos âmes.sont pleins d’attachement pour lui.
+> Le roi est le maître du monde et nous sommes ses esclaves, nos cœurs et nos âmes.sont pleins d’attachement pour lui.
 >
 > Qu’en pensez-vous, vous qui êtes clairvoyants ?
 >
-> Que dirons-nous au roi du monde?»
+> Que dirons-nous au roi du monde ? »
 
 Ils lui répondirent unanimement g Ô illustre Pehlewan plein de mérite !
 
@@ -80,16 +82,16 @@ Je suis dégoûté du Mobed et du trône du roi, puisqu’il ne s’inquiète pa
 
 Un homme qui te manque de respect, qu’en veux-tu obtenir ?
 
-Comment peux-tu en tirer de l’honneur?»
+Comment peux-tu en tirer de l’honneur ? »
 
 Bahram répondit :
 
 > Ne parlez pas ainsi ; le roi est la source de l’honneur dans l’armée.
 >
-> Nous tous sommes ses esclaves, c’est lui qui donne et nous tenons tout de lui.»
+> Nous tous sommes ses esclaves, c’est lui qui donne et nous tenons tout de lui. »
 
 Les Iraniens lui répliquèrent : Dorénavant nous ne prendrons plus nos armes.
 
-Aucun de nous ne veut qu’Hormuzd reste roi de l’Iran et que Bahram reste Pehlewan de l’armée.»
+Aucun de nous ne veut qu’Hormuzd reste roi de l’Iran et que Bahram reste Pehlewan de l’armée. »
 
 Ayant parlé ainsi, ils sortirent du palais du Sipehhed et se répandirent dans la plaine ; Bahram leur donna tous les conseils qu’il put, mais tout en donnant des conseils il contenait sa langue.
