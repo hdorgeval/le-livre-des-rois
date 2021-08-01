@@ -54,7 +54,7 @@ Quant à la croix du Messie, dont tu parles selon les traditions anciennes, réf
 > Car si c’était le fils, il s’en retournerait chez son père ; ne te chagrine donc pas pour ce bois pourri et si le Kaiser prononce des paroles folles, tout vieillard en rira.
 >
 > La croix de Jésus ne valait pas la peine que les rois la missent dans leur trésor, et, si j’envoyais de
-.l’Iran au Roum un morceau de bois, tout le pays rrirait de moi et les Mobcds croiraient que je suis devenu chrétien, que je suis devenu prêtre à cause de Mariam.
+.l’Iran au Roum un morceau de bois, tout le pays rrirait de moi et les Mobeds croiraient que je suis devenu chrétien, que je suis devenu prêtre à cause de Mariam.
 >
 > Demande-moi toute autre chose, quelle qu’elle soit, le chemin vous est ouvert auprès de moi.
 >
@@ -65,7 +65,7 @@ Quant à la croix du Messie, dont tu parles selon les traditions anciennes, réf
 > Je crains que, quand Schirouï sera devenu grand, il ne renouvelle dans le Roum et dans l’Iran ces grands maux qui ont été provoqués d’abord par le féroce Selm et continués par lskender, ce vieux loup, avide de vengeance ; je crains qu’on ne réveille dans le monde toutes ces haines nouvelles et anciennes. °
 Enfin, quant à ce que tu as entendu de ta fille, sache qu’elle a rajeuni ton diadème ; elle pratique la religion du Messie et n’écoute guère ce que je lui dis lit-dessus ; elle est heureuse du repos dans lequel elle vit et triomphante de ce nouveau re-jeton de l’arbre royal.
 >
-> Puisse le maître du monde être toujours ton protecteur, puisse ton étoile ne jamais te quitter !»
+> Puisse le maître du monde être toujours ton protecteur, puisse ton étoile ne jamais te quitter ! »
 
 On plaça sur la lettre le sceau du roi et on la confia à Kharrad, fils de Berzin.
 
