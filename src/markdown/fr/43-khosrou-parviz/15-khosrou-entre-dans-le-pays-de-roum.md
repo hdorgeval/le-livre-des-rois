@@ -22,7 +22,7 @@ Lorsque les chrétiens virent de loin cette armée, ils se précipitèrent par t
 
 Le roi qui répandait de la lumière sur le monde en fut désap pointé et resta pendant trois jours hors de la ville, lui et son armée.
 
-Le quatrième jour, il envoya quelqu’un dire : Je n’ai avec moi que peu de troupes ; je suis arrivé devant cette ville, mais je ne suis pas venu pour faire la guerre ; envoyez-nous des vivres, aidez-nous et veuillez ne pas agir envers nous en maîtres.»
+Le quatrième jour, il envoya quelqu’un dire : Je n’ai avec moi que peu de troupes ; je suis arrivé devant cette ville, mais je ne suis pas venu pour faire la guerre ; envoyez-nous des vivres, aidez-nous et veuillez ne pas agir envers nous en maîtres. »
 
 Q Ils méprisèrent ces paroles et l’armée était fatiguée et à jeun.
 
@@ -40,10 +40,10 @@ Il y avait dans la ville un palais dont le toit bravait les nues et qui était p
 
 Khosrou entra de la plaine dans la ville, s’établit dans le palais et parcourut souvent cette grande cité, sous les acclamations des Roumis, qui répandirent des pierres fines sous ses pieds.
 
-Ayant ainsi trouvé un lieu de séjour habitable, il y passasquelque temps pour se reposer et écrivit au Kaîsar une lettre sur ce vent, cette pluie et ce nuage noir.
+Ayant ainsi trouvé un lieu de séjour habitable, il y passas quelque temps pour se reposer et écrivit au Kaîsar une lettre sur ce vent, cette pluie et ce nuage noir.
 
-De cette ville, il marcha vers Manouï, ville que les hommes qui avaient vu le monde appelaient céleste (meïnouî) et tous ceux des habitants qui étaient prévoyants, intelligents, nobles et puissauts vinrent, avec les prêtres et les religieux, à sa rencontre, avec des présents et des ofIrandes d’argent.
+De cette ville, il marcha vers Manouï, ville que les hommes qui avaient vu le monde appelaient céleste (meïnouî) et tous ceux des habitants qui étaient prévoyants, intelligents, nobles et puissauts vinrent, avec les prêtres et les religieux, à sa rencontre, avec des présents et des offrandes d’argent.
 
 Ils parlèrent longuement avec le roi de cette pluie et de la vieille cité de Kanan ; ils dirent tous :
 
-> Nous sommes tes esclaves, nous sommes soumis aux paroles. de Khosrou.»
+> Nous sommes tes esclaves, nous sommes soumis aux paroles. de Khosrou. »
