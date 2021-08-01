@@ -18,7 +18,7 @@ order: '060'
 
 Plus tard la puissance du roi augmenta encore et ce qui avait été la lune devint le soleil.
 
-Il passait toutes ses journées auprès de la tille du Kaïsar ct C’est elle qui régnait dans la chambrent coucher.
+Il passait toutes ses journées auprès de la fille du Kaïsar ct C’est elle qui régnait dans la chambrent coucher.
 
 Cette faveur de Mariam affligeait Schirin et ses joues étaient toujours pâles de jalousie ; à la fin elle lui donna du poison et cette belle fille du Kaiser mourut ; mais personne ne connut le crime, car Schirin garda ce secret pour elle seule et Khosrou lui donna, un anlaprès la mort de Mariam, la chambre à coucher dorée.
 
@@ -36,11 +36,11 @@ Il devint très-soucieux du sort que le monde devait attendre de cet enfant au m
 
 Il alla chez le Grand Mobed et lui dit :
 
-> Ce prince ne pense qu’à jouer.»
+> Ce prince ne pense qu’à jouer. »
 
 Le Grand Mobed se rendit en toute hâte auprès du roi, qui se mit à réfléchir sur cette affaire ; ses joues pâlirent à cause de son fils, il devint plein de soucis du sort qui menaçait le monde, les paroles de l’astrologue remplirent son âme d’inquiétude et firent trembler son cœur, il dit :
 
-> Nous verrons de quelle façon le Créateur du ciel regardera tout ceci.»
+> Nous verrons de quelle façon le Créateur du ciel regardera tout ceci. »
 
 Lorsque la vingt-troisième année du règne de Khosrou fut passée, les membres de Schirouï s’étaient développés et le Grand roi en devint inquiet, car l’enfant était vaillant et devenait ingouvernable.
 >
