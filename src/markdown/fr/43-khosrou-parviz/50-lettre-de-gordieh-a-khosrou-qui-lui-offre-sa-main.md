@@ -22,7 +22,7 @@ Elle écrivit une lettre au roi sur ses amis et ses ennemis, en commençant par 
 
 > La chose que le roi a ordonnée a été faite selon le désir du cœur de ses amis et cette armée menaçante a été dispersée par l’effet de la fortune du Grand roi, maître du monde.
 >
-> Je reste maintenant ici, attendant quel ordre tu me donneras et ce que tu attacheras à la boucle d’oreille de ton esclave.»
+> Je reste maintenant ici, attendant quel ordre tu me donneras et ce que tu attacheras à la boucle d’oreille de ton esclave. »
 
 La lettre de cette femme arriva au roi et le remplit d’une joie immense.
 
