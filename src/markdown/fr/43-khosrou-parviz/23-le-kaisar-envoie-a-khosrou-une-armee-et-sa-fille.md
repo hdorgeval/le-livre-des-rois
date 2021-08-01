@@ -49,7 +49,7 @@ Puis, il ordonna à un scribe d’écrire une lettre contenant tout ce qu’il f
 > Ensuite Balouï
 est un homme qui sait garder un secret et ne traliirait les Perses pour rien au monde.
 >
-> Si longtemps qu’on vive sur la terre, on ne verra pas un homme comme Kharrad, fils de Berzin ; Dieu l’a créé pour que par lui les choses secrètes fussent expliquées ; il est sans tache comme le soleil brillant, toutes ses actions et toutes ses paroles viennent de Dieu.»
+> Si longtemps qu’on vive sur la terre, on ne verra pas un homme comme Kharrad, fils de Berzin ; Dieu l’a créé pour que par lui les choses secrètes fussent expliquées ; il est sans tache comme le soleil brillant, toutes ses actions et toutes ses paroles viennent de Dieu. »
 
 Ayant consigné tout cela dans sa lettre, il fit venir son conseiller, qui se présenta accompagné d’un astrologue qui devait indiquer un jour heureux pour commencer le voyage.
 
@@ -67,9 +67,9 @@ Le Kaisar lui dit :
 
 > Khosrou est maintenant ton parent ; je le donne cette mission parce qu’il te ressemble pour le caractère.
 >
-> Je te confie ma fille, ces trésors et cette armée si bien équipée.»
+> Je te confie ma fille, ces trésors et cette armée si bien équipée. »
 
-Neïathous se chargea de tout, le maître du monde se détourna en pleurant et l’armée se mit en route pour Aurigh, précédée par Neïathous, armé de la massue et de l’Loérsqpue Kéhoesro.u apIprit que l’armée arrivait, il sortit de la ville avec ses troupes et se plaça sur la route.
+Neïathous se chargea de tout, le maître du monde se détourna en pleurant et l’armée se mit en route pour Aurige, précédée par Neïathous, armé de la massue et de l’Loérsqpue Kéhoesro.u apIprit que l’armée arrivait, il sortit de la ville avec ses troupes et se plaça sur la route.
 
 On vit la poussière que soulevaient les chefs, on vit les drapeaux des cavaliers cuirassés ; l’armée arriva rapidement comme un nuage, une armée noyée dans les casques et les corselets et le cœur du roi sourit comme une rose au printemps en voyant ces troupes illustres.
 
@@ -85,10 +85,10 @@ Le quatrième jour, lorsque le soleil qui illumine le monde commença à briller
 
 Le roi leur dit :
 
-> Quels sont les chefs et les hommes de guerre?»
+> Quels sont les chefs et les hommes de guerre ? »
 
 Neïathous désigna soixante et dix hommes qui devaient conduire l’attaque au jour du combat et dont chacun avait sous lui mille cavaliers d’élite frappant de l’épée.
 
 Quand Khosrou vit cette armée choisie, ces cavaliers portant haut la tête et avides de combats, il adressa des actions de grâce à Dieu le créateur du ciel, du temps et de la terre, à Neïathous et à son armée, au Kaisar illustre et à son pays. il dit à ces grands :
 
-> Si le Créateur me vient en aide dans cette entreprise, je montrerai ma puissance, je rendrai la terre brillante de pierreries comme les Pléiades. tBéjouissez-vous d’être venus ici, parlez librement ; nous n’aurons d’autres soucis que ceux de nos ramis, le ciel est notre soutien, l’amitié des nobles est notre jardin.»
+> Si le Créateur me vient en aide dans cette entreprise, je montrerai ma puissance, je rendrai la terre brillante de pierreries comme les Pléiades. tBéjouissez-vous d’être venus ici, parlez librement ; nous n’aurons d’autres soucis que ceux de nos ramis, le ciel est notre soutien, l’amitié des nobles est notre jardin. »
