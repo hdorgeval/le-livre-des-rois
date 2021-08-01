@@ -20,7 +20,7 @@ Le roi ne cessait de grandir en pouvoir ; il dépassa la vingt-huitième année 
 
 Chacun lui disait :
 
-> a Le roi du. monde préfère les musiciens aux grands et si l’on te place en face de Serguisch, tu seras élevé au-des-sus de lui.»
+> a Le roi du. monde préfère les musiciens aux grands et si l’on te place en face de Serguisch, tu seras élevé au-dessus de lui. »
 
 Lorsque Barbed entendit ces discours,
 
@@ -30,7 +30,7 @@ Il quitta son pays, se rendit à la cour et se mit à observer les musiciens du 
 
 Serguisch l’entendit chanter et son âme fut troublée par Iejeu de Ëarbed ; il alla auprès du chef des chambellans, lui fit une offrande d’or et d’argent et lui dit :
 
-> Il y a à la porte du palais un chanteur qui a l’avantage sur moi en âge et en talent ; il ne faut pas qu’il trouve accès près de Khosrou, car. je suis usé et il serait, lui, une nouveauté.»
+> Il y a à la porte du palais un chanteur qui a l’avantage sur moi en âge et en talent ; il ne faut pas qu’il trouve accès près de Khosrou, car. je suis usé et il serait, lui, une nouveauté. »
 
 Le gardien de la porte du roi écouta ce discours et refusa l’entrée au musicien à l’esprit simple et Barbed avait beau venir à lui, il s’y prenait mal et n’en retirait aucun fruit ; le chambellan lui refusait la porte et personne n’intervenait en sa faveur.
 
@@ -46,13 +46,13 @@ Il dit au gardien du jardin :
 >
 > Maintenant j’ai à te demander un service que tu peux me rendre bien facilement.
 >
-> Quand le roi du monde viendra dans ce jardin, laisse-moi entrer pour que je puisse le voir secrètement ; puisque c’est ici le lieu de plaisance 2. du roi. je pourrai, tout en restant caché. contempler pour une fois son visage.»
+> Quand le roi du monde viendra dans ce jardin, laisse-moi entrer pour que je puisse le voir secrètement ; puisque c’est ici le lieu de plaisance 2. du roi. je pourrai, tout en restant caché. contempler pour une fois son visage. »
 
 Mardouï répondit :
 
-> Je ferai cela et par amour pour toi je ferai taire mes scrupules.»
+> Je ferai cela et par amour pour toi je ferai taire mes scrupules. »
 
-Lorsque le roi eut décidé qu’il irait au ardin, le cœurdu jardinier devint comme une lampe brillante ; il alla chez Barbed et lui dit que le roi allait se rendre dans ce lieu de fêtes.
+Lorsque le roi eut décidé qu’il irait au ardin, le cœur du jardinier devint comme une lampe brillante ; il alla chez Barbed et lui dit que le roi allait se rendre dans ce lieu de fêtes.
 
 Barbed revêtit des habits tout verts, prit son luth et prépara des chants de gloire et de combat.
 
@@ -74,7 +74,7 @@ Le roi ordonna aux grands de fouiller tous les coins de ce lieu de plaisance ; i
 
 Le rusé Serguisch prit la parole et dit :
 
-> Il n’est pas étonnant que, par la fortune du roi, les roses et le cyprès deviennent ses musiciens ; puissent sa tête et son diadème être éternels !»
+> Il n’est pas étonnant que, par la fortune du roi, les roses et le cyprès deviennent ses musiciens ; puissent sa tête et son diadème être éternels ! »
 
 L’échanson apporta une nouvelle coupe de vin et lorsque le roi la prit des mains de ce jeune homme au beau visage, le musicien préluda à un autre chant et commença subitement une nouvelle mélodie, qu’on appelle Peïkarigurd de combat du brave).
 Ce nom a été donné à ce chant à cause des paroles de l’air.
@@ -92,7 +92,7 @@ Lorsque Parviz I’entendit, il se leva vivement, demanda une coupe de vin digne
 > Cherchez dans le jardin pour voir où est cet homme, fouillez le jardin et
 ’ les bosquets de roses à droite et à gauche.
 >
-> Je remplirai de pierreries sa bouche et le pli de sa tunique, je le mettrai à la tête des musiciens.»
+> Je remplirai de pierreries sa bouche et le pli de sa tunique, je le mettrai à la tête des musiciens. »
 
 Lorsque le chanteur entendit cette voix et ces paroles douces et amicales, il descendit de sa branche de cyprès, accourut joyeux et tout glorieux et frotta son visage dans la poussière.
 
@@ -106,7 +106,7 @@ Il répondit :
 
 > Ô roi !
 >
-> Je suis ton esclave ; je ne vis dans le monde que par ton renom.»
+> Je suis ton esclave ; je ne vis dans le monde que par ton renom. »
 
 Il raconta tout ce qui s’était passé et qui avait agi en ami envers lui.
 
@@ -118,9 +118,9 @@ Il dit à Serguisch :
 >
 > Tu es comme la coloquinte et Barbed comme le sucre.
 >
-> Pourquoi l’as-tu tenuloin de moi ?
+> Pourquoi l’as-tu tenu loin de moi ?
 >
-> Dorénavant tu ne chanteras plus devant cette assemblée.»
+> Dorénavant tu ne chanteras plus devant cette assemblée. »
 
 Il continua à boire joyeusement aux sons de la voix de Barbed et à vider les coupes de rubis liquide ; il continua ainsi jusqu’à ce que le sommeil envahît sa tête et alors il remplit de perles de belle eau la bouche du chanteur.
 
@@ -134,6 +134,6 @@ La vie passe sur les grands et les petits ; pourquoi l’homme de sens s’en af
 
 Bien de plus grands et de plus petits que moi m’ont précédé et je voudrais ne plus me réveiller du sommeil, car un vieillard n’est plus heureux quand il a dépassé soixantesix ans.
 
-Mais quand ce glorieux poème sera terminé, tout le pays sera plein de mon nom ; alors je ne mourrai plus, je vivrai toujours, car j’aurai répandu la semence de la parole et quiconque a du sens, de l’âme et de la s foi me célébrera après ma mort.»
+Mais quand ce glorieux poème sera terminé, tout le pays sera plein de mon nom ; alors je ne mourrai plus, je vivrai toujours, car j’aurai répandu la semence de la parole et quiconque a du sens, de l’âme et de la s foi me célébrera après ma mort. »
 
 Maintenant je commence un nouveau récit sur Madaïn, je raconterai l’histoire du palais de Khosrou.
