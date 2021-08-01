@@ -20,23 +20,25 @@ Lorsque le Khakan apprit ce qui était arrivé à Bahram, il comprit que sa gloi
 
 La lettre de Bahram lui parvint, le messager parla et le Sipehbed écouta son récit.
 
-Ces nouvelles remplirent son âme de chagrin : ses yeux étaient pleins de larmes, ses lèvres étaient couleur de lapis-lazuli.
+Ces nouvelles remplirent son âme de chagrin :
 
-Il resta consterné du sort de Bahram ; il appela auprès de lui tous ses conseillers expérimentés.
-
-Il leur dit ce qui était arrivé au vaillant Bahram et quiconque l9] l’entendit. pleurait de douleur ; toute la Chine le pleurait amèrement ; la terreur la consumait comme s’il yavait eu du feu.
-
-Le Khakan cherchait dans les actions passées de Bahram pour découvrir à qui l’on devait attribuer ce méfait.
-
-Kaloun avait dans le-Tonran deux fils et des parents et alliés de tous les degrés.
-
-Quand on sut qu’il était le coupable, le Khakan brûla sa maison et tout l’enclos, il jeta dans les flammes les deux fils de Kaloun et livra au pillage tout ce qu’ils possédaient.
-
-Le Khakan comprit que tout cela avait été l’œu-I vre de Kharrad,. car tout ce que faisait celui-ci n’était que ruse et injustice.
-
-Il envoya de tous côtés des dromadaires ardents à la course, mais il ne put pas saisir Kharrad.
-
-Il répétait sans cesse : Comment s’est donc enfui ce chien qui a répandu sur me tête un feu pareil?»
+> ses yeux étaient pleins de larmes, ses lèvres étaient couleur de lapis-lazuli.
+>
+> Il resta consterné du sort de Bahram ; il appela auprès de lui tous ses conseillers expérimentés.
+>
+> Il leur dit ce qui était arrivé au vaillant Bahram et quiconque l9] l’entendit. pleurait de douleur ; toute la Chine le pleurait amèrement ; la terreur la consumait comme s’il yavait eu du feu.
+>
+> Le Khakan cherchait dans les actions passées de Bahram pour découvrir à qui l’on devait attribuer ce méfait.
+>
+> Kaloun avait dans le-Tonran deux fils et des parents et alliés de tous les degrés.
+>
+> Quand on sut qu’il était le coupable, le Khakan brûla sa maison et tout l’enclos, il jeta dans les flammes les deux fils de Kaloun et livra au pillage tout ce qu’ils possédaient.
+>
+> Le Khakan comprit que tout cela avait été l’œu-I vre de Kharrad,. car tout ce que faisait celui-ci n’était que ruse et injustice.
+>
+> Il envoya de tous côtés des dromadaires ardents à la course, mais il ne put pas saisir Kharrad.
+>
+> Il répétait sans cesse : Comment s’est donc enfui ce chien qui a répandu sur me tête un feu pareil ? »
 
 Puis vint le tour de la Khatoun ; il la traîna par les cheveux hors de l’appartement des lemmes ; il’fit transporter dans son palais tontes les richesses de la Khatoun et ne parla -jamais de la misère à laquelle il l’avait réduite.
 
@@ -56,16 +58,16 @@ Le roi envoya quelque chose au temple de leu ; il envoya des cadeaux aux Mobeds.
 
 Il dit à Kharrad, fils de Berzin :
 
-> Tu aurais mérité que je te cédasse la couce ronne et le trône.»
+> Tu aurais mérité que je te cédasse la couce ronne et le trône. »
 
 Il lui remplit la bouche de pierreries dignes d’un roi et lui donna cent mille pièces d’or, que le trésorier versa aux pieds de Kharrad de manière à embarrasser ses mouvements.
 
 Il dit à Kharrad :
 
-> Quiconque s’écarte du chemin verra le jour brillant s’obscurcir devant lui, fût-il vaillant sur le champ de bataille comme ce Bahram, qu’un vieux Turc a mis à mort.»
+> Quiconque s’écarte du chemin verra le jour brillant s’obscurcir devant lui, fût-il vaillant sur le champ de bataille comme ce Bahram, qu’un vieux Turc a mis à mort. »
 
 Tous les Mobeds rendirent hommage au roi, disant :
 
 > Puissent tes sujets ne jamais voir le monde privé de toi !
 >
-> Que le sort de Bahram frappe quiconque, malgré la clémence, veut empêcher ton visage de briller !»
+> Que le sort de Bahram frappe quiconque, malgré la clémence, veut empêcher ton visage de briller ! »
