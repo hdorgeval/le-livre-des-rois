@@ -30,14 +30,14 @@ Le peuple, qui n’avait ni pain ni eau et était misérable, émigrait de l’I
 2
 nemis et quiconque avait sa part dans ce dépérissement faisait retentir le pays de ses soupirs et de ses malédictions.
 
-Or il y avait un homme sans valeur, du nom de Guraz, qui faisait toutes les volontés du roi, lui procurait du repos et le flattait ; il était de tout temps surveillant de la frontièredu Roum ; c’était un homme à tête de Div, injuste et vil et lorsque le roi, aulnfois si juste. devint injuste, Guraz fut le premierà à trahir l’Iran.
+Or il y avait un homme sans valeur, du nom de Guraz, qui faisait toutes les volontés du roi, lui procurait du repos et le flattait ; il était de tout temps surveillant de la frontière du Roum ; c’était un homme à tête de Div, injuste et vil et lorsque le roi, aulnfois si juste. devint injuste, Guraz fut le premierà à trahir l’Iran.
 
 Ensuite, il y avait Ferrukhzad, un homme de grand renom et favori de Khosrou ; et personne ne pouvait pénétrer auprès du roi, à moins que Ferrukhzad ne demandât une audience pour lui.
 
-Mais lorsque la mesure du roi fut pleine, le cœur de Ferrukhzad se corrompit ; il se lia intimement avec le vieux Guraz et trama une conspiration i s’étendait de pays en pays.
+Mais lorsque la mesure du roi fut pleine, le cœur de Ferrukhzad se corrompit ; il se lia intimement avec le vieux Guraz et trama une conspiration s’étendait de pays en pays.
 
 Le Sipehbed Guraz écrivit au Kaïsar une lettre et lui inspira une mauvaise pensée en lui mandant :
 
-> Lève-toi et prend l’Iran, je serai le premier à te venir en aide.»
+> Lève-toi et prend l’Iran, je serai le premier à te venir en aide. »
 
 Le Kaiser, ayant lu cette lettre, amena une armée pour livrer bataille, il amena à l’instant une armée de Roum et arriva sur la frontière du pays cultivé de l’Iran.
