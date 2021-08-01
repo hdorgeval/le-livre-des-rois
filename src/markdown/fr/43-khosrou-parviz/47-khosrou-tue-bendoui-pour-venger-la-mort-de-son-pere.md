@@ -24,12 +24,12 @@ Un jour il dit à son fidèle Destour :
 >
 > Est-ce que le meurtrier de mon père passera toujours devant moi et sera la comme un parent ?
 >
-> Puisque mon âme est pleine du souvenir du sang . h de mon père, je ferai acte de roi et qu’est-ce qui peut en arriver ?»
+> Puisque mon âme est pleine du souvenir du sang . de mon père, je ferai acte de roi et qu’est-ce qui peut en arriver ? »
 
 On plaça devant lui la table ; il but beaucoup de vin et ce même jour il fit jeter Bendouî dans les fers.
 
 Puis, il dit à son conseiller :
 
-> (r Qu’on lui coupe à l’instant les pieds et les mains, car, lorsqu’il n’aura plus de mains, il ne prendra plus les armes pour tuer des Keïanides.»
+> (r Qu’on lui coupe à l’instant les pieds et les mains, car, lorsqu’il n’aura plus de mains, il ne prendra plus les armes pour tuer des Keïanides. »
 
 On lui coupa les pieds et les mains et il mourut sur-le-champ, remettant à Dieu son âme chargée d’un meurtre.
