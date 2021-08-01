@@ -29,7 +29,7 @@ Il lui adressa les questions d’usage, le re-
 
 Lorsque la nuit sombre eut rejeté son voile parfumé de musc et que le soleil eut montré sa face, Bahram, le chef des frontières, se rendit à la cour, les grands lui ouvrirent le passage, le maître du monde l’appela, le fit asseoir sur un trône au-dessus de tous les grands et lui demanda :
 
-> Fautvil que je fasse la paix avec le roi Saweh, ou dois-je envoyer une armée contre lui?»
+> Fautvil que je fasse la paix avec le roi Saweh, ou dois-je envoyer une armée contre lui ? »
 
 Bahram, qui était avide de combats, répondit :
 
@@ -38,13 +38,15 @@ Bahram, qui était avide de combats, répondit :
 > S’il veut engager la lutte, ce serait une défaite pour nous que de faire la paix ;
 .ensuite tu enhardirais tes ennemis, s’ils voyaient que tu cèdes.
 >
-> Si tu te livrais aux festins au temps des combats, ton gouvernement en viendrait à la soumission.»
+> Si tu te livrais aux festins au temps des combats, ton gouvernement en viendrait à la soumission. »
 
 Hormuzd lui dit :
 
 > Ensuite que dois-je faire ?
+>
+> Attendre ou me mettre en route ? »
 
-Attendre ou me mettre en route?n Il répondit :
+Il répondit :
 
 > Si un ennemi agit contre la justice, c’est de bon augure.
 
@@ -60,18 +62,20 @@ Un grand homme intelligent a dit :
 >
 > Mais si nous fai-üesons pleuvoir des flèches sur l’ennemi, si nous faisons de nos arcs des nuages de printemps et si cent mille épées et massues sont levées contre nous sur le champ de bataille, de sorte que nous ne puissions pas vaincre et qu’il faille renoncer à la fortune, alors seulement nous serons obligés d’obéir aux ordres de l’ennemi, parce que la vie. la force et le corps nous feront défaut.
 >
-> Luttons pour voir ce que la rotation du ciel nous apportera de bonheur ou de malheur.»
+> Luttons pour voir ce que la rotation du ciel nous apportera de bonheur ou de malheur. »
 
 À ces paroles de Bahram, le roi sourit et le trône resplendit.
 
-Les grands pleins d’expérience sortirent, le cœur gonflé de sang, de chez le roi et dirent à Bahram : Quand il le fait des questions, ne parle pas si hardiment, car l’armée de Saweh est si nombreuse qu’elle ne laisse pas de place aux fourmis ni aux mouches pour passer.
+Les grands pleins d’expérience sortirent, le cœur gonflé de sang, de chez le roi et dirent à Bahram :
 
-Qui osera se charger du commandement de l’armée après ce que tu as dit à Hormuzd?»
+> Quand il le fait des questions, ne parle pas si hardiment, car l’armée de Saweh est si nombreuse qu’elle ne laisse pas de place aux fourmis ni aux mouches pour passer.
+>
+> Qui osera se charger du commandement de l’armée après ce que tu as dit à Hormuzd ? »
 
 Bahram répondit aux grands :
 
 > Ô hommes illustres et vaillants !
 >
-> Si le glorieux roi me I’ordonne, je suis prétà être le Pehlewan de l’armée.»
+> Si le glorieux roi me I’ordonne, je suis prétà être le Pehlewan de l’armée. »
 
 Des rapporteurs allèrent à l’instant chez le roi du monde et répétant. ce qu’avait dit Bahram, ils ajoutèrent dix paroles a chacune de Celles qu’il avait prononcées.
