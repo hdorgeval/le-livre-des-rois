@@ -28,17 +28,19 @@ Lorsque le vaillant Bahram eut su que quelqu’un avait apporté au Khakan une l
 >
 > Que les traces de leurs pieds soient maudites et mau-dites leurs têtes !
 >
-> Si j’ai consenti à être sujet, c’est pour arracher jusqu’aux racines de cette race des Sâsânides.»
+> Si j’ai consenti à être sujet, c’est pour arracher jusqu’aux racines de cette race des Sâsânides. »
 
 Le Khakan écouta ces paroles et devint pensif ; les soucis remplissaient son cœur, comme les arbres une forêt.
 >
 > Il convoqua les vieillards les plus considérables, des hommes éloquents, sages et qui se rappelaient bien des choses ; il leur répéta ce que Bahram avait dit et leur dévoila tout le secret.
 >
-> Les sages, tant parmi ses alliés et ses proches que parmi les étrangers, lui répondirent : C’est une mauvaise et difficile allahe que de déclarer que la mesure de la race des : 
+> Les sages, tant parmi ses alliés et ses proches que parmi les étrangers, lui répondirent :
+
+> C’est une mauvaise et difficile allahe que de déclarer que la mesure de la race des : 
 >
 > Sâsânides est comble ; et pourtant, si Bahram commande l’armée et montre le chemin aux hommes d’intelligence, il trouvera dans l’Iran bien des amis, quand il a pour allié et soutien le Khakan de la et Chine et l’affaire sera terminée rapidement à l’aide de ta fortune.
 >
-> Il faut donc prêter l’oreille aux paroles de Bahram.»
+> Il faut donc prêter l’oreille aux paroles de Bahram. »
 
 Le Khakan se sentit rajeuni,par ces paroles ; il sourit et prit une nouvelle résolution.
 
@@ -50,7 +52,7 @@ Le Khakan fit appeler ces héros, les fit asseoir au bureau pour payer la solde 
 
 > Soyez prudents au jour du combat ; ayez toujours l’œil sur Bahram dans ses moments de joie et dans ses moments de colère.
 >
-> Saisissez tous les gués du Djihoun, faites voler la poussière des bords du Djihoun jusqu’à la voûte du ciel.»
+> Saisissez tous les gués du Djihoun, faites voler la poussière des bords du Djihoun jusqu’à la voûte du ciel. »
 
 Il leur confia une armée vaillante, toute composée d’hommes illustres et de lions courageux.
 
