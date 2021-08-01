@@ -26,7 +26,7 @@ Lorsque la nuit sombre se fut montrée dans le cercle de la lune, le roi dit à 
 >
 > Observe le nombre et la qualité. de ses troupes, quel est leur chef et quels en sont
 >
-> les héros.»
+> les héros. »
 
 Il fit préparer une lettre de conseils à ce roi malfaisant et y ajouta d’innombrables présents digues d’un roi.
 
@@ -36,7 +36,7 @@ Il dit à son messager :
 >
 > Rends-toi auprès de Bahram pour lui communiquer tout ce que j’ai dit, pour lui répéter bien des fois combien je désire qu’il soit victorieux et serein d’esprit.
 >
-> Dis-lui que, par de bons messages et de bonnes nouvelles, je veux préparer un excellent piège pour Saweh ; mais qu’ilne faut pas que celuisci connaisse le secret de Bahram ni qu’il apprenne son nom et sa renommée ; dis-lui que je ferai tomber le roi Sawch dans ses filets et que j’emploierai pour cela de beaux et longs discours.»
+> Dis-lui que, par de bons messages et de bonnes nouvelles, je veux préparer un excellent piège pour Saweh ; mais qu’ilne faut pas que celui-ci connaisse le secret de Bahram ni qu’il apprenne son nom et sa renommée ; dis-lui que je ferai tomber le roi Sawch dans ses filets et que j’emploierai pour cela de beaux et longs discours. »
 
 Kharrad Berzin se prépara pour la route et fit le chemin que le roi lui avait indiqué.
 
@@ -49,17 +49,17 @@ Le roi Sawah entendit ces paroles et cet homme, qui était incertain sur la rout
 
 > Vilain tourbe !
 >
-> Tu vos descendre de la hauteur sur laquelle tu t’es placé ; tu ce venu de la cour du roi Hormuzd espérant me tendre un piège ; tu amènes une armée perse pour ce me combattre, tu dresses les tentes sur les prairies et de Heri (Hem).»
+> Tu vos descendre de la hauteur sur laquelle tu t’es placé ; tu ce venu de la cour du roi Hormuzd espérant me tendre un piège ; tu amènes une armée perse pour ce me combattre, tu dresses les tentes sur les prairies et de Heri (Hem). »
 
 Kharrad Baratin répondit au roi :
 
 > Si un petit corps de troupes se présente devant ton armée. n’en conçois pas de soupçons de trahison ; ce sera un gardien des frontières qui passe, ou un grand qui demande asile et a quitté son pays pour venir à toi, ou un marchand qui n amené une escorte pour sa sécurité sur la route ; car qui est-ce qui peut venir chez toi quand les montagnes et les fleuves sont pleins de troubles de guerre ?
 >
-> Je vais envoyer quelqu’un vers ce camp pour qu’il voie quel est cet homme qui cherche son chemin.»
+> Je vais envoyer quelqu’un vers ce camp pour qu’il voie quel est cet homme qui cherche son chemin. »
 
 Le roi Saweh fut content de ces paroles et dit :
 
-> C’est bien : c’est li ce qu’il tout faire.»
+> C’est bien : c’est li ce qu’il tout faire. »
 
 Quand Kharrad
 
@@ -70,11 +70,13 @@ Lorsque la nuit fut plus profonde, le roi donna ses ordres au Faghfour ; ce jeun
 
 Le fils du roi arriva en face de l’armée iranienne et envoya un cavalier pour demander quels étaient ces hommes armés et quel était le but de cette expédition.
 
-Un cavalier turc partit rapidement comme la poussière et cria : Ô hommes illustres !
+Un cavalier turc partit rapidement comme la poussière et cria :
 
-Qui est votre chef, votre commandant et votre champion dans le combat ?
-
-Le Faghfour, qui est l’œil et le cœur du roi, veut le voir, mais sans escorte.»
+> Ô hommes illustres !
+>
+> Qui est votre chef, votre commandant et votre champion dans le combat ?
+>
+> Le Faghfour, qui est l’œil et le cœur du roi, veut le voir, mais sans escorte. »
 
 Un des hommes deguerre de l’armée vint portera Bahram le message du Turc et le Sipehbed sortit de l’enceinte de ses tentes et planta devant ses pieds un brillant drapeau, qui s’élevait tau-dessus de sa tête.
 
@@ -82,7 +84,7 @@ Lorsque le Faghfour de la Chine l’aperçut, il accourut, couvrant de sueur son
 
 > D’où viens-tu et pourquoi restes-tu campé ici ?
 >
-> On m’a dit que tu t’es enfui de Perse, ayant reçu un outrage et commis un meurtre.»
+> On m’a dit que tu t’es enfui de Perse, ayant reçu un outrage et commis un meurtre. »
 
 Bahram répondit :
 
@@ -90,7 +92,7 @@ Bahram répondit :
 
 Lorsqu’on reçut à la cour royale des nouvelles de l’armée de Saweh, Hormuzd me dit :
 
-> -Va.et barre-leur la route avec les massues et les lances, avec les épées et les flèches.»
+> -Va.et barre-leur la route avec les massues et les lances, avec les épées et les flèches. »
 
 Quand le Faghfour eut entendu ces paroles, il se hâta de s’en retourner auprès de son père et de lui dire ce qui en était.
 
@@ -100,4 +102,4 @@ Le roi Saweh dit à son fils :
 
 > Comment ce méchant homme a-t-il pu trouver le chemin dans la nuit noire et à travers une armée sans nombre ?
 >
-> Comment les rondes ont-elles pu être si négligentes?»
+> Comment les rondes ont-elles pu être si négligentes ? »
