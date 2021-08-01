@@ -38,7 +38,7 @@ Mais il faut que de votre côté vous donniez l’assurance que personne ne nous
 
 Déclare qu’aussi longtemps que tu seras roi, tu n’oublieras pas les peines que nous prenons pour toi, que tu ne demanderas plus de tribut aux Roumis et que tu ne trahiras pour aucun avantage la reconnaissance que t’imposeront les fatigues que nous endurerons pour toi.
 
-Ensuite tu abandonneras toutes les conquêtes ’ LE LIVRE ses dans le Roum et aucun Iranien ne franchira plus notre frontière.
+Ensuite tu abandonneras toutes les conquêtes ’ ses dans le Roum et aucun Iranien ne franchira plus notre frontière.
 
 Allez au delà de votre désir présent, faites un arrangement avec nous et concluez une alliance, pour que, en toute occasion, quand nous serons occupés d’une affaire, fût-ce une guerre folle, nous soyons tous amis et frères, quand même l’un de nous serait de temps en temps le plus faible.
 
@@ -53,7 +53,7 @@ Depuis Pirouz jusqu’à Khouschnewaz, il s’est passé bien du temps, pendant 
 
 Le Messie, notre prophète, a dit :
 
-> La raison est déviée si l’on dévie de la justice.»
+> La raison est déviée si l’on dévie de la justice. »
 
 Khouschnewaz a essayé bien des moyens pour sauver la tête de Pirouz des ciseaux de la mort et Pirouz, quand il a agi durement contre Khouschnewaz, n’a tiré de ce conflit que l’angoisse de la mort et lorsque la tête du roi a dévié de la justice, son armée et son trône royal ont péri.
 
@@ -65,7 +65,7 @@ Je ne voudrais pas qu’un scribe connût ce secret : écris donc toi-même et m
 
 Quand j’aurai lu ta réponse et que j’y aurai reconnu l’âme d’un homme résolu, j’enverrai à l’instant des armes, des troupes et de l’argent pour soulager ton cœur affligé.
 
-Quelle’que soit la Vu. tu
+Quelle que soit la Vu. tu
 
 Haine que tu portes dans ton cœur aux grands qui »
 
@@ -77,6 +77,6 @@ Si tu es généreux et secourable, personne n’éleudra la main vers ta couronn
 
 Les rois qui ont veillé sur le monde et l’ont protégé contre ses ennemis n’ont jamais eu à souffrir de leurs adversaires et la majesté que Dieu donne les a grandis.
 
-Les princes leur demandent leurs filles, soit pour eux-mêmes, soit pour leurs fils vertueux et maintenant nous tous te demandons de devenir mon gendre et nos âmes sont préparées à cette alliance.»
+Les princes leur demandent leurs filles, soit pour eux-mêmes, soit pour leurs fils vertueux et maintenant nous tous te demandons de devenir mon gendre et nos âmes sont préparées à cette alliance. »
 
 Lorsque l’entête de cette lettre fût sec, on y plaça un sceau de musc, sur lequel le Kaisar appliqua son anneau ; il donna la lettre à l’envoyé et le congédia avec des bénédictions.
