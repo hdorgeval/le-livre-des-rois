@@ -916,6 +916,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/faisaitle/, 'faisait le'),
     (content: string) => content.replace(/bonheurde/, 'bonheur de'),
     (content: string) => content.replace(/cettevérité/, 'cette vérité'),
+    (content: string) => content.replace(/plusque/, 'plus que'),
   ].forEach((format) => {
     result = format(result);
   });
