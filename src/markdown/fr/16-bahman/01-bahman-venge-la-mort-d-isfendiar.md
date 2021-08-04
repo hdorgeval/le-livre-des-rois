@@ -8,7 +8,31 @@ source: tome V - livre des rois - P. 001
 reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
 title: "Bahman venge la mort d'Isfendiar | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Amol',
+    'Bahman',
+    'Chine',
+    'Djemschid',
+    'Faramourz',
+    'Feridoun',
+    'Isfendiar',
+    'Kaboul',
+    'Keï',
+    'Khosrou',
+    'Lohrasp',
+    'Minoutchehr',
+    'Nousch-Ader',
+    'Nousch-Zad',
+    'Rustem',
+    'Selm',
+    'Séistan',
+    'Tour',
+    'Zaboulistan',
+    'Zal',
+    'Zohak',
+  ]
 order: '001'
 ---
 
