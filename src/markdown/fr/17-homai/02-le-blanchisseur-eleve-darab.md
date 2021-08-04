@@ -20,7 +20,7 @@ Le blanchisseur revint de la rivière à une heure indue ; alors sa femme lui di
 
 > Voilà une belle récolte !
 >
-> Tu reviens avec ton linge à demi mouillé ; qui est-ce qui te payera pour une pareille besogne ?
+> Tu reviens avec ton linge à demi mouillé ; qui est-ce qui te payera pour une pareille besogne ?
 
 Or le cœur du blanchisseur était désolé de la mort d’un enfant intelligent et sa femme ne cessait de se lamenter de cette perte, ses joues étaient déchirées, son âme était assombrie.
 
@@ -104,7 +104,7 @@ Un jour il le trouva quelque part, un arc en main, la poitrine développée selo
 
 > Ô vaurien d’enfant, qui ne rêves que batailles, pourquoi t’occupes-tu toujours de flèches et d’arcs ?
 >
-> Comment es-tu devenu méchant de si bonne heure ?
+> Comment es-tu devenu méchant de si bonne heure ?
 
 Darab lui répondit :
 
@@ -122,8 +122,7 @@ Darab apprit les sciences, acquit de la dignité et cessa de mal se conduire et 
 >
 > Que ta tendresse pour moi ne te donne pas de l’inquiétude ; fais de moi un cavalier.
 
-Le blanchisseur chercha un cavalier accompli,
-sachant manier les rênes et lancer un cheval, un homme de bon renom et le lui confia pendant longtemps.
+Le blanchisseur chercha un cavalier accompli, sachant manier les rênes et lancer un cheval, un homme de bon renom et le lui confia pendant longtemps.
 
 Darab apprit de lui tout ce dont il avait besoin : de tenir la bride, la lance et le bouclier, de faire faire la volte à un destrier sur le champ de bataille, de se servir de la raquette, de l’arc et des flèches, de se battre bravement et de se dérober à l’ennemi.
 
