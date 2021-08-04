@@ -909,6 +909,13 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/pourtantce/, 'pourtant ce'),
     (content: string) => content.replace(/un’esclave/, 'un esclave'),
     (content: string) => content.replace(/soitdans/, 'soit dans'),
+    (content: string) => content.replace(/allligea/, 'affligea'),
+    (content: string) => content.replace(/rendaientla/, 'rendaient la'),
+    (content: string) => content.replace(/quelquesmns/, 'quelques-uns'),
+    (content: string) => content.replace(/tenan’t/, 'tenant'),
+    (content: string) => content.replace(/faisaitle/, 'faisait le'),
+    (content: string) => content.replace(/bonheurde/, 'bonheur de'),
+    (content: string) => content.replace(/cettevérité/, 'cette vérité'),
   ].forEach((format) => {
     result = format(result);
   });
