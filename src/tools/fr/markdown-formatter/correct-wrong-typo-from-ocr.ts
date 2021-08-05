@@ -923,6 +923,13 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Phei’lckous/, 'Pheïlekous'),
     (content: string) => content.replace(/ofirande/, 'offrande'),
     (content: string) => content.replace(/neufmois/, 'neuf mois'),
+    (content: string) => content.replace(/h’eureux/, 'heureux'),
+    (content: string) => content.replace(/sestroupes/, 'ses troupes'),
+    (content: string) => content.replace(/bonstermes/, 'bons termes'),
+    (content: string) => content.replace(/sesbracelets/, 'ses bracelets'),
+    (content: string) => content.replace(/Lorsqlie/, 'Lorsque'),
+    (content: string) => content.replace(/poilrine/, 'poitrine'),
+    (content: string) => content.replace(/dursoulagement/, 'du soulagement'),
   ].forEach((format) => {
     result = format(result);
   });
