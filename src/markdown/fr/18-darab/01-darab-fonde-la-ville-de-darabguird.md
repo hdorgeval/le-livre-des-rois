@@ -8,7 +8,24 @@ source: tome V - livre des rois - P. 037
 reign: 'Darab'
 reign-slug: 'regne-de-darab'
 title: 'Darab fonde la ville de Darabguird | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Aboul-Kasim',
+    'Ardeschir',
+    'Créateur',
+    'Darab',
+    'Darabguird',
+    'Dieu',
+    'Dihkan',
+    'Guschtasp',
+    'Hindoustan',
+    'Homaï',
+    'Inde',
+    'Keïanides',
+    'Mahmoud',
+    'Mobeds',
+    'Roum',
+  ]
 order: '001'
 ---
 
