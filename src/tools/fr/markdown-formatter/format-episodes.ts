@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/fr/20-iskender', 2, 42);
+formatEpisodesIn('src/markdown/fr/20-iskender', 1, 1);
