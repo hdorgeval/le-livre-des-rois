@@ -8,7 +8,21 @@ source: tome V - livre des rois - P. 047
 reign: 'Dara'
 reign-slug: 'regne-de-dara'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Ahwaz',
+    'âme',
+    'Ardeschir',
+    'Chine',
+    'Dara',
+    'Darab',
+    'Faghfour',
+    'Inde',
+    'Keïanides',
+    'Khakan',
+    'Roum',
+    'Zernousch',
+  ]
 order: '001'
 ---
 
@@ -42,7 +56,7 @@ Il appela un scribe intelligent et lui parla longuement de toute chose ; alors l
 >
 > Obéissez tous à mes ordres, soit pour ôter à d’autres la vie, soit pour donner la vôtre.
 
-Il ouvrit les trésors de son père, rassembla son armée et paya la solde ; il paya depuis quatre jusqu’à huit direms par mois ; aux uns il donna de quoi remplir une coupe, aux autres de quoi remplir un plateau.
+Il ouvrit les trésors de son père, rassembla son armée et paya la solde ; il paya depuis quatre jusqu’à huit direms par mois ; aux uns, il donna de quoi remplir une coupe, aux autres de quoi remplir un plateau.
 
 Il distribua de l’argent, de l’or et des caparaçons, des cuirasses, des épées et de lourdes massues.
 
