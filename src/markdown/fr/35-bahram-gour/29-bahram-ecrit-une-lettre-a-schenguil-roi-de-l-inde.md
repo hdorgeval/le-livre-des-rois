@@ -26,11 +26,11 @@ Un jour, son Vizir plein d’intelligence se leva devant Bahram et lui dit :
 >
 > Il tient le monde dans le trouble depuis M . l’lndouslan jusqu’aux frontières de la Chine par les brigands qu’il protège ; il fait’du mal à l’Iran et il serai !
 >
-> Digne de toi de t’occuper de cette allaite.
+> Digne de toi de t’occuper de cette affaire.
 >
 > Tu es le roi et Schenguil n’est que le gouverneur de l’Inde ; comment ose-t-il demander un tribut à la Chine et au Sind ?
 >
-> Réfléchis et mets de l’ordre à cela, il ne faut pas qu’un malheur en provienne.»
+> Réfléchis et mets de l’ordre à cela, il ne faut pas qu’un malheur en provienne. »
 
 Le roi devint pensif à ces paroles, l’univers lui parut comme une forêt mon.
 
@@ -40,7 +40,9 @@ Il dit :
 >
 > J’irai auprès de lui comme un envoyé et ne le dirai pas aux nobles de l’Iran.
 >
-> Toi, ô Mobed à la foi pure, écris à Schenguil une lettre amicale et en même temps tr menaçante ; n Le pieux Destour partit avec un scribe et en excluant tous ceux dont il n’avait pas besoin ; ils se consultèrent longuement sur tout, on apporta du papier, du musc et des roseaux et le Destour fit écrire une lettre pleine de bons conseils et de sens, de bonnes paroles et d’hommages rendus à Dieu.
+> Toi, ô Mobed à la foi pure, écris à Schenguil une lettre amicale et en même temps menaçante . »
+
+Le pieux Destour partit avec un scribe et en excluant tous ceux dont il n’avait pas besoin ; ils se consultèrent longuement sur tout, on apporta du papier, du musc et des roseaux et le Destour fit écrire une lettre pleine de bons conseils et de sens, de bonnes paroles et d’hommages rendus à Dieu.
 >
 > Elle commença par des bénédictions de Dieu sur celui qui se rend digne d’être béni par le maître de l’existence et du néant, Dieu qui est unique, pendant que toute créature a sa pareille.
 >
@@ -77,6 +79,8 @@ allures, ta fortune, ta grandeur et ta foi ; j’ai des armes pour la guerre, de
 >
 > Envoie le tribut, ou prépare-toi à la guerre et fortifie les défilés.
 >
-> Mes bénédictions sur l’âme qui a la raison et la justice pour trame et pour chaîne.»
+> Mes bénédictions sur l’âme qui a la raison et la justice pour trame et pour chaîne. »
 
-Lorsque le souffle de l’air eut séché le musc, le scribe plia la feuille et écrivit sur le haut de la lettre : Le Grand Roi Bahram, le maître du monde, l’adorateur de Dieu,qui a hérité du trône des Keïanides après Yezdeguird, au jour d’Ard du mois de Khordad de du 3° mois), qui est commandant des frontières et protecteur du pays, à qui le pays des Slaves et le Roum payent tribut, à Schenguil le commandant de l’Inde depuis le fleuve de Kanoudj jusqu’à la frontière du Sind.»
+Lorsque le souffle de l’air eut séché le musc, le scribe plia la feuille et écrivit sur le haut de la lettre :
+
+> Le Grand Roi Bahram, le maître du monde, l’adorateur de Dieu,qui a hérité du trône des Keïanides après Yezdeguird, au jour d’Ard du mois de Khordad de du 3° mois), qui est commandant des frontières et protecteur du pays, à qui le pays des Slaves et le Roum payent tribut, à Schenguil le commandant de l’Inde depuis le fleuve de Kanoudj jusqu’à la frontière du Sind. »
