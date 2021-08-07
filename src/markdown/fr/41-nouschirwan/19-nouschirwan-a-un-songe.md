@@ -50,7 +50,7 @@ Le Mobed dirigea son cheval vers ce lieu, entra et fit au maître des questions 
 
 Le maître d’écriture dit :
 
-> Ceci n’est pas mon affaire ; je m’en tiens, en fait de savoir, au Zend ; je l’enseigne à ces enfants, mais je n’ose pas aller au delà. »
+> Ceci n’est pas mon affaire ; je m’en tiens, en fait de savoir, au Zend ; je l’enseigne à ces enfants, mais je n’ose pas aller au delà »
 
 Buzurdjmihr entendit les paroles du Mobed, en fut frappé et levant les yeux, dit au maître :
 
