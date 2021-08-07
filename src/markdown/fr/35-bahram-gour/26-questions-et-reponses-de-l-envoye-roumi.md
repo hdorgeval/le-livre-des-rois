@@ -25,13 +25,13 @@ Bahram lui adressa les questions d’usage, le reçut gracieusement. le fit asse
 > Tu es resté longtemps ici, n’es-tu pas las de la vue de ce pays ?
 >
 > La lutte contre le Khakan m’a tenu loin de
-æ toi, elle s’est attachée à moi comme une compagne li inseymrable ; maintenant mes jours sont rajeunis, grâce à toi ; mais ton séjour s’est prolongé outre mesure ; je répondrai à tout ce que tu me diras, je tirerai de les paroles des conseils qui portent bonbeur.»
+æ toi, elle s’est attachée à moi comme une compagne li inseymrable ; maintenant mes jours sont rajeunis, grâce à toi ; mais ton séjour s’est prolongé outre mesure ; je répondrai à tout ce que tu me diras, je tirerai de les paroles des conseils qui portent bonbeur. »
 
 Le vieillard prononça des bénédictions sur lui, disant :
 
 > Puissent l’époque et le monde n’être jamais sans toi !
 >
-> Tu es un roi intelligent qui trouve e : plaisir aux paroles des hommes de sens.
+> Tu es un roi intelligent qui trouve : plaisir aux paroles des hommes de sens.
 >
 > L’homme intelligent est plus près de Dieu et le jour de ses ennemis est obscurci.
 >
@@ -43,11 +43,11 @@ Le vieillard prononça des bénédictions sur lui, disant :
 >
 > Je porte les salutations du Kaïsar à Bahram ; puissent cette tête, cette couronne et ce trône être éternels !
 >
-> Ensuite, il m’a ordonné de l’aire à tes savants sept questions.»
+> Ensuite, il m’a ordonné de l’aire à tes savants sept questions. »
 
 Le roi lui dit :
 
-> Parle, rien ne donne plus de gloire r que la paroles Il fit appeler le Grand Mobed avec les sages les plus illustres.
+> Parle, rien ne donne plus de gloire que la paroles Il fit appeler le Grand Mobed avec les sages les plus illustres.
 
 Les lèvres du roi étaient pendant un instant remplies de soupirs, tant il était inquiet de ce que pouvaient être les sept questions mystérieuses : 3 que le Roumi allait faire.
 
@@ -63,11 +63,11 @@ Le Mobed et les sages qui étaient versés dans toute science arrivèrent et l�
 >
 > Qu’estce qui n’a pas de limites et qu’est-ce qui est vil ?
 >
-> Qu’est-ce qui a beaucoup de noms et est. partout le maître?»
+> Qu’est-ce qui a beaucoup de noms et est. partout le maître ? »
 
 Le Mobed répondit au savant :
 
-> Ne te hâle pas et ne te détourne pas de la voie de la sagesse.»
+> Ne te hâle pas et ne te détourne pas de la voie de la sagesse. »
 
 Puis, il dit :
 
@@ -81,7 +81,7 @@ Puis, il dit :
 >
 > Quant à la chose qui a beau-coup de noms et qui fait sentir son action en tout lieu, sache, ô vieillard, que la raison porte bien des noms et qu’elle fait parvenir l’homme pur au but de ses désirs.
 >
-> L’un l’appelle clémence, l’autre bonne f’oi, car, la raison absente. il ne reste que il x
+> L’un l’appelle clémence, l’autre bonne foi, car, la raison absente. il ne reste que il x
 >
 > douleur et oppression ; l’homme éloquent l’appelle droiture, l’homme à l’étoile puissante croit qu’elle est l’adresse.
 >
@@ -99,7 +99,7 @@ Puis, il dit :
 >
 > Le sage s’étonne que quelqu’un ait confiance dans les rayons de Mercure, Toi qui es plein d’expérience, y a-t-il quelque chose de plus méprisable que l’astrologie ?
 >
-> Voilà ce que je sais et si ta question comporte une autre réponse, c’est que les secrets du Créateur sont infinis.»
+> Voilà ce que je sais et si ta question comporte une autre réponse, c’est que les secrets du Créateur sont infinis. »
 
 Le sage messager du Kaïsar écouta cette réponse, baisa la terre et se déclara vaincu ; il dit àBahram :
 
@@ -114,7 +114,7 @@ I
 >
 > BAI-" 7 jet de l’admiration des grands de naissance illustre et le monde n’a pas souvenir d’un roi tel que toi.
 >
-> Ensuite ton Destour dépasse en savoir tous les Mobeds et tous les sages ; tous les philosophes sont ses esclaves et baissent la tête devant sa science.»
+> Ensuite ton Destour dépasse en savoir tous les Mobeds et tous les sages ; tous les philosophes sont ses esclaves et baissent la tête devant sa science. »
 
 Bahram ne put pas cacher le plaisir que -Iui faisaient ces paroles et il se sentit plus glorieux dans son âme.
 
