@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/fr/21-aschkanides', 2, 17);
+formatEpisodesIn('src/markdown/fr/22-ardeschir-babekan', 2, 12);
