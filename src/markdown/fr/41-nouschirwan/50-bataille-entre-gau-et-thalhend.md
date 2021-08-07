@@ -100,8 +100,7 @@ Lorsque Gau reçut ce message brutal, il écarta de son esprit toute tendresse p
 >
 > S’il désire le combat ; refusons-le, car il veut se hâter et nous voulons tarder. »
 
-. au
-Le prince fit appeler le messager et lui parla lesgnement et doucement, disant :
+. au Le prince fit appeler le messager et lui parla lesgnement et doucement, disant :
 
 > Va et dis à mon frère : Ne sois pas si rude et si colère.
 
