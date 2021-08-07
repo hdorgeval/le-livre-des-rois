@@ -29,7 +29,7 @@ Quand Bahram les vit, il s’élança comme un ouragan ; le vaillant jeune homme
 
 Aucune ne frappait plus bas que l’autre de la largeur d’une aiguille, ni plus haut qu’elle.
 
-Tous ces hommes illustres allèrent voir ce fait et trouvèrent que les coups du cavalier n’avaient pasdévié d’un cheveu.
+Tous ces hommes illustres allèrent voir ce fait et trouvèrent que les coups du cavalier n’avaient pas dévié d’un cheveu.
 
 Mondhir et les vaillants cavaliers armés de lances chantèrent ses louanges.
 
