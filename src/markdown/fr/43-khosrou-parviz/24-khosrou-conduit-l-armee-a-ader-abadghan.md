@@ -71,7 +71,9 @@ Bendouî répondit :
 >
 > Depuis que tu as quitté l’Iran pour aller à Roum, il n’a jamais couché dans un pays cultivé.
 >
-> La tente et le désert sont sa demeure, ’et son palais est de feutre et de toile, mais il a beaucoup de troupes autour de lui, des armes comme un grand prince et un trésor d’argent. lls’est tenu sur cette route jusqu’à ce que tu sois rentré dans l’Iran, car son grand désir était de le voir revenir. »
+> La tente et le désert sont sa demeure, ’et son palais est de feutre et de toile, mais il a beaucoup de troupes autour de lui, des armes comme un grand prince et un trésor d’argent.
+>
+> Il s’est tenu sur cette route jusqu’à ce que tu sois rentré dans l’Iran, car son grand désir était de le voir revenir. »
 
 ’
 
