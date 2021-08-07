@@ -110,7 +110,7 @@ Aura une porte inaccessible dans la voûte de la chambre sépulcrale, qui s’é
 
 Dans cette chambre ou représentera ma cour, mes grands et ma vaillante armée ; on y étendru de nombreux tapis de toute espèce, on emploiera des couleurs et des parfums et tout ce qui doit être répandu sur la sol.
 
-Vous embaumerez le corps avec du camphre, vous placerez sur la tête une courenne de musc, vous apporterez du trésor cinq robes intactes en brocart d’or, qui n’aient jamais servi et vous m’en revêtirez selon la manière des Keïanides et la coutume des rois Sassanides.
+Vous embaumerez le corps avec du camphre, vous placerez sur la tête une couronne de musc, vous apporterez du trésor cinq robes intactes en brocart d’or, qui n’aient jamais servi et vous m’en revêtirez selon la manière des Keïanides et la coutume des rois Sassanides.
 
 Vous y placerez de même un trône d’ivoire, au-dessus duquel vous suspendrez ma couronne.
 
