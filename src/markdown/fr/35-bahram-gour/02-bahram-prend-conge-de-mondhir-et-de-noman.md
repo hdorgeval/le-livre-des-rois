@@ -18,15 +18,15 @@ order: '002'
 
 Le lendemain, lorsque le soleil parut, que les montagnes devinrent visibles et que le sommeil fut troublé, la foule des grands, dont Bahram était encore mécontent, se rendit auprès de Mondhir, pour qu’il intercédât en leur faveur auprès du roi et qu’il fit. pardonner leur faute, disant :
 
-> Nous avons agi ainsi ’à cause du mal qu’a fait Yezdeguerd, qui a glacé le sang dans le cœur des grands par ses nombreux méfaits, par ses paroles, par sesinjustices. par les afflictions et les outrages qu’il nous a fait éprouver et cela nous a refroidis pour Bahram, car nous avions en horreur son père.»
+> Nous avons agi ainsi ’à cause du mal qu’a fait Yezdeguerd, qui a glacé le sang dans le cœur des grands par ses nombreux méfaits, par ses paroles, par ses injustices. par les afflictions et les outrages qu’il nous a fait éprouver et cela nous a refroidis pour Bahram, car nous avions en horreur son père. »
 
 Mondhir alla chez le roi et l’adoucit par des paroles chaudes qu’il lui adressa et le roi pardonna même aux plus coupables, car il était généreux et juste, Bahram fit préparer la salle royale et tous les hommes bons et puissants s’y rendirent.
 
-Quand le lieu du pouvoirfut mis en ordre, on assigna des places à ceux qui y avaient droit.
+Quand le lieu du pouvoir fut mis en ordre, on assigna des places à ceux qui y avaient droit.
 
 Partout on dressa des tables et l’on fit venir du vin, de la musique et des chanteurs.
 
-Le lendemain vint une autre foule et il se passa un long temps avant qu’ellefût fatiguée de boire.
+Le lendemain vint une autre foule et il se passa un long temps avant qu’elle fût fatiguée de boire.
 
 Il y eut ainsi trois jours de fête, de vin et de banquets et le souci était loin du palais du roi du monde.
 
@@ -34,13 +34,12 @@ Le roi raconta tout ce que Noman et Mon-M7 dhir, ces deux hommes de race pure, a
 
 Plit son palais d’or et de brocart, de chevaux, de brides, de cuirasses de combat, de parfums et de pierreries de toutes couleurs et donna le tout à Noman et à Mondhir et Djouanouï alla leur en remettre la liste.
 
-Personne ulétait généreux comme lui et personne n’avait le pouvoir de résister à sa volonté.
+Personne était généreux comme lui et personne n’avait le pouvoir de résister à sa volonté.
 
 Il fit de même beaucoup de présents aux Arabes et ils partirent joyeusement du palais du roi. ’
 Ensuite, il fit amener un cheval et apporter une robe royale et un vêtement de Pehlewan et les donna à Khosrou, qu’il reçut gracieusement et fit asseoir sur un trône fortuné.
 
-Après Khosrou, il se tourna vers Nersi, descendit du trône et s’approcha de son siègez c’était son frère, ils n’avaient qu’un cœur et
-. une langue ; le jeune homme illustre était moins âgé que lui.
+Après Khosrou, il se tourna vers Nersi, descendit du trône et s’approcha de son siègez c’était son frère, ils n’avaient qu’un cœur et une langue ; le jeune homme illustre était moins âgé que lui.
 
 Il le nomma Pehlewan de l’armée, pour que le pays fût tenu en ordre et lui donna le commandement de toutes les troupes.
 
@@ -54,7 +53,7 @@ Les savants scribes allèrent dans les bureaux et s’adressèrent à Keïwan, a
 
 Ils additionnèrent tout ce qui était : dû dans l’empire et trouvèrent pour l’Iran quatre-vingt-treize millions de dirhems.
 
-I Bahram en lit la remise et jeta les registres au feu et le pays entier de l’Iran en fut heureux.
+I Bahram en fit la remise et jeta les registres au feu et le pays entier de l’Iran en fut heureux.
 
 Lorsqu’on en fut informé, tout le monde se mit à répandre des bénédictions sur le roi ; chacun se rendit dans les temples de feu et au palais ou l’on célébrait le nouvel an et la fête de Sedeh, jeta du musc sur le feu et invoqua les grâces de Dieu sur Bahram.
 
@@ -67,8 +66,8 @@ Bénissez tous ceux qui font prospérer le monde par la justice.
 Réfugiez-vous du monde en Dieu, car il est le maître, le secourable.
 
 Quiconque a la volonté de m’obéir et ne s’écarte pas de ma voie et de son pacte avec moi, je redoublerai de bontés envers lui et je rejetterai de mon cœur toute idée de haine et d’avidité ; mais quiconque a s’écarte de son devoir tombera sous mes châtiments. ’
-Si le Créateur me donne de la force, si la fortune exauce mes vœux, mes bienfaits augmenteront et vous célébrerez mes louanges.»
+Si le Créateur me donne de la force, si la fortune exauce mes vœux, mes bienfaits augmenteront et vous célébrerez mes louanges. »
 
 Tous les hommes du pays d’Iran qui entendirent ces paroles partirent satisfaits et avec le désir de suivre le vrai chemin ; lorsquela royauté de Bahram fut solidement établie, le contentement augmenta et les soucis diminuèrent.
 
-Lui-même ne s’occupait que de l’êtes et de chasses, de monter à cheval, d’aller au Meîdan et de jouer à la raquette et à la balle.
+Lui-même ne s’occupait que de fêtes et de chasses, de monter à cheval, d’aller au Meîdan et de jouer à la raquette et à la balle.
