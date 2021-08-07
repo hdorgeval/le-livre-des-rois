@@ -25,29 +25,30 @@ Aussitôt que le Pehlewan eut reçut cet ordre, il alla chez le roi à l’âme 
 Yezdegird le combla de louanges en disant :
 
 > Ô descendant des rois de la terre, guerrier au corps d’éléphant et aux griffes de lion, tu te rends maître du crocodile terrible et quand tu saisis ton épée, au jour du combat, tu abats les têtes les plus fières.
+>
+> J’ai appris qu’une armée innombrable d’Arabes, au visage noir comme la poix, est entrée dans notre pays pour y porter la guerre, quoique ces gens là ne possèdent ni trésor ni roi.
+>
+> Leur chef est Saad, fils de Wakkas, un homme avide de pouvoir et de richesses.
+>
+> Je t’ai confié, ô Pehlewan dé-.Q n voué, le drapeau de l’empire, un trésor et une armée.
+>
+> Organise les troupes, prépare tout pour la lutte et ne perds pas un instant.
+>
+> Quand tu seras parti d’ici pour chercher le combat et lorsque les armées seront en face l’une de l’autre, observe toi-même ces Arabes et songe à tout ce qui peut nous êtretavantageux ou nuisible. »
 
-J’ai appris qu’une armée innombrable d’Arabes, au visage noir comme la poix, est entrée dans notre pays pour y porter la guerre, quoique ces genslà ne possèdent ni trésor ni roi.
-
-Leur chef est Saad, fils de Wakkas, un homme avide de pouvoir et de richesses.
-
-Je t’ai confié, ô Pehlewan dé- .Q
- n voué, le drapeau de l’empire, un trésor et une armée.
-
-Organise les troupes, prépare tout pour la lutte et ne perds pas un instant.
-
-Quand tu seras parti d’ici pour chercher le combat et lorsque les armées seront en face l’une de l’autre, observe toi- même ces Arabes et songe à tout ce qui peut nous êtretavantageux ou nuisibleun Rustem répondit :
+Rustem répondit :
 
 > Je suis ton serviteur, me voici devant toi, attentif à tes ordres.
 >
-> Je trancherai la tête des ennemis du roi. je réduirai à l’impuissance l’esprit des malveillants.»
+> Je trancherai la tête des ennemis du roi. je réduirai à l’impuissance l’esprit des malveillants. »
 
 Puis, il baisa la terre et s’éloigna.
 
 Il passa toute la nuit plongé dans ses réflexions ; lorsque le soleil brillant se montra, Rustem, avide de combats, partit en toute hâte, emmenant sous ses ordres les hommes les plus nobles et tous ceux qui étaient prudents et Trente mois s’écoulèrent de la sorte.
 
-Lorsqu’on braVes. , voulut livrer bataille devant Kadesiah, Rustem, qui était un savant astrologue, plein de justice et de bienveillance, comprit le danger et dit :
+Lorsqu’on braVes., voulut livrer bataille devant Kadesiah, Rustem, qui était un savant astrologue, plein de justice et de bienveillance, comprit le danger et dit :
 
-> Ce combat n’est pas opportun, ce n’est pas dans ce lit que coule le fleuve des rois.»
+> Ce combat n’est pas opportun, ce n’est pas dans ce lit que coule le fleuve des rois. »
 
 Il apporta un astrolabe, et, après avoir observé les astres, il prit sa tête dans ses mains en voyant venir le jour du désastre.
 
@@ -68,14 +69,17 @@ Je lis dans l’avenir, mais je dois garder le silence.
 
 Je pleure amèrement sur les Iraniens et je suis consumé par le feu de la douleur quand je pense aux Sâsânides.
 
-Hélasl cette couronne, ce trône, cette justice !
+Hélas !
 
-Hélasl cette puissance, cette gloire, cette a dynastie illustre, tout cela va être brisé par les Arabes ; car les astres ne tourneront que pour notre perte, et, pendant une durée de quatre cents ans, aucun héritier de notre race ne sera maître du monde !
+Cette couronne, ce trône, cette justice !
 
-Il est arrivé auprès de moi un envoyé des Arabes , et j’ai discuté avec lui toutes sortes de questions dans le conseil.
+Hélas !
 
-Il a dit ; Nous abandonnerons au roi tout le pays entre Kadesiah et le fleuve ; 
- mais on ouvrira un chemin sur l’autre rive jusqu’à une ville pourvue d’un marché, afin que nous puissions y faire le commerce.
+Cette puissance, cette gloire, cette a dynastie illustre, tout cela va être brisé par les Arabes ; car les astres ne tourneront que pour notre perte, et, pendant une durée de quatre cents ans, aucun héritier de notre race ne sera maître du monde !
+
+Il est arrivé auprès de moi un envoyé des Arabes et j’ai discuté avec lui toutes sortes de questions dans le conseil.
+
+Il a dit ; Nous abandonnerons au roi tout le pays entre Kadesiah et le fleuve ; mais on ouvrira un chemin sur l’autre rive jusqu’à une ville pourvue d’un marché, afin que nous puissions y faire le commerce.
 
 Nous ne demandons rien de plus.
 
@@ -89,11 +93,13 @@ Envahissemau de frontières et de routes, succès et revers, tout sera décidé 
 
 Après avoir lu cette lettre, ne repousse pas les conseils de la raison, travaille et agis de concert avec les grands de l’Empire.
 
-Rassemble tout ce qu’il y a de richesses, d’esclaves et de meubles précieux ; va en toute hâte dans l’Aderbaîdjan auprès des chefs et des nobles ; remets toutce que tu possèdes en chevaux aux mains du trésorier d’Aderguschasp.
+Rassemble tout ce qu’il y a de richesses, d’esclaves et de meubles précieux ; va en toute hâte dans l’Azerbaïdjan auprès des chefs et des nobles ; remets toutce que tu possèdes en chevaux aux mains du trésorier d’Aderguschasp.
 
-Si des troupes viennent du Zaboulistan et de l’Iran se mettre sous ta protection, accueille- les, habille-les et sois bon pour elles.
+Si des troupes viennent du Zaboulistan et de l’Iran se mettre sous ta protection, accueille-les, habille-les et sois bon pour elles.
 
-Méfie-toi des évolutions du ciel qui tourne ; c’est lui qui nous fait passer de la joie à la douleur et qui tantôt nous élève et tantôt nous abaisse. lnstruis ma mère de tout ce que je t’écris, car elle ne me reverra plus ; porte-lui mes adieux, prodigue-lui mes conseils, afin qu’elle ne soit pas atteinte par le malheur.
+Méfie-toi des évolutions du ciel qui tourne ; c’est lui qui nous fait passer de la joie à la douleur et qui tantôt nous élève et tantôt nous abaisse.
+
+Instruis ma mère de tout ce que je t’écris, car elle ne me reverra plus ; porte-lui mes adieux, prodigue-lui mes conseils, afin qu’elle ne soit pas atteinte par le malheur.
 
 Si, plus tard, tu reçois de ma part guelque triste nouvelle, n’en conçois pas un chagrin excessif ; n’oublie pas que les trésors amassés dans cette demeure périssable ne sont que peines et néant.
 
@@ -132,18 +138,19 @@ Il n’y aura plus de trône ni de couronnes, plus de brodequins dorés ni de pi
 
 Aux uns la fatigue, aux autres les jouissances ; on ne s’inquiétera ni de justice ni de générosité.
 
-A la faveur de la nuit, un ennemi vigilant envahira la l ll y a ici sans doute une allusion à la dynastie des Abbassides, dont le noir était la couleur officielle. 
- !
+À la faveur de la nuit, un ennemi vigilant envahira la !
+
+Ll y a ici sans doute une allusion à la dynastie des Abbassides, dont le noir était la couleur officielle. !
 
 Demeure de celui qui se cache.
 
-Un étranger deviendra le maître des jours et des. nuits, il ceindra la ceinture royale et se coiil’era de la tiare.
+Un étranger deviendra le maître des jours et des. nuits, il ceindra la ceinture royale et se coiffera de la tiare.
 
 On ne respectera ni la foi des serments ni la loyauté ; la fausseté et le mensonge seront en honneur.
 
 Les guerriers seront des fantassins ; il n’y aura plus qu’insultes et moqueries pour les cavaliers ; le laboureur hardi au combat tombera en discrédit ; la naissance et la race ne porteront plus de fruits.
 
-Celui-ci dépouillera celuilà et réciproquement.
+Celui-ci dépouillera celui-là et réciproquement.
 
 On ne distinguera plus les bénédictions des blasphèmes et la dissimulation prévaudra sur la franchise.
 
@@ -158,10 +165,9 @@ Il s’élèvera une .race mélangée d’Iraniens, de Turcs et d’Arabes ; il 
 
 Chacun enfouira son trésor, et, à sa mort, le fruit de ses fatigues enrichira ses ennemis.
 
-Les savants et les i dévots profiteront de leur crédit pour faire des dupes ; le chagrin, la souffrance, les divisions régneront partout, comme régnait la joie au temps de Baliram Gour.
+Les savants et les dévots profiteront de leur crédit pour faire des dupes ; le chagrin, la souffrance, les divisions régneront partout, comme régnait la joie au temps de Baliram Gour.
 
-Plus de fêtes ni de plaisir, plus (le travail ni de sécurité ; partout la ruse, la trom- 
- perie, les piègea.
+Plus de fêtes ni de plaisir, plus de travail ni de sécurité ; partout la ruse, la trom- perie, les piègea.
 
 La fureur de l’argent divisera les pères et les enfants, on se nourrira de lait aigre, on portera des manteaux de camelot.
 
@@ -185,6 +191,8 @@ Quant à toi, ô mon frère. puisses-tu vivre pour consoler le cœur du roi d’
 
 Tels sont les mystères du ciel sublime ; mais n’enchaîne pas ton cœur à la douleur d’un frère ; ne’quitte pas des yeux le roi du monde et sacrifie ta vie sur le champ de bataille.
 
-Ils arrivent vite les jours d’Ahriman, lorsque la sphère qui tourne devient une ennemie.»
+Ils arrivent vite les jours d’Ahriman, lorsque la sphère qui tourne devient une ennemie. »
 
-Après avoir scellé sa lettre, il ajouta : Puisse la bé- nédiction du ciel accompagner le courrier qui portera ce message à mon frère et ne lui dira que ce qu’il convient de dire !»
+Après avoir scellé sa lettre, il ajouta :
+
+> Puisse la bénédiction du ciel accompagner le courrier qui portera ce message à mon frère et ne lui dira que ce qu’il convient de dire ! »
