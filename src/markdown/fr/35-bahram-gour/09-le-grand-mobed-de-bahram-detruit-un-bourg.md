@@ -18,13 +18,13 @@ order: '009'
 
 Un autre jour le roi alla avec’son cortège, de grand matin, dans la plaine pour chasser ; à sa gauche était Hormuz, son vizir, à sa droite le Grand Mobed, homme de bon conseil, qui lui récitèrent des histoires et parlèrent de Djemschid et de Ferij doun et au-devant étaient les chiens, les guépards, les gerfauts et les faucons.
 
-Il courut sur la plaine pendant une longue journée ; mais quand le soleil fut arrivé au haut de la voûte du ciel, sans qu’on eût aperçu la trace d’un onagre ou d’une gazelle, le roi commença à’souffrir de l’ardeur du soleil et quitta le lieu de la chasse en mauvaise humeur.
+Il courut sur la plaine pendant une longue journée ; mais quand le soleil fut arrivé au haut de la voûte du ciel, sans qu’on eût aperçu la trace d’un onagre ou d’une gazelle, le roi commença à souffrir de l’ardeur du soleil et quitta le lieu de la chasse en mauvaise humeur.
 
 Il arrivavà un lieu plein de verdure, de maisons, d’hommes et de bestiaux ; c’était un lieu cultivé et gai, un lieu où se reposer et oublier les soucis.
 
 Un grand nombre des gens du bourg étaient allés sur la route et au-devant de l’escorte pour regarder et le roi du monde, qui avait chaud et était en colère, avait envie de mettre pied à terre dans ce bourg ; mais aucun des habitants ne présenta ses hommages et l’on aurait dit que ces ânes étaient enchaînés au sol.
 
-Le roi fut irrité contre ces gens ; il jeta sur r [n eux des regards peu bienveillants et dit au Mobed :
+Le roi fut irrité contre ces gens ; il jeta sur [n eux des regards peu bienveillants et dit au Mobed :
 
 > Puisse un endroit qui a une aussi mauvaise étoile devenir le repaire des bêtes fauves et du gibier !
 
@@ -32,21 +32,23 @@ Puisse l’eau dans le ruisseau de ces gens devenir de la poix In Le Mobed compr
 
 Aussitôt qu’il y fut arrivé. il convoqua tous les notables de l’endroit et leur dit :
 
-> Écoutez le message du roi et ne vous écartez en rien de ses paroles.»
+> Écoutez le message du roi et ne vous écartez en rien de ses paroles. »
 
-Puis, il confirma : Ce lieu’ plein de verdure, de fruits, d’hommes et de bestiaux, a plu à Bahram, roi des rois et il a conçu une bonne idée dans votre intérêt.
+Puis, il confirma :
 
-Il vous nomme tous seigneurs, pour faire une ville de ce beau bourg.
-
-Ainsi tous ici, femmes et enfants, vous êtes des seigneurs, et’n’avez plus à obéir à personne, il n’y a plus ni salarié ni maître et tous doivent se tenir peur égaux.
-
-Vous tous, femmesr et enfants, êtes des seigneurs et tous et chacunde vous êtes maîtres du bourg.»
+> Ce lieu’ plein de verdure, de fruits, d’hommes et de bestiaux, a plu à Bahram, roi des rois et il a conçu une bonne idée dans votre intérêt.
+>
+> Il vous nomme tous seigneurs, pour faire une ville de ce beau bourg.
+>
+> Ainsi tous ici, femmes et enfants, vous êtes des seigneurs, et’n’avez plus à obéir à personne, il n’y a plus ni salarié ni maître et tous doivent se tenir peur égaux.
+>
+> Vous tous, femmesr et enfants, êtes des seigneurs et tous et chacunde vous êtes maîtres du bourg. »
 
 Il s’éleva de ce riche bourg des cris de joie de ce que tous étaient devenus seigneurs, et, à partir de ce moment, les hommes et les femmes avaient une autorité égale et les serviteurs et gens à gages étaient les égauæ desmaltres.
 
 Les jeunes gens du village, qui n’étaient plus con : tenus par la crainte, coupèrent la tête aux anciens seigneurs.
 
-Tous s’entr’attaquèrent et se tuèrent dans les lieux écartés.
+Tous s’entre-attaquèrent et se tuèrent dans les lieux écartés.
 
 Lorsque ; ce bouleversement eut en-
 
@@ -57,7 +59,7 @@ Une année se passa, le printemps revint et le roi se dirigea de ce côté pour 
 
 Il arriva à ce lieu jadis gai et cultivé, il regarda et vit que’rién n’était debout ; les arbres étaient desséchés, les maisons désertes, tout le pays sans hommes et sans bestiaux.
 
-A cet aspect la joue du roi Bahram pâlit ; il eut peur de Dieu et fut plein de douleur.
+À cet aspect la joue du roi Bahram pâlit ; il eut peur de Dieu et fut plein de douleur.
 
 Il dit au Mobed :
 
@@ -65,13 +67,13 @@ Il dit au Mobed :
 >
 > Va vite et repeuple-le à l’aide de mon trésor.
 >
-> Fais en sorte que ces gens prospèrent dorénavant.»
+> Fais en sorte que ces gens prospèrent dorénavant. »
 
 Le Mobed quitta le. roi des rois et se rendit en toute hâte à cet endroit désolé ; il alla de rue en rue et trouva à la fin un vieillard désœuvré.
 
 Il descendit de cheval, aborda poliment le vieillard, le fit asseoir à côté de lui et dit :
 
-> Ô mon vieux maître, qui donc a rendu désert ce lieu qui était si peuplé?»
+> Ô mon vieux maître, qui donc a rendu désert ce lieu qui était si peuplé ? »
 
 Il répondit :
 
@@ -99,7 +101,7 @@ Rouzbeh lui dit :
 >
 > Ne maudis pas ce vieux Mobed, ce n’est pas avec intention qu’il a tenu ce langage.
 >
-> Si tu as besoind’un homme de la cour pour t’appuyer, je t’en enverrai un ; demande toute chose dont tu auras besoin.»
+> Si tu as besoind’un homme de la cour pour t’appuyer, je t’en enverrai un ; demande toute chose dont tu auras besoin. »
 
 Ces paroles réjouirent le vieillard ; il fut délivré de ses longs soucis ; il rentra à l’instant dans sa maison et amena des hommes la où il y avait des réservoirs d’eau ; il s’applique à repeupler le pays et à distribuer les champs.
 
@@ -116,10 +118,9 @@ les ânes et les moutons multiplièrent chez tous les cultivateurs ; chacun plan
 
 La troisième année le chef mit en ordre le bourg ; tout ce qu’il avait semé prospérait selon ses désirs et lorsque le gai printemps fut arrivé dans sa saison, le roi se dirigea vers cette plaine pour chasser, accompagné de son Grand Mobed Rouzbeh.
 
-Quand ils furent tous les deux près du bourg, le brillant roi Bahram Gour regarda autour de lui et vit la terre pleine de champs cultivés et de bestiaux, de grandes maisons qu’on avait élevées, le bourg rempli de vaches et de moutons, partout des jardins et de l’eau, des champs ensemencés et du blé qui poussait, toute la plaine diaprée de tulipes et de fenugrec et des brebis et des agneaux dispersés sur la montagne ; enfin tout le pays était devenu un paradis. 1
- 1 : Bahram dit au Mobed :
+Quand ils furent tous les deux près du bourg, le brillant roi Bahram Gour regarda autour de lui et vit la terre pleine de champs cultivés et de bestiaux, de grandes maisons qu’on avait élevées, le bourg rempli de vaches et de moutons, partout des jardins et de l’eau, des champs ensemencés et du blé qui poussait, toute la plaine diaprée de tulipes et de fenugrec et des brebis et des agneaux dispersés sur la montagne ; enfin tout le pays était devenu un paradis. 1 1 : Bahram dit au Mobed :
 
-> Ô Rouzbehl qu’astu fait pour rendre désert ce bourg plein de verdure et pour disperser les hommes et les troupeaux et qu’as-tu donné maintenant pour le rétablir h Le Mobed répondit :
+> Ô Rouzbehl qu’astu fait pour rendre désert ce bourg plein de verdure et pour disperser les hommes et les troupeaux et qu’as-tu donné maintenant pour le rétablir Le Mobed répondit :
 
 > C’est par un seul mot que ce grand et vieux endroit est tombé et de même une seule idée l’a peuplé de nouveau, de manière à réjouir le cœur du roi d’Iran.
 >
@@ -150,7 +151,7 @@ Plus tard le roi leur a pardonné, j’y suis allé et leur ai montré une autre
 >
 > La parole vaut plus que des joyaux dignes d’un roi, si on l’emploie à sa véritable place.
 >
-> Il faut que le jugement soit roi et que la langue soit son Pehlewan, si l’on veut que l’esprit échappe au chagrin.»
+> Il faut que le jugement soit roi et que la langue soit son Pehlewan, si l’on veut que l’esprit échappe au chagrin. »
 
 Le roi lui dit :
 
