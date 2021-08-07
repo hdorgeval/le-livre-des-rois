@@ -34,7 +34,7 @@ Il s’adressa aux grands, en commençant ainsi :
 
 Il gouverna pendant une année avec justice et avec sagesse, se montra intelligent et n’eut à souffrir d’aucun malheur.
 
-L’année suivante la face du ciel se dessécha et la sécheresse rendit l’eau dans les ruisseaux noire comme le musc ; la troisième année il en fut de même et de même la quatrième : tout le monde était en détresse par ce manque d’eau.
+L’année suivante la face du ciel se dessécha et la sécheresse rendit l’eau dans les ruisseaux noire comme le musc ; la troisième année, il en fut de même et de même la quatrième : tout le monde était en détresse par ce manque d’eau.
 
 La bouche de l’air était sèche comme la poussière ; l’eau dans les ruisseaux était rare comme la thériaque et il mourut tant d’hommes et d’animaux qu’on ne savait plus où poser le pied sur la terre.
 
