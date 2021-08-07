@@ -33,21 +33,21 @@ Lorsque Balasch aperçut Kobad libre de ses chaînes, victorieux et dans le bonh
 
 Ils quittèrent la route et entrèrent dans le palais, le cœur navré et rempli du désir de se venger.
 
-Balasch fit apprêter des tables, chercher du vin, de la musique et des chanteurs ; mais la fête n’était pas gaie, à cause des regrets qu’impirait la mort de Pirouz, ce roi au noble caractère.
+Balasch fit apprêter des tables, chercher du vin, de la musique et des chanteurs ; mais la fête n’était pas gaie, à cause des regrets qu’inspirait la mort de Pirouz, ce roi au noble caractère.
 
-Tous les chanteurs célébraient Souferaï, tous s’accompagnaient du luth en chantant la guerre du Touran ; tous les grands tenaient les yeux sur Souferaî, qui leur avait rendu le bonheur et la confiance.
+Tous les chanteurs célébraient Souferaï, tous s’accompagnaient du luth en chantant la guerre du Touran ; tous les grands tenaient les yeux sur Souferaï, qui leur avait rendu le bonheur et la confiance.
 
 Toutes les affaires de l’Iran étaient rétablies par lui et quiconque avait gardé une rancune contre Khouschnewaz avait, par les. hauts faits du Pehlewan, le cœur en joie et l’esprit libre de Souferaï était alors sans égal dans le monde et soucis. ’
 quatre années se passèrent de cette manière ; rien
 
-9k LE LIVRE DESt ne se faisait. que selon sa volonté et il arrangeait le monde selon ses idées.
+9k DESt ne se faisait. que selon sa volonté et il arrangeait le monde selon ses idées.
 
 Lorsque son pouvoir fut reconnu par tous, il écarta sans violence Balasch du trône, en lui disant :
 
 > Tu ne sais pas être roi tu ne distingues pas les bons des méchants, tu te l’ais un jeu de la royauté par perversité et de gaieté de cœur.
 >
-> Kobad s’entend mieux aux affaires que toi, il est plus en état que toi de conduire ce royaume.»
+> Kobad s’entend mieux aux affaires que toi, il est plus en état que toi de conduire ce royaume. »
 
 Balasch se rendit à son palais privé ; il n’osait pas chasser Souferaï et se contenta de dire :
 
-> Voici un trône que j’occuperai sans peine, car il n’exige pas de travail, ne cause pas de douleur et n’amène pas de malédictions.»
+> Voici un trône que j’occuperai sans peine, car il n’exige pas de travail, ne cause pas de douleur et n’amène pas de malédictions. »
