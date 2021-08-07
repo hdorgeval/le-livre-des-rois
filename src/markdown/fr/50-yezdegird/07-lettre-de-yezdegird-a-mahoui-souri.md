@@ -24,21 +24,25 @@ Après avoir glorifié le Créateur, le maître sage et bienfaisant, le souverai
 
 > Le malheur a surgi devant nous, notre royaume a perdu sa force et sa splendeur.
 >
-> La douleur a rendu le monde étroit pour nous. depuis que Buslem a péri sur le champ de .
+> La douleur a rendu le monde étroit pour nous. depuis que Rustem a péri sur le champ de .
 >
 > bataille, de la main d’un certain Saad, fils de Wakkas, homme sans patrie ni famille, sans sagesse ni pouvoir.
 >
 > Tandis que l’armée des Arabes est aux portes de Thisifoun et que les vallons et les forêts nous en séparent, marche au combat avec les troupes et rallie le peuple à ma cause.
 >
-> Moi-même je suivrai de près cette lettre et j’arriverai, rapide comme le veut, auprès de toi, ô fils d’une race pure. a Il choisit ensuite dans son entourage un messager, homme intelligent’et de bon conseil ; le cœur gonflé de sang, le visage blême comme la sandaraque, il écrivit cette autre lettre à Thous : Gloire et louange au souverain juge qui dispense le pouvoir, le trône et la valeur, au maître de la victoire, de la majesté et de la couronne] Tout, depuis la palle de l’insecte jusqu’à l’aile rapide de l’aigle, l’éléphant sur la terre, le crocodile dans les eaux, tout est soumis à sa volonté et à ses lois et ne respire qu’avec sa permission.
+> Moi-même je suivrai de près cette lettre et j’arriverai, rapide comme le veut, auprès de toi, ô fils d’une race pure. »
+
+Il choisit ensuite dans son entourage un messager, homme intelligent’et de bon conseil ; le cœur gonflé de sang, le visage blême comme la sandaraque, il écrivit cette autre lettre à Thous :
+
+> Gloire et louange au souverain juge qui dispense le pouvoir, le trône et la valeur, au maître de la victoire, de la majesté et de la couronne] Tout, depuis la palle de l’insecte jusqu’à l’aile rapide de l’aigle, l’éléphant sur la terre, le crocodile dans les eaux, tout est soumis à sa volonté et à ses lois et ne respire qu’avec sa permission.
 >
 > De la part du roi de la terre, Yezdegird le Grand, fils d’un père illustre, monarque puissant, chef victorieux des armées de l’Iran, souverain et arbitre du monde, rejeton d’une race glorieuse, fidèle au culte de Dieu et couronnée par la faveur des astres, d’une race qui a rendu le monde prospère et qui a fait briller la couronne, le trône et le sceau royal, de la part de Y ezdegird, aux Merzebans qui règnent glorieusement et selon la ’ justice sur les pays et les peuples de Scheiniran, Ilouïndiz, Radeh Kouh et Kelat.
 >
 > Que Dieu soit notre appui, qu’il vous protège contre les atteintes du sort !
 >
-> C’est. une chose bien connue des chefs illustres et répandue dans le monde entier que notre cœur a toujours été plein de sollicitude, de bienveillance et de justice pour la valeur militaire et la haute naissance.
+> C’est une chose bien connue des chefs illustres et répandue dans le monde entier que notre cœur a toujours été plein de sollicitude, de bienveillance et de justice pour la valeur militaire et la haute naissance.
 >
-> Mais, j’en atteste votre no- blesse pure, les rois recueillent plus de fatigues et de peines que de trésors.
+> Mais, j’en atteste votre noblesse pure, les rois recueillent plus de fatigues et de peines que de trésors.
 >
 > Lorsque Bahram Djoubîn se mit’en révolte contre la puissance et la couronne du roi, vous avez aussitôt abandonné vos cités spacieuses, vos jardins, vos Meïdans et vos palais ; pour échapper aux atteintes de ce misérable, vous avez séjourné au fond des vallées et sur les hautes montagnes.
 >
@@ -50,8 +54,7 @@ Après avoir glorifié le Créateur, le maître sage et bienfaisant, le souverai
 >
 > Le royaume a été abandonné à ces misérables Arabes, semblables à des
 >
-> 
-corbeaux, sans intelligence ni savoir, sans nom ni honneur.
+> corbeaux, sans intelligence ni savoir, sans nom ni honneur.
 >
 > Nouschirwan l’avait vu en songe : la splendeur du trône s’évanouissait, .cent mille Arabes, semblables à des chameaux furieux qui ont rompu leurs entraves, passaient le fleuve Arwend
 (le Tigre) et une fumée noire montait jusqu’à la sphère de Saturne.
@@ -60,13 +63,13 @@ corbeaux, sans intelligence ni savoir, sans nom ni honneur.
 >
 > L’accomplissement de ce songe se révèle aujourd’hui : le ciel inconstant s’éloigne de nous, tout ce qui était grand est humilié et la destinée des plus humbles s’élève ; le mal se répand dans le monde, la misère devient manifeste et le bonheur disparaît.
 >
-> Chaque pays voit surgir un c tyran, démon malfaisant et hideux ; les signes d’une nuit profonde apparaissent et la lumière brillante est prête à s’éteindre.
+> Chaque pays voit surgir un tyran, démon malfaisant et hideux ; les signes d’une nuit profonde apparaissent et la lumière brillante est prête à s’éteindre.
 >
 > Quant à nous, avec l’aide de nos alliés les Pehlewans à l’intelligence pure, nous nous dirigeons vers le Khorasan, auprès des Merzebans belliqueux, pour attendre la décision de la destinée aux volontés inconstantes.
 >
 > Nous avons à cet effet réuni ici nos éléphantset nos tambours pour le maître de Thous.
 >
-> Farrukhzad, cet ami intime dont le dévouement ne s’est jamais démenti, est allé cher- cher le combat à Altounieh et il se mesure contre nos ennemis.
+> Farrukhzad, cet ami intime dont le dévouement ne s’est jamais démenti, est allé chercher le combat à Altounieh et il se mesure contre nos ennemis.
 >
 > Keschemegan, le fils de cet homme généreux, est venu nous trouver dans notre camp ; il nous a tenu un langage respectueux, comme il convient à un serviteur fidèle.
 >
@@ -81,10 +84,11 @@ corbeaux, sans intelligence ni savoir, sans nom ni honneur.
 >
 > Nous avons tenu conseil après avoir convoqué les Pehlewans ; sa suite d’une longue délibération, nous sommes tombés d’accord sur ce qui suit.
 >
-> On emportera la couronne, le trône, le sceau et l’anneau royal, les tuniques du Roum, du Cachemire et de la Chine, les objets précieux qui sont entre nos mains, comme les produits du Roum et de Thaïef, les brocarts d’or, les étoffes en pièces et tout ce qui mérite d’être emporté, enfin les vivres et provisions nécessaires pour les jours de détresse. r Quarante mille bœufs attelés à des chariots porteront un approvisionnement suffisant de sésame,
+> On emportera la couronne, le trône, le sceau et l’anneau royal, les tuniques du Roum, du Cachemire et de la Chine, les objets précieux qui sont entre nos mains, comme les produits du Roum et de Thaïef, les brocarts d’or, les étoffes en pièces et tout ce qui mérite d’être emporté, enfin les vivres et provisions nécessaires pour les jours de détresse.
 >
-> 
-auquel on joindra douze mille charges de blé en gerbes.
+> Quarante mille bœufs attelés à des chariots porteront un approvisionnement suffisant de sésame,
+>
+> auquel on joindra douze mille charges de blé en gerbes.
 >
 > Un Mobed prudent apportera le millet, les pistaches, les grenades ; deux mille charges de chacune de ces productions seront charriées par des chameaux originaires de la Bactriane.
 >
@@ -98,10 +102,11 @@ auquel on joindra douze mille charges de blé en gerbes.
 >
 > Il faut que les vallées et les montagnes soient à l’abri des incursions des Turcs et viles Arabes ; dans ces temps difficiles, vous pouvez nous rendre de grands services.
 >
-> Notre sage et éloquent Destour donnera des instructions à notre trésorier pour qu’il remette à tous ceux qui braveront ces dangers cinq tuniques d’étoffe de Perse et qu’ils reçoivent en outre un turban brodé d’or, lorsque la guerre sera terminée. 
- Dans ces jours désastreux et sombres, tous ceux qui serviront avec fidélité notre cause recevront, en’surcrolt de leur solde de service, un de ces dir-Items qui valent soixante dirhems du poids de dix daugs, sur lesquels on lit cette inscription, d’un côté : Au nom du Dieu par qui donne l’espérance et la crainte !»
+> Notre sage et éloquent Destour donnera des instructions à notre trésorier pour qu’il remette à tous ceux qui braveront ces dangers cinq tuniques d’étoffe de Perse et qu’ils reçoivent en outre un turban brodé d’or, lorsque la guerre sera terminée.
+>
+> Dans ces jours désastreux et sombres, tous ceux qui serviront avec fidélité notre cause recevront, en surcrolt de leur solde de service, un de ces dir-Items qui valent soixante dirhems du poids de dix daugs, sur lesquels on lit cette inscription, d’un côté : Au nom du Dieu par qui donne l’espérance et la crainte ! »
 
-De l’autre, autour de notre effigie couronnée : C’est notre amour qui féconde la terre.»
+De l’autre, autour de notre effigie couronnée : C’est notre amour qui féconde la terre. »
 
 Tout cela sera réglé au Newrouz et au Mihregan, ces deux fêtes pleines de solennité et de magnificence.
 
