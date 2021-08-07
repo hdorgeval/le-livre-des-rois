@@ -1171,6 +1171,14 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/devTurcs/, 'de Turcs'),
     (content: string) => content.replace(/onagrc/, 'onagre'),
     (content: string) => content.replace(/filsln’L/, 'fils ! »'),
+    (content: string) => content.replace(/Kéhoesro/, 'Khosrou'),
+    (content: string) => content.replace(/lls’est/, 'Il s’est'),
+    (content: string) => content.replace(/aunbanquet/, 'à un banquet'),
+    (content: string) => content.replace(/rrpuis/, 'puis'),
+    (content: string) => content.replace(/omnisoient/, 'omniscient'),
+    (content: string) => content.replace(/tnourris/, 'nourris'),
+    (content: string) => content.replace(/heumuse/, 'heureuse'),
+    (content: string) => content.replace(/mieessanger/, 'messager'),
   ].forEach((format) => {
     result = format(result);
   });
