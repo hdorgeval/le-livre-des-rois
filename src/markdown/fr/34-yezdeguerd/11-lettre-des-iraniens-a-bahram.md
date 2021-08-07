@@ -18,11 +18,13 @@ order: '011'
 
 Lorsque les Iraniens apprirent la nouvelle de ce qui se passait, ils se hâtèrent tous de chercher un remède ; tous étaient effrayés du danger et s’assirent ensemble en assemblée plénière, disant :
 
-> Ces attaques du côté du Roum, de l’Inde et des cavaliers du désert dépassent la mesuré ; il faut trouver un moyen desdélivrer nos cœurs et nos âmes de cette peine.»
+> Ces attaques du côté du Roum, de l’Inde et des cavaliers du désert dépassent la mesuré ; il faut trouver un moyen de délivrer nos cœurs et nos âmes de cette peine. »
 
 Ils choisirent sur-le-champ un messager, un Perse éloquent et ayant l’esprit ouvert ; le nom de ce brave était Djouanouï : c’était un homme lettré, puissant et parlant bien.
 
-On le chargea de se rendre auprès de Mondhir, de lui parler et d’é : conter sa réponse.
+On le chargea de se rendre auprès de Mondhir, de lui parler et d’é :
+
+> conter sa réponse.
 
 Il devait lui dire :
 
@@ -42,13 +44,13 @@ Il devait lui dire :
 >
 > Il y a encore un autre maître que toi, au--5 quel ne peut atteindre la pensée des esprits les plus grands.
 >
-> Le messager te dira tout ce qu’il a vu et ce qu’il a entendu des hommes expérimentés.»
+> Le messager te dira tout ce qu’il a vu et ce qu’il a entendu des hommes expérimentés. »
 
 Djouanouï quitta les chefs de l’Iran et partit pour le désert des cavaliers armés de lances. il parla à Mondhir, lui remit la lettre et lui répéta les paroles des Iraniens.
 
 Le roi des Arabes l’écouta, mais refusa de lui répondre, disant :
 
-> Ô homme sage, qui cherches le vrai chemin, dis tout cela au roi des rois ; répète ce que tu m’as dit au roi Bahram et si tu veux une réponse, il t’indiquera la vraie route.»
+> Ô homme sage, qui cherches le vrai chemin, dis tout cela au roi des rois ; répète ce que tu m’as dit au roi Bahram et si tu veux une réponse, il t’indiquera la vraie route. »
 
 Il envoya un homme illustre avec Djouanouï, qui se rendit à la porte de Bahram.
 
@@ -64,14 +66,16 @@ Lorsque l’assurance lui fut revenue, le roi lui demanda :
 
 > Pourquoi as-tu entrepris la fatigue d’un voyage de rel’Iran ?
 >
-> Plus tard tu en recevras de moi la récomnpense et je remplirai ton trésor.»
+> Plus tard tu en recevras de moi la récomnpense et je remplirai ton trésor. »
 
-V..
+V.
 
 A -
 Alors le messager lui dit tout, lui remit la lettre et s’acquitta du message qu’il apportait.
 
-Bahram envoya avec lui un homme intelligent pour le ramener chez Mondhir, à qui il devait dire d’écrire la réponse à cette lettre et de la faire dans des termes qui portaient bonheur ; puis il ajouta : F ais attentiou au message dont il te chargera et donne-lui une réponse complète.»
+Bahram envoya avec lui un homme intelligent pour le ramener chez Mondhir, à qui il devait dire d’écrire la réponse à cette lettre et de la faire dans des termes qui portaient bonheur ; puis il ajouta :
+
+> F ais attention au message dont il te chargera et donne-lui une réponse complète. »
 
 Djouanouï partit et parla à Mondhir, dont la joue s’épanouit quand il vit la sagesse de’Bahram.
 
@@ -81,13 +85,13 @@ Ayant écouté le message, il se mit à écrire la réponse à la lettre et dit 
 >
 > Quiconque fait le mal en porte la peine.
 >
-> J’ai écouté tout ce qu’on t’a chargé de dire et les salutations que tu m’as apteportées de la part des grands de l’Iran.’ Dis qui a commencé ce mal, à qui il a plu d’entreprendre une lutte insensée ?
+> J’ai écouté tout ce qu’on t’a chargé de dire et les salutations que tu m’as apportées de la part des grands de l’Iran.’ Dis qui a commencé ce mal, à qui il a plu d’entreprendre une lutte insensée ?
 >
 > Bahram Gour, le roi des rois, est ici ; c’est lui quia la majesté royale et la puissance et l’armée.
 >
 > Si tu tires de son trou le serpent, tu traîneras dans le sang le pan de ta robe.
 >
-> Si j’avais à donner un conseil, tout serait aplani pour les iraniens.»
+> Si j’avais à donner un conseil, tout serait aplani pour les iraniens. »
 
 Djouanouï, qui avait vu le visage du roi des rois, quilui avait longtemps parlé et lui avait fait des questions pour voir s’il était digne du trône, du pouvoir, de la victoire et de la fortune, conçut une idée lumineuse en entendant les paroles de Mondhir et lui répondit :
 
@@ -95,7 +99,7 @@ Djouanouï, qui avait vu le visage du roi des rois, quilui avait longtemps parl�
 >
 > Tu n’as besoin de la sagesse de personne.
 >
-> Si tr les Iraniens ont perdu un instant la raison, un grand nombre des plus nobles ont péri.
+> Si les Iraniens ont perdu un instant la raison, un grand nombre des plus nobles ont péri.
 >
 > Je suis un vieillard qui recherche un bon renom, veux-tu écouter mes paroles ?
 >
