@@ -98,7 +98,7 @@ Il répondit :
 
 > Ô homme lr glorieux et vaillant, l’élite de la race d’Ardeschir, Va donc une fois voir ma fille ; j’espère qu’elle te fera entendre tout à coup sa voix ; car je suis très-affligé de son état et plein de chagrin de son apathie.
 
-Je ne sais quel jeu le sort joue avec elle, et je suis tout interdit de cette affaire.
+Je ne sais quel jeu le sort joue avec elle et je suis tout interdit de cette affaire.
 
 Il se peut que tu dénoues pour moi cette difficulté, car tu es un homme noble, prudent et glorieux.
 
