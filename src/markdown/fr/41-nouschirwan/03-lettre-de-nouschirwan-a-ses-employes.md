@@ -75,8 +75,7 @@ Je n’aime pas ceux qui manquent de justice, car il n’y a pas de différence 
 
 Je n’ai point besoin de richesses qui vous font maudire et perdent les âmes.
 
-Quand on vit de la chair des pauvres, on dévore sans doute encore leur peau et mieux vaut un léopard qu’un tu
-pareil roi, qui n’a pas de honte et n’observe pas les règles de la foi.
+Quand on vit de la chair des pauvres, on dévore sans doute encore leur peau et mieux vaut un léopard qu’un tu pareil roi, qui n’a pas de honte et n’observe pas les règles de la foi.
 
 La porte de la droiture est ouverte devant nous, pourquoi frapper à celle de la perdition ?
 
