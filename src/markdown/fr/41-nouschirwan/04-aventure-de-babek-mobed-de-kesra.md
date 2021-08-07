@@ -93,8 +93,7 @@ Ne quitte jamais la voie de l’honnêteté.
 
 Quand on se ménage soi-même, on brise le cœur de la droiture.
 
-Je t’honore de ce que tu as fait et ma pensée s’est reportée sur moi-même et je me suis demandé comment nous nous comporterions dans la ban., ILS l
-tailler Babek répondit au noble roi :
+Je t’honore de ce que tu as fait et ma pensée s’est reportée sur moi-même et je me suis demandé comment nous nous comporterions dans la ban., ILS l tailler Babek répondit au noble roi :
 
 > Jamais le sceau et le diadème ne verront un maître comme toi ; jamais peintre n’a vu dans l’Iran une main et des rênes comme les tiennes.
 >
