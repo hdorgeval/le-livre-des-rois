@@ -43,7 +43,9 @@ Yezdeguerd le (il appeler un Ali soir, le lit asseoir avec lui sur le trône roy
 >
 > Le roi, dans son contentement, ouvrit la porte de la générosité et fit des présents à tous les compagnons de Noman, selon leur rang.
 >
-> Ensuite le roi écrivit à Mondhir une lettre telle qu’on en écrit aux rois, pour louer ce qui avait été fait pour son fils, que le roi du Yémen avait su s’attacher, ajoutant : Je tâcherai de m’acquitter de cette dette et je lèverai plus fièrement la tête puisque j’ai un parail fils.»
+> Ensuite le roi écrivit à Mondhir une lettre telle qu’on en écrit aux rois, pour louer ce qui avait été fait pour son fils, que le roi du Yémen avait su s’attacher, ajoutant :
+
+> Je tâcherai de m’acquitter de cette dette et je lèverai plus fièrement la tête puisque j’ai un parail fils. »
 
 Mais Bahram Gour écrivit aussi une lettre, dans laquelle il dit :
 
@@ -53,7 +55,7 @@ Mais Bahram Gour écrivit aussi une lettre, dans laquelle il dit :
 >
 > Je ne suis pas ici comme un fils ni comme un serviteur ; je ne puis jouir de la vie à ma propre cour comme le dernier des hom-
 >
-> mes.»
+> mes. »
 
 Puis, il dit à Noman tous ses secrets sur la mauvaise voie et la mauvaise conduite du roi.
 
@@ -82,7 +84,7 @@ Il dit :
 >
 > Sers ton père et prodigue-lui les louanges, redouble d’ardeur pour son service.
 >
-> Tu ne peux pas en ton âme séparer cette mauvaise nature de la personne du roi du monde.»
+> Tu ne peux pas en ton âme séparer cette mauvaise nature de la personne du roi du monde. »
 
 Mondhir envoya dix de ses cavaliers arabes, des hommes éloquents, clairvoyants et dévoués, qui arrivèrent auprès du prince Bahram avec les caisses d’or, des esclaves et son amie.
 
