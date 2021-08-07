@@ -67,7 +67,7 @@ Un astrologue dit :
 
 > Puisses-tu ne voir que du bonheur, n’entendre que des choses vraies.
 >
-> Il naîtra de ta fille et du roi des Iraniens un fils semblable à un lion terrible, haut de taille, fort de bras, vaillant comme un lion et bienfaisant comme les nuages, aux yeux noirs, colère et peu patient ; son père mourra et lui sera roi ; il dépensera une grande partie du trésor de son père et fera du mal pendant quelque temps, puis il s’arrâlera.
+> Il naîtra de ta fille et du roi des Iraniens un fils semblable à un lion terrible, haut de taille, fort de bras, vaillant comme un lion et bienfaisant comme les nuages, aux yeux noirs, colère et peu patient ; son père mourra et lui sera roi ; il dépensera une grande partie du trésor de son père et fera du mal pendant quelque temps, puis il s’arrêtera.
 >
 > Ensuite paraîtra un roi audacieux qui amè-nera une puissante armée de Turcs dans l’intention de s’emparer avec cette multitude de l’Iran et du pays du Yemen.
 >
