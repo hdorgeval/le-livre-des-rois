@@ -22,7 +22,7 @@ Tout le cortège banda les arcs et le roi suivit ces hommes.
 
 Il dit :
 
-> nQuiconque frotte de la main son arc et lâche la flèche sur le corps d’un onagre ne doitle tirer qu’à la fesse, de façon que la pointe de la flèche sorte au poitrail.»
+> Quiconque frotte de la main son arc et lâche la flèche sur le corps d’un onagre ne doitle tirer qu’à la fesse, de façon que la pointe de la flèche sorte au poitrail. »
 
 Un des Pehlewans lui dit :
 
@@ -33,7 +33,7 @@ Un des Pehlewans lui dit :
 > Uu pareil coup t’est possible peut-être, puissent la tête et ton diadème être éternels !
 >
 > Car, quand tu prends ta flèche, ton épée"
-et ta massue, l’armée entière est pleine de respect pour tes bras de roi et ta haute stature, elles mains ne saisissent plus que mollement les flèches et les . arcs.»
+et ta massue, l’armée entière est pleine de respect pour tes bras de roi et ta haute stature, elles mains ne saisissent plus que mollement les flèches et les . arcs. »
 
 Le roi répondit :
 
@@ -51,11 +51,11 @@ Tous ces vaillants cavaliers, ces hommes de guerre, chantèrent ses louanges et 
 >
 > Puisse ton œil nejamais voir le malheur du sort !
 >
-> Tu es un cavalier, mais a nous tous sommes assis sur des ânes ; nous ne valons pas même des âniers.»
+> Tu es un cavalier, mais a nous tous sommes assis sur des ânes ; nous ne valons pas même des âniers. »
 
 Le roi lui répondit :
 
-> et Ce n’est pas ma flèche, c’est Dieu le victorieux qui est venu à mon aide ; celui à qui le Maître du monde ne donne pas de la force et de l’assistance est l’être le plus bas qu’il y ait sur terre.»
+> et Ce n’est pas ma flèche, c’est Dieu le victorieux qui est venu à mon aide ; celui à qui le Maître du monde ne donne pas de la force et de l’assistance est l’être le plus bas qu’il y ait sur terre. »
 
 Il lança son destrier : on aurait dit que ce cheval était un aigle qui volait ; un onagre se présenta :
 
@@ -72,14 +72,16 @@ Les grands pleins d’orgueil et les inférieurs prêts à frapper de l’épée
 > Puisse ce roi être préservé du mauvais œill et il ne laissera peut-être pas la lune dansle ciel.
 >
 > La tête des grands de la terre est sous ses pieds, le ciel est soumis à ses flèches et à son
-. épée.»
+. épée. »
 
 L’armée s’élança sur les traces du roi et se mit à débarrasser le désert des onagres ; mais Bahram fit faire des anneaux d’or, sur lesquels on grava son nom et qu’il suspendit aux oreilles d’onagres qu’il
 ’.
 
 Relâcha ; il fit encore marquer un troupeau de six cents qu’il mit en liberté, pour la gloire de son nom, pour son plaisir et son agrément.
 
-Un homme lit le tour du camp, proclamant : que personne, sur cette large plaine, ne devait vendre aux marchands un seul onagre, mais qu’on devait les leur donner pour rien.
+Un homme lit le tour du camp, proclamant :
+
+> que personne, sur cette large plaine, ne devait vendre aux marchands un seul onagre, mais qu’on devait les leur donner pour rien.
 
 Les gens de Barkouh et les notables de Djez apportèrent beaucoup de brocarls et de fourrures que le roi accepta, en [donnant l’ordre de ne leur demander aucun impôt, quand même ils pourraient le payer facilement.
 
@@ -104,7 +106,7 @@ Il leur dit :
 >
 > J’ouvrirai la porte du trésor aux pauvres honteux.
 >
-> Et si mes administrateurs font naître des chagrins et dépouillent les orphelins, j’attacherai vivants au gibet ces méchants qui oppriment des hommes libres.»
+> Et si mes administrateurs font naître des chagrins et dépouillent les orphelins, j’attacherai vivants au gibet ces méchants qui oppriment des hommes libres. »
 
 Ensuite on ouvrit la porte du trésor et ceux quiavaient été dans le besoin devinrent. riches.
 
@@ -127,7 +129,7 @@ Il lui dit :
 > Je leur donnerai les tributs de Roum et des Khazars, quand tu me les apporteras ici.
 >
 > Demande tout de suite quelques charges d’âne d’or, demande-les aux trésors de Beî
-et. d’Isfahan ; car, de la manière dont tu agis, l’appartement de mes femmes devient une ruine et n’est pas digne du roi de l’Iran.»
+et. d’Isfahan ; car, de la manière dont tu agis, l’appartement de mes femmes devient une ruine et n’est pas digne du roi de l’Iran. »
 
 On exigea de toutes les provinces de nouveaux impôts, on para la terre de brocarts et le monde jouit ainsi pendant ’ quelque temps de l’absence de toute guerre,de toute peine, de toute dispute et de tout combat.
 
