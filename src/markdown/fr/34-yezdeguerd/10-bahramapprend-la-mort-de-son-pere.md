@@ -23,7 +23,7 @@ Un lui dit :
 > Ton père, qui portait haut la tête parmi les rois, est mort ; il est mort et a emporté la gloire de la royauté, car tout le peuple a juré que jamais il n’accepterait de roi de cette famille et que son fils Bahram lui ressemblait, ayant reçu de son sang sa moelle et sa peau.
 >
 > Ils ont placé sur le trône un homme et l’ont acclamé roi sous le nom de Khosl2 ? -
-’rou.»
+’rou. »
 
 À ces nouvelles, Bahram se déchira les joues, car son cœur était affligé de la mort de son père, Pendant deux mais s’élevaient du pays de Yémen les lamentations des Mobeds, des hommes et des femmes.
 
@@ -35,7 +35,7 @@ Ensuite ils délièrent leur langue, disant :
 >
 > Nous venons tous dans le monde pour devenir de la poussière ; nous y venons sans espoir d’un remède.
 >
-> Quiconque naît d’une mère doit mourir et il faut regarder le chemin qu’il fait comme une violence à la nature et sa mort comme la chose naturelle.»
+> Quiconque naît d’une mère doit mourir et il faut regarder le chemin qu’il fait comme une violence à la nature et sa mort comme la chose naturelle. »
 
 Bahram Cour dit à Mondhir :
 
@@ -43,13 +43,13 @@ Bahram Cour dit à Mondhir :
 >
 > On détruira ces plaines où demeurent les cavaliers et ce pays deviendra pour les Arabes un basfond.
 >
-> Pensez à cela et venez à mon aide, portez le deuil de mon père.»
+> Pensez à cela et venez à mon aide, portez le deuil de mon père. »
 
 Mondhir écouta les paroles de Bahram et lui répondit comme un vaillant homme :
 
 > Ceci est mon monde ; sur ces plaines je passe mes jours de chasse.
 >
-> Monte sur le trône et A sois prévoyant ; puissent la ceuronn cet le bracelet te rester à jamais !»
+> Monte sur le trône et A sois prévoyant ; puissent la ceuronn cet le bracelet te rester à jamais ! »
 
 Tous les cavaliers étaient unanimes sur ce que Mondhir avait bravement touché le but ; ils se le. vèrent devant le prince ambitieux de la possession du monde et se préparèrent à la guerre.
 
@@ -57,7 +57,7 @@ Mondhir donna ses ordres à Noman, disant :
 
 > Pars, réunis une armée de jeunes lions, amène de Scheîhan et du pays de Ghassan dix mille braves prêts pour le combat.
 >
-> J’enseignerai aux Iraniens qui est le roi, qui possède le nom, le trésor et l’armée.»
+> J’enseignerai aux Iraniens qui est le roi, qui possède le nom, le trésor et l’armée. »
 
 Noman amena des troupes nombreuses, toutes armées d’épées et de lances et leur ordonna de faire une invasion et de fouler sous leurs pieds tout le pays.
 
