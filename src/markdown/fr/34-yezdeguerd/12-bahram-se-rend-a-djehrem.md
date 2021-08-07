@@ -33,7 +33,7 @@ Quand Mondhir fut arrivé près de Djehrem, ayant conduit son armée à travers 
 
 Il dit à Mondhir :
 
-> Ô homme de bon conseil, tuas marché du pays de Yémen jusqu’à Djehrem ; maintenant que les deux armées vont être en présence, combattrons-nous ou négocierons-nous ?»
+> Ô homme de bon conseil, tuas marché du pays de Yémen jusqu’à Djehrem ; maintenant que les deux armées vont être en présence, combattrons-nous ou négocierons-nous ? »
 
 Mondhir répondit :
 
@@ -56,7 +56,7 @@ Mondhir répondit :
 >
 > Que mon corps et mon âme soient ta rançon !
 >
-> Quand ils verront mon armée innombrable, ma’ manière d’être, mes habitudes et la voie queje suis, quand ils comprendront que verser du sang est notre occupation, quand ils penseront à Dieu le juste, qui est notre soutien, ils n’appelleront roi personne que toi, qui es le maître légitime de la couronne et digne du trône.»
+> Quand ils verront mon armée innombrable, ma’ manière d’être, mes habitudes et la voie queje suis, quand ils comprendront que verser du sang est notre occupation, quand ils penseront à Dieu le juste, qui est notre soutien, ils n’appelleront roi personne que toi, qui es le maître légitime de la couronne et digne du trône. »
 
 Le roi sourit en écoutant ces paroles de Mondhir, etson cœurs’épanouit -
 de bonheur.
@@ -76,29 +76,32 @@ Ils s’écrièrent :
 
 > Puisses-tu être heureux !
 
-Puisse la main du malheur rester toujours loin de toi le bi
-Le roi des rois leur adressa les questions d’usage. les reçut gracieusement’et les fit placer selon leur rang ; puis il leur dit :
+Puisse la main du malheur rester toujours loin de toi le bi Le roi des rois leur adressa les questions d’usage. les reçut gracieusement’et les fit placer selon leur rang ; puis il leur dit :
 
 > Ô grands de l’Iran, vous qui connaissez le monde, vous qui êtes des vieillards et des chefs !
 >
-> La royauté est à moi par succession de père en fils, comment se fait-il qu’il dépende maintenant de vous d’en disposer?»
+> La royauté est à moi par succession de père en fils, comment se fait-il qu’il dépende maintenant de vous d’en disposer ? »
 
-Les Iraniens répondirent d’une seule voix : Ne nous maintiens pas dans notre malheur.
+Les Iraniens répondirent d’une seule voix :
 
-Nous sommes unanimes à ne pas vouloir de toi comme roi ; le pays est à nous, quoique tu aies une armée.
-
-Ta famille nous a couverts de plaies, nous a infligé des angoisses et des douleurs et nous avons passé les jours et les nuits à nous tordre et à soupirer.»
+> Ne nous maintiens pas dans notre malheur.
+>
+> Nous sommes unanimes à ne pas vouloir de toi comme roi ; le pays est à nous, quoique tu aies une armée.
+>
+> Ta famille nous a couverts de plaies, nous a infligé des angoisses et des douleurs et nous avons passé les jours et les nuits à nous tordre et à soupirer. »
 
 Il répondit :
 
 > C’est bien.
+>
+> Le désir est le roi du cœur de chac cun ; mais si vous ne voulez pas de moi, pourquoi mettez-vous quelqu’un à ma place sans me com" sulter ? »
 
-Le désir est le roi du cœur de chac cun ; mais si vous ne voulez pas de moi, pourquoi mettez-vous quelqu’un à ma place sans me com" sulter?n Un Mobed répondit :
+Un Mobed répondit :
 
 > Ni un sujet ’ui un fils de roi ne doit se soustraire à ce qui est juste.
 >
 > Sois donc un des nôtres et asile-nous à choisir un roi que tous puissent recevoir avec des bénédic-
-Il se passa ainsi un espace de trois jours, pentions.»
+Il se passa ainsi un espace de trois jours, pentions. »
 
 A dant lequel ils cherchaient à trouver un roi dans l’Iran.
 
@@ -112,11 +115,13 @@ Bahram était encore le premier des cinquante et s’il demandait la place de so
 
 De ces cinquante noms ils en écrivirent de nouveau trente, des élus de l’Iran, glorieuxet prospères et parmi ces trente Bahram fut de nouveau le premier, car il était possesseur de la couronne et un vaillant prince.
 
-Les Mobeds réduisirent ces trente à quatre et Bahram en était encore le chef. -Lorsqu’on approchait ainsi de l’élection du roi, tous les vieillards parmi les Iraniens dirent : Nous ne voulons pas de Bahram, qui est brave, mais léger de tête et volontaire», Il s’éleva un grand bruit parmi. les chefs et tous les cœurs s’enflammerent.
+Les Mobeds réduisirent ces trente à quatre et Bahram en était encore le chef. -Lorsqu’on approchait ainsi de l’élection du roi, tous les vieillards parmi les Iraniens dirent :
+
+> Nous ne voulons pas de Bahram, qui est brave, mais léger de tête et volontaire», Il s’éleva un grand bruit parmi. les chefs et tous les cœurs s’enflammerent.
 
 Alors Mondhir dit aux Iraniens :
 
-> Je voudrais savoir de quoi il s’agit et comment ce prince si jeune et si brave a pu vous remplir d’inquiétudes et blesser votre âme.»
+> Je voudrais savoir de quoi il s’agit et comment ce prince si jeune et si brave a pu vous remplir d’inquiétudes et blesser votre âme. »
 
 Les grands étaient préparés à une réponse ; ils appelèrent un grand nombre d’I-o ranisns malheureux, car ils avaient réuni du pays entier sur cette plaine tous ceux que Yezdeguerd avait mutilés.
 
@@ -133,8 +138,8 @@ Bahram fut fort affligé de tout cela et il dit, en s’adressant à la poussiè
 
 > Ô malheureux !
 >
-> Si tu avais voulu te contenler de ne pas me laisser jouir de la vie ; mais pourquoi brûler mon âme dans le feu de secreproches?»
+> Si tu avais voulu te contenler de ne pas me laisser jouir de la vie ; mais pourquoi brûler mon âme dans le feu de secreproches ? »
 
 L’ambitieux Mondhir lui dit :
 
-> Tu ne peux pas leur cacher ces méfaits ; tu as entendu leurs paroles, réponds-leur ; il ne faut pas qu’un roi reste indécis.»
+> Tu ne peux pas leur cacher ces méfaits ; tu as entendu leurs paroles, réponds-leur ; il ne faut pas qu’un roi reste indécis. »
