@@ -62,7 +62,7 @@ C’est aux esclaves qu’on peut parler de la manière dont tu me parles, mais 
 
 Toute la Chine et tout le Touran sont à moi et les Heitaliens obéissent à mes ordres.
 
-Depuis que j’existe je n’ai pas enfreint un traité ; ne me parle donc pas ainsi, car si je prends dans ma main la main de Bahram et rrpuis si je ne tiens pas la parole que je lui ai donnée, les hommes ne me considéreront pas comme de race pure.
+Depuis que j’existe je n’ai pas enfreint un traité ; ne me parle donc pas ainsi, car si je prends dans ma main la main de Bahram et puis si je ne tiens pas la parole que je lui ai donnée, les hommes ne me considéreront pas comme de race pure.
 
 Mais je ne crains que Dieu le toutsaint, et, si grande que soit devenue ta puissance,
 
