@@ -18,7 +18,7 @@ order: '014'
 
 La nuit passa et le lendemain de grand matin le roi vint et monta sur le trône.
 
-Il fitappeler les Iraniens et parla longuement de ce qu’il avait dit la veille.
+Il fit appeler les Iraniens et parla longuement de ce qu’il avait dit la veille.
 
 Les Mobeds lui répondirent à haute voix :
 
@@ -26,7 +26,7 @@ Les Mobeds lui répondirent à haute voix :
 >
 > Que feras-tu dans ta place de roi des rois quand tu l’auras conquise par ton cOurage et ta hardiesse ?
 >
-> Comment montreras-tu de la justice et de la droiture pour diminuer le mal qui a été fait?»
+> Comment montreras-tu de la justice et de la droiture pour diminuer le mal qui a été fait ? »
 
 Il répondit à ces hommes savants, illustres et courageux :
 
@@ -52,11 +52,11 @@ Ceux qui aujourd’hui sont pauvres, je leur distribuerai de mes trésors accumu
 >
 > Quand on me demandera justice, je ne chercherai pas à lever l’assemblée ; je rendrai justice à quiconque me la réclamera et je ne déciderai jamais que selon le hou droit ; je punirai les méchants pour le mal qu’ils font, comme c’est le devoir des rois.
 >
-> Dieu, le tout saint, m’en est témoin, la raison est la maîtresse de ma langue.»
+> Dieu, le tout saint, m’en est témoin, la raison est la maîtresse de ma langue. »
 
 Le Grand Mobed et les hommes intelligents, les grands, les nobles qui avaient l’expérience des affaires, s’écrièrent d’une seule voix :
 
-> Nous sommes tes esclaves, nous baissons la tête devant tes ordres et les volontés.»
+> Nous sommes tes esclaves, nous baissons la tête devant tes ordres et les volontés. »
 
 Bahram répondit :
 
@@ -65,7 +65,9 @@ Bahram répondit :
 Quand
 . cent ans passeraient lia-dessus, je ne détournerais pas de mes paroles mon âme et mon esprit.
 
-Je renonce à mon héritage, à me : droits aujtrône et à la couronne et dorénavant je m’assiérai parmi ceux dont la fortune est incertainem En entendant ces paroles, les Mobeds, les grands, les sages à l’esprit éveillé se repentirent de ce qu’ils avaient dit autrefois ; ils avaient commis une faute et cherchaient un remède, en se disant l’un à l’autre d’une seule voix :
+Je renonce à mon héritage, à me :
+
+> droits aujtrône et à la couronne et dorénavant je m’assiérai parmi ceux dont la fortune est incertainem En entendant ces paroles, les Mobeds, les grands, les sages à l’esprit éveillé se repentirent de ce qu’ils avaient dit autrefois ; ils avaient commis une faute et cherchaient un remède, en se disant l’un à l’autre d’une seule voix :
 
 > Qui est plus digne d’être roi que lui ?
 >
@@ -81,7 +83,7 @@ Je renonce à mon héritage, à me : droits aujtrône et à la couronne et doré
 >
 > Que sommes-nous devant lui ?
 >
-> Une poignée de poussière.»
+> Une poignée de poussière. »
 
 Alors ils dirent à Bahram :
 
@@ -97,7 +99,7 @@ Alors ils dirent à Bahram :
 >
 > S’il continue à être roi de l’Iran, tout le pays sera dévasté par la guerre, car une moitié du pays t’accueillera avec joie et l’autre tiendra à Khosrou.
 >
-> En toute justice, ta propositiou vaut mieux et dorénavant le monde sera sous tes ordres, car ce combat avec les lions est un bon prétexte pour écarter les prétendants au pouvoir.»
+> En toute justice, ta propositiou vaut mieux et dorénavant le monde sera sous tes ordres, car ce combat avec les lions est un bon prétexte pour écarter les prétendants au pouvoir. »
 
 Bahram tomba d’accord avec eux, car c’était lui-même qui avait proposé cela.
 
@@ -123,27 +125,29 @@ Quand Khosrou vit ces deux bêtes féroces et la couronne placée au milieu d’
 
 > D’abord la couronneconvient à celui qui recherche !
 >
-> La royauté ; ensuite il est jeune et je suis vieux et ne puis résister aux griffes des lions féroces ; c’est donc à lui de marcher le premier, en vertu de sa jeunesse et de sa vigueur de corps.»
+> La royauté ; ensuite il est jeune et je suis vieux et ne puis résister aux griffes des lions féroces ; c’est donc à lui de marcher le premier, en vertu de sa jeunesse et de sa vigueur de corps. »
 
 Bahram répondit :
 
 > C’est bien.
 >
-> Je ne recule pas devant ce que j’ai dit sérieusement.»
+> Je ne recule pas devant ce que j’ai dit sérieusement. »
 
 Il saisit une massue à tête de bœuf et la foule resta dans l’étonnement.
 
 Le Grand Mobed lui dit :
 
 > Ô roiplein d’intelligence, de savoir et de pureté !
+>
+> Qui veut que tu combattes les lions ?
+>
+> Que veux-tu de plus que la . royauté ?
+>
+> Ne donne pas ta vie pour un trône, ne linvre pas follement ton corps, à la destruction.
+>
+> Nous ’I en sommes innocents et c’est toi qui le veux, car le monde entier est d’accord à ton égard. »
 
-Qui veut que tu combattes les lions ?
-
-Que veux-tu de plus que la . royauté ?
-
-Ne donne pas ta vie pour un trône, ne linvre pas follement ton corps, à la destruction.
-
-Nous ’I en sommes innocents et c’est toi qui le veux, car le monde entier est d’accord à ton égard. v Bahram répondit :
+Bahram répondit :
 
 > Ô investigateur de la foi !
 
@@ -153,8 +157,7 @@ Je suis le rival de ces lions mâles ; je. recherche le combat aveccc qui est va
 
 > Le refuge est en .
 >
-> Mit
-Dieu.
+> Mit Dieu.
 >
 > Puisque tu veux y aller, purifie ton âme de ses péchés,»
 
@@ -168,15 +171,17 @@ Le roi s’assit sur le trône d’ivoire et plaça sur son front cette couronne
 
 Khosrou s’approcha et lui rendit son hommage, disant :
 
-> Ô roi qui portes haut la tête, puis-rrses-tu être heureux sur le trône I puissent les héros du monde entier être tes esclavesl Tu es le roi et te nous sommes tes serviteurs et nous prospérons par (a bonté.
+> Ô roi qui portes haut la tête, puis-rrses-tu être heureux sur le trône I puissent les héros du monde entier être tes esclaves !
+>
+> Tu es le roi et te nous sommes tes serviteurs et nous prospérons par (a bonté.
 >
 > Notre refuge est en Dieu, qui a été notre
-. asile et a montré le vrai chemin à ceux qui s’étaient égarés.»
+. asile et a montré le vrai chemin à ceux qui s’étaient égarés. »
 
 Les grands versèrent sur Bahram
 . des pierreries et bénirent le nouveau trône et un cri immense s’éleva du monde entier.
 
 Cette fête était au mois d’Ader, au jour de Serosch de dix-sept novembre).
-Il est venu un nuage et la lune s’est obscurcie, il tombe. de la neige des nuages noirs ; on ne voit ni rivière, ni plaine, ni crêtes des montagnes ; je ne i MI distingue pas l’aile du corbeau dans l’air, il ne me reste ni salaisons, ni bois, ni orge, et, jusqu’à la moisson de l’orge, je ne vois rien pour moi.
+Il est venu un nuage et la lune s’est obscurcie, il tombe. de la neige des nuages noirs ; on ne voit ni rivière, ni plaine, ni crêtes des montagnes ; je ne MI distingue pas l’aile du corbeau dans l’air, il ne me reste ni salaisons, ni bois, ni orge, et, jusqu’à la moisson de l’orge, je ne vois rien pour moi.
 
 Dans cette obscurité du jour et dans la terreur de l’impôt à payer, pendant que la neige a rendu la terre semblable à une montagne d’ivoire, toutes mes affaires dépérissent, à moins qu’un ami ne vienne à mon dont rien ne peut dépasser les merveilles.
