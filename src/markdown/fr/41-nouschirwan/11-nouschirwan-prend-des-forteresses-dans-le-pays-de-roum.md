@@ -47,6 +47,6 @@ rent et s’approchèrent du puissant roi, se lamentant, demandant grâce et dis
 >
 > Nous te demandons grâce de la vie ; nous adorons i5.
 >
-> i la majesté de ton diadème. »
+> la majesté de ton diadème. »
 
 Le roi lit cesser le massacre et leur distribua de grandes richesses.
