@@ -16,7 +16,7 @@ order: '020'
 
 # Bahram attaque le Khakan de la Chine
 
-Mais Bahram, de son côté, veillait ; il préservait. son armée contre toute attaque de l’ennemi ; il 5A5 ,, avait des espions jour et nuit et ne passait pas un air I.
+Mais Bahram, de son côté, veillait ; il préservait. son armée contre toute attaque de l’ennemi ; il ,, avait des espions jour et nuit et ne passait pas un air I.
 
 U-L"
 ÎP. 1
@@ -32,7 +32,7 @@ Il partit de là et atteignit Gourgan, souffrant des peines et des douleurs qu�
 De Gourgan il entra dans le pays de Nissa, précédé d’un guide fidèle ; il traversa les montagnes, les déserts et les lieux où il n’y avait pas de route et marchant aux heures indues de la nuit jusqu’au matin ; le jour il établissait ’
 des vedettes et la nuit sombre il avait des gardiens du camp.
 
-Il avança ainsi jusqu’auprès de Merv, plus vite que ne vole le faisan à tired’aile ; là il trouva un de ses espions qui lui dit que le Khakan négligeait ses affaires de roi, qu’il était occupé à chasser à Keschmihen et que jour et nuit Abriman était son conseiller.
+Il avança ainsi jusqu’auprès de Merv, plus vite que ne vole le faisan à tire-d’aile ; là il trouva un de ses espions qui lui dit que le Khakan négligeait ses affaires de roi, qu’il était occupé à chasser à Keschmihen et que jour et nuit Abriman était son conseiller.
 
 Bahram fut réjoui de ces nouvelles et oublia toutes ses fatigues.
 
@@ -44,9 +44,11 @@ Aussitôt que le soleil qui éclaire le monde eut levé sa tête de
 5&
 la montagne, toutes les oreilles furent remplies du son des clairons, tous les yeux furent éblouis par les pointes des lances, le bruit des armes s’éleva du lieu de la chasse.
 
-Le roi de Chine et son armée entendirent le tumulte qui déchirait les oreilles des lions : on aurait dit qu’il tombait des nues de la grêle et le champ de bataille fut inondé de sang, comme si la lune en faisait pleuvoir.
+Le roi de Chine et son armée entendirent le tumulte qui déchirait les oreilles des lions :
 
-A peine le Khakan, fatigué de la chasse, était-il réveillé, qu’il fut fait prisonnier par Khazarwan et l’on prit trois cents Chinois parmi les plus illustres et on les lia sur le dos des chevaux.
+> on aurait dit qu’il tombait des nues de la grêle et le champ de bataille fut inondé de sang, comme si la lune en faisait pleuvoir.
+
+À peine le Khakan, fatigué de la chasse, était-il réveillé, qu’il fut fait prisonnier par Khazarwan et l’on prit trois cents Chinois parmi les plus illustres et on les lia sur le dos des chevaux.
 
 Bahram marcha de Keschmihen sur Merv ; il avait tant. couru sur des chevaux aux pieds de vent qu’il était devenu comme un roseau.
 
