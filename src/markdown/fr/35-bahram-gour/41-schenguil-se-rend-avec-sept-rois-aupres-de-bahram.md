@@ -26,9 +26,11 @@ Aussitôt
 
 Qu’il fut. arrivé auprès de Schenguil et que le maître du Kanoudj eut lu cet écrit, il commença ses préparatifs pour son départ de l’Inde, tout en le cachant à ses parents en Chine.
 
-Sept rois qui devaient l’accompagner se rendirent à la cour de Schenguil ; c’étaient : le roi de Kaboul, le roi de Sind, le roi glorieux et respecté des Yoguis, le roi de Sendil, homme de grand renom, le roi de Djendil, héros heureux dans toute entreprise, le puissant roi du Kaschmir, enfin le roi de Moultan, homme illustre et de haute position.
+Sept rois qui devaient l’accompagner se rendirent à la cour de Schenguil ; c’étaient :
 
-Ils étaient montés sur de grands éléphants avec des clochettes au cou et aux housses et chacun était abrité par un parasol planté devant lui ; ils étaient tous ambitieux de gloire ; tous portaient des couronnes, des colliers et des boucles d’oreilles ; tous étaient couverts de pierreries, d’argent et d’or ; leurs parasols indiens étaient en plumes de paons mâles et leurs éléphants portaient des housses de brocart ; c’était un cortège qui brillait à la distance de quelques milles et amenait les présents du roi, des ofl’randes telles que l’or devait paraître vil aux yeux de Bahram.
+> le roi de Kaboul, le roi de Sind, le roi glorieux et respecté des Yoguis, le roi de Sendil, homme de grand renom, le roi de Djendil, héros heureux dans toute entreprise, le puissant roi du Kaschmir, enfin le roi de Moultan, homme illustre et de haute position.
+
+Ils étaient montés sur de grands éléphants avec des clochettes au cou et aux housses et chacun était abrité par un parasol planté devant lui ; ils étaient tous ambitieux de gloire ; tous portaient des couronnes, des colliers et des boucles d’oreilles ; tous étaient couverts de pierreries, d’argent et d’or ; leurs parasols indiens étaient en plumes de paons mâles et leurs éléphants portaient des housses de brocart ; c’était un cortège qui brillait à la distance de quelques milles et amenait les présents du roi, des offrandes telles que l’or devait paraître vil aux yeux de Bahram.
 
 I C’est ainsi que Schenguil s’avançait avec les sept rois d’une station à l’autre et lorsque Bahram apprit qu’il arrivait, il arrangea un cortège et se mit en route ; dans chaque ville les grands se levèrent et s’apprêtèrent à se porter à la rencontre de Schenguil.
 
@@ -52,7 +54,7 @@ Amis exhalaient un parfum de musc.
 
 Il dit en secret au roi de l’Iran :
 
-> Donne-moi un moyen de voir ma fille.»
+> Donne-moi un moyen de voir ma fille. »
 
 Bahram ordonna aux eunuques de l’escorte de conduire le père auprès de cette lune ; le roi illustre les suivit et vit un autre palais qui ressemblait au printemps.
 
@@ -64,7 +66,7 @@ Schenguil caressa de sa main celle de Sepinoud et dit en parlant de ce palais, d
 
 > Voici le paradis !
 >
-> Tu t’es échappée d’une mauvaise maison et d’un lieu vil.»
+> Tu t’es échappée d’une mauvaise maison et d’un lieu vil. »
 
 Il lui remit les présents qu’il avait apportés, les caisses d’or, les couronnes et les esclaves ; il les lui remit avec ceux qu’il destinait au roi et toutes ces pierreries, ces pièces d’étoffe et ces couronnes, dont personne ne pouvait dire le prix, rendirent la salle gaie comme le printemps.
 
