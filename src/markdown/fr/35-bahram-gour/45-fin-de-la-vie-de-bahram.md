@@ -28,9 +28,9 @@ Trouver davantage, nous n’en avons plus besoin.
 
 Abandonne le monde à celui qui l’a créé et qui a fait apparaître le ciel qui tourne ; le ciel passera et Dieu restera et nous guidera vers le bonheur, moi et toi.
 
-Il dormit cette nuit et le lendemain, à l’aube du jour, une foule innombrable seiprésenta à la porte du palais ; on réunit tous ceux dont la présence était nécessaire ; et Yezdeguerd, le fils du roi, parut devant Bahram, qui lui remit en présence des grands la couronne, le collier, les bracelets et le trône d’ivoire.
+Il dormit cette nuit et le lendemain, à l’aube du jour, une foule innombrable se présenta à la porte du palais ; on réunit tous ceux dont la présence était nécessaire ; et Yezdeguerd, le fils du roi, parut devant Bahram, qui lui remit en présence des grands la couronne, le collier, les bracelets et le trône d’ivoire.
 
-Voulant se vouer au service de Dieu, le roi rejeta la Couronne et renonça au trône, car il avait pris en dégoût les all’aires du monde.-Lorsque la nuit fut devenue profonde, il eut envie de dormir : mais quand le soleil montra d’en bas son doigt, le cœur du Mobed du roi fut effrayé de ce que le maître du monde ne paraissait pas et il craignit qu’il ne se fût enfui loin des grands.
+Voulant se vouer au service de Dieu, le roi rejeta la Couronne et renonça au trône, car il avait pris en dégoût les affaires du monde.-Lorsque la nuit fut devenue profonde, il eut envie de dormir : mais quand le soleil montra d’en bas son doigt, le cœur du Mobed du roi fut effrayé de ce que le maître du monde ne paraissait pas et il craignit qu’il ne se fût enfui loin des grands.
 
 Yezdeguerd entra chez son père et lorsqu’il l’aperçut, la salive se congelait dans sa bouche ; car il le vit les joues décolorées, enveloppé dans du brocart d’or et ayant rendu l’âme.
 
@@ -64,7 +64,7 @@ Lui qui était l’ornement du trône d’ivoire, à qui le Roum et la Chine pay
 
 À quoi lui ont servi la bravoure, ses combats, sa force ?
 
-Si lui et le plus pauvre sontégaux quand ils meurent, s’ils sont également exempts de douleurs et de peines, à quoi servent la royauté et le faste, puisqu’on ne peut pas rester longtemps roi ?
+Si lui et le plus pauvre sont égaux quand ils meurent, s’ils sont également exempts de douleurs et de peines, à quoi servent la royauté et le faste, puisqu’on ne peut pas rester longtemps roi ?
 
 Heureux le pauvre qui a de la foi et de la raison ; le sort l’a souvent maltraité, mais quand il quitte ce 6h monde, il laisse une bonne renommée et sa fin est heureuse ; il aura sa part dans l’autre monde et sera honoré auprès de Dieu.
 
