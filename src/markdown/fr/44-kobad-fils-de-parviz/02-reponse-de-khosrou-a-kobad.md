@@ -36,8 +36,7 @@ Cette lutte ne fut pas décidée d’un seul coup, le monde en a été témoin e
 
 La guerre contre le Djoubineh étant terminée, j’ai vengé avant tout la mort de mon père.
 
-Bendouï et Gustehem étaient les frères de ma mère, ils n’avaient leurs pareils dans aucun pays, 
- ils avaient risqué leur vie pour sauver la mienne, ils m’étaient attachés de cœur et ils étaient mes proches parents ; mais il y avait entre nous le sang de mon père et la douleur de mon cœur et je n’hésitai point à venger mon père.
+Bendouï et Gustehem étaient les frères de ma mère, ils n’avaient leurs pareils dans aucun pays, ils avaient risqué leur vie pour sauver la mienne, ils m’étaient attachés de cœur et ils étaient mes proches parents ; mais il y avait entre nous le sang de mon père et la douleur de mon cœur et je n’hésitai point à venger mon père.
 
 J’ai fait couper à Bendouï les pieds et les mains, parce qu’il avait privé mon père de la lumière ; Gustehem disparut du monde et choisit pour retraite un coin obscur, mais il fut tué inopinément d’après mes ordres et la fortune s’éloigna de ces meurtriers.
 
@@ -57,7 +56,7 @@ Quant aux paroles des astrologues sur toi, qui m’ont inspiré la terreur de vo
 
 Malheurs actuels, je ne me suis pas dessaisi de cet horoscope, jetl’ai mis sous scellé et j’ai confiéà Schirin le document contenant ces paroles.
 
-Lorsque ma royauté eut duré trentesix ans et que sans doute, au milieu de ces jours heureux, tu ne pensais pas à cet horoscope, quoique ma vie s’écoulât, il arriva pour toi une lettre de l’Inde dont j’eus conrenaissance.
+Lorsque ma royauté eut duré trentesix ans et que sans doute, au milieu de ces jours heureux, tu ne pensais pas à cet horoscope, quoique ma vie s’écoulât, il arriva pour toi une lettre de l’Inde dont j’eus connaissance.
 
 On m’apporte une lettre du plus grand u des Radjas, avec des joyaux et des étoiles de toute espèce, une épée indienne, un éléphant blanc et tout ce que j’aurais pu désirer dans ce monde. ce Outre cette épée, il y avait des brocarts tissés de : et toutes sortes de pierreries non taillées.
 
@@ -67,11 +66,13 @@ Lorsque l’Hindou eut lu la lettre, ses larmes inondèrent son visage.
 
 On y disait :
 
-> Puisses-tu être heucreux, puisses-tu être avec ta couronne d’or un ornement pour la dignité de Khosroêsl car tu seras le roi maître du monde, lorsque le neuvième du mois d’Ader (septembre) sera arrivé et quand ton père aura régné pendant trente-huit ans ; c’est ainsi que tourneront les astres ; c’est alors que brilleront les temps de bonheur et que tu placeras sur ta tête la couronne royale.
+> Puisses-tu être heucreux, puisses-tu être avec ta couronne d’or un ornement pour la dignité de Khosroês !
+
+Car tu seras le roi maître du monde, lorsque le neuvième du mois d’Ader (septembre) sera arrivé et quand ton père aura régné pendant trente-huit ans ; c’est ainsi que tourneront les astres ; c’est alors que brilleront les temps de bonheur et que tu placeras sur ta tête la couronne royale.
 
 Ces paroles se scat vérifiées pour moi aujourd’hui, mais il ne faut p que le cœur renonce à sa tendresse.
 
-Je savais bien que ta fmtune, ton élévation etla splendeur de ton trône ne m’apporteraient que des chagrins et de la douleur et que mes jours brillants seraient obscurcis ; mais, par générosité, par esprit de religion et de famille et par tendresse, je n’ai pas cédé à la colère à cause de cette lettre.
+Je savais bien que ta fortune, ton élévation et la splendeur de ton trône ne m’apporteraient que des chagrins et de la douleur et que mes jours brillants seraient obscurcis ; mais, par générosité, par esprit de religion et de famille et par tendresse, je n’ai pas cédé à la colère à cause de cette lettre.
 
 L’ayant lue, je l’ai remise à Schirin et je me suis livré à toutes sortes de réflexions.
 
@@ -83,19 +84,19 @@ Ensuite tu as parlé des prisons et des fers, comme si quelqu’un avait eu à s
 
 Telle a été la loi du monde depuis qu’il existe et celle des grands, des rois nobles et des princes.
 
-Si tu ne le sais pas, interroge ton Mobed et il calm’era ton esprit sur ce point.
+Si tu ne le sais pas, interroge ton Mobed et il calmera ton esprit sur ce point.
 
 C’est mal de laisser en vie dans le monde quiconque est ennemi de Dieu.
 
 Il n’y avait dans mes prisons que des Divs avérés, contre lesquels les hommes de bien avaient élevé des clameurs.
 
-Ma coutume n’étant pas de verser le sang ni d’insister sur des rigueurs extrêmes, j’enfermais les méchants dans les prisons et ne laissais pas passer comme chose indifi’érente leurs méfaits contre les hommes.
+Ma coutume n’étant pas de verser le sang ni d’insister sur des rigueurs extrêmes, j’enfermais les méchants dans les prisons et ne laissais pas passer comme chose indifférente leurs méfaits contre les hommes.
 
 Maintenant j’apprends que tu as relâché ces hommes qui sont pires que des dragons ; c’est une mauvaise chose ; de la sorte tu as péché contre Dieu et tes paroles et tes actes ont été mauvais.
 
 Puisque tu es devenu le maître, agis prudemment et si tu ne connais pas une affaire, consulte un homme qui la sait.
 
-Ne pardonne pas à tous ceux qui t’ofi’ensent, quand même tu pourrais espérer en tirer des trésors.
+Ne pardonne pas à tous ceux qui t’offensent, quand même tu pourrais espérer en tirer des trésors.
 
 Pour tout homme que tu ne vois commettre que des méfaits qu’y a-t-il de mieux que les fers ?
 
@@ -137,7 +138,7 @@ Que de tributs et de redevances de l’Inde, que de tributs du Roum et du pays d
 
 Que de présents et de tributs de tous pays, de chaque grand et de chaque prince !
 
-Que d’olfrandes coutumières aux fêtes du nouvel an et de l’automne, que de chevaux et d’esclaves au beau visage !
+Que d’offrandes coutumières aux fêtes du nouvel an et de l’automne, que de chevaux et d’esclaves au beau visage !
 
 Que de cuirasses et de casques, que de massues et d’épe’es furent distribuées librement et à tous !
 
@@ -145,7 +146,7 @@ Que de musc et de camphre, que de fourrures de castor, d’hermine noire et blan
 
 Quiconque était mon sujet chargeait ses chameaux des objets de ce genre et accourait à ma cour ; personne n’osait se soustraire à mes volontés.
 
-J’ai travaillé longtemps et de toute manière pour remplir ainsi un trésor ; j’ai souvent discuté sur le nom à lui donner, à la fin je l’ai appelé Badaver ; un autre de mes trésors est le Khazrâ, un autre le tré- sor de la fiancée, que j’ai fondé pour les jours de malheur.
+J’ai travaillé longtemps et de toute manière pour remplir ainsi un trésor ; j’ai souvent discuté sur le nom à lui donner, à la fin je l’ai appelé Badaver ; un autre de mes trésors est le Khazrâ, un autre le trésor de la fiancée, que j’ai fondé pour les jours de malheur.
 
 C’est ainsi que depuis la vingt-sixième année de mon règne jusqu’à la trente-huitième, le ciel n’a tourné que selon mes désirs ; tous les grands jouissaient de la sécurité, tous mes ennemis tremblaient.
 
@@ -169,7 +170,7 @@ Le trésor est le moyen d’exercer la royauté et le monde sans argent est perd
 
 Si ton trésor est saisi
 
-Par tes ennemis, si toutes les idoles tombent entre les mains des Brahmanes, les croyants se détourneront de Dieu et couvriront d’opprebres ton nom et ta mémoire.
+Par tes ennemis, si toutes les idoles tombent entre les mains des Brahmanes, les croyants se détourneront de Dieu et couvriront d’opprobres ton nom et ta mémoire.
 
 Si tu n’as pas de trésor, tu ne trouveras pas d’armée et tes sujets ne t’appelleront plus roi.
 
@@ -219,8 +220,7 @@ Quant à moi. ce que je devais faire envers Neïathous au jour du combat, je l�
 
 Guschasp, qui a été mon trésorier et le saint Mobed qui a été mon Destour te diront de même que j’ai donné à ces Roumis en souvenir de moi trois mille caisses d’or de mon trésor ; j’ai donné à Neïathous mille boules de rubis, propres à entrer dans des boucles d’oreilles et dont chacune valait, selon mes comptes, mille mithltals royaux.
 
-J’ai ajouté à cela mille robes de brocart de Chine, dont cinq étaient en drap d’or brodé de pierreries et pour chacune desquelles l’acheteur le plus prudent aurait payé cent mille dirhems ; 
- puis cent perles de belle eau, auxquelles un connaisseur n’aurait pas trouvé de défaut et qu’un joaillier aurait payées trente mille dirhems chacune ; enfin cent chevaux magnifiques, choisis dans mes écuries et dont cinquante portaient des selles et tous les autres des housses de brocart, des chevaux qui, dans le désert, rivalisaient avec le vent ; j’ai envoyé tout cela au Kaïsar et j’ai accompagné ces présents de mes bénédictions.
+J’ai ajouté à cela mille robes de brocart de Chine, dont cinq étaient en drap d’or brodé de pierreries et pour chacune desquelles l’acheteur le plus prudent aurait payé cent mille dirhems ; puis cent perles de belle eau, auxquelles un connaisseur n’aurait pas trouvé de défaut et qu’un joaillier aurait payées trente mille dirhems chacune ; enfin cent chevaux magnifiques, choisis dans mes écuries et dont cinquante portaient des selles et tous les autres des housses de brocart, des chevaux qui, dans le désert, rivalisaient avec le vent ; j’ai envoyé tout cela au Kaïsar et j’ai accompagné ces présents de mes bénédictions.
 
 Ensuite tu parles de la croix du Messie, de ce vieux morceau de bois déposé dans mon trésor, qui ne me servait ni ne nuisait et dont les Chrétiens ont fait du bruit.auprès de toi.
 
@@ -287,7 +287,9 @@ Les savants, les hommes pleins d’expérience et les sages, tous disent avec ra
 
 Tel est mon message au monde, aux grands et aux petits ; et vous, acceptez mes adieux, soyez heureux et ne pensez pas à moi en mal.
 
-Lorsque Aschtad et le vaillant Kharrad, fils de Berzin, eurent entendu ce message de leur ancien maître, message qui perçait leurs cœurs comme z 3l3 avec la pointe d’une lance, ils se couvrirent le visage des deux mains ; ils furent honteux de ce qu’ils avaient dit, ils se frappèrent les joues avec leurs mains, ils déchirèrent les vêtements qui couvraient leur poitrine et ces deux hommes sages répandirent de la poussière sur leur tête.
+Lorsque Aschtad et le vaillant Kharrad, fils de Berzin, eurent entendu ce message de leur ancien maître, message qui perçait leurs cœurs comme :
+
+> avec la pointe d’une lance, ils se couvrirent le visage des deux mains ; ils furent honteux de ce qu’ils avaient dit, ils se frappèrent les joues avec leurs mains, ils déchirèrent les vêtements qui couvraient leur poitrine et ces deux hommes sages répandirent de la poussière sur leur tête.
 
 Ils quittèrent le roi en versant des larmes, le cœur plein de douleur, la tête pleine de chagrin.
 
@@ -310,17 +312,17 @@ Schirouï le sut et monta sur son trône ; les tiers héros, tant de sa famille 
 Schirouï comprit pourquoi ces hommes, assis avec un maintien si sombre, étaient soucieux et chagrins ; : il leur dit :
 
 > Un roi qui a pour soutien Dieu, le nourricier du monde et qui ne serait pas ému des peines dont soutire son père, je ne pourrais l’apce. peler qu’un homme méchant et sans honneur, et
--personne ne voudrait mettre en lui son espoir, car il serait plus pourri qu’un morceau de bois de saule pourri.»
+-personne ne voudrait mettre en lui son espoir, car il serait plus pourri qu’un morceau de bois de saule pourri. »
 
 Ces hommes coupables lui répondirent :
 
-> Si un homme dit qu’il reconnaît deux rois, appelle-le insensé dans ton cœur et sache qu’il est infâme, de si noble race qu’il vienne.»
+> Si un homme dit qu’il reconnaît deux rois, appelle-le insensé dans ton cœur et sache qu’il est infâme, de si noble race qu’il vienne. »
 
 Schirouï répliqua :
 
 > Le roi ne trouvera pas d’armée, puisqu’iln’a plus de trésors.
 >
-> Parlons-lui doucement pendant un mois encore, ne lui disons rien des moyens de rigueur ; il se peut que nous soyons heureux de recevoir ses instructions, car ce pays est rempli de trésors qu’il peut nous indiquer.»
+> Parlons-lui doucement pendant un mois encore, ne lui disons rien des moyens de rigueur ; il se peut que nous soyons heureux de recevoir ses instructions, car ce pays est rempli de trésors qu’il peut nous indiquer. »
 
 Ayant reçu cette réponse, les chçfi de l’armée se levèrent et s’en retournèrent à leurs palais.
 
@@ -328,6 +330,6 @@ Le roi Schirouï dit alors à ses cuisiniers :
 
 > Il ne faut rien refuser à Khosrou.
 >
-> Placez devant lui des tables d’or, offrez-lui des mets doux et délicats.»
+> Placez devant lui des tables d’or, offrez-lui des mets doux et délicats. »
 
 Les serviteurs les portèrent à Khosrou, mais il ne toucha à rien de ce qu’il voyait sur les tables, ni au froid ni au chaud ; tout ce qu’il mangeait lui venait de la main de Schirin, qui soupçonnait les mets qu’on lui donnait.
