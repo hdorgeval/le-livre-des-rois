@@ -1144,6 +1144,9 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/tirevers/, 'tire vers'),
     (content: string) => content.replace(/seiprésenta/, 'se présenta'),
     (content: string) => content.replace(/sontégaux/, 'sont égaux'),
+    (content: string) => content.replace(/colonneque/, 'colonne que'),
+    (content: string) => content.replace(/aucuanurc/, 'aucun Turc'),
+    (content: string) => content.replace(/lecfoessé/, 'le fossé'),
   ].forEach((format) => {
     result = format(result);
   });
