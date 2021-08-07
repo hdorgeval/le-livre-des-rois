@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/fr/40-kobad-fils-de-pirouz', 2, 9);
+formatEpisodesIn('src/markdown/fr/41-nouschirwan', 2, 65);

@@ -1157,6 +1157,13 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/impirait/, 'inspirait'),
     (content: string) => content.replace(/sontdevenus/, 'sont devenus'),
     (content: string) => content.replace(/acclamèreut/, 'acclamèrent'),
+    (content: string) => content.replace(/deiiiandera/, 'demandera'),
+    (content: string) => content.replace(/desaffaires/, 'des affaires'),
+    (content: string) => content.replace(/houneurs/, 'honneurs'),
+    (content: string) => content.replace(/paysoù/, 'pays où'),
+    (content: string) => content.replace(/appartenient/, 'appartement'),
+    (content: string) => content.replace(/adornteur/, 'adorateur'),
+    (content: string) => content.replace(/moi’qu’en/, 'moi qu’en'),
   ].forEach((format) => {
     result = format(result);
   });
