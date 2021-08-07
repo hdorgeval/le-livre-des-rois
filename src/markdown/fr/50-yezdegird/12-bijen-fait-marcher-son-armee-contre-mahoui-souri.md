@@ -16,15 +16,14 @@ order: '012'
 
 # Bijen fait marcher son armée contre Mahouï Souri
 
-Telle était la situation, lorsque Bijen apprit que MahOuï Souri s’était emparé de la royauté et que, répandant partout ses ordres revétusdu sceau royal, il soumettait le monde à son autorité ; enfin qu’il se dirigeait vert l’Oxus pour combattre à la tête d’une vaillante armée.
+Telle était la situation, lorsque Bijen apprit que MahOuï Souri s’était emparé de la royauté et que, répandant partout ses ordres revêtus du sceau royal, il soumettait le monde à son autorité ; enfin qu’il se dirigeait vert l’Oxus pour combattre à la tête d’une vaillante armée.
 
-Bijen voulut savoir de qui Mahouï tenait la couronne et un hommehabile à parler le lui apprit ; Barsam s’exprima ainsi :
+Bijen voulut savoir de qui Mahouï tenait la couronne et un homme habile à parler le lui apprit ; Barsam s’exprima ainsi :
 
 > Tu sais, ô
-roi, que lorsque j’emmeuai de Djadj mes escadrons, à
-lorsque je partis d’ici au secours de Mahouî avec mes cavaliers fiers et avides de renommée, cet homme avait juré de t’envoyer le trône doré, les bracelets ornés de pierreries, la couronne et le trésor du roi.
+roi, que lorsque j’emmeuai de Djadj mes escadrons, à lorsque je partis d’ici au secours de Mahouî avec mes cavaliers fiers et avides de renommée, cet homme avait juré de t’envoyer le trône doré, les bracelets ornés de pierreries, la couronne et le trésor du roi.
 >
-> C’est à toi seul, te disait-il, qu’appartient en ce monde le trône d’ivoire.»
+> C’est à toi seul, te disait-il, qu’appartient en ce monde le trône d’ivoire. »
 
 Je me rrhattis dans Merve pendant trois jours ; le quatrième jour, lorsque le soleil répandit sa lumière sur le monde, fatigué de cette longue lutte, je livrai un combat acharné et le perfide Mahouî tourna le des.
 
@@ -36,7 +35,7 @@ Quand cet homme criminel fut gorgé de biens, il sembla ne plus me reconnaître.
 
 Pendant les deux mois que notre armée passa à Merve, il n’eut jamais pour nous un regard bienveillant.
 
-C’est lui qui a tué en secret son maître, ce grand roi, flambeau du monde, ce cavalier qui, au milieu de son armée, semblait lever la tête au-dessus de la sphère de la lune ; sa massue n’épargnait aucun guerrier turc et il jetait l’efi’roi dans le cœur des ce plus braves.
+C’est lui qui a tué en secret son maître, ce grand roi, flambeau du monde, ce cavalier qui, au milieu de son armée, semblait lever la tête au-dessus de la sphère de la lune ; sa massue n’épargnait aucun guerrier turc et il jetait l’effroi dans le cœur des ce plus braves.
 
 Mahouï, maître de ses trésors, a usurpéla royauté, il l’a usurpée par un crime aussi odieux.
 
@@ -50,13 +49,15 @@ Bijen, ayant entendu ces paroles, réunit une troupe de cavaliers turcs exercés
 
 Arrivé près de la ville de Boukhara, il déploya son armée dans la plaine de Nakhscheb et dit à ses officiers :
 
-> Aujourd’hui ne vous bâtez pas ; laissons l’ennemi traverser le fleuve et nous offrir le combat ; c’est alors que je pourrai sans doute venger le roi.»
+> Aujourd’hui ne vous bâtez pas ; laissons l’ennemi traverser le fleuve et nous offrir le combat ; c’est alors que je pourrai sans doute venger le roi. »
 
-Bijen demanda ensuite : Le chef illustre n’a-t-il pas laissé d’enfants tr dont on puisse tirer parti ?
+Bijen demanda ensuite :
 
-Le roi, maître du monde, avait-il des frères ?
-
-A défaut de fils, n’a-t-il pas laissé une fille que nous emmènerions avec nous et dont nous prendrions la défense pour triompher de (r Mahouî ? --Prince, répondit Barsam, les jours de cette famille sont maintenant arrivés à leur terme ; les Arabes se sont emparés de leur pays et n’y ont laissé ni roi ni adorateur du feu.»
+> Le chef illustre n’a-t-il pas laissé d’enfants dont on puisse tirer parti ?
+>
+> Le roi, maître du monde, avait-il des frères ?
+>
+> A défaut de fils, n’a-t-il pas laissé une fille que nous emmènerions avec nous et dont nous prendrions la défense pour triompher de (r Mahouî ? --Prince, répondit Barsam, les jours de cette famille sont maintenant arrivés à leur terme ; les Arabes se sont emparés de leur pays et n’y ont laissé ni roi ni adorateur du feu. »
 
 Après avoir entendu ces paroles, Bijen, effrayé des vicissitudes du sprt, réunit son armée.
 
