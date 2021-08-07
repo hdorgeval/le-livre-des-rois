@@ -18,12 +18,11 @@ order: '007'
 
 Or un jour Mazdek alla de grand matin de son palais chez le roi et lui dit :
 
-> Un grand nombre des Il tu
-chefs de nos fidèles et de nos sujets au cœur pur sont .venus de partout ; faut-il que je te les amène ou que je les fasse partir?»
+> Un grand nombre des Il tu chefs de nos fidèles et de nos sujets au cœur pur sont .venus de partout ; faut-il que je te les amène ou que je les fasse partir ? »
 
 Kobad écouta ces paroles de Mazdek et ordonna au grand chambellan de les admettre ; mais Mazdek dit au puissant roi :
 
-> Ce lieu est bien étroit pour une si grande foule ; je crois qu’ils ne trouveraient pas de place devant le roi, il vaut mieux aller dans la plaine et les passer en revue.»
+> Ce lieu est bien étroit pour une si grande foule ; je crois qu’ils ne trouveraient pas de place devant le roi, il vaut mieux aller dans la plaine et les passer en revue. »
 
 Le roi fit porter son trône hors du palais, le fit porter de sa salle d’audience dans la plaine.
 
@@ -42,29 +41,29 @@ sache que Kesra ne partage pas notre foi ; quel droit a-t-il de s’en écarter 
 >
 > Ces cinq choses font que les femmes et les richesses sont la perdition de la vraie religiou dans le monde ; il faut les mettre en communauté, si l’on ne veut pas que la vraie foi souffre.
 >
-> C’est par elles que naissent la jalousie, la convoitise et lebesoin, qui se joignent secrètement à la colère et à la vengeance et alors le Div déroute la tête des sages ; il faut donc mettre en communauté les femmes et les richesses.»
+> C’est par elles que naissent la jalousie, la convoitise et lebesoin, qui se joignent secrètement à la colère et à la vengeance et alors le Div déroute la tête des sages ; il faut donc mettre en communauté les femmes et les richesses. »
 
 Ayant ainsi parlé, il saisit la main de Kesra, ce qui confondit. le prince iranien ; le jeune homme illustre dégagea sa main avec colère et détourna ses yeux de Mazdek avec indignation.
 
 Kobad dit en souriant à celui-ci :
 
-> Pourquoi fais-tu attention à la colère de Kesra ?»
+> Pourquoi fais-tu attention à la colère de Kesra ? »
 
 Mazdek dit :
 
-> Il suit en secret une voie autre que la vraie et n’est pas de notre religion.»
+> Il suit en secret une voie autre que la vraie et n’est pas de notre religion. »
 
 Le roi dit à l’instant à Kesra :
 
-> Ce n’est pas bien que tu dévies de la vraie croyance.»
+> Ce n’est pas bien que tu dévies de la vraie croyance. »
 
 Kesra répondit :
 
-> Si tu me donnes le temps, je prouverai que toute cette opinion est fausse et quand la fausseté et la perversité seront évidentes. ce qui est vrai brillera devant tes yeux.»
+> Si tu me donnes le temps, je prouverai que toute cette opinion est fausse et quand la fausseté et la perversité seront évidentes. ce qui est vrai brillera devant tes yeux. »
 
 Mazdek lui dit :
 
-> Tu demandes au roi, qui éclaire de sa lumière le monde, quelques jours?»
+> Tu demandes au roi, qui éclaire de sa lumière le monde, quelques jours ? »
 
 Kesra répondit :
 
@@ -79,11 +78,13 @@ tan arriva d’Isthakr avec trente de ses amis.
 
 Ces hommes qui cherchaient la sagesse s’assirent ensemble et parlèrent de tout cela et ces vieillards intelligents et savants communiquèrent à Kesra tontes leurs pensées.
 
-Kesra les écouta, puis il alla auprès de Kobad et lui parla de Mazdek : Le temps est venu pour que je m’informe de la vraie foi et si Mazdek est dans le vrai et si la doctrine de Zerdouscht est fausse, j’arracherai de mon âme cette ortie et j’ adopterai la sainte religion de Mazdek.
+Kesra les écouta, puis il alla auprès de Kobad et lui parla de Mazdek :
 
-Si la voie de Feridoun n’est pas bonne, le monde doit s’affranchir du Zend-Avesta, les doctrines de Mazdek arriveront et les hommes n’auront d’autre guide que lui.
-
-Mais si sa parole est fausse, s’il ne marche pas dans la voie de Dieu le tout saint, alors détourne-toi avec dégoût de sa route et de sa foi et rejette loin de toi ses règles néfastes, livre-le-moi, lui et ceux qui partagent sa croyance et que la cervelle et la peau leur soient enlevées !»
+> Le temps est venu pour que je m’informe de la vraie foi et si Mazdek est dans le vrai et si la doctrine de Zerdouscht est fausse, j’arracherai de mon âme cette ortie et j’ adopterai la sainte religion de Mazdek.
+>
+> Si la voie de Feridoun n’est pas bonne, le monde doit s’affranchir du Zend-Avesta, les doctrines de Mazdek arriveront et les hommes n’auront d’autre guide que lui.
+>
+> Mais si sa parole est fausse, s’il ne marche pas dans la voie de Dieu le tout saint, alors détourne-toi avec dégoût de sa route et de sa foi et rejette loin de toi ses règles néfastes, livre-le-moi, lui et ceux qui partagent sa croyance et que la cervelle et la peau leur soient enlevées ! »
 
 Il prit pour témoins Bezmihr, Khorrad, Ferahin, Bendouï et Behzad et puis s’en retourna à son palais, déterminé à observer l’engagement sacré qu’il avait pris.
 
@@ -110,7 +111,7 @@ Un Mobed qui charmait les cœurs se présenta devant Kobad et ouvrit la porte de
 > Quand tous ont des trésors, où est le trésorier ?
 >
 > Jamais aucun fondateur de religion n’a parlé ainsi ; tu as fait en secret œuvre de Div ; tu conduis les hommes dans l’enfer ; tu ne comptes pas pour un mal les mau-
-vaises actions.»
+vaises actions. »
 
 Y À ces paroles, Kobad s’émut et approuva le discours du Mobed ; le noble Kesra se joignit à lui et le cœur de l’homme sans foi se remplit d’inquiétude.
 
@@ -120,7 +121,7 @@ Toute l’assemblée s’écria :
 >
 > Il détruit la reli-
 >
-> gion de Dieu, qu’il quitte cette cour illustre !»
+> gion de Dieu, qu’il quitte cette cour illustre ! »
 
 Le maître du monde fut dégoûté de cette doctrine et sa tête se remplit de douleur des faits qui s’étaient passés.
 
@@ -128,7 +129,7 @@ Le roi livra à Kesra sur-le-champ Mazdek et tous ceux qui suivaient sa loi et s
 
 Le roi dit à son fils :
 
-> Agis en cette alliaire comme tu voudras et ne me parle plus jamais de Mazdek.»
+> Agis en cette alliaire comme tu voudras et ne me parle plus jamais de Mazdek. »
 
 Or’il y avait dans le palais de Kesra un jardin dont les murs étaient plus hauts que les cimes des montagnes ; il fit creuser un fossé en dedans et le long des murs et y distribua ces hommes, qu’on y planta’comme des arbres, les pieds en l’air et la tête en bas, fortement enterrée.
 
@@ -136,7 +137,7 @@ Ensuite Kesra dit à Mazdek :
 
 > Pars et va à mon jardin magnifique, car la semence que tu as répandue dans ce temps porte des fruits pour toi, ô homme insensé !
 >
-> Tu y verras des arbres comme personne n’en a vu ni n’en a entendu parler par les sages d’autrefois.»
+> Tu y verras des arbres comme personne n’en a vu ni n’en a entendu parler par les sages d’autrefois. »
 
 Mazdek y alla et ouvrit la porte du jardin, espérant trouver dans le verger des arbres chargés de fruits ; mais quand il vit ce qu’il y avait, il s’évanouit en poussant un grand cri.
 
