@@ -47,8 +47,7 @@ Récompense celui qui te fait du bien, combats les ennemis de tes amis.
 
 Si honoré que tu puisses être dans le monde, réfléchis aux fatigues, aux peines et aux pertes des autres.
 
-Quelque place que nous occupions,. 
- -
+Quelque place que nous occupions,. -
 elle n’est qu’un lieu de passage. dans lequel on ne demeure pas en sécurité ; cherche donc à acquérir du mérite et assieds-toi avec des vieillards savants, si tu veux que la fortune te favorise.
 
 Applique-toi au savoir et deviens puissant par lui, si tu veux ne pas souffrir du malheur.
@@ -91,7 +90,7 @@ Je voudrais te faire du bien par ces avis et orner ton esprit avec de lasagesse.
 
 Marche dans la voie du Maître du soleil et de la lune et écarte l’influence du Div.
 
-Garde devant toi jour et nuit cette lettre ; rends la raison maîtresse de ton cœur, et si tu fais dans le monde ce qui mérite un souvenir, ton nom ne cessera pas de rester grand.
+Garde devant toi jour et nuit cette lettre ; rends la raison maîtresse de ton cœur et si tu fais dans le monde ce qui mérite un souvenir, ton nom ne cessera pas de rester grand.
 
 Que le maître de tout bonheur soit ton.refuge ; que le temps et le monde te soient favorables ; que la roue du ciel tourne selon ton gré et écarte de toi
 . les mauvaises actions et les malheurs ; que le chagrin ne trouve pas la voie de ton cœur et que la joie y ait un libre accès ; que le monde soit toujours ton esclave, que les cœurs de les ennemis soient abattus ;
