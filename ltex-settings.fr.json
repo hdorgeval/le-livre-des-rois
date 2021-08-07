@@ -1366,6 +1366,10 @@
       {
         "rule": "QUI_VCONJ",
         "sentence": "^\\QÔ vous qui portez haut la tête, qui avez éprouvé le bonheur et le malheur des jours !\\E$"
+      },
+      {
+        "rule": "ACCORD_COULEUR",
+        "sentence": "^\\QL'année suivante la face du ciel se dessécha et la sécheresse rendit l'eau dans les ruisseaux noire comme le musc ; la troisième année, il en fut de même et de même la quatrième : tout le monde était en détresse par ce manque d'eau.\\E$"
       }
     ]
   }
