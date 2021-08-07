@@ -69,7 +69,7 @@ On entendit de la porte du jardin le son des trompettes. le Sipehhed se précipi
 
 Renversèrent tout le corps lm ; Bahram, un javelot en main, bondissait comme fait un homme à moitié ivre.
 
-Peu devTurcs échappèrent à sa main, sa tête était insatiable de sang.
+Peu de Turcs échappèrent à sa main, sa tête était insatiable de sang.
 
 On entendit le fracas des coups que donnaient les chefs, comme des coups de marteau d’a-cier sur l’enclume des forgerons et depuis ce jardin jusqu’au camp du roitParmoudeh, toute la route fut couverte de corps privés de leurs têtes.
 
