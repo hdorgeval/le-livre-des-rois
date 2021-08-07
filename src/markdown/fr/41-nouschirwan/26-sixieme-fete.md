@@ -46,7 +46,7 @@ Il répondit :
 
 > Il faut d’abord garder ton cœur contre l’envie de blâmer.
 >
-> Personne dans le monde n’est sans défaut, s’il veut en secret . h tâter son corps et son âme.
+> Personne dans le monde n’est sans défaut, s’il veut en secret . tâter son corps et son âme.
 >
 > Si tu es le supérieur. on te portera envie ; si tu es l’inférieur, ton supérieur te fera verser des larmes.
 >
