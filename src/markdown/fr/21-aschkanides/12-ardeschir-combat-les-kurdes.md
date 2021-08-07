@@ -22,7 +22,7 @@ Il demanda à Dieu de le récompenser de ses bonnes œuvres et de lui permettre 
 
 Lorsque le roi Ardeschir s’approcha, les Kurdes allèrent à sa rencontre pour le combattre avec une armée innombrable.
 
-C’était une alfaire méprisable ; mais elle devenait difficile parce que le pays entier aidait les Kurdes.
+C’était une affaire méprisable ; mais elle devenait difficile parce que le pays entier aidait les Kurdes.
 
 Il avait formé
 
@@ -36,17 +36,17 @@ Lorsque la nuit eut levé son drapeau et mis fin au combat, à l’agitation et 
 
 Le roi et son escorte mirent pied à terre, leurs bouches pleines de la poussière du combat ; Ardeschir leur demanda avidement de l’eau et ils lui en apportèrent avec du lait caillé ; il se reposa, mangea un peu de ce qu’il voyait devant lui et la nuit étant devenue noire, il ôta sacotte de mailles, s’en fit un matelas digne d’un homme de guerre et prit pour oreiller son casque royal.
 
-I Lorsque l’aurore parut. sur la surface des eaux, le roi de l’Iran se réveilla ; le chef des pâtres s’approcha de son chevet, disant :
+I Lorsque l’aurore parut sur la surface des eaux, le roi de l’Iran se réveilla ; le chef des pâtres s’approcha de son chevet, disant :
 
 > Puissent tes jours et les .5 nuits être heureux !
 
-Quel malheur t’a donc fait prendre le chemin de ce désert, où tu as trouvé un lit si malaiséh Le roi lui demanda sa route, et comment se rendre de ce lieu à un endroit où il pourrait se reposer.
+Quel malheur t’a donc fait prendre le chemin de ce désert, où tu as trouvé un lit si malaiséh Le roi lui demanda sa route et comment se rendre de ce lieu à un endroit où il pourrait se reposer.
 
 Le chef des pâtres répondit :
 
-> Tu ne trouveras pas sans guide un pays habité ; mais quand tu auras fait d’ici un chemin de quatre farsangs, tu verras un lieu où te reposer et de là il y a village sur village et dans chacun un chef renommé.»
+> Tu ne trouveras pas sans guide un pays habité ; mais quand tu auras fait d’ici un chemin de quatre farsangs, tu verras un lieu où te reposer et de là il y a village sur village et dans chacun un chef renommé. »
 
-I Ardeschir, ayant enlendu’ ces paroles du pâtre, emmena de leurs troupeaux quelques vieillards pour lui servir de guides, traversa la montagne et arriva dans un village dont le chef s’empressa d’aller au-
+I Ardeschir, ayant entendu’ ces paroles du pâtre, emmena de leurs troupeaux quelques vieillards pour lui servir de guides, traversa la montagne et arriva dans un village dont le chef s’empressa d’aller au-
 devant de lui.
 
 Il envoya de là des cavaliers jeunes et vieux à Kharreh-i-Ardeschir et toute l’armée, quand
@@ -56,9 +56,9 @@ A Il envoya des espions dans le pays des Kurdes pour apprendre en secret ce qui 
 
 Ces hommes de confiance partirent et en revenant mirent pied à terre auprès du roi de l’Iran, disant :
 
-> Ils sont tout glorieux et dans la joie et personne ne s’inquiète du roi ; ils croient qu’Ardeschir est affaibli et à Isthakhr et que sa jeune fortune a vieilli.»
+> Ils sont tout glorieux et dans la joie et personne ne s’inquiète du roi ; ils croient qu’Ardeschir est affaibli et à Isthakhr et que sa jeune fortune a vieilli. »
 
-Ces paroles réjouirent le roi et tout ce qui s’était passé s’elI’aça de son cœur comme un souille ; il choisit dans cette armée glorieuse dix mille cava-
+Ces paroles réjouirent le roi et tout ce qui s’était passé s’elI’aça de son cœur comme un souffle ; il choisit dans cette armée glorieuse dix mille cava-
 V. ’ t !
 
 A !
@@ -72,7 +72,7 @@ Lorsque la nuit fut passée à moitié et tout à fait sombre, le roi fut près 
 S’approchant des Kurdes endormis, il lâcha la bride aux destriers ardents, tira l’épée et frappa et posa une couronne de sang sur la tête des herbes.
 
 Toute la plaine fut couverte de têtes et de mains coupées des Kurdes, leurs
-. corps étaient couchés l’un sur l’autre par soixantaine, et l’on fit des prisonniers sans nombre ; leur férocité et leur folie avaient amené leur perte.
+. corps étaient couchés l’un sur l’autre par soixantaine et l’on fit des prisonniers sans nombre ; leur férocité et leur folie avaient amené leur perte.
 
 Ardeschir livra au pillage tout leur pays et distribua à toute son armée de l’or et des couronnes et la bonne étoile et la justice du roi produisirent un effet tel qu’un vieillard pouvait, dans ce pays, porter sur sa tête, dans un plateau, des pièces d’or, sans que personne y fit attention.
 
