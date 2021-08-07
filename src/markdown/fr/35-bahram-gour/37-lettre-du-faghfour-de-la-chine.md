@@ -16,13 +16,15 @@ order: '037'
 
 # Lettre du Faghfour de la Chine et réponse de Bahram
 
-Lorsque le Faghfour de la Chine apprit qu’un homme plein de majesté avait été envoyé du pays d’Iran auprès de Schenguil, qu’il avait l’air d’un roi et d’un homme de grande naissance et que Schenguil lui avait donné sa fille pour que son diadème touchât la lune, ce puissant prince écrivit une lettre au roi Bahram, adressée ainsi : De la part du roi du monde, qui est le chef des hommes illustres et la couronne des grands, à l’envoyé perse, qui est arrivé à Kanoudj avec trente compagnons.»
+Lorsque le Faghfour de la Chine apprit qu’un homme plein de majesté avait été envoyé du pays d’Iran auprès de Schenguil, qu’il avait l’air d’un roi et d’un homme de grande naissance et que Schenguil lui avait donné sa fille pour que son diadème touchât la lune, ce puissant prince écrivit une lettre au roi Bahram, adressée ainsi :
+
+> De la part du roi du monde, qui est le chef des hommes illustres et la couronne des grands, à l’envoyé perse, qui est arrivé à Kanoudj avec trente compagnons. »
 
 Puis, il dit :
 
 > Nous avons entendu parler de toi, homme illustre et glorieux, de ta prudence, de ta bravoure et de ton intelligence, de ce que tu plantes partout fermement ton pied et de ce que le loup et ce célèbre dragon n’ont pu échapper à ton épée tranchante.
 >
-> Schenguil t’a donné sa fille. qui est ma parente et dont’le grain de beauté vaut tout l’IIiudoustan.
+> Schenguil t’a donné sa fille. qui est ma parente et dont’le grain de beauté vaut tout l’Hindoustan.
 >
 > Tu élèves ta tête jusqu’aux nues par cette parenté avec un puissant roi et la grandeur du roi d’Iran y gagne, puisqu’un de ses sujets, qui lui-même est un diadème pour la lune, est allé BAHRAM cous. ’ dans le Kanoudj et a pressé sur son cœur cette lune Sepinoud.
 >
@@ -32,7 +34,7 @@ Puis, il dit :
 >
 > Il n’y a pas de honte pour toi de venir chez moi, puisque je suis en paix avec le roi de l’Iran.
 >
-> Ne recule pas par mollesse devant ce voyage et quand tu voudras t’en retourner chez toi, tu ne seras pas retenu.»
+> Ne recule pas par mollesse devant ce voyage et quand tu voudras t’en retourner chez toi, tu ne seras pas retenu. »
 
 Bahram Gour reçut cette lettre, qui fit naître en lui un grand mécontentement ; il appela un scribe et fit écrire une réponse par laquelle il planta un arbre dans le verger de la haine.
 
@@ -50,13 +52,13 @@ Il commença ainsi :
 >
 > Ensuite tu parles de ce que j’ai fait et des fatigues que j’ai endurées dans l’Hindoustan ; tout cela s’est accompli grâce à l’étoile du roi Bahram, le maître de la majesté, du trône et de la gloire.
 >
-> Les Iraniens font de grandes choses, voilà tout ; ils ne comptent pour rien les lions féroces ; ils sont tous sincères et reconnaissent Dieu ; dans le bonheur, ils ne rendent pas grâceaux astres.
+> Les Iraniens font de grandes choses, voilà tout ; ils ne comptent pour rien les lions féroces ; ils sont tous sincères et reconnaissent Dieu ; dans le bonheur, ils ne rendent pas grâce aux astres.
 >
 > Ensuite, si le roi m’a donné sa fille. ce c’est par ma bravoure que j’ai conquis cet honneur.
 >
 > Schenguil est un puissant roi, qui par son couverage chasse les loups loin des brebis et quand il a vu qu’une alliance avec moi lui convenait, il m’a donné sa gracieuse fille.
 >
-> Puis tu me dis : Lèveloi et viens ici ; je serai ton guide vers tous les bonheurs.
+> Puis tu me dis : Lève loi et viens ici ; je serai ton guide vers tous les bonheurs.
 >
 > Le roi de l’Iran m’aurait envoyé dans l’Inde et j’irais en Chine pour avoir du satin chinois ?
 >
