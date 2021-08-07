@@ -20,11 +20,11 @@ Un jour Bahram dit à Nersi :
 
 > Pars avec le sceau et le diadème, je te donne le Khorasan ; fais-le prospérer et rends heureux le cœur de mes sujets ; aie soin d’être toujours juste et n’interromps jamais le passage à travers ce pays.
 >
-> Notre père a fait le mal, mais il a eu à trembler comme un homme nu tremble devant le vent d’automne.»
+> Notre père a fait le mal, mais il a eu à trembler comme un homme nu tremble devant le vent d’automne. »
 
 Il lui fit préparer une robe d’honneur, fit vider pour lui un riche trésor et lui dit :
 
-> Que Dieu soit ton asile et le trône du soleil la demeure !»
+> Que Dieu soit ton asile et le trône du soleil la demeure ! »
 
 Nersi passa deux semaines dans son voyage et prit, enhonne santé, possession du Khorasan.
 
@@ -38,13 +38,13 @@ Il lui dit :
 >
 > Quel homme est-ce et jusqu’où va son intelligence ?
 >
-> Car l’intelligence est le soutien de l’âme.»Le Mobed répondit :
+> Car l’intelligence est le soutien de l’âme. »Le Mobed répondit :
 
 > Puisses-tu rester éternellement le maître du monde, entouré de la majesté que Dieu t’a donnée !
 >
-> C’est un vieillard sage et réservé, qui tr parle bien et d’une voix douce ; il est de l’école de Falathoun (Platon), c’est un homme de sens, savant et de bonne naissance : Il était plein d’énergie quand il est arrivé du Roum ; mais dans ce pays il ’ s’est fatigué, il s’est engourdi comme un serpent au mois de décembre ; son corps est affaibli et ses joues sont devenues couleur de roseau.
+> C’est un vieillard sage et réservé, qui parle bien et d’une voix douce ; il est de l’école de Falathoun (Platon), c’est un homme de sens, savant et de bonne naissance : Il était plein d’énergie quand il est arrivé du Roum ; mais dans ce pays il ’ s’est fatigué, il s’est engourdi comme un serpent au mois de décembre ; son corps est affaibli et ses joues sont devenues couleur de roseau.
 >
-> Ses serviteurs sont comme des moutons que rencontre un chien un jour de chasse, mais lui nous regarde avec fierté et colère et ne compte pour rien les hommes de ce pays.»
+> Ses serviteurs sont comme des moutons que rencontre un chien un jour de chasse, mais lui nous regarde avec fierté et colère et ne compte pour rien les hommes de ce pays. »
 
 Bahram dit au Mobed :
 
@@ -56,7 +56,7 @@ Bahram dit au Mobed :
 >
 > L’un veut des combats et amène une armée, un autre veut des fêtes et apporte un diadème d’or et c’est à moi de distinguer ce qu’ils valent.
 >
-> Heureux qui sait traiter avec les grands !»
+> Heureux qui sait traiter avec les grands ! »
 
 Le Mobed le bénit affectueusement, disant :
 
@@ -66,4 +66,4 @@ Le Mobed le bénit affectueusement, disant :
 >
 > Puisse ta langue ne proférer que de bonnes paroles !
 >
-> Puisses-tu rester le plus grand parmi les grands !»
+> Puisses-tu rester le plus grand parmi les grands ! »
