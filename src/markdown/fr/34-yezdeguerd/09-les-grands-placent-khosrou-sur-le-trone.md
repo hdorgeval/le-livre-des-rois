@@ -38,17 +38,19 @@ Guschasp, homme éloquent et qui savait écrire, dit :
 ;sence, de son cœur, de sa volonté, de sa famille,
 -et il ne parle que de Mondhir.
 >
-> Nous ne voulons pas sur le trône un homme injuste.»
+> Nous ne voulons pas sur le trône un homme injuste. »
 
 Tous les chefs de l’Iran prêtèrent alors un serment solennel, disant :
 
-> Nous ne voulons pour roi des rois, avec la couronne et sur le trône du pouvoir, aucun homme de cette race.»
+> Nous ne voulons pour roi des rois, avec la couronne et sur le trône du pouvoir, aucun homme de cette race. »
 
 Étant convenus de cela, ils se levèrent et cherchèrent tous un autre roi.
 
-Lorsque la nouvelle de la mort du roi se fut répandue parmi les grands, le roi des Alains, le Pehlewan de l’armée, Biwerd et Scheknan au diadème d’or, dirent tous : La royauté est à moi, depuis la [ : terre jusqu’au zénith de la lune.»
+Lorsque la nouvelle de la mort du roi se fut répandue parmi les grands, le roi des Alains, le Pehlewan de l’armée, Biwerd et Scheknan au diadème d’or, dirent tous :
 
-Le monde entier fut dans l’émotion, lorsque le maître de la couronne eut disparu du trône et dans l’Iran les nobles, les Mobeds, les Pehlewans et tous les hommes à l’esprit brillant se réunirent de nouveau dans le pays de Fers et délibérèrent sur cesall’aires, disant :
+> La royauté est à moi, depuis la [ : terre jusqu’au zénith de la lune. »
+
+Le monde entier fut dans l’émotion, lorsque le maître de la couronne eut disparu du trône et dans l’Iran les nobles, les Mobeds, les Pehlewans et tous les hommes à l’esprit brillant se réunirent de nouveau dans le pays de Fers et délibérèrent sur cesaffaires, disant :
 
 > Qui est-ce qui est digne de ce trône de la royauté ?
 >
@@ -56,7 +58,7 @@ Le monde entier fut dans l’émotion, lorsque le maître de la couronne eut dis
 >
 > Qui peut remplir cette place.
 >
-> Nous ne voyons pas un homme généreux qui pourrait dispenser la justice, monter sur ce trône et mettre la ceinture d’or pour calmer le trouble qui agite le monde ; car le monde sans roi n’est qu’un pâturage.»
+> Nous ne voyons pas un homme généreux qui pourrait dispenser la justice, monter sur ce trône et mettre la ceinture d’or pour calmer le trouble qui agite le monde ; car le monde sans roi n’est qu’un pâturage. »
 
 Or il y avait un vieillard dont le nom était Khosrou, un homme vaillant, d’une âme sereine et joyeuse, né d’une famille noble et des plus riches du pays.
 
