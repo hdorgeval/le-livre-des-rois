@@ -32,28 +32,28 @@ Il courut auprès de Kobad et lui dit :
 
 > Ô roi vertueux !
 >
-> Je vais t’adresser une question, espérant que tu me donneras un mot de réponse.»
+> Je vais t’adresser une question, espérant que tu me donneras un mot de réponse. »
 
 Kobad lui dit :
 
-> Parle et éclaire-moi par tes paroles.»
+> Parle et éclaire-moi par tes paroles. »
 
 Mazdek dit :
 
 > Un homme a été mordu par un serpent et sa vie est en danger ; un autre a un antidote, mais l’homme mordu ne peut pas obtenir de lui de sa thériaque.
 >
-> Dis-moi de quoi est digne l’homme qui possède de la thériaque du poids de vingt dirhems?»
+> Dis-moi de quoi est digne l’homme qui possède de la thériaque du poids de vingt dirhems ? »
 
 Le roi lui répondit :
 
-> L’homme qui détient la thériaque est un meurtrier, il faut le tuer devant ma porte pour venger le sang de l’homme mordu, aussitôt que la famille du mort pourra le saisir.»
+> L’homme qui détient la thériaque est un meurtrier, il faut le tuer devant ma porte pour venger le sang de l’homme mordu, aussitôt que la famille du mort pourra le saisir. »
 
 .
 Mazdek, ayant entendu ces paroles, se leva, se rendit auprès de ceux qui demandaient secours et leur dit :
 
 > J’ai parlé au roi et lui ai adressé des questions sur chaque point.
 >
-> Attendez jusqu’à demain matin et je vous montrerai le chemin de la justice.»
+> Attendez jusqu’à demain matin et je vous montrerai le chemin de la justice. »
 
 Ils partirent et revinrent à l’aube du jour,
 ’ le cœur rempli de paroles et pleins d’anxiété.
@@ -63,11 +63,11 @@ Mazdek vit de loin ces hommes vaillants, courut de la porte du palais auprès du
 > Ô roi victorienx, éloquent, vigilant, puissant et majestueux !
 je t’ai exposé hier un cas et tu m’as ouvert par ta réponse la porte de l’intelligence, qui était l’er-’ tu mée.
 >
-> Si tu me le permets, je te parlerai de nouveau, ô toi qui es mon guide !»
+> Si tu me le permets, je te parlerai de nouveau, ô toi qui es mon guide ! »
 
 Kobad répondit :
 
-> Parle et ne ferme pas tes lèvres ; tes paroles me seront utiles.»
+> Parle et ne ferme pas tes lèvres ; tes paroles me seront utiles. »
 
 Il dit :
 
@@ -75,15 +75,15 @@ Il dit :
 >
 > Suppose qu’on ait lié quelqu’un fortement avec des chaînes et qu’il donnerait dans sa détresse sa vie pour un pain, mais qu’on lui refuse la nourriture jusqu’à ce qu’il meure ; quelle sera la punition de celui qui, ayant du pain, l’a méchamment refusé au prisonnier ?
 >
-> Et le roi me dira si cet homme était sage et vertueux.»
+> Et le roi me dira si cet homme était sage et vertueux. »
 
 Le roi répondit :
 
-> C’est un misérable et il doit répondre du meurtre qu’il a commis en n’agissant pas.»
+> C’est un misérable et il doit répondre du meurtre qu’il a commis en n’agissant pas. »
 
 Mazdek, à ces paroles, baisa la terre, quitta la présence du roi, se mit sous le portail du palais et dit à la foule :
 
-> Allez partout où il y a du blé caché, prenezen chacun une part et si l’on en demande le prix, détruisez le village.»
+> Allez partout où il y a du blé caché, prenezen chacun une part et si l’on en demande le prix, détruisez le village. »
 
 Il livra au pillage ’ce qu’il possédait lui-même dans la ville, pour que chacun en pritsa part et tous les affamés coururent s’emparer de tout le blé et bientôt il ne restait plus un grain de froment dans les magasins des gens de la ville ni dans ceux du roi.
 
@@ -104,7 +104,7 @@ Mazdek répondit :
 > Si tu es juste,
 ô roil tu ne ménageras pas le blé dans les greniers.
 >
-> Beaucoup d’hommes sont morts de faim et ce sont les greniers pleins qui sont la cause de leur mort.»
+> Beaucoup d’hommes sont morts de faim et ce sont les greniers pleins qui sont la cause de leur mort. »
 
 Les discours de Mazdek affligèrent Kobad et sa tête s’exalta de ces paroles qui paraissaient si justes ; il lui fit des questions et écouta ses réponses ; il vit que sa tête et son cœur étaient remplis de discours, remplis de tout ce que les prophètes, les Mobeds et les chefs pleins de justice avaient dit ; les paroles de Mazdek le pervertirent et leur effet dépassa toute mesure.
 
@@ -116,7 +116,7 @@ Il leur disait :
 >
 > Il faut qu’il y ait dans le monde de l’égalité et le superflu des richesses est chose illicite et mau-vaise ; il faut partager les femmes, les maisons et les biens et le plus pauvre est l’égal du riche.
 >
-> Je saurai concilier tout cela avec la foi pure et l’on pourra distinguer alors ce qui est vraiment grand de ce qui est bas et Dieu maudira la voie de quiconque aura une autre foi que celle-ci.»
+> Je saurai concilier tout cela avec la foi pure et l’on pourra distinguer alors ce qui est vraiment grand de ce qui est bas et Dieu maudira la voie de quiconque aura une autre foi que celle-ci. »
 
 Il traitait comme des égaux tous les pauvres, qu’ils fussent vieux ou jeunes.
 
