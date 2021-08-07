@@ -201,7 +201,7 @@ Kesra lui demanda :
 
 > Ô homme illustre et d’un bon caractère !
 >
-> Devient-on puissant par ses propres efi’orts ou par l’effet de la fortune qui livre aux rois le trône et’la couronne ? »
+> Devient-on puissant par ses propres efforts ou par l’effet de la fortune qui livre aux rois le trône et’la couronne ? »
 
 Il répondit :
 
@@ -396,7 +396,7 @@ Il répondit :
 > D’abord il s’inquiète du jour de malheur, pour qu’il ne lui arrive pas de mal sans sa faute ; ensuite il craint les machinations de faux amis qui en voudraient à sa tête, à sa vie, à son sang et à sa peau ; enfin il se méfie d’un roi injuste, qui ne distingue pas un homme vertueux d’un vaurien.
 >
 > Que la rotation du sort serait donc heureuse, si l’on rencontrait un
-. ami plein de raison qui vous servirait de maître. un monde plein de lumière et un roi plein de justice !
+. ami plein de raison qui vous servirait de maître un monde plein de lumière et un roi plein de justice !
 >
 > Le ciel ne pourrait donner à l’homme un plus grand bonheur. »
 
