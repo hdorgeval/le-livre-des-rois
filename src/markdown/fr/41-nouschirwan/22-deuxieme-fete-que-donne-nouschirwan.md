@@ -156,7 +156,7 @@ Il répondit :
 
 > Le sage dit que le roi peut être en faut par quatre choses :
 
-> d’abord s’il a peur de l’ennemi dans le combat ; ensuite s’il est peu emprèssé à donner ; puis s’il néglige les avis des . sages au jour de.la bataille ; enfin s’il agit avec précipitation et ne se donne pas, au milieu desaffaires, le temps de se reposer et de dormir. »
+> d’abord s’il a peur de l’ennemi dans le combat ; ensuite s’il est peu emprèssé à donner ; puis s’il néglige les avis des . sages au jour de.la bataille ; enfin s’il agit avec précipitation et ne se donne pas, au milieu des affaires, le temps de se reposer et de dormir. »
 
 Un autre dit :
 
@@ -164,7 +164,7 @@ Un autre dit :
 
 Il répondit :
 
-> Nous nommons homme juste celui chez qui la raison est garante des paroles ; mais quand un homme riche trompe et ment et recherche des houneurs par des moyens détournés et injustes, quand il sait refréner devant le roi son égoïsme et sa convoitise, mais blesse follement le cœur des hommes purs, c’est le signe d’un homme vaniteux, faisant ce qui mérite blâme et ayant la tête remplie du besoin de domination. »
+> Nous nommons homme juste celui chez qui la raison est garante des paroles ; mais quand un homme riche trompe et ment et recherche des honneurs par des moyens détournés et injustes, quand il sait refréner devant le roi son égoïsme et sa convoitise, mais blesse follement le cœur des hommes purs, c’est le signe d’un homme vaniteux, faisant ce qui mérite blâme et ayant la tête remplie du besoin de domination. »
 
 Un autre dit :
 
