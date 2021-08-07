@@ -1362,6 +1362,10 @@
       {
         "rule": "AGREEMENT_POSTPONED_ADJ",
         "sentence": "^\\QLe trône sied à l'homme intelligent, car l'or est sans valeur comparé à l'intelligence et tout homme qui est content est riche ; mais un cœur avide est une maison remplie de fumée.\\E$"
+      },
+      {
+        "rule": "QUI_VCONJ",
+        "sentence": "^\\QÔ vous qui portez haut la tête, qui avez éprouvé le bonheur et le malheur des jours !\\E$"
       }
     ]
   }
