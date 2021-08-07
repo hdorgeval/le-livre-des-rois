@@ -69,7 +69,7 @@ Le Kaisar lui dit :
 >
 > Je te confie ma fille, ces trésors et cette armée si bien équipée. »
 
-Neïathous se chargea de tout, le maître du monde se détourna en pleurant et l’armée se mit en route pour Aurige, précédée par Neïathous, armé de la massue et de l’Loérsqpue Kéhoesro.u apIprit que l’armée arrivait, il sortit de la ville avec ses troupes et se plaça sur la route.
+Neïathous se chargea de tout, le maître du monde se détourna en pleurant et l’armée se mit en route pour Aurige, précédée par Neïathous, armé de la massue et de l’Loérsqpue Khosrou.u apIprit que l’armée arrivait, il sortit de la ville avec ses troupes et se plaça sur la route.
 
 On vit la poussière que soulevaient les chefs, on vit les drapeaux des cavaliers cuirassés ; l’armée arriva rapidement comme un nuage, une armée noyée dans les casques et les corselets et le cœur du roi sourit comme une rose au printemps en voyant ces troupes illustres.
 
