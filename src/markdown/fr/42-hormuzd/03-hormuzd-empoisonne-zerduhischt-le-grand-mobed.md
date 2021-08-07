@@ -71,7 +71,7 @@ Pendant que le Mobed serendait à son palais, un des agents du roi courut au mê
 
 Son cœur s’endurcit à l’instantvenvers lzed Guschasp ; il envoya à la prison et le fit mettre à mort.
 
-Il se fit faire beaucoup de rapports sur ce que disait le Mobed, mais sans lui marquer aucun déplaisir ; il réfléchissait de toute manière comment il pourrait faire mourir Zerduhischt ; à la fin il ordonna à son cuisinier de mettre en secret du poison dans unmets et lorsque le Mobed se présenta à l’heure de l’audience pour prendre les ordres du roi illustre, il lui dit :
+Il se fit faire beaucoup de rapports sur ce que disait le Mobed, mais sans lui marquer aucun déplaisir ; il réfléchissait de toute manière comment il pourrait faire mourir Zerduhischt ; à la fin il ordonna à son cuisinier de mettre en secret du poison dans un mets et lorsque le Mobed se présenta à l’heure de l’audience pour prendre les ordres du roi illustre, il lui dit :
 
 > Ne t’en va pas aujourd’hui, j’ai découvert un nouveau cuisinier. »
 
