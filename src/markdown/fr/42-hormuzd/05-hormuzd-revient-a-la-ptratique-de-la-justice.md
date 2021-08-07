@@ -73,7 +73,7 @@ Le maître de la vigne survint et dit au cavalier :
 > Ô homme méchant et malfaisant !
 >
 > Tu ne t’es pas fatigué à garder ces raisins, tu ne les as pas payés de ton argent;-
-erpourquoi, toi qui n’a pas en de peine, me prives-tu a des fruits de celle que j’ai eue ?
+et pourquoi, toi qui n’a pas en de peine, me prives-tu a des fruits de celle que j’ai eue ?
 >
 > Je vais m’en plaindre au roi. »
 
