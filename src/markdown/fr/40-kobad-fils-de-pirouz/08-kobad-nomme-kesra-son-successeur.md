@@ -33,7 +33,7 @@ Je donne mon noble trône à Kesra ; il sera, après ma mort, le favori de la fo
 
 Puisse Dieu approuver mon fils, puisse le cœur de ses ennemis être rempli d’angoisse !
 
-Par ce sceau, nous demandons aux Mobeds, à nos sujets, aux glorieux nobles, de ne ce jamais s’écarter de ses ordres ; il vous aidera à être ce heureux et à accumuler des trésors.»
+Par ce sceau, nous demandons aux Mobeds, à nos sujets, aux glorieux nobles, de ne ce jamais s’écarter de ses ordres ; il vous aidera à être ce heureux et à accumuler des trésors. »
 
 Il apposa son sceau d’or sur cette lettre et la remit au Mobed de Ram Berzin.
 
@@ -59,7 +59,7 @@ Le monde fut rajeuni par sa couronne, la brebis et le loup s’abreuvèrent au m
 
 > Puisse ce’roi occuper éternellement le trône !
 >
-> Puisse sa gloire dépasser celle de Djemschid !»
+> Puisse sa gloire dépasser celle de Djemschid ! »
 
 A cause de sa bonté, de sa justice, de sa dignité, de son grand savoir et de sa piété, on lui donna le nom de Nouschirwan (âme douce), car son visage était jeune et son pouvoir était nouveau.
 
