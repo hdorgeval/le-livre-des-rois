@@ -23,8 +23,10 @@ Lorsque son armée dispersée fut réunie, il la conduisit dans un lieu entre de
 Il y avait un homme, du nom de Schehriguir, homme intelligent et commandant de l’armée du roi ; Ardeschir dit à ce Pehlewan :
 
 > Reste ici tranquillement, envoie jour et nuit des rondes de cavaliers prudents et habiles à reconnaître les routes, établis des guetteurs et des gardes de nuit pour qu’ils veillent à la sécurité de l’armée jour et nuit.
+>
+> Je vais maintenant tenter une ruse, à l’exemple d’Isfendiar, mon ancêtre et quand tes guetteurs verront le jour une fumée, ou la nuit unfeu semblable au soleil qui éclaire le monde. vous saurez que le ver est mort, que son étoile, ses jours et ses ruses sont passés. »
 
-Je vais maintenant tenter une ruse, à l’exemple d’Isfendiar, mon ancêtre et quand tes guetteurs verront le jour une fumée, ou la nuit unfeu semblable au soleil qui éclaire le monde. vous saurez que le ver est mort, que son étoile, ses jours et ses ruses sont passés. n Il choisit sept hommes parmi les grands, des hommes vaillants, des lions dans le combat ; il ne a3.
+Il choisit sept hommes parmi les grands, des hommes vaillants, des lions dans le combat ; il ne a3.
 
 Confia son secret à aucun de ses confidents, nil même au vent de l’air ; il choisit dans son trésor beaucoup
 . de pierreries, des draps d’or, des pièces d’argent et toute sorte de choses et n’hésita point à prendre ce qu’il avait de plus précieux ; puis il remplit de plomb et d’étain deux caisses, plaça dans ses bagages un chaudron de bronze, qui lui était indispensable pour son plan.
@@ -36,15 +38,17 @@ Il partit, le cœur inquiet et méditant des moyens de réussite et se dirigea d
 Il les choisit parmi sa cour et les prit avec lui, car ils étaient ses amis et ses conseillers.
 
 Lorsqu’ils furent arrivés devant le château, ils s’arrêtèrent sur la hau-
-teur pour respirer. i Or il y avait soixante hommes chargés du service du ver, dont pas un ne négligeait sa besogne ; un d’eux aperçut Ardeschir et dit à haute voix :
+teur pour respirer.
 
-> a Qu’estcrce que contiennent cescaisses?»
+Or il y avait soixante hommes chargés du service du ver, dont pas un ne négligeait sa besogne ; un d’eux aperçut Ardeschir et dit à haute voix :
+
+> a Qu’estcrce que contiennent cescaisses ? »
 
 Le roi lui répondit :
 
 > J’apporte toute espèce de marchandises, des ornements, des vêtements, des objets d’or et d’arce gent, du brocart, de la monnaie, des soieries et des pierres fines ; je. suis un marchand du Khorilsan, je me donne de la peine et ne me repose a jamais.
 >
-> Par la grâce du ver, j’ai de belles choses ; je suis heureux d’être arrivé devant son trône et ne saurais trop lui témoigner ma vénération, car cc j’ai prospéré par son influence heureuse.»
+> Par la grâce du ver, j’ai de belles choses ; je suis heureux d’être arrivé devant son trône et ne saurais trop lui témoigner ma vénération, car cc j’ai prospéré par son influence heureuse. »
 
 Le serviteur du ver fit part ana : autres de ce secret ; ils ouvrirent à l’instant la porte du château ; Ardeschir entra avec ses ânes et leurs charges, forma un magasin, s’empressa d’ouvrir un des paquets et offrit les présents indispensables.
 
@@ -59,7 +63,7 @@ Atteindre l’objet de ses désirs ; ils lui répondirent :
 
 > Eh bien !
 >
-> Chargedoi du service.»
+> Chargedoi du service. »
 
 L’ânier se rendit agréable de toutes les manières ; il fit asseoirces hommes, la coupe en main, ilsburent et s’enivrerent et de serviteurs du ver ils devinrent serviteurs du vin.
 
