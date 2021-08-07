@@ -16,7 +16,9 @@ order: '053'
 
 # On invente les échecs pour consoler La mère de Thalhend
 
-Gau envoya des cavaliers partout où il y avaitvun v1. h Mobed distingué et ils arrivèrent tous à la porte du roi ; ils arrivèrent à cette cour illustre.
+Gau envoya des cavaliers partout où il y avaitvun v1.
+
+Mobed distingué et ils arrivèrent tous à la porte du roi ; ils arrivèrent à cette cour illustre.
 
 Le roi du monde s’assit avec ces Indiens, hommes puissants, savants et brillants d’esprit ; et le précepteur leur fit un dessin du champ de bataille pour montrer comment s’était passé le combat des rois et des armées ; ils parlaient tous à cet homme ingénieux du fleuve, du fossé et de la prise d’eau ; aucun d’eux ne dormit pendant cette nuit et ils n’ouvrirent pas entre eux les lèvres sur autre chose. ’
 Lorsque le son des timbales se fit entendre sur le Meîdan, ces hommes pleins d’expérience se firent apporter du bois d’ébène et deux hommes puissants et bienveillants en firent un tableau carré, représentant le fossé, le champ de bataille et les deux armées en face l’une de l’autre.
