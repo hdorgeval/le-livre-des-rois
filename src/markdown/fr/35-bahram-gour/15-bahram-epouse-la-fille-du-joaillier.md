@@ -16,7 +16,7 @@ order: '015'
 
 # Bahram épouse la fille du joaillier
 
-Bahram se rendit le huitième jour surle lieu de la chasse, accompagné de Rouzbeh et d’une escorte de ; mille cavaliers ; il vit touteila plaine remplie d’onagres, lira de l’étui son arc de Keîanide, attacha la corde aux deux bouts noirs et invoqua Dieu, le victorieux. ’était le printemps, les onagres mâles cherchaient des femelles ; ils s’étaient réunis du monde entier en ce lieu et se déchiraient la peau l’un à l’autre, de façon que leur sang avait donné à la terre la couleur des tulipes.
+Bahram se rendit le huitième jour surle lieu de la chasse, accompagné de Rouzbeh et d’une escorte de ; mille cavaliers ; il vit toute la plaine remplie d’onagres, lira de l’étui son arc de Keîanide, attacha la corde aux deux bouts noirs et invoqua Dieu, le victorieux. ’était le printemps, les onagres mâles cherchaient des femelles ; ils s’étaient réunis du monde entier en ce lieu et se déchiraient la peau l’un à l’autre, de façon que leur sang avait donné à la terre la couleur des tulipes.
 
 Le roi marcha jusqu’à ce qu’il vît un onagre mâle en chaleur en combattre un autre ; le vaillant onagre victorieux s’accoupla avec une femelle.
 
@@ -30,7 +30,7 @@ Toute l’escorte était émerveillée de ce coup et tous ceux qui en avaient é
 >
 > Puisse chaque jour être une fête pour toi !
 >
-> Ta valeur est unique dans le monde, car tu es un roi, un (Ihosroës et un héros.»
+> Ta valeur est unique dans le monde, car tu es un roi, un (Ihosroës et un héros. »
 
 De là il lança son cheval Schebreng et trouva sur son chemin un bois devant lequel il aperçut (Jeux lions féroces.
 
@@ -38,7 +38,7 @@ Il banda son arc et le tendit ; le coup frappa la poitrine du lion mâle, la fl�
 
 Il s’approcha alors rapidement de la femelle, lâcha l’anneau du pouce qui retenait la flèche et cousit ensemble la poitrine et l’aine de l’animal. il dit :
 
-> "était pourtant une flèche sans plumes et elle n’était pas aiguë, sa pointe était émoussée.»
+> "était pourtant une flèche sans plumes et elle n’était pas aiguë, sa pointe était émoussée. »
 
 Toute son escorte chanta sa gloire, disant :
 
@@ -46,18 +46,18 @@ Toute son escorte chanta sa gloire, disant :
 >
 > Personne n’a vu ni ne verra un maître comme toi sur le trône impérial.
 >
-> Puisque tu abats un lion avec une flèche sans plumes, tu pourrais arracher de sa base un rocher.»
+> Puisque tu abats un lion avec une flèche sans plumes, tu pourrais arracher de sa base un rocher. »
 
 .
 Bahram courut sur cette prairie avec tous ses amis qui lui faisaient escorte ; ils virent un bois plein de moutons et des pâtres qui s’enfuyaient de
 
-A ’ LE LIVRE ces crainte d’un malheur.
+A ’ ces crainte d’un malheur.
 
 Un chef des pâtres aperçut le roi ; il n’avait jamais de repos de peur des bêtes féroces.
 
 Bahram lui dit :
 
-> Qui tient donc des moutons dans un lieu si peu favorable?»
+> Qui tient donc des moutons dans un lieu si peu favorable ? »
 
 Le pâtre répondit :
 
@@ -75,7 +75,7 @@ Le pâtre répondit :
 >
 > Comment aurait-il pu garder ces richesses, si -Bahram n’était pas un roi juste ?
 >
-> Mais le roi des rois du monde n’est pas avide d’or et son Mohed n’est pas un homme injuste.»
+> Mais le roi des rois du monde n’est pas avide d’or et son Mobed n’est pas un homme injuste. »
 
 ’ ’
 Ensuite le chef des pâtres dit :
@@ -92,7 +92,7 @@ Bahram répondit :
 >
 > Où est la maison du marchand de pierreries ?
 >
-> Indique-moi le ellev min et ne me le Cache pas.»
+> Indique-moi le ellev min et ne me le Cache pas. »
 
 Le chef des pâtres lui dite Continue ta route et tu trouveras un beau et frais village.
 
@@ -132,18 +132,19 @@ Bouzbeh dit aux grands :
 >
 > Le parfum des femmes blanchit ses cheveux et quand on a des cheveux blancs on perd tout espoir dans le monde ; sa taille droite se courbera pendant qu’il sera encore jeune et tout ce malheur viendra des femmes.
 >
-> Il ne faut cohabiter qu’une fois par mois, plus fréquemment est verser son propre sang ; de même il faut qu’un homme jeune et prudent ménage ses forces à cause de sesenfants ; car si l’on dépasse cette mesure, on s’épuise et un homme faible produit des hommes dont le corps manque de sang. »
+> Il ne faut cohabiter qu’une fois par mois, plus fréquemment est verser son propre sang ; de même il faut qu’un homme jeune et prudent ménage ses forces à cause de ses enfants ; car si l’on dépasse cette mesure, on s’épuise et un homme faible produit des hommes dont le corps manque de sang. »
 
-En parlant ainsi ils arrivèrent au palais du roi au moment où le soleil disparaissait de la voûte du ciel. i Bahram partit lorsque la nuit fut devenue sombre, accompagné d’un seul homme pour son cheval ; il alla jusqu’à, la maison du marchand de pierreries et lorsque les sons du luth frappèrent son oreille, il lança à l’instant son cheval Gulgoun dans la direction du son, vers la maison du marchand.
+En parlant ainsi ils arrivèrent au palais du roi au moment où le soleil disparaissait de la voûte du ciel.
 
-Il frappa à la porte avec l’anneau et demanda à entrer I
- en invoquant l’aide du Maître du soleil.
+Bahram partit lorsque la nuit fut devenue sombre, accompagné d’un seul homme pour son cheval ; il alla jusqu’à, la maison du marchand de pierreries et lorsque les sons du luth frappèrent son oreille, il lança à l’instant son cheval Gulgoun dans la direction du son, vers la maison du marchand.
+
+Il frappa à la porte avec l’anneau et demanda à entrer I en invoquant l’aide du Maître du soleil.
 
 Une servante bienveillante demanda ce qu’il y avait et pourquoi dans la nuit noire on frappait à la porte.
 
 Il répondit :
 
-> (je malin le roi est allé dans la plaine pour chasser ; mon cheval est devenu boiteux sans moi et je suis resté tout à coup en arrière ; on me volerait dans la rue ce beau cheval et sa bride d’or et ne saurais que faire.»
+> (je malin le roi est allé dans la plaine pour chasser ; mon cheval est devenu boiteux sans moi et je suis resté tout à coup en arrière ; on me volerait dans la rue ce beau cheval et sa bride d’or et ne saurais que faire. »
 
 La jeune fille alla auprès du Dihkan et lui dit :
 
@@ -151,11 +152,11 @@ La jeune fille alla auprès du Dihkan et lui dit :
 
 Le Dihknn répondit :
 
-> Ouvre la porte ; est-ce que tu n’as jamais vu des hôtes ici?»
+> Ouvre la porte ; est-ce que tu n’as jamais vu des hôtes ici ? »
 
 La jeune fille courut ouvrir la porte et dit à Bahram :
 
-> Entre, jeune homme.»
+> Entre, jeune homme. »
 
 Quand le roi fut entré et qu’il vit un si beau lieu et partout des serviteurs debout, il dit en lui-même :
 
@@ -173,11 +174,11 @@ Puisse le cœur de mes sujets être heureux par moi !
 
 Plus ma sagesse et ma justice seront grandes, plus mon nom brillera après me mort et tous mes sujets jouiront, comme ce marchand de pierreries, des sons du luth et des coupes de vin. au Le roi des rois arriva au principal pavillon ; il
 
-Aperçut de la porte la tille célèbre du Dihkan et celui-ci, le voyant, se leva avec empressement et inclina sa taille droite, disant :
+Aperçut de la porte la fille célèbre du Dihkan et celui-ci, le voyant, se leva avec empressement et inclina sa taille droite, disant :
 
 > Que cette nuit te soit propice !
 >
-> Que le cœur de tes ennemis soit déchiré !»
+> Que le cœur de tes ennemis soit déchiré ! »
 
 Le maître de la maison fit étendre un tapis et placer un coussin et se réjouit de la bonne mine de Bahram.
 
@@ -191,15 +192,15 @@ On plaça une chaise pour le maître de la maison et il s’assit près du roi ;
 >
 > Tu es le maître dans ma maison : conforme-toi à nos manières grossières.
 >
-> Quand le dîner est terminé, il faut saisir les coupes, puis chercher du repos dans le doux sommeil ; la nuit est noire et le vin digne d’un roi ; tu dormiras quand tu seras ivre et demain matin tu le réveilleras de ton sommeil et devras te hâter de te rendre au lever du r0i.»Bahram répondit :
+> Quand le dîner est terminé, il faut saisir les coupes, puis chercher du repos dans le doux sommeil ; la nuit est noire et le vin digne d’un roi ; tu dormiras quand tu seras ivre et demain matin tu le réveilleras de ton sommeil et devras te hâter de te rendre au lever du r0i. »Bahram répondit :
 
 > .
 >
 > Qui est-ce qui trouve dans une nuit noire un hôte frais de visage comme toi ?
 >
-> Mais il ne faut pas oublier de rendre grâces à Dieu, car le cœur des ingrats se remplit de terreurs.»
+> Mais il ne faut pas oublier de rendre grâces à Dieu, car le cœur des ingrats se remplit de terreurs. »
 
-A r La jeune fille apporta de l’eau et le vase’pour les mains et lut confuse à l’aspect de l’étranger.
+A La jeune fille apporta de l’eau et le vase’pour les mains et lut confuse à l’aspect de l’étranger.
 
 Quand
 Ù les mains furent lavées, le Dikhan demanda une coupe de vin, il demanda de la musique, du bien-être et du repos.
@@ -209,22 +210,24 @@ La jeune fille apporta une coupe de vin : le vin était rouge et la coupe couron
 Le Dihkan saisit le premier la coupe, la vida et la lava avec du musc et de l’eau de rose ; puis il donna à Bahram cette coupe qui charmait le cœur et lui demanda :
 
 > Quel est le nom de mon convive ?
+>
+> Car je vais faire avec toi sous serment un traité d’amitié et prendre pour garant le roi Bahram. »
 
-Car je vais faire avec toi sous serment un traité d’amitié et prendre pour garant le roi Bahram. v Le roi rit beaucoup de ces paroles et dit :
+Le roi rit beaucoup de ces paroles et dit :
 
 > Je m’appelle Guschasp, le cavalier.
 >
-> Je suis venu ici attiré par le son du luth et non pas pour boire et pour demeurer.»
+> Je suis venu ici attiré par le son du luth et non pas pour boire et pour demeurer. »
 
 Le maître de la maison dit :
 
 > Ma fille, que voici, élève ma tête jusqu’au ciel ; elle est mon échanson et ma joueuse de luth, ma chanteuse et ma consolatrice.
 >
-> Ce charme du cœur s’appelle Arzou ; elle me verse du vin et charme mon cœur.»
+> Ce charme du cœur s’appelle Arzou ; elle me verse du vin et charme mon cœur. »
 
 Il dit à.ce cyprès élancé :
 
-> Prendston luth et viens auprès de Guschasp dans toute ta beauté.nLa joueuse de luth alla vers le roi, marchant majestueusement comme le Canope du Yémen et dit à Bahram :
+> Prends ton luth et viens auprès de Guschasp dans toute ta beauté.nLa joueuse de luth alla vers le roi, marchant majestueusement comme le Canope du Yémen et dit à Bahram :
 
 > Ô cavalier d’élite, qui ressembles en toute chose au roi !
 
@@ -232,25 +235,31 @@ Sache que cette maison en fête est à toi.
 
 Mon père est ton hôte et ton trésorier.
 
-Que les nuits noires te soient beureusesl que ta tête s’élève plus haut que les nuages qui a font : tomber la pluie !
+Que les nuits noires te soient beureuses !
+
+Que ta tête s’élève plus haut que les nuages qui a font : tomber la pluie !
 
 N Bahram lui dit :
 
 > AssiedS-toi Il v’t
 >
-> et prends ton luth, il me faut sans délai une chanson ; ton père Mahiar se rajeunira cette nuit, il donnera à son hôte son âme pour gage.»
+> et prends ton luth, il me faut sans délai une chanson ; ton père Mahiar se rajeunira cette nuit, il donnera à son hôte son âme pour gage. »
 
 I La jeune fille appuya le luth contre sa poitrine et commença par le chant des mages et lorsque les cordes de soie résonnèrent, toute la maison fut remplie d’un parfum de jasmin.
 
-Ensuite elle chanta en honneur de son père Mahiar : Tu comme un V cyprès élancé au bord du ruisseau, tes cheveux sont comme du camphre autour d’une rose, ta parole est pleine de chaleur, ton cœur plein de tendresse ; puissent tes ennemis être toujours affligés !
+Ensuite elle chanta en honneur de son père Mahiar :
 
-Puisse la sagesse toujours grandir ton âme !
+> Tu comme un V cyprès élancé au bord du ruisseau, tes cheveux sont comme du camphre autour d’une rose, ta parole est pleine de chaleur, ton cœur plein de tendresse ; puissent tes ennemis être toujours affligés !
+>
+> Puisse la sagesse toujours grandir ton âme !
+>
+> Tu es comme Feridoun au noble caractère et je suis ta servante ; mon nom est Arzou.
+>
+> Tu es aussi heureux de voir ton hôte que le roi de voir son armée victorieuse dans la bataille. »
 
-Tu es comme Feridoun au noble caractère et je suis ta servante ; mon nom est Arzou.
+Ensuite elle passa auprès de l’hôte en faisant vibrer son luth et en chantant :
 
-Tu es aussi heureux de voir ton hôte que le roi de voir son armée victorieuse dans la bataille.»
-
-Ensuite elle passa auprès de l’hôte en faisant vibrer son luth et en chantant : Ô toi qui as une mine de roi, dont l’étoile est puissante, dont le cœur est sincère, dont la main est prompte dans le combat !
+> Ô toi qui as une mine de roi, dont l’étoile est puissante, dont le cœur est sincère, dont la main est prompte dans le combat !
 
 Quiconque n’a pas vu Bahram, le cavalier célébré, qui charme les cœurs, qu’il regarde ton visage, car tu ne ressembles qu’à lui dans toute l’armée.
 
@@ -270,13 +279,13 @@ N Ce chant, ce luth, cette mine, cette taille et cette intelligence saisirent te
 
 Mahiar était assis devant lui, ivre et le roi dit au maître de la maison :
 
-> Donne-moi ta fille selon les rites de la religion, si tu .veux qu’on te joue pour ta justice.»
+> Donne-moi ta fille selon les rites de la religion, si tu .veux qu’on te joue pour ta justice. »
 
 Alors Mahiar dit à Arzou :
 
 > Veux-tu que cet homme au cœur de lion te fasse des cadeaux ?
 >
-> Regarde-le, pour voir s’il te convient et s’il te paraît bon de vivre auprès de lui.»
+> Regarde-le, pour voir s’il te convient et s’il te paraît bon de vivre auprès de lui. »
 
 Arzou répondit à Mahiar :
 
@@ -284,7 +293,7 @@ Arzou répondit à Mahiar :
 >
 > Si tu veux me donner à un homme, Guschasp, le cavalier, est digne de moi, voilà tout.
 >
-> Qui est-ce qui, voyant un, homme comme lui, ne dirait pas à Bahram : Boule-toi?»
+> Qui est-ce qui, voyant un, homme comme lui, ne dirait pas à Bahram : Boule-toi ? »
 
 Mahiar" n’était pas satisfait de la réponse de sa fille ; il dit à Bahram :
 
@@ -304,29 +313,29 @@ Mahiar" n’était pas satisfait de la réponse de sa fille ; il dit à Bahram :
 >
 > La nuit sombre ne s’accorde pas avec les coutumes ni avec les rites du roi Feridoun.
 >
-> Demander en mariage ou entamer une affaire nouvelle pendant qu’on est ivre ne porte pas bonheur.»
+> Demander en mariage ou entamer une affaire nouvelle pendant qu’on est ivre ne porte pas bonheur. »
 
 Bahram lui répondit :
 
 > C’est absurde et c’est mal de consulter le sort quand on est dans la route de Dieu.
 >
-> Il me plaît d’épouser cette nuit la joueuse de luth : ne provoque pas un mauvais, augure sur nous, si tu peux faire autrement.»
+> Il me plaît d’épouser cette nuit la joueuse de luth : ne provoque pas un mauvais, augure sur nous, si tu peux faire autrement. »
 
 Le père dit alors à sa fille :
 
 > Ô Arzou !
 >
-> Choisis-tu cet homme, te’ convient-il pour mari?»
+> Choisis-tu cet homme, te’ convient-il pour mari ? »
 
 Elle répondit :
 
 > 0ui, il m’a convenu dès que mes yeux l’ont aperçu.
 >
-> Ainsi marie-moi et abandonne le reste à Dieu ; le ciel n’a pas de vengeance à exercer contre Mahiar.»
+> Ainsi marie-moi et abandonne le reste à Dieu ; le ciel n’a pas de vengeance à exercer contre Mahiar. »
 
 Le père lui dit :
 
-> Tu es maintenant . sa. femme ; sache que dorénavant tu es sous sa garde.»
+> Tu es maintenant . sa femme ; sache que dorénavant tu es sous sa garde. »
 
 Il la donna à Bahram Gour, qui l’épousa et lorsque le jour eut remplacé la nuit la cérémonie était terminée et un serviteur suspendit le fouet du roi’à la porte de Mahiar.
 
@@ -350,17 +359,19 @@ A
 1
 obèrent et le saluèrent.
 
-Quand le gardien de la porte vit cette grande foule d’écuyers et de porteurs de javelots, il entra chez son maître endormi, leréveilla, dissipa les fumées de vin pur qui troublaient son esprit et lui dit :
+Quand le gardien de la porte vit cette grande foule d’écuyers et de porteurs de javelots, il entra chez son maître endormi, le réveilla, dissipa les fumées de vin pur qui troublaient son esprit et lui dit :
 
-> Lève-toi et remue-toi ; ce n’est pas le temps de dormir et de rester assis, car le roi du monde est ton hôte dans cette pauvre maison, notre demeure.»
+> Lève-toi et remue-toi ; ce n’est pas le temps de dormir et de rester assis, car le roi du monde est ton hôte dans cette pauvre maison, notre demeure. »
 
-Le marchand de pierreries s’émut tout à coup des paroles du gardien de la porte ; il demanda : Qu’est-ce qui te fait dire cela ?
+Le marchand de pierreries s’émut tout à coup des paroles du gardien de la porte ; il demanda :
 
-Où trouves-tu les traces du roi ?»
+> Qu’est-ce qui te fait dire cela ?
+>
+> Où trouves-tu les traces du roi ? »
 
 L’homme ivre écoutait encore celui qui lui parlait et déjà il sautait en bas du lit avec des exclamations et disant en colère au gardien de la porte :
 
-> Un vieillard sensé ne doit pas parler ainsi.»
+> Un vieillard sensé ne doit pas parler ainsi. »
 
 Le serviteur répondit :
 
@@ -374,11 +385,13 @@ Le serviteur répondit :
 >
 > Un serviteur est venu à l’heure où la lumière qui éclaire le monde n’avait pas encore paru et a suspendu un fouet tressé d’or et incrusté partout de pierres fines devant notre porte, du côté où est notre passage.
 >
-> Maintenant fais ce qu’il faut, ne sois pas paresseux et ne te rends plus malade avec du vin.»
+> Maintenant fais ce qu’il faut, ne sois pas paresseux et ne te rends plus malade avec du vin. »
 
 Le vieillard, qui alors était tout éveillé et avait écouté chaque parole du gardien de la porte, dit en tremblant :
 
-> Comment ai-je pu m’enivrer hier devant le roi des rois et ai-je pu faire servir le vin par ma filleîn Il courut à la chambre d’Arzou et lui dit :
+> Comment ai-je pu m’enivrer hier devant le roi des rois et ai-je pu faire servir le vin par ma fille ? »
+
+Il courut à la chambre d’Arzou et lui dit :
 
 > Ô lune à l’âme noble !
 >
@@ -416,11 +429,11 @@ Il lui dit :
 >
 > Tes chants et ton luth me suffisent ; mais accepter un cadeau d’une femme est bon pour d’autres que moi.
 >
-> Chante-moi de nouveau ta chanson sur la chasse, les coups de lance et les combats du roi.»
+> Chante-moi de nouveau ta chanson sur la chasse, les coups de lance et les combats du roi. »
 
 Puis, il dit :
 
-> Qu’est devenu le joaillier avec qui je me suis enivré hier soir?»
+> Qu’est devenu le joaillier avec qui je me suis enivré hier soir ? »
 
 Lorsque la fille entendit ces paroles, elle appela son père et resta confondue de la bonté de cœur du roi.
 
@@ -428,7 +441,7 @@ Le père se présenta au roi àla mine de soleil, tenant ses mains croisées sur
 
 Trine et dit :
 
-> Ô roi, noble, intelligent, puissant, fort et vaillant Mohed !
+> Ô roi, noble, intelligent, puissant, fort et vaillant Mobed !
 >
 > Puisse le monde aller toujours selon ton gré !
 >
@@ -440,7 +453,7 @@ Trine et dit :
 >
 > Se peut-il que tu me pardonnes et que tu rendes son brillant à ma lune ?
 >
-> Je suis devant ta porte un esclave sans intelligence et le roi ne voudra pas me compter parmi les hommes.»
+> Je suis devant ta porte un esclave sans intelligence et le roi ne voudra pas me compter parmi les hommes. »
 
 Le roi dit :
 
@@ -454,9 +467,11 @@ Le roi dit :
 >
 > Cet homme aux intentions pures amena aussi. les grands qui se tenaient à la porte de la maison ; mais Arzou, voyant paraître ces hôtes étrangers, rentra dans sa chambre, le visage froncé et y resta jusqu’à ce que le ciel eût revêtu sa robe noire et que les étoiles eussent paru dans le cercle de la lune.
 >
-> Lorsqu’ils eurent dîné, Mahiar fit appeler Arzou, la lit asseoir sur un siègeorné de figures d’or et pria cette lune de prendre sa lyre pour réciter la chanson que le roi avait demandée le matin.
+> Lorsqu’ils eurent dîné, Mahiar fit appeler Arzou, la fit asseoir sur un siège orné de figures d’or et pria cette lune de prendre sa lyre pour réciter la chanson que le roi avait demandée le matin.
 >
-> Elle chanta : 0’ vaillant roi !
+> Elle chanta :
+
+> 0’ vaillant roi !
 >
 > Les lions qui entendent ton nom s’enfuient de leurs forêts ; tu es le roi victorieux qui brise les armées et ton visage est comme une tulipe entourée de jasmin.
 >
@@ -464,8 +479,8 @@ Le roi dit :
 >
 > Quand une armée voit ton casque dans le combat et sur ton champ
 >
-> de bataille, le cœur et la moelle de tous se fendent de terreur et ils ne distinguent plus le haut du bas.»
+> de bataille, le cœur et la moelle de tous se fendent de terreur et ils ne distinguent plus le haut du bas. »
 
-Lorsqu’ils se furent égayés avec du vin et que, après avoir bu à petits traits, ils furent arrivés à boire par coupes entières, Rouzbeh se présenta devant le roi et on lui choisit une demeure dans le bourg : il avait amené une litière et quarante suivantes, tontes au visage de lune et enlevant les cœurs ; les joues de ces Roumies étaient comme du brocart de Rhum et le pays entier ’l’ut rafraîchi par leur aspect.
+Lorsqu’ils se furent égayés avec du vin et que, après avoir bu à petits traits, ils furent arrivés à boire par coupes entières, Rouzbeh se présenta devant le roi et on lui choisit une demeure dans le bourg : il avait amené une litière et quarante suivantes, tontes au visage de lune et enlevant les cœurs ; les joues de ces Roumies étaient comme du brocart de Rhum et le pays entier ’fut rafraîchi par leur aspect.
 
 Arzou partit pour l’appartement des femmes du roi, ayant sur la tête un diadème de pierres fines.
