@@ -25,13 +25,13 @@ Le jeune homme était aigri de ce qu’il avait entendu et chercha avidement un 
 Il dit à Gulnar :
 
 > Si je pars pour l’Iran, si je quitte Beï
-pour le pays des braves, réfléchis si tu veux m’ac- compagner, ou rester ici chez le roi ?
+pour le pays des braves, réfléchis si tu veux m’accompagner, ou rester ici chez le roi ?
 >
-> Si tu viens avec moi, tu deviendras puissante, tu seras le diadème sur le fiant d’un pays.»
+> Si tu viens avec moi, tu deviendras puissante, tu seras le diadème sur le fiant d’un pays. »
 
 Elle lui répondit :
 
-> Je suis ton esclave et ne me séparerai pas de toi tant : que je serai en vie.»
+> Je suis ton esclave et ne me séparerai pas de toi tant : que je serai en vie. »
 
 Elle prononça ces paroles d’une bouche pleine de soupirs et ses yeux versant des larmes de sang.
 
@@ -44,15 +44,15 @@ Lorsque la face du monde commença à blanchir à l’approche du soleil et que 
 
 Elle rentra dans sa demeure, prit ces joyaux dans sa main et resta ainsi douloureusement affectée et troublée de pensées de ’ toute espèce, se disant :
 
-> Quand même il pourra échapper au roi Ardewau, comment se lirera-t-il d’affaire avec ses fils?»
+> Quand même il pourra échapper au roi Ardewau, comment se lirera-t-il d’affaire avec ses fils ? »
 
-Elle resta ainsi jusqu’à ce que la nuit fût venue de la montagne, qu’Ardewan fût endormi et le palais débarrassé de la foule ; alors elle sortit du palais comme une flèche, apporta les joyaux à Ardeschir et trouva l’amhitieux jeune homme une coupe en main et tous les gardiens des chevaux ivres et endormis ; car Ardeschir les avait enivrés, parce qu’il voulait partir de toute force encore pendant cette nuit.
+Elle resta ainsi jusqu’à ce que la nuit fût venue de la montagne, qu’Ardewan fût endormi et le palais débarrassé de la foule ; alors elle sortit du palais comme une flèche, apporta les joyaux à Ardeschir et trouva l’ambitieux jeune homme une coupe en main et tous les gardiens des chevaux ivres et endormis ; car Ardeschir les avait enivrés, parce qu’il voulait partir de toute force encore pendant cette nuit.
 
 Il avait choisi deux chevaux magnifiques,-qu’il avait placés dans l’écurie tout sellés.
 
 Lorsqu’il vit le visage de Gulnar, qu’il aperçut les pierreries rouges et les pièces d’or, il dit :
 
-> Maintenant il faut partir, il faut ne plus nous laisser aller à l’anxiété et j’espère que je me tirerai des griffes de ce dragon par le sort qui favorise la jeunesse.»
+> Maintenant il faut partir, il faut ne plus nous laisser aller à l’anxiété et j’espère que je me tirerai des griffes de ce dragon par le sort qui favorise la jeunesse. »
 
 Il déposa à l’instant’la coupe, jeta la bride sur la tête des chevaux arabes, revêtit une cotte de mailles, monta à cheval, prit dans sa main une épée tranchante et fit asseoir sur l’autre cheval Gulnar au visage de lune.
 
