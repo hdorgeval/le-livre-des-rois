@@ -33,13 +33,15 @@ Il fit appeler devant lui Lembek, le porteur d’eau, qui vint en croisant les m
 >
 > Le Mobed ne put pas faire le compte de tout cela ; il fit venir du désert de Djehrem mille chameaux et lorsqu’on les eut chargés, il restait encore des richesses ; puis le messager mit joyeusement en marche la caravane.
 >
-> I Lorsque les clochettes retentirent dans la cour du palais, le messager intelligent vint dire au roi : Il y à là autant de pierreries que dans ton trésor et il en est resté encore deux cents charges d’âne.»
+> I Lorsque les clochettes retentirent dans la cour du palais, le messager intelligent vint dire au roi :
+
+> Il y à là autant de pierreries que dans ton trésor et il en est resté encore deux cents charges d’âne. »
 
 Le roi de l’Iran fut confondu d’étonnement ; il se mit à réfléchir sur l’avidité, se disant :
 
 > Ce juif a donc tant gagné !
 >
-> Mais à quoi lui sert son gain, puisqu’il n’a pas sa portion de chaque jour?»
+> Mais à quoi lui sert son gain, puisqu’il n’a pas sa portion de chaque jour ? »
 
 Il adonna au porteur d’eau cent charges de chameau d’or et d’argent, des tapis et toutes sortes de choses et Lembek partit emportant ses trésors.
 
@@ -49,12 +51,11 @@ Puis, il appela Baraham et lui dit :
 >
 > Tu dis que ton prophète a vécu si longtemps ; je te laisse la vie, pourquoi tant pleurer le superflu ?
 >
-> Un cavalier est venu et m’a répété un mot de ces anciens dictons : que celui qui prospère jouit et celui qui n’a rien dépérit. rr Retire donc de ces jouissances la main que tu étendais et regarde dorénavant les jouissances du porteur d’eau.»
+> Un cavalier est venu et m’a répété un mot de ces anciens dictons : que celui qui prospère jouit et celui qui n’a rien dépérit. rr Retire donc de ces jouissances la main que tu étendais et regarde dorénavant les jouissances du porteur d’eau. »
 
 Ensuite, il rappela à l’avare de la synagogue les crottes du cheval, le mouchoir de tissu d’or etiles briques et donna à cet homme au cœur impur quatre pièces d’argent, disant :
 
-> Voici
-. un capital, davantage serait mal placé chez toit ; je laisse l’argent aux pauvres et à toi ta tète»
+> Voici un capital, davantage serait mal placé chez toit ; je laisse l’argent aux pauvres et à toi ta tète»
 
 Il distribua à des hommes dignes de bien toutes ces richesses et le juif partit en poussant des cris.
 
