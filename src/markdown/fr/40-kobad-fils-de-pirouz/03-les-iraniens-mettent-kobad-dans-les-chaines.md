@@ -23,13 +23,13 @@ Les langues des Iraniens vomirent des malédictions et ce qu’on avait tenu sec
 
 Tout l’Iran frémit, une grande poussière s’éleva, chacun prépara ses armes de combat, chacun dit :
 
-> Kobad ne peut pas occuper le trône de l’Iran si Souferaï a péri.»
+> Kobad ne peut pas occuper le trône de l’Iran si Souferaï a péri. »
 
 Les hommes de guerre et les citadins étaient tous du même avis et ne voulurent plus entendre parler de Kobad ; ils se rendirent tous au palais du roi, se plaignant des calomniateurs de Souferaï et demandant justice ; ils tuèrent tous ceux qui l’avaient dénigré auprès du roi et s’étaient méchamment fails fauteurs du mal et entraînèrent le : cadavres hors du palais.
 
-Ensuite ils allèrent à la recherche de Djamasp, le frère cadet du roi, un jeune homme qui portait haut la tête etque Kobad avait élevé tendrement.
+Ensuite ils allèrent à la recherche de Djamasp, le frère cadet du roi, un jeune homme qui portait haut la tête et que Kobad avait élevé tendrement.
 
-Il le choisirent, le placèrent sur le trône et l’acclamèreut roi.
+Il le choisirent, le placèrent sur le trône et l’acclamèrent roi.
 
 Ils lièrent les pieds de Kobad avec des chaînes de fer, sans égard pour son rang royal et sa naissance.
 
@@ -47,7 +47,7 @@ Le maître du monde en fut étonné et accepta le bénéfice de son humanité ; 
 
 > Mes ennemis ont troublé mon étoile et ma lune.
 >
-> Si jamais je retrouve me liberté, je te récompenserai pour tout le mal que tu as soull’ert, je délivrerai ton cœur de tontes ses alllictions et mes yeux brilleront en te rer gardant.»
+> Si jamais je retrouve me liberté, je te récompenserai pour tout le mal que tu as soull’ert, je délivrerai ton cœur de tontes ses alllictions et mes yeux brilleront en te rer gardant. »
 
 Bezmihr lui répondit :
 
@@ -55,4 +55,4 @@ Bezmihr lui répondit :
 >
 > Si mon père n’a pas fait ce qu’il devait, c’està son fils à supporter l’angoisse et la douleur que lui cause sa mort.
 >
-> Je suis pour toi comme un esclave, je me tiens devant toi comme un servilenr ; si tu le demandes, je te promettrai par serment de ne jamais dévier de la loyauté envers toi.»
+> Je suis pour toi comme un esclave, je me tiens devant toi comme un servilenr ; si tu le demandes, je te promettrai par serment de ne jamais dévier de la loyauté envers toi. »
