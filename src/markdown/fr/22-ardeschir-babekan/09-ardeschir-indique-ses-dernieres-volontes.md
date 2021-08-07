@@ -24,7 +24,7 @@ Il fit appeler tous les grands de l’Iran, les fit asseoir selon leur rang sur 
 
 > Ô grands du pays, ô vous tous qui lavez du sens et de l’intelligence !
 >
-> Sachez que quand ce ciel à la rotation rapide favorise quelqu’un, ce n’est pas par justice et quand il étend ses bras vers lui, ce n’est pas par tendresse ; qu’il élève puissam- ment celui qu’il veut, puis l’abaisse dans la poussière sombre et ne laisse de lui que son nom, pendant que tout le produit de ses peines disparaît avec lui.
+> Sachez que quand ce ciel à la rotation rapide favorise quelqu’un, ce n’est pas par justice et quand il étend ses bras vers lui, ce n’est pas par tendresse ; qu’il élève puissamment celui qu’il veut, puis l’abaisse dans la poussière sombre et ne laisse de lui que son nom, pendant que tout le produit de ses peines disparaît avec lui.
 >
 > Ne veuillez donc laisser dans le monde qu’un bon renom, vous tous qui désirez une bonne fin.
 >
@@ -41,15 +41,14 @@ Il fit appeler tous les grands de l’Iran, les fit asseoir selon leur rang sur 
 > Je. rends grâce à Dieu de m’avoir donné de la force, une
 \* étoile puissante et la faveur de Saturne et du soleil.
 >
-> Qui saurait le louer dignement et le prier selon la grandeur de ses œuvres, dans l’espoir qu’il fasse attention à notre soumission et qu’il montre sa toute- puissance?
+> Qui saurait le louer dignement et le prier selon la grandeur de ses œuvres, dans l’espoir qu’il fasse attention à notre soumission et qu’il montre sa toutepuissance ?
 a Maintenant disons tout ce que nous devons faire .
 >
-> 
-par esprit de justice, de la justice qui donne le bonheur.
+> par esprit de justice, de la justice qui donne le bonheur.
 >
 > J’ai droit à la dîme dans toutes les villes, les Dikhans et les Mobeds m’en sont témoins ; mais j’y renonce et vous en fais remise entière, de même de la dîme sur la terre et de l’impôt sur les troupeaux, espérant que vos chefs apporteront dans mon trésor ce que vous aurez de superflu.
 >
-> La dime que je prélevais jusqu’ici et les autres impôts, qu’ils fussent plus ou moins considérables que la dîme, j’ai employé le tout utilement, j’ai maintenu à ma cour une armée innombrable, j’ai travaillé à votre honheur et à votre tranquillité et à la destruction de la foi d’Ahriman.
+> La dime que je prélevais jusqu’ici et les autres impôts, qu’ils fussent plus ou moins considérables que la dîme, j’ai employé le tout utilement, j’ai maintenu à ma cour une armée innombrable, j’ai travaillé à votre bonheur et à votre tranquillité et à la destruction de la foi d’Ahriman.
 >
 > Vous tous, tendez les mains vers Dieu,-faites vos efforts pour ne pas manquer à vos devoirs envers lui, car c’est lui qui donne et lui qui possède, lui qui a brodé d’étoiles le ciel sublime ; il est secourable à l’opprimé ; ne vous glorifiez envers personne en face de sa gloire.
 >
@@ -60,4 +59,4 @@ par esprit de justice, de la justice qui donne le bonheur.
 > Tous ont pour couche la terre et la brique, etbeureux celui qui n’a semé que la se-’
 mence du bien.
 >
-> Vous tous qui demeurez dans mon pays et qui prêtez l’oreille à mes dernières volontés, je vais vous indiquer cinq voies qui valent plus que la couronne et les trésors.»
+> Vous tous qui demeurez dans mon pays et qui prêtez l’oreille à mes dernières volontés, je vais vous indiquer cinq voies qui valent plus que la couronne et les trésors. »
