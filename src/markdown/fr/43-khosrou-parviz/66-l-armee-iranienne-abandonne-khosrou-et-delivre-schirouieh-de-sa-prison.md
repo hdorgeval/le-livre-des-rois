@@ -35,7 +35,7 @@ Le roi choisit à sa cour un homme rusé, éloquent et entendu comme il le falla
 >
 > d’une lettre pour Guraz.
 >
-> Tu attacheras cette lettre à ton bras droit et si le Roumi le la prend, ce sera Lbe mieessanger.q»uitta’Khosrou, la lettre attachée à son bras et continua sa route.
+> Tu attacheras cette lettre à ton bras droit et si le Roumi le la prend, ce sera Lbe messager.q»uitta’Khosrou, la lettre attachée à son bras et continua sa route.
 
 Lorsqu’il fut arrivé près du Kaïsar, un patricien le vit etle conduisit devant le prince, la tête couverte de poussière, les deux joues pâles, les lèvres bleues.
 
@@ -87,7 +87,9 @@ Khosrou choisit pour envoyé un homme noble, éloquent et savant et écrivit à 
 
 > Ô homme sans valeur, vil et faisant œuvre de Div !
 >
-> Je t’ai souvent appelé à cette cour, mais tu te refuses à suivre Vll. 1h) l la règle et la bonne voie.
+> Je t’ai souvent appelé à cette cour, mais tu te refuses à suivre Vll. 1h) !
+>
+> La règle et la bonne voie.
 >
 > Maintenant cette armée que tu as avec toi et qui a toujours été ton soutien est dévouée de cœur et d’intentions au Kaîsar et nourrit dans son âme des pensées contraires à se : devoirs.
 >
