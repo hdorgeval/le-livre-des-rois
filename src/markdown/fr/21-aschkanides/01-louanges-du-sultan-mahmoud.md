@@ -89,4 +89,4 @@ Tous les hommes se sont répandus en dehors de leurs maisons, leurs bénédictio
 
 > Puisse cette tête couronnée vivre éternellement, puisse la rotation du ciel lui être favorable, puisse rien ne se faire dans le monde que selon son désir, puisse son nom rester gravé sur les palais !
 >
-> Béni soient sa famille, son armée, son pays, sa stature et sa mine royales !
+> Béni soit sa famille, son armée, son pays, sa stature et sa mine royale !
