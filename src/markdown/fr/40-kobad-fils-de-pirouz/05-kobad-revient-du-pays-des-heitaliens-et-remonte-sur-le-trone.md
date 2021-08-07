@@ -20,11 +20,13 @@ Lorsqu’il arriva près de la maison du Dihkan, il vit dans toutes les rues des
 
 > Puisse ce fils porter bonheur au roi !
 >
-> Ta compagne est accouchée cettenuit d’un fils qu’on peut à peine distinguer de la lune.»
+> Ta compagne est accouchée cettenuit d’un fils qu’on peut à peine distinguer de la lune. »
 
 Lorsqu’il entendit ces paroles, il entra joyeusement dans la maison et l’on donna è l’enfant le nom de Kesra.
 
-Alors Kobad demanda au Dihkan : Ô homme fortuné, de qui tires-tu ton origine?»
+Alors Kobad demanda au Dihkan :
+
+> Ô homme fortuné, de qui tires-tu ton origine ? »
 
 Il répondit :
 
@@ -49,11 +51,11 @@ Tous les vieux nobles du pays se rassemblèrent avec les hommes célèbres pour 
 > Il faut nous présenter devant Kobad, dans l’espoir qu’il oubliera le passé.
 >
 > Nous lui amè-
-nerons Djamasp, cet enfant de dix ans, pour qu’il convertisse en perles la grêle quinoas menace et il se peut que nous échappions au pillage, au sang versé et aux batailles.»
+nerons Djamasp, cet enfant de dix ans, pour qu’il convertisse en perles la grêle quinoas menace et il se peut que nous échappions au pillage, au sang versé et aux batailles. »
 
 Ils se rendirent ensemble chez Kobad et lui dirent :
 
-> Ô roi, fils de roil si le cœur des hommes a été blessé par toi et s’ils ont lavé leurs yeux dans l’eau de l’audace, l’ais maintenant ce qui est ton bon plaisir, car le roi du monde est maître dans le monde.»
+> Ô roi, fils de roil si le cœur des hommes a été blessé par toi et s’ils ont lavé leurs yeux dans l’eau de l’audace, l’ais maintenant ce qui est ton bon plaisir, car le roi du monde est maître dans le monde. »
 
 Tous arrivèrent auprès de lui à pied, courant, couverts de poussière et l’âme sombre.
 
@@ -78,7 +80,7 @@ diadème du pouvoir jusqu’à la voûte du ciel.
 
 Ensuite, il conduisit son armée dans le pays de Roum, qu’il " façonna de sa main comme une balle de cire ; il fit de ce pays un désert de broussailles et deux villes implorèrent sa protection, l’une s’appelle Hindia et l’autre Farikin.
 
-Il leur enseigna le Zend-Avesta et leur donna la vraie foi, érigea dans ce pays des temples du feu, établit son pouvoir et les l’êtes du Naurouz et de Sedeh.
+Il leur enseigna le Zend-Avesta et leur donna la vraie foi, érigea dans ce pays des temples du feu, établit son pouvoir et les fêtes du Naurouz et de Sedeh.
 
 Il fixa à Madaïn la résidence des rois et répandit beaucoup de bien et beaucoup de mal ; il construisit une grande ville sur la route d’Ahvvaz au Farsistan et yétablitun hôpital.
 
