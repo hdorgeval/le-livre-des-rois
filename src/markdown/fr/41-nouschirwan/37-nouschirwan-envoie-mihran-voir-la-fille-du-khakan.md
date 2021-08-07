@@ -78,8 +78,7 @@ Lorsque le soleil se montra au-dessus des montagnes, Mihran Sitad se présenta �
 
 Le Khakan lut la lettre et sourit à ce qu’il y trouvait sur l’alliance et le bon choix qu’il devait faire.
 
-Il h
-donna à Mihran la clef de l’appartement de ses femmes et lui dit :
+Il h donna à Mihran la clef de l’appartement de ses femmes et lui dit :
 
 > Va et regarde ce que tu y trouveras caché. »
 
