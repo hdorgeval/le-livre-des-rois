@@ -93,7 +93,7 @@ Dis-lui :
 >
 > Faire ton par ’ tégé d’un homme comme moi, qui malgré son insignifiance vient t’attaquer, serait une boute pour toi.
 >
-> Tu ne me verras qu’au jour de la bataille, un drapeau couleur de lapis-lazuli derrière moi, et la vue de ce dragon sera ta mort, ta tête et ton casque seront le fourreau du fer de ma lance. »
+> Tu ne me verras qu’au jour de la bataille, un drapeau couleur de lapis-lazuli derrière moi et la vue de ce dragon sera ta mort, ta tête et ton casque seront le fourreau du fer de ma lance. »
 
 L’envoyé du roi écouta ces rudes paroles et tourna le dos à Bahram ; il revint et rapporta ce qu’il avait vu et entendu et la colère du roi des Turcs éclata.
 
