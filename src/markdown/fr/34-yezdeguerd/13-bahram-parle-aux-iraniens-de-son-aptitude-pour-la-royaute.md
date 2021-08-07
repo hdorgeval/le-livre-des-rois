@@ -49,13 +49,13 @@ Bahram dit :
 >
 > Depuis Schapour fils de Bahram jusqu’à Ardeschir, tous les rois, vieux et jeunes, sont de père en fils mes ancêtres et mes guides dans la foi et la conduite, et, du côté de ma mère, je descends de la reine Schémiran, je suis de sa race et son égal en intelligence ; j’ai les mêmesfaw cultes, la même prudence, le même. pouvoir ; je suis un cavalier, un brave et ma main est forte.
 >
-> Je ne tiens personne pour mon égal, ni dans la bataille, ni dans la fête. ni dans aucune allaire.
+> Je ne tiens personne pour mon égal, ni dans la bataille, ni dans la fête. ni dans aucune affaire.
 >
 > J’ai un trésor caché et plein ; j’ai des amis illustres et dévoués.
 >
 > Jevrendrai la terre florissante par la justice et vous tous en serez heureux.
 >
-> Je vais faire une convention avec vous et que ma parole en soit le gage (levant Dieu.
+> Je vais faire une convention avec vous et que ma parole en soit le gage devant Dieu.
 >
 > Nous dresun serons le trône d’ivoire du roi des rois, nous y plaorcerons cette riche couronne ; nous amènerons de la forêt deux lions sauvages et nous placerons la couronne entre eux ; nous attacherons les lions des deux côtés et celui. qui a l’envie d’être roi ira prendre la couronne illustre sur le trône d’ivoire et la placera sur sa tête. il s’assiéra comme roi entre les deux lions, le roi au milieu, la couronne sur sa tête,’ le trône sous lui et nous ne nommerons roi que lui, pourvu qu’il soit un homme juste et pur.
 >
