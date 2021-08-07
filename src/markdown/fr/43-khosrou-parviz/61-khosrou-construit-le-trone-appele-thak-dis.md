@@ -90,7 +90,7 @@ Personne, si savant qu’il fût, ne pouvait les compter.
 
 La moindre pierre qui y était employée valait au moins soixante et dix pièces d’or, beaucoup dépassaient sept cents : fais une moyenne entre les plus et les moins chères.
 
-Ensuite, il y avait bien des pierreries rouges dont personne ne savait la valeur, car il y en avait sans fin et elles rendaient lumineuse i la nuit au visage sombre et ressemblaient à Vénus ’ brillant au ciel.
+Ensuite, il y avait bien des pierreries rouges dont personne ne savait la valeur, car il y en avait sans fin et elles rendaient lumineuse la nuit au visage sombre et ressemblaient à Vénus ’ brillant au ciel.
 
 Il y avait trois siègea sur les degrés du trône royal,-ils étaient enrichis de pierreries de haut en bas ; de l’un à l’autre, il y avait quatre degrés tout en or et incrustés de pierres fines ; le siège inférieur était appelé Mischsar (tête de bélier), étant tout couvert d’ornements en forme de tête de bélier.
 
