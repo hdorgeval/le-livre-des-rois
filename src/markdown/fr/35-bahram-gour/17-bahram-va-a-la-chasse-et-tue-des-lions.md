@@ -32,19 +32,19 @@ Le roi dit à ses confidents :
 >
 > Quand un seul cheveu de la tête blanchit, il faut renoncer à l’espoir de la joie ; quand le musc blanchit, c’est qu’il est gâté et la couronne est mal posée sur des cheveuæ blancs comme le camphre.
 >
-> Je jouirai encore deux ans des fêtes et des jeux, mais aussitôt que ma force sera un peu brisée, je me présenterai devant Dieu, je mettrai un vêtementde feutre et ne serai pas ingrat pour ce qu’il a fait punir moi, car j’ai passé dans le plaisir bien des jours, j’ai eu ma part de la couronne du pouvoir.
+> Je jouirai encore deux ans des fêtes et des jeux, mais aussitôt que ma force sera un peu brisée, je me présenterai devant Dieu, je mettrai un vêtement de feutre et ne serai pas ingrat pour ce qu’il a fait punir moi, car j’ai passé dans le plaisir bien des jours, j’ai eu ma part de la couronne du pouvoir.
 >
 > Maintenant qu’on apporte des fleurs, des grenades, des pommes et des coings et que les coupes d’or a ne restent pas vides de vin.
 >
-> Quand je verrai la joue de la pomme se colorer comme le grenat,quand le ciel sera taché de nuages comme la peau du léopard, quand la camomilie sera chargée de graines et ré. pandra son parfum, quand le vin sera rouge comme la joue de l’échanson,’ quand l’air sera tempéré. ni chaud ni froid, la terre fraîche et les eaux bleues, quand nous aurons mis en automne nos robes de fourrure, il faudra aller chasser du côté de Djez.
+> Quand je verrai la joue de la pomme se colorer comme le grenat,quand le ciel sera taché de nuages comme la peau du léopard, quand la camomille sera chargée de graines et ré. pandra son parfum, quand le vin sera rouge comme la joue de l’échanson,’ quand l’air sera tempéré. ni chaud ni froid, la terre fraîche et les eaux bleues, quand nous aurons mis en automne nos robes de fourrure, il faudra aller chasser du côté de Djez.
 >
 > Nous aurons une chasse dans ces plaines qui laissera un sOuvenir dans le monde.
 >
 > Alors les onagres auront le cou fort, le cœur du lion mâle et la cou-leur du tigre.
 >
-> Nous amènerons sur cette longue route les "chiens, les guépards, les faucons, les gerfauls et les laniers, car c’est là le lieu pour les onagres, pour les arcs et les flèches et nous ne cesserons un instant de lance ; nos chevaux.
+> Nous amènerons sur cette longue route les "chiens, les guépards, les faucons, les gerfauts et les laniers, car c’est là le lieu pour les onagres, pour les arcs et les flèches et nous ne cesserons un instant de lance ; nos chevaux.
 >
-> Dans la plaine que j’ai vue au-dessous de Djez, où les tamariscs croissent hauts comme les roseaux des lances, nous trouverons des lions et ce sera une grande chasse si nous y restons longtemps.»
+> Dans la plaine que j’ai vue au-dessous de Djez, où les tamarises croissent hauts comme les roseaux des lances, nous trouverons des lions et ce sera une grande chasse si nous y restons longtemps. »
 
 Il attendit jusqu’à l’arrivée des nuages d’août ; le monde se remplit alors d’hommes armés, de toutes les provinces une foule avide de cmnbatsvse dirigea vers le roi d’Iran.
 
@@ -54,18 +54,18 @@ Autour de l’enceinte des tentes du roi étaient les tentes, les écuries et le
 
 Les gens de service avaient précédé le cortège et avaient partout creusé des puits, qu’on munit de roues, pour que cette masse d’hommes trouvât sa ration d’eau.
 
-Après le corlége arriva le roi avec ses amis inlimessur le lieu de la chasse.
+Après le cortège arriva le roi avec ses amis inlimessur le lieu de la chasse.
 
 Il vit toute la plaine remplie d’onagres, tous les hais pleins des
 
 Rugissements des lions et dit :
 
-> Cette nuit ce sera une chasse au vin, car il y a bien des traces de lions sur le sol et demain je dois les suivre ; mais aqjourd’hui il faut nous reposer gaiement et en bonne santé.
+> Cette nuit ce sera une chasse au vin, car il y a bien des traces de lions sur le sol et demain je dois les suivre ; mais aujourd’hui il faut nous reposer gaiement et en bonne santé.
 
 Nous allons boire jusqu’à l’aube du jour et quand la couronne du soleil qui éclaire le monde brillera, nous abattrons d’abord les lions avec l’épée, nous abattrons ces vaillants dragons et quand ces bois seront débarrassés des lions, les onagres seront à moi. .
 Il resta là cette nuit et le lendemain matin il se dirigea vers la forêt avec son cortège ; aussitôt qu’il vit sortir du bois un lion, qui était plein de courage, car il s’était rassasié d’onagres, le vaillant Bahram dit à ses amis :
 
-> J’ai un arc et des flèches et sais m’en servir, mais j’attaquerai le lion avec l’épée pour qu’on ne m’appelle pas poltron.»
+> J’ai un arc et des flèches et sais m’en servir, mais j’attaquerai le lion avec l’épée pour qu’on ne m’appelle pas poltron. »
 
 Il revêtit une tunique de laine qu’on avait mouillée et monta sur un cheval de bataille ; lorsque le lion vit ce dragon, il se dressa sur ses pieds de derrière et frappa d’en hauïavec les pieds de devant ; il voulait frapper le cheva a la tête, mais le chasseur poussa son destrier avec le talon et asséna au lion sur la tête un coup de son épée tranchante et la femelle du lion s’enfuit rapidement.
 
@@ -88,15 +88,15 @@ Quelqu’un lui dit :
 > Cette forêt a une profondeur de trois farsangs et si tu mettais toute une année à prendre des lions, le monde n’en’serait pourtant pas délivré ; pourquoi donc te donnerais-tu tant de mal ?
 >
 > Lorsque tu as pris possession du trône, tu as recherché le combat des lions, comme c’était convenu ; mais aujourd’hui 4
-> tu es roi et le monde t’appartient ; tu es venu pour les onagres, pourquoi chasses-tu les lions ?»
+> tu es roi et le monde t’appartient ; tu es venu pour les onagres, pourquoi chasses-tu les lions ? »
 
 Le roi ’ répondit :
 
 > Ô vieillard intelligent ! à demain matin, moi, les onagres et les flèches !
 >
-> Les fiers cavaliers des temps anciens ne se faisaient pas un nom avec l’arc et la flèche ; si nous voulons nous acquitter de notre devoir de bravoure, nous ne parlons que de massues et d’épées.»
+> Les fiers cavaliers des temps anciens ne se faisaient pas un nom avec l’arc et la flèche ; si nous voulons nous acquitter de notre devoir de bravoure, nous ne parlons que de massues et d’épées. »
 
-Le Mohed lui dit :
+Le Mobed lui dit :
 
 > Si tu allais à la bataille avec dix cavaliers comme toi, il n’y aurait plus ni trône ni couronne en Chine et dans le Roum et les hommes prudents se réfugieraient sur la mer avec ce qu’ils possèdent.
 
@@ -104,15 +104,15 @@ Que le mauvais œil reste loin de ta gloire !
 
 Que ta demeure soit dans le jardin de roses des fêtes En Le roi s’en retourna de la forêt à l’enceinte de ses
 
-Tentes, avec le Grand Mohed et les l’ehlewans de l’armée.
+Tentes, avec le Grand Mobed et les l’ehlewans de l’armée.
 
 Tout le cortège appela sur lui des bénédictions, disant :
 
-> Puissentle diadème et le sceau n’être jamais sans toi !»
+> Puissent le diadème et le sceau n’être jamais sans toi ! »
 
-Il se rendit à sa tente aussitôt que le cortègefut parti et essuya la sueur de ses bras et de ses mains.
+Il se rendit à sa tente aussitôt que le cortège fut parti et essuya la sueur de ses bras et de ses mains.
 
-Il avait pour majordome un i commandant des frontières, qui avait fait débarrasser des ronces les alentours de la tente neuve ; il fit apporter du camphre, du musc et de l’eau de rose et répandit du musc dans le lieu où le roi couchait.
+Il avait pour majordome un commandant des frontières, qui avait fait débarrasser des ronces les alentours de la tente neuve ; il fit apporter du camphre, du musc et de l’eau de rose et répandit du musc dans le lieu où le roi couchait.
 
 Il fit placer dans toutes les tentes des tables d’or, qu’on garnit de vaisselle et de vases de Chine.
 
@@ -136,6 +136,6 @@ Ensuite, il dit :
 >
 > Ou si quelqu’un met un cheval dans un champ ensemencé, ou fait du dégât dans un jardin fruitier, il ne sortira pas de prison avant un an, que ce soit un noble cavalier ou un pauvre.
 >
-> Il est important pour nous que cette plaine nous fournisse le plus possible et que nous n’ayons pas à nous adresser à la ville.»
+> Il est important pour nous que cette plaine nous fournisse le plus possible et que nous n’ayons pas à nous adresser à la ville. »
 
 Les marchands de la ville et la moitié des babitants de Djez et de Barkouh accoururent et le désert, du côté où était le camp du roi, devint comme un bazar chinois, par l’qfiluence des marchandises.
