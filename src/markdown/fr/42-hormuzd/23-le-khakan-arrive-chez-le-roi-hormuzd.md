@@ -41,8 +41,7 @@ Lorsque le Khakan se fut reposé pendant une semaine des fatigues de la route, l
 
 Le lendemain, à l’aube du jour. le roi fit placer du vin sur les tables et s’assit ; en apporta ce jour là cinquante mille objets et le labeur était dur pour le dos des hommes de !
 
-L i
-peine.
+L i peine.
 
 On avait enlevé d’Awazeh cent trésors et l’esprit. de Parmoudeh était tout résigné.
 
