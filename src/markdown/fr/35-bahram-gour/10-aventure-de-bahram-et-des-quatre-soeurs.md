@@ -34,7 +34,7 @@ Une d’elles éleva la voix sur le lieu de la fête et s’écria :
 >
 > Il est majestueux, haut de taille, beau de visage et plein de bonté ; le ciel qui tourne est devant lui comme unesclave.
 >
-> On dirait que le vin tombe en gouttes de ses joues et de ses cheveux sort. un parfum de musc ; il dédaigne toute proie antre que le lion et l’onagre, c’est pourquoi on l’appelle Italr ram Cour (l’onagre).»
+> On dirait que le vin tombe en gouttes de ses joues et de ses cheveux sort un parfum de musc ; il dédaigne toute proie antre que le lion et l’onagre, c’est pourquoi on l’appelle Italr ram Cour (l’onagre). »
 
 Li 1
 >
@@ -49,7 +49,9 @@ Le roi du monde entendit ces voix, tourna les rênes de son cheval et se dirigea
 >
 > Les quatre principales des jeunes filles sortirent du cercle de leurs amies ; l’une s’appelait Muschkinaz (musc pur) et l’autre Muschkinek (perdrix), une Nazyab (coquette) et l’autre Sousenek (petit lis) ; elles allèrent vers le roi en dansant et se tenant les mains, les joues comme le printemps et la taille haute et chantèrent une ballade sur Bahram, le roi des rois, sage et puissant.
 >
-> Bahram, dont le cœur se troubla à leur vue, leur demanda à toutes les quatre : Ô jeunesvfilles aux joues de rose, qui êtes-vous et pourquoi avez-vous allumé ce feu?»
+> Bahram, dont le cœur se troubla à leur vue, leur demanda à toutes les quatre :
+
+> Ô jeunesvfilles aux joues de rose, qui êtes-vous et pourquoi avez-vous allumé ce feu ? »
 
 L’une d’elles répondit :
 
@@ -57,7 +59,7 @@ L’une d’elles répondit :
 >
 > Notre père est un vieux meunier, qui chasse sur le versant de cette montagne.
 >
-> Il va revenir, car la nuit est déjà profonde et l’obscurité l’empêcherait de voir.»
+> Il va revenir, car la nuit est déjà profonde et l’obscurité l’empêcherait de voir. »
 
 En ce moment le meunier arrivait de la chasse dans la montagne avec une foule de compagnons.
 
@@ -65,35 +67,35 @@ Quand il aperçut Bahram, il posa ses joues dans la A poussière et se tint deva
 
 Le roi fit donner une coupe d’or à ce vieillard qui arrivait et lui dit :
 
-> Pourquoi gardes-tu ces y quatre visages de soleil, car il est temps de leur donner des maris?»
+> Pourquoi gardes-tu ces y quatre visages de soleil, car il est temps de leur donner des maris ? »
 
 Le vieillard invoqua sur lui les bénédictions de Dieu en disant :
 
-> Il n’y a pas de maris pour mes filles, elles sont encore vierges à leur âge et parfaitement pures ; mais elles ne possèdent rien, ni or, ni argent, ni autre chose.»
+> Il n’y a pas de maris pour mes filles, elles sont encore vierges à leur âge et parfaitement pures ; mais elles ne possèdent rien, ni or, ni argent, ni autre chose. »
 
 Babram répondit :
 
-> Donne-les-moi toutes quatre et passe-toi dorénavant de tilles.»
+> Donne-les-moi toutes quatre et passe-toi dorénavant de tilles. »
 
 Le vieillard répliqua :
 
 > Ô cavalier !
 >
-> Ne parle pas de chose pareille, car’je n’ai ni étoffes, ni argent, ni terre, ni maison, ni bœufs, ni ânes.»
+> Ne parle pas de chose pareille, car’je n’ai ni étoffes, ni argent, ni terre, ni maison, ni bœufs, ni ânes. »
 
 Bahram lui dit :
 
-> Cela me convient, car je n’ai point besoin de leurs biens.»
+> Cela me convient, car je n’ai point besoin de leurs biens. »
 
 Le vieillard répondit :
 
 > Toutes quatre sont tes épouses et les servantes de la poussière de tes appartements s secrets.
 >
-> Ton œil les a vues avecleurs défauts et leurs qualités et les a approuvées telles qu’il les a vues.»
+> Ton œil les a vues avec leurs défauts et leurs qualités et les a approuvées telles qu’il les a vues. »
 
 Bahram reprit :
 
-> Je les accepte toutes les quatre de la mai’n du père qui les a élevées.»
+> Je les accepte toutes les quatre de la mai’n du père qui les a élevées. »
 
 Il le dit et se leva ; il entendit dans la plaine hennir des chevaux de main et ordonna aux eunuques qui se trouvaient dans le cortège de conduire ces idoles dans sa chambre à coucher.
 
@@ -104,15 +106,15 @@ Le meunier resta confondu d’étonnement et y réfléchit pendant la nuit sombr
 [
 il dit à sa femme :
 
-> Cet homme illustre, qui ressemble à la lune, cet homme à si haute taille et si puissant, comment est-il arrivé ici dans la nuit?»
+> Cet homme illustre, qui ressemble à la lune, cet homme à si haute taille et si puissant, comment est-il arrivé ici dans la nuit ? »
 
 La femme répondit :
 
-> Il a vu de loin le feu, et, entendant les chants de tes tilles, il s’est assis et a fait venir du vin et des musiciens.»
+> Il a vu de loin le feu, et, entendant les chants de tes tilles, il s’est assis et a fait venir du vin et des musiciens. »
 
 Le meunier adressa de nouveau une question à sa femme :
 
-> Ô femme, dis-moi ton avis : la fin de cela vant-elle être bonne ou mauvaise?»
+> Ô femme, dis-moi ton avis : la fin de cela vant-elle être bonne ou mauvaise ? »
 
 Elle répondit :
 
@@ -130,7 +132,7 @@ Lorsque la nuit eut fait place au jour, le chef du village arriva chez le vieill
 >
 > La fortune est venue a ton chevet pendant la nuit et la branche verte de ton arbre a porté fruit.
 >
-> Hier, dans la nuit sombre, le roi Bahram est arrivé de la plaine, où il avait chassé ; il a regardé et a vu cette fête et ce feu, a tourné les rênes de son cheval et est venu de lai-bas et maintenant tes tilles sont ses femmes et en sécurité
+> Hier, dans la nuit sombre, le roi Bahram est arrivé de la plaine, où il avait chassé ; il a regardé et a vu cette fête et ce feu, a tourné les rênes de son cheval et est venu de lai-bas et maintenant tes filles sont ses femmes et en sécurité
 >
 > BAHBAM nous. 1. dans ses appartements secrets.
 >
@@ -142,7 +144,7 @@ Lorsque la nuit eut fait place au jour, le chef du village arriva chez le vieill
 >
 > Nous sommes tous tes serviteurs.
 >
-> Donne des ce ordres, c’est à toi d’en donner ; nous dépendons de toi ; et c’est à toi qu’est l’autorité.»
+> Donne des ce ordres, c’est à toi d’en donner ; nous dépendons de toi ; et c’est à toi qu’est l’autorité. »
 
 Le meunier et sa femme furent troublés de ce discours et prononcèrent l’un et l’autre le nom de Dieu.
 
@@ -150,4 +152,4 @@ Le chef du village dit :
 
 > r.
 >
-> Ces visages et ces chevelures ont amené du quatrième ciel un mari.»
+> Ces visages et ces chevelures ont amené du quatrième ciel un mari. »
