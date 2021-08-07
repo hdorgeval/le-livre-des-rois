@@ -46,7 +46,7 @@ Et ton cheval Schebdiz à l’étrier d’or, ce cheval qui frémissait sous toi
 
 Et tes cavaliers aux rênes d’or qui faisaient du corps des ennemis le fourreau de leur épée ?
 
-Ils ddésespérèrent tous de ta vie.
+Ils désespérèrent tous de ta vie.
 
 Où sont tes dromadaires, tes éléphants blancs, tes chameaux au pas cadencé, tes litières dorées et tes serviteurs empressés ?
 
@@ -60,7 +60,7 @@ Il ne faut pas se targuer des faveurs de la fortune, car elle a plus de poisons 
 
 Tu cherchais dans ton fils un ami, un soutien et c’est lui qui t’a mis aux prises avec le malheur.
 
-Les rois trouvent dans leurs enfants une force, un abri contre les atteintes’du sort, mais le roi des roisa vu diminuer sa force et sa majesté à mesure que FILS DE mavrz. son fils grandissait.
+Les rois trouvent dans leurs enfants une force, un abri contre les atteintes du sort, mais le roi des roisa vu diminuer sa force et sa majesté à mesure que FILS DE mavrz. son fils grandissait.
 
 Quiconque voit la situation du Khosroês ne doit plus se fier à ce monde.
 
@@ -72,7 +72,7 @@ La faute en est au grand berger, si les loups se glissent aujourd’hui à trave
 
 Dites à Schirouï : Roi sans vergagne, ce n’est pas ainsi qu’on traite un souverain ; ne compte pas sur la fermeté de ton armée quand la guerre éclatera de tous côtés.
 
-Mais toi, ô’Khoarou, que Dieu protège ta vie ; qu’il abaisse le front de tes calomniateurs !
+Mais toi, ô Khosrou, que Dieu protège ta vie ; qu’il abaisse le front de tes calomniateurs !
 
 Je le jure par Dieu, par ton nom royal, par le Nôrouz et le Mihrdjân, par le printemps heureux, si ma main fait retentir de nouveaux accords, que mon nom soit privé de bénédictions !
 
