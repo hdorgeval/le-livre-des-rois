@@ -1041,6 +1041,8 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/ARDESCHIR BABEKÂN\./g, ''),
     (content: string) => content.replace(/SCHAPOUR\./g, ''),
     (content: string) => content.replace(/YllZDEGUEBD\./g, ''),
+    (content: string) => content.replace(/BAHIHM GUIlIt\./g, ''),
+    (content: string) => content.replace(/BAHRAM GOU’R\./g, ''),
   ].forEach((format) => {
     result = format(result);
   });
