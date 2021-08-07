@@ -40,7 +40,7 @@ Après : les fauconniers on emmena. dans le cortège du roi qui éclairait le mo
 
 C’est ainsi que le roi des rois s’avançait dans le désert, élevant sa couronne au-dessus de Jupiter et tous les chasseurs se dirigèrent vers les eaux du fleuve Milton, que Bahram, le maître du monde, visitait tous les sept ans sous des auspices favorables.
 
-Lorsque le cortège futarrivé sur les bords du fleuve, le roi vit l’eau couverte d’oiseaux ; il fit battre le tambour et Tughri s’élança dans l’air, car cet oiseau royal n’était pas patient.
+Lorsque le cortège fut arrivé sur les bords du fleuve, le roi vit l’eau couverte d’oiseaux ; il fit battre le tambour et Tughri s’élança dans l’air, car cet oiseau royal n’était pas patient.
 
 La grue était un gibier inn digne de ses griffes, car les léopards étaient sa vraie proie.
 
@@ -62,8 +62,10 @@ Lorsque le riche Dihkan l’aperçut, son visage pâlit de terreur comme la fleu
 Il accourut du bord du bassin, rapidement comme le vent, s’apv procha du roi et baisa la terre devant lui, disant :
 
 > Ô roi au visage de soleil, puisse le ciel tourner selon le gré de ton cœur !
+>
+> Je n’ose pas te proposer de rester ici sur ma terre avec deux cents cavaliers, mais la fortune de Berlin élèverait sa tête jusqu’à la lune si le roi pouvait se plaire dans ce jardin. »
 
-Je n’ose pas te proposer de rester ici sur ma terre avec deux cents cavaliers, mais la fortune de Berlin élèverait sa tête jusqu’à la lune si le roi pouvait se plaire dans ce jardinm Le roi du monde lui répondit :
+Le roi du monde lui répondit :
 
 > Tughri s’est. envolé aujourd’hui, mon cœur est en angoisses pour ce chasseur d’oiseaux et j’ai suivi le bruit de ses clochettes. n-Berzin lui dit :
 
@@ -81,7 +83,7 @@ Lorsque Tughri eut reparu, le vieillard dit :
 > Ô roi qui n’as ni pareil ni égal sur la terre !
 puisse mon hospitalité te porter bonheurlpuissent tous ceux qui ont des couronnes sur la tête être tes esclaves !
 >
-> Bois maintenant dans ton contentement une coupe de vin et puisque ton cœur a retrouvé le repos, livre-toi à la joie.»
+> Bois maintenant dans ton contentement une coupe de vin et puisque ton cœur a retrouvé le repos, livre-toi à la joie. »
 
 Le roi des rois du monde mit pied à terre auprès de ce bassin et le vieillard en fut tout heureux.
 
@@ -92,15 +94,15 @@ Benin fit apporter du vin rouge et des coupes et commença par boire à la sant�
 Le maître du monde, voyant le vin, saisit la coupe et la vida jusqu’au-dessous de la
 ’ ligne d’inscription.
 
-A cette vue Berzin devint tout joyeux et alla faire placer des cruches de vin partout dans le jardin et lorsqu’il fut ivre, il dit à ses filles :
+À cette vue Berzin devint tout joyeux et alla faire placer des cruches de vin partout dans le jardin et lorsqu’il fut ivre, il dit à ses filles :
 
 > Ô mes enfants pleines de talents !
 >
 > Le roi Bahram est arrivé dans notre jardin, mais personne des grands de son escorte n’est venu.
 >
-> Toi qui sais Î. . [ chauler, chante-nous des chansons, let toi, ma tille au.visage de lune, apporte ton luth.»
+> Toi qui sais Î. . [ chauler, chante-nous des chansons, let toi, ma fille au.visage de lune, apporte ton luth. »
 
-Toutesles .
+Toutes les .
 troiS’se présentèrent devant le roi,.des diadèmes de pierreries sur leurs têtes ; l’une savait danser, l’autre jouait du luth et la troisième avait une belle voix et savait dissiper les soucis.
 
 Au bruit de leurs voix, le roi des rois vida une coupe, et, se sentant tout joyeux, il (lit à Berzin : Quelles sont ces jeunes filles qui vivent avec toi dans ce bonheur ?
@@ -113,19 +115,19 @@ Berzin répondit :
 >
 > Sache que ce sont mes filles, qui font ma joie et me charment le cœur.
 >
-> L’une chante, l’autre joue du luth etla troisième danse en battant la mesure avec ses pieds.
+> L’une chante, l’autre joue du luth et la troisième danse en battant la mesure avec ses pieds.
 >
 > Ô roi !
 >
-> Je ne manque de 4c : rien, j’ai de l’or et de l’argent, des jardins, des terres et trois tilles qui ressemblent au gai printemps et sont telles que le roi les voit devant lui.»
+> Je ne manque de 4c : rien, j’ai de l’or et de l’argent, des jardins, des terres et trois filles qui ressemblent au gai printemps et sont telles que le roi les voit devant lui. »
 
 Puis, il dit à la chanteuse :
 
 > Ô fille au visage de V lune !
 >
-> Prends courage et chante la chanson du roi.»
+> Prends courage et chante la chanson du roi. »
 
-Les idoles se’préparèrent au chant et au jeu du luth et surmontèrent leur embarras.
+Les idoles se préparèrent au chant et au jeu du luth et surmontèrent leur embarras.
 
 La chanteuse commença en s’adressant à Bahram :
 
@@ -146,9 +148,9 @@ La chanteuse commença en s’adressant à Bahram :
 >
 > Ton cœur est comme la mer, ta main est comme le nuage, la proie de ton lacet est le léopard et le lion.
 >
-> Tu fends un ch’eveu avec la pointe de ta flèche et l’eau se convertit en lait par l’effet de ta justice.
+> Tu fends un cheveu avec la pointe de ta flèche et l’eau se convertit en lait par l’effet de ta justice.
 >
-> Quand une armées voit ton lacet et ton bras puissant, le cœur et la moelle des plus belliqueux se déchirent, si nombreuse que soit leur armée.»
+> Quand une armées voit ton lacet et ton bras puissant, le cœur et la moelle des plus belliqueux se déchirent, si nombreuse que soit leur armée. »
 
 Pendant que Bahram écoutait cette chanson, il vida la lourde coupe de cristal, puis il ditàBerziu :
 
@@ -156,7 +158,7 @@ Pendant que Bahram écoutait cette chanson, il vida la lourde coupe de cristal, 
 >
 > Tu ne trouveras pas un gendre meilleur que moi, le chef des rois, le maître du peuple.
 >
-> Donne-moi tes trois tilles ’et élève ton diadème jusqu’à Saturne.»
+> Donne-moi tes trois filles ’et élève ton diadème jusqu’à Saturne. »
 
 Berzin lui dit :
 
@@ -170,17 +172,19 @@ Berzin lui dit :
 >
 > Le miles a acceptées comme telles aussitôt qu’il a aperçu de loin ces tiois lunes.
 >
-> Elles ont une taille de platane et un teint d’ivoire, elles sont dignes du trône et sqront un ornement pour la couronne. le dirai maintenant ce que je possède en secret,je dirai le bien et le mal au roi du monde.
+> Elles ont une taille de platane et un teint d’ivoire, elles sont dignes du trône et seront un ornement pour la couronne. le dirai maintenant ce que je possède en secret,je dirai le bien et le mal au roi du monde.
 >
-> Il y a enfermées dans mon palais deux cents charges de chameaux, s’il n’y en a pas davantage, d’étoiles pour vêtements ; pour lits, pour couvertures et pour tapis ; de même j’ai des bracelets, des colliers, des courennes et des trônes, dont mes filles se réjouiront.»
+> Il y a enfermées dans mon palais deux cents charges de chameaux, s’il n’y en a pas davantage, d’étoiles pour vêtements ; pour lits, pour couvertures et pour tapis ; de même j’ai des bracelets, des colliers, des couronnes et des trônes, dont mes filles se réjouiront. »
 
 Le roi sourit à ces paroles de Berzin et lui dit :
 
-> Tout ce que tu as dans ta maison, laisse-le à sa place et livre-toi à la joie avec la coupede vin.»
+> Tout ce que tu as dans ta maison, laisse-le à sa place et livre-toi à la joie avec la coupede vin. »
 
 Le vieillard répondit :
 
-> Je te donne ces trois filles, qui ressemblent à des lunes, selon le rite de Kaïoumors et du roi Houscheng ; elles sont la poussière sous tes pieds, toutes les trois ne vivent que pour faire. tes volontésm -A La fille aînée s’appelait Mah-Al’erid, la seconde Firanek, la dernière Schembelid.
+> Je te donne ces trois filles, qui ressemblent à des lunes, selon le rite de Kaïoumors et du roi Houscheng ; elles sont la poussière sous tes pieds, toutes les trois ne vivent que pour faire. tes volontés. »
+
+-A La fille aînée s’appelait Mah-Al’erid, la seconde Firanek, la dernière Schembelid.
 >
 > Elles avaient plu au roi dès qu’il les avait vues, il les mit alors au nombre de ses femmes légitimes.
 >
