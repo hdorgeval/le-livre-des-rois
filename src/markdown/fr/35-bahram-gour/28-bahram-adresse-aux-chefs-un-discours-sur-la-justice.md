@@ -20,7 +20,7 @@ Lorsque le roi eut terminé l’affaire du Roumi, son esprit s’inquiéta de l�
 
 Il fit venir son conseiller le Mobed et rassembla les grands ; il distribua toute la terre à ces Pehlewans ardents pour les combats ; il donna de l’argent, des chevaux, des sceaux et des diadèmes et aux plus nobles des provinces. des couronnes et des trônes.
 
-Il répandit dans le monde la droiture et les grands et les petits étaient heureux sous lui ; il éloigna ceux qui étaient injustes, qui ne donnaient pas librement et avaient la parole froide ; puis il dit aux Moheds :
+Il répandit dans le monde la droiture et les grands et les petits étaient heureux sous lui ; il éloigna ceux qui étaient injustes, qui ne donnaient pas librement et avaient la parole froide ; puis il dit aux Mobeds :
 
 > Ô hommes habiles, au cœur pur et plein de sens !
 >
@@ -41,9 +41,9 @@ Il répandit dans le monde la droiture et les grands et les petits étaient heur
 >
 > Il est parti et il n’est resté de lui qu’un mauvais renom ; personne ne le bénit, c’est à moi de prononcer des bénédictions sur son âme ; à Dieu ne plaise que les haines qu’il a laissées derrière lui l’assent trembler ses mânes] et maintenant que je suis assis sur son trône, j’espère que son âme trouvera la route du ciel. .
 >
-> J’implore le Créateur du monde, pour qu’il il m’ accorde en toute occasion la force d’être bon tr pour mes sujets et de convertir la terre vile en musc pur, pour que personne, quand mon corps sera couché dans la poussière, ne puisse saisir le pan de me robe parce que j’aurais manqué de justice n envers lui.
+> J’implore le Créateur du monde, pour qu’il il m’ accorde en toute occasion la force d’être bon pour mes sujets et de convertir la terre vile en musc pur, pour que personne, quand mon corps sera couché dans la poussière, ne puisse saisir le pan de me robe parce que j’aurais manqué de justice n envers lui.
 >
-> Et vous aussi, couvrez-vous du manteau de la droiture et lavez votre cœur de toute fausseté. car personne ne naît de sa mère que pour la mort, v qu’il soit de race perse, ou arabe, ou roumie.
+> Et vous aussi, couvrez-vous du manteau de la droiture et lavez votre cœur de toute fausseté. car personne ne naît de sa mère que pour la mort, qu’il soit de race perse, ou arabe, ou roumie.
 >
 > La mort se jette sur lui comme un lion et personne ne peut soustraire son cou à ses griffes ; le lion qui déchire tout est sa proie,’et le dragon n’échappe pas à son piège.
 >
@@ -85,7 +85,7 @@ sont ces grands et ces princes heureux, ces cavatiers et ces hommes qui portaien
 >
 > Puissent mes actions vous a rendre tous heureux !
 >
-> Puissiez-vous tous vous attacher noblement au culte du feu !»
+> Puissiez-vous tous vous attacher noblement au culte du feu ! »
 
 Tous les grands, à ces paroles du roi, tournèrent leurs cœurs vers le bien et leurs yeux se remplirent de larmes en regardant ce roi d’un esprit si sage et vif.
 
