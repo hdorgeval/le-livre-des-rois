@@ -214,8 +214,7 @@ Une autre fois un homme s’enhardit à dire :
 
 Il répondit :
 
-> Un cavalier vaillant’ne doit jamais être rassasié de combats ; il doit être également prêt pour une fête et pour un champ de bataille, pendant le jour brillant et pendant la nuit noire ; il ne faiblit pas au moment ou il faut. de la vigueur et il ne s’inquiète h
-pas du grand ou du petit nombre de ses ennemis. »
+> Un cavalier vaillant’ne doit jamais être rassasié de combats ; il doit être également prêt pour une fête et pour un champ de bataille, pendant le jour brillant et pendant la nuit noire ; il ne faiblit pas au moment ou il faut. de la vigueur et il ne s’inquiète h pas du grand ou du petit nombre de ses ennemis. »
 
 Quelqu’un dit :
 
@@ -257,7 +256,7 @@ Il répondit :
 
 Un autre dit :
 
-> Ô roi, adornteur de Dieu !
+> Ô roi, adorateur de Dieu !
 >
 > Il y a devant ta porte beaucoup deles sujets qui tous te célèbrent parce que tu rends justice et prient le Çréateur pour toi. »
 
@@ -383,7 +382,7 @@ Un autre dit :
 Tu as beau-
 coup parlé aux grands et unel’ois tu leur as dit :
 
-> C’est moi qui suis le sort et je suis le moyen par lequel il apporte le bien et le mal et quand on prononce des [bénédictions sur le monde, c’est à moi’qu’en revient en secret le bénéfice. »
+> C’est moi qui suis le sort et je suis le moyen par lequel il apporte le bien et le mal et quand on prononce des [bénédictions sur le monde, c’est à moi qu’en revient en secret le bénéfice. »
 
 Il répondit :
 
