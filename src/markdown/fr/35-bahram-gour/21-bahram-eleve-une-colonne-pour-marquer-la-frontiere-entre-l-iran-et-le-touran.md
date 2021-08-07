@@ -40,7 +40,7 @@ Si lu veux 1 : 7.
 5&
 que nous payions tribut, nous y consentons ; pourquoi couper les têtes des grands ?
 
-Hommes et femmes nous sommes tous tes esclaves, nous sommes vaincus par toi dans les combats.»
+Hommes et femmes nous sommes tous tes esclaves, nous sommes vaincus par toi dans les combats. »
 
 Le cœur du roi fut ému de leurs paroles et il ferma avec la main de l’intelligence l’œil de sa colère.
 
