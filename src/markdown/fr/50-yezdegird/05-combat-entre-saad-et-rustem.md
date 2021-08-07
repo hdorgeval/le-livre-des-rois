@@ -34,9 +34,9 @@ Rustem jeta les yeux sur le champ de bataille ; voyant que ses plus illustres ch
 
 Saad et Rustem se faisaient face : ils sortirent en même temps du centre de leurs troupes et se rencontrèrent hors de la mêlée, s’isolant l’un et l’autre des deux armées, ils se dirigèrent vers la base d’une haute colline.
 
-Ces deux chefs s’attaquèrent d’un cœur que la rage animait ; Rustem, poussant un cri qui re- ) tenlit comme la foudre, frappa de son épée le cheval de Saad à la tête ; le coursier des combats roula tête baissée dans la poussière et le vaillant Saad fut désarçonné.
+Ces deux chefs s’attaquèrent d’un cœur que la rage animait ; Rustem, poussant un cri qui re-) tenlit comme la foudre, frappa de son épée le cheval de Saad à la tête ; le coursier des combats roula tête baissée dans la poussière et le vaillant Saad fut désarçonné.
 
-Rustem brandit de nouveau son épée acérée pourporter à son adversaire un coup mortel et lui trancher la tête ; mais la poussière noire rendait les deux combattants invisibles l’un à l’autre.
+Rustem brandit de nouveau son épée acérée pour porter à son adversaire un coup mortel et lui trancher la tête ; mais la poussière noire rendait les deux combattants invisibles l’un à l’autre.
 
 Rustem descendit de sa selle en peau de léopard et attacha le bout des brides à sa ceinture ; mais un flot de poussière vint l’aveugler.
 
@@ -50,7 +50,7 @@ En voyant de loin Rustem souillé de poussière et de sang et son corps fendu de
 
 Plusieurs d’entre les plus illustres furent. tués, d’autres moururent en selle dans les tourments de la soif et le monde perdit ainsi un grand nombre de ses rois.
 
-L’armée iranienne, mise en déroute, et voyant. les plaines et les chemins couverts des cadavres des siens, courut nuit et jour pour retourner
+L’armée iranienne, mise en déroute et voyant. les plaines et les chemins couverts des cadavres des siens, courut nuit et jour pour retourner
 
 Auprès du roi d’Iran.
 
