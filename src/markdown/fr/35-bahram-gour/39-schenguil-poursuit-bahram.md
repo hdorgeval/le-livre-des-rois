@@ -22,7 +22,7 @@ Il fut courroucé, traversa le fleuve et dit avec colère à Sepinoud :
 
 > Ô fille méchante et impudente !
 >
-> Tu as passé le fleuve comme une lionne avec ce fourbe insolent ; tu veux aller dans l’Iran à mon insu, tu abandonnes un gai paradis pour un désert ; tu vas maintenant voir mes coups de javelot, puisque tu as quitté le chevet de mon lit sans m’en avertir.»
+> Tu as passé le fleuve comme une lionne avec ce fourbe insolent ; tu veux aller dans l’Iran à mon insu, tu abandonnes un gai paradis pour un désert ; tu vas maintenant voir mes coups de javelot, puisque tu as quitté le chevet de mon lit sans m’en avertir. »
 
 Bahram lui dit :
 
@@ -34,7 +34,7 @@ Bahram lui dit :
 >
 > Tu sais que cent mille Indiens sont moins devant moi qu’un seul cavalier.
 >
-> Moi et mes trente compagnons illustres, avec nos cottes de mailles et nos épées du Farsistan, nous remplirons de sang les yeux des Indiens et nous n’en laisserons pas un seul en vie.»
+> Moi et mes trente compagnons illustres, avec nos cottes de mailles et nos épées du Farsistan, nous remplirons de sang les yeux des Indiens et nous n’en laisserons pas un seul en vie. »
 
 Schenguil savait qu’il disait vrai, car on ne peut pas oublier la bravoure et la vaillance et il répondit :
 
@@ -48,7 +48,7 @@ Schenguil savait qu’il disait vrai, car on ne peut pas oublier la bravoure et 
 >
 > Car, en disant oui, il pense non.
 >
-> Tu es comme un lionceau qui fait verser des larmes de sang à ceux qui l’ont élevé ; lorsque ses dents sont poussées et que ses griffes sont devenues aiguës, il veut combattre son père nourricier.»
+> Tu es comme un lionceau qui fait verser des larmes de sang à ceux qui l’ont élevé ; lorsque ses dents sont poussées et que ses griffes sont devenues aiguës, il veut combattre son père nourricier. »
 
 Bahram lui dit :
 
@@ -56,7 +56,7 @@ Bahram lui dit :
 >
 > Je suis le roi des rois de l’Iran et du Touran, je suis le chef et le soutien des braves.
 >
-> Dorénavant je te ferai du bien selon ton mérite ; je trancherai la tête à ceux qui le veulent du mal ; je te traiterai, dans l’Iran, comme un père ; j’épargnerai à ton pays le chagrin de payer son tribut ; la fille sera le flambeau de l’Occident, elle sera comme le diadème sur la tête des reines.»
+> Dorénavant je te ferai du bien selon ton mérite ; je trancherai la tête à ceux qui le veulent du mal ; je te traiterai, dans l’Iran, comme un père ; j’épargnerai à ton pays le chagrin de payer son tribut ; la fille sera le flambeau de l’Occident, elle sera comme le diadème sur la tête des reines. »
 
 AS Schenguil resta confondu de ces paroles ; il ôta de sa tête son bonnet indien, frappa son cheval, s’élança de son grand cortège et s’approcha du roi pour s’excuser.
 
