@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/fr/38-pirouz', 2, 4);
+formatEpisodesIn('src/markdown/fr/39-balasch', 2, 4);

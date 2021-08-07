@@ -1147,6 +1147,14 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/colonneque/, 'colonne que'),
     (content: string) => content.replace(/aucuanurc/, 'aucun Turc'),
     (content: string) => content.replace(/lecfoessé/, 'le fossé'),
+    (content: string) => content.replace(/doule’ur/, 'douleur'),
+    (content: string) => content.replace(/autrede/, 'autre de'),
+    (content: string) => content.replace(/sestimbales/, 'ses timbales'),
+    (content: string) => content.replace(/périrassous/, 'périras sous'),
+    (content: string) => content.replace(/camp’tel/, 'camp tel'),
+    (content: string) => content.replace(/prodnisent/, 'produisent'),
+    (content: string) => content.replace(/justiœ/, 'justice'),
+    (content: string) => content.replace(/impirait/, 'inspirait'),
   ].forEach((format) => {
     result = format(result);
   });
