@@ -22,9 +22,9 @@ Kobad lui dévoila son secret, disant :
 
 > Je ne veux pas te cacher ce que je médite.
 >
-> Cinq hommes connaissent mon secret et je n’en parlerai à aucun autre ; nous les appellerons et nous les mettrons dans notre confidence, si nous en.av0ns besoin ; ôte les fers de mes pieds et sache que mes plans te rendront heureux.»
+> Cinq hommes connaissent mon secret et je n’en parlerai à aucun autre ; nous les appellerons et nous les mettrons dans notre confidence, si nous en.av0ns besoin ; ôte les fers de mes pieds et sache que mes plans te rendront heureux. »
 
-Bezmihr, dont v les intentions étaient pures. lui ôta a l’instant les fers, et, la nuit sombre venue, ils sortirent de la ville et s’avancèrent dans le désert hors de la vue des ennemis.
+Bezmihr, dont les intentions étaient pures. lui ôta a l’instant les fers, et, la nuit sombre venue, ils sortirent de la ville et s’avancèrent dans le désert hors de la vue des ennemis.
 
 Ils se dirigèrent vers le pays des Heï-taliens, tourmentés de soucis et cherchant la route.
 
@@ -33,11 +33,11 @@ Le Dihkan avait une fille belle comme la lune, qui portait sur la tête un diad�
 
 Il vint à l’instant dire à Rezmihr : J’ai à te parler en secret.
 
-Va et dis mon secret au Dihkan et demande s’il veut me donner pour compagne cette fille au visage de lune.»
+Va et dis mon secret au Dihkan et demande s’il veut me donner pour compagne cette fille au visage de lune. »
 
 Bezmihr alla sur-le-champ faire ce message et dit au Dihkan :
 
-> Si cette belle fille n’est pas mariée, je puis lui amener un excellent mari et tu deviendras le maître d’Ahwaz.»
+> Si cette belle fille n’est pas mariée, je puis lui amener un excellent mari et tu deviendras le maître d’Ahwaz. »
 
 Le riche Dihkan répondit à Rezmihr :
 
@@ -45,7 +45,7 @@ Le riche Dihkan répondit à Rezmihr :
 
 > Que cette lune devienne ta compagne !
 >
-> Tu l’as aperçue inopinément et elle. t’a plu ; elle t’a plu telle que tu l’as aperçue.»
+> Tu l’as aperçue inopinément et elle. t’a plu ; elle t’a plu telle que tu l’as aperçue. »
 
 Kobad appela alors la belle au visage
 
@@ -53,7 +53,7 @@ De lune et le vaillant roi la fit asseoir sur son genon.
 
 Il avait sur lui une seule bague, mais une bague dont la pierre était d’une valeur inestimable ; il la lui donna et lui dit :
 
-> Garde cet anneau, le jour viendra où je le réclamerai.»
+> Garde cet anneau, le jour viendra où je le réclamerai. »
 
 Il resta une semaine dans ce bourg à cause de cette lune et le huitième jour il se remit en route.
 
@@ -65,11 +65,11 @@ Le roi lui dit :
 >
 > Je te confierai une armée dont chaque homme porte un diadème, à condition que si tu rentres en possession du trésor et de la couronne, le pays de Tchegan, son trésor et son trône seront à moi.
 >
-> Ce pays sera à moi et à toi l’Iran et tu n’auras pas à te repentir de ce qui aura été fait.»
+> Ce pays sera à moi et à toi l’Iran et tu n’auras pas à te repentir de ce qui aura été fait. »
 
 Kobad répondit en souriant à cet homme qui l’opprimait :
 
-> Jamais nous ne réclamerons ce pays et quand tu voudras, je t’enverrai une armée sans nombre ; qu’est-ce que le pays de Tchegan pour que j’y fasse attention?»
+> Jamais nous ne réclamerons ce pays et quand tu voudras, je t’enverrai une armée sans nombre ; qu’est-ce que le pays de Tchegan pour que j’y fasse attention ? »
 
 Le roi des Hei’taliena oll’rit au roi, maître du monde, des troupeaux, des armes et tous les cavaliers de son armée.
 
