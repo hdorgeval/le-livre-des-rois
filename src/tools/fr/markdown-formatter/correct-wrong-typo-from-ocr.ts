@@ -1155,6 +1155,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/prodnisent/, 'produisent'),
     (content: string) => content.replace(/justiœ/, 'justice'),
     (content: string) => content.replace(/impirait/, 'inspirait'),
+    (content: string) => content.replace(/sontdevenus/, 'sont devenus'),
+    (content: string) => content.replace(/acclamèreut/, 'acclamèrent'),
   ].forEach((format) => {
     result = format(result);
   });
