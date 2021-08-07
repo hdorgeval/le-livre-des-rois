@@ -27,7 +27,7 @@ Il s’était dit alors :
 
 > Pendant vingt ans je m’amuserai, car, quand je quitterai le monde, tous seront mes égaux ; pendant la deuxième vingtaine, je mettrai en ordre le monde, par ma justice et ma libéralité, en public et en secret.
 >
-> Je ne permettrai pas qu’un seul coin reste désert et tous trouveront leur nourriture par mes p soins ; pendant les vingt crans suivants, je me tiendrai debout devant Dieu, espérant qu’il voudra être mon guide.»
+> Je ne permettrai pas qu’un seul coin reste désert et tous trouveront leur nourriture par mes p soins ; pendant les vingt crans suivants, je me tiendrai debout devant Dieu, espérant qu’il voudra être mon guide. »
 
 L’astrologue lui avait annoncé soixante-trois ans, mais ce chiffre de trois ans était obscur pour lui et les paroles de l’astrologue l’inquiétaient, si grands que fussent ses trésors.
 
@@ -39,9 +39,9 @@ Destour, il alla au trésor et s’appliqua à faire les comptes, il travailla q
 
 Celui-ci, ayant reçu les comptes, se rendit chez le roi plein de préoccupation et lui dit :
 
-> Pendant vingt-trois ans tu n’auras prôbahlement besoin de rien.
+> Pendant vingt-trois ans tu n’auras probablement besoin de rien.
 >
-> J’ai calculé la nourriture, les libéralités, la solde de ton armée glorieuse, les frais des envoyés qui viendront à ta cour de la part des rois ou de tes provinces et ton trésor peut suffire pendant ces années ; car il est plein d’or et d’argent et de choses précieuses.»
+> J’ai calculé la nourriture, les libéralités, la solde de ton armée glorieuse, les frais des envoyés qui viendront à ta cour de la part des rois ou de tes provinces et ton trésor peut suffire pendant ces années ; car il est plein d’or et d’argent et de choses précieuses. »
 
 Bahram écouta ces paroles et réfléchit ; sa sagesse l’empêchait de se chagriner à l’avenir.
 
@@ -49,7 +49,7 @@ Il dit :
 
 > Mon !
 >
-> Règne tirevers sa fin ; la vie, à y bien penser, c’est trois jours ; mais comme hier est passé et demain n’est pas encore arrivé, je ne vais pas aujourd’hui me laisser courber par le souci et puisque je puis faire des libéralités et que je possède le trône et la couronne, je ne demanderai plus d’impôts au monde.»
+> Règne tire vers sa fin ; la vie, à y bien penser, c’est trois jours ; mais comme hier est passé et demain n’est pas encore arrivé, je ne vais pas aujourd’hui me laisser courber par le souci et puisque je puis faire des libéralités et que je possède le trône et la couronne, je ne demanderai plus d’impôts au monde. »
 
 Ensuite, il ordonna qu’on ne demandât plus d’impôts dans le monde entier, ni aux grands ni aux petits.
 
@@ -59,13 +59,13 @@ Il donna à ces Mobeds pleins d’intelligence tout ce qu’il fallait pour leur
 
 > Il ne faut rien me cacher de ce qui se fait de bien ou de mal.
 >
-> Soyez les médiateurs dans les disputes, n’exigez rien de personne et soyez vaillants ; faites-moi savoir le bien et le mal et préservez mon esprit des soupçons mal fondés.»
+> Soyez les médiateurs dans les disputes, n’exigez rien de personne et soyez vaillants ; faites-moi savoir le bien et le mal et préservez mon esprit des soupçons mal fondés. »
 
 Ces Mobeds se répandirent dans le monde et rien de bien et de mal ne resta plus caché ; ces hommes intelligents prirent en main les affaires, mais on reçut des lettres de toutes les provinces, déclarant que les dons du roi, le désœuvrement et les richesses avaient ébranlé la raison dans les.
 
 I cerveaux ; qu’au milieu des luttes et du sang versé partout, les jeunes gens méconnaissaient la valeur des grands ; que leur cœur était uniquement rempli du désir des richesses et ne respectait ni les Mobeds ni le roi.
 
-Lorsqu’on reçut des lettres de cette espèce. l’âme du roi était alliigée du sang qu’on répandait ; il choisit dans chaque province un administrateur, des hommes justes et savants comme. il les fallait ; il leur fit fournir par le trésor les vêtements, la nourriture, des tapis et les moyens de se montrer généreux et leur ordonna d’ouvrir pendant six mois des bureaux et de demander aux sujets de l’argent, qu’ils devaient faire frapper avec la légende : impôt.
+Lorsqu’on reçut des lettres de cette espèce. l’âme du roi était affligée du sang qu’on répandait ; il choisit dans chaque province un administrateur, des hommes justes et savants comme. il les fallait ; il leur fit fournir par le trésor les vêtements, la nourriture, des tapis et les moyens de se montrer généreux et leur ordonna d’ouvrir pendant six mois des bureaux et de demander aux sujets de l’argent, qu’ils devaient faire frapper avec la légende : impôt.
 
 Les receveurs devaient se tenir dans les bureaux, entourés de pompe et portant des couronnes sur la tête ; pendant six mois le roi recevait et pendant six il dépensait, mais les receveurs ne devaient pas profiter de cet argent.
 
@@ -74,9 +74,11 @@ Son but était d’empêcherrles hommes désœuvrés de verser du sang et d’en
 Lorsque Bahram eut lu ces lettres, son cœur fut troublé de cet état des choses ; il choisit dans chaque province des gardiens de la frontière dont le cœur était plein de justice comme il le fallait et leur ordonna d’appliquer la loi de Dieu à tous ceux qui versaient du sang ou pervertissaient la justice, pour que tout homme pût subsister. .
 Il se passa ainsi un temps fort long, au bout duquel le roi fit écrire une lettre aux hommes véridiques et observateurs qu’il avait établis partout et leur demanda s’il y avait dans le monde quelque chose de nuisible et qui portait dommage à l’empire.
 
-Ils lui répondirent : L’elïet des dons du roi est que personne n’observe plus les coutumes et ne suit plus la vraie route ; le travail et les soins de l’agriculture ont cessé et pourtant l’homme n’acquiert de valeur que par le travail.
+Ils lui répondirent :
 
-Nous voyons les bœufs de labour dispersés et l’herbe qui pousse dans les blés et les terres ensemencées.»
+> L’elïet des dons du roi est que personne n’observe plus les coutumes et ne suit plus la vraie route ; le travail et les soins de l’agriculture ont cessé et pourtant l’homme n’acquiert de valeur que par le travail.
+>
+> Nous voyons les bœufs de labour dispersés et l’herbe qui pousse dans les blés et les terres ensemencées. »
 
 Il répondit :
 
@@ -91,7 +93,7 @@ le soleil qui éclaire le monde est au plus haut.
 >
 > Si les sauterelles couvrent un pays et enlèvent la verdure des champs ensemencés jusqu’à la terre sèche, dédommage les habitants aux frais du trésor et proclame ces ordres dans la province.
 >
-> S’il y a dans le monde un district stérile, ou s’il y a un lieu sans eau et qu’on ne peut pas cultiver, qu’il se trouve sur les terres des pauvres ou des grands, n’exige rien de toutes ces terres ; et si l’un de mes serviteurs, fût-il mon père nourricier, demande de ces terres même une seule obole, je le ferai enterrer vivant la où il se trouve et maudite soit sa demeure, maudite sa maison !»
+> S’il y a dans le monde un district stérile, ou s’il y a un lieu sans eau et qu’on ne peut pas cultiver, qu’il se trouve sur les terres des pauvres ou des grands, n’exige rien de toutes ces terres ; et si l’un de mes serviteurs, fût-il mon père nourricier, demande de ces terres même une seule obole, je le ferai enterrer vivant la où il se trouve et maudite soit sa demeure, maudite sa maison ! »
 
 .
 On posa le sceau du roi sur la lettre et Bahram
