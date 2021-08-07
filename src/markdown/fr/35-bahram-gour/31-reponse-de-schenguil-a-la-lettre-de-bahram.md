@@ -29,7 +29,7 @@ Ton roi montre de la présomption et ton voyage ici en montre de même.
 Si quelqu’un s’avise de demander un tribut de
 æ l’Hindoustan, je ne serai pas de l’avis de celui qui en parlerait.
 
-Si ton roi parle de son armée ou de ses trésors, ou de fouler aux pieds les villes et lesprovinces et de les livrer à la misère, sache que les rois sont les grues et moi l’aigle, ou moi une mer d’eau et eux la poussière.
+Si ton roi parle de son armée ou de ses trésors, ou de fouler aux pieds les villes et les provinces et de les livrer à la misère, sache que les rois sont les grues et moi l’aigle, ou moi une mer d’eau et eux la poussière.
 
 Personne ne s’attaque aux astres, personne ne cherche le renom et la gloire en combattant le ciel.
 
@@ -60,7 +60,7 @@ Une armée de trois cent mille braves me salue comme roi et douze cents de mes a
 LtAlllMlt 2l m’appartiemient de père en fils et sont debout devant moi dans l’Inde, ne permettent à personne de -m’approcher, des hommes tels qu’à l’heure du combat -
 les lions dans la forêt rongent de peur leurs ongles quand ils entendent leur voix.
 
-Si la centuine permettait à un homme noble de mettre à mort dans sa colère un envoyé, je séparerais ta tête de ton corps et ta chemise aurait à pleurer sur toim y Bahram lui répondit :
+Si la centaine permettait à un homme noble de mettre à mort dans sa colère un envoyé, je séparerais ta tête de ton corps et ta chemise aurait à pleurer sur toim y Bahram lui répondit :
 
 > Ô roi couronné !
 >
@@ -68,4 +68,4 @@ Si la centuine permettait à un homme noble de mettre à mort dans sa colère un
 >
 > Mon maître m’a ordonné de te dire : Si tu es homme de sens, ne choisis pas la voie des Divs, mais produis deux sages de ta cour, les plus habiles à la parole que tu connaisses et si l’un d’eux se montre supérieur en raison et en intelligence à un de mes nobles, je renonce à toute prétention sur ton pays ; car l’homme intelligent ne méprise jamais la parole.
 >
-> Ou, si tu le préfères, choisis dans l’Hindoustan cent cavaliers vaillants qui manient la lourde massue ; ils se battront contre un seul de nous et si votre bravoure et votre valeur font leurs preuves, je cesserai de demander un tribut de ton pays.»
+> Ou, si tu le préfères, choisis dans l’Hindoustan cent cavaliers vaillants qui manient la lourde massue ; ils se battront contre un seul de nous et si votre bravoure et votre valeur font leurs preuves, je cesserai de demander un tribut de ton pays. »
