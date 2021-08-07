@@ -27,11 +27,11 @@ En mariant 6
 
 Quand j’aurai quitté cette demeure passagère, le roi Bahram sera radja de Kanoudj.
 
-Ne vous écartez pas des ordres de ce prince, portez mon corps mort devant le feu et livrez à Bahram le trésor, le pays, le palais, le trône et le diadème.»
+Ne vous écartez pas des ordres de ce prince, portez mon corps mort devant le feu et livrez à Bahram le trésor, le pays, le palais, le trône et le diadème. »
 
 Il remit à Sepinoud cette investiture de l’Inde,-écrite sur du satin, en caractères indiens.
 
-Schenguil, ayant passé ainsi deux mois dans l’Iran, envoya un de ses grands auprès du roi et lui fit demander la’permission de s’en retourner chez lui avec ses illustres compagnons, dont le conseil portait bonheur.
+Schenguil, ayant passé ainsi deux mois dans l’Iran, envoya un de ses grands auprès du roi et lui fit demander la permission de s’en retourner chez lui avec ses illustres compagnons, dont le conseil portait bonheur.
 
 Le roi des rois consentit à son retour dans l’I-Iindoustan et fit choisir par son Mobed, parmi les richesses de l’Iran, des pièces d’or, des pierres fines, des objets d’argent et d’or, des trônes, des épées, des ceintures, des brocarts et des étoffes pour robes en pièces ; c’étaient des présents sans nombre et inappréciables.
 
