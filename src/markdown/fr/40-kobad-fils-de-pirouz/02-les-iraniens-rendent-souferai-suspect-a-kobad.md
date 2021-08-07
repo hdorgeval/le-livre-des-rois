@@ -38,18 +38,18 @@ Des confidents de Kobad lui rapportèrent ces discours, disant :
 >
 > Te contentes-tu d’un titre ?
 >
-> Cet homme a un trésor plus rempli que le tien ; il faut délivrer le monde de cette plaie ; tous les habitants du Farsistan sont devenus ses esclaves, tous les grands sontdevenus ses serviteurs.»
+> Cet homme a un trésor plus rempli que le tien ; il faut délivrer le monde de cette plaie ; tous les habitants du Farsistan sont devenus ses esclaves, tous les grands sont devenus ses serviteurs. »
 
 Ces paroles aigrirent le roi Kobad, il ne se souvint plus de ce que Souferaï avait souffert pour lui.
 
 Il dit :
 
 > Si j’envoie une armée, la tête lui tournera et il voudra se battre ; j’aurai donc employé mes trésors à me faire un pareil ennemi et il me cau-
-sera bien des chagrins et des peines ; tout le monde se rappelle ses hauts faits, mais personne ne sait ce qu’il trame en secret. le n’ai pas dans l’Iran un homme de guerre qui osera marcher contre lui avec une armée.»
+sera bien des chagrins et des peines ; tout le monde se rappelle ses hauts faits, mais personne ne sait ce qu’il trame en secret. le n’ai pas dans l’Iran un homme de guerre qui osera marcher contre lui avec une armée. »
 
 Un de ces conseillers lui dit :
 
-> Ne crains pas qu’il puisse jamais être reconnu roi ; tu as des serviteurs et un chef d’armée qui saisiraient de leurs mains la sphère qui tourne et quand Schapour de Heï se mettra en marche, le cœur de Souferaï, le malfaiteur, se déchirera.»
+> Ne crains pas qu’il puisse jamais être reconnu roi ; tu as des serviteurs et un chef d’armée qui saisiraient de leurs mains la sphère qui tourne et quand Schapour de Heï se mettra en marche, le cœur de Souferaï, le malfaiteur, se déchirera. »
 
 Le roi l’écouta et reprit conrage ; il oublia les mérites de Souferaï et ne pensa qu’à ses défauts.
 
@@ -83,7 +83,7 @@ Dis-lui :
 
 > Je n’ai de la couronne des rois des rois que la fatigue et un trésor vide ; tu lèves les impôts et c’est sur moi qu’on en rejette la faute ; je ne veux pas que dorénavant tu m’appelles roi.
 >
-> J’envoie auprès de toi un Pehlewan, car je ne fais que pleurer sur ce que tu fais.»
+> J’envoie auprès de toi un Pehlewan, car je ne fais que pleurer sur ce que tu fais. »
 
 Quand il aura reçu une pareille lettre et quand je serai près
 .de lui avec mon armée prête au combat, je ne lui laisserai pas un instant pour la réflexion, je ne lui adresserai la parole qu’avec colère’m On appela un homme qui pouvait écrire une lettre, on le fit asseoir auprès de Schapour, qui lui dicta les paroles qu’il avait dites au roi et le roseau du scribe allait comme le vent.
@@ -101,7 +101,7 @@ Lorsque le Pehlewan eut lu la lettre, il pâlit, son cœur se serra, son esprit 
 
 Souferaï ayant achevé sa lecture, Schapour lui dit :
 
-> Maintenant il ne faut plus cacher de quoi il s’agit : le roi du monde m’a ordonné de te mettre dans les fers : il a beaucoup déploré cela devant les grands, mais tu as lu sa lettre et tu sais que le roi des rois tient à ses volontés.»
+> Maintenant il ne faut plus cacher de quoi il s’agit : le roi du monde m’a ordonné de te mettre dans les fers : il a beaucoup déploré cela devant les grands, mais tu as lu sa lettre et tu sais que le roi des rois tient à ses volontés. »
 
 Le Pehlewan répondit :
 
@@ -120,7 +120,7 @@ VI.
 >
 > Nantes sont ma récompense ?
 >
-> Mais ne t’écarte en rien de ses ordres, sache que les fers aux pieds d’un homme sontsun ornement pour lui.»
+> Mais ne t’écarte en rien de ses ordres, sache que les fers aux pieds d’un homme sontsun ornement pour lui. »
 
 Schapour l’écoute, lui enchaîna les pieds, fit battre les timbales et remonta à cheval.
 
@@ -134,7 +134,7 @@ Le conseiller du roi lui dit :
 
 > Tout Thisifoun est en sa faveur, l’armée et le peuple, les Dihkans et les gens de la cour.
 >
-> S’il reste sain et sauf dans l’Iran, il faut que tu te résignes à quitter le trône ; il vaut mieux mettre à mort l’ennemi du roi et briser la fortune de celui qui lui vent du mal.»
+> S’il reste sain et sauf dans l’Iran, il faut que tu te résignes à quitter le trône ; il vaut mieux mettre à mort l’ennemi du roi et briser la fortune de celui qui lui vent du mal. »
 
 Le roi écouta les paroles du Mobed et se jeta dans cette nouvelle voie, désespérant de l’ancienne.
 
