@@ -82,7 +82,7 @@ Veux-tu prendre la peine de dire à Buzurdjmihr que j’ai dans le monde un fils
 
 > Je le .
 >
-> ’lllô DES ItOlS. ferai volontiers, car tu m’as épargné beaucoup de chemin avec ton trésor. »
+> ferai volontiers, car tu m’as épargné beaucoup de chemin avec ton trésor. »
 
 .
 Buzurdjmihr se présenta devant le roi, qui fut joyeux d’avoir obtenu l’argent et dit :
