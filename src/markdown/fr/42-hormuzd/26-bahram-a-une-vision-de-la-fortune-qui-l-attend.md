@@ -26,7 +26,7 @@ Fer son cheval.
 
 Dans la forêt et à l’endroit le plus propre à la chasse, se présentait un défilé étroit ; lorsque l’onagre l’eut franchi, apparut une plaine parsemée de jardins et de terres incultes.
 
-Bahram chevauchait, l’onagrc courait, l’homme et son destrier étaient noyés dans la sueur.
+Bahram chevauchait, l’onagre courait, l’homme et son destrier étaient noyés dans la sueur.
 
 Bahram, jetant un regard sur cette plaine, vit apparaître un magnifique château, vers lequel il se dirigea, de même que l’onagre qui courait devant lui et cherchait son chemin.
 
