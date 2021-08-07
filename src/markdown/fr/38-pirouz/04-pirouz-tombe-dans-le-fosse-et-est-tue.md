@@ -39,7 +39,7 @@ Il ne faut pas qu’un homme qui recherche la possession du monde soit vil, car 
 
 Telle est la manière d’aller de cette voûte qui ne s’arrête jamais, ni en face d’un sujet ni en face d’un roi ; elle ébranle ceux qu’elle a élevés elle-même, qu’ils soient insensés ou qu’ils soient les colonnes de la raison.
 
-Personne ne reste éternellement sur cette terre ; fais que ta provision de voyage soit la dKrhousichtneuwarz peass,a lecfoessé,leat sonsarmuéefs’fenit. -richit de toutes les richesses des Iraniens.
+Personne ne reste éternellement sur cette terre ; fais que ta provision de voyage soit la dKrhousichtneuwarz peass,a le fossé,leat sonsarmuéefs’fenit. -richit de toutes les richesses des Iraniens.
 
 On attacha aux pieds de Kobad des chaînes de fer, sans égard pour son trône et sa naissance.
 
@@ -48,4 +48,4 @@ Lorsque le peuple de l’Iran reçut la nouvelle de ce qui s’était passé dan
 
 L’armée et les citadins de l’Iran furent remplis de douleur ; les femmes, les hommes et les enfants se lamentèrent ; tous s’arrachèrent 8.
 
-Se LE LIVRE DES anis. les cheveux, tous se déchirèrent les joues, tous appelèrent le roi, tous désiraient le revoir ; tous étaient assis dans le chagrin et l’aflliction ; petits et grands réfléchissaient comment ils pourraient se mettre en marche du pays d’Iran et se venger qu du désert.
+Se DES anis. les cheveux, tous se déchirèrent les joues, tous appelèrent le roi, tous désiraient le revoir ; tous étaient assis dans le chagrin et l’affliction ; petits et grands réfléchissaient comment ils pourraient se mettre en marche du pays d’Iran et se venger qu du désert.
