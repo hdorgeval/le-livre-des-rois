@@ -47,7 +47,7 @@ Le vaillant Gustehem dit à ses troupes :
 
 À ces paroles de Gustehem, toute la troupe se mit à maudire le trône du roi, disant :
 
-> Que jamais il ce n’y ait un pareil roi, qui veut verser le sang de son ce filsln’L’armée devenait insolente dans ses propos ; on mit le feu à la porte du palais, on pénétra dans la salle d’audience du roi des rois et auprès de Hormuzd, assis dans sa majesté ; on lui arracha la rouronne de la tête, on le précipita en bas du trône et on lui brûla les yeux, qui s’éteignirent à l’instant comme s’éteint une lampe brillante.
+> Que jamais il ce n’y ait un pareil roi, qui veut verser le sang de son ce fils ! »’armée devenait insolente dans ses propos ; on mit le feu à la porte du palais, on pénétra dans la salle d’audience du roi des rois et auprès de Hormuzd, assis dans sa majesté ; on lui arracha la rouronne de la tête, on le précipita en bas du trône et on lui brûla les yeux, qui s’éteignirent à l’instant comme s’éteint une lampe brillante.
 >
 > On le laissa en vie dans cet état et l’on pilla tout ce qui se trouvait dans son trésor. .
 Telles sont les actions de la roue du ciel sublime.
