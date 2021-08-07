@@ -71,8 +71,7 @@ Ensuite, il dit à son Destour :
 
 > Ces vêtements roumis brodés d’or ne sont pas à l’usage de nobles Perses, ce sont des robes de Catholiques.
 >
-> Si nous portions des robes ornées d’une a croix, ce serait se conformer au cérémonial des Chrétiens ; si je ne les mets pas, le Kaisar m’en voudra Ô 1&
- et soupçonnera probablement de tout autres raisons et si je les mets, tous ces grands demanderont si ce roi du peuple s’est fait Chrétien pour ces trésors, puisqu’il se couvre de croix. »
+> Si nous portions des robes ornées d’une a croix, ce serait se conformer au cérémonial des Chrétiens ; si je ne les mets pas, le Kaisar m’en voudra Ô 1& et soupçonnera probablement de tout autres raisons et si je les mets, tous ces grands demanderont si ce roi du peuple s’est fait Chrétien pour ces trésors, puisqu’il se couvre de croix. »
 
 Son conseiller répondit à Khosrou :
 
