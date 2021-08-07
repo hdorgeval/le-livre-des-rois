@@ -18,7 +18,7 @@ order: '033'
 
 Schenguil conçut des soupçons sur Bahram ; il se dit :
 
-> Avec cette majesté, cette force et cette habileté à tirer de l’arc, cet homme ne ressemble pas à un simple envoyé, qu’il soitlndien, Turc ou Perse ; mais qu’il soit parent du roi ou grand seigneur, il convient que je l’appelle frère.»
+> Avec cette majesté, cette force et cette habileté à tirer de l’arc, cet homme ne ressemble pas à un simple envoyé, qu’il soitlndien, Turc ou Perse ; mais qu’il soit parent du roi ou grand seigneur, il convient que je l’appelle frère. »
 
 Il sourit et dit à Bahram :
 
@@ -38,13 +38,13 @@ Schenguil lui dit :
 
 > Ne lais rien précipitamment ; car j’ai encore à te parler et il ne faut pas partir en hâte, car se presser de partir ne vaut rien.
 >
-> Reste avec moi, aie le cœur en repos et si tu ne veux pas de min cuit, bois du vin nouveau.»
+> Reste avec moi, aie le cœur en repos et si tu ne veux pas de min cuit, bois du vin nouveau. »
 
 Il appela ensuite son Destour et lui parla longuement de Bahram ; il dit à ce sage, qui était son parent :
 
 > J’ai à te parler en secret.
 >
-> Si cet envoyé n’est. pas de la famille de Bahram, s’il n’est pas uudes sus de ses l’ehlewans, cela devrait bien étonner un homme intelligent et il ne faut pas se contenter r : de ce qu’il nous conte.
+> Si cet envoyé n’est. pas de la famille de Bahram, s’il n’est pas uudes sus de ses l’ehlewans, cela devrait bien étonner un homme intelligent et il ne faut pas se contenter de ce qu’il nous conte.
 >
 > Insiuue-lui qu’il doit rester ici, qu’il ne doit plus quitter le Kauoudj.
 >
@@ -52,7 +52,7 @@ Il appela ensuite son Destour et lui parla longuement de Bahram ; il dit à ce s
 >
 > Fais-lui comprendre que ce qu’il a de mieux à faire c’est de se mettre de plus en plus dans les bonnes grâces du roi de l’lnde.
 >
-> Dis-lui ; Si tu restes maintenant au-nprès de lui et le conformes à son avis plein de sagacité, les plus belles terres seront à toi, car il reconnaît tu valeur, des terres dans un lieu où le princrtemps est éternel, ou les ruisseaux exhalent un
+> Dis-lui ; Si tu restes maintenant au-nprès de lui et le conformes à son avis plein de sagacité, les plus belles terres seront à toi, car il reconnaît tu valeur, des terres dans un lieu où le printemps est éternel, ou les ruisseaux exhalent un
 >
 > soutlle de rose.
 >
@@ -62,7 +62,7 @@ Il appela ensuite son Destour et lui parla longuement de Bahram ; il dit à ce s
 >
 > C’est un roi bienveillant qui, par amour pour toi, sourit aussitôt qu’il aperçoit ton visage ; ainsi demande-lui tout ce que tu voudras aussitôt que tu le verras.
 >
-> Quand tu auras dit tout cela, demande son nom, je serais heureux de le connaître et s’il veut s’établir dans notre pays, les preuves de ma. faveur dépasseront ce que comporte son rang ; je le nommerai bientôt chef de mes armées, je le mettrai à la ce tête de ce pays en le comblant d’honneurs.»
+> Quand tu auras dit tout cela, demande son nom, je serais heureux de le connaître et s’il veut s’établir dans notre pays, les preuves de ma. faveur dépasseront ce que comporte son rang ; je le nommerai bientôt chef de mes armées, je le mettrai à la ce tête de ce pays en le comblant d’honneurs. »
 
 Le Destour du roi, plein d’expérience, alla dire tout cela à Bahram et lui donna des conseils ; ensuite il lui demanda son nom. parce que sa réponse ne serait pas complète sans un nom.
 
@@ -82,7 +82,7 @@ Le Destour du roi, plein d’expérience, alla dire tout cela à Bahram et lui d
 >
 > Un homme sage ne cherche pas à s’agrandir, car le bien et le mal qui nous arrivent passent.
 >
-> Ouest le maître du trône de Feridoun, qui a été le s0utien de son époque ?
+> Ouest le maître du trône de Feridoun, qui a été le soutien de son époque ?
 >
 > Où sont ces puissants rejetons de la race royale, Keï Khosrou, le maître du monde et Keî-Kobad ?
 >
@@ -95,4 +95,4 @@ Le Destour du roi, plein d’expérience, alla dire tout cela à Bahram et lui d
 
 Le visage du roi se fronça et il dit :
 
-> Cet homme s’égare ; je vais maintenant arranger un moyen de mettre lin aux jours de ce héros qui rend brillant le monde.»
+> Cet homme s’égare ; je vais maintenant arranger un moyen de mettre lin aux jours de ce héros qui rend brillant le monde. »
