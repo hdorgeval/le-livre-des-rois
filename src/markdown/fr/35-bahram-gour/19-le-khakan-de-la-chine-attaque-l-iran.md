@@ -24,13 +24,13 @@ Lorsqu’on reçut dans l’Iran des nouvelles du Roum, de l’Inde, de la Chine
 
 -de Bahram Gour,vremplis de colère, d’esprit de révolte et d’agitation ; ils lui parlèrent durement, di-»
 
-Saut : Ta fortune brillante t’a abandonné ; les rois ne pensent qu’à se battre, mais ton cœur ne rêve que jeux et festins et le trésor, l’armée, les frontières de : l’Iran et le trône ne sont rien à tes yeux.»
+Saut : Ta fortune brillante t’a abandonné ; les rois ne pensent qu’à se battre, mais ton cœur ne rêve que jeux et festins et le trésor, l’armée, les frontières de : l’Iran et le trône ne sont rien à tes yeux. »
 
 Le roi maître du monde répondit à ces Mobeds qui voulaient le conseiller :
 
 > Dieu, qui distribue la justice sur la terre, qui est plus savant que les plus savants, est mon soutien et par la puissance victorieuse des grands rois je préserverai l’Iran des griffes du loup.
 >
-> Par me fortune et mon armée, par mon épée et mon trésor, je délivrerai mon pays de cette calamité.»
+> Par me fortune et mon armée, par mon épée et mon trésor, je délivrerai mon pays de cette calamité. »
 
 ’ Il continua ses amusements comme auparavant et les yeux des chefs pleins de fierté se remplirent de larmes de sang.
 
@@ -48,7 +48,7 @@ Tous désespéraient. de ce roi et le méprisaient, lui et son gouvernement.
 
 Cependant Bahram eut nouvelle qu’une armée était entrée de la Chine dans l’Iran ; il appela Gustehem et lui parla longuement du Khakan de la Chine.
 
-Gustehem était son Pelhlewan et son Destour ; le combat était une fêle pour lui.
+Gustehem était son Pelhlewan et son Destour ; le combat était une fête pour lui.
 
 Il appela Mihr Firouz fils de Khorrad, ensuite Mihr Berzin fils de Ferhad, Bahram, Pirouz fils et petit-fils de Ballram, Khazarwan, Rehham et Andiman, dont l’un 5M était roi de Ghilanetl’autre roi de Ileï et qui ne lâchaient pas pied dans la bataille ; ensuite il fit venir Dad Berzin, éprouvé dans les combats, qui gouvernait le Zaboulistan et Karen fils de Burzmihr et Rad Berzin au visage froncé et forma une armée de six mille Iraniens, hommes prudents et propres aux combats.
 
@@ -58,7 +58,7 @@ Lui-même partit avec ses troupes et se dirigea vers Aderabadgan ; mais comme il
 
 Pendant que Bahram marchait vers Aderabadgan, un envoyé du Kaïsar arriva rapidement comme le vent et Nersi le fit descendre à son palais et lui assigna un appartement magnifique, conforme à son rang.
 
-L’armée se rassembla auprès du Grand Mohed, pour obtenir des nouvelles du roi Bahram.
+L’armée se rassembla auprès du Grand Mobed, pour obtenir des nouvelles du roi Bahram.
 
 Ils dirent tous :
 
@@ -68,7 +68,7 @@ Ils dirent tous :
 >
 > Il prodigue partout sa vie, il ne, sait pas ce que vaut la jeunesse.
 >
-> Le pays et l’armée sont désorganisés et chacun cherche à être le maître.»
+> Le pays et l’armée sont désorganisés et chacun cherche à être le maître. »
 
 Lorsque ces discours eurent duré longtemps, tous convinrent qu’il fallait envoyer de l’Iran un homme illustre auprès du Khakan de la Chine et s’agiter de tous côtés, avant que le malheur, le pillage et les attaques arrivassent, pour sauver l’Iran de la destruction, puisque le maître avaituquitté sa maison et errait dans le monda.
 
@@ -84,23 +84,25 @@ Nersi répondit :
 >
 > Qu’est-ce qui a pu vous inspirer ces mau-vaises pensées ?
 >
-> C’est des mauvaises pensées que sort le malheur.»
+> C’est des mauvaises pensées que sort le malheur. »
 
-Les Iraniens écoutèrentces paroles et répondirent :
+Les Iraniens écoutèrent ces paroles et répondirent :
 
 > Bahram n’a pas emmené avec lui une armée et il ne faut pas livrer les âmes au chagrin comme il le fait.
 >
-> Si le Khakan vient attaquer l’Iran, tout ce qu’il y a de beau dans ce pays disparaîtra ; l’armée et Nersi disparaîtront et l’on nousfoulera aux pieds sans distinction.
+> Si le Khakan vient attaquer l’Iran, tout ce qu’il y a de beau dans ce pays disparaîtra ; l’armée et Nersi disparaîtront et l’on nous foulera aux pieds sans distinction.
 >
-> Il faut que nous trouvions un moyen pour que nos demeures soient sauvées et que nos traces ne soient pas effacées.»
+> Il faut que nous trouvions un moyen pour que nos demeures soient sauvées et que nos traces ne soient pas effacées. »
 
 A !
 
-Or il y avait un Mohed du nom de Homaï, un I M3 homme de sens, de savoir et de bon conseil.
+Or il y avait un Mobed du nom de Homaï, un I M3 homme de sens, de savoir et de bon conseil.
 
-Les Iraniens le choisirent pour qu’il s’appliquât à trouver ce moyen de salut et ils écrivirent au Khakan, au nom des Iraniens, une lettre de soumission qui commençait ainsi : Nous sommes tes esclaves, nous nous prosternons devant tes ordres et’tes volontés.
+Les Iraniens le choisirent pour qu’il s’appliquât à trouver ce moyen de salut et ils écrivirent au Khakan, au nom des Iraniens, une lettre de soumission qui commençait ainsi :
 
-Nous t’enverrons des présents de tout ce que produit l’Iran, avec des demandes de pardon et des bénédictions;avec ces présents, nous t’ofl’rons un tribut et des redevances, car nous ne pouvons résister aux Turcs dans le combat.»
+> Nous sommes tes esclaves, nous nous prosternons devant tes ordres et’tes volontés.
+>
+> Nous t’enverrons des présents de tout ce que produit l’Iran, avec des demandes de pardon et des bénédictions;avec ces présents, nous t’ofl’rons un tribut et des redevances, car nous ne pouvons résister aux Turcs dans le combat. »
 
 Le fortuné Homaï partit de l’Iran avec des grands, hommes de bon conseil.
 
@@ -108,7 +110,7 @@ Il transmit au Khakan le message des grands et le cœur du roi de Touran en fut 
 
 Le cœur et l’âme du Khakan s’épanouirent comme une fleur et il dit aux Turcs :
 
-> Nous avons imposé une selle au coursier du ciel qui tourne, car qui s’est jamais emparé de l’Iran sans combat, si ce n’est, nous, par notre sagesse. notre intelligence et notre patience?»
+> Nous avons imposé une selle au coursier du ciel qui tourne, car qui s’est jamais emparé de l’Iran sans combat, si ce n’est, nous, par notre sagesse. notre intelligence et notre patience ? »
 
 Il fit à l’envoyé beaucoup de cadeaux, il lui donna de l’argent chinois et lui donna de l’or ; puis il écrivit une réponse dans laquelle il dit :
 
@@ -122,11 +124,11 @@ Il fit à l’envoyé beaucoup de cadeaux, il lui donna de l’argent chinois et
 >
 > Nous y resterons jusqu’à ce que le tribut de l’Iran arrive du pays des braves et des lions.
 >
-> J’irai à Merv et ne m’ avancerai pas plus loin, car je ne veux pas que mon armée vous fasse souffrir.»
+> J’irai à Merv et ne m’ avancerai pas plus loin, car je ne veux pas que mon armée vous fasse souffrir. »
 
 Le messager s’en retourna en toute hâte dans l’Iran et raconta ce qu’il avait vu et ce que le Khakan avait dit.
 
-Celui-ci amena son armée à Merv et le monde fut obséurci par la poussière que soulevaient les cavaliers.
+Celui-ci amena son armée à Merv et le monde fut obscurci par la poussière que soulevaient les cavaliers.
 
 Lorsqu’il se fut reposé, il se mit à jouir de la vie et personne ne pensait plus à Bahram.
 
