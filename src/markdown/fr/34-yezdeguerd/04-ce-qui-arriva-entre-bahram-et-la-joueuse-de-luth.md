@@ -35,7 +35,7 @@ Deux paires de gazelles s’approchaient ; le jeune homme dit en riant à Azadeh
 >
 > Quand j’aurai bandémon arc et saisi la flèche avec l’anneau, laquelle des gazelles veuxtu que j’abatte ?
 >
-> Voici une femelle jeune et un vieux mâle.»
+> Voici une femelle jeune et un vieux mâle. »
 
 Azadeh répondit :
 
@@ -45,7 +45,7 @@ Azadeh répondit :
 >
 > Convertis avec tes flèches cette femelle en mâle et fais que ce vieux mâle devienne une femelle.
 >
-> Ensuite pousse le dromadaire quand une gazelle s’enfuira devant toi ; lancelui une balle d’arbalète pour qu’elle couche son oreille sur l’épaule ; la balle lui chatouillera l’oreille sans lui faire du mal, elle lèvera le pied à son épaule et alors tu lui perceras la tête, le pied et l’épaule tous ensemble, si tu veux que je t’appelle la lumière du monde.»
+> Ensuite pousse le dromadaire quand une gazelle s’enfuira devant toi ; lancelui une balle d’arbalète pour qu’elle couche son oreille sur l’épaule ; la balle lui chatouillera l’oreille sans lui faire du mal, elle lèvera le pied à son épaule et alors tu lui perceras la tête, le pied et l’épaule tous ensemble, si tu veux que je t’appelle la lumière du monde. »
 
 Lorsque Bahram entendit ces paroles, il lui vint en mémoire un vieux dicton ; mais il banda son arc et poussa un cri sur cette plaine silencieuse.
 
@@ -61,13 +61,13 @@ La gazelle se gratta à l’instant l’oreille ; Bahram plaça une flèche de b
 
 Azadeh ont pitié de la gazelle ; Bahram lui dit :
 
-> Qu’y a-t-il, ô visage de lune?»
+> Qu’y a-t-il, ô visage de lune ? »
 
 Azadeh versa de ses yeux un torrent de larmes et dit au roi :
 
 > Ceci est ’ inhumain.
 >
-> Tu n’es pas un homme et ta nature est celle d’un Div.»
+> Tu n’es pas un homme et ta nature est celle d’un Div. »
 
 Bahram étendit la main et la pré. cipita de la selle sur la terre, poussa son dromadaire sur cette fille au visage de lune et couvrit de sang son sein, sa main et son luth, disant :
 
@@ -75,6 +75,6 @@ Bahram étendit la main et la pré. cipita de la selle sur la terre, poussa son 
 >
 > Pourquoi avoir usé de ruse contre moi ?
 >
-> Si mon coup avait manqué, ma famille eût été couverte de honte.»
+> Si mon coup avait manqué, ma famille eût été couverte de honte. »
 
 Azadeh mourut sous les pieds du dromadaire et Bahram n’emmena plus jamais une femme à la chasse.
