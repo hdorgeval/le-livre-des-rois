@@ -1179,6 +1179,18 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/tnourris/, 'nourris'),
     (content: string) => content.replace(/heumuse/, 'heureuse'),
     (content: string) => content.replace(/mieessanger/, 'messager'),
+    (content: string) => content.replace(/conrenaissance/, 'connaissance'),
+    (content: string) => content.replace(/fmtune/, 'fortune'),
+    (content: string) => content.replace(/calm’era/, 'calmera'),
+    (content: string) => content.replace(/indifi’érente/, 'indifférente'),
+    (content: string) => content.replace(/ofi’ensent/, 'offensent'),
+    (content: string) => content.replace(/ddésespérèrent/, 'désespérèrent'),
+    (content: string) => content.replace(/atteintes’du/, 'atteintes du'),
+    (content: string) => content.replace(/ô’Khoarou/, 'ô Khosrou'),
+    (content: string) => content.replace(/expé rience/, 'expérience'),
+    (content: string) => content.replace(/dilIicile/, 'difficile'),
+    (content: string) => content.replace(/Farrukbzad/, 'Farrukhzad'),
+    (content: string) => content.replace(/pervsonne/, 'personne'),
   ].forEach((format) => {
     result = format(result);
   });
