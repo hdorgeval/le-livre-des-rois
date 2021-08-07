@@ -24,8 +24,7 @@ D’un côté la montagne s’approchait de la ville et les jeunes fillesavaient
 
 Elles se rassemblaient sous la porte de la ville et allaient de la à la montagne, emportant leur dîner, qui ne différait pas de l’une à l’autre ; il ne s’agissait pas de perdre son temps à manger et à dormir, elles mettaient leur honneur et leur ambition à filer leur coton et le soir elles revenaient chez elles, le coton converti en fil à broder.
 
-Or il y avait dans cette ville un homme pauvre, d’un naturel joyeux, appelé Heftwad (à sept fils), qui tirait son nom et sa réputation de ce qu’il avait sept fils ; il avait aussi une seule et excellente fille, mais . 21 : 
-il ne faisait aucun cas des filles.
+Or il y avait dans cette ville un homme pauvre, d’un naturel joyeux, appelé Heftwad (à sept fils), qui tirait son nom et sa réputation de ce qu’il avait sept fils ; il avait aussi une seule et excellente fille, mais . : il ne faisait aucun cas des filles.
 
 Un jour que toutes les fillettes étaient assises sous la montagne avec A leurs quenouilles et qu’à l’heure du dîner elles les avaient mises de côté et s’occupaient à assaisonner ce qu’elles avaient à manger, il se trouva que la fille d’Heftwad avait vu sur la route une pomme que le vent avait fait tomber de l’arbre et qu’elle s’était empressée de ramasser.
 
@@ -34,7 +33,9 @@ Maintenant écoute et tu seras étonné de ce que je vais dire.
 Elle mordit dans ce beau fruit et y trouva un ver caché au milieu ; ’
 elle l’enleva de la pomme avec son doigt et le déposa doucement dans le godet de la quenouille.
 
-Quand elle reprit la quenouille et le coton, elle dit : Au nom de Dieu, qui n’a ni égal ni compagnon, je vais au-jourd’hui vous montrer ce qu’on peut filer à l’aide de l’étoile du ver de la pomme.»
+Quand elle reprit la quenouille et le coton, elle dit :
+
+> Au nom de Dieu, qui n’a ni égal ni compagnon, je vais au-jourd’hui vous montrer ce qu’on peut filer à l’aide de l’étoile du ver de la pomme. »
 
 Toutes les jeunes filles en rirent et s’en amusèrent, le visage épanoui et en montrant leurs dents d’argent ; mais la fille d’Heftwad fila ce jour deux fois autant qu’à l’ordinaire et marqua son compte sur la terre.
 
@@ -43,26 +44,29 @@ Elle partit rapidement comme la fumée et montra à sa mère ce qu’elle avait 
 La mère la bénit tendrement et lui dit :
 
 > Les étoiles t’ont favorisée, ô ma belle enfant la Le matin, après avoir compté le fil de la veille, elle emporta le double de cotonde ce qu’elle prenait ordinairement et lorsqu’elle. eut rejoint cette foule industrieuse qui appliquait son cœur, son esprit et son corps à filer, elle dit aces jeunes filles :
->
-> LES .t V 2&9 et Ô vous aux visages de lune et favorites des étoiles!
-’œje vais, grâce à l’étoile du ver, filer tant de fil que je ne serai plus jamais dans le besoin.»
+
+> >
+>t V 2&9 et Ô vous aux visages de lune et favorites des étoiles !
+’je vais, grâce à l’étoile du ver, filer tant de fil que je ne serai plus jamais dans le besoin. »
 
 Elle fila ce qu’elle avait apporté plus tôt que la veille et si elle en avait eu davantage, elle en serait venue à bout.
 
 Elle rapporta ce fil à la maison et le cœur de sa mère en devint comme le joyeux paradis.
 
-Chaque matin la jeune tille au visage de Péri donna au ver un petit morceau de pomme et plus on augmentait la quantité quotidienne du coton, plus la jeune enchanteresse en filait.
+Chaque matin la jeune fille au visage de Péri donna au ver un petit morceau de pomme et plus on augmentait la quantité quotidienne du coton, plus la jeune enchanteresse en filait.
 
-Un jour son père et sa mère dirent à leur fille qui était si habile : Ô toi au visage de mai !
+Un jour son père et sa mère dirent à leur fille qui était si habile :
 
-Tu files tant
-.qu’évidemment tu as fait un pacte de sœur avec une Péri.»
+> Ô toi au visage de mai !
+>
+> Tu files tant
+.qu’évidemment tu as fait un pacte de sœur avec une Péri. »
 
 ’Et la jeune fille au corps argenté dévoila à sa mère le secret de la pomme et du petit ver et montra à ses parents ce ver qui portait bonheur et le mari et la femme furent comblés de joie.
 
-Heftwad prit tout cela pour un présage ; il ne s’occupait plus de son métier, ne parlait plus que de l’étoile du ver, et sa fortune, qui avait vieilli, rajeunit.
+Heftwad prit tout cela pour un présage ; il ne s’occupait plus de son métier, ne parlait plus que de l’étoile du ver et sa fortune, qui avait vieilli, rajeunit.
 
-Ainsi se passa quelque temps et chaque jour il devint plus prospère ; on ne négligea pas le ver, on lui donna à manger abondamment, il devint gros et fort et sa tête et son des prirent de belles couleurs ; le godet de la quenouille fut bientôt trop étroit pour lui, sa robe devint noire comme du musc et sur ce fond noir on vOyait des marques couleur de safran tout le LE LIVRE pas BOIS. long de son dos et sur le devant.
+Ainsi se passa quelque temps et chaque jour il devint plus prospère ; on ne négligea pas le ver, on lui donna à manger abondamment, il devint gros et fort et sa tête et son des prirent de belles couleurs ; le godet de la quenouille fut bientôt trop étroit pour lui, sa robe devint noire comme du musc et sur ce fond noir on vOyait des marques couleur de safran tout le pas BOIS. long de son dos et sur le devant.
 
 Heftwad lui fit une. belle boîte noire dans laquelle il l’établit.
 
