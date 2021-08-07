@@ -38,7 +38,7 @@ Lorsque Kharrad, fils de Berzin, entendit ce discours, il se souvint de paroles 
 
 La voûte du ciel qui tourne et ; que ne supporte aucune colonne est née tout d’un coup ; quand Il ordonne, il n’y a à demander ni comment ni pourquoi ?
 
-Gloire à Lui qui a tout créé, qui a créé le ciel et la terre ; il est tout-puissant, omnisoient et maître de tout ; c’est lui qui a paré le ciel et la terre.
+Gloire à Lui qui a tout créé, qui a créé le ciel et la terre ; il est tout-puissant, omniscient et maître de tout ; c’est lui qui a paré le ciel et la terre.
 
 Il a créé dans le ciel le soleil, il a créé le jour et la nuit, le repos et le sommeil.
 
