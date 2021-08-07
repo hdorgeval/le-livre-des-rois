@@ -36,7 +36,7 @@ Les marchands achetaient ; le prix de dix antilopes ou d’un onagre était de q
 
 Quiconque demandait recevait tant de rôtis de gibier de terre ou d’oiseaux d’eau, qu’il pouvait en emporter chez lui des charges d’âne pour ses enfants et pour ses hôtes., a " Lorsqu’un mois fut passé, Bahram devint impatient, il voulait revoir ses femmes.
 
-Il emmena son escorte du lieu de la chasse ; la roule disparaissait sous la poussière que soulevaient les cavaliers ; l’escorte marchait rapidement jusqu’à ce que le visage du jour fût obscurci par la" mut.
+Il emmena son escorte du lieu de la chasse ; la route disparaissait sous la poussière que soulevaient les cavaliers ; l’escorte marchait rapidement jusqu’à ce que le visage du jour fût obscurci par la" mut.
 
 Bahram trouva devant lui un gros bourg rempli d’hôtels, de rues et de marchés ; il ordonna à son cortège de passer avec le train et de ne laisser personne en arrière.
 
@@ -46,13 +46,15 @@ Il vit une porte délabrée, large et profonde ; le maître du lieu vint le salu
 
 Il lui demanda :
 
-> À qui cette maison en ruines et pourquoi cette désolation au milieu du bourg?n Le maître dit :
+> À qui cette maison en ruines et pourquoi cette désolation au milieu du bourg ? »
+
+Le maître dit :
 
 > Cette maison est à moi et la mauvaise forrctune est mon guide.
 >
 > Je n’ai ni vache, ni vêtements, ni âne, ni savoir, ni courage, ni pied, ni aile.
 >
-> LE LIVRE ces Tu m’as vu, regarde maintenant ma demeure, .qu’il vaut mieux maudire que bénir.»
+> ces Tu m’as vu, regarde maintenant ma demeure, .qu’il vaut mieux maudire que bénir. »
 
 Le roi mit pied à terre et visita la maison ; mais les mains lui tombèrent et les jambes-lui manquè-rent d’étonnement.
 
@@ -60,7 +62,7 @@ Toute la maison était pleine de fiente de moutons et pourtant c’était un pal
 
 Il lui dit :
 
-> Ô homme qui respectes un hôtel apporte donc quelque chose pour m’asseoir.»
+> Ô homme qui respectes un hôtel apporte donc quelque chose pour m’asseoir. »
 
 Le maître de la maison répondit :
 
@@ -68,13 +70,13 @@ Le maître de la maison répondit :
 >
 > Si j’avais un tapis, mes hôtes m’auraient célébré, mais je n’ai,ni tapis, ni nourriture, ni vêtements, ni lit.
 >
-> Il vaut mieux que tu cherches un gîte autre part, car ici tout est pauvre.»
+> Il vaut mieux que tu cherches un gîte autre part, car ici tout est pauvre. »
 
 Bahram dit :
 
 > Cherche donc un coussin pour que je puisse m’asseoir un penny Il répondit :
 
-> Ce n’est pas ici un lieu pour se mettre à l’aise ; tu pourrais aussi bien demander du lait d’oiseau qu’un coussin chez moi.»
+> Ce n’est pas ici un lieu pour se mettre à l’aise ; tu pourrais aussi bien demander du lait d’oiseau qu’un coussin chez moi. »
 
 L’étranger dit :
 
@@ -84,12 +86,12 @@ Il répondit :
 
 > Suppose maintenant que tu aies dîné et que tu sois reparti ; et puis bonjour !
 >
-> Si j’avais du pain, il y aurait de la vie dans mon corps et si j’avais de la vie, cela vaudrait mieux que du pain.»
+> Si j’avais du pain, il y aurait de la vie dans mon corps et si j’avais de la vie, cela vaudrait mieux que du pain. »
 
 .
 Bahram lui dit :
 
-> Si tu ne possèdes pas de moutous, qui est donc venu dans ta maison répandre cette fiente?»
+> Si tu ne possèdes pas de moutous, qui est donc venu dans ta maison répandre cette fiente ? »
 
 Il répondit :
 
@@ -101,13 +103,13 @@ Il répondit :
 >
 > Pourquoi viens-tu chez un malheureux qui se couche la nuit sur des feuilles d’arbre ?
 >
-> Tu as une épée d’or et des étriers d’or et il ne faut pas que tu restes où tu dois craindre les voleurs, car une maison en ruine comme celle-ci sert d’abri aux voleurs et aux lions.»
+> Tu as une épée d’or et des étriers d’or et il ne faut pas que tu restes où tu dois craindre les voleurs, car une maison en ruine comme celle-ci sert d’abri aux voleurs et aux lions. »
 
 Bahram dit :
 
 > Si un voleur pouvait emporter mon épée, il y a longtemps que je ne l’aurais plus sous moi.
 >
-> Donne-moi pour cette nuit une place dans ta maison et ne nous occupons pas d’autre chose.»
+> Donne-moi pour cette nuit une place dans ta maison et ne nous occupons pas d’autre chose. »
 
 Le maître de la maison répondit :
 
@@ -117,7 +119,7 @@ Le roi lui dit :
 
 > Ô vieillard intelligent, pourquoi es-tu si troublé par ma présence ?
 >
-> Je pense pourtant que tu me feras la grâce de me donner de l’eau fraîche, ô homme plein de noblesse !»
+> Je pense pourtant que tu me feras la grâce de me donner de l’eau fraîche, ô homme plein de noblesse ! »
 
 Le maître de la maison répondit :
 
@@ -131,18 +133,18 @@ N’as-tu jamais vu un homme pauvre que la vieillesse rend incapable de travail?
 
 > Si tu es un homme de rang, ne te fais pas une querelle avec un homme armé, pour un peu d’eau.
 >
-> Comment t’appelles-tu ?»
+> Comment t’appelles-tu ? »
 
 Il répliqua :
 
 > Ferschidwerd et je n’ai ni terres, ni
 [
 >
-> 5 vêtements, ni eau, ni rien à manger.»
+> 5 vêtements, ni eau, ni rien à manger. »
 
 Bahram lui dit :
 
-> Pourquoi ne cherches-tu pas à gagner du pain et à te procurer du repos?»
+> Pourquoi ne cherches-tu pas à gagner du pain et à te procurer du repos ? »
 
 Le maître de la maison répondit :
 
@@ -150,7 +152,7 @@ Le maître de la maison répondit :
 >
 > Pourquoi viens-tu dans une maison vide ?
 >
-> Puisses-tu n’avoir jamais ni pouvoir ni bonheur !»
+> Puisses-tu n’avoir jamais ni pouvoir ni bonheur ! »
 
 En disant cela il se mit à pleurer si amèrement que le roi s’enfuit devant ses sanglots ; il continua sa route en riant de ce vieillard et son escorte le rejoignit peu à peu.
 
@@ -162,7 +164,7 @@ Il lui dit :
 
 > Ô ennemi des épines !
 >
-> Connais-tu l’homme le plus considérable dans cette ville ?»
+> Connais-tu l’homme le plus considérable dans cette ville ? »
 
 Il répondit :
 
@@ -180,19 +182,19 @@ Il répondit :
 >
 > Jamais il n’a
 >
-> -en en même temps deux vêtements, car il est dur même pour son corps.»
+> -en en même temps deux vêtements, car il est dur même pour son corps. »
 
 Le roi dit au bûcheron :
 
-> Tu connais le nombre de ses moutons, mais sais-tu où se trouvent ses troupeaux de chevaux et de chameaux qui courent librement?»
+> Tu connais le nombre de ses moutons, mais sais-tu où se trouvent ses troupeaux de chevaux et de chameaux qui courent librement ? »
 
 Le bûcheron dit :
 
-> L’endroit on sont ses chameaux et ses moutons n’est pas loin d’ici, mais mon cœur est en peine du mal qu’il pourrait me faire.»
+> L’endroit on sont ses chameaux et ses moutons n’est pas loin d’ici, mais mon cœur est en peine du mal qu’il pourrait me faire. »
 
 Le roi lui donna quelques pièces d’or et lui dit :
 
-> Tu vas devenir un personnage.»
+> Tu vas devenir un personnage. »
 
 Il fit appeler un homme savant de son cortège, du nom de Behrouz, un cavalier, un homme vaillant qui charmait les cœurs.
 
@@ -202,25 +204,25 @@ Puis le roi dit au bûcheron :
 
 > Mets-toi en route ; tu es venu chercher des épines, va récolter de l’or : un centième de ces richesses sera à toi.
 >
-> Va montrer à ces hommes le chemin.»
+> Va montrer à ces hommes le chemin. »
 
 Le nom du bûcheron était Dilafrouz ; c’était un homme à la démarche fière et fort de corps.
 
 Le roi lui donna un cheval magnifique et lui dit :
 
-> Il faut que tu te fasses le compagnon du vent.»
+> Il faut que tu te fasses le compagnon du vent. »
 
 Il avait été Dilafrouz (la lumière des cœurs), il devint Gnitiafrouz (la lumière du monde) et partit triomphant pour cette affaire.
 
-Il conduisit la troupe dans les montagnes et les plaines où se trouvaientdes troufifi.
+Il conduisit la troupe dans les montagnes et les plaines où se trouvaient des troufifi.
 
 Peaux de moutons innombrables.
 
 Il y avait dans la plaine dix caravanes de chameaux, chacune avec un chamelier et le scribe écrivit sur ses listes douze mille bœufs de labour et vaches à lait ; ensuite il écrivit le nombre de deux fois dix mille pour les chevaux et les chameaux.
 
-Tente la plaine était creusée par les sabots des chevaux ; les jarres étaient pleines de beurre de vache et dans ces montagnes il y avait trois cent mille charges ’âne de lait tant caillé queséché.
+Tente la plaine était creusée par les sabots des chevaux ; les jarres étaient pleines de beurre de vache et dans ces montagnes il y avait trois cent mille charges ’âne de lait tant caillé que séché.
 
-Partout dans les plaines, les montagnes et le désert, il y avaitdes demeures dont personne dans le monde ne savait le nom.
+Partout dans les plaines, les montagnes et le désert, il y avait des demeures dont personne dans le monde ne savait le nom.
 
 Behrouz fils de Hour écrivit une lettre à Bahram Gour, le roi des rois, commençant par les louanges du Créateur, le victorieux, le père nourricier de tous;-ensuite il bénit le roi qui avait diminué les peines des hommes, puis il dit :
 
@@ -246,7 +248,7 @@ Behrouz fils de Hour écrivit une lettre à Bahram Gour, le roi des rois, commen
 >
 > Je reste sur la montagne, tenant. les yeux sur la route en attendant les ordres du roi.
 >
-> Mes bénédictions sur le roi de l’Iran ; puisse-t-il vivre aussi longtemps que sen nom forme la trame et la chaîne du monde !»
+> Mes bénédictions sur le roi de l’Iran ; puisse-t-il vivre aussi longtemps que sen nom forme la trame et la chaîne du monde ! »
 
 Il lança un dromadaire rapide sur la route pour faire porter cette lettre au roi.
 
@@ -256,14 +258,14 @@ Il devint sombre, ses yeux se remplirent de larmes et il fronça ses sourcils fa
 
 Il ordonna à un scribe de ’ venir auprès de lui et demanda un roseau roumi et de la soie de Chine.
 
-Il rendit d’abord hommage au Créateur, le maître victorieux, le père vnourricier du monde, le maître du savoir et de la gloire, maître du diadème des rois des rois.
+Il rendit d’abord hommage au Créateur, le maître victorieux, le père nourricier du monde, le maître du savoir et de la gloire, maître du diadème des rois des rois.
 
 Puis, il continua : Tu m’écris que, si j’étais juste, j’effaceæ
-rais àJ’instant cet homme de la lista des vivants.
+rais à l’instant cet homme de la lista des vivants.
 
 Mais il n’a pas amassé par le vol et le meurtre et n’a entraîné personne à faire du mal : c’est un homme
 
-.»
+. »
 
 I qui n’a en du respect pour rien et n’a en dans le cœur aucune crainte de Dieu ; il n’a été que le gardien de ces trésors et son cœur et son âme périssent dans son désir d’accumuler.
 
@@ -271,15 +273,15 @@ Qu’importe qu’il y ait des loups ou des moutons sur ces plaines, s’ils ne 
 
 Qu’importe qu’il y ait sous terre des pierres ou des joyaux, s’ils ne donnent aux hommes ni nourriture ni vêtement ?
 
-Mais je n’emploierai pas ce a été amassé avec tant de peine à fonder un trésor ; e ne veux pas attacher mon cœur à cette demeure passagère.
+Mais je n’emploierai pas ce a été amassé avec tant de peine à fonder un trésor ; ne veux pas attacher mon cœur à cette demeure passagère.
 
-Feridoun a disparu du monde, de même Iredj, Selm et Tour ne sont plus au nombre des grands ; ni Kaous, ni Keïkohad, ni les hommes illustres dont nous connaissons le nom, ni mon père qui me remplissait le cœur de douleur, un homme sans justice et sans générosité.
+Feridoun a disparu du monde, de même Iredj, Selm et Tour ne sont plus au nombre des grands ; ni Kaous, ni Keïkobad, ni les hommes illustres dont nous connaissons le nom, ni mon père qui me remplissait le cœur de douleur, un homme sans justice et sans générosité.
 
 Aucun de ces grands ne survit et personne ne peut en faire un reproche au Maître du monde.
 
 Réunis donc toutes ces richesses, distribue-les et ne garde pas pour toi un seul poil.
 
-A ceux qui cachent leurs besoins et ont de la peine à se tirer de la misère, aux vieillards qui ne peuvent plus travailler et sont méprisés par les riches, à ceux qui, ayant de la fortune, l’ont dépensée et restent avec leurschagrins et leurs soupirs, à ceux qui sont endettés et n’ont ni argent ni amis parmi les marchands, aux enfants que tu trouveras orphelins, dont le père est mort, qui n’ont ni argent ni or, enfin aux femmes qui n’ont ni mari, ni vêtements, ni métier, ni travail, donne-leur toutes ces richesses etréjouis iles cœurs de ces malheureux.
+A ceux qui cachent leurs besoins et ont de la peine à se tirer de la misère, aux vieillards qui ne peuvent plus travailler et sont méprisés par les riches, à ceux qui, ayant de la fortune, l’ont dépensée et restent avec leurs chagrins et leurs soupirs, à ceux qui sont endettés et n’ont ni argent ni amis parmi les marchands, aux enfants que tu trouveras orphelins, dont le père est mort, qui n’ont ni argent ni or, enfin aux femmes qui n’ont ni mari, ni vêtements, ni métier, ni travail, donne-leur toutes ces richesses et réjouis iles cœurs de ces malheureux.
 
 Quand tu seras de retour à la ville, ne t’inquiète pas des trésors cachés.
 
@@ -289,6 +291,6 @@ L’or et les joyaux sont pour lui comme de la poussière, il ne sait que les me
 
 Puisse le ciel qui tourne t’être favorable !
 
-Puisses-tu n’agir qu’avec justice et conscience !»
+Puisses-tu n’agir qu’avec justice et conscience ! »
 
 On apposa le sceau du roi sur la lettre et le messager s’en retourna et se remit en chemin.
