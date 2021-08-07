@@ -32,7 +32,7 @@ Il fit appeler devant lui Ormuzd et lui dit :
 >
 > Ne fais pas de grand bruit à cause d’une petite injure, si tu veux que la fortune vienne à ton aide.
 >
-> Fais attention à mes avis, du. commencement jusqu’à la fin : sont les mêmes que j’ai reçus d’Ardeschir.»
+> Fais attention à mes avis, du. commencement jusqu’à la fin : sont les mêmes que j’ai reçus d’Ardeschir. »
 
 Il prononça ces paroles et ses joues pâlirent et le cœur du jeune homme se remplit de douleur.
 
