@@ -1039,6 +1039,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/ISKENDEB\./g, ''),
     (content: string) => content.replace(/LE LlVBE DES BOIS\./g, ''),
     (content: string) => content.replace(/ARDESCHIR BABEKÂN\./g, ''),
+    (content: string) => content.replace(/SCHAPOUR\./g, ''),
   ].forEach((format) => {
     result = format(result);
   });
