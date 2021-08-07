@@ -997,6 +997,23 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/P’heïlekous/, 'Pheïlekous'),
     (content: string) => content.replace(/ellevmême/, 'elle-même'),
     (content: string) => content.replace(/moyensni/, 'moyens ni'),
+    (content: string) => content.replace(/seraroi/, 'sera roi'),
+    (content: string) => content.replace(/coquettementchez/, 'coquettement chez'),
+    (content: string) => content.replace(/arrivamalheur/, 'arriva malheur'),
+    (content: string) => content.replace(/amhitieux/, 'ambitieux'),
+    (content: string) => content.replace(/tiennant/, 'tennant'),
+    (content: string) => content.replace(/poursnivre/, 'poursuivre'),
+    (content: string) => content.replace(/soncôte/, 'son côté'),
+    (content: string) => content.replace(/combattantsyles/, 'combattants, les'),
+    (content: string) => content.replace(/combatëtait/, 'combat était'),
+    (content: string) => content.replace(/àl’exécuteur/, "à l'exécuteur"),
+    (content: string) => content.replace(/une’ville/, 'une ville'),
+    (content: string) => content.replace(/enlendu/, 'entendu'),
+    (content: string) => content.replace(/œje/, 'je'),
+    (content: string) => content.replace(/observatet/, 'observat et'),
+    (content: string) => content.replace(/sousileurs/, 'sous leurs'),
+    (content: string) => content.replace(/ThisifOun/, 'Thisifoun'),
+    (content: string) => content.replace(/sesennemis/, 'ses ennemis'),
   ].forEach((format) => {
     result = format(result);
   });
