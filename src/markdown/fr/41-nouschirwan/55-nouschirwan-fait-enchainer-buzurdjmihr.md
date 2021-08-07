@@ -38,7 +38,7 @@ Le roi se réveilla, le regarda et vit qu’il se mordait les lèvres ; il jeta 
 >
 > Je ne suis pas.0rmuzd, ni même Bahman ; mon corps est de terre, d’air et de feu. »
 
-Mais le maître du monde fatiguait en vain sa langue, il ne reçut d’autre réponse que des soupirs, pendant que Buzurdjmihr pâlissait devant le roi et devant l’action du ciel qui tourne, car il avait bien vite reconnu ce signe de sa perte et la terreur tenait silencieux cet homme intelligent..
+Mais le maître du monde fatiguait en vain sa langue, il ne reçut d’autre réponse que des soupirs, pendant que Buzurdjmihr pâlissait devant le roi et devant l’action du ciel qui tourne, car il avait bien vite reconnu ce signe de sa perte et la terreur tenait silencieux cet homme intelligent.
 
 Le cortège du roi entourait cette prairie au mille de laquelle se trouvait Kesra : le roi monta à cheval, indigné et ne regarda personne jusqu’à ce qu’il fût de retourà son palais ; pendant toute la route, il suçait sa lèvre dans sa colère contre le sage ; il descendit de cheval et marmonna longuement ; à la fin il ordonna de frapper Buzurdjmihr sur le visage, comme sur une enclume et lui donna a maison pour prison.
 
@@ -122,7 +122,7 @@ V lui répéta les paroles du roi.
 
 Buzurdjmihr dit à cet Le messager arriva en courant auprès du cageot homme au cœur pur :
 
-> Jamais la fortune ne nous montre son visage ; aucun de nous ne durera, les bons et les mauvais finiront inévitablement, et que !
+> Jamais la fortune ne nous montre son visage ; aucun de nous ne durera, les bons et les mauvais finiront inévitablement et que !
 >
 > Nous ayons des trésors et des trônes ou la vie la plus pénible, nous aurons tous nécessairementà faire nos bagages ; mais il sera facile de se séparer d’une vie pénible, pendant que le cœur des rois sera rempli de terreurs. »
 
