@@ -30,25 +30,27 @@ Il lui répondit :
 >
 > Car la justice et la puissance sont lesbases de ton trône.
 >
-> Redoublons tous nos adorations, bénissons tous le maître du monde, de ce que nous vivons en même temps que toi, toi dont nous désirons le bonheur en toute chose, dont nous sommes avides de voir le visage, dont les bonnes paroles et la ten- dresse nous réjouissent.
+> Redoublons tous nos adorations, bénissons tous le maître du monde, de ce que nous vivons en même temps que toi, toi dont nous désirons le bonheur en toute chose, dont nous sommes avides de voir le visage, dont les bonnes paroles et la tendresse nous réjouissent.
 >
 > Puisses-tu vivre en sécurité, car tu nous donnes la sécurité et à Dieu ne plaise que nous manquions à la loyauté envers toi !
 >
 > Tu as fermé la route à nos ennemis, aux hommes de l’Inde et de la Chine, qui ne sont pas nos égaux ; les dévastations, les combats et les agitations ont cessé et personne n’entend le bruit des timbales de l’ennemi.
 >
-> Puisse ton esprit rester éternellement serein et le poids des affaires être porté par les Mobeds l Aucun roi ne t’égale en prudence et la pensée humaine ne peut dépasser ta sagesse.
+> Puisse ton esprit rester éternellement serein et le poids des affaires être porté par les Mobeds !
 >
-> Par toi la justice.»
+> Aucun roi ne t’égale en prudence et la pensée humaine ne peut dépasser ta sagesse.
+>
+> Par toi la justice. »
 
-Jeté dans l’Iran des fondements tels que nos enfants en seront encore heureux ; ta parole a acquis une influence telle que les vieillards se ra- -] jeunisseut en écoutantta sagesse.
+Jeté dans l’Iran des fondements tels que nos enfants en seront encore heureux ; ta parole a acquis une influence telle que les vieillards se ra--] jeunisseut en écoutantta sagesse.
 
-Tous ceux dans cette assemblée qui sont de naissance illustre sont heureux par toi, par tajustice ; les intelligences se sont développées par l’effet de les paroles ; par ta présence le monde est devenu. brillant.
+Tous ceux dans cette assemblée qui sont de naissance illustre sont heureux par toi, par ta justice ; les intelligences se sont développées par l’effet de les paroles ; par ta présence le monde est devenu. brillant.
 
 Tu es la robe d’honneur dont Dieu a revêtu la fortune, le diadème, les armes et le trône ; reste ainsi heureux, bienveillant et juste et les hommes se souviendront de toi comme ils ne se sont jamais souvenus d’un roi.
 
 Le monde est en sécurité par l’effet de ta grandeur et de ta majesté ; heureux qui s’abrite sous l’ombre de tes ailes !
 
-Puisse le trône être toujours ton siège et la terre rester soumise à tes ordres et à tes volontés l»
+Puisse le trône être toujours ton siège et la terre rester soumise à tes ordres et à tes volontés ! »
 
 Hélas !
 
