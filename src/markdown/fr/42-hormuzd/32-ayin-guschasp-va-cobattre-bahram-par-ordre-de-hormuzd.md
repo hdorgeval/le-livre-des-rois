@@ -60,7 +60,7 @@ je suis en prison, je suis né dans la même ville ce que toi, mais je ne dis pa
 
 Ayïn Guschasp envoya à l’instant quelqu’un en courant chez le roidit monde et lui fit dire :
 
-> Il y a un homme de ma ville en prison ; il est enchaîné et. »
+> Il y a un homme de ma ville en prison ; il est enchaîné et »
 
 Peur du mal qui peut lui arriver.
 
