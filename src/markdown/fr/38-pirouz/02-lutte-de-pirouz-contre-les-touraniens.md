@@ -18,7 +18,7 @@ order: '002'
 
 Pirouz, étant délivré de ce temps de famine, put s’asseoir tranquillement sur le trône de la royauté et fonda une grande ville, à laquelle il fit donner le nom de Pirouz-Rem et le maître éloquent du monde dit :
 
-> Voici un autre Bel, qui sera le lieu de repos des rois aux traces fortunées.»
+> Voici un autre Bel, qui sera le lieu de repos des rois aux traces fortunées. »
 
 Ensuite, il fonda Badan-Pirouz, dans un pays gai, tranquille et beau ; c’est la ville qu’on appelle aujourd’hui Ardebil, où le Kaïsar a établi, selon son droit, la colonne qui marque, la frontière.
 
@@ -36,7 +36,7 @@ Ensuite, il marcha avec son armée contre les Turcs et emporta avec lui la couro
 
 Il partit avec ses troupes, son trésor et tout ce qu’il fallait à la guerre, pour attaquer Khouschnewaz.
 
-Or il y avait une colonneque Bahram le héros avait érigée, qu’il avait portée à une grande hauteur et sur. laquelle était écrit un traité des rois d’après lequel aucuanurc ni aucun Iranien ne devait dé-
+Or il y avait une colonne que Bahram le héros avait érigée, qu’il avait portée à une grande hauteur et sur. laquelle était écrit un traité des rois d’après lequel aucun Turc ni aucun Iranien ne devait dé-
 
 Passer cette marque de la frontière ni poser son pied au delà du fleuve (Djihoun).
 
