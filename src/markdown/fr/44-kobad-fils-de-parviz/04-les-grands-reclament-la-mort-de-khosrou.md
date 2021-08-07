@@ -16,19 +16,19 @@ order: '004'
 
 # Les Grands réclament la mort de Khosrou
 
-Tous ceux qui avaient trahi le grand Roi redoutaient nuit et jour les surprises du sort ; Schirouï, lâche autant que perfide, ne considérait le trône que comme un piège ; quiconque avait de l’expé rience sentait que la puissance ne resterait pas long. temps assoupie.
+Tous ceux qui avaient trahi le grand Roi redoutaient nuit et jour les surprises du sort ; Schirouï, lâche autant que perfide, ne considérait le trône que comme un piège ; quiconque avait de l’expérience sentait que la puissance ne resterait pas long. temps assoupie.
 
 Tous ces hommes criminels, tous ceux qui avaient contribué avec ardeur à ce forfait accoururent au palais, et, se présentant devant Kobad, ils lui tinrent ce langage : Nous l’avons déjà dit et nous le répétons, tu as en tête un autre souci que celui de la royauté.
 
 Quand deux rois, le père et le fils, sont assis ensemble sur le trône ,d’or, l’un au premier rang, l’autre au second, dès que l’amitié se fortifie entre eux, les têtes de leurs sujets tombent d’un seul coup.
 
-Nous ne pouvons consentir à de semblables projets et tu ne dois plus en parler désormais devant nous.»
+Nous ne pouvons consentir à de semblables projets et tu ne dois plus en parler désormais devant nous. »
 
 Schirouï fut effrayé, il trembla parce qu’il était comme un esclave entre leurs mains ; il leur répondit :
 
 > Il n’y a que l’homme lâche qui attaque le lion pris au piège.
 >
-> Retournez dans vos demeures et délibérez en secret ; cherchez par le monde celui qui peut nous délivrer de ce tourment.»
+> Retournez dans vos demeures et délibérez en secret ; cherchez par le monde celui qui peut nous délivrer de ce tourment. »
 
 Les ennemis de.Khosrou se mirent en quête d’un assassin qui le fît périr secrètement ; mais personne ne se sentait le courage, personne n’avait l’audace de verser le sang d’un roi et de se charger du fardeau de ce crime, aussi lourd que le poids d’une montagne.
 
@@ -36,15 +36,15 @@ Après avoir cherché de tous côtés, les conjurés finirent par rencontrer sur
 
 Cet homme vil (puisse-t-il ne jamais voir le paradis joyeux!) se rendit chez Farrukhzad et dès qu’il fut au courant de l’affaire, il accepta.
 
-Je me charge, lui dit-il, de cette tâche dilIicile et si tu consens à me rassasier, je prendrai cette proie.»
+Je me charge, lui dit-il, de cette tâche difficile et si tu consens à me rassasier, je prendrai cette proie. »
 
-Farrukbzad lui répondit :
+Farrukhzad lui répondit :
 
-> Va et accomplis cet acte, si tu le peux ; mais ne divulgue ce secret à personne ; je te réserve une bourse pleine d’or et je te protégerai comme mon propre fils.»
+> Va et accomplis cet acte, si tu le peux ; mais ne divulgue ce secret à personne ; je te réserve une bourse pleine d’or et je te protégerai comme mon propre fils. »
 
 Le meurtrier, prenant un poignard à lame affilée et brillante, partit en toute hâte ; cet homme pervers se rendit chez le roi, qu’it trouva avec un seul esclave dans la première salle du palais.
 
-A sa vue, Khosrou trembla et des larmes sillonnèrent ses joues : Homme à l’aspect odieux, lui ditvil, toi dont la mère devrait pleurer la naissance, quel est ton nom ? -On me nomme Mihr Hormuzd,je suis étranger, sans parents ni amis dans ce pays.»
+À sa vue, Khosrou trembla et des larmes sillonnèrent ses joues : Homme à l’aspect odieux, lui ditvil, toi dont la mère devrait pleurer la naissance, quel est ton nom ? -On me nomme Mihr Hormuzd,je suis étranger, sans parents ni amis dans ce pays. »
 
 Khosrou reprit :
 
@@ -75,7 +75,7 @@ Telle fut la fin de Khosrou, qui possédait une armée nombreuse, une gloire, un
 
 Un sage l’a dit avec raison :
 
-> Il ne faut faire aucun cas de celui qui se fie au dragon de la fortune ; on ne doit considérer le monde que comme un crocodile cruel qui broie dans ses dents la proie que ses griffes ont saisie.»
+> Il ne faut faire aucun cas de celui qui se fie au dragon de la fortune ; on ne doit considérer le monde que comme un crocodile cruel qui broie dans ses dents la proie que ses griffes ont saisie. »
 
 Telle fut la fin du règne du
 -roi Parviz ; ainsi périrent son trône glorieux, ses trésors et ses armées.
