@@ -1050,6 +1050,16 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/obe’irai/, 'obéirai'),
     (content: string) => content.replace(/etquand/, 'et quand'),
     (content: string) => content.replace(/paroles’de/, 'paroles de'),
+    (content: string) => content.replace(/luiomême/, 'lui-même'),
+    (content: string) => content.replace(/instruotion/, 'instruction'),
+    (content: string) => content.replace(/deschevaux/, 'des chevaux'),
+    (content: string) => content.replace(/pasdévié/, 'pas dévié'),
+    (content: string) => content.replace(/tempsde/, 'temps de'),
+    (content: string) => content.replace(/pouvaitlui/, 'pouvait lui'),
+    (content: string) => content.replace(/desdélivrer/, 'de délivrer'),
+    (content: string) => content.replace(/attentiou/, 'attention'),
+    (content: string) => content.replace(/apteportées/, 'apportées'),
+    (content: string) => content.replace(/fitappeler/, 'fit appeler'),
   ].forEach((format) => {
     result = format(result);
   });

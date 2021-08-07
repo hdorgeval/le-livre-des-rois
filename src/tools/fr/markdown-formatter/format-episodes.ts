@@ -18,4 +18,4 @@ function formatEpisodesIn(folder: string, start: number, end: number) {
   }
 }
 
-formatEpisodesIn('src/markdown/fr/30-schapour-dhoul-aktaf', 2, 14);
+formatEpisodesIn('src/markdown/fr/34-yezdeguerd', 2, 14);
