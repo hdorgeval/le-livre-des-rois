@@ -16,7 +16,7 @@ order: '014'
 
 # Date de l'achèvement du livre des rois
 
-Soixanan années avaient passé sur me tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l’histoire des rois et plus mon étoile ralentissaitsa marche.
+Soixante années avaient passé sur me tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l’histoire des rois et plus mon étoile ralentissait sa marche.
 
 De grands personnages al distingués par le savoir et la naissance, plusieurs hommes renommés et fiers qui doivent leur réputation à ce livre, le copiaient gratuitement et moi, assis à l’écart, je les regardais faire et l’on m’aurait pris pour un mercenaire à leurs gages.
 
@@ -42,7 +42,7 @@ J’ai achevé l’histoire de Yezdegird le jour de Ard du mois de Selendarmed (
 
 C.);n lorsqu’il s’était écoulé cinq fois quatre-vingts ans depuis l’hégire, j’ai terminé ce livre digne des rois.
 
-Que le trône de Mahmoudsoit florissant, que sa tête demeure jeune etson cœur joyeux !
+Que le trône de Mahmoud soit florissant, que sa tête demeure jeune etson cœur joyeux !
 
 Qu’il possèdela sagesse, le savoir et la noblesse !
 
