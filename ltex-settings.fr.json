@@ -1370,6 +1370,10 @@
       {
         "rule": "ACCORD_COULEUR",
         "sentence": "^\\QL'année suivante la face du ciel se dessécha et la sécheresse rendit l'eau dans les ruisseaux noire comme le musc ; la troisième année, il en fut de même et de même la quatrième : tout le monde était en détresse par ce manque d'eau.\\E$"
+      },
+      {
+        "rule": "QUI_VCONJ",
+        "sentence": "^\\QVous tous qui êtes dans cette assemblée, qui avez entendu ce que j'ai dit à haute voix, comprenez-le, faites attention à chaque point et la fortune vous accompagnera toujours.\\E$"
       }
     ]
   }
