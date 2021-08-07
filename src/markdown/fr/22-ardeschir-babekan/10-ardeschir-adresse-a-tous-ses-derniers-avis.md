@@ -16,19 +16,23 @@ order: '010'
 
 # Ardeschir adresse à tous ses derniers avis
 
-Prêtez tous l’oreille, vieux et jeunes, aux paroles d’Ardeschir, le roi illustre : Quiconque sait que le distributeur de la justice existe ne doit adorer que Dieu, le saint.
+Prêtez tous l’oreille, vieux et jeunes, aux paroles d’Ardeschir, le roi illustre :
 
-Ensuite ne méprisez pas la sagesse, que vous soyez sujets ou rois.
+> Quiconque sait que le distributeur de la justice existe ne doit adorer que Dieu, le saint.
+>
+> Ensuite ne méprisez pas la sagesse, que vous soyez sujets ou rois.
+>
+> Sachez que jamais parole ne s’efface de la mémoire du sage.
+>
+> Croyez bien que la peur du péché est plus efficace que les chaînes et la prison du roi.
+>
+> Enfin, la parole du malveillant n’est pas en honneur auprès des grands. »
 
-Sachez que jamais parole ne s’efface de la mémoire du sage.
-
-Croyezbien que la peur du péché est plus efiicace que les chaînes et la prison du roi.
-
-Enfin, la parole du malveillant n’est pas en honneur auprès des grands. a Je vais vous donner encore un avis qui vaudra mieux que ce que voient vos yeux et votre esprit.
+Je vais vous donner encore un avis qui vaudra mieux que ce que voient vos yeux et votre esprit.
 
 Heureux celui qui rend prospère le monde et qui en public et en secret agit de même ; ensuite celui qui possède une voix douce, de l’intelligence, de la modestie et une parole chaleureuse.
 
-Compte ta dépense, car celui qui gaspille par vanité et sottement son argent en folies n’en tire aucun profit, personne ne l’en remercie et les hommes pieux ne l’approuventpas.
+Compte ta dépense, car celui qui gaspille par vanité et sottement son argent en folies n’en tire aucun profit, personne ne l’en remercie et les hommes pieux ne l’approuvent pas.
 
 Si tu cherches la voie moyenne, tu te soutiendras,’et les hommes de sens t’appelleront sage.
 
@@ -58,20 +62,20 @@ Vous tous qui êtes justes et sereins d’esprit, n’abandonnez jamais votre in
 
 Donnez à votre cœur du repos par’quatre choses, d’où vient tout ce qui est bon et utile.
 
-D’a- bord craignez, vénérez et respectez Dieu, pour qu’il vous dirige et vous guide ; ensuite n’abusez pas de votre corps et préservez de souillure la pan de la robe de votre foi ; réglez votre cœur selon les ordres de Dieu, aimez-moi comme vous vous aimez vous-mêmes.
+D’abord craignez, vénérez et respectez Dieu, pour qu’il vous dirige et vous guide ; ensuite n’abusez pas de votre corps et préservez de souillure la pan de la robe de votre foi ; réglez votre cœur selon les ordres de Dieu, aimez-moi comme vous vous aimez vous-mêmes.
 
 Troisièmement, pour faire apparaître la droiture, repoussez au loin toute fraude.
 
-Enfin. ne détournez pas votre cœur des volontés du roi du monde, ni en public ni en secret ; restez-lui atta- chés comme à votre propre vie et l’obéissance à ses ordres vous rajeunira ; prenez à cœur ce qu’il ordonne et ne laissez pas dévier votre esprit de la loyauté envers lui.
+Enfin. ne détournez pas votre cœur des volontés du roi du monde, ni en public ni en secret ; restez-lui attachés comme à votre propre vie et l’obéissance à ses ordres vous rajeunira ; prenez à cœur ce qu’il ordonne et ne laissez pas dévier votre esprit de la loyauté envers lui.
 
-Vous l’aimerez comme la vie, quand vousverrez qu’il veille sur vous par sa justice.
+Vous l’aimerez comme la vie, quand vous verrez qu’il veille sur vous par sa justice.
 
 Le roi prend sur lui les chagrins de la royauté et ne s’inquiète pas du dommage qui peut lui en revenir.
 
-S’il sait que ses gouverneurs et son armée oppriment le pays et s’il n’intervient pas selon la justice, il n’est pas digne d’être maître du monde, et la couronne des rois ne lui sied pas ; il noircit son brevet de royauté et la majesté souveraine l’abandonne.
+S’il sait que ses gouverneurs et son armée oppriment le pays et s’il n’intervient pas selon la justice, il n’est pas digne d’être maître du monde et la couronne des rois ne lui sied pas ; il noircit son brevet de royauté et la majesté souveraine l’abandonne.
 
-Sache qu’un roi injuste est un lion féroce sur une prairie et qu’un sujet qui ne se conforme pas avec zèle et de tout son cœur aux ordres du roi vivra dans la peine et les ehagrins, et ne vieillira pas dans cette demeure passagère.
+Sache qu’un roi injuste est un lion féroce sur une prairie et qu’un sujet qui ne se conforme pas avec zèle et de tout son cœur aux ordres du roi vivra dans la peine et les chagrins et ne vieillira pas dans cette demeure passagère.
 
 S’il te faurdu bonheur et de lapaissance, tu ne les obtiendras pas par l’avidité et la hauteur.
 
-Puisse le cœur de mes sujets être heureux, puisse le monde-être prospère par ma justice!»
+Puisse le cœur de mes sujets être heureux, puisse le monde-être prospère par ma justice ! »
