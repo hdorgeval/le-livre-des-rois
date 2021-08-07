@@ -28,9 +28,9 @@ Un astrologue répondit :
 
 > À Dieu ne plaise que le roi du monde parle de la mort !
 >
-> Quand la fortune du roi des rois tournera à mal, il ira d’ici à la fontaine de Saou ; il y amènera un cortège avec des clairons et des timbales, il ira joyeusement à Thous pour voir la fontaine et c’est là que se décidera son sort ; jamais il n’a entendu parler d’un jour pareil,lmais s’il parle de ce que nous révélons, ce sera mal, car ce secret est couvert du voile de Dieu.»
+> Quand la fortune du roi des rois tournera à mal, il ira d’ici à la fontaine de Saou ; il y amènera un cortège avec des clairons et des timbales, il ira joyeusement à Thous pour voir la fontaine et c’est là que se décidera son sort ; jamais il n’a entendu parler d’un jour pareil,lmais s’il parle de ce que nous révélons, ce sera mal, car ce secret est couvert du voile de Dieu. »
 
-Lorsque le roi l’eut écouté, il jura par le feu des temples de Khorrad et de Berzin et par le soleil jaune, que ses yeux ne verraient jamais cette fontaine ni dans un tempsde joie ni dans un temps de chagrin.
+Lorsque le roi l’eut écouté, il jura par le feu des temples de Khorrad et de Berzin et par le soleil jaune, que ses yeux ne verraient jamais cette fontaine ni dans un temps de joie ni dans un temps de chagrin.
 
 Le ciel ayant. tourné de nouveau pendant trois mois, le monde fut ému de ce qui arrivait au sang du roi.
 
@@ -42,9 +42,9 @@ Un Mobed lui dit :
 >
 > Tu as quitté la voie de Dieu en disant que tu échapperais des griffes de la mort ; est-ce que la mort n’est pas partout prête pour M7 Un moyen te reste, c’est d’aller dans une litière a la source de Saou par la route de Schahd.
 >
-> Tu prieras Dieu le tout saint, tu traverseras dans ta détresse ce pays brûlant et tu diras : Moi, faible serviteur, qui ai tendu un piégé à mon âme par un serment, je me présente devant toi, ô maître de la justice et de la droiture, pour savoir quand arrivera me fin.»
+> Tu prieras Dieu le tout saint, tu traverseras dans ta détresse ce pays brûlant et tu diras : Moi, faible serviteur, qui ai tendu un piégé à mon âme par un serment, je me présente devant toi, ô maître de la justice et de la droiture, pour savoir quand arrivera me fin. »
 
-Le roi écouta ce conseil et l’approuva ; il crut qu’il pouvaitlui être ulile dans ses douleurs.
+Le roi écouta ce conseil et l’approuva ; il crut qu’il pouvait lui être ulile dans ses douleurs.
 
 Il fit amener trois cents litières et se mit en route pour le lac de Schahd.
 
@@ -58,7 +58,7 @@ Alors, il devint présomptueux et dit :
 
 > Voilà donc ce qu’il y avait à faire !
 >
-> Pourquoi r resterais-je longtemps ici?»
+> Pourquoi resterais-je longtemps ici ? »
 
 Pendant que le roi du peuple reprenait sa fierté parce qu’il s’attribuait à lui-même tout le bien, un cheval blanc sortit de l’eau.
 
@@ -68,7 +68,7 @@ Ses sabots étaient noirs, il jetait de l’écume et aurait A tué un lion.
 
 Yezdeguerd dit à ses grands :
 
-> Il faut que mon cortège entoure ce cheval.»
+> Il faut que mon cortège entoure ce cheval. »
 
 Un vaillant pâtre partit avec deux jeunes chevaux dressés, une selle et un long lacet roulé.
 
@@ -94,7 +94,7 @@ l’eau courut vers cette source bleue ,\* et son corps disparut sous l’eau ; 
 
 Il s’éleva du cortège un cri. [ comme un coup de’timbale : t.) roi !
 
-C’est la destinée qui t’a amené à Thous !»
+C’est la destinée qui t’a amené à Thous ! »
 
 Tous déchirèrent leurs vêtements, tous versèrent de la poussière sur leur ; cou et leurs bras.
 
