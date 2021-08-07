@@ -25,7 +25,7 @@ Il invoqua d’abord les grâces du Distributeur de la justice sur le roi de la 
 > Telle n’était pas la coutume de tes ancêtres, ces rois du monde, nobles et purs.
 >
 > Mais puisque tu violes le traité qui liait les Perses, que tu jettes
-, dans la poussière la marque de la frontière établie par les grands, moi aussi je dois le rompre, et, contre mon gré, porter ma main à l’épée.»
+, dans la poussière la marque de la frontière établie par les grands, moi aussi je dois le rompre, et, contre mon gré, porter ma main à l’épée. »
 
 Il expliqua toute l’afi’aire dans la lettre et l’envoya accompagnée de beaucoup de présents ; un cavalier éloquent et portant haut la tête partit avec la lettre de Khouschnewaz.
 
@@ -33,7 +33,7 @@ Pirouz lut la lettre et se mit en colère contre ce roi illustre ; il dit au mes
 
 > Lève-toi et retourne auprès de cet homme vil ; dis-lui que Bahram vous a envoyé un écrit dans lequel il fixe la frontière au delà du fleuve de Terek et maintenant tu occupes tout jusqu’au Djihoun, tout est à toi, les hauteurs et les basfonds.
 >
-> J’arrive et j’amène une grande armée’ de héros fiers et prêts au combat et je ne laisserai pas longtemps sur la surface de la terre même l’ombre de Khouschnewaz.»
+> J’arrive et j’amène une grande armée’ de héros fiers et prêts au combat et je ne laisserai pas longtemps sur la surface de la terre même l’ombre de Khouschnewaz. »
 
 Le messager partit rapidement comme la poussière, rapporta tout ce qu’il avait entendu et parla longuement à Khouschnewaz de ce roi fier et orgueilleux.
 
@@ -65,13 +65,13 @@ Il dit au messager :
 
 > Un homme âgé et qui connaîtrait le monde ne parlerait pas ainsi.
 >
-> Dis-lui que, s’il avance un seul pied de Djadj et au delà du fleuve, je lui enverrai, pour le saluer, des pointes de -lances.»
+> Dis-lui que, s’il avance un seul pied de Djadj et au delà du fleuve, je lui enverrai, pour le saluer, des pointes de -lances. »
 
 Le messager s’en retourna chez Khouschnewaz et lui parla longtemps en secret, disant :
 
 > Je n’ai trouvé en Pirouz aucune crainte de Dieu et il n’a personne pour le guider.
 >
-> Il ne cherche que le combat et la lutte et ne marche pas selon les ordres de Dieu.»
+> Il ne cherche que le combat et la lutte et ne marche pas selon les ordres de Dieu. »
 
 Lorsque Khouschnewaz eut entendu ces paroles, il prit son refuge en Dieu et l’adore, disant :
 
@@ -79,7 +79,7 @@ Lorsque Khouschnewaz eut entendu ces paroles, il prit son refuge en Dieu et l’
 >
 > Tu sais que Pirouz, l’injuste, n’est pas plus vaillant que n’était Bahram ; qu’il prononce des paroles qui ne sont pas vraies, qu’il cherche le pouvoir par l’épée ; efface sa trace de la surface de la terre.
 >
-> Périsse sa force, périsse son savoir, périsse son cœur !»
+> Périsse sa force, périsse son savoir, périsse son cœur ! »
 
 V Il fit creuser alors un fossé autour de son. camp et en fit déguiser et recouvrir l’ouverture.
 >
