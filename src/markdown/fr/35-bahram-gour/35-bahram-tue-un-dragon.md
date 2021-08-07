@@ -30,13 +30,13 @@ Je l’enverrai combattre le dragon ; sans doute il ne s’en tirera pas sain et
 
 > Dieu, qui a créé la justice, t’a amené du pays d’Iran pour délivrer du mal l’Hiudoustan, comme il convient à un homme illustre.
 >
-> Une afiaire t’at. tend, pleinede peines et de fatigues. elle finira par des trésors.
+> Une afiaire t’at. tend, pleine de peines et de fatigues. elle finira par des trésors.
 >
-> Quand tu l’auras terminée, tu ne seras plus retenu ici et tu pourras t’en retourner avec mon agrément.»
+> Quand tu l’auras terminée, tu ne seras plus retenu ici et tu pourras t’en retourner avec mon agrément. »
 
 Le roi répondit :
 
-> Il n’est pas possible de me soustraire à tes volontés et il fau-drait que le ciel tournât de travers pour que je désobéisse à tes ordres.»
+> Il n’est pas possible de me soustraire à tes volontés et il fau-drait que le ciel tournât de travers pour que je désobéisse à tes ordres. »
 
 Schenguil dit :
 
@@ -44,11 +44,11 @@ Schenguil dit :
 >
 > Si tu pouvais trouver un moyen d’en délivrer le pays de l’Inde, tu rapporterais dans l’Iran le tribut de l’Hindeustan et tout ce pays y consentirait volontiers.
 >
-> Avec ce tribut, tu recevrais beaucoup de présents de produits indiens, du bois d’aloès, des épées et des richesses de toute espèce.»
+> Avec ce tribut, tu recevrais beaucoup de présents de produits indiens, du bois d’aloès, des épées et des richesses de toute espèce. »
 
 Bahram répondit :
 
-> Ô roi, maître et gouverneur de l’IndeI je jure par Dieu, le Seigneur, le saint, que j’efi’acerai de la poussière les traces des pieds du dragon : mais je ne sais pas ou est son repaire, il faudra m’en montrer le chemin exact.»
+> Ô roi, maître et gouverneur de l’IndeI je jure par Dieu, le Seigneur, le saint, que j’effacerai de la poussière les traces des pieds du dragon : mais je ne sais pas ou est son repaire, il faudra m’en montrer le chemin exact. »
 
 Schenguil envoya avec lui un homme alerte pour lui montrer ce dragon et Bahram partit avec trente Il.
 
@@ -61,11 +61,11 @@ ce dragon les émut vivement et ils dirent à Bahram :
 
 > Ô roi !
 >
-> Ne crois pas que ce dragon soit comme le loup de l’autre jour ; ne jette pas au vent le pays d’Iran par cette mauvaise aventure et ne réjouis pas tes ennemis dans ce pays.»
+> Ne crois pas que ce dragon soit comme le loup de l’autre jour ; ne jette pas au vent le pays d’Iran par cette mauvaise aventure et ne réjouis pas tes ennemis dans ce pays. »
 
 Le vaillant Bahram dit aux Iraniens :
 
-> Il faut confier sa vie au Distributeur de la justice ; si mon temps doit venir par ce. dragon, je ne puis ni le prolongerai l’abréger par ma bravoure.»
+> Il faut confier sa vie au Distributeur de la justice ; si mon temps doit venir par ce. dragon, je ne puis ni le prolongerai l’abréger par ma bravoure. »
 
 Il banda son arc et choisit des flèches dont la pointe était enduite de poison dissous dans du lait ; il fit pleuvoir des traits sur le dragon, l’attaquant à droite et à gauche, comme on fait en combattant un cavalier ; il lui perça la bouche avec les pointes d’acier et tout le couchant fut illuminé par le poison que vomissait le dragon ; ensuite Bahram le frappa à la tête d’une flèche à quadruple bois et le sang et le poison s’échappèrent de sa poitrine.
 
