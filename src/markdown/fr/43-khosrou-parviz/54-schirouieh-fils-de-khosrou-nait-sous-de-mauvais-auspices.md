@@ -20,7 +20,7 @@ Lorsque cinq années de son règne furent passées, il n’y eut pas son égal d
 
 À cette époque, on ne frappait pas l’oreille d’un enfant destiné à être élevé tendrement, comme celui-ci ; mais son père lui donnait un nom en secret et un autre en public ; il lui disait dans l’oreille le nom secret et proclamait hautement le nom public.
 
-Le nom qu’il lui disait à l’oreille était Kobad et publiquement il l’appelait Schirouï, à la naissance heumuse.
+Le nom qu’il lui disait à l’oreille était Kobad et publiquement il l’appelait Schirouï, à la naissance heureuse.
 
 Lorsque l’enfant vint au monde, les trois parts de la nuit’ étant passées, les astrologues furent ap-
 ’ll
