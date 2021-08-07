@@ -246,7 +246,7 @@ Il répondit :
 
 Il répondit :
 
-> L’homme pieux n’essaye pas de saisir les rênes du sort ; quand on ne cherche pas l’agran- ’
+> L’homme pieux n’essaye pas de saisir les rênes du sort ; quand on ne cherche pas l’agran-’
 dissemenl, on jouit de la tranquillité ; mais quand on peuseà monter plus haut, on doittrembler.
 
 Quant à ce que tu dis sur les bonnes actions et sur le secret des cœurs et des âmes quand on veut faire le bien,sache qu’il n’y a pas d’homme qui se sente plus humilié que celui qui veut du bien à un ingrat !
@@ -317,7 +317,7 @@ Il demanda :
 
 Il répondit :
 
-> Celui qui fait des efi’orts en toute circonstance et ne s’arme jamais pour le mal. »
+> Celui qui fait des efforts en toute circonstance et ne s’arme jamais pour le mal. »
 
 Le Mobed demanda :
 
