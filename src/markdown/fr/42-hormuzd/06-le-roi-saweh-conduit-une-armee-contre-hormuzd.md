@@ -54,7 +54,7 @@ Lorsque sa fortune s’obscurcissait ainsi, Hormuzd reçut des nouvelles de son 
 
 Il se repentit d’avoir, fait périr les Mobeds et (l’avoir écarté de sa cour les hommes intelligents.
 
-Il ne voyait pas autour, de lui des hommes qui pourraient le conseillel : ,,vt "tremblait h dans son âme.
+Il ne voyait pas autour, de lui des hommes qui pourraient le conseillel : ,,vt "tremblait dans son âme.
 
 Il fit appeler les Iraniens et remplit la salle d’hommes qu’il fit asseoir devant lui ; il dévoila le secret qu’il avait caché et dit aux grands de l’Iran qu’il se dirigeait vers leur pays des armées telles que personne n’avait souvenir de chose pareille.
 
