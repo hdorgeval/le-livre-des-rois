@@ -62,11 +62,11 @@ Nouschirwan ouvrit la porte de ses trésors et fit préparer trois cents charges
 >
 > Tous les Brahmanes qui demeurent dans la montagne t’aideront dans ton plan.
 >
-> Mon fortuné Destour, l’adorateur des idoles, mon trésor et mon riche trésorier, tout ce qu’il y a de bon et de man. vais dans l’Inde, sont à ta disposition, toute ma puissance dans les grandes et petites choses està. »
+> Mon fortuné Destour, l’adorateur des idoles, mon trésor et mon riche trésorier, tout ce qu’il y a de bon et de man. vais dans l’Inde, sont à ta disposition, toute ma puissance dans les grandes et petites choses està »
 
 TOl. »
 
-On lui prépara auprès du Radja un bel appartenient, digne de lui ; on lui envoya des tentures et de la nourriture, des vêtements doux au toucher et des tapis et il passa toute la nuit avec les Mobeds, les sages et les grands du Kanoudj.
+On lui prépara auprès du Radja un bel appartement, digne de lui ; on lui envoya des tentures et de la nourriture, des vêtements doux au toucher et des tapis et il passa toute la nuit avec les Mobeds, les sages et les grands du Kanoudj.
 
 Lorsque le jour brillant leva sa tété sur la montagne et que le flambeau qui éclaire le monde parut, le Badja fit appeler les médecins savants et tous ceux qui, parleur science, pouvaient servir de guides et leur ordonna de se rendre auprès du sage et d’écouter tout ce que Barzouï leur dirait.
 
@@ -177,8 +177,7 @@ Barzouï répondit au roi :
 
 > Ô toi dont le trône est plus haut que l’orbite de la lune !
 
-Celui qui a obtenu un vêtement royal a atteint la route de la fortune et du trône du pouvoir ; ensuite quand on me verra, moi indigne, revêtu d’une robe royale, le cœur de mes ennemis en sera troublé et serré et h
-le visage de mes amis sera tout glorieux et resplendissant.
+Celui qui a obtenu un vêtement royal a atteint la route de la fortune et du trône du pouvoir ; ensuite quand on me verra, moi indigne, revêtu d’une robe royale, le cœur de mes ennemis en sera troublé et serré et h le visage de mes amis sera tout glorieux et resplendissant.
 
 Mais j’ai à demander au roi une chose qui fera qu’il restera de moi un souvenir dans le monde : je désire que Buzurdjmihr, lorsqu’il transcrira ce livre, veuille bien s’occuper de la peine que Barzouï
 a eue pour l’obtenir et qu’il fasse, par ordre du roi victorieux, du premier chapitre un souvenir de moi, pour qu’après ma mort les savants dans le monde entier n’ignorent pas la peine que j’ai prisent Le roi lui dit :
