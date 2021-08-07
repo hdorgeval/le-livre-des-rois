@@ -24,17 +24,17 @@ Le Mobed lui dit :
 
 > Que veuxtu ?
 >
-> Dis-le moi ; tu ne peux pas voir le roi du monde.»
+> Dis-le moi ; tu ne peux pas voir le roi du monde. »
 
 Il répondit :
 
-> Jusqu’à ce que j’aie vu le visage du roi, je ne dirai pas un mot devant son cortège.»
+> Jusqu’à ce que j’aie vu le visage du roi, je ne dirai pas un mot devant son cortège. »
 
 On amena auprès du roi cet homme qui le cherchait, un homme plein d’intelligence et parlant bien.
 
 Il s’approcha et quand il vit Bahram il lui dit :
 
-> J’ai à te parler en secret.»
+> J’ai à te parler en secret. »
 
 Ilabram dé-
 
@@ -48,9 +48,9 @@ Tourna la bride et fit aller son cheval hors de la vue de la foule ; alors l’h
 >
 > J’ai amené de l’eau sur mes terres pour que je puisse les labourer et leur donner toute leur valeur.
 >
-> Quand l’eau a afflué et est devenue difficile à contenir, il s’est fait un trou dans un champ ; il est arrivé à mes oreilles un bruit étrange quim’a rempli de terreur et a jeté le trouble dans mon âme.
+> Quand l’eau a afflué et est devenue difficile à contenir, il s’est fait un trou dans un champ ; il est arrivé à mes oreilles un bruit étrange qui m'a rempli de terreur et a jeté le trouble dans mon âme.
 >
-> Il sortait de l’eau un bruit de cymbales, un bruit qui parait indiquer un trésor.»
+> Il sortait de l’eau un bruit de cymbales, un bruit qui parait indiquer un trésor. »
 
 Bahram l’écouta et se dirigea de ce côté;il vit toute la plaine couverte de verdure et d’eau et ordonna qu’on amenât de loin un nombre d’ouvriers avec des pelles.
 
@@ -77,7 +77,7 @@ Le Destour, ayant vu tout cela, alla auprès du roi ; il était par son intellig
 On a trouvé de quoi doter tous les trésors ; on a découvert une chambre remplie de pierreries, dont la voûte du ciel avait gardé la clef. 1)
 Le roi dit :
 
-> Quand on veut construire un trésor, on écrit toujours son nom dessus ; regarde quel nom porte celui-ci, etdans quel temps on l’a rempli.»
+> Quand on veut construire un trésor, on écrit toujours son nom dessus ; regarde quel nom porte celui-ci, et dans quel temps on l’a rempli. »
 
 Le chef des Mobeds partit en entendant cet
 
@@ -85,7 +85,7 @@ Ordre et vil sur les taureaux le nom de Djemschid.
 
 Il dit au roi du monde :
 
-> J’ai regardé, c’est le nom du roi Djemschid qui est gravé sur les taureaux.»
+> J’ai regardé, c’est le nom du roi Djemschid qui est gravé sur les taureaux. »
 
 Bahram répondit :
 
@@ -109,10 +109,10 @@ Bahram répondit :
 >
 > Pourquoi me fau-drait-il. rechercher les trésors de Djemschid, tant que je suis jeune et en bonne santé ?
 >
-> Donne un dixième à celui qui nous a montré le chemin et i qui a cherché le roi au milieu de son escorte.
+> Donne un dixième à celui qui nous a montré le chemin et qui a cherché le roi au milieu de son escorte.
 >
 > Mais ] celui qui enlève à Djemschid son linceul puisse-
-t-il n’avoir dans le monde aucun espoir de contentementl Pour courir des dangers avec mon armée, pour rapporter du Touran et de la Chine de la gloire et des trésors, moi, mon cheval Schebdiz et mon épée tranchante, nous safrans ;’ je ne me livre pas à la ruse et je ne connais pas la fuite.»
+t-il n’avoir dans le monde aucun espoir de contentementl Pour courir des dangers avec mon armée, pour rapporter du Touran et de la Chine de la gloire et des trésors, moi, mon cheval Schebdiz et mon épée tranchante, nous safrans ;’ je ne me livre pas à la ruse et je ne connais pas la fuite. »
 
 Il se rendit alors à son trésor. qu’il avait amassé par la sueuret la peine, fit venir les braves du pays et distribua une année de solde.
 
@@ -120,7 +120,9 @@ Il arrangea une fête dans le Naubehar et fit parer la salle d’audience incrus
 
 Lorsque le vin de rubis brilla dans les coupes de cristal et que Bahram se sentit gaiet heureux, il dit à ses amis :
 
-> Ô vous qui portez haut la tête, qui connaissez les traditions du trône des grands roisl voyez ce qui reste de ces puissants rois, depuis Houscheng jusqu’à Newder, l’héritierde Feridoun et jusqu’à Keïkohad, qui avait placé sur sa tête la couronne du pouvoir ; et qui chante maintenant les louanges de leur justice ?
+> Ô vous qui portez haut la tête, qui connaissez les traditions du trône des grands rois !
+
+Voyez ce qui reste de ces puissants rois, depuis Houscheng jusqu’à Newder, l’héritierde Feridoun et jusqu’à Keïkobad, qui avait placé sur sa tête la couronne du pouvoir ; et qui chante maintenant les louanges de leur justice ?
 
 Le ciel a cessé de tourner sur eux et il ne reste de ces rois d’autre souvenir que les paroles des hommes qui disent. que l’un avait de la grandeur d’âme et que l’autre n’en avait pas, qui blâment l’un et célèbrent l’autre.
 
@@ -137,11 +139,11 @@ Je ne me suis pas attaché à cette demeure passagère, la couronne ne me charme
 
 Quand le jour passe gaiement, pourquoi l’homme de sens se livrerait-il aux soucis ?
 
-Maudits soient ma tête, mon trône et mon trésor, chaque fois qu’un de mes sujets, qu’il soit Dihkan ou qu’il soit de la cour, se plaint d’une peine que je lui ai imposée tu i Un vieillard du nom de Mahiar, âgé de plus de cent soixantequatre ans, se leva à ces paroles et dit :
+Maudits soient ma tête, mon trône et mon trésor, chaque fois qu’un de mes sujets, qu’il soit Dihkan ou qu’il soit de la cour, se plaint d’une peine que je lui ai imposée tu Un vieillard du nom de Mahiar, âgé de plus de cent soixantequatre ans, se leva à ces paroles et dit :
 
 > Ô maître de la justice et de la droiture !
 >
-> Nous avons entendu parler de toutes les façons de Feridoun, de Djemscbid et des autres rois illustres, mais personne dans le monde n’a entendu parler d’un roi comme toi, espoir des petits et gloire des grands !
+> Nous avons entendu parler de toutes les façons de Feridoun, de Djemschid et des autres rois illustres, mais personne dans le monde n’a entendu parler d’un roi comme toi, espoir des petits et gloire des grands !
 >
 > Si ton cœur est large comme une mer, tu as soulevé de telles vagues dans cette mer, que ton esprit a répandu des lumières comme en répand le Serosch et que l’intelligence des plus savants s’est trouvée éclipsée.
 >
@@ -157,4 +159,4 @@ Maudits soient ma tête, mon trône et mon trésor, chaque fois qu’un de mes s
 >
 > Puisses-tu être prospère et victorieux et la fortune se soutenir !
 >
-> On noircira avec cette histoire bien des livres qui parleront des rois et l’on n’épuisera jamais le sujet.»
+> On noircira avec cette histoire bien des livres qui parleront des rois et l’on n’épuisera jamais le sujet. »
