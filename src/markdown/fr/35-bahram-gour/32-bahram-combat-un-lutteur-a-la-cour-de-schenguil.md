@@ -16,13 +16,13 @@ order: '032'
 
 # Bahram combat un lutteur à la cour de Schenguil
 
-Sc’henguil répondit à ces paroles de Bahram :
+Schenguil répondit à ces paroles de Bahram :
 
 > Ce que tu dis n’est pas conforme à la raison.
 >
 > Reste
 >
-> ici pendant quelque temps et délasse-toi ; pourquoi prononcer des paroles inutiles?»
+> ici pendant quelque temps et délasse-toi ; pourquoi prononcer des paroles inutiles ? »
 
 On arrangea une salle de fête, on disposa tout ce qu’il fallait.
 
@@ -30,7 +30,7 @@ Bahram se reposa jusqu’au milieu du jour et lors. que le trône du soleil qui 
 
 Lorsqu’on eut placé sa table devant Schenguil, il donna à quelqu’un ses ordres, disant :
 
-> Appelle cet envoyé du roi de l’Iran, c’est un homme éloquent, qui vient pour entamer une affaire ; amène de même tous ses compagnons et fais-les asseoir aux tables des grands.»
+> Appelle cet envoyé du roi de l’Iran, c’est un homme éloquent, qui vient pour entamer une affaire ; amène de même tous ses compagnons et fais-les asseoir aux tables des grands. »
 
 Bahram se pressa d’arriver, s’assit à la table, s’occupa à manger et ne parla point.
 
@@ -47,11 +47,11 @@ BAI-trouble dans son cerveau et il dit à Schenguil :
 > Ô roi !
 >
 > Si tu le permets, je vais serrer mon cale-
-çon ; quand je lutte avec un homme fort, je ne pense plus à, la débauche et à l’ivresse.»
+çon ; quand je lutte avec un homme fort, je ne pense plus à, la débauche et à l’ivresse. »
 
 Schenguil sourit et dit :
 
-> Lève-toi et si tu as le dessus, verse leur sang.»
+> Lève-toi et si tu as le dessus, verse leur sang. »
 
 À ces paroles, Bahram se leva, il ploya bravement la taille droite de :
 
@@ -68,13 +68,13 @@ Bahram lui répondit :
 
 > Ô roi !
 >
-> Qà j’ai avec moi beaucoup de cavaliers de l’Iran qui tous ont envie de tirer des flèches et de jouer à la raquette ; quel ordre le noble roi leur donne-t-il?»
+> Qà j’ai avec moi beaucoup de cavaliers de l’Iran qui tous ont envie de tirer des flèches et de jouer à la raquette ; quel ordre le noble roi leur donne-t-il ? »
 
 Schenguil dit :
 
 > La flèche et l’arc sont certainement les vrais appuis du cavalier.
 >
-> Toi, avec ta poitrine et avec les bras forts, lève ta main, bande ton arc et fais partir une flèche.»
+> Toi, avec ta poitrine et avec les bras forts, lève ta main, bande ton arc et fais partir une flèche. »
 
 Bahram Gour banda son arc, abandonna les rênes à son destrier ardent, plaça sur la corde une flèche, lâcha l’anneau et brisa le but avec une seule flèche.
 
