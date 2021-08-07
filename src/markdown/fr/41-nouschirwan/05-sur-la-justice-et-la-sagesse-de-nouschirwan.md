@@ -36,7 +36,7 @@ Les hommes affluèrent à la cour, tous ceux qui cherchaient justice dans le mon
 >
 > Mon cœur ne sera jamais si heureux et si serein que quand j’aurai tiré de peine un opprimé.
 >
-> À Dieu ne plaise qu’un de mes employés, de mes soldats ou de mes serviteurs se couche le cœur chagrin, car son chagrin me porterait malheur et Dieu me deiiiandera compte de toute chose, si infime et si secrète qu’elle soit !
+> À Dieu ne plaise qu’un de mes employés, de mes soldats ou de mes serviteurs se couche le cœur chagrin, car son chagrin me porterait malheur et Dieu me demandera compte de toute chose, si infime et si secrète qu’elle soit !
 >
 > En dehors des taxes et des impôts que j’ai laissés subsister et que mon Mobed a inscrits dans ses bureaux, on ne vous demandera pas de l’or ni de l’argent ; dormezLdonc dorénavant sans crainte de moi. »
 
