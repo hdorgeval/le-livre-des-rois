@@ -32,8 +32,7 @@ Ils avaient chacun de son côté une armée àleurs ordres, accumulée au hautdu
 
 Les deux rois s’avançaient sur le champ de bataille, leurs troupes circulant de tout côté autour d’eux, l’un tâchant de dépasser l’autre et l’on se battait tantôt sur les hauteurs, tantôt dans la plaine ; quand deux de l’autre côté avaient surpris un homme isolé. celui-ciétait perdu pourles siens et les deux armées restaient ainsi en présence jusqu’à ce que l’on vît laquelle était battue.
 
-Il arrangea comme j’ai dit le jeu du nard, puis il se présenta au roi et lui expliqua tout, s’étendant sur le pouvoir des rois et sur les combats que se li-’ 3là
-vraient. les armées et montrant tout à Kesra.
+Il arrangea comme j’ai dit le jeu du nard, puis il se présenta au roi et lui expliqua tout, s’étendant sur le pouvoir des rois et sur les combats que se li-’ 3là vraient. les armées et montrant tout à Kesra.
 
 Le roi de l’Iran en fut confondu et son esprit fut plongé dans ses réflexions ; tantôt il louait, tantôt il blâmait les mouvements de ces rois au cœur fier ; à la fin il dit :
 
