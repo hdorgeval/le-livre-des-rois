@@ -8,7 +8,7 @@ source: tome V - livre des rois - P. 310
 reign: "Schapour fils d'Ardeschir"
 reign-slug: 'regne-de-schapour'
 title: 'Schapour monte sur le trône | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ['Ardeschir', 'chrysoprases', 'Dieu', 'Mobed', 'Mobeds', 'Schapour']
 order: '001'
 ---
 
@@ -46,7 +46,7 @@ Il dit :
 >
 > Je vais maintenir envers vous, sans faillir, les règles que le puissant roi Ardeschir a établies ; je ne demanderai aux cultivateurs qu’un dirhem sur trente, pour que je puisse donner quelque chose à mon armée.
 >
-> Quanta moi, j’ai les villes et un trésor plein, j’ai de la bravoure, de l’humanité, un pouvoir établi et ne demanderai à personne rien de ce qu’il possède, car c’est là ce qui convertit les amis en ennemis.
+> Quant à moi, j’ai les villes et un trésor plein, j’ai de la bravoure, de l’humanité, un pouvoir établi et ne demanderai à personne rien de ce qu’il possède, car c’est là ce qui convertit les amis en ennemis.
 >
 > Vous tous aurez libre accès auprès de moi, car je suis plein de pitié pour l’homme qui demande justice.
 >
