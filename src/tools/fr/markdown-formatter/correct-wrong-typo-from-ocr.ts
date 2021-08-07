@@ -1032,6 +1032,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/vousverrez/, 'vous verrez'),
     (content: string) => content.replace(/ehagrins/, 'chagrins'),
     (content: string) => content.replace(/tajustice/, 'ta justice'),
+    (content: string) => content.replace(/gloire’s/, 'gloires s'),
+    (content: string) => content.replace(/otagespris/, 'otages pris'),
+    (content: string) => content.replace(/tributet/, 'tribut et'),
+    (content: string) => content.replace(/vingtTcinquième/, 'vingt-cinquième'),
   ].forEach((format) => {
     result = format(result);
   });

@@ -20,6 +20,7 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/-Rustem/g, '- Rustem'),
     (content: string) => content.replace(/-Aulad/g, '- Aulad'),
     (content: string) => content.replace(/-Combat/g, '- Combat'),
+    (content: string) => content.replace(/peuxtu/g, 'peux-tu'),
   ].forEach((format) => {
     result = format(result);
   });
