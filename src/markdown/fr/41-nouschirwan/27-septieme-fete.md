@@ -44,7 +44,7 @@ L’homme intelligent répondit au roi :
 >
 > Ne désire pas voir son fils à sa place ; aime comme ta propre âme son visage qui charme les cœurs.
 >
-> La détresse ne trouve pas d’entrée dans un paysoù règne l’amour du roi ; par l’effet de sa puissance, aucun mal ne t’atteindra, car sa fortune assure n toute sorte de bonheur ; le cœur du monde est souriant sous l’influence d’un roi sur le visage duquel brille la majesté donnée par Dieu ; s’il est gracieux envers toi, efforce-toi de toujours prêter l’oreille à ses ordres.
+> La détresse ne trouve pas d’entrée dans un pays où règne l’amour du roi ; par l’effet de sa puissance, aucun mal ne t’atteindra, car sa fortune assure n toute sorte de bonheur ; le cœur du monde est souriant sous l’influence d’un roi sur le visage duquel brille la majesté donnée par Dieu ; s’il est gracieux envers toi, efforce-toi de toujours prêter l’oreille à ses ordres.
 >
 > Si tu te détournes de lui en pensée, à l’instant la fortune se détournera de toi ; s’il te tient près de lui, ne deviens pas orgueilleux ; si tu es loirrde lui, ne’ fais pas le mal.
 >
