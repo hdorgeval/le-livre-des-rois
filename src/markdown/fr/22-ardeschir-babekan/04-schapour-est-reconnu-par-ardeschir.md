@@ -24,31 +24,31 @@ Les enfants commencèrent à frapper la balle et chacun voulut se dis.-tinguer p
 
 Le roi arriva sur la place accompagné de quelques intimes qui ne le quittaient . jamais ; il regarda, poussa de la poitrine un soupir en voyant ces enfants et les montra du doigt à son ministre, disant :
 
-> J’espère qu’il y a parmi eux un fils d’Ardeschir.»
+> J’espère qu’il y a parmi eux un fils d’Ardeschir. »
 
 Son conseiller répondit :
 
-> Ô roi!
+> Ô roi !
 1
-ton cœur atteste l’existence de ton fils.»
+ton cœur atteste l’existence de ton fils. »
 
 Le roi dit à un serviteur :
 
-> Ô homme ingénieux et observateurl va en souriant auprès de ces enfants et lance avec une raquette leur balle vers moi, et celui parmi eux qui viendra courageusement comme un lion au milieu de ces cavaliers et enlè-vera la balle devant mes yeux, sans respect pour personne dans ce cortège, celuilà est sans aucun doute mon fils chéri ; il provient de ma race, de mon corps et de ma famille.»
+> Ô homme ingénieux et observateurl va en souriant auprès de ces enfants et lance avec une raquette leur balle vers moi et celui parmi eux qui viendra courageusement comme un lion au milieu de ces cavaliers et enlè-vera la balle devant mes yeux, sans respect pour personne dans ce cortège, celui-là est sans aucun doute mon fils chéri ; il provient de ma race, de mon corps et de ma famille. »
 
 Le serviteur du roi partit, comme il en avait l’ordre, frappa la balle et l’envoya devant les cavaliers ; les enfants la suivirent rapidement comme des flèches ; arrivés près d’elle et devant le roi, ils hésitèrent et s’arrêtèrent désappointés ; mais Schapour se précipita en avant. saisit la balle devant son père, l’enleva et, à quelque distance, la lança aux enfants. t Le roi fut joyeux de cœur comme un vieillard qui se sent rajeuni ; les cavaliers soulevèrent de terre l’enfant et le passèrent de main en main ; le roi des rois le pressa sur son cœur et rendit des grâces au distributeur de la justice.
 
-Il baisa l’enfant sur la tête , le visage et les joues et dit :
+Il baisa l’enfant sur la tête, le visage et les joues et dit :
 
 > Il ne faut pas cacher au monde une pareille merveille.
 >
 > Jamais je n’aurais osé espérer ceci dans mon âme, car je croyais qu’on l’avait tué.
 >
-> Dieu a fait prospérer mon empire et a voulu me donner un successeur dans le gouvernement du monde ; on ne peut se soustraire à ses ordres, quand même on porterait la tête plus haut que le soleil.»
+> Dieu a fait prospérer mon empire et a voulu me donner un successeur dans le gouvernement du monde ; on ne peut se soustraire à ses ordres, quand même on porterait la tête plus haut que le soleil. »
 
 Il choisit dans son trésor des joyaux et de l’or, -il choisit beaucoup de grenats magnifiques et la cour versa sur l’enfant de l’or et des pierreries et répandit sur lui du musc et de’l’ambre, jusqu’à ce que sa tête disparût sous les pièces d’or et que son visage devint invisible sous les pierres fines.
 
-Ensuite le roi répandit des pierreries sur le Destour, le fit asseoir sur un siège incrusté de figures d’or et lui donna tant de richesses que son palaiset sa salle d’audience en resplendissaient.
+Ensuite le roi répandit des pierreries sur le Destour, le fit asseoir sur un siège incrusté de figures d’or et lui donna tant de richesses que son palais et sa salle d’audience en resplendissaient.
 
 Il ordonna que la fille d’Ardevvan revînt au palais, heureuse et sereine ; il lui pardonna ses fautes passées et effaça de sa lune toute trace de rouille.
 
