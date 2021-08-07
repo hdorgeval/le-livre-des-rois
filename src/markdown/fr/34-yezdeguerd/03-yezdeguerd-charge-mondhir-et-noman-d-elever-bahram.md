@@ -28,18 +28,18 @@ Aussitôt qu’il fut arrivé dans sa demeure, il fit appeler beaucoup de cavali
 
 Elles gardèrent l’enfant ainsi pendant quatre ans ; lorsqu’il eut assez vécu de lait et que ses membres se furent développés, elles le sevrèrent avec difficulté et l’élevèrent délicatement sur leurs genoux.
 
-Lorsqu’il eut sept ans, il interpella Mondhir : Est-ce ainsi qu’on doit agir envers un prince ?»
+Lorsqu’il eut sept ans, il interpella Mondhir : Est-ce ainsi qu’on doit agir envers un prince ? »
 
 Puis, il continua : Ô prince qui portes haut la tête, ne me traite pas comme un enfant à la. mamelle !
 
-Remets-moi à des maîtres savants, car il est temps que je m’instruise.», Mondhir répondit :
+Remets-moi à des maîtres savants, car il est temps que je m’instruise. », Mondhir répondit :
 
 > Ô noble enfant !
 >
 > Tu n’as pas encore besoin de devenir savant.
 >
 > Quand le temps de l’instruction sera arrivé pour" toi et que tu au-
-ras envie de devenir savant, je ne te laisserai plus te livrer au jeu dans le palais, mais c’est en jouant que tu grandiras.»
+ras envie de devenir savant, je ne te laisserai plus te livrer au jeu dans le palais, mais c’est en jouant que tu grandiras. »
 
 Bahram répliqua :
 
@@ -55,14 +55,13 @@ mais ce qu’on fait hors de son temps ne porte pas fruit ; c’est la tête qui
 >
 > Il est juste que tu me fasses instruire de façon que je sache tout ce que doit savoir un roi.
 >
-> Le commencement de la droiture est le savoir et heureux celui qui dès le commencement a en vue la fin.»
+> Le commencement de la droiture est le savoir et heureux celui qui dès le commencement a en vue la fin. »
 
 -Mondhir le regarda avec étonnement et prononça entre ses lèvres le nom de Dieu.
 
 Il envoya à l’instant dans le Souristan un messager rapide monté sur un dromadaire.
 
-Celui-ci observa troisMobeds très-instruits et jouissant dans le Souristan d’une grande réputation, l’un qui pouvait instruire le prince dans les lettres et dissiper les ténèbres de son esprit ; 
-A
+Celui-ci observa troisMobeds très-instruits et jouissant dans le Souristan d’une grande réputation, l’un qui pouvait instruire le prince dans les lettres et dissiper les ténèbres de son esprit ; A
 l’autre qui lui enseignerait à chasser au faucon et au guépard, pour que son cœur s’en réjouît, ensuite à jouer aux raquettes, à tirer de l’arc et des flèches, à se battre à l’épée avec un ennemi, à faire la voltige à droite et à gauche et à porter hanLIa tête au milieu des braves ; le troisième, qui devait. parler à Bahram de tout ce qu’il savait des affaires du monde sur les devoirs d’un roi des rois et sur ce qu’avait à dire et à fairetun administrateur.
 
 Ces Mobeds arrivèrent auprès de Mondhir, lui explique»
@@ -79,13 +78,15 @@ Il dit à Mondhir :
 
 > Ô homme aux intentions pures !
 >
-> Renvoie mes maîtres.»
+> Renvoie mes maîtres. »
 
 Mondhir fit à chacun d’eux beaucoup de présents et ils partirent de sa cour le cœur en Ensuite le prince dit à Mondhir :
 
-> Fais demander joie. v ü03 des chevaux aux cavaliers armés de lances, dis-leur de faire leurs exercices devant moi et de se menacer avec la pointe de leurs lances.
+> Fais demander joie. »
+
+ü03 des chevaux aux cavaliers armés de lances, dis-leur de faire leurs exercices devant moi et de se menacer avec la pointe de leurs lances.
 >
-> Ils fixeront le prix des chevaux qui me plairont ; je leur donnerai plus d’argent qu’ils n’en demanderont.»
+> Ils fixeront le prix des chevaux qui me plairont ; je leur donnerai plus d’argent qu’ils n’en demanderont. »
 
 Mondhir répondit :
 
@@ -93,13 +94,13 @@ Mondhir répondit :
 >
 > Le chef de mon haras est à tes ordres et le maître de ces chevaux est à toi de tout son cœur.
 >
-> Si tu achètes deschevaux chez les Arabes, pourquoi me suis-je donné tant de peine à en avoir de bons?»
+> Si tu achètes des chevaux chez les Arabes, pourquoi me suis-je donné tant de peine à en avoir de bons ? »
 
 Bahram lui dit :
 
 > Ô homme au nom honoré, puisse le monde toujours remplir tes désirs !
 >
-> Je veux a choisir un cheval que je puisse lancer à la descente sans avoir besoin de m’occuper des rênes, de peut. qu’il ne tombe ; quand je lui aurai ainsi donné le pied sur, malgré sa rapidité, j’en ferai le rival du ventaux faire : de Naurouz ; mais il ne faut pas forcer un cheval qu’on n’a pas mis à l’épreuve.»
+> Je veux a choisir un cheval que je puisse lancer à la descente sans avoir besoin de m’occuper des rênes, de peut. qu’il ne tombe ; quand je lui aurai ainsi donné le pied sur, malgré sa rapidité, j’en ferai le rival du ventaux faire : de Naurouz ; mais il ne faut pas forcer un cheval qu’on n’a pas mis à l’épreuve. »
 
 Mondhir ordonna à Noman d’aller choisir un troupeau de chevaux parmi les vaillants maîtres de haras, de traverser tout le désert des hommes armés de lances et de voir partout qui avait des chevaux de bataille.
 
@@ -113,8 +114,7 @@ Ram, se trouvaient sans force.
 
 Mondhir les paya selon leur valeur ; ils venaient des forêts de Koufah.
 
-Bahram reçut de lui ces deux chevaux brillants comme AdergousMcondhir le gardasit copmme.une pIomme fraîche, p our
-jeune homme lui dit :
+Bahram reçut de lui ces deux chevaux brillants comme AdergousMcondhir le gardasit copmme.une pIomme fraîche, p our jeune homme lui dit :
 
 > Ô homme intelligent et à l’esprit serein !
 >
@@ -122,11 +122,11 @@ jeune homme lui dit :
 >
 > Les joues des hommes jaunissent par les soucis et c’est par la joie que prospère une nature noble ; or rien ne répand la joie comme une belle femme, car la femme est secourable dans les peines ; une femme calme les passions d’un jeune homme, qu’il porte une couronne ou qu’il soit Pehlewan ; elle lui inspire le culte de Dieu, elle est son guide pour tout ce qui est bien.
 >
-> Ordonne donc qu’on amène cinq. ou six, qu’a ucun s ouill e ne le tou jeunes filles, gracieuses et avec des visages de soleil ; j’en choisirai une ou deux, pour que mes pensées se tournent vers les grâces dues à Dieu et chât.
+> Ordonne donc qu’on amène cinq. ou six, qu’a ucun s ouill ne le tou jeunes filles, gracieuses et avec des visages de soleil ; j’en choisirai une ou deux, pour que mes pensées se tournent vers les grâces dues à Dieu et chât.
 >
 > Or un jour le â05 dans l’espoir de me voir naître un enfant, ce qui le : rendra un peu de calme à mon cœur.
 >
-> Le roi sera alors content de moi et toute la cour me glorifiera.»
+> Le roi sera alors content de moi et toute la cour me glorifiera. »
 
 Lorsque Mondhir eut entendu les paroles du jeune homme, le vieillard le bénit ; il ordonna qu’un homme bon coureur allât en toute hâte au dépôt d’un marchand d’esclaves.
 >
