@@ -32,7 +32,7 @@ Dans cette demeure magnifique et lui dit :
 
 > Tu sais que personne ne porte un cœur sans un chagrin secret.
 >
-> Tu as souvent demandé à tout le monde en Chine du pain d’orge, du millet et une peau de mouton ; maintenant tu te tnourris de pain defromon et d’agneau et tu es couvert de beaux vêtements.
+> Tu as souvent demandé à tout le monde en Chine du pain d’orge, du millet et une peau de mouton ; maintenant tu te nourris de pain defromon et d’agneau et tu es couvert de beaux vêtements.
 >
 > Voilà ton état d’autrefois et voici ton état actuel.
 >
@@ -72,7 +72,7 @@ Kaloun dit à cet homme savant :
 
 Quand Kharrad eut entendu ces paroles, il quitta sa maison en courant et se présenta à la Khatoun, disant :
 
-> Le temps de te faire une demande est arrivé et je vais h te l’expliquer, ô femme de bonne naturel Ma famille est dans les chaînes de l’autre côté du fleuve,-
+> Le temps de te faire une demande est arrivé et je vais te l’expliquer, ô femme de bonne naturel Ma famille est dans les chaînes de l’autre côté du fleuve,-
 je désire que tu délies mes pieds.
 >
 > Procure-moi du Khakan une impression de son sceau et sache que tu me rendras la vie. »
