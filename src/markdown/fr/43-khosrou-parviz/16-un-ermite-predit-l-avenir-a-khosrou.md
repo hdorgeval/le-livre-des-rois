@@ -124,4 +124,4 @@ Ensuite le roi dit à l’ermite :
 
 > Puisse ton cœur être heureux et ta fortune propice ! »
 
-Puis, il partit de ce sanctuaire pour la ville d’Aurigh, comme un éclair qui brille dans les nuages et les grands et tous les hommes considérables de la ville vinrent à sa rencontre.
+Puis, il partit de ce sanctuaire pour la ville d’Aurige, comme un éclair qui brille dans les nuages et les grands et tous les hommes considérables de la ville vinrent à sa rencontre.
