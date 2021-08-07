@@ -47,8 +47,7 @@ Buzurdjmihr regarda ce prince au cœur pur, au beau visage, qu’il interrogeait
 >
 > Si tu fais attention, tu peux espérer que la porte du ciel s’ouvre pour toi ; si je t’accable de questions, c’est pour obtenir un plus grand nombre de réponses ri.
 >
-> I A
-de celui à qui je parle.
+> I A de celui à qui je parle.
 >
 > Puisse le maître du monde t’inspirer, puisse ton intelligence briller et la fortune être ton soutien !
 >
