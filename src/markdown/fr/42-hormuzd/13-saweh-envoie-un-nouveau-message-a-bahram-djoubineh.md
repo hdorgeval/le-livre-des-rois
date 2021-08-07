@@ -44,7 +44,7 @@ lui dit :
 >
 > Si je fais avancer aman armée, elle empêchera les fourmis et les mou- !
 >
-> Chas de passer ; ensuite j’ai mille éléphants couverts d’armures, devant l’odeur desquels les sitevaux des cavaliers s’enfuiront.
+> Chas de passer ; ensuite j’ai mille éléphants couverts d’armures, devant l’odeur desquels les chevaux des cavaliers s’enfuiront.
 >
 > Qui, dans le Touran ou dans l’Iran, oserait se présenter devant moi espérant me mettre dans la peine par son arrivée ?
 >
