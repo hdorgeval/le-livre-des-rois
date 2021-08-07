@@ -28,7 +28,7 @@ Lorsqu’il apprit le sort de Pirouz, qui avait agi sans conseil et sans guide, 
 
 Souferaï disait sans cesse :
 
-> Comment Balasch , qui est si jeune, pourra-t-il entreprendre de venger le roi ?»
+> Comment Balasch, qui est si jeune, pourra-t-il entreprendre de venger le roi ? »
 
 Il savait que ce serait un effort inutile et que la couronne de la royauté avait perdu son éclat.
 
@@ -40,20 +40,22 @@ Il leur paya la solde et équipa cette armée et rendit heureux le cœur des hom
 
 Il appela un messager à la parole douce, intelligent, d’un esprit éveillé et d’une âme sereine.
 
-Le cœur blessé, plein de doule’ur, les yeux remplis de larmes de sang et les joues pâles, il écrivit une lettre dans laquelle il donna des conseils, tirés de l’histoire de Djemschid, de Keï-Khosrou et
+Le cœur blessé, plein de douleur, les yeux remplis de larmes de sang et les joues pâles, il écrivit une lettre dans laquelle il donna des conseils, tirés de l’histoire de Djemschid, de Keï-Khosrou et
 
 8â.
 de Keï-Kobad, l’envoya à Balasch et lui fit dire :
 
 > Ô roi !
+>
+> Ne te fais pas de soucis à cause de la mort.
+>
+> Chacun éprouvera cette douleur ; il faut être patient et avoir soin de son renom.
+>
+> Ce qui vient par le’vent s’en va par le souffle et l’un l’appelle de la justice, l’autre de l’oppression.
+>
+> Maintenant, si le roi le permet, je me prépare à la guerre avec mes hommes avides de combats, car le soleil et la lune crient du haut du ciel vengeance pour le sang de Pirouz. »
 
-Ne te fais pas de soucis à cause de la mort.
-
-Chacun éprouvera cette douleur ; il faut être patient et avoir soin de son renom.
-
-Ce qui vient par le’vent s’en va par le souille et l’un l’appelle de la justice, l’autrede l’oppression.
-
-Maintenant, si le roi le permet, je me prépare à la guerre avec mes hommes avides de combats, car le soleil et la lune crient du haut du ciel vengeance pour le sang de Pirouz. n Le messager prit la route d’un côté et de l’autre.
+Le messager prit la route d’un côté et de l’autre.
 
 Souferaï partit en pleurant ; il para son armée comme l’aile du faisan et marcha du Zaboulistan vers Merv.
 
@@ -73,17 +75,17 @@ Il choisit un homme à l’esprit éveillé et qui savait adoucir les cœurs par
 >
 > Tu as tué le maître innocent du monde, le petit-fils du roi Bahram, maître du monde, tu as fait naître une nouvelle vengeance sur la terre, une vengeance qui ne s’éteindra jamais.
 >
-> Pourquoi ne t’es-tu pas présenté devant lui, rampant comme un chien, quand tu as entendu le son de sestimbales ?
+> Pourquoi ne t’es-tu pas présenté devant lui, rampant comme un chien, quand tu as entendu le son de ses timbales ?
 >
-> Ton grand- père était un pauvre homme de cette domesticité, ton père se tenait. devant Bahram comme un ce clave.
+> Ton grand-père était un pauvre homme de cette domesticité, ton père se tenait. devant Bahram comme un ce clave.
 >
 > Me voici arrivé à Merv pour te combattre et je ne laisserai aux Heïtaliens rien de leurs richesses.
 >
-> Je réclame avec l’épée de la vengeance tes prison- niers et tout le butin est tombé entre tes mains sur le champ de bataille et j’emporterai à Merv la poussière du pays de Touran ; je ne laisserai pas le monde à tes fils, ni à ceux que tu as adoptés, ni à tes parents et alliés.
+> Je réclame avec l’épée de la vengeance tes prisonniers et tout le butin est tombé entre tes mains sur le champ de bataille et j’emporterai à Merv la poussière du pays de Touran ; je ne laisserai pas le monde à tes fils, ni à ceux que tu as adoptés, ni à tes parents et alliés.
 >
 > Si Dieu le permet, je le trancherai la tête et inonderai de sang ton pays.
 >
-> Tu périrassous les pieds de mon armée et les mânes de Pirouz imploreront contre toi la justice de Dieu.»
+> Tu périras sous les pieds de mon armée et les mânes de Pirouz imploreront contre toi la justice de Dieu. »
 
 , Le messager partit avec la lettre de Souferaï comme un vaillant lion ; il se présenta devant Khouschnewaz comme un homme hors de ses sens, s’avança qu’au trône, mais sans se prosterner et lui remit la lettre.
 
@@ -91,25 +93,27 @@ Les grands de l’armée quittèrent la salle et Khouschnewaz donna la lettre à
 
 Le scribe dit au roi :
 
-> Cette lettre est pleine d’épées, de massues et de flèches.»
+> Cette lettre est pleine d’épées, de massues et de flèches. »
 
-Le roi, qui avait livré bien des batailles, fut brisé par cette lettre éloquente de Souferaî et se mit à l’instant à répondre à tout ce qu’elle contenait de bon et de dur.
+Le roi, qui avait livré bien des batailles, fut brisé par cette lettre éloquente de Souferaï et se mit à l’instant à répondre à tout ce qu’elle contenait de bon et de dur.
 
-Il commença ainsi : Nous craignons Dieu le.créateur et l’instabilité du sort.
+Il commença ainsi :
 
-Quand on professe d’adorer Dieu, on
-
-Ne viole pas les traités faits par les rois.
-
-Or j’avais envoyé à Pirouz une lettre pleine de conseils, de plus, le traité du puissant roi Bahram, mais il n’a tenu aucun compte de ce que je disais et ne s’est pas souvenu de ces vieux temps.
-
-C’est lui qui apportait la guerre et je me défendais et lorsque les armées étaient en présence, les étoiles ont été indignées contre lui et c’est contre mon gré que ton roi a succombé.
-
-Il a violé la convention faite par des rois justes et depuis ce moment il n’a pas joui un instant de sa jeunesse.
-
-Dieu n’a pas approuvé ses actions et il était comme un homme que la terre aurait saisi par le pied.
-
-Quiconque manque aux engagements de ses aïeux et foule aux pieds la droiture, périra au jour du combat, comme Pirouz, dans un fossé plein de poussière et si tu viens, le même sort t’est préparé, car je ne manque ni de trésors ni d’hommes vaillants.»
+> Nous craignons Dieu le.créateur et l’instabilité du sort.
+>
+> Quand on professe d’adorer Dieu, on
+>
+> Ne viole pas les traités faits par les rois.
+>
+> Or j’avais envoyé à Pirouz une lettre pleine de conseils, de plus, le traité du puissant roi Bahram, mais il n’a tenu aucun compte de ce que je disais et ne s’est pas souvenu de ces vieux temps.
+>
+> C’est lui qui apportait la guerre et je me défendais et lorsque les armées étaient en présence, les étoiles ont été indignées contre lui et c’est contre mon gré que ton roi a succombé.
+>
+> Il a violé la convention faite par des rois justes et depuis ce moment il n’a pas joui un instant de sa jeunesse.
+>
+> Dieu n’a pas approuvé ses actions et il était comme un homme que la terre aurait saisi par le pied.
+>
+> Quiconque manque aux engagements de ses aïeux et foule aux pieds la droiture, périra au jour du combat, comme Pirouz, dans un fossé plein de poussière et si tu viens, le même sort t’est préparé, car je ne manque ni de trésors ni d’hommes vaillants. »
 
 Le messager partit en toute hâte avec la lettre et revint en sept jours auprès de Souferaï.
 
