@@ -26,7 +26,7 @@ Il se dit :
 
 Il traversa le bois en tout sens et jeta un coup d’œil dans toutes ses parties.
 
-Il aperçut un lion à travers lesarbres et tout en sachant que la véritable arme contreun lion était l’épée, le vaillant homme jeta à ce lion male un grand cri et banda son arc ; il !!
+Il aperçut un lion à travers les arbres et tout en sachant que la véritable arme contre un lion était l’épée, le vaillant homme jeta à ce lion male un grand cri et banda son arc ; il !!
 lança une flèche et lui perça le llano et le cœur.
 
 Le cœur de la lionne fut enflammé de rage contre Bahram ; elle s’élança vers lui en rugissant et posa ses griffes sur le corps du roi.
@@ -38,16 +38,16 @@ Son nom était Mihr Bendad ; il se réjouit de ce coup d’épée.
 
 C’était un cultivateur, adorateur de Dieu, qui avait sa demeure I dans cette forêt.
 
-Lorsqu’il l’ut arrivé auprès du roi
+Lorsqu’il fut arrivé auprès du roi
 -d’[ran, il le bénit et lui fit des salutations, disant :
 
 > Ô homme puissant et illustre, puisse l’étoile de la fortune t’être favorable !
 >
 > Je suis un cultivateur,ô homme aux intentions pures !
 >
-> Et le maître de cette terre, de ces champs et de cette maison ; je possède des bœufs, des ânes et des moutons ; mais a les lions m’efi’rayent et me ruinent.
+> Et le maître de cette terre, de ces champs et de cette maison ; je possède des bœufs, des ânes et des moutons ; mais a les lions m’effrayent et me ruinent.
 >
-> Maintenant que Dieu a mis cette affaire entre tes mains et l’a livrée à la poignée de ton épée et à l’anneau de ton arc, établis-toi pendant quelque temps dans notre forêt ; je t’apporterai du lait, du vin et du miel, puis il y Ira autant d’agneaux qu’il faut et des arbres qui donnent des fruits et de l’ombre.»
+> Maintenant que Dieu a mis cette affaire entre tes mains et l’a livrée à la poignée de ton épée et à l’anneau de ton arc, établis-toi pendant quelque temps dans notre forêt ; je t’apporterai du lait, du vin et du miel, puis il y Ira autant d’agneaux qu’il faut et des arbres qui donnent des fruits et de l’ombre. »
 
 Bahram descendit de cheval, regarda partout dans la forêt et trouva que la terre était pleine de verdure et d’eaux courantes, comme doit être le lieu où demeure un vaillant homme.
 
@@ -59,7 +59,7 @@ Le vin le rendit gai et il dit à Bahram :
 
 > Ô héros dont les traces sont fortunées !
 >
-> Sache que tu ressembles à un roi et à une lune de deux semaines à minuit.»
+> Sache que tu ressembles à un roi et à une lune de deux semaines à minuit. »
 
 Le roi répondit :
 
