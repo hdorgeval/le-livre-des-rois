@@ -383,7 +383,7 @@ Je suis de la race de l’illustre Ariseh ; quand je fais la guerre je suis un f
 
 Je suis le petit-fils de Gourguin, qui ambitionnait la possession du monde ; je suis la flamme ardente du feu de Berzin.
 
-Le roi Saweh ne voulait laisser dans l’Iran ni trône, ni sceau, ni diadème, il voulait raser jus- qu’à terre les temples du feu, ne laisser célébrer ni le jour du Naurouz ni la fête de Sedeh et tous les Iraniens furent des esclaves jusqu’à ce que j’eusse pris les armes pour ce pays.
+Le roi Saweh ne voulait laisser dans l’Iran ni trône, ni sceau, ni diadème, il voulait raser jusqu’à terre les temples du feu, ne laisser célébrer ni le jour du Naurouz ni la fête de Sedeh et tous les Iraniens furent des esclaves jusqu’à ce que j’eusse pris les armes pour ce pays.
 
 Si tu ne connais pas le nombre de ces maîtres insolents, va et compte jusqu’à quatre cent mille et douze cents’ éléphants de guerre ; on aurait dit que les chemins ne leur suffisaient pas.
 
