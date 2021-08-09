@@ -1,4 +1,5 @@
 import { syncFrSettingsFromVscode } from './create-ltex-fr-setting-for-stand-alone-ltex';
+import { execLtexChecker } from './exec-ltex';
 import {
   getDirectoriesRecursivelyIn,
   getFilesInDirectory,
@@ -6,7 +7,6 @@ import {
 } from '../../common/fs';
 import { PathLike, writeFileSync } from 'fs';
 import path from 'path';
-import { execSync } from 'child_process';
 
 export const createRulesFromLtex = (rootDirectory: PathLike): string[] => {
   const rules = [];
@@ -25,21 +25,6 @@ export const createRulesFromLtex = (rootDirectory: PathLike): string[] => {
     }
   }
   return rules;
-};
-
-export const execLtexChecker = (markdownFile: PathLike): PathLike | null => {
-  const command = path.join(process.cwd(), 'ltex-ls-12.4.0/bin/ltex-ls');
-  const args = `--input-documents=${markdownFile} --settings-file=${path.join(
-    process.cwd(),
-    'ltex-settings.fr.json',
-  )}`;
-  const logFile = path.join(process.cwd(), 'ltex-log.txt');
-  try {
-    execSync(`${command} ${args} > ${logFile}`, { stdio: 'inherit' });
-    return null;
-  } catch (error) {
-    return logFile;
-  }
 };
 
 export const processLog = (logFile: PathLike | null): string[] => {
