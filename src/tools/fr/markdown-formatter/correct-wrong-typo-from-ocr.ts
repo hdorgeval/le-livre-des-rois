@@ -1321,6 +1321,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/es’pour/, 'es pour'),
     (content: string) => content.replace(/genslà/, 'gens là'),
     (content: string) => content.replace(/êtresoumises/, 'être soumises'),
+    (content: string) => content.replace(/d’lskender/, 'd’Iskender'),
   ].forEach((format) => {
     result = format(result);
   });
