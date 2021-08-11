@@ -66,7 +66,7 @@ Il se retira avec son armée et l’envie de conquêtes disparut de son cœur.
 
 Lorsque Guraz apprit que le Kaïsar s’en retournait dans le Roum, son cœur se remplit de douleur, ses joues pâlirent, il choisit pour messager un cavalier parmi les plus braves et écrivit une lettre remplie de plaintes et de colère, disant :
 
-> a Pourquoi le -Kaïsar est-il devenu mécontent de moi ?
+> Pourquoi le -Kaïsar est-il devenu mécontent de moi ?
 >
 > Dis-moi pourquoi tu as quitté l’Iran, pourquoi tu as fait de moi un homme sans ressources dans le monde ?
 >
