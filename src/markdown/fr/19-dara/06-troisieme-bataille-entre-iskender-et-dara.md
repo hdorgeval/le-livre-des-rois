@@ -16,7 +16,7 @@ order: '006'
 
 # Troisième bataille entre Iskender et Dara
 
-Lorsque Iskender apprit ce que faisait Dara et qu’il était assis sur le trône, brillant comme le diadème sur (afflua de la lune, il fit sortir son armée de l’Iran et s’avança en invoquant le nom de Dieu en langue roumie ; son armée n’avait ni milieu ni fin, et la fortune n’était pas propice à Dara.
+Lorsque Iskender apprit ce que faisait Dara et qu’il était assis sur le trône, brillant comme le diadème sur (afflua de la lune, il fit sortir son armée de l’Iran et s’avança en invoquant le nom de Dieu en langue roumie ; son armée n’avait ni milieu ni fin et la fortune n’était pas propice à Dara.
 
 Le roi s’apprêta à aller à sa rencontre et amena d’Isthakhr une armée telle qu’on aurait cru que la terre ne pouvait la porter et que le ciel serait entravé dans son mouvement.
 
@@ -56,7 +56,7 @@ Dara dit :
 
 > Certainement c’est par notre faut que le ciel nous a traités si mal.
 >
-> Personne n’a jamais vu une défaite comme la nôtre, personne n’a entcndu raconter chose pareille d’après les anciens sages.
+> Personne n’a jamais vu une défaite comme la nôtre, personne n’a entendu raconter chose pareille d’après les anciens sages.
 >
 > Les femmes et les enfants des rois sont captifs, nos cœurs sont frappés par les astres, nos corps par les flèches.
 >
@@ -77,7 +77,7 @@ nous tous sommes blessés par les injures du sort.
 >
 > Nous ne pouvons plus tenir contre lsken-
 >
-> , der, nous ne pouvons plus lutter contre lui avec les armes ; nous n’avons d’autre ressource en face de lui que l’humilité ; car la couronne du pouvoir ne reste à personne et le ciel qui tourne passera aussi sur lui : c’est ce que sait tout homme de sens.
+>, der, nous ne pouvons plus lutter contre lui avec les armes ; nous n’avons d’autre ressource en face de lui que l’humilité ; car la couronne du pouvoir ne reste à personne et le ciel qui tourne passera aussi sur lui : c’est ce que sait tout homme de sens.
 >
 > Ofl’relni ta soumission et multiplie les paroles douces.
 >
