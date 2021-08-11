@@ -36,7 +36,7 @@ Il resta dans ce pays pendant quatre mois et pendant que lui et son armée se re
 
 Tous ses grands revinrent auprès de lui ; ils vinrent pleins de douleur et de chagrin cuisant.
 
-Les pères quine revoyaient plus leurs fils pleuraient et les filspleuraient quand ils ne retrouvaient pas leurs pères ; tout le pays d’Iran était rempli de lamentations et les larmes tombaient des yeux comme une I grêle.
+Les pères quine revoyaient plus leurs fils pleuraient et les fils pleuraient quand ils ne retrouvaient pas leurs pères ; tout le pays d’Iran était rempli de lamentations et les larmes tombaient des yeux comme une I grêle.
 
 De Djehrem il se dirigea sur Ithakhr, qui était la gloire du pays des Perses.
 
@@ -64,7 +64,7 @@ Il prononça ces paroles avec tristesse et semit à pleurer pendant longtemps, p
 >
 > Ces hommes étaient la proie du peuple puissant, ils tremblaient devant l’Iran ; aujourd’hui c’est nous qui sommes la proie et eux sont les léopards, c’est nous qui a fuyons dans chaque bataille.
 >
-> Serrez-vous fun contre l’autre et nous ressaisirons les provinces perdues, et si quelqu’un voulait reculer devant ce combat, il faudra qu’il lutte, ne fût-ce que pour l’amour de sa vie.
+> Serrez-vous fun contre l’autre et nous ressaisirons les provinces perdues et si quelqu’un voulait reculer devant ce combat, il faudra qu’il lutte, ne fût-ce que pour l’amour de sa vie.
 >
 > Sinon, n’espérez plus rien dans le monde, car le Roum est devenu Zohak et nous sommes Djemschid. »
 
@@ -72,11 +72,9 @@ Lllc dit en pleurant, le cœur plein de douleur, les joues pâles, les lèvres b
 
 Les grands, pleins de sagesse, se levèrent tous pour lui répondre et un immense cri d’angoisse ts’éleva de la salle d’audience :
 
-> Nous ne voulons pas du monde 
-(i
-sans le roi !
+> Nous ne voulons pas du monde (i sans le roi !
 >
-> Nous irons tous au combat ; nous rendrons la terre étroite pour nos ennemis ; nous lierons ensemble le pan de nos cottes de mailles, et nous. conquerrons ou une tombe ou l’empire. »
+> Nous irons tous au combat ; nous rendrons la terre étroite pour nos ennemis ; nous lierons ensemble le pan de nos cottes de mailles et nous. conquerrons ou une tombe ou l’empire. »
 
 Dara .
 distribua a ses troupes des armes et de l’argent, il en donna à tous les braves de son pays.
