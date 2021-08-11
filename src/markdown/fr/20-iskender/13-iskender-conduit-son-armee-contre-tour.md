@@ -33,9 +33,9 @@ Un soir, au moment où les troupes arrivèrent à la station, une foule se prés
 >
 > Ni Four l’lndien, ni Fagl’our le Chinois, ni le roi de Sind ne te font la guerre ; pourquoi faut-il que tu extermines ton armée dans ces pays sans valeur et sur des chemins pareils ?
 >
-> Nous ne voyons pas, dans toute l’armée, un cheval en bon état, sur lequel on pourrait combattre vaillamrrment ; et si l’armée revient jamais de ces batailles, ni les cavaliers ni les fantassins ne retrouveront leur chemin.
+> Nous ne voyons pas, dans toute l’armée, un cheval en bon état, sur lequel on pourrait combattre vaillamment ; et si l’armée revient jamais de ces batailles, ni les cavaliers ni les fantassins ne retrouveront leur chemin.
 >
-> Jusqu’ici nous avons été victorieux en tous lieux et sur tout ennemi ; mais aujourd’hui. nous n’avons devant nous que montagnes et mers, et pourtant nous ne sommes pas las de notre vie.
+> Jusqu’ici nous avons été victorieux en tous lieux et sur tout ennemi ; mais aujourd’hui. nous n’avons devant nous que montagnes et mers et pourtant nous ne sommes pas las de notre vie.
 >
 > Ne couvre pas de honte. notre nom, car personne ne combat l’eau et les pierres. »
 
@@ -57,16 +57,18 @@ Il leur dit :
 Le roi ayant ainsi exhalé sa colère, l’armée se mit àlui demander pardon, disant :
 
 > À Nous tous sommes les esclaves du Kaïsar, nous ne foulons la terre que par sa permission.
+>
+> Quand les chevaux seront perdus nous marcherons et l’armée combattra à pied ; si l’on convertit la terre en mer avec notre sang, si l’on convertit les vallées en montagnes avec nos corps, personne ne verra notre des au jour du combat, eussions-nous à lutter contre le ciel, contre les montagnes et les rochers.
+>
+> Nous tous sommes les esclaves, le commandement est à toi, comment pourrions-nous t’aflliger, puisque notre vie est à toi. »
 
-Quand les chevaux seront perdus nous marcherons et l’armée combattra à pied ; si l’on convertit la terre en mer avec notre sang, si l’on convertit les vallées en montagnes avec nos corps, personne ne verra notre des au jour du combat, eussions-nous à lutter contre le ciel, contre les montagnes et les rochers.
-
-Nous tous sommes les esclaves, le commandement est à toi, comment pourrions-nous t’aflliger, puisque notre vie est à toi. n Lorsque Iskender eut entendu ces paroles, il forma un nouveau plan de bataille.
+Lorsque Iskender eut entendu ces paroles, il forma un nouveau plan de bataille.
 
 Il choisit trente mille Iraniens bien armés, comprenant les alliés de Dura.
 
 Ses champions et tous ceux qui étaient de la race des Keïanides ; derrière eux il plaça les chefs des Roumis, couverts de cottes de mailles, des hommes braves et avides de combats, avec quarante mille cavaliers habitués à la guerre, qui suivaient les Iraniens.
 
-Après eux vinrent les chefs des Kbazars, tous les hommes connus, vaillants et illustres ; puis le Kaïsar choisit, parmi la foule innombrable des Arabes de Syrie, du Hedjaz et du Yemen, douze mille cavaliers, tous armés de lances, tous guerriers renommés, et cette armée qui le suivait devait faire ressembler à des montagnes les vallées et les plaines.
+Après eux vinrent les chefs des Kbazars, tous les hommes connus, vaillants et illustres ; puis le Kaïsar choisit, parmi la foule innombrable des Arabes de Syrie, du Hedjaz et du Yemen, douze mille cavaliers, tous armés de lances, tous guerriers renommés et cette armée qui le suivait devait faire ressembler à des montagnes les vallées et les plaines.
 
 Il amenait avec lui soixante astrologues et Mobeds, tous hommes d’expérience et sages illustres, pour faire des pronostics sur le sort des batailles.
 
@@ -77,7 +79,7 @@ Il réunit ses troupes sur une plaine que les éléphants faisaient ressembler �
 I .
 Icender, le roi du. monde ; ils lui dirent. 5 Il y a dans cette armée beaucoup d’éléphants qui rompront la ligne de tes cavaliers sur une étendue de deux milles ; les cavaliers n’oseront pas les attaquer et s’ils le font, ils ne reviendront pas, car les éléphants ont des trompes qu’ils élèvent jusqu’au ciel, l
 
-- ne et Saturne, du haut de sa sphère, les protégea Ils dessinèrent des éléphants sur du papier et les firent passer sous les yeux d’Iskender.
+-ne et Saturne, du haut de sa sphère, les protégea Ils dessinèrent des éléphants sur du papier et les firent passer sous les yeux d’Iskender.
 
 Le roi ordonna aux savants de lui faire un éléphant de cire, puis il dit :
 
@@ -89,7 +91,7 @@ Puis le roi rassembla des forgerons, tous ceux qui étaient à la tête de ces a
 
 Ils firent un cheval de guerre en fer, son cavalier était de fer et de fer la bride ; ils rattachèrent les jointures avec des clous et de la soudure de cuivre, polirent le cavalier et son cheval et les traînèrent sur des roues devant Iskender, après en avoir’ rempli et noirci tout l’intérieur avec du naphte.
 
-Iskender vit leur inven- tion et elle lui plut.
+Iskender vit leur invention et elle lui plut.
 
 Le roi intelligent sut en tirer parti et ordonna que l’on fabriquât en fer plus de mille chevaux et cavaliers semblables.
 
