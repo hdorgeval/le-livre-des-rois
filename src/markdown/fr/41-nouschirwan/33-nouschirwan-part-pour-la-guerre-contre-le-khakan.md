@@ -67,7 +67,7 @@ Il dit à son dévoué ministre :
 >
 > Puisque la guerre contre Kesra ne nous rapporterait que de la peine. il n’y a3
 >
-> a rien de mieux à faire que de dépenser nos trésors.
+> rien de mieux à faire que de dépenser nos trésors.
 >
 > L’or ne nous procure ni vêtements, ni nourriture, ni tapis. le jour où il faut se battre ; il faut qu’il donne d’abord de la sécurité ; puis viendront la nourriture, les beaux vêtements et les tapis.
 >
