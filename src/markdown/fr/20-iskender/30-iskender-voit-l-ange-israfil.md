@@ -42,6 +42,6 @@ Un autre dit :
 
 Les uns emportèrent des pierres, les autres n’en prirent pas, d’autres encore en prirent de petites, par paresse.
 
-Lorsqu’ils sortirent du pays de l’eau de la vie dans la plaine et qu’ils eurent quitté cette route ténébreuse, chacun tâcha de s’assurer de ce qu’il y avait de vrai dans tout cela et alors apparut le mensonge : le Sein de l’un se trouva rempli de grenats, celui d’un second d’autres pierres brutes ; ceux qui en avaient pris peu se repentirent d’avoir ainsi méprisé et laissé de côté des chrysoprases, et plus encore ceux qui n’avaient rien pris et avaient détourné la tête de ces joyaux précieux.
+Lorsqu’ils sortirent du pays de l’eau de la vie dans la plaine et qu’ils eurent quitté cette route ténébreuse, chacun tâcha de s’assurer de ce qu’il y avait de vrai dans tout cela et alors apparut le mensonge : le Sein de l’un se trouva rempli de grenats, celui d’un second d’autres pierres brutes ; ceux qui en avaient pris peu se repentirent d’avoir ainsi méprisé et laissé de côté des chrysoprases et plus encore ceux qui n’avaient rien pris et avaient détourné la tête de ces joyaux précieux.
 
 Iskender resta dans ce lieu pendant deux semaines, et, s’étant V reposé, remit en marche son armée.
