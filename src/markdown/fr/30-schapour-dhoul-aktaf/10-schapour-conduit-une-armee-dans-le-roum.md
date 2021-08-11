@@ -42,7 +42,7 @@ Des nuages s’éleverent et la poussière noire devint telle que les yeux s’�
 
 Schapour s’avança du centre de son armée, il appela de la droite et de la gauche ses fidèles amis ; lui et les grands excitèrent leurs chevaux, la terre trembla et l’armée s’ébranle.
 
-Il fit une attaque générale contre les Roumis ; les puissants et les faibles étaient égaux pour lui et Janus. reconnaissant qu’il ne pouvait lui résister, se retourna pour fuir ; le vaillant Schapour se précipita à sa pour- suite et la poussière qu’il faisait lever ôta à l’air sa transparence.
+Il fit une attaque générale contre les Roumis ; les puissants et les faibles étaient égaux pour lui et Janus. reconnaissant qu’il ne pouvait lui résister, se retourna pour fuir ; le vaillant Schapour se précipita à sa poursuite et la poussière qu’il faisait lever ôta à l’air sa transparence.
 
 Partout il laissa des amas de morts, partout il souilla la terre avec les cervelles des Roumis ; il tua tant d’liommes de cette armée que toute la plaine était couverte, de têtes privées de leurs -membres et de leurs troncs.
 
