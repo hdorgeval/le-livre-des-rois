@@ -40,9 +40,9 @@ Celui qui me parlait, homme de sens et puissant, lui donnait le nom de l’eau d
 >
 > Cette source sort du paradis ; si tu y baignes ton corps, tes péchés disparaissent. »
 
-Is- kender demanda :
+Iskender demanda :
 
-> Comment les chevaux peuvent- ils aller dans ce pays sombre ? »
+> Comment les chevaux peuvent-ils aller dans ce pays sombre ? »
 
 L’adorateur de Dieu répondit :
 
