@@ -69,7 +69,7 @@ Le roi du monde lui répondit :
 
 > Tughri s’est. envolé aujourd’hui, mon cœur est en angoisses pour ce chasseur d’oiseaux et j’ai suivi le bruit de ses clochettes. n-Berzin lui dit :
 
-> a Je viens d’apercevoir un oiseau noir avec des clochettes d’or, le corps et les griffes noires comme de la poix et le bec jaune comme du curcuma ; il est allé s’abattre sur ce noyer et par l’effet de la fortune tu le retrouveras v. f1 il
+> Je viens d’apercevoir un oiseau noir avec des clochettes d’or, le corps et les griffes noires comme de la poix et le bec jaune comme du curcuma ; il est allé s’abattre sur ce noyer et par l’effet de la fortune tu le retrouveras v. f1 il
 
 [
 dans un ins’lautm Le roi ordonna sur-le-champ à un esclave d’aller examiner de tous côtés le noyer ; cet homme y courut comme le vent et s’écria :
