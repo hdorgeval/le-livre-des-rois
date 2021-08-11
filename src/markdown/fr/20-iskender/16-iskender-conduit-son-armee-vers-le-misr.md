@@ -20,14 +20,14 @@ Le roi emmena son armée de ce lieu, se rendit à Djuddah et yvresta longtemps ;
 
 Keïthoun était alors roi du Misr et le nombre de ses troupes dépassait l’imagination.
 
-Lors- qu’il apprit qu’il arrivait de la Mecque un conquérant fier et victorieux, il alla à sa rencontre avec un cor-. ’ tége nombreux, emmenant avec lui des esclaves, des caisses remplies d’or, une couronne et un trône.
+Lorsqu’il apprit qu’il arrivait de la Mecque un conquérant fier et victorieux, il alla à sa rencontre avec un cor-. ’ tége nombreux, emmenant avec lui des esclaves, des caisses remplies d’or, une couronne et un trône.
 
-Iskender fut heureux de le voir et ne fit aucuneattention aux paroles des ennemis de Keïthoun.
+Iskender fut heureux de le voir et ne fit aucune attention aux paroles des ennemis de Keïthoun.
 
 Il resta dans le Misr pendant une année, jusqu’à ce que lui et son armée fussent reposés. ’
 Or le pays d’Andalous était gouverné alors par une reine, une femme intelligente et ayant une armée innombrable ; elle était ambitieuse et généreuse, son nom était Keïdafeh ; la fortune lui avait donné la gloire et tout ce qu’elle désirait.
 
-Elle choisit parmi ses troupes un cavalier qui savait dessiner et reproduire exactement la ressemblance d’une figure, et lui dit :
+Elle choisit parmi ses troupes un cavalier qui savait dessiner et reproduire exactement la ressemblance d’une figure et lui dit :
 
 > Rends-toi auprès d’Iskender, mais ne prononce ni mon nom ni celui de ce pays.
 >
@@ -37,8 +37,7 @@ Le peintre l’écoute et monta à cheval, prêt à exécuter les ordres de la r
 
 Il alla d’Andalous au Misr, rapidement comme un courrier, auprès du noble Kaïsar Iskender et aussi souvent qu’il le vit, soit assis sur le trône, soit à cheval, il prit du papier et de l’encre. de Chine, en fit le portrait tel qu’il était et puis reparliten toute hâte.
 
-Lorsque Keïdafeh vit l’image d’lskender, 13. 
- elle devint inquiète et la cacha en soupirant, disant nielle-même .-Cet homme foulera aux pieds le monde à l’aide de ses armes et de son intelligence, et quiconque se présentera devant lui pour le com- battre ne jouira pas d’une longue vie sur la terre. »
+Lorsque Keïdafeh vit l’image d’Iskender, . elle devint inquiète et la cacha en soupirant, disant nielle-même .-Cet homme foulera aux pieds le monde à l’aide de ses armes et de son intelligence et quiconque se présentera devant lui pour le combattre ne jouira pas d’une longue vie sur la terre. »
 
 Cependant Iskender demanda à Keïthoun :
 
@@ -54,6 +53,6 @@ Tu ne verras personne dans le monde qui lui soit comparable en richesses, ’ en
 
 La ville qu’elle a bâtie en pierre et qu’un léopard :
 
-> ne parviendrait r : pas à lui arracher, est longue de quatre farsangs, et sa largeur est de même étendue.
+> ne parviendrait pas à lui arracher, est longue de quatre farsangs et sa largeur est de même étendue.
 >
-> Si tu demandes le montant de ses trésors, il dépasse toute mesure. et il y a longtemps qu’il en est question dans le monde. »
+> Si tu demandes le montant de ses trésors, il dépasse toute mesure et il y a longtemps qu’il en est question dans le monde. »
