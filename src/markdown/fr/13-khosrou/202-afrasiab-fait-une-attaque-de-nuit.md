@@ -87,7 +87,7 @@ Afrasiab regarda consterné, il vit paraître le brillant drapeau violet de Khos
 
 Il abandonna son armée rangée on Q
 
-H7 bataille, lui et les grandS’du Touran s’eul’uirent ; il emmena mille hommes vaillants de ses alliés, des . hommes propres au combat et chercha à travers la campagne la route du désert, sauvant sa vie des mains de ses ennemis en fatiguant son corps.
+H7 bataille, lui et les grandS’du Touran s’enfuirent ; il emmena mille hommes vaillants de ses alliés, des . hommes propres au combat et chercha à travers la campagne la route du désert, sauvant sa vie des mains de ses ennemis en fatiguant son corps.
 
 Khosrou chercha son grand-père dans les rangs de l’armée, il se précipita vers le centre des Turcs, pressant son cheval avec ’étrier et se hâtant, mais il ne vit pas une trace d’Afrasiab.
 
