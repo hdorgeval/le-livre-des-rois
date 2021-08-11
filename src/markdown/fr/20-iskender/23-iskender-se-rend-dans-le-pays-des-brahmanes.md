@@ -41,7 +41,7 @@ Les religieux, à cette nouvelle, allèrent tous ensemble à sa rencontre, appor
 
 Tous prononcèrent des bénédictions sur le roi magnanime de la terre.
 
-Iskender regarda les Brahmanes et écouta leurs acclamations ; il oit qu’ils marchaient le corps, la tête et les pieds nus, qu’ils ne portaient rien sur leurs corps, mais que leurs âmes portaient : lesfruits de la sagesse ; que leurs vêtements consistaient en feuilles d’herbes, leur nourriture on graines sauvages ; que les festins et les jours de bataille leur étaient inconnus ; qu’ils mangeaient, dormaient et demeuraient dans les montagnes et les déserts, se réunissant en troupes nues en tout lieu ; que toute leur nourriture était les fruits des arbres et les graines des plantes qui poussaient dans la montagne ; que le pays était plein de gibier, mais que les herbes étaient \* leur nourriture et l’air leur vêtement.
+Iskender regarda les Brahmanes et écouta leurs acclamations ; il oit qu’ils marchaient le corps, la tête et les pieds nus, qu’ils ne portaient rien sur leurs corps, mais que leurs âmes portaient : les fruits de la sagesse ; que leurs vêtements consistaient en feuilles d’herbes, leur nourriture on graines sauvages ; que les festins et les jours de bataille leur étaient inconnus ; qu’ils mangeaient, dormaient et demeuraient dans les montagnes et les déserts, se réunissant en troupes nues en tout lieu ; que toute leur nourriture était les fruits des arbres et les graines des plantes qui poussaient dans la montagne ; que le pays était plein de gibier, mais que les herbes étaient \* leur nourriture et l’air leur vêtement.
 
 Iskender demanda :
 
@@ -65,7 +65,7 @@ La terre est notre : couche, notre vêtement l’air du ciel et nous tenons nos 
 
 L’ambitieux se donne bien de la peine pour une chose qui ne vaut pas cet effort, car quand il quitte ce séjour passager, il laisse derrière lui sa couronne et son trésor.
 
-Sache qu’il ne sera accompagné que par ses bonnes œuvres , et que sa tête et son trône resteront dans la. pous-
+Sache qu’il ne sera accompagné que par ses bonnes œuvres et que sa tête et son trône resteront dans la. pous-
 
 Ce sière. w Iskender demanda :
 
@@ -99,9 +99,9 @@ Il demanda :
 >
 > Si tu veux le bien connaître, avant tout, regarde-toi.
 >
-> La terre t’est soumise, on dirait que le ciel qui tourne est ton pa- rent ; tu en voudrais davantage ; mais peux-tu sauver ta cervelle de la poussière noire ?
+> La terre t’est soumise, on dirait que le ciel qui tourne est ton parent ; tu en voudrais davantage ; mais peux-tu sauver ta cervelle de la poussière noire ?
 >
-> L’avidité est l’enfer de ton âme ; espérons que mes paroles te feront re- venir sur tes penchants. »
+> L’avidité est l’enfer de ton âme ; espérons que mes paroles te feront revenir sur tes penchants. »
 
 Ensuite, il demanda :
 
@@ -129,7 +129,7 @@ Le puissant roi leur demanda :
 
 > De quoi avez-vous besoin de ma part ?
 >
-> Je ne ménagerai pas mes trésors pour vous, et jamais je n’hésiterai à subir des fatigues pour votre bien. »
+> Je ne ménagerai pas mes trésors pour vous et jamais je n’hésiterai à subir des fatigues pour votre bien. »
 
 L’un d’eux répondit :
 
@@ -165,7 +165,7 @@ Les cheveux blancs sont les messagers de la mort :
 
 Le roi au cœur éveillé leur dit :
 
-> Si un serviteur de Dieu, par la grâce du Créa- teur, a échappé à mes guerres, il aura péri de même par les dispositions du ciel qui tourne ; car ni le sage ni le guerrier ne peuvent échapper à leur des-’ tinéepar leurs efforts.
+> Si un serviteur de Dieu, par la grâce du Créateur, a échappé à mes guerres, il aura péri de même par les dispositions du ciel qui tourne ; car ni le sage ni le guerrier ne peuvent échapper à leur des-’ tinéepar leurs efforts.
 >
 > Ensuite ceux qui ont péri dans mes guerres, ou dont les astres ont abrégé les jours, ont été dignes de leur sort par la peine qu’il : ont à d’autres et par le sang qu’ils ont versé
 (car l’homme injuste n’échappe pas) et ils ont été frappés par la justice de Dieu quand ils ont quitté la voie de la raison.
