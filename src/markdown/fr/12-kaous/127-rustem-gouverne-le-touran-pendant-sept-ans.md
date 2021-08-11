@@ -68,7 +68,7 @@ H joyaux et lui fit dire :
 ’
 On apprit à la Chine et dans le Madjin que Rustem s’était assis sur le trône du roi des rois ; tous les grands préparèrent des offrandes et des présents d’argent et de joyaux dignes d’un roi et les lui apportèrent, en disant :
 
-> a Nous sommes tes serviteurs et tes esclaves et ne vivons que par ta permission. »
+> Nous sommes tes serviteurs et tes esclaves et ne vivons que par ta permission. »
 
 Le Sipehbed voyant combien leur esprit était prudent, leur fit grâce de la vie.
 
