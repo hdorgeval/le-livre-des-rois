@@ -52,7 +52,7 @@ La nouvelle du retour victorieux de Guiv qui illuminait le monde arriva dans le 
 
 A ,Insuite il envoya Banougouschasp qui ressemblait à Aderguschasp, pour porter à Guiv des présents,accompagnée de douze cents grands de haut renom.Il lui donna un trône, de pesantes couronnes et trois cent soixante esclaves, dont chacun portait à la main une coupe d’or.
 
-La princesse ’quitta son père et courut à la rencontre de Guiv, comme un oiseau qui vole à tired’aile.
+La princesse ’quitta son père et courut à la rencontre de Guiv, comme un oiseau qui vole à tire-d’aile.
 
 Guiv l’envoya à Ispahan et elle répandit sa gloire dans le monde entier.
 
