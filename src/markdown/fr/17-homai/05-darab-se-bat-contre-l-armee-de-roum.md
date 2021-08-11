@@ -24,17 +24,19 @@ Le commandant de cette frontière s’avança de son côté, les troupes des deu
 
 Darab, voyant cette grande armée,,s’élança comme un loup et tua tant d’hommes. de l’armée de Roum qu’on aurait dit que le ciel tenait en main une épée.
 
-Il continua à frapper comme un lion, un crocodile dans la main, un dragon sous lui, jusqu’à ce qu’il eût pénétré dans le camp des Roumis, semblable à un lion furieux, couvrant la terre’d’une mer de sang ennemi , et ne suivant, dans
+Il continua à frapper comme un lion, un crocodile dans la main, un dragon sous lui, jusqu’à ce qu’il eût pénétré dans le camp des Roumis, semblable à un lion furieux, couvrant la terre’d’une mer de sang ennemi et ne suivant, dans
 
 Son ambition, d’autre guide que son épée.
 
 Il revint victorieux auprès du chef de l’armée qui portait haut la tête et fut couvert de bénédictions par Beschnewad, qui lui dit :
 
 > Puisse l’armée de la reine R n’être jamais privée de toi !
+>
+> Quand nous reviendrons de cette guerre contre le Roum et que l’armée rentrera dans notre pays, tu recevras de la reine de grandes récompenses en chevaux et en trésors, en trônes et en casques. »
 
-Quand nous reviendrons de cette guerre contre le Roum et que l’armée rentrera dans notre pays, tu recevras de la reine de grandes récompenses en chevaux et en trésors, en trônes et en casques. n L’armée passa toute la nuit à se. préparer au combat et à fourbir les armures des cavaliers.
+L’armée passa toute la nuit à se. préparer au combat et à fourbir les armures des cavaliers.
 
-Lorsque le soleil avança la tête au-dessus des sombres hauteurs, et que la terre fut devenue comme un flambeau brillant, les deux armées s’avancèrent, la.poussière obscurcit le soleil lumineux ; Darab s’élança et attaqua l’ennemi, en abandonnant les rênes à son cheval ardent ; il ne laissa en vie aucun de ceux qui sortaient des rangs des Roumis ; il laissa en vie peu de braves qui frappaient avec l’épée ; il pénétra dans le centre de l’ennemi comme un loup et dispersa cette grande armée ; ensuite il se tournavers l’aile droite et en rapporta beaucoup d’armures et de butin ; il rompit tous les rangs des Roumis et aucun de leurs héros ne retrouvait son ancien courage.
+Lorsque le soleil avança la tête au-dessus des sombres hauteurs et que la terre fut devenue comme un flambeau brillant, les deux armées s’avancèrent, la.poussière obscurcit le soleil lumineux ; Darab s’élança et attaqua l’ennemi, en abandonnant les rênes à son cheval ardent ; il ne laissa en vie aucun de ceux qui sortaient des rangs des Roumis ; il laissa en vie peu de braves qui frappaient avec l’épée ; il pénétra dans le centre de l’ennemi comme un loup et dispersa cette grande armée ; ensuite il se tourna vers l’aile droite et en rapporta beaucoup d’armures et de butin ; il rompit tous les rangs des Roumis et aucun de leurs héros ne retrouvait son ancien courage.
 
 Les braves de l’Iran se précipitèrent vaillamment, comme des lions, sur ses traces et ils tuèrent tant de Roumis, que le sang convertit en boue la poussière du champ de bataille.
 
@@ -49,11 +51,11 @@ Le Sipehbed se reposa dans le camp des Roumis et déboutonna son armure ; il dis
 
 Il envoya quelqu’un auprès de Darab avec ce message :
 
-> Ô homme au cœur de lion, toujours secourable, vois ce qui te plaît et ce, qui peut t’être utile parmi ces trésors ; garde ce que tu en désires et distribue le reste selon l’impulsion de ton cœur ; distribue tout ce qui ne te convient pas, ô toi qui es plus illustre que n’était le maître de Baksch ! »
+> Ô homme au cœur de lion, toujours secourable, vois ce qui te plaît et ce, qui peut t’être utile parmi ces trésors ; garde ce que tu en désires et distribue le reste selon l’impulsion de ton cœur ; distribue tout ce qui ne te convient pas, ô toi qui es plus illustre que n’était le maître de Raksch ! »
 
 Darab fut heureux de ce message ; il choisit une lance, à cause de l’honneur et renvoya tout le reste à Beschnewad en lui faisant dire : Puisses-tu être content et victorieux ! »
 
-Lorsque la face du soleil eut fait place aux ténèbresdu côté du couchant, que le ciel eut revêtu sa robe de brocart noir et qu’une garde de la nuit sombre fut passée, Reschnewad fit traverser par des rondes toute la plaine ; les, cris des sentinelles éclataient comme des tremblement de terre,ret les lions V.
+Lorsque la face du soleil eut fait place aux ténèbres du côté du couchant, que le ciel eut revêtu sa robe de brocart noir et qu’une garde de la nuit sombre fut passée, Reschnewad fit traverser par des rondes toute la plaine ; les, cris des sentinelles éclataient comme des tremblement de terre,ret les lions V.
 
 Il
 
