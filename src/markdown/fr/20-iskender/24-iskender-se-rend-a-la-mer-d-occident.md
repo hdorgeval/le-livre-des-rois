@@ -34,16 +34,17 @@ Un des philosophes. qui accompagnaient le roi lui dit :
 
 Trente hommes, tant Roumis que Perses, s’assirent dans la barque ; mais la petite montagne était un poisson jaune, qui, au moment où l’équipage s’approchait de lui, entraîna, par un mouvement vif, la barque sous l’eau et la montagne disparut sous les ondes.
 
-Iskender et son armée furent stupéfaits, et chacun prononça le nom de Dieu.
+Iskender et son armée furent stupéfaits et chacun prononça le nom de Dieu.
 
 Le Roumi dit à Iskender :
 
 > Ce qu’il y a de mieux est la science, car c’est par elle que le sage est roi parmi les rois.
 >
-> Si tu étais parti et avais péri, le cœur de toute cette armée serait gonflé de sang.n Il fit partir l’armée de ce lieu et arriva à un nouveau lac entouré de roseaux semblables à des arbres ;.
+> Si tu étais parti et avais péri, le cœur de toute cette armée serait gonflé de sang. »
+
+Il fit partir l’armée de ce lieu et arriva à un nouveau lac entouré de roseaux semblables à des arbres ;.
 >
-> 
-on aurait dit que c’étaient de gros troncs de platanes.
+> on aurait dit que c’étaient de gros troncs de platanes.
 >
 > Ils étaient épais de plus de deux coudées et la mesure de leur hauteur était de quarante coudées.
 >
@@ -63,7 +64,7 @@ on aurait dit que c’étaient de gros troncs de platanes.
 >
 > Ils formaient une armée lût d’hommes grands et forts, nus de corps, puissants de muscles et de taille.
 >
-> Lorsqu’ils virent de loin la poussière de l’ennemi, ils poussèrent des cris qui s’élevaient au-dessus des nuages sombres ; ils avaient réuni une masse de milliers de milliers d’hommes, et les yeux du roi s’obscurcirent en les voyant.
+> Lorsqu’ils virent de loin la poussière de l’ennemi, ils poussèrent des cris qui s’élevaient au-dessus des nuages sombres ; ils avaient réuni une masse de milliers de milliers d’hommes et les yeux du roi s’obscurcirent en les voyant.
 >
 > Ils se dirigèrent vers Iskender et tuèrent un grand nombre de ses guerriers ; ils avaient des os en guise de javelots et les lancèrent suries hommes.
 >
