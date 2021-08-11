@@ -16,11 +16,11 @@ order: '003'
 
 # Faramourz combat Bahman et perd la vie
 
-Faramourz reçut ces nouvelles à la frontière de Bosl ; il s’affligea et se prépara à venger son grand-père.
+Faramourz reçut ces nouvelles à la frontière de Bos ! ; il s’affligea et se prépara à venger son grand-père.
 
 Il. rassembla une armée et se mit en route contre Bahman, parlant sans cesse des combats que Rustem avait livrés.
 
-Lorsque Bahman apprit cette marche, il en fut troublé sur son trône impérial ; il fit préparer les bagages, fit monter à cheval ses troupes, et 7 marcha pendant deux semaines, jour et nuit.
+Lorsque Bahman apprit cette marche, il en fut troublé sur son trône impérial ; il fit préparer les bagages, fit monter à cheval ses troupes et 7 marcha pendant deux semaines, jour et nuit.
 
 Le bruit des clairons et des clochettes fit trembler le cœur des montagnes, le ciel noircit la face du monde comme du bitume et les flèches tombaient de ces ténèbres comme une grêle.Les coups de hache et les frémissements des arcs rendaient la terre plus agitée que le ciel.
 
@@ -30,7 +30,7 @@ Des hommes de Best, de l’armée du Zaboulistan et des braves de Kaboul, accout
 
 Tout le champ de bataille n’était que des montagnes de morts des deux armées, jetés les uns sur les autres.
 
-Faramourz, avec quelques hommes avides de I combats, tenait bravement tète ; tout son corps était couvert de blessures faites par l’épée, car c’était un fils de lion et un lion lui-même.
+Faramourz, avec quelques hommes avides de I combats, tenait bravement tête ; tout son corps était couvert de blessures faites par l’épée, car c’était un fils de lion et un lion lui-même.
 
 Il savait que ce il.
 
