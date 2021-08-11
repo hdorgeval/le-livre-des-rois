@@ -22,7 +22,7 @@ Lorsqu’il s’en retourna joyeusement à la ville avec son cortège, la nuit v
 
 Il vit briller de loin un grand feu comme ceux que le roi fait à la fête de Bahman (janvier).
 
-Bahram regarda cette clarté ; il’aperçut d’un côté un beau village, au-devant duquel il vit un moulin on étaient assis en groupes les chefs du village ; de l’autre côté du feu étaient toutes les jeunes filles qui avaient arrangé un lieu de fête à part ;-chacune avait une couronne de fleurs sur la tête et partout étaient assis des musiciens : elles chantaient toutes des chansons sur les combats du roi et tour à tour chacune d’elles en commençait une nouvelle.
+Bahram regarda cette clarté ; Il aperçut d’un côté un beau village, au-devant duquel il vit un moulin on étaient assis en groupes les chefs du village ; de l’autre côté du feu étaient toutes les jeunes filles qui avaient arrangé un lieu de fête à part ;-chacune avait une couronne de fleurs sur la tête et partout étaient assis des musiciens : elles chantaient toutes des chansons sur les combats du roi et tour à tour chacune d’elles en commençait une nouvelle.
 
 Toutes avaient des visages de lune et des cheveux bouclés, toutes avaient la parole douce et exhalaient un parfum de musc.
 
