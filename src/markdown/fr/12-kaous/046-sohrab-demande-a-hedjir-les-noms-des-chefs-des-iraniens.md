@@ -25,7 +25,7 @@ il pût voir l’armée des Iraniens.
 
 Il fit venir Hedjir auprès de lui et lui dit :
 
-> N’essaye pas de me tromh per ; en toute chose agis avec droiture, si tu ne veux que le mailleur te frappe.
+> N’essaye pas de me tromper ; en toute chose agis avec droiture, si tu ne veux que le mailleur te frappe.
 >
 > Réponds selon la vérité à toutes mes questions ; ne mens pas et ne te sers pas de ruse.
 >
