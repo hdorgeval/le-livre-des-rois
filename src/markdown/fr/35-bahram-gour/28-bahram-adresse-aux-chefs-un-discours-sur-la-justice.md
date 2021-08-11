@@ -61,7 +61,7 @@ sont ces grands et ces princes heureux, ces cavatiers et ces hommes qui portaien
 >
 > d’un gibet.
 >
-> Si un voleur emporte, quand quelques veilles de la nuit sontpassées, un cément en feutre à un pauvre, j’indemniserai le pauvre en pièces d’or de mon trésor, je délivrerai de leur souci les âmes des affligés et si on enlève des moutons d’un troupeau, soit pendant la nuit noire, soit pendant un jour de vent et de neige, je donnerai pour indemnité un cheval de prix et à Dieu ne plaise que j’en demande des remercîments.
+> Si un voleur emporte, quand quelques veilles de la nuit sontpassées, un cément en feutre à un pauvre, j’indemniserai le pauvre en pièces d’or de mon trésor, je délivrerai de leur souci les âmes des affligés et si on enlève des moutons d’un troupeau, soit pendant la nuit noire, soit pendant un jour de vent et de neige, je donnerai pour indemnité un cheval de prix et à Dieu ne plaise que j’en demande des remerciements.
 >
 > Quand on livrera bataille à l’ennemi et qu’un cavalier sera blessé, je lui enverrai en dirhems royaux une année de solde et ne laisserai pas dans la détresse -ses enfants.
 >
