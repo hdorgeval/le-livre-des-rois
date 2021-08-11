@@ -29,7 +29,7 @@ Il réunit une armée, occupa la forteresse, sur le haut des murailles de laquel
 
 Iskender fit amener par les ingénieurs des baassenons. listes et des catapultes et prit en une semaine la puissante forteresse.
 
-Sa noble armée occupa la ville, et Iskender, en entrant dans la place, ordonna que personne ne versât plus de sang.
+Sa noble armée occupa la ville et Iskender, en entrant dans la place, ordonna que personne ne versât plus de sang.
 
 Or il y avait dans la ville un fils de Keïdafeh, gendre et favori de Feryan, qui lui avait donné sa noble fille et Keïdafeh lui avait conféré un rang élevé.
 
@@ -87,14 +87,13 @@ J’étais parti pour la reconduire dans mon palais et en avoir soin comme de ma
 
 Bithekoun se troubla, son cœur se gonfla de sang ; il se mit en colère et dit à l’exécuteur des hautes œuvres :
 
-> Il faut que la terre couvre ces deux êtres, 
- et, enchaînés comme ils le sont, tu couperas le cou avec ton épée indienne au mari et à la femme. »
+> Il faut que la terre couvre ces deux êtres, et, enchaînés comme ils le sont, tu couperas le cou avec ton épée indienne au mari et à la femme. »
 
 Iskender s’approcha, baisa’la terre et lui dit :
 
 > Ô roi, descendant des Kaïsars !
 >
-> Ne voudrais-tu pas m’accorder leur grâce, cela élèverait ma tête au- dessus de tout le peuple ?
+> Ne voudrais-tu pas m’accorder leur grâce, cela élèverait ma tête au-dessus de tout le peuple ?
 >
 > Pourquoi couperais-tu en colère la tête d’un innocent ?
 >
@@ -110,7 +109,7 @@ Et se tournant vivement vers Keïderousch, il lui dit :
 >
 > Je vais maintenant envoyer ton sauveur avec toi ; il expliquera à ta mère tout ce que j’ai à lui dire.
 >
-> Si elle veut me faire parvenir sontribut, ce sera bien, et la peau de personne ne se fendra depeur de la guerre que je lui ferais.
+> Si elle veut me faire parvenir son tribut, ce sera bien et la peau de personne ne se fendra depeur de la guerre que je lui ferais.
 >
 > Aie soin de mon bienveillant Destour, qui donnera à ta mère le choix entre une lutte ou des fêtes ; agis envers lui comme il a agi envers toi, car le cœur d’un homme noble sent le besoin de s’acquitter.
 >
