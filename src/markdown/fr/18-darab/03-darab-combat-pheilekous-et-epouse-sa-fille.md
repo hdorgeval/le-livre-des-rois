@@ -27,7 +27,7 @@ Lorsque Darab arriva, les. grands de Roum abandonnèrent toute cette frontière 
 
 Deux grandes batailles furent livrées en trois jours ; mais le quatrième jour, lorsque l’astre qui illumine le monde commença à briller, Pheïlekous et son armée s’enfuirent, abandonnant leurs casques et leurs morions roumis.
 
-On emmena en captivité leurs femmes et leurs enfants, et l’on tua un grand nombre d’hommes avec l’épée et les flèches.
+On emmena en captivité leurs femmes et leurs enfants et l’on tua un grand nombre d’hommes avec l’épée et les flèches.
 
 Lorsqu’ils arrivèrent à la ville, fuyant devant Darab, ils ne formaient plus que deux tiers de l’armée qui était partie, les autres étaient morts ou blessés ; leurs lances étaient liées sur leurs dos.
 
@@ -71,9 +71,9 @@ Le roi fit appeler le messager roumi et lui dit ce qu’il avait appris de ses a
 
 > Voici comment tu peux sauver ton honneur.
 >
-> Tu as, dans l’appartement de tes femmes, une fille qui est le diadème sur le front des reines, c’est une image que tu appelles Nahid, que tu places sur un trône d’or ; envoie-la-moi avec le tribut de Roum, si tu veux rester dans la pos- session tranquille de ton pays. a»
+> Tu as, dans l’appartement de tes femmes, une fille qui est le diadème sur le front des reines, c’est une image que tu appelles Nahid, que tu places sur un trône d’or ; envoie-la-moi avec le tribut de Roum, si tu veux rester dans la possession tranquille de ton pays. a»
 
-Le messager écouta, et partit rapidement comme le vent ; il rapporta au Kaïsar ces paroles et Pheïlekous et son armée furent heureux de ce qu’il trouvait un gendre comme le roi.
+Le messager écouta et partit rapidement comme le vent ; il rapporta au Kaïsar ces paroles et Pheïlekous et son armée furent heureux de ce qu’il trouvait un gendre comme le roi.
 
 On débattit longuement le tribut et ce que le Roum pouvait supporter.
 
@@ -83,8 +83,7 @@ Pheïlekous distribua libéralement des joyaux aux gouverneurs des provinces du 
 
 Ensuite, il ordonna aux savants et à tous les propriétaires de cette frontière de faire une route, en négligeant toute aure affaire.
 
-Les grands, chacun portant son offrande, partirent avec la fille du roi ; on avait préparé une litière d’or, 
- .8 et choisi des esclaves dignes elles-mêmes de porter un diadème ; il y avait dix chameaux chargés de broo caris de Roum brodés de pierreries et d’or pur et trois cents chargés de tapis et de ce qu’il fallait emporter’pour le voyage.
+Les grands, chacun portant son offrande, partirent avec la fille du roi ; on avait préparé une litière d’or, .8 et choisi des esclaves dignes elles-mêmes de porter un diadème ; il y avait dix chameaux chargés de broo caris de Roum brodés de pierreries et d’or pur et trois cents chargés de tapis et de ce qu’il fallait emporter’pour le voyage.
 
 La belle Roumie était dans la litière et un évêque et des prêtres lui servaient de guides.
 
