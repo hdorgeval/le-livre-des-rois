@@ -28,40 +28,42 @@ Cupé uniquement de frivolités, a appris mes hauts a faits et jusqu’où j’a
 
 Je ne veux pas qu’il y ait un lieu dans le monde dont l’aspect me soit inconnu et si je viens parmi vous, ce n’est pas pour vous combattre, car mon âme est pleine de paix et du désir de fêtes.
 
-Si vous possédez un homme savant, intelligent, prudent et sachant lire, qu’il lise cette lettre pleine d’avis et que tous les plus nobles parmi vous se préparent à venir à ma rencontre ; personne n’aura à s’en repentir. n Il ordonna à un philosophe roumi de porter cette lettreqà Heroum.
+Si vous possédez un homme savant, intelligent, prudent et sachant lire, qu’il lise cette lettre pleine d’avis et que tous les plus nobles parmi vous se préparent à venir à ma rencontre ; personne n’aura à s’en repentir. »
+
+Il ordonna à un philosophe roumi de porter cette lettreqà Heroum.
 
 Lorsque le sage arriva dans les environs de la ville, il vit qu’elle n’était occupée que’
 par des femmes et il n’aperçut aucun homme ; toute la population était sortie de la ville et se tenait dans la plaine pour voir le Roumi.
 
-Toutes les femmes s’astsemblèrent pour entendre la lettre, toutes celles qui avaient droit à donner un avis ; et lorsqu’une savante de la ville eut lu cette lettre et compris les intentions du cœur du roi, elles s’assirent et écrivirent cette réponse :
+Toutes les femmes s’assemblèrent pour entendre la lettre, toutes celles qui avaient droit à donner un avis ; et lorsqu’une savante de la ville eut lu cette lettre et compris les intentions du cœur du roi, elles s’assirent et écrivirent cette réponse :
 
 > Puisses-tu vivre éternellement,.ô roi qui portes haut la tête !
 >
 > Nous avons fait asseoir-devant nous ton envoyé ; nous avons lu La lettre d’un bout à l’autre.
 >
-> D’abord, quant à ce que tu dis des rois, de les victoires et de tes combats antérieurs, sache que si tu amènes une armée dans la ville de He- rouan, tu n’y verras pas la terre et le sol, tant il y a de sabots de chevaux et de pieds de combattants.
+> D’abord, quant à ce que tu dis des rois, de les victoires et de tes combats antérieurs, sache que si tu amènes une armée dans la ville de Herouan, tu n’y verras pas la terre et le sol, tant il y a de sabots de chevaux et de pieds de combattants.
 >
 > La ville se compose de rues innombrables et dans chacune se trouvent dix mille femmes ; nous couchons toutes les nuits dans nos cottes de mailles et l’accroissement de notre nombre nous met à l’étroit.
 >
 > Aucune de toutes ces femmes n’a de mari, car nous sommes toutes vierges et nos visages sont couverts de voiles.
 >
-> Partout ou l’on va dans ce pays, on ne strouve d’autre issue que. des eaux profondes ; et toute femme nous qui penche vers le ma- rings, nous ne voulons plus la voir et il faut qu’elle traverse l’eau profonde, qu’il fasse beau temps ou»
+> Partout ou l’on va dans ce pays, on ne strouve d’autre issue que. des eaux profondes ; et toute femme nous qui penche vers le marings, nous ne voulons plus la voir et il faut qu’elle traverse l’eau profonde, qu’il fasse beau temps ou»
 
 Qu’il y ait de la pluie et de la neige.
 
-Si elle met au monde une fille quand elle est mariée et si cette enfant prend des manières de femme et recherche le fard et les parfums, il faut qu’elle reste toujours là ou elle est née et respire l’air du ciel sublime ; mais si elle a un air d’homme et porte haut la tête , on la renvoie à Hemum.
+Si elle met au monde une fille quand elle est mariée et si cette enfant prend des manières de femme et recherche le fard et les parfums, il faut qu’elle reste toujours là ou elle est née et respire l’air du ciel sublime ; mais si elle a un air d’homme et porte haut la tête, on la renvoie à Hemum.
 
-Si c’est un fils que met au monde la mère, il faut qu’il reste où il est, et il ne trouve pas de place parmi nous.
+Si c’est un fils que met au monde la mère, il faut qu’il reste où il est et il ne trouve pas de place parmi nous.
 
 Toutes les nuits, dix mille vierges font la garde au bord de l’eau.
 
 Quiconque de nous renverse de son cheval, majeur de combat, un homme brave comme un lion, nous posons sur sa tête une couronne d’or et nous lui plaçons un trône plus haut que les Gémeaux et il y a certainement parmi nous dix mille
 
-Femmes qui portent des couronnes et des boucles d’oreilles en or, parce qu’elles ont fait périr de leurs mains, au jour du combat, un homme fier de sa c bravoure.
+Femmes qui portent des couronnes et des boucles d’oreilles en or, parce qu’elles ont fait périr de leurs mains, au jour du combat, un homme fier de sa bravoure.
 
 Tu es puissant et de grande race, ne ferme donc pas la porte de la gloire à ton nom, car on dira que tu as combattu des femmes et que tu t’es enfui de la bataille.
 
-Ce serait pour toi une honte, qui ne serait pas oubliée tant que le monde exis- tera.
+Ce serait pour toi une honte, qui ne serait pas oubliée tant que le monde existera.
 
 Mais si tu veux venir avec les grands du Roum et faire le tour de la ville de Heroum ; si tu agis avec droiture et courtoisie, tu seras reçu avec bienveillance et avec des fêtes et nous irons à la rencontre avec un cortège tel que le soleil et la lune en seront éclipsés. »
 
@@ -80,11 +82,11 @@ Iskender, voyant cette réponse à sa lettre, choisit un homme sensé et d’un 
 >
 > Je ne suis pas or venu avec des éléphants, des timbales et des lambours et une armée telle que les plaines et les montagnes tremblent sous les sabots des chevaux, pour lutter contre des femmes.
 >
-> Je veux voir votre ville ; si vous venez au-devant de moi, tout est te bien et aussitôt que j’aurai vu ce que je désire, j’emmènerai mon armée et ne resterai pas long- temps en ce lieu.
+> Je veux voir votre ville ; si vous venez au-devant de moi, tout est te bien et aussitôt que j’aurai vu ce que je désire, j’emmènerai mon armée et ne resterai pas longtemps en ce lieu.
 >
-> Je veux voir vos coutumes et vos pompes, votre manière de monter à cheval, votre cr magnificence et votre puissance.
+> Je veux voir vos coutumes et vos pompes, votre manière de monter à cheval, votremagnificence et votre puissance.
 >
-> Je vous. interrogerai en secret sur vos affaires et sur vos habitudes, comment il peut y avoir des femmes sans hommes, et comment vous remplacez celles qui meurent ; et , je verrai quel estle mot de ces énigmes. »
+> Je vous. interrogerai en secret sur vos affaires et sur vos habitudes, comment il peut y avoir des femmes sans hommes et comment vous remplacez celles qui meurent ; et, je verrai quel estle mot de ces énigmes. »
 
 Le messager partit ; il répéta ces paroles et dévoila tout ce secret.
 
@@ -98,8 +100,7 @@ Les plus puissantes des’femmes se réunirent, se concertèrent et répondirent
 >
 > Quand nous saurons que le roi s’approche, nous irons à sa ren-
 >
-> 
-contre, car la renommée de sa sagesse et de sa majesté est parvenue jusqu’à nous. »
+> contre, car la renommée de sa sagesse et de sa majesté est parvenue jusqu’à nous. »
 
 La messagère partit et donna cette réponse au roi ; toutes ses paroles étaient empreintes d’intelligence.
 
@@ -111,9 +112,9 @@ Un grand nombre de serviteurs du roi périrent dans cette journée par le froid 
 
 Ils amenèrent alu-devant du roi beaucoup d’éléphants et un cortège immense d’un vilain aspect et dirent :
 
-> La a neige et l’ouragan qui vous ont fait du mal venaient de nous ; jamais personne n’a passé par ce chemin, et toi et ton armée êtes les premiers étrangers que nous voyons. »
+> La a neige et l’ouragan qui vous ont fait du mal venaient de nous ; jamais personne n’a passé par ce chemin et toi et ton armée êtes les premiers étrangers que nous voyons. »
 
-De là Iskender continua, en toute hâte et le l7l cœur tout joyeux, sa marche vers la ville des femmes.
+De là Iskender continua, en toute hâte et le cœur tout joyeux, sa marche vers la ville des femmes.
 
 Deux mille femmes passèrent l’eau, portant toutes des couronnes et des boucles d’oreilles. lise trouvait la un bois plein d’eau et d’arbres, un lieu fortuné qui charmait les âmes et les femmes y préparèrent un festin sur la prairie et étendaient des tapis beaux de couleur et de broderie.
 
