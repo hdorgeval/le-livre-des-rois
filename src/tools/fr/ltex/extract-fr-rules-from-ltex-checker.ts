@@ -9,7 +9,7 @@ import { PathLike, writeFileSync } from 'fs';
 import path from 'path';
 
 export const createRulesFromLtex = (rootDirectory: PathLike): string[] => {
-  const rules = [];
+  const rules = new Set<string>();
   const directories = getDirectoriesRecursivelyIn(rootDirectory).takeAll();
   directories.push(rootDirectory.toString());
   for (let index = 0; index < directories.length; index++) {
@@ -21,10 +21,10 @@ export const createRulesFromLtex = (rootDirectory: PathLike): string[] => {
       // eslint-disable-next-line no-console
       console.log(`checking spelling in '${file}'`);
       const logFile = execLtexChecker(file);
-      rules.push(...processLog(logFile));
+      processLog(logFile).forEach((line) => rules.add(line));
     }
   }
-  return rules;
+  return Array.from(rules);
 };
 
 export const processLog = (logFile: PathLike | null): string[] => {
@@ -33,7 +33,7 @@ export const processLog = (logFile: PathLike | null): string[] => {
   }
 
   const lines = readAllLinesInFile(logFile);
-  const results = [];
+  const results = new Set<string>();
   for (let i = 0; i < lines.length; i++) {
     const line = lines[i];
     const currentIndex = i;
@@ -46,22 +46,28 @@ export const processLog = (logFile: PathLike | null): string[] => {
       const word = line.split("'")[1];
       const replacement = lines[currentIndex + 2].trim();
       const rule = `${word} => ${replacement}`;
-      results.push(rule);
+      results.add(rule);
     }
   }
-  return results;
+  return Array.from(results);
+};
+export const extractAllFrRulesFromLtexChecker = (rootDirectory: PathLike): void => {
+  syncFrSettingsFromVscode();
+  const rules = createRulesFromLtex(rootDirectory);
+  // eslint-disable-next-line no-console
+  console.log(rules);
+  const replacers = rules.map((rule) => {
+    const [word, replacement] = rule.split(' => ');
+    if (replacement.includes("'")) {
+      return `(content: string) => content.replace(/${word.replace(
+        '.',
+        '\\.',
+      )}/, "${replacement}"),`;
+    }
+    return `(content: string) => content.replace(/${word.replace('.', '\\.')}/, '${replacement}'),`;
+  });
+
+  writeFileSync(path.join(__dirname, 'replacers.fr.txt'), replacers.join('\n'));
 };
 
-syncFrSettingsFromVscode();
-const rules = createRulesFromLtex(path.join(process.cwd(), 'src/markdown/fr/50-yezdegird'));
-// eslint-disable-next-line no-console
-console.log(rules);
-const replacers = rules.map((rule) => {
-  const [word, replacement] = rule.split(' => ');
-  if (replacement.includes("'")) {
-    return `(content: string) => content.replace(/${word.replace('.', '\\.')}/, "${replacement}"),`;
-  }
-  return `(content: string) => content.replace(/${word.replace('.', '\\.')}/, '${replacement}'),`;
-});
-
-writeFileSync(path.join(__dirname, 'replacers.fr.txt'), replacers.join('\n'));
+extractAllFrRulesFromLtexChecker(path.join(process.cwd(), 'src', 'markdown', 'fr'));
