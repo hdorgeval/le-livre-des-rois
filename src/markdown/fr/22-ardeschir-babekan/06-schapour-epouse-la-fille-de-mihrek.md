@@ -115,5 +115,4 @@ Schapour lui dit :
 
 Le
 .-
-V. 
-chef la lui accorda, selon son prdre et selon les rites des adorateurs du feu.
+V. chef la lui accorda, selon son prdre et selon les rites des adorateurs du feu.
