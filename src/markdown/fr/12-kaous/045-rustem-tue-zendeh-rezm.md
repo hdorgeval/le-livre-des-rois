@@ -24,7 +24,7 @@ Il lui dit :
 
 Kaous lui dit :
 
-> a C’est digne de toi ; puisse ton esprit conserver sa prudence et ton corps sa santé !
+> C’est digne de toi ; puisse ton esprit conserver sa prudence et ton corps sa santé !
 >
 > Que Dieu t’ait toujours sous sa garde Il. 1(I qu’il t’accorde les vœux de ton cœur et l’accomplissement de tes projets la Rustem se couvrit d’un vêtement tel qu’en portent les Turcs et partit secrètement pour le château.
 >
@@ -52,7 +52,7 @@ Zendeh s’approcha de lui et lui demanda subitement :
 >
 > Viens vers la lumière et montre-toi. »
 
-Bustein le frappa sur la nuque d’un violent coup de poing et l’âme de Zendeh Bezm abandonna son corps ; il mourut sur la place ; il ne devait plus combattre et les fêtes avaient fini pour lui.
+Rustem le frappa sur la nuque d’un violent coup de poing et l’âme de Zendeh Bezm abandonna son corps ; il mourut sur la place ; il ne devait plus combattre et les fêtes avaient fini pour lui.
 
 Sohrab attendit longtemps, mais Zendeh le lion ne revint pas auprès de lui, il demanda où il était allé, laissant vide sa place au banquet.
 
