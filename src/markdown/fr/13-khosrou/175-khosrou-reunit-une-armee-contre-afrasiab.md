@@ -39,7 +39,7 @@ Le roi du monde leur dit :
 >
 > Les dignités et les honneurs que je vous accorde dépassent tout ce qu’aucun homme a jamais rêvé. .
 >
-> Mettez-vous en route de trois côtés et préservez mon armée des coupsde l’ennemi.
+> Mettez-vous en route de trois côtés et préservez mon armée des coups de l’ennemi.
 >
 > Je ne cesserai de combattre Afrasiab ni pendant le jour brillant ni pendant les heures du sommeil.
 >
