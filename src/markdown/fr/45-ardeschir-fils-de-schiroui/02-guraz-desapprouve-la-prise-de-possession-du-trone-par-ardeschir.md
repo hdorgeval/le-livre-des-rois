@@ -20,7 +20,7 @@ Guraz, pour lequel Khosrou Parviz avait eu une ardente amitié, apprit ces nouve
 
 > La couronne du vil Schirouï est dans la poussière ; puisse son âme être retenue aux enfers, puisse son tombeau être renversé !
 >
-> L’œil et le cœur du monde ne verront plus jamais un roi comme Khosrou : c’est lui qui m’a donné cette principauté ; c’est de o , sa cour que je suis revenu ici pour exécuter ses ordres.
+> L’œil et le cœur du monde ne verront plus jamais un roi comme Khosrou : c’est lui qui m’a donné cette principauté ; c’est de o, sa cour que je suis revenu ici pour exécuter ses ordres.
 >
 > Qui aurait pensé que le grand cyprès du jardin serait étouffé par les herbes ?
 >
@@ -32,15 +32,15 @@ Guraz, pour lequel Khosrou Parviz avait eu une ardente amitié, apprit ces nouve
 >
 > Il a péri et Ardeschir est devenu le maître de la couronne ; mais ni les jeunes gens ni les vieillards ne seront heureux sous lui.
 >
-> La terre dût-elle rester sans roi, je ne veux pas d’un pareil homme sur le trône, car il ambitionne une grande i puissance et compte sur une armée étrangère.
+> La terre dût-elle rester sans roi, je ne veux pas d’un pareil homme sur le trône, car il ambitionne une grande puissance et compte sur une armée étrangère.
 >
 > Les affaires de l’Iran ne nous donneraient-elles que tourments, je ne permettrai pas que le vent de ce pays souffle sur la tête d’Ardeschir.
 >
-> Et maintenant j’arrive avec une grande armée, avec des chefs choisis dans le Roum et l’Iran ; nous verrons qui est ce ce maître de l’empire qui nourrit de pareils projets ; j’arracherai ses racines les plus profondes et il ne sera plus question pour lui de royauté.»
+> Et maintenant j’arrive avec une grande armée, avec des chefs choisis dans le Roum et l’Iran ; nous verrons qui est ce ce maître de l’empire qui nourrit de pareils projets ; j’arracherai ses racines les plus profondes et il ne sera plus question pour lui de royauté. »
 
 Après
 
-Avoir expédié en toute hâte le messager rapide qui devait se rendre auprès des vieux chefs de l’armée v d’Iran, il exécuta un autre dessein coupable en écrivant à Pirouz, fils de Khosrou, une lettre ainsi conçue :
+Avoir expédié en toute hâte le messager rapide qui devait se rendre auprès des vieux chefs de l’armée d’Iran, il exécuta un autre dessein coupable en écrivant à Pirouz, fils de Khosrou, une lettre ainsi conçue :
 
 > Le trône du Roi des rois est obscurci et il faut qu’un chef ambitieux prenne les armes.
 >
@@ -50,7 +50,7 @@ Avoir expédié en toute hâte le messager rapide qui devait se rendre auprès d
 >
 > Mais si tu dévoiles ce secret, si tu abreuves de ’sang l’épée du combat, j’amènerai du Roum une armée si nombreuse que je rendrai le monde noir devant tes yeux.
 >
-> Réfléchis profondément à mes paroles et Dieu fasse que tu ne dédaignes pas mes entreprises !»
+> Réfléchis profondément à mes paroles et Dieu fasse que tu ne dédaignes pas mes entreprises ! »
 
 Lorsque Pirouz, fils de Khosrou, eut lu cette lettre et qu’il eut compris l’origine et le but des plans formés par cet homme orgueilleux, le cœur clairvoyant de l’illustre Pirouz se troubla, en cherchant les moyens de nuire à ce fils de roi.
 
@@ -60,7 +60,7 @@ Par une sombre nuit, Pirouz se rendit au palais, il y trouva du vin brillant et 
 
 Ardeschir était assis dans la salle du trône
 
-1 LE LIVRE avec quelques hommes jeunes et vieux ; lorsque Pirouz, fils de Khosrou, parut devant lui, on aurait dit que le roi levait son front par-dessus le ciel.
+1 avec quelques hommes jeunes et vieux ; lorsque Pirouz, fils de Khosrou, parut devant lui, on aurait dit que le roi levait son front par-dessus le ciel.
 
 Sur l’ordre d’Ardeschir, la musique se fit entendre et la salle retentit du bruit des chansons.
 
