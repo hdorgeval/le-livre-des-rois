@@ -117,7 +117,7 @@ Le cœur d’Afrasiab rajeunit à cette nouvelle et il grandit sur son trône im
 Il disposa le centre de l’armée et les ailes du contre, il envoya des détachements pour observer l’ennemi, fixa un endroit pour la réserve et les bagages et assigna leur place aux deux ailes.
 
 Il fit des dispositions dignes d’un roi pour l’ordre de bataille, plaça au centre cent mille hommes armés d’épées,’
-en se réservant ce poste, car il était lui-même le chef et l’ordonnateur de l’armée ; il mit àsa gauche Pescheng, qui était fort comme un léopard vail-7 lant, qui n’avait son égal ni parmi les grands de l’armée ni parmi les cavaliers du monde entier, qui lançaitison cheval, saisissait la queue du léopard et l’arrachait par la force de son bras, qui portait une lance de fer et en perçait les montagnes dans le combat.
+en se réservant ce poste, car il était lui-même le chef et l’ordonnateur de l’armée ; il mit àsa gauche Pescheng, qui était fort comme un léopard vail-7 lant, qui n’avait son égal ni parmi les grands de l’armée ni parmi les cavaliers du monde entier, qui lançait son cheval, saisissait la queue du léopard et l’arrachait par la force de son bras, qui portait une lance de fer et en perçait les montagnes dans le combat.
 
 Son nom était Pescheng, mais son père l’appelait Schideh de brillant), parce qu’il ressem-
 . blaiIt au soleil brillant.
