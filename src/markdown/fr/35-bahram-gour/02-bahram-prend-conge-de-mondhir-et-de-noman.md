@@ -68,6 +68,6 @@ Réfugiez-vous du monde en Dieu, car il est le maître, le secourable.
 Quiconque a la volonté de m’obéir et ne s’écarte pas de ma voie et de son pacte avec moi, je redoublerai de bontés envers lui et je rejetterai de mon cœur toute idée de haine et d’avidité ; mais quiconque a s’écarte de son devoir tombera sous mes châtiments. ’
 Si le Créateur me donne de la force, si la fortune exauce mes vœux, mes bienfaits augmenteront et vous célébrerez mes louanges. »
 
-Tous les hommes du pays d’Iran qui entendirent ces paroles partirent satisfaits et avec le désir de suivre le vrai chemin ; lorsquela royauté de Bahram fut solidement établie, le contentement augmenta et les soucis diminuèrent.
+Tous les hommes du pays d’Iran qui entendirent ces paroles partirent satisfaits et avec le désir de suivre le vrai chemin ; lorsque la royauté de Bahram fut solidement établie, le contentement augmenta et les soucis diminuèrent.
 
 Lui-même ne s’occupait que de fêtes et de chasses, de monter à cheval, d’aller au Meîdan et de jouer à la raquette et à la balle.
