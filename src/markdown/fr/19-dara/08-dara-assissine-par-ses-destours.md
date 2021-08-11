@@ -36,7 +36,7 @@ Puisqu’il ne trouvait d’allié ni près de lui ni au loin, il écrivit à Fo
 
 Il expédia un dromadaire rapide comme le vent, auprès de Four, de la famille de Four.
 
-Lorsque Iskender apprit ce que se proposait Dara fils de Darab, il fit sonner des trompettes, et ; le bruit des timbales et des clochettes indiennes s’éleva ; il emmena d’lsthakhr une armée telle que le soleil s’égare dans le ciel.
+Lorsque Iskender apprit ce que se proposait Dara fils de Darab, il fit sonner des trompettes et ; le bruit des timbales et des clochettes indiennes s’éleva ; il emmena d’lsthakhr une armée telle que le soleil s’égare dans le ciel.
 
 Le tumulte des armées, des deux côtés, montait aux nues et les hommes vaillants n’avaient plus de repos.
 
@@ -46,13 +46,13 @@ Ils attaquè-rent les Roumis, mais ce jour les lions furieux se conduisirent com
 
 Les grands ne demandaient que protection et de l’orgueil du pouvoir ils étaient tombés dans l’abaissement.
 
-Dara, voyant cela, tourna le dos et s’enfuit en poussant des lamentations ; trois cents cavaliers l’accompagnaient, une troupe composée de ce qu’il y avait de plus glorieux dans l’Iran..
+Dara, voyant cela, tourna le dos et s’enfuit en poussant des lamentations ; trois cents cavaliers l’accompagnaient, une troupe composée de ce qu’il y avait de plus glorieux dans l’Iran.
 
 Dara avait deux DestDoursA, deuRx hoAmme.s il6lust9res qui étaient allés avec lui sur le champ de bataille : l’un était un Mobed du nom de Mahiar, l’autre portait le nom de Djanousipar.
 
 Quand ils virent que la fortune était désespérée et que la puissante étoile et la gloire de Dara avaient ; succombé, ils se dirent l’un à l’autre :
 
-> Le malheureux ne reverra plus son trône et sa couronne ; il faut lui percer la poitrine d’un coup de poignard, ou le frapper sur la têteavec une épée indienne et Iskender nous donnera une province : nous semas le diadème sur le front de cet empire.
+> Le malheureux ne reverra plus son trône et sa couronne ; il faut lui percer la poitrine d’un coup de poignard, ou le frapper sur la tête avec une épée indienne et Iskender nous donnera une province : nous semas le diadème sur le front de cet empire.
 >
 > C’est ainsi que les deux Destours accompagnaient Dara, dont l’un était le conseiller, l’autre le trésorier ; le premier en rang se tenait à la gauche et Mahiar à la droite du roi.
 >
