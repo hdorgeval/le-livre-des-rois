@@ -18,7 +18,7 @@ order: '021'
 
 Iskender partit, le cœur haut comme une montagne, car même le sage devient soucieux par le danger de la mort ; Keïdafeh avait effacé le froncement de ses sourcils et il ne songea pas un instant à s’écarter de sa volonté.
 
-Il resta ainsi cette nuit, et le lendemain de grand matin il sortit de son palais et se rendit chez la reine, qui était dans la salle d’andience, toute parée et entourée de bouquets de fleurs.
+Il resta ainsi cette nuit et le lendemain de grand matin il sortit de son palais et se rendit chez la reine, qui était dans la salle d’andience, toute parée et entourée de bouquets de fleurs.
 
 Au haut de la salle on voyait des ornements en onyx et en or et en pierreries de toute espèce, incrustées dans l’or, autour de la reine, des bouquets à parfum de musc et devant elle se tenaient respectueusement ses deux fils, Theïnousch, le cavalier et Keïderousch, attentifs aux paroles de leur mère.
 
@@ -32,7 +32,7 @@ Sa mère répondit :
 
 La reine illustre dit alors à Iskender :
 
-> Dévoile maintenant le secret ; que M3 désires-tu et quels sont les desseins d’lskender ?
+> Dévoile maintenant le secret ; que M3 désires-tu et quels sont les desseins d’Iskender ?
 que sais-tu de sa volonté et quels sont ses ordres ? »
 
 Iskender lui répondit :
@@ -53,7 +53,7 @@ Ne sais-tu pas devant qui tu es assis ?
 
 Ne reste pas assis devant la reine et ne montre pas Les mains.
 
-Ta tête est pleine de colère et d’arrogence et tu ne me dis pas même qui est le roi au a nom duquel tu parles.
+Ta tête est pleine de colère et d’arrogance et tu ne me dis pas même qui est le roi au a nom duquel tu parles.
 
 N’était le respect dû à la reine, a je te trancherais la tête, comme on arrache de la a branche une orange ; mais cette nuit même je montrerai à l’armée ta tête coupée en vengeance de la mort de Fourna Sa mère éclata contre lui, car elle voyait que sa tête ardente pour le combat s’égarait.
 
@@ -69,8 +69,7 @@ Puis elle dit à Iskender en secret :
 
 > Theïnousch est un fou qui n’a pas de raison, mais il ne faut pas le laisser préparer
 >
-> 
-en secret quelque coup, quelque malheur et quelque violence.
+> en secret quelque coup, quelque malheur et quelque violence.
 >
 > Tu es un homme sage, tu as de l’intelligence, réfléchis pour voir ce qu’il convient de faire. »
 
@@ -89,7 +88,7 @@ Iskender lui dit :
 >
 > Je ne t’en veux pas pour ce qui s’est passé, j’accepte toutes les paroles que tu prononces.
 >
-> C’est moi qui souffre de l’injustice d’lskender, qui se tient tranquillement sur son trône, la couronne sur la tête, pendant qu’il m’envoie de cette façon demander tribut à cette reine auguste, pour que tout le mal qui peut en résulter tombe sur mois de la part de ses ennemis.
+> C’est moi qui souffre de l’injustice d’Iskender, qui se tient tranquillement sur son trône, la couronne sur la tête, pendant qu’il m’envoie de cette façon demander tribut à cette reine auguste, pour que tout le mal qui peut en résulter tombe sur mois de la part de ses ennemis.
 >
 > Je me hâterai de lui rapporter ta réponse et je vais Le proposer, ô prince, un plan qui te portera bonheur.
 >
@@ -129,7 +128,7 @@ Iskender dit :
 >
 > : l’ombre de ces arbres et demandera à son trésorier du vin, sa couronne et un trône.
 >
-> Entoure-le alors avec ton escorte vaillante et mets en repos ton es- prit sur la tournure du sort ; ce sera le moment de ce ma vengeance et l’accomplissement de tes désirs, et dorénavant personne ne t’inquiétera plus.
+> Entoure-le alors avec ton escorte vaillante et mets en repos ton esprit sur la tournure du sort ; ce sera le moment de ce ma vengeance et l’accomplissement de tes désirs et dorénavant personne ne t’inquiétera plus.
 >
 > Quand tu te seras emparé de lui, je t’appartiendrai, je serai, si tu me l’ordonnes, le gardien de ce pays pour toi.
 >
