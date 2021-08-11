@@ -20,7 +20,7 @@ Ensuite on apprit dans le Nimrouz, on dit devant le Pehlewan qui était la lumi�
 
 Quand Tehemten eut entendu cette. nouvelle, il perdit la raison et des cris de douleur retentirent dans le Zaboulistan ; Zal déchira ses joues avec ses ongles, il versa de la poussière sur sa couronne et sur son corps.
 
-Bustein demeura plongé pendant sept jours dans le deuil et dans la tristesse ; le huitième jour, le bruit des trompettes d’airain monta vers le ciel, toute l’armée se rassembla du Kaschmir et du Kaboul devant la porte du héros au corps d’éléphant, 3 : qui se mit en route pour la cour de Kaous, les yeux remplis de sang, le cœur plein de vengeance.
+Rustem demeura plongé pendant sept jours dans le deuil et dans la tristesse ; le huitième jour, le bruit des trompettes d’airain monta vers le ciel, toute l’armée se rassembla du Kaschmir et du Kaboul devant la porte du héros au corps d’éléphant, 3 : qui se mit en route pour la cour de Kaous, les yeux remplis de sang, le cœur plein de vengeance.
 
 Quand il fut arrivé près de la capitale de l’Iran, il déchira ses vêtements de Pehlewan et dit en jurant par le nom de Dieu maître de l’univers :
 
