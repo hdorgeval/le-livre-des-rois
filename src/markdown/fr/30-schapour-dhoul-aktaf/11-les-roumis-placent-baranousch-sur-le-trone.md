@@ -22,7 +22,7 @@ Le peuple lui dit :
 
 > Sois Kaïsar, sois aujourd’hui le roi de ce peuple !
 
-L’armée écoutera tes paroles ; rends illustre cette couronne et glonrieux ce trône la Ils ornèrent le trône d’ébène pour lui et Baranousch y monta majestueusement, la courenne shr la’léte.
+L’armée écoutera tes paroles ; rends illustre cette couronne et glorieux ce trône la Ils ornèrent le trône d’ébène pour lui et Baranousch y monta majestueusement, la couronne shr la’léte.
 
 On le fit asseoir dans la place du pouvoir et tous les Roumis le proclamèrent Kaïsar.
 
@@ -35,7 +35,7 @@ Il le fit venir, le lit asseoir près de lui et lui, dit des paroles pleines de 
 >
 > Tu sais que les grands qui portent haut la tête, tant dans le pays de l’Iran que dans le pays de Roum, condamnent les dévastations, les meurtres et les attaques contre des hommes innocents.
 >
-> Le meurtre d’Iredj a fait naître ces inimitiés, mais Minoutchehr i les a terminées par sa bravoure ; Selm a péri dans a cette’lulte et le monde a été délivré de Tour.
+> Le meurtre d’Iredj a fait naître ces inimitiés, mais Minoutchehr les a terminées par sa bravoure ; Selm a péri dans a cette’lulte et le monde a été délivré de Tour.
 >
 > Et quant à la guerre de vengeance d’Iskender et de a Dara, il a passé depuis cette querelle bien du temps sur le Beum.
 >
