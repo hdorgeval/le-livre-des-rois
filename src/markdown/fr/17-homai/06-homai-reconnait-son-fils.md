@@ -20,7 +20,7 @@ Darab, couvert de louanges,-et Beschnewad s’en revinrent joyeusement.
 
 A une des stations, ils arrivèrent à cette voûte en ruines dans laquelle Beschnewad avait trouvé Darab endormi ; la femme du blanchisseur et son mari, qui apportaient le joyau, 3l s’y étaient rendus ; ils tremblaient tous les deux, de peur d’être traités durement.
 
-Beschnewad les appela suriechamp et ils se présentèrent en invoquant la protection de Dieu.
+Beschnewad les appela sur le champ et ils se présentèrent en invoquant la protection de Dieu.
 
 Quand il vit la femme et son mari, il les questionna en détail ; ils rappelèrent leurs souvenirs et racontèrent toute l’histoire de la boîte, de la pierre non travaillée ; ils dirent la peine que l’éducation du nourrisson leur avait donnée, leurs soucis et tout ce. que le sort avait amené.
 
@@ -57,8 +57,8 @@ Elle dit au messager en pleurant :
 >
 > Le fils était. maltraité dès qu’il n’avait plus de père, maintenant Dieu me le rend avec un nom glorieux acquis sur les traces de Beschnewad. »
 
-On versa sur le peuple tout un trésor de pièces d’or, on mêla des pierreries à du vin et du musc, et on fit l’aumône à tous ceux qui étaient dans le besoin.
+On versa sur le peuple tout un trésor de pièces d’or, on mêla des pierreries à du vin et du musc et on fit l’aumône à tous ceux qui étaient dans le besoin.
 
-La semaine après, Homaï ouvrit un trésor d’argent et le répartit parmi tous les endroits où elle savait qu’il y avait un temple de feu, ou seulement un Zendavesta et un lieu pour célébrer la fête de Sedeh ; elle répandit ses largesses sur toutes les pro- vinces.
+La semaine après, Homaï ouvrit un trésor d’argent et le répartit parmi tous les endroits où elle savait qu’il y avait un temple de feu, ou seulement un Zendavesta et un lieu pour célébrer la fête de Sedeh ; elle répandit ses largesses sur toutes les provinces.
 
 Le dixième jour, de grand matin, le Sipehbed arriva auprès de la reine, et, avec lui, les grands etDarab ; mais Beschnewad et Darab ne dirent rien à personne de leur secret.
