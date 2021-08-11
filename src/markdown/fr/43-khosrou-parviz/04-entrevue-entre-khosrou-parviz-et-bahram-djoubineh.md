@@ -443,7 +443,7 @@ Il faut faire ni plus ni moins que ce que Zerdouscht dit dans le Zend :
 >
 > Tu as eu-
 >
-> a tendu parler de l’impiété de Zohak, comment il a rempli le monde de terreur par les Divs et les magiciens et comment, lorsqu’il eut désolé le cœur des grands, Feridoun, le fortuné, l’a traité.
+> tendu parler de l’impiété de Zohak, comment il a rempli le monde de terreur par les Divs et les magiciens et comment, lorsqu’il eut désolé le cœur des grands, Feridoun, le fortuné, l’a traité.
 >
 > Or, tous les hommes de ton armée sont, dans leur cœur, mes esclaves, ils sont à moi dans la vie et la mort.
 >
