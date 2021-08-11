@@ -34,7 +34,7 @@ Le maître du monde le fit approcher, lui adressa des questions et le fit asseoi
 
 Tous les grands étaient confondus d’admiration et le bénirent en secret, à cause de sa beauté, de sa mine majestueuse, de sa prudence, de sa taille, de la force de ses membres et de son éclat.
 
-Il s’assit un instant, puis se leva et s’acquitte en bons termes du message d’lskender.
+Il s’assit un instant, puis se leva et s’acquitte en bons termes du message d’Iskender.
 
 Il commença par invoquer les grâces de Dieu sur le roi, disant :
 
@@ -44,7 +44,7 @@ Voici ce que dit Iskender :
 
 > Ô glorieux roi, qui fais ta volonté dans chaque lieu du monde !
 >
-> Je n’ai aucun désir de combattre le roi ni de rester longtemps cr dans le pays d’Iran.
+> Je n’ai aucun désir de combattre le roi ni de rester longtempsdans le pays d’Iran.
 >
 > Mon désir est de parcourir un peu la terre et de voir pour une fois le monde.
 >
@@ -53,7 +53,7 @@ w tant plus que c’est toi qui es le roi d’Iran.
 >
 > Mais si tu me refuses !
 >
-> Le passage sur la terre , réfléchis que n je ne puis me promener dans l’air comme un nuage.
+> Le passage sur la terre, réfléchis que n je ne puis me promener dans l’air comme un nuage.
 >
 > Tu t’es avancé ainsi contre moi avec une armée, sans connaître mes intentions ni rien dejce qui me regarde.
 >
@@ -67,14 +67,13 @@ Il lui répondit ne Quel est ton renom et quelle est. la naissance ?
 
 Cardans la mine et sur ton front tu portes les marques des Keïanides ; tu parais être plus grand qu’un sujet et je 6
 
-: 
-et crois que tu es Iskender.
+: et crois que tu es Iskender.
 
 Évidemment le ciel t’a préparé pour une couronne en te donnant cette mine, cette stature, cette parole et ces traits. »
 
 L’envoyé répondit :
 
-> Jamais pareille chose ne. s’est faite , ni en temps de paix ni en temps de guerre.
+> Jamais pareille chose ne. s’est faite, ni en temps de paix ni en temps de guerre.
 >
 > Il ne manque pas, à la cour d’Iskender, d’hommes qui sachent parler et qui sont la couronne sur le front des sages du monde.
 >
@@ -100,7 +99,7 @@ L’échanson s’approcha de Dara et lui dit :
 
 Et le roi ordonna qu’on lui demandât pourquoi il prenait ainsi soin des coupes de vin.
 
-L’échanson dit à lskender :
+L’échanson dit à Iskender :
 
 > Ô homme à la mine royale, pourquoi places-Btu lesAcoupBes d’Aor sou.s to5n 6 aisselle ? »
 
@@ -150,7 +149,7 @@ Il dit aux héros :
 >
 > Cette coupe est une conquête faite au péril de ma vie ; les étoiles obéissent à mes ordres.
 >
-> J’ai compté le nombre de ses troupes : il est beau- - coup au-dessous de ce que nous avons entendu dire.
+> J’ai compté le nombre de ses troupes : il est beau--coup au-dessous de ce que nous avons entendu dire.
 >
 > Tirez tous vos épées pour le combat et avancez sur cette plaine.
 >
