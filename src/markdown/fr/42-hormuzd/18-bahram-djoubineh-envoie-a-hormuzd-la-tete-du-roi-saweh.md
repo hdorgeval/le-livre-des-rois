@@ -84,7 +84,7 @@ Le roi fit appeler à l’instant l’envoyé de Bahram et le lit asseoir au-des
 
 Cet homme dit :
 
-> a Ô roi qui portes rehaut la tête !
+> Ô roi qui portes rehaut la tête !
 >
 > Tout s’est passé sur ce champ de bataille selon tes désirs.
 >
