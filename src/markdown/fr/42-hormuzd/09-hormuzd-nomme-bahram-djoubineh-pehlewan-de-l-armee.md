@@ -22,7 +22,7 @@ Il donna à Bahram le commandement de ses troupes et éleva jusqu’aux nues sa 
 
 Le Sipehbed se présenta devant le roi dans son armure de combat et lui dit :
 
-> a Le roi me permet-il que je passe une revue pour connaître le nombre de : hommes et pour voir qui, parmi eux, est propre à la guerre ou qui se fera attendre au moment ou il s’agira d’acquérir de la gloire ? »
+> Le roi me permet-il que je passe une revue pour connaître le nombre de : hommes et pour voir qui, parmi eux, est propre à la guerre ou qui se fera attendre au moment ou il s’agira d’acquérir de la gloire ? »
 
 Le roi lui dit :
 
