@@ -46,7 +46,7 @@ Lorsqu’il eut atteint Bijen, il tira à lui brusquement la bride de son cheval
 >
 > A déjà que trop les yeux sur nous.
 >
-> Renonce à cette entreprise par égard pour ton père, car il ne te sied pas d’alliiger mon cœur. »
+> Renonce à cette entreprise par égard pour ton père, car il ne te sied pas d’affliger mon cœur. »
 
 Bijen lui répondit :
 
