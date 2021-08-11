@@ -83,7 +83,7 @@ Tokhar dit au fils du roi :
 >
 > Si tu n’es pas de notre avis en cette affaire, renonce à t’en
 >
-> a ?
+> ?
 >
 > Mêler.
 >
