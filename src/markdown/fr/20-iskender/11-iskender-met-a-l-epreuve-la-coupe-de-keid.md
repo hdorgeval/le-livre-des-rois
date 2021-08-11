@@ -23,8 +23,10 @@ Ils burent de cette eau gaiement, mais elle ne diminuait pas dans la coupe, tant
 Alors le roi dit au philosophe :
 
 > Ne me cache pas l’explication de ce fait.
+>
+> D’où vient que l’eau se renouvelle dans cette coupe ; est-ce un phénomène produit par les astres ou par l’art des Indiens ? »
 
-D’où vient que l’eau se renouvelle dans cette coupe ; est-ce un phénomène produit par les astres ou par l’art des Indiens?n Le sage lui répondit :
+Le sage lui répondit :
 
 > Ô roi !
 >
@@ -32,11 +34,11 @@ D’où vient que l’eau se renouvelle dans cette coupe ; est-ce un phénomène
 >
 > Des astrologues de tous les pays, de chaque endroit ou il se trouvait un grand et illustre savant, se tinrent auprès de Keïd pendant les jours brillants et les nuits sombres, quand il fabriquait cette coupe.
 >
-> Ils observèrent les influences des astres ; ils y pas- sèrent bien des jours.
+> Ils observèrent les influences des astres ; ils y passèrent bien des jours.
 >
-> Prends l’exemple de l’aimant que l’onprépare de manière qu’il. attire le fer ; de même cette coupe est, de sa nature, telle qu’elle attire l’eau, qu’elle emprunte de l’eau douce à la rode du ciel.
+> Prends l’exemple de l’aimant que l’on prépare de manière qu’il. attire le fer ; de même cette coupe est, de sa nature, telle qu’elle attire l’eau, qu’elle emprunte de l’eau douce à la rode du ciel.
 >
-> Elle attire de l’eau à mesure qu’elle se vide et aucun homme ne voit comment, si perlçants que soient ses yeux. »
+> Elle attire de l’eau à mesure qu’elle se vide et aucun homme ne voit comment, si perçants que soient ses yeux. »
 
 Les paroles du savant plurent au roi ; il tira du profit de ses discours et dit aux vieillards de Milad :
 
