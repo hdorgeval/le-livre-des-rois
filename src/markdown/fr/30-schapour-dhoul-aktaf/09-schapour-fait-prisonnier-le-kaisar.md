@@ -22,7 +22,7 @@ Il envoya à Thisifoun des grands qui avaient de l’expérience, pour épier l�
 
 Les observateurs partirent en secret pour s’informer clandestinement des affaires du monde, et, ayant tout vu, ils revinrent auprès du roi qui portait haut la tête, disant :
 
-> Le Kaïsar est trop occupé à boire et à chasser pour a penser à la guerre ; son armée est dispersée de tous côtés et s’emploie à ravager toutes les frontières : on ne fait pas de rondes le jour ni de garde la nuit, et l’armée est comme un [ronpeau sans pâtre.
+> Le Kaïsar est trop occupé à boire et à chasser pour a penser à la guerre ; son armée est dispersée de tous côtés et s’emploie à ravager toutes les frontières : on ne fait pas de rondes le jour ni de garde la nuit et l’armée est comme un [ronpeau sans pâtre.
 >
 > Le et Kaîsar ne soupçonne d’ennemi nulle part, il se plait à vivre à son aise. »
 
@@ -35,9 +35,9 @@ Il marchait rapidement pendant les ténèbres des nuits et se mettait à couvert
 
 Il traversait ainsi des déserts et des montagnes, lui et son armée, par des chemins non frayés et toujours, qu’il y eût une route ou non, se faisant éclairer en avant, à plus de deux farsangs de distance.
 
-Il continua ainsi jusqu’auprès de Thisiphoun, précédé par des détachements de cavaliers, et arriva près du camp des Roumis lorsque la troisième garde de la nuit était passée ; il n’avait aucune peur du Kaïsar, mais il entendait, venant du camp, le son des timbales, les cris des sentinelles et le chant des coqs.
+Il continua ainsi jusqu’auprès de Thisifoun, précédé par des détachements de cavaliers et arriva près du camp des Roumis lorsque la troisième garde de la nuit était passée ; il n’avait aucune peur du Kaïsar, mais il entendait, venant du camp, le son des timbales, les cris des sentinelles et le chant des coqs.
 
-Toute la plaine était couverte de tentes, grandes et petites, mais qui pouvait se douter qu’il allait attaquer?Le Kaïsar était ivre de vin dans sa tente et tout le pays était encombré par ses Lorsque le vaillant Sphapour vit cetétat des choses, troupes. : il lâcha la bride à son royal destrier, lança ses troupes contre le’camp, étenditla main et décrocha sa lourde massue ; le son des trompettes monta jusqu’aux nues ; de place en place, sur toutes les limites du camp, on entendit le fracas des massues et le tintement, des clochettes et de tous côtés s’élevait le cliquetis des armes ; on aurait cru que la voûte du ciel se fendait et que le soleil faisait dégoutter du sang
+Toute la plaine était couverte de tentes, grandes et petites, mais qui pouvait se douter qu’il allait attaquer?Le Kaïsar était ivre de vin dans sa tente et tout le pays était encombré par ses Lorsque le vaillant Sphapour vit cetétat des choses, troupes. : il lâcha la bride à son royal destrier, lança ses troupes contre le camp, étendit la main et décrocha sa lourde massue ; le son des trompettes monta jusqu’aux nues ; de place en place, sur toutes les limites du camp, on entendit le fracas des massues et le tintement, des clochettes et de tous côtés s’élevait le cliquetis des armes ; on aurait cru que la voûte du ciel se fendait et que le soleil faisait dégoutter du sang
 
 Dans l’air ; le drapeau de Kaweh étincelait au milieu de la nuit sombre et des épées bleues ; on aurait dit qu’il tombait une pluie d’épées et qu’un brouillard enveloppait le monde ; les montagnes disparurent sous la poussière que soulevait l’armée et les étoiles relevèrent le pan de leur robe pour s’en gamina.
 
@@ -53,7 +53,7 @@ Ce qu’il y a de mieux, c’est. de se montrer humain et de s’abstenir de fai
 
 Lorsque le jour fut venu, que la nuit eut. retiré le pan de sa robe et que le drapeau du soleil se fut montré en haut, Schapour demanda un scribe, des roseaux, du papier, du musc et de l’ambre et adressa des lettres à chaque province, à chaque roi, à tous les grands, commençant ainsi :
 
-> Les grâces de mon a âme soient rendues au Créateur du monde, qui est secourable à cm pratiquent la vertu et n’a be- î soin du secours de la force de personne.
+> Les grâces de mon a âme soient rendues au Créateur du monde, qui est secourable à cm pratiquent la vertu et n’a be-î soin du secours de la force de personne.
 >
 > C’est lui qui a créé le monde, lui qui est le seul guide vers le bien, Aussi le Kaïsar, qui avait méprisé les ordres de Dieu et n’avait semé dans l’Iran que la semence de l’avidité, porte-t-il misérablement des chaînes, parce que son âme n’avait pas pris la raison pour guide : il a dû abandonner la couronne de l’Iran à un plus digne et n’a emporté du monde qu’un nom infâme.
 >
@@ -62,6 +62,7 @@ Lorsque le jour fut venu, que la nuit eut. retiré le pan de sa robe et que le d
 > Recherchez la justice. suivez mes ordres et renouvelez le pacte du devoir envers moi. »
 
 Des dromadaires de course portèrent de tous côtés les lettres de ce roi à l’esprit serein.
+
 Schapour alla du camp à Thisifoun et s’y établit sans difficulté et en maître.
 
 Il plaça sur sa tête la couronne de ses ancêtres et adressa des prières à Dieu, l’auteur de tout bien.
@@ -97,7 +98,7 @@ Le Kaïsar répondit :
 >
 > Qui peut se soustraire aux ordres de Dieu ?
 >
-> Le trône de la royauté m’avaitprivé de la raison et avait fait de moi un mercenaire du Div ; mais si tu rends le bien pour le mal, tu seras célèbre dans le monde entier, la gloire ne vieillira i
+> Le trône de la royauté m’avait privé de la raison et avait fait de moi un mercenaire du Div ; mais si tu rends le bien pour le mal, tu seras célèbre dans le monde entier, la gloire ne vieillira i
 >
 > -’ a ’N L jamais et tout ce que tu désires réussira par l’effet de ta valeur.
 >
