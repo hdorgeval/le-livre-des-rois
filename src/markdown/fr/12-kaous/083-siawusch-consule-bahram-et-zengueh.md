@@ -138,7 +138,7 @@ Il répondit :
 >
 > Car ceux qui ne peuvent plus participer à ma fortune, pourquoi les forcerais-je à partager mes peines ? »
 
-L’âme de ces deux hommes qui portaient haut la tête se flétrit à ces paroles de Siavvusch ; ils pleuraient de peur de le perdre, ils étaient dévorés comme d’un feu ardent.
+L’âme de ces deux hommes qui portaient haut la tête se flétrit à ces paroles de Siawusch ; ils pleuraient de peur de le perdre, ils étaient dévorés comme d’un feu ardent.
 
 Leurs cœurs et leurs yeux voyaient les malheurs que le sort préparait en secret à leur maître, il : savaient qu’ils ne le reverraient plus et ils pleuraient sur lui.
 
