@@ -87,7 +87,7 @@ Nous payerons un tribut onéreux et nous ne rechercherons pas les diadèmes des 
 
 Une longue guerre surgira où des centaines de lions intrépides périront.
 
-Les grands qui combattent à mes côtés ne font aucun cas de ces propositions : Mirouï du Thabaristan et Ermeni, qui luttent avec la fureur . d’Ahriman, Gulboui’ Souri.et les chefs armés de masses d’armes et de massues pesantes disent en levant la tête : Qui sont ces genslà et quels droits ont-ils sur l’Iran et le Mazenderan ?
+Les grands qui combattent à mes côtés ne font aucun cas de ces propositions : Mirouï du Thabaristan et Ermeni, qui luttent avec la fureur . d’Ahriman, Gulboui’ Souri.et les chefs armés de masses d’armes et de massues pesantes disent en levant la tête : Qui sont ces gens là et quels droits ont-ils sur l’Iran et le Mazenderan ?
 
 Envahissemau de frontières et de routes, succès et revers, tout sera décidé par les massues et les sabres ; nous lutterons en hommes et nous réduirons l’ennemi à ’ l’extrémité. -Mais tans ils ignorent les secrets du ciel inconstant, parce que jusqu’à présent il nous a traités avec douceur.
 
@@ -140,7 +140,7 @@ Aux uns la fatigue, aux autres les jouissances ; on ne s’inquiétera ni de jus
 
 À la faveur de la nuit, un ennemi vigilant envahira la !
 
-Ll y a ici sans doute une allusion à la dynastie des Abbassides, dont le noir était la couleur officielle. !
+Il y a ici sans doute une allusion à la dynastie des Abbassides, dont le noir était la couleur officielle. !
 
 Demeure de celui qui se cache.
 
@@ -167,7 +167,7 @@ Chacun enfouira son trésor, et, à sa mort, le fruit de ses fatigues enrichira 
 
 Les savants et les dévots profiteront de leur crédit pour faire des dupes ; le chagrin, la souffrance, les divisions régneront partout, comme régnait la joie au temps de Baliram Gour.
 
-Plus de fêtes ni de plaisir, plus de travail ni de sécurité ; partout la ruse, la trom- perie, les piègea.
+Plus de fêtes ni de plaisir, plus de travail ni de sécurité ; partout la ruse, la tromperie, les piègea.
 
 La fureur de l’argent divisera les pères et les enfants, on se nourrira de lait aigre, on portera des manteaux de camelot.
 
