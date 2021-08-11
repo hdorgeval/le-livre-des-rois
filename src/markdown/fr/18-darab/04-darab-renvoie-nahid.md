@@ -18,13 +18,13 @@ order: '004'
 
 Une nuit, cette lune était couchée avec le roi, parée de joyaux, de couleurs, de parfums et de beauté.
 
-Il arriva qu’elle lit une respiration profonde, et le roi des rois en fut dégoûté ; il détourna la tête et écarta d’elle son visage, parce qu’il trouvait que son haleine était mauvaise.
+Il arriva qu’elle lit une respiration profonde et le roi des rois en fut dégoûté ; il détourna la tête et écarta d’elle son visage, parce qu’il trouvait que son haleine était mauvaise.
 
 Le roi fut désolé de cette découverte ; son âme devint soucieuse, ses sourcils se froncèrent. on appela des médecins savants qu’on fit asseoir à côté de Nahid.
 
 Un homme ingénieux et
 
-De bon conseil examina le cas jusqu’à ce qu’il eût trouvé unremède.
+De bon conseil examina le cas jusqu’à ce qu’il eût trouvé un remède.
 
 Il se mit à broyer une plante qui brûlait le palais, à laquelle on donnait dans le pays de Roum le nom d’iskender et l’appliqua sur le palais de Nahid, qui versa beaucoup de larmes.
 
@@ -43,7 +43,7 @@ Lorsque Iskender fut né de sa sainte mère et qu’on en donna la bonne nouvell
 Le Kaïsar leva les bras au ciel. en apprenant cette naissance, qu’il regardait comme un présage heureux.
 
 Dès le grand matin il fit apporter l’enfant et amener la jument toute parée et passa la main sur les yeux et la crinière du poulain, qui se trouvait avoir le même âge qu’Iskender. .
-Le ciel tourna de nouveau pendant quelque temps, v et des années passèrent heureuses et malheureuses.
+Le ciel tourna de nouveau pendant quelque temps et des années passèrent heureuses et malheureuses.
 
 Iskender s’accoutuma à penser comme un roi et à parler comme un homme de guerre ; le Kaïsar en faisait plus de cas que s’il avait été son fils et se plaisait à orner sa poitrine guerrière.
 
@@ -56,9 +56,7 @@ fut retournée près de son père ; il lui était né un autre fils, plein de ma
 
 On lui avait donné, le jour de sa naissance, le nom de Dara, avec des souhaits que sa fortune dépassât celle de son père.
 
-Lorsque douze années furent passées, la fortune et 
-[t
-la force de Darab déclinèrent ; le brillant fils de Homaï dépérit et se sentit appelé dans une autre demeure.
+Lorsque douze années furent passées, la fortune et [t la force de Darab déclinèrent ; le brillant fils de Homaï dépérit et se sentit appelé dans une autre demeure.
 
 Il réunit les grands et les sages et leur parla longuement du trône du pouvoir, ajoutant :
 
