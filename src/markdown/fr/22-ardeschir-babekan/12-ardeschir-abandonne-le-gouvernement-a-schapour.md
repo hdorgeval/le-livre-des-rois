@@ -64,7 +64,7 @@ Un homme glorieux et éloquent a dit :
 >
 > Puisque c’est une honte pour un roi de vouloir le mal, il faut que la bonté remplisse son cœur et si la peur entre une seule fois dans son âme, les projets de ses ennemis prévaudront.
 >
-> ARDESCHIR BABEKÂN.
+> 
 >
 > Ne crains pas de faire des générosités ; apprécie autant que tu peux, ô mon fils, la valeur de toute chose.
 >
