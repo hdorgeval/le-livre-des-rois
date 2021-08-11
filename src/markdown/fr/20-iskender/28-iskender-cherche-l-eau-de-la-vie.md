@@ -18,8 +18,7 @@ order: '028'
 
 Il partit de là gaiement avec son armée et appela autour de lui les grands pleins de prudence.
 
-Il marcha jusqu’à ce qu’il arrivât à une ville, dont il ne c
- \* H3 voyait ni le milieu ni la fin et qui contenait en abondance tout ce qu’il faut, étant pleine de jardins et de places publiques, de palais et d’édifices.
+Il marcha jusqu’à ce qu’il arrivât à une ville, dont il ne \* H3 voyait ni le milieu ni la fin et qui contenait en abondance tout ce qu’il faut, étant pleine de jardins et de places publiques, de palais et d’édifices.
 
 Il s’y arrêta et le lendemain de grand matin il se rendit sans cortège à la source.
 
@@ -41,11 +40,9 @@ Le roi lui dit :
 >
 > Personne ne meurt qui tâche d’instruire son esprit, se confie en Dieu et suit la route de la raison.
 >
-> J’ai avec moi deux esv. ’ 
-"à
-carboucles qui brilleront dans la nuit sombre lorsqu’elles apercevront l’eau.
+> J’ai avec moi deux esv. ’ "à carboucles qui brilleront dans la nuit sombre lorsqu’elles apercevront l’eau.
 >
-> Prends-en une, marche devant moi et aie soin de ton âme et de ton corps ; l’autre me servira de flambeau sur ma route..le vais entrer dans ces ténèbres avec mon escorte et nous verrons ce que le Créateur y tient caché.
+> Prends-en une, marche devant moi et aie soin de ton âme et de ton corps ; l’autre me servira de flambeau sur ma route.le vais entrer dans ces ténèbres avec mon escorte et nous verrons ce que le Créateur y tient caché.
 >
 > Tu es mon guide et Dieu est mon refuge ; il me conduira à cette eau et me dirigera. »
 
