@@ -30,7 +30,7 @@ Le sage regarda le beurre et dit :
 
 Il versa mille aiguilles dans le beurre et le renvoya ainsi au roi.
 
-Le roi du monde considéra les aiguilles et fit v venir en secret des forgerons ; il leur ordonna de tondre toutes ces aiguilles et d’en faire un disque en fer.
+Le roi du monde considéra les aiguilles et fit venir en secret des forgerons ; il leur ordonna de tondre toutes ces aiguilles et d’en faire un disque en fer.
 
 Il fit remettre à l’instant cet objet au savant, qui y jeta les yeux, se mit à polir le disque et renvoya ce fer de couleur sombre qu’il avait converti en miroir brillant et pur de rouille.
 
@@ -48,17 +48,17 @@ Il lui parla d’abord de la coupe pleine de beurre, pour approfondir le savoir 
 
 Le sage répondit au roi :
 
-> Le beurre pé- nètre dans les membres et tu as voulu indiquerque tu avais plus de savoir que tous les philosophes de ce pays ; mais ma réponse était que l’esprit d’un homme savant et pur perce les pieds et les os comme une aiguille et brise une pierre quand -il la rencontre.
+> Le beurre pénètre dans les membres et tu as voulu indiquer que tu avais plus de savoir que tous les philosophes de ce pays ; mais ma réponse était que l’esprit d’un homme savant et pur perce les pieds et les os comme une aiguille et brise une pierre quand -il la rencontre.
 >
 > Là-dessus le roi m’a répondu : Quand un cœur est devenu noir par les fêtes et les combats, par le sang versé et les luttes perpétuelles contre des ennemis, comment les discours subtils de l’homme de sens pourraient-ils trouver entrée dans cette âme ténébreuse" ?
 >
 > Je t’ai répliqué que ma douce éloquence, mon esprit, mon cœur et ma raison prudente me fournissaient des paroles plus déliées qu’un cheveu, pendant que ton cœur n’était pas plus terne que le fer.
 >
-> Tu me répondis : Des années se sont passées dans cet état et mon cœur est rouillé par tout ce sang versé ; comment pourraient. se dis- siper ces ténèbres et comment pourrais-je débrouiller des paroles dans cette obscurité ?
+> Tu me répondis : Des années se sont passées dans cet état et mon cœur est rouillé par tout ce sang versé ; comment pourraient. se dissiper ces ténèbres et comment pourrais-je débrouiller des paroles dans cette obscurité ?
 >
 > Je t’ai répliqué, selon ma connaissance des choses divines, que, ton cœur eût-il été méchant depuis toute éternité, rien ne pourrait plus le couvrir de rouille une fois que ce je l’aurai rendu brillant comme l’eau. »
 
-(les beaux discours du sage plurent à Iskender, et son cœur devint plus ardent pour lui.
+(les beaux discours du sage plurent à Iskender et son cœur devint plus ardent pour lui.
 
 Il ordonna à son trésorier d’apporter des robes, de l’or et de l’ar-
 
@@ -71,12 +71,12 @@ Un remit tout cela au sage, qui dit :
 >
 > Les gardiens ne me demandent pas de salaire pour le garder pendant la nuit et quand je voyage je ne crains pas-les voleurs, car la sagesse est mon gardien pendant la nuit et la raison est le diadème de mon esprit toujours en éveil.
 >
-> Il l’eut avoir du sens, du savoir et de la droiturc, car c’est la perversité qui fait ouvrir la porte de la décadence.
+> Il l’eut avoir du sens, du savoir et de la droiture, car c’est la perversité qui fait ouvrir la porte de la décadence.
 >
-> Le roi me pourvoit en toute circonslance d’assez de nourriture et ide vêtements ; quel plaisir aurais-je de posséder davantage et de me faire le gardien de ces richesses ?
+> Le roi me pourvoit en toute circonstance d’assez de nourriture et ide vêtements ; quel plaisir aurais-je de posséder davantage et de me faire le gardien de ces richesses ?
 >
 > Ordonne-lui de reporter tout cela et puisse l’intelligence être le guide de ton âme ! »
 
-Iskender resta émerveillé de , cet homme et réfléchit longtemps ! à la fin il lui dit :
+Iskender resta émerveillé de, cet homme et réfléchit longtemps ! à la fin il lui dit :
 
 > Dorénavant le Maître du soleil et de la lune ne me trouvera plus en faute, car je m’approprie ta sagesse, tes conseils et tes paroles profitables. »
