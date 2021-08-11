@@ -88,6 +88,6 @@ Un Pehlewan partit pour Amouï avec une troupe vaillante qui précédait l’arm
 
 Il marcha sur la ville de Boukhara avec ses troupes bien équipées et pleines d’ardeur et dit :
 
-> Samarcande et ,Djadj dnivent êtresoumises par nous à cet anneau età cette couronne, car telle a été la volonté du roi du monde, Yezdegird, ce monarque auquel les planètes obéissaient.
+> Samarcande et ,Djadj dnivent être soumises par nous à cet anneau età cette couronne, car telle a été la volonté du roi du monde, Yezdegird, ce monarque auquel les planètes obéissaient.
 >
 > Je viens avec mon épée tirer vengeance de Bijen parce qu’il a obscurci la fortune du grand roi. »
