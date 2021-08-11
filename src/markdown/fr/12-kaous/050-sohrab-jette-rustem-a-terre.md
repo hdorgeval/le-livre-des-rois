@@ -16,7 +16,7 @@ order: '050'
 
 # Sohrab jette Rustem par terre
 
-Lorsque le soleil brillant leva sa tête et que le corbeau aux plumes noires plia ses ailles, Busteni se revêtit de sa cuirasse de peau de léopard et monta sur son dragon bondissant.
+Lorsque le soleil brillant leva sa tête et que le corbeau aux plumes noires plia ses ailles, Rustem se revêtit de sa cuirasse de peau de léopard et monta sur son dragon bondissant.
 
 Or il y avait entre les deux armées un espace de deux farsangs sur lequel personne n’osait s’aventurer.
 
@@ -74,7 +74,7 @@ Rustem lui répondit :
 >
 > Nous sommes convenus hier de lutter et je n’ouvrirai pas l’oreille à tes paroles trompeuses.
 >
-> Tu n’es qu’un jeune homme, maisimoi je ne suis pas un enfant ; c’est pour la lutte que je me suis ceint.
+> Tu n’es qu’un jeune homme, mais moi je ne suis pas un enfant ; c’est pour la lutte que je me suis ceint.
 >
 > Nous ferons de notre mieux et il en sera ce que le maître du monde aura voulu et ordonné.
 >
