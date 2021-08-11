@@ -31,7 +31,7 @@ Après les louanges du Créateur. qui lui avait envoyé la bonne et la mauvaise 
 rotation et l’action du soleil et de la lune ; aujour-
 ’d’liui que le sort est accompli et que notre cœur est plein de douleur, que pouvons-nous espérer de cette voûte bleue ?
 >
-> Maintenant, si tu veux y consentfr et faire un traité avec moi, si tu veux re- noncer à m’attaquer, j’enverrai de mon trésor dans le tien toutes les richesses de Guschtasp et d’Isfendiar, les bracelets, les couronnes et les boucles d’oreilles, j’enverrai tout ce que j’ai acquis moi-même avec bien des fatigues.
+> Maintenant, si tu veux y consentir et faire un traité avec moi, si tu veux renoncer à m’attaquer, j’enverrai de mon trésor dans le tien toutes les richesses de Guschtasp et d’Isfendiar, les bracelets, les couronnes et les boucles d’oreilles, j’enverrai tout ce que j’ai acquis moi-même avec bien des fatigues.
 >
 > Je serai ton soutien dans la guerre et le jour où tu me demanderas de me hâter, je ne tarderai pas.
 >
