@@ -22,7 +22,7 @@ Le scribe tailla le roseau et écrivit une lettre à la mère.
 
 Bouscbenek,’ disant :
 
-> a : Que .Diault’accorde la récom- pense des vertueux, qu’il te donne après tes pentes de la tranquillité d’âme 1 le t’ai déjà écrit une lettre qui contient plus de conseils que je n’en donnerai ici.
+> > : Que .Diault’accorde la récompense des vertueux, qu’il te donne après tes pentes de la tranquillité d’âme 1 le t’ai déjà écrit une lettre qui contient plus de conseils que je n’en donnerai ici.
 
 Lorsque les jours de ton mari furent passés et . qu’il ont péri parla main d’un esclave, je l’ai placé dans son linceul àla manière des rois, j’ai fait tout. ce qu’il faut pour le deuil d’un maître du monde.
 
@@ -30,11 +30,11 @@ Avant le combat, j’ai souvent demandé la paix : il ne me l’a pas accordée,
 
 J’ai vengé sa mort par la torture de son ennemi et j’espère que Dieu a reçu Dara dans le paradis, qu’il lui a donné une place parmi les bons et qu’il destine à ses ennemis le poison des pointas des flèches.
 
-Personne n’ée schappe auxgriifas de la mamelle est le vent d’au- tomas et nous sommas les feuilles.
+Personne n’ée schappe auxgriifas de la mamelle est le vent d’au-tomas et nous sommas les feuilles.
 
 Maintenant’le monde entier attend vos ordres.
 
-Beaucoup de té- moins ont entendu Data dans ses dernières volontés me fiancer à Bouschenek en disant :
+Beaucoup de té-moins ont entendu Data dans ses dernières volontés me fiancer à Bouschenek en disant :
 
 > Il ta faut une famine comme elle dans tes appartements secrets.
 >
@@ -67,13 +67,13 @@ Puisse la pureté du cœur rester ta compagne !
 
 Puisse l’appartement des reines rester ta retraite in Un sage arriva rapidement comme la poussière et fit connaître les paroles du roi du monde à Dilaraï, qui les écouta en soupirant.
 
-Au nom de Dara, ses yeux versèrent des larmes de sang qui inondèrent i la terre.
+Au nom de Dara, ses yeux versèrent des larmes de sang qui inondèrent la terre.
 
 Elle lit appeler le scribe’qui écrivait ses lettres, et, les joues mouillées du sang qui découlait de ses cils, elle fit à l’instant écrire une réponse ; elle fit écrire des paroles sensées et de bon augure.
 
 Elle commença par les louanges du Distributeur de la justice, du maître du repos, des bons conseils et de la valeur, ensuite elle dit :
 
-> Nous avions demandé au Créateur du ciel, de qui viennent la lutte et le repos et la compassion, toutes ses grâces pour Dura, dont notre langue ne cessait de prononcer le renom ; mais maintenant que son temps est passé, que les planches du cercueil sont devenues son trône, je le souhaite tout bonheur dans la vie, et la puissance, la victoire et la royauté ; je souhaite que la terre soit à tes ordres et je manifesterai ces sentiments devant le monde, car j’ai entendu tout ce que tu as fait si. tendrement (puisse le ciel seréjouir des vertus de ton âme!) pour le tombeau de Dura et pour la punition de Mahiar et du méchant Djanousipar.
+> Nous avions demandé au Créateur du ciel, de qui viennent la lutte et le repos et la compassion, toutes ses grâces pour Dura, dont notre langue ne cessait de prononcer le renom ; mais maintenant que son temps est passé, que les planches du cercueil sont devenues son trône, je le souhaite tout bonheur dans la vie et la puissance, la victoire et la royauté ; je souhaite que la terre soit à tes ordres et je manifesterai ces sentiments devant le monde, car j’ai entendu tout ce que tu as fait si. tendrement (puisse le ciel se réjouir des vertus de ton âme!) pour le tombeau de Dura et pour la punition de Mahiar et du méchant Djanousipar.
 >
 > Quand quelqu’un verse le sang du maître, il ne peut pas rester longtemps sur la terre.
 >
