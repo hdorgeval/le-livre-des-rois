@@ -58,8 +58,7 @@ Il dit à Schapour :
 >
 > Réfléchis à ce que mon enfant a fait contre moi ; attends-toi de sa tendresse à quelque chose
 >
-> 
-de semblable et méfie-toi dorénavant des étrangers. »
+> de semblable et méfie-toi dorénavant des étrangers. »
 
 Schapour répondit à cet homme au mau-
 vais renom :
