@@ -75,8 +75,7 @@ Un autre dit :
 
 Un autre dit :
 
-> Un homme habile lutte pour que les soucis ne rendent pas jaune son visage ; maintenant, ô homme plein de vertu et de bravoure, l’or jaune du cercueil t’a 
- vaincu. »
+> Un homme habile lutte pour que les soucis ne rendent pas jaune son visage ; maintenant, ô homme plein de vertu et de bravoure, l’or jaune du cercueil t’a vaincu. »
 
 Un autre dit :
 
@@ -102,12 +101,12 @@ Un autre dit :
 
 > Ce que tu as fait s’en est allé au vent.
 >
-> La tête des grands est délivrée de ton oppression, et tu vas voir maintenant une cour sublime, un monde où les brebis et les loups sont séparés. »
+> La tête des grands est délivrée de ton oppression et tu vas voir maintenant une cour sublime, un monde où les brebis et les loups sont séparés. »
 
 Un autre dit :
 
 > Pourquoi t’es-tu donné tant de peine dans cette demeure passagère ; car le résultat de tes fatigues a été qu’un étroit cercueil forme ton trésor.
-’ Tu voudrais entendre le son des clairons ; mais il faut que tu te contentes’d’être enfermé dans une -- bière. »
+’ Tu voudrais entendre le son des clairons ; mais il faut que tu te contentes’d’être enfermé dans une --bière. »
 
 Un autre dit :
 
