@@ -24,7 +24,7 @@ Keïdafeh se mit à rire de lui et de sa bravoure et de ses paroles de colère e
 >
 > Ce n’est pas à ta puissance qu’a succombé Four l’Indien, ni Dara fils de Darab, ni les héros du Sind ; le jour de ces puissants du monde était passé, les astres t’ont favorisé et maintenant tu es fier de ta bravoure parce que tu es devenu le maître de la terre et de l’époque.
 >
-> Sache que tout bonheur vient de Dieu et rends-lui grâce tant que c tu»
+> Sache que tout bonheur vient de Dieu et rends-lui grâce tant que tu»
 
 Restes en vie.
 
@@ -38,9 +38,9 @@ Un roi qui est en état de faire sa volonté et qui se montre généreux par sen
 
 Sache que quiconque verse le sang d’un roi ne trouvera dans la tombe que le feu.
 
-Reste donc avec confiance et pars joyeusement et quand.tu seras de retour, prends des habitudes nouvelles et ne va plus - nulle part remplir les propres missions, car la poussière même sait que tu es Iskender.
+Reste donc avec confiance et pars joyeusement et quand.tu seras de retour, prends des habitudes nouvelles et ne va plus -nulle part remplir les propres missions, car la poussière même sait que tu es Iskender.
 
-Je ne sais au-.cun grand de la terre dont je ne possède pas le portrait, peint de cette façon sur une pièce de soie ; je le place sous la garde d’un homme soigneux, et le soumets à la science des astrologues, pour ap- prendre si je dois avoir confiance en cet homme ou ’ Ml le craindre.
+Je ne sais au-.cun grand de la terre dont je ne possède pas le portrait, peint de cette façon sur une pièce de soie ; je le place sous la garde d’un homme soigneux et le soumets à la science des astrologues, pour apprendre si je dois avoir confiance en cet homme ou ’ Ml le craindre.
 
 Quand un roi prudent s’est. montré généreux, toute l’époque le racontera aux hommes et aux femmes.
 
@@ -58,8 +58,8 @@ Quand le serment fut prêté, Keïdafeh dit :
 >
 > Sache donc que mon fils Theïnousch a peu de respect pour ma sagesse et mes avis.
 >
-> C’est un homme orgueilleux, il est gendre du roi Four et il ne faut pas qu’il se doute de loin ou de près que toi et Iskender êtes la même personne, ni même que tu lui veux du bien, car il voudra venger la’mort de 
-Un !
- Four et ferait dans le combat s’écrouler le ciel sur la terre.
+> C’est un homme orgueilleux, il est gendre du roi Four et il ne faut pas qu’il se doute de loin ou de près que toi et Iskender êtes la même personne, ni même que tu lui veux du bien, car il voudra venger la’mort de Un !
+>
+> Four et ferait dans le combat s’écrouler le ciel sur la terre.
 >
 > Maintenant rentre dans ton palais content et joyeux et ne pense pas aux calamités de la vie. »
