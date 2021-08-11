@@ -27,25 +27,27 @@ Il leur demanda s’il ne se trouvait pas dans ce pays quelque merveille incompa
 Ils répondirent au roi par des lamentations sur la rotation du sert, en disant :
 
 > Nous avons en face de nous une chose affreuse que nous expliquerons au roi à la fortune victorieuse.
-
-Cette montagne, dont la tête est dans les nuages, remplit notre cœur de douleur, de peine et de sang ; nous avons l’âme blessée par Yadjoudj et Madjoudj ; c’est arrivé au point que cela nous arrache le cœur.
-
-Quand une troupe de ces gens arrive dans notre pays, nous n’avons plus que des soucis et des peines.
-
-Tout leur aspect est celui d’animaux, leurs langues sont noi- res, leurs yeux couleur de sang, leurs visages sont noirs, leurs dents comme des défenses de sangliers ; qui pourrait demeurer auprès d’eux ?
-
-Leurs corps sont tout couverts de poils, leurs poitrines de cou-leur sombre,.leurs oreilles comme celles des élé- pliants ; quand ils se couchent, ils font d’une oreille un oreiller et de l’autre une couverture pour leur corps ; chaque femelle met au monde mille petits, et qui pourrait compter leur nombre ?
-
-Ils se rassemblent en troupeaux comme les animaux et quand ils se hâtent, ils courent comme des onagres.
-
-Au printemps, lorsque les nuages lancent des tonnerres et que la mer verte se met à bouillonner, les nuages enlèvent des vagues de gros serpents, l’air se remplit comme de rugissements de lions, les nuages laissent tomber les serpents sur les mon-
+>
+> Cette montagne, dont la tête est dans les nuages, remplit notre cœur de douleur, de peine et de sang ; nous avons l’âme blessée par Yadjoudj et Madjoudj ; c’est arrivé au point que cela nous arrache le cœur.
+>
+> Quand une troupe de ces gens arrive dans notre pays, nous n’avons plus que des soucis et des peines.
+>
+> Tout leur aspect est celui d’animaux, leurs langues sont noires, leurs yeux couleur de sang, leurs visages sont noirs, leurs dents comme des défenses de sangliers ; qui pourrait demeurer auprès d’eux ?
+>
+> Leurs corps sont tout couverts de poils, leurs poitrines de cou-leur sombre,.leurs oreilles comme celles des élépliants ; quand ils se couchent, ils font d’une oreille un oreiller et de l’autre une couverture pour leur corps ; chaque femelle met au monde mille petits et qui pourrait compter leur nombre ?
+>
+> Ils se rassemblent en troupeaux comme les animaux et quand ils se hâtent, ils courent comme des onagres.
+>
+> Au printemps, lorsque les nuages lancent des tonnerres et que la mer verte se met à bouillonner, les nuages enlèvent des vagues de gros serpents, l’air se remplit comme de rugissements de lions, les nuages laissent tomber les serpents sur les mon-
 , tagnes et ces gens viennent par troupes se nourrir de ces serpents, d’année en année et leurs poitrines et leurs membres en grossissent ; ensuite ils vivent d’herbes et vont partout les chercher ; mais quand les chaleurs deviennent fortes, ils maigrissent et leurs voix deviennent faibles comme celles des pigeons, pendant qu’au printemps, étant nourris de serpents, ils hurlent comme des loups, avec de grosses voix.
+>
+> Si le roi pouvait trouver un moyen de délivrerions cœurs de ce souci, nous tous le couvririons de bénédictions et il demeurerait long-A temps sur la terre.
+>
+> Fais acte de ta puissance et pré-
+>
+> Pare notre salut, car toi aussi tu peux avoir besoin de l’aide de Dieu. »
 
-Si le roi pouvait trouver un moyen de délivrerions cœurs de ce souci, nous tous le couvririons de bénédictions et il demeurerait long-A temps sur la terre.
-
-Fais acte de ta puissance et pré-
-
-Pare notre salut, car toi aussi tu peux avoir besoin de l’aide de Dieu. n Iskender resta étonné de leurs paroles, il en eut pitié et se mit à réfléchir, puis il dit :
+Iskender resta étonné de leurs paroles, il en eut pitié et se mit à réfléchir, puis il dit :
 
 > Je puis fournir des trésors et votre pays fournira l’aide et le travail nécessaires.
 >
@@ -63,8 +65,7 @@ A Iskender alla inspecter les montagnes et emmena avec lui un nombre de ses sage
 
 Lorsque l’affaire fut prête et le plan mûri, tous les maçons et les forgerons, quiconque était maître dans ces métiers, accoururent du monde entier auprès d’Iskender et furent ses aides dans cette œuvre, tels qu’il les fallait.
 
-Les hommes habiles de tous les pays a étaient réunis en foule et Iskender fit construire, des deux côtés du défilé de la montagne, deux murs, 
- un s’élevant de la base jusqu’au sommet et larges de deux cents coudées.
+Les hommes habiles de tous les pays a étaient réunis en foule et Iskender fit construire, des deux côtés du défilé de la montagne, deux murs, un s’élevant de la base jusqu’au sommet et larges de deux cents coudées.
 
 On mettait toujours une couche de charbon d’une coudée de haut, puis une de fer ; au milieu, on répandait un peu de cuivre, ensuite on versait dessus du soufre : tels sont l’art et la manière des Keïanides.
 
