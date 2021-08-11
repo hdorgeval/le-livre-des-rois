@@ -54,7 +54,7 @@ Semblable à Aderguschasp, il le frappa de sa lance, le souleva de selle et le t
 
 Surkheh sentit avec douleur qu’il était le plus faible et recula ; ensuite il se jeta de nouveau sur Faramourz une épée indienne à la main et semblable à un éléphant furieux.
 
-Les cavaliers touraniens arrivèrent derrière leur chef en poussant des cris ; mais Faramourz, aussitôt que Surkheh fut à sa portée, étendit la main brusquement comme un léopard agile, le saisit à la ceinture, l’enleva de selle, le jeta par terre, le fit marcher ignominieusement devant lui à pied et l’emmena ainsi de la mêlée au camp iramen.
+Les cavaliers touraniens arrivèrent derrière leur chef en poussant des cris ; mais Faramourz, aussitôt que Surkheh fut à sa portée, étendit la main brusquement comme un léopard agile, le saisit à la ceinture, l’enleva de selle, le jeta par terre, le fit marcher ignominieusement devant lui à pied et l’emmena ainsi de la mêlée au camp iranien.
 
 .
 
