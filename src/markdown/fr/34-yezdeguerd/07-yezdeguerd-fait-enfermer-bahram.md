@@ -51,7 +51,6 @@ Bahram, dont le cœur avait été si troublé. fut heureux et délivré de sa mi
 
 Il fit de grandes aumônes aux pauvres et s’apprête à partir ; il appela auprès de lui ses dépendants et partit une nuit sombre avec son cortège, rapidement comme
 
-
 M5 le vent, disant à ses amis :
 
 > Grâces soient rendues à Dieu, que nous soyons en route et délivrés de nos terreurs. »
