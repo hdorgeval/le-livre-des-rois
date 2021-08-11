@@ -75,7 +75,7 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Maudit serait le jour où il traverserait
 >
-> KEl KllOSBOli. le fleuve avec ses troupes, où il remporterait sur nous la victoire dans une bataille ; mais aucun de nous ne verra ce jour de ténèbres et d’angoisse.
+> le fleuve avec ses troupes, où il remporterait sur nous la victoire dans une bataille ; mais aucun de nous ne verra ce jour de ténèbres et d’angoisse.
 >
 > Je ce vais commander au Sipehdar Thous de faire mettre sur-le-champ les timbales sur le dos des éléphants, de s’emparer du Dehistân, du Gourgân et de toute cette région et de lever la tête jusqu’au soleil ; je partirai moi-même aussitôt après Thous, avec des éléphants et mon trône, pour te soutenir et renforcer ton armée.
 >
