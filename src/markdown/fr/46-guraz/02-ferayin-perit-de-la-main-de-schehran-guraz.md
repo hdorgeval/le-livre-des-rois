@@ -18,7 +18,7 @@ order: '002'
 
 Or, un jour le roi fit ses préparatifs et sortit de la ville pour aller à la chasse, accompagné d’une armée d’Iraniens composée d’hommes de tout rang.
 
-Feray!»
+Feray ! »
 
 Lança son cheval et courut de tous côtés, semblable à Aderguschasp ; les cavaliers réunis autour du roi s’élancèrent sur les bêtes fauves pour leur faire la chasse.
 
