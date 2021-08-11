@@ -20,7 +20,7 @@ Lorsqulil fut arrivé auprès des hommes aux pieds flexibles, il regarda et vit 
 
 Ils se mirent à lancer de grosses pierres qui faisaient un bruit comme le vent d’au-tomne qui traverse les arbres.
 
-L’armée d’lskender s’avançait, frappant avec des flèches et avec l’épée : on aurait dit que le jour brillant devenait la nuit et lorsqu’il ne restait plus beaucoup des hommes aux pieds flexibles, le roi se reposa et emmena ses troupes.
+L’armée d’Iskender s’avançait, frappant avec des flèches et avec l’épée : on aurait dit que le jour brillant devenait la nuit et lorsqu’il ne restait plus beaucoup des hommes aux pieds flexibles, le roi se reposa et emmena ses troupes.
 
 Il marcha rapidement jusqu’à une ville dont ilne voyait ni le centre ni les limites ; tous les habitants vinrent respectueusement, le cœur ouvert et ne demandant rien ; ils apportèrent des tapis, des vête--ments et des mets de toute espèce.
 
@@ -47,7 +47,7 @@ Trésor e.t se fit amener cinq bœufs, les tua, les écomha en laissaut la peau 
 
 Il remplit la peau de ces bœufs de poison et de’naphte et se dirigea rapidement vers le dragon, ordonnant qu’on soulevât ces peaux et qu’on les portât par des relais d’hommes.
 
-Quand il fut arrivé près du dragon, il aperçut un objet qui ressemblait à un nuage noir, r in.
+Quand il fut arrivé près du dragon, il aperçut un objet qui ressemblait à un nuage noir, in.
 
 Avec une langue bleue, deux yeux comme du feu et une gueule d’où sortaient des flammes.
 
@@ -68,8 +68,9 @@ Sur cette crête se trouvait un trône d’or, loin de la foule et éloigné des
 
 Sur ce trône était assis un vieillard à la mine majestueuse, même après la mort.
 
-Il était couvert d’un manteau de brocart et sa tête portait un diadème orné de pierreries de toute espèce ; autour de lui tout était de l’or et de l’argent et personne ne pouvait passer près de lui ; quiconque montait sur cette hanteur pour demander quelque choæ à ce mort tremblait, si intrépide qu’il fût, sur cette montagne et mourait en ce lieu dans des Convulsions. 
- Iskender, montant sur la crête, regarda fixement ce
+Il était couvert d’un manteau de brocart et sa tête portait un diadème orné de pierreries de toute espèce ; autour de lui tout était de l’or et de l’argent et personne ne pouvait passer près de lui ; quiconque montait sur cette hanteur pour demander quelque choæ à ce mort tremblait, si intrépide qu’il fût, sur cette montagne et mourait en ce lieu dans des Convulsions.
+
+Iskender, montant sur la crête, regarda fixement ce
 \*mort couvert d’or et d’argent et entendit une voix disant : Ô roi !
 
 Tu as achevé ta carrière ; tu as dérr truitbien des trônes de rois ; tu as élevé ta tête jusqu’à la voûte du ciel ; tu as fait périr bien des ennemis et bien des amis, ton temps de partir est arrivém À cette voix, les joues du roi devinrent comme des flambeaux et il quitta la montagne, portant au cœur une blesssure.
