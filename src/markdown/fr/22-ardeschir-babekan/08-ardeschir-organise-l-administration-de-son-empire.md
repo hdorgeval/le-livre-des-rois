@@ -147,9 +147,7 @@ Quand le maître du monde’est le compagnon de la justice, le temps ne peut pas
 
 Réfléchis sur les règles suivies par ce noble homme et quels solides fondements de gloire il a jetés !
 
-Il avait dans le monde entier des émissaires intelligents, qui avaient les yeux ouverts et observaient tout ; quand ils lui faisaient connaître un lieu ruiné ou dont le ruisseau manquait d’eau, il accordait une uti 
-Ll
-remise d’impôts et ne trouvait pas au-dessous de lui de ménager les terres de qui que ce fût.
+Il avait dans le monde entier des émissaires intelligents, qui avaient les yeux ouverts et observaient tout ; quand ils lui faisaient connaître un lieu ruiné ou dont le ruisseau manquait d’eau, il accordait une uti Il remise d’impôts et ne trouvait pas au-dessous de lui de ménager les terres de qui que ce fût.
 
 Quand un propriétaire s’était appauvri et que sa substance avait disparu, il lui donnait de son trésor des instruments et du cheptel et ne permettait pas que sa trace disparût du pays.
 Écoute, ô roi, les paroles d’un prince sage et rends prospère le monde de la même manière.
