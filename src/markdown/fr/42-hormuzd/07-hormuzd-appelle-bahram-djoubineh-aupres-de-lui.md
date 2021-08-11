@@ -58,7 +58,7 @@ Mais c’est elle que a je choisis parmi ces jeunes filles et je me gardai de je
 
 Le Khakan me dit :
 
-> a Choisisen une autre, elles sont toutes les cinq belles et glorieuses ; mais je répondis : Il me faut celle-ci ; si j’en choisissais une autre, il m’en arriverait Il fit alors appeler ses Mobeds, les fit s’accummalheur.
+> Choisisen une autre, elles sont toutes les cinq belles et glorieuses ; mais je répondis : Il me faut celle-ci ; si j’en choisissais une autre, il m’en arriverait Il fit alors appeler ses Mobeds, les fit s’accummalheur.
 
 HOBMUZD,’ M3
 ce pir devant le trône royal et leur adressa des questions sur la fortune future de sa fille et sur la rotation de son étoile.
