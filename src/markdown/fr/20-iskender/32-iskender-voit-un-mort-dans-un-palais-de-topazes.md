@@ -32,7 +32,7 @@ Près de la source était placé un trône double en or, sur lequel était couch
 
 Sa tête reposait sur un coussin de camphre et une couverture de brocart était jetée sur lui.
 
-Le corps de quiconque y allait et voulait emporter quelque chose de ce palais, ou même ne faisait qu’en fouler le sol, tremblait dans ce lieu, et la vie s’éloignait dans ce tremblement.
+Le corps de quiconque y allait et voulait emporter quelque chose de ce palais, ou même ne faisait qu’en fouler le sol, tremblait dans ce lieu et la vie s’éloignait dans ce tremblement.
 
 Une voix sortit de la source d’eau salée, disant :
 
