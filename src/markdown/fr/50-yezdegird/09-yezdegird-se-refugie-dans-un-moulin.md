@@ -215,7 +215,7 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouî :
 >
 > DES ROISH Quatrièmement, rappelle-toi le châtiment d’Erdjasp, le meurtrier de Lohrasp : Isfendiar lui déclara la guerre et ne laissa pas longtemps son crime inexpié.
 >
-> Cinquièmement, je citerai la vengeance d’lsfendiar : Rustem, qui l’avait égorgé sur le champ de bataille, mourut a son tour ; ce héros, splendeur du monde, disparut.
+> Cinquièmement, je citerai la vengeance d’Isfendiar : Rustem, qui l’avait égorgé sur le champ de bataille, mourut a son tour ; ce héros, splendeur du monde, disparut.
 >
 > N’oublie pas comment Bahman mit fin à la vie du fils de Rustem.
 >
