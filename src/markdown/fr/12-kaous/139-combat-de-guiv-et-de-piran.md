@@ -58,9 +58,9 @@ Le terrible Guiv, le puissant Pehlewan, chef des braves, poussa un cri de rage e
 >
 > Thous a envoyé un messager pour la demander ; mais Tehemten n’a fait qu’en rire, il a refusé toutes ces alliances, n’en ayant trouvé aucune digne de lui.
 >
-> Il a regardé longtemps et de tous côtés, et aucun des braves qu’il voyait ne lui a convenu.
+> Il a regardé longtemps et de tous côtés et aucun des braves qu’il voyait ne lui a convenu.
 >
-> C’est à moi qu’il a donné sa noble fille, qui lui était plus chère que son diadème ; c’est à moi que le héros qui porte haut la tête a donné sa fille aînée Banougouschasp la guerrière ; c’est moi qu’il’a choisi parmi tant de braves ; c’est moi dont il a élevé la tête jusqu’au ciel sublime.
+> C’est à moi qu’il a donné sa noble fille, qui lui était plus chère que son diadème ; c’est à moi que le héros qui porte haut la tête a donné sa fille aînée Banougouschasp la guerrière ; c’est moi qu’Il a choisi parmi tant de braves ; c’est moi dont il a élevé la tête jusqu’au ciel sublime.
 >
 > De mon côté j’ai donné à Rustem ma sœur, la reine des reines, Schehri-Banou-Irem.
 >
