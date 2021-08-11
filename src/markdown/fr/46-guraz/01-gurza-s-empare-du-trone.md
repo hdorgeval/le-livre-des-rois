@@ -42,7 +42,7 @@ Le fils cadet parla ensuite en ces termes :
 
 Guraz goûta mieux ce discours et il recommanda à son fils aîné de ne pas faire d’imprudence.
 
-Il ordonna ensuite à l’inspecteur des revues de siéger au bureau royal et réunit toute l’armée devant le palais.
+Il ordonna ensuite à l’inspecteur des revues de sièger au bureau royal et réunit toute l’armée devant le palais.
 
 Il distribua de l’argent jour et nuit et accorda beaucoup de présents d’honneur à ceux qui ne les méritaient pas : en deux semaines, il ne restait plus des trésors d’Ardeschir que la valeur d’une plume de flèche.
 
