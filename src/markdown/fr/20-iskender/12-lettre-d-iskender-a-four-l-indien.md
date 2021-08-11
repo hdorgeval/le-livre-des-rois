@@ -18,13 +18,13 @@ order: '012'
 
 Iskender lit partir son armée de Milad, rapidement comme le rent et se rendit à Kanondj, ayant ne laissé son trésor dans le pays de Kei’d.
 
-Lorsqu’il eut amené l’armée auprès de Four, il écrivit une lettre respirant les combats et la lutte ; une lettre de la part d’Iskender, roi des rois, Pheïlekous, qui allume l’incendie ou apporte la prospérité et les tendresses, àFour l’Indien, le roi de l’Inde, dont l’étoile est , puissante, le maître de l’armée du Sind.
+Lorsqu’il eut amené l’armée auprès de Four, il écrivit une lettre respirant les combats et la lutte ; une lettre de la part d’Iskender, roi des rois, Pheïlekous, qui allume l’incendie ou apporte la prospérité et les tendresses, àFour l’Indien, le roi de l’Inde, dont l’étoile est, puissante, le maître de l’armée du Sind.
 
 Il commença par invoquer Dieu, qui a toujours existé et existera toujours.
 
 L’empire, le trône et la couronne restent à celui à qui Dieu accorde une fortune victorieuse ; mais celui qu’il veut déprimer reste confus et le soleil sublime ne luit pas sur lui.
 
-Sans doute tu as entendu combien Dieu le tout saint m’a accordé. sur cette terre sombre, de victoires, de fortune et de majesté, tu sais qu’il m’a donné le diadème et
+Sans doute tu as entendu combien Dieu le tout saint m’a accordé sur cette terre sombre, de victoires, de fortune et de majesté, tu sais qu’il m’a donné le diadème et
 ’le trône du roi des rois.
 
 Bien de cela ne durera ; mon jour passera et un autre viendra jouir de toutes ces grandeurs ; mais il faut que je laisse de la gloire et non pas de la honte dans ce centre de l’orbite de la lune et dans le cercle étroit de la terre.
@@ -57,9 +57,9 @@ Le farouche Four lut la lettre et éclata en colère contre le roi illustre ; il
 >
 > Je m’appelle Four et suis de la famille de Four, qui n’a jamais fait attention aux Knîsars.
 >
-> Lorsque Dara a demandé mon secours, je lrvoyais que son esprit et sa fortune étaient ébranlés ; I"néanmoins je lui si envoyé des éléphants de guerre, et l’ai encouragé de mes paroles.
+> Lorsque Dara a demandé mon secours, je lrvoyais que son esprit et sa fortune étaient ébranlés ; I"néanmoins je lui si envoyé des éléphants de guerre et l’ai encouragé de mes paroles.
 >
-> Mais lorsqu’il eut péri par la main de cet esclave, que la fortune des Iraniens eut baissé et que Dara eut disparu de ce monde, ce qui devait te sauver est devenu pour toi un poison dévorant ; car, s’il lui est arrivé malheur r par un mauvais Destour, pourquoi cela a-t-il fait disparaître de ta tête tout sens ?
+> Mais lorsqu’il eut péri par la main de cet esclave, que la fortune des Iraniens eut baissé et que Dara eut disparu de ce monde, ce qui devait te sauver est devenu pour toi un poison dévorant ; car, s’il lui est arrivé malheur par un mauvais Destour, pourquoi cela a-t-il fait disparaître de ta tête tout sens ?
 >
 > Ne sois pas si ardent pour cette guerre ; car avec moi cela ne se passera pas ainsi.
 >
