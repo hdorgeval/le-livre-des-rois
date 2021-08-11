@@ -132,7 +132,7 @@ Khosrou dit :
 
 > J’ai ri quand ou l’a tué et quand on a fendu son corps.
 >
-> a Sache que celui qui se livre à la moquerie recevra un coup du ciel qui tourne.
+> Sache que celui qui se livre à la moquerie recevra un coup du ciel qui tourne.
 >
 > Il m’a (lit que je m’étais enfui devant un esclave, que je n’avais pas en assez de cœur pour me mesurer avec lui.
 >
