@@ -22,7 +22,7 @@ Sur la crête du rocher étaient plantées dm colonnes en bois d’aloès, qui s
 
 Ces oiseaux parlaient en langue roumie et appelèrent le victorieux maître du monde.
 
-Le Kaïsar entendit ces voix , monta et s’approcha rapidement des oiseaux.
+Le Kaïsar entendit ces voix, monta et s’approcha rapidement des oiseaux.
 
 L’un d’eux lui dit :
 
@@ -34,7 +34,7 @@ L’un d’eux lui dit :
 
 Le roi répondit :
 
-> L’une et l’autre de ces deux choses exis- tent : des maisons en roseaux et d’autres en briques d’or. »
+> L’une et l’autre de ces deux choses existent : des maisons en roseaux et d’autres en briques d’or. »
 
 Lorsque l’oiseau l’eut écouté, il descendit plus bas et cet homme qui adorait Dieu en fut troublé.
 
