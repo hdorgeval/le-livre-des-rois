@@ -26,7 +26,9 @@ Un jour elle lui dit :
 >
 > Ne crains rien, dis-le-moi, car ton corps plein de grâces est enfermé dans une peau d’âne, v.
 >
-> Il l et tu ne jouis ni de sommeil ni de repos.
+> Il !
+>
+> Et tu ne jouis ni de sommeil ni de repos.
 >
 > Tu étais comme un cyprès surmonté par une lune, couverte elle-même dc’ boucles de »musc noir ; maintenant ta taille de cyprès forme un cercle et ton corps d’éléphant est courbé comme un roseau.
 
@@ -49,7 +51,7 @@ Puis, il ajouta :
 
 > Si tu exécutes mes ordres,-si ton cœur m’est garant de mon secret, j’élèveraita tête plus haut que celle des reines, je mettrai le monde sous tes pieds.
 >
-> Apporte à l’heure du dîner du lait chaud, mets-toi à l’œuvre mène cette al- faire doucement, tout doucement ; amollis avec le lait’cette peau d’âne, qui deviendra un objet de récits dans le monde et bien des années après ma mort, tout homme intelligent les répétera encore. »
+> Apporte à l’heure du dîner du lait chaud, mets-toi à l’œuvre mène cette affaire doucement, tout doucement ; amollis avec le lait’cette peau d’âne, qui deviendra un objet de récits dans le monde et bien des années après ma mort, tout homme intelligent les répétera encore. »
 
 La jeune fille demanda alors du lait chaud, en se cachant de tout le monde et en parlant tout bas ; à son retour dam sa chambre, elle prit une coupe et la plaça sur un feu ardent, puis elle la porta en secret chez Schapour, sans en dire un mot à personne.
 
@@ -74,9 +76,9 @@ C’est par la réflexion qu’elle fortifiait son cœur et elle prenait sa rais
 
 Lorsque le soleil disparut au couchant et que la nuit déploya sur sa tête son voile couleur de poix, l’âme de Schapour fut pleine d’anxiété sur ce que la jeune fille allait faire dans la matinée du lendemain.
 
-Mais quand le soleil parut dans le signe du Lion, quand le jour prit le dessus et que le sommeil disparut, tout ce qui se trouvait dans la ville sortit pour la fêle ; heureux ceux qui pouvaienty prendre part !
+Mais quand le soleil parut dans le signe du Lion, quand le jour prit le dessus et que le sommeil disparut, tout ce qui se trouvait dans la ville sortit pour la fête ; heureux ceux qui pouvaienty prendre part !
 
-La jeune fille se dirigea vers le palais avec les précautions qu’on prend quand on cherche un moyen de salut ; se voyant seule et maîtresse du palais, elle se sentit un cœur de lion et des griffes de léopard ; elle emmena des écuries les deux nobles chevaux, emporta les armures de cavaliers qu’elle avait choisies et prit autant d’or qu’il lui fallait, et des perles, des grenats et des joyaux de toute espèce.
+La jeune fille se dirigea vers le palais avec les précautions qu’on prend quand on cherche un moyen de salut ; se voyant seule et maîtresse du palais, elle se sentit un cœur de lion et des griffes de léopard ; elle emmena des écuries les deux nobles chevaux, emporta les armures de cavaliers qu’elle avait choisies et prit autant d’or qu’il lui fallait et des perles, des grenats et des joyaux de toute espèce.
 
 Quand tout fut prêt pour le départ, la nuit étant venue, ils prirent la résolution defuir ensemble.
 
