@@ -28,8 +28,7 @@ Iskender se mit à l’instant à les interroger sur les merveilles qu’ils con
 
 > Ô roi] nous ne savons rien qui soit digne de toi ; ici, il n’y a que de la pauvreté et de la peine et si tu vas plus avant, tu n’auras dans ta main que du vent. »
 
-Ayant entendu ce discours, le roi se dirigea de Djaghwan vers le Sind ; les cavaliers du pays allèrent à sa rencontre et il leur arriva de l’Inde des renforts pour la guerre ; tous ceux qui avaient le cœur blessé par le sort de Four et étaient résolus à verser du sang, amenèrent des éléphants parés de clochettes indiennes et le bruit des armes et le son des trompettes se i
-firent entendre.
+Ayant entendu ce discours, le roi se dirigea de Djaghwan vers le Sind ; les cavaliers du pays allèrent à sa rencontre et il leur arriva de l’Inde des renforts pour la guerre ; tous ceux qui avaient le cœur blessé par le sort de Four et étaient résolus à verser du sang, amenèrent des éléphants parés de clochettes indiennes et le bruit des armes et le son des trompettes se firent entendre.
 
 Le chef des Sindhis se nommait Bendah ; c’était un cavalier qui portait haut la tête, intelligent et puissant.
 
@@ -42,7 +41,7 @@ Les femmes, les enfants et les vieillards s’approcherent du roi sur la route, 
 > Ô roi prudent, reprends du calme, ne livre pas au feu ce pays et ne tue pas les enfants, car à la fin tes jours passeront et heureux celui qui n’a pas foulé la terre en faisant du mal ! »
 
 Mais Iskender ne leur montra aucune tendresse et aux blessés aucune pitié ; et l’on fit parmi ce peuple de nombreux captifs, des femmes, des petits enfants, des hommes jeunes et vieux. .
-Il alla de là dans le Nimrouz, par la voie de Bost, et purgea le monde de tous ses ennemis.
+Il alla de là dans le Nimrouz, par la voie de Bost et purgea le monde de tous ses ennemis.
 
 Ensuite, il partit pour le pays de Yémen, avide de la possession du monde et suivi d’une armée glorieuse.
 
@@ -50,8 +49,7 @@ Lorsque le roi du Yémen et ses grands en eurent nouvelle, ils se présentèrent
 
 Le roi avait choisi dans son pays des présents dignes d’Iekender par leur valeur et leur beauté.
 
-Il avait fait charger dix chameaux d’étoiles rayées du Yémen, 
- cinq autres de pièces d’or et dix de pièces d’argent ; car quiconque a de l’argent aura le cœur exempt de soucis.
+Il avait fait charger dix chameaux d’étoiles rayées du Yémen, cinq autres de pièces d’or et dix de pièces d’argent ; car quiconque a de l’argent aura le cœur exempt de soucis.
 
 Ensuite, il y avait mille corbeilles remplies de safran, des brocarts et des vêtements sans nombre ; puis une coupe de chrysoprase que le roi du Y émets avait dans son trésor et quatre-vingt-cinq ’perles non percées, enfin une coupe de lapis-lazuli, dans laquelle il avait placé soixante topazes, surmontées d’un anneau de grenat.
 
