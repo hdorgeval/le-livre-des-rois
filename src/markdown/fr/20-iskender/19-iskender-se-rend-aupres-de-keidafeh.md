@@ -50,19 +50,19 @@ Il se reposa cette nuit,-et le lendemain de grand matin il se rendit à la cour 
 
 Les serviteurs levèrent le rideau et le laissèrent passer à cheval par la grande porte.
 
-Il vit Keïdafeh sur son trône d’ivoire, une couronne de grenats et de turquoises sur la tête, entourée d’esclaves nombreuses, vêtue d’une tunique mecquoise en brocart et d’une veste bordée en or et brodée d’œillets en pierreries, le visage brillant comme le soleil, assise sur un trône soutenu par des colonnes en cristal et devant elle des esclaves parées de colliers et de boucles d’0- reilles et portant aux pieds des bottines brodées de pierres fines ; Iskender en resta confondu et prononça tout bas bien des fois le nom de Dieu, car le Kaïsar voyait un trône en comparaison duquel le Roum et l’Iran ne comptaient pour rien.
+Il vit Keïdafeh sur son trône d’ivoire, une couronne de grenats et de turquoises sur la tête, entourée d’esclaves nombreuses, vêtue d’une tunique mecquoise en brocart et d’une veste bordée en or et brodée d’œillets en pierreries, le visage brillant comme le soleil, assise sur un trône soutenu par des colonnes en cristal et devant elle des esclaves parées de colliers et de boucles d’0-reilles et portant aux pieds des bottines brodées de pierres fines ; Iskender en resta confondu et prononça tout bas bien des fois le nom de Dieu, car le Kaïsar voyait un trône en comparaison duquel le Roum et l’Iran ne comptaient pour rien.
 
 Iskender s’approcha de la reine et baisa la terre, à la manière des courtisans Keïdafeh le regarda, lui
 
-Fitaccueil, lui adressa beaucoup de questions et le I fit asseoir.
+Fit accueil, lui adressa beaucoup de questions et le I fit asseoir.
 
 Lorsque le soleil brillant eut disparu du ciel et que le temps de l’audience pour les étrangers fut passé, elle fil. dresser des tableset demanda des musiciens et du vin.
 
-On plaça dans toute la salle des tables de bois de teck garnies de boutons d’or et incrustées d’ivoire ; on servit des mets innombrables, et quand les mets furent mangés, on apporta du vin.
+On plaça dans toute la salle des tables de bois de teck garnies de boutons d’or et incrustées d’ivoire ; on servit des mets innombrables et quand les mets furent mangés, on apporta du vin.
 
 Keïdafeh fit placer sur les tables des coupes d’or et d’argent,.et ses hôtes commencèrent par boireà sa santé.
 
-Pendant qu’ils étaient à boireldu vin,la noble reine regarda Iskender plus attentivement, puis elle dit à son trésorier :
+Pendant qu’ils étaient à boireldu vin, la noble reine regarda Iskender plus attentivement, puis elle dit à son trésorier :
 
 > Apporte-moi, telle qu’elle est, cette brillante pièce de soie sur laqùelle est peint un portrait qui charme les cœurs, mais ne le touche pas rudement avec la main. »
 
@@ -78,7 +78,7 @@ Elle dit :
 
 Il répondit :
 
-> Le roi du monde m’a parlé en présence des grands du pays et m’a chargé de dire à Keïdafeh,. la reine au r cœur par :
+> Le roi du monde m’a parlé en présence des grands du pays et m’a chargé de dire à Keïdafeh,. la reine au cœur pur :
 
 > Ne recherche dans le monde que la droite turc.
 >
@@ -95,7 +95,7 @@ Il répondit :
 
 Elle lui dit :
 
-> Mainatenant rentre dans ton palais et repose-toi avec tes .
+> Maintenant rentre dans ton palais et repose-toi avec tes .
 amis.
 >
 > Quand tu viendras demain, je te donnerai ’. ma réponse et j’aviserai à ton retour. »
@@ -114,7 +114,7 @@ Iskender resta confondu de ce lieu, de cette majesté, de cette splendeur et de 
 
 > Voici un palais dont les adorateurs de Dieu ne verront pas l’égal. »
 
-Il s’avança avec dignité vers la reine, on plaça un trône d’or pour lui, et Keïdafeh lui dit :
+Il s’avança avec dignité vers la reine, on plaça un trône d’or pour lui et Keïdafeh lui dit :
 
 > Ô Bithekoun !
 >
@@ -136,7 +136,7 @@ Ensuite elle renvoya tous ceux qui se trouvaient là, fit asseoir l’envoyé to
 
 > Ô fils deAPheïlekous !
 >
-> Les fêtes et les combats, la prospé- rité et l’adversité te sont-ils indifférents ? »
+> Les fêtes et les combats, la prospérité et l’adversité te sont-ils indifférents ? »
 
 Iskender pâlit à ces paroles de la reine, son âme fut affligée, ses joues blêmirent et il lui répondit :
 
@@ -146,8 +146,7 @@ Iskender pâlit à ces paroles de la reine, son âme fut affligée, ses joues bl
 >
 > Je rends grâce à Dieu, qui maintient en vie tous les êtres, que dans ce moment je ne sois pas accompagné d’un grand de la cour, qui pourrait raconter ceci au roi du monde, lequel ne tarderait pas à séparer mon âme de mon corps.
 >
-> Je suis Bithekoun, 
- ô maîtresse du monde !
+> Je suis Bithekoun, ô maîtresse du monde !
 >
 > Ne m’appelle donc pas fils de Pheïlekous. »
 
