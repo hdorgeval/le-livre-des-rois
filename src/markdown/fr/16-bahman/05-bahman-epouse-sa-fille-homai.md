@@ -28,8 +28,10 @@ Lorsque le roi se sentit mourir de son mal, il fit venir auprès de lui Homaï, 
 
 > Voici Tchehrzad, au corps pur, elle n’a pas joui de beau-
 coup de bonheur dans la vie ; je lui donne la couronne et le trône sublime, je lui donne l’armée, le trésor et ma haute fortune.
+>
+> Elle sera mon successeur dans le monde, elle et l’enfant qui naîtra d’elle en secret ; que ce soit une fille ou un fils, ce trône, cette couronne et cette ceinture lui appartiendront. »
 
-Elle sera mon succes- seur dans le monde, elle et l’enfant qui naîtra d’elle en secret ; que ce soit une fille ou un fils, ce trône, cette couronne et cette ceinture lui appartiendront. a Sasan l’écoute, son esprit se trouble et les paroles de Bahman assombrissent son âme. .Pendant trois, jours et trois nuits il se dirigea, dans sa honte, comme un.léopard, de l’Iran vers un autre pays ; il courut jusqu’à ce qu’il eût atteint la ville de Nischapour ; il était plein de tristesse et voulut être loin de son père.
+Sasan l’écoute, son esprit se trouble et les paroles de Bahman assombrissent son âme. .Pendant trois, jours et trois nuits il se dirigea, dans sa honte, comme un.léopard, de l’Iran vers un autre pays ; il courut jusqu’à ce qu’il eût atteint la ville de Nischapour ; il était plein de tristesse et voulut être loin de son père.
 
 Il demanda pour femme une fille d’une famille puissante, il la chérit et l’estime comme sa vie ; mais il ne dit à personne dans le monde sa naissance, il tint secrète cette vérité.
 
