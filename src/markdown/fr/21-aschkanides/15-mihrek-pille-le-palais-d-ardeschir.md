@@ -75,7 +75,7 @@ Arrivé tout près, le roi aperçut une maison sous la porte de laquelle étaien
 
 Le roi répondit :
 
-> C’est par ici qu’a passé Ardeschir et nous sommes restés en arrière dans la confusion, car il s’est enfui devant le ver et Heftwad et devant la vile armée de cet homme de basse naissances Les deux jeunes gens tremblèrent à ces paroles ; ils en étaient affligés et attristés ; ils firent descendre de cheval Ardeschir et le couvrirent de bénédictions ; ils arrangèrent une chambre gaie, dressèrent une table convenable, firent asseoir le roi et ses braves, et se mirent à les servir ; ensuite ils dirent d’une commune voix :
+> C’est par ici qu’a passé Ardeschir et nous sommes restés en arrière dans la confusion, car il s’est enfui devant le ver et Heftwad et devant la vile armée de cet homme de basse naissances Les deux jeunes gens tremblèrent à ces paroles ; ils en étaient affligés et attristés ; ils firent descendre de cheval Ardeschir et le couvrirent de bénédictions ; ils arrangèrent une chambre gaie, dressèrent une table convenable, firent asseoir le roi et ses braves et se mirent à les servir ; ensuite ils dirent d’une commune voix :
 
 > Ô toi qui portes haut la tête !
 >
