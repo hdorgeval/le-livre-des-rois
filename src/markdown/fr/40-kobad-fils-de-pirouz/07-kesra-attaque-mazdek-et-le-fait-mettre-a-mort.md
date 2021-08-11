@@ -39,9 +39,9 @@ sache que Kesra ne partage pas notre foi ; quel droit a-t-il de s’en écarter 
 >
 > Si tu parviens à vaincre ces cinq Diva, la voie du maître du monde sera manifeste pour toi.
 >
-> Ces cinq choses font que les femmes et les richesses sont la perdition de la vraie religiou dans le monde ; il faut les mettre en communauté, si l’on ne veut pas que la vraie foi souffre.
+> Ces cinq choses font que les femmes et les richesses sont la perdition de la vraie religion dans le monde ; il faut les mettre en communauté, si l’on ne veut pas que la vraie foi souffre.
 >
-> C’est par elles que naissent la jalousie, la convoitise et lebesoin, qui se joignent secrètement à la colère et à la vengeance et alors le Div déroute la tête des sages ; il faut donc mettre en communauté les femmes et les richesses. »
+> C’est par elles que naissent la jalousie, la convoitise et le besoin, qui se joignent secrètement à la colère et à la vengeance et alors le Div déroute la tête des sages ; il faut donc mettre en communauté les femmes et les richesses. »
 
 Ayant ainsi parlé, il saisit la main de Kesra, ce qui confondit. le prince iranien ; le jeune homme illustre dégagea sa main avec colère et détourna ses yeux de Mazdek avec indignation.
 
