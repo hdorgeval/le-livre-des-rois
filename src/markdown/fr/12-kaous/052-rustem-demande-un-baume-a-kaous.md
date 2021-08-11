@@ -44,7 +44,7 @@ Et si jamais il me fait du mal, pourrai-je le punir un comme il l’aura mérit�
 
 Tu as entendu comment Rustem a dit :
 
-> Qu’estcc que Kaous ?
+> Qu’est ce que Kaous ?
 >
 > Encore pourtant est-il roi : mais qu’est-ce que Thous ?
 >
