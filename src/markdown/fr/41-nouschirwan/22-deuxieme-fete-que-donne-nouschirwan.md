@@ -142,7 +142,7 @@ Il répondit :
 
 Un autre dit :
 
-> Ô sage, qu’estcce que l’homme de sens approuve le plus ? »
+> Ô sage, qu’est cee que l’homme de sens approuve le plus ? »
 
 Il répondit :
 
