@@ -26,7 +26,7 @@ Il se mit debout devant le maître du monde, disant :
 >
 > Maintenant n’ordonne plus ces pillages, ces meurtres, ces combats et ces agitations ; cesse d’approuver tout ce bruit !
 >
-> Grains Dieu et aie honte devant nous ; réfléchis sur la rotation du sort, qui élève l’un andessus des plus hauts nuages et réduit l’autre à l’angoisse, à l’impuissance et à l’abjection.
+> Grains Dieu et aie honte devant nous ; réfléchis sur la rotation du sort, qui élève l’un au-dessus des plus hauts nuages et réduit l’autre à l’angoisse, à l’impuissance et à l’abjection.
 >
 > Ton père, le maître du monde, la gloire des armées, n’est-il pas allé chercher un cercueil dans le Nimrouz ?
 >
@@ -41,7 +41,7 @@ Il se mit debout devant le maître du monde, disant :
 > Gardien du trône des Keïanides, comme Rustem, il n’a pas reculé devant les fatigues et les combats ; c’est de lui que tu as reçu ton trône comme un héritage et non . pas de Guschtasp ou d’Isfendiar.
 >
 > Prends toute l’époque, depuis Keï-Kobad jusqu’au sage Keï Khosrou, c’est à son épée qu’ils ont dû
-leur puissance et tous l’ont tenu pour plus pré- cieux que le monde entier.
+leur puissance et tous l’ont tenu pour plus pré-cieux que le monde entier.
 >
 > Fais tomber ses chaînes, si tu es homme de sens et détourne ton cœur de la voie du mal. »
 
@@ -55,7 +55,7 @@ Par ordre du Destour, le vénérable conseiller, on prépara une voûte sépulcr
 
 > Hélas !
 
-Vaillant, hé- ro’r’qne Rustem, petit-fils de Neriman le brave, l’illus- tre, pendant que tu vivais, qui est-ce qui s’apercevait que Guschtasp était roi du monde ?
+Vaillant, héro’r’qne Rustem, petit-fils de Neriman le brave, l’illustre, pendant que tu vivais, qui est-ce qui s’apercevait que Guschtasp était roi du monde ?
 
 Maintenant tes trésors sont pillés, le Destan est captif et son fils lamentablement tué par les pointes des flèches.
 
