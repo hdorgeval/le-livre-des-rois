@@ -67,7 +67,7 @@ Ensuite, il partit semblable à un lion bondissant, prêt à venger Siawusch.
 
 Arrivé auprès de Houman, il vit comme une montagne de fer en ébullition : c’était une cuirasse qui illuminait toute la plaine et qui surmontait un éléphant.
 
-Klâl KHOSIIOUÇ Bijen ordonna au truchement de pousser un cri contre son ennemi et de lui dire :
+Bijen ordonna au truchement de pousser un cri contre son ennemi et de lui dire :
 
 > Si tu veux combattre, reviens ici, car Bijen te délie. »
 
