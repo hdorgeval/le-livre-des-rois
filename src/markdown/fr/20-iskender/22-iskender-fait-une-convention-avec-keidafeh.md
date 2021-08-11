@@ -18,46 +18,50 @@ order: '022'
 
 Iskender passa cette longue nuit à chercher des moyens de salut et lorsque les soleil eut montré la M7 frange brodée de sa robe, qu’il eut levé de terre son ; drapeau d’or et que le satin d’azur de la nuit eut disparu, le roi se rendit auprès de Keïdafeh ; le chambellan se leva sous la porte de la salle d’au-dience, et, selon la coutume, le fit descendre de cheval.
 
-Le maître du monde entra auprès de la reine , on renvoya de la salle les étrangers et l’on plaça l’ambassadeur devant Keïdafeh.
+Le maître du monde entra auprès de la reine, on renvoya de la salle les étrangers et l’on plaça l’ambassadeur devant Keïdafeh.
 
 En la voyant assise sur son trône, il dit :
 
 > Puisse Jupiter être le compagnon de ton intelligence !
-
-Par la foi du Messie et par la parole de la droiture, par Dieu qui sait tout et est le témoin de notre langue, par l’adoration et le culte de la croix puissante, par la vie et la tête de la reine redoutable, par la ceinture des prêtres et par le Saint-Esprit, je jure que dorénavant la terre d’Andalous ne me verra plus, que je n’enverrai pas d’armée pour l’envahir, que je ne tramerai plus de ruse d’aucune espèce contre toi, que je ne ferai au-
+>
+> Par la foi du Messie et par la parole de la droiture, par Dieu qui sait tout et est le témoin de notre langue, par l’adoration et le culte de la croix puissante, par la vie et la tête de la reine redoutable, par la ceinture des prêtres et par le Saint-Esprit, je jure que dorénavant la terre d’Andalous ne me verra plus, que je n’enverrai pas d’armée pour l’envahir, que je ne tramerai plus de ruse d’aucune espèce contre toi, que je ne ferai au-
 cun mal à tes fils chéris, que je ne le ferai pas moi-même ni ne l’ordonnerai à un autre.
+>
+> Je jure par ma vie que je m’engage envers toi de ne jamais chercher à t’opprimer, de traiter tes amis comme mes frères et de respecter ton trône comme la croix sainte. »
 
-Je jure par ma vie que je m’engage envers toi de ne jamais chercher à t’opprimer, de traiter tes amis comme mes frères et de respecter ton trône comme la croix sainte. n Keïdafeh écouta attentivement son serment, et observa la droiture de son cœur et la sincérité de ses promesses ; alors elle fit garnir toute la salle de sièges d’or, placer devant elle des vases chinois, ap- 
- : 
-peler les grands et les hommes dont l’étoile était fortunée, les fit asseoir tous sur ces sièges d’or, puis elle fit venir ses deux nobles fils, ses parents et ses alliés et dit :
+Keïdafeh écouta attentivement son serment et observa la droiture de son cœur et la sincérité de ses promesses ; alors elle fit garnir toute la salle de sièges d’or, placer devant elle des vases chinois, ap- : peler les grands et les hommes dont l’étoile était fortunée, les fit asseoir tous sur ces sièges d’or, puis elle fit venir ses deux nobles fils, ses parents et ses alliés et dit :
 
 > ll vaut mieux ne pas se mettre tant en peine dans ce monde fugitif et je ne voudrais pas que la rotation du sort me donnât pour lot la vengeance et la lutte.
+>
+> Iskender ne sera jamais rassasié des combats quand même il abattrait le ciel ; il veut nous faire la guerre pournos trésors et pourtant tous les trésors du monde ne valent pas la peine qu’ils coûtent.
+>
+> Mais je désire ne pas le combattre ni mettre en détresse mon royaume.
+>
+> Je lui ferai donc une réponse sensée, je le couvrirai d’honneurs et lui donnerai des avis ; mais si, malgré mes conseils, il veut nous combattre, s’il néglige les liens et les devoirs qui le rattachent à moi, alors je marcherai vers lui avec mon armée de manière que le ciel et la terre en auront pitié.
+>
+> Mais la tentative qu’il vient de faire ne portera pas malheur et il faut espérer que nous resterons amis.
+>
+> Que dites-vous et quelle réponse me ferez-vous ?
+>
+> Donnez-moi . dans cette affaire, vos conseils qui portent bonheur. »
 
-Iskender ne sera jamais rassasié des combats quand même il abattrait le ciel ; il veut nous faire la guerre pournos trésors, et pourtant tous les trésors du monde ne valent pas la peine qu’ils coûtent.
-
-Mais je désire ne pas le combattre ni mettre en détresse mon royaume.
-
-Je lui ferai donc une réponse sensée, je le couvrirai d’honneurs et lui donnerai des avis ; mais si, malgré mes conseils, il veut nous combattre, s’il néglige les liens et les devoirs qui le rattachent à moi, alors je marcherai vers lui avec mon armée de manière que le ciel et la terre en auront pitié.
-
-Mais la tentative qu’il vient de faire ne portera pas malheur et il faut espérer que nous resterons amis.
-
-Que dites-vous et quelle réponse me ferez-vous ?
-
-Donnez-moi . dans cette affaire, vos conseils qui portent bonheur. a Tous les grands relevèrent la tête, tous lui répondirent :
+Tous les grands relevèrent la tête, tous lui répondirent :
 
 > Ô reine pleine de justice et de noblesse !
+>
+> Personne ne se souvient d’un prince qui te soit comparable.
+>
+> Tu ne dis que ce qu’il y a de mieux et heureux ceux qui ont un chef comme toi.
+>
+> Si le roi devient ton ami, que peut demander de mieux
+>
+> [ Un!) un sage ?
+>
+> Car il n’essayera plus de s’emparer de tes trésors et il ne voudra pas t’affliger au prix de toutes tes richesses.
+>
+> Si un roi comme Iskender, qui sort du Roum et convertit avec son épée en mer de sang tous les pays, quitte ta cour avec des présents tels qu’en comparaison il n’estime pas à la valeur d’une obole toutes les richesses du monde, nous aussi ne voulons que la paix, car le nom de l’homme qui cherche la lutte n’est jamais vénéré. »
 
-Personne ne se souvient d’un prince qui te soit comparable.
-
-Tu ne dis que ce qu’il y a de mieux, et heureux ceux qui ont un chef comme toi.
-
-Si le roi devient ton ami, que peut demander de mieux
-
-[ Un!) un sage ?
-
-Car il n’essayera plus de s’emparer de tes trésors et il ne voudra pas t’affliger au prix de toutes tes richesses.
-
-Si un roi comme Iskender, qui sort du Roum et convertit avec son épée en mer de sang tous les pays, quitte ta cour avec des présents tels qu’en comparaison il n’estime pas à la valeur d’une obole toutes les richesses du monde, nous aussi ne voulons que la paix, car le nom de l’homme qui cherche la lutte n’est jamais vénéré. n Ayant entendu ces paroles des sages et de ses Mobeds favoris au cœur pur, la reine ouvrit la porte de son trésor et fit apporter la couronne de son père avec ses bracelets et son collier d’or.
+Ayant entendu ces paroles des sages et de ses Mobeds favoris au cœur pur, la reine ouvrit la porte de son trésor et fit apporter la couronne de son père avec ses bracelets et son collier d’or.
 
 C’était une couronne dont personne dans cette ville et ce pays ne pouvait évaluer les pierreries.
 
@@ -75,7 +79,7 @@ D’un bouton de grenadier ; de plus, il y avait quatre cents émeraudes vertes 
 
 La femme qui donnait un trésor avait le cœur large comme les vagues de la mer.
 
-Elle fit apporter cinq cents dents d’éléphants, et quelles dents !
+Elle fit apporter cinq cents dents d’éléphants et quelles dents !
 
 Elles formaient une longueur de plusieurs milles ; quatre cents magnifiques peaux de léopards (noirs) appelés berbères et mille peaux de daims mouchetés, toutes pleines. de beauté et richement colorées ; ensuite elle fit amener devant elle cent chiens de chasse qui atteignaient la gazelle plus vite que la flèche et deux cents buffles que des esclaves conduisaient.
 
@@ -112,8 +116,7 @@ Iskender poussa alors un cri, disant :
 
 > Ô homme sa.
 >
-> 
- vaillant !
+> vaillant !
 >
 > Veux-tu te battre ou t’enfuir ? »
 
@@ -135,26 +138,26 @@ Iskender répondit :
 >
 > Pourquoi fléchis-tu au milieu d’une si belle entreprise ?
 >
-> Tu n’as rien à redouter de moi, ne laisse pas entrer la crainte dans ton cœur ; je ne ferai du mal à personne de ta famille, et ne violerai pas le traité que j’ai fait avec Keïdafeh, car vil est un roi qui enfreint un traité. »
+> Tu n’as rien à redouter de moi, ne laisse pas entrer la crainte dans ton cœur ; je ne ferai du mal à personne de ta famille et ne violerai pas le traité que j’ai fait avec Keïdafeh, car vil est un roi qui enfreint un traité. »
 
 Theïnousch descendit à l’instant de cheval et, en profonde détresse, baisa la terre et le maître du monde lui donna sa main, remplissant sa promesse telle qu’il l’avait faite.
 
 Il dit :
 
-> Ne sois pas soucieux, et livre-toi à la joie.
+> Ne sois pas soucieux et livre-toi à la joie.
 
 Je n’ai aucune rancune contre toi dans mon cœur.
 
-J’ai placé ma main dans la main, devant ta mère assise sur son trône d’or, et t’ai promis de placer de même la main du roi du monde dans la tienne.
+J’ai placé ma main dans la main, devant ta mère assise sur son trône d’or et t’ai promis de placer de même la main du roi du monde dans la tienne.
 
 Aujourd’hui j’ai accompli cette promesse, car les paroles vaines ne conviennent pas à un roi.
 
 Je suis Iskender et alors aussi c’était et Iskender qui te faisait des contes à bonne intention. .Keïdafeh savait que la main que tu tenais était celle du raina ’ Le Kaïsar ordonna à un serviteur de placer un trône sous un arbre qui répandait des lieurs ; il fit dresser une table, amener des musiciens et apporter du vin.
 
-Il remit à Theïnousch des robes d’honneur en étoffes du Roum, de la Chine et de la Perse et distribua à ses compagnons de l’or et de l’argent, et à ceux qui y avaient droit, des couronnes et des ceintures ; puis il lui dit :
+Il remit à Theïnousch des robes d’honneur en étoffes du Roum, de la Chine et de la Perse et distribua à ses compagnons de l’or et de l’argent et à ceux qui y avaient droit, des couronnes et des ceintures ; puis il lui dit :
 
 > Ne reste pas ici, car ce bois est loin de ton page et n’est pas un lieu digne de toi.
 >
-> Dis à Keïdafeh en mon nom : Ô femme pleine d’intelligance, maîtresse du monde, clairvoyante et prudente !
+> Dis à Keïdafeh en mon nom : Ô femme pleine d’intelligence, maîtresse du monde, clairvoyante et prudente !
 >
 > Je serai fidèle à, mes promesses aussi longtemps que vivrai et mon âme est pleine de tendresse pour toi. »
