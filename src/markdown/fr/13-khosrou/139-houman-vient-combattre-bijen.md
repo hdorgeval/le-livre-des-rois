@@ -60,7 +60,7 @@ Ces deux hommes prêts à verser du sang portaient haut la tête et leurs cœurs
 
 Ils sortirent des montagnes de Kenabed et se dirigèrent vers la plaine ; ils arrivèrent dans un désert où l’on n’apercevait sur le sol aucune trace du pied de l’homme, où le ciel n’était pas traversé par des vautours, où la poussière ne portait pas l’empreinte du pied du lion et où l’on ne voyait tout autour aucun homme des deux armées qui eût pu les aider et les secourir l’un ou l’autre.
 
-Ils convinrent alors qu’ils n’attaqueraient pas sans sujet les truchemans et que celui qui sortirait en vie de ce combat les laisserait aller sans leur faire de mal, pour qu’ils pussent raconter aux rois le bonheur ou le malheur que la rotation du ciel aurait amené, ce qui se serait l’ait, les combats qui auraient été livrés, les désastres qui seraient arrivés sur cette plaine sanglante.
+Ils convinrent alors qu’ils n’attaqueraient pas sans sujet les truchements et que celui qui sortirait en vie de ce combat les laisserait aller sans leur faire de mal, pour qu’ils pussent raconter aux rois le bonheur ou le malheur que la rotation du ciel aurait amené, ce qui se serait l’ait, les combats qui auraient été livrés, les désastres qui seraient arrivés sur cette plaine sanglante.
 
 Étant convenus de cela, les vaillants cavaliers mirent pied à terre, boutonnèrent les capara-çons de mailles et les attachèrent fortement sur leurs destriers.
 
@@ -81,7 +81,7 @@ Ils prirent les massues après les épées et combattirent à outrance ; ensuite
 
 Ces héros étaient si forts que les courroies de leurs étriers se brisèrent par la violence de leurs efforts ; néanmoins ils ne tombèrent pas de cheval et aucun des deux ne put’dompter l’autre.
 
-Ensuite ils mirent pied à terre ; les deux braves pareils à des lions furieux se reposèrent du combat, pendant que leurs truchemans tenaient leurs chevaux.
+Ensuite ils mirent pied à terre ; les deux braves pareils à des lions furieux se reposèrent du combat, pendant que leurs truchements tenaient leurs chevaux.
 
 Après ce temps d’arrêt ils se levè-
 rent de nouveau et se préparèrent à lutter ensemble.
