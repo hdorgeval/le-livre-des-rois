@@ -16,13 +16,15 @@ order: '007'
 
 # Iskender envoie neuf savants pour voir les quatre merveilles de Keïd
 
-Iskender choisit quelques hommes parmi les Boumis, des hommes de sens, de savoir et sans mau-vaises intentions ; puis il écrivit une lettre pleine d’excuses et de flatteries. de parfums et d’ornements, disant :
+Iskender choisit quelques hommes parmi les Roumis, des hommes de sens, de savoir et sans mau-vaises intentions ; puis il écrivit une lettre pleine d’excuses et de flatteries. de parfums et d’ornements, disant :
 
 > J’envoie auprès de toi neuf grands qui ont ma confiance ; ils ont de l’expérience et connaissent mes secrets, ils ont du. sens et de l’illustration, de la retenue et de la sagesse ; ils ont vu le monde et acquis du savoir, ce sont mes guides et ils ne s’écarteront pas de les avis pleins de, pénétration. v. »
 
 X o Montre-leur ces quatre choses et fais en sorte qu’elles restent dans ton palais pendant que me : messagers y seront.
 
-Quand j’aurai une lettre de ces vieillards, mes observateurs pleins de vertus, m’attestant que quatre choses, telles que personne dans le monde n’en a jamais vu, ont passé sous leurs yeux, je t’écrirai une lettre sur de la soie pour déclarer que Keïd restera roi de l’Inde aussi longtemps qu’il vivra. a Les neuf sages du Roum quittèrent Iskender et se rendirent en toute hâte auprès de Keïd.
+Quand j’aurai une lettre de ces vieillards, mes observateurs pleins de vertus, m’attestant que quatre choses, telles que personne dans le monde n’en a jamais vu, ont passé sous leurs yeux, je t’écrirai une lettre sur de la soie pour déclarer que Keïd restera roi de l’Inde aussi longtemps qu’il vivra. »
+
+Les neuf sages du Roum quittèrent Iskender et se rendirent en toute hâte auprès de Keïd.
 
 Lorsque le roi de l’Inde vit ces personnages, il leur lit beau-coup de questions et écouta leurs réponses ; il les accueillit convenablement et leur fit préparer une demeure magnifique.
 
@@ -68,7 +70,7 @@ Le maître du monde leur répondit :
 >
 > Vous avez aperçu le paradis !
 >
-> Maintenant revenez ici avec les quatre merveilles et ne demandez pas davantage à Kei’d ; remettez-lui mon diplôme de protection et mettez-10.
+> Maintenant revenez ici avec les quatre merveilles et ne demandez pas davantage à Kei’d ; remettez-lui mon diplôme de protection et mettez-.
 >
 > 1 vous en route avec ma belle maîtresse.
 >
