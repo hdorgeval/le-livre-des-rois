@@ -30,20 +30,20 @@ Ne t’atllige pas de ma fin, car la mort n’est pas chose nouvelle. dans le mo
 
 Quiconque naît doit mourir, qu’il soit roi, qu’il soit homme de rien.
 
-Je vais dire aux grands de Roum que, quand ils seront de retour de ce pays, ils ne suivent que tes avis et tes ordres, et que personne ne te désobéisse.
+Je vais dire aux grands de Roum que, quand ils seront de retour de ce pays, ils ne suivent que tes avis et tes ordres et que personne ne te désobéisse.
 
 J’ai assigné un pays à chacun des Iraniens qui ont combattu les Roumis ; et, quand ils auront pris possession de leurs États, j’espère que leurs besoins ne les pousseront pas vers le Roum et que notre pays ne sera jamais mis en danger par un ennemi.
 
 Chaque année vous distribuerez aux cultivateurs cent mille dinars de mon trésor.
 
-Quand je serai mort, vous déposerez mon corps dans la terre de Misr et ne négligerez , aucune de mes volontés.
+Quand je serai mort, vous déposerez mon corps dans la terre de Misr et ne négligerez, aucune de mes volontés.
 
 Si Rouscbenek met au monde un fils, il perpétuera la gloire de son père et il ne faut pas qu’un autre que lui soit roi de Roum, car il fera fleurir ce pays ; mais si, à l’heure de son angoisse, elle met au monde une fille, mariela au fils de Pheïlekous, à qui tu donneras le titre de mon fils et non pas de mon gendre et par lequel tu tiendras fraîche ma mémoire dans le monde.
 
 Vous renverrez la. fille de Keîd à son père, bono-.
 rablement et en toute sécurité ; vous lui donnerez des caisses d’or et ses esclaves qui l’aiment, vous lui préparerez une litière pour la route et quand elle voudra partir, vous renverrez avec elle dans ce l’Inde les diadèmes, les joyaux, l’argent et l’or qu’elle a apportés de chez son père.
 
-J’ai conduit ici à bonne fin toutes les affaires, et. maintenant il ne me reste plus qu’à m’occuper de ma mort.
+J’ai conduit ici à bonne fin toutes les affaires et maintenant il ne me reste plus qu’à m’occuper de ma mort.
 
 Je cm d’abord que vous prépariez un cercueil d’or et un linceul pour me couvrir la tête bourré d’ambre et en tissu d’or de Chine digne de moi et que personne ne recule devant les soins à donner à mon corps.
 
@@ -65,7 +65,7 @@ Sans aucun doute ton âme rejoindra mon âme quand la fin de tes jours sera arri
 Le calme est une plus grande vertu que la tendresse et il n’y a que les faibles qui se laissent aller à leurs passions.
 
 Tu m’as aimé
-4 pendant des années et des mois ; maintenant prie ce Dieu pour mon âme chérie ; aide-moi de tes prières , car tes invocations à Dieu me serviront.
+4 pendant des années et des mois ; maintenant prie ce Dieu pour mon âme chérie ; aide-moi de tes prières, car tes invocations à Dieu me serviront.
 
 Regarde si tu trouves quelqu’un dans le monde dont l’âme ne soit pas frappée par la mort.
 
