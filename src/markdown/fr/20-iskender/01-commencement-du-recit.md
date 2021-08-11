@@ -26,7 +26,7 @@ Que ses grâces soient sur l’âme de Mohammed et que tous les compagnons du Pr
 
 Le chef des compagnons était Ali, que le Prophète a appelé son successeur.
 
-Tous ont été des hommes saints, et maîtres de leurs passions ; mais les paroles d’Ali sont incomparables.
+Tous ont été des hommes saints et maîtres de leurs passions ; mais les paroles d’Ali sont incomparables.
 
 Maintenant redoublons de paroles de grâces, bénissons le Créateur, bénissons la couronne du roi des rois, dont la fortune donne de 8. l’éclat à la lune.
 
@@ -59,17 +59,19 @@ Maintenant je reviens à mes récits : je vais les mettre en vers d’après des
 LorsqueIskender futassissurle trône, il dit :
 
 > Puisse la raison être la compagne de l’âme des rois !
+>
+> Car c’est Dieu qui donne la victoire dans le monde et le roi qui ne le craint pas est un méchant.
+>
+> Notre bonne et notre mauvaise fortune passeront certainement et personne n’échappe à la griffe du temps.
+>
+> Quiconque se présentera à cette cour, me demandant justice contre moi-même, qu’il vienne à l’heure de l’audience ou au milieu de la nuit, il recevra une réponse aussitôt qu’il aura parlé.
+>
+> Puisque celui qui accorde le succès m’a donné le pou-. voir, puisqu’il m’a ouvert la porte de la victoire, tous mes sujets, qu’ils vivent dans les montagnes on dans le désert, sur les eaux on dans les villes, auront leur part ; je ne demanderai aneun tribut pendant cinq ans, si ce n’est à celui qui préteu-
+>
+> Drait être mon égal.
+>
+> Je donnerai beaucoup aux pauvres et ne prendrai rien à ceux qui possèdent. »
 
-Car c’est Dieu qui donne la victoire dans le monde, et le roi qui ne le craint pas est un méchant.
-
-Notre bonne et notre mauvaise fortune passeront certainement et personne n’échappe à la griffe du temps.
-
-Quiconque se présentera à cette cour, me demandant justice contre moi-même, qu’il vienne à l’heure de l’audience ou au milieu de la nuit, il recevra une réponse aussitôt qu’il aura parlé.
-
-Puisque celui qui accorde le succès m’a donné le pou-. voir, puisqu’il m’a ouvert la porte de la victoire, tous mes sujets, qu’ils vivent dans les montagnes on dans le désert, sur les eaux on dans les villes, auront leur part ; je ne demanderai aneun tribut pendant cinq ans, si ce n’est à celui qui préteu-
-
-Drait être mon égal.
-
-Je donnerai beaucoup aux pauvres et ne prendrai rien à ceux qui possèdent. a Iskender prononça ces bonnes paroles, Ben cœur se remplit du désir de la justice et il s’éleva de l’Iran une bénédiction universelle sur ce maître de la terre plein de justice.
+Iskender prononça ces bonnes paroles, Ben cœur se remplit du désir de la justice et il s’éleva de l’Iran une bénédiction universelle sur ce maître de la terre plein de justice.
 
 Ensuite l’assemblée se dispersa et le mi s’assit avec ses conseillers.
