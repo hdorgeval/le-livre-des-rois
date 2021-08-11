@@ -58,8 +58,7 @@ En quatrième lieu, ô illustre Mihranl j’ai vu, près d’un cours d’eau, u
 
 Que dis-tu de ce rêve, ô sage bienveillant ?
 
-Dans la cin- quième nuit, mon âme vit en songe une ville placée au bord de l’eau ; tous les habitants étaient aveugles, 
- ’ 9l mais on n’observait pas que leur cécité fit du chagrill à aucun d’eux et l’on aurait dit que toute la ville resplendissait de munificence et de commerce.
+Dans la cinquième nuit, mon âme vit en songe une ville placée au bord de l’eau ; tous les habitants étaient aveugles, ’ 9l mais on n’observait pas que leur cécité fit du chagrill à aucun d’eux et l’on aurait dit que toute la ville resplendissait de munificence et de commerce.
 
 Sixièmement, ô homme puissant et noble, j’ai vu ce une ville où tans étaient. malades ; ils allèrent faire des questions à un homme bien portant et s’informèrent d’abord de sa santé, il répondit à l’un d’eux :
 
