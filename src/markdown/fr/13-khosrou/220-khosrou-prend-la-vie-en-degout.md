@@ -42,7 +42,7 @@ Il se dit :
 >
 > Personne ne peut acquérir
 >
-> ne LE LivaE’DEs un nom plus grand, mieux satisfaire ses désirs, avoir plus de pouvoir, de bonheur, de repos et de dignité que moi.
+> un nom plus grand, mieux satisfaire ses désirs, avoir plus de pouvoir, de bonheur, de repos et de dignité que moi.
 >
 > J’ai vu et j’ai entendu tout. ce qui regarde le monde, son bonheur et son malheur, secrets ou connus et j’ai vu que l’homme, qu’il cultive la terre ou qu’il porte une couronne, finit par passer par la morts Le roi ordonna à son grand chambellan de renvoyer tons ceux qui se présenteraient à la cour, mais poliment, avec tous les égards possibles et sans rudesse.
 >
