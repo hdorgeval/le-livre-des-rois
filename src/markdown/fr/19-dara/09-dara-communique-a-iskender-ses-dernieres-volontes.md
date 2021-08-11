@@ -40,7 +40,7 @@ Rapide comme le vent, il descendit de cheval et plaça la tête du blessé sur s
 
 Il dit :
 
-> Puisses-tu trouver du soulagement, et que le cœur de tes ennemis tremble !
+> Puisses-tu trouver du soulagement et que le cœur de tes ennemis tremble !
 >
 > Relèvectoi. assieds-toi sur un coussin de tissu d’or, et, si tu en as la force, monte à cheval.
 >
@@ -50,7 +50,7 @@ Il dit :
 >
 > Je ferai sur-le-champ pendre au gibet tes assassins, la tête en bas.
 >
-> Quand hier soir des vieiliards m’ont dit ce qui était arrivé, mon cœur s’est w gonflé de sang, mes lèvres ont poussé des cris.
+> Quand hier soir des vieillards m’ont dit ce qui était arrivé, mon cœur s’est w gonflé de sang, mes lèvres ont poussé des cris.
 >
 > Nous sommes de la même branche, de la même racine, de la même famille ; pourquoi détruirions-nous notre race par notre ambition ? »
 
@@ -62,7 +62,7 @@ Il dit :
 
 Je crois que Dieu le juste, le saint, te récompensera de ces paroles.
 
-D’abord tu as dit que l’Iran est à moi, à moi le trône et la couronne des braves ; mais je suis plus près de la mort que du trône, car’le trône quitte a ceux dont la fortune succombe.Le trône du peuvoir neeproduit qu’une chose, ses joies sontdés peines, ses gains sont des pertes.
+D’abord tu as dit que l’Iran est à moi, à moi le trône et la couronne des braves ; mais je suis plus près de la mort que du trône, car’le trône quitte a ceux dont la fortune succombe.Le trône du peuvoir ne produit qu’une chose, ses joies sontdés peines, ses gains sont des pertes.
 
 Garde-toide dire dans l’orgueil de ta, valeur :
 
@@ -70,7 +70,7 @@ Garde-toide dire dans l’orgueil de ta, valeur :
 >
 > Sache que le bonheur et le malheur viennent de Dieu, BlaxSQifi reconnaissant envers lui 8i longtemps. que tu vivras.
 >
-> Je suis un grand exemple de ce que je dis, et’mon histoire est au avertissement pour tous.
+> Je suis un grand exemple de ce que je dis et mon histoire est au avertissement pour tous.
 >
 > J’ai possédé tant, de puisr a sauce, tant de royaumes et de trésors et personne -rn’a souffert par mon fait !
 >
@@ -87,8 +87,7 @@ Garde-toide dire dans l’orgueil de ta, valeur :
 > Aucun des miens ne vient à mon se-
 ’-arcure et tout mdn espoir est en Dieu, qui a soin
 >
-> 
-de toute créature.
+> de toute créature.
 >
 > Me voici blessé et couché sur le sol et le monde m’a pris dans le filet de la destruction.
 >
@@ -125,17 +124,17 @@ Alors Dara se mit à parler rapidement et à énoncer ses dernières volontés, 
 > Elle est fille de rois, elle sera par sa
 . sagesse le diadème sur le front des femmes illustres.
 >
-> J’espère qu’elle te donnera un fils glorieux qui fera revivre le nom d’Isfendiar, fera briller le ’feu de Zerdouscht, prendra dans sa main le Zendavesta, observera les augures, la fête de Sedeh et celle du nouvel au, honorera les temples de feu, Qrmuzd, la lune, le soleil et Mihr, purifiera son âme et son visage avec l’eau de la sagesse, rétablira les coutomes de Lohrasp et le culte des Keïanides qu’a suivi Guschtasp, traitera en grands les grands, et les petits en petits, fera fleurir la religion et sera fortuné. »
+> J’espère qu’elle te donnera un fils glorieux qui fera revivre le nom d’Isfendiar, fera briller le ’feu de Zerdouscht, prendra dans sa main le Zendavesta, observera les augures, la fête de Sedeh et celle du nouvel au, honorera les temples de feu, Qrmuzd, la lune, le soleil et Mihr, purifiera son âme et son visage avec l’eau de la sagesse, rétablira les coutomes de Lohrasp et le culte des Keïanides qu’a suivi Guschtasp, traitera en grands les grands et les petits en petits, fera fleurir la religion et sera fortuné. »
 
 Iskender répondit :
 
 > Ô roi au cœur bon, à la parole droite, j’accepte tes conseils et tes dors mères volontés et ne resterai dans ce pays que pour les accomplir.
 >
-> J’exécuterai ces bons desseins, et mon âme les prendra pour guides. »
+> J’exécuterai ces bons desseins et mon âme les prendra pour guides. »
 
 Le maître du monde saisit la main d’Iskender et se lamenta douloureusement.
 
-Il plaça la paume de la main d’lskender sur ses lèvres et lui dit :
+Il plaça la paume de la main d’Iskender sur ses lèvres et lui dit :
 
 > Que Dieu soit ton refuge !
 >
@@ -143,13 +142,11 @@ Il plaça la paume de la main d’lskender sur ses lèvres et lui dit :
 
 Il prononça ces paroles et son âme quitta son corps ; toute l’assemblée versa des larmes amères ; Iskender déchira ses vêtements et versa de la poussière sur la couronne des Keïanides.
 
-Il construisit un 
-7b
-tembeau à la manière des Perses, digne du rang de i Data et selon les règles de son culte.
+Il construisit un 7b tembeau à la manière des Perses, digne du rang de Data et selon les règles de son culte.
 
 On lava avec de l’eau de rose ce corps sanglant, puisque le temps du sommeil éternel était venu pour lui ; on l’habilla en brocart de Roum, brodé en pierreries et en or par ; ou couvrit son corps de camphre et depuis ce moment personne ne vitplus le visage de Dam.
 
-Isa kender plaça dans le tombeau une estrade d’or, et sur la tête du roi une couronne de musc ; il coucha Dura dans un cercueil d’or et versa sur lui un torrent de larmes.
+Isa kender plaça dans le tombeau une estrade d’or et sur la tête du roi une couronne de musc ; il coucha Dura dans un cercueil d’or et versa sur lui un torrent de larmes.
 
 Lorsqu’on enleva le cercueil, tous les grands le portèrent tour à tour ; Iskender marchait devant, à pied, suivi des grands, dont les yeux étaient inondés de sang ; il marcha ainsi jusqu’au tombeau de Dura ; on aurait dit que sa peau se fendait de dou-leur.
 
