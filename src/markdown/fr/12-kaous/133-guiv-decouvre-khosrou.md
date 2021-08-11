@@ -68,7 +68,7 @@ Le héros qui était à la recherche du roi parcourait tristement la forêt, lor
 >
 > Sa taille était empreinte de cette majesté que donne la grâce de Dieu, son visage annonçait l’intelligence d’un sage ; tu aurais dit que c’était Siawusch assis sur son trône d’ivoire et portant sa couronne de corail.
 >
-> Son visage exhalait un parfum d’amour et ses cheveux embellissaient sa couronne dejleurs.
+> Son visage exhalait un parfum d’amour et ses cheveux embellissaient sa couronne de fleurs.
 >
 > Guiv dit dans son âme :
 
@@ -137,7 +137,7 @@ Guiv lui répondit :
 >
 > Siawusch avait au bras un signe bien visible, c’était comme une tache de ce poix dans un parterre de roses.
 >
-> Découvre ton bras et montre-le-lnoi, car la marque que tu dois porter est connue de tout le peuple. »
+> Découvre ton bras et montre-le-moi, car la marque que tu dois porter est connue de tout le peuple. »
 
 Le roi lui montra son corps nu et Guiv y vit le signe noir héréditaire dans la famille royale depuis Keïkobad et qui était un indice infaillible de la race des Keïanides.
 
