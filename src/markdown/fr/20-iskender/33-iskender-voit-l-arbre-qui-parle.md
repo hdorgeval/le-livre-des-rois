@@ -16,7 +16,7 @@ order: '033'
 
 # Iskender voit l'arbre qui parle
 
-Par la route du désert Iskender arriva dans un pays où il entra avec joie, car il y entendait des voix d’hommes, Tout le pays ne formait qu’un jardin, et les cœurs se réjouissaient de toutes ces délices.
+Par la route du désert Iskender arriva dans un pays où il entra avec joie, car il y entendait des voix d’hommes, Tout le pays ne formait qu’un jardin et les cœurs se réjouissaient de toutes ces délices.
 
 Les grands de la ville allèrent à sa rencontre ; tous ceux qui marquaient parmi eux le reçurent avec des bénédictions et en versant sur lui beaucoup d’or et de joyaux ; tous lui dirent :
 
@@ -38,7 +38,7 @@ Il leur demanda :
 
 Son guide lui répondit :
 
-> Ô roi victorieux, aux intentions bienveilrlantes !
+> Ô roi victorieux, aux intentions bienveillantes !
 >
 > Il y a ici une merveille telle que personne n’en a jamais vu de pareille en public ou en secret : 
 ’ c’est un arbre composé de deux troncs qui se sont joints en croissant et une pareille merveille ne doit. pas rester inconnue ; un des troncs est femelle et l’antre est mâle ; cet arbre parle, a de larges branches et est beau et odorant.
@@ -49,7 +49,7 @@ Iskender partit avec ses cavaliers roumis et accompagné des grands de ce pays, 
 
 L’interprète lui répondit :
 
-> Quand neuf parties du jour seront passées, l’un desarbres se mettra à parler et le roi à la fortune heureuse entendra sa voix. »
+> Quand neuf parties du jour seront passées, l’un des arbres se mettra à parler et le roi à la fortune heureuse entendra sa voix. »
 
 Ensuite, il demanda :
 
@@ -63,13 +63,13 @@ Le roi continua à ritarcher avec les Roumis, et, arrivé auprès de l’arbre p
 
 Il demanda à son interlocuteur :
 
-> Qu’est-ce que ces peaux de bêtes, et qui a déchiré de cette façon ces animaux ? »
+> Qu’est-ce que ces peaux de bêtes et qui a déchiré de cette façon ces animaux ? »
 
 L’interprète fortuné lui répondit :
 
 > Cet arbre a un grand nombre d’adorateurs, et’quand ils viennent lui rendre hommage et cherchent de la nourriture, ils vivent de la chair des bêtes fauves. »
 
-Lorsque le soleil fut arrivé au faîte de la voûte du ciel, Iskender entendit un bruit d’en haut, venant des feuilles du puissant arbre, un bruit plein de terreur et ne prçmettant rien de bon.
+Lorsque le soleil fut arrivé au faîte de la voûte du ciel, Iskender entendit un bruit d’en haut, venant des feuilles du puissant arbre, un bruit plein de terreur et ne promettant rien de bon.
 
 Il eut peur et demanda à l’interprète :
 
@@ -77,7 +77,7 @@ Il eut peur et demanda à l’interprète :
 
 Il répundit : Ô roi fortuné !
 
-Les feuilles des branches de l’arbre disent : Pourquoi Iskender est-il toujours en . mouvement, lui’qui va prendre la route du départ ?
+Les feuilles des branches de l’arbre disent : Pourquoi Iskender est-il toujours en . mouvement, lui qui va prendre la route du départ ?
 
 Quand quatorze années de son règne seront passées, il aura à quitter le trône de la royauté. »
 
@@ -87,7 +87,7 @@ Ensuite, il n’ouvrit plus les lèvres et attendit, plein d’anxiété, jusqu�
 
 > Qu’a dit cette autre branche ? »
 
-L’interloauteur dévoila ainsi le secret :
+L’interlocuteur dévoila ainsi le secret :
 
 > Celte branche femelle dit :
 
@@ -97,14 +97,13 @@ L’interloauteur dévoila ainsi le secret :
 >
 > Tu es rrpossédé de la passion de faire le tour du monde, de faire du mal aux hommes et de tuer les rois ; mais il ne le reste pas beaucoup de temps sur la terre, ne rends donc pas le jour sombre et difficile l7
 >
-> 
- pour toi-même. »
+> pour toi-même. »
 
 Le roi dit à l’interprète :
 
 > Ô homme au cœur serein et pur !
 >
-> Demandedui encore si c’est dans le Roumzque le jour fatal arrivera pour moi, et si ma mère me reverra encore, ne fût-ce que pour me couvrir le visage. »
+> Demandedui encore si c’est dans le Roumzque le jour fatal arrivera pour moi et si ma mère me reverra encore, ne fût-ce que pour me couvrir le visage. »
 
 L’arbre parlant répondit :
 
