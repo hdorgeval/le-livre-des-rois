@@ -144,7 +144,7 @@ Siawusch lui répondit :
 >
 > Tu es éloigné des œuvres d’Ahriman et de toute injustice.
 >
-> Si tu veux faire avec moi une alliance et je sais que tu ne la violeras pas, alors je me préparerai un rlieu de repos dans ce pays, par amour pour toi et
+> Si tu veux faire avec moi une alliance et je sais que tu ne la violeras pas, alors je me préparerai un lieu de repos dans ce pays, par amour pour toi et
 2 : 1.
 >
 > dans la confiance que tu m’inspires.
