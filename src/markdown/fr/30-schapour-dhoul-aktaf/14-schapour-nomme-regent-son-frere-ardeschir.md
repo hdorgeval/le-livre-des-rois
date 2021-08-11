@@ -26,7 +26,7 @@ Du nom de Schapour, que le sort n’avait pas fait naître au temps où le père
 
 Le roi dit à Ardeschir devant les grands du royaume et le scribe :
 
-> Si tu veux t’engager envers moi selon la justice et si tu veux donner, en ga- rantie de ton engagement, ta parole que tu remet- tras à mon fils le trésor, la couronne et l’armée, et que tu seras son bienveillant conseiller .quand il sera arrivé à l’âge d’homme et quand le vent du pouvoir souillera sur lui ; si tu promets cela, je te confierai cette couronne royale et ferai passer dans tes mains mon trésor et mon armée. »
+> Si tu veux t’engager envers moi selon la justice et si tu veux donner, en garantie de ton engagement, ta parole que tu remettras à mon fils le trésor, la couronne et l’armée et que tu seras son bienveillant conseiller .quand il sera arrivé à l’âge d’homme et quand le vent du pouvoir souillera sur lui ; si tu promets cela, je te confierai cette couronne royale et ferai passer dans tes mains mon trésor et mon armée. »
 
 Ardeschir agréa les paroles du roi en présence des grands, jeunes et vieux et déclara que, lorsque l’enfant serait arrivé à l’âge d’homme et devenu digne du trône et du diadème des Keïanides, il lui remettrait le royaume et agirait en tout pour son bien.
 
@@ -46,7 +46,7 @@ Le roi reprit :
 >
 > Honneur au roi justes !
 >
-> Adoratenr de Dieu !
+> Adorateur de Dieu !
 >
 > Le cœur des sujets est heureux par lui ; il fait tout grandir par la justice et la générosité et c’est par elles qu’il est le guide du monde.
 >
@@ -60,7 +60,7 @@ Le roi reprit :
 >
 > Il faut au roi, avant tout, de l’intelligence et qu’il soit l’instructeur des hommes jeunes et vieux ; car les sujets se livrent au vice, s’ils ne sont pas pieux et n’adorent pas Dieu.
 >
-> Le cœur et le cerveau sont les deux rois du corps, le reste n’en est que l’instrument et l’armée, et quand le cœur et le cerveau de l’homme sont souillés, quand le désespoir les a dépouillés de la raison, alors son esprit dervient confus, car comment une armée pourrait-elle prospérer sans chef t Quand elle ne sait ce qu’elle e veut, elle se dissout, elle renverse dans la poussière son propre corps privé d’âme.
+> Le cœur et le cerveau sont les deux rois du corps, le reste n’en est que l’instrument et l’armée et quand le cœur et le cerveau de l’homme sont souillés, quand le désespoir les a dépouillés de la raison, alors son esprit dervient confus, car comment une armée pourrait-elle prospérer sans chef t Quand elle ne sait ce qu’elle veut, elle se dissout, elle renverse dans la poussière son propre corps privé d’âme.
 >
 > De même, quand un roi est injuste, le monde entier sera bouleversé par lui, et\*après sa mort il sera suivi par les malédictions et on l’appellera le roi sans foi.
 >
@@ -76,7 +76,7 @@ Ne saislu pas ce qu’a dit le sage pour détruire dans les cœurs la perversit�
 
 > quand un roi se fait bénir, tontes ses affaires prospèrent, mais le tyran est maudit ; ne t’approche donc pas de la porte des hommes avides.
 >
-> Sache, ô mon frère, que les hommes de sens demandent d’un roi bien deschoses ; d’abord qu’il soit victorieux et ne détourne pas le visage de l’ennemi à l’heure du combat ; ensuite qu’il traite son armée avec justice et qu’il reconnaisse la supériorité des hommes bien nés, car’celui’qui est digne de la royauté ne voudra pas qu’un homme de haute naissance serve dans les rangs ; ensuite qu’il ait de la droiture dans le cœur et qu’il ne laisse jamais enfreindre la justice ; enfin qu’il ne tienne pas la porte de son trésor étroitement fermée devant ses sujets et les vieux serviteurs de sa cour et qu’il fasse pleuvoir des branches les fruits de l’arbre.
+> Sache, ô mon frère, que les hommes de sens demandent d’un roi bien des choses ; d’abord qu’il soit victorieux et ne détourne pas le visage de l’ennemi à l’heure du combat ; ensuite qu’il traite son armée avec justice et qu’il reconnaisse la supériorité des hommes bien nés, car’celui qui est digne de la royauté ne voudra pas qu’un homme de haute naissance serve dans les rangs ; ensuite qu’il ait de la droiture dans le cœur et qu’il ne laisse jamais enfreindre la justice ; enfin qu’il ne tienne pas la porte de son trésor étroitement fermée devant ses sujets et les vieux serviteurs de sa cour et qu’il fasse pleuvoir des branches les fruits de l’arbre.
 >
 > Il ne faut pas que la cour du roi soit sans armée et le roi doit garder pour l’armée la porte du trésor ; si tu remplis ton trésor par des moyens justes, toi et ton armée en jouiront.
 >
@@ -84,7 +84,7 @@ Ne saislu pas ce qu’a dit le sage pour détruire dans les cœurs la perversit�
 >
 > Ne te lie pas trop à tes administrateurs ; règle toi-même tes affaires si tu veux avoir de la sécurité.
 >
-> À la lin la mort ar- rive avec certitude pour toi, que tu sois obscur ou une lumière du monde. »
+> À la lin la mort arrive avec certitude pour toi, que tu sois obscur ou une lumière du monde. »
 
 Ces paroles de Schapour firent verser beaucoup de larmes à son frère ; il vécut encore un au après avoir écrit ses dernières volontés, puis il mourut, laissant comme un souvenir cette parole :
 
