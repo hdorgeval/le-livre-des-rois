@@ -102,7 +102,7 @@ Le monde garde le souvenir de maint événement pareil, car le sort a répandu b
 
 Quel est l’homme de sens et de raison qui pourrait endurer les perfidies du sort ?
 
-Quandles Iraniens surent ce qui s’était passé, le feu de la douleur s’alluma dans leurs âmes.
+Quand les Iraniens surent ce qui s’était passé, le feu de la douleur s’alluma dans leurs âmes.
 
 Houman s’en retourna dans le Touran et rendit compte à Afrasiab de ce qu’il avait vu.
 
