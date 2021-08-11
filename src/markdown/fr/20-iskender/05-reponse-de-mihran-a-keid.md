@@ -46,7 +46,7 @@ Mihran, ayant écouté ce discours de Keïd, lui dit :
 > La
 >
 > ’ !
-première de ces religim est celle des Dihkans, adorateuns du feu, qui ne prennent en main le barsom qu’en observant le silence ; la seconde est la foi de Moïse. qu’on appelle la religion juive et qui ordonne de ne glorifier que ce seul Dieu ; la troisième est la foi pure des Younis, qui met lajustice dans le cœur des rois ; la quatrième est la foi sainte des Arabes, qui relève de la poussière la tête des hommes de sens.
+première de ces religim est celle des Dihkans, adorateurs du feu, qui ne prennent en main le barsom qu’en observant le silence ; la seconde est la foi de Moïse. qu’on appelle la religion juive et qui ordonne de ne glorifier que ce seul Dieu ; la troisième est la foi pure des Younis, qui met la justice dans le cœur des rois ; la quatrième est la foi sainte des Arabes, qui relève de la poussière la tête des hommes de sens.
 >
 > Les quatre hommes luttent les uns centre’ les autres et vont être ennemis à cause de la religion ; mais plus tard viendra un homme illustre du désert des cavaliers armés de lances, un homme saint et de bonne nature, qui répandra le culte de Dieu destqluatre côtés.
 >
@@ -59,7 +59,7 @@ qui, malgré sa soif, s’éloigne de l’eau douce en fuyant et un poisson qui 
 >
 > Cinquièmement, tu as vu une ville dans laquelle tout était plein de vie ; on y jouissait, on donnait, on achetait, on vendait ; mais on aurait cru que le sort avait cousu leurs yeux : ils étaient aveugles et ne voyaient pas et les uns ne regardaient pas les autres.
 >
-> Il viendra un temps où le monde sera dans un tel état que le savant sera le serviteur de l’ignoraut, que l’homme intelfigent. sera confus [et maltraité, que l’arbre de la irraison ne lui portera pas de fruit ; qu’il comblera de louanges les ignorants et se tiendra devant eux en adoration ; mais il saura qu’il ment et se sentira déshonoré par cette servitude.
+> Il viendra un temps où le monde sera dans un tel état que le savant sera le serviteur de l’ignoraut, que l’homme intelligent. sera confus [et maltraité, que l’arbre de la irraison ne lui portera pas de fruit ; qu’il comblera de louanges les ignorants et se tiendra devant eux en adoration ; mais il saura qu’il ment et se sentira déshonoré par cette servitude.
 >
 > En sixième lieu, tu as vu un malade faible interroger un homme bien portant.
 >
@@ -82,16 +82,16 @@ qui, malgré sa soif, s’éloigne de l’eau douce en fuyant et un poisson qui 
 > Quand Saturne entrerakdans le signe de la balance, le monde se trouvera soumis à la force, les affaires du malade pauvre dépériront et celui qui se porte bien lui demandera encore quelque chose ; jamais il ne lui ouvrira ses trésors, jamais il n’allégera ses peines.
 >
 > Enfin tu as vu une source
-- desséchée et tout autour des eaux parfumées comme du musc ; aucune eau fraiche ne sortait de la source et ces eaux d’alentour ne se pressaient pas de s’y verser.
+-desséchée et tout autour des eaux parfumées comme du musc ; aucune eau fraiche ne sortait de la source et ces eaux d’alentour ne se pressaient pas de s’y verser.
 >
-> Or il viendra une époque où il y aura dans le monde un roi auprès duquel la sagesse ne z : demeurera pas et dont ’âme ténébreuse sera pleine de’ehagrin.
+> Or il viendra une époque où il y aura dans le monde un roi auprès duquel la sagesse ne : : demeurera pas et dont ’âme ténébreuse sera pleine de’ehagrin.
 >
-> Le monde entier sera affligé par les fatigues qu’il lui imposera et appauvri par les tréeesors qu’il amassera ; il mettra sans cesse sur pied des armées nouvelles, pour rendre, par leur aide, plus glorieuse sa couronne ; mais, à la fin, il ne restera ni armée niroi et il s’élèvera un nouveau
+> Le monde entier sera affligé par les fatigues qu’il lui imposera et appauvri par les trésors qu’il amassera ; il mettra sans cesse sur pied des armées nouvelles, pour rendre, par leur aide, plus glorieuse sa couronne ; mais, à la fin, il ne restera ni armée niroi et il s’élèvera un nouveau
 . trône, qui rassurera le monde contre le mal et du haut duquel brillera la majesté donnée par Dieu.
 >
 > .
 >
-> Aujourd’hui c’est l’époque d’lskender, lequel est le diadème sur le front des rois.
+> Aujourd’hui c’est l’époque d’Iskender, lequel est le diadème sur le front des rois.
 >
 > Quand il arrivera, donne-lui ces quatre merveilles et je crois qu’on ne te demandera pas davantage.
 >
