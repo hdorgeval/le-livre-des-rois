@@ -67,9 +67,9 @@ Le Mobed lui (lit :
 >
 > Ce sont des paroles insensées, voilà tout et personne ne soutiendra ton dire. »
 
-Ll ajouta encore bien des paroles, car c’était un savant et vaillant homme ; Mani resta confondu de son discours et ses affaires, qui paraissaient si brillantes, déclinèrent.
+Il ajouta encore bien des paroles, car c’était un savant et vaillant homme ; Mani resta confondu de son discours et ses affaires, qui paraissaient si brillantes, déclinèrent.
 
-Le roi se mit en colère contre Mani, et !
+Le roi se mit en colère contre Mani et !
 
 La rotation du sort rendit. pour lui le monde étroit.
 
