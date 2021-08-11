@@ -86,9 +86,7 @@ Lorsque beaucoup de troupes venant de tous côtés furent réunies et que des co
 
 Elle se tenait depuis quelque temps sur la large plaine et beaucoup de troupes avaient défilé devant elle, lorsqu’elle aperçut Darab, à l’aspect noble, de haute stature, la massue de fer sur l’épaule ; on aurait dit qu’il remplissait toute la plaine et que la terre pliait sous les pas de son destrier.
 
-Lorsqu’elle vit cette poitrine et ces traits 
-2k
-qui charmaient les cœurs, le lait coula de son sein maternel.
+Lorsqu’elle vit cette poitrine et ces traits 2k qui charmaient les cœurs, le lait coula de son sein maternel.
 
 Elle demanda :
 
