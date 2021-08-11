@@ -20,7 +20,7 @@ Le roi ne cessait de grandir en pouvoir ; il dépassa la vingt-huitième année 
 
 Chacun lui disait :
 
-> a Le roi du. monde préfère les musiciens aux grands et si l’on te place en face de Serguisch, tu seras élevé au-dessus de lui. »
+> Le roi du. monde préfère les musiciens aux grands et si l’on te place en face de Serguisch, tu seras élevé au-dessus de lui. »
 
 Lorsque Barbed entendit ces discours,
 
