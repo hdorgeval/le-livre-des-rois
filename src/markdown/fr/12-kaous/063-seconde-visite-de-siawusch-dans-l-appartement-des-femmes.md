@@ -45,8 +45,7 @@ Elle montra au jeune roi ces idoles, qui ressemblaient à des perles intactes, e
 Siawusch jeta un court regard sur ces belles, mais aucune d’elles n’ose le lui rendre ; car ces lunes se disaient l’une à l’autre : Il ne convient
 -pas de regarder ce roi. »
 
-Ensuite chacune d’elles if».
-
+Ensuite chacune d’elles if». 
 L7à
 s’en retourna à son trône, calculant ses chances de bonheur. ’ .
 Quand elles furent parties, Soudabeh lui dit :
@@ -71,7 +70,7 @@ Pendant que Siawusch tardait ainsi à répondre, la belle au visage de Péri ôt
 
 > Si tu tOÎS assis sur leurs trônes brillants le soleil et la nouvelle lune, il n’est pas étonnant que tu méprises la lune et que tu presses contre ton sein le soleil.
 >
-> Quand un homme m’a vue, assise sur le trône d’ivoire, un diadème de rubis et de turquoises sur la tête, il ne faut pas s’étonner s’il ne regarde plus la lune et ne complc pour belle aucune autre que moi.
+> Quand un homme m’a vue, assise sur le trône d’ivoire, un diadème de rubis et de turquoises sur la tête, il ne faut pas s’étonner s’il ne regarde plus la lune et ne compte pour belle aucune autre que moi.
 >
 > Si tu veux main-
 >
