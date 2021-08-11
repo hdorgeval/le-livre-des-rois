@@ -24,5 +24,4 @@ function formatAllEpisodesIn(rootDirectory: PathLike) {
   }
 }
 
-//formatAllEpisodesIn(path.join(process.cwd(), 'src', 'markdown', 'fr'));
-formatAllEpisodesIn(path.join(process.cwd(), 'src', 'markdown', 'fr', '38-pirouz'));
+formatAllEpisodesIn(path.join(process.cwd(), 'src', 'markdown', 'fr'));
