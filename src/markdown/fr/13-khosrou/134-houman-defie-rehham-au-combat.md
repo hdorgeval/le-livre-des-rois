@@ -34,7 +34,7 @@ Lorsque Houman fils de Wiseh fut arrivé devant les lignes de l’armée de Goud
 
 > Pourquoi ce guerrier qui s’aventure si follement dans la plaine vient-il ici courant comme un messager et la massue en main, le lacet suspendu à la selle, comme s’il voulait livrer bataille ? »
 
-Le trucheman répondit aux Iraniens :
+Le truchement répondit aux Iraniens :
 
 > Le moment de se servir de l’épée et de la lourde massue est arrivé, car cet illustre guerrier au cœur
 >
@@ -44,7 +44,7 @@ Le trucheman répondit aux Iraniens :
 
 Lorsque les Iraniens virent sa massue, son armure et son port royal, leurs mains armées de lances s’abstinrent de combattre par respect pour ce héros.
 
-Ils reculèrent tous devant lui et se tournant vers le trucheman, lui dirent :
+Ils reculèrent tous devant lui et se tournant vers le truchement, lui dirent :
 
 > Va parler à Houman, répètelui, en langue turque, toutes nos paroles ; dis-lui que nous ne voulons pas nous battre avec lui, que Gouderz ne nous en a pas donné la permission.
 >
