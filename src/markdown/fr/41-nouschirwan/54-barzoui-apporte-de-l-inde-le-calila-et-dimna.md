@@ -177,7 +177,7 @@ Barzouï répondit au roi :
 
 > Ô toi dont le trône est plus haut que l’orbite de la lune !
 
-Celui qui a obtenu un vêtement royal a atteint la route de la fortune et du trône du pouvoir ; ensuite quand on me verra, moi indigne, revêtu d’une robe royale, le cœur de mes ennemis en sera troublé et serré et h le visage de mes amis sera tout glorieux et resplendissant.
+Celui qui a obtenu un vêtement royal a atteint la route de la fortune et du trône du pouvoir ; ensuite quand on me verra, moi indigne, revêtu d’une robe royale, le cœur de mes ennemis en sera troublé et serré et le visage de mes amis sera tout glorieux et resplendissant.
 
 Mais j’ai à demander au roi une chose qui fera qu’il restera de moi un souvenir dans le monde : je désire que Buzurdjmihr, lorsqu’il transcrira ce livre, veuille bien s’occuper de la peine que Barzouï
 a eue pour l’obtenir et qu’il fasse, par ordre du roi victorieux, du premier chapitre un souvenir de moi, pour qu’après ma mort les savants dans le monde entier n’ignorent pas la peine que j’ai prisent Le roi lui dit :
