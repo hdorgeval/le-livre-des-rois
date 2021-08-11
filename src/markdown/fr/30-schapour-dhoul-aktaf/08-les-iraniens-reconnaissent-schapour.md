@@ -49,7 +49,7 @@ De grand matin, à la première lueur du jour, le jardinier alla chez le Grand M
 
 Arrivé près de l’entrée de la maison, il y trouva des groupes d’hommes armés et la porte fermée.
 
-Il demanda à haute voix entrée et lorsqu’on luieut ouvert la porte, il entra tout droit, arriva en présence du Mobed, le salua et lui montra le sceau.
+Il demanda à haute voix entrée et lorsqu’on lui eut ouvert la porte, il entra tout droit, arriva en présence du Mobed, le salua et lui montra le sceau.
 
 Le Mobed regarda le sceau et la joie fit bondir le cœur de ce sage.
 
@@ -71,7 +71,7 @@ Le jardinier répondit :
 
 > Quiconque n’a pas vu le printemps et un cyprès sur le bord d’un ruisseau, peut regarder la taille et le visage de cet homme et son cœur sera réjoui de cette vue.
 >
-> Ses deux bras sont comme les cuisses d’un chameau, sa poitrine est comme la poitrine d’un lion et son i visage coloré comme le sang. il vous fait rougir par sa bonté et la majesté de la couronne brille sur son visage. »
+> Ses deux bras sont comme les cuisses d’un chameau, sa poitrine est comme la poitrine d’un lion et son visage coloré comme le sang. il vous fait rougir par sa bonté et la majesté de la couronne brille sur son visage. »
 
 Le jardinier parlait et le Mobed écoutait ; le sage comprit, dans son esprit clairvoyant, que cet homme au cœur de lion ne pouvait être que le roi et que cette mine ne pouvait appartenir qu’au maître du trône.
 
@@ -107,10 +107,8 @@ Le roi embrassa tous les grands ; il se plaignit de ses malheurs, décrivit ce q
 >
 > Je suis l’esclave de cette esclave vaillante, au cœur ouvert R et gardienne de la justice : Vous expédierez des messagers partout où il y a de mes troupes et où mon gouvernement est reconnu,’pour donner de mes nouvelles-vous enverrez des détachements et leur ferez occuper les routes ; vous garderez toutes lesvoies qui mènent à Thisifoun, car il ne faut pas que les nouvelles puissent se répandre.
 >
-> Si le Kaïsar apprenait où je me trouve, s’il savait que l’autorité du roi des rois’se montre de nouveau, il viendrait détruire mon armée, il briserait le cœur et le des s des Iraniens ; car aujourd’hui nous ne pourrions lui résister, nous aurions à plier devant sa fortune ilorissante.
+> Si le Kaïsar apprenait où je me trouve, s’il savait que l’autorité du roi des rois’se montre de nouveau, il viendrait détruire mon armée, il briserait le cœur et le dos s des Iraniens ; car aujourd’hui nous ne pourrions lui résister, nous aurions à plier devant sa fortune ilorissante.
 >
-> Quand le Grand Mobed arrivera, il amè-nera une armée et alors nous ne laisserons pas passer même une mouche ; nous nous préparerons, nous ferons en "secret des arrangements nouveaux 
-h
-tr pour débarrasser notre jardin des mauvaises herbes.
+> Quand le Grand Mobed arrivera, il amè-nera une armée et alors nous ne laisserons pas passer même une mouche ; nous nous préparerons, nous ferons en "secret des arrangements nouveaux pour débarrasser notre jardin des mauvaises herbes.
 >
 > Dans chaque coin il y aura un guetteur, les rondes feront bonne garde jour et nuit et aucun Roumi ne doit. plus désormais se coucher en sécurité et débarrassé de son armure. »
