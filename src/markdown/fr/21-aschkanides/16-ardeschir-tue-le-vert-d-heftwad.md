@@ -42,7 +42,7 @@ teur pour respirer.
 
 Or il y avait soixante hommes chargés du service du ver, dont pas un ne négligeait sa besogne ; un d’eux aperçut Ardeschir et dit à haute voix :
 
-> a Qu’estcrce que contiennent cescaisses ? »
+> Qu’estcrce que contiennent cescaisses ? »
 
 Le roi lui répondit :
 
