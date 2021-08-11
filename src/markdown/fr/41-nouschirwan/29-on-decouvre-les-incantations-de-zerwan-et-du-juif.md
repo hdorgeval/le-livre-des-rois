@@ -97,7 +97,7 @@ pendaient des lacets roulés.
 
 Le bourreau traîna Zerwan au pied de l’un des gibets et le Juif à l’autre et les y suspendit, usant de violence et ils périrent sous une pluie de pierres et de flèches pour avoir ensorcelé lenlait.
 
-Il ne faut pas fouler la terre pour faire le mal, car le malheur atteint infailliblement leLe romi fit fairle dfealonigutees reucherch.es’pour retrouver en vie quelques personnes de la famille de Mah-’
+Il ne faut pas fouler la terre pour faire le mal, car le malheur atteint infailliblement leLe romi fit fairle dfealonigutees reucherch.es pour retrouver en vie quelques personnes de la famille de Mah-’
 bond ; il trouva une fille au visage voilé et trois hommes nobles et illustres et leur offrit tous les trésors de Zerwan et tout ce qu’avait possédé le Juif.
 
 Son âme brûlait au souvenir de Mahboud ; il pleura toute la nuit jusqu’au jour, demandant grâce à Dieu et inondant sa poitrine de larmes de sang ; il distribua de grandes aumônes aux pauvres et sa bouche ne cessait d’invoquer Dieu pour qu’il lui pardonnât sa faute et que le distributeur de la justice ne l’appelàt pas oppresseur.
