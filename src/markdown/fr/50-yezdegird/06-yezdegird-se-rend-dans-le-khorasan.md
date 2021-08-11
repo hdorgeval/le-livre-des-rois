@@ -24,7 +24,7 @@ Farrukhzad revint sur ses pas et retourna auprès du roi ; couvert de poussière
 
 Les yeux pleins de larmes de sang, le cœur brûlant de rage, il lui dit :
 
-> a Pourquoi pleurer ainsi ?
+> Pourquoi pleurer ainsi ?
 >
 > Veux-tu laver dans les larmes le trône des Keïatr nides ?
 >
@@ -112,7 +112,7 @@ Ainsi se passa la nuit ; le lendemain dès l’aurore ces hommes illustres se mi
 
 Les nobles Iraniens qui, pleins de tristesse, accompagnaient le roi, le saluèrent de leurs acclamations en disant :
 
-> a Puissent le siècle et le monde n’être jamais privés de toile Mais un cri de douleur sortit du camp lorsqu’on apprit avec anxiété le départ du roi.
+> Puissent le siècle et le monde n’être jamais privés de toile Mais un cri de douleur sortit du camp lorsqu’on apprit avec anxiété le départ du roi.
 
 Tout ce qu’il y avait de Dihkans, tous ceux qui se distinguaient par la naissance se précipitèrent en gémissant sur les traces du souverain et lui dirent en répandant des torrents de larmes :
 
