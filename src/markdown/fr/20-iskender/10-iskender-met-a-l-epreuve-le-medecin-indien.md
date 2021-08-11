@@ -25,9 +25,9 @@ N Le médecin répondit :
 > Quiconque mange
 . trop, quiconque ne compte pas les bouchées quand il est assis à table, ne reste pas longtemps sain de corps ; et l’on n’est vaillant que quand on a soin de sa santé.
 
-Je vais maintenant le composer un remède pour lequel je réunirai de partout des herbes, et qui te fera toujours rester bien portant.
+Je vais maintenant le composer un remède pour lequel je réunirai de partout des herbes et qui te fera toujours rester bien portant.
 
-Tu t’en laveras le corps, tous tes appétits augmenteront, et quand tu mangeras davantage tu n’en souliriras pas.
+Tu t’en laveras le corps, tous tes appétits augmenteront et quand tu mangeras davantage tu n’en souliriras pas.
 
 Il ramènera les couleurs sur Ion visage et tu auras l’esprit libre en toute occasion.
 
@@ -37,7 +37,7 @@ Conforme-toi à ces paroles sages et le sang et la moelle de Ion corps deviendro
 >
 > Si tu prépares cette bonne médecine, tu seras mon guide dans ce monde ; je tachèterai au prix de ma vie et te garantirai contre tout mal de la part de tes ennemis. »
 
-Il lui fit donner une robe d’honneur et de beaux présents, et l’éleva au-dessus de tous les médecins.
+Il lui fit donner une robe d’honneur et de beaux présents et l’éleva au-dessus de tous les médecins.
 
 Le médecin aux paroles douces se rendit dans la montagne, emmenant une foule de serviteurs.
 
@@ -50,7 +50,7 @@ No qui répondait à son désir.
 
 Il frotta le corps du roi avec cet extrait de plantes des montagnes et le maintint en santé pendant des mois et des années.
 
-Par suite de cela, Iskender dormait peu et passait volontiers ses nuits dans la débauche ; sa poitrine était ardente pour le commerce avec les femmes et sa tête cherchait un endroit moelleux poury reposer ; et c’est ainsi que le roi commençait à perdre ses forces, car il ne faisait aucune attention à sa santé. , Or il arriva qu’un jour le médecin se présenta et observa dans la goutte des traces de cet affaiblissement ; il dit au roi :
+Par suite de cela, Iskender dormait peu et passait volontiers ses nuits dans la débauche ; sa poitrine était ardente pour le commerce avec les femmes et sa tête cherchait un endroit moelleux poury reposer ; et c’est ainsi que le roi commençait à perdre ses forces, car il ne faisait aucune attention à sa santé., Or il arriva qu’un jour le médecin se présenta et observa dans la goutte des traces de cet affaiblissement ; il dit au roi :
 
 > En vivant avec des femmes, un jeune homme devient nécessairement vieux avant le temps.
 >
@@ -66,8 +66,7 @@ Le roi lui dit :
 
 > Pourquoi as-tu versé par terre cette médecine que tu avais préparée laborieusementi’n Il répondit :
 
-> Parce que le roi, hier soir, 
- HI n’a pas recherché de compagne et qu’il a passé la nuit à dormir seul.
+> Parce que le roi, hier soir, HI n’a pas recherché de compagne et qu’il a passé la nuit à dormir seul.
 >
 > Quand tu couches seul, ô roi, je n’ai besoin d’aucun remède. »
 
