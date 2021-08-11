@@ -18,7 +18,7 @@ order: '003'
 
 Iskender appela auprès de lui sa mère, qui était à Ammourieh, et, à son arrivée, il lui répéta les paroles de ’Dara ,1 ajoutant :
 
-> Va auprès de Dilataï, et porte-lui avec douceur de nouvelles paroles ; vois Bouschenek dans l’appartement des femmes et quand tu l’auras aperçue, offre-lui mille bénédic-
+> Va auprès de Dilataï et porte-lui avec douceur de nouvelles paroles ; vois Bouschenek dans l’appartement des femmes et quand tu l’auras aperçue, offre-lui mille bénédic-
 ’tions de ma part ; présente-lui des colliers, des bracelets, des boucles d’oreilles et une couronne ornée de pierreries dignes d’un roi ; amène-lui cent chameaux chargés de tapis et dix portant des brocarts d’or de Roum ; tire du trésor trente mille pièces d’or et place-les dans des caisses pour offrande ; emmène trois cents jeunes filles roumies, et, s’il le faut, un plus grand nombre ; mets dans la main de chacune une coupe, comme c’est la couturne pour les belles servantes d’une reine.
 >
 > Prends w toi-même des esclaves pour la route et n’abandonne on rien les coutumes et la pompe des rois»
@@ -45,6 +45,6 @@ Lorsque cette lune fut entrée dans l’appartement des femmes du roi, Iskender 
 
 La mère du roi la plaça sur un trône d’or et Iskender versa sur elle toute son âme et resta auprès d’elle pendant sept jours, en lui parlant de toute chose, grande et petite.
 
-Il l’observe attentivement, et ne vit en elle que grandeur et douceur, intelligence, pudeur et convenance et son cœur lui accorda amour et attachement.
+Il l’observe attentivement et ne vit en elle que grandeur et douceur, intelligence, pudeur et convenance et son cœur lui accorda amour et attachement.
 
 On lui apporta du pays d’Iran beaucoup de présents en or et en joyaux dignes d’une reine ; toutes les villes de l’Iran, du Touran et de la Chine la saluèrent comme reine ; sur toute la terre on ne voyait que ustice et partout les déserts . se peuplèrent.
