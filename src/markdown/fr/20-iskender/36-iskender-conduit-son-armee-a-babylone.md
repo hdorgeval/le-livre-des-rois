@@ -32,7 +32,7 @@ Ils se dirigèrent vers cette eau profonde en invoquant le Créateur du monde ; 
 
 De loin on vit un homme sauvage, au corps velu et ayant des oreilles énormes ; sa peau dessous ses poils était de couleur sombre et ses deux oreilles étaient larges comme des oreilles d’éléphant.
 
-Quand i les héros rencontrèrent un homme de cette espèce, ils l’entraînèrent et le menèrent devant Iskender.
+Quand les héros rencontrèrent un homme de cette espèce, ils l’entraînèrent et le menèrent devant Iskender.
 
 Le roi l’examina avec étonnement ; il invoqua sur lui le nom de Dieu et lui demanda :
 
@@ -50,7 +50,7 @@ Il répondit :
 
 Iskender demanda :
 
-> Qu’est. ce là au milieu de l’eau, du côté d’où vient le so- t ’ leil ? »
+> Qu’est. ce là au milieu de l’eau, du côté d’où vient le sot ’ leil ? »
 
 Il répondit :
 
