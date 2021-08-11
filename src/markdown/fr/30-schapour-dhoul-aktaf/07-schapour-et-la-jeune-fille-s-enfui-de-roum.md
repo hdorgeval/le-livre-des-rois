@@ -20,7 +20,7 @@ Ils se dirigèrent vers l’Iran, comme deux êtres joyeux, heureux dans l’âm
 
 De cette façon ils coururent de Roum, par un pays couvert de broussailles, jus. qu’à la province de Khouzistan ; les chevaux et leurs cavaliers étaient fatigués de cette course et Schapour chercha un lieu où s’arrêter.
 
-Il trouva sur la route unbourg d’un aspect gai, plein de jardins, de pavillons et de lieux de fête et il alla, le corps brisé par la route et fuyantle malheur, frapper à la porte d’un jardinier.
+Il trouva sur la route un bourg d’un aspect gai, plein de jardins, de pavillons et de lieux de fête et il alla, le corps brisé par la route et fuyantle malheur, frapper à la porte d’un jardinier.
 
 Celui-ci accourut. c’était un homme au cœur bon et hospitalier ; il vit deux personnages armés de lances et couverts de cuirasses et de casques et demanda à Schapour :
 
@@ -38,9 +38,9 @@ Schapour répondit :
 >
 > Je suis en peine à cause du Kaïsar et de son armée.
 >
-> Puissé-je ne jamais revoir sa tête et sa cou- renne !
+> Puissé-je ne jamais revoir sa tête et sa couronne !
 >
-> Si tu me donnes l’hospitalité cette nuit, si r : tu montres du sens et agis comme il convient à un gardien de la frontière, je crois que cela te profitera un jour et que l’arbre que tu auras planté portera fruit. »
+> Si tu me donnes l’hospitalité cette nuit, si tu montres du sens et agis comme il convient à un gardien de la frontière, je crois que cela te profitera un jour et que l’arbre que tu auras planté portera fruit. »
 
 Le jardinier dit :
 
@@ -50,9 +50,9 @@ Le jardinier dit :
 
 Le roi Schapour descendit de cheval et la jeune fille le suivit ; la femme du jardinier leur prépara des mets variés autant qu’elle le pouvait.
 
-Quand ils eurent mangé, on s’apprêta à leur donner du vin, et on leur prépara un humble gîte.
+Quand ils eurent mangé, on s’apprêta à leur donner du vin et on leur prépara un humble gîte.
 
-Le jardinier apporta. du vin, le plaça un la table et saisit une coupe ; la présence de son hôte l’avait rendu gai et heureux. l !
+Le jardinier apporta. du vin, le plaça un la table et saisit une coupe ; la présence de son hôte l’avait rendu gai et heureux. ! !
 
 Donna le vin à Schapour en disant :
 
@@ -72,7 +72,7 @@ Le jardinier répondit :
 >
 > Le plus noble boit le premier et il faut que tu me donnes l’exemple, car tu es vieux par l’intelligence et jeune par les années ; la grâce de la couronne brille sur ton visage et le parfum du musc s’échappe de tes cheveux. »
 
-Schapour sourit et prit le vin, puis il soupira - profondément et (lit au jardinier : U homme à la foi pure !
+Schapour sourit et prit le vin, puis il soupira -profondément et (lit au jardinier : U homme à la foi pure !
 
 Quelle nouvelle as-tu du pays d’lt’an ? »
 
@@ -82,7 +82,7 @@ Répondit :
 
 > Ô homme à l’âme royale !
 >
-> Puisse la malveillauce des méchants ne jamais te toucher, puissent tes ennemis être frappés de malheurs tels que le Kaïsar en inflige aux Iraniens !
+> Puisse la malveillance des méchants ne jamais te toucher, puissent tes ennemis être frappés de malheurs tels que le Kaïsar en inflige aux Iraniens !
 >
 > Tous les habi-
 -tants de l’Iran ont été dispersés ; il ne reste plus dans ce pays ni semence’ni moisson.
@@ -105,12 +105,13 @@ Le jardinier répondit :
 >
 > Tout ce qui se trouvait dans ce pays fertile est maintenant prisonnier dans le Roum. »
 
-En disant cela, le jardinier, qui dans ce moment se trouvait être l’hôte du roi, se mit à pleurer amè-A rament. l Le maître de la maison reprit :
+En disant cela, le jardinier, qui dans ce moment se trouvait être l’hôte du roi, se mit à pleurer amè-A rament. !
+
+Le maître de la maison reprit :
 
 > Reste ici trois jours et ma maison deviendra comme le soleil qui l
 >
-> 
-illumine le monde.
+> illumine le monde.
 >
 > Un sage a dit anciennement que celui qui n’est pas courtois envers un hôte est dépourvu d’intelligence et un sort malheureux lui amènera la misère.
 >
