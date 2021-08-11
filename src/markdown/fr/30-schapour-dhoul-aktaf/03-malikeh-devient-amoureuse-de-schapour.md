@@ -41,7 +41,7 @@ La nourrice répondit :
 
 > Je lui dirai ce que tu le m’ord.onnes, je te donnerai de ses nouvelles. »
 
-Lorsque la nuit eut pris possession du monde, que les ténèbres eurent saisi la terre d’une mer à l’autre, que la terre fut couleur de poix, les montagnes comme de l’indigo et les étoiles comme des bougies, et qu’on aurait.dit que trois cent mille lampes étaient suspendues du huitième ciel, la nourrice partit tremblante de crainte et de terreur, car son cœur se fendait quand elle pensait à Thaïr.
+Lorsque la nuit eut pris possession du monde, que les ténèbres eurent saisi la terre d’une mer à l’autre, que la terre fut couleur de poix, les montagnes comme de l’indigo et les étoiles comme des bougies et qu’on aurait.dit que trois cent mille lampes étaient suspendues du huitième ciel, la nourrice partit tremblante de crainte et de terreur, car son cœur se fendait quand elle pensait à Thaïr.
 
 Arrivée près de l’enceintedes tentes du roi, elle s’approcha d’un des guides et lui dit :
 
@@ -49,7 +49,7 @@ Arrivée près de l’enceintedes tentes du roi, elle s’approcha d’un des gu
 
 Cet homme prudent et prévoyant la conduisit du portail jusqu’auprès du vaillant roi ; elle entra, balaya la terre avec les cils de ses yeux et répéta tout ce qu’elle avait entendu de sa maîtresse.
 
-Le roifut heureux de ce message, sourit, lui donna mille pièces d’or, deux bracelets, un collier, un diadème et un voile de brocart de Chine et lui répondit :
+Le roi fut heureux de ce message, sourit, lui donna mille pièces d’or, deux bracelets, un collier, un diadème et un voile de brocart de Chine et lui répondit :
 
 > Dis à cette femme au visage de lune bien de bonnes paroles ; dis-lui que je jure par le soleil et la lune, par la ceinture de Zerdouscht, par ma royauté et ma couronne, que jamais, quelque chose qu’elle me demande et dût mon royaume en être amoinrrdri, son oreille n’entendra un refus de moi et que jamais je ne lui serai infidèle ; je donnerais pour le : elle mon trône et ma couronne, je le jure par Dieu, je lui donnerai mon trésor et mon armée. »
 
