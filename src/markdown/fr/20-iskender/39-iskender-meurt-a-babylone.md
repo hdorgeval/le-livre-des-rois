@@ -30,7 +30,7 @@ Toute la plaine fut remplie de leurs cris ; ils bouillonnaient comme sur un feu 
 >
 > La rotation du ciel amène le jour néfaste qui fera dorénavant un désert du pays de Roum.
 >
-> Nos ennemis ont obtenu l’objet de leurs vœux ; ils ont atteint le but vers lequel ils se bâtaient et c’est à ce nous que le monde va devenir amer et nous pousserons des cris de douleur ouvertement et en se- cret. »
+> Nos ennemis ont obtenu l’objet de leurs vœux ; ils ont atteint le but vers lequel ils se bâtaient et c’est à ce nous que le monde va devenir amer et nous pousserons des cris de douleur ouvertement et en secret. »
 
 Le Kaïsar dit d’une voix faible :
 
@@ -38,7 +38,7 @@ Le Kaïsar dit d’une voix faible :
 >
 > Vous avez des devoirs à remplir quand je ne serai plus et votre fortune ne disparaîtra pas avec moi. »
 
-Ll dit et son âme quitta son corps :
+Il dit et son âme quitta son corps :
 
 > roi, qui avait défait tant d’armées, n’était plus.
 
@@ -69,10 +69,9 @@ Un Perse reprit la parole ainsi :
 >
 > On y trouve un bois et un réservoir d’eau et quand on
 >
-> 
-y prononce une question, il vient de la montagne une réponse dans une voix que toute la foule peut entendre.
+> y prononce une question, il vient de la montagne une réponse dans une voix que toute la foule peut entendre.
 >
-> Amenez-y un vieillard et portez-y le cer- cueil : le vieillard adressera la question et l’on vous répondra de la montagne et vous donnera un conseil qui portera bonheur. »
+> Amenez-y un vieillard et portez-y le cercueil : le vieillard adressera la question et l’on vous répondra de la montagne et vous donnera un conseil qui portera bonheur. »
 
 Lls partirent, en courant comme des argalis, pour cette prairie qui portait le nom de Khurm, firent leur question et reçurent cette réponse :
 
