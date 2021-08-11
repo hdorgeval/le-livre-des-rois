@@ -43,7 +43,7 @@ Le noble roi lui répondit :
 
 > Dieu est le refuge dans tout malheur ; c’est lui qui a créé le ciel sublime qui tourne, qui a créé ce qui est puissant et ce qui est faible. »
 
-Le roi se mit à répandre la justice sur l’empire, et pendant quelque temps il se trouva heureux et sans souffrir de peine.
+Le roi se mit à répandre la justice sur l’empire et pendant quelque temps il se trouva heureux et sans souffrir de peine.
 
 Mais lorsque tout son pays fut prospère par ses efforts, il eut envie d’aller à Roum, pour voir la splendeur du Kaiser, son armée,
 
@@ -98,7 +98,7 @@ Or il y avait dans la ville de Roum un Iranien plein d’expérience, mais homme
 >
 > Apprends de m’ai en secret quelque chose de nouveau.
 >
-> Ce notable marchand qui vend du brocart pour des pièces d’or, je dis que c’est Schapour le roi des rois, d’après ses paroles, son aspect, sa mine majestueuse et ses ma- nières. »
+> Ce notable marchand qui vend du brocart pour des pièces d’or, je dis que c’est Schapour le roi des rois, d’après ses paroles, son aspect, sa mine majestueuse et ses manières. »
 
 Le Kaïsar à ces parolesfutytroublé et ses yeux s’obscurcirent en regardant le roi ; il plaça un surveillant pour l’observer, ne dit rien à personne et garda ce secret pour lui-même.
 
@@ -124,8 +124,9 @@ Le Kaïsar dit à sa femme :
 >
 > S’il vit encore quelque temps, il comprendra peut-être ce que valent son trône et sa couronne et il ne pensera plus au trône des Kaïsars, lui qui n’est pas de leur race. »
 
-La femme du Kaiser ferma la porte de cette chambre ; elle-même demeurait dans une autre partie du palais, mais elle avait une trésorière une femme au visage de lune, qui était sa conseillère en toute chose et descendait d’une famille iranienne dont elle se rappelait toutes les générations. 
- La femme du Kaïsar lui confia la clef de la chambre et le vaillant Schapour cousu dans la peau d’âne.
+La femme du Kaiser ferma la porte de cette chambre ; elle-même demeurait dans une autre partie du palais, mais elle avait une trésorière une femme au visage de lune, qui était sa conseillère en toute chose et descendait d’une famille iranienne dont elle se rappelait toutes les générations.
+
+La femme du Kaïsar lui confia la clef de la chambre et le vaillant Schapour cousu dans la peau d’âne.
 
 Le mêmejour, le Kaïsar mit en marche son armée du pays du Roum, laissant Schapour enfermé dans cette peau, et, étant arrivé sur les frontières de l’Iran, il fit tirer à ses troupes l’épée du combat.
 
