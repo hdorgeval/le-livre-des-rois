@@ -38,7 +38,7 @@ Le vaillant Baranousch fut pris au centre de son armée, le cœur gonflé de san
 
 Le Kaïsar envoya auprès de Schapour fils d’Ardeschir un homme intelligent, chargé de lui dire :
 
-> Comment peuxtu, en face du Juge suprême, notre guide, verser tant de sang à cause de cet or ?
+> Comment peux-tu, en face du Juge suprême, notre guide, verser tant de sang à cause de cet or ?
 >
 > Que diras-tu quand il te demandera compte au jour du jugement ?
 >
