@@ -16,7 +16,7 @@ order: '007'
 
 # Homaï place Darab sur le trône
 
-La reine baissa le rideau de sa salle d’audience, et pendant une semaine personne n’y fut admis.
+La reine baissa le rideau de sa salle d’audience et pendant une semaine personne n’y fut admis.
 
 La maîtresse du monde prépara une estrade d’or, deux trônes incrustés de turquoises et de lapis-lazuli, une couronne couverte. de pierreries dignes d’un roi, deux bracelets, un collier orné de pierres fines et une robe royale de brocart d’or, brodée de pierreries de toute espèce.
 
@@ -28,7 +28,7 @@ Elle remplit une coupe de grenats et une autre de topazes ; lorsque Darab fut ar
 
 Des larmes de sang coulèrent sur son sein, elle serra le jeune homme dans ses bras, le baisa et passa sa main sur son visage.
 
-Elle le ramena, le fit asseoir sur un trône d’or, et ses yeux restèrent attachés à ses traits.
+Elle le ramena, le fit asseoir sur un trône d’or et ses yeux restèrent attachés à ses traits.
 
 Lorsque Darab fut assis sur le trône d’or, sa mère s’avança, la couronne royale dans la main, la plaça sur la tête de son fils et annonça au monde son droit au
 
@@ -56,11 +56,13 @@ La fortunée Homaï invoqua les grâces de Dieu sur lui, s’écriant :
 
 > Puisses-tu vivre aussi longtemps qu’il y a un monde !
 
-N l Alors elle ordonna que le grand Mobed appelât tous les sages de toutes les provinces et tous les hommes illustres de l’armée, ceux qui portaient haut la tête, les lions qui frappaient de l’épée, et leur fit rendre les hommages royaux acet illustre maître du monde.
+N !
+
+Alors elle ordonna que le grand Mobed appelât tous les sages de toutes les provinces et tous les hommes illustres de l’armée, ceux qui portaient haut la tête, les lions qui frappaient de l’épée et leur fit rendre les hommages royaux acet illustre maître du monde.
 
 Ils invoquèrent la grâce de Dieu sur la couronne du roi et versèrent des pierreries sur ce trône nouveau et Homaï raconta ce qu’elle avait fait en secret et tout ce que ce méfait lui avait valu de douleurs, ajoutant :
 
-> Sachez que c’estle seul héritierdu roi Bahman dans le monde.
+> Sachez que c’estle seul héritier du roi Bahman dans le monde.
 >
 > Il faut que tous lui obéissent, car il est le pâtre et les braves sont le troupeau.
 >
@@ -89,8 +91,7 @@ il fit apporter cinq assortiments de toute espèce de linge et les remit à ceux
 
 > Va et redeviens blanchisseur ; applique-toi à ton métier, peut-être tu trouveras dans l’eau une autre boite contenant un
 >
-> 
-enfant comme moi. »
+> enfant comme moi. »
 
 Ils sortirent du palais du roi d’Iran, le bénissant d’une commune voix.
 
