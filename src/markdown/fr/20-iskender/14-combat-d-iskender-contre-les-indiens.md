@@ -37,21 +37,21 @@ Les deux armées se pré. parèrent au combat ; elles élevèrent jusqu’aux nu
 
 Il envoya auprès de Four un cavalier, avecl’ordre de l’appeler et de lui crier de loin :
 
-> Iskender se présente sur le front de l’armée, et désire obtenir un moyen de le voir.
+> Iskender se présente sur le front de l’armée et désire obtenir un moyen de le voir.
 >
 > Il te parlera et écoutera ce que tu diras et si tu parles selon la justice, il tombera d’accord avec toi. »
 
-Four, enentendant ce message, s’avança et sortit rapidement du centre de son armée.
+Four, en entendant ce message, s’avança et sortit rapidement du centre de son armée.
 
 Iskender lui dit :
 
 > Ô roi se illustre !
 >
-> Nos deux armées sont brisées par le comhat : les bêtes fauves dévorent les cervelles des hommes et les sabots des chevaux broient leurs ossements.
+> Nos deux armées sont brisées par le combat : les bêtes fauves dévorent les cervelles des hommes et les sabots des chevaux broient leurs ossements.
 >
-> Pourquoi seraitce toujours aux armées à se tuer ou à revenir quand elles survivent ?
+> Pourquoi serait ce toujours aux armées à se tuer ou à revenir quand elles survivent ?
 >
-> Nous deux sommes braves et jeunes, des Pehlewans élo- queuta et hommes de sens.
+> Nous deux sommes braves et jeunes, des Pehlewans éloqueuta et hommes de sens.
 >
 > Prenons donc nos armes et combattons-nous, puisqu’il faut décider qui. sera le maître de ce pays et quand l’un de nous sera victorieux, ces armées, ces éléphants et ce trône lui appartiendront. »
 
@@ -67,7 +67,7 @@ Tous les deux saisirent de leurs mains les épées et s’avancèrent au milieu 
 
 Quand Iskender aperçut cet homme semblable à un éléphant furieux, monté sur un cheval comme une montagne et tenant en main une épée comme un dragon, il fut confus du combat qu’il avait à lui livrer, il eut peur pour sa vie ; mais il se roidit et s’élança vers lui sur le champ du combat.
 
-Dam te moment il s’éleva sur. les derrières de l’armée un grand cri qui inquiéta Four et lui fit tourner de ce côté la tête, les yeux et les oreilles.
+Dam te moment il s’éleva sur les derrières de l’armée un grand cri qui inquiéta Four et lui fit tourner de ce côté la tête, les yeux et les oreilles.
 
 Iskender s’avança au milieu dela poussière rapidement comme le vent, frappa ce lion d’un coup d’épée et lui trancha la tête et le cou au-
 dessus de la poitrine : le tronc tomba du haut du cheval sur la terre.
