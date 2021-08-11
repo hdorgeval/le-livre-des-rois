@@ -61,8 +61,7 @@ mais ce qu’on fait hors de son temps ne porte pas fruit ; c’est la tête qui
 
 Il envoya à l’instant dans le Souristan un messager rapide monté sur un dromadaire.
 
-Celui-ci observa troisMobeds très-instruits et jouissant dans le Souristan d’une grande réputation, l’un qui pouvait instruire le prince dans les lettres et dissiper les ténèbres de son esprit ; A
-l’autre qui lui enseignerait à chasser au faucon et au guépard, pour que son cœur s’en réjouît, ensuite à jouer aux raquettes, à tirer de l’arc et des flèches, à se battre à l’épée avec un ennemi, à faire la voltige à droite et à gauche et à porter hanLIa tête au milieu des braves ; le troisième, qui devait. parler à Bahram de tout ce qu’il savait des affaires du monde sur les devoirs d’un roi des rois et sur ce qu’avait à dire et à fairetun administrateur.
+Celui-ci observa troisMobeds très-instruits et jouissant dans le Souristan d’une grande réputation, l’un qui pouvait instruire le prince dans les lettres et dissiper les ténèbres de son esprit ; A l’autre qui lui enseignerait à chasser au faucon et au guépard, pour que son cœur s’en réjouît, ensuite à jouer aux raquettes, à tirer de l’arc et des flèches, à se battre à l’épée avec un ennemi, à faire la voltige à droite et à gauche et à porter hanLIa tête au milieu des braves ; le troisième, qui devait. parler à Bahram de tout ce qu’il savait des affaires du monde sur les devoirs d’un roi des rois et sur ce qu’avait à dire et à fairetun administrateur.
 
 Ces Mobeds arrivèrent auprès de Mondhir, lui explique»
 
