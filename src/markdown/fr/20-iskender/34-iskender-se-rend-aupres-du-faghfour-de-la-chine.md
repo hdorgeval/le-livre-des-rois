@@ -16,7 +16,7 @@ order: '034'
 
 # Iskender se rend auprès du Faghfour de la Chine
 
-Delà il mena son armée vers la Chine ; un il fit arrêter ses troupes à une station et fit écrire par un scribe une lettre au nom d’lskender, le conquérant des villes, oqui contenait des flatteries et des menaces de toute espèce.
+Delà il mena son armée vers la Chine ; un il fit arrêter ses troupes à une station et fit écrire par un scribe une lettre au nom d’Iskender, le conquérant des villes, oqui contenait des flatteries et des menaces de toute espèce.
 
 Lorsque le scribe l’eut achevée, le roi partit comme messager, choisissant pour guide un Perse plein de sagacité, qui n’avait avec lui qu’un cœur et qu’une parole et pouvait lui dire ce qu’il devait faire ou ne pas faire.
 
@@ -45,9 +45,9 @@ Quand tu auras lu cette lettre, prépare un tribut, ne t’aillige pas et ne lut
 
 Si tu viens ici, tu me verras au milieu de mon armée et je te recevrai comme un ami et un homme qui me veut du bien ; je te laisserai ta couronne et ton trône et tu ne souffriras d’aucun mal de la part du sort.
 
-Si tu es trop fier pour venir ici, quitter ton pays et te rendre auprès de ton roi et si tu veux que je ne te fasse pas de mal, envoie dans mon trésor ce qui se trouve en Chine de choses rares, de la vaisselle d’or, des épées, des chevaux, des ba- gués, des étoiles, des esclaves, des trônes d’ivoire, de riches brocarts, des colliers et des couronnes ; renvoie ainsi mon armée et jouis en sécurité du trône, du trésor et du diadème. »
+Si tu es trop fier pour venir ici, quitter ton pays et te rendre auprès de ton roi et si tu veux que je ne te fasse pas de mal, envoie dans mon trésor ce qui se trouve en Chine de choses rares, de la vaisselle d’or, des épées, des chevaux, des bagués, des étoiles, des esclaves, des trônes d’ivoire, de riches brocarts, des colliers et des couronnes ; renvoie ainsi mon armée et jouis en sécurité du trône, du trésor et du diadème. »
 
-Le maître de la Chine fut courroucé de cette lettre , mais il se contint et se tut en souriant ; puis il dit à l’envoyé :
+Le maître de la Chine fut courroucé de cette lettre, mais il se contint et se tut en souriant ; puis il dit à l’envoyé :
 
 > Le ciel est le compagnon de ton roi.
 >
@@ -81,18 +81,20 @@ Puis, il fit venir un scribe qui apporta du papier, du musc et de l’ambre et �
 
 > comme le paradis.
 >
-> La lettre commença par les hommages au Distributeur de la justice, qui donne la bra- voure, la justice et la valeur, la sagesse, l’abstinence et la foi.
+> La lettre commença par les hommages au Distributeur de la justice, qui donne la bravoure, la justice et la valeur, la sagesse, l’abstinence et la foi.
 >
 > Puissent ses bénédictions se répandre sur le roi du Roum !
 >
 > Ton messager, aux paroles d0uces, est arrivé avec la lettre du roi qui cherche la sagesse ; nous avons lu ces paroles royales et en avons conféré avec nos grands.
 >
-> Quant à ce que nous avons appris des combats et des malheurs de Dara fils de Darab, de Feryan et de Four, que tu as tous vaincus, de sorte que tu es devenu le pâtre et les rois sont devenus le troupeau ; sache que c’était un don du Maître du soleil et de la lune, et non pas l’effet de ta bravoure et du nombre de les troupes.
+> Quant à ce que nous avons appris des combats et des malheurs de Dara fils de Darab, de Feryan et de Four, que tu as tous vaincus, de sorte que tu es devenu le pâtre et les rois sont devenus le troupeau ; sache que c’était un don du Maître du soleil et de la lune et non pas l’effet de ta bravoure et du nombre de les troupes.
 >
 > Quand le temps d’un prince est pané, qu’importe qu’il meure dans une fête ou dans une bataille?Le jour ou tu les as attaqués s’est trouvé et ?
 le terme que le son leur avait fixé et l’on ne peut ni hâter ni retarder le moment du destin.
 >
-> Ne te crois pas supérieur à eux, car, quand même tu se l rais en fer, tu passerais sans aucun doute.
+> Ne te crois pas supérieur à eux, car, quand même tu se !
+>
+> Rais en fer, tu passerais sans aucun doute.
 >
 > Où sont Feridoun et Zohak et Djemschid ?
 >
