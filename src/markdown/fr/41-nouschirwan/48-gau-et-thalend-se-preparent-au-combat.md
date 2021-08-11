@@ -46,7 +46,7 @@ Tr cherche pas le trône de la royauté, ne remplis pas a le pays de discorde. �
 
 Thalhend répondit :
 
-> a Assezl Personne ne recherche le pouvoir par des arguties.
+> Assezl Personne ne recherche le pouvoir par des arguties.
 >
 > Je possède ce trône et cette couronne par héritage a de mon père, je le possède comme le produit de la semence qu’il a semée et je m’assurerai dorénavant avec mon épée le royaume, le trône et l’armée.
 >
