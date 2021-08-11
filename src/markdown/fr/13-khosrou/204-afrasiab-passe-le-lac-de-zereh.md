@@ -42,9 +42,7 @@ Arrivé à Gangue Diz et se trouvant en sûreté, il se mit à dormir, à festoy
 
 > Restons ici, libres de soucis et dans la joie ; ne pensons plus au passé.
 
-Quand mon étoile obscurcie sera redevenue brillante, je repasserai sur mes vaisseaux le lac de Zereh, je me vengarai de mes ennemis, je jetterai de la gloire sur ma route et sur mon règnem
-
-KEl KHUSltOU. ’ Lorsque Keï Khosrou apprit ce qui s’était passé et que le vieillard avait tenté une nouvelle voie, il dit à Rustem :
+Quand mon étoile obscurcie sera redevenue brillante, je repasserai sur mes vaisseaux le lac de Zereh, je me vengarai de mes ennemis, je jetterai de la gloire sur ma route et sur mon règnem ’ Lorsque Keï Khosrou apprit ce qui s’était passé et que le vieillard avait tenté une nouvelle voie, il dit à Rustem :
 
 > Afrasiab a passé l’eau et est allé à Gangue Diz.
 >
