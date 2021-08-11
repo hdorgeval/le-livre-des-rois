@@ -32,7 +32,7 @@ Ensuite, il dit à Piran :
 >
 > seil sur ce maudit enfant de Siawusch.
 >
-> Si Rustem parvient à s’en emparer, ill’emmènera dans le pays d’Iran et ils feront un roi de cet enfant du Div, ils le feront asseoir sur le trône, ils lui donneront une couronne brillante.
+> Si Rustem parvient à s’en emparer, il l’emmènera dans le pays d’Iran et ils feront un roi de cet enfant du Div, ils le feront asseoir sur le trône, ils lui donneront une couronne brillante.
 >
 > Amène-le de ce côté de la mer ; hâte-toi et ne me désobéis pas en cette affaire. »
 
