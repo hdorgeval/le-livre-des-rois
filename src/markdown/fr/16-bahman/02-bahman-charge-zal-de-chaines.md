@@ -32,7 +32,7 @@ Il répondit :
 >
 > Tu as été témoin de ce qui s’est passé de bien et de mal ; mais tu n’as éprouvé de moi que du bien et aucun mal.
 >
-> Rustem ne s’est pas soustrait aux ordres d’Isfendiar, tu as vu que son âme était l’esclave de l’obéissance qu’il lui devait ; mais la fin de ton père, ce noble et puissant prince, approchait et c’est alors qu’il devint dur pour Rus- rem.
+> Rustem ne s’est pas soustrait aux ordres d’Isfendiar, tu as vu que son âme était l’esclave de l’obéissance qu’il lui devait ; mais la fin de ton père, ce noble et puissant prince, approchait et c’est alors qu’il devint dur pour Rusrem.
 >
 > Les lions et les dragons vaillants dans les forêts n’échappent pas à la griffe du sort.
 >
@@ -40,8 +40,7 @@ Il répondit :
 >
 > Les hauts faits de Rustem sur le champ de l’honneur et des combats se sont passés sous les yeux de les ancêtres.
 >
-> Il a en soin de toi comme la plus humble des nourrices, et, à l’armée, 
- 5 il était parmi les plus nobles de les héros.
+> Il a en soin de toi comme la plus humble des nourrices, et, à l’armée, 5 il était parmi les plus nobles de les héros.
 >
 > Maintenant Rustem a péri misérablement et tout le Zaboulistan en est rempli d’émoi.
 >
@@ -67,7 +66,7 @@ Arrivé près de Bahman, il mit pied à terre et l’adore, disant :
 >
 > grandes actions. mais ne cherche pas à le venger des morts. »
 
-I Ces paroles excitèrent la colère de Bahman, et c’est ainsi que fut manqué le but de Zal.
+I Ces paroles excitèrent la colère de Bahman et c’est ainsi que fut manqué le but de Zal.
 
 A l’instant le roi fit charger ses pieds de chaînes et refusa d’écouter les conseils de son destour et de son trésorier.
 
