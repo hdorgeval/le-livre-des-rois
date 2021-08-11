@@ -77,7 +77,7 @@ Le Destour, ayant vu tout cela, alla auprès du roi ; il était par son intellig
 On a trouvé de quoi doter tous les trésors ; on a découvert une chambre remplie de pierreries, dont la voûte du ciel avait gardé la clef. 1)
 Le roi dit :
 
-> Quand on veut construire un trésor, on écrit toujours son nom dessus ; regarde quel nom porte celui-ci, et dans quel temps on l’a rempli. »
+> Quand on veut construire un trésor, on écrit toujours son nom dessus ; regarde quel nom porte celui-ci et dans quel temps on l’a rempli. »
 
 Le chef des Mobeds partit en entendant cet
 
