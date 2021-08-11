@@ -32,7 +32,7 @@ Le roi rit beaucoup de ces lettres, puis il lança sur la route un dromadaire ra
 >
 > Choisis dix mille Louris, hommes et femmes, experts à jouer du luth. »
 
-Lorsque les Louris arrivèrent, le roi ordonna de les admettre auprès de lui ; il donna à chacun un bœuf et un âne, car il voulut faire d’eux des agri- culteurs ; il leur lit livrer par ses percepteurs mille charges d’âne de blé, car ils devaient cultiver la terre avec leurs bœufs et leurs ânes, employer le blé pour les semences et produire des récoltes, faire de la musique pour les pauvres et leur rendre gratuitement ce service.
+Lorsque les Louris arrivèrent, le roi ordonna de les admettre auprès de lui ; il donna à chacun un bœuf et un âne, car il voulut faire d’eux des agriculteurs ; il leur lit livrer par ses percepteurs mille charges d’âne de blé, car ils devaient cultiver la terre avec leurs bœufs et leurs ânes, employer le blé pour les semences et produire des récoltes, faire de la musique pour les pauvres et leur rendre gratuitement ce service.
 
 Les Louris partirent, mangèrent les bœufs et le blé, puis ils se présentèrent au bout d’un an, les joues jaunies ; le roi leur dit :
 
