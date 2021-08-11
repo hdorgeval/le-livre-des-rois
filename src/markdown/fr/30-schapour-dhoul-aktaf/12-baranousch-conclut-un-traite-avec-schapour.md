@@ -56,7 +56,7 @@ Quand ils furent partis, Schapour s’en retourna avec son armée, rendant beauc
 
 Mais lorsque les habitants de Nisibin apprirent que la ville était cédée, ils se préparèrent en toute hâte au combat, disant :
 
-> Il ne faut pas que le roi schapOur prenne Nisibin et qu’il y amène une armée, car il ne maintiendra pas la religion du Messie ; il voudra ré- pendre la foi des Guèbres et le Zendavesta.
+> Il ne faut pas que le roi schapOur prenne Nisibin et qu’il y amène une armée, car il ne maintiendra pas la religion du Messie ; il voudra répendre la foi des Guèbres et le Zendavesta.
 >
 > Quand il viendra, il ne voudra pas nous écouter et nous ne voulons pas l’Avesta et sa vieille religion. »
 
@@ -66,17 +66,16 @@ Lorsque Schapour apprit qu’on refusait de’le laisser entrer à Nisibin, il s
 
 > Il est impossible d’approuver la religion d’un prophète que les Juifs ont mis à mort. »
 
-On se battit pendant une semaine et les portes de la ville étaient trop étroites pour les combattants ; on tua un grand nombre des chefs de Nisibin et onchargea les survivants de lourdes chaînes.
+On se battit pendant une semaine et les portes de la ville étaient trop étroites pour les combattants ; on tua un grand nombre des chefs de Nisibin et on chargea les survivants de lourdes chaînes.
 
 Alors ils demandèrent grâce à Schapour par une lettre et le glorieux roi leur accorda son pardon et retira son armée. -
-Schapour remplit de sa renommée toutes les parties du monde, il saisit le pouvoir sur la terre entière ; on le proclama le roi victorieux et il resta longtemps maître de la couronne et du trône ; A la jeune fille qui l’avait délivré et l’avait fait arriver à cette puissance, il donna le nom de Dilafrouz-i-Far-rukhpaï et en fit le charme de son cœur parmi tontes les belles.
+Schapour remplit de sa renommée toutes les parties du monde, il saisit le pouvoir sur la terre entière ; on le proclama le roi victorieux et il resta longtemps maître de la couronne et du trône ; À la jeune fille qui l’avait délivré et l’avait fait arriver à cette puissance, il donna le nom de Dilafrouz-i-Far-rukhpaï et en fit le charme de son cœur parmi tontes les belles.
 
 Il donna de grandes richesses au jardinier et lui accorda un congé honorable.
 
-Le Kaïsar restait’en prison et dans les chaînes, se lamentant, méprisé, blessé et misérable ; tout ce qu’il avaitdans le Roum de trésors amassés péniblement-
+Le Kaïsar restait’en prison et dans les chaînes, se lamentant, méprisé, blessé et misérable ; tout ce qu’il avait dans le Roum de trésors amassés péniblement-
 
-37
-de tous côtés, il le fit apporter, le remit à Schapour et vécut ainsi pendant longtemps, les lèvres pleines de soupirs.
+De tous côtés, il le fit apporter, le remit à Schapour et vécut ainsi pendant longtemps, les lèvres pleines de soupirs.
 
 À la fin il mourut en prison et dans les chaînes et laissa à un autre Kaïsar le diadème de la royauté.
 
