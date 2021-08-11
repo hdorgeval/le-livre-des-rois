@@ -28,7 +28,7 @@ Il regarda partout et vit des ruines au milieu desquelles restait debout une vo�
 
 Il fallait qu’il se couchât sous cette voûte délabrée, car il était tout y seul, sans aide et sans compagnon.
 
-Le Sipehbed fit la ronde autour de l’armée, et passa devant cette voûte en mauvais état ; une voix qui venait des ruines frappa son oreille, un bruit sortant de ce lieu de terreur lui arriva, disant :
+Le Sipehbed fit la ronde autour de l’armée et passa devant cette voûte en mauvais état ; une voix qui venait des ruines frappa son oreille, un bruit sortant de ce lieu de terreur lui arriva, disant :
 
 > Ô voûte délabrée, prends garde, veille sur ce roi d’I-
 ranl Il n’avait ni tente, ni aide,’ni compagnon, il s’est réfugié sous toi et s’est endormi. »
@@ -55,11 +55,13 @@ Il ordonna qu’on réveillât à l’instant l’homme endormi et d’une voix 
 
 > Ô dormeur, réveille-toi de ce sommeil sur la dure ! »
 
-Darab monta à cheval, et la voûte s’écroula sur-le-champ.
+Darab monta à cheval et la voûte s’écroula sur-le-champ.
 
-I Quand le chef de l’armée de la reine vit ce miracle, il regarda Darab de la tête aux pieds et dit z Voici une merveille qui me confond :
+I Quand le chef de l’armée de la reine vit ce miracle, il regarda Darab de la tête aux pieds et dit :
 
-> on ne peut rien concevoir au delà. »
+> Voici une merveille qui me confond :
+
+> on ne peut rien concevoir au delà »
 
 Il partit à l’instant avec lui pour son campement, disant :
 
@@ -74,8 +76,10 @@ Lorsque le soleil montra. sa tête au-dessus de la cime des montagnes, le Sipehb
 >
 > Il faudrait me le dire selon la vérité. »
 
-Darab l’écouta et lui raconta tout, lui dévoila tout ce qui s’était passé ; il répéta à Besch- newad tout ce que cette femme lui avait dit sur la botte, sur le joyau rouge attaché à son bras, sur l’or et les brocarts dignes d’un Pehlewan qui l’avaient enveloppé;-’enfin il raconta au chef de l’arcmée l’histoire deïson repos et de son sommeil dans le lieu où il s’était caché.
+Darab l’écouta et lui raconta tout, lui dévoila tout ce qui s’était passé ; il répéta à Beschnewad tout ce que cette femme lui avait dit sur la botte, sur le joyau rouge attaché à son bras, sur l’or et les brocarts dignes d’un Pehlewan qui l’avaient enveloppé;-’enfin il raconta au chef de l’arcmée l’histoire deïson repos et de son sommeil dans le lieu où il s’était caché.
 
-Reschnewad expédia sur’le-champ un messager à l qui il dit :
+Reschnewad expédia sur’lechamp un messager à !
+
+Qui il dit :
 
 > Va comme le vent et amène ici le blane chisseur, sa femme et leur joyau, amène Mars et Vénus (c’est-à dire l’homme et la femme)»
