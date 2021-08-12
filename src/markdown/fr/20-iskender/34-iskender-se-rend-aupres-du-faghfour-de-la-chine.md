@@ -77,7 +77,7 @@ Le Faghfour lui fit des questions, disant :
 
 > Comment as-tu passé la nuit, car hier au soir tu étais pris de vin ? »
 
-Puis, il fit venir un scribe qui apporta du papier, du musc et de l’ambre et écrivit une réponse chaleureuse à la lettre d’lskender, en couvrant le papier de Chine d’ornements beaua :
+Puis, il fit venir un scribe qui apporta du papier, du musc et de l’ambre et écrivit une réponse chaleureuse à la lettre d’Iskender, en couvrant le papier de Chine d’ornements beaua :
 
 > comme le paradis.
 >
