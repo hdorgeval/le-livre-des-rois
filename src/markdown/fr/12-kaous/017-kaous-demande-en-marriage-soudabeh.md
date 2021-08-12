@@ -8,7 +8,7 @@ source: tome II - livre des rois - P. 7
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Kaous demande en mariage Soudabeh, fille du roi du Hamaveran | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ["âme", "cyprès", "Dieu", "Hamaveran", "Iran", "Kaous", "Kobad", "Mobeds", "Soudabeh"]
 order: '017'
 ---
 
