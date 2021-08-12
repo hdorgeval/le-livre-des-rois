@@ -59,7 +59,7 @@ Un des chefs des Houmis répondit :
 > Je ne veux pas qu’il soit enterré ici.
 >
 > Si vous trouvez juste ce que je dis, Iskender dont ï.-
-tourner à la terre dont il est sorti. »
+> tourner à la terre dont il est sorti. »
 
 Un Perse reprit la parole ainsi :
 
@@ -67,9 +67,9 @@ Un Perse reprit la parole ainsi :
 >
 > Je vous montrerai une prairie qui date du temps de nos anciens rois et que les vieillards qui ont de l’expérience appellent Khurm.
 >
-> On y trouve un bois et un réservoir d’eau et quand on
+> On y trouve un bois et un réservoir d’eau et quand on y
 >
-> y prononce une question, il vient de la montagne une réponse dans une voix que toute la foule peut entendre.
+> prononce une question, il vient de la montagne une réponse dans une voix que toute la foule peut entendre.
 >
 > Amenez-y un vieillard et portez-y le cercueil : le vieillard adressera la question et l’on vous répondra de la montagne et vous donnera un conseil qui portera bonheur. »
 
