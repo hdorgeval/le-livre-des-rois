@@ -73,7 +73,8 @@ Les joues du roi pâlirent à ces nouvelles ; et dans sa colère contre Siawusch
 
 Car il ne savait pas ce que la rotation des sphères lui réservait, ni si le ciel voulait le traiter avec amour ou avec haine.
 
-Il oublia sa colère,son envie de combats et sa vengeance et dès ce momentne parla plus de guerre. ’ ’
+Il oublia sa colère,son envie de combats et sa vengeance et dès ce momentne parla plus de guerre.
+
 Afrasiab apprit que Siawusch avait passé le Djihoun, qu’il avait franchi la frontière avec son escorte et qu’un messager envoyé par lui était arrivé à la cour.
 
 Il ordonna que l’on allât à sa rencontre et que les grands se missent en route précédés des tambours.
