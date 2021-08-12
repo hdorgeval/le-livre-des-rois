@@ -78,7 +78,7 @@ Le sage lui dit :
 >
 > J’ai observé la rotation du ciel et j’ai vu que sa vie se terminera promptement, car parmi les sept astres qui tournent dans le ciel, il n’y en avait pas un qui lui fût favorable.
 >
-> Il périra sur ce champ de bataille, mais .il ne faut pas aider à le mettre en détresse.
+> Il périra sur ce champ de bataille, mais il ne faut pas aider à le mettre en détresse.
 >
 > Ne lui donne pas le sceau de la royauté, le trône et le diadème, pour qu’on ne t’appelle pas le roi lâche ; mais tout ce qu’il demandera de chevaux et de trésors, donne-le-lui pour que tu n’aies pas à te reprocher sa mort.
 >
