@@ -1322,6 +1322,23 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/genslà/, 'gens là'),
     (content: string) => content.replace(/êtresoumises/, 'être soumises'),
     (content: string) => content.replace(/d’lskender/, 'd’Iskender'),
+    (content: string) => content.replace(/ \.il/, ' il'),
+    (content: string) => content.replace(/dit\.il/, 'dit-il'),
+    (content: string) => content.replace(/- : /, ''),
+    (content: string) => content.replace(/ - :/, ' :'),
+    (content: string) => content.replace(/que ; je/, 'que je'),
+    (content: string) => content.replace(/ma colères/, 'ma colère'),
+    (content: string) => content.replace(/Ma\.is /, 'Mais '),
+    (content: string) => content.replace(/’ ’/, ''),
+    (content: string) => content.replace(/venirlauprès/, 'venir auprès'),
+    (content: string) => content.replace(/al-Iiance/, 'alliance'),
+    (content: string) => content.replace(/,Mais /, ' Mais '),
+    (content: string) => content.replace(/momentne /, 'moment ne '),
+    (content: string) => content.replace(/ dansla /, ' dans la '),
+    (content: string) => content.replace(/ prudeut /, ' prudent '),
+    (content: string) => content.replace(/ Kei /, ' Keï '),
+    (content: string) => content.replace(/ 3l\./, ''),
+    (content: string) => content.replace(/ \.est /, ' est '),
   ].forEach((format) => {
     result = format(result);
   });

@@ -22,6 +22,10 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/-Combat/g, '- Combat'),
     (content: string) => content.replace(/peuxtu/g, 'peux-tu'),
     (content: string) => content.replace(/> a /g, '> '),
+    (content: string) => content.replace(/> y /, '> '),
+    (content: string) => content.replace(/> Il. /, '> Il '),
+    (content: string) => content.replace(/\n\.\n/, '\n'),
+    (content: string) => content.replace(/ au-près /, ' auprès '),
   ].forEach((format) => {
     result = format(result);
   });
