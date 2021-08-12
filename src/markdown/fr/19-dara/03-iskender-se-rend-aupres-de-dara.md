@@ -132,7 +132,7 @@ Le jourieût baissé et que le soleil qui éclaire le monde fût descendu vers l
 
 Ils lancèrent leurs montures aux pieds de vent et s’enfuirent du camp du maître de la terre.
 
-Lorsque Dara ne vit plus la tête et le diadème d’lskender, qui, dans l’obscurité, avait disparu de ses yeux, il envoya à l’instant des gardes dansla tente de son ennemi ; mais, à leur arrivée, le prudent prince était parti, car sa fortune ne dormait pas comme celle du roi.
+Lorsque Dara ne vit plus la tête et le diadème d’Iskender, qui, dans l’obscurité, avait disparu de ses yeux, il envoya à l’instant des gardes dansla tente de son ennemi ; mais, à leur arrivée, le prudent prince était parti, car sa fortune ne dormait pas comme celle du roi.
 
 Dura envoya des cavaliers après lui, mille braves pleins d’ardeur pour le combat ; ils s’élancèrent comme le vent, mais ils ne reconnurent pas sa trace dans cette nuit obscure.
 
