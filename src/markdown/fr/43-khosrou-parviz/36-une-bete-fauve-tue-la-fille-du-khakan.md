@@ -90,7 +90,9 @@ dit : Je veux avoir ma vengeance, je veux venger mon enfant chérie.
 
 Qu’il y ait de la honte ou de la gloire, moi je veux parler et j’espère que mon désir rsera accompli. »
 
-’ Lia-dessus bien des jours se passèrent de nouveau et la femme cacha à tous ses plans de vengeance. ,Mais il arriva que le Khakan prépara un festin qui remplissait le monde de sa splendeur.
+’ Lia-dessus bien des jours se passèrent de nouveau et la femme cacha à tous ses plans de vengeance.
+
+Mais il arriva que le Khakan prépara un festin qui remplissait le monde de sa splendeur.
 
 Il envoya chercher Bahram, le héros et à son arrivée le lit asseoir sur un trône d’argent.
 
