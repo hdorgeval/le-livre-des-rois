@@ -118,7 +118,7 @@ Le scribe, qui était un homme éloquent et observateur, regarda la suscription 
 >
 > Le pays sera délivré des incursions et des vengeances de toute espèce qui éclataient, car les femmes et les enfants des Bouh mis étaient enlevés et nos cœurs blessés de toutes les manières.
 >
-> Le monde a été pacifié par notre al-Iiance et ces folies ont été calmées ; que la grâce du Créateur soit sur toi, que tu sois comblé des bénédictions du monde ! »
+> Le monde a été pacifié par notre alliance et ces folies ont été calmées ; que la grâce du Créateur soit sur toi, que tu sois comblé des bénédictions du monde ! »
 
 Lorsque la lecture de cette lettre fut terminée, le maître du monde, qui avait écouté toutes ces paroles, s’en réjouit dans son âme et il sentit la fortune des rois refleurir en lui.
 
