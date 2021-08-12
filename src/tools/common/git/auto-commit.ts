@@ -18,6 +18,7 @@ import {
   autoCommitUpdatedFrenchMarkdownFormatter,
   autoCommitUpdatedFrenchMarkdownTags,
   autoCommitUpdatedFrenchTagsTools,
+  autoCommitUpdatedFrenchStats,
 } from '.';
 
 async function autoCommit() {
@@ -40,6 +41,7 @@ async function autoCommit() {
   await autoCommitUpdatedFrenchLtexHelpers().then();
   await autoCommitNewFrenchFrontmatterHelpers().then();
   await autoCommitUpdatedFrenchFrontmatterHelpers().then();
+  await autoCommitUpdatedFrenchStats().then();
 }
 
 autoCommit().then();
