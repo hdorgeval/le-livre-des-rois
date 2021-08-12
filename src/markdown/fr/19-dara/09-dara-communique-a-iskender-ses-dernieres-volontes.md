@@ -93,7 +93,6 @@ Garde-toide dire dans l’orgueil de ta, valeur :
 >
 > Telle est la coutume du ciel qui tourne ; que tu sois roi, que tu sois Pehlewan ; toute puisa sance finit par passer ; elle est la proie que poursuit la mort. »
 
-’ ’
 Iskender versa une pluie de larmes de sang sur le roi blessé et étendu sur le sol et Dura, voyant cette douleur qui venait du cœur et ce torrent de larmes qui coulaient sur ses joues pâles,.lui dit :
 
 > Ne pleure pas, cela ne remédie à rien et ma part dans le feu n’est plus que la fumée.
