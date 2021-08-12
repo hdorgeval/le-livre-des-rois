@@ -610,6 +610,7 @@ export const noises = [
   'Rends-lui',
   'Rends-moi',
   'Rends-toi',
+  'Rends',
   'Renonce',
   'Rentre',
   'Répandre',
