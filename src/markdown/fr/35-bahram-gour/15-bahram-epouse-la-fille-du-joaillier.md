@@ -77,7 +77,6 @@ Le pâtre répondit :
 >
 > Mais le roi des rois du monde n’est pas avide d’or et son Mobed n’est pas un homme injuste. »
 
-’ ’
 Ensuite le chef des pâtres dit :
 
 > Ô homme illustre, brave, intelligent et vaillant cavalier !
