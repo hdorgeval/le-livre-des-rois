@@ -518,8 +518,7 @@ Le roi demanda :
 
 > Qu’y a-t-il de mieux dans le monde, tant en public qu’en secret, de sorte que a7
 
-.
-celui qui le sait peut s’en faire une cuirasse et donner de la sérénité à son âme ?
+Celui qui le sait peut s’en faire une cuirasse et donner de la sérénité à son âme ?
 
 Il répondit :
 
