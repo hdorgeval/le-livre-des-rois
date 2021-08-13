@@ -48,7 +48,7 @@ Khosrou prit une longue lance et y attacha cette lettre impérieuse ; il éleva 
 
 Guiv prit la lance et partit comblé des bénédictions de Khosrou le serviteur de Dieu.
 
-Il appliqua la lettre contre le mur du château, se confiant à la fortune du prince qui ambitionnait la possession du monde,’ prononça
+Il appliqua la lettre contre le mur du château, se confiant à la fortune du prince qui ambitionnait la possession du monde, prononça
 
 Le nom de Dieu de qui vient tout bien et fit voler comme le vent son destrier rapide.
 
