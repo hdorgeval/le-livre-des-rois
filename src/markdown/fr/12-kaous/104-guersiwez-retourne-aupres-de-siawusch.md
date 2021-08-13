@@ -35,7 +35,7 @@ Le messager se rendit auprès de Siawusch, baisa la terre aussitôt qu’il l’
 Siawusch en ressentit une inquiétude intérieure et resta longtemps assis, plongé dans ses réflexions et se disant :
 
 > Il y a un secret lin-dessous.
-Île ne sais ce que Guersiwez, qui prétend être mon ami, aura dit de moi à Afrasiab. »
+> Île ne sais ce que Guersiwez, qui prétend être mon ami, aura dit de moi à Afrasiab. »
 
 Lorsque Guersiwez parut devant le palais, Siawusch quitta la salle d’audience, s’avança à pied jusque dans la rue et adressa à Guersiwez des questions sur son voyage et sur la santé du roi, sur l’état de l’armée, sur le trône et la couronne.
 
@@ -72,7 +72,7 @@ Siawusch le voyant pleurer comme un homme qui tremble de colère, lui dit d’un
 > Si quelqu’un s’est’déclaré ton ennemi et s’il faut te protéger et lutter contre lui, me voilà prêt à te soutenir en toute circonstance et si tu fais la guerre, à t’en fournir tous les moyens.
 >
 > Si tu as eu le malheur de tomber dans la disgrâce d’Afrasiab, si les paroles d’un calomniateur t’ont fait perdre la première place de l’empire, ra-
-conte-moi le secret de cette alliaire pour que je trouve un remède à tes douleurs.
+> conte-moi le secret de cette alliaire pour que je trouve un remède à tes douleurs.
 >
 > Je partirai pour tout aplanir, pour faire trembler le cœur de tes ennemis. »
 
@@ -116,9 +116,8 @@ Siawusch lui répondit :
 >
 > Partout où brille la droiture, le mensonge perd son éclat ; je montrerai à Afrasiah mon cœur plus par que la lumière du soleil qui
 >
-> >
-> 4
-r : éclaire les cieux.
+> > 4
+> > r : éclaire les cieux.
 >
 > Ainsi reprends ta gaieté et ne laisse pas aller ton âme à de mauvais soupçons.
 >
@@ -186,6 +185,4 @@ Siawusch se laissa convaincre par ces discours et c’est ainsi que son esprit v
 
 Il répondit :
 
-> Je ne dévierai eu rien de la voie que tes
->
-> K si K A o u s. paroles et tes conseils m’indiquent, charge-toi de mes demandes auprès d’Afrasiab, maintiens la paix entre nous et sers-moi de guide. »
+> Je ne dévierai eu rien de la voie que tes paroles et tes conseils m’indiquent, charge-toi de mes demandes auprès d’Afrasiab, maintiens la paix entre nous et sers-moi de guide. »
