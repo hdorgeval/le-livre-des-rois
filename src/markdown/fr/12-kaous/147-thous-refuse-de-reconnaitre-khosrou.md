@@ -72,6 +72,6 @@ Guiv se leva en fureur, car il n’avait point de confiance dans la sagesse et d
 >
 > un mon s. â3l donne le trône des rois qu’à un homme digne du pouvoir, fort, prudent et sage. »
 
-Après avoir prononcé ces paroles dures, Guiv tourna vivement le dos à Thous, s’en retourna au-près de Gouderz fils de Keschwad et lui dit :
+Après avoir prononcé ces paroles dures, Guiv tourna vivement le dos à Thous, s’en retourna auprès de Gouderz fils de Keschwad et lui dit :
 
 > Thous n’a ni dignité, ni sens ; tu dirais qu’il a des yeux et qu’il ne voit pas : c’est Feribourz qu’il choisit pour roi et pourtant il n’y a pas dans le palais une peinture belle comme Khosrou ; il n’y a pas de roi comme lui quand il est assis sur la selle d’or ; jamais il n’y a’eu dans l’Iran un cavalier comme lui, ni sur le trône un prince paré de colliers et de boucles d’oreilles beau comme lui. »
