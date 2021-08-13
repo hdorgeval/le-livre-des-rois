@@ -52,8 +52,6 @@ Il lui fit écrire une lettre pleine de dignité, adressée aux commandants des 
 >
 > Aussi longtemps que vous ne verrez pas reparaître mon drapeau, gardez-vous de dormir en sécurité. »
 
-.
-
 I ’
 Lorsqu’il partit du temple du feu pour marcher sur le Roum, le bruit s’en répandit dans le pays
 
