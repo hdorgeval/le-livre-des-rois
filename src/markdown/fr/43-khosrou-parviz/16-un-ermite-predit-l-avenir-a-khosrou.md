@@ -53,7 +53,7 @@ L’ermite dit :
 >
 > Tu obtiendras du Kaiser des armes et des troupes et une fille digne du trône et de la couronne.
 >
-> Quand tu livreras bataille à tes esclaves, le maître du monde veillera sur toi et le donnera aide ; à la fin cet homme de mauvaise race s’enfuira, ilvparlera beaucoup de ses jours de bonheur et après cette luttei1 s’emparera d’un lieu éloigné où il se préparera une résidence ; mais, comme il aura mieux aimé s’éloigner que de s’engager à l’obéissance envers toi,’ on versera son sang sur tes ordres. »
+> Quand tu livreras bataille à tes esclaves, le maître du monde veillera sur toi et le donnera aide ; à la fin cet homme de mauvaise race s’enfuira, ilvparlera beaucoup de ses jours de bonheur et après cette luttei1 s’emparera d’un lieu éloigné où il se préparera une résidence ; mais, comme il aura mieux aimé s’éloigner que de s’engager à l’obéissance envers toi, on versera son sang sur tes ordres. »
 
 ’
 Khosrou répondit :
