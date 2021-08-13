@@ -54,7 +54,6 @@ Gouderz observa l’armée du Touran, sous laquelle la terre s’inclinait comme
 Les drapeaux et les corps d’armée se suivirent sans interruption jusqu’à ce que les ténèbres descendissent de la montagne.
 
 Quand la nuit fut devenue sombre, on plaça les éléphants sur le front des armées pour fermer la 3A7 route, on alluma des feux des deux côtés ; et tels étaient les cris des héros avides de combat qu’on aurait dit que la terre était remplie d’Ahrimans et que depuis le pan jusqu’à la manche il n’y avait que des ennemis ; le bruit des tambours, dans la nuit couleur de poix, fendait le cœur des rochers.
-.
 
 L’aube du jour descendit de la montagne sombre ; le Sipehdar des Iraniens monta, devant le front de l’armée, sur un cheval frais et assigna aux héros leurs postes.
 
