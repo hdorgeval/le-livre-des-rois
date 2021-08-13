@@ -54,7 +54,7 @@ Il donna à Ferenguis des diadèmes et des boucles d’oreilles, des colliers et
 
 Il arriva joyeusement à son palais, se rendit à l’appartement de ses femmes et dit à Gulschehr :
 
-> u Quiconque n’a pas, vu le gai paradis et ce que Rithwan y a planté, qu’il aille voir cette ville, ce séjour fortuné, dont le trône et le palais sont un paradis sublime ; qu’il aille voir Siawusch brillant scomme le soleil et assis sur son trône dans sa puissance, dans sa gloire et dans sa prudence et sema blable au bienheureux Serosch.
+> Quiconque n’a pas, vu le gai paradis et ce que Rithwan y a planté, qu’il aille voir cette ville, ce séjour fortuné, dont le trône et le palais sont un paradis sublime ; qu’il aille voir Siawusch brillant scomme le soleil et assis sur son trône dans sa puissance, dans sa gloire et dans sa prudence et sema blable au bienheureux Serosch.
 >
 > Fais joyeusement un av peu de chemin pour aller voir la ville de Siawusch et le maître de la ville plus brillant qu’elle ; tu dirais qu’il illumine tout l’Occident.
 >
