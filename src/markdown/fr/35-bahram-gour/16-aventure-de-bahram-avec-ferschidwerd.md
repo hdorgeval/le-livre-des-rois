@@ -88,7 +88,6 @@ Il répondit :
 >
 > Si j’avais du pain, il y aurait de la vie dans mon corps et si j’avais de la vie, cela vaudrait mieux que du pain. »
 
-.
 Bahram lui dit :
 
 > Si tu ne possèdes pas de moutous, qui est donc venu dans ta maison répandre cette fiente ? »
