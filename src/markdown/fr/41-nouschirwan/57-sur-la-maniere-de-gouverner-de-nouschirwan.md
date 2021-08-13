@@ -149,7 +149,7 @@ Le roi répondit avec autorité :
 
 Un autre Mobed dit :
 
-> Ô roi] un jour tu nous as ordonné de choisir un homme de haute naissance qui devait faire une tournée dans l’empire pour faire rendre justice et pour envoyer à cette cour des \* La LIVRE ces u rapports sur tout ce qui se passe de bien ou de mal en grand et en petit.
+> Ô roi] un jour tu nous as ordonné de choisir un homme de haute naissance qui devait faire une tournée dans l’empire pour faire rendre justice et pour envoyer à cette cour des \* La LIVRE ces rapports sur tout ce qui se passe de bien ou de mal en grand et en petit.
 >
 > Gouschasp, le scribe qui porte haut la tête, est-il propre à faire rendre justice ? »
 
