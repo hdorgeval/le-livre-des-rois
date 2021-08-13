@@ -34,8 +34,6 @@ Bahram répondit :
 
 > Commence, car tu as été le provocateur par tes paroles. »
 
-.
-
 Mekatoureh invoqua le maître du monde, il accrocha la corde aux deux bouts de l’arc, saisit gaiement la corde de la flèche et lâcha le doigt lorsque la pointe de la flèche ne dépassa plus l’arc.
 
 La flèche frappa la ceinture du cavalier, mais son fer brillant n’en perça pas les mailles de fer.
