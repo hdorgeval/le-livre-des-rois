@@ -38,7 +38,7 @@ Ensuite entra un scribe, apportant du papier, du musc et de l’ambre et il écr
 >
 > Puisse le trône ne jamais cesser d’être occupé par toit»
 
-On plaça sur la lettre le sceau du roi et Guiv quitta le palais et se mit en route ; il ne s’arrêta nulle part dans son chemin et arriva à Gangue au-près de Khosrou.
+On plaça sur la lettre le sceau du roi et Guiv quitta le palais et se mit en route ; il ne s’arrêta nulle part dans son chemin et arriva à Gangue auprès de Khosrou.
 
 Il offrit ses hommages au roi, lui remit la lettre et lui rapporta le message de son grand-père.
 
