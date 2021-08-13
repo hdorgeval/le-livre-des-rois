@@ -121,8 +121,6 @@ Le Brahmane répondit :
 >
 > L’un d’eux a les lèvres desséchées par la misère, l’autre passe des nuits dans l’insomnie produite par l’abondance ; le mauvais jour fera sa proie de l’un et de l’autre : heureux celui dont l’âme est accessible à la raison ! »
 
-.
-
 Iskender écouta leurs paroles, son visage devint blanc comme la fleur du fenugrec, ses deux joues pâlirent, ses deux yeux se remplirent de larmes et ses traits souriants se contractèrent.
 
 Le puissant roi leur demanda :
