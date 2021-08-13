@@ -71,7 +71,7 @@ Schirouïeh comprit que c’était Khosrou, car la grande mine du roi était uni
 
 Il envoya du palais trois cents cavaliers, rapides comme le veut, jusqu’aux bords du fleuve.
 
-Khosrou, voyant de loin cette troupe, pâlit et tira son épée de combat ; mais quand les cavaliers aperçurent le roi des rois, toute la troupe s’en retourna et tous se rendirent au-près de Ferrukhzad, à qui chacun fit un long récit, ajoutant :
+Khosrou, voyant de loin cette troupe, pâlit et tira son épée de combat ; mais quand les cavaliers aperçurent le roi des rois, toute la troupe s’en retourna et tous se rendirent auprès de Ferrukhzad, à qui chacun fit un long récit, ajoutant :
 
 > Nbus sommes des esclaves et lui est le roi et le malheur est une chose toute nouvelle pour lui.
 >
