@@ -53,7 +53,7 @@ Depuis Kanoudj jusqu’aux frontières de l’Iran et de la au pays des Slaves e
 
 Dans l’appartement de mes femmes, la fille du Faghfour de la Chine invoque les grâces de Dieu sur moi et elle m’a donné un fils au cœur de lion qui fend avec son épée les roches.
 
-Depuis le temps de Kei Kaous et de Keï-Kohad personne n’a parlé de tribut à ce pays.
+Depuis le temps de Keï Kaous et de Keï-Kohad personne n’a parlé de tribut à ce pays.
 
 Une armée de trois cent mille braves me salue comme roi et douze cents de mes alliés, qui
 
