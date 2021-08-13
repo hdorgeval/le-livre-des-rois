@@ -58,7 +58,7 @@ Malheurs actuels, je ne me suis pas dessaisi de cet horoscope, jetl’ai mis sou
 
 Lorsque ma royauté eut duré trentesix ans et que sans doute, au milieu de ces jours heureux, tu ne pensais pas à cet horoscope, quoique ma vie s’écoulât, il arriva pour toi une lettre de l’Inde dont j’eus connaissance.
 
-On m’apporte une lettre du plus grand u des Radjas, avec des joyaux et des étoiles de toute espèce, une épée indienne, un éléphant blanc et tout ce que j’aurais pu désirer dans ce monde. ce Outre cette épée, il y avait des brocarts tissés de : et toutes sortes de pierreries non taillées.
+On m’apporte une lettre du plus grand des Radjas, avec des joyaux et des étoiles de toute espèce, une épée indienne, un éléphant blanc et tout ce que j’aurais pu désirer dans ce monde. ce Outre cette épée, il y avait des brocarts tissés de : et toutes sortes de pierreries non taillées.
 
 Il y avait aussi une lettre,sur satin à ton adresse ; quand j’ai vu cette écriture indienne, j’ai fait appeler un scribe .d’origine indienne, discret, éloquent et observateur.
 
