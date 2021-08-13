@@ -40,7 +40,7 @@ Quand il eut dix ans, le jeune brave se mit à attaquer les sangliers, les ours 
 
 Quelque temps s’étant ainsi passé, il refusa d’obéir aux ordres de son père nourricier ; et un jour le pâtre quitta la montagne et le désert, se rendit en se lamentant auprès de Piran et lui dit :
 
-> Je viens au-près du Pehlewan pour me plaindre de ce vaillant lion qui porte haut la tête.
+> Je viens auprès du Pehlewan pour me plaindre de ce vaillant lion qui porte haut la tête.
 >
 > Il a chassé d’abord les antilopes, en évitant le chemin du lion et le combat contre ’le léopard ; mais maintenant il lui est indifférent de poursuivre l’antilope ou d’attaquer le lion furieux.
 >
