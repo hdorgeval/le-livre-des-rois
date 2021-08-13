@@ -118,8 +118,7 @@ Le Kaîsar’e’couût et dit à son Destour :
 
 > Voici huit ans. »
 
-.
-donc le secret de son sort découvert.
+Donc le secret de son sort découvert.
 
 Maintenant que faire ?
 
