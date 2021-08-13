@@ -106,7 +106,7 @@ Le jeune messager se rendit auprès du Pehlewan et lui répéta ce qu’on lui a
 >
 > Rétrograder serait de mauvais augure et les ennemis, en l’apprenant, reprendraient courage.
 >
-> Quand je serai victorieux, je reviendrai au-près de toi et ton pays et ton armée brilleront glorieusement. »
+> Quand je serai victorieux, je reviendrai auprès de toi et ton pays et ton armée brilleront glorieusement. »
 
 L’envoyé s’en retourna et rapporta la réponse de ce fidèle serviteur au roi, qui en fut content et la peine de l’émissaire était en pure Le Sipehbed mit le lendemain matin l’armée mouvement et appela sur elle la bénédiction de Dieu.
 
