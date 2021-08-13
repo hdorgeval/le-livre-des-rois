@@ -23,7 +23,7 @@ Quelqu’un vint lui dire que le Kaïsar envoyait une armée et qu’on la voyai
 Lorsque le roi eut appris qu’il arrivait une masse de troupes portant des lances et des cuirasses, il dit à son armée ce qu’il avait entendu pour qu’elle se préparât et elle se mit en marche comme une montagne de fer et les trompettes d’airain résonnè-
 rent.
 
-Un messager des espions arriva en courant au-près du roi du monde et lui dit quele Kaïsar envoyait une armée composée de ses plus illustres guerriers, tous avides de combats comme des loups, commandés par un farouche Pehlewan dont le nom roumi était Farfourius, un cavalier portant haut la tête et précédé de clairons et de timbales.
+Un messager des espions arriva en courant auprès du roi du monde et lui dit quele Kaïsar envoyait une armée composée de ses plus illustres guerriers, tous avides de combats comme des loups, commandés par un farouche Pehlewan dont le nom roumi était Farfourius, un cavalier portant haut la tête et précédé de clairons et de timbales.
 
 À peine eut-on dit cela au roi vigilant que la poussière que soulevait cette armée parut au loin ; le roi du monde sourit des paroles du messager et lui dit :
 
