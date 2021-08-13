@@ -18,9 +18,9 @@ order: '018'
 
 Mais le cœur du roi du Hamaveran était triste ; il cherchait de tous côtés un remède à son malheur et lorsque sept jours furent écoulés, il parut, au matin du huitième, un messager devant Kaous, qui lui dit :
 
-> S’il plaisait au roi d’être mon hôte, qu’il Lorsque la conquérante des cœurs et ce cortège KEi n vienne joyeusement dans mon palais.
+> S’il plaisait au roi d’être mon hôte, qu’il vienne joyeusement dans mon palais.
 >
-> Le pays de Hamaveran sera honoré quand le peuple verra le visage du maître puissant. »
+> Le pays de Hamaveran sera honoré quand le peuple verra le visage du maître puissant.
 
 C’est ainsi qu’il méditait un dessein contre Kaous ; son intention secrète était mauvaise et son cœur n’était pas droit ; car il espérait se ressaisir de son pays et de sa fille et s’affranchir du tribut à payer à Kaous.
 
@@ -32,55 +32,53 @@ Elle dit au roi :
 >
 > Il ne faut pas lui donner occasion de tomber sur toi pendant la fête et de s’emparer de ta personne inappréciable.
 >
-> Tout ce bruit ne se fait ’qu’à cause de moi et il t’arrivera malheur de ce mes,-sage. »
+> Tout ce bruit ne se fait ’qu’à cause de moi et il t’arrivera malheur de ce message.
 
 Kaous refusa de croire aux paroles de Soudabeh, car il ne tenait pour brave aucun homme de ce pays.
 
 Il partit avec ses guerriers et les grands de sa cour pleins d’orgueil, pour aller jouir de l’hospitalité du roi du Hamaveran.
 
-Or le roi possédait une ville dont le nom .était Saheh ; c’était là qu’il célébrait ses fêtes et donnait ses festins ; c’était là que se trouvait le palais où il résidait.
+Or le roi possédait une ville dont le nom était Saheh ; c’était là qu’il célébrait ses fêtes et donnait ses festins ; c’était là que se trouvait le palais où il résidait.
 
-Toute la ville fut décorée pour la fête et lorsque Kaous qui portait haut la tête entra dans Saheh, tous les habitants vinrent lui rendre hommage, tous versèrent sur lui des joyaux et du safran mêlé de musc et d’ambre et dans toute la ville le bruit de la musique et des chants s’entre-
+Toute la ville fut décorée pour la fête et lorsque Kaous qui portait haut la tête entra dans Saheh, tous les habitants vinrent lui rendre hommage, tous versèrent sur lui des joyaux et du safran mêlé de musc et d’ambre et dans toute la ville le bruit de la musique et des chants s’entrecroisait comme la trame et la chaîne.
 
-Croisait comme la trame et la chaîne.
+Lorsque le roi du Hamaveran aperçut Kaous, il alla au-devant de lui avec ses braves ; et depuis la porte du palais jusqu’à la salle du roi on fit pleuvoir sur Kaous des perles, des rubis et de l’or que l’on versait de plats d’or et l’on répandait sur sa tête du musc et de l’ambre.
 
-Lorsque le roi du Hamaveran aperçut Kaous, il talla au-devant de lui avec ses braves ; et depuis la porte du palais jusqu’à la salle du roi on fit pleuvoir sur Kaous des perles, des rubis et de l’or que l’on versait de plats d’or et l’on répandait sur sa tête du musc et de l’ambre.
+Le roi avait fait placer dans la salle un trône d’or sur lequel Kaous s’assit avec joie.
 
-Leroi avait fait placer dans la salle un trône d’or sur lequel Kaous s’assit avec joie.
+Il y resta sept jours une coupe de vin à la main ; et ce lieu lui parut beau et agréable à habiter.
 
-Il y resta sept jours une coupe. de vin à la main ; et ce lieu lui parut beau et agréable à habiter.
+Le roi du Hamaveran se tint devant lui jour et nuit, ceint comme un esclave et son armée ceinte également se tint devant les Iraniens pour les servir jusqu’à ce qu’ils fussent plongés dans la sécurité, oubliant le comment et le pourquoi, la crainte et l’idée du malheur.
 
-Le roi du Hamaveran se tint devant lui jour et nuit, ceint comme un esclave et son armée ceinte également se tint devant les Iraniens pour les servir jusqu’à ce qu’ils fussent plongés dans la sécurité, oubliant le comment et le pourquoi, la crainte et l’idée du. malheur.
+Mais à la fin de la semaine les hommes du Hamaveran furent prêts à agir, leurs plans étaient arrêtés et ils étaient tous debout.
 
-Mais à la fin de la semaine les hommes du Hamaveran furent prêts à agir, leurs plans étaient’arrêtés et ils étaient u tous debout.
+L’armée des Berbers était avertie, ses plans étaient les mêmes et elle se mit en marche ; et lorsqu’elle fut arrivée, le cœur du roi du Hamaveran se réjouit.
 
-L’armée des Berbers était avertie, ses plans étaient les mêmes et elle se mit en marche ; et lorsqu’elle fut arrivée, le cœur du roi du Hamaveran se réjouit. »Une nuit on entendit le bruit des clairons et des armes pendant que personne parmi les Iraniens ne pensait à se mettre en garde et l’on saisit subitement’Kaous,’ et avec lui Guiv, Gouderz et Thous, Gourguin et Zengueh fils de Schaweran et tous les héros pleins de courage ; on les saisit et on les lia avec de forts liens, on renversa leur gloire et leurs trônes.
+Une nuit on entendit le bruit des clairons et des armes pendant que personne parmi les Iraniens ne pensait à se mettre en garde et l’on saisit subitement Kaous et avec lui Guiv, Gouderz et Thous, Gourguin et Zengueh fils de Schaweran et tous les héros pleins de courage ; on les saisit et on les lia avec de forts liens, on renversa leur gloire et leurs trônes.
 
 Qu’en dit l’homme à l’œil perçant ?
 
-Quel enseignement en tirestu, ô sage ?
+Quel enseignement en tires-tu, ô sage ?
 
-Si quelqu’un ne t’est pas uni parle sang, ne te fie jamais beaucoup en lui et même il y a des hommes qui te sont alliés par le sang. qui briseront les liens de l’affection jusqu’au point de détourner de toi leur visage.
+Si quelqu’un ne t’est pas uni par le sang, ne te fie jamais beaucoup en lui et même il y a des hommes qui te sont alliés par le sang qui briseront les liens de l’affection jusqu’au point de détourner de toi leur visage.
 
-Si tu veux mettre à profit l’amitié d’un homme, il faut l’éprouver par le bonheur et par le malheur.-ll se peut que, placé au-dessous de toi ,1 il perde par jalousie toute l’affection qu’il te portait.
+Si tu veux mettre à profit l’amitié d’un homme, il faut l’éprouver par le bonheur et par le malheur.
 
-Tel est ce monde pervers, que chaque vent contraire l’ébranlem Kaous fut ainsi chargé de chaînes par trahison et le plan du roi du Hamaveran réussit.
+Il se peut que, placé au-dessous de toi, il perde par jalousie toute l’affection qu’il te portait.
 
-Or il y avait dans ce pays un recherldont la cime s’élevait jusqu’aux nues et qui du fond de la mer montait jusqu’au firmament ; sur ce rocher était bâtie une forteresse ; tu aurais dit qu’elle embrassait le ciel :
+Tel est ce monde pervers, que chaque vent contraire ébranle.
 
-> c’est la que le roi envoya Kaous et Guiv, Gouderz et Thous et qu’il jeta le reste des grands dans les fers avec le roi.
+Kaous fut ainsi chargé de chaînes par trahison et le plan du roi du Hamaveran réussit.
+
+Or il y avait dans ce pays un rocher dont la cime s’élevait jusqu’aux nues et qui du fond de la mer montait jusqu’au firmament ; sur ce rocher était bâtie une forteresse ; tu aurais dit qu’elle embrassait le ciel : c’est là que le roi envoya Kaous et Guiv, Gouderz et Thous et qu’il jeta le reste des grands dans les fers avec le roi.
 
 Mille braves gardaient le château, tous guerriers renommés et prompts à tirer l’épée.
 
 Les tentes de Kaous furent livrées au pillage et des boisseaux d’or et des couronnes distribués aux nobles.
 
-Deux troupes de femmes voilées partirent pour le camp, suivies d’une litière couverte pour ramener.
+Deux troupes de femmes voilées partirent pour le camp, suivies d’une litière couverte pour ramener Soudabeh et pour la remettre sous l’autorité du roi.
 
-Soudaheh et pour la remettre sous l’autorité du roi.
-
-Quand Sondabeh vit ces femmes voilées, elle déchira sur son corps sa robe royale, arracha avec ses mains les
-
-Tresses de ses cheveux noirs et fit couler le sang de ses joues avec ses ongles.
+Quand Soudabeh vit ces femmes voilées, elle déchira sur son corps sa robe royale, arracha avec ses mains les tresses de ses cheveux noirs et fit couler le sang de ses joues avec ses ongles.
 
 Elle leur dit :
 
@@ -90,13 +88,13 @@ Elle leur dit :
 >
 > Vous faites donc du trône d’or un piège !
 >
-> Vous trahissez la foi jurée ! »
+> Vous trahissez la foi jurée !
 
 Elle appela les esclaves des chiennes ; ses yeux étaient remplis de sang et sa bouche de cris de colère.
 
-Je ne veux pas, dit-elle, être séparée de Kaous, quand même il serait caché dans un tombeau.
-
-S’il faut que Kaous traîne des fers, que l’on coupe ma tête innocente. »
+> Je ne veux pas, dit-elle, être séparée de Kaous, quand même il serait caché dans un tombeau.
+>
+> S’il faut que Kaous traîne des fers, que l’on coupe ma tête innocente.
 
 Les esclaves répétèrent ce qu’elle avait dit à son père, dont la tête se remplit de colère, dont le cœur se gonfla de sang.
 
