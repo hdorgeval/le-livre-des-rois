@@ -66,7 +66,7 @@ Ardeschir fut à la fin fatigué de cette course, et, apercevant du haut d’une
 >
 > Restons auprès de l’eau, mangeons quelque chose et repartons quand nous serons reposés. »
 
-Lorsqu’ils furent arrivés tous les deux près de l’eau, leurs joues pâles comme le soleil couchant, Ardeschir voulut descendre de cheval ; mais il vit deux jeunes gens au-près dn bassin qui s’empressèrent de lui crier :
+Lorsqu’ils furent arrivés tous les deux près de l’eau, leurs joues pâles comme le soleil couchant, Ardeschir voulut descendre de cheval ; mais il vit deux jeunes gens auprès dn bassin qui s’empressèrent de lui crier :
 
 > Il faut que tu joues des étriers et des rênes.
 >
