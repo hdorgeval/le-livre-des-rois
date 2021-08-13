@@ -122,7 +122,7 @@ Il lit apporter des peaux de petitsgris, d’hermines et de zibelines, des bours
 
 Cent selles magnifiques, accompagnées de freins d’argent et cinquante freins d’or ; enfin on amena trois cents chameaux au poil roux, chargés de curiosités -chinoises.
 
-Il choisit alors parmi les vieillards chinois un homme grave et à la parole douce et lui ordonna de se rendre auprès d’lskender, avec des salutations et des messages et de lui annoncer qu’aussi longtemps qu’il resterait sur les frontières de la Chine, les grands du pays lui rendraient hommage.
+Il choisit alors parmi les vieillards chinois un homme grave et à la parole douce et lui ordonna de se rendre auprès d’Iskender, avec des salutations et des messages et de lui annoncer qu’aussi longtemps qu’il resterait sur les frontières de la Chine, les grands du pays lui rendraient hommage.
 
 L’envoyé se mit en route avec Iskender.
 
