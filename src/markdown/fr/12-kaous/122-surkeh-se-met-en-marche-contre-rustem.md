@@ -56,8 +56,6 @@ Surkheh sentit avec douleur qu’il était le plus faible et recula ; ensuite il
 
 Les cavaliers touraniens arrivèrent derrière leur chef en poussant des cris ; mais Faramourz, aussitôt que Surkheh fut à sa portée, étendit la main brusquement comme un léopard agile, le saisit à la ceinture, l’enleva de selle, le jeta par terre, le fit marcher ignominieusement devant lui à pied et l’emmena ainsi de la mêlée au camp iranien.
 
-.
-
 Dans ce moment on aperçut sur la route l’étendard de Rustem et l’on entendit le bruit de ses éléphants et de son armée.
 
 Faramourz courut au-devant de son père pour lui annoncer sa victoire.
