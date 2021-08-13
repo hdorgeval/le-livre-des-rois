@@ -20,7 +20,7 @@ Iskender fit venir un scribe et lai fit prendre un roseau du Roum et de la soie 
 
 Le scribe tailla le roseau et écrivit une lettre à la mère.
 
-Bouscbenek,’ disant :
+Bouscbenek, disant :
 
 > > : Que .Diault’accorde la récompense des vertueux, qu’il te donne après tes pentes de la tranquillité d’âme 1 le t’ai déjà écrit une lettre qui contient plus de conseils que je n’en donnerai ici.
 
