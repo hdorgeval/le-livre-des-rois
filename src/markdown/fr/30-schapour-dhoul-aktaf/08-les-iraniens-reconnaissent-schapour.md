@@ -97,7 +97,7 @@ Il s’adressa à Dieu, le distributeur de la justice, disant :
 \*
 Lorsque la nuit eut déployé son drapeau noir, les astres et le disque de la lune parurent ; de tous côtés arrivèrent des troupes dans le lieu où le roi était caché, de tous côtés les grands levèrent la tête et accoururent seuls ou par deux.
 
-Ils arrivèrent à la porte du jardinier, ils arrivèrent’auprès de l’hôte du roi pleins de joie.
+Ils arrivèrent à la porte du jardinier, ils arrivèrent auprès de l’hôte du roi pleins de joie.
 
 Le roi ordonna qu’on les admit, si pauvre que fût sa résidence et lorsqu’ils furent en présence de leur glorieux maître, ils se prosternèrent tous le visage contre terre.
 
