@@ -24,7 +24,7 @@ O homme intelligent et pieux, qui adores Dieu le très-saint, que veux-tu de moi
 
 Houm lui répondit :
 
-> Ta place n’est pas ici, le monde est rempli de ton nom, du nom de celui qui a tué un frère parmi les rois de la terre, qui a offensé Dieu par le meurtre d’Aghrires,’ de l’illustre Newder et de Siawusch, l’héritier des Keïanides.
+> Ta place n’est pas ici, le monde est rempli de ton nom, du nom de celui qui a tué un frère parmi les rois de la terre, qui a offensé Dieu par le meurtre d’Aghrires, de l’illustre Newder et de Siawusch, l’héritier des Keïanides.
 >
 > Ne verse pas le sang des rois, pour n’avoir pas à échanger ton palais contre une caverne sans fond. »
 
