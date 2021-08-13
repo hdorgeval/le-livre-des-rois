@@ -62,9 +62,12 @@ export const extractAllFrRulesFromLtexChecker = (rootDirectory: PathLike): void 
       return `(content: string) => content.replace(/${word.replace(
         '.',
         '\\.',
-      )}/, "${replacement}"),`;
+      )}/g, "${replacement}"),`;
     }
-    return `(content: string) => content.replace(/${word.replace('.', '\\.')}/, '${replacement}'),`;
+    return `(content: string) => content.replace(/${word.replace(
+      '.',
+      '\\.',
+    )}/g, '${replacement}'),`;
   });
 
   writeFileSync(path.join(__dirname, 'replacers.fr.txt'), replacers.join('\n'));
