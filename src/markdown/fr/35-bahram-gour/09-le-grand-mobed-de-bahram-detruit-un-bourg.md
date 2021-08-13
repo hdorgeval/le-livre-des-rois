@@ -53,7 +53,6 @@ Tous s’entre-attaquèrent et se tuèrent dans les lieux écartés.
 Lorsque ; ce bouleversement eut en-
 
 Vahi le bourg, les habitants s’empressèrent de le déserter ; les vieux et faibles restèrent, mais les instruments de culture, les outils et les récoltes disparurent : tout l’endroit offrait l’aspect de la désolation, les arbres desséchaient et le ruisseau était sans eau, la terré était un désert, les maisons étaient abandonnées et les. hommes et les bestiaux avaient fui.
-.
 
 Une année se passa, le printemps revint et le roi se dirigea de ce côté pour chasser.
 
