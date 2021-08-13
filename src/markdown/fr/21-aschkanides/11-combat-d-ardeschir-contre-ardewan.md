@@ -84,7 +84,7 @@ schir.
 
 Il s’y trouvait une source abondante dont on lit dériver un grand nombre de rigoles.
 
-Il fonda au-près de cette source un temple de feu, dans lequel il fit revivre les fêtes de Mihrigan et de Sedeh ; autour s’étendaient des jardins, une place et des édifices qui formaient un établissement énorme.
+Il fonda auprès de cette source un temple de feu, dans lequel il fit revivre les fêtes de Mihrigan et de Sedeh ; autour s’étendaient des jardins, une place et des édifices qui formaient un établissement énorme.
 
 Plus tard, lorsque ce savant, majestueux et puissant roi fut mort, le gouverneur de la frontière donna à cette ville le nom de Gour.
 
