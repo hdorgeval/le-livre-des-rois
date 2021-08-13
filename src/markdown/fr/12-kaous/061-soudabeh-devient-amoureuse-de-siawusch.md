@@ -32,7 +32,7 @@ Le messager partit et remplit sa mission ; mais le noble Siawusch s’en irrita 
 
 > Je ne suis pas un homme pour les appartements des femmes ; ne viens plus me chercher, car je n’aime pas les ruses et les mensonges. »
 
-Le lendemain Soudabeh sortit ; elle accourut au-près du roi de l’Iran et lui dit :
+Le lendemain Soudabeh sortit ; elle accourut auprès du roi de l’Iran et lui dit :
 
 > Ô roi du peuple, ni le soleil ni la lune n’ont vu un roi comme toi et personne sur la terre n’égale ton fils.
 
