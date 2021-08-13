@@ -139,7 +139,6 @@ Il répondit :
 
 > Un vieil lard savant reste nécessairement jeune par sa science et tu le préféreras avec raison à un jeune homme frivole, dont les cendres n’ont de valeur que par le tombeau qui les recouvre. »
 
-.
 Le Mobed dit :
 
 > Tu as toujours devant les grands parlé de la fortune des anciens rois des rois, maintenant tu prononces leurs noms de plus en plus, mais tu le fais en poussant des soupirs. »
