@@ -84,7 +84,6 @@ Veux-tu prendre la peine de dire à Buzurdjmihr que j’ai dans le monde un fils
 >
 > ferai volontiers, car tu m’as épargné beaucoup de chemin avec ton trésor. »
 
-.
 Buzurdjmihr se présenta devant le roi, qui fut joyeux d’avoir obtenu l’argent et dit :
 
 > Grâces soient rendues à Dieu de ce que ma vertu et ma piété ont fait qu’il y ait dans mon pays un cordonnier tellement heureux et prospère qu’il ait pu mettre de côté tantd’argentl À Dieu ne plaise qu’il ait jamais à souffrir une injustice de moi !
