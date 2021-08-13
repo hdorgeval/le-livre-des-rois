@@ -74,7 +74,7 @@ Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui di
 >
 > Quiconque détourne sa tête de la voie droite finira par être courbé et affaibli.
 >
-> Encore, dans le combat contre Peschen, où l’iran a tué tant de cavaliers, la terre a été rougie par le sang des fils de Gouderz, car tu ne cherches qu’à faire de la peine et ne suis que la voie du u mal.
+> Encore, dans le combat contre Peschen, où l’iran a tué tant de cavaliers, la terre a été rougie par le sang des fils de Gouderz, car tu ne cherches qu’à faire de la peine et ne suis que la voie du mal.
 >
 > Et maintenant tu es venu avec mille fois mille cavaliers turcs prêts pour la bataille, tu as amené ton armée à Amouï pour me combattre et Pescheng s’est présenté devant moi ; tu l’as envoyé pour qu’il me tranchât la tête et ensuite tu serais parti pour dévaster mon pays.
 >
