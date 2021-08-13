@@ -57,7 +57,7 @@ Bahram dit :
 >
 > Je vais faire une convention avec vous et que ma parole en soit le gage devant Dieu.
 >
-> Nous dresun serons le trône d’ivoire du roi des rois, nous y plaorcerons cette riche couronne ; nous amènerons de la forêt deux lions sauvages et nous placerons la couronne entre eux ; nous attacherons les lions des deux côtés et celui. qui a l’envie d’être roi ira prendre la couronne illustre sur le trône d’ivoire et la placera sur sa tête. il s’assiéra comme roi entre les deux lions, le roi au milieu, la couronne sur sa tête,’ le trône sous lui et nous ne nommerons roi que lui, pourvu qu’il soit un homme juste et pur.
+> Nous dresun serons le trône d’ivoire du roi des rois, nous y plaorcerons cette riche couronne ; nous amènerons de la forêt deux lions sauvages et nous placerons la couronne entre eux ; nous attacherons les lions des deux côtés et celui. qui a l’envie d’être roi ira prendre la couronne illustre sur le trône d’ivoire et la placera sur sa tête. il s’assiéra comme roi entre les deux lions, le roi au milieu, la couronne sur sa tête, le trône sous lui et nous ne nommerons roi que lui, pourvu qu’il soit un homme juste et pur.
 >
 > Mais si vous refusez ce que propose, si vous choisissez un grand qui ne serait pas mon égal, alors, au lieu d’un chef comme moi, vous verrez, en guise d’épines et de mauvaises herbes dans vos chmnps, des lances de cavaliers ; moi et Mondhir, nos massues et nos épées tranchantes y serons et les héros arabes ne savent pas fuir.
 >
