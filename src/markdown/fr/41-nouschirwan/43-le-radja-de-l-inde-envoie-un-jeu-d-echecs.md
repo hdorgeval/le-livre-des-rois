@@ -34,7 +34,7 @@ Ensuite l’envoyé apporta une lettre que le Badja indien avait écrite à Nous
 
 > Puisses-tu rester roi aussi longtemps que durera le ciel !
 >
-> Ordonne à ceux qui se sont le plus occupés de science de placer devant eux l’échiquier et de se consulter de toute manière pour trouver les règles de ce noble jeu, reconnaitre par leurs. noms u toutes les pièces, fixer leur marche et leurs cases, étudier les pions, les éléphants et le reste de cette armée, les rocs (tours) et les cavaliers et la marche du vizir (la reine) et du roi.
+> Ordonne à ceux qui se sont le plus occupés de science de placer devant eux l’échiquier et de se consulter de toute manière pour trouver les règles de ce noble jeu, reconnaitre par leurs. noms toutes les pièces, fixer leur marche et leurs cases, étudier les pions, les éléphants et le reste de cette armée, les rocs (tours) et les cavaliers et la marche du vizir (la reine) et du roi.
 >
 > S’ils découvrent les règles de ce beau jeu, ils dépasseront tousles savants du monde et nous enverrons volontiers à cette cour le tribut et les redevances que le roi nous demande ; mais si les hommes illustres du peuple de l’Iran sont hors d’état de résoudre ce problème, il faut qu’ils cessent de nous demander un tribut, puisqu’ils ne seraient pas nos égaux en savoir ; c’est, au contraire, toi qui devras nous être tributaire, car ce le savoir vaut mieux que toute chose que vantent les hommes. »
 
