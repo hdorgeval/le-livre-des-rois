@@ -53,7 +53,6 @@ Lui dit :
 Il répondit :
 
 > ’
-.
 >
 > Ô Pehlewan !
 >
