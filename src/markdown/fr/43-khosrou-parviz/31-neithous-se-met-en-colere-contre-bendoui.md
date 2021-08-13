@@ -44,7 +44,7 @@ Khosrou, en voyant cet acte, fut consterné ; ses joues devinrent pâle : comme 
 
 Neïathous quitta le palais, monta à cheval et se rendit, à moitié ivre, dans son camp, où il mit une cotte de mailles roumie de combat pour détruire le réunie à un banquet.
 
-Tous les cavaliers roumis, ardents pour le combat, se dirigèrent vers la cour du roi et Neïathous envoya aussitôt, rapidement comme le vent, un cavalier de race roumie au-près de Khosrou et lui fit dire :
+Tous les cavaliers roumis, ardents pour le combat, se dirigèrent vers la cour du roi et Neïathous envoya aussitôt, rapidement comme le vent, un cavalier de race roumie auprès de Khosrou et lui fit dire :
 
 > Pourquoi Bendouî, cet homme de rien, frappe-t-il sur la joue un adorateur de Dieu ?
 >
