@@ -48,7 +48,6 @@ Toute son escorte chanta sa gloire, disant :
 >
 > Puisque tu abats un lion avec une flèche sans plumes, tu pourrais arracher de sa base un rocher. »
 
-.
 Bahram courut sur cette prairie avec tous ses amis qui lui faisaient escorte ; ils virent un bois plein de moutons et des pâtres qui s’enfuyaient de
 
 A ’ ces crainte d’un malheur.
