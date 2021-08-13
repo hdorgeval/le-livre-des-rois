@@ -152,7 +152,7 @@ Il répondit :
 >
 > Un roi doit avoir de la prudence, car la violence et le courroux ne mènent pas au but.
 >
-> Il faut vous rendre au-près de Rustem et lui adresser beaucoup de bonnes paroles, lui faire oublier ma colère et lui montrer un avenir de bonheur.
+> Il faut vous rendre auprès de Rustem et lui adresser beaucoup de bonnes paroles, lui faire oublier ma colère et lui montrer un avenir de bonheur.
 >
 > Ramène-le auprès de moi pour que mon âme sombre redevienne brillante. »
 
