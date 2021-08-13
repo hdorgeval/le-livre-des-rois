@@ -72,7 +72,7 @@ Ensuite, il dit à Gustehem :
 
 > Veille toujours sur Bijen, car nul n’a vu de notre temps un homme comme lui ; et si par amitié pour toi il n’avait pas enduré tant de latigues, qui aurait pu rendre grâces à Dieu de ton salut P n Le roi resta encore une semaine à Reibed, distribuant de l’argent et de l’or et des trésors de toute espèce.
 >
-> Il envoya de tous côtés des messagers auprès des grands et des nobles pour les appeler tous au-près de lui, car ils devaient l’aider dans la guerre qui allait commencer.
+> Il envoya de tous côtés des messagers auprès des grands et des nobles pour les appeler tous auprès de lui, car ils devaient l’aider dans la guerre qui allait commencer.
 >
 > Il leur lit ordonner de venir a sa cour en armes pour combattre le léopard.
 >
