@@ -52,8 +52,6 @@ Il fit convoquer auprès de lui les grands et les nobles du monde entier, tous c
 
 On donna à ces grands, qui avaient obtenu l’objet de leur désir, le nom de Moulouk-i-Thewaïf (rois des tribus).
 
-.
-
 Cette nuit même Iskender arriva à Babil, où il trouva les grands réjouis de le voir.
 
 Or, dans cette nuit, une femme mit au monde un enfant qui frappa !
@@ -62,7 +60,7 @@ D’étonnement ceux qui le virent.
 
 Il avait’une tête de lion, des sabots de cheval, la poitrine et les épaules d’un homme et une queue de bœuf.
 
-Ce monstre mourut en naissant,’ et mieux vaut que jamais une telle femme n’ait de progéniture.
+Ce monstre mourut en naissant, et mieux vaut que jamais une telle femme n’ait de progéniture.
 
 On porta l’enfant à l’instant devant le roi, qui le regarda attentivement et avec surprise.
 
