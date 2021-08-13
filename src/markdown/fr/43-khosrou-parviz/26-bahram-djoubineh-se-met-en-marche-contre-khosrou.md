@@ -83,7 +83,6 @@ Quand Khosrou vit cet état de choses, quand il vit que le ciel était comme la 
 > l2 ?
 tune faiblira aujourd’hui, de qui la pointe de la lance sera convertie en épines et en brins d’herbe. »
 
-.
 Le cœur et l’âme de Khosrou étaient remplis de soucis, le monde était devant ses yeux comme une forêt sombre ; lorsque Kent, qui, sous son armure de fer, ressemblait à une montagne noire, quitta le centre de l’armée, se détacha de la foule, monta sur la hauteur, s’approcha de Khosrou et lui dit :
 
 > Ô roi qui portes haut la tête !
