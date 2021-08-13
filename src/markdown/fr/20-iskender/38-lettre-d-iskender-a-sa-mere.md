@@ -48,7 +48,6 @@ J’ai conduit ici à bonne fin toutes les affaires et maintenant il ne me reste
 Je cm d’abord que vous prépariez un cercueil d’or et un linceul pour me couvrir la tête bourré d’ambre et en tissu d’or de Chine digne de moi et que personne ne recule devant les soins à donner à mon corps.
 
 Vous luterez toutes les fentes de mon cercueil avec de la suie, du camphre, du musc et ; de l’ambre gris ; vous y verserez d’abord du miel, que vous recouvrirez d’un drap en brocart de
-.
 
 Chine, ensuite vous y placerez mon corps et tout sera dit quand vous aurez couvert mon visage.
 
