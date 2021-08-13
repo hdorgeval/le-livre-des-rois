@@ -127,8 +127,6 @@ Bendouî répondit :
 >
 > Maintenant que la fortune a tourné contre moi, j’ai dit tout le secret de mon cœur et rien ne se fait que selon la volonté de Dieu, le toutsaint, partout, depuis le. soleil brillant jusqu’à la terre sombre. »
 
-.
-
 Le chef de l’armée écouta ces paroles et consentit et tous ceux qui avaient entendu le discours de Ben. dont furent émus de pitié.
 
 L’armée s’établit pourla nuit, en faisant bonne garde pour que Khosrou ne s’échappât pas.
