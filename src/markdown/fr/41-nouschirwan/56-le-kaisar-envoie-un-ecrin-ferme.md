@@ -32,8 +32,7 @@ Le roi du monde dit à l’envoyé :
 >
 > Reste ici chez nous une semaine en jouissant de la .vie en toute liberté et le cœur en joie. »
 
-.
-A Leroi était embarrassé de cette affaire ; il convoqua les grands et les savants et chacun examina de tous côtés ce mystère, cherchant à en trouver la solution ; chaque Mobed regarda et examina cette cassette et ce cadenas sans clef ; mais ils furent loin de comprendre et durent se contenter d’avouer leur ignorance.
+A Le roi était embarrassé de cette affaire ; il convoqua les grands et les savants et chacun examina de tous côtés ce mystère, cherchant à en trouver la solution ; chaque Mobed regarda et examina cette cassette et ce cadenas sans clef ; mais ils furent loin de comprendre et durent se contenter d’avouer leur ignorance.
 
 En face de cette impuissance de l’assemblée, le cœur du roi Nouschirwan fut plein de chagrin ; il se dit :
 
