@@ -27,7 +27,6 @@ Siawusch adressa ses plaintes à Dieu en disant :
 >
 > Fais naître de mon tronc un rejeton qui brille devant le peuple comme le soleil, qui me venge de mes ennemis, qui fasse refleurir mon nom dans tous les pays, qui mette sous ses pieds le monde entier et qui montre ce que peut la bravoure d’un homme. »
 
-.
 Pilsem le suivit, les yeux inondés de sang et le cœur rempli de douleur.
 
 Siawusch lui dit :
