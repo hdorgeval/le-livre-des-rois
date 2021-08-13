@@ -26,7 +26,7 @@ Elle a été un lieu d’adoration depuis qu’elle existe et est remplie de sou
 
 Iskender marcha vers Kadesia, s’emparant de tout musons. ’ jusqu’à Djellrem, dans le Fars.
 
-À cette nouvelle, Nasr, fils de Katib, de qui la Mecque lirait sa gloire et sa splendeurJ vint à sa rencontre avec ses chefs guerriers, ses cavaliers vaillants et armés de lances.-Un cavalier arriva de la Mecque en toute hâte au-près d’Iskender, disant :
+À cette nouvelle, Nasr, fils de Katib, de qui la Mecque lirait sa gloire et sa splendeurJ vint à sa rencontre avec ses chefs guerriers, ses cavaliers vaillants et armés de lances.-Un cavalier arriva de la Mecque en toute hâte auprès d’Iskender, disant :
 
 > Cet homme illustre qui esten route et qui réclame le trône, le trésor et le commandement, est un descendant d’Ismaïl, le l’a--
 vori des astres, le fils d’lbrahim le patriarche. »
