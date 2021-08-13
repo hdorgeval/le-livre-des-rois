@@ -102,7 +102,6 @@ loue les hommes qui ne le méritent pas, cherche ta ruine par ses paroles ; ne l
 >
 > Quand un roi montre de l’envie, les hommes vertueux le blâment. »
 
-.
 Lorsque le fortuné scribe eut écrit ces paroles dernières du roi, il les apporta et le vizir les plaça devant Ormuzd.
 
 Le maître du monde exhala un soppir et sa joue de rubis devint comme une feuille jaune.
