@@ -48,7 +48,7 @@ Ne te laisse pas aller à l’iniquité, ô mon frère, car l’injustice ne peu
 >
 > Tu feras un désert de ce royaume, si tu te prépares à attaquer ces hommes de cœur.
 >
-> Tous les méchants sent au-près de toi, ils sont tes soutiens au jour de Bahram ; tu es un pécheur aux yeux de Dieu, car tu es mal famé, de mauvaise race, de mauvaise nature ; tu seras maudit pour le sang qui va être versé dans ce combat et moi je serai béni.
+> Tous les méchants sent auprès de toi, ils sont tes soutiens au jour de Bahram ; tu es un pécheur aux yeux de Dieu, car tu es mal famé, de mauvaise race, de mauvaise nature ; tu seras maudit pour le sang qui va être versé dans ce combat et moi je serai béni.
 >
 > Ensuite tu proposes que nous partagions laceuronne, ce pays glorieux et le trône d’ivoire ; mais le pouvoir, le trône et la royauté sont à moi ; tout, depuis le soleil jusqu’au dos du poisson sur lequel repose le monde, est à moi et j’aimerais mieux que mon âme quittât mon corps que de jeter un regard sur cette couronne et ce trône tant que tu prétendras être roi, me donner un pays et être mon ami.
 >
@@ -84,15 +84,13 @@ Le sage lui dit :
 >
 > Tu es le roi, les astres te sont favorables, tu es plus savant dans les voies du ciel. »
 
-.
-
 Le roi écouta ce discours de son précepteur et il se décida à faire un nouvel essai.
 
 Le visage inondé de larmes, à cause de la peine que lui faisait son frère, il choisit un homme à l’étoile fortunée, à la parole douce ; il lui dit :
 
 > Va auprès de Thalhend et dis-lui :
 
-> Gau est plein de chagrin et de peine, son cœur est aflligé, son esprit attristé, son corps en angoisse, son âme en douleur de cette rotation du ciel et de cette lutte et il prie le Créateur, maître u de la justice, qu’il fasse naître dans ton âme la raison et la tendresse, pour que tu renonces à comnhattre ton frère.
+> Gau est plein de chagrin et de peine, son cœur est aflligé, son esprit attristé, son corps en angoisse, son âme en douleur de cette rotation du ciel et de cette lutte et il prie le Créateur, maître de la justice, qu’il fasse naître dans ton âme la raison et la tendresse, pour que tu renonces à comnhattre ton frère.
 >
 > Le précepteur qui est auprès de toi a perverti ton âme ténébreuse.
 >
