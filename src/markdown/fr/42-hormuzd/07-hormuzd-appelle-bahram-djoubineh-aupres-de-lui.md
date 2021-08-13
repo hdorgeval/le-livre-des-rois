@@ -38,7 +38,7 @@ Lorsque le vieux Mihran Sitad fut arrivé, le cœur plein de sagesse, la tête p
 
 Le vieillard lui répondit :
 
-> Ô roi qui sais parler ette souvenir ! à l’évrpoque où le Khakan envoya ta mère dans le pays d’Iran, je fus chargé d’aller en Chine à la tête de u cent soixante jeunes et vaillants seigneurs pour demander sa main.
+> Ô roi qui sais parler ette souvenir ! à l’évrpoque où le Khakan envoya ta mère dans le pays d’Iran, je fus chargé d’aller en Chine à la tête de cent soixante jeunes et vaillants seigneurs pour demander sa main.
 
 Ton père, ce roi des rois plein de sagesse et de droiture, ne voulait pas recevoir du Khakan la fille d’une esclave et m’avait ordonné de ne demander que la main d’une fille de princesse, v1.
 
@@ -60,7 +60,7 @@ Le Khakan me dit :
 
 > Choisisen une autre, elles sont toutes les cinq belles et glorieuses ; mais je répondis : Il me faut celle-ci ; si j’en choisissais une autre, il m’en arriverait Il fit alors appeler ses Mobeds, les fit s’accummalheur.
 
-HOBMUZD,’ M3
+HOBMUZD, M3
 ce pir devant le trône royal et leur adressa des questions sur la fortune future de sa fille et sur la rotation de son étoile.
 
 Un astrologue dit :
