@@ -28,7 +28,7 @@ Les Iraniens répondirent :
 >
 > Si cela s’accomplit pendant ton règne, on écrira ton nom sur toutes les couronnes. »
 
-Les Iraniens ayant tout approuvé, Khosrou renvoya tous les étrangers, demanda un encrier, un roseau et du satin chinois et fit venir un scribe au-près de lui.
+Les Iraniens ayant tout approuvé, Khosrou renvoya tous les étrangers, demanda un encrier, un roseau et du satin chinois et fit venir un scribe auprès de lui.
 
 Puis, il écrivit en pehlewi une lettre en caractères royaux et à la manière des rois, disant :
 
