@@ -71,7 +71,7 @@ Ils s’enquéraient des hommes savants du pays, ou de ceux qui par pauvreté re
 
 > Personne ne doit jouir des fruits de mes travaux ni de mes trésors, si ce n’est les hommes savants et qui savent observer ; car qu’y a-t-il de mieux qu’un vieillard savant ?
 
-Je ; recherche les hommes qui ont de l’expérience et les jeunes gens d’élite et travailleurs et je trouve bon de donner à la jeunesse quia de la sagesse et est avide d’apprendre, la place qu’on assigne aux vieillards u Quand son armée allait combattre quelque part, il agissait avec prudence et sans précipitation.
+Je ; recherche les hommes qui ont de l’expérience et les jeunes gens d’élite et travailleurs et je trouve bon de donner à la jeunesse quia de la sagesse et est avide d’apprendre, la place qu’on assigne aux vieillards Quand son armée allait combattre quelque part, il agissait avec prudence et sans précipitation.
 
 Il prenait pour envoyé un écrivain intelligent, savant et bon observateur et le chargeait d’un message cour-tois et selon les règles, pour qu’il n’y eût pas de guerre injuste.
 
