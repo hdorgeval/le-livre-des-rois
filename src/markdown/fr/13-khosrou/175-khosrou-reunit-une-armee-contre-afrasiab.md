@@ -60,7 +60,7 @@ Il assigna d’un côté une place à Thous, puis à Menouschan et Khouzan aux s
 
 Il plaça à sa gauche tous les descendants de Keîkobad, princes distingués par le savoir et la naissance et les mit sous le commandement de Dilafrouz.
 
-Les grands de la famille de Zerir, qui frappaient avec leur épée pendant la nuit, malgré le sombre brouillard ; Bi-jen fils de Guiv, avec Rehham le brave, que le roi comptait parmi ses grands ; Gourguin fils de Milad et les héros de Keï, qui étaient tous arrivés selon l’ordre du Keïanide ; afin le fils de Zerasp, l’adorateur du glorieux Aderguschasp, se placèrent tous derrière Khosrou pour former sa garde,’ et leurs lances perçaient le brouillard.
+Les grands de la famille de Zerir, qui frappaient avec leur épée pendant la nuit, malgré le sombre brouillard ; Bi-jen fils de Guiv, avec Rehham le brave, que le roi comptait parmi ses grands ; Gourguin fils de Milad et les héros de Keï, qui étaient tous arrivés selon l’ordre du Keïanide ; afin le fils de Zerasp, l’adorateur du glorieux Aderguschasp, se placèrent tous derrière Khosrou pour former sa garde, et leurs lances perçaient le brouillard.
 
 Ensuite, il confia à Rustem l’aile droite, corps de troupes qui était comme un seul cœur et un seul homme ; il plaça à droite tous ceux qui venaient du Zaboulistan, même les princes et les parents du Dese tan, pendant qu’il réclamait pour lui-même tout l’honneur et toute la direction du combat.
 
