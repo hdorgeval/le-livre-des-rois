@@ -8,7 +8,23 @@ source: tome II - livre des rois - P. 10
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: "Le roi du Hamaveran s'empare de Kaous | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Berbers',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Hamaveran',
+    'Iraniens',
+    'Kaous',
+    'Saheh',
+    'Schaweran',
+    'Sipehdars',
+    'Soudabeh',
+    'Thous',
+    'tribut',
+    'Zengueh',
+  ]
 order: '018'
 ---
 
