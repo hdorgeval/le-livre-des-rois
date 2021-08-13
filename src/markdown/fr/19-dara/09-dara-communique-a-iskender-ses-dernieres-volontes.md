@@ -58,7 +58,7 @@ Il dit :
 
 , a 7l Dural’écoute et dit d’une voix faible :
 
-> Puisse la u raison être toujours ta compagne !
+> Puisse la raison être toujours ta compagne !
 
 Je crois que Dieu le juste, le saint, te récompensera de ces paroles.
 
@@ -105,7 +105,6 @@ Iskender répondit :
 
 > C’est à toi de donner des ordres ; dis ce que tu veux, car tu as ma parole. »
 
-.
 Alors Dara se mit à parler rapidement et à énoncer ses dernières volontés, point par point, disant d’abord :
 
 > Ô prince illustre !
