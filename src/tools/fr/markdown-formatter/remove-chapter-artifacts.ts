@@ -845,7 +845,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/YEZDEGUER’D\./g, ''),
     (content: string) => content.replace(/ IlHOBMUZD\./g, ''),
     (content: string) => content.replace(/5YEZDEGIRD\./g, ''),
-    (content: string) => content.replace(/a r. w une\./g, ''),
+    (content: string) => content.replace(/a r\. w une\./g, ''),
     (content: string) => content.replace(/A SCHAPOUR\./g, ''),
     (content: string) => content.replace(/DJEMSCIIID\./g, ''),
     (content: string) => content.replace(/FEIIIDOUN’\./g, ''),
@@ -1048,6 +1048,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/KEl KHUSltOU\./g, ''),
     (content: string) => content.replace(/Klâl KHOSIIOUÇ /g, ''),
     (content: string) => content.replace(/ne LE LivaE’DEs /g, ''),
+    (content: string) => content.replace(/K si K A o s\./g, ''),
   ].forEach((format) => {
     result = format(result);
   });

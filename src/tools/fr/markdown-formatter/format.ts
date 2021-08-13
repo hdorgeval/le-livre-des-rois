@@ -72,6 +72,7 @@ export function formatContent(content: string): string {
 }
 
 export function formatMarkdown(filepath: string): void {
+  ensureSpecialCharactersAreEscapedIn(path.join(__dirname, 'remove-chapter-artifacts.ts'));
   ensureSpecialCharactersAreEscapedIn(path.join(__dirname, 'correct-wrong-typo-from-ocr.ts'));
   ensureSpecialCharactersAreEscapedIn(
     path.join(__dirname, 'correct-wrong-typo-still-remaining.ts'),

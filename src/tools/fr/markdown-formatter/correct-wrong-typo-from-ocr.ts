@@ -1351,6 +1351,12 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/’\. qui/g, ' qui'),
     (content: string) => content.replace(/’coupe\. de/g, 'coupe de'),
     (content: string) => content.replace(/ u /g, ' '),
+    (content: string) => content.replace(/Al’rasiab/g, 'Afrasiab'),
+    (content: string) => content.replace(/ queje /g, ' que je '),
+    (content: string) => content.replace(/ inetentions /g, ' intentions '),
+    (content: string) => content.replace(/ en coulère /g, ' en colère '),
+    (content: string) => content.replace(/malheurà/g, 'malheur à'),
+    (content: string) => content.replace(/suisprêt/g, 'suis prêt'),
   ].forEach((format) => {
     result = format(result);
   });
