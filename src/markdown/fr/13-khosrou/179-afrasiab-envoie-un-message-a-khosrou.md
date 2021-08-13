@@ -34,7 +34,7 @@ Porte à Keï Khosrou mon message et dis-lui :
 >
 > Siawusch n’a pas été tué sans l’avoir mérité, car il s’est détourné de ses maîtres.
 >
-> Et si j’ai failli, qu’ont donc fait Piran, Roui’n, Lehhak et Ferschidwerd, pour qu’il ait fallu les lier sur leurs chevaux,’ inondés de sang et semblables à des éléphants ivres ?
+> Et si j’ai failli, qu’ont donc fait Piran, Roui’n, Lehhak et Ferschidwerd, pour qu’il ait fallu les lier sur leurs chevaux, inondés de sang et semblables à des éléphants ivres ?
 >
 > Si tu dis que je suis un méchant homme, aux pensées perverses et né de la race d’Ahriman, fais attention que tu es issu de ma famille et que ton insulte retombe sur toi-même.
 >
