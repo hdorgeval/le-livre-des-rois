@@ -22,7 +22,7 @@ La tête et possédait un trésor, une armée et tout l’apv pareil de la guerr
 
 Il était célébré en tout lieu, son nom était Djemhour et son renom était plus grand que celui de Four (Parus).
 
-Il était roi des Indiens, un homme intelligent, sagace et d’un esprit serein ; il possédait le Kaschmir et toutle pays jusqu’aux frontières de la Chine et les grands lui rendaient hommage ; il dominait la terre par sa vaillance ; sa résidence était Sendeli et c’est la qu’il avait sa couronne, son trésor et son armée, c’est là qu’il tenait son sceau et son diadème.
+Il était roi des Indiens, un homme intelligent, sagace et d’un esprit serein ; il possédait le Kaschmir et toutle pays jusqu’aux frontières de la Chine et les grands lui rendaient hommage ; il dominait la terre par sa vaillance ; sa résidence était Sendeli et c’est là qu’il avait sa couronne, son trésor et son armée, c’est là qu’il tenait son sceau et son diadème.
 
 Djemhour était un homme de mérite qui cherchait à s’instruire ; il était puissant, savant et glorieux ; ses sujets, tant les gens de la ville que les serviteurs de la cour, étaient heureux sous lui.
 
