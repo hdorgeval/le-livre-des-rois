@@ -40,11 +40,11 @@ Piran répondit à ces paroles de Houman :
 
 > Ne va pas si vite et ne t’emporte pas.
 >
-> Sache, ô mon frère, que le guerrier qui s’est avancé contre nous avec 3l.
-> une armée .est l’élu des grands de la cour de Kei’
+> Sache, ô mon frère, que le guerrier qui s’est avancé contre nous avec
+> une armée est l’élu des grands de la cour de Kei’
 > Khosrou, le chef de ses héros et un Pehlewan.
 >
-> D’abord Kei Khosrou porte, devant tous les peuples, la tête plus haut que mon roi ; ensuite je ne connais aucun Pehlewan du roi qui soit ’égal de Gouderz en rang, qui soit aussi fier, aussi brave, aussi prudeut dans les projets, aussi sage dans les conseils.
+> D’abord Keï Khosrou porte, devant tous les peuples, la tête plus haut que mon roi ; ensuite je ne connais aucun Pehlewan du roi qui soit ’égal de Gouderz en rang, qui soit aussi fier, aussi brave, aussi prudent dans les projets, aussi sage dans les conseils.
 >
 > En outre son cœur est navré de douleur, son âme est remplie du désir de venger la mort de ses fils nombreux, que j’ai laissés privés de leurs têtes, sur un sol que j’ai teint de leur sang tout autour.
 >
