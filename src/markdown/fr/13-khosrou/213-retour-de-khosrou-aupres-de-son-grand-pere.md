@@ -85,7 +85,7 @@ Khosrou dit au roi Kaous :
 
 > À qui pouvons-nous demander la direction si ce n’est au Créateur ?
 >
-> Moi et mon armée avons parcouru, le cœur blessé, les déserts, les montagnes et une mer qui exige une année de traversée ; mais nous n’avons trouvé aucune trace d’Afrasiab, ni dans les plaines, ni dans les montagnes,’ ni sur l’eau.
+> Moi et mon armée avons parcouru, le cœur blessé, les déserts, les montagnes et une mer qui exige une année de traversée ; mais nous n’avons trouvé aucune trace d’Afrasiab, ni dans les plaines, ni dans les montagnes, ni sur l’eau.
 >
 > S’il parvient pour un moment à rentrer à Gangue, une armée se rassemblera autour de lui à l’instant de tous les côtés et nous aurons devant nous les mêmes travaux et les mêmes fatigues, quand même Dieu nous donnerait la victoire. »
 
