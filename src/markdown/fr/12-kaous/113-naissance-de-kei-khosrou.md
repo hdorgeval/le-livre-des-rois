@@ -36,7 +36,7 @@ Gulschehr se rendit incontinent auprès de cette lune, qui venait de mettre au m
 
 Elle le regarda et s’en retourna toute joyeuse, remplissant le palais de ses cris de surprise.
 
-Elle revint au-près de Piran tout émue de plaisir et lui dit :
+Elle revint auprès de Piran tout émue de plaisir et lui dit :
 
 > Il a paru un nouveau soleil digne d’être le compagnon de la lune.
 >
