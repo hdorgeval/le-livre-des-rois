@@ -20,7 +20,7 @@ Le roi, maître du monde, ne se contenta pas de son trône illustre, de sa grand
 
 Ce prince qui avait été si juste devint injuste et approuva l’injustice de la part de ses serviteurs.
 
-F errukhzad,’ fils d’Azermigan, arriva, farouche de mine et toujours mécontent de ses inférieurs.
+F errukhzad, fils d’Azermigan, arriva, farouche de mine et toujours mécontent de ses inférieurs.
 
 Il s’imposait lui-même des fatigues inouies, il n’avait envie que de former de nouveaux trésors.
 
