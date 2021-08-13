@@ -25,7 +25,9 @@ import {
   splitSentencesOnStartOfQuotationMark,
 } from '.';
 import { correctWrongTypoFromOcr } from './correct-wrong-typo-from-ocr';
+import { ensureSpecialCharactersAreEscapedIn } from './check-regular-expressions';
 import { readFileSync, writeFileSync } from 'fs';
+import path from 'path';
 
 function trimLines(content: string): string {
   return content
@@ -70,6 +72,11 @@ export function formatContent(content: string): string {
 }
 
 export function formatMarkdown(filepath: string): void {
+  ensureSpecialCharactersAreEscapedIn(path.join(__dirname, 'correct-wrong-typo-from-ocr.ts'));
+  ensureSpecialCharactersAreEscapedIn(
+    path.join(__dirname, 'correct-wrong-typo-still-remaining.ts'),
+  );
+
   const content = readFileSync(filepath).toString();
   const parts = content.split('#');
   const markdown = parts[1];
