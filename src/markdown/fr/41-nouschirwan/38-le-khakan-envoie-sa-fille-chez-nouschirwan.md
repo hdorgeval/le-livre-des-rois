@@ -73,7 +73,7 @@ Arriva à Bestham et à Gourgan, on aurait dit que la terre ne voyait plus le ci
 
 Les enfants, les hommes et les femmes du palais étaient rassemblés sur la route de cette idole de la Chine ; on jetait du haut des balcons des pièces d’argent, on tamisait sur elle du musc et de l’ambre ; on mettait sur des plateaux des aromates mêlés, le monde était rempli du son des timbales et des clairons, les crinières des chevaux étaient trempées de musc et de vin et l’on répandait sous leurs pieds du sucre et de l’argent ; le bruit des flûtes, des harpes et des rebecs était tel qu’il n’y avait pas un lieu où se reposer et dormir.
 
-Lorsque l’idole fut entrée dans l’appartement des femmes du roi,’ Kesra regarda dans la litière et vit un cyprès surmonté du disque de la lune portant un diadème d’ambre et au-dessous de celui-ci un autre diadème de boucles noires tombant en anneaux entrelacés comme des chaînes, liées sur le haut de la tête et entremêlées et tressées avec art ; ces boudas formaient comme un anneau en civette placé sur une rose et recouvrant un visage brillant comme Jupiter.
+Lorsque l’idole fut entrée dans l’appartement des femmes du roi, Kesra regarda dans la litière et vit un cyprès surmonté du disque de la lune portant un diadème d’ambre et au-dessous de celui-ci un autre diadème de boucles noires tombant en anneaux entrelacés comme des chaînes, liées sur le haut de la tête et entremêlées et tressées avec art ; ces boudas formaient comme un anneau en civette placé sur une rose et recouvrant un visage brillant comme Jupiter.
 
 Le roi Nouschirwan en resta dans l’étonnement et prononça sur elle à plusieurs reprises le nom de Dieu.
 
