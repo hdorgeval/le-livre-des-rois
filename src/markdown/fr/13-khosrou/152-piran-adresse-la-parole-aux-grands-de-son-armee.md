@@ -32,7 +32,7 @@ Quand Piran vit que toute son armée ressemblaità un troupeau ravagé par un lo
 >
 > Les Mobeds nous assurent que Dieu est éternellement victorieux ; mais le monde est tantôt heureux, tantôt malheureux : de sorte qu’il nous est permis d’être inquiets.
 >
-> Mais pensez que c’est la même armée qui a déjà plié devant nous dansla bataille et qui depuis a repris courage pour nous attaquer.
+> Mais pensez que c’est la même armée qui a déjà plié devant nous dans la bataille et qui depuis a repris courage pour nous attaquer.
 >
 > Maintenant il faut que quiconque tient à son pays et à ses enfants, à sa maison et à son serment de fidélité, prenne les armes et s’avance au combat contre les Iraniens.
 >
