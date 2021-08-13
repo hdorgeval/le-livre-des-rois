@@ -36,7 +36,7 @@ Le roi dit à ses confidents :
 >
 > Maintenant qu’on apporte des fleurs, des grenades, des pommes et des coings et que les coupes d’or a ne restent pas vides de vin.
 >
-> Quand je verrai la joue de la pomme se colorer comme le grenat,quand le ciel sera taché de nuages comme la peau du léopard, quand la camomille sera chargée de graines et ré. pandra son parfum, quand le vin sera rouge comme la joue de l’échanson,’ quand l’air sera tempéré. ni chaud ni froid, la terre fraîche et les eaux bleues, quand nous aurons mis en automne nos robes de fourrure, il faudra aller chasser du côté de Djez.
+> Quand je verrai la joue de la pomme se colorer comme le grenat,quand le ciel sera taché de nuages comme la peau du léopard, quand la camomille sera chargée de graines et ré. pandra son parfum, quand le vin sera rouge comme la joue de l’échanson, quand l’air sera tempéré. ni chaud ni froid, la terre fraîche et les eaux bleues, quand nous aurons mis en automne nos robes de fourrure, il faudra aller chasser du côté de Djez.
 >
 > Nous aurons une chasse dans ces plaines qui laissera un sOuvenir dans le monde.
 >
