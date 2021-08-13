@@ -85,7 +85,6 @@ Bijen lui dit :
 Bijen s’élança sur les traces de Gustehem, en qui étaient concentrés tous ses soucis et toutes ses joies ; il courut après lui sur la route, pour aller combattre les cavaliers de l’armée du Touran.
 
 Pendant ce temps Lehhak et Ferschidwerd avaient traversé en toute hâte le champ de bataille et passé la rivière ; dans l’espace d’une heure ils parcoururent sept farsangs et ils se crurent à l’abri des Iraniens.
-.
 
 Ils virent une forêt traversée par des ruisseaux, où
 les caravanes trouvaient de l’ombre ; il y avait des oiseaux, du gibier et des lions, des arbres tau-dessus de leur tête et sous leurs pieds de la verdure et des eaux courantes.
