@@ -23,7 +23,6 @@ Il marcha en toute diligence pendant un mois et arriva avec ses troupes à la fr
 Il y avait là un roi nommé Feryan, ayant une armée, un trésor et une grande puissance.
 
 Il possédait une immense ville fortifiée, dont les murs étaient si hauts que les grues n’en apercevaient pas la crête.
-.
 
 Il réunit une armée, occupa la forteresse, sur le haut des murailles de laquelle pouvaient passer des cavaliers.
 
@@ -43,7 +42,7 @@ Il fit venir devant lui son vizir, un homme intelligent, du.nom de Bithekoun, ho
 
 > On va amener devant toi de jeunes époux et je t’appellerai Iskender fils de Pheïlekous.
 >
-> Tu te placeras sur le trône à la manière des rois et quand je serai devant toi, couvert de mon armure, tu ordonneras au vaillant exécuteur des hautes œuvres de trancher la tête à Kei derousch.
+> Tu te placeras sur le trône à la manière des rois et quand je serai devant toi, couvert de mon armure, tu ordonneras au vaillant exécuteur des hautes œuvres de trancher la tête à Keï derousch.
 >
 > Je m’avancerai vers toi pour demander sa grâce, je le ferai avec toute humilité envers toi ; tu renverras la foule de la salle d’audience, je re-. doublerai mes prières et tu m’accorderas sa grâce. »
 
