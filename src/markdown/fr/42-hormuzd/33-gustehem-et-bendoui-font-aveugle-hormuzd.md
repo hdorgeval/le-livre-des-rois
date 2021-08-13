@@ -37,7 +37,7 @@ Beudonï et Gustehem parurent couverts de cottes de mailles, entourés de leurs 
 
 Le vaillant Gustehem dit à ses troupes :
 
-> Ne prenez pas cela légèrement ; si vous voulez agir avec nous, il u faut vous dépouiller de tout attachement au roi et si vous voulez tous prendre les armes pour venger les grands de l’lrau, car Hormuzd s’est tourné contre . ceux qui n’ont pas commis de faute et contre ce vertueux prime qui est digne du trône et de la couronne ; qu’alors tous ceux qui ont de la dignité et marchent dans la vraie voie lui refusent le titre de roi.
+> Ne prenez pas cela légèrement ; si vous voulez agir avec nous, il faut vous dépouiller de tout attachement au roi et si vous voulez tous prendre les armes pour venger les grands de l’lrau, car Hormuzd s’est tourné contre . ceux qui n’ont pas commis de faute et contre ce vertueux prime qui est digne du trône et de la couronne ; qu’alors tous ceux qui ont de la dignité et marchent dans la vraie voie lui refusent le titre de roi.
 >
 > Mettez-vous à l’œuvre pour le punir selon qu’il le mérite, rendez-lui amère l’eau de l’Iran.
 >
