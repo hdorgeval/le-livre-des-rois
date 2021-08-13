@@ -56,7 +56,6 @@ Il répondit :
 
 > Celui qui reconnaît sa faute doit changer d’habitudes et de marnières. »
 
-.
 Un autre demanda :
 
 > Que faire pour qu’on ait le moins de peine dans la vie ? »
