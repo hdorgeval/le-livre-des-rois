@@ -18,7 +18,7 @@ order: '152'
 
 Lorsqu’on apprit dans l’Iran la victoire que le roi avait remportée par la grâce de Dieu, le monde fut étonné de la fortune et de la puissance où Keï Khosrou avait atteint.
 
-Tous les grands se rendirent au-près de lui, joyeux et chargés de présents.
+Tous les grands se rendirent auprès de lui, joyeux et chargés de présents.
 
 Feribourz alla à sa rencontre avec un cortège, avec une armée d’Iraniens qui ressemblait à une montagne et aussitôt qu’il le vit, il descendit de son cheval couleur de rose.
 
