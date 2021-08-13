@@ -48,7 +48,6 @@ Le roi lui répondit :
 
 > L’homme qui détient la thériaque est un meurtrier, il faut le tuer devant ma porte pour venger le sang de l’homme mordu, aussitôt que la famille du mort pourra le saisir. »
 
-.
 Mazdek, ayant entendu ces paroles, se leva, se rendit auprès de ceux qui demandaient secours et leur dit :
 
 > J’ai parlé au roi et lui ai adressé des questions sur chaque point.
