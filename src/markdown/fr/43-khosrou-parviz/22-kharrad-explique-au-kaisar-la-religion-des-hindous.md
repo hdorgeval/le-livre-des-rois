@@ -28,7 +28,7 @@ Le Kaîsar lui dit :
 
 Lorsque Kharrad, fils de Berzin, eut entendu ces paroles, il se rendit dans ce vieux bâtiment et y vit un cavalier qui se tenait suspendu en l’air.
 
-Il revint au-près du Kaisarillustre et dit :
+Il revint auprès du Kaisarillustre et dit :
 
 > Ô roi à la fortune victorieuse, c’est la une substance digne de ton trône.
 >
