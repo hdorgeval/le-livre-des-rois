@@ -132,7 +132,7 @@ Le roi ajouta :
 >
 > C’est Dieu qui t’a poussé hors de cette armée et ton linceul le servira ici de tombeau ; ce prince innocent, qu’on a égorgé comme un agneau, te pur--tera malheur et ton père versera sur toi des larmes amères comme Kaous en verse sur son fils. »
 
-Karen quitta le roi en toute hâte et se rendit au-près de Pcscheng au drapeau noir, à qui il répéta toutes les paroles qu’on lui avait dites, ne cachant ni le bon ni le mauvais.
+Karen quitta le roi en toute hâte et se rendit auprès de Pcscheng au drapeau noir, à qui il répéta toutes les paroles qu’on lui avait dites, ne cachant ni le bon ni le mauvais.
 
 Schideh s’en retourna auprès d’Afrasiab ; son cœur cuisait comme la chair placée sur le l’en.
 
