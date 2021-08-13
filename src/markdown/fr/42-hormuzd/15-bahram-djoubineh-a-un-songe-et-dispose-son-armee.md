@@ -42,7 +42,7 @@ Dans ce moment Kharrad Beniu arriva, s’étant enfui de chez Saweh ; il dit à 
 
 Bahram lui dit :
 
-> Dans ton pays, tu n’as pu apprendre plus de bravoure que cela : ,’ ils vendent tous du poisson, depuis l’été jusqu’à la saison des frimas.
+> Dans ton pays, tu n’as pu apprendre plus de bravoure que cela : , ils vendent tous du poisson, depuis l’été jusqu’à la saison des frimas.
 >
 > Ton métier est de dresser (la pièges, ta demeure est auprès des bassins d’eau, tu n’es pas un hommeà lances, à massues et à flèches.
 >
