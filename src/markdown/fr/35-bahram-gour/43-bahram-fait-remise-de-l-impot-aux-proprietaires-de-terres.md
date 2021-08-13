@@ -95,7 +95,6 @@ le soleil qui éclaire le monde est au plus haut.
 >
 > S’il y a dans le monde un district stérile, ou s’il y a un lieu sans eau et qu’on ne peut pas cultiver, qu’il se trouve sur les terres des pauvres ou des grands, n’exige rien de toutes ces terres ; et si l’un de mes serviteurs, fût-il mon père nourricier, demande de ces terres même une seule obole, je le ferai enterrer vivant la où il se trouve et maudite soit sa demeure, maudite sa maison ! »
 
-.
 On posa le sceau du roi sur la lettre et Bahram
 
 La lit porter de tous les côtés par des message" montés sur des dromadaires.
