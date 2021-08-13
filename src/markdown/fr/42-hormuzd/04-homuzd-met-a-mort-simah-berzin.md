@@ -123,7 +123,6 @@ La lettre disait :
 > [
 race, semblable à un Ahriman ; l’armée du roi dispersera de tous les côtés et son ennemi le précipitera du trône ; ce méchant homme lui brûlera les deux yeux et ensuite on le privera de la vie. »
 
-.
 Hormuzd regarda cette lettre écrite de la main de son père ; il en [ut épouvanté et déchira la pièce de, soie ; ses yeux se remplirent de larmes de sang, son visage pâlit et il dit à Bahram :
 
 > Ô scélérat !
