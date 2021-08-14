@@ -18,7 +18,7 @@ order: '027'
 
 Le lendemain, lorsque la crête de la montagne devint couleur d’argent et que la brillante lampe jaune parut, Bahram fit étendre un tapis de brocart chinois tel qu’on aurait ditque la terre était devenue un ciel ; il fit placer des siègea d’or dans tout son palais et les couvrit de coussins de tissu d’or.
 
-On plaça un petit trône d’or, sur lequel le Pehlewan de l’armée s’assit ; il fit préparer une séance comme en tient le roi des rois et posa sur sa tête le diadème I royal.
+On plaça un petit trône d’or, sur lequel le Pehlewan de l’armée s’assit ; il fit préparer une séance comme en tient le roi des rois et posa sur sa tête le diadème royal.
 
 Le Grand Scribe observait ce qu’il faisait ; il vit que Bahram devenait hardi et arrogant ; il alla chez Kharrad Berzin et lui raconta ce qu’il savait, ce qu’il avait vu et entendu.
 
