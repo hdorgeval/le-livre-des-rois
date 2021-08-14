@@ -96,7 +96,7 @@ Il chercha à se prémunir contre le mal que ses ennemis pourraient lui faire et
 
 Il lui confia la moitié de son armée, composée d’hommes expérimentés, renommés et vaillants ; il lui ordonna de se rendre à Bokhara, de former derrière son père un rempart comme un rocher, d’envoyer incessamment aux camps des armes et des troupes et de faire transporter des vivres à dos de chameau.
 
-Afrasiab fit sortir son armée de Beïkend et l’amena en toute hâte au Djihoun ; il couvrit les bords du 2l fleuve de ses troupes, réunit mille barques et canots et les fit passer et repasser pendant une semaine.
+Afrasiab fit sortir son armée de Beïkend et l’amena en toute hâte au Djihoun ; il couvrit les bords du fleuve de ses troupes, réunit mille barques et canots et les fit passer et repasser pendant une semaine.
 
 Les plaines et les montagnes n’étaient qu’une masse d’hommes armés et la multitude des éléphants et des lions de Zem remplissait de leur bruit les gués du Djihoùn ; l’eau disparaissait sous les barques, l’armée couvrait le désert d’Amouï.
 
@@ -150,7 +150,7 @@ Afrasiab lui donna trente mille Chinois, cavaliers dignes de livrer combat et lu
 >
 > Ensuite le roi choisit. parmi les guerriers illustres quarante mille hommes armés d’épées ; le Sipehdar de cette 3.
 >
-> 2l : . troupe était Guersiwez au corps d’éléphant, à l’âme ambitieuse.
+> : . troupe était Guersiwez au corps d’éléphant, à l’âme ambitieuse.
 >
 > Le roi qui portait haut la tête, le chef des grands, le soutien de l’armée, lui donna le commandement des éléphants.
 >
