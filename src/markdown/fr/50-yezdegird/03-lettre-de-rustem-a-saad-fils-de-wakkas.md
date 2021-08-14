@@ -56,6 +56,6 @@ Lis attentivement cette lettre pleine de conseils et n’empêche pas ta raison 
 
 Après avoir posé le sceau sur sa lettre, il la remit au noble Pirouz, fils de .Schapour.
 
-Cc Pehlewan se . .
+Cc Pehlewan se .
 rendit aussitôt chez Saad, fils de Wakkas, accompagné de nobles Perses, a lame sereine, armes de
-î 3\* ’ I cuirasses d’or et d’argent, de boucliers et de ceintures d’or.
+î 3\* ’ cuirasses d’or et d’argent, de boucliers et de ceintures d’or.
