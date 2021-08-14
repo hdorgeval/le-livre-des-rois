@@ -122,7 +122,7 @@ Un homme glorieux et éloquent a dit :
 >
 > N’afflige pas mes mânes par la perversité, ni mon corps inanimé par le feu.
 >
-> N’emploie pas ton pouvoir à faire du mal à quelqu’un , ne recherche, ô mon fils, le dommage et le malheur de qui que ce soit.
+> N’emploie pas ton pouvoir à faire du mal à quelqu’un, ne recherche, ô mon fils, le dommage et le malheur de qui que ce soit.
 >
 > Il se passera cinq cents ans et alors votre puissance arrivera à sa fin ; les descendants et tous .
 >
