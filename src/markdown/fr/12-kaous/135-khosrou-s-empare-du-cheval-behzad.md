@@ -42,7 +42,7 @@ Guiv en fut affligé, il resta confondu et adressa dans son étonnement des pri�
 
 Mais le vaillant et prudent roi ayant parcouru la moitié de la montagne, retint Behzad par sa bride noire, attendit que Guiv l’eût rejoint et lui dit :
 
-> Veux-tu queje devine. par la force de mon intelligence, les pensées secrètes, ô Pehlewan’h Guiv repartit : Ô noble roi !
+> Veux-tu que je devine. par la force de mon intelligence, les pensées secrètes, ô Pehlewan’h Guiv repartit : Ô noble roi !
 >
 > Tous les secrets devraient t’être connus et la grâce de Dieu et le pouvoir des Retanides te mettent en état d’entrer dans un cheveu pour voir ce qu’il contient. »
 
