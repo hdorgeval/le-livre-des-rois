@@ -26,7 +26,7 @@ Elle étendit ses pavillons et ses tentes sur un espace de deux milles, elle cou
 
 L’air s’obscurcit, la terre devint noire comme l’ébène et la plaine trembla sous le bruit des timbales.
 
-L’armée avançait de station en station ; le monde devint obscur comme la nuit, la terre devint noire et les lances et les javelots brillèrent au milieu de la poussière comme le feu brille I derrière un rideau sombre.
+L’armée avançait de station en station ; le monde devint obscur comme la nuit, la terre devint noire et les lances et les javelots brillèrent au milieu de la poussière comme le feu brille derrière un rideau sombre.
 
 Cette masse de lances et de drapeaux aux couleurs variées, de boucliers d’or et de bottines d’or, était telle que tu aurais dit qu’un nuage noir répandait une pluie de sandaraque.
 
