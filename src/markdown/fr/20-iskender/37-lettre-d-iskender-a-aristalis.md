@@ -60,7 +60,7 @@ D’étonnement ceux qui le virent.
 
 Il avait’une tête de lion, des sabots de cheval, la poitrine et les épaules d’un homme et une queue de bœuf.
 
-Ce monstre mourut en naissant, et mieux vaut que jamais une telle femme n’ait de progéniture.
+Ce monstre mourut en naissant et mieux vaut que jamais une telle femme n’ait de progéniture.
 
 On porta l’enfant à l’instant devant le roi, qui le regarda attentivement et avec surprise.
 
