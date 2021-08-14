@@ -28,8 +28,7 @@ Il arrivait des lettres de tous les pays, de tous les grands, de tous les puissa
 
 Il y avait tant de bourses de musc, de satin de Chine, de belles choses qui venaient du Roum et de parfums indiens, que l’Iran ressemblait au paradis ; toute la terre était d’ambre, toutes les briques étaient d’or.
 
-Les hommes tournaient leurs yeux vers l’Iran, délivrés de leurs peines et de leurs querelles ; on aurait dit que les larmes des nuages étaient de l’eau de rose et qu’il n’y avait plus ni souffrance ni besoin de médecin ; l’eau tombait sur les fleurs au moment propice et le cultivateur ne souffrait jamais du manque de pluie ; les vallées et les plaines étaient convertes de fleurs, de maisons et de palais ; le monde était rempli de verdure et de bétail ; les ruisseaux ressemblaient aux fleuves et les fleurs des potagers Dans l’Iran, on apprenait les langues étrangères, aux Pléiades. .
-on éclairait son esprit par le savoir.
+Les hommes tournaient leurs yeux vers l’Iran, délivrés de leurs peines et de leurs querelles ; on aurait dit que les larmes des nuages étaient de l’eau de rose et qu’il n’y avait plus ni souffrance ni besoin de médecin ; l’eau tombait sur les fleurs au moment propice et le cultivateur ne souffrait jamais du manque de pluie ; les vallées et les plaines étaient convertes de fleurs, de maisons et de palais ; le monde était rempli de verdure et de bétail ; les ruisseaux ressemblaient aux fleuves et les fleurs des potagers Dans l’Iran, on apprenait les langues étrangères, aux Pléiades. on éclairait son esprit par le savoir.
 
 Les marchands de tous les pays, de l’Inde et de la Chine, du Turkestan et du Roum célébraient la gloire du maître et les animaux se multipliaient à cause de l’abondance de l’herbe.
 
