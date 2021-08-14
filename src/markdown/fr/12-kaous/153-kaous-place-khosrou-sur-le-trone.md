@@ -28,7 +28,7 @@ Telle est la coutume du monde, il prend d’une main et donne de l’autre.
 
 Ses tromperies nous ailligent ; tantôt nous sommes en haut, tantôt en bas.
 
-Ô mon fils I si ton cœur parvient à être heureux, puisses-tu rester éternellement sur la terre !
+Ô mon fils si ton cœur parvient à être heureux, puisses-tu rester éternellement sur la terre !
 
 Quand tu es dans le bonheur, jouisen ; quand tu es dans l’abondance, faisen jouir les autres et ne tourmente pas ton cœur.
 
