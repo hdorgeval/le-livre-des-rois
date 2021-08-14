@@ -33,7 +33,7 @@ Il fit appeler devant lui Lembek, le porteur d’eau, qui vint en croisant les m
 >
 > Le Mobed ne put pas faire le compte de tout cela ; il fit venir du désert de Djehrem mille chameaux et lorsqu’on les eut chargés, il restait encore des richesses ; puis le messager mit joyeusement en marche la caravane.
 >
-> I Lorsque les clochettes retentirent dans la cour du palais, le messager intelligent vint dire au roi :
+> Lorsque les clochettes retentirent dans la cour du palais, le messager intelligent vint dire au roi :
 
 > Il y à là autant de pierreries que dans ton trésor et il en est resté encore deux cents charges d’âne. »
 
