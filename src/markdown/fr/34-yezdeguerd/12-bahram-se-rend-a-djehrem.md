@@ -56,7 +56,7 @@ Mondhir répondit :
 >
 > Que mon corps et mon âme soient ta rançon !
 >
-> Quand ils verront mon armée innombrable, ma’ manière d’être, mes habitudes et la voie queje suis, quand ils comprendront que verser du sang est notre occupation, quand ils penseront à Dieu le juste, qui est notre soutien, ils n’appelleront roi personne que toi, qui es le maître légitime de la couronne et digne du trône. »
+> Quand ils verront mon armée innombrable, ma’ manière d’être, mes habitudes et la voie que je suis, quand ils comprendront que verser du sang est notre occupation, quand ils penseront à Dieu le juste, qui est notre soutien, ils n’appelleront roi personne que toi, qui es le maître légitime de la couronne et digne du trône. »
 
 Le roi sourit en écoutant ces paroles de Mondhir, etson cœurs’épanouit -
 de bonheur.
