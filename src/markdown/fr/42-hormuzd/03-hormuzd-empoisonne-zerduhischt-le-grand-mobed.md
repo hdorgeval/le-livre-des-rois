@@ -31,7 +31,8 @@ Il commença par mettre la main sur lzed Guschasp et le jeta sans raison dans le
 
 Le cœur du Grand Mobed en fut dans l’angoisse et son chagrin fit pâlir ses joues, car c’était un Mobed et un homme de bonne nature, un sage qui portait le nom de Zerdnhischt.
 
-Ces fers d’lzed Guschasp le scribe le blessaient au cœur, comme s’il eût été frappé d’une flèche. .
+Ces fers d’lzed Guschasp le scribe le blessaient au cœur, comme s’il eût été frappé d’une flèche.
+
 Un jour se passa ; lzed Guschasp n’avait ni serviteur pour avoir soin de lui, ni nourriture, ni vêtements, ni ami consolateur ; il envoya alors de sa prison, à son ami le Grand Mobed, ce message :
 
 > Ô toi qui es pour moi comme la moelle et la peau, je suis dans la prison du roi, sans serviteur et personne ne peut venir jusqu’à moi ; j’ai envie de manger, mon estomac est afi’amé, mes peines sont grandes ; fais-moi porter quelque nourriture convenable ; et si je meurs, envoie du linge et quel-M3 qu’un pour coudre mon linceul. »
