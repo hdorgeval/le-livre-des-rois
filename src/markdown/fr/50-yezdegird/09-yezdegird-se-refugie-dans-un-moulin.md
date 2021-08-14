@@ -304,7 +304,7 @@ Un homme sage répondit alors à Mahouî :
 
 Mais le fils de Mahouî, prenant la parole, dit :
 
-> I Ô mon père aux heureux desseins, puisque tu t’es déclaré son ennemi, dé barrasseloi de lui ; sinon, il nous attaquera avec
+> Ô mon père aux heureux desseins, puisque tu t’es déclaré son ennemi, dé barrasseloi de lui ; sinon, il nous attaquera avec
 >
 > toutes les forces du Madjin et de la Chine et rendra le monde étroit sous nos pas.
 >
