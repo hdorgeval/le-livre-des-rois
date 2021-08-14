@@ -24,7 +24,7 @@ Un chargea d’étoiles et de joyaux dignes d’un roi six cents chameaux, dix p
 
 Un homme illustre portait la coupe qui avait rendu ivres de vin tous les grands de la cour.
 
-Lorsque la jeune fille arriva dans l’apparternent du roi, la tête couronnée de sa chevelure noire et les boucles de ses cheveux flottant sur son visage de I lune comme un réseau qui couvrirait une fleur d’arghawan, elle ressemblait a un cyprès élancé surmonté du globe de la lune et l’on n’osait pas la regarder.
+Lorsque la jeune fille arriva dans l’apparternent du roi, la tête couronnée de sa chevelure noire et les boucles de ses cheveux flottant sur son visage de lune comme un réseau qui couvrirait une fleur d’arghawan, elle ressemblait a un cyprès élancé surmonté du globe de la lune et l’on n’osait pas la regarder.
 
 Ses deux sourcils formaient un arc. ses deux yeux étaient noirs, ses cheveux bouclaient sans aide de l’art ; ses yeux étaient comme deux narcisses du paradis ; on aurait dit qu’elle était pétrie de fleurs de grenadier.
 
