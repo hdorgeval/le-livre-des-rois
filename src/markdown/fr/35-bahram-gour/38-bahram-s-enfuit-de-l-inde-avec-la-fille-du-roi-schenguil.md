@@ -96,7 +96,7 @@ Si ce secret était connu dans l’Inde, le sang inonderait la terre d’Iran co
 
 Celui qui sait se taire réussit ; il faut fermer les lèvres et ouvrir les deux mains.
 
-Pour queje retrouve
+Pour que je retrouve
 5 ’
 mon trône, je vais lier vos langues par un grand serment, vous jurerez de ne jamais désobéir au roi Bahram et de garder son secretm Lorsqu’ils eurent juré ainsi et prêté ce serment et que le cœur du roi fut délivré de cette inquiétude, il leur dit :
 
