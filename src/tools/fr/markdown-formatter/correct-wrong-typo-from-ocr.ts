@@ -1370,6 +1370,12 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/soleil\. brillant/g, 'soleil brillant'),
     (content: string) => content.replace(/Berberistain/g, 'Berberistan'),
     (content: string) => content.replace(/pro-jet/g, 'projet'),
+    (content: string) => content.replace(/ le,roi /g, ' le roi '),
+    (content: string) => content.replace(/eu disant /g, 'en disant '),
+    (content: string) => content.replace(/ ailligent /g, ' affligent '),
+    (content: string) => content.replace(/\. car /g, ' car '),
+    (content: string) => content.replace(/il se levèrent /g, 'ils se levèrent '),
+    (content: string) => content.replace(/ Pirau /g, ' Piran '),
   ].forEach((format) => {
     result = format(result);
   });
