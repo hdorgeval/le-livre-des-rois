@@ -145,7 +145,7 @@ Kesra fit dresser une haute potence, d’où pendait un lacet enroulé et y fit 
 
 Si tu es un homme de sens, ne suis pas la voie de Mazdek. "9 Un noble, avancé en âge, plein d’intelligence et d’expérience, m’a conté autrement cette histoire et m’a dit que ce Mazdek avait demandé au roi sa fille, de même son trône, sa couronne et son diadème et que le roi avait fait bouillir de la poix et l’y avait’fait plonger, la tête en bas.
 
-Les grands furent ainsi rassurés sur ce qu’ils avaient de précieux, I leurs femmes, leurs enfants et leurs trésors amassés.
+Les grands furent ainsi rassurés sur ce qu’ils avaient de précieux, leurs femmes, leurs enfants et leurs trésors amassés.
 
 Kobad futlongtemps honteux et ne prononça jamais le nom de Mazdek qu’avec des malédictions.
 
