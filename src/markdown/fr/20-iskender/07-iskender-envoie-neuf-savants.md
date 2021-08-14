@@ -54,7 +54,7 @@ Un des Roumis lui répondit :
 >
 > Personne n’a vu dans un palais une peinture belle comme ta fille.
 >
-> Aucun de I nous n’a assez contemplé son visage, car il n’y a pas de créature humaine comme elle ; voilà tout !
+> Aucun de nous n’a assez contemplé son visage, car il n’y a pas de créature humaine comme elle ; voilà tout !
 >
 > Maintenant chacun de nous va écrire au roi sur cette lune d’une beauté incomparable. »
 
