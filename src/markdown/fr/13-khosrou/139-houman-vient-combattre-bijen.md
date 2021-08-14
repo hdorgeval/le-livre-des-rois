@@ -72,7 +72,7 @@ Ils placèrent les flèches à pointe d’acier et tendirent les arcs jusqu’à
 
 Leur bouche restait béante, tant elle était desséchée par la soif ; ils avaient besoin de boire et de se reposer.
 
-À la lin ils s’arrêtèrent pour respirer et pour jeter de l’eau sur le feu ardent de leur soy’. .
+À la lin ils s’arrêtèrent pour respirer et pour jeter de l’eau sur le feu ardent de leur soy’.
 Ensuite ils saisirent leurs boucliers et leurs épées tranchantes ; tu aurais dit que c’était le jour de la résurrection :
 
 > le l’en sortait de leurs casques et de leurs glaives comme des éclairs que lance un nuage sombre, mais l’acier ne pouvait pas faire de blessures à travers l’acier brillant ; les coups des épées damasquinées tombaient dans cette lutte des braves comme un torrent de leu ; aucun ami ne les aidait à verser du sang et leur cœur ne se fatiguait pas du combat.
