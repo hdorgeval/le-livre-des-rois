@@ -30,7 +30,7 @@ Il quitta son pays, se rendit à la cour et se mit à observer les musiciens du 
 
 Serguisch l’entendit chanter et son âme fut troublée par Iejeu de Ëarbed ; il alla auprès du chef des chambellans, lui fit une offrande d’or et d’argent et lui dit :
 
-> Il y a à la porte du palais un chanteur qui a l’avantage sur moi en âge et en talent ; il ne faut pas qu’il trouve accès près de Khosrou, car. je suis usé et il serait, lui, une nouveauté. »
+> Il y a à la porte du palais un chanteur qui a l’avantage sur moi en âge et en talent ; il ne faut pas qu’il trouve accès près de Khosrou, car je suis usé et il serait, lui, une nouveauté. »
 
 Le gardien de la porte du roi écouta ce discours et refusa l’entrée au musicien à l’esprit simple et Barbed avait beau venir à lui, il s’y prenait mal et n’en retirait aucun fruit ; le chambellan lui refusait la porte et personne n’intervenait en sa faveur.
 
