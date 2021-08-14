@@ -88,7 +88,7 @@ Il resta quelque temps dans cet état ; à la fin ses traits s’éclaircirent e
 
 Il lui dit :
 
-> Ô jeune pâtre I comment connais-tu les jours et les nuits ?
+> Ô jeune pâtre comment connais-tu les jours et les nuits ?
 >
 > Que fais-tu de tes troupeaux ? "comment comptes-tu tes chèvres et les moutons ? »
 
