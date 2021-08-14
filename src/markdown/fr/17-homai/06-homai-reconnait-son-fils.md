@@ -43,7 +43,7 @@ Du monde et répéta ce qu’il avait entendu des lèvres de Beschnewad.
 
 Elle lut la lettre, elle vit le joyau et les larmes coulèrent de ses cils sur ses joues.
 
-Elle reconnut que le jeune homme, ce héros plein de I beauté, aux joues fraîches comme le printemps, à la stature haute, qu’elle avait vu le jour où elle était allée dans la plaine pour passer en revue son armée, n’était autre que son fils innocent, une noble et fertile branche de son propre tronc.
+Elle reconnut que le jeune homme, ce héros plein de beauté, aux joues fraîches comme le printemps, à la stature haute, qu’elle avait vu le jour où elle était allée dans la plaine pour passer en revue son armée, n’était autre que son fils innocent, une noble et fertile branche de son propre tronc.
 
 Elle dit au messager en pleurant :
 
