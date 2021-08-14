@@ -96,7 +96,7 @@ Les Iraniens écoutèrent ces paroles et répondirent :
 
 A !
 
-Or il y avait un Mobed du nom de Homaï, un I M3 homme de sens, de savoir et de bon conseil.
+Or il y avait un Mobed du nom de Homaï, un M3 homme de sens, de savoir et de bon conseil.
 
 Les Iraniens le choisirent pour qu’il s’appliquât à trouver ce moyen de salut et ils écrivirent au Khakan, au nom des Iraniens, une lettre de soumission qui commençait ainsi :
 
