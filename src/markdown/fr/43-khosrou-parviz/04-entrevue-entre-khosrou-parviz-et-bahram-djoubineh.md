@@ -447,7 +447,7 @@ Il faut faire ni plus ni moins que ce que Zerdouscht dit dans le Zend :
 >
 > Or, tous les hommes de ton armée sont, dans leur cœur, mes esclaves, ils sont à moi dans la vie et la mort.
 >
-> Tu leur as donné un peu de gloire et c’est ainsi qu’ils ont détourné la tête de la justice ; mais quand je montrerai mes trésors, I je remplirai les cœurs des braves de bonne volonté pour moi.
+> Tu leur as donné un peu de gloire et c’est ainsi qu’ils ont détourné la tête de la justice ; mais quand je montrerai mes trésors, je remplirai les cœurs des braves de bonne volonté pour moi.
 >
 > Lorsque tu as été victorieux du roi Saweh, toute l’armée a cru qu’elle était invincible, rassasiée et enivrée comme elle était par son butin.
 >
