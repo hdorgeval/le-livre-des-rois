@@ -51,7 +51,7 @@ Vous luterez toutes les fentes de mon cercueil avec de la suie, du camphre, du m
 
 Chine, ensuite vous y placerez mon corps et tout sera dit quand vous aurez couvert mon visage.
 
-Et toi, ma mère, pleine de sagesse, suis mon conseil I jusqu’à ce que les jours finissent.
+Et toi, ma mère, pleine de sagesse, suis mon conseil jusqu’à ce que les jours finissent.
 
 Tout ce que j’ai apporté de l’Inde et de la Chine, du Touran, de l’Iran et du pays de Mekran, prends-le et distribue ce qui est de trop et ce qui dépasse la possibilité d’en jouir.
 
