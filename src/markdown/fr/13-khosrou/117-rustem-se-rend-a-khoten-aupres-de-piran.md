@@ -71,7 +71,7 @@ Sa justice empêchera qu’on ne me fasse du mal et le nuage de son amitié fera
 
 Il lui remit ces présents en invoquant les grâces de Dieu sur lui et cette affaire fut arrangée.
 
-Lorsque Piran vit les joyaux que contenait la coupe brillante, il appela les I bénédictions de Dieu sur Rustem, le reçut gracieusement, le fit asseoir sur son trône de turquoises et lui dit :
+Lorsque Piran vit les joyaux que contenait la coupe brillante, il appela les bénédictions de Dieu sur Rustem, le reçut gracieusement, le fit asseoir sur son trône de turquoises et lui dit :
 
 > Vat’en en paix, entre dans la ville en toute sécurité, car je vais te préparer un logis au-
 > près de moi ; n’aie pas d’inquiétude sur tes trésors, personne n’osera te chercher querelle.
