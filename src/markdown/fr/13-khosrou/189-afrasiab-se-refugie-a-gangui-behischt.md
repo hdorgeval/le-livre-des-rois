@@ -38,7 +38,7 @@ Il survint de grand matin un messager de Buslelu, monté sur un dromadaire et po
 
 Une clameur joyeuse remplit le camp et frappa les oreilles du roi des Turcs, qui ordonna à l’instant à tous ses serviteurs de monter à cheval.
 
-Au même moment arriva, en grande hâte, un cavalier auprès d’Al’rasiab en poussant des cris et annonçant que Karakllan survivait presque seul de son armée et arrivait avec soixante hommes, pendant que les Iraniens entraient dans le Touran, en si grand nombre qu’ils épuisaient l’eau des ruisseaux.
+Au même moment arriva, en grande hâte, un cavalier auprès d’Afrasiab en poussant des cris et annonçant que Karakllan survivait presque seul de son armée et arrivait avec soixante hommes, pendant que les Iraniens entraient dans le Touran, en si grand nombre qu’ils épuisaient l’eau des ruisseaux.
 
 Afrasiab dit à ses conseillers :
 
@@ -59,7 +59,7 @@ Khosrou comprit que le roi de la Chine avait quitté le champ de bataille si ino
 
 Il fit partir sur-le-champ un messager, qu’il envoya en grande hâte à Rustem et lui fit dire :
 
-> Al’rasiab a renoncé à la bataille qu’il allait me livrer et sans doute il va se jeter sur toi.
+> Afrasiab a renoncé à la bataille qu’il allait me livrer et sans doute il va se jeter sur toi.
 >
 > Tiens prête ton armée et sois sur tes gardes ; ne quitte ni jour ni nuit ton carquois et tes flèches. »
 
