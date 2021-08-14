@@ -89,7 +89,7 @@ veront au-dessus des Gémeaux, ne me blâmera-t-on pas si je sors du centre de l
 >
 > Si je le reçois bien et si je le couvre de louanges ?
 >
-> S’il accepte mes pro-3 I positions, ce sera bien, car qui est comparable à lui dans ma cour ?
+> S’il accepte mes pro-3 positions, ce sera bien, car qui est comparable à lui dans ma cour ?
 >
 > S’il veut la guerre, suis prêt pour la lutte et nous mènerons notre armée contre la sienne. »
 
