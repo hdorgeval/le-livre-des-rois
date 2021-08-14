@@ -140,7 +140,7 @@ Il se reposa cette nuit et le lendemain de grand matin il s’assit solennelleme
 
 > Puisse l’esprit du Messie être. ton compagnon !
 >
-> Va auprès du Faghfour et dis-lui I que je suis plein de respect pour lui ; s’il veut venir ici, toute la Chine lui appartient ; s’il veut aller autre part, rien ne l’en empêche.
+> Va auprès du Faghfour et dis-lui que je suis plein de respect pour lui ; s’il veut venir ici, toute la Chine lui appartient ; s’il veut aller autre part, rien ne l’en empêche.
 >
 > Je me reposerai ici, car on ne peut pas marcher rapidement avec une si grande armée. »
 
