@@ -62,7 +62,7 @@ Son grand-père était cordonnier, son père de même et notre famille ne s’es
 
 Qui aurait pu croire que le roi voudrait entendre ce cela ’»
 
-’ I Le roi sourit du récit de la vieille femme et dit :
+’ Le roi sourit du récit de la vieille femme et dit :
 
 > C’est une histoire qu’il ne faut pas oublier. »
 
