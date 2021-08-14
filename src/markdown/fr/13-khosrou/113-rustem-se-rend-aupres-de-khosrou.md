@@ -24,7 +24,7 @@ Les cavaliers de son royaume qui portaient le plus haut la tête étaient rassem
 
 Les oreilles de Raksch touchaient le ciel et le héros qui distribuait des couronnes élevait la tête plus haut que le soleil.
 
-On chargea tout ce qu’il fallait emporter ; Rustem laissa Faramourz dans le Zaboulistan et se mit en route pour le pays d’Iran, avec Guiv et cent cavaliers du Zahoulistan armés pour la guerre et les combats ; ils étaient impatients d’arriver. car. leur cœur était plein du désir de la vengeance.
+On chargea tout ce qu’il fallait emporter ; Rustem laissa Faramourz dans le Zaboulistan et se mit en route pour le pays d’Iran, avec Guiv et cent cavaliers du Zahoulistan armés pour la guerre et les combats ; ils étaient impatients d’arriver. car leur cœur était plein du désir de la vengeance.
 
 Lorsque Rustem s’approcha de l’Iran, le trône de Khosrou devint visible ; et une brise douce porta gaiement au héros les saluts affectueux du firmament.
 
