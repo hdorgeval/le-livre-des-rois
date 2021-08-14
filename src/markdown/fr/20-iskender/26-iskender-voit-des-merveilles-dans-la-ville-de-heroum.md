@@ -24,7 +24,7 @@ Elle commençait par le nom du Créateur des sphères célestes, de qui viennent
 
 Quiconque a du sens dans l’esprit, quiconque n’a pas foulé. la terre, oc-
 
-Cupé uniquement de frivolités, a appris mes hauts a faits et jusqu’où j’ai porté mon pouvoir et quiconque I a voulu se soustraire à mes ordres n’a trouvé d’autre couche que la terre Sambre.
+Cupé uniquement de frivolités, a appris mes hauts a faits et jusqu’où j’ai porté mon pouvoir et quiconque a voulu se soustraire à mes ordres n’a trouvé d’autre couche que la terre Sambre.
 
 Je ne veux pas qu’il y ait un lieu dans le monde dont l’aspect me soit inconnu et si je viens parmi vous, ce n’est pas pour vous combattre, car mon âme est pleine de paix et du désir de fêtes.
 
