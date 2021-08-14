@@ -64,7 +64,7 @@ Siawusch s’adressa à Rustem et lui dit :
 >
 > Réfléchis quel peut être l’antidote de ce poison.
 >
-> Indique-moi cent des plus illustres parents d’Al’rasiab, qui entourent son trône et qu’il peut nous envoyer comme otages, pour rendre la tranquillité à notre âme inquiète.
+> Indique-moi cent des plus illustres parents d’Afrasiab, qui entourent son trône et qu’il peut nous envoyer comme otages, pour rendre la tranquillité à notre âme inquiète.
 >
 > Ne vois-tu pas que la peur que nous lui inspirons le trouble et qu’il bat le tambour sous le manteau (qu’il veut cacher ce qui ne peut se cacher) ?
 >
