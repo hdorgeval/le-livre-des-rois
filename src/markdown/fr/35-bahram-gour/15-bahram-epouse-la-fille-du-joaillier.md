@@ -102,7 +102,7 @@ Bahram, sur ces. paroles, demanda un cheval de main et un vêtement digne d’un
 
 Bouzbeh dit aux grands :
 
-> Le roi del’Iran va aller dans ce village, frappera à la porte du marchand de pierreries et écoutez bien ce que je vais vous dire : il demandera cette jeune fille à son père et placera sans aucun doute une couronne d’or sur I sa tête.
+> Le roi del’Iran va aller dans ce village, frappera à la porte du marchand de pierreries et écoutez bien ce que je vais vous dire : il demandera cette jeune fille à son père et placera sans aucun doute une couronne d’or sur sa tête.
 >
 > Il l’amènera de la dans la chambre à cou-I cher dorée et renverra les autres dans l’appartement des femmes de Berzin.
 >
@@ -136,7 +136,7 @@ En parlant ainsi ils arrivèrent au palais du roi au moment où le soleil dispar
 
 Bahram partit lorsque la nuit fut devenue sombre, accompagné d’un seul homme pour son cheval ; il alla jusqu’à, la maison du marchand de pierreries et lorsque les sons du luth frappèrent son oreille, il lança à l’instant son cheval Gulgoun dans la direction du son, vers la maison du marchand.
 
-Il frappa à la porte avec l’anneau et demanda à entrer I en invoquant l’aide du Maître du soleil.
+Il frappa à la porte avec l’anneau et demanda à entrer en invoquant l’aide du Maître du soleil.
 
 Une servante bienveillante demanda ce qu’il y avait et pourquoi dans la nuit noire on frappait à la porte.
 
@@ -170,7 +170,9 @@ Puissent toutes mes actions être selon la justice !
 
 Puisse le cœur de mes sujets être heureux par moi !
 
-Plus ma sagesse et ma justice seront grandes, plus mon nom brillera après me mort et tous mes sujets jouiront, comme ce marchand de pierreries, des sons du luth et des coupes de vin. au Le roi des rois arriva au principal pavillon ; il
+Plus ma sagesse et ma justice seront grandes, plus mon nom brillera après me mort et tous mes sujets jouiront, comme ce marchand de pierreries, des sons du luth et des coupes de vin.
+
+Le roi des rois arriva au principal pavillon ; il
 
 Aperçut de la porte la fille célèbre du Dihkan et celui-ci, le voyant, se leva avec empressement et inclina sa taille droite, disant :
 
@@ -299,7 +301,7 @@ Mahiar" n’était pas satisfait de la réponse de sa fille ; il dit à Bahram :
 >
 > Regardela attentivement de la tête aux pieds ; observe son énergie, son savoir et son intelligence ; vois si ton cœur l’approuvc ; mais il lift.
 >
-> I vaudrait mieux prendre des informations que de rester assis.
+> vaudrait mieux prendre des informations que de rester assis.
 >
 > Avec toutes ses vertus elle n’est pas pauvre ; je ne suis pas accoutumé à me vanter, mais si tu comptes les joyaux de Mahiar, tu trouveras qu’ils dépassent ce qui setrouve dans les caisses du roi.
 >
