@@ -31,7 +31,7 @@ Le roi des rois s’assit sur le trône d’or, ayant en main une massue à têt
 
 Alors le roi dit d’une voix forte :
 
-> Ô hommes illustres,favoris de la fortune, quiconque a du sens et de l’intelligence sait que le bien et le mal ne durent pas ; nous I tous sommes nés pour mourir et le monde est fugitif : pourquoi donc cette tristesse, ces soucis et ces peines ?
+> Ô hommes illustres,favoris de la fortune, quiconque a du sens et de l’intelligence sait que le bien et le mal ne durent pas ; nous tous sommes nés pour mourir et le monde est fugitif : pourquoi donc cette tristesse, ces soucis et ces peines ?
 >
 > Pon-vons-nous emporter quelque chose dans chacune de nos mains ?
 >
@@ -43,9 +43,9 @@ Alors le roi dit d’une voix forte :
 >
 > De Houscheng, de Djemschid et du roi Kaous, qui ont tous joui du trône, des honneurs royaux et de la couronne, il ne reste dans le monde que des noms et personne ne lit les ordonnances des morts.Beau-coup d’entre eux ont été ingrats envers Dieu, et, à la fin, ont dû trembler devant leurs mauvaises actions.
 >
-> Je suis comme eux un esclave de Dieu et quoique j’aie passé ma vie dans les luttes et les faligues, que j’aie fait bien des efforts et supporté bien I des peines, je mourrai, car j’ai vu que personne ne
+> Je suis comme eux un esclave de Dieu et quoique j’aie passé ma vie dans les luttes et les faligues, que j’aie fait bien des efforts et supporté bien des peines, je mourrai, car j’ai vu que personne ne
 >
-> I reste ici et maintenant j’ai détaché mon cœur et mon âme de ce séjour de passage, j’en ai fini de mes soucis et de mes travaux ; j’ai obtenu tout ce que j’ai désiré et je détourne mes yeux du trône des Keïanides.
+> reste ici et maintenant j’ai détaché mon cœur et mon âme de ce séjour de passage, j’en ai fini de mes soucis et de mes travaux ; j’ai obtenu tout ce que j’ai désiré et je détourne mes yeux du trône des Keïanides.
 >
 > Ceux qui ont supporté des fatigues [dans mon service, je leur donne tout ce qu’ils veulent de mes trésors.
 >
