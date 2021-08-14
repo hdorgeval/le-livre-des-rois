@@ -54,7 +54,7 @@ Thous l’écouta et lui répondit :
 >
 > Je n’y consentirai pas, ne me parle pas de Khosrou.
 >
-> Si nous plaçons sur le trône un roi de la race d’Al’rasiab, la fortune de l’Iran s’endormira ; nous ne voulons pas d’un roi de la famille de Pescheng, car le troupeau ne peut prospérer en présence d’un léopard.
+> Si nous plaçons sur le trône un roi de la race d’Afrasiab, la fortune de l’Iran s’endormira ; nous ne voulons pas d’un roi de la famille de Pescheng, car le troupeau ne peut prospérer en présence d’un léopard.
 >
 > Les fatigues que tu as supportées sont perdues, car Khosrou est jeune et vain ; tandis qu’un homme qui veut être roi de la terre doit être vaillant, de naissance pure, majestueux et croyant.
 >
