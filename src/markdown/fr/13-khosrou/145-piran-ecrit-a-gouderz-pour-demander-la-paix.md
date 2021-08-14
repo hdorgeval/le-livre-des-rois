@@ -47,7 +47,7 @@ Km
 
 A05 que tu livres ces combats de lions, dis-le-moi, afin qu’à l’instant et en toute hâte j’envoie un messager auprès d’Afrasiab, pour qu’il consente que nous divisions le monde et oubliions nos haines, comme on fit du temps du roi Minoutchehr, quand il résolut de partager le monde.
 
-Désigne tous les pays qui selon toi font partie de l’empire de l’Iran, I pour que je fasse évacuer par les Turcs toutes les contrées incultes ou cultivées que demande Keï Khosrou le dispensateur de la justice.
+Désigne tous les pays qui selon toi font partie de l’empire de l’Iran, pour que je fasse évacuer par les Turcs toutes les contrées incultes ou cultivées que demande Keï Khosrou le dispensateur de la justice.
 
 D’abord je reculerai depuis l’Iran jusqu’aux montagnes, jusqu’au pays de Ghartcheh et à celui de Bost.
 
