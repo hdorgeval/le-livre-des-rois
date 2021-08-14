@@ -25,7 +25,7 @@ Ensuite le vaillant Sohrab dit à sa mère :
 La mère écouta les paroles de son fils et levant la tête jusqu’au soleil, elle ordonna au gardien des chevaux d’amener sans délai toutes les juments, pour que Sohrab choisît un cheval sur lequel il pût s’asseoir en allant à la guerre.
 
 De tous les côtés où
-il y avait des troupeaux de chevaux, qu’ils fussent dispersés sur les montagnes ou dans les plaines, on les amena dans la ville ; et Sohrab au cœur de lion I prenant un lacet, alla bravement en jeter le nœud sur le cou de chaque cheval qui le frappait par sa vigueur ; puis il lui mettait la main sur le dos pour l’épreuver et le. faisait ployer jusqu’à ce que son ventre touchât à terre.
+il y avait des troupeaux de chevaux, qu’ils fussent dispersés sur les montagnes ou dans les plaines, on les amena dans la ville ; et Sohrab au cœur de lion prenant un lacet, alla bravement en jeter le nœud sur le cou de chaque cheval qui le frappait par sa vigueur ; puis il lui mettait la main sur le dos pour l’épreuver et le. faisait ployer jusqu’à ce que son ventre touchât à terre.
 
 Il courba ainsi beaucoup de bons chevaux par la force de sa main sans en trouver un qui pût lui convenir.
 
