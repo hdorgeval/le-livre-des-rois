@@ -25,7 +25,7 @@ Les grands et les sages ayant ainsi rappelé les actions des rois, le père de G
 
 > Ô toi que la fortune favorise, toi qui as toujours révéré le trône et la couronne, toi qui asisupporté tant de
 >
-> I fatigues pour l’Iran, qui as quitté si longtemps ton pays et ta famille, voici une affaire ténébreuse et que nous ne devons pas négliger.
+> fatigues pour l’Iran, qui as quitté si longtemps ton pays et ta famille, voici une affaire ténébreuse et que nous ne devons pas négliger.
 >
 > Il faut que tu ailles dans le Zaboulistan auprès du Sipehdar de Kaboul et que tu portes à Zal et à Rustem ce message :
 
