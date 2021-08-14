@@ -24,7 +24,7 @@ Ensuite, il dit :
 >
 > Ses yeux débordent de larmes et ses lèvres sont pleines de paroles ; mais mon cœur est gros d’anciennes douh.
 >
-> I LE LlVIlItii leurs.
+> LE LlVIlItii leurs.
 >
 > Il essaye maintenant de me faire trembler, de m’ell’rayer par la supériorité de son armée ; mais il ne sait pas que le ciel tout-puissant tourne, au jour du malheur, sans obéir à l’ordre de personne.
 >
@@ -34,7 +34,7 @@ Ensuite, il dit :
 
 > Ce dessein n’est pas raisonnable.
 >
-> Al’rasiab, qui est un homme d’expérience et de sagesse, ne rêve que des expédients ; il ne connaît que la fraude et les arts magiques, que la tromperie, la haine et la méchanceté.
+> Afrasiab, qui est un homme d’expérience et de sagesse, ne rêve que des expédients ; il ne connaît que la fraude et les arts magiques, que la tromperie, la haine et la méchanceté.
 >
 > Il a maintenant choisi dans son armée Schideh, parce qu’il a vu enlui une clef pour ouvrir la porte du malheur et il proroque au combat le roi de l’Iran, pour remplir nos jours de douleur.
 >
@@ -63,7 +63,7 @@ Le roi se mordit les lèvres et jeta un regard sombre surles grands ; ensuite il
 >
 > Puisse-t-il n’être jamais heureux, même en songe !
 >
-> Ensuite Al’rasiab sa tué l’innocent Siawusch, pour s’emparer de ses trésors, de son trône et de son diadème.
+> Ensuite Afrasiab sa tué l’innocent Siawusch, pour s’emparer de ses trésors, de son trône et de son diadème.
 >
 > Maintenant un Turc rusé de cette cour se présente devant nous et demande à me combattre ; pourquoi pâlis-’ sez-vous ?
 >
