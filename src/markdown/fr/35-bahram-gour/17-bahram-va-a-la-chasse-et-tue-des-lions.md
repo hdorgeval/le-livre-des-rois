@@ -62,7 +62,8 @@ Rugissements des lions et dit :
 
 > Cette nuit ce sera une chasse au vin, car il y a bien des traces de lions sur le sol et demain je dois les suivre ; mais aujourd’hui il faut nous reposer gaiement et en bonne santé.
 
-Nous allons boire jusqu’à l’aube du jour et quand la couronne du soleil qui éclaire le monde brillera, nous abattrons d’abord les lions avec l’épée, nous abattrons ces vaillants dragons et quand ces bois seront débarrassés des lions, les onagres seront à moi. .
+Nous allons boire jusqu’à l’aube du jour et quand la couronne du soleil qui éclaire le monde brillera, nous abattrons d’abord les lions avec l’épée, nous abattrons ces vaillants dragons et quand ces bois seront débarrassés des lions, les onagres seront à moi.
+
 Il resta là cette nuit et le lendemain matin il se dirigea vers la forêt avec son cortège ; aussitôt qu’il vit sortir du bois un lion, qui était plein de courage, car il s’était rassasié d’onagres, le vaillant Bahram dit à ses amis :
 
 > J’ai un arc et des flèches et sais m’en servir, mais j’attaquerai le lion avec l’épée pour qu’on ne m’appelle pas poltron. »
