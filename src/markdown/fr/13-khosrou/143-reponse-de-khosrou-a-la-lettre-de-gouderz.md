@@ -34,7 +34,7 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Je savais que le cœur de Pirau ne renonce pas à la vengeance ; et cependant, à cause de ses bonnes actions, je ne voulais pas lui faire une guerre à mort.
 >
-> Maintenant le ciel a montré ouvertement que toutes les affections de Pirau sont pour le Touran et qu’il ne considère le monde que comme la propriété d’Al’rasiab.
+> Maintenant le ciel a montré ouvertement que toutes les affections de Pirau sont pour le Touran et qu’il ne considère le monde que comme la propriété d’Afrasiab.
 >
 > Ne a t’ell’orce donc plus à le détourner de ce dévouement à son roi.
 >
@@ -46,7 +46,7 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Je suis certain que ta bravoure te donnera la victoire au jour du combat ; mais songe que la force et la valeur viennent de Dieu, sache-le et rends-lui sans cesse des actions de grâces.
 >
-> En troisième lieu, tu me dis qu’Al’rasiab va passer le Djihoun avec son armée, que Pirau lui a envoyé un message et que le roi se dirige de son côté.
+> En troisième lieu, tu me dis qu’Afrasiab va passer le Djihoun avec son armée, que Pirau lui a envoyé un message et que le roi se dirige de son côté.
 >
 > Voilà ce que tu m’as dit et je vais te donner ma réponse.
 >
