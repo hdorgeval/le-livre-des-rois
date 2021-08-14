@@ -43,9 +43,9 @@ Guersiwez s’acquitta de son message et Siawusch s’en réjouit et lui répond
 
 > Pour l’amour du roi je n’hésiterais pas à m’exposer au tranchant de l’épée d’acier.
 
-Je suisprêt à partir et la bride de mon cheval est liée à celle de ton destrier.
+Je suis prêt à partir et la bride de mon cheval est liée à celle de ton destrier.
 
-Mais nous resterons d’abord trois jours dans ce pam’llon doré du parterre de roses pour boire du vin : car le monde est un lieu de passage plein de troubles et de peines et malheurà celui qui passe cette vie ?
+Mais nous resterons d’abord trois jours dans ce pam’llon doré du parterre de roses pour boire du vin : car le monde est un lieu de passage plein de troubles et de peines et malheur à celui qui passe cette vie ?
 
 Fugitive dans les soucis !
 
@@ -65,7 +65,7 @@ Siawusch le voyant pleurer comme un homme qui tremble de colère, lui dit d’un
 >
 > Qu’est-il arrivé ?
 >
-> On ne devrait pas toucher la plaie de ceux qui sont affligés ; mais enfin si tu es en coulère contre le roi du Touran, si c’est pour cela que la douleur mouille tes yeux, me voilà prêt à partir avec toi, prêt à combattre le maître de l’armée du Touran, jusqu’à ce qu’il renonce à te persécuter pour de faibles motifs.
+> On ne devrait pas toucher la plaie de ceux qui sont affligés ; mais enfin si tu es en colère contre le roi du Touran, si c’est pour cela que la douleur mouille tes yeux, me voilà prêt à partir avec toi, prêt à combattre le maître de l’armée du Touran, jusqu’à ce qu’il renonce à te persécuter pour de faibles motifs.
 >
 > Pourquoi te traiterait-il comme un inférieur ?
 >
@@ -102,7 +102,7 @@ Guersiwez lui répondit :
 >
 > Mais maintenant Ahriman qui désunit les âmes a enflammé le cœur du roi contre toi et l’a rempli d’amertume et de haine et je ne puis dire ce que Dieu ordonnera de ton sort.
 >
-> Tu sais que je suis ton ami, que dans le bonheur et dans le malheur je te suis sincèrement dévoué et il ne faut pas qu’un jour tu puisses croire que j’ai connu les inetentions injustes du roi sans t’en avertir.
+> Tu sais que je suis ton ami, que dans le bonheur et dans le malheur je te suis sincèrement dévoué et il ne faut pas qu’un jour tu puisses croire que j’ai connu les intentions injustes du roi sans t’en avertir.
 >
 > Réfléchis et cherche un moyen de salut et ne parle qu’avec douceur et avec mesure. »
 
@@ -117,7 +117,7 @@ Siawusch lui répondit :
 > Partout où brille la droiture, le mensonge perd son éclat ; je montrerai à Afrasiah mon cœur plus par que la lumière du soleil qui
 >
 > > 4
-> > r : éclaire les cieux.
+> > éclaire les cieux.
 >
 > Ainsi reprends ta gaieté et ne laisse pas aller ton âme à de mauvais soupçons.
 >
@@ -139,11 +139,11 @@ Le méchant Guersiwez lui répondit :
 >
 > Tu n’es pas un parent ou un allié plus proche de lui que ne l’était le noble Aghrirez et pourtant il l’a coupé en deux avec son épée et a frappé l’armée de terreur par cette mauvaise action.
 >
-> Je t’ai maintenant développé tous les replis de son âme, sache qu’il est tel queje dis et ne te fie pas à sa parenté.
+> Je t’ai maintenant développé tous les replis de son âme, sache qu’il est tel que je dis et ne te fie pas à sa parenté.
 >
 > Tous les soucis qui agitent mon cœur, toutes mes pensées et les ressources de toute espèce que je possède, je te les ai ce révélées, je les ai rendues claires comme la lumière du soleil.
 >
-> Tu as laissé ton père dans l’Iran, tu as fondé une ville dans le Touran, tu as livré ton n cœur aux paroles d’Al’rasiab, tu t’es plu à l’entourer de tes soins et pourtant tu n’as fait que planter de tes mains un arbre dont le fruit est du poison, dont les feuilles sont du venin. »
+> Tu as laissé ton père dans l’Iran, tu as fondé une ville dans le Touran, tu as livré ton n cœur aux paroles d’Afrasiab, tu t’es plu à l’entourer de tes soins et pourtant tu n’as fait que planter de tes mains un arbre dont le fruit est du poison, dont les feuilles sont du venin. »
 
 Pendant que Guersiwez parlait ainsi, ses cils étaient mouillés de larmes, son cœur rempli de ruse, ses lèvres poussaient des soupirs.
 
