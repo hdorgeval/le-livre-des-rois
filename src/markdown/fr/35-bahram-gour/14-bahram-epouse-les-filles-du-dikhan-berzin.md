@@ -100,7 +100,7 @@ Le maître du monde, voyant le vin, saisit la coupe et la vida jusqu’au-dessou
 >
 > Le roi Bahram est arrivé dans notre jardin, mais personne des grands de son escorte n’est venu.
 >
-> Toi qui sais Î. . [ chauler, chante-nous des chansons, let toi, ma fille au.visage de lune, apporte ton luth. »
+> Toi qui sais Î. [ chauler, chante-nous des chansons, let toi, ma fille au.visage de lune, apporte ton luth. »
 
 Toutes les .
 troiS’se présentèrent devant le roi,.des diadèmes de pierreries sur leurs têtes ; l’une savait danser, l’autre jouait du luth et la troisième avait une belle voix et savait dissiper les soucis.
