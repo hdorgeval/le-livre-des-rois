@@ -92,7 +92,7 @@ Elle répondit :
 
 > Je n’ai jamais eu de mari et je ne voundrais pas qu’un mari vît mon visage. »
 
-Buzurdjmihr écouta ces paroles et tu vas voir quelles conclusions il en tirait. . soucieux et lorsqu’on eut amené cet homme ingé-
+Buzurdjmihr écouta ces paroles et tu vas voir quelles conclusions il en tirait. soucieux et lorsqu’on eut amené cet homme ingé-
 Il continua sa route en toute hâte et le visage tout nieux chez le roi, Kesra lui ordonna de s’approcher du’trône et le cœur du roi fut fort troublé quand il s’aperçut que le savant avait perdu la vue et il en poussait des soupirs.
 
 Il s’excuse de ce qui s’était passé et du mal qu’il avait fait à un innocent, puis. il se mit à parler du Roum et du Kaîsar et raconta l’histoire de l’écrin et du cadenas.
@@ -125,7 +125,8 @@ Lorsque le savant eut. entendu ce discours du Roumi, il prit la parole et commen
 >
 > Il y a dans cet écrin trois perles brillantes, cachées sous plus de trois enveloppes : l’une est percée, la seconde percée d’un côté et la troisième n’a pas été touchée par le fer. »
 
-Le savant Roumi l’écoute, donna la clef et Nouschirwan regarda : il se trouva qu’on avait caché dans l’écrin une boite qui contenait une enveloppe de soie renfermant trois perles telles que le sage de l’Iran les avait décrites, l’une d’elles étant percée, l’autre percée à moitié, la troisième intacte. .
+Le savant Roumi l’écoute, donna la clef et Nouschirwan regarda : il se trouva qu’on avait caché dans l’écrin une boite qui contenait une enveloppe de soie renfermant trois perles telles que le sage de l’Iran les avait décrites, l’une d’elles étant percée, l’autre percée à moitié, la troisième intacte.
+
 Tous les Mobeds bénirent cet homme savant et répandirent des joyaux sur lui ; le visage du roi des rois brillait, il remplit la bouche de Buzurdjmihr de perles de belle eau ; mais son cœur se serra au souvenir du passé ; il se tordit et ses traits se contractèrent, quand il réfléchit comment il avait pu traiter si cruellement cet homme, dont il n’avait reçu que des preuves de dévouement et de fidélité.
 
 Quand le sage vit les joues pâles du roi, quand il, vit que son esprit était troublé par le souci, il mit au jour ce qui avait été caché et parla à Kesra de ce qui s’était passé, du bracelet, de l’oiseau noir, de l’inquiétude que son serviteur avait éprouvée et du sommeil du roi, ajoutant :
