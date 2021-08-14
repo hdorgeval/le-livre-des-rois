@@ -73,7 +73,7 @@ Les gens de Kasclian et de Soghdse rassemblèrent, hommes, femmes et enfants, le
 Pendant sept jours ces armées ardentes pour la lutte restèrent en face l’une de l’aulre ; partout il y avait des monceaux de morts, le sang rougissait la terre et les pierres comme la [leur de .l’argliawan ; il y avait tant de coups de lances, de massues, de masses d’armes et d’épées, qu’on aurait dit qu’il pleuvait des pierres des nues ; la poussière cachait le soleil et remplissait l’œil de l’aigle dans son vol.
 
 Le huitième jour, la poussière se tournait du côté de Ghatfer ; le monde devint noir comme la nuit sombre et les Heïtaliens subirent une défaite lelleque pendant des années ils ne purent encrevenir ; tous ceux qui survivaient in-2&9
-voquaient le nom de Dieu. partout il y avait des blessés dispersés, et le pays entier litait plein de morts et de captifs.
+voquaient le nom de Dieu. partout il y avait des blessés dispersés et le pays entier litait plein de morts et de captifs.
 
 L’un disait à l’autre :
 
