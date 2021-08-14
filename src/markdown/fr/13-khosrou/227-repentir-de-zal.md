@@ -58,7 +58,7 @@ J Alors, il s’adressa à Zal, disant :
 >
 > Tout homme sur qui ne reposait pas une dignité donnée par Dieu, ou àqui les astres n’auraient pas souri, n’eût été dans la main de Schideh qu’une poignée de poussière ; c’est pourquoi je l’ai combattu en personne.
 >
-> Depuis cinq semaines j’ouvre mes lèvres jour et nuit pour adorer Dieu, pour que le maître I du monde, le très-saint, me délivre de mes soucis et du séjour sur cette terre sombre.
+> Depuis cinq semaines j’ouvre mes lèvres jour et nuit pour adorer Dieu, pour que le maître du monde, le très-saint, me délivre de mes soucis et du séjour sur cette terre sombre.
 >
 > Je suis las de mon armée, de mon trône et de ma couronne ; je suis impatient de partir et j’ai fait mes bagages.
 >
