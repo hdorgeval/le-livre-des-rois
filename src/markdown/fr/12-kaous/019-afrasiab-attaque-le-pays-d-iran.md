@@ -8,7 +8,27 @@ source: tome II - livre des rois - P. 14
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: "Afrasiab attaque le pays d'Iran | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Alborz',
+    'âme',
+    'Arabes',
+    'cyprès',
+    'Destan',
+    'Inde',
+    'Iran',
+    'Iraniens',
+    'Kaboul',
+    'Kaous',
+    'Mobed',
+    'Pehlewan',
+    'Rustem',
+    'Touran',
+    'Turcs',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '019'
 ---
 
