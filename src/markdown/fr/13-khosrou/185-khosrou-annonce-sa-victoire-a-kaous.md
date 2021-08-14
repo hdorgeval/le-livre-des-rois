@@ -24,7 +24,7 @@ Ensuite le roi continua : Le roi, mon maître, qui tremble pour ma vie comme fer
 
 Je suis venu de el’Iran jusqu’aux sables du Farab et pendant trois nuits j’ai livré trois grandes batailles.
 
-Le nombre des cavaliers d’Al’rasiab était tel qu’un homme de sens ne le rêverait pas même.
+Le nombre des cavaliers d’Afrasiab était tel qu’un homme de sens ne le rêverait pas même.
 
 J’envoie au roi les têtes coupées de trois cents héros ; c’étaient son frère et des parents et des fils et d’illustres grands et vassaux d’Afrasiab ; ensuite j’envoie captifs deux cents de ces nobles, dont chacun est égal dans le combat à cent lions.
 
