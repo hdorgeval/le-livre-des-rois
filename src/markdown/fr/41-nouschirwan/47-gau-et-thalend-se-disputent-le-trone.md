@@ -129,7 +129,7 @@ Ils quittèrent le palais mécontents et sombres, la bouche pleine de paroles va
 >
 > Jamais nous n’avons vu deux rois face à face et devant le trône deux Destours ennemis. »
 
-Ils passèrent toute la nuit, le visage froncé et lorsque le soleil éleva sa tête au-dessus des montagnes, tous les grands de la ville, tous ceux qui avaient à s’occuper de cette affaire, se réunirent ; tous les carrefours de Sendeli furent remplis de bruit ; I partout s’échangeaient des paroles passionnées ; les ’9
+Ils passèrent toute la nuit, le visage froncé et lorsque le soleil éleva sa tête au-dessus des montagnes, tous les grands de la ville, tous ceux qui avaient à s’occuper de cette affaire, se réunirent ; tous les carrefours de Sendeli furent remplis de bruit ; partout s’échangeaient des paroles passionnées ; les ’9
 
 Uns, parmi les braves, penchaient pour Gau, d’autres parlaient pour Thalhend ; les langues étaient fatiguées de parler, on ne parvenait pas à s’accorder sur la voie à suivre.
 
