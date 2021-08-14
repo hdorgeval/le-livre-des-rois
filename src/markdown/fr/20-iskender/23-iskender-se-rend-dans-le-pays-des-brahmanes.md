@@ -75,7 +75,7 @@ Le Brahmane répondit :
 
 > Ô roi !
 >
-> Si tu comptes cent mille morts tu ne trouveras pas un vivant en proportion de ces cent mille et heureux ceux qui ne I sont pas tombés dans l’enfer.
+> Si tu comptes cent mille morts tu ne trouveras pas un vivant en proportion de ces cent mille et heureux ceux qui ne sont pas tombés dans l’enfer.
 >
 > Mais ce vivant aussi doit mourir ; chacun part et laisse son tour à un autre. »
 
