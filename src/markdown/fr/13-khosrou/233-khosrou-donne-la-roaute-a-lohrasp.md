@@ -108,7 +108,7 @@ Toute l’armée de l’Iran poussa un cri tel que le soleil s’égara dans les
 
 Khosrou dit alors aux Iraniens :
 
-> Demain vous prendrez I la même route que moi.
+> Demain vous prendrez la même route que moi.
 >
 > Vous tous qui avez un beau nom et une grande naissance, soyez contents de ce que fait le Seigneur.
 >
