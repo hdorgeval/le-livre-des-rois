@@ -1359,6 +1359,17 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/suisprêt/g, 'suis prêt'),
     (content: string) => content.replace(/ I /g, ' '),
     (content: string) => content.replace(/ Tarcs /g, ' Turcs '),
+    (content: string) => content.replace(/ car\. /g, ' car '),
+    (content: string) => content.replace(/\. \./g, '.'),
+    (content: string) => content.replace(/ 2l /g, ' '),
+    (content: string) => content.replace(/ Haksch /g, ' Raksch '),
+    (content: string) => content.replace(/ quevle /g, ' que le '),
+    (content: string) => content.replace(/nobleRustem/g, 'noble Rustem'),
+    (content: string) => content.replace(/\. au L/g, '. L'),
+    (content: string) => content.replace(/ montagneà /g, ' montagne à '),
+    (content: string) => content.replace(/soleil\. brillant/g, 'soleil brillant'),
+    (content: string) => content.replace(/Berberistain/g, 'Berberistan'),
+    (content: string) => content.replace(/pro-jet/g, 'projet'),
   ].forEach((format) => {
     result = format(result);
   });
