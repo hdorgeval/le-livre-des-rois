@@ -115,7 +115,8 @@ Les jeunes gens lui firent une réponse qui charma son esprit plein de sagesse, 
 
 > Nous sommes tes esclaves ; debout devant toi, nous serons toujours tes guides vers le bonheur. »
 
-Le roi fut heureux de leurs paroles et partit en toute hâte et le cœur plein du désir de la vengeance. .
+Le roi fut heureux de leurs paroles et partit en toute hâte et le cœur plein du désir de la vengeance.
+
 Lorsque le maître du monde quitta ce lieu, les jeunes gens l’accompagnèrent et il continua sa route, l’âme sereine, pensif et portant haut la tête, jusqu’à ce qu’il arrivât à Kharreh-i-Ardeschir, où ses troupes et ses grands, pleins de sagesse et de bons conseils, se réunirent autour de lui.
 
 S’étant reposé pendant quelque temps, il paya la solde et marcha contre Mihrelr fils de Nouschzad.
