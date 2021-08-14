@@ -30,7 +30,7 @@ Des hommes de Best, de l’armée du Zaboulistan et des braves de Kaboul, accout
 
 Tout le champ de bataille n’était que des montagnes de morts des deux armées, jetés les uns sur les autres.
 
-Faramourz, avec quelques hommes avides de I combats, tenait bravement tête ; tout son corps était couvert de blessures faites par l’épée, car c’était un fils de lion et un lion lui-même.
+Faramourz, avec quelques hommes avides de combats, tenait bravement tête ; tout son corps était couvert de blessures faites par l’épée, car c’était un fils de lion et un lion lui-même.
 
 Il savait que ce il.
 
