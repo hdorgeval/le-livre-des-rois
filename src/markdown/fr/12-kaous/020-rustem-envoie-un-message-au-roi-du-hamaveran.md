@@ -8,7 +8,26 @@ source: tome II - livre des rois - P. 17
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Rustem envoie un message au roi du Hamaveran | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'âme',
+    'Berber',
+    'Berberistan',
+    'Bid',
+    'Dieu',
+    'Div',
+    'Hamaveran',
+    'Iran',
+    'Kaous',
+    'Keï',
+    'Mazenderan',
+    'Poulad',
+    'Raksch',
+    'Rhandi',
+    'Rustem',
+    'Tehemten',
+  ]
 order: '020'
 ---
 
