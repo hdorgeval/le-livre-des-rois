@@ -1376,6 +1376,11 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/\. car /g, ' car '),
     (content: string) => content.replace(/il se levèrent /g, 'ils se levèrent '),
     (content: string) => content.replace(/ Pirau /g, ' Piran '),
+    (content: string) => content.replace(/livrelui /g, 'livre-lui '),
+    (content: string) => content.replace(/ penSe /g, ' pense '),
+    (content: string) => content.replace(/ Nimronz /g, ' Nimrouz '),
+    (content: string) => content.replace(/atllige/g, 'afflige'),
+    (content: string) => content.replace(/ mohde /g, ' monde '),
   ].forEach((format) => {
     result = format(result);
   });
