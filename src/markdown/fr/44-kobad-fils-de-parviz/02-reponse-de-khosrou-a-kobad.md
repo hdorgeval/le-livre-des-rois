@@ -111,7 +111,8 @@ Le Créateur du monde, le maître de la justice et de la droiture, a voulu que m
 
 J’avais cherché à contenter le distributeur de la justice, mes efforts n’ont pas prévalu contre sa décision.
 
-Quand le Créateur m’interrogera, je lui dirai tout ce qui est manifeste et ce qui est caché ; or celui qui m’interrogera est plus savant que toi et plus puissant pour le bonheur et le malheur. .
+Quand le Créateur m’interrogera, je lui dirai tout ce qui est manifeste et ce qui est caché ; or celui qui m’interrogera est plus savant que toi et plus puissant pour le bonheur et le malheur.
+
 Tous ces malfaiteurs qui t’entourent ne sont ni tes amis ni tes parents et quoi que cette troupe puisse dire contre moi, elle te sera hostile à ton tour.
 
 Ils ne sont que les esclaves de l’or et de l’argent et tu ne trouveras pas parmi eux un homme secourable.
