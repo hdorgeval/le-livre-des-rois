@@ -32,7 +32,8 @@ Lorsque le vent eut séché la suscription de la lettre, on y apposa un sceau de
 
 Dans sa réponse, elle se répandit d’abord en grâces rendues à Dieu, distributeur de la justice, qui a créé la terre, construit la voûte du ciel qui tourne et a assigné dans cette voûte sa place à la bonne et à la mauvaise fortune.
 
-Il t’a rendu victorieux de Four l’Indien, de Dara et des princes du Sind ; mais la victoire sur ces princes, qui avaient tiré l’épée, a rendu vide ta tête. .
+Il t’a rendu victorieux de Four l’Indien, de Dara et des princes du Sind ; mais la victoire sur ces princes, qui avaient tiré l’épée, a rendu vide ta tête.
+
 Tu me compares à eux, tu places, par suite de tes victoires, le diadème sur ta tête ; mais ma dignité
 
 Et mon pouvoir, mon armée et mon trésor impérial me rendent supérieure à eux tous.
