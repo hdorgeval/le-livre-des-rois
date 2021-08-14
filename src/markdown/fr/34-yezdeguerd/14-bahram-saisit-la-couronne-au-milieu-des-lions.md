@@ -171,7 +171,7 @@ Le roi s’assit sur le trône d’ivoire et plaça sur son front cette couronne
 
 Khosrou s’approcha et lui rendit son hommage, disant :
 
-> Ô roi qui portes haut la tête, puis-rrses-tu être heureux sur le trône I puissent les héros du monde entier être tes esclaves !
+> Ô roi qui portes haut la tête, puis-rrses-tu être heureux sur le trône puissent les héros du monde entier être tes esclaves !
 >
 > Tu es le roi et te nous sommes tes serviteurs et nous prospérons par (a bonté.
 >
