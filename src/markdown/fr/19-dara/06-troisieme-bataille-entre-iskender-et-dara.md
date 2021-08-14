@@ -42,7 +42,8 @@ trez, si vous êtes mes amis.
 >
 > Nous serons généreux envers tous ceux qui sont blessés,.nous ne verserons plus le sang de nos ennemis ; nous ne toucherons le bien de personne ; nous dirigerons notre intelligence vers tout ce qui est juste, car le Maître de la victoire nous a donné la majesté, le pouvoir et le diadème des rois des rois.’Mais quiconque s’écarte de l’obéissance envers nous sera comme s’il mettait le pied sur le cou du dragon. »
 
-Ensuite, il distribua à ses troupes tout ce qui se trouvait sur le champ de bataille. .
+Ensuite, il distribua à ses troupes tout ce qui se trouvait sur le champ de bataille.
+
 Lorsque Dara fut arrivé de l’Iran dans le Kerman, il reconnut que deux tiers des grands de l’armée manquaient.
 
 Il y eut des cris de douleur parmi les braves et l’on ne voyait plus personne portant le casque sur la tête. il réunit les chefs pleins d’intelligence, il réunit tous ceux qui avaient combattu avec lui.
