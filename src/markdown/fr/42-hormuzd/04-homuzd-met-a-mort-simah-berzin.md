@@ -108,7 +108,7 @@ Lorsque Hormuzd eut entendu ce récit, il envoya chez son Destour, toujours prê
 
 > Cherche dans mon antique trésor une boîte très-simple, fermée par un sceau qui porte le nom de Nouschirwan, puisse son âme rester toujours jeune !
 >
-> Apporte-la-moi sur-le-champ encore pendant la I nuit et ne mets pas beaucoup de temps à la chercher. »
+> Apporte-la-moi sur-le-champ encore pendant la nuit et ne mets pas beaucoup de temps à la chercher. »
 
 Le trésorier se hâta, chercha la boîte et l’apporta, le sceau intact.
 
