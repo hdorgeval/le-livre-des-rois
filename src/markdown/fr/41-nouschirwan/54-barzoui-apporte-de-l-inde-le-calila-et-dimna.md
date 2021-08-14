@@ -76,7 +76,8 @@ Il parcourut à pied toutes les montagnes avec un savant guide et parmi les herb
 
 Il broya toutes ces espèces, sèches ou fraîches et les répandit sur des morts, mais ces herbes ne ressuscitèrent pas un seul mort ; il paraît que cette médecine avait perdu sa vertu.
 
-Il traversa à pied toutes les parties de ces montagnes ; mais sa peine ne produisit aucun fruit et il comprit que la résurrection ne peut être l’œuvre que de ce roi qui est éternel et dont le pouvoir ne cessera jamais. .
+Il traversa à pied toutes les parties de ces montagnes ; mais sa peine ne produisit aucun fruit et il comprit que la résurrection ne peut être l’œuvre que de ce roi qui est éternel et dont le pouvoir ne cessera jamais.
+
 Son cœur était agité par la crainte des railleries du roi et de ses grands ; il était contrarié d’avoir entrepris un voyage’si pénible, d’avoir apporté de si
 
 Grands présents et prononcé des paroles si insensées ; il avait le cœur serré de ce qu’il avait trouvé écrit et de ce que cet homme ignorant et au cœur de pierre avait écrit follement et légèrement une chose qui portait pour fruit des fatigues et des ’reproches.
