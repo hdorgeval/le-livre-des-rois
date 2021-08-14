@@ -110,7 +110,7 @@ Le jeune messager se rendit auprès du Pehlewan et lui répéta ce qu’on lui a
 
 L’envoyé s’en retourna et rapporta la réponse de ce fidèle serviteur au roi, qui en fut content et la peine de l’émissaire était en pure Le Sipehbed mit le lendemain matin l’armée mouvement et appela sur elle la bénédiction de Dieu.
 
-Il marcha jusqu’à la province du Khouzistan, perte. . tsans que personne eût à souffrir du passage des troupes.
+Il marcha jusqu’à la province du Khouzistan, perte. tsans que personne eût à souffrir du passage des troupes.
 
 Là une femme chargée d’un sac rempli de paille traversa l’armée ; un cavalier s’approcha et acheta le sac, mais ne le paya pas et s’éloigne.
 
