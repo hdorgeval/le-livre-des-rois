@@ -40,7 +40,8 @@ Les femmes, les enfants et les vieillards s’approcherent du roi sur la route, 
 
 > Ô roi prudent, reprends du calme, ne livre pas au feu ce pays et ne tue pas les enfants, car à la fin tes jours passeront et heureux celui qui n’a pas foulé la terre en faisant du mal ! »
 
-Mais Iskender ne leur montra aucune tendresse et aux blessés aucune pitié ; et l’on fit parmi ce peuple de nombreux captifs, des femmes, des petits enfants, des hommes jeunes et vieux. .
+Mais Iskender ne leur montra aucune tendresse et aux blessés aucune pitié ; et l’on fit parmi ce peuple de nombreux captifs, des femmes, des petits enfants, des hommes jeunes et vieux.
+
 Il alla de là dans le Nimrouz, par la voie de Bost et purgea le monde de tous ses ennemis.
 
 Ensuite, il partit pour le pays de Yémen, avide de la possession du monde et suivi d’une armée glorieuse.
