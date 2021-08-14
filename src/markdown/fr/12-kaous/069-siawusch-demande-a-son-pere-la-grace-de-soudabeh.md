@@ -22,7 +22,7 @@ Il était en courroux et manda Soudabeh devant lui ; il lui reprocha tout ce qui
 
 Quel jeu as-tu donc et joué jusqu’à la fin, en conspirant contre la vie de mon fils, en le précipitant dans le feu et en pratiquant les arts magiques contre lui ?
 
-Le repentir ne te servira plus ; il faut que tu renonces à la vie et I que tu te prépares à la mort.
+Le repentir ne te servira plus ; il faut que tu renonces à la vie et que tu te prépares à la mort.
 
 Tu ne peux pas rester sur la terre et ta récompense sera le gibet. »
 
