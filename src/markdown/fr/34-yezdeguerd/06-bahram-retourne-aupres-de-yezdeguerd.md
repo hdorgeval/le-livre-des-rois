@@ -23,7 +23,7 @@ Ce soleil vainqueur ; et Bahram, le lion, dit à Mondhir :
 > Je resterais volontiers plus longtemps chez toi, mais le désir de voir mon père est né en moi et comme je serai libre de soucis chez lui, mon cœur m’y pèussem Mondhir prépara tout convenablement, des présents royaux tirés du pays de Yémen, des chevaux arabes avec des brides d’or. puis tout ce qui passait pour précieux, des étoffes rayées et des épées du Yémen, des pierres fines de toute espèce, dont les mines sont àrAden.
 
 Noman, que Yezdeguerd tenait grandement en honneur, accompagnait le prince et c’est ainsi qu’ils cheminèrent jusqu’à Isthakhr, en parlant de ce qui se. raconte sur les rois. ’
-Lorsque Yezdeguerd apprit que son fils et Noman, l’Arabe, arrivaient, tous les Mobeds et les sages au I cœur éveillé qui se trouvaient à la cour allèrent à leur rencontre ; et quand le roi vit de loin Bahram et sa mine majestueuse, ses membres et sa taille, il resta étonné de le voir si grand, si instruit et si beau.
+Lorsque Yezdeguerd apprit que son fils et Noman, l’Arabe, arrivaient, tous les Mobeds et les sages au cœur éveillé qui se trouvaient à la cour allèrent à leur rencontre ; et quand le roi vit de loin Bahram et sa mine majestueuse, ses membres et sa taille, il resta étonné de le voir si grand, si instruit et si beau.
 
 Il lui fit beaucoup de questions, le reçut gracieusement et lui fit préparer un appartement auprès du sien.
 
