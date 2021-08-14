@@ -16,7 +16,7 @@ order: '021'
 
 # Les Roumis préparent une figure magique et soumettent les Iraniens à une épreuve
 
-Lorsque le soleil qui tourne eut pâli et que l’astre I eut paru dans la constellation de Sirius, le Kaisar ordonna aux magiciens de réfléchir longuement.
+Lorsque le soleil qui tourne eut pâli et que l’astre eut paru dans la constellation de Sirius, le Kaisar ordonna aux magiciens de réfléchir longuement.
 
 Péparez, dit-il, quelque part une œuvre merveilleuse de magie, que personne ne puisse distinguer d’un corps humain, une figure de belle femme assise sur un trône paré, vêtue modestement d’une longue robe, ayant des deux côtés des suivantes et devant et derrière des esclaves.
 
