@@ -36,7 +36,7 @@ Il resta dans ce pays pendant quatre mois et pendant que lui et son armée se re
 
 Tous ses grands revinrent auprès de lui ; ils vinrent pleins de douleur et de chagrin cuisant.
 
-Les pères quine revoyaient plus leurs fils pleuraient et les fils pleuraient quand ils ne retrouvaient pas leurs pères ; tout le pays d’Iran était rempli de lamentations et les larmes tombaient des yeux comme une I grêle.
+Les pères quine revoyaient plus leurs fils pleuraient et les fils pleuraient quand ils ne retrouvaient pas leurs pères ; tout le pays d’Iran était rempli de lamentations et les larmes tombaient des yeux comme une grêle.
 
 De Djehrem il se dirigea sur Ithakhr, qui était la gloire du pays des Perses.
 
