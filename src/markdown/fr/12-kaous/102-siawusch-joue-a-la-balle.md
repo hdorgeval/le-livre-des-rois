@@ -38,7 +38,7 @@ Guersiwez dit à Siawusch :
 
 Siawusch posa les mains sur la poitrine en oigne d’ obéissance, quitta le trône où il était assis et monta à cheval.
 
-On lia ensemble cinq cuirasses, I dont chacune était assez lourde pour fatiguer la poitrine d’un homme ; on les plaça au bout de la lice et toute l’armée regarda Siawusch pour voir ce qu’il allait faire.
+On lia ensemble cinq cuirasses, dont chacune était assez lourde pour fatiguer la poitrine d’un homme ; on les plaça au bout de la lice et toute l’armée regarda Siawusch pour voir ce qu’il allait faire.
 
 Il prit une lance digne d’un roi ; c’était un souvenir de son père, qui s’en était servi dans la guerre du Mazenderan et en avait percé des lions à la chasse.
 
