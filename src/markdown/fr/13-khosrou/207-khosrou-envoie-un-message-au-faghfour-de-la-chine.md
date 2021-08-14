@@ -32,7 +32,8 @@ Tous les hommes de sens dirent :
 
 > S’il passe par notre pays sans y faire de mal, nous ferons de grandes largesses aux pauvres, nous lui préparerons des présents et des vivres. »
 
-Le messager reçut des cadeaux infinis et revint à la cour content et heureux. .
+Le messager reçut des cadeaux infinis et revint à la cour content et heureux.
+
 Mais le messager illustre qui alla chez le roi du Mekran le trouva dans une tout autre disposition d’esprit.
 
 Il se rendit devant son trône, lui remit la lettre et s’acquitte du message qu’il gardait dans sa.
