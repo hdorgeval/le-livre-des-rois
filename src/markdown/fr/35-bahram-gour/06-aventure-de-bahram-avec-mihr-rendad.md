@@ -36,7 +36,7 @@ Un vieillard sortit de la forêt et ses lèvres prononcèrent des paroles douces
 
 Son nom était Mihr Bendad ; il se réjouit de ce coup d’épée.
 
-C’était un cultivateur, adorateur de Dieu, qui avait sa demeure I dans cette forêt.
+C’était un cultivateur, adorateur de Dieu, qui avait sa demeure dans cette forêt.
 
 Lorsqu’il fut arrivé auprès du roi
 -d’[ran, il le bénit et lui fit des salutations, disant :
