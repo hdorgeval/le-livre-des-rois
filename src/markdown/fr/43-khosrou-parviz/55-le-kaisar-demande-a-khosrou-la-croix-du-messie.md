@@ -122,7 +122,7 @@ Le scribe, qui était un homme éloquent et observateur, regarda la suscription 
 
 Lorsque la lecture de cette lettre fut terminée, le maître du monde, qui avait écouté toutes ces paroles, s’en réjouit dans son âme et il sentit la fortune des rois refleurir en lui.
 
-Il combla de louanges I Khaneghi et lui dit :
+Il combla de louanges Khaneghi et lui dit :
 
 > Ne te regarde pas comme étranger ici. »
 
