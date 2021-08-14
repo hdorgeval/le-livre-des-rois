@@ -234,7 +234,8 @@ Khosrou, tantôt parlant, tantôt pleurant, lui demanda son nom ; l’ange répo
 >
 > Tu seras dorénavant le roi du monde, garde-toi de te conduire autrement que les hommes purs. »
 
-Il dit et disparut devant ses yeux ; jamais on n’a vu chose plus étonnante. .
+Il dit et disparut devant ses yeux ; jamais on n’a vu chose plus étonnante.
+
 Bahram, à cette vue, resta confondu ; il invoqua à plusieurs reprises le nom de Dieu, Créateur du monde et dit :
 
 > À Dieu ne plaise que mon courage faiblisse lorsque mes ennemis sont des hommes, x mais maintenant que j’ai a me battre contre des Péris, il faut pleurer sur ma fortune, qui s’obsncursitm Bahram partit de là, le cœur rempli de douleur et se repentant de tout ce qu’il avait entrepris.
@@ -257,7 +258,7 @@ Quand Khosrou fut arrivé près de Mariam, il lui raconta la chose merveilleuse 
 >
 > Dans cette fente où j’étais abandonné sans compagnon, j’ai invoqué dans ma douleur le Créateur et le Seigneur, qui tient. cachées les affaires du monde, a dévoilé le secret devant son serviteur.
 >
-> Jamais ni le Fortuné Feridoua, ni Tour, ni Slem, ni Al’rasiab n’ont vu en songe une chose pareille, un présage de victoire et de pouvoir royal, tel que je l’ai vu aujourd’hui.
+> Jamais ni le Fortuné Feridoua, ni Tour, ni Slem, ni Afrasiab n’ont vu en songe une chose pareille, un présage de victoire et de pouvoir royal, tel que je l’ai vu aujourd’hui.
 >
 > Ô vous qui portez haut la tête !
 >
