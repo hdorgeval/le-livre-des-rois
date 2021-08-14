@@ -39,7 +39,7 @@ Il répandit dans le monde la droiture et les grands et les petits étaient heur
 >
 > Voyez ce qu’ont fait, depuis Djemschid et le roi Kaous, ceux qui ont suivi la voie du Div ; mon père a choisi la même route et n’a pas lavé son âme sombre avec l’eau de la raison et tous ses sujets ont eu à trembler devant lui et dans sa colère il en a fait périr un grand nombre.
 >
-> Il est parti et il n’est resté de lui qu’un mauvais renom ; personne ne le bénit, c’est à moi de prononcer des bénédictions sur son âme ; à Dieu ne plaise que les haines qu’il a laissées derrière lui l’assent trembler ses mânes] et maintenant que je suis assis sur son trône, j’espère que son âme trouvera la route du ciel. .
+> Il est parti et il n’est resté de lui qu’un mauvais renom ; personne ne le bénit, c’est à moi de prononcer des bénédictions sur son âme ; à Dieu ne plaise que les haines qu’il a laissées derrière lui l’assent trembler ses mânes] et maintenant que je suis assis sur son trône, j’espère que son âme trouvera la route du ciel.
 >
 > J’implore le Créateur du monde, pour qu’il il m’ accorde en toute occasion la force d’être bon pour mes sujets et de convertir la terre vile en musc pur, pour que personne, quand mon corps sera couché dans la poussière, ne puisse saisir le pan de me robe parce que j’aurais manqué de justice n envers lui.
 >
