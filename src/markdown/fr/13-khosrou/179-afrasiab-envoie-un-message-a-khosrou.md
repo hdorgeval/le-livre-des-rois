@@ -71,7 +71,7 @@ Porte à Keï Khosrou mon message et dis-lui :
 R-Si mon ennemi refuse d’obéir au message que
 1v.
 
-Il tu portes, s’il recule et ne veut pas consentir à ce queje propose, alors provoque-le à un combat corps à corps, loin de l’armée. »
+Il tu portes, s’il recule et ne veut pas consentir à ce que je propose, alors provoque-le à un combat corps à corps, loin de l’armée. »
 
 Pescheng choisit parmi les chyle : intelligents quatre hommes qui avaient souvent souffert la chaleur et le froid du monde, ensuite il rendit ses hommages au roi et sortit ; son père avait les yeux remplis de larmes et le cœur gonflé de sang.
 
