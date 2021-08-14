@@ -164,7 +164,7 @@ que veux-tu avec ces mauvais présages ?a La femme lui dit :
 >
 > Ce n’est pas sans ce raison que je parle ainsi.
 >
-> Lorsque le roi, maître du I monde, devient injuste, la lune ne peut plus luire au hautdu ciel, le lait se dessèche dans le pis de la vache, le musc perd son parfum dans la bourse la de la gazelle, l’adultère et l’hypocrisie apparaissent, le cœur le plus tendre devient dur comme le rocher, le loup dévore l’homme dans le désert, le sage s’enfuit devant l’homme insensé et l’œuf devient sŒrile sous la poule aussitôt que le roi re-0 à la juslice.
+> Lorsque le roi, maître du monde, devient injuste, la lune ne peut plus luire au hautdu ciel, le lait se dessèche dans le pis de la vache, le musc perd son parfum dans la bourse la de la gazelle, l’adultère et l’hypocrisie apparaissent, le cœur le plus tendre devient dur comme le rocher, le loup dévore l’homme dans le désert, le sage s’enfuit devant l’homme insensé et l’œuf devient sŒrile sous la poule aussitôt que le roi re-0 à la juslice.
 >
 > La pâture de cette vache n’a pas été diminuée, le réservoir dans lequel elle boit est ce resté ce qu’il était et pourtant son lait s’est desséché dans le pis et sa robe, qui était noire comme la poix, a perdu son brillant. »
 
