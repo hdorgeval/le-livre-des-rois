@@ -80,7 +80,7 @@ Je ne comprends pas comment tu pourras agir avec si peu de monde au jour de la b
 >
 > Un jeune homme voit un appât et tombe dans une embûche ; il n’a pas de patience au moment où il faudrait tarder ; il n’a ni femme, ni enfants, ni champs ensemencés ; il ne distingue pas ce qui a de la valeur de ce qui n’en a pas ; et comme on ne peut pas acquérir de l’intelligence sans expérience, il ne comprend pas ce qui est important dans une affaire.
 >
-> S’il est victorieux dans le combat, il est heureux, se réjouit et s’arrête et s’il est vaincu, il s’enfuit et son ennemi ne voit de lui quevle des. »
+> S’il est victorieux dans le combat, il est heureux, se réjouit et s’arrête et s’il est vaincu, il s’enfuit et son ennemi ne voit de lui que le des. »
 
 À ces paroles, le visage du roi devint frais comme une rose de printemps :
 
