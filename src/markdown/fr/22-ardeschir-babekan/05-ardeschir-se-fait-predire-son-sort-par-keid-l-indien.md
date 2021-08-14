@@ -82,4 +82,4 @@ Mais la fille de Mihrek l’ayant appris, se leva, quitta la maison de son père
 
 Elle grandit comme un cyprès élancé et devint intelligente, gracieuse et pleine de dignité.
 
-Dans ce pays elle n’avait pas son égale et I dans toute la région il n’y avait pas de femme à taille de cyprès comme elle.
+Dans ce pays elle n’avait pas son égale et dans toute la région il n’y avait pas de femme à taille de cyprès comme elle.
