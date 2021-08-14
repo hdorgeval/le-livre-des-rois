@@ -42,7 +42,7 @@ Le sage lui répondit :
 
 Les paroles du savant plurent au roi ; il tira du profit de ses discours et dit aux vieillards de Milad :
 
-> Je ne romprai pas le traité juste que j’ai fait avec ’Keïd aussi longtemps queje resterai sur la terre et il faut que vous tous lui obéissiez.
+> Je ne romprai pas le traité juste que j’ai fait avec ’Keïd aussi longtemps que je resterai sur la terre et il faut que vous tous lui obéissiez.
 >
 > Puisque j’ai reçu de lui quatre choses aussi précieuses, nous ne lui demanderons jamais rien de plus. »
 
