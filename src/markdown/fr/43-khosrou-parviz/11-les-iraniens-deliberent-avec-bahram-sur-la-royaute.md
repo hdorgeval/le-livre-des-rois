@@ -50,7 +50,7 @@ Ayant ainsi parlé, il se rassit à sa place et le Sipehbed Khorasan s’avança
 >
 > Quand il dit tout ce bien de toi, le cœur de l’assemblée s’en réjouit.
 >
-> Mais il y a une belle parole que vous, hommesà l’esprit pur, voudrez peut-être vu. . 7
+> Mais il y a une belle parole que vous, hommesà l’esprit pur, voudrez peut-être vu. 7
 >
 > écouter et que Zerdouscht prononce dans le Zend-
 Avesta, la voici : Quiconque s’écarte du Créateur tout-puissant, donnez-lui pendant un an des conseils et fournissez-lui ce dont il a besoin ; si, au bout de l’année, il n’est pas revenu à la vraie voie, il faut le tuer sur l’ordre du roi ; mais quand il devient l’ennemi du roi distributeur de la justice, il faut se hâter de lui trancher la tête. »
