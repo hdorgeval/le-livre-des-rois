@@ -105,7 +105,7 @@ Le roi lui dit :
 
 > Tu as supporté beaucoup de peines, jouis maintenant de tes trésors, ô homme éprouvé ! »
 
-Gouderz et ses fils bénirent le roi, ils baissèrent la tête jusqu’à I terre et chacun célébrait la gloire de Kaous.
+Gouderz et ses fils bénirent le roi, ils baissèrent la tête jusqu’à terre et chacun célébrait la gloire de Kaous.
 
 Ensuite le,roi fit apprêter pour Ferenguis un pavillon doré, il y fit porter des colliers et des boucles d’oreilles, fit placer dans les salles des trônes d’or et couvrit les murs de brocarts de la Chine.
 
