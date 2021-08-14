@@ -42,7 +42,7 @@ Il choisit dans l’armée un Pehlewan qu’il pourrait charger du gouvernement 
 
 Lui-même partit, rempli de ses plans, de Balkh pour Reî, le . jour heureux de Khordad du mois de Deî de 6 décembre).
 
-Il pensa à tout, aux grandes choses et aux I petites et il ordonna aux préposés de la monnaie de s faire un nouvel arrangement et de frapper des dirhems au nom de Khosrou Pamiz.
+Il pensa à tout, aux grandes choses et aux petites et il ordonna aux préposés de la monnaie de s faire un nouvel arrangement et de frapper des dirhems au nom de Khosrou Pamiz.
 
 Un des marchands les plus intelligents, les plus beaux parleurs et les plus propres à une affaire délicate, apporta chez a ; dans une caisse les dirhems frappés avec ce coin,ct dit qu’il fallait les transporter à’Thisifoun et les employer à acheter les plus beaux brocarts de Roum brochés en soie et en or pur, pour qu’on portât au roi de ces pièces et qu’il en vît l’empreinte.
 
