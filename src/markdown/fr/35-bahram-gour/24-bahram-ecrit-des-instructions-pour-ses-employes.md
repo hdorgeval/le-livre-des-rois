@@ -21,7 +21,7 @@ Le troisième jour on prépara une fête pour les nobles et l’on plaça un scr
 
 Si quelqu’un a à se plaindre de mes employés, de mes et tiers et vaillants cavaliers, cerne-ci n’ont à s’attendre qu’à la prison et au gibet, ou à être mis à mort et jetés avec mépris dans la poussière.
 
-Ell’orcez-vous de diminuer les peines des hommes, de soulager le cœur des affligés et de les réndre heureux, car le monde n’est resté et ne restera à personne ; cherchez donc à ne pas faire de mal et à être Je suis un exemple de ce queje dis et mon sort justes. »
+Ell’orcez-vous de diminuer les peines des hommes, de soulager le cœur des affligés et de les réndre heureux, car le monde n’est resté et ne restera à personne ; cherchez donc à ne pas faire de mal et à être Je suis un exemple de ce que je dis et mon sort justes. »
 
 J est un motif pour agir avec droiture.
 
