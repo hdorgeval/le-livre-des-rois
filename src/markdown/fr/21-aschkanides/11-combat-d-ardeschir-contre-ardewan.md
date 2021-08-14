@@ -56,7 +56,7 @@ Le bourreau s’approcha et exécuta l’ordre et ce prince illustre disparut du
 
 C’est ainsi qu’agit la vieille voûte du ciel, tantôt entiers Ardewan, tantôt envers Ardeschir ; tous ceux qu’elle élève jusqu’aux astres, elle linit par les jeter dans la poussière obscure.
 
-Deux fils d’Ardewan lurent faits prisonniers avec I lui et la race d’Areseh dépérit par sa faute ; on mit des Ters aux pieds de ces deux princes et le puissant roi les envoya en prison.
+Deux fils d’Ardewan lurent faits prisonniers avec lui et la race d’Areseh dépérit par sa faute ; on mit des Ters aux pieds de ces deux princes et le puissant roi les envoya en prison.
 
 Les deux lils aines s’enfuirent de la bataille et ne lurent pas pris dans les la-
 
@@ -90,4 +90,4 @@ Plus tard, lorsque ce savant, majestueux et puissant roi fut mort, le gouverneur
 
 Ardeschir bâtittoutautour des villages, car lorsqu’il fonda la ville, le pays était inhabité ; il trouva d’un côté de la ville des eaux profondes, mais il fallait percer une montagne pour les amener ; les ouvriers y portèrent leurs ciseaux et l’on ouvrit dans la montagne cent canaux, qui se dirigèrent vers.
 
-Gour et cette grande ville se remplit I d’habitations et d’animaux.
+Gour et cette grande ville se remplit d’habitations et d’animaux.
