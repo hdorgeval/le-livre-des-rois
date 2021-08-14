@@ -130,7 +130,7 @@ Et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils
 >
 > Tu ne l’as pas se-»couru au jour fatal, bien qu’il t’ait souvent imploré dans sa détresse.
 
-En huitième lieu tu dis que tu l’emportes sur moi par ton trône et la couronne, par la bravoure et ta fortune, par ton armée et tes trésors, mais que ton cœur souffre de pitié. .lc crois que tu m’as suffisamment éprouvé jusqu’ici dans les combats et tu sais si tu m’as trouvé dépourvu de bravoure au jour de la bataille. [hagarde-0i donc de la tête aux pieds ; car il se pourrait que mon trésor et mon [II7 trône, que ma couronne et mon courage me missent à ta hauteur.
+En huitième lieu tu dis que tu l’emportes sur moi par ton trône et la couronne, par la bravoure et ta fortune, par ton armée et tes trésors, mais que ton cœur souffre de pitié.lc crois que tu m’as suffisamment éprouvé jusqu’ici dans les combats et tu sais si tu m’as trouvé dépourvu de bravoure au jour de la bataille. [hagarde-0i donc de la tête aux pieds ; car il se pourrait que mon trésor et mon [II7 trône, que ma couronne et mon courage me missent à ta hauteur.
 
 En dernier lieu tu demandes que je choisisse quelques braves pour champions et tu promets d’amener de ton côté quelques cavaliers turcs prêts à verser du sang, parce que la pitié profonde que tu éprouves pour ton armée te fait désirer de mettre des bornes aux violences et aux vengeances ; et tu m’exhortes à agir avec humanité et à montrer les qualités cachées de mon cœur et de ma raison.
 
