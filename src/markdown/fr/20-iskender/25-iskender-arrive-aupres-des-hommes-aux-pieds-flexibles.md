@@ -28,7 +28,7 @@ Iskender leur adressa des questions et les reçut amicalement, avec des honneurs
 
 On dressa sur la plaine l’enceinte de ses tentes et son armée campa tout autour.
 
-Il vit une montagne qui isxrlNosa. . s’élevait jusqu’aux étoiles : il semblait qu’elle arracherait le ciel.
+Il vit une montagne qui isxrlNosa. s’élevait jusqu’aux étoiles : il semblait qu’elle arracherait le ciel.
 
 Sur cette montagne ne demeuraient que peu d’hommes et aucun d’eux n’y restait la nuit.
 
