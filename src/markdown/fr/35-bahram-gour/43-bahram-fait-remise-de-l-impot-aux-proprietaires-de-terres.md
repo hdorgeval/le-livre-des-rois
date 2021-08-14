@@ -71,7 +71,8 @@ Les receveurs devaient se tenir dans les bureaux, entourés de pompe et portant 
 
 Son but était d’empêcherrles hommes désœuvrés de verser du sang et d’entraîner au mal les autres ; mais ses agents lui écrivirent que la confiance dans la justice avait disparu du monde, que Ceux qui avaient de l’argent ne payaient pas l’impôt et que leur envie de querelles ne faisait que s’accroître, que pour s’agrandir ils se servaient de fraudes, qu’ils ne faisaient que vexer et opprimer le peuple.
 
-Lorsque Bahram eut lu ces lettres, son cœur fut troublé de cet état des choses ; il choisit dans chaque province des gardiens de la frontière dont le cœur était plein de justice comme il le fallait et leur ordonna d’appliquer la loi de Dieu à tous ceux qui versaient du sang ou pervertissaient la justice, pour que tout homme pût subsister. .
+Lorsque Bahram eut lu ces lettres, son cœur fut troublé de cet état des choses ; il choisit dans chaque province des gardiens de la frontière dont le cœur était plein de justice comme il le fallait et leur ordonna d’appliquer la loi de Dieu à tous ceux qui versaient du sang ou pervertissaient la justice, pour que tout homme pût subsister.
+
 Il se passa ainsi un temps fort long, au bout duquel le roi fit écrire une lettre aux hommes véridiques et observateurs qu’il avait établis partout et leur demanda s’il y avait dans le monde quelque chose de nuisible et qui portait dommage à l’empire.
 
 Ils lui répondirent :
