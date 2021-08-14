@@ -24,7 +24,7 @@ Kesra dit :
 
 > Ô vous, sages qui connaissez le monde et vous, nobles qui. avez fait de grandes actions !
 >
-> J’ai appris des Heïtaliens, des Turcs, du I Khakan de la Chine et des chefs des frontières du pays de Touran, des nouvelles qui ne me plaisent pas, des choses pénibles et fâcheuses.
+> J’ai appris des Heïtaliens, des Turcs, du Khakan de la Chine et des chefs des frontières du pays de Touran, des nouvelles qui ne me plaisent pas, des choses pénibles et fâcheuses.
 >
 > Des armées innombrables de gens de Djadj, de Turcs, de Chinois et d’hommes de Khoten se sont rassemblées et se sont battues. couvertes de casques et frappant de l’épée pendant sept jours, sans ôter les selles du dos de leurs chevaux ; à la fin les Heïtaliens ont été défaits et peut-être deux tiers d’entre eux ont été blessés ou tués.
 >
