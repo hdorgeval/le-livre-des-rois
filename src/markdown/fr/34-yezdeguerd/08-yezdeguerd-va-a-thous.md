@@ -89,8 +89,7 @@ Que peux-tu demander à ces sept orbites du ciel ?
 
 Tu n’échappes pas à leur rotation, mais à quoi sert-il de les adorer ?
 
-Adresse-toi à Dieu et fais de lui ton asile ; il est le maître du soleil et de la Quand le roi fut mort, le cheval qui était sorti de lune qui tourne. .
-l’eau courut vers cette source bleue ,\* et son corps disparut sous l’eau ; personne dans le monde n’a jamais vu un pareil prodige.
+Adresse-toi à Dieu et fais de lui ton asile ; il est le maître du soleil et de la Quand le roi fut mort, le cheval qui était sorti de lune qui tourne. l’eau courut vers cette source bleue ,\* et son corps disparut sous l’eau ; personne dans le monde n’a jamais vu un pareil prodige.
 
 Il s’éleva du cortège un cri. [ comme un coup de’timbale : t.) roi !
 
