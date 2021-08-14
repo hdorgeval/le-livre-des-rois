@@ -52,7 +52,7 @@ Bahram dit au Mobed :
 >
 > Le Maître du monde m’a rendu victorieux, il a converti en jour la nuit sombre qui pesait sur ma fortune ; mais celui qui est roi des rois de Roum, qui est maître et seigneur d’un grand pays, est un homme puissant ; de plus, il est descendant de Selm, sur la tête duquel Feridoun a placé la couronne.
 >
-> Jusqu’ici il s’est conduit bien et sagement, il n’est pas tombé dans la folie comme le Khakan. .I’appellerai donc 3 son envoyé à l’heure de l’audience pour voir s’il a quelque chose de raisonnable à dire, puis je le R renverrai gracieusement. car l’opinion des hommes (r ne m’est pas indifférente.
+> Jusqu’ici il s’est conduit bien et sagement, il n’est pas tombé dans la folie comme le Khakan.I’appellerai donc 3 son envoyé à l’heure de l’audience pour voir s’il a quelque chose de raisonnable à dire, puis je le R renverrai gracieusement. car l’opinion des hommes (r ne m’est pas indifférente.
 >
 > L’un veut des combats et amène une armée, un autre veut des fêtes et apporte un diadème d’or et c’est à moi de distinguer ce qu’ils valent.
 >
