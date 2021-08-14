@@ -56,7 +56,7 @@ Il s’approcha de lui, le bénit, et, le cœur blessé, lui dit tout ce qu’il
 
 Quoique j’aie peu de raison, je suis confus de voir ce que tu l’ais ; de voir que tu as converti ce champ de bataille en un jardin et que ton cœur a cessé de s’occuper de la lutte contre les Turcs.
 
-Dis-moi pourquoi, dans cette guerre, le repos règne jour et nuit ; pourquoi le soleil ne voit pas les épées des héros : pourquoi la poussière ne tourbillonne I pas dans les airs.
+Dis-moi pourquoi, dans cette guerre, le repos règne jour et nuit ; pourquoi le soleil ne voit pas les épées des héros : pourquoi la poussière ne tourbillonne pas dans les airs.
 
 Dis-le-moi, afin que je m’élance au combat, afin que je me ceigne pour la bataille.
 
@@ -105,7 +105,8 @@ Maintenant je te permets de combattre contre Houman, dans l’espoir que ta bonn
 
 Au nom de Dieu notre Seigneur le maître du monde, au nom des victoires du roi de ces braves, l’ais un effort pour que ta main anéantisse cet Ahriman, selon l’ordre de Dieu.
 
-Je vais ordonner à Guiv de le remettre la cotte de mailles que tu demandes ; et si tu remportes la victoire, les plus grands honneurs t’attendent auprès de moi ; je le placerai au-dessus de Guiv et de Ferhad, je te donnerai plus de trésors et de troupes, un trône et un diadème plus beau qu’à aux : Ainsi parla le grand-père ; et son petit-fils plein de ruse et de sagacité descendit de cheval, baisa la terre et bénit son grandpère. .
+Je vais ordonner à Guiv de le remettre la cotte de mailles que tu demandes ; et si tu remportes la victoire, les plus grands honneurs t’attendent auprès de moi ; je le placerai au-dessus de Guiv et de Ferhad, je te donnerai plus de trésors et de troupes, un trône et un diadème plus beau qu’à aux : Ainsi parla le grand-père ; et son petit-fils plein de ruse et de sagacité descendit de cheval, baisa la terre et bénit son grandpère.
+
 Le Pehlewan fit venir Guiv et lui parla du jeune homme et de la cotte de mailles royale qu’il demandait à porter dans le combat.
 
 Guiv répondit à son père :
