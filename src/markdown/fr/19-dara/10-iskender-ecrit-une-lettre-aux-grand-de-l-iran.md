@@ -51,7 +51,7 @@ Vous, recherchez la justice et soyez obéissants ; faites de vos âmes les garan
 Mon cœur pur est plein du deuil de Data,
 \* et je ferai tout pour exécuter ses dernières volontés.
 
-Quiconque se présentera à ma cour recevra de l’or, des honneurs, des trônes et des diadèmes ; et s’il I veut résider en paix dans son palais, il n’a qu’à rester fidèle à ses devoirs envers moi !
+Quiconque se présentera à ma cour recevra de l’or, des honneurs, des trônes et des diadèmes ; et s’il veut résider en paix dans son palais, il n’a qu’à rester fidèle à ses devoirs envers moi !
 
 Envoyez dans mon trésor tout ce qui est dû et dorénavant personne n’éprouvera plus de peines et de chagrins.
 
