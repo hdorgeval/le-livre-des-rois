@@ -1357,6 +1357,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ en coulère /g, ' en colère '),
     (content: string) => content.replace(/malheurà/g, 'malheur à'),
     (content: string) => content.replace(/suisprêt/g, 'suis prêt'),
+    (content: string) => content.replace(/ I /g, ' '),
+    (content: string) => content.replace(/ Tarcs /g, ' Turcs '),
   ].forEach((format) => {
     result = format(result);
   });
