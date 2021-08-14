@@ -42,7 +42,8 @@ Lorsque Iskender fut né de sa sainte mère et qu’on en donna la bonne nouvell
 
 Le Kaïsar leva les bras au ciel. en apprenant cette naissance, qu’il regardait comme un présage heureux.
 
-Dès le grand matin il fit apporter l’enfant et amener la jument toute parée et passa la main sur les yeux et la crinière du poulain, qui se trouvait avoir le même âge qu’Iskender. .
+Dès le grand matin il fit apporter l’enfant et amener la jument toute parée et passa la main sur les yeux et la crinière du poulain, qui se trouvait avoir le même âge qu’Iskender.
+
 Le ciel tourna de nouveau pendant quelque temps et des années passèrent heureuses et malheureuses.
 
 Iskender s’accoutuma à penser comme un roi et à parler comme un homme de guerre ; le Kaïsar en faisait plus de cas que s’il avait été son fils et se plaisait à orner sa poitrine guerrière.
