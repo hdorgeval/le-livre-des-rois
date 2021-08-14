@@ -24,7 +24,7 @@ Il lui ordonna d’écrire une lettre au roi pour lui donner des nouvelles de l�
 
 Il raconta de point en point l’histoire de Houman et de Nestihen les vaillants guerriers et les hauts faits de Bijen aujour de la bataille et comment il avait traité les Touraniens armés de massues ; il exposa tout cela. dans la lettre, tel que c’était arrivé.
 
-Ensuite, il se mit à parler d’Al’rasiab, qui s’approchait avec une armée des bords du Djihoun et il ajouta :
+Ensuite, il se mit à parler d’Afrasiab, qui s’approchait avec une armée des bords du Djihoun et il ajouta :
 
 > Tu sais, ô roi de l’Iran maître du monde, que s’il passe le fleuve avec son armée, s’il entre dans l’Iran et arrive sur ce champ de bataille, nous ne pourrons lui tenir ce tête.
 >
