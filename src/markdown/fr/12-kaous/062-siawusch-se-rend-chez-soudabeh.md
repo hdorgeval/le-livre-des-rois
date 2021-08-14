@@ -40,7 +40,7 @@ Tout l’appartement était orné comme un paradis et rempli de femmes au beau v
 
 Quand Siawusch arriva à l’entrée de la grande salle. il y vit un trône resplendissant d’or,
 
-’ I tout incrusté de turquoises et orné de brocarts dignes d’un roi.
+’ tout incrusté de turquoises et orné de brocarts dignes d’un roi.
 
 Sur ce trône était assise Soudabeh au visage de lune, belle de couleur et de parfum comme un paradis ; elle était assise, semblable au brillant Canope du Yemen, couverte de boucles de cheveux qui tombaient l’une sur l’autre, elle portait sur la tête une haute couronne et les tresses de ses cheveux de musc descendaient jusque sur ses pieds.
 
