@@ -26,7 +26,7 @@ Elle salua Rustem et lui dit :
 >
 > Puisse le ciel sublime agir toujours selon tes vœux !
 >
-> Puisse l’œil du méchant être impuissant contre toi I puissent les peines que tu endures ne pas démentir l’espérance à laquelle tient ton cœur !
+> Puisse l’œil du méchant être impuissant contre toi puissent les peines que tu endures ne pas démentir l’espérance à laquelle tient ton cœur !
 >
 > Puisse toujours la raison te servir de guide !
 >
@@ -91,7 +91,7 @@ Menijeh lui répondit :
 >
 > Le malheureux Bijen ne distingue dans son cachot profond ni le jour de la nuit, ni le soleil de la lune.
 >
-> Attaché par un collier, par des clous et de lourdes chaînes, il demande à Dieu de lui accorder plutôt la mort qu’une telle existence. .I suis accablée de douleurs et mes yeux en sont desséchés.
+> Attaché par un collier, par des clous et de lourdes chaînes, il demande à Dieu de lui accorder plutôt la mort qu’une telle existence.I suis accablée de douleurs et mes yeux en sont desséchés.
 >
 > Maintenant, si tu vas dans l’Iran, tu t’informeras de a Gouderz fils de Keschwad ; et peut-être tu verras, à
 >
