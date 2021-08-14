@@ -90,7 +90,7 @@ Il s’empressa de monter sur un cheval arabe isabelle et s’élance de peur qu
 > La mauvaise fortune a mis ;
 ’sa marque sur eux.
 >
-> Ce n’est pas un temps peurs dire des secrets ni un jour pour parler, courez avec I vos vieilles épées, faites pleuvoir sur eux une pluie de traits, faites un effort, agissez comme il convient à des cavaliers. »
+> Ce n’est pas un temps peurs dire des secrets ni un jour pour parler, courez avec vos vieilles épées, faites pleuvoir sur eux une pluie de traits, faites un effort, agissez comme il convient à des cavaliers. »
 
 Il monta sur la colline ou Saweh s’était tenu sur son trône et avec son diadème d’or et il le vit sur un cheval arabe, semblable à un lion et bondissant vers la plaine comme un tigre.
 
