@@ -38,7 +38,7 @@ Le monde ne s’effraye pas de chose pareille : il élève comme un ouragan, il 
 
 Tu n’en pénétreras ni les moyens ni le but ; et ni le pauvre ni le roi n’y peuvent rien.
 
-Il faut être bienfaisant, humain, vaillant, bon et joyeux ; hors I de là je ne vois pour toi aucune part dans le monde, que tu sois obscur ou illustre ; mais si tu laisses dans le monde un mauvais renom, le pardon de Dieu et le joyeux paradis te seront refusés.
+Il faut être bienfaisant, humain, vaillant, bon et joyeux ; hors de là je ne vois pour toi aucune part dans le monde, que tu sois obscur ou illustre ; mais si tu laisses dans le monde un mauvais renom, le pardon de Dieu et le joyeux paradis te seront refusés.
 
 Telle est la coutume de ce vieux monde ; Iskender est parti et ne vit que dans les paroles des hommes ; il avait tué trentesix rois, regarde ce qui lui reste dans la main.
 
