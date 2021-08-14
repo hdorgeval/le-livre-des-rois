@@ -36,7 +36,7 @@ Keïderousch lui conta tout ce qui lui était arrivé, il lui conta, les joues p
 
 -n’y avait plus ni diadème, ni trône, ni armée, ni trésor.
 
-L’homme qui va arriver m’a sauvé, moi et me femme, des mains d’Iskender fils de Pheïlekous, qui avait déjà ordonné de me trancher la tête I fret de brûler mon corps.
+L’homme qui va arriver m’a sauvé, moi et me femme, des mains d’Iskender fils de Pheïlekous, qui avait déjà ordonné de me trancher la tête fret de brûler mon corps.
 
 Maintenant fais pour lui gracieusement tout ce qu’il te demandera et ne démens pas mes promesses par ta réponse. »
 
@@ -54,7 +54,7 @@ Il vit Keïdafeh sur son trône d’ivoire, une couronne de grenats et de turquo
 
 Iskender s’approcha de la reine et baisa la terre, à la manière des courtisans Keïdafeh le regarda, lui
 
-Fit accueil, lui adressa beaucoup de questions et le I fit asseoir.
+Fit accueil, lui adressa beaucoup de questions et le fit asseoir.
 
 Lorsque le soleil brillant eut disparu du ciel et que le temps de l’audience pour les étrangers fut passé, elle fil. dresser des tableset demanda des musiciens et du vin.
 
