@@ -28,9 +28,9 @@ Il distribua encore des trésors dans ce pays et désira qu’il lût cultivé.
 
 À chaque station arrivait une escorte de cavaliers pour protéger le roi.
 
-Khosrou reçut des nouvelles de Gangue et d’Alrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Al’rasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afia-) aiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sous le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
+Khosrou reçut des nouvelles de Gangue et d’Alrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Afrasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afia-) aiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sous le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
 
-Khosrou, le maître du monde, méprisa ces mouvements ; son esprit ne s’occupait que d’Al’rasiab.
+Khosrou, le maître du monde, méprisa ces mouvements ; son esprit ne s’occupait que d’Afrasiab.
 
 Il ordonna à l’armée, qui arrivait de Berda et d’Ardebil, de s’avancer par division, de le précéder et de lui rendre compte des braves, des Mobeds et des gouverneurs d’Afrasiab.
 
@@ -56,7 +56,7 @@ Keï Khosrou adressa la parole à son armée, disant :
 
 On proclama devant l’armée qu’il ne fallait pas prendre les vivres, ni montrer de la haine, ni faire la guerre à quiconque ne portait pas dans son cœur de la haine contre le roi.
 
-C’est ainsi qu’ils se dirigèrent vers le Touran : le monde fut rempli de tumulte et de clameur ; l’armée du roi des rois ne lit aucune attention à ceux qui lui obéissaient ; mais les Turcs, de peur d’Al’rasiab, refusaient l’eau à ceux dont les lèvres étaient altérées et si quelqu’un de l’armée du roi restait en c7 arrière, on trouvait bientôt sur la route son corps privé de la tête.
+C’est ainsi qu’ils se dirigèrent vers le Touran : le monde fut rempli de tumulte et de clameur ; l’armée du roi des rois ne lit aucune attention à ceux qui lui obéissaient ; mais les Turcs, de peur d’Afrasiab, refusaient l’eau à ceux dont les lèvres étaient altérées et si quelqu’un de l’armée du roi restait en c7 arrière, on trouvait bientôt sur la route son corps privé de la tête.
 
 Les Iraniens marchèrent contre les forteresses et partout où se trouvait un homme qui voulût se défendre, les murs disparaissaient à l’instant et l’armée ne laissait derrière elle ni châteaux, ni palais, ni esclaves, hommes ou femmes, ni chevaux, ni rien de bon ou de mauvais.
 
