@@ -69,4 +69,4 @@ Schideh lui dit :
 
 > Ô homme plein d’expcL rience !
 >
-> Si Khosrou vient t’attaquer, songe que cinq fils se tiennent devant toi et que nous ne resterons pas spectateurs oisifs, quand même tu voudrais I accepter le combat ; car ni l’armée ni ; les adorateurs de Dieu n’approuveraient que tu te misses en avant pour te mesurer avec lui. »
+> Si Khosrou vient t’attaquer, songe que cinq fils se tiennent devant toi et que nous ne resterons pas spectateurs oisifs, quand même tu voudrais accepter le combat ; car ni l’armée ni ; les adorateurs de Dieu n’approuveraient que tu te misses en avant pour te mesurer avec lui. »
