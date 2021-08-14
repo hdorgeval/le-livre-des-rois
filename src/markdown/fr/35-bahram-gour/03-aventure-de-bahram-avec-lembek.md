@@ -114,7 +114,7 @@ Il alla au marché et y porta ses outres et ses ustensiles et les mit en gage ch
 
 > Aide-moi à préparer le dîner, car l’homme vit de ce qu’il mange;»
 
-Et Bahram prit sur-le-champ la viande, I M3 la découpa et la fit bien rôtir devant le feu.
+Et Bahram prit sur-le-champ la viande, M3 la découpa et la fit bien rôtir devant le feu.
 
 Quand ils eurent dîné, ils saisirent les coupes de vin et commencèrent à boire à la santé du roi.
 
