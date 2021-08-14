@@ -57,7 +57,7 @@ Depuis le temps de Keï Kaous et de Keï-Kohad personne n’a parlé de tribut �
 
 Une armée de trois cent mille braves me salue comme roi et douze cents de mes alliés, qui
 
-LtAlllMlt 2l m’appartiemient de père en fils et sont debout devant moi dans l’Inde, ne permettent à personne de -m’approcher, des hommes tels qu’à l’heure du combat -
+LtAlllMlt m’appartiemient de père en fils et sont debout devant moi dans l’Inde, ne permettent à personne de -m’approcher, des hommes tels qu’à l’heure du combat -
 les lions dans la forêt rongent de peur leurs ongles quand ils entendent leur voix.
 
 Si la centaine permettait à un homme noble de mettre à mort dans sa colère un envoyé, je séparerais ta tête de ton corps et ta chemise aurait à pleurer sur toim y Bahram lui répondit :
