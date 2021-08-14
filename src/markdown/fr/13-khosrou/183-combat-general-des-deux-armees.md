@@ -61,7 +61,7 @@ Tu aurais dit que le monde entier était un Abriman, ou que le ciel combattait l
 
 De tous côtés on voyait des montagnes de morts des armées de l’Iran et du Touran ; tout le désert de sable n’était que sang et têtes et mains et pieds ; le cœur du monde tremblait ; tout ce pays ; foulé par les fers des chevaux, ressemblait à un drap trempé dans le sang.
 
-Les héros d’Al’rasiab arrivèrent courant comme un vaisseau sur l’eau et se dirigèrent vers les tours remplies d’archers que portaient les éléphants : c’était, devant le centre de l’armée des Iraniens, comme une fortification élevée sur le dos des éléphants et barrant le chemin.
+Les héros d’Afrasiab arrivèrent courant comme un vaisseau sur l’eau et se dirigèrent vers les tours remplies d’archers que portaient les éléphants : c’était, devant le centre de l’armée des Iraniens, comme une fortification élevée sur le dos des éléphants et barrant le chemin.
 
 Il tomba des tours une pluie de traits et le bruit des coups donnés et reçus se fit entendre.
 
@@ -99,7 +99,8 @@ D’un côté de Khosrou se tenait le Sipehdar Thous ; tous les Pehlewans aux bo
 
 On entendit le bruit des coups donnés et reçus sur le champ de bataille.
 
-Personne ne verra plus un pareil combat : tout le désert de sable était couvert de blessés et de morts, d’hommes dont le jour était passé ; il y avait tant de cadavres que le pied ne trouvait pas de place pour s’y poser ; la plaine inondée de sang ressemblait au Djihoun, on ne voyait que des hommes sans tête ou la tête en bas ; les cris des cavaliers et des chevaux couvraient le son des tambours ; on aurait, dit que le cœur des montagnes se fendait et que la terre s’envolait avec les cavaliers : il y avait des têtes sans corps, des corps sans têtes ; les coups des lourdes massues résonnaient, les poignards et les épées tranchantes flamboyaient et le soleil cherchait le chemin de la fuite ; tu aurais dit qu’un nuage noir était arrivé et versait une pluie. de sang sur le champ de bataille. 
+Personne ne verra plus un pareil combat : tout le désert de sable était couvert de blessés et de morts, d’hommes dont le jour était passé ; il y avait tant de cadavres que le pied ne trouvait pas de place pour s’y poser ; la plaine inondée de sang ressemblait au Djihoun, on ne voyait que des hommes sans tête ou la tête en bas ; les cris des cavaliers et des chevaux couvraient le son des tambours ; on aurait, dit que le cœur des montagnes se fendait et que la terre s’envolait avec les cavaliers : il y avait des têtes sans corps, des corps sans têtes ; les coups des lourdes massues résonnaient, les poignards et les épées tranchantes flamboyaient et le soleil cherchait le chemin de la fuite ; tu aurais dit qu’un nuage noir était arrivé et versait une pluie. de sang sur le champ de bataille.
+
 F
 o6 LE.
 
