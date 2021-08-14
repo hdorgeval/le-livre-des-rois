@@ -64,7 +64,7 @@ nrive-t-il ?
 > Où sont donc les troupes, ô chef de l’armée ?
 >
 > Où sont la force et la bra-
-œ vonre, les armes, le courage, les trésors et la sagesse dont tu parlais ? Ô soutien des braves, ô défenseur ce d’Al’rasiab, voici le soleil qui s’éclipse pour ton roi.
+œ vonre, les armes, le courage, les trésors et la sagesse dont tu parlais ? Ô soutien des braves, ô défenseur ce d’Afrasiab, voici le soleil qui s’éclipse pour ton roi.
 >
 > Le sort te tourne entièrement le dos ; ce n’est pas le moment d’employer des ruses ; ainsi ne cherche pas à t’échapper.
 >
