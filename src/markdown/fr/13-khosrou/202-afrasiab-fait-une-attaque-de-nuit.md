@@ -91,7 +91,7 @@ H7 bataille, lui et les grandS’du Touran s’enfuirent ; il emmena mille homme
 
 Khosrou chercha son grand-père dans les rangs de l’armée, il se précipita vers le centre des Turcs, pressant son cheval avec ’étrier et se hâtant, mais il ne vit pas une trace d’Afrasiab.
 
-Les Turcs regardèrent le centre de leur armée et ne virent plus le drapeau noir ; alors ils implorèrent la grâce du roi Keïanide I et jetèrent leurs armes.
+Les Turcs regardèrent le centre de leur armée et ne virent plus le drapeau noir ; alors ils implorèrent la grâce du roi Keïanide et jetèrent leurs armes.
 
 Khosrou les reçut avec bonté et leur assigna un lieu séparé de ses troupes ; il fit placer un trône d’or, parer l’intérieur d’une tente d’ornements chinois, apporter du vin et amener des musiciens, appela en grand nombre les chefs de son armée et passa la nuit, jusqu’à la clarté du jour, dans une fête qui faisait sortir les morts du sein de la terre noire.
 
@@ -102,6 +102,6 @@ Depuis le matin jus-
 
 De . la il revint vers son trône et sa couronne, marchant fièrement, joyeux de cœur et comblé de bonheur.
 
-On releva de la poussière du champ de bataille tous les Iraniens qui gisaient par terre, qu’ils fussent morts ou encore en vie, mais on jeta de côté avec dédain les corps des ennemis et à mesure que le champ de bataille fut déblayé de leurs cadavres, on le couvrit I de tombeaux pour les Iraniens.
+On releva de la poussière du champ de bataille tous les Iraniens qui gisaient par terre, qu’ils fussent morts ou encore en vie, mais on jeta de côté avec dédain les corps des ennemis et à mesure que le champ de bataille fut déblayé de leurs cadavres, on le couvrit de tombeaux pour les Iraniens.
 
 Khosrou abandonna à son armée tout le butin qu’on trouva sur le champ de bataille et s’en retourna à Ganguibehischt avec ses troupes pourvues de tout ce qu’il faut pour le combat.
