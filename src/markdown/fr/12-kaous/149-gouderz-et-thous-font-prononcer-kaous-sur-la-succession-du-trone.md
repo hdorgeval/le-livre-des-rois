@@ -47,7 +47,7 @@ Gouderz lui répondit :
 >
 > Tes yeux n’ont jamais vu d’homme aussi beau de visage, aussi haut de stature et aussi aimant.
 >
-> Il a passé le Djihoun sans demander une barque ; il s’est fié à la fortune des Keïanides età la droiture de ses intentions ; et à l’exemple de Feridoun, qui après avoir passé le fleuve Arwend a fait fleurir le monde, il assujettira, par sa bravoure et par la grâce de Dieu, le cœur, la main et l’œil des méchants.
+> Il a passé le Djihoun sans demander une barque ; il s’est fié à la fortune des Keïanides et à la droiture de ses intentions ; et à l’exemple de Feridoun, qui après avoir passé le fleuve Arwend a fait fleurir le monde, il assujettira, par sa bravoure et par la grâce de Dieu, le cœur, la main et l’œil des méchants.
 >
 > Ensuite, il se ceindra, semblableà un lion furieux, pour venger son père, il guérira l’Iran de ses maux et le rusé Afrasiab tremblera sous sa main.
 >
