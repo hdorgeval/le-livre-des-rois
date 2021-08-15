@@ -44,7 +44,7 @@ Ills’ocupait en secret de son armée et personne dans le monde ne savait ce qu
 
 Tout l’Iran tremblait de le. voir occupé comme il semblait ’être et les cœurs se fendaient de chagrin.
 
-Tous désespéraient. de ce roi et le méprisaient, lui et son gouvernement.
+Tous désespéraient de ce roi et le méprisaient, lui et son gouvernement.
 
 Cependant Bahram eut nouvelle qu’une armée était entrée de la Chine dans l’Iran ; il appela Gustehem et lui parla longuement du Khakan de la Chine.
 
