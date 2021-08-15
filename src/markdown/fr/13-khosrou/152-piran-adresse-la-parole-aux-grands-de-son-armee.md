@@ -56,7 +56,7 @@ Ils dirent et se levèrent pour partir et se préparer au combat :
 
 > toute la nuit ils répétèrent entre eux que le Sipehdar qui veillait sur eux avait dit vrai.
 >
-> À l’aube du jour les clairons et les trompettes résonnèrent sous la porte de l’enceinte des tentes de Pirau ; tous les grands montèrent à chevalà la première lueur du jour et suspendirent leur arc à leur bras ; tu aurais dit que les sabots de leurs chevaux couvraient la terre d’un voile de fer.
+> À l’aube du jour les clairons et les trompettes résonnèrent sous la porte de l’enceinte des tentes de Piran ; tous les grands montèrent à chevalà la première lueur du jour et suspendirent leur arc à leur bras ; tu aurais dit que les sabots de leurs chevaux couvraient la terre d’un voile de fer.
 >
 > Le Sipehdar dit alors à Lehhak et à F erschidwerd :
 
