@@ -111,7 +111,7 @@ Le roi disait au chef de l’armée :
 >
 > Ne dévie en aucune façon de ces conseils, si tu veux t’épargner de la peine et du dommage et lorsque tu es victorieux, tourne-toi vers Dieu, car, n’en doute pas, c’est lui qui est ton guide. »
 
-I Quand un ambassadeur arrivait. de quelque part que ce fût, du pays des Turks ou du Roum, ou d’un, pays perse, le gardien des frontières en recevait des nouvelles et ne négligeait pas une pareille affaire.
+I Quand un ambassadeur arrivait de quelque part que ce fût, du pays des Turks ou du Roum, ou d’un, pays perse, le gardien des frontières en recevait des nouvelles et ne négligeait pas une pareille affaire.
 
 L’envoyé trouvait partout sur sa route des logis préparés, c’était un soin dont les gouverneurs étaient chargés ; il n’y manquait ni les vêtements, ni la nourriture, ni les tapis.
 
