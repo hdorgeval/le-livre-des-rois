@@ -28,13 +28,13 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Ta bonne étoile a lui sur toi et nos ennemis ont été à l’instant réduits en poussière.
 >
-> Tu me dis d’abord que tu as envoyé Guiv avec des grands, de sages et vaillants conseillers, auprès de Pirau et que tu lui as fait adresser des conseils excellents, mais que tes avis n’ont pas eu de prise sur lui et qu’il n’a pas voulu ce faire de convention avec toi.
+> Tu me dis d’abord que tu as envoyé Guiv avec des grands, de sages et vaillants conseillers, auprès de Piran et que tu lui as fait adresser des conseils excellents, mais que tes avis n’ont pas eu de prise sur lui et qu’il n’a pas voulu ce faire de convention avec toi.
 >
 > Et à propos de ce refus qui t’a autorisé à commencer la guerre, tu me dis encore que tout homme dans l’âme duquel les sentiments d’humanité s’éteignent renonce au bonheur et se livre à sa mauvaise étoile.
 >
-> Je savais que le cœur de Pirau ne renonce pas à la vengeance ; et cependant, à cause de ses bonnes actions, je ne voulais pas lui faire une guerre à mort.
+> Je savais que le cœur de Piran ne renonce pas à la vengeance ; et cependant, à cause de ses bonnes actions, je ne voulais pas lui faire une guerre à mort.
 >
-> Maintenant le ciel a montré ouvertement que toutes les affections de Pirau sont pour le Touran et qu’il ne considère le monde que comme la propriété d’Afrasiab.
+> Maintenant le ciel a montré ouvertement que toutes les affections de Piran sont pour le Touran et qu’il ne considère le monde que comme la propriété d’Afrasiab.
 >
 > Ne a t’ell’orce donc plus à le détourner de ce dévouement à son roi.
 >
@@ -46,7 +46,7 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Je suis certain que ta bravoure te donnera la victoire au jour du combat ; mais songe que la force et la valeur viennent de Dieu, sache-le et rends-lui sans cesse des actions de grâces.
 >
-> En troisième lieu, tu me dis qu’Afrasiab va passer le Djihoun avec son armée, que Pirau lui a envoyé un message et que le roi se dirige de son côté.
+> En troisième lieu, tu me dis qu’Afrasiab va passer le Djihoun avec son armée, que Piran lui a envoyé un message et que le roi se dirige de son côté.
 >
 > Voilà ce que tu m’as dit et je vais te donner ma réponse.
 >
@@ -79,7 +79,7 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Je ce vais commander au Sipehdar Thous de faire mettre sur-le-champ les timbales sur le dos des éléphants, de s’emparer du Dehistân, du Gourgân et de toute cette région et de lever la tête jusqu’au soleil ; je partirai moi-même aussitôt après Thous, avec des éléphants et mon trône, pour te soutenir et renforcer ton armée.
 >
-> Quant à toi, ne renonce pas à la lutte contre Piran, mets tes troupes en bon ordre et livrelui bataille.
+> Quant à toi, ne renonce pas à la lutte contre Piran, mets tes troupes en bon ordre et livre-lui bataille.
 >
 > Puisqu’il a perdu Houman et Nestihen, il n’a plus que du vent dans la main ; et s’il provoque un des grands de l’Iran, permets le combat et ne les en détourne pas.
 >
@@ -87,6 +87,6 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Ne crains pas une attaque d’Afrasiab ; ranime ton courage et ne détourne pas ton visage de lui ; tu le vaincras dans la bataille, si tu ne laisses pas faiblir ton cœur. l’espère en Dieu le créateur, qu’il rendra heureuse ma destinée.
 >
-> Je penSe que lorsque j’aurai conduit mes troupes sur les derrières de l’armée des Turcs, que lorsque de votre côté vous marcherez contre eux, vous obtiendrez la victoire et porterez votre nom jusqu’au soleil brillant ; dès lors nos armées seront dispensées de combattre et toutes nos affaires prospéreront. »
+> Je pense que lorsque j’aurai conduit mes troupes sur les derrières de l’armée des Turcs, que lorsque de votre côté vous marcherez contre eux, vous obtiendrez la victoire et porterez votre nom jusqu’au soleil brillant ; dès lors nos armées seront dispensées de combattre et toutes nos affaires prospéreront. »
 
 Le roi ajouta beaucoup de salutations que Kaous et Thous envoyaient aux troupes, ensuite il apposa son sceau sur la lettre, la remit au messager et le bénit.
