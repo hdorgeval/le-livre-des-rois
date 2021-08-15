@@ -28,7 +28,7 @@ Que Dieu le Créateur te protège et que la tête de tes ennemis soit abaissée 
 
 Porte à Keï Khosrou mon message et dis-lui :
 
-> Ce que tu fais est contre la coutume et la loi du monde et la tête d’un petit-fils qui combat son grand-père doit être pleine de méchanceté et de 3l désordre.
+> Ce que tu fais est contre la coutume et la loi du monde et la tête d’un petit-fils qui combat son grand-père doit être pleine de méchanceté et de désordre.
 >
 > La volonté du,Créateur est-elle donc que le monde soit rempli de luttes et de haines ?
 >
