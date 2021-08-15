@@ -90,7 +90,7 @@ Quand Kaous vit le visage de la jeune fille, il sourit en se mordant les lèvres
 >
 > Nous passerons la journée à entendre comment les héros ont pris un soleil à l’aide des guépards. »
 
-Ensuite le roi demanda àla jeune fille :
+Ensuite le roi demanda à la jeune fille :
 
 > Quelle est ta naissance, ô toi dont le visage est le visage d’une Péri ? »
 
