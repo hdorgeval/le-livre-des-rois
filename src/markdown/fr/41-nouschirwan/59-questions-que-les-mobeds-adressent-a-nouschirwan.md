@@ -237,7 +237,7 @@ Le Mobed demanda :
 
 Il répondit :
 
-> Quand on laisse le monde à son enfant on n’est pas oublié ; quand on a des enfants, la vie a de la saveur et cette saveur nous préserve du vice ; on éprouve moins de peine à mourir quand un fils regarde votre visage qui ’ pâlit. »
+> Quand on laisse le monde à son enfant on n’est pas oublié ; quand on a des enfants, la vie a de la saveur et cette saveur nous préserve du vice ; on éprouve moins de peine à mourir quand un fils regarde votre visage qui pâlit. »
 
 ’ Le Mobed demanda :
 
