@@ -34,7 +34,7 @@ Il choisit une armée parmi les Iraniens, pour laquelle il prit tous les meilleu
 
 Bahram fils de Bahram était commandant en chef et homme célèbre par sa bravoure.
 
-Il mit à la tête des guerriers illustres, pour marcher au jour de la bataille devant le front de l’armée, un homme du nom de Yelan Sineh, dont la poitrine était pleine ’ d’ardeur pour le combat ; il devait faire voltiger son cheval, rappeler aux braves leur naissance et réveiller dans leur cœurl’envie de se batlre.
+Il mit à la tête des guerriers illustres, pour marcher au jour de la bataille devant le front de l’armée, un homme du nom de Yelan Sineh, dont la poitrine était pleine d’ardeur pour le combat ; il devait faire voltiger son cheval, rappeler aux braves leur naissance et réveiller dans leur cœurl’envie de se batlre.
 
 Ensuite, il chargea lzed Guschasp, qui, dans son élan, ne détournait pas son cheval d’un feu brûlant devant lui, de protéger les bagages et de tenir les deux ailes de l’armée sur la même ligne.
 
