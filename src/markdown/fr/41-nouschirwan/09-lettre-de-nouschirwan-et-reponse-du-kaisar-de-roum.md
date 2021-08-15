@@ -28,7 +28,7 @@ Si un sujet devient trop volontaire, je le punis avec ’épée.
 
 Ne t’avance pas d’une coudée au delà de la frontière, si tu veux maintenir le traité qui te lie à moi ; et si tu passes outre, je ferai de même et foulerai aux pieds ta tête et ton trône.
 
-Salut du maître de la couronne et du ’ pouvoir à ceux qui ne troublent pas le monde par leur injustice ! »
+Salut du maître de la couronne et du pouvoir à ceux qui ne troublent pas le monde par leur injustice ! »
 
 On posa le sceau du roi sur la lettre et l’on choisit un cavalier parmi les gens de la cour, un homme comme il le fallait, doux de langage, expérimenté, vaillant et d’un esprit serein.
 
