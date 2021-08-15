@@ -40,7 +40,7 @@ Il commença par les louanges du Créateur, le maître du monde, toujours éveil
 
 Le roi du monde est le diadème sur ma tête et ce n’est pas à cause de ma fille que j’ai recherché son alliance ; car, depuis que les sages, les grands et les Mobeds à l’esprit vigilant m’ont parlé de la grandeur, du pouvoir et de la gloire du roi, j’ai cherché un moyen de me lier avec lui.
 
-C’est lui qui dispense la justice au monde entier et jamais roi n’a porté la ceinture du pouvoir comme lui, ne lui est comparable en bravoure, en victoires, en puissance, en majesté, en taille, n’a eu un trône et un diadème comme lui ; Dieu, le toutsaint, l’a nourri de jus-
+C’est lui qui dispense la justice au monde entier et jamais roi n’a porté la ceinture du pouvoir comme lui, ne lui est comparable en bravoure, en victoires, en puissance, en majesté, en taille, n’a eu un trône et un diadème comme lui ; Dieu, le tout-saint, l’a nourri de jus-
 . tics, de sagesse, de foi et d’intelligence.
 
 J’envoie ma fille chérie au roi Kesra, avec les formes que nous observons.
