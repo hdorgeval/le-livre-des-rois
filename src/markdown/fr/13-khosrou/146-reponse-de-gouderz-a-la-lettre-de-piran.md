@@ -65,7 +65,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > un Puis tu demandes comment il se peut qu’un vieillard comme moi se ceigne pour répandre tant de sang.
 >
-> Sache, ô homme expérimenté et rusé, qui as éprouvé la bonne et la mauvaise fortune, que Dieu m’a accordé une longue vie et une destinée qui me permet de porter haut la tête, afin qu’au jour du combat je fasse lever jusqu’au soleil la poussière du pays de Touran ; et ma seule inquiétude est. que Dieu ne sépare mon âme de mon corps avant que j’aie accompli cette vengeance et foulé aux pieds votre pays.
+> Sache, ô homme expérimenté et rusé, qui as éprouvé la bonne et la mauvaise fortune, que Dieu m’a accordé une longue vie et une destinée qui me permet de porter haut la tête, afin qu’au jour du combat je fasse lever jusqu’au soleil la poussière du pays de Touran ; et ma seule inquiétude est que Dieu ne sépare mon âme de mon corps avant que j’aie accompli cette vengeance et foulé aux pieds votre pays.
 >
 > Troisièmement tu me reproches de n’avoir pas devant les yeux la crainte de Dieu et de ne pas réfléchir que dans ma folie je verse tant de sang qu’à la fin il m’arrivera malheur à moi-même.
 >
@@ -85,7 +85,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Mais quand je me rappelle vos actes atroces, tous les tourments que vous avez infligés à nos cœurs par les crimes que vous avez commis dans le pays d’Iran, toutes les angoisses que vous avez fait éprouver à nos rois, tous les traités que vous avez violés, toutes les guerres que vous avez commencées et le mal dont : vous avez toujours été les instigateurs, quand je me rappelle cela, comment ferais-je la paix avec toi qui as toujours regardé comme bonnes les actions mau-vaises ?
 >
-> Cinquièmement tu me proposes de faire un traité. de donner en otages les grands du Touron, d’envoyer à Khosrou des trésors et de fermer la voie des fatigues de la guerre.
+> Cinquièmement tu me proposes de faire un traité de donner en otages les grands du Touron, d’envoyer à Khosrou des trésors et de fermer la voie des fatigues de la guerre.
 >
 > Mais sache, ô chef de l’armée du Touron, quels sont les ordres du roi.
 >
@@ -171,7 +171,7 @@ Ils célébrèrent les louanges de Gouderz, ils l’appelerent le Pehlewan du mo
 
 Ensuite, il apposa son sceau sur la lettre et la remit à Rouïn fils de Piran fils de Wiseh.
 
-Au moment où les Touraniens se levè-rent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Roui’n des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or, età ses compagnons de l’argent et de l’or et des casques et des ceintures à ceux qui pouvaient y prétendre.
+Au moment où les Touraniens se levè-rent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Roui’n des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or, et à ses compagnons de l’argent et de l’or et des casques et des ceintures à ceux qui pouvaient y prétendre.
 
 Rouïn partit de la cour du Pehlewan avec son escorte et se dirigea vers l’armée du Touran.
 
