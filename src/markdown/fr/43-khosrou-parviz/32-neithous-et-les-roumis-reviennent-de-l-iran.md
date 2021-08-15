@@ -82,7 +82,7 @@ Un héraut éloquent, un grand ayant une belle voix et plein de prudence, procla
 >
 > Si un sujet se plaint d’avoir eu beaucoup à souffrir de la part d’un homme armé, le malfaiteur ne trouvera d’autre place que le gibet et dans l’autre monde les tourments du feu.
 >
-> Vous êtes tous les maîtres de vos trésors. de tout ce que vous avez acquis par votre travail.
+> Vous êtes tous les maîtres de vos trésors de tout ce que vous avez acquis par votre travail.
 >
 > Achetez, ou donnez ce que vous avez et vous qui n’avez rien, demandez.
 >
