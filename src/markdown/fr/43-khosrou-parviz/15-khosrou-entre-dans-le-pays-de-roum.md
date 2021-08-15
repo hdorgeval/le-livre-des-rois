@@ -46,4 +46,4 @@ De cette ville, il marcha vers Manouï, ville que les hommes qui avaient vu le m
 
 Ils parlèrent longuement avec le roi de cette pluie et de la vieille cité de Kanan ; ils dirent tous :
 
-> Nous sommes tes esclaves, nous sommes soumis aux paroles. de Khosrou. »
+> Nous sommes tes esclaves, nous sommes soumis aux paroles de Khosrou. »
