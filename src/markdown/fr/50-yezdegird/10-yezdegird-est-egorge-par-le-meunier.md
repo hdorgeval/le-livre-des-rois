@@ -33,7 +33,7 @@ Cependant le meunier continuait sa route, les yeux baignés de pleurs, le visage
 
 > Ô Créateur brillant, toi qui es au-dessus des évolutions du destin, livre dès à présent aux tourments le cœur et l’âme de celui qui a donné cet ordre barbare ! »
 
-Étant arrivé devant le roi, le cœur plein. de honte et de crainte, le visage inondé de larmes, la bouche desséchée, il s’approcha avec précaution.comme celui qui veut -dire un secret à l’oreille et lui plongea un poignard dans le seinfLe roi blessé à mort poussa un soupir, sa tête etsa couronne tombèrent sur le sol à côté du pain d’orge qu’il avait devant lui.
+Étant arrivé devant le roi, le cœur plein de honte et de crainte, le visage inondé de larmes, la bouche desséchée, il s’approcha avec précaution.comme celui qui veut -dire un secret à l’oreille et lui plongea un poignard dans le seinfLe roi blessé à mort poussa un soupir, sa tête etsa couronne tombèrent sur le sol à côté du pain d’orge qu’il avait devant lui.
 
 Que celui qui trouve une issue s’échappe de ce monde dont l’âme est vide et inintelligente ; les planètes se lassent comme ceux qu’elles protégent et livrent à la mort des innocents comme Yezdegird. lamais roi n’avait péri de la sorte, jamais même un cavalier de son armée n’avait trouvé pareille mort.
 
