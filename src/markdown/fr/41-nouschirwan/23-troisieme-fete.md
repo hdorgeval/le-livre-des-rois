@@ -58,7 +58,7 @@ Si tu es content de ton sort, tu jouis de la tranquillité ; si tu te livres à 
 
 Ne sois pas débonnaire avec les gens, car tu seras peu récompensé de tes bienfaits.
 
-La fortune est. propice’à ceux qui ont le cœur ouvert ; heureux qui a de la patience.
+La fortune est propice’à ceux qui ont le cœur ouvert ; heureux qui a de la patience.
 
 Tout homme qui cherche le pouvoir a besoin de mérites pour 2H cette ambition ; il faut d’abord être prudent et in-
 . telligent, ensuite avoir beaicoup d’expérience ; puis il faut, au moment de l’action, avoir des amis et calculer toutes les bonnes et les mauvaises chances ; ensuite il faut du cœur et de la droiture et se débarrasser de la fausseté et du mensonge ; enfin si tu possèdes la force, fais un effort et le pouvoir en sortira.
@@ -97,7 +97,7 @@ Un Mobed d’un esprit ingénieux lui demanda :
 
 Il répondit :
 
-> Quiconque possède. de la raison estheureux dans les deux mondes. »
+> Quiconque possède de la raison estheureux dans les deux mondes. »
 
 Le Mobed dit :
 
@@ -143,11 +143,11 @@ L’oreille de celui qui parle d’un ton doux sera rarement frappée par des pa
 
 Sache que c’est lalangue qui est la cause des peines des hommes et si tu ne veux pas qu’elle te fasse du mal, pèse tes paroles.
 
-La seule place qui convienne à un homme de peu de paroles et dévoué au roi est. devant le trône ; il pleure les malheurs à venir, comme un oiseau ou une bête fauve pleure dans le piège ; ensuite il est fort contre ce qui est mal, il l’évite et suit entièrement les voies de la sagesse ; il ne s’occupe pas d’une alliaire dont il faut s’abstenir ; il ne s’afflige pas de ce qui ne mérite pas d’affliction ; il ne laisse pas passer le bonheur sans en jouir ; il se garde de compter les pas des jours futurs ; il évite ses ennemis avec plus de ruse qu’une bête fauve ; il tient à ses amis comme la plume à la flèche.
+La seule place qui convienne à un homme de peu de paroles et dévoué au roi est devant le trône ; il pleure les malheurs à venir, comme un oiseau ou une bête fauve pleure dans le piège ; ensuite il est fort contre ce qui est mal, il l’évite et suit entièrement les voies de la sagesse ; il ne s’occupe pas d’une alliaire dont il faut s’abstenir ; il ne s’afflige pas de ce qui ne mérite pas d’affliction ; il ne laisse pas passer le bonheur sans en jouir ; il se garde de compter les pas des jours futurs ; il évite ses ennemis avec plus de ruse qu’une bête fauve ; il tient à ses amis comme la plume à la flèche.
 
 L’homme de sens a peu d’envie 2H) de plaisirs dont la fin doit être le chagrin.
 
-Renonce à la mollesse et à la paresse, travaille et conquiers . par lal’atigue le droit à la fête, car dans ce monde il n’y a pas de gain sans fatigue et le paresseux n’aura jamais de trésors.
+Renonce à la mollesse et à la paresse, travaille et conquiers par lal’atigue le droit à la fête, car dans ce monde il n’y a pas de gain sans fatigue et le paresseux n’aura jamais de trésors.
 
 Puisse Nourchirwan faire prospérer la terrre, puisse-t-il rester maître du monde et son pouvoir être toujours jeune ! »
 
