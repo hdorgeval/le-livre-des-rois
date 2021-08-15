@@ -60,7 +60,7 @@ Dis-moi pourquoi, dans cette guerre, le repos règne jour et nuit ; pourquoi le 
 
 Dis-le-moi, afin que je m’élance au combat, afin que je me ceigne pour la bataille.
 
-Ce qui m’étonne encore plus, c’est qu’un Turc seul, un homme égaré et voué à la destruction, soit sorti des rangs de son armée ; que Dieu le dispensateur de tout bien, voulant la perte de ce méchant, l’ait amené ici de l’armée du Touran pour le faire périr. de ta main et que tu laisses échapper le loup pris !
+Ce qui m’étonne encore plus, c’est qu’un Turc seul, un homme égaré et voué à la destruction, soit sorti des rangs de son armée ; que Dieu le dispensateur de tout bien, voulant la perte de ce méchant, l’ait amené ici de l’armée du Touran pour le faire périr de ta main et que tu laisses échapper le loup pris !
 
 Dans le piège.
 
@@ -105,7 +105,7 @@ Maintenant je te permets de combattre contre Houman, dans l’espoir que ta bonn
 
 Au nom de Dieu notre Seigneur le maître du monde, au nom des victoires du roi de ces braves, l’ais un effort pour que ta main anéantisse cet Ahriman, selon l’ordre de Dieu.
 
-Je vais ordonner à Guiv de le remettre la cotte de mailles que tu demandes ; et si tu remportes la victoire, les plus grands honneurs t’attendent auprès de moi ; je le placerai au-dessus de Guiv et de Ferhad, je te donnerai plus de trésors et de troupes, un trône et un diadème plus beau qu’à aux : Ainsi parla le grand-père ; et son petit-fils plein de ruse et de sagacité descendit de cheval, baisa la terre et bénit son grandpère.
+Je vais ordonner à Guiv de le remettre la cotte de mailles que tu demandes ; et si tu remportes la victoire, les plus grands honneurs t’attendent auprès de moi ; je le placerai au-dessus de Guiv et de Ferhad, je te donnerai plus de trésors et de troupes, un trône et un diadème plus beau qu’à aux : Ainsi parla le grand-père ; et son petit-fils plein de ruse et de sagacité descendit de cheval, baisa la terre et bénit son grand-père.
 
 Le Pehlewan fit venir Guiv et lui parla du jeune homme et de la cotte de mailles royale qu’il demandait à porter dans le combat.
 
@@ -117,9 +117,9 @@ Guiv répondit à son père :
 
 Gouderz lui dit :
 
-> Ô mon fils chéri, ne t’abandonue pas à la douleur ; car quoique Bijen soit jeune et sans expérience, il se laisse guider en toute. chose par la raison.
+> Ô mon fils chéri, ne t’abandonne pas à la douleur ; car quoique Bijen soit jeune et sans expérience, il se laisse guider en toute. chose par la raison.
 >
-> Ensuite c’est ici le lieu où il faut combaltrc, c’est le moment d’inonder de sang la surface de la terre ; et quand il s’agit de venger Siawusch et d’obéir au roi, on . ne doit pas l’aire attention à la parenté ; quand même il tomberait des nues une pluie de massues et d’épées, nous ne devrions pas être avares de nos vies. de serait une honte d’amorlir l’ardeur de Bijen pour le combat et de l’empêcher d’acquérir du renom et de la gloire ; car un jeune homme qui prend l’habitude de la lâcheté aura toujours l’âme basse et l’esprit. troublé. »
+> Ensuite c’est ici le lieu où il faut combaltrc, c’est le moment d’inonder de sang la surface de la terre ; et quand il s’agit de venger Siawusch et d’obéir au roi, on . ne doit pas l’aire attention à la parenté ; quand même il tomberait des nues une pluie de massues et d’épées, nous ne devrions pas être avares de nos vies de serait une honte d’amorlir l’ardeur de Bijen pour le combat et de l’empêcher d’acquérir du renom et de la gloire ; car un jeune homme qui prend l’habitude de la lâcheté aura toujours l’âme basse et l’esprit. troublé. »
 
 Guiv voyant, à cette réponse, qu’il n’y avait aucun moyen de fléchir Gouderz, essaya de nouveau l’influence de ses conseils sur son fils, dans l’espoir de le détourner du combat ; mais son fils lui répondit :
 
@@ -129,11 +129,11 @@ Alors Guiv dit à Gouderz :
 
 > Ô Pehlewan du monde, dans un moment où le combat met la vie en danger, il n’y a plus ni fils, ni trésors, ni troupes, ni attachement au chef, ni ordre du roi qui comptent.
 
-Je suis à la veille d’une périlleuse journée ; pourquoi livrerais je ma vie ?
+Je suis à la veille d’une périlleuse journée ; pourquoi livrerais-je ma vie ?
 
 S’il veut se battre, n’a-t-il pas une armure ?
 
-Il a une cotte de mailles, pourquoi me demander la .mienne ?a Le fils, qui se préparait au combat, répondit à son père :
+Il a une cotte de mailles, pourquoi me demander la mienne ?a Le fils, qui se préparait au combat, répondit à son père :
 
 > Je n’ai pas besoin
 > de ta cuirasse ; crois-tu donc que tous les braves qui sont dans le monde aient besoin de ta cuirasse pour être vaillants ?
