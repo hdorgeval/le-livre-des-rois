@@ -40,7 +40,7 @@ Ensuite l’envoyé apporta une lettre que le Badja indien avait écrite à Nous
 
 Kesra prêta l’oreille et l’esprit à ce que (lisait cet homme, qui répétait le message dont ilétail. chargé ; on plaça les échecs devant le roi, qui regarda longtemps les pièces.
 
-Sur l’échiquier étaient des pièces, les unes en ivoire brillant et les autres en bois de teck ; le roi à l’intelligence éveillée fit. des questions sur la ligure de ces pièces et sur ce bel échiquier et l’Indien lui répondit :
+Sur l’échiquier étaient des pièces, les unes en ivoire brillant et les autres en bois de teck ; le roi à l’intelligence éveillée fit des questions sur la ligure de ces pièces et sur ce bel échiquier et l’Indien lui répondit :
 
 > Ô roi !
 >
@@ -94,7 +94,7 @@ L’Indien répondit :
 
 > Mon fortuné maître m’a dit lorsque j’ai quitté sa présence :
 
-> Porte devant le trône du maître de la couronne ces pièces 3l !
+> Porte devant le trône du maître de la couronne ces pièces !
 >
 > De teck et d’ivoire et dis-lui qu’il les place devant les Mobeds, ses conseillers, réunis en assemblée.
 >
