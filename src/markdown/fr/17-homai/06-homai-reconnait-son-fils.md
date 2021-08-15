@@ -18,7 +18,7 @@ order: '006'
 
 Darab, couvert de louanges,-et Beschnewad s’en revinrent joyeusement.
 
-A une des stations, ils arrivèrent à cette voûte en ruines dans laquelle Beschnewad avait trouvé Darab endormi ; la femme du blanchisseur et son mari, qui apportaient le joyau, 3l s’y étaient rendus ; ils tremblaient tous les deux, de peur d’être traités durement.
+A une des stations, ils arrivèrent à cette voûte en ruines dans laquelle Beschnewad avait trouvé Darab endormi ; la femme du blanchisseur et son mari, qui apportaient le joyau, s’y étaient rendus ; ils tremblaient tous les deux, de peur d’être traités durement.
 
 Beschnewad les appela sur le champ et ils se présentèrent en invoquant la protection de Dieu.
 
