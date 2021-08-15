@@ -63,7 +63,7 @@ w tant plus que c’est toi qui es le roi d’Iran.
 
 A Dara observa le courage et la sagesse, l’éloquence, la dignité et la stature de l’envoyé ; on aurait dit que cet homme était Dara lui-même, sur son trône d’ébène, dans toute sa majesté, avec ses bracelets, son collier et sa couronne.
 
-Il lui répondit ne Quel est ton renom et quelle est. la naissance ?
+Il lui répondit ne Quel est ton renom et quelle est la naissance ?
 
 Cardans la mine et sur ton front tu portes les marques des Keïanides ; tu parais être plus grand qu’un sujet et je 6
 
