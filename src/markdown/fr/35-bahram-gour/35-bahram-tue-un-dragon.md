@@ -26,7 +26,7 @@ Avec un serviteur comme lui et un maître comme Bahram, tout ce qu’il y a de b
 
 J’ai réfléchi toute la nuit sur son affaire et voici le nouveau moyen que j’essayerai.
 
-Je l’enverrai combattre le dragon ; sans doute il ne s’en tirera pas sain et sauf et pourtant on ne pourra me blâmer de ce qu’il aura fait, s’il lui plaît de combattre le dragonna 3l Il parla ainsi et fit appeler Bahram, à qui il raconta beaucoup d’histoires de bravoure, puis il lui dit :
+Je l’enverrai combattre le dragon ; sans doute il ne s’en tirera pas sain et sauf et pourtant on ne pourra me blâmer de ce qu’il aura fait, s’il lui plaît de combattre le dragonna Il parla ainsi et fit appeler Bahram, à qui il raconta beaucoup d’histoires de bravoure, puis il lui dit :
 
 > Dieu, qui a créé la justice, t’a amené du pays d’Iran pour délivrer du mal l’Hiudoustan, comme il convient à un homme illustre.
 >
