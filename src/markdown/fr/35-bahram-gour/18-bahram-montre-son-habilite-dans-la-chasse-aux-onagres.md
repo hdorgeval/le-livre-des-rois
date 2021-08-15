@@ -131,6 +131,6 @@ Il lui dit :
 > Demande tout de suite quelques charges d’âne d’or, demande-les aux trésors de Beî
 et. d’Isfahan ; car, de la manière dont tu agis, l’appartement de mes femmes devient une ruine et n’est pas digne du roi de l’Iran. »
 
-On exigea de toutes les provinces de nouveaux impôts, on para la terre de brocarts et le monde jouit ainsi pendant ’ quelque temps de l’absence de toute guerre,de toute peine, de toute dispute et de tout combat.
+On exigea de toutes les provinces de nouveaux impôts, on para la terre de brocarts et le monde jouit ainsi pendant quelque temps de l’absence de toute guerre,de toute peine, de toute dispute et de tout combat.
 
 Bahram ne s’occupait que de chasse et de vin et sa seule joie était la société de ses amies.
