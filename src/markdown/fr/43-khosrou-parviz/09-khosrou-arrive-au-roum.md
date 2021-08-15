@@ -125,7 +125,7 @@ Bendouî répondit :
 >
 > Tous mes ancêtres, tous les rois qui m’ont précédé, ont observé les règles de la dignité et de la religion et n’ont jamais refusé, pendant leur longue bonne fortune, au plus humble ce dont il avait besoin.
 >
-> Maintenant que la fortune a tourné contre moi, j’ai dit tout le secret de mon cœur et rien ne se fait que selon la volonté de Dieu, le toutsaint, partout, depuis le. soleil brillant jusqu’à la terre sombre. »
+> Maintenant que la fortune a tourné contre moi, j’ai dit tout le secret de mon cœur et rien ne se fait que selon la volonté de Dieu, le tout-saint, partout, depuis le. soleil brillant jusqu’à la terre sombre. »
 
 Le chef de l’armée écouta ces paroles et consentit et tous ceux qui avaient entendu le discours de Ben. dont furent émus de pitié.
 
