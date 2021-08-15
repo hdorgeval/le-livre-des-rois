@@ -26,7 +26,7 @@ Dans la nuit sombre, il fit venir un scribe, qui tailla le bout de son roseau co
 
 Il commença par les louanges àDieu, le toutpuissant, l’omniscient, le père nourricier de tout, qui a placé en haut le soleil, Saturne et la lune, qui a fait asseoir le roi sur le trône, qui rabaisse ceux qui cherchent le mal, qui accroît encore chez ceux qui la possèdent la sagesse divine.
 
-Si tu déclares que Dieu est l’unique, qu’il n’a ni compagnon, ni égal, ni associé, tu échappes à l’ignorance, à l’iniquité, à la perversité, à la faiblesse et àla perdition.
+Si tu déclares que Dieu est l’unique, qu’il n’a ni compagnon, ni égal, ni associé, tu échappes à l’ignorance, à l’iniquité, à la perversité, à la faiblesse et à la perdition.
 
 Quiconque cherche le bien trouvera le bonheur et maudit soit qui prépare sa main à faire le me] !
 
