@@ -22,7 +22,7 @@ Puis, il prit un cheval ardent à la course et se prépara à faire ses dévotio
 
 Il trouva devant lui un hallier, mit pied à terre et entra dans ce lieu propice ; il se prosterna dans la poussière devant Dieu et dit :
 
-> Ô maître de la justice, Dieu toutsaint, tu as fait partir mon ennemi de ce pays, tu as tout accompli au delà de mes espérances.
+> Ô maître de la justice, Dieu tout-saint, tu as fait partir mon ennemi de ce pays, tu as tout accompli au delà de mes espérances.
 >
 > Je suis ton adorateur, ton serviteur indigne, je marche selon les ordres du maître du monde. »
 
@@ -40,7 +40,7 @@ On apposa le sceau du roi sur la lettre et les envoyés se mirent en chemin.
 
 L’envoyé qui portait la lettre du roi continua son voyage jusqu’à la cour de l’illustre Kaisar.
 
-Le Kaisar lut cette lettre. puis cet homme, sur qui veillait la fortune, descendit du trône et dit en s’adressant à à Dieu :
+Le Kaisar lut cette lettre. puis cet homme, sur qui veillait la fortune, descendit du trône et dit en s’adressant à Dieu :
 
 > Ô toi, notre guide !
 >
@@ -50,7 +50,7 @@ Le Kaisar lut cette lettre. puis cet homme, sur qui veillait la fortune, descend
 
 Il donna beaucoup d’or aux pauvres, il leur donna des vivres par charges d’âne, puis il fit écrire en réponse une lettre semblable à un arbre du jardin du paradis.
 >
-> Il commença la lettre par le nom du maître I4!) du monde, maître. de la victoire, de la gloire et de la justice, maître de la lune et maître du soleil, maître du jour et maître de la puissance.
+> Il commença la lettre par le nom du maître I4!) du monde, maître de la victoire, de la gloire et de la justice, maître de la lune et maître du soleil, maître du jour et maître de la puissance.
 >
 > Sache que la grandeur et la faveur des astres viennent de lui et sois reconnaissant envers lui tant que tu vivras.
 >
