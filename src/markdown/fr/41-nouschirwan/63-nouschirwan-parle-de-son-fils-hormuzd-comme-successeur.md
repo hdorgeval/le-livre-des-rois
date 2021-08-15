@@ -27,7 +27,7 @@ LE. cinq, c’est tout un quand il s’agit de ce jour de douleur.
 
 Que l’on trouve la vie gaie et une jouissance. on qu’on en parle comme d’une douleur, d’une peine et d’une misère, je n’ai vu personne avoir envie de la mort, qu’il fût pervers ou d’un bon caractère.
 
-L’homme dévot et l’Ahriman qui adore les idoles couvrent leur tête des deux mains à l’idée de ’ la mort.
+L’homme dévot et l’Ahriman qui adore les idoles couvrent leur tête des deux mains à l’idée de la mort.
 
 O vieillard, quand on a dépassé soixante et un ans, le vin, la coupe et le repos n’ont plus de sel et l’homme de sens et de raison n’attache pas son cœur à ce séjour passager.
 
