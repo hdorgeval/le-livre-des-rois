@@ -18,7 +18,7 @@ order: '007'
 
 La reine baissa le rideau de sa salle d’audience et pendant une semaine personne n’y fut admis.
 
-La maîtresse du monde prépara une estrade d’or, deux trônes incrustés de turquoises et de lapis-lazuli, une couronne couverte. de pierreries dignes d’un roi, deux bracelets, un collier orné de pierres fines et une robe royale de brocart d’or, brodée de pierreries de toute espèce.
+La maîtresse du monde prépara une estrade d’or, deux trônes incrustés de turquoises et de lapis-lazuli, une couronne couverte de pierreries dignes d’un roi, deux bracelets, un collier orné de pierres fines et une robe royale de brocart d’or, brodée de pierreries de toute espèce.
 
 Un astrologue était assis devant la reine, cherchant dans les astres un jour propice.
 
