@@ -43,7 +43,7 @@ Dans l’air ; le drapeau de Kaweh étincelait au milieu de la nuit sombre et de
 
 Schapour bouleversa l’enceinte des tentes de ce Kaïsar sans valeur ; on y mit le feu dans tous les coins, on fit tomber le ciel sur la terre ; on tua beau-coup de Roumis et mute la plaine fut couverte de dos, de mains et de troncs.
 
-À la fin le Kaïsar fut. pris. car sa bonne étoile se retirait de lui.
+À la fin le Kaïsar fut. pris car sa bonne étoile se retirait de lui.
 
 On saisit dans leurs tentes beaucoup de ses grands, de ses cavaliers vaillants et choisis et ou les chargea de chaînes.
 
