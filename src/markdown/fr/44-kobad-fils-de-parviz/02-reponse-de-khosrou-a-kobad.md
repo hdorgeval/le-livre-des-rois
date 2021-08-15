@@ -258,7 +258,7 @@ Quiconque est né d’une mère mourra et quand tu bois à la santé de quelqu�
 
 Houscheng et Thahmouras, qui remplissaient la terre de crainte et d’espérance, sont morts et leemschid, auquel obéissaient les Divs et les bêtes fauves, a vu finir sa longue vie.
 
-Le glorieux 3l !
+Le glorieux !
 
 Feridoun, qui a délivré le monde du mal apparent et secret, qui a lié les mains du malfaisant Zohak l’Arabe, n’a pu échapper par sa bravoure à la griffe de la mort.
 
