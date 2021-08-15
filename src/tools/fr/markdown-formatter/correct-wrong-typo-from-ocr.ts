@@ -1406,6 +1406,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/s \. p/g, 's p'),
     (content: string) => content.replace(/ n0s /g, ' nos '),
     (content: string) => content.replace(/ qui as vu /g, ' qui a vu '),
+    (content: string) => content.replace(/ fêles/g, ' fêtes'),
+    (content: string) => content.replace(/ 3l /g, ' '),
   ].forEach((format) => {
     result = format(result);
   });
