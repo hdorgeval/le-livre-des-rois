@@ -66,7 +66,7 @@ puces et de combattre Schideh, qui désirait le combat et avait assis son camp d
 Enfin il mit Gouderz-à la tête d’une quatrième armée, lui adressa beaucoup de conseils et d’exhortations et lui dit :
 
 > Pars avec les grands de l’Iran,
-> ’ avec Gourguin, Zengueh et Gustehem, Feribourz fils de Kaous, Ferhad et Guiv, le Sipehdar Gourazeh et le vaillant Schapour. »
+> avec Gourguin, Zengueh et Gustehem, Feribourz fils de Kaous, Ferhad et Guiv, le Sipehdar Gourazeh et le vaillant Schapour. »
 
 Il leur ordonna de se ceindre pour le combat et de partir sans délai pour le Touran.
 
