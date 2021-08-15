@@ -64,7 +64,7 @@ Heureux l’homme qui porte haut le cœur et s’enveloppe dans la pureté et la
 
 Celui qui est maître de sa raison ne dirigera pas son âme du côté de la passion.
 
-N’écoute pas ceux qui ont un esprit rusé, car ils font du mal aux âmes sereines ; ceux qui ne sont pas prêts à entrer dans la vie future en confessant leurs fautes demeurent ici pleins de chagrins ; ensuite sache que tout homme qui ne craint pas Dieu le toutsaint est vil.
+N’écoute pas ceux qui ont un esprit rusé, car ils font du mal aux âmes sereines ; ceux qui ne sont pas prêts à entrer dans la vie future en confessant leurs fautes demeurent ici pleins de chagrins ; ensuite sache que tout homme qui ne craint pas Dieu le tout-saint est vil.
 
 Si quelqu’un voit avec déplaisir qu’un autre obtient une grâce, qu’il s’en aille et cesse de parler de ses désirs ; il ne connaît pas la partie de l’âme qui est la sagesse, il n’écoute pas le sage qui en parleur DES [
 Kesra demanda :
