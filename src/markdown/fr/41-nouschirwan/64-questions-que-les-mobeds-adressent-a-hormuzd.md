@@ -39,7 +39,7 @@ Buzurdjmihr demanda :
 
 Il répondit :
 
-> ’ C’est d’abord quand on est, dans le bonheur et le malheur, doux envers tous ; quand on s’efforce d’épargner de la peine au cœur de chacun ; enfin quand on rend justice à tous et qu’on acquiert ce ainsi le contentement de soi-même. »
+> C’est d’abord quand on est, dans le bonheur et le malheur, doux envers tous ; quand on s’efforce d’épargner de la peine au cœur de chacun ; enfin quand on rend justice à tous et qu’on acquiert ce ainsi le contentement de soi-même. »
 
 Buzurdjmihr regarda ce prince au cœur pur, au beau visage, qu’il interrogeait, puis il lui dit :
 
@@ -109,7 +109,7 @@ Ensuite, il a parlé d’un homme, objet de pitié,’et pour lequel les larmes 
 
 Il est juste de verser des larmes sur son sort, car il a un maître impur.
 
-Ensuite, celui qui fait du bien à un homme ingrat reste épouvanté. car celui qui oublie les bienfaitsvfait ce qu’il peut pour dérouter la raison.
+Ensuite, celui qui fait du bien à un homme ingrat reste épouvanté car celui qui oublie les bienfaitsvfait ce qu’il peut pour dérouter la raison.
 
 Puis, il m’a demandé quand il vaut mieux pourvoir à son repos par la fuite que de lutter ?
 
@@ -152,7 +152,7 @@ Ensuite, il a demandé : Qui est l’homme injuste et qui est l’homme éhonté
 
 Il demande : Qui est-ce dont les paroles font des ruines et qui, sans souffrir lui-même, rem-
 
-1. ’ ors plit les aubes de peine et de trouble ?
+1. ors plit les aubes de peine et de trouble ?
 
 Le délateur. l’homme à double face et le désœuvré remplissent !
 
