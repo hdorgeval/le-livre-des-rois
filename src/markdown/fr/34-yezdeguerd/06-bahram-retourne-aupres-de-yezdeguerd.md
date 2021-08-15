@@ -78,7 +78,7 @@ Il dit :
 >
 > Dorénavant je t’enverrai tout ce qu’il te faudra d’argent ou de joyaux dignes d’un roi, car il ne faut pas que tu sois en peine et mes ,trésors accumulés n’ont pas de valeur pour moi en face de tes besoins.le t’envoie maintenant dix mille dinars du trésor en guise
 >
-> ’ M3 d’offrande et l’esclave qui était la conseillère et le délice de ton cœur dans l’appartement des femmes, je te l’envoie aussi pour que ton âme sombre redevienne sereine.
+> M3 d’offrande et l’esclave qui était la conseillère et le délice de ton cœur dans l’appartement des femmes, je te l’envoie aussi pour que ton âme sombre redevienne sereine.
 >
 > Et chaque fois que tu auras employé l’argent, ne te crée pas de difficultés avec le roi pour cela,,car je t’en enverrai encore beaucoup d’autre et toutes sortes de richesses de ce pays.
 >
