@@ -95,7 +95,7 @@ Tu tueras un agneau, ce cavalier le mangera et partira et qu’est.ce que tu aur
 Le froid, la cha-’
 leur et l’orage ne t’en frapperont certainement pas moinSm Ainsi parla le mari, mais la femme ne l’écouta pas, car c’était une bonne femme et de bon conseil.
 
-L’agneau étant à la fin tué pour le cavalier. comme l’avait demandé la femme, elle mit à cuire dans un pot de la viande, du froment et du vinaigre et apporta du feu et des tisons ; ensuite elle plaça devant le roi une table avec des œufs et du cresson. de ruisseau, apporta une cuisse rôtie de l’agneau et un mets bouilli dans une seule entrée.
+L’agneau étant à la fin tué pour le cavalier. comme l’avait demandé la femme, elle mit à cuire dans un pot de la viande, du froment et du vinaigre et apporta du feu et des tisons ; ensuite elle plaça devant le roi une table avec des œufs et du cresson de ruisseau, apporta une cuisse rôtie de l’agneau et un mets bouilli dans une seule entrée.
 
 Lorsque Bahram se fut lavé les mains après avoir mangé, il n’avait pas envie de dormir et était mal à l’aise.
 
@@ -153,7 +153,7 @@ Elle dit à son mari :
 >
 > Les intentions du roi du monde ont changé.
 >
-> Le roi de la terre est. devenu oppresseur et son cœur a dévié en secret pendant cette nuit. »
+> Le roi de la terre est devenu oppresseur et son cœur a dévié en secret pendant cette nuit. »
 
 Le mari répondit :
 
