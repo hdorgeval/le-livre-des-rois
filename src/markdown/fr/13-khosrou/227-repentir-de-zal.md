@@ -28,7 +28,7 @@ Ensuite, il dit à haute voix :
 
 > Ô héros à la fortune victorieuse, j’ai écouté tout ce que le Destau a dit devant mes sujets !
 >
-> Je jure par Dieu, le seigneur, le maître du monde, que je suis loin. des voies du Div.
+> Je jure par Dieu, le seigneur, le maître du monde, que je suis loin des voies du Div.
 >
 > Toute mon âme tend vers Dieu, c’est là que je cherche le remède à mes soucis.
 >
