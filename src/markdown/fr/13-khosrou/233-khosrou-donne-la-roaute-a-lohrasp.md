@@ -42,7 +42,7 @@ Les Iraniens étaient confondus de ces paroles et tous rugirent comme des lions 
 
 Zal se leva au milieu d’eux et dit franchement ce qu’il avait dans le cœur en adressant au grand roi ces paroles :
 
-> Il peut te plaire de vouloir rendre honoré ce qui n’est que vile’poussière ; mais quiconque appellera sérieusement Lohrasp roi, que ’ la tête de sa fortune soit couverte de poussière !
+> Il peut te plaire de vouloir rendre honoré ce qui n’est que vile’poussière ; mais quiconque appellera sérieusement Lohrasp roi, que la tête de sa fortune soit couverte de poussière !
 >
 > Que la thériaque se change en poison dans sa bouche !
 >
@@ -68,7 +68,7 @@ Khosrou écouta les paroles du Destan et lui répondit :
 >
 > C’est Dieu qui donne à un homme la bonne fortune, le rend digne de la royauté et en fait un ornement pour le trône.
 >
-> Le Créateur du monde m’est témoin, quand j’assure que Lohrasp possède toutes ces vertus ; il a de la modestie, de la piété et une grande naissance ; il sera un roi ’ noble, victorieux et ami de la justice.
+> Le Créateur du monde m’est témoin, quand j’assure que Lohrasp possède toutes ces vertus ; il a de la modestie, de la piété et une grande naissance ; il sera un roi noble, victorieux et ami de la justice.
 >
 > Il est descendant de Houscheng, le maître du monde ; il a de la prudence, de la sagacité et de l’intégrité ; il exterminera les magiciens, il mettra en évidence la voie de Dieu le très-saint.
 >
