@@ -8,7 +8,31 @@ source: tome II - livre des rois - P. 21
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Rustem combat les trois rois et délivre Kaous de prison | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Alborz',
+    'Bahram',
+    'Berberistan',
+    'Berbers',
+    'Destan',
+    'Dieu',
+    'Gouderz',
+    'Gourazeh',
+    'Guiv',
+    'Hamaveran',
+    'Iran',
+    'Kaous',
+    'Occident',
+    'Raksch',
+    'Roum',
+    'Rustem',
+    'Sam',
+    'Soudabeh',
+    'Tehemten',
+    'Thous',
+    'Zem',
+    'Zewareh',
+  ]
 order: '021'
 ---
 
