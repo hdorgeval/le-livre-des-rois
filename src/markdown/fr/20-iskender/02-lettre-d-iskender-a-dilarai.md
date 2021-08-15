@@ -24,7 +24,7 @@ Bouscbenek, disant :
 
 > > : Que .Diault’accorde la récompense des vertueux, qu’il te donne après tes pentes de la tranquillité d’âme 1 le t’ai déjà écrit une lettre qui contient plus de conseils que je n’en donnerai ici.
 
-Lorsque les jours de ton mari furent passés et . qu’il ont péri parla main d’un esclave, je l’ai placé dans son linceul àla manière des rois, j’ai fait tout. ce qu’il faut pour le deuil d’un maître du monde.
+Lorsque les jours de ton mari furent passés et . qu’il ont péri parla main d’un esclave, je l’ai placé dans son linceul à la manière des rois, j’ai fait tout. ce qu’il faut pour le deuil d’un maître du monde.
 
 Avant le combat, j’ai souvent demandé la paix : il ne me l’a pas accordée, parce que le sort n’a pas . voulu qu’il vécût plus longtemps.
 
