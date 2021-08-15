@@ -86,7 +86,7 @@ Le Destan lui parla longuement, disant :
 >
 > A moins qu’ils ne reviennent eux-mêmes et retrouvent la route, comment en verrait-on une trace dans la neige ?
 >
-> Il ne faut pas rester sur cette montagne, où il n’y a point de nourriture ; il faut nous en ’ 2 : retourner.
+> Il ne faut pas rester sur cette montagne, où il n’y a point de nourriture ; il faut nous en 2 : retourner.
 >
 > Nous enverrons ici des hommes à pied, qui retrouveront un jour les traces du cortège du r01. »
 
