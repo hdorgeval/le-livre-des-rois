@@ -34,7 +34,7 @@ Ils étaient montés sur de grands éléphants avec des clochettes au cou et aux
 
 I C’est ainsi que Schenguil s’avançait avec les sept rois d’une station à l’autre et lorsque Bahram apprit qu’il arrivait, il arrangea un cortège et se mit en route ; dans chaque ville les grands se levèrent et s’apprêtèrent à se porter à la rencontre de Schenguil.
 
-Le roi des rois alla jusqu’à Nahrewan ; il était vieux ’ par l’intelligence, son esprit était éveillé et sa fortune était jeune.
+Le roi des rois alla jusqu’à Nahrewan ; il était vieux par l’intelligence, son esprit était éveillé et sa fortune était jeune.
 
 Les deux puissants rois, les deux amis se rencontrèrent à la fin ; ils mirent pied à terre l’un à côté de l’autre, se faisant des excuses et se saluant.
 
