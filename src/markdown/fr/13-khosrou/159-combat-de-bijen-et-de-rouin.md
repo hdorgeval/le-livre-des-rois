@@ -20,7 +20,7 @@ En sixième lieu s’élancèrent sur le champ de bataille Bijen et Bouïn ; ils
 
 Alors le fils de Guiv se jeta sur le vaillant Rouïu, une massue d’airain en main ; il saisit pendant le combat une occasion favorable, fendit la terre en prenant son élan et plus vite que le vent frappa Rouïn sur la tête avec sa massue de Roum.
 
-La cervelle et le sang jaillirent du crâne de Bouïn ; il rendit l’âme, encore assis sur son destrier et en prononçant le nom de Pirau fils de Wiseh ; ensuite il tomba de cheval ; la terre fut sa couche, son sang fut son oreiller.
+La cervelle et le sang jaillirent du crâne de Bouïn ; il rendit l’âme, encore assis sur son destrier et en prononçant le nom de Piran fils de Wiseh ; ensuite il tomba de cheval ; la terre fut sa couche, son sang fut son oreiller.
 
 Il était parti pour gagner et avait tout perdu sans avoir joui un seul jour de sa jeunesse.
 
