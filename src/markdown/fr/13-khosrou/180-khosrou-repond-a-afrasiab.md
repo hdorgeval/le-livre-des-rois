@@ -92,7 +92,7 @@ Le roi leur répondit :
 >
 > Afrasiab lui a forgé une armure avec un art magique, impie, étrange et méchant ; et vos armes ne vous serviront pas contre cette cuirasse et ce casque d’acier.
 >
-> Son cheval est d’une race. de divs, il a un cœur de lion, il court comme le vent.
+> Son cheval est d’une race de divs, il a un cœur de lion, il court comme le vent.
 >
 > Il n’y a que ceux à qui Dieu a donné la dignité royale qui puissent résister à Schideh et lui échapper dans le combat.
 >
