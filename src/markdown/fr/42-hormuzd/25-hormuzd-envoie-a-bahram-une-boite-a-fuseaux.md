@@ -32,7 +32,7 @@ Tu t’es écarté de mes ordres, tu as arrangé les affaires autrement que je n
 
 Voici un présent digne de toi, convenable et approprié à ton mérite. »
 
-Le roi mit son sceau sur la lettre et se fit apporter une. boite noire à fuseaux, remplie de fuseaux. de coton et de beaucoup decboses dégoûtantes, puis il ajouta une tunique bleue en poil, des pantalons rouges et une coiffe
+Le roi mit son sceau sur la lettre et se fit apporter une. boite noire à fuseaux, remplie de fuseaux de coton et de beaucoup decboses dégoûtantes, puis il ajouta une tunique bleue en poil, des pantalons rouges et une coiffe
 . jaune de femme ; il choisit un messager sans consistance et digne de porter un aussi misérable présent et luidit :
 
 > Porte ceci à Bahram et dis-lui aramon nom :
