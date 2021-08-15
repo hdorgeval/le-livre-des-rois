@@ -107,7 +107,7 @@ Le roi lui dit :
 
 Gouderz et ses fils bénirent le roi, ils baissèrent la tête jusqu’à terre et chacun célébrait la gloire de Kaous.
 
-Ensuite le,roi fit apprêter pour Ferenguis un pavillon doré, il y fit porter des colliers et des boucles d’oreilles, fit placer dans les salles des trônes d’or et couvrit les murs de brocarts de la Chine.
+Ensuite le roi fit apprêter pour Ferenguis un pavillon doré, il y fit porter des colliers et des boucles d’oreilles, fit placer dans les salles des trônes d’or et couvrit les murs de brocarts de la Chine.
 
 Il lui dit :
 
@@ -117,4 +117,6 @@ Il lui dit :
 >
 > Tu as abandonné ton pays et ta famille, tu as souffert en route beaucoup de fatigues ; maintenant l’Iran est ta résidence et ta volonté est mon guide. »
 
-Toutes les femmes de Kaous bénirent Ferenguis’eu disant : Puisse le monde n’être jamais privé de toi ! »
+Toutes les femmes de Kaous bénirent Ferenguis’en disant :
+
+> Puisse le monde n’être jamais privé de toi ! »
