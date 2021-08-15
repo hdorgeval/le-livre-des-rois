@@ -22,7 +22,7 @@ Tout en demeurant debout, il ferma les deux yeux, car il était fatigué de se t
 
 Lorsque son père s’aperçut qu’il avait les yeux fermés, il poussa de colère un cri furieux et
 
-Au. ’ pas sors. dit à l’exécuteur des hautes œuvres :
+Au. pas sors. dit à l’exécuteur des hautes œuvres :
 
 > Emmène cet homme, dorénavant il ne verra plus le diadème et la ceinture du mi.
 >
