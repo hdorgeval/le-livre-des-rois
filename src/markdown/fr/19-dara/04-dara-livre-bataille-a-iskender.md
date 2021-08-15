@@ -20,7 +20,7 @@ Lorsque le soleil leva la tête derrière le dos du corbeau de la nuit, la terre
 
 Le roi fit traverser à ses troupes l’Euphrate et elles s’avancèrent dans la plaine, plus nombreuses que les brins d’herbe. lakender, apprenant l’approche des Iraniens, fit battre les tambours et amena l’armée des Roumis ; c’étaient deux armées sans nombre, mais il n’y avait qu’un Iskender dans le monde.
 
-La terre était comme une mer, la poussière comme une montagne, tant il y avait d’armes et de héros des deux côtés, tant de cottes de mailles et d’épées indiennes, tant de destriers. de chevaux demain et de caparaçons.
+La terre était comme une mer, la poussière comme une montagne, tant il y avait d’armes et de héros des deux côtés, tant de cottes de mailles et d’épées indiennes, tant de destriers de chevaux demain et de caparaçons.
 
 Les armées formaient des deux côtés leurs lignes de bataille et les épées renvoyaient les brillants reflets du soleil.
 
