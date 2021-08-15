@@ -78,7 +78,7 @@ Quand le sorcier fut mort, Bahram se leva et dit :
 
 > Ô Maître suprême de la justice et de la droiture !
 
-Le pouvoir, la victoire et la majesté, la grandeur et le diadème ’ du roi des rois, la tristesse et la joie, viennent de toi et celui qui choisit ta voie est toujours vaili Le lGarannd Stcrnibenarriv1a et dit :
+Le pouvoir, la victoire et la majesté, la grandeur et le diadème du roi des rois, la tristesse et la joie, viennent de toi et celui qui choisit ta voie est toujours vaili Le lGarannd Stcrnibenarriv1a et dit :
 
 > Ô terrible Pehle-æwanl ni lt’eridoun le héros, ni Bahram, ni Nouschirwan n’ont connu de chef de l’armée comme et toi ; tu as la valeur du lion, tu es glorieux et de bon conseil ; tantôt tu protéges, tantôt tu détruis.
 >
