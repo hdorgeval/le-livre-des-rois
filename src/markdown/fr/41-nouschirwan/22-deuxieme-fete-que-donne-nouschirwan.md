@@ -62,7 +62,7 @@ Un autre demanda :
 
 Buzurdjmihr répondit :
 
-> Si un homme de sens a un cœur patient, il arrivers au contentement ; il sera juste quand il donnera et quand il prendra et il fermera ainsi la porte de la perversité et de la perdition ; il pardonnera les fautes quand il est le maître et ne se laissera pas aller à la colère età l’impatience. »
+> Si un homme de sens a un cœur patient, il arrivers au contentement ; il sera juste quand il donnera et quand il prendra et il fermera ainsi la porte de la perversité et de la perdition ; il pardonnera les fautes quand il est le maître et ne se laissera pas aller à la colère et à l’impatience. »
 
 Un autre demanda :
 
