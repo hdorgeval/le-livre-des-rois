@@ -24,7 +24,7 @@ Il lit porter dehors les timbales,-il donna l’ordre de porter dans la plaine l
 
 Lorsque Khosrou eutdes nouvelles de sa marche, il devintiinquiet de ses menées violentes, envoya des émissaires actifs pour observer ce qui se passait et leur dit :
 
-> Avant tout il faut tirer au clair le secret de cette armée, si elle est du même avis que Bainam sur la guerre, ce qui pour nous ferait traîner en longueur cette affaire ; ensuite il l’au-t observer si Bahram, quand il se place au centre. de l’armée, se tient en avant ou au milieu des troupes, comment il s’assoit quand il donne audience et s’il se livre à la chasse pendant sa marche. »
+> Avant tout il faut tirer au clair le secret de cette armée, si elle est du même avis que Bainam sur la guerre, ce qui pour nous ferait traîner en longueur cette affaire ; ensuite il l’au-t observer si Bahram, quand il se place au centre de l’armée, se tient en avant ou au milieu des troupes, comment il s’assoit quand il donne audience et s’il se livre à la chasse pendant sa marche. »
 
 Les émissaires partirent de la cour sans que l’armée du roi s’enfût aperçue ; ils partirent, observè-
 rent, revinrent et se rendirent en secret auprès de Khosrou et dirent :
@@ -112,7 +112,7 @@ Lorsque les deux armées s’approchèrent, d’un côté celle du Sipehbed, de 
 
 Au moment où la nuit, tremblante et les lèvres desséchées, s’enfuit devant le glaive du jour, on entendit résonner le tambour des deux grandes tentes et le soleil devint le guide pour le combat.
 
-Le n roi ordonna à Bendouï età Gustehem de mettre leurs casques de Ier et s’avance avec ses grands à l’esprit serein jusqu’à la source du Nabrewan.
+Le n roi ordonna à Bendouï et à Gustehem de mettre leurs casques de Ier et s’avance avec ses grands à l’esprit serein jusqu’à la source du Nabrewan.
 
 Une ronde avertit à l’instant Bahram qu’une troupe était arrivée à deux portées de flèche ; aussitôt Bahram envoya des troupes, appela près de lui des t
 
