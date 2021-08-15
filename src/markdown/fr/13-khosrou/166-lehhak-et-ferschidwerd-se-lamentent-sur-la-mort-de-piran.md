@@ -21,7 +21,7 @@ près de Lehhak et de Ferschidwerd, le cœur plein de douleur et exhalant des so
 
 > Si mes yeux ne sont pas obscurcis, si après tant de soucis ma vue n’est pas trouble, Dieu a fait périr les Turcs et rendu vaines toutes les fatigues qu’ils ont supportées.
 >
-> J’ai vu les champions de l’Iran descendre de la colline en poussant des cris, tenant chacun en main un étendard ; j’ai vu le drapeau du Sipehdar Pirau renversé et son corps noyé dans son sang ; j’ai vu les dix braves qui sont partis d’ici avec Pirau pour se battre, je les ai vus la tête en bas, désarçonnés et couverts de sang.
+> J’ai vu les champions de l’Iran descendre de la colline en poussant des cris, tenant chacun en main un étendard ; j’ai vu le drapeau du Sipehdar Piran renversé et son corps noyé dans son sang ; j’ai vu les dix braves qui sont partis d’ici avec Piran pour se battre, je les ai vus la tête en bas, désarçonnés et couverts de sang.
 >
 > Les braves de l’Iran viennent de partir triomphalement pour rejoindre Gustehem, et, de l’autre côté de Reibed, on aperçoit une poussière noire qui obscurcit la plaine ; on y voit, au milieu d’une armée, le drapeau de Kaweh précédé d’étendards rouges, jaunes et violets ; le drapeau du roi des rois a paru entouré de clairons et de timbales et la terre devenue noire comme l’ébène. »
 
@@ -37,7 +37,7 @@ Ils restèrent dans la tour gémissant et pleurant ; ils se lamentèrent sur la 
 >
 > Le temps est venu où le pays des Turcs et d’Afrasiab va s’endormir ; il ne nous reste plus qu’à nous couper le cou et à noyer dans le sang nos corps, nos épées et nos mains. »
 
-Mais ils se rappelèrent les dernières volontés de Pirau et n’agirent pas selon les paroles insensées qu’ils venaient de prononcer.
+Mais ils se rappelèrent les dernières volontés de Piran et n’agirent pas selon les paroles insensées qu’ils venaient de prononcer.
 
 Piran, après avoir provoqué Gouderz au combat, avait dit au vaillant Ferschidwerd :
 
@@ -61,7 +61,7 @@ Les deux frères répondirent :
 
 > Qui pourrait assigner une limite aux volontés de Dieu ?
 >
-> Le destin avait écrit au-dessus de la tête de Pirau qu’il périrait misérablement sur le champ de la vengeance, que le glaive séparerait son âme de son corps, qu’il ne trouverait après sa mort ni tombeau ni linceul et qu’il serait traîné par son ennemi de tous côtés, ayant le corps cou-
+> Le destin avait écrit au-dessus de la tête de Piran qu’il périrait misérablement sur le champ de la vengeance, que le glaive séparerait son âme de son corps, qu’il ne trouverait après sa mort ni tombeau ni linceul et qu’il serait traîné par son ennemi de tous côtés, ayant le corps cou-
 . vert de blessures, la poitrine et la cotte de mailles pleines de sang.
 >
 > À présent ce qui devait arriver est arrivé et Piran est mort ; toutes ses fatigues et tous ses hauts faits sont devenus du vent.
@@ -80,7 +80,7 @@ Les deux frères répondirent :
 >
 > Ou enfin vous voulez retourner au combat et tremper vos lances dans le sang.-Examinons ces trois partis ; mais la fin ne sera pas autre que Dieu ne voudra.
 >
-> Si vous inclinez au comtbat, il faut rester ici ; car Pirau a demandé des renl’orts à Afrasiab ; le roi a équipé une armée qui peut arriver d’un moment à l’autre et alors ven-gez-vous des Iraniens.
+> Si vous inclinez au comtbat, il faut rester ici ; car Piran a demandé des renl’orts à Afrasiab ; le roi a équipé une armée qui peut arriver d’un moment à l’autre et alors ven-gez-vous des Iraniens.
 >
 > Si vous aimez mieux rentrer dans votre pays et dans vos demeures, il est probable que les Iraniens vous couperont le chemin.
 >
