@@ -22,7 +22,7 @@ De l’autre côté, Souferaï, le cœur rempli du désir de vengeance, s’avan
 
 Lorsque la nuit fut devenue profonde . le Pehlewan de l’armée ferma l’accès du camp par une rangée d’éléphants reposés ; des rondes faisaient le tour des deux armées ; le monde se remplit du bruit des hommes avides de combats et l’on entendit de loin, du devant et des derrières, le cri des gardiens des camps et le tintement des clochettes.
 
-Cela continua jusqu’à ce que l’épée du soleil parût et les vallées et les plaines brillèrent comme un cris-La] blanc ; alors les deux armées se préparèrent au combat et déployèrent l’étendard de la puissance : les cris des braves avides de combats déchirèrent le cœur des dragons, les plumes des flèches firent de l’air comme une queue de vautour et le sang des ’ chefs fit de la terre un lac.
+Cela continua jusqu’à ce que l’épée du soleil parût et les vallées et les plaines brillèrent comme un cris-La] blanc ; alors les deux armées se préparèrent au combat et déployèrent l’étendard de la puissance : les cris des braves avides de combats déchirèrent le cœur des dragons, les plumes des flèches firent de l’air comme une queue de vautour et le sang des chefs fit de la terre un lac.
 
 De quelque côté qu’on regardât, il y avait un monceau de morts qui avaient succombé aux coups des héros.
 
