@@ -45,7 +45,7 @@ Puis, il écrivit en pehlewi une lettre en caractères royaux et à la manière 
 >
 > Par mon alliance avec toi, je suis redevenuce qu’étaient autrefois les rois de cette grande famille, d’abord Kaïoumors, puis Djemschid, qui remplissait le monde de craintes et d’espérances ; puis .venaient a : ces hommes à la naissance fortunée, issus d’Abtin et de Feridoun et de ces puissants rois anciens nous arrivons à Kaous et Keï Khosrou et au grand Keï Kobad, qui par sa justice faisait une seule famille des brebis et des loups.
 >
-> Ainsi de suite jusqu’au roi Lohrasp et de Lohrasp au roi Guschtasp, au ’ fortunéIsfendiar, chef des grandsqui ont pour rejeton l’illustre Bahman.
+> Ainsi de suite jusqu’au roi Lohrasp et de Lohrasp au roi Guschtasp, au fortunéIsfendiar, chef des grandsqui ont pour rejeton l’illustre Bahman.
 >
 > Nous arrivons ainsi à Ardeschir, fils de Babek, qui rajeunit l’étoile vieillie de l’empire et à Khosrou, fils de Hormuzd, qui ne forme qu’un cœur et qu’une âme avec le Kaisar, dont l’antique ancêtre a été Selm ; je ne mens pas et ne cherche pas de vaines paroles, car nous avons renoncé à toute vengeance et les Roumis et les Iraniens ne font plus qu’un.
 >
