@@ -55,7 +55,7 @@ Yezdeguerd, le scribe, dit :
 ’
 Lorsque Buzurdjmihr eut entendu ces beaux discours et rempli son cerveau de sagesse, il dit :
 
-> Ô ’ roi au visage de soleil, puisse le ciel étoilé être toujours propice à tes désirs !
+> Ô roi au visage de soleil, puisse le ciel étoilé être toujours propice à tes désirs !
 >
 > Fais de manière que tout homme qui a de l’intelligence cultive son esprit par le savoir.
 >
