@@ -86,4 +86,4 @@ Le roi du pays de Touran répondit à Piran :
 
 > Il faut le renvoyer du bord de la mer de la Chine, si loin que les grands de l’Iran n’en entendent jamais parler . »
 
-Et Pirau l’envoya vite, connue la fumée que pousse le vent, du côté où le roi l’avait ordonné.
+Et Piran l’envoya vite, connue la fumée que pousse le vent, du côté où le roi l’avait ordonné.
