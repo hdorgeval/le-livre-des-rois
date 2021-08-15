@@ -156,7 +156,7 @@ Je te dis tout cela afin que tu ne cherches pas un nouveau prétexte pour élude
 
 Tu nous as attaqués inopinément, tu nous a tendu un piège et dressé une embuscade, tu ne nousas accordé aucun délai ; mais il n’importe que je me venge dans cent ans ou dans ce moment même : seulement n’espère pas que je m’en retourne sans avoir livré ce combat, pour lequel la nuit et le jour, le temps opportun et inopportun me sont indifférents. »
 
-La réponse à la lettre de Pirau étant achevée, le messager accourut rapide comme une Péri, la ceinture serrée, assis sur son coursier et entouré de son escorte de cavaliers.
+La réponse à la lettre de Piran étant achevée, le messager accourut rapide comme une Péri, la ceinture serrée, assis sur son coursier et entouré de son escorte de cavaliers.
 
 Le vaillant Rouïn mit pied à terre et amena tous les braves qui l’accompagnaient devant le chef de l’armée.
 
@@ -164,18 +164,18 @@ Gouderz fit ordonner-à tous les Mobeds, à tous les hommes illustres par leur s
 
 Alors le Pehlewan fit lire sa réponse devant les héros.
 
-Les grands entendirent lire par le fortuné scribe litt) cette lettre qui gagnait tous les esprits ; ils reconnurent que l’intelligence de Pirau était vaincue et traitè-
+Les grands entendirent lire par le fortuné scribe litt) cette lettre qui gagnait tous les esprits ; ils reconnurent que l’intelligence de Piran était vaincue et traitè-
 rent avec mépris les avis qu’il leur avait donnés.
 
 Ils célébrèrent les louanges de Gouderz, ils l’appelerent le Pehlewan du monde.
 
-Ensuite, il apposa son sceau sur la lettre et la remit à Rouïn fils de Pirau fils de Wiseh.
+Ensuite, il apposa son sceau sur la lettre et la remit à Rouïn fils de Piran fils de Wiseh.
 
 Au moment où les Touraniens se levè-rent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Roui’n des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or, età ses compagnons de l’argent et de l’or et des casques et des ceintures à ceux qui pouvaient y prétendre.
 
 Rouïn partit de la cour du Pehlewan avec son escorte et se dirigea vers l’armée du Touran.
 
-Arrivé auprès de Pirau, il se présenta respectueusement devant son père et inclina la tête devant son trône et le sage Pirau le serra dans ses bras.
+Arrivé auprès de Pirau, il se présenta respectueusement devant son père et inclina la tête devant son trône et le sage Piran le serra dans ses bras.
 
 Rouïn s’acquitta du message de Gouderz et raconta tout ce qu’il avait vu dans le camp iranien.
 
