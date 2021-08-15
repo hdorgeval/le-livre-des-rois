@@ -46,9 +46,9 @@ Le conseiller dit au Kaisar :
 
 Le Kaisar envoya un messager et quatre d’entre les philosophes arrivèrent, les uns jeunes, les autres vieux, tous Roumis de naissance ; ils discoururent longuement de ce qui s’était passé, disant :
 
-> Depuis la mort d’Iskender, nos âmes étaient désolées par les Iraniens, qui ne cessaient. de nous piller, de nous faire la guerre, de nous attaquer et de verser follement notre sang innocent.
+> Depuis la mort d’Iskender, nos âmes étaient désolées par les Iraniens, qui ne cessaient de nous piller, de nous faire la guerre, de nous attaquer et de verser follement notre sang innocent.
 >
-> Maintenant Dieu le toutsaint a amené le malheur sur eux pour les punir de leurs mauvaises actions.
+> Maintenant Dieu le tout-saint a amené le malheur sur eux pour les punir de leurs mauvaises actions.
 >
 > Mais tiens-toi tranquille, puisque la fortune des Sâsânides est devenue boiteuse.
 >
