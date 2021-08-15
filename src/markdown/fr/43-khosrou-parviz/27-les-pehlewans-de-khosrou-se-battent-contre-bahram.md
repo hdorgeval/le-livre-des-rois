@@ -224,7 +224,7 @@ Aussitôt que ce cri fut sorti de la montagne apparut le bienheureux Serosch, v�
 
 Lorsqu’il fut près de lui, le.
 
-Serosch saisit la main de Khosrou (il ne faut pas s’étonner de cela de la part de Dieu le toutsaint), l’enleva de devant son ennemi, l’emporta sans effort et puis le lâcha.
+Serosch saisit la main de Khosrou (il ne faut pas s’étonner de cela de la part de Dieu le tout-saint), l’enleva de devant son ennemi, l’emporta sans effort et puis le lâcha.
 
 Khosrou, tantôt parlant, tantôt pleurant, lui demanda son nom ; l’ange répondit :
 
