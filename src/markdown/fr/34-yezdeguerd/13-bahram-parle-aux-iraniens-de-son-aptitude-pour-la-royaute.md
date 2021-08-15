@@ -75,7 +75,7 @@ Les nobles et les Mobeds de l’Iran et tous ceux qui avaient entendu le discour
 >
 > Il ne dit pas un mot qui ne soit juste et nous devrions nous en réjouir.
 >
-> Quant aux lions féroces et au trône, el à la couronne des Keïanides qu’on placerait entre eux, si les lions déchirent Bahram, le Distributeur. de la justice ne nous demandera pas compte de son sang, car c’est lui qui l’a proposé et c’est son propre plan.
+> Quant aux lions féroces et au trône, el à la couronne des Keïanides qu’on placerait entre eux, si les lions déchirent Bahram, le Distributeur de la justice ne nous demandera pas compte de son sang, car c’est lui qui l’a proposé et c’est son propre plan.
 >
 > S’il meurt, nous pouvons être tranquilles ; et s’il s’empare de la couronne, il sera plus glorieux que Feridoun et nous ne recourraitrons d’autre roi que lui.
 >
