@@ -22,7 +22,7 @@ Le roi fit écrire à Bahram : Ô Div malfaisant !
 
 Tu ne sais donc plus qui tu es, tu crois dons n’avoir plus besoin des grands ?
 
-Tu ne vois pas que le succès vient de ’ Dieu et tu veux t’asseoir sur la roue des cieux ?
+Tu ne vois pas que le succès vient de Dieu et tu veux t’asseoir sur la roue des cieux ?
 
 R Tu as donc oublié toutes les peines que j’ai prises ; que c’est mon armée que j’ai donnée et me trésors que j’ai dépensés ?
 
