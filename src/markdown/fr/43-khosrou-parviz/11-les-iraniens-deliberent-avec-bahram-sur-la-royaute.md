@@ -87,8 +87,7 @@ Ainsi parla le vaillant homme, puis il se rassit ; et le chef du pays des Khazar
 >
 > Le passé et ne dirige pas tes pas audacieux vers le trône, car, aussi longtemps que vit le roi maître du monde, aucun Sipehbed ne peut prétendre au trône.
 >
-> Si, dans ton cœur, Khosrou t’inspire des craintes, quitte le Farsistan et Thisifoun et vis tranquille dans le pays de Khorasan, où tu jouiras
-. de la sécurité et du pouvoir que tu mérites ; écris lettre sur lettre pour t’excuser et il faut espérer que le roi reviendra vers toi. »
+> Si, dans ton cœur, Khosrou t’inspire des craintes, quitte le Farsistan et Thisifoun et vis tranquille dans le pays de Khorasan, où tu jouiras de la sécurité et du pouvoir que tu mérites ; écris lettre sur lettre pour t’excuser et il faut espérer que le roi reviendra vers toi. »
 
 Khosrou n’avait pas encore quitté sa place, que déjà le noble Farrulrh s’avançait ; il commença à parler selon la justice, disant :
 
