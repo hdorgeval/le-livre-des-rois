@@ -78,7 +78,7 @@ Apercevant un moulin sur les bords de la rivière de Zark, il descendit de cheva
 
 Ceux-ci s’acharnaient à sa poursuite et tout le pays de Zark était plein de tumulte.
 
-Le roi avait abandonné son cheval aux brides dorées, sa masse d’armes et son sabre vu. ’ 3A
+Le roi avait abandonné son cheval aux brides dorées, sa masse d’armes et son sabre vu. 3A
 
 Au fourreau d’or ; taudis que les Turcs, ardents à le chercher, se précipitaient sur son destrier et sur ses armes, le roi pénétra dans la chambre du moulin et s’assit sur une botte d’herbes sèches, Telle est la loi de ce monde trompeur : quand on a gravi ses sommets, on trouve derrière une pente rapide.
 
