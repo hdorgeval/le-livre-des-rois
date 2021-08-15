@@ -48,7 +48,7 @@ Khosrou dit à Gustehen, le ll3 lion :
 
 > Comment cela pourrait-il être, ô vaillant cavalier ? .Si tu crois que Bendouî est en vie, il doit être en prison ; s’il est mort, il est suspendu au gibet sur le Meïdan. »
 
-Gustehem réplipliqua : ’ 0
+Gustehem réplipliqua : 0
 roi, regarde bien de ce côté, car c’est ton oncle.
 
 Quand cet homme sera près de nous, si ce n’est pas lui, ne laisse pas la vie à ce bavard de Gustehem. »
@@ -102,7 +102,7 @@ Il entra dans le temple du feu en priant silen-cieusement, le cœur entièrement
 Le roi défit la ceinture d’or qui serrait sa taille et jeta quelques pierreries sur le feu sacré, puis il dit ses prières devant Aderguschasp, suppliant plus haut que le Hirbed et disant :
 
 > Ô maître de la justice ! ô
-toi le tout par, abaisse la tête de mes ennemis ’ il!) dans la poussière !
+toi le tout par, abaisse la tête de mes ennemis il!) dans la poussière !
 >
 > Tu sais que je soupire après la justice, que mes pensées ne sont dirigées que vers la route du bien.
 >
