@@ -255,7 +255,7 @@ Lorsque Bahram Cour lut cette lettre, son cœur fut troublé de ce qu’il lisai
 
 Il devint sombre, ses yeux se remplirent de larmes et il fronça ses sourcils farouches.
 
-Il ordonna à un scribe de ’ venir auprès de lui et demanda un roseau roumi et de la soie de Chine.
+Il ordonna à un scribe de venir auprès de lui et demanda un roseau roumi et de la soie de Chine.
 
 Il rendit d’abord hommage au Créateur, le maître victorieux, le père nourricier du monde, le maître du savoir et de la gloire, maître du diadème des rois des rois.
 
