@@ -52,7 +52,7 @@ Il prodigua de grandes louanges et témoigna un grand respect à ce Pehlewan vai
 >
 > Tu as de la bravoure, de la naissance et de l’intelligence et mon esprit se plaît à penser à toi.
 >
-> Tout ira bien si tu veux suivre mon conseil. car tu es issu d’une famille puissante et depuis
+> Tout ira bien si tu veux suivre mon conseil car tu es issu d’une famille puissante et depuis
 (c Sipendjab jusqu’aux bords du Gulzarrioun personne ne refusera de t’obéir. »
 
 Ensuite, il envoya à Feribourz fils de Kaous une couronne d’or, des pièces d’or et beaucoup de
