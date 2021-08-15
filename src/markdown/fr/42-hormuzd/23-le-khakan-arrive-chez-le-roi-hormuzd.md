@@ -43,7 +43,7 @@ Le lendemain, à l’aube du jour. le roi fit placer du vin sur les tables et s�
 
 L peine.
 
-On avait enlevé d’Awazeh cent trésors et l’esprit. de Parmoudeh était tout résigné.
+On avait enlevé d’Awazeh cent trésors et l’esprit de Parmoudeh était tout résigné.
 
 Il fit apporter devant la cour un paquet de vêtements et des boucles d’oreilles et des ceintures ornées de Pierreries ; on aurait dit que tout l’or et tous les joyaux de la terre s’y trouvaient.
 
