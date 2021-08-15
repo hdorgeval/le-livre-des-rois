@@ -30,7 +30,7 @@ Un Mobed a dit :
 
 > Aucun roi comparable à Kesra sur son trône d’ivoire n’a placé depuis lui la couronne sur la tête et personne n’a souvenir d’un roi aussi grand dans la guerre et dans les fêtes, aussi maître de ses passions et aussi juste.
 >
-> Il apprenait. des sages la sagesse, il éclairait son esprit par le savoir.
+> Il apprenait des sages la sagesse, il éclairait son esprit par le savoir.
 >
 > Il aimait à avoir autour de lui des Mobeds, quand il dînait et quand il se reposait ; il ornait son esprit de connaissances.
 >
@@ -48,8 +48,7 @@ Le nom de cet honnête homme était Mahboud, son esprit et son cœur étaient re
 
 Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou ou quand il demandait à un Mobed le barsom.
 
-Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a !
-
+Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a ! 
 H
 deux jeunes gens illustres et purs portaient les mets chez le roi.
 
@@ -67,7 +66,7 @@ Or, un jour, un Juif emprunta à Zerwan de l’argent pour le faire valoir ; il 
 
 Un jour il parla, en secret de la cour et du roi du monde,à.
 
-Zerwan d’incantations, de sorcelleries, d’arts secrets. de magie, d’actes iniques et servant les mauvaises intentions.
+Zerwan d’incantations, de sorcelleries, d’arts secrets de magie, d’actes iniques et servant les mauvaises intentions.
 
 Zerwan devint attentif aux discours du Juif ; il écouta ce qu’il disait des mystères de la sorcellerie et lui dévoila son propre secret, disant :
 
