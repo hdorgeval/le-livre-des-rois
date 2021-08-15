@@ -20,7 +20,7 @@ Gouderz appela un secrétaire et lui dit :
 
 > Je vais te confier des paroles secrètes ; mais si tu ouvres tes lèvres pour les laisser échapper, ta langue attirera la destruction sur ta tête. »
 
-Il lui ordonna d’écrire une lettre au roi pour lui donner des nouvelles de l’armée ; de lui exposer tout ce qui s’était passé, tout. ce que Piran lui avait fait dire ; de raconter comment il avait envoyé Guiv avec des oll’res d’alliance et d’amitié, pour éclairer Pirau sur le sort. que lui préparait la rotation du ciel ; comment Piran avait répondu à Guiv et aux grands, ses vaillants conseillers ; comment une armée avait marché sur les pas de Guiv comme une troupe de léopards et s’était avancée hostilement jusqu’à Kenabed ; comment les Iraniens avaient disposé leurs troupes et préparé leurs cœurs à la lutte.
+Il lui ordonna d’écrire une lettre au roi pour lui donner des nouvelles de l’armée ; de lui exposer tout ce qui s’était passé, tout. ce que Piran lui avait fait dire ; de raconter comment il avait envoyé Guiv avec des oll’res d’alliance et d’amitié, pour éclairer Piran sur le sort. que lui préparait la rotation du ciel ; comment Piran avait répondu à Guiv et aux grands, ses vaillants conseillers ; comment une armée avait marché sur les pas de Guiv comme une troupe de léopards et s’était avancée hostilement jusqu’à Kenabed ; comment les Iraniens avaient disposé leurs troupes et préparé leurs cœurs à la lutte.
 
 Il raconta de point en point l’histoire de Houman et de Nestihen les vaillants guerriers et les hauts faits de Bijen aujour de la bataille et comment il avait traité les Touraniens armés de massues ; il exposa tout cela. dans la lettre, tel que c’était arrivé.
 
@@ -71,7 +71,7 @@ Ses le trésorier apporta des caisses remplies d’or et en versa sur Hedjir jus
 
 On amena devant Hedjir dix nobles chevaux avec des selles d’or ; et l’on donna en présent à ses compagnons de l’argent, de l’or et beaucoup d’autres choses.
 
-Ensuite, il se levèrent avec le roi, on prépara une salle pour y boire du vin ; Hedjir et les grands dévoués au roi saisirent chacun une coupe et ils restèrent ainsi ensemble pendant un jour et une nuit, le roi délibérant avec eux sur toutes choses grandes et petites.
+Ensuite, ils se levèrent avec le roi, on prépara une salle pour y boire du vin ; Hedjir et les grands dévoués au roi saisirent chacun une coupe et ils restèrent ainsi ensemble pendant un jour et une nuit, le roi délibérant avec eux sur toutes choses grandes et petites.
 
 À l’aube du jour Khosrou se baigna et alla se présenter devant Dieu le maître du monde ; il se revêtit de nouveau du vêtement de l’obéissance ; ses deux yeux versaient des torrents de larmes ; et le dos courbé, la tête prosternée, il rendit grâces à Dieu le dispensateur de la justice, le supplia de lui accorder la victoire et la puissance et de sauver sa couronne et son trône royal ; il poussa des cris de douleur devant Dieu en pensant à Afrasiab et ses yeux répandirent des larmes de détresse.
 
