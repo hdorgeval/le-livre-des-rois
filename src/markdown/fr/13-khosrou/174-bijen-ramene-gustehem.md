@@ -22,7 +22,7 @@ Tous les grands de l’armée de l’Iran tournèrent leurs regards sur la route
 
 > Qui est-ce qui ose sortir de la frontière du Touran pour venir nous attaquer ici ? »
 
-Pendant ce temps Bijen s’avançait rapidement, son arc bandé suspendu à son bras ; on distinguait Lehhak et Ferschidwerd couchés sur leurs chevaux et couverts de sang et de poussière et sur un autre cheval un Turc accablé . de tristesse, qui tenait dans ses bras Gustehem.
+Pendant ce temps Bijen s’avançait rapidement, son arc bandé suspendu à son bras ; on distinguait Lehhak et Ferschidwerd couchés sur leurs chevaux et couverts de sang et de poussière et sur un autre cheval un Turc accablé de tristesse, qui tenait dans ses bras Gustehem.
 
 Quand Bijen se fut approché du roi et qu’il eut aperçu sa couronne et son trône élevé, il se prosterna devant lui et baisa la terre.
 
