@@ -35,7 +35,7 @@ Elle choisit parmi ses troupes un cavalier qui savait dessiner et reproduire exa
 
 Le peintre l’écoute et monta à cheval, prêt à exécuter les ordres de la reine.
 
-Il alla d’Andalous au Misr, rapidement comme un courrier, auprès du noble Kaïsar Iskender et aussi souvent qu’il le vit, soit assis sur le trône, soit à cheval, il prit du papier et de l’encre. de Chine, en fit le portrait tel qu’il était et puis reparliten toute hâte.
+Il alla d’Andalous au Misr, rapidement comme un courrier, auprès du noble Kaïsar Iskender et aussi souvent qu’il le vit, soit assis sur le trône, soit à cheval, il prit du papier et de l’encre de Chine, en fit le portrait tel qu’il était et puis reparliten toute hâte.
 
 Lorsque Keïdafeh vit l’image d’Iskender, . elle devint inquiète et la cacha en soupirant, disant nielle-même .-Cet homme foulera aux pieds le monde à l’aide de ses armes et de son intelligence et quiconque se présentera devant lui pour le combattre ne jouira pas d’une longue vie sur la terre. »
 
