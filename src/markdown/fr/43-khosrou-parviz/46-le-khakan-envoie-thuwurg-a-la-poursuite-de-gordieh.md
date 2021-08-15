@@ -79,7 +79,7 @@ Thuwurg quitta le front de l’armée et suivit cette v1.
 
 Fière et illustre femme et lorsque la rusée se vit seule avec lui, elle lui montra son visage sous son casque noir et lui dit :
 
-> Tu .as vu Bahram, tu as ’ admiré sa manière d’aller à cheval et de combattre.
+> Tu .as vu Bahram, tu as admiré sa manière d’aller à cheval et de combattre.
 >
 > Or il était mon frère de père et de mère et maintenant qu’il est mort, je te mettrai à l’épreuve et me battrai avec toi ; si tu me trouves digne d’un mari, dis-le : je pourrais peut-être t’accepter pour époux. »
 
