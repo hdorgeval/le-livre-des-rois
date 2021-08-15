@@ -18,7 +18,7 @@ order: '028'
 
 Lorsque le roi eut terminé l’affaire du Roumi, son esprit s’inquiéta de l’état du peuple.
 
-Il fit venir son conseiller le Mobed et rassembla les grands ; il distribua toute la terre à ces Pehlewans ardents pour les combats ; il donna de l’argent, des chevaux, des sceaux et des diadèmes et aux plus nobles des provinces. des couronnes et des trônes.
+Il fit venir son conseiller le Mobed et rassembla les grands ; il distribua toute la terre à ces Pehlewans ardents pour les combats ; il donna de l’argent, des chevaux, des sceaux et des diadèmes et aux plus nobles des provinces des couronnes et des trônes.
 
 Il répandit dans le monde la droiture et les grands et les petits étaient heureux sous lui ; il éloigna ceux qui étaient injustes, qui ne donnaient pas librement et avaient la parole froide ; puis il dit aux Mobeds :
 
