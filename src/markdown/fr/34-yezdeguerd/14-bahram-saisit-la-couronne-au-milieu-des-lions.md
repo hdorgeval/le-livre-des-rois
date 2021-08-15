@@ -178,10 +178,9 @@ Khosrou s’approcha et lui rendit son hommage, disant :
 > Notre refuge est en Dieu, qui a été notre
 . asile et a montré le vrai chemin à ceux qui s’étaient égarés. »
 
-Les grands versèrent sur Bahram
-. des pierreries et bénirent le nouveau trône et un cri immense s’éleva du monde entier.
+Les grands versèrent sur Bahram des pierreries et bénirent le nouveau trône et un cri immense s’éleva du monde entier.
 
 Cette fête était au mois d’Ader, au jour de Serosch de dix-sept novembre).
-Il est venu un nuage et la lune s’est obscurcie, il tombe. de la neige des nuages noirs ; on ne voit ni rivière, ni plaine, ni crêtes des montagnes ; je ne MI distingue pas l’aile du corbeau dans l’air, il ne me reste ni salaisons, ni bois, ni orge, et, jusqu’à la moisson de l’orge, je ne vois rien pour moi.
+Il est venu un nuage et la lune s’est obscurcie, il tombe de la neige des nuages noirs ; on ne voit ni rivière, ni plaine, ni crêtes des montagnes ; je ne MI distingue pas l’aile du corbeau dans l’air, il ne me reste ni salaisons, ni bois, ni orge, et, jusqu’à la moisson de l’orge, je ne vois rien pour moi.
 
 Dans cette obscurité du jour et dans la terreur de l’impôt à payer, pendant que la neige a rendu la terre semblable à une montagne d’ivoire, toutes mes affaires dépérissent, à moins qu’un ami ne vienne à mon dont rien ne peut dépasser les merveilles.
