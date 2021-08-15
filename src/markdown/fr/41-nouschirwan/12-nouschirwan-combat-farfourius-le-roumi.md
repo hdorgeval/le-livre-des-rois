@@ -67,7 +67,7 @@ On fit alors une proclamation du haut de la porte du roi :
 >
 > Qu’a-t-on à reprocher à nous, gens de Kalinius ? »
 
-Le roi pardonna à ces Roumis et les coupables échappèrent avec les innocents ; il leur laissa beaucoup de richesses et continua en toute hâte sa marche ; mais il emmena tous les hommes en état de porter des armes, enchaînés et placés sur des éléphants. ’ .
+Le roi pardonna à ces Roumis et les coupables échappèrent avec les innocents ; il leur laissa beaucoup de richesses et continua en toute hâte sa marche ; mais il emmena tous les hommes en état de porter des armes, enchaînés et placés sur des éléphants. .
 On apprit à Anthakia (Antioche) que le roi arrivait avec des éléphants et une armée ; il y avait dans cette ville une innombrable armée de Roumis vaillants et fiers ; le roi s’arrêta pendant trois jours pour leur laisser le temps de se soumettre, mais le quatrième jour les corps de l’armée des braves de l’Iran s’avancèrent l’un après l’autre.
 
 Tous les cavaliers roumis sortirent pour défendre leurs femmes, leurs enfants, leurs trésors et leur pays et livrèrent en deux jours trois grandes batailles.
