@@ -36,7 +36,7 @@ Dans ce moment Kharrad Beniu arriva, s’étant enfui de chez Saweh ; il dit à 
 >
 > Ne livre pas au vent les têtes des Iraniens, aie de justes égards pour ces hommes illuscrtres.
 >
-> Je le conjure par ta bravoure, aie pitié de la vie. car tu n’as jamais en une pareille besogne de-
+> Je le conjure par ta bravoure, aie pitié de la vie car tu n’as jamais en une pareille besogne de-
 >
 > vaut toi. »
 
