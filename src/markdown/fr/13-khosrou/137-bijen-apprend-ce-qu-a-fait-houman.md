@@ -129,7 +129,7 @@ Alors Guiv dit à Gouderz :
 
 > Ô Pehlewan du monde, dans un moment où le combat met la vie en danger, il n’y a plus ni fils, ni trésors, ni troupes, ni attachement au chef, ni ordre du roi qui comptent.
 
-Je suis àla veille d’une périlleuse journée ; pourquoi livrerais je ma vie ?
+Je suis à la veille d’une périlleuse journée ; pourquoi livrerais je ma vie ?
 
 S’il veut se battre, n’a-t-il pas une armure ?
 
