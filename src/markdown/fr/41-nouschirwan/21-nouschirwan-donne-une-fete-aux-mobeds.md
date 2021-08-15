@@ -48,7 +48,7 @@ Ensuite, il dit :
 
 > Brillant est l’esprit de celui qui dit peu avec un sens profond ; mais celui qui a l’esprit irréfléchi parle beaucoup et longuement et quand il y a de longs discours dépourvus de sens, les hommes méprisent celui qui parle.
 >
-> Fais ton devoir et ne te laisse pas aller au souci de l’ambition, car la terre est un séjour fugitif et nous ne faisons qu’y passer ; si nos jours étaient éternels, bien des ’ hommes demanderaient la possession du [monde Il n’y a rien de mieux dans la vie que l’humanité ; en cela la science ne te contredira pas.
+> Fais ton devoir et ne te laisse pas aller au souci de l’ambition, car la terre est un séjour fugitif et nous ne faisons qu’y passer ; si nos jours étaient éternels, bien des hommes demanderaient la possession du [monde Il n’y a rien de mieux dans la vie que l’humanité ; en cela la science ne te contredira pas.
 >
 > Le commencement de la droiture est la connaissance de Dieu et si tu le connais il serait mal de ne pas le craindre.
 >
