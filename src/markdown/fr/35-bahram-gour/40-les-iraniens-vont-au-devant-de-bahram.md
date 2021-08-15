@@ -40,7 +40,7 @@ Autant un cœur est rempli de justice, de générosité et de droiture, autant i
 
 Que personne de vous ne craigne rien de moi, eût-il une montagne d’or et un trésor d’argent ; rejetez donc de vos cœurs toute crainte et augmentez tous vos biens.
 
-Le laboureur et le descendant d’un Dihkan sont égaux devant moi au jour de la justice et celui à j qui j’aurai donné une couronne et un trône, sachez que c’est à Dieu et à la justice qu’il doit sa fortune ; et si c’est la volonté de Dieu, mon cœur se réjouira de la fortune qui sourit à cet homme ; j’augmenterai ses biens et lui montrerai le chemin ’ du bonheur.
+Le laboureur et le descendant d’un Dihkan sont égaux devant moi au jour de la justice et celui à j qui j’aurai donné une couronne et un trône, sachez que c’est à Dieu et à la justice qu’il doit sa fortune ; et si c’est la volonté de Dieu, mon cœur se réjouira de la fortune qui sourit à cet homme ; j’augmenterai ses biens et lui montrerai le chemin du bonheur.
 
 Je ne travaillerai pas à remplir mon trésor ; je ne veux pas dépeupler le pays, je ne désire accumuler qu’un trésor de justice dont mes mânes jouiront après la mort.
 
@@ -58,9 +58,9 @@ Ayant ainsi parlé, il se rassit sur son trône, heureux dans l’âme et plaça
 Les grands appelèrent sur lui des bénédictions, disant :
 
 > Puissent le diadème et le sceau n’être jamais privés de toil Lorsque le roi est un sage
-> ’ et que sa fortune est victorieuse, la terre, la couronne et le trône en sont glorieux.
+> et que sa fortune est victorieuse, la terre, la couronne et le trône en sont glorieux.
 
-Tuas du savoir, de la bravoure et de la gloire et ton pouvoir, ton sang et ta naissance dépassent ce qu’il faut au trône impérial et le monde ne se rappelle pas un roi ’ comme toi.
+Tuas du savoir, de la bravoure et de la gloire et ton pouvoir, ton sang et ta naissance dépassent ce qu’il faut au trône impérial et le monde ne se rappelle pas un roi comme toi.
 
 Il nous est impossible à nous tous, que nous soyons jeunes ou vieux, de ne pas te bénir.
 
