@@ -78,7 +78,7 @@ Les astrologues voyant la colère du roi, lui dirent :
 
 > Ô roi glorieux !
 >
-> Tu es né sous la constellation du Lion, c’est connu des Mobeds et des grands ; puisque tu as vu cet enfant mort à tête de lion, ta royauté va décliner et le monde sera pendant longtemps plein. de troubles, jusqu’à ce qu’un nouveau roi s’établisse. »
+> Tu es né sous la constellation du Lion, c’est connu des Mobeds et des grands ; puisque tu as vu cet enfant mort à tête de lion, ta royauté va décliner et le monde sera pendant longtemps plein de troubles, jusqu’à ce qu’un nouveau roi s’établisse. »
 
 Tous les astrologues qui se trouvaient devant lui dirent la même chose et expliquèrent les signes qui les guidaient.
 
