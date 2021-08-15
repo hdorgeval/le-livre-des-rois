@@ -40,11 +40,11 @@ Mais il était brave et continuait à se battre ; il luttait contre la révoluti
 
 Après s’être servis des autres armes, les chefs des deux armées, les vieillards pleins de prudence saisirent les arcs et les flèches.
 
-Gouderz choisit une flèche de bois de peuplier à laquelle ni le fer ni la pierre ne pouvaient résister, il la lança contre le caparaçon du cheval de Pirau et le perça.
+Gouderz choisit une flèche de bois de peuplier à laquelle ni le fer ni la pierre ne pouvaient résister, il la lança contre le caparaçon du cheval de Piran et le perça.
 
 Le destrier chancela et expira.
 
-Dans sa chute il renversa Pirau sous lui, se roula sur son vaillant cavalier et lui brisa par son poids le poignet droit.
+Dans sa chute il renversa Piran sous lui, se roula sur son vaillant cavalier et lui brisa par son poids le poignet droit.
 
 Pirau se dégagea et se releva ; mais il sentit que sa fin approchait et qu’il ne survivrait pas à cette journée fatale.
 
@@ -98,16 +98,16 @@ Il tomba, semblable à un lion furieux, le foie blessé par le javelot d’acier
 
 Telle est la rotation du temps, il n’accepte les enseignements d’aucun maître ; quand le destin a trempé ses mains dans le fiel, il déchire le cœur du lion et la peau du léopard.
 
-Lorsque Gouderz eut atteint la cime de la montagne, il vit Pirau dans cet état, abattu misérablement, ayant le cœur brisé, la main blessée, la tête couchée sur le sol, la cuirasse déchirée, la ceinture rompue ; il dit :
+Lorsque Gouderz eut atteint la cime de la montagne, il vit Piran dans cet état, abattu misérablement, ayant le cœur brisé, la main blessée, la tête couchée sur le sol, la cuirasse déchirée, la ceinture rompue ; il dit :
 
 > Ô vaillant lion ! ô chef des Pehlewans ! ô brave cavalier !
 >
 > Le monde a vu beaucoup d’hommes comme toi et comme moi, mais il n’ac-I corde du repos à personne. »
 
-Il porta la main sur le corps de Pirau et la remplit de sang qu’il but et dont il se frotta le visage, ô horreur !
+Il porta la main sur le corps de Piran et la remplit de sang qu’il but et dont il se frotta le visage, ô horreur !
 
 Ensuite, il poussa des cris de douleur sur le meurtre de Sia-
 
 â wusch ; il adressa des prières au Créateur, il se lamenta devant Dieu le dispensateur de la justice sur la mort de ses soixante et dix nobles fils.
 
-Il avait envie de trancher la tête de son ennemi, mais il ne put se résoudre à cet acte de férocité ; il planta le drapeau de Pirau par terre à côté de son cadavre, plaça sa tête dans l’ombre du drapeau et se remit en route pour rejoindre les siens, perdant son sang qui dégouttait de son bras comme un ruisseau d’eau.
+Il avait envie de trancher la tête de son ennemi, mais il ne put se résoudre à cet acte de férocité ; il planta le drapeau de Piran par terre à côté de son cadavre, plaça sa tête dans l’ombre du drapeau et se remit en route pour rejoindre les siens, perdant son sang qui dégouttait de son bras comme un ruisseau d’eau.
