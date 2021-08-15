@@ -40,7 +40,7 @@ Le roi lui dit :
 >
 > Personne ne meurt qui tâche d’instruire son esprit, se confie en Dieu et suit la route de la raison.
 >
-> J’ai avec moi deux esv. ’ "à carboucles qui brilleront dans la nuit sombre lorsqu’elles apercevront l’eau.
+> J’ai avec moi deux esv. "à carboucles qui brilleront dans la nuit sombre lorsqu’elles apercevront l’eau.
 >
 > Prends-en une, marche devant moi et aie soin de ton âme et de ton corps ; l’autre me servira de flambeau sur ma route.le vais entrer dans ces ténèbres avec mon escorte et nous verrons ce que le Créateur y tient caché.
 >
