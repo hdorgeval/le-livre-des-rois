@@ -168,7 +168,7 @@ Piran lui dit :
 >
 > J’ai à mes ordres, dans ce pays, plus de cent mille cavaliers ; douze mille sont de ma propre tribu et se tiennent devant moi, quand je le veux, jour et nuit.
 >
-> Je possède un territoire, des troupeaux. des chevaux, des trésors, des ares et des lacets ; je possède beaucoup d’autres richesses cachées, de sorte que je n’ai besoin de l’aide de personne.
+> Je possède un territoire, des troupeaux des chevaux, des trésors, des ares et des lacets ; je possède beaucoup d’autres richesses cachées, de sorte que je n’ai besoin de l’aide de personne.
 >
 > Que tout cela soit à toi, si tu veux établir parmi nous ta joyeuse demeure.
 >
