@@ -24,7 +24,7 @@ Dieu lui a donné le nom de Beït el-Haram et tu as en elle la vraie. voie de Di
 
 Elle a été un lieu d’adoration depuis qu’elle existe et est remplie de souvenirs divins.
 
-Iskender marcha vers Kadesia, s’emparant de tout musons. ’ jusqu’à Djellrem, dans le Fars.
+Iskender marcha vers Kadesia, s’emparant de tout musons. jusqu’à Djellrem, dans le Fars.
 
 À cette nouvelle, Nasr, fils de Katib, de qui la Mecque lirait sa gloire et sa splendeurJ vint à sa rencontre avec ses chefs guerriers, ses cavaliers vaillants et armés de lances.-Un cavalier arriva de la Mecque en toute hâte auprès d’Iskender, disant :
 
