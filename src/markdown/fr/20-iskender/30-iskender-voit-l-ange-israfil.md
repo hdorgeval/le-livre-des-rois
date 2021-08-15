@@ -26,7 +26,7 @@ Lorsqu’il aperçut Iskender sur la mon : tagne, il poussa un cri comme le brui
 
 Le roi lui répondit :
 
-> Le sort m’a assigné cette part dans la vie, que je dois toujours m’agiter et parcourir le mondent, Il descendit de la montagne en se lamentant et en invoquant Dieu, le dispensateur de tout bien ; puis il continua sa marche sur cette route ténébreuse, étant précédé par des guides. ’ .
+> Le sort m’a assigné cette part dans la vie, que je dois toujours m’agiter et parcourir le mondent, Il descendit de la montagne en se lamentant et en invoquant Dieu, le dispensateur de tout bien ; puis il continua sa marche sur cette route ténébreuse, étant précédé par des guides. .
 >
 > Lorsque l’armée lut enveloppée de ténèbres, on entendit sortir de la montagne noire une voix disant : Quiconque emporte une pierre qui se trouve sous ses pas se repentira de ce qu’il tiendra dans sa main et il se repentira de même s’il n’emporte rien et dans chacune de ses peines de l’âme il cherchera en vain un remède. »
 
