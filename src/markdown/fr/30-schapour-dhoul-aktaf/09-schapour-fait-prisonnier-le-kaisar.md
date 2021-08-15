@@ -49,7 +49,7 @@ On saisit dans leurs tentes beaucoup de ses grands, de ses cavaliers vaillants e
 
 Telle est la rotation du ciel sublime, tantôt il nous’élève, tantôt il nous précipite, tantôt il nous donne la joie, tantôt le chagrin.
 
-Ce qu’il y a de mieux, c’est. de se montrer humain et de s’abstenir de faire de la peine ; alors le Créateur est notre soutien.
+Ce qu’il y a de mieux, c’est de se montrer humain et de s’abstenir de faire de la peine ; alors le Créateur est notre soutien.
 
 Lorsque le jour fut venu, que la nuit eut. retiré le pan de sa robe et que le drapeau du soleil se fut montré en haut, Schapour demanda un scribe, des roseaux, du papier, du musc et de l’ambre et adressa des lettres à chaque province, à chaque roi, à tous les grands, commençant ainsi :
 
