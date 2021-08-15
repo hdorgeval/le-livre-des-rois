@@ -24,7 +24,7 @@ Lorsque la nuit sombre se fut montrée dans le cercle de la lune, le roi dit à 
 
 > Apprête-toi pour te rendre auprès de mon ennemi, donne-toi de la peine et ne recule pas devant la fatigue.
 >
-> Observe le nombre et la qualité. de ses troupes, quel est leur chef et quels en sont
+> Observe le nombre et la qualité de ses troupes, quel est leur chef et quels en sont
 >
 > les héros. »
 
