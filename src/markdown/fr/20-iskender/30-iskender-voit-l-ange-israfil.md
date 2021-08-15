@@ -34,7 +34,7 @@ L’armée écoula ces paroles, chacun devint soucieux à cette voix, selon laqu
 
 L’un dit :
 
-> Ce mal vient de n0s péchés et tu le res pentiras si tu emportes des pierres de la route. »
+> Ce mal vient de nos péchés et tu le res pentiras si tu emportes des pierres de la route. »
 
 Un autre dit :
 
