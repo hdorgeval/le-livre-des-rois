@@ -105,7 +105,7 @@ Ensuite, il dit à Guiv :
 >
 > tiendrai debout devant lui et je regarderai dans la coupe les sept Kischwers ; je scruterai tous les pays de toutes les zones de la terre ; j’invoquerai les grâces de Dieu sur mes ancêtres, les élus, les puissants, les saints ; ensuite je te dirai où se trouve Bijen, car la coupe me le montrera clairement. »
 
-Guiv se réjouit de ces paroles et se sentit soulagé. de ses soucis sur le sort de son fils ; il sourit et bénit le roi, disant :
+Guiv se réjouit de ces paroles et se sentit soulagé de ses soucis sur le sort de son fils ; il sourit et bénit le roi, disant :
 
 > Que le Créateur des âmes te récompense !
 >
