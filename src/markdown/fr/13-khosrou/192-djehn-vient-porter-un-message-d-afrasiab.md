@@ -53,7 +53,7 @@ Djehn s’assit et s’acquitta du message de son père,
 
 > Afrasiab est assis sur son trône dans la douleur et les cils des yeux mouillés de larmes.
 
-D’abord je porte au roi les salutations du chef de l’armée de ’ Touran, au cœur déchiré ; il m’a dit :
+D’abord je porte au roi les salutations du chef de l’armée de Touran, au cœur déchiré ; il m’a dit :
 
 > Grâces soient rendues à Dieu, en qui est notre refuge, de ce que mon petit-fils est parvenu à un tel degré de puissance, qu’il conduit l’armée, qu’il gouverne l’empire, qu’il monte sur la voûte du ciel qui tourne !
 >
