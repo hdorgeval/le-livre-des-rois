@@ -214,7 +214,7 @@ Une autre fois un homme s’enhardit à dire :
 
 Il répondit :
 
-> Un cavalier vaillant’ne doit jamais être rassasié de combats ; il doit être également prêt pour une fête et pour un champ de bataille, pendant le jour brillant et pendant la nuit noire ; il ne faiblit pas au moment ou il faut. de la vigueur et il ne s’inquiète pas du grand ou du petit nombre de ses ennemis. »
+> Un cavalier vaillant’ne doit jamais être rassasié de combats ; il doit être également prêt pour une fête et pour un champ de bataille, pendant le jour brillant et pendant la nuit noire ; il ne faiblit pas au moment ou il faut de la vigueur et il ne s’inquiète pas du grand ou du petit nombre de ses ennemis. »
 
 Quelqu’un dit :
 
@@ -434,7 +434,7 @@ J’ai composé ce livre il y a longtemps ; il a été caché à Saturne, au sol
 
 Puisse le monde prospérer en prononçant son nom et le ciel se réjouir de sa couronne !
 
-Quand Mahmoud prononce la prière du haut de la chaire, la croix incline vers la foi de Mohammed et il a enlevé le monde aux idolâtres de l’Inde avec son épée damasquinée comme . 3l :
+Quand Mahmoud prononce la prière du haut de la chaire, la croix incline vers la foi de Mohammed et il a enlevé le monde aux idolâtres de l’Inde avec son épée damasquinée comme . :
 
 Une broderie.
 
