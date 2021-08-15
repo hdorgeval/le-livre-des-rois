@@ -44,4 +44,4 @@ Il s’est hâté et moi je me suis attardé à voir ce que produiraient mes œu
 
 Puisse le Seigneur rendre ton âme resplendissante, puisse l’intelligence être l’armure de ton esprit.
 
-J’implore le Maître, le Créateur. le toutsaint distributeur du pain quotidien, le père nourricier, qu’il te pardonne tous tes péchés et qu’il rende brillante ta demeure ténébreuse !
+J’implore le Maître, le Créateur. le tout-saint distributeur du pain quotidien, le père nourricier, qu’il te pardonne tous tes péchés et qu’il rende brillante ta demeure ténébreuse !
