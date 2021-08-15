@@ -20,7 +20,7 @@ Keï Khosrou arriva avec Guiv à Zem.
 
 La plupart des Iraniens le reçurent joyeusement, mais quelques-uns le virent de mauvais œil.
 
-Guiv fit porter de tous côtés par un messager une lettre dans laquelle lui et le roi illustre annonçaient que le Sipehdar, chef de la race de Keïkobad, Keï Khosrou le fortuné, qui portait haut la tête. était arrivé heureusement du Touran et que l’eau du Djihoun avait formé sous lui comme un lit. de repos.
+Guiv fit porter de tous côtés par un messager une lettre dans laquelle lui et le roi illustre annonçaient que le Sipehdar, chef de la race de Keïkobad, Keï Khosrou le fortuné, qui portait haut la tête. était arrivé heureusement du Touran et que l’eau du Djihoun avait formé sous lui comme un lit de repos.
 
 Il chercha pour son message
 
