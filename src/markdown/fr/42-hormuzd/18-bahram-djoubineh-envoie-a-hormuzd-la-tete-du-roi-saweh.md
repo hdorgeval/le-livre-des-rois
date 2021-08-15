@@ -20,7 +20,7 @@ Lorsque la nuit sombre eut frisé ses boucles et plongé ainsi les yeux des homm
 
 Le Sipehhed semontra, envoya chez ses compagnons et soutiens et leur demanda de couper les têtes à tous les morts parmi les grands, les puissants, les vaillants chefs et tous ceux qui avaient été les maîtres du peuple chez les Turcs et de planter un drapeau brillant derrière chacune de ces têtes qui avaient formé le diadème des braves.
 
-Il fit réunir ces têtes et les prisonniers et les fit enlever du champ de bataille ; puis il appela le scribe qui écrivait ses lettres et lui parla longuement de toutes choses, de cette illustre et innombrable armée, de l’agitation et du sort de cette journée, de cette bataille et des moyens de toute espèce qu’il avait fallu employer contre des troupes si nombreuses, ’ de la lutte et du combat qu’avaient livré les Iraniens et comment pas un cavalier n’avait ôté son armure pendant toute une journée.
+Il fit réunir ces têtes et les prisonniers et les fit enlever du champ de bataille ; puis il appela le scribe qui écrivait ses lettres et lui parla longuement de toutes choses, de cette illustre et innombrable armée, de l’agitation et du sort de cette journée, de cette bataille et des moyens de toute espèce qu’il avait fallu employer contre des troupes si nombreuses, de la lutte et du combat qu’avaient livré les Iraniens et comment pas un cavalier n’avait ôté son armure pendant toute une journée.
 
 Le scribe écrivit cette lettre au roi et Bahram choisit dans son armée un messager.
 
