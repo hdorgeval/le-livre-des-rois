@@ -56,7 +56,7 @@ Un grand homme intelligent a dit :
 >
 > Attaque un ennemi qui se conduit mal envers toi, car l’eau et le feu ne peuvent pas aller ensemble.
 >
-> Si l’on agit autrement, le vieux 7 ciel choisit un nouveau roi ; mais si nous employons toute la force de nos bras et tout ce que nous avons d’habileté, Dieu, le toutsaint, ne nous blâmera pas et nous n’aurons pas à rougir devant ce le jugement des héros.
+> Si l’on agit autrement, le vieux 7 ciel choisit un nouveau roi ; mais si nous employons toute la force de nos bras et tout ce que nous avons d’habileté, Dieu, le tout-saint, ne nous blâmera pas et nous n’aurons pas à rougir devant ce le jugement des héros.
 >
 > Si, étant dix mille Iraniens qui ne sont pas défaits, nous renonçons dans notre trouble au combat, les malveillants, qui ne cherchent qu’à te blâmer, diront que tu t’es enfui devant ton ennemi sans combattre.
 >
