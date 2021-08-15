@@ -1,14 +1,39 @@
 ---
 lastUpdate: '2021-07-30'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 25
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Kaous envoie des messages au Kaïsar de Roum et à Afrasiab | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Arabes',
+    'Berberistan',
+    'Berbers',
+    'Chine',
+    'Djihoun',
+    'Feridoun',
+    'Ghouri',
+    'Hamaveran',
+    'Iran',
+    'Kaous',
+    'Kaïsar',
+    'Kerkesars',
+    'Pehlewans',
+    'Roum',
+    'Rustem',
+    'Sejestani',
+    'Sipehbed',
+    'Tehemten',
+    'Tour',
+    'Touran',
+    'Touraniens',
+    'Turcs',
+  ]
 order: '022'
 ---
 
