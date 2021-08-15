@@ -60,7 +60,7 @@ Le Grand Mobed et les hommes intelligents, les grands, les nobles qui avaient l�
 
 Bahram répondit :
 
-> Ô hommes ’ A de sens qui me montrez le vrai chemin !
+> Ô hommes A de sens qui me montrez le vrai chemin !
 
 Quand
 . cent ans passeraient lia-dessus, je ne détournerais pas de mes paroles mon âme et mon esprit.
