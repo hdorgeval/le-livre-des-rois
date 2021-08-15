@@ -16,7 +16,7 @@ order: '153'
 
 # Gouderz et Piran choisissent les champions
 
-Lorsque Pirau aperçut Gouderz le fils de Keschwad, il lui adressa la parole et écouta sa réponse ; il lui dit :
+Lorsque Piran aperçut Gouderz le fils de Keschwad, il lui adressa la parole et écouta sa réponse ; il lui dit :
 
 > Ô Pehlewan plein d’intelligence, tu te consuines dans les fatigues ; mais de quoi servira-t-il à l’âme de Siawusch de faire lever du pays de Touran la fumée de la destruction ?
 >
@@ -39,7 +39,7 @@ Lorsque Pirau aperçut Gouderz le fils de Keschwad, il lui adressa la parole et 
 >
 > Et si toi et les grands qui t’environnent succombez sous nos coups, je ne combattrai pas ton armée, elle n’aura rien à craindre de moi. »
 
-Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de Pirau ; il commença par rendre grâce au Créateur, ensuite il pria pour le roi illustre, enfin il répondit à Pirau, disant :
+Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de Piran ; il commença par rendre grâce au Créateur, ensuite il pria pour le roi illustre, enfin il répondit à Pirau, disant :
 
 > Ô glorieux héros, j’ai écouté ton discours jusqu’à la fin.
 >
@@ -80,7 +80,7 @@ Kelbad fils de Wiseh se hâta de se poser en face de Feribourz fils de Kaous.
 
 Rehbani lits de Gouderz et Barman se choisirent l’un l’autre pour adversaires ; Gourazeh devait combattre Siamek, comme un lion furieux combat un crocodile ; Gourguin le guerrier expérimenté se présenta comme un lion dans la lice contre Anderiman ; le vaillant Rouin se proposa de lutter contre Bijen fils de Guiv et d’enlever au monde son éclat ; Aukhast devait se battre contre Zengueh fils de Schaweran et Barteh choisit Kehrem pour antagoniste parmi les Touraniens ; Fourouhil et Zengouleh se détachèrent de la foule pour se combattre ; Hedjir et Sipahram, semblables à des Divs, poussèrent sur le champ de bataille des cris de rage.
 
-Enfin Gouderz fils de Keschwad et Pirau devaient se mesurer ; ils étaient armés pour le combat et leurs traits exprimaient leur haine ; ces deux Sipehbeds avaient soif de sang, car ils combattaient pour la domination et pour la religion.
+Enfin Gouderz fils de Keschwad et Piran devaient se mesurer ; ils étaient armés pour le combat et leurs traits exprimaient leur haine ; ces deux Sipehbeds avaient soif de sang, car ils combattaient pour la domination et pour la religion.
 
 Ils se jurèrent qu’aucun d’eux ne se retirerait. de la lutte, jusqu’à ce qu’il fût décidé à qui la fortune donnerait la victoire.
 
@@ -106,6 +106,6 @@ Telle était la volonté du Créateur du monde ; tu aurais dit que la terre s’
 
 C’est ainsi que les deux partis accoururent sur le terrain et se placèrent face à face, avides de combat.
 
-Le Sipehdar Pirau sentait en secret que le mauvais jour arrivait et le serrait de près ; mais telle est la manière d’agir du ciel sublime, que tantôt il nous envoie des joies, tantôt des afflictions.
+Le Sipehdar Piran sentait en secret que le mauvais jour arrivait et le serrait de près ; mais telle est la manière d’agir du ciel sublime, que tantôt il nous envoie des joies, tantôt des afflictions.
 
 Pirau ne savait comment éviter le combat ; le moment était venu où l’oppresseur allait être opprimé.
