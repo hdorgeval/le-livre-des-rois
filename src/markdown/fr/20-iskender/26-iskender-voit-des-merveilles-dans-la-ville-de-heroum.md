@@ -47,7 +47,7 @@ Toutes les femmes s’assemblèrent pour entendre la lettre, toutes celles qui a
 >
 > Aucune de toutes ces femmes n’a de mari, car nous sommes toutes vierges et nos visages sont couverts de voiles.
 >
-> Partout ou l’on va dans ce pays, on ne strouve d’autre issue que. des eaux profondes ; et toute femme nous qui penche vers le marings, nous ne voulons plus la voir et il faut qu’elle traverse l’eau profonde, qu’il fasse beau temps ou»
+> Partout ou l’on va dans ce pays, on ne strouve d’autre issue que des eaux profondes ; et toute femme nous qui penche vers le marings, nous ne voulons plus la voir et il faut qu’elle traverse l’eau profonde, qu’il fasse beau temps ou»
 
 Qu’il y ait de la pluie et de la neige.
 
