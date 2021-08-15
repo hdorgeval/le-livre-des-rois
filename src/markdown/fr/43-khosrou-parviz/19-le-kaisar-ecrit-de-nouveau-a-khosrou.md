@@ -38,7 +38,7 @@ Mais il faut que de votre côté vous donniez l’assurance que personne ne nous
 
 Déclare qu’aussi longtemps que tu seras roi, tu n’oublieras pas les peines que nous prenons pour toi, que tu ne demanderas plus de tribut aux Roumis et que tu ne trahiras pour aucun avantage la reconnaissance que t’imposeront les fatigues que nous endurerons pour toi.
 
-Ensuite tu abandonneras toutes les conquêtes ’ ses dans le Roum et aucun Iranien ne franchira plus notre frontière.
+Ensuite tu abandonneras toutes les conquêtes ses dans le Roum et aucun Iranien ne franchira plus notre frontière.
 
 Allez au delà de votre désir présent, faites un arrangement avec nous et concluez une alliance, pour que, en toute occasion, quand nous serons occupés d’une affaire, fût-ce une guerre folle, nous soyons tous amis et frères, quand même l’un de nous serait de temps en temps le plus faible.
 
@@ -71,7 +71,7 @@ Haine que tu portes dans ton cœur aux grands qui »
 
 T’entourent, aux plus illustres auprès de toi, arrache de ton âme toute idée de vengeance contre eux, pardonne leurs fautes au nom de Dieu le Seigneur, car le jour ne brille-t-il pas sur les ennemis et les amis ?
 
-Si tu veux que la fortune victorieuse le ’ traite en maître du monde, avec une armée, une couronne et un trône, abstiens-toi de prendre le bien d’autrui, dirige ton esprit vers la voie de la droiture, sois affable pour les tiens, sois le gardien des pauvres qui se donnent de la peine.
+Si tu veux que la fortune victorieuse le traite en maître du monde, avec une armée, une couronne et un trône, abstiens-toi de prendre le bien d’autrui, dirige ton esprit vers la voie de la droiture, sois affable pour les tiens, sois le gardien des pauvres qui se donnent de la peine.
 
 Si tu es généreux et secourable, personne n’éleudra la main vers ta couronne et ton trône.
 
