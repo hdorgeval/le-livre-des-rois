@@ -114,6 +114,6 @@ Un de ces traits traversa la selle et les caparaçons du cheval, qui tomba mort 
 
 Un pri de douleur s’éleva de tous les
 
-8, rangs des Turcs ; ils se précipitèrent vers lui comme des Divs et réussirent à le tirer de la mêlée età l’éloigner du front de l’armée.
+8, rangs des Turcs ; ils se précipitèrent vers lui comme des Divs et réussirent à le tirer de la mêlée et à l’éloigner du front de l’armée.
 
 Depuis l’aube du jour jusqu’à ce que la nuit descendît de la montagne, les cavaliers de l’Iran et l’armée du Touran firent voler la poussière du combat et imprégnèrent la terre de sang ; les chevaux et les hommes tombaient. en défaillance et leurs bouches restaient béantes. tant ils avaient crié et fait de bruit.
