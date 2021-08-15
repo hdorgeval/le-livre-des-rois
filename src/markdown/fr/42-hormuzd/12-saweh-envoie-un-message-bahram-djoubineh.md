@@ -34,7 +34,7 @@ Bahram, en entendant ces paroles, sourit des plans ténébreux de cet homme et l
 
 L’envoyé revint chez le roi Saweh et lui répéta ce qu’avait dit cet homme avide de combats.
 
-Sawoh lui (lit :
+Sawoh lui dit :
 
 > Va, retourne auprès de lui et dis-lui :
 
@@ -91,7 +91,7 @@ Dis-lui :
 >
 > Je trancherai la tête à Saweh et l’enverni au roi, car elle ne vaut pas la peine que je la porte en route sur la pointe de me lance.
 >
-> Faire ton par ’ tégé d’un homme comme moi, qui malgré son insignifiance vient t’attaquer, serait une boute pour toi.
+> Faire ton par tégé d’un homme comme moi, qui malgré son insignifiance vient t’attaquer, serait une boute pour toi.
 >
 > Tu ne me verras qu’au jour de la bataille, un drapeau couleur de lapis-lazuli derrière moi et la vue de ce dragon sera ta mort, ta tête et ton casque seront le fourreau du fer de ma lance. »
 
