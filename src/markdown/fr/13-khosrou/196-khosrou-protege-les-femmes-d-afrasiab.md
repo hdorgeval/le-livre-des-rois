@@ -20,7 +20,7 @@ Ensuite Khosrou choisit dans son armée des hommes de sens, des nobles qui avaie
 
 > Puissent vos corps être en bonne santé ; puissent vos cœurs être remplis de justice !
 >
-> Je vous confie la garde de la : porte du palais de ce Turc, dont la fortune est. mauvaise ; faites tous vos efforts pour la défendre,-car il ne faut pas que même le soleil du haut de la voûte des cieux pénètre dans le palais d’Afrasiab et je ne veux pas qu’on entende dans la rue la voix de ses femmes au visage voilé. »
+> Je vous confie la garde de la : porte du palais de ce Turc, dont la fortune est mauvaise ; faites tous vos efforts pour la défendre,-car il ne faut pas que même le soleil du haut de la voûte des cieux pénètre dans le palais d’Afrasiab et je ne veux pas qu’on entende dans la rue la voix de ses femmes au visage voilé. »
 
 Il envoya des surveillants pour prendre soin des troupeaux de chevaux qui paissaient librement autour de Gangue et il ne lit du mal à aucun membre de la famille d’Afrasiab, comme il convient à un roi.
 
