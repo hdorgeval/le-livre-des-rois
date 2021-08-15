@@ -24,9 +24,9 @@ Il lui fit écrire une lettre à sa mère, disant :
 
 > Il est impossible de cacher les avertissements de la mort.
 
-J’ai en la part dans le mohde qui m’a été donnée et le temps qui nous est accordé ne se raccohrcit pas et l’on ne peut pas l’allonger.
+J’ai en la part dans le monde qui m’a été donnée et le temps qui nous est accordé ne se raccohrcit pas et l’on ne peut pas l’allonger.
 
-Ne t’atllige pas de ma fin, car la mort n’est pas chose nouvelle. dans le monde.
+Ne t’afflige pas de ma fin, car la mort n’est pas chose nouvelle. dans le monde.
 
 Quiconque naît doit mourir, qu’il soit roi, qu’il soit homme de rien.
 
