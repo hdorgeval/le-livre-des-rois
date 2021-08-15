@@ -34,7 +34,7 @@ Ces nouvelles remplirent son âme de chagrin :
 >
 > Quand on sut qu’il était le coupable, le Khakan brûla sa maison et tout l’enclos, il jeta dans les flammes les deux fils de Kaloun et livra au pillage tout ce qu’ils possédaient.
 >
-> Le Khakan comprit que tout cela avait été l’œu-I vre de Kharrad,. car tout ce que faisait celui-ci n’était que ruse et injustice.
+> Le Khakan comprit que tout cela avait été l’œu-I vre de Kharrad, car tout ce que faisait celui-ci n’était que ruse et injustice.
 >
 > Il envoya de tous côtés des dromadaires ardents à la course, mais il ne put pas saisir Kharrad.
 >
