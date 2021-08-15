@@ -18,7 +18,7 @@ order: '014'
 
 Le monde devint tel sous Schapour qu’on ne voyait pas d’épine sur les roses du jardin ; il était si juste, si prudent, si intelligent, si prêt à travailler, à donner et à se battre, qu’il ne lui restait pas un ennemi dans tout le pays et que les méchants ne conservaient pas un refuge sur la terre.
 
-Lorsqu’il n’eut plus rien à espérer du ciel sublime, car ses années s’élevaient-à soixante et dix et plus, il fit appeler devant lui un scribe, le grand Mobed et Ardeschir, qui était le plus jeune de ses frères et qui portait sur sa tête le diadème. de la justice et de l’intelligence.
+Lorsqu’il n’eut plus rien à espérer du ciel sublime, car ses années s’élevaient-à soixante et dix et plus, il fit appeler devant lui un scribe, le grand Mobed et Ardeschir, qui était le plus jeune de ses frères et qui portait sur sa tête le diadème de la justice et de l’intelligence.
 
 Schapour n’avait qu’un très-jeune fils, aussi
 
@@ -95,7 +95,7 @@ Ces paroles de Schapour firent verser beaucoup de larmes à son frère ; il véc
 
 O Haschemi, apporte-moi du vin couleur de rubis, tiré d’une amphore qui ne se vide jamais.
 
-Puisque. j’ai soixante-trois ans et que mon oreille devient sourde, comment chercherais-je dans le monde. des honneurs et des dignités ?
+Puisque. j’ai soixante-trois ans et que mon oreille devient sourde, comment chercherais-je dans le monde des honneurs et des dignités ?
 
 Je vais conter l’histoire du U1
 roi Ardeschir ; fais attention a mes paroles.
