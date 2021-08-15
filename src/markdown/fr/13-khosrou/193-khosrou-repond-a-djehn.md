@@ -86,7 +86,7 @@ Le roi écouta le message de Djehn et le regarda en souriant ; ensuite il lui di
 >
 > Dorénavant et jusqu’à la résurrection, je ne te parlerai plus qu’avec mon épée tranchante.
 >
-> Je lutterai contre toi avec toute la ce puissance de mes trésors et de mes armées, à l’aide de ma bonne étoile et de la rotation du soleil et de la lune ; je me tiendrai humblement devant Dieu, a je ne demanderai d’autre guide que lui, dans l’espoir d’arracher les mauvaises herbes du jardin. de et rajeunir le monde par la justice et la générosité, de détruire mes ennemis et d’ôter le diadème aux méchants.
+> Je lutterai contre toi avec toute la ce puissance de mes trésors et de mes armées, à l’aide de ma bonne étoile et de la rotation du soleil et de la lune ; je me tiendrai humblement devant Dieu, a je ne demanderai d’autre guide que lui, dans l’espoir d’arracher les mauvaises herbes du jardin de et rajeunir le monde par la justice et la générosité, de détruire mes ennemis et d’ôter le diadème aux méchants.
 >
 > Répète à mon grand-père toutes mes par : roles et qu’il ne cherche pas un prétexte pour éviter une lutte pareille. »
 
