@@ -8,7 +8,23 @@ source: tome II - livre des rois - P. 30
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: "Kaous rétablit l'ordre dans le monde | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Alborz',
+    'âme',
+    'Balkh',
+    'Divs',
+    'Fars',
+    'Herat',
+    'Kaous',
+    'Merv',
+    'Mobed',
+    'Nischapour',
+    'Pehlewan',
+    'Péris',
+    'Rustem',
+    'Yémen',
+  ]
 order: '023'
 ---
 
