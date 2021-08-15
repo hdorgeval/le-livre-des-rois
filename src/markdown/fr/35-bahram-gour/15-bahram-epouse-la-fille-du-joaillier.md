@@ -375,7 +375,7 @@ L’homme ivre écoutait encore celui qui lui parlait et déjà il sautait en ba
 
 Le serviteur répondit :
 
-> Ô homme qui as vu le monde !
+> Ô homme qui a vu le monde !
 >
 > Qui est-ce qui t’aurait fait roi de l’Iran ?
 >
