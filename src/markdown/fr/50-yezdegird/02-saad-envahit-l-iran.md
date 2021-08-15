@@ -89,7 +89,7 @@ Une longue guerre surgira où des centaines de lions intrépides périront.
 
 Les grands qui combattent à mes côtés ne font aucun cas de ces propositions : Mirouï du Thabaristan et Ermeni, qui luttent avec la fureur . d’Ahriman, Gulboui’ Souri.et les chefs armés de masses d’armes et de massues pesantes disent en levant la tête : Qui sont ces gens là et quels droits ont-ils sur l’Iran et le Mazenderan ?
 
-Envahissemau de frontières et de routes, succès et revers, tout sera décidé par les massues et les sabres ; nous lutterons en hommes et nous réduirons l’ennemi à ’ l’extrémité. -Mais tans ils ignorent les secrets du ciel inconstant, parce que jusqu’à présent il nous a traités avec douceur.
+Envahissemau de frontières et de routes, succès et revers, tout sera décidé par les massues et les sabres ; nous lutterons en hommes et nous réduirons l’ennemi à l’extrémité. -Mais tans ils ignorent les secrets du ciel inconstant, parce que jusqu’à présent il nous a traités avec douceur.
 
 Après avoir lu cette lettre, ne repousse pas les conseils de la raison, travaille et agis de concert avec les grands de l’Empire.
 
@@ -156,7 +156,7 @@ On ne distinguera plus les bénédictions des blasphèmes et la dissimulation pr
 
 Leur roi aura un cœur de rocher ; le fils haïra son père et le père tendra des embûches à son fils.
 
-Un vil esclave deviendra le maître ; ni la naissance ni la grandeur n’auront ’ de prix.
+Un vil esclave deviendra le maître ; ni la naissance ni la grandeur n’auront de prix.
 
 Le monde ne connaîtra plus la probité, l’injustice envahira les cœurs et les lèvres.
 
@@ -181,7 +181,7 @@ Mon cœur se gonfle de sang, mon visage pâlit, ma bouche se dessèche, mes lèv
 
 Mes flèches, mes javelots qui percent le fer, ne peuvent rien contre le corps d’un ennemi nu ; mon épée qui, au jour du combat, frappait. sans être émoussée, le cou des éléphants et des tions, ne peut déchirer la peau de ces Arabes.
 
-Le savoir ne m’a rapporté que dommages sur dommages : plût à Dieu que je n’eusse pas eu cette intelligence ni le souci des jours de bonheur et de malheurl Les chefs qui m’ont suivi à Kadesiah sont de rudes guerriers, ennemis acharnés des ’ Arabes ; ils comptent en finir bientôt, et, en répandant des torrents de sang, changer ce pays en fleuve Djeïhoun.
+Le savoir ne m’a rapporté que dommages sur dommages : plût à Dieu que je n’eusse pas eu cette intelligence ni le souci des jours de bonheur et de malheurl Les chefs qui m’ont suivi à Kadesiah sont de rudes guerriers, ennemis acharnés des Arabes ; ils comptent en finir bientôt, et, en répandant des torrents de sang, changer ce pays en fleuve Djeïhoun.
 
 Mais personne parmi eux ne connaît les secrets du ciel et ils ignorent que cette guerre n’est pas une affaire de peu d’importance.
 
