@@ -112,7 +112,7 @@ Et se tournant vivement vers Keïderousch, il lui dit :
 >
 > Aie soin de mon bienveillant Destour, qui donnera à ta mère le choix entre une lutte ou des fêtes ; agis envers lui comme il a agi envers toi, car le cœur d’un homme noble sent le besoin de s’acquitter.
 >
-> Quand il aura reçu de ’ la reine la réponse à ma lettre, protège son retour par les soins. »
+> Quand il aura reçu de la reine la réponse à ma lettre, protège son retour par les soins. »
 
 Keïderousch répondit :
 
