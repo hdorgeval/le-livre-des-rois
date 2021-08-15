@@ -45,7 +45,7 @@ Mihran, ayant écouté ce discours de Keïd, lui dit :
 >
 > La
 >
-> ’ !
+> !
 première de ces religim est celle des Dihkans, adorateurs du feu, qui ne prennent en main le barsom qu’en observant le silence ; la seconde est la foi de Moïse. qu’on appelle la religion juive et qui ordonne de ne glorifier que ce seul Dieu ; la troisième est la foi pure des Younis, qui met la justice dans le cœur des rois ; la quatrième est la foi sainte des Arabes, qui relève de la poussière la tête des hommes de sens.
 >
 > Les quatre hommes luttent les uns centre’ les autres et vont être ennemis à cause de la religion ; mais plus tard viendra un homme illustre du désert des cavaliers armés de lances, un homme saint et de bonne nature, qui répandra le culte de Dieu destqluatre côtés.
