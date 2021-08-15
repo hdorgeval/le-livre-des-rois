@@ -210,7 +210,7 @@ Le roi leur répondit :
 
 > Je ne l’ai pas vu moi-même commettre de crime, mais d’après les paroles des astrologues il finira par nous accabler de maux ; et pourtant si dans ma haine je verse son sang, il s’élévera dans le pays de Touran une immense poussière qui obscurcira le soleil et ce jour là les sages seront confondus.
 >
-> Le malheur qui m’était prédit approche du Touran et mes chagrins, mes ’ soucis et mes peines arrivent.
+> Le malheur qui m’était prédit approche du Touran et mes chagrins, mes soucis et mes peines arrivent.
 >
 > Néanmoins il vaut encore mieux le tuer que de le laisser libre, quoiqu’il m’en coûte de le mettre à mort. »
 
