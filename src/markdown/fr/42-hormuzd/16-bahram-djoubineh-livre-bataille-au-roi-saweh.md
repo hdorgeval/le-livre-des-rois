@@ -43,7 +43,7 @@ De là il se dirigea vers le centre, la où se trouvait le chef de son armée et
 
 > Maudite soit cette afiairel Si ce combat se prolonge, notre armée sera dispersée ; regardez comment est la route. »
 
-Ils allèrent et cherchèrent ; mais il nly avait pas de route. car sur la
+Ils allèrent et cherchèrent ; mais il nly avait pas de route car sur la
 
 Route praticable on avait établi une colline.
 
@@ -69,7 +69,7 @@ Lorsque Bahram vit de loin les éléphants, il devint inquiet, tira l’épée e
 >
 > Je conjure par la vie et la tête du roi -du monde, qui est l’élu des grands et la couronne des hommes de bien, tous ceux qui ont un arc et des flèches de bander à l’instant leurs arcs, de planter dans les trompes de l’éléphant une flèche en bois de peuplier, avide de sang et à triple bois, puis de saisir vos massues, d’aller au combat et d’exterminer l’ennemi. »
 
-Le Sipehhed banda son arc, plaça sur sa tête un ’ morion d’acier et se mit à faire pleuvoir devant lui une pluie de traits, se semant de son arc comme d’un nuage de printemps.
+Le Sipehhed banda son arc, plaça sur sa tête un morion d’acier et se mit à faire pleuvoir devant lui une pluie de traits, se semant de son arc comme d’un nuage de printemps.
 
 Derrière lui s’avançaient ses troupes ; les étoiles furent obscurcies par les plumes et les pointes des flèches.
 
