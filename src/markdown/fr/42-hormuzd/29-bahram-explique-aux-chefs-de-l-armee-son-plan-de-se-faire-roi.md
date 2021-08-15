@@ -70,13 +70,13 @@ Si nos langues étaient des épées acérées, elles reculeraient devant les flo
 
 Raison.
 
-Tout ce que tu fais vient de Dieu et porte la marque de ta bravoure, de ta sagesse. de ton inteli Iigence.
+Tout ce que tu fais vient de Dieu et porte la marque de ta bravoure, de ta sagesse de ton inteli Iigence.
 
 Il n’est pas nécessaire que nous suivions la voie des léopards et que nous combattions tout le monde.
 
 Ne me demande plus d’autres paroles, car ma raison s’arrête là.
 
-Mais si tu veux combattre, nous te soutiendrons, nous nous comporterons comme des cavaliers en face de cavaliers et si le Pehlewan est content. de moi, je orois que je resv 5&5 E terai toujours jeunem Bahram écouta son discours w et vit que son intention était de se tenir entre les :
+Mais si tu veux combattre, nous te soutiendrons, nous nous comporterons comme des cavaliers en face de cavaliers et si le Pehlewan est content de moi, je orois que je resv 5&5 E terai toujours jeunem Bahram écouta son discours w et vit que son intention était de se tenir entre les :
 
 > -deux partis ; son œil tomba sur Yelan Sineh et il lui s dit :
 
