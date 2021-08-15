@@ -26,7 +26,7 @@ Puis, il dit :
 >
 > Schenguil t’a donné sa fille. qui est ma parente et dont’le grain de beauté vaut tout l’Hindoustan.
 >
-> Tu élèves ta tête jusqu’aux nues par cette parenté avec un puissant roi et la grandeur du roi d’Iran y gagne, puisqu’un de ses sujets, qui lui-même est un diadème pour la lune, est allé BAHRAM cous. ’ dans le Kanoudj et a pressé sur son cœur cette lune Sepinoud.
+> Tu élèves ta tête jusqu’aux nues par cette parenté avec un puissant roi et la grandeur du roi d’Iran y gagne, puisqu’un de ses sujets, qui lui-même est un diadème pour la lune, est allé BAHRAM cous. dans le Kanoudj et a pressé sur son cœur cette lune Sepinoud.
 >
 > Maintenant résigne-toi à une fatigue, viens ici et reste dans ce pays tant qu’il te plaira ; à ta vue, mes yeux deviendront brillants et tes conseils formeront une cuirasse pour mon esprit et quand tu voudras repartir, je ne le dirai jamais de rester avec nous.
 >
