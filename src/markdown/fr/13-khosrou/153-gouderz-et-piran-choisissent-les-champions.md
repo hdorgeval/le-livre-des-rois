@@ -82,7 +82,7 @@ Rehbani lits de Gouderz et Barman se choisirent l’un l’autre pour adversaire
 
 Enfin Gouderz fils de Keschwad et Piran devaient se mesurer ; ils étaient armés pour le combat et leurs traits exprimaient leur haine ; ces deux Sipehbeds avaient soif de sang, car ils combattaient pour la domination et pour la religion.
 
-Ils se jurèrent qu’aucun d’eux ne se retirerait. de la lutte, jusqu’à ce qu’il fût décidé à qui la fortune donnerait la victoire.
+Ils se jurèrent qu’aucun d’eux ne se retirerait de la lutte, jusqu’à ce qu’il fût décidé à qui la fortune donnerait la victoire.
 
 Il se trouvait entre les deux armées deux collines
 
