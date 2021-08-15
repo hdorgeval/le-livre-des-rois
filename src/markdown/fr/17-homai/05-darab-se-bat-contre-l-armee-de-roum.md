@@ -22,7 +22,7 @@ Il donna à Darab l’avant.garde, qui avait des lances fraîchement aiguisées 
 
 Le commandant de cette frontière s’avança de son côté, les troupes des deux royaumes se rencontrèrent et la poussière du combat s’élevav à l’instant.ll y eut une mêlée générale et l’on versa des torrents de sang.
 
-Darab, voyant cette grande armée,,s’élança comme un loup et tua tant d’hommes. de l’armée de Roum qu’on aurait dit que le ciel tenait en main une épée.
+Darab, voyant cette grande armée,,s’élança comme un loup et tua tant d’hommes de l’armée de Roum qu’on aurait dit que le ciel tenait en main une épée.
 
 Il continua à frapper comme un lion, un crocodile dans la main, un dragon sous lui, jusqu’à ce qu’il eût pénétré dans le camp des Roumis, semblable à un lion furieux, couvrant la terre’d’une mer de sang ennemi et ne suivant, dans
 
