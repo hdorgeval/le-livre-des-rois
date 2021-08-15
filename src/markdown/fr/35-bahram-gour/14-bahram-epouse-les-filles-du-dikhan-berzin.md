@@ -105,7 +105,9 @@ Le maître du monde, voyant le vin, saisit la coupe et la vida jusqu’au-dessou
 Toutes les .
 troiS’se présentèrent devant le roi,.des diadèmes de pierreries sur leurs têtes ; l’une savait danser, l’autre jouait du luth et la troisième avait une belle voix et savait dissiper les soucis.
 
-Au bruit de leurs voix, le roi des rois vida une coupe, et, se sentant tout joyeux, il (lit à Berzin : Quelles sont ces jeunes filles qui vivent avec toi dans ce bonheur ?
+Au bruit de leurs voix, le roi des rois vida une coupe, et, se sentant tout joyeux, il dit à Berzin :
+
+> Quelles sont ces jeunes filles qui vivent avec toi dans ce bonheur ?
 
 Berzin répondit :
 
