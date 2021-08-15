@@ -59,7 +59,7 @@ Tous ses conseillers, qu’ils fussent ses parents ou des étrangers, répondire
 >
 > En Chine et dans le Touran, tous sont à tes ordres, qu’ils soient de ta race ou de race étrangère.
 >
-> Que notre vie soit ta rançon, tel a été notre serment. de fidélité depuis. le commencement.
+> Que notre vie soit ta rançon, tel a été notre serment de fidélité depuis. le commencement.
 >
 > Que cent parmi nous tombent ou dix mille, qu’importe ?
 >
