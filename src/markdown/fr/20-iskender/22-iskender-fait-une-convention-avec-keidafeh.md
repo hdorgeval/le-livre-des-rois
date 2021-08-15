@@ -81,7 +81,7 @@ La femme qui donnait un trésor avait le cœur large comme les vagues de la mer.
 
 Elle fit apporter cinq cents dents d’éléphants et quelles dents !
 
-Elles formaient une longueur de plusieurs milles ; quatre cents magnifiques peaux de léopards (noirs) appelés berbères et mille peaux de daims mouchetés, toutes pleines. de beauté et richement colorées ; ensuite elle fit amener devant elle cent chiens de chasse qui atteignaient la gazelle plus vite que la flèche et deux cents buffles que des esclaves conduisaient.
+Elles formaient une longueur de plusieurs milles ; quatre cents magnifiques peaux de léopards (noirs) appelés berbères et mille peaux de daims mouchetés, toutes pleines de beauté et richement colorées ; ensuite elle fit amener devant elle cent chiens de chasse qui atteignaient la gazelle plus vite que la flèche et deux cents buffles que des esclaves conduisaient.
 
 Puis on apporta cent trônes recouverts de brocart et de soieries et dont toute la boiserie était en bois d’ébène et quatre autres de bois d’aloès frais, dont le soleil et la couleur d’or étaient jaloux.
 
