@@ -28,8 +28,7 @@ Il y avait un homme, du nom de Schehriguir, homme intelligent et commandant de l
 
 Il choisit sept hommes parmi les grands, des hommes vaillants, des lions dans le combat ; il ne a3.
 
-Confia son secret à aucun de ses confidents, nil même au vent de l’air ; il choisit dans son trésor beaucoup
-. de pierreries, des draps d’or, des pièces d’argent et toute sorte de choses et n’hésita point à prendre ce qu’il avait de plus précieux ; puis il remplit de plomb et d’étain deux caisses, plaça dans ses bagages un chaudron de bronze, qui lui était indispensable pour son plan.
+Confia son secret à aucun de ses confidents, nil même au vent de l’air ; il choisit dans son trésor beaucoup de pierreries, des draps d’or, des pièces d’argent et toute sorte de choses et n’hésita point à prendre ce qu’il avait de plus précieux ; puis il remplit de plomb et d’étain deux caisses, plaça dans ses bagages un chaudron de bronze, qui lui était indispensable pour son plan.
 
 Ayant ainsi préparé l’exécution de ses ruses, il demanda au chef de ses écuries dix ânes et mit un vêtement de laine grossière comme celui des âniers ; mais sa charge était de l’or et de l’argent.
 
