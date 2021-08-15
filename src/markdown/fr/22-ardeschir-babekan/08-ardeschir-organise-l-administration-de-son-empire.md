@@ -79,7 +79,7 @@ Le messager se rendait auprès des ennemis pour apprendre leurs pensées secrèt
 
 Il écoutait leurs paroles ; s’ils avaient du sens’et tenaient pour un malheur les soucis, les fatigues et les calamités de la gume, ils recevaient des robes d’honneur royales, un trailé, des lettres patentes et des présents.
 
-Mais si leurs têtes étaient enflammées de colère, leurs âmes pleines de rancune, leurs cœurs ’ bouillants de sang, le roi payait la solde à toute l’armée, pour qu’il n’y eût pas de mécontents, choisissait un Pehlewan désireux de gloire, prudent, attentif et calme et un employé civil, sachant les règles et habile, qui devait surveiller les méfaits commis dans l’armée, puis il faisait monter sur un éléphant un homme dont on entendait la voix à deux milles et qui criait :
+Mais si leurs têtes étaient enflammées de colère, leurs âmes pleines de rancune, leurs cœurs bouillants de sang, le roi payait la solde à toute l’armée, pour qu’il n’y eût pas de mécontents, choisissait un Pehlewan désireux de gloire, prudent, attentif et calme et un employé civil, sachant les règles et habile, qui devait surveiller les méfaits commis dans l’armée, puis il faisait monter sur un éléphant un homme dont on entendait la voix à deux milles et qui criait :
 
 > Ô guerriers illustres, vous tous qui avez du cœur, du renom et de l’honneur !
 >
