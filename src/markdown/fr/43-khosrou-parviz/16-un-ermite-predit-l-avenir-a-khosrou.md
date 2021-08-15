@@ -104,7 +104,7 @@ Gustehem dit à Khosrou :
 
 > Ô roi, que ton cœur ne se chagrine pas de cela.
 >
-> Je jure par Dieu, le toutsaint, qui a créé la lune, qui a créé pour le monde un roi comme toi, par Aderguschasp, par le soleil et la lune, par la vie et la tête du glorieux roi, que tant que vivra Gustehem, jamais il ne recherchera que la droiture, jamais il ne frappera à la porte de la perdition.
+> Je jure par Dieu, le tout-saint, qui a créé la lune, qui a créé pour le monde un roi comme toi, par Aderguschasp, par le soleil et la lune, par la vie et la tête du glorieux roi, que tant que vivra Gustehem, jamais il ne recherchera que la droiture, jamais il ne frappera à la porte de la perdition.
 >
 > Que son âme périsse, si jamais il forme d’autres desseins.
 >
