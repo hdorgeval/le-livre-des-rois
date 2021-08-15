@@ -36,7 +36,7 @@ Il ordonna à l’armée, qui arrivait de Berda et d’Ardebil, de s’avancer p
 
 Cette armée partit sous le commandement de Gustehem, qui ne s’ell’rayait pas du combat des lions.
 
-Ensuite, il ordonna à l’armée venue du Nimronz de partir avec Rustem, le destructeur des braves et de monter sur des chevaux forts comme des dromadaires ardents à la course, en tenant en laisse des chevaux frais, pour surprendre les Turcs par une marche rapide.
+Ensuite, il ordonna à l’armée venue du Nimrouz de partir avec Rustem, le destructeur des braves et de monter sur des chevaux forts comme des dromadaires ardents à la course, en tenant en laisse des chevaux frais, pour surprendre les Turcs par une marche rapide.
 
 Ces deux chefs, l’honneur des couronnes qu’ils portaient, partirent, l’un vers le désert, l’autre vers Djadj.
 
