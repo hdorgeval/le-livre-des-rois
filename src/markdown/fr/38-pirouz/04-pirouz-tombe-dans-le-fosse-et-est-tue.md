@@ -33,7 +33,7 @@ Khouschnewaz mit pied à terre de l’autre côté du fossé, le cœur en joie e
 Pirouz, le roi, le chef des grands, le maître de la couronne et du trône, avait la tête et le dos brisés ; aucun des princes n’était plus en vie, excepté Kobad et cette armée et ce royaume étaient livrés au vent.
 
 Khouschnewaz, qui avait atteint le désir de son cœur, s’élança, portant liant la tête et suivi
-4 d’une armée avide de combats et livra àla destrucx tion les Iraniens et au pillage leurs bagages ; on ne distinguait plus l’aile gauche de l’aile droite ; quelques Iraniens furent emmenés prisonniers, mais combien étaient couchés dans la poussière noire par les coups des flèches !
+4 d’une armée avide de combats et livra à la destrucx tion les Iraniens et au pillage leurs bagages ; on ne distinguait plus l’aile gauche de l’aile droite ; quelques Iraniens furent emmenés prisonniers, mais combien étaient couchés dans la poussière noire par les coups des flèches !
 
 Il ne faut pas qu’un homme qui recherche la possession du monde soit vil, car le cœur vil est le compagnon de la poussière sombre.
 
