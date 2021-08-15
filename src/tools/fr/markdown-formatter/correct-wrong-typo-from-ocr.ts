@@ -1385,6 +1385,11 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ ’ /g, ' '),
     (content: string) => content.replace(/ bataillc /g, ' bataille '),
     (content: string) => content.replace(/ 2h /g, ' '),
+    (content: string) => content.replace(/ d’intre /g, ' d’entre '),
+    (content: string) => content.replace(/ roiS /g, ' rois '),
+    (content: string) => content.replace(/ àla /g, ' à la '),
+    (content: string) => content.replace(/ com--bat /g, ' combat '),
+    (content: string) => content.replace(/C’est la l/g, 'C’est là l'),
   ].forEach((format) => {
     result = format(result);
   });
