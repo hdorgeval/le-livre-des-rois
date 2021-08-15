@@ -136,6 +136,6 @@ Rustem remplit de nouveau la coupe de vin rouge du Zaboulistan et la vida en buv
 
 Rustem le couvrit de bénédictions en disant :
 
-> ’ ”est au frère à boire dans la coupe de son frère.
+> ”est au frère à boire dans la coupe de son frère.
 >
 > Il n’y a qu’un lion qui osât prendre cette coupe. »
