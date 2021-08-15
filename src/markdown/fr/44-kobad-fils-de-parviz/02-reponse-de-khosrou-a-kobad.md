@@ -225,7 +225,7 @@ J’ai ajouté à cela mille robes de brocart de Chine, dont cinq étaient en dr
 
 Ensuite tu parles de la croix du Messie, de ce vieux morceau de bois déposé dans mon trésor, qui ne me servait ni ne nuisait et dont les Chrétiens ont fait du bruit.auprès de toi.
 
-J’ai été étonné qu’un homme comme le Kaïsar, un homme fier et ’ vaillant et entouré de gens intelligents, tous philosophes et Mobeds, appelle Dieu cet homme qui a été mis à mort, ou ce morceau de bois sec et pourri.
+J’ai été étonné qu’un homme comme le Kaïsar, un homme fier et vaillant et entouré de gens intelligents, tous philosophes et Mobeds, appelle Dieu cet homme qui a été mis à mort, ou ce morceau de bois sec et pourri.
 
 Si cette vile croix était Dieu, elle aurait brillé sur la tête de la lune comme un Jupiter, elle aurait disparu de mon trésor d’elle-même, comme le Messie est parti et elle ne serait pas restée sur la terre.
 
