@@ -71,7 +71,7 @@ Bijen ordonna au truchement de pousser un cri contre son ennemi et de lui dire :
 
 > Si tu veux combattre, reviens ici, car Bijen te délie. »
 
-Il fit ajouter : Ô cavalier qui as vu maint combat, pourquoi lances-tu ton cheval dans cette prairie ?
+Il fit ajouter : Ô cavalier qui a vu maint combat, pourquoi lances-tu ton cheval dans cette prairie ?
 
 S’il en résulte un malheur pour Afrasiab, tu mériteras les malédictions du pays de ’I’ouran.
 
