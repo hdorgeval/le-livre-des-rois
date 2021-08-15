@@ -38,7 +38,7 @@ Le truchement répondit aux Iraniens :
 
 > Le moment de se servir de l’épée et de la lourde massue est arrivé, car cet illustre guerrier au cœur
 >
-> ’ de lion vous défie au combat.
+> de lion vous défie au combat.
 >
 > Son nom est Houman chef de la famille de Wiseh et il fait du cœur du lion le fourreau de son épée. »
 
