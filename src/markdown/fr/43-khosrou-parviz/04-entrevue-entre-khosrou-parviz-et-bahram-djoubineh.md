@@ -282,7 +282,7 @@ Tu verras que désormais la royauté est à moi, que tout est à moi. depuis le 
 >
 > Selon la loi sainte, apportée du ciel par le vieux et sage Zerdouscht, qui a remis le message de Dieu à Lohrasp, lequel l’a accepté et transmis à Guschtasp, tous les hommes sont sous ma protection, ’qu’ils m’aient fait de la peine, ou qu’ils m’aient donné des trésors, qu’ils soient mes ennemis ou mes amis ; tous sont maîtres de leurs femmes et de leurs enfants et je les appelle tous des hommes purs.
 >
-> Partout où se trouve un homme pauvre, venant d’une ville qui a été dévastée, je l’enrichirai, que ce soit un homme perdu ou un homme maître. de lui-même.
+> Partout où se trouve un homme pauvre, venant d’une ville qui a été dévastée, je l’enrichirai, que ce soit un homme perdu ou un homme maître de lui-même.
 >
 > Je convertirai les halliers en paradis, je les remplirai d’hommes, de bétail et de moissons.
 >
@@ -462,7 +462,7 @@ Il faut faire ni plus ni moins que ce que Zerdouscht dit dans le Zend :
 > Ô homme de mauvaise nature, si tu sais que Minoutchehr était roi du monde, comment ne sais-tu pas qu’Arisch était son esclave, courbant la tête sous les ordres et la volonté du roi.
 >
 > Puis, quand il
-.y eut un roi comme Keïkhosrou, le vindicatif et un serviteur comme Rustem, celuic1 aurait pu 3l saisir le pouvoir et s’emparer de la majesté du trône des Keïanides ; mais il a respecté le droitdes rois et n’a pas jeté un seul regard sur le trône. »
+.y eut un roi comme Keïkhosrou, le vindicatif et un serviteur comme Rustem, celuic1 aurait pu saisir le pouvoir et s’emparer de la majesté du trône des Keïanides ; mais il a respecté le droitdes rois et n’a pas jeté un seul regard sur le trône. »
 
 Bahram répondit :
 
