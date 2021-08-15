@@ -22,7 +22,7 @@ La mère de Sohrab apprit que le héros avait été blessé par l’épée de so
 
 Elle poussait des cris et des plaintes ; elle se désolait et par intervalles elle perdait la raison.
 
-Elle roulait autour de ses doigts les boucles. de ses cheveux qui ressemblaient à de brillants lacets et les arrachait de leur racine, in.
+Elle roulait autour de ses doigts les boucles de ses cheveux qui ressemblaient à de brillants lacets et les arrachait de leur racine, in.
 
 Des larmes de sang inondaient ses joues et par moments elle tombait par terre.
 
