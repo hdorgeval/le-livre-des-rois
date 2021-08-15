@@ -25,7 +25,7 @@ Puis venaient deux mille musiciens, ayant tous préparé des airs de chasse, tou
 
 Il y avait cinq cents chameaux chargés de sièges, de tentes grandes et petites, d’étoffes pour l’enceinte du campement royal et de tout ce qu’il fallait pour les bêtes : tous ces chameaux n’étaient destinés qu’à cet usage.
 
-Ensuite venaient deux cents esclaves pour allumer les cassolettes et pour y brûler de l’aloès et de l’ambre gris, deux cents jeunes serviteurs, portant en avant du roi des roses, des nar-cisses et du safran pour que ces parfums se répandissent partout et arrivassent jusqu’à ’ lui.
+Ensuite venaient deux cents esclaves pour allumer les cassolettes et pour y brûler de l’aloès et de l’ambre gris, deux cents jeunes serviteurs, portant en avant du roi des roses, des nar-cisses et du safran pour que ces parfums se répandissent partout et arrivassent jusqu’à lui.
 
 Ces hommes à parfums étaient précédés de cent porteurs d’eau ayant des outres avec lesquelles ils arrosaient toute la route, defaçon qu’on aurait dit qu’ils ver-
 
