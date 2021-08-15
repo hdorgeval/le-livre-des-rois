@@ -81,7 +81,7 @@ Le Mobed chercha un messager intelligent, l’envoya auprès du chef des fronti�
 
 Le messager du Mobed partit en toute hâte et se rendit auprès du chef des frontières.
 
-Le Sipehbed était heureux de ses paroles. car son cœur était plein du désir de la vengeance et ses lèvres étaient pleines de soupirs.
+Le Sipehbed était heureux de ses paroles car son cœur était plein du désir de la vengeance et ses lèvres étaient pleines de soupirs.
 
 Il s’adressa à Dieu, le distributeur de la justice, disant :
 
