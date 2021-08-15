@@ -141,7 +141,7 @@ Le roi lui répondit :
 >
 > Comment le soustraire aux griffes aiguës de ce dragon, à qui tu n’échapperais pas, quand même tu serais de fer ?
 >
-> Un homme, si vaillant qu’il soit, ’ si longtemps qu’il reste sur la terre, ne peut pas échapper aux jours de la vieillesse. »
+> Un homme, si vaillant qu’il soit, si longtemps qu’il reste sur la terre, ne peut pas échapper aux jours de la vieillesse. »
 
 Le Brahmane lui répondit :
 
