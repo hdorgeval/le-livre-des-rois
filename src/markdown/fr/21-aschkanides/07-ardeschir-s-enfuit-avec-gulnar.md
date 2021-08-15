@@ -42,7 +42,7 @@ Il dit à cette femme au visage de lune :
 Et la jeune fille remonta à son pavillon, décidée à risquer sa tête et sa vie. -
 Lorsque la face du monde commença à blanchir à l’approche du soleil et que la nuit sombre fut prise au lacet, Gulnar ouvrit la porte du trésor et se mit à choisir, parmi tous les joyaux qu’il contenait, des grenats et d’autres pierres dignes d’un roi et autant de pièces d’or qu’il lui fallait.
 
-Elle rentra dans sa demeure, prit ces joyaux dans sa main et resta ainsi douloureusement affectée et troublée de pensées de ’ toute espèce, se disant :
+Elle rentra dans sa demeure, prit ces joyaux dans sa main et resta ainsi douloureusement affectée et troublée de pensées de toute espèce, se disant :
 
 > Quand même il pourra échapper au roi Ardewau, comment se lirera-t-il d’affaire avec ses fils ? »
 
