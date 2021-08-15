@@ -106,4 +106,4 @@ De grand matin, lorsque la nuit eut fait place au jour, Ardewan donna à son esc
 
 > La fourberie a levé sa tête jusqu’à ma couronne.
 >
-> Ardeschir est parti d’anprès de mon chevet plus rapidement que jamais flèche n’est partie de ’ l’arc ; il est allé dans le pays de Fars, cherche-le en secret et ne parle à personne dans le. monde de tout cela. »
+> Ardeschir est parti d’anprès de mon chevet plus rapidement que jamais flèche n’est partie de l’arc ; il est allé dans le pays de Fars, cherche-le en secret et ne parle à personne dans le. monde de tout cela. »
