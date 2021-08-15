@@ -140,7 +140,7 @@ Un homme glorieux et éloquent a dit :
 >
 > A l’une j’ai donné le nom de Khourreh-i-Ardeschir ; l’air y est sain, dans ses ruisseaux coule du lait ; une autre est Rem-Ardeschir, dont j’ai fait le lieu de passage vers le Fers;.une autre est Ormouzd-Ardeschir, dont les vents rajeunissent les vieillards ; x
 >
-> ARDESCl-elle est l’ornement du Khouzistan et pleine d’hommes, d’eau, de richesses et de vie;’une autre est Barkehi-Ardeschir, remplie de jardins. de bosquets de roses et de bassins d’eau ; enfin deux sont dans le pays de Meïsan et sur les eaux de l’Euphrate, pleines de fontaines, d’animaux et de plantes ; ap-pelle-les constructions du roi Ardeschir et quand tu entends parler de moi, rappelle-toi ceci.
+> ARDESCl-elle est l’ornement du Khouzistan et pleine d’hommes, d’eau, de richesses et de vie;’une autre est Barkehi-Ardeschir, remplie de jardins de bosquets de roses et de bassins d’eau ; enfin deux sont dans le pays de Meïsan et sur les eaux de l’Euphrate, pleines de fontaines, d’animaux et de plantes ; ap-pelle-les constructions du roi Ardeschir et quand tu entends parler de moi, rappelle-toi ceci.
 >
 > Maintenant je suis prêt pour la tombe, fais terminer mon cercueil et dresser ton trône.
 >
