@@ -60,7 +60,7 @@ Pourquoi ma mère m’a-t-elle mis au monde !
 
 Et pourquoi, si je devais naître, la mon, me m’a-t-elle pas emporté !
 
-Quand on est obligé. de traîner de pareilles douleurs, on ne se nourrit que d’amertume et de soucis ; la oie alors n’est qu’un arbre qui a crû, mais dont le fruit est du poison, dont la feuille donne la mort.
+Quand on est obligé de traîner de pareilles douleurs, on ne se nourrit que d’amertume et de soucis ; la oie alors n’est qu’un arbre qui a crû, mais dont le fruit est du poison, dont la feuille donne la mort.
 
 Si après une promesse telle que je l’ai donnée en invoquant Dieu et après les serments que j’ai faits, je détourne ma tête de la droite voie, si de tous côtés on ne voit que mensonge, les hommes ouvriront partout leurs lèvres pour me maudire comme je l’aurai mérité.
 
