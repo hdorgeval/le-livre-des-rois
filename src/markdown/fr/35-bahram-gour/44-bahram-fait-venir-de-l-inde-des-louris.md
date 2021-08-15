@@ -22,7 +22,7 @@ Plus tard il écrivit une lettre à chaque Mobed, et, dans le but d’améliorer
 >
 > Observez l’état du monde et dirigez mon cœur vers la lumière. »
 
-Il reçut de chaque Mobed, de chaque homme illustre. de chaque homme intelligent, cette réponse :
+Il reçut de chaque Mobed, de chaque homme illustre de chaque homme intelligent, cette réponse :
 
 > Nous voyons le monde entier prospère et partout s’élèvent des bénédictions continuelles, excepté que. les pauvres se plaigent du roi et de leur infortune, parce que, disent-ils, les riches boivent du vin. la tête couronnée de fleurs et au son de la musique, a et ne comptent pour rien des hommes comme nous. les pauvres, qui buvons sans musique et sans fleurs, pendant que les riches font jouir leurs cœurs et leurs âmes. »
 
