@@ -46,7 +46,9 @@ J Alors, il s’adressa à Zal, disant :
 >
 > Je n’ai pas à rougir de ma race, carles lions de l’Iran se sont réfugiés sur les bords de la mer de peur d’Afrasiab.
 >
-> Ensuite tu m’as rappelé que Kaous a fait préparer une caisse attelée d’aigle : et qu’il a voulu s’élever au-dessus de son rang de roi ; mais sache que même les plus puissants ne s’emportent pas contre les rois. ’ Quant à moi, puisque j’ai vengé mon père, soumis le monde par mes victoires, mis à mort quiconque méritait un châtiment ou faisait peser sur la terre l’injustice et la tyrannie, je n’ai plus rien à faire dans le monde, car la domination des méchants est finie.
+> Ensuite tu m’as rappelé que Kaous a fait préparer une caisse attelée d’aigle : et qu’il a voulu s’élever au-dessus de son rang de roi ; mais sache que même les plus puissants ne s’emportent pas contre les rois.
+>
+> Quant à moi, puisque j’ai vengé mon père, soumis le monde par mes victoires, mis à mort quiconque méritait un châtiment ou faisait peser sur la terre l’injustice et la tyrannie, je n’ai plus rien à faire dans le monde, car la domination des méchants est finie.
 >
 > Toujours, quand je réfléchis pro-
 >
