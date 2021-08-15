@@ -32,7 +32,7 @@ Sa noble armée occupa la ville et Iskender, en entrant dans la place, ordonna q
 
 Or il y avait dans la ville un fils de Keïdafeh, gendre et favori de Feryan, qui lui avait donné sa noble fille et Keïdafeh lui avait conféré un rang élevé.
 
-Le nom. de ce jeune homme était Keïderousch et Feryan n’avait de cœur, d’yeux et d’oreilles que pour lui.
+Le nom de ce jeune homme était Keïderousch et Feryan n’avait de cœur, d’yeux et d’oreilles que pour lui.
 
 Keïderousch et sa femme étaient prisonniers entre les mains d’un homme nommé Schehrguir.
 
