@@ -79,7 +79,7 @@ Il courut d’un trait jusqu’à la cour d’Afrasiab, sans respirer, sans se r
 
 Il entra chez le roi, rapide comme le vent, baisa le trône et s’acquitta de son message.
 
-Afrasiab écouta les paroles que lui faisait dire Pirau ; la douleur fit gonfler son cœur de sang et ses joues pâlirent.
+Afrasiab écouta les paroles que lui faisait dire Piran ; la douleur fit gonfler son cœur de sang et ses joues pâlirent.
 
 Cet homme au cœur de pierre s’assit dans son angoisse, affligé du sort de ceux qui étaient tombés et de la destruction dont menaçaient son pays des armées qui s’avançaient de toutes parts, des armées qui accouraient partout au combat et qui répandaient la terreur dans le monde enlier.
 
