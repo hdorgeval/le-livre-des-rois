@@ -32,7 +32,7 @@ Elle leur dit :
 >
 > Aujourd’hui vient le Khakan et roi, qui n’est pas un petit personnage, qui a du pouvoir et sait s’en servir ; mais, s’il travaille à amener une parenté entre les Turcs et les Iraniens, notre temps verrait à la fin que cette alliance et ces liens ne produisent que des soucis et des peines.
 >
-> Réfléchissez que Siawusch n’a obtenu d’Afrasiab que de mafia. des ardeurs du soleil et que ce jeune homme, que le fils d’aucune mère n’a jamais égalé, a donné au vent sa tête des le commencement de sa liaison avec le Touran.
+> Réfléchissez que Siawusch n’a obtenu d’Afrasiab que de mafia des ardeurs du soleil et que ce jeune homme, que le fils d’aucune mère n’a jamais égalé, a donné au vent sa tête des le commencement de sa liaison avec le Touran.
 >
 > Et son fils, qu’a-t-il fait, si ce n’est détruire le Touran et l’Iran ?
 >
