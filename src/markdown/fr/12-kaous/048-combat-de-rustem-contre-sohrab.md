@@ -81,7 +81,7 @@ Sohrab se dirigea vers l’armée de l’Iran ; abandonnant les rênes à son ch
 
 Rustem songeait tristement aux malheurs qu’amènerait sans doute sur Kaous ce vaillant Turc, qui venait de paraître, la poitrine et les bras couverts d’une cotte de mailles.
 
-Il se hâtait de retourner à son camp, le cœur rempli de ces craintes, lorsqu’il vit, au milieu de l’armée, Sohrab qui venait de rougir la terre de sang ; sa main était tachée de sang, ainsi que le fer de sa lance et sa cotte de mailles ; tu aurais (lit qu’il était ivre de sa
+Il se hâtait de retourner à son camp, le cœur rempli de ces craintes, lorsqu’il vit, au milieu de l’armée, Sohrab qui venait de rougir la terre de sang ; sa main était tachée de sang, ainsi que le fer de sa lance et sa cotte de mailles ; tu aurais dit qu’il était ivre de sa
 
 Chasse.
 
