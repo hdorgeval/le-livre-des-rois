@@ -26,7 +26,7 @@ Keï Khosrou s’avançait et lorsqu’il fut près du Mekran, il choisit dans s
 >
 > Prépare donc pour mon armée de la nourriture et une route, prépare pour moi un beau palais.
 >
-> Quand une armée n’a pas. de vivres, tu sais ce qui arrive, car personne ne consent à être livré à la détresse ; toutes les mains enlèveront la nourriture d’autrui, si je ne peux pas faire parvenir à chacun la sienne.
+> Quand une armée n’a pas de vivres, tu sais ce qui arrive, car personne ne consent à être livré à la détresse ; toutes les mains enlèveront la nourriture d’autrui, si je ne peux pas faire parvenir à chacun la sienne.
 >
 > Si mes hommes ne trouvent pas de vivres, ils vous apporteront la guerre, ils rendront étroite la terre devant leurs ennemis.
 >
@@ -42,7 +42,7 @@ Aussitôt que l’envoyé du roi fut parti, tout le Mekran se remplit de clameur
 
 Le roi fit amener deux cents éléphants de guerre ; on aurait dit qu’il n’y avait plus d’espace libre sur la terre ; le hennissement des chevaux et les cris de l’armée étaient tels que la lune s’égarait dans le ciel.
 
-Une vedette accourut auprès de Khosrou et lui dit que le Mekran était obscurci par la poussière que soulevait l’armée, que le pays entier était couvert de drapeaux et d’éléphants et que le roi pouvait les voirà une distance de deux milles.
+Une vedette accourut auprès de Khosrou et lui dit que le Mekran était obscurci par la poussière que soulevait l’armée, que le pays entier était couvert de drapeaux et d’éléphants et que le roi pouvait les voir à une distance de deux milles.
 
 Le roi ordonna aux troupes de former les rangs et de saisir les massues et les épées.
 
@@ -75,13 +75,12 @@ Dix mille hommes de cette armée, des cavaliers et des héros qui perçaient leu
 
 On s’empara des éléphants et des trésors, des tentes et des trônes précieux.
 
-Ensuite les braves . pleins d’ardeur pour le combat se mirent à tout dévaster.
+Ensuite les braves pleins d’ardeur pour le combat se mirent à tout dévaster.
 
 Les grands de l’Iran s’enrichirent et un
 
-Se !
-
-Knossos. grand nombre d’entre eux s’emparèrent de trônes et de diadèmes.
+Se ! 
+ grand nombre d’entre eux s’emparèrent de trônes et de diadèmes.
 
 On entendit dans les villes et les campagnes les lamentations des femmes ; tout le désert et tout le Mekran étaient remplis de terreur.
 
