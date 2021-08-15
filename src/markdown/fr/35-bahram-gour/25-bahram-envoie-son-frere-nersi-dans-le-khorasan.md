@@ -42,7 +42,7 @@ Il lui dit :
 
 > Puisses-tu rester éternellement le maître du monde, entouré de la majesté que Dieu t’a donnée !
 >
-> C’est un vieillard sage et réservé, qui parle bien et d’une voix douce ; il est de l’école de Falathoun (Platon), c’est un homme de sens, savant et de bonne naissance : Il était plein d’énergie quand il est arrivé du Roum ; mais dans ce pays il ’ s’est fatigué, il s’est engourdi comme un serpent au mois de décembre ; son corps est affaibli et ses joues sont devenues couleur de roseau.
+> C’est un vieillard sage et réservé, qui parle bien et d’une voix douce ; il est de l’école de Falathoun (Platon), c’est un homme de sens, savant et de bonne naissance : Il était plein d’énergie quand il est arrivé du Roum ; mais dans ce pays il s’est fatigué, il s’est engourdi comme un serpent au mois de décembre ; son corps est affaibli et ses joues sont devenues couleur de roseau.
 >
 > Ses serviteurs sont comme des moutons que rencontre un chien un jour de chasse, mais lui nous regarde avec fierté et colère et ne compte pour rien les hommes de ce pays. »
 
@@ -52,7 +52,7 @@ Bahram dit au Mobed :
 >
 > Le Maître du monde m’a rendu victorieux, il a converti en jour la nuit sombre qui pesait sur ma fortune ; mais celui qui est roi des rois de Roum, qui est maître et seigneur d’un grand pays, est un homme puissant ; de plus, il est descendant de Selm, sur la tête duquel Feridoun a placé la couronne.
 >
-> Jusqu’ici il s’est conduit bien et sagement, il n’est pas tombé dans la folie comme le Khakan.I’appellerai donc 3 son envoyé à l’heure de l’audience pour voir s’il a quelque chose de raisonnable à dire, puis je le R renverrai gracieusement. car l’opinion des hommes (r ne m’est pas indifférente.
+> Jusqu’ici il s’est conduit bien et sagement, il n’est pas tombé dans la folie comme le Khakan.I’appellerai donc 3 son envoyé à l’heure de l’audience pour voir s’il a quelque chose de raisonnable à dire, puis je le R renverrai gracieusement car l’opinion des hommes (r ne m’est pas indifférente.
 >
 > L’un veut des combats et amène une armée, un autre veut des fêtes et apporte un diadème d’or et c’est à moi de distinguer ce qu’ils valent.
 >
