@@ -308,4 +308,4 @@ Mais le fils de Mahouî, prenant la parole, dit :
 >
 > toutes les forces du Madjin et de la Chine et rendra le monde étroit sous nos pas.
 >
-> Ne considère pas cette affaire comme une chose futile ; puisque tu as l’avantage aujourd’hui, arrive résolument au but de tes vœux, car si les partisans du roi font de sa tunique royale un drapeau, leur armée te chassera. de ce monde. »
+> Ne considère pas cette affaire comme une chose futile ; puisque tu as l’avantage aujourd’hui, arrive résolument au but de tes vœux, car si les partisans du roi font de sa tunique royale un drapeau, leur armée te chassera de ce monde. »
