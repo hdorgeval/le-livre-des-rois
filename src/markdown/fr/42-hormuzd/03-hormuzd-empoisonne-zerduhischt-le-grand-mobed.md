@@ -133,4 +133,4 @@ L’homme de confiance du roi partit en pleurant et rapporta cette réponse à H
 >
 > Pourquoi étendre la main vers un trésor ?
 >
-> Car ce moment. de jouissances passera et le temps compte chacune de nos respirations.
+> Car ce moment de jouissances passera et le temps compte chacune de nos respirations.
