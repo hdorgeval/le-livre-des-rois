@@ -56,7 +56,7 @@ Le Kaisar demanda :
 
 Kharrad, fils de Berzin, dit :
 
-> ’ Leur voie est le culte de la vache et de la lune ; ils ne croient pas en Dieu ni au pouvoir de la rotation du ciel ; ils n’ont pas pitié de leur corps ; ils se regardent comme tau-dessus du soleil et ne comptent pas pour des savants des hommes comme nous.
+> Leur voie est le culte de la vache et de la lune ; ils ne croient pas en Dieu ni au pouvoir de la rotation du ciel ; ils n’ont pas pitié de leur corps ; ils se regardent comme tau-dessus du soleil et ne comptent pas pour des savants des hommes comme nous.
 >
 > Quiconque allume un feu, s’y jette et s’y consume, croit que, par ordre de Dieu le tout-puissant, il y a dans les espaces un feu universel, que leurs savants appellent éther et dont ils parlent dans des termes beaux et touchants, disant que, quand le feu se mêle au feu, les péchés qu’on a pu commettre disparaissent ; voilà pourquoi il leur est imposé d’allumer des feux et qu’ils croient qu’ils sont justifiés quand ils sont consumés par le feu. »
 
