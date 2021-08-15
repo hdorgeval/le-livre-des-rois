@@ -156,7 +156,7 @@ Gouderz appela le Sipehdar Gustehem et lui donna beaucoup d’avis et de conseil
 
 > Veille sur l’armée, protégela contre les ennemis.
 >
-> Reste jour et nuit dans ta cuirasse et ne songe qu’à la vengeance ; garde-toi. de découvrir un seul instant ta tête.
+> Reste jour et nuit dans ta cuirasse et ne songe qu’à la vengeance ; garde-toi de découvrir un seul instant ta tête.
 >
 > Au moment où tu cesserais de combattre, le sommeil commenocrait ses attaques contre toi ; à l’instant où tu reposerais ta tête, ceux qui ne dorment pas te surprendraient.
 >
