@@ -18,7 +18,7 @@ order: '030'
 
 Khosrou, de son côté, alla au camp que Bahram avait occupé avec son armée ; il livra tout le camp au pillage ; il donna à ses troupes tout le trésor et les couronnes de Bahram.
 
-Puis, il prit un cheval ardent àla course et se prépara à faire ses dévotions.
+Puis, il prit un cheval ardent à la course et se prépara à faire ses dévotions.
 
 Il trouva devant lui un hallier, mit pied à terre et entra dans ce lieu propice ; il se prosterna dans la poussière devant Dieu et dit :
 
