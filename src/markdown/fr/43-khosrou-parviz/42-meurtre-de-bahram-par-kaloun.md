@@ -122,7 +122,7 @@ Lorsque le blessé entendit ces paroles, qu’il vit ce grand cœur et cette int
 >
 > Tout cela était écrit dans ma destinée.
 >
-> Pourquoi m’atllige-
+> Pourquoi m’afflige-
 rais-je de ce que j’ai fait autrefois ?
 >
 > L’eau a monté maintenant au-dessus de ma tête et le chagrin et la joie ne sont pour moi qu’un souffle du vent.
