@@ -161,7 +161,7 @@ Le Mobed dit :
 
 Il répondit :
 
-> Dieu le toutsaint relève de la poussière ceux qui l’adorent ; il fait du ciel son serviteur et du monde son esclave et si je ne reconnaissais pas la valeur de la prière, je ne mériterais pas de trouver délivrance des peines et des dangers.
+> Dieu le tout-saint relève de la poussière ceux qui l’adorent ; il fait du ciel son serviteur et du monde son esclave et si je ne reconnaissais pas la valeur de la prière, je ne mériterais pas de trouver délivrance des peines et des dangers.
 >
 > Le Mobed demanda :
 
