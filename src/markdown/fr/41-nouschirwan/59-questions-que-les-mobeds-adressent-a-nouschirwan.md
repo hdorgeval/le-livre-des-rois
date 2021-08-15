@@ -434,6 +434,6 @@ Il répondit :
 >
 > Un homme de sens et d’un caractère patient n’est jamais vil aux yeux du maître du monde ; il sait que son mérite est reconnu par lui et il applique toutes ses forces à sa besogne ; il sait que son protecteur approuve son agrandissement, qu’il contribue à le rendre puissant et heureux et que Dieu ne voit pas avec déplaisir que cet homme ace cumule des richesses ; aussi se voue-t-il au service de Dieu et de la justice et s’écarte des voies détournées et du mal. »
 
-C’est la la raison, c’est là la voie ; attache-toi à Dieu et il sera ton asile.
+C’est là la raison, c’est là la voie ; attache-toi à Dieu et il sera ton asile.
 
 Si tu es juste, ô roi, tu laisseras un souvenir dans le monde, comme le roi Nouschirwan en a laissé un ; il est devenu de la poussière, mais sa gloire est restée jeune et ses bonnes actions feront, sans aucun doute, que son nom restera en tout temps vivant dans le monde et que tous les. hommes intelligents béniront son âme aussi longtemps que subsisteront le ciel et la terre.
