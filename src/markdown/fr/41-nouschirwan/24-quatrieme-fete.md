@@ -54,7 +54,7 @@ Buzurdjmihr lui rendit ses hommages, disant :
 >
 > Mais si c’est un être malfaisant, impudent et dépravé, il faut en débarrasser la face du pays, pour qu’il n’ait pas un retour de fortune qui lui permettrait de porter la désolation dans les demeures des hommes.
 >
-> Il faut que le maître du monde soit attaché àla foi et à la justice tant qu’il sera roi ; il faut qu’il travaille en public et en secret à délivrer le monde avec son épée du mal que font les Divs.
+> Il faut que le maître du monde soit attaché à la foi et à la justice tant qu’il sera roi ; il faut qu’il travaille en public et en secret à délivrer le monde avec son épée du mal que font les Divs.
 >
 > S’il ordonna son armée sagement, les hommes qui ont besoin de son aide cesseront de souffrir.
 >
