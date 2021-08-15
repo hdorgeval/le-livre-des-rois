@@ -26,7 +26,7 @@ Il dit :
 >
 > Quand il y a un malheur qui dépasse l’imagination, comment se garantir contre son sort par des elïorts quelconques ?
 >
-> Je n’aurais pas cru qu’Ardeschir deviendrait un ambitieux, un conquérant. de pays. »
+> Je n’aurais pas cru qu’Ardeschir deviendrait un ambitieux, un conquérant de pays. »
 
 Il ouvrit la porte de son trésor et paya la solde, fit partir son armée et faire les bagages.
 
