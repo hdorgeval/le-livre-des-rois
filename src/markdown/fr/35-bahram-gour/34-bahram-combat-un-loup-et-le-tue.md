@@ -75,7 +75,7 @@ A Il ordonna qu’on amenât une charrette attelée de bœufs et qu’on emport�
 On l’em porta et Schenguil, qui la vit de loin, lit parer une salle de festin avec du brocart.
 
 Le roi, ,plein de magnificence, monta sur le trône, devant le-
-". .
+".
 quel on fit asseoir Bahram ; tous les grands de l’Inde et tous les héros de la Chine le couvrirent de bénédictions.Les grands s’approchèrent avec des offrandes, disant à Bahram :
 
 > Ô homme illustre !
