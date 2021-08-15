@@ -27,6 +27,7 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/\n\.\n/, '\n'),
     (content: string) => content.replace(/ au-près /, ' auprès '),
     (content: string) => content.replace(/toutsaint/, 'tout-saint'),
+    (content: string) => content.replace(/arrièregarde/, 'arrière-garde'),
   ].forEach((format) => {
     result = format(result);
   });
