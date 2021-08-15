@@ -70,7 +70,7 @@ Tous les Iraniens, que favorisait la fortune ,
 
 Bahram demanda à l’instant un cheval de main, il demanda un casque, qui aurait fait la parure d’un roi, mais on recommença à faire pleuvoir la pluie de traits sur le destrier de l’orgueilleux Bahram.
 
-Cet homme, avide de combat, mit pied à terre, fit entrer le pan de sa cotte de mailles dans sa ceinture, protégea sa tête avec son bouclier et son épée tranchante porta la mort dans les rangs des combattants, qui s’enfuirent à pied devant Bahram et jetèrent leurs arcs On amena dans ce moment un destrier, sur lequel de Djadj. ’ le Sipehbed Bahram monta rapidement ; il s’élança en rugissant sur le centre de l’armée des Perses, à la place où se trouvait le roi à la tête des troupes. il dispersa tout le centre de l’armée et le drapeau du maître du monde disparut.
+Cet homme, avide de combat, mit pied à terre, fit entrer le pan de sa cotte de mailles dans sa ceinture, protégea sa tête avec son bouclier et son épée tranchante porta la mort dans les rangs des combattants, qui s’enfuirent à pied devant Bahram et jetèrent leurs arcs On amena dans ce moment un destrier, sur lequel de Djadj. le Sipehbed Bahram monta rapidement ; il s’élança en rugissant sur le centre de l’armée des Perses, à la place où se trouvait le roi à la tête des troupes. il dispersa tout le centre de l’armée et le drapeau du maître du monde disparut.
 
 De là il se dirigea vers l’aile droite, où les bagages se trouvaient placés derrière la ligne des Perses.
 
