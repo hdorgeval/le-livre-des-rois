@@ -71,7 +71,7 @@ Ils se prosternèrent tous le front contre terre, ils pro-.
 
 Le roi des rois accepta leurs olIrandes et ils quittèrent sa présence, précédés par Feghaniscli et formant toute une armée de jeunes guerriers.
 
-Comme le roi avait été content. de ces braves, le grand chambellan parut à la porte du palais, leur lit les questions d’usage, les reçut amicalement et leur prépara des logis dans toutes les rues. »
+Comme le roi avait été content de ces braves, le grand chambellan parut à la porte du palais, leur lit les questions d’usage, les reçut amicalement et leur prépara des logis dans toutes les rues. »
 
 Le pieux roi des rois sortit de son appartement et se prosterna sur la terre, adressant ses prières au Créateur et disant :
 
