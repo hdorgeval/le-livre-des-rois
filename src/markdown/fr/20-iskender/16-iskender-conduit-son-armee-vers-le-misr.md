@@ -20,7 +20,7 @@ Le roi emmena son armée de ce lieu, se rendit à Djuddah et yvresta longtemps ;
 
 Keïthoun était alors roi du Misr et le nombre de ses troupes dépassait l’imagination.
 
-Lorsqu’il apprit qu’il arrivait de la Mecque un conquérant fier et victorieux, il alla à sa rencontre avec un cor-. ’ tége nombreux, emmenant avec lui des esclaves, des caisses remplies d’or, une couronne et un trône.
+Lorsqu’il apprit qu’il arrivait de la Mecque un conquérant fier et victorieux, il alla à sa rencontre avec un cor-. tége nombreux, emmenant avec lui des esclaves, des caisses remplies d’or, une couronne et un trône.
 
 Iskender fut heureux de le voir et ne fit aucune attention aux paroles des ennemis de Keïthoun.
 
@@ -49,7 +49,7 @@ Keïthouh répondit :
 
 Personne ne peut, savoir le nombre de ses troupes, à moins qu’il n’en comr pulse longuement les rôles.
 
-Tu ne verras personne dans le monde qui lui soit comparable en richesses, ’ en puissance, en dignité, en bonté, en vertu, en sagesse et en paroles bienveillantes.
+Tu ne verras personne dans le monde qui lui soit comparable en richesses, en puissance, en dignité, en bonté, en vertu, en sagesse et en paroles bienveillantes.
 
 La ville qu’elle a bâtie en pierre et qu’un léopard :
 
