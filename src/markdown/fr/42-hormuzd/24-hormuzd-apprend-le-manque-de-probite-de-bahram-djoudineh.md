@@ -44,13 +44,13 @@ Le roi lui dit :
 
 > Prête-moi un nouveau ser-. t ment, mets toute cette affaire sur un autre pied ; jure par Dieu qui est au-dessus de tout ce qui est grand, qui fait briller Vénus et Jupiter, que, de retour dans ton pays, tu ne te détourneras ni de ce moi ni des grands de ma cour. »
 
-Ils firent alors un serment solennel, par Dieu le toutsaint, par la vie des grands, par la couronne et le trône, par le soleil et la lune, par Aderguschasp, par le sceau et le diadème, que le Khakan resterait fidèle au roi et que celui-ci ne l’affligerait jamais en rien.
+Ils firent alors un serment solennel, par Dieu le tout-saint, par la vie des grands, par la couronne et le trône, par le soleil et la lune, par Aderguschasp, par le sceau et le diadème, que le Khakan resterait fidèle au roi et que celui-ci ne l’affligerait jamais en rien.
 
 Ils prononcèrent ces paroles, se levèrent et se rendirent dans leurs chambres à coucher.
 
 Lorsque le soleil jaune parut au haut des mon»
 
-Tagnes et que la tête des rois sortit du sommeil, le roi illustre fit apprêter des présents d’objets d’or et d’argent, de chevaux et de diadèmes, de ceintures d’or incrustées de pierreries, de bracelets, de colliers et de boucles d’oreilles. de chevaux arabes avec des brides d’or et (l’épées indiennes aux fourreaux d’or et il envoya tout cela au Khakan.
+Tagnes et que la tête des rois sortit du sommeil, le roi illustre fit apprêter des présents d’objets d’or et d’argent, de chevaux et de diadèmes, de ceintures d’or incrustées de pierreries, de bracelets, de colliers et de boucles d’oreilles de chevaux arabes avec des brides d’or et (l’épées indiennes aux fourreaux d’or et il envoya tout cela au Khakan.
 
 Il l’accompagne sur la route pendant deux stations, le troi-5ième jour Parmoudeh lit une longue journée et envoya au roi ses adieux et le roi s’en retourna.
 
