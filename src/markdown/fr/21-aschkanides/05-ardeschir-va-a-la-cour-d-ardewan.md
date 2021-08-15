@@ -75,7 +75,7 @@ Puis, il écrivit à son grand-père une lettre, le cœur plein de soucis et la 
 
 Lorsque cette lettre arriva à Babek, celui-ci tint l’afi’aire cachée à tout le monde ; mais son cœur en fut rempli de douleur et de peine.
 
-Il tira de son trésor des pièces d’or et lui en envoya dix mille par un y homme monté sur un dromadaire. de course.
+Il tira de son trésor des pièces d’or et lui en envoya dix mille par un y homme monté sur un dromadaire de course.
 
 Mais auparavant il fit venir un scribe et lui ordonna d’écrire une lettre à Ardeschir :
 
