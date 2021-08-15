@@ -55,7 +55,7 @@ Il lui fit écrire une lettre pleine de dignité, adressée aux commandants des 
 I ’
 Lorsqu’il partit du temple du feu pour marcher sur le Roum, le bruit s’en répandit dans le pays
 
-Assas ’ me d’alentour, tous ses sujets fidèles allèrent à sa rencontre et la terre disparut sous la foule de ces hommes vaillants ; bien des princes arrivèrent auprès du roi avec des présents et des offrandes ; partout où
+Assas me d’alentour, tous ses sujets fidèles allèrent à sa rencontre et la terre disparut sous la foule de ces hommes vaillants ; bien des princes arrivèrent auprès du roi avec des présents et des offrandes ; partout où
 il s’arrêta, il reçut de tout côté des. messages et des salutations ; partout où il conduisit son armée, on ne vit que des fêtes et des chasses et chaque soir mille braves se réunirent chez le roi pour un banquet.
 
 Quand il fut près de l’ennemi, il se prépara à la bataille et commença par payer leur solde aux troupes.
