@@ -32,7 +32,7 @@ Un scribe renommé la lut et la joue du roi devint noire comme la suie.
 
 Il dit à Rustem :
 
-> Je crois que c’est un jeune homme généreux et candide ; mais toi, qui es un homme et non un enfant, qui connais le monde, qui as vu le bien et le mal sous toutes les formes, qui n’as pas d’égal dans le monde, toi de qui les lions empruntent le courage dans les combats, n’as-tu pas vu ce que j’ai souffert d’Afrasiab et que j’ai été privé par lui de la faim, du sommeil et, du repos ?
+> Je crois que c’est un jeune homme généreux et candide ; mais toi, qui es un homme et non un enfant, qui connais le monde, qui a vu le bien et le mal sous toutes les formes, qui n’as pas d’égal dans le monde, toi de qui les lions empruntent le courage dans les combats, n’as-tu pas vu ce que j’ai souffert d’Afrasiab et que j’ai été privé par lui de la faim, du sommeil et, du repos ?
 
 J’aurais dû partir et je me suis laissé arrêter : ma tête était remplie d’ardeur pour la guerre, mais je ne suis pas parti parce qu’on me disait sans cesse :
 
