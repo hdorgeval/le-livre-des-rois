@@ -64,7 +64,7 @@ Je jure par le nom du Créateur, du maître unique, de ne pas laisser en vie un 
 
 Maintenant il faut préparer des tables ce et du vin et dissiper avec les coupes les soucis du cœur. »
 
-Rustem. de son côté, inspecta son armée et s’entretint avec Guiv, en disant :
+Rustem de son côté, inspecta son armée et s’entretint avec Guiv, en disant :
 
 > Comment Sohrab le guerrier éprouvé s’est-il aujourd’hui comporté dans le combat ? »
 
