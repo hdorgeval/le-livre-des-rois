@@ -43,7 +43,7 @@ Il répandit dans le monde la droiture et les grands et les petits étaient heur
 >
 > J’implore le Créateur du monde, pour qu’il il m’ accorde en toute occasion la force d’être bon pour mes sujets et de convertir la terre vile en musc pur, pour que personne, quand mon corps sera couché dans la poussière, ne puisse saisir le pan de me robe parce que j’aurais manqué de justice n envers lui.
 >
-> Et vous aussi, couvrez-vous du manteau de la droiture et lavez votre cœur de toute fausseté. car personne ne naît de sa mère que pour la mort, qu’il soit de race perse, ou arabe, ou roumie.
+> Et vous aussi, couvrez-vous du manteau de la droiture et lavez votre cœur de toute fausseté car personne ne naît de sa mère que pour la mort, qu’il soit de race perse, ou arabe, ou roumie.
 >
 > La mort se jette sur lui comme un lion et personne ne peut soustraire son cou à ses griffes ; le lion qui déchire tout est sa proie,’et le dragon n’échappe pas à son piège.
 >
