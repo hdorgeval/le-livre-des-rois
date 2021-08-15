@@ -36,7 +36,7 @@ Il choisit ensuite dans son entourage un messager, homme intelligent’et de bon
 
 > Gloire et louange au souverain juge qui dispense le pouvoir, le trône et la valeur, au maître de la victoire, de la majesté et de la couronne] Tout, depuis la palle de l’insecte jusqu’à l’aile rapide de l’aigle, l’éléphant sur la terre, le crocodile dans les eaux, tout est soumis à sa volonté et à ses lois et ne respire qu’avec sa permission.
 >
-> De la part du roi de la terre, Yezdegird le Grand, fils d’un père illustre, monarque puissant, chef victorieux des armées de l’Iran, souverain et arbitre du monde, rejeton d’une race glorieuse, fidèle au culte de Dieu et couronnée par la faveur des astres, d’une race qui a rendu le monde prospère et qui a fait briller la couronne, le trône et le sceau royal, de la part de Y ezdegird, aux Merzebans qui règnent glorieusement et selon la ’ justice sur les pays et les peuples de Scheiniran, Ilouïndiz, Radeh Kouh et Kelat.
+> De la part du roi de la terre, Yezdegird le Grand, fils d’un père illustre, monarque puissant, chef victorieux des armées de l’Iran, souverain et arbitre du monde, rejeton d’une race glorieuse, fidèle au culte de Dieu et couronnée par la faveur des astres, d’une race qui a rendu le monde prospère et qui a fait briller la couronne, le trône et le sceau royal, de la part de Y ezdegird, aux Merzebans qui règnent glorieusement et selon la justice sur les pays et les peuples de Scheiniran, Ilouïndiz, Radeh Kouh et Kelat.
 >
 > Que Dieu soit notre appui, qu’il vous protège contre les atteintes du sort !
 >
