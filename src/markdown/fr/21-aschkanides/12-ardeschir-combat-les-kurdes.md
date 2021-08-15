@@ -59,7 +59,7 @@ Ces hommes de confiance partirent et en revenant mirent pied à terre auprès du
 > Ils sont tout glorieux et dans la joie et personne ne s’inquiète du roi ; ils croient qu’Ardeschir est affaibli et à Isthakhr et que sa jeune fortune a vieilli. »
 
 Ces paroles réjouirent le roi et tout ce qui s’était passé s’elI’aça de son cœur comme un souffle ; il choisit dans cette armée glorieuse dix mille cava-
-V. ’ t !
+V. t !
 
 A !
 
@@ -78,7 +78,7 @@ Ardeschir livra au pillage tout leur pays et distribua à toute son armée de l�
 
 Il ne s’y arrêta pas pour tirer gloire de sa bravoure, mais s’empressa de rentrer à Isthakhr et donna l’ordre qu’onmlt les chevaux en bon état et qu’on réparât les armures des cavaliers, pour que ses hommes, reposés par les fêtes, pussent tourner leurs pensées de nouveau vers les jours du combat.
 
-Les braves se mirent à jouir de la vie et quand leurs 2h ?
+Les braves se mirent à jouir de la vie et quand leurs ?
 
 Reins ne ressentaient plus la fatigue de la ceinture, Ardeschir médita de nouvelles guerres.
 
