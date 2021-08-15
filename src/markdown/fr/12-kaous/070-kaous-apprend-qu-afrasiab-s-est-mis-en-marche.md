@@ -86,7 +86,7 @@ Rustem répondit :
 
 > Je suis ton esclave, j’applau-dis à tout ce que tu m’as dit.
 >
-> Siawusch est. l’asile de mon âme et le sommet de sa couronne est mon firmament. »
+> Siawusch est l’asile de mon âme et le sommet de sa couronne est mon firmament. »
 
 Le roi ’écouta et le bénit en disant :
 
