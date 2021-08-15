@@ -40,7 +40,7 @@ Il demeura ainsi pendant trois jours devant la porte du château et le quatrièm
 >
 > Envoie hors du château tes trésors d’or, enroie sur la plaine toutes les caisses d’argent, ou, si tu veux garder tss trésors, tu ne conserveras pas le pays, sur un roi doit mépriser l’or.
 >
-> Je suis ton intermédiaire à la cour du roi, car je suis le héros du pays de l’Iran ; je te ferai grand au-dessus de tous les grands ; je ferai pour toi plus que tu ne penses et ne désires et si tu as un plan. qui puisse aider à, rendre brillantes tes affaires embrouiilées, dévoile-le et confie-le-moi ; et puisque la position est telle, ne cherche pas à la prolonger.-Mais si tu as quelques amis qui veulent faire la guerre, si tu as beaucoup de trésors et d’or, alors fais battre les timbales, recommence les combats. car quand on a de l’argent on ne manque jamais de troupes. »
+> Je suis ton intermédiaire à la cour du roi, car je suis le héros du pays de l’Iran ; je te ferai grand au-dessus de tous les grands ; je ferai pour toi plus que tu ne penses et ne désires et si tu as un plan. qui puisse aider à, rendre brillantes tes affaires embrouiilées, dévoile-le et confie-le-moi ; et puisque la position est telle, ne cherche pas à la prolonger.-Mais si tu as quelques amis qui veulent faire la guerre, si tu as beaucoup de trésors et d’or, alors fais battre les timbales, recommence les combats car quand on a de l’argent on ne manque jamais de troupes. »
 
 L’envoyé arriva et transmit son message ; Parmoudeh, qui cherchait à atteindre son but, répondit :
 
@@ -58,7 +58,7 @@ L’envoyé arriva et transmit son message ; Parmoudeh, qui cherchait à atteind
 
 Rait si l’on emploie des incantations et l’ennemi en rit de loin.
 
-Quand tu dis que le nombre de tes troupes est plus grand que celui des révolutions du soleil et de la lune, que tes destriers et tes éléphants sont ’ comme les graines d’herbes que balaye le vent des ailes d’un moulin, cela durera jusqu’à ce que ton jour soit passé, car toi non plus tu ne resteras upas toujours heureux ni la lumière du monde.
+Quand tu dis que le nombre de tes troupes est plus grand que celui des révolutions du soleil et de la lune, que tes destriers et tes éléphants sont comme les graines d’herbes que balaye le vent des ailes d’un moulin, cela durera jusqu’à ce que ton jour soit passé, car toi non plus tu ne resteras upas toujours heureux ni la lumière du monde.
 
 Ciains le sort, qui sème la vengeance ; il pourrait A convertir en poison ton bézoard.
 
@@ -66,7 +66,7 @@ Tout homme dont l’occupation est de verser du sang, de remplir d’inquiétude
 
 Si tu dévastes le pays des Turcs, ils finiront par vouloir se venger de toi.
 
-Néanmoins je n’irai pas te combattre sans une armée. car mes amis m’accuseraient de folie et je n’irai pas me présenter devant toi, quoique je ne craigne pas que tu me mettes à mort ; mais tu es
+Néanmoins je n’irai pas te combattre sans une armée car mes amis m’accuseraient de folie et je n’irai pas me présenter devant toi, quoique je ne craigne pas que tu me mettes à mort ; mais tu es
 
 Un serviteur et moi je suis un roi : pourquoi m’ha-milierais-je devant un serviteur ?
 
