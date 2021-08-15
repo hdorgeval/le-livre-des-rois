@@ -50,7 +50,7 @@ Toute son escorte chanta sa gloire, disant :
 
 Bahram courut sur cette prairie avec tous ses amis qui lui faisaient escorte ; ils virent un bois plein de moutons et des pâtres qui s’enfuyaient de
 
-A ’ ces crainte d’un malheur.
+A ces crainte d’un malheur.
 
 Un chef des pâtres aperçut le roi ; il n’avait jamais de repos de peur des bêtes féroces.
 
