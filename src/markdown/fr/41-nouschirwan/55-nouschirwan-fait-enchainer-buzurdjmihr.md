@@ -82,7 +82,7 @@ Il répondit :
 
 Kesra dit :
 
-> Rends-toi auprès du sage et dislui : Toi. qui occupais une si grande place et jouissais de tels honneurs, comment as-tu pu, par ’ mauvaise nature et par esprit de domination malséant, te rabaisser au lieu de t’étever ? »
+> Rends-toi auprès du sage et dislui : Toi. qui occupais une si grande place et jouissais de tels honneurs, comment as-tu pu, par mauvaise nature et par esprit de domination malséant, te rabaisser au lieu de t’étever ? »
 
 Le serviteur l’écouta et s’en alla, courant en toute hâte et l’âme blessée,»ches son oncle maternel, à qui il répéta les paroles du roi. il reçut de Buzurdjmihr, qui était seul avec lui, a cette réponse :
 
