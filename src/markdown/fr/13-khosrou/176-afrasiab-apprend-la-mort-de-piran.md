@@ -108,7 +108,7 @@ Lorsque ces braves revinrent de leurs courses, un d’eux dit au roi qui portait
 
 > Une telle armée, pour faire la guerre, a besoin de fourrages, de matériel de toute sorte et d’un lieu ou elle puisse, y camper.
 >
-> Or il se trouve sur le bord de la mer de Ghilan une route, des prairies pour les chevaux et de la place pour le campement et le prévoyant ’ Karakhan y amènera des vivres, parteau, de notre côté du Djihoun.
+> Or il se trouve sur le bord de la mer de Ghilan une route, des prairies pour les chevaux et de la place pour le campement et le prévoyant Karakhan y amènera des vivres, parteau, de notre côté du Djihoun.
 >
 > Entre les deux armées se trouveront des sables et un large désert, ou l’on dressera les tentes et leurs enceintes, qui tiendront lieu de maisons. »
 
