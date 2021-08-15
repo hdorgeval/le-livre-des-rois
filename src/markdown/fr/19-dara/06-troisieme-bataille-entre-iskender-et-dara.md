@@ -29,7 +29,7 @@ Ciel fut déchirée, la terre devint une mer par le sang versé des braves, tout
 
 La nuit vint, et, avec elle, la défaite de Dara.
 
-Iskender se revêtit de son armure pourunedernièreattaquDe,etleAmaîtrleudum.on6de3 emmena son armée dans le Kerman et sauva sa vie . des mains de l’ennemi.
+Iskender se revêtit de son armure pourunedernièreattaquDe,etleAmaîtrleudum.on6de3 emmena son armée dans le Kerman et sauva sa vie des mains de l’ennemi.
 
 Iskender se rendit à Isthakhr, dans le Fars ; c’était le diadème des rois et la gloire du Fars.
 
