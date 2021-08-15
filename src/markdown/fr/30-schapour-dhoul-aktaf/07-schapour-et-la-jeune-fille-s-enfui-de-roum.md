@@ -72,9 +72,11 @@ Le jardinier répondit :
 >
 > Le plus noble boit le premier et il faut que tu me donnes l’exemple, car tu es vieux par l’intelligence et jeune par les années ; la grâce de la couronne brille sur ton visage et le parfum du musc s’échappe de tes cheveux. »
 
-Schapour sourit et prit le vin, puis il soupira -profondément et (lit au jardinier : U homme à la foi pure !
+Schapour sourit et prit le vin, puis il soupira -profondément et dit au jardinier :
 
-Quelle nouvelle as-tu du pays d’lt’an ? »
+> U homme à la foi pure !
+>
+> Quelle nouvelle as-tu du pays d’lt’an ? »
 
 L !
 
