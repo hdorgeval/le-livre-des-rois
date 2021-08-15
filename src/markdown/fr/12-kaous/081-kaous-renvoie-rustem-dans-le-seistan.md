@@ -22,7 +22,7 @@ Kaous écouta ces paroles et en fut courroucé ; il était confondu et n’osait
 
 > La vérité ne reste jamais cachée.
 >
-> C’est toi qui a mis cela dans la tête à Siawusch, c’est toi qui as arraché de son âme la racine de la vengeance ; et en cela tu as cherché ton propre repos et non pas la gloire du trône. de la couronneet du sceau.
+> C’est toi qui a mis cela dans la tête à Siawusch, c’est toi qui as arraché de son âme la racine de la vengeance ; et en cela tu as cherché ton propre repos et non pas la gloire du trône de la couronneet du sceau.
 >
 > Reste ici jusqu’à ce que le Sipehdar Thous ait lié les timbales sur le dos des éléphants pour s’occuper de cette affaire.
 >
