@@ -57,7 +57,7 @@ Il parle toujours pour ce qu’il y a de plus mauvais et c’est dans ce sens qu
 >
 > Ne donne donc pas.un mauvais témoignage contre moi, ne te ligue pas ainsi avec le Div.
 >
-> Quelles actions ou quelles paroles dignes d’Ahriman connais-tu donc. de moi, depuis que nous sommes amis ? »
+> Quelles actions ou quelles paroles dignes d’Ahriman connais-tu donc de moi, depuis que nous sommes amis ? »
 
 Bahram Adermihan lui répondit :
 
