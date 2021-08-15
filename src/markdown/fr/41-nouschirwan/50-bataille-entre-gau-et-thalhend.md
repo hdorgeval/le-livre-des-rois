@@ -22,7 +22,7 @@ Gau ordonna à son précepteur de dire à haute voix aux chefs :
 
 > Plantez chacun votre drapeau, tirez tous vos épées bleues ; aucun des héros ne doit s’avancer, aucun fantassin ne doit. quitter son poste car celui qui est impatient au jour du combat n’est y ni un homme intelligent ni un homme de valeur. 1 Je veux voir comment Thalhend avec son armée se présentera sur le champ de bataille.
 >
-> Bien ne se fait depuis le soleil brillant jusqu’à la terre sombre que selon la volonté de Dieu, le toutsaint et mon espoir est que le sort qu’il m’accordera sera glorieux.
+> Bien ne se fait depuis le soleil brillant jusqu’à la terre sombre que selon la volonté de Dieu, le tout-saint et mon espoir est que le sort qu’il m’accordera sera glorieux.
 >
 > Nous avons essayé des conseils, nous avons parlé avec beaucoup de tendresse, mais Thalhend n’a rien agréé.
 >
