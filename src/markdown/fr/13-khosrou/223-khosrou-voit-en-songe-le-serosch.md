@@ -31,7 +31,7 @@ Durant une nuit sombre ses peines ne laissèrent aucun repos au roi ; au moment 
 
 > Ô roi à l’étoile heureuse, favori de la fortune, tu as usé bien des colliers, des couronnes et des trônes.
 >
-> Maintenant que tu as obtenu tout ce que tu désirais, si tu étais enlevé soudain de ce monde, tu trouverais une place dans la demeure du Juge suprême ; ne reste donc pas sur KEÏ Knosnou.
+> Maintenant que tu as obtenu tout ce que tu désirais, si tu étais enlevé soudain de ce monde, tu trouverais une place dans la demeure du Juge suprême ; ne reste donc pas sur 
 >
 > L cette terre sombre.
 >
