@@ -50,7 +50,7 @@ Toute son escorte chanta sa gloire, disant :
 
 Bahram courut sur cette prairie avec tous ses amis qui lui faisaient escorte ; ils virent un bois plein de moutons et des pâtres qui s’enfuyaient de
 
-A ces crainte d’un malheur.
+À ces crainte d’un malheur.
 
 Un chef des pâtres aperçut le roi ; il n’avait jamais de repos de peur des bêtes féroces.
 
@@ -437,7 +437,7 @@ Puis, il dit :
 
 Lorsque la fille entendit ces paroles, elle appela son père et resta confondue de la bonté de cœur du roi.
 
-Le père se présenta au roi àla mine de soleil, tenant ses mains croisées sur la FOI ?
+Le père se présenta au roi à la mine de soleil, tenant ses mains croisées sur la FOI ?
 
 Trine et dit :
 
