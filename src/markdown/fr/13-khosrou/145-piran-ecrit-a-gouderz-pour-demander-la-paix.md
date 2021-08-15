@@ -108,7 +108,7 @@ Quand il fut arrivé à la résidence de Gouderz, quelqu’un courut avertir le 
 
 Ilouïn entra ; et lorsqu’il aperçut Gouderz, il croisa les mains sur la poitrine et inclina profondément la tète.
 
-Le Sipehdar se leva et le serra avec empressement dans ses bras ; il lui demanda des nouvelles de Pirau et de son armée, des héros, du roi et de son pays.
+Le Sipehdar se leva et le serra avec empressement dans ses bras ; il lui demanda des nouvelles de Piran et de son armée, des héros, du roi et de son pays.
 
 Bouïu tira en toute hâte la lettre, la remit et s’acquitta de son message.
 
