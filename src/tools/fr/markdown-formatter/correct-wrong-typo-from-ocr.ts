@@ -1390,6 +1390,22 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ àla /g, ' à la '),
     (content: string) => content.replace(/ com--bat /g, ' combat '),
     (content: string) => content.replace(/C’est la l/g, 'C’est là l'),
+    (content: string) => content.replace(/\. de /g, ' de '),
+    (content: string) => content.replace(/\. des /g, ' des '),
+    (content: string) => content.replace(/ età /g, ' et à '),
+    (content: string) => content.replace(/ froutière /g, ' frontière '),
+    (content: string) => content.replace(/ Faghfonr/g, ' Faghfour'),
+    (content: string) => content.replace(/ est\. /g, ' est '),
+    (content: string) => content.replace(/t’empêchcrai/g, 't’empêcherai'),
+    (content: string) => content.replace(/ voirà /g, ' voir à '),
+    (content: string) => content.replace(/ à à /g, ' à '),
+    (content: string) => content.replace(/ livrerais je /g, ' livrerais-je '),
+    (content: string) => content.replace(/la \.mienne/g, 'la mienne'),
+    (content: string) => content.replace(/grandpère/g, 'grand-père'),
+    (content: string) => content.replace(/t’abandonue/g, 't’abandonne'),
+    (content: string) => content.replace(/s \. p/g, 's p'),
+    (content: string) => content.replace(/ n0s /g, ' nos '),
+    (content: string) => content.replace(/ qui as vu /g, ' qui a vu '),
   ].forEach((format) => {
     result = format(result);
   });
