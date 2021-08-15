@@ -73,7 +73,7 @@ Le roi se mit en colère contre Mani et !
 
 La rotation du sort rendit. pour lui le monde étroit.
 
-Schapour le fit saisir et le fit expulser honteusement. de la cour, disant :
+Schapour le fit saisir et le fit expulser honteusement de la cour, disant :
 
 > Cet adorateur d’images ne peut pas demeurer dans le monde que nous habitons.
 >
