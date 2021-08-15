@@ -1381,6 +1381,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Nimronz /g, ' Nimrouz '),
     (content: string) => content.replace(/atllige/g, 'afflige'),
     (content: string) => content.replace(/ mohde /g, ' monde '),
+    (content: string) => content.replace(/ \(lit /g, ' dit '),
+    (content: string) => content.replace(/ ’ /g, ' '),
+    (content: string) => content.replace(/ bataillc /g, ' bataille '),
+    (content: string) => content.replace(/ 2h /g, ' '),
   ].forEach((format) => {
     result = format(result);
   });
