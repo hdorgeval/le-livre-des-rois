@@ -50,7 +50,7 @@ Il répondit :
 
 Iskender demanda :
 
-> Qu’est. ce là au milieu de l’eau, du côté d’où vient le sot ’ leil ? »
+> Qu’est. ce là au milieu de l’eau, du côté d’où vient le sot leil ? »
 
 Il répondit :
 
