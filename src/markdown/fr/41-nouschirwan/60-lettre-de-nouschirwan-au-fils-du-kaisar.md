@@ -121,7 +121,7 @@ Le roi devint anxieux à ces paroles et lui dit :
 >
 > Si je laisse dorénavant un seul homme de race roumie jouir du trône, si je le laisse relever la tête et dire qu’il est Kaïsar, qu’il est le plus puis. saut parmi les grands, qu’on dise que je ne suis pas le fils du vaillant Kobad et qu’il ne soit plus question de moi parmi les hommes.
 >
-> Je vais détruire la gloire du Roum, je vais consumer parle l’en ce beau pays ; je le jure par Dieu le toutsaint, par le soleil et la lune, par Aderguschasp, par le trône et la couronne.
+> Je vais détruire la gloire du Roum, je vais consumer parle l’en ce beau pays ; je le jure par Dieu le tout-saint, par le soleil et la lune, par Aderguschasp, par le trône et la couronne.
 >
 > Ensuite, il se dépouillera de o tout ce qu’il y a de vieux trésors dans son royaume comme on dépouille le bœuf de sa peau et la pointe de mon épée ne touchera pas le fourreau avant que j’aie fait ma volonté contre ce Roumi. »
 
