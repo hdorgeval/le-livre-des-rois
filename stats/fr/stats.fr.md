@@ -1,13 +1,13 @@
 ---
-lastUpdate: '2021-08-13'
+lastUpdate: '2021-08-15'
 lang: 'fr'
 total number of reigns: 50
 total number of episodes: 1007
 ratio of fully processed episodes: 36 %
 total number of defects in episodes: 16916
-total number of extracted keywords: 789
-total number of published web pages: 1848
-estimated end date: 2025-02-02
+total number of extracted keywords: 790
+total number of published web pages: 1849
+estimated end date: 2025-01-17
 ---
 
 # Stats about the French version of the Shahnahme
