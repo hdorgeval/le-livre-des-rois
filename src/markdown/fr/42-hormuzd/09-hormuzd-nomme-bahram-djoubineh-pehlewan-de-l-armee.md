@@ -26,7 +26,7 @@ Le Sipehbed se présenta devant le roi dans son armure de combat et lui dit :
 
 Le roi lui dit :
 
-> Tu es le chef de l’armée, c’est. de toi que dépend notre fortune, bonne ou mauvaise. »
+> Tu es le chef de l’armée, c’est de toi que dépend notre fortune, bonne ou mauvaise. »
 
 Le Sipehbed partit pour le lieu des revues et fil passer devant lui les troupes.
 
@@ -90,7 +90,7 @@ Je ne comprends pas comment tu pourras agir avec si peu de monde au jour de la b
 
 Le Sipehbed quitta le roi, demanda une ceinture, une cotte de mailles ’et un casque roumi, jeta un caparaçon sur son destrier isabelle et attacha au crochet de la selle un lacet roulé.
 
-Le roi du monde se rendit au Meîdan avec son vizir, armé de raquettes. de balles et de flèches et le Sipehbed arriva au Meî-
+Le roi du monde se rendit au Meîdan avec son vizir, armé de raquettes de balles et de flèches et le Sipehbed arriva au Meî-
 dan du roi avec une cuirasse, une massue et un casque roumi.
 
 Le roi en le voyant le bénit et le Sipehbed baisa la terre devant lui.
