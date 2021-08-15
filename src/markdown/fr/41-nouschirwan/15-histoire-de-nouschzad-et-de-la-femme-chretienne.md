@@ -55,7 +55,7 @@ Mais un fils qui s’écarte de la voie de son père est ou un scélérat ou un 
 
 Que la semence de la coloquinte soit fraîche ou sèche, elle ne peut pas porter un fruit à parfum de musc.
 
-Pourquoi donc faut-il que le fruit soit toujours de la nature de la graine ’ que le jardinier a semée au commencement ?
+Pourquoi donc faut-il que le fruit soit toujours de la nature de la graine que le jardinier a semée au commencement ?
 
 Si la tendance d’une plante est vers la poussière, elle se soustraira au soleil et à l’eau pure et ne te donnera jamais les fruits et les fouilles qu’il faudrait ; elle vivra et mourra dans la poussière.
 
