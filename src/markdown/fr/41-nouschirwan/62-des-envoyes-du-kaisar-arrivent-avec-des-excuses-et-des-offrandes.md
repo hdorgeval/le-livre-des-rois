@@ -64,7 +64,7 @@ Il lui répondit :
 >
 > Qu’est le Kaïsar, qu’est ce Bathroun insensé que le sort a tant abaissé ?
 >
-> Tous les rois intelligents de la race d’Iskender ont été victorieux et ont occupé le premier rang ; et si quelqu’un s’écarte a de mes ordres, renonce à la sagesse et à l’obéissance envers moi, je ferai lever la poussière. de la destruction de ses terres cultivées et n’aurai pas peur de ses trésors et de ses armées. »
+> Tous les rois intelligents de la race d’Iskender ont été victorieux et ont occupé le premier rang ; et si quelqu’un s’écarte a de mes ordres, renonce à la sagesse et à l’obéissance envers moi, je ferai lever la poussière de la destruction de ses terres cultivées et n’aurai pas peur de ses trésors et de ses armées. »
 
 Les envoyés baisèrent la terre comme le font les flatteurs, disant :
 
