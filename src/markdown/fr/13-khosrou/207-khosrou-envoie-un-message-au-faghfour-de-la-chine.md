@@ -42,27 +42,25 @@ H2 mémoire.
 
 Le roi éclata soudain en injures contre lui et remplit de terreur le cœur de l’assemblée en s’écriant :
 
-> Dis au roi de l’Iran : Ne cherche pas à établir sur moi une supériorité inconnue jusqu’ici ; l’époque est soumise à ma fortune, le monde est. brillant, grâce à mon trône et à ma couronne.
+> Dis au roi de l’Iran : Ne cherche pas à établir sur moi une supériorité inconnue jusqu’ici ; l’époque est soumise à ma fortune, le monde est brillant, grâce à mon trône et à ma couronne.
 >
 > Quand lei soleil se lève dans le ciel, c’est sur ce pays qu’il jette ses premiers rayons avec tendresse.
 >
 > J’ai de la sagesse et un trésor rempli, une armée de grands et de braves et une main vaillante.
 >
-> Si a tu me demandes le passage pour toi, c’est bien ; car tout être vivant est le maître de marcher sur la terre et je ne t’empêchcrai pas de passer, si tu ne fais pas de dommage dans mon pays et si tu viens sans armée.
+> Si a tu me demandes le passage pour toi, c’est bien ; car tout être vivant est le maître de marcher sur la terre et je ne t’empêcherai pas de passer, si tu ne fais pas de dommage dans mon pays et si tu viens sans armée.
 >
-> Mais si tu entres dans ce pays avec des troupes, sache que tu n’as aucun droit dans mon royaume et je ne te permettrai pas de le traverser et de fouler un endroit quelconque de cette froutière ; je ne te laisserai pas la gloire de rester le roi victorieux, si favorable que te soit ta bonne étoile. »
+> Mais si tu entres dans ce pays avec des troupes, sache que tu n’as aucun droit dans mon royaume et je ne te permettrai pas de le traverser et de fouler un endroit quelconque de cette frontière ; je ne te laisserai pas la gloire de rester le roi victorieux, si favorable que te soit ta bonne étoile. »
 
 Aussitôt que Khosrou eut reçu cette réponse, il mit en marche son armée et le maître du monde arriva fièrement dans le pays de Khoten, accompagné d’une armée glorieuse.
 
-Le Faghfour et le Khakan de la Chine allèrent au-devant de lui pour lui offrir leurs excuses et leurs hommages ; ils s’avancèrent vers lui à trois stations au delà de la frontière de la Chine. eux et leurs grands ; toute la route était aplanie
-
-KEÏ Knosnou. t comme la main et les vallées et le désert étaient ornés comme une résidence royale.
+Le Faghfour et le Khakan de la Chine allèrent au-devant de lui pour lui offrir leurs excuses et leurs hommages ; ils s’avancèrent vers lui à trois stations au delà de la frontière de la Chine. eux et leurs grands ; toute la route était aplanie t comme la main et les vallées et le désert étaient ornés comme une résidence royale.
 
 Partout sur la route étaient préparés des vêtements et des vivres. apprêtés des festins et étendus des lapis.
 
 À mesure que l’armée s’approcha de la ville, elle fut reçue avec des fêtes en tout lieu ; on suspendait aux murs des brocarts de Chine, on versait sur les troupes du safran et de l’argent.
 
-Le Faghfonr, qui s’était mis à son aise avec le roi, le précéda et se dirigea vers son palais.
+Le Faghfour, qui s’était mis à son aise avec le roi, le précéda et se dirigea vers son palais.
 
 La il lui dit :
 
@@ -70,7 +68,7 @@ La il lui dit :
 >
 > Si notre palais n’est pas digne du roi, au moins je pense qu’il vaut mieux que la route. »
 
-Le roi entra dans le palais la tête hante et s’assit dans la magnifique salle d’audience ; le Faghfonr fit apporter cent mille pièces d’or chinoises comme cadeau de bienvenue et se tint debout devant Khosrou avec les gouverneurs des provinces, ses sages conseillers.
+Le roi entra dans le palais la tête hante et s’assit dans la magnifique salle d’audience ; le Faghfour fit apporter cent mille pièces d’or chinoises comme cadeau de bienvenue et se tint debout devant Khosrou avec les gouverneurs des provinces, ses sages conseillers.
 
 Khosrou resta trois mois en Chine, entouré des grands de l’armée d’Iran et tous les matins le Faghfour vint lui rendre hommage et lui porter de nouveaux présents.
 
