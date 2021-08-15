@@ -26,7 +26,7 @@ Rubis.
 
 Lorsque Bahram vit le visage du roi des rois, il pâlit de colère et dit à ses grands :
 
-> Ce misérable fils de courtisane s’est élevé de sa bassesse et de sa stupidité jusqu’à l’état d’homme, il est devenu fort et fait le fier : un duvet noir pousse sur son visage ’ blanc ; il devient un roi Feridoun avec la massue et la couronne ; il a appris les manières impériales, mais sa vie s’évanouira subitement.
+> Ce misérable fils de courtisane s’est élevé de sa bassesse et de sa stupidité jusqu’à l’état d’homme, il est devenu fort et fait le fier : un duvet noir pousse sur son visage blanc ; il devient un roi Feridoun avec la massue et la couronne ; il a appris les manières impériales, mais sa vie s’évanouira subitement.
 >
 > Ce roi, à l’âme obscure, conduit son armée à la façon de Nouschirwan.
 >
