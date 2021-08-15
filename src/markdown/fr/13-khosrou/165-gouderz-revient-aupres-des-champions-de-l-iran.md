@@ -20,7 +20,7 @@ Pendant ce temps les héros avides de vengeance et de combats se dirigeaient du 
 
 Lorsque l’ armée vit que le Pehlewan n’était pas avec les héros, tous les guerriers jeunes et vieux poussèrent des cris, disant :
 
-> Est-ce que Gonrrderz, affaibli par l’âge, serait tombé sous les coups de Pirau ? »
+> Est-ce que Gonrrderz, affaibli par l’âge, serait tombé sous les coups de Piran ? »
 
 Toute l’armée versa des larmes amères, parce qu’elle ne voyait pas le Pehlewan, le pâtre de ce troupeau.
 
@@ -30,7 +30,7 @@ Les dia : grands coururent vers le Pehlewan, joyeux et souriant ; mais on se dis
 
 > Il est à craindre que le Pehle-9 wan ne revienne vaincu et humilié par Pirau. »
 
-Car Pirau avait été un homme au cœur de lion et avait passé sa vie dans les combats.
+Car Piran avait été un homme au cœur de lion et avait passé sa vie dans les combats.
 
 Cependant le Pehlewan prit la parole et tous, jeunes et vieux, l’écoutèrent avidement ; il leur montra du doigt l’endroit où il avait combattu et raconta ce qui lui était arrivé ; ensuite il ordonna à Rehham de monter à cheval et d’aller chercher le. corps de Pirau, ajoutant :
 
