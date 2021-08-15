@@ -125,7 +125,7 @@ Ensuite, il dit :
 
 > Ce roi Ardeschir, dont la fortune rajeunissait les vieillards, était le chef de notre maison et nous sommes inférieurs à lui, si même il nous est permis de nous nommer ainsi.
 >
-> Dans les combats et dans les fêles, dans le conseil et à table, lui seul pouvait être appelé le maître du monde, dans le temps où
+> Dans les combats et dans les fêtes, dans le conseil et à table, lui seul pouvait être appelé le maître du monde, dans le temps où
 > Iskender était venu du Roum dans l’Iran et où ce pays était devenu un’ désert ; mais il était dur et sans générosité, car il a mis à mort trentesix rois et la bouche des rois est encore pleine de malédicv tiens sur lui ; le monde entier lui en veut encore.
 >
 > On n’a pour Feridoun que des bénédictions et lui est maudit par ceux qui le haïssent.
