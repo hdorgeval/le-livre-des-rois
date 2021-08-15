@@ -99,7 +99,7 @@ Tous lui dirent :
 >
 > Ne crains pas le malheur, vis heureux, joyeux et respecté.
 >
-> Tantôt nous lancerons nos chevaux à la chasse, tantôt nous nous présenterons en tremblant devant Aderguschasp, glorifiant Dieu comme les saints, priant comme les adorateurs du ’ feu.
+> Tantôt nous lancerons nos chevaux à la chasse, tantôt nous nous présenterons en tremblant devant Aderguschasp, glorifiant Dieu comme les saints, priant comme les adorateurs du feu.
 >
 > Et si dans l’Iran trois cent mille hommes montaient à cheval pour l’attaquer, nous nous laisserions tous tuer pour toi et nous célébrerions la mémoire de ceux qui tomberaient. »
 
