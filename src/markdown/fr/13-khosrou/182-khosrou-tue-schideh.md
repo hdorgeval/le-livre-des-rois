@@ -44,7 +44,7 @@ Le roi répondit :
 
 > Raconte à mon grand-père, au milieu de sa cour, tout ce que tu m’as vu faire. »
 
-I ’ Le cœur et les yeux des grands de Touran étaient fixés sur la route, attendant le retour de Schideh du champ de bataille ; un cavalier parut courant sur la malle route de sable, la tête une, les yeux remplis de chaudes larmes de sang.
+I Le cœur et les yeux des grands de Touran étaient fixés sur la route, attendant le retour de Schideh du champ de bataille ; un cavalier parut courant sur la malle route de sable, la tête une, les yeux remplis de chaudes larmes de sang.
 
 Il leur dévoila le mystère caché, il raconta tout devant le roi des Turcs.
 
