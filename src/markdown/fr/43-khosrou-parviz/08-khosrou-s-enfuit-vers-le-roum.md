@@ -16,7 +16,7 @@ order: '008'
 
 # Khosrou s'enfuit vers le Roum et son père Hormuzd est assassiné
 
-De là il se rendit chez son père, les yeux pleins. de larmes de sang et le cœur blessé.
+De là il se rendit chez son père, les yeux pleins de larmes de sang et le cœur blessé.
 
 En voyant son père, il lui adressa ses hommages et se tint devant lui pendant longtemps.
 
