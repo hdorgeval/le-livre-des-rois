@@ -93,7 +93,7 @@ Tous les jours sa fortune augmentait et le roi était très-heu-reux de le poss�
 
 Il avait à sa cour des Mobeds ; il y retenait des savants versés dans toutes les sciences ; il y avait toujours soixante et dix hommes éloquents qui demeuraient et dînaient dans le palais.
 
-Chaque fois qu’il était libre d’affaires à décider, d’œuvres de générosité à faire, de banquets à ordonner ou de batailles à livrer, il demandait à tous les Mobeds de nouveaux discours et ornait son esprit. de nouvelles connaissances.
+Chaque fois qu’il était libre d’affaires à décider, d’œuvres de générosité à faire, de banquets à ordonner ou de batailles à livrer, il demandait à tous les Mobeds de nouveaux discours et ornait son esprit de nouvelles connaissances.
 
 Dans ce temps, Buzurdjmihr était jeune, parlant bien, d’un esprit subtil et beau de visage et il arriva qu’il apprit bientôt de ces illustres Mobeds, de ces astrologues et de ces sages, leurs sciences et les dépassa et leva la tête plusnhaut que ces philosophes.
 
