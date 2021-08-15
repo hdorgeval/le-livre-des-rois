@@ -77,7 +77,7 @@ Ensuite ils saisirent leurs boucliers et leurs épées tranchantes ; tu aurais d
 
 > le l’en sortait de leurs casques et de leurs glaives comme des éclairs que lance un nuage sombre, mais l’acier ne pouvait pas faire de blessures à travers l’acier brillant ; les coups des épées damasquinées tombaient dans cette lutte des braves comme un torrent de leu ; aucun ami ne les aidait à verser du sang et leur cœur ne se fatiguait pas du combat.
 
-Ils prirent les massues après les épées et combattirent à outrance ; ensuite ils ’commencèrent à essayer la force de leurs mains, età chercher le triomphe et la victoire en s’enlevant l’un l’autre de dessus leurs chevaux ; ils se saisirent à la ceinture, de manière que le plus fort devait soulever l’autre et le lancer par terre comme une chose vile.
+Ils prirent les massues après les épées et combattirent à outrance ; ensuite ils ’commencèrent à essayer la force de leurs mains, et à chercher le triomphe et la victoire en s’enlevant l’un l’autre de dessus leurs chevaux ; ils se saisirent à la ceinture, de manière que le plus fort devait soulever l’autre et le lancer par terre comme une chose vile.
 
 Ces héros étaient si forts que les courroies de leurs étriers se brisèrent par la violence de leurs efforts ; néanmoins ils ne tombèrent pas de cheval et aucun des deux ne put’dompter l’autre.
 
