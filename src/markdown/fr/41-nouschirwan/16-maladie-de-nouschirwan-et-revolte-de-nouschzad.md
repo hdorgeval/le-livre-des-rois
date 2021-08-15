@@ -110,7 +110,7 @@ Quand un noble homme se prend d’aumour pour les choses viles, on ne peut plus 
 Combat le roi du monde ; ne crains pas de le tuer, s’il te provoque lui-même de verser son sang dans la poussière.
 
 Un homme glorieux auparavant qui se jette dans la religion du Kaïsar erse détourne de mon diadème, devient méprisable, vil et faible et amène lui-même sa destruction par le ciel su-
-Mihri Nousch, un homme sage et dévot, vêtu de ’ blime.
+Mihri Nousch, un homme sage et dévot, vêtu de blime.
 
 I .
 laine, a dit lia-dessus :
@@ -147,6 +147,6 @@ Tous étaient en ma présence pleins de vertu, ils craignaient mes punitions ; m
 
 Ne permets pas que les malveillants parlent ainsi, car, quoiqu’il ait tourné à mal, toujours est-il mon fils et mon cœur l’atteste.
 
-Perce donc devant l’assemblée la langue à ceux qui parlent mal de Nouschzad et sont injustes envers lui ; maudite ’ soit leur langue, maudite leur bouche !
+Perce donc devant l’assemblée la langue à ceux qui parlent mal de Nouschzad et sont injustes envers lui ; maudite soit leur langue, maudite leur bouche !
 
 Ceux qui ne cherchent que l’occasion d’abaisser le roi, qui emploient des moyens détournés et hostiles et se livrent aux mauvaises pensées et à la foi d’Ahriman, ne doivent pas vivre dans ce royaume, car l’honneur de mon fils est mon diadème. »
