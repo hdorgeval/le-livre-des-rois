@@ -129,7 +129,7 @@ Bahram reçut de lui ces deux chevaux brillants comme AdergousMcondhir le gardas
 
 Lorsque Mondhir eut entendu les paroles du jeune homme, le vieillard le bénit ; il ordonna qu’un homme bon coureur allât en toute hâte au dépôt d’un marchand d’esclaves.
 >
-> Il amena quarante jeunes filles roumies, toutes désirables et propres à satisfaire le cœur et Bahram choisit de ces belles jeunes filles deux à la peau de rose et aux os d’ivoire, à la taille de cyprès élancés, toutes pleines de charmes. de grâce et de dignité.
+> Il amena quarante jeunes filles roumies, toutes désirables et propres à satisfaire le cœur et Bahram choisit de ces belles jeunes filles deux à la peau de rose et aux os d’ivoire, à la taille de cyprès élancés, toutes pleines de charmes de grâce et de dignité.
 >
 > Une de ces deux étoiles jouait du luth, l’autre avait des joues de tulipe et ressemblait au canope du Yémen ; sa taille était celle des cyprès, les boucles de ses cheveux étaient des lacets. (Mondhir paya le prix quand le jeune homme eut fait son choix.
 >
