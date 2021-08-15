@@ -43,7 +43,7 @@ Le roi dit aux hommes libres :
 
 I Il fit appeler l’envoyé du Pehlewan et lui parla longuement et avec bienveillance. il fit demander une ceinture ornée de pierreries dignes d’un roi, une robe royale et un destrier avec une, bride d’or, dont tous les boutons étaient incrustés de pierreries.
 
-Puis, il donna au messager une caisse remplie d’or et beaucoup d’autres choses, et, ayant ainsi fait. des présents à Bahram, il le déclara le premier des Pehlewans.
+Puis, il donna au messager une caisse remplie d’or et beaucoup d’autres choses, et, ayant ainsi fait des présents à Bahram, il le déclara le premier des Pehlewans.
 
 Puis, il fit venir un scribe et l’on écrivit sur de la soie une lettre, disant :
 
