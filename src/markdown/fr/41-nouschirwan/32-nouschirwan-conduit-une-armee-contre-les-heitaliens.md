@@ -34,7 +34,7 @@ Kesra dit :
 >
 > Le pays de Heital, dans son trouble, a cherché un prince de la famille de Bahram Gour, a placé sur le trône un nouveau maître et l’a acclamé unanimement roi.
 >
-> Le Khakan s’est établi de ce côté de Djadj, fier de son armée. de son trésor et de sa couronne ; il est
+> Le Khakan s’est établi de ce côté de Djadj, fier de son armée de son trésor et de sa couronne ; il est
 >
 > de la famille d’Ardjasp et d’Afrasiab et ne rêve que de la frontière de l’Iran.
 >
