@@ -38,7 +38,7 @@ O mon cher, ô mon prudent père, revêts mes deux épaules de la cuirasse de Si
 >
 > Je t’ai déjà dit.de ne pas agir précipitamment et de ne pas dire de mal de Gouderz :
 
-> car il a plus d’expérience et plus de sagesse que nous ; ensuite il est le chef de cette ’ armée glorieuse ; il est entouré de cavaliers pleins de courage, qui sont bien en état de tenir tête à cet éléphant.
+> car il a plus d’expérience et plus de sagesse que nous ; ensuite il est le chef de cette armée glorieuse ; il est entouré de cavaliers pleins de courage, qui sont bien en état de tenir tête à cet éléphant.
 >
 > Tu remplis mon âme et mon cœur de peines ; car je crains que ce ne soit l’élan de la jeunesse qui t’emporte follement, qui le l’ait lever ainsi la tête et te pousse vers moi avec tant de passion.
 >
@@ -136,7 +136,7 @@ S’il veut se battre, n’a-t-il pas une armure ?
 Il a une cotte de mailles, pourquoi me demander la .mienne ?a Le fils, qui se préparait au combat, répondit à son père :
 
 > Je n’ai pas besoin
-> ’ de ta cuirasse ; crois-tu donc que tous les braves qui sont dans le monde aient besoin de ta cuirasse pour être vaillants ?
+> de ta cuirasse ; crois-tu donc que tous les braves qui sont dans le monde aient besoin de ta cuirasse pour être vaillants ?
 >
 > Ceux qui portent haut la tête chercheront de la gloire et un nom, quand même la cuirasse de Siawusch ne paraîtrait pas dans la bataille. »
 
