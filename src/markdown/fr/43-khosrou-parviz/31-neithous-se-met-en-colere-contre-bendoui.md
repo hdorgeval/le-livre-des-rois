@@ -48,7 +48,7 @@ Tous les cavaliers roumis, ardents pour le combat, se dirigèrent vers la cour d
 
 > Pourquoi Bendouî, cet homme de rien, frappe-t-il sur la joue un adorateur de Dieu ?
 >
-> Livre-le-moi, ou tu verras ’ du trouble dans ta cour et tu plieras devant moi bien autrement que tu n’as eu à plier devant cet esclave qui ambitionne la couronne des rois des rois. »
+> Livre-le-moi, ou tu verras du trouble dans ta cour et tu plieras devant moi bien autrement que tu n’as eu à plier devant cet esclave qui ambitionne la couronne des rois des rois. »
 
 Khosrou se mit en colère en entendant ces paroles et dit :
 
@@ -58,7 +58,7 @@ Khosrou se mit en colère en entendant ces paroles et dit :
 >
 > bad, personne n’a parlé du Messie ; à Dieu ne plaise que j’abandonne la foi de mes pères, des nobles maîtres du monde, de mes parents saints’, que j’adopte la religion du Messie, que je ne prie pas à table et me fasse chrétien.
 >
-> Compte bien que c’est toi qui seras courbé. car j’ai vu ce que les Roumis font au jour du combat. »
+> Compte bien que c’est toi qui seras courbé car j’ai vu ce que les Roumis font au jour du combat. »
 
 Mariam dit :
 
