@@ -18,7 +18,7 @@ order: '010'
 
 Une autre semaine le roi du monde partit pour la chasse avec ses Mobeds et ses grands ; il s’était arrangé à’rester un mois à chasser etrà boire du vin avec son escorte et il se livra à la chasse. dans la montagne et à la chasse dans la plaine d’une manière démesurée.
 
-Lorsqu’il s’en retourna joyeusement à la ville avec son cortège, la nuit vint et le à monde se rouvrit de ténèbres ; les grands tirent partir son escorte et lui récitèrent. des histoires des rois.
+Lorsqu’il s’en retourna joyeusement à la ville avec son cortège, la nuit vint et le à monde se rouvrit de ténèbres ; les grands tirent partir son escorte et lui récitèrent des histoires des rois.
 
 Il vit briller de loin un grand feu comme ceux que le roi fait à la fête de Bahman (janvier).
 
@@ -124,7 +124,7 @@ Elle répondit :
 >
 > Il a cherché dans le monde entier une lune et non pas de l’argent nia la fille d’un roi.vSi un idolâtre en Chine voyait leurs semblables, l’adoration des idoles cesserait. »
 
-Ils continuèrent à se parler ainsi, tantôt . des méchants, tantôt des hommes de bien, juSqu’à ce que le soleil parût sur le dos du corbeau noir et que le monde devint comme une lampe brillante.
+Ils continuèrent à se parler ainsi, tantôt des méchants, tantôt des hommes de bien, juSqu’à ce que le soleil parût sur le dos du corbeau noir et que le monde devint comme une lampe brillante.
 
 Lorsque la nuit eut fait place au jour, le chef du village arriva chez le vieillard et lui dit :
 
@@ -138,7 +138,7 @@ Lorsque la nuit eut fait place au jour, le chef du village arriva chez le vieill
 >
 > Par ces cheveux et ces visages et cette droiture, tu as rendu tes filles ce dignes d’un roi.
 >
-> Bahram, le roi des rois, est. ton gendre et l’on parlera de toi dans tous les pays.
+> Bahram, le roi des rois, est ton gendre et l’on parlera de toi dans tous les pays.
 >
 > Il t’a donné cette province et ce district ; ainsi ne t’af-’I’lige pas, tu es au-dessus des soucis et des craintes ; nous sommes tous tes inférieurs, que dis-je, inférieurs !
 >
