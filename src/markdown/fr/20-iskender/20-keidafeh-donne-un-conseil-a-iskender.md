@@ -40,7 +40,7 @@ Sache que quiconque verse le sang d’un roi ne trouvera dans la tombe que le fe
 
 Reste donc avec confiance et pars joyeusement et quand.tu seras de retour, prends des habitudes nouvelles et ne va plus -nulle part remplir les propres missions, car la poussière même sait que tu es Iskender.
 
-Je ne sais au-.cun grand de la terre dont je ne possède pas le portrait, peint de cette façon sur une pièce de soie ; je le place sous la garde d’un homme soigneux et le soumets à la science des astrologues, pour apprendre si je dois avoir confiance en cet homme ou ’ Ml le craindre.
+Je ne sais au-.cun grand de la terre dont je ne possède pas le portrait, peint de cette façon sur une pièce de soie ; je le place sous la garde d’un homme soigneux et le soumets à la science des astrologues, pour apprendre si je dois avoir confiance en cet homme ou Ml le craindre.
 
 Quand un roi prudent s’est. montré généreux, toute l’époque le racontera aux hommes et aux femmes.
 
