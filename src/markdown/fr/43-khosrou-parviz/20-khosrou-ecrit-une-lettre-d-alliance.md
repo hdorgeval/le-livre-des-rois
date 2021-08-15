@@ -32,7 +32,7 @@ Les Iraniens ayant tout approuvé, Khosrou renvoya tous les étrangers, demanda 
 
 Puis, il écrivit en pehlewi une lettre en caractères royaux et à la manière des rois, disant :
 
-> Moi, Khosrou, je m’engage en jurant par Dieu, le toutsaint, par le ciel tournant et la terre en repos, que tant que je serai roi sur le trône, que je posséderai l’Iran, le trésor et l’armée, je ne demanderai pas de tribut aux maîtres du Roum et n’enverrai
+> Moi, Khosrou, je m’engage en jurant par Dieu, le tout-saint, par le ciel tournant et la terre en repos, que tant que je serai roi sur le trône, que je posséderai l’Iran, le trésor et l’armée, je ne demanderai pas de tribut aux maîtres du Roum et n’enverrai
 .-.-pas d’armée dans ce pays.
 >
 > Toutes les villes qui ont appartenu au Roum, si peu importantes et de si peu de valeur qu’elles soient, je les rendrai au Kaisar sans exception et j’enverrai les écrits et les titres nécessaires.
