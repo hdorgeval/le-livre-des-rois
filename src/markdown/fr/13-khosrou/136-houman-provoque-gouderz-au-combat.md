@@ -99,7 +99,7 @@ Houman répondit d’une voix terrible :
 >
 > Tu n’as pas envie de com-
 >
-> ’ battre ; mais on ne peut cueillir des roses sans rencontrer des épines.
+> battre ; mais on ne peut cueillir des roses sans rencontrer des épines.
 >
 > Tu n’as pas un seul homme au cœur de lion qui veuille se mesurer avec moi devant les deux armées et tu tâches de m’éloigner par une ruse ; mais si tu me connaissais, tu saurais que je ne suis pas homme à me laisser tromper par toi. »
 
