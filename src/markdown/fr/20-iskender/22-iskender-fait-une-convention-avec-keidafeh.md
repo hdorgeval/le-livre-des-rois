@@ -152,7 +152,7 @@ J’ai placé ma main dans la main, devant ta mère assise sur son trône d’or
 
 Aujourd’hui j’ai accompli cette promesse, car les paroles vaines ne conviennent pas à un roi.
 
-Je suis Iskender et alors aussi c’était et Iskender qui te faisait des contes à bonne intention.Keïdafeh savait que la main que tu tenais était celle du raina ’ Le Kaïsar ordonna à un serviteur de placer un trône sous un arbre qui répandait des lieurs ; il fit dresser une table, amener des musiciens et apporter du vin.
+Je suis Iskender et alors aussi c’était et Iskender qui te faisait des contes à bonne intention.Keïdafeh savait que la main que tu tenais était celle du raina Le Kaïsar ordonna à un serviteur de placer un trône sous un arbre qui répandait des lieurs ; il fit dresser une table, amener des musiciens et apporter du vin.
 
 Il remit à Theïnousch des robes d’honneur en étoffes du Roum, de la Chine et de la Perse et distribua à ses compagnons de l’or et de l’argent et à ceux qui y avaient droit, des couronnes et des ceintures ; puis il lui dit :
 
