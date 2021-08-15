@@ -44,7 +44,7 @@ Le sage n’en fait aucun cas ; renonce donc à tes illusions et ne t’écarte 
 
 Quiconque m’apporte la guerre, ne trouvera qu’une tombe étroite et l’enfer.
 
-Le paradis sera ta demeure si tu le mérites ; réfléchis donc au parti que tu dois prendras Saad posa le sceau des Arabes sur le parchemin et il y ajouta les bénédictions en l’honneur. de Mohammed ; puis il désigna parmi ses guerriers Schobab Moghaïra pour se rendre chez le Pehlewan Rustem.
+Le paradis sera ta demeure si tu le mérites ; réfléchis donc au parti que tu dois prendras Saad posa le sceau des Arabes sur le parchemin et il y ajouta les bénédictions en l’honneur de Mohammed ; puis il désigna parmi ses guerriers Schobab Moghaïra pour se rendre chez le Pehlewan Rustem.
 
 Un homme
 
