@@ -18,7 +18,7 @@ order: '150'
 
 Le cheval de Guiv s'arrete
 
-Lorsque Rouïn fils de Pirau vit de l’arrièregarde le vaillant Guiv qui s’avançait rapidement, il quitta les derrières de la puissante armée, accompagné de héros qui ressemblaient à des loups et s’élança comme un léopard en fureur ; mais ayant fait de vains efforts pour pénétrer jusqu’au fort de la mêlée, il jeta son épée indienne et s’en retourna désespérant de la bataille.
+Lorsque Rouïn fils de Piran vit de l’arrièregarde le vaillant Guiv qui s’avançait rapidement, il quitta les derrières de la puissante armée, accompagné de héros qui ressemblaient à des loups et s’élança comme un léopard en fureur ; mais ayant fait de vains efforts pour pénétrer jusqu’au fort de la mêlée, il jeta son épée indienne et s’en retourna désespérant de la bataille.
 
 Le Sipehdar Piran et quelquesuns des siens restèrent à leur poste étourdiment.
 
@@ -26,17 +26,17 @@ Guiv aperçut Pirau, poussa son destrier contre lui et avec sa lance jeta à bas
 
 Pirau fils de Wiseh banda son arc et fit pleuvoir des traits sur son ennemi.
 
-Le vaillant Guiv se couvrit la tête de son bouclier et s’avança la lance en main, comme un loup ; mais au moment où il allait atteindre Pirau le chef de l’armée et le combattre avec la lance, son cheval s’arrêta surplace et refusa de faire un pas de plus.
+Le vaillant Guiv se couvrit la tête de son bouclier et s’avança la lance en main, comme un loup ; mais au moment où il allait atteindre Piran le chef de l’armée et le combattre avec la lance, son cheval s’arrêta surplace et refusa de faire un pas de plus.
 
 Dans sa colère le héros illustre frappa son coursier avec un fouet ; il bouillonnait de rage et ouvrant les lèvres, il mau-dissait ce Div infâme qui le perdait.
 
-Ensuite, il jeta sa lance, saisit son arc et protégea sa tête avec un bouclier couvert de peau de loup ; il banda l’arc et tendit les muscles de sa poitrine, dans l’espoir de clouer la main de Pirau à son bouclier.
+Ensuite, il jeta sa lance, saisit son arc et protégea sa tête avec un bouclier couvert de peau de loup ; il banda l’arc et tendit les muscles de sa poitrine, dans l’espoir de clouer la main de Piran à son bouclier.
 
 Il lui lança A à la tête une flèche à quadruple bois de peuplier, mais elle ne blessa pas ce brave.
 
-Ensuite, il décocha contre le cheval du héros une flèche à triple bois, une flèche qui devait traverser une cuirasse ; mais ni le cheval ni le vaillant Pirau ne furent blessés.
+Ensuite, il décocha contre le cheval du héros une flèche à triple bois, une flèche qui devait traverser une cuirasse ; mais ni le cheval ni le vaillant Piran ne furent blessés.
 
-Dans ce moment les compagnons de Guiv s’approchèrent et la rage de Pirau s’accrut lorsqu’il les aperçut.
+Dans ce moment les compagnons de Guiv s’approchèrent et la rage de Piran s’accrut lorsqu’il les aperçut.
 
 Il s’élança sur Guiv comme un tourbillon de poussière ; car il savait que s’il parvenaità le blesser, il serait sûr de disperser son armée vaillante.
 
@@ -46,7 +46,7 @@ Néanmoins Piran ne fut pas blessé et le cœur de Guiv en fut désolé.
 
 Bijen accourut vers son père et lui dit :
 
-> Ô mon illustre et fortuné père, j’ai entendu dire au roi que Pirau livrera encore beaucoup de batailles et qu’au jour du danger il échappera encore aux griffes de beaucoup de dragons avides de combats, mais qu’à la fin son sort s’accomplira par la main de Gouderz.
+> Ô mon illustre et fortuné père, j’ai entendu dire au roi que Piran livrera encore beaucoup de batailles et qu’au jour du danger il échappera encore aux griffes de beaucoup de dragons avides de combats, mais qu’à la fin son sort s’accomplira par la main de Gouderz.
 >
 > Ne te donne donc pas une peine inutile, ô mon père ; son temps n’est pas encore venu : pourquoi le poursuivrais-tu avec tant de passion et de persévérance ? »
 
