@@ -63,7 +63,7 @@ Le Mobed et les sages qui étaient versés dans toute science arrivèrent et l�
 >
 > Qu’estce qui n’a pas de limites et qu’est-ce qui est vil ?
 >
-> Qu’est-ce qui a beaucoup de noms et est. partout le maître ? »
+> Qu’est-ce qui a beaucoup de noms et est partout le maître ? »
 
 Le Mobed répondit au savant :
 
