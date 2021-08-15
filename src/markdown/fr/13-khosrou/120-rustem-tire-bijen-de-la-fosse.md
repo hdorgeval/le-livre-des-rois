@@ -65,7 +65,7 @@ Bijen lui répondit :
 > Si jamais mon regard tombe sur lui, ma vengeance sera terribles Rustem lui répondit :
 
 > Si tu es assez méchant pour
-> ’ n’avoir aucun égard à mon amitié et à mes paroles, je te laisserai enchaîné par les pieds dans cette fosse .
+> n’avoir aucun égard à mon amitié et à mes paroles, je te laisserai enchaîné par les pieds dans cette fosse .
 > je monterai sur Raksch et je repartirai. »
 
 Lorsque Bijen entendit ces paroles de Rustem, il poussa un cri dans son cachot étroit et dit :
