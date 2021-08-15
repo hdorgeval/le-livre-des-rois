@@ -111,7 +111,7 @@ Il répondit :
 
 , Un autre dit :
 
-> J’admets que ,tu es l’homme le ’ 3. plus puissant, que tu es plus intelligent et plus savaut que nous ; mais comment as-tu dépassé tous les rois des rois, de sorte que le monde ne tient ses yeux que sur tes desseins ? »
+> J’admets que ,tu es l’homme le 3. plus puissant, que tu es plus intelligent et plus savaut que nous ; mais comment as-tu dépassé tous les rois des rois, de sorte que le monde ne tient ses yeux que sur tes desseins ? »
 
 Il répondit :
 
