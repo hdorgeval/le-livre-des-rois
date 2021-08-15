@@ -76,7 +76,7 @@ Il s’écria :
 >
 > Pourquoi vous rendez-vous le combat si difficile ?
 >
-> Vous restez tous en face de ces tours et de ces éléphants, pendant que l’armée des Iraniens est grande et s’értend à des milles au delà : portez-vous à droite età gauche et éloignez-vous du centre et des tours. »
+> Vous restez tous en face de ces tours et de ces éléphants, pendant que l’armée des Iraniens est grande et s’értend à des milles au delà : portez-vous à droite et à gauche et éloignez-vous du centre et des tours. »
 
 Il ordonna à Djehn, qui avait de l’expérience dans la guerre, de partir avec les grands de l’armée, d’emmener dix mille cavaliers aguerris, armés de lances et propres au combat.
 
@@ -91,7 +91,7 @@ rent l’une sur l’autre : tu aurais dit qu’elles étaient fondues l’une d
 
 On entendit de tous côtés le retentissement des coups et des torrents de sang s’écoulaient de la scène du carnage.
 
-Lorsque la poussière s’élevait à droite et à gauche, le maître du monde demanda sa cotte de mailles de combat ; on envoya d’un autre côté les éléphants et les tours, le monde devint comme les flots du Nil ; Khosrou s’avança du centre accompagné de Rustem. de Menouschan et de Khouzan, les soutiens de l’armée ; le son des trompettes et des clairons monta vers le ciel.
+Lorsque la poussière s’élevait à droite et à gauche, le maître du monde demanda sa cotte de mailles de combat ; on envoya d’un autre côté les éléphants et les tours, le monde devint comme les flots du Nil ; Khosrou s’avança du centre accompagné de Rustem de Menouschan et de Khouzan, les soutiens de l’armée ; le son des trompettes et des clairons monta vers le ciel.
 
 D’un côté de Khosrou se tenait le Sipehdar Thous ; tous les Pehlewans aux bottines d’or s’avancèrent le cœur aigri, portant ’étendard de Kaweh et formèrent l’aile gauche du roi.
 
@@ -99,8 +99,7 @@ D’un côté de Khosrou se tenait le Sipehdar Thous ; tous les Pehlewans aux bo
 
 On entendit le bruit des coups donnés et reçus sur le champ de bataille.
 
-Personne ne verra plus un pareil combat : tout le désert de sable était couvert de blessés et de morts, d’hommes dont le jour était passé ; il y avait tant de cadavres que le pied ne trouvait pas de place pour s’y poser ; la plaine inondée de sang ressemblait au Djihoun, on ne voyait que des hommes sans tête ou la tête en bas ; les cris des cavaliers et des chevaux couvraient le son des tambours ; on aurait, dit que le cœur des montagnes se fendait et que la terre s’envolait avec les cavaliers : il y avait des têtes sans corps, des corps sans têtes ; les coups des lourdes massues résonnaient, les poignards et les épées tranchantes flamboyaient et le soleil cherchait le chemin de la fuite ; tu aurais dit qu’un nuage noir était arrivé et versait une pluie. de sang sur le champ de bataille.
-
+Personne ne verra plus un pareil combat : tout le désert de sable était couvert de blessés et de morts, d’hommes dont le jour était passé ; il y avait tant de cadavres que le pied ne trouvait pas de place pour s’y poser ; la plaine inondée de sang ressemblait au Djihoun, on ne voyait que des hommes sans tête ou la tête en bas ; les cris des cavaliers et des chevaux couvraient le son des tambours ; on aurait, dit que le cœur des montagnes se fendait et que la terre s’envolait avec les cavaliers : il y avait des têtes sans corps, des corps sans têtes ; les coups des lourdes massues résonnaient, les poignards et les épées tranchantes flamboyaient et le soleil cherchait le chemin de la fuite ; tu aurais dit qu’un nuage noir était arrivé et versait une pluie de sang sur le champ de bataille. 
 F
 o6 LE.
 
