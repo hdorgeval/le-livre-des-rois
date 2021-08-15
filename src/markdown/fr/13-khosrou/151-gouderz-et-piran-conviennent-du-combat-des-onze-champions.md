@@ -19,7 +19,7 @@ order: '151'
 Lorsque la terre fut devenue couleur d’ébène, on entendit dans les deux armées retentir les clairons et les timbales et les timbaliers assis sur le dos des éléphants quittèrent le champ de bataille.
 
 Les chefi
-(les deux armées convinrent de s’en retourner, ’ puisqu’il faisait nuit ; de choisir de grand matin des hommes vaillants qui réduiraient en écume les eaux de la mer profonde ; de mettre en présence les plus illustres de leurs héros et les plus avides de bataille et de dispenser les armées de combattre, de sorte qu’on ne versât plus de sang innocent.
+(les deux armées convinrent de s’en retourner, puisqu’il faisait nuit ; de choisir de grand matin des hommes vaillants qui réduiraient en écume les eaux de la mer profonde ; de mettre en présence les plus illustres de leurs héros et les plus avides de bataille et de dispenser les armées de combattre, de sorte qu’on ne versât plus de sang innocent.
 
 Cette convention faite, ils s’en retournèrent et leur longue route leur parut courte.
 
@@ -33,7 +33,7 @@ Guiv dit à Gouderz :
 >
 > Lorsque je me suis jeté sur les Touraniens, j’ai rompu leurs rangs et ils m’ont fait place ; mais lorsque je me suis trouvé en face de Pirau, mon destrier s’est arrêté et a refusé de faire un pas en avant, quoique mon ardeur fût telle qu’on eût dit que mon âme se briserait.
 >
-> Alors Bijen s’est rappelé les paroles du roi et m’a dévoilé ce secret. que c’est de ta main que Pirau doit périr ; voilà ce que le roi a dit d’après l’indication des astres. »
+> Alors Bijen s’est rappelé les paroles du roi et m’a dévoilé ce secret. que c’est de ta main que Piran doit périr ; voilà ce que le roi a dit d’après l’indication des astres. »
 
 Gouderz répondit :
 
@@ -82,13 +82,13 @@ Le Pehlewan leur répondit :
 >
 > Il alla ainsi errant de lieu en lieu, comme un homme en démence, pour chercher les traces du roi Keï Khosrou ; quand il l’eut enfin découvert, il lui offrit ses hommages dès qu’il l’aperçut ; ensuite ils se mirent tous deux en route pour l’Iran.
 >
-> Le belliqueux Pirau en eut avis et accourut en toute hâte avec une armée, dans l’espoir de les faire périr en route ; il fit tout ce qu’il put pour les perdre et Dieu seul les sauva.
+> Le belliqueux Piran en eut avis et accourut en toute hâte avec une armée, dans l’espoir de les faire périr en route ; il fit tout ce qu’il put pour les perdre et Dieu seul les sauva.
 >
 > Plus tard, quand nous nous fûmes portés sur le Kasehroud pour venger Siawusch, il arriva à Lawen une grande armée qui nous attaqua pendant la nuit et nous livra la bataille de Peschen, dans laquelle périt
 >
 > M2 devant mes yeux un si grand nombre de mes fils et où le cœur faillit à tous nos grands.
 >
-> Maintenant Pirau a paru de nouveau avec une armée nombreuse r. »
+> Maintenant Piran a paru de nouveau avec une armée nombreuse r. »
 
 Et avide de combats et a pris position en face de nous.
 
@@ -110,7 +110,7 @@ Il. n’y avait dans le Touran aucun cavalier comparable à Houman ; il s’est 
 
 Il ne faut donc pas les craindre, il ne faut pas retirer votre main du combat.
 
-Et si Pirau préfère une bataille rangée, s’il amène toute son armée comme un tourbillon de poussière, alors il faut que nous aussi nous avancions contre lui en formant une masse semblable à une montagne ; car leur esprit est frappé, ils ne sont occupés que du soin de leur vie. le crois que nous aurons le dessus, que nous ferons lever la poussière noire de leur destruction. »
+Et si Piran préfère une bataille rangée, s’il amène toute son armée comme un tourbillon de poussière, alors il faut que nous aussi nous avancions contre lui en formant une masse semblable à une montagne ; car leur esprit est frappé, ils ne sont occupés que du soin de leur vie. le crois que nous aurons le dessus, que nous ferons lever la poussière noire de leur destruction. »
 
 Le Pehlewan ayant prononcé ce discours devant les héros fortunés et expérimentés, ils le comblèrent de louanges, disant :
 
@@ -124,7 +124,7 @@ Le Pehlewan ayant prononcé ce discours devant les héros fortunés et expérime
 >
 > Tout ce que Khosrou avait attendu de Feribourz et de Thous, tu vas maintenant l’accomplir ; nous sommes tous les esclaves et nos cœurs te sont dévoués.
 >
-> Si Pirau amène les chefs de son armée pour nous livrer un combat, fussions-nous dix contre mille des siens, tu verras si un seul de nous le refuse ; s’il amène son armée entière pour nous combattre dans la plaine et dans la montagne, nous voilà prêts, le cœur brûlant du désir de la vengeance et les reins ceints pour le combat.
+> Si Piran amène les chefs de son armée pour nous livrer un combat, fussions-nous dix contre mille des siens, tu verras si un seul de nous le refuse ; s’il amène son armée entière pour nous combattre dans la plaine et dans la montagne, nous voilà prêts, le cœur brûlant du désir de la vengeance et les reins ceints pour le combat.
 >
 > Puisse notre vie être la rancon de la tiennel tel est notre engagement solennel. »
 
