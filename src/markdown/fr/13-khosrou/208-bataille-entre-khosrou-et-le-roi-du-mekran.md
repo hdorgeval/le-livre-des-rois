@@ -26,7 +26,7 @@ Keï Khosrou s’avançait et lorsqu’il fut près du Mekran, il choisit dans s
 >
 > Prépare donc pour mon armée de la nourriture et une route, prépare pour moi un beau palais.
 >
-> Quand une armée n’a pas. de vivres, tu sais ce qui arrive, car personne ne consent à être livré àla détresse ; toutes les mains enlèveront la nourriture d’autrui, si je ne peux pas faire parvenir à chacun la sienne.
+> Quand une armée n’a pas. de vivres, tu sais ce qui arrive, car personne ne consent à être livré à la détresse ; toutes les mains enlèveront la nourriture d’autrui, si je ne peux pas faire parvenir à chacun la sienne.
 >
 > Si mes hommes ne trouvent pas de vivres, ils vous apporteront la guerre, ils rendront étroite la terre devant leurs ennemis.
 >
