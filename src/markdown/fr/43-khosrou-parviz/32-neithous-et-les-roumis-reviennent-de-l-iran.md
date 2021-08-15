@@ -70,7 +70,7 @@ Il compta les clefs de ses trésors et les confia toutes au fils de Tokhareh.
 
 Il ordonna à tous les grands d’obéir à Kharrad, fils de Bénin, dont les volontés devaient s’exécuter dans le monde entier et dont le nom devait se trouver sur tous les diplômes.
 
-Tous ’ les hommes qui étaient restés avec le roi illustre au temps de la guerre reçurent de lui une robe d’honneur royale et il les envoya chacun dans un district pour l’administrer.
+Tous les hommes qui étaient restés avec le roi illustre au temps de la guerre reçurent de lui une robe d’honneur royale et il les envoya chacun dans un district pour l’administrer.
 
 Un héraut éloquent, un grand ayant une belle voix et plein de prudence, proclamait partout :
 
