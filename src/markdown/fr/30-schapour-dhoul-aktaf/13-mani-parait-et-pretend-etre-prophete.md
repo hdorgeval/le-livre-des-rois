@@ -42,7 +42,7 @@ Schapour fit appeler le Mobed, qui discuta pendant très-longtemps avec Mani et 
 
 Du Mobed suri la foi ancienne.
 
-Le Mobed lui (lit :
+Le Mobed lui dit :
 
 > Ô adorateur des images !
 >
