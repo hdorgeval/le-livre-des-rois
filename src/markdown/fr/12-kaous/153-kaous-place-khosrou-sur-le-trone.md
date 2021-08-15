@@ -26,7 +26,7 @@ Les grands, les chefs de M4 l’armée et les puissants de la terre s’avancèr
 
 Telle est la coutume du monde, il prend d’une main et donne de l’autre.
 
-Ses tromperies nous ailligent ; tantôt nous sommes en haut, tantôt en bas.
+Ses tromperies nous affligent ; tantôt nous sommes en haut, tantôt en bas.
 
 Ô mon fils si ton cœur parvient à être heureux, puisses-tu rester éternellement sur la terre !
 
