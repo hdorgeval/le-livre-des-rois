@@ -30,7 +30,7 @@ Tu as aussi entendu ce qui est arrivé à Souferaï de la part de Pirouz, ce roi
 
 Kobad, le méchant, retrouva son pouvoir, re-jeta de son cœur toute vertu, se livra au vice etmit à mort un ami fidèle comme Souferaï.
 
-Le cœur des grands fut blessé par lui ; mais un homme qui ne sait pas agir honorablement envers sa famille, qui préfère ses passions à ses enfants, ne peut pas agir ’ honorablement envers des étrangers et personne ne cherchera de l’ivoire dans un tronc d’ébène.
+Le cœur des grands fut blessé par lui ; mais un homme qui ne sait pas agir honorablement envers sa famille, qui préfère ses passions à ses enfants, ne peut pas agir honorablement envers des étrangers et personne ne cherchera de l’ivoire dans un tronc d’ébène.
 
 Ne mettez pas votre espoir dans les Sâsânides, ne cherchez pas des rubis sur le saule rouge.
 
