@@ -16,7 +16,7 @@ order: '052'
 
 # La mère de Thalhend apprend la mort de son fils
 
-La mère des princes ne dormait pas, ne prenait ni repos ni nourriture depuis qu’ils avaient choisi leur champ de bataille ; elle tenait toujours un guetrasas nouscumwxn. ’ teur sur la route, elle passait ses jours dans l’amer-, turne.
+La mère des princes ne dormait pas, ne prenait ni repos ni nourriture depuis qu’ils avaient choisi leur champ de bataille ; elle tenait toujours un guetrasas nouscumwxn. teur sur la route, elle passait ses jours dans l’amer-, turne.
 
 Lorsque l’armée, à son retour, souleva la poussière de la route, le guetteur attentif l’observe du haut de son poste ; il vit paraître le drapeau de Gau, il vit le pays couvert de troupes.
 
