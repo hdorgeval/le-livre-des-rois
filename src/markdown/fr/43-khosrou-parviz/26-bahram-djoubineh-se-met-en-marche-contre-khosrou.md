@@ -133,7 +133,7 @@ Khosrou dit :
 >
 > Sache que celui qui se livre à la moquerie recevra un coup du ciel qui tourne.
 >
-> Il m’a (lit que je m’étais enfui devant un esclave, que je n’avais pas en assez de cœur pour me mesurer avec lui.
+> Il m’a dit que je m’étais enfui devant un esclave, que je n’avais pas en assez de cœur pour me mesurer avec lui.
 >
 > Mais ce n’est pas une honte de fuir devant un esclave qui donne de pareils coups au jour de combat. »
 
