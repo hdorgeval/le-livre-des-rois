@@ -116,6 +116,6 @@ Il forma les rangs de son armée dans ce lieu étroit.
 
 L’air devint sombre et la terre disparut.
 
-Il avait à l’aile droite quarante mille hommes. des cavaliers armés de javelots et de lances ; à l’aile gauche il en avait aussi quarante mille, les uns frappant de la lance, les autres de l’épée ; ensuite il plaça quarante mille hommes vaillants derrière la ligne de bataille et bien des hommes de l’armée ne pouvaient être employés, étant resserrés dans un espace si étroit ; enfin on forma avec les éléphants devant le front des troupes comme un mur qui barrait le chemin ; mais le cœur de Saweh était plein de soucis de ce que son armée ne pouvait pas se déployer.
+Il avait à l’aile droite quarante mille hommes des cavaliers armés de javelots et de lances ; à l’aile gauche il en avait aussi quarante mille, les uns frappant de la lance, les autres de l’épée ; ensuite il plaça quarante mille hommes vaillants derrière la ligne de bataille et bien des hommes de l’armée ne pouvaient être employés, étant resserrés dans un espace si étroit ; enfin on forma avec les éléphants devant le front des troupes comme un mur qui barrait le chemin ; mais le cœur de Saweh était plein de soucis de ce que son armée ne pouvait pas se déployer.
 
 On aurait dit que la l’ortune lui annonçait que son trône allait être vacant.
