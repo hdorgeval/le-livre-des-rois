@@ -65,7 +65,7 @@ Azadeh ont pitié de la gazelle ; Bahram lui dit :
 
 Azadeh versa de ses yeux un torrent de larmes et dit au roi :
 
-> Ceci est ’ inhumain.
+> Ceci est inhumain.
 >
 > Tu n’es pas un homme et ta nature est celle d’un Div. »
 
