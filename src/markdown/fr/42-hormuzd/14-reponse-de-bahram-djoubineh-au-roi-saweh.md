@@ -36,7 +36,7 @@ Bahram dit :
 >
 > Ensuite tu dis que j’aurai à te rendre grâce pour ta fille, tes trésors, ton armée et ton pays et que je te saluerai comme un roi qui connaît les voies du monde, parce que tu m’aurais donné ta tille, que tu n’aurais pas pensé à garder pour toi-même le trône de l’Iran, que tu m’aurais envoyé de ton beau palais la fille et des richesses et qu’alors tu aurais un ami comme moi dans l’Iran et que les héros ne te combattraient pas.
 >
-> Mais me lance est ce aujourd’hui près de ton oreille, je vais te couper la tête avec l’épée et quand tu seras mort, la tête, tu couronne et ton trésor seront à moi, à moi ta fille et tout ce que tu as pris la peine d’amasser et Ensuite tu dis que tu as des couronnes et des trônes. des éléphants et des chevaux sans nombre.
+> Mais me lance est ce aujourd’hui près de ton oreille, je vais te couper la tête avec l’épée et quand tu seras mort, la tête, tu couronne et ton trésor seront à moi, à moi ta fille et tout ce que tu as pris la peine d’amasser et Ensuite tu dis que tu as des couronnes et des trônes des éléphants et des chevaux sans nombre.
 >
 > Un homme illustre, qui s’agitait au milieu des rangs sur (un champ de bataille, a dit qu’un chien court avec d’autant plus d’ardeur que l’eau est plus loin de sa coupe.
 >
