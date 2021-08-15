@@ -65,7 +65,7 @@ Mihr Hormuzd, le poignard à la main, courut fermer la porte de la salle, puis r
 
 Telle est la marche de ce monde instable ; c’est ainsi qu’il te cache toujours ses desseins mystérieux : pour l’homme prudent et sage comme pour le présomptueux, tout est vain dans ces révolutions.
 
-Que tu amasses des trésors ou seulement. des fatigues et des peines, tu ne séjourneras pas longtemps dans cette demeure passagère ; préfère donc une vie innocente et loyale, si tu veux acquérir une bonne renommée.
+Que tu amasses des trésors ou seulement des fatigues et des peines, tu ne séjourneras pas longtemps dans cette demeure passagère ; préfère donc une vie innocente et loyale, si tu veux acquérir une bonne renommée.
 
 Dès qu’on sut. dans les marchés comment Khosrou venait de périr, ses ennemis envahirent la prison du palais où se trouvaient d’autres infortunés ; ses quinze fils illustres y étaient gardés enchaînés ; innocents ils furent égorgés le jour même où le trône de leur père s’écroulait.
 
