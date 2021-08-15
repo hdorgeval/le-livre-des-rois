@@ -28,7 +28,7 @@ Tous les grands issus de familles nobles vinrent auprès de Rustem, la tête cou
 >
 > Et maintenant,quoique nous soyons un peuple dispersé, nous sommes tous tes esclaves ; et puisque tu es le maître, ne verse pas le sang innocent, ne lutte pas contre le ciel qui tourne.
 >
-> Personne ne sait où se trouve ce roi, ni s’il est. en vie ou si la queue du dragon l’a enveloppé. »
+> Personne ne sait où se trouve ce roi, ni s’il est en vie ou si la queue du dragon l’a enveloppé. »
 
 Lorsque Rustem eut entendu les paroles de cette assemblée, son cœur plein de sagesse trembla ; il sa porta en grande hâte sur la frontière de Kafdjar-baschi et y convoqua tous les chefs de son armée.
 
