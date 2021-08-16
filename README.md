@@ -12,9 +12,11 @@ This repo is intended to :
 
 - hold Ferdowsi's work in Markdown format in all available languages used to translate this book;
 
-- bring a framework that enables to automatically build a website from these Markdown assets;
+- hold any related work in Markdown format, like for example the Zend-Avesta;
 
-- bring innovative tools, like machine learning, to be able to manage and study this new corpus of data.
+- bring a framework to automatically build any kind of digital assets from these Markdown data sources;
+
+- bring innovative tools, like machine learning, geo-data discovery, to be able to manage and study this new corpus of data in a multi-dimensional way: by time, by content, by geography, by characters, by language.
 
 I started with the French translation of the `Shâhnâmeh` brought by `Jules Mohl` in 1876 after he started it in 1826.
 
