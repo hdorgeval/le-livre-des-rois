@@ -46,7 +46,7 @@ Les sages, les grands et les hommes qui avaient de l’expérience se réunirent
 >
 > Il est ton ennemi ; ne vise pas à sa possession, si ton cœur n’est pas dans la voie d’Ahriman.
 >
-> Revêtstoi de riches vêtements et fais des largesses, bois et mange ; voilà ta part dans cette vie, qui n’est qu’un passage. »
+> Revêts-toi de riches vêtements et fais des largesses, bois et mange ; voilà ta part dans cette vie, qui n’est qu’un passage. »
 
 Rustem approuva les paroles qu’avait prononcées le glorieux Mobed et ce joyeux conseiller ajouta :
 
