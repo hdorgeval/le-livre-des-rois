@@ -97,4 +97,4 @@ Le roi intelligent sut en tirer parti et ordonna que l’on fabriquât en fer pl
 
 Qui a jamais vu une armée de fer, montée sur des chevaux de fer, pommelés, bais, griset noirs ?
 
-À la lin du mois le travail était fini, il était achevé à l’aide de ces hommes’pleins de ressources et Iskender fit marcher sur des roues une armée de fer qui ressemblait à des cavaliers prêts pour le combat.
+À la fin du mois le travail était fini, il était achevé à l’aide de ces hommes’pleins de ressources et Iskender fit marcher sur des roues une armée de fer qui ressemblait à des cavaliers prêts pour le combat.
