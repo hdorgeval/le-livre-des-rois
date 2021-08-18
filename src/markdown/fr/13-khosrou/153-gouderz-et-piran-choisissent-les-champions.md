@@ -39,7 +39,7 @@ Lorsque Piran aperçut Gouderz le fils de Keschwad, il lui adressa la parole et 
 >
 > Et si toi et les grands qui t’environnent succombez sous nos coups, je ne combattrai pas ton armée, elle n’aura rien à craindre de moi. »
 
-Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de Piran ; il commença par rendre grâce au Créateur, ensuite il pria pour le roi illustre, enfin il répondit à Pirau, disant :
+Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de Piran ; il commença par rendre grâce au Créateur, ensuite il pria pour le roi illustre, enfin il répondit à Piran, disant :
 
 > Ô glorieux héros, j’ai écouté ton discours jusqu’à la fin.
 >
