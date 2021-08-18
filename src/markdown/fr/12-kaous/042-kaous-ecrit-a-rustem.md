@@ -86,9 +86,7 @@ Je lui ai envoyé de l’or et beaucoup de joyaux par la main d’un messager qu
 
 Mais ce que tu me dis, ô Pehlewan, de celui qui est venu combattre les Iraniens, qui a jeté à bas de son cheval Hedjir et l’a lié de la tête aux pieds avec son lacet, cela ne peut pas être l’œuvre de ce lionceau, quelque brave et quelque vaillant qu’il soit devenu.
 
-Viens maintenant pour que nous allions au palais, pour que nous allions gaiement sous le toit du Destan ; la
-
-KEI nous. nous verrons quel’parli prendre et quel Pehlewan est ce Turc fortunés Rustem le brave qui portait haut la tête se rendit au palais du Destan ; lui et Guiv entrèrent dans ce beau palais, où ils restèrent assis pendant quelque temps oubliant tout souci.
+Viens maintenant pour que nous allions au palais, pour que nous allions gaiement sous le toit du Destan ; la nous verrons quel’parli prendre et quel Pehlewan est ce Turc fortunés Rustem le brave qui portait haut la tête se rendit au palais du Destan ; lui et Guiv entrèrent dans ce beau palais, où ils restèrent assis pendant quelque temps oubliant tout souci.
 
 Ensuite Guiv invoqua une seconde fois les grâces de Dieu sur lui, en disant :
 
@@ -143,9 +141,7 @@ Mais le quatrième jour, Guiv fit ses préparatifs de départ et dit au héros, 
 >
 > Le roi de l’Iran sera courroucé contre nous et dans sa fureur cherchera à se venger. »
 
-Rustem lui ré-
-
-KEI nous. se pondit : Ne te mets pas en peine de cela, car personne au monde n’osera se fâcher contre nous. »
+Rustem lui ré- se pondit : Ne te mets pas en peine de cela, car personne au monde n’osera se fâcher contre nous. »
 
 Ensuite, il ordonna qu’on sellât Raksch et fit sonner les trompettes d’airain ; les cavaliers du Zaboulistan entendirent le son des trompettes et se mirent en marche couverts de casquas et de cuirasses.
 
