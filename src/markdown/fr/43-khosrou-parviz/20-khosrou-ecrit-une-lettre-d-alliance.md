@@ -49,7 +49,7 @@ Puis, il écrivit en pehlewi une lettre en caractères royaux et à la manière 
 >
 > Nous arrivons ainsi à Ardeschir, fils de Babek, qui rajeunit l’étoile vieillie de l’empire et à Khosrou, fils de Hormuzd, qui ne forme qu’un cœur et qu’une âme avec le Kaisar, dont l’antique ancêtre a été Selm ; je ne mens pas et ne cherche pas de vaines paroles, car nous avons renoncé à toute vengeance et les Roumis et les Iraniens ne font plus qu’un.
 >
-> Je reçois du Kaisar sa fille, qui est le diadème du cercle de ses filles ; je l’accepte avec ses défauts et ses vertus et j’invoque Dieu, le toutsaint, connue garantde ce que je dis dans cette lettre, écrite d’un bout à l’autre de ma main, qui est connue dans le monde entier.
+> Je reçois du Kaisar sa fille, qui est le diadème du cercle de ses filles ; je l’accepte avec ses défauts et ses vertus et j’invoque Dieu, le tout-saint, connue garantde ce que je dis dans cette lettre, écrite d’un bout à l’autre de ma main, qui est connue dans le monde entier.
 >
 > J’ai apposé mon sceau sur la lettre selon les coutumes, les formes et ma religion.
 >
