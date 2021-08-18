@@ -97,7 +97,7 @@ Un Mobed d’un esprit ingénieux lui demanda :
 
 Il répondit :
 
-> Quiconque possède de la raison estheureux dans les deux mondes. »
+> Quiconque possède de la raison est heureux dans les deux mondes. »
 
 Le Mobed dit :
 
