@@ -18,7 +18,7 @@ order: '017'
 
 Lorsque neuf heures de ce jour de malheur furent passées, les Iraniens ne virent plus un seul ennemi en vie, excepté ceux qui étaient liés et prisonniers, leurs âmes percées de chagrins, leurs corps blessés de flèches.
 
-Toute la route était couverte de caparaçons et de casques, de casques qui n’avaient pas garanti ce jour là les têtes contre la mort, d’épées indiennes, de flèches et d’arcs, que les ennemis avaient jetés de tous les côtés.
+Toute la route était couverte de caparaçons et de casques, de casques qui n’avaient pas garanti ce jour-là les têtes contre la mort, d’épées indiennes, de flèches et d’arcs, que les ennemis avaient jetés de tous les côtés.
 
 La terre était devenue une mer par le sang des morts, dans tous les coins on trouvait des chevaux encore sellés.
 
