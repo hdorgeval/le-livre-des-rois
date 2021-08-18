@@ -22,7 +22,7 @@ Sipahram, parent d’Afrasiab, héros illustre, de haut rang et comblé d’honn
 
 Ils arrivèrent tous deux sur le champ de bataille et firent voler la poussière noire du combat ; ils s’attaquèrent à l’épée et firent sortir des flammes du fer.
 
-Le vaillant Hedjir se pré-cipita sur Sipahram comme un lion ; et invoquant le nom de Dieu le créateur du monde et la fortune du jeune roi maître de la terre, il frappa Sipahram avec l’épée sur le haut du casque ; Sipahram mourut surlle coup et tomba de cheval misérablement et noyé dans son sang.
+Le vaillant Hedjir se précipita sur Sipahram comme un lion ; et invoquant le nom de Dieu le créateur du monde et la fortune du jeune roi maître de la terre, il frappa Sipahram avec l’épée sur le haut du casque ; Sipahram mourut surlle coup et tomba de cheval misérablement et noyé dans son sang.
 
 Le fortuné Hedjir mit pied à terre, l’attacha fortement sur la selle de son coursier, remonta lui-même à cheval, saisit la bride du destrier de Sipahram et partit.
 
