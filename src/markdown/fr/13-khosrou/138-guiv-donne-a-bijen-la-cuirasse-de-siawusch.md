@@ -73,11 +73,11 @@ Bijen ordonna au truchement de pousser un cri contre son ennemi et de lui dire :
 
 Il fit ajouter : Ô cavalier qui a vu maint combat, pourquoi lances-tu ton cheval dans cette prairie ?
 
-S’il en résulte un malheur pour Afrasiab, tu mériteras les malédictions du pays de ’I’ouran.
+S’il en résulte un malheur pour Afrasiab, tu mériteras les malédictions du pays de Touran.
 
 C’est ta mauvaise nature qui a fait naître cette inimitié ; car tu es l’homme le plus méchant du Touran.
 
-Mais grâces soit rendues à Dieu, qui est mon asile, de ce.qu’il t’a amené devant moi et sur ce champ de bataille.
+Mais grâces soit rendues à Dieu, qui est mon asile, de ce qu’il t’a amené devant moi et sur ce champ de bataille.
 
 Tourne la bride de ton cheval rapide et reviens ici, puisque le désir de la vengeance fait bouillonner ton sang, choisis l’endroit où tu veux te battre et tiens-moi tête dans la plaine ou dans la vallée, dans la montagne ou entre les lignes des deux armées, où tu pourras agrandir ton nom et ton rang, à la vue de tous, amis et ennemis.
 
@@ -113,6 +113,6 @@ Bijen répondit :
 >
 > Si tu te présentes demain sur le champ de bataille, ton roi et ton armée ne te reverront plus ; je lancerai la tête si loin que tu n’auras jamais plus à t’occuper de ton armée. »
 
-A l’entrée de la nuit ils se tournèrent le dos et quittèrent le champ de bataille ; chacun retourna dans son camp et mit pied à terreauprès de ses Pehlewans.
+A l’entrée de la nuit ils se tournèrent le dos et quittèrent le champ de bataille ; chacun retourna dans son camp et mit pied à terre auprès de ses Pehlewans.
 
 Pendant toute la nuit ils dormirent d’un sommeil inquiet et troublé, car leur âme était agitée par le combat qu’ils avaient à livrer.
