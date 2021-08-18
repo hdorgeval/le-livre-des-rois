@@ -32,7 +32,7 @@ Il dit à Houman :
 >
 > Quand je regarde son pied et son étrier, je suis ému de tendresse et mon front se couvre de honte.
 >
-> Je KEI nous. trouve en lui les signes que ma mère m’a indiqués et mon cœur en tremble un peu.
+> Je trouve en lui les signes que ma mère m’a indiqués et mon cœur en tremble un peu.
 >
 > Je crois que c’est Rustem, car il y a peu de braves dans le monde comme lui.
 >
