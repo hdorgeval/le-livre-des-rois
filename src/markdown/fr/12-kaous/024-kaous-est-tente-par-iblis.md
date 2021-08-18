@@ -20,17 +20,15 @@ Or il arriva qu’un matin Iblis tint une assemblée à l’insu du roi et dit a
 
 > Le roi rend maintenant notre vie pénible et dure.
 >
-> Il faudrait qu’un Div rusé, qui connût les coutumes et les voies du palais, s’approchât de Kaous et détournât son âme du vrai chemin, pour délivrer ainsi les Divs de leurs peines, pour éloigner l’esprit du roi de Dieu le
->
-> tout pur et pour répandre de la poussière sur sa gloire resplendissante. »
+> Il faudrait qu’un Div rusé, qui connût les coutumes et les voies du palais, s’approchât de Kaous et détournât son âme du vrai chemin, pour délivrer ainsi les Divs de leurs peines, pour éloigner l’esprit du roi de Dieu le tout pur et pour répandre de la poussière sur sa gloire resplendissante.
 
 Les Divs écoutèrent ces paroles et y réfléchirent ; mais aucun n’osa répondre, car ils craignaient Kaous.
 
 À la fin, un Div plein de méchanceté se leva en disant :
 
-> C’est à moi qu’appartient cette entreprise difficile ; je détournerai Kaous du service de Dieu ; personne autre que moi ne peut accomplir ce dessein secret. »
+> C’est à moi qu’appartient cette entreprise difficile ; je détournerai Kaous du service de Dieu ; personne d'autre que moi ne peut accomplir ce dessein secret.
 
-Il prit la forme d’un jeune homme éloquent et aux manières élégantes et alla trouver le roi illustre, qui ce jour là était parti pour la chasse.
+Il prit la forme d’un jeune homme éloquent et aux manières élégantes et alla trouver le roi illustre, qui ce jour-là était parti pour la chasse.
 
 Il s’approcha de lui, baisa la terre et lui présenta un bouquet de roses en disant :
 
@@ -44,32 +42,29 @@ Il s’approcha de lui, baisa la terre et lui présenta un bouquet de roses en d
 >
 > Quelle est la nature de la lune, de la nuit et du jour et qui est le maître de la rotation du ciel ?
 >
-> Tu t’es emparé de la terre et de tout ce qui s’y trouvait à ta convenance, mais le ciel doit encore t’obéir. »
+> Tu t’es emparé de la terre et de tout ce qui s’y trouvait à ta convenance, mais le ciel doit encore t’obéir.
 
-Le cœur du roi fut détourné du vrai chemin par le Div ; soulesprit succomba à ses pensées et il ne cessa de songer que le ciel qui tourne ne lui avait jamais refusé ses faveurs.
+Le cœur du roi fut détourné du vrai chemin par le Div ; son esprit succomba à ses pensées et il ne cessa de songer que le ciel qui tourne ne lui avait jamais refusé ses faveurs.
 
-Il ignorait qu’il n’y a nul moyen de monter au ciel, que les étoiles sont sans
-
-, nombre, mais que Dieu est un.
+Il ignorait qu’il n’y a nul moyen de monter au ciel, que les étoiles sont sans nombre, mais que Dieu est un.
 
 Toutes les créatures sont impuissantes contre ses ordres, car elles sont impures, rebelles et méchantes.
 
-Dieu le créateur n’a paS.besoin du monde ; c’est pour toi, ô homme, que le ciel et la terre ont été créés.
+Dieu le créateur n’a pas besoin du monde ; c’est pour toi, ô homme, que le ciel et la terre ont été créés.
 
-L’esprit du roi s’occupa continuellement des moyens de s’élever sans ailes dans les airs ; il adressa beau-
-coup de questions aux savants sur la distance qui est entre la terre et le ciel de la lune.
+L’esprit du roi s’occupa continuellement des moyens de s’élever sans ailes dans les airs ; il adressa beaucoup de questions aux savants sur la distance qui est entre la terre et le ciel de la lune.
 
 Les astrologues la lui enseignèrent, le roi les écouta et fit choix d’un moyeu étrange et impie.
 
-Il ordonna qu’on allât, dans la nuit. chercher les nids des aigles, qu’on prît un grand nombre de leurs petits, qu’on les distribuât par un ou par deux dans toutes les maisons et qu’on les nourrît, pendant des années et des mois, avec des oiseaux et de la viande rôtie et quelquefois avec des agneaux.
+Il ordonna qu’on allât, dans la nuit, chercher les nids des aigles, qu’on prît un grand nombre de leurs petits, qu’on les distribuât par un ou par deux dans toutes les maisons et qu’on les nourrît, pendant des années et des mois, avec des oiseaux et de la viande rôtie et quelquefois avec des agneaux.
 
-Quand ces aiglons furent devenus forts comme des lions, de sorte qu’ils pouvaient enlever un argali, le roi fit construire un trône de bois d’aloès indien, que l’on renforça par des plaques d’or, puison attacha aux côtés du trône de longues lances.
+Quand ces aiglons furent devenus forts comme des lions, de sorte qu’ils pouvaient enlever un argali, le roi fit construire un trône de bois d’aloès indien, que l’on renforça par des plaques d’or, puis on attacha aux côtés du trône de longues lances.
 
 Tout étant ainsi préparé et son âme tout entière étant absorbée dans ce désir, il suspendit à ces lances des quartiers d’agneaux ; enfin il fit apporter quatre aigles vigoureux et les attacha fortement au trône.
 
-Kaous s’assit sur le trône, après avoir placé devant lui une coupe de vin ; et les aigles aux ailes fortes, poussés par la faim, s’élancèrent vers les mor-3h ceaux de chair.
+Kaous s’assit sur le trône, après avoir placé devant lui une coupe de vin ; et les aigles aux ailes fortes, poussés par la faim, s’élancèrent vers les morceaux de chair.
 
-Ils soulevèrent de terre le trône, l’emporlèrent de la plaine vers les nues et dirigèrent leurs efforts vers les morceaux de chair aussi longtemps qu’il leur resta des forces.
+Ils soulevèrent de terre le trône, l’emportèrent de la plaine vers les nues et dirigèrent leurs efforts vers les morceaux de chair aussi longtemps qu’il leur resta des forces.
 
 J’ai entendu dire que Kaous monta jusqu’au-dessus du firmament et qu’il continua dans l’espoir de s’élever au-dessus des anges ; un autre dit qu’il avait volé vers le ciel pour le combattre avec l’arc et les flèches.
 
@@ -83,7 +78,6 @@ Par miracle la terre ne tua pas le roi par le choc et ce qui devait arriver rest
 
 Le roi désirait qu’un canard sauvage se levât, car il avait besoin de manger un peu.
 
-C’est ainsi qu’il avait échangé son pou-.
-voir et son trône contre la honte et la peine.
+C’est ainsi qu’il avait échangé son pouvoir et son trône contre la honte et la peine.
 
-Il. resta dans la forêt tout épuisé et adressa ses prières à Dieu le créateur.
+Il resta dans la forêt tout épuisé et adressa ses prières à Dieu le créateur.
