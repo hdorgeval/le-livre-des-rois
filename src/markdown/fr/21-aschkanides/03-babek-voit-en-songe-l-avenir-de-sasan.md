@@ -59,7 +59,7 @@ Babek renvoya de la salle tous les étrangers et ses serviteurs mêmes et ses ch
 
 Puis, il adressa les questions d’usage à Sasan, le reçut amicalement et le fit asseoir près de lui ; il lui demanda quelles étaient sa race et sa naissance ; mais le pâtre eut peur et ne donna aucune réponse.
 
-À la lin il dit à Babek :
+À la fin il dit à Babek :
 
 > Ô DES 5.
 > roi !
