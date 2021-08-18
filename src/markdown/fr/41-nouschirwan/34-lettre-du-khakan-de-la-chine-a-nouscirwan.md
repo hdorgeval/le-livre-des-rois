@@ -52,7 +52,7 @@ On prépara un champ de bataille dans la plaine, les vaillants cavaliers s’y �
 
 Les envoyés de tous les pays, de tous les princes et de tous les rois furent confondus de cette armée et de cet appareil de guerre et de l’aspect, de la gloire et de la voix du roi.
 
-On rapporta en secret au roi du monde ce.que 2ôl’ les envoyés disaient et il ordonna à son trésorier d’apporter sur la plaine ses armes de bataille ; il apporta la cuirasse, le casque et la cotte de mailles et le roi fit défaire les boutons (qui joignaient le casque à la cuirasse).
+On rapporta en secret au roi du monde ce que 2ôl’ les envoyés disaient et il ordonna à son trésorier d’apporter sur la plaine ses armes de bataille ; il apporta la cuirasse, le casque et la cotte de mailles et le roi fit défaire les boutons (qui joignaient le casque à la cuirasse).
 
 Un homme fort et aux larges épaules n’aurait pas pu soulever la cuirasse en essayant de toutes ses forces ; il n’y avait que la poitrine et les membres du roi qui pussent supporter le poids du casque, de la cotte de mailles et de la massue.
 
