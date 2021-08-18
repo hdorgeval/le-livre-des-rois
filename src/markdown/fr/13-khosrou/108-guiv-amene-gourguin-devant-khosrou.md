@@ -59,7 +59,7 @@ Lorsque Gourguin arriva en présence du roi, il trouva que les héros avaient qu
 
 Il franchit la porte du palais et s’avança jusqu’auprès du roi ; son âme méchante était remplie de honte. !
 
-Arrivé en face de Khosrou, il baisa la terre et invoqua Ies grâces de Dieu sur lui.
+Arrivé en face de Khosrou, il baisa la terre et invoqua les grâces de Dieu sur lui.
 
 Il plaça devant le trône les dents des sangliers dures comme le diamant et salua le roi en disant :
 
@@ -81,7 +81,7 @@ Le roi regarda ces dents, ensuite il lui demanda :
 >
 > Comment se fait-il qu’il t’ait quitté ?
 >
-> Dis-Ie-moi si tu veux échapper à ta perte. »
+> Dis-le-moi si tu veux échapper à ta perte. »
 
 À ces paroles de Khosrou, Gourguin resta debout, tout troublé et confondu, la langue’ embarrassée, le cœur rempli de la conscience de son crime, les joues pâles, le corps tremblant par la crainte du roi ; à la fin il parla vaguement d’une forêt, d’un onagre et d’une prairie.
 
@@ -89,7 +89,7 @@ Mais comme ses discours se contredisaient, le roi entra en fureur et le chassa d
 
 Il voyait que sa tête se troublait, il voyait que c’était un méchant homme et il se mit à l’injurier en disant :
 
-> N’as-tu pas entendu de la bouche du Destan ce vieux dicton, qu’un lion qui lutte contre .la vengeance de la famille de Gouderz périt infailliblement ?
+> N’as-tu pas entendu de la bouche du Destan ce vieux dicton, qu’un lion qui lutte contre la vengeance de la famille de Gouderz périt infailliblement ?
 >
 > Si tu n’étais pas si malfamé, si Dieu ne te réservait une fin misérable, je voudrais qu’Ahriman t’arrachât la tête comme on l’arrache à un oiseau. »
 
