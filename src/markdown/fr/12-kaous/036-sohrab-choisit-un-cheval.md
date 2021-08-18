@@ -58,8 +58,6 @@ Il dit et rentrant au palais, il se prépara à la guerre contre les Iraniens ; 
 
 Sohrab se présenta devant son grand-père et le pria de lui donner aide et conseil pour qu’il pût aller dans le pays d’Iran, pour qu’il pût voir son glorieux père.
 
-Lorsque le roi de Semengan le vit si brave, il lui donna des trésors de toute espèce, des couronnes et des trônes, des casques et des ceintures, des chevaux et des cha-
-
-KEI nous. (sa meaux, de l’or et des joyaux, des cuirasses pour le combat et des armes de guerre ; car il était en admiration devant cet enfant à peine sevré.
+Lorsque le roi de Semengan le vit si brave, il lui donna des trésors de toute espèce, des couronnes et des trônes, des casques et des ceintures, des chevaux et des cha- (sa meaux, de l’or et des joyaux, des cuirasses pour le combat et des armes de guerre ; car il était en admiration devant cet enfant à peine sevré.
 
 Il ouvrit la main de la justice et de la générosité et l’investit de tous les insignes et de tous les honneurs de la royauté.
