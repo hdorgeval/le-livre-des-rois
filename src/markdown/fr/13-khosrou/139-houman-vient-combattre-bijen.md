@@ -62,7 +62,7 @@ Ils sortirent des montagnes de Kenabed et se dirigèrent vers la plaine ; ils ar
 
 Ils convinrent alors qu’ils n’attaqueraient pas sans sujet les truchements et que celui qui sortirait en vie de ce combat les laisserait aller sans leur faire de mal, pour qu’ils pussent raconter aux rois le bonheur ou le malheur que la rotation du ciel aurait amené, ce qui se serait l’ait, les combats qui auraient été livrés, les désastres qui seraient arrivés sur cette plaine sanglante.
 
-Étant convenus de cela, les vaillants cavaliers mirent pied à terre, boutonnèrent les capara-çons de mailles et les attachèrent fortement sur leurs destriers.
+Étant convenus de cela, les vaillants cavaliers mirent pied à terre, boutonnèrent les caparaçons de mailles et les attachèrent fortement sur leurs destriers.
 
 Les deux guerriers sellèrent leurs chevaux aux pieds de vent ; et l’âme pleine de ro-
 
@@ -72,14 +72,14 @@ Ils placèrent les flèches à pointe d’acier et tendirent les arcs jusqu’à
 
 Leur bouche restait béante, tant elle était desséchée par la soif ; ils avaient besoin de boire et de se reposer.
 
-À la lin ils s’arrêtèrent pour respirer et pour jeter de l’eau sur le feu ardent de leur soy’.
+À la fin ils s’arrêtèrent pour respirer et pour jeter de l’eau sur le feu ardent de leur soy’.
 Ensuite ils saisirent leurs boucliers et leurs épées tranchantes ; tu aurais dit que c’était le jour de la résurrection :
 
 > le l’en sortait de leurs casques et de leurs glaives comme des éclairs que lance un nuage sombre, mais l’acier ne pouvait pas faire de blessures à travers l’acier brillant ; les coups des épées damasquinées tombaient dans cette lutte des braves comme un torrent de leu ; aucun ami ne les aidait à verser du sang et leur cœur ne se fatiguait pas du combat.
 
-Ils prirent les massues après les épées et combattirent à outrance ; ensuite ils ’commencèrent à essayer la force de leurs mains, et à chercher le triomphe et la victoire en s’enlevant l’un l’autre de dessus leurs chevaux ; ils se saisirent à la ceinture, de manière que le plus fort devait soulever l’autre et le lancer par terre comme une chose vile.
+Ils prirent les massues après les épées et combattirent à outrance ; ensuite ils ’commencèrent à essayer la force de leurs mains et à chercher le triomphe et la victoire en s’enlevant l’un l’autre de dessus leurs chevaux ; ils se saisirent à la ceinture, de manière que le plus fort devait soulever l’autre et le lancer par terre comme une chose vile.
 
-Ces héros étaient si forts que les courroies de leurs étriers se brisèrent par la violence de leurs efforts ; néanmoins ils ne tombèrent pas de cheval et aucun des deux ne put’dompter l’autre.
+Ces héros étaient si forts que les courroies de leurs étriers se brisèrent par la violence de leurs efforts ; néanmoins ils ne tombèrent pas de cheval et aucun des deux ne put dompter l’autre.
 
 Ensuite ils mirent pied à terre ; les deux braves pareils à des lions furieux se reposèrent du combat, pendant que leurs truchements tenaient leurs chevaux.
 
