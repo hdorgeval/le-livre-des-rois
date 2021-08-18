@@ -22,7 +22,7 @@ En revenant de cette mer verte, ils traversèrent des déserts et de longues dis
 
 Allant de station en station, il arriva à Djaghwan et y vit des murailles et une ville magnifique.
 
-Les grands du pays vinrent au-devant de lui, tous ceux qui avaient un nom et de l’intelligence ; les chefs de Djaghwan arrivèrent avec des présents et des olIrandes auprès du roi.
+Les grands du pays vinrent au-devant de lui, tous ceux qui avaient un nom et de l’intelligence ; les chefs de Djaghwan arrivèrent avec des présents et des offrandes auprès du roi.
 
 Iskender se mit à l’instant à les interroger sur les merveilles qu’ils connaissaient dans le pays et le plus éloquent d’eux lui répondit :
 
