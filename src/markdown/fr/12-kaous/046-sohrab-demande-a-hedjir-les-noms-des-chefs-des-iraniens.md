@@ -47,7 +47,7 @@ Alors Sohrab reprit :
 >
 > Je vois une enceinte de brocart de différentes couleurs, qui renferme des tentes de peau de léopard et devant laquelle sont placés cent éléphants de guerre ; au-dessus de ce trône de
 >
-> KEI nous. turquoises bleu de mer flotte dans l’air un drapeau portant une figure du soleil sur un fond violet et surmonté d’une lune.
+> turquoises bleu de mer flotte dans l’air un drapeau portant une figure du soleil sur un fond violet et surmonté d’une lune.
 >
 > Quel est ce camp assis au milieu de l’armée et à qui d’entre les braves de l’Iran appartient-il ? »
 
@@ -176,7 +176,6 @@ Si tu attaches ton cœur à ce monde passager, tu n’y trouveras que poison, pe
 
 Sohrab fit encore une fois des questions à
 
-KEI nous.
 
 Hedjir sur l’homme qu’il désirait tant de voir, sur cette enceinte verte et ce cheval puissant, sur ce brave et son lacet roulé.
 
