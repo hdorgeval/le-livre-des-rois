@@ -31,7 +31,7 @@ La terre était couleur de tulipe, l’air couleur d’indigo ; une mer de sang 
 > Si l’on ne sépare pas ces héros sur ce champ de la vengeance, il ne restera plus, quand la nuit sombre
 "sera venue, que le ciel qui tourne et Dieu le maître du monde. »
 
-Lorsque Piran vit le champ de bataille en cet état, il commanda à Lehhak et à F erschidwerd de réunir toutes les troupes qui leur restaient, tous les cavaliers qui étaient encore capables de manier les armes et de les distribuer en trois corps pour rétablir le combat ; il leur commanda de confier l’arrièregarde aux plus prudents, à ceux qui étaient le mieux en état de défendre l’armée contre l’ennemi, peu-
+Lorsque Piran vit le champ de bataille en cet état, il commanda à Lehhak et à F erschidwerd de réunir toutes les troupes qui leur restaient, tous les cavaliers qui étaient encore capables de manier les armes et de les distribuer en trois corps pour rétablir le combat ; il leur commanda de confier l’arrière-garde aux plus prudents, à ceux qui étaient le mieux en état de défendre l’armée contre l’ennemi, peu-
 (lant qu’eux-mêmes s’avanceraient sur les deux flancs, Lehhak avec son corps tout entier du côté de la montagne et Ferschidwerd du côté du fleuve, où il devait faire monter la poussière jusqu’au-dessus du soleil.
 (les deux grands du Touran se mirent en marche avec leurs troupes avides de vengeance ; mais aussitôt la sentinelle des Iraniens envoya de sa tour un messager au Pehlewan.
 
@@ -63,7 +63,7 @@ Ensuite Guiv le cavalier au visage de soleil et plein de fierté se rendit aupr�
 >
 > C’est sur toi que repose l’espoir de l’armée de l’Iran ; montre donc ta valeur sur ce champ de bataille.
 >
-> Ne crains pas les Touranien et réjouis-toi ,
+> Ne crains pas les Touraniens et réjouis-toi ,
 > car le jour de la bataille et de la vengeance est arrivé.
 >
 > Avance-toi contre le centre de leur armée et combats Piran qui s’y tient : car toute la force de l’armée du Touran réside en lui ; et dès qu’il t’apercevra, sa peau se fendra de terreur.
