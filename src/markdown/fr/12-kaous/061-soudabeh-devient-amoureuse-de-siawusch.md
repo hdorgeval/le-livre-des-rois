@@ -22,7 +22,7 @@ Or un jour Keï Kaous était assis avec Siawusch, lorsque Soudabeh parut à la p
 
 Elle devint pensive et le cœur lui battit.
 
-Tu aurais dit qu’elle était belle comme la bordure d’un KEI nous. tapis, qu’elle était brillante comme un morceau de glace placé devant le feu.
+Tu aurais dit qu’elle était belle comme la bordure d’un tapis, qu’elle était brillante comme un morceau de glace placé devant le feu.
 
 Elle envoya quelqu’un auprès de Siawusch en disant :
 
