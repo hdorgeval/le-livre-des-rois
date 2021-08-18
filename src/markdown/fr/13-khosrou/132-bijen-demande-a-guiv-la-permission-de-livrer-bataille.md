@@ -29,7 +29,7 @@ verait l’orage du jour de la bataille qui devait aveugler par la poussière le
 
 Piran, de son côté, attendait le moment où Gouderz bouillonnant enfin de colère s’avancerait sans assurer ses derrières, de sorte que la troupe placée en embuscade trouvât un chemin pour le prendre à des.
 
-Le quatrième jour Bijen se rendit de l’arrièregarde au centre de l’armée et se présenta devant son père les vêtements déchirés et lançant de la poussière vers le ciel : il dit :
+Le quatrième jour Bijen se rendit de l’arrière-garde au centre de l’armée et se présenta devant son père les vêtements déchirés et lançant de la poussière vers le ciel : il dit :
 
 > Ô mon père qui es plein d’expérience, comment peux-tu si follement rester inactif ?
 >
