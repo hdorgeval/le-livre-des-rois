@@ -36,7 +36,7 @@ Il dit dans son cœur :
 
 Lorsque Kaous reçut la lettre de Guzdehem, son cœur s’affligea de ce qu’il apprenait ; il rappela tous les grands de l’empire et leur parla longuement de ces nouvelles.
 
-Tous les chefs de l’armée, grands et petits, tels que Thous, Gouderz fils de Keschwad, KEI nous. se Guiv, Gourguin, Bahram et F erhad le brave, s’assirent auprès du roi de l’Iran, qui leur lut la lettre et leur fit connaître tout ce que lui mandait ce Pehlewan.
+Tous les chefs de l’armée, grands et petits, tels que Thous, Gouderz fils de Keschwad, se Guiv, Gourguin, Bahram et F erhad le brave, s’assirent auprès du roi de l’Iran, qui leur lut la lettre et leur fit connaître tout ce que lui mandait ce Pehlewan.
 
 Ensuite, il leur dit en secret :
 
