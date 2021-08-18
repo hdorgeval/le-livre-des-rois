@@ -22,8 +22,7 @@ Il leur adressa des questions sur leur santé et les fit asseoir sur des sièges
 
 Ensuite, il leur parla beaucoup de ces enfants et leur révéla tout le secret.
 
-Ils prirent tous leurs tables astrono-
-KEI nous. miques et leurs astrolabes et passèrent sept jours à calculer.
+Ils prirent tous leurs tables astrono- miques et leurs astrolabes et passèrent sept jours à calculer.
 
 À la fin ils dirent à Kaous :
 
