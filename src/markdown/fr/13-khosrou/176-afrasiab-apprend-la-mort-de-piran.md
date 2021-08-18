@@ -75,7 +75,7 @@ Les grands du Touran répondirent à Afrasiab, les yeux remplis de larmes :
 
 > Nous sommes tous les esclaves du roi, nous baissons la tête devant ses ordres et ses desseins.
 >
-> Jamais mère n’a mis au monde des fils tels que Pirau, Rouïn et le noble Ferschidwerd.
+> Jamais mère n’a mis au monde des fils tels que Piran, Rouïn et le noble Ferschidwerd.
 >
 > Nous voici maintenant devant le roi, nous tous, grands et petits et quand nous verrions les montagnes et les vallées converties en une mer de sang, nos guerrier : renversés et étendus sur le sol, aucun de nous ce ne quitterait le champ de bataille.
 >
