@@ -114,7 +114,7 @@ Bouïu tira en toute hâte la lettre, la remit et s’acquitta de son message.
 
 Un secrétaire vint, parcourut la lettre et dit à Gouderz ce qu’elle contenait.
 
-Lorsqu’on eut lu la lettre devant Gouderz, tous les grands restèrent étonnés de ces paroles douces, de ces bons conseils et de ce traité humain que proposait le sage Pirau, qui disait tantde bonnes choses dans la lettre et donnait tant de bon avis.
+Lorsqu’on eut lu la lettre devant Gouderz, tous les grands restèrent étonnés de ces paroles douces, de ces bons conseils et de ce traité humain que proposait le sage Piran, qui disait tantde bonnes choses dans la lettre et donnait tant de bon avis.
 
 Gouderz dit à Roum :
 
