@@ -69,7 +69,7 @@ Ils se prosternèrent tous le front contre terre, ils pro-.
 >
 > Nous sommes tous des grands, armés pour la guerre et nous déchirons, la peau des léopards dans les steppes. »
 
-Le roi des rois accepta leurs olIrandes et ils quittèrent sa présence, précédés par Feghaniscli et formant toute une armée de jeunes guerriers.
+Le roi des rois accepta leurs offrandes et ils quittèrent sa présence, précédés par Feghaniscli et formant toute une armée de jeunes guerriers.
 
 Comme le roi avait été content de ces braves, le grand chambellan parut à la porte du palais, leur lit les questions d’usage, les reçut amicalement et leur prépara des logis dans toutes les rues. »
 
