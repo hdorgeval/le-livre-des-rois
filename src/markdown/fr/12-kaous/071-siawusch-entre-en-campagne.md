@@ -27,8 +27,7 @@ Ensuite, il choisit douze mille fantassins armés de boucliers et ,propres au co
 
 Parmi eux se trouvaient des chefs de haut renom, cOmme Bahman et Zengueh, fils de Schaweran.
 
-Enfin le roi choisit parmi les KEI nous.
-
+Enfin le roi choisit parmi les 
 Iraniens cinq Mobeds qui devaient porter l’étendard de Kaweh.
 
 Il ordonna à toute l’armée de se porter de la frontière dans le désert ; tu aurais dit que le monde était couvert de braves et que la terre n’avait de place que pour les sabots de leurs chevaux.
@@ -67,7 +66,7 @@ Il marcha ainsi contre la ville d’Hérat et en emmena beaucoup de fantassins d
 
 Il se porta ensuite vers Thalikan et le Mervroud ; tu aurais dit que le ciel le bénissait ; de là il s’approcha de Balkh et sur toute cette route il n’ailligea personne par un mot amer.
 
-De ce côté s’avançaient vers lui, rapidement comme le vent, Guersiwez et Barman avec une armée dont Sipahram commandait l’arrièregarde et Barman l’avant-garde.
+De ce côté s’avançaient vers lui, rapidement comme le vent, Guersiwez et Barman avec une armée dont Sipahram commandait l’arrière-garde et Barman l’avant-garde.
 
 Ils eurent des nouvelles du jeune prince, on leur dit :
 
