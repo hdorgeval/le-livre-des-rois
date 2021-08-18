@@ -32,7 +32,7 @@ Le roi fit écrire, dans cette lettre au Kaisar, tout ce qui s’était passé s
 
 Il commença par des hommages à Dieu, le dispensateur de la jus-Hi tu tice, à qui il devait sa bravoure, sa fortune et ses hauts faits ; puis il continua ainsi : Le Créateur du monde m’a secrètement favorisé en toute chose. le suis allé avec l’armée à Aderguschasp et suis rentré dans mon pays, devançant tout le monde et avide de vengeance.
 
-Bahram m’a tant pressé dans le combat, que le lieu de la lutte est devenu trop étroit pour moi ; mais puisque Dieu, le toutsaint, ne lui était pas favorable, ce souffle du feu guerrier s’est éteint et lorsque ses affaires ont été désespérées et qu’il ne lui restait plus d’armée, il s’est enfui d’ici à l’aube du jour.
+Bahram m’a tant pressé dans le combat, que le lieu de la lutte est devenu trop étroit pour moi ; mais puisque Dieu, le tout-saint, ne lui était pas favorable, ce souffle du feu guerrier s’est éteint et lorsque ses affaires ont été désespérées et qu’il ne lui restait plus d’armée, il s’est enfui d’ici à l’aube du jour.
 
 Nous avons détruit toute son armée, nous avons jeté le feu dans son camp, et, par la permission de Dieu le dispensateur de la victoire, nous lui avons encore coupé la route par où il doit passer. »
 
