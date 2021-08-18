@@ -47,7 +47,7 @@ Laissant le corps du roi d’Iran étendu dans la poussière, souillé de sang e
 In-
 
 I
-formé que le trône, la guerre et les désirs de la oie n’étaient plus rien pour lenoble monarque, Mahaut ordonna qu’à l’heure où tout repose on le précipitât du moulin dans la rivière.
+formé que le trône, la guerre et les désirs de la oie n’étaient plus rien pour le noble monarque, Mahaut ordonna qu’à l’heure où tout repose on le précipitât du moulin dans la rivière.
 
 Deux serviteurs au cœur cruel traînèrent le corps du mi dans le sang . et, sans connaître le rang de la victime, la jetèrent dans le tournant du Zark, ou le cadavre du roi flotta tantôt droit, tantôt renversé.
 
@@ -71,7 +71,7 @@ Aussitôt les religieux, abbés et moines accoururent de toutes parts et ce cri 
 >
 > Pleumns le guerrier généreux et illustre !
 >
-> Fleurons le trône des Sâsânides, la puissance, la gloire et la couronue des rois !
+> Fleurons le trône des Sâsânides, la puissance, la gloire et la couronne des rois !
 >
 > Naguère encore tu étais plein de vie et de sagesse a tu vos maintenant porter la nouvelle à Nouschirwan, tu vas lui dire que toi souverain, toi qui étais beau comme la lune et né pour la royauté, tu as été déchiré à coups de poignard dans un moulin et jeté tout nu au fond d’un gouffre ! »
 
