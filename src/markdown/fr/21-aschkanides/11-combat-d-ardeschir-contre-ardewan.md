@@ -36,7 +36,7 @@ Entre les deux armées restait un espace de deux portées de flèche ; tels éta
 
 Les armées poussaient des cris ; les drapeaux étincelaient, les épées bleues semaient des têtes ; ce combat dura quarante jours et le monde devint étroit pour les sujets de ces rois ; les vivres de toute espèce manquaient, les roules pour les amener étaient obstruées, la surface de la plaine devenait comme une montagne par les amas de morts et les blessés étaient las de leur vie.
 
-À la lin un nuage noir apparut qui ne permettait pas de continuer cette lutte acharnée, un ouragan terrible s’éleva et remplit de terreur le cæur des combattants, les montagnes tremblaient, la terre des plaines 2 !!!
+À la fin un nuage noir apparut qui ne permettait pas de continuer cette lutte acharnée, un ouragan terrible s’éleva et remplit de terreur le cæur des combattants, les montagnes tremblaient, la terre des plaines 2 !!!
 
 Se l’enduit avec un fracas qui montait ail-dessus du ciel.
 
