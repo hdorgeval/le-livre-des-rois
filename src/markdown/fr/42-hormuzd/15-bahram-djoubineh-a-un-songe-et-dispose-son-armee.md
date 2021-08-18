@@ -54,7 +54,7 @@ On compta à l’aile droite trois mille cavaliers, couverts de cottes de maille
 
 Bahram envoya le même nombre de vaillants cavaliers et d’hommes de guerre à l’aile gauche.
 
-Il avait à sa droite Ized Guschasp, qui traversait les fleuves à cheval ; à sa gauche était Kunda Guschasp, un adorateur d’Aderguschasp ; à l’arrièregarde Yelan Sineh, avec une treupe qui ne devait entrer que tard dans la mêlée ; au centre était Hamdan Guschasp, dont le cheval aurait pu embraser les roseaux avec les fers de ses sabots ; chacun avait sous lui trois mille héros, des cavaliers vaillants, au cœur de pierre.
+Il avait à sa droite Ized Guschasp, qui traversait les fleuves à cheval ; à sa gauche était Kunda Guschasp, un adorateur d’Aderguschasp ; à l’arrière-garde Yelan Sineh, avec une treupe qui ne devait entrer que tard dans la mêlée ; au centre était Hamdan Guschasp, dont le cheval aurait pu embraser les roseaux avec les fers de ses sabots ; chacun avait sous lui trois mille héros, des cavaliers vaillants, au cœur de pierre.
 
 On fit devant l’armée cette proclamation :
 
