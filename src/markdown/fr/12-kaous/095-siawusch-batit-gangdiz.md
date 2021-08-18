@@ -83,4 +83,4 @@ Il faut nécessairement le voir pour comprendre combien il est inaccessible ; ca
 
 Il y a deux farsangs du sommet du rempart jusqu’au pied des ro-DES-BUIS. chers et tout autour se déroule une plaine liasse d’où l’œil ne peut s’étendre plus haut que la crête de la montagne . crête si élevée que les oiseaux hésitent de voler par-dessus.
 
-Siawusch entreprit beaucoup de’travaux sur ce point où il voulait établir son pouvoir, son trône et sa couronne ; il éleva des bâtiments dans cet endroit ravissant ; il construisit une ville dans ces beaux lieux, une ville avec des maisons, des palais et un Meïdan ; il y planta des arbres sans nombre ; il en fit un séjour semblable au paradis et y sema des roses des hyacinthes, des narcisses et des tulipes.
+Siawusch entreprit beaucoup de travaux sur ce point où il voulait établir son pouvoir, son trône et sa couronne ; il éleva des bâtiments dans cet endroit ravissant ; il construisit une ville dans ces beaux lieux, une ville avec des maisons, des palais et un Meïdan ; il y planta des arbres sans nombre ; il en fit un séjour semblable au paradis et y sema des roses des hyacinthes, des narcisses et des tulipes.
