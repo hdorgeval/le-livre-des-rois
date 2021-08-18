@@ -1433,6 +1433,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ estheureux /g, ' est heureux '),
     (content: string) => content.replace(/ lenoble /g, ' le noble '),
     (content: string) => content.replace(/ couronue /g, ' couronne '),
+    (content: string) => content.replace(/ce jour là /g, 'ce jour-là '),
+    (content: string) => content.replace(/l’emporlèrent /g, 'l’emportèrent '),
   ].forEach((format) => {
     result = format(result);
   });
