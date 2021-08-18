@@ -84,7 +84,7 @@ Ne saislu pas ce qu’a dit le sage pour détruire dans les cœurs la perversit�
 >
 > Ne te lie pas trop à tes administrateurs ; règle toi-même tes affaires si tu veux avoir de la sécurité.
 >
-> À la lin la mort arrive avec certitude pour toi, que tu sois obscur ou une lumière du monde. »
+> À la fin la mort arrive avec certitude pour toi, que tu sois obscur ou une lumière du monde. »
 
 Ces paroles de Schapour firent verser beaucoup de larmes à son frère ; il vécut encore un au après avoir écrit ses dernières volontés, puis il mourut, laissant comme un souvenir cette parole :
 
