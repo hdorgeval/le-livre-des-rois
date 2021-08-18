@@ -18,11 +18,11 @@ order: '150'
 
 Le cheval de Guiv s'arrete
 
-Lorsque Rouïn fils de Piran vit de l’arrièregarde le vaillant Guiv qui s’avançait rapidement, il quitta les derrières de la puissante armée, accompagné de héros qui ressemblaient à des loups et s’élança comme un léopard en fureur ; mais ayant fait de vains efforts pour pénétrer jusqu’au fort de la mêlée, il jeta son épée indienne et s’en retourna désespérant de la bataille.
+Lorsque Rouïn fils de Piran vit de l’arrière-garde le vaillant Guiv qui s’avançait rapidement, il quitta les derrières de la puissante armée, accompagné de héros qui ressemblaient à des loups et s’élança comme un léopard en fureur ; mais ayant fait de vains efforts pour pénétrer jusqu’au fort de la mêlée, il jeta son épée indienne et s’en retourna désespérant de la bataille.
 
 Le Sipehdar Piran et quelquesuns des siens restèrent à leur poste étourdiment.
 
-Guiv aperçut Pirau, poussa son destrier contre lui et avec sa lance jeta à bas de leurs chevaux quatre d’entre les grands qui entouraient le chef des Touraniens.
+Guiv aperçut Piran, poussa son destrier contre lui et avec sa lance jeta à bas de leurs chevaux quatre d’entre les grands qui entouraient le chef des Touraniens.
 
 Pirau fils de Wiseh banda son arc et fit pleuvoir des traits sur son ennemi.
 
@@ -38,7 +38,7 @@ Ensuite, il décocha contre le cheval du héros une flèche à triple bois, une 
 
 Dans ce moment les compagnons de Guiv s’approchèrent et la rage de Piran s’accrut lorsqu’il les aperçut.
 
-Il s’élança sur Guiv comme un tourbillon de poussière ; car il savait que s’il parvenaità le blesser, il serait sûr de disperser son armée vaillante.
+Il s’élança sur Guiv comme un tourbillon de poussière ; car il savait que s’il parvenait à le blesser, il serait sûr de disperser son armée vaillante.
 
 Mais Guiv, rapide comme la fumée, lui enleva d’un coup de lance le casque de dessus la tête.
 
