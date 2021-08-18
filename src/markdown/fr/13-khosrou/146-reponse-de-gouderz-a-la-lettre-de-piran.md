@@ -18,7 +18,7 @@ order: '146'
 
 Lorsque sept jours se furent écoulés, le chef des armées de Khosrou manda, au matin du huitième jour, un secrétaire et lui ordonna d’écrire la réponse à la lettre et de planter de nouveau l’arbre de la vengeance.
 
-Il commença par les louanges de Dieu, ensuite il répondit de point en point à Pirau, disant :
+Il commença par les louanges de Dieu, ensuite il répondit de point en point à Piran, disant :
 
 > J’ai lu ta lettre jusqu’à la fin ; j’ai compris tout ce que tu me mandes.
 >
@@ -167,15 +167,15 @@ Alors le Pehlewan fit lire sa réponse devant les héros.
 Les grands entendirent lire par le fortuné scribe litt) cette lettre qui gagnait tous les esprits ; ils reconnurent que l’intelligence de Piran était vaincue et traitè-
 rent avec mépris les avis qu’il leur avait donnés.
 
-Ils célébrèrent les louanges de Gouderz, ils l’appelerent le Pehlewan du monde.
+Ils célébrèrent les louanges de Gouderz, ils l’appelèrent le Pehlewan du monde.
 
 Ensuite, il apposa son sceau sur la lettre et la remit à Rouïn fils de Piran fils de Wiseh.
 
-Au moment où les Touraniens se levè-rent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Roui’n des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or, et à ses compagnons de l’argent et de l’or et des casques et des ceintures à ceux qui pouvaient y prétendre.
+Au moment où les Touraniens se levè-rent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Rouïn des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or et à ses compagnons de l’argent et de l’or et des casques et des ceintures à ceux qui pouvaient y prétendre.
 
 Rouïn partit de la cour du Pehlewan avec son escorte et se dirigea vers l’armée du Touran.
 
-Arrivé auprès de Pirau, il se présenta respectueusement devant son père et inclina la tête devant son trône et le sage Piran le serra dans ses bras.
+Arrivé auprès de Piran, il se présenta respectueusement devant son père et inclina la tête devant son trône et le sage Piran le serra dans ses bras.
 
 Rouïn s’acquitta du message de Gouderz et raconta tout ce qu’il avait vu dans le camp iranien.
 
