@@ -109,7 +109,7 @@ coup de ce qui s’est passé.
 
 Le savant Destour écouta ces paroles ; il fit apporter par les astrologues leurs antiques tables et ils discutèrent pendant trois quarts de la nuit.
 
-À la lin le chef des astrologues dit au Kaisar :
+À la fin le chef des astrologues dit au Kaisar :
 
 > Ô porteur de la couronnel j’ai étudié ces tables antiques que Falathoun (Platon) a construites d’après les astres.
 
