@@ -29,7 +29,7 @@ Lehhak et Ferschidwerd montèrent à la tour de la sentinelle. placée au-dessus
 
 Ils restèrent dans la tour gémissant et pleurant ; ils se lamentèrent sur la mort de leur frère et dirent dans leur douleur :
 
-> Ô vaillant lion, ô Sipehdar Pirau, ô cavalier plein de bravoure, maintenant tous les désirs de tes ennemis sont remplis ; le monde n’existe plus pour toi, tout est fini.
+> Ô vaillant lion, ô Sipehdar Piran, ô cavalier plein de bravoure, maintenant tous les désirs de tes ennemis sont remplis ; le monde n’existe plus pour toi, tout est fini.
 >
 > Qui pourra te venger ?
 >
@@ -90,7 +90,7 @@ Les deux frères répondirent :
 >
 > 6 contre les Iraniens ne s’effacera de nos cœurs ; jamais il n’y eut homme de la famille de Wiseh dont les reins n’aient été usés par la ceinture.
 >
-> Nous suivrons les derniers ordres de Pirau, nous rentrerons dans le Touran par le désert ; et si l’on nous coupe le chemin, nous nous battrons jusqu’à ce que nous soyons vainqueurs. »
+> Nous suivrons les derniers ordres de Piran, nous rentrerons dans le Touran par le désert ; et si l’on nous coupe le chemin, nous nous battrons jusqu’à ce que nous soyons vainqueurs. »
 
 Les Turcs écoutèrent ce discours et voici la réponse qu’ils donnèrent :
 
