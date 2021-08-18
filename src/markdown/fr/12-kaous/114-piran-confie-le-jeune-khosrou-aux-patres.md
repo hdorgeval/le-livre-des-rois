@@ -88,6 +88,4 @@ Il fit donner au jeune homme un cheval de parade et des vêtements dignes d’un
 
 Il l’éleva dans sen sein, il se réjouit de sa vue et en fut heureux ; il perdait la faim, le sommeil et le repos, tant il aimait. cet enfant, tant il redoutait la colère d’Afrasiab.
 
-Ainsi tourna de nou-
-
-KEI nous. veau pendant quelque temps le ciel, qui avait accordé sa faveur au jeune roi.
+Ainsi tourna de nou- veau pendant quelque temps le ciel, qui avait accordé sa faveur au jeune roi.
