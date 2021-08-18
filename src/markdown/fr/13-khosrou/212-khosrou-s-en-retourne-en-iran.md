@@ -24,7 +24,7 @@ Il emporta du musc, des esclaves hommes et femmes, des brides d’or, des robes,
 
 Chacun disait que jamais on n’avait vu et que jamais il n’avait existé des richesses pareilles.
 
-Son armée était si nombreuse qu’elle remplissait sur son passage, jour et nuit, les montagnes et les plaines ; lorsque l’arrièregarde chargeait les bêtes de comme, l’avant-garde arrivait au gite, de jour en jour.
+Son armée était si nombreuse qu’elle remplissait sur son passage, jour et nuit, les montagnes et les plaines ; lorsque l’arrière-garde chargeait les bêtes de comme, l’avant-garde arrivait au gite, de jour en jour.
 
 De cette manière il atteignit Djadj, où il suspendit sa couronne au-dessus du trône d’ivoire.
 
