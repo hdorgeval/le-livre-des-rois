@@ -38,7 +38,7 @@ Barbed désespéra de son entrée à la cour et alla avec son luth vers un jardi
 
 C’était le jardin où le roi se rendait au nouvel an et il restait deux semaines dans ce lieu de fêtes.
 
-Barbed alla en toute hâte chez Mardouï et devint ce jour là son ami de cœur.
+Barbed alla en toute hâte chez Mardouï et devint ce jour-là son ami de cœur.
 
 Il dit au gardien du jardin :
 
