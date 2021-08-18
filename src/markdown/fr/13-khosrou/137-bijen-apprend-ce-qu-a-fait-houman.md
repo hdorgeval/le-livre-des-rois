@@ -119,7 +119,7 @@ Gouderz lui dit :
 
 > Ô mon fils chéri, ne t’abandonne pas à la douleur ; car quoique Bijen soit jeune et sans expérience, il se laisse guider en toute. chose par la raison.
 >
-> Ensuite c’est ici le lieu où il faut combaltrc, c’est le moment d’inonder de sang la surface de la terre ; et quand il s’agit de venger Siawusch et d’obéir au roi, on . ne doit pas l’aire attention à la parenté ; quand même il tomberait des nues une pluie de massues et d’épées, nous ne devrions pas être avares de nos vies de serait une honte d’amorlir l’ardeur de Bijen pour le combat et de l’empêcher d’acquérir du renom et de la gloire ; car un jeune homme qui prend l’habitude de la lâcheté aura toujours l’âme basse et l’esprit. troublé. »
+> Ensuite c’est ici le lieu où il faut combattre, c’est le moment d’inonder de sang la surface de la terre ; et quand il s’agit de venger Siawusch et d’obéir au roi, on . ne doit pas l’aire attention à la parenté ; quand même il tomberait des nues une pluie de massues et d’épées, nous ne devrions pas être avares de nos vies de serait une honte d’amorlir l’ardeur de Bijen pour le combat et de l’empêcher d’acquérir du renom et de la gloire ; car un jeune homme qui prend l’habitude de la lâcheté aura toujours l’âme basse et l’esprit. troublé. »
 
 Guiv voyant, à cette réponse, qu’il n’y avait aucun moyen de fléchir Gouderz, essaya de nouveau l’influence de ses conseils sur son fils, dans l’espoir de le détourner du combat ; mais son fils lui répondit :
 
