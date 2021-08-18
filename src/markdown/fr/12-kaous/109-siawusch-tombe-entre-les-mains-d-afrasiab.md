@@ -44,7 +44,7 @@ Siawusch leur dit :
 
 Je déshonorerais aujourd’hui ma naissance, si j’oErais au roi le combat au lieu d’un présent.
 
-Quand le ciel qui tourne veut malgré mon innocence me faire périr par la main des méchants, ce jour là ma bravoure ne me sert à rien, car on ne peut aller contre la volonté de Dieu.
+Quand le ciel qui tourne veut malgré mon innocence me faire périr par la main des méchants, ce jour-là ma bravoure ne me sert à rien, car on ne peut aller contre la volonté de Dieu.
 
 Un Sage plein de prudence et de raison a dit :
 
@@ -208,7 +208,7 @@ Demour et Gueroui se présentèrent alors dans l’angoisse de la peur et s’ap
 
 Le roi leur répondit :
 
-> Je ne l’ai pas vu moi-même commettre de crime, mais d’après les paroles des astrologues il finira par nous accabler de maux ; et pourtant si dans ma haine je verse son sang, il s’élévera dans le pays de Touran une immense poussière qui obscurcira le soleil et ce jour là les sages seront confondus.
+> Je ne l’ai pas vu moi-même commettre de crime, mais d’après les paroles des astrologues il finira par nous accabler de maux ; et pourtant si dans ma haine je verse son sang, il s’élévera dans le pays de Touran une immense poussière qui obscurcira le soleil et ce jour-là les sages seront confondus.
 >
 > Le malheur qui m’était prédit approche du Touran et mes chagrins, mes soucis et mes peines arrivent.
 >
