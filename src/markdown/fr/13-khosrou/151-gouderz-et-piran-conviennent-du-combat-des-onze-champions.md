@@ -31,7 +31,7 @@ Guiv dit à Gouderz :
 
 > Ô mon père, il m’est arrivé aujourd’hui une chose étonnante.
 >
-> Lorsque je me suis jeté sur les Touraniens, j’ai rompu leurs rangs et ils m’ont fait place ; mais lorsque je me suis trouvé en face de Pirau, mon destrier s’est arrêté et a refusé de faire un pas en avant, quoique mon ardeur fût telle qu’on eût dit que mon âme se briserait.
+> Lorsque je me suis jeté sur les Touraniens, j’ai rompu leurs rangs et ils m’ont fait place ; mais lorsque je me suis trouvé en face de Piran, mon destrier s’est arrêté et a refusé de faire un pas en avant, quoique mon ardeur fût telle qu’on eût dit que mon âme se briserait.
 >
 > Alors Bijen s’est rappelé les paroles du roi et m’a dévoilé ce secret. que c’est de ta main que Piran doit périr ; voilà ce que le roi a dit d’après l’indication des astres. »
 
