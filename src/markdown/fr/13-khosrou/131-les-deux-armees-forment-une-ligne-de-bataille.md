@@ -77,7 +77,7 @@ Ensuite Gouderz dit à Rehham :
 
 Les amis de Rehham partirent avec lui ; Gustehem le premier, ensuite Guejdehem qui ne reculait jamais devant le combat, puis F ourouhil qui lançait ses traits pardessus le firmament.
 
-Gouderz ordonna à Guiv de prendre dix mille cavaliers montés sur des chevaux bardés dejer et lui assigna l’arrièregarde, poste digne des héros les plus avides de combat.
+Gouderz ordonna à Guiv de prendre dix mille cavaliers montés sur des chevaux bardés dejer et lui assigna l’arrière-garde, poste digne des héros les plus avides de combat.
 
 Deux braves, Gourguin et’Zengueh fils de Schaweran, partirent avec Guiv.
 
