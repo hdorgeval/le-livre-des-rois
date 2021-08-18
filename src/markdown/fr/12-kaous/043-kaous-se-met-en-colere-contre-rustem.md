@@ -117,7 +117,7 @@ Alors tous les grands pleins de courage, tels que Guiv, Gouderz et Bahram le bra
 >
 > Quand les Divs du Mazenderan ont chargé le roi et les grands de lourdes chaînes, que de peines et
 >
-> KEI nous. de dangers Rustem n’a-t-il pas supportés ?
+> de dangers Rustem n’a-t-il pas supportés ?
 >
 > Il a dé-
 .chiré le corps du terrible Div, il a rétabli avec joie Kaous sur son trône, il l’a salué comme on salue les rois.
@@ -168,7 +168,6 @@ Si Rustem a été blessé par le roi, les Iraniens du moins n’ont pas commis d
 
 Le roi est maintenant honteux.de ses paroles et se mord le dos de la main d’avoir été si rude. »
 
-KEI nous.
 
 Rustem leur répondit :
 
