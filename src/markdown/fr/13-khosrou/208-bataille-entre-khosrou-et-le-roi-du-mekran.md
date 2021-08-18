@@ -79,8 +79,9 @@ Ensuite les braves pleins d’ardeur pour le combat se mirent à tout dévaster.
 
 Les grands de l’Iran s’enrichirent et un
 
-Se ! 
- grand nombre d’entre eux s’emparèrent de trônes et de diadèmes.
+Se !
+
+Grand nombre d’entre eux s’emparèrent de trônes et de diadèmes.
 
 On entendit dans les villes et les campagnes les lamentations des femmes ; tout le désert et tout le Mekran étaient remplis de terreur.
 
