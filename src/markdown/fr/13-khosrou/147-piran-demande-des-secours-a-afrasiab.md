@@ -73,7 +73,7 @@ Car’c’était l’ordre de Dieu : qui est arrivé devait arriver et il ne ser
 >
 > Sinon l’armée de l’Iran nous détruira et tu te trouveras sans défenseurs. »
 
-Le messager ayant entendu ces paroles de Pirau, s’élança comme un ouragan, monta sur un cheval aux pieds de vent, sur un puissant coursier qui a ressemblait à une flamme.
+Le messager ayant entendu ces paroles de Piran, s’élança comme un ouragan, monta sur un cheval aux pieds de vent, sur un puissant coursier qui a ressemblait à une flamme.
 
 Il courut d’un trait jusqu’à la cour d’Afrasiab, sans respirer, sans se reposer, sans dormir en route.
 
