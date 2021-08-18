@@ -32,14 +32,14 @@ Les dia : grands coururent vers le Pehlewan, joyeux et souriant ; mais on se dis
 
 Car Piran avait été un homme au cœur de lion et avait passé sa vie dans les combats.
 
-Cependant le Pehlewan prit la parole et tous, jeunes et vieux, l’écoutèrent avidement ; il leur montra du doigt l’endroit où il avait combattu et raconta ce qui lui était arrivé ; ensuite il ordonna à Rehham de monter à cheval et d’aller chercher le. corps de Pirau, ajoutant :
+Cependant le Pehlewan prit la parole et tous, jeunes et vieux, l’écoutèrent avidement ; il leur montra du doigt l’endroit où il avait combattu et raconta ce qui lui était arrivé ; ensuite il ordonna à Rehham de monter à cheval et d’aller chercher le. corps de Piran, ajoutant :
 
 > Lie-le sur la selle de ton cheval, rapporte attachées avec ton lacet sa cuirasse et son armure telles qu’elles sont et ne défigure pas son visage et son corps. »
 
 Rehbam partit comme le Pehlewan l’ordonnait et s’élança vite comme le vent ; il jeta ignominieusement en travers de la selle de son cheval le corps de Piran couvert de sa cuirasse inondée de sang, il l’at-
 ’ tacha avec son lacet et le rapporta de la haute montagne.
 
-Quand les héros qui portaient haut la tête virent, de la colline où étaient plantés les drapeaux, paraître celui de Pirau, ils invoquèrent les grâces de Dieu sur le Pehlewan du monde, disant :
+Quand les héros qui portaient haut la tête virent, de la colline où étaient plantés les drapeaux, paraître celui de Piran, ils invoquèrent les grâces de Dieu sur le Pehlewan du monde, disant :
 
 > r0 illustre soutien de l’armée de l’Iran, puisse la lune être l’esclave de ta fortune !
 >
