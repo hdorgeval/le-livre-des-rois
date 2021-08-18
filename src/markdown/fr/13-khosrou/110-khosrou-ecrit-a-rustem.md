@@ -18,7 +18,7 @@ order: '110'
 
 Le roi appela un écrivain, lui parla longuement de ce qui s’était passé et lui ordonna d’écrire une lettre comme un prince en écrit à un ami.
 
-Voici la lettre .-O vaillant fils de Pehlewan, toi qui élèves la tête au-deSSus du cercle de Saturne, tu es pour KEÏ Knossos. nous un souvenir de tes ancêtres, tu es toujours ceint pour le combat ; tu es le cœur du roi de l’Iran et le soutien des Keïanides ; tu es toujours prêt à secourir les autres.
+Voici la lettre .-O vaillant fils de Pehlewan, toi qui élèves la tête au-deSSus du cercle de Saturne, tu es pour nous un souvenir de tes ancêtres, tu es toujours ceint pour le combat ; tu es le cœur du roi de l’Iran et le soutien des Keïanides ; tu es toujours prêt à secourir les autres.
 
 Le léopard te cède en bravoure, le crocodile pousse dans la mer des cris de peur quand il te voit.
 
