@@ -69,7 +69,7 @@ Il commença par prononcer des bénédictions sur le Pehlewan, disant :
 >
 > Si Afrasiab menait son armée contre nous, s’il passait avec elle le Djihoun, nos braves se jetteraient sur ses derrières et il ne lui resterait dans la main que du vent.
 >
-> Sois donc convaincu qu’il ne quittera pas, sur les instances de Pirau, son beau pays et son royaume florissant, qui fait la base de sa puissance ; qu’il ne le livrera pas à l’ennemi en se portant en avant.
+> Sois donc convaincu qu’il ne quittera pas, sur les instances de Piran, son beau pays et son royaume florissant, qui fait la base de sa puissance ; qu’il ne le livrera pas à l’ennemi en se portant en avant.
 >
 > Il ne peut pas ouvrir les lè-vres pour parler, que je n’en reçoive l’avis de jour ou de unit.
 >
