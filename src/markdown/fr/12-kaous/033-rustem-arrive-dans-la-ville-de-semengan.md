@@ -29,7 +29,7 @@ Le roi de Semengan alla au-devant de lui, à pied, entouré de la foule de ses b
 > Qu’est-il arrivé ?
 qui est-ce qui a osé se mesurer avec toi dans le combat ?
 >
-> Dans cette ville, nous sommes tous tes amis, tous debout pour attendre tes ordres et ta KEI nous. volonté.
+> Dans cette ville, nous sommes tous tes amis, tous debout pour attendre tes ordres et ta volonté.
 >
 > Tu es le maître de nos personnes et de nos trésors ; le cœur des nobles et mon âme sont à toi. »
 
