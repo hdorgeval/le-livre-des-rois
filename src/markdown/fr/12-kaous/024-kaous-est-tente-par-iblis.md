@@ -8,7 +8,7 @@ source: tome II - livre des rois - P. 31
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Kaous est tenté par Iblis et vole vers le ciel | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ['âme', 'Amol', 'Dieu', 'Div', 'Divs', 'Iblis', 'Kaous']
 order: '024'
 ---
 
