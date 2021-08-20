@@ -61,7 +61,7 @@ S’il y a des champs abandonnés, dont le maître est mort sans famille et sans
 
 Donnez de mon trésor tout’ce qu’il faudra, grâce à Dieu je n’en ai pas besoin.
 
-Et si celui qui en est chargé néglige cette besogne diffi-cile, je le ferai suspendre tout vivant au gibet, à l’endroit où il se trouvera, que ce soit un homme puissant ou un humble sujet.
+Et si celui qui en est chargé néglige cette besogne difficile, je le ferai suspendre tout vivant au gibet, à l’endroit où il se trouvera, que ce soit un homme puissant ou un humble sujet.
 
 Les hommes puissants qui autrefois étaient rois avaient en cela d’autres manières ; le bien et le mal étaient entre les mains des employés, le monde était foulé par les chevaux des cavaliers ; ils bravaient follement la raison et ne cessaient d’augmenter leurs trésors.
 
