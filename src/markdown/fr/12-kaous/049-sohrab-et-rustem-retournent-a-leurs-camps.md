@@ -38,7 +38,7 @@ Il dit à Houman :
 
 Houman lui répondit :
 
-> Ton ordre était que l’armée ne s’avancât pas.
+> Ton ordre était que l’armée ne s’avançât pas.
 >
 > Nous étions encore mal préa parés et ne faisions que d’arriver sur le champ de bataille, lorsqu’un homme s’est présenté, plein d’ardeur guerrière, se dirigeant vers cette armée nombreuse ; tu aurais dit qu’il venait de sortir ivre d’un banquet pour commencer tout seul une telle attaque.
 >
@@ -126,7 +126,7 @@ Rustem lui demanda avant tout de la nourriture, puis il déchargea son cœur de 
 
 Il parla ainsi à son frère :
 
-> Sois prudent et garde ton sangfroid.
+> Sois prudent et garde ton sang-froid.
 >
 > Demain matin, quand je me rendrai sur le champ de bataille, quand j’irai au-de-vaut de ce Turc avide de combats, amène mon armée, apporte mon étendard, mon trône et mes bottines d’or et trouve-toi devant mes tentes aussitôt que le soleil brillant paraîtra.
 >
