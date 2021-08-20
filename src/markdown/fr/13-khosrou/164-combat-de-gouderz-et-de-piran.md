@@ -28,7 +28,6 @@ Alors les Sipehdars de l’Iran et du Touran s’avance--
 rent résolûment au combat.
 
 Ils cumulèrent sous leurs pieds la surface de la terre ; leur cœur était, rempli de douleur, leur tête pleine du désir de la vengeance ; et le soleil s’arrêta pendant leur combat, étonné de la poussière qui s’élevait du champ de ba-
-KEI Knosaou.
 
 A taille.
 
@@ -84,9 +83,7 @@ Piran répondit :
 
 Gouderz se mit à faire le tour de la montagne, mais il se fatigua sans trouver de route ; alors il mit pied à terre, prit son bouclier et grimpa sur la montagne comme un chasseur, se couvrant de son bouclier, tenant en main un javelot et les yeux dirigés en haut.
 
-Pirau l’aperçut de loin ; le chef de
-
-KEl KHUSBUU. l’armée du Touran bondit sur le rocher, lança son poignard comme on lance une flèche et frappa le vieux Sipehdar au bras.
+Pirau l’aperçut de loin ; le chef de l’armée du Touran bondit sur le rocher, lança son poignard comme on lance une flèche et frappa le vieux Sipehdar au bras.
 
 Gouderz se voyant blessé à la main, se mit en fureur et voulut se venger ; il lança son javelot qui atteignit Piran, déchira la cotte de mailles qui lui couvrait la poitrine, perça la peau et pénétra jusqu’au foie.
 
