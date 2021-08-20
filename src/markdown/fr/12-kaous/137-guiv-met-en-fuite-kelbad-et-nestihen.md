@@ -44,11 +44,13 @@ Guiv se rendit, semblable à un lion, auprès de Keï Khosrou, la poitrine et le
 Sang et lui dit :
 
 > Ô roi, sois heureux, prends pour compagne la sagesse et réjouis-toi.
-
-Une armée est
+>
+> Une armée est
 -r venue nous combattre, commandée par Kelbad et par le vaillant Nestihen ; mais ceux qui survivent se a sont enfuis et doivent pleurer sur l’état de leurs poitrines et de leurs bras.
+>
+> Je ne connais que Rustem le cavalier de l’Iran qui puisse me tenir tête. »
 
-Je ne connais que Rustem le cavalier de l’Iran qui puisse me tenir têtem Khosrou à la foi pure fut réjoui de ces paroles ; il adressa beaucoup de louanges à Guiv et invoqua les grâces de Dieu sur lui.
+Khosrou à la foi pure fut réjoui de ces paroles ; il adressa beaucoup de louanges à Guiv et invoqua les grâces de Dieu sur lui.
 
 Ensuite ils mangèrent ce qu’ils purent trouver et se hâtèrent de continuer leur chemin en évitant les routesfiéquentées.
 
