@@ -69,7 +69,7 @@ En voyant les épées bleues flamboyer sous l’ombre du drapeau de Kaweh, on au
 
 Gouderz para son armée comme un paradis et planta pour son roi dans le jardin de la loyauté le cyprès de la vengeance.
 
-: 8 Il envoya les bagages avec une garde sur les derrières de l’armée ; ensuite il confia l’aile droite à F eribourz ; et Gourazeh le chef de la famille de Guiweh et Zewareh le gardien du trône des Keïanides, s’empressèrent à seconder Feribourz et disposèrent leurs troupes à côté des siennes.
+: 8 Il envoya les bagages avec une garde sur les derrières de l’armée ; ensuite il confia l’aile droite à Feribourz ; et Gourazeh le chef de la famille de Guiweh et Zewareh le gardien du trône des Keïanides, s’empressèrent à seconder Feribourz et disposèrent leurs troupes à côté des siennes.
 
 Ensuite Gouderz dit à Rehham :
 
@@ -109,7 +109,7 @@ Il appela Anderiman et Aukhast, les soutiens de la gauche et de la droite de son
 
 Lehhak le brave et Ferschidwerd formèrent l’aile droite avec trente mille autres hommes pleins de courage et la terre entière fut rendue noire par le fer qui la couvrait.
 
-Il envoya Zengouleh le vaillant, Kelhad et Sipahram le héros réservé pour le jour du danger, avec dix mille hommes de grand renom, former l’arrièregarde des cavaliers armés d’épées.
+Il envoya Zengouleh le vaillant, Kelhad et Sipahram le héros réservé pour le jour du danger, avec dix mille hommes de grand renom, former l’arrière-garde des cavaliers armés d’épées.
 
 Rouïn au corps d’airain sortit du camp avec dix mille héros du Khoten, pour se mettre avec eux en embuscade dans la forêt comme un lion, pour envoyer des vedettes sur le bord du fleuve et sur la montagne, effrayer le Sipehdar de l’Iran et le faire tremhier sur son sort, s’il dépassait le champ de bataille, car alors Rouïn devait l’attaquer par derrière comme un lion.
 
