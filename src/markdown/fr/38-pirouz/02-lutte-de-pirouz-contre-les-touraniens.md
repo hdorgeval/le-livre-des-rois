@@ -38,7 +38,7 @@ Il partit avec ses troupes, son trésor et tout ce qu’il fallait à la guerre,
 
 Or il y avait une colonne que Bahram le héros avait érigée, qu’il avait portée à une grande hauteur et sur. laquelle était écrit un traité des rois d’après lequel aucun Turc ni aucun Iranien ne devait dé-
 
-Passer cette marque de la frontière ni poser son pied au delà du fleuve (Djihoun).
+Passer cette marque de la frontière ni poser son pied au-delà du fleuve (Djihoun).
 
 Lorsque Pirouz, le vainqueur des lions, y arriva et qu’il vit cette marque établie par le roi d’Iran, il dit à l’instant aux grands :
 
