@@ -21,7 +21,7 @@ De son côté, Ardeschir était arrivé au bord de l’eau et dit à Dieu :
 > Ô toi. le secourable, tu m’as sauvé de mon ennemi ; puisse le malheur le poursuivre éternellement ! »
 
 Il se reposa ; ensuite il ap-
-, pela un batelier, avec qui ilkparla longuement des choses d’autrefois ; le vieux batelier intelligent observa la taille, les traits et la poitrine d’Ardeschir et comprit que ce ne pouvait être qu’un Keîanide ; il fut heureux de voir la dignité et la majesté de son aspect.
+, pela un batelier, avec qui ilkparla longuement des choses d’autrefois ; le vieux batelier intelligent observa la taille, les traits et la poitrine d’Ardeschir et comprit que ce ne pouvait être qu’un Keïanide ; il fut heureux de voir la dignité et la majesté de son aspect.
 
 Il s’embarque à l’instant et se mit à traverser l’eau en tous sens sur sa barque.
 
