@@ -108,7 +108,7 @@ Le sage Khosrou leur répondit :
 >
 > Je suis soucieux de ce que fait ce prince puissant, a mais le malheur de ses femmes me peine et quoiqu’il ait agi méchamment envers ma mère, pleine de vertus, je ne veux pas faire le même mal à d’autres. »
 
-Le maître du monde, ce fils de parents saints, ordonna aux femmes d’Afiasiab de rentrer dans leur demeure, en leur disant :
+Le maître du monde, ce fils de parents saints, ordonna aux femmes d’Afrasiab de rentrer dans leur demeure, en leur disant :
 
 > Ayez confiance et ne croyez pas ceux qui vous diraient de mauvaises paroles.
 >
