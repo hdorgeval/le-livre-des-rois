@@ -43,7 +43,7 @@ Ardeschir écouta ces paroles, choisit un
 
 L Le messager du roi se rendit auprès de Keïd avec les présents et les offrandes, lui répéta les paroles du roi des rois et lui dévoila tous ses secrets.
 
-Keîd lui fit des questions et devint inquiet ; ayant fait ses questions, il s’appliqua à son savoir et à son art, apporta un astrolabe et regarda les astres, prit devant lui une table astronomique indienne et observa si l’action du ciel sublime promettait du repos et des avantages, ou du chagrin et du dommage.
+Keïd lui fit des questions et devint inquiet ; ayant fait ses questions, il s’appliqua à son savoir et à son art, apporta un astrolabe et regarda les astres, prit devant lui une table astronomique indienne et observa si l’action du ciel sublime promettait du repos et des avantages, ou du chagrin et du dommage.
 
 Il dit au messager :
 
