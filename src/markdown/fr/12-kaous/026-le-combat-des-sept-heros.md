@@ -54,7 +54,7 @@ Rustem lui répondit :
 
 Tous applaudirent à ces paroles, personne ne songea à proposer un autre projet et le lendemain matin, aussitôt qu’ils furent levés de leurs couches, ils se préparèrent à cette expédition.
 
-Ils partirent avec des guépards, des faucons et du bagage, s’avançant rapidement vers la rivière de Schahd et vers les réserves de chasse du puissant Afrasiab, ayant d’un côté la montagne, de l’autre le fleuve au delà duquel était la ville de Sarakhs et devant eux le désert rempli de troupeaux de cerfs et d’argalis.
+Ils partirent avec des guépards, des faucons et du bagage, s’avançant rapidement vers la rivière de Schahd et vers les réserves de chasse du puissant Afrasiab, ayant d’un côté la montagne, de l’autre le fleuve au-delà duquel était la ville de Sarakhs et devant eux le désert rempli de troupeaux de cerfs et d’argalis.
 
 La plaine se couvrit de tentes de toutes sortes et les chasseurs furent étonnés de la multitude des cerfs.
 
@@ -66,7 +66,7 @@ Ils restèrent ainsi pendant sept jours, la coupe en main, le cœur joyeux et c�
 
 > Ô héros de grand renom, ô puissants guerriers qui portez haut la
 >
-> un nous. la tête, sans doute Afrasiab a reçu maintenant de nos nouvelles : il ne faut pas que ce méchant aux desseins funestes concerte un plan avec ses grands pleins de fierté, prépare un moyen de nous détruirc et vienne nous surprendre et rendre étroites à nos guépards les plaines on ils chassent.
+> un nous. la tête, sans doute Afrasiab a reçu maintenant de nos nouvelles : il ne faut pas que ce méchant aux desseins funestes concerte un plan avec ses grands pleins de fierté, prépare un moyen de nous détruire et vienne nous surprendre et rendre étroites à nos guépards les plaines on ils chassent.
 >
 > Il faut que nous ayons une sentinelle sur la route, qui, au premier avis qu’elle recevra, vienne nous avertir de l’approche de son armée, car nous ne devons pas nous laisser couper le chemin par l’ennemi. »
 
@@ -100,7 +100,7 @@ Rustem l’écoute, poussa des éclats de rire et lui dit :
 >
 > Comment peux-tu avoir une telle peur du roi du Touran et de la poussière que soulève son armée ?
 >
-> Ses troupes ne vont pas au delà de cent mille cavaliers maniant des rênes et montés sur des chevaux caparaçonnés.
+> Ses troupes ne vont pas au-delà de cent mille cavaliers maniant des rênes et montés sur des chevaux caparaçonnés.
 >
 > Fussé-je seul dans cette plaine avec ma massue, avec Raksch et ma A3 cuirasse, je ne me mettrais pas fort en peine d’A-
 frasiab, ni de sa grande armée, ni de son ardeur ; n’y eût-il qu’un seul de nous sur ce champ de bataille, toutes ces hordes du Touran ne suffiraient pas pour le combattre.
@@ -111,11 +111,13 @@ frasiab, ni de sa grande armée, ni de son ardeur ; n’y eût-il qu’un seul d
 >
 > Un seul de nous vaut cinq cents cavaliers illustres et pleins de fierté et deux en valent mille.
 >
-> Échansonl remplis-moi jusqu’au bord une coupe de vin du Zaboulistan. »
+> Échanson !
+>
+> Remplis-moi jusqu’au bord une coupe de vin du Zaboulistan. »
 
 L’échanson la remplit aussitôt et la lui donna.
 
-Rustem la prit et fut content ; il saisit de sa main la coupe brillante et prononça d’abord le nom de Keî
+Rustem la prit et fut content ; il saisit de sa main la coupe brillante et prononça d’abord le nom de Keï
 Kaous, disant :
 
 > Je bois à la santé du roi du monde. »
