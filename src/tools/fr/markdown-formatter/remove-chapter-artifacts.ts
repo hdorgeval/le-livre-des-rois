@@ -1061,6 +1061,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/KEl KIlOSBOU\./g, ''),
     (content: string) => content.replace(/KEl KHUSBUU\./g, ''),
     (content: string) => content.replace(/KEl Kaosuou\./g, ''),
+    (content: string) => content.replace(/DES BOlS\./g, ''),
   ].forEach((format) => {
     result = format(result);
   });
