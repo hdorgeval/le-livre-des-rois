@@ -216,7 +216,7 @@ Mais Souferaï leur dit :
 >
 > Lorsque Kohad futdevenu homme et qu’il vit que la tête de Souferaï dépassait sa couronne, il fit tuer, sur l’instigation d’hommes de mauvaise race, celui qui était le soutien de son trône.
 >
-> L’armée se révolta contre le roi Kohad et plaça Djamasp sur le trône de la justice ; on mit les fers aux pieds de Kohad, ce vaillant Keïanide, fils de Keîanide et un homme de mauvaise nature le livra à, Rezmihr, dans l’espoir qu’il se vengerait sur lui du meurtre de son père.
+> L’armée se révolta contre le roi Kohad et plaça Djamasp sur le trône de la justice ; on mit les fers aux pieds de Kohad, ce vaillant Keïanide, fils de Keïanide et un homme de mauvaise nature le livra à, Rezmihr, dans l’espoir qu’il se vengerait sur lui du meurtre de son père.
 >
 > Rezmihr regarda autour de lui et ne voyant personne digne de la couronne et du trône de la royauté, il lui ôta les fers pour qu’il pût rétablir ses affaires et revenir à la prospérité.
 >
