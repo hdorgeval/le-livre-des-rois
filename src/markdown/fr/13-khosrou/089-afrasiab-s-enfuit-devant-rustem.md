@@ -34,7 +34,7 @@ Piran dit à Afrasiab :
 >
 > La terre est pleine d’ennemis et l’air rempli de flèches.
 >
-> Nous avions réuni toutes les troupes que pouvaient fournir la terre ferme et les pays au delà de la mer, les plaines et les montagnes ;
+> Nous avions réuni toutes les troupes que pouvaient fournir la terre ferme et les pays au-delà de la mer, les plaines et les montagnes ;
 >
 > Quand les hommes n’ont pas suffi, nous avons essayé des Divs ;
 >
