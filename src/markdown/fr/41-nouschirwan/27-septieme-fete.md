@@ -48,7 +48,7 @@ L’homme intelligent répondit au roi :
 >
 > Si tu te détournes de lui en pensée, à l’instant la fortune se détournera de toi ; s’il te tient près de lui, ne deviens pas orgueilleux ; si tu es loirrde lui, ne’ fais pas le mal.
 >
-> Si le roi impose à un serviteur de la faligue, qu’il réfléchisse qu’elle
+> Si le roi impose à un serviteur de la fatigue, qu’il réfléchisse qu’elle
 >
 > est accompagnée de bons traitements et de paye ; il faut qu’il ne se dégoûte jamais du travail et qu’il se montre vaillant au combat.
 >
@@ -77,7 +77,7 @@ L’homme intelligent répondit au roi :
 > Si tu te sens de la colère dans l’âme .
 ne lui montre pas ton visage et éloigne-toi ; car, par la grâce de Dieu, il voit dans ton âme. il voit la perversité et la noirceur de ton esprit et dorénavant tu n’éprouverais plus ses bontés, tu n’entendrais plus de sa bouche des paroles amicales.
 >
-> Regarde la cour du roi comme une mer, ses serviteurs sont les mariniers, leurs talents sont les vaisseaux, la parole est l’ancre, l’intelligence est la voile et quand le sage navigue, il fortifie ses voiles, car elles le protégent et lui donnent de l’ombre.
+> Regarde la cour du roi comme une mer, ses serviteurs sont les mariniers, leurs talents sont les vaisseaux, la parole est l’ancre, l’intelligence est la voile et quand le sage navigue, il fortifie ses voiles, car elles le protègent et lui donnent de l’ombre.
 >
 > Celui chez qui le talent ne s’allie pas à l’intelligence fait mieux de ne pas s’aventurer à la cour.
 >
