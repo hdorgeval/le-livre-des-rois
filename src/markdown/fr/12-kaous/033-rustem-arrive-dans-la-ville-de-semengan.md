@@ -37,7 +37,7 @@ Lorsque Rustem entendit ces paroles, il reconnut que le roi n’avait pas de mau
 
 > Mon cheval Raksch s’est éloigné de moi dans cette prairie, sans rênes et sans mors ; les traces de ses pieds vont de la rivière et des roseaux jusqu’à Semengan.
 >
-> Si tu me le retrouves, tu en recevras mes remerclinents et tu obtiendras la ré-œcompense due à ceux qui font le bien ; mais si Rakseh ne se trouve plus, je trancherai la tête à beaucoup de grands. »
+> Si tu me le retrouves, tu en recevras mes remerciements et tu obtiendras la ré-œcompense due à ceux qui font le bien ; mais si Raksch ne se trouve plus, je trancherai la tête à beaucoup de grands. »
 
 Le roi lui répondit :
 
@@ -51,7 +51,7 @@ Le roi lui répondit :
 >
 > La trace de Raksch ne peut rester cachée, tant il est célèbre dans le monde entier.
 >
-> Nous le chercherons et te I’amènerons sans délai, ô homme plein de bravoure et d’expérience In Rustem fut. satisfait de ces paroles et il bannit. tout soupçon de son esprit ; il se décida à se rendre au palais du roi et le cœur de son hôte se réjouit de cette bonne nouvelle.
+> Nous le chercherons et te l’amènerons sans délai, ô homme plein de bravoure et d’expérience In Rustem fut. satisfait de ces paroles et il bannit tout soupçon de son esprit ; il se décida à se rendre au palais du roi et le cœur de son hôte se réjouit de cette bonne nouvelle.
 >
 > Le prince le plaça sur le trône et se tint devant lui comme un esclave.
 >
@@ -60,6 +60,6 @@ pela de la ville et de l’armée les grands et éloigna de sa vue tous ses enne
 >
 > Il ordonna aux cuisiniers d’apporter les tables et de les dresser devant les guerriers et pour conjurer le courroux de Rustem, il fit asseoir parmi les chanteurs des idoles de Tharaz aux yeux noirs et aux joues de rose, qui faisaient oublier le vin, les chansons et la musique.
 >
-> Quand Rustem fut ivre, il ivoulut se coucher, impatient de quitter le banquet.
+> Quand Rustem fut ivre, il voulut se coucher, impatient de quitter le banquet.
 >
 > Le roi lui prépara un lieu de repos et de sommeil comme il convenait et y répandit du musc et de l’eau de rose.
