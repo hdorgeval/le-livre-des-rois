@@ -65,7 +65,7 @@ Guiv lui répondit :
 >
 > Le monde a besoin de ta couronne.
 >
-> Je ne suis qu’un Pehlewan et fils d’un Phelewan ; mais qui pourrait se ceindre de la ceinture impériale si tu mourais ?
+> Je ne suis qu’un Pehlewan et fils d’un Pehlewan ; mais qui pourrait se ceindre de la ceinture impériale si tu mourais ?
 >
 > J’ai soixante et dix-huit frères, mais le monde périrait si ton nom périssait.
 >
@@ -75,6 +75,6 @@ Guiv lui répondit :
 >
 > Si je suis tué, il restera d’autres Pehlewans ; si la tête couronnée succombe, c’en est fait de la couronne.
 >
-> Si tu péris dans une captivité lointaine, je ne connais personne qui soit digne du trône et du diadème, mes sept années de peine sont perdues et le méchant Afinsiab dévastera de nouveau l’Iran.
+> Si tu péris dans une captivité lointaine, je ne connais personne qui soit digne du trône et du diadème, mes sept années de peine sont perdues et le méchant Afrasiab dévastera de nouveau l’Iran.
 >
 > Monte sur cette hauteur et observe l’armée ; Dieu le créateur m’aidera et si je suis vainqueur, ce sera par l’effet de ta fortune, car le monde ne vit que sous l’ombre de ton aile. »
