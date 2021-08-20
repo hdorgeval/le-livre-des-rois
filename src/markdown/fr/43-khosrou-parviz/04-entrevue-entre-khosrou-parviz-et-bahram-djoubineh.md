@@ -72,7 +72,7 @@ Khosrou dit :
 
 Puis, il dit à Bendouï et à Gustehem :
 
-> Je tirerai au clair cette afl’aire.
+> Je tirerai au clair cette affaire.
 >
 > Quand l’âne ne peut pas venir vers la charge, porte la lourde charge vers le dos de l’âne.
 >
@@ -250,7 +250,7 @@ Bahram lui répondit :
 
 Ton père était un pieux maître du monde et n’a jamais jeté un souffle froid sur quelqu’un ; mais tu n’a pas compris la valeur d’un pa-2l rail homme, tu l’as ignominieusement privé du trône et tu prétends être maître du monde après lui, tu prétends être un homme de raison et de sens.
 
-Mais tu es un être impur et ennemi de Dieu, dontles bienfaits se changeront en malheurs pour toi.
+Mais tu es un être impur et ennemi de Dieu, dont les bienfaits se changeront en malheurs pour toi.
 
 Même si Hormuzd n’avait pas été un roi juste et si la terre et l’époque avaient été remplies de plaintes contre lui, tu es son fils et indigne d’être roi d’Iran et d’Aniran.
 
