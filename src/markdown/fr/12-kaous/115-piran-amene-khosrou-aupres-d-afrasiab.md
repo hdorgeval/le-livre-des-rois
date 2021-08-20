@@ -42,7 +42,7 @@ Piran lui dit :
 >
 > Ses traits sont beaux et sa taille Il r) itlit est haute ; mais cette tête, qui devrait porter une couronne, est dépourvue de raison.
 >
-> Ne t’inquiète pas et ne commets pas de violence, carje te répondre de lui.
+> Ne t’inquiète pas et ne commets pas de violence, car je te répondre de lui.
 >
 > Que dit, en effet, le sage ?
 >
@@ -94,8 +94,7 @@ Il lui dit :
 
 (in.
 
-2 DES BOlS.
-
+2 
 Khosrou répondit :
 
 > Il n’y a pas de gibier et je n’ai ni arc, ni flèches, ni cordes. »
@@ -118,11 +117,11 @@ Afrasiab lui demanda :
 
 Khosrou répondit :
 
-> Un cavalier a passé la ce nuit d’avanthier auprès de moi dans la montagne et dans le désert. »
+> Un cavalier a passé la ce nuit d’avant-hier auprès de moi dans la montagne et dans le désert. »
 
 Le roi sourit et s’épanouit. comme une rose et lui dit d’une voix douce :
 
-> Ne veuxtu pas apprendre à écrire ?
+> Ne veux-tu pas apprendre à écrire ?
 >
 > N’as-tu pas envie de te ven nger de tes ennemis ? »
 
