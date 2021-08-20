@@ -16,7 +16,7 @@ order: '121'
 
 # Faramourz tue Warazad, roi de Sipendjab
 
-Un jeune guerrier, Faramourz, fils de Rustem, commandait l’avantsgarde ; il s’avança jusqu’à la frontière du Touran, où une vedette de l’ennemi le vit sur la route.
+Un jeune guerrier, Faramourz, fils de Rustem, commandait l’avant-garde ; il s’avança jusqu’à la frontière du Touran, où une vedette de l’ennemi le vit sur la route.
 
 Or il y avait alors un roi de Sipendjab dont le nom était Warazad et qui brillait au milieu des héros comme une perle d’une belle eau.
 
@@ -28,7 +28,7 @@ Il avait avec lui trente mille hommes armés d’épées, tous cavaliers illustr
 
 Warazad sortit du centre de l’armée, s’avança rapidement vers Faramourz et lui dit :
 
-> Qui estu, dis-moi ?
+> Qui es-tu, dis-moi ?
 >
 > Pourquoi viens-tu dans ce pays ?
 >
@@ -69,4 +69,4 @@ Ensuite, il écrivit une lettre à son père sur le sort de Warazad qui avait é
 
 > J’ai ouvert la porte de la vengeance et de la guerre, j’ai enlevé Warrazad de la selle de peau de léopard, je lui ai tran-3 : .
 >
-> ché la tête pour venger Siawusch, j’ai déVasté par le feu son royaume. »
+> ché la tête pour venger Siawusch, j’ai dévasté par le feu son royaume. »
