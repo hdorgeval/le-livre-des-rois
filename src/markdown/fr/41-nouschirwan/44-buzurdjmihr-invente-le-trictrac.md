@@ -65,7 +65,7 @@ Lorsque le soleil commença à briller du haut du ciel, Buzurdjmihr quitta la co
 
 Arrivé de l’Iran chez le Radja, avec le Brahmane, son joyeux guide, il se présenta devant le trône du prince et aperçut son visage, son diadème et sa fortune ; il le salua longuement en pehlevi, lui remit la lettre et lui répéta le message du roi des rois.
 
-La joue du Badja de l’Indc s’épanouit comme une fleur et le guide indien raconta tout ce qui siérait passé quant aux échecs et à la peine qu’on avait eue à en
+La joue du Badja de l’Inde s’épanouit comme une fleur et le guide indien raconta tout ce qui siérait passé quant aux échecs et à la peine qu’on avait eue à en
 
 3l6 DES BOIS ; trouver la règle.
 
