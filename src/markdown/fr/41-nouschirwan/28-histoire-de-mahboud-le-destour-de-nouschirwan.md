@@ -46,10 +46,9 @@ Il était intelligent et droit dans ses intentions, ne cherchait dans le monde q
 
 Le nom de cet honnête homme était Mahboud, son esprit et son cœur étaient remplis de paroles douces.
 
-Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou ou quand il demandait à un Mobed le barsom.
+Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou quand il demandait à un Mobed le barsom.
 
-Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a !
-
+Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a ! 
 H
 deux jeunes gens illustres et purs portaient les mets chez le roi.
 
@@ -81,7 +80,7 @@ Le Juif répondit à Zerwan :
 
 > Ne te chagrine pas à cause de ce pouvoir.
 >
-> Quand le roi maltre du monde saisit le barzom, alors inspecte les plats qu’on apporte et observe s’il y a du lait dedans ; va au-devant de celui qui’les porte et flaire les mets.
+> Quand le roi maître du monde saisit le barzom, alors inspecte les plats qu’on apporte et observe s’il y a du lait dedans ; va au-devant de celui qui les porte et flaire les mets.
 >
 > Il suffit que j’aperçoive du lait, de si loin que ce soit, pour que tu ne revoies plus en vie ni Mahboud ni ses fils.
 >
@@ -115,7 +114,7 @@ Ensuite, il dit au chambellan :
 
 Les deux jeunes gens intelligents et à l’esprit ouvert placèrent la table devant Nouschirwan, mais derrière eux arriva Zerwan, rapidement comme la poussière et dit au roi des hommes libres :
 
-> Ô roià l’étoile fortunée, distributeur de la justice !
+> Ô roi à l’étoile fortunée, distributeur de la justice !
 >
 > Ne porte pas la main à ces mets sans les avoir fait goûter.
 >
@@ -136,8 +135,8 @@ Les jeunes gens, dans leur innocence et leur droiture, replièrent les manches s
 >
 > Il le maudit, il maudit la femme qui avait préparé les mets ; il ne laissa en vie personne dans le palais de Mahboud et peu de membres de sa famille survécurent.
 >
-> Le roi livra au pillage toutes ses richesses, ses’femmes, ses enfants et ses trésors accumulés.
+> Le roi livra au pillage toutes ses richesses, ses femmes, ses enfants et ses trésors accumulés.
 >
 > C’est ainsi que Zerwan atteignit l’objet de tous ses désirs et pendant un temps il jouit à cette cour d’une haute renommée.
 >
-> Il tenait en grand honneur le Juif et élevait sa tête jusqu’aux nues sublimes et c’est ainsi que le ciel continua à tourner pendant quevla droiture avait voilé sa face devant le roi.
+> Il tenait en grand honneur le Juif et élevait sa tête jusqu’aux nues sublimes et c’est ainsi que le ciel continua à tourner pendant que la droiture avait voilé sa face devant le roi.
