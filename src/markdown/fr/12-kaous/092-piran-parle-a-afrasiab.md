@@ -67,7 +67,7 @@ Il m’a dit :
 >
 > Pourquoi donc me faudrait-il planter de mes propres mains un arbre dont le fruit serait du poison et la racine du venin ?
 >
-> La race de Kaous et celle d’Af’rasiab sont comme la flamme ardente méléeavec les vagues de la mer.
+> La race de Kaous et celle d’Afrasiab sont comme la flamme ardente méléeavec les vagues de la mer.
 >
 > Je ne sais si ce !
 >
