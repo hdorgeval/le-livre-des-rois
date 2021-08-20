@@ -71,7 +71,7 @@ Le roi se mordit les lèvres et jeta un regard sombre surles grands ; ensuite il
 >
 > Jamais je n’aurais cru que les Iraniens reculeraient devant cette guerre.
 >
-> Je ne vois dans l’armée de l’Iran que Ilustem, mon ami, le héros au cœur droit, qui se hâte d’accepter le combat lorsque Afrasiab le fourbe nous l’oll’re. »
+> Je ne vois dans l’armée de l’Iran que Rustem, mon ami, le héros au cœur droit, qui se hâte d’accepter le combat lorsque Afrasiab le fourbe nous l’oll’re. »
 
 ’
 Quand les Iraniens entendirent ces paroles du roi, ils se repentirent de leur faute ; ils tâchèrent de s’excuser, en disant :
