@@ -54,7 +54,7 @@ Le roi éclata soudain en injures contre lui et remplit de terreur le cœur de l
 
 Aussitôt que Khosrou eut reçu cette réponse, il mit en marche son armée et le maître du monde arriva fièrement dans le pays de Khoten, accompagné d’une armée glorieuse.
 
-Le Faghfour et le Khakan de la Chine allèrent au-devant de lui pour lui offrir leurs excuses et leurs hommages ; ils s’avancèrent vers lui à trois stations au delà de la frontière de la Chine. eux et leurs grands ; toute la route était aplanie t comme la main et les vallées et le désert étaient ornés comme une résidence royale.
+Le Faghfour et le Khakan de la Chine allèrent au-devant de lui pour lui offrir leurs excuses et leurs hommages ; ils s’avancèrent vers lui à trois stations au-delà de la frontière de la Chine. eux et leurs grands ; toute la route était aplanie t comme la main et les vallées et le désert étaient ornés comme une résidence royale.
 
 Partout sur la route étaient préparés des vêtements et des vivres. apprêtés des festins et étendus des lapis.
 
