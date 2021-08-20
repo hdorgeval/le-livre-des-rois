@@ -28,7 +28,7 @@ Personne dans l’Iran ne peut lui résister,
 
 Si ce n’est toi qui seul peux ternir sa gloire.
 
-Sache qu’il n’y a au monde que toiqui puisses donner aide en toutes choses.
+Sache qu’il n’y a au monde que toi qui puisses donner aide en toutes choses.
 
 Tu es le cœur et le soutien des braves de l’Iran, tu as les griffes et la force d’un lion ; tu as conquis le pays de Mazenderan, tu as brisé nos chaînes dans le Hamaveran ; le soleil pleure dans la crainte de ta massue et l’étoile du matin se consume dans la crainte de ton épée.
 
@@ -82,7 +82,7 @@ Moi-même j’ai un fils de la fille du roi de Semengan, mais il est encore peti
 
 Ce noble enfant ne sait pas encore qu’il faut se battre et qu’il le faut bon gré, mal gré.
 
-Je lui ai envoyé de l’or et beaucoup de joyaux par la main d’un messager qui les a remis à sa mère et qui m’a rapporté que cet enfant illustre allait bientôt devenir un homme, qu’il buvait du vin avec ses lèvres qui sentent enCore le lait, que sans doute il serait un jour homme de guerre et abattrait beaucoup de braves quand le temps lui aurait donné des bras de lion.
+Je lui ai envoyé de l’or et beaucoup de joyaux par la main d’un messager qui les a remis à sa mère et qui m’a rapporté que cet enfant illustre allait bientôt devenir un homme, qu’il buvait du vin avec ses lèvres qui sentent encore le lait, que sans doute il serait un jour homme de guerre et abattrait beaucoup de braves quand le temps lui aurait donné des bras de lion.
 
 Mais ce que tu me dis, ô Pehlewan, de celui qui est venu combattre les Iraniens, qui a jeté à bas de son cheval Hedjir et l’a lié de la tête aux pieds avec son lacet, cela ne peut pas être l’œuvre de ce lionceau, quelque brave et quelque vaillant qu’il soit devenu.
 
@@ -141,8 +141,8 @@ Mais le quatrième jour, Guiv fit ses préparatifs de départ et dit au héros, 
 >
 > Le roi de l’Iran sera courroucé contre nous et dans sa fureur cherchera à se venger. »
 
-Rustem lui ré- se pondit : Ne te mets pas en peine de cela, car personne au monde n’osera se fâcher contre nous. »
+Rustem lui rése pondit : Ne te mets pas en peine de cela, car personne au monde n’osera se fâcher contre nous. »
 
-Ensuite, il ordonna qu’on sellât Raksch et fit sonner les trompettes d’airain ; les cavaliers du Zaboulistan entendirent le son des trompettes et se mirent en marche couverts de casquas et de cuirasses.
+Ensuite, il ordonna qu’on sellât Raksch et fit sonner les trompettes d’airain ; les cavaliers du Zaboulistan entendirent le son des trompettes et se mirent en marche couverts de casques et de cuirasses.
 
 Rustem mit en ordre cette armée nombreuse et nomma Zewareh Pehlewan de ses troupes.
