@@ -18,7 +18,7 @@ order: '127'
 
 Rustem se rendit. dans le Touran et s’avança jusqu’à la mer de la Chine.
 
-Les chefs et les braves de tous les pays se présentèrent devant le Pehlewan du monde ; Rustem s’assit sur le trône royal et la fortune d’At’rasiab disparut.
+Les chefs et les braves de tous les pays se présentèrent devant le Pehlewan du monde ; Rustem s’assit sur le trône royal et la fortune d’Afrasiab disparut.
 
 Rustem dit à cette occasion :
 
