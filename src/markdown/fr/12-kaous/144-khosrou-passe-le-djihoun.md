@@ -44,7 +44,7 @@ Il descendit de son cheval rapide et se jeta le visage contre terre en gémissan
 
 > Tu es mon soutien et mon asile, tu m’as guidé vers la justice, ce que j’éprouve de bonheur et de malheur vient de ta grâce, l’esprit et l’intelligence sont l’ombre de tes ailes. »
 
-Il dit et remonta sur son cheval noir, le visage resplendissant c0mme l’étoile du matin.
+Il dit et remonta sur son cheval noir, le visage resplendissant comme l’étoile du matin.
 
 Il poussa son cheval noir dans la rivière, la traversa comme une barque et atteignit le péage de la rive opposée.
 
