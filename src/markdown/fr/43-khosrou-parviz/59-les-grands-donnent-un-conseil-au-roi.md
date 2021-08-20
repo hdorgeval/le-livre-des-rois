@@ -36,7 +36,9 @@ Le Mobed, voyant cela, se leva et dit à Khosrou :
 >
 > N’y a-t-il donc pas une autre femme dans l’Iran qui aurait pu plaire au roi ?
 >
-> Si Schirin n’était pas dans l’appartement de ses femmes, le roi serait le bienvenu partout. lamais tes ancêtres, ces hommes sages et droits, n’ont eu à raconter une aventure pareille. »
+> Si Schirin n’était pas dans l’appartement de ses femmes, le roi serait le bienvenu partout.
+>
+> Jamais tes ancêtres, ces hommes sages et droits, n’ont eu à raconter une aventure pareille. »
 
 Le Mobed s’étendit longuement sur tout cela, mais le roi des rois ne donna aucune réponse, alors le Mobed dit :
 
