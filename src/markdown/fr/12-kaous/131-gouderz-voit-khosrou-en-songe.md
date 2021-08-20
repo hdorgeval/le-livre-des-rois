@@ -26,7 +26,7 @@ Il vit un nuage chargé d’eau, qui descendait sur l’Iran ; sur ce nuage plan
 >
 > C’est un prince issu de Siawusch ; il est brave, de race illustre et porte haut la tête.
 >
-> Il descend de Keîkobad du câtéde son père et de Tour du côté de sa mère.
+> Il descend de Keïkobad du câtéde son père et de Tour du côté de sa mère.
 >
 > Quand son pied, qui porte bonheur, aura touché le pays d’Iran, le ciel lui accordera tout ce qu’il demandera.
 >
