@@ -64,7 +64,7 @@ Quand Khosrou eut entendu ses paroles, il ne sutà quoi se résoudre ; il courut
 >
 > Qu’y faire ?
 >
-> Quel rernède y apporter ?
+> Quel remède y apporter ?
 >
 > La sagesse nous fournirait peut-être un moyen de sauver notre vie. »
 
