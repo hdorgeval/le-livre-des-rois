@@ -33,7 +33,7 @@ Quand le roi du Touran eut entendu ces paroles, il répondit :
 Plus de mille cavaliers, avides de com-
 . bats, sortirent avec lui des rangs, tous armés de lances meurtrières, tous brillants comme l’étoile du matin et comme Ormuzd.
 
-Lorsqu’il s’approcha de l’armée de l’Iran, le soleil et la lune étaient voilés par la poussière ; mais il aperçut Zewareh qui cherchait un ennemi à combattre et se dirigea vers lui croyant que c’était Hustem, car il reconnut que c’é-5l tait quelqu’un de la race de Neriman.
+Lorsqu’il s’approcha de l’armée de l’Iran, le soleil et la lune étaient voilés par la poussière ; mais il aperçut Zewareh qui cherchait un ennemi à combattre et se dirigea vers lui croyant que c’était Rustem, car il reconnut que c’é-5l tait quelqu’un de la race de Neriman.
 
 Zewareh, de son côté, s’élance vers lui armé d’une lance et semblable à un lion terrible ; mais Alkous, armé aussi d’une lance, brisa celle de Zewareh et le fit trem-, bler devant lui.
 
