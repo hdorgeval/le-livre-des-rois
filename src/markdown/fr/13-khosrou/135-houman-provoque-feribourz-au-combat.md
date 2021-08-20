@@ -26,7 +26,7 @@ Il poussa un cri et dit :
 >
 > Tu es né prince et tu es devenu un subordonné ; tu devrais te ceindre comme un esclave.
 >
-> Tu es le frère du noble Siawusch et de plus grande naissance que ton chef ; moi je suis de la famille de Tour, roi de Tourau et peut-être de plus noble race que toi-même.
+> Tu es le frère du noble Siawusch et de plus grande naissance que ton chef ; moi je suis de la famille de Tour, roi de Touran et peut-être de plus noble race que toi-même.
 >
 > Il faut maintenant que tu viennes m’affronter sur le champ de bataille à la vue de l’armée ; tu es digne de combattre, prépare-toi donc au combat ; et quand tu te seras avancé contre moi, ton nom s’élèvera jusqu’au soleil brillant.
 >
