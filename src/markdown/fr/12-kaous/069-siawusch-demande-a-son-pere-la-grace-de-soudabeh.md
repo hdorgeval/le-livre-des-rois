@@ -78,7 +78,7 @@ Siawusch baisa le trône du roi, se leva et sortit de l’assemblée ; il ramena
 
 Toutes les femmes coururent à sa rencontre et l’une après l’autre lui offrirent leurs hommages.
 
-Quelque temps se passa ainsi et le roi s’attacha à elle plus ardemment que jamais ; il fut tellement rempli d’amour pour elle, qu’il ne détournait pas les yeux de son visage et elle dirigea de nouveau en secret ses enchantements sur le roi, pour préparer des malheurs à Siawusch, comme on devait s’y altendre de sa vile nature.
+Quelque temps se passa ainsi et le roi s’attacha à elle plus ardemment que jamais ; il fut tellement rempli d’amour pour elle, qu’il ne détournait pas les yeux de son visage et elle dirigea de nouveau en secret ses enchantements sur le roi, pour préparer des malheurs à Siawusch, comme on devait s’y attendre de sa vile nature.
 
 Ses paroles excitèrent dans l’esprit du roi des soupçons contre son fils, mais il n’en laissa rien voir à personne.
 
