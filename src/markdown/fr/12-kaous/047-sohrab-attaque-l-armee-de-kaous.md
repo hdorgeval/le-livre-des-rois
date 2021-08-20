@@ -69,7 +69,7 @@ Il ordonna qu’on sellât Raksch et dit à ses cavaliers de rider leurs fronts 
 
 > Hâte-toi, hâte-toi ! »
 
-Rehham qui bou- "à clait la barde sur le poitrail du cheval et Thous qui s’occupait des caparaçons, pendant qu’ils se disaient l’un à l’autre : Vite !
+Rehham qui bou-"à clait la barde sur le poitrail du cheval et Thous qui s’occupait des caparaçons, pendant qu’ils se disaient l’un à l’autre : Vite !
 
 Vitel»
 
