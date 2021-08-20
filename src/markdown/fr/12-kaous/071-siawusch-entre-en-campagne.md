@@ -25,7 +25,7 @@ Le roi choisit parmi les cavaliers renommés douze mille guerriers pleins d’ar
 
 Ensuite, il choisit douze mille fantassins armés de boucliers et ,propres au combat, tous fils de héros, braves, prudents et hommes libres, tous de la stature et de l’âge de Siawusch, tous pleins de sens, de circonspection et de discrétion.
 
-Parmi eux se trouvaient des chefs de haut renom, cOmme Bahman et Zengueh, fils de Schaweran.
+Parmi eux se trouvaient des chefs de haut renom, comme Bahman et Zengueh, fils de Schaweran.
 
 Enfin le roi choisit parmi les Iraniens cinq Mobeds qui devaient porter l’étendard de Kaweh.
 
