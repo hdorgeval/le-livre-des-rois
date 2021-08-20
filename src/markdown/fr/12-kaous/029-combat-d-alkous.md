@@ -22,7 +22,7 @@ Afrasiab observait tout et voyant ce qui se passait, il exhala un soupir de sa p
 >
 > Où est donc maintenant son ardeur et son arrogance ? »
 
-Alkous apprit ce que le roi venait de dire et les paroles que le maître du Touran venait de prononcer ; il poussa son cheval noir, et, les mains lavées dans le sang (n’en doute pas), il courut vers le centre de l’armée et vers Afrasiab, en criant àhaute voix :
+Alkous apprit ce que le roi venait de dire et les paroles que le maître du Touran venait de prononcer ; il poussa son cheval noir, et, les mains lavées dans le sang (n’en doute pas), il courut vers le centre de l’armée et vers Afrasiab, en criant à haute voix :
 
 > Je suis un brave ; je suis un lion qui a du courage et qui en même temps sait attendre ; et si le roi l’ordonne, je me jetterai tout seul dans cette mêlée. »
 
