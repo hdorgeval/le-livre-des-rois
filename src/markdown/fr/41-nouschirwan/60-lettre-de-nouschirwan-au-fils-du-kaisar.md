@@ -84,7 +84,7 @@ Le jeune homme a écrit à chaque administrateur et à chaque prinœ indépendan
 ’
 Quand ils eurent terminé leur lettre roumis, ils appelèrent l’envoyé à la cour.
 
-Quand est homme Ml sage entendit qu’ils avaient terminé leurs conseils, il vint à la cour et demanda une réponse à la lettre ; on le revêtit d’une robe d’honneur, on fit sortir de la salle d’audience les’étrangers et le Kaîsar lui dit :
+Quand est homme Ml sage entendit qu’ils avaient terminé leurs conseils, il vint à la cour et demanda une réponse à la lettre ; on le revêtit d’une robe d’honneur, on fit sortir de la salle d’audience les étrangers et le Kaîsar lui dit :
 
 > !
 >
