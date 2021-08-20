@@ -42,7 +42,7 @@ J’enverrai de mon côté une lettre au roi pour qu’il accepte la paix et rap
 
 > Guersiwez expédia sur-le-champ un cavalier rapide comme le vent et lui dit :
 
-> Ne laisse pas surprendre ta tête par le sommeil, va en toute hâte auprès d’AI’rasiab ; dis-lui que nous avons fait diligence et que nous avons obtenu tout ce qu’il désirait, mais que Siawusch lui demande des otages si l’on veut qu’il renonce à la guerre. »
+> Ne laisse pas surprendre ta tête par le sommeil, va en toute hâte auprès d’Afrasiab ; dis-lui que nous avons fait diligence et que nous avons obtenu tout ce qu’il désirait, mais que Siawusch lui demande des otages si l’on veut qu’il renonce à la guerre. »
 
 Le cavalier arriva auprès d’Afrasiab et s’acquitte du message de Siawusch et du glorieux Guersiwez.
 
