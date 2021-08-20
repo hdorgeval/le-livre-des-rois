@@ -59,7 +59,7 @@ Zal lui adressa ses hommages à plusieurs reprises, disant :
 >
 > Puisse ta royauté durer éternellement par tes victoires, par ta bravoure, par ta bonté et ta sagesse !
 >
-> Tu as parcouru le monde pour y répandre la justice ; maintenant, à ton retour, jouis de ta vic-toire.
+> Tu as parcouru le monde pour y répandre la justice ; maintenant, à ton retour, jouis de ta victoire.
 >
 > Quel est le roi qui ne soit pas de la poussière sous tes pas, quel est le poison que ton nom ne guérisse pas ?
 >
