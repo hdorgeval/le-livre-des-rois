@@ -31,7 +31,7 @@ Il expliqua toute l’afi’aire dans la lettre et l’envoya accompagnée de be
 
 Pirouz lut la lettre et se mit en colère contre ce roi illustre ; il dit au messager :
 
-> Lève-toi et retourne auprès de cet homme vil ; dis-lui que Bahram vous a envoyé un écrit dans lequel il fixe la frontière au delà du fleuve de Terek et maintenant tu occupes tout jusqu’au Djihoun, tout est à toi, les hauteurs et les basfonds.
+> Lève-toi et retourne auprès de cet homme vil ; dis-lui que Bahram vous a envoyé un écrit dans lequel il fixe la frontière au-delà du fleuve de Terek et maintenant tu occupes tout jusqu’au Djihoun, tout est à toi, les hauteurs et les basfonds.
 >
 > J’arrive et j’amène une grande armée’ de héros fiers et prêts au combat et je ne laisserai pas longtemps sur la surface de la terre même l’ombre de Khouschnewaz. »
 
@@ -65,7 +65,7 @@ Il dit au messager :
 
 > Un homme âgé et qui connaîtrait le monde ne parlerait pas ainsi.
 >
-> Dis-lui que, s’il avance un seul pied de Djadj et au delà du fleuve, je lui enverrai, pour le saluer, des pointes de -lances. »
+> Dis-lui que, s’il avance un seul pied de Djadj et au-delà du fleuve, je lui enverrai, pour le saluer, des pointes de -lances. »
 
 Le messager s’en retourna chez Khouschnewaz et lui parla longtemps en secret, disant :
 
