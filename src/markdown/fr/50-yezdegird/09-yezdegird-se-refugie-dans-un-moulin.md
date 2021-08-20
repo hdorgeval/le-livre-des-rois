@@ -300,7 +300,7 @@ Un homme sage répondit alors à Mahouî :
 >
 > Ou le roi d’Iran sera ton ennemi et il en résultera un dommage certain pour toi ; ou ta main versera son sang et Dieu se chargera de le venger ici-bas.
 >
-> De toutes parts je ne vois que peines, tourments et afilictions ; réfléchis donc mûrement à ce que tu dois faire. »
+> De toutes parts je ne vois que peines, tourments et afflictions ; réfléchis donc mûrement à ce que tu dois faire. »
 
 Mais le fils de Mahouî, prenant la parole, dit :
 
