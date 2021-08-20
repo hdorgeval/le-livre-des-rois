@@ -37,7 +37,7 @@ Tout le monde donna des avis du même genre et il ne se passa pas beaucoup de jo
 Ferrukhzad alla à la rencontre de Tokhar, accompagné de beau-
 coup de troupes ; ils descendirent de cheval ensemble et causèrent longuement en public et en secret.
 
-Fer. rukhzad se mità parler et à exposer les maux qu’avait causés Khosrou, puis il ajouta :
+Fer. rukhzad se mit à parler et à exposer les maux qu’avait causés Khosrou, puis il ajouta :
 
 > L’armée veut rétablir la royauté par sa valeur et son intelligence. »
 
