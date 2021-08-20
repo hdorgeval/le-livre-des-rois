@@ -34,7 +34,7 @@ Sohrab le guerrier l’aperçut-, tira aussitôt l’épée du combat et s’él
 >
 > Qui es-tu ?
 >
-> Quel est ton nom et ta nais sauce ?
+> Quel est ton nom et ta naissance ?
 >
 > Car ta mère aura à pleurer sur toi. »
 
@@ -42,17 +42,18 @@ Hedjir lui répondit :
 
 > Je n’ai pas besoin de beaucoup de compagnons pour te combattre ; je suis Hedjir le brave, le chef de l’armée et maintenant je vais te séparer la tête du tronc et l’envoyer au roi du monde pendant que les vautours dévoreront ton corps. »
 
-Sohrab sourit. lorsque ces bravades frappè-rent son oreille, il courut rapidement sur Hedjir et ils lancèrent javelot sur javelot si vite qu’on ne ponvait distinguer ces armes l’une de l’autre.
+Sohrab sourit. lorsque ces bravades frappèrent son oreille, il courut rapidement sur Hedjir et ils lancèrent javelot sur javelot si vite qu’on ne pouvait distinguer ces armes l’une de l’autre.
 
-Sohrab, dont la force égalait celle d’un éléphant, s’élance comme la flamme et fit bondir son cheval de guerre comme une montagne qui s’ébranle. 
+Sohrab, dont la force égalait celle d’un éléphant, s’élance comme la flamme et fit bondir son cheval de guerre comme une montagne qui s’ébranle.
+
 Hedjirpl’atteignit
 
 Au milieu du corps avec une lance, mais la pointe ne pénétra pas et Sohrab le lion retourna la lance, frappa Hedjir de la hampe au milieu du corps et le fit tomber de la selle aussi vite que le vent, car il ne faisait aucun cas de lui ; il le jeta sur la terre comme un quartier de roche et la terreur remplit l’âme et le cœur de Hedjir.
 
 Sohrab sauta de cheval, s’accroupit à côté de lui et allait lui séparer la tête du corps ; Hedjir se tordit, se retourna vers la droite et dans son angoisse lui demanda pardon.
 
-Sohrab retira sa main, lui fit grâce de la vie et content de sa vic-toire, lui donna beaucoup de conseils.
+Sohrab retira sa main, lui fit grâce de la vie et content de sa victoire, lui donna beaucoup de conseils.
 
 Ensuite, il le lia avec des cordes et l’envoya auprès de Houman.
 
-Lorsqu’on sut dans le châtéau que Hedjir avait été pris et emmené captif . on entendit un grand bruit et des lamentations d’hommes et de femmes criant que Hedjir avait disparu au milieu des ennemis.
+Lorsqu’on sut dans le château que Hedjir avait été pris et emmené captif . on entendit un grand bruit et des lamentations d’hommes et de femmes criant que Hedjir avait disparu au milieu des ennemis.
