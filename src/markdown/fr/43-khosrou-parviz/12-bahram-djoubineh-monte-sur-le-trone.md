@@ -43,7 +43,7 @@ Ensuite Bahram dit aux Iraniens :
 
 > Il y a au milieu de nous de la lutte et des haines.
 >
-> Ceux qui n’approuvent pas ce qui se fait, qu’ils soient pervers ou honnêtes, ne doivent pas rester dans l’Iran plus de trois jours ; ils partiront le quatrième jour, aussitôt que le soleil qui éclaire le monde aura paru, pour rejoindre Khosrou ; ils ne pourront plus se reposer dans ce pays et si l’un d’eux demeure au delà [de ce jour dans l’Iran, il ne lui restera pas beaucoup de temps à vivre. »
+> Ceux qui n’approuvent pas ce qui se fait, qu’ils soient pervers ou honnêtes, ne doivent pas rester dans l’Iran plus de trois jours ; ils partiront le quatrième jour, aussitôt que le soleil qui éclaire le monde aura paru, pour rejoindre Khosrou ; ils ne pourront plus se reposer dans ce pays et si l’un d’eux demeure au-delà [de ce jour dans l’Iran, il ne lui restera pas beaucoup de temps à vivre. »
 
 On l’acclama roi et l’on disait :
 
