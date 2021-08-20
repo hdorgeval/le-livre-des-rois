@@ -42,7 +42,7 @@ Le roi, tourmenté parles soucis, ordonna au trésorier . d’apporter du tréso
 
 Il les envoya au sage et lui fit dire :
 
-> Il faut oublier toutes les peines que tu as éprouvées ; la rolationdu ciel au-dessus de nous a voulu que tu eusses à soufl’rir du mal de ma part, mais ta langue m’a exaspéré et tu as sévi contre toiménie.
+> Il faut oublier toutes les peines que tu as éprouvées ; la rolationdu ciel au-dessus de nous a voulu que tu eusses à souffrir du mal de ma part, mais ta langue m’a exaspéré et tu as sévi contre toiménie.
 >
 > Maintenant il m’arrive me affaire urgente et mon vieux cœur en est blessé.
 >
