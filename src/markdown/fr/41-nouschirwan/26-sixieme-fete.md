@@ -98,7 +98,7 @@ Il répondit :
 >
 > Si tu as à . combattre, sois prudent, gare-toi des coups de l’en.-nemi ; quand tes ennemis forment leur rangs, garde
 >
-> ta prudence et ton sangfroid ; quand tu vois un combattant en face de toi, ne pâlis pas ; tu vaincras en attaquant ; mais si tu montres de la mollesse, ta tête sera abaissée ; quand tu lances ton cheval, l’ais attention, prends garde aux armes de ton adversaire et s’il devient impétueux, ne te détourne pas de lui.
+> ta prudence et ton sang-froid ; quand tu vois un combattant en face de toi, ne pâlis pas ; tu vaincras en attaquant ; mais si tu montres de la mollesse, ta tête sera abaissée ; quand tu lances ton cheval, l’ais attention, prends garde aux armes de ton adversaire et s’il devient impétueux, ne te détourne pas de lui.
 >
 > Choisis dans le combat des camarades prudents et si tu n’es pas assez fort pour lutter contre un ennemi, ne l’essaye pas, car ce que veut la prudence, c’est qu’on revienne en vie d’un combat. »
 
