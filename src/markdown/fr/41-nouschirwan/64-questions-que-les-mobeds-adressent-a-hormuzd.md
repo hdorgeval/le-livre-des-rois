@@ -170,6 +170,6 @@ Le sage a dit :
 >
 > Que le monde bénisse le roi, que toutes les langues ne parlent que selon ses ordres, que son noble cœur soit heureux et recherche la vérité !
 >
-> N Kesra, le roi du monde, resta étonné et répandit sur son fils beaucoup de bénédictions dignes d’un Keîanide ; tente l’assemblée était heureuse de ses paroles et l’âme du roi était délivrée de ses soucis On écrivit par ordre du roi un acte par lequel il donnait à Hormuzd le trône et la couronne ; ony appliqua un sceau en musc, lorsque le vent eut séché le papier de Chine et on le remit au Grand Mobed, en présence des grands et des sages à l’esprit éveillé, qui portaient haut la tête.
+> N Kesra, le roi du monde, resta étonné et répandit sur son fils beaucoup de bénédictions dignes d’un Keïanide ; tente l’assemblée était heureuse de ses paroles et l’âme du roi était délivrée de ses soucis On écrivit par ordre du roi un acte par lequel il donnait à Hormuzd le trône et la couronne ; ony appliqua un sceau en musc, lorsque le vent eut séché le papier de Chine et on le remit au Grand Mobed, en présence des grands et des sages à l’esprit éveillé, qui portaient haut la tête.
 >
 > J’ai mis en vers cet acte de Nouschirwan, par l’ordre du victorieux mi du monde.
