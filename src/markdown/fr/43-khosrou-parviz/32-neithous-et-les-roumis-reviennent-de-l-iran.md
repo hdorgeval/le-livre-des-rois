@@ -52,7 +52,7 @@ Il lit venir un scribe et son Mobed et conseiller, un homme ingénieux.
 
 Ils écrivirent des diplômes pour
 
-Les Iraniens, selon les usages des Grands rois, favoris de la fortune et Bendouî, l’homme expérimenté, noble et de bon conseil, dirigea cette afl’aire.
+Les Iraniens, selon les usages des Grands rois, favoris de la fortune et Bendouî, l’homme expérimenté, noble et de bon conseil, dirigea cette affaire.
 
 Khosrou assigna tout le Khorasan à Gustehem et lui ordonna d’y rétablir les coutumes et la justice.
 
