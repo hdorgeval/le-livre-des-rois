@@ -51,7 +51,7 @@ Le farouche Four lut la lettre et éclata en colère contre le roi illustre ; il
 >
 > Tu as pu vaincre Dara, parce que le ciel qui tourne en était læ et parce qu’une race que la fortune abandonne ne suit plus les conseils des sages.
 >
-> Ensuite la lutte avec Keîd n’a été qu’un jeu et tu crois maintenant que les rois sont ta proie.
+> Ensuite la lutte avec Keïd n’a été qu’un jeu et tu crois maintenant que les rois sont ta proie.
 >
 > Jamais les Keïanides des temps an-’ tiques ne nous ont adressé de telles lettres et de telles paroles.
 >
