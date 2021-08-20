@@ -80,7 +80,7 @@ Son cœur se brisait à l’idée de mon départ ; elle m’attacha un onyx au b
 
 Rustem ouvrit l’armure et vit l’onyx ; il déchira sur son corps tous ses vêtements et s’écria :
 
-> Ô toi que j’ai tué de ma main, toiqui es glorieux en tout pays et chez tous les peuples ! »
+> Ô toi que j’ai tué de ma main, toi qui es glorieux en tout pays et chez tous les peuples ! »
 
 Il poussa des cris, s’arrache les cheveux, se couvrit la tête de poussière et inonda ses joues de larmes.
 
@@ -131,7 +131,7 @@ Il faudrait alors, en masse, frapper un grand coup et ne jamais plus reparaître
 >
 > Je voyais les signes que ma mère m’avait indiqués, mais je n’en
 >
-> KEI mon s. croyais pas mes yeux.
+> croyais pas mes yeux.
 >
 > Mon sort était écrit au-des-
 sus de ma tête et je devais mourir de la main de mon père.
@@ -214,4 +214,4 @@ Bus,-tem saisit un poignard pour séparer de son corps sa vile tête ; les grand
 >
 > Chacun n’a-t-il pas à pleurer sur lui-même ?
 >
-> Que le chemin que doitfaire la Mort en nous poursuivant soit long ou court, nous sommes perdus aussitôt qu’elle nous rejoint sur la route. »
+> Que le chemin que doit faire la Mort en nous poursuivant soit long ou court, nous sommes perdus aussitôt qu’elle nous rejoint sur la route. »
