@@ -24,7 +24,7 @@ Le Sipehbed tremblait dans son doux sommeil et Gulschehr au visage de soleil se 
 
 Piran lui dit :
 
-> Lèveetoi et entre doucement chez Ferenguis, car j’ai vu en rêve Siawusch plus brillant que le disque du soleil dans le ciel et il m’a dit :
+> Lève-toi et entre doucement chez Ferenguis, car j’ai vu en rêve Siawusch plus brillant que le disque du soleil dans le ciel et il m’a dit :
 
 > Pourquoi dors-tu ?
 >
@@ -49,7 +49,7 @@ Le Sipehbed alla voir le jeune roi et rendit des grâces abondantes à Dieu de c
 
 Il versa des larmes au souvenir de Siawusch et maudit Afrasiab, ensuite il dit à l’illustre assemblée :
 
-> Quand je devrais y sacrifler ma vie, je ne permettrai pas à Afrasiab de le toucher, dût-il me livrer aux griffes des crocodiles. »
+> Quand je devrais y sacrifier ma vie, je ne permettrai pas à Afrasiab de le toucher, dût-il me livrer aux griffes des crocodiles. »
 
 Aussitôt que le soleil eut montré ses rayons et que le sombre nuage de la nuit eut disparu, le Pehlewan de l’armée se réveilla et se rendit en toute hâte au-
 près du roi.
@@ -59,7 +59,7 @@ Il y resta jusqu’à ce que l’assemblée se fût retirée, alors il s’appro
 > Ô prince qui ressembles au soleil !
 ô maître du monde, roi vigilant et expert dans les arts magiques !
 >
-> Il t’est né cette nuit dans mon palais un nouvel esclave, tu dirais qu’il est formé de miel ; il n’y a pas d’enfant aussi beau que lui dans le monde, tu dirais que c’est une lune dans un bercean ; et si Tour revenait à la vie, il serait envieux de la mine et du visage de cet enfant.
+> Il t’est né cette nuit dans mon palais un nouvel esclave, tu dirais qu’il est formé de miel ; il n’y a pas d’enfant aussi beau que lui dans le monde, tu dirais que c’est une lune dans un berceau ; et si Tour revenait à la vie, il serait envieux de la mine et du visage de cet enfant.
 >
 > Jamais on n’a vu dans le palais une peinture belle comme lui et la majesté du roi s’est rajeunie dans son petit-fils.
 >
