@@ -48,7 +48,7 @@ Où sont les provinces et tes armées nombreuses, ô toi qui es maintenant dans 
 
 Houm entendit ’ces plaintes faites en langue turque ; il abandonna ses prières et ’quitta ce lieu en disant :
 
-> Ces lamentations au milieu de la nuit ne peuvent être que les cris d’Afrasiah. »
+> Ces lamentations au milieu de la nuit ne peuvent être que les cris d’Afrasiab. »
 
 Cette pensée se fortifia en lui ; il chercha pendant quelque temps l’entrée de la caverne obscure, monta sur la montagne pendant le temps du sommeil, découvrit l’ouverture de l’antre d’Afrasiab, arriva comme un lion furieux, se dépouilla bravement de son froc, saisit le lacet qu’il portait en guise de cordon et qui lui assurait la protection du maître du monde et entra dans la caverne.
 
