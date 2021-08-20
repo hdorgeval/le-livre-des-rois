@@ -61,7 +61,7 @@ Kaous resta confondu et dévora la honte dont les grands et les braves le couvri
 
 Il versa de ses yeux des larmes de fiel et adressa beaucoup de prières au Créateur ; ensuite il se revêtit de ses armes et entra dans une litière, accablé de repentir et de douleur.
 
-Arrivé à son palais et devant son trône élevé, il resta sous le poids de ce qui s’était passé ; pendant quarante jours il se tint devant Dieu respectueusement, mesurant la terre de son corps et laissant vide son trône ; dans sa’honte, il n’osait sortir de son palais ; tu aurais dit qu’il userait toute sa peau.
+Arrivé à son palais et devant son trône élevé, il resta sous le poids de ce qui s’était passé ; pendant quarante jours il se tint devant Dieu respectueusement, mesurant la terre de son corps et laissant vide son trône ; dans sa honte, il n’osait sortir de son palais ; tu aurais dit qu’il userait toute sa peau.
 
 Il versait des larmes de sang en priant et en demandant pardon à Dieu le guide.
 
