@@ -29,7 +29,7 @@ Le roi était au centre, ayant d’un côté son précepteur bienveillant ; à c
 
 Devant et derrière se mouvaient des fantassins destinés à venir en aide aux autres dans le combat et si l’un d’eux traversait jusqu’à l’autre bord le champ de bataille, il se plaçaità côté du roi comme le précepteur.
 
-Celui-ci ne s’avançait jamais dans le combat de plus d’une case au delà du roi ; l’éléphant qui portait haut la tête parcourait trois cases et observait tout le champ de bataille, jusqu’à la distance de deux milles ; le dromadaire, de même, pouvait s’avancer detrois cases en se démenant sur le champ de bataille ; le cheval aussi allait jusqu’à la troisième case, dont une était écartée de sa route directe.
+Celui-ci ne s’avançait jamais dans le combat de plus d’une case au-delà du roi ; l’éléphant qui portait haut la tête parcourait trois cases et observait tout le champ de bataille, jusqu’à la distance de deux milles ; le dromadaire, de même, pouvait s’avancer detrois cases en se démenant sur le champ de bataille ; le cheval aussi allait jusqu’à la troisième case, dont une était écartée de sa route directe.
 
 Personne n’osait combattre en face le roc, car il pouvait traverser tout le tableau.
 
