@@ -40,7 +40,7 @@ Quand je serai mort, vous déposerez mon corps dans la terre de Misr et ne négl
 
 Si Rouscbenek met au monde un fils, il perpétuera la gloire de son père et il ne faut pas qu’un autre que lui soit roi de Roum, car il fera fleurir ce pays ; mais si, à l’heure de son angoisse, elle met au monde une fille, mariela au fils de Pheïlekous, à qui tu donneras le titre de mon fils et non pas de mon gendre et par lequel tu tiendras fraîche ma mémoire dans le monde.
 
-Vous renverrez la. fille de Keîd à son père, bono-.
+Vous renverrez la. fille de Keïd à son père, bono-.
 rablement et en toute sécurité ; vous lui donnerez des caisses d’or et ses esclaves qui l’aiment, vous lui préparerez une litière pour la route et quand elle voudra partir, vous renverrez avec elle dans ce l’Inde les diadèmes, les joyaux, l’argent et l’or qu’elle a apportés de chez son père.
 
 J’ai conduit ici à bonne fin toutes les affaires et maintenant il ne me reste plus qu’à m’occuper de ma mort.
