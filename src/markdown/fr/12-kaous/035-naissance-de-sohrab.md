@@ -40,7 +40,7 @@ Sa mère lui répondit :
 >
 > Tu es fils de Rustem, du héros au corps d’éléphant ; tu es issu de la famille de Sam le Destan et de Neriman et ta tête est plus haute que le ciel, parce que tu descends de cette race illustre.
 >
-> Depuis que Dieu a créé le monde, il n’a pas paru un cavalier tel que Rustem ; jamais il n’y a en sur la terre un homme tel que Sam fils de Neriman, dontle ciel dans sa rotation n’ose atteindre la tête. »
+> Depuis que Dieu a créé le monde, il n’a pas paru un cavalier tel que Rustem ; jamais il n’y a en sur la terre un homme tel que Sam fils de Neriman, dont le ciel dans sa rotation n’ose atteindre la tête. »
 
 Puis elle apporta une lettre de Rustem le guerrier et lui montra en secret trois rubis brillants et trois bedrehs d’or que Rustem, dans le temps où Sohrab naquit, avait envoyés du pays d’Iran, en les accompagnant d’un message.
 
