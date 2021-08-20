@@ -68,7 +68,7 @@ Le terrible Guiv, le puissant Pehlewan, chef des braves, poussa un cri de rage e
 >
 > Seul même comme je suis, je vais rendre le monde noir devant tes yeux avec cette épée brillante ; et si je laisse en vie un seul homme de cette armée, ne m’appelle plus jamais un brave.
 >
-> J’emmènerai Khosrou le roi des r0is,je le conduirai devant le roi des braves, le placerai sur l’illustre trône (l’ivoire,
+> J’emmènerai Khosrou le roi des rois,je le conduirai devant le roi des braves, le placerai sur l’illustre trône (l’ivoire,
 >
 > [
 je poserai sur sa tête la couronne qui réjouit les cœurs ; ensuite je me revêtirai de ma noble cuirasse et convertirai le pays de Touran en un repaire de lions.
