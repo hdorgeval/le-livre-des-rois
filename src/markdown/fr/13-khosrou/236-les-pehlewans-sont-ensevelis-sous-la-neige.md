@@ -56,7 +56,7 @@ Pendant quelque temps ils piétinèrent ; sous la neige et for--mèrent un trou 
 
 Cependant Rustem resta dans la montagne avec Zal, Gouderz et quelques cavaliers ; ils y passèrent trois jours en pleurant ; le quatrième, lorsque le soleil qui éclaire le monde se leva, ils dirent :
 
-> Cette afl’aire est bien longue ; voici déjà quelque temps que nous restons dans ces montagnes et ces rochers.
+> Cette affaire est bien longue ; voici déjà quelque temps que nous restons dans ces montagnes et ces rochers.
 >
 > Si le roi a disparu de la terre lorsque le vent du ciel s’est déchaîné, où sont donc allés les antres grands ?
 >
