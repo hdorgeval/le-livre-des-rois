@@ -62,4 +62,4 @@ Il arriva devant le trône du roi Kaous, couvertde poussière depuis la tête ju
 >
 > Dorénavant je consacrerai à venger Siawusch mon cœur et ma tête et aussi longtemps que je vivrai.
 >
-> Je ne combattrai plus qu’en versant des larmes, je ferai soufl’rir le monde comme je souffre moi-même. »
+> Je ne combattrai plus qu’en versant des larmes, je ferai souffrir le monde comme je souffre moi-même. »
