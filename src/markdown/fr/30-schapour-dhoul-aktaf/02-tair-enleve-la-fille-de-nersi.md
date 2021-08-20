@@ -16,7 +16,7 @@ order: '002'
 
 # Thaïr l'arabe enlève la fille de Nersi
 
-Lorsque quelque temps se fut passé ainsi et que la couronne qui illuminait le monde fut dans toute sa splendeur, Thaîr le Ghassanien, au cœur de lion, dont l’épée aurait inspiré du courage au ciel, arriva près de Thisifoun avec une armée d’hommes du Roum, du Farsistan, de Bahreïn, du Kurdistan et de Kadessia, une armée au delà de toute mesure et de tout nombre.
+Lorsque quelque temps se fut passé ainsi et que la couronne qui illuminait le monde fut dans toute sa splendeur, Thaîr le Ghassanien, au cœur de lion, dont l’épée aurait inspiré du courage au ciel, arriva près de Thisifoun avec une armée d’hommes du Roum, du Farsistan, de Bahreïn, du Kurdistan et de Kadessia, une armée au-delà de toute mesure et de tout nombre.
 
 Il dévasta tout ce pays.
 
