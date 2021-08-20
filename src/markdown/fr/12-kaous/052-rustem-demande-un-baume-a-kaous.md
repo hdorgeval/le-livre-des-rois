@@ -48,7 +48,7 @@ Tu as entendu comment Rustem a dit :
 >
 > Encore pourtant est-il roi : mais qu’est-ce que Thous ?
 >
-> Qui estce qui contrebalancera dans le monde un homme qui a cette poitrine et cette force, ces bras et ces pieds ?
+> Qui est-ce qui contrebalancera dans le monde un homme qui a cette poitrine et cette force, ces bras et ces pieds ?
 >
 > Comment se tiendrait-il humblement devant mon trône, comment marcherait-il sous mon aigle royal, lui qui m’a défié avec tant d’injures, qui m’a déshonoré à la face de mon armée ?
 >
