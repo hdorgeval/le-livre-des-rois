@@ -16,7 +16,7 @@ order: '198'
 
 # Lettre de Keï Khosrou à Kaous pour lui annoncer sa victoire
 
-Khosrou appela celui qui écrivait ses lettres, lui dit tout ce qui était nécessaire et composa une lettre pour Keï Kaous sur le Tourau et ce qui s’était passé avec l’armée des Turcs.
+Khosrou appela celui qui écrivait ses lettres, lui dit tout ce qui était nécessaire et composa une lettre pour Keï Kaous sur le Touran et ce qui s’était passé avec l’armée des Turcs.
 
 Il commença par les louanges de Dieu, qui a délivré la terre de ses maux, réveillé l’astre endormi de l’empire d’une manière si éclatante et abaissé les têtes des magiciens ; de qui vient tout pouvoir, toute sagesse, toute justice, qui réjouit le cœur de ceux qui ont été opprimés dans le monde.
 
