@@ -41,7 +41,7 @@ De toutes parts arrivèrent des messagers pour porter des nouvelles au Pehlewan.
 
 Gouderz regarda qui d’entre les vaillants héros se trouvait autour de lui et vit que son noble fils, Hedjir le lion terrible, se tenait derrière lui, armé de l’arc et de l’épée.
 
-Il lui ordonna de se rendre à l’arrièregarde auprès de Guiv fils de Gouderz, l’asile de l’armée et de lui dire d’envoyer deux corps d’armée au secours des troupes qui tenaient les bords du fleuve et la montagne ; il lui ordonna d’ajouter qu’il fallait choisir un vaillant héros pour commander l’arrièregarde, lui remettre le commandement et venir lui-même auprès de Gouderz.
+Il lui ordonna de se rendre à l’arrière-garde auprès de Guiv fils de Gouderz, l’asile de l’armée et de lui dire d’envoyer deux corps d’armée au secours des troupes qui tenaient les bords du fleuve et la montagne ; il lui ordonna d’ajouter qu’il fallait choisir un vaillant héros pour commander l’arrièregarde, lui remettre le commandement et venir lui-même auprès de Gouderz.
 
 I ü3l Aussitôt que le prudent Hedjir, qui était armé pour le combat, eut entendu ces paroles de son noble père, il courut vers son frère et lui rapporta les paroles du Pehlewan.
 
