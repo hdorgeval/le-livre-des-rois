@@ -474,7 +474,15 @@
       "Berberistan",
       "Berbers",
       "Kaf",
-      "Zereh"
+      "Zereh",
+      "Saheh",
+      "Rhandi",
+      "Kaschmir",
+      "Zem",
+      "Kerkesars",
+      "Sejestani",
+      "Ghouri",
+      "Nischapour"
     ]
   },
   "hiddenFalsePositives": {
@@ -1374,6 +1382,54 @@
       {
         "rule": "QUI_VCONJ",
         "sentence": "^\\QVous tous qui êtes dans cette assemblée, qui avez entendu ce que j'ai dit à haute voix, comprenez-le, faites attention à chaque point et la fortune vous accompagnera toujours.\\E$"
+      },
+      {
+        "rule": "ETRE_VPPA_OU_ADJ",
+        "sentence": "^\\QOr il y avait dans ce pays un rocher dont la cime s'élevait jusqu'aux nues et qui du fond de la mer montait jusqu'au firmament ; sur ce rocher était bâtie une forteresse ; tu aurais dit qu'elle embrassait le ciel :\\E$"
+      },
+      {
+        "rule": "ETRE_VPPA_OU_ADJ",
+        "sentence": "^\\QOr il y avait dans ce pays un rocher dont la cime s'élevait jusqu'aux nues et qui du fond de la mer montait jusqu'au firmament ; sur ce rocher était bâtie une forteresse ; tu aurais dit qu'elle embrassait le ciel : c'est là que le roi envoya Kaous et Guiv, Gouderz et Thous et qu'il jeta le reste des grands dans les fers avec le roi.\\E$"
+      },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QTu dois avoir appris des grands de ta cour comment j'ai fait la guerre dans le Mazenderan, comment j'ai combattu Poulad fils de Rhandi et Bid et ce que j'ai fait du Div blanc.\\E$"
+      },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QJ'ai vu que c'était un insensé et un compagnon du Div ; aussi sa réponse est-elle inconvenante, car Ahriman a rempli sa tête de fumée.\\E$"
+      },
+      {
+        "rule": "VOIRE_MEME",
+        "sentence": "^\\QEn même temps Afrasiab prétendit à ton trône ; puisse ce, méchant ne jamais le voir même en songe !\\E$"
+      },
+      {
+        "rule": "FAIRE_VPPA",
+        "sentence": "^\\QJe suis venu préparé au combat, j'élève l'étendard impérial.\\E$"
+      },
+      {
+        "rule": "J_N",
+        "sentence": "^\\QFrappez les héros avec la lance et avec l'épée, abattez tous les guerriers de Kaous et surtout faites prisonnier, à force de bravoure, Rustem le Sejestani au cœur de lion, devant l'épée duquel tremble la voûte du ciel ; enveloppez sa tête du lacet de la destruction.\\E$"
+      },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QIl faudrait qu'un Div rusé, qui connût les coutumes et les voies du palais, s'approchât de Kaous et détournât son âme du vrai chemin, pour délivrer ainsi les Divs de leurs peines, pour éloigner l'esprit du roi de Dieu le\\E$"
+      },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QIl faudrait qu'un Div rusé, qui connût les coutumes et les voies du palais, s'approchât de Kaous et détournât son âme du vrai chemin, pour délivrer ainsi les Divs de leurs peines, pour éloigner l'esprit du roi de Dieu le tout pur et pour répandre de la poussière sur sa gloire resplendissante.\\E$"
+      },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QÀ la fin, un Div plein de méchanceté se leva en disant :\\E$"
+      },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QLe cœur du roi fut détourné du vrai chemin par le Div ; son esprit succomba à ses pensées et il ne cessa de songer que le ciel qui tourne ne lui avait jamais refusé ses faveurs.\\E$"
+      },
+      {
+        "rule": "ADRESSER_UN_PROBLEME",
+        "sentence": "^\\QL'esprit du roi s'occupa continuellement des moyens de s'élever sans ailes dans les airs ; il adressa beaucoup de questions aux savants sur la distance qui est entre la terre et le ciel de la lune.\\E$"
       }
     ]
   }
