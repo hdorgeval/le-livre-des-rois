@@ -75,7 +75,7 @@ Vitel»
 
 Rustem entendant ces voix de sa tente, dit en lui-même :
 
-> C’est donc ici un combat contre un Abriman, car toute cette lerreur ne peut avoir été produite par un homme ! »
+> C’est donc ici un combat contre un Ahriman, car toute cette lerreur ne peut avoir été produite par un homme ! »
 
 Il se hâta de mettre sa cuirasse de peau de léopard, se ceignit de sa ceinture royale, monta sur Raksch et partit.
 
