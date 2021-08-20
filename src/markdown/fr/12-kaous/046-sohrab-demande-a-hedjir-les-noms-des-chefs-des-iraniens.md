@@ -176,7 +176,6 @@ Si tu attaches ton cœur à ce monde passager, tu n’y trouveras que poison, pe
 
 Sohrab fit encore une fois des questions à
 
-
 Hedjir sur l’homme qu’il désirait tant de voir, sur cette enceinte verte et ce cheval puissant, sur ce brave et son lacet roulé.
 
 Mais le Sipehbed Hedjir lui répondit :
@@ -209,7 +208,7 @@ J’ai fait aujourd’hui un pacte avec toi, que je te rappelle, car je suis un 
 
 Si tu me montres le Pehlewan, je te ferai porter la
 
-Tète plus haut que tout le peuple, je te rendrai riche dans ce monde au delà de les besoins, je t’ouvrirai les trésors des grands.
+Tète plus haut que tout le peuple, je te rendrai riche dans ce monde au-delà de les besoins, je t’ouvrirai les trésors des grands.
 
 Mais si tu me caches ce que je te demande, si tu me voiles la vérité que tu connais, je te séparerai la tête du tronc.
 
