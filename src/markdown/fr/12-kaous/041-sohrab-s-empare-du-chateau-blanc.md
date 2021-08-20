@@ -16,11 +16,11 @@ order: '041'
 
 # Sohrab s'empare du château blanc
 
-Aussitôt’que le soleil se fut levé au-dessus des montagnes, l’armée du Touran se ceignit pour le combat et le Sipehdar Sohrab saisissant sa lance, monta sur un destrier rapide.
+Aussitôt que le soleil se fut levé au-dessus des montagnes, l’armée du Touran se ceignit pour le combat et le Sipehdar Sohrab saisissant sa lance, monta sur un destrier rapide.
 
 Son dessein était de prendre tous les braves dans la forteresse et de les lier comme un troupeau.
 
-Mais en attaquant le chateau il ne vit personne ; il poussa un cri comme un lion furieux et s’approcha de la porte ; on la lui ouvrit, mais aucun homme armé ne se montrait dans le château.
+Mais en attaquant le château il ne vit personne ; il poussa un cri comme un lion furieux et s’approcha de la porte ; on la lui ouvrit, mais aucun homme armé ne se montrait dans le château.
 
 Les cavaliers et les braves étaient partis dans la nuit avec le châtelain, car il y avait sous le château un chemin que l’ennemi ne connaissait pas.
 
@@ -40,7 +40,7 @@ Tous les chefs de l’armée, grands et petits, tels que Thous, Gouderz fils de 
 
 Ensuite, il leur dit en secret :
 
-> D’après le message de Guzdehem, qui remplit nos cœurs de soucjs, cette affaire ne sera pas facile à terminer.
+> D’après le message de Guzdehem, qui remplit nos cœurs de soucis, cette affaire ne sera pas facile à terminer.
 >
 > Que ferons-nous ?
 >
