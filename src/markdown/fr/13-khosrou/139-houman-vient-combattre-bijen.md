@@ -64,9 +64,7 @@ Ils convinrent alors qu’ils n’attaqueraient pas sans sujet les truchements e
 
 Étant convenus de cela, les vaillants cavaliers mirent pied à terre, boutonnèrent les caparaçons de mailles et les attachèrent fortement sur leurs destriers.
 
-Les deux guerriers sellèrent leurs chevaux aux pieds de vent ; et l’âme pleine de ro-
-
-KEl Kaosuou. se] lère, le cœur rempli de haine, ils préparèrent leurs arcs soigneusement et s’élancèrent sur le champ de bataille.
+Les deux guerriers sellèrent leurs chevaux aux pieds de vent ; et l’âme pleine de ro- se] lère, le cœur rempli de haine, ils préparèrent leurs arcs soigneusement et s’élancèrent sur le champ de bataille.
 
 Ils placèrent les flèches à pointe d’acier et tendirent les arcs jusqu’à ce que les deux bouts se touchassent ; ayant épuisé leurs flèches, ils saisirent à l’instant les lances, manièrent la bride pour tourner à droite et à gauche et leurs cuirasses tombè-rent bientôt en morceaux sous les coups de leurs lances brillantes : Nous allons voir à qui manquèrent les forces et qui trahit la fortune.
 
@@ -92,4 +90,4 @@ Leur bouche était desséchée, leur corps inondé de sueur par la fatigue et pa
 
 Ils finirent d’un commun accord par se rendre en courant à un réservoir d’eau ; Bijen but et se levant avec peine, s’adressa à Dieu le dispensateur de tout bien, le corps tremblant de fatigue, comme la branche du saule tremble au moindre vent et le cœur désespérant de sa douce vie ; il dit à Dieu :
 
-> Ô Créateur, tu sais ce que j’ai fait en secret et en public ; si tu vois que ma cause est juste, que le droit est pour moi dans ce combat et dans les ellorts que nous faisons, ne m’enlève pas aujourd’hui mes atomes et conserve-moi mon sangfroid."
+> Ô Créateur, tu sais ce que j’ai fait en secret et en public ; si tu vois que ma cause est juste, que le droit est pour moi dans ce combat et dans les ellorts que nous faisons, ne m’enlève pas aujourd’hui mes atomes et conserve-moi mon sang-froid."
