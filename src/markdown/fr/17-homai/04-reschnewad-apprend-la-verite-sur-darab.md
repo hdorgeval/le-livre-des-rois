@@ -61,7 +61,7 @@ I Quand le chef de l’armée de la reine vit ce miracle, il regarda Darab de la
 
 > Voici une merveille qui me confond :
 
-> on ne peut rien concevoir au delà »
+> on ne peut rien concevoir au-delà »
 
 Il partit à l’instant avec lui pour son campement, disant :
 
