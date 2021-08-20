@@ -57,7 +57,7 @@ Puis, il écrivit en pehlewi une lettre en caractères royaux et à la manière 
 >
 > Je ne m’écarterai en rien de ce que j’ai dit, ni dans les grandes choses ni dans les petites.
 >
-> Tout ce que je t’ai déclaré est convenu et mon cœur, mon étoile et Dieu, le toutsaint, m’en sont témoins et toi de ton côté ne retarde pas l’accomplissement de les promesses, car mon séjour dans cette ville s’est trop prolongé. »
+> Tout ce que je t’ai déclaré est convenu et mon cœur, mon étoile et Dieu, le tout-saint, m’en sont témoins et toi de ton côté ne retarde pas l’accomplissement de les promesses, car mon séjour dans cette ville s’est trop prolongé. »
 
 \*
 Ayant énoncé tout cela et de cette façon, il remit la lettre à Khourschid, fils de Kharrad et le Sipeha hed, monté sur un chaval pie, quitta ce lieu rapidement comme le vent ; il courut jusque chez le Kaisar et lui communiqua le message de Khosrou.
