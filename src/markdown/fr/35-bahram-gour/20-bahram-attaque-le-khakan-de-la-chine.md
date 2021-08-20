@@ -32,7 +32,7 @@ Il partit de là et atteignit Gourgan, souffrant des peines et des douleurs qu�
 De Gourgan il entra dans le pays de Nissa, précédé d’un guide fidèle ; il traversa les montagnes, les déserts et les lieux où il n’y avait pas de route et marchant aux heures indues de la nuit jusqu’au matin ; le jour il établissait ’
 des vedettes et la nuit sombre il avait des gardiens du camp.
 
-Il avança ainsi jusqu’auprès de Merv, plus vite que ne vole le faisan à tire-d’aile ; là il trouva un de ses espions qui lui dit que le Khakan négligeait ses affaires de roi, qu’il était occupé à chasser à Keschmihen et que jour et nuit Abriman était son conseiller.
+Il avança ainsi jusqu’auprès de Merv, plus vite que ne vole le faisan à tire-d’aile ; là il trouva un de ses espions qui lui dit que le Khakan négligeait ses affaires de roi, qu’il était occupé à chasser à Keschmihen et que jour et nuit Ahriman était son conseiller.
 
 Bahram fut réjoui de ces nouvelles et oublia toutes ses fatigues.
 
