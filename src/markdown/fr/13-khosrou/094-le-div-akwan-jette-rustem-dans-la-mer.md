@@ -96,7 +96,7 @@ Rustem marchait ainsi cherchant du gibier, lorsqu’il vit devant lui une prairi
 
 Le gardien du troupeau de chevaux d’Afrasiab dormait dans le bois et Raksch courait comme un Div parmi les cavales en hennissant au milieu du troupeau.
 
-Aussitôt que Rustem l’aperçut, il jeta son lacet de Keîanide, prit sa tête dans le nœud, essuya la poussière qui le couvrait, lui mit la selle et rendit grâce à Dieu le secourable ;
+Aussitôt que Rustem l’aperçut, il jeta son lacet de Keïanide, prit sa tête dans le nœud, essuya la poussière qui le couvrait, lui mit la selle et rendit grâce à Dieu le secourable ;
 
 Il lui jeta la bride sur le cou, monta dessus, posa la main sur la garde de son épée tranchante et se mit à pousser devant lui tout le troupeau en invoquant le nom de Dieu sur son épée.
 
