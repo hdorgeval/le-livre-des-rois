@@ -25,7 +25,7 @@ Ensuite le vaillant Sohrab dit à sa mère :
 La mère écouta les paroles de son fils et levant la tête jusqu’au soleil, elle ordonna au gardien des chevaux d’amener sans délai toutes les juments, pour que Sohrab choisît un cheval sur lequel il pût s’asseoir en allant à la guerre.
 
 De tous les côtés où
-il y avait des troupeaux de chevaux, qu’ils fussent dispersés sur les montagnes ou dans les plaines, on les amena dans la ville ; et Sohrab au cœur de lion prenant un lacet, alla bravement en jeter le nœud sur le cou de chaque cheval qui le frappait par sa vigueur ; puis il lui mettait la main sur le dos pour l’épreuver et le. faisait ployer jusqu’à ce que son ventre touchât à terre.
+il y avait des troupeaux de chevaux, qu’ils fussent dispersés sur les montagnes ou dans les plaines, on les amena dans la ville ; et Sohrab au cœur de lion prenant un lacet, alla bravement en jeter le nœud sur le cou de chaque cheval qui le frappait par sa vigueur ; puis il lui mettait la main sur le dos pour l’éprouver et le. faisait ployer jusqu’à ce que son ventre touchât à terre.
 
 Il courba ainsi beaucoup de bons chevaux par la force de sa main sans en trouver un qui pût lui convenir.
 
@@ -58,6 +58,6 @@ Il dit et rentrant au palais, il se prépara à la guerre contre les Iraniens ; 
 
 Sohrab se présenta devant son grand-père et le pria de lui donner aide et conseil pour qu’il pût aller dans le pays d’Iran, pour qu’il pût voir son glorieux père.
 
-Lorsque le roi de Semengan le vit si brave, il lui donna des trésors de toute espèce, des couronnes et des trônes, des casques et des ceintures, des chevaux et des cha- (sa meaux, de l’or et des joyaux, des cuirasses pour le combat et des armes de guerre ; car il était en admiration devant cet enfant à peine sevré.
+Lorsque le roi de Semengan le vit si brave, il lui donna des trésors de toute espèce, des couronnes et des trônes, des casques et des ceintures, des chevaux et des cha-(sa meaux, de l’or et des joyaux, des cuirasses pour le combat et des armes de guerre ; car il était en admiration devant cet enfant à peine sevré.
 
 Il ouvrit la main de la justice et de la générosité et l’investit de tous les insignes et de tous les honneurs de la royauté.
