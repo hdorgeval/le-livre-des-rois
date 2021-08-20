@@ -93,7 +93,7 @@ Le roi écouta les paroles chaleureuses que les héros chinois prononçaient d�
 >
 > veut contracter une amitié avec moi.
 >
-> Tout homme qui a de l’intelligence dans l’âme doit faire ses afl’aires avec les yeux de l’intelligence ; je vais m’y appliquer et prendre une résolution qui nous portera bonheur ; je vais répondre a tout ce qu’il dit, mais il faut que le"Khakan agisse de bonne foi dans son choix.
+> Tout homme qui a de l’intelligence dans l’âme doit faire ses affaires avec les yeux de l’intelligence ; je vais m’y appliquer et prendre une résolution qui nous portera bonheur ; je vais répondre a tout ce qu’il dit, mais il faut que le"Khakan agisse de bonne foi dans son choix.
 >
 > J’envorrai un homme de sens qui passera en revue toutes les filles du Khakan, choisira la plus illustre et la plus chère à son père et s’assurera que la mère était issue de famille royale et d’une naissance égale à celle du père.
 >
