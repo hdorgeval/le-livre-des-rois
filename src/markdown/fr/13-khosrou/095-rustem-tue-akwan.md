@@ -78,7 +78,7 @@ Rustem rendit grâce à Dieu qui lui avait accordé la victoire au jour du comba
 >
 > Parle toujours de préférence de choses héroïques.
 >
-> Que distu, ô mon vieux maître, qui as supporté la chaleur et le froid de la vie ?
+> Que dis-tu, ô mon vieux maître, qui as supporté la chaleur et le froid de la vie ?
 >
 > Qui sait combien de hauts et de bas renferme une longue vie ?
 >
