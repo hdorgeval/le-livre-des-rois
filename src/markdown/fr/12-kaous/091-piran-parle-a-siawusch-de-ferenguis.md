@@ -28,7 +28,7 @@ Un jour le prudent Piran dit à Siawusch :
 >
 > Ses vertus et sa sagesse sont incomparables et elle commande à l’intelligence comme à une esclave.
 >
-> Si tu la demandes à Afrasiah, il t’accordera cette femme qui n’a pas son égale dans le Kaschmir et dans le Kaboul ; et quand le roi illustre sera ton allié, ta gloire et ta dignité brilleront d’un nouvel éclat.
+> Si tu la demandes à Afrasiab, il t’accordera cette femme qui n’a pas son égale dans le Kaschmir et dans le Kaboul ; et quand le roi illustre sera ton allié, ta gloire et ta dignité brilleront d’un nouvel éclat.
 >
 > Si tu le permets, je la demanderai au roi et mon crédit auprès de lui s’en accroîtra. »
 
