@@ -119,7 +119,7 @@ Bendouî répondit :
 
 > Le roi, maître du monde, te fait dire : Je suis très-souffrant des fatigues de la route, mes cavaliers sont tous blessés, endoloris et épuisés par cette longue marche et je me suis arrêté à cette maison de pénitents avec cinq compagnons.
 >
-> Aussitôt que paraîtra la blanche aube du jour, j’écarterai de mon cœur tout espoir dans les afl’aires du monde et j’irai avec toi faire cette longue route jusqu’auprès de Bahram, qui porte haut la tête.
+> Aussitôt que paraîtra la blanche aube du jour, j’écarterai de mon cœur tout espoir dans les affaires du monde et j’irai avec toi faire cette longue route jusqu’auprès de Bahram, qui porte haut la tête.
 >
 > Je ne demanderai pas un plus long délai que celui que j’ai indiqué, si le ciel se montre secourable.
 >
