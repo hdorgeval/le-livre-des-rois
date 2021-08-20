@@ -375,7 +375,7 @@ Tu brûles les yeux du roi du monde ; comment chose pareille pourrait-elle reste
 
 Tous tes amis sont réellement tes ennemis ; en paroles, ils sont avec toi, dans leur cœur ils sont avec moi.
 
-Le Khakan me soutient dans cette entreprise et de même toute l’armée qui occupe le pays entre l’Iran et la Chine ; carje suis un homme juste et tendre, j’ai une épée et une main et aucun ennemi ne me vaincra.
+Le Khakan me soutient dans cette entreprise et de même toute l’armée qui occupe le pays entre l’Iran et la Chine ; car je suis un homme juste et tendre, j’ai une épée et une main et aucun ennemi ne me vaincra.
 
 Je transplanterai le siégé du pouvoir du Farsistan à Reî, jeme laisserai pas même subsister le nom des Keïanides ; je ferai fleurir la justice dans le monde entier, je relèverai les coutumes de Milad.
 
