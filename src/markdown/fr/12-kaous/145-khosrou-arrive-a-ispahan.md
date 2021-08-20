@@ -50,7 +50,7 @@ Les hommes, dans leur joie, préparèrent des fêtes et dans chaque maison on de
 
 La nouvelle du retour victorieux de Guiv qui illuminait le monde arriva dans le Nimrouz et Rustem distribua de l’or aux pauvres, pour remercier le ciel de ce que ce lion n’avait pas éprouvé de malheur.
 
-A ,Insuite il envoya Banougouschasp qui ressemblait à Aderguschasp, pour porter à Guiv des présents,accompagnée de douze cents grands de haut renom.Il lui donna un trône, de pesantes couronnes et trois cent soixante esclaves, dont chacun portait à la main une coupe d’or.
+A ,Ensuite, il envoya Banougouschasp qui ressemblait à Aderguschasp, pour porter à Guiv des présents,accompagnée de douze cents grands de haut renom.Il lui donna un trône, de pesantes couronnes et trois cent soixante esclaves, dont chacun portait à la main une coupe d’or.
 
 La princesse ’quitta son père et courut à la rencontre de Guiv, comme un oiseau qui vole à tire-d’aile.
 
