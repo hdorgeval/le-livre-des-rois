@@ -140,7 +140,7 @@ Ensuite tu me pro»
 
 Poses de choisir un seul brave pour qu’il se mesure avec toi sur le champ de bataille ; mais j’ai en face de moi toute une armée chargée de crimes et remplissant de terreur le peuple de l’Iran, de sorte que le roi ne sera pas d’avis que j’accède à cette proposition.
 
-Ce sont nos armées qui, semblables à des montagnes, doivent d’abord se battre en masse ; il faut que nous formions nos deux lignes de bataille. dans l’espace qui les sépare, pour voir si la vic-toire se déclarera pour l’un de nous.
+Ce sont nos armées qui, semblables à des montagnes, doivent d’abord se battre en masse ; il faut que nous formions nos deux lignes de bataille. dans l’espace qui les sépare, pour voir si la victoire se déclarera pour l’un de nous.
 
 Sinon nous ce amènerons, chacun de notre côté, quelques braves et choisirons un champ de bataille pour eux.
 
