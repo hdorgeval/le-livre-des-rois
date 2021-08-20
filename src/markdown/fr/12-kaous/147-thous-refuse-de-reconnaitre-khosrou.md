@@ -66,7 +66,7 @@ Guiv se leva en fureur, car il n’avait point de confiance dans la sagesse et d
 >
 > Ton ambition finira par le perdre ; nous avons affronté ensemble bien des travaux, mais maintenant tu en as donné au vent le souvenir.
 >
-> Si tu étais un homme sage et digne d’un trône, nous n’aurions pas eu àchercher un roi sur l’Alborz ; et si ta tête ne porte pas de couronne, c’est que tu n’as ni cervelle ni sagesse.
+> Si tu étais un homme sage et digne d’un trône, nous n’aurions pas eu à chercher un roi sur l’Alborz ; et si ta tête ne porte pas de couronne, c’est que tu n’as ni cervelle ni sagesse.
 >
 > Dieu ne
 >
