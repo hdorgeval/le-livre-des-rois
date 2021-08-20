@@ -60,7 +60,7 @@ Dans ce moment on aperçut sur la route l’étendard de Rustem et l’on entend
 
 Faramourz courut au-devant de son père pour lui annoncer sa victoire.
 
-Bustam vit. devant lui Surkheh qui avait les mains liées et par terre les membres de W arazad qu’on avait coupés ; il vit les vallées et la plaine jonchées de morts, il vit que la tête de l’ennemi avait été écrasée dans cette bataille.
+Rustem vit. devant lui Surkheh qui avait les mains liées et par terre les membres de W arazad qu’on avait coupés ; il vit les vallées et la plaine jonchées de morts, il vit que la tête de l’ennemi avait été écrasée dans cette bataille.
 
 L’armée célébrait les louanges du Pehlewan, du jeune et glorieux héros et Rustem aussi se mit à le louer et à distribuer aux pauvres de grandes largesses.
 
@@ -76,7 +76,7 @@ Ensuite, il dit en parlant de son fils :
 
 Rustem jeta alors les yeux sur Surkheh, qui était élancé comme un cyprès au milieu d’un pré, sa poitrine ressemblait à la poitrine d’un lion, son visage était comme le printemps et les boucles noires de ses cheveux se dessinaient sur les roses de ses joues. lins-
 
-Tem ordonna qu’on le menât dans la plaine, qu’ony envoyât les bourreaux avec une épée etun vase, qu’on lui liât les mains avec un lacet, qu’on le couchât par terre comme un mouton, qu’on lui tranchât la tête comme on l’avait tranchée à Siawusch et qu’on le laissât dévorer par les vautours.
+Tem ordonna qu’on le menât dans la plaine, qu’ony envoyât les bourreaux avec une épée et un vase, qu’on lui liât les mains avec un lacet, qu’on le couchât par terre comme un mouton, qu’on lui tranchât la tête comme on l’avait tranchée à Siawusch et qu’on le laissât dévorer par les vautours.
 
 Le Sipehbed Thous entendit ces paroles et partit incontinent pour mettre à mort Surkheh.
 
