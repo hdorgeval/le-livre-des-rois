@@ -232,7 +232,7 @@ Le roi demanda :
 
 > Quel est l’homme assez malheureux . pour qu’on doive toujours pleurer sur lui ? »
 
-Il névpondit : C’est l’homme savant dontle visage a pâli par sa mauvaise fortune. »
+Il névpondit : C’est l’homme savant dont le visage a pâli par sa mauvaise fortune. »
 
 Il demanda :
 
@@ -488,7 +488,7 @@ Il répondit :
 
 Le roi demanda :
 
-> Quelle merveille as-tu vue au delà de laquelle on ne puisse rien concevoir ? »
+> Quelle merveille as-tu vue au-delà de laquelle on ne puisse rien concevoir ? »
 
 Buzurdjmihr répondit au roi :
 
