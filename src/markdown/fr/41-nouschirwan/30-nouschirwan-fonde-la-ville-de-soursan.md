@@ -36,7 +36,7 @@ Le roi faisait facilement les choses difficiles ; il aimait l’appareil des cha
 
 Il construisit sur la route de Roum une grande ville, dont l’étendue dépassait deux farsangs ; elle contenait des palais, un Meïdan et des jardins ; elle était limitée d’un côté par un fleuve, de l’autre par des collines.
 
-Il y avait dans le Roum quelques villes de cegenre, Kesra en fit faire le plan et l’adopte : il construisit des palais élevés et il n’y avait personne dans le monde qui ne les admirât.
+Il y avait dans le Roum quelques villes de ce genre, Kesra en fit faire le plan et l’adopte : il construisit des palais élevés et il n’y avait personne dans le monde qui ne les admirât.
 
 Le roi y éleva un palais avec une salle d’audience, avec des ornements en pierreries ; toutes les voûtes étaient en argent et en or et incrustées de pierres fines de toutes espèces ; un dôme était construit en ébène et en ivoire, avec des figures d’ivoire, d’ébène et de bois de teck ; il réunit dans cette ville tous les hommes du Roum et de l’Inde qui étaient maîtres dans leur art et avaient la tradition de l’art de leurs propres maîtres ; il y réunit de l’Iran et du pays de Nimrouz tous les artisans les plus célèbres, car cette grande ville était en même temps un centre d’industrie.
 
@@ -44,7 +44,7 @@ Il assigna cette ville comme demeure aux captives qu’il avait ame-
 
 Nées du pays des Berbers, du Roum et des villes qui avaient péri et fit de ces charmes des cœurs le charme de ce pays.
 
-Comme la population débordait la ville de tous côtés, on construisit des villages alentour ; Ie’roi fit ensemencer partout des champs et cultiver des terres fertiles et plantées en arbres fruitiers.
+Comme la population débordait la ville de tous côtés, on construisit des villages alentour ; le roi fit ensemencer partout des champs et cultiver des terres fertiles et plantées en arbres fruitiers.
 
 Il y envoya les otages qu’il avait amenés du Coutch, du Ghilan et d’autres pays dévastés, bâtit à chacun une maison et peupla ainsi toute la ville d’étrangers ; à chacun il assigna un travail et à ceux qui étaient isolés il adjoignit un compagnon de son métier ; il y eut des artisans, des laboureurs, des arpenteurs, des marchands, des hommes voués à la dévotion, des maî-
 ires et des subordonnés.
