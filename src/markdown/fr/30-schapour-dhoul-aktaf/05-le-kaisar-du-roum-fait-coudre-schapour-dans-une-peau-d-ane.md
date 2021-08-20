@@ -20,7 +20,7 @@ Or il arriva qu’un jour, malgré sa couronne et ses trésors, son âme fut fat
 
 Les astrologues. apportèrent leurs astrolabes et firent leurs. projections relativement à sa tranquillité et à son repos.
 
-Ils observèrent attentivement le Cœur du Lion, qui indique la vic-toire et la prospérité, pour voir si le roi était menacé d’un malheur, ou si la majesté que Dieu lui avait donnée s’accroîtrait.
+Ils observèrent attentivement le Cœur du Lion, qui indique la victoire et la prospérité, pour voir si le roi était menacé d’un malheur, ou si la majesté que Dieu lui avait donnée s’accroîtrait.
 
 Après avoir fait leurs observations, l’un d’eux dit :
 
