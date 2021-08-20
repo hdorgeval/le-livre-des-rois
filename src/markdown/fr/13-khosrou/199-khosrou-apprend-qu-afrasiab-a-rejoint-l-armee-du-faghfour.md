@@ -22,9 +22,7 @@ Lorsque ces nouvelles d’Afrasiab se furent répandues parmi ses anciennes trou
 
 Il se dirigea de la Chine du côté de Keï Khosrou, le cœur irrité et accompagné d’une armée avide de vengeance.
 
-Lorsque Keï Khosrou apprit la marche de cette armée, il envoya sur la route des éclaireurs ; ensuite il ordonna à Gouderz fils de Keschwad, au Sipehdar Gourguin et à Ferhad de rester à Gangue, d’être justes et prudents et de
-
-KEIÎKHOSROU. faire faire des rondes jour et nuit.
+Lorsque Keï Khosrou apprit la marche de cette armée, il envoya sur la route des éclaireurs ; ensuite il ordonna à Gouderz fils de Keschwad, au Sipehdar Gourguin et à Ferhad de rester à Gangue, d’être justes et prudents et de faire faire des rondes jour et nuit.
 
 Il dit à Gouderz :
 
