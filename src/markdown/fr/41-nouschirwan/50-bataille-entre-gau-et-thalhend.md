@@ -122,7 +122,7 @@ Puisse ton cœur ne pas rejeter cette ouverturel Mon intention est telle que je 
 
 Mais si tu es déterminé à livrer bataille, si tu n’inclines pas vers l’amitié et une alliance, alors je préparerai mon armée pour le combat, car il faut à mes troupes un grand espace.
 
-Nous nous avancerons de ce pays cultivé, nous conduirons toutes nos troupes sur le bord de la mer, nous creuserons un fossé autour du camp et fermerons la routeà ces hommes avides de combat ; nous jetterons l’eau de la mer dans le fossé et fermerons rapidement les issues de l’eau, pour que ceux qui seront battus ce ne puissent pas s’échapper au delà du fossé.
+Nous nous avancerons de ce pays cultivé, nous conduirons toutes nos troupes sur le bord de la mer, nous creuserons un fossé autour du camp et fermerons la routeà ces hommes avides de combat ; nous jetterons l’eau de la mer dans le fossé et fermerons rapidement les issues de l’eau, pour que ceux qui seront battus ce ne puissent pas s’échapper au-delà du fossé.
 
 Mais ceux de nous qui seront vainqueurs dans la bataille et ne verseront pas du sang dans ce lieu resserré ; ils amèneront toute l’armée prisonnière, mais à Dieu et ne plaise qu’ils emploient les épées et les flèches !
 
