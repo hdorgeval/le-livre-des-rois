@@ -26,7 +26,7 @@ Si tu envoies une armée contre Mondhir, je ne te laisserai ni lroupes, ni trés
 
 Si un sujet devient trop volontaire, je le punis avec ’épée.
 
-Ne t’avance pas d’une coudée au delà de la frontière, si tu veux maintenir le traité qui te lie à moi ; et si tu passes outre, je ferai de même et foulerai aux pieds ta tête et ton trône.
+Ne t’avance pas d’une coudée au-delà de la frontière, si tu veux maintenir le traité qui te lie à moi ; et si tu passes outre, je ferai de même et foulerai aux pieds ta tête et ton trône.
 
 Salut du maître de la couronne et du pouvoir à ceux qui ne troublent pas le monde par leur injustice ! »
 
@@ -63,4 +63,4 @@ Nouschirwan n’est pourtant pas le Créateur du soleil ; ou est-il donc le maî
 
 Il ne donna à l’envoyé aucune réponse ; dans sa colère, il ne prononça pas le nom de Kesra et en trempant son sceau dans le musc il dit :
 
-> Que le Messie et la croix te protégentlnLe messager ne répondit pas un mot ; il voyait que la réponse était fâcheuse et il partit tristement, se rendit en toute hâte auprès du roi d’Iran et fit son rapport sur l’affaire du Kaïsar.
+> Que le Messie et la croix te protègentlnLe messager ne répondit pas un mot ; il voyait que la réponse était fâcheuse et il partit tristement, se rendit en toute hâte auprès du roi d’Iran et fit son rapport sur l’affaire du Kaïsar.
