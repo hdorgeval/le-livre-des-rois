@@ -37,7 +37,7 @@ Car’c’était l’ordre de Dieu : qui est arrivé devait arriver et il ne ser
 >
 > J’ai conduit mon armée dans le mont Kenabed et nous avons coupé le chemin aux Iraniens.
 >
-> De l’autre côté s’est avancée une grande armée ayant Gouderz et d’autres chefs à sa tête ; jamais, depuis le temps du roi ll’linoutchehr, une armée plus nombreuse n’est entrée dans le Tourau.
+> De l’autre côté s’est avancée une grande armée ayant Gouderz et d’autres chefs à sa tête ; jamais, depuis le temps du roi ll’linoutchehr, une armée plus nombreuse n’est entrée dans le Touran.
 >
 > Ils se sont établis à Beibed et ont occupé la montagne ; pendant trois jours et trois nuits les deux armées sont restées en présence, semblables à des léopards.
 >
