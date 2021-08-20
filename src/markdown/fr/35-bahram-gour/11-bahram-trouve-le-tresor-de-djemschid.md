@@ -22,7 +22,7 @@ Un homme dévoué au roi s’avança rapide comme le vent, un bâton à la main 
 
 Le Mobed lui dit :
 
-> Que veuxtu ?
+> Que veux-tu ?
 >
 > Dis-le moi ; tu ne peux pas voir le roi du monde. »
 
