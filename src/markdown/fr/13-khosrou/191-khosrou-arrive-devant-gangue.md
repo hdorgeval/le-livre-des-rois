@@ -34,9 +34,9 @@ Il dit à Rustem :
 
 D’un côté la ville était adossée à une montagne et là elle était garantie contre toute attaque ; de l’autre côté coulait un fleuve qui réjouissait l’âme des hommes.
 
-On dressa sur toute la plaine les enceintes KEI KHOSROU des tentes, on planta le drapeau des Keïanides ; l’armée occupa un espace de sept farsangs et toute la terre se soumit à elle.
+On dressa sur toute la plaine les enceintes des tentes, on planta le drapeau des Keïanides ; l’armée occupa un espace de sept farsangs et toute la terre se soumit à elle.
 
-Rustem plaça son camp à droite et demanda au roi, maître de la terre, le commandement d’un corps d’armée ; à gauche se trouvait F eribourz fils de Kaous, dont le cœur se réjouissait du son des clairons et des timbales et ses hommes vinrent et dressèrent l’enceinte de ses tentes ; ensuite le fils de Gouderz choisit la place de son camp.
+Rustem plaça son camp à droite et demanda au roi, maître de la terre, le commandement d’un corps d’armée ; à gauche se trouvait Feribourz fils de Kaous, dont le cœur se réjouissait du son des clairons et des timbales et ses hommes vinrent et dressèrent l’enceinte de ses tentes ; ensuite le fils de Gouderz choisit la place de son camp.
 
 La nuit vint ; de tous côtés on entendit des clameurs ; le monde se remplit de luttes et de bruit ; le cœur de la terre bondit du son de tant de clairons, de trompettes et de fifres.
 
@@ -50,7 +50,7 @@ Lorsque le soleil envoya ses rayons de la voûte du ciel et qu’il eut déchir�
 > Je crois que de tous côtés des troupes arriveront à son aide, car sa puissance est grande ; on le craint et c’est par crainte qu’on vouedra le secourir et non par haine contre nous ou de gaieté de cœur.
 >
 > Mais, avant qu’il puisse réunir son armée, nous ferons tous nos efforts pour lui couper stoute retraite, nous démolirons les murs de sa ;
-> ville, nous en jetterons les pieres et la terre dans le fleuve.
+> ville, nous en jetterons les pierres et la terre dans le fleuve.
 >
 > Les jours pénibles sont passés pour Yarmée et la fatigue va se changer en repos.
 >
