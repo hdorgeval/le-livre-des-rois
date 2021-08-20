@@ -24,7 +24,7 @@ Cette femme était alors enceinte et portait un enfant dans son sein et sa gross
 
 Soudabeh lui révéla son secret ; elle lui demanda un moyen de salut et la fit d’abord jurer de Iniobéir.
 
-La femme jura et Soudabeh lui donna beau- coup d’or, puis lui dit :
+La femme jura et Soudabeh lui donna beau-coup d’or, puis lui dit :
 
 > Ne parle à personne de cette affaire.
 >
