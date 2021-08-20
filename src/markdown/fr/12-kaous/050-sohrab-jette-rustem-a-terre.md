@@ -127,7 +127,7 @@ C’est par cette ruse que Rustem espérait se tirer de la griffe de ce dragon e
 
 Le jeune homme plein de cœur abandonna son esprit aux discours du vieillard et se laissa toucher par ses paroles, d’abord à cause du sentiment de sa force, ensuite parce que le sort le voulait, enfin sans doute par grandeur d’âme.
 
-Il laissa libre Ilustem et s’en alla dans le désert que les antilopes traversaient devant lui ; il s’y livra à la chasse sans penser à celui qu’il venait de combattre.
+Il laissa libre Rustem et s’en alla dans le désert que les antilopes traversaient devant lui ; il s’y livra à la chasse sans penser à celui qu’il venait de combattre.
 
 Il continua longtemps ainsi, jusqu’à ce que Houman parut au milieu de la poussière et lui demanda des nouvelles du combat.
 
@@ -159,9 +159,9 @@ Il s’en retourna à son camp, plein de colère et de regret de ce qu’il avai
 
 Rustem, aussitôt que la main de Sohrab l’eut relâché, se redressa comme un noble cyprès, il alla vers un courant d’eau, comme un mort qui recouvre la vie.
 
-Il but de l’eau et se lava le visage, le corps et la tête ; ensuite il s’adressa à Dieu et le pria de lui accorder aide et victoire, car il ne savait pas quel sort lui réservait le soleil et la lune et si le ciel, en tournant audessus de lui, arracherait le diadème de sa tête.
+Il but de l’eau et se lava le visage, le corps et la tête ; ensuite il s’adressa à Dieu et le pria de lui accorder aide et victoire, car il ne savait pas quel sort lui réservait le soleil et la lune et si le ciel, en tournant au-dessus de lui, arracherait le diadème de sa tête.
 
-J’ai entendu dire que Ilustem avait reçu de Dieu, au commencement, une telle force, que quand il se plaçait sur une pierre, ses deux pieds s’y enfonçaient.
+J’ai entendu dire que Rustem avait reçu de Dieu, au commencement, une telle force, que quand il se plaçait sur une pierre, ses deux pieds s’y enfonçaient.
 
 Il avait été affligé de cet excès de vigueur qu’il était éloigné de désirer.
 
