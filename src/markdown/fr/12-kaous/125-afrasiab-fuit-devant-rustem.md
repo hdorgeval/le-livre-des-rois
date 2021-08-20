@@ -36,7 +36,7 @@ Il trouva devant lui de nombreux cavaliers armés de boucliers, tous irrités co
 
 Afrasiab vit le drapeau violet de Rustem et l’étendard de Kaweh et reconnut par là qu’il avait devant lui le héros au corps d’éléphant, le fier descendant de Neriman.
 
-Il bondit comme un léopard courageux ; il s’afl’ermit sur les étriers et se précipita au-devant de Rustem.
+Il bondit comme un léopard courageux ; il s’affermit sur les étriers et se précipita au-devant de Rustem.
 
 Celui-ci aperçut le drapeau noir et y courut comme un lion en fureur ; il abandonna les rênes à Raksch, son cheval rapide.
 
