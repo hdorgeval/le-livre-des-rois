@@ -71,7 +71,7 @@ Il m’a dit :
 >
 > Je ne sais si ce !
 >
-> Enfant viendrait dans le Tourau avec des intentions amies, ou si c’est à l’Iran qu’il montrerait un visage gracieux.
+> Enfant viendrait dans le Touran avec des intentions amies, ou si c’est à l’Iran qu’il montrerait un visage gracieux.
 >
 > Pourquoi goûter sciemment du poison ?
 >
