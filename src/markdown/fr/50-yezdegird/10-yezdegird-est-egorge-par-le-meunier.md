@@ -33,9 +33,11 @@ Cependant le meunier continuait sa route, les yeux baignés de pleurs, le visage
 
 > Ô Créateur brillant, toi qui es au-dessus des évolutions du destin, livre dès à présent aux tourments le cœur et l’âme de celui qui a donné cet ordre barbare ! »
 
-Étant arrivé devant le roi, le cœur plein de honte et de crainte, le visage inondé de larmes, la bouche desséchée, il s’approcha avec précaution.comme celui qui veut -dire un secret à l’oreille et lui plongea un poignard dans le seinfLe roi blessé à mort poussa un soupir, sa tête etsa couronne tombèrent sur le sol à côté du pain d’orge qu’il avait devant lui.
+Étant arrivé devant le roi, le cœur plein de honte et de crainte, le visage inondé de larmes, la bouche desséchée, il s’approcha avec précaution.comme celui qui veut -dire un secret à l’oreille et lui plongea un poignard dans le seinfLe roi blessé à mort poussa un soupir, sa tête et sa couronne tombèrent sur le sol à côté du pain d’orge qu’il avait devant lui.
 
-Que celui qui trouve une issue s’échappe de ce monde dont l’âme est vide et inintelligente ; les planètes se lassent comme ceux qu’elles protégent et livrent à la mort des innocents comme Yezdegird. lamais roi n’avait péri de la sorte, jamais même un cavalier de son armée n’avait trouvé pareille mort.
+Que celui qui trouve une issue s’échappe de ce monde dont l’âme est vide et inintelligente ; les planètes se lassent comme ceux qu’elles protègent et livrent à la mort des innocents comme Yezdegird.
+
+Jamais roi n’avait péri de la sorte, jamais même un cavalier de son armée n’avait trouvé pareille mort.
 
 Le ciel qui tourne est dépourvu d’intelligence, on’
 ne s’explique ni sa haine ni ses faveurs ; le plus sage parti est de ne pas y faire attention et de contempler ses évolutions sans colère et sans amour.
@@ -114,7 +116,7 @@ Un autre continua : Toi qui jouis du repos, sage descendant de la race d’Ardes
 
 Un autre : Monarque généreux, tu dors, mais ton âme est éveillée.
 
-Tes lèvres sont muettes, la oc vie s’est échappée gémissante et ton corps est resté abandonné ici ; mais si ce corps est inerte, ton âme est agissante et le corps de ton ennemi est attaché au gibet ; si la bouche est fermée, ton âme parle ; si ton corps est déchiré, ta vie s’est accrue ; tes mains ont laissé tomber les rênes, mais ton âme a ressaisi la lancer Un autre : Ô guerrier renommé, tu es parti guidé par tes bonnes actions, tu occupes un trône dans le ciel et tu laisses a d’autres ce monde d’afiliction. »
+Tes lèvres sont muettes, la oc vie s’est échappée gémissante et ton corps est resté abandonné ici ; mais si ce corps est inerte, ton âme est agissante et le corps de ton ennemi est attaché au gibet ; si la bouche est fermée, ton âme parle ; si ton corps est déchiré, ta vie s’est accrue ; tes mains ont laissé tomber les rênes, mais ton âme a ressaisi la lancer Un autre : Ô guerrier renommé, tu es parti guidé par tes bonnes actions, tu occupes un trône dans le ciel et tu laisses a d’autres ce monde d’affliction. »
 
 Un autre : Quiconque a’semé comme tu as semé, voit arriver le jour de la récolte. »
 
@@ -128,7 +130,7 @@ L’évêque, prenant la parole, ajouta :
 >
 > Et nous, nous demandons justice pour Yezdegird ; nous crions vengeance contre les sept planètes.
 >
-> Si celles-ci n’ont ni haine ni amour,’le philosophe ne m’en a jamais donné l’explication ; le dévot, s’il a parlé, n’a dit que des’énigmes et toute réponse est demeurée mystérieuse.
+> Si celles-ci n’ont ni haine ni amour,’le philosophe ne m’en a jamais donné l’explication ; le dévot, s’il a parlé, n’a dit que des énigmes et toute réponse est demeurée mystérieuse.
 >
 > Homme sage, puisqu’il n’y a pas de trésors ici-bas, enrichis ton cœur et ne compte pas sur le lendemain : le monde fuit rapide devant toi, le temps compte chacun de nos souilles ; exerce ton âme à la frugalité ; si tu vis, celui qui te donnait te donnera encore. -Quant à moi, si mes ressources égalaient mes dépenses, la fortune m’aurait traité
 >
