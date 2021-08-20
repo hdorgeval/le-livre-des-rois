@@ -42,7 +42,7 @@ J Alors, il s’adressa à Zal, disant :
 >
 > Je suis le maître du monde, fils de Siawusch, je suis un roi de la famille des Keïanides et ne suis pas un insensé.Je suis le petit-fils du maître du monde, Keï Kaous, du roi fortuné, plein de sagesse, qui a fait les délices des hommes.
 >
-> Par ma-mère j’appartiens à la famille d’Af’rasiab, dont la haine m’a privé de la faim et du sommeil, d’Afrasiab qui était petit-fils de Feridoun et fils de Pescheng.
+> Par ma-mère j’appartiens à la famille d’Afrasiab, dont la haine m’a privé de la faim et du sommeil, d’Afrasiab qui était petit-fils de Feridoun et fils de Pescheng.
 >
 > Je n’ai pas à rougir de ma race, carles lions de l’Iran se sont réfugiés sur les bords de la mer de peur d’Afrasiab.
 >
