@@ -72,7 +72,7 @@ Tout à coup Bijen abaissa, au milieu des armées, son drapeau noir ; et les sen
 
 Le chef des vedettes dépêcha vers Gouderz un cavalier rapide comme un messager et lui fit dire que Bijen arrivait victorieux, semblable à un lion et tenant renversé le drapeau noir.
 
-Jusquelà Guiv s’était agité comme un insensé, s’écriant à la vue de tout venant, courant de tous côtés, demandant des nouvelles de son vaillant fils et se désespérant au moment où il aurait dû se réjouir.
+Jusque-là Guiv s’était agité comme un insensé, s’écriant à la vue de tout venant, courant de tous côtés, demandant des nouvelles de son vaillant fils et se désespérant au moment où il aurait dû se réjouir.
 
 À la fin il apprit la fortune de Bijen ; il s’élança vers son fils et lorsque son regard tomba sur ces traits chéris, il descendit de cheval, comme c’était naturel, se roula par terre, jeta de la poussière sur sa tête et glorifia Dieu le dispensateur de la justice.
 
