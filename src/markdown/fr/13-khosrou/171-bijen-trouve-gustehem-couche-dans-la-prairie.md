@@ -46,7 +46,7 @@ Bijen regarda ces blessures et éclata en lamentations devant lui, disant :
 
 > Ô mon vaillant compagnon, je n’avais dans le monde d’autre ami que toi.
 >
-> Il fallait m’avertir dès le commencement de me rendre à l’endroit où tu avais un combat à livrer ; j’aurais été à côté de toi dans le moment du danger et quand tu avais à lutter contre un Abriman.
+> Il fallait m’avertir dès le commencement de me rendre à l’endroit où tu avais un combat à livrer ; j’aurais été à côté de toi dans le moment du danger et quand tu avais à lutter contre un Ahriman.
 >
 > Maintenant nos ennemis ont obtenu l’objet de tous leurs vœux et ce qu’ils voulaient faire est accompli. »
 
