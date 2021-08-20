@@ -42,7 +42,7 @@ On plaça sur la lettre le sceau du roi et Guiv quitta le palais et se mit en ro
 
 Il offrit ses hommages au roi, lui remit la lettre et lui rapporta le message de son grand-père.
 
-Le’ roi l2 fut heureux de ces paroles, il fit apporter du vin et appeler les chanteurs et les échansons et se livra pendant trois jours aux festins, joyeux de ses vic-toires.
+Le’ roi l2 fut heureux de ces paroles, il fit apporter du vin et appeler les chanteurs et les échansons et se livra pendant trois jours aux festins, joyeux de ses victoires.
 
 Le quatrième, lorsque le soleil qui éclaire le monde alluma ses rayons, Khosrou distribua à ses troupes des casques et des,cuirasses et leur communiqua le message de son grand-père.
 
