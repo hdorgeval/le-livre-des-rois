@@ -52,7 +52,7 @@ Le glorieux Afrasiab répondit :
 >
 > Chacune de leurs lances portait une tête et chaque cavalier en portait une autre dans ses bras.
 >
-> Cent mille Iraniens armés de lances et vêtus de noir se jetèrent sur mon trône, ils m’arrachèrent de mon siège, ils m’enlcvèrent, les mains liées.
+> Cent mille Iraniens armés de lances et vêtus de noir se jetèrent sur mon trône, ils m’arrachèrent de mon siège, ils m’enlevèrent, les mains liées.
 >
 > Je voyais autour de moi beaucoup d’hommes, mais aucun de mes serviteurs n’était auprès de moi.
 >
