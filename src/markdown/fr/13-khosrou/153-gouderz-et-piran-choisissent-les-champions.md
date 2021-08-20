@@ -84,9 +84,7 @@ Enfin Gouderz fils de Keschwad et Piran devaient se mesurer ; ils étaient armé
 
 Ils se jurèrent qu’aucun d’eux ne se retirerait de la lutte, jusqu’à ce qu’il fût décidé à qui la fortune donnerait la victoire.
 
-Il se trouvait entre les deux armées deux collines
-
-KEl KIlOSBOU. [ d’où l’on pouvait voir tout autour ; l’une était du côté de l’Iran, l’autre du côté du Touran et on les apercevait de loin.
+Il se trouvait entre les deux armées deux collines [ d’où l’on pouvait voir tout autour ; l’une était du côté de l’Iran, l’autre du côté du Touran et on les apercevait de loin.
 
 A leur pied s’étendait une plaine déserte, sur laquelle ceux qu’attendait la bonne et la mauvaise fortune devaient livrer combat.
 
