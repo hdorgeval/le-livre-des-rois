@@ -85,7 +85,7 @@ teur, l’esprit troublé par le chagrin et vit de la des cavaliers turcs déban
 
 Il descendit en toute hâte de la colline, tremblant de peur que Gustehem ne mourût ; il se jeta sur les cavaliers effrayés et en tua deux’avec son épée ; il détacha de la courroie de la selle son lacet roulé et le jeta sur le cou d’un des Turcs ; celui-ci tomba de cheval et Bijen lui accorda la vie, pour se donner un aide dans ce qu’il avait à faire.
 
-Il courut ensuite, semblable à un tourbillon de poussière, au lieu où gisaient Lehhak et Ferschidwerd et trouva ces chefs à!" de l’armée du Tourau couchés sur le sol trempé de sang ; près d’eux se trouvaient leurs destriers qui paissaient dans la prairie.
+Il courut ensuite, semblable à un tourbillon de poussière, au lieu où gisaient Lehhak et Ferschidwerd et trouva ces chefs à!" de l’armée du Touran couchés sur le sol trempé de sang ; près d’eux se trouvaient leurs destriers qui paissaient dans la prairie.
 
 À cet aspect Bijen prononça des bénédictions sur Gustehem, qui avait. accompli cette vengeance.
 
