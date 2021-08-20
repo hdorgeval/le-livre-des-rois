@@ -45,8 +45,7 @@ Elle montra au jeune roi ces idoles, qui ressemblaient à des perles intactes, e
 Siawusch jeta un court regard sur ces belles, mais aucune d’elles n’ose le lui rendre ; car ces lunes se disaient l’une à l’autre : Il ne convient
 -pas de regarder ce roi. »
 
-Ensuite chacune d’elles if».
-
+Ensuite chacune d’elles if». 
 L7à
 s’en retourna à son trône, calculant ses chances de bonheur.
 
@@ -86,7 +85,7 @@ Pendant que Siawusch tardait ainsi à répondre, la belle au visage de Péri ôt
 
 Elle appliqua ses lèvres étroitement sur la joue de Siawusch et l’embrassa ; elle avait oublié toute honte et toute vertu.
 
-Les joues de Siaquch rougirent de honte comme la rose et les cils de ses yeux furent inondés de chaudes larmes de sang.
+Les joues de Siawusch rougirent de honte comme la rose et les cils de ses yeux furent inondés de chaudes larmes de sang.
 
 Il dit en son âme :
 
