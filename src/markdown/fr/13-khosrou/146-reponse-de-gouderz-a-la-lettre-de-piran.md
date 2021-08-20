@@ -91,7 +91,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Il m’a commandé de faire la guerre, de verser du sang pour venger Siawusch ; et si je désobéissais à Khosrou le maître du monde,j’aurais à rougir devant lui.
 >
-> Au reste, si tu espères que Khosrou se laisserait fléchir par tes paroles, alors envoie-lui en toute hâte ces otages et ces trésors quels qu’ils soient, sous la conduite de Lehhak et de Rouïn, les serviteurs d’Afrasiah ; la route de l’Iran est ouverte.
+> Au reste, si tu espères que Khosrou se laisserait fléchir par tes paroles, alors envoie-lui en toute hâte ces otages et ces trésors quels qu’ils soient, sous la conduite de Lehhak et de Rouïn, les serviteurs d’Afrasiab ; la route de l’Iran est ouverte.
 >
 > Sixièmement tu proposes de rendre à Khosrou toutes les provinces qui tout. partie de l’Iran, des pays cultivés et florissants et de rappeler auprès
 >
