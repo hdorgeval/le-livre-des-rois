@@ -27,8 +27,7 @@ Ensuite, il choisit douze mille fantassins armés de boucliers et ,propres au co
 
 Parmi eux se trouvaient des chefs de haut renom, cOmme Bahman et Zengueh, fils de Schaweran.
 
-Enfin le roi choisit parmi les 
-Iraniens cinq Mobeds qui devaient porter l’étendard de Kaweh.
+Enfin le roi choisit parmi les Iraniens cinq Mobeds qui devaient porter l’étendard de Kaweh.
 
 Il ordonna à toute l’armée de se porter de la frontière dans le désert ; tu aurais dit que le monde était couvert de braves et que la terre n’avait de place que pour les sabots de leurs chevaux.
 
