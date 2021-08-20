@@ -40,7 +40,7 @@ Déclare qu’aussi longtemps que tu seras roi, tu n’oublieras pas les peines 
 
 Ensuite tu abandonneras toutes les conquêtes ses dans le Roum et aucun Iranien ne franchira plus notre frontière.
 
-Allez au delà de votre désir présent, faites un arrangement avec nous et concluez une alliance, pour que, en toute occasion, quand nous serons occupés d’une affaire, fût-ce une guerre folle, nous soyons tous amis et frères, quand même l’un de nous serait de temps en temps le plus faible.
+Allez au-delà de votre désir présent, faites un arrangement avec nous et concluez une alliance, pour que, en toute occasion, quand nous serons occupés d’une affaire, fût-ce une guerre folle, nous soyons tous amis et frères, quand même l’un de nous serait de temps en temps le plus faible.
 
 Quand vous n’aurez plus besoin du Roum, votre ancienne haine pourrait renaître ; on parlerait de nouveau de Tour et de Selm et des folies des temps an-ciens.
 
