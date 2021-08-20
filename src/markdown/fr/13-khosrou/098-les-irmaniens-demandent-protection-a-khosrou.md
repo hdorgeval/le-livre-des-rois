@@ -36,7 +36,7 @@ Il tenait en main une coupe de rubis remplie de vin et abandonnait son âme et s
 
 Les grands étaient assis, écoutant la musique ;
 
-Feribourz fils de Kaous, Gustehem, Gouderz fils de Keschwad, Ferhad, Guiv, Gourguin fils de Milad, le vaillant Schapour, Thous le chef des princes issus de Newder le destructeur des armées, Rehham et Bijen le guerrier, tous ces Pehlewans, serviteurs de Khosrou, étaient assis, buvaut du vin royal, du vin qui ressemblait dans les coupes à la cornaline du Yemen ;
+Feribourz fils de Kaous, Gustehem, Gouderz fils de Keschwad, Ferhad, Guiv, Gourguin fils de Milad, le vaillant Schapour, Thous le chef des princes issus de Newder le destructeur des armées, Rehham et Bijen le guerrier, tous ces Pehlewans, serviteurs de Khosrou, étaient assis, buvant du vin royal, du vin qui ressemblait dans les coupes à la cornaline du Yemen ;
 
 Ils étaient assis au milieu de tulipes et de narcisses.
 
@@ -74,7 +74,7 @@ Ils se traînèrent vers lui, les bras croisés, le visage contre terre et se la
 >
 > Nous y faisions paître nos troupeaux et la fortune de notre ville était fondée sur cette forêt.
 >
-> Ô roi de l’Iran, protége-nous car il est venu des sangliers innombrables qui se sont emparés de la forêt et des bords du fleuve ;
+> Ô roi de l’Iran, protège-nous car il est venu des sangliers innombrables qui se sont emparés de la forêt et des bords du fleuve ;
 >
 > Leurs défenses sont comme des dents d’éléphant,
 >
