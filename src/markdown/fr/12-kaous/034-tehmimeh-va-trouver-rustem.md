@@ -20,7 +20,7 @@ Quand une partie de la nuit se fut écoulée et pendant que l’étoile du matin
 
 Elle était suivie par une femme voilée au visage de lune, brillante comme le soleil, belle de couleur et de parfum.
 
-Ses deux sour-cils formaieut un arc, les deux boucles de ses cheveux étaient des lacets, sa stature était celle du haut cyprès ; ses deux lèvres ressemblaient au rubis du Yémen, sa bouche était petite comme le cœur serré d’un amoureux, son esprit était plein d’intelligence, 6l son corps était par comme une âme pure ; tu aurais dit qu’il n’y avait en elle rien de terrestre.
+Ses deux sour-cils formaient un arc, les deux boucles de ses cheveux étaient des lacets, sa stature était celle du haut cyprès ; ses deux lèvres ressemblaient au rubis du Yémen, sa bouche était petite comme le cœur serré d’un amoureux, son esprit était plein d’intelligence, 6l son corps était par comme une âme pure ; tu aurais dit qu’il n’y avait en elle rien de terrestre.
 
 Rustem le héros au cœur de lion demeura stupéfait et invoqua sur elle les grâces de Dieu.
 
@@ -44,7 +44,7 @@ Elle répondit :
 >
 > Jamais homme ne m’a vue dévoilée ; jamais home n’a connu le son de ma voix.
 >
-> Mais j’ai entendu faire de toi beaucoup de récits qui semblent des contes de fées et qui m’ont appris que tu ne crains ni Div, ni lion, ni léopard, ni crocodile, tant ta main est prompte à frapper ; que tu viens, dans la nuit obscure, tout seul, dans le pays de Tourau ; que tu erres sur la frontière sans te lasser ; que tu fais rôtir un onagre pour toi seul ; que tu fais gémir l’air sous les coups de ton épée ; que le cœur du lion et la peau du léopard se fendent quand ils voient la massue dans ta main ; que l’aigle n’ose pas s’abattre sur sa proie quand il voit ton épée une ; que le lion porte les marques de ton lacet et que le nuage verse du sang de peur de ta lance.
+> Mais j’ai entendu faire de toi beaucoup de récits qui semblent des contes de fées et qui m’ont appris que tu ne crains ni Div, ni lion, ni léopard, ni crocodile, tant ta main est prompte à frapper ; que tu viens, dans la nuit obscure, tout seul, dans le pays de Touran ; que tu erres sur la frontière sans te lasser ; que tu fais rôtir un onagre pour toi seul ; que tu fais gémir l’air sous les coups de ton épée ; que le cœur du lion et la peau du léopard se fendent quand ils voient la massue dans ta main ; que l’aigle n’ose pas s’abattre sur sa proie quand il voit ton épée une ; que le lion porte les marques de ton lacet et que le nuage verse du sang de peur de ta lance.
 >
 > Tels sont les récits qu’on m’a faits et je me suis souvent mordu la lèvre à cause de toi ; souvent j’ai désiré de voir tes épaules, tes bras et ta poitrine.
 >
