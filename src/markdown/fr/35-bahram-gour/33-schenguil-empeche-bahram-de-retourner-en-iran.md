@@ -84,7 +84,7 @@ Le Destour du roi, plein d’expérience, alla dire tout cela à Bahram et lui d
 >
 > Ouest le maître du trône de Feridoun, qui a été le soutien de son époque ?
 >
-> Où sont ces puissants rejetons de la race royale, Keï Khosrou, le maître du monde et Keî-Kobad ?
+> Où sont ces puissants rejetons de la race royale, Keï Khosrou, le maître du monde et Keï-Kobad ?
 >
 > Ensuite tu connais Bahram, qui est jeune, ambitieux de la possession du monde et volontaire ; et, je le jure, si je lui désobéissais, il ferait crouler le monde sur ma tête, détruirait ce pays de l’Inde et porterait dans l’Iran la poussière du pays des magiciens : Il vaut mieux que je m’en
 æ retourne et que le roi victorieux me voie.
