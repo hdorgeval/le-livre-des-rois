@@ -32,7 +32,7 @@ O chef des Pehlewans, ô refuge de l’armée, ta place est auprès des rois.
 
 Tu as vaincu avec la massue tous les magi-ciens, tu as rendu brillante la couronne des rois les plus puissants.
 
-Quelsont devant toi Afrasiah et le Khakan de la Chine ?
+Quelsont devant toi Afrasiab et le Khakan de la Chine ?
 
 Ils portent tous ton nom gravé sur leurs sceaux et le cœur faillit à quiconque voudrait délier un nœud que tu as noué.
 
