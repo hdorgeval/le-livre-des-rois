@@ -93,7 +93,7 @@ Tous deux restaient assis, dans leur douleur, les traits décomposés par l’el
 >
 > Écris une lettre’au roi, demande qu’il t’envoie une seconde fois Rustem au corps d’éléphant ; et s’il t’ordonne de faire la guerre, faisla.
 >
-> C’est une afl’aire qui sera bientôt terminée, à moins que tu ne choisisses le plus long chemin.
+> C’est une affaire qui sera bientôt terminée, à moins que tu ne choisisses le plus long chemin.
 >
 > Si tu préfères le repos, il n’y a en cela au-cune difficulté et tu peux sans honte demander pardon à ton père.
 >
