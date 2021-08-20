@@ -50,7 +50,7 @@ pare-toi à agir et mets-toi en route ; prépare-toien toute hâte, ne t’arrê
 > Porte à Siawusch ce les présents et les trésors que j’ai préparés, des chuL vaux arabes à la bride d’or, des épées indiennes au fourreau d’or, une couronne ornée de pierreries dignes d’un roi et cent charges de chameaux w de tapis ; emmène avec toi deux cents esclaves, gar-
 çons et filles et dis à Siawusch que je ne suis point en guerre contre lui ; l’ais-lui beaucoup de quesretions et dis-lui que nous n’avons pas fait d’invasion dans le pays d’Iran, que tout jusqu’au cours du Djihoun est à moi et que je suis dans le Soghd, qui est un royaume distinct.
 >
-> Le monde est malheureusement bouleversé depuis les temps de Tour et de Selm le brave ; depuis Iredj, qui fut tué injustement, la raison a abandonné les têtes des ce hommes puissants et il n’y a pas en de séparation régulière des frontières de l’Iran et du Tourau, car on ne pouvait s’entendre au milieu des vengeances et des guerres.
+> Le monde est malheureusement bouleversé depuis les temps de Tour et de Selm le brave ; depuis Iredj, qui fut tué injustement, la raison a abandonné les têtes des ce hommes puissants et il n’y a pas en de séparation régulière des frontières de l’Iran et du Touran, car on ne pouvait s’entendre au milieu des vengeances et des guerres.
 >
 > Mais nous espérons en Dieu, qui nous a amené des jours de bonheur et de joie, qui t’a fait naître dans le pays d’Iran et qui fera de toi l’ami des hommes de cœur.
 >
