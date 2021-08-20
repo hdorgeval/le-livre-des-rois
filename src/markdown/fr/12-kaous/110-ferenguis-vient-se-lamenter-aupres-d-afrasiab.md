@@ -55,7 +55,7 @@ Elle lui dit :
 > Ne livre pas au vent par la folie le pays de Touran.
 ,Puisses-tu ne jamais avoir à te rappeler mes conseils ! »
 
-Pendant qu’elle’prononçait ces mots, elle aperçut Siawusch et s’écria en se déchirant les joues et en poussant des cris :
+Pendant qu’elle prononçait ces mots, elle aperçut Siawusch et s’écria en se déchirant les joues et en poussant des cris :
 
 > Ô roi !
 >
