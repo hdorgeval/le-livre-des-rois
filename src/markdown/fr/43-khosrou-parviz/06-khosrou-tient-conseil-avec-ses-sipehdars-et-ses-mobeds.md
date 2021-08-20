@@ -68,7 +68,7 @@ Guerdouï dit :
 >
 > Tout notre passé, la puissance, les trésors, l’objet des désirs, l’armée, deviendront comme le vent qui souffle sur la plaine et les têtes des jeunes se détournent de la vraie route.
 >
-> Ne reste pas cette nuit dans ce camp, n’attends pas jusqu’à ce que le trésor et l’armée soient perdus ; carje ne doute pas que notre secret et nos préparatifs cachés ne soient déjà connus dans l’armée de Bahram et il ne faut pas livrer ta tête à l’ennemi. »
+> Ne reste pas cette nuit dans ce camp, n’attends pas jusqu’à ce que le trésor et l’armée soient perdus ; car je ne doute pas que notre secret et nos préparatifs cachés ne soient déjà connus dans l’armée de Bahram et il ne faut pas livrer ta tête à l’ennemi. »
 
 Khosrou approuva ce discours et son esprit reconnut futilité de cet avis.
 
