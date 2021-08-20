@@ -48,7 +48,7 @@ Elle salua Rustem et lui dit :
 
 Rustem fut effrayé de ce discours et poussa contre Menijeh un cri furieux, en disant :
 
-> Vat’en de chez moi.
+> Va-t'en de chez moi.
 >
 > Je ne connais pas Khosrou, ni ce jeune guer. rier ; je ne sais rien de Gouderz ni de Guiv et tes paroles me troublent le cerveau.
 >
@@ -78,7 +78,7 @@ Pourquoi me parles-tu de ces héros et du trône du roi?pourquoi regardes-tu la 
 
 Menijeh lui répondit :
 
-> Pourquoi me questionner sur mes afiaires, sur mes malheurs et mes soucis ?
+> Pourquoi me questionner sur mes affaires, sur mes malheurs et mes soucis ?
 >
 > J’ai quitté la prison le cœur navré, je suis accourue auprès de toi, ô homme plein de noblesse, pour obtenir de toi des nouvelles de Guiv et du vaillant Gouderz.
 >
