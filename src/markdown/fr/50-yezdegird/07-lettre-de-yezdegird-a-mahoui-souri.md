@@ -48,7 +48,7 @@ Il choisit ensuite dans son entourage un messager, homme intelligent’et de bon
 >
 > Si Dieu nous donne le pouvoir, si la fortune favorise les désirs de notre cœur, nous saurons reconnaitre généreusement les bonnes actions et récompenser les services rendus.
 >
-> Mais vous avez été informés que les astres ont déchaîné contre nous ces vils serpents, ces hommes à face d’Abriman, sans sagesse ni honneur, sans trésors ni trône, sans gloire ni naissance, qui se proposent de livrer le mondeà la destruction.
+> Mais vous avez été informés que les astres ont déchaîné contre nous ces vils serpents, ces hommes à face d’Ahriman, sans sagesse ni honneur, sans trésors ni trône, sans gloire ni naissance, qui se proposent de livrer le mondeà la destruction.
 >
 > Les trésors et les bijoux ont été dispersés et la terre du tombeau a rempli bien des crânes ; ainsi l’a décrété le ciel sublime.
 >
