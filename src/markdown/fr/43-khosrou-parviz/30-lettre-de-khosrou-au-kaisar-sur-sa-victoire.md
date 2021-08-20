@@ -22,7 +22,7 @@ Puis, il prit un cheval ardent à la course et se prépara à faire ses dévotio
 
 Il trouva devant lui un hallier, mit pied à terre et entra dans ce lieu propice ; il se prosterna dans la poussière devant Dieu et dit :
 
-> Ô maître de la justice, Dieu tout-saint, tu as fait partir mon ennemi de ce pays, tu as tout accompli au delà de mes espérances.
+> Ô maître de la justice, Dieu tout-saint, tu as fait partir mon ennemi de ce pays, tu as tout accompli au-delà de mes espérances.
 >
 > Je suis ton adorateur, ton serviteur indigne, je marche selon les ordres du maître du monde. »
 
