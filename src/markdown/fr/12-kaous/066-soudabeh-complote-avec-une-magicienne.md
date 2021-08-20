@@ -20,16 +20,15 @@ Quand Soudabeh sentit qu’elle était déshonorée et que le cœur du roi ne lu
 
 Elle avait dans ses appartements une femme pleine de moyens et de ruses, d’arts magiques et d’incantations.
 
-Cette femme était alors enceinte et portait un enfant dans son sein et sa grossesse lui rendait la marche diffi-cile.
+Cette femme était alors enceinte et portait un enfant dans son sein et sa grossesse lui rendait la marche difficile.
 
 Soudabeh lui révéla son secret ; elle lui demanda un moyen de salut et la fit d’abord jurer de Iniobéir.
 
-La femme jura et Soudabeh lui donna beau-
-KEI mors. coup d’or, puis lui dit :
+La femme jura et Soudabeh lui donna beau- coup d’or, puis lui dit :
 
 > Ne parle à personne de cette affaire.
 >
-> Il faut que tu prépares un breuvage qui te fasse avorter et je te rendrai puissante si tu m’obéis ; car j’ai l’espoir que ton enfant peut servir à détruire le sort qui a été jeté sur moi et la ca-Iomnie dont on m’a accablée.
+> Il faut que tu prépares un breuvage qui te fasse avorter et je te rendrai puissante si tu m’obéis ; car j’ai l’espoir que ton enfant peut servir à détruire le sort qui a été jeté sur moi et la calomnie dont on m’a accablée.
 >
 > Je dirai à Kaous que cet enfant était à moi et qu’il a été tué par la vio-
 Ience de cet Ahriman.
@@ -51,7 +50,7 @@ Elle avait caché la femme et V s’était mise elle-même sur son lit avant de 
 Toutes les esclaves qui se trouvaient dans le palais accoururent auprès de Soudabeh ; elles virent deux enfants morts dans un plat et leurs lamentations s’élevèrent jusqu’à Saturne. l7
 
 1
-Kaous entendit le bruit qui venait du palais, il trembla dans son sommeil, se réveilla et se mità écouter.
+Kaous entendit le bruit qui venait du palais, il trembla dans son sommeil, se réveilla et se mit à écouter.
 
 Il demanda ce qui se passait et on lui dit que la belle Soudabeh avait éprouvé un malheur.
 
