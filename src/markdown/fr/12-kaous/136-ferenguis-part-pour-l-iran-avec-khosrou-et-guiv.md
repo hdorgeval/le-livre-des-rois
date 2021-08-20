@@ -26,7 +26,7 @@ Mais leur fuite ne resta pas longtemps cachée ; quelqu’un alla trouver Piran 
 
 Piran fut cons terné de ces paroles, il trembla comme une branche de tremble ; il se dit en lui-même :
 
-> Voilà que s’accomplissenl toutes les paroles que mes oreilles ont entendues de la bouche du roi.
+> Voilà que s’accomplissent toutes les paroles que mes oreilles ont entendues de la bouche du roi.
 >
 > Que dirai-je âpresent devant Afrasiab ?
 >
