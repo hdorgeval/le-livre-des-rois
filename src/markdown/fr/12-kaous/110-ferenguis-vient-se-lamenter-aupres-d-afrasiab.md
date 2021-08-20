@@ -87,7 +87,7 @@ Pendant qu’elle’prononçait ces mots, elle aperçut Siawusch et s’écria e
 
 Quand le roi entendit ces paroles de sa fille, le monde s’obscurcit devant ses yeux ; il lui dit :
 
-> Vat’en et ne reviens plus ici ; sais-tu donc les raisons que j’ai pour faire le mal que je fais ? »
+> Va-t'en et ne reviens plus ici ; sais-tu donc les raisons que j’ai pour faire le mal que je fais ? »
 
 Le roi brûlait de colère contre elle et dans son trouble il fermait l’œil de l’intelligence.
 
