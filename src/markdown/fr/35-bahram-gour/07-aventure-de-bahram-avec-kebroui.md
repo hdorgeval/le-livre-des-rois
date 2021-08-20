@@ -24,7 +24,7 @@ Gaiement et un cliefde village se présenta qui lui apportait un peu de fruits d
 
 Quand le v. [tu
 [
-maître du monde le vit, il le’reçut gracieusement et lui assigna une place parmi les braves-Cet homme aux fruits et aux fleurs portait le nom pehlewi de Kebrouï ; la vue du roi, des grands et de cette salle de fêtes le charma ; il vitIune coupe de cristal pleine de vin, qui jeta le trouble dans son cœur ; il avança la main au delà de la rangée des grands, saisit cette coupe de vin et se leva.
+maître du monde le vit, il le’reçut gracieusement et lui assigna une place parmi les braves-Cet homme aux fruits et aux fleurs portait le nom pehlewi de Kebrouï ; la vue du roi, des grands et de cette salle de fêtes le charma ; il vitIune coupe de cristal pleine de vin, qui jeta le trouble dans son cœur ; il avança la main au-delà de la rangée des grands, saisit cette coupe de vin et se leva.
 
 Il prit la coupe en portant la santé du roi des rois et dit :
 
