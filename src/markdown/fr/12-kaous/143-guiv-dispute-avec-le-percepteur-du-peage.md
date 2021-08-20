@@ -35,7 +35,9 @@ Le fermier dit à Guiv :
 
 Guiv lui répondit :
 
-> Demande ce que tu veux et embarque-nous, car nous sommes suivis de près par une arméemQuand le fermier entendit ces paroles, il devint encore plus exigeant et dit à Guiv :
+> Demande ce que tu veux et embarque-nous, car nous sommes suivis de près par une armée. »
+
+Quand le fermier entendit ces paroles, il devint encore plus exigeant et dit à Guiv :
 
 > Je ne te demanderai pas un petit péage et il me faut une de ces quatre choses : ou ta cotte de mailles, ou ton cheval noir, ou cette esclave, ou le diadème d’or que porte ce jeune homme qui ressemble à la lunes»
 
