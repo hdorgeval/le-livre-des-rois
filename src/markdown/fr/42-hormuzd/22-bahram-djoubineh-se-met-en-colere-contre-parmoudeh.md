@@ -43,7 +43,7 @@ Parmoudeh lui dit :
 >
 > J’ai en main une lettre de protection et je veux me rendre auprès du roi, espérant qu’il me traitera comme un frère et que ma mauvaise fortune sera allégée.
 >
-> Que me veuxtu Le LIVRE pas nons. maintenant, puisque je t’ai livré mon trône, mon lieu de repos et mes richesses ? »
+> Que me veux-tu Le LIVRE pas nons. maintenant, puisque je t’ai livré mon trône, mon lieu de repos et mes richesses ? »
 
 Bahram se mit en colère, ses yeux s’injectèrent de sang, les paroles de Parmoudeh l’exaspérèrent et dans sa fureur il le frappa avec un fouet, comme le font des vilains.
 
