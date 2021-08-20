@@ -28,7 +28,7 @@ Quelqu’un porta cette nouvelle à Afrasiab en disant :
 >
 > Il cufit de dire qu’il montre une bravoure au-dessus de celle de sa race. »
 
-Afrasiab entendit ces paroles et en fut réjoui ; il sourit et ne cacha pas son contentement ; il choisit, parmi les chefs courageux de son armée, des hommes qui marchaient fièrement avec leurs lourdes massues, des Sipehbeds comme Houman et Barman qui n’hésitaieut pas dans le combat des lions ; il leur confia douze mille guerriers pleins de cœur, l’élite de son armée.
+Afrasiab entendit ces paroles et en fut réjoui ; il sourit et ne cacha pas son contentement ; il choisit, parmi les chefs courageux de son armée, des hommes qui marchaient fièrement avec leurs lourdes massues, des Sipehbeds comme Houman et Barman qui n’hésitaient pas dans le combat des lions ; il leur confia douze mille guerriers pleins de cœur, l’élite de son armée.
 
 Ensuite
 -il leur dit :
@@ -43,7 +43,7 @@ Ensuite
 >
 > Si au contraire Sohrab meurt de la main de son père, le cœur du glorieux Rustem se consumera de douleur. »
 
-Les deux Pehlewans plein de prudence partirent pour se rendre auprès de Sohrab à l’âme brillante, se faisant précéder par des présents dignes d’un roi : dix chevaux et dix mules, les uns sellés, les autres chargées, un trône de turquoiSes et une couronne d’ambre ; la couronne était surmontée d’une perle, les degrés du trône étaient d’ivoire.
+Les deux Pehlewans plein de prudence partirent pour se rendre auprès de Sohrab à l’âme brillante, se faisant précéder par des présents dignes d’un roi : dix chevaux et dix mules, les uns sellés, les autres chargées, un trône de turquoises et une couronne d’ambre ; la couronne était surmontée d’une perle, les degrés du trône étaient d’ivoire.
 
 Ils portaient aussi une lettre adressée au noble guerrier et remplie de flatteries qui devaient lui plaire :
 
@@ -51,7 +51,7 @@ Ils portaient aussi une lettre adressée au noble guerrier et remplie de flatter
 >
 > Je t’envoie une armée telle qu’il te la faut place-toi sur ce trône et pose sur ta tête cette couronne.
 >
-> Certainement il n’y a jamais eu dans le pays de Tourau des braves 7l et des chefs comme Houman et comme Barman ; je te les envoie pour qu’ils soient tes hôtes pendant quelque temps.
+> Certainement il n’y a jamais eu dans le pays de Touran des braves 7l et des chefs comme Houman et comme Barman ; je te les envoie pour qu’ils soient tes hôtes pendant quelque temps.
 >
 > Si tu veux faire la guerre, ils la feront avec toi, ils rendront la terre étroite à tes ennemis. »
 
