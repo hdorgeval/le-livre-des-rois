@@ -25,7 +25,7 @@ Il mena une telle. armée contre.
 
 Four l’Indien que la terre avait disparu et qu’on ne voyait plus que la mer ; il la fit avancer de tous côtés ; il semblait qu’il n’y avait plus de chemins pour passer ; il la conduisit par les montagnes et les mers et les routes difficiles et l’ardeur s’éteignit dans les cœurs les plus vaillants.
 
-Toute l’armée était fatiguée de ces marches sur les routes et par les lieux âpres et diffi-ciles, dépourvus de chemins.
+Toute l’armée était fatiguée de ces marches sur les routes et par les lieux âpres et difficiles, dépourvus de chemins.
 
 Un soir, au moment où les troupes arrivèrent à la station, une foule se présenta devant le roi, criant :
 
