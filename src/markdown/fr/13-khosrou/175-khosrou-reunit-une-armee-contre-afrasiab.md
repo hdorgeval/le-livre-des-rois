@@ -58,7 +58,7 @@ Il choisit parmi ces troupes renommées trente mille cavaliers prompts à frappe
 
 Il assigna d’un côté une place à Thous, puis à Menouschan et Khouzan aux sages conseils, qui étaient rois dans le Kischwer de F ars et qu’accompagnaient des grands aux casques d’or ; l’un était roi du Khouzistan’ et dans les combats le compagnon de la fortune ; l’autre était roi de Kerman et il ne pensait, à l’heure de la bataille, ni aux conseils ni aux retards ; plus loin il plaça Arisch avide de combats et le roi de Gouran, le héros destructeur des armées ; Sabbah, le savant roi du Yémen ; Irodj au cœur de lion, au corps d’éléphant, le maître du monde, le victorieux et puissant roi du pays de Kaboul ; Schémmakh Souri, roi des Souricns, armé pour le comu bat ; plus loin, Guiweh, le guerrier toujours victorieux, le destructeur des armées, le roi du pays de Khawer, le maître du monde, le savant, le par.
 
-Il plaça à sa gauche tous les descendants de Keîkobad, princes distingués par le savoir et la naissance et les mit sous le commandement de Dilafrouz.
+Il plaça à sa gauche tous les descendants de Keïkobad, princes distingués par le savoir et la naissance et les mit sous le commandement de Dilafrouz.
 
 Les grands de la famille de Zerir, qui frappaient avec leur épée pendant la nuit, malgré le sombre brouillard ; Bi-jen fils de Guiv, avec Rehham le brave, que le roi comptait parmi ses grands ; Gourguin fils de Milad et les héros de Keï, qui étaient tous arrivés selon l’ordre du Keïanide ; afin le fils de Zerasp, l’adorateur du glorieux Aderguschasp, se placèrent tous derrière Khosrou pour former sa garde et leurs lances perçaient le brouillard.
 
@@ -98,7 +98,7 @@ Il y avait encore les troupes du Roum et du Berberistan, sous un chef nommé Les
 
 Ensuite, il y avait une armée de braves du Khorasan, ambitieux et connaissant les hommes ; leur chef était Minoutchehr, fils d’Arisch,qui les conduisait aux lieux où s’acquiert la gloire.
 
-Au delà se trouvait un homme illustre, de la famille de Keroukhan, un prince de la race de Keîkobad, appelé le roi Firouz, un chef qui enflammait les cœurs et animait les armées ; il était roi de Gartcheh et ressemblait à un lion qui terrasserait un éléphant furieux.
+Au delà se trouvait un homme illustre, de la famille de Keroukhan, un prince de la race de Keïkobad, appelé le roi Firouz, un chef qui enflammait les cœurs et animait les armées ; il était roi de Gartcheh et ressemblait à un lion qui terrasserait un éléphant furieux.
 
 Le roi les plaça à côté de Minoutcher et nomma le chef de cette fa mille ordonnateur de l’armée.
 
