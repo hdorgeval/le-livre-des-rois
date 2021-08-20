@@ -114,7 +114,7 @@ Siawusch lui répondit :
 >
 > Je vais aller à sa cour avec toi et je rendrai sa clarté à la lune de son intelligence qui s’est obscurcie.
 >
-> Partout où brille la droiture, le mensonge perd son éclat ; je montrerai à Afrasiah mon cœur plus par que la lumière du soleil qui
+> Partout où brille la droiture, le mensonge perd son éclat ; je montrerai à Afrasiab mon cœur plus par que la lumière du soleil qui
 >
 > > 4
 > > éclaire les cieux.
@@ -133,7 +133,7 @@ Le méchant Guersiwez lui répondit :
 >
 > Puisse la mauvaise fortune ne jamais t’atr : teindre !
 >
-> Afrasiah t’a entouré d’artifices et de sorceL nieries, il a fasciné les yeux de ton intelligence.
+> Afrasiab t’a entouré d’artifices et de sorceL nieries, il a fasciné les yeux de ton intelligence.
 >
 > D’abord il t’a donné le nom de gendre et tu t’en zes follement réjoui ; ensuite quand il t’a fait partir, il t’a donné un festin où assistaient les grands, dans l’espoir que tu serais hautain envers lui et que cela ferait mal parler de toi.
 >
