@@ -34,7 +34,7 @@ Ensuite, il le fit ignominieusement marcher àpied devant lui et l’amena à un
 
 Là il le jeta par terre, lui lia les mains, se revêtit de son armure, monta sur son cheval, prit sa bannière et s’en retourna au bord du Gulzarrioun.
 
-Lorsque les Turcs virent l’étendard de leur Sipehbed, ils s’avancèrent sansméfiance, en poussant des cris et en faisant sonner les trompettes, les clairons et les clochettes indiennes.
+Lorsque les Turcs virent l’étendard de leur Sipehbed, ils s’avancèrent sans méfiance, en poussant des cris et en faisant sonner les trompettes, les clairons et les clochettes indiennes.
 
 Guiv, voyant cela, entra dans le fleuve comme un vaisseau qui fend les vagues et aussitôt qu’il eut abordé l’autre rive, il éleva sa lourde massue au-dessus de son épaule.
 
