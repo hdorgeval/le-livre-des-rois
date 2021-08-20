@@ -22,7 +22,7 @@ Il leur adressa des questions sur leur santé et les fit asseoir sur des sièges
 
 Ensuite, il leur parla beaucoup de ces enfants et leur révéla tout le secret.
 
-Ils prirent tous leurs tables astrono- miques et leurs astrolabes et passèrent sept jours à calculer.
+Ils prirent tous leurs tables astronomiques et leurs astrolabes et passèrent sept jours à calculer.
 
 À la fin ils dirent à Kaous :
 
@@ -42,7 +42,9 @@ Soudabeh se lamentait et demandait justice, elle demandait au roi maître du mon
 
 Le roi lui dit :
 
-> Ô femme, sois tranquillel Ne pense pas seulement au jour d’aujourd’hui, mais songe à la fini»
+> Ô femme, sois tranquille !
+>
+> Ne pense pas seulement au jour d’aujourd’hui, mais songe à la fini»
 
 Kaous ordonna à tous les gardes de son palais de se mettre en route, de fouiller toutes les villes et tous les quartiers et d’amener la femme méchante.
 
@@ -60,7 +62,7 @@ On emmena la femme hors de la cour du roi, on la menaça de l’épée et du gib
 
 On rapporta au roi ces réponses, on lui dit que Dieu seul savait la vérité.
 
-Le roi fit venir Soudabeh ; les astrologues répétèrent que les deux enfants appartenaient à la sor-cière, qu’ils avaient l’aspect et qu’ils étaient de l’engeance d’Ahriman.
+Le roi fit venir Soudabeh ; les astrologues répétèrent que les deux enfants appartenaient à la sorcière, qu’ils avaient l’aspect et qu’ils étaient de l’engeance d’Ahriman.
 
 Soudabeh dit :
 
@@ -72,7 +74,7 @@ Soudabeh dit :
 >
 > Je suis destinée à baigner sans cesse mes yeux de larmes de sang.
 >
-> Comment un astrologue oserait-il parler contre ses ordres ? à qui demanderait-il protection contre Hustem ?
+> Comment un astrologue oserait-il parler contre ses ordres ? à qui demanderait-il protection contre Rustem ?
 >
 > Si tu n’as pas pitié de tes enfants, que dmÂendrai-je, moi qui n’ai d’autres liens que ceux qui m’attachent à toi ?
 >
@@ -84,7 +86,7 @@ Le roi s’attrista de ces paroles, il pleura amèrement avec Soudabeh, ensuite 
 
 À la fin il dit :
 
-> Je poursuivrai cette afl’aire sans relâche, jusqu’à ce que j’arrive à une solution. »
+> Je poursuivrai cette affaire sans relâche, jusqu’à ce que j’arrive à une solution. »
 
 Il appela des frontières tous les Mobeds et leur parla longuement de Soudabeh.
 
@@ -112,7 +114,7 @@ Soudabeh dit :
 >
 > J’ai montré au roi les deux enfants avortés, personne ne peut trouver en moi une autre faute.
 >
-> Il faut que Siawusch se juslifie, car c’est»
+> Il faut que Siawusch se justifie, car c’est»
 
 Lui qui a fait le mal, qui est allé chercher sa perte. »
 
@@ -124,4 +126,4 @@ Siawusch répondit :
 
 > L’enfer n’est rien à mes yeux, comparé à cette affaire.
 >
-> S’il y avait une montagne de feu, je la foulerais aux pieds et mieux vaut y périr que de soufl’rir la honte qui m’accable. »
+> S’il y avait une montagne de feu, je la foulerais aux pieds et mieux vaut y périr que de souffrir la honte qui m’accable. »
