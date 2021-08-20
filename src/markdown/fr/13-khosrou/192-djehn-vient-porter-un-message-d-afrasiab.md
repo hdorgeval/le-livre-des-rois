@@ -85,7 +85,7 @@ D’abord je porte au roi les salutations du chef de l’armée de Touran, au c�
 >
 > Des armées arriveront de partout où je les appelle et tu ne résisteras pas à la rotation du soleil et de la lune.
 >
-> Suppose que la fortune qui change t’abandonne dans la bataille : alors le sort t’accablera au delà de tout ce que tu as pu craindre et un autre que toi profitera de ta peine.
+> Suppose que la fortune qui change t’abandonne dans la bataille : alors le sort t’accablera au-delà de tout ce que tu as pu craindre et un autre que toi profitera de ta peine.
 >
 > Et si tu dis : Je prendrai le pays des Turcs et la Chine, je ferai écrouler le ciel sur la terre, j’exterminerai cette cour avec l’épée et Afrasiab tombera dans ma main, ne crois pas que cela soit dans l’avenir, car celui-là ne sera jamais broyé, qui n’est pas destiné à périr.
 >
