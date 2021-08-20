@@ -30,7 +30,9 @@ Le roi lui répondit :
 
 > Ô héros illustre !
 >
-> Puisses-tu être victorieuxl puisses-tu être heureux dans cette lutte et en revenir vainqueur et couvert de gloire ! »
+> Puisses-tu être victorieux !
+>
+> Puisses-tu être heureux dans cette lutte et en revenir vainqueur et couvert de gloire ! »
 
 Pilsem ayant entendu les paroles du roi, poussa un cri pareil au son de la trompette d’airain, il se précipita sur le centre de l’armée des Iraniens, comme la poussière qui vole devant l’orage et frappa à droite et à gauche avec la massue et l’épée du combat ; il courut plus vite que le vent et se jeta sur Gourguin rugissant comme un lion en fureur ; il frappa de l’épée le cheval de Gourguin sur la tête et la douleur de la blessure fit tomber le cheval.
 
