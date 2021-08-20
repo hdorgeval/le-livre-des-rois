@@ -76,7 +76,7 @@ Siawusch reconnut alors que tout cela provenait de ce méchant et que la colère
 >
 > Des milliers de têtes innocentes tomberont à cause de tes calomnies ; ce sont les paroles qui m’ont fait dévier du droit chemin, c’est toi qui as fait naître la colère du roi. »
 
-Ensuite, il se tourna vers Afiasiab, disant :
+Ensuite, il se tourna vers Afrasiab, disant :
 
 > Ô roi !
 >
