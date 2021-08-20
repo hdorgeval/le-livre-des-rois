@@ -106,7 +106,7 @@ Soudabeh] répondit :
 >
 > Paroles, si ton avis est le même que le mien, tu lui donneras une femme de ses parentes et non pas une des filles des grands, pour qu’il lui naisse un fils qui soit parmi les grands ce que Siawusch est aujourd’hui.
 >
-> J’ai des filles qui le ressemblent, qui sont de ton sang et de ton pur lignage ; il pourrait aussi demander une fille de la famille de Keî-Arisch ou de Keî Peschin, qui dans leur joie rendraient grâce à Dieu. »
+> J’ai des filles qui le ressemblent, qui sont de ton sang et de ton pur lignage ; il pourrait aussi demander une fille de la famille de Keï-Arisch ou de Keï Peschin, qui dans leur joie rendraient grâce à Dieu. »
 
 Le roi lui dit :
 
@@ -120,7 +120,7 @@ J’ai, dit-il, une seule grâce à demander au Créateur, c’est que tu laisse
 
 J’ai lu dans les astres le sort qu’ils te préparent et des Mobeds qui savent calculer leur marche m’ont au : noncé qu’il te naîtra un prince qui restera dans le monde comme un souvenir de toi.
 
-Choisis maintenant une femme parmi les filles des grands, regarde derrière les rideaux de l’appartement des femmes de Keî Peschin ; il y en a aussi dans le palais de Keî Ariscli ; informe-toi de tous côtés et ensuite décide-toi. »
+Choisis maintenant une femme parmi les filles des grands, regarde derrière les rideaux de l’appartement des femmes de Keï Peschin ; il y en a aussi dans le palais de Keï Ariscli ; informe-toi de tous côtés et ensuite décide-toi. »
 
 N. : 6 Siawusch lui répondit :
 
