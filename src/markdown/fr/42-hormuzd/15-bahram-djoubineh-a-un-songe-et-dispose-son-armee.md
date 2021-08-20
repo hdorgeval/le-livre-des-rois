@@ -94,7 +94,7 @@ Quand le vaillant Bahram eut mis en.ordre son armée, il quitta dans une grande 
 
 > Ô Juge suprême, juste et saint !
 >
-> Si tu trouves que cette guerre soit injuste, si tu préfères Saweh à moi, donne-lui du sangfroid dans la bataille et la victoire sur les Iraniens.
+> Si tu trouves que cette guerre soit injuste, si tu préfères Saweh à moi, donne-lui du sang-froid dans la bataille et la victoire sur les Iraniens.
 >
 > Mais si c’est ta cause que je défends, si c’est pour elle que je mets en danger ma tête dans le combat, accorde de la fortune à moi et à mon armée et rends par cette guerre la prospérité au monde. »
 
