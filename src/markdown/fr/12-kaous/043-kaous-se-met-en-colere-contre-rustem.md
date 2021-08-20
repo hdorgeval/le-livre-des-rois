@@ -55,7 +55,7 @@ Il dit et frappa rudement de sa main la main de Thous ; tu aurais dit que c’é
 Thous !
 tomba par terre sur la tête et Rustem dans sa colère lui passa sur le corps pour sortir.
 
-Ilustem sor-9l lit, monta sur Raksch et dit :
+Rustem sor-9l lit, monta sur Raksch et dit :
 
 > Je suis le vainqueur des lions, le distributeur des couronnes.
 >
@@ -79,13 +79,13 @@ Ilustem sor-9l lit, monta sur Raksch et dit :
 >
 > Sont ce là les bienfaits que tu me devais ?
 >
-> C’est moi qui ai placé sur ce trône Keî Kobad.
+> C’est moi qui ai placé sur ce trône Keï Kobad.
 >
 > Que savais-je alors de Kaous et qu’était sa colère ?
 >
 > Du vent.
 >
-> Si je n’avais pas amené dans le pays d’Iran Keî Kobad, qui vivait dans la détresse et loin de la foule sur le mont Alborz, tu ne te ceindrais pas de la ceinture royale et du glaive de la vengeance, tu n’aurais pas ce pouvoir et ces richesses qui t’enhardissent à dire ces des paroles dures à Destan fils de Sam. »
+> Si je n’avais pas amené dans le pays d’Iran Keï Kobad, qui vivait dans la détresse et loin de la foule sur le mont Alborz, tu ne te ceindrais pas de la ceinture royale et du glaive de la vengeance, tu n’aurais pas ce pouvoir et ces richesses qui t’enhardissent à dire ces des paroles dures à Destan fils de Sam. »
 
 Puis, il dit aux Iraniens :
 
@@ -168,22 +168,23 @@ Si Rustem a été blessé par le roi, les Iraniens du moins n’ont pas commis d
 
 Le roi est maintenant honteux.de ses paroles et se mord le dos de la main d’avoir été si rude. »
 
-
 Rustem leur répondit :
 
 > Je n’ai aucun besoin de Keï Kaous ; ma selle est mon trône, mon casque est ma couronne, ma cuirasse est ma robe et mon âme ne songe qu’à la mort.
+>
+> Qu’est-il devant moi Kaous ?
+>
+> Une poignée de poussière.
+>
+> Pourquoi au-rais-je peur de sa colère ?
+>
+> Ai-je mérité les paroles inconvenantes qu’il m’a dites dans sa fureur ?
+>
+> Lui que j’ai délivré de ses chaînes, à qui j’ai rendu la couronne et le trône ; lui qu’au jour du combat contre les Divs du Mazenderan, au jour de la lutte contre le roi du Hamaveran, j’ai tiré de la captivité et de la détresse quand je l’ai vu entre les mains de ses ennemis.
+>
+> Ma patience est à bout, mon cœur est gros et je ne crains que Dieu le tout saint. »
 
-Qu’est-il devant moi Kaous ?
-
-Une poignée de poussière.
-
-Pourquoi au-rais-je peur de sa colère ?
-
-Ai-je mérité les paroles inconvenantes qu’il m’a dites dans sa fureur ?
-
-Lui que j’ai délivré de ses chaînes, à qui j’ai rendu la couronne et le trône ; lui qu’au jour du combat contre les Divs du Mazenderan, au jour de la lutte contre le roi du Hamaveran, j’ai tiré de la captivité et de la détresse quand je l’ai vu entre les mains de ses ennemis.
-
-Ma patience est à bout, mon cœur est gros et je ne crains que Dieu le tout saintm À ces mots, le froid de la mort saisit toute l’assemblée ; mais Gouderz répondit au héros au corps d’éléphant :
+À ces mots, le froid de la mort saisit toute l’assemblée ; mais Gouderz répondit au héros au corps d’éléphant :
 
 > Le roi et les grands qui portent haut la tête vont supposer tout autre chose. lis vont croire que le fier Rustem a peur de ce Turc et ils vont se dire tout bas : il faut bien, comme Guzdehem nous l’a dit, abandonner le pays ; car puiSque Rustem craint de le combattre, aucun de nous ne doit tarder.
 >
