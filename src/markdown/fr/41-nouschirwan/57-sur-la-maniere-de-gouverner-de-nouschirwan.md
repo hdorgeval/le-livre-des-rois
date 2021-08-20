@@ -155,7 +155,7 @@ Un autre Mobed dit :
 
 Le roi répondit :
 
-> Il est avide de gain bien au delà de ses besoins ; choisissez quelqu’un qui ne ménage pas sa peine et qui soit riche de son propre chef, un homme d’expérience, sévère et droit, qui pense avant tout aux pauvres. »
+> Il est avide de gain bien au-delà de ses besoins ; choisissez quelqu’un qui ne ménage pas sa peine et qui soit riche de son propre chef, un homme d’expérience, sévère et droit, qui pense avant tout aux pauvres. »
 
 Un autre dit :
 
@@ -173,7 +173,7 @@ Un autre dit :
 
 Il répondit :
 
-> La justice et la, raison protégent un roi et quand le distributeur de la justice se trouve tout, seul, sa droiture surfit pour le garder. »
+> La justice et la, raison protègent un roi et quand le distributeur de la justice se trouve tout, seul, sa droiture surfit pour le garder. »
 
 Un autre dit :
 
