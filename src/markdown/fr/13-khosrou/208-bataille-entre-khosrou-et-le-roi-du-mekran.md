@@ -36,7 +36,7 @@ Le messager partit et s’acquitta de son message ; mais les conseils et la just
 
 Le roi réunit son armée éparse ,se prépara à livrer bataille dans le désert et répondit à l’envoyé :
 
-> Vat’en ; retourne auprès de mon ennemi et dis-lui que la rotation de la fortune incertaine l’a rendu joyeux et puissant ; mais il éprouvera notre supériorité quand il s’avancera : il saura qui sont les braves et les héros. »
+> Va-t'en ; retourne auprès de mon ennemi et dis-lui que la rotation de la fortune incertaine l’a rendu joyeux et puissant ; mais il éprouvera notre supériorité quand il s’avancera : il saura qui sont les braves et les héros. »
 
 Aussitôt que l’envoyé du roi fut parti, tout le Mekran se remplit de clameurs, l’armée occupa tout le pays d’une chaîne de montagnes à l’autre, elle occupa le désert et le Mekran.
 
