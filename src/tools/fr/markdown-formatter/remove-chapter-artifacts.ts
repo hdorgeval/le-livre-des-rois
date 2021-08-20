@@ -1052,6 +1052,15 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/KEÏ Knosnou\./g, ''),
     (content: string) => content.replace(/KEÏ Knossos\./g, ''),
     (content: string) => content.replace(/KEI nous\./g, ''),
+    (content: string) => content.replace(/KEÏ Kuo’saou\./g, ''),
+    (content: string) => content.replace(/KEI mon s\./g, ''),
+    (content: string) => content.replace(/KEI Knosaou\./g, ''),
+    (content: string) => content.replace(/KEI KHOSROU/g, ''),
+    (content: string) => content.replace(/KEIÎKHOSROU\./g, ''),
+    (content: string) => content.replace(/KEI mors\./g, ''),
+    (content: string) => content.replace(/KEl KIlOSBOU\./g, ''),
+    (content: string) => content.replace(/KEl KHUSBUU\./g, ''),
+    (content: string) => content.replace(/KEl Kaosuou\./g, ''),
   ].forEach((format) => {
     result = format(result);
   });
