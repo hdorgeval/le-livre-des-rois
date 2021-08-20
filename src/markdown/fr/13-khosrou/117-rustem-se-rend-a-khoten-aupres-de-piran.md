@@ -47,7 +47,7 @@ Il salua Piran, en disant :
 
 Piran, par la grâce du Maître du monde, ne reconnut pas Rustem et il lui demanda :
 
-> D’où vienstu ?
+> D’où viens-tu ?
 >
 > Dis-le moi ; qui es-tu ?
 >
@@ -57,7 +57,7 @@ Rustem répondit»
 
 :
 
-> Je suis ton eSclave et Dieu m’a indiqué ta ville pour m’y abreuver.
+> Je suis ton esclave et Dieu m’a indiqué ta ville pour m’y abreuver.
 
 J’ai fait la longue et difficile route qui conduit de l’Iran dans le Touran pour me livrer à mon commerce.
 
@@ -73,7 +73,7 @@ Il lui remit ces présents en invoquant les grâces de Dieu sur lui et cette aff
 
 Lorsque Piran vit les joyaux que contenait la coupe brillante, il appela les bénédictions de Dieu sur Rustem, le reçut gracieusement, le fit asseoir sur son trône de turquoises et lui dit :
 
-> Vat’en en paix, entre dans la ville en toute sécurité, car je vais te préparer un logis au-
+> Va-t'en en paix, entre dans la ville en toute sécurité, car je vais te préparer un logis au-
 > près de moi ; n’aie pas d’inquiétude sur tes trésors, personne n’osera te chercher querelle.
 >
 > Va et apporte ici tout ce que tu as de précieux et cherche partout des acheteurs.
@@ -96,6 +96,5 @@ Alors Rustem loua une maison, s’y établit et plaça ses bagages et ses marcha
 
 Le bruit se répandit qu’une caravane de l’Iran était arrivée dans la ville de l’illustre Pehlewan ; de tous côtés les acheteurs ouvrirent les oreilles, lorsqu’ils entendirent parler du marchand de pierreries ; tous ceux qui avaient besoin de brocarts, de tapis ou de joyaux se mirent en route pour aller à la cour de
 
-KEÏ Kuo’saou.
 
 Piran ; et il s’établit dans le magasin de Rustem un marché brillant, qui illuminait le monde comme le soleil.
