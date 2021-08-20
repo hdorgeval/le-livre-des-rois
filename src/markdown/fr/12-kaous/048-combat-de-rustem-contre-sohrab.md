@@ -61,8 +61,7 @@ Mais le corps du jeune homme ne s’en ressentit pas et la main de Rustem resta 
 
 Il la retira de la ceinture de Sohrab et ne cessait de s’étonner de lui.
 
-Les deux vainqueurs des lions se quittèrent, fatigués du combat ; ils se séparèrent, brisés et blessés. 
- ne Mais Sohrab détacha encore une fois de la selle sa lourde massue ; il serra son cheval, frappa Rustem de sa massue et lui meurtrit l’épaule.
+Les deux vainqueurs des lions se quittèrent, fatigués du combat ; ils se séparèrent, brisés et blessés. ne Mais Sohrab détacha encore une fois de la selle sa lourde massue ; il serra son cheval, frappa Rustem de sa massue et lui meurtrit l’épaule.
 
 Rustem se tordit, mais il eut la force de dévorer sa douleur.
 
