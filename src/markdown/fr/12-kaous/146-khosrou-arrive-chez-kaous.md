@@ -40,7 +40,7 @@ Khosrou lui répondit :
 >
 > Puisse-t-il ne jamais obtenir ce qu’il désire !
 >
-> Puissent périr son trône et sa courronne !
+> Puissent périr son trône et sa couronne !
 >
 > C’est lui qui a fait mourir mon père si misérablement, qui a fait battre si dùrement ma mère, pour que je périsse dans son sein.
 >
@@ -75,7 +75,7 @@ Khosrou adressa de nouveau la parole à Kaous, en disant :
 >
 > Il m’a cherché dans le Touran avec des fatigues infinies.
 >
-> Encore s’il n’avait eu à endurer que la fatigue de se rendre auprès de moi dans le Touran ; mais deux Pehlewans orgueilleux, accompagnés d’une armée, nous ont poursuivis comme une flamme dévorante et c’est alors que j’ai vu faire à Guiv ce que les idolâtres de l’Indc ne voient
+> Encore s’il n’avait eu à endurer que la fatigue de se rendre auprès de moi dans le Touran ; mais deux Pehlewans orgueilleux, accompagnés d’une armée, nous ont poursuivis comme une flamme dévorante et c’est alors que j’ai vu faire à Guiv ce que les idolâtres de l’Inde ne voient
 >
 > KEÏ mors. w pas faire à un éléphant furieux.
 >
