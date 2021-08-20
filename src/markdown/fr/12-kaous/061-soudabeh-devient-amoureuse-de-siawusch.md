@@ -40,7 +40,7 @@ Que le monde se réjouisse à cause de ton enfant !
 
 Envoiele auprès de tes femmes, auprès de ses sœurs et de tes idoles et dis-lui :
 
-> Va dans l’appartement des femmes, auprès de tes sœurs et vasy sou-’vent.
+> Va dans l’appartement des femmes, auprès de tes sœurs et vas-y sou-’vent.
 >
 > Toutes les femmes voilées ont le cœur gonflé de sang et les joues inondées de larmes à cause de leur amour pour lui.
 >
