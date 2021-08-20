@@ -94,7 +94,7 @@ Il choisit pour messager un jeune homme de la cour, l’envoya en toute hâte au
 
 > Va auprès du Sipehbed et dis-lui :
 
-> Ne t’avance pas cette nuit au delà du point où tu te trouves, reviens au grand malin et entre chez a moi ; je renverrai de la salle tous les étrangers, ln.
+> Ne t’avance pas cette nuit au-delà du point où tu te trouves, reviens au grand malin et entre chez a moi ; je renverrai de la salle tous les étrangers, ln.
 >
 > car je veux te donner tous les conseils dont tu as besoin et je me suis souvenu de beaucoup de choses utiles ale dire. »
 
