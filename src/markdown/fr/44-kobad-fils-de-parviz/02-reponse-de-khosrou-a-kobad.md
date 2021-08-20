@@ -80,7 +80,7 @@ Schirin la possède avec ton horoscope et personne n’en sait quoi que ce soit,
 
 Je crois que, l’ayant vue, tu te repentiras et que tu chercheras un remède à ces douleurs.
 
-Ensuite tu as parlé des prisons et des fers, comme si quelqu’un avait eu à soufl’rir de moi.
+Ensuite tu as parlé des prisons et des fers, comme si quelqu’un avait eu à souffrir de moi.
 
 Telle a été la loi du monde depuis qu’il existe et celle des grands, des rois nobles et des princes.
 
