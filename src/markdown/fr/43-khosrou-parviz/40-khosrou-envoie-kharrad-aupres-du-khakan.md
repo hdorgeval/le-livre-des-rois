@@ -50,7 +50,7 @@ Il n’a pas de faveur pour l’un ni de colère pour l’autre ; on ne le conna
 
 Petits et grands nous naissons pour redevenir poussière, nous livrons inévitablement notre corps à la mort.
 
-En commençant par Djemschid, le sublime et Thahmouras, le glorieux maître du monde, en continuant jusqu’à Keîkobad et les grands dont nous avons conservé le souvenir, comme Keï Khosrou et l’illustre Rustem et de même jusqu’à Isfendiar, nous voyons qu’ils n’ont obtenu du monde qu’un tombeau, qu’ils ont sucé du poison au lieu de thériaque.
+En commençant par Djemschid, le sublime et Thahmouras, le glorieux maître du monde, en continuant jusqu’à Keïkobad et les grands dont nous avons conservé le souvenir, comme Keï Khosrou et l’illustre Rustem et de même jusqu’à Isfendiar, nous voyons qu’ils n’ont obtenu du monde qu’un tombeau, qu’ils ont sucé du poison au lieu de thériaque.
 
 Maintenant le roi de l’Iran est ton parent, il est heureux ou triste selon que .tu grandis ou que tu dépéris.
 
