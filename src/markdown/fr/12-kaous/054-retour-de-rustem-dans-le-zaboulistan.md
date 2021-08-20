@@ -72,7 +72,7 @@ Elle commença alors à se lamenter et à exhaler de sa poitrine des soupirs fro
 >
 > Sort t’a réservé ton père et comment il t’a déchiré la poitrine. »
 
-Les cris de Roudabeh montèrcnt du palais jusqu’à Saturne et quiconque les entendait pleurait amèrement.
+Les cris de Roudabeh montèrent du palais jusqu’à Saturne et quiconque les entendait pleurait amèrement.
 
 Puis elle se retira dans ses appartements, plongée dans la tristesse et le deuil, le cœur rempli de douleur, les deux joues pâles un
 
