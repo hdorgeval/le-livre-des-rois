@@ -99,7 +99,7 @@ qui, malgré sa soif, s’éloigne de l’eau douce en fuyant et un poisson qui 
 >
 > Sache qu’il n’y a dans le monde, ni parmi’les rois ni parmi les sages et les Mobeds, son égal en bon conseil, en savoir, en majesté et en valeur ; il est victorieux en toute chose et en tout lieu. »
 
-Keîd écouta ces paroles de Mihran et le vieux monde en fut rajeuni à ses yeux.
+Keïd écouta ces paroles de Mihran et le vieux monde en fut rajeuni à ses yeux.
 
 Il s’approcha de lui, le baisa sur le front et les yeux et partit joyeusement, le cœur en repos et assuré de son succès.
 
