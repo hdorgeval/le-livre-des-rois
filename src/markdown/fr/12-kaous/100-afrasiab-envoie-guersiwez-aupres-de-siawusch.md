@@ -30,7 +30,7 @@ Afrasiab raconta ces nouvelles à Guersiwez, il dévoila devant lui tout ce qui 
 >
 > Prépare des présents sans nombre, de l’or, des pierreries, des chevaux et des arcs, des couronnes magnifiques, des brocarts de la Chine, des diadèmes, des épées, des massues et des sceaux ; cherche ce que ton trésor peut te fournir en tapis et en tout ce qui est beau de couleur et de parfum.
 >
-> Porte de même des présents à Ferenguis et vasy la langue chargée de bénédictions.
+> Porte de même des présents à Ferenguis et vas-y la langue chargée de bénédictions.
 >
 > Si ton hôte le reçoit avec honneur, reste joyeusement dans cette belle ville. »
 
