@@ -141,7 +141,7 @@ L’âme remplie de ces pensées, il rebroussa chemin et marcha d’un pas égal
 
 Étant sur la route, près de son maître illustre, il vit que personne n’était auprès de lui.
 
-Ayin Guschasp était assis dans sa tente, sans serviteur, sans épée, sans cheval, le cœur rempli de soucis sur les afl’aires du roi et sur ce que le sort amènerait.
+Ayin Guschasp était assis dans sa tente, sans serviteur, sans épée, sans cheval, le cœur rempli de soucis sur les affaires du roi et sur ce que le sort amènerait.
 
 Lorsqu’il vit entrer son commensal dans la tente, il comprit que cet homme allait tremper la main dans son sang.
 
