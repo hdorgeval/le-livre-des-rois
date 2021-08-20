@@ -64,7 +64,7 @@ Ils convinrent alors qu’ils n’attaqueraient pas sans sujet les truchements e
 
 Étant convenus de cela, les vaillants cavaliers mirent pied à terre, boutonnèrent les caparaçons de mailles et les attachèrent fortement sur leurs destriers.
 
-Les deux guerriers sellèrent leurs chevaux aux pieds de vent ; et l’âme pleine de ro- se] lère, le cœur rempli de haine, ils préparèrent leurs arcs soigneusement et s’élancèrent sur le champ de bataille.
+Les deux guerriers sellèrent leurs chevaux aux pieds de vent ; et l’âme pleine de rose] lère, le cœur rempli de haine, ils préparèrent leurs arcs soigneusement et s’élancèrent sur le champ de bataille.
 
 Ils placèrent les flèches à pointe d’acier et tendirent les arcs jusqu’à ce que les deux bouts se touchassent ; ayant épuisé leurs flèches, ils saisirent à l’instant les lances, manièrent la bride pour tourner à droite et à gauche et leurs cuirasses tombè-rent bientôt en morceaux sous les coups de leurs lances brillantes : Nous allons voir à qui manquèrent les forces et qui trahit la fortune.
 
