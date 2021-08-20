@@ -33,7 +33,7 @@ Deux paires de gazelles s’approchaient ; le jeune homme dit en riant à Azadeh
 
 > Ô lune !
 >
-> Quand j’aurai bandémon arc et saisi la flèche avec l’anneau, laquelle des gazelles veuxtu que j’abatte ?
+> Quand j’aurai bandémon arc et saisi la flèche avec l’anneau, laquelle des gazelles veux-tu que j’abatte ?
 >
 > Voici une femelle jeune et un vieux mâle. »
 
