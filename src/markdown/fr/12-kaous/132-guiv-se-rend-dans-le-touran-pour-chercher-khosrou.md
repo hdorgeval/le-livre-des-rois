@@ -109,7 +109,7 @@ Il n’y a de voie véritable que sa volonté et ses ordres et le soleil et la l
 
 Pour se conformer aux ordres de Dieu, Guiv noua sa ceinture et partit, semblable à un lion furieux ; il partit seul et n’emmena personne, confiant à Dieu son corps habitué au luxe.
 
-Il marcha jusqu’à ce qu’il eût atteint le pays de Touran ; et quand il trouvait sur son chemin un homme seul, il lui demandait avec douceur, en langue turque, des nou- velles de Khosrou.
+Il marcha jusqu’à ce qu’il eût atteint le pays de Touran ; et quand il trouvait sur son chemin un homme seul, il lui demandait avec douceur, en langue turque, des nouvelles de Khosrou.
 
 Si le Turc lui répondait qu’il n’en avait pas connaissance, il le tuait aussitôt, l’attachait avec son lacet, le traînait au loin et le couvrait de terre, afin que personne ne connût son secret, n’entendît prononcer son nom et n’ébruitât son arrivée.
 
