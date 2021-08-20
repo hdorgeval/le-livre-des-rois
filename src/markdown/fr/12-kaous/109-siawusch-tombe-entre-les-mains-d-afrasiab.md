@@ -104,7 +104,7 @@ Le roi ordonna à son armée de tirer l’épée tranchante et de pousser des cr
 
 Les Iraniens étaient au nombre de mille et tous guerriers illustres ; ils furent tous frappés, blessés et exterminés : c’est ainsi que se termina leur vie.
 
-Jusquelà aucun des Turcs n’avait osé s’approcher de Siawusch, aucun n’avait osé l’attaquer sur le champ de bataille ; mais son sort était décidé et lorsque les braves eurent tous succombé jusqu’au dernier, les Turcs l’assaillirent en masse et lancèrent cinquante ou soixante traits.
+Jusque-là aucun des Turcs n’avait osé s’approcher de Siawusch, aucun n’avait osé l’attaquer sur le champ de bataille ; mais son sort était décidé et lorsque les braves eurent tous succombé jusqu’au dernier, les Turcs l’assaillirent en masse et lancèrent cinquante ou soixante traits.
 
 Le roi fut blessé par des flèches et des lances et tomba du haut de son cheval noir.
 
@@ -138,7 +138,7 @@ Mais le méchant Guersiwez appuya dans sa démence les meurtriers, parce qu’il
 
 Or il y avait un frère de Piran, plus jeune que lui et son noble compagnon ; Pilsem était le nom de ce jeune héros plein de bravoure et d’un esprit brillant.
 
-Pilsem dit à l’illustre Afivwiab :
+Pilsem dit à l’illustre Afrasiab :
 
 > L’arbre que tu veux planter ne portera pour fruit que des soucis et des peines.
 >
@@ -146,7 +146,7 @@ Pilsem dit à l’illustre Afivwiab :
 >
 > Que celui qui est en colère se serve donc de la raison pour se guérir.
 >
-> La précipitation et la méchanceté sont l’œuvre d’Abriman et c’est d’elles que viennent le repentir de l’âme et les peines du corps.
+> La précipitation et la méchanceté sont l’œuvre d’Ahriman et c’est d’elles que viennent le repentir de l’âme et les peines du corps.
 >
 > Il n’est pas digne de toi de faire couper, dans un moment de courroux, la tête à un homme dont tu es le roi.
 >
