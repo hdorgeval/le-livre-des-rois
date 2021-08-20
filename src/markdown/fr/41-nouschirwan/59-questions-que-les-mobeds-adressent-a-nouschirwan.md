@@ -418,7 +418,7 @@ Il répondit :
 >
 > Si l’on veut s’attacher à quelqu’un, il faut avoir du mérite, de la délicatesse et de la douceur.
 >
-> Mais on ne doit pas se vanter au delà de son mérite, car l’homme uste ne compte pas pour des mérites des prétentions mensongères ; il ne prend pas la richesse de qui que ce soit pour de la grandeur ; il ne méprise personne pour sa pauvreté.
+> Mais on ne doit pas se vanter au-delà de son mérite, car l’homme uste ne compte pas pour des mérites des prétentions mensongères ; il ne prend pas la richesse de qui que ce soit pour de la grandeur ; il ne méprise personne pour sa pauvreté.
 >
 > Quand un homme qui pense mal des autres parle, ne te laisse pas entraîner par lui à agir avec précipitation ; quand un homme faible te fait part de ses opinions et que ses discours dépassent ta patience, réponds-lui avec mesure, en paroles douces et sans faire voir ta fatigue.
 >
