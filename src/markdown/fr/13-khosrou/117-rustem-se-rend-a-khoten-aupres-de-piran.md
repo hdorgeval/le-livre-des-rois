@@ -96,5 +96,4 @@ Alors Rustem loua une maison, s’y établit et plaça ses bagages et ses marcha
 
 Le bruit se répandit qu’une caravane de l’Iran était arrivée dans la ville de l’illustre Pehlewan ; de tous côtés les acheteurs ouvrirent les oreilles, lorsqu’ils entendirent parler du marchand de pierreries ; tous ceux qui avaient besoin de brocarts, de tapis ou de joyaux se mirent en route pour aller à la cour de
 
-
 Piran ; et il s’établit dans le magasin de Rustem un marché brillant, qui illuminait le monde comme le soleil.
