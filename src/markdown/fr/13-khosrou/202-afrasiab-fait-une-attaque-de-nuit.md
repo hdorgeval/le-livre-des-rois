@@ -47,7 +47,7 @@ Leur marche se fit tranquillement, sans bruit, sans son de clairon, sans cris ; 
 
 Toute l’avant-garde de l’armée lança ses chevaux et poussa des cris, mais une partie des cavaliers tomba dans le fossé et le reste se déroba au combat.
 
-D’un côté s’avança Ilustem, qui revenait de la plaine, et
+D’un côté s’avança Rustem, qui revenait de la plaine, et
 
 Keï l’air se remplit de la poussière que faisaient lever ses chevaux ; de l’autre côté arrivèrent Guiv, Thous et Gouderz, précédés de clairons et,de timbales ; enfin le roi des rois s’avança avec le drapeau de Kaweh et l’air devint violet par la masse des épées de ses cavaliers.
 
