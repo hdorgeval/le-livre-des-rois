@@ -16,7 +16,7 @@ order: '133'
 
 # Guiv découvre Keï Khosrou
 
-Guiv errait ainsi’dans le pays de Touran, comme un insensé, espérant trouver quelque trace du roi.
+Guiv errait ainsi dans le pays de Touran, comme un insensé, espérant trouver quelque trace du roi.
 
 Sept années se passèrent et ses reins étaient usés u. ïî’i
 
@@ -93,13 +93,13 @@ Lorsque l’illustre Guiv s’approcha, Khosrou, le fils du roi, s’avança ver
 >
 > Tu es le bienvenu, puisque tu viens par la grâce et par l’ordre de Dieu.
 >
-> Comment as-tu pu pénétrer dans ce ce pays ?
+> Comment as-tu pu pénétrer dans ce pays ?
 >
 > Quelles nouvelles as-tu de T hous, de Gouderz et du roi Kaous ?
 >
 > Sont-ils tous heureux?Pen-sent-ils à Khosrou ?
 >
-> Comment se porte Rustem, le héros au corps d’éléphant qui ambitionne la possession du monde et le Destan et toute cette Iamille ? »
+> Comment se porte Rustem, le héros au corps d’éléphant qui ambitionne la possession du monde et le Destan et toute cette famille ? »
 
 Quand Guiv entendit ces paroles, il resta confondu et sa langue prononça le nom de Dieu.
 
