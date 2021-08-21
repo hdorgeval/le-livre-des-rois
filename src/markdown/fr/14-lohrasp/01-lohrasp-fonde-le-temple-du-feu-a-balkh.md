@@ -3,7 +3,7 @@ lastUpdate: '2021-05-13'
 lang: 'fr'
 status: 'ready'
 thumbnail: 'https://source.unsplash.com/_hF6pftEah4'
-image: 'zOUC2BWW8ms.jpeg'
+image: 'EwKXn5CapA4.jpeg'
 source: tome IV - livre des rois - P. 223
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
