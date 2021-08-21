@@ -108,7 +108,7 @@ Bahram à la parole sage a dit :
 >
 > Tu ne resteras pas longtemps ici ; sois donc prêt et ne compte pas sur un délai.
 >
-> Ton père a fixé un jour pour ton départ, saistu s’il n’est pas arrivé ?
+> Ton père a fixé un jour pour ton départ, sais-tu s’il n’est pas arrivé ?
 >
 > C’est là son secret, qui ne peut être connu et tu n’en trouveras pas la clef que tu cherches étourdiment.
 >
