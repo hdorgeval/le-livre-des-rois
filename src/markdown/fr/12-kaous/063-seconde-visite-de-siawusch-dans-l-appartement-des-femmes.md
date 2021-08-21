@@ -26,7 +26,7 @@ Soudabeh au visage de lune dit à Hirbed :
 
 > Va sur-le-champ auprès de Siawusch et dis-lui :
 
-> Il faut que tu fatigues les pieds pour venir lui montrer-Iton visage et ta taille. »
+> Il faut que tu fatigues tes pieds pour venir lui montrer ton visage et ta taille. »
 
 Hirbed se rendit en courant auprès de Siawusch et s’acquitta du message de celle qui l’aimait.
 
@@ -45,10 +45,7 @@ Elle montra au jeune roi ces idoles, qui ressemblaient à des perles intactes, e
 Siawusch jeta un court regard sur ces belles, mais aucune d’elles n’ose le lui rendre ; car ces lunes se disaient l’une à l’autre : Il ne convient
 -pas de regarder ce roi. »
 
-Ensuite chacune d’elles if».
-
-L7à
-s’en retourna à son trône, calculant ses chances de bonheur.
+Ensuite chacune d’elles s’en retourna à son trône, calculant ses chances de bonheur.
 
 Quand elles furent parties, Soudabeh lui dit :
 
@@ -58,7 +55,7 @@ Quand elles furent parties, Soudabeh lui dit :
 >
 > Quiconque te voit de loin perd la raison et te choisit entre tous.
 >
-> Regarde avec les yeux de l’intelligence ces filles aux belles ce joues et décide laquelle te convient. »
+> Regarde avec les yeux de l’intelligence ces filles aux belles joues et décide laquelle te convient. »
 
 Siawusch était confondu et ne répondit pas ; il pensait en son âme pure :
 
@@ -66,7 +63,7 @@ Siawusch était confondu et ne répondit pas ; il pensait en son âme pure :
 >
 > J’ai entendu raconter par les grands de haut renom tout ce qui s’est passé dans le Hamaveran et ce que le roi a fait au roi de l’Iran et comment il a exterminé les braves de ce pays.
 >
-> Soudabeh, qui est sa fille, est pleine de ruses et ne veut laisser à notre famille ni cervelle rni peau. »
+> Soudabeh, qui est sa fille, est pleine de ruses et ne veut laisser à notre famille ni cervelle ni peau. »
 
 Pendant que Siawusch tardait ainsi à répondre, la belle au visage de Péri ôta de son front son voile et lui dit :
 
@@ -74,11 +71,9 @@ Pendant que Siawusch tardait ainsi à répondre, la belle au visage de Péri ôt
 >
 > Quand un homme m’a vue, assise sur le trône d’ivoire, un diadème de rubis et de turquoises sur la tête, il ne faut pas s’étonner s’il ne regarde plus la lune et ne compte pour belle aucune autre que moi.
 >
-> Si tu veux main-
+> Si tu veux maintenant faire une alliance avec moi, si tu veux y rester fidèle et mettre en repos mon esprit, je Le donnerai une de mes jeunes filles, pour qu’elle se tienne devant toi comme une esclave.
 >
-> KEÏ nous tenant faire une alliance avec moi, si tu veux y rester fidèle et mettre en repos mon esprit, je Le donnerai une de mes jeunes filles, pour qu’elle se tienne devant toi comme une esclave.
->
-> Fais-moi maintenant un grand serment et ne t’écarle en rien de ce que je le demande.
+> Fais-moi maintenant un grand serment et ne t’écarte en rien de ce que je le demande.
 >
 > Quand le roi aura quitté le monde, tu le remplaceras auprès de moi, tu ne souffriras pas qu’il m’arrive de mal, tu me chériras comme ta propre âme.
 >
@@ -100,11 +95,11 @@ Il dit en son âme :
 
 Il répondit ensuite à Soudabeh :
 
-> Il n’y a pas de femme dans le monde qui soit ton égale ; la beauté ne peut se com--parer qu’à la lune et personne n’est digne de toi que le roi.
+> Il n’y a pas de femme dans le monde qui soit ton égale ; la beauté ne peut se comparer qu’à la lune et personne n’est digne de toi que le roi.
 >
 > C’est assez de bonheur pour moi que tu me donnes ta fille et je ne dois pas posséder une autre femme.
 >
-> Reste dans cette intention et parlesen au roi de l’Iran et fais attention à la réponse qu’il te fera.
+> Reste dans cette intention et parles-en au roi de l’Iran et fais attention à la réponse qu’il te fera.
 >
 > Je demanderai en mariage ta fille et je l’épouserai et je te donne pour garant ma parole que je ne penserai à aucune autre femme jusqu’à ce que sa taille soit haute comme la mienne.
 >
@@ -112,7 +107,7 @@ Il répondit ensuite à Soudabeh :
 >
 > Dieu dans sa grâce m’a créé tel que je suis, ô femme, belle sur toutes les autres !
 >
-> Garde ton secret et ne le disà personne ; moi je ne demande que de le cacher.
+> Garde ton secret et ne le dis à personne ; moi je ne demande que de le cacher.
 >
 > Tu es la première des princesses et tu es la reine et je te regarde comme ma même Il dit et quitta Soudabeh, dont l’âme méchante était remplie d’amour pour lui.
 >
@@ -122,13 +117,13 @@ Il répondit ensuite à Soudabeh :
 >
 > Mais il n’a jeté les yeux que sur ma fille, aucune autre de ces belles n’était digne de lui. »
 
-Le roi fut si content de ces paroles que tu m aurais dit qu’il tenait embrassée la lune.
+Le roi fut si content de ces paroles que tu aurais dit qu’il tenait embrassée la lune.
 
-Il ouvril les portes de son trésor et en lira des joyaux, des étoffes tissues d’or et des ceintures d’or, des bracelets, des couronnes et des bagues, des trônes et des colliers, insignes du pouvoir, enfin il étala toutes sortes de trésors dès longtemps amassés et le monde parut rempli de choses précieuses.
+Il ouvrit les portes de son trésor et en lira des joyaux, des étoffes tissues d’or et des ceintures d’or, des bracelets, des couronnes et des bagues, des trônes et des colliers, insignes du pouvoir, enfin il étala toutes sortes de trésors dès longtemps amassés et le monde parut rempli de choses précieuses.
 
 Ensuite, il dit à Soudabeh :
 
-> Garde ceci pour Siawusch et quand il en sera besoin, donne-le lui et dis-lui que c’est peu de chose et qu’il faudrait lui donner deux cents trésors comme celui-ci. »
+> Garde ceci pour Siawusch et quand il en sera besoin, donne-le-lui et dis-lui que c’est peu de chose et qu’il faudrait lui donner deux cents trésors comme celui-ci. »
 
 Soudabeh regarda et fut étonnée ; elle récita dans son cœur beaucoup de paroles magiques et se dit :
 
