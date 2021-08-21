@@ -64,9 +64,7 @@ Arrivés auprès de Ferenguis, ils parlèrent beaucoup de la longue route qu’i
 
 Lorsque Ferenguis vit Behzad,ses yeux inondèrent de larmes son visage, elle appliqua ses deux joues contre la crinière et le poitrail du cheval et invoqua les mânes de Siawusch.
 
-À la fin, les larmes de ses yeux étant épuisées, elle alla rapidement vers le lieu où étaient accumulées ses richesses :
-
-KEI nous car elle avait dans le palais un trésor secret dont personne au monde n’avait connaissance, un trésor rempli de pièces d’or et d’argent, de rubis, de masses d’armes, de caparaçons pour les chevaux, de poignards, d’épées et de lourdes massues.
+À la fin, les larmes de ses yeux étant épuisées, elle alla rapidement vers le lieu où étaient accumulées ses richesses : car elle avait dans le palais un trésor secret dont personne au monde n’avait connaissance, un trésor rempli de pièces d’or et d’argent, de rubis, de masses d’armes, de caparaçons pour les chevaux, de poignards, d’épées et de lourdes massues.
 
 Elle ouvrit devant son fils la porte du trésor, le cœur gonflé de douleur et déchiré par les soucis.
 
