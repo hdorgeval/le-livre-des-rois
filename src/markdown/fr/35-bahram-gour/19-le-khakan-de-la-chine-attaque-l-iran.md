@@ -82,7 +82,7 @@ Nersi répondit :
 >
 > Pourquoi désespérer du roi Bahram, parce qu’il est parti avec une petite rrarmée ?
 >
-> Qu’est-ce qui a pu vous inspirer ces mau-vaises pensées ?
+> Qu’est-ce qui a pu vous inspirer ces mauvaises pensées ?
 >
 > C’est des mauvaises pensées que sort le malheur. »
 
