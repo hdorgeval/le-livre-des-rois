@@ -59,7 +59,7 @@ Telle était la lettre et le présent digne d’un roi qu’ils emportèrent en 
 
 Sohrab en eut connaissance et serra sa ceinture pour aller à leur rencontre.
 
-Il alla avec son grand-père au-devant de Houman rapidement comme le vent, et voyant cette grande armée, son cœur s’en réjouit.
+Il alla avec son grand-père au-devant de Houman rapidement comme le vent et voyant cette grande armée, son cœur s’en réjouit.
 
 Lorsque Houman vit les bras et les épaules de Sohrab, il en resta tout interdit ; il lui remit la lettre du roi avec les présents et les armes et les deux Pehlewans pleins de prudence s’acquittèrent du message du roi de la terre.
 
