@@ -100,7 +100,9 @@ Le héros au cœur de lion fit un signe à Zewareh et lui ordonna de verser ce s
 >
 > On lui trancha la tête avec l’épée, après qu’il eut poussé quelques cris et tout. fut fini.
 >
-> Ô mondel que veux-tu des créatures que tu nourris ?
+> Ô monde !
+
+Que veux-tu des créatures que tu nourris ?
 >
 > Que dis-je, nourrir ?
 >
