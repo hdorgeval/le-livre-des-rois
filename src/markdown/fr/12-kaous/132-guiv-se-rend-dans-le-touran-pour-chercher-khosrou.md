@@ -83,7 +83,7 @@ Pense que les jours s’en vont ; fais ton occupation des prières à Dieu le to
 
 Quelque long que soit ton séjour sur la terre, il faudra partir par une roule qui ne permet pas de retour.
 
-Fais donc le bien et n’afIIige per--sonne, c’est la la voie du salut.
+Fais donc le bien et n’afflige per--sonne, c’est la la voie du salut.
 
 Ne mets pas ton affection dans ce monde instable, car il ne t’appara tiendra pas à jamais.
 
