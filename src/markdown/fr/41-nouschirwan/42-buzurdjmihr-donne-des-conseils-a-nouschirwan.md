@@ -536,7 +536,7 @@ Il répondit :
 
 > Gardez-vous de la colère quand quelqu’un ferme les yeux sur ceux qui commettent des fautes.
 >
-> Ensnite, tiens ton esprit éveillé, et, autant que tu le peux, défends-toi de toute participation à de mau-vaises actions.
+> Ensnite, tiens ton esprit éveillé, et, autant que tu le peux, défends-toi de toute participation à de mauvaises actions.
 >
 > L’âme de celui qui renonce à la rancuneet reprend de l’espoir brille comme le soleil.
 >
