@@ -16,7 +16,7 @@ order: '147'
 
 # Thous refuse de reconnaître Keï Khosrou
 
-Keschwad avait à Isthakher un palais qui était la gloire de sa noble famille ; et lorsque Gouderz et Khosrou furent sortis de la présence de Kaous, ils firent leurs préparatifs pour s’y rendre.
+Keschwad avait à Istakher un palais qui était la gloire de sa noble famille ; et lorsque Gouderz et Khosrou furent sortis de la présence de Kaous, ils firent leurs préparatifs pour s’y rendre.
 
 Ils se mirent en route et quand ils furent arrivés dans ce palais doré, on fit asseoir Khosrou sur un trône d’or, on le salua comme roi.
 
@@ -74,4 +74,4 @@ Guiv se leva en fureur, car il n’avait point de confiance dans la sagesse et d
 
 Après avoir prononcé ces paroles dures, Guiv tourna vivement le dos à Thous, s’en retourna auprès de Gouderz fils de Keschwad et lui dit :
 
-> Thous n’a ni dignité, ni sens ; tu dirais qu’il a des yeux et qu’il ne voit pas : c’est Feribourz qu’il choisit pour roi et pourtant il n’y a pas dans le palais une peinture belle comme Khosrou ; il n’y a pas de roi comme lui quand il est assis sur la selle d’or ; jamais il n’y a’eu dans l’Iran un cavalier comme lui, ni sur le trône un prince paré de colliers et de boucles d’oreilles beau comme lui. »
+> Thous n’a ni dignité, ni sens ; tu dirais qu’il a des yeux et qu’il ne voit pas : c’est Feribourz qu’il choisit pour roi et pourtant il n’y a pas dans le palais une peinture belle comme Khosrou ; il n’y a pas de roi comme lui quand il est assis sur la selle d’or ; jamais il n’y a eu dans l’Iran un cavalier comme lui, ni sur le trône un prince paré de colliers et de boucles d’oreilles beau comme lui. »
