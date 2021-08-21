@@ -94,7 +94,9 @@ Le roi lui dit :
 >
 > Puisses-tu être heureux !
 >
-> Puisses-tu toujours être le soutien de la raisonl J’ai entendu peu de paroles aussi bonnes et ta sagesse ne fera qu’accroître puisque tu as compris cela.
+> Puisses-tu toujours être le soutien de la raison !
+>
+> J’ai entendu peu de paroles aussi bonnes et ta sagesse ne fera qu’accroître puisque tu as compris cela.
 >
 > Ne laisse pas entrer de soupçon dans ton cœur, sois joyeux et bannis tout souci.
 >
