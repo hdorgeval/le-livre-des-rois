@@ -45,7 +45,7 @@ Nous venons de la poussière et nous devons y retourner ; et partout il n’y a 
 
 Pourquoi notre sort est-il de n’y pas faire attention ?
 
-Après avoir cherché pendant soixantesix ans un lieu de repos, le front ridé par l’excès du travail et par les peines, tu as étendu sur le monde la main de l’ambition ; mais la plupart de tes compagnons t’ont déjà devancé en mourant et tu ne seras plus leur confident : écoute donc une histoire tirée d’un ancien livre.
+Après avoir cherché pendant soixante-six ans un lieu de repos, le front ridé par l’excès du travail et par les peines, tu as étendu sur le monde la main de l’ambition ; mais la plupart de tes compagnons t’ont déjà devancé en mourant et tu ne seras plus leur confident : écoute donc une histoire tirée d’un ancien livre.
 
 Puisque ces hommes illustres ont quitté le monde, pourquoi mets-tu sur ta tête la couronne de l’ambition ?
 
