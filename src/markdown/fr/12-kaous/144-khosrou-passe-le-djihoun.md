@@ -66,7 +66,7 @@ Il avait honte des paroles grossières dont il s’était servi et il vit qu’i
 >
 > Il se présenta devant
 >
-> le roi aussitôt qu’il eut touché la rive, et lui demanda pardon en déposant à ses pieds des présents, un arc, un lacet et un casque ; mais Guiv s’écria :
+> le roi aussitôt qu’il eut touché la rive et lui demanda pardon en déposant à ses pieds des présents, un arc, un lacet et un casque ; mais Guiv s’écria :
 
 > Ô chien stupide !
 >
