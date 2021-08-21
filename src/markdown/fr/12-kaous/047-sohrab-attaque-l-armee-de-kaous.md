@@ -30,7 +30,9 @@ Il se précipita" sur l’enceinte des tentes du roi et en emporta le dessus ave
 
 Les chefs courageux se dispersèrent devant lui comme des onagres devant les griffes du lion ; aucun des grands de l’armée de l’Iran n’osa le regarder en face à cause de ses pieds et de ses étriers, de ses mains et de ses rênes, de ses bras et de sa lance vibrante.
 
-Les chefs et les braves s’assemblèrent en sedisant : Voici un héros au corps d’éléphant ; il ne faut pas le regarder en face étourdiment ; qui est-ce qui oserait le combattre ? »
+Les chefs et les braves s’assemblèrent en se disant :
+
+> Voici un héros au corps d’éléphant ; il ne faut pas le regarder en face étourdiment ; qui est-ce qui oserait le combattre ? »
 
 Là-dessus Sohrab poussa des cris et défia le roi Kaous en disant :
 
