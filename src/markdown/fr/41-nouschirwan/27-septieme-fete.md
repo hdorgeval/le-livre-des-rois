@@ -74,8 +74,7 @@ L’homme intelligent répondit au roi :
 >
 > S’il t’en veut pour quelque chose, fais tes excuses et ne te plains pas ; mais si tu te sais innocent de la faute, découvre [au roi ce qui est dans ton cœur.
 >
-> Si tu te sens de la colère dans l’âme .
-ne lui montre pas ton visage et éloigne-toi ; car, par la grâce de Dieu, il voit dans ton âme. il voit la perversité et la noirceur de ton esprit et dorénavant tu n’éprouverais plus ses bontés, tu n’entendrais plus de sa bouche des paroles amicales.
+> Si tu te sens de la colère dans l’âme, ne lui montre pas ton visage et éloigne-toi ; car, par la grâce de Dieu, il voit dans ton âme, il voit la perversité et la noirceur de ton esprit et dorénavant tu n’éprouverais plus ses bontés, tu n’entendrais plus de sa bouche des paroles amicales.
 >
 > Regarde la cour du roi comme une mer, ses serviteurs sont les mariniers, leurs talents sont les vaisseaux, la parole est l’ancre, l’intelligence est la voile et quand le sage navigue, il fortifie ses voiles, car elles le protègent et lui donnent de l’ombre.
 >
@@ -87,9 +86,7 @@ ne lui montre pas ton visage et éloigne-toi ; car, par la grâce de Dieu, il vo
 >
 > L’action du roi est comme celle de la mer ; c’est par son ordre que la lune brille au ciel ; l’un tire de la mer une poignée de sable, l’autre des perles dans leurs coquilles.
 >
-> Puisse le monde prospérer par Nouschirwan, dont l’intelligence est mûre et vive et dont la fortune est jeune, qui est
->
-> le chef des rois du monde, qui a enrichi l’empire par toutes sortes de bienfaits. »
+> Puisse le monde prospérer par Nouschirwan, dont l’intelligence est mûre et vive et dont la fortune est jeune, qui est le chef des rois du monde, qui a enrichi l’empire par toutes sortes de bienfaits. »
 
 Kesra prêta attention aux paroles de Buzurdjmihr, dont la voix ravivait son cœur.
 
