@@ -40,7 +40,7 @@ Un Mobed lui répondit :
 
 Le roi répondit :
 
-> Je ne vois dans cette assemblée personne qui soitl’égal d’Afrasiab en pouvoir et en gloire ; il faut que je coure comme court un vaisseau sur l’eau.
+> Je ne vois dans cette assemblée personne qui soit l’égal d’Afrasiab en pouvoir et en gloire ; il faut que je coure comme court un vaisseau sur l’eau.
 >
 > Quant à vous, sortez ; je ne suivrai dans cette affaire que le penchant de mon cœur. »
 
