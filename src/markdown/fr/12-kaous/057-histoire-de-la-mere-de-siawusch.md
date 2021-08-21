@@ -110,6 +110,6 @@ Elle lui répondit :
 
 > Aussitôt que je t’ai vu, je t’ai choisi parmi tous les grands qui portent haut la tête. »
 
-Le roi envoyaà chacun des deux Pehlewans dix nobles chevaux, un trône et une couronne ; il fit entrer la belle dans l’appartement des femmes et lui ordonna de s’asseoir sur le trône.
+Le roi envoya à chacun des deux Pehlewans dix nobles chevaux, un trône et une couronne ; il fit entrer la belle dans l’appartement des femmes et lui ordonna de s’asseoir sur le trône.
 
 On la plaça sur un trône d’ivoire ; on posa sur sa tête une couronne d’or et de turquoises, on la para de brocart jaune, de rubis, de turquoises et de lapis-lazuli ; et tout le reste des présents du roi était digne de cette femme, qui était un beau rubis intact.
