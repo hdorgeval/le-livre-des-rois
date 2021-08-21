@@ -77,7 +77,7 @@ Il m’a dit :
 >
 > Pourquoi s’exposer’voloutairement à l’haleine du dragon ?
 >
-> Je le traiterai bien aussi longtemps qu’il restera ici et je serai pour lui un frère ; et quand il voudra retourner dans l’Irau, je l’équiperai magnifiquement pour son voyage et le renverrai à son père amicalement, comme le veut Dieu le tout juste. »
+> Je le traiterai bien aussi longtemps qu’il restera ici et je serai pour lui un frère ; et quand il voudra retourner dans l’Iran, je l’équiperai magnifiquement pour son voyage et le renverrai à son père amicalement, comme le veut Dieu le tout juste. »
 
 2ôâ
 Piran lui répondit :
