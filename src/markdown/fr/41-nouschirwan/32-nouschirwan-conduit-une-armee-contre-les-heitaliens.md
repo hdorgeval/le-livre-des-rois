@@ -67,7 +67,9 @@ Ensuite, si tu parles du Khakan, qui nourrit dans son cœur le grief d’une anc
 
 Ne parle pas des Heïtaliens et de l’armée de Ghatfer et ne t’en fais pas de soucis ; mais occupe-toi dans ton esprit lucide de la famille d’Ardjasp et d’Afrasiab et du Khakan, qui s’est établi de ce côté du fleuve, car tu es le puissant maître du monde et notre esprit et notre intelligence seront éclairés par toi.
 
-Vive à jamais celui qui cultive la raisonl Tu as plus de sagesse que . cette grande assemblée et tu n’as pas besoin de sages et de conseillers ; la couronne et le trône du monde te sont dus, car tu possèdes la majesté, la gloire, la raison et la fortune.
+Vive à jamais celui qui cultive la raison !
+
+Tu as plus de sagesse que . cette grande assemblée et tu n’as pas besoin de sages et de conseillers ; la couronne et le trône du monde te sont dus, car tu possèdes la majesté, la gloire, la raison et la fortune.
 
 Mais si le roi va dans le Khorasan, il aura à craindre pour l’Iran ; car dès que les Roumis voient qu’il a quitté ce pays, ils viennent avec une armée pour se venger des Iraniens et ce pays est dévasté.
 
