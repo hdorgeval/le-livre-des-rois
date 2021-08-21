@@ -90,7 +90,7 @@ Le roi lui dit :
 >
 > Pourquoi m’as-tu enfermé dans une peau d’âne et jeté sur le sol comme une chose vile?’.t’arrivais en marchand pour une fête et non pas pour un combat avec des timbales et une armée et tu as mis ton hôte dans une peau d’âne, puis tu es parti pour l’Iran avec une armée.
 >
-> Maintenant tu vas voir à l’œuvre des hommes vaillants et tu ne chercheras plus à combattre l’Irau. »
+> Maintenant tu vas voir à l’œuvre des hommes vaillants et tu ne chercheras plus à combattre l’Iran. »
 
 Le Kaïsar répondit :
 
