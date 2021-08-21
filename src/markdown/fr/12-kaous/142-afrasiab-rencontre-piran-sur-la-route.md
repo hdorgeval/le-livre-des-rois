@@ -34,13 +34,15 @@ Il demanda :
 >
 > Qui est-ce qui a pu indiquer à ce fils du Div qu’il y avait ici un enfant de Siawusch ? 0h !
 >
-> Que n’ai-je donné à cet enfant la terre pour nourricel mes deux yeux n’auraient pas vu un pareil désastre. »
+> Que n’ai-je donné à cet enfant la terre pour nourrice !
+>
+> Mes deux yeux n’auraient pas vu un pareil désastre. »
 
 Sipahram lui répondit :
 
 > Puisse ton repos n’être pas troublé !
 >
-> Si c’est l’idée d’une armée qui t’elfraye, je le dirai qu’il n’est venu que Guiv fils de Gouderz et que nous n’avons pas vu avec lui un seul cavalier.
+> Si c’est l’idée d’une armée qui t’effraye, je le dirai qu’il n’est venu que Guiv fils de Gouderz et que nous n’avons pas vu avec lui un seul cavalier.
 >
 > L’armée a été frappée de terreur par l’attaque d’un seul homme et c’est ainsi que Guiv, Ferenguis et le prince ont pu s’enfuir. »
 
