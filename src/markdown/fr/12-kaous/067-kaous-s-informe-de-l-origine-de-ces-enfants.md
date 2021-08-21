@@ -66,7 +66,7 @@ Le roi fit venir Soudabeh ; les astrologues répétèrent que les deux enfants a
 
 Soudabeh dit :
 
-> Ce n’est pas l’intelligence de ces hommes qui est obscurcie, mais la raison secrète pour laquelle ils n’osent pas dire la vérité, c’est la peur de Siawusch, la peur du Sipehbed, du héros au corps d’éléphant, qui fait trembler les lions attroupés ; car il a la force de quatre-vingts éléphants et s’il voulait, il obstruerait le cours duNil et une armée de cent mille braves rangés en bataille s’enfuirait devant lui.
+> Ce n’est pas l’intelligence de ces hommes qui est obscurcie, mais la raison secrète pour laquelle ils n’osent pas dire la vérité, c’est la peur de Siawusch, la peur du Sipehbed, du héros au corps d’éléphant, qui fait trembler les lions attroupés ; car il a la force de quatre-vingts éléphants et s’il voulait, il obstruerait le cours du Nil et une armée de cent mille braves rangés en bataille s’enfuirait devant lui.
 >
 > Comment pourrais-je lui résister ?
 >
