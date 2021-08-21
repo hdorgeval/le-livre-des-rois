@@ -16,7 +16,7 @@ order: '007'
 
 # Iskender envoie neuf savants pour voir les quatre merveilles de Keïd
 
-Iskender choisit quelques hommes parmi les Roumis, des hommes de sens, de savoir et sans mau-vaises intentions ; puis il écrivit une lettre pleine d’excuses et de flatteries de parfums et d’ornements, disant :
+Iskender choisit quelques hommes parmi les Roumis, des hommes de sens, de savoir et sans mauvaises intentions ; puis il écrivit une lettre pleine d’excuses et de flatteries de parfums et d’ornements, disant :
 
 > J’envoie auprès de toi neuf grands qui ont ma confiance ; ils ont de l’expérience et connaissent mes secrets, ils ont du. sens et de l’illustration, de la retenue et de la sagesse ; ils ont vu le monde et acquis du savoir, ce sont mes guides et ils ne s’écarteront pas de les avis pleins de, pénétration. v. »
 
