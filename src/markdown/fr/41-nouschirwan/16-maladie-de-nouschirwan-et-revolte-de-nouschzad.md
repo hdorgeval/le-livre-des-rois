@@ -30,7 +30,7 @@ Il leva un tribut et des impôts à Ahwaz et à Schouschter :
 
 > personne ne pouvait lui résister.
 
-Dans ses intentions ténébreuses, il écrivit une lettre àson parent le Kaïsar :
+Dans ses intentions ténébreuses, il écrivit une lettre à son parent le Kaïsar :
 
 > Tu es le maître de Djundischapour, tu es mon ami, mon coreligionnaire et mon chef. »
 
