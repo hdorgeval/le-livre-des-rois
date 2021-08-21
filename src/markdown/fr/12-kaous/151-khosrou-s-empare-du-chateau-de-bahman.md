@@ -42,9 +42,9 @@ Y eût-il dans ce pays un Ahriman ennemi de Dieu, j’abaisserais sa tête cach�
 
 Lorsque je ferai voler mon lacet roulé, je prendrai dans le nœud la tête des sorciers ; et quand même le bienheureux Serosch demeurerait dans ce château, voici une armée que j’amène par l’ordre de Dieu et me voici moi-même, moi qui ne suis pas de la race d’Ahriman et dont le corps est fort et l’âme sous la protection divine ; je détruirai ce lieu par l’ordre de Dieu, car la possession du trône impérial en dépend. »
 
-Khosrou prit une longue lance et y attacha cette lettre impérieuse ; il éleva la lance droit en l’air comme un étendard, ne désirant dans le monde que la splendeur de la royauté ; ensuite il ordonna àGuiv de s’approcher incontinent de la haute muraille avec cette lance et lui dit :
+Khosrou prit une longue lance et y attacha cette lettre impérieuse ; il éleva la lance droit en l’air comme un étendard, ne désirant dans le monde que la splendeur de la royauté ; ensuite il ordonna à Guiv de s’approcher incontinent de la haute muraille avec cette lance et lui dit :
 
-> Porte cette lettre pleine de conseils salutaires jusqu’au mur élevé du château, déposesy la lance, prononce le nom de Dieu et tourne bride sans perdre un instant. »
+> Porte cette lettre pleine de conseils salutaires jusqu’au mur élevé du château, déposes-y la lance, prononce le nom de Dieu et tourne bride sans perdre un instant. »
 
 Guiv prit la lance et partit comblé des bénédictions de Khosrou le serviteur de Dieu.
 
@@ -54,7 +54,7 @@ Le nom de Dieu de qui vient tout bien et fit voler comme le vent son destrier ra
 
 La lettre du roi disparut ; on entendit un grand bruit ; le sol du château se souleva et soudain, par l’ordre de Dieu, le mur du château se fendit avec un bruit comme celui du tonnerre ou d’un orage de printemps.
 
-La plaine et la montagne en résonnèrent ; le monde devint noir comme le visage d’un nègre ; on ne voyait plus ni soleil, ni Pléiades, ni lune ; on aurait ditqu’un nuage noir couvrait la terre et le ciel ressemblait à la gueule du lion.
+La plaine et la montagne en résonnèrent ; le monde devint noir comme le visage d’un nègre ; on ne voyait plus ni soleil, ni Pléiades, ni lune ; on aurait dit qu’un nuage noir couvrait la terre et le ciel ressemblait à la gueule du lion.
 
 Keï Khosrou lança son cheval noir, en disant aux braves de l’armée :
 
