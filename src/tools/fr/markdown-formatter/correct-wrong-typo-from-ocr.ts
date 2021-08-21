@@ -1609,6 +1609,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ soitl’égal /g, ' soit l’égal '),
     (content: string) => content.replace(/ la’fin /g, ' la fin '),
     (content: string) => content.replace(/brillantel/g, 'brillante ! '),
+    (content: string) => content.replace(/ neconnaissent /g, ' ne connaissent '),
   ].forEach((format) => {
     result = format(result);
   });
