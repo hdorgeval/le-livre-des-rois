@@ -40,7 +40,7 @@ Glorieuse et partit pour Siawuschguird.
 
 Lorsque Siawusch eut connaissance de son approche, il se mit en route avec un cortège pour aller à sa rencontre en toute hâte.
 
-Ils s’embrassèrent et Siawuschlui demanda des nouvelles du roi.
+Ils s’embrassèrent et Siawusch lui demanda des nouvelles du roi.
 
 De là ils se rendirent au palais et Siawusch fit préparer des quartiers pour les Touraniens.
 
