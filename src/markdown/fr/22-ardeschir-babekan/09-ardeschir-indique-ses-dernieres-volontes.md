@@ -41,7 +41,7 @@ Il fit appeler tous les grands de l’Iran, les fit asseoir selon leur rang sur 
 > Je. rends grâce à Dieu de m’avoir donné de la force, une
 \* étoile puissante et la faveur de Saturne et du soleil.
 >
-> Qui saurait le louer dignement et le prier selon la grandeur de ses œuvres, dans l’espoir qu’il fasse attention à notre soumission et qu’il montre sa toutepuissance ?
+> Qui saurait le louer dignement et le prier selon la grandeur de ses œuvres, dans l’espoir qu’il fasse attention à notre soumission et qu’il montre sa toute-puissance ?
 a Maintenant disons tout ce que nous devons faire .
 >
 > par esprit de justice, de la justice qui donne le bonheur.
