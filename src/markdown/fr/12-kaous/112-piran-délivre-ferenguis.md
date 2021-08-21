@@ -45,7 +45,7 @@ frasiab, le cœur navré, les yeux remplis de larmes, s’écriant :
 >
 > Comment le méchant DIV a-t-il pu acquérir du pouvoir sur ton cœur ?
 >
-> A-t-il donc elfacé dans ton âme la crainte du maître du monde ?
+> A-t-il donc effacé dans ton âme la crainte du maître du monde ?
 >
 > Tu as tué Siawusch qui était. innocent, tu as abaissé dans la poussière son nom et son trône.
 >
