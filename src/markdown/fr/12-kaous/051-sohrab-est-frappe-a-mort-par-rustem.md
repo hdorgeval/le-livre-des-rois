@@ -107,7 +107,7 @@ Kaous fit sonner du clairon et battre les timbales et Thous, le chef de l’arm�
 
 Le roi dit à ses braves :
 
-> Envoyez en toute hâte un dromadaire de course sur le lieu du combat, pour que nous sachions cc qu’a fait Sohrab ; car’il faudrait pleurer sur le pays Il. i3
+> Envoyez en toute hâte un dromadaire de course sur le lieu du combat, pour que nous sachions cc qu’a fait Sohrab ; car il faudrait pleurer sur le pays Il. i3
 
 L3 d’Iran, si cette nouvelle était vraie.
 
@@ -178,7 +178,9 @@ Puis, il envoya à Houman ce message :
 
 Le Pehlewan dit alors à son frère :
 
-> Ô guerrier illustre à l’âme brillantel accompagne Houman jusqu’au bord du fleuve (Oxus) et ne force personne à se hâter. »
+> Ô guerrier illustre à l’âme brillante !
+>
+> Accompagne Houman jusqu’au bord du fleuve (Oxus) et ne force personne à se hâter. »
 
 Zewareh partit sur-le-champ et porta à Houman les paroles du Pehlewan.
 
@@ -190,7 +192,7 @@ Houman le brave, qui avait montré à Sohrab l’art de la guerre, lui répondit
 >
 > C’est par son crime que ce malheur nous est arrivé, il faudrait lui trancher la tête. »
 
-Zewareh retourna auprès de lluslem et lui parla de Houman, de son armée et de ce qu’avait fait le méchant, le malveillant Hedjir, qui était la cause de la mort de Sohrab.
+Zewareh retourna auprès de Rustem et lui parla de Houman, de son armée et de ce qu’avait fait le méchant, le malveillant Hedjir, qui était la cause de la mort de Sohrab.
 
 Rustem devint furieux à ces paroles, le monde s’obscurcit devant ses yeux ; il courut du champ de bataille auprès de Hedjir, le saisit par la poitrine, le jeta par terre, tira un poignard brillant et voulut lui trancher la tête.
 
