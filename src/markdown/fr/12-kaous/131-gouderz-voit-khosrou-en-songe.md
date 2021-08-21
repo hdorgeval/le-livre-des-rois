@@ -85,6 +85,8 @@ Banougouschasp, la reine des reines, la fille chérie du vaillant Rustem, était
 > J’ai appris que tu vas dans le Touran pour chercher Khosrou partout, qu’il soit près ou loin.
 >
 > Je désire me rendre auprès de Rustem, si le Pehlewan me le permet ; j’ai envie de voir son visage, car je suis triste de ne l’avoir pas vu depuis si longtemps. le te dis adieu, ô
-Pehlewan du mondel Puisses-tu ne jamais cesser d’être le soutien des braves ! »
+Pehlewan du monde !
+>
+> Puisses-tu ne jamais cesser d’être le soutien des braves ! »
 
 Guiv permit à sa compagne de partir et elle se dirigea aussitôt vers le Seistan.
