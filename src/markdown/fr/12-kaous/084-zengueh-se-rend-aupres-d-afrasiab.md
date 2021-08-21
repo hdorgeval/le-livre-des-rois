@@ -52,7 +52,7 @@ Piran répondit :
 >
 > Mais nous allons le voir, ce qui vaut mieux que d’en entendre parler.
 >
-> C’est un noble prince et un fils de roi ; et n’eût-il d’autre mérite que d’avoir rompu avec son père pour sauver cent nobles, d’avoir renoncé pour cela au trône et à la couronne et de s’être ainsi réduità te demander le passage par tes États, il fau-drait en faire un grand de ce royaume ; car il est .
+> C’est un noble prince et un fils de roi ; et n’eût-il d’autre mérite que d’avoir rompu avec son père pour sauver cent nobles, d’avoir renoncé pour cela au trône et à la couronne et de s’être ainsi réduit à te demander le passage par tes États, il fau-drait en faire un grand de ce royaume ; car il est .
 avide de montrer sa bravoure et les sages ne l’approuveraient pas, ô roi, si tu le laissais passer dans un autre pays.
 >
 > Kaous d’ailleurs est vieux et le temps approche où il laissera le trône vacant ; mais Siawusch est jeune et illustre et le pouvoir et le trône de la royauté lui appartiendront.
