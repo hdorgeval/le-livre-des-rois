@@ -37,7 +37,9 @@ Thous dit :
 
 Gouderz lui répondit :
 
-> Ô insensél le sage ne te compte pas parmi les hommes.
+> Ô insensé !
+>
+> Le sage ne te compte pas parmi les hommes.
 >
 > Il n’y a jamais eu dans le monde un homme comparable à Siawusch en noblesse, en munificence et en affabilité.
 >
