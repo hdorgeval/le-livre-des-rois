@@ -51,7 +51,7 @@ Le maître du monde en fut étonné et accepta le bénéfice de son humanité ; 
 
 Bezmihr lui répondit :
 
-> Ô roi, ne t’afilige pas ainsi.
+> Ô roi, ne t’afflige pas ainsi.
 >
 > Si mon père n’a pas fait ce qu’il devait, c’està son fils à supporter l’angoisse et la douleur que lui cause sa mort.
 >
