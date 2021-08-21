@@ -1610,6 +1610,23 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ la’fin /g, ' la fin '),
     (content: string) => content.replace(/brillantel/g, 'brillante ! '),
     (content: string) => content.replace(/ neconnaissent /g, ' ne connaissent '),
+    (content: string) => content.replace(/ ollraient /g, ' offraient '),
+    (content: string) => content.replace(/ ditqu’un /g, ' dit qu’un '),
+    (content: string) => content.replace(/ déposesy /g, ' déposes-y '),
+    (content: string) => content.replace(/ àGuiv /g, ' à Guiv '),
+    (content: string) => content.replace(/ arrivèrentt A en vue /g, ' arrivèrent en vue '),
+    (content: string) => content.replace(/insensél/g, 'insensé ! '),
+    (content: string) => content.replace(/ a’eu /g, ' a eu '),
+    (content: string) => content.replace(/Isthakher/g, 'Istakher'),
+    (content: string) => content.replace(/ Ferenguis’en /g, ' Ferenguis en '),
+    (content: string) => content.replace(/ deton /g, ' de ton '),
+    (content: string) => content.replace(/et’lui/g, 'et lui'),
+    (content: string) => content.replace(/ doaleur /g, ' douleur '),
+    (content: string) => content.replace(/ mondel /g, ' monde ! '),
+    (content: string) => content.replace(/ Siawuschlui /g, ' Siawusch lui '),
+    (content: string) => content.replace(/Portela à/g, 'Porte-la à'),
+    (content: string) => content.replace(/ell’acerai /g, 'effacerai '),
+    (content: string) => content.replace(/ etvoyant /g, ' et voyant '),
   ].forEach((format) => {
     result = format(result);
   });
