@@ -28,7 +28,7 @@ Lorsque les grands eurent nouvelle de son état, ils accoururent auprès de lui,
 
 Quand Siawusch les vit, son cœur exhala de nouveau sa douleur, ses plaintes recommencèrent et son âme ouvrit de nouveau la porte des angoisses.
 
-Gouderz fut affligé quand ilvit le fils du roi si attristé ; quand il vit ce noble cyprès, il versa des larmes et lui dit :
+Gouderz fut affligé quand il vit le fils du roi si attristé ; quand il vit ce noble cyprès, il versa des larmes et lui dit :
 
 > Écoute mes conseils et ne parle plus de ta douleur.
 >
