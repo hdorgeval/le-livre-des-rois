@@ -24,7 +24,9 @@ Puis, il écrit, dans l’allégresse de son cœur, une réponse semblable au ve
 
 > Que Dieu qui a créé le soleil et la lune, le maître du monde, le distributeur des couronnes et des trônes, ne cesse d’accorder à ton âme le bonheur et de délivrer ton cœur de douleur et de peine !
 >
-> Qu’il te conserve toujours la victoire et la gloire, la couronne du pouvoir et le diadème de la puissancel Tu as conduit ton armée, tu as recherché le combat ; la fortune, la bravoure et la droiture sont ton partage.
+> Qu’il te conserve toujours la victoire et la gloire, la couronne du pouvoir et le diadème de la puissance !
+>
+> Tu as conduit ton armée, tu as recherché le combat ; la fortune, la bravoure et la droiture sont ton partage.
 >
 > Tes lèvres sentent encore le lait et déjà l’écorce qui couvre ton arc s’est déchirée dans la bataille.
 >
