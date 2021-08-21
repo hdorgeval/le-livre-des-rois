@@ -38,7 +38,7 @@ Le lendemain Soudabeh sortit ; elle accourut auprès du roi de l’Iran et lui d
 
 Que le monde se réjouisse à cause de ton enfant !
 
-Envoiele auprès de tes femmes, auprès de ses sœurs et de tes idoles et dis-lui :
+Envoie-le auprès de tes femmes, auprès de ses sœurs et de tes idoles et dis-lui :
 
 > Va dans l’appartement des femmes, auprès de tes sœurs et vas-y sou-’vent.
 >
