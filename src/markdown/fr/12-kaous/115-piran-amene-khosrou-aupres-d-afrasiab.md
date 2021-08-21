@@ -94,8 +94,7 @@ Il lui dit :
 
 (in.
 
-2 
-Khosrou répondit :
+2 Khosrou répondit :
 
 > Il n’y a pas de gibier et je n’ai ni arc, ni flèches, ni cordes. »
 
