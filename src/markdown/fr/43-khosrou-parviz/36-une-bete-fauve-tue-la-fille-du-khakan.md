@@ -38,7 +38,7 @@ Quand le Khakan le sut, ses joues devinrent noires et la mère s’arracha les c
 
 Lorsque Bahram eut combattu Mekatoureh et qu’il eut détruit cet homme vaillant, la Khatoun cherchait à le voir et parlait à tout le monde de son haut fait.
 
-Un jour elle le vit, allant à cheval avec centIraniens illustres, précédé de beaucoup d’hommes àpied et accompagné d’un guide.
+Un jour elle le vit, allant à cheval avec centIraniens illustres, précédé de beaucoup d’hommes à pied et accompagné d’un guide.
 
 Elle demanda que] était cet homme qui paraissait si puissant et avait une majesté telle que Dieu la donne.
 
