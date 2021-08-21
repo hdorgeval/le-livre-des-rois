@@ -109,7 +109,7 @@ Lorsque Kaous eut appris la mort de Sohrab, il !
 
 Se rendit auprès de Rustem avec un cortège et lui dit :
 
-> Tout, depuis le mont Alhorz jusqu’à l’eau qui nourrit le roseau, tout est emporté par la rotation du ciel ; il ne faut donc pas tourner ses affections vers la terre.
+> Tout, depuis le mont Alborz jusqu’à l’eau qui nourrit le roseau, tout est emporté par la rotation du ciel ; il ne faut donc pas tourner ses affections vers la terre.
 >
 > L’un meurt plus tôt, l’autre plus tard, mais tous à la fin traversent la mort.
 >
