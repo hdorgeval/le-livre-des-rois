@@ -117,6 +117,6 @@ Il lui dit :
 >
 > Tu as abandonné ton pays et ta famille, tu as souffert en route beaucoup de fatigues ; maintenant l’Iran est ta résidence et ta volonté est mon guide. »
 
-Toutes les femmes de Kaous bénirent Ferenguis’en disant :
+Toutes les femmes de Kaous bénirent Ferenguis en disant :
 
 > Puisse le monde n’être jamais privé de toi ! »
