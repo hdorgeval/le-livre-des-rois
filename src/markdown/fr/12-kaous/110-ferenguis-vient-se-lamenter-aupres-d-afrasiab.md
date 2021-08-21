@@ -67,7 +67,7 @@ Pendant qu’elle prononçait ces mots, elle aperçut Siawusch et s’écria en 
 >
 > Où sont ces promesses et ces serments du roi qui ont fait trembler le ciel et la lune qui tourne ?
 >
-> Où sont le roi Kaous et ses héros, pour qu’ils te voient dans ce ce moment et dans cet état ?
+> Où sont le roi Kaous et ses héros, pour qu’ils te voient dans ce moment et dans cet état ?
 >
 > Où sont Guiv et Thous, ou sont Rustem et Faramourz, Zal et toute la cour de l’Iran ?
 >
