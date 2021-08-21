@@ -18,7 +18,9 @@ order: '122'
 
 Un messager partit de Sipendjab, se rendit auprès du roi du Touran et lui dit :
 
-> Rustem au corps d’éléphant est venu pour venger Siawusch, les grands de l’Iran se sont réunis, on a coupé ignominieusement la tête à Warazad et toute la frontière du Touran est livrée à la destruction ; les Iraniens ont réuni toute leur armée et brûlent tout le paysn Quand Afrasiab eut entendu ces paroles, il se rappela avec douleur d’anciennes prédictions que lui avaient faites les sages, les astrologues et les Mobeds.
+> Rustem au corps d’éléphant est venu pour venger Siawusch, les grands de l’Iran se sont réunis, on a coupé ignominieusement la tête à Warazad et toute la frontière du Touran est livrée à la destruction ; les Iraniens ont réuni toute leur armée et brûlent tout le pays. »
+
+Quand Afrasiab eut entendu ces paroles, il se rappela avec douleur d’anciennes prédictions que lui avaient faites les sages, les astrologues et les Mobeds.
 
 Il appela des provinces tous les grands, il distribua de l’argent et répandit ses vieux trésors.
 
@@ -30,7 +32,7 @@ Le roi sortit de la ville de Gang et conduisit l’armée des rues étroites de 
 
 > Prends trente ce mille guerriers propres au combat et armés d’épées, va rapidement comme le vent à Sipendjab et ne pense ni au repos ni au plaisir.
 >
-> Tu y trouveras Faramourz et son armée et tu m’enverras ici sa ce tête.
+> Tu y trouveras Faramourz et son armée et tu m’enverras ici sa tête.
 >
 > Mais prends garde que le fils de Zal ne mette ta vie en danger ; c’est le seul homme qui soit ton égal dans le combat et là où se trouve un léopard avide de proie, le chien le plus vaillant doit éviter la lutte.
 >
@@ -66,7 +68,7 @@ L’armée célébrait les louanges du Pehlewan, du jeune et glorieux héros et 
 
 Ensuite, il dit en parlant de son fils :
 
-> Quiconque veut élever sa tête au-dessus de la foule, doit avoir du courage et une illustre naissance ; la raison doit être sa compagne et la science sa mai. tresse.
+> Quiconque veut élever sa tête au-dessus de la foule, doit avoir du courage et une illustre naissance ; la raison doit être sa compagne et la science sa maitresse.
 >
 > Quand on réunit ces quatre avantages, alors on est un brave et l’on a aile et pied pour avancer.
 >
@@ -98,7 +100,7 @@ Mais Rustem lui répondit :
 
 Le héros au cœur de lion fit un signe à Zewareh et lui ordonna de verser ce sang qui ne pouvait être épargné ; Zewareh prit l’épée et le vase et livra le jeune prince aux bourreaux.
 >
-> On lui trancha la tête avec l’épée, après qu’il eut poussé quelques cris et tout. fut fini.
+> On lui trancha la tête avec l’épée, après qu’il eut poussé quelques cris et tout fut fini.
 >
 > Ô monde !
 
