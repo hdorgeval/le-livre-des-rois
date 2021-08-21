@@ -40,7 +40,7 @@ Elle revint auprès de Piran tout émue de plaisir et lui dit :
 
 > Il a paru un nouveau soleil digne d’être le compagnon de la lune.
 >
-> Vasy et regarde avec étonnement cette
+> Vas-y et regarde avec étonnement cette
 œuvre de la puissance et de la sagesse de Dieu.
 >
 > On dirait que rien ne lui convient qu’un trône, une cuirasse, un casque et la dévastation du page de se : ennemis. »
