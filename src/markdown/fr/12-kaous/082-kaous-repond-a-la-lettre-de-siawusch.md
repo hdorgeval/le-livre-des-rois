@@ -36,7 +36,7 @@ Tu as mené joyeuse vie avec de belles esclaves et tu as reculé devant le comba
 
 L’espoir de me succéder sur ce vil trône impérial t’a fait perdre l’amour des combats.
 
-Mais c’est avec l’épée qu’il faut ouvrir la porte des richesses et c’est par la conquête des provinces qu’un roi devieut glorieux.
+Mais c’est avec l’épée qu’il faut ouvrir la porte des richesses et c’est par la conquête des provinces qu’un roi devient glorieux.
 
 Quand le Sipehbed Thous sera arrivé auprès de toi, il réglera convenablement tout ce qui te regarde et tu placeras alors sur des ânes les otages que tu tiens lourdement enchaînés.
 
