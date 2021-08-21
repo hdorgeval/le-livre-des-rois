@@ -66,7 +66,7 @@ Il avait honte des paroles grossières dont il s’était servi et il vit qu’i
 >
 > Il se présenta devant
 >
-> le roi aussitôt qu’il eut touché la rive, et’lui demanda pardon en déposant à ses pieds des présents, un arc, un lacet et un casque ; mais Guiv s’écria :
+> le roi aussitôt qu’il eut touché la rive, et lui demanda pardon en déposant à ses pieds des présents, un arc, un lacet et un casque ; mais Guiv s’écria :
 
 > Ô chien stupide !
 >
@@ -112,7 +112,7 @@ Houman lui dit :
 >
 > Du bord de ce fleuve jusqu’à la Chine et au Madjin tout est à toi ; le soleil et la lune, Saturne et les Pléiades, te sont soumis.
 >
-> Occupe-toi du Touran et deton puissant trône ; tu n’as rien à craindre de l’Iran. »
+> Occupe-toi du Touran et de ton puissant trône ; tu n’as rien à craindre de l’Iran. »
 
 Les Touraniens s’en retournè-
 rent tristes et le cœur gonflé de sang et un long temps se passa ainsi.
