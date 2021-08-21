@@ -41,7 +41,9 @@ Iskender répondit :
 
 Nasr répliqua :
 
-> Ô roi conquérant du mondel Khoza’ est puissant dans cette ville.
+> Ô roi conquérant du monde !
+>
+> Khoza’ est puissant dans cette ville.
 >
 > Lorsque Ismaïl eut quitté ce monde, Kahthan, le. conquérant de la terre, sortit du désert avec une grande -armée qui frappait de l’épée et saisit injustement le pays de Yemen.
 >
