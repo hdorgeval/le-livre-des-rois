@@ -57,7 +57,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Feridoun, qui dans son angoisse ouvrait les lèvres jour et nuit pour les maudire, ne trouvait de consolation pour son cœur et de soutien que dans l’es--poir d’être secouru de Dieu, le dispensateur de la justice et de tous les biens.
 >
-> Afrasiab a hérité la mauvaise nature de ces rois insensés ; il a commencé de nouvelles guerres contre Minoutchehr, Newder et Keïkobad ; il a accumulé des malheurs sur Keï Kaous et a dévasté tous les pays cultivés de l’Irau.
+> Afrasiab a hérité la mauvaise nature de ces rois insensés ; il a commencé de nouvelles guerres contre Minoutchehr, Newder et Keïkobad ; il a accumulé des malheurs sur Keï Kaous et a dévasté tous les pays cultivés de l’Iran.
 >
 > Ensuite, il a allmné de nouvelles haines par le meurtre de Siawusch et tu ne pensais pas à la justice quand cet innocent a livré sa douce vie.
 >
@@ -81,9 +81,9 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Tu dis qu’il ne
 >
-> à" DES Bols. faut pas priver les vivants de la vie pour un homme qui est devenu poussière.
+> à" faut pas priver les vivants de la vie pour un homme qui est devenu poussière.
 >
-> Mais quand je me rappelle vos actes atroces, tous les tourments que vous avez infligés à nos cœurs par les crimes que vous avez commis dans le pays d’Iran, toutes les angoisses que vous avez fait éprouver à nos rois, tous les traités que vous avez violés, toutes les guerres que vous avez commencées et le mal dont : vous avez toujours été les instigateurs, quand je me rappelle cela, comment ferais-je la paix avec toi qui as toujours regardé comme bonnes les actions mau-vaises ?
+> Mais quand je me rappelle vos actes atroces, tous les tourments que vous avez infligés à nos cœurs par les crimes que vous avez commis dans le pays d’Iran, toutes les angoisses que vous avez fait éprouver à nos rois, tous les traités que vous avez violés, toutes les guerres que vous avez commencées et le mal dont : vous avez toujours été les instigateurs, quand je me rappelle cela, comment ferais-je la paix avec toi qui as toujours regardé comme bonnes les actions mauvaises ?
 >
 > Cinquièmement tu me proposes de faire un traité de donner en otages les grands du Touron, d’envoyer à Khosrou des trésors et de fermer la voie des fatigues de la guerre.
 >
@@ -128,7 +128,7 @@ Et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils
 >
 > La vie de Siawusch a été livrée au vent, parce qu’il ai cru à ton serment : que personne désormais ne se fie à ta parole.
 >
-> Tu ne l’as pas se-»couru au jour fatal, bien qu’il t’ait souvent imploré dans sa détresse.
+> Tu ne l’as pas secouru au jour fatal, bien qu’il t’ait souvent imploré dans sa détresse.
 
 En huitième lieu tu dis que tu l’emportes sur moi par ton trône et la couronne, par la bravoure et ta fortune, par ton armée et tes trésors, mais que ton cœur souffre de pitié.lc crois que tu m’as suffisamment éprouvé jusqu’ici dans les combats et tu sais si tu m’as trouvé dépourvu de bravoure au jour de la bataille. [hagarde-0i donc de la tête aux pieds ; car il se pourrait que mon trésor et mon [II7 trône, que ma couronne et mon courage me missent à ta hauteur.
 
@@ -148,7 +148,7 @@ Et tu a aurais beau reculer devant l’accomplissement de tes paroles, moi je ne
 
 Si ton armée ne le parait pas suffisante pour ce combat, demande un renfort à ton roi. calcule
 
-AIS profondément leschancesde cette bataille et attends que tes fils, tes alliés et tes parents blessés, qui font maintenant défaut à ton armée, soient rétablis par les médecins : car ton intérêt est dans ce moment de gagner du temps.
+AIS profondément les chances de cette bataille et attends que tes fils, tes alliés et tes parents blessés, qui font maintenant défaut à ton armée, soient rétablis par les médecins : car ton intérêt est dans ce moment de gagner du temps.
 
 Si tu me demandes du temps et un délai, je te l’accorde ; sinon pré : pare-toi au combat.
 
@@ -171,7 +171,7 @@ Ils célébrèrent les louanges de Gouderz, ils l’appelèrent le Pehlewan du m
 
 Ensuite, il apposa son sceau sur la lettre et la remit à Rouïn fils de Piran fils de Wiseh.
 
-Au moment où les Touraniens se levè-rent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Rouïn des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or et à ses compagnons de l’argent et de l’or et des casques et des ceintures à ceux qui pouvaient y prétendre.
+Au moment où les Touraniens se levèrent pour partir, Gouderz fit préparer pour eux des présents ; il donna à Rouïn des chevaux arabes à la bride d’or, des diadèmes et des épées au fourreau d’or et à ses compagnons de l’argent et de l’or et des casques et des ceintures à ceux qui pouvaient y prétendre.
 
 Rouïn partit de la cour du Pehlewan avec son escorte et se dirigea vers l’armée du Touran.
 
@@ -189,7 +189,7 @@ Il dit à son armée :
 >
 > HO instant de repos.
 >
-> Puis donc qu’il veut faire revivre les anciennes vengeances, pourquoi ne me cein-drais-je pas aussi pour venger mon frère ?
+> Puis donc qu’il veut faire revivre les anciennes vengeances, pourquoi ne me ceindrais-je pas aussi pour venger mon frère ?
 >
 > Pourquoi laisserais-je impunie la mort des neuf cents braves dont les têtes ont été tranchées dans le dernier combat ?
 >
