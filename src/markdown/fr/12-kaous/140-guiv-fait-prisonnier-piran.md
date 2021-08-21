@@ -30,7 +30,7 @@ Piran le lion s’enfuit à son tour devant Guiv qui le poursuivit et qui, sans 
 
 La tête du Pehlewan se trouvait dans le nœud du lacet et Guiv enleva ainsi Piran de la selle.
 
-Ensuite, il le fit ignominieusement marcher àpied devant lui et l’amena à une grande distance du fleuve.
+Ensuite, il le fit ignominieusement marcher à pied devant lui et l’amena à une grande distance du fleuve.
 
 Là il le jeta par terre, lui lia les mains, se revêtit de son armure, monta sur son cheval, prit sa bannière et s’en retourna au bord du Gulzarrioun.
 
@@ -60,7 +60,7 @@ Piran se mit à.prononcer des bénédictions sur le roi, il gémit et baisa la t
 
 > Ô roi qui sais approfondir la vérité, qui brilles au milieu de la foule comme le soleil !
 >
-> Tu connais les angoisses que j’ai soudâtes à cause de toi et les soins dont je t’ai entouré, tu connnais les luttes que j’ai soutenues pour toi contre Afrasiab.
+> Tu connais les angoisses que j’ai soudâtes à cause de toi et les soins dont je t’ai entouré, tu connais les luttes que j’ai soutenues pour toi contre Afrasiab.
 >
 > Si ton esclave se fût trouvé à la cour du roi, Siawusch n’eût pas été tué.
 >
