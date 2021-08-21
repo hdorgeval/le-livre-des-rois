@@ -18,7 +18,7 @@ order: '005'
 
 Ardeschir avait un fils, vainqueur de lions, à qui il avait donné le nom de Sasan et une fille appelée Homaï, pleine d’adresse, de savoir et de bonnes intentions, à qui l’on donnait aussi le nom de Tchehrzad.
 
-Sa vue faisait le bonheur de son père dans le monde et il l’épouse à cause de sa beauté, ce que lui permettait la religion qu’on appelle pehlewie.
+Sa vue faisait le bonheur de son père dans le monde et il l’épouse à cause de sa beauté, ce que lui permettait la religion qu’on appelle pehlewi.
 
 Homaï,
 
