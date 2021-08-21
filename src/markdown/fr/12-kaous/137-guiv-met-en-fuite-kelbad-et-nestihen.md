@@ -64,7 +64,9 @@ Lorsque les Turcs arrivèrent auprès de Piran, blessés, honteux et navrés de 
 
 Kelbad lui dit :
 
-> Ô Pehlewanl si je te raconte comment le vaillant Guiv a traité tes braves, ton cœur sera las des champs de bataille.
+> Ô Pehlewan !
+>
+> Si je te raconte comment le vaillant Guiv a traité tes braves, ton cœur sera las des champs de bataille.
 >
 > Tu m’as souvent vu à la guerre, tu as approuvé ma manière de combattre, eh bien !
 >
