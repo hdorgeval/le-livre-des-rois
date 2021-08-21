@@ -72,7 +72,7 @@ Mesuré en empans, il avait cent empans de roi en hauteur et encore soixante et 
 
 Chaque matin des trente jours du mois on y posait un tapis différent.
 
-Sur la face du trône étaient cent quarante mille ornements d’or, incrustés de turquoises, tous les clous et les crampons étaient d’argent pur, chacun pesanl soixantesix miskals.
+Sur la face du trône étaient cent quarante mille ornements d’or, incrustés de turquoises, tous les clous et les crampons étaient d’argent pur, chacun pesanl soixante-six miskals.
 
 Ce trône était posé de telle façon que son dos se trouvait tourné vers le désert et sa face vers les jardins dans la saison où le soleil plaçait sa lampe dans le signe du bélier ; quand le soleil devenait ardent a dans le règne du Lion, le dos du trône se trouvait encore tourné vers lui ; au mois de juin et à la saison des fruits et des fêtes, le trône était en face des fruits et des jardins, de sorte que le parfum de tous les fruitsy arrivait.
 
