@@ -38,13 +38,13 @@ Il donna à Thous le célèbre trône d’ivoire, des bracelets, un collier et l
 
 > Quiconque se révoltera et reconnaîtra l’autorité d’Afrasiab, tranche-lui sur-le-champ la tête et fais de son corps un festin pour a les vaulou rs ; mais quiconque se soumettra et recherchera ta protection, quiconque renoncera à la foi d’Ahriman, traite-le avec tendresse comme un fils, préserve-le de toute peine, mets-le au-dessus de tout besoin.
 >
-> N’afilige pas ceux qui sont heureux, ne quitte jamais la voie de la justice et de la droiture, car ce monde est passager et ne dure pas éternellement.
+> N’afflige pas ceux qui sont heureux, ne quitte jamais la voie de la justice et de la droiture, car ce monde est passager et ne dure pas éternellement.
 >
 > Aucune gloire n’est plus haute que celle de Djemschid et pourtant le ciel sublime l’a abattu et a livré le monde à d’autres maîtres. »
 
 Ensuite, il donna à Gouderz une couronne incrustée de pierreries dignes d’un roi, un trône, un bracelet et des boucles d’oreilles ; il lui confia le pays et la citadelle de Sipendjab, il lui adressa beaucoup de conseils en lui remettant l’investiture de ce pays.
 
-Il prodigua de grandes louanges et témoigna un grand respect à ce Pehlewan vaillant et attaché à la fo’i sainte ; il lui dit :
+Il prodigua de grandes louanges et témoigna un grand respect à ce Pehlewan vaillant et attaché à la foi sainte ; il lui dit :
 
 > Le sceau du pouvoir et de la justice, de même que les fêtes et les combats, ont se conservé ton souvenir.
 >
