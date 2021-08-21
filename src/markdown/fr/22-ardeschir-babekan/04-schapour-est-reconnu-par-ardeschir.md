@@ -52,7 +52,7 @@ Ensuite le roi répandit des pierreries sur le Destour, le fit asseoir sur un si
 
 Il ordonna que la fille d’Ardevvan revînt au palais, heureuse et sereine ; il lui pardonna ses fautes passées et effaça de sa lune toute trace de rouille.
 
-Il fit venir de la ville des maîtres, tous les hommes qui connaissaient une science et l’on enseigna à l’enfant l’écriture pehlewie, un ’maintien fier et royal, l’art de manier les rênes dans le combat et de présenter à cheval la pointe de la lance à l’ennemi.
+Il fit venir de la ville des maîtres, tous les hommes qui connaissaient une science et l’on enseigna à l’enfant l’écriture pehlewi, un ’maintien fier et royal, l’art de manier les rênes dans le combat et de présenter à cheval la pointe de la lance à l’ennemi.
 
 On lui enseigna à boire du vin, à faire des largesses et à observer les coutumes des banquets, à ordonner une armée et tout ce qui concerne la lutte et les combats.
 
