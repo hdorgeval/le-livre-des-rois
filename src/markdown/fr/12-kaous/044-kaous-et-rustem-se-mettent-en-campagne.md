@@ -50,6 +50,6 @@ Sohrab le brave lui dit :
 >
 > Je jure par le trône du roi Afrasiab que je vais remplir de sang ce champ de bataille comme la mer est remplie d’eau. »
 
-Sohrab n’abandonnait pas son cœur à la crainte ; il descenditjoyeusement des remparts, demanda à l’échanson une coupe de vin et son âme n’était pas inquiète du combat.
+Sohrab n’abandonnait pas son cœur à la crainte ; il descendit joyeusement des remparts, demanda à l’échanson une coupe de vin et son âme n’était pas inquiète du combat.
 
 De l’autre côté on dressait les tentes du roi sur la plaine en face du château et la multitude des hommes et des tentes avec leurs enceintes couvrait la plaine et la montagne.
