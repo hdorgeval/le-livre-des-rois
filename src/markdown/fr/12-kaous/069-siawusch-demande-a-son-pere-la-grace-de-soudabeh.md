@@ -54,7 +54,7 @@ Tous invoquèrent les grâces de Dieu sur le roi, disant :
 
 Le roi dit alors au bourreau :
 
-> Attachela au gibet sur la grande route et détourne d’elle la tête. »
+> Attache-la au gibet sur la grande route et détourne d’elle la tête. »
 
 Quand on emmena Soudabeh, toutes les femmes du palais poussèrent un cri de douleur.
 
