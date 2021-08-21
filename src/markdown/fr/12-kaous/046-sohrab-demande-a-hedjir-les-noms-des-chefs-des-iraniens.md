@@ -236,7 +236,7 @@ Sohrab, fils d’un noble père, s’écria :
 
 > Malheur à Gouderz fils de Keschwad, qui n’est qu’un enfant comme toi, malgré sa puissance, sa sagesse et sa
 >
-> KEI nous tu bravoure !
+> tu bravoure !
 >
 > Où as-tu donc vu des hommes de guerre, toi qui n’as pas entendu le bruit du pied d’un chenal, toi qui parles ainsi de Rustem et ne fais que célébrer ses louanges ?
 >
