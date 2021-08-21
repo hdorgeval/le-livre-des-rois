@@ -42,7 +42,7 @@ Khosrou lui répondit :
 >
 > Puissent périr son trône et sa couronne !
 >
-> C’est lui qui a fait mourir mon père si misérablement, qui a fait battre si dùrement ma mère, pour que je périsse dans son sein.
+> C’est lui qui a fait mourir mon père si misérablement, qui a fait battre si durement ma mère, pour que je périsse dans son sein.
 >
 > Puisse-t-il n’être a jamais libre de soucis !
 >
