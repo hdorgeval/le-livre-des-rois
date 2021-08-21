@@ -111,7 +111,7 @@ Piran l’écouta et devint soucieux ; son cœur se remplit de douleur à ces pa
 
 > J’ai attiré moi-même le malheur sur ma tête ; si ce qu’il dit est vrai, j’aurai appelé la destruction sur le pays de Touran, j’aurai répandu dans le monde la semence de la vengeance : car c’est par mes soins qu’il est arrivé dans le Touran ; c’est moi qui lui ai donné un pays, une couronne et des trésors, quoique j’eusse entendu toutes les paroles d’Afrasiab, qui mainte fois m’a prédit la même chosen Ensuite, il dit à Siawusch avec tendresse :
 
-> Que saistu des mouvements et de l’action du ciel qui tourne et qui t’a instruit de ses secrets ?
+> Que sais-tu des mouvements et de l’action du ciel qui tourne et qui t’a instruit de ses secrets ?
 >
 > Ces pensées le sont venues parce que tu t’es rappelé le pays d’Iran, Kaous et le trône impérial, parce que tu t’es rappelé le temps de ton bonheur.
 >
