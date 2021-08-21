@@ -16,15 +16,13 @@ order: '120'
 
 # Rustem tue Soudabeh et entre en campagne
 
-Kaous observa ses traits, les larmes de sang qui coulaient de ses yeux et l’amour de Siawusch l’animail ; la honte l’empêche de lui répondre, il se mita verser des larmes brûlantes ; mais Tehemten sortit de sa présence et se dirigea vers le palais de Soudabeh.
+Kaous observa ses traits, les larmes de sang qui coulaient de ses yeux et l’amour de Siawusch l’animait ; la honte l’empêche de lui répondre, il se mita verser des larmes brûlantes ; mais Tehemten sortit de sa présence et se dirigea vers le palais de Soudabeh.
 
 Il la traîna par les cheveux hors de l’appartement des femmes, il l’arrache du trône du pouvoir, la traîna dans le sang et la perça avec son poignard.
 
 Kaous tremblait sur son trône et Rustem se retira dans son palais, triste et en deuil, les yeux baignés de larmes de sang et les joues pâles.
 
-Tout le pays d’Iran poussait des plaintes ; tous les braves se rendirent dans leur douleur auprès de Rustem, qui demeura assis au fond de son palais pendant sept jours, dans le deuil et dans les larmes, l’âme
-3
-iremplie de tristesse et de colère.
+Tout le pays d’Iran poussait des plaintes ; tous les braves se rendirent dans leur douleur auprès de Rustem, qui demeura assis au fond de son palais pendant sept jours, dans le deuil et dans les larmes, l’âme remplie de tristesse et de colère.
 
 Le huitième jour, il fit sonner les trompettes d’airain et battre les timbales et Gouderz, Thous, Ferhad, Bahram, Guiv, Gourguin fils de Milad et le vaillant Schapour, Feribourz fils de Kaous, Rehham le lion et Gourazeh le courageux dragon, vinrent à sa cour.
 
@@ -39,10 +37,6 @@ Rustem leur dit :
 > Pour soulager ma douleur, je veux toucher de mes yeux et de mon front la place dure et desséchée où le vil Guerouia versé son sang ; et à moins que je n’aie les mains liées et une cangue au cou, à moins que je ne sois jeté honteusement dans la poussière comme une brebis, les deux mains liées avec la corde du lacet. je ferai trembler le monde devant ma massue et mon épée tranchante, comme il tremblera au jour de la résurrection.
 >
 > Mes yeux ne verront dorénavant que la poussière des batailles et je renonce à la coupe des banquets. »
-
-KE !
-
-Nous.
 
 Tous les braves et les Pehlewans qui entendirent ces paroles de Rustem lui répondirent par un cri unanime ; tu aurais cru que le Meïdan tremblait et un bruit montait du pays d’Iran vers le ciel comme si la terre eût été un repaire de lions.
 
