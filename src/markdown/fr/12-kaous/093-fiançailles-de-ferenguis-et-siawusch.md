@@ -46,7 +46,7 @@ Ensuite Piran et Afrasiab, par égard pour Siawusch, se hâtèrent de lui fiance
 
 Ils servirent de témoins aux fiançailles et ayant dressé le contrat et conclu le mariage, Piran envoya à Gulschehr un messager qui volait comme la poussière et lui ordonna de se rendre auprès de Ferenguis et de la conduire à Siawusch.
 
-Gulschehr remplit cet ordre avec joie en disantà Ferenguis qu’elle devait cette nuit se rendre auprès du jeune roi, pour que la lune devînt l’ornement de son palais.
+Gulschehr remplit cet ordre avec joie en disant à Ferenguis qu’elle devait cette nuit se rendre auprès du jeune roi, pour que la lune devînt l’ornement de son palais.
 
 On para sur-le-champ Ferenguis, on forma de ses cheveux de musc des tresses qui tom-’ baient sur ses joues de rose ; ensuite elle parut semblable à la nouvelle lune devant le jeune roi digne de la couronne.
 
