@@ -32,7 +32,9 @@ Soudabeh répondit :
 >
 > Ne verse pas de feu sur ma tête.
 >
-> S’il faut que tu me tranches la tête pour combler le malheur qui m’a accablée, ordonnel j’y suis toute résignée et je ne désire pas que ton cœur reste plein de rancune.
+> S’il faut que tu me tranches la tête pour combler le malheur qui m’a accablée, ordonne !
+>
+> J’y suis toute résignée et je ne désire pas que ton cœur reste plein de rancune.
 >
 > Siawusch finira par dire la vérité sur cette affaire, il éteindra dans le cœur du roi le feu de sa colère.
 >
