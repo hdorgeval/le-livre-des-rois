@@ -28,7 +28,7 @@ Quand il fut arrivé près de la capitale de l’Iran, il déchira ses vêtement
 >
 > Un casque sera ma couronne, ma main tiendra une épée au lieu detenir une coupe, le lacet roulé autour de mon bras sera le filet avec lequel je prendrai ma proie et j’espère venger le jeune roi de ce Turc à l’âme noire. »
 
-Il arriva devant le trône du roi Kaous, couvertde poussière depuis la tête jusqu’aux pieds et lui dit :
+Il arriva devant le trône du roi Kaous, couvert de poussière depuis la tête jusqu’aux pieds et lui dit :
 
 > Ô roi !
 >
