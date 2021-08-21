@@ -32,7 +32,7 @@ Piran fut consterné de ces paroles, il trembla comme une branche de tremble ; i
 >
 > Mon honneur est terni à ses yeux. »
 
-Il choisit parmi les braves Kelbad et Nestihen, un homme de fer ; il ordonna à trois cents cavaliers turcs de marcher au combat et dit en s'adressant àcette troupe :
+Il choisit parmi les braves Kelbad et Nestihen, un homme de fer ; il ordonna à trois cents cavaliers turcs de marcher au combat et dit en s'adressant à cette troupe :
 
 > Partez !
 >
