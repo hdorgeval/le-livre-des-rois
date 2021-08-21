@@ -22,7 +22,7 @@ Afrasiab donna ses ordres à Guersiwez et lui dit :
 >
 > Ensuite précipite-le dans la fosse la tête en bas, de sorte qu’il ne voie plus le soleil et la lune.
 >
-> Prends avec toi des éléphants et va chercher la pierre du Div Akwan, que le maître du monde a tirée de la mer profonde et jetée dans la forêt de la Chine et faisla servir à ma vengeance contre Bijen ;
+> Prends avec toi des éléphants et va chercher la pierre du Div Akwan, que le maître du monde a tirée de la mer profonde et jetée dans la forêt de la Chine et fais-la servir à ma vengeance contre Bijen ;
 >
 > Apporte sur le dos d’éléphants indomptables cette pierre qui ferme l’entrée de la fosse d’Arjeng et placela sur l’ouverture de la fosse de Bijen, que tu y laisseras enfermé jusqu’à ce que la détresse l’ait privé de sa raison.
 >
