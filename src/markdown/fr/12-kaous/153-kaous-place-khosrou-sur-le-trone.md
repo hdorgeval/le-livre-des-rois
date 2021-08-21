@@ -20,7 +20,7 @@ Lorsque les rois furent descendus de leurs chevaux et entrés dans le palais, la
 
 Son grand-père le prit par la main et l’y lit monter ; il lui céda sa place avec joie, demanda au trésorier la couronne des Keïanides, embrassa Khosrou, posa la couronne sur sa tête et descendit du glorieux trône d’ivoire pour aller s’asseoir sur un siège.
 
-Il fit apporter de son trésor une offrande composée d’émeraudes et d’un grand nombre de joyaux dignes d’un roi et prononça beaucoup de bénédictions sur la mémoire de Siawusch, dont les traits de Khosrou ollraient l’image.
+Il fit apporter de son trésor une offrande composée d’émeraudes et d’un grand nombre de joyaux dignes d’un roi et prononça beaucoup de bénédictions sur la mémoire de Siawusch, dont les traits de Khosrou offraient l’image.
 
 Les grands, les chefs de M4 l’armée et les puissants de la terre s’avancèrent des deux côtés, rendirent hommage au nouveau roi et répandirent des perles et des pierreries en abondance.
 
