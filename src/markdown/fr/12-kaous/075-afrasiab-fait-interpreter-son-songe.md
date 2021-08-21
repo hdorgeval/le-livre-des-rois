@@ -50,7 +50,7 @@ Il dit :
 >
 > Quand même le roi deviendrait un oiseau ailé, il ne pourrait sortir de cette sphère qui tourne.
 >
-> C’est ainsi que le ciel accompfit sa rotation, tantôt rempli de colère, tantôt plein d’amour. »
+> C’est ainsi que le ciel accomplit sa rotation, tantôt rempli de colère, tantôt plein d’amour. »
 
 À ces paroles, Afrasiab devint soucieux et ne se hâta pas de commencer la guerre.
 
@@ -60,7 +60,7 @@ Il dévoila à Guersiwez ces secrets et lui raconta les paroles mystérieuses qu
 >
 > Kaous n’aura pas de vengeance à exercer contre moi et la terre ne sera pas remplie de désordre.
 >
-> Il faut donc qu’au lieu de recherrcher la possession du monde et les combats, je ne cherche que la paix.
+> Il faut donc qu’au lieu de rechercher la possession du monde et les combats, je ne cherche que la paix.
 >
 > J’enverrai à Siawusch de l’ar-.
 >
