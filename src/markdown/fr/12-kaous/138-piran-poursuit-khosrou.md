@@ -31,7 +31,7 @@ Sur l’autre rive se trouvaient Guiv et le roi, qui dormaient tandis que Fereng
 > Lève-toi, quelle que soit ta fatigue, car voici pour toi un jour de combats.
 >
 > Une armée nous poursuit A0
-V avec ardeur et je crains que notre vie ne tire àsa fin.
+V avec ardeur et je crains que notre vie ne tire à sa fin.
 >
 > S’ils t’atteignent, ils te tueront et la douleur que nous causera ta perte sera une torture pour nous.
 >
