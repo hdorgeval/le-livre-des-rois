@@ -25,7 +25,9 @@ Afrasiab baissa sa tête couronnée, il arracha ses cheveux, il versa des larmes
 >
 > Hélas !
 >
-> Cette joue rose, belle comme la lunel Hélas !
+> Cette joue rose, belle comme la lune !
+>
+> Hélas !
 >
 > Cette poitrine, cette taille et cette stature royales !
 >
