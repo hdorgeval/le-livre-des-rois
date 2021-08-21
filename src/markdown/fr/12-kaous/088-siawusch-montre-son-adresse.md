@@ -77,7 +77,7 @@ Siawusch lui dit :
 >
 > Mais si le roi veut me le permettre, j’amènerai sur le Meïdan des cavaliers du pays d’Iran qui m’aideront à frapper la balle selon la règle des deux pays. »
 
-Le roi écouta la demande et y consentit et Siawusch choisit parmi les Iraniens sept hommes DES ROISE habiles au jeu.
+Le roi écouta la demande et y consentit et Siawusch choisit parmi les Iraniens sept hommes habiles au jeu.
 
 Le bruit des tambours se fit entendre sur le Meïdan et la poussière s’étendit comme le firmament :
 
