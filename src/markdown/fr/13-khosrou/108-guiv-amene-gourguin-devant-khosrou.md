@@ -49,7 +49,7 @@ Khosrou écouta Guiv et lui répondit :
 >
 > Il a été convenu entre moi et les Mobeds, les illustres sages à l’esprit Vigilant, que je partirais sans délai avec les cavaliers de l’Iran pour livrer bataille aux Touraniens ; je mettrai en marche mon armée pour venger Siawusch ; je dévasterai le Touran avec mes éléphants et Bijen paraîtra sur le champ de bataille et combattra avec nous comme un Ahriman.
 >
-> Va donc et ne t’afilige pas de cette affaire ; car je désire autant que toi revoir Bijen. »
+> Va donc et ne t’afflige pas de cette affaire ; car je désire autant que toi revoir Bijen. »
 
 Guiv se retira le cœur plein de soucis et de douleur, les joues pâles, les yeux remplis de sang.
 
