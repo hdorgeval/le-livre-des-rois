@@ -67,7 +67,9 @@ Il pressa longtemps Keï Khosrou contre sa poitrine en priant Dieu pour lui en s
 
 À la fin il lui dit :
 
-> Ô toi dont la foi est pure, puisses-tu faire le bonheur du mondel car quiconque te connaîtra ne voudra te donner d’autre nom que celui d’ami. »
+> Ô toi dont la foi est pure, puisses-tu faire le bonheur du monde !
+>
+> Car quiconque te connaîtra ne voudra te donner d’autre nom que celui d’ami. »
 
 Keï Khosrou lui répondit :
 
