@@ -40,7 +40,7 @@ Rustem vit donc Sohrab assis au festin sur un trône et placés près de lui, d�
 
 Tu aurais dit que Sohrab remplissait le trône tout entier ; il ressemblait à un cyprès plein de séve ; ses deux bras étaient forts comme les cuisses d’un chameau, sa poitrine large comme la poitrine d’un lion, son visage rouge comme du sang.
 
-Autour de lui étaient assis cent Turcs braves, jeunes, fiers et semblables à des lions ; cinquante esclaves ornés de bracelets, rangés debout devant le ravisseur des cœurs dont la fortune était haute, invoquaient les bénédictions de Dieu sur sa taille élancée, sur son épée et son sceau, Bustcm se tenait à l’écart, en observant les braves assis au banquet, lorsque Zendeh eut besoin de sortir et aperçut un brave semblable à un cyprès élancé.
+Autour de lui étaient assis cent Turcs braves, jeunes, fiers et semblables à des lions ; cinquante esclaves ornés de bracelets, rangés debout devant le ravisseur des cœurs dont la fortune était haute, invoquaient les bénédictions de Dieu sur sa taille élancée, sur son épée et son sceau, Rustem se tenait à l’écart, en observant les braves assis au banquet, lorsque Zendeh eut besoin de sortir et aperçut un brave semblable à un cyprès élancé.
 
 Il n’y avait dans l’armée des Turcs aucun homme de sa stature.
 
@@ -90,7 +90,7 @@ Pendant que Rustem s’en retournait auprès du roi, Guiv sortit du camp des Ira
 
 Rustem, qui savait que Guiv devait cette nuit faire la ronde devant le camp des Iraniens, sourit et jeta un cri.
 
-Guiv reconnut la voix de Buslem, courut à pied vers lui et lui dit :
+Guiv reconnut la voix de Rustem, courut à pied vers lui et lui dit :
 
 > Ô prince et ami !
 >
@@ -105,7 +105,7 @@ Le noble Guiv invoqua les grâces de Dieu sur lui en disant :
 
 De la Rustem alla auprès du roi et lui fit la description des Turcs et de leur festin, de Sohrab, de sa haute taille et de ses bras prêts pour le combat. disant : Jamais homme comme lui n’a paru chez les Turcs ; il ressemble à un cyprès, tant sa taille est droite ; il n’a d’égal ni dans l’Iran ni dans le Touran ; tu croirais que c’est Sam le cavalier.
 
-Que puisje dire de plus ? »
+Que puis-je dire de plus ? »
 
 Ensuite, il parla du coup qu’il avait donné à Zendeh Bezm et qui le mettait hors d’état de prendre part aux combats et aux banquets.
 
