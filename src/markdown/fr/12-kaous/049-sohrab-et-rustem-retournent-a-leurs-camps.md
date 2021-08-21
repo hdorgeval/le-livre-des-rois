@@ -58,7 +58,7 @@ Je ferai descendre sur la terre le feu du ciel avec le fer de ma lance.
 
 Quand mes ennemis verront mon front courroucé, leurs cottes de mailles se fendront sur leur corps.
 
-Le jour de demain sera un grand jour, où l’on verra à la’fin qui est loup et qui est brebis.
+Le jour de demain sera un grand jour, où l’on verra à la fin qui est loup et qui est brebis.
 
 Je jure par le nom du Créateur, du maître unique, de ne pas laisser en vie un seul de mes ennemis.
 
@@ -130,7 +130,7 @@ Il parla ainsi à son frère :
 >
 > Demain matin, quand je me rendrai sur le champ de bataille, quand j’irai au-de-vaut de ce Turc avide de combats, amène mon armée, apporte mon étendard, mon trône et mes bottines d’or et trouve-toi devant mes tentes aussitôt que le soleil brillant paraîtra.
 >
-> Si je suis victorieux, je ne resterai pas longtemps sur le champ de bataille ; mais si le sort en décide autrement, ne t’afilige pas, ne t’attriste pas.
+> Si je suis victorieux, je ne resterai pas longtemps sur le champ de bataille ; mais si le sort en décide autrement, ne t’afflige pas, ne t’attriste pas.
 >
 > Qu’alors personne de vous n’aille sur le champ de bataille, que personne ne recherche le chemin du combat, que tous s’en retournent dans le Zaboulistan et se rendent d’ici auprès de Zal.
 >
