@@ -42,11 +42,11 @@ Ensuite ils se mirent en route joyeusement et s’entretinrent longuement du roi
 
 La sphère du ciel tourna ainsi de nouveau pendant une année en veillant sur Siawusch avec justice et amour, ensuite arriva auprès de lui de la part du roi un de ses amis qui lui dit :
 
-> Le roi s’adresseà toi en disant :
+> Le roi s’adresse à toi en disant :
 
 > Ô prince illustre !
 >
-> Je t’ai donné toutes les provinces qui s’étendent d’ici à la Chine ; fais maintenant le tour de ces contrées et examine ce pays ; fixe-toi joyeusement dans une ville où tu puisses espérer du repos, qui le plaise et qui satisfasse à tous tes désirs ; soisy heureux et ne laisse jamais ton cœur renoncer à la joie. »
+> Je t’ai donné toutes les provinces qui s’étendent d’ici à la Chine ; fais maintenant le tour de ces contrées et examine ce pays ; fixe-toi joyeusement dans une ville où tu puisses espérer du repos, qui le plaise et qui satisfasse à tous tes désirs ; sois-y heureux et ne laisse jamais ton cœur renoncer à la joie. »
 
 Siawusch écouta ces paroles et son cœur s’en réjouit ; il fit sonner les trompettes, battre les timbales et charger les bagages.
 
