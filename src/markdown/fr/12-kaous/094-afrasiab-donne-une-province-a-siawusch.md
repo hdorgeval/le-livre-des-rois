@@ -77,7 +77,7 @@ Piran lui répondit :
 > 0
 toi qui ne veux que le bien !
 >
-> Si tu me le permets, je vais bâtir, à l’endroit sur lequel ta pensée se fixera, un palais qui s’élèvera jusqu’à la lune ; je ne veux plus posséder de terres ni de trésors, car le monde entier m’est devenu indill’érent à cause de toi. »
+> Si tu me le permets, je vais bâtir, à l’endroit sur lequel ta pensée se fixera, un palais qui s’élèvera jusqu’à la lune ; je ne veux plus posséder de terres ni de trésors, car le monde entier m’est devenu indifférent à cause de toi. »
 
 Siawusch lui répondit :
 
