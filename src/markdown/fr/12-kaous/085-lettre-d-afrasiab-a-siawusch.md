@@ -18,7 +18,7 @@ order: '085'
 
 Afrasiab ayant entendu ces paroles, prit une résolution sage, fit appeler un scribe plein d’expérience, ouvrit les lèvres et lui dicta une lettre.
 
-Le scribe en se mettant à l’œuvre, trempa le bout de son roseau dans de l’ambre et le roi commença la lettre par les louanges de Dieu et par un hommage rendu à sa toutepuissance et à sa sagesse.
+Le scribe en se mettant à l’œuvre, trempa le bout de son roseau dans de l’ambre et le roi commença la lettre par les louanges de Dieu et par un hommage rendu à sa toute-puissance et à sa sagesse.
 
 Dieu qui est au-dessus de l’espace et du temps, comment la pensée de ses serviteurs pourrait-elle l’atteindre ?
 
@@ -66,7 +66,7 @@ Zengueh fils de Schaweran partit en toute hâte et arrivé devant le trône de S
 
 Et les réponses qu’il avait reçues.
 
-D’un côté, Siawusch en fut réjoui, mais de l’autre, il était rempli de douleur et d’afIliction.
+D’un côté, Siawusch en fut réjoui, mais de l’autre, il était rempli de douleur et d’affliction.
 
 Il lui fallait faire un ami de son ennemi ; mais comment un vent frais pourrait-il venir du feu ?
 
