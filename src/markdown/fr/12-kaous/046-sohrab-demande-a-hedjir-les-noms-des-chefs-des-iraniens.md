@@ -35,11 +35,13 @@ Il fit venir Hedjir auprès de lui et lui dit :
 >
 > Mais si tu veux me tromper, tu porteras toujours ces chaînes et le cachot restera ta demeure. »
 
-Hedjir lui repondit : Sur tout ce que le roi me demandera au sujet de l’armée de l’Iran, je lui dirai tout ce que je sais ; car pourquoi lui mentirais-je ?
+Hedjir lui répondit :
 
-Tu ne trouveras en moi que de la droiture et je n’ai pas l’intention de te tromper.
-
-La droiture est le meilleur guide dans le monde et aucune pensée n’est pire que celle de mentir. »
+> Sur tout ce que le roi me demandera au sujet de l’armée de l’Iran, je lui dirai tout ce que je sais ; car pourquoi lui mentirais-je ?
+>
+> Tu ne trouveras en moi que de la droiture et je n’ai pas l’intention de te tromper.
+>
+> La droiture est le meilleur guide dans le monde et aucune pensée n’est pire que celle de mentir. »
 
 Alors Sohrab reprit :
 
