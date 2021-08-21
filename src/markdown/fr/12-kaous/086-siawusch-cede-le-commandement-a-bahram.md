@@ -79,7 +79,7 @@ Afrasiab apprit que Siawusch avait passé le Djihoun, qu’il avait franchi la f
 
 Il ordonna que l’on allât à sa rencontre et que les grands se missent en route précédés des tambours.
 
-Piran choisit mille hommes de sa tribu et fit ses préparatifs pour aller au-devant de Siawusch ; il distribua à son escorte des provisiOns et des présents et fit caparaçonner quatre éléphants blancs, sur l’un desquels on plaça un trône incrmté de turquoises et un étendard brillant et grand comme un arbre.
+Piran choisit mille hommes de sa tribu et fit ses préparatifs pour aller au-devant de Siawusch ; il distribua à son escorte des provisions et des présents et fit caparaçonner quatre éléphants blancs, sur l’un desquels on plaça un trône incrmté de turquoises et un étendard brillant et grand comme un arbre.
 
 Le drapeau était surmonté d’une lune d’or, le fond en était violet et brodé d’or au milieu.
 
@@ -123,7 +123,7 @@ Dans toutes les villes, ceux qui dormaient se réveillèrent au bruit des luths 
 
 Siawusch, en voyant cela, versa des torrents de larmes et ses pensées l’attristèrent ; car il se souvint du temps où tout le pays de Zaboulistan jusqu’aux frontières de Kaboul était paré pour les l’êtes, quand il était l’hôte de Rustem et que tous les grands étaient rassemblés autour de lui ; il se souvint du pays d’Iran et un soupir s’échappe de son sein ; il se souvint de l’or et des joyaux qu’on avait versés sur lui, du musc et de l’ambre qu’on avait répandus sur lui et ces souvenirs mirent son cœur en feu et le consumèrent comme une flamme ardente. l1 cacha son visage devant Piran et détourna la tête ; mais le Sipehbed vit sa douleur et son angoisse et devina quel regret l’agitait ; il en fut affligé et se mordit les lèvres.
 
-Ils descendirent de cheval à Kadjar Baschi et s’arrétèrent pour se reposer.
+Ils descendirent de cheval à Kadjar Baschi et s’arrêtèrent pour se reposer.
 
 Piran observa la mine de Siawusch, ses épaules, sa poitrine, ses bras et écouta ses paroles.
 
@@ -180,4 +180,4 @@ Ils s’assirent ensemble pour dîner.
 
 Siawusch étaitvcomme un fils et Piran comme un père.
 
-Ensuite ils partirent, riant et le cœur en gaieté et ne s’arrétèrent plus avant d’arriver devant la ville de Gang, qui était la belle résidence d’Afrasiab.
+Ensuite ils partirent, riant et le cœur en gaieté et ne s’arrêtèrent plus avant d’arriver devant la ville de Gang, qui était la belle résidence d’Afrasiab.
