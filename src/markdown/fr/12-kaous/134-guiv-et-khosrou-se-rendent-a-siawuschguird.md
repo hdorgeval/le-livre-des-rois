@@ -35,7 +35,7 @@ Le monde est rempli de malveillants et d’ennemis déchaînés contre nous et t
 
 Il y a une prairie non loin d’ici, à côté de la route que suivent les cavaliers du Touran.
 
-Vasy demain matin avec Guiv et prends avec toi une selle et une bride noire.
+Vas-y demain matin avec Guiv et prends avec toi une selle et une bride noire.
 
 Tu verras une montagne qui s’élève jusqu’aux nues et contre laquelle se heurtent les nuages.
 
