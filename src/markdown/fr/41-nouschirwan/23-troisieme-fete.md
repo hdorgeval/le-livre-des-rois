@@ -137,7 +137,7 @@ Le Mobed dit de nouveau :
 
 > Celui qui s’écarte de la route du mal peut-il être un homme puissant ou un homme honorable ? »
 
-Il répondit a Les mau-vaises actions sont comme un arbre plein de mau-vais fruits.
+Il répondit a Les mauvaises actions sont comme un arbre plein de mau-vais fruits.
 
 L’oreille de celui qui parle d’un ton doux sera rarement frappée par des paroles dures.
 
