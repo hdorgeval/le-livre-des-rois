@@ -22,7 +22,7 @@ Il la traîna par les cheveux hors de l’appartement des femmes, il l’arrache
 
 Kaous tremblait sur son trône et Rustem se retira dans son palais, triste et en deuil, les yeux baignés de larmes de sang et les joues pâles.
 
-Tout le pays d’Iran poussait des plaintes ; tous les braves se rendirent dans leur doaleur auprès de Rustem, qui demeura assis au fond de son palais pendant sept jours, dans le deuil et dans les larmes, l’âme
+Tout le pays d’Iran poussait des plaintes ; tous les braves se rendirent dans leur douleur auprès de Rustem, qui demeura assis au fond de son palais pendant sept jours, dans le deuil et dans les larmes, l’âme
 3
 iremplie de tristesse et de colère.
 
