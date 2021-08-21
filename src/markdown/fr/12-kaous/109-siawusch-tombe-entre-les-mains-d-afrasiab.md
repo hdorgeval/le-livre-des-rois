@@ -214,4 +214,4 @@ Le roi leur répondit :
 >
 > Néanmoins il vaut encore mieux le tuer que de le laisser libre, quoiqu’il m’en coûte de le mettre à mort. »
 
-Ni le sage ni le méchant neconnaissent le secret du ciel qui tourne.
+Ni le sage ni le méchant ne connaissent le secret du ciel qui tourne.
