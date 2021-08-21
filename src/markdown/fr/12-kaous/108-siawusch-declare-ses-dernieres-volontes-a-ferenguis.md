@@ -30,7 +30,7 @@ Siawusch lui dit :
 >
 > Tu es maintenant enceinte de cinq mois et tu mettras au monde un enfant illustre ; le noble arbre de ton corps portera du fruit et donnera un roi au monde.
 >
-> Appelle cet enfant, qui portera haut la tête, du nom de Keï Khosrou, faisen ta consolation dans tes soucis.
+> Appelle cet enfant, qui portera haut la tête, du nom de Keï Khosrou, fais-en ta consolation dans tes soucis.
 >
 > Bien ne peut échapper au pouvoir de Dieu le tout saint, depuis le soleil brillant jusqu’à la terre sombre, depuis l’aile du moucheron jusqu’au pied du terrible éléphant, depuis la source d’eau jusqu’aux flots bleus de la mer.
 >
@@ -42,7 +42,7 @@ Siawusch lui dit :
 >
 > Les gardes du roi te jetteront ignominieusement sur la route, la tête nue et le corps nu, mais le Sipehdar Piran viendra à la porte du palais et demandera ta grâce à ton père ; il demandera la vie pour toi, qui n’as jamais fait de mal ; il t’emmènera dans son palais l’âme accablée de tristesse et c’est chez ce vieillard rempli de vertus que tu mettras au monde l’illustre Keï Khosrou.
 >
-> Plus tard il taviendra de l’Iran un sauveur qui se mettra en route par l’ordre de Dieu et t’emmènera avec ton fils inopinément et en secret du côté du Djihoun ; on placera tonfils sur le trône de la royauté et les oiseaux et les poissons lui obéiront.
+> Plus tard il taviendra de l’Iran un sauveur qui se mettra en route par l’ordre de Dieu et t’emmènera avec ton fils inopinément et en secret du côté du Djihoun ; on placera ton fils sur le trône de la royauté et les oiseaux et les poissons lui obéiront.
 >
 > Il amènera de l’Iran une armée nombreuse pour me venger et le monde entier sera rempli de bruit.
 >
