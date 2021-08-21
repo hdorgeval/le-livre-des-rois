@@ -35,7 +35,7 @@ Le Sipehdar Piran visita tout et appela sur Siawusch les bénédic-à tions de D
 > Puisse ton drapeau rester, jusqu’au jour de la résurrection, entouré de grands et de braves !
 >
 > Puissent tes fils, de génération en génération, rester heureux comme toi, maîtres du monde, victorieux et de noble na-
-R ture. »
+> R ture. »
 
 Ayant parcouru une partie de cette belle ville, il se rendit au palais et au jardin de Siawusch, et, rempli de bonheur, de gaieté et d’ambition, il se dirigea vers la demeure de Ferenguis.
 
@@ -54,7 +54,7 @@ Il donna à Ferenguis des diadèmes et des boucles d’oreilles, des colliers et
 
 Il arriva joyeusement à son palais, se rendit à l’appartement de ses femmes et dit à Gulschehr :
 
-> Quiconque n’a pas, vu le gai paradis et ce que Rithwan y a planté, qu’il aille voir cette ville, ce séjour fortuné, dont le trône et le palais sont un paradis sublime ; qu’il aille voir Siawusch brillant scomme le soleil et assis sur son trône dans sa puissance, dans sa gloire et dans sa prudence et sema blable au bienheureux Serosch.
+> Quiconque n’a pas, vu le gai paradis et ce que Rithwan y a planté, qu’il aille voir cette ville, ce séjour fortuné, dont le trône et le palais sont un paradis sublime ; qu’il aille voir Siawusch brillant comme le soleil et assis sur son trône dans sa puissance, dans sa gloire et dans sa prudence et semablable au bienheureux Serosch.
 >
 > Fais joyeusement un av peu de chemin pour aller voir la ville de Siawusch et le maître de la ville plus brillant qu’elle ; tu dirais qu’il illumine tout l’Occident.
 >
@@ -69,13 +69,13 @@ Le puissant roi lui adressa des questions sur tout ce que faisait Siawusch, sur 
 Piran lui répondit :
 
 > 2
-Quiconque a vu de ses yeux le gai paradis au mois d’Ardibehischt ne peut le distinguer de cette ville ; il ne peut distinguer le soleil de ce noble prince.
+> Quiconque a vu de ses yeux le gai paradis au mois d’Ardibehischt ne peut le distinguer de cette ville ; il ne peut distinguer le soleil de ce noble prince.
 >
 > J’ai vu une ville telle que personne n’en avu de semblable dans le Touran et dans la Chine ; il y a tant de jardins, de palais et d’eaux vives, que tu dirais que l’âme de Siawusch avait, pour pouvoir les créer, absorbé toute l’intelligence qu’il y a dans le monde.
 >
-> F audrait-il chercher à blâmer quelque chose là où il n’y a rien à blâmer ?
+> Faudrait-il chercher à blâmer quelque chose là où il n’y a rien à blâmer ?
 >
-> Quand j’ai vu de loin le palais de F erengnis, il ressemblait à un amas de joyaux, il brillait comme la lumière ; et si le Serosch descendait du ciel, il n’égalerait pas l’époux de la fille en majesté, en gloire et en prudence, en grâce et en dignité et il est aussi bon que ton cœur joyeux peut le désirer.
+> Quand j’ai vu de loin le palais de Ferenguis, il ressemblait à un amas de joyaux, il brillait comme la lumière ; et si le Serosch descendait du ciel, il n’égalerait pas l’époux de la fille en majesté, en gloire et en prudence, en grâce et en dignité et il est aussi bon que ton cœur joyeux peut le désirer.
 >
 > Enfin les deux pays qui se combattaient et étaient en guerre sont maintenant en repos, comme un insensé qui recouvre la raison.
 >
