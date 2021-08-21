@@ -63,7 +63,9 @@ Ayant prononcé ces paroles, le noble Siawusch embrassa Ferenguis, prit congé d
 
 Ensuite, il poussa des cris d’angoisse et sortit du palais le cœur rempli de tristesse, les joues couvertes de pâleur.
 
-Ô mondel je ne sais pourquoi tu élèves les hommes ; tu les fais grandir et ensuite tu en fais ta prote.
+Ô monde !
+
+Je ne sais pourquoi tu élèves les hommes ; tu les fais grandir et ensuite tu en fais ta prote.
 
 Ferenguis se déchira le visage et s’arracha les cheveux, elle laissa couler deux torrents de larmes sur ses joues ; et lorsque Siawusch prononça ces paroles douloureuses, elle se suspendit à son cou en poussant des cris.
 
