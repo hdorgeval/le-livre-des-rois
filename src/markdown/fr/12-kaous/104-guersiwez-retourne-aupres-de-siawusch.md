@@ -155,7 +155,7 @@ Il répondit :
 
 > l’ai beau y réfléchir, je n’ai pas mérité de punition ; ni mes paroles, ni mes actions, ni rien dans ma vie n’a donné lieu au monde de se plaindre de moi.
 >
-> Ma main a été prodigue des trésors du roi, mais mon cœur a souffert de ses soulirances.
+> Ma main a été prodigue des trésors du roi, mais mon cœur a souffert de ses souffrances.
 >
 > Quel que soit le malheur qui puisse m’en arriver, je ne désobéirai pas à ses ordres et à sa volonté, je vais partir avec toi sans cortège et je verrai d’où vient cette malveillance du roi. »
 
