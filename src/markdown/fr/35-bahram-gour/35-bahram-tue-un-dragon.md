@@ -52,7 +52,7 @@ Bahram répondit :
 
 Schenguil envoya avec lui un homme alerte pour lui montrer ce dragon et Bahram partit avec trente Il.
 
-Illustres cavaliers, des grands de l’Irau, prêts à frapper de l’épée.
+Illustres cavaliers, des grands de l’Iran, prêts à frapper de l’épée.
 
 Il courut ainsi jusqu’à ce qu’il fût arrivé au fleuve, dans les profondeurs duquel il aperçut le dragon ; il vit son corps, ses mouvements, sa colère et le feu qui brillait dans ses yeux.
 
