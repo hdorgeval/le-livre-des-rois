@@ -18,7 +18,7 @@ order: '087'
 
 Lorsque Afrasiab apprit que Siawusch arrivait en grande pompe, il courut à pied de la salle d’au-dience jusque dans la rue, ceint au milieu du corps et la tête remplie d’impatience.
 
-Siawusch le voyant àpied, descendit de cheval et courut au-devant de lui.
+Siawusch le voyant à pied, descendit de cheval et courut au-devant de lui.
 
 Ils se pressèrent dans les bras l’un de l’autre et se baisèrent plusieurs fois les yeux et la tête.
 
