@@ -26,7 +26,7 @@ Djerireh, la mère de cet enfant illustre, la première parmi les reines puissan
 
 On a appliqué sa main sur le dos de cette lettre et Piran m’a dit :
 
-> Portela à Siawusch, dont les vœux sont exaucés et dis-lui que, malgré ma vieillesse,je me sens heureux par la grâce de Dieu le saint. »
+> Porte-la à Siawusch, dont les vœux sont exaucés et dis-lui que, malgré ma vieillesse,je me sens heureux par la grâce de Dieu le saint. »
 
 Siawusch répondit :
 
