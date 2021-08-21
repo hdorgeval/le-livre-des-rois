@@ -165,7 +165,7 @@ J’ai entendu dire que Rustem avait reçu de Dieu, au commencement, une telle f
 
 Il avait été affligé de cet excès de vigueur qu’il était éloigné de désirer.
 
-Il avait supplié Dieu le créateur, en lui demandant, dans son angoisse, de le délivrer d’une partie de sa force, pour qu’il fût en état de marcher sur les chemins ; et Dieu le saint, selon le vœu de Bustcm au corps de montagne, l’avait diminuée.
+Il avait supplié Dieu le créateur, en lui demandant, dans son angoisse, de le délivrer d’une partie de sa force, pour qu’il fût en état de marcher sur les chemins ; et Dieu le saint, selon le vœu de Rustem au corps de montagne, l’avait diminuée.
 
 Mais lorsqu’il se trouva dans le danger et que son cœur fut déchiré par la crainte que lui inspirait Sohrab, il pria Dieu de nouveau en disant :
 
