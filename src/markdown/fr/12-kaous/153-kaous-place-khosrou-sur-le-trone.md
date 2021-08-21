@@ -30,7 +30,7 @@ Ses tromperies nous affligent ; tantôt nous sommes en haut, tantôt en bas.
 
 Ô mon fils si ton cœur parvient à être heureux, puisses-tu rester éternellement sur la terre !
 
-Quand tu es dans le bonheur, jouis-en ; quand tu es dans l’abondance, faisen jouir les autres et ne tourmente pas ton cœur.
+Quand tu es dans le bonheur, jouis-en ; quand tu es dans l’abondance, fais-en jouir les autres et ne tourmente pas ton cœur.
 
 Use de ce que tu as, distribue le superflu ; tu as pris de la peine, n’en laisse pas les fruits à ton ennemi.
 
