@@ -47,7 +47,7 @@ Les grands, ses savants conseillers et ses vaillants guerriers retirèrent à l�
 
 L’un d’eux ayant extrait la flèche de l’agneau, on vit qu’il y avait de l’écriture sur la flèche pointue.
 
-Le plus lettré parmi les grands lut ce qui y était écrit en langue pehlewie : Q roi plein de savoir, puisses-tu entendre !
+Le plus lettré parmi les grands lut ce qui y était écrit en langue pehlewi : Q roi plein de savoir, puisses-tu entendre !
 
 Cette flèche est partie de la terrasse de ce château dont la sécurité est garantie par la fortune du ver ; si j’avais lancé cette flèche contre Ardescbir, elle l’aurait traversé de part en part ; il ne faut donc pas qu’un roi comme toi veuille combattre le ver pendant notre vie. »
 
