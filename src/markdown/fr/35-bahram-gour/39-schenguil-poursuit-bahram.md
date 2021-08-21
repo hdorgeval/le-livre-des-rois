@@ -66,7 +66,7 @@ Il était heureux de voir Bahram et fit apprêter une table et apporter des coup
 
 Bahram lui raconta alors son secret et lui dit ce qui s’était passé dans l’Iran, comment la chose s’était faite et quelle avait été sa pensée et que lui seul avait préparé cette aventure.
 
-Ils burent un peu de vin, puis ils se levè-rent et s’excusèrent l’un auprès de l’autre et les ’
+Ils burent un peu de vin, puis ils se levèrent et s’excusèrent l’un auprès de l’autre et les ’
 deux rois, l’un idolâtre et l’autre adorateur de Dieu, se serrèrent la main et se promirent que, dans l’avenir, ils ne briseraient plus le cœur de la droiture et arracheraient jusqu’au bout la racine de la ruse, -qu’ils seraient de bonne foi éternellement et qu’ils écouteraient les paroles des hommes intelligents.
 
 Ensuite Schenguil prit congé de Sepinoud et la serra dans ses bras ; puis ils se tournèrent rapidement le des, ayant jetédans la poussière toute la haine de leurs cœurs et l’un se dirigea vers le fleuve, l’autre vers les terres, tous les deux heureux de cœur et pressés de s’en retourner chez eux.
