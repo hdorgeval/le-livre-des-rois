@@ -66,11 +66,10 @@ Quand il donna sa fille au Pehlewan, tous, jeunes et vieux, y applaudirent ; dan
 
 > Que cette nouvelle lune te porte bonheur !
 
-Que la tête de les ennemis soit tranchée !
-
+Que la tête de les ennemis soit tranchée ! 
 N
 
-KEI nous sa Ensuite sa compagne fut laissée seule avec lui,’et
+Sa Ensuite sa compagne fut laissée seule avec lui,’et
 .la nuit longue et sombre s’écoula ; et lorsque le soleil brillant commença de lancer de la haute voûte du ciel ses lacets de lumière, Rustem prit un onyx qu’il portait au bras et qui était célèbre dans le monde entier et le donna à Tehmimeh, en disant :
 
 > Garde ce joyau et si le ciel veut que tu mettes au monde une fille, prends cet onyx et attache-le aux boucles de ses cheveux sous une bonne étoile et sous d’heureux auspices ; mais si les astres t’accordent un fils, attache-le à son bras, comme l’a porté son père ; il égalera en stature Sam fils de Neriman ; par sa bravoure et sa bonté il ressemblera à Keriman ; il abattra dans les nues l’aigle ailé et le soleilne luira pas sur lui malignement. »
