@@ -46,7 +46,7 @@ Ensuite résiste à la convoitise et ne dis pas ton secret devant les femmes.
 
 Troisièmement, ne te complais pas dans la gloire et les combats, car la gloire et les combats amènent des peines et des soucis.
 
-Ensuite écarte de ton cœur le chagrin et ne t’afilige pas de maux futurs.
+Ensuite écarte de ton cœur le chagrin et ne t’afflige pas de maux futurs.
 
 Cinquièmement, ne te mêle pas d’affaires qui ne sont pas les tiennes, elles ne te regardent pas.
 
