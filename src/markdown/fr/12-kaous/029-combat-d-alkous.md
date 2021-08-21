@@ -33,9 +33,9 @@ Quand le roi du Touran eut entendu ces paroles, il répondit :
 Plus de mille cavaliers, avides de com-
 . bats, sortirent avec lui des rangs, tous armés de lances meurtrières, tous brillants comme l’étoile du matin et comme Ormuzd.
 
-Lorsqu’il s’approcha de l’armée de l’Iran, le soleil et la lune étaient voilés par la poussière ; mais il aperçut Zewareh qui cherchait un ennemi à combattre et se dirigea vers lui croyant que c’était Rustem, car il reconnut que c’é-5l tait quelqu’un de la race de Neriman.
+Lorsqu’il s’approcha de l’armée de l’Iran, le soleil et la lune étaient voilés par la poussière ; mais il aperçut Zewareh qui cherchait un ennemi à combattre et se dirigea vers lui croyant que c’était Rustem, car il reconnut que c’était quelqu’un de la race de Neriman.
 
-Zewareh, de son côté, s’élance vers lui armé d’une lance et semblable à un lion terrible ; mais Alkous, armé aussi d’une lance, brisa celle de Zewareh et le fit trem-, bler devant lui.
+Zewareh, de son côté, s’élance vers lui armé d’une lance et semblable à un lion terrible ; mais Alkous, armé aussi d’une lance, brisa celle de Zewareh et le fit trembler devant lui.
 
 Zewareh portant la main à son épée digne d’un héros, la tira et le monde disparut sous la poussière des combattants ; leurs épées furent brisées dans la lutte et rapides comme le vent, ils saio airentleurs massues.
 
@@ -54,15 +54,15 @@ Zewareh remonta péniblement à cheval, couvert de sang, découragé et tout meu
 Alkous, qui avait étendu sur sa selle un linceul d’étoffe de Touz, s’élança sur Rustem et l’atteignit de sa lance à la ceinture ; mais la cuirasse empêcha l’arme de pénétrer jusqu’aux joints.
 6
 
-Rustem, de son côté, le frappa de sa lance à la poitrine, inouda son casque du sang de son cœur, l’enleva de selle avec sa lance et les deux armées en restèrent étonnées ; il le jeta par terre comme un quartier de roche et l’âme des Touraniens en fut remplie de terreur.
+Rustem, de son côté, le frappa de sa lance à la poitrine, inonda son casque du sang de son cœur, l’enleva de selle avec sa lance et les deux armées en restèrent étonnées ; il le jeta par terre comme un quartier de roche et l’âme des Touraniens en fut remplie de terreur.
 
 A ce signal, les sept héros, semblables à des lions, saisirent leurs épées et derrière eux se rangèrent les chefs pleins de courage, appuyant sur leurs épaules de lourdes massues.
 
 Afrasiab voyant ces événements merveilleux, jeta un regard sur ses braves et dit :
 
-> Les ennemis l’emportent sur vous dans cette lutte ; faites un efi’ort, montrezvons tels que des léopards et continuez à combattre. »
+> Les ennemis l’emportent sur vous dans cette lutte ; faites un effort, montrezvons tels que des léopards et continuez à combattre. »
 
-L’armée entendit sa voix et se tourna en ; core une fois contre Rustem ; mais lorsque Rustem et les sept héros s’en aperçurent, ils firent une attaque vigoureuse et mirent en fuite les Touraniens, de telle sorte que l’on ne distinguait plus les têtes des pieds.
+L’armée entendit sa voix et se tourna encore une fois contre Rustem ; mais lorsque Rustem et les sept héros s’en aperçurent, ils firent une attaque vigoureuse et mirent en fuite les Touraniens, de telle sorte que l’on ne distinguait plus les têtes des pieds.
 
 Ils tuèrent tant de guerriers que la terre, d’une extrémité à l’autre, devint couleur de rubis ; ils abattirent les éléphants sur le champ de bataille, les uns ayant encore leur tête, les autres la tête séparée du corps.
 
