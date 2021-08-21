@@ -91,7 +91,7 @@ Tous deux restaient assis, dans leur douleur, les traits décomposés par l’el
 
 > Ce n’est pas ainsi que que tu dois agir ; car, séparé de ton père, tu es déplacé partout dans le monde.
 >
-> Écris une lettre’au roi, demande qu’il t’envoie une seconde fois Rustem au corps d’éléphant ; et s’il t’ordonne de faire la guerre, faisla.
+> Écris une lettre’au roi, demande qu’il t’envoie une seconde fois Rustem au corps d’éléphant ; et s’il t’ordonne de faire la guerre, fais-la.
 >
 > C’est une affaire qui sera bientôt terminée, à moins que tu ne choisisses le plus long chemin.
 >
