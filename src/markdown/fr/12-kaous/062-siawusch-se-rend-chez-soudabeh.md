@@ -132,7 +132,7 @@ N. : 6 Siawusch lui répondit :
 >
 > Ses paroles indiquent d’autres intentions et je ne veux plus entrer dans ses appartements. »
 
-Le roi sourit àcette réponse, sans s’apercevoir qu’il y avait de l’eau sous la paille (un danger caché) ; il lui dit :
+Le roi sourit à cette réponse, sans s’apercevoir qu’il y avait de l’eau sous la paille (un danger caché) ; il lui dit :
 
 > C’est à toi de choisir ta femme ; n’aie pas peur de Soudabeh ni de personne autre, car ses paroles seront tendres et elle veillera sur ton âme. »
 
