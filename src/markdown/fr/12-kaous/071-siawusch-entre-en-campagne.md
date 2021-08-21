@@ -21,7 +21,7 @@ On entendit le bruit des trompettes et des timbales ; Thous le Sipehbed au front
 Kaous ouvrit les portes de ses trésors où étaient des monceaux d’or et envoya à Siawusch la clef de ses magasins d’épées et de massues, de casques et de ceintures,
 (le morions et de cottes de mailles, de lances et de boucliers, enfin la clef du magasin qui contenait les vêtements neufs, avec ce mage : Tu es le maître du palais et de tout ce qu’il contient de précieux, équipe-toi comme tu l’entends. »
 
-Le roi choisit parmi les cavaliers renommés douze mille guerriers pleins d’ardeur, tous Pehlewans du pays de F ars, du Koutch et du Beloudjistan, ou guerriers du Ghilan et du désert de Seroudj.
+Le roi choisit parmi les cavaliers renommés douze mille guerriers pleins d’ardeur, tous Pehlewans du pays de Fars, du Koutch et du Beloudjistan, ou guerriers du Ghilan et du désert de Seroudj.
 
 Ensuite, il choisit douze mille fantassins armés de boucliers et ,propres au combat, tous fils de héros, braves, prudents et hommes libres, tous de la stature et de l’âge de Siawusch, tous pleins de sens, de circonspection et de discrétion.
 
@@ -57,7 +57,7 @@ Il se rendit, avec Rustem au corps d’éléphant, auprès du Destan et resta pe
 
 Tantôt il était chez Rustem la coupe en main, tantôt il s’asseyait avec Zewareh, tantôt il se mettait gaiement sur le trône de Zal, tantôt il allait chasser dans les roseaux.
 
-Quand ce mois fut passé, il mil ; en marche son armée ; Rustem partit avec lui, mais Zal resta.
+Quand ce mois fut passé, il mit en marche son armée ; Rustem partit avec lui, mais Zal resta.
 
 Il fut rejoint par des armées venant du Zaboulistan, du Kaboul et de l’Inde et commandées par des Pehlewans et partout ou se trouvait un prince renommé, il l’appelait auprès de lui.
 
@@ -72,7 +72,7 @@ Ils eurent des nouvelles du jeune prince, on leur dit :
 > Il vient de l’Iran une armée et un jeune roi accompagné de Rustem au corps d’éléphant. »
 
 Guersiwez envoya sur-le-champ à Afrasiab un dromadaire rapide comme la barque v0-
-guant sur l’eau et luifit dire :
+guant sur l’eau et lui fit dire :
 
 > Il arrive de l’Iran une grande armée dont le chef est Siawusch, accompagné des grands.
 >
