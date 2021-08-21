@@ -19,7 +19,7 @@ order: '008'
 Lorsque son règne eut duré quarante ans, le cha-’
 grin du jour de la mort entra dans son cœur.
 
-Il écrivit une lettre sur de la soie, dans cette belle et charmante écriture pehlewie.
+Il écrivit une lettre sur de la soie, dans cette belle et charmante écriture pehlewi.
 
 Il commença par rendre grâce au Distributeur de la justice, qui accorde la foi, l’intelligence et les talents ; tout ce qu’il or»
 
