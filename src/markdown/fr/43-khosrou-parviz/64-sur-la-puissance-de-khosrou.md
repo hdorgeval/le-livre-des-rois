@@ -43,7 +43,7 @@ Et Barbed, de sorte qu’il ne manquait jamais de musique.
 
 Dans les appartements dorés de ses femmes demeuraient douze mille jeunes filles semblables au printemps.
 
-Ensuite, il avait douze cents éléphants : on aurait dit qu’il ne laissait pas de place libre sur la terre ; puis douze mille chevaux de guerre et deux cents chevaux de trait qui n’étaient pas compris dans ce nombre, douze mille chameaux de somme et six cent soixantesix pour porter des litières.
+Ensuite, il avait douze cents éléphants : on aurait dit qu’il ne laissait pas de place libre sur la terre ; puis douze mille chevaux de guerre et deux cents chevaux de trait qui n’étaient pas compris dans ce nombre, douze mille chameaux de somme et six cent soixante-six pour porter des litières.
 
 Jamais on n’avait vu dans le monde choses pareilles, jamais ou
 
