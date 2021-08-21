@@ -24,7 +24,7 @@ Mais leur fuite ne resta pas longtemps cachée ; quelqu’un alla trouver Piran 
 
 > Le noble Guiv est venu de l’Iran, il s’est rendu auprès du sage et vaillant prince et maintenant Ferenguis, Khosrou et le héros avide de combats sont partis pour l’Iran. »
 
-Piran fut cons terné de ces paroles, il trembla comme une branche de tremble ; il se dit en lui-même :
+Piran fut consterné de ces paroles, il trembla comme une branche de tremble ; il se dit en lui-même :
 
 > Voilà que s’accomplissent toutes les paroles que mes oreilles ont entendues de la bouche du roi.
 >
