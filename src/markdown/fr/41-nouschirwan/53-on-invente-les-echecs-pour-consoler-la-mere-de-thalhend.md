@@ -39,7 +39,7 @@ Quand quelqu’un se trouvait à la portée du roi dans le combat, il disait à 
 
 > Gare, ô roi ! »
 
-Et le roi quittait sa case jusqu’au moment où il ne pouvait plus seflouvoir’ ; l’autre roi, le cheval, le précepteur, l’éléphant et les troupes àpied lui ayant fermé le chemin, vi regardait autour de lui des quatre côtes, voyait ses hommes renversés et leurs sourcils froncés, l’eau et le fossé lui barrant le passage, l’ennemi à gauche et à droite, devant et derrière lui et puis il mourait de fatigue et de soif : tel était l’ordre que lui avait adressé le ciel qui tourne.
+Et le roi quittait sa case jusqu’au moment où il ne pouvait plus seflouvoir’ ; l’autre roi, le cheval, le précepteur, l’éléphant et les troupes à pied lui ayant fermé le chemin, vi regardait autour de lui des quatre côtes, voyait ses hommes renversés et leurs sourcils froncés, l’eau et le fossé lui barrant le passage, l’ennemi à gauche et à droite, devant et derrière lui et puis il mourait de fatigue et de soif : tel était l’ordre que lui avait adressé le ciel qui tourne.
 
 Gau, le noble et bienveillant roi, avait vivement désiré ce jeu d’échecs qui représentait le son de Thalhend ; sa mère l’étudia, le cœur gonflé de sang par le deuil de son fils ; elle restait jour et nuit pleine de douleur et de colère, les deux yeux attachés sur les échecs ; elle ne voulait et ne désirait plus que ce jeu, car son âme était désolée de la perte de Thalhend, elle ne cessait de verser des larmes de sang et n’espérait de guérison de ses peines que par les échecs.
 
