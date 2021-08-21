@@ -132,7 +132,7 @@ Puisses-tu n’être jamais malheureux !
 
 La vie passe sur les grands et les petits ; pourquoi l’homme de sens s’en afflige-gerait-il ?
 
-Bien de plus grands et de plus petits que moi m’ont précédé et je voudrais ne plus me réveiller du sommeil, car un vieillard n’est plus heureux quand il a dépassé soixantesix ans.
+Bien de plus grands et de plus petits que moi m’ont précédé et je voudrais ne plus me réveiller du sommeil, car un vieillard n’est plus heureux quand il a dépassé soixante-six ans.
 
 Mais quand ce glorieux poème sera terminé, tout le pays sera plein de mon nom ; alors je ne mourrai plus, je vivrai toujours, car j’aurai répandu la semence de la parole et quiconque a du sens, de l’âme et de la s foi me célébrera après ma mort. »
 
