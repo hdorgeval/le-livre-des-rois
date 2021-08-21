@@ -49,7 +49,7 @@ Nasr répliqua :
 >
 > Mais Kahthan ne fut pas agréé par le Créateur du monde et la voie de la, roue sublime du ciel s’assombrit au-dessus de lui.
 >
-> Quand il fut devenu poussière, arriva Khoza’, ailligeant les hommes, injuste et sans la crainte de Dieu.
+> Quand il fut devenu poussière, arriva Khoza’, affligeant les hommes, injuste et sans la crainte de Dieu.
 >
 > La maison sainte et tout le Yémen sont dans sa !
 >
