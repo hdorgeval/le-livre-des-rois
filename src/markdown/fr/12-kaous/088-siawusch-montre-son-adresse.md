@@ -109,7 +109,7 @@ Ensuite Afrasiab dit à son cortège :
 
 Les deux troupes se mirent à combattre et la poussière vola jusqu’au soleil et chacun des deux partis alternativement enleva avec de grands cris la balle à ses adversaires.
 
-Les Turcs à la fin s’irritèrent ; ils voulurent à toute force emporter la halle et Siawusch se mit en colère contre les Iraniens et leur dit en langue pehlewie :
+Les Turcs à la fin s’irritèrent ; ils voulurent à toute force emporter la halle et Siawusch se mit en colère contre les Iraniens et leur dit en langue pehlewi :
 
 > mEst-ce un jeu de Meïdan que vous jouez, ou est-ce une bataille que vous voulez livrer, dans notre position et malgré la tournure qu’a prise notre sort ?
 >
