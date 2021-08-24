@@ -125,7 +125,7 @@ Lorsque le savant eut. entendu ce discours du Roumi, il prit la parole et commen
 >
 > Il y a dans cet écrin trois perles brillantes, cachées sous plus de trois enveloppes : l’une est percée, la seconde percée d’un côté et la troisième n’a pas été touchée par le fer. »
 
-Le savant Roumi l’écoute, donna la clef et Nouschirwan regarda : il se trouva qu’on avait caché dans l’écrin une boite qui contenait une enveloppe de soie renfermant trois perles telles que le sage de l’Iran les avait décrites, l’une d’elles étant percée, l’autre percée à moitié, la troisième intacte.
+Le savant Roumi l’écouta, donna la clef et Nouschirwan regarda : il se trouva qu’on avait caché dans l’écrin une boite qui contenait une enveloppe de soie renfermant trois perles telles que le sage de l’Iran les avait décrites, l’une d’elles étant percée, l’autre percée à moitié, la troisième intacte.
 
 Tous les Mobeds bénirent cet homme savant et répandirent des joyaux sur lui ; le visage du roi des rois brillait, il remplit la bouche de Buzurdjmihr de perles de belle eau ; mais son cœur se serra au souvenir du passé ; il se tordit et ses traits se contractèrent, quand il réfléchit comment il avait pu traiter si cruellement cet homme, dont il n’avait reçu que des preuves de dévouement et de fidélité.
 
