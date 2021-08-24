@@ -234,3 +234,5 @@
 {"rule":"D_N","sentence":"^\\QÀ la fin, un Div plein de méchanceté se leva en disant :\\E$"}
 {"rule":"D_N","sentence":"^\\QLe cœur du roi fut détourné du vrai chemin par le Div ; son esprit succomba à ses pensées et il ne cessa de songer que le ciel qui tourne ne lui avait jamais refusé ses faveurs.\\E$"}
 {"rule":"ADRESSER_UN_PROBLEME","sentence":"^\\QL'esprit du roi s'occupa continuellement des moyens de s'élever sans ailes dans les airs ; il adressa beaucoup de questions aux savants sur la distance qui est entre la terre et le ciel de la lune.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QSi tu t'élèves de la largeur d'une main plus haut que tu ne dois, tu es entièrement rebelle envers Dieu.\\E$"}
+{"rule":"VOIE_VOIX","sentence":"^\\QDe chaque province vint un grand de haut renom, portant sur sa tête une couronne puissante ; ils se rendirent à la cour de Kaous, renoncèrent à la révolte et rentrèrent dans la voie de l'obéissance.\\E$"}
