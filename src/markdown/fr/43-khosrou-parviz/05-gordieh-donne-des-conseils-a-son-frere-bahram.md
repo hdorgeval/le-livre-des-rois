@@ -52,7 +52,7 @@ Un homme très-sage a raconté qu’il y avait un âne qui, voulant porter des c
 
 Ne t’expose pas au blâme du monde entier, car personne de ta famille n’a porté une couronne.
 
-Si ce jeune homme n’était pas entre toi et la couronne, mon esprit ne serait ni blessé ni assombri ; mais le père vit, le trône de la royauté est debout et tu te places entre le père et lefils, debout devant eux.
+Si ce jeune homme n’était pas entre toi et la couronne, mon esprit ne serait ni blessé ni assombri ; mais le père vit, le trône de la royauté est debout et tu te places entre le père et le fils, debout devant eux.
 
 Je ne sais comment cela finira et mes yeux sont toujours inondés de sang.
 
@@ -67,7 +67,7 @@ Pense donc que tu n’as en dans le monde d’autre protecteur que le roi Hormuz
 
 Lorsque le trône et le butin du roi Saweh sont tombés entre tes mains, tu as porté haut ton casque et lorsque, à l’aide de Hormuzd, tu es devenu illustre dans le monde, tu recherches le trône du roi des rois.
 
-Comprends donc que’tout bien vient de Dieu et ne sois pas injuste envers ce roi couronné.
+Comprends donc que tout bien vient de Dieu et ne sois pas injuste envers ce roi couronné.
 
 Ne sois pas si fier du combat que tu as livré ; tu as été vaillant, ne sois par arrogant.
 
@@ -84,7 +84,7 @@ Ce n’est que si tu étais roi avec un trésor et une armée que tu pourrais go
 
 Il n’y a eu que Saweh, le commandant des armées de la Chine, qui ait osé attaquer l’Iran et Dieu, le saint, te l’a livré et a détourné de l’Iran et du reste du monde le mal qu’il pouvait faire.
 
-Depuis que le Seigneur a créé le monde, qu’il a tiré de son sein le ciel sublime, on n’a jamais vu un cavalier comme Sam, devant lequel un lion féroce n’aurait pas osé se montrer ; mais lorsque le sort a voulu que Newder se livrâtà des actes injustes, foulant aux pieds les avis de son père et que tous les grands voulurent proclamer Sam et préparèrent pour lui le trône de turquoises, il leur dit :
+Depuis que le Seigneur a créé le monde, qu’il a tiré de son sein le ciel sublime, on n’a jamais vu un cavalier comme Sam, devant lequel un lion féroce n’aurait pas osé se montrer ; mais lorsque le sort a voulu que Newder se livrât à des actes injustes, foulant aux pieds les avis de son père et que tous les grands voulurent proclamer Sam et préparèrent pour lui le trône de turquoises, il leur dit :
 
 > Malheur à un Sipehbed qui penserait au trône !
 >
@@ -98,4 +98,4 @@ Bahram lui dit :
 
 > Tout cela est vrai et Dieu est témoin de cette vérité ; mais cette affaire est allée trop loin ; et mon cœur et mon cerveau sonl remplis de soucis.
 >
-> Je serai roi ou je livrerai "in 5. tête à la mort, qui pénètre à travers l’acier du casque. »
+> Je serai roi ou je livrerai "in tête à la mort, qui pénètre à travers l’acier du casque. »
