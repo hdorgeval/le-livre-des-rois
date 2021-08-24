@@ -16,7 +16,8 @@ order: '025'
 
 # Rustem ramène Kaous
 
-Pendant que Kaous demandait ainsi à Dieu grâce pour ses péchés, son armée le cherchait de tous côtés. 
+Pendant que Kaous demandait ainsi à Dieu grâce pour ses péchés, son armée le cherchait de tous côtés.
+
 À la fin, Rustem, Guiv et Thous reçurent des nouvelles de lui et partirent avec une armée, des éléphants et des timbales.
 
 Le vieux Gouderz dit à Rustem :
@@ -29,35 +30,33 @@ Le vieux Gouderz dit à Rustem :
 >
 > Jamais aucun des grands des temps passés n’a fait une entreprise contre le ciel.
 >
-> Mais Kaous est comme un possédé, sans direction et sans raison et chaque vent qui souffle l’emporte. »
+> Mais Kaous est comme un possédé, sans direction et sans raison et chaque vent qui souffle l’emporte.
 
 Ensuite les Pehlewans arrivèrent auprès de lui, pleins d’amertume et de colère ; ils lui firent des reproches et Gouderz lui dit :
 
 > Un hôpital serait une place plus convenable pour toi qu’un palais.
 >
-> A tout moment tu abandonnes ton trône à tes ennemis, sans jamais confier à personne tes plans insensés.
+> À tout moment, tu abandonnes ton trône à tes ennemis, sans jamais confier à personne tes plans insensés.
 >
-> Trois fois tu es tombé dans le malheur et dans l’infortune, sans que ton esprit soit devenu plus sage par ces épreuves.
+> Trois fois, tu es tombé dans le malheur et dans l’infortune, sans que ton esprit soit devenu plus sage par ces épreuves.
 >
-> Tu as mené ton armée dans le Mazenderan ; rappelle-toi que de malheurs il en est résulté.
+> Tu as mené ton armée dans le Mazenderan ; Ne te souviens-tu pas des malheurs que tu as provoqués ?
 >
-> Une autre fois tu t’es fait l’hôte de ton ennemi et de son idole tu es devenu son serviteur.
+> Une autre fois, tu t’es fait l’hôte de ton ennemi et de son idole, tu es devenu son serviteur.
 >
-> Il ne restait plus dans le monde que
->
-> Dieu le tout pur qui ne demandât pas son investiture à ton épée ; tu avais parcouru la terre pour la soumettre et maintenant tu te mets en hostilité contre le ciel.
+> Il ne restait plus dans le monde que Dieu le tout pur qui ne demandât pas son investiture à ton épée ; tu avais parcouru la terre pour la soumettre et maintenant tu te mets en hostilité contre le ciel.
 >
 > Si tu t’élèves de la largeur d’une main plus haut que tu ne dois, tu es entièrement rebelle envers Dieu.
 >
 > Tu as toujours trouvé moyen de te tirer de malheur ; mais après ta mort on se racontera qu’il y a eu un roi qui a voulu monter au ciel pour voir la lune et le soleil et pour compter les étoiles une à une.
 >
-> Fais comme les rois sensés, bons et pieux ; ne tends de toutes les forces qu’à la soumission envers Dieu et soit dans le bonheur, soit dans le malheur, n’implore que lui. »
+> Fais comme les rois sensés, bons et pieux ; ne tends de toutes les forces qu’à la soumission envers Dieu et soit dans le bonheur, soit dans le malheur, n’implore que lui.
 
 Kaous resta confondu et dévora la honte dont les grands et les braves le couvrirent.
 
 À la fin il répondit :
 
-> La justice ne saurait souffrir de ce qui est vrai ; tout ce que vous avez dit est vrai et juste et mon âme est captive dans vos lacets. »
+> La justice ne saurait souffrir de ce qui est vrai ; tout ce que vous avez dit est vrai et juste et mon âme est captive dans vos lacets.
 
 Il versa de ses yeux des larmes de fiel et adressa beaucoup de prières au Créateur ; ensuite il se revêtit de ses armes et entra dans une litière, accablé de repentir et de douleur.
 
