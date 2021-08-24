@@ -96,7 +96,7 @@ Lorsqu’on reçut à la cour royale des nouvelles de l’armée de Saweh, Hormu
 
 Quand le Faghfour eut entendu ces paroles, il se hâta de s’en retourner auprès de son père et de lui dire ce qui en était.
 
-Le roi l’écoute, devint soupçonneux etfit à l’instant rechercher l’envoyé de Hormuzd ; mais on lui dit que Kharrad Berzin s’était enfui en versant des larmes de sang par regret d’être venu.
+Le roi l’écouta, devint soupçonneux et fit à l’instant rechercher l’envoyé de Hormuzd ; mais on lui dit que Kharrad Berzin s’était enfui en versant des larmes de sang par regret d’être venu.
 
 Le roi Saweh dit à son fils :
 
