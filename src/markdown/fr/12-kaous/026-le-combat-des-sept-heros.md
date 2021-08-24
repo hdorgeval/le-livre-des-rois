@@ -1,14 +1,44 @@
 ---
 lastUpdate: '2021-08-21'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 38
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Le combat des sept héros | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Bahram',
+    'Berzin',
+    'Gouderz',
+    'Gourazeh',
+    'Gourguin',
+    'Guiv',
+    'Iblis',
+    'Iran',
+    'Iraniens',
+    'Kaous',
+    'Keschwad',
+    'Keï',
+    'Khorrad',
+    'Kustehem',
+    'Newend',
+    'Pehlewan',
+    'Raksch',
+    'Rustem',
+    'Sam',
+    'Sarakhs',
+    'Schahd',
+    'Schaweran',
+    'Thous',
+    'Touran',
+    'Zaboulistan',
+    'Zengueh',
+    'Zewareh',
+  ]
 order: '026'
 ---
 
