@@ -45,7 +45,7 @@ Ces paroles aigrirent le roi Kobad, il ne se souvint plus de ce que Souferaï av
 Il dit :
 
 > Si j’envoie une armée, la tête lui tournera et il voudra se battre ; j’aurai donc employé mes trésors à me faire un pareil ennemi et il me cau-
-sera bien des chagrins et des peines ; tout le monde se rappelle ses hauts faits, mais personne ne sait ce qu’il trame en secret. le n’ai pas dans l’Iran un homme de guerre qui osera marcher contre lui avec une armée. »
+> sera bien des chagrins et des peines ; tout le monde se rappelle ses hauts faits, mais personne ne sait ce qu’il trame en secret. le n’ai pas dans l’Iran un homme de guerre qui osera marcher contre lui avec une armée. »
 
 Un de ces conseillers lui dit :
 
@@ -69,7 +69,7 @@ Lorsqu’il eut amené ses troupes auprès de Kobad, on lui donna à l’instant
 > Sonferaï s’est emparé de tout le pouvoir et je n’ai quele titre de roi des rois ; mais à la fin je me révolte contre ce poids qui pèse sur mon cou, qu’il soit juste ou injuste.
 >
 > Si mon frère était resté roi de l’Iran, cela aurait
-, mieux valu que l’oppression de-Souferaï. »
+> , mieux valu que l’oppression de-Souferaï. »
 
 Schapour lui répondit :
 
@@ -116,13 +116,13 @@ Le Pehlewan répondit :
 > Est-ce que j’ai mérité des liens ?
 >
 > Est-Ce que des paroles malson-
-VI.
+> VI.
 >
 > Nantes sont ma récompense ?
 >
-> Mais ne t’écarte en rien de ses ordres, sache que les fers aux pieds d’un homme sontsun ornement pour lui. »
+> Mais ne t’écarte en rien de ses ordres, sache que les fers aux pieds d’un homme sont un ornement pour lui. »
 
-Schapour l’écoute, lui enchaîna les pieds, fit battre les timbales et remonta à cheval.
+Schapour l’écouta, lui enchaîna les pieds, fit battre les timbales et remonta à cheval.
 
 Il l’amena du Farsistan auprès de Kobad, qui ne paraissait pas se souvenir de tout le passé et ordonna de le jeter en prison et de le mettre avec des fous.
 
