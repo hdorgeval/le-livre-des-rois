@@ -38,7 +38,7 @@ Bahram lui dit :
 
 Schenguil savait qu’il disait vrai, car on ne peut pas oublier la bravoure et la vaillance et il répondit :
 
-> J’ai mis de côté mes fils, mes parents et mes 5. alliés ; tu m’as été plus précieux que mes yeux, je t’ai’gardé comme un diadème sur ma tête, je t’ai donné la femme que tu as désirée, j’ai agi avec droiture et tu m’as trompé.
+> J’ai mis de côté mes fils, mes parents et mes alliés ; tu m’as été plus précieux que mes yeux, je t’ai gardé comme un diadème sur ma tête, je t’ai donné la femme que tu as désirée, j’ai agi avec droiture et tu m’as trompé.
 >
 > Tu as préféré l’iniquité à la loyauté et quand as-tu entendu que l’iniquité était un juste retour pour la loyauté ?
 >
@@ -69,4 +69,4 @@ Bahram lui raconta alors son secret et lui dit ce qui s’était passé dans l�
 Ils burent un peu de vin, puis ils se levèrent et s’excusèrent l’un auprès de l’autre et les ’
 deux rois, l’un idolâtre et l’autre adorateur de Dieu, se serrèrent la main et se promirent que, dans l’avenir, ils ne briseraient plus le cœur de la droiture et arracheraient jusqu’au bout la racine de la ruse, -qu’ils seraient de bonne foi éternellement et qu’ils écouteraient les paroles des hommes intelligents.
 
-Ensuite Schenguil prit congé de Sepinoud et la serra dans ses bras ; puis ils se tournèrent rapidement le des, ayant jetédans la poussière toute la haine de leurs cœurs et l’un se dirigea vers le fleuve, l’autre vers les terres, tous les deux heureux de cœur et pressés de s’en retourner chez eux.
+Ensuite Schenguil prit congé de Sepinoud et la serra dans ses bras ; puis ils se tournèrent rapidement le des, ayant jeté dans la poussière toute la haine de leurs cœurs et l’un se dirigea vers le fleuve, l’autre vers les terres, tous les deux heureux de cœur et pressés de s’en retourner chez eux.
