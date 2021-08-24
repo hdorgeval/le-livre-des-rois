@@ -24,8 +24,7 @@ Il invoqua d’abord les grâces du Distributeur de la justice sur le roi de la 
 >
 > Telle n’était pas la coutume de tes ancêtres, ces rois du monde, nobles et purs.
 >
-> Mais puisque tu violes le traité qui liait les Perses, que tu jettes
-, dans la poussière la marque de la frontière établie par les grands, moi aussi je dois le rompre, et, contre mon gré, porter ma main à l’épée. »
+> Mais puisque tu violes le traité qui liait les Perses, que tu jettes dans la poussière la marque de la frontière établie par les grands, moi aussi je dois le rompre, et, contre mon gré, porter ma main à l’épée. »
 
 Il expliqua toute l’afi’aire dans la lettre et l’envoya accompagnée de beaucoup de présents ; un cavalier éloquent et portant haut la tête partit avec la lettre de Khouschnewaz.
 
@@ -37,9 +36,9 @@ Pirouz lut la lettre et se mit en colère contre ce roi illustre ; il dit au mes
 
 Le messager partit rapidement comme la poussière, rapporta tout ce qu’il avait entendu et parla longuement à Khouschnewaz de ce roi fier et orgueilleux.
 
-Khouscbnewaz l’écoute, lut la lettre et appela ses troupes dispersées ; il amena son armée sur le champ de bataille et attacha à la pointe d’une lance le traité que son ancêtre avait reçu du roi Bahram, selon lequel le Djihoun formait la frontière.
+Khouscbnewaz l’écouta, lut la lettre et appela ses troupes dispersées ; il amena son armée sur le champ de bataille et attacha à la pointe d’une lance le traité que son ancêtre avait reçu du roi Bahram, selon lequel le Djihoun formait la frontière.
 
-Ensuite, il choisit dans son armée .unLhomme sagace, doux de paroles et honoré de tous et lui dit :
+Ensuite, il choisit dans son armée un homme sagace, doux de paroles et honoré de tous et lui dit :
 
 > Va auprès de
 
@@ -82,7 +81,7 @@ Lorsque Khouschnewaz eut entendu ces paroles, il prit son refuge en Dieu et l’
 > Périsse sa force, périsse son savoir, périsse son cœur ! »
 
 V Il fit creuser alors un fossé autour de son. camp et en fit déguiser et recouvrir l’ouverture.
->
+
 > Le fossé était profond de la longueur d’un lacet qu’on y faisait descendre et large de vingt coudées.
 >
 > Ayant achevé cet ouvrage, il invoqua le nom de Dieu et amena son armée de la ville de Samarkand.
