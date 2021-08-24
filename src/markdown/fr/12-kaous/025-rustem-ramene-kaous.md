@@ -8,7 +8,19 @@ source: tome II - livre des rois - P. 34
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Rustem ramène Kaous | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Créateur',
+    'Dieu',
+    'Gouderz',
+    'Guiv',
+    'Kaous',
+    'Mazenderan',
+    'Pehlewans',
+    'Rustem',
+    'Thous',
+  ]
 order: '025'
 ---
 
