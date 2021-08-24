@@ -1674,6 +1674,12 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ soisy /g, ' sois-y '),
     (content: string) => content.replace(/ envoyaà /g, ' envoya à '),
     (content: string) => content.replace(/ ordonnel/g, ' ordonne ! '),
+    (content: string) => content.replace(/disant -\./g, 'disant :'),
+    (content: string) => content.replace(/ 5 No /g, ' '),
+    (content: string) => content.replace(/ 5\. /g, ' '),
+    (content: string) => content.replace(/ l’écoute, /g, ' l’écouta, '),
+    (content: string) => content.replace(/ A3 /g, ' '),
+    (content: string) => content.replace(/l’afi’aire /g, 'l’affaire '),
   ].forEach((format) => {
     result = format(result);
   });
