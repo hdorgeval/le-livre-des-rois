@@ -66,7 +66,8 @@ Quand il donna sa fille au Pehlewan, tous, jeunes et vieux, y applaudirent ; dan
 
 > Que cette nouvelle lune te porte bonheur !
 
-Que la tête de les ennemis soit tranchée ! 
+Que la tête de les ennemis soit tranchée !
+
 N
 
 Sa Ensuite sa compagne fut laissée seule avec lui,’et
