@@ -48,7 +48,7 @@ Quelque temps s’étant ainsi passé, il refusa d’obéir aux ordres de son p�
 >
 > Car tu me jetterais sur-le-champ dans les fers. »
 
-Piran l’écoute, sourit et dit :
+Piran l’écouta, sourit et dit :
 
 > La haute naissance et la bravoure ne peuvent rester cachées. »
 
