@@ -1,3 +1,4 @@
+import { CountryCode } from '.';
 import { readAllLinesInFile } from '../fs';
 import path from 'path';
 
@@ -22,10 +23,10 @@ export interface GeoNamesAndLinks {
  * Get all alternate names from the alternate names file.
  * Please read the README.md in docs/geonames.org/alternate-names folder before using that function.
  * @export
- * @param {'IR'} name
+ * @param {CountryCode} name
  * @returns {AlternateNameData[]}
  */
-export function getAllAlternateNamesOfCountry(name: 'IR'): AlternateNameData[] {
+export function getAllAlternateNamesOfCountry(name: CountryCode): AlternateNameData[] {
   const alternateNamesRawData = readAllLinesInFile(
     path.join(process.cwd(), 'docs', 'geonames.org', 'alternate-names', `${name}.txt`),
   );
@@ -46,7 +47,7 @@ export function getAllAlternateNamesOfCountry(name: 'IR'): AlternateNameData[] {
 }
 export function getNamesAndLinksByGeonameIdAndCountry(
   geonameId: string,
-  countryCode: 'IR',
+  countryCode: CountryCode,
 ): GeoNamesAndLinks {
   const allNamesAndLinks = getAllAlternateNamesOfCountry(countryCode);
   const result: GeoNamesAndLinks = {

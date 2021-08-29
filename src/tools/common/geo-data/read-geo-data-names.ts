@@ -1,6 +1,8 @@
 import { readAllLinesInFile } from '../fs';
 import path from 'path';
 
+export type CountryCode = 'IR' | 'SY';
+
 export interface GeoNameData {
   geonameId: string;
   name: string;
@@ -48,10 +50,10 @@ function sanitizedAlternateNamesAndConvenienceAttribute(line: string): string {
  * Get all geodata names from the geonames.org file.
  * Please read the README.md in docs/geonames.org folder before using that function.
  * @export
- * @param {'IR'} name
+ * @param {CountryCode} name
  * @returns {AlternateNameData[]}
  */
-export function getAllGeoDataNamesOfCountry(name: 'IR'): GeoNameData[] {
+export function getAllGeoDataNamesOfCountry(name: CountryCode): GeoNameData[] {
   const rawData = readAllLinesInFile(
     path.join(process.cwd(), 'docs', 'geonames.org', `${name}.txt`),
   );

@@ -1,19 +1,21 @@
-import { filenameFromPlacename } from '.';
 import {
+  filenameFromPlacename,
+  CountryCode,
+  GeoNameData,
   GeoNamesAndLinks,
   getAllAlternateNamesOfCountry,
+  getAllGeoDataNamesOfCountry,
   getNamesAndLinksByGeonameIdAndCountry,
-} from './read-geo-data-alternate-names';
-import { GeoNameData, getAllGeoDataNamesOfCountry } from './read-geo-data-names';
+} from '.';
 import { GeoDataFeature, GeoJsonData } from '../../../components/common';
 import { writeFileSync } from 'fs';
 import path from 'path';
 
 export function tryExtractGeodataOf(name: string): {
-  inCountry: (countryCode: 'IR') => [GeoNameData | null, GeoNamesAndLinks | null];
+  inCountry: (countryCode: CountryCode) => [GeoNameData | null, GeoNamesAndLinks | null];
 } {
   return {
-    inCountry(countryCode: 'IR') {
+    inCountry(countryCode: CountryCode) {
       const alternateNamesData = getAllAlternateNamesOfCountry(countryCode);
       const geonamesData = getAllGeoDataNamesOfCountry(countryCode);
 
@@ -68,10 +70,10 @@ export function tryExtractGeodataOf(name: string): {
 }
 
 export function addOrUpdateGeoJsonDataOf(name: string): {
-  inCountry: (countryCode: 'IR') => void;
+  inCountry: (countryCode: CountryCode) => void;
 } {
   return {
-    inCountry(countryCode: 'IR') {
+    inCountry(countryCode: CountryCode) {
       const [foundData, foundNames] = tryExtractGeodataOf(name).inCountry(countryCode);
       if (!foundData) {
         // eslint-disable-next-line no-console
@@ -111,5 +113,6 @@ export function addOrUpdateGeoJsonDataOf(name: string): {
   };
 }
 
-addOrUpdateGeoJsonDataOf('Amol').inCountry('IR');
-addOrUpdateGeoJsonDataOf('Ahvaz').inCountry('IR');
+// addOrUpdateGeoJsonDataOf('Amol').inCountry('IR');
+// addOrUpdateGeoJsonDataOf('Ahvaz').inCountry('IR');
+addOrUpdateGeoJsonDataOf('Alep').inCountry('SY');
