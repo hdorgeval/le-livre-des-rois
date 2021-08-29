@@ -12,8 +12,48 @@
       },
       "properties": {
         "name": {
+          "default": "n83005425",
+          "ru": "Вазирабад, Балх",
+          "de": "Balch",
+          "en": "Balkh",
+          "es": "Balj",
+          "bg": "Балх",
+          "fa": "بلخ",
+          "fi": "Balkh",
           "fr": "Balkh",
-          "ar": " بلخ"
+          "nl": "Balch",
+          "no": "Balkh",
+          "ps": "بلخ",
+          "sv": "Balkh",
+          "pl": "Balch",
+          "ar": "بلخ",
+          "pt": "Balkh",
+          "sk": "Balch",
+          "link": {
+            "wikipedia": "http://id.loc.gov/authorities/names/n83005425"
+          },
+          "bn": "বাল্‌খ",
+          "cs": "Balch",
+          "el": "Μπαλχ",
+          "fy": "Balch",
+          "hy": "Բալխ",
+          "ja": "バルフ",
+          "kk": "Балх",
+          "ko": "발흐",
+          "ku": "Belx",
+          "lt": "Balchas",
+          "ml": "ബൽഖ്",
+          "ms": "Daerah Balkh",
+          "ro": "Balch",
+          "tg": "Балх",
+          "tr": "Belh",
+          "uk": "Балх",
+          "vi": "Quận Balkh",
+          "zh": "巴尔赫",
+          "bs": "Belh",
+          "eo": "Balĥo",
+          "he": "בלך",
+          "uz": "Balx"
         }
       }
     }
