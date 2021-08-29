@@ -8,6 +8,7 @@ These geodata alternate names must be downloaded in this folder if you want to c
 - [Afghanistan](./AF.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/alternatenames/AF.zip)
 - [Turkmenistan](./TM.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/alternatenames/TM.zip)
 - [Pakistan](./PK.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/alternatenames/PK.zip)
+- [Syria](./SY.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/alternatenames/SY.zip)
 
 ## Usage
 

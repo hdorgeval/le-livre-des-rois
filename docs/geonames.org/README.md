@@ -8,6 +8,7 @@ These geodata countries must be downloaded in this folder if you want to contrib
 - [Afghanistan](./AF.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/AF.zip)
 - [Turkmenistan](./TM.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/TM.zip)
 - [Pakistan](./PK.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/PK.zip)
+- [Syria](./SY.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/SY.zip)
 
 ## Usage
 
