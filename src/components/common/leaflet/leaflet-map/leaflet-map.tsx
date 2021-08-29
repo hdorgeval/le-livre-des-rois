@@ -108,7 +108,12 @@ export const LeafletMap: React.FC<LeafletMapProps> = ({ geoJsonFilename }) => {
   // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const onEachFeature = (feature: any, layer: L.Layer) => {
     const f = feature as GeoDataFeature;
-    const name = f?.properties?.name?.fr;
+    const name =
+      f?.properties?.name?.fr ||
+      f?.properties?.name?.en ||
+      f?.properties?.name?.default ||
+      f?.properties?.name?.fa;
+
     if (name) {
       const popupContent = name;
       layer.bindPopup(popupContent);
