@@ -1,7 +1,7 @@
 import { readAllLinesInFile } from '../fs';
 import path from 'path';
 
-export type CountryCode = 'IR' | 'SY';
+export type CountryCode = 'IR' | 'SY' | 'AF';
 
 export interface GeoNameData {
   geonameId: string;

@@ -112,7 +112,3 @@ export function addOrUpdateGeoJsonDataOf(name: string): {
     },
   };
 }
-
-// addOrUpdateGeoJsonDataOf('Amol').inCountry('IR');
-// addOrUpdateGeoJsonDataOf('Ahvaz').inCountry('IR');
-addOrUpdateGeoJsonDataOf('Alep').inCountry('SY');
