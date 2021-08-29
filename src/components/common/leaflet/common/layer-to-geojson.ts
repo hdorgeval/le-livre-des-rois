@@ -24,7 +24,7 @@ export function reverseCoordinates(coordinates: [LngLatTuple[]]): [LngLatTuple[]
 }
 
 export const defaultGeoDataFeatureProperties: GeoDataFeatureProperties = {
-  name: { fr: 'area name in french', ar: 'area name in arab' },
+  name: { default: 'default area', ar: 'area name in arab', fr: 'area name in french' },
   options: {
     clickable: true,
     color: '#3388ff',
@@ -48,8 +48,9 @@ export function toGeoJsonDataFeatureFromLayerEvent(layerEvent: LayerEvent): GeoD
         },
         properties: {
           name: {
-            fr: 'area name in french',
+            default: 'default area',
             ar: 'area name in arab',
+            fr: 'area name in french',
           },
           options: { ...layerEvent?.layer?.options, weight: 2, dashArray: 3 },
         },

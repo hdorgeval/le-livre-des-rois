@@ -14,7 +14,10 @@ export interface GeoDataFeatureProperties {
     [key: string]: string | { [key: string]: string } | undefined;
     default: string;
     fa?: string;
+    fr?: string;
     ru?: string;
+    en?: string;
+    ar?: string;
     link?: {
       wikipedia?: string;
     };
