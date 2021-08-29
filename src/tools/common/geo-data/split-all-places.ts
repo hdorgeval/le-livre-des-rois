@@ -8,7 +8,7 @@ interface FeatureProperty {
   wikilink: string;
 }
 
-function filenameFromPlacename(name: string): string {
+export function filenameFromPlacename(name: string): string {
   let filename = name
     .toLocaleLowerCase()
     .replace(/ /g, '-')
@@ -36,8 +36,8 @@ export function splitAllPlaces(): void {
       geometry: feature.geometry,
       properties: {
         name: {
-          fr: (feature.properties as unknown as FeatureProperty).name,
-          ar: (feature.properties as unknown as FeatureProperty).name2,
+          default: (feature.properties as unknown as FeatureProperty).name,
+          fa: (feature.properties as unknown as FeatureProperty).name2,
         },
       },
     };
@@ -46,9 +46,9 @@ export function splitAllPlaces(): void {
       features: [singleFeature],
     };
 
-    const filename = `${filenameFromPlacename(singleFeature.properties.name.fr)}.geojson`;
+    const filename = `${filenameFromPlacename(singleFeature.properties.name.default)}.geojson`;
     writeFileSync(path.join('src', 'gis', filename), JSON.stringify(singlePlace, null, 2));
   });
 }
 
-splitAllPlaces();
+// splitAllPlaces();
