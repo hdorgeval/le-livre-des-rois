@@ -12,8 +12,12 @@
       },
       "properties": {
         "name": {
-          "fr": "Āmol",
-          "ar": " آمل"
+          "default": "Amol",
+          "fa": "آمل, Āmol",
+          "ru": "Амоль",
+          "link": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Amol"
+          }
         }
       }
     }
