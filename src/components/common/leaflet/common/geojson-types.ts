@@ -11,8 +11,13 @@ export interface GeoDataFeature {
 
 export interface GeoDataFeatureProperties {
   name: {
-    fr: string;
-    ar: string;
+    [key: string]: string | { [key: string]: string } | undefined;
+    default: string;
+    fa?: string;
+    ru?: string;
+    link?: {
+      wikipedia?: string;
+    };
   };
   options?: {
     clickable: boolean;
