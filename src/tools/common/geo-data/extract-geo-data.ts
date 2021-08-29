@@ -34,33 +34,35 @@ export function tryExtractGeodataOf(name: string): {
         return [null, null];
       }
 
-      if (foundAlternateNames.length > 1) {
+      const candidateGeonameIds = new Set(foundAlternateNames.map((data) => data.geonameId));
+
+      const geonameData = geonamesData
+        .filter((data) => candidateGeonameIds.has(data.geonameId))
+        .filter((data) => data.featureClass === 'P');
+
+      if (geonameData.length > 1) {
         // eslint-disable-next-line no-console
-        console.log(`Multiple alternate names found for ${name}`);
+        console.log(`Multiple geonames found for ${name}`);
         return [null, null];
       }
 
-      const foundAlternateName = foundAlternateNames[0];
-      const geonameData = geonamesData.find(
-        (data) => data.geonameId === foundAlternateName.geonameId,
-      );
-
-      if (!geonameData) {
+      if (geonameData.length === 0) {
         // eslint-disable-next-line no-console
         console.log(`No geoname data found for ${name}`);
         return [null, null];
       }
 
+      const foundGeonameData = geonameData[0];
       const namesAndLinks = getNamesAndLinksByGeonameIdAndCountry(
-        geonameData.geonameId,
+        foundGeonameData.geonameId,
         countryCode,
       );
 
       if (namesAndLinks && !namesAndLinks.default) {
-        namesAndLinks.default = geonameData.asciiName;
+        namesAndLinks.default = foundGeonameData.asciiName;
       }
 
-      return [geonameData, namesAndLinks];
+      return [foundGeonameData, namesAndLinks];
     },
   };
 }
@@ -110,3 +112,4 @@ export function addOrUpdateGeoJsonDataOf(name: string): {
 }
 
 addOrUpdateGeoJsonDataOf('Amol').inCountry('IR');
+addOrUpdateGeoJsonDataOf('Ahvaz').inCountry('IR');
