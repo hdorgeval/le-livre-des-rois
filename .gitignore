@@ -74,3 +74,9 @@ ltex-ls-*.*.*
 # LTEX logs
 ltex-log.txt
 replacers.fr.txt
+
+# Geonames data
+AF.txt
+IR.txt
+PK.txt
+TM.txt
