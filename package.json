@@ -28,6 +28,7 @@
     "fr-auto-commit-episodes-with-updated-tags": "ts-node src/tools/common/git/auto-commit-episodes-with-updated-tags.fr.ts",
     "fr-auto-commit-episodes-with-updated-lastUpdate": "ts-node src/tools/common/git/auto-commit-episodes-with-updated-last-update-metadata.fr.ts",
     "fr-auto-commit-episodes-with-updated-status": "ts-node src/tools/common/git/auto-commit-episodes-with-updated-status.fr.ts",
+    "fr-auto-commit-episodes-with-updated-geodata": "ts-node src/tools/common/git/auto-commit-episodes-with-updated-geodata.fr.ts",
     "fr-auto-commit-new-episodes": "ts-node src/tools/common/git/auto-commit-new-episodes.fr.ts",
     "auto-commit-skip-netlify": "ts-node src/tools/common/git/auto-commit-skip-netlify.ts",
     "auto-commit": "ts-node src/tools/common/git/auto-commit.ts",
