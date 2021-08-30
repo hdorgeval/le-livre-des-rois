@@ -1,6 +1,6 @@
 {
   "name": "le-livre-des-rois",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Le livre des rois: histoire légendaire des rois de Perse par Ferdowsi",
   "main": "index.js",
   "scripts": {
