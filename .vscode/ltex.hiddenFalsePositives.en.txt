@@ -1,1 +1,2 @@
 {"rule":"POSSESSIVE_APOSTROPHE","sentence":"^\\QIf you are not sure about how to lable the commit, or how many files to put in the same commit, you can look at the commits history.\\E$"}
+{"rule":"A_LOT_OF_NN","sentence":"^\\QNot all terms have an explanation: building a lexicon is very hard, and what has been done so far for the French version, has been generated only manually and there are still a lot of \\E(?:Dummy|Ina|Jimmy-)[0-9]+\\Q due to my lack of knowledge.\\E$"}
