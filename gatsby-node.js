@@ -142,6 +142,7 @@ async function createAllFrenchEpisodePages(graphql, actions) {
               reign
               title
               status
+              geo_data
             }
           }
           next {
@@ -172,6 +173,7 @@ async function createAllFrenchEpisodePages(graphql, actions) {
     const lastUpdate = markdown?.frontmatter?.lastUpdate;
     const pageTitle = markdown?.frontmatter?.title;
     const status = markdown?.frontmatter?.status;
+    const geoData = markdown?.frontmatter?.geo_data;
     const path = markdown?.fileAbsolutePath;
     let githubPageUrl = null;
     const paths = path.split('/src/');
@@ -200,6 +202,7 @@ async function createAllFrenchEpisodePages(graphql, actions) {
         pageTitle,
         status,
         githubPageUrl,
+        geoData,
       },
     });
 

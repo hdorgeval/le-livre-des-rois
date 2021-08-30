@@ -1,6 +1,6 @@
 import { MarkdownRemarkResponse } from '../../../graphql';
 import { Layout } from '../../../components/fr';
-import { SEO } from '../../../components';
+import { LeafletMap, SEO } from '../../../components';
 import React from 'react';
 import { graphql, Link } from 'gatsby';
 import './episode-template.css';
@@ -20,6 +20,7 @@ interface MarkdownTemplateProps {
     pageTitle: string | null;
     status: 'draft' | 'ready' | null;
     githubPageUrl: string | null;
+    geoData: string | null;
   };
 }
 export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageContext }) => {
@@ -140,6 +141,9 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
               </div>
             )}
           </div>
+        </div>
+        <div className="card bg-dark text-white">
+          {pageContext.geoData && <LeafletMap geoJsonFilename={pageContext.geoData} />}
         </div>
       </div>
     </Layout>
