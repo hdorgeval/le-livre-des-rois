@@ -8,6 +8,7 @@ source: tome I - livre des rois - P. 085
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
 title: 'Avènement de Feridoun au trône | Le Livre des Rois | Shâhnâmeh'
+geo-data: 'amol.geojson'
 tags:
   [
     'Amol',
