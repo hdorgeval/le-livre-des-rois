@@ -58,8 +58,8 @@ export function getNamesAndLinksByGeonameIdAndCountry(
     .filter((data) => data.geonameId === geonameId)
     .forEach((data) => {
       const codeOrLink = data.codeOrLink;
-      if (codeOrLink === 'link') {
-        const link = data.nameOrLink;
+      const link = data.nameOrLink;
+      if (codeOrLink === 'link' && link.startsWith('https://en.wikipedia.org')) {
         result.default = link.split('/').pop() || '';
         result.link = {
           wikipedia: link,
