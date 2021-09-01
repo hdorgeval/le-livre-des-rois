@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": {
-          "default": "n83005425",
+          "default": "Balkh",
           "ru": "Вазирабад, Балх",
           "de": "Balch",
           "en": "Balkh",
@@ -30,7 +30,7 @@
           "pt": "Balkh",
           "sk": "Balch",
           "link": {
-            "wikipedia": "http://id.loc.gov/authorities/names/n83005425"
+            "wikipedia": "https://en.wikipedia.org/wiki/Balkh"
           },
           "bn": "বাল্‌খ",
           "cs": "Balch",
