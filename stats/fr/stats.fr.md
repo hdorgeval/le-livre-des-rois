@@ -12,6 +12,18 @@ estimated end date: 2025-01-21
 
 # Stats about the French version of the Shahnahme
 
+Fully processed episode:
+
+- Any episode who has been reviewed manually and guaranteed to be an exact copy of the original document.
+
+Defect :
+
+- A defect is any part of the text that is not valid in terms of spelling or grammatical construct. This is due to OCR (Optical Character Recognition) being not as perfect as a human eye.
+
+Keyword :
+
+- A keyword is the name of a character, the name of a place, the name of an entity or any word of interest like for example `résurrection`, `quatorze`, `immortel`.
+
 ## 2021-08-19
 
 - ratio of fully processed episodes: 37 %
