@@ -12,7 +12,7 @@
       },
       "properties": {
         "name": {
-          "default": "%D0%90%D0%BB%D0%B5%D0%BF%D0%BF%D0%BE",
+          "default": "Aleppo",
           "de": "Aleppo",
           "en": "Aleppo",
           "es": "Alepo",
@@ -43,7 +43,7 @@
           "uk": "Алеппо",
           "ur": "حلب",
           "link": {
-            "wikipedia": "https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B5%D0%BF%D0%BF%D0%BE"
+            "wikipedia": "https://en.wikipedia.org/wiki/Aleppo"
           },
           "mr": "अलेप्पो",
           "so": "Xalab",
