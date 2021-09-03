@@ -52,7 +52,7 @@ Zendeh s’approcha de lui et lui demanda subitement :
 >
 > Viens vers la lumière et montre-toi. »
 
-Rustem le frappa sur la nuque d’un violent coup de poing et l’âme de Zendeh Bezm abandonna son corps ; il mourut sur la place ; il ne devait plus combattre et les fêtes avaient fini pour lui.
+Rustem le frappa sur la nuque d’un violent coup de poing et l’âme de Zendeh Rezm abandonna son corps ; il mourut sur la place ; il ne devait plus combattre et les fêtes avaient fini pour lui.
 
 Sohrab attendit longtemps, mais Zendeh le lion ne revint pas auprès de lui, il demanda où il était allé, laissant vide sa place au banquet.
 
@@ -60,7 +60,7 @@ Quelques-uns sortirent et le trouvèrent par terre ; il était sans vie et l’�
 
 Ils revinrent en poussant des cris de terreur, ils revinrent ’âme troublée de douleur et dirent à Sohrab :
 
-> Zendeh Bezm est mort !
+> Zendeh Rezm est mort !
 >
 > Les fêtes et les combats sont passés pour lui. »
 
@@ -107,6 +107,6 @@ De la Rustem alla auprès du roi et lui fit la description des Turcs et de leur 
 
 Que puis-je dire de plus ? »
 
-Ensuite, il parla du coup qu’il avait donné à Zendeh Bezm et qui le mettait hors d’état de prendre part aux combats et aux banquets.
+Ensuite, il parla du coup qu’il avait donné à Zendeh Rezm et qui le mettait hors d’état de prendre part aux combats et aux banquets.
 
 Ils conversèrent de cette sorte, ensuite ils firent venir des musiciens et du vin et passèrent. la nuit réunis en assemblée.
