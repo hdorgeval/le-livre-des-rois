@@ -48,7 +48,7 @@ Mais Tehemten s’emporte contre le roi et s’écria :
 >
 > Fais pendre vivant au gibet ce Turc, réserve ton courroux et tes mauvais traitements pour ton ennemi.
 >
-> Le Roum,, le Segsar, le Mazenderan, l’Égypte, la Chine et le Hamaveran sont des esclaves prosternés devant mon cheval Raksch ; leurs cœurs ont été brisés par mon épée et mon arbalète ; et toi-même, ce n’est que grâce à moi que tu vis ; comment peux-tu laisser aller ton cœur à cette fureur ? »
+> Le Roum, le Segsar, le Mazenderan, l’Égypte, la Chine et le Hamaveran sont des esclaves prosternés devant mon cheval Raksch ; leurs cœurs ont été brisés par mon épée et mon arbalète ; et toi-même, ce n’est que grâce à moi que tu vis ; comment peux-tu laisser aller ton cœur à cette fureur ? »
 
 Il dit et frappa rudement de sa main la main de Thous ; tu aurais dit que c’était un éléphant furieux qui l’assaillait.
 
@@ -120,7 +120,7 @@ Alors tous les grands pleins de courage, tels que Guiv, Gouderz et Bahram le bra
 > de dangers Rustem n’a-t-il pas supportés ?
 >
 > Il a dé-
-.chiré le corps du terrible Div, il a rétabli avec joie Kaous sur son trône, il l’a salué comme on salue les rois.
+> .chiré le corps du terrible Div, il a rétabli avec joie Kaous sur son trône, il l’a salué comme on salue les rois.
 >
 > Et lorsque le pied de Kaous était chargé de lourdes chaînes dans le Hamaveran, Rustem a combattu tant de rois pour le secourir et n’a jamais tourné le dos devant le roi du Hamaveran.
 >
@@ -199,8 +199,10 @@ Rustem leur répondit :
 C’est ainsi qu’il parla à Rustem et celui-ci l’écouta avec étonnement ; à la fin il lui dit :
 
 > Si la peur était entrée dans mon cœur, je ne voudrais pas que mon âme restât dans mon corps et je l’en arracherais.
+>
+> Tu sais que je ne fuis pas le combat, mais que le roi m’a traité avec indignité. »
 
-Tu sais que je ne fuis pas le combat, mais que le roi m’a traité avec indignitém Rustem sentit que sa position était telle qu’il ne pouvait que s’en retourner et se rendre auprès du roi.
+Rustem sentit que sa position était telle qu’il ne pouvait que s’en retourner et se rendre auprès du roi.
 
 Animé de ce sentiment, il se leva, reprit le chemin du palais et se rendit d’un pas fier auprès de Kaous.
 
@@ -228,7 +230,7 @@ Puissent le bonheur et le pouvoir rester tes compagnons la Kaous lui dit :
 
 Kaous fit arranger pour la musique une salle digne d’un roi, et’le palais devint comme un jardin printanier.
 
-On appela tous les grands et ils versè-rent dans cette fête des joyaux sur la me du roi.
+On appela tous les grands et ils versèrent dans cette fête des joyaux sur la me du roi.
 
 Des esclaves au visage de lis se tenaient debout devant le roi, jouant de la lyre aux cordes de soie et de la flûte.
 
