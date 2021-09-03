@@ -16,18 +16,17 @@ order: '033'
 
 # Rustem arrive dans la ville de Semengan
 
-Lorsqu’il s’approcha de la ville de Semengan, le
-.roi et les grands apprirent que Rustem le distributeur des couronnes venait à pied, Raksch s’étant enfui à la chasse.
+Lorsqu’il s’approcha de la ville de Semengan, le roi et les grands apprirent que Rustem le distributeur des couronnes venait à pied, Raksch s’étant enfui à la chasse.
 
 Les grands et le roi, tous ceux qui portaient un diadème allèrent à sa rencontre ; et lorsqu’ils l’aperçurent, chacun dit :
 
 > Est-ce Rustem, ou
-(f est-ce le soleil du matin î ? »
+> (f est-ce le soleil du matin î ? »
 
 Le roi de Semengan alla au-devant de lui, à pied, entouré de la foule de ses braves et lui adressa ces paroles :
 
 > Qu’est-il arrivé ?
-qui est-ce qui a osé se mesurer avec toi dans le combat ?
+> qui est-ce qui a osé se mesurer avec toi dans le combat ?
 >
 > Dans cette ville, nous sommes tous tes amis, tous debout pour attendre tes ordres et ta volonté.
 >
@@ -37,7 +36,7 @@ Lorsque Rustem entendit ces paroles, il reconnut que le roi n’avait pas de mau
 
 > Mon cheval Raksch s’est éloigné de moi dans cette prairie, sans rênes et sans mors ; les traces de ses pieds vont de la rivière et des roseaux jusqu’à Semengan.
 >
-> Si tu me le retrouves, tu en recevras mes remerciements et tu obtiendras la ré-œcompense due à ceux qui font le bien ; mais si Raksch ne se trouve plus, je trancherai la tête à beaucoup de grands. »
+> Si tu me le retrouves, tu en recevras mes remerciements et tu obtiendras la récompense due à ceux qui font le bien ; mais si Raksch ne se trouve plus, je trancherai la tête à beaucoup de grands. »
 
 Le roi lui répondit :
 
@@ -56,7 +55,7 @@ Le roi lui répondit :
 > Le prince le plaça sur le trône et se tint devant lui comme un esclave.
 >
 > Il ap-.
-pela de la ville et de l’armée les grands et éloigna de sa vue tous ses ennemis.
+> pela de la ville et de l’armée les grands et éloigna de sa vue tous ses ennemis.
 >
 > Il ordonna aux cuisiniers d’apporter les tables et de les dresser devant les guerriers et pour conjurer le courroux de Rustem, il fit asseoir parmi les chanteurs des idoles de Tharaz aux yeux noirs et aux joues de rose, qui faisaient oublier le vin, les chansons et la musique.
 >
