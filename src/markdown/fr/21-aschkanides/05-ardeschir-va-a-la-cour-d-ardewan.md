@@ -73,7 +73,7 @@ devenir le chef des écuries des chevaux arabes, en se disant :
 
 Puis, il écrivit à son grand-père une lettre, le cœur plein de soucis et la tête pleine j de machinations et lui raconta tout ce qui s’était passé et pourquoi le roi Ardewan s’était mis en colère.
 
-Lorsque cette lettre arriva à Babek, celui-ci tint l’afi’aire cachée à tout le monde ; mais son cœur en fut rempli de douleur et de peine.
+Lorsque cette lettre arriva à Babek, celui-ci tint l’affaire cachée à tout le monde ; mais son cœur en fut rempli de douleur et de peine.
 
 Il tira de son trésor des pièces d’or et lui en envoya dix mille par un y homme monté sur un dromadaire de course.
 
