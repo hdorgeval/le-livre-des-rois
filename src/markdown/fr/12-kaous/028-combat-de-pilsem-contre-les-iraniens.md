@@ -24,7 +24,7 @@ Il accourut, la tête pleine du désir de combattre, le cœur rempli d’impatie
 
 > Je suis jeune, je suis un des braves de l’armée ; Thous le guerrier, Guiv le héros, ce lion couvert de gloire, Bahram et Zengueh fils de Schaweran et Gourazeh toujours prêt pour le combat, ne sont devant moi que de la poussière.
 >
-> Si le roi me le permet, je me jetterai courageusement comme un lion au milieu des braves ; avec mon épée je séparerai de leurs corps les têtes des princes ; je couvrirai leur lune d’un brouillard ; je traînerai la couronne des grands dans la poussière ; je trancherai leurs têtes avec l’épée du combat. »
+> Si le roi me le permet, je me jetterai courageusement comme un lion au milieu des braves ; avec mon épée, je séparerai de leurs corps les têtes des princes ; je couvrirai leur lune d’un brouillard ; je traînerai la couronne des grands dans la poussière ; je trancherai leurs têtes avec l’épée du combat. »
 
 Le roi lui répondit :
 
@@ -36,7 +36,7 @@ Le roi lui répondit :
 
 Pilsem ayant entendu les paroles du roi, poussa un cri pareil au son de la trompette d’airain, il se précipita sur le centre de l’armée des Iraniens, comme la poussière qui vole devant l’orage et frappa à droite et à gauche avec la massue et l’épée du combat ; il courut plus vite que le vent et se jeta sur Gourguin rugissant comme un lion en fureur ; il frappa de l’épée le cheval de Gourguin sur la tête et la douleur de la blessure fit tomber le cheval.
 
-Quand Kustehem le guerrier expérimenté vit cela, il s’év. lança comme le feu, se jeta sur Pilsem comme un lion féroce ; il l’attaqua semblable à une flamme è la brûlante haleine.
+Quand Kustehem le guerrier expérimenté vit cela, il s’élança comme le feu, se jeta sur Pilsem comme un lion féroce ; il l’attaqua semblable à une flamme à la brûlante haleine.
 
 Il le frappa de la lance à la ceinture, mais il ne put entamer le joint de la cuirasse ; la lance se brisa dans sa main par le choc et il jeta le tronçon.
 
@@ -50,7 +50,7 @@ Pilsem, semblable à un crocodile courageux, soutint l’attaque ; il courut sur
 
 Zengueh tomba, mais ramassant les pans de sa cotte de mailles, il les roula autour de sa ceinture et attaqua Pilsem à pied, semblable, au milieu de la poussière, à un lion qui se jette sur sa proie.
 
-Ils soulevaient ainsi la poussière noire sur la place où ils combattaient, lorsque Guiv s’aperçut, du centre de l’armée, que le monde s’obscurcissait devant les yeux des braves ; il rugit comme le tonnerre dans les montagnes, on comme un lion courageux au moment de la lutte et courut au secours de ses trois amis.
+Ils soulevaient ainsi la poussière noire sur la place où ils combattaient, lorsque Guiv s’aperçut, du centre de l’armée, que le monde s’obscurcissait devant les yeux des braves ; il rugit comme le tonnerre dans les montagnes, ou comme un lion courageux au moment de la lutte et courut au secours de ses trois amis.
 
 Tous les quatre attaquèrent Pilsem, mais ce brave ne pâlit point ; il se jeta au milieu des guerriers pour les combattre, frappant tantôt de l’épée, tantôt de la lourde massue, de sorte que les mains en tombèrent d’étonnement aux chefs des Iraniens.
 
