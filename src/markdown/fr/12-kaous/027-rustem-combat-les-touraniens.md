@@ -32,7 +32,7 @@ Rustem revêtit sa cuirasse de peau de léopard et monta sur Raksch, qui était 
 
 Il s’avança vers le roi du Touran pour le combattre ; il rugit comme un crocodile en fureur ; et quand Afrasiab le vit assis sur son cheval, tu aurais dit que son âme abandonnait son corps, tant il fut effrayé des mains et de la poitrine, des bras et des cuisses de Rustem et de cette terrible massue qu’il tenait sur son épaule.
 
-Thous et Gouderz armés de lances, Gourguin et Guiv les braves cavaliers, Bahram et Zengueh fils de Schaweran, Ferhad et à!) Berzin les héros vaillants et avec eux leurs compagnons qui levaient haut la tête dans les combats, tous armés de lances et d’épées indiennes, s’élancèrent ensemble et se rangèrent en bataille, semblables à des crocodiles.
+Thous et Gouderz armés de lances, Gourguin et Guiv les braves cavaliers, Bahram et Zengueh fils de Schaweran, Ferhad et Berzin les héros vaillants et avec eux leurs compagnons qui levaient haut la tête dans les combats, tous armés de lances et d’épées indiennes, s’élancèrent ensemble et se rangèrent en bataille, semblables à des crocodiles.
 
 Guiv se précipita dans la mêlée comme un lion qui manque de proie ; devant et derrière lui et de tous côtés il fit plier la haute taille d’un grand nombre de braves sous les coups de sa massue et de son épée.
 
@@ -52,9 +52,7 @@ Tandis que les yeux des Touraniens s’obscurcissaient et que Rustem élevait so
 >
 > Tu es célèbre parmi les lions du Touran ; tu ambitionnes la possession du monde ; tu as vu maint et maint combat.
 >
-> Tourne encore une fois avec vigueur les rênes de ton che-
->
-> val contre les Iraniens ; va et délivre d’eux ce pays.
+> Tourne encore une fois avec vigueur les rênes de ton cheval contre les Iraniens ; va et délivre d’eux ce pays.
 >
 > Si tu peux les vaincre, l’Iran t’appartiendra ; car tu as le corps d’un éléphant et la griffe d’un lion. »
 
@@ -64,8 +62,7 @@ Il secoua les rênes de son cheval, lui et dix mille guerriers turcs, hommes de 
 
 Rustem, l’écume sur les lèvres et brillant comme s’il avait ravi au soleil son éclat, poussa son cheval et l’on entendit un bruit comme quand la mer s’élève en mugissant.
 
-Tenant le bouclier au-dessus de sa tête et une épée indienne dans sa main .
-il tua la moitié de ces braves.
+Tenant le bouclier au-dessus de sa tête et une épée indienne dans sa main, il tua la moitié de ces braves.
 
 Afrasiab l’observait de loin et il dit à ses guerriers de grand renom :
 
