@@ -20,9 +20,9 @@ Or il y avait un château qu’on appelait le Château Blanc et les Iraniens met
 
 Le châtelain étai !
 
-Hcdjir, homme expérimenté dans la guerre, fort et brave, maniant l’épée et l’arc.
+Hedjir, homme expérimenté dans la guerre, fort et brave, maniant l’épée et l’arc.
 
-Guzdehem vivait encore-,il était faible, mais, malgré sa faiblesse, fier et brave.
+Guzdehem vivait encore, il était faible, mais, malgré sa faiblesse, fier et brave.
 
 Il avait une fille guerrière, aimant à aller à cheval, à manier les rênes, à lancer son coursier, une femme de grand renom.
 
@@ -42,13 +42,11 @@ Hedjir lui répondit :
 
 > Je n’ai pas besoin de beaucoup de compagnons pour te combattre ; je suis Hedjir le brave, le chef de l’armée et maintenant je vais te séparer la tête du tronc et l’envoyer au roi du monde pendant que les vautours dévoreront ton corps. »
 
-Sohrab sourit. lorsque ces bravades frappèrent son oreille, il courut rapidement sur Hedjir et ils lancèrent javelot sur javelot si vite qu’on ne pouvait distinguer ces armes l’une de l’autre.
+Sohrab sourit lorsque ces bravades frappèrent son oreille, il courut rapidement sur Hedjir et ils lancèrent javelot sur javelot si vite qu’on ne pouvait distinguer ces armes l’une de l’autre.
 
 Sohrab, dont la force égalait celle d’un éléphant, s’élance comme la flamme et fit bondir son cheval de guerre comme une montagne qui s’ébranle.
 
-Hedjirpl’atteignit
-
-Au milieu du corps avec une lance, mais la pointe ne pénétra pas et Sohrab le lion retourna la lance, frappa Hedjir de la hampe au milieu du corps et le fit tomber de la selle aussi vite que le vent, car il ne faisait aucun cas de lui ; il le jeta sur la terre comme un quartier de roche et la terreur remplit l’âme et le cœur de Hedjir.
+Hedjir l’atteignit au milieu du corps avec une lance, mais la pointe ne pénétra pas et Sohrab le lion retourna la lance, frappa Hedjir de la hampe au milieu du corps et le fit tomber de la selle aussi vite que le vent, car il ne faisait aucun cas de lui ; il le jeta sur la terre comme un quartier de roche et la terreur remplit l’âme et le cœur de Hedjir.
 
 Sohrab sauta de cheval, s’accroupit à côté de lui et allait lui séparer la tête du corps ; Hedjir se tordit, se retourna vers la droite et dans son angoisse lui demanda pardon.
 
