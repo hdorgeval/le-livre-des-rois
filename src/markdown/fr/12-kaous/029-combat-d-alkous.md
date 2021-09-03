@@ -30,24 +30,23 @@ Quand le roi du Touran eut entendu ces paroles, il répondit :
 
 > Choisis des compagnons parmi les chefs de l’armée. »
 
-Plus de mille cavaliers, avides de com-
-. bats, sortirent avec lui des rangs, tous armés de lances meurtrières, tous brillants comme l’étoile du matin et comme Ormuzd.
+Plus de mille cavaliers, avides de combats, sortirent avec lui des rangs, tous armés de lances meurtrières, tous brillants comme l’étoile du matin et comme Ormuzd.
 
 Lorsqu’il s’approcha de l’armée de l’Iran, le soleil et la lune étaient voilés par la poussière ; mais il aperçut Zewareh qui cherchait un ennemi à combattre et se dirigea vers lui croyant que c’était Rustem, car il reconnut que c’était quelqu’un de la race de Neriman.
 
 Zewareh, de son côté, s’élance vers lui armé d’une lance et semblable à un lion terrible ; mais Alkous, armé aussi d’une lance, brisa celle de Zewareh et le fit trembler devant lui.
 
-Zewareh portant la main à son épée digne d’un héros, la tira et le monde disparut sous la poussière des combattants ; leurs épées furent brisées dans la lutte et rapides comme le vent, ils saio airentleurs massues.
+Zewareh portant la main à son épée digne d’un héros, la tira et le monde disparut sous la poussière des combattants ; leurs épées furent brisées dans la lutte et rapides comme le vent, ils saisirent leurs massues.
 
 Alkous lança sa massue qui ressemblait à une montagne et Zewareh fut étourdi par le coup ; il s’évanouit sur sa selle et tomba par terre sans pouvoir proférer une parole.
 
-Alkous descendit de cheval, se pencha sur lui et allait séparer lahtête du tronc, lorsque Rustem s’apercevant de l’état de son frère, accourut comme une flamme et poussa un cri sauvage qui engourdit la main et émoussa l’épée d’Alkous.
+Alkous descendit de cheval, se pencha sur lui et allait séparer la tête du tronc, lorsque Rustem s’apercevant de l’état de son frère, accourut comme une flamme et poussa un cri sauvage qui engourdit la main et émoussa l’épée d’Alkous.
 
 Tu aurais dit que lorsque Alkous entendit la voix de Rustem, son âme abandonnait son corps ; il sauta sur son cheval, rapide comme le vent et ne se souvint plus dans son cœur de sa bravoure.
 
 Rustem lui dit :
 
-> Tu ne t’es pas’encore mesuré avec les griffes du lion, c’est pourquoi tu as été si vaillant. »
+> Tu ne t’es pas encore mesuré avec les griffes du lion, c’est pourquoi tu as été si vaillant. »
 
 Zewareh remonta péniblement à cheval, couvert de sang, découragé et tout meurtri de coups de massue.
 
@@ -60,7 +59,7 @@ A ce signal, les sept héros, semblables à des lions, saisirent leurs épées e
 
 Afrasiab voyant ces événements merveilleux, jeta un regard sur ses braves et dit :
 
-> Les ennemis l’emportent sur vous dans cette lutte ; faites un effort, montrezvons tels que des léopards et continuez à combattre. »
+> Les ennemis l’emportent sur vous dans cette lutte ; faites un effort, montrez-vous tels que des léopards et continuez à combattre. »
 
 L’armée entendit sa voix et se tourna encore une fois contre Rustem ; mais lorsque Rustem et les sept héros s’en aperçurent, ils firent une attaque vigoureuse et mirent en fuite les Touraniens, de telle sorte que l’on ne distinguait plus les têtes des pieds.
 
