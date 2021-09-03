@@ -24,7 +24,7 @@ Sa bouche souriait et son visage était brillant ; c’est pourquoi Tehmimeh lui
 
 Quand il eut un mois, il était comme un enfant d’un an et sa poitrine était large comme celle de Rustem fils de Zal.
 
-Quand il eut trois ans, il s’exerçait aux jeux d’armes et à cinq ans il avait le cœur d’un lion.
+Quand il eut trois ans, il s’exerçait aux jeux d’armes et à cinq ans, il avait le cœur d’un lion.
 
 Quand il eut atteint l’âge de dix ans, personne dans son pays n’osait lutter contre lui.
 
@@ -60,9 +60,7 @@ Sohrab lui répondit :
 
 > Personne au monde ne peut tenir ceci secret.
 >
-> Tous ceux d’entre les grands 7.
->
-> et les braves qui sont vieux parlent des hauts faits de Rustem ; et mon origine étant aussi noble, pourquoi me l’avoir cachée ?
+> Tous ceux d’entre les grands et les braves qui sont vieux parlent des hauts faits de Rustem ; et mon origine étant aussi noble, pourquoi me l’avoir cachée ?
 >
 > Je vais maintenant me mettre à la tête d’une armée innombrable de Turcs pleins de bravoure ; je précipiterai Kaous de son trône ; j’effacerai de l’Iran la trace du pied de Thous ; je ne laisserai en vie ni Gourguin, ni Gouderz, ni Guiv, ni Kustehem fils de Newder, ni Bahram le brave ; je donnerai à Rustem la massue, le cheval et le casque du roi ; je le ferai monter sur le trône de Kaous ; ensuite je tournerai de l’Iran vers le Touran pour l’attaquer, j’irai à la rencontre du roi ; je m’emparerai du trône d’Afrasiab, je lèverai ma lance au-dessus du soleil ; je te ferai reine du pays d’Iran ; je me montrerai comme un lion dans le combat des braves.
 >
