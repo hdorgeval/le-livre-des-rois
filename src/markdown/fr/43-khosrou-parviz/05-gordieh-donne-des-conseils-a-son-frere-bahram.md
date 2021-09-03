@@ -28,7 +28,7 @@ Elle lui dit :
 >
 > Si, par l’effet de sa jeunesse, il est emporté et violent, ne te laisse pas entraîner à rendre impossible l’œuvre de la réconciliation. »
 
-Le vaillant Bahram dit à sa KHOSBOU PABthZ. sœur :
+Le vaillant Bahram dit à sa sœur :
 
 > Il ne faut pas le compter parmi les rois.
 >
