@@ -32,7 +32,7 @@ Aussitôt que Sohrab fut parti, le vieux Guzdehem appela un scribe et l’ayant 
 >
 > Tu dirais certainement que c’est Rustem ou un héros de la famille de Neriman.
 >
-> Hedjir le courageux s’est ceint pour le combat, il est monté sur un che val rapide et s’est avancé contre Sohrab pour le défier ; mais je ne l’ai pas vu se soutenir en selle plus longtemps qu’il ne faut à un guerrier pour froncer les sourcils, ou à l’odeur pour monter du nez dans le cerveau ; car Sohrab l’a enlevé de selle et les deux armées sont restées stupéfaites de la force de son bras.
+> Hedjir le courageux s’est ceint pour le combat, il est monté sur un cheval rapide et s’est avancé contre Sohrab pour le défier ; mais je ne l’ai pas vu se soutenir en selle plus longtemps qu’il ne faut à un guerrier pour froncer les sourcils, ou à l’odeur pour monter du nez dans le cerveau ; car Sohrab l’a enlevé de selle et les deux armées sont restées stupéfaites de la force de son bras.
 >
 > Hedjir est en vie et sous la garde de Sohrab, le cœur au désespoir, le corps dans la souffrance.
 >
@@ -56,7 +56,7 @@ Aussitôt que Sohrab fut parti, le vieux Guzdehem appela un scribe et l’ayant 
 >
 > Car si nous attendions encore quelque temps, nous lutterions, mais on n’entendrait plus notre voix, parce que ces remparts ne peuvent lui résister et que le bond du lion est lent comparé à son agilité. »
 
-La lettre fut scellée dans la nuit ; le messager se leva et prit congé et Guadehem lui dit :
+La lettre fut scellée dans la nuit ; le messager se leva et prit congé et Guzdehem lui dit :
 
 > Pars de manière qu’a l’aube du jour les Touraniens ne puissent plus te voir. »
 
