@@ -56,7 +56,7 @@ Il dit :
 
 -
 
-, a 7l Dural’écoute et dit d’une voix faible :
+, a Dural’écoute et dit d’une voix faible :
 
 > Puisse la raison être toujours ta compagne !
 
