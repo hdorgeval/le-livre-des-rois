@@ -34,13 +34,11 @@ Aucun de ces chevaux n’était digne de lui et le cœur du héros avide de gloi
 À la fin un brave d’entre la foule s’approcha de Sohrab au corps d’éléphant et lui dit :
 
 > J’ai un poulain de la race de Raksch, qui égale le lion en force et le vent en vitesse ; c’est un cheval haut comme une montagne qui s’élève au-
-dessus d’une vallée et il court dans la plaine comme un oiseau qui vole.
+> dessus d’une vallée et il court dans la plaine comme un oiseau qui vole.
 >
-> Par sa force et par sa vitesse il ressemble au soleil ; personne n’a jamais vu de cheval aussi rapide.
+> Par sa force et par sa vitesse, il ressemble au soleil ; personne n’a jamais vu de cheval aussi rapide.
 >
-> Ses pas ébranlent le tau-
->
-> areau-poisson qui soutient la terre ; son bond est rapide comme l’éclair ; sa stature est haute comme une montagne.
+> Ses pas ébranlent le taureau-poisson qui soutient la terre ; son bond est rapide comme l’éclair ; sa stature est haute comme une montagne.
 >
 > Il vole sur la montagne comme un corbeau : il nage dans la mer comme une araignée d’eau ; il court dans la plaine comme une flèche partie de l’arc, quand il suit la trace de ses ennemis. »
 
@@ -58,6 +56,6 @@ Il dit et rentrant au palais, il se prépara à la guerre contre les Iraniens ; 
 
 Sohrab se présenta devant son grand-père et le pria de lui donner aide et conseil pour qu’il pût aller dans le pays d’Iran, pour qu’il pût voir son glorieux père.
 
-Lorsque le roi de Semengan le vit si brave, il lui donna des trésors de toute espèce, des couronnes et des trônes, des casques et des ceintures, des chevaux et des cha-(sa meaux, de l’or et des joyaux, des cuirasses pour le combat et des armes de guerre ; car il était en admiration devant cet enfant à peine sevré.
+Lorsque le roi de Semengan le vit si brave, il lui donna des trésors de toute espèce, des couronnes et des trônes, des casques et des ceintures, des chevaux et des chameaux, de l’or et des joyaux, des cuirasses pour le combat et des armes de guerre ; car il était en admiration devant cet enfant à peine sevré.
 
 Il ouvrit la main de la justice et de la générosité et l’investit de tous les insignes et de tous les honneurs de la royauté.
