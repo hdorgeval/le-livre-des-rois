@@ -20,7 +20,7 @@ Quelqu’un porta cette nouvelle à Afrasiab en disant :
 
 > Sohrab a lancé sur la mer son vaisseau ; une grande armée s’est assemblée autour de lui ; il lève la tête comme un cyprès au milieu d’un jardin.
 >
-> L’odeur du lait. lui sort encore de la bouche et déjà il a pris l’épée et les flèches.
+> L’odeur du lait lui sort encore de la bouche et déjà il a pris l’épée et les flèches.
 >
 > Il purifiera le monde avec son épée et maintenant il va attaquer Kaous.
 >
@@ -35,9 +35,7 @@ Ensuite
 
 > Si vous tenez secrète la ruse que je vais vous indiquer, vous déciderez du sort du monde.
 >
-> Il
->
-> ne faut pas que le père puisse reconnaître son fils, guidé par les liens de l’âme et par l’instinct de la nature.
+> Il ne faut pas que le père puisse reconnaître son fils, guidé par les liens de l’âme et par l’instinct de la nature.
 >
 > Quand ils seront en présence l’un de l’autre, Rustem voudra sans doute commencer le combat et le vieux guerrier sera peut-être tué par ce lion ; alors nous entrerons dans l’Iran privé de Rustem, nous rendrons le monde étroit devant Kaous ; plus tard nous saisirons Sohrab et une nuit nous le ferons dormir d’un sommeil éternel.
 >
@@ -51,7 +49,7 @@ Ils portaient aussi une lettre adressée au noble guerrier et remplie de flatter
 >
 > Je t’envoie une armée telle qu’il te la faut place-toi sur ce trône et pose sur ta tête cette couronne.
 >
-> Certainement il n’y a jamais eu dans le pays de Touran des braves 7l et des chefs comme Houman et comme Barman ; je te les envoie pour qu’ils soient tes hôtes pendant quelque temps.
+> Certainement il n’y a jamais eu dans le pays de Touran des braves et des chefs comme Houman et comme Barman ; je te les envoie pour qu’ils soient tes hôtes pendant quelque temps.
 >
 > Si tu veux faire la guerre, ils la feront avec toi, ils rendront la terre étroite à tes ennemis. »
 
@@ -65,6 +63,6 @@ Lorsque Houman vit les bras et les épaules de Sohrab, il en resta tout interdit
 
 Sohrab, qui ambitionnait la possession du monde, ayant lu la lettre, mit aussitôt l’armée en marche, fit battre les timbales, partit et remplit le monde du bruit de ses troupes.
 
-Aucun ennemi ne pouvait lui résister, eûtce été un lion courant sur lui, ou un crocodile.
+Aucun ennemi ne pouvait lui résister, eût-ce été un lion courant sur lui, ou un crocodile.
 
 Il conduisit son armée dans le pays d’Iran, brûlant tous les lieux habités et n’épargnant rien.
