@@ -31,7 +31,7 @@ Les grands de l’armée tous ensemble jetaient des cris, pleuraient et se lamen
 Rustem dit :
 
 > Hélas !
-ô mon enfant plein de bravoure, qui portais haut la tête, qui étais issu de la race des Pehlewans !
+> ô mon enfant plein de bravoure, qui portais haut la tête, qui étais issu de la race des Pehlewans !
 >
 > Ni le soleil et la lune, ni la cuirasse et le trône, ni la couronne et le casque ne verront plus un homme tel que toi.
 >
@@ -89,7 +89,7 @@ Einstein versa des larmes de sang, il creusa la terre avec ses ongles et déchir
 >
 > Comment adoucirai-je leurs cœurs par mes paroles ?
 >
-> Que diront les braves et les grands quand ils connaî-tront mon crime, quand ils sauront que j’ai arraché du jardin le cyprès élancé ? »
+> Que diront les braves et les grands quand ils connaîtront mon crime, quand ils sauront que j’ai arraché du jardin le cyprès élancé ? »
 
 Tous les Pehlewans du roi Kaous s’assirent avec Rustem dans la poussière de la route ; les lèvres des grands étaient prodigues de conseils, mais la douleur de Rustem s’y refusait.
 
