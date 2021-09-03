@@ -46,7 +46,7 @@ Il parla ainsi en frottant ses joues dans la poussière et le monde fut rempli d
 >
 > Le combat continua jusqu’à ce que le ciel et la terre furent obscurcis et qu’un grand nombre de Turcs furent captifs ; la nuit vint, revêtue de son voile couleur de musc, de sorte qu’on ne pouvait plus se battre ; les rois rappelèrent leurs armées du champ
 >
-> 7l de bataille, lorsque le ciel eut répandu ses ténèbres sur la face de la terre ; toute la plaine depuis le pied des montagnes jusqu’au bord du fleuve était couverte de cottes de mailles, de cuirasses et de casques ; on alluma partout des feux et des patrouilles parcoururent les environs des camps.
+> de bataille, lorsque le ciel eut répandu ses ténèbres sur la face de la terre ; toute la plaine depuis le pied des montagnes jusqu’au bord du fleuve était couverte de cottes de mailles, de cuirasses et de casques ; on alluma partout des feux et des patrouilles parcoururent les environs des camps.
 >
 > Afrasiab se préparait à un nouveau combat ; il voulait attendre que le soleil fût levé, eût éclairé les flancs des montagnes et rendu la terre brillante comme un rubis de Badakhschan.
 >
