@@ -44,7 +44,7 @@ Ils ne virent nulle part quelque chose de vivant, il n’yiavait que des arbres,
 
 Mais à ce moment parut une caravane de chameaux, précédée de son chef.
 
-Lorsque 7l ce jeune homme aperçut le visage de Khosrou, il répandit sur le roi des bénédictions.
+Lorsque ce jeune homme aperçut le visage de Khosrou, il répandit sur le roi des bénédictions.
 
 Khosrou lui dit :
 
