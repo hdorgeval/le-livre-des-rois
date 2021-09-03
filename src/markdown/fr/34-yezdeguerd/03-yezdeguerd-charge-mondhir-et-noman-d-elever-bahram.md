@@ -24,7 +24,7 @@ On couvrit Mondhir b d’une robe d’honneur, on fit venir à la porte du roi l
 
 Quand Mondhir arriva’dans le pays de Yémen, tous, hommes et femmes, allèrent à sa rencontre.
 
-Aussitôt qu’il fut arrivé dans sa demeure, il fit appeler beaucoup de cavaliers choisis ; il réunit les plus puissants et les plus influents parmi les Perses etles Arabes et parmi les hommes riches et choisit dans les familles de ces grands quatre femmes dont la naissance noble était connue, deux Arabes et deux Perses de la famille des Keïanides et qui étaient prêtes à servir de nourrices.
+Aussitôt qu’il fut arrivé dans sa demeure, il fit appeler beaucoup de cavaliers choisis ; il réunit les plus puissants et les plus influents parmi les Perses et les Arabes et parmi les hommes riches et choisit dans les familles de ces grands quatre femmes dont la naissance noble était connue, deux Arabes et deux Perses de la famille des Keïanides et qui étaient prêtes à servir de nourrices.
 
 Elles gardèrent l’enfant ainsi pendant quatre ans ; lorsqu’il eut assez vécu de lait et que ses membres se furent développés, elles le sevrèrent avec difficulté et l’élevèrent délicatement sur leurs genoux.
 
