@@ -54,7 +54,7 @@ Il s’adressa à Rustem le sourire sur les lèvres, tu aurais dit qu’il avait
 >
 > Jette cette massue et cette épée de la vengeance, jette tout cet appareil d’un combat impie.
 >
-> Asseyons-nous tous deux à terre et adou-cissons avec du vin nos regards courroucés.
+> Asseyons-nous tous deux à terre et adoucissons avec du vin nos regards courroucés.
 >
 > Faisons un traité en invoquant Dieu et repentons-nous dans notre cœur de cette inimitié.
 >
@@ -96,8 +96,7 @@ Ils se ruèrent l’un sur l’autre comme des lions pour lutter et le sang et l
 
 Ils mesurèrent leurs forces depuis le matin jusqu’à ce que le soleil prolongeât les ombres.
 
-Sohrab s’agitait comme un éléphant furieux, il sau-
-tait comme un lion qui bondit.
+Sohrab s’agitait comme un éléphant furieux, il sautait comme un lion qui bondit.
 
 Il saisit Rustem par la ceinture et tira, tu aurais dit qu’il lui déchirait le corps par l’excès de sa force ; Rustem jeta un cri de rage et de haine, tu aurais dit qu’il fendrait la terre.
 
@@ -149,7 +148,9 @@ Un roi a dit en pareil cas :
 
 > Ne méprise pas un ennemi, quelque faible qu’il soit. »
 
-Ces paroles jetèrent au désespoir Sohrab, qui en resta pensif et étonné.A lafin il dit à Houman :
+Ces paroles jetèrent au désespoir Sohrab, qui en resta pensif et étonné.
+
+À la fin il dit à Houman :
 
 > Oublie ces soucis, car il doit me combattre demain encore et tu le verras le joug sur le cou. »
 
@@ -177,9 +178,9 @@ Mais lorsqu’il se trouva dans le danger et que son cœur fut déchiré par la 
 
 Dieu la lui rendit comme il le demandait, il augmenta la vigueur de son corps autant qu’il l’avait diminuée.
 
-TRustem quitta le bassin d’eau et se rendit sur le champ de bataille, le cœur en souci, le visage blême.
+Rustem quitta le bassin d’eau et se rendit sur le champ de bataille, le cœur en souci, le visage blême.
 
-Sohrab s’était mis à courir comme un éléphant l’urieux, portant autour du bras son lacet et dans la main son arc ; il s’avançait fièrement, rugissant comme un lion et son cheval bondissait et déchirait le sol.
+Sohrab s’était mis à courir comme un éléphant furieux, portant autour du bras son lacet et dans la main son arc ; il s’avançait fièrement, rugissant comme un lion et son cheval bondissait et déchirait le sol.
 
 Lorsque Rustem le vit si fier, il resta étonné, il l’observa, fut affligé et confondu par son aspect et calcula les chances du combat.
 
