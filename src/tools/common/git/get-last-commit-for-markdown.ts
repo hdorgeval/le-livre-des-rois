@@ -13,9 +13,11 @@ export async function getLastCommitForUpdatedContentOf(
   const git: SimpleGit = simpleGit(options);
 
   const fileHistory = await git.log({ file: filepath });
-  const mostRecent = [...fileHistory.all].shift();
+  const mostRecent = fileHistory.all
+    .filter((history) => !history.message.includes('refacto'))
+    .shift();
   const oldest = [...fileHistory.all].pop();
-  const latest = fileHistory.latest;
+  const latest = fileHistory.latest?.message?.includes('refacto') ? null : fileHistory.latest;
 
-  return mostRecent || oldest || latest;
+  return mostRecent || latest || oldest || null;
 }
