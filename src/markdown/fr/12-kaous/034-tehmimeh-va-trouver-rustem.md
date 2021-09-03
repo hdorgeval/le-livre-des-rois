@@ -20,7 +20,7 @@ Quand une partie de la nuit se fut écoulée et pendant que l’étoile du matin
 
 Elle était suivie par une femme voilée au visage de lune, brillante comme le soleil, belle de couleur et de parfum.
 
-Ses deux sour-cils formaient un arc, les deux boucles de ses cheveux étaient des lacets, sa stature était celle du haut cyprès ; ses deux lèvres ressemblaient au rubis du Yémen, sa bouche était petite comme le cœur serré d’un amoureux, son esprit était plein d’intelligence, 6l son corps était par comme une âme pure ; tu aurais dit qu’il n’y avait en elle rien de terrestre.
+Ses deux sourcils formaient un arc, les deux boucles de ses cheveux étaient des lacets, sa stature était celle du haut cyprès ; ses deux lèvres ressemblaient au rubis du Yémen, sa bouche était petite comme le cœur serré d’un amoureux, son esprit était plein d’intelligence, 6l son corps était par comme une âme pure ; tu aurais dit qu’il n’y avait en elle rien de terrestre.
 
 Rustem le héros au cœur de lion demeura stupéfait et invoqua sur elle les grâces de Dieu.
 
@@ -73,17 +73,14 @@ N
 Sa Ensuite sa compagne fut laissée seule avec lui,’et
 .la nuit longue et sombre s’écoula ; et lorsque le soleil brillant commença de lancer de la haute voûte du ciel ses lacets de lumière, Rustem prit un onyx qu’il portait au bras et qui était célèbre dans le monde entier et le donna à Tehmimeh, en disant :
 
-> Garde ce joyau et si le ciel veut que tu mettes au monde une fille, prends cet onyx et attache-le aux boucles de ses cheveux sous une bonne étoile et sous d’heureux auspices ; mais si les astres t’accordent un fils, attache-le à son bras, comme l’a porté son père ; il égalera en stature Sam fils de Neriman ; par sa bravoure et sa bonté il ressemblera à Keriman ; il abattra dans les nues l’aigle ailé et le soleilne luira pas sur lui malignement. »
+> Garde ce joyau et si le ciel veut que tu mettes au monde une fille, prends cet onyx et attache-le aux boucles de ses cheveux sous une bonne étoile et sous d’heureux auspices ; mais si les astres t’accordent un fils, attache-le à son bras, comme l’a porté son père ; il égalera en stature Sam fils de Neriman ; par sa bravoure et sa bonté, il ressemblera à Keriman ; il abattra dans les nues l’aigle ailé et le soleil ne luira pas sur lui malignement. »
 
-Rustem passa ainsi la nuit avec la belle au visage de lune, tenant avec elle des discours sur toutes choses ; et lorsque
-.le soleil se leva brillant dans le ciel et commença d’embellir avec amour la terre, Rustem prit congé de Tehmimeh, la pressa contre son cœur et lui baisa plusieurs fois les yeux et le front.
+Rustem passa ainsi la nuit avec la belle au visage de lune, tenant avec elle des discours sur toutes choses ; et lorsque le soleil se leva brillant dans le ciel et commença d’embellir avec amour la terre, Rustem prit congé de Tehmimeh, la pressa contre son cœur et lui baisa plusieurs fois les yeux et le front.
 
 La belle au visage de Péri se sépara de lui en pleurant et demeura dans la douleur et la tristesse.
 
 Le glorieux roi alla trouver Rustem et lui demanda comment il avait dormi et s’était reposé ; après quoi il lui donna de bonnes nouvelles de Raksch et le distributeur des couronnes en fut réjoui dans son cœur.
 
-Il sortit, caressa son cheval et le sella, en rendant grâce à u. t 7
-
-Dieu, de qui vient tout bonheur ; puis il partit rapide comme le vent et se dirigea vers l’Iran, pensant toujours à cette aventure.
+Il sortit, caressa son cheval et le sella, en rendant grâce à Dieu, de qui vient tout bonheur ; puis il partit rapide comme le vent et se dirigea vers l’Iran, pensant toujours à cette aventure.
 
 De là il se rendit dans le Zaboulistan et ne raconta à personne ce qu’il avait vu et entendu.
