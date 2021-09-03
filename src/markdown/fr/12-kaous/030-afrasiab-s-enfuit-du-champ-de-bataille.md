@@ -32,11 +32,11 @@ Rustem détacha de la selle son lacet roulé et essaya de prendre dans le nœud 
 
 Il échappa au lacet de Rustem au corps d’éléphant, les joues inondées de sueur, la bouche desséchée par la terreur ; et tous ses cavaliers le suivirent en toute hâte, le cœur abattu et n’ayant que des armes brisées.
 
-Afrasiab courut comme la tempête et traversa promptement le fleuve ; il était blessé. au cœur et la moitié de son armée était détruite.
+Afrasiab courut comme la tempête et traversa promptement le fleuve ; il était blessé au cœur et la moitié de son armée était détruite.
 
 Il avait demandé au monde du miel et n’avait reçu que du poison.
 
-La moitié de ses cavaliers qui s’étaient préparés pour le combat ne revint plus dans ses tentes ; ils étaient morts ou blessés, ou étaient prisonniers entre les mains des ennemis.
+La moitié de ses cavaliers qui s’étaient préparés pour le combat ne revint plus dans ses tentes ; ils étaient morts ou blessés ou étaient prisonniers entre les mains des ennemis.
 
 Les trésors et les diadèmes, les couronnes et les ceintures, les épées et les cottes de mailles, les morions t3.
 
@@ -47,7 +47,7 @@ Ils retournèrent à l’endroit où ils
 
 Puis ils écrivirent au roi Kaous une lettre sur le combat et sur les réserves de chasse, où ils lui marquaient qu’aucun des braves n’avait été tué et que seulement Zewareh était tombé de cheval.
 
-Le Pehlewan passa encore joyeusement deux semaines dans cette plaine fortunée ; à la troisième semaine ils se dirigèrent tous vers le roi et se présentèrent devant son glorieux diadème.
+Le Pehlewan passa encore joyeusement deux semaines dans cette plaine fortunée ; à la troisième semaine, ils se dirigèrent tous vers le roi et se présentèrent devant son glorieux diadème.
 
 Telle est la manière d’agir de ce monde passager : il distribue à l’un la santé, à l’autre les peines ; puis il passe au-dessus de l’un et de l’autre.
 
