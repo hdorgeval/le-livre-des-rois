@@ -69,7 +69,7 @@ Lorsqu’il eut amené ses troupes auprès de Kobad, on lui donna à l’instant
 > Sonferaï s’est emparé de tout le pouvoir et je n’ai quele titre de roi des rois ; mais à la fin je me révolte contre ce poids qui pèse sur mon cou, qu’il soit juste ou injuste.
 >
 > Si mon frère était resté roi de l’Iran, cela aurait
-> , mieux valu que l’oppression de-Souferaï. »
+>, mieux valu que l’oppression de-Souferaï. »
 
 Schapour lui répondit :
 
