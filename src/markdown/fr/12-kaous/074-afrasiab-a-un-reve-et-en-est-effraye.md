@@ -58,7 +58,7 @@ Le glorieux Afrasiab répondit :
 >
 > Un Pehlewan renommé et plein de fierté me mena en courant devant Kaous ; je vis un trône semblable à la lune brillante, sur lequel se tenait le roi Kaous et auprès de lui était assis un jeune homme dont les joues ressemblaient à la lune.
 >
-> Il n’avait pas plus de deux fois sept ans et quand il me vit enchaîné devant lui, il s’élance comme un lion furieux pour me couper en deux avec son épée.
+> Il n’avait pas plus de deux fois sept ans et quand il me vit enchaîné devant lui, il s’élança comme un lion furieux pour me couper en deux avec son épée.
 >
 > Je poussais dans ma peur de longs cris et les cris et la peur m’ont réveillé. »
 
