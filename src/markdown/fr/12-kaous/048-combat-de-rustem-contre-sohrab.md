@@ -26,8 +26,7 @@ Leurs épées se brisèrent sous leurs coups, quels coups !
 
 On eût dit qu’ils amer naient la résurrection.
 
-Ensuite ils saisirent leurs lourdes massues et les bras des braves se fatigué. rent, les massues se courbèrent par la force des coups, les chevaux chancelèrent, les héros tremblè-
-rent.
+Ensuite ils saisirent leurs lourdes massues et les bras des braves se fatigué. rent, les massues se courbèrent par la force des coups, les chevaux chancelèrent, les héros tremblèrent.
 
 Les armures des chevaux tombaient, les cottes de mailles se détachaient en pièces du corps des héros.
 
@@ -41,7 +40,7 @@ Que les œuvres sont étonnantes ; ce qui est brisé est ton ouvrage et ce qui e
 
 L’amour ne se manifestait dans aucun de ces hommes ; ils étaient privés de sens et la tendresse ne parlait pas.
 
-Les animaux connaissent leurs petits, que ce soit ll8 LE LlVllE le poisson de la mer ou l’onagre du désert ; mais l’homme, dans son trouble et sa passion, ne distingue pas son ennemi de son fils.
+Les animaux connaissent leurs petits, que ce soit ll8 le poisson de la mer ou l’onagre du désert ; mais l’homme, dans son trouble et sa passion, ne distingue pas son ennemi de son fils.
 
 Rustem dit en son cœur :
 
