@@ -40,7 +40,7 @@ Houman lui répondit :
 
 > Ton ordre était que l’armée ne s’avançât pas.
 >
-> Nous étions encore mal préa parés et ne faisions que d’arriver sur le champ de bataille, lorsqu’un homme s’est présenté, plein d’ardeur guerrière, se dirigeant vers cette armée nombreuse ; tu aurais dit qu’il venait de sortir ivre d’un banquet pour commencer tout seul une telle attaque.
+> Nous étions encore mal préparés et ne faisions que d’arriver sur le champ de bataille, lorsqu’un homme s’est présenté, plein d’ardeur guerrière, se dirigeant vers cette armée nombreuse ; tu aurais dit qu’il venait de sortir ivre d’un banquet pour commencer tout seul une telle attaque.
 >
 > Il a fait voler de tous côtés la poussière du combat et a tué un grand nombre des nôtres ; ensuite il s’est tourné vers les siens et est parti au galop. »
 
@@ -98,9 +98,7 @@ Rustem lui parla de Sohrab et lui raconta combien il était fort et haut de stat
 >
 > Nous avons essayé longtemps l’un contre l’autre toutes les armes, l’épée et les flèches, la massue et le lacet.
 >
-> À la fin je me suis rappelé combien de braves j’avais autrefois enlevés de selle, j’ai saisi les courroies de sa ceinture, j’en ai serré fortement le nœud, j’ai voulu le soulever de selle et le jeter par terre comme j’ai souvent fait à d’autres ; mais quand le vent ébranlera les mon-
->
-> I2lt tagnes, alors j’ébranlerai ce brave dans sa selle.
+> À la fin je me suis rappelé combien de braves j’avais autrefois enlevés de selle, j’ai saisi les courroies de sa ceinture, j’en ai serré fortement le nœud, j’ai voulu le soulever de selle et le jeter par terre comme j’ai souvent fait à d’autres ; mais quand le vent ébranlera les montagnes, alors j’ébranlerai ce brave dans sa selle.
 >
 > Quand il s’est fait tard, je l’ai quitté ; car la nuit était obscure et la lune ne luisait pas.
 >
