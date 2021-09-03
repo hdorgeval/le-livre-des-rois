@@ -44,7 +44,7 @@ Il renversa les Turcs dans la poussière avec son épée et ses étriers, avec s
 
 Ces braves eurent peur de sa massue et tous lui tournèrent le dos ; il était comme un lion qui se jette au milieu d’un troupeau et cette grande armée et tous ces guerriers s’enfuirent devant lui ; ensuite il s’en retourna victorieux et repassa le fleuve : tu aurais dit qu’il n’avait pas vu d’ennemi, même en songe.
 
-Mo LE LlVllE Il revint en toute hâte auprès de Piran, à qui il voulait trancher la tête.
+Mo Il revint en toute hâte auprès de Piran, à qui il voulait trancher la tête.
 
 Il le fit marcher ignominieusement à pied derrière lui et força à courir ce vieillard, que la peur avait presque privé de la raison.
 
