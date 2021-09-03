@@ -22,7 +22,7 @@ Lorsque la face de la lune fut devenue brillante comme le soleil, l’éloquent 
 >
 > Lorsque la poussière de votre armée s’est élevée dans la plaine et que Khosrou vous a vus, il est parti en toute hâte vers le Roum avec son escorte et aujourd’hui, si tu volais comme l’aigle, si tu levais la tête plus haut que le soleil, tu ne verrais le roi que dans le Roum, car il y a long. temps qu’il a atteint ce pays.
 >
-> Maintenant, si vous m’accordez la vie sauve, je me rendrai auprès du vaillant Pehlewan et lui dirai tout ce qu’il voudra savoir de cette cour, les petites choses etles grandes, sinon je revêtirai mon armure de guerre et ferai voler jusqu’au soleil la poussière du combat. »
+> Maintenant, si vous m’accordez la vie sauve, je me rendrai auprès du vaillant Pehlewan et lui dirai tout ce qu’il voudra savoir de cette cour, les petites choses et les grandes, sinon je revêtirai mon armure de guerre et ferai voler jusqu’au soleil la poussière du combat. »
 
 À ces paroles, le cœur du jeune Sipehbed devint vieux de chagrin.
 
