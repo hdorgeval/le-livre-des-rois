@@ -30,7 +30,7 @@ L’armée avançait de station en station ; le monde devint obscur comme la nui
 
 Cette masse de lances et de drapeaux aux couleurs variées, de boucliers d’or et de bottines d’or, était telle que tu aurais dit qu’un nuage noir répandait une pluie de sandaraque.
 
-Le monde ne distinguait plus la nuit du jour ; tu aurais dit que le firmament etles Pléiades avaient disparu.
+Le monde ne distinguait plus la nuit du jour ; tu aurais dit que le firmament et les Pléiades avaient disparu.
 
 C’est ainsi que l’armée s’avança jusqu’à ce qu’elle fût devant le château, couvrant les rochers et les terres.
 
