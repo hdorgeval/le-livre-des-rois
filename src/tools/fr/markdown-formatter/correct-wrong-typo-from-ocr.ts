@@ -1680,6 +1680,14 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ l’écoute, /g, ' l’écouta, '),
     (content: string) => content.replace(/ A3 /g, ' '),
     (content: string) => content.replace(/l’afi’aire /g, 'l’affaire '),
+    (content: string) => content.replace(/ il s’élance comme /g, ' il s’élança comme '),
+    (content: string) => content.replace(/ 7l /g, ' '),
+    (content: string) => content.replace(/ Gnrdaferid /g, ' Gurdaferid '),
+    (content: string) => content.replace(/ Guadehem /g, ' Guzdehem '),
+    (content: string) => content.replace(/ indignitém /g, ' indignité. » '),
+    (content: string) => content.replace(/ etles /g, ' et les '),
+    (content: string) => content.replace(/Zendeh Bezm /g, 'Zendeh Rezm '),
+    (content: string) => content.replace(/ lerreur /g, ' terreur '),
   ].forEach((format) => {
     result = format(result);
   });
