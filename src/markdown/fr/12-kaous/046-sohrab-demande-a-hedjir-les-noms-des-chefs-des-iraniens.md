@@ -83,9 +83,7 @@ Hedjir répondit :
 
 > C’est l’ornement de la noblesse, le Sipehdar Gouderz fils de Keschwad, le destructeur des armées, le brave des champs de bataille.
 >
-> Il a deux fois quarante fils semblables à
->
-> des éléphants et à des lions.
+> Il a deux fois quarante fils semblables à des éléphants et à des lions.
 >
 > Ni le crocodile courageux, ni le tigre du désert, ni le léopard de la montagne n’osent lutter avec lui. »
 
@@ -126,7 +124,7 @@ Mais il était écrit au-dessus de lui qu’il en serait autrement, par ordre de
 Ensuite Sohrab lui demanda :
 
 > Qui d’entre les grands a formé cette enceinte immense qui est remplie de cavaliers nombreux et d’éléphants et d’où
-part le son des clairons ?
+> part le son des clairons ?
 >
 > Au devant de l’enceinte est planté un drapeau avec une tête de loup et sa pointe dorée s’élève jusqu’aux nues.
 >
@@ -142,9 +140,7 @@ Hedjir répondit :
 
 Sohrab lui dit :
 
-> Je vois du côté où le soleil brillant se lève une enceinte blanche de brocart de Roum, devant laquelle sont rangés plus de mille cavaliers et des fantassins armés de boucliers et de javelots, for-
->
-> mant une armée innombrable.
+> Je vois du côté où le soleil brillant se lève une enceinte blanche de brocart de Roum, devant laquelle sont rangés plus de mille cavaliers et des fantassins armés de boucliers et de javelots, formant une armée innombrable.
 >
 > Leur chef est assis sur un trône dont les degrés sont d’ivoire et le siège de bois de tek.
 >
@@ -256,9 +252,7 @@ Le Mobed a dit :
 >
 > Quand même il me tuerait, les eaux des rivières n’en deviendraient pas troubles.
 >
-> Le vieux Gouderz a, sans me compter, soixante et seize fils au cœur de lion, comme Guiv le maître du monde, le destructeur des armées, qui est partout le premier d’entre le peuple, comme Bahram et Rehham qui portent haut la tête, comme Schidousch le Il
->
-> brave, le vainqueur des lions ; ils me chériront après ma mort et arracheront la vie à mes ennemis pour me venger.
+> Le vieux Gouderz a, sans me compter, soixante et seize fils au cœur de lion, comme Guiv le maître du monde, le destructeur des armées, qui est partout le premier d’entre le peuple, comme Bahram et Rehham qui portent haut la tête, comme Schidousch le brave, le vainqueur des lions ; ils me chériront après ma mort et arracheront la vie à mes ennemis pour me venger.
 >
 > Puisqu’il reste encore au pays d’Iran Gouderz et ses soixante et dix fils illustres, je peux lui manquer.
 >
@@ -268,7 +262,7 @@ Il dit donc à Sohrab :
 
 > Pourquoi te mets-tu en colère et pourquoi ne me parles-tu que de Rustem ?
 >
-> Pourquoi me fais-tu cette querelleen m’adressant une demande insensée ?
+> Pourquoi me fais-tu cette querelle en m’adressant une demande insensée ?
 >
 > Tu veux me couper la tête parce que je ne sais pas où est Rustem, mais tu n’as pas besoin d’un prétexte pour répandre mon sang ; pourquoi as-tu recours à la dissimulation ?
 >
