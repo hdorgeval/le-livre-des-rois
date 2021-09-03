@@ -16,7 +16,7 @@ order: '047'
 
 # Sohrab attaque l'armée de Kaous
 
-Lorsque Sohrab entendit ces paroles dures, il détourna la tête et cacha son front sans rien dire et étonné de ce discours mystérieux ; ensuite du haut de son cheval il frappa Hedjir violemment avec le poing, le jeta par terre et retourna dans sa demeure.
+Lorsque Sohrab entendit ces paroles dures, il détourna la tête et cacha son front sans rien dire et étonné de ce discours mystérieux ; ensuite du haut de son cheval, il frappa Hedjir violemment avec le poing, le jeta par terre et retourna dans sa demeure.
 
 Il y réfléchit longtemps et fit des préparatifs de guerre de toute espèce.
 
@@ -44,9 +44,7 @@ Là-dessus Sohrab poussa des cris et défia le roi Kaous en disant :
 >
 > Si je fais vibrer cette lance dans ma main, j’auéantis toute ton armée.
 >
-> J’ai fait un grand serment dans un banquet, la nuit où Zendeh Rez»
-
-Il. llà fut tué : j’ai juré de ne laisser dans l’Iran aucun homme armé d’une lance et de pendre le. roi Kaous vivant au gibet.
+> J’ai fait un grand serment dans un banquet, la nuit où Zendeh Rezm fut tué : j’ai juré de ne laisser dans l’Iran aucun homme armé d’une lance et de pendre le. roi Kaous vivant au gibet.
 >
 > Qui astu, parmi les Iraniens, assez prompt de la main pour venir à ma rencontre sur ce champ de bataille ? »
 
@@ -77,7 +75,7 @@ Vitel»
 
 Rustem entendant ces voix de sa tente, dit en lui-même :
 
-> C’est donc ici un combat contre un Ahriman, car toute cette lerreur ne peut avoir été produite par un homme ! »
+> C’est donc ici un combat contre un Ahriman, car toute cette terreur ne peut avoir été produite par un homme ! »
 
 Il se hâta de mettre sa cuirasse de peau de léopard, se ceignit de sa ceinture royale, monta sur Raksch et partit.
 
@@ -121,7 +119,7 @@ Pendant que Rustem parlait ainsi, le cœur de Sohrab s’élançait vers lui ; i
 
 > Je vais te faire une question et il faut que tu me répondes selon la vérité.
 >
-> Dis-moi franchement quelle estta naissance et réjouis mon cœur par de bonnes paroles.
+> Dis-moi franchement quelle est ta naissance et réjouis mon cœur par de bonnes paroles.
 >
 > Je crois que tu es Rustem, que tu es de la race de l’illustre Neriman. »
 
