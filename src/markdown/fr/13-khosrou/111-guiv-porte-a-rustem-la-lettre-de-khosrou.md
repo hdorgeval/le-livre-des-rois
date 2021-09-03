@@ -20,7 +20,7 @@ Khosrou apposa son sceau sur la lettre ; Guiv la prit, salua le roi, se rendit d
 
 Il. fit monter à cheval tous les cavaliers de sa maison, se recommanda à Dieu en prononçant son nom et s’avança dans le désert et sur la route du Hirmend.
 
-Il marcha rapidement comme un messager, il s’élance comme une bête fauve que l’on chasse et fit chaque jour deux journées de marche.
+Il marcha rapidement comme un messager, il s’élança comme une bête fauve que l’on chasse et fit chaque jour deux journées de marche.
 
 Il courut comme un homme dont le cœur est blessé et qui dévore le chemin ; et c’est ainsi quelliu’ et son cortège arrivèrent près de Gourabeh.
 
