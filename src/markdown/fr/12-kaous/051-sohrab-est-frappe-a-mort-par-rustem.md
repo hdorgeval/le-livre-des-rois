@@ -20,7 +20,7 @@ Ils attachèrent encore une fois leurs chevaux et leur malheur commença de s’
 
 Quand la mauvaise fortune montre sa malignité, alors la roche dure devient molle comme la cire.
 
-Ils se mirentà lutter de nouveau et ils se saisirent l’un l’autre par les courroies de leur ceinture.
+Ils se mirent à lutter de nouveau et ils se saisirent l’un l’autre par les courroies de leur ceinture.
 
 Tu aurais dit que le ciel sublime avait anéanti en ce jour la force de la main du noble Sohrab.
 
@@ -37,14 +37,14 @@ Il dit à Rustem :
 > Cela m’arrive panna propre faute ; et le sort a mis dans ta main la clef de la porte de ma mort.
 >
 > Tu es innocent de cela ; c’est le ciel voûté qui m’a élevé et qui m’abat prématuré--
-ment ; Ma jeunesse sera pour le peuple un sujet de moquerie, puisque ma haute stature est ainsi jetée dans la poussière.
+> ment ; Ma jeunesse sera pour le peuple un sujet de moquerie, puisque ma haute stature est ainsi jetée dans la poussière.
 >
 > Ma mère m’a dit à quelles marques je reconnaîtrais mon père et ma tendresse pour lui m’a conduit à la mort.
 >
 > Je l’ai cherché pour voir son visage, j’ai sacrifié ma vie à ce désir.
 >
 > Hélas !
-ma peine a été inutile, je n’ai pu voir les traits de mon père.
+> ma peine a été inutile, je n’ai pu voir les traits de mon père.
 >
 > Maintenant, dusses-tu devenir un poisrrson dans la mer, te cacher dans les ténèbres comme la nuit, te réfugier dans le ciel comme une étoile, arracher du monde le soleil brillant, mon père ti-œra vengeance de toi, quand il verra qu’une brique est devenue ma (touche.
 >
@@ -134,7 +134,7 @@ Il faudrait alors, en masse, frapper un grand coup et ne jamais plus reparaître
 > croyais pas mes yeux.
 >
 > Mon sort était écrit au-des-
-sus de ma tête et je devais mourir de la main de mon père.
+> sus de ma tête et je devais mourir de la main de mon père.
 >
 > Je suis venu comme la foudre, je m’en vais comme le vent ; peut-être que je te retrouverai heureux dans le ciel. »
 
@@ -174,7 +174,7 @@ Puis, il envoya à Houman ce message :
 > Tu es maintenant le chef de cette armée, aie soin de sa sûreté et ne t’endors pas.
 >
 > Quant à moi, je ne veux pas te combattre, mais dorénavant je ne veux plus te parler ; car tu as caché à Sohrab la vérité, parce que
-’ tu as une mauvaise nature ; tu as brûlé avec du feu mon âme et mes yeux. »
+> tu as une mauvaise nature ; tu as brûlé avec du feu mon âme et mes yeux. »
 
 Le Pehlewan dit alors à son frère :
 
@@ -196,7 +196,7 @@ Zewareh retourna auprès de Rustem et lui parla de Houman, de son armée et de c
 
 Rustem devint furieux à ces paroles, le monde s’obscurcit devant ses yeux ; il courut du champ de bataille auprès de Hedjir, le saisit par la poitrine, le jeta par terre, tira un poignard brillant et voulut lui trancher la tête.
 
-Les grands descendirent de cheval pour demander sa grâce et arrachèrent Iledjir des portes de la mort.
+Les grands descendirent de cheval pour demander sa grâce et arrachèrent Hedjir des portes de la mort.
 
 Quelque temps s’étant passé ainsi, Rustem se rendit auprès de son fils, l’âme déchirée;tous les grands, comme Thous, Gouderz et Kustehem, l’accompagnèrent ; tous les braves élevèrent la voix en priant Dieu pour le noble Rustem, le priant de guérir cette douleur, de l’aider à supporter cette angoisse.
 
@@ -210,7 +210,7 @@ Bus,-tem saisit un poignard pour séparer de son corps sa vile tête ; les grand
 >
 > Nous sommes tous la proie de la mort, que notre tête soit ornée d’un diadème ou couverte d’un casque.
 >
-> Quand le temps est venu, il faut mourir ; et ce qui se’ra après la vie, nous ne le savons no pas.
+> Quand le temps est venu, il faut mourir ; et ce qui sera après la vie, nous ne le savons no pas.
 >
 > Qui donc, ô Sipehdar, est exempt du souci de la mort ?
 >
