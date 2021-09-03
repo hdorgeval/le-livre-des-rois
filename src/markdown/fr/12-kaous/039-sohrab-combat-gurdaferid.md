@@ -22,7 +22,7 @@ C’était une femme qui ressemblait à un brave cavalier ; elle avait toujours 
 
 Le sort de Hedjir l’humilia tellement que les tulipes de ses joues devinrent noires comme de la suie.
 
-Sans 7l ; hésiter un instant elle se couvrit d’une armure de guerrier, cacha les tresses de ses cheveux sous sa cotte de mailles et ferma les boutons de son casque de Roum.
+Sans ; hésiter un instant elle se couvrit d’une armure de guerrier, cacha les tresses de ses cheveux sous sa cotte de mailles et ferma les boutons de son casque de Roum.
 
 Elle descendit du château semblable à une lionne, ceinte au milieu du corps et montée sur un cheval aux pieds de vent.
 
@@ -50,7 +50,7 @@ Elle tourna la pointe de sa lance vers Sohrab et secoua violemment les rênes de
 
 Sohrab s’étonna et devint furieux comme un léopard, quand il vit que son ennemi usait de ruse dans le combat.
 
-Il saisit les rênes et lança son cheval ; il arriva sur elle, semblable à Aderguschasp, tenant dans sa main la lance qui ôte la vie;et reculant le bras jusqu’à ce que la pointe se trouvât en arrière de son corps, il frappa Gnrdaferid à la ceinture et déchirant entièrement sur son corps sa cotte de mailles, il la souleva de selle comme une balle qu’atteint la raquette.
+Il saisit les rênes et lança son cheval ; il arriva sur elle, semblable à Aderguschasp, tenant dans sa main la lance qui ôte la vie;et reculant le bras jusqu’à ce que la pointe se trouvât en arrière de son corps, il frappa Gurdaferid à la ceinture et déchirant entièrement sur son corps sa cotte de mailles, il la souleva de selle comme une balle qu’atteint la raquette.
 
 Gnrdaferid se tordit au-dessus de la selle et tirant de sa ceinture une épée tranchante, elle en frappa la lance et la coupa en deux, puis elle se remit en selle et fit lever la poussière sous les pieds de son cheval.
 
@@ -58,7 +58,7 @@ Ce combat contre Sohrab ne lui plaisait pas, elle se détourna de lui et s’enf
 
 Mais le Sipehbed abandonna les rênes à son cheval, sa colère obscurcit le monde ; il la gagna de vitesse en poussant des cris, il la secoua et lui arracha le casque de la tête.
 
-Les cheveux de Gnrdaferid n’étaient plus retenus par la cotte de mailles, son visage brillait comme le soleil et Sohrab reconnut que c’était une fille dont la chevelure valait un diadème.
+Les cheveux de Gurdaferid n’étaient plus retenus par la cotte de mailles, son visage brillait comme le soleil et Sohrab reconnut que c’était une fille dont la chevelure valait un diadème.
 
 Il en fut étonné et se dit :
 
@@ -67,7 +67,7 @@ Il en fut étonné et se dit :
 >
 > combat faire voler la poussière jusqu’au-dessus du ciel qui tourne. »
 
-Il .détacha du pommeau de la selle son lacet roulé, le lança et prit Gurdaferid au milieu du corps.
+Il détacha du pommeau de la selle son lacet roulé, le lança et prit Gurdaferid au milieu du corps.
 
 Il lui dit :
 
@@ -75,7 +75,7 @@ Il lui dit :
 >
 > Jamais semblable proie n’est tombée dans mes filets et tu ne m’échapperas pas de force. »
 
-Alors Gnrdaferid lui montra son visage découvert, car elle ne vit plus d’autre moyen de salut ; elle lui montra son visage et lui dit :
+Alors Gurdaferid lui montra son visage découvert, car elle ne vit plus d’autre moyen de salut ; elle lui montra son visage et lui dit :
 
 > Ô brave qui ressembles au lion parmi les braves !
 >
@@ -105,21 +105,21 @@ Sohrab lui dit :
 >
 > Ne mets pas l’espoir de ton cœur dans les murs de ce château, car ils ne sont pas plus hauts que la voûte du ciel ; les coups de ma massue les feraient écrouler ; ma lance et mes bras renverseraient ces bastions. »
 
-Gurdaferid saisit les rênes et conduisit son cheval à la tête haute vers la forteresse ; elle se mit en route accompagnée par Sohrab et Guadehem de son côté se dirigea vers la porte du château.
+Gurdaferid saisit les rênes et conduisit son cheval à la tête haute vers la forteresse ; elle se mit en route accompagnée par Sohrab et Guzdehem de son côté se dirigea vers la porte du château.
 
 On l’ouvrit et Gurdaferid se traîna jusque dans le château, blessée et enchaînée.
 
-On referma la porte et Gnrdaferid trouva les siens dans la douleur, le cœur en souci, les yeux en larmes ; car le danger de Gnrdaferid et le sort de Hedjir avaient attristé les jeunes et les vieux.
+On referma la porte et Gurdaferid trouva les siens dans la douleur, le cœur en souci, les yeux en larmes ; car le danger de Gurdaferid et le sort de Hedjir avaient attristé les jeunes et les vieux.
 
-Gazdehem s’approcha de sa fille, entouré des grands et des guerriers et lui dit :
+Guzdehem s’approcha de sa fille, entouré des grands et des guerriers et lui dit :
 
 > Ô ma courageuse fille, ô lionne !
 >
 > Nos cœurs étaient pleins d’anxiété à cause de toi ; tu t’es jetée dans le combat, dans les ruses et dans les stratagèmes ; mais notre famille n’a pas à rougir de ta conduite.
 >
-> Grâces soient rendues au maître du ciel sublime, dece que ton ennemi ne t’a pas privée de la vie ! »
+> Grâces soient rendues au maître du ciel sublime, de ce que ton ennemi ne t’a pas privée de la vie ! »
 
-Gnrdaferid rit beaucoup, puis elle monta sur le rempart et regarda l’armée des Iraniens ; elle aperçut Sohrab assis sur son cheval et lui cria :
+Gurdaferid rit beaucoup, puis elle monta sur le rempart et regarda l’armée des Iraniens ; elle aperçut Sohrab assis sur son cheval et lui cria :
 
 > Ô maître des Turcs et de la Chine !
 >
@@ -139,13 +139,15 @@ Sohrab lui répondit :
 >
 > Qu’est devenu le traité que tu as fait avec moi ? »
 
-Gnrdaferid l’écouta en souriant et lui dit en se jouant de lui :
+Gurdaferid l’écouta en souriant et lui dit en se jouant de lui :
 
 > Les Turcs ne trouveront pas de femmes dans l’Iran.
 >
 > Il est vrai que tu n’as pas eu de bonheur avec moi, mais ne t’afflige pas de cette mésaventure, d’autant que tu n’es pas un Turc ; tu es du nombre des héros illustres et avec cette force, ces bras, ces épaules et cette stature, tu ne trouveras jamais ton égal parmi les Pehlewans.
 >
-> Mais quand le roi aura appris qu’un brave a amené une armée de Turcs, Rustem et lui se mettront en marche et vous ne pourrez tenir devant Tehemten-Pas un homme de ton armée ne restera en vie et je ne sais quel malheur l’arrivera.
+> Mais quand le roi aura appris qu’un brave a amené une armée de Turcs, Rustem et lui se mettront en marche et vous ne pourrez tenir devant Tehemten.
+>
+> Pas un homme de ton armée ne restera en vie et je ne sais quel malheur l’arrivera.
 >
 > Hélas !
 >
@@ -153,7 +155,7 @@ Gnrdaferid l’écouta en souriant et lui dit en se jouant de lui :
 >
 > de tels bras et une telle poitrine servent de pâture aux tigres !
 >
-> Ne te fie pas trop à la force de tes bras, ncar la vache stupide mangera l’herbe qui croîtra sur ton corps.
+> Ne te fie pas trop à la force de tes bras, car la vache stupide mangera l’herbe qui croîtra sur ton corps.
 >
 > Tu ferais mieux de suivre mon conseil et de t’en retourner dans le Touran. »
 
