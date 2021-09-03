@@ -8,7 +8,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-async function autoCommitNewEpisodes() {
+export async function autoCommitNewFrenchEpisodes(): Promise<void> {
   const git: SimpleGit = simpleGit(options);
 
   const status = await git.status();
@@ -30,5 +30,3 @@ async function autoCommitNewEpisodes() {
     }
   }
 }
-
-autoCommitNewEpisodes().then();

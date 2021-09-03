@@ -1,5 +1,7 @@
+export * from './auto-commit-new-episodes.fr';
 export * from './auto-commit-new-geo-data';
 export * from './auto-commit-new-tags.fr';
+export * from './auto-commit-updated-episodes.fr';
 export * from './auto-commit-updated-frontmatter-helpers.fr';
 export * from './auto-commit-updated-geneaology.fr';
 export * from './auto-commit-updated-geo-data-helpers';

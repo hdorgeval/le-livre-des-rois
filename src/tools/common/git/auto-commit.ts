@@ -19,9 +19,13 @@ import {
   autoCommitUpdatedFrenchMarkdownTags,
   autoCommitUpdatedFrenchTagsTools,
   autoCommitUpdatedFrenchStats,
+  autoCommitNewFrenchEpisodes,
+  autoCommitUpdatedFrenchEpisodes,
 } from '.';
 
 async function autoCommit() {
+  await autoCommitNewFrenchEpisodes().then();
+  await autoCommitUpdatedFrenchEpisodes().then();
   await autoCommitUpdatedFrenchMarkdownFormatter().then();
   await autoCommitUpdatedLatexFiles().then();
   await autoCommitAddedLatexDictionaryFiles().then();
