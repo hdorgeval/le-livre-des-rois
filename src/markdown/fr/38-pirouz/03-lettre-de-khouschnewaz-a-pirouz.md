@@ -26,7 +26,7 @@ Il invoqua d’abord les grâces du Distributeur de la justice sur le roi de la 
 >
 > Mais puisque tu violes le traité qui liait les Perses, que tu jettes dans la poussière la marque de la frontière établie par les grands, moi aussi je dois le rompre, et, contre mon gré, porter ma main à l’épée. »
 
-Il expliqua toute l’afi’aire dans la lettre et l’envoya accompagnée de beaucoup de présents ; un cavalier éloquent et portant haut la tête partit avec la lettre de Khouschnewaz.
+Il expliqua toute l’affaire dans la lettre et l’envoya accompagnée de beaucoup de présents ; un cavalier éloquent et portant haut la tête partit avec la lettre de Khouschnewaz.
 
 Pirouz lut la lettre et se mit en colère contre ce roi illustre ; il dit au messager :
 
