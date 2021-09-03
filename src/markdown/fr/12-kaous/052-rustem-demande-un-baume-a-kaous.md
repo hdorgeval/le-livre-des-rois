@@ -26,7 +26,7 @@ Porte un message de moi à Kaous ; raconte-lui quel malheur m’a frappé et dis
 >
 > Si tu as souvenance de ce que j’ai fait pour toi, montre une seule fois un cœur compatissant à ma détresse.
 >
-> Envoie-moi de ce baume qui se trouve dans ton trésor et qui guérit les blessés, envoie-lemoi en toute hâte avec une coupe de vin.
+> Envoie-moi de ce baume qui se trouve dans ton trésor et qui guérit les blessés, envoie-le-moi en toute hâte avec une coupe de vin.
 >
 > Il se peut que Sohrab guérisse par ta grâce et qu’il devienne, comme moi, un des esclaves qui se tiennent devant ton trône. »
 
