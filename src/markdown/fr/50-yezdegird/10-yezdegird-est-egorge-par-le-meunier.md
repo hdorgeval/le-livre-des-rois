@@ -8,7 +8,28 @@ source: tome VII - livre des rois - P. 392
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: 'Yezdegird est égorgé par le meunier | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Ardeschir',
+    'Créateur',
+    'cyprès',
+    'Dieu',
+    'Dihkan',
+    'Iran',
+    'Khourdad-mah',
+    'lapis-lazuli',
+    'Mahouï',
+    'Merve',
+    'Monarque',
+    'musc',
+    'Nouschirwan',
+    'rejeton',
+    'Roi',
+    'Sasanides',
+    'Yezdegird',
+    'Zark',
+  ]
 order: '010'
 ---
 
@@ -47,7 +68,7 @@ Les cavaliers du funeste Mahouï, voyant que le roi gisait comme un arbre superb
 
 Laissant le corps du roi d’Iran étendu dans la poussière, souillé de sang et le flanc déchiré par le glaive, ils s’éloignèrent en proférant cette malédiction : Puisse le cadavre de Mahouï rester ainsi baignant dans son sang sur la face de la terre ! »
 
-Informé que le trône, la guerre et les désirs de la oie n’étaient plus rien pour le noble monarque, Mahaut ordonna qu’à l’heure où tout repose on le précipitât du moulin dans la rivière.
+Informé que le trône, la guerre et les désirs de la oie n’étaient plus rien pour le noble monarque, Mahouï ordonna qu’à l’heure où tout repose on le précipitât du moulin dans la rivière.
 
 Deux serviteurs au cœur cruel traînèrent le corps du mi dans le sang et, sans connaître le rang de la victime, la jetèrent dans le tournant du Zark, ou le cadavre du roi flotta tantôt droit, tantôt renversé.
 
