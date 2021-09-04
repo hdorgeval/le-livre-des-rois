@@ -22,7 +22,7 @@ Il fit appeler un scribe qui portait haut la tête, lui parla longuement et conv
 
 Il commença ainsi les lettres : Je demande toujours en secret au Créateur du monde la grâce que vous vous réveilliez tous de votre sommeil, que vous ne vous précipitiez pas ainsi dans le mal.
 
-Depuis que la race des Sâsânides a paru, elle n’a fait naître dans le centre et dans les confins de la terre que la perversité,’elle n’a recherché dans le monde que la domination, a commencer par Asdeschir, fils de Babek, qui a réveillé les combats parmi les hommes ; toute l’époque a été assombrie par son épée, toutes les têtes des grands ont été troublées.
+Depuis que la race des Sasanides a paru, elle n’a fait naître dans le centre et dans les confins de la terre que la perversité,’elle n’a recherché dans le monde que la domination, a commencer par Asdeschir, fils de Babek, qui a réveillé les combats parmi les hommes ; toute l’époque a été assombrie par son épée, toutes les têtes des grands ont été troublées.
 
 Je parlerai d’abord d’Ardewan et de ces hommes illustres, à l’esprit brillant, dont le nom a disparu du monde et dont la perte remplit encore de deuil le trône de la royauté.
 
@@ -32,7 +32,7 @@ Kobad, le méchant, retrouva son pouvoir, re-jeta de son cœur toute vertu, se l
 
 Le cœur des grands fut blessé par lui ; mais un homme qui ne sait pas agir honorablement envers sa famille, qui préfère ses passions à ses enfants, ne peut pas agir honorablement envers des étrangers et personne ne cherchera de l’ivoire dans un tronc d’ébène.
 
-Ne mettez pas votre espoir dans les Sâsânides, ne cherchez pas des rubis sur le saule rouge.
+Ne mettez pas votre espoir dans les Sasanides, ne cherchez pas des rubis sur le saule rouge.
 
 Puisse la fortune vous être propice quand on vous apportera cette lettre.
 
