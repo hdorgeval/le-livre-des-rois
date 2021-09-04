@@ -24,9 +24,9 @@ Il lit écrire sur du satin blanc une lettre brillante comme le soleil ; elle po
 
 La lettre commençait ainsi : Ne rejetons pas la crainte et le respect dus au Dieu pur : c’est lui qui maintient la sphère toujours mobile, ; c’est lui qui donne la royauté et la puissance.
 
-Que ses bénédictions se répandent sur le roi illustre, ornementde la couronne, du trône et du sceau, splendeur de la majesté, des grandeurs, de la victoire et du pouvoir, le roi maître du glaive et du trône sublime, dont la puissance retient Ahriman dans ses liens !
+Que ses bénédictions se répandent sur le roi illustre, ornement de la couronne, du trône et du sceau, splendeur de la majesté, des grandeurs, de la victoire et du pouvoir, le roi maître du glaive et du trône sublime, dont la puissance retient Ahriman dans ses liens !
 
-Une affaire. odieuse vient de surgir qui amènera des souffrances et des luttes stériles.
+Une affaire odieuse vient de surgir qui amènera des souffrances et des luttes stériles.
 
 Dis-moi quel est ton roi, qui tu es toi-même, quelle religion, quel culte tu professes.
 
@@ -40,7 +40,7 @@ Contente-toi d’être encore vivant dans le pays d’Iran : la couronne et le s
 
 Lorsqu’il s’assied au festin, joyeux et montrant, dans un sourire, ses dents blanches comme l’argent, il donne en cadeau plus que ne valent tous les Arabes ensemble et cela sans appauvrir son trésor.
 
-Il pw sède douze mille chiens, guépards et faucons aux clochettes et aux pendants d’or ; toute l’année, d’un bout à l’autre des plaines, les nomades porteurs de piques ne peuvent’vivre de gibier, car il est au roi, g qui le prend avec ses chiens et ses guépards agiles ; les dépenses qu’il fait pour ses équipages de chasse ne sont rien à ses yeux.
+Il possède douze mille chiens, guépards et faucons aux clochettes et aux pendants d’or ; toute l’année, d’un bout à l’autre des plaines, les nomades porteurs de piques ne peuvent vivre de gibier, car il est au roi, g qui le prend avec ses chiens et ses guépards agiles ; les dépenses qu’il fait pour ses équipages de chasse ne sont rien à ses yeux.
 
 Il faut vraiment que vous soyez dépourvus de toute pudeur, il faut que votre intelligence ne connaisse ni le respect ni la réserve ; c’est toi qui, avec ce visage, cette origine, ces mœurs, oses aspirer à une pareille royauté ?
 
@@ -54,8 +54,6 @@ Ne deviens pas un objet d’horreur pour le monde, ne sois pas l’ennemi du cul
 
 Lis attentivement cette lettre pleine de conseils et n’empêche pas ta raison de voir et d’entendre. »
 
-Après avoir posé le sceau sur sa lettre, il la remit au noble Pirouz, fils de .Schapour.
+Après avoir posé le sceau sur sa lettre, il la remit au noble Pirouz, fils de Schapour.
 
-Cc Pehlewan se .
-rendit aussitôt chez Saad, fils de Wakkas, accompagné de nobles Perses, a lame sereine, armes de
-î 3\* cuirasses d’or et d’argent, de boucliers et de ceintures d’or.
+Ce Pehlewan se rendit aussitôt chez Saad, fils de Wakkas, accompagné de nobles Perses, à l'âme sereine, armés de cuirasses d’or et d’argent, de boucliers et de ceintures d’or.
