@@ -1688,6 +1688,14 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ etles /g, ' et les '),
     (content: string) => content.replace(/Zendeh Bezm /g, 'Zendeh Rezm '),
     (content: string) => content.replace(/ lerreur /g, ' terreur '),
+    (content: string) => content.replace(/ Mahouî,/g, ' Mahouï,'),
+    (content: string) => content.replace(/ Mahouî /g, ' Mahouï '),
+    (content: string) => content.replace(/ rél’ugie /g, ' réfugie '),
+    (content: string) => content.replace(/ puis’il /g, ' puis il '),
+    (content: string) => content.replace(/ coeur /g, ' cœur '),
+    (content: string) => content.replace(/ re-jeton /g, ' rejeton '),
+    (content: string) => content.replace(/ jettela /g, ' jette la '),
+    (content: string) => content.replace(/ mais \.le /g, ' mais le '),
   ].forEach((format) => {
     result = format(result);
   });
