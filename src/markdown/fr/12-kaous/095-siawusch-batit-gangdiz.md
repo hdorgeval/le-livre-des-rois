@@ -20,8 +20,7 @@ Je vais maintenant ouvrir la porte des histoires et des belles traditions de nos
 
 Gloire au créateur du monde, au créateur de tout ce qui est connu et inconnu, au maître de l’existence et du néant, à Dieu qui seul est unique, tandis que toute chose tréée a son semblable !
 
-Gloire à son prophète et à chacun
-(le ses compagnons !
+Gloire à son prophète et à chacun de ses compagnons !
 
 Puisque le monde a vu dispa-
 
