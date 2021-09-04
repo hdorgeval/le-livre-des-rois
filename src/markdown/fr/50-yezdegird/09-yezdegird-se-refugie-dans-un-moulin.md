@@ -90,9 +90,7 @@ Pourquoi donc attacher ton cœur à cette demeure décevante où le signal du d�
 Épuisé de faim, les yeux pleins de larmes, le roi demeura dans cet état jusqu’au lever du soleil.
 
 En ce moment le meunier ouvrit la porte du moulin, portant sur ses épaules une charge de fourrages : c’était un homme de basse naissance, qui, malgré son nom de Khosrou, ne possédait ni trône, ni trésor, ni couronne, ni puissance ; il vivait du produit de son moulin et n’exerçait pas d’autre métier.
-, Quand il vit ce guerrier à la stature de cyprès, assis humblement par terre, la tête ornée de la couronne royale, le corps couvert d’une robe en brocart de Chine, quand il vit ce héros aux yeux de gazelle, à l’encolure de lion, dont ses regards ne pouvaient se
-
-YEZDEGlnD. détacher, quand il aperçut les brodequins dorés dont ses pieds étaient chaussés, sa tunique aux manches brodées d’or et de perles, le meunier demeura stupéfait.
+, Quand il vit ce guerrier à la stature de cyprès, assis humblement par terre, la tête ornée de la couronne royale, le corps couvert d’une robe en brocart de Chine, quand il vit ce héros aux yeux de gazelle, à l’encolure de lion, dont ses regards ne pouvaient se détacher, quand il aperçut les brodequins dorés dont ses pieds étaient chaussés, sa tunique aux manches brodées d’or et de perles, le meunier demeura stupéfait.
 
 Dans son admiration, il invoqua le nom de Dieu et dit :
 
@@ -150,11 +148,11 @@ Le meunier répondit tout tremblant :
 >
 > Que ceux qui n’ont pas vu .la majesté de Dieu s’en informent auprès du meunier.
 >
-> Un diadème de perles ornait son front, une tunique en brocart de Chine brillait sur sa poitrine ; on aurait dit le printemps dans le ciel et jamais Dihkan n’a planté un cyprès aussi majes-tueux. »
+> Un diadème de perles ornait son front, une tunique en brocart de Chine brillait sur sa poitrine ; on aurait dit le printemps dans le ciel et jamais Dihkan n’a planté un cyprès aussi majestueux. »
 
 Mahouï médita ces paroles, il comprit que l’inconnu ne pouvait être que Yezdegird.
 
-Va, dit-il au meunier, pars et tranche la tête de cet homme ; sinon, c’est ta tête qui tombera et je ne laisserai lalvie à aucun des tiens. »
+Va, dit-il au meunier, pars et tranche la tête de cet homme ; sinon, c’est ta tête qui tombera et je ne laisserai la vie à aucun des tiens. »
 
 À ces mots, les chefs, les grands personnages au cœur vigilant, tous ceux enfin qui se trouvaient réunis dans ce lieu furent transportés de colère ; les paroles se’pressaient sur leurs lèvres, les larmes roulaient dans leurs yeux.
 
@@ -162,15 +160,13 @@ Un Mobed nommé Zatrouî, dont le cœur était soumis au joug de la raison, parl
 
 > Homme aux desseins criminels, pourquoi le Div a-t-il aveuglé tes yeux ?
 >
-> Sache queila royauté et la prophétie sont
-> -deux perles enchâssées dans une même bague : briser l’une d’elles, c’est fouler aux pieds l’intelligence et la vie.
+> Sache que la royauté et la prophétie sont deux perles enchâssées dans une même bague : briser l’une d’elles, c’est fouler aux pieds l’intelligence et la vie.
 >
 > Vois ce que tu vas faire et arrête-toi.
 >
 > N’ofl’ense pas le Créateur du monde, car tu en serais le premier puni ; tu laisserais à tes fils un champ dont le fruit serait amer et la moisson sanglante.
 >
-> Ton front serait bientôt humilié ; ta race marcherait nue dans le monde et tes enfants ré-
-> .colteraient inévitablement ce que tu as semé ; Ton crime porterait atteinte au culte de Dieu et les malédictions du trône et de la couronne retomberaient sur toi. »
+> Ton front serait bientôt humilié ; ta race marcherait nue dans le monde et tes enfants récolteraient inévitablement ce que tu as semé ; Ton crime porterait atteinte au culte de Dieu et les malédictions du trône et de la couronne retomberaient sur toi. »
 
 Un homme pieux et fidèle adorateur de Dieu,, dont la main n’avait jamais connu l’injustice, Hormuzd, fils de Kharrad, c’est ainsi qu’il se nommait, était au nombre des assistants ; il adressa ces paroles à Mahouï :
 
@@ -178,7 +174,7 @@ Un homme pieux et fidèle adorateur de Dieu,, dont la main n’avait jamais conn
 >
 > Je vois les ténèbres obscurcir ton cœur et ta raison et les épines déchirer ton sein.
 >
-> Tu as la force sans l’intelligence et ton âme est débile ; tu veux étoutïer la flamme sous la fumée ; il semble que tu aspiresà devenir l’opprobre du monde et que tu coures avec ardeur et passion à ta propre ruine.
+> Tu as la force sans l’intelligence et ton âme est débile ; tu veux étoutïer la flamme sous la fumée ; il semble que tu aspires à devenir l’opprobre du monde et que tu coures avec ardeur et passion à ta propre ruine.
 >
 > Tu traîneras ici-bas une existence misérable et après tu mon tu auras pour séjour le feu de l’enfer. »
 
@@ -202,7 +198,7 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 >
 > Quand la main de Zohak eut arraché la vie à Djemschid, quel profit en retira sa fortune ?
 >
-> Zohak tenait la terre sous sa domination ; mais Abtin parut, il donna naissance à l’illustreyFeridoun et le monde prit une face nouvelle.
+> Zohak tenait la terre sous sa domination ; mais Abtin parut, il donna naissance à l’illustre Feridoun et le monde prit une face nouvelle.
 >
 > Tu sais comment le tyran Zohak reçut de la main de Feridoun le châtiment de son crime ; plus de mille ans s’étaient écoulés lorsqu’il fut atteint par ce vengeur.
 >
@@ -210,9 +206,9 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 >
 > En troisième lieu, lorsque Siawusch, de la race des Keïanides, prit malgré lui les armes et que, par les conseils de Guersiwez, Afrasiab, violant les lois de la raison et du cœur, égorgea le noble fils du roi, le monde eut horreur du meurtrier.
 >
-> Keï Khosrou, ce conquérant issu du sang de Siawusch, survinl et remplit le monde de tumulte ; armé d’un lipoignard, il fendit le corps de son aïeul et répandit l’effroi dans le cœur de ses ennemis.
+> Keï Khosrou, ce conquérant issu du sang de Siawusch, survinl et remplit le monde de tumulte ; armé d’un poignard, il fendit le corps de son aïeul et répandit l’effroi dans le cœur de ses ennemis.
 >
-> DES ROISH Quatrièmement, rappelle-toi le châtiment d’Erdjasp, le meurtrier de Lohrasp : Isfendiar lui déclara la guerre et ne laissa pas longtemps son crime inexpié.
+> Quatrièmement, rappelle-toi le châtiment d’Erdjasp, le meurtrier de Lohrasp : Isfendiar lui déclara la guerre et ne laissa pas longtemps son crime inexpié.
 >
 > Cinquièmement, je citerai la vengeance d’Isfendiar : Rustem, qui l’avait égorgé sur le champ de bataille, mourut a son tour ; ce héros, splendeur du monde, disparut.
 >
@@ -235,7 +231,7 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 >
 > szoromo.’ l’éclat de la couronne qui illumine le monde.
 >
-> Bassemble tes troupes dispersées et ne te détourne pas des promesses que tu as contractées.
+> Rassemble tes troupes dispersées et ne te détourne pas des promesses que tu as contractées.
 >
 > Va et excuse-toi auprès du roi ; renouvelle en sa présence ton hommage de vassal ; prépare tout pour combattre ses ennemis et ne fais rien qui soit contraire à la raison et au respect.
 >
@@ -243,7 +239,7 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 >
 > Tu es plus acharné contre le grand roi Yezdegird que les Turcs ne le sont contre leurs ennemis.
 >
-> Yezdegird, ce lion du combat, ce maître du trône, qui brille d’un éclat pareil à celui de la pleine lune, est l’unique héritier des Sâsânides.
+> Yezdegird, ce lion du combat, ce maître du trône, qui brille d’un éclat pareil à celui de la pleine lune, est l’unique héritier des Sasanides.
 >
 > Aucun cavalier ne s’aime avec autant d’ardeur pour la : guerre.
 >
@@ -251,7 +247,7 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 >
 > De plus puissants que toi ont vécu en ce monde et jamais nul d’entre eux n’a formé de pareils projets.
 >
-> Dès que Bahram de Bey décochait une flèche, trois cent mille cavalerliers couverts de leur armure fuyaient devant lui en lui abandonnant le champ de bataille ; et pourtant, du jour où il prit en haine l’héritier des rois, son étoile brillante s’éclipsa.
+> Dès que Bahram de Rey décochait une flèche, trois cent mille cavaliers couverts de leur armure fuyaient devant lui en lui abandonnant le champ de bataille ; et pourtant, du jour où il prit en haine l’héritier des rois, son étoile brillante s’éclipsa.
 >
 > Ferayin qui aspira au trône sans en être digne et qui trempa sa main dans le crime, Ferayin périt lui aussi d’une mort misérable, car ce monde ne supporte pas le mensonge.
 >
@@ -261,11 +257,11 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 >
 > Tu es un malade et je suis le médecin, un médecin qui répand des larmes de sang.
 >
-> Puisque ton rang est inférieur à celui du plus humble des esclaves, ne forme pas dans ton cœur d’ambitieuses pensées, sacrifie ta haine au Dieu pur et ne demande la puissance qu’à ton. propre mérite. »
+> Puisque ton rang est inférieur à celui du plus humble des esclaves, ne forme pas dans ton cœur d’ambitieuses pensées, sacrifie ta haine au Dieu pur et ne demande la puissance qu’à ton propre mérite. »
 
-A Mais ce fils de pâtre avait le cœur plein de l’ambition’du trône et les conseils des Mobeds lui furent à charge.
+A Mais ce fils de pâtre avait le cœur plein de l’ambition du trône et les conseils des Mobeds lui furent à charge.
 
-Il en a toujours été ainsi et ce n’est pas chose nouvelle, car les caprices de la fortunen’ont pas de bornes.
+Il en a toujours été ainsi et ce n’est pas chose nouvelle, car les caprices de la fortune n’ont pas de bornes.
 
 Elle exalte celui-ci jusqu’à la sphère sublime et plonge celui-là dans l’abjection, le mépris à : la douleur, sans avoir de tendresse pour le premier ni de haine contre le second.
 
@@ -279,8 +275,7 @@ La nuit sombre étant venue, Mahouï leur dit :
 >
 > Je veux, pendant !
 >
-> Nuit, délibérer de cette affaire avec mon fils et consulter tous ceux qui savent ; je
-> . vais, à cet effet, convoquer vingt hommes expérimentés qui font partie de l’armée ; tant que les choses seront ainsi, il n’y a pas lieu de répandre des larmes. »
+> Nuit, délibérer de cette affaire avec mon fils et consulter tous ceux qui savent ; je vais, à cet effet, convoquer vingt hommes expérimentés qui font partie de l’armée ; tant que les choses seront ainsi, il n’y a pas lieu de répandre des larmes. »
 
 Les prudents Mobeds s’étant éloignés, les guerriers arrivèrent sur leurs traces.
 
