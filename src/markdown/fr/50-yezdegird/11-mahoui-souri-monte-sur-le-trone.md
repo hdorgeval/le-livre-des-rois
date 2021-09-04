@@ -34,9 +34,9 @@ Puis, il promena ses regards sur le monde et vit qu’il ne restait plus de reje
 >
 > Dépourvu comme je le suis de trésor, de gloire et de naissance, je m’expose à un péril mortel.
 >
-> Le nom de Yezdegird est gravé sur l’anneau ; mon épée n’a pas soumis le peuple à mon autorité, toutes les villes d’Iran sont restées sujettes du roi, dans la bonne et la mauvais fortune ; nul homme intelligent ne veut me donner le titre de roi et mon sceau n’inspire aucune confiance aux troupes.
+> Le nom de Yezdegird est gravé sur l’anneau ; mon épée n’a pas soumis le peuple à mon autorité, toutes les villes d’Iran sont restées sujettes du roi, dans la bonne et la mauvaise fortune ; nul homme intelligent ne veut me donner le titre de roi et mon sceau n’inspire aucune confiance aux troupes.
 >
-> Il ne me restait qu’un seul moyen au monde : j’ai.tué la chef de la noblesse : mais toutes mes nuits sont troublées par la crainte et Dieu le maître du monde sait quelle est me situation. »
+> Il ne me restait qu’un seul moyen au monde : j’ai tué la chef de la noblesse : mais toutes mes nuits sont troublées par la crainte et Dieu le maître du monde sait quelle est ma situation. »
 
 Son conseiller lui répondit :
 
@@ -48,7 +48,7 @@ Yezdegird gît au fond d’une tomba et la terre du sépulcre a fermé sa blessu
 
 Fais la déclaration suivante :
 
-> Cette couronne et cet anneau, c’est la roi qui me les a donnés comme signes du pouvoir.
+> Cette couronne et cet anneau, c’est le roi qui me les a donnés comme signes du pouvoir.
 
 Sachant que l’armée des Turcs approchait, il m’a fait appeler au milieu de la nuit et m’a dit :
 
@@ -58,7 +58,7 @@ Sachant que l’armée des Turcs approchait, il m’a fait appeler au milieu de 
 >
 > Je n’ai qu’une fille au monde et j’ai su la dérober aux recherches des Arabes ; maintenant c’est à toi de défendre mon trône contre l’ennemi et de suivre me route dans l’exercice du pouvoir.
 >
-> Je tiens donc cette couronne de l’héritage du roi et je suis assis sur le trône en vertu de sa volonté. -C’est par ce moyen (ajoutait le Destour) que tu ré tabliras tes affaires.
+> Je tiens donc cette couronne de l’héritage du roi et je suis assis sur le trône en vertu de sa volonté. -C’est par ce moyen (ajoutait le Destour) que tu rétabliras tes affaires.
 >
 > D’ailleurs qui pourrait savoir si ce que tu as dit est vérité ou mensonge ? »
 
@@ -70,7 +70,7 @@ Il convoqua alors les chefs de l’armée et leur adressa un discours dans le se
 
 L’armée comprit que son langage était mensonger et qu’il méritait de payer de sa tête une impudence pareille ; mais un Pehlewan s’écria :
 
-> Que tes paroles soient vraieslou fausses, ceci est ton affaire. »
+> Que tes paroles soient vraies ou fausses, ceci est ton affaire. »
 
 Aussitôt Mahouï s’assit sur le siège royal et capta les troupes par ses ruses.
 
@@ -78,16 +78,16 @@ Ayant distribué les gouvernements aux principaux chefs, il dit :
 
 > Je possède l’anneau et je suis le roi du monde ! »
 
-Il usurpa la royauté et excita la stupéfaction des astres ; il donna ’Balkh et Héri (fiérot) à son fils aîné, envoya des troupes dans toutes les directions et mit des scélérats au pouvoir, conformément à sa mauvaise nature.
+Il usurpa la royauté et excita la stupéfaction des astres ; il donna Balkh et Hérat à son fils aîné, envoya des troupes dans toutes les directions et mit des scélérats au pouvoir, conformément à sa mauvaise nature.
 
-ÀOI Partout les méchants devinrent puissants et les bons courbèrent la tête ; la vérité fut humiliée et le mensonge se montra de toutes parts.
+Partout les méchants devinrent puissants et les bons courbèrent la tête ; la vérité fut humiliée et le mensonge se montra de toutes parts.
 
-Lorsque cet homme pervers eut réuni une arrmée nombreuse et un trésor, son cœur se réjouit ; Mahouï prodigua ses largesses et ses faveurs à l’armée parce qu’il méditait de faire la guerre à Bijen.
+Lorsque cet homme pervers eut réuni une armée nombreuse et un trésor, son cœur se réjouit ; Mahouï prodigua ses largesses et ses faveurs à l’armée parce qu’il méditait de faire la guerre à Bijen.
 
 Un Pehlewan partit pour Amouï avec une troupe vaillante qui précédait l’armée comme avant-garde ; le nom de ce guerrier éprouvé était Guersioun.
 
 Il marcha sur la ville de Boukhara avec ses troupes bien équipées et pleines d’ardeur et dit :
 
-> Samarcande et ,Djadj dnivent être soumises par nous à cet anneau et à cette couronne, car telle a été la volonté du roi du monde, Yezdegird, ce monarque auquel les planètes obéissaient.
+> Samarcande et Djadj doivent être soumises par nous à cet anneau et à cette couronne, car telle a été la volonté du roi du monde, Yezdegird, ce monarque auquel les planètes obéissaient.
 >
 > Je viens avec mon épée tirer vengeance de Bijen parce qu’il a obscurci la fortune du grand roi. »
