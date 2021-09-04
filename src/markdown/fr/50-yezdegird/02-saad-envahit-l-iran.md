@@ -8,7 +8,49 @@ source: tome VII - livre des rois - P. 349
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: "Saad, fils de Wakkas, envahit l'Iran, Yezdegird envoie Rustem contre lui | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Abbassides',
+    'Abou',
+    'Aderguschasp',
+    'Ahriman',
+    'âme',
+    'Arabes',
+    'Azerbaïdjan',
+    'Bahram',
+    'Bekr',
+    'Dieu',
+    'Dihkans',
+    'Djihoun',
+    'Ermeni',
+    'Gour',
+    'Gulbouï',
+    'Gémeaux',
+    'Hormuzd',
+    'Iran',
+    'Iraniens',
+    'Kadesiah',
+    'Mars',
+    'Mazenderan',
+    'Mercure',
+    'Mirouï',
+    'Mobeds',
+    'Omar',
+    'Pehlewan',
+    'Roi',
+    'Rustem',
+    'Saad',
+    'Sasanides',
+    'Saturne',
+    'Souri',
+    'Thabaristan',
+    'tribut',
+    'Turcs',
+    'Vénus',
+    'Wakkas',
+    'Yezdegird',
+    'Zaboulistan',
+  ]
 order: '002'
 ---
 
@@ -124,7 +166,9 @@ Hélas !
 
 Cette couronne, cette bonté, cette justice, tout cela va disparaître ce avec la famille souveraine !
 
-Puisses-tu vivre heureux et puissant et te dévouer à la défense du roi ! Si le danger le menace, place-toi devant lui, et, avide de combats, protège-le de ton épée.
+Puisses-tu vivre heureux et puissant et te dévouer à la défense du roi !
+
+Si le danger le menace, place-toi devant lui, et, avide de combats, protège-le de ton épée.
 
 Lorsque la chaire s’élèvera en face du trône, lorsqu’on proclamera partout les noms d’Abou Bekr et d’Omar, nos longs travaux seront perdus.
 
@@ -184,7 +228,9 @@ Mais personne parmi eux ne connaît les secrets du ciel et ils ignorent que cett
 
 Lorsque les jours d’une famille sont accomplis, à quoi servent les fatigues et les combats ?
 
-Quant à toi, ô mon frère, puisses-tu vivre pour consoler le cœur du roi d’Iran ! car le pays de Kadesiah sera mon tombeau ; j’aurai pour cuirasse un linceul, pour casque une couronne de sang.
+Quant à toi, ô mon frère, puisses-tu vivre pour consoler le cœur du roi d’Iran !
+
+Car le pays de Kadesiah sera mon tombeau ; j’aurai pour cuirasse un linceul, pour casque une couronne de sang.
 
 Tels sont les mystères du ciel sublime ; mais n’enchaîne pas ton cœur à la douleur d’un frère ; ne quitte pas des yeux le roi du monde et sacrifie ta vie sur le champ de bataille.
 
