@@ -8,7 +8,23 @@ source: tome VII - livre des rois - P. 377
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: 'Yezdegird arrive à Thous où il est reçu par Mahouï Souri | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Arabes',
+    'Bust',
+    'Dieu',
+    'Farrukhzad',
+    'Hormuzd',
+    'Keïanides',
+    'Mahouï',
+    'Nischapour',
+    'Pehlewan',
+    'Rey',
+    'Rustem',
+    'Souri',
+    'Thous',
+    'Yezdegird',
+  ]
 order: '008'
 ---
 
@@ -20,9 +36,7 @@ Le roi fit donner par les tambours le signal du départ et se rendit à Thous pa
 
 Mahouï Souri, apprenant que l’armée royale était entrée sur le territoire de Thous, alla à sa rencontre avec une nombreuse escorte de guerriers revêtus de cuirasses et armés de lances.
 
-Aussitôt que le roi apparut dans la majesté de son cortège, sous l’étendard royal et entouré de ses guerriers, Mahaut mit pied à terre et donna, comme un humble sujet, les marques du respect et de a»
-
-Béissance.
+Aussitôt que le roi apparut dans la majesté de son cortège, sous l’étendard royal et entouré de ses guerriers, Mahouï mit pied à terre et donna, comme un humble sujet, les marques du respect et de l'obéissance.
 
 Il s’avança lentement sur le sol brûlant et l’émotion remplit ses yeux de larmes ; il baisa la terre, rendit au roi les honneurs divins et resta longtemps debout en sa présence, pendant que ses troupes acclamaient le roi et courbaient successivement leur front dans la poussière.
 
