@@ -62,8 +62,7 @@ Le Mobed lui dit :
 >
 > Si Ahriman était l’égal de Dieu, la nuit sombre serait brillante comme le jour et toute l’année les jours et les nuits seraient égaux et il n’y aurait pendant sa rotation ni un plus ni un moins.
 >
-> Le Créateur n’est pas contenu dans un lieu, car il est tin-dessus
-(le l’espace et du temps.
+> Le Créateur n’est pas contenu dans un lieu, car il est tin-dessus de l’espace et du temps.
 >
 > Ce sont des paroles insensées, voilà tout et personne ne soutiendra ton dire. »
 
