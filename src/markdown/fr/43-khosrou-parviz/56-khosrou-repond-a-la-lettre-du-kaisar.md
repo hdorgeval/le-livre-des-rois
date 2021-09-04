@@ -63,7 +63,7 @@ Quant à la croix du Messie, dont tu parles selon les traditions anciennes, réf
 > Mais je suis plein de soucis sur le Roum et l’Iran et je passe les nuits sombres à me livrer à mes pensées.
 >
 > Je crains que, quand Schirouï sera devenu grand, il ne renouvelle dans le Roum et dans l’Iran ces grands maux qui ont été provoqués d’abord par le féroce Selm et continués par lskender, ce vieux loup, avide de vengeance ; je crains qu’on ne réveille dans le monde toutes ces haines nouvelles et anciennes. °
-Enfin, quant à ce que tu as entendu de ta fille, sache qu’elle a rajeuni ton diadème ; elle pratique la religion du Messie et n’écoute guère ce que je lui dis lit-dessus ; elle est heureuse du repos dans lequel elle vit et triomphante de ce nouveau re-jeton de l’arbre royal.
+Enfin, quant à ce que tu as entendu de ta fille, sache qu’elle a rajeuni ton diadème ; elle pratique la religion du Messie et n’écoute guère ce que je lui dis lit-dessus ; elle est heureuse du repos dans lequel elle vit et triomphante de ce nouveau rejeton de l’arbre royal.
 >
 > Puisse le maître du monde être toujours ton protecteur, puisse ton étoile ne jamais te quitter ! »
 
