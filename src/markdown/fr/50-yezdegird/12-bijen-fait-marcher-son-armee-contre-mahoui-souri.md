@@ -21,11 +21,11 @@ Telle était la situation, lorsque Bijen apprit que MahOuï Souri s’était emp
 Bijen voulut savoir de qui Mahouï tenait la couronne et un homme habile à parler le lui apprit ; Barsam s’exprima ainsi :
 
 > Tu sais, ô
-roi, que lorsque j’emmeuai de Djadj mes escadrons, à lorsque je partis d’ici au secours de Mahouî avec mes cavaliers fiers et avides de renommée, cet homme avait juré de t’envoyer le trône doré, les bracelets ornés de pierreries, la couronne et le trésor du roi.
+roi, que lorsque j’emmeuai de Djadj mes escadrons, à lorsque je partis d’ici au secours de Mahouï avec mes cavaliers fiers et avides de renommée, cet homme avait juré de t’envoyer le trône doré, les bracelets ornés de pierreries, la couronne et le trésor du roi.
 >
 > C’est à toi seul, te disait-il, qu’appartient en ce monde le trône d’ivoire. »
 
-Je me rrhattis dans Merve pendant trois jours ; le quatrième jour, lorsque le soleil répandit sa lumière sur le monde, fatigué de cette longue lutte, je livrai un combat acharné et le perfide Mahouî tourna le des.
+Je me rrhattis dans Merve pendant trois jours ; le quatrième jour, lorsque le soleil répandit sa lumière sur le monde, fatigué de cette longue lutte, je livrai un combat acharné et le perfide Mahouï tourna le des.
 
 Le Sipehdar de l’Iran, se voyant seul, devint sou-cieux ; il appela à lui quelques fidèles et nous tua beaucoup de guerriers illustres ; mais abandonné des siens, il prit la fuite, lui aussi.
 
@@ -57,7 +57,7 @@ Bijen demanda ensuite :
 >
 > Le roi, maître du monde, avait-il des frères ?
 >
-> A défaut de fils, n’a-t-il pas laissé une fille que nous emmènerions avec nous et dont nous prendrions la défense pour triompher de (r Mahouî ? --Prince, répondit Barsam, les jours de cette famille sont maintenant arrivés à leur terme ; les Arabes se sont emparés de leur pays et n’y ont laissé ni roi ni adorateur du feu. »
+> A défaut de fils, n’a-t-il pas laissé une fille que nous emmènerions avec nous et dont nous prendrions la défense pour triompher de (r Mahouï ? --Prince, répondit Barsam, les jours de cette famille sont maintenant arrivés à leur terme ; les Arabes se sont emparés de leur pays et n’y ont laissé ni roi ni adorateur du feu. »
 
 Après avoir entendu ces paroles, Bijen, effrayé des vicissitudes du sprt, réunit son armée.
 
@@ -65,6 +65,6 @@ Les éclaireurs l’ayant averti que l’ennemi arrivait et qu’il allait bient
 
 Tu aurais dit que l’âme
 
-De Mahouî Souri allait quitter son corps lorsqu’il vit cette armée, cet amas de cuirasses, de casques et de boucliers dorés, cette forêt de lances, de, massues et de haches fabriquées à Djadj et ces chameaux chargés de bagages qui marchaient à l’écart de l’armée.
+De Mahouï Souri allait quitter son corps lorsqu’il vit cette armée, cet amas de cuirasses, de casques et de boucliers dorés, cette forêt de lances, de, massues et de haches fabriquées à Djadj et ces chameaux chargés de bagages qui marchaient à l’écart de l’armée.
 
 Dévoré d’inquiétudes, il fit cependant face à l’ennemi, l’air s’obscurcit et la terre sembla disparaître (sous le nombre des combattants).
