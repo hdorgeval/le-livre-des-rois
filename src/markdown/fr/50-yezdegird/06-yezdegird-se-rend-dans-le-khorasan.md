@@ -8,7 +8,42 @@ source: tome VII - livre des rois - P. 366
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: 'Yezdegird tient conseil avec les Iraniens et se rend dans le Khorasan | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Amol',
+    'Arabes',
+    'Bagdad',
+    'Bust',
+    'Chine',
+    'Créateur',
+    'Dieu',
+    'Dihkans',
+    'Faghfour',
+    'Farrukhzad',
+    'Feridoun',
+    'Gourgan',
+    'Hormuzd',
+    'Iran',
+    'Iraniens',
+    'Kerkh',
+    'Keïanides',
+    'Khakan',
+    'Khorasan',
+    'Lion',
+    'Mahaut',
+    'Mahouï',
+    'Mobeds',
+    'Narwen',
+    'Patrie',
+    'Pehlewans',
+    'Rey',
+    'Sari',
+    'Sipehbed',
+    'Tigre',
+    'Touran',
+    'Turcs',
+    'Yezdegird',
+  ]
 order: '006'
 ---
 
