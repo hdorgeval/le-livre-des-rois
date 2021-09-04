@@ -50,7 +50,7 @@ Le Kaisar envoya un messager et quatre d’entre les philosophes arrivèrent, le
 >
 > Maintenant Dieu le tout-saint a amené le malheur sur eux pour les punir de leurs mauvaises actions.
 >
-> Mais tiens-toi tranquille, puisque la fortune des Sâsânides est devenue boiteuse.
+> Mais tiens-toi tranquille, puisque la fortune des Sasanides est devenue boiteuse.
 >
 > Si Khosrou ressaisit sa couronne impériale, il lèvera sa tête jusqu’à la lune et demandera à l’instant un tribut du Roum et s’emparera de tous les pays.
 >
