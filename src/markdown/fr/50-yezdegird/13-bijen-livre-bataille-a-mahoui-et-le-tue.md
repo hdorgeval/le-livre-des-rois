@@ -44,10 +44,10 @@ Homme infâme, lui dit Bijen, je ne souhaite à personne un esclave tel que toi 
 >
 > En expiation du mal que j’ai
 >
-> A0
-> fait, prends ma tête et jettela devant cette armée. »
+> 
+> fait, prends ma tête et jette la devant cette armée. »
 
-En effet, Mahouï redoutait d’être écorché vif et traîné dans son sang, en punition de son crime ; mais .le vaillant Bijen comprit sa pensée secrète ; il lui fit attendre quelque temps sa réponse et lui dit enfin :
+En effet, Mahouï redoutait d’être écorché vif et traîné dans son sang, en punition de son crime ; mais le vaillant Bijen comprit sa pensée secrète ; il lui fit attendre quelque temps sa réponse et lui dit enfin :
 
 > Je veux t’infliger un châtiment qui satisfasse la colère de mon leur, puisque, dénué de courage, de sagesse, de raison et de caractère, comme tu l’es, tu as convoité la couronne du roi. »
 
@@ -57,7 +57,7 @@ Et d’un coup de sabre il lui coupa la main en disant :
 
 Ensuite, il lui fit couper les deux pieds pour qu’il restât sans mouvement et lui fit arracher les oreilles et le nez ; puis il monta à cheval, en ordonnant qu’on le laissât exposé sur le sable brûlant, jusqu’à ce qu’il expirât dans la honte.
 
-Enfin il lui abattit la tête, la jeta sous ses pieds et se mit à table.
+Enfin, il lui abattit la tête, la jeta sous ses pieds et se mit à table.
 
 Un héraut fit le tour du camp, et, passant sur le seuil dm tentes, cria :
 
@@ -65,9 +65,9 @@ Un héraut fit le tour du camp, et, passant sur le seuil dm tentes, cria :
 >
 > Que celui qui n’épargne pas la vie d’un roi ait le sort de Mahouï et qu’il n’obtienne jamais la puissance ! »
 
-Mahouî avait dans son armée trois fils qui possédaient chacun un trône et un diadème ; on alluma au même endroit un grand bûcher où tous les trois brûlèrent avec leurs pères.
+Mahouï avait dans son armée trois fils qui possédaient chacun un trône et un diadème ; on alluma au même endroit un grand bûcher où tous les trois brûlèrent avec leurs pères.
 
-Il ne resta personne de cette race, ou si quelque rejeton lui survécut, tous ceux qui le rencontraient le chassèrent de leur pré-A07 sance ; les grands maudirent cette famille et la poursuivirent de leur haine à cause du meurtre du roi, en disant :
+Il ne resta personne de cette race, ou si quelque rejeton lui survécut, tous ceux qui le rencontraient le chassèrent de leur présence ; les grands maudirent cette famille et la poursuivirent de leur haine à cause du meurtre du roi, en disant :
 
 > Malédiction sur elle !
 >
