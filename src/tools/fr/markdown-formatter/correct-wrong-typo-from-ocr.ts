@@ -1702,6 +1702,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Pleumns /g, ' Pleurons '),
     (content: string) => content.replace(/ Fleurons /g, ' Pleurons '),
     (content: string) => content.replace(/ Échamon,/g, ' Échanson,'),
+    (content: string) => content.replace(/\n\(le /g, ' de '),
+    (content: string) => content.replace(/ enlouré /g, ' entouré '),
   ].forEach((format) => {
     result = format(result);
   });
