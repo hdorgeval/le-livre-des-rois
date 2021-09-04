@@ -8,7 +8,24 @@ source: tome VII - livre des rois - P. 404
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: 'Bijen livre bataille à Mahouï Souri et le tue | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Barsam',
+    'Bijen',
+    'Chinois',
+    'Esclaves',
+    'Farab',
+    'Iraniens',
+    'Mahouï',
+    'Malédiction',
+    'Nouschirwan',
+    'Omar',
+    'Oxus',
+    'rejeton',
+    'semoum',
+    'Souri',
+  ]
 order: '013'
 ---
 
@@ -24,7 +41,7 @@ Bijen vit flotter son étendard et comprit qu’il prenait le parti de fait ; il
 
 Ne le perds pas de vue un seul instant et agis de façon que nous en venions à bout d’une autre manières Barsam, le Chinois, apercevant le drapeau de Mahouï, fit mouvoir son armée en masse et la conduisit rapidement jusqu’aux abords de la ville de Farab ; les traits contractés par la colère, la bouche pleine de malédictions ,-il atteignit Mahouï dans les sables de Farab.
 
-S’affermissant sur ses étriers, il piqua droit à lui ; arrivé en face de son adversaire, A05 au lieu de le frapper de son épée, il agit avec plus d’audace : il le saisit par la ceinture, l’enleva de selle et le posa par terre sans effort ; puis il descendit de cheval, lui lia les mains, et, remontant à cheval, il le poussa devant lui.
+S’affermissant sur ses étriers, il piqua droit à lui ; arrivé en face de son adversaire, au lieu de le frapper de son épée, il agit avec plus d’audace : il le saisit par la ceinture, l’enleva de selle et le posa par terre sans effort ; puis il descendit de cheval, lui lia les mains, et, remontant à cheval, il le poussa devant lui.
 
 En ce moment arrivèrent les compagnons de Barsam, remplissant de tumulte toute la plaine ; ils exhortèrent leur chef à ne pas emmener son prisonnier et à lui abattre la tête d’un coup de hache.
 
@@ -42,10 +59,7 @@ Homme infâme, lui dit Bijen, je ne souhaite à personne un esclave tel que toi 
 
 > Qu’attendre d’un méchant si ce n’est le meurtre et l’injure ?
 >
-> En expiation du mal que j’ai
->
-> 
-> fait, prends ma tête et jette la devant cette armée. »
+> En expiation du mal que j’ai fait, prends ma tête et jette là devant cette armée. »
 
 En effet, Mahouï redoutait d’être écorché vif et traîné dans son sang, en punition de son crime ; mais le vaillant Bijen comprit sa pensée secrète ; il lui fit attendre quelque temps sa réponse et lui dit enfin :
 
