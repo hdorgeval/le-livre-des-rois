@@ -8,7 +8,28 @@ source: tome VII - livre des rois - P. 398
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: 'Mahouï Souri monte sur le trône | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Amouï',
+    'Arabes',
+    'Balkh',
+    'Bijen',
+    'Boukhara',
+    'Destour',
+    'Dieu',
+    'Djadj',
+    'Guersioun',
+    'Hérat',
+    'Iran',
+    'Mahouï',
+    'Pehlewan',
+    'rejeton',
+    'Roum',
+    'Samarcande',
+    'Souri',
+    'Turcs',
+    'Yezdegird',
+  ]
 order: '011'
 ---
 
