@@ -28,7 +28,7 @@ Lorsque le vaillant Bahram eut su que quelqu’un avait apporté au Khakan une l
 >
 > Que les traces de leurs pieds soient maudites et mau-dites leurs têtes !
 >
-> Si j’ai consenti à être sujet, c’est pour arracher jusqu’aux racines de cette race des Sâsânides. »
+> Si j’ai consenti à être sujet, c’est pour arracher jusqu’aux racines de cette race des Sasanides. »
 
 Le Khakan écouta ces paroles et devint pensif ; les soucis remplissaient son cœur, comme les arbres une forêt.
 >
@@ -38,7 +38,7 @@ Le Khakan écouta ces paroles et devint pensif ; les soucis remplissaient son c�
 
 > C’est une mauvaise et difficile allahe que de déclarer que la mesure de la race des : 
 >
-> Sâsânides est comble ; et pourtant, si Bahram commande l’armée et montre le chemin aux hommes d’intelligence, il trouvera dans l’Iran bien des amis, quand il a pour allié et soutien le Khakan de la et Chine et l’affaire sera terminée rapidement à l’aide de ta fortune.
+> Sasanides est comble ; et pourtant, si Bahram commande l’armée et montre le chemin aux hommes d’intelligence, il trouvera dans l’Iran bien des amis, quand il a pour allié et soutien le Khakan de la et Chine et l’affaire sera terminée rapidement à l’aide de ta fortune.
 >
 > Il faut donc prêter l’oreille aux paroles de Bahram. »
 
