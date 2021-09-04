@@ -1704,6 +1704,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Échamon,/g, ' Échanson,'),
     (content: string) => content.replace(/\n\(le /g, ' de '),
     (content: string) => content.replace(/ enlouré /g, ' entouré '),
+    (content: string) => content.replace(/ Bey,/g, ' Rey,'),
+    (content: string) => content.replace(/Sâsânides/g, 'Sasanides'),
+    (content: string) => content.replace(/de Bey /g, 'de Rey '),
+    (content: string) => content.replace(/ Bustern /g, ' Rustem '),
   ].forEach((format) => {
     result = format(result);
   });
