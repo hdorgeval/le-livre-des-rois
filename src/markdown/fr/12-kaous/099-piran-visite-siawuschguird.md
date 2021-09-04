@@ -49,8 +49,7 @@ Ils restèrent pendant sept jours la coupe en main, tantôt heureux et gais, tan
 
 Le huitième jour Piran fit apporter des présents, des offrandes dignes d’un roi et convenables au rang de Siawusch, des rubis et des joyaux dignes d’un roi des brocarts et un trône incrusté de pierreries, des pièces d’or et des chevaux à la selle de bois de peuplier, au caparaçon d’or et à la housse de peau de léopard.
 
-Il donna à Ferenguis des diadèmes et des boucles d’oreilles, des colliers et des bracelets ornés
-(le pierres tines ; ensuite il partit pour Khoten, avec un cortège qui formait une assemblée de héros.
+Il donna à Ferenguis des diadèmes et des boucles d’oreilles, des colliers et des bracelets ornés de pierres tines ; ensuite il partit pour Khoten, avec un cortège qui formait une assemblée de héros.
 
 Il arriva joyeusement à son palais, se rendit à l’appartement de ses femmes et dit à Gulschehr :
 
