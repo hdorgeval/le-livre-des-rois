@@ -16,12 +16,12 @@ order: '012'
 
 # Bijen fait marcher son armée contre Mahouï Souri
 
-Telle était la situation, lorsque Bijen apprit que MahOuï Souri s’était emparé de la royauté et que, répandant partout ses ordres revêtus du sceau royal, il soumettait le monde à son autorité ; enfin qu’il se dirigeait vert l’Oxus pour combattre à la tête d’une vaillante armée.
+Telle était la situation, lorsque Bijen apprit que Mahouï Souri s’était emparé de la royauté et que, répandant partout ses ordres revêtus du sceau royal, il soumettait le monde à son autorité ; enfin qu’il se dirigeait vert l’Oxus pour combattre à la tête d’une vaillante armée.
 
 Bijen voulut savoir de qui Mahouï tenait la couronne et un homme habile à parler le lui apprit ; Barsam s’exprima ainsi :
 
 > Tu sais, ô
-roi, que lorsque j’emmeuai de Djadj mes escadrons, à lorsque je partis d’ici au secours de Mahouï avec mes cavaliers fiers et avides de renommée, cet homme avait juré de t’envoyer le trône doré, les bracelets ornés de pierreries, la couronne et le trésor du roi.
+> roi, que lorsque j’emmeuai de Djadj mes escadrons, à lorsque je partis d’ici au secours de Mahouï avec mes cavaliers fiers et avides de renommée, cet homme avait juré de t’envoyer le trône doré, les bracelets ornés de pierreries, la couronne et le trésor du roi.
 >
 > C’est à toi seul, te disait-il, qu’appartient en ce monde le trône d’ivoire. »
 
@@ -29,7 +29,7 @@ Je me rrhattis dans Merve pendant trois jours ; le quatrième jour, lorsque le s
 
 Le Sipehdar de l’Iran, se voyant seul, devint sou-cieux ; il appela à lui quelques fidèles et nous tua beaucoup de guerriers illustres ; mais abandonné des siens, il prit la fuite, lui aussi.
 
-Mahouî s’empara ainsi sans etl’orts des trésors de son maître et en disposa.
+Mahouï s’empara ainsi sans efforts des trésors de son maître et en disposa.
 
 Quand cet homme criminel fut gorgé de biens, il sembla ne plus me reconnaître.
 
@@ -37,7 +37,7 @@ Pendant les deux mois que notre armée passa à Merve, il n’eut jamais pour no
 
 C’est lui qui a tué en secret son maître, ce grand roi, flambeau du monde, ce cavalier qui, au milieu de son armée, semblait lever la tête au-dessus de la sphère de la lune ; sa massue n’épargnait aucun guerrier turc et il jetait l’effroi dans le cœur des ce plus braves.
 
-Mahouï, maître de ses trésors, a usurpéla royauté, il l’a usurpée par un crime aussi odieux.
+Mahouï, maître de ses trésors, a usurpé la royauté, il l’a usurpée par un crime aussi odieux.
 
 Maintenant les éclaireurs nous annoncent l’approche de ses troupes ; il ne faut pas qu’elles s’ou-
 
@@ -45,7 +45,7 @@ Maintenant les éclaireurs nous annoncent l’approche de ses troupes ; il ne fa
 
 Puisse l’ivraie ne pas naître dans le jardin royal, car si elle l’envahit, ce c’en est fait du jardin !
 
-Bijen, ayant entendu ces paroles, réunit une troupe de cavaliers turcs exercés à la guerre ; il partit de Katehgar Baehi, plein de courroux et ne perdit pas un moment en route.
+Bijen, ayant entendu ces paroles, réunit une troupe de cavaliers turcs exercés à la guerre ; il partit de Katchgar Bachi, plein de courroux et ne perdit pas un moment en route.
 
 Arrivé près de la ville de Boukhara, il déploya son armée dans la plaine de Nakhscheb et dit à ses officiers :
 
