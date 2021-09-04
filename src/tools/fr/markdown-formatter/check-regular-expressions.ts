@@ -27,7 +27,7 @@ export function ensureQuestionMarkCharactersAreEscapedIn(filename: PathLike): vo
 
   const hasUnescapedCharacters = lines
     .filter((line) => line.includes('.replace(/'))
-    .filter((line) => line.includes('.'))
+    .filter((line) => line.includes('?'))
     .map((line) => line.split('(/')[1].split('/g')[0])
     .some((line) => {
       if (line.match(/[^\\]\?/)) {
@@ -48,7 +48,7 @@ export function ensureParentethisCharactersAreEscapedIn(filename: PathLike): voi
 
   const hasUnescapedCharacters = lines
     .filter((line) => line.includes('.replace(/'))
-    .filter((line) => line.includes('.'))
+    .filter((line) => line.includes('('))
     .map((line) => line.split('(/')[1].split('/g')[0])
     .some((line) => {
       if (line.match(/[^\\]\(/)) {
@@ -69,7 +69,7 @@ export function ensureBracketCharactersAreEscapedIn(filename: PathLike): void {
 
   const hasUnescapedCharacters = lines
     .filter((line) => line.includes('.replace(/'))
-    .filter((line) => line.includes('.'))
+    .filter((line) => line.includes('['))
     .map((line) => line.split('(/')[1].split('/g')[0])
     .some((line) => {
       if (line.match(/[^\\]\[/)) {

@@ -4,6 +4,7 @@ import {
   applyRuleOnLastLine,
   applyRuleOnQuestionMark,
   applyRuleOnSemicolon,
+  correctWrongTypoFromOcr,
   correctWrongTypoStillRemainingAfterAutoFormat,
   mergeSplittedSentences,
   mergeSplittedWords,
@@ -24,7 +25,6 @@ import {
   splitSentencesAfterQuestionMarkAndLineFeed,
   splitSentencesOnStartOfQuotationMark,
 } from '.';
-import { correctWrongTypoFromOcr } from './correct-wrong-typo-from-ocr';
 import { ensureSpecialCharactersAreEscapedIn } from './check-regular-expressions';
 import { readFileSync, writeFileSync } from 'fs';
 import path from 'path';
