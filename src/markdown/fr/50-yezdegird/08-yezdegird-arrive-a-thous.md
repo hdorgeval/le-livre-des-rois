@@ -30,7 +30,7 @@ Farrukhzad, dès qu’il vit Mahouï, fit ranger son armée en files régulière
 
 > Je mets sous ta protection ce roi de la famille des Keïanides, afin que tu prennes les armes pour sa défense ; il ne faut pas que le vent du malheur souffle sur lui, ni qu’un autre que toi devienne son protecteur.
 >
-> Quant à moi, mon devoir m’appelle dans le pays de Bey et j’ignore si je reverrai jamais cette couronne royale, car plusieurs de mes compagnons d’armes ont péri en combattant les Arabes porteurs de lances.
+> Quant à moi, mon devoir m’appelle dans le pays de Rey et j’ignore si je reverrai jamais cette couronne royale, car plusieurs de mes compagnons d’armes ont péri en combattant les Arabes porteurs de lances.
 >
 > Rustem n’avait pas d’égal au monde, personne n’avait entendu parler d’un guerrier tel que lui et pourtant il est tombé sous les coups d’un de ces hommes à face de corbeau et le jour de sa mort a été un désastre pour nous.
 > "Que Dieu mette ce héros parmi ses élus et qu’il punisse les sinistres corbeaux par le supplice des lances ! »
@@ -39,6 +39,6 @@ Mahouï répondit :
 
 > Sache bien, ô Pehlewan, que le roi m’est aussi cher que mes yeux et que ma vie ; j’accepte ta demande de protection, je prends sans ma sauvegarde ta fortune et ton roi. »
 
-Alors Farrukhzad, fils de Hormuzd, s’éloignant, prit le chemin de Bey, pour obéir aux ordres du roi.
+Alors Farrukhzad, fils de Hormuzd, s’éloignant, prit le chemin de Rey, pour obéir aux ordres du roi.
 
 Mais bientôt après le perfide Mahouï renonça à ses dispositions bienveillantes, il convoita le trône dans le silence des nuits et changea complétement de ton et d’allures ; enfin il feignit pendant quelque temps d’être malade et négligea de rendre hommage au grand roi.
