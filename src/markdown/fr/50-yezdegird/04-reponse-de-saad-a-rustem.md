@@ -16,7 +16,7 @@ order: '004'
 
 # Réponse de Saad à la lettre de Rustem
 
-Saad, instruit de l’anivée de cet homme illustre, alla à sa rencontre avec une armée nombreuse comme le sable.
+Saad, instruit de l’arrivée de cet homme illustre, alla à sa rencontre avec une armée nombreuse comme le sable.
 
 Après l’avoir conduit dans sa tente, il l’interrogea touchant l’armée et le Pehlewan, le roi et le Destour, les troupes, leur général vigilant et les provinces.
 
@@ -28,7 +28,7 @@ Ensuite, il écouta les discours de Pirouz, prit connaissance de la lettre qu’
 
 Il rédigea une réponse en langue arabe, où il discutait le fort et le faible ; il y mentionnait les génies et les hommes, les paroles du prophète haschémite, le dogme de l’unité, le Koran, les promesses et les menaces, la vie future et la religion nouvelle.
 
-Ily décrivait la poix brûlante, les flammes et le froid rigoureux de l’enfer ; le paradis avec ses ruisseaux de vin et de lait, son camphre répandu, ses sources jaillissantes, son arbre céleste, ses fontaines de vin et de miel ; puis il ajoutait :
+Il y décrivait la poix brûlante, les flammes et le froid rigoureux de l’enfer ; le paradis avec ses ruisseaux de vin et de lait, son camphre répandu, ses sources jaillissantes, son arbre céleste, ses fontaines de vin et de miel ; puis il ajoutait :
 
 > Si le roi embrasse cette religion véridique, la royauté et le bonheur lui seront dévolus dans les deux mondes ; il aura éternellement un diadème, des pendants d’oreilles et toute sorte de biens précieux par l’intercession de Mohammed, il obtiendra le pardon de ses fautes et son corps sera pur comme de l’eau de rose distillée.
 
@@ -44,7 +44,7 @@ Le sage n’en fait aucun cas ; renonce donc à tes illusions et ne t’écarte 
 
 Quiconque m’apporte la guerre, ne trouvera qu’une tombe étroite et l’enfer.
 
-Le paradis sera ta demeure si tu le mérites ; réfléchis donc au parti que tu dois prendras Saad posa le sceau des Arabes sur le parchemin et il y ajouta les bénédictions en l’honneur de Mohammed ; puis il désigna parmi ses guerriers Schobab Moghaïra pour se rendre chez le Pehlewan Rustem.
+Le paradis sera ta demeure si tu le mérites ; réfléchis donc au parti que tu dois prendras Saad posa le sceau des Arabes sur le parchemin et il y ajouta les bénédictions en l’honneur de Mohammed ; puis il désigna parmi ses guerriers Schobah Moghaïra pour se rendre chez le Pehlewan Rustem.
 
 Un homme
 
@@ -66,7 +66,7 @@ Rustem lui dit :
 
 L’Arabe répondit :
 
-> Homme de ’bon renom, si tu acceptes la vraie religion, que le salut soit sur toiî»
+> Homme de bon renom, si tu acceptes la vraie religion, que le salut soit sur toi ! »
 
 Ces paroles déplurent à Rustem ; il fronça le sourcil et pâlit ; prenant la lettre des mains de Schobah, il la donna à un secrétaire qui en fit la lecture.
 
