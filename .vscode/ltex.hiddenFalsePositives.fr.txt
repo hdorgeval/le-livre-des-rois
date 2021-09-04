@@ -245,3 +245,7 @@
 {"rule":"AN_ANNEE","sentence":"^\\QPendant trente-cinq années passées dans ce monde périssable, je me suis épuisé en efforts pour obtenir une récompense ; mais ces efforts ont été stériles et ces trente-cinq années n'ont rien produit.\\E$"}
 {"rule":"AN_ANNEE","sentence":"^\\QSoixante années avaient passé sur me tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l'histoire des rois et plus mon étoile ralentissait sa marche.\\E$"}
 {"rule":"AN_ANNEE","sentence":"^\\QSoixante années avaient passé sur ma tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l'histoire des rois et plus mon étoile ralentissait sa marche.\\E$"}
+{"rule":"QUI_VCONJ","sentence":"^\\QEn présence des vieillards, des sages et des seigneurs qui sont les chefs du pays, vous ferez déposer deux registres dans les forteresses ; vous donnerez l'un à mon trésorier et garderez l'autre par devers vous, ô nobles qui composez le conseil.\\E$"}
+{"rule":"FRENCH_WHITESPACE","sentence":"^\\Q^1: Le Tigre\\E$"}
+{"rule":"FRENCH_WHITESPACE","sentence":"^\\Q^1: cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QIl passa toute la nuit plongé dans ses réflexions ; lorsque le soleil brillant se montra, Rustem, avide de combats, partit en toute hâte, emmenant sous ses ordres les hommes les plus nobles et tous ceux qui étaient prudents et Trente mois s'écoulèrent de la sorte.\\E$"}
