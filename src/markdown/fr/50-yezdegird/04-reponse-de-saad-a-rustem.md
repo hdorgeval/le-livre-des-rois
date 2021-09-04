@@ -8,7 +8,24 @@ source: tome VII - livre des rois - P. 360
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: 'Réponse de Saad à la lettre de Rustem | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Arabe',
+    'Arabes',
+    'Chine',
+    'Destour',
+    'Iraniens',
+    'Koran',
+    'Moghaïra',
+    'Mohammed',
+    'Pehlewan',
+    'Pirouz',
+    'Rustem',
+    'Saad',
+    'Schobah',
+    'Yezdegird',
+  ]
 order: '004'
 ---
 
