@@ -8,7 +8,74 @@ source: tome VII - livre des rois - P. 379
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: 'Mahouï Souri incite Bijen à faire la guerre à Yezdegird ; le roi se réfugie dans un moulin | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Abtin',
+    'Afrasiab',
+    'âme',
+    'Ardeschir',
+    'Bahman',
+    'Bahram',
+    'Barsam',
+    'Barsom',
+    'Bendouï',
+    'Bijen',
+    'Chine',
+    'Créateur',
+    'cyprès',
+    'Destour',
+    'Dieu',
+    'Dihkan',
+    'Div',
+    'Djemschid',
+    'Erdjasp',
+    'Ferayin',
+    'Feridoun',
+    'Guersiwez',
+    'Gustehem',
+    'Hormuzd',
+    'Iran',
+    'Iranien',
+    'Iridj',
+    'Isfendiar',
+    'Keï',
+    'Keïanides',
+    'Khalian',
+    'Khan',
+    'Kharrad',
+    'Khoschuewaz',
+    'Khosrou',
+    'Lage',
+    'Lohrasp',
+    'Madjin',
+    'Mahouï',
+    'Merve',
+    'Mihrinousch',
+    'Minoutchehr',
+    'Mobed',
+    'Mobeds',
+    'Nil',
+    'Nouschirwan',
+    'Parwiz',
+    'Pehlewan',
+    'Rey',
+    'Rustem',
+    'résurrection',
+    'Samarcande',
+    'Sasan',
+    'Sasanides',
+    'Schahrouî',
+    'Siawusch',
+    'Souferaï',
+    'Souri',
+    'Tour',
+    'Touran',
+    'Turcs',
+    'Yezdegird',
+    'Zark',
+    'Zatrouî',
+    'Zohak',
+  ]
 order: '009'
 ---
 
@@ -66,14 +133,13 @@ La terre roulait des flots de sang comme le Nil.
 
 Dès la première charge qu’il fit sur les Turcs, le roi se vit abandonné de tous ses guerriers ; tous ils tournèrent le dos à leur maître et le laissèrent au milieu des cavaliers ennemis.
 
-Lœ-sque Mahouï eut reculé, le roi du monde comprit la ruse ourdie contre lui secrètement et vit que le but de Mahouï était de le laisser seul aux prises avec l’ennemi.
+Lorsque Mahouï eut reculé, le roi du monde comprit la ruse ourdie contre lui secrètement et vit que le but de Mahouï était de le laisser seul aux prises avec l’ennemi.
 
-C’est en vain qu’il déploya un t grand courage, fit des prodiges de valeur et d’au-
-dace et tua de sa main plusieurs chefs renommés ; voyant qu’il était réduit à l’extrémité, il prit la fuite.
+C’est en vain qu’il déploya un t grand courage, fit des prodiges de valeur et d’audace et tua de sa main plusieurs chefs renommés ; voyant qu’il était réduit à l’extrémité, il prit la fuite.
 
 Serré de près par une troupe de Turcs, il s’échappa tenant à la main un poignard caboulien et s’enfuit, rapide comme l’éclair qui déchire la nue.
 
-Apercevant un moulin sur les bords de la rivière de Zark, il descendit de cheval et chercha en ce lieu un abri. contre la fureur de ses ennemis.
+Apercevant un moulin sur les bords de la rivière de Zark, il descendit de cheval et chercha en ce lieu un abri contre la fureur de ses ennemis.
 
 Ceux-ci s’acharnaient à sa poursuite et tout le pays de Zark était plein de tumulte.
 
@@ -138,13 +204,13 @@ Et aussitôt il confia le meunier à un homme sur qui le mena chez Mahouï.
 
 Ce dernier dit à l’artisan sans ressources :
 
-> Pour qui deman-dais-tu le Barsom ?
+> Pour qui demandais-tu le Barsom ?
 >
-> Disomoi la vérité. »
+> Dis-moi la vérité. »
 
 Le meunier répondit tout tremblant :
 
-> Je rentrais ma charge. lorsque, en ouvrant brusquement la porte du moulin, j’ai vu apparaître devant moi un soleil, un homme dont les yeux ressemblaient à ceux du chevreuil effrayé, dont les cheveux étaient noirs comme la seconde veille de la nuit : il illuminait le moulin comme un soleil ; assis sur le fourrage. il mangeait du pain sec.
+> Je rentrais ma charge lorsque, en ouvrant brusquement la porte du moulin, j’ai vu apparaître devant moi un soleil, un homme dont les yeux ressemblaient à ceux du chevreuil effrayé, dont les cheveux étaient noirs comme la seconde veille de la nuit : il illuminait le moulin comme un soleil ; assis sur le fourrage, il mangeait du pain sec.
 >
 > Que ceux qui n’ont pas vu .la majesté de Dieu s’en informent auprès du meunier.
 >
@@ -164,7 +230,7 @@ Un Mobed nommé Zatrouî, dont le cœur était soumis au joug de la raison, parl
 >
 > Vois ce que tu vas faire et arrête-toi.
 >
-> N’ofl’ense pas le Créateur du monde, car tu en serais le premier puni ; tu laisserais à tes fils un champ dont le fruit serait amer et la moisson sanglante.
+> N’offense pas le Créateur du monde, car tu en serais le premier puni ; tu laisserais à tes fils un champ dont le fruit serait amer et la moisson sanglante.
 >
 > Ton front serait bientôt humilié ; ta race marcherait nue dans le monde et tes enfants récolteraient inévitablement ce que tu as semé ; Ton crime porterait atteinte au culte de Dieu et les malédictions du trône et de la couronne retomberaient sur toi. »
 
