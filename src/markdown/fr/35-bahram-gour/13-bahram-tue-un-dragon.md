@@ -74,8 +74,7 @@ Puis elle alla à la citerne et apporta de l’eau en maudissant en secret son m
 
 Bahram alla se laver le visage, car il était malade du poison du dragon, puis il vint s’asseoir sur cette natte que la famine avait étendue ; le vieux mari se tenait inactif sous la porte de la maison, mais la lemme apporta une table, la plaça avec soin et la couvrit de cresson, de vinaigre, de pain et de lait caillé.
 >
-> Bahram mangea un peu, se coucha en gémissant et couvrit son visage avec un mouchoir
-(le soie. !
+> Bahram mangea un peu, se coucha en gémissant et couvrit son visage avec un mouchoir de soie. !
 >
 > Tu tu es un agneau, car ce cavalier est un grand seigneur et de race royale ; il a la stature des Keïanides et brille comme la lune : il ne ressemble qu’au roi Bahram. »
 
