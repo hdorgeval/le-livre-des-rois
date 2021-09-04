@@ -27,24 +27,41 @@
   font-family: 'Times New Roman', Georgia, serif;
 }
 
-#episode-content blockquote p {
-  margin-bottom: 0px;
+#episode-content blockquote p sup *:before {
+  content: '' !important;
+  position: absolute;
+  top: -0.5em;
+  left: -0.1em;
+  font-size: 2.5em;
+  font-family: 'Times New Roman', Georgia, serif;
 }
 
-#episode-content sup a,
-.card-header h1 sup a {
-  color: var(--bs-secondary);
-  text-decoration: none;
+#episode-content blockquote > p {
+  margin-bottom: 0px;
 }
 
 #episode-content sup:before,
 .card-header h1 sup:before {
   content: '[';
   color: var(--bs-secondary);
+  position: relative !important;
+  font-size: 0.75em !important;
+  vertical-align: baseline !important;
+  top: -0.1em !important;
 }
 
 #episode-content sup:after,
 .card-header h1 sup:after {
   content: ']';
   color: var(--bs-secondary);
+  position: relative !important;
+  font-size: 0.75em !important;
+  vertical-align: baseline !important;
+  top: -0.1em !important;
+}
+
+#episode-content sup a,
+.card-header h1 sup a {
+  color: var(--bs-secondary);
+  text-decoration: none;
 }
