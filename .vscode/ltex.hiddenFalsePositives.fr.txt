@@ -242,3 +242,6 @@
 {"rule":"D_N","sentence":"^\\QLivre-toi à l'adoration et à la prière, prépare-toi pour le dernier jour : tu n'auras pas à te plaindre de ce que fait Dieu, si le Div n'est pas le compagnon de ton âme.\\E$"}
 {"rule":"ETRE_VPPA_OU_ADJ","sentence":"^\\QTrois de la troupe étaient morts et le courageux Raksch n'était pas encore lié ; mais ils jetèrent sur lui leurs lacets de tous côtés et prirent sa tête dedans ; ils le saisirent et le menèrent en courant à la ville, où chacun voulait tirer parti de lui.\\E$"}
 {"rule":"ADRESSER_UN_PROBLEME","sentence":"^\\QIl alla auprès de sa mère et lui adressa une question, en lui disant audacieusement :\\E$"}
+{"rule":"AN_ANNEE","sentence":"^\\QPendant trente-cinq années passées dans ce monde périssable, je me suis épuisé en efforts pour obtenir une récompense ; mais ces efforts ont été stériles et ces trente-cinq années n'ont rien produit.\\E$"}
+{"rule":"AN_ANNEE","sentence":"^\\QSoixante années avaient passé sur me tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l'histoire des rois et plus mon étoile ralentissait sa marche.\\E$"}
+{"rule":"AN_ANNEE","sentence":"^\\QSoixante années avaient passé sur ma tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l'histoire des rois et plus mon étoile ralentissait sa marche.\\E$"}
