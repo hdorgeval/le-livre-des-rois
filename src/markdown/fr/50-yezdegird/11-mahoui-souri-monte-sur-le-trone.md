@@ -16,7 +16,7 @@ order: '011'
 
 # Mahouï Souri monte sur le trône
 
-Quelqu’un se présenta chez Mahouî Souri et lui dit :
+Quelqu’un se présenta chez Mahouï Souri et lui dit :
 
 > La tombe s’est fermée sur le roi du monde.
 >
