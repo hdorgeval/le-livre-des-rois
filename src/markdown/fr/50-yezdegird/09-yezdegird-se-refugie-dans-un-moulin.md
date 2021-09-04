@@ -28,11 +28,11 @@ Bijen lut cette lettre ; il réfléchit et voyant que le monde s’offrait à l�
 
 > Chef de mes conseillers véridiques, que penses-tu de cette affaire ?
 >
-> Si je conduis mon armée au secours de Mahouî, ce sera peut-être la ruine de ma puissance. »
+> Si je conduis mon armée au secours de Mahouï, ce sera peut-être la ruine de ma puissance. »
 
 Le Destour répondit :
 
-> Homme au cœur de lion, guerrier avide de combats, ce serait une honte pour toi d’aller prêter main forte à Mahouî, puis de revenir sur tes pas.
+> Homme au cœur de lion, guerrier avide de combats, ce serait une honte pour toi d’aller prêter main forte à Mahouï, puis de revenir sur tes pas.
 >
 > Si tu fais la guerre à l’instigation de Souri, les hommes sérieux t’accuseront de légèreté.
 >
@@ -115,7 +115,7 @@ Le pauvre meunier, après avoir placé devant le roi du lait aigri, du cresson e
 
 Il se rendit au lieu où était l’oratoire et fit prévenir aussitôt le chef de Zark qu’on lui demandait le Barsom.
 
-Or Mahouî avait envoyé des émissaires de tous côtés à la poursuite du roi.
+Or Mahouï avait envoyé des émissaires de tous côtés à la poursuite du roi.
 
 Le chef du vil-
 3h.
@@ -134,7 +134,7 @@ Le meunier répondit :
 
 Le chef répondit :
 
-> Pars aussitôt et révèle ces choses à Mahouî Souri,
+> Pars aussitôt et révèle ces choses à Mahouï Souri,
 æ de peur que cet homme vil et de naissance impure ne manifeste ses instincts pervers s’il est informé par d’autres. »
 
 Et aussitôt il confia le meunier à un homme sur qui le mena chez Mahouï.
@@ -197,7 +197,7 @@ Ainsi parla Schahrouî et il s’assit en gémissant, le cœur gonflé de sang, 
 
 Quand il eut repris sa place, Mihrinousch se leva
 
-Triste, accablé de douleur et d’un ton indigné, il dit à Mahouî :
+Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 
 > Homme méchant et de méchante race, toi qui n’obéis ni à la raison ni à la justice, le crocodile lui-même aurait horreur du sang des rois et le léopard n’oserait déchirer leurs membres ; es-tu donc plus impitoyable et plus cruel qu’une bête fauve, toi qui convoites le trône du roi ?
 >
@@ -294,7 +294,7 @@ s’assit avec ses confidents et leur demanda :
 >
 > L’inimitié du roi sera la cause de ma ruine et je perdrai en même temps la vie et le pouvoir. »
 
-Un homme sage répondit alors à Mahouî :
+Un homme sage répondit alors à Mahouï :
 
 > Tu n’aurais pas dû dans le principe agir de la sorte.
 >
@@ -302,7 +302,7 @@ Un homme sage répondit alors à Mahouî :
 >
 > De toutes parts je ne vois que peines, tourments et afflictions ; réfléchis donc mûrement à ce que tu dois faire. »
 
-Mais le fils de Mahouî, prenant la parole, dit :
+Mais le fils de Mahouï, prenant la parole, dit :
 
 > Ô mon père aux heureux desseins, puisque tu t’es déclaré son ennemi, dé barrasseloi de lui ; sinon, il nous attaquera avec
 >
