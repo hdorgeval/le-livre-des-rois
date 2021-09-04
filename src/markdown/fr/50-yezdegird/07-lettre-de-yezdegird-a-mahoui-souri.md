@@ -16,7 +16,7 @@ order: '007'
 
 # Lettre de Yezdegird à Mahouï Souri et aux Merzebans du Khorasan
 
-Lorisque le maître du monde se dirigeait vers Merve, se rendant chez Mahouï Souri, gouverneur de ce pays, il lui adressa une lettre pleine de tristesse et d’émotion.
+Lorsque le maître du monde se dirigeait vers Merve, se rendant chez Mahouï Souri, gouverneur de ce pays, il lui adressa une lettre pleine de tristesse et d’émotion.
 
 Le cœur rempli d’inquiétude, les yeux baignés de larmes, il fit venir un scribe expérimenté et donna un libre cours aux sentiments qui agitaient son cœur.
 
@@ -24,19 +24,17 @@ Après avoir glorifié le Créateur, le maître sage et bienfaisant, le souverai
 
 > Le malheur a surgi devant nous, notre royaume a perdu sa force et sa splendeur.
 >
-> La douleur a rendu le monde étroit pour nous. depuis que Rustem a péri sur le champ de .
->
-> bataille, de la main d’un certain Saad, fils de Wakkas, homme sans patrie ni famille, sans sagesse ni pouvoir.
+> La douleur a rendu le monde étroit pour nous depuis que Rustem a péri sur le champ de bataille, de la main d’un certain Saad, fils de Wakkas, homme sans patrie ni famille, sans sagesse ni pouvoir.
 >
 > Tandis que l’armée des Arabes est aux portes de Thisifoun et que les vallons et les forêts nous en séparent, marche au combat avec les troupes et rallie le peuple à ma cause.
 >
 > Moi-même je suivrai de près cette lettre et j’arriverai, rapide comme le veut, auprès de toi, ô fils d’une race pure. »
 
-Il choisit ensuite dans son entourage un messager, homme intelligent’et de bon conseil ; le cœur gonflé de sang, le visage blême comme la sandaraque, il écrivit cette autre lettre à Thous :
+Il choisit ensuite dans son entourage un messager, homme intelligent et de bon conseil ; le cœur gonflé de sang, le visage blême comme la sandaraque, il écrivit cette autre lettre à Thous :
 
 > Gloire et louange au souverain juge qui dispense le pouvoir, le trône et la valeur, au maître de la victoire, de la majesté et de la couronne] Tout, depuis la palle de l’insecte jusqu’à l’aile rapide de l’aigle, l’éléphant sur la terre, le crocodile dans les eaux, tout est soumis à sa volonté et à ses lois et ne respire qu’avec sa permission.
 >
-> De la part du roi de la terre, Yezdegird le Grand, fils d’un père illustre, monarque puissant, chef victorieux des armées de l’Iran, souverain et arbitre du monde, rejeton d’une race glorieuse, fidèle au culte de Dieu et couronnée par la faveur des astres, d’une race qui a rendu le monde prospère et qui a fait briller la couronne, le trône et le sceau royal, de la part de Y ezdegird, aux Merzebans qui règnent glorieusement et selon la justice sur les pays et les peuples de Scheiniran, Ilouïndiz, Radeh Kouh et Kelat.
+> De la part du roi de la terre, Yezdegird le Grand, fils d’un père illustre, monarque puissant, chef victorieux des armées de l’Iran, souverain et arbitre du monde, rejeton d’une race glorieuse, fidèle au culte de Dieu et couronnée par la faveur des astres, d’une race qui a rendu le monde prospère et qui a fait briller la couronne, le trône et le sceau royal, de la part de Yezdegird, aux Merzebans qui règnent glorieusement et selon la justice sur les pays et les peuples de Scheiniran, Ilouïndiz, Radeh Kouh et Kelat.
 >
 > Que Dieu soit notre appui, qu’il vous protège contre les atteintes du sort !
 >
@@ -48,16 +46,14 @@ Il choisit ensuite dans son entourage un messager, homme intelligent’et de bon
 >
 > Si Dieu nous donne le pouvoir, si la fortune favorise les désirs de notre cœur, nous saurons reconnaitre généreusement les bonnes actions et récompenser les services rendus.
 >
-> Mais vous avez été informés que les astres ont déchaîné contre nous ces vils serpents, ces hommes à face d’Ahriman, sans sagesse ni honneur, sans trésors ni trône, sans gloire ni naissance, qui se proposent de livrer le mondeà la destruction.
+> Mais vous avez été informés que les astres ont déchaîné contre nous ces vils serpents, ces hommes à face d’Ahriman, sans sagesse ni honneur, sans trésors ni trône, sans gloire ni naissance, qui se proposent de livrer le monde à la destruction.
 >
 > Les trésors et les bijoux ont été dispersés et la terre du tombeau a rempli bien des crânes ; ainsi l’a décrété le ciel sublime.
 >
-> Le royaume a été abandonné à ces misérables Arabes, semblables à des
+> Le royaume a été abandonné à ces misérables Arabes, semblables à des corbeaux, sans intelligence ni savoir, sans nom ni honneur.
 >
-> corbeaux, sans intelligence ni savoir, sans nom ni honneur.
->
-> Nouschirwan l’avait vu en songe : la splendeur du trône s’évanouissait, .cent mille Arabes, semblables à des chameaux furieux qui ont rompu leurs entraves, passaient le fleuve Arwend
-(le Tigre) et une fumée noire montait jusqu’à la sphère de Saturne.
+> Nouschirwan l’avait vu en songe : la splendeur du trône s’évanouissait, cent mille Arabes, semblables à des chameaux furieux qui ont rompu leurs entraves, passaient le fleuve Arwend
+> de Tigre) et une fumée noire montait jusqu’à la sphère de Saturne.
 >
 > Les moissons étaient détruites dans le pays d’Iran et de Babel ; le monde périssait ; le feu s’éteignait dans les Pyrées, ’éclat du Newrouz et du Sedeh pâlissait et les créneaux du palais des grands mis s’effondraient d’un seul coup au milieu du Meïdan.
 >
@@ -80,7 +76,7 @@ Il choisit ensuite dans son entourage un messager, homme intelligent’et de bon
 > Des émissaires sont partis d’ici dans toutes les directions pour requérir le secours de nos amis et de nos auxiliaires.
 >
 > Mais une armée aussi nombreuse que la nôtre ne peut tenir garnison dans ces forteresses étroites ; en conséquence, les places de Goumbedin Kouh et de Lajeverdin jusqu’à Kherbeneh serviront de dépôt à
-.-notre matériel de guerre.
+> .-notre matériel de guerre.
 >
 > Nous avons tenu conseil après avoir convoqué les Pehlewans ; sa suite d’une longue délibération, nous sommes tombés d’accord sur ce qui suit.
 >
