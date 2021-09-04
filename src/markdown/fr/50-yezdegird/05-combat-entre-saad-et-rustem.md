@@ -8,7 +8,7 @@ source: tome VII - livre des rois - P. 363
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: 'Combat entre Rustem et Saad, mort de Rustem | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ['Arabe', 'Bagdad', 'Iran', 'Iraniens', 'Rustem', 'Saad', 'Schobah', 'Yezdegird']
 order: '005'
 ---
 
@@ -26,7 +26,7 @@ Les deux armées s’avançant d’un pas ferme, se mêlèrent l’une à l’au
 
 La lutte continua pendant trois jours en cet endroit.
 
-Les Iraniens manquaient d’eau : accablés sous le faix de leurs armures pesantes, ils avaient à soutenir l’assaut des lances ennemies ; la soif épuisait le courage des héros et mettait hors de combat les chevaux de noble race ; elle desséchait les lèvres et la bouche de Bustern et déchirait sa langue en lambeaux.
+Les Iraniens manquaient d’eau : accablés sous le faix de leurs armures pesantes, ils avaient à soutenir l’assaut des lances ennemies ; la soif épuisait le courage des héros et mettait hors de combat les chevaux de noble race ; elle desséchait les lèvres et la bouche de Rustem et déchirait sa langue en lambeaux.
 
 La détresse était si grande que guerriers et chevaux mangeaient de l’argile humide.
 
