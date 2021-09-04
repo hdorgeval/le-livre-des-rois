@@ -25,7 +25,7 @@ Le meunier entendit cet ordre sans comprendre la portée de l’affaire.
 Dans la nuit du trente de Khourdadmah
 (juin), il retourna au moulin auprès du roi.
 
-Dès qu’il eut quitté la demeure de Mahouï, les yeux pleins de larmes, le cœur gonflé de sang, Mahouî lança sur ses traces des cavaliers rapides comme le nuage et leur dit :
+Dès qu’il eut quitté la demeure de Mahouï, les yeux pleins de larmes, le cœur gonflé de sang, Mahouï lança sur ses traces des cavaliers rapides comme le nuage et leur dit :
 
 > Il ne faut pas que la couronne, les pendants d’oreilles, le sceau et la’tunique du roi soient souillés de sang ; vous dépouillerez le corps de ses vêtements. »
 
