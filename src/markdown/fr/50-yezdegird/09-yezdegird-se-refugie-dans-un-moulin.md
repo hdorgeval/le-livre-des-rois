@@ -16,11 +16,11 @@ order: '009'
 
 # Mahouï Souri incite Bijen à faire la guerre à Yezdegird ; le roi se réfugie dans un moulin
 
-Il y avait un Pehlewan dont la puissance s’étendait au loin ; originaire du Touran,. son nom était Bijen ; il résidait dans la ville de Samarcande et avait un grand nombre d’alliés dans ce pays.
+Il y avait un Pehlewan dont la puissance s’étendait au loin ; originaire du Touran, son nom était Bijen ; il résidait dans la ville de Samarcande et avait un grand nombre d’alliés dans ce pays.
 
 Le funeste Mahouï, qui cherchait à se rendre indépendant, lui écrivit la lettre suivante :
 
-> Fils de Pehlewan, dont rla fortune est sans atteinte, une expédition avantageuse s’offre à toi : le roi maître du monde est ici avec son armée, sa tiare, son trône et son diadème.
+> Fils de Pehlewan, dont la fortune est sans atteinte, une expédition avantageuse s’offre à toi : le roi maître du monde est ici avec son armée, sa tiare, son trône et son diadème.
 >
 > Viens, cette couronne, ce trône seront à toi, à toi ses trésors et son parasol noir ; inspire-toi de la haine qui animait tes ancêtres et exerce ta vengeance contre cette famille. »
 
@@ -38,8 +38,7 @@ Le Destour répondit :
 >
 > C’est à Barsam que tu dois confier le soin de mener au combat une armée auxiliaire. -Ce conseil est sage, reprit Dijon ; quant à moi, il ne convient pas que je m’éloigne. »
 
-Il ordonna donc à Barsam
-(le conduire sur Merve dix mille guerriers d’élite armés de khandjars et il lui confia la direction de cette guerre, dans l’espoir de conquérir le trône d’Iran.
+Il ordonna donc à Barsam de conduire sur Merve dix mille guerriers d’élite armés de khandjars et il lui confia la direction de cette guerre, dans l’espoir de conquérir le trône d’Iran.
 
 Cette armée brillante comme l’aile du faisan se rendit à Merve en une semaine.
 
@@ -135,7 +134,7 @@ Le meunier répondit :
 Le chef répondit :
 
 > Pars aussitôt et révèle ces choses à Mahouï Souri,
-æ de peur que cet homme vil et de naissance impure ne manifeste ses instincts pervers s’il est informé par d’autres. »
+> de peur que cet homme vil et de naissance impure ne manifeste ses instincts pervers s’il est informé par d’autres. »
 
 Et aussitôt il confia le meunier à un homme sur qui le mena chez Mahouï.
 
@@ -164,14 +163,14 @@ Un Mobed nommé Zatrouî, dont le cœur était soumis au joug de la raison, parl
 > Homme aux desseins criminels, pourquoi le Div a-t-il aveuglé tes yeux ?
 >
 > Sache queila royauté et la prophétie sont
--deux perles enchâssées dans une même bague : briser l’une d’elles, c’est fouler aux pieds l’intelligence et la vie.
+> -deux perles enchâssées dans une même bague : briser l’une d’elles, c’est fouler aux pieds l’intelligence et la vie.
 >
 > Vois ce que tu vas faire et arrête-toi.
 >
 > N’ofl’ense pas le Créateur du monde, car tu en serais le premier puni ; tu laisserais à tes fils un champ dont le fruit serait amer et la moisson sanglante.
 >
 > Ton front serait bientôt humilié ; ta race marcherait nue dans le monde et tes enfants ré-
-.colteraient inévitablement ce que tu as semé ; Ton crime porterait atteinte au culte de Dieu et les malédictions du trône et de la couronne retomberaient sur toi. »
+> .colteraient inévitablement ce que tu as semé ; Ton crime porterait atteinte au culte de Dieu et les malédictions du trône et de la couronne retomberaient sur toi. »
 
 Un homme pieux et fidèle adorateur de Dieu,, dont la main n’avait jamais connu l’injustice, Hormuzd, fils de Kharrad, c’est ainsi qu’il se nommait, était au nombre des assistants ; il adressa ces paroles à Mahouï :
 
@@ -226,7 +225,7 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 > Ne considère donc pas la vengance comme une chose méprisable.
 >
 > Le jour viendra aussi ou tu te repentiras
-’ de tes pensées criminelles ; tes fils récolteront ce que tu auras semé et la destinée ne demeurera pas longtemps assoupie.
+> de tes pensées criminelles ; tes fils récolteront ce que tu auras semé et la destinée ne demeurera pas longtemps assoupie.
 >
 > Ne porte pas la main sur ces trésors, sur ces richesses et cette couronne abandonnée.
 >
@@ -281,7 +280,7 @@ La nuit sombre étant venue, Mahouï leur dit :
 > Je veux, pendant !
 >
 > Nuit, délibérer de cette affaire avec mon fils et consulter tous ceux qui savent ; je
-. vais, à cet effet, convoquer vingt hommes expérimentés qui font partie de l’armée ; tant que les choses seront ainsi, il n’y a pas lieu de répandre des larmes. »
+> . vais, à cet effet, convoquer vingt hommes expérimentés qui font partie de l’armée ; tant que les choses seront ainsi, il n’y a pas lieu de répandre des larmes. »
 
 Les prudents Mobeds s’étant éloignés, les guerriers arrivèrent sur leurs traces.
 
