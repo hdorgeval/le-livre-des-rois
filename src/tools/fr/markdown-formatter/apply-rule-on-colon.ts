@@ -3,6 +3,10 @@ export function applyRuleOnColon(content: string): string {
     .replace(/ {2}/g, ' ')
     .split(' ')
     .map((word) => {
+      if (word && word.match(/\[\^[1-9]\]:/)) {
+        return word;
+      }
+
       if (word && word.length > 1 && word.endsWith(':')) {
         return word.replace(':', ' :');
       }
