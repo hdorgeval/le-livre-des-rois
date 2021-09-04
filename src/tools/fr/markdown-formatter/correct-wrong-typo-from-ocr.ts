@@ -1690,12 +1690,14 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ lerreur /g, ' terreur '),
     (content: string) => content.replace(/ Mahouî,/g, ' Mahouï,'),
     (content: string) => content.replace(/ Mahouî /g, ' Mahouï '),
+    (content: string) => content.replace(/\nMahouî /g, '\nMahouï '),
     (content: string) => content.replace(/ rél’ugie /g, ' réfugie '),
     (content: string) => content.replace(/ puis’il /g, ' puis il '),
     (content: string) => content.replace(/ coeur /g, ' cœur '),
     (content: string) => content.replace(/ re-jeton /g, ' rejeton '),
     (content: string) => content.replace(/ jettela /g, ' jette la '),
     (content: string) => content.replace(/ mais \.le /g, ' mais le '),
+    (content: string) => content.replace(/ etl’orts /g, ' efforts '),
   ].forEach((format) => {
     result = format(result);
   });
