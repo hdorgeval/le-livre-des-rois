@@ -8,7 +8,26 @@ source: tome VII - livre des rois - P. 357
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
 title: 'Lettre de Rustem à Saad fils de Wakkas | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Ahriman',
+    'âme',
+    'Arabes',
+    'Dieu',
+    'Hormuzd',
+    'Iran',
+    'Keïanides',
+    'Nouschirwan',
+    'Pehlewan',
+    'Perses',
+    'Pirouz',
+    'Rustem',
+    'Saad',
+    'Schah',
+    'Schapour',
+    'Wakhas',
+    'Wakkas',
+  ]
 order: '003'
 ---
 
