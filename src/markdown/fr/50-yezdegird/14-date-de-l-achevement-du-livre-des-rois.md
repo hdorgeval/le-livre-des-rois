@@ -16,7 +16,7 @@ order: '014'
 
 # Date de l'achèvement du livre des rois
 
-Soixante années avaient passé sur me tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l’histoire des rois et plus mon étoile ralentissait sa marche.
+Soixante années avaient passé sur ma tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l’histoire des rois et plus mon étoile ralentissait sa marche.
 
 De grands personnages al distingués par le savoir et la naissance, plusieurs hommes renommés et fiers qui doivent leur réputation à ce livre, le copiaient gratuitement et moi, assis à l’écart, je les regardais faire et l’on m’aurait pris pour un mercenaire à leurs gages.
 
@@ -26,7 +26,7 @@ Les caisses vénérables demeuraient fermées et mon cœur s’affligeait de les
 
 Cependant, parmi les nobles et illustres habitants de la ville, Abou Dolaf Ali, le Deïlemite, cet homme équitable à l’âme brillante, m’a traité toujours avec bonté.
 
-Abou Nasr Warrak, lui aussi, a beaucoup obtenu des grands en faveur de ce livre et un autre seigneur, Housein, fils de Kotaïha, n’a pas reçu mes vers sans me . récompenser.
+Abou Nasr Warrak, lui aussi, a beaucoup obtenu des grands en faveur de ce livre et un autre seigneur, Housein, fils de Kotaïba, n’a pas reçu mes vers sans me récompenser.
 
 C’est lui qui m’a donné de la nourriture, des vêlements, de l’argent et de l’or ; c’est lui qui m’a fourni les moyens de mouvoir pied et aile.
 
@@ -36,19 +36,19 @@ Lorsque j’atteignis soixante et onze ans, le ciel s’humilia devant mon poèm
 
 Pendant trente-cinq années passées dans ce monde périssable, je me suis épuisé en efforts pour obtenir une récompense ; mais ces efforts ont été stériles et ces trente-cinq années n’ont rien produit.
 
-Aujourd’hui ma vie touche à sa quatrevingtième année et.mes espérances se sont évanouies d’un seul coup.
+Aujourd’hui ma vie touche à sa quatre-vingtième année et mes espérances se sont évanouies d’un seul coup.
 
-J’ai achevé l’histoire de Yezdegird le jour de Ard du mois de Selendarmed ( février : Ô de J.
+J’ai achevé l’histoire de Yezdegird le jour de Ard du mois de Sefendarmed (25 février 1010 de J.C.) ; lorsqu’il s’était écoulé cinq fois quatre-vingts ans depuis l’hégire, j’ai terminé ce livre digne des rois.
 
-C.);n lorsqu’il s’était écoulé cinq fois quatre-vingts ans depuis l’hégire, j’ai terminé ce livre digne des rois.
+Que le trône de Mahmoud soit florissant, que sa tête demeure jeune et son cœur joyeux !
 
-Que le trône de Mahmoud soit florissant, que sa tête demeure jeune etson cœur joyeux !
+Qu’il possède la sagesse, le savoir et la noblesse !
 
-Qu’il possèdela sagesse, le savoir et la noblesse !
+Qu’il soit le flambeau des Persans et le soleil des Arabes !
 
-Qu’il soit le flambeau des Persans et le : soleil des .Arabesl-Les louanges que je lui ai prodiguées demeureront éternellement dans le monde : j’ai reçu de nombreuses louanges des grands, celles que jeu-lui ai données sont plus nombreuses encore.
+Les louanges que je lui ai prodiguées demeureront éternellement dans le monde : j’ai reçu de nombreuses louanges des grands, celles que je lui ai données sont plus nombreuses encore.
 
-Puisse ce sage monarque vivre éternellement et queses actes s’accomplissent selon le désir de son cœur !
+Puisse ce sage monarque vivre éternellement et que ses actes s’accomplissent selon le désir de son cœur !
 
 Je lui lègue en souvenir ce poème qui compte six fois dix mille distiques.
 
