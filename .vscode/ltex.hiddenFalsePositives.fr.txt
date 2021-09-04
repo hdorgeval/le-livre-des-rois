@@ -249,3 +249,4 @@
 {"rule":"FRENCH_WHITESPACE","sentence":"^\\Q^1: Le Tigre\\E$"}
 {"rule":"FRENCH_WHITESPACE","sentence":"^\\Q^1: cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QIl passa toute la nuit plongé dans ses réflexions ; lorsque le soleil brillant se montra, Rustem, avide de combats, partit en toute hâte, emmenant sous ses ordres les hommes les plus nobles et tous ceux qui étaient prudents et Trente mois s'écoulèrent de la sorte.\\E$"}
+{"rule":"FRENCH_WHITESPACE","sentence":"^\\Q^1: Il y a ici sans doute une allusion à la dynastie des Abbassides, dont le noir était la couleur officielle.\\E$"}
