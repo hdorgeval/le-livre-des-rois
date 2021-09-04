@@ -62,7 +62,7 @@ Dans la cinquième nuit, mon âme vit en songe une ville placée au bord de l’
 
 Sixièmement, ô homme puissant et noble, j’ai vu ce une ville où tans étaient. malades ; ils allèrent faire des questions à un homme bien portant et s’informèrent d’abord de sa santé, il répondit à l’un d’eux :
 
-> Comment te portes-tu au milieu de ces peines, le corps malade, le coeur plein d’angoisses ? »
+> Comment te portes-tu au milieu de ces peines, le corps malade, le cœur plein d’angoisses ? »
 
 Le malade fut ému et se mit à demander des remèdes qui guérissent les malades.
 
