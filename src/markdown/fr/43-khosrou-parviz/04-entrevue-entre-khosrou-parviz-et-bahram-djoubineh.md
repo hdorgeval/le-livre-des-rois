@@ -307,9 +307,9 @@ Bahram répondit :
 > Est-ce que les Aschkanides ne possédaient pas le pouvoir royal, lorsque la fille de Babelr mit au monde Ardeschir ?
 rlût Ardeschir ne devint-il pas puissant et le trône ’i. 2b ne tomba-t-il pas entre ses mains lorsqu’il eut tué Ardewan ?
 >
-> Cinq cents ans ont passé depuis, la tête et la couronne des Sâsânides se sont affaiblies ; le jour est venu où je m’empare du trône et du dia-I dème et ma fortune victorieuse est aujourd’hui dominante.
+> Cinq cents ans ont passé depuis, la tête et la couronne des Sasanides se sont affaiblies ; le jour est venu où je m’empare du trône et du dia-I dème et ma fortune victorieuse est aujourd’hui dominante.
 >
-> Quand je vois ton visage et ta fortune, ton armée, ton diadème et ton trône, j’étends la main sur le pouvoir des Sâsânides, comme un lion apprivoisé qui devient féroce.
+> Quand je vois ton visage et ta fortune, ton armée, ton diadème et ton trône, j’étends la main sur le pouvoir des Sasanides, comme un lion apprivoisé qui devient féroce.
 >
 > J’effacerai leurs noms du livre, je foulerai aux pieds le trône de Sâsân ; car le pouvoir appartiendrait aux Aschkanides, si l’on écoutait les hommes qui savent la vérité. »
 
@@ -466,7 +466,7 @@ Il faut faire ni plus ni moins que ce que Zerdouscht dit dans le Zend :
 
 Bahram répondit :
 
-> La vérité est, ô homme de mauvaise race, que tu es dela famille des Sâsânides et que Sâsân était pâtre et fils de pâtre et que ce n’est pas même Babek qui, le premier, lui avait confié un troupeau. »
+> La vérité est, ô homme de mauvaise race, que tu es dela famille des Sasanides et que Sâsân était pâtre et fils de pâtre et que ce n’est pas même Babek qui, le premier, lui avait confié un troupeau. »
 
 Khosrou lui dit :
 
