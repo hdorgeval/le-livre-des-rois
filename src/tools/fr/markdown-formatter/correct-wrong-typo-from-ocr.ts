@@ -1698,6 +1698,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ jettela /g, ' jette la '),
     (content: string) => content.replace(/ mais \.le /g, ' mais le '),
     (content: string) => content.replace(/ etl’orts /g, ' efforts '),
+    (content: string) => content.replace(/ dnivent /g, ' doivent '),
+    (content: string) => content.replace(/ Pleumns /g, ' Pleurons '),
+    (content: string) => content.replace(/ Fleurons /g, ' Pleurons '),
+    (content: string) => content.replace(/ Échamon,/g, ' Échanson,'),
   ].forEach((format) => {
     result = format(result);
   });
