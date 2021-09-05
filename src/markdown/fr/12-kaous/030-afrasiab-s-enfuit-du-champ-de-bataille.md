@@ -1,14 +1,15 @@
 ---
 lastUpdate: '2021-09-04'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 52
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: "Afrasiab s'enfuit du champ de bataille | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  ['Afrasiab', 'Iraniens', 'Kaous', 'Pehlewan', 'Raksch', 'Rustem', 'Touran', 'Turcs', 'Zewareh']
 order: '030'
 ---
 
@@ -22,11 +23,9 @@ Rustem lança Raksch à la poursuite d’Afrasiab, en lui disant :
 
 > Mon ami !
 >
-> Ne te lasse pas un jour de combat ; car j’espère, par ton aide, priver ce roi de la vie et rendre couleur de corail les champs et les déserts. »
+> Ne te lasse pas un jour de combat ; car j’espère, par ton aide, priver ce roi de la vie et rendre couleur de corail les champs et les déserts.
 
-Raksch, dont la nature était le feu, devint
-’ si ardent que tu aurais dit que des ailes sortaient ’
-de ses flancs.
+Raksch, dont la nature était le feu, devint si ardent que tu aurais dit que des ailes sortaient de ses flancs.
 
 Rustem détacha de la selle son lacet roulé et essaya de prendre dans le nœud le corps d’Afrasiab ; mais le nœud de la courroie tomba sur le casque : le roi des Turcs en arracha la crête et recommença à bondir à travers les champs comme la flamme, car il était monté sur un cheval aux pieds légers comme le vent.
 
@@ -38,12 +37,9 @@ Il avait demandé au monde du miel et n’avait reçu que du poison.
 
 La moitié de ses cavaliers qui s’étaient préparés pour le combat ne revint plus dans ses tentes ; ils étaient morts ou blessés ou étaient prisonniers entre les mains des ennemis.
 
-Les trésors et les diadèmes, les couronnes et les ceintures, les épées et les cottes de mailles, les morions t3.
+Les trésors et les diadèmes, les couronnes et les ceintures, les épées et les cottes de mailles, les morions et les joyaux, les chevaux de race avec leurs rênes d’or, les casques et les glaives avec leurs fourreaux d’or et beaucoup d’autres choses très-précieuses tombèrent entre les mains des Iraniens, qui réunirent tout leur butin, le cœur réjoui de cette bataille, mais sans dépouiller les morts et sans fouiller ceux qui étaient tombés.
 
-Et les joyaux, les chevaux de race avec leurs rênes d’or, les casques et les glaives avec leurs fourreaux d’or et beaucoup d’autres choses très-précieuses tombèrent entre les mains des Iraniens, qui réunirent tout leur butin, le cœur réjoui de cette bataille, mais sans dépouiller les morts et sans fouiller ceux qui étaient tombés.
-
-Ils retournèrent à l’endroit où ils
-’ avaient chassé, emmenant avec eux des chevaux et des bagages de toute sorte.
+Ils retournèrent à l’endroit où ils avaient chassé, emmenant avec eux des chevaux et des bagages de toute sorte.
 
 Puis ils écrivirent au roi Kaous une lettre sur le combat et sur les réserves de chasse, où ils lui marquaient qu’aucun des braves n’avait été tué et que seulement Zewareh était tombé de cheval.
 
