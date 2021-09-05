@@ -28,7 +28,7 @@ Il distribua encore des trésors dans ce pays et désira qu’il lût cultivé.
 
 À chaque station arrivait une escorte de cavaliers pour protéger le roi.
 
-Khosrou reçut des nouvelles de Gangue et d’Alrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Afrasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afia-) aiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sous le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
+Khosrou reçut des nouvelles de Gangue et d’Afrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Afrasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afia-) aiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sous le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
 
 Khosrou, le maître du monde, méprisa ces mouvements ; son esprit ne s’occupait que d’Afrasiab.
 
