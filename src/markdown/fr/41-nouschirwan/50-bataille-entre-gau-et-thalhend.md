@@ -86,9 +86,11 @@ Lorsque Gau reçut ce message brutal, il écarta de son esprit toute tendresse p
 
 > Vois donc cette énormité la Le précepteur répondit :
 
-> Ô roi ! tu es l’héritier du trône de ton père, tu es le plus savant de ceux qui étudient, tu es le plus puissant de ceux qui portent une couronne.
+> Ô roi !
 >
-> Il est certain pour moi, d’après la rotation du soleil et de la lune, et je te l’ai déjà dit, que ton frère illustre n’aura de repos et ne cessera de combattre jusqu’à ce qu’il se fasse tuer et se roule dans la poussière sombre, comme un serpent.
+> Tu es l’héritier du trône de ton père, tu es le plus savant de ceux qui étudient, tu es le plus puissant de ceux qui portent une couronne.
+>
+> Il est certain pour moi, d’après la rotation du soleil et de la lune et je te l’ai déjà dit, que ton frère illustre n’aura de repos et ne cessera de combattre jusqu’à ce qu’il se fasse tuer et se roule dans la poussière sombre, comme un serpent.
 >
 > Quant à toi, ton art dans cette lutte doit être de ne rien précipiter.
 >
