@@ -7,7 +7,7 @@ ratio of fully processed episodes: 37 %
 total number of defects in episodes: 15579
 total number of extracted keywords: 800
 total number of published web pages: 1941
-estimated end date: 2025-02-15
+estimated end date: 2025-01-28
 ---
 
 # Stats about the French version of the Shahnahme
