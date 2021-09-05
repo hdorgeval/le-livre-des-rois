@@ -38,7 +38,7 @@ Ils s’écrièrent tous d’une commune voix :
 
 Il fit dresser des tables, apporter du vin et des coupes et amener des musiciens ; on plaça sur les tables quelques agneaux et ils se mirent tous à dî-ner.
 
-Au moment ou Ardeschir commença à manger, une flèche pointue arriva, se planta dans l’agneau
+Au moment où Ardeschir commença à manger, une flèche pointue arriva, se planta dans l’agneau
 »
 
 à belle graisse devant le roi et y disparut tout entière.
