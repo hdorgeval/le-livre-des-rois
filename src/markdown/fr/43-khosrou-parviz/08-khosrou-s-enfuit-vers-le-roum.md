@@ -83,7 +83,7 @@ Bendouî répondit :
 >
 > KHOSBOU PAfiVlZ.
 >
-> A7 dans la mer un hameçon qui produira son effet.
+> dans la mer un hameçon qui produira son effet.
 >
 > Ils écriront au nom du roi une lettre au Kaîsar pour dire que ce vil esclave (toi) s’est enfui de ce pays et qu’il ne faut pas qu’il reste tranquille dans le Roum ; car chaque fois qu’il a pu faire ses volontés, il nous a causé du dommage et des embarras.
 >
