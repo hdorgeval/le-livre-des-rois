@@ -48,8 +48,7 @@ Le nom de cet honnête homme était Mahboud, son esprit et son cœur étaient re
 
 Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou quand il demandait à un Mobed le barsom.
 
-Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a !
-
+Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a ! 
 H
 deux jeunes gens illustres et purs portaient les mets chez le roi.
 
@@ -99,7 +98,7 @@ Les mets étaient composés dé miel, de lait et d’eau de rose ; le roi en man
 
 Il arriva qu’un jour les jeunes gens escortaient chez Nouschirwan le plateau, que portait sur sa tête un serviteur auquel les mets étaient toujours confiés.
 
-Au moment ou ils entraient sous le vestibule du roi, Zerwan, le chambellan, les aperçut ; il dit en souriant à un de ces jeunes gens :
+Au moment où ils entraient sous le vestibule du roi, Zerwan, le chambellan, les aperçut ; il dit en souriant à un de ces jeunes gens :
 
 > Ô confident de Nouschirwan !
 >
