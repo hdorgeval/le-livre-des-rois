@@ -147,6 +147,6 @@ Le roi du monde. resta confondu et se mit à réfléchir sur cet enfant ; à la 
 >
 > Tu as beaucoup souffert dans cette affaire et je ne permettrai pas que tes soucis continuent.
 >
-> Prends cent enfants de son âge, qui lui ressemblent de taille, de mine et de membres et qui soient habillés comme lui, sans aucune dill’érence ; envoie tous ces enfants avec des raquettes, prépare une balle et fais-les venir sur la place du château.
+> Prends cent enfants de son âge, qui lui ressemblent de taille, de mine et de membres et qui soient habillés comme lui, sans aucune différence ; envoie tous ces enfants avec des raquettes, prépare une balle et fais-les venir sur la place du château.
 >
 > Quand toute la plaine sera couverte de beaux enfants, mon âme sera émue de tendresse à la vue du mien ; mon cœur témoignera de la vérité de tes paroles et me fera connaître mon fils. »
