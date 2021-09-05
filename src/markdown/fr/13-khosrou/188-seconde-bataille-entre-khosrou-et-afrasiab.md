@@ -20,7 +20,7 @@ order: '188'
 
 Le quatrième jour, elle se forma en ordre de bataille et ’écume de la rivière monta jusqu’au soleil.
 
-Alrasiab et ses grands, des cavaliers portant haut la tête et pleins de sagesse, occupaient le centre ; à l’aile droite se trouvait Djehn fils d’Afrasiab, qui élevait sa lance au-dessus du soleil ; à l’aile gauche se tenait Thuwurg, le lion du combat, semblable à un loup, entouré de cavaliers expérimentés ; à l’arrière-garde était Guersiwaz, le haineux, qui devait être l’appui de l’armée contre l’ennemi.
+Afrasiab et ses grands, des cavaliers portant haut la tête et pleins de sagesse, occupaient le centre ; à l’aile droite se trouvait Djehn fils d’Afrasiab, qui élevait sa lance au-dessus du soleil ; à l’aile gauche se tenait Thuwurg, le lion du combat, semblable à un loup, entouré de cavaliers expérimentés ; à l’arrière-garde était Guersiwaz, le haineux, qui devait être l’appui de l’armée contre l’ennemi.
 
 Khosrou, de l’autre côté, occupait le centre de l’armée, dont il était le soutien, semblable à une montagne ; il était entouré de Gouderz, de Thous fils de Newder, de Menouschan et Khouzan, les princes victorieux et joyeux, de Gentgain fils de Milad et de Ilehham, le lion, de Hedjir et de Schidousch, le vaillant, le brave ; Feribourz fils de Kaous tenait l’aile droite avec une armée qui ne formait qu’un cœur et un corps ; à l’aile gauche commandait.
 
