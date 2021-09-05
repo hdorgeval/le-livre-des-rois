@@ -158,11 +158,11 @@ Il choisit ensuite dans son entourage un messager, homme intelligent et de bon c
 >
 > Notre sage et éloquent Destour donnera des instructions à notre trésorier pour qu’il remette à tous ceux qui braveront ces dangers cinq tuniques d’étoffe de Perse et qu’ils reçoivent en outre un turban brodé d’or, lorsque la guerre sera terminée.
 >
-> Dans ces jours désastreux et sombres, tous ceux qui serviront avec fidélité notre cause recevront, en surcroît de leur solde de service, un de ces dirhems qui valent soixante dirhems du poids de dix dangs, sur lesquels on lit cette inscription, d’un côté :
+> Dans ces jours désastreux et sombres, tous ceux qui serviront avec fidélité notre cause recevront, en surcroît de leur solde de service, un de ces dirhems qui valent soixante dirhems du poids de dix dangs, sur lesquels on lit cette inscription, d’un côté : 
 >
 > > Au nom du Dieu par qui donne l’espérance et la crainte !
 >
-> De l’autre, autour de notre effigie couronnée :
+> De l’autre, autour de notre effigie couronnée : 
 >
 > > C’est notre amour qui féconde la terre. »
 
