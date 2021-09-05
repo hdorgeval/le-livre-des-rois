@@ -36,17 +36,17 @@ Keïderousch lui conta tout ce qui lui était arrivé, il lui conta, les joues p
 
 -n’y avait plus ni diadème, ni trône, ni armée, ni trésor.
 
-L’homme qui va arriver m’a sauvé, moi et me femme, des mains d’Iskender fils de Pheïlekous, qui avait déjà ordonné de me trancher la tête fret de brûler mon corps.
+L’homme qui va arriver m’a sauvé, moi et ma femme, des mains d’Iskender fils de Pheïlekous, qui avait déjà ordonné de me trancher la tête fret de brûler mon corps.
 
 Maintenant fais pour lui gracieusement tout ce qu’il te demandera et ne démens pas mes promesses par ta réponse. »
 
-A ce récit de son fils, le cœur de Keïdafeh fut bouleversé de douleur.
+À ce récit de son fils, le cœur de Keïdafeh fut bouleversé de douleur.
 
 Elle envoya chercher le messager dans son palais, le fit asseoir sur le siège destiné aux plus nobles, le reçut bien et lui adressa beaucoup de questions.
 
 Elle lui fit préparer une demeure somptueuse et lui envoya de la nourriture de toute espèce, des vêtements et des tapis.
 
-Il se reposa cette nuit,-et le lendemain de grand matin il se rendit à la cour de la reine pour lui faire visite.
+Il se reposa cette nuit,-et le lendemain de grand matin, il se rendit à la cour de la reine pour lui faire visite.
 
 Les serviteurs levèrent le rideau et le laissèrent passer à cheval par la grande porte.
 
@@ -56,17 +56,17 @@ Iskender s’approcha de la reine et baisa la terre, à la manière des courtisa
 
 Fit accueil, lui adressa beaucoup de questions et le fit asseoir.
 
-Lorsque le soleil brillant eut disparu du ciel et que le temps de l’audience pour les étrangers fut passé, elle fil. dresser des tableset demanda des musiciens et du vin.
+Lorsque le soleil brillant eut disparu du ciel et que le temps de l’audience pour les étrangers fut passé, elle fil. dresser des tables et demanda des musiciens et du vin.
 
 On plaça dans toute la salle des tables de bois de teck garnies de boutons d’or et incrustées d’ivoire ; on servit des mets innombrables et quand les mets furent mangés, on apporta du vin.
 
-Keïdafeh fit placer sur les tables des coupes d’or et d’argent,.et ses hôtes commencèrent par boireà sa santé.
+Keïdafeh fit placer sur les tables des coupes d’or et d’argent,.et ses hôtes commencèrent par boire à sa santé.
 
-Pendant qu’ils étaient à boireldu vin, la noble reine regarda Iskender plus attentivement, puis elle dit à son trésorier :
+Pendant qu’ils étaient à boire du vin, la noble reine regarda Iskender plus attentivement, puis elle dit à son trésorier :
 
-> Apporte-moi, telle qu’elle est, cette brillante pièce de soie sur laqùelle est peint un portrait qui charme les cœurs, mais ne le touche pas rudement avec la main. »
+> Apporte-moi, telle qu’elle est, cette brillante pièce de soie sur laquelle est peint un portrait qui charme les cœurs, mais ne le touche pas rudement avec la main. »
 
-Le trésorier l’apporta et le plaça devant elle et elle l’étudia avec une attention extrême, puis elle regarda bien Iskender et ne vit pasde dill’érence entre lui et le portrait.
+Le trésorier l’apporta et le plaça devant elle et elle l’étudia avec une attention extrême, puis elle regarda bien Iskender et ne vit pas de dill’érence entre lui et le portrait.
 
 Keïdafeh reconnut alors que c’était le Kaïsar, maître de cette armée glorieuse, qui s’était fait son propre envoyé et était venu bravement à cette cour.
 
@@ -74,11 +74,11 @@ Elle dit :
 
 > Ô homme puissant !
 >
-> Viens ici nous sdirc’le message d’Iskender. »
+> Viens ici nous dire le message d’Iskender. »
 
 Il répondit :
 
-> Le roi du monde m’a parlé en présence des grands du pays et m’a chargé de dire à Keïdafeh,. la reine au cœur pur :
+> Le roi du monde m’a parlé en présence des grands du pays et m’a chargé de dire à Keïdafeh, la reine au cœur pur :
 
 > Ne recherche dans le monde que la droite turc.
 >
@@ -96,7 +96,7 @@ Il répondit :
 Elle lui dit :
 
 > Maintenant rentre dans ton palais et repose-toi avec tes .
-amis.
+> amis.
 >
 > Quand tu viendras demain, je te donnerai ’. ma réponse et j’aviserai à ton retour. »
 
