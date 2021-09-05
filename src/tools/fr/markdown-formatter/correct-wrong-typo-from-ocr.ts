@@ -1714,6 +1714,9 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ règnem/g, ' règne. » '),
     (content: string) => content.replace(/ dill’érence /g, ' différence '),
     (content: string) => content.replace(/Au moment ou /g, 'Au moment où '),
+    (content: string) => content.replace(/ resle /g, ' reste '),
+    (content: string) => content.replace(/ d’Alrasiah/g, ' d’Afrasiab'),
+    (content: string) => content.replace(/A partir de /g, 'À partir de '),
   ].forEach((format) => {
     result = format(result);
   });

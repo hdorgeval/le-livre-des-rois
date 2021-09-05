@@ -1066,6 +1066,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/DES BOlS\./g, ''),
     (content: string) => content.replace(/DES Bols\./g, ''),
     (content: string) => content.replace(/KHOSBOU PAfiVlZ\./g, ''),
+    (content: string) => content.replace(/KEÎ KH-t\)SR0U\./g, ''),
     (content: string) => content.replace(/KEI nous/g, ''),
     (content: string) => content.replace(/DES ROISE/g, ''),
     (content: string) => content.replace(/LE LlVllE /g, ''),
