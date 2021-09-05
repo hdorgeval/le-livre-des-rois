@@ -79,11 +79,7 @@ Bendouî répondit :
 
 > Ô roi, ne te mets pas en peine de Bahram ; il ne peut pas voir la poussière que nous faisons lever sur la route, puisque son drapeau sombre est encore j loin.
 >
-> Mais voici ce que disent tes amis : Nous n’avons pas de raisons de courir comme toi, car si Djoubineh entre dans le palais du roi, il donnera à l’instant à Hormuzd la couronne et le trône, il s’assiéra à côté de lui comme Destour et jettera
->
-> KHOSBOU PAfiVlZ.
->
-> dans la mer un hameçon qui produira son effet.
+> Mais voici ce que disent tes amis : Nous n’avons pas de raisons de courir comme toi, car si Djoubineh entre dans le palais du roi, il donnera à l’instant à Hormuzd la couronne et le trône, il s’assiéra à côté de lui comme Destour et jettera dans la mer un hameçon qui produira son effet.
 >
 > Ils écriront au nom du roi une lettre au Kaîsar pour dire que ce vil esclave (toi) s’est enfui de ce pays et qu’il ne faut pas qu’il reste tranquille dans le Roum ; car chaque fois qu’il a pu faire ses volontés, il nous a causé du dommage et des embarras.
 >
