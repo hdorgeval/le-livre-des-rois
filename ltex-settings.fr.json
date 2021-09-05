@@ -482,7 +482,76 @@
       "Kerkesars",
       "Sejestani",
       "Ghouri",
-      "Nischapour"
+      "Nischapour",
+      "Newend",
+      "Khorrad",
+      "Schahd",
+      "Sarakhs",
+      "argalis",
+      "Alkous",
+      "Touz",
+      "Semengan",
+      "Tehmimeh",
+      "Keriman",
+      "bedrehs",
+      "Sipehbeds",
+      "Gurdaferid",
+      "Segsar",
+      "Dolaf",
+      "Deïlemite",
+      "Warrak",
+      "Housein",
+      "Kotaïba",
+      "Kharadj",
+      "Sefendarmed",
+      "Ard",
+      "Barsam",
+      "Oxus",
+      "Farab",
+      "semoum",
+      "Merve",
+      "Katchgar",
+      "Boukhara",
+      "Nakhscheb",
+      "Hérat",
+      "Amouï",
+      "Guersioun",
+      "Khourdad",
+      "mah",
+      "Zark",
+      "Bust",
+      "Schemiran",
+      "Rouïndiz",
+      "Radeh",
+      "Kouh",
+      "Kelat",
+      "Meïdans",
+      "Pyrées",
+      "Newrouz",
+      "Altounieh",
+      "Keschemegan",
+      "Goumbedin",
+      "Lajeverdin",
+      "Kherbeneh",
+      "Thaïef",
+      "Bactriane",
+      "dangs",
+      "Mihregan",
+      "Kerkh",
+      "Faghour",
+      "Barsom",
+      "Ferayin",
+      "Schobah",
+      "haschémite",
+      "Koran",
+      "Moghaïra",
+      "Wakhas",
+      "Kadesiah",
+      "Mirouï",
+      "Thabaristan",
+      "Ermeni",
+      "Gulbouï",
+      "Bekr"
     ]
   },
   "hiddenFalsePositives": {
@@ -1430,6 +1499,70 @@
       {
         "rule": "ADRESSER_UN_PROBLEME",
         "sentence": "^\\QL'esprit du roi s'occupa continuellement des moyens de s'élever sans ailes dans les airs ; il adressa beaucoup de questions aux savants sur la distance qui est entre la terre et le ciel de la lune.\\E$"
+      },
+      {
+        "rule": "AGREEMENT_POSTPONED_ADJ",
+        "sentence": "^\\QSi tu t'élèves de la largeur d'une main plus haut que tu ne dois, tu es entièrement rebelle envers Dieu.\\E$"
+      },
+      {
+        "rule": "VOIE_VOIX",
+        "sentence": "^\\QDe chaque province vint un grand de haut renom, portant sur sa tête une couronne puissante ; ils se rendirent à la cour de Kaous, renoncèrent à la révolte et rentrèrent dans la voie de l'obéissance.\\E$"
+      },
+      {
+        "rule": "QUI_VCONJ",
+        "sentence": "^\\QÔ héros de grand renom, ô puissants guerriers qui portez haut la tête, sans doute Afrasiab a reçu maintenant de nos nouvelles : il ne faut pas que ce méchant aux desseins funestes concerte un plan avec ses grands pleins de fierté, prépare un moyen de nous détruire et vienne nous surprendre et rendre étroites à nos guépards les plaines on ils chassent.\\E$"
+      },
+      {
+        "rule": "QUI_VCONJ",
+        "sentence": "^\\QÔ héros de grand renom, ô puissants guerriers qui portez haut la tête, sans doute Afrasiab a reçu maintenant de nos nouvelles : il ne faut pas que ce méchant aux desseins funestes concerte un plan avec ses grands pleins de fierté, prépare un moyen de nous détruire et vienne nous surprendre et rendre étroites à nos guépards les plaines où ils chassent.\\E$"
+      },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QTu as fait du Div l'ami de ton cœur, tu es devenu rebelle envers Dieu.\\E$"
+      },
+      {
+        "rule": "D_N",
+        "sentence": "^\\QLivre-toi à l'adoration et à la prière, prépare-toi pour le dernier jour : tu n'auras pas à te plaindre de ce que fait Dieu, si le Div n'est pas le compagnon de ton âme.\\E$"
+      },
+      {
+        "rule": "ETRE_VPPA_OU_ADJ",
+        "sentence": "^\\QTrois de la troupe étaient morts et le courageux Raksch n'était pas encore lié ; mais ils jetèrent sur lui leurs lacets de tous côtés et prirent sa tête dedans ; ils le saisirent et le menèrent en courant à la ville, où chacun voulait tirer parti de lui.\\E$"
+      },
+      {
+        "rule": "ADRESSER_UN_PROBLEME",
+        "sentence": "^\\QIl alla auprès de sa mère et lui adressa une question, en lui disant audacieusement :\\E$"
+      },
+      {
+        "rule": "AN_ANNEE",
+        "sentence": "^\\QPendant trente-cinq années passées dans ce monde périssable, je me suis épuisé en efforts pour obtenir une récompense ; mais ces efforts ont été stériles et ces trente-cinq années n'ont rien produit.\\E$"
+      },
+      {
+        "rule": "AN_ANNEE",
+        "sentence": "^\\QSoixante années avaient passé sur me tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l'histoire des rois et plus mon étoile ralentissait sa marche.\\E$"
+      },
+      {
+        "rule": "AN_ANNEE",
+        "sentence": "^\\QSoixante années avaient passé sur ma tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l'histoire des rois et plus mon étoile ralentissait sa marche.\\E$"
+      },
+      {
+        "rule": "QUI_VCONJ",
+        "sentence": "^\\QEn présence des vieillards, des sages et des seigneurs qui sont les chefs du pays, vous ferez déposer deux registres dans les forteresses ; vous donnerez l'un à mon trésorier et garderez l'autre par devers vous, ô nobles qui composez le conseil.\\E$"
+      },
+      {
+        "rule": "FRENCH_WHITESPACE",
+        "sentence": "^\\Q^1: Le Tigre\\E$"
+      },
+      {
+        "rule": "FRENCH_WHITESPACE",
+        "sentence": "^\\Q^1: cet épisode est tiré de la Vie de Zoroastre, traduit, de l'orignal Zend du Zend-Avesta, par Anquetil du Perron en 1760.\\E$"
+      },
+      {
+        "rule": "AGREEMENT_POSTPONED_ADJ",
+        "sentence": "^\\QIl passa toute la nuit plongé dans ses réflexions ; lorsque le soleil brillant se montra, Rustem, avide de combats, partit en toute hâte, emmenant sous ses ordres les hommes les plus nobles et tous ceux qui étaient prudents et Trente mois s'écoulèrent de la sorte.\\E$"
+      },
+      {
+        "rule": "FRENCH_WHITESPACE",
+        "sentence": "^\\Q^1: Il y a ici sans doute une allusion à la dynastie des Abbassides, dont le noir était la couleur officielle.\\E$"
       }
     ]
   }
