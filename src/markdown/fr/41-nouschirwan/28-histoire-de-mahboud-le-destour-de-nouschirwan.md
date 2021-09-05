@@ -48,13 +48,14 @@ Le nom de cet honnête homme était Mahboud, son esprit et son cœur étaient re
 
 Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou quand il demandait à un Mobed le barsom.
 
-Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a ! 
+Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a !
+
 H
 deux jeunes gens illustres et purs portaient les mets chez le roi.
 
 Les grands de la cour versaient des larmes par jalousie contre Mahboud.
 
-Il y avait surtout un grand du nom de Zerwan, qui voulait régner â la cour du roi ; il était vieux, chambellan duroi et intendant des fêtes et du palais.
+Il y avait surtout un grand du nom de Zerwan, qui voulait régner â la cour du roi ; il était vieux, chambellan du roi et intendant des fêtes et du palais.
 
 Toute l’année son visage était inondé de larmes à cause de Mahboud et de ses fils et il cherchait un prétexte pour irriter le roi contre ces hommes sans reproche ; mais il ne trouvait pas moyen de parler mal d’eux et de leur aliéner l’esprit de Nouschirwan.
 
@@ -64,7 +65,7 @@ Or, un jour, un Juif emprunta à Zerwan de l’argent pour le faire valoir ; il 
 
 Étant devenu familier avec le chambellan du roi, il fréquentait le palais des Chosroès.
 
-Un jour il parla, en secret de la cour et du roi du monde,à.
+Un jour, il parla, en secret de la cour et du roi du monde,à.
 
 Zerwan d’incantations, de sorcelleries, d’arts secrets de magie, d’actes iniques et servant les mauvaises intentions.
 
@@ -92,7 +93,7 @@ Il se passa ainsi quelque temps et l’instigateur de mauvaises pensées prit l�
 
 Les deux fils de Mahboud se rendaient gaiement tous les matins chez le roi.
 
-Dans l’appartement des femmes de l’illustre Mahboud était une femme honnête et intelligente, qui arrangeait, quand le roi Kesra demandait son dîner, un plateau d’or, plaçait dessus trois assiettes en pierres fines et les recouvrait d’une serviette de tissu d’or ; le plateau parvenait alors au grand roi par les mains des deux fils de cet . homme respecté.
+Dans l’appartement des femmes de l’illustre Mahboud était une femme honnête et intelligente, qui arrangeait, quand le roi Kesra demandait son dîner, un plateau d’or, plaçait dessus trois assiettes en pierres fines et les recouvrait d’une serviette de tissu d’or ; le plateau parvenait alors au grand roi par les mains des deux fils de cet homme respecté.
 
 Les mets étaient composés dé miel, de lait et d’eau de rose ; le roi en mangeait, puis allait Se reposer.
 
@@ -122,8 +123,7 @@ Les deux jeunes gens intelligents et à l’esprit ouvert placèrent la table de
 >
 > Le cuisinier a mêlé du poison avec ton lait ; puissent tes ennemis avoir leur part de ce venin ! »
 
-Nouschirwan en entendant ces paroles eta un regard plein de sérénité sur les jeunes gens, car c’était leur mère qui lui préparait son dî-
-ner, une femme intelligente et pleine d’amour pour eux.
+Nouschirwan en entendant ces paroles jeta un regard plein de sérénité sur les jeunes gens, car c’était leur mère qui lui préparait son dîner, une femme intelligente et pleine d’amour pour eux.
 
 Les jeunes gens, dans leur innocence et leur droiture, replièrent les manches sur le dos de leurs mains, mais aussitôt qu’ils eurent goûté de ce miel et de ce lait, on aurait dit qu’ils avaient été frappés par des flèches :
 
