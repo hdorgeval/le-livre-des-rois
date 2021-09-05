@@ -1710,6 +1710,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Bustern /g, ' Rustem '),
     (content: string) => content.replace(/ s’élance vers /g, ' s’élança vers '),
     (content: string) => content.replace(/A ce /g, 'À ce '),
+    (content: string) => content.replace(/Alrasiab /g, 'Afrasiab '),
+    (content: string) => content.replace(/ règnem/g, ' règne. » '),
+    (content: string) => content.replace(/ dill’érence /g, ' différence '),
+    (content: string) => content.replace(/Au moment ou /g, 'Au moment où '),
   ].forEach((format) => {
     result = format(result);
   });
