@@ -1,14 +1,33 @@
 ---
 lastUpdate: '2021-09-03'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 46
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Combat de Pilsem contre les Iraniens | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Bahram',
+    'Gourazeh',
+    'Gourguin',
+    'Guiv',
+    'Iran',
+    'Iraniens',
+    'Kustehem',
+    'Pilsem',
+    'Piran',
+    'Rustem',
+    'Schaweran',
+    'Thous',
+    'Touran',
+    'Touraniens',
+    'Wiseh',
+    'Zengueh',
+  ]
 order: '028'
 ---
 
@@ -24,7 +43,7 @@ Il accourut, la tête pleine du désir de combattre, le cœur rempli d’impatie
 
 > Je suis jeune, je suis un des braves de l’armée ; Thous le guerrier, Guiv le héros, ce lion couvert de gloire, Bahram et Zengueh fils de Schaweran et Gourazeh toujours prêt pour le combat, ne sont devant moi que de la poussière.
 >
-> Si le roi me le permet, je me jetterai courageusement comme un lion au milieu des braves ; avec mon épée, je séparerai de leurs corps les têtes des princes ; je couvrirai leur lune d’un brouillard ; je traînerai la couronne des grands dans la poussière ; je trancherai leurs têtes avec l’épée du combat. »
+> Si le roi me le permet, je me jetterai courageusement comme un lion au milieu des braves ; avec mon épée, je séparerai de leurs corps les têtes des princes ; je couvrirai leur lune d’un brouillard ; je traînerai la couronne des grands dans la poussière ; je trancherai leurs têtes avec l’épée du combat.
 
 Le roi lui répondit :
 
@@ -32,7 +51,7 @@ Le roi lui répondit :
 >
 > Puisses-tu être victorieux !
 >
-> Puisses-tu être heureux dans cette lutte et en revenir vainqueur et couvert de gloire ! »
+> Puisses-tu être heureux dans cette lutte et en revenir vainqueur et couvert de gloire !
 
 Pilsem ayant entendu les paroles du roi, poussa un cri pareil au son de la trompette d’airain, il se précipita sur le centre de l’armée des Iraniens, comme la poussière qui vole devant l’orage et frappa à droite et à gauche avec la massue et l’épée du combat ; il courut plus vite que le vent et se jeta sur Gourguin rugissant comme un lion en fureur ; il frappa de l’épée le cheval de Gourguin sur la tête et la douleur de la blessure fit tomber le cheval.
 
@@ -60,7 +79,7 @@ Il dit à Guiv :
 
 > Ô guerriers illustres !
 >
-> Vous n’avez point d’honneur dans le combat, puisque quatre braves se réunissent contre un héros renommé semblable à un lion. »
+> Vous n’avez point d’honneur dans le combat, puisque quatre braves se réunissent contre un héros renommé semblable à un lion.
 
 Il dit et attaqua les guerriers pleins d’orgueil et la poussière noire s’éleva sur le champ de bataille.
 
