@@ -1708,6 +1708,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Sâsânides/g, 'Sasanides'),
     (content: string) => content.replace(/de Bey /g, 'de Rey '),
     (content: string) => content.replace(/ Bustern /g, ' Rustem '),
+    (content: string) => content.replace(/ s’élance vers /g, ' s’élança vers '),
+    (content: string) => content.replace(/A ce /g, 'À ce '),
   ].forEach((format) => {
     result = format(result);
   });

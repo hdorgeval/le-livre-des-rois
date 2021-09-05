@@ -29,6 +29,7 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/toutsaint/, 'tout-saint'),
     (content: string) => content.replace(/arrièregarde/, 'arrière-garde'),
     (content: string) => content.replace(/> A0/, '> '),
+    (content: string) => content.replace(/ A7 /, ' '),
   ].forEach((format) => {
     result = format(result);
   });
