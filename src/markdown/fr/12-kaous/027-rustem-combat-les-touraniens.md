@@ -1,14 +1,39 @@
 ---
 lastUpdate: '2021-09-03'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 44
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Rustem combat les touraniens | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'âme',
+    'Bahram',
+    'Berzin',
+    'Chine',
+    'Ferhad',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Iran',
+    'Iraniens',
+    'Keschwad',
+    'Pehlewan',
+    'Piran',
+    'Raksch',
+    'Rustem',
+    'Schaweran',
+    'Tenant',
+    'Thous',
+    'Touran',
+    'Touraniens',
+    'Wiseh',
+    'Zengueh',
+  ]
 order: '027'
 ---
 
@@ -20,9 +45,9 @@ Guiv adressa alors au Pehlewan ces paroles :
 
 > Ô toi qui fais la gloire du roi et des braves !
 >
-> Je pars pour couper le chemin a Afrasiab et ne veux pas attendre qu’il ait traversé le fleuve.
+> Je pars pour couper le chemin à Afrasiab et ne veux pas attendre qu’il ait traversé le fleuve.
 >
-> J’occuperai la tête du pont pour la défendre contre ce méchant ; je l’arrêterai pendant quelque temps sur l’autre rive du fleuve, afin que les braves puissent se revêtir de leurs armes ; car le temps du plaisir et des propos joyeux est passé pour nous. »
+> J’occuperai la tête du pont pour la défendre contre ce méchant ; je l’arrêterai pendant quelque temps sur l’autre rive du fleuve, afin que les braves puissent se revêtir de leurs armes ; car le temps du plaisir et des propos joyeux est passé pour nous.
 
 Il courut vers le pont, après avoir assujetti à la corde les deux bouts de l’arc.
 
@@ -54,9 +79,9 @@ Tandis que les yeux des Touraniens s’obscurcissaient et que Rustem élevait so
 >
 > Tourne encore une fois avec vigueur les rênes de ton cheval contre les Iraniens ; va et délivre d’eux ce pays.
 >
-> Si tu peux les vaincre, l’Iran t’appartiendra ; car tu as le corps d’un éléphant et la griffe d’un lion. »
+> Si tu peux les vaincre, l’Iran t’appartiendra ; car tu as le corps d’un éléphant et la griffe d’un lion.
 
-Piran, à ces paroles d’Afrasiab, s’élança du milieu des grands,’tel qu’un ouragan.
+Piran, à ces paroles d’Afrasiab, s’élança du milieu des grands, tel qu’un ouragan.
 
 Il secoua les rênes de son cheval, lui et dix mille guerriers turcs, hommes de cœur et armés d’épées et il s’élança comme une flamme vers Rustem au corps d’éléphant, de qui dépendait la victoire ou la défaite de l’armée.
 
@@ -70,4 +95,4 @@ Afrasiab l’observait de loin et il dit à ses guerriers de grand renom :
 >
 > C’est un combat qu’il ne fallait pas engager.
 >
-> Nous sommes venus lutter contre les braves du pays d’Iran ; quand nous avons délibéré, nous nous sommes crus des lions ; mais maintenant, voyant que nous sommes trop faibles, il faut nous confier aux ruses du renard. »
+> Nous sommes venus lutter contre les braves du pays d’Iran ; quand nous avons délibéré, nous nous sommes crus des lions ; mais maintenant, voyant que nous sommes trop faibles, il faut nous confier aux ruses du renard.
