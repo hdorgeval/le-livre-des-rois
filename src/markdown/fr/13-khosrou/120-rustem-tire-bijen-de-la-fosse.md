@@ -100,7 +100,7 @@ Le prudent Aschkesch, qui veillait toujours au salut de l’armée, se mit en ro
 >
 > Toi, pars avec Menijeh ; car je vais détruire le Touran avec mon épée tranchante et tu es trop exténué par les chaînes et le cachot pour assister à ce combat. »
 
-A ce conseil que lui donnait Rustem de partir avec Menijeh et de rentrer dans son pays, Bijen répondit :
+À ce conseil que lui donnait Rustem de partir avec Menijeh et de rentrer dans son pays, Bijen répondit :
 
 > le marcherai à votre tête, si vous
 >
