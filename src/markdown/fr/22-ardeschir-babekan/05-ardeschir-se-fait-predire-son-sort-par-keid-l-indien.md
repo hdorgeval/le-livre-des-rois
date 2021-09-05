@@ -66,7 +66,7 @@ ajouta :
 
 V Le messager revint auprès du roi et lui dit ce qu’il avait entendu de la bouche du sage.
 
-A ce message, le cœur d’Ardeschir se remplit de douleur et sa joue devint jaune comme le curcuma.
+À ce message, le cœur d’Ardeschir se remplit de douleur et sa joue devint jaune comme le curcuma.
 
 Il dit au messager :
 
@@ -82,4 +82,4 @@ Mais la fille de Mihrek l’ayant appris, se leva, quitta la maison de son père
 
 Elle grandit comme un cyprès élancé et devint intelligente, gracieuse et pleine de dignité.
 
-Dans ce pays elle n’avait pas son égale et dans toute la région il n’y avait pas de femme à taille de cyprès comme elle.
+Dans ce pays, elle n’avait pas son égale et dans toute la région, il n’y avait pas de femme à taille de cyprès comme elle.
