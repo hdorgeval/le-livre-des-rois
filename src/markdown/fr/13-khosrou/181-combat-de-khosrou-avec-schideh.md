@@ -20,7 +20,7 @@ Lorsque le voile azuré du ciel fut éclairé et que le monde fut devenu semblab
 
 Lorsqu’il fut arrivé auprès des Iraniens, un des grands accourut vers le roi et lui dit :
 
-> Un cavalier s’est avancé entre les deux armées, haut la tête, poussantvdes cris et l’épée à la main.
+> Un cavalier s’est avancé entre les deux armées, haut la tête, poussant des cris et l’épée à la main.
 >
 > Ce guerrier illustre et prompt à frapper demande qu’on annonce au roi que Pescheng est arrivé. »
 
@@ -38,7 +38,7 @@ Le roi, armé de sa cuirasse, de sa massue et de son casque, leur envoya le mess
 >
 > Que personne ne quitte le camp royal, ni la droite ni la gauche, ni le centre ni ses ailes ; que personne ne recherche le combat ni ne s’agite ; que tous obéissent à Behham fils de Gouderz.
 >
-> Quand le soleil sera arrivé au faîte du ciel, vous irez voir sur qui le malheur est tombé et si,vous trouvez que c’est Pescheng qui est vainqueur, Rustem aura la direction de la s guerre ; soyez tous devant lui comme des esclaves obéissants et vous trouverez bientôt un remède à votre douleur ; car les moyens de salut et les combats sont faciles pour une armée qui a un chef comme lui.
+> Quand le soleil sera arrivé au faîte du ciel, vous irez voir sur qui le malheur est tombé et si vous trouvez que c’est Pescheng qui est vainqueur, Rustem aura la direction de la s guerre ; soyez tous devant lui comme des esclaves obéissants et vous trouverez bientôt un remède à votre douleur ; car les moyens de salut et les combats sont faciles pour une armée qui a un chef comme lui.
 >
 > Ainsi ne laissez pas vos cœurs se resserrer : tel est le commencement et la fin des guerres, que tantôt on est en haut et tantôt en bas, tantôt on est dans la joie et tantôt dans la terreur. »
 
@@ -50,9 +50,7 @@ Schideh, qui se tenait entre les deux camps, l’aperçut ; il poussa de sa poit
 
 > Tu es le fils du noble Siawusch, ô homme sage et admiré !
 >
-> Tu es le petit-fils du chef de l’armée de Touran, dont le casque froisse la sphère de la lune ; mais tu n’agis pas comme on devrait l’at-
->
-> (Il : tendre d’un homme qui a de l’expérience et qui a été nourri par la sagesse ; car si tu avais du sens, tu ne serais pas si impatient d’attaquer le frère de la mère.
+> Tu es le petit-fils du chef de l’armée de Touran, dont le casque froisse la sphère de la lune ; mais tu n’agis pas comme on devrait l’attendre d’un homme qui a de l’expérience et qui a été nourri par la sagesse ; car si tu avais du sens, tu ne serais pas si impatient d’attaquer le frère de la mère.
 >
 > Mais si tu veux combattre, éloigne-toi des armées ; choisis un lieu écarté, pour que ni Iraniens ni Touraniens ne nous voient, car nous ne vouions pas d’amis ni d’aides. »
 
@@ -63,7 +61,7 @@ Le roi lui répondit :
 >
 > Je suis le fils de cet innocent Siawusch qui fut tué par le roi et mon cœur est ulcéré ; je suis venu sur cette plaine pour me venger,’et non pas pour conquérir un trône et un sceau.
 >
-> Tu m’as prouvoqué au combat, moi seul de tous, comme tu en avais pris l’engagement devant ton père ; lu m’as provoqué et personne n’est d’un rang assez élevé pour que j’ose l’envoyer à la rencontre.
+> Tu m’as provoqué au combat, moi seul de tous, comme tu en avais pris l’engagement devant ton père ; lu m’as provoqué et personne n’est d’un rang assez élevé pour que j’ose l’envoyer à la rencontre.
 >
 > Maintenant désigne un champ de bataille loin de nos armées.
 >
@@ -71,11 +69,7 @@ Le roi lui répondit :
 >
 > Ils s’éloignèrent ensemble de leurs armées, joyeux comme des hommes qui vont à une fête et choisirent, dans une plaine propre au combat et faisant partie du désert de Kharizm, un lieu si stérile et si dépourvu d’eau que les lions et les léopards n’y mettaient pas le pied, que les aigles n’y traversaient pas le ciel ; c’était en bas un désert stérile, en haut un mirage.
 >
-> La ils commencèrent un
->
->
->
-> L5 grand combat : c’étaient deux chevaux et deux braves semblables à des loups, deux cavaliers pareils à des lions affamés et pleins de rage au jour de la chasse.
+> La ils commencèrent un grand combat : c’étaient deux chevaux et deux braves semblables à des loups, deux cavaliers pareils à des lions affamés et pleins de rage au jour de la chasse.
 >
 > Ils s’attaquèrent avec leurs longues lances et lorsque le soleil devint plus ardent dans le ciel, leurs lances n’avaient plus de fer et les caparaçons et les rênes de leurs chevaux étaient trempés de sueur.
 >
@@ -127,11 +121,7 @@ De l’autre côté,l’interprète de Schideh s’approcha de lui et lui dit :
 >
 > Tu n’as d’autre parti que de t’en retourner, car tu ne peux résister à Khosrou.
 >
-> S’enl’uir à temps devant l’ennemi vant
->
->
->
-> A7 mieux que d’affronter les coups et le bruit et le tumulte de la bataille. »
+> S’enfuir à temps devant l’ennemi vaut mieux que d’affronter les coups et le bruit et le tumulte de la bataille. »
 
 Schideh répondit à son illustre interprète :
 
