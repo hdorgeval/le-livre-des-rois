@@ -66,7 +66,7 @@ Pendant qu’ils étaient à boire du vin, la noble reine regarda Iskender plus 
 
 > Apporte-moi, telle qu’elle est, cette brillante pièce de soie sur laquelle est peint un portrait qui charme les cœurs, mais ne le touche pas rudement avec la main. »
 
-Le trésorier l’apporta et le plaça devant elle et elle l’étudia avec une attention extrême, puis elle regarda bien Iskender et ne vit pas de dill’érence entre lui et le portrait.
+Le trésorier l’apporta et le plaça devant elle et elle l’étudia avec une attention extrême, puis elle regarda bien Iskender et ne vit pas de différence entre lui et le portrait.
 
 Keïdafeh reconnut alors que c’était le Kaïsar, maître de cette armée glorieuse, qui s’était fait son propre envoyé et était venu bravement à cette cour.
 
