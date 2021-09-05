@@ -40,11 +40,11 @@ Y De l’autre côté, Thalhend dit devant le front de son armée :
 >
 > Pour que nous soyons victorieux, pour que la rotation des astres nous accorde le fruit du bonheur, tirez tous l’épée de la vengeance, contiez-vous en Dieu et frappez 3M l’ennemi.
 >
-> Si vous rencontrez Gau, ne le tuez pas, ne lui dites pas un mot dur, enlevez-le du dos de son éléphant furieux et amenez-le-moi les mains liées un A ce moment le son des trompettes s’éleva du pavillon de l’enceinte des tentes royales ; les cris des chevaux, la poussière que soulevaient les chefs, le maniement des lourdes massues, remplirent les montagnes et les eaux de bruit ; on aurait dit que le ciel qui tourne reculait ; les clameurs et le fracas des haches d’armes étaient tels que personne ne distinguait plus les pieds des têtes ; les pointes brillantes et les plumes d’aigles des flèches remplissaient tellement l’air que le soleil repliait le pan de sa robe ; le monde devint comme une mer de sang, les têtes et les mains ployaient sous le poids des armes.
+> Si vous rencontrez Gau, ne le tuez pas, ne lui dites pas un mot dur, enlevez-le du dos de son éléphant furieux et amenez-le-moi les mains liées un À ce moment le son des trompettes s’éleva du pavillon de l’enceinte des tentes royales ; les cris des chevaux, la poussière que soulevaient les chefs, le maniement des lourdes massues, remplirent les montagnes et les eaux de bruit ; on aurait dit que le ciel qui tourne reculait ; les clameurs et le fracas des haches d’armes étaient tels que personne ne distinguait plus les pieds des têtes ; les pointes brillantes et les plumes d’aigles des flèches remplissaient tellement l’air que le soleil repliait le pan de sa robe ; le monde devint comme une mer de sang, les têtes et les mains ployaient sous le poids des armes.
 >
 > Les deux princes, fils de roi, s’élancèrent du centre de leurs armées comme des éléphants furieux ; Thalhend et Gau élevèrent la voix et crièrent :
 
-> Écarts-toi du courant d’air que fait naître mon javelot ; ne t’avance pas à combattre ton frère, metstoi en garde contre le mal que je pourrais faire à la vie. »
+> Écarts-toi du courant d’air que fait naître mon javelot ; ne t’avance pas à combattre ton frère, mets-toi en garde contre le mal que je pourrais faire à la vie. »
 
 C’est ainsi qu’ils se dirent l’un à l’autre.
 
@@ -74,7 +74,7 @@ Thalhend écouta ces paroles, il se tordit de honte et son visage fut inondé de
 
 Il quitta le champ de bataille et se rendit àiMargh, où ses troupes se rassemblèrent de tous les côtés.
 
-Il ouvrit la porte de ses trésors, paya la solde, équipa l’armée, lui donna toute satisfaction et para comme il fallait tous ceux qu’il vit. dignes d’une robe d’honneur.
+Il ouvrit la porte de ses trésors, paya la solde, équipa l’armée, lui donna toute satisfaction et para comme il fallait tous ceux qu’il vit dignes d’une robe d’honneur.
 
 Ayant ainsi remis en état ses troupes avec de l’argent et délivré le cœur des braves de leurs soucis, il envoya un message à Gau, disant :
 
@@ -86,9 +86,9 @@ Lorsque Gau reçut ce message brutal, il écarta de son esprit toute tendresse p
 
 > Vois donc cette énormité la Le précepteur répondit :
 
-> Ô roil’tu es l’héritier du trône de ton père, tu es le plus savant de ceux qui étudient, tu es le plus puissant de ceux qui portent une couronne.
+> Ô roi ! tu es l’héritier du trône de ton père, tu es le plus savant de ceux qui étudient, tu es le plus puissant de ceux qui portent une couronne.
 >
-> Il est certain pour moi, d’après la rotation du soleil et de la lune, etje te l’ai déjà dit, que ton frère illustre n’aura de repos et ne cessera de combattre jusqu’à ce qu’il se fasse tuer et se roule dans la poussière sombre, comme un serpent.
+> Il est certain pour moi, d’après la rotation du soleil et de la lune, et je te l’ai déjà dit, que ton frère illustre n’aura de repos et ne cessera de combattre jusqu’à ce qu’il se fasse tuer et se roule dans la poussière sombre, comme un serpent.
 >
 > Quant à toi, ton art dans cette lutte doit être de ne rien précipiter.
 >
@@ -110,7 +110,7 @@ Or ton père était un homme illustre et tu portes un grand nom.
 
 Je vois clairement que tu rejettes mes conseils et que tu repousses mon alliance et pourtant je ne désire qu’une chose, c’est que tu sois grand et mon ami.
 
-Je vaisvdire tout ce qui est dans mon cœur et vers quoi mon âme incline.
+Je vais dire tout ce qui est dans mon cœur et vers quoi mon âme incline.
 
 Un mauvais conseiller a détourné ta tête de la voie facile et du chemin de la raison.
 
@@ -118,17 +118,19 @@ Ne prononce, ô mon frère, que des paroles justes, car ce monde n’est qu’il
 
 Décide-toi pour la paix ; alors je t’enverrai tout ce qui existe de trésors et d’hommes qui te sont dévoués et ton esprit malveillant verra que mon âme n’est remplie que de justice.
 
-Puisse ton cœur ne pas rejeter cette ouverturel Mon intention est telle que je te le fais dire, si tu veux m’écouter dans ton obstination.
+Puisse ton cœur ne pas rejeter cette ouverture !
+
+Mon intention est telle que je te le fais dire, si tu veux m’écouter dans ton obstination.
 
 Mais si tu es déterminé à livrer bataille, si tu n’inclines pas vers l’amitié et une alliance, alors je préparerai mon armée pour le combat, car il faut à mes troupes un grand espace.
 
-Nous nous avancerons de ce pays cultivé, nous conduirons toutes nos troupes sur le bord de la mer, nous creuserons un fossé autour du camp et fermerons la routeà ces hommes avides de combat ; nous jetterons l’eau de la mer dans le fossé et fermerons rapidement les issues de l’eau, pour que ceux qui seront battus ce ne puissent pas s’échapper au-delà du fossé.
+Nous nous avancerons de ce pays cultivé, nous conduirons toutes nos troupes sur le bord de la mer, nous creuserons un fossé autour du camp et fermerons la route à ces hommes avides de combat ; nous jetterons l’eau de la mer dans le fossé et fermerons rapidement les issues de l’eau, pour que ceux qui seront battus ce ne puissent pas s’échapper au-delà du fossé.
 
 Mais ceux de nous qui seront vainqueurs dans la bataille et ne verseront pas du sang dans ce lieu resserré ; ils amèneront toute l’armée prisonnière, mais à Dieu et ne plaise qu’ils emploient les épées et les flèches !
 
 N Le messager partit, courant comme le vent et répéta à Thalhend toutes les paroles de son frère.
 
-Thalhend écouta le message de Gau, ordonna à tous les chefs de son armée de se réunir chez lui, les fit asseoir chacun à la place qui convenait à son rang, leur communiqua la réponse de Gau et dévoila devantaux tout le secret ; puis il parla à ses hommes de guerre de la nouvelle bataille que Gau voulait livrer au bord de l’eau, disant :
+Thalhend écouta le message de Gau, ordonna à tous les chefs de son armée de se réunir chez lui, les fit asseoir chacun à la place qui convenait à son rang, leur communiqua la réponse de Gau et dévoila devant eux tout le secret ; puis il parla à ses hommes de guerre de la nouvelle bataille que Gau voulait livrer au bord de l’eau, disant :
 
 > Qu’en pensez-vous et que faut-il faire pour répondre à son idée ?
 >
@@ -138,11 +140,9 @@ Thalhend écouta le message de Gau, ordonna à tous les chefs de son armée de s
 >
 > Si vous voulez m’assister dans ce combat, le léopard ne s’effrayera pas des cris du renard.
 >
-> Ceux de vous qui cherchent à acquérir de la gloire trouverent dans la possession du monde l’accomplissement de leurs plus grands désirs ; et si l’homme ambitieux tombe glorieusement, cela vaut mieux que s’il vivait, un objet de triomphe pour ses ennemis.
+> Ceux de vous qui cherchent à acquérir de la gloire trouvèrent dans la possession du monde l’accomplissement de leurs plus grands désirs ; et si l’homme ambitieux tombe glorieusement, cela vaut mieux que s’il vivait, un objet de triomphe pour ses ennemis.
 >
-> Maintenant est arrivé le grand jour où l’on verra
->
-> sur le champ de bataille qui est loup et qui est brebis.
+> Maintenant est arrivé le grand jour où l’on verra sur le champ de bataille qui est loup et qui est brebis.
 >
 > Ceux de vous qui montreront de l’ardeur dans le combat agiront en même temps dans leur intérêt, car vous recevrez de moi beaucoup de richesses, des esclaves et des chevaux parés ; on nous rendra hommage dans tous les pays, depuis le Kachmir jusqu’à la mer de Chine et je donnerai toutes ces villes à mon armée, quand je serai le maître et aurai la couronne et le trône. »
 
