@@ -56,10 +56,10 @@ Le roi se mordit les lèvres et jeta un regard sombre surles grands ; ensuite il
 >
 > Où sont donc les combats que nous devions livrer, les serments que nous avons faite, les caisses d’or et les prisonniers que nous voulions prendre, les chaînes que nous avons préparées ?
 >
-> Comment nous excuserions-nous devant Kaous, comment oserions-nous paraître devant lui, si Alrasiab resle en vie et sur son trône comme maître du monde. pendant que l’Iran est dévasté ?
+> Comment nous excuserions-nous devant Kaous, comment oserions-nous paraître devant lui, si Afrasiab resle en vie et sur son trône comme maître du monde pendant que l’Iran est dévasté ?
 >
-> Saistu quel crime a commis Tour contre Iredj le fortuné,
-æ pour lui ravir sa couronne et son trône et ce qu’A-l’rasiab a fait soull’rir à Newder ?
+> Sais-tu quel crime a commis Tour contre Iredj le fortuné,
+> æ pour lui ravir sa couronne et son trône et ce qu’A-l’rasiab a fait soull’rir à Newder ?
 >
 > Puisse-t-il n’être jamais heureux, même en songe !
 >
@@ -128,11 +128,11 @@ Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schid
 
 Le roi ajouta :
 
-> Tu diras ensuite à Schideh : Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets, ltl non pas pour y chercher le renom et la gloire, ni à cause du message d’Alrasiah. mais parce que les mauvaises actions sont impatientes de te détruire.
+> Tu diras ensuite à Schideh : Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets, ltl non pas pour y chercher le renom et la gloire, ni à cause du message d’Alrasiah, mais parce que les mauvaises actions sont impatientes de te détruire.
 >
-> C’est Dieu qui t’a poussé hors de cette armée et ton linceul le servira ici de tombeau ; ce prince innocent, qu’on a égorgé comme un agneau, te pur--tera malheur et ton père versera sur toi des larmes amères comme Kaous en verse sur son fils. »
+> C’est Dieu qui t’a poussé hors de cette armée et ton linceul le servira ici de tombeau ; ce prince innocent, qu’on a égorgé comme un agneau, te portera malheur et ton père versera sur toi des larmes amères comme Kaous en verse sur son fils. »
 
-Karen quitta le roi en toute hâte et se rendit auprès de Pcscheng au drapeau noir, à qui il répéta toutes les paroles qu’on lui avait dites, ne cachant ni le bon ni le mauvais.
+Karen quitta le roi en toute hâte et se rendit auprès de Pescheng au drapeau noir, à qui il répéta toutes les paroles qu’on lui avait dites, ne cachant ni le bon ni le mauvais.
 
 Schideh s’en retourna auprès d’Afrasiab ; son cœur cuisait comme la chair placée sur le l’en.
 
@@ -142,14 +142,14 @@ Le roi des Turcs fut consterné de cette réponse, et, dans sa douleur, il pouss
 
 Ensuite, il dit à Schideh :
 
-> A partir de demain laisse passer deux jours sans parler de combat.
+> À partir de demain laisse passer deux jours sans parler de combat.
 >
 > On dirait que mon âme est brisée par l’idée de cette bataille et je suis si malheureux que je voudrais m’arracher le cœur. »
 
 Son fils répondit :
 
-> Ô roi des Turcs et de la Chinel ne te décourage pas ainsi au jour de la vengeance.
+> Ô roi des Turcs et de la Chine !
 >
-> Lorsque le soleil élèvera son étendard brillant et éclairera la voûte
+> Ne te décourage pas ainsi au jour de la vengeance.
 >
-> [ sombre du ciel, moi et Khosrou nous serons sur le champ de baille et je réduirai ce roi en poussière. n
+> Lorsque le soleil élèvera son étendard brillant et éclairera la voûte sombre du ciel, moi et Khosrou nous serons sur le champ de baille et je réduirai ce roi en poussière. n
