@@ -16,7 +16,7 @@ order: '204'
 
 # Afrasiab passe le lac de Zereh
 
-Afrasiab, à ces paroles, se repentit de ce qu’il Il. avait fait autrefois.
+Afrasiab, à ces paroles, se repentit de ce qu’il avait fait autrefois.
 
 Il renonça aux pompes du pouvoir pour sauver sa vie et prit la route du désert à travers le pays.
 
@@ -41,8 +41,8 @@ Il ordonna à tous ses grands de mettre des barques à l’eau et fit voile vers
 Arrivé à Gangue Diz et se trouvant en sûreté, il se mit à dormir, à festoyer et à se reposer des fatigues de la guerre, disant :
 
 > Restons ici, libres de soucis et dans la joie ; ne pensons plus au passé.
-
-Quand mon étoile obscurcie sera redevenue brillante, je repasserai sur mes vaisseaux le lac de Zereh, je me vengarai de mes ennemis, je jetterai de la gloire sur ma route et sur mon règnem Lorsque Keï Khosrou apprit ce qui s’était passé et que le vieillard avait tenté une nouvelle voie, il dit à Rustem :
+>
+> Quand mon étoile obscurcie sera redevenue brillante, je repasserai sur mes vaisseaux le lac de Zereh, je me vengerai de mes ennemis, je jetterai de la gloire sur ma route et sur mon règnem Lorsque Keï Khosrou apprit ce qui s’était passé et que le vieillard avait tenté une nouvelle voie, il dit à Rustem :
 
 > Afrasiab a passé l’eau et est allé à Gangue Diz.
 >
@@ -77,6 +77,6 @@ Nous sommes venus de l’Iran jusqu’à Gangue et nous n’avons rencontré que
 
 Il faut que Khosrou jouisse de ce qu’il a préparé ; c’est pour cela qu’il est venu ici et pour cela qu’il ira plus loin. »
 
-A ce discours de Rustem, l’armée fit une réponse unanime dans un nouveau sens ; les sages et puissants chefs se levèrent et prononcèrent de bonnes paroles, disant :
+À ce discours de Rustem, l’armée fit une réponse unanime dans un nouveau sens ; les sages et puissants chefs se levèrent et prononcèrent de bonnes paroles, disant :
 
 > Nous tous sommes les esclaves du roi, ses esclaves et ses amis ; le commandement est à toi sur la terre et sur l’eau, nous sommes. tes Sujets et tes féaux. »
