@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 228
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'siawusch-consule-bahram-et-zengueh'
 title: 'Siawusch consulte Bahram et Zengueh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '083'
