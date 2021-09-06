@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 284
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'afrasiab-envoie-guersiwez-aupres-de-siawusch'
 title: 'Afrasiab envoie Guersiwez auprès de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '100'
