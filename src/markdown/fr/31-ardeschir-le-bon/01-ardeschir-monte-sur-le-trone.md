@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 386
 reign: 'Ardeschir le bon'
 reign-slug: 'regne-d-ardeschir-le-bon'
+episode-slug: 'ardeschir-monte-sur-le-trone'
 title: "Ardeschir monte au trône et fait une allocation aux chefs de l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: ['Ardeschir', 'Iran', 'Iraniens', 'Nikoukar', 'Schapour', 'tribut']
 order: '001'
