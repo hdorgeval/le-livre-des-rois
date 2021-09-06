@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 024
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'schenguil-empeche-bahram-de-retourner-en-iran'
 title: 'Schenguil empêche Bahram de retourner en Iran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '033'
