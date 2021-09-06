@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 357
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'lettre-de-rustem-a-saad-fils-de-wakkas'
 title: 'Lettre de Rustem à Saad fils de Wakkas | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
