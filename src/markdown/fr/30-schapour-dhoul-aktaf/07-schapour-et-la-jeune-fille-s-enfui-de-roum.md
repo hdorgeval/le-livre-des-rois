@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 357
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'schapour-et-la-jeune-fille-s-enfui-de-roum'
 title: "Schapour et la jeune fille s'enfuit de Roum et arrivent dans l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '007'
