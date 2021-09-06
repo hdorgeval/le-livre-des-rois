@@ -7,6 +7,7 @@ image: '4jLj-GdRn_A.jpeg'
 source: tome II - livre des rois - P. 457
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'kei-khosrou-distribue-des-tresors-aux-pehlewans'
 title: 'Keï Khosrou distribue des trésors aux Pehlewans | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
