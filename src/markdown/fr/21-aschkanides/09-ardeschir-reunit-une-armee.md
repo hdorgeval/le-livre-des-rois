@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 234
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+episode-slug: 'ardeschir-reunit-une-armee'
 title: 'Ardeschir réunit une armée | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '009'
