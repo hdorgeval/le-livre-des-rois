@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 143
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'lettre-de-khosrou-au-kaisar-sur-sa-victoire'
 title: 'Lettre de Khosrou au Kaïsar sur sa victoire et réponse du Kaïsar | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '030'
