@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 270
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'zal-arrive-aupres-de-sam'
 title: 'Zal arrive auprès de Sam | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
