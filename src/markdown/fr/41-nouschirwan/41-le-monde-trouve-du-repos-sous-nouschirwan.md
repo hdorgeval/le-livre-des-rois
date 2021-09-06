@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 288
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'le-monde-trouve-du-repos-sous-nouschirwan'
 title: 'Le monde trouve du repos sous Nouschirwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '041'
