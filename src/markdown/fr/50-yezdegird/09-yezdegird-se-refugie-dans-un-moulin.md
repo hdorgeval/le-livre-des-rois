@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 379
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'yezdegird-se-refugie-dans-un-moulin'
 title: 'Mahouï Souri incite Bijen à faire la guerre à Yezdegird ; le roi se réfugie dans un moulin | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
