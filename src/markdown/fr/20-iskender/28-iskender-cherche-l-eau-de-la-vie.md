@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 172
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-cherche-l-eau-de-la-vie'
 title: "Iskender cherche l'eau de la vie | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '028'
