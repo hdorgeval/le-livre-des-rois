@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 248
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'bijen-se-rend-a-la-tente-de-menijeh'
 title: 'Bijen se rend à la tente de Menijeh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '102'
