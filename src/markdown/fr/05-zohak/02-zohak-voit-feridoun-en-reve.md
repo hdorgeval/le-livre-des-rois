@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 051
 reign: 'Zohak'
 reign-slug: 'regne-de-zohak'
+episode-slug: 'zohak-voit-feridoun-en-reve'
 title: 'Zohak voit Feridoun en rêve | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
