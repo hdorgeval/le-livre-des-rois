@@ -7,6 +7,7 @@ image: 'MFM8ASk4XNs.jpeg'
 source: tome IV - livre des rois - P. 367
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'guschtasp-s-enfui-devant-ardjasp'
 title: "Guschtasp s'enfuit devant Ardjasp | Le Livre des Rois | Shâhnâmeh"
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
