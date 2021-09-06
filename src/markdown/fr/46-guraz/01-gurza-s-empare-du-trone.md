@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 336
 reign: 'Guraz, appelé Ferayîn'
 reign-slug: 'regne-de-guraz'
+episode-slug: 'gurza-s-empare-du-trone'
 title: "Guraz s'empare du trône | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '001'
