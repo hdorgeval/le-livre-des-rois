@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 438
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'hormuzd-fait-une-allocution-aux-chefs-de-l-armee'
 title: 'Hormuzd monte sur le trône et fait une allocution aux chefs des armées | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Créateur', 'Dieu', 'Herat', 'Hormuzd', 'Khorasan', 'Kischwers', 'Makh', 'Tout-Saint']
 order: '002'
