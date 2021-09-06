@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 297
 reign: 'Kobad fils de Khosrou Parviz'
 reign-slug: 'regne-de-kobad-fils-de-parviz'
+episode-slug: 'reponse-de-khosrou-a-kobad'
 title: 'Réponse de Khosrou Parviz à Kobad | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
