@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 115
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-conduit-son-armee-contre-tour'
 title: 'Iskender conduit son armée à la guerre contre Four | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '013'
