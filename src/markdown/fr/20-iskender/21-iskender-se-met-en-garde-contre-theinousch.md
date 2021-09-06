@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 142
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-se-met-en-garde-contre-theinousch'
 title: 'Iskender se met en garde contre Theïnousch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '021'
