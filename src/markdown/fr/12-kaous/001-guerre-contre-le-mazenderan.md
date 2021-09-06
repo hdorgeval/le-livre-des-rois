@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 384
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'guerre-contre-le-mazenderan'
 title: 'Guerre contre le Mazenderan | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
