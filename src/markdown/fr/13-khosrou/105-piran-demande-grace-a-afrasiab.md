@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 257
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'piran-demande-grace-a-afrasiab'
 title: 'Piran demande grâce à Afrasiab pour la vie de Bijen | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '105'
