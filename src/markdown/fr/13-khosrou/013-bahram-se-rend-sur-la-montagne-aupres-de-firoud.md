@@ -7,6 +7,7 @@ image: 'F8uyQGQlNp8.jpeg'
 source: tome II - livre des rois - P. 484
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'bahram-se-rend-sur-la-montagne-aupres-de-firoud'
 title: 'Bahram se rend sur la montagne auprès de Firoud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
