@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 267
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'afrasiab-donne-une-province-a-siawusch'
 title: 'Afrasiab donne une province à Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '094'
