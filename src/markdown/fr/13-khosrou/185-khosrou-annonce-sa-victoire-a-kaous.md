@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 061
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-annonce-sa-victoire-a-kaous'
 title: 'Khosrou annonce sa victoire à Kaous | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '185'
