@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 255
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'nouschirwan-part-pour-la-guerre-contre-le-khakan'
 title: 'Nouschirwan part pour la guerre contre le Khakan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '033'
