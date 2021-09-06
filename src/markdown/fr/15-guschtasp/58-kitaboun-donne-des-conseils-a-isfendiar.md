@@ -7,6 +7,7 @@ image: 'IU-qCwVJuR4.jpeg'
 source: tome IV - livre des rois - P. 461
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'kitaboun-donne-des-conseils-a-isfendiar'
 title: 'Kitaboun donne des conseils à Isfendiar | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
