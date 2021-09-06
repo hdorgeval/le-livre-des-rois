@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 210
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'zal-consulte-les-mobeds-au-sujet-de-roudabeh'
 title: 'Zal consulte les Mobeds au sujet de Roudabeh | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
