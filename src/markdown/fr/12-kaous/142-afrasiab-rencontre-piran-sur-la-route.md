@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 412
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'afrasiab-rencontre-piran-sur-la-route'
 title: 'Piran rencontre Afrasiab sur la route | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '142'
