@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 376
 reign: 'Keïkobad'
 reign-slug: 'regne-de-kobad'
+episode-slug: 'pescheng-demande-la-paix-a-keikobad'
 title: 'Pescheng demande la paix à Keïkobad | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
