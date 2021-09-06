@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 095
 reign: 'Kobad fils de Pirouz'
 reign-slug: 'regne-de-kobad-fils-de-pirouz'
+episode-slug: 'allocution-de-kobad-aux-iraniens'
 title: 'Allocution de Kobad aux Iraniens | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
