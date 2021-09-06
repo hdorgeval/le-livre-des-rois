@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 199
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-indique-a-gouderz-ses-dernieres-volontes'
 title: 'Keï Khosrou indique à Gouderz ses dernieres volontés | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '229'
