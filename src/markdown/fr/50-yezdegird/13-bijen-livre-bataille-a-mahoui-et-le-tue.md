@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 404
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'bijen-livre-bataille-a-mahoui-et-le-tue'
 title: 'Bijen livre bataille à Mahouï Souri et le tue | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
