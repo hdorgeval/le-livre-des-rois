@@ -7,6 +7,7 @@ image: 'Ydto_xzopy0.jpeg'
 source: tome III - livre des rois - P. 140
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'les-iraniens-et-les-touraniens-forment-leurs-rangs'
 title: 'Les Iraniens et les Touraniens forment leurs rangs | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
