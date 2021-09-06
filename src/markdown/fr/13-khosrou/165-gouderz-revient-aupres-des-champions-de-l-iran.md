@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 468
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'gouderz-revient-aupres-des-champions-de-l-iran'
 title: "Combat drevient auprès des champions de l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '165'
