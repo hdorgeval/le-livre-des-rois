@@ -7,6 +7,7 @@ image: 'QSXOERX45BI.jpeg'
 source: tome III - livre des rois - P. 005
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-pardonne-aux-iraniens'
 title: 'Khosrou pardonne aux Iraniens | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
