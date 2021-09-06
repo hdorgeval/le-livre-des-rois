@@ -1717,6 +1717,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ resle /g, ' reste '),
     (content: string) => content.replace(/ d’Alrasiah/g, ' d’Afrasiab'),
     (content: string) => content.replace(/A partir de /g, 'À partir de '),
+    (content: string) => content.replace(/\nPirau /g, '\nPiran '),
   ].forEach((format) => {
     result = format(result);
   });
