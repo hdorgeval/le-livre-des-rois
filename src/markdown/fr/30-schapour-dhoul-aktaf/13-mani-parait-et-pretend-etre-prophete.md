@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 379
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'mani-parait-et-pretend-etre-prophete'
 title: 'Mani paraît et prétend être prophète | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '013'
