@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 46
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'combat-de-pilsem-contre-les-iraniens'
 title: 'Combat de Pilsem contre les Iraniens | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
