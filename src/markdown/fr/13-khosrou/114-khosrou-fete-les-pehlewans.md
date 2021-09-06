@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 289
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-fete-les-pehlewans'
 title: 'Keï Khosrou fête les Pehlewans | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '114'
