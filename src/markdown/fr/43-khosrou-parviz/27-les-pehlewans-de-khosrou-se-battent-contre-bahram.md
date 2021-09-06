@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 126
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'les-pehlewans-de-khosrou-se-battent-contre-bahram'
 title: 'Les Pehlewans de Khosrou se battent contre Bahram Djoubineh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '027'
