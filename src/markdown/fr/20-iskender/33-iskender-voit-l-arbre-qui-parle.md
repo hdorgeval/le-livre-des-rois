@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 183
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-voit-l-arbre-qui-parle'
 title: "Iskender voit l'arbre qui parle | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '033'
