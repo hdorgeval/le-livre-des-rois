@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 247
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+episode-slug: 'histoire-du-ver-d-heftwad'
 title: "Histoire du ver d'Heftwad | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '013'
