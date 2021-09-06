@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 270
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'nouschirwan-envoie-mihran-voir-la-fille-du-khakan'
 title: 'Nouschirwan envoie Mihran Sitad voir la fille du Khakan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '037'
