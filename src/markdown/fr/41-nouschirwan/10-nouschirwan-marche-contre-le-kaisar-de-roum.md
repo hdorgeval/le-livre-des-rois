@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 156
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'nouschirwan-marche-contre-le-kaisar-de-roum'
 title: 'Nouschirwan marche contre le Kaïsar de Roum | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '010'
