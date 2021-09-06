@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 208
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'gordieh-tue-gustehem'
 title: 'Gordieh tue Gustehem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '049'
