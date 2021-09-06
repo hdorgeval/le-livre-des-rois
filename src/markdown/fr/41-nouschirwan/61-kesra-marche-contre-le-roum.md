@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 413
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'kesra-marche-contre-le-roum'
 title: 'Kesra marche contre le Roum et fait un emprunt chez les marchands | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '061'
