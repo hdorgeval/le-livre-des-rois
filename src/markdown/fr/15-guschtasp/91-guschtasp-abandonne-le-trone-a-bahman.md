@@ -7,6 +7,7 @@ image: 'j1HU-Oll7KI.jpeg'
 source: tome IV - livre des rois - P. 586
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'guschtasp-abandonne-le-trone-a-bahman'
 title: 'Guschtasp abandonne le trône à Bahman | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
