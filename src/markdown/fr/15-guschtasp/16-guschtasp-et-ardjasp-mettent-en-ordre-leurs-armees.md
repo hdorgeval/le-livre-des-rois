@@ -7,6 +7,7 @@ image: 'Ydto_xzopy0.jpeg'
 source: tome IV - livre des rois - P. 317
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'guschtasp-et-ardjasp-mettent-en-ordre-leurs-armees'
 title: 'Guschtasp et Ardjasp mettent en ordre leurs armées | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
