@@ -7,6 +7,7 @@ image: 'D1IS5s5O9xo.jpeg'
 source: tome II - livre des rois - P. 472
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'thous-entre-dans-le-pays-des-turcs'
 title: 'Thous entre dans le pays des Turcs | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
