@@ -7,6 +7,7 @@ image: 'EwKXn5CapA4.jpeg'
 source: tome IV - livre des rois - P. 497
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'isfendiar-fait-l-eloge-de-sa-famille'
 title: "Isfendiar fait l'éloge de sa famille | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
