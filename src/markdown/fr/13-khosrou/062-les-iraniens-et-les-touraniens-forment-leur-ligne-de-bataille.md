@@ -7,6 +7,7 @@ image: 'Ydto_xzopy0.jpeg'
 source: tome III - livre des rois - P. 103
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'les-iraniens-et-les-touraniens-forment-leur-ligne-de-bataille'
 title: 'Les Iraniens et les Touraniens forment leur ligne de bataille | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
