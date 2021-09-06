@@ -7,6 +7,7 @@ image: 'FNeDH_nWfcQ.jpeg'
 source: tome IV - livre des rois - P. 354
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'guschtasp-se-rend-dans-le-seistan'
 title: 'Guschtasp se rend dans le Séistan et Ardjasp réunit de nouveau son armée | Le Livre des Rois | Shâhnâmeh'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
