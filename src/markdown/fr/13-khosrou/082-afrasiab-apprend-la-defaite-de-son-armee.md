@@ -7,6 +7,7 @@ image: 'nSk4ko0uUjA.jpeg'
 source: tome III - livre des rois - P. 175
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-apprend-la-defaite-de-son-armee'
 title: 'Afrasiab apprend la défaite de son armée | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
