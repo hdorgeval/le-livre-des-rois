@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 312
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'buzurdjmihr-invente-le-trictrac'
 title: "Buzurdjmihr invente le jeu du Nard (Trictrac) et Nouschirwan l'envoie en Inde | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '044'
