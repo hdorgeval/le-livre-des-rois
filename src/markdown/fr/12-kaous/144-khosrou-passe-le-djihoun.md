@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 418
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'khosrou-passe-le-djihoun'
 title: 'Keï Khosrou passe le Djihoun | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '144'
