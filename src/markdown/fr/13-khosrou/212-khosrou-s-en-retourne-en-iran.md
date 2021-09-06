@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 150
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-s-en-retourne-en-iran'
 title: "Keï Khosrou ss'en retourne du Touran en Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '212'
