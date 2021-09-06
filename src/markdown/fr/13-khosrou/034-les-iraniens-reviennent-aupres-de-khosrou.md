@@ -7,6 +7,7 @@ image: 'xRFgX9oHG8U.jpeg'
 source: tome II - livre des rois - P. 559
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'les-iraniens-reviennent-aupres-de-khosrou'
 title: 'Les Iraniens reviennent auprès de Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
