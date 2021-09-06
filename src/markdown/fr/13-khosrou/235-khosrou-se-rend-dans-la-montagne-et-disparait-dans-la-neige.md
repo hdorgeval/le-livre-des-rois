@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 212
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-se-rend-dans-la-montagne-et-disparait-dans-la-neige'
 title: 'Keï Khosrou se rend dans la montagne et disparait dans la neige | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '235'
