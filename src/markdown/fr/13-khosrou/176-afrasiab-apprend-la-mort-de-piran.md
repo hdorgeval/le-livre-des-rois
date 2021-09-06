@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 015
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-apprend-la-mort-de-piran'
 title: 'Afrasiab apprend la mort de Piran et les préparatifs de guerre de Keï Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '176'
