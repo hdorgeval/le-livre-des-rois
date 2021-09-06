@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 319
 reign: 'Ormuzd fils de Schapour'
 reign-slug: 'regne-d-ormuzd'
+episode-slug: 'dernieres-volontes-d-ormuzd'
 title: "Dernières volontés et mort d'Ormuzd | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '002'
