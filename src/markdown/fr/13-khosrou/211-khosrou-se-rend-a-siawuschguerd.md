@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 144
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-se-rend-a-siawuschguerd'
 title: 'Keï Khosrou se rend à Siawuschguerd | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '211'
