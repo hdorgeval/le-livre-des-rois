@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 507
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'bahram-djoubineh-combat-parmoudeh-fils-de-saweh'
 title: 'Bahram Djoubineh combat Parmoudeh fils de Saweh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '019'
