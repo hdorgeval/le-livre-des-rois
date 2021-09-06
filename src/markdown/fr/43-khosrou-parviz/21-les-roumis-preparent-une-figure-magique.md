@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 098
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'les-roumis-preparent-une-figure-magique'
 title: 'Les Roumis préparent une figure magique et soumettent les Iraniens à une épreuve | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '021'
