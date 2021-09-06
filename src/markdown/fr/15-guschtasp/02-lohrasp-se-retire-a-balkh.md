@@ -7,6 +7,7 @@ image: 'ERrzhRFzO5w.jpeg'
 source: tome IV - livre des rois - P. 288
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'lohrasp-se-retire-a-balkh'
 title: 'Lohrasp se retire à Balkh et Guschtasp monte sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
