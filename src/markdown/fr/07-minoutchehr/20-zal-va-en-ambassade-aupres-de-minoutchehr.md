@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 242
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'zal-va-en-ambassade-aupres-de-minoutchehr'
 title: 'Zal va en ambassade auprès de Minoutchehr | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
