@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 349
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'saad-envahit-l-iran'
 title: "Saad, fils de Wakkas, envahit l'Iran, Yezdegird envoie Rustem contre lui | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
