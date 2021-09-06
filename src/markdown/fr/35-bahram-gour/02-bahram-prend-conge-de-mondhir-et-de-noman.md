@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 446
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-prend-conge-de-mondhir-et-de-noman'
 title: 'Bahram Gour prend congé de Mondhir et de Noman | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
