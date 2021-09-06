@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 441
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'hormuzd-empoisonne-zerduhischt-le-grand-mobed'
 title: 'Hormuzd met à mort Ized Guschasp et empoisonne Zerduhischt le grand Mobed | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
