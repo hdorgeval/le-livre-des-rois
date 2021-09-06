@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 132
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'sohrab-est-frappe-a-mort-par-rustem'
 title: 'Sohrab est frappé à mort par Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '051'
