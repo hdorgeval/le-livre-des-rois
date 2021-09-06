@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 230
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+episode-slug: 'ardewan-apprend-la-fuite-d-ardeschir'
 title: 'Ardewan apprend la fuite de Gulnar et Ardeschir | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '008'
