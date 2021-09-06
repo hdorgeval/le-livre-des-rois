@@ -7,6 +7,7 @@ image: 'udot2URMgiE.jpeg'
 source: tome IV - livre des rois - P. 480
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'retour-de-bahman'
 title: 'Retour de Bahman | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
