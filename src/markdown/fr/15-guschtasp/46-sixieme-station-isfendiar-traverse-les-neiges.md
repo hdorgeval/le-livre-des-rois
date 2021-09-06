@@ -7,6 +7,7 @@ image: 'AJgvCKLWO8o.jpeg'
 source: tome IV - livre des rois - P. 411
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'sixieme-station-isfendiar-traverse-les-neiges'
 title: 'Sixième Station - Isfendiar traverse les neiges | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
