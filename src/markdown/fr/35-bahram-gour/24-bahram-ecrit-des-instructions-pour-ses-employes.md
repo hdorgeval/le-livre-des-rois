@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 553
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-ecrit-des-instructions-pour-ses-employes'
 title: 'Bahram écrit des instructions pour ses employés | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '024'
