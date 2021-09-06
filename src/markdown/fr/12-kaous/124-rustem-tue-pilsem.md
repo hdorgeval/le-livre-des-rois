@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 361
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'rustem-tue-pilsem'
 title: 'Rustem tue Pilsem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '124'
