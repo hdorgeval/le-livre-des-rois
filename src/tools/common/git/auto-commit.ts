@@ -21,6 +21,7 @@ import {
   autoCommitUpdatedFrenchStats,
   autoCommitNewFrenchEpisodes,
   autoCommitUpdatedFrenchEpisodes,
+  autoCommitUpdatedLaunchJson,
 } from '.';
 
 async function autoCommit() {
@@ -46,6 +47,7 @@ async function autoCommit() {
   await autoCommitNewFrenchFrontmatterHelpers().then();
   await autoCommitUpdatedFrenchFrontmatterHelpers().then();
   await autoCommitUpdatedFrenchStats().then();
+  await autoCommitUpdatedLaunchJson().then();
 }
 
 autoCommit().then();

@@ -12,3 +12,4 @@ export * from './auto-commit-updated-mardown-formatter.fr';
 export * from './auto-commit-updated-mardown-tags-helpers.fr';
 export * from './auto-commit-updated-stats.fr';
 export * from './auto-commit-updated-tags-tools.fr';
+export * from './auto-commit-updated-vscode-launch-settings';
