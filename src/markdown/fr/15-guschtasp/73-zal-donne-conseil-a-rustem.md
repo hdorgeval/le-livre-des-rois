@@ -7,6 +7,7 @@ image: 'peaTniZsUQs.jpeg'
 source: tome IV - livre des rois - P. 514
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'zal-donne-conseil-a-rustem'
 title: 'Zal donne conseil à Rustem | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
