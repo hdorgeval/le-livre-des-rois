@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 125
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'naissance-d-une-fille-d-iredj'
 title: "Naissance d'une fille d'Iredj | Le Livre des Rois | Shâhnâmeh"
 tags: ['âme', 'Djemschid', 'Feridoun', 'Iredj', 'Mahaferid', 'Pescheng', 'Péri']
 order: '014'
