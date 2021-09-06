@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 378
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'sur-la-maniere-de-gouverner-de-nouschirwan'
 title: 'Sur la manière de gouverner de Nouschirwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '057'
