@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 197
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'les-esclaves-de-roudabeh-voient-zal-zer'
 title: 'Les esclaves de Roudabeh voient Zal-Zer | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
