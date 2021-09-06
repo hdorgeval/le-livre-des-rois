@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 082
 reign: 'Balasch fils de Pirouz'
 reign-slug: 'regne-de-balasch'
+episode-slug: 'lettre-de-souferai-a-khouschnewaz'
 title: 'Lettre de Souferaï à Khouschnewaz | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
