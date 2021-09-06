@@ -7,6 +7,7 @@ image: 'OwqLxCvoVxI.jpeg'
 source: tome II - livre des rois - P. 511
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'thous-conduit-son-armee-vers-le-kasehroud'
 title: 'Thous conduit son armée vers le Kasehroud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
