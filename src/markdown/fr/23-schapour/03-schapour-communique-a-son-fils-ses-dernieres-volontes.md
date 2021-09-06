@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 315
 reign: "Schapour fils d'Ardeschir"
 reign-slug: 'regne-de-schapour'
+episode-slug: 'schapour-communique-a-son-fils-ses-dernieres-volontes'
 title: 'Schapour communique à son fils Ormuzd ses dernières volontés | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
