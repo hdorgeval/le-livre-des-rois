@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 264
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'zal-montre-sa-prouesse-devant-minoutchehr'
 title: 'Zal montre sa prouesse devant Minoutchehr | Le Livre des Rois | Shâhnâmeh'
 tags: ['Destan', 'Mihrab', 'Minoutchehr', 'Neriman', 'Pehlewans', 'Sam', 'Sipehbed', 'Zal']
 order: '026'
