@@ -7,6 +7,7 @@ image: 'ec6E029hwMo.jpeg'
 source: tome IV - livre des rois - P. 335
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'nestour-et-isfendiar-tue-bidirefsch'
 title: 'Nestour et Isfendiar tue Bidirefsch | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
