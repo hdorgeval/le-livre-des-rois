@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 184
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'kaous-s-informe-de-l-origine-de-ces-enfants'
 title: "Kaous s'informe de l'origine de ces enfants | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '067'
