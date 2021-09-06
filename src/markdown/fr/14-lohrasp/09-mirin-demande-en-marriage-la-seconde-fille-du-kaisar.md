@@ -7,6 +7,7 @@ image: 'ipT2Cp4U8bc.jpeg'
 source: tome IV - livre des rois - P. 243
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'mirin-demande-en-marriage-la-seconde-fille-du-kaisar'
 title: 'Mirin demande en marriage la seconde fille du Kaisar | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
