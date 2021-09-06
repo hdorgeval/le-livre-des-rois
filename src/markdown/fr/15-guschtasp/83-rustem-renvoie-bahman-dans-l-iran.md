@@ -7,6 +7,7 @@ image: 'E1ng2PyXwzo.jpeg'
 source: tome IV - livre des rois - P. 560
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'rustem-renvoie-bahman-dans-l-iran'
 title: "Rustem renvoie Bahman dans l'Iran | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
