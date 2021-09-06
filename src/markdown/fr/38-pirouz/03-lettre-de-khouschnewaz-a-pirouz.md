@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 074
 reign: 'Pirouz fils de Yezdeguerd'
 reign-slug: 'regne-de-pirouz'
+episode-slug: 'lettre-de-khouschnewaz-a-pirouz'
 title: 'Lettre de Khouschnewaz à Pirouz | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
