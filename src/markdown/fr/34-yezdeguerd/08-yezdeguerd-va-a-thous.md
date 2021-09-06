@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 415
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+episode-slug: 'yezdeguerd-va-a-thous'
 title: "Yezdeguerd va à Thous et est tué par un cheval qui sort de l'eau | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '008'
