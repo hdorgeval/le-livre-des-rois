@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 457
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-donne-a-lembek-les-richesses-de-baraham'
 title: 'Bahram donne à Lembek les richesses de Baraham | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '005'
