@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 111
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-entre-les-iraniens-et-les-touraniens'
 title: 'Combat entre les Iraniens et les Touraniens | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '201'
