@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 076
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-ecrit-au-faghfour-de-la-chine'
 title: 'Afrasiab écrit au Faghfour de la Chine | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '190'
