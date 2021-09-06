@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 239
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'aventures-de-khosrou-et-de-schirin'
 title: 'Aventures de Khosrou et de Schirin, commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '057'
