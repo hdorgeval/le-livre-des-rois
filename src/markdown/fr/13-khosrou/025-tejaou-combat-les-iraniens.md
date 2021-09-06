@@ -7,6 +7,7 @@ image: 'aK3PJYa9XXM.jpeg'
 source: tome II - livre des rois - P. 520
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'tejaou-combat-les-iraniens'
 title: 'Tejaou combat les iraniens | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
