@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 381
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'schapour-nomme-regent-son-frere-ardeschir'
 title: 'Schapour nomme régent son frère Ardeschir | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '014'
