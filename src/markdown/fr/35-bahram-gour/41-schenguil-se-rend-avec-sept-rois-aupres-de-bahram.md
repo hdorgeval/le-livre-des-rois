@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 049
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'schenguil-se-rend-avec-sept-rois-aupres-de-bahram'
 title: 'Schenguil se rend avec sept rois auprès de Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '041'
