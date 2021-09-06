@@ -7,6 +7,7 @@ image: 'cGJFTv66ttQ.jpeg'
 source: tome IV - livre des rois - P. 493
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'isfendiar-deprecie-la-famille-de-rustem'
 title: 'Isfendiar déprécie la famille de Rustem | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
