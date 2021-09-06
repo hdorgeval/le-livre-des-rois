@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 285
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'rustem-se-rend-aupres-de-khosrou'
 title: 'Rustem se rend auprès de Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '113'
