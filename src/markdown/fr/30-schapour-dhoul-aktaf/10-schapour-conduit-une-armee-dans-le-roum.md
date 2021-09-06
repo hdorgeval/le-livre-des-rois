@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 370
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'schapour-conduit-une-armee-dans-le-roum'
 title: 'Schapour conduit une armée dans le Roum et combat le frère du Kaïsar | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '010'
