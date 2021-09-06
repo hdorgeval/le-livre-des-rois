@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 006
 reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
+episode-slug: 'faramourz-combat-bahman-et-perd-la-vie'
 title: 'Faramourz combat Bahman et perd la vie | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
