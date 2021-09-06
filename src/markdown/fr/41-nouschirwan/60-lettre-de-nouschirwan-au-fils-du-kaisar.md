@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 408
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'lettre-de-nouschirwan-au-fils-du-kaisar'
 title: 'Lettre de Nouschirwan au fils du Kaïsar et sa réponse | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '060'
