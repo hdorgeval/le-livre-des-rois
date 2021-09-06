@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 013
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-ecrit-une-lettre-a-schenguil-roi-de-l-inde'
 title: "Bahram écrit une lettre à Schenguil roi de l'Inde | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '029'
