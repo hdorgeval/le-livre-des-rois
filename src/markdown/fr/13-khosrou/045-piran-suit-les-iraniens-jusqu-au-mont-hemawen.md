@@ -7,6 +7,7 @@ image: 'PXU__WOzmZU.jpeg'
 source: tome III - livre des rois - P. 038
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'piran-suit-les-iraniens-jusqu-au-mont-hemawen'
 title: "Piran suit les Iraniens jusqu'au mont Hemawen | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
