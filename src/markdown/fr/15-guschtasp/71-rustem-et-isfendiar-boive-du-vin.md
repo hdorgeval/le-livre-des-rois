@@ -7,6 +7,7 @@ image: 'Ad3k0qobxzE.jpeg'
 source: tome IV - livre des rois - P. 504
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'rustem-et-isfendiar-boive-du-vin'
 title: 'Rustem et Isfendiar boivent du vin | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
