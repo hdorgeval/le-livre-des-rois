@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 306
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'le-radja-de-l-inde-envoie-un-jeu-d-echecs'
 title: "Le Radja de l'Inde envoie à Nouschirwan un jeu d'échecs | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '043'
