@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 169
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'mort-de-kaous'
 title: 'Mort de Keï Kaous | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '219'
