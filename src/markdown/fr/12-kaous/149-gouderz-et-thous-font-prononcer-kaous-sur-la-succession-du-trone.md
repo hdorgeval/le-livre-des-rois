@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 433
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'gouderz-et-thous-font-prononcer-kaous-sur-la-succession-du-trone'
 title: 'Gouderz et Thous font prononcer Kaous sur la succession au trône | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '149'
