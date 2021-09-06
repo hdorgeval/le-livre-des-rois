@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 057
 reign: 'Dara'
 reign-slug: 'regne-de-dara'
+episode-slug: 'dara-livre-bataille-a-iskender'
 title: 'Dara livre bataille à Iskender et est vaincu | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
