@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 203
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-tue-bendoui-pour-venger-la-mort-de-son-pere'
 title: 'Khosrou tue Bendouï pour venger la mort de son père | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '047'
