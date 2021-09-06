@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 018
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'reponse-de-schenguil-a-la-lettre-de-bahram'
 title: 'Réponse de Schenguil à la lettre de Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '031'
