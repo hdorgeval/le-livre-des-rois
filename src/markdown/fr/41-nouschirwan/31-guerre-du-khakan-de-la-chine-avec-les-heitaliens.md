@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 245
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'guerre-du-khakan-de-la-chine-avec-les-heitaliens'
 title: 'Guerre du Khakan de la Chine avec les Heïtaliens | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '031'
