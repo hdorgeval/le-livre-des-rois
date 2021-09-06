@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 085
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'reponse-du-kaisar-a-la-lettre-de-khosrou'
 title: 'Réponse du Kaïsar à la lettre de Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '018'
