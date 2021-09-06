@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 075
 reign: 'Zohak'
 reign-slug: 'regne-de-zohak'
+episode-slug: 'ce-qui-se-passa-entre-feridoun-et-le-lieutenant-de-zohak'
 title: 'Ce qui se passa entre Feridoun et le lieutenant de Zohak | Le Livre des Rois | Shâhnâmeh'
 tags: ['Arnewaz', 'cyprès', 'Divs', 'Djem', 'Feridoun', 'Kenderev', 'Roi', 'Schehrinaz', 'Zohak']
 order: '008'
