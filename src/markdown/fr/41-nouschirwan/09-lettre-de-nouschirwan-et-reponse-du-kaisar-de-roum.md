@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 154
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'lettre-de-nouschirwan-et-reponse-du-kaisar-de-roum'
 title: 'Lettre de Nouschirwan et réponse du Kaïsar de Roum | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '009'
