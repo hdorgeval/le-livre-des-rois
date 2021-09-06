@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 257
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'piran-donne-sa-fille-en-mariage-a-siawusch'
 title: 'Piran donne sa fille en mariage à Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '090'
