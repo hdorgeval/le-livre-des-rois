@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 339
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'bataille-entre-gau-et-thalhend'
 title: 'Bataille entre Gau et Thalhend | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '050'
