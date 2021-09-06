@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 421
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'nouschirwan-parle-de-son-fils-hormuzd-comme-successeur'
 title: 'Nouschirwan parle de son fils Hormuzd comme successeur | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '063'
