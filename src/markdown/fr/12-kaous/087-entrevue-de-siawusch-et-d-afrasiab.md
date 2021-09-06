@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 247
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'entrevue-de-siawusch-et-d-afrasiab'
 title: "Entrevue de Siawusch et d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '087'
