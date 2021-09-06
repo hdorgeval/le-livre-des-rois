@@ -7,6 +7,7 @@ image: 'Dwheufds6kQ.jpeg'
 source: tome III - livre des rois - P. 063
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'les-iraniens-tiennent-conseil-sur-leur-position'
 title: 'Les Iraniens tiennent conseil sur leur position | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
