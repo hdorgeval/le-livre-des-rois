@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 333
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'gau-cherche-a-s-entendre-avec-thalhend'
 title: "Gau cherche à s'entendre avec Thalhend | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '049'
