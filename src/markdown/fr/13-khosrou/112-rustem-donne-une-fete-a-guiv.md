@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 283
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'rustem-donne-une-fete-a-guiv'
 title: 'Rustem donne une fête à Guiv | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '112'
