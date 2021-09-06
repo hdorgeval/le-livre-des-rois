@@ -7,6 +7,7 @@ image: 'NdtpWKCoPx4.jpeg'
 source: tome III - livre des rois - P. 178
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-rustem-contre-kafour-le-mangeur-d-hommes'
 title: "Combat de Rustem contre Kafour le mangeur d'hommes | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
