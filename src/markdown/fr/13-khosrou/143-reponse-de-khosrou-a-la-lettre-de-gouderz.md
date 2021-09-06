@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 395
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'reponse-de-khosrou-a-la-lettre-de-gouderz'
 title: 'Réponse de Khosrou à la lettre de Gouderz | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '143'
