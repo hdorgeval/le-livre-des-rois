@@ -7,6 +7,7 @@ image: 'PQOv9zHJnHs.jpeg'
 source: tome III - livre des rois - P. 123
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'piran-se-rend-aupres-de-rustem'
 title: 'Piran se rend auprès de Rustem | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
