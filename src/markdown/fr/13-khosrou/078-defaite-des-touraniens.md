@@ -7,6 +7,7 @@ image: 'HSta_sQFx7c.jpeg'
 source: tome III - livre des rois - P. 160
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'defaite-des-touraniens'
 title: 'Défaite des Touraniens | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
