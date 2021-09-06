@@ -7,6 +7,7 @@ image: 'UJSJQKfHXpY.jpeg'
 source: tome II - livre des rois - P. 546
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'bahram-cherche-son-fouet-sur-le-champ-de-bataille'
 title: 'Bahram cherche son fouet sur le champ de bataille | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
