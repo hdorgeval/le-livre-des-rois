@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 074
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-entre-dans-le-pays-de-roum'
 title: 'Khosrou entre dans le pays de Roum | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '015'
