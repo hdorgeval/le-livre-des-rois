@@ -16,7 +16,7 @@ export async function autoCommitUpdatedLaunchJson(): Promise<void> {
 
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/.vscode/') && unstagedFile.endsWith('launch.json')) {
+    if (unstagedFile.includes('.vscode/') && unstagedFile.endsWith('launch.json')) {
       const commitMessage = `chore(vscode): update launch settings`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
