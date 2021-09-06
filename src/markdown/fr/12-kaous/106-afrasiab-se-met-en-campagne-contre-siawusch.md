@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 309
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'afrasiab-se-met-en-campagne-contre-siawusch'
 title: 'Afrasiab se met en campagne contre Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '106'
