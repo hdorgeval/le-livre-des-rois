@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 368
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'bijen-apprend-ce-qu-a-fait-houman'
 title: "Bijen apprend ce qu'a fait Houman | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '137'
