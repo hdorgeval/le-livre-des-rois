@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 173
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'le-khakan-de-la-chine-prepare-une-armee'
 title: 'Le Khakan de la Chine prépare une armée | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '039'
