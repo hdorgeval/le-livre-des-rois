@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 436
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'thous-et-feribourz-attaque-vainement-le-chateau-de-bahman'
 title: 'Thous et Feribourz attaque en vain le château de Bahman | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '150'
