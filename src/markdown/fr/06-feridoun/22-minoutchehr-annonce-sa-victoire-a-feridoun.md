@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 147
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'minoutchehr-annonce-sa-victoire-a-feridoun'
 title: 'Minoutchehr annonce sa victoire à Feridoun | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
