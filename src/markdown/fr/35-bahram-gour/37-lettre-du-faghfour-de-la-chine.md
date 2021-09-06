@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 036
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'lettre-du-faghfour-de-la-chine'
 title: 'Lettre du Faghfour de la Chine et réponse de Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '037'
