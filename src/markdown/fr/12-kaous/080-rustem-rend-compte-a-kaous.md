@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 220
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'rustem-rend-compte-a-kaous'
 title: 'Rustem rend compte à Kaous | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '080'
