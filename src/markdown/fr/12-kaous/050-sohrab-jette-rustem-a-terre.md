@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 126
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'sohrab-jette-rustem-a-terre'
 title: 'Sohrab jette Rustem par terre | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '050'
