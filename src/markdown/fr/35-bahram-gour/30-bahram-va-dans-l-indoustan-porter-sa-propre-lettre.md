@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 016
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-va-dans-l-indoustan-porter-sa-propre-lettre'
 title: "Bahram va dans l'Hindoustan porter sa propre lettre | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '030'
