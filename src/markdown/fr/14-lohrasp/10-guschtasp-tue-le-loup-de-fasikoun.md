@@ -7,6 +7,7 @@ image: 'a2zdgkDzFo8.jpeg'
 source: tome IV - livre des rois - P. 249
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'guschtasp-tue-le-loup-de-fasikoun'
 title: 'Guschtasp tue le Loup de Fasikoun | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
