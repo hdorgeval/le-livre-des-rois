@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 349
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'rustem-tue-soudabeh-et-entre-en-campagne'
 title: 'Rustem tue Soudabeh et entre en campagne | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '120'
