@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 555
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'khosrou-parviz-s-enfui-de-la-cour-de-son-pere'
 title: "Khosrou Parviz s'enfuit de la cour de son père | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '031'
