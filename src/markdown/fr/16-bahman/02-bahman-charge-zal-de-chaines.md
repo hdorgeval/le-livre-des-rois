@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 003
 reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
+episode-slug: 'bahman-charge-zal-de-chaines'
 title: 'Bahman charge Zal de chaines | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
