@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 408
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'guiv-fait-prisonnier-piran'
 title: 'Guiv fait Piran prisonnier | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '140'
