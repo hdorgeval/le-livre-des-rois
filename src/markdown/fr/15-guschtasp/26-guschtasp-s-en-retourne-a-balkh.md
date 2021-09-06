@@ -7,6 +7,7 @@ image: 'UkO87bTCVac.jpeg'
 source: tome IV - livre des rois - P. 341
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'guschtasp-s-en-retourne-a-balkh'
 title: "Guschtasp s'en retourne à Balkh | Le Livre des Rois | Shâhnâmeh"
 map: ''
 tags:
