@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 176
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-voit-l-ange-israfil'
 title: "Iskender voit l'ange Israfil | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '030'
