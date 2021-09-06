@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 424
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'khosrou-arrive-chez-kaous'
 title: 'Keï Khosrou arrive chez Kaous | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '146'
