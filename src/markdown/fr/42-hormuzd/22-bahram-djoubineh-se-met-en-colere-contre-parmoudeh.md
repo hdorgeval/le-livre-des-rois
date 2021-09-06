@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 518
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'bahram-djoubineh-se-met-en-colere-contre-parmoudeh'
 title: 'Bahram Djoubineh se met en colère contre Parmoudeh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '022'
