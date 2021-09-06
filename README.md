@@ -18,7 +18,7 @@ This repo is intended to :
 
 - bring innovative tools, like machine learning, geo-data discovery, to be able to manage and study this new corpus of data in a multi-dimensional way: by time, by content, by geography, by characters, by language.
 
-I started with the French translation of the `Shâhnâmeh` brought by `Jules Mohl` in 1876 after he started it in 1826.
+I started with the French translation of the `Shâhnâmeh` brought by `Jules Mohl` in 1876 after he started it in 1826. You can follow up the digitalisation process in the [CHANGELOG](./CHANGELOG.md) and in the [stats page](./stats/fr/stats.fr.md) for the French version.
 
 Any contributor for other languages is welcomed.
 
