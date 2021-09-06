@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 553
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'bahram-frappe-monnaie-au-nom-de-khosrou-parviz'
 title: 'Bahram frappe monnaie au nom de Khosrou Parviz | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '030'
