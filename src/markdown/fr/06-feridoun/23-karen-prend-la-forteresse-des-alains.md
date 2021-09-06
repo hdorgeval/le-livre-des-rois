@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 149
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'karen-prend-la-forteresse-des-alains'
 title: 'Karen prend la forteresse des Alains | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
