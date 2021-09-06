@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 225
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'mihrab-apprend-l-aventure-de-sa-fille'
 title: "Mihrab apprend l'aventure de sa fille | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
