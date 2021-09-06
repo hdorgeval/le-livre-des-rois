@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 38
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'le-combat-des-sept-heros'
 title: 'Le combat des sept héros | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
