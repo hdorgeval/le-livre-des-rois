@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 294
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+episode-slug: 'ardeschir-indique-ses-dernieres-volontes'
 title: "Ardeschir indique ses dernières volontés aux grands de l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '009'
