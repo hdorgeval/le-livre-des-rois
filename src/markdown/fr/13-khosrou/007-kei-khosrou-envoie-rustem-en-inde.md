@@ -7,6 +7,7 @@ image: 'YBuv4pFV8yw.jpeg'
 source: tome II - livre des rois - P. 463
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'kei-khosrou-envoie-rustem-en-inde'
 title: "Keï Khosrou envoie Rustem dans l'Inde | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
