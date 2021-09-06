@@ -7,6 +7,7 @@ image: 'ec6E029hwMo.jpeg'
 source: tome III - livre des rois - P. 112
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-djinghisch-avec-rustem'
 title: 'Combat de Djinghisch avec Rustem | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
