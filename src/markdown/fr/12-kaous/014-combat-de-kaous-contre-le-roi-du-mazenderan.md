@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 439
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'combat-de-kaous-contre-le-roi-du-mazenderan'
 title: 'Combat de Kaous contre le roi du Mazenderan | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
