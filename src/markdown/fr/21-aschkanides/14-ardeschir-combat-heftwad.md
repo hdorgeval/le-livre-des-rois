@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 251
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+episode-slug: 'ardeschir-combat-heftwad'
 title: 'Ardeschir combat Heftwad et est défait | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '014'
