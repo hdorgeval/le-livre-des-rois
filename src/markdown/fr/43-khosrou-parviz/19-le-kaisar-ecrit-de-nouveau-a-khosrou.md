@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 090
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'le-kaisar-ecrit-de-nouveau-a-khosrou'
 title: 'Le Kaïsar écrit de nouveau à Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '019'
