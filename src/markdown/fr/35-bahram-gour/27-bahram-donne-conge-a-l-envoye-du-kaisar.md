@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 007
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-donne-conge-a-l-envoye-du-kaisar'
 title: "Bahram donne congé à l'envoyé du Kaïsar | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '027'
