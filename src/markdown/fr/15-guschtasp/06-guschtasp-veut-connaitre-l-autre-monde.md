@@ -7,6 +7,7 @@ image: 'DKix6Un55mw.jpeg'
 source: tome II - Vie de Zoroastre - P. 38 (P.178) - Zend-Avesta - Anquetil du Perron
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'guschtasp-veut-connaitre-l-autre-monde'
 title: "Guschtasp veut savoir quelle sera sa place dans l'autre Monde | Le Livre des Rois | Shâhnâmeh"
 map: ''
 tags:
