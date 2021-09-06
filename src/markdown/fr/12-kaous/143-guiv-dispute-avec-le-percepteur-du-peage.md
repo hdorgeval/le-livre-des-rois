@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 416
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'guiv-dispute-avec-le-percepteur-du-peage'
 title: 'Guiv dispute avec le percepteur du péage | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '143'
