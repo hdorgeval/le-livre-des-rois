@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 103
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'sohrab-demande-a-hedjir-les-noms-des-chefs-des-iraniens'
 title: 'Sohrab demande à Hedjir les noms des chefs des Iraniens | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '046'
