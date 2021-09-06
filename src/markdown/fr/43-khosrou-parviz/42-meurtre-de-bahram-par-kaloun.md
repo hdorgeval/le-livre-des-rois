@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 184
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'meurtre-de-bahram-par-kaloun'
 title: 'Meurtre de Bahram Djoubineh par Kaloun | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '042'
