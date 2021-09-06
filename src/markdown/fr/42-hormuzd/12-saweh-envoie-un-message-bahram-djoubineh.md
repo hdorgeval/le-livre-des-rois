@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 481
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'saweh-envoie-un-message-bahram-djoubineh'
 title: 'Saweh envoie un message à Bahram Djoubineh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
