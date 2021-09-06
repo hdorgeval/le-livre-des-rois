@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 134
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'aventure-de-babek-mobed-de-kesra'
 title: "Aventure de Babek, Mobed de Kesra, qui passe en revue l'armée | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '004'
