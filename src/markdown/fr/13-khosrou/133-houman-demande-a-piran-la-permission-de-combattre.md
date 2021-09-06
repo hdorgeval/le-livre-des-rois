@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 355
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'houman-demande-a-piran-la-permission-de-combattre'
 title: 'Houman demande à Piran la permission de combattre | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '133'
