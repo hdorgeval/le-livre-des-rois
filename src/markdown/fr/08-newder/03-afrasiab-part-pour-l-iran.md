@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 311
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+episode-slug: 'afrasiab-part-pour-l-iran'
 title: "Afrasiab part pour l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
