@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 043
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'schenguil-poursuit-bahram'
 title: 'Schenguil poursuit Bahram et apprends qui il est | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '039'
