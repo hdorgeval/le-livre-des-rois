@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 219
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'lohrasp-apprend-la-disparition-de-khosrou'
 title: 'Lohrasp apprend la disparition de Keï Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '237'
