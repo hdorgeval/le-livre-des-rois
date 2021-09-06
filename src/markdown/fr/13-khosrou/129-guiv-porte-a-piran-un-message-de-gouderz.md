@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 337
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'guiv-porte-a-piran-un-message-de-gouderz'
 title: 'Guiv porte à Piran un message de Gouderz | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '129'
