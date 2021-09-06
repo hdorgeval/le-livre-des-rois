@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 264
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'gourguin-retourne-en-iran'
 title: "Gourguin s'en retourne dans l'Iran et fait des mensonges sur Bijen | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '107'
