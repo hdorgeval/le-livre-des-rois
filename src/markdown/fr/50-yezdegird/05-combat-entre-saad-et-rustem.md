@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 363
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'combat-entre-saad-et-rustem'
 title: 'Combat entre Rustem et Saad, mort de Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: ['Arabe', 'Bagdad', 'Iran', 'Iraniens', 'Rustem', 'Saad', 'Schobah', 'Yezdegird']
 order: '005'
