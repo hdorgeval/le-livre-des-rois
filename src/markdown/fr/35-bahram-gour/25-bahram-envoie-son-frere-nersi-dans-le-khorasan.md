@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 001
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-envoie-son-frere-nersi-dans-le-khorasan'
 title: 'Bahram envoie son frère Nersi dans le Khorasan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '025'
