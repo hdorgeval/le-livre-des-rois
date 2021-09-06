@@ -7,6 +7,7 @@ image: '-h8U7Bh1oEk.jpeg'
 source: tome III - livre des rois - P. 025
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'les-touraniens-emploient-la-magie-contre-les-iraniens'
 title: 'Les Touraniens emploient la magie contre les Iraniens | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
