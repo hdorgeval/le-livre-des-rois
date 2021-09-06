@@ -7,6 +7,7 @@ image: 'Dwheufds6kQ.jpeg'
 source: tome III - livre des rois - P. 064
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'gouderz-apprend-que-rustem-s-approche'
 title: "Gouderz apprend que Rustem s'approche | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
