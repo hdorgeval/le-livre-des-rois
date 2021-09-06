@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 183
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'ram-berzin-se-prepare-a-la-guerre-contre-nouschzad'
 title: 'Ram Berzin se prépare à la guerre contre Nouschzad | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '017'
