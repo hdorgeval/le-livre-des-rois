@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 299
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'guersiwez-retourne-aupres-de-siawusch'
 title: 'Guersiwez retourne auprès de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '104'
