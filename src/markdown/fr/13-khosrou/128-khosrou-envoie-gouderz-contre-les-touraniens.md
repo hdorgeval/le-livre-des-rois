@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 332
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-envoie-gouderz-contre-les-touraniens'
 title: 'Keï Khosrou envoie Gouderz contre les touraniens | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '128'
