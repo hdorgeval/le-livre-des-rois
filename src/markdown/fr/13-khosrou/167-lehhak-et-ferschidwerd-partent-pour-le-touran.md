@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 477
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'lehhak-et-ferschidwerd-partent-pour-le-touran'
 title: 'Lehhak et Ferschidwerd partent pour le Touran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '167'
@@ -22,16 +23,15 @@ Ils firent leurs adieux aux troupes et prirent la longue route du désert, un dr
 
 Ils partirent avec dix illustres cavaliers, braves et propres au combat ; mais ils trouvèrent sur leur chemin des cavaliers iraniens, des gardiens de la route qu’ils avaient prise.
 
-Les Turcs lancèrent leurs chevaux et les vedettes iraniennes s’affermirent sur leurs étriers ; il s’ensuivit un combat sur lequel au-
-cun parti n’avait compté et la plaine fut à l’instant teinte de sang comme une tulipe.
+Les Turcs lancèrent leurs chevaux et les vedettes iraniennes s’affermirent sur leurs étriers ; il s’ensuivit un combat sur lequel aucun parti n’avait compté et la plaine fut à l’instant teinte de sang comme une tulipe.
 
-Sept hommes périrent du côté des Iraniens, des braves, des lions dans les combats ; et parmi les Turcs les deux héros qui portaient haut la tête furent les seuls qui échap-pèrent aux mains des vedettes.
+Sept hommes périrent du côté des Iraniens, des braves, des lions dans les combats ; et parmi les Turcs les deux héros qui portaient haut la tête furent les seuls qui échappèrent aux mains des vedettes.
 
 Ces deux braves s’élancèrent sur la route du désert semblables à des lions, pendant que la sentinelle des Iraniens criait de sa tour :
 
 > Ô hommes illustres, ô héros pleins de valeur !
 >
-> Deux grands sont sortis du camp des Turcs . accompagnés de dix cavaliers glorieux ; ils se sont jetés sur nos vedettes avec tant de fureur qu’ils ont A mêlé le sang avec la poussière ; ils ont tué sept Iraniens et ont continué leur chemin comme au-paravant, armés pour le combat. »
+> Deux grands sont sortis du camp des Turcs accompagnés de dix cavaliers glorieux ; ils se sont jetés sur nos vedettes avec tant de fureur qu’ils ont A mêlé le sang avec la poussière ; ils ont tué sept Iraniens et ont continué leur chemin comme au-paravant, armés pour le combat. »
 
 Lorsque Gouderz entendit ces paroles, il dit :
 
