@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 097
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-protege-les-femmes-d-afrasiab'
 title: "Khosrou protège les femmes d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '196'
