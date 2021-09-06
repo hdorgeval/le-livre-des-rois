@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 285
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+episode-slug: 'ardeschir-organise-l-administration-de-son-empire'
 title: "Ardeschir organise l'administration de son empire | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '008'
