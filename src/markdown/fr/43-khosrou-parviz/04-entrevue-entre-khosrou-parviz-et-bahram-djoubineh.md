@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 011
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'entrevue-entre-khosrou-parviz-et-bahram-djoubineh'
 title: 'Entrevue entre Khosrou Parviz et Bahram Djoubineh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
