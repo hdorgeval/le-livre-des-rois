@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 286
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'rustem-tue-l-elephant-blanc'
 title: "Rustem tue l'éléphant blanc | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
