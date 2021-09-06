@@ -7,6 +7,7 @@ image: 'r-lk5oitQuU.jpeg'
 source: tome IV - livre des rois - P. 464
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'isfendiar-conduit-une-armee-dans-le-zaboulistan'
 title: 'Isfendiar conduit une armée dans le Zaboulistan | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
