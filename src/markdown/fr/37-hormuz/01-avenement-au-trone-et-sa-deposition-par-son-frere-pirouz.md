@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 069
 reign: 'Hormuz fils de Yezdeguerd'
 reign-slug: 'regne-de-hormuz'
+episode-slug: 'avenement-au-trone-et-sa-deposition-par-son-frere-pirouz'
 title: 'Avènement au trône de Hormuz et sa déposition par son frère Pirouz | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
