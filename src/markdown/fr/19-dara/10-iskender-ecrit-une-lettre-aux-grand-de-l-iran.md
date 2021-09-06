@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 075
 reign: 'Dara'
 reign-slug: 'regne-de-dara'
+episode-slug: 'iskender-ecrit-une-lettre-aux-grand-de-l-iran'
 title: "Iskender écrit une lettre aux grands de l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '010'
