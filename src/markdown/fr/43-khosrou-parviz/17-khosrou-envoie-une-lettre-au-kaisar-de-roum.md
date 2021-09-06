@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 080
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-envoie-une-lettre-au-kaisar-de-roum'
 title: 'Khosrou envoie une lettre au Kaïsar de Roum | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '017'
