@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 54
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'histoire-de-sohrab'
 title: 'Histoire de Sohrab | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Dieu', 'Div', 'rejeton', 'Rustem', 'Sohrab']
 order: '031'
