@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 231
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'minoutchehr-apprend-l-aventure-de-zal-et-roudabeh'
 title: "Minoutchehr apprend l'aventure de Zal et de Roudabeh | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
