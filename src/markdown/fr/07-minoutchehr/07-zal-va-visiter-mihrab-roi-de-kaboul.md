@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 188
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'zal-va-visiter-mihrab-roi-de-kaboul'
 title: 'Zal va visiter Mihrab, roi de Kaboul | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
