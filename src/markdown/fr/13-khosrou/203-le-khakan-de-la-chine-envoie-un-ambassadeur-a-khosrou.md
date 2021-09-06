@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 118
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'le-khakan-de-la-chine-envoie-un-ambassadeur-a-khosrou'
 title: 'Le Khakan de la Chine envoie un ambassadeur à Keï Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '203'
