@@ -7,6 +7,7 @@ image: 'K2K1Ec_51SA.jpeg'
 source: tome IV - livre des rois - P. 255
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'ahren-demande-en-marriage-la-3ieme-fille-du-kaisar'
 title: 'Ahren demande en marriage la troisième fille du Kaisar | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
