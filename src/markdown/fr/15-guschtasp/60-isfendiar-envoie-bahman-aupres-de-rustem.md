@@ -7,6 +7,7 @@ image: 'GZrGiV2_sUI.jpeg'
 source: tome IV - livre des rois - P. 466
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'isfendiar-envoie-bahman-aupres-de-rustem'
 title: 'Isfendiar envoie Bahman auprès de Rustem | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
