@@ -7,6 +7,7 @@ image: 'JOzv_pAkcMk.jpeg'
 source: tome IV - livre des rois - P. 432
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'beschouten-attaque-le-chateau-d-airain'
 title: "Beschouten attaque le château d'airin | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
