@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 269
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-devient-injuste-et-l-armee-se-revolte'
 title: "Khosrou devient injuste et l'armée se révolte | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '065'
