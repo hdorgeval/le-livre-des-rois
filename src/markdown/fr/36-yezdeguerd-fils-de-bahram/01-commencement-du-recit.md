@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 065
 reign: 'Yezdeguerd fils de Bahram Gour'
 reign-slug: 'regne-de-yezdeguerd-fils-de-bahram'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['Div', 'Hormuz', 'Iran', 'Mobeds', 'Pirouz', 'Yezdeguerd']
 order: '001'
