@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 310
 reign: "Schapour fils d'Ardeschir"
 reign-slug: 'regne-de-schapour'
+episode-slug: 'schapour-monte-sur-le-trone'
 title: 'Schapour monte sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags: ['Ardeschir', 'chrysoprases', 'Dieu', 'Mobed', 'Mobeds', 'Schapour']
 order: '001'
