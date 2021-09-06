@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 128
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'reponse-de-kaous-a-la-lettre-de-khosrou'
 title: 'Réponse de Kaous à la lettre de Keï Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '206'
