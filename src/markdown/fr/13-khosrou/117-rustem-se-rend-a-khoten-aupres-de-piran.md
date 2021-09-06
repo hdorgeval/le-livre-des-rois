@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 297
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'rustem-se-rend-a-khoten-aupres-de-piran'
 title: 'Rustem se rend à Khoten auprès de Piran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '117'
