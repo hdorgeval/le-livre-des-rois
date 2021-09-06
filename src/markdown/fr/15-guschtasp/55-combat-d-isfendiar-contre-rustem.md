@@ -7,6 +7,7 @@ image: 'https:/www.christies.com/media-library/images/features/articles/2015/04/
 source: tome IV - livre des rois - P. 451
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'combat-d-isfendiar-contre-rustem'
 title: "Combat d'Isfendiar contre Rustem | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
