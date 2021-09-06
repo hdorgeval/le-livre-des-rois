@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 417
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'des-envoyes-du-kaisar-arrivent-avec-des-excuses-et-des-offrandes'
 title: 'Des envoyés du Kaïsar arrivent avec des excuses et des offrandes | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '062'
