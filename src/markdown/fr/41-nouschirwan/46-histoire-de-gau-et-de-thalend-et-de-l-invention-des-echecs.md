@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 319
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'histoire-de-gau-et-de-thalend-et-de-l-invention-des-echecs'
 title: "Histoire de Gau et de Thalhend et de l'invention des échecs | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '046'
