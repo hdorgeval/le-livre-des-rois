@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 456
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'le-roi-saweh-conduit-une-armee-contre-hormuzd'
 title: 'Le roi Saweh conduit une armée contre Hormuzd | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '006'
