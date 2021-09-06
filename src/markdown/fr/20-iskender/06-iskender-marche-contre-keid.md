@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 097
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-marche-contre-keid'
 title: 'Iskender marche contre Keïd | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '006'
