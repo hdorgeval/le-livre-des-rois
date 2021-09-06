@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 312
 reign: "Schapour fils d'Ardeschir"
 reign-slug: 'regne-de-schapour'
+episode-slug: 'guerre-de-schapour-contre-les-roumis'
 title: 'Guerre de Schapour contre les Roumis | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
