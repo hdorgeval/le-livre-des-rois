@@ -7,6 +7,7 @@ image: '_E1PQXKUkMw.jpeg'
 source: tome IV - livre des rois - P. 320
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'commencement-de-la-bataille-entre-les-iraniens-et-les-touraniens'
 title: 'Commencement de la bataille entre les iraniens et les touraniens | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
