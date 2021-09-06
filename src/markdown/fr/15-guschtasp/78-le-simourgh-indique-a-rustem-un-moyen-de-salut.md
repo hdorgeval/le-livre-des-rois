@@ -7,6 +7,7 @@ image: 'DX5r6BNoWVE.jpeg'
 source: tome IV - livre des rois - P. 535
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'le-simourgh-indique-a-rustem-un-moyen-de-salut'
 title: 'Le Simourgh indique à Rustem un moyen de salut | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
