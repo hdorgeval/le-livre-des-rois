@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 035
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-repond-a-afrasiab'
 title: 'Keï Khosrou répond à Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '180'
