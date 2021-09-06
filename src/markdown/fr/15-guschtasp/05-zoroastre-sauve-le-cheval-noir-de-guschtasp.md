@@ -7,6 +7,7 @@ image: 'Frns32I1RKQ.jpeg'
 source: tome II - Vie de Zoroastre - P. 35 (P.175) - Zend-Avesta - Anquetil du Perron
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'zoroastre-sauve-le-cheval-noir-de-guschtasp'
 title: 'Zoroastre sauve le cheval noir de Guschtasp | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
