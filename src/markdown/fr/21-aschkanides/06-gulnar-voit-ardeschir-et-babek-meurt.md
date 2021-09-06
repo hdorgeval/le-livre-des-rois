@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 226
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+episode-slug: 'gulnar-voit-ardeschir-et-babek-meurt'
 title: 'Gulnar voit Ardeschir et Babek meurt | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '006'
