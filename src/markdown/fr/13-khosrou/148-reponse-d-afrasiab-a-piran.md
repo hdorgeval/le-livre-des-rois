@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 424
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'reponse-d-afrasiab-a-piran'
 title: "Réponse d'Afrasiab à Piran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '148'
