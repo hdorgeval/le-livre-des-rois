@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 313
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+episode-slug: 'combat-entre-kobad-et-barman'
 title: 'Combat de Kobad et Barman et mort de Kobad | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
