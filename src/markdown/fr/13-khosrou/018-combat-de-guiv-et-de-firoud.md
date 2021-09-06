@@ -7,6 +7,7 @@ image: 'zqwK4a6JXgc.jpeg'
 source: tome II - livre des rois - P. 497
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-guiv-et-de-firoud'
 title: 'Combat de Guiv et de Firoud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
