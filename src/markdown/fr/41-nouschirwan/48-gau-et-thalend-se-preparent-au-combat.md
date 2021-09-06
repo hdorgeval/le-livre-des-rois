@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 330
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'gau-et-thalend-se-preparent-au-combat'
 title: 'Gau et Thalhend se préparent au combat | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '048'
