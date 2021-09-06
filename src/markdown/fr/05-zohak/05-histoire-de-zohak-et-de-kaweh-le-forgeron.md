@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 061
 reign: 'Zohak'
 reign-slug: 'regne-de-zohak'
+episode-slug: 'histoire-de-zohak-et-de-kaweh-le-forgeron'
 title: 'Histoire de Zohak et de Kaweh le forgeron | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
