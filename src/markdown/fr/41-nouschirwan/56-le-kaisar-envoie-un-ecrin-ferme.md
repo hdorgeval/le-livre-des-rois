@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 371
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'le-kaisar-envoie-un-ecrin-ferme'
 title: 'Le Kaïsar envoie un écrin fermé et Buzurdjmihr est mis en liberté pour en deviner le secret | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '056'
