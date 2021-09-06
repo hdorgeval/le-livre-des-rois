@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 334
 reign: 'Nersi fils de Bahram Bahramian'
 reign-slug: 'regne-de-nersi'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Bahrams', 'Créateur', 'Dieu', 'Nersi', 'Ormuzd']
 order: '001'
