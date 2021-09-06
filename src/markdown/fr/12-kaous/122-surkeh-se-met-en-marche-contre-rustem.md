@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 354
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'surkeh-se-met-en-marche-contre-rustem'
 title: 'Surkeh se met en marche contre Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '122'
