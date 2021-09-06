@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 276
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'le-khakan-envoie-sa-fille-chez-nouschirwan'
 title: 'Le Khakan envoie sa fille avec Mihran chez Nouschirwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '038'
