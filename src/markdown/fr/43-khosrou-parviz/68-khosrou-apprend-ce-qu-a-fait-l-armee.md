@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 280
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-apprend-ce-qu-a-fait-l-armee'
 title: "Khosrou apprend ce que l'armée à fait | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '068'
