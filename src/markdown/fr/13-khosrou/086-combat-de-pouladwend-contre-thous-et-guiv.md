@@ -7,6 +7,7 @@ image: 'OwqLxCvoVxI.jpeg'
 source: tome III - livre des rois - P. 197
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-pouladwend-contre-thous-et-guiv'
 title: 'Combat de Pouladwend contre Thous et Guiv | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
