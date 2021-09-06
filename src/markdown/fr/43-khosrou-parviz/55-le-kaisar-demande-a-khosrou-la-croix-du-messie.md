@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 227
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'le-kaisar-demande-a-khosrou-la-croix-du-messie'
 title: 'Khosrou écrit au Kaïsar qui lui répond en demandant la croix du messie | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '055'
