@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 463
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-barteh-avec-kehrem'
 title: 'Combat de Barteh avec Kehrem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '163'
