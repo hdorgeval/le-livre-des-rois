@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 348
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'le-kaisar-du-roum-fait-coudre-schapour-dans-une-peau-d-ane'
 title: "Le Kaïsar du Roum fait coudre Schapour dans une peau d'âne | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '005'
