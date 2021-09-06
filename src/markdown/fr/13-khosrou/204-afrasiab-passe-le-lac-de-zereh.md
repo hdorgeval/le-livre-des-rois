@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 119
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-passe-le-lac-de-zereh'
 title: 'Afrasiab passe le lac de Zereh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '204'
