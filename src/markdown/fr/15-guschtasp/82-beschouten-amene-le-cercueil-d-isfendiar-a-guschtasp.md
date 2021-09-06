@@ -7,6 +7,7 @@ image: 'zvf7cZ0PC20.jpeg'
 source: tome IV - livre des rois - P. 554
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'beschouten-amene-le-cercueil-d-isfendiar-a-guschtasp'
 title: "Beschouten amène le cercueil d'Isfendiar à Guschtasp | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
