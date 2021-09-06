@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 340
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
