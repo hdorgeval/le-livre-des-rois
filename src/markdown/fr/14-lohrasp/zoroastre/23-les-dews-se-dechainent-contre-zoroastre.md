@@ -7,6 +7,7 @@ image: 'MwYBzsaSAGQ.jpeg'
 source: tome II - Vie de Zoroastre - P. 15 (P.155) - Zend-Avesta - Anquetil du Perron
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'les-dews-se-dechainent-contre-zoroastre'
 title: 'Les Dews se déchainent contre Zoroastre | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
