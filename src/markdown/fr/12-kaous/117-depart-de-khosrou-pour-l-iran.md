@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 345
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'depart-de-khosrou-pour-l-iran'
 title: "Départ de Keï Khosrou pour le pays de l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '117'
