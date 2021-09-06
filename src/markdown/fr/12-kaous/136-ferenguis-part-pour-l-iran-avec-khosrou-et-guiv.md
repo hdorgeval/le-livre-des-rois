@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 398
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'ferenguis-part-pour-l-iran-avec-khosrou-et-guiv'
 title: "Ferenguis part pour l'Iran avec Keï Khosrou et Guiv | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '136'
