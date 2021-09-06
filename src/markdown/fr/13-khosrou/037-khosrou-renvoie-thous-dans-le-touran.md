@@ -7,6 +7,7 @@ image: 'sbyEMIcFx34.jpeg'
 source: tome III - livre des rois - P. 007
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-renvoie-thous-dans-le-touran'
 title: 'Keï Khosrou renvoie Thous dans le Touran | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
