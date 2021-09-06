@@ -7,6 +7,7 @@ image: 'Sq1EcEI5hO8.jpeg'
 source: tome IV - livre des rois - P. 564
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'aventure-de-rustem-et-de-scheghad'
 title: 'Aventure de Rustem et Scheghad | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
