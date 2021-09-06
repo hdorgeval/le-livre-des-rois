@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 119
 reign: 'Kobad fils de Pirouz'
 reign-slug: 'regne-de-kobad-fils-de-pirouz'
+episode-slug: 'kobad-nomme-kesra-son-successeur'
 title: 'Kobad nomme Kesra son successeur et les grands lui donnent le nom de Nouschirwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '008'
