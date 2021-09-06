@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 085
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'avenement-de-feridoun-au-trone'
 title: 'Avènement de Feridoun au trône | Le Livre des Rois | Shâhnâmeh'
 geo-data: 'amol.geojson'
 tags:
