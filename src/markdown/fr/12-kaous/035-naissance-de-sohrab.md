@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 64
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'naissance-de-sohrab'
 title: 'Naissance de Sohrab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '035'
