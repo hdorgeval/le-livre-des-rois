@@ -7,6 +7,7 @@ image: 'kpmXIrzrXKE.jpeg'
 source: tome III - livre des rois - P. 076
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'piran-tient-conseil-avec-le-khakan'
 title: 'Piran tient conseil avec le Khakan | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
