@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 52
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'afrasiab-s-enfuit-du-champ-de-bataille'
 title: "Afrasiab s'enfuit du champ de bataille | Le Livre des Rois | Shâhnâmeh"
 tags:
   ['Afrasiab', 'Iraniens', 'Kaous', 'Pehlewan', 'Raksch', 'Rustem', 'Touran', 'Turcs', 'Zewareh']
