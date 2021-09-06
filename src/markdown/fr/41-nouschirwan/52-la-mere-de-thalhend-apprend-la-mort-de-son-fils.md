@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 350
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'la-mere-de-thalhend-apprend-la-mort-de-son-fils'
 title: 'La mère de Thalhend apprend la mort de son fils | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '052'
