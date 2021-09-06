@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 224
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'kaous-renvoie-rustem-dans-le-seistan'
 title: 'Kaous renvoie Rustem dans le Seïstan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '081'
