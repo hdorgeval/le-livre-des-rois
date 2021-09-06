@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 299
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+episode-slug: 'kharrad-prononce-les-louanges-d-ardeschir'
 title: "Kharrad prononce les louanges d'Ardeschir | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '011'
