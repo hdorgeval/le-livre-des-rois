@@ -7,6 +7,7 @@ image: 'Ydto_xzopy0.jpeg'
 source: tome III - livre des rois - P. 186
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-recoit-des-nouvelles-de-rustem'
 title: 'Afrasiab reçoit des nouvelles de Rustem | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
