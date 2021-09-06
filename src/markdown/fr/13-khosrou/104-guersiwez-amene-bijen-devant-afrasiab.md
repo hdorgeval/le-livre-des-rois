@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 252
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'guersiwez-amene-bijen-devant-afrasiab'
 title: 'Guersiwez amène Bijen devant Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '104'
