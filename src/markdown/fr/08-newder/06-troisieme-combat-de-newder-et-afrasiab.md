@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 321
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+episode-slug: 'troisieme-combat-de-newder-et-afrasiab'
 title: "Troisième combat de Newder et d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
