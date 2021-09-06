@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 266
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+episode-slug: 'aventure-d-ardechir-avec-la-fille-d-ardewan'
 title: "Aventure d'Ardeschir avec la fille d'Ardewan | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '002'
