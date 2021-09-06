@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 223
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'sixieme-fete'
 title: 'Sixième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '026'
