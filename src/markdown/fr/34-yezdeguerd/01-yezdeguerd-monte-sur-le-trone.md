@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 394
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+episode-slug: 'yezdeguerd-monte-sur-le-trone'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Dieu', 'Yezdeguerd']
 order: '001'
