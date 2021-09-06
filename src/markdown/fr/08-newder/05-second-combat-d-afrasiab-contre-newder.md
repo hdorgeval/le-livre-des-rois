@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 318
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+episode-slug: 'second-combat-d-afrasiab-contre-newder'
 title: "Second combat d'Afrasiab contre Newder | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
