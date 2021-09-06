@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 177
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'troisieme-visite-de-siawusch'
 title: "Troisième visite de Siawusch dans l'appartement des femmes | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '064'
