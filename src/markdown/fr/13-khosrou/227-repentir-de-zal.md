@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 192
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'repentir-de-zal'
 title: 'Réponse de Keï Khosrou et repentir de Zal | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '227'
