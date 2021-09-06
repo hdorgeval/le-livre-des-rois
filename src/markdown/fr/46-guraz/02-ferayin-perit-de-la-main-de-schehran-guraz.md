@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 338
 reign: 'Guraz, appelé Ferayîn'
 reign-slug: 'regne-de-guraz'
+episode-slug: 'ferayin-perit-de-la-main-de-schehran-guraz'
 title: 'Ferayîn périt de la main de Schehran Guraz | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
