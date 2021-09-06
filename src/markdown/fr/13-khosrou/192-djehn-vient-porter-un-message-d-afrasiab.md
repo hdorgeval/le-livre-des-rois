@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 080
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'djehn-vient-porter-un-message-d-afrasiab'
 title: "Djehn vient porter un message d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '192'
