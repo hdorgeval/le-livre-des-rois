@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 145
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'tour-est-tue-de-la-main-de-minoutchehr'
 title: 'Tour est tué de la main de Minoutchehr | Le Livre des Rois | Shâhnâmeh'
 tags: ['Karen', 'Minoutchehr', 'Tour']
 order: '021'
