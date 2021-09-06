@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 485
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'saweh-envoie-un-nouveau-message-a-bahram-djoubineh'
 title: 'Saweh envoie un nouveau message à Bahram Djoubineh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '013'
