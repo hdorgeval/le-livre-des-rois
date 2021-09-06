@@ -7,6 +7,7 @@ image: 'UAFXj9dRpwo.jpeg'
 source: tome IV - livre des rois - P. 231
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'guschtasp-part-pour-le-roum'
 title: 'Guschtasp part pour le Roum | Le Livre des Rois | Shâhnâmeh'
 tags: ['Guschtasp', 'Hirbed', 'Lohrasp', 'Pehlewan', 'Roum', 'Rustem']
 order: '04'
