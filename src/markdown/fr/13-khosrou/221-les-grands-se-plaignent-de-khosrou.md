@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 175
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'les-grands-se-plaignent-de-khosrou'
 title: 'Les grands se plaignent de ce que Keï Khosrou ferme sa cour | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '221'
