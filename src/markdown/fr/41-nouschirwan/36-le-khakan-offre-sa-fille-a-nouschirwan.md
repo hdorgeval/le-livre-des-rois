@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 265
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'le-khakan-offre-sa-fille-a-nouschirwan'
 title: 'Le Khakan offre sa fille en mariage à Nouschirwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '036'
