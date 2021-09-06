@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 405
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+episode-slug: 'ce-qui-arriva-entre-bahram-et-la-joueuse-de-luth'
 title: 'Ce qui arriva à la chasse entre Bahram et la joueuse de Luth | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
