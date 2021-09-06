@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 064
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-passe-le-djihoun'
 title: 'Keï Khosrou passe le Djihoun | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '187'
