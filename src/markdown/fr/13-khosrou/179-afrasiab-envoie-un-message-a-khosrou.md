@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 030
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-envoie-un-message-a-khosrou'
 title: 'Afrasiab envoie un message à Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '179'
