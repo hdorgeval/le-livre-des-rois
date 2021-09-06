@@ -7,6 +7,7 @@ image: 'Mw00TR34O2c.jpeg'
 source: tome II - livre des rois - P. 455
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'kei-khosrou-passe-en-revue-les-pehlewans'
 title: 'Keï Khosrou passe en revue les Pehlewans | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
