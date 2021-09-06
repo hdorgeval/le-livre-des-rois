@@ -7,6 +7,7 @@ image: 'zvf7cZ0PC20.jpeg'
 source: tome IV - livre des rois - P. 227
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'zerir-ramene-guschtasp'
 title: 'Zerir ramène Guschtasp | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
