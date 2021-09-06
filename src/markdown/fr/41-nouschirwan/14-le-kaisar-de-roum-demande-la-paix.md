@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 170
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'le-kaisar-de-roum-demande-la-paix'
 title: 'Le Kaïsar de Roum demande la paix à Nouschirwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '014'
