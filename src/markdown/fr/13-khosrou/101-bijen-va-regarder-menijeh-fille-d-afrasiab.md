@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 244
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'bijen-va-regarder-menijeh-fille-d-afrasiab'
 title: "Bijen va regarder Menijeh fille d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '101'
