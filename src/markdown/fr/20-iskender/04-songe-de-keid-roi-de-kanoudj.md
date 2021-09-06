@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 088
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'songe-de-keid-roi-de-kanoudj'
 title: 'Songe de Keïd, roi de Kanoudj | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
