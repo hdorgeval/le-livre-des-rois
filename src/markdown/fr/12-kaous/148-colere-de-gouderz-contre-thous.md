@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 431
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'colere-de-gouderz-contre-thous'
 title: 'Colère de Gouderz contre Thous | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '148'
