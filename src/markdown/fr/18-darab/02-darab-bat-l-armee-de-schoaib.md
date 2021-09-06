@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 039
 reign: 'Darab'
 reign-slug: 'regne-de-darab'
+episode-slug: 'darab-bat-l-armee-de-schoaib'
 title: "Darab bat l'armée de Schoaïb | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '002'
