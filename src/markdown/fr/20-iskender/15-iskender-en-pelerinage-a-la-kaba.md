@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 124
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-en-pelerinage-a-la-kaba'
 title: "Iskender va en pèlerinage à la Ka'ba | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '015'
