@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 171
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'sam-voit-son-fils-en-songe'
 title: 'Sam voit son fils en songe | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
