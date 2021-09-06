@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 119
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'iredj-est-assassine-par-ses-freres'
 title: 'Iredj est assassiné par ses frères | Le Livre des Rois | Shâhnâmeh'
 tags: ['Chine', 'cyprès', 'Dieu', 'Iran', 'Iredj', 'Keïanides', 'Roum', 'Tour', 'Turcs']
 order: '012'
