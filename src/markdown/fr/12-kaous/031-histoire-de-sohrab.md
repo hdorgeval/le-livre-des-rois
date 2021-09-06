@@ -1,14 +1,14 @@
 ---
 lastUpdate: '2021-09-04'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 54
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Histoire de Sohrab | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ['âme', 'Dieu', 'Div', 'rejeton', 'Rustem', 'Sohrab']
 order: '031'
 ---
 
@@ -16,7 +16,7 @@ order: '031'
 
 # Histoire de Sohrab
 
-Écoute maintenant le combat de Sohrab contre Rustem : tu as prêté l’oreille aux autres histoires ; prêtela encore à celle-ci.
+Écoute maintenant le combat de Sohrab contre Rustem : tu as prêté l’oreille aux autres histoires ; prête-la encore à celle-ci.
 
 C’est un récit plein de larmes et ton cœur tendre se remplira de colère contre Rustem.
 
