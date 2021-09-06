@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 357
 reign: 'Guerschasp'
 reign-slug: 'regne-de-guerschasp'
+episode-slug: 'zal-conduit-son-armee-contre-afrasiab'
 title: 'Zal conduit son armée contre Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
