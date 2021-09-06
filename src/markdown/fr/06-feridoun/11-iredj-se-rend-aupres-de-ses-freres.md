@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 116
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'iredj-se-rend-aupres-de-ses-freres'
 title: 'Iredj se rend auprès de ses frères | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Chine', 'Dieu', 'Iredj', 'Selm', 'Tour']
 order: '011'
