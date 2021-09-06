@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 261
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'zal-repond-aux-mobeds'
 title: 'Zal répond aux Mobeds | Le Livre des Rois | Shâhnâmeh'
 tags: ['Aderguschasp', 'Balance', 'Bélier', 'cyprès', 'Mobeds', 'Poisson', 'Saturne', 'Zal']
 order: '025'
