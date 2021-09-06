@@ -7,6 +7,7 @@ image: '9g29Hmf1bnQ.jpeg'
 source: tome III - livre des rois - P. 135
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'rustem-adresse-la-parole-a-son-armee'
 title: 'Rustem adresse la parole à son armée | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
