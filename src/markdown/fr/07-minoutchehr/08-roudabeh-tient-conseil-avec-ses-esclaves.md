@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 192
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'roudabeh-tient-conseil-avec-ses-esclaves'
 title: 'Roudabeh tien conseil avec ses esclaves | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
