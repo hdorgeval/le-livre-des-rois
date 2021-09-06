@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 166
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'bahram-djoubineh-tue-le-lion-keppi'
 title: 'Bahram Djoubineh tue le lion Keppi | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '037'
