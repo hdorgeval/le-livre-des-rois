@@ -7,6 +7,7 @@ image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 204
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'rustem-et-pouladwend-luttent-corps-a-corps'
 title: 'Rustem et Pouladwend luttent corps à corps | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
