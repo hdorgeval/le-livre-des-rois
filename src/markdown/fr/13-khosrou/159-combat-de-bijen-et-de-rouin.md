@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 459
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-bijen-et-de-rouin'
 title: 'Combat de Bijen et de Rouïn | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '159'
