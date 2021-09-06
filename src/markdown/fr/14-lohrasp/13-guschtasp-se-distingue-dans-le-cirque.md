@@ -7,6 +7,7 @@ image: 'ec6E029hwMo.jpeg'
 source: tome IV - livre des rois - P. 265
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'guschtasp-se-distingue-dans-le-cirque'
 title: 'Guschtasp se distingue dans le cirque | Le Livre des Rois | Shâhnâmeh'
 tags:
   ['Ahren', 'âme', 'Farrukhzad', 'Guschtasp', 'Heischoui', 'Kaisar', 'Kitaboun', 'Mirin', 'Roum']
