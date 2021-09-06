@@ -7,6 +7,7 @@ image: 'zqwK4a6JXgc.jpeg'
 source: tome II - livre des rois - P. 493
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'thous-attaque-firoud'
 title: 'Thous attaque Firoud | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
