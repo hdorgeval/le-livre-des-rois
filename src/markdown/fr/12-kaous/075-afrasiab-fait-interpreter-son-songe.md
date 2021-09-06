@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 207
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'afrasiab-fait-interpreter-son-songe'
 title: 'Afrasiab fait interpréter son songe | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '075'
