@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 14
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'afrasiab-attaque-le-pays-d-iran'
 title: "Afrasiab attaque le pays d'Iran | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
