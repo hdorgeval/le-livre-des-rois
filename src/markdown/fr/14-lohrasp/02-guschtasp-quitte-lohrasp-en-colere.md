@@ -7,6 +7,7 @@ image: 'u7dy-n4uZVk.jpeg'
 source: tome IV - livre des rois - P. 224
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'guschtasp-quitte-lohrasp-en-colere'
 title: 'Guschtasp quitte Lohrasp en colère | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
