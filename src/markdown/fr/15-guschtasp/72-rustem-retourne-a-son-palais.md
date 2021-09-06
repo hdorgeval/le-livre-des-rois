@@ -7,6 +7,7 @@ image: 'peaTniZsUQs.jpeg'
 source: tome IV - livre des rois - P. 510
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'rustem-retourne-a-son-palais'
 title: 'Rustem retourne à son palais | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
