@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 164
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'soudabeh-devient-amoureuse-de-siawusch'
 title: 'Soudabeh devient amoureuse de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '061'
