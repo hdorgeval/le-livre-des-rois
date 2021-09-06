@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 046
 reign: 'Djemschid'
 reign-slug: 'regne-de-djemschid'
+episode-slug: 'mort-de-djemschid'
 title: 'Mort de Djemschid | Le Livre des Rois | Shâhnâmeh'
 tags: ['Arabes', 'Arabie', 'Chine', 'Dieu', 'Djemschid', 'Iran', 'Zohak']
 order: '004'
