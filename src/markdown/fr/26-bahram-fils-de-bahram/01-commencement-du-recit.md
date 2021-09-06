@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 329
 reign: 'Bahram fils de Bahram'
 reign-slug: 'regne-de-bahram-fils-de-bahram'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Bahram', 'Créateur', 'Dieu', 'Iran', 'Keïanides', 'Mobed', 'Mobeds', 'Saturne']
 order: '001'
