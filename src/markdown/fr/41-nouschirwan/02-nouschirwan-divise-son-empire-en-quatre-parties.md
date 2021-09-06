@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 127
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'nouschirwan-divise-son-empire-en-quatre-parties'
 title: 'Nouschirwan divise son empire en quatre parties | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
