@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 153
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-se-rend-dans-le-pays-des-brahmanes'
 title: 'Iskender se rend dans le pays des brahmanes | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '023'
