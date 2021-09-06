@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 206
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'lamentations-des-sages-sur-iskender'
 title: 'Lamentations des sages sur Iskender | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '040'
