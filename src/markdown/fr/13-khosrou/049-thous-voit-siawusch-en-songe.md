@@ -7,6 +7,7 @@ image: 'mlAryG9gNyE.jpeg'
 source: tome III - livre des rois - P. 055
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'thous-voit-siawusch-en-songe'
 title: 'Thous voit Siawusch en songe | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
