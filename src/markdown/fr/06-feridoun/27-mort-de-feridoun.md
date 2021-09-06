@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 162
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'mort-de-feridoun'
 title: 'Mort de Feridoun | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Feridoun', 'Keïanides', 'lapis-lazuli', 'Minoutchehr']
 order: '027'
