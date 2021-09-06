@@ -7,6 +7,7 @@ image: 'xOW_W2vsuk8.jpeg'
 source: tome III - livre des rois - P. 013
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'thous-tue-arjeng'
 title: 'Thous tue Arjeng | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
