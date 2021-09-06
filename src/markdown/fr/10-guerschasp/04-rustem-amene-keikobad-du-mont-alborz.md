@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 359
 reign: 'Guerschasp'
 reign-slug: 'regne-de-guerschasp'
+episode-slug: 'rustem-amene-keikobad-du-mont-alborz'
 title: 'Rustem amène Keïkobad du mont Alborz | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
