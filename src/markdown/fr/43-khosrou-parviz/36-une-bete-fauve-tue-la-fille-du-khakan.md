@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 162
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'une-bete-fauve-tue-la-fille-du-khakan'
 title: 'Une bête fauve tue la fille du Khakan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '036'
