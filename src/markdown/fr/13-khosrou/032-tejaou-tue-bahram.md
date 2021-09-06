@@ -7,6 +7,7 @@ image: 'XrJL-eyuvQk.jpeg'
 source: tome II - livre des rois - P. 550
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'tejaou-tue-bahram'
 title: 'Tejaou tue Bahram | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
