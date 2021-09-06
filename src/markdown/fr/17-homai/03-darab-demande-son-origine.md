@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 021
 reign: 'Homaï'
 reign-slug: 'regne-de-homai'
+episode-slug: 'darab-demande-son-origine'
 title: 'Darab demande son origine à la femme du blanchisseur | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
