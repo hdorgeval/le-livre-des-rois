@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 499
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'bahram-djoubineh-envoie-a-hormuzd-la-tete-du-roi-saweh'
 title: 'Bahram Djoubineh envoie à Hormuzd la tête du roi Saweh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '018'
