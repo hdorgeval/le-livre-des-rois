@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 024
 reign: 'Homaï'
 reign-slug: 'regne-de-homai'
+episode-slug: 'reschnewad-apprend-la-verite-sur-darab'
 title: 'Reschnewad apprend la vérité sur Darab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
