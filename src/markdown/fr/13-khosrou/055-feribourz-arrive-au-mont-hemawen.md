@@ -7,6 +7,7 @@ image: 'dHpVHLdvlKg.jpeg'
 source: tome III - livre des rois - P. 074
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'feribourz-arrive-au-mont-hemawen'
 title: 'Feribourz arrive au mont hemawen | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
