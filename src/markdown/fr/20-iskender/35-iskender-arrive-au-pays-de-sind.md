@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 193
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-arrive-au-pays-de-sind'
 title: 'Iskender arrive au pays de Sind et y livre une bataille | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '035'
