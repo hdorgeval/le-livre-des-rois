@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 499
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'bahram-djoubineh-fait-tuer-un-sorcier'
 title: 'Bahram Djoubineh fait tuer un sorcier | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '017'
