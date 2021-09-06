@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 331
 reign: 'Ardeschir fils de Schirouï'
 reign-slug: 'regne-de-ardeschir-fils-de-schiroui'
+episode-slug: 'guraz-desapprouve-la-prise-de-possession-du-trone-par-ardeschir'
 title: 'Guraz désapprouve la prise de possession du trône par Ardeschir et le fait assassiner par Firouz, fils de Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
