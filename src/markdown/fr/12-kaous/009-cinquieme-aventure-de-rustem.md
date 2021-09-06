@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 414
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'cinquieme-aventure-de-rustem'
 title: '5ème aventure - Aulad tombe au pouvoir de Rustem | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
