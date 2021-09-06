@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 119
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'bahram-djoubineh-se-met-en-marche-contre-khosrou'
 title: 'Bahram Djoubineh se met en marche contre Khosrou et bat les Roumis | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '026'
