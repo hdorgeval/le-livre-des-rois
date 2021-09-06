@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 534
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-montre-son-habilite-dans-la-chasse-aux-onagres'
 title: "Bahram montre son habilité dans la chasse à l'onagre | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '018'
