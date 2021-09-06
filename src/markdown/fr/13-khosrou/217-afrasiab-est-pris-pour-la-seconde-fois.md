@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 165
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-est-pris-pour-la-seconde-fois'
 title: 'Afrasiab est pris pour la seconde fois et mis à mort avec Guersiwez | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '217'
