@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 289
 reign: 'Kobad fils de Khosrou Parviz'
 reign-slug: 'regne-de-kobad-fils-de-parviz'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
