@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 101
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-envoie-neuf-savants'
 title: 'Iskender envoie neuf savants pour voir les quatre merveilles de Keïd | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
