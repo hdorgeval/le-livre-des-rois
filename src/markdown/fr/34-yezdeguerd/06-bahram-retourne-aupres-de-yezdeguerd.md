@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 409
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+episode-slug: 'bahram-retourne-aupres-de-yezdeguerd'
 title: 'Bahram retourne auprès de son père Yezdeguerd avec Noman | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '006'
