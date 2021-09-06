@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 325
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+episode-slug: 'newder-tombe-entre-les-mains-d-afrasiab'
 title: "Newder tombe entre les mains d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: ['Afrasiab', 'Barman', 'Karen', 'Kaweh', 'Newder', 'Touran', 'Wiseh']
 order: '007'
