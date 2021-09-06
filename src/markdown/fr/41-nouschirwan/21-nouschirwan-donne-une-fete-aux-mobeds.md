@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 198
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'nouschirwan-donne-une-fete-aux-mobeds'
 title: 'Nouschirwan donne une fête aux Mobeds | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '021'
