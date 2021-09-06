@@ -7,6 +7,7 @@ image: 'FNeDH_nWfcQ.jpeg'
 source: tome IV - livre des rois - P. 500
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'rustem-se-vante-de-ses-hauts-faits'
 title: 'Rustem se vante de ses hauts faits | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
