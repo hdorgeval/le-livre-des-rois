@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 302
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+episode-slug: 'newder-monte-sur-le-trone'
 title: 'Newder monte sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
