@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 104
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'feridoun-distribue-la-terre-entre-ses-fils'
 title: 'Feridoun distribue la terre entre ses fils | Le Livre des Rois | Shâhnâmeh'
 tags: ['Chine', 'Feridoun', 'Iran', 'Iredj', 'Roum', 'Selm', 'Tour', 'Touran', 'Turcs', 'Turkestan']
 order: '007'
