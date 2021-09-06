@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 097
 reign: 'Kobad fils de Pirouz'
 reign-slug: 'regne-de-kobad-fils-de-pirouz'
+episode-slug: 'les-iraniens-rendent-souferai-suspect-a-kobad'
 title: 'Les Iraniens rendent Souferaï suspect à Kobad | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '002'
