@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 387
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'guiv-decouvre-khosrou'
 title: 'Guiv découvre Keï Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '133'
