@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 297
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'lettre-de-zal-a-sam'
 title: 'Lettre de Zal à Sam | Le Livre des Rois | Shâhnâmeh'
 tags: ['Bélier', 'Destan', 'Minoutchehr', 'Mobed', 'Neriman', 'Pehlewan', 'Rustem', 'Sam', 'Zal']
 order: '034'
