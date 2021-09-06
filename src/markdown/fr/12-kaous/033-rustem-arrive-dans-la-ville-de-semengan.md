@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 58
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'rustem-arrive-dans-la-ville-de-semengan'
 title: 'Rustem arrive dans la ville de Semengan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '033'
