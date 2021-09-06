@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 248
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'colere-de-mihrab-contre-sindokht'
 title: 'Colère de Mihrab contre Sindokht | Le Livre des Rois | Shâhnâmeh'
 tags: ['Badakhschan', 'Iran', 'Kaboul', 'Mihrab', 'Roudabeh', 'Sam', 'Sindokht']
 order: '021'
