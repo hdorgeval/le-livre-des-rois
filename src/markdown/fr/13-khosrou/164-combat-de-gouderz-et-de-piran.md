@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 464
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-gouderz-et-de-piran'
 title: 'Combat de Gouderz et de Piran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '164'
@@ -24,8 +25,7 @@ Il nous fait naître du vent et nous livre à l’ouragan ; nous demandons justi
 
 La lutte avait porté malheur aux Touraniens, il leur en coûtait cher d’avoir livré combat sur ce champ de bataille ; Piran ne voyait plus un seul cavalier de son armée sur la plaine.
 
-Alors les Sipehdars de l’Iran et du Touran s’avance--
-rent résolûment au combat.
+Alors les Sipehdars de l’Iran et du Touran s’avancèrent résolument au combat.
 
 Ils cumulèrent sous leurs pieds la surface de la terre ; leur cœur était, rempli de douleur, leur tête pleine du désir de la vengeance ; et le soleil s’arrêta pendant leur combat, étonné de la poussière qui s’élevait du champ de ba-
 
@@ -55,15 +55,14 @@ A hommes.
 
 Il s’écria :
 
-> Ô illustre Pehlewan, que t’ar-
-nrive-t-il ?
+> Ô illustre Pehlewan, que t’arrive-t-il ?
 >
 > Pourquoi t’enfuis-tu ainsi à pied devant moi comme une bête fauve ?
 >
 > Où sont donc les troupes, ô chef de l’armée ?
 >
 > Où sont la force et la bra-
-œ vonre, les armes, le courage, les trésors et la sagesse dont tu parlais ? Ô soutien des braves, ô défenseur ce d’Afrasiab, voici le soleil qui s’éclipse pour ton roi.
+> œ vonre, les armes, le courage, les trésors et la sagesse dont tu parlais ? Ô soutien des braves, ô défenseur ce d’Afrasiab, voici le soleil qui s’éclipse pour ton roi.
 >
 > Le sort te tourne entièrement le dos ; ce n’est pas le moment d’employer des ruses ; ainsi ne cherche pas à t’échapper.
 >
