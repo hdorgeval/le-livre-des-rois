@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 343
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'malikeh-devient-amoureuse-de-schapour'
 title: 'Malikeh, la fille de Thaïr, devient amoureuse de Schapour | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
