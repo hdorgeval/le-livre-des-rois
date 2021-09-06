@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 079
 reign: 'Zohak'
 reign-slug: 'regne-de-zohak'
+episode-slug: 'feridoun-enchaine-zohak'
 title: 'Feridoun enchaine Zohak | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
