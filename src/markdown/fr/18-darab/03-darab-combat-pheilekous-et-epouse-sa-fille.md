@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 040
 reign: 'Darab'
 reign-slug: 'regne-de-darab'
+episode-slug: 'darab-combat-pheilekous-et-epouse-sa-fille'
 title: 'Darab combat Pheïlekous et épouse sa fille | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
