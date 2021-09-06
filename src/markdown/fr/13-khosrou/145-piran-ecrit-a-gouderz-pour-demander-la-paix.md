@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 403
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'piran-ecrit-a-gouderz-pour-demander-la-paix'
 title: 'Piran écrit à Gouderz pour demander la paix | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '145'
