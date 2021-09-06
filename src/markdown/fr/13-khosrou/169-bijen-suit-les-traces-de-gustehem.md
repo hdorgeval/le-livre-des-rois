@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 482
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'bijen-suit-les-traces-de-gustehem'
 title: 'Bijen suit les traces de Gustehem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '169'
