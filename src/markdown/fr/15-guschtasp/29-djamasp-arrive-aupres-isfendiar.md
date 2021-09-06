@@ -7,6 +7,7 @@ image: 'UkO87bTCVac.jpeg'
 source: tome IV - livre des rois - P. 349
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'djamasp-arrive-aupres-isfendiar'
 title: "Djamasp arrive auprès d'Isfendiar | Le Livre des Rois | Shâhnâmeh"
 map: ''
 tags:
