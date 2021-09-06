@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 179
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'soudabeh-trompe-le-roi'
 title: 'Soudabeh trompe le roi | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '065'
