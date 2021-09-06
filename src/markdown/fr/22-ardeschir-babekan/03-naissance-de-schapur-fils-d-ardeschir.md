@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 269
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+episode-slug: 'naissance-de-schapur-fils-d-ardeschir'
 title: "Naissance de Schapour, fils d'Ardeschir | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '003'
