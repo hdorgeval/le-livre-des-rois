@@ -7,6 +7,7 @@ image: 'kfv21yEf-6Y.jpeg'
 source: tome II - livre des rois - P. 449
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'kei-khosrou-fait-le-tour-de-son-empire'
 title: 'Keï Khosrou fait le tour de son empire | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
