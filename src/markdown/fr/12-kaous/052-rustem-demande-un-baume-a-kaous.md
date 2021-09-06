@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 140
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'rustem-demande-un-baume-a-kaous'
 title: 'Rustem demande un baume à Kaous | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '052'
