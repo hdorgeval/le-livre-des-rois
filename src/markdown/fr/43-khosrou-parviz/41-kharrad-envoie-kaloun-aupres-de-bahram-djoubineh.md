@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 181
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'kharrad-envoie-kaloun-aupres-de-bahram-djoubineh'
 title: 'Kharrad, fils de Berzin, envoie Kaloun auprès de Bahram Djoubineh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '041'
