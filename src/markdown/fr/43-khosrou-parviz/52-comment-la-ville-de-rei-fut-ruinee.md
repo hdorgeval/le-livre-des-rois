@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 217
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'comment-la-ville-de-rei-fut-ruinee'
 title: 'Comment la ville de Reï fut ruinée | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '052'
