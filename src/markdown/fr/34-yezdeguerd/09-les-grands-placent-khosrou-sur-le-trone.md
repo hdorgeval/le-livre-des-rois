@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 419
 reign: 'Yezdeguerd le méchant'
 reign-slug: 'regne-de-yezdeguerd'
+episode-slug: 'les-grands-placent-khosrou-sur-le-trone'
 title: 'Les grands placent Khosrou sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '009'
