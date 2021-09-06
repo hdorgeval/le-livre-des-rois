@@ -7,6 +7,7 @@ image: 'bE6jYybsHsw.jpeg'
 source: tome IV - livre des rois - P. 330
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'isfendiar-apprend-la-mort-de-zerir'
 title: 'Isfendiar apprend la mort de Zerir | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags: ['âme', 'Ardjasp', 'Beschouten', 'Isfendiar', 'Lohrasp', 'Zerir']
