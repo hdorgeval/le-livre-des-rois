@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 283
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-devient-le-prisonnier-de-son-fils'
 title: 'Khosrou devient le prisonnier de son fils Schirouïeh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '069'
