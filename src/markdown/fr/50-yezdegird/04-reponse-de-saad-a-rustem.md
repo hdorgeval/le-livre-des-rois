@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 360
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'reponse-de-saad-a-rustem'
 title: 'Réponse de Saad à la lettre de Rustem | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
