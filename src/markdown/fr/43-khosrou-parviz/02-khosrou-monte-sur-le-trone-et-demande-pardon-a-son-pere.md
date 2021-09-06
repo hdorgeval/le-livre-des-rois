@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 003
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-monte-sur-le-trone-et-demande-pardon-a-son-pere'
 title: 'Khosrou monte sur le trône et demande pardon à son père | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
