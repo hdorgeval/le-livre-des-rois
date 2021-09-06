@@ -7,6 +7,7 @@ image: 'OwqLxCvoVxI.jpeg'
 source: tome IV - livre des rois - P. 303
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'retour-des-envoyés-d-ardjasp'
 title: "Les envoyés d'Ardjasp s'en retournent avec la réponse de Guschtasp | Le Livre des Rois | Shâhnâmeh"
 map: ''
 tags:
