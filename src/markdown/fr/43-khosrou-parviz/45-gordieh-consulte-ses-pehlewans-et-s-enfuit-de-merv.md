@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 196
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'gordieh-consulte-ses-pehlewans-et-s-enfuit-de-merv'
 title: "Gordieh consulte ses Pehlewans et s'enfuit de Merv | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '045'
