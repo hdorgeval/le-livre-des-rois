@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 304
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'bijen-devine-l-arrivee-de-rustem'
 title: "Bijen devine l'arrivée de Rustem | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '119'
