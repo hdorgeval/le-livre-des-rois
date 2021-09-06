@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 392
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'yezdegird-est-egorge-par-le-meunier'
 title: 'Yezdegird est égorgé par le meunier | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
