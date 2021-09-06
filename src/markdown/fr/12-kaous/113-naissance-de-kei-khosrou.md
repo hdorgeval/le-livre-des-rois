@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 333
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'naissance-de-kei-khosrou'
 title: 'Naissance de Keï Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '113'
