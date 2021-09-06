@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 187
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'combat-entre-ram-berzin-et-nouschzad'
 title: 'Combat entre Nouschzad et Ram Berzin et mort de Nouschzad | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '018'
