@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 292
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'rustem-demande-au-roi-la-grace-de-gourguin'
 title: 'Rustem demande au roi la grâce de Gourguin | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '115'
