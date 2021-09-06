@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 168
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'nouschirwan-batit-une-ville-en-imitation-d-antioche'
 title: "Nouschirwan bâtit une ville en imitation d'Antioche et y établit les captifs Roumis | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '013'
