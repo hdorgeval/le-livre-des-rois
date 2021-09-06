@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 167
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'siawusch-se-rend-chez-soudabeh'
 title: 'Siawusch se rend chez Soudabeh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '062'
