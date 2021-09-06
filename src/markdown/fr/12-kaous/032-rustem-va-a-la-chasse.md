@@ -1,14 +1,14 @@
 ---
 lastUpdate: '2021-09-04'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 56
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 title: 'Rustem va à la chasse | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ['Dihkan', 'honte', 'lacet', 'Mobed', 'Raksch', 'Rustem', 'Semengan', 'Touran', 'Turcs']
 order: '032'
 ---
 
@@ -36,7 +36,7 @@ Or il arriva que sept ou huit cavaliers turcs passèrent par le lieu de la chass
 
 Ils fondirent sur lui de tous côtés et lancèrent contre lui un lacet royal.
 
-Quand Raksch vit le lacet des cavaliers, il s’élança contre eux comme un lion indomptable, en tua deux en les frappant de ses pieds et arracha avec les dents. la tête à un autre.
+Quand Raksch vit le lacet des cavaliers, il s’élança contre eux comme un lion indomptable, en tua deux en les frappant de ses pieds et arracha avec les dents la tête à un autre.
 
 Trois de la troupe étaient morts et le courageux Raksch n’était pas encore lié ; mais ils jetèrent sur lui leurs lacets de tous côtés et prirent sa tête dedans ; ils le saisirent et le menèrent en courant à la ville, où chacun voulait tirer parti de lui.
 
@@ -54,6 +54,6 @@ Il fut courroucé lorsqu’il se vit privé de cheval et prit, tout confus, le c
 >
 > Rustem s’est endormi et il est mort.
 >
-> Il faut maintenant que je parte dans cet embarras, que je. laisse aller entièrement mon cœur à nette douleur ; il faut que je mette ma ceinture et a que je me charge de mes armes, peut-être arriverai-je à un endroit où je trouverai des traces de Raksch. »
+> Il faut maintenant que je parte dans cet embarras, que je laisse aller entièrement mon cœur à cette douleur ; il faut que je mette ma ceinture et que je me charge de mes armes, peut-être arriverai-je à un endroit où je trouverai des traces de Raksch.
 
 C’est ainsi qu’il partit le cœur plein de trouble et de soucis, le corps dans la souffrance, l’esprit à la torture.
