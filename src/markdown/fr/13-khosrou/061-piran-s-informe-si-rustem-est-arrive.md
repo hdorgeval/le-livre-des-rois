@@ -7,6 +7,7 @@ image: 'FNeDH_nWfcQ.jpeg'
 source: tome III - livre des rois - P. 099
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'piran-s-informe-si-rustem-est-arrive'
 title: "Piran s'informe si Rustem est arrivé | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
