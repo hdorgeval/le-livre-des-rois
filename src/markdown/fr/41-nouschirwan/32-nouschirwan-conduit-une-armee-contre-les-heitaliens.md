@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 250
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'nouschirwan-conduit-une-armee-contre-les-heitaliens'
 title: 'Nouschirwan apprend ce que les Heïtaliens ont fait et conduit une armée contre eux | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '032'
