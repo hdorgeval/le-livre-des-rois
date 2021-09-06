@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 026
 reign: 'Houscheng'
 reign-slug: 'regne-de-houscheng'
+episode-slug: 'introduction-de-la-fete-du-feu'
 title: 'Introduction de la fête du feu | Le Livre des Rois | Shâhnâmeh'
 tags: ['Arabes', 'Créateur', 'Dieu', 'Houscheng', 'Sedeh']
 order: '002'
