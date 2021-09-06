@@ -7,6 +7,7 @@ image: 'SE24tM-mnug.jpeg'
 source: tome II - livre des rois - P. 446
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'les-grands-rendent-hommage-a-khosrou'
 title: 'Les grands rendent hommage à Keï Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
