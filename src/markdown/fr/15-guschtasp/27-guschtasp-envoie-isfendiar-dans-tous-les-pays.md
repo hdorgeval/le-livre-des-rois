@@ -7,6 +7,7 @@ image: 'DzpViKMZHe8.jpeg'
 source: tome IV - livre des rois - P. 343
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'guschtasp-envoie-isfendiar-dans-tous-les-pays'
 title: 'Guschtasp envoie Isfendiar dans tous les pays pour les convertir à la religion de Zerdouscht | Le Livre des Rois | Shâhnâmeh'
 map: ''
 tags:
