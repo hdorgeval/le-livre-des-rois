@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 021
 reign: 'Kaïoumors'
 reign-slug: 'regne-de-kaioumors'
+episode-slug: 'combat-de-siamek-avec-le-div'
 title: 'Combat de Siamek avec le Div | Le Livre des Rois | Shâhnâmeh'
 tags: ['Ahriman', 'âme', 'Dieu', 'Div', 'Divs', 'Serosch', 'Siamek']
 order: '002'
