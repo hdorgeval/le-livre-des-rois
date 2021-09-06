@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 267
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'sur-la-puissance-de-khosrou'
 title: 'Sur la puissance de Khosrou Parviz | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '064'
