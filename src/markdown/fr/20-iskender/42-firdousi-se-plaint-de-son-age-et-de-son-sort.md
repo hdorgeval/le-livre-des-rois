@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 211
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'firdousi-se-plaint-de-son-age-et-de-son-sort'
 title: 'Firdousi se plaint de son âge et de son sort | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '042'
