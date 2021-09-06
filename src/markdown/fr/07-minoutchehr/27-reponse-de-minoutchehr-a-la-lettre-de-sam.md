@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 267
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'reponse-de-minoutchehr-a-la-lettre-de-sam'
 title: 'Réponse de Minoutchehr à la lettre de Sam | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
