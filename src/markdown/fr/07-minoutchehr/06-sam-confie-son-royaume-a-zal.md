@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 182
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'sam-confie-son-royaume-a-zal'
 title: 'Sam confie son royaume à Zal | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
