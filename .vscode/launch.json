@@ -85,5 +85,24 @@
       "protocol": "inspector",
       "internalConsoleOptions": "openOnSessionStart"
     },
+    {
+      "name": "[fr] Create excerpt from text selection",
+      "type": "node",
+      "request": "launch",
+      "env": {
+        "CURRENT_MD_FILEPATH": "${relativeFile}",
+        "CURRENT_MD_SELECTED_TEXT": "${selectedText}",
+      },
+      "args": [
+        "src/tools/fr/markdown-excerpt/create-markdown-excerpt.ts"
+      ],
+      "runtimeArgs": [
+        "-r",
+        "ts-node/register"
+      ],
+      "cwd": "${workspaceRoot}",
+      "protocol": "inspector",
+      "internalConsoleOptions": "openOnSessionStart"
+    },
   ]
 }
