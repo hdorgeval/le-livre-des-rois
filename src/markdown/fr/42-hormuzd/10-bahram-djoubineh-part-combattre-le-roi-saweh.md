@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 473
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'bahram-djoubineh-part-combattre-le-roi-saweh'
 title: 'Bahram Djoubineh part combattre le roi Saweh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '010'
