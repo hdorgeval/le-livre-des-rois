@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 391
 reign: 'Bahram fils de Schapour'
 reign-slug: 'regne-de-bahram-fils-de-schapour'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['Bahram', 'cyprès', 'Dieu', 'Mahmoud', 'quatorze', 'Schapour', 'Yezdeguerd']
 order: '001'
