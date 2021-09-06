@@ -7,6 +7,7 @@ image: 'DbJR10fEteE.jpeg'
 source: tome II - livre des rois - P. 451
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'kei-khosrou-promet-a-kaous-de-se-venger-d-afrasiab'
 title: "Keï Khosrou promet à Kaous de se venger d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
