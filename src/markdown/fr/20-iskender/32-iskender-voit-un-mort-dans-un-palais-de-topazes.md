@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 182
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-voit-un-mort-dans-un-palais-de-topazes'
 title: 'Iskender voit un mort dans un palais de topazes | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '032'
