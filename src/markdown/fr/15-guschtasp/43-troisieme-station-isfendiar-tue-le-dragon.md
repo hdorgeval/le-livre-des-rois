@@ -7,6 +7,7 @@ image: 'AJgvCKLWO8o.jpeg'
 source: tome IV - livre des rois - P. 400
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'troisieme-station-isfendiar-tue-le-dragon'
 title: 'Troisème Station - Isfendiar tue le dragon | Le Livre des Rois | Shâhnâmeh'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
