@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 132
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'reponse-de-feridoun-a-ses-fils'
 title: 'Réponse de Feridoun à ses fils | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
