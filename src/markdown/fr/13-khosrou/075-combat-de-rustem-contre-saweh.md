@@ -7,6 +7,7 @@ image: '0q90Mumo-xE.jpeg'
 source: tome III - livre des rois - P. 150
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-rustem-contre-saweh'
 title: 'Combat de Rustem contre Saweh | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
