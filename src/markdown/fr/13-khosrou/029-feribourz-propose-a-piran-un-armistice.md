@@ -7,6 +7,7 @@ image: '-wk6BuXySW0.jpeg'
 source: tome II - livre des rois - P. 535
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'feribourz-propose-a-piran-un-armistice'
 title: 'Feribourz propose à Piran un armistice | Le Livre des Rois | Shâhnâmeh'
 tags: ['Feribourz', 'Gouderz', 'Kaous', 'Pehlewan', 'Piran', 'Rehham', 'Thous', 'Touran']
 order: '029'
