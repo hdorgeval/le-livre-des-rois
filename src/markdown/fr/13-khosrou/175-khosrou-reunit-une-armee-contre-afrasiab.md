@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 008
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-reunit-une-armee-contre-afrasiab'
 title: 'Keï Khosrou réunit une armée contre Afrasiab | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '175'
