@@ -7,6 +7,7 @@ image: 'LvBwmKyK6oo.jpeg'
 source: tome II - livre des rois - P. 489
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'bahram-retourne-aupres-de-thous'
 title: 'Bahram retourne auprès de Thous | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
