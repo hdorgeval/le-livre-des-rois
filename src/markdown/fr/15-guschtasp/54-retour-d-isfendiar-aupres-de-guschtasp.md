@@ -7,6 +7,7 @@ image: 'BzX1lFWJTmw.jpeg'
 source: tome IV - livre des rois - P. 446
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'retour-d-isfendiar-aupres-de-guschtasp'
 title: "Retour d'Isfendiar auprès de Guschtasp | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
