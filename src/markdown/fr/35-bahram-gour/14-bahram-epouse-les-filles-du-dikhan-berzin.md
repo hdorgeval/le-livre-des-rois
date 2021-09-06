@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 494
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-epouse-les-filles-du-dikhan-berzin'
 title: 'Bahram épouse les filles du Dihkan Berzin | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '014'
