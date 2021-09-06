@@ -7,6 +7,7 @@ image: 'MJSFNZ8BAXw.jpeg'
 source: tome IV - livre des rois - P. 293
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'guschtasp-refuse-a-ardjasp-le-tribut-de-l-iran'
 title: "Guschtasp refuse à Ardjasp le tribut de l'Iran | Le Livre des Rois | Shâhnâmeh"
 map: ''
 tags:
