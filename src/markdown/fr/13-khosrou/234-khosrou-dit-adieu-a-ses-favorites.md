@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 210
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-dit-adieu-a-ses-favorites'
 title: 'Keï Khosrou dit adieu à ses favorites | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '234'
