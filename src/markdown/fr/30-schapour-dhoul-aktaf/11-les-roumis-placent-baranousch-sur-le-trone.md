@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 372
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'les-roumis-placent-baranousch-sur-le-trone'
 title: 'Les Roumis placent Baranousch sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '011'
