@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 56
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'rustem-va-a-la-chasse'
 title: 'Rustem va à la chasse | Le Livre des Rois | Shâhnâmeh'
 tags: ['Dihkan', 'honte', 'lacet', 'Mobed', 'Raksch', 'Rustem', 'Semengan', 'Touran', 'Turcs']
 order: '032'
