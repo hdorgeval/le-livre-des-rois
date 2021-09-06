@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 281
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'le-khakan-se-retire-et-nouschirwan-conduit-a-ctesiphon'
 title: 'Le Khakan se retire et Nouschirwan conduit son armée à Ctésiphon | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '039'
