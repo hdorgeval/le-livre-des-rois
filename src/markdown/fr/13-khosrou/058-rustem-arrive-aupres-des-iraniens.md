@@ -7,6 +7,7 @@ image: 'YQyh65_7E30.jpeg'
 source: tome III - livre des rois - P. 084
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'rustem-arrive-aupres-des-iraniens'
 title: 'Rustem arrive auprès des Iraniens | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
