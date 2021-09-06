@@ -7,6 +7,7 @@ image: 'OwqLxCvoVxI.jpeg'
 source: tome IV - livre des rois - P. 438
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'isfendiar-tue-kehrem'
 title: 'Isfendiar tue Kehrem | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
