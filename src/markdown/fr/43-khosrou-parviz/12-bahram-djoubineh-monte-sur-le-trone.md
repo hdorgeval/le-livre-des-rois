@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 062
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'bahram-djoubineh-monte-sur-le-trone'
 title: 'Bahram Djoubineh monte sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
