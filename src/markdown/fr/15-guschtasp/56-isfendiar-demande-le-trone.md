@@ -7,6 +7,7 @@ image: '_EoxKxrDL20.jpeg'
 source: tome IV - livre des rois - P. 455
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'isfendiar-demande-le-trone'
 title: 'Isfendiar demande le trône à son père | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
