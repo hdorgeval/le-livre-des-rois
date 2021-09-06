@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 139
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'feridoun-envoie-minoutchehr-pour-combattre-tour-et-selm'
 title: 'Feridoun envoie Minoutchehr pour combattre Tour et Selm | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
