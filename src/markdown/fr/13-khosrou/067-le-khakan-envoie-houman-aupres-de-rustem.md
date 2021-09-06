@@ -7,6 +7,7 @@ image: 'rydQVdwcgUQ.jpeg'
 source: tome III - livre des rois - P. 115
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'le-khakan-envoie-houman-aupres-de-rustem'
 title: 'Le Khakan envoie Houman auprès de Rustem | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
