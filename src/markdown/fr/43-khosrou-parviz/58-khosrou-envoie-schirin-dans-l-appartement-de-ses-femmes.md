@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 240
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-envoie-schirin-dans-l-appartement-de-ses-femmes'
 title: "Khosrou envoie Schirin dans l'appartement de ses femmes | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '058'
