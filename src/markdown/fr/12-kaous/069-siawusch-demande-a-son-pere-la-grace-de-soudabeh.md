@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 192
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'siawusch-demande-a-son-pere-la-grace-de-soudabeh'
 title: 'Siawusch demande à son père la grâce de Soudabeh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '069'
