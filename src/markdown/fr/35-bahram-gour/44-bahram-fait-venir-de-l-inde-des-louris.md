@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 060
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-fait-venir-de-l-inde-des-louris'
 title: "Bahram fait venir de l'Inde des Louris | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '044'
