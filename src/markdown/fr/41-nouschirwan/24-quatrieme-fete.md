@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 215
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'quatrieme-fete'
 title: 'Quatrième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '024'
