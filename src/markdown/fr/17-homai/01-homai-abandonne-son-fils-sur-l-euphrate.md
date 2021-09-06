@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 014
 reign: 'Homaï'
 reign-slug: 'regne-de-homai'
+episode-slug: 'homai-abandonne-son-fils-sur-l-euphrate'
 title: "Homaï abandonne son fils sur l'Euphrate, enfermé dans une boite | Le Livre des Rois | Shâhnâmeh"
 tags: ['âmes', 'Ardeschir', 'Bahman', 'Chine', 'chrysoprases', 'Euphrate', 'Homaï', 'Roum']
 order: '001'
