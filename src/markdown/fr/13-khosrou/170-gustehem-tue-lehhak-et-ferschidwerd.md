@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 485
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'gustehem-tue-lehhak-et-ferschidwerd'
 title: 'Gustehem tue Lehhak et Ferschidwerd | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '170'
