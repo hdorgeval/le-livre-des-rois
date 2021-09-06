@@ -7,6 +7,7 @@ image: 'Y9j7PLr8w90.jpeg'
 source: tome IV - livre des rois - P. 237
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'un-dikhan-recoit-guschtasp-chez-lui'
 title: 'Un Dikhan reçoit Guschtasp chez lui | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Dikhan', 'Feridoun', 'Guschtasp', 'Juge', 'Tout-puissant']
 order: '06'
