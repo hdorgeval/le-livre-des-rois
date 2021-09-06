@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 462
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-gourguin-et-d-anderiman'
 title: "Combat de Gourguin et d'Anderiman | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '162'
