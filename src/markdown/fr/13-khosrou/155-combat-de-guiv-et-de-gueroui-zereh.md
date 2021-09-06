@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 455
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-guiv-et-de-gueroui-zereh'
 title: 'Combat de Guiv et de Gerouï Zereh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '155'
