@@ -7,6 +7,7 @@ image: 'OwqLxCvoVxI.jpeg'
 source: tome IV - livre des rois - P. 523
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'les-fils-d-isfendiar-sont-tues'
 title: "Les fils d'Isfendiar sont tués par Zeraweh et Faramourz | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
