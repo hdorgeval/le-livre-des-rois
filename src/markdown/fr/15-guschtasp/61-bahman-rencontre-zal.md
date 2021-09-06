@@ -7,6 +7,7 @@ image: 'AJ3g5STqpdE.jpeg'
 source: tome IV - livre des rois - P. 470
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'bahman-rencontre-zal'
 title: 'Bahman rencontre Zal | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
