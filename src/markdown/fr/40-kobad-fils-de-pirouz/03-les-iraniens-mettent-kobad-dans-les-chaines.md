@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 097
 reign: 'Kobad fils de Pirouz'
 reign-slug: 'regne-de-kobad-fils-de-pirouz'
+episode-slug: 'les-iraniens-mettent-kobad-dans-les-chaines'
 title: 'Les Iraniens mettent Kobad dans les chaines et placent sur le trône son frère Djamasp | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '003'
