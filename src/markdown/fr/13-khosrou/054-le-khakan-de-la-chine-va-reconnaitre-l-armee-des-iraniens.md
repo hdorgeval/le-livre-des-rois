@@ -7,6 +7,7 @@ image: 'fAZEw6xPhz8.jpeg'
 source: tome III - livre des rois - P. 070
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'le-khakan-de-la-chine-va-reconnaitre-l-armee-des-iraniens'
 title: "Le Khakan de la Chine va reconnaître l'armée des Iraniens | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
