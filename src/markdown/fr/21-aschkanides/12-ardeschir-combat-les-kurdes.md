@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 243
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+episode-slug: 'ardeschir-combat-les-kurdes'
 title: 'Ardeschir combat les Kurdes | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
