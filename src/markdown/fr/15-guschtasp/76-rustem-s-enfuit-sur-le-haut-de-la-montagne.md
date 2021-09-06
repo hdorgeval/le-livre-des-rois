@@ -7,6 +7,7 @@ image: 'uYJqHDmxqiU.jpeg'
 source: tome IV - livre des rois - P. 527
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'rustem-s-enfuit-sur-le-haut-de-la-montagne'
 title: "Rustem s'enfuit sur le haut de la montagne | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
