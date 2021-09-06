@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 156
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-est-pris-par-houm'
 title: 'Afrasiab est pris par Houm, de la famille de Feridoun | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '214'
