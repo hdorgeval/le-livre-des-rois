@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 151
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'mondhir-demande-aide-contre-les-iniquites-du-kaisar'
 title: "Mondhir, l'arabe, demande aide contre les iniquités du Kaïsar | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '008'
