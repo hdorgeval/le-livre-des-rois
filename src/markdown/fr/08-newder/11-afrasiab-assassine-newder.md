@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 334
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+episode-slug: 'afrasiab-assassine-newder'
 title: 'Afrasiab assassine Newder | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
