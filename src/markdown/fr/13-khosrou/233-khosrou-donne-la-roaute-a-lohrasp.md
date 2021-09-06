@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 206
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-donne-la-roaute-a-lohrasp'
 title: 'Keï Khosrou donne la royauté à Lohrasp | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '233'
