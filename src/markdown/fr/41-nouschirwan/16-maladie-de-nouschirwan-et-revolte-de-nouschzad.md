@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 176
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'maladie-de-nouschirwan-et-revolte-de-nouschzad'
 title: 'Maladie de Nouschirwan et révolte de Nouschzad | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '016'
