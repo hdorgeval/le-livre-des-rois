@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 323
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'ferenguis-vient-se-lamenter-aupres-d-afrasiab'
 title: "Ferenguis vient se lamenter auprès d'Afrasiab | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '110'
