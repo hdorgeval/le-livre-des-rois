@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 212
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'lettre-de-gordieh-a-khosrou-qui-lui-offre-sa-main'
 title: 'Lettre de Gordieh à Khosrou qui lui offre sa main | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '050'
