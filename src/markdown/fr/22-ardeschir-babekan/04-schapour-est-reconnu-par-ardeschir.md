@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 273
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+episode-slug: 'schapour-est-reconnu-par-ardeschir'
 title: 'Schapour joue à la balle et est reconnu par Ardeschir | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
