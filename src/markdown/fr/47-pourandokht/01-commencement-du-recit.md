@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 340
 reign: 'Pourandokht'
 reign-slug: 'regne-de-pourandokht'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['Dieu', 'Khosrou', 'Pirouz', 'Pouran', 'Pourandokht']
 order: '001'
