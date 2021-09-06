@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 145
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'kesra-chatie-les-alains'
 title: 'Kesra châtie les Alains, les Beloudschi et les Ghilani | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
