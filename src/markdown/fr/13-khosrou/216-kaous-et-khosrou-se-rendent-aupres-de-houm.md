@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 162
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'kaous-et-khosrou-se-rendent-aupres-de-houm'
 title: 'Kaous et Khosrou se rendent auprès de Houm | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '216'
