@@ -7,6 +7,7 @@ image: 'AJgvCKLWO8o.jpeg'
 source: tome IV - livre des rois - P. 398
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'seconde-station-isfendiar-tue-les-lions'
 title: 'Seconde Station - Isfendiar tue les lions | Le Livre des Rois | Shâhnâmeh'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags: ['Beschouten', 'Dieu', 'Isfendiar', 'Kergsar', 'Sipehbed', 'Station', 'Turc']
