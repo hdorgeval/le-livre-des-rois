@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 393
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'guiv-et-khosrou-se-rendent-a-siawuschguird'
 title: 'Guiv et Keï Khosrou se rendent à Siawuschguird | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '134'
