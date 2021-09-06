@@ -7,6 +7,7 @@ image: 'fAZEw6xPhz8.jpeg'
 source: tome III - livre des rois - P. 057
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-envoie-le-khakan'
 title: 'Afrasiab envoie le Khakan et Kamous au secours de Piran | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
