@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 457
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'combat-de-fourouhil-et-de-zengouleh'
 title: 'Combat de Fourouhil et de Zengouleh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '157'
