@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 009
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-adresse-aux-chefs-un-discours-sur-la-justice'
 title: 'Bahram adresse aux chefs un discours sur la justice | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '028'
