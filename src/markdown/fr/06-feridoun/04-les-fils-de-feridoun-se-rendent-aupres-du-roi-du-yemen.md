@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 097
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'les-fils-de-feridoun-se-rendent-aupres-du-roi-du-yemen'
 title: 'Les fils de Feridoun se rendent auprès du roi du Yemen | Le Livre des Rois | Shâhnâmeh'
 tags: ['Feridoun', 'Iemen', 'Mobeds', 'Roum', 'Serv', 'Yemen']
 order: '004'
