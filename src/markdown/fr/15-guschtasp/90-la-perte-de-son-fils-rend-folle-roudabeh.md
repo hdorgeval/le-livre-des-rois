@@ -7,6 +7,7 @@ image: 'C6UFNQhUzHw.jpeg'
 source: tome IV - livre des rois - P. 582
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'la-perte-de-son-fils-rend-folle-roudabeh'
 title: 'La perte de son fils rend folle Roudabeh | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
