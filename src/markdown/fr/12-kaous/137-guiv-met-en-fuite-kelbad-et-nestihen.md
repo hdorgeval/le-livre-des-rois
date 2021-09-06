@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 399
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'guiv-met-en-fuite-kelbad-et-nestihen'
 title: 'Guiv met en fuite Kelbad et Nestihen | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '137'
