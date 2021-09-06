@@ -7,6 +7,7 @@ image: '4jLj-GdRn_A.jpeg'
 source: tome III - livre des rois - P. 162
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'rustem-distribue-le-butin'
 title: 'Rustem distribue le butin | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
