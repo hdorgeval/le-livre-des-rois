@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 324
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-donne-une-fete'
 title: 'Khosrou donne une fête | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '125'
