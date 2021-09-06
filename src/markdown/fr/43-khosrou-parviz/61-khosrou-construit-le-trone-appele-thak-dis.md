@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 249
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-construit-le-trone-appele-thak-dis'
 title: 'Khosrou construit le trône Thak-Dis | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '061'
