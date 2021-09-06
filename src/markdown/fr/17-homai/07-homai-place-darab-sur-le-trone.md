@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 033
 reign: 'Homaï'
 reign-slug: 'regne-de-homai'
+episode-slug: 'homai-place-darab-sur-le-trone'
 title: 'Homaï place Darab sur le trône | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
