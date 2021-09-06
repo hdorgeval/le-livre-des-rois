@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 527
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'hormuzd-apprend-le-manque-de-probite-de-bahram-djoudineh'
 title: 'Hormuzd apprend le manque de probité de Bahram Djoubineh et fait un traité avec le Khakan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '024'
