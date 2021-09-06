@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 366
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'yezdegird-se-rend-dans-le-khorasan'
 title: 'Yezdegird tient conseil avec les Iraniens et se rend dans le Khorasan | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
