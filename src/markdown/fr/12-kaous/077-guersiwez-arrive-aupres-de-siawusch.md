@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 213
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'guersiwez-arrive-aupres-de-siawusch'
 title: 'Guersiwez arrive auprès de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '077'
