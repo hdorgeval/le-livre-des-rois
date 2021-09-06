@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 055
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-fait-remise-de-l-impot-aux-proprietaires-de-terres'
 title: "Bahram fait remise de l'impôt aux propriétaires de terres | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '043'
