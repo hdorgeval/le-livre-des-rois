@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 79
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'lettre-de-guzdehem-a-kaous'
 title: 'Lettre de Guzdehem à Kaous | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '040'
