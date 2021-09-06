@@ -7,6 +7,7 @@ image: 'AmtDxJpEEEg.jpeg'
 source: tome IV - livre des rois - P. 482
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'rustem-et-isfendiar-se-rencontre'
 title: 'Rustem et Isfendiar se rencontrent | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
