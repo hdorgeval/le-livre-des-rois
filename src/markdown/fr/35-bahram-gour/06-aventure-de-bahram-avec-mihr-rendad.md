@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 459
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'aventure-de-bahram-avec-mihr-rendad'
 title: 'Aventure de Bahram avec Mihr Bendad | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '006'
