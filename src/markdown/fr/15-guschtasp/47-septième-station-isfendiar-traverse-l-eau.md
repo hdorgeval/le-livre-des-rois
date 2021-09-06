@@ -7,6 +7,7 @@ image: 'AJgvCKLWO8o.jpeg'
 source: tome IV - livre des rois - P. 418
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'septième-station-isfendiar-traverse-l-eau'
 title: "Septième Station - Isfendiar traverse l'eau et tue Kergsar | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
