@@ -7,6 +7,7 @@ image: 'AJgvCKLWO8o.jpeg'
 source: tome IV - livre des rois - P. 404
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'quatrieme-station-isfendiar-tue-la-magicienne'
 title: 'Quatrième Station - Isfendiar tue la magicienne | Le Livre des Rois | Shâhnâmeh'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
