@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 244
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'les-grands-donnent-un-conseil-au-roi'
 title: 'Les grands donnent un conseil à Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '059'
