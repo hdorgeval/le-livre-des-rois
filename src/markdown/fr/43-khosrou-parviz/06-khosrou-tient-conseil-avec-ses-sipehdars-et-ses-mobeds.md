@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 036
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-tient-conseil-avec-ses-sipehdars-et-ses-mobeds'
 title: 'Khosrou tient conseil avec ses Sipehdars et ses Mobeds | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '006'
