@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 130
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-envoie-un-message-au-faghfour-de-la-chine'
 title: 'Keï Khosrou envoie un message au Faghfour de la Chine et au roi du Mekran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '207'
