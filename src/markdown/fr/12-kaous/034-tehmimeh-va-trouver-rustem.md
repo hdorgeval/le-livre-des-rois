@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 60
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'tehmimeh-va-trouver-rustem'
 title: 'Tehmimeh, fille du roi de Semengan, va trouver Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '034'
