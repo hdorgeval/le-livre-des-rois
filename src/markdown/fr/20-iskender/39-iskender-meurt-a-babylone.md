@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 203
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-meurt-a-babylone'
 title: 'Iskender meurt à Babylone | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '039'
