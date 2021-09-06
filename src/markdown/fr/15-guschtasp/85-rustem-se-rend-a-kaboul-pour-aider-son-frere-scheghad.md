@@ -7,6 +7,7 @@ image: '8bPJ0vagphw.jpeg'
 source: tome IV - livre des rois - P. 566
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'rustem-se-rend-a-kaboul-pour-aider-son-frere-scheghad'
 title: 'Rustem se rend à Kaboul pour aider son frère Scheghad | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
