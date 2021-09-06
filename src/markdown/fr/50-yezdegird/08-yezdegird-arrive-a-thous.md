@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 377
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'yezdegird-arrive-a-thous'
 title: 'Yezdegird arrive à Thous où il est reçu par Mahouï Souri | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
