@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 282
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'sam-va-voir-rustem'
 title: 'Sam va voir Rustem | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
