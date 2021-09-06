@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 372
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'rustem-gouverne-le-touran-pendant-sept-ans'
 title: 'Rustem gouverne le Touran pendant sept ans | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '127'
