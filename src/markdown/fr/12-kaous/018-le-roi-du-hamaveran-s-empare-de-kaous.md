@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 10
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'le-roi-du-hamaveran-s-empare-de-kaous'
 title: "Le roi du Hamaveran s'empare de Kaous | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
