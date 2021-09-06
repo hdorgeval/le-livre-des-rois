@@ -7,6 +7,7 @@ image: '7A_yfNw528g.jpeg'
 source: tome IV - livre des rois - P. 359
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'ardjasp-arrive-a-balkh-et-tue-lohrasp'
 title: "L'armée d'Ardjasp arrive à Balkh et tue Lohrasp | Le Livre des Rois | Shâhnâmeh"
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
