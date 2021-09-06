@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 061
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'fin-de-la-vie-de-bahram'
 title: 'Fin de la vie de Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '045'
