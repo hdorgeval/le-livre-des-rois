@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 353
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'une-jeune-fille-delivre-schapour-de-sa-peau-d-ane'
 title: "Une jeune fille délivre Schapour de sa peau d'âne | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '006'
