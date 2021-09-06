@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 369
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'afrasiab-envoie-khosrou-a-khoten'
 title: 'Afrasiab envoie Keï Khosrou à Khoten | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '126'
