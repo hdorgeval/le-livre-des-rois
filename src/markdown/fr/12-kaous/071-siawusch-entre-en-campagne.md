@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 198
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'siawusch-entre-en-campagne'
 title: 'Siawusch entre en campagne | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '071'
