@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 409
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'troisieme-aventure-de-rustem'
 title: '3ème aventure - Rustem combat un dragon | Le Livre des Rois | Shâhnâmeh'
 tags:
   ['âme', 'Destan', 'Dieu', 'Div', 'Mazenderan', 'Neriman', 'Pehlewan', 'Raksch', 'Rustem', 'Sam']
