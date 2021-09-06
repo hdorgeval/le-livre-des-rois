@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 71
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'sohrab-arrive-au-chateau-blanc'
 title: 'Sohrab arrive au château blanc | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '038'
