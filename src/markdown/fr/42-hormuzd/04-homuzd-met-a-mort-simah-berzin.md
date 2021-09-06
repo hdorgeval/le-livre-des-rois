@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 447
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'homuzd-met-a-mort-simah-berzin'
 title: 'Hormuzd met à mort Simah Berzin et Bahram Adermihan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '004'
