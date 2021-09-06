@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 346
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'kaous-apprend-le-sort-de-siawusch'
 title: 'Kaous apprend le sort de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '118'
