@@ -7,6 +7,7 @@ image: 'I8gQVrDcXzY.jpeg'
 source: tome IV - livre des rois - P. 533
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'rustem-tient-conseil-avec-sa-famille'
 title: 'Rustem tient conseil avec sa famille | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
