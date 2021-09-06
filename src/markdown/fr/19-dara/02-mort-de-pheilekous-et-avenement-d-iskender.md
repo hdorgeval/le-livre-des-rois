@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 049
 reign: 'Dara'
 reign-slug: 'regne-de-dara'
+episode-slug: 'mort-de-pheilekous-et-avenement-d-iskender'
 title: "Mort de Pheïlekous et avènement d'Iskender | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '002'
