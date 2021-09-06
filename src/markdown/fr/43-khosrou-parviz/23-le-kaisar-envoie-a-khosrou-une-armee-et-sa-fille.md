@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 107
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'le-kaisar-envoie-a-khosrou-une-armee-et-sa-fille'
 title: 'Le Kaïsar envoie à Khosrou une armée et sa fille | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '023'
