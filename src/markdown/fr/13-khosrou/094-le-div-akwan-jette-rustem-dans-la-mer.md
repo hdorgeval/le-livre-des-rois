@@ -7,6 +7,7 @@ image: 'snbykIR_Imk.jpeg'
 source: tome III - livre des rois - P. 221
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'le-div-akwan-jette-rustem-dans-la-mer'
 title: 'Le Div Akwan jette Rustem dans la mer | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '094'
