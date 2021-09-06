@@ -7,6 +7,7 @@ image: 'Pox6wp5imgs.jpeg'
 source: tome IV - livre des rois - P. 389
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'guschstap-envoie-insfendiar-contre-ardjasp'
 title: 'Guschtasp envoie Isfendiar contre Ardjasp | Le Livre des Rois | Shâhnâmeh'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
