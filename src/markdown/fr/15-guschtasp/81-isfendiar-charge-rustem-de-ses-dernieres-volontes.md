@@ -7,6 +7,7 @@ image: '21xmyDjZPck.jpeg'
 source: tome IV - livre des rois - P. 549
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'isfendiar-charge-rustem-de-ses-dernieres-volontes'
 title: 'Isfendiar charge Rustem de ses dernières volontés | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
