@@ -7,6 +7,7 @@ image: '-8JIKbCNy0g.jpeg'
 source: tome IV - livre des rois - P. 472
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'bahman-s-acquite-de-son-message'
 title: "Bahman s'acquite de son message | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
