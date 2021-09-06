@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 173
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'histoire-de-nouschzad-et-de-la-femme-chretienne'
 title: 'Histoire de Nouschzad, fils de Nouschirwan et de la femme chrétienne | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '015'
