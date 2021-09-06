@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 228
 reign: 'Dynastie des Aschkanides'
 reign-slug: 'regne-des-aschkanides'
+episode-slug: 'ardeschir-s-enfuit-avec-gulnar'
 title: "Ardeschir s'enfuit avec Gulnar | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '007'
