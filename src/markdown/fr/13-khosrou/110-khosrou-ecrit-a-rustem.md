@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 276
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-ecrit-a-rustem'
 title: 'Khosrou écrit à Rustem | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '110'
