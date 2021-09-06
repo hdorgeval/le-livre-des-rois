@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 130
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'le-fils-de-keidafeh-tombe-entre-les-mains-des-roumis'
 title: 'Le fils de Keïdafeh tombe entre les mains des Roumis | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '018'
