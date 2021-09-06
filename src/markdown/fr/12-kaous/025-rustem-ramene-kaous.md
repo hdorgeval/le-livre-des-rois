@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 34
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'rustem-ramene-kaous'
 title: 'Rustem ramène Kaous | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
