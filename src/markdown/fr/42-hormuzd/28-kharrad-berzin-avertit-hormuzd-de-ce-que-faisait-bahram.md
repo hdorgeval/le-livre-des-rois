@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 538
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'kharrad-berzin-avertit-hormuzd-de-ce-que-faisait-bahram'
 title: 'Kharrad Berzin averti Hormuzd de ce que faisait Bahram | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '028'
