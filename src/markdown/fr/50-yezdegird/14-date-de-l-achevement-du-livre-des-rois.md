@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 404
 reign: 'Yezdegird'
 reign-slug: 'regne-de-yezdegird'
+episode-slug: 'date-de-l-achevement-du-livre-des-rois'
 title: "Date de l'achèvement du livre des rois | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
