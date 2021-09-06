@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 126
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-conduit-son-armee-vers-le-misr'
 title: 'Iskender conduit son armée vers le Misr | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '016'
