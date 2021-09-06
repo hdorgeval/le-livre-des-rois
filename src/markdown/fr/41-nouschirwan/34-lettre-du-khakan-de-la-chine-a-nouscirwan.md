@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 258
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'lettre-du-khakan-de-la-chine-a-nouscirwan'
 title: 'Lettre du Khakan de la Chine à Nouschirwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '034'
