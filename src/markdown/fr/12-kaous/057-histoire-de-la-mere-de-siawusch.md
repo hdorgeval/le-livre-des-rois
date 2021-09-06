@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 155
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'histoire-de-la-mere-de-siawusch'
 title: 'Histoire de la mère de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '057'
