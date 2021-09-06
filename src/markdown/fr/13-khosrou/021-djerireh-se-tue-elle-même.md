@@ -7,6 +7,7 @@ image: 'odxB5oIG_iA.jpeg'
 source: tome II - livre des rois - P. 508
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'djerireh-se-tue-elle-même'
 title: 'Djerireh se tue elle même | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
