@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 171
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-marche-vers-l-occident'
 title: "Iskender marche vers l'occident | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '027'
