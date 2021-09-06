@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 209
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'troisieme-fete'
 title: 'Troisième fête que donne Nouschirwan à Buzurdjmihr et aux Mobeds | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '023'
