@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 360
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'les-iraniens-reconnaissent-schapour'
 title: 'Les Iraniens reconnaissent Schapour | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '008'
