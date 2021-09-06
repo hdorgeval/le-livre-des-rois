@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 076
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'un-ermite-predit-l-avenir-a-khosrou'
 title: "Un ermite prédit l'avenir à Khosrou Parviz | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '016'
