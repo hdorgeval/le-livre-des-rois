@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 098
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'serv-essaye-sa-magie-contre-les-fils-de-feridoun'
 title: 'Serv essaye sa magie contre Les fils de Feridoun | Le Livre des Rois | Shâhnâmeh'
 tags: ['âme', 'Arabes', 'Dieu', 'Feridoun', 'Iemen', 'Mobed', 'Mobeds', 'Serv']
 order: '005'
