@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 375
 reign: "Schapour Dhou'l Aktaf"
 reign-slug: 'regne-de-schapour-dhoul-aktaf'
+episode-slug: 'baranousch-conclut-un-traite-avec-schapour'
 title: 'Baranousch se rend auprès de Schapour et conclut un traité avec lui | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '012'
