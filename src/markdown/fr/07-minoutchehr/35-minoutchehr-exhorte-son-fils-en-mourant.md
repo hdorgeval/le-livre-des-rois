@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 298
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'minoutchehr-exhorte-son-fils-en-mourant'
 title: 'Minoutchehr exhorte son fils en mourant | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
