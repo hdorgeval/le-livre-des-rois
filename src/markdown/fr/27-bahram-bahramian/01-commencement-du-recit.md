@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 332
 reign: 'Bahram Bahramian'
 reign-slug: 'regne-de-bahram-bahramian'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ['Bahram', 'chrysoprases', 'Créateur', 'Dieu', 'Kirmanschah', 'Nersi']
 order: '001'
