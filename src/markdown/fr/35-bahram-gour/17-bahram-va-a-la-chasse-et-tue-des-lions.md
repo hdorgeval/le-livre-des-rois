@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 527
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'bahram-va-a-la-chasse-et-tue-des-lions'
 title: 'Bahram va à la chasse et tue des lions | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '017'
