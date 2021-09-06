@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 192
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'lettre-du-khakan-a-gordieh-soeur-de-bahram'
 title: 'Lettre du Khakan à Gordieh, sœur de Bahram et réponse de Gordieh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '044'
