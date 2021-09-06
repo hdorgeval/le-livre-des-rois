@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 158
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'minoutchehr-envoie-la-tete-de-selm-a-feridoun'
 title: 'Minoutchehr envoie la tête de Selm à Feridoun | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
