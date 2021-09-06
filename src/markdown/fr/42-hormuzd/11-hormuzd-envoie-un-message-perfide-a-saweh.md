@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 477
 reign: 'Hormuzd'
 reign-slug: 'regne-de-hormuzd'
+episode-slug: 'hormuzd-envoie-un-message-perfide-a-saweh'
 title: 'Hormuzd envoie un message perfide au roi Saweh | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '011'
