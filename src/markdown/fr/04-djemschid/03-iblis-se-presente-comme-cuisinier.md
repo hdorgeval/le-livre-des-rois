@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 043
 reign: 'Djemschid'
 reign-slug: 'regne-de-djemschid'
+episode-slug: 'iblis-se-presente-comme-cuisinier'
 title: 'Iblis se présente comme cuisinier | Le Livre des Rois | Shâhnâmeh'
 tags: ['Ahriman', 'âme', 'Arabes', 'Destour', 'Divs', 'Iblis', 'Zohak']
 order: '003'
