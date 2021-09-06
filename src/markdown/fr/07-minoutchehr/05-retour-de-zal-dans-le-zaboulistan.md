@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 182
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'retour-de-zal-dans-le-zaboulistan'
 title: 'Retour de Zal dans le Zaboulistan | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
