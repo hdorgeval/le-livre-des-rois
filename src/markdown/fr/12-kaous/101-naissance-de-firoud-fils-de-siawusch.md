@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 286
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'naissance-de-firoud-fils-de-siawusch'
 title: 'Naissance de Firoud, fils de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '101'
