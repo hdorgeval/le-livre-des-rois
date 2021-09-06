@@ -7,6 +7,7 @@ image: 'pLoMDKtl-JY.jpeg'
 source: tome IV - livre des rois - P. 376
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'insfendiar-voit-son-frere-ferschidwerd'
 title: 'Isfendiar voit son frère Ferschidwerd | Le Livre des Rois | Shâhnâmeh'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b8468919d/f1.item.zoom'
 tags:
