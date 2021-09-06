@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 047
 reign: 'Dara'
 reign-slug: 'regne-de-dara'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
