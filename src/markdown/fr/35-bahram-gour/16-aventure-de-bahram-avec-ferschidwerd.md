@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 518
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'aventure-de-bahram-avec-ferschidwerd'
 title: "Aventure de Bahram avec Ferschidwerd le chef de village et l'homme qui arrachait les ronces | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '016'
