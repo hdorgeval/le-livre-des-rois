@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 062
 reign: 'Dara'
 reign-slug: 'regne-de-dara'
+episode-slug: 'troisieme-bataille-entre-iskender-et-dara'
 title: 'Troisième bataille entre Iskender et Dara | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '006'
