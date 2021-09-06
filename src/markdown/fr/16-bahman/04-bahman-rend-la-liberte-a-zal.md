@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 009
 reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
+episode-slug: 'bahman-rend-la-liberte-a-zal'
 title: "Bahman rend la liberté à Zal et s'en retourne dans l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '004'
