@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 175
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-envoie-kharrad-aupres-du-khakan'
 title: 'Khosrou envoie Kharrad, fils de Berzin, auprès du Khakan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '040'
