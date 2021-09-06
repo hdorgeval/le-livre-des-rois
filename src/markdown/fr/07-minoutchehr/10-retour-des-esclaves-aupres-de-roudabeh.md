@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 203
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'retour-des-esclaves-aupres-de-roudabeh'
 title: 'Retour des esclaves auprès de Roudabeh | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
