@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 069
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'khosrou-va-au-roum-par-le-desert-et-un-ermite-lui-predit-l-avenir'
 title: "Khosrou va au Roum par le désert et un ermite lui prédit l'avenir | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '014'
