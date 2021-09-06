@@ -7,6 +7,7 @@ image: '5HPyr6jk8Mk.jpeg'
 source: tome IV - livre des rois - P. 518
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'combat-de-rustem-et-isfendiar'
 title: 'Combat de Rustem et Isfendiar | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
