@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 291
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'rustem-part-pour-le-mont-sipend'
 title: 'Rustem par pour le mont Sipend | Le Livre des Rois | Shâhnâmeh'
 tags: ['Badakhschan', 'Dieu', 'Pehlewan', 'Pléiades', 'Rustem', 'Sipend', 'Tehemten']
 order: '032'
