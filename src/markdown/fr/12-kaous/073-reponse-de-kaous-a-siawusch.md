@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 202
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'reponse-de-kaous-a-siawusch'
 title: 'Réponse de Kaous à la lettre de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '073'
