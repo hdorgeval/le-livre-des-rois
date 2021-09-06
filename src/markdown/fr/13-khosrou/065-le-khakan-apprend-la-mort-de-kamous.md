@@ -7,6 +7,7 @@ image: 'bE6jYybsHsw.jpeg'
 source: tome III - livre des rois - P. 110
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'le-khakan-apprend-la-mort-de-kamous'
 title: 'Le Khakan apprend la mort de Kamous | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
