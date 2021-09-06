@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 337
 reign: 'Ormuzd fils de Nersi'
 reign-slug: 'regne-d-ormuzd-fils-de-nersi'
+episode-slug: 'commencement-du-recit'
 title: 'Commencement du récit | Le Livre des Rois | Shâhnâmeh'
 tags: ["Ahriman", "âme", "Créateur", "Garde-toi", "Mars", "Ormuzd", "Puissant", "Saturne"]
 order: '001'
