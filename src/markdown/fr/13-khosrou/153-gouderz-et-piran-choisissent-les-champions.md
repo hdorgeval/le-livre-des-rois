@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 449
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'gouderz-et-piran-choisissent-les-champions'
 title: 'Gouderz et Piran choisissent les champions | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '153'
