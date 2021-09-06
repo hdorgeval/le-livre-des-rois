@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 228
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'retour-de-rustem-en-iran'
 title: 'Retour de Rustem en Iran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '096'
