@@ -7,6 +7,7 @@ image: 'xOW_W2vsuk8.jpeg'
 source: tome IV - livre des rois - P. 582
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'faramourz-marche-avec-une-armee-pour-venger-rustem'
 title: 'Faramourz marche avec une armée pour venger Rustem | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
