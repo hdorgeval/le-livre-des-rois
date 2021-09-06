@@ -7,6 +7,7 @@ image: 'Pe1Ol9oLc4o.jpeg'
 source: tome II - livre des rois - P. 480
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'firoud-et-tokhareh-vont-observer-l-armee-iranienne'
 title: "Firoud et Tokhareh vont observer l'armée iranienne | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
