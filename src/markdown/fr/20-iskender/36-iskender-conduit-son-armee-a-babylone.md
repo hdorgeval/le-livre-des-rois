@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 195
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-conduit-son-armee-a-babylone'
 title: 'Iskender conduit son armée à Babylone | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '036'
