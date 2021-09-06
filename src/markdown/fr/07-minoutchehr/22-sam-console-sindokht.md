@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 250
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'sam-console-sindokht'
 title: 'Sam console Sindokht | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
