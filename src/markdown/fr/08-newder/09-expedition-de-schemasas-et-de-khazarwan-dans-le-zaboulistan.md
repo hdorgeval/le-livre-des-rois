@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 329
 reign: 'Newder'
 reign-slug: 'regne-de-newder'
+episode-slug: 'expedition-de-schemasas-et-de-khazarwan-dans-le-zaboulistan'
 title: 'Expédition de Schemasas et de Khazarwan dans le Zaboulistan | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
