@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 146
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'retour-de-rustem-dans-le-zaboulistan'
 title: 'Retour de Rustem dans le Zaboulistan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '054'
