@@ -7,6 +7,7 @@ image: 'cGJFTv66ttQ.jpeg'
 source: tome IV - livre des rois - P. 490
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'isfendiar-fait-des-excuses-a-rustem'
 title: 'Isfendiar fait des excuses à Rustem | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
