@@ -7,6 +7,7 @@ image: '5CWVXih0MZU.jpeg'
 source: tome III - livre des rois - P. 219
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'rustem-cherche-le-div-akwan'
 title: 'Rustem cherche le div Akwan | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '093'
