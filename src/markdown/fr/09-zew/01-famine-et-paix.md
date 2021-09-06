@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 344
 reign: 'Zew'
 reign-slug: 'regne-de-zew'
+episode-slug: 'famine-et-paix'
 title: 'Famine et paix | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
