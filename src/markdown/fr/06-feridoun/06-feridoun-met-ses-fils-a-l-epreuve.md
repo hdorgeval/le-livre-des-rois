@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 101
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'feridoun-met-ses-fils-a-l-epreuve'
 title: "Feridoun met ses fils à l'épreuve | Le Livre des Rois | Shâhnâmeh"
 tags:
   [
