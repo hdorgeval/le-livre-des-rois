@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 491
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-fait-construire-un-mausolee-pour-piran'
 title: 'Keï Khosrou fait construire un mausolée pour Piran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '172'
