@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 264
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'fiançailles-de-ferenguis-et-siawusch'
 title: 'Fiançailles de Ferenguis et de Siawusch | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '093'
