@@ -7,6 +7,7 @@ image: 'OwqLxCvoVxI.jpeg'
 source: tome III - livre des rois - P. 011
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afrasiab-envoie-une-armee-a-piran'
 title: 'Afrasiab envoie une armée à Piran | Le Livre des Rois | Shâhnâmeh'
 tags:
   ['Afrasiab', 'Gouderz', 'Guiv', 'Iran', 'Iraniens', 'Piran', 'Schidousch', 'Siawusch', 'Thous']
