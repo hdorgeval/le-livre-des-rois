@@ -7,6 +7,7 @@ image: '6iIqxJ3xO-g.jpeg'
 source: tome IV - livre des rois - P. 573
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'le-roi-de-kaboul-fait-creuser-des-fosses'
 title: 'Le roi de Kaboul fait creuser des fosses dans la réserve de chasse | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
