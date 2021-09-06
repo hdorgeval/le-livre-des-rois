@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 446
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'piran-adresse-la-parole-aux-grands-de-son-armee'
 title: 'Piran adresse la parole aux grands de son armée | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '152'
