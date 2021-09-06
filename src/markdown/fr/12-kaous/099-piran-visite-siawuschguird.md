@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 281
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'piran-visite-siawuschguird'
 title: 'Piran visite Siawuschguird | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '099'
