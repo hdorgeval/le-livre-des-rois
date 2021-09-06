@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 105
 reign: 'Iskender'
 reign-slug: 'regne-de-iskender'
+episode-slug: 'iskender-met-a-l-epreuve-le-sage'
 title: "Iskender met à l'épreuve le sage, le médecin et la coupe de Keïd | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '009'
