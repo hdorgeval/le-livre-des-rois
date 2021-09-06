@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 277
 reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
+episode-slug: 'les-grands-delivrent-schirouieh-de-sa-prison'
 title: 'Les grands délivrent Schirouïeh de sa prison | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '067'
