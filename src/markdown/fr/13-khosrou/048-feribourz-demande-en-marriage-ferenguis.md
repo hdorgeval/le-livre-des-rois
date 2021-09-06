@@ -7,6 +7,7 @@ image: 'K2K1Ec_51SA.jpeg'
 source: tome III - livre des rois - P. 050
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'feribourz-demande-en-marriage-ferenguis'
 title: 'Feribourz demande en marriage Ferenguis, la mère de Khosrou | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
