@@ -7,6 +7,7 @@ image: 'CqUYwVZzJrw.jpeg'
 source: tome IV - livre des rois - P. 544
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'rustem-lance-une-fleche-dans-l-oeil-d-isfendiar'
 title: "Rustem lance une flèche dans l'oeil d'Isfendiar | Le Livre des Rois | Shâhnâmeh"
 maps:
   [
