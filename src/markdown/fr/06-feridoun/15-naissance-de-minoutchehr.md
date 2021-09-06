@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 126
 reign: 'Feridoun'
 reign-slug: 'regne-de-feridoun'
+episode-slug: 'naissance-de-minoutchehr'
 title: 'Naissance de Minoutchehr | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
