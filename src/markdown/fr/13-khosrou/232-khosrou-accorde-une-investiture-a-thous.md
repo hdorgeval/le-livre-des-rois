@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 205
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'khosrou-accorde-une-investiture-a-thous'
 title: 'Keï Khosrou donne une investiture à Thous | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '232'
