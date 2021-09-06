@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 378
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'rustem-retourne-en-iran'
 title: "Rustem retourne dans le pays de l'Iran | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '130'
