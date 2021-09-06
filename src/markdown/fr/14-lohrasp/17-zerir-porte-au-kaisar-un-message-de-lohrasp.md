@@ -7,6 +7,7 @@ image: '8o9htwKDslc.jpeg'
 source: tome IV - livre des rois - P. 278
 reign: 'Lohrasp'
 reign-slug: 'regne-de-lohrasp'
+episode-slug: 'zerir-porte-au-kaisar-un-message-de-lohrasp'
 title: 'Zerir porte au Kaisar un message de Lohrasp | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
