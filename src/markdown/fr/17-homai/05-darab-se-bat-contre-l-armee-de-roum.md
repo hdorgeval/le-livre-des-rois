@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 027
 reign: 'Homaï'
 reign-slug: 'regne-de-homai'
+episode-slug: 'darab-se-bat-contre-l-armee-de-roum'
 title: "Darab se bat contre l'armée de Roum | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '005'
