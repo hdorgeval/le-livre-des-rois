@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 431
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'nouschirwan-nomme-son-fils-hormuzd-son-successeur'
 title: 'Nouschirwan annonce son fils Hormuzd son successeur | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '065'
