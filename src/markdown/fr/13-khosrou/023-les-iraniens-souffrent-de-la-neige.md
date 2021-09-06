@@ -7,6 +7,7 @@ image: 'GWOw3JZjjUg.jpeg'
 source: tome II - livre des rois - P. 515
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'les-iraniens-souffrent-de-la-neige'
 title: 'Les Iraniens souffrent de la neige | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
