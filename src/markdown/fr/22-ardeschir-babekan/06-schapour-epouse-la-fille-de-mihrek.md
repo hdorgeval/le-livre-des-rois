@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 279
 reign: 'Ardeschir Babekan'
 reign-slug: 'regne-de-ardeschir-babekan'
+episode-slug: 'schapour-epouse-la-fille-de-mihrek'
 title: 'Schapour épouse la fille de Mihrek | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '006'
