@@ -7,6 +7,7 @@ image: 'uWYedErgXgU.jpeg'
 source: tome II - Vie de Zoroastre - P. 29 (P.169) - Zend-Avesta - Anquetil du Perron
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'zoroastre-se-rend-aupres-de-guschtasp'
 title: 'Zoroastre se rend auprès de Guschtasp mais ce dernier le jete en prison | Le Livre des Rois | Shâhnâmeh'
 map: 'https://gallica.bnf.fr/ark:/12148/btv1b85930155/f1.item.r=carte%20perse.zoom'
 tags:
