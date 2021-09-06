@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 326
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'meurtre-de-siawusch-par-gueroui'
 title: 'Meurtre de Siawusch par Gueroui | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '111'
