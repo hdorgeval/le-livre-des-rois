@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 472
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'lehhak-et-ferschidwerd-se-lamentent-sur-la-mort-de-piran'
 title: 'Lehhak et Ferschidwerd se lamentent sur la mort de Piran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '166'
