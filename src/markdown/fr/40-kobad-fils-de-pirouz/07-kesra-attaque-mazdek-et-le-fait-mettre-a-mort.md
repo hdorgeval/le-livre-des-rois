@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 113
 reign: 'Kobad fils de Pirouz'
 reign-slug: 'regne-de-kobad-fils-de-pirouz'
+episode-slug: 'kesra-attaque-mazdek-et-le-fait-mettre-a-mort'
 title: 'Kesra attaque Mazdek et le fait mettre à mort | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '007'
