@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 149
 reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
+episode-slug: 'la-mere-de-sohrab-apprend-sa-mort'
 title: 'La mère de Sohrab apprend sa mort | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '055'
