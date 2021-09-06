@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome III - livre des rois - P. 410
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'reponse-de-gouderz-a-la-lettre-de-piran'
 title: 'Réponse de Gouderz à la lettre de Piran | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '146'
