@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 053
 reign: 'Bahram Gour'
 reign-slug: 'regne-de-bahram-gour'
+episode-slug: 'schenguil-s-en-retourne-dans-l-hindoustan'
 title: "Schenguil s'en retourne de l'Iran dans l'Hindoustan | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '042'
