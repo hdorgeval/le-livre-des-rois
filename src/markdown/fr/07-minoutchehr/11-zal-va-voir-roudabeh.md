@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 206
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'zal-va-voir-roudabeh'
 title: 'Zal va voir Roudabeh | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
