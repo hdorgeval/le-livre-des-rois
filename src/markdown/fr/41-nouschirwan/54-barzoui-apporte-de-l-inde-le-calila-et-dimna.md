@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome VI - livre des rois - P. 356
 reign: 'Kesra Nouschirwan'
 reign-slug: 'regne-de-nouschirwan'
+episode-slug: 'barzoui-apporte-de-l-inde-le-calila-et-dimna'
 title: "Barzouï apporte de l'Inde le Calila et Dimna | Le Livre des Rois | Shâhnâmeh"
 tags: []
 order: '054'
