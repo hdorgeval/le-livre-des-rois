@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome IV - livre des rois - P. 159
 reign: 'Keï Khosrou'
 reign-slug: 'regne-de-khosrou'
+episode-slug: 'afarsiab-echappe-a-houm'
 title: 'Afrasiab échappe à Houm | Le Livre des Rois | Shâhnâmeh'
 tags: []
 order: '215'
