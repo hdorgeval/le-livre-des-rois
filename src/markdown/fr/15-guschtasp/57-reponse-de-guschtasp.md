@@ -7,6 +7,7 @@ image: 'd5TBzrddHMk.jpeg'
 source: tome IV - livre des rois - P. 458
 reign: 'Guschtasp'
 reign-slug: 'regne-de-guschtasp'
+episode-slug: 'reponse-de-guschtasp'
 title: 'Réponse de Guschtasp | Le Livre des Rois | Shâhnâmeh'
 maps:
   [
