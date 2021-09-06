@@ -7,6 +7,7 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - livre des rois - P. 218
 reign: 'Minoutchehr'
 reign-slug: 'regne-de-minoutchehr'
+episode-slug: 'sam-consulte-les-mobeds-relativement-a-zal'
 title: 'Sam consulte les Mobeds relativement à Zal | Le Livre des Rois | Shâhnâmeh'
 tags:
   [
