@@ -4,7 +4,7 @@
 
 ## The mythic history of Persian Kings by Ferdowsi
 
-It took more than 30 years and more than 100,000 verses for the Persian poet Ferdowsi to write the Book of Kings.
+It took more than 30 years and more than 120,000 verses for the Persian poet Ferdowsi to write the Book of Kings.
 
 This book is mainly the mythical and to some extent the historical past of the Persian Empire from the creation of the world until the Muslim conquest in the seventh century.
 
