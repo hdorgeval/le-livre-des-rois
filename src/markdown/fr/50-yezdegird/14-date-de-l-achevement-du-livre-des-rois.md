@@ -1,7 +1,7 @@
 ---
 lastUpdate: '2021-09-04'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 404
@@ -16,7 +16,6 @@ tags:
     'âme',
     'Arabes',
     'Ard',
-    'Date',
     'Deïlemite',
     'Dieu',
     'Dolaf',
@@ -41,7 +40,7 @@ order: '014'
 
 Soixante années avaient passé sur ma tête, mon esprit devenait soucieux et triste ; plus je recherchais avec ardeur l’histoire des rois et plus mon étoile ralentissait sa marche.
 
-De grands personnages al distingués par le savoir et la naissance, plusieurs hommes renommés et fiers qui doivent leur réputation à ce livre, le copiaient gratuitement et moi, assis à l’écart, je les regardais faire et l’on m’aurait pris pour un mercenaire à leurs gages.
+De grands personnages distingués par le savoir et la naissance, plusieurs hommes renommés et fiers qui doivent leur réputation à ce livre, le copiaient gratuitement et moi, assis à l’écart, je les regardais faire et l’on m’aurait pris pour un mercenaire à leurs gages.
 
 Des éloges, voila tout ce que j’ai obtenu d’eux ; mais, au milieu de ces éloges, ma force s’épuisait.
 
@@ -81,4 +80,4 @@ Tout homme intelligent, sage et pieux bénira ma mémoire quand je ne serai plus
 
 Je répands mille louanges, mille bénédictions sur le Prophète élu de Dieu et j’adresse autant de louanges aux membres de sa famille, par respect pour la religion.
 
---FIN --
+-- FIN --
