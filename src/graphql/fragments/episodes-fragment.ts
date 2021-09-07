@@ -13,6 +13,11 @@ export const EpisodesFragment = graphql`
         fields {
           slug
         }
+        frontmatter {
+          lang
+          reign_slug
+          episode_slug
+        }
       }
     }
   }

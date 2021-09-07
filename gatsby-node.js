@@ -131,14 +131,17 @@ async function createAllFrenchEpisodePages(graphql, actions) {
       ) {
         edges {
           node {
+            id
             fileAbsolutePath
             fields {
               slug
             }
             frontmatter {
+              lang
+              reign_slug
+              episode_slug
               image
               lastUpdate
-              reign_slug
               reign
               title
               status
@@ -149,10 +152,20 @@ async function createAllFrenchEpisodePages(graphql, actions) {
             fields {
               slug
             }
+            frontmatter {
+              lang
+              reign_slug
+              episode_slug
+            }
           }
           previous {
             fields {
               slug
+            }
+            frontmatter {
+              lang
+              reign_slug
+              episode_slug
             }
           }
         }
@@ -167,13 +180,17 @@ async function createAllFrenchEpisodePages(graphql, actions) {
     return node;
   });
   markdowns.forEach((markdown) => {
-    const image = markdown?.frontmatter?.image || 'default-for-episode.jpeg';
-    const reignTitle = markdown?.frontmatter?.reign;
-    const reignSlug = markdown?.frontmatter?.reign_slug;
-    const lastUpdate = markdown?.frontmatter?.lastUpdate;
-    const pageTitle = markdown?.frontmatter?.title;
-    const status = markdown?.frontmatter?.status;
-    const geoData = markdown?.frontmatter?.geo_data;
+    const markdownId = markdown?.id;
+    const currentFrontmatter = markdown?.frontmatter;
+    const lang = currentFrontmatter?.lang;
+    const image = currentFrontmatter?.image || 'default-for-episode.jpeg';
+    const reignTitle = currentFrontmatter?.reign;
+    const reignSlug = currentFrontmatter?.reign_slug;
+    const episodeSlug = currentFrontmatter?.episode_slug;
+    const lastUpdate = currentFrontmatter?.lastUpdate;
+    const pageTitle = currentFrontmatter?.title;
+    const status = currentFrontmatter?.status;
+    const geoData = currentFrontmatter?.geo_data;
     const path = markdown?.fileAbsolutePath;
     let githubPageUrl = null;
     const paths = path.split('/src/');
@@ -182,19 +199,35 @@ async function createAllFrenchEpisodePages(graphql, actions) {
       githubPageUrl = `https://github.com/hdorgeval/le-livre-des-rois/edit/master/src/${relativePath}`;
     }
 
+    const slugLegacy = markdown.fields.slug;
+    const slug = `/${lang}/${reignSlug}/${episodeSlug}`;
+
+    const previousFrontmatter = markdown.previous?.frontmatter;
+    const previousSlugLegacy = markdown.previous?.fields.slug;
+    const previousSlug = previousFrontmatter
+      ? `/${previousFrontmatter?.lang}/${previousFrontmatter?.reign_slug}/${previousFrontmatter?.episode_slug}`
+      : undefined;
+
+    const nextFrontmatter = markdown.next?.frontmatter;
+    const nextSlugLegacy = markdown.next?.fields.slug;
+    const nextSlug = nextFrontmatter
+      ? `/${nextFrontmatter?.lang}/${nextFrontmatter?.reign_slug}/${nextFrontmatter?.episode_slug}`
+      : undefined;
+
     if (debug) {
       // eslint-disable-next-line no-console
-      console.log(`Creating episode page for markdown ${markdown.fields.slug}`);
+      console.log(`Creating episode page for markdown ${path}`);
       // eslint-disable-next-line no-console
       console.log(`image: '${image}'`);
     }
     createPage({
-      path: markdown.fields.slug,
+      path: slug,
       component: episodeTemplate,
       context: {
-        slug: markdown.fields.slug,
-        previousSlug: markdown.previous?.fields?.slug,
-        nextSlug: markdown.next?.fields?.slug,
+        markdownId,
+        slug: slug,
+        previousSlug: previousSlug,
+        nextSlug: nextSlug,
         image,
         lastUpdate,
         reignTitle,
@@ -206,9 +239,26 @@ async function createAllFrenchEpisodePages(graphql, actions) {
       },
     });
 
-    if (markdown.fields.slug.includes('/fr/')) {
-      const fromPath = markdown.fields.slug.replace('/fr/', '/');
-      const toPath = markdown.fields.slug;
+    createRedirect({
+      fromPath: slugLegacy,
+      toPath: slug,
+      isPermanent: true,
+      redirectInBrowser: true,
+    });
+
+    if (slugLegacy.endsWith('/')) {
+      const slugLegacyWithoutEndingSlash = slugLegacy.slice(0, -1);
+      createRedirect({
+        fromPath: slugLegacyWithoutEndingSlash,
+        toPath: slug,
+        isPermanent: true,
+        redirectInBrowser: true,
+      });
+    }
+
+    if (slugLegacy.includes('/fr/')) {
+      const fromPath = slugLegacy.replace('/fr/', '/');
+      const toPath = slug;
       createRedirect({
         fromPath,
         toPath,

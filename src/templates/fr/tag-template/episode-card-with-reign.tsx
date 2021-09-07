@@ -13,9 +13,15 @@ export const EpisodeCard: React.FC<EpisodeCardProps> = ({
 }) => {
   const firstHeading = headings[0].value;
   const sanitizedExcerpt = excerpt.replace(firstHeading, '');
+  const slug = React.useMemo(() => {
+    if (frontmatter && frontmatter.reign_slug && frontmatter.episode_slug) {
+      return `/${frontmatter.lang}/${frontmatter.reign_slug}/${frontmatter.episode_slug}`;
+    }
+    return fields.slug;
+  }, [fields.slug, frontmatter]);
 
   return (
-    <Link key={id} className="nav-link mb-4 p-0" to={fields.slug} aria-label={firstHeading}>
+    <Link key={id} className="nav-link mb-4 p-0" to={slug} aria-label={firstHeading}>
       <div className="card text-center bg-dark text-white border-secondary">
         <div className="card-header pb-0">
           <h3 className="card-title text-truncate fs-5">{firstHeading}</h3>

@@ -58,6 +58,9 @@ export const query = graphql`
           frontmatter {
             order
             reign
+            lang
+            reign_slug
+            episode_slug
           }
           id
           headings {

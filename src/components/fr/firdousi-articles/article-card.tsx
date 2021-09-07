@@ -3,12 +3,24 @@ import React from 'react';
 import { Link } from 'gatsby';
 
 export type ArticleCardProps = MarkdownNode;
-export const ArticleCard: React.FC<ArticleCardProps> = ({ id, excerpt, fields, headings }) => {
+export const ArticleCard: React.FC<ArticleCardProps> = ({
+  id,
+  excerpt,
+  fields,
+  headings,
+  frontmatter,
+}) => {
   const firstHeading = headings[0].value;
   const sanitizedExcerpt = excerpt.replace(firstHeading, '');
+  const slug = React.useMemo(() => {
+    if (frontmatter && frontmatter.reign_slug && frontmatter.episode_slug) {
+      return `/${frontmatter.lang}/${frontmatter.reign_slug}/${frontmatter.episode_slug}`;
+    }
+    return fields.slug;
+  }, [fields.slug, frontmatter]);
 
   return (
-    <Link key={id} className="nav-link" to={fields.slug} aria-label={firstHeading}>
+    <Link key={id} className="nav-link" to={slug} aria-label={firstHeading}>
       <div className="card text-center bg-dark text-white border-secondary">
         <div className="card-header ">
           <h5 className="card-title text-truncate">{firstHeading}</h5>

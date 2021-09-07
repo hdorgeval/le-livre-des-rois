@@ -11,6 +11,7 @@ const firstSlug = '/fr/01-kaioumors/01-commencement-du-recit/';
 interface MarkdownTemplateProps {
   data: MarkdownRemarkResponse;
   pageContext: {
+    markdownId: string | null;
     previousSlug: string | null;
     nextSlug: string | null;
     slug: string;
@@ -151,8 +152,8 @@ export const MarkdownTemplate: React.FC<MarkdownTemplateProps> = ({ data, pageCo
 };
 
 export const query = graphql`
-  query ($slug: String!, $image: String!) {
-    markdownRemark(fields: { slug: { eq: $slug } }) {
+  query ($markdownId: String!, $image: String!) {
+    markdownRemark(id: { eq: $markdownId }) {
       html
       headings {
         value

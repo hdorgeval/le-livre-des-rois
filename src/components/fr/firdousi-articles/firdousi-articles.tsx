@@ -17,6 +17,9 @@ export const FirdousiArticles: React.FC = () => {
               date
               image
               tags
+              lang
+              reign_slug
+              episode_slug
             }
             id
             timeToRead

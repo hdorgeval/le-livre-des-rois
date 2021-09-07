@@ -52,13 +52,16 @@ export interface MarkdownExtraFields {
 }
 export interface MarkdownFrontmatter {
   date: string;
+  episode_slug: string | null;
+  geo_data: string | null;
   image: string;
+  lang: string;
+  order: string;
+  reign_slug: string | null;
+  reign: string;
   tags: string[];
   thumbnail: string;
-  order: string;
-  reign: string;
   title: string;
-  geo_data: string | null;
 }
 
 export interface HtmlAST {
