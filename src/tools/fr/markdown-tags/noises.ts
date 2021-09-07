@@ -12,6 +12,7 @@ export const noises = [
   'Adresse-toi',
   'Affranchis-toi',
   'Agis',
+  'Date',
   'Aide-le',
   'Aidez',
   'Aie',
