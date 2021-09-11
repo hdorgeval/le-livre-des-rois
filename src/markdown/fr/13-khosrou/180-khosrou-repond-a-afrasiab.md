@@ -37,7 +37,7 @@ Ensuite, il dit :
 >
 > Afrasiab, qui est un homme d’expérience et de sagesse, ne rêve que des expédients ; il ne connaît que la fraude et les arts magiques, que la tromperie, la haine et la méchanceté.
 >
-> Il a maintenant choisi dans son armée Schideh, parce qu’il a vu enlui une clef pour ouvrir la porte du malheur et il proroque au combat le roi de l’Iran, pour remplir nos jours de douleur.
+> Il a maintenant choisi dans son armée Schideh, parce qu’il a vu en lui une clef pour ouvrir la porte du malheur et il provoque au combat le roi de l’Iran, pour remplir nos jours de douleur.
 >
 > Ne méprise pas sa vieillesse, ne mets pas en danger l’Iran et ton trône.
 >
@@ -47,26 +47,25 @@ Ensuite, il dit :
 >
 > KEÎ KHosnou. le Touran et en Chine ; il demande pardon du mal qu’il a fait et ne veut combattre que quand il ne lui restera plus d’autre ressource ; il oll’rc de tirer de ses trésors et de te remettre les richesses, les che. vaux, l’argent que Tour a amassés pour Zadschem et les trônes d’or, les couronnes, les ceintures d’or et les lourdes massues des grands, pour racheter les crimes qui lui pèsent ; il oll’re de faire quitter aux Turcs toutes les villes que tu réclames pour l’Iran.
 >
-> Bentrons donc dans l’Iran victorieux et contents et oublions ce qui s’est passé autrefois. »
+> Rentrons donc dans l’Iran victorieux et contents et oublions ce qui s’est passé autrefois. »
 
 C’est ainsi qu’ils parlèrent tous, vieux et jeunes, excepté Rustem, l’illustre Pehlewan, qui détournait la tête de la paix et dont le cœur désirait venger Siawusch.
 
-Le roi se mordit les lèvres et jeta un regard sombre surles grands ; ensuite il dit :
+Le roi se mordit les lèvres et jeta un regard sombre sur les grands ; ensuite il dit :
 
 > Nous ne devons pas quitter ce champ de bataille pour rentrer dans l’Iran.
 >
 > Où sont donc les combats que nous devions livrer, les serments que nous avons faite, les caisses d’or et les prisonniers que nous voulions prendre, les chaînes que nous avons préparées ?
 >
-> Comment nous excuserions-nous devant Kaous, comment oserions-nous paraître devant lui, si Afrasiab resle en vie et sur son trône comme maître du monde pendant que l’Iran est dévasté ?
+> Comment nous excuserions-nous devant Kaous, comment oserions-nous paraître devant lui, si Afrasiab reste en vie et sur son trône comme maître du monde pendant que l’Iran est dévasté ?
 >
-> Sais-tu quel crime a commis Tour contre Iredj le fortuné,
-> æ pour lui ravir sa couronne et son trône et ce qu’A-l’rasiab a fait soull’rir à Newder ?
+> Sais-tu quel crime a commis Tour contre Iredj le fortuné, pour lui ravir sa couronne et son trône et ce qu’Afrasiab a fait soull’rir à Newder ?
 >
 > Puisse-t-il n’être jamais heureux, même en songe !
 >
-> Ensuite Afrasiab sa tué l’innocent Siawusch, pour s’emparer de ses trésors, de son trône et de son diadème.
+> Ensuite Afrasiab a tué l’innocent Siawusch, pour s’emparer de ses trésors, de son trône et de son diadème.
 >
-> Maintenant un Turc rusé de cette cour se présente devant nous et demande à me combattre ; pourquoi pâlis-’ sez-vous ?
+> Maintenant un Turc rusé de cette cour se présente devant nous et demande à me combattre ; pourquoi pâlissez-vous ?
 >
 > Cela m’étonne de votre part et mon ancien désir de vengeance s’en accroît encore.
 >
@@ -89,7 +88,7 @@ Le roi leur répondit :
 >
 > Vous qui êtes mes guides, sachez que ce Schideh, au jour de la bataille, ne compte pas son père pour un homme
 >
-> KEÎ KH-t)SR0U. digne de combattre.
+> digne de combattre.
 >
 > Afrasiab lui a forgé une armure avec un art magique, impie, étrange et méchant ; et vos armes ne vous serviront pas contre cette cuirasse et ce casque d’acier.
 >
@@ -129,7 +128,7 @@ Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schid
 
 Le roi ajouta :
 
-> Tu diras ensuite à Schideh : Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets, ltl non pas pour y chercher le renom et la gloire, ni à cause du message d’Alrasiah, mais parce que les mauvaises actions sont impatientes de te détruire.
+> Tu diras ensuite à Schideh : Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets, ltl non pas pour y chercher le renom et la gloire, ni à cause du message d’Afrasiab, mais parce que les mauvaises actions sont impatientes de te détruire.
 >
 > C’est Dieu qui t’a poussé hors de cette armée et ton linceul le servira ici de tombeau ; ce prince innocent, qu’on a égorgé comme un agneau, te portera malheur et ton père versera sur toi des larmes amères comme Kaous en verse sur son fils. »
 
