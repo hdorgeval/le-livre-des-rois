@@ -49,7 +49,8 @@ Le nom de cet honnête homme était Mahboud, son esprit et son cœur étaient re
 
 Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou quand il demandait à un Mobed le barsom.
 
-Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a ! 
+Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a !
+
 H
 deux jeunes gens illustres et purs portaient les mets chez le roi.
 
@@ -65,9 +66,7 @@ Or, un jour, un Juif emprunta à Zerwan de l’argent pour le faire valoir ; il 
 
 Étant devenu familier avec le chambellan du roi, il fréquentait le palais des Chosroès.
 
-Un jour, il parla, en secret de la cour et du roi du monde,à.
-
-Zerwan d’incantations, de sorcelleries, d’arts secrets de magie, d’actes iniques et servant les mauvaises intentions.
+Un jour, il parla, en secret de la cour et du roi du monde, à Zerwan d’incantations, de sorcelleries, d’arts secrets de magie, d’actes iniques et servant les mauvaises intentions.
 
 Zerwan devint attentif aux discours du Juif ; il écouta ce qu’il disait des mystères de la sorcellerie et lui dévoila son propre secret, disant :
 
@@ -137,6 +136,6 @@ Les jeunes gens, dans leur innocence et leur droiture, replièrent les manches s
 >
 > Le roi livra au pillage toutes ses richesses, ses femmes, ses enfants et ses trésors accumulés.
 >
-> C’est ainsi que Zerwan atteignit l’objet de tous ses désirs et pendant un temps il jouit à cette cour d’une haute renommée.
+> C’est ainsi que Zerwan atteignit l’objet de tous ses désirs et pendant un temps, il jouit à cette cour d’une haute renommée.
 >
 > Il tenait en grand honneur le Juif et élevait sa tête jusqu’aux nues sublimes et c’est ainsi que le ciel continua à tourner pendant que la droiture avait voilé sa face devant le roi.
