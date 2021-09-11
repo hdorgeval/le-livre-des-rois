@@ -17,9 +17,9 @@ order: '145'
 
 # Piran écrit à Gouderz pour demander la paix
 
-Pirau apprit ce que faisait le chef des Iraniens ; cette nouvelle remplit son cœur d’inquiétude ; il s’appliqua à chercher un moyen de salut dans les ruses et la fourberie et demanda à un Destour plein de sagesse des conseils touchant cette guerre.
+Piran apprit ce que faisait le chef des Iraniens ; cette nouvelle remplit son cœur d’inquiétude ; il s’appliqua à chercher un moyen de salut dans les ruses et la fourberie et demanda à un Destour plein de sagesse des conseils touchant cette guerre.
 
-Ensuite, il ordonna, pour dernière ressource, à un secrétaire d’écrire une lettre. qu’il adressait au Pehlewan.
+Ensuite, il ordonna, pour dernière ressource, à un secrétaire d’écrire une lettre qu’il adressait au Pehlewan.
 
 Il commença la lettre par des louanges du Tout-Puissant, de Dieu qui était son asile contre les embûches du méchant Div, puis il continua ainsi : iule demande en public et en secret au Créateur du monde qu’il n’y ait plus de champ de bataille entre nos deux armées.
 
@@ -86,25 +86,23 @@ J’ai plus de trésors et plus de troupes que toi et ma réputation de bravoure
 
 Ensuite j’ai toujours devant les yeux la crainte du Créateur du monde ; car il n’approuve pas que nous fassions du mal et toute notre génération en portera la peine.
 
-Mais si tu dédaignes mes paroles ; si c’est un combat à mort que tu cherches ; si tu me tiens pour coupable, moi qui suis innocent ; si tu refuses de prêter attention à mes paroles, parce que la justice et l’injustice sont la même chose à tes yeux et que tu ne veux que prolonger les vengeances, alors parmi les héros de l’Iran choisisen quelquesuns qui sachent manier la lourde massue et moi ’
+Mais si tu dédaignes mes paroles ; si c’est un combat à mort que tu cherches ; si tu me tiens pour coupable, moi qui suis innocent ; si tu refuses de prêter attention à mes paroles, parce que la justice et l’injustice sont la même chose à tes yeux et que tu ne veux que prolonger les vengeances, alors parmi les héros de l’Iran choisis-en quelques-uns qui sachent manier la lourde massue et moi aussi je choisirai dans mon armée des braves tels qu’il les faut pour le combat et nous les mettrons en présence, nous amènerons les chefs des armées sur le champ de bataille.
 
-â08 aussi je choisirai dans mon armée des braves tels qu’il les faut pour le combat et nous les mettrons en présence, nous amènerons les chefs des armées sur le champ de bataille.
-
-Ou bien encore, moi et loi nous nous mesurerons l’un avec l’autre, pour que ceux qui sont innocents puissent se retirer des attaques et du carnage ; et j’amènerai devant toi, au jour de la bataille. tous ceux que tu crois coupables et contre lesquels ton cœur nourrit du ressentiment.
+Ou bien encore, moi et loi nous nous mesurerons l’un avec l’autre, pour que ceux qui sont innocents puissent se retirer des attaques et du carnage ; et j’amènerai devant toi, au jour de la bataille, tous ceux que tu crois coupables et contre lesquels ton cœur nourrit du ressentiment.
 
 Mais alors il faut que tu fasses avec moi le traité suivant : Si tu parviens à répandre mon sang et si la fortune des héros du Touran suc--combe, tu n’attaqueras plus mon armée, tu ne dévasteras pas par le feu mon pays et mon palais ; tu laisseras partir mon armée pour le Touran et ne lui dresseras pas d’embuscade pour la détruire.
 
-Et si c’est moi qui suis victorieux. si ma bonne étoile me livre le monde, alors je n’inquiéterai pas les Iraniens, je ne leur en voudrai pas et ne chercherai pas à me venger d’eux ; je les laisserai tous partir pour l’Iran, je les laisserai retourner auprès de leur roi et désormais aucun d’eux ne périra ; leur vie et leurs trésors seront en sûreté.
+Et si c’est moi qui suis victorieux, si ma bonne étoile me livre le monde, alors je n’inquiéterai pas les Iraniens, je ne leur en voudrai pas et ne chercherai pas à me venger d’eux ; je les laisserai tous partir pour l’Iran, je les laisserai retourner auprès de leur roi et désormais aucun d’eux ne périra ; leur vie et leurs trésors seront en sûreté.
 
 Enfin, si tu n’acceptes pas cette forme de combat, si tu veux livrer une bataille en règle, si tu veux que les troupes se battent en masse, alors fais avancer ton armée entière ; et tout le sang qui sera versé dans cette ’lutte, tu en seras responsable dans l’autre monde. »
 
-KEÏ lf 1 : 09 Il attacha un fil autour de la lettre et appela son noble fils (il avait un fils qui tenait le premier rang dans l’assemblée des grands et se nommait Rouïn au corps d’airain) ; il l’appela et lui dit :
+Il attacha un fil autour de la lettre et appela son noble fils (il avait un fils qui tenait le premier rang dans l’assemblée des grands et se nommait Rouïn au corps d’airain) ; il l’appela et lui dit :
 
 > Rends-toi auprès de Gouderz, parle-lui sagement et écoute sa réponse. »
 
 Rouïn quitta son illustre père et se mit en route avec dix cavaliers ; il partit plein de prudence et de sérénité et courut jusqu’à l’enceinte des tentes du Pehlewan.
 
-Quand il fut arrivé à la résidence de Gouderz, quelqu’un courut avertir le Pehlewan, qui fit appeler auprès de lui le messager, aussitôt que celui-ci eut. touché l’enceinte
+Quand il fut arrivé à la résidence de Gouderz, quelqu’un courut avertir le Pehlewan, qui fit appeler auprès de lui le messager, aussitôt que celui-ci eut touché l’enceinte
 (les tentes.
 
 Ilouïn entra ; et lorsqu’il aperçut Gouderz, il croisa les mains sur la poitrine et inclina profondément la tète.
@@ -119,8 +117,8 @@ Lorsqu’on eut lu la lettre devant Gouderz, tous les grands restèrent étonné
 
 Gouderz dit à Roum :
 
-> Ô fils du chef de l’armée, noble jeune homme, il faut d’abord que tu reçoives de moi l’hospitalité, ensuite tu me demanderas la
->
-> MO réponse à cette lettrem On dressa une nouvelle tente ; on y arrangea une salle de festin digne d’un roi, qu’on orna de brocart de Roum ; on fit venir des mets et des musiciens.
->
+> Ô fils du chef de l’armée, noble jeune homme, il faut d’abord que tu reçoives de moi l’hospitalité, ensuite tu me demanderas la réponse à cette lettrem
+
+On dressa une nouvelle tente ; on y arrangea une salle de festin digne d’un roi, qu’on orna de brocart de Roum ; on fit venir des mets et des musiciens.
+
 > Le cœur du jeune homme était plein d’inquiétude sur la réponse que le Pehlewan lui donnerait ; et Gouderz, entouré de chanteurs et buvant du vin, prépara pendant une semaine cette réponse ; et chaque jour, à l’heure de midi, quand le soleil qui illumine le monde allait commencer à descendre, Gouderz faisait commander du vin, de la musique et une assemblée et appeler devant lui le messager.
