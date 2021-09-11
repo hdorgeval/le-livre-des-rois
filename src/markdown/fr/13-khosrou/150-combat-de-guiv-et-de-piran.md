@@ -25,11 +25,11 @@ Le Sipehdar Piran et quelquesuns des siens restèrent à leur poste étourdiment
 
 Guiv aperçut Piran, poussa son destrier contre lui et avec sa lance jeta à bas de leurs chevaux quatre d’entre les grands qui entouraient le chef des Touraniens.
 
-Pirau fils de Wiseh banda son arc et fit pleuvoir des traits sur son ennemi.
+Piran fils de Wiseh banda son arc et fit pleuvoir des traits sur son ennemi.
 
 Le vaillant Guiv se couvrit la tête de son bouclier et s’avança la lance en main, comme un loup ; mais au moment où il allait atteindre Piran le chef de l’armée et le combattre avec la lance, son cheval s’arrêta surplace et refusa de faire un pas de plus.
 
-Dans sa colère le héros illustre frappa son coursier avec un fouet ; il bouillonnait de rage et ouvrant les lèvres, il mau-dissait ce Div infâme qui le perdait.
+Dans sa colère le héros illustre frappa son coursier avec un fouet ; il bouillonnait de rage et ouvrant les lèvres, il maudissait ce Div infâme qui le perdait.
 
 Ensuite, il jeta sa lance, saisit son arc et protégea sa tête avec un bouclier couvert de peau de loup ; il banda l’arc et tendit les muscles de sa poitrine, dans l’espoir de clouer la main de Piran à son bouclier.
 
@@ -59,7 +59,7 @@ Quand il arriva auprès de Lehhak et de Ferschidwerd, il poussait des cris de do
 
 > Ormes illustres fières, mes vaillants compagnons, toujours prêts à frapper de l’épée, c’est pour un jour comme celui-ci que je vous ai élevés entre mes bras.
 >
-> À peine notre armée s’estelle avancée au combat que nos ennemis ont rendu le monde noir devant nous et je ne vois personne qui veuille se mettre à la tête de nos troupes pour acquérir de la gloire et du renom. »
+> À peine notre armée s’est-elle avancée au combat que nos ennemis ont rendu le monde noir devant nous et je ne vois personne qui veuille se mettre à la tête de nos troupes pour acquérir de la gloire et du renom. »
 
 À ces paroles les cœurs des héros illustres bondirent d’envie de combattre ; ils accoururent en disant :
 
@@ -67,7 +67,7 @@ Quand il arriva auprès de Lehhak et de Ferschidwerd, il poussait des cris de do
 >
 > Nous avons boutonné les pans de nos cottes de mailles et ce serait une honte de défaire nos ceintures pendant que dure ce combat. »
 
-’ Lehhak et Ferschidwerd s’avancèrent contre Guiv pour l’attaquer.
+Lehhak et Ferschidwerd s’avancèrent contre Guiv pour l’attaquer.
 
 Le vaillant Lehhak s’approcha de lui et le frappa de sa lance à la ceinture ; il voulait l’enlever de selle et le jeter sur la terre la tête en bas.
 
@@ -97,9 +97,7 @@ Il se dit à lui-même :
 
 > Il m’arrive une chose étrange avec ces deux braves avides de combat ; ce ne sont pas des chefs de l’armée du Touran qui m’attaquent, ce sont des Divs du Mazenderan. »
 
-À la droite de Guiv arriva Gourazeh. comme un tourbillon de poussière, pour combattre
-
-, A Ferschidwerd ; il tenait en main une massue d’acier de Roum semblable à une colonne et était assis sur un destrier puissant comme un dromadaire : au moment où il étendait la main sur le Turc plus rapidement que le vent, celui-ci, qui l’avait observé, se baissa sur la selle et le frappa de sa lance à la ceinture ; mais la ceinture était de mailles de fer et ne se rompit pas.
+À la droite de Guiv arriva Gourazeh comme un tourbillon de poussière, pour combattre Ferschidwerd ; il tenait en main une massue d’acier de Roum semblable à une colonne et était assis sur un destrier puissant comme un dromadaire : au moment où il étendait la main sur le Turc plus rapidement que le vent, celui-ci, qui l’avait observé, se baissa sur la selle et le frappa de sa lance à la ceinture ; mais la ceinture était de mailles de fer et ne se rompit pas.
 
 Bijen, l’épée en main, se porta comme un lion au secours du vaillant Gourazeh et donna un coup d’épée sur le haut du casque de Ferschidwerd, qui combattait comme s’il avait voulu fendre la terre.
 
@@ -117,4 +115,4 @@ Un pri de douleur s’éleva de tous les
 
 8, rangs des Turcs ; ils se précipitèrent vers lui comme des Divs et réussirent à le tirer de la mêlée et à l’éloigner du front de l’armée.
 
-Depuis l’aube du jour jusqu’à ce que la nuit descendît de la montagne, les cavaliers de l’Iran et l’armée du Touran firent voler la poussière du combat et imprégnèrent la terre de sang ; les chevaux et les hommes tombaient. en défaillance et leurs bouches restaient béantes. tant ils avaient crié et fait de bruit.
+Depuis l’aube du jour jusqu’à ce que la nuit descendît de la montagne, les cavaliers de l’Iran et l’armée du Touran firent voler la poussière du combat et imprégnèrent la terre de sang ; les chevaux et les hommes tombaient en défaillance et leurs bouches restaient béantes tant ils avaient crié et fait de bruit.
