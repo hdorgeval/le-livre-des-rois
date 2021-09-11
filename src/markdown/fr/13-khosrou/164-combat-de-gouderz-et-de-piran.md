@@ -27,9 +27,7 @@ La lutte avait porté malheur aux Touraniens, il leur en coûtait cher d’avoir
 
 Alors les Sipehdars de l’Iran et du Touran s’avancèrent résolument au combat.
 
-Ils cumulèrent sous leurs pieds la surface de la terre ; leur cœur était, rempli de douleur, leur tête pleine du désir de la vengeance ; et le soleil s’arrêta pendant leur combat, étonné de la poussière qui s’élevait du champ de ba-
-
-A taille.
+Ils cumulèrent sous leurs pieds la surface de la terre ; leur cœur était, rempli de douleur, leur tête pleine du désir de la vengeance ; et le soleil s’arrêta pendant leur combat, étonné de la poussière qui s’élevait du champ de bataille.
 
 Ils déployèrent toutes les ressources de l’art avec l’épée et le poignard, avec la massue et le lacet ; mais Dieu avait décidé de leur sort et le Touran devait succomber sous l’Iran.
 
@@ -43,15 +41,13 @@ Gouderz choisit une flèche de bois de peuplier à laquelle ni le fer ni la pier
 
 Le destrier chancela et expira.
 
-Dans sa chute il renversa Piran sous lui, se roula sur son vaillant cavalier et lui brisa par son poids le poignet droit.
+Dans sa chute, il renversa Piran sous lui, se roula sur son vaillant cavalier et lui brisa par son poids le poignet droit.
 
-Pirau se dégagea et se releva ; mais il sentit que sa fin approchait et qu’il ne survivrait pas à cette journée fatale.
+Piran se dégagea et se releva ; mais il sentit que sa fin approchait et qu’il ne survivrait pas à cette journée fatale.
 
 Il s’enfuit devant Gouderz et se dirigea vers la montagne ; il était épuisé par la douleur et fatigué de sa course ; néanmoins il atteignit le sommet de la montagne, espérant que le Pehlewan renoncerait à l’y suivre.
 
-Gouderz le regarda en versant des larmes amères ; il craignait que le sort ne changeât de nouveau ; il savait qu’on ne pouvait avoir confiance dans le destin, toujours prêt à opprimer les
-
-A hommes.
+Gouderz le regarda en versant des larmes amères ; il craignait que le sort ne changeât de nouveau ; il savait qu’on ne pouvait avoir confiance dans le destin, toujours prêt à opprimer les hommes.
 
 Il s’écria :
 
@@ -66,13 +62,13 @@ Il s’écria :
 >
 > Le sort te tourne entièrement le dos ; ce n’est pas le moment d’employer des ruses ; ainsi ne cherche pas à t’échapper.
 >
-> Puisque le destin t’y réduit, demande grâce, afin que je t’amène en vie devant le roi victorieux. qui te pardonnera, quand il verra ta tête et ta barbe blanches comme la neige. »
+> Puisque le destin t’y réduit, demande grâce, afin que je t’amène en vie devant le roi victorieux qui te pardonnera, quand il verra ta tête et ta barbe blanches comme la neige. »
 
 Piran répondit :
 
 > Qu’il n’en soit pas ainsi.
 >
-> Puissécr je n’être pas réservé à ce dernier malheur, qu’après tout ceci j’éprouve encore l’envie de vivre et que je pense à demander pardon.
+> Puissé-je n’être pas réservé à ce dernier malheur, qu’après tout ceci j’éprouve encore l’envie de vivre et que je pense à demander pardon.
 >
 > Je suis venu dans ce monde pour mourir et je t’ai livré ma tête dans ce combat.
 >
@@ -82,7 +78,7 @@ Piran répondit :
 
 Gouderz se mit à faire le tour de la montagne, mais il se fatigua sans trouver de route ; alors il mit pied à terre, prit son bouclier et grimpa sur la montagne comme un chasseur, se couvrant de son bouclier, tenant en main un javelot et les yeux dirigés en haut.
 
-Pirau l’aperçut de loin ; le chef de l’armée du Touran bondit sur le rocher, lança son poignard comme on lance une flèche et frappa le vieux Sipehdar au bras.
+Piran l’aperçut de loin ; le chef de l’armée du Touran bondit sur le rocher, lança son poignard comme on lance une flèche et frappa le vieux Sipehdar au bras.
 
 Gouderz se voyant blessé à la main, se mit en fureur et voulut se venger ; il lança son javelot qui atteignit Piran, déchira la cotte de mailles qui lui couvrait la poitrine, perça la peau et pénétra jusqu’au foie.
 
@@ -98,12 +94,10 @@ Lorsque Gouderz eut atteint la cime de la montagne, il vit Piran dans cet état,
 
 > Ô vaillant lion ! ô chef des Pehlewans ! ô brave cavalier !
 >
-> Le monde a vu beaucoup d’hommes comme toi et comme moi, mais il n’ac-I corde du repos à personne. »
+> Le monde a vu beaucoup d’hommes comme toi et comme moi, mais il n’accorde du repos à personne. »
 
 Il porta la main sur le corps de Piran et la remplit de sang qu’il but et dont il se frotta le visage, ô horreur !
 
-Ensuite, il poussa des cris de douleur sur le meurtre de Sia-
-
-â wusch ; il adressa des prières au Créateur, il se lamenta devant Dieu le dispensateur de la justice sur la mort de ses soixante et dix nobles fils.
+Ensuite, il poussa des cris de douleur sur le meurtre de Siawusch ; il adressa des prières au Créateur, il se lamenta devant Dieu le dispensateur de la justice sur la mort de ses soixante et dix nobles fils.
 
 Il avait envie de trancher la tête de son ennemi, mais il ne put se résoudre à cet acte de férocité ; il planta le drapeau de Piran par terre à côté de son cadavre, plaça sa tête dans l’ombre du drapeau et se remit en route pour rejoindre les siens, perdant son sang qui dégouttait de son bras comme un ruisseau d’eau.
