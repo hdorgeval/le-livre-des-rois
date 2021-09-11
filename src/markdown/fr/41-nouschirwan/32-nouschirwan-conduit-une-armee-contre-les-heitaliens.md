@@ -23,11 +23,11 @@ Le roi du monde demeura plein de soucis de ce que ses émissaires vigilants lui 
 
 Kesra dit :
 
-> Ô vous, sages qui connaissez le monde et vous, nobles qui. avez fait de grandes actions !
+> Ô vous, sages qui connaissez le monde et vous, nobles qui avez fait de grandes actions !
 >
 > J’ai appris des Heïtaliens, des Turcs, du Khakan de la Chine et des chefs des frontières du pays de Touran, des nouvelles qui ne me plaisent pas, des choses pénibles et fâcheuses.
 >
-> Des armées innombrables de gens de Djadj, de Turcs, de Chinois et d’hommes de Khoten se sont rassemblées et se sont battues. couvertes de casques et frappant de l’épée pendant sept jours, sans ôter les selles du dos de leurs chevaux ; à la fin les Heïtaliens ont été défaits et peut-être deux tiers d’entre eux ont été blessés ou tués.
+> Des armées innombrables de gens de Djadj, de Turcs, de Chinois et d’hommes de Khoten se sont rassemblées et se sont battues couvertes de casques et frappant de l’épée pendant sept jours, sans ôter les selles du dos de leurs chevaux ; à la fin les Heïtaliens ont été défaits et peut-être deux tiers d’entre eux ont été blessés ou tués.
 >
 > Les Heïtaliena avaient un si grand renom, les hommes avaient une .si haute opinion de leurs épées et de leurs massues, que leur défaite doit étonner.
 >
@@ -35,9 +35,7 @@ Kesra dit :
 >
 > Le pays de Heital, dans son trouble, a cherché un prince de la famille de Bahram Gour, a placé sur le trône un nouveau maître et l’a acclamé unanimement roi.
 >
-> Le Khakan s’est établi de ce côté de Djadj, fier de son armée de son trésor et de sa couronne ; il est
->
-> de la famille d’Ardjasp et d’Afrasiab et ne rêve que de la frontière de l’Iran.
+> Le Khakan s’est établi de ce côté de Djadj, fier de son armée de son trésor et de sa couronne ; il est de la famille d’Ardjasp et d’Afrasiab et ne rêve que de la frontière de l’Iran.
 >
 > Ayant vaincu l’armée de Ghatfer, il élève la tête au-dessus du soleil.
 >
@@ -61,24 +59,22 @@ Tous le bénirent, disant :
 
 De bonnes paroles de ta part ?
 
-Si nous n’avions contre eux aucun autre grief que le meurtre de ce roi des hommes libres, Pirouz, qu’ils ont tué traltreusement, un si grand roi, la lumière du monde, cela wfirait pour souhaiter qu’ils ne jouissent pas d’un seul jour de bonheur, car jamais l’injustice ne peut produire dola justice et telle est la rétribution qu’inflige Dieu le tout juste, que tous les malfaiteurs finissent mal.
+Si nous n’avions contre eux aucun autre grief que le meurtre de ce roi des hommes libres, Pirouz, qu’ils ont tué traitreusement, un si grand roi, la lumière du monde, cela wfirait pour souhaiter qu’ils ne jouissent pas d’un seul jour de bonheur, car jamais l’injustice ne peut produire dola justice et telle est la rétribution qu’inflige Dieu le tout juste, que tous les malfaiteurs finissent mal.
 
-Ensuite, si tu parles du Khakan, qui nourrit dans son cœur le grief d’une ancienne vengeance, il se peut qu’il ait trouvé dans la famille d’Afrasiab de mauvais conseillers, dont les yeux sont encore remplis de larmes et .qu’il ait repris
-. courage par suite de sa victoire et il ne nous étonne n pas que’tu le redoutes.
+Ensuite, si tu parles du Khakan, qui nourrit dans son cœur le grief d’une ancienne vengeance, il se peut qu’il ait trouvé dans la famille d’Afrasiab de mauvais conseillers, dont les yeux sont encore remplis de larmes et qu’il ait repris courage par suite de sa victoire et il ne nous étonne pas que tu le redoutes.
 
 Ne parle pas des Heïtaliens et de l’armée de Ghatfer et ne t’en fais pas de soucis ; mais occupe-toi dans ton esprit lucide de la famille d’Ardjasp et d’Afrasiab et du Khakan, qui s’est établi de ce côté du fleuve, car tu es le puissant maître du monde et notre esprit et notre intelligence seront éclairés par toi.
 
 Vive à jamais celui qui cultive la raison !
 
-Tu as plus de sagesse que . cette grande assemblée et tu n’as pas besoin de sages et de conseillers ; la couronne et le trône du monde te sont dus, car tu possèdes la majesté, la gloire, la raison et la fortune.
+Tu as plus de sagesse que cette grande assemblée et tu n’as pas besoin de sages et de conseillers ; la couronne et le trône du monde te sont dus, car tu possèdes la majesté, la gloire, la raison et la fortune.
 
 Mais si le roi va dans le Khorasan, il aura à craindre pour l’Iran ; car dès que les Roumis voient qu’il a quitté ce pays, ils viennent avec une armée pour se venger des Iraniens et ce pays est dévasté.
 
-Jusqu’ici per-
-. sonne n’a mis le pied sur le sol de l’Iran, personne
+Jusqu’ici personne n’a mis le pied sur le sol de l’Iran, personne
 , ne menace cet empire et il suffit que le roi se -prépare pour la guerre et le combat, pour que les crocodiles dans le fleuve se tiennent tranquilles. »
 
-Lorsque le roi eut entendu les discours des Iraniens sur la paix, la guerre et les combats, le maître du monde comprit ce que voulaient ces sages, qu’aucun d’eux ne désirait faire .la guerre et qu’ils tenaient à avoir .des fêtes et à jouir de la vie.
+Lorsque le roi eut entendu les discours des Iraniens sur la paix, la guerre et les combats, le maître du monde comprit ce que voulaient ces sages, qu’aucun d’eux ne désirait faire la guerre et qu’ils tenaient à avoir des fêtes et à jouir de la vie.
 
 Il répondit :
 
@@ -94,7 +90,7 @@ Je jure parfin puissance que Dieu m’a donnée que nous nous préparerons à ma
 
 Je conduirai une armée dans le Khorasan, je rassemblerai des troupes de toutes les provinces et tant que nous sommes d’hommes de guerre illustres, nous attacherons les timbales sur le dos des éléphants furieux.
 
-Je ne demanderai ni aux Heïtaliens ni au Khakan de rendre hommage au pays de l’Iran ; mais je délivrerai le monde des méchants en arrachant les mauvaises herbes ; je rajeunirai le pays par la jus. tice et la générosité. a.
+Je ne demanderai ni aux Heïtaliens ni au Khakan de rendre hommage au pays de l’Iran ; mais je délivrerai le monde des méchants en arrachant les mauvaises herbes ; je rajeunirai le pays par la justice et la générosité. a.
 
 Les grands restèrent confondus, ils s’excusèrent et le bénirent, disant :
 
@@ -104,8 +100,7 @@ Les grands restèrent confondus, ils s’excusèrent et le bénirent, disant :
 >
 > Chaque fois que le roi nous ordonnera de nous battre, il ne trouvera pas de lenteur de notre part. »
 
-’
-A partir de la, tous les héros s’assemblèrent quand le roi réunit ses conseillers et il continua ainsi à tenir des conseils jusqu’au commencement d’un mois nouveau.
+À partir de la, tous les héros s’assemblèrent quand le roi réunit ses conseillers et il continua ainsi à tenir des conseils jusqu’au commencement d’un mois nouveau.
 
 Alors, il vint s’asseoir sur un trône nouveau ; on vit la lune briller tau-dessus du visage du roi et un cri d’admiration partit du palais.
 
