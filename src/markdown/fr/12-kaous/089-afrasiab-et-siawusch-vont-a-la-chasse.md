@@ -19,9 +19,7 @@ order: '089'
 
 Le roi dit à ce fils de roi :
 
-> Viens un jour avec moi à la chasse, pour nous réjouir et nous livrer au plaisir et pour que la chasse délivre notre âme
->
-> de ses soucis. »
+> Viens un jour avec moi à la chasse, pour nous réjouir et nous livrer au plaisir et pour que la chasse délivre notre âme de ses soucis. »
 
 Siawusch lui répondit :
 
@@ -51,7 +49,7 @@ Siawusch courut dans la plaine, dans la montagne et dans le désert, se servant 
 
 Ensuite ils s’en retournèrent joyeusement de ce lieu vers le palais du roi.
 
-A partir de ce temps, Afrasiab, qu’il fût gai ou triste, ne voulut d’autre compagnon que Siawusch.
+À partir de ce temps, Afrasiab, qu’il fût gai ou triste, ne voulut d’autre compagnon que Siawusch.
 
 Il ne confia plus ses secrets ni à Djehn, ni à Guersiwez, ni à aucun autre des grands de sa cour ; il ne partagea plus ses plaisirs avec eux ; il ne voulut être jour et nuit qu’avec Siawusch et ce n’était qu’à lui qu’il ouvrait les lèvres en souriant.
 
