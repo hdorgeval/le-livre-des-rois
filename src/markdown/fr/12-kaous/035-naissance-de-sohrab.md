@@ -1,7 +1,7 @@
 ---
 lastUpdate: '2021-09-04'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome II - livre des rois - P. 64
@@ -9,7 +9,31 @@ reign: 'Keï Kaous'
 reign-slug: 'regne-de-kaous'
 episode-slug: 'naissance-de-sohrab'
 title: 'Naissance de Sohrab | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Afrasiab',
+    'Bahram',
+    'bedrehs',
+    'Destan',
+    'Dieu',
+    'Gouderz',
+    'Gourguin',
+    'Guiv',
+    'Iran',
+    'Kaous',
+    'Kustehem',
+    'Neriman',
+    'Newder',
+    'rubis',
+    'Rustem',
+    'Sam',
+    'Sohrab',
+    'Tehmimeh',
+    'Thous',
+    'Touran',
+    'Turcs',
+    'Zal',
+  ]
 order: '035'
 ---
 
@@ -33,7 +57,7 @@ Il alla auprès de sa mère et lui adressa une question, en lui disant audacieus
 
 > Puisque je suis plus grand que mes frères de lait et que ma tête s’élève plus haut que le ciel, apprends-moi de quelle race je suis et quel est mon lignage et ce que je dois dire quand on me demande le nom de mon père.
 >
-> Si tu refuses de répondre à cette question je ne te laisserai pas vivante parmi les grands de la terre. »
+> Si tu refuses de répondre à cette question je ne te laisserai pas vivante parmi les grands de la terre.
 
 Sa mère lui répondit :
 
@@ -41,21 +65,21 @@ Sa mère lui répondit :
 >
 > Tu es fils de Rustem, du héros au corps d’éléphant ; tu es issu de la famille de Sam le Destan et de Neriman et ta tête est plus haute que le ciel, parce que tu descends de cette race illustre.
 >
-> Depuis que Dieu a créé le monde, il n’a pas paru un cavalier tel que Rustem ; jamais il n’y a en sur la terre un homme tel que Sam fils de Neriman, dont le ciel dans sa rotation n’ose atteindre la tête. »
+> Depuis que Dieu a créé le monde, il n’a pas paru un cavalier tel que Rustem ; jamais il n’y a eu sur la terre un homme tel que Sam fils de Neriman, dont le ciel dans sa rotation n’ose atteindre la tête.
 
 Puis elle apporta une lettre de Rustem le guerrier et lui montra en secret trois rubis brillants et trois bedrehs d’or que Rustem, dans le temps où Sohrab naquit, avait envoyés du pays d’Iran, en les accompagnant d’un message.
 
 Elle lui dit :
 
-> Regarde ces présents avec reconnaissance ; c’est ton père qui te les envoie, ô mon vaillant fils. »
+> Regarde ces présents avec reconnaissance ; c’est ton père qui te les envoie, ô mon vaillant fils.
 
 Ensuite elle ajouta :
 
 > Mais il ne faut pas qu’Afrasiab sache rien de cette affaire, depuis le commencement jusqu’à la fin ; car il est l’ennemi du glorieux Rustem et tout le Touran gémit sous sa tyrannie.
 >
-> Puisse-t-il ne pas te prendre en haine et détruire le [ils par inimitié contre le père !
+> Puisse-t-il ne pas te prendre en haine et détruire le fils par inimitié contre le père !
 >
-> En outre, si ton père savait que tu es devenu tel que je te vois, portant haut la tête parmi ceux qui la portent haute, s’il le savait, il t’appellerait auprès de lui et la douleur briserait le cœur de la mère. »
+> En outre, si ton père savait que tu es devenu tel que je te vois, portant haut la tête parmi ceux qui la portent haute, s’il le savait, il t’appellerait auprès de lui et la douleur briserait le cœur de ta mère.
 
 Sohrab lui répondit :
 
@@ -65,4 +89,4 @@ Sohrab lui répondit :
 >
 > Je vais maintenant me mettre à la tête d’une armée innombrable de Turcs pleins de bravoure ; je précipiterai Kaous de son trône ; j’effacerai de l’Iran la trace du pied de Thous ; je ne laisserai en vie ni Gourguin, ni Gouderz, ni Guiv, ni Kustehem fils de Newder, ni Bahram le brave ; je donnerai à Rustem la massue, le cheval et le casque du roi ; je le ferai monter sur le trône de Kaous ; ensuite je tournerai de l’Iran vers le Touran pour l’attaquer, j’irai à la rencontre du roi ; je m’emparerai du trône d’Afrasiab, je lèverai ma lance au-dessus du soleil ; je te ferai reine du pays d’Iran ; je me montrerai comme un lion dans le combat des braves.
 >
-> Puisque Rustem est mon père et que je suis son fils, je ne laisserai aucun autre roi dans le monde ; car pourquoi les étoiles porteraient-elles des couronnes quand le soleil et la lune brillent ? »
+> Puisque Rustem est mon père et que je suis son fils, je ne laisserai aucun autre roi dans le monde ; car pourquoi les étoiles porteraient-elles des couronnes quand le soleil et la lune brillent ?
