@@ -100,15 +100,13 @@ D’un côté de Khosrou se tenait le Sipehdar Thous ; tous les Pehlewans aux bo
 
 On entendit le bruit des coups donnés et reçus sur le champ de bataille.
 
-Personne ne verra plus un pareil combat : tout le désert de sable était couvert de blessés et de morts, d’hommes dont le jour était passé ; il y avait tant de cadavres que le pied ne trouvait pas de place pour s’y poser ; la plaine inondée de sang ressemblait au Djihoun, on ne voyait que des hommes sans tête ou la tête en bas ; les cris des cavaliers et des chevaux couvraient le son des tambours ; on aurait, dit que le cœur des montagnes se fendait et que la terre s’envolait avec les cavaliers : il y avait des têtes sans corps, des corps sans têtes ; les coups des lourdes massues résonnaient, les poignards et les épées tranchantes flamboyaient et le soleil cherchait le chemin de la fuite ; tu aurais dit qu’un nuage noir était arrivé et versait une pluie de sang sur le champ de bataille. 
-F
-o6 LE.
+Personne ne verra plus un pareil combat : tout le désert de sable était couvert de blessés et de morts, d’hommes dont le jour était passé ; il y avait tant de cadavres que le pied ne trouvait pas de place pour s’y poser ; la plaine inondée de sang ressemblait au Djihoun, on ne voyait que des hommes sans tête ou la tête en bas ; les cris des cavaliers et des chevaux couvraient le son des tambours ; on aurait, dit que le cœur des montagnes se fendait et que la terre s’envolait avec les cavaliers : il y avait des têtes sans corps, des corps sans têtes ; les coups des lourdes massues résonnaient, les poignards et les épées tranchantes flamboyaient et le soleil cherchait le chemin de la fuite ; tu aurais dit qu’un nuage noir était arrivé et versait une pluie de sang sur le champ de bataille.
 
 Khirindjas fut tué, à l’aile gauche, de la main de Feribourz fils de Kaous ; et Kerila, qui à lui seul valait cent éléphants, tomba à l’aile droite sous les coups de Minoutchehr.
 
 Un ouragan s’éleva à l’heure de midi et un nuage couvrit la face du soleil qui éclaire le monde, la terre s’obscurcit et les yeux se troublèrent dans les ténèbres.
 
-A l’heure où le soleil baissait, le cœur du roi des Turcs bondit d’angoisse en voyant ce tourbillon de cavaliers de tous les pays, de toutes les frontières, de tous les royaumes, couverts de cuirasses de toutes formes, portant des drapeaux de toutes couleurs, qui diapraient le monde entier de rouge, de jaune et de violet.
+À l’heure où le soleil baissait, le cœur du roi des Turcs bondit d’angoisse en voyant ce tourbillon de cavaliers de tous les pays, de toutes les frontières, de tous les royaumes, couverts de cuirasses de toutes formes, portant des drapeaux de toutes couleurs, qui diapraient le monde entier de rouge, de jaune et de violet.
 
 Guersiwez, qui commandait la réserve du roi, voyant ce qui se passait, amena toutes ses troupes dans la mêlée ; il envoya à droite des héros illustres unis de cœur et de corps et déploya de même, vers toute l’aile gau-
 che, des troupes pour soutenir la lutte ; c’étaient quarante mille cavaliers vaillants, tous choisis pour le combat.
