@@ -97,7 +97,7 @@ Le Sipehdar Piran à son tour plaça son étendard sur l’autre colline et donn
 
 Ensuite les Iraniens descendirent dans la plaine, armés pour verser du sang et essayant des coups de toute espèce avec l’épée et les flèches, avec la massue et le lacet.
 
-Les braves et les grands du Touran arrivèrmt armés de massues, de flèches et d’épées damasquinées : on aurait cru que si une montagne venait s’opposerà eux, ils l’aplaniraient dans un instant ; mais leurs mains pendaient impuissantes, Dieu leur avait fermé la porte de la force ; ils se jetaient dans les lacs du malheur, car ils avaient versé beaucoup de sang innocent ; leurs chevaux de bataille s’arrêtaient, on eût dit qu’une main invisible retenait leurs pieds ; tout leur bonheur avait disparu, car leur temps était passé et leur sang bouillonnait d’inquiétude.
+Les braves et les grands du Touran arrivèrmt armés de massues, de flèches et d’épées damasquinées : on aurait cru que si une montagne venait s’opposer à eux, ils l’aplaniraient dans un instant ; mais leurs mains pendaient impuissantes, Dieu leur avait fermé la porte de la force ; ils se jetaient dans les lacs du malheur, car ils avaient versé beaucoup de sang innocent ; leurs chevaux de bataille s’arrêtaient, on eût dit qu’une main invisible retenait leurs pieds ; tout leur bonheur avait disparu, car leur temps était passé et leur sang bouillonnait d’inquiétude.
 
 Telle était la volonté du Créateur du monde ; tu aurais dit que la terre s’emparait de ces héros ; mais ils étaient si braves, que
 
@@ -107,4 +107,4 @@ C’est ainsi que les deux partis accoururent sur le terrain et se placèrent fa
 
 Le Sipehdar Piran sentait en secret que le mauvais jour arrivait et le serrait de près ; mais telle est la manière d’agir du ciel sublime, que tantôt il nous envoie des joies, tantôt des afflictions.
 
-Pirau ne savait comment éviter le combat ; le moment était venu où l’oppresseur allait être opprimé.
+Piran ne savait comment éviter le combat ; le moment était venu où l’oppresseur allait être opprimé.
