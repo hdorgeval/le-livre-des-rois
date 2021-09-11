@@ -17,7 +17,7 @@ order: '005'
 
 # Hormuzd revient à la pratique de la justice
 
-A partir de la, tout plaisir disparut de la viol (l’llormuzvl, l’inquiétude lui perçait le cœur connue un aiguillon.
+À partir de la, tout plaisir disparut de la viol (l’llormuzvl, l’inquiétude lui perçait le cœur connue un aiguillon.
 
 Il restait à lslhakr les trois mois de 3 l’année où les nuits sont les plus courtes, car la ville étaitbelle et l’air y est transparent et il n’avait aucune envie de quitter ce lieu ; il passait les trois mois d’automne à lsl’ahan, où l’air est bon et où demeuraient les grands ; en hiver, il résidait à Thisifoun avec son armée, ses Mobeds et ses conseillers et il séjournait au printemps dans les plaines de l’Arwend.
 
@@ -25,19 +25,17 @@ C’est ainsi que se passa quelque temps.
 
 Son cœur était terrifié de la lettre, il priait trois fois par nuit, il ne versait plus de sang, il ne commettait pas d’injustice et son esprit ne pensait pas au mal.
 
-Chaque jour, aussitôt que le voile sombre de la nuit disparaissait et que la montagne de topaze de soleil) devenait visible, un héraut faisait cette proClamation :
+Chaque jour, aussitôt que le voile sombre de la nuit disparaissait et que la montagne de topaze de soleil) devenait visible, un héraut faisait cette proclamation :
 
 > Ô hommes illustres, glorieux et intelligents !
 >
 > Si un champ ensemencé est foulé aux pieds et le cultivateur affligé de cette perte, ou si un cheval entre dans un champ de blé, ou si un homme s’introduit dans un verger, il faut couper au cheval la queue et les oreilles et suspendre le voleur par la tête à la potences»
 
-Le roi traversait le monde pendant des mais et des années ; rien de ce qui était bon ou.mauvais ne lui restait caché et il rendait si bien la justice dans tous les pays que les Dihkans le bénissaient.
+Le roi traversait le monde pendant des mais et des années ; rien de ce qui était bon ou mauvais ne lui restait caché et il rendait si bien la justice dans tous les pays que les Dihkans le bénissaient.
 
 Il avait un fils qu’il chérissait et qu’on pouvait à peine distinguer de la lune.
 
-Le père lui avait donné le nom de Parwiz et l’appelaitquclquel’ois Khosrou le volon-
-
-Taire.
+Le père lui avait donné le nom de Parwiz et l’appelait quelque-fois Khosrou le volontaire.
 
 Jamais le fils ne quittait son père et le père n’était pas tranquille quand le fils était absent.
 
@@ -74,7 +72,7 @@ Le maître de la vigne survint et dit au cavalier :
 > Ô homme méchant et malfaisant !
 >
 > Tu ne t’es pas fatigué à garder ces raisins, tu ne les as pas payés de ton argent;-
-et pourquoi, toi qui n’a pas en de peine, me prives-tu a des fruits de celle que j’ai eue ?
+> et pourquoi, toi qui n’a pas en de peine, me prives-tu a des fruits de celle que j’ai eue ?
 >
 > Je vais m’en plaindre au roi. »
 
@@ -88,10 +86,8 @@ Le maître de la vigne dit en voyant la ceinture :
 >
 > C’est moi qui t’oblige en acceptant la ceinture ; car si le roi entente duit parler de tout cela, tu serais un homme mort. »
 
-Le roi Hormuzd se rendit illustre par ses victoires, tout le peuple le célébrait pour sa bravoure, car personne ne l’avait jamais vu perdre une bataille ; il était également prêt à accorder et à deman-
->
-> der ce qui était juste,-el il élevait le diadème des Keïanidesau-dessus de la lune.
->
+Le roi Hormuzd se rendit illustre par ses victoires, tout le peuple le célébrait pour sa bravoure, car personne ne l’avait jamais vu perdre une bataille ; il était également prêt à accorder et à demander ce qui était juste,-el il élevait le diadème des Keïanides au-dessus de la lune.
+
 > Il ne demeurait jamais longtemps à Madaïn ; c’était un vaillant et glorieux homme.
 >
-> Ce héros, vainqueur des lions, ne se reposait jamais, nitau printemps ni en été, ni en hiver ni en automne ; il traversait sans cesse le monde et tâchait de’s’acquitter de son métier de roi.
+> Ce héros, vainqueur des lions, ne se reposait jamais, ni au printemps ni en été, ni en hiver ni en automne ; il traversait sans cesse le monde et tâchait de s’acquitter de son métier de roi.
