@@ -1719,6 +1719,19 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/A partir de /g, 'À partir de '),
     (content: string) => content.replace(/\nPirau /g, '\nPiran '),
     (content: string) => content.replace(/ 6l /g, ' '),
+    (content: string) => content.replace(/ s’élanca /g, ' s’élança '),
+    (content: string) => content.replace(/Du côlé où/g, 'Du côté où'),
+    (content: string) => content.replace(/ etje /g, ' et je '),
+    (content: string) => content.replace(/ tantde /g, ' tant de '),
+    (content: string) => content.replace(/ tavie /g, ' ta vie '),
+    (content: string) => content.replace(/ lettrem/g, ' lettre. »'),
+    (content: string) => content.replace(/ arrivèrmt /g, ' arrivèrent '),
+    (content: string) => content.replace(/ I’accable /g, ' l’accable '),
+    (content: string) => content.replace(/ soull’rir /g, ' souffrir '),
+    (content: string) => content.replace(/ la lieur du /g, ' la fleur du '),
+    (content: string) => content.replace(/ illuslrel /g, ' illustre ! '),
+    (content: string) => content.replace(/ la routem /g, ' la route. » '),
+    (content: string) => content.replace(/A l’heure où/g, 'À l’heure où'),
   ].forEach((format) => {
     result = format(result);
   });
