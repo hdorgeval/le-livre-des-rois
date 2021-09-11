@@ -1718,6 +1718,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ d’Alrasiah/g, ' d’Afrasiab'),
     (content: string) => content.replace(/A partir de /g, 'À partir de '),
     (content: string) => content.replace(/\nPirau /g, '\nPiran '),
+    (content: string) => content.replace(/ 6l /g, ' '),
   ].forEach((format) => {
     result = format(result);
   });
