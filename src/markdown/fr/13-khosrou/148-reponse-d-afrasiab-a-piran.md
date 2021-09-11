@@ -29,7 +29,7 @@ Tu as conduit ton armée de la Chine jusque dans l’Iran, tu as assombri le cœ
 
 Tu m’as accordé l’amitié que tu avais vouée à Tour et à Pescheng et le ciel ne fera plus naître de Pehlewan comme toi ; l’armée ne verra plus de obel qui te ressemble, elle ne verra plus de guide plein de sagesse comme loi.
 
-’ [ : Ed premier lieu tu dis que tu fus coupable lorsque Keï Khosrou passa du .Touran dans le pays d’Iran et m’accabla de sa haine.
+’ [ : Ed premier lieu tu dis que tu fus coupable lorsque Keï Khosrou passa du Touran dans le pays d’Iran et m’accabla de sa haine.
 
 Mais sache que moi le roi je ne t’en ai pas voulu et que jamais mon cœur ne s’en est souvenu.
 
@@ -39,9 +39,9 @@ Car cela devait arriver selon la volonté du Créateur et aucun homme n’a ét�
 
 Puisque Keï Khosrou ne tient pas de moi sa dignité, ne l’appelle pas mon ce petit-fils, ce serait un mensonge ; jamais je ne serai pour lui un grand-père et je ne profiterai jamais de cette parenté.
 
-Personne n’est coupable dans cette querelle et je ne puis m’élever contre Dieu le maître du monde ; il l’a voulu ainsi, c’était le des. tin ; comment aurais-je pu t’en vouloir ?
+Personne n’est coupable dans cette querelle et je ne puis m’élever contre Dieu le maître du monde ; il l’a voulu ainsi, c’était le destin ; comment aurais-je pu t’en vouloir ?
 
-En second lieu tu me parles de l’armée et de la rotation malheureuse du soleil et de la lune.
+En second lieu, tu me parles de l’armée et de la rotation malheureuse du soleil et de la lune.
 
 Il est écrit que la fortune de la guerre est une poussière sombre qui vole de tous côtés ; qui tantôt élève un homme jusqu’au soleil, tantôt le précipite en bas.
 
@@ -66,7 +66,7 @@ O homme plein d’expérience et de fierté, tu es au-dessus de tout besoin par 
 Lorsque cette armée sera arrivée auprès de toi, ne tarde pas, arrache à Gouderz sa tête et sa couronne, fais démolir par les sabots de les destriers la montagne qui lui sert de forteresse ; et une fois que tu auras le dessus dans cette attaque, n’arrête plus la main des nôtres dans le carnage. 7)
 Le messager ayant écouté la réponse du roi, s’en retourna auprès du Pehlewan.
 
-Pirau entendit cette réponse, rassembla son armée et fit répéter au messager devant elle tout son récit.
+Piran entendit cette réponse, rassembla son armée et fit répéter au messager devant elle tout son récit.
 
 Il raviva ainsi le courage de ses braves, qui bannirent de leur âme tous leurs soucis.
 
@@ -82,9 +82,7 @@ Il s’adressa à Dieu, disant :
 >
 > Regarde Khosrou : qui aurait cru qu’à cette heure il serait devenu un roi si puissant ?
 >
-> Regarde ce que fait le sort inconstant : les ronces. desséchées de celui qu’il favorise poussent des roses fraiches ; et la fortune qui veille sur un homme convertit en .
->
-> [t musc la poussière sous ses pieds.
+> Regarde ce que fait le sort inconstant : les ronces. desséchées de celui qu’il favorise poussent des roses fraiches ; et la fortune qui veille sur un homme convertit en musc la poussière sous ses pieds.
 >
 > Plus étonnant encore est le sort d’un homme plein de noblesse, dont le cœur est toujours rempli de soucis.
 >
@@ -97,7 +95,8 @@ Il s’adressa à Dieu, disant :
 Il recommença à soupirer devant Dieu, disant :
 
 > Ô Maître de la lumière et de la justice, ô Créateur !
-si Keï Khosrou sort de l’Iran pour se venger et si la terre entière retombe entre ses mains, je consens que ma cuirasse soit percée et que tu enlèves mon âme de mon corps.
+>
+> Si Keï Khosrou sort de l’Iran pour se venger et si la terre entière retombe entre ses mains, je consens que ma cuirasse soit percée et que tu enlèves mon âme de mon corps.
 >
 > Puisse mon œil ne jamais voir quelqu’un prendre la voie et la ligne de conduite que j’ai suivie !
 >
