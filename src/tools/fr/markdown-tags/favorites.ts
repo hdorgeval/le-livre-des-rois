@@ -4,6 +4,8 @@ export const favorites = [
   'arghawan',
   'astrolable',
   'barsom',
+  'bedreh',
+  'bedrehs',
   'chameau',
   'chrysoprases',
   'cyprès',
