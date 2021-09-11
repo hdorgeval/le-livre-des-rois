@@ -66,9 +66,7 @@ Schapour eut peur de ce qui était arrivé, son cœur fut plein d’inquiétude 
 
 Le roi sourit en le voyant en cet état et lui dit :
 
-> Dévoile ce ).
->
-> secret ; il faut des enfants et ils sont les bienvenus, de qui que ce soit qu’ils viennent ; or on dit que celui-ci est un fils de roi. »
+> Dévoile ce secret ; il faut des enfants et ils sont les bienvenus, de qui que ce soit qu’ils viennent ; or on dit que celui-ci est un fils de roi. »
 
 Schapour répondit :
 
@@ -78,13 +76,13 @@ Schapour répondit :
 >
 > Cet enfant est de moi, son nom est Ormuzd ; il brille comme une tulipe au milieu des herbes.
 >
-> Je l’ai caché pendant quelque temps devant leroi, jusqu’à ce que le fruit de l’arbre ait grandi.
+> Je l’ai caché pendant quelque temps devant le roi, jusqu’à ce que le fruit de l’arbre ait grandi.
 >
 > Ce noble enfant est fils de la fille de Mihrek ; il vient de moi et il est certain qu’il m’appartient. »
 
 Puis le fils conta longuement l’histoire de l’eau et du puits et ce qui s’en était suivi et le père l’écouta.
 
-Ardeschir fut heureux de ces paroles et se rendit au palais avec le vizir, en tenant dans ses bras cet enfant qui enflammait les cœurs ; il alla du Meîdan à la salle du trône, fit parer un trône d’or et apporter unicollier et un diadème d’or dont on orna la tête du petit prince.
+Ardeschir fut heureux de ces paroles et se rendit au palais avec le vizir, en tenant dans ses bras cet enfant qui enflammait les cœurs ; il alla du Meîdan à la salle du trône, fit parer un trône d’or et apporter un collier et un diadème d’or dont on orna la tête du petit prince.
 
 Le roi fit venir du trésor beaucoup d’or et de pierreries et les répandit sur l’enfant jusqu’à ce que sa tête disparût ; puis il le tira du milieu de cet amas, distribua l’or et les joyaux aux pauvres et donna à l’enfant plein de sens des richesses plus grandes encore.
 
@@ -96,4 +94,4 @@ Le roi dit aux hommes illustres du pays, à tous ceux qui avaient de l’intelli
 >
 > Keïd l’Indien m’avait annoncé que je ne jouirais ni de la fortune, ni du trône, ni de l’empire, ni du diadème, ni du trésor, ni de l’armée, ni de la couronne royale, ni de ma dignité et de mon rang, à moins que la famille de Mikrek fils de Nouschzad ne mêlât son sang au mien.
 >
-> Or il y a maintenant huit ans que le ciel n’a tourné que selon mes désirs ; depuis qu’Ormuzd est entré dans ma demeure, je n’ai trouvé dans le monde que de l’obéissauce ; les sept Kischwers de la terre ont été à mes ordres et mon cœur a obtenu de la fortune tout ce qu’il a demandé. n’ A partir de ce moment tous ses subordonnés placèrent à la tête des documents publics son titre de roi des rois.
+> Or il y a maintenant huit ans que le ciel n’a tourné que selon mes désirs ; depuis qu’Ormuzd est entré dans ma demeure, je n’ai trouvé dans le monde que de l’obéissauce ; les sept Kischwers de la terre ont été à mes ordres et mon cœur a obtenu de la fortune tout ce qu’il a demandé. n’ À partir de ce moment tous ses subordonnés placèrent à la tête des documents publics son titre de roi des rois.
