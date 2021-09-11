@@ -39,18 +39,17 @@ Siawusch lui dit :
 >
 > Tels sont les mouvements de la voûte du ciel à la rotation rapide et l’on ne verra jamais ce vieux monde changer d’allure.
 >
-> A partir de ce moment ma fortune est éclipsée par la volonté d’Afrasiab ; on coupera cette tête innocente et le sang de mon cœur en formera le diadème, on ne me donnera ni une bière, ni un tombeau, ni un linceul et personne parmi cette foule ne pleurera sur moi ; je reposerai sous la terre comme un étranger, la tête séparée du corps par l’épée.
+> À partir de ce moment ma fortune est éclipsée par la volonté d’Afrasiab ; on coupera cette tête innocente et le sang de mon cœur en formera le diadème, on ne me donnera ni une bière, ni un tombeau, ni un linceul et personne parmi cette foule ne pleurera sur moi ; je reposerai sous la terre comme un étranger, la tête séparée du corps par l’épée.
 >
 > Les gardes du roi te jetteront ignominieusement sur la route, la tête nue et le corps nu, mais le Sipehdar Piran viendra à la porte du palais et demandera ta grâce à ton père ; il demandera la vie pour toi, qui n’as jamais fait de mal ; il t’emmènera dans son palais l’âme accablée de tristesse et c’est chez ce vieillard rempli de vertus que tu mettras au monde l’illustre Keï Khosrou.
 >
-> Plus tard il taviendra de l’Iran un sauveur qui se mettra en route par l’ordre de Dieu et t’emmènera avec ton fils inopinément et en secret du côté du Djihoun ; on placera ton fils sur le trône de la royauté et les oiseaux et les poissons lui obéiront.
+> Plus tard il viendra de l’Iran un sauveur qui se mettra en route par l’ordre de Dieu et t’emmènera avec ton fils inopinément et en secret du côté du Djihoun ; on placera ton fils sur le trône de la royauté et les oiseaux et les poissons lui obéiront.
 >
 > Il amènera de l’Iran une armée nombreuse pour me venger et le monde entier sera rempli de bruit.
 >
 > C’est ainsi que tournera le ciel, qui ne s’attache à personne avec tendresse.
 >
-> Mainte armée, désirant me venger, revêtira ses cuirasses en mon honneur, la terre retentira des cris des hommes et Keï Khosrou ébranlera le
-. monde.
+> Mainte armée, désirant me venger, revêtira ses cuirasses en mon honneur, la terre retentira des cris des hommes et Keï Khosrou ébranlera le monde.
 >
 > Le Raksch de Rustem foulera la terre sous ses pieds et ne comptera pour rien les Touraniens : et tu ne verras depuis ce jour, jusqu’au jour de la résurrection, que des massues et des épées tranchantes employées à me venger. »
 
