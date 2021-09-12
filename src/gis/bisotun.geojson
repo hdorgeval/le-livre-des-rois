@@ -1,0 +1,24 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.445,
+          34.3996
+        ]
+      },
+      "properties": {
+        "name": {
+          "default": "Bisotun",
+          "fa": "بیستون, Bīsotūn",
+          "link": {
+            "wikipedia": "https://en.wikipedia.org/wiki/Bisotun"
+          }
+        }
+      }
+    }
+  ]
+}
