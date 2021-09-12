@@ -288,11 +288,46 @@ async function createAllFrenchTagPages(graphql, actions) {
     }
   `);
 
+  const { data: altData } = await graphql(`
+    {
+      allMarkdownRemark(
+        filter: {
+          frontmatter: { lang: { eq: "fr" } }
+          fileAbsolutePath: { glob: "**/tags/fr/**/*.md" }
+        }
+      ) {
+        edges {
+          node {
+            id
+            frontmatter {
+              tags
+            }
+          }
+        }
+      }
+    }
+  `);
+
+  const altTags = altData.allMarkdownRemark.edges.map(
+    (nodeWrapper) => nodeWrapper.node.frontmatter.tags,
+  );
+
+  const fullSearchTags = {};
+  altTags.forEach((tags) => {
+    tags.forEach((tag) => {
+      fullSearchTags[tag] = tags;
+    });
+  });
+
   const tags = data.allMarkdownRemark.group;
 
   tags.forEach((tag) => {
     const oldPath = `tag/${tag.fieldValue}`;
     const path = `fr/tag/${tag.fieldValue}`;
+
+    const searchTags = new Set(fullSearchTags[tag.fieldValue]);
+    searchTags.add(tag.fieldValue);
+
     if (debug) {
       // eslint-disable-next-line no-console
       console.log(`Creating page for tag ${tag.fieldValue}`);
@@ -302,6 +337,7 @@ async function createAllFrenchTagPages(graphql, actions) {
       component: tagTemplate,
       context: {
         tag: tag.fieldValue,
+        searchTags: [...searchTags],
       },
     });
     createRedirect({

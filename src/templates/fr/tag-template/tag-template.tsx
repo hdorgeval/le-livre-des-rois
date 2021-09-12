@@ -40,13 +40,13 @@ export const TagTemplate: React.FC<TagTemplateProps> = ({ data, pageContext }) =
 };
 
 export const query = graphql`
-  query ($tag: String) {
+  query ($searchTags: [String]) {
     allMarkdownRemark(
       limit: 1000
       sort: { fields: fileAbsolutePath, order: ASC }
       filter: {
         fileAbsolutePath: { glob: "**/markdown/fr/**/*.md" }
-        frontmatter: { tags: { in: [$tag] } }
+        frontmatter: { tags: { in: $searchTags } }
       }
     ) {
       edges {
