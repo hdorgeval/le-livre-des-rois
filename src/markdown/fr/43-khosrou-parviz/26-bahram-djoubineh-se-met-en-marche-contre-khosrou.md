@@ -170,4 +170,4 @@ Puis, il dit à Serguis :
 
 Ils répondirent tous sans exception :
 
-> Nous trierons de manière à couvrir de sang la plaine el la R montagne. »
+> Nous trierons de manière à couvrir de sang la plaine et la R montagne. »
