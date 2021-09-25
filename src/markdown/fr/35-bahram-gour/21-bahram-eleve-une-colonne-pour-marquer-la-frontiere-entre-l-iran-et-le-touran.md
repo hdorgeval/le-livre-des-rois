@@ -31,7 +31,7 @@ On renversa toutes les troupes des Turcs, on porta le feu dans tout leur pays ; 
 
 Tous les chefs des Turcs, les vieillards et les jeunes gens qui savaient frapper de l’épée vinrent humblement vers Bahram à pied, le cœur gonflé de sang et lui dirent :
 
-> Ô grandiroi à l’étoile puissante ! ô prince de tout ce qui est noble dans le monde !
+> Ô grandiroi à l’étoile puissante ! Ô prince de tout ce qui est noble dans le monde !
 >
 > Ne verse pas le sang des innocents, parce que le Khakan a commis une faute et qu’il était fatigué de sa dépendance du maître du monde : il r»
 
