@@ -31,7 +31,7 @@ Toute la plaine est couverte de leurs membres et de leurs têtes ; la terre est 
 
 Il survint de grand matin un messager de Buslelu, monté sur un dromadaire et porteur de bonnes nouvelles, disant :
 
-> Nous avons appris dans le désert où se trouvaient les ennemis et avons suivi en toute hâte cette indication ; Rustem marchait jour et nuit et s’il avait élé seul, il n’en aurait pas moins continué sa route.
+> Nous avons appris dans le désert où se trouvaient les ennemis et avons suivi en toute hâte cette indication ; Rustem marchait jour et nuit et s’il avait été seul, il n’en aurait pas moins continué sa route.
 >
 > Nous avons atteint l’ennemi à l’heure où le soleil qui éclaire le monde lève sa tête au-dessus des montagnes ; Rustem banda son arc et lorsqu’il fut plus près, il mit son casque sur sa tête, et, avec la première flèche qu’il fit partir de sa main, le désert fut délivré de l’armée des Turcs.
 >
@@ -47,7 +47,7 @@ Afrasiab dit à ses conseillers :
 >
 > Mais il croira que nous sommes sans nouvelles et engagés à combattre Khosrou.
 >
-> Allons le surprendre rapidement comme le feu ; inondons la terre d’un torrent de sang comme le Djihoun et si Khosrou nous suit, il est probable a que deux tiers de son armée ne reverront plus les terrasses et les murs de sa villes.»
+> Allons le surprendre rapidement comme le feu ; inondons la terre d’un torrent de sang comme le Djihoun et si Khosrou nous suit, il est probable a que deux tiers de son armée ne reverront plus les terrasses et les murs de sa ville. »
 
 Toute l’armée, tous les sages et les chefs partagèrent cet avis ; on abandonna les bagages et l’armée s’élança dans le désert rapidement comme le l’en.
 
@@ -63,12 +63,7 @@ Il fit partir sur-le-champ un messager, qu’il envoya en grande hâte à Rustem
 >
 > Tiens prête ton armée et sois sur tes gardes ; ne quitte ni jour ni nuit ton carquois et tes flèches. »
 
-Le messager était un homme d’expérience et tel qu’il le fallait ; il connaissait la route et ce qui était hors la route ; il partit et lorsqu’il arriva auprès de Rustem, il trouva le héros au cœur de lion tout armé et Ses troupes la massue sur l’épaule et l’oreille tendue vers
-
-X
-7l !
-
-Un bruit lointain.
+Le messager était un homme d’expérience et tel qu’il le fallait ; il connaissait la route et ce qui était hors la route ; il partit et lorsqu’il arriva auprès de Rustem, il trouva le héros au cœur de lion tout armé et ses troupes la massue sur l’épaule et l’oreille tendue vers un bruit lointain.
 
 Il fit à Rustem son message, dont le but était d’assurer sa sécurité.
 
@@ -78,7 +73,7 @@ Il fit rechercher les Iraniens morts, les fit laver pour enlever le sang et la b
 
 Lorsqu’il se fut débarrassé du sang et de la poussière du combat, il fit plier les bagages, monter à cheval ses troupes et se mit à suivre rapidement les traces du roi des Turcs.
 
-Afrasiab étant arrivé près de sa ville de Gangue, crut que Rustem devait être livré au sommeil et il dit aux’chçfs de ses troupes :
+Afrasiab étant arrivé près de sa ville de Gangue, crut que Rustem devait être livré au sommeil et il dit aux chefs de ses troupes :
 
 > Allons le surprendre, allons le détruire lui et son armée. »
 
@@ -92,7 +87,7 @@ Un de ses conseillers dit au roi illustre :
 >
 > Voici
 >
-> Gangue-Diz où sont les trésors du roi ; c’est un eudroit qui a huit farsangs de longueur et près de quatre en largeur, qui est rempli de femmes, d’enfants, d’hommes et d’une grande armée ; c’est le siège du pouvoir et de l’empire, du trône et de la couronne.
+> Gangue-Diz où sont les trésors du roi ; c’est un endroit qui a huit farsangs de longueur et près de quatre en largeur, qui est rempli de femmes, d’enfants, d’hommes et d’une grande armée ; c’est le siège du pouvoir et de l’empire, du trône et de la couronne.
 >
 > Aucun aigle ne peut voler au-dessus de ses murs, personne même en songe n’en a vu de plus hauts ; il s’y trouve des vivres, ton palais, ton diadème et une armée ; tu y jouiras de tes trésors pendant que l’ennemi aura à supporter les fatigues de la route.
 >
