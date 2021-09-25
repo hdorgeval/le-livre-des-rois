@@ -42,11 +42,7 @@ Je crains que lorsque nos armées se seront encore une fois battues sur ce champ
 
 Qui sait d’ailleurs lequel des deux partis sera vainqueur, lequel verra sa fortune baisser, lequel est destiné à illuminer le monde ?
 
-Mais si, en recherchant la guerre et le carnage, en m’attaquant sur ce champ de bataille, tu n’as en vue que l’avantage de l’Iran, si c’est pour cela
-
-Km
-
-A05 que tu livres ces combats de lions, dis-le-moi, afin qu’à l’instant et en toute hâte j’envoie un messager auprès d’Afrasiab, pour qu’il consente que nous divisions le monde et oubliions nos haines, comme on fit du temps du roi Minoutchehr, quand il résolut de partager le monde.
+Mais si, en recherchant la guerre et le carnage, en m’attaquant sur ce champ de bataille, tu n’as en vue que l’avantage de l’Iran, si c’est pour cela que tu livres ces combats de lions, dis-le-moi, afin qu’à l’instant et en toute hâte, j'envoie un messager auprès d’Afrasiab, pour qu’il consente que nous divisions le monde et oubliions nos haines, comme on fit du temps du roi Minoutchehr, quand il résolut de partager le monde.
 
 Désigne tous les pays qui selon toi font partie de l’empire de l’Iran, pour que je fasse évacuer par les Turcs toutes les contrées incultes ou cultivées que demande Keï Khosrou le dispensateur de la justice.
 
@@ -58,7 +54,7 @@ La frontière remontera plus haut encore, embrassant les plaines d’Amoui et de
 
 De plus, tu peux prendre le pays de Soghd, dont personne ne te disputera la possession.
 
-Du côté où s’avance Rustem le destructeur des héros, je lui céderai tout le Nimrouz ; je rappellerai l’armée qui se trouve en face de lui, je lui ouvrirai la route de l’Oiient el lui livrerai, sans que mon cœur les regrette, tous les pays qui s’étendent jusqu’à l’Inde, ainsi que le Kaschmir, Kaboul, Kandahar et de proche en proche toutes les contrées jusqu’au Sind.
+Du côté où s’avance Rustem le destructeur des héros, je lui céderai tout le Nimrouz ; je rappellerai l’armée qui se trouve en face de lui, je lui ouvrirai la route de l’Orient et lui livrerai, sans que mon cœur les regrette, tous les pays qui s’étendent jusqu’à l’Inde, ainsi que le Kaschmir, Kaboul, Kandahar et de proche en proche toutes les contrées jusqu’au Sind.
 
 Du côté où se trouve le vaillant Lohrasp, je lui céderai le pays des Alains et toute cette région ; je donnerai à Khosrou sans combat et sans contestation une frontière continue jusqu’au mont Kaf.
 
@@ -80,7 +76,7 @@ Demande-moi tout -ce qui peut se demander avec raison, ensuite écris à Khosrou
 
 Il ne faut pas que ton armée croie que mes paroles pacifiques proviennent de ma fatigue ; car je ne parle ainsi que par humanité et je ne poursuis qu’un but louable.
 
-J’ai plus de trésors et plus de troupes que toi et ma réputation de bravoure est plus grande que la tienne ; mais mon cœur brûle de compassion pour nos armées au milieu de ces combats et de ce carnage inhumain qui s’étend sur toute la terre, et je m’efforce d’éteindre ces vengeances.
+J’ai plus de trésors et plus de troupes que toi et ma réputation de bravoure est plus grande que la tienne ; mais mon cœur brûle de compassion pour nos armées au milieu de ces combats et de ce carnage inhumain qui s’étend sur toute la terre et je m’efforce d’éteindre ces vengeances.
 
 Ensuite j’ai toujours devant les yeux la crainte du Créateur du monde ; car il n’approuve pas que nous fassions du mal et toute notre génération en portera la peine.
 
