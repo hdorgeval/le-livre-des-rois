@@ -27,7 +27,7 @@ Siawusch lui répondit :
 
 Ils se rendirent donc un jour dans une réserve de chasse, le roi prenant avec lui des faucons et des guépards et des troupes de toute espèce, tant du Touran que de l’Iran, tous avides de chasse.
 
-Siawusch aperçut des onagres dans la plaine et s’élanca du milieu du cortège rapidement comme le vent.
+Siawusch aperçut des onagres dans la plaine et s’élança du milieu du cortège rapidement comme le vent.
 
 Il lâcha la bride à son cheval et le poussant de l’étrier, il courut sur les monts et dans les vallées.
 
