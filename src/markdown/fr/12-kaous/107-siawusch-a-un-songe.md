@@ -21,7 +21,9 @@ Siawusch passa trois jours dans les larmes à cause de cette trahison du sort ; 
 
 Ferenguis au beau visage le pressa contre son sein et lui dit :
 
-> Ô roi ! Je t’en conjure par notre amour, dis-moi ce qui t’arrive ! »
+> Ô roi !
+>
+> Je t’en conjure par notre amour, dis-moi ce qui t’arrive ! »
 
 Siawusch continua de pousser des cris ; on alluma un flambeau et l’on brûla devant lui du bois de santal et de l’ambre.
 
