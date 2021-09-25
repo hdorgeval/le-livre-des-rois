@@ -21,9 +21,7 @@ Après cela il se prépara au départ ; il était stupéfié de sa mauvaise fort
 
 Il monta sur un cheval frais ; ses joues étaient rougies par ses larmes de sang comme la fleur de la coloquinte.
 
-Il ordonna aux u.
-
-Iraniens de prendre la route qui conduisait dans l’Iran ; mais lorsqu’il eut parcouru un farsang et demi de chemin, il rencontra le roi du Touran.
+Il ordonna aux Iraniens de prendre la route qui conduisait dans l’Iran ; mais lorsqu’il eut parcouru un farsang et demi de chemin, il rencontra le roi du Touran.
 
 Il vit des troupes armées d’épées, de massues et de cuirasses et lui-même avait boutonné sa cotte de mailles.
 
@@ -33,7 +31,7 @@ Il dit en lui-même :
 >
 > Il se tint immobile à la même place, espérant encore détruire l’effet des calomnies de ses ennemis.
 >
-> Les deux partis se regardèrent, jamais avant ce temps ils n’avaient senti de haine l’un pour l’autre.
+> Les deux partis se regardèrent, jamais avant ce temps, ils n’avaient senti de haine l’un pour l’autre.
 >
 > Les Iraniens formèrent leurs rangs ; ils se préparèrent à verser du sang, ils se mirent tous à blâmer Siawusch, car ils ne croyaient pas que ce fût le temps d’attendre et de tarder ; il s’éleva parmi eux un bruit confus : Ils vont nous tuer, mais il ne faut pas que nous soyons jetés seuls dans la poussière.
 >
@@ -43,7 +41,7 @@ Siawusch leur dit :
 
 > Vous avez tort ; ce n’est pas ici l’occasion ni le lieu de combattre.
 
-Je déshonorerais aujourd’hui ma naissance, si j’oErais au roi le combat au lieu d’un présent.
+Je déshonorerais aujourd’hui ma naissance, si j’offrais au roi le combat au lieu d’un présent.
 
 Quand le ciel qui tourne veut malgré mon innocence me faire périr par la main des méchants, ce jour-là ma bravoure ne me sert à rien, car on ne peut aller contre la volonté de Dieu.
 
@@ -71,7 +69,7 @@ L’insensé Guersiwez lui répondit :
 
 Siawusch reconnut alors que tout cela provenait de ce méchant et que la colère du roi était son œuvre et aussitôt qu’il eut entendu ces paroles, il s’écria :
 
-> Ô misérable ! ô homme haineux !
+> Ô misérable ! Ô homme haineux !
 >
 > Tu finiras par être puni de ce que tu as fait, tu mangeras le fruit de la semence que tu as semée.
 >
@@ -103,13 +101,13 @@ Le roi ordonna à son armée de tirer l’épée tranchante et de pousser des cr
 
 > Livrez-les tous au tranchant de l’épée, étendez-les dans leur sang sur ce champ de carnage. »
 
-Les Iraniens étaient au nombre de mille et tous guerriers illustres ; ils furent tous frappés, blessés et exterminés : c’est ainsi que se termina leur vie.
+Les Iraniens étaient au nombre de milles et tous guerriers illustres ; ils furent tous frappés, blessés et exterminés : c’est ainsi que se termina leur vie.
 
 Jusque-là aucun des Turcs n’avait osé s’approcher de Siawusch, aucun n’avait osé l’attaquer sur le champ de bataille ; mais son sort était décidé et lorsque les braves eurent tous succombé jusqu’au dernier, les Turcs l’assaillirent en masse et lancèrent cinquante ou soixante traits.
 
 Le roi fut blessé par des flèches et des lances et tomba du haut de son cheval noir.
 
-Il tomba sur la terre noire comme un homme ivre et Gueroui Zerehlui lia les mains ; on lui mit au cou une cangue, on lui lia les mains derrière le dos en les serrant fortement.
+Il tomba sur la terre noire comme un homme ivre et Gueroui Zereh lui lia les mains ; on lui mit au cou une cangue, on lui lia les mains derrière le dos en les serrant fortement.
 
 Le sang coulait des joues de rose et des yeux de ce jeune prince, qui n’avait jamais connu le bonheur.
 
@@ -117,7 +115,7 @@ Les gardes du roi, accoutumés aux meurtres, le traînèrent à pied et précipi
 
 Le roi du Touran leur dit :
 
-> Emmenez-le d’ici et loin de la route,tranchez-lui la tête avec l’épée dans un lieu stérile où jamais plante ne poussera.
+> Emmenez-le d’ici et loin de la route, tranchez-lui la tête avec l’épée dans un lieu stérile où jamais plante ne poussera.
 >
 > Répandez son sang sur ce terrain embrasé, faites-le promptement et n’ayez pas peur. »
 
@@ -161,15 +159,13 @@ Pilsem dit à l’illustre Afrasiab :
 >
 > Car le père de Siawusch est roi de l’Iran et son père nourricier est Rustem, qui l’a élevé dans la pratique de toutes les vertus.
 >
-> Ce crime ne nous portera pas bonheur et ce que tu fais auj ourd’hui te fera trembler un jour.
+> Ce crime ne nous portera pas bonheur et ce que tu fais aujourd’hui te fera trembler un jour.
 >
 > Pense à cette épée étincelante, à cette épée devant laquelle le monde s’incline.
 >
 > Pense à ces héros du peuple de l’Iran qui font trembler la terre dans le combat.
 >
-> Feribourz
->
-> fils de Kaous, le terrible lion, que jamais personne n’a vu las de batailles, Rustem cet éléphant furieux, aux yeux duquel une armée n’est rien, Gouderz, Gourguin, Thous et Ferhad feront tous lier leurs timbales sur le dos des éléphants, se ceindront tous pour venger Siawusch et les plaines se couvriront, à cause de lui, de cavaliers armés de lances.
+> Feribourz fils de Kaous, le terrible lion, que jamais personne n’a vu las de batailles, Rustem cet éléphant furieux, aux yeux duquel une armée n’est rien, Gouderz, Gourguin, Thous et Ferhad feront tous lier leurs timbales sur le dos des éléphants, se ceindront tous pour venger Siawusch et les plaines se couvriront, à cause de lui, de cavaliers armés de lances.
 >
 > Ni moi, ni ceux qui me ressemblent, ni aucun des braves de cette assemblée, ne pourrons leur résister.
 >
@@ -213,6 +209,6 @@ Le roi leur répondit :
 >
 > Le malheur qui m’était prédit approche du Touran et mes chagrins, mes soucis et mes peines arrivent.
 >
-> Néanmoins il vaut encore mieux le tuer que de le laisser libre, quoiqu’il m’en coûte de le mettre à mort. »
+> Néanmoins, il vaut encore mieux le tuer que de le laisser libre, quoiqu’il m’en coûte de le mettre à mort. »
 
 Ni le sage ni le méchant ne connaissent le secret du ciel qui tourne.
