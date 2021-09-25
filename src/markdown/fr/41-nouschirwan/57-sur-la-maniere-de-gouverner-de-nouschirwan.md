@@ -54,7 +54,7 @@ Il répondit :
 Un autre dit :
 
 > Ô grand roi, puis-
-ses-tu être heureux et exempt de tout mal ?
+> ses-tu être heureux et exempt de tout mal ?
 >
 > On a amené parmi les prisonniers soumis beaucoup de petits enfants. »
 
@@ -211,7 +211,7 @@ Il répondit :
 Une autre fois un homme s’enhardit à dire :
 
 > Il faudrait que le roi demandât aux rois feudataùes de meilleures armées que celles qu’ils
--Quels sont les hommes de guerre qu’il te faut parmi les lions qui lancent leurs chevaux et qui ont les griffes aiguës ? »
+> -Quels sont les hommes de guerre qu’il te faut parmi les lions qui lancent leurs chevaux et qui ont les griffes aiguës ? »
 
 Il répondit :
 
@@ -227,7 +227,7 @@ Quelqu’un dit :
 
 En apprenant que le Grand Mobed exigeait ce payement de l’administrateur, le roi dit :
 
-> Ne ’t’alIlige pas de ce qui est dépensé,»
+> Ne t’afflige pas de ce qui est dépensé,»
 
 Et il fit donner au comptable quelque chose du trésor.
 
@@ -259,13 +259,13 @@ Un autre dit :
 
 > Ô roi, adorateur de Dieu !
 >
-> Il y a devant ta porte beaucoup deles sujets qui tous te célèbrent parce que tu rends justice et prient le Çréateur pour toi. »
+> Il y a devant ta porte beaucoup de tes sujets qui tous te célèbrent parce que tu rends justice et prient le Créateur pour toi. »
 
 Nouschirwan répondit :
 
 > Je rends grâce à Dieu de ce que personne n’a peur de moi et il faut avoir le plus n grand soin des hommes, qu’ils soient innocents ou qu’ils aient commis des fautes. »
 
-Un’autre dit :
+Un autre dit :
 
 > Ô roi plein de majesté et d’intelligence !
 >
@@ -286,7 +286,7 @@ Il répondit :
 Un autre dit :
 
 > Ô puissant roi, que ton
-’. âme reste exempte de souffrances !
+> ’. âme reste exempte de souffrances !
 >
 > Les Juifs et les Chrétiens sont tes ennemis, des gens à double face et adorateurs d’Ahriman. »
 
@@ -368,7 +368,7 @@ Il répondit :
 > de ma bouche.
 >
 > Aucun roi n’a trouvé le monde sans ’
-religion, quoique les uns préfèrent une foi, les autres une autre ; l’un est adorateur d’idoles, un autre a la foi sainte ; un autre dit que la malédiction vaut mieux que la bénédiction.
+> religion, quoique les uns préfèrent une foi, les autres une autre ; l’un est adorateur d’idoles, un autre a la foi sainte ; un autre dit que la malédiction vaut mieux que la bénédiction.
 >
 > Le monde ne tombe pas en ruines pour des paroles ; dis dans toujours ce que tu penses en secret.
 >
@@ -388,7 +388,7 @@ coup parlé aux grands et unel’ois tu leur as dit :
 Il répondit :
 
 > C’est la vérité, car la tête du roi est la con-
-Ironne du sort.
+> Ironne du sort.
 >
 > Le monde est le corps,’les rois sont la tête ; c’est pourquoi ils forment le diadème des chefs. »
 
@@ -397,7 +397,7 @@ Quelqu’un dit :
 > O’ roi qui accueilles tes ce serviteurs, puissent ton règne et ta vie durer !
 >
 > Voici
-. cinq jours, ô lumière des esprits, que le Gnand Mobed n’a pas paru devan’t toi. »
+> . cinq jours, ô lumière des esprits, que le Gnand Mobed n’a pas paru devan’t toi. »
 
 Il répondit :
 
