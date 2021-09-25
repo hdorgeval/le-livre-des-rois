@@ -21,7 +21,7 @@ Ensuite Houman partit si impétueusement, qu’on aurait cru que c’était un D
 
 Il s’approcha, armé pour le combat des héros, de Gouderz fils de Keschwad et s’écria à haute voix :
 
-> Ô homme plein d’énergie ! ô chef de l’armée, vainqueur des Divs !
+> Ô homme plein d’énergie ! Ô chef de l’armée, vainqueur des Divs !
 >
 > J’ai entendu raconter tout ce que tu as dit à Khosrou et de quelle manière tu as fait partir ton armée et les recommandations du roi et les paroles et les offres que tu as fait porter au Sipehdar Piran ; comment tu as envoyé dans le camp touranien, en qualité de messager, Guiv ton fils chéri, le soutien de l’armée ; ensuite comment tu as juré par le roi, par le soleil et la lune, par le trône et le diadème, d’anéantir Piran aussitôt que ton œil le découvrirait sur le champ de bataille.
 >
@@ -41,7 +41,7 @@ Gouderz lui dit :
 >
 > Personne dans cette armée n’a voulu te répondre et tu me l’imputes dans ton ignorance ; mais sache que c’est l’ordre du roi et que mon serment et mon devoir m’y obligent.
 >
-> Je suis venu avec une grande armée et de vaillants chefs choisis dans l’fran, mais vous autres vous vous tenez dans la forêt, comme un vieux renard qui a peur du chasseur ; vous vous fiez aux ruses et aux artifices, mais vous fuyez les massues. les lances et les lacets.
+> Je suis venu avec une grande armée et de vaillants chefs choisis dans l’fran, mais vous autres vous vous tenez dans la forêt, comme un vieux renard qui a peur du chasseur ; vous vous fiez aux ruses et aux artifices, mais vous fuyez les massues, les lances et les lacets.
 >
 > Ne fais pas le brave, ne nous provoque pas, car le renard ne se hasarde pas contre le lion. »
 
@@ -94,7 +94,7 @@ Houman répondit d’une voix terrible :
 > Qui sont donc vos héros et les chefs de votre armée ?
 >
 > Le roi
->, maître du monde a dit un mot dont il me souvient sur ce champ de bataille :
+> , maître du monde a dit un mot dont il me souvient sur ce champ de bataille :
 
 > Si tu es tenté de t’emparer’ du trône des rois, résiste à la tentation ; mais si tu persistes, alors ne détourne pas le visage de devant la flamme.
 >
