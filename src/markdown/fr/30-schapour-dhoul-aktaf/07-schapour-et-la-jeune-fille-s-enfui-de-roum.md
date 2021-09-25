@@ -61,7 +61,7 @@ Donna le vin à Schapour en disant :
 
 Schapour dit :
 
-> Ô mon hôte ! ô jardinier prudent et prévoyant !
+> Ô mon hôte ! Ô jardinier prudent et prévoyant !
 >
 > Celui qui apporte le vin boit le premier, quand il est le plus âgé et le plus sage.
 >
