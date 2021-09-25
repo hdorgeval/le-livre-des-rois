@@ -275,7 +275,7 @@ Il répodit : Que les grands et les petits dans le monde entier soient heureux s
 
 > cg Ô roi à l’âme grande !
 >
-> Tes détracteurs le blâment de ce que tu donnes tantde belles choses de ton trésor, que tu n’as pas eu la peine de former, puisque tu l’as au par héritage. »
+> Tes détracteurs le blâment de ce que tu donnes tant de belles choses de ton trésor, que tu n’as pas eu la peine de former, puisque tu l’as au par héritage. »
 
 Il répondit :
 
