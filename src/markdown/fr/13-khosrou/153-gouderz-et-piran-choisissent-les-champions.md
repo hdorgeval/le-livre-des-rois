@@ -19,7 +19,7 @@ order: '153'
 
 Lorsque Piran aperçut Gouderz le fils de Keschwad, il lui adressa la parole et écouta sa réponse ; il lui dit :
 
-> Ô Pehlewan plein d’intelligence, tu te consuines dans les fatigues ; mais de quoi servira-t-il à l’âme de Siawusch de faire lever du pays de Touran la fumée de la destruction ?
+> Ô Pehlewan plein d’intelligence, tu te consumes dans les fatigues ; mais de quoi servira-t-il à l’âme de Siawusch de faire lever du pays de Touran la fumée de la destruction ?
 >
 > Il a choisi dans l’autre monde le séjour des bons, est-ce une raison pour toi de te refuser le repos parce qu’il en jouit ?
 >
@@ -65,11 +65,11 @@ Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de
 
 Le Sipehdar des Turcs se mit à faire ses préparatifs ; il choisit dix cavaliers de son armée assis sur leurs destriers, prêts au combat, couverts d’une armure complète, tous hommes au cœur de lion, tous hommes de grand renom.
 
-Ils sortirent des rangs et s’avancèrent jusqu’à l’endroit où ils devaient se battre. endroit où les yeux des deux armées ne pouvaient les atteindre ; c’est ainsi que les deux chefs avaient fixé les conditions du combat.
+Ils sortirent des rangs et s’avancèrent jusqu’à l’endroit où ils devaient se battre, endroit où les yeux des deux armées ne pouvaient les atteindre ; c’est ainsi que les deux chefs avaient fixé les conditions du combat.
 
 À chaque cavalier touranien se trouvait opposé un brave de l’Iran.
 
-On plaça d’abord Guiv en face de Guerouî, tous les deux étant également forts et avides de combats.
+On plaça d’abord Guiv en face de Guerouï, tous les deux étant également forts et avides de combats.
 
 Guerouï Zereh était, de toute l’armée du Touran, l’homme que Khosrou maudissait le plus ; car c’était lui qui avait saisi Siawusch à la barbe et lui avait séparé la tête de son chaste corps.
 
@@ -81,9 +81,9 @@ Enfin Gouderz fils de Keschwad et Piran devaient se mesurer ; ils étaient armé
 
 Ils se jurèrent qu’aucun d’eux ne se retirerait de la lutte, jusqu’à ce qu’il fût décidé à qui la fortune donnerait la victoire.
 
-Il se trouvait entre les deux armées deux collines [ d’où l’on pouvait voir tout autour ; l’une était du côté de l’Iran, l’autre du côté du Touran et on les apercevait de loin.
+Il se trouvait entre les deux armées deux collines d’où l’on pouvait voir tout autour ; l’une était du côté de l’Iran, l’autre du côté du Touran et on les apercevait de loin.
 
-A leur pied s’étendait une plaine déserte, sur laquelle ceux qu’attendait la bonne et la mauvaise fortune devaient livrer combat.
+À leur pied s’étendait une plaine déserte, sur laquelle ceux qu’attendait la bonne et la mauvaise fortune devaient livrer combat.
 
 Gouderz dit à ses compagnons qui portaient haut la tête :
 
