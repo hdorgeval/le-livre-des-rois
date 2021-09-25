@@ -17,7 +17,7 @@ order: '009'
 
 # Le poète déplore sa vieillesse
 
-Hélas ! ô cyprès élancé, qui ravissais les cœurs, pourquoi es-tu devenu si triste ?
+Hélas ! Ô cyprès élancé, qui ravissais les cœurs, pourquoi es-tu devenu si triste ?
 
 Toi qui étais si heureux, si majestueux et si beau, comment ton cœur si gai s’est-il rempli de terreurs ? »
 
