@@ -106,7 +106,7 @@ Djouanouï, qui avait vu le visage du roi des rois, quilui avait longtemps parl�
 >
 > On peut avec confiance vous mettre en possession du pays, toi et Bahram le vaillant tordes rois.
 >
-> Allez dans le pays d’Iran avec des fau-cons et des. guépards, comme il convient à un roi qui répand la lumière sur le monde.
+> Allez dans le pays d’Iran avec des fau-cons et des guépards, comme il convient à un roi qui répand la lumière sur le monde.
 >
 > Tu as entendu les paroles des Iraniens, vous pouvez donc æy aller sans danger.
 >
