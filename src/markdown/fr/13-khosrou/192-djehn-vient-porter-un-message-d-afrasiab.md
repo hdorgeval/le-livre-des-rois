@@ -17,7 +17,7 @@ order: '192'
 
 # Djehn vient porter un message d'Afrasiab
 
-Le lendemain, lorsque le soleil se montra au-dessus des cimes des montagnes et qu’il plaça son flambeau d’or sous la voûte du ciel, on entendit un grand bruit dans la forteresse, el Khosrou en devint inquiet.
+Le lendemain, lorsque le soleil se montra au-dessus des cimes des montagnes et qu’il plaça son flambeau d’or sous la voûte du ciel, on entendit un grand bruit dans la forteresse, et Khosrou en devint inquiet.
 
 Tout à coup on ouvrit la porte du château et ce secret mystérieux fut dévoilé.Djehn, accompagné de dix cavaliers, sortit de la. ville.
 
