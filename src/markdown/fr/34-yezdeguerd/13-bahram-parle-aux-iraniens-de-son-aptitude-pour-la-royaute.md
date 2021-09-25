@@ -24,7 +24,7 @@ Bahram dit :
 > Vous tous avez dit vrai et il y a pis à dire ; il est juste que je blâme mon père.
 >
 > Il m’en esttresté une amertume dans le cœur ; c’est lui qui a terni mon esprit subtil, car sa cour -
-. était devenue une prison pour moi, lorsque Dieu m’a sècduru.
+> . était devenue une prison pour moi, lorsque Dieu m’a sècduru.
 >
 > Thinousch m’a délivré de ses mains et j’ai pu m’échapper de son hameçon, le palais déchiré.
 >
@@ -48,21 +48,21 @@ Bahram dit :
 >
 > Je suis l’héritier du trône de mes pères, j’ai de la raison et de la bienveillance.
 >
-> Depuis Schapour fils de Bahram jusqu’à Ardeschir, tous les rois, vieux et jeunes, sont de père en fils mes ancêtres et mes guides dans la foi et la conduite, et, du côté de ma mère, je descends de la reine Schémiran, je suis de sa race et son égal en intelligence ; j’ai les mêmesfaw cultes, la même prudence, le même. pouvoir ; je suis un cavalier, un brave et ma main est forte.
+> Depuis Schapour fils de Bahram jusqu’à Ardeschir, tous les rois, vieux et jeunes, sont de père en fils mes ancêtres et mes guides dans la foi et la conduite, et, du côté de ma mère, je descends de la reine Schémiran, je suis de sa race et son égal en intelligence ; j’ai les mêmesfaw cultes, la même prudence, le même pouvoir ; je suis un cavalier, un brave et ma main est forte.
 >
-> Je ne tiens personne pour mon égal, ni dans la bataille, ni dans la fête. ni dans aucune affaire.
+> Je ne tiens personne pour mon égal, ni dans la bataille, ni dans la fête ni dans aucune affaire.
 >
 > J’ai un trésor caché et plein ; j’ai des amis illustres et dévoués.
 >
-> Jevrendrai la terre florissante par la justice et vous tous en serez heureux.
+> Je rendrai la terre florissante par la justice et vous tous en serez heureux.
 >
 > Je vais faire une convention avec vous et que ma parole en soit le gage devant Dieu.
 >
-> Nous dresun serons le trône d’ivoire du roi des rois, nous y plaorcerons cette riche couronne ; nous amènerons de la forêt deux lions sauvages et nous placerons la couronne entre eux ; nous attacherons les lions des deux côtés et celui. qui a l’envie d’être roi ira prendre la couronne illustre sur le trône d’ivoire et la placera sur sa tête. il s’assiéra comme roi entre les deux lions, le roi au milieu, la couronne sur sa tête, le trône sous lui et nous ne nommerons roi que lui, pourvu qu’il soit un homme juste et pur.
+> Nous dresserons le trône d’ivoire du roi des rois, nous y placerons cette riche couronne ; nous amènerons de la forêt deux lions sauvages et nous placerons la couronne entre eux ; nous attacherons les lions des deux côtés et celui qui a l’envie d’être roi ira prendre la couronne illustre sur le trône d’ivoire et la placera sur sa tête, il s’assiéra comme roi entre les deux lions, le roi au milieu, la couronne sur sa tête, le trône sous lui et nous ne nommerons roi que lui, pourvu qu’il soit un homme juste et pur.
 >
-> Mais si vous refusez ce que propose, si vous choisissez un grand qui ne serait pas mon égal, alors, au lieu d’un chef comme moi, vous verrez, en guise d’épines et de mauvaises herbes dans vos chmnps, des lances de cavaliers ; moi et Mondhir, nos massues et nos épées tranchantes y serons et les héros arabes ne savent pas fuir.
+> Mais si vous refusez ce que propose, si vous choisissez un grand qui ne serait pas mon égal, alors, au lieu d’un chef comme moi, vous verrez, en guise d’épines et de mauvaises herbes dans vos champs, des lances de cavaliers ; moi et Mondhir, nos massues et nos épées tranchantes y serons et les héros arabes ne savent pas fuir.
 >
-> Nous anéantirons votre roides rois, nous lancerons vos têtes par-dessus la lune.
+> Nous anéantirons votre roi des rois, nous lancerons vos têtes par-dessus la lune.
 >
 > J’ai parlé, répondez.
 >
@@ -76,8 +76,8 @@ Les nobles et les Mobeds de l’Iran et tous ceux qui avaient entendu le discour
 >
 > Il ne dit pas un mot qui ne soit juste et nous devrions nous en réjouir.
 >
-> Quant aux lions féroces et au trône, et à la couronne des Keïanides qu’on placerait entre eux, si les lions déchirent Bahram, le Distributeur de la justice ne nous demandera pas compte de son sang, car c’est lui qui l’a proposé et c’est son propre plan.
+> Quant aux lions féroces et au trône et à la couronne des Keïanides qu’on placerait entre eux, si les lions déchirent Bahram, le Distributeur de la justice ne nous demandera pas compte de son sang, car c’est lui qui l’a proposé et c’est son propre plan.
 >
-> S’il meurt, nous pouvons être tranquilles ; et s’il s’empare de la couronne, il sera plus glorieux que Feridoun et nous ne recourraitrons d’autre roi que lui.
+> S’il meurt, nous pouvons être tranquilles ; et s’il s’empare de la couronne, il sera plus glorieux que Feridoun et nous ne reconnaitrons d’autre roi que lui.
 >
 > Nous décidons selon ce qu’il a proposé lui-même."
