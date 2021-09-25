@@ -78,7 +78,9 @@ Il dit :
 >
 > Le ciel qui tourne l’a ainsi voulu et nous ne pouvons résister à sa volonté ; il tient le cœur de l’un rempli de tendresse et le cœur d’un autre plein de colère et son visage froncé ; c’est ainsi que Dieu a créé le monde et il faut paître comme il le veut.
 >
-> Dorénavant je t’enverrai tout ce qu’il te faudra d’argent ou de joyaux dignes d’un roi, car il ne faut pas que tu sois en peine et mes trésors accumulés n’ont pas de valeur pour moi en face de tes besoins. Je t’envoie maintenant dix mille dinars du trésor en guise
+> Dorénavant je t’enverrai tout ce qu’il te faudra d’argent ou de joyaux dignes d’un roi, car il ne faut pas que tu sois en peine et mes trésors accumulés n’ont pas de valeur pour moi en face de tes besoins.
+>
+> Je t’envoie maintenant dix mille dinars du trésor en guise
 >
 > M3 d’offrande et l’esclave qui était la conseillère et le délice de ton cœur dans l’appartement des femmes, je te l’envoie aussi pour que ton âme sombre redevienne sereine.
 >
