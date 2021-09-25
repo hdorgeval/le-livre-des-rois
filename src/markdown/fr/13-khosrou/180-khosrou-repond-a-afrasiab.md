@@ -45,9 +45,7 @@ Tous les sages et tous les grands de l’armée dirent d’une seule voix :
 >
 > Si c’est Schideh qui combat le roi, il nous fera pâlir d’inquiétude ; car si Schideh tombe de ta main, ce n’est qu’un grand de moins dans cette armée : mais si tu t’éloignes de nous et si tu es tué, tout l’Iran périra ; aucun de nous ne restera en vie ; aucune ville, aucune province de l’Iran ne seront sauvées ; car nous n’avons personne de la race des Keïanides qui puisse s’armer pour te venger.
 >
-> Ton grand-père est un vieillard plein d’expérience, il est aimé dans
->
-> KEÎ KHosnou. le Touran et en Chine ; il demande pardon du mal qu’il a fait et ne veut combattre que quand il ne lui restera plus d’autre ressource ; il oll’rc de tirer de ses trésors et de te remettre les richesses, les chevaux, l’argent que Tour a amassés pour Zadschem et les trônes d’or, les couronnes, les ceintures d’or et les lourdes massues des grands, pour racheter les crimes qui lui pèsent ; il oll’re de faire quitter aux Turcs toutes les villes que tu réclames pour l’Iran.
+> Ton grand-père est un vieillard plein d’expérience, il est aimé dans le Touran et en Chine ; il demande pardon du mal qu’il a fait et ne veut combattre que quand il ne lui restera plus d’autre ressource ; il offre de tirer de ses trésors et de te remettre les richesses, les chevaux, l’argent que Tour a amassé pour Zadschem et les trônes d’or, les couronnes, les ceintures d’or et les lourdes massues des grands, pour racheter les crimes qui lui pèsent ; il oll’re de faire quitter aux Turcs toutes les villes que tu réclames pour l’Iran.
 >
 > Rentrons donc dans l’Iran victorieux et contents et oublions ce qui s’est passé autrefois. »
 
@@ -73,7 +71,7 @@ Le roi se mordit les lèvres et jeta un regard sombre sur les grands ; ensuite i
 >
 > Jamais je n’aurais cru que les Iraniens reculeraient devant cette guerre.
 >
-> Je ne vois dans l’armée de l’Iran que Rustem, mon ami, le héros au cœur droit, qui se hâte d’accepter le combat lorsque Afrasiab le fourbe nous l’oll’re. »
+> Je ne vois dans l’armée de l’Iran que Rustem, mon ami, le héros au cœur droit, qui se hâte d’accepter le combat lorsque Afrasiab le fourbe nous l’offre. »
 
 ’
 Quand les Iraniens entendirent ces paroles du roi, ils se repentirent de leur faute ; ils tâchèrent de s’excuser, en disant :
@@ -128,7 +126,7 @@ Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schid
 
 Le roi ajouta :
 
-> Tu diras ensuite à Schideh : Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets, et non pas pour y chercher le renom et la gloire, ni à cause du message d’Afrasiab, mais parce que les mauvaises actions sont impatientes de te détruire.
+> Tu diras ensuite à Schideh : Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets et non pas pour y chercher le renom et la gloire, ni à cause du message d’Afrasiab, mais parce que les mauvaises actions sont impatientes de te détruire.
 >
 > C’est Dieu qui t’a poussé hors de cette armée et ton linceul le servira ici de tombeau ; ce prince innocent, qu’on a égorgé comme un agneau, te portera malheur et ton père versera sur toi des larmes amères comme Kaous en verse sur son fils. »
 
