@@ -23,8 +23,7 @@ Lorsque Piran aperçut Gouderz le fils de Keschwad, il lui adressa la parole et 
 >
 > Il a choisi dans l’autre monde le séjour des bons, est-ce une raison pour toi de te refuser le repos parce qu’il en jouit ?
 >
-> Deux armées entières se sont détruites comme des éléphants à qui l’on aurait tranché la tête, les armées de deux pays ont disparu et le temps est ar-
-> rivé où tu devrais quitter ce champ de bataille.
+> Deux armées entières se sont détruites comme des éléphants à qui l’on aurait tranché la tête, les armées de deux pays ont disparu et le temps est arrivé où tu devrais quitter ce champ de bataille.
 >
 > Le monde entier est dépeuplé et l’excès des vengeances a refroidi l’ardeur des combats.
 >
@@ -50,12 +49,11 @@ Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de
 >
 > On lui a arraché la tête comme à une brebis ; son cœur était gonflé de sang, son âme déchirée par la douleur.
 >
-> Ensuite Afrasiab a fait pousser au pays d’Iran des cris de douleur par ses massacres, ses dévasta-A tions, ses combats et ses fureurs.
+> Ensuite Afrasiab a fait pousser au pays d’Iran des cris de douleur par ses massacres, ses dévastations, ses combats et ses fureurs.
 >
 > Siawusch a livré sa tête parce qu’il croyait à tes serments et tu as donné sa vie au vent dans ta démence.
 >
-> Plus tard. lorsque mon fils s’est rendu auprès de toi, tu as refusé de suivre mes conseils, tu t’es hâté de te pré-
-> . parer au combat, tu t’es jeté sur nous comme une flamme.
+> Plus tard. lorsque mon fils s’est rendu auprès de toi, tu as refusé de suivre mes conseils, tu t’es hâté de te préparer au combat, tu t’es jeté sur nous comme une flamme.
 >
 > Je n’ai demandé au Créateur, en public et en secret, qu’une seule chose, c’est que tu te présentes un jour devant moi sur le champ de bataille.
 >
@@ -71,9 +69,7 @@ Ils sortirent des rangs et s’avancèrent jusqu’à l’endroit où ils devaie
 
 À chaque cavalier touranien se trouvait opposé un brave de l’Iran.
 
-Un plaça.
-
-Bb2 d’abord Guiv en face de Guerouî, tous les deux étant également forts et avides de combats.
+On plaça d’abord Guiv en face de Guerouî, tous les deux étant également forts et avides de combats.
 
 Guerouï Zereh était, de toute l’armée du Touran, l’homme que Khosrou maudissait le plus ; car c’était lui qui avait saisi Siawusch à la barbe et lui avait séparé la tête de son chaste corps.
 
@@ -97,7 +93,7 @@ Le Sipehdar Piran à son tour plaça son étendard sur l’autre colline et donn
 
 Ensuite les Iraniens descendirent dans la plaine, armés pour verser du sang et essayant des coups de toute espèce avec l’épée et les flèches, avec la massue et le lacet.
 
-Les braves et les grands du Touran arrivèrmt armés de massues, de flèches et d’épées damasquinées : on aurait cru que si une montagne venait s’opposer à eux, ils l’aplaniraient dans un instant ; mais leurs mains pendaient impuissantes, Dieu leur avait fermé la porte de la force ; ils se jetaient dans les lacs du malheur, car ils avaient versé beaucoup de sang innocent ; leurs chevaux de bataille s’arrêtaient, on eût dit qu’une main invisible retenait leurs pieds ; tout leur bonheur avait disparu, car leur temps était passé et leur sang bouillonnait d’inquiétude.
+Les braves et les grands du Touran arrivèrent armés de massues, de flèches et d’épées damasquinées : on aurait cru que si une montagne venait s’opposer à eux, ils l’aplaniraient dans un instant ; mais leurs mains pendaient impuissantes, Dieu leur avait fermé la porte de la force ; ils se jetaient dans les lacs du malheur, car ils avaient versé beaucoup de sang innocent ; leurs chevaux de bataille s’arrêtaient, on eût dit qu’une main invisible retenait leurs pieds ; tout leur bonheur avait disparu, car leur temps était passé et leur sang bouillonnait d’inquiétude.
 
 Telle était la volonté du Créateur du monde ; tu aurais dit que la terre s’emparait de ces héros ; mais ils étaient si braves, que
 
