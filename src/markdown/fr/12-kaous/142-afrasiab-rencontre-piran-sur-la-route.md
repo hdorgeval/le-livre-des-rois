@@ -63,22 +63,24 @@ Il fut tout confus, il devint triste et soucieux de ce qu’il voyait et interro
 
 > Ô roi !
 >
-> Il n’y a pas de lion furieux, ni de loup féroce, ni de tigre bondissant, qui pût faire dans les rangs d’une armée ce qu’a fait ce Div tout seul et le crocodile au fond de la emer se sent mourir de frayeur quand Guiv s’élance au jour du combat.
+> Il n’y a pas de lion furieux, ni de loup féroce, ni de tigre bondissant, qui pût faire dans les rangs d’une armée ce qu’a fait ce Div tout seul et le crocodile au fond de la mer se sent mourir de frayeur quand Guiv s’élance au jour du combat.
 >
-> Il s’est avancé et avec sa lourde massue il a frappé comme avec un marteau de forgeron ; il a renversé mes cavaliers avec son cheval et son pied, avec son bras et son étrier ; il a blessé et tué nos braves ; il n’a tenu aucun compte de nos a guerriers.
+> Il s’est avancé et avec sa lourde massue, il a frappé comme avec un marteau de forgeron ; il a renversé mes cavaliers avec son cheval et son pied, avec son bras et son étrier ; il a blessé et tué nos braves ; il n’a tenu aucun compte de nos a guerriers.
 >
 > Jamais nuage n’a laissé tomber autant de gouttes de pluie que nous avons fait tomber sur sa tête de coups de massue ; mais il est resté tranquille sur sa selle, comme s’il avait été dans un bosquet de roses : tu aurais dit que sa massue faisait partie de lui-même.
 >
 > À la fin toute l’armée s’est enfuie et je suis resté seul à le combattre.
 >
-> Tout en fuyant devant moi, il a tourné dans l’air son lacet, l’a lancé eta pris ma tête dans le nœu(l.’.l’en a fus étourdi et perdis le sens et il parvint a me jeter
+> Tout en fuyant devant moi, il a tourné dans l’air son lacet, l’a lancé et a pris ma tête dans le nœud.
 >
-> KEl mon s. au. par terre.
+> J’en fus étourdi et perdis le sens et il parvint à me jeter par terre.
 >
 > Il descendit, m’attacha les deux mains, me fit marcher devant lui, remonta sur son cheval et m’amena ignominieusement devant Khosrou, où
-un nouveau danger me menaçait, car il voulait me couper la tête.
+> un nouveau danger me menaçait, car il voulait me couper la tête.
 >
-> Mais Ferenguis me vint en aide, de sorte qu’au lieu de me tuer il se contenta de me percer l’oreille, de me lier les mains et en poussant des cris de rage, de me faire jurer solennellement, par la vie et la tête du roi, par le soleil el la lune, par Dieu le tout-puissant, par le trône et la couronne, que je garderais mes liens jusqu’à Khoten. ce Voyant que la fortune était contre moi, j’ai prêté le serment, j’ai juré de ne demander à personne de me délier et de continuer ma route jusqu’à ma résidence.
+> Mais Ferenguis me vint en aide, de sorte qu’au lieu de me tuer il se contenta de me percer l’oreille, de me lier les mains et en poussant des cris de rage, de me faire jurer solennellement, par la vie et la tête du roi, par le soleil et la lune, par Dieu le tout-puissant, par le trône et la couronne, que je garderais mes liens jusqu’à Khoten.
+>
+> Voyant que la fortune était contre moi, j’ai prêté le serment, j’ai juré de ne demander à personne de me délier et de continuer ma route jusqu’à ma résidence.
 >
 > Je ne sais quelle est la secrète intention du ciel, qui parait me refuser toute faveur ; car tantôt il livre ma tête et mes bras au lacet de mon ennemi, tantôt il m’assujettit à des serments et à des liens. »
 
@@ -88,6 +90,4 @@ Piran trembla et se tut et le roi revenant à son fol orgueil, se répandit en i
 
 Il porta la main à son épée et la tira en disant :
 
-> Je les détrui-
->
-> rai avec cette épée qui coupe le fer ; quand j’aurai saisi Ferenguis, je rendrai le monde noir et étroit devant elle, je la couperai en deux avec l’épée tranchante,je la jetterai aux poissons pour qu’ils la mettent en pièces : car je comprends que Khosrou cherche a rentrer dans l’Iran ; mais Ferenguis, pourquoi se mettrait-elle aussi en route ? »
+> Je les détruirai avec cette épée qui coupe le fer ; quand j’aurai saisi Ferenguis, je rendrai le monde noir et étroit devant elle, je la couperai en deux avec l’épée tranchante, je la jetterai aux poissons pour qu’ils la mettent en pièces : car je comprends que Khosrou cherche a rentrer dans l’Iran ; mais Ferenguis, pourquoi se mettrait-elle aussi en route ? »
