@@ -29,7 +29,7 @@ On n’y voyait de chemin d’aucun côté et le roi et l’armée en furent con
 
 Ils y montèrent avec bien de la peine et les plus agiles parmi eux furent éprouvés ; mais lorsqu’ils furent épuisés par la marche, ils aperçurent de l’autre côté de la montagne des eaux profondes et l’armée en fut dans la joie, car elle voyait de l’eau et une plaine et un chemin.
 
-Ils se dirigèrent vers cette eau profonde en invoquant le Créateur du monde ; ils trouvèrent de tous côtés des. bêtes fauves sans nombre et l’armée ne vivait que de gibier.
+Ils se dirigèrent vers cette eau profonde en invoquant le Créateur du monde ; ils trouvèrent de tous côtés des bêtes fauves sans nombre et l’armée ne vivait que de gibier.
 
 De loin on vit un homme sauvage, au corps velu et ayant des oreilles énormes ; sa peau dessous ses poils était de couleur sombre et ses deux oreilles étaient larges comme des oreilles d’éléphant.
 
