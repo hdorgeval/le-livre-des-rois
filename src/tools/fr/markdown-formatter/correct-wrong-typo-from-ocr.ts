@@ -1747,8 +1747,15 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ ! ô /g, ' ! Ô '),
     (content: string) => content.replace(/l’oll’re/g, 'l’offre'),
     (content: string) => content.replace(/ oll’rc /g, ' offre '),
-    (content: string) => content.replace(/ des. /g, ' des '),
+    (content: string) => content.replace(/ des\. /g, ' des '),
     (content: string) => content.replace(/ la lemme /g, ' la femme '),
+    (content: string) => content.replace(/ t’alIlige /g, ' t’afflige '),
+    (content: string) => content.replace(/ a rentrer /g, ' à rentrer '),
+    (content: string) => content.replace(/ l’fran/g, ' l’Iran'),
+    (content: string) => content.replace(/ Guerouî/g, ' Guerouï'),
+    (content: string) => content.replace(/A leur /g, 'À leur '),
+    (content: string) => content.replace(/ oll’re /g, ' offre '),
+    (content: string) => content.replace(/ élé /g, ' été '),
   ].forEach((format) => {
     result = format(result);
   });
