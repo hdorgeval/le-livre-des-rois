@@ -19,19 +19,19 @@ order: '189'
 
 La nuit était noire comme le visage d’un nègre, lorsqu’un messager de Gustehem fils de Newder arriva auprès de Khosrou, disant :
 
-> Puisse le roi du,monde vivre éternellement !
+> Puisse le roi du monde vivre éternellement !
 
 Nous sommes de retour, contents et victorieux.
 
-Nous avons surpris les héros d’A-frasiab pendant le temps du sommeil.
+Nous avons surpris les héros d’Afrasiab pendant le temps du sommeil.
 
 Ils n’avaient pas un seul cavalier en vedette, personne parmi eux n’avait en un peu de prudence ; pendant que leurs chefs se réveillaient, nous tirâmes nos épées et nos lourdes massues et lorsque la nuit eut fait place au jour, il ne restait plus en vie que Karakhan et un petit nombre de ses hommes.
 
-Toute la plaine est couverte de leurs membres et de leurs têtes ; la terre est leur oreiller et la poussière leur couverture un 7.
+Toute la plaine est couverte de leurs membres et de leurs têtes ; la terre est leur oreiller et la poussière leur couverture.
 
 Il survint de grand matin un messager de Buslelu, monté sur un dromadaire et porteur de bonnes nouvelles, disant :
 
-> Nous avons appris dans le déresert où se trouvaient les ennemis et avons suivi en toute hâte cette indication ; Rustem marchait jour et nuit et s’il avait élé seul, il n’en aurait pas moins continué sa route.
+> Nous avons appris dans le désert où se trouvaient les ennemis et avons suivi en toute hâte cette indication ; Rustem marchait jour et nuit et s’il avait élé seul, il n’en aurait pas moins continué sa route.
 >
 > Nous avons atteint l’ennemi à l’heure où le soleil qui éclaire le monde lève sa tête au-dessus des montagnes ; Rustem banda son arc et lorsqu’il fut plus près, il mit son casque sur sa tête, et, avec la première flèche qu’il fit partir de sa main, le désert fut délivré de l’armée des Turcs.
 >
@@ -47,7 +47,7 @@ Afrasiab dit à ses conseillers :
 >
 > Mais il croira que nous sommes sans nouvelles et engagés à combattre Khosrou.
 >
-> Allons le surprendre rapidement comme le feu ; inondons la terre d’un torrent de sang comme le Djihoun et si Khosrou nous suit, il est probable a que deux tiers de son armée ne reverront plus les terrasses et les murs de sa villes»
+> Allons le surprendre rapidement comme le feu ; inondons la terre d’un torrent de sang comme le Djihoun et si Khosrou nous suit, il est probable a que deux tiers de son armée ne reverront plus les terrasses et les murs de sa villes.»
 
 Toute l’armée, tous les sages et les chefs partagèrent cet avis ; on abandonna les bagages et l’armée s’élança dans le désert rapidement comme le l’en.
 
@@ -55,7 +55,7 @@ Mais bientôt un éclaireur arriva du désert, annonçant à Khosrou que l’air
 
 Il avait vu que les Turcs avaient disparu et vint dire au roi du peuple que toute la plaine était couverte de tentes de toute espèce, mais que personne ne s’y trouvait plus.
 
-Khosrou comprit que le roi de la Chine avait quitté le champ de bataille si inopinément parce qu’il avait reçu des. nouvelles de Gustehem et de Rustem qui avaient précipité sa marche.
+Khosrou comprit que le roi de la Chine avait quitté le champ de bataille si inopinément parce qu’il avait reçu des nouvelles de Gustehem et de Rustem qui avaient précipité sa marche.
 
 Il fit partir sur-le-champ un messager, qu’il envoya en grande hâte à Rustem et lui fit dire :
 
