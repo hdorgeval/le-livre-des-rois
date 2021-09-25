@@ -54,7 +54,7 @@ Le roi courait suivi de quelques personnes, pendant que son cortège se livrait 
 Lorsque Bahj ram fut entré dans le jardin, il vit un palais derrière lequel s’élevait la crête d’un rocher escarpé ; au mi--
 lieu du jardin était un bassin d’eau sur le bord duquel e’tait assis un vieillard ; la terre sous lui était. rouverte d’un lapis de brocart et le jardin était MW plein d’esclaves et de belles choses de toute sorte.
 
-Ses trois tilles, blanches comme l’ivoire, étaient asi’sises devant lui, des couronnes de turquoises sur la tête, avec desjoues comme le printemps, des tailles élancées, des sourcils arqués et des. boucles de cheveux comme des lacets ; chacune tenait en main une coupede cristal.
+Ses trois tilles, blanches comme l’ivoire, étaient asi’sises devant lui, des couronnes de turquoises sur la tête, avec desjoues comme le printemps, des tailles élancées, des sourcils arqués et des boucles de cheveux comme des lacets ; chacune tenait en main une coupede cristal.
 
 Bahram Gour les regarda ; ses yeux se troublèrent à leur aspect comme son cœur était déjà troublé de ce qui était arrivé à Tughri.
 
