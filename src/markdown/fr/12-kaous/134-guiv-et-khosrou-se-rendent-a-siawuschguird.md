@@ -31,7 +31,9 @@ On ne laissera vivre aucun de nous, ni en public, ni en secret.
 
 Le monde est rempli de malveillants et d’ennemis déchaînés contre nous et tout ce pays est la demeure d’Ahriman.
 
-Ô mon noble et illustre fils ! Écoute le conseil que je te donne.
+Ô mon noble et illustre fils !
+
+Écoute le conseil que je te donne.
 
 Il y a une prairie non loin d’ici, à côté de la route que suivent les cavaliers du Touran.
 
