@@ -39,7 +39,7 @@ Aie soin de ton corps et observe l’état de ton esprit, si tu veux que tes jou
 
 Quand le roi rend hommage à la religion, la religion et la royauté sont sœurs ; la foi ne peut se soutenir sans le trône, ni la royauté subsister sans la foi.
 
-Ce sont deux fondations entrelacées, deur ; édifices que l’intelligence a combinés.
+Ce sont deux fondations entrelacées, deux ; édifices que l’intelligence a combinés.
 
 La religion ne peut se passer de la royauté et la royauté n’est pas respectée quand la foi est absente : elles sont les gardiennes l’une de l’autre, on dirait que le même manteau les abrite ; elles ont besoin l’une de l’autre et nous les voyons unies pour faire le bien.
 
