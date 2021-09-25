@@ -59,7 +59,7 @@ Il lui dit :
 >
 > Uso de cette maison comme si elle était à toi. »
 
-Sur cette ré pense, Bahram, lit entrer son cheval dans la maison et la lemme appela son mari et lui dit :
+Sur cette ré pense, Bahram, lit entrer son cheval dans la maison et la femme appela son mari et lui dit :
 
 > Apporte de la paille et frotte son cheval.
 >
@@ -71,9 +71,9 @@ Puis elle alla à la citerne et apporta de l’eau en maudissant en secret son m
 
 > Ce vieil imbécile reste la il ne rien faire chaque lois qu’il vpit quelqu’un dans la maison.
 >
-> Ce n’est pas la l’affaire de la lemme ; est-ce à moi à servir un homme de guerre ? »
+> Ce n’est pas la l’affaire de la femme ; est-ce à moi à servir un homme de guerre ? »
 
-Bahram alla se laver le visage, car il était malade du poison du dragon, puis il vint s’asseoir sur cette natte que la famine avait étendue ; le vieux mari se tenait inactif sous la porte de la maison, mais la lemme apporta une table, la plaça avec soin et la couvrit de cresson, de vinaigre, de pain et de lait caillé.
+Bahram alla se laver le visage, car il était malade du poison du dragon, puis il vint s’asseoir sur cette natte que la famine avait étendue ; le vieux mari se tenait inactif sous la porte de la maison, mais la femme apporta une table, la plaça avec soin et la couvrit de cresson, de vinaigre, de pain et de lait caillé.
 
 > Bahram mangea un peu, se coucha en gémissant et couvrit son visage avec un mouchoir de soie. !
 >
@@ -82,17 +82,17 @@ Bahram alla se laver le visage, car il était malade du poison du dragon, puis i
 Son ignoble mari lui répondit :
 
 > Pour-
-> Lorsqu’elle fut réveillée, la lemme dit au mari :
+> Lorsqu’elle fut réveillée, la femme dit au mari :
 
 > Ô vilain, qui n’as pas lavé ton visage !
-
-Il faut que Mit quoi faut-il que tu parles tant ?
-
-Tu n’as ni viande salée, -ni bois, ni pain et tu ne files pas pendant la nuit comme font les femmes.
-
-Tu tueras un agneau, ce cavalier le mangera et partira et qu’est.ce que tu auras de lui à cette occasion ?
-
-Le froid, la chaleur et l’orage ne t’en frapperont certainement pas moins. »
+>
+> Il faut que Mit quoi faut-il que tu parles tant ?
+>
+> Tu n’as ni viande salée, -ni bois, ni pain et tu ne files pas pendant la nuit comme font les femmes.
+>
+> Tu tueras un agneau, ce cavalier le mangera et partira et qu’est.ce que tu auras de lui à cette occasion ?
+>
+> Le froid, la chaleur et l’orage ne t’en frapperont certainement pas moins. »
 
 Ainsi parla le mari, mais la femme ne l’écouta pas, car c’était une bonne femme et de bon conseil.
 
@@ -118,7 +118,7 @@ Bahram répondit :
 
 La femme pleine de résolution dit :
 
-> 0 homme de bon conseil !
+> Ô homme de bon conseil !
 >
 > Dans ce bourg, il y a beaucoup d’hommes et de maisons ; or il y passe sans cesse des cavaliers ou des employés des bureaux du roi.
 >
