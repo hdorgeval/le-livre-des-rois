@@ -28,19 +28,17 @@ Le roi monta à cheval pour que l’armée pût voir ses traits et la salua à s
 
 > Puisse la terre appartenir à jamais aux braves. »
 
-Ensuite Gouderz le soutien de l’armée, semblable à une montagne. se mit en marche, selon la coutume, accompagné d’un cortège.
+Ensuite Gouderz le soutien de l’armée, semblable à une montagne, se mit en marche, selon la coutume, accompagné d’un cortège.
 
-Les dix champions qui avaient réduit les Turcs en poussière sur le champ de bataille suivirent son cortège en pronon-çant des bénédictions sur le roi ; ils tenaient attachés sur leurs chevaux les corps de leurs ennemis la tête en bas ; leurs armes, leurs corps et leurs vêtements étaient encore couverts de sang.
+Les dix champions qui avaient réduit les Turcs en poussière sur le champ de bataille suivirent son cortège en prononçant des bénédictions sur le roi ; ils tenaient attachés sur leurs chevaux les corps de leurs ennemis la tête en bas ; leurs armes, leurs corps et leurs vêtements étaient encore couverts de sang.
 
 Gouderz s’approcha du roi ; il descendit de cheval d’aussi loin qu’il l’aperçut ; le Pehlewan de l’armée adora le roi en se prosternant devant lui ; il lui montra tous les morts et lui nomma tous ceux qui avaient combattu l’un contre l’autre.
 
-Guiv amena en courant Guerouî Zereh devant le vaillant maître de l’Iran et Khosrou soupira en le voyant.
+Guiv amena en courant Guerouï Zereh devant le vaillant maître de l’Iran et Khosrou soupira en le voyant.
 
 Le roi descendit aussitôt de cheval et adressa des actions de grâce au Créateur, disant :
 
 > Adoration à Dieu, qui est mon asile, qui nous a
->
-> 
 >
 > A donné la victoire et la domination ! »
 
