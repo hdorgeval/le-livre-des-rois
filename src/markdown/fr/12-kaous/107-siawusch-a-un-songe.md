@@ -21,15 +21,15 @@ Siawusch passa trois jours dans les larmes à cause de cette trahison du sort ; 
 
 Ferenguis au beau visage le pressa contre son sein et lui dit :
 
-> Ô roil je t’en conjure par notre amour, dis-moi ce qui t’arrive ! »
+> Ô roi ! Je t’en conjure par notre amour, dis-moi ce qui t’arrive ! »
 
-3H Siawusch continua de pousser des cris ; on alluma un flambeau et l’on brûla devant lui du bois de sandal et de l’ambre.
+Siawusch continua de pousser des cris ; on alluma un flambeau et l’on brûla devant lui du bois de santal et de l’ambre.
 
 La fille d’Afrasiab lui demanda encore :
 
 > Ô sage roi !
 >
-> Qu’asotu vu en songe ? »
+> Qu’as-tu vu en songe ? »
 
 Siawusch lui répondit :
 
@@ -51,10 +51,9 @@ Ferenguis lui dit :
 >
 > C’est sur Guersiwez que tombera tout le mal et il sera tué par la main du Khakan de Roum. »
 
-Siawusch rassembla toute son armée et la plaça devant le palais ; lui-même prit ses armes, monta à cheval l’épée en main et envoya des. vedettes du côté de Gang.
+Siawusch rassembla toute son armée et la plaça devant le palais ; lui-même prit ses armes, monta à cheval l’épée en main et envoya des vedettes du côté de Gang.
 
-Quand les deux tiers de cette longue nuit furent passés, une vedette à cheval revint. du désert et rapporta qu’elle avait vu de loin Afrasiab s’avan-
-çant rapidement avec une grande armée.
+Quand les deux tiers de cette longue nuit furent passés, une vedette à cheval revint du désert et rapporta qu’elle avait vu de loin Afrasiab s’avançant rapidement avec une grande armée.
 
 Un messager arriva de la part de Guersiwez et dit à Siawusch :
 
