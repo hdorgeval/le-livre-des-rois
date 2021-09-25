@@ -21,7 +21,7 @@ Son père eut envie de voir Bahram, que dis-je, Bahram !
 
 Ce soleil vainqueur ; et Bahram, le lion, dit à Mondhir :
 
-> Je resterais volontiers plus longtemps chez toi, mais le désir de voir mon père est né en moi et comme je serai libre de soucis chez lui, mon cœur m’y pèussem Mondhir prépara tout convenablement, des présents royaux tirés du pays de Yémen, des chevaux arabes avec des brides d’or. puis tout ce qui passait pour précieux, des étoffes rayées et des épées du Yémen, des pierres fines de toute espèce, dont les mines sont àrAden.
+> Je resterais volontiers plus longtemps chez toi, mais le désir de voir mon père est né en moi et comme je serai libre de soucis chez lui, mon cœur m’y pèussem Mondhir prépara tout convenablement, des présents royaux tirés du pays de Yémen, des chevaux arabes avec des brides d’or puis tout ce qui passait pour précieux, des étoffes rayées et des épées du Yémen, des pierres fines de toute espèce, dont les mines sont àrAden.
 
 Noman, que Yezdeguerd tenait grandement en honneur, accompagnait le prince et c’est ainsi qu’ils cheminèrent jusqu’à Isthakhr, en parlant de ce qui se. raconte sur les rois. ’
 Lorsque Yezdeguerd apprit que son fils et Noman, l’Arabe, arrivaient, tous les Mobeds et les sages au cœur éveillé qui se trouvaient à la cour allèrent à leur rencontre ; et quand le roi vit de loin Bahram et sa mine majestueuse, ses membres et sa taille, il resta étonné de le voir si grand, si instruit et si beau.
@@ -40,8 +40,10 @@ Yezdeguerd le (il appeler un Ali soir, le lit asseoir avec lui sur le trône roy
 >
 > J’apprécie la sagesse et l’intelligence de Mondhir, car je vois qu’en tout il tend vers la raison.
 >
-> Tu as été longtemps à cette cour et ton père a probablement les yeux fixés sur la routem On lui remit alors cinquante mille dinars du trésor, avec une lettre du roi ; on désigna dix magnifiques chevaux des écuries royales, aux brides d’or et d’argent et Mihran prit dans les ne. sors du roi des tapis, des esclaves et de belles choses de toute espèce et les donna toutes à Mondhir et à Noman.
->
+> Tu as été longtemps à cette cour et ton père a probablement les yeux fixés sur la route. »
+
+On lui remit alors cinquante mille dinars du trésor, avec une lettre du roi ; on désigna dix magnifiques chevaux des écuries royales, aux brides d’or et d’argent et Mihran prit dans les ne. sors du roi des tapis, des esclaves et de belles choses de toute espèce et les donna toutes à Mondhir et à Noman.
+
 > Le roi, dans son contentement, ouvrit la porte de la générosité et fit des présents à tous les compagnons de Noman, selon leur rang.
 >
 > Ensuite le roi écrivit à Mondhir une lettre telle qu’on en écrit aux rois, pour louer ce qui avait été fait pour son fils, que le roi du Yémen avait su s’attacher, ajoutant :
@@ -58,28 +60,29 @@ Mais Bahram Gour écrivit aussi une lettre, dans laquelle il dit :
 
 Puis, il dit à Noman tous ses secrets sur la mauvaise voie et la mauvaise conduite du roi.
 
-Now man quitta la cour du roi et arriva auprès de l’illustre Mondhir ; il lui remit la lettre du roi du monde, que Mondhir baisa et porta à son front.
+Noman quitta la cour du roi et arriva auprès de l’illustre Mondhir ; il lui remit la lettre du roi du monde, que Mondhir baisa et porta à son front.
 
 Il exprima sa joie en voyant les présents de Yezdeguerd et il se mit à le bénir à plusieurs reprises.
 
-Mais ensuite l’envoyé parla longuement en secret à Mondhir de Bahram et lorsqu’un secrétaire eut lu devant le roi il-.
-lustre la lettre de Bahram, sa joue devint jaune comme le curcuma.
+Mais ensuite l’envoyé parla longuement en secret à Mondhir de Bahram et lorsqu’un secrétaire eut lu devant le roi illustre la lettre de Bahram, sa joue devint jaune comme le curcuma.
 
 Mondhir écrivit sur-le-champ une réponse ; il écrivit des paroles de conseil qui pouvaient porter bonheur.
 
 Il dit :
 
-> Ô prince illuslrel ne désobéis pas à ton père ; approuve tout ce que fait le roi en bien et en mal, sers-le et sois prudent.
+> Ô prince illustre !
+>
+> Ne désobéis pas à ton père ; approuve tout ce que fait le roi en bien et en mal, sers-le et sois prudent.
 >
 > Les grands échappent aux maux par la patience ; il faut que la tête de l’homme n’oublie jamais la prudence.
 >
 > Le ciel qui tourne l’a ainsi voulu et nous ne pouvons résister à sa volonté ; il tient le cœur de l’un rempli de tendresse et le cœur d’un autre plein de colère et son visage froncé ; c’est ainsi que Dieu a créé le monde et il faut paître comme il le veut.
 >
-> Dorénavant je t’enverrai tout ce qu’il te faudra d’argent ou de joyaux dignes d’un roi, car il ne faut pas que tu sois en peine et mes trésors accumulés n’ont pas de valeur pour moi en face de tes besoins.le t’envoie maintenant dix mille dinars du trésor en guise
+> Dorénavant je t’enverrai tout ce qu’il te faudra d’argent ou de joyaux dignes d’un roi, car il ne faut pas que tu sois en peine et mes trésors accumulés n’ont pas de valeur pour moi en face de tes besoins. Je t’envoie maintenant dix mille dinars du trésor en guise
 >
 > M3 d’offrande et l’esclave qui était la conseillère et le délice de ton cœur dans l’appartement des femmes, je te l’envoie aussi pour que ton âme sombre redevienne sereine.
 >
-> Et chaque fois que tu auras employé l’argent, ne te crée pas de difficultés avec le roi pour cela,,car je t’en enverrai encore beaucoup d’autre et toutes sortes de richesses de ce pays.
+> Et chaque fois que tu auras employé l’argent, ne te crée pas de difficultés avec le roi pour cela,car je t’en enverrai encore beaucoup d’autre et toutes sortes de richesses de ce pays.
 >
 > Sers ton père et prodigue-lui les louanges, redouble d’ardeur pour son service.
 >
