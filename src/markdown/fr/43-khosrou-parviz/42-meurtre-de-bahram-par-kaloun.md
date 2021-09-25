@@ -79,13 +79,13 @@ Sa sœur était accourue sur-le-champ ; elle s’arrachait tous les cheveux, ell
 
 Elle s’écriait :
 
-> Hélas ! ô vaillant cavalier, devant lequel le lion s’enfuyait de la forêt !
+> Hélas ! Ô vaillant cavalier, devant lequel le lion s’enfuyait de la forêt !
 >
 > Qui est-ce qui a abattu cette colonne du monde ?
 >
 > Qui est-ce qui a été l’instigateur de cette mauvaise pensée ?
 >
-> Hélas ! ô cavalier au corps de Sipehbed, conquérant du monde, dépourvu de crainte, vainque’ur des lions !
+> Hélas ! Ô cavalier au corps de Sipehbed, conquérant du monde, dépourvu de crainte, vainque’ur des lions !
 >
 > Tu n’as été le serviteur ni d’un Chosroës ni de Dieu.
 >
