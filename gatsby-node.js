@@ -490,7 +490,6 @@ exports.onCreateWebpackConfig = ({ actions, plugins, stage, getConfig, loaders }
                 `moveElemsAttrsToGroup`,
                 `moveGroupAttrsToElems`,
                 `prefixIds`,
-                `removeAttrs`,
                 `removeComments`,
                 `removeDesc`,
                 `removeDimensions`,
