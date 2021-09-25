@@ -94,6 +94,6 @@ Elle commença par les louanges du Distributeur de la justice, du maître du rep
 
 ’
 
-Elle donna au messager des esclaveset des. caisses Jar, elle lui donna une part de tous les joyaux de son trésor ; et le Roumi, de retour auprès d’Iskender, rendit compte de ce qu’il avait vu et entendu, de la pompe de cette cour et de ce trône, sur lequel on aurait dit que Dara était encore assis.
+Elle donna au messager des esclaveset des caisses Jar, elle lui donna une part de tous les joyaux de son trésor ; et le Roumi, de retour auprès d’Iskender, rendit compte de ce qu’il avait vu et entendu, de la pompe de cette cour et de ce trône, sur lequel on aurait dit que Dara était encore assis.
 
 Iskender fut heureux de ces paroles et plaça en paix sur sa tête la couronne des Keïanides.
