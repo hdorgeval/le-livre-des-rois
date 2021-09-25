@@ -43,7 +43,7 @@ assis comme les rois et il chasse dans les plaines avec des guépards.
 
 Khosrou dit à son Destour :
 
-> Nous avons devant nous une affaire longue, car Bahram, quand il lance son cheval contre un ennemi, effraye les dragons dans la mer ; ensuite il a appris du maître du monde, mon père, des. manières Ide roi des rois ; enfin on dirait qu’il a pris pour Vizir le livre de Calilah, qui est un conseiller savant comme personne n’en possède. »
+> Nous avons devant nous une affaire longue, car Bahram, quand il lance son cheval contre un ennemi, effraye les dragons dans la mer ; ensuite il a appris du maître du monde, mon père, des manières Ide roi des rois ; enfin on dirait qu’il a pris pour Vizir le livre de Calilah, qui est un conseiller savant comme personne n’en possède. »
 
 Ensuite, il dit à Bendouï et à Gustehem :
 
