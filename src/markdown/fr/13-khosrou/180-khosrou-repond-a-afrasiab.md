@@ -31,7 +31,9 @@ Ensuite, il dit :
 >
 > Maintenant, ce qui me reste à faire, c’est de m’avancer contre lui, le cœur rempli de haine.
 >
-> Je me mesurerai avec lui dans le combat, je ne chercherai pas de délai au moment de la luttesn Tous les sages et tous les grands de l’armée dirent d’une seule voix :
+> Je me mesurerai avec lui dans le combat, je ne chercherai pas de délai au moment de la luttesn
+
+Tous les sages et tous les grands de l’armée dirent d’une seule voix :
 
 > Ce dessein n’est pas raisonnable.
 >
@@ -45,7 +47,7 @@ Ensuite, il dit :
 >
 > Ton grand-père est un vieillard plein d’expérience, il est aimé dans
 >
-> KEÎ KHosnou. le Touran et en Chine ; il demande pardon du mal qu’il a fait et ne veut combattre que quand il ne lui restera plus d’autre ressource ; il oll’rc de tirer de ses trésors et de te remettre les richesses, les che. vaux, l’argent que Tour a amassés pour Zadschem et les trônes d’or, les couronnes, les ceintures d’or et les lourdes massues des grands, pour racheter les crimes qui lui pèsent ; il oll’re de faire quitter aux Turcs toutes les villes que tu réclames pour l’Iran.
+> KEÎ KHosnou. le Touran et en Chine ; il demande pardon du mal qu’il a fait et ne veut combattre que quand il ne lui restera plus d’autre ressource ; il oll’rc de tirer de ses trésors et de te remettre les richesses, les chevaux, l’argent que Tour a amassés pour Zadschem et les trônes d’or, les couronnes, les ceintures d’or et les lourdes massues des grands, pour racheter les crimes qui lui pèsent ; il oll’re de faire quitter aux Turcs toutes les villes que tu réclames pour l’Iran.
 >
 > Rentrons donc dans l’Iran victorieux et contents et oublions ce qui s’est passé autrefois. »
 
@@ -55,11 +57,11 @@ Le roi se mordit les lèvres et jeta un regard sombre sur les grands ; ensuite i
 
 > Nous ne devons pas quitter ce champ de bataille pour rentrer dans l’Iran.
 >
-> Où sont donc les combats que nous devions livrer, les serments que nous avons faite, les caisses d’or et les prisonniers que nous voulions prendre, les chaînes que nous avons préparées ?
+> Où sont donc les combats que nous devions livrer, les serments que nous avons faits, les caisses d’or et les prisonniers que nous voulions prendre, les chaînes que nous avons préparées ?
 >
 > Comment nous excuserions-nous devant Kaous, comment oserions-nous paraître devant lui, si Afrasiab reste en vie et sur son trône comme maître du monde pendant que l’Iran est dévasté ?
 >
-> Sais-tu quel crime a commis Tour contre Iredj le fortuné, pour lui ravir sa couronne et son trône et ce qu’Afrasiab a fait soull’rir à Newder ?
+> Sais-tu quel crime a commis Tour contre Iredj le fortuné, pour lui ravir sa couronne et son trône et ce qu’Afrasiab a fait souffrir à Newder ?
 >
 > Puisse-t-il n’être jamais heureux, même en songe !
 >
@@ -86,19 +88,17 @@ Le roi leur répondit :
 
 > Ô Mobeds !
 >
-> Vous qui êtes mes guides, sachez que ce Schideh, au jour de la bataille, ne compte pas son père pour un homme
->
-> digne de combattre.
+> Vous qui êtes mes guides, sachez que ce Schideh, au jour de la bataille, ne compte pas son père pour un homme digne de combattre.
 >
 > Afrasiab lui a forgé une armure avec un art magique, impie, étrange et méchant ; et vos armes ne vous serviront pas contre cette cuirasse et ce casque d’acier.
 >
-> Son cheval est d’une race de divs, il a un cœur de lion, il court comme le vent.
+> Son cheval est d’une race de Divs, il a un cœur de lion, il court comme le vent.
 >
 > Il n’y a que ceux à qui Dieu a donné la dignité royale qui puissent résister à Schideh et lui échapper dans le combat.
 >
 > D’ailleurs il ne daignera pas se mesurer avec vous ; il croirait déshonorer sa dignité et sa naissance.
 >
-> Mais le petit-[ils de Feridoun et le fils de Kobad sont deux combattants égaux en courage et en rang.
+> Mais le petit-fils de Feridoun et le fils de Kobad sont deux combattants égaux en courage et en rang.
 >
 > En tuant Schideh, je brûlerai le cœur criminel de son père comme il a brûlé le cœur de Kaous par le meurtre de son fils. »
 
@@ -112,7 +112,7 @@ Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schid
 >
 > Maintenant nous verrons à qui le maître du soleil et de la lune sera favorable sur ce champ de bataille.
 >
-> Je ne demande pas le pays de Touran ni les trésors, car -cette demeure passagère ne reste à personne ; mais à0 ; je jure par la puissance de Dieu qui a créé le monde, par le diadème de Kaous qui m’a élevé, que je ne vous laisserai pas le temps de voir l’âpre vent de l’automne passer sur les roses.
+> Je ne demande pas le pays de Touran ni les trésors, car -cette demeure passagère ne reste à personne ; mais je jure par la puissance de Dieu qui a créé le monde, par le diadème de Kaous qui m’a élevé, que je ne vous laisserai pas le temps de voir l’âpre vent de l’automne passer sur les roses.
 >
 > Ensuite tu parles de richesses, de chevaux, d’or accumulé : nous n’avons point besoin de ces trésors qui proviennent de l’oppression et de l’injustice ; car quiconque est soutenu de Dieu sera toujours heureux et la fortune lui sourira toujours.
 >
@@ -120,7 +120,7 @@ Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schid
 >
 > Pescheng est venu couvert d’une cuirasse, avec une escorte et beaucoup de pompe et m’a provoqué au combat ; demain, à l’aube du jour, il sera mon convive, il me verra abattre des têtes avec mon épée.
 >
-> Je ne veux pas qu’aucun homme de l’armée d’Iran se présente devant lui au champ de bataille, il sufit de moi et de Schideh, du désert et de mon épée tranchante et j’amènerai à la fin la destruction sur sa tête.
+> Je ne veux pas qu’aucun homme de l’armée d’Iran se présente devant lui au champ de bataille, il suffit de moi et de Schideh, du désert et de mon épée tranchante et j’amènerai à la fin la destruction sur sa tête.
 >
 > Et si je suis vainqueur dans ce combat, je n’accepterai pas les délais que tu proposes ; des deux côtés nous ferons pousser des cris par nos champions et la plaine sera teinte du sang que nous verserons.
 >
@@ -128,7 +128,7 @@ Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schid
 
 Le roi ajouta :
 
-> Tu diras ensuite à Schideh : Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets, ltl non pas pour y chercher le renom et la gloire, ni à cause du message d’Afrasiab, mais parce que les mauvaises actions sont impatientes de te détruire.
+> Tu diras ensuite à Schideh : Ô prince avide de gloire, mais dépourvu de sans, tu es venu tout seul du Touran te jeter dans des filets, et non pas pour y chercher le renom et la gloire, ni à cause du message d’Afrasiab, mais parce que les mauvaises actions sont impatientes de te détruire.
 >
 > C’est Dieu qui t’a poussé hors de cette armée et ton linceul le servira ici de tombeau ; ce prince innocent, qu’on a égorgé comme un agneau, te portera malheur et ton père versera sur toi des larmes amères comme Kaous en verse sur son fils. »
 
