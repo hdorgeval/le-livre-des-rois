@@ -55,7 +55,7 @@ Gouderz lui répondit :
 
 Le souvenir de la perte de sa famille l’émut et il dit en se lamentant et en poussant des cris :
 
-> Ô Guiv, héros au corps d’airain ! ô ’Bijen, qui ambitionnais la possession du monde, vainqueur des lions ! »
+> Ô Guiv, héros au corps d’airain ! Ô ’Bijen, qui ambitionnais la possession du monde, vainqueur des lions ! »
 
 Il le dit et déchira de la tête aux pieds sa robe de soie de Chine et sa tunique de brocart de Roum.
 
