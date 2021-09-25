@@ -37,9 +37,9 @@ Ensuite l’envoyé apporta une lettre que le Badja indien avait écrite à Nous
 >
 > Ordonne à ceux qui se sont le plus occupés de science de placer devant eux l’échiquier et de se consulter de toute manière pour trouver les règles de ce noble jeu, reconnaitre par leurs. noms toutes les pièces, fixer leur marche et leurs cases, étudier les pions, les éléphants et le reste de cette armée, les rocs (tours) et les cavaliers et la marche du vizir (la reine) et du roi.
 >
-> S’ils découvrent les règles de ce beau jeu, ils dépasseront tousles savants du monde et nous enverrons volontiers à cette cour le tribut et les redevances que le roi nous demande ; mais si les hommes illustres du peuple de l’Iran sont hors d’état de résoudre ce problème, il faut qu’ils cessent de nous demander un tribut, puisqu’ils ne seraient pas nos égaux en savoir ; c’est, au contraire, toi qui devras nous être tributaire, car ce le savoir vaut mieux que toute chose que vantent les hommes. »
+> S’ils découvrent les règles de ce beau jeu, ils dépasseront tous les savants du monde et nous enverrons volontiers à cette cour le tribut et les redevances que le roi nous demande ; mais si les hommes illustres du peuple de l’Iran sont hors d’état de résoudre ce problème, il faut qu’ils cessent de nous demander un tribut, puisqu’ils ne seraient pas nos égaux en savoir ; c’est, au contraire, toi qui devras nous être tributaire, car ce le savoir vaut mieux que toute chose que vantent les hommes. »
 
-Kesra prêta l’oreille et l’esprit à ce que (lisait cet homme, qui répétait le message dont ilétail. chargé ; on plaça les échecs devant le roi, qui regarda longtemps les pièces.
+Kesra prêta l’oreille et l’esprit à ce que (lisait cet homme, qui répétait le message dont il était chargé ; on plaça les échecs devant le roi, qui regarda longtemps les pièces.
 
 Sur l’échiquier étaient des pièces, les unes en ivoire brillant et les autres en bois de teck ; le roi à l’intelligence éveillée fit des questions sur la ligure de ces pièces et sur ce bel échiquier et l’Indien lui répondit :
 
@@ -49,7 +49,7 @@ Sur l’échiquier étaient des pièces, les unes en ivoire brillant et les autr
 
 Le roi lui dit :
 
-> Je demande sept jours de temps, le huitième nous jouerons volontiers. »
+> Je demande sept jours de temps, le huitième, nous jouerons volontiers. »
 
 On apprêta un beau palais et on le donna comme demeure à l’envoyé.
 
@@ -110,8 +110,7 @@ Buzurdjmihr apporta et plaça les échecs et l’échiquier devant le trône du 
 > Faites attention à ces paroles et à la volonté de son prudent maître. »
 
 Ensuite le sage arrangea un champ de bataille, plaçant au milieu le roi, à droite et à gauche les rangs de l’armée, les fantassins vaillants au-devant, le prudent Destour (la reine) à côté du roi pour le guider dans ’
-la bataille, des deux côtés les éléphants de guerre
-(les fous), observant ensemble le combat ; au delà, les chevaux de bataille, montés par deux cavaliers habiles ; enfin, des deux côtés les rocs, rivaux les
+la bataille, des deux côtés les éléphants de guerre (les fous), observant ensemble le combat ; au delà, les chevaux de bataille, montés par deux cavaliers habiles ; enfin, des deux côtés les rocs, rivaux les
 
 Uns des autres et prêts pour le combat à droite et à gauche.
 
