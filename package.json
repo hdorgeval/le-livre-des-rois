@@ -58,7 +58,8 @@
     "react-helmet": "6.1.0",
     "react-leaflet": "3.2.1",
     "react-leaflet-draw": "0.19.8",
-    "set-value": "4.0.1"
+    "set-value": "4.0.1",
+    "trim": "0.0.3"
   },
   "devDependencies": {
     "@types/jest": "27.0.2",
