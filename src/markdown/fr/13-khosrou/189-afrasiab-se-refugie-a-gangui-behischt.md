@@ -45,16 +45,15 @@ Afrasiab dit à ses conseillers :
 
 > La fortune nous trahit encore une fois : si Rustem saisit mon palais, nous sommes perdus d’un seul coup.
 >
-> Mais il croira que nous ce sommes sans nouvelles et engagés à combattre Khosp ce rou.
+> Mais il croira que nous sommes sans nouvelles et engagés à combattre Khosrou.
 >
 > Allons le surprendre rapidement comme le feu ; inondons la terre d’un torrent de sang comme le Djihoun et si Khosrou nous suit, il est probable a que deux tiers de son armée ne reverront plus les terrasses et les murs de sa villes»
 
-Toute l’armée, tous les sages et les chefs partagèrent cet avis ; on abandonna les bagages et l’armée s’élanca dans le désert rapidement comme le l’en.
+Toute l’armée, tous les sages et les chefs partagèrent cet avis ; on abandonna les bagages et l’armée s’élança dans le désert rapidement comme le l’en.
 
-Mais bientôt un éclaireur arriva du désert, annon-
-çant à Khosrou que l’air était obscurci de la poussière soulevée par l’armée des Turcs.
+Mais bientôt un éclaireur arriva du désert, annonçant à Khosrou que l’air était obscurci de la poussière soulevée par l’armée des Turcs.
 
-Il aVait vu que les Turcs avaient disparu et vint dire au roi du peuple que toute la plaine était couverte de tentes de toute espèce, mais que personne ne s’y trouvait plus.
+Il avait vu que les Turcs avaient disparu et vint dire au roi du peuple que toute la plaine était couverte de tentes de toute espèce, mais que personne ne s’y trouvait plus.
 
 Khosrou comprit que le roi de la Chine avait quitté le champ de bataille si inopinément parce qu’il avait reçu des. nouvelles de Gustehem et de Rustem qui avaient précipité sa marche.
 
