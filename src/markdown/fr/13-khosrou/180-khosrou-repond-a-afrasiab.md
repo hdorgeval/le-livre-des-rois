@@ -45,7 +45,7 @@ Tous les sages et tous les grands de l’armée dirent d’une seule voix :
 >
 > Si c’est Schideh qui combat le roi, il nous fera pâlir d’inquiétude ; car si Schideh tombe de ta main, ce n’est qu’un grand de moins dans cette armée : mais si tu t’éloignes de nous et si tu es tué, tout l’Iran périra ; aucun de nous ne restera en vie ; aucune ville, aucune province de l’Iran ne seront sauvées ; car nous n’avons personne de la race des Keïanides qui puisse s’armer pour te venger.
 >
-> Ton grand-père est un vieillard plein d’expérience, il est aimé dans le Touran et en Chine ; il demande pardon du mal qu’il a fait et ne veut combattre que quand il ne lui restera plus d’autre ressource ; il offre de tirer de ses trésors et de te remettre les richesses, les chevaux, l’argent que Tour a amassé pour Zadschem et les trônes d’or, les couronnes, les ceintures d’or et les lourdes massues des grands, pour racheter les crimes qui lui pèsent ; il oll’re de faire quitter aux Turcs toutes les villes que tu réclames pour l’Iran.
+> Ton grand-père est un vieillard plein d’expérience, il est aimé dans le Touran et en Chine ; il demande pardon du mal qu’il a fait et ne veut combattre que quand il ne lui restera plus d’autre ressource ; il offre de tirer de ses trésors et de te remettre les richesses, les chevaux, l’argent que Tour a amassé pour Zadschem et les trônes d’or, les couronnes, les ceintures d’or et les lourdes massues des grands, pour racheter les crimes qui lui pèsent ; il offre de faire quitter aux Turcs toutes les villes que tu réclames pour l’Iran.
 >
 > Rentrons donc dans l’Iran victorieux et contents et oublions ce qui s’est passé autrefois. »
 
@@ -80,7 +80,7 @@ Quand les Iraniens entendirent ces paroles du roi, ils se repentirent de leur fa
 >
 > Le roi des rois ne cherche qu’une bonne renommée et une heureuse fin à cette entreprise ; mais le glorieux maître du monde, dont la volonté est suprême, ne voudra pas qu’on nous blâme, que l’on dise qu’il n’y avait parmi les Iraniens personne qui eût osé combattre Schideh, qu’aucun cavalier ne s’est présenté sur le champ du combat et que le roi seul avait le courage de le faire.
 >
-> Le roi des Mobeds ne voudra pas nous couvrir d’une honte éternelles»
+> Le roi des Mobeds ne voudra pas nous couvrir d’une honte éternelles.»
 
 Le roi leur répondit :
 
