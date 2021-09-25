@@ -27,7 +27,7 @@ Il fit fleurir tous ces pays et rendit [heureux !es hommes qui avaient de l’in
 
 Il paya la solde pour que son armée glorieuse se préparâtà la guerre contre les Turcs.
 
-Hormuz conduisit l’avant-garde et partit avec des. levées nouvelles ; Kobad commandait l’arrière-garde du roi et marcha comme le vent avec ses troupes ; il était fils de Pirouz ,-c’était un homme intelligent et une branche. féconde de l’arbre royal.
+Hormuz conduisit l’avant-garde et partit avec des levées nouvelles ; Kobad commandait l’arrière-garde du roi et marcha comme le vent avec ses troupes ; il était fils de Pirouz ,-c’était un homme intelligent et une branche. féconde de l’arbre royal.
 
 Puis le roi fit asseoir sur le trône Balasch, son fils cadet, un homme plein de dignité et de justice.
 
