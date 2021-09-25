@@ -1072,6 +1072,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/DES ROISE/g, ''),
     (content: string) => content.replace(/LE LlVllE /g, ''),
     (content: string) => content.replace(/DES ROISH /g, ''),
+    (content: string) => content.replace(/LE LlVIlItii /g, ''),
   ].forEach((format) => {
     result = format(result);
   });

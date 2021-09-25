@@ -1756,6 +1756,12 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/A leur /g, 'À leur '),
     (content: string) => content.replace(/ oll’re /g, ' offre '),
     (content: string) => content.replace(/ élé /g, ' été '),
+    (content: string) => content.replace(/Il lit /g, 'Il fit '),
+    (content: string) => content.replace(/\. ô /g, '. Ô '),
+    (content: string) => content.replace(/ell’rayer /g, 'effrayer '),
+    (content: string) => content.replace(/ la où /g, ' là où '),
+    (content: string) => content.replace(/ e’fl’acer /g, ' effacer '),
+    (content: string) => content.replace(/ au moment ou /g, ' au moment où '),
   ].forEach((format) => {
     result = format(result);
   });
