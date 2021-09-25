@@ -21,9 +21,9 @@ Afrasiab ordonna au messager de s’en retourner auprès du puissant Piran aux t
 
 > Ô mon ami fidèle, vertueux et véridique !
 
-Depuis le moment où ta chaste mère t’a mis au monde, tu as porté la tête plus haut que tout le peuple, tu as joui de plus de faveur que tout autre auprès de moi, je t’ai placé au-dessus de tous les Pehlewans.
+Depuis le moment où ta chaste mère t’a mis au monde, tu as porté la tête plus haute que tout le peuple, tu as joui de plus de faveur que tout autre auprès de moi, je t’ai placé au-dessus de tous les Pehlewans.
 
-Dans tous les combats qu’on m’a livrés, tu m’as fait de ton corps un bouclier et de tavie une rançon ; et malgré tes richesses, tu t’es soumis dans toute occasion aux fatigues de la guerre pour me servir.
+Dans tous les combats qu’on m’a livrés, tu m’as fait de ton corps un bouclier et de ta vie une rançon ; et malgré tes richesses, tu t’es soumis dans toute occasion aux fatigues de la guerre pour me servir.
 
 Tu as conduit ton armée de la Chine jusque dans l’Iran, tu as assombri le cœur et la fortune de mes ennemis ; tu es un prince et le Pehlewan du monde ; que ta vie soit bénie de mille bénédictions !
 
@@ -31,7 +31,7 @@ Tu m’as accordé l’amitié que tu avais vouée à Tour et à Pescheng et le 
 
 ’ [ : Ed premier lieu tu dis que tu fus coupable lorsque Keï Khosrou passa du Touran dans le pays d’Iran et m’accabla de sa haine.
 
-Mais sache que moi le roi je ne t’en ai pas voulu et que jamais mon cœur ne s’en est souvenu.
+Mais sache que moi le roi, je ne t’en ai pas voulu et que jamais mon cœur ne s’en est souvenu.
 
 Il ne faut donc pas que tu t’en affliges et que la rouille de l’inquiétude ronge ton cœur.
 
@@ -53,7 +53,7 @@ C’est rêver que de parler des lll.
 
 A morts ; ne renonce pas à venger ton frère, car un cœur lacéré par le meurtre d’un frère n’est pas soulagé par les remèdes des médecins.
 
-En troisième lieu tu me dis que Khosrou part de sa cour pour venir me combattre avec son armée.
+En troisième lieu, tu me dis que Khosrou part de sa cour pour venir me combattre avec son armée.
 
 Mais la nouvelle que tu as reçue du départ de Keï Khosrou de la résidence royale est fausse ; c’est le Sipehbed Thous qui s’est mis en route avec une armée pour le Dehistan.
 
@@ -63,7 +63,8 @@ Je suis déterminé à passer demain matin avec une armée sur l’autre rive du
 
 O homme plein d’expérience et de fierté, tu es au-dessus de tout besoin par la grâce de Dieu ; tu possèdes en hommes, en trésors et en forces tout ce que tu peux désirer : mais je t’envoie encore une a armée de trente mille cavaliers illustres, courageux, prudents et vaillants, pour que ton âme troublée reprenne sa tranquillité ; car fussions-nous un A contre dix, un seul des nôtres compterait pour peu de chose dix Iraniens.
 
-Lorsque cette armée sera arrivée auprès de toi, ne tarde pas, arrache à Gouderz sa tête et sa couronne, fais démolir par les sabots de les destriers la montagne qui lui sert de forteresse ; et une fois que tu auras le dessus dans cette attaque, n’arrête plus la main des nôtres dans le carnage. 7)
+Lorsque cette armée sera arrivée auprès de toi, ne tarde pas, arrache à Gouderz sa tête et sa couronne, fais démolir par les sabots de les destriers la montagne qui lui sert de forteresse ; et une fois que tu auras le dessus dans cette attaque, n’arrête plus la main des nôtres dans le carnage.
+
 Le messager ayant écouté la réponse du roi, s’en retourna auprès du Pehlewan.
 
 Piran entendit cette réponse, rassembla son armée et fit répéter au messager devant elle tout son récit.
@@ -82,7 +83,7 @@ Il s’adressa à Dieu, disant :
 >
 > Regarde Khosrou : qui aurait cru qu’à cette heure il serait devenu un roi si puissant ?
 >
-> Regarde ce que fait le sort inconstant : les ronces. desséchées de celui qu’il favorise poussent des roses fraiches ; et la fortune qui veille sur un homme convertit en musc la poussière sous ses pieds.
+> Regarde ce que fait le sort inconstant : les ronces desséchées de celui qu’il favorise poussent des roses fraiches ; et la fortune qui veille sur un homme convertit en musc la poussière sous ses pieds.
 >
 > Plus étonnant encore est le sort d’un homme plein de noblesse, dont le cœur est toujours rempli de soucis.
 >
@@ -100,4 +101,4 @@ Il recommença à soupirer devant Dieu, disant :
 >
 > Puisse mon œil ne jamais voir quelqu’un prendre la voie et la ligne de conduite que j’ai suivie !
 >
-> Quand le sort ne tourne pas au gré d’un homme, la vie ou la mort lui deviennent indifférentes. n
+> Quand le sort ne tourne pas au gré d’un homme, la vie ou la mort lui deviennent indifférentes. »
