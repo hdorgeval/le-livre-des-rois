@@ -49,8 +49,7 @@ Le nom de cet honnête homme était Mahboud, son esprit et son cœur étaient re
 
 Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou quand il demandait à un Mobed le barsom.
 
-Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a !
-
+Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a ! 
 H
 deux jeunes gens illustres et purs portaient les mets chez le roi.
 
@@ -128,7 +127,7 @@ Les jeunes gens, dans leur innocence et leur droiture, replièrent les manches s
 
 > tous les deux se couchèrent par terre et exhalèrent l’âme devant Nouschirwan.
 >
-> Lorsque le roi du monde vit cela, il fut épouvanté et devint pâle comme la lieur du fenugrec.
+> Lorsque le roi du monde vit cela, il fut épouvanté et devint pâle comme la fleur du fenugrec.
 >
 > Il ordonna de détruire le palais de Mahboud, de n’épargner personne et de couper la tête à Mahboud sur ces ruines.
 >
