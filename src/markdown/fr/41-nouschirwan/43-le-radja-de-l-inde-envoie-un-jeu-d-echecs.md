@@ -110,7 +110,7 @@ Buzurdjmihr apporta et plaça les échecs et l’échiquier devant le trône du 
 > Faites attention à ces paroles et à la volonté de son prudent maître. »
 
 Ensuite le sage arrangea un champ de bataille, plaçant au milieu le roi, à droite et à gauche les rangs de l’armée, les fantassins vaillants au-devant, le prudent Destour (la reine) à côté du roi pour le guider dans ’
-la bataille, des deux côtés les éléphants de guerre (les fous), observant ensemble le combat ; au delà, les chevaux de bataille, montés par deux cavaliers habiles ; enfin, des deux côtés les rocs, rivaux les
+la bataille, des deux côtés les éléphants de guerre des fous), observant ensemble le combat ; au delà, les chevaux de bataille, montés par deux cavaliers habiles ; enfin, des deux côtés les rocs, rivaux les
 
 Uns des autres et prêts pour le combat à droite et à gauche.
 
