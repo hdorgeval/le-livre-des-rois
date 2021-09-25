@@ -21,7 +21,7 @@ De l’autre côté, le roi du monde s’en retourna, et, ayant passé sain et s
 
 Il leur dit :
 
-> Ô grands qui me. voulez du bien ! ô chefs expérimentés et éprouvés dans les affaires !
+> Ô grands qui me. voulez du bien ! Ô chefs expérimentés et éprouvés dans les affaires !
 >
 > Voici le commencement de mon exercice du pouvoir et je ne puis faire encore que des essais ; je n’ai encore droit à la reconnaissance de personne, si bien intentionné que je sois.
 >
