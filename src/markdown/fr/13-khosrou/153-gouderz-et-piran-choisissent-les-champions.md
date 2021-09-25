@@ -53,7 +53,7 @@ Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de
 >
 > Siawusch a livré sa tête parce qu’il croyait à tes serments et tu as donné sa vie au vent dans ta démence.
 >
-> Plus tard. lorsque mon fils s’est rendu auprès de toi, tu as refusé de suivre mes conseils, tu t’es hâté de te préparer au combat, tu t’es jeté sur nous comme une flamme.
+> Plus tard, lorsque mon fils s’est rendu auprès de toi, tu as refusé de suivre mes conseils, tu t’es hâté de te préparer au combat, tu t’es jeté sur nous comme une flamme.
 >
 > Je n’ai demandé au Créateur, en public et en secret, qu’une seule chose, c’est que tu te présentes un jour devant moi sur le champ de bataille.
 >
@@ -63,9 +63,9 @@ Gouderz reconnut, à ces paroles, que les astres avaient rendu sombre le sort de
 >
 > Exécute maintenant tout ce que tu m’as annoncé et ne manque pas à tes paroles et à tes promesses. »
 
-Le Sipehdar des Turcs se mit à faire ses préparatifs ; il choisit dix cavaliers de son armée assis sur leurs destriers, prêts au combat, couverts d’une armure complète, tous hommes au cœur de lion, tous hommes dc grand renom.
+Le Sipehdar des Turcs se mit à faire ses préparatifs ; il choisit dix cavaliers de son armée assis sur leurs destriers, prêts au combat, couverts d’une armure complète, tous hommes au cœur de lion, tous hommes de grand renom.
 
-Ils sortirent des rangs et s’avancèrent jusqu’à l’endroit où ils devaient se battre. endroit où les yeux des deur armées ne pouvaient les atteindre ; c’est ainsi que les deux chefs avaient fixé les conditions du combat.
+Ils sortirent des rangs et s’avancèrent jusqu’à l’endroit où ils devaient se battre. endroit où les yeux des deux armées ne pouvaient les atteindre ; c’est ainsi que les deux chefs avaient fixé les conditions du combat.
 
 À chaque cavalier touranien se trouvait opposé un brave de l’Iran.
 
@@ -75,7 +75,7 @@ Guerouï Zereh était, de toute l’armée du Touran, l’homme que Khosrou maud
 
 Kelbad fils de Wiseh se hâta de se poser en face de Feribourz fils de Kaous.
 
-Rehbani lits de Gouderz et Barman se choisirent l’un l’autre pour adversaires ; Gourazeh devait combattre Siamek, comme un lion furieux combat un crocodile ; Gourguin le guerrier expérimenté se présenta comme un lion dans la lice contre Anderiman ; le vaillant Rouin se proposa de lutter contre Bijen fils de Guiv et d’enlever au monde son éclat ; Aukhast devait se battre contre Zengueh fils de Schaweran et Barteh choisit Kehrem pour antagoniste parmi les Touraniens ; Fourouhil et Zengouleh se détachèrent de la foule pour se combattre ; Hedjir et Sipahram, semblables à des Divs, poussèrent sur le champ de bataille des cris de rage.
+Rehbani lits de Gouderz et Barman se choisirent l’un l’autre pour adversaires ; Gourazeh devait combattre Siamek, comme un lion furieux combat un crocodile ; Gourguin le guerrier expérimenté se présenta comme un lion dans la lice contre Anderiman ; le vaillant Rouïn se proposa de lutter contre Bijen fils de Guiv et d’enlever au monde son éclat ; Aukhast devait se battre contre Zengueh fils de Schaweran et Barteh choisit Kehrem pour antagoniste parmi les Touraniens ; Fourouhil et Zengouleh se détachèrent de la foule pour se combattre ; Hedjir et Sipahram, semblables à des Divs, poussèrent sur le champ de bataille des cris de rage.
 
 Enfin Gouderz fils de Keschwad et Piran devaient se mesurer ; ils étaient armés pour le combat et leurs traits exprimaient leur haine ; ces deux Sipehbeds avaient soif de sang, car ils combattaient pour la domination et pour la religion.
 
@@ -89,7 +89,7 @@ Gouderz dit à ses compagnons qui portaient haut la tête :
 
 > Quiconque d’entre vous, ô héros pleins de fierté, aura abattu son vaillant adversaire, viendra, de si loin qu’il se trouve, porter son drapeau sur cette hauteur. »
 
-Le Sipehdar Piran à son tour plaça son étendard sur l’autre colline et donna auxsiens des instructions semblables.
+Le Sipehdar Piran à son tour plaça son étendard sur l’autre colline et donna aux siens des instructions semblables.
 
 Ensuite les Iraniens descendirent dans la plaine, armés pour verser du sang et essayant des coups de toute espèce avec l’épée et les flèches, avec la massue et le lacet.
 
