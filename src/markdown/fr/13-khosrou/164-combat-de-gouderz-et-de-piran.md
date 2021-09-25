@@ -19,7 +19,7 @@ order: '164'
 
 Lorsque neuf heures de la journée se furent écoulées, il n’y avait plus aucun Turc sur cette large plaine ; l’épée avait séparé leurs âmes de leurs corps.
 
-Un dirait que le monde n’a pas de pitié : il élève un homme tendrement, il lui fait parcourir une longue vie ; ensuite il l’attaque dans la nuit, prépare sa perte et I’accable de toutes sortes de malheurs et d’infortunes.
+On dirait que le monde n’a pas de pitié : il élève un homme tendrement, il lui fait parcourir une longue vie ; ensuite il l’attaque dans la nuit, prépare sa perte et l’accable de toutes sortes de malheurs et d’infortunes.
 
 Il nous fait naître du vent et nous livre à l’ouragan ; nous demandons justice et c’est l’injustice qui apparaît.
 
@@ -57,8 +57,7 @@ Il s’écria :
 >
 > Où sont donc les troupes, ô chef de l’armée ?
 >
-> Où sont la force et la bra-
-> œ vonre, les armes, le courage, les trésors et la sagesse dont tu parlais ? Ô soutien des braves, ô défenseur ce d’Afrasiab, voici le soleil qui s’éclipse pour ton roi.
+> Où sont la force et la bravoure, les armes, le courage, les trésors et la sagesse dont tu parlais ? Ô soutien des braves, ô défenseur ce d’Afrasiab, voici le soleil qui s’éclipse pour ton roi.
 >
 > Le sort te tourne entièrement le dos ; ce n’est pas le moment d’employer des ruses ; ainsi ne cherche pas à t’échapper.
 >
@@ -92,7 +91,7 @@ Telle est la rotation du temps, il n’accepte les enseignements d’aucun maît
 
 Lorsque Gouderz eut atteint la cime de la montagne, il vit Piran dans cet état, abattu misérablement, ayant le cœur brisé, la main blessée, la tête couchée sur le sol, la cuirasse déchirée, la ceinture rompue ; il dit :
 
-> Ô vaillant lion ! ô chef des Pehlewans ! ô brave cavalier !
+> Ô vaillant lion ! Ô chef des Pehlewans ! ô brave cavalier !
 >
 > Le monde a vu beaucoup d’hommes comme toi et comme moi, mais il n’accorde du repos à personne. »
 
