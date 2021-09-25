@@ -203,13 +203,19 @@ async function createAllFrenchEpisodePages(graphql, actions) {
     const slug = `/${lang}/${reignSlug}/${episodeSlug}`;
 
     const previousFrontmatter = markdown.previous?.frontmatter;
+
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const previousSlugLegacy = markdown.previous?.fields.slug;
+
     const previousSlug = previousFrontmatter
       ? `/${previousFrontmatter?.lang}/${previousFrontmatter?.reign_slug}/${previousFrontmatter?.episode_slug}`
       : undefined;
 
     const nextFrontmatter = markdown.next?.frontmatter;
+
+    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const nextSlugLegacy = markdown.next?.fields.slug;
+
     const nextSlug = nextFrontmatter
       ? `/${nextFrontmatter?.lang}/${nextFrontmatter?.reign_slug}/${nextFrontmatter?.episode_slug}`
       : undefined;
