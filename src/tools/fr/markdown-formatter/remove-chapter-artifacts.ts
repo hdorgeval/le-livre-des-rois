@@ -1057,6 +1057,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/KEI Knosaou\./g, ''),
     (content: string) => content.replace(/KEI KHOSROU/g, ''),
     (content: string) => content.replace(/KEIÎKHOSROU\./g, ''),
+    (content: string) => content.replace(/KEÎ KHosnou\./g, ''),
     (content: string) => content.replace(/KEI mors\./g, ''),
     (content: string) => content.replace(/KEl KIlOSBOU\./g, ''),
     (content: string) => content.replace(/KEl KHUSBUU\./g, ''),

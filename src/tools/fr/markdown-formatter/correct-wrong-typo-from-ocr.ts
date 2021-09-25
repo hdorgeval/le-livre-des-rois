@@ -1732,6 +1732,23 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ illuslrel /g, ' illustre ! '),
     (content: string) => content.replace(/ la routem /g, ' la route. » '),
     (content: string) => content.replace(/A l’heure où/g, 'À l’heure où'),
+    (content: string) => content.replace(/ l’Oiient /g, ' l’Orient '),
+    (content: string) => content.replace(/ el lui /g, ' et lui '),
+    (content: string) => content.replace(/ el elle /g, ' et elle '),
+    (content: string) => content.replace(/ el il /g, ' et il '),
+    (content: string) => content.replace(/ el la /g, ' et la '),
+    (content: string) => content.replace(/ el à /g, ' et à '),
+    (content: string) => content.replace(/ el allez /g, ' et allez '),
+    (content: string) => content.replace(/ el faites-le /g, ' et faites-le '),
+    (content: string) => content.replace(/ el Khosrou /g, ' et Khosrou '),
+    (content: string) => content.replace(/ Rouin /g, ' Rouïn '),
+    (content: string) => content.replace(/ deur /g, ' deux '),
+    (content: string) => content.replace(/ dc /g, ' de '),
+    (content: string) => content.replace(/ ! ô /g, ' ! Ô '),
+    (content: string) => content.replace(/l’oll’re/g, 'l’offre'),
+    (content: string) => content.replace(/ oll’rc /g, ' offre '),
+    (content: string) => content.replace(/ des. /g, ' des '),
+    (content: string) => content.replace(/ la lemme /g, ' la femme '),
   ].forEach((format) => {
     result = format(result);
   });
