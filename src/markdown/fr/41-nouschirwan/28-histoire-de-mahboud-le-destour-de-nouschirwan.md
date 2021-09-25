@@ -50,13 +50,12 @@ Le nom de cet honnête homme était Mahboud, son esprit et son cœur étaient re
 Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou quand il demandait à un Mobed le barsom.
 
 Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a !
-
 H
 deux jeunes gens illustres et purs portaient les mets chez le roi.
 
 Les grands de la cour versaient des larmes par jalousie contre Mahboud.
 
-Il y avait surtout un grand du nom de Zerwan, qui voulait régner â la cour du roi ; il était vieux, chambellan du roi et intendant des fêtes et du palais.
+Il y avait surtout un grand du nom de Zerwan, qui voulait régner à la cour du roi ; il était vieux, chambellan du roi et intendant des fêtes et du palais.
 
 Toute l’année son visage était inondé de larmes à cause de Mahboud et de ses fils et il cherchait un prétexte pour irriter le roi contre ces hommes sans reproche ; mais il ne trouvait pas moyen de parler mal d’eux et de leur aliéner l’esprit de Nouschirwan.
 
