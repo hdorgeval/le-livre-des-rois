@@ -19,9 +19,9 @@ order: '142'
 
 Lorsque Afrasiab apprit la fuite de Khosrou, la lumière du soleil s’obscurcit devant ses yeux.
 
-Il lit sonner les trompettes d’airain, rassembla son armée et sortit de son palais. brûlant de rage.
+Il lit sonner les trompettes d’airain, rassembla son armée et sortit de son palais brûlant de rage.
 
-Il fit chaque m nous. 1 : jour deux journées de marche, il avança en grande hâte, il vola comme la flèche que lance l’arc.
+Il fit chaque jour deux journées de marche, il avança en grande hâte, il vola comme la flèche que lance l’arc.
 
 Il amena ainsi son armée jusqu’au champ de bataille où Kelbad et ses troupes avaient combattu.
 
@@ -33,7 +33,7 @@ Il demanda :
 >
 > Aucun de mes guerriers n’a su qu’une si grande armée eût passé la frontière.
 >
-> Qui est-ce qui a pu indiquer à ce fils du Div qu’il y avait ici un enfant de Siawusch ? 0h !
+> Qui a pu indiquer à ce fils de Div qu’il y avait ici un enfant de Siawusch ? Oh !
 >
 > Que n’ai-je donné à cet enfant la terre pour nourrice !
 >
@@ -53,9 +53,7 @@ Les joues d’Afrasiab pâlirent à ces paroles, son cœur fut effrayé du sort 
 >
 > Quand Dieu favorise quelqu’un, il le fait parvenir au trône sans effort. »
 
-Pendant que’Sipahram écoutait les paroles du roi, on vit arriver une armée, précédée par le Sipehdar Piran, dont la tête, le visage et le corps.
-
-étaient entièrement couverts de sang.
+Pendant que Sipahram écoutait les paroles du roi, on vit arriver une armée, précédée par le Sipehdar Piran, dont la tête, le visage et le corps étaient entièrement couverts de sang.
 
 Afrasiab crut que Piran avait atteint Guiv et qu’il courait en avant des troupes pour annoncer sa victoire ; mais quand il fut plus près, il reconnut que le Pehlewan de son armée était blessé, qu’il était fortement attaché à la selle et que ses deux mains étaient liées derrière le dos avec une sangle.
 
@@ -90,4 +88,4 @@ Piran trembla et se tut et le roi revenant à son fol orgueil, se répandit en i
 
 Il porta la main à son épée et la tira en disant :
 
-> Je les détruirai avec cette épée qui coupe le fer ; quand j’aurai saisi Ferenguis, je rendrai le monde noir et étroit devant elle, je la couperai en deux avec l’épée tranchante, je la jetterai aux poissons pour qu’ils la mettent en pièces : car je comprends que Khosrou cherche a rentrer dans l’Iran ; mais Ferenguis, pourquoi se mettrait-elle aussi en route ? »
+> Je les détruirai avec cette épée qui coupe le fer ; quand j’aurai saisi Ferenguis, je rendrai le monde noir et étroit devant elle, je la couperai en deux avec l’épée tranchante, je la jetterai aux poissons pour qu’ils la mettent en pièces : car je comprends que Khosrou cherche à rentrer dans l’Iran ; mais Ferenguis, pourquoi se mettrait-elle aussi en route ? »
