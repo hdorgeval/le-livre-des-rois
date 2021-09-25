@@ -91,7 +91,7 @@ Telle est la rotation du temps, il n’accepte les enseignements d’aucun maît
 
 Lorsque Gouderz eut atteint la cime de la montagne, il vit Piran dans cet état, abattu misérablement, ayant le cœur brisé, la main blessée, la tête couchée sur le sol, la cuirasse déchirée, la ceinture rompue ; il dit :
 
-> Ô vaillant lion ! Ô chef des Pehlewans ! ô brave cavalier !
+> Ô vaillant lion ! Ô chef des Pehlewans ! Ô brave cavalier !
 >
 > Le monde a vu beaucoup d’hommes comme toi et comme moi, mais il n’accorde du repos à personne. »
 
