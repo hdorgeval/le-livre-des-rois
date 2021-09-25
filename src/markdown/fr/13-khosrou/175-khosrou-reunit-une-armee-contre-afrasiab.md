@@ -91,7 +91,7 @@ I3 du Dehistan, qui méprisait ses ennemis ; Tokhar était issu de la race de l�
 
 À côté de Feribourz se trouvait Nestouh, autour duquel se pressait une foule de grands et de chefs aguerris qui venaient du désert des cavaliers armés de lances.
 
-A leur tête marchait Hedjir devant lequel un lion n’étaitqu’une faible gazelle.
+À leur tête marchait Hedjir devant lequel un lion n’étaitqu’une faible gazelle.
 
 Khosrou lui ordonna de se placer à côté de Nestouh et l’aile gauche de l’armée devint comme une montagne.
 
