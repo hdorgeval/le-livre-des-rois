@@ -49,7 +49,7 @@ Le Sipehbed descendit de son éléphant et fit en pleurant deux milles ; il trou
 
 Il poussa des cris ., se déchira la chair, s’assit en deuil et en désolation devant son frère, disant :
 
-> Hélas ! ô vaillant jeune homme !
+> Hélas ! Ô vaillant jeune homme !
 >
 > Tu es parti rempli de douleur et l’âme blessée ; la rotation d’une étoile ennemie t’a tué, sans qu’un souffle hostile t’ait touché.
 >
@@ -62,7 +62,7 @@ Il poussa des cris ., se déchira la chair, s’assit en deuil et en désolation
 
 Lorsque le précepteur de Gau arriva en ce lieu et vit l’ambitieux Thalhend mort, il se roula par terre devant Gau et s’écria :
 
-> Hélas ! ô nouveau maître du monde ! »
+> Hélas ! Ô nouveau maître du monde ! »
 
 Ensuite, il se mit à lui donner des avis et lui dit :
 
