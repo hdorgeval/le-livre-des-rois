@@ -58,31 +58,29 @@ La frontière remontera plus haut encore, embrassant les plaines d’Amoui et de
 
 De plus, tu peux prendre le pays de Soghd, dont personne ne te disputera la possession.
 
-Du côté où s’avance Rustem le destructeur des héros, je lui céderai tout le Nimrouz ; je rappellerai l’armée qui se trouve en
+Du côté où s’avance Rustem le destructeur des héros, je lui céderai tout le Nimrouz ; je rappellerai l’armée qui se trouve en face de lui, je lui ouvrirai la route de l’Oiient el lui livrerai, sans que mon cœur les regrette, tous les pays qui s’étendent jusqu’à l’Inde, ainsi que le Kaschmir, Kaboul, Kandahar et de proche en proche toutes les contrées jusqu’au Sind.
 
-[ face de lui, je lui ouvrirai la route de l’Oiient el lui livrerai, sans que mon cœur les regrette, tous les pays qui s’étendent jusqu’à l’Inde, ainsi que le Kaschmir, Kaboul, Kandahar et de proche en proche toutes les contrées jusqu’au Sind.
-
-Du côlé où se trouve le vaillant Lohrasp, je lui céderai le pays des Alains et toute cette région ; je donnerai à Khosrou sans combat et sans contestation une frontière continue jusqu’au mont Kaf.
+Du côté où se trouve le vaillant Lohrasp, je lui céderai le pays des Alains et toute cette région ; je donnerai à Khosrou sans combat et sans contestation une frontière continue jusqu’au mont Kaf.
 
 Enfin j’abandonnerai tout le pays qu’Aschkesch occupe dans ce moment.
 
 Quand j’aurai fait tout cela, je rappellerai mes troupes de tous côtés et je te promettrai par serment de ne. plus nourrir d’inimitié contre toi.
 
-Tu sais que de notre côté nous avons voulu agir avec droiture, que nous avons rempli nos cœurs de tendresse et de loyauté.
+Tu sais que de notre côté, nous avons voulu agir avec droiture, que nous avons rempli nos cœurs de tendresse et de loyauté.
 
 Je vais envoyer dire au roi du Touran que mon esprit souffre de cette guerre ; écris de même, dans un sentiment d’humanité, une lettre à Khosrou et montre-nous un visage serein.
 
 Reçois mes paroles avec bonté et non pas avec l’envie de répandre du sang et de me combattre.
 
-Quand nous aurons conclu un traité,j’enverrai à Khosrou sans exception toutes les richesses qu’il m’a demandées et j’espère qu’il défendra à son armée d’exercer de nouvelles vengeances ; ensuite, quand tout sera réglé, je lutterai remettre des otages et de grands trésors.
+Quand nous aurons conclu un traité, j’enverrai à Khosrou sans exception toutes les richesses qu’il m’a demandées et j’espère qu’il défendra à son armée d’exercer de nouvelles vengeances ; ensuite, quand tout sera réglé, je lutterai remettre des otages et de grands trésors.
 
-Je conclurai ce traité (.07 par humanité, selon les règles et selon les lois de la religion ; je fermerai avec la main de la loyauté l’œil de la vengeance, que le méchant Tour et le farouche Selm ouvrirent violemment du temps du puissant roi Feridoun, qui fut accablé de douleur quand le glorieux Iredj fut tué.
+Je conclurai ce traité par humanité, selon les règles et selon les lois de la religion ; je fermerai avec la main de la loyauté l’œil de la vengeance, que le méchant Tour et le farouche Selm ouvrirent violemment du temps du puissant roi Feridoun, qui fut accablé de douleur quand le glorieux Iredj fut tué.
 
 Demande-moi tout -ce qui peut se demander avec raison, ensuite écris à Khosrou sur mon compte.
 
 Il ne faut pas que ton armée croie que mes paroles pacifiques proviennent de ma fatigue ; car je ne parle ainsi que par humanité et je ne poursuis qu’un but louable.
 
-J’ai plus de trésors et plus de troupes que toi et ma réputation de bravoure est plus grande que la tienne ; mais mon cœur brûle de compassion pour nos armées au milieu de ces combats et de ce carnage inhumain qui s’étend sur toute la terre, etje m’efforce d’éteindre ces vengeances.
+J’ai plus de trésors et plus de troupes que toi et ma réputation de bravoure est plus grande que la tienne ; mais mon cœur brûle de compassion pour nos armées au milieu de ces combats et de ce carnage inhumain qui s’étend sur toute la terre, et je m’efforce d’éteindre ces vengeances.
 
 Ensuite j’ai toujours devant les yeux la crainte du Créateur du monde ; car il n’approuve pas que nous fassions du mal et toute notre génération en portera la peine.
 
@@ -102,22 +100,21 @@ Il attacha un fil autour de la lettre et appela son noble fils (il avait un fils
 
 Rouïn quitta son illustre père et se mit en route avec dix cavaliers ; il partit plein de prudence et de sérénité et courut jusqu’à l’enceinte des tentes du Pehlewan.
 
-Quand il fut arrivé à la résidence de Gouderz, quelqu’un courut avertir le Pehlewan, qui fit appeler auprès de lui le messager, aussitôt que celui-ci eut touché l’enceinte
-(les tentes.
+Quand il fut arrivé à la résidence de Gouderz, quelqu’un courut avertir le Pehlewan, qui fit appeler auprès de lui le messager, aussitôt que celui-ci eut touché l’enceinte des tentes.
 
-Ilouïn entra ; et lorsqu’il aperçut Gouderz, il croisa les mains sur la poitrine et inclina profondément la tète.
+Rouïn entra ; et lorsqu’il aperçut Gouderz, il croisa les mains sur la poitrine et inclina profondément la tète.
 
 Le Sipehdar se leva et le serra avec empressement dans ses bras ; il lui demanda des nouvelles de Piran et de son armée, des héros, du roi et de son pays.
 
-Bouïu tira en toute hâte la lettre, la remit et s’acquitta de son message.
+Rouïn tira en toute hâte la lettre, la remit et s’acquitta de son message.
 
 Un secrétaire vint, parcourut la lettre et dit à Gouderz ce qu’elle contenait.
 
-Lorsqu’on eut lu la lettre devant Gouderz, tous les grands restèrent étonnés de ces paroles douces, de ces bons conseils et de ce traité humain que proposait le sage Piran, qui disait tantde bonnes choses dans la lettre et donnait tant de bon avis.
+Lorsqu’on eut lu la lettre devant Gouderz, tous les grands restèrent étonnés de ces paroles douces, de ces bons conseils et de ce traité humain que proposait le sage Piran, qui disait tant de bonnes choses dans la lettre et donnait tant de bon avis.
 
 Gouderz dit à Roum :
 
-> Ô fils du chef de l’armée, noble jeune homme, il faut d’abord que tu reçoives de moi l’hospitalité, ensuite tu me demanderas la réponse à cette lettrem
+> Ô fils du chef de l’armée, noble jeune homme, il faut d’abord que tu reçoives de moi l’hospitalité, ensuite tu me demanderas la réponse à cette lettre. »
 
 On dressa une nouvelle tente ; on y arrangea une salle de festin digne d’un roi, qu’on orna de brocart de Roum ; on fit venir des mets et des musiciens.
 
