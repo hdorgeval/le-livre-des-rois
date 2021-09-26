@@ -38,7 +38,7 @@ Maintenant voici cet homme qui vient le combattre, mais qui ne restera pas longt
 >
 > C’est avec l’épée que les braves accomplissent des hauts faits.
 >
-> Les cavaliers qui sont avec moi à l’aile droite sont tous, corps etlâme,pour le combat et si le roi me le permet, je ne laisserai pas un Iranien en vie ; je clouerai leurs casques sur leurs têtes avec des flè-ches, sans m’inquiéter de leurs fossés ni de leurs Afrasiagb écoutlaecesspa.rolens et rjépondit : Ne te hâte pas, n’agis pas dans la colère.
+> Les cavaliers qui sont avec moi à l’aile droite sont tous, corps et âme, pour le combat et si le roi me le permet, je ne laisserai pas un Iranien en vie ; je clouerai leurs casques sur leurs têtes avec des flè-ches, sans m’inquiéter de leurs fossés ni de leurs Afrasiagb écoutlaecesspa.rolens et rjépondit : Ne te hâte pas, n’agis pas dans la colère.
 >
 > Tout ce que tu dis est vrai et vilvne faut tenir en honneur que la vérité ; mais tu sais que le vaillant Piran n’a foulé sur la terre que la route du bien ; son cœur ne connaissait pas l’injustice et le mensonge ; il ne cherchait que ce qui était bon et vrai ; il était fort comme un éléphant au jour du combat ; son cœur était comme la mer et sa joue comme le soleil brillant.
 >
@@ -58,16 +58,18 @@ Peschcng lui répondit :
 
 > Ô roi !
 >
-> Si c’est ainsi que .tu veux livrer combat, alors c’est moi qui serai le premier champion de l’armée ; car je sais lancer mon cheval, je suis un éléphant au corps d’airain, je ne connais personne qui osât, au jour du combat, soulever une poussière que le vent ferait voler jusque sur mon cheval.
+> Si c’est ainsi que tu veux livrer combat, alors c’est moi qui serai le premier champion de l’armée ; car je sais lancer mon cheval, je suis un éléphant au corps d’airain, je ne connais personne qui osât, au jour du combat, soulever une poussière que le vent ferait voler jusque sur mon cheval.
 >
-> Je brûle de combattre Keï Khosrou, car c’est le jeune roi du monde et s’il accepte le défi, comme je n’en doute pas, il ne sortira pas vivant de mes mains ; alors le cœur et le dos de cette armée seront brisés et elle sera réduite à a l’impuissance ; et si un autre champion vient les sccourir, j’abaisserai sur-le-champ sa tête dans la poussière. »
+> Je brûle de combattre Keï Khosrou, car c’est le jeune roi du monde et s’il accepte le défi, comme je n’en doute pas, il ne sortira pas vivant de mes mains ; alors le cœur et le dos de cette armée seront brisés et elle sera réduite à a l’impuissance ; et si un autre champion vient les secourir, j’abaisserai sur-le-champ sa tête dans la poussière. »
 
 A’frasiab répondit :
 
-> Ô jeune homme sans expériencel c’est moi que le roi des rois voudra combattre et s’il le fait, j’accepterai la lutte et je foulerai sous mes pieds son corps et sa gloire ; s’il se présente sur le champ de bataille en face de moi, toute l’armée pourra se reposer de ses combats. »
+> Ô jeune homme sans expérience ! 
+>
+>C’est moi que le roi des rois voudra combattre et s’il le fait, j’accepterai la lutte et je foulerai sous mes pieds son corps et sa gloire ; s’il se présente sur le champ de bataille en face de moi, toute l’armée pourra se reposer de ses combats. »
 
 Schideh lui dit :
 
-> Ô homme plein d’expcL rience !
+> Ô homme plein d’expérience !
 >
 > Si Khosrou vient t’attaquer, songe que cinq fils se tiennent devant toi et que nous ne resterons pas spectateurs oisifs, quand même tu voudrais accepter le combat ; car ni l’armée ni ; les adorateurs de Dieu n’approuveraient que tu te misses en avant pour te mesurer avec lui. »
