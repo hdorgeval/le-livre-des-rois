@@ -38,7 +38,7 @@ order: '003'
 
 Rustem envoya aussitôt à Saad un messager rapide comme l’éclair et la foudre.
 
-Il lit écrire sur du satin blanc une lettre brillante comme le soleil ; elle portait cette suscription :
+Il fit écrire sur du satin blanc une lettre brillante comme le soleil ; elle portait cette suscription :
 
 > De la part du fils de Schah Hormuzd, du Pehlewan du monde, Rustem le magnanime, à Saad, fils de Wakhas, qui recherche la guerre et court à sa perte. »
 
