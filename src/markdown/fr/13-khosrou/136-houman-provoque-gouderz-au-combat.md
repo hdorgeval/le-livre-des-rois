@@ -55,7 +55,7 @@ Gouderz lui dit :
 >
 > Tu es l’homme qui dit qu’au jour du combat il couvrira avec son épée la montagne jaunâtre de tulipes de sang ; viens donc t’essayer contre moi sur ce champ de bataille et venge-toi de moi avec la lourde massue.
 >
-> Tu as un grand nombre de fils et de héros illustres, tous ceints pour nous combattre : appellesenun pour qu’il me tienne tête ; si tu es d’humeur si guerrière, pourquoi hésites-tu ? »
+> Tu as un grand nombre de fils et de héros illustres, tous ceints pour nous combattre : appelles-en un pour qu’il me tienne tête ; si tu es d’humeur si guerrière, pourquoi hésites-tu ? »
 
 Le Pehlewan réfléchit longtemps et se dit :
 
@@ -65,7 +65,7 @@ Le Pehlewan réfléchit longtemps et se dit :
 >
 > Et s’il périssait un des grands de mon armée, ma gloire en souffrirait ; le cœur manquerait aux héros dans le combat et dorénavant ils n’oseraient lever la main dans la lutte.
 >
-> Il vaut donc mieux ne pas le combattre et ne pas lui couper le chemin par une embuscade ; car j’espère qu’ils se fatigueront à attendre, et qu’à la fin ils voudront en venir aux mains et feront sortir leur armée de ces passes étroites. »
+> Il vaut donc mieux ne pas le combattre et ne pas lui couper le chemin par une embuscade ; car j’espère qu’ils se fatigueront à attendre et qu’à la fin ils voudront en venir aux mains et feront sortir leur armée de ces passes étroites. »
 
 Il répondit à Houman :
 
@@ -81,17 +81,17 @@ Il répondit à Houman :
 >
 > Il faut faire avancer toute votre armée et frapper en masse.
 >
-> Retourne maintenant à ton camp ; porte’haut la tête devant ton chef ; dis-lui que tu as provoqué les Iraniens, mais qu’ils n’ont fait que soupirer :
-
-> alors ton nom deviendra grand dans votre camp et Piran satisfera tous tes vœux. »
+> Retourne maintenant à ton camp ; porte haut la tête devant ton chef ; dis-lui que tu as provoqué les Iraniens, mais qu’ils n’ont fait que soupirer !
+>
+> Alors ton nom deviendra grand dans votre camp et Piran satisfera tous tes vœux. »
 
 Houman répondit d’une voix terrible :
 
 > Qui sont donc vos héros et les chefs de votre armée ?
 >
 > Le roi, maître du monde a dit un mot dont il me souvient sur ce champ de bataille :
-
-> Si tu es tenté de t’emparer du trône des rois, résiste à la tentation ; mais si tu persistes, alors ne détourne pas le visage de devant la flamme.
+>
+> > Si tu es tenté de t’emparer du trône des rois, résiste à la tentation ; mais si tu persistes, alors ne détourne pas le visage de devant la flamme.
 >
 > Tu n’as pas envie de combattre ; mais on ne peut cueillir des roses sans rencontrer des épines.
 >
