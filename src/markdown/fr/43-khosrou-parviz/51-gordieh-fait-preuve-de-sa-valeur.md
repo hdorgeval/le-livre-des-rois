@@ -24,8 +24,8 @@ Deux semaines étaient passées, lorsque le roi dit à Gordieh :
 Elle répondit :
 
 > Ô roi, puisses-tu être heureux, puisses la vue servir de nourriture aux âmes !
-
-Ordonne qu’on amène un cheval, qu’on apporte une selle, un arc et un lacet de combat, une lance, un casque, une cotte de mailles et un carquois rempli de flèches de bois de peuplier. »
+>
+> Ordonne qu’on amène un cheval, qu’on apporte une selle, un arc et un lacet de combat, une lance, un casque, une cotte de mailles et un carquois rempli de flèches de bois de peuplier. »
 
 Le roi ordonna à un serviteur de préparer une place dans le jardin, au parterre de roses.
 
@@ -36,8 +36,10 @@ Les esclaves au cœur éveillé, les servantes turques et roumies, les belles du
 Gordieh se leva de son siège, alla à pied, la ceinture serrée, une lance en main, jusqu’auprès du roi, demanda à un esclave une cotte de mailles et un casque de Roum et dit au maître du monde :
 
 > Donne-moi ta permission et puis regarde.
+>
+> Puisses-tu rester loin de tout mal ! »
 
-Puisses-tu rester loin de tout mal ! » Le roi ordonna à cette femme vaillante d’aller vers son cheval noir ; elle plaça le bout de sa lance sur le sol et sauta en selle rapidement comme le vent ; elle choisit un champ clos dans le jardin et y fit des évolutions étonnantes, s’élançant à gauche et à droite, voltigeant et poussant des cris qui perçaient les nuages noirs.
+Le roi ordonna à cette femme vaillante d’aller vers son cheval noir ; elle plaça le bout de sa lance sur le sol et sauta en selle rapidement comme le vent ; elle choisit un champ clos dans le jardin et y fit des évolutions étonnantes, s’élançant à gauche et à droite, voltigeant et poussant des cris qui perçaient les nuages noirs.
 
 Elle dit au roi :
 
@@ -65,7 +67,9 @@ Elle répondit :
 
 Le roi resta confondu de sa haute taille, de ses bras et de ses épaules ; il lui dit :
 
-> Ô toi qui es sans inquiétude sur la rotation du sort ! Nous allons voir si devant une coupe de vin, tu es faible ou ferme sur tes pieds.
+> Ô toi qui es sans inquiétude sur la rotation du sort !
+>
+> Nous allons voir si devant une coupe de vin, tu es faible ou ferme sur tes pieds.
 >
 > J’ai sur la surface du monde quatre chefs d’armée qui sont les gardiens de ma vie et chacun d’eux est à la tête de douze mille vaillants cavaliers iraniens ; de même, dans les appartements dorés de mes femmes et dans mon palais incrusté de pierreries, il y a douze mille serviteurs, tous portant des colliers et des boucles d’oreilles.
 >
