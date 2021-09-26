@@ -19,7 +19,7 @@ order: '142'
 
 Lorsque Afrasiab apprit la fuite de Khosrou, la lumière du soleil s’obscurcit devant ses yeux.
 
-Il lit sonner les trompettes d’airain, rassembla son armée et sortit de son palais brûlant de rage.
+Il fit sonner les trompettes d’airain, rassembla son armée et sortit de son palais brûlant de rage.
 
 Il fit chaque jour deux journées de marche, il avança en grande hâte, il vola comme la flèche que lance l’arc.
 
@@ -33,7 +33,9 @@ Il demanda :
 >
 > Aucun de mes guerriers n’a su qu’une si grande armée eût passé la frontière.
 >
-> Qui a pu indiquer à ce fils de Div qu’il y avait ici un enfant de Siawusch ? Oh !
+> Qui a pu indiquer à ce fils de Div qu’il y avait ici un enfant de Siawusch ?
+>
+> Oh !
 >
 > Que n’ai-je donné à cet enfant la terre pour nourrice !
 >
