@@ -45,11 +45,15 @@ export const TagDescription: React.FC<TagDescriptionProps> = ({ tag }) => {
       {markdownNodes.map((node) => {
         const firstHeading = node.headings[0].value;
         const htmlWithoutFirstHeading = node.html.replace(`<h1>${firstHeading}</h1>`, '');
+        const htmlWithBootstrapedTable = htmlWithoutFirstHeading.replace(
+          '<table>',
+          '<table class="table table-dark table-striped w-100">',
+        );
         return (
           <div key={node.id}>
             <div
               id="episode-content"
-              dangerouslySetInnerHTML={{ __html: htmlWithoutFirstHeading }}
+              dangerouslySetInnerHTML={{ __html: htmlWithBootstrapedTable }}
             />
             {node.frontmatter.geo_data && (
               <>
