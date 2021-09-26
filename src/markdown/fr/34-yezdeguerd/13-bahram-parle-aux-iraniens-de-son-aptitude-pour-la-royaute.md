@@ -36,7 +36,7 @@ Bahram dit :
 >
 > Grâces soient rendues à Dieu, qui m’a donné de l’intelligence et qui a nourri mon esprit avec de la raison !
 >
-> Je demande à Dieu qu’il soit maintenant mon guide pour le bien, afin que je puisse e’fl’acer le péché de tout le mal que le roi a fait aux hommes.
+> Je demande à Dieu qu’il soit maintenant mon guide pour le bien, afin que je puisse effacer le péché de tout le mal que le roi a fait aux hommes.
 >
 > Recherchons tous la tranquillité et la justice ; je serai le pâtre et vous serez le troupeau.
 >
