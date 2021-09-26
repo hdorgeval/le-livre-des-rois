@@ -55,13 +55,15 @@ C’était un palais qui avait pris le nom de prison et où la vie était une f�
 
 Quant aux paroles des astrologues sur toi, qui m’ont inspiré la terreur de voir arriver par toi les.
 
-Malheurs actuels, je ne me suis pas dessaisi de cet horoscope, jetl’ai mis sous scellé et j’ai confiéà Schirin le document contenant ces paroles.
+Malheurs actuels, je ne me suis pas dessaisi de cet horoscope, je te l’ai mis sous scellé et j’ai confié à Schirin le document contenant ces paroles.
 
-Lorsque ma royauté eut duré trentesix ans et que sans doute, au milieu de ces jours heureux, tu ne pensais pas à cet horoscope, quoique ma vie s’écoulât, il arriva pour toi une lettre de l’Inde dont j’eus connaissance.
+Lorsque ma royauté eut duré trente-six ans et que sans doute, au milieu de ces jours heureux, tu ne pensais pas à cet horoscope, quoique ma vie s’écoulât, il arriva pour toi une lettre de l’Inde dont j’eus connaissance.
 
-On m’apporte une lettre du plus grand des Radjas, avec des joyaux et des étoiles de toute espèce, une épée indienne, un éléphant blanc et tout ce que j’aurais pu désirer dans ce monde. ce Outre cette épée, il y avait des brocarts tissés de : et toutes sortes de pierreries non taillées.
+On m’apporte une lettre du plus grand des Radjas, avec des joyaux et des étoiles de toute espèce, une épée indienne, un éléphant blanc et tout ce que j’aurais pu désirer dans ce monde.
 
-Il y avait aussi une lettre,sur satin à ton adresse ; quand j’ai vu cette écriture indienne, j’ai fait appeler un scribe .d’origine indienne, discret, éloquent et observateur.
+Outre cette épée, il y avait des brocarts tissés de : et toutes sortes de pierreries non taillées.
+
+Il y avait aussi une lettre sur satin à ton adresse ; quand j’ai vu cette écriture indienne, j’ai fait appeler un scribe d’origine indienne, discret, éloquent et observateur.
 
 Lorsque l’Hindou eut lu la lettre, ses larmes inondèrent son visage.
 
@@ -71,7 +73,7 @@ On y disait :
 
 Car tu seras le roi maître du monde, lorsque le neuvième du mois d’Ader (septembre) sera arrivé et quand ton père aura régné pendant trente-huit ans ; c’est ainsi que tourneront les astres ; c’est alors que brilleront les temps de bonheur et que tu placeras sur ta tête la couronne royale.
 
-Ces paroles se scat vérifiées pour moi aujourd’hui, mais il ne faut p que le cœur renonce à sa tendresse.
+Ces paroles se sont vérifiées pour moi aujourd’hui, mais il ne faut p que le cœur renonce à sa tendresse.
 
 Je savais bien que ta fortune, ton élévation et la splendeur de ton trône ne m’apporteraient que des chagrins et de la douleur et que mes jours brillants seraient obscurcis ; mais, par générosité, par esprit de religion et de famille et par tendresse, je n’ai pas cédé à la colère à cause de cette lettre.
 
@@ -103,10 +105,9 @@ Pour tout homme que tu ne vois commettre que des méfaits qu’y a-t-il de mieux
 
 Ensuite, quant aux richesses dont tu me parles, tu n’as pas fait preuve d’intelligence et tu as caché ton bon sens.
 
-Je n’ai demandé à personne que les tributs et les redevances exigibles ; et si quelqu’un, après les avoir payés’, restait riche et puissant, alors même que tout le mondeme disait que c’était un ennemi, un méchant et de la race d’Ahriman, je laissais passer aVec dédain ces paroles, car je pensais aux ordres de Dieu.
+Je n’ai demandé à personne que les tributs et les redevances exigibles ; et si quelqu’un, après les avoir payés’, restait riche et puissant, alors même que tout le monde me disait que c’était un ennemi, un méchant et de la race d’Ahriman, je laissais passer avec dédain ces paroles, car je pensais aux ordres de Dieu.
 
-C’est de Dieu
-. que javais reçu cette couronne et ce trône qui m’ont causé tant de peines.
+C’est de Dieu que javais reçu cette couronne et ce trône qui m’ont causé tant de peines.
 
 Le Créateur du monde, le maître de la justice et de la droiture, a voulu que mon sort changeât, je ne me plains pas de sa volonté et je ne demande pas à m’agrandir quand il me diminue.
 
@@ -120,7 +121,7 @@ Ils ne sont que les esclaves de l’or et de l’argent et tu ne trouveras pas p
 
 Ils remplissent ton cœur d’une corruption qui est comme un filtre de mes péchés (en comparaison de laquelle mes fautes sont comme épurées) ; mais ton intelligence ne pourra comprendre mes paroles et l’âme des malfaiteurs qui t’entourent ne les goûtera pas.
 
-Néanmoins cette lettre en pehlewi sera un souvenir de moi en face de mes ennemis qui la liront, elle sera une consolation pour les hommes de sens et tous ceux qui, après ma mort, liront ces paroles, connaîtront les plans que j’ai poursuivis.
+Néanmoins, cette lettre en pehlewi sera un souvenir de moi en face de mes ennemis qui la liront, elle sera une consolation pour les hommes de sens et tous ceux qui, après ma mort, liront ces paroles, connaîtront les plans que j’ai poursuivis.
 
 J’ai amené des armées de Berthas et de la Chine, j’ai établi partout mes Sipehdars, j’ai envahi les pays de mes ennemis et personne n’osait plus lever la tête.
 
@@ -142,13 +143,13 @@ Que de présents et de tributs de tous pays, de chaque grand et de chaque prince
 
 Que d’offrandes coutumières aux fêtes du nouvel an et de l’automne, que de chevaux et d’esclaves au beau visage !
 
-Que de cuirasses et de casques, que de massues et d’épe’es furent distribuées librement et à tous !
+Que de cuirasses et de casques, que de massues et d’épées furent distribuées librement et à tous !
 
 Que de musc et de camphre, que de fourrures de castor, d’hermine noire et blanche et de martre brune !
 
 Quiconque était mon sujet chargeait ses chameaux des objets de ce genre et accourait à ma cour ; personne n’osait se soustraire à mes volontés.
 
-J’ai travaillé longtemps et de toute manière pour remplir ainsi un trésor ; j’ai souvent discuté sur le nom à lui donner, à la fin je l’ai appelé Badaver ; un autre de mes trésors est le Khazrâ, un autre le trésor de la fiancée, que j’ai fondé pour les jours de malheur.
+J’ai travaillé longtemps et de toute manière pour remplir ainsi un trésor ; j’ai souvent discuté sur le nom à lui donner, à la fin, je l’ai appelé Badaver ; un autre de mes trésors est le Khazrâ, un autre le trésor de la fiancée, que j’ai fondé pour les jours de malheur.
 
 C’est ainsi que depuis la vingt-sixième année de mon règne jusqu’à la trente-huitième, le ciel n’a tourné que selon mes désirs ; tous les grands jouissaient de la sécurité, tous mes ennemis tremblaient.
 
@@ -194,7 +195,7 @@ Or l’Iran est comme un jardin au gai printemps, où fleurissent toujours les r
 
 C’est l’armée et les armes qui en sont les murs et les lances sur les créneaux en sont les épines ; or si tu abats follement le mur du jardin, quelle différence y a-t-il entre un jardin et le désert, ou la mer ou la montagne ?
 
-Prends donc garde de ne pas détruire ton mur ni de briser le cœur et le dos des Iraniens, car alors viendraient le pillage et les incursions, les cris des cavaliers et les vengeances ; ne jette pas dans les dangers les femmes,les enfants et l’Iran, car lorsqu’une année aura passé ainsi sur toi. il n’y aura que les fous qui t’appelleront sage.
+Prends donc garde de ne pas détruire ton mur ni de briser le cœur et le dos des Iraniens, car alors viendraient le pillage et les incursions, les cris des cavaliers et les vengeances ; ne jette pas dans les dangers les femmes, les enfants et l’Iran, car lorsqu’une année aura passé ainsi sur toi, il n’y aura que les fous qui t’appelleront sage.
 
 J’entends dire que tu confies de grands emplois à des hommes qui ne les méritent pas.
 
@@ -204,7 +205,7 @@ Sache que Nouschirwan, fils de Kobad, a dit dans son testament :
 
 Ensuite, en parlant du Kaïsar, tu m’appelles un traître et un égoïste.
 
-Tu ne peux pas te rappeler cette histoire et tes paroles n’expriment que ce qu’on t’a enseigné, que c’est lui qui a été loyal et que moi j’ai été injuste, car comment pourraistu par toi-même distinguer entre la loyauté et l’injustice ?
+Tu ne peux pas te rappeler cette histoire et tes paroles n’expriment que ce qu’on t’a enseigné, que c’est lui qui a été loyal et que moi j’ai été injuste, car comment pourrais-tu par toi-même distinguer entre la loyauté et l’injustice ?
 
 Voici ma réponse, ô homme de peu de sens !
 
@@ -218,13 +219,13 @@ Quiconque ne foule pas la terre en mauvaises intentions, quiconque a de l’inte
 
 Les Iraniens ont entepflu ce qui s’est passé alors et tu dois l’entendre d’eux à ton tour.
 
-Quant à moi. ce que je devais faire envers Neïathous au jour du combat, je l’ai fait avec bonté et avec humanité et je lui ai compté ce jour dans les récompenses, comme Farrukhzad peut te l’attester ; mais il ne faut pas regarder le monde avec les yeux d’un jeune homme.
+Quant à moi, ce que je devais faire envers Neïathous au jour du combat, je l’ai fait avec bonté et avec humanité et je lui ai compté ce jour dans les récompenses, comme Farrukhzad peut te l’attester ; mais il ne faut pas regarder le monde avec les yeux d’un jeune homme.
 
 Guschasp, qui a été mon trésorier et le saint Mobed qui a été mon Destour te diront de même que j’ai donné à ces Roumis en souvenir de moi trois mille caisses d’or de mon trésor ; j’ai donné à Neïathous mille boules de rubis, propres à entrer dans des boucles d’oreilles et dont chacune valait, selon mes comptes, mille mithltals royaux.
 
 J’ai ajouté à cela mille robes de brocart de Chine, dont cinq étaient en drap d’or brodé de pierreries et pour chacune desquelles l’acheteur le plus prudent aurait payé cent mille dirhems ; puis cent perles de belle eau, auxquelles un connaisseur n’aurait pas trouvé de défaut et qu’un joaillier aurait payées trente mille dirhems chacune ; enfin cent chevaux magnifiques, choisis dans mes écuries et dont cinquante portaient des selles et tous les autres des housses de brocart, des chevaux qui, dans le désert, rivalisaient avec le vent ; j’ai envoyé tout cela au Kaïsar et j’ai accompagné ces présents de mes bénédictions.
 
-Ensuite tu parles de la croix du Messie, de ce vieux morceau de bois déposé dans mon trésor, qui ne me servait ni ne nuisait et dont les Chrétiens ont fait du bruit.auprès de toi.
+Ensuite tu parles de la croix du Messie, de ce vieux morceau de bois déposé dans mon trésor, qui ne me servait ni ne nuisait et dont les Chrétiens ont fait du bruit auprès de toi.
 
 J’ai été étonné qu’un homme comme le Kaïsar, un homme fier et vaillant et entouré de gens intelligents, tous philosophes et Mobeds, appelle Dieu cet homme qui a été mis à mort, ou ce morceau de bois sec et pourri.
 
@@ -241,9 +242,9 @@ la lui ai rendue et je ne sais pas pourquoi tu as une langue dans ta bouche.
 
 Je le déclare à Dieu et non pas à un enfant qui ne distingue pas entre le bien et le mal : j’ai toujours approuvé ce que Dieu a fait, quoique j’aie vu bien des jours de détresse et d’amertume.
 
-J’ai gardé la royauté pendant trente-huit ans et .aucun roi n’a été mon égal : celui qui me l’a donnée peut me donner autre et chose, mais il ne m’imposera pas d’actions de grâce pour cela.
+J’ai gardé la royauté pendant trente-huit ans et aucun roi n’a été mon égal : celui qui me l’a donnée peut me donner autre et chose, mais il ne m’imposera pas d’actions de grâce pour cela.
 
-Je célèbre la gdoire de cette royauté ; puisse le monde être heureux sous le règne d’un monarque sage !
+Je célèbre la gloire de cette royauté ; puisse le monde être heureux sous le règne d’un monarque sage !
 
 Puisque Dieu est mon soutien et !
 
@@ -255,7 +256,7 @@ Et vous, ses envoyés respectés, vous Perses éloquents et nobles, je prends au
 
 Je bénis le monde entier, que je n’ai jamais regardé que comme un lieu de passage.
 
-Quiconque est né d’une mère mourra et quand tu bois à la santé de quelqu’un, penseà Khosrou.
+Quiconque est né d’une mère mourra et quand tu bois à la santé de quelqu’un, pense à Khosrou.
 
 Houscheng et Thahmouras, qui remplissaient la terre de crainte et d’espérance, sont morts et leemschid, auquel obéissaient les Divs et les bêtes fauves, a vu finir sa longue vie.
 
@@ -263,15 +264,15 @@ Le glorieux !
 
 Feridoun, qui a délivré le monde du mal apparent et secret, qui a lié les mains du malfaisant Zohak l’Arabe, n’a pu échapper par sa bravoure à la griffe de la mort.
 
-Arisch, qui lançait une flèche à la distance d’un farsang ; Karen, le héros victorieux, le vainqueur des lions ; Keïkobad, qui sortant du mont Albourz se rendit par sa bravoure maître du monde avecson armée, lui qui a construit une maison en miroirs, une maison célèbre dans le monde, tout ornée de figures en perles de belle eau et dont la porte était en rubis brillants ; Siawnsch, ce lion glorieux qui, dans ses jours de jeunesse, a tué deux tigres, qui a rendu Guengdiz habitable, mais avec tant de peine, avec une peine entièrement perdue;fiils sont tous morts.
+Arisch, qui lançait une flèche à la distance d’un farsang ; Karen, le héros victorieux, le vainqueur des lions ; Keïkobad, qui sortant du mont Albourz se rendit par sa bravoure maître du monde avec son armée, lui qui a construit une maison en miroirs, une maison célèbre dans le monde, tout ornée de figures en perles de belle eau et dont la porte était en rubis brillants ; Siawusch, ce lion glorieux qui, dans ses jours de jeunesse, a tué deux tigres, qui a rendu Guengdiz habitable, mais avec tant de peine, avec une peine entièrement perdue;fiils sont tous morts.
 
 Où sont Rustem, Zal et Isfendiar ?
 
 Il ne reste d’eux d’autre souvenir que mes paroles.
 
-Gouderz et ses soixantedix fils illustres, cavaliers sur le Meïdan et lions dans le combat ; Guschtasp, le roi qui a adopté la vraie loi et règne glorieusement ; Djamasp, l’astronome plus brillant que le soleil qui tourne ; ces hommes puissants et savants, ces cavaliers vaillants et lettrés qui étaient plus méritants les uns que les autres et se disputaient la palme de la vieillesse, ils ont tous quitté ce monde immense, ils ont abandonné leurs salles d’audience, leurs Meïdans et leurs palais.
+Gouderz et ses soixante-dix fils illustres, cavaliers sur le Meïdan et lions dans le combat ; Guschtasp, le roi qui a adopté la vraie loi et règne glorieusement ; Djamasp, l’astronome plus brillant que le soleil qui tourne ; ces hommes puissants et savants, ces cavaliers vaillants et lettrés qui étaient plus méritants les uns que les autres et se disputaient la palme de la vieillesse, ils ont tous quitté ce monde immense, ils ont abandonné leurs salles d’audience, leurs Meïdans et leurs palais.
 
-Je n’ai pas en de pareil parmi les rois, quoique . je n’aie pas atteint l’âge de quelques-uns.
+Je n’ai pas en de pareil parmi les rois, quoique je n’aie pas atteint l’âge de quelques-uns.
 
 J’ai foulé la terre dans le bonheur et le malheur,je ne me suis jamais laissé accabler par la mauvaise fortune, j’ai passé par bien des routes difficiles, j’ai repoussé de mon chemin bien des ennemis.
 
@@ -285,7 +286,7 @@ Le repentir rassérénera mon cœur sincère et le sentiment de n’avoir fait d
 
 Quand il faudra passer par le pont de Djinever, il sera tout en rose sous mes pieds.
 
-Les savants, les hommes pleins d’expérience et les sages, tous disent avec raison que lorsque la fortune qui a veillé sur nous touche à son déclin, il faut’s’attendre à voir des terreurs de toute espèce ; insensé serait celui qui voudrait ret : tenir le jour du pouvoir qui s’en va.
+Les savants, les hommes pleins d’expérience et les sages, tous disent avec raison que lorsque la fortune qui a veillé sur nous touche à son déclin, il faut s’attendre à voir des terreurs de toute espèce ; insensé serait celui qui voudrait ret : tenir le jour du pouvoir qui s’en va.
 
 Tel est mon message au monde, aux grands et aux petits ; et vous, acceptez mes adieux, soyez heureux et ne pensez pas à moi en mal.
 
@@ -299,7 +300,7 @@ Ces deux messagers arrivèrent auprès de Schirouï, le visage sillonné de ride
 
 Schirouï les écouta en versant des larmes abondantes et son cœur eut peur de la couronne et du trône.
 
-Lorsque ces hommes qui l’avaient terrifié et avaient brûlé le foie de (épouvanté) ce jeune homme par leurs paroles injurieuses et leur trainte de le voir verser le sang de son père, furent partis, Kobad descendit du trône royal et plaça sa tête dans ses deux nobles mains.
+Lorsque ces hommes qui l’avaient terrifié et avaient brûlé le foie de (épouvanté) ce jeune homme par leurs paroles injurieuses et leur crainte de le voir verser le sang de son père, furent partis, Kobad descendit du trône royal et plaça sa tête dans ses deux nobles mains.
 
 Il s’abstenait de manger, il ne pouvait dormir d’inquiétude ; l’angoisse que lui inspirait Khosrou remplissait de larmes ses deux yeux et le sang coulait de ses cils sur sa poitrine.
 
@@ -313,8 +314,7 @@ Schirouï le sut et monta sur son trône ; les tiers héros, tant de sa famille 
 
 Schirouï comprit pourquoi ces hommes, assis avec un maintien si sombre, étaient soucieux et chagrins ; : il leur dit :
 
-> Un roi qui a pour soutien Dieu, le nourricier du monde et qui ne serait pas ému des peines dont soutire son père, je ne pourrais l’apce. peler qu’un homme méchant et sans honneur, et
--personne ne voudrait mettre en lui son espoir, car il serait plus pourri qu’un morceau de bois de saule pourri. »
+> Un roi qui a pour soutien Dieu, le nourricier du monde et qui ne serait pas ému des peines dont soutire son père, je ne pourrais l’appeler qu’un homme méchant et sans honneur, et personne ne voudrait mettre en lui son espoir, car il serait plus pourri qu’un morceau de bois de saule pourri. »
 
 Ces hommes coupables lui répondirent :
 
@@ -322,11 +322,11 @@ Ces hommes coupables lui répondirent :
 
 Schirouï répliqua :
 
-> Le roi ne trouvera pas d’armée, puisqu’iln’a plus de trésors.
+> Le roi ne trouvera pas d’armée, puisqu’il n’a plus de trésors.
 >
 > Parlons-lui doucement pendant un mois encore, ne lui disons rien des moyens de rigueur ; il se peut que nous soyons heureux de recevoir ses instructions, car ce pays est rempli de trésors qu’il peut nous indiquer. »
 
-Ayant reçu cette réponse, les chçfi de l’armée se levèrent et s’en retournèrent à leurs palais.
+Ayant reçu cette réponse, les chefs de l’armée se levèrent et s’en retournèrent à leurs palais.
 
 Le roi Schirouï dit alors à ses cuisiniers :
 
