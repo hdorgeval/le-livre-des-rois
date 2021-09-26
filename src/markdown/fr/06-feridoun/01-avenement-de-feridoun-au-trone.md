@@ -20,6 +20,7 @@ tags:
     'Firanek',
     'Kous',
     'Mihrgan',
+    'Mihr,
     'Temmischeh',
     'Zohak',
   ]
@@ -32,7 +33,7 @@ order: '001'
 
 Feridoun, lorsqu’il se vit le maître fortuné du monde et qu’il ne connut plus d’autre roi que lui-même, prépara le trône et la couronne dans le palais impérial, selon l’usage des rois.
 
-Dans un jour heureux, le premier du mois de mihr, il posa sur sa tête le diadème royal.
+Dans un jour heureux, le premier du mois de Mihr, il posa sur sa tête le diadème royal.
 
 Le monde était délivré de toute crainte du mal, tous suivaient la voie de Dieu ; ils éloignèrent de leurs cœurs toute contestation et instituèrent solennellement une fête.
 
@@ -44,7 +45,7 @@ Feridoun ordonna d’allumer un feu et tous y brûlèrent de l’ambre et du saf
 
 C’est lui qui a institué la fête Mihrgan et l’usage de s’y reposer et de s’asseoir au banquet vient de lui.
 
-Aujourd’hui encore le mois de mihr rappelle son souvenir.
+Aujourd’hui encore le mois de Mihr rappelle son souvenir.
 
 N’y montre pas un visage soucieux et triste.
 
