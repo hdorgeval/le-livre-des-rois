@@ -1,5 +1,5 @@
 ---
-lastUpdate: '2021-08-13'
+lastUpdate: '2021-09-07'
 lang: 'fr'
 status: 'draft'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
@@ -39,9 +39,7 @@ Guraz, pour lequel Khosrou Parviz avait eu une ardente amitié, apprit ces nouve
 >
 > Et maintenant j’arrive avec une grande armée, avec des chefs choisis dans le Roum et l’Iran ; nous verrons qui est ce ce maître de l’empire qui nourrit de pareils projets ; j’arracherai ses racines les plus profondes et il ne sera plus question pour lui de royauté. »
 
-Après
-
-Avoir expédié en toute hâte le messager rapide qui devait se rendre auprès des vieux chefs de l’armée d’Iran, il exécuta un autre dessein coupable en écrivant à Pirouz, fils de Khosrou, une lettre ainsi conçue :
+Après avoir expédié en toute hâte le messager rapide qui devait se rendre auprès des vieux chefs de l’armée d’Iran, il exécuta un autre dessein coupable en écrivant à Pirouz, fils de Khosrou, une lettre ainsi conçue :
 
 > Le trône du Roi des rois est obscurci et il faut qu’un chef ambitieux prenne les armes.
 >
