@@ -23,7 +23,7 @@ Il donna à Bahram le commandement de ses troupes et éleva jusqu’aux nues sa 
 
 Le Sipehbed se présenta devant le roi dans son armure de combat et lui dit :
 
-> Le roi me permet-il que je passe une revue pour connaître le nombre de : hommes et pour voir qui, parmi eux, est propre à la guerre ou qui se fera attendre au moment ou il s’agira d’acquérir de la gloire ? »
+> Le roi me permet-il que je passe une revue pour connaître le nombre de : hommes et pour voir qui, parmi eux, est propre à la guerre ou qui se fera attendre au moment où il s’agira d’acquérir de la gloire ? »
 
 Le roi lui dit :
 
@@ -44,12 +44,12 @@ Enfin, derrière l’armée devait se placer Nerda Guschasp, homme qui du haut d
 Ensuite le Pehlewan dit à l’armée :
 
 > Ô hommes illustres, à l’esprit clairvoyant !
-
-Si vous voulez que Dieu vienne à votre aide et qu’il dissipe les ténèbres de votre position, n’opprimez personne, ne causez pas de dommage, ne vous servez jamais de vos armes pour faire du mal.
-
-Lorsque le bruit des trompettes résonne dans la nuit sombre, levez-vous à l’instant et dirigez vos destriers de manière à remplir de terreur les ténèbres.
-
-Dès qu’il s’agit de combattre, il faut que ni les chevaux ni les hommes ne pensent à l’étendue de leurs forces ni au besoin de repos. »
+>
+> Si vous voulez que Dieu vienne à votre aide et qu’il dissipe les ténèbres de votre position, n’opprimez personne, ne causez pas de dommage, ne vous servez jamais de vos armes pour faire du mal.
+>
+> Lorsque le bruit des trompettes résonne dans la nuit sombre, levez-vous à l’instant et dirigez vos destriers de manière à remplir de terreur les ténèbres.
+>
+> Dès qu’il s’agit de combattre, il faut que ni les chevaux ni les hommes ne pensent à l’étendue de leurs forces ni au besoin de repos. »
 
 Lorsque le roi apprit comment Bahram préparait tout avec intelligence, il fut heureux de ses discours et de ses actes ; il ouvrit son trésor et paya la solde ; il remit de même à Bahram ses magasins d’agmes et en ouvrit les portes ; il fit venir en ville quelques troupeaux de chevaux de guerre qu’il avait sur les pâturages et ordonna au Pehlewan de lui demander tout ce qu’il fallait.
 
