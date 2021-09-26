@@ -1776,6 +1776,9 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ cou-leur /g, ' couleur '),
     (content: string) => content.replace(/0n /g, 'On '),
     (content: string) => content.replace(/ cœurde /g, ' cœur de '),
+    (content: string) => content.replace(/\.ll /g, '. Il '),
+    (content: string) => content.replace(/ s’alIligea /g, ' s’affligea '),
+    (content: string) => content.replace(/ aflligé/g, ' affligé'),
   ].forEach((format) => {
     result = format(result);
   });
