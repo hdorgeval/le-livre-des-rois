@@ -61,7 +61,7 @@ Il appela les grands de tous les pays et leur parla longuement de ce trône.
 
 Il en reçut d’eux beaucoup de fragments et se mit joyeusement à l’œuvre pour les rassembler.
 
-Il lit apporter le trône du roi Ardeschir,.
+Il fit apporter le trône du roi Ardeschir.
 
 Il amena tous les hommes ingénieux de l’Iran et ils reconstruisirent, pendant le règne du roi à la fortune victorieuse, ce trône magnifique.
 
@@ -69,19 +69,19 @@ Il arriva des charpentiers du Roum et de la Chine, du Mekrau, de Baghdad et du p
 
 Le roi leur ordonna de ne jamais s’arrêter pour pouvoir achever l’œuvre en deux ans et lorsqu’ils eurent reconstruit ce trône élevé, la face de la fortune du puissant roi devint brillante.
 
-Mesuré en empans, il avait cent empans de roi en hauteur et encore soixante et dix en sus ; la largeur en était de cent vingt empans, car il était moins largekque haut, chaque empans de roi valant cinq empans ordinaires, la hauteur du trône était telle qu’il se heurtait contre le ciel.
+Mesuré en empans, il avait cent empans de roi en hauteur et encore soixante et dix en sus ; la largeur en était de cent vingt empans, car il était moins large que haut, chaque empans de roi valant cinq empans ordinaires, la hauteur du trône était telle qu’il se heurtait contre le ciel.
 
 Chaque matin des trente jours du mois on y posait un tapis différent.
 
-Sur la face du trône étaient cent quarante mille ornements d’or, incrustés de turquoises, tous les clous et les crampons étaient d’argent pur, chacun pesanl soixante-six miskals.
+Sur la face du trône étaient cent quarante mille ornements d’or, incrustés de turquoises, tous les clous et les crampons étaient d’argent pur, chacun pesant soixante-six miskals.
 
-Ce trône était posé de telle façon que son dos se trouvait tourné vers le désert et sa face vers les jardins dans la saison où le soleil plaçait sa lampe dans le signe du bélier ; quand le soleil devenait ardent a dans le règne du Lion, le dos du trône se trouvait encore tourné vers lui ; au mois de juin et à la saison des fruits et des fêtes, le trône était en face des fruits et des jardins, de sorte que le parfum de tous les fruitsy arrivait.
+Ce trône était posé de telle façon que son dos se trouvait tourné vers le désert et sa face vers les jardins dans la saison où le soleil plaçait sa lampe dans le signe du bélier ; quand le soleil devenait ardent a dans le règne du Lion, le dos du trône se trouvait encore tourné vers lui ; au mois de juin et à la saison des fruits et des fêtes, le trône était en face des fruits et des jardins, de sorte que le parfum de tous les fruits y arrivait.
 
 En hiver, quand venait le temps du vent et de la neige, personne ne souffrait sur ce trône, car tout le haut était entouré d’un rideau de fourrures de castor et de zibeline dignes d’un roi.
 
 Les valets de garde-robe faisaient chauffer au feu mille boules d’argent et d’or, dont chacune pesait cinq cents miskals et qui devenaient dans le feu cou-leur de corail.
 
-Il y en avait toujours la moitié sur le feu et l’autre devant les héros qui levaient haut la . tête.
+Il y en avait toujours la moitié sur le feu et l’autre devant les héros qui levaient haut la tête.
 
 On voyait, figurés sur le trône, les douze signes du Zodiaque et les sept planètes et la lune brillante dans les constellations qu’elle traversait et les astronomes y voyaient les étoiles fixes et les étoiles errantes ; ils y voyaient quelle partie de la nuit était passée et combien le ciel avait marché au-dessus de la terre.
 
@@ -93,19 +93,19 @@ La moindre pierre qui y était employée valait au moins soixante et dix pièces
 
 Ensuite, il y avait bien des pierreries rouges dont personne ne savait la valeur, car il y en avait sans fin et elles rendaient lumineuse la nuit au visage sombre et ressemblaient à Vénus brillant au ciel.
 
-Il y avait trois siègea sur les degrés du trône royal,-ils étaient enrichis de pierreries de haut en bas ; de l’un à l’autre, il y avait quatre degrés tout en or et incrustés de pierres fines ; le siège inférieur était appelé Mischsar (tête de bélier), étant tout couvert d’ornements en forme de tête de bélier.
+Il y avait trois sièges sur les degrés du trône royal,-ils étaient enrichis de pierreries de haut en bas ; de l’un à l’autre, il y avait quatre degrés tout en or et incrustés de pierres fines ; le siège inférieur était appelé Mischsar (tête de bélier), étant tout couvert d’ornements en forme de tête de bélier.
 
 On donnait le nom de Ladjwerd (lapis-lazuli ou bleu de ciel) au trône supérieur, parce que le vent et la poussière ne l’atteignaient jamais ; le troisième était tout en turquoises et il charmait les cœurs de tous ceux qui le voyaient.
 
 On faisait asseoir sur le Mischsar des Dihkans et des gens de rang inférieur ; le trône qui représentait la voûte bleue était destiné aux cavaliers intrépides au jour du combat et le siège orné de turquoises était la place du Destour qui était chargé des travaux du gouvernement du roi, et, pour s’asseoir sur ce trône, il fallait être intelligent et dévoué au prince et quand on était arrivé au poste de Destour, conseiller du roi, comment n’aurait-on pas eu sa place tout près de Parviz ?
 
-On y avait tendu une étoffe de drap d’or, longue de cinquantesept empans ; dans tout le tissu de la frange étaient introduites des pierreries retenues et encadrées par des fils d’or.
+On y avait tendu une étoffe de drap d’or, longue de cinquante-sept empans ; dans tout le tissu de la frange étaient introduites des pierreries retenues et encadrées par des fils d’or.
 
 On y voyait l’image du ciel : Mars, Saturne, Jupiter et le Soleil, Vénus, Mercure et la Lune, qui tourne, y prédisaient la bonne et la mauvaise fortune des rois.
 
-Ensuite ou y avait figuré les sept Kischwers de la terre et les grands de la Perse et du Roum ; puis les portraits de quarante-huit Grands rois, .dont on voyait les têtes, les couronnes et les trônes ; leurs couronnes étaient tissées d’or.
+Ensuite ou y avait figuré les sept Kischwers de la terre et les grands de la Perse et du Roum ; puis les portraits de quarante-huit Grands rois, dont on voyait les têtes, les couronnes et les trônes ; leurs couronnes étaient tissées d’or.
 
-Jamais il n’y a eu dans le monde une étoffe pareille ; telle avait été tissée en Chine par un homine sans égal, qui avait employé sept ans à ce travail.
+Jamais il n’y a eu dans le monde une étoffe pareille ; telle avait été tissée en Chine par un homme sans égal, qui avait employé sept ans à ce travail.
 
 Au nouvel au, le jour de Hormuzd du mois Ferwerdin, il se présenta devant le roi d’I-
 ran, apportant cette tapisserie digne d’un Keïanide ; les grands lui firent place et il étala cette étoffe au jour du nouvel an et la joie mit hors de lui le roi tout-puissant.
