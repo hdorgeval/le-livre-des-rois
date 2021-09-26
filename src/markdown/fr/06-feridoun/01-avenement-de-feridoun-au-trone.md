@@ -20,7 +20,7 @@ tags:
     'Firanek',
     'Kous',
     'Mihrgan',
-    'Mihr,
+    'Mihr',
     'Temmischeh',
     'Zohak',
   ]
