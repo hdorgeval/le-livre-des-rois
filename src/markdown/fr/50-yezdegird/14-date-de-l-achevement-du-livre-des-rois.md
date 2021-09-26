@@ -81,3 +81,5 @@ Tout homme intelligent, sage et pieux bénira ma mémoire quand je ne serai plus
 Je répands mille louanges, mille bénédictions sur le Prophète élu de Dieu et j’adresse autant de louanges aux membres de sa famille, par respect pour la religion.
 
 -- FIN --
+
+Le 25 février 1010.
