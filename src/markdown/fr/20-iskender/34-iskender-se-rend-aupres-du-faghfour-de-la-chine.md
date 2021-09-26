@@ -119,7 +119,7 @@ L’orgueilleux Faghfour ouvrit ses trésors ; il n’eut aucun chagrin des larg
 
 Il fit apporter d’abord cinquante couronnes et dix trônes d’ivoire incrustés de pierreries ; il fit charger mille chameaux de vaisselle d’or et d’argent et mille autres de brocarts de Chine et d’étoiles variées de soie, de camphre, d’ambre, de bois d’aloès et d’ambre gris ; car l’homme qui méprise l’argent respire à l’aise.
 
-Il lit apporter des peaux de petitsgris, d’hermines et de zibelines, des bourses de musc et des peaux de belettes brunes, deux mille de chaque espèce et son trésorier intelligent les fit charger ; puis on compta
+Il fit apporter des peaux de petitsgris, d’hermines et de zibelines, des bourses de musc et des peaux de belettes brunes, deux mille de chaque espèce et son trésorier intelligent les fit charger ; puis on compta
 
 Cent selles magnifiques, accompagnées de freins d’argent et cinquante freins d’or ; enfin on amena trois cents chameaux au poil roux, chargés de curiosités -chinoises.
 
