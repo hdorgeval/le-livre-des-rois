@@ -23,15 +23,13 @@ Ensuite, il dit :
 
 > Almsiab se repent d’avoir passé le fleuve.
 >
-> Ses yeux débordent de larmes et ses lèvres sont pleines de paroles ; mais mon cœur est gros d’anciennes douh.
+> Ses yeux débordent de larmes et ses lèvres sont pleines de paroles ; mais mon cœur est gros d’anciennes douleurs.
 >
-> LE LlVIlItii leurs.
->
-> Il essaye maintenant de me faire trembler, de m’ell’rayer par la supériorité de son armée ; mais il ne sait pas que le ciel tout-puissant tourne, au jour du malheur, sans obéir à l’ordre de personne.
+> Il essaye maintenant de me faire trembler, de m’effrayer par la supériorité de son armée ; mais il ne sait pas que le ciel tout-puissant tourne, au jour du malheur, sans obéir à l’ordre de personne.
 >
 > Maintenant, ce qui me reste à faire, c’est de m’avancer contre lui, le cœur rempli de haine.
 >
-> Je me mesurerai avec lui dans le combat, je ne chercherai pas de délai au moment de la luttesn
+> Je me mesurerai avec lui dans le combat, je ne chercherai pas de délai au moment de la luttes. »
 
 Tous les sages et tous les grands de l’armée dirent d’une seule voix :
 
@@ -80,7 +78,7 @@ Quand les Iraniens entendirent ces paroles du roi, ils se repentirent de leur fa
 >
 > Le roi des rois ne cherche qu’une bonne renommée et une heureuse fin à cette entreprise ; mais le glorieux maître du monde, dont la volonté est suprême, ne voudra pas qu’on nous blâme, que l’on dise qu’il n’y avait parmi les Iraniens personne qui eût osé combattre Schideh, qu’aucun cavalier ne s’est présenté sur le champ du combat et que le roi seul avait le courage de le faire.
 >
-> Le roi des Mobeds ne voudra pas nous couvrir d’une honte éternelles.»
+> Le roi des Mobeds ne voudra pas nous couvrir d’une honte éternelle. »
 
 Le roi leur répondit :
 
@@ -102,7 +100,7 @@ Le roi leur répondit :
 
 Les braves et les lions du pays d’Iran accueillirent avec des acclamations ces paroles du roi.
 
-Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schideh cette réponse :
+Le roi ordonna à Karen, son dévoué serviteur, de partir et de porter à Schideh cette réponse :
 
 > La lutte entre nous est ancienne et terrible et ce qui a été fait a dépassé toute mesure.
 >
@@ -110,7 +108,7 @@ Le roi ordonna à Kareu, son dévoué serviteur, de partir et de porter à Schid
 >
 > Maintenant nous verrons à qui le maître du soleil et de la lune sera favorable sur ce champ de bataille.
 >
-> Je ne demande pas le pays de Touran ni les trésors, car -cette demeure passagère ne reste à personne ; mais je jure par la puissance de Dieu qui a créé le monde, par le diadème de Kaous qui m’a élevé, que je ne vous laisserai pas le temps de voir l’âpre vent de l’automne passer sur les roses.
+> Je ne demande pas le pays de Touran ni les trésors, car cette demeure passagère ne reste à personne ; mais je jure par la puissance de Dieu qui a créé le monde, par le diadème de Kaous qui m’a élevé, que je ne vous laisserai pas le temps de voir l’âpre vent de l’automne passer sur les roses.
 >
 > Ensuite tu parles de richesses, de chevaux, d’or accumulé : nous n’avons point besoin de ces trésors qui proviennent de l’oppression et de l’injustice ; car quiconque est soutenu de Dieu sera toujours heureux et la fortune lui sourira toujours.
 >
