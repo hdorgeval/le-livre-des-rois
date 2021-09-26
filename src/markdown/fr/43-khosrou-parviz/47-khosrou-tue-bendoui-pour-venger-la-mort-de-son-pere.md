@@ -1,5 +1,5 @@
 ---
-lastUpdate: '2021-08-16'
+lastUpdate: '2021-09-07'
 lang: 'fr'
 status: 'draft'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
@@ -27,10 +27,10 @@ Un jour il dit à son fidèle Destour :
 >
 > Puisque mon âme est pleine du souvenir du sang de mon père, je ferai acte de roi et qu’est-ce qui peut en arriver ? »
 
-On plaça devant lui la table ; il but beaucoup de vin et ce même jour il fit jeter Bendouî dans les fers.
+On plaça devant lui la table ; il but beaucoup de vin et ce même jour, il fit jeter Bendouî dans les fers.
 
 Puis, il dit à son conseiller :
 
-> (r Qu’on lui coupe à l’instant les pieds et les mains, car, lorsqu’il n’aura plus de mains, il ne prendra plus les armes pour tuer des Keïanides. »
+> Qu’on lui coupe à l’instant les pieds et les mains, car, lorsqu’il n’aura plus de mains, il ne prendra plus les armes pour tuer des Keïanides. »
 
 On lui coupa les pieds et les mains et il mourut sur-le-champ, remettant à Dieu son âme chargée d’un meurtre.
