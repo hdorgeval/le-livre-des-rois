@@ -103,7 +103,7 @@ Rouzbeh lui dit :
 >
 > Si tu as besoind’un homme de la cour pour t’appuyer, je t’en enverrai un ; demande toute chose dont tu auras besoin. »
 
-Ces paroles réjouirent le vieillard ; il fut délivré de ses longs soucis ; il rentra à l’instant dans sa maison et amena des hommes la où il y avait des réservoirs d’eau ; il s’applique à repeupler le pays et à distribuer les champs.
+Ces paroles réjouirent le vieillard ; il fut délivré de ses longs soucis ; il rentra à l’instant dans sa maison et amena des hommes là où il y avait des réservoirs d’eau ; il s’applique à repeupler le pays et à distribuer les champs.
 
 Un demanda aux voisins
 
