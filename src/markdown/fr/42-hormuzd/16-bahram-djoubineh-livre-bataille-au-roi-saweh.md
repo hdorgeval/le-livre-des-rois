@@ -40,7 +40,7 @@ Bahram observa du centre de formée ce qui se passait, il vitses troupes s’enf
 
 Il se porta à son aile droits comme un lion féroce que pousse la faim ; il rompit un grand corps d’arme’e et l’étendard du chef disparut.
 
-De là il se dirigea vers le centre, la où se trouvait le chef de son armée et dit :
+De là il se dirigea vers le centre, là où se trouvait le chef de son armée et dit :
 
 > Maudite soit cette afiairel Si ce combat se prolonge, notre armée sera dispersée ; regardez comment est la route. »
 
