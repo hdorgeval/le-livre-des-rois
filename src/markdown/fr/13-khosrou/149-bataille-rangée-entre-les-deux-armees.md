@@ -30,13 +30,13 @@ Le champ de bataille était tellement jonché de morts dont les têtes étaient 
 La terre était couleur de tulipe, l’air couleur d’indigo ; une mer de sang formait des vagues et les chefs des deux armées se dirent :
 
 > Si l’on ne sépare pas ces héros sur ce champ de la vengeance, il ne restera plus, quand la nuit sombre
-"sera venue, que le ciel qui tourne et Dieu le maître du monde. »
+> "sera venue, que le ciel qui tourne et Dieu le maître du monde. »
 
-Lorsque Piran vit le champ de bataille en cet état, il commanda à Lehhak et à F erschidwerd de réunir toutes les troupes qui leur restaient, tous les cavaliers qui étaient encore capables de manier les armes et de les distribuer en trois corps pour rétablir le combat ; il leur commanda de confier l’arrière-garde aux plus prudents, à ceux qui étaient le mieux en état de défendre l’armée contre l’ennemi, peu-
-(lant qu’eux-mêmes s’avanceraient sur les deux flancs, Lehhak avec son corps tout entier du côté de la montagne et Ferschidwerd du côté du fleuve, où il devait faire monter la poussière jusqu’au-dessus du soleil.
-(les deux grands du Touran se mirent en marche avec leurs troupes avides de vengeance ; mais aussitôt la sentinelle des Iraniens envoya de sa tour un messager au Pehlewan.
+Lorsque Piran vit le champ de bataille en cet état, il commanda à Lehhak et à F erschidwerd de réunir toutes les troupes qui leur restaient, tous les cavaliers qui étaient encore capables de manier les armes et de les distribuer en trois corps pour rétablir le combat ; il leur commanda de confier l’arrière-garde aux plus prudents, à ceux qui étaient le mieux en état de défendre l’armée contre l’ennemi, pendant qu’eux-mêmes s’avanceraient sur les deux flancs, Lehhak avec son corps tout entier du côté de la montagne et Ferschidwerd du côté du fleuve, où il devait faire monter la poussière jusqu’au-dessus du soleil.
 
-Gouderz, le chef de l’armée, était en personne avec ses troupes et observait tous les mouvements de l’ennemi ; et lorsque Lehhak et F erschidwerd firent lever des deux côtés la poussière sur la route par où ils venaient le surprendre, les cavaliers iraniens se jetèrent sur eux et mêlèrent le sang avec la poussière.
+Les deux grands du Touran se mirent en marche avec leurs troupes avides de vengeance ; mais aussitôt la sentinelle des Iraniens envoya de sa tour un messager au Pehlewan.
+
+Gouderz, le chef de l’armée, était en personne avec ses troupes et observait tous les mouvements de l’ennemi ; et lorsque Lehhak et Ferschidwerd firent lever des deux côtés la poussière sur la route par où ils venaient le surprendre, les cavaliers iraniens se jetèrent sur eux et mêlèrent le sang avec la poussière.
 
 De toutes parts arrivèrent des messagers pour porter des nouvelles au Pehlewan.
 
@@ -44,7 +44,7 @@ Gouderz regarda qui d’entre les vaillants héros se trouvait autour de lui et 
 
 Il lui ordonna de se rendre à l’arrière-garde auprès de Guiv fils de Gouderz, l’asile de l’armée et de lui dire d’envoyer deux corps d’armée au secours des troupes qui tenaient les bords du fleuve et la montagne ; il lui ordonna d’ajouter qu’il fallait choisir un vaillant héros pour commander l’arrière-garde, lui remettre le commandement et venir lui-même auprès de Gouderz.
 
-I ü3l Aussitôt que le prudent Hedjir, qui était armé pour le combat, eut entendu ces paroles de son noble père, il courut vers son frère et lui rapporta les paroles du Pehlewan.
+Aussitôt que le prudent Hedjir, qui était armé pour le combat, eut entendu ces paroles de son noble père, il courut vers son frère et lui rapporta les paroles du Pehlewan.
 
 Guiv bondit à cette nouvelle ; il examina tous les guerriers illustres de l’armée et son choix tomba sur Ferhad ; il l’appela auprès de lui et lui confia toutes ses troupes.
 
@@ -52,7 +52,7 @@ Ensuite, il ordonna à Zengueh fils de Schaweran de prendre avec lui deux cents 
 
 Il confia en toute hâte deux cents héros et un drapeau à Gourguin fils de Milad et lui dit :
 
-> Secoue la bride, apprételes massues et les lances au fer luisant.
+> Secoue la bride, apprète les massues et les lances au fer luisant.
 >
 > C’est le moment d’observer l’ennemi et de paraître sur le champ de bataille ; dirige-toi vers Lehhak, ô toi qui cherches le renom et verse par torrents le sang de nos ennemis. »
 
@@ -73,7 +73,7 @@ Ensuite Guiv le cavalier au visage de soleil et plein de fierté se rendit aupr�
 
 Ainsi parla le Pehlewan à son fils ; et le fils, ceint pour le combat, lança à l’instant son cheval de bataille et partit semblable à Aderguschasp.
 
-Il lit appeler tous les cavaliers de l’aile droite et de l’aile gauche : Gourazeh et Gustehem, le Sipehdar Hedjir et Bijen accoururent.
+Il fit appeler tous les cavaliers de l’aile droite et de l’aile gauche : Gourazeh et Gustehem, le Sipehdar Hedjir et Bijen accoururent.
 
 Les héros se dirigèrent sur le centre de l’armée du Touran, semblables à des lions en un jour de chasse et assis sur des chevaux aux pieds de vent et tendant le cou ; ils se jetèrent au milieu de l’armée et assouvirent leur vengeance ; et les Touraniens qui couvraient la plaine, assis sur des chevaux bardés de fer, furent dispersés au premier choc.
 
