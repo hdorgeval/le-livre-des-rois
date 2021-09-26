@@ -21,25 +21,21 @@ Bahram apprit quel sort avait frappé le roi, qu’on avait brûlé ses yeux bri
 
 Le vaillant 7 Bahram en fut confondu ; il pâlit et se livra à ses pensées.
 
-Il lit porter dehors les timbales,-il donna l’ordre de porter dans la plaine le drapeau du pouvoir ; il fit préparer les bagages, monter à cheval ses troupes,revêtitson armure pour combattre Khosrou et son armée, semblable à une montagne mouvante, s’avança jusqu’aux bords du Nahrewan, bravant le roi.
+Il fit porter dehors les timbales,-il donna l’ordre de porter dans la plaine le drapeau du pouvoir ; il fit préparer les bagages, monter à cheval ses troupes,revêtitson armure pour combattre Khosrou et son armée, semblable à une montagne mouvante, s’avança jusqu’aux bords du Nahrewan, bravant le roi.
 
 Lorsque Khosrou eutdes nouvelles de sa marche, il devintiinquiet de ses menées violentes, envoya des émissaires actifs pour observer ce qui se passait et leur dit :
 
 > Avant tout il faut tirer au clair le secret de cette armée, si elle est du même avis que Bainam sur la guerre, ce qui pour nous ferait traîner en longueur cette affaire ; ensuite il l’au-t observer si Bahram, quand il se place au centre de l’armée, se tient en avant ou au milieu des troupes, comment il s’assoit quand il donne audience et s’il se livre à la chasse pendant sa marche. »
 
-Les émissaires partirent de la cour sans que l’armée du roi s’enfût aperçue ; ils partirent, observè-
-rent, revinrent et se rendirent en secret auprès de Khosrou et dirent :
+Les émissaires partirent de la cour sans que l’armée du roi s’en fût aperçue ; ils partirent, observèrent, revinrent et se rendirent en secret auprès de Khosrou et dirent :
 
 > L’armée est en toute chose de son avis, tant les grands que les petits ; pendant qu’il fait marcher les troupes, il est toujours au milieu d’elles ; tantôt il est avec l’aile droite, tantôt avec l’aile gauche, quelquefois auprès des bagages.
 >
 > Il tient en bon ordre tous ses hommes et n’a pas besoin d’étrangers.
 >
-> Quand il donneyaudience, il est
+> Quand il donne audience, il est assis comme les rois et il chasse dans les plaines avec des guépards.
 >
-> S .
-assis comme les rois et il chasse dans les plaines avec des guépards.
->
-> Aucun homme à vue longue et à haute ambition n’est plus illustre ni plus vailtant que lui ; il ne sort jamais des coutumes royales, il fit en entier le livre de Calilah et Dimnah. »
+> Aucun homme à vue longue et à haute ambition n’est plus illustre ni plus vaillant que lui ; il ne sort jamais des coutumes royales, il fit en entier le livre de Calilah et Dimnah. »
 
 Khosrou dit à son Destour :
 
@@ -55,7 +51,7 @@ Khosrou dit à ces grands :
 
 > Ô vous, hommes vaillants et portant haut la tête !
 >
-> Ceux dont le cerveau est plein de lumière sont dél’endus par leur sagesse comme par une cuirasse. que rien ne peut briser, si ce n’est l’épée de la mort dont les coups traversent l’acier du casque comme de la cire.
+> Ceux dont le cerveau est plein de lumière sont défendus par leur sagesse comme par une cuirasse que rien ne peut briser, si ce n’est l’épée de la mort dont les coups traversent l’acier du casque comme de la cire.
 >
 > Je suis votre inférieur en âge et ne puis me charger du gouvernement du monde en raison de ma jeunesse.
 >
@@ -81,12 +77,11 @@ Le roi dit :
 >
 > Les paroles des Mobeds sont des perles, mais j’ai dans le cœur d’autres soucis.
 >
-> Quand les deux armées seront en présence, quand les pointes des lances s’élè-
-veront au-dessus des Gémeaux, ne me blâmera-t-on pas si je sors du centre de l’armée et si je m’avance vers l’ennemi ?
+> Quand les deux armées seront en présence, quand les pointes des lances s’élèveront au-dessus des Gémeaux, ne me blâmera-t-on pas si je sors du centre de l’armée et si je m’avance vers l’ennemi ?
 >
 > Si j’appelle à haute voix Bahram, ce Sipehdar insoumis et de mauvais renom ?
 >
-> Si je luiwmontre un visage de paix ?
+> Si je lui montre un visage de paix ?
 >
 > Si je le reçois bien et si je le couvre de louanges ?
 >
@@ -94,8 +89,7 @@ veront au-dessus des Gémeaux, ne me blâmera-t-on pas si je sors du centre de l
 >
 > S’il veut la guerre, suis prêt pour la lutte et nous mènerons notre armée contre la sienne. »
 
-Les grands lui rendirent hommage et l’acclamè-
-rent roi du monde ; tous les hommes qui avaient de l’expérience applaudirent à ses paroles et chacun s’écria :
+Les grands lui rendirent hommage et l’acclamèrent roi du monde ; tous les hommes qui avaient de l’expérience applaudirent à ses paroles et chacun s’écria :
 
 > Ô roi !
 
@@ -115,14 +109,12 @@ Au moment où la nuit, tremblante et les lèvres desséchées, s’enfuit devant
 
 Le n roi ordonna à Bendouï et à Gustehem de mettre leurs casques de Ier et s’avance avec ses grands à l’esprit serein jusqu’à la source du Nabrewan.
 
-Une ronde avertit à l’instant Bahram qu’une troupe était arrivée à deux portées de flèche ; aussitôt Bahram envoya des troupes, appela près de lui des t
-
-Il hommes expérimentés, monta sur un cheval blanc, à crinière noire, se cabrant, portant haut la tête, à sabots d’airain.
+Une ronde avertit à l’instant Bahram qu’une troupe était arrivée à deux portées de flèche ; aussitôt Bahram envoya des troupes, appela près de lui des hommes expérimentés, monta sur un cheval blanc, à crinière noire, se cabrant, portant haut la tête, à sabots d’airain.
 
 Il était armé d’une épée indienne dont le coup frappait comme la foudre.
 
 Il lança son cheval comme un éclair brillant ; à sa gauche était le vil Ized Guschasp et Hamdan Guschasp et Yelail Sineh l’accompagnaient, remplis de haine et le cœur plein d’ardeur.
 
-Avec aux marchaient trois vaillants Turcs du pays du Kbakan, résolus de servir la haine de Bahram et ayant promis tous les trois que s’ils voyaient le roi loin de son armée, ils l’amèneraient en courant au camp de Bahram, mort ou captif.
+Avec eux marchaient trois vaillants Turcs du pays du Kbakan, résolus de servir la haine de Bahram et ayant promis tous les trois que s’ils voyaient le roi loin de son armée, ils l’amèneraient en courant au camp de Bahram, mort ou captif.
 
 C’est ainsi que se trouvaient d’un côté Khosrou, de l’autre le Pehlewan et au milieu d’eux coulait le Nahrewan ; les armées regardaient attentivement des deux côtés pour voir comme Bahram s’approcherait du roi.
