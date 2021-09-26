@@ -25,31 +25,31 @@ Il fit préparer des robes d’honneur pour ceux qui en étaient dignes et avaie
 
 > de la cour.
 
-Il donnaàNeïathous tant de joyaux, de chevaux et d’esclaves à ceintures d’or, qu’il l’éleva au-dessus de tous par la quantité des présents et lui fit porter la tête plus haut que les plus nobles.
+Il donna à Neïathous tant de joyaux, de chevaux et d’esclaves à ceintures d’or, qu’il l’éleva au-dessus de tous par la quantité des présents et lui fit porter la tête plus haut que les plus nobles.
 
-Ensuite, il lui remit toutes les villes que Kobad, ou Hormuzd, ou Kesra, le roi de haute naissance. avaient enlevées aux Roumis et lui en donna acte par écrit, en répandant du miel sur cette coupe de coloquinte.
+Ensuite, il lui remit toutes les villes que Kobad, ou Hormuzd, ou Kesra, le roi de haute naissance, avaient enlevées aux Roumis et lui en donna acte par écrit, en répandant du miel sur cette coupe de coloquinte.
 
-Les Roumis partirent de cette frontière florissante et de ce pays prospère pour rentrer à Roum et Khosrou les accompagna pendant deux ] journées ; puis il prit congé de Neïathous et s’en retourna.
+Les Roumis partirent de cette frontière florissante et de ce pays prospère pour rentrer à Roum et Khosrou les accompagna pendant deux journées ; puis il prit congé de Neïathous et s’en retourna.
 
 La semaine suivante, il se mit en route avec dix cavaliers, des hommes intelligents et illustres ; il se rendit du camp à Aderguschasp et descendit de cheval en vue du sanctuaire.
 
-Il s’avança à pied, les yeux pleins de larmes. les deux joues jaunes comme le soleil.
+Il s’avança à pied, les yeux pleins de larmes, les deux joues jaunes comme le soleil.
 
 Ayant passé la porte et étant arrivé devant le feu, ses joues disparurent sous les larmes.
 
-Pendant une semaine il récita le Zend-Avesta, tournant humblement autour du feu.
+Pendant une semaine, il récita le Zend-Avesta, tournant humblement autour du feu.
 
-Le huitième jour il quitta le temple de leu, l’époque de la fête de Sedeh étant proche ; il donna au temple toute sa part du butin en vaisselle d’or et d’argent, en pierreries, en pièces d’or et en joyaux dignes d’un roi ; il accomplit tout ce qu’il avait annoncé en présence des nobles.
+Le huitième jour, il quitta le temple de leu, l’époque de la fête de Sedeh étant proche ; il donna au temple toute sa part du butin en vaisselle d’or et d’argent, en pierreries, en pièces d’or et en joyaux dignes d’un roi ; il accomplit tout ce qu’il avait annoncé en présence des nobles.
 
 Il distribua aux pauvres tout un trésor d’argent et ne laissa en détresse personne dans ce pays.
 
-De là il se rendit dans la ville d’Endiv pour yjouir de jours de plaisir ; elle était sur la limite du désert salé, ou personne ne pouvait attribuer une valeur à la terre.
+De là il se rendit dans la ville d’Endiv pour y jouir de jours de plaisir ; elle était sur la limite du désert salé, où personne ne pouvait attribuer une valeur à la terre.
 
 On prépara une salle magnifique dans le palais que Nouschirwan avait bâti et qu’il avait habité pendant longtemps ; on para un trône d’or.
 
 Khosrou vint, s’assit sur le trône de son grand-père, lui le victorieux maître du monde, adorateur de Dieu.
 
-Il lit venir un scribe et son Mobed et conseiller, un homme ingénieux.
+Il fit venir un scribe et son Mobed et conseiller, un homme ingénieux.
 
 Ils écrivirent des diplômes pour
 
@@ -59,13 +59,13 @@ Khosrou assigna tout le Khorasan à Gustehem et lui ordonna d’y rétablir les 
 
 Burzmihr devait être son Destour pour toutes les affaires : c’était un scribe qui connaissait le monde et un homme d’un beau visage.
 
-Le roi, voyant que le ciel qui tourne lui était favorable, donna le gouvernement de Darabguerd et d’Isthakr, mit un sceau d’or sur le diplôme, le plaça Ïà l’instant dans la main de Ram Berzin et il ordonna de le porter à Schapour, à qui il donna aussi des esclaves et une robe d’honneur.
+Le roi, voyant que le ciel qui tourne lui était favorable, donna le gouvernement de Darabguerd et d’Isthakr, mit un sceau d’or sur le diplôme, le plaça à l’instant dans la main de Ram Berzin et il ordonna de le porter à Schapour, à qui il donna aussi des esclaves et une robe d’honneur.
 
 Khosrou ordonna de porter, selon les coutumes des Keïanides, un autre diplôme pourvu de son sceau à Endian, à qui il confia le pays de Kirman, car il le comptait parmi les grands.
 
 Il donna une autre, province à Guerdouî et plaça sur la lettre un sceau d’or.
 
-En. même temps il donna à Balouï le pays de Djadj et lui en envoya le diplôme et un trône d’ivoire.
+En même temps il donna à Balouï le pays de Djadj et lui en envoya le diplôme et un trône d’ivoire.
 
 Il compta les clefs de ses trésors et les confia toutes au fils de Tokhareh.
 
@@ -89,6 +89,6 @@ Un héraut éloquent, un grand ayant une belle voix et plein de prudence, procla
 >
 > J’ai un trésor dans chaque ville, accumulé par mes ancêtres ou par moi-même et j’ai ordonné au trésorier de fournir des vêtements et de la nourriture à tous ceux qui ne possèdent rien.
 >
-> Si quelqu’un n’a rien à manger le matin, il obtiendra du trésorier du roi trois man de blé, à condition qu’il invoquera les bénédictions de Dieu sur le roi et qu’il travaillera à cultiver la terre. »
+> Si quelqu’un n’a rien à manger le matin, il obtiendra du trésorier du roi trois mans de blé, à condition qu’il invoquera les bénédictions de Dieu sur le roi et qu’il travaillera à cultiver la terre. »
 
 Quand il y a un roi pareil, cela Haut mieux que s’il était savant, mais impur.
