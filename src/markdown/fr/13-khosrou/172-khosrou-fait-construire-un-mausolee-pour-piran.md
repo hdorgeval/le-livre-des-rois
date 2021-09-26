@@ -22,7 +22,9 @@ Lorsque dix heures du jour furent écoulées et au moment où le soleil disparai
 
 Tous les chefs, tous les grands, tous les héros allèrent à pied au-devant de lui et les sages invoquèrent les bénédictions de Dieu sur lui, disant :
 
-> Ô roi. ô chef des Mobeds, ton corps ressemble à celui d’un éléphant terrible, ton âme à celle de Gabriel ; ta main est un nuage de printemps, ton cœur est comme les eaux de l’Indus. »
+> Ô roi.
+>
+> Ô chef des Mobeds, ton corps ressemble à celui d’un éléphant terrible, ton âme à celle de Gabriel ; ta main est un nuage de printemps, ton cœur est comme les eaux de l’Indus. »
 
 Le roi monta à cheval pour que l’armée pût voir ses traits et la salua à son tour, disant :
 
@@ -38,9 +40,7 @@ Guiv amena en courant Guerouï Zereh devant le vaillant maître de l’Iran et K
 
 Le roi descendit aussitôt de cheval et adressa des actions de grâce au Créateur, disant :
 
-> Adoration à Dieu, qui est mon asile, qui nous a
->
-> A donné la victoire et la domination ! »
+> Adoration à Dieu, qui est mon asile, qui nous a donné la victoire et la domination ! »
 
 Il se tenait debout en priant ; il ôta de dessus sa tête son diadème de Keïanide et invoqua les grâces du Dispensateur de la justice sur le Pehlewan et sur son armée, disant :
 
@@ -56,11 +56,7 @@ Son cœur se consumait tellement de douleur, qu’on aurait dit qu’un feu le b
 >
 > Pendant de longues années Piran eut soin de moi et fut prêt à faire toutes mes volontés ; il déplora le meurtre de Siawusch et dans cette circonstance personne n’eut à se plaindre de lui.
 >
-> Ensuite ce !
->
-> Homme, qui avait été si doux, devint
->
-> MM un bourreau et remplit de terreur le pays d’Iran.
+> Ensuite cet homme, qui avait été si doux, devint un bourreau et remplit de terreur le pays d’Iran.
 >
 > Ahriman pervertit son cœur et il abandonna la voie qu’il avait suivie jusqu’alors.
 >
@@ -88,7 +84,7 @@ Il dit :
 >
 > Il faut que Kaous ait commis des crimes, qu’il ait offensé le Créateur du monde, pour que Dieu ait suscité un pareil Div contre Siawusch ; et encore je ne sais comment Gueroui a pu en vouloir à cet innocent.
 >
-> Mais je jure par Dieu l’unique, le victorieux, le maître du monde, le dispensateur de tout bien, le guide, que je vais sans délai demander compte du sang de Siawusch àAfrasiab. »
+> Mais je jure par Dieu l’unique, le victorieux, le maître du monde, le dispensateur de tout bien, le guide, que je vais sans délai demander compte du sang de Siawusch à Afrasiab. »
 
 Il fit tirailler toutes les articulations à Gueroui Zereh avec des cordes d’arc ; et lorsque toutes les jointures de son corps furent disloquées, on lui trancha la tête comme à une brebis.
 
