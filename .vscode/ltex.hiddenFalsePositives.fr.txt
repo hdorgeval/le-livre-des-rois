@@ -265,3 +265,9 @@
 {"rule":"D_N","sentence":"^\\QCe n'est pas moi qui l'ai tué, c'est le Div impur qui a enlevé de mon cœur la crainte de Dieu.\\E$"}
 {"rule":"PORTER_FRUIT","sentence":"^\\QL'arbre que tu as planté porte fruit.\\E$"}
 {"rule":"ACCORD_CENTAINE_DE","sentence":"^\\QLes esclaves au cœur éveillé, les servantes turques et roumies, les belles du palais de Khosrou arrivèrent au nombre de mille deux cents ; on aurait dit qu'il n'y avait plus moyen de passer par le jardin.\\E$"}
+{"rule":"QUI_VCONJ","sentence":"^\\QN'y a-t-il donc personne parmi les Turcs qui ait du sens et qui sache prendre conseil de ses réflexions ?\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QLa raison te vient trop tard ; si tu l'avais plus tôt suivie, tu aurais à la fin trouvé le repos.\\E$"}
+{"rule":"D_N","sentence":"^\\QEnsuite Khosrou jeta les yeux sur Gueroui Zereh et un soupir s'échappa de sa poitrine ; il regarda cet homme de méchant naturel et qui ressemblait à un Div avec ses cheveux pendants en désordre.\\E$"}
+{"rule":"ETRE_VPPA_OU_ADJ","sentence":"^\\QTous les plus vaillants de notre armée sont morts et notre cœur en saigne.\\E$"}
+{"rule":"QUI_VCONJ","sentence":"^\\QÔ toi qui porte haut la tête !\\E$"}
+{"rule":"D_N","sentence":"^\\QTu as arraché au Div blanc le cœur et le cerveau ;\\E$"}
