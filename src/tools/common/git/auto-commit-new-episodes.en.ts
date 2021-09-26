@@ -23,8 +23,8 @@ export async function autoCommitNewEnglishWarnerEpisodes(): Promise<void> {
       const filename = unstagedFile.split(path.sep).pop();
       const episodeNumber = Number(filename?.split('-')[0]);
       const commitMessage = `feat(${reign}/en/warner): add episode n° ${episodeNumber}`;
-      // await git.add(unstagedFile);
-      // await git.commit(commitMessage);
+      await git.add(unstagedFile);
+      await git.commit(commitMessage);
       // eslint-disable-next-line no-console
       console.log(commitMessage);
     }
