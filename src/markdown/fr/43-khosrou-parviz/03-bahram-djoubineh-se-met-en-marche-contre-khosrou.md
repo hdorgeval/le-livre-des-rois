@@ -21,11 +21,11 @@ Bahram apprit quel sort avait frappé le roi, qu’on avait brûlé ses yeux bri
 
 Le vaillant 7 Bahram en fut confondu ; il pâlit et se livra à ses pensées.
 
-Il fit porter dehors les timbales,-il donna l’ordre de porter dans la plaine le drapeau du pouvoir ; il fit préparer les bagages, monter à cheval ses troupes,revêtitson armure pour combattre Khosrou et son armée, semblable à une montagne mouvante, s’avança jusqu’aux bords du Nahrewan, bravant le roi.
+Il fit porter dehors les timbales, il donna l’ordre de porter dans la plaine le drapeau du pouvoir ; il fit préparer les bagages, monter à cheval ses troupes, revêtit son armure pour combattre Khosrou et son armée, semblable à une montagne mouvante, s’avança jusqu’aux bords du Nahrewan, bravant le roi.
 
-Lorsque Khosrou eutdes nouvelles de sa marche, il devintiinquiet de ses menées violentes, envoya des émissaires actifs pour observer ce qui se passait et leur dit :
+Lorsque Khosrou eut des nouvelles de sa marche, il devint inquiet de ses menées violentes, envoya des émissaires actifs pour observer ce qui se passait et leur dit :
 
-> Avant tout il faut tirer au clair le secret de cette armée, si elle est du même avis que Bainam sur la guerre, ce qui pour nous ferait traîner en longueur cette affaire ; ensuite il l’au-t observer si Bahram, quand il se place au centre de l’armée, se tient en avant ou au milieu des troupes, comment il s’assoit quand il donne audience et s’il se livre à la chasse pendant sa marche. »
+> Avant tout il faut tirer au clair le secret de cette armée, si elle est du même avis que Bainam sur la guerre, ce qui pour nous ferait traîner en longueur cette affaire ; ensuite il faut observer si Bahram, quand il se place au centre de l’armée, se tient en avant ou au milieu des troupes, comment il s’assoit quand il donne audience et s’il se livre à la chasse pendant sa marche. »
 
 Les émissaires partirent de la cour sans que l’armée du roi s’en fût aperçue ; ils partirent, observèrent, revinrent et se rendirent en secret auprès de Khosrou et dirent :
 
@@ -95,7 +95,7 @@ Les grands lui rendirent hommage et l’acclamèrent roi du monde ; tous les hom
 
 Puisse le mauvais sort rester loin de toi, puissent la victoire et la gloire, la puissance et le diadème impérial être à toi !
 
-A Khosrou dit :
+À Khosrou dit :
 
 > Ainsi soit-il !
 >
