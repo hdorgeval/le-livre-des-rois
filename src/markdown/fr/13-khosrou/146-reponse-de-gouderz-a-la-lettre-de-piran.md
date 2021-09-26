@@ -40,7 +40,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > D’abord tu as parlé de tes sentiments d’humanité, de Dieu et des revers de la fortune ; tu as dit que tu ne désires pas les combats, qu’ils attristent et désolent ton âme.
 >
-> Mais ta langue n’était pas d’accord avec ton cœur au moment ou ces paroles ont passé par tes lèvres ; car si la justice résidait en toi, tu n’aurais pas été le premier à répandre du sang.
+> Mais ta langue n’était pas d’accord avec ton cœur au moment où ces paroles ont passé par tes lèvres ; car si la justice résidait en toi, tu n’aurais pas été le premier à répandre du sang.
 >
 > Lorsque Guiv, accompagné de sages et vaillants héros iraniens, s’est rendu auprès de toi avant toute hostilité, il t’a parlé de tous les points en litige, de tous les grands et de et tous les pays que nous réclamons ; lui et les grands a l’esprit lucide t’ont donné des conseils, des avis et
 >
@@ -56,15 +56,15 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Tu sais ce que le fortuné Iredj eut à souffrir de Tour à cause du trône et de la couronne ; c’est par Tour et par Selm que le mal est entré dans le monde, que l’injustice et les vengeances s’y sont répandues.
 >
-> Feridoun, qui dans son angoisse ouvrait les lèvres jour et nuit pour les maudire, ne trouvait de consolation pour son cœur et de soutien que dans l’es--poir d’être secouru de Dieu, le dispensateur de la justice et de tous les biens.
+> Feridoun, qui dans son angoisse ouvrait les lèvres jour et nuit pour les maudire, ne trouvait de consolation pour son cœur et de soutien que dans l’espoir d’être secouru de Dieu, le dispensateur de la justice et de tous les biens.
 >
 > Afrasiab a hérité la mauvaise nature de ces rois insensés ; il a commencé de nouvelles guerres contre Minoutchehr, Newder et Keïkobad ; il a accumulé des malheurs sur Keï Kaous et a dévasté tous les pays cultivés de l’Iran.
 >
-> Ensuite, il a allmné de nouvelles haines par le meurtre de Siawusch et tu ne pensais pas à la justice quand cet innocent a livré sa douce vie.
+> Ensuite, il a allumé de nouvelles haines par le meurtre de Siawusch et tu ne pensais pas à la justice quand cet innocent a livré sa douce vie.
 >
 > Que de grands de l’Iran, maîtres de couronnes et de trônes, ont péri dans ces guerres !
 >
-> un Puis tu demandes comment il se peut qu’un vieillard comme moi se ceigne pour répandre tant de sang.
+> Puis tu demandes comment il se peut qu’un vieillard comme moi se ceigne pour répandre tant de sang.
 >
 > Sache, ô homme expérimenté et rusé, qui as éprouvé la bonne et la mauvaise fortune, que Dieu m’a accordé une longue vie et une destinée qui me permet de porter haut la tête, afin qu’au jour du combat je fasse lever jusqu’au soleil la poussière du pays de Touran ; et ma seule inquiétude est que Dieu ne sépare mon âme de mon corps avant que j’aie accompli cette vengeance et foulé aux pieds votre pays.
 >
@@ -72,7 +72,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Mais si je me laissais maintenant persuader partes douces paroles de m’en retourner sans combattre, alors Dieu, au jour du jugement, me demanderait compte de ce qui se serait passé.
 >
-> Car, dirait-il,je t’ai donné. le commandement, de la force, de la prudence, des trésors et de la bravoure ; pourquoi donc ne t’es-tu pas ceint à la tête des Iraniens pour venger Siawusch ?
+> Car, dirait-il, je t’ai donné le commandement, de la force, de la prudence, des trésors et de la bravoure ; pourquoi donc ne t’es-tu pas ceint à la tête des Iraniens pour venger Siawusch ?
 >
 > Dieu, le dispensateur de la justice, m’interrogerait sur la mort de mes soixante et dix nobles fils ; et que lui répondrais-je ?
 >
@@ -80,9 +80,7 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Quatrièmement tu parles de la vengeance due à Siawusch, ô vieux chef d’armée.
 >
-> Tu dis qu’il ne
->
-> à" faut pas priver les vivants de la vie pour un homme qui est devenu poussière.
+> Tu dis qu’il ne faut pas priver les vivants de la vie pour un homme qui est devenu poussière.
 >
 > Mais quand je me rappelle vos actes atroces, tous les tourments que vous avez infligés à nos cœurs par les crimes que vous avez commis dans le pays d’Iran, toutes les angoisses que vous avez fait éprouver à nos rois, tous les traités que vous avez violés, toutes les guerres que vous avez commencées et le mal dont : vous avez toujours été les instigateurs, quand je me rappelle cela, comment ferais-je la paix avec toi qui as toujours regardé comme bonnes les actions mauvaises ?
 >
@@ -90,15 +88,11 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Mais sache, ô chef de l’armée du Touron, quels sont les ordres du roi.
 >
-> Il m’a commandé de faire la guerre, de verser du sang pour venger Siawusch ; et si je désobéissais à Khosrou le maître du monde,j’aurais à rougir devant lui.
+> Il m’a commandé de faire la guerre, de verser du sang pour venger Siawusch ; et si je désobéissais à Khosrou le maître du monde, j’aurais à rougir devant lui.
 >
 > Au reste, si tu espères que Khosrou se laisserait fléchir par tes paroles, alors envoie-lui en toute hâte ces otages et ces trésors quels qu’ils soient, sous la conduite de Lehhak et de Rouïn, les serviteurs d’Afrasiab ; la route de l’Iran est ouverte.
 >
-> Sixièmement tu proposes de rendre à Khosrou toutes les provinces qui tout. partie de l’Iran, des pays cultivés et florissants et de rappeler auprès
->
->
->
->de toi toutes les troupes les crawl.
+> Sixièmement tu proposes de rendre à Khosrou toutes les provinces qui font partie de l’Iran, des pays cultivés et florissants et de rappeler auprès de toi toutes les troupes les crawl.
 >
 > Mais Dieu m’a mis dans une position où je n’ai pas besoin d’accepter cela ; et si tu ne le sais pas, je vais te dévoiler ce secret.
 >
@@ -108,18 +102,17 @@ Il commença par les louanges de Dieu, ensuite il répondit de point en point à
 >
 > Dans le Dehistan, le Kharis. »
 
-Et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils les abandonnent, eux qui s’étaient préparés à faire des excursions de tous côtés ; Aschkesch a fait tomber sur Schideh une grêle qui l’a abattu et : presque tué et il a envoyé à Khosrou des prisonniers et du butin de toute espèce.
->
+Et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils les abandonnent, eux qui s’étaient préparés à faire des excursions de tous côtés ; Aschkesch a fait tomber sur Schideh une grêle qui l’a abattu et presque tué et il a envoyé à Khosrou des prisonniers et du butin de toute espèce.
+
 > Et enfin de ce côté-ci nous nous combattons toi et moi, sur cette frontière où s’acquièrent la gloire et le renom.
 >
 > Tu as déjà plusieurs fois plié devant moi et devant ces grands et vaillants lions.
 >
 > Si tu consens à te battre avec moi, je te débarrasserai de ces discussions et à l’aide de la force que Dieu m’a donnée et par ordre du roi, j’inonderai de sang ce champ de bataille.
 >
-> Réfléchis, ô illustre Pehlewan, sur la manière dont le soleil et la lune ont tourné ; la chaîne du son est descendue du ciel et la tête de irla fortune des Turcs est placée sous les ciseaux.
-> : .
+> Réfléchis, ô illustre Pehlewan, sur la manière dont le soleil et la lune ont tourné ; la chaîne du son est descendue du ciel et la tête de la fortune des Turcs est placée sous les ciseaux.
 >
-> MG Songe à la rétribution que le Créateur réserve à tes crimes ; car le sort a retiré le pan de sa robe de dessus les malheurs qui te menacent et déjà apparaît le mal qui doit punir le mal que tu as fait.
+> Songe à la rétribution que le Créateur réserve à tes crimes ; car le sort a retiré le pan de sa robe de dessus les malheurs qui te menacent et déjà apparaît le mal qui doit punir le mal que tu as fait.
 >
 > Réfléchis bien, ouvre l’oreille, écoute les paroles d’un homme de sens et sache qu’une armée innombrable comme la mienne et composée de cent mille cavaliers prêts à frapper de l’épée, tous avides de gloire et de vengeance, ne se laisse pas écarter de ce champ de bataille par une ruse.
 >
@@ -127,35 +120,35 @@ Et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils
 >
 > Tu attestes avec serrement ta loyauté ; mais je ne veux pas parler de traités avec toi, car ton esprit ne cherche pas la voie de la raison ; et chaque fois que tu as fait un traité, tu as toujours fini par démolir l’édifice de la rriionne foi.
 >
-> La vie de Siawusch a été livrée au vent, parce qu’il ai cru à ton serment : que personne désormais ne se fie à ta parole.
+> La vie de Siawusch a été livrée au vent, parce qu’il a cru à ton serment : que personne désormais ne se fie à ta parole.
 >
 > Tu ne l’as pas secouru au jour fatal, bien qu’il t’ait souvent imploré dans sa détresse.
+>
+> En huitième lieu, tu dis que tu l’emportes sur moi par ton trône et la couronne, par la bravoure et ta fortune, par ton armée et tes trésors, mais que ton cœur souffre de pitié.
+>
+> Je crois que tu m’as suffisamment éprouvé jusqu’ici dans les combats et tu sais si tu m’as trouvé dépourvu de bravoure au jour de la bataille. [hagarde-0i donc de la tête aux pieds ; car il se pourrait que mon trésor et mon trône, que ma couronne et mon courage me missent à ta hauteur.
 
-En huitième lieu tu dis que tu l’emportes sur moi par ton trône et la couronne, par la bravoure et ta fortune, par ton armée et tes trésors, mais que ton cœur souffre de pitié.lc crois que tu m’as suffisamment éprouvé jusqu’ici dans les combats et tu sais si tu m’as trouvé dépourvu de bravoure au jour de la bataille. [hagarde-0i donc de la tête aux pieds ; car il se pourrait que mon trésor et mon [II7 trône, que ma couronne et mon courage me missent à ta hauteur.
+> En dernier lieu tu demandes que je choisisse quelques braves pour champions et tu promets d’amener de ton côté quelques cavaliers turcs prêts à verser du sang, parce que la pitié profonde que tu éprouves pour ton armée te fait désirer de mettre des bornes aux violences et aux vengeances ; et tu m’exhortes à agir avec humanité et à montrer les qualités cachées de mon cœur et de ma raison.
+>
+> Mais le roi maître du monde serait mécontent de, moi, si je divisais ainsi l’armée.
+>
+> Ensuite tu me proposes de choisir un seul brave pour qu’il se mesure avec toi sur le champ de bataille ; mais j’ai en face de moi toute une armée chargée de crimes et remplissant de terreur le peuple de l’Iran, de sorte que le roi ne sera pas d’avis que j’accède à cette proposition.
 
-En dernier lieu tu demandes que je choisisse quelques braves pour champions et tu promets d’amener de ton côté quelques cavaliers turcs prêts à verser du sang, parce que la pitié profonde que tu éprouves pour ton armée te fait désirer de mettre des bornes aux violences et aux vengeances ; et tu m’exhortes à agir avec humanité et à montrer les qualités cachées de mon cœur et de ma raison.
-
-Mais le roi maître du monde serait mécontent de, moi, si je divisais ainsi l’armée.
-
-Ensuite tu me pro»
-
-Poses de choisir un seul brave pour qu’il se mesure avec toi sur le champ de bataille ; mais j’ai en face de moi toute une armée chargée de crimes et remplissant de terreur le peuple de l’Iran, de sorte que le roi ne sera pas d’avis que j’accède à cette proposition.
-
-Ce sont nos armées qui, semblables à des montagnes, doivent d’abord se battre en masse ; il faut que nous formions nos deux lignes de bataille. dans l’espace qui les sépare, pour voir si la victoire se déclarera pour l’un de nous.
-
-Sinon nous ce amènerons, chacun de notre côté, quelques braves et choisirons un champ de bataille pour eux.
-
-Et tu a aurais beau reculer devant l’accomplissement de tes paroles, moi je ne renoncerai jamais à ce que j’ai dit.
-
-Si ton armée ne le parait pas suffisante pour ce combat, demande un renfort à ton roi. calcule
-
-AIS profondément les chances de cette bataille et attends que tes fils, tes alliés et tes parents blessés, qui font maintenant défaut à ton armée, soient rétablis par les médecins : car ton intérêt est dans ce moment de gagner du temps.
+> Ce sont nos armées qui, semblables à des montagnes, doivent d’abord se battre en masse ; il faut que nous formions nos deux lignes de bataille dans l’espace qui les sépare, pour voir si la victoire se déclarera pour l’un de nous.
+>
+> Sinon nous amènerons, chacun de notre côté, quelques braves et choisirons un champ de bataille pour eux.
+>
+> Et tu aurais beau reculer devant l’accomplissement de tes paroles, moi je ne renoncerai jamais à ce que j’ai dit.
+>
+> Si ton armée ne te parait pas suffisante pour ce combat, demande un renfort à ton roi.
+>
+> Calcule profondément les chances de cette bataille et attends que tes fils, tes alliés et tes parents blessés, qui font maintenant défaut à ton armée, soient rétablis par les médecins : car ton intérêt est dans ce moment de gagner du temps.
 
 Si tu me demandes du temps et un délai, je te l’accorde ; sinon pré : pare-toi au combat.
 
 Je te dis tout cela afin que tu ne cherches pas un nouveau prétexte pour éluder la bataille.
 
-Tu nous as attaqués inopinément, tu nous a tendu un piège et dressé une embuscade, tu ne nousas accordé aucun délai ; mais il n’importe que je me venge dans cent ans ou dans ce moment même : seulement n’espère pas que je m’en retourne sans avoir livré ce combat, pour lequel la nuit et le jour, le temps opportun et inopportun me sont indifférents. »
+Tu nous as attaqués inopinément, tu nous a tendu un piège et dressé une embuscade, tu ne nous as accordé aucun délai ; mais il n’importe que je me venge dans cent ans ou dans ce moment même : seulement n’espère pas que je m’en retourne sans avoir livré ce combat, pour lequel la nuit et le jour, le temps opportun et inopportun me sont indifférents. »
 
 La réponse à la lettre de Piran étant achevée, le messager accourut rapide comme une Péri, la ceinture serrée, assis sur son coursier et entouré de son escorte de cavaliers.
 
@@ -165,8 +158,7 @@ Gouderz fit ordonner-à tous les Mobeds, à tous les hommes illustres par leur s
 
 Alors le Pehlewan fit lire sa réponse devant les héros.
 
-Les grands entendirent lire par le fortuné scribe litt) cette lettre qui gagnait tous les esprits ; ils reconnurent que l’intelligence de Piran était vaincue et traitè-
-rent avec mépris les avis qu’il leur avait donnés.
+Les grands entendirent lire par le fortuné scribe cette lettre qui gagnait tous les esprits ; ils reconnurent que l’intelligence de Piran était vaincue et traitèrent avec mépris les avis qu’il leur avait donnés.
 
 Ils célébrèrent les louanges de Gouderz, ils l’appelèrent le Pehlewan du monde.
 
