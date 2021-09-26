@@ -271,3 +271,4 @@
 {"rule":"ETRE_VPPA_OU_ADJ","sentence":"^\\QTous les plus vaillants de notre armée sont morts et notre cœur en saigne.\\E$"}
 {"rule":"QUI_VCONJ","sentence":"^\\QÔ toi qui porte haut la tête !\\E$"}
 {"rule":"D_N","sentence":"^\\QTu as arraché au Div blanc le cœur et le cerveau ;\\E$"}
+{"rule":"D_N","sentence":"^\\QQue le sort de Bahram ait été tel qu'il a été, c'est l'œuvre du Div pervers.\\E$"}
