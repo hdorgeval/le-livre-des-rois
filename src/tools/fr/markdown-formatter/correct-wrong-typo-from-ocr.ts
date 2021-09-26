@@ -1762,6 +1762,20 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ la où /g, ' là où '),
     (content: string) => content.replace(/ e’fl’acer /g, ' effacer '),
     (content: string) => content.replace(/ au moment ou /g, ' au moment où '),
+    (content: string) => content.replace(/F erschidwerd /g, 'Ferschidwerd '),
+    (content: string) => content.replace(/ dela /g, ' de la '),
+    (content: string) => content.replace(/ell’rayait /g, 'effrayait '),
+    (content: string) => content.replace(/Maintenant il faut /g, 'Maintenant, il faut '),
+    (content: string) => content.replace(/ Pirnn /g, ' Piran '),
+    (content: string) => content.replace(/ cette homme /g, ' cet homme '),
+    (content: string) => content.replace(/flè-ches/g, 'flèches'),
+    (content: string) => content.replace(/ combal/g, ' combat'),
+    (content: string) => content.replace(/A’frasiab/g, 'Afrasiab'),
+    (content: string) => content.replace(/ cc qu/g, ' ce qu'),
+    (content: string) => content.replace(/Cependant /g, 'Cependant, '),
+    (content: string) => content.replace(/ cou-leur /g, ' couleur '),
+    (content: string) => content.replace(/0n /g, 'On '),
+    (content: string) => content.replace(/ cœurde /g, ' cœur de '),
   ].forEach((format) => {
     result = format(result);
   });
