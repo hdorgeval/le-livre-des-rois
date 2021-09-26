@@ -38,7 +38,7 @@ export const Header: React.FC = () => (
           <li className="nav-item ms-auto">
             <a
               className="nav-link"
-              href="https://github.com/hdorgeval/le-livre-des-rois/discussions/1"
+              href="https://github.com/hdorgeval/le-livre-des-rois"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="Ouvrir le code source du livre des rois sur GitHub"
