@@ -27,7 +27,7 @@ Le roi resta confondu ; chaque mot qu’il entendit se grava dans son cœur.
 
 Il se souvint des discours du Mobed et poussa un soupir ; il se souvint des paroles du devin qui lui avait dit que cet homme se détournerait de son trône et fit appeler en toute hâte le Grand Mobed.
 
-Il lit asseoir Kharrad Berzin dans la salle et lui dit :
+Il fit asseoir Kharrad Berzin dans la salle et lui dit :
 
 > Raconte-nous ce que tu as vu sur la route,»
 
