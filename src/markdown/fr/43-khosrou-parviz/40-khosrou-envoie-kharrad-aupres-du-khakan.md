@@ -25,7 +25,7 @@ Il ouvrit la porte de son trésor et apporta des joyaux, des épées et des cein
 
 Il se dirigea vers la Chine avec ces présents et franchit le Djihoun en ne suivant pas la route habituelle.
 
-Arrivé près de la cour du Khakan, il prit ses précautions et choisit un messager pour annoncerrqu’un envoyé du roi arrivait à cette cour.
+Arrivé près de la cour du Khakan, il prit ses précautions et choisit un messager pour annoncer qu’un envoyé du roi arrivait à cette cour.
 
 Lorsque le Khakan le sut, il fit apprêter la salle d’audience et ordonna de faire entrer l’envoyé, qui descendit de cheval tout près, puis lui adressa la parole et le salua, ajoutant :
 
@@ -49,11 +49,11 @@ Il donne à l’un la couronne et le puissant trône, il fait de l’autre un es
 
 Il n’a pas de faveur pour l’un ni de colère pour l’autre ; on ne le connaît que comme créateur du monde.
 
-Petits et grands nous naissons pour redevenir poussière, nous livrons inévitablement notre corps à la mort.
+Petits et grands, nous naissons pour redevenir poussière, nous livrons inévitablement notre corps à la mort.
 
 En commençant par Djemschid, le sublime et Thahmouras, le glorieux maître du monde, en continuant jusqu’à Keïkobad et les grands dont nous avons conservé le souvenir, comme Keï Khosrou et l’illustre Rustem et de même jusqu’à Isfendiar, nous voyons qu’ils n’ont obtenu du monde qu’un tombeau, qu’ils ont sucé du poison au lieu de thériaque.
 
-Maintenant le roi de l’Iran est ton parent, il est heureux ou triste selon que .tu grandis ou que tu dépéris.
+Maintenant le roi de l’Iran est ton parent, il est heureux ou triste selon que tu grandis ou que tu dépéris.
 
 Du temps d’un des glorieux rois, le Khakan de la Chine était le père de la mère de Khosrou et alors nos liens se sont resserrés et tout a changé.
 
@@ -81,14 +81,11 @@ On apprêta pour Kharrad une gaie demeure, qu’on orna d’étoiles de toute es
 
 Il était le bienvenu auprès du Khakan à table, à la chasse, aux fêtes et quand on buvait.
 
-Il cherchait une occasion et trouvant un jour le Khakan inoccupé, il s’empressa de l7
+Il cherchait une occasion et trouvant un jour le Khakan inoccupé, il s’empressa de lui parler courageusement, disant :
 
-1
-lui parler courageusement, disant :
-
-> Bahram est un homme de mauvaise race, il est pire qu’Ahriman, le malfaisant ; il est prêt à trahir les hommes sages pour quoi que ce soit, pour unpriædont il ne vaut pas la peine de parler.
+> Bahram est un homme de mauvaise race, il est pire qu’Ahriman, le malfaisant ; il est prêt à trahir les hommes sages pour quoi que ce soit, pour un prix dont il ne vaut pas la peine de parler.
 >
-> Le roi Hormuzd l’a tiré du néant et par ses faveurs l’a élevé au-dessas du soleil.
+> Le roi Hormuzd l’a tiré du néant et par ses faveurs l’a élevé au-dessus du soleil.
 >
 > Personne dans le monde ne connaissait son nom, mais tout lui a réussi.
 >
@@ -96,7 +93,7 @@ lui parler courageusement, disant :
 >
 > Quand même il te ferait beaucoup de bien, à la fin il brisera les liens qui l’attachent à toi, comme il a brisé ceux qui l’attachaient au roi d’Iran, car il n’est dévoué ni à un roi ni à Dieu.
 >
-> Si tu le renvoies au roi, tu élè-veras la tête du maître de l’Iran jusqu’à la lune ; dès ce moment la Chine et l’Iran seront à toi et tu établiras ta résidence où tu voudras. »
+> Si tu le renvoies au roi, tu élèveras la tête du maître de l’Iran jusqu’à la lune ; dès ce moment la Chine et l’Iran seront à toi et tu établiras ta résidence où tu voudras. »
 
 Le Khakan fut troublé en écoutant ce discours ; ses yeux devinrent sombres en regardant Kharrad ; il répondit :
 
@@ -104,7 +101,7 @@ Le Khakan fut troublé en écoutant ce discours ; ses yeux devinrent sombres en 
 >
 > Je ne suis pas un homme méchant, je ne viole pas les traités que j’ai faits ; car celui qui viole les traités aura pour linceul la poussière. »
 
-Quand Kharrad, fils de Berrin, eut entendu ces paroles, il comprit que cette graine qu’il avait cru fraîche était vieille etne pousserait pas, que Bahram avait fait espérer au Khakan la possession de l’Iran et que toute parole était stérile et du vent.
+Quand Kharrad, fils de Berrin, eut entendu ces paroles, il comprit que cette graine qu’il avait cru fraîche était vieille et ne pousserait pas, que Bahram avait fait espérer au Khakan la possession de l’Iran et que toute parole était stérile et du vent.
 
 Ayant ainsi désespéré d’agir sur le Khakan, il se tourna, dans son désappointement, vers la Khatoun et chercha quelqu’un auprès d’elle qui éclairerait son esprit prévenu.
 
@@ -118,7 +115,7 @@ Mais l’intendant dit à cet homme qui cherchait une issue :
 >
 > Tu es lettré, cherche un autre moyen et ne révèle ton secret pas même au vent. »
 
-Kharrad, à ces paroles, ne savait plus où commen-çaient et où finiraient ses soucis.
+Kharrad, à ces paroles, ne savait plus où commençaient et où finiraient ses soucis.
 
 Or il y avait un vieux Turc du nom de Kaloun, dont les Turcs ne faisaient aucun cas ; il n’était vêtu que d’un manteau en peau de mouton ; il se nourrissait de lait caillé et de millet.
 
@@ -126,14 +123,11 @@ Lorsque, jour fatal, Mekatoureh périt misérablement par la main de Bahram, le 
 
 Il était parent de Mekatoureh et son cœur fut rempli de chagrin et d’angoisse par Bahram ; il était toujours plein du désir de s’en venger et permettait à sa langue toutes les malédictions sur lui.
 
-Kharrad l’en-
-I7.
-
-Voya chercher ; il l’invita à sa noble résidence, il lai donna de l’argent et de l’or, il lui donna des vêtements et une nourriture abondante et quand il se mettait à table, il l’appelait et le faisait asseoir parmi les hommes les plus illustres.
+Kharrad l’envoya chercher ; il l’invita à sa noble résidence, il lui donna de l’argent et de l’or, il lui donna des vêtements et une nourriture abondante et quand il se mettait à table, il l’appelait et le faisait asseoir parmi les hommes les plus illustres.
 
 Kharrad, cet homme de grand savoir, était plein de précaution, patient de caractère, ingénieux et expert en affaires.
 
-Tout en voyant le Khakau jour et nuit, il était fort discret envers lui, pendant que de l’autre côté il interrogeait l’intendant du palais sur la Khatoun de la Chine.
+Tout en voyant le Khakau jour et nuit, il était fort discret envers lui, pendant que de l’autre côté, il interrogeait l’intendant du palais sur la Khatoun de la Chine.
 
 Un jour ce vieillard dit au puissant Kharrad :
 
@@ -160,9 +154,7 @@ Il revint et dit à Kharrad, fils de Berzin :
 ’
 Cet homme rusé alla chez la Khatoun ; il vit que sa malade avait le l’oie dérangé.
 
-Il lit apporter du jus
-
-KI-de grenade, puis il demanda une herbe qui croît le long des ruisseaux et que les marchands d’herbes nomment chicorée blanche.
+Il fit apporter du jus de grenade, puis il demanda une herbe qui croît le long des ruisseaux et que les marchands d’herbes nomment chicorée blanche.
 
 Il voulait ainsi calmer la fièvre dans le cerveau de la malade ; et, par l’ordre de Dieu, lorsque sept jours furent passés, l’enfant était redevenue comme la lune qui éclaire le monde.
 
