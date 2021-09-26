@@ -57,7 +57,7 @@ Il l’accompagne sur la route pendant deux stations, le troi-5ième jour Parmou
 
 Quand le Pehlewan de l’armée eut connaissance de ces présents du roi du monde et que le Khakan de la Chine arrivait après avoir été si bien traité par le roi, il alla à sa rencontre avec tous ses amis parmi les Iraniens.
 
-Il lit préparer des provisions parlent
+Il fit préparer des provisions parlent
 
 Où Parmoudeh devait passer, dans les villes et les bourgs et dans les stations, qu’elles fussent dans la montagne ou dans la plaine, puis il se présenta devant lui, demandant pardon et honteux dans son âme malveillante.
 
