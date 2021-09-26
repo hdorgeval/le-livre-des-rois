@@ -49,7 +49,9 @@ Monlré la place ; Bahram continua à marcher fièrement et rapidement vers la f
 
 Quelques Iraniens, qui avaient pris les armes pour combattre le loup, le suivirent ; mais quand ils virent de loin le museau de l’animal. quand ils virent que son poids faisait ployer la terre sous lui, il dirent "lus :
 
-> Absliensloi. ô roi !
+> Absliensloi.
+>
+> Ô roi !
 >
 > Tu dépasserais les. bornes de la bravoure.
 >
