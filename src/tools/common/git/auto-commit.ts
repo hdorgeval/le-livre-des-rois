@@ -22,9 +22,13 @@ import {
   autoCommitNewFrenchEpisodes,
   autoCommitUpdatedFrenchEpisodes,
   autoCommitUpdatedLaunchJson,
+  autoCommitNewEnglishWarnerEpisodes,
 } from '.';
 
 async function autoCommit() {
+  // english - warner - version
+  await autoCommitNewEnglishWarnerEpisodes().then();
+  // french - mohl - version
   await autoCommitNewFrenchEpisodes().then();
   await autoCommitUpdatedFrenchEpisodes().then();
   await autoCommitUpdatedFrenchMarkdownFormatter().then();
