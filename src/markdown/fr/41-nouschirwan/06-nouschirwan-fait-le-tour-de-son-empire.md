@@ -19,7 +19,7 @@ order: '006'
 
 Le sage roi se décida à quitter pour un peu de temps le pays où il résidait à faire le tour de ce monde plein de joies et à tirer au jour les choses cachées.
 
-Il lit battre les timbales et se mit en marche avec son armée, étonnant la lune et le soleil par sa pompe ; il y avait tant (l’étendard ; à emblèmes, tant d’or et d’argent, tant de ceintures d’or et de boucliers d’or, qu’on aurait dit qu’il ne restait rien dans les mines, qu’il ne restait plus de perles de belle eau et de pierres fines.
+Il fit battre les timbales et se mit en marche avec son armée, étonnant la lune et le soleil par sa pompe ; il y avait tant (l’étendard ; à emblèmes, tant d’or et d’argent, tant de ceintures d’or et de boucliers d’or, qu’on aurait dit qu’il ne restait rien dans les mines, qu’il ne restait plus de perles de belle eau et de pierres fines.
 
 Il partit pour le Khorasan, prenant ses aises et conduisant l’armée d’après la manière des Sassanides ; quand il traversait un pays habité, il dressait l’enceinte de ses tentes et le camp dans la campagne et chaque fois qu’on sonnait des trompettes, un héraut le précédait proclamant :
 
