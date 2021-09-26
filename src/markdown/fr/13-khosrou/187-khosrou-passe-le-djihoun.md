@@ -19,7 +19,7 @@ order: '187'
 
 Lorsque Keï Khosrou eut passé de l’autre côté du Djihoun, il oublia la faim, le repos et le sommeil.
 
-Aussitôt que son armée eut traversé le lleuve, il envoya des messagers à tousles grands pour les exhorter à ne pas s’ell’rayer de son arrivée et à prier pour lui Dieu le très-saint.
+Aussitôt que son armée eut traversé le fleuve, il envoya des messagers à tous les grands pour les exhorter à ne pas s’effrayer de son arrivée et à prier pour lui Dieu le très-saint.
 
 Il distribua de grands trésors aux pauvres, en donnant davantage à ceux qui étaient heureux de le voir.
 
@@ -29,7 +29,7 @@ Il distribua encore des trésors dans ce pays et désira qu’il lût cultivé.
 
 À chaque station arrivait une escorte de cavaliers pour protéger le roi.
 
-Khosrou reçut des nouvelles de Gangue et d’Afrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Afrasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afia-) aiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sous le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
+Khosrou reçut des nouvelles de Gangue et d’Afrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Afrasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afiasiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sous le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
 
 Khosrou, le maître du monde, méprisa ces mouvements ; son esprit ne s’occupait que d’Afrasiab.
 
