@@ -95,7 +95,7 @@ Lorsque Bahram Adermihan eut appris que cet homme au cœur pur avait disparu, il
 
 Hormuzd reçut ce message et choisit parmi ses serviteurs un homme de confiance pour conduire Bahram auprès de lui, pour l’amener à sa cour illustre.
 
-Il lit appeler Bahram dans la nuit sombre. !
+Il fit appeler Bahram dans la nuit sombre. !
 
 Lui fit de longs discours en paroles douces et lui dit :
 
