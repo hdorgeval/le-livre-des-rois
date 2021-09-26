@@ -19,7 +19,9 @@ order: '192'
 
 Le lendemain, lorsque le soleil se montra au-dessus des cimes des montagnes et qu’il plaça son flambeau d’or sous la voûte du ciel, on entendit un grand bruit dans la forteresse et Khosrou en devint inquiet.
 
-Tout à coup on ouvrit la porte du château et ce secret mystérieux fut dévoilé. Djehn, accompagné de dix cavaliers, sortit de la ville.
+Tout à coup on ouvrit la porte du château et ce secret mystérieux fut dévoilé.
+
+Djehn, accompagné de dix cavaliers, sortit de la ville.
 
 C’était un prince prudent, riche et plein de connaissances.
 
@@ -29,7 +31,7 @@ Le grand chambellan entra auprès du roi et lui annonça l’arrivée de Djehn a
 
 Le roi des rois s’assit sur son trône d’ivoire et plaça sur sa tête la couronne qui réjouissait les cœurs ; ensuite le vaillant Menouschan sortit et amena Djehn, le prince prudent.
 
-Lorsque celui-ci fut arrivé en présence du roi, Khosrou versa des larmes qui inondaient ses joues ; Djehn s’arrêta confondu; il ôta de sa tête son casque royal, s’avança jusqu’au pied du trône, rendit hommage au roi et l’adore, en disant :
+Lorsque celui-ci fut arrivé en présence du roi, Khosrou versa des larmes qui inondaient ses joues ; Djehn s’arrêta confondu ; il ôta de sa tête son casque royal, s’avança jusqu’au pied du trône, rendit hommage au roi et l’adore, en disant :
 
 > Ô roi illustre, puisses-tu faire éternellement le bonheur du monde !
 >
@@ -95,7 +97,7 @@ D’abord je porte au roi les salutations du chef de l’armée de Touran, au c�
 >
 > Mais si tu veux renoncer à toute idée de guerre, si tu veux rendre heureux ce pays par ta clémence, j’ouvrirai mes trésors de couronnes et de ceintures, mes trésors d’argent, d’or et de pierreries et tu prendras ce que Feridoun n’avait jamais donné à Iredj et ne parleras plus de vengeance.
 >
-> Si tu demandes la Chine et le Matchin, tu es le bienvenu, car il faut aller la où le cœur nous pousse.
+> Si tu demandes la Chine et le Matchin, tu es le bienvenu, car il faut aller là où le cœur nous pousse.
 >
 > Le Khorasau et le Mekran sont devant toi et je consens à tout ce que tu voudras.
 >
