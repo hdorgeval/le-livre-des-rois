@@ -1,5 +1,5 @@
 ---
-lastUpdate: '2021-08-08'
+lastUpdate: '2021-09-07'
 lang: 'fr'
 status: 'draft'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
@@ -58,14 +58,13 @@ Le roi fit convoquer cinquante sages vieillards, puis il envoya dire à Schirin 
 
 Elle revêtit un costume bleu et noir, et, se dirigeant chez le roi,elle alla droit à la salle de fête de ’Schadegân, où ces nobles Perses à la parole persuasive étaient réunis ; là elle s’assit séparée du roi par un rideau, comme il convient à une femme pudique.
 
-Zî
 Alors Schirouï lui fit dire :
 
-> Deux mois se sont écoulés depuis la perte de Khosrou, sois maintenant ma femme, afin d’être heureuse et de ne pas connaître l’humiliation ; je te traiterai comme le faisait mon père, mieux’encore, avec plus de bienveillance et de bonté. »
+> Deux mois se sont écoulés depuis la perte de Khosrou, sois maintenant ma femme, afin d’être heureuse et de ne pas connaître l’humiliation ; je te traiterai comme le faisait mon père, mieux encore, avec plus de bienveillance et de bonté. »
 
 Schirin répondit z.
 
-Rendsmoi d’abord justice et ensuite je serai à toi, je ne ferai plus résistance à tes paroles, à ta. volonté, aux désirs de ton cœur fortuné. »
+Rends-moi d’abord justice et ensuite je serai à toi, je ne ferai plus résistance à tes paroles, à ta. volonté, aux désirs de ton cœur fortuné. »
 
 Schirouï ayant autorisé cette belle princesse à lui faire connaître sa demande, celle-ci, élevant la voix derrière le rideau, continua ainsi :
 
@@ -85,13 +84,11 @@ I Schirin, s’adressant alors aux nobles personnages qui étaient réunis dans 
 >
 > Beau-coup de gouverneurs ont dû à mon intercession une bonne part des biens de ce monde.
 >
-> Que celui a qui a vu l’ombre de ma couronne et de ma puis-
->
-> sance, que celui qui a vu ou entendu parle, afin que de ses paroles sorte l’évidence complète ! »
+> Que celui a qui a vu l’ombre de ma couronne et de ma puissance, que celui qui a vu ou entendu parle, afin que de ses paroles sorte l’évidence complète ! »
 
 Les grands qui étaient en présence du roi firent l’éloge de Schirin et proclamèrent qu’elle n’avait pas d’égale au monde, ni en public, ni en secret.
 
-Schirin continua ainsi : Nobles pleins d’expérience, chefs aux exploits illustres, trois choses font la gloire de la femme qui est l’ornement du trône royal : en premier lieu, elle. doit être vertueuse et riche, afin que son époux trouve le bonheur dans sa maison ; en second lieu, il faut qu’elle mette au monde un fils béni qui sera la joie de son père vénéré ; il faut qu’elle soit grande et belle et puisse s’envelopper dans sa chevelure comme dans un vêtement.
+Schirin continua ainsi : Nobles pleins d’expérience, chefs aux exploits illustres, trois choses font la gloire de la femme qui est l’ornement du trône royal : en premier lieu, elle doit être vertueuse et riche, afin que son époux trouve le bonheur dans sa maison ; en second lieu, il faut qu’elle mette au monde un fils béni qui sera la joie de son père vénéré ; il faut qu’elle soit grande et belle et puisse s’envelopper dans sa chevelure comme dans un vêtement.
 
 Or, lorsque je devins l’épouse de Khosrou, lorsque je fus glorifiée par cette union, le roi revenait du pays de Roum, découragé et triste et n’ayant plus d’abri dans ce pays et pourtant il parvint bientôt à un degré de puissance que le monde n’a jamais connu.
 
@@ -99,7 +96,7 @@ Je donnai naissance à quatre fils qui furent la joie de ce monarque ; Nestour, 
 
 Elle dit, et, écartant ses voiles, son visage apparut beau comme la lune, sa chevelure inonda ses épaules.
 
-En troisième lieu, ditelle, regarde ce visage et si
+En troisième lieu, dit-elle, regarde ce visage et si
 
 N je mens, que ta main se lève pour m’accuser !
 
@@ -117,7 +114,7 @@ V Cette femme au visage charmant ajouta :
 
 Schirouï lui répondit :
 
-> Mon âme n’appartient et tous tes désirs seront exaucés. -Consens, reprit Schirin, à ce que les richesses que j’ai amassées dans ce pays soient désormais ma ce propriété exclusive, et, en présence de cette illustre assemblée, atteste par écrit sur ce livre que tu renonces à tout ce que je possède sans exception. »
+> Mon âme n’appartient et tous tes désirs seront exaucés. -Consens, reprit Schirin, à ce que les richesses que j’ai amassées dans ce pays soient désormais ma propriété exclusive, et, en présence de cette illustre assemblée, atteste par écrit sur ce livre que tu renonces à tout ce que je possède sans exception. »
 
 Le roi donna aussitôt son consentement à cette demande.
 
@@ -129,14 +126,14 @@ Elle fit aussi une donation aux temples du feu, pour les fêtes du Nôrouz et du
 
 Puis elle se rendit dans ce jardin, ôta son voile et s’assit toute pâle et défaite sur le sol ; elle appela alors auprès d’elle ses serviteurs, accueillit chacun d’eux avec bonté et leur dit en élevant la voix :
 
-> >Que tous ceux d’entre vous dont le cœur est généreux écoutent mes paroles, car vous ne reverrez plus ce ce visage.
+> > Que tous ceux d’entre vous dont le cœur est généreux écoutent mes paroles, car vous ne reverrez plus ce visage.
 >
 > Ne dites que des choses vraies, le mensonge n’est pas permis aux hommes intelligents.
 >
-> Depuis que j’ai paru devant Khosrou, depuis qu’il m’a adse mise dans l’appartement doré et que je suis devenue la première des princesses et l’orgueil du roi, me suis-je rendue coupable de quelque faute ?
+> Depuis que j’ai paru devant Khosrou, depuis qu’il m’a mise dans l’appartement doré et que je suis devenue la première des princesses et l’orgueil du roi, me suis-je rendue coupable de quelque faute ?
 >
 > Gardez-vous bien de répondre avec dissimulation ; à quoi bon la dissimulation à l’égard d’une femme
-’ et qui creuse sa tombe ? »
+> ’ et qui creuse sa tombe ? »
 
 Tous les serviteurs se levant ensemble répondirent :
 
@@ -146,7 +143,7 @@ Tous les serviteurs se levant ensemble répondirent :
 
 Tous les gens de sa maison, ses serviteurs au cœur ambitieux et vigilant s’écrièrent :
 
-> Ô reine qui portes haut la tête et que célèbrent la Chine, le Roum et le Tharaz, qui oserait dire du mal de toi ?
+> Ô reine qui porte haut la tête et que célèbrent la Chine, le Roum et le Tharaz, qui oserait dire du mal de toi ?
 >
 > Comment aurais-tu fait toi-même le mal ? »
 
@@ -156,19 +153,19 @@ Schirin reprit :
 >
 > Cet homme qui se croit peut-être protégé contre la mort parce qu’il a si facilement consenti au meurtre de son père, m’a envoyé un message dont mon cœur est assombri.
 >
-> En vain lui ai-je répondu que le reste de ma vie serait consacré au culte de Dieu créateur du monde, en vain lui ai-je dévoilé toute ma conduite, sa malveillance m’inspire de vives inquiétudes : je crains qu’après ma mort sa langue ne me calomnie devant le peuple. »
+> En vain, lui ai-je, répondu que le reste de ma vie serait consacré au culte de Dieu créateur du monde, en vain lui ai-je dévoilé toute ma conduite, sa malveillance m’inspire de vives inquiétudes : je crains qu’après ma mort sa langue ne me calomnie devant le peuple. »
 
 Ces paroles leur firent répandre des larmes amères et le souvenir de Parviz leur brûlait le cœur.
 
-Quand les messagers, de retour chez le roi, lui eurent rapporté ce qu’ils avaient entendu de la bouche de cette femme innocente, Schirouï lui fit demander si son cœur généreux avait formé’d’autres désirs.
+Quand les messagers, de retour chez le roi, lui eurent rapporté ce qu’ils avaient entendu de la bouche de cette femme innocente, Schirouï lui fit demander si son cœur généreux avait formé d’autres désirs.
 
 Schirin répondit :
 
 > Il me reste un vœu à exprimer, ce sera le dernier.
 >
-> Fais ouvrir pour moi le tombeau du roi dont je veux encore contempler les traits. -Je le permets
->
-> dit Schirouï ; qu’on la laisse libre de voir le grand roi. »
+> Fais ouvrir pour moi le tombeau du roi dont je veux encore contempler les traits. »
+
+Je le permets dit Schirouï : qu’on la laisse libre de voir le grand roi. »
 
 Les gardiens ayant ouvert les portes du tombeau, cette femme vertueuse entonna une lamentation funèbre ; elle entra, appliqua son visage contre celui de Khosrou et lui rendit compte de ce qui s’était passé, puis elle avala d’un trait le poison foudroyant qui mit fin à sa douce existence.
 
