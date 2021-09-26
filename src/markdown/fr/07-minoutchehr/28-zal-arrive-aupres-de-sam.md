@@ -1,5 +1,5 @@
 ---
-lastUpdate: '2021-07-08'
+lastUpdate: '2021-09-07'
 lang: 'fr'
 status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
@@ -39,7 +39,7 @@ order: '028'
 
 Pendant ce temps Zal accourut en toute hâte, comme un oiseau ailé, comme un vaisseau sur l’eau.
 
-Tous ceux qui eurent nouvelle de son approche allèrent au-devant de lui en grand pompe et un grand cri s’élevant du palais, annonça que Zal l’heureux arrivait.
+Tous ceux qui eurent nouvelle de son approche allèrent au-devant de lui en grande pompe et un grand cri s’élevant du palais, annonça que Zal l’heureux arrivait.
 
 Sam le preux alla à sa rencontre, le cœur en joie et le pressa longtemps contre sa poitrine.
 
