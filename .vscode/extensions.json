@@ -17,5 +17,12 @@
 		"oderwat.indent-rainbow",
 		"valentjn.vscode-ltex",
 		"wmaurer.change-case",
+		"bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+		"vstirbu.vscode-mermaid-preview",
+		"ms-python.python",
+		"ms-python.vscode-pylance",
+		"ms-toolsai.jupyter",
+		"ms-toolsai.jupyter-keymap",
+		"ms-toolsai.jupyter-renderers",
 	]
 }
