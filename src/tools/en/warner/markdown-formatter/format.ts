@@ -1,3 +1,4 @@
+import { applyRuleOnLastLine } from '.';
 import { readFileSync, writeFileSync } from 'fs';
 
 function trimLines(content: string): string {
@@ -9,7 +10,7 @@ function trimLines(content: string): string {
 
 export function formatContent(content: string): string {
   let result = content;
-  [trimLines].forEach((format) => {
+  [trimLines, applyRuleOnLastLine].forEach((format) => {
     result = format(result);
   });
   return result;
