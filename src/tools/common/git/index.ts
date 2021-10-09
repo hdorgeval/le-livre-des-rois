@@ -14,6 +14,7 @@ export * from './auto-commit-updated-latex-files';
 export * from './auto-commit-updated-ltex-helpers.fr';
 export * from './auto-commit-updated-mardown-formatter.fr';
 export * from './auto-commit-updated-mardown-tags-helpers.fr';
+export * from './auto-commit-updated-notebook.en';
 export * from './auto-commit-updated-stats.fr';
 export * from './auto-commit-updated-tags-tools.fr';
 export * from './auto-commit-updated-vscode-extension-settings';

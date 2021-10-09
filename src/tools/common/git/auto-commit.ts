@@ -27,6 +27,7 @@ import {
   autoCommitUpdatedGitIgnore,
   autoCommitUpdatedExtensionJson,
   autoCommitUpdatedLtexDocumentation,
+  autoCommitUpdatedEnglishNotebooks,
 } from '.';
 
 async function autoCommit() {
@@ -65,6 +66,8 @@ async function autoCommit() {
   await autoCommitUpdatedExtensionJson().then();
   // documentation
   await autoCommitUpdatedLtexDocumentation().then();
+  // jupiter notebooks
+  await autoCommitUpdatedEnglishNotebooks().then();
 }
 
 autoCommit().then();
