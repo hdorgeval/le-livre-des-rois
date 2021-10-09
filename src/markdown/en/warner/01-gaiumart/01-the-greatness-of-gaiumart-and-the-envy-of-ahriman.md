@@ -85,11 +85,11 @@ That Life the father cherished tenderly,
 
 And wept for love, consumed by dread of parting.
 
-Thus time passed onward and the kingdom prospered, „
+Thus time passed onward and the kingdom prospered,
 
 For Gaiumart had not an enemy 1
 
-Except, in secret, wicked Ahriman, [
+Except, in secret, wicked Ahriman,
 
 Who led by envy sought the upper hand.
 
