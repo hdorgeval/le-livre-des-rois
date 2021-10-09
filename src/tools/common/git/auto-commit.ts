@@ -28,12 +28,14 @@ import {
   autoCommitUpdatedExtensionJson,
   autoCommitUpdatedLtexDocumentation,
   autoCommitUpdatedEnglishNotebooks,
+  autoCommitUpdatedEnglishWarnerMarkdownFormatter,
 } from '.';
 
 async function autoCommit() {
   // english - warner - version
   await autoCommitNewEnglishWarnerEpisodes().then();
   await autoCommitUpdatedEnglishWarnerEpisodes().then();
+  await autoCommitUpdatedEnglishWarnerMarkdownFormatter().then();
   // french - mohl - version
   await autoCommitNewFrenchEpisodes().then();
   await autoCommitUpdatedFrenchEpisodes().then();
