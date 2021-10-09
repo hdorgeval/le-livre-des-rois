@@ -3,7 +3,7 @@
 `ltex` is used both:
 
 - As a live tool within Visual Studio Code for grammar/spelling checking and fixing markdown content whatever the language used (French, English, Persian, etc...).
-  This VS Code extension enables you to correct grammar and spelling errors found in the markdown file, on the fly, as if you were in Microsoft Office;
+  This VS Code extension enables you to correct grammar and spelling errors found in the markdown file, on the fly, as if you were in Microsoft Office word;
 
 - As a command-line tool for automating all aspects regarding spell checking:
   - check how many errors are still left in markdown files;
