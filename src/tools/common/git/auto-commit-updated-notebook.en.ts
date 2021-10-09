@@ -15,7 +15,7 @@ export async function autoCommitUpdatedEnglishNotebooks(): Promise<void> {
     const unstagedFile = unstagedFiles[index];
 
     if (unstagedFile.includes('docs/books/en/warner/shahnama.ipynb')) {
-      const commitMessage = `jupiter(shahnama/en): update jupiter notebook for data collecting and processing of warner edition`;
+      const commitMessage = `jupyter(shahnama/en): update jupyter notebook for data collecting and processing of warner edition`;
       await git.add(unstagedFile);
       await git.commit(commitMessage);
       // eslint-disable-next-line no-console
