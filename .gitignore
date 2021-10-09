@@ -81,3 +81,10 @@ IR.txt
 PK.txt
 TM.txt
 SY.txt
+
+# Python environment
+.venv
+
+# Downloaded files
+*.pdf
+docs/**/*.txt
