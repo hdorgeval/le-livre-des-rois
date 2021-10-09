@@ -1,4 +1,4 @@
-import { readAllLinesInFile } from '../../common/fs';
+import { readAllLinesInFile } from '../fs';
 import { PathLike } from 'fs';
 
 export function ensureDotCharactersAreEscapedIn(filename: PathLike): void {
