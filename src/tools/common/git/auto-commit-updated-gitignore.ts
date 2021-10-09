@@ -17,7 +17,7 @@ export async function autoCommitUpdatedGitIgnore(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/.gitignore')) {
+    if (unstagedFile.includes('.gitignore')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
