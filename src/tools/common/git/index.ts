@@ -8,6 +8,7 @@ export * from './auto-commit-updated-frontmatter-helpers.fr';
 export * from './auto-commit-updated-geneaology.fr';
 export * from './auto-commit-updated-geo-data-helpers';
 export * from './auto-commit-updated-git-helpers';
+export * from './auto-commit-updated-gitignore';
 export * from './auto-commit-updated-latex-files';
 export * from './auto-commit-updated-ltex-helpers.fr';
 export * from './auto-commit-updated-mardown-formatter.fr';

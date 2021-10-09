@@ -24,6 +24,7 @@ import {
   autoCommitUpdatedLaunchJson,
   autoCommitNewEnglishWarnerEpisodes,
   autoCommitUpdatedEnglishWarnerEpisodes,
+  autoCommitUpdatedGitIgnore,
 } from '.';
 
 async function autoCommit() {
@@ -51,6 +52,7 @@ async function autoCommit() {
   // Git helpers
   await autoCommitNewGitHelpers().then();
   await autoCommitUpdatedGitHelpers().then();
+  await autoCommitUpdatedGitIgnore().then();
   // Geo data
   await autoCommitNewGeoData().then();
   await autoCommitUpdatedGeoData().then();
