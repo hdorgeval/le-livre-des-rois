@@ -25,6 +25,7 @@ import {
   autoCommitNewEnglishWarnerEpisodes,
   autoCommitUpdatedEnglishWarnerEpisodes,
   autoCommitUpdatedGitIgnore,
+  autoCommitUpdatedExtensionJson,
 } from '.';
 
 async function autoCommit() {
@@ -60,6 +61,7 @@ async function autoCommit() {
   await autoCommitUpdatedGeoDataHelpers().then();
   // vscode
   await autoCommitUpdatedLaunchJson().then();
+  await autoCommitUpdatedExtensionJson().then();
 }
 
 autoCommit().then();
