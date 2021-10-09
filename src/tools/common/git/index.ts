@@ -5,6 +5,7 @@ export * from './auto-commit-new-tags.fr';
 export * from './auto-commit-updated-documentation';
 export * from './auto-commit-updated-episodes.en';
 export * from './auto-commit-updated-episodes.fr';
+export * from './auto-commit-updated-frontmatter-helpers.en';
 export * from './auto-commit-updated-frontmatter-helpers.fr';
 export * from './auto-commit-updated-geneaology.fr';
 export * from './auto-commit-updated-geo-data-helpers';
