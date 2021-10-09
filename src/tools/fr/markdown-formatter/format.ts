@@ -25,7 +25,7 @@ import {
   splitSentencesAfterQuestionMarkAndLineFeed,
   splitSentencesOnStartOfQuotationMark,
 } from '.';
-import { ensureSpecialCharactersAreEscapedIn } from './check-regular-expressions';
+import { ensureSpecialCharactersAreEscapedIn } from '../../common/markdown-formatter';
 import { readFileSync, writeFileSync } from 'fs';
 import path from 'path';
 
