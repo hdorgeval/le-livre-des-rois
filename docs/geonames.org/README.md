@@ -10,6 +10,8 @@ These geodata countries must be downloaded in this folder if you want to contrib
 - [Pakistan](./PK.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/PK.zip)
 - [Syria](./SY.txt) downloaded from [geonames dump](https://download.geonames.org/export/dump/SY.zip)
 
+Note: you can download all files once by running this [geonames jupyter notebook](./geonames.ipynb)
+
 ## Usage
 
 The data format is tab-delimited text in utf8 encoding.
