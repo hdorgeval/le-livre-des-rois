@@ -2,6 +2,7 @@ export * from './auto-commit-new-episodes.en';
 export * from './auto-commit-new-episodes.fr';
 export * from './auto-commit-new-geo-data';
 export * from './auto-commit-new-tags.fr';
+export * from './auto-commit-updated-documentation';
 export * from './auto-commit-updated-episodes.en';
 export * from './auto-commit-updated-episodes.fr';
 export * from './auto-commit-updated-frontmatter-helpers.fr';

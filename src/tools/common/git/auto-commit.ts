@@ -26,6 +26,7 @@ import {
   autoCommitUpdatedEnglishWarnerEpisodes,
   autoCommitUpdatedGitIgnore,
   autoCommitUpdatedExtensionJson,
+  autoCommitUpdatedLtexDocumentation,
 } from '.';
 
 async function autoCommit() {
@@ -62,6 +63,8 @@ async function autoCommit() {
   // vscode
   await autoCommitUpdatedLaunchJson().then();
   await autoCommitUpdatedExtensionJson().then();
+  // documentation
+  await autoCommitUpdatedLtexDocumentation().then();
 }
 
 autoCommit().then();
