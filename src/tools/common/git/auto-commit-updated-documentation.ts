@@ -21,5 +21,13 @@ export async function autoCommitUpdatedLtexDocumentation(): Promise<void> {
       // eslint-disable-next-line no-console
       console.log(commitMessage);
     }
+
+    if (unstagedFile.includes('docs/geonames.org/README.md')) {
+      const commitMessage = `docs(geonames): update project documentation on geonames files`;
+      await git.add(unstagedFile);
+      await git.commit(commitMessage);
+      // eslint-disable-next-line no-console
+      console.log(commitMessage);
+    }
   }
 }
