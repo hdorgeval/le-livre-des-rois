@@ -1,4 +1,4 @@
-import { applyRuleOnLastLine } from '.';
+import { applyRuleOnEachLine, applyRuleOnLastLine } from '.';
 import { readFileSync, writeFileSync } from 'fs';
 
 function trimLines(content: string): string {
@@ -10,7 +10,7 @@ function trimLines(content: string): string {
 
 export function formatContent(content: string): string {
   let result = content;
-  [trimLines, applyRuleOnLastLine].forEach((format) => {
+  [trimLines, applyRuleOnEachLine, applyRuleOnLastLine].forEach((format) => {
     result = format(result);
   });
   return result;
@@ -19,9 +19,13 @@ export function formatContent(content: string): string {
 export function formatMarkdown(filepath: string): void {
   const content = readFileSync(filepath).toString();
   const parts = content.split('#');
-  const markdown = parts[1];
+  const markdownWithTitle = parts[1];
+
+  const allLines = markdownWithTitle.split('\n\n');
+  const title = allLines[0];
+  const markdown = allLines.slice(1).join('\n\n');
 
   const newMarkdown = formatContent(markdown);
-  const newContent = `${parts[0]}#${newMarkdown}`;
+  const newContent = `${parts[0]}#${title}\n\n${newMarkdown}`;
   writeFileSync(filepath, newContent);
 }
