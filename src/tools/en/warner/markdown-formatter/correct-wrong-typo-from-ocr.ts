@@ -8,6 +8,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Gaiiimart/g, ' Gaiumart'),
     (content: string) => content.replace(/Gaiiimart /g, ' Gaiumart '),
     (content: string) => content.replace(/ di'v /g, ' div '),
+    (content: string) => content.replace(/ di'v,/g, ' div,'),
     (content: string) => content.replace(/ dfv's /g, " div's "),
     (content: string) => content.replace(/ Dfv/g, ' Div'),
     (content: string) => content.replace(/Dfv /g, 'Div '),

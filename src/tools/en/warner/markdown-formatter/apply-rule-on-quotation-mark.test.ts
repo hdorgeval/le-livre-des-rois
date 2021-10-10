@@ -12,8 +12,7 @@ Thy foemen into dust, relieve earth's surface
 
 Of that vile div and thine own heart of vengeance."
 
-The famous Shah looked up and cursed his foes,
-`;
+The famous Shah looked up and cursed his foes,`;
 
   // When
   const result = splitSentencesOnStartOfQuotationMark(input);
@@ -30,8 +29,7 @@ And said :
 >
 > Of that vile div and thine own heart of vengeance.
 
-The famous Shah looked up and cursed his foes,
-`;
+The famous Shah looked up and cursed his foes,`;
 
   expect(result).toBe(expected);
 });
@@ -67,8 +65,7 @@ Sent for the prince and frankly told him all : —
 
 " I mean to gather troops and raise the war-cry,
 
-But thou being young shalt lead for I am spent." v. 17
-`;
+But thou being young shalt lead for I am spent." v. 17`;
 
   // When
   const result = splitSentencesOnStartOfQuotationMark(input);
@@ -77,14 +74,13 @@ But thou being young shalt lead for I am spent." v. 17
   const expected = `
 And therefore being set on war the Shah
 
-Sent for the prince and frankly told him all : —
+Sent for the prince and frankly told him all :
 
 > I mean to gather troops and raise the war-cry,
 >
-> But thou being young shalt lead for I am spent. 
+> But thou being young shalt lead for I am spent.
 
-v. 17
-`;
+v. 17`;
 
   expect(result).toBe(expected);
 });
