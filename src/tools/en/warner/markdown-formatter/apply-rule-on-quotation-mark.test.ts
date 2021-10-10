@@ -20,7 +20,7 @@ The famous Shah looked up and cursed his foes,
 
   // Then
   const expected = `
-And said : 
+And said :
 
 > Lament no more, control thyself,
 >

@@ -16,6 +16,6 @@ export function splitSentencesOnStartOfQuotationMark(content: string): string {
   const formattedQuotationContent = `\n\n> ${quotationContent.trim().replace(/\n\n/g, '\n>\n> ')}`;
   const restOfContent = sentences.slice(1).join('"');
 
-  const result = `${beforeQuotationMark} : ${formattedQuotationContent}${restOfContent}`;
+  const result = `${beforeQuotationMark} :${formattedQuotationContent}${restOfContent}`;
   return result;
 }
