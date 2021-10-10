@@ -3,6 +3,7 @@ import {
   applyRuleOnLastLine,
   correctWrongTypoFromOcr,
   removeChapterArtifacts,
+  removeMultipleLineFeeds,
   removePageNumbers,
   splitSentencesOnStartOfQuotationMark,
 } from '.';
@@ -22,6 +23,7 @@ export function formatContent(content: string): string {
   [
     removeChapterArtifacts,
     removePageNumbers,
+    removeMultipleLineFeeds,
     trimLines,
     applyRuleOnEachLine,
     correctWrongTypoFromOcr,
