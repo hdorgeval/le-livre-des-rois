@@ -84,3 +84,24 @@ v. 17`;
 
   expect(result).toBe(expected);
 });
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+He said, " and thou if wise must worship it."
+
+That night he made a mighty blaze, he stood`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+He said,
+
+> and thou if wise must worship it.
+
+That night he made a mighty blaze, he stood`;
+
+  expect(result).toBe(expected);
+});

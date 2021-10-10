@@ -1,7 +1,16 @@
 export function splitSentencesOnStartOfQuotationMark(content: string): string {
   let result = content;
-  result = splitSentencesOnStartOfQuotationMarkWithSplitter(result, ' : "');
-  result = splitSentencesOnStartOfQuotationMarkWithSplitter(result, ' : —\n\n"');
+  let previousResult = content;
+
+  for (let index = 0; index < 100; index++) {
+    result = splitSentencesOnStartOfQuotationMarkWithSplitter(result, ' : "');
+    result = splitSentencesOnStartOfQuotationMarkWithSplitter(result, ' : —\n\n"');
+    result = splitSentencesOnStartOfQuotationMarkWithSplitter(result, 'said, "');
+    if (result === previousResult) {
+      break;
+    }
+    previousResult = result;
+  }
 
   return result;
 }
@@ -24,9 +33,22 @@ function splitSentencesOnStartOfQuotationMarkWithSplitter(
   }
 
   const quotationContent = sentences[0];
-  const formattedQuotationContent = `\n\n> ${quotationContent.trim().replace(/\n\n/g, '\n>\n> ')}`;
+  const formattedQuotationContent = `> ${quotationContent.trim().replace(/\n\n/g, '\n>\n> ')}`;
   const restOfContent = sentences.slice(1).join('"').trim();
+  const quotationSeparator = extractQuotationSeparator(splitter);
 
-  const result = `${beforeQuotationMark} :${formattedQuotationContent}\n\n${restOfContent}`;
+  const result = `${beforeQuotationMark}${quotationSeparator}\n\n${formattedQuotationContent}\n\n${restOfContent}`;
   return result;
+}
+
+function extractQuotationSeparator(splitter: string): string {
+  if (splitter.includes(':')) {
+    return ' :';
+  }
+
+  if (splitter.includes('said, ')) {
+    return 'said,';
+  }
+
+  throw new Error('Unknown separator');
 }
