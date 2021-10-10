@@ -8,9 +8,9 @@ source: tome I - The Shahnahma of Firdausi - P. 120
 reign: 'Gaiumart'
 reign-slug: 'gaiumart-reign'
 episode-slug: 'how-siyamak-was-slain-by-the-hand-of-the-div'
-title: 'The Greatness of Gaiumart and the Envy of Ahriman'
+title: 'How Siyamak was Slain by the Hand of the Div'
 tags: []
-order: '001'
+order: '002'
 ---
 
 <!-- LTeX: language=en -->
@@ -65,13 +65,15 @@ When one year had passed thus the blest Surush
 
 Was sent by God ; he greeted Gaiumart
 
-And said : " Lament no more, control thyself,
+And said :
 
-Do as I bid, collect thy troops and turn
-
-Thy foemen into dust, relieve earth's surface
-
-Of that vile div and thine own heart of vengeance."
+> Lament no more, control thyself,
+>
+> Do as I bid, collect thy troops and turn
+>
+> Thy foemen into dust, relieve earth's surface
+>
+> Of that vile div and thine own heart of vengeance.
 
 The famous Shah looked up and cursed his foes,
 
