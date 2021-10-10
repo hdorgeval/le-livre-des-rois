@@ -57,3 +57,34 @@ The famous Shah looked up and cursed his foes,
   // Then
   expect(result).toBe(input);
 });
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+And therefore being set on war the Shah
+
+Sent for the prince and frankly told him all : —
+
+" I mean to gather troops and raise the war-cry,
+
+But thou being young shalt lead for I am spent." v. 17
+`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+And therefore being set on war the Shah
+
+Sent for the prince and frankly told him all : —
+
+> I mean to gather troops and raise the war-cry,
+>
+> But thou being young shalt lead for I am spent. 
+
+v. 17
+`;
+
+  expect(result).toBe(expected);
+});
