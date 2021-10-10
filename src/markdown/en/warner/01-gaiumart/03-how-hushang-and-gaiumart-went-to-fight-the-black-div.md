@@ -27,11 +27,11 @@ It was the lost restored and fondly cherished,
 
 And therefore being set on war the Shah
 
-Sent for the prince and frankly told him all : —
+Sent for the prince and frankly told him all :
 
-" I mean to gather troops and raise the war-cry,
-
-But thou being young shalt lead for I am spent." v. 17
+> I mean to gather troops and raise the war-cry,
+>
+> But thou being young shalt lead for I am spent.
 
 He raised a host of fairies, lions, pards,
 
@@ -47,7 +47,7 @@ Frayed by the roaring beasts. Hushang saw this
 
 And putting forth his hands like lion's paws
 
-Made earth too narrow for the lusty di'v,
+Made earth too narrow for the lusty div,
 
 Then flayed him, lopping off his monstrous head,
 
