@@ -4,6 +4,7 @@ export function splitSentencesOnStartOfQuotationMark(content: string): string {
   result = applyOnAllQuotationMarksWithSplitter(result, ' : —\n\n"');
   result = applyOnAllQuotationMarksWithSplitter(result, 'said, "');
   result = applyOnAllQuotationMarksWithSplitter(result, '. " ');
+  result = applyOnAllQuotationMarksWithSplitter(result, '.\n\n" ');
 
   return result;
 }

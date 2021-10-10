@@ -130,3 +130,32 @@ He said,`;
 
   expect(result).toBe(expected);
 });
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+Ox, ass, and sheep he turned them to good use.
+
+" Pair them," he said,
+
+> use them for toil, enjoy
+>
+> Their produce, and provide therewith your taxes.`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+Ox, ass, and sheep he turned them to good use.
+
+> Pair them,
+
+he said,
+
+> use them for toil, enjoy
+>
+> Their produce, and provide therewith your taxes.`;
+
+  expect(result).toBe(expected);
+});
