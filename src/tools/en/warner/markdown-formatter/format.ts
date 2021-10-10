@@ -2,6 +2,8 @@ import {
   applyRuleOnEachLine,
   applyRuleOnLastLine,
   correctWrongTypoFromOcr,
+  removeChapterArtifacts,
+  removePageNumbers,
   splitSentencesOnStartOfQuotationMark,
 } from '.';
 import { ensureSpecialCharactersAreEscapedIn } from '../../../common/markdown-formatter';
@@ -18,6 +20,8 @@ function trimLines(content: string): string {
 export function formatContent(content: string): string {
   let result = content;
   [
+    removeChapterArtifacts,
+    removePageNumbers,
     trimLines,
     applyRuleOnEachLine,
     correctWrongTypoFromOcr,
