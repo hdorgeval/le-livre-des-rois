@@ -29,7 +29,7 @@ And went to fight. When host met host he came
 
 In front unarmed to grapple with the son
 
-Of Ahriman. That horrible Black Dfv
+Of Ahriman. That horrible Black Div
 
 Clutched at, bent down that prince of lofty stature
 
@@ -68,17 +68,11 @@ Was sent by God ; he greeted Gaiumart
 And said :
 
 > Lament no more, control thyself,
-
 >
-
 > Do as I bid, collect thy troops and turn
-
 >
-
 > Thy foemen into dust, relieve earth's surface
-
 >
-
 > Of that vile div and thine own heart of vengeance.
 
 The famous Shah looked up and cursed his foes,
