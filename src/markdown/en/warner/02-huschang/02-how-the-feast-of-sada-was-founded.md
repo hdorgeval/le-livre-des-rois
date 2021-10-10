@@ -61,11 +61,13 @@ By Grace and kingly power domesticating
 
 Ox, ass, and sheep he turned them to good use.
 
-" Pair them," he said,
+> Pair them,
+
+he said,
 
 > use them for toil, enjoy
 >
-> Their produce, and provide therewith your taxes.
+> Their produce and provide therewith your taxes.
 
 He slew the furry rovers for their skins,
 
@@ -89,6 +91,6 @@ The time that fortune gave him did not last
 
 For long, Hushang, the wise and prudent, passed.
 
-To thee too this world will not give its love,
+To thee too, this world will not give its love,
 
 Nor will it from its face the veil remove.
