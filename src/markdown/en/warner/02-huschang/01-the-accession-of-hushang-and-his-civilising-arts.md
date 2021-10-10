@@ -19,11 +19,9 @@ order: '001'
 
 Hiishang, a just and prudent sovereign,
 
-V. 1 8 Assumed his grandsire's crown. For forty years
+Assumed his grandsire's crown. For forty years
 
 Heaven turned above him. He was just and wise.
-
-i WPT, i. 58.
 
 He said :
 
