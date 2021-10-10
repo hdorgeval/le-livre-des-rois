@@ -17,7 +17,7 @@ function formatAllEpisodesIn(rootDirectory: PathLike) {
 
       if (isMarkdownFileInDraftMode(file)) {
         // eslint-disable-next-line no-console
-        console.log(`formatting '${file}'`);
+        console.log(`formatting '${file.replace(process.cwd(), '').replace('/src/markdown', '')}'`);
         formatMarkdown(file);
       }
     }
