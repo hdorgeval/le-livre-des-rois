@@ -18,9 +18,10 @@ order: '002'
 # How the Feast of Sada was Founded
 
 One day he reached a mountain with his men
+
 And saw afar a long swift dusky form
 
-With eyes like pools of blood and jaws whose smoke v. 19
+With eyes like pools of blood and jaws whose smoke
 
 Bedimmed the world. Hushang the wary seized
 
@@ -40,32 +41,52 @@ For such a radiant gift. He made of fire
 
 A cynosure. " This lustre is divine,"
 
-He said, " and thou if wise must worship it."
+He said,
 
-124 THE SHAHNAMA OF FIRDAUSt
+> and thou if wise must worship it.
 
 That night he made a mighty blaze, he stood
-1 Around it with his men and held the feast
+
+Around it with his men and held the feast
+
 Called Sada; that bright festival remaineth
+
 As his memorial, and may earth see
+
 More royal benefactors like to him.
 
 By Grace and kingly power domesticating
+
 Ox, ass, and sheep he turned them to good use.
-" Pair them," he said, " use them for toil, enjoy
-Their produce, and provide therewith your taxes."
+
+" Pair them," he said,
+
+> use them for toil, enjoy
+>
+> Their produce, and provide therewith your taxes.
 
 He slew the furry rovers for their skins,
+
 Such as the squirrel, ermine, fox, and sable,
+
 So sleek of hair ; the rovers clothed the talkers.
 
 He gave, spent freely, and enjoyed the fruit,
+
 Then passing took naught with him but repute.
+
 In life no little share of toil had he
+
 In musings past all count and grammarye,
+
 And when a better life was his elsewhere
+
 He left the throne of greatness to his heir.
+
 The time that fortune gave him did not last
+
 For long, Hushang, the wise and prudent, passed.
+
 To thee too this world will not give its love,
+
 Nor will it from its face the veil remove.
