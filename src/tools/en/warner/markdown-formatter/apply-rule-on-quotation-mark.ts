@@ -1,11 +1,19 @@
 export function splitSentencesOnStartOfQuotationMark(content: string): string {
   let result = content;
+  result = applyOnAllQuotationMarksWithSplitter(result, ' : "');
+  result = applyOnAllQuotationMarksWithSplitter(result, ' : —\n\n"');
+  result = applyOnAllQuotationMarksWithSplitter(result, 'said, "');
+  result = applyOnAllQuotationMarksWithSplitter(result, '. " ');
+
+  return result;
+}
+
+function applyOnAllQuotationMarksWithSplitter(content: string, splitter: string): string {
+  let result = content;
   let previousResult = content;
 
   for (let index = 0; index < 100; index++) {
-    result = splitSentencesOnStartOfQuotationMarkWithSplitter(result, ' : "');
-    result = splitSentencesOnStartOfQuotationMarkWithSplitter(result, ' : —\n\n"');
-    result = splitSentencesOnStartOfQuotationMarkWithSplitter(result, 'said, "');
+    result = splitSentencesOnStartOfQuotationMarkWithSplitter(result, splitter);
     if (result === previousResult) {
       break;
     }
@@ -44,6 +52,9 @@ function splitSentencesOnStartOfQuotationMarkWithSplitter(
 function extractQuotationSeparator(splitter: string): string {
   if (splitter.includes(':')) {
     return ' :';
+  }
+  if (splitter.includes('.')) {
+    return '.';
   }
 
   if (splitter.includes('said, ')) {

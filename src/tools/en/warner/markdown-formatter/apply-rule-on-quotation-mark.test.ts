@@ -105,3 +105,28 @@ That night he made a mighty blaze, he stood`;
 
   expect(result).toBe(expected);
 });
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+For such a radiant gift. He made of fire
+
+A cynosure. " This lustre is divine,"
+
+He said,`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+For such a radiant gift. He made of fire
+
+A cynosure.
+
+> This lustre is divine,
+
+He said,`;
+
+  expect(result).toBe(expected);
+});
