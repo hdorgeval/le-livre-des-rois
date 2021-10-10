@@ -39,7 +39,9 @@ When iron knocked. The worldlord offered praise
 
 For such a radiant gift. He made of fire
 
-A cynosure. " This lustre is divine,"
+A cynosure.
+
+> This lustre is divine,
 
 He said,
 
