@@ -25,11 +25,7 @@ Heaven turned above him. He was just and wise.
 
 i WPT, i. 58.
 
-122
 
-
-
-123
 
 He said :
 
@@ -98,8 +94,6 @@ For such a radiant gift. He made of fire
 A cynosure. " This lustre is divine,"
 
 He said, " and thou if wise must worship it."
-
-124
 
 That night he made a mighty blaze, he stood
 
