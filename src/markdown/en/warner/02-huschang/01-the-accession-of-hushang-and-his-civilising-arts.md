@@ -25,8 +25,6 @@ Heaven turned above him. He was just and wise.
 
 i WPT, i. 58.
 
-
-
 He said :
 
 > I lord it o'er the seven climes,
