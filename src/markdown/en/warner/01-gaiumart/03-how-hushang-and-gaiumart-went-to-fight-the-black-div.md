@@ -34,22 +34,37 @@ Sent for the prince and frankly told him all : —
 But thou being young shalt lead for I am spent." v. 17
 
 He raised a host of fairies, lions, pards,
+
 And raveners, as wolves and fearless tigers,
+
 But took the rear, his grandson led the host.
 
 The Black Div though in terror raised the dust
+
 To heaven, but his claws were hanging slack
+
 Frayed by the roaring beasts. Hushang saw this
+
 And putting forth his hands like lion's paws
+
 Made earth too narrow for the lusty di'v,
+
 Then flayed him, lopping off his monstrous head,
+
 And trampled him in scorn thus flayed and shent.
 
 The days of Gaiumart had reached their close
+
 When he achieved this vengeance on his foes ;
+
 He passed away, the world was for his heir,
+
 But see who hath had glory to compare
+
 With his ! He owned this tricky world and made
+
 The path of gain his path, and yet he stayed
+
 Not to enjoy, for like a story done
+
 Is this world : good and ill abide with none.
