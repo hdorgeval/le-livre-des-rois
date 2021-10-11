@@ -14,8 +14,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Dfv/g, ' Div'),
     (content: string) => content.replace(/Dfv /g, 'Div '),
     (content: string) => content.replace(/ 1\n/g, '\n'),
+    (content: string) => content.replace(/ 2\n/g, '\n'),
     (content: string) => content.replace(/Hiishang/g, 'Hushang'),
     (content: string) => content.replace(/, " "\n/g, ',\n'),
+    (content: string) => content.replace(/\n\\ /g, '\n'),
   ].forEach((format) => {
     result = format(result);
   });
