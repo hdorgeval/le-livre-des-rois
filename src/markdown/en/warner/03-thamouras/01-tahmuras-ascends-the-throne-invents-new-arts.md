@@ -19,7 +19,7 @@ order: '001'
 
 Hushang possessed a wise and noble son
 
-Hight Tahmuras — the Binder of the Di'v —
+Hight Tahmuras — the Binder of the Div —
 
 Who took the throne and girt his loins to rule,
 
@@ -55,11 +55,11 @@ Among the well-armed birds he chose the hawk
 
 And noble falcon, and began to tame them
 
-\ While men looked on amazed. His orders were
+While men looked on amazed. His orders were
 
 To rear the birds and speak to them with kindness.
 
-He brought the cocks and hens to crow at drumbeat, 2
+He brought the cocks and hens to crow at drumbeat,
 
 And turned all hidden properties to use.
 
@@ -70,10 +70,6 @@ He said :
 > Who made the world, and us to rule the beasts :
 >
 > Praise be to Him, for He directed us.
-
-1 See Introd. p. 48.
-
-2 The drum beaten outside palaces in the East at dawn.
 
 He had a famed and honest minister
 
@@ -157,7 +153,7 @@ Yet passed away ! His time of life was spent
 
 And all his toils became his monument.
 
-O world ! caress not those whom thou wilt soon
+O world ! Caress not those whom thou wilt soon
 
 Cut off, for such caressing is no boon ;
 
