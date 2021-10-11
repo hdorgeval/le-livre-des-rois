@@ -45,7 +45,7 @@ He chose the swiftest quadrupeds and made them
 
 To feed on barley, grass, and hay ; he noted
 
-v 21 The shyest of the beasts of prey, and chose
+The shyest of the beasts of prey, and chose
 
 The jackal and the cheetah, luring them
 
