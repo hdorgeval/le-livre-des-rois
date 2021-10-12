@@ -29,7 +29,7 @@ His girdle was the Grace of king of kings,
 
 And all the world obeyed him, contests ceased,
 
-The age had rest, and bird and dfv and fairy
+The age had rest, and bird and div and fairy
 
 Were his to bid, the world took added lustre,
 
