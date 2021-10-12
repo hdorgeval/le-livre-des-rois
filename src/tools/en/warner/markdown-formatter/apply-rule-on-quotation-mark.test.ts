@@ -216,3 +216,38 @@ From me derive your provand, ease, and sleep,`;
 
   expect(result).toBe(expected);
 });
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+Iblis rejoined,
+
+" Art perjured and wilt still be despicable,
+
+Thy father honoured."
+
+Thus he snared the Arab,
+
+Who asked :
+
+> What must I do ? I will obey.`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+Iblis rejoined,
+
+> Art perjured and wilt still be despicable,
+>
+> Thy father honoured.
+
+Thus he snared the Arab,
+
+Who asked :
+
+> What must I do ? I will obey.`;
+
+  expect(result).toBe(expected);
+});
