@@ -182,3 +182,37 @@ The fourth caste was the artizans. They live`;
 
   expect(result).toBe(expected);
 });
+test(`Should split`, () => {
+  // Given
+  const input = `
+The chiefs, and what a wealth of words he used !
+
+" The world is mine, I found its properties,
+
+The royal throne hath seen no king like me,
+
+For I have decked the world with excellence
+
+And fashioned earth according to my will."
+
+From me derive your provand, ease, and sleep,`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+The chiefs, and what a wealth of words he used !
+
+> The world is mine, I found its properties,
+>
+> The royal throne hath seen no king like me,
+>
+> For I have decked the world with excellence
+>
+> And fashioned earth according to my will.
+
+From me derive your provand, ease, and sleep,`;
+
+  expect(result).toBe(expected);
+});

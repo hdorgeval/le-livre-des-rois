@@ -11,6 +11,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ di'v,/g, ' div,'),
     (content: string) => content.replace(/ Di'v /g, ' Div '),
     (content: string) => content.replace(/ dfv's /g, " div's "),
+    (content: string) => content.replace(/ dfv /g, ' div '),
+    (content: string) => content.replace(/ di'vs /g, ' divs '),
     (content: string) => content.replace(/ Dfv/g, ' Div'),
     (content: string) => content.replace(/Dfv /g, 'Div '),
     (content: string) => content.replace(/ 1\n/g, '\n'),
