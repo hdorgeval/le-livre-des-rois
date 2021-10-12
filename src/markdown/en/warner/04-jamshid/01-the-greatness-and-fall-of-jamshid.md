@@ -165,7 +165,7 @@ Rank loftier still, and by his royal Grace
 
 Made him a throne, with what a wealth of gems
 
-Inlaid I which when he willed the di'vs took up
+Inlaid I which when he willed the divs took up
 
 And bare from earth to heaven. There the Shah,
 
@@ -225,33 +225,33 @@ In his ingratitude. He summoned all
 
 The chiefs, and what a wealth of words he used !
 
-" The world is mine, I found its properties,
-
-The royal throne hath seen no king like me,
-
-For I have decked the world with excellence
-
-And fashioned earth according to my will.
-
-From me derive your provand, ease, and sleep,
-
-Your raiment and your pleasure. Mine are greatness
-
-And diadem and sovereignty. Who saith
-
-That there is any great king save myself ?
-
-Leechcraft hath cured the world, disease and death
-
-Are stayed. Though kings are many who but I
-
-Saved men from death ? Ye owe me sense and life :
-
-They who adore me not are Ahrimans.
-
-So now that ye perceive what I have done
-
-All hail me as the Maker of the world."
+> The world is mine, I found its properties,
+>
+> The royal throne hath seen no king like me,
+>
+> For I have decked the world with excellence
+>
+> And fashioned earth according to my will.
+>
+> From me derive your provand, ease, and sleep,
+>
+> Your raiment and your pleasure. Mine are greatness
+>
+> And diadem and sovereignty. Who saith
+>
+> That there is any great king save myself ?
+>
+> Leechcraft hath cured the world, disease and death
+>
+> Are stayed. Though kings are many who but I
+>
+> Saved men from death ? Ye owe me sense and life :
+>
+> They who adore me not are Ahrimans.
+>
+> So now that ye perceive what I have done
+>
+> All hail me as the Maker of the world.
 
 Thereat the archmages hung their heads, perplexed
 
