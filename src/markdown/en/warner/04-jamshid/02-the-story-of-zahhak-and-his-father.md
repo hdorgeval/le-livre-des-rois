@@ -45,8 +45,6 @@ With golden equipage — a famous stud.
 
 Most of his days and nights he spent on horseback
 
-136
-
 Engaged in superintendence not in war.
 
 One day Iblis approached him as a friend
@@ -109,9 +107,9 @@ He said :
 
 Iblis rejoined,
 
-" Art perjured and wilt still be despicable,
-
-Thy father honoured."
+> Art perjured and wilt still be despicable,
+>
+> Thy father honoured.
 
 Thus he snared the Arab,
 
