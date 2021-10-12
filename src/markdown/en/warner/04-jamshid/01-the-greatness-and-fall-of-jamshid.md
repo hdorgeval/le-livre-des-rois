@@ -115,8 +115,6 @@ The fourth caste was the artizans. They live
 
 By doing handiwork — a turbulent crew,
 
-133
-
 Who being always busied with their craft
 
 Are given much to thought. Jamshfd thus spent
