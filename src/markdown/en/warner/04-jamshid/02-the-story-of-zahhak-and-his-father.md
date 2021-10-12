@@ -19,7 +19,7 @@ order: '002'
 
 One of the desert spear-armed Bedouins
 
-Of noble birth then lived — a virtuous king, V. 23
+Of noble birth then lived — a virtuous king,
 
 Just, highborn, generous, and hight Mardas,
 
@@ -102,7 +102,7 @@ To bathe him ere he prayed, without a slave
 To light him on his way, The wicked Div,
 Intent on ill, dug in the garden-path
 
-A deep pit, masked and made it good with boughs. V. 30
+A deep pit, masked and made it good with boughs.
 
 Ere dawn the Arab chieftain hied him thither
 
