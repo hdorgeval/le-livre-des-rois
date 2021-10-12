@@ -45,61 +45,98 @@ With golden equipage — a famous stud.
 
 Most of his days and nights he spent on horseback
 
-136 THE SHAHNAMA OF FIRDAUSf
+136
 
 Engaged in superintendence not in war.
 
-One day Iblls approached him as a friend
+One day Iblis approached him as a friend
+
 And led his wits astray. The youth gave ear
+
 With pleasure and all unsuspectingly
-Gave to Iblfs heart, reason, and pure soul,
-And heaped the dust on his own head. Ibh's
+
+Gave to Iblis heart, reason, and pure soul,
+
+And heaped the dust on his own head. Iblis
+
 Exulted seeing that the youth was snared
+
 And gulled the simpleton with specious words,
-Thus saying : " I could tell thee many things
-Known to myself alone/'
 
-The youth made answer : —
-"Tell me at once, my worthy monitor I"
+Thus saying :
 
-Iblis replied : " First promise, then my story."
-The guileless youth swore as Iblls dictated : —
-" Thy secret shall be kept, thy bidding done."
+> I could tell thee many things
+>
+> Known to myself alone.
 
-Then said Iblls : " Great prince ! shall any rule
-Here but thyself ? What profiteth a sire
-With such a son ? Now hearken to my rede :
-The lifetime of this ancient potentate
-Continueth, thou art shelved. Seize on his court
-And goods. His place will suit thee, thou shalt be
-King of the world if thou durst do my bidding."
+The youth made answer :
 
-Za-hhak looked grave ; to shed his sire's blood grieved
-him.
+> Tell me at once, my worthy monitor !
 
-He said : " Not so, suggest some other course :
-This cannot be."
+Iblis replied :
 
-" Then thou " IbHs rejoined,
+> First promise, then my story.
+
+The guileless youth swore as Iblis dictated :
+
+> Thy secret shall be kept, thy bidding done.
+
+Then said Iblis :
+
+> Great prince ! shall any rule
+>
+> Here but thyself ? What profiteth a sire
+>
+> With such a son ? Now hearken to my rede :
+>
+> The lifetime of this ancient potentate
+>
+> Continueth, thou art shelved. Seize on his court
+>
+> And goods. His place will suit thee, thou shalt be
+>
+> King of the world if thou durst do my bidding.
+
+Zahhak looked grave ; to shed his sire's blood grieved him.
+
+He said :
+
+> Not so, suggest some other course :
+>
+> This cannot be.
+
+> Then thou,
+
+Iblis rejoined,
+
 " Art perjured and wilt still be despicable,
+
 Thy father honoured."
 
 Thus he snared the Arab,
-Who asked : " What must I do ? I will obey."
 
-Iblfs replied : " Leave me to scheme. Thy head
-Shall touch the sun. I only ask thy silence ;
-No help need I, myself am competent,
-But keep the sword of speech within the scabbard."
+Who asked :
 
-JAMSHtD
+> What must I do ? I will obey.
 
-137
+Iblis replied :
+
+> Leave me to scheme. Thy head
+>
+> Shall touch the sun. I only ask thy silence ;
+>
+> No help need I, myself am competent,
+>
+> But keep the sword of speech within the scabbard.
 
 Now in the palace was a jocund garth,
+
 And thither used Mardas to go at dawn
+
 To bathe him ere he prayed, without a slave
+
 To light him on his way, The wicked Div,
+
 Intent on ill, dug in the garden-path
 
 A deep pit, masked and made it good with boughs.
@@ -118,21 +155,36 @@ Yet that abandoned youth respected not
 
 His father, but conspired to shed his blood.
 
-I heard a sage once say : " Though fierce in strife
-No son will dare to take his father's life ;
-If such a crime should seem to be implied,
-Seek for the reason on the mother's side."
+I heard a sage once say :
+
+> Though fierce in strife
+>
+> No son will dare to take his father's life ;
+>
+> If such a crime should seem to be implied,
+>
+> Seek for the reason on the mother's side.
 
 Vile and unjust Zahhak thus seized the throne,
+
 Assumed the Arabs' crown and governed them
+
 For good or ill.
 
 Iblis encouraged thus
-Began again and said : " Since thou hast turned
-To me, and gained thy heart's desire, come pledge me
-Thy word once more to do as I require ;
-And then thy realm shall spread throughout the world,
-Birds, beasts, and fishes shall be all thine own."
+
+Began again and said :
+
+> Since thou hast turned
+>
+> To me, and gained thy heart's desire, come pledge me
+>
+> Thy word once more to do as I require ;
+>
+> And then thy realm shall spread throughout the world,
+>
+> Birds, beasts, and fishes shall be all thine own.
 
 When this was said he set about to use,
+
 Most marvellous ! another kind of ruse.
