@@ -1,5 +1,5 @@
 ---
-lastUpdate: '2021-10-11'
+lastUpdate: '2021-10-12'
 lang: 'en'
 status: 'draft'
 thumbnail: 'EFm7JpD9jy8.jpeg'
@@ -167,9 +167,7 @@ Vile and unjust Zahhak thus seized the throne,
 
 Assumed the Arabs' crown and governed them
 
-For good or ill.
-
-Iblis encouraged thus
+For good or ill. Iblis encouraged thus
 
 Began again and said :
 
