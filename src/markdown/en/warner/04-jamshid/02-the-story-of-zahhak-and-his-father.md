@@ -37,7 +37,7 @@ Whom much he loved — Zahhak, a gallant prince,
 
 But hasty. People called him Biwarasp.
 
-Ten thousand is " biwar " in ancient Persian,
+Ten thousand is "biwar" in ancient Persian,
 
 And he possessed ten thousand Arab steeds
 
@@ -81,7 +81,7 @@ The guileless youth swore as Iblis dictated :
 
 Then said Iblis :
 
-> Great prince ! shall any rule
+> Great prince ! Shall any rule
 >
 > Here but thyself ? What profiteth a sire
 >
@@ -111,7 +111,7 @@ Iblis rejoined,
 >
 > Thy father honoured.
 
-Thus he snared the Arab,
+Thus, he snared the Arab,
 
 Who asked :
 
@@ -185,4 +185,4 @@ Began again and said :
 
 When this was said he set about to use,
 
-Most marvellous ! another kind of ruse.
+Most marvellous ! Another kind of ruse.
