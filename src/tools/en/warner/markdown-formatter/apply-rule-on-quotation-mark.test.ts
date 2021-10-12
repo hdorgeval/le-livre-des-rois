@@ -159,3 +159,26 @@ he said,
 
   expect(result).toBe(expected);
 });
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+What said the noble man and eloquent ?
+
+"'Tis idleness that maketh freemen slaves."
+
+The fourth caste was the artizans. They live`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+What said the noble man and eloquent ?
+
+> 'Tis idleness that maketh freemen slaves.
+
+The fourth caste was the artizans. They live`;
+
+  expect(result).toBe(expected);
+});
