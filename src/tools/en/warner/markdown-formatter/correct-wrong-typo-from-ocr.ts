@@ -2,6 +2,8 @@ export function correctWrongTypoFromOcr(content: string): string {
   let result = content;
   [
     (content: string) => content.replace(/ , /g, ', '),
+    (content: string) => content.replace(/\/'\n/g, '."\n'),
+    (content: string) => content.replace(/ I"\n/g, ' !"\n'),
     (content: string) => content.replace(/, „\n\n/g, ',\n\n'),
     (content: string) => content.replace(/, \[\n\n/g, ',\n\n'),
     (content: string) => content.replace(/ Gaiiimart /g, ' Gaiumart '),
@@ -28,6 +30,12 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Jamshi'd/g, 'Jamshid'),
     (content: string) => content.replace(/, y\.\n/g, ',\n'),
     (content: string) => content.replace(/\. '\n/g, '.\n'),
+    (content: string) => content.replace(/ Iblls /g, ' Iblis '),
+    (content: string) => content.replace(/ Iblfs /g, ' Iblis '),
+    (content: string) => content.replace(/\nIblfs /g, '\nIblis '),
+    (content: string) => content.replace(/ IbHs /g, ' Iblis '),
+    (content: string) => content.replace(/ Ibh's\n/g, ' Iblis\n'),
+    (content: string) => content.replace(/Za-hhak /g, 'Zahhak '),
   ].forEach((format) => {
     result = format(result);
   });
