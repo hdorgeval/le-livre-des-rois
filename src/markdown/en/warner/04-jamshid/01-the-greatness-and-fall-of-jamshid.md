@@ -109,7 +109,7 @@ Upon the soil safe from dispute and contest.
 
 What said the noble man and eloquent ?
 
-"'Tis idleness that maketh freemen slaves."
+> 'Tis idleness that maketh freemen slaves.
 
 The fourth caste was the artizans. They live
 
@@ -269,11 +269,9 @@ Brought on disaster and overturned the state.
 
 How saith the seer, the man of Grace and wisdom ?
 
-" King though thou art serve God. Great fears
-
-oppress
-
-The heart that is devoid of thankfulness."
+> King though thou art serve God. Great fears oppress
+>
+> The heart that is devoid of thankfulness.
 
 Day darkened to Jamshid, he lost the Grace
 
