@@ -95,7 +95,7 @@ At whiles around the world. Thereat the dfvs
 
 Rebelled and held a conclave, for their throne
 
-Of gold was void. When Tahmuras was ware v. 22
+Of gold was void. When Tahmuras was ware
 
 He was enraged and spoiled their trafficking,
 
