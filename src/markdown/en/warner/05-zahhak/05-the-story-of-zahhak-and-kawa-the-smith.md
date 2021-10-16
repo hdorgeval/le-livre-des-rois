@@ -5,8 +5,8 @@ status: 'draft'
 thumbnail: 'EFm7JpD9jy8.jpeg'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - The Shahnahma of Firdausi - P. 154
-reign: 'Zahak'
-reign-slug: 'zahak-reign'
+reign: 'Zahhak'
+reign-slug: 'zahhak-reign'
 episode-slug: 'the-story-of-zahhak-and-kawa-the-smith'
 title: 'The Story of Zahhak and Kawa the Smith'
 tags: []
