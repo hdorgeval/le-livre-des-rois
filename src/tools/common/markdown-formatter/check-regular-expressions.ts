@@ -95,9 +95,35 @@ export function ensureBracketCharactersAreEscapedIn(filename: PathLike): void {
   }
 }
 
+export function hasMissingEscapeCharacterOnCircumflex(line: string): boolean {
+  const rawRegex = line.split('(/')[1].split('/g')[0];
+  const sanitizedRawRegex = rawRegex;
+
+  if (sanitizedRawRegex.match(/[^\\]\^/)) {
+    // eslint-disable-next-line no-console
+    console.log(`regex '/${line}/' is missing escape character`);
+    return true;
+  }
+  return false;
+}
+
+export function ensureCircumflexCharactersAreEscapedIn(filename: PathLike): void {
+  const lines = readAllLinesInFile(filename);
+
+  const hasUnescapedCharacters = lines
+    .filter((line) => line.includes('.replace(/'))
+    .filter((line) => line.includes('^'))
+    .some((line) => hasMissingEscapeCharacterOnCircumflex(line));
+
+  if (hasUnescapedCharacters) {
+    throw new Error(`file '${filename}' has wrong regular expressions`);
+  }
+}
+
 export function ensureSpecialCharactersAreEscapedIn(filename: PathLike): void {
   ensureDotCharactersAreEscapedIn(filename);
   ensureQuestionMarkCharactersAreEscapedIn(filename);
   ensureParentethisCharactersAreEscapedIn(filename);
   ensureBracketCharactersAreEscapedIn(filename);
+  ensureCircumflexCharactersAreEscapedIn(filename);
 }
