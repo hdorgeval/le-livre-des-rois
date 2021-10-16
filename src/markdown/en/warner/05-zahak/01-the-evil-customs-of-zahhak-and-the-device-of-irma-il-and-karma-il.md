@@ -7,15 +7,15 @@ image: 'EFm7JpD9jy8.jpeg'
 source: tome I - The Shahnahma of Firdausi - P. 145
 reign: 'Zahak'
 reign-slug: 'zahak-reign'
-episode-slug: 'the-evil-customs-of-zahhak-and-the-device-of-irmaïl-and-karmaïl'
-title: 'The Evil Customs of Zahhak and the Device of Irmaïl and Karmaïl'
+episode-slug: 'the-evil-customs-of-zahhak-and-the-device-of-irma-il-and-karma-il'
+title: 'The Evil Customs of Zahhak and the Device of Irma'il and Karma'il'
 tags: []
 order: '001'
 ---
 
 <!-- LTeX: language=en -->
 
-# The Evil Customs of Zahhak and the Device of Irmaïl and Karmaïl
+# The Evil Customs of Zahhak and the Device of Irma'il and Karma'il
 
 Zahhak sat on the throne a thousand years V. 35
 
