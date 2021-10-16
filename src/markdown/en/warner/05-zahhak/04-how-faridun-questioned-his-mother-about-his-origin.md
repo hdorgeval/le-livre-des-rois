@@ -5,8 +5,8 @@ status: 'draft'
 thumbnail: 'EFm7JpD9jy8.jpeg'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - The Shahnahma of Firdausi - P. 152
-reign: 'Zahak'
-reign-slug: 'zahak-reign'
+reign: 'Zahhak'
+reign-slug: 'zahhak-reign'
 episode-slug: 'how-faridun-questioned-his-mother-about-his-origin'
 title: 'How Faridun questioned his Mother about his Origin'
 tags: []
