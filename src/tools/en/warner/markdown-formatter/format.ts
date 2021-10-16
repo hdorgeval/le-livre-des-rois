@@ -18,6 +18,10 @@ function trimLines(content: string): string {
     .join('\n\n');
 }
 
+function trimDialogs(content: string): string {
+  return content.replace(/\n> {2}/g, '\n> ');
+}
+
 export function formatContent(content: string): string {
   let result = content;
   [
@@ -28,6 +32,7 @@ export function formatContent(content: string): string {
     applyRuleOnEachLine,
     correctWrongTypoFromOcr,
     splitSentencesOnStartOfQuotationMark,
+    trimDialogs,
     applyRuleOnLastLine,
   ].forEach((format) => {
     result = format(result);
