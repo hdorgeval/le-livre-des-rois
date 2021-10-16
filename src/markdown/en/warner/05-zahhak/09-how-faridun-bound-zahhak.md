@@ -188,9 +188,6 @@ And bonds alone were left him in the mountains,
 Where Faridun chose out a narrow gorge —
 A chasm which he had marked of viewless depth —
 
-1 In the Persian, " Shirkhan/' with one letter changed, would mean
-" call old."
-
 THE SHAHNAMA OF FIRDA USt
 
 And having studded it with heavy nails,
