@@ -13,6 +13,7 @@ export * from './auto-commit-updated-git-helpers';
 export * from './auto-commit-updated-gitignore';
 export * from './auto-commit-updated-latex-files';
 export * from './auto-commit-updated-ltex-helpers.fr';
+export * from './auto-commit-updated-mardown-formatter.common';
 export * from './auto-commit-updated-mardown-formatter.en';
 export * from './auto-commit-updated-mardown-formatter.fr';
 export * from './auto-commit-updated-mardown-tags-helpers.fr';
