@@ -75,8 +75,6 @@ Was dark as raven's plumes, but when at length
 The Lamp showed o'er the hills, and thou hadst said,
 " Strewed yellow gems upon the azure vault,"
 
-1 See Initrod. p. 71.
-
 ZAHHAK
 
 49
