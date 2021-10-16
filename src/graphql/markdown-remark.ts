@@ -1,4 +1,4 @@
-import { FileNode } from 'gatsby-plugin-image/dist/src/components/hooks';
+import { ImageDataLike } from 'gatsby-plugin-image';
 
 export interface AllMarkdownRemarkResponse {
   allMarkdownRemark: AllMarkdownRemark;
@@ -6,7 +6,7 @@ export interface AllMarkdownRemarkResponse {
 
 export interface MarkdownRemarkResponse {
   markdownRemark: MarkdownNode;
-  file: FileNode;
+  file: ImageDataLike;
 }
 export interface AllMarkdownRemark {
   edges: MardownNodeWrapper[];
