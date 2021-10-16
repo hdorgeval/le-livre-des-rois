@@ -30,9 +30,6 @@ And used it as a rope to bind his hands
 Firm as a rock, 1 placed on his neck a yoke,
 Then casting earth and dust upon his head
 
-1 Cf. Keresdspa's account of his treatment of Gandarep. See intro-
-ductory note to Farldun.
-
 T48 THE SHAHNAMA OF FIRDAUSf
 
 Dragged him before the crowd in shame and anguish
