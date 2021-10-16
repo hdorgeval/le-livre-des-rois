@@ -5,8 +5,8 @@ status: 'draft'
 thumbnail: 'EFm7JpD9jy8.jpeg'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - The Shahnahma of Firdausi - P. 164
-reign: 'Zahak'
-reign-slug: 'zahak-reign'
+reign: 'Zahhak'
+reign-slug: 'zahhak-reign'
 episode-slug: 'the-story-of-faridun-and-the-minister-of-zahhak'
 title: 'The Story of Faridun and the Minister of Zahhak'
 tags: []
