@@ -41,7 +41,7 @@ Of those two ladies visaged like the moon
 
 The names were Shahrinaz and Arnawaz.
 
-Men bore them to the palace of Zahhik
+Men bore them to the palace of Zahhak
 
 And gave them over to the dragon king,
 
@@ -61,7 +61,7 @@ Who having slaughtered them took out their brains
 
 To feed the snakes and ease the monarch's anguish.
 
-Now in the realm were two good high-born Persians — 
+Now in the realm were two good high-born Persians —
 
 The pious Irma'il and Karma'il
 
@@ -75,7 +75,7 @@ One said :
 >
 > The Shah, and by our wits devise a scheme
 >
->  To rescue one from each pair doomed to death.
+> To rescue one from each pair doomed to death.
 
 They went and learned that art. The clever twain
 
