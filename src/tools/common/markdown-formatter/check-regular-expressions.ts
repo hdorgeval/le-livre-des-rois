@@ -65,7 +65,10 @@ export function ensureParentethisCharactersAreEscapedIn(filename: PathLike): voi
 }
 export function hasMissingEscapeCharacterOnBracket(line: string): boolean {
   const rawRegex = line.split('(/')[1].split('/g')[0];
-  const sanitizedRawRegex = rawRegex.replace(/\[1,2,3\]/g, '').replace(/\[1,2,3,4\]/g, '');
+  const sanitizedRawRegex = rawRegex
+    .replace(/\[1,2,3\]/g, '')
+    .replace(/\[1,2,3,4\]/g, '')
+    .replace(/\[V,v\]/g, '');
   if (sanitizedRawRegex.match(/[^\\]\[/)) {
     // eslint-disable-next-line no-console
     console.log(`regex '/${line}/' is missing escape character`);
