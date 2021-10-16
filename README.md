@@ -10,7 +10,7 @@ This book is mainly the mythical and to some extent the historical past of the P
 
 This repo is intended to :
 
-- hold Ferdowsi's work in Markdown format in all available languages used to write and translate this book;
+- hold Ferdowsi's work in Markdown format in all available languages used to write and translate this book; for example you can read the [English Markdown](./src/markdown/en/warner) or the [French Markdown](./src/markdown/fr);
 
 - hold any related work in Markdown format, like for example the Zend-Avesta;
 
