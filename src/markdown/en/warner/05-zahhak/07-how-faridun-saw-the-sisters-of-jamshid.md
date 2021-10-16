@@ -5,8 +5,8 @@ status: 'draft'
 thumbnail: 'EFm7JpD9jy8.jpeg'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - The Shahnahma of Firdausi - P. 161
-reign: 'Zahak'
-reign-slug: 'zahak-reign'
+reign: 'Zahhak'
+reign-slug: 'zahhak-reign'
 episode-slug: 'how-faridun-saw-the-sisters-of-jamshid'
 title: 'How Faridun saw the Sisters of Jamshid'
 tags: []
