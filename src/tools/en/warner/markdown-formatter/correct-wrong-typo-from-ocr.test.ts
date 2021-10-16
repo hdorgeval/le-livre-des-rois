@@ -41,3 +41,16 @@ Whose days were almost sped : " Bring forth the Dragon
 Bound in the lasso's coils as he deserveth."`;
   expect(result).toBe(expected);
 });
+test(`Should correct wrong typo`, () => {
+  // Given
+  const content = `
+The lady^s counsel pleased the Shah.`;
+
+  // When
+  const result = correctWrongTypoFromOcr(content);
+
+  // Then
+  const expected = `
+The lady's counsel pleased the Shah.`;
+  expect(result).toBe(expected);
+});
