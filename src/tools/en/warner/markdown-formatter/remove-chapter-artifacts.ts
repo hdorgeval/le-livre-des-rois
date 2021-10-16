@@ -13,8 +13,11 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/JAMSHlD/g, ''),
     (content: string) => content.replace(/JAMSHID/g, ''),
     (content: string) => content.replace(/JAMSHtD/g, ''),
+    (content: string) => content.replace(/ZAHHAK/g, ''),
     (content: string) => content.replace(/, v\. [1,2,3][1,2,3,4]\n/g, ',\n'),
-    (content: string) => content.replace(/\n[V,v]\. [1,2,3][1,2,3,4] /g, '\n '),
+    (content: string) => content.replace(/\n[V,v]\. [1,2,3][1,2,3,4,5,6] /g, '\n '),
+    (content: string) => content.replace(/ [V,v]\. [1,2,3][1,2,3,4,5,6,7]\n/g, '\n'),
+    (content: string) => content.replace(/■/g, ''),
   ].forEach((format) => {
     result = format(result);
   });
