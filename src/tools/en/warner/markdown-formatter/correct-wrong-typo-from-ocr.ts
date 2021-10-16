@@ -34,8 +34,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Iblfs /g, ' Iblis '),
     (content: string) => content.replace(/\nIblfs /g, '\nIblis '),
     (content: string) => content.replace(/ IbHs /g, ' Iblis '),
+    (content: string) => content.replace(/ Ibh's,/g, ' Iblis,'),
     (content: string) => content.replace(/ Ibh's\n/g, ' Iblis\n'),
     (content: string) => content.replace(/Za-hhak /g, 'Zahhak '),
+    (content: string) => content.replace(/ Zahh&amp;k /g, ' Zahhak '),
   ].forEach((format) => {
     result = format(result);
   });
