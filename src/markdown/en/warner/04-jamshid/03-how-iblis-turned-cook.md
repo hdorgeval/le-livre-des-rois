@@ -53,7 +53,7 @@ Obeyed him. First he fed his lord on yelk
 
 To make him strong ; he liked the flavour much
 
-And praised Ibh's, who said :
+And praised Iblis, who said :
 
 > Illustrious monarch !
 >
@@ -71,7 +71,7 @@ The golden Gem he hopefully presented
 
 A meal of partridges and silver pheasants.
 
- The Arab monarch ate and his small wits
+The Arab monarch ate and his small wits
 
 Were lost in admiration. On the third day
 
@@ -104,8 +104,6 @@ Off his guard Zahhak
 Replied :
 
 > I grant it ; it may do thee grace.
-
-139
 
 Iblis received permission, kissed and vanished.
 
