@@ -251,3 +251,36 @@ Who asked :
 
   expect(result).toBe(expected);
 });
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+He said ; " cut not the snakes but let them live.
+
+Give them men's brains and gorge them till they sleep,
+
+It is the only means, such food may kill them."
+
+The purpose of the foul Div shrewdly scan :
+
+Had he conceived perchance a secret plan`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+He said ;
+
+> cut not the snakes but let them live.
+>
+> Give them men's brains and gorge them till they sleep,
+>
+> It is the only means, such food may kill them.
+
+The purpose of the foul Div shrewdly scan :
+
+Had he conceived perchance a secret plan`;
+
+  expect(result).toBe(expected);
+});

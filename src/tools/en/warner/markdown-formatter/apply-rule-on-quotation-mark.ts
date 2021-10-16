@@ -8,6 +8,7 @@ export function splitSentencesOnStartOfQuotationMark(content: string): string {
   result = applyOnAllQuotationMarksWithSplitter(result, '?\n\n"');
   result = applyOnAllQuotationMarksWithSplitter(result, '!\n\n"');
   result = applyOnAllQuotationMarksWithSplitter(result, ',\n\n"');
+  result = applyOnAllQuotationMarksWithSplitter(result, ' ; "');
 
   return result;
 }
@@ -56,6 +57,9 @@ function splitSentencesOnStartOfQuotationMarkWithSplitter(
 function extractQuotationSeparator(splitter: string): string {
   if (splitter.includes(':')) {
     return ' :';
+  }
+  if (splitter.includes(';')) {
+    return ' ;';
   }
   if (splitter.includes('.')) {
     return '.';
