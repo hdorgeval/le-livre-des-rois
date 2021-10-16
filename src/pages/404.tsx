@@ -3,7 +3,6 @@ import { Layout } from '../components/fr';
 import React from 'react';
 import { Link } from 'gatsby';
 
-// eslint-disable-next-line @typescript-eslint/explicit-module-boundary-types
 export default () => (
   <Layout>
     <SEO
