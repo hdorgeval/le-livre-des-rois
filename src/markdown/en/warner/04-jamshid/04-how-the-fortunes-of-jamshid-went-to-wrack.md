@@ -59,7 +59,7 @@ He fled, surrendering crown, throne and treasure,
 
 Host, power and diadem. The world turned black
 
-v. 34 To him, he disappeared and yielded all.
+To him, he disappeared and yielded all.
 
 He was in hiding for a century,
 
