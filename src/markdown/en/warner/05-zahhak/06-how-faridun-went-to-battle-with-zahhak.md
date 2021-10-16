@@ -5,8 +5,8 @@ status: 'draft'
 thumbnail: 'EFm7JpD9jy8.jpeg'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome I - The Shahnahma of Firdausi - P. 159
-reign: 'Zahak'
-reign-slug: 'zahak-reign'
+reign: 'Zahhak'
+reign-slug: 'zahhak-reign'
 episode-slug: 'how-faridun-went-to-battle-with-zahhak'
 title: 'How Faridun went to Battle with Zahhak'
 tags: []
