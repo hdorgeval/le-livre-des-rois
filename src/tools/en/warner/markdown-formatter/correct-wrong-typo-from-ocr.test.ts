@@ -25,3 +25,19 @@ Thus all the discontented cavaliers
 `;
   expect(result).toBe(expected);
 });
+
+test(`Should correct wrong typo`, () => {
+  // Given
+  const content = `
+Whose days were almost sped : &lt;e Bring forth the Dragon
+Bound in the lasso's coils as he deserveth."`;
+
+  // When
+  const result = correctWrongTypoFromOcr(content);
+
+  // Then
+  const expected = `
+Whose days were almost sped : " Bring forth the Dragon
+Bound in the lasso's coils as he deserveth."`;
+  expect(result).toBe(expected);
+});

@@ -4,7 +4,9 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ , /g, ', '),
     (content: string) => content.replace(/\/'\n/g, '."\n'),
     (content: string) => content.replace(/\/\\\*\n/g, '."\n'),
+    (content: string) => content.replace(/\. ,,\n/g, '."\n'),
     (content: string) => content.replace(/\/\*\n/g, '."\n'),
+    (content: string) => content.replace(/: &lt;e /g, ': " '),
     (content: string) => content.replace(/ I"\n/g, ' !"\n'),
     (content: string) => content.replace(/, „\n\n/g, ',\n\n'),
     (content: string) => content.replace(/, \[\n\n/g, ',\n\n'),
@@ -44,6 +46,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ fran /g, ' Iran '),
     (content: string) => content.replace(/ Sh&amp;h /g, ' Shah '),
     (content: string) => content.replace(/ Karma'i'l/g, " Karma'il"),
+    (content: string) => content.replace(/ Faridiin /g, ' Faridun '),
   ].forEach((format) => {
     result = format(result);
   });
