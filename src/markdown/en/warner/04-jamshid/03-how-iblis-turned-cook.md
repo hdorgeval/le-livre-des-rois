@@ -125,11 +125,13 @@ Dight as a leech.
 
 > This was thy destiny,
 
-He said ; " cut not the snakes but let them live.
+He said ;
 
-Give them men's brains and gorge them till they sleep,
-
-It is the only means, such food may kill them."
+> cut not the snakes but let them live.
+>
+> Give them men's brains and gorge them till they sleep,
+>
+> It is the only means, such food may kill them.
 
 The purpose of the foul Div shrewdly scan :
 
