@@ -1,4 +1,3 @@
-/* eslint-disable no-useless-escape */
 import 'jest';
 import { removeChapterArtifacts } from '.';
 
