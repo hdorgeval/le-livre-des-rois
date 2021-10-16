@@ -68,6 +68,8 @@ export function hasMissingEscapeCharacterOnBracket(line: string): boolean {
   const sanitizedRawRegex = rawRegex
     .replace(/\[1,2,3\]/g, '')
     .replace(/\[1,2,3,4\]/g, '')
+    .replace(/\[1,2,3,4,5,6\]/g, '')
+    .replace(/\[1,2,3,4,5,6,7\]/g, '')
     .replace(/\[V,v\]/g, '');
   if (sanitizedRawRegex.match(/[^\\]\[/)) {
     // eslint-disable-next-line no-console
