@@ -8,7 +8,7 @@ source: tome I - The Shahnahma of Firdausi - P. 145
 reign: 'Zahak'
 reign-slug: 'zahak-reign'
 episode-slug: 'the-evil-customs-of-zahhak-and-the-device-of-irma-il-and-karma-il'
-title: 'The Evil Customs of Zahhak and the Device of Irma'il and Karma'il'
+title: "The Evil Customs of Zahhak and the Device of Irma'il and Karma'il"
 tags: []
 order: '001'
 ---
