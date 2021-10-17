@@ -20,5 +20,6 @@ export * from './auto-commit-updated-mardown-tags-helpers.fr';
 export * from './auto-commit-updated-notebook.en';
 export * from './auto-commit-updated-stats.fr';
 export * from './auto-commit-updated-tags-tools.fr';
+export * from './auto-commit-updated-tools-common-fs';
 export * from './auto-commit-updated-vscode-extension-settings';
 export * from './auto-commit-updated-vscode-launch-settings';

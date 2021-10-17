@@ -32,9 +32,12 @@ import {
   autoCommitNewEnglishFrontmatterHelpers,
   autoCommitUpdatedEnglishFrontmatterHelpers,
   autoCommitUpdatedCommonMarkdownFormatter,
+  autoCommitUpdatedCommonToolsFs,
 } from '.';
 
 async function autoCommit() {
+  // common fs tools
+  await autoCommitUpdatedCommonToolsFs().then();
   // common markdown tools
   await autoCommitUpdatedCommonMarkdownFormatter().then();
   // english - warner - version
