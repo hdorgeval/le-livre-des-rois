@@ -7,7 +7,7 @@ const options: Partial<SimpleGitOptions> = {
   maxConcurrentProcesses: 6,
 };
 
-export async function autoCommitUpdatedEnglishFrontmatterHelpers(): Promise<void> {
+export async function autoCommitUpdatedEnglishWarnerFrontmatterHelpers(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -17,20 +17,20 @@ export async function autoCommitUpdatedEnglishFrontmatterHelpers(): Promise<void
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/en/markdown-frontmatter/')) {
+    if (unstagedFile.includes('/src/tools/en/warner/markdown-frontmatter/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
   }
   if (hasUpdatedFiles) {
-    const commitMessage = `feat(tools/en): update markdown-frontmatter helpers`;
+    const commitMessage = `feat(tools/en/warner): update markdown-frontmatter helpers for warner edition`;
     // eslint-disable-next-line no-console
     console.log(commitMessage);
     await git.commit(commitMessage);
   }
 }
 
-export async function autoCommitNewEnglishFrontmatterHelpers(): Promise<void> {
+export async function autoCommitNewEnglishWarnerFrontmatterHelpers(): Promise<void> {
   // when setting all options in a single object
   const git: SimpleGit = simpleGit(options);
 
@@ -40,13 +40,13 @@ export async function autoCommitNewEnglishFrontmatterHelpers(): Promise<void> {
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/tools/en/markdown-frontmatter/')) {
+    if (unstagedFile.includes('/src/tools/en/warner/markdown-frontmatter/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
   }
   if (hasUpdatedFiles) {
-    const commitMessage = `feat(tools/en): add markdown-frontmatter helpers`;
+    const commitMessage = `feat(tools/en/warner): add markdown-frontmatter helpers for warner edition`;
     // eslint-disable-next-line no-console
     console.log(commitMessage);
     await git.commit(commitMessage);
