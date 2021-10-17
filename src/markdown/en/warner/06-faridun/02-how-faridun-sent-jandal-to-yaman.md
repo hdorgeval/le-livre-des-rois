@@ -61,10 +61,6 @@ Of plausible address and full of tact.
 He left fran with certain of his friends
 To make inquiries and receive reports.
 
-1 In Mdzandarau.
-
-M
-
 THE SHAHNAMA OF FIRDAUSl
 
 Then when he heard of any chief with daughters
