@@ -1,6 +1,6 @@
 import { formatMarkdown } from '.';
-import { isMarkdownFileInDraftMode } from '../../markdown-frontmatter';
 import { getDirectoriesRecursivelyIn, getFilesInDirectory } from '../../../common/fs';
+import { isMarkdownFileInDraftMode } from '../../../common/markdown-frontmatter';
 import path from 'path';
 import { PathLike } from 'fs';
 
