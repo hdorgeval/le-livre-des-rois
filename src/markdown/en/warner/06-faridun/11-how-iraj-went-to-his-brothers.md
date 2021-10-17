@@ -113,7 +113,7 @@ Two hearts were full of vengeance, one was calm :
 
 Thus all three brothers sought their royal tents.
 
-The troops saw, as they looked upon fraj,
+The troops saw, as they looked upon Iraj,
 
 That he was worthy of the throne and crown,
 
