@@ -4,7 +4,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ , /g, ', '),
     (content: string) => content.replace(/\n\(i /g, '\n" '),
     (content: string) => content.replace(/\/'\n/g, '."\n'),
-    (content: string) => content.replace(/\/ /g, ",' "),
+    (content: string) => content.replace(/\/ /g, ",'\n"),
     (content: string) => content.replace(/\/\n/g, ".'\n"),
     (content: string) => content.replace(/\/' /g, '," '),
     (content: string) => content.replace(/\/\\\*\n/g, '."\n'),
