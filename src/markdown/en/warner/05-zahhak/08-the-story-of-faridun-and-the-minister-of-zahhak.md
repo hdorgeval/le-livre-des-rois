@@ -67,15 +67,11 @@ And was commanded :
 >
 > Let wine be brought, call minstrels fit to hear,
 >
-> Firdausi's etymology must not be relied upon. See the introduc-
->
-> note to this reign.
->
 > To cheer me at the banquet, fill the goblet,
 >
 > Spread out the board, and summon worthy guests.
 
-Kundrav obeyed andbroughtbrightwine and minstrels,
+Kundrav obeyed and brought bright wine and minstrels,
 
 And noble guests whose birth entitled them.
 
