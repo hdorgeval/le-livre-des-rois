@@ -143,15 +143,15 @@ The father by fair words, but when Zahhak
 
 Bade him subscribe the scroll he read it through
 
-And shouted to the ancients of the realm : —
+And shouted to the ancients of the realm :
 
- " Confederates of the Div with impious hearts !
-
-Ye set your faces hellward and have yielded
-
-To that man's bidding. I will not subscribe,
-
-Or ever give the Shah another thought."
+> Confederates of the Div with impious hearts !
+>
+> Ye set your faces hellward and have yielded
+>
+> To that man's bidding. I will not subscribe,
+>
+> Or ever give the Shah another thought.
 
 He shouted, rose in fury, rent the scroll
 
