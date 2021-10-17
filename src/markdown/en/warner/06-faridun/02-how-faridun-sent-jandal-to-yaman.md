@@ -162,11 +162,9 @@ Then having closed the audience sat and pondered.
 The monarch summoned from the Bedouins
 Full many a chieftain well approved in war,
 And made the matter manifest to all : —
-" I have as only issue of my wedlock v . 6J
+" I have as only issue of my wedlock
 
 Three Lights that are resplendent in mine eyes,
-
-i8o
 
 THE SHAHNAMA OF FIRDA USI
 
