@@ -49,6 +49,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Faridiin /g, ' Faridun '),
     (content: string) => content.replace(/ Arnaw&amp;z /g, ' Arnawaz '),
     (content: string) => content.replace(/\^s /g, "'s "),
+    (content: string) => content.replace(/ Tur&amp;n /g, ' Turan '),
   ].forEach((format) => {
     result = format(result);
   });
