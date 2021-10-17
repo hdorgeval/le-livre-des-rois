@@ -115,7 +115,7 @@ From Chach and poplar shafts and shields from Chm
 
 And double-headed javelins of war !
 
-Thus Faridun bestowed his hard-won treasures, v. 96
+Thus Faridun bestowed his hard-won treasures,
 
 Convinced that Minuchihr was well deserving,
 
