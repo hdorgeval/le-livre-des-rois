@@ -33,6 +33,7 @@ import {
   autoCommitUpdatedEnglishFrontmatterHelpers,
   autoCommitUpdatedCommonMarkdownFormatter,
   autoCommitUpdatedCommonToolsFs,
+  autoCommitUpdatedCommonMarkdownFrontmatter,
 } from '.';
 
 async function autoCommit() {
@@ -40,6 +41,7 @@ async function autoCommit() {
   await autoCommitUpdatedCommonToolsFs().then();
   // common markdown tools
   await autoCommitUpdatedCommonMarkdownFormatter().then();
+  await autoCommitUpdatedCommonMarkdownFrontmatter().then();
   // english - warner - version
   await autoCommitNewEnglishWarnerEpisodes().then();
   await autoCommitUpdatedEnglishWarnerEpisodes().then();
