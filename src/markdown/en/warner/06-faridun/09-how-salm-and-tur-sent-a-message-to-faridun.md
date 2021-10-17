@@ -47,17 +47,13 @@ All-holy God bestowed the world upon thee
 
 From yonder bright sun unto sombre earth,
 
-Yet didst thou choose to act in mere caprice, v. 81
+Yet didst thou choose to act in mere caprice,
 
 Not heeding His commands, and to entreat
 
 Thy sons with scath and fraud instead of justice;
 
 For thou hadst three, wise, brave, and youths no longer,
-
-192
-
-THE SHAHNAMA OF FIRDAUSI
 
 And though no excellence appeared in one
 
@@ -96,29 +92,38 @@ An army of the wielders of the mace —
 In vengeance on Iran and on fraj.' "
 
 The priest at this harsh message kissed the ground,
-Then turned and mounted swift as wind-borne flame.
-When he approached the court of Faridun
-And marked the cloud-capt buildings from afar,
-Which stretched from range to range, while at the gate
-Chiefs sat and those of highest rank behind
-The curtain, on the one side pards and lions
-Chained, on the other fierce war-elephants,
-While from that noble band of warriors
-The noise that rose was like a lion's roar,
-v. 82 " It must be heaven," he thought, " and not a court :
-The troops around it are a fairy host I"
 
-The wary watchman went and told the Shah : —
-" A man of noble mien and high estate
-Hath come as envoy to the Shah."
+Then turned and mounted swift as wind-borne flame.
+
+When he approached the court of Faridun
+
+And marked the cloud-capt buildings from afar,
+
+Which stretched from range to range, while at the gate
+
+Chiefs sat and those of highest rank behind
+
+The curtain, on the one side pards and lions
+
+Chained, on the other fierce war-elephants,
+
+While from that noble band of warriors
+
+The noise that rose was like a lion's roar,
+
+ " It must be heaven," he thought, " and not a court :
+
+The troops around it are a fairy host !"
+
+The wary watchman went and told the Shah :
+
+> A man of noble mien and high estate
+>
+> Hath come as envoy to the Shah.
 
 He bade
 
 His servants raise the curtain and bring in
-
-FA RtD UN
-
-193
 
 The envoy, when dismounted, to the court,
 
@@ -149,14 +154,23 @@ About himself: "Art weary with long travel
 O'er hill and plain ? "
 
 He answered: "Noble Shah!
+
 May none behold the world without thee ! Those
+
 Of whom thou speakest are as thou wouldst wish,
+
 And live but by thy name. Thy slave am I,
+
 Albeit all unworthy and impure.
+
 The message that I bring to thee is harsh
+
 And sent in anger by no fault of mine,
+
 But if my lord commandeth I will tell
+
 The message sent by two imprudent youths."
 
 The Shah commanded him to speak and heard
+
 The embassage delivered word by word.
