@@ -191,7 +191,7 @@ They filled the head with inusk and ambergris
 
 And sent it to the aged world-divider
 
-v. 91 With these words :
+With these words :
 
 > Look upon thy darling's head —
 >
