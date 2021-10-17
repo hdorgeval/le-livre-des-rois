@@ -103,7 +103,7 @@ For God so ordered, roused the slumber,er,
 
 Who by his magic art arrested it '
 
-In mid career : it stopped dead. Farfdun
+In mid career : it stopped dead. Faridun
 
 Went on his way but kept the matter secret.
 
