@@ -105,7 +105,7 @@ For blood — the blood of those two beauteous dames.
 
 His feet no sooner rested on the ground
 
-Than Faridun rushed on him like the wind
+Then Faridun rushed on him like the wind
 
 And beat his helm in with the ox-head mace.
 
