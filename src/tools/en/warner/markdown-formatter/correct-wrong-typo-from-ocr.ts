@@ -39,6 +39,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/\n- /g, '\n'),
     (content: string) => content.replace(/\n! /g, '\n'),
     (content: string) => content.replace(/Jamshi'd/g, 'Jamshid'),
+    (content: string) => content.replace(/ Jamshfd/g, ' Jamshid'),
     (content: string) => content.replace(/, y\.\n/g, ',\n'),
     (content: string) => content.replace(/\. '\n/g, '.\n'),
     (content: string) => content.replace(/ Iblls /g, ' Iblis '),
