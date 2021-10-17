@@ -21,9 +21,7 @@ The Shah was told, "A host hath crossed Jihun,"
 
 And bade prince Minuchihr to pass the frontier
 
-2l6
-
-v. 105 Toward the desert, thus advising him :
+Toward the desert, thus advising him :
 
 > A youth predestined to be fortunate
 >
@@ -83,7 +81,7 @@ For two miles, sixty carried seats of gold
 
 Inlaid with gems, three hundred bore the baggage,
 
-v. 106 Three hundred were in iron panoply
+Three hundred were in iron panoply
 
 That hid all but their eyes.
 
@@ -159,7 +157,7 @@ And said to him :
 >
 > And say to him : ' Thou bastard just made Shah !
 >
-> What though there was a daughter to Iraj, v. 107
+> What though there was a daughter to Iraj,
 >
 > Hast thou a right to signet, crown, and throne ? '
 
@@ -170,12 +168,6 @@ And said to him :
 > To think hereafter of this monstrous speech.
 >
 > 'Twill not be strange if even savage beasts
->
-> 1 Reading with C.
->
-> 2 Cf. DEI, ii. 217.
->
-> THE SHAH NAM A OF FlRDAUSt
 >
 > Bewail you day and night, for from Narwan
 >
@@ -203,7 +195,7 @@ he said,
 >
 > Who knoweth all things secret or revealed !
 >
-> He knoweth that my grandsire was fraj,
+> He knoweth that my grandsire was Iraj,
 >
 > As blessed Faridun assureth me,
 >
