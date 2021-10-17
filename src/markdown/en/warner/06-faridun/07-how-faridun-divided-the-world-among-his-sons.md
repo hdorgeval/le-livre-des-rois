@@ -18,12 +18,14 @@ order: '07'
 # How Faridun divided the World among his Sons
 
 These secrets known, the Shah divided earth
+
 And made three realms : he joined Rum with the
+
 West,
 
 Turan with Chin, Arabia with Iran.
 
-He first took thought for Salm and gave him Rum v. 78
+He first took thought for Salm and gave him Rum
 
 And all the West, commanding him to lead
 
@@ -43,7 +45,7 @@ Girt up his loins and opened wide his hands.
 
 The nobles showered upon him precious stones,
 
-And all Tur&amp;n hailed him as king, fraj
+And all Turan hailed him as king, fraj
 
 Came last, the sire selected all Iran
 
@@ -55,7 +57,7 @@ Perceiving that fraj deserved to rule.
 
 How all the princes, prudent, wise, and shrewd,
 
-All-hailed him as the master of fran !
+All-hailed him as the master of Iran !
 
 As marchlords thus these men of noble birth
 
