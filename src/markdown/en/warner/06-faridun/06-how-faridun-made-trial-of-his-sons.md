@@ -125,8 +125,3 @@ Was sorely troubled, with a deep cold sigh
 Perceived that heaven loved not his bright-souled son,
 And as he mused thereon he could not be
 But filled with thoughts of grave anxiety.
-
-1 Arzti means Desire; Mdh-i-Azftda Khu, Moon of noble-nature ; and
-Sahi, Stately.
-
-farIdOn
