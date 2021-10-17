@@ -81,15 +81,13 @@ A chine of veal with saffron and rosewater,
 
 Musk and old wine. Zahhak when he had tasted,
 
-In wonder at his cook's ability,
-
-Said :
+In wonder at his cook's ability, said :
 
 > Worthy friend ! ask thou my recompense.
 
 He answered :
 
-> Live, king ! in wealth and power.
+> Live, O king ! in wealth and power.
 >
 > My heart is thine, thy favour my soul's food ;
 >
@@ -99,9 +97,7 @@ He answered :
 >
 > Upon thy shoulders.
 
-Off his guard Zahhak
-
-Replied :
+Off his guard Zahhak replied :
 
 > I grant it ; it may do thee grace.
 
