@@ -17,7 +17,7 @@ order: '004'
 
 # How Faridun questioned his Mother about his Origin
 
-v. 43 Now Faridun, when twice eight years had passed,
+Now Faridun, when twice eight years had passed,
 
 Sought out his mother on the plain and said :
 
@@ -51,9 +51,7 @@ She said :
 >
 > His own sweet life for thee ! Now on Zahhak
 >
-> The warlock's shoulders grew two snakes which
->
-> sucked
+> The warlock's shoulders grew two snakes which sucked
 >
 > The life-breath of Iran, and thy sire's brains
 >
@@ -94,8 +92,6 @@ The prince, enraged thereat, mused on revenge,
 And said with aching heart and knitted brows :
 
 > The lion groweth brave by venturing,
->
-> THE SHAH NAM A OF FIRDA USl
 >
 > And since the sorcerer hath done his part
 >
