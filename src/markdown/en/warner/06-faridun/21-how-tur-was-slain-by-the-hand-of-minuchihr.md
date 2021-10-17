@@ -53,13 +53,9 @@ A shout rose from the centres of the hosts,
 
 The horsemen made the air a cloud of dust
 
-And steel swords flashed like lightning: thou hadst
+And steel swords flashed like lightning: thou hadst said :
 
-said : —
-
-FA RID UN
-
-" They make air blaze, earth gleam like diamonds."
+> They make air blaze, earth gleam like diamonds.
 
 The clashing of the steel went through the brain,
 
