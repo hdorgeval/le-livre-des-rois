@@ -28,13 +28,16 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/JAMSHtD/g, ''),
     (content: string) => content.replace(/ZAHHAK/g, ''),
     (content: string) => content.replace(/zahhAk/g, ''),
-    (content: string) => content.replace(/, v\. [1,2,3,4,5,6,7,8][1,2,3,4,5,6,7,8,9]\n/g, ',\n'),
-    (content: string) => content.replace(/\n[V,v]\. [1,2,3,4,5,6,7,8][1,2,3,4,5,6,7,8,9] /g, '\n '),
+    (content: string) => content.replace(/, v\. [1,2,3,4,5,6,7,8,9][1,2,3,4,5,6,7,8,9]\n/g, ',\n'),
     (content: string) =>
-      content.replace(/\n[V,v]\. [1,2,3,4,5,6,7,8][0,1,2,3,4,5][1,2,3,4,5,6,7,8,9] /g, '\n '),
-    (content: string) => content.replace(/ [V,v]\. [1,2,3,4,5,6,7,8][1,2,3,4,5,6,7,8,9]\n/g, '\n'),
+      content.replace(/\n[V,v]\. [1,2,3,4,5,6,7,8,9][1,2,3,4,5,6,7,8,9] /g, '\n '),
     (content: string) =>
-      content.replace(/ [V,v]\. [1,2,3,4,5,6,7,8][0,1,2,3,4,5,6,7,8,9][1,2,3,4,5,6,7]\n/g, '\n'),
+      content.replace(/\n[V,v]\. [1,2,3,4,5,6,7,8,9][0,1,2,3,4,5][1,2,3,4,5,6,7,8,9] /g, '\n '),
+    (content: string) =>
+      content.replace(/ [V,v]\. [1,2,3,4,5,6,7,8,9][1,2,3,4,5,6,7,8,9]\n/g, '\n'),
+    (content: string) => content.replace(/ [V,v]\. [1,2,3,4,5,6,7,8,9][1,2,3,4,5,6,7,8,9] /g, ' '),
+    (content: string) =>
+      content.replace(/ [V,v]\. [1,2,3,4,5,6,7,8,9][0,1,2,3,4,5,6,7,8,9][1,2,3,4,5,6,7]\n/g, '\n'),
     (content: string) => content.replace(/■/g, ''),
     (content: string) => content.replace(/FA RID t N/g, ''),
     (content: string) => content.replace(/fa rId j5n/g, ''),
@@ -50,6 +53,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/FA RtD UN/g, ''),
     (content: string) => content.replace(/FAR f DUN/g, ''),
     (content: string) => content.replace(/FA RID UN/g, ''),
+    (content: string) => content.replace(/FARtDJJN/g, ''),
   ].forEach((format) => {
     result = format(result);
   });
