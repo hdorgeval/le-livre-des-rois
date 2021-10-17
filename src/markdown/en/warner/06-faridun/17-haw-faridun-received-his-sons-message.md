@@ -59,7 +59,7 @@ To introduce Salm's envoy, who on seeing
 
 The palace-gate alighted and ran forward,
 
-v. 99 As soon as he drew near to Faridun
+As soon as he drew near to Faridun
 
 And saw the diadem and lofty throne,
 
