@@ -27,8 +27,6 @@ Of cypress height he shone forth with the Grace
 
 Of kings of kings which erst Jamshid possessed,
 
-
-
 Was like the sun, as needful as the rain
 
 To earth and fit as knowledge to the mind ;
