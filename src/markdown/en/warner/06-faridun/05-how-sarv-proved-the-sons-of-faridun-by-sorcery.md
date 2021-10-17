@@ -49,8 +49,6 @@ The arch-enchanter Farfdiin's three sons
 
 Leapt from their couches at the grievous cold;
 
-185
-
 And by the Graco of God and their own skill,
 
 By kingly magic and their hardihood,
