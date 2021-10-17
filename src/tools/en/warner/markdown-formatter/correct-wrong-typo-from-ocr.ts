@@ -42,14 +42,18 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ Ibh's\n/g, ' Iblis\n'),
     (content: string) => content.replace(/Za-hhak /g, 'Zahhak '),
     (content: string) => content.replace(/ Zahhik/g, ' Zahhak'),
+    (content: string) => content.replace(/ Zahhkk/g, ' Zahhak'),
     (content: string) => content.replace(/ Zahh&amp;k /g, ' Zahhak '),
     (content: string) => content.replace(/ fran /g, ' Iran '),
     (content: string) => content.replace(/ Sh&amp;h /g, ' Shah '),
+    (content: string) => content.replace(/ Sh4h /g, ' Shah '),
     (content: string) => content.replace(/ Karma'i'l/g, " Karma'il"),
     (content: string) => content.replace(/ Faridiin /g, ' Faridun '),
+    (content: string) => content.replace(/ Farfdun/g, ' Faridun'),
     (content: string) => content.replace(/ Arnaw&amp;z /g, ' Arnawaz '),
     (content: string) => content.replace(/\^s /g, "'s "),
     (content: string) => content.replace(/ Tur&amp;n /g, ' Turan '),
+    (content: string) => content.replace(/ Shahrin&amp;z/g, ' Shahrinaz'),
   ].forEach((format) => {
     result = format(result);
   });

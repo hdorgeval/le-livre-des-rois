@@ -284,3 +284,55 @@ Had he conceived perchance a secret plan`;
 
   expect(result).toBe(expected);
 });
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+Zahhak said: " Trouble not, it bodeth well
+
+When guests are at their ease."
+
+Kundrav replied :
+
+> Yea, I have heard so ; hear thou my rejoinder:`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+Zahhak said :
+
+> Trouble not, it bodeth well
+>
+> When guests are at their ease.
+
+Kundrav replied :
+
+> Yea, I have heard so ; hear thou my rejoinder:`;
+
+  expect(result).toBe(expected);
+});
+
+test.only(`Should split`, () => {
+  // Given
+  const input = `
+The sage when he defined a proper league ?
+
+' " I ne'er ally myself but with my betters."
+
+A sage intent on good will seek his friends`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+The sage when he defined a proper league ?
+
+> > I ne'er ally myself but with my betters.
+
+A sage intent on good will seek his friends`;
+
+  expect(result).toBe(expected);
+});

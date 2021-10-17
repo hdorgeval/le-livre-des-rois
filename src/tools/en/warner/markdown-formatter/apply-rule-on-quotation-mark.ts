@@ -3,6 +3,7 @@ export function splitSentencesOnStartOfQuotationMark(content: string): string {
   result = applyOnAllQuotationMarksWithSplitter(result, ' : "');
   result = applyOnAllQuotationMarksWithSplitter(result, ' : —\n\n"');
   result = applyOnAllQuotationMarksWithSplitter(result, 'said, "');
+  result = applyOnAllQuotationMarksWithSplitter(result, 'said: "');
   result = applyOnAllQuotationMarksWithSplitter(result, '. " ');
   result = applyOnAllQuotationMarksWithSplitter(result, '.\n\n" ');
   result = applyOnAllQuotationMarksWithSplitter(result, '?\n\n"');
@@ -55,6 +56,14 @@ function splitSentencesOnStartOfQuotationMarkWithSplitter(
 }
 
 function extractQuotationSeparator(splitter: string): string {
+  if (splitter.includes('said, ')) {
+    return 'said,';
+  }
+
+  if (splitter.includes('said: ')) {
+    return 'said :';
+  }
+
   if (splitter.includes(':')) {
     return ' :';
   }
@@ -72,10 +81,6 @@ function extractQuotationSeparator(splitter: string): string {
   }
   if (splitter.includes(',\n\n')) {
     return ',';
-  }
-
-  if (splitter.includes('said, ')) {
-    return 'said,';
   }
 
   throw new Error('Unknown separator');

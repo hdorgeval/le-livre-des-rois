@@ -7,6 +7,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDA USf/g, ''),
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDAUSl/g, ''),
     (content: string) => content.replace(/THE SHAhNAMA OF FIRDA USl/g, ''),
+    (content: string) => content.replace(/THE SHAH NAM A OF FIRDA USl/g, ''),
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDAUSf/g, ''),
     (content: string) => content.replace(/T48 THE SHAHNAMA OF FIRDAUSf/g, ''),
     (content: string) => content.replace(/THE SHAH NAM A OF FIRDAUSt/g, ''),
