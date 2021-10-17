@@ -33,7 +33,7 @@ To whom they made a passionate appeal,
 
 And fearful of a downfall opened wide
 
-v. 97 The treasury of the West. From that old hoard
+The treasury of the West. From that old hoard
 
 They chose a crown of gold. They housed the elephants.
 
@@ -109,7 +109,7 @@ Invoking first of all the name of God :
 >
 > To ignorance in us, next to high heaven
 >
-> That is at once our shelter and our scath, v. 98
+> That is at once our shelter and our scath,
 >
 > And thirdly to the Div that in our midst
 >
