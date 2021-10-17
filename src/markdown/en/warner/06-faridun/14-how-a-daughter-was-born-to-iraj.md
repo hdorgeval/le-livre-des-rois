@@ -25,7 +25,7 @@ The moon-faced beauties who resided there.
 
 He saw a slave of lovely countenance,
 
-Whose name was Mah Afrid. fraj had loved her, v. 94
+Whose name was Mah Afrid. fraj had loved her,
 
 And fate decreed that she should bear him fruit.
 
