@@ -75,7 +75,7 @@ Yet could not find among the wealthy thanes
 
 One fit to be affined to Farfdiin.
 
- This shrewd and holy man at length reached Sarv —
+This shrewd and holy man at length reached Sarv —
 
 The monarch of Yaman — with whom he found
 
@@ -117,10 +117,8 @@ Jandal replied :
 >
 > And great are they whom he despiseth not.
 >
-> He said :
+> He said : Say to the monarch of Yaman : —
 >
-> > Say to the monarch of Yaman : —
-> >
 > > So long as musk hath scent perfume the throne,
 > >
 > > Be thy griefs scattered and thy wealth amassed,
@@ -145,49 +143,47 @@ Jandal replied :
 > >
 > > The sage when he defined a proper league ?
 > >
-> > '
-
-I ne'er ally myself but with my betters."
+> > > I ne'er ally myself but with my betters.
+> >
+> > A sage intent on good will seek his friends
+> >
+> > Among his peers, men may be fortunate
+> >
+> > But monarchs are not well without a host.
+> >
+> > My realm is prosperous, I have treasure, might,
+> >
+> > And daring, with three sons who well deserve
+> >
+> > To reign — wise, men of knowledge and of prowess,
+> >
+> > Without a want or wish unsatisfied.
+> >
+> > For these three princes in domestic life
+> >
+> > I need three consorts of a royal race,
+> >
+> > And I have news (whereon I send in haste)
+> >
+> > By means of mine informants that thou hast
+> >
+> > Among the ladies that are in thy bower,
+> >
+> > O honour-loving king ! three maiden daughters
+> >
+> > As yet unnamed, whereat my heart rejoiced,
+> >
+> > For my three sons of course are nameless still
+> >
+> > 'Twere surely well for us to intermingle
+> >
+> > These precious gems of two varieties,
+> >
+> > Three virtuous maids with three aspiring princes,
+> >
+> > Fit joined to fit, no room for scandal there.
 >
-> A sage intent on good will seek his friends
->
-> Among his peers, men may be fortunate
->
-> But monarchs are not well without a host.
->
-> My realm is prosperous, I have treasure, might,
->
-> And daring, with three sons who well deserve
->
-> To reign — wise, men of knowledge and of prowess,
->
-> Without a want or wish unsatisfied.
->
-> For these three princes in domestic life
->
-> I need three consorts of a royal race,
->
-> And I have news (whereon I send in haste)
->
-> By means of mine informants that thou hast
->
-> Among the ladies that are in thy bower,
->
-> O honour-loving king ! three maiden daughters
->
-> As yet unnamed, whereat my heart rejoiced,
->
-> For my three sons of course are nameless still
->
-> 'Twere surely well for us to intermingle
->
-> These precious gems of two varieties,
->
-> Three virtuous maids with three aspiring princes,
->
-> Fit joined to fit, no room for scandal there.
-
-Such is his message ; think of thy reply."
+> Such is his message ; think of thy reply.
 
 The monarch of Yaman drooped like the jasmine
 
@@ -226,29 +222,30 @@ And made the matter manifest to all :
 > And I would fain consult thereon with you.
 >
 > The ambassador saith thus : ' Thus saith the Shah : —
-
-I have three princes who adorn my throne
-
-And seek for favour and affinity
-
-With thee by marriage with thy virtuous daughters." "
-If I shall answer, ' Yes,' and mean it not,
-
-Twill be a lie ; to lie is not for kings ;
-
-If I shall acquiesce in his request
-
-My heart will be on fire, my face all tears ;
-
-And if I shall refuse my heart will feel
-
-His vengeance — not a matter for a jest
-
-From one who is the monarch of the world ;
-
-And travellers too have heard of what Zahhak
-
-Hath suffered from him. Now advise me well."
+>
+> > I have three princes who adorn my throne
+> >
+> > And seek for favour and affinity
+> >
+> > With thee by marriage with thy virtuous daughters.
+>
+> If I shall answer, ' Yes,' and mean it not,
+>
+> Twill be a lie ; to lie is not for kings ;
+>
+> If I shall acquiesce in his request
+>
+> My heart will be on fire, my face all tears ;
+>
+> And if I shall refuse my heart will feel
+>
+> His vengeance — not a matter for a jest
+>
+> From one who is the monarch of the world ;
+>
+> And travellers too have heard of what Zahhak
+>
+> Hath suffered from him. Now advise me well.
 
 The veteran valiant chiefs thus made reply :
 
