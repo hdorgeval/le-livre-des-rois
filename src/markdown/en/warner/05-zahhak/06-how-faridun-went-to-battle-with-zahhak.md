@@ -167,7 +167,7 @@ This men called when they used the ancient tongue
 
 Gang-i-Dizhukht ; to-day 'tis known among
 
-The Arabs as " The Holy Place." The fair
+The Arabs as "The Holy Place." The fair
 
 Tall palace of Zahhak was builded there.
 
