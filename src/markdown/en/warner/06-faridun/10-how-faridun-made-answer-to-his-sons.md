@@ -17,19 +17,15 @@ order: '10'
 
 # How Faridun made Answer to his Sons
 
-When he had heard, the Shah's brain seethed with
+When he had heard, the Shah's brain seethed with anger.
 
-anger.
-
-> man of prudence !
+> O man of prudence !
 
 thus he made reply,
 
 > Thou needest no excuse, for I have eyes
 >
 > And have discerned this for myself already.
->
-> N
 >
 > Tell mine unholy and abandoned sons —
 >
@@ -103,8 +99,6 @@ thus he made reply,
 >
 > > The crop that ye have sown that shall ye reap.
 >
-> 195
->
 > He that instructed me was wont to say :
 >
 > > Our other home is that which will endure.
@@ -153,9 +147,7 @@ The envoy being gone the Shah resumed
 
 His seat, then called his noble son fraj
 
-And told both what had chanced and what might
-
-be:—
+And told both what had chanced and what might be:—
 
 " Those sons of mine with hearts intent on war
 
@@ -177,9 +169,7 @@ Before the sword thy head will ache with strife,
 
 For from both corners of the world my sons
 
-V. S5 Have shown their real intent. If thou wouldst
-
-fight
+Have shown their real intent. If thou wouldst fight
 
 Make ready, ope the treasury, bind the baggage ;
 
@@ -191,7 +181,7 @@ Thou needst not earthly helpers, thine allies
 
 Are truth and innocence."
 
-The good lraj
+The good Iraj
 
 Gazed on that loving Shah, his glorious sire,
 
@@ -248,8 +238,6 @@ And said :
 > From foes,' I will convert their vengeful hearts :
 >
 > What better vengeance can I take than that ?
-
-»97
 
 The Shah replied :
 
