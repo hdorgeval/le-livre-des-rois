@@ -69,9 +69,7 @@ That turned the sun to lapislazuli.
 
 Anon Zahhak alone in jealous fear
 
-Approached the palace, mailed, that none might know
-
-him.
+Approached the palace, mailed, that none might know him.
 
 Armed with a lasso sixty cubits long
 
@@ -115,9 +113,7 @@ And beat his helm in with the ox-head mace.
 
 cried blest Suriish, who hurried thither,
 
-> His time hath not yet come, but bind him van-
->
-> quished
+> His time hath not yet come, but bind him vanquished
 >
 > Firm as a rock and bear him to some gorge,
 >
