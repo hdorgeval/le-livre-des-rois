@@ -123,7 +123,7 @@ And felt his own heart full of love for him.
 
 He summoned all his paladins and nobles,
 
-Who came intent on vengeance for fraj,
+Who came intent on vengeance for Iraj,
 
 And offered homage, showering emeralds
 
