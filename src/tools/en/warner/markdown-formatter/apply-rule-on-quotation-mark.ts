@@ -34,9 +34,9 @@ function applyOnAllQuotationMarksWithSplitter(content: string, splitter: string)
   return result;
 }
 
-function getQuotationDelimiter(splitter: string): string {
+function getQuotationDelimiter(splitter: string): string | RegExp {
   if (splitter.includes(` ' `)) {
-    return ` ' `;
+    return "'\n";
   }
   return '"';
 }
@@ -77,10 +77,9 @@ function splitSentencesOnStartOfQuotationMarkWithSplitter(
   const quotationSeparator = extractQuotationSeparator(splitter);
 
   const result =
-    `${beforeQuotationMark}${quotationSeparator}\n${continuedQuotationMark}\n${formattedQuotationContent}\n\n${restOfContent}`.replace(
-      /\n> \n/g,
-      '\n>\n',
-    );
+    `${beforeQuotationMark}${quotationSeparator}\n${continuedQuotationMark}\n${formattedQuotationContent}\n${
+      restOfContent.startsWith('>') ? '' : '\n'
+    }${restOfContent}`.replace(/\n> \n/g, '\n>\n');
   return result;
 }
 

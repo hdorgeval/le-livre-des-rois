@@ -429,7 +429,7 @@ Shall send his troops and standard 'gainst the hold
 
 Assist each other, and put forth your strength;
 
-And may ye overthrow the enemy." ' 
+And may ye overthrow the enemy." '
 
 The castellan beard this and recognised`;
 
@@ -457,6 +457,35 @@ Stop to draw breath, and said :
 > > And may ye overthrow the enemy.
 
 The castellan beard this and recognised`;
+
+  expect(result).toBe(expected);
+});
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+> Because a seer hath said : ' Earth will be void
+>
+> Of thee, for Faridun will seize thy throne
+>
+> And thy prosperity wither in a moment.'
+>
+> Struck by the words his heart is all aflame,`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+> Because a seer hath said :
+>
+> > Earth will be void
+> >
+> > Of thee, for Faridun will seize thy throne
+> >
+> > And thy prosperity wither in a moment.
+>
+> Struck by the words his heart is all aflame,`;
 
   expect(result).toBe(expected);
 });
