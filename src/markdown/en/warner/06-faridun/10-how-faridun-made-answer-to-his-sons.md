@@ -237,7 +237,7 @@ And said :
 >
 > Why set your hopes so much upon this world ?
 >
-> How ill it used Jamshfd who passed away
+> How ill it used Jamshid who passed away
 >
 > At last, and lost the crown and throne and girdle !
 >
