@@ -23,8 +23,6 @@ Raised heaven-high by Zahhak, because he saw ^/
 
 That it was not of God, with massive mace \
 
-
-
 Laid low the sorcerers within the palace —
 
 All fierce and notable divs — and set himself
