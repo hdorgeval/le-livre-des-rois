@@ -103,4 +103,4 @@ And laid the head of Tur before the Shah,
 
 Who prayed to God, the righteous Judge, to pour
 
-On Miniichihr his blessings evermore.
+On Minuchihr his blessings evermore.
