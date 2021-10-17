@@ -414,3 +414,49 @@ The monarch of Yaman drooped like the jasmine`;
 
   expect(result).toBe(expected);
 });
+test(`Should split`, () => {
+  // Given
+  const input = `
+Stop to draw breath, and said : ' Go to the castellan
+
+And say to him : " Be watchful day and night,
+
+Share both in weal and woe, guard well the castle,
+
+Be vigilant, and if Shah Minuchihr
+
+Shall send his troops and standard 'gainst the hold
+
+Assist each other, and put forth your strength;
+
+And may ye overthrow the enemy." ' 
+
+The castellan beard this and recognised`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+Stop to draw breath, and said :
+
+> Go to the castellan
+>
+> And say to him :
+>
+> > Be watchful day and night,
+> >
+> > Share both in weal and woe, guard well the castle,
+> >
+> > Be vigilant, and if Shah Minuchihr
+> >
+> > Shall send his troops and standard 'gainst the hold
+> >
+> > Assist each other, and put forth your strength;
+> >
+> > And may ye overthrow the enemy.
+
+The castellan beard this and recognised`;
+
+  expect(result).toBe(expected);
+});

@@ -2,11 +2,14 @@ export function correctWrongTypoFromOcr(content: string): string {
   let result = content;
   [
     (content: string) => content.replace(/ , /g, ', '),
+    (content: string) => content.replace(/\n\(i /g, '\n" '),
     (content: string) => content.replace(/\/'\n/g, '."\n'),
     (content: string) => content.replace(/\/ /g, ",' "),
     (content: string) => content.replace(/\/' /g, '," '),
     (content: string) => content.replace(/\/\\\*\n/g, '."\n'),
     (content: string) => content.replace(/\. ,,\n/g, '."\n'),
+    (content: string) => content.replace(/\. 55\n/g, '."\n'),
+    (content: string) => content.replace(/\. 5 '\n/g, '."\n'),
     (content: string) => content.replace(/\/\*\n/g, '."\n'),
     (content: string) => content.replace(/: &lt;e /g, ': " '),
     (content: string) => content.replace(/ I"\n/g, ' !"\n'),
