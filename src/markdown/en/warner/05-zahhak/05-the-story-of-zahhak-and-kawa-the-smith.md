@@ -19,7 +19,7 @@ order: '005'
 
 Zahhak had "Faridun" upon his lips
 
- Both day and night, his lofty stature bent
+Both day and night, his lofty stature bent
 
 Beneath the terrors of his heart until
 
@@ -41,7 +41,7 @@ And said to them :
 >
 > Despise not such though weak. I therefore need
 >
-> A larger host — men, dlvs, and fairies too — 
+> A larger host — men, dlvs, and fairies too —
 >
 > And ask your aid, for rumours trouble me ;
 >
@@ -195,8 +195,6 @@ When Kawa left the presence of the Shah,
 
 A crowd assembled in the market-place.
 
-57
-
 And still he shouted, crying out for aid
 
 And urging all to stand upon their rights.
@@ -213,7 +211,7 @@ He passed along with spear in hand exclaiming :
 
 > Ye men of name ! Ye worshippers of God !
 >
-> Whoe'er would 'scape the fetters of Zahhak y. 4 8
+> Whoe'er would 'scape the fetters of Zahhak
 >
 > Let him resort with me to Faridiin
 >
