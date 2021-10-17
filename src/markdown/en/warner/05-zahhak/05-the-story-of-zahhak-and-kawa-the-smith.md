@@ -41,7 +41,7 @@ And said to them :
 >
 > Despise not such though weak. I therefore need
 >
-> A larger host — men, dlvs, and fairies too —
+> A larger host — men, divs, and fairies too —
 >
 > And ask your aid, for rumours trouble me ;
 >
@@ -73,7 +73,7 @@ Then the man
 
 Smote on his head before the Shah and cried :
 
-> Sh4h ! my name is Kawa and I sue
+> Shah ! my name is Kawa and I sue
 >
 > For justice. Do me right. I come in haste
 >
