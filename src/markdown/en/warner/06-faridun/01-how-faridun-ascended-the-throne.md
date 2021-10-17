@@ -29,22 +29,6 @@ And on the first of Mihr, a blessed day,
 
 Set on his head the royal diadem.
 
-1 WPT, i. 119, 233-235.
-
-2 For the subject-matter of the above cf. HEP, 277, 278 ; DZA, i.
-
-225 ; MZA, iii. 233 ; WPT, ii. 369.
-
-3 In the oldest Pahlavi — that of the inscriptions — the letters r and I
-
-were represented by distinct signs, but in the later Pahlavi — that of
-
-the manuscripts — the same sign stood for both letters ; it is easy to
-
-understand the confusion that resulted, especially in the case of proper
-
-names. See DEI, i. 19.
-
 In those days, apprehensive of no evil,
 
 All men began to tread the path of God,
@@ -113,10 +97,6 @@ Another week she feasted all the nobles,
 
 Bedecked her house as it had been a garden
 
-1 A feast held on the 16th of Mihr and the five following days.
-
-THE SHAHNAMA OF FIRDA USl
-
 And there received her guests. She then unlocked
 
 The portal of her secret hoards, brought forth
@@ -133,7 +113,7 @@ She made no stint of robes and royal jewels,
 
 Arabian steeds with headstalls wrought of gold,
 
- Habergeons, helmets, double-headed darts,
+Habergeons, helmets, double-headed darts,
 
 Swords, crowns and belts. Intent upon her son
 
