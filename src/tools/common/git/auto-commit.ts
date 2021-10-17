@@ -29,12 +29,12 @@ import {
   autoCommitUpdatedLtexDocumentation,
   autoCommitUpdatedEnglishNotebooks,
   autoCommitUpdatedEnglishWarnerMarkdownFormatter,
-  autoCommitNewEnglishFrontmatterHelpers,
-  autoCommitUpdatedEnglishFrontmatterHelpers,
   autoCommitUpdatedCommonMarkdownFormatter,
   autoCommitUpdatedCommonToolsFs,
   autoCommitUpdatedCommonMarkdownFrontmatter,
   autoCommitUpdatedCommonMarkdownNaming,
+  autoCommitUpdatedEnglishWarnerFrontmatterHelpers,
+  autoCommitNewEnglishWarnerFrontmatterHelpers,
 } from '.';
 
 async function autoCommit() {
@@ -48,8 +48,8 @@ async function autoCommit() {
   await autoCommitNewEnglishWarnerEpisodes().then();
   await autoCommitUpdatedEnglishWarnerEpisodes().then();
   await autoCommitUpdatedEnglishWarnerMarkdownFormatter().then();
-  await autoCommitNewEnglishFrontmatterHelpers().then();
-  await autoCommitUpdatedEnglishFrontmatterHelpers().then();
+  await autoCommitNewEnglishWarnerFrontmatterHelpers().then();
+  await autoCommitUpdatedEnglishWarnerFrontmatterHelpers().then();
   // french - mohl - version
   await autoCommitNewFrenchEpisodes().then();
   await autoCommitUpdatedFrenchEpisodes().then();
