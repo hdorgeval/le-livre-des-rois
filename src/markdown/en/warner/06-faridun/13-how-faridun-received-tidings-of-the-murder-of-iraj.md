@@ -55,8 +55,6 @@ To Faridun and wailed aloud. They raised
 
 The golden casket's lid (for every one
 
-FARtDJJN
-
 Believed the words of him who bore it wild)
 
 And taking out the painted silk beheld
@@ -79,7 +77,7 @@ Their banners rent, their kettledrums reversed,
 
 The warriors' cheeks like ebony, the tymbals
 
-And faces of the elephants all blackened, v. 92
+And faces of the elephants all blackened,
 
 The prince's Arabs splashed with indigo.
 
@@ -151,7 +149,7 @@ And said with head turned God-ward :
 >
 > While foreign lions have devoured his body.
 >
-> V. 93 Do Thou so burn up those two miscreants 1 hearts
+> Do Thou so burn up those two miscreants 1 hearts
 >
 > That they may never see a bright day more.
 >
