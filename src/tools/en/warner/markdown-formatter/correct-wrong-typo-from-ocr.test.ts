@@ -103,7 +103,7 @@ To heaven/ I came before that well-loved Shah,`;
   const expected = `
 Thou wouldst have said : ' The precincts seethe, earth shouteth
 
-To heaven,'
+To heaven.'
 I came before that well-loved Shah,`;
   expect(result).toBe(expected);
 });
