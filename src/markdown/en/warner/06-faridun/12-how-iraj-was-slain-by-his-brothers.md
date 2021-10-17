@@ -29,8 +29,6 @@ Toward their royal brother's tent. Iraj,
 
 Who saw them coming, met them tenderly.
 
-
-
 v. 8j They went with him inside the tent. The talk
 
 Ran on the why and wherefore of his coming.
