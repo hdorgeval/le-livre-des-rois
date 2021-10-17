@@ -247,7 +247,7 @@ A chasm which he had marked of viewless depth —
 
 And having studded it with heavy nails,
 
-Whereon the brain might chafe, secured Zahhkk,
+Whereon the brain might chafe, secured Zahhak,
 
 Bound by the hands upon a crag, that so
 
