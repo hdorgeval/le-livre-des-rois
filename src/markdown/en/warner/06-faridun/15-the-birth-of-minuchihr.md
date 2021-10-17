@@ -27,61 +27,95 @@ Who from his tender mother's womb was brought
 
 Without delay before the mighty Shah.
 
-The bearer said : " master of the crown !
+The bearer said :
 
-Let all thy heart be joy: behold fraj !"
+> master of the crown !
+>
+> Let all thy heart be joy: behold fraj !
 
 The world-divider's lips were full of smiles ;
-Thou wouldst have said: "His own fraj doth live."
-He clasped the noble child and prayed the Almighty : —
-" Oh ! would that I might have mine eyes again,
-v - 95 That God would show to me this infant's face."
+
+Thou wouldst have said :
+
+> His own fraj doth live.
+
+He clasped the noble child and prayed the Almighty :
+
+> Oh ! would that I might have mine eyes again,
+>
+> v - 95 That God would show to me this infant's face.
 
 He prayed so earnestly that God vouchsafed
+
 To give his sight back. When with open eyes
+
 He gazed on that new-comer's face he cried :
+
 " Be this day blest and our foes' hearts plucked out ! "
 
 He brought bright wine and splendid cups and called
-That babe of open visage Miniichihr, 1
-And said : " From two pure parents there hath come
-A proper branch to fruit."
+
+That babe of open visage Miniichihr,
+
+And said :
+
+> From two pure parents there hath come
+>
+> A proper branch to fruit.
 
 He reared the babe
+
 So tenderly that not a breath passed o'er him.
+
 The slave that carried him upon her breast
+
 Trod not the ground, for underneath her feet
+
 The purest musk was strewn, and as she walked
+
 A sunshade of brocade was o'er her head.
+
 Years passed, no ill befell him from the stars ;
+
 ' Meanwhile the famous monarch taught the child
+
 All those accomplishments that kings require.
 
 1 The word here translated " open visage" is "mantfohihr." For the
+
 true meaning of Minuohihr see introductory note to the next reign.
 
 FARlDUN
 
-207
+When Faridun had got back sight and heart,
 
-When Faridiin had got back sight and heart,
 And all the world was talking of the boy,
+
 His grandsire gave to him a golden throne,
+
 A princely turquoise crown, a massive mace
+
 And treasury-key with thrones, torques, casques, and
+
 girdles,
 
 A bright-hued tent-enclosure of brocade
+
 With tents of leopard-skin, such Arab steeds
+
 With golden furniture, such Indian scimitars
+
 With golden sheaths, such store of casques and breast-
+
 plates,
 
 With buttoned hauberks made in Rum and bows
+
 From Chach and poplar shafts and shields from Chm
+
 And double-headed javelins of war !
 
-Thus Faridiin bestowed his hard-won treasures, v. 96
+Thus Faridun bestowed his hard-won treasures, v. 96
 
 Convinced that Minuchihr was well deserving,
 
