@@ -103,13 +103,6 @@ On any royal anniversary.
 The monarch entered bearing his son's head,
 Beheld the hauzes 1 and the cypresses,
 
-1 u Behind the state apartments is a beautiful and luxuriant garden,
-cooled by magnificent hauzes, or ornamental ponds, with stone edges,
-which keep the water about a foot above the level of the ground ; as
-the water always gently overflows these edges, a 9leepy murmur is
-produced, and the air is cooled by the large evaporating surface." —
-"Persia as it Is," p. 31, by C. J. Wills, M.D.
-
 204
 
 THE SHAHNAMA OF FIRDAUSt
