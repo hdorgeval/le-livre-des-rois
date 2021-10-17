@@ -177,8 +177,6 @@ Before the sword thy head will ache with strife,
 
 For from both corners of the world my sons
 
-196
-
 V. S5 Have shown their real intent. If thou wouldst
 
 fight
