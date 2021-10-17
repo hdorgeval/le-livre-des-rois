@@ -191,8 +191,6 @@ Cried out with bitterness :
 >
 > No wearer of a crown hath ever died
 >
-> FA RID UN
->
 > As thou hast died, thou famous warrior !
 >
 > Thou wast beheaded by vile Ahriman ;
