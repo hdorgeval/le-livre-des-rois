@@ -33,7 +33,7 @@ The princes of the realm waxed turbulent.
 
 Immersed in greed Salm changed in heart and mind,
 
- He sat in conclave, for he much misliked
+He sat in conclave, for he much misliked
 
 His sire's apportionment, which gave fraj
 
