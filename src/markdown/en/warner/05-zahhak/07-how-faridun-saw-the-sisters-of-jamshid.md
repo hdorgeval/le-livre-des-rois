@@ -17,11 +17,11 @@ order: '007'
 
 # How Faridun saw the Sisters of Jamshid
 
-Then Faridun o'erthrew the talisman, j
+Then Faridun o'erthrew the talisman,
 
-Raised heaven-high by Zahhak, because he saw ^/
+Raised heaven-high by Zahhak, because he saw
 
-That it was not of God, with massive mace \
+That it was not of God, with massive mace
 
 Laid low the sorcerers within the palace —
 
@@ -39,7 +39,7 @@ Sun-faced, dark-eyed ; he had them bathed, he purged
 
 The darkness of their minds by teaching them
 
-,The way of God and made them wholly clean ;
+The way of God and made them wholly clean ;
 
 For idol-worshippers had brought them up
 
@@ -59,13 +59,13 @@ Said thus to Faridun :
 >
 > Who venturest inside the Lion's lair
 >
-> ./ So hardily, thou mighty man of valour ?
+> So hardily, thou mighty man of valour ?
 >
 > What anguish and what bale have we endured
 >
 > All through this dragon-shouldered Ahriman !
 >
-> \* Oh ! what a miserable world for us
+> Oh ! what a miserable world for us
 >
 > Did this infatuated sorcerer make !
 >
@@ -105,7 +105,7 @@ When Arnawaz
 
 Heard this she guessed the secret, and replied: —
 
-" Then thou art Faridun the Shah and wilt |
+" Then thou art Faridun the Shah and wilt
 
 Abolish necromacy and black art,
 
@@ -137,15 +137,13 @@ Those fair dames told him all ;
 
 They thought :
 
-> The Dragon's head will meet the
->
-> shears,
+> The Dragon's head will meet the shears,
 
 And said :
 
 > He went to Hindustan to practise
 >
-> Some spell- work in that land of sorcerers.
+> Some spell-work in that land of sorcerers.
 >
 > He will cut off a thousand innocent heads,
 >
@@ -161,9 +159,7 @@ And said :
 >
 > And life affordeth him no happiness.
 >
-> Now is he slaughtering beasts and men and
->
-> women
+> Now is he slaughtering beasts and men and women
 >
 > To make a bath of blood and thus defeat
 >
