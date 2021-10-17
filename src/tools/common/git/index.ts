@@ -17,6 +17,7 @@ export * from './auto-commit-updated-mardown-formatter.common';
 export * from './auto-commit-updated-mardown-formatter.en';
 export * from './auto-commit-updated-mardown-formatter.fr';
 export * from './auto-commit-updated-mardown-frontmatter.common';
+export * from './auto-commit-updated-mardown-naming.common';
 export * from './auto-commit-updated-mardown-tags-helpers.fr';
 export * from './auto-commit-updated-notebook.en';
 export * from './auto-commit-updated-stats.fr';
