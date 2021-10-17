@@ -67,8 +67,6 @@ said : —
 
 " The earth will rise in waves and whelm the sky."
 
-1 Zahhdk's old capital.
-
 FARIDtfN
 
 227
