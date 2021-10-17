@@ -33,8 +33,6 @@ A proclamation issued to the troops :
 
 > men of name and Lions of the Shah !
 >
-> FA RID UN
->
 > Gird up your loins, be vigilant, and may
 >
 > The Almighty guard you. Whosoe'er is slain
@@ -61,13 +59,13 @@ A proclamation issued to the troops :
 
 The captains of the host, the valiant chiefs,
 
-Drew up before the lion-prince and said : —
+Drew up before the lion-prince and said :
 
-"We are but slaves and live to serve the Shah,
-
-Will do his will and with our swords make earth
-
-Run like Jihiin."
+> We are but slaves and live to serve the Shah,
+>
+> Will do his will and with our swords make earth
+>
+> Run like Jihiin.
 
 They went back to their tents, v. 109
 
