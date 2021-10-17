@@ -155,7 +155,7 @@ Upon the throne of majesty spake thus :
 >
 > The prudent man's. Brave, young, and sensible
 >
-> He must alone be praised. Be he fraj,
+> He must alone be praised. Be he Iraj,
 >
 > And may his end be all supremacy,
 >
@@ -171,7 +171,7 @@ He named the wife of Salm, Arzii ; 1 the wife
 
 Of Tur, Mah-i-Azada Khii ; the wife
 
-Of blest fraj, Sahl, to whom Canopus
+Of blest Iraj, Sahl, to whom Canopus
 
 Was but a slave in beauty. Afterwards
 
