@@ -87,23 +87,22 @@ Together with the leaders of the troops —
 Such chiefs as Sam the son of Nariman,
 Garshasp, son of Jamshid — and hosts to reach
 From hill to hill, and trample down the world/
-Next for their pleading that ' the Shah must wash
+Next for their pleading that the Shah must wash
 His heart from vengeance, and forgive our crime,
 Because the sky so turned o'er us that wisdom
-Was troubled, and affection's seat obscured : '
+Was troubled, and affection's seat obscured :
 I have heard all the unavailing plea,
-^ And now that patience is fordone I answer : —
-' No man that soweth seed of violence
+And now that patience is fordone I answer : —
+No man that soweth seed of violence
 Shall see good days or jocund Paradise,
-v. ioi If ye are pardoned by All-holy God
+If ye are pardoned by All-holy God
 
 What need ye fear about a brother's blood ?
 The wise esteem the self-excuser guilty.
 Revere ye not the glorious Lord of all ?
-Your hearts are black, your tongues speak glozing
-words ;
+Your hearts are black, your tongues speak glozing words ;
 
-JHe will requite you for it in both worlds.
+He will requite you for it in both worlds.
 And thirdly, since ye sent an ivory throne
 And torquoise crown on mighty elephants,
 With purses full of divers-coloured gems,
@@ -111,7 +110,7 @@ Am I to balk revenge, to wash away
 The blood and sell the prince's head for gold ?
 Nay ! perish first throne, diadem, and Grace !
 Worse than a dragon's offspring is the man
-^ Who taketh money for a priceless head.
+Who taketh money for a priceless head.
 
 FAR f DUN
 
@@ -122,7 +121,7 @@ Is putting price upon his son's dear life ? "
 As for these gifts of yours — I need them not.
 But wherefore utter I so many words ?
 Your hoary-headed sire will not ungird
-The loins of his revenge while life endureth/
+The loins of his revenge while life endureth.
 Thy message have I heard. Hear my reply,
 Retain it every whit and get thee gone."
 
@@ -180,8 +179,7 @@ Beneath his throne. Upon his elephants
 Were seats of gold, and round the lions' necks
 Were jewelled torques. The tymbal-players stood
 Before the elephants while trumpets blared.
-Thou wouldst have said : ' The precincts seethe, earth
-shouteth
+Thou wouldst have said : ' The precincts seethe, earth shouteth
 
 To heaven/ I came before that well-loved Shah,
 And saw a lofty turquoise throne where sat
@@ -195,7 +193,7 @@ Thou wouldst have said : ' Jamshid doth live again/
 A Shoot from that tall Cypress — Minuchihr,
 Like Tahmuras, the Binder of the Dlv,
 Sat on the Shah's right hand : thou wouldst have said : —
-1 ' He is the heart and soul of that great Shah/
+' He is the heart and soul of that great Shah/
 There Kawa stood, the skilled among the smiths,
 With one before him well beseen in war —
 His son, Karan by name, the warrior,
