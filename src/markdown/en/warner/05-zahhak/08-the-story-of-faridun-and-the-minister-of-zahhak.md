@@ -131,9 +131,11 @@ Retorted :
 >
 > If such a guest thou knowest know him such.
 
-Zahhak said: " Trouble not, it bodeth well
+Zahhak said :
 
-When guests are at their ease."
+> Trouble not, it bodeth well
+>
+> When guests are at their ease.
 
 Kundrav replied :
 
@@ -147,7 +149,7 @@ Kundrav replied :
 >
 > The worldlord, taking counsel, while this hand
 >
-> Is toying with the cheek of Shahrin&amp;z
+> Is toying with the cheek of Shahrinaz
 >
 > And that with Arnawaz' carnelian lip.
 >
