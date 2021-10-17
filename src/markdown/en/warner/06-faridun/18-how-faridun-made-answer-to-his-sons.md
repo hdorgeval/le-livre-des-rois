@@ -177,7 +177,7 @@ With camp-enclosures stretched upon the plain,
 
 He made his way toward Salm's pavilion
 
-Of painted silk with other tents around, v. 102
+Of painted silk with other tents around,
 
 Where sat both kings in conclave. Word was passed :
 
