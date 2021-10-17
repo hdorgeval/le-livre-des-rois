@@ -64,9 +64,11 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ K&amp;ran/g, ' Karan'),
     (content: string) => content.replace(/ Shahrin&amp;z/g, ' Shahrinaz'),
     (content: string) => content.replace(/\nfraj /g, '\nIraj '),
+    (content: string) => content.replace(/ fraj,/g, ' Iraj,'),
     (content: string) => content.replace(/ Shi'dush /g, ' Shidush '),
     (content: string) => content.replace(/Shfrwi /g, 'Shirwi '),
     (content: string) => content.replace(/ Tah'man/g, ' Taliman'),
+    (content: string) => content.replace(/ Miniichihr /g, ' Minuchihr '),
   ].forEach((format) => {
     result = format(result);
   });

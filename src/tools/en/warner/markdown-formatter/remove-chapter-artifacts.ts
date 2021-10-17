@@ -17,6 +17,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDA USI/g, ''),
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDA USi/g, ''),
     (content: string) => content.replace(/THE SHAH NAM A OF FJRDA USI/g, ''),
+    (content: string) => content.replace(/THE SHAH NAM A OF FlRDAUSt/g, ''),
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDA USl/g, ''),
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDAUSI/g, ''),
     (content: string) => content.replace(/THE SHAHNAmA OF FIRDAUSI/g, ''),
@@ -29,9 +30,11 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/zahhAk/g, ''),
     (content: string) => content.replace(/, v\. [1,2,3,4,5,6,7,8][1,2,3,4,5,6,7,8,9]\n/g, ',\n'),
     (content: string) => content.replace(/\n[V,v]\. [1,2,3,4,5,6,7,8][1,2,3,4,5,6,7,8,9] /g, '\n '),
+    (content: string) =>
+      content.replace(/\n[V,v]\. [1,2,3,4,5,6,7,8][0,1,2,3,4,5][1,2,3,4,5,6,7,8,9] /g, '\n '),
     (content: string) => content.replace(/ [V,v]\. [1,2,3,4,5,6,7,8][1,2,3,4,5,6,7,8,9]\n/g, '\n'),
     (content: string) =>
-      content.replace(/ [V,v]\. [1,2,3,4,5,6,7,8][1,2,3,4,5,6,7,8,9][1,2,3,4,5,6,7]\n/g, '\n'),
+      content.replace(/ [V,v]\. [1,2,3,4,5,6,7,8][0,1,2,3,4,5,6,7,8,9][1,2,3,4,5,6,7]\n/g, '\n'),
     (content: string) => content.replace(/■/g, ''),
     (content: string) => content.replace(/FA RID t N/g, ''),
     (content: string) => content.replace(/fa rId j5n/g, ''),
@@ -46,6 +49,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/FARIDVN/g, ''),
     (content: string) => content.replace(/FA RtD UN/g, ''),
     (content: string) => content.replace(/FAR f DUN/g, ''),
+    (content: string) => content.replace(/FA RID UN/g, ''),
   ].forEach((format) => {
     result = format(result);
   });
