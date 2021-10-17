@@ -209,7 +209,7 @@ What changes numberless have passed and still
 
 Must pass hereafter over. plain and hill !
 
-Thus fortune's favourite bore Zahhak toward v. 61
+Thus fortune's favourite bore Zahhak toward
 
 Shi'rkhan, and driving him among the mountains
 
