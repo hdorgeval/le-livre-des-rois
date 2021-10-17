@@ -104,5 +104,23 @@
       "protocol": "inspector",
       "internalConsoleOptions": "openOnSessionStart"
     },
+    {
+      "name": "Rename markdown files in current folder",
+      "type": "node",
+      "request": "launch",
+      "env": {
+        "CURRENT_MD_FOLDER": "${relativeFileDirname}",
+      },
+      "args": [
+        "src/tools/common/markdown-file-naming/rename-markdown-files-in-current-folder.ts"
+      ],
+      "runtimeArgs": [
+        "-r",
+        "ts-node/register"
+      ],
+      "cwd": "${workspaceRoot}",
+      "protocol": "inspector",
+      "internalConsoleOptions": "openOnSessionStart"
+    },
   ]
 }
