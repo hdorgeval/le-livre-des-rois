@@ -15,6 +15,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDA USt/g, ''),
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDA US1/g, ''),
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDA USI/g, ''),
+    (content: string) => content.replace(/THE SHAHNAMA OF FIRDA USi/g, ''),
     (content: string) => content.replace(/THE SHAH NAM A OF FJRDA USI/g, ''),
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDA USl/g, ''),
     (content: string) => content.replace(/THE SHAHNAMA OF FIRDAUSI/g, ''),
@@ -44,6 +45,7 @@ export function removeChapterArtifacts(content: string): string {
     (content: string) => content.replace(/FAR tD UN/g, ''),
     (content: string) => content.replace(/FARIDVN/g, ''),
     (content: string) => content.replace(/FA RtD UN/g, ''),
+    (content: string) => content.replace(/FAR f DUN/g, ''),
   ].forEach((format) => {
     result = format(result);
   });
