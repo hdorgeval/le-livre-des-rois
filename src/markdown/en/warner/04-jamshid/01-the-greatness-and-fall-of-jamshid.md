@@ -117,7 +117,7 @@ By doing handiwork — a turbulent crew,
 
 Who being always busied with their craft
 
-Are given much to thought. Jamshfd thus spent
+Are given much to thought. Jamshid thus spent
 
 Another fifty years and did much good,
 
@@ -151,7 +151,7 @@ Next leechcraft and the healing of the sick,
 
 The means of health, the course of maladies
 
-Were secrets opened by Jamshfd : the world
+Were secrets opened by Jamshid : the world
 
 Hath seen no other such discoverer.
 
