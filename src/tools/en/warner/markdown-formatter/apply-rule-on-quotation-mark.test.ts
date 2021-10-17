@@ -314,7 +314,7 @@ Kundrav replied :
   expect(result).toBe(expected);
 });
 
-test.only(`Should split`, () => {
+test(`Should split`, () => {
   // Given
   const input = `
 The sage when he defined a proper league ?
@@ -330,9 +330,87 @@ A sage intent on good will seek his friends`;
   const expected = `
 The sage when he defined a proper league ?
 
-> > I ne'er ally myself but with my betters.
+> I ne'er ally myself but with my betters.
 
 A sage intent on good will seek his friends`;
+
+  expect(result).toBe(expected);
+});
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+Jandal replied : " May every joy be thine,
+
+The sage when he defined a proper league ?
+
+' " I ne'er ally myself but with my betters."
+
+A sage intent on good will seek his friends
+
+Such is his message ; think of thy reply."
+
+The monarch of Yaman drooped like the jasmine`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+Jandal replied :
+
+> May every joy be thine,
+>
+> The sage when he defined a proper league ?
+>
+> > I ne'er ally myself but with my betters.
+>
+> A sage intent on good will seek his friends
+>
+> Such is his message ; think of thy reply.
+
+The monarch of Yaman drooped like the jasmine`;
+
+  expect(result).toBe(expected);
+});
+
+test(`Should split`, () => {
+  // Given
+  const input = `
+Jandal replied : " May every joy be thine,
+
+The sage when he defined a proper league ?
+
+' " I ne'er ally myself but with my betters.
+
+Without a want or wish unsatisfied."
+
+A sage intent on good will seek his friends
+
+Such is his message ; think of thy reply."
+
+The monarch of Yaman drooped like the jasmine`;
+
+  // When
+  const result = splitSentencesOnStartOfQuotationMark(input);
+
+  // Then
+  const expected = `
+Jandal replied :
+
+> May every joy be thine,
+>
+> The sage when he defined a proper league ?
+>
+> > I ne'er ally myself but with my betters.
+> >
+> > Without a want or wish unsatisfied.
+>
+> A sage intent on good will seek his friends
+>
+> Such is his message ; think of thy reply.
+
+The monarch of Yaman drooped like the jasmine`;
 
   expect(result).toBe(expected);
 });

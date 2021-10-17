@@ -3,6 +3,8 @@ export function correctWrongTypoFromOcr(content: string): string {
   [
     (content: string) => content.replace(/ , /g, ', '),
     (content: string) => content.replace(/\/'\n/g, '."\n'),
+    (content: string) => content.replace(/\/ /g, ",' "),
+    (content: string) => content.replace(/\/' /g, '," '),
     (content: string) => content.replace(/\/\\\*\n/g, '."\n'),
     (content: string) => content.replace(/\. ,,\n/g, '."\n'),
     (content: string) => content.replace(/\/\*\n/g, '."\n'),
@@ -15,6 +17,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/Gaiiimart /g, ' Gaiumart '),
     (content: string) => content.replace(/ di'v /g, ' div '),
     (content: string) => content.replace(/ di'v,/g, ' div,'),
+    (content: string) => content.replace(/ dlvs,/g, ' divs,'),
     (content: string) => content.replace(/ Di'v /g, ' Div '),
     (content: string) => content.replace(/ dfv's /g, " div's "),
     (content: string) => content.replace(/ dfv /g, ' div '),

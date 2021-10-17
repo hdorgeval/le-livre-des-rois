@@ -1,5 +1,9 @@
 export function splitSentencesOnStartOfQuotationMark(content: string): string {
   let result = content;
+  // appy rul on second level quotation marks
+  result = applyOnAllQuotationMarksWithSplitter(result, `?\n\n' "`);
+
+  // apply rul on first level quotation marks
   result = applyOnAllQuotationMarksWithSplitter(result, ' : "');
   result = applyOnAllQuotationMarksWithSplitter(result, ' : —\n\n"');
   result = applyOnAllQuotationMarksWithSplitter(result, 'said, "');
@@ -47,7 +51,10 @@ function splitSentencesOnStartOfQuotationMarkWithSplitter(
   }
 
   const quotationContent = sentences[0];
-  const formattedQuotationContent = `> ${quotationContent.trim().replace(/\n\n/g, '\n>\n> ')}`;
+  const formattedQuotationContent = `> ${quotationContent
+    .trim()
+    .replace(/\n>\n> /g, `\n> >\n> > `)
+    .replace(/\n\n/g, `\n>\n> `)}`;
   const restOfContent = sentences.slice(1).join('"').trim();
   const quotationSeparator = extractQuotationSeparator(splitter);
 
