@@ -18,8 +18,11 @@ order: '14'
 # How a Daughter was Born to Iraj
 
 A while passed and the Shah went in to view
+
 1 raj's bower, inspected it and marked
+
 The moon-faced beauties who resided there.
+
 He saw a slave of lovely countenance,
 
 Whose name was Mah Afrid. fraj had loved her, v. 94
@@ -40,9 +43,9 @@ And all the folk began to cherish her
 
 As she increased in stature and in charms.
 
-Thou wouldst have said to her the tulip-cheeked : —
+Thou wouldst have said to her the tulip-cheeked :
 
-" Thou art fraj himself from head to foot."
+> Thou art fraj himself from head to foot.
 
 When she was old enough to wed — a Pleiad
 
