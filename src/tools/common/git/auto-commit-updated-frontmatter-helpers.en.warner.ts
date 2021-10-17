@@ -17,7 +17,7 @@ export async function autoCommitUpdatedEnglishWarnerFrontmatterHelpers(): Promis
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/src/tools/en/warner/markdown-frontmatter/')) {
+    if (unstagedFile.includes('src/tools/en/warner/markdown-frontmatter/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
@@ -40,7 +40,7 @@ export async function autoCommitNewEnglishWarnerFrontmatterHelpers(): Promise<vo
   let hasUpdatedFiles = false;
   for (let index = 0; index < unstagedFiles.length; index++) {
     const unstagedFile = unstagedFiles[index];
-    if (unstagedFile.includes('/src/tools/en/warner/markdown-frontmatter/')) {
+    if (unstagedFile.includes('src/tools/en/warner/markdown-frontmatter/')) {
       hasUpdatedFiles = true;
       await git.add(unstagedFile);
     }
