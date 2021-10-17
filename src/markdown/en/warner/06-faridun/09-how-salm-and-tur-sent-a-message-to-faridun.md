@@ -111,7 +111,9 @@ While from that noble band of warriors
 
 The noise that rose was like a lion's roar,
 
- " It must be heaven," he thought, " and not a court :
+> It must be heaven,
+
+he thought, " and not a court :
 
 The troops around it are a fairy host !"
 
