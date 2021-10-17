@@ -47,7 +47,7 @@ And they were dazed in mind like drunken folk.
 
 Then while the tears from their bright eyes bedewed
 
-Their rosy cheeks those sisters of Jamshfd
+Their rosy cheeks those sisters of Jamshid
 
 Said thus to Faridun :
 
@@ -149,11 +149,13 @@ And said :
 >
 > For he is terror-struck at evil fortune,
 >
-> Because a seer hath said : ' Earth will be void
+> Because a seer hath said :
 >
-> Of thee, for Faridun will seize thy throne
->
-> And thy prosperity wither in a moment/
+> > Earth will be void
+> >
+> > Of thee, for Faridun will seize thy throne
+> >
+> > And thy prosperity wither in a moment.
 >
 > Struck by the words his heart is all aflame,
 >
