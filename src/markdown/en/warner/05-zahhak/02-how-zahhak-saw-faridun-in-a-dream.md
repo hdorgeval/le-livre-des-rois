@@ -41,8 +41,6 @@ Firm as a rock, 1 placed on his neck a yoke,
 
 Then casting earth and dust upon his head
 
-T48 
-
 Dragged him before the crowd in shame and anguish
 
 Toward Mount Damawand.
