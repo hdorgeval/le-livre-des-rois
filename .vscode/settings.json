@@ -20,4 +20,5 @@
     "typescript.tsdk": "node_modules/typescript/lib",
     "ltex.language": "en",
     "languageTool.enabled": false,
+    "editor.bracketPairColorization.enabled": true
 }
