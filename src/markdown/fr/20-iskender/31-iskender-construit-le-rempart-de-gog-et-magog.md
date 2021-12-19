@@ -35,7 +35,7 @@ Ils répondirent au roi par des lamentations sur la rotation du sert, en disant 
 >
 > Tout leur aspect est celui d’animaux, leurs langues sont noires, leurs yeux couleur de sang, leurs visages sont noirs, leurs dents comme des défenses de sangliers ; qui pourrait demeurer auprès d’eux ?
 >
-> Leurs corps sont tout couverts de poils, leurs poitrines de cou-leur sombre,.leurs oreilles comme celles des élépliants ; quand ils se couchent, ils font d’une oreille un oreiller et de l’autre une couverture pour leur corps ; chaque femelle met au monde mille petits et qui pourrait compter leur nombre ?
+> Leurs corps sont tout couverts de poils, leurs poitrines de couleur sombre,.leurs oreilles comme celles des élépliants ; quand ils se couchent, ils font d’une oreille un oreiller et de l’autre une couverture pour leur corps ; chaque femelle met au monde mille petits et qui pourrait compter leur nombre ?
 >
 > Ils se rassemblent en troupeaux comme les animaux et quand ils se hâtent, ils courent comme des onagres.
 >
