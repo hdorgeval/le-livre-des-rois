@@ -125,7 +125,7 @@ Tous deux restaient assis, dans leur douleur, les traits décomposés par l’el
 
 Il répondit :
 
-> A mon avis, l’ordre du roi est au-dessus du soleil et de la lune ; mais il n’y a rien de fort devant Dieu, depuis le brin d’herbe jusqu’à l’éléphant et au tigre : quiconque enfreint l’ordre de Dieu est insensé et n’a pas trouvé le chemin dela sagesse.
+> A mon avis, l’ordre du roi est au-dessus du soleil et de la lune ; mais il n’y a rien de fort devant Dieu, depuis le brin d’herbe jusqu’à l’éléphant et au tigre : quiconque enfreint l’ordre de Dieu est insensé et n’a pas trouvé le chemin de la sagesse.
 >
 > F aut-il donc étendre la main pour verser du sang ?
 >
