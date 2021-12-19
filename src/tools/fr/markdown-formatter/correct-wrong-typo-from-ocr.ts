@@ -1780,6 +1780,10 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ s’alIligea /g, ' s’affligea '),
     (content: string) => content.replace(/ aflligé/g, ' affligé'),
     (content: string) => content.replace(/ heucreux/g, ' heureux'),
+    (content: string) => content.replace(/ Rusrem/g, ' Rustem'),
+    (content: string) => content.replace(/, 5 il /g, ', il '),
+    (content: string) => content.replace(/\. 5 Il /g, '. Il '),
+    (content: string) => content.replace(/A l’instant/g, 'À l’instant'),
   ].forEach((format) => {
     result = format(result);
   });
