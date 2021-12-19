@@ -119,7 +119,7 @@ Kharrad, à ces paroles, ne savait plus où commençaient et où finiraient ses 
 
 Or il y avait un vieux Turc du nom de Kaloun, dont les Turcs ne faisaient aucun cas ; il n’était vêtu que d’un manteau en peau de mouton ; il se nourrissait de lait caillé et de millet.
 
-Lorsque, jour fatal, Mekatoureh périt misérablement par la main de Bahram, le cœurde Kaloun bouillonna de douleur et jour et nuit il exhalait hautement son chagrin.
+Lorsque, jour fatal, Mekatoureh périt misérablement par la main de Bahram, le cœur de Kaloun bouillonna de douleur et jour et nuit il exhalait hautement son chagrin.
 
 Il était parent de Mekatoureh et son cœur fut rempli de chagrin et d’angoisse par Bahram ; il était toujours plein du désir de s’en venger et permettait à sa langue toutes les malédictions sur lui.
 
