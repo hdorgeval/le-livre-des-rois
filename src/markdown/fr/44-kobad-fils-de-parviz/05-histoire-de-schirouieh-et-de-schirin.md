@@ -133,7 +133,7 @@ Puis elle se rendit dans ce jardin, ôta son voile et s’assit toute pâle et d
 > Depuis que j’ai paru devant Khosrou, depuis qu’il m’a mise dans l’appartement doré et que je suis devenue la première des princesses et l’orgueil du roi, me suis-je rendue coupable de quelque faute ?
 >
 > Gardez-vous bien de répondre avec dissimulation ; à quoi bon la dissimulation à l’égard d’une femme
-> ’ et qui creuse sa tombe ? »
+> et qui creuse sa tombe ? »
 
 Tous les serviteurs se levant ensemble répondirent :
 
@@ -165,7 +165,9 @@ Schirin répondit :
 >
 > Fais ouvrir pour moi le tombeau du roi dont je veux encore contempler les traits. »
 
-Je le permets dit Schirouï : qu’on la laisse libre de voir le grand roi. »
+Je le permets dit Schirouï :
+
+> qu’on la laisse libre de voir le grand roi. »
 
 Les gardiens ayant ouvert les portes du tombeau, cette femme vertueuse entonna une lamentation funèbre ; elle entra, appliqua son visage contre celui de Khosrou et lui rendit compte de ce qui s’était passé, puis elle avala d’un trait le poison foudroyant qui mit fin à sa douce existence.
 
