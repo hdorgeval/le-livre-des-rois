@@ -40,7 +40,7 @@ Il alla d’Andalous au Misr, rapidement comme un courrier, auprès du noble Ka�
 
 Lorsque Keïdafeh vit l’image d’Iskender, . elle devint inquiète et la cacha en soupirant, disant nielle-même .-Cet homme foulera aux pieds le monde à l’aide de ses armes et de son intelligence et quiconque se présentera devant lui pour le combattre ne jouira pas d’une longue vie sur la terre. »
 
-Cependant Iskender demanda à Keïthoun :
+Cependant, Iskender demanda à Keïthoun :
 
 > Qui est l’égal de Keïdafeh sur la terre ? »
 
