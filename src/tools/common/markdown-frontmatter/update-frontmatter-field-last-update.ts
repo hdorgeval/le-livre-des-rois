@@ -27,6 +27,12 @@ export const updateFrontmatterFieldLastUpdate = async (rootDirectory: PathLike):
 export const updateFrontmatterFieldIn = async (markdownFile: PathLike): Promise<void> => {
   const lines = readAllLinesInFile(markdownFile);
   let hasBeenUpdated = false;
+  const todayDate = lastUpdateOf(markdownFile.toString());
+  const yearToday = todayDate.toLocaleDateString('en', { year: 'numeric' });
+  const monthToday = todayDate.toLocaleDateString('en', { month: '2-digit' });
+  const dayToday = todayDate.toLocaleDateString('en', { day: '2-digit' });
+  const todayUpdate = `${yearToday}-${monthToday}-${dayToday}`;
+
   const refactoredLines = lines.map((line) => {
     if (line.startsWith('lastUpdate:')) {
       const lastUpdateDate = lastUpdateOf(markdownFile.toString());
@@ -35,7 +41,7 @@ export const updateFrontmatterFieldIn = async (markdownFile: PathLike): Promise<
       const day = lastUpdateDate.toLocaleDateString('en', { day: '2-digit' });
       const lastUpdate = `${year}-${month}-${day}`;
       const updatedLine = `lastUpdate: '${lastUpdate}'`;
-      if (line !== updatedLine) {
+      if (todayUpdate === lastUpdate) {
         hasBeenUpdated = true;
       }
       return updatedLine;
