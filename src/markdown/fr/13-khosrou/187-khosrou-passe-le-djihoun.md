@@ -29,13 +29,13 @@ Il distribua encore des trésors dans ce pays et désira qu’il lût cultivé.
 
 À chaque station arrivait une escorte de cavaliers pour protéger le roi.
 
-Khosrou reçut des nouvelles de Gangue et d’Afrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Afrasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afiasiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sous le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
+Khosrou reçut des nouvelles de Gangue et d’Afrasiab et de son armée ; il apprit que Kakuleh, un descendant de Tour, plein de haine et de rancune et impatient de voir le jour de la bataille, était arrivé auprès d’Afrasiab avec une armée qui ressemblait à des lions déchaînés ; qu’Afrasiab avait envoyé une partie de ses héros à Djadj pour faire apporter le trône et la couronne des Turcs ; qu’il avait expédié, sous le commandement de Thuwnrg, une grande armée dans le désert et que tous les princes du désm’t avaient accepté la guerre contre Khosrou et promis de couper le chemin aux Iraniens.
 
 Khosrou, le maître du monde, méprisa ces mouvements ; son esprit ne s’occupait que d’Afrasiab.
 
 Il ordonna à l’armée, qui arrivait de Berda et d’Ardebil, de s’avancer par division, de le précéder et de lui rendre compte des braves, des Mobeds et des gouverneurs d’Afrasiab.
 
-Cette armée partit sous le commandement de Gustehem, qui ne s’ell’rayait pas du combat des lions.
+Cette armée partit sous le commandement de Gustehem, qui ne s’effrayait pas du combat des lions.
 
 Ensuite, il ordonna à l’armée venue du Nimrouz de partir avec Rustem, le destructeur des braves et de monter sur des chevaux forts comme des dromadaires ardents à la course, en tenant en laisse des chevaux frais, pour surprendre les Turcs par une marche rapide.
 
@@ -51,7 +51,7 @@ Les Turcs apprirent que l’armée de Khosrou, qui ambitionnait la possession du
 
 Keï Khosrou adressa la parole à son armée, disant :
 
-> Maintenant il faut faire la guerre sur un plan nouveau.
+> Maintenant, il faut faire la guerre sur un plan nouveau.
 >
 > Ceux parmi les Turcs qui nous obéiront, qui regretteront de nous avoir combattus, ne les attaquez pas, ne versez pas leur sang, ne permettez à personne de leur faire du mal ; mais ceux qui s’aviseraient de nous attaquer, ceux dont le cœur haineux ne veut pas suivre la bonne voie. il vous est permis de verser leur sang, de les attaquer partout et de les piller. »
 
