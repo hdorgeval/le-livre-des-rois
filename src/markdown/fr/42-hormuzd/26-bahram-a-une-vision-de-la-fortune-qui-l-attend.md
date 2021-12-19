@@ -58,7 +58,7 @@ Bahram et la femme se dirent en secret bien des choses que personne n’entendai
 
 Lorsque la femme aperçut Yelan Sineh, elle dit à un esclave :
 
-> Mon bel ami, va vite dire à cet homme ce au cœurde lion qu’il n’a pas le droit d’entrer ici ; qu’il aille rejoindre ses camarades ; son maître va partir, qu’il le précède. »
+> Mon bel ami, va vite dire à cet homme ce au cœur de lion qu’il n’a pas le droit d’entrer ici ; qu’il aille rejoindre ses camarades ; son maître va partir, qu’il le précède. »
 
 En même temps elle envoya du palais des serviteurs auprès de l’escorte de Bahram, avec l’ordre de conduire les chevaux de ces hommes vaillants à l’écurie et d’avoir soin des couvertures et des selles.
 
