@@ -143,12 +143,12 @@ Et les pays d’alentour, les Turcs avaient levé la tête ; mais maintenant ils
 > Si ton armée ne te parait pas suffisante pour ce combat, demande un renfort à ton roi.
 >
 > Calcule profondément les chances de cette bataille et attends que tes fils, tes alliés et tes parents blessés, qui font maintenant défaut à ton armée, soient rétablis par les médecins : car ton intérêt est dans ce moment de gagner du temps.
-
-Si tu me demandes du temps et un délai, je te l’accorde ; sinon pré : pare-toi au combat.
-
-Je te dis tout cela afin que tu ne cherches pas un nouveau prétexte pour éluder la bataille.
-
-Tu nous as attaqués inopinément, tu nous a tendu un piège et dressé une embuscade, tu ne nous as accordé aucun délai ; mais il n’importe que je me venge dans cent ans ou dans ce moment même : seulement n’espère pas que je m’en retourne sans avoir livré ce combat, pour lequel la nuit et le jour, le temps opportun et inopportun me sont indifférents. »
+>
+> Si tu me demandes du temps et un délai, je te l’accorde ; sinon pré : pare-toi au combat.
+>
+> Je te dis tout cela afin que tu ne cherches pas un nouveau prétexte pour éluder la bataille.
+>
+> Tu nous as attaqués inopinément, tu nous a tendu un piège et dressé une embuscade, tu ne nous as accordé aucun délai ; mais il n’importe que je me venge dans cent ans ou dans ce moment même : seulement n’espère pas que je m’en retourne sans avoir livré ce combat, pour lequel la nuit et le jour, le temps opportun et inopportun me sont indifférents. »
 
 La réponse à la lettre de Piran étant achevée, le messager accourut rapide comme une Péri, la ceinture serrée, assis sur son coursier et entouré de son escorte de cavaliers.
 
