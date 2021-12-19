@@ -69,7 +69,7 @@ Lorsque l’Hindou eut lu la lettre, ses larmes inondèrent son visage.
 
 On y disait :
 
-> Puisses-tu être heucreux, puisses-tu être avec ta couronne d’or un ornement pour la dignité de Khosroês !
+> Puisses-tu être heureux, puisses-tu être avec ta couronne d’or un ornement pour la dignité de Khosroês !
 
 Car tu seras le roi maître du monde, lorsque le neuvième du mois d’Ader (septembre) sera arrivé et quand ton père aura régné pendant trente-huit ans ; c’est ainsi que tourneront les astres ; c’est alors que brilleront les temps de bonheur et que tu placeras sur ta tête la couronne royale.
 
@@ -304,7 +304,7 @@ Lorsque ces hommes qui l’avaient terrifié et avaient brûlé le foie de (épo
 
 Il s’abstenait de manger, il ne pouvait dormir d’inquiétude ; l’angoisse que lui inspirait Khosrou remplissait de larmes ses deux yeux et le sang coulait de ses cils sur sa poitrine.
 
-Cependant les troupes apprirent tout cela, elles apprirent les lamentations et la détresse du roi et en furent effrayées ; elles se rassemblèrent dans un même lieu et se mirent à parler de Khosrou et à dire que si jamais Parviz remontait sur le trône, les
+Cependant, les troupes apprirent tout cela, elles apprirent les lamentations et la détresse du roi et en furent effrayées ; elles se rassemblèrent dans un même lieu et se mirent à parler de Khosrou et à dire que si jamais Parviz remontait sur le trône, les
 
 Chefs de l’armée périraient tous sur le gibet.
 
@@ -314,7 +314,7 @@ Schirouï le sut et monta sur son trône ; les tiers héros, tant de sa famille 
 
 Schirouï comprit pourquoi ces hommes, assis avec un maintien si sombre, étaient soucieux et chagrins ; : il leur dit :
 
-> Un roi qui a pour soutien Dieu, le nourricier du monde et qui ne serait pas ému des peines dont soutire son père, je ne pourrais l’appeler qu’un homme méchant et sans honneur, et personne ne voudrait mettre en lui son espoir, car il serait plus pourri qu’un morceau de bois de saule pourri. »
+> Un roi qui a pour soutien Dieu, le nourricier du monde et qui ne serait pas ému des peines dont soutire son père, je ne pourrais l’appeler qu’un homme méchant et sans honneur et personne ne voudrait mettre en lui son espoir, car il serait plus pourri qu’un morceau de bois de saule pourri. »
 
 Ces hommes coupables lui répondirent :
 
