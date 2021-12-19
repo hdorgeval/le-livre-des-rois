@@ -9,7 +9,7 @@ reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
 episode-slug: 'bahman-charge-zal-de-chaines'
 title: 'Bahman charge Zal de chaines | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ["âme", "Bahman", "chameau", "Destan", "Hirmend", "Isfendiar", "musc", "Nousch-Ader", "Nousch-Zad", "Rustem", "Sam", "Séistan", "Zaboul", "Zaboulistan", "Zal"]
 order: '002'
 ---
 
