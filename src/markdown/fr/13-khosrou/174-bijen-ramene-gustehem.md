@@ -55,7 +55,7 @@ Le malade passa ainsi deux semaines ; à la fin il guérit et se rétablit de se
 
 On le plaça sur un cheval et on l’amena devant le roi ; et lorsque le maître du monde l’aperçut, il dit aux Iraniens :
 
-> Soyez reconnaissants et heucreux de ce que Dieu a fait.
+> Soyez reconnaissants et heureux de ce que Dieu a fait.
 >
 > Il est merveilleux que mon vœu soit exaucé et que le compas de ma fortune ait formé un cercle si juste.
 >
