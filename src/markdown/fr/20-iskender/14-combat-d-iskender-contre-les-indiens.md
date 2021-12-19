@@ -70,7 +70,7 @@ Quand Iskender aperçut cet homme semblable à un éléphant furieux, monté sur
 
 Dam te moment il s’éleva sur les derrières de l’armée un grand cri qui inquiéta Four et lui fit tourner de ce côté la tête, les yeux et les oreilles.
 
-Iskender s’avança au milieu dela poussière rapidement comme le vent, frappa ce lion d’un coup d’épée et lui trancha la tête et le cou au-
+Iskender s’avança au milieu de la poussière rapidement comme le vent, frappa ce lion d’un coup d’épée et lui trancha la tête et le cou au-
 dessus de la poitrine : le tronc tomba du haut du cheval sur la terre.
 
 L’armée de Four poussa un cri qui montait au ciel et les héros Ide l’Iran accoururent.
