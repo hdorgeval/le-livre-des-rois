@@ -41,7 +41,7 @@ Le roi dit à ses confidents :
 >
 > Nous aurons une chasse dans ces plaines qui laissera un sOuvenir dans le monde.
 >
-> Alors les onagres auront le cou fort, le cœur du lion mâle et la cou-leur du tigre.
+> Alors les onagres auront le cou fort, le cœur du lion mâle et la couleur du tigre.
 >
 > Nous amènerons sur cette longue route les "chiens, les guépards, les faucons, les gerfauts et les laniers, car c’est là le lieu pour les onagres, pour les arcs et les flèches et nous ne cesserons un instant de lance ; nos chevaux.
 >
