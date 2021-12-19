@@ -33,7 +33,7 @@ Les dia : grands coururent vers le Pehlewan, joyeux et souriant ; mais on se dis
 
 Car Piran avait été un homme au cœur de lion et avait passé sa vie dans les combats.
 
-Cependant le Pehlewan prit la parole et tous, jeunes et vieux, l’écoutèrent avidement ; il leur montra du doigt l’endroit où il avait combattu et raconta ce qui lui était arrivé ; ensuite il ordonna à Rehham de monter à cheval et d’aller chercher le. corps de Piran, ajoutant :
+Cependant, le Pehlewan prit la parole et tous, jeunes et vieux, l’écoutèrent avidement ; il leur montra du doigt l’endroit où il avait combattu et raconta ce qui lui était arrivé ; ensuite il ordonna à Rehham de monter à cheval et d’aller chercher le. corps de Piran, ajoutant :
 
 > Lie-le sur la selle de ton cheval, rapporte attachées avec ton lacet sa cuirasse et son armure telles qu’elles sont et ne défigure pas son visage et son corps. »
 
