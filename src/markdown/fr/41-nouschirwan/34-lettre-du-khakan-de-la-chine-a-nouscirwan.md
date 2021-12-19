@@ -44,7 +44,7 @@ Un jour le roi tint une grande cour dans la plaine ; l’air devint sombre par l
 
 Les Ghilauis avec leurs boucliers d’or, y parurent ; ils présentèrent leurs hommages au roi et lui olfrirent trois cents destriers aux rênes d’or et des épées aux fourreaux d’or.
 
-Les épées, les javelots et les dards brillaient ; on aurait dit que le fer était pétri avec de l’or ; on avait placé sur le dos d’un éléphant bue housse de brocart et un trône de turquoises, cou-leur d’indigo.
+Les épées, les javelots et les dards brillaient ; on aurait dit que le fer était pétri avec de l’or ; on avait placé sur le dos d’un éléphant bue housse de brocart et un trône de turquoises, couleur d’indigo.
 
 La terre était pleine de bruit ; l’air rempli d’agitation et les oreilles les plus fines étaient assourdies ; les cavaliers du désert, armés de lances, les envoyés de Berda, de l’Inde, du Roum et de tous les pays cultivés se présentèrent devant le roi, qui voulait montrer aux Chinois à qui appartenait la royauté, à qui était le monde depuis le soleil jus-. qu’au dos du poisson qui porte la terre.
 
