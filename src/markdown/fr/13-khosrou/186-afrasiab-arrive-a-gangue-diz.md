@@ -19,11 +19,11 @@ order: '186'
 
 Lorsque Afrasiab se fut déterminé à repasser le Djihoun, il traversa le fleuve rapidement comme un ouragan, son armés se réunit à l’armée de Karakhan et chacun raconta ce qui lui était arrivé dans la bataille.
 
-Le roi des Turcs et tous ceux de sa race qui survivaient versaient des larmes abondantes sur la mort de son fils illustre, de ses grands, de ses parents et de ses alliés, et l’on entendit des lamentations telles qu’on aurait dit que les nuages faisaient pleuvoir du sang des yeux du lion.
+Le roi des Turcs et tous ceux de sa race qui survivaient versaient des larmes abondantes sur la mort de son fils illustre, de ses grands, de ses parents et de ses alliés et l’on entendit des lamentations telles qu’on aurait dit que les nuages faisaient pleuvoir du sang des yeux du lion.
 
 Il fit une halte à Bokhara, parce qu’il désirait faire recommencer le combat des lions.
 
-Il convoqua les plus courageux des grands de sa cour qui restaient en vie ; mais lorsque les nobles et tous les braves qui étaient admis à donner un avis lurent rassemblés, ils déclarèrent au roi qu’ils désespéraient dela guerre.
+Il convoqua les plus courageux des grands de sa cour qui restaient en vie ; mais lorsque les nobles et tous les braves qui étaient admis à donner un avis lurent rassemblés, ils déclarèrent au roi qu’ils désespéraient de la guerre.
 
 Tous les plus vaillants de notre armée sont morts et notre cœur en saigne.
 
@@ -51,7 +51,7 @@ Il s’y reposa heureux et souriant ; tu aurais dit que la sécurité était sa 
 
 Il appela de tous côtés une armée sans nombre, des grands qui portaient haut la tête et des héros et se mit à jouir du vin et des bosquets fleuris, du son des harpes et des rebecs, des roses, des jacinthes et des coupes.
 
-Il jouit ainsi de la vie en attendant qu’il vit comment le sort tournerait et quel secret se cachait sous cc qui était apparent.
+Il jouit ainsi de la vie en attendant qu’il vit comment le sort tournerait et quel secret se cachait sous ce qui était apparent.
 
 Mais bientôt arrivèrent des espions qui lui dirent en secret :
 
