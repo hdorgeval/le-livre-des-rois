@@ -25,7 +25,7 @@
     "en-format-all-episodes": "ts-node src/tools/en/warner/markdown-formatter/format-episodes.ts",
     "--- french version from J. Mohl ------------": "",
     "fr-update-frontmatter-tags": "ts-node src/tools/fr/markdown-tags/set-tags-in-website-markdowns.ts",
-    "fr-up-date-frontmatter-lastUpdate": "ts-node src/tools/fr/markdown-frontmatter/update-frontmatter-field-last-update.ts",
+    "fr-update-frontmatter-lastUpdate": "ts-node src/tools/fr/markdown-frontmatter/update-frontmatter-field-last-update.ts",
     "fr-format-all-episodes": "ts-node src/tools/fr/markdown-formatter/format-episodes.ts",
     "--------------------------------------------": "",
     "auto-commit-skip-netlify": "ts-node src/tools/common/git/auto-commit-skip-netlify.ts",
