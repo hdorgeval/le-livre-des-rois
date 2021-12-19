@@ -113,7 +113,7 @@ che, des troupes pour soutenir la lutte ; c’étaient quarante mille cavaliers 
 
 En arrivant des derrières de l’armée, Guersiwez accourut auprès de son frère, qui, à sa vue, sentit renaître son courage et fit avancer ses troupes.
 
-Alors on entendit le bruit des coups donnés et rendus et la face du ciel fut voilée par les flè-ches.
+Alors on entendit le bruit des coups donnés et rendus et la face du ciel fut voilée par les flèches.
 
 Lorsque le soleil disparut et que le jour pâlit à l’aspect de la nuit, Guersiwez, le rusé Pehlewan, accourut auprès de son frère et lui dit :
 
