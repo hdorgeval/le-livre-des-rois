@@ -48,7 +48,7 @@ Il releva la tête après sa prière et revêtit d’une cuirasse sa poitrine br
 
 Il ordonna que chaque porte fût attaquée fortement. par un corps d’armée ; on mit le feu au bois et au naphte ; on lança des pierres à la tête des assiégés.
 
-Le bruit des arbalètes et la fumée obscurcirent la face radieuse du soleil ; la terre devint bleue, le ciel cou-leur de lapislazuli à cause de la poussière que faisaient lever les balistes et les catapultes ; on entendait les cris des éléphants et les voix deschefs ; on voyait les éclairs des épées et des lourdes massues, on au-
+Le bruit des arbalètes et la fumée obscurcirent la face radieuse du soleil ; la terre devint bleue, le ciel couleur de lapislazuli à cause de la poussière que faisaient lever les balistes et les catapultes ; on entendait les cris des éléphants et les voix deschefs ; on voyait les éclairs des épées et des lourdes massues, on au-
 rait dit que la lune et le soleil se combattaient, tant il pleuvait des coups d’épées et tant la poussière était noire.
 
 Le naphte incendia les troncs d’arbres, qui, par la. permission de Dieu, brûlaient comme du bois de chauffage ; on aurait dit que la muraille se soulevait et s’écroulait comme une montagne.
