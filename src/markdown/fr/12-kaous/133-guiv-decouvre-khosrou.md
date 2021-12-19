@@ -27,7 +27,7 @@ Il vivait de la chair des onagres et se vêtait de leurs peaux ; il mangeait des
 
 Il errait de cette manière dans les déserts et dans les montagnes, épuisé de fatigue et se tenant loin des hommes.
 
-Cependant Afrasiab, qui était rentré dans Gang et s’était emparé de nouveau du Touran, après que Rustem eut ramené son armée sur la rive gauche du Djihoun, avait dit à Piran :
+Cependant, Afrasiab, qui était rentré dans Gang et s’était emparé de nouveau du Touran, après que Rustem eut ramené son armée sur la rive gauche du Djihoun, avait dit à Piran :
 
 > Ô sage !
 >
