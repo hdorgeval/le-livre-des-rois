@@ -23,9 +23,9 @@ Gustehem arriva près de l’endroit où se trouvaient les deux amis touraniens.
 
 Son coursier flaira leurs chevaux, hennit et se mit à bondir.
 
-A l’instant le cheval de Lehhak fil de son côté entendre un liennissement, comme s’il eût été en démence.
+À l’instant le cheval de Lehhak fil de son côté entendre un liennissement, comme s’il eût été en démence.
 
-F erschidwerd courut vers Lehhak et le réveilla, en disant :
+Ferschidwerd courut vers Lehhak et le réveilla, en disant :
 
 > Réveille-toi de ton doux sommeil, frappe bravement la tête de la mauvaise fortune.
 >
@@ -54,7 +54,7 @@ Ils sortirent de leur retraite et se dirigèrent vers la plaine.
 
 Gustehem courut sur eux avide de combat ; il s’approcha et arrivé près d’eux, il poussa des cris de rage comme un lion furieux et lit pleuvoir sur eux des traits de bois de peuplier.
 
-F erschidwerd s’élança pour l’attaquer ; mais Gustehem décocha contre lui une flèche qui le frappa à la tête et qui mêla son sang avec sa cervelle.
+Ferschidwerd s’élança pour l’attaquer ; mais Gustehem décocha contre lui une flèche qui le frappa à la tête et qui mêla son sang avec sa cervelle.
 
 Il tomba de cheval et mourut à l’instant ; cet illustre héros fils de Wiseh avait cessé de vivre.
 
