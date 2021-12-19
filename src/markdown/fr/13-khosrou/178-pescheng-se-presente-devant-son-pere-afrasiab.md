@@ -28,7 +28,7 @@ Maintenant voici cet homme qui vient le combattre, mais qui ne restera pas longt
 >
 > Tu as élevé cet infâme, ce pervers Khosrou, comme un tendre père, tu n’as pas permis que son pied touchât la terre ; tu l’as gardé jusqu’à ce qu’il fût devenu grand et que, grâce à tes soins, il fût propre à porter une couronne d’or ; alors il s’est enfui du Touran dans l’Iran comme un oiseau ; on aurait dit qu’il n’avait jamais vu son grand-père.
 >
-> Rappelle-toi ce que Pirnn a fait par charité pour cette homme déloyal et indigne, qui a oublié toute la tendresse de Piran, a rempli son cœur de haine et sa tête d’agitation, et, dans son ingratitude, a tué ce généreux Pehlewan lorsqu’il est tombé entre ses mains.
+> Rappelle-toi ce que Piran a fait par charité pour cet homme déloyal et indigne, qui a oublié toute la tendresse de Piran, a rempli son cœur de haine et sa tête d’agitation, et, dans son ingratitude, a tué ce généreux Pehlewan lorsqu’il est tombé entre ses mains.
 >
 > Maintenant il vient de l’Iran avec ses griffes aigûes, à la tête d’une armée, pour combattre son grand-père ; il ne se contente ni d’or, ni de diadème, ni de chevaux, ni d’épées, ni de trésors, ni d’un trône, il demande le sang de ses parents ; ce sont les seules paroles qu’on entend de sa bouche.
 >
@@ -38,11 +38,11 @@ Maintenant voici cet homme qui vient le combattre, mais qui ne restera pas longt
 >
 > C’est avec l’épée que les braves accomplissent des hauts faits.
 >
-> Les cavaliers qui sont avec moi à l’aile droite sont tous, corps et âme, pour le combat et si le roi me le permet, je ne laisserai pas un Iranien en vie ; je clouerai leurs casques sur leurs têtes avec des flè-ches, sans m’inquiéter de leurs fossés ni de leurs Afrasiagb écoutlaecesspa.rolens et rjépondit : Ne te hâte pas, n’agis pas dans la colère.
+> Les cavaliers qui sont avec moi à l’aile droite sont tous, corps et âme, pour le combat et si le roi me le permet, je ne laisserai pas un Iranien en vie ; je clouerai leurs casques sur leurs têtes avec des flèches, sans m’inquiéter de leurs fossés ni de leurs Afrasiagb écoutlaecesspa.rolens et rjépondit : Ne te hâte pas, n’agis pas dans la colère.
 >
 > Tout ce que tu dis est vrai et vilvne faut tenir en honneur que la vérité ; mais tu sais que le vaillant Piran n’a foulé sur la terre que la route du bien ; son cœur ne connaissait pas l’injustice et le mensonge ; il ne cherchait que ce qui était bon et vrai ; il était fort comme un éléphant au jour du combat ; son cœur était comme la mer et sa joue comme le soleil brillant.
 >
-> Lui et son frère Houman, qui était un léopard dans la bataille, le vaillant Lehhak et Ferschidwerd et cent milles Turcs, cavaliers avides de vengeance, tous désireux de gloire et propres au combal, partirent d’ici pleins d’une ardeur bouillante ; mais moi j’étais en secret plein de soucis et de sou-’pirs.
+> Lui et son frère Houman, qui était un léopard dans la bataille, le vaillant Lehhak et Ferschidwerd et cent milles Turcs, cavaliers avides de vengeance, tous désireux de gloire et propres au combat, partirent d’ici pleins d’une ardeur bouillante ; mais moi j’étais en secret plein de soucis et de sou-’pirs.
 >
 > C’est ainsi qu’il fut tué sur le champ de la vengeance et que sous lui la terre devint une boue sanglante.
 >
@@ -62,7 +62,7 @@ Peschcng lui répondit :
 >
 > Je brûle de combattre Keï Khosrou, car c’est le jeune roi du monde et s’il accepte le défi, comme je n’en doute pas, il ne sortira pas vivant de mes mains ; alors le cœur et le dos de cette armée seront brisés et elle sera réduite à a l’impuissance ; et si un autre champion vient les secourir, j’abaisserai sur-le-champ sa tête dans la poussière. »
 
-A’frasiab répondit :
+Afrasiab répondit :
 
 > Ô jeune homme sans expérience ! 
 >
