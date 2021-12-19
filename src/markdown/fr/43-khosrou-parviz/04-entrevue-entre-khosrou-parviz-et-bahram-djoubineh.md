@@ -67,7 +67,7 @@ Guerdouî répondit :
 
 Khosrou dit :
 
-> Si tu fais une question à ce Pehlewan au des courbé, il te donnera une réponse rude.0n dirait que cet homme au museau de sanglier et aux yeux moitié fermés a le cœur rempli de colère ; regarde ses yeux et tu verras que c’est un mauvais homme et l’ennemi de Dieu dans le monde.
+> Si tu fais une question à ce Pehlewan au des courbé, il te donnera une réponse rude.On dirait que cet homme au museau de sanglier et aux yeux moitié fermés a le cœur rempli de colère ; regarde ses yeux et tu verras que c’est un mauvais homme et l’ennemi de Dieu dans le monde.
 >
 > Je ne vois pas en lui une trace de soumission et il n’obéira jamais à personne. »
 
@@ -467,7 +467,7 @@ Il faut faire ni plus ni moins que ce que Zerdouscht dit dans le Zend :
 
 Bahram répondit :
 
-> La vérité est, ô homme de mauvaise race, que tu es dela famille des Sasanides et que Sâsân était pâtre et fils de pâtre et que ce n’est pas même Babek qui, le premier, lui avait confié un troupeau. »
+> La vérité est, ô homme de mauvaise race, que tu es de la famille des Sasanides et que Sâsân était pâtre et fils de pâtre et que ce n’est pas même Babek qui, le premier, lui avait confié un troupeau. »
 
 Khosrou lui dit :
 
