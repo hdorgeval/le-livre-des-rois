@@ -12,7 +12,7 @@ export const Layout: React.FunctionComponent = ({ children }) => (
     <div>{children}</div>
     <Footer>
       <Link className="nav-link text-light" to="/about" aria-label="A propos">
-        A propos du livre des rois 2019-2021
+        A propos du livre des rois 2019-2022
       </Link>
     </Footer>
   </div>
