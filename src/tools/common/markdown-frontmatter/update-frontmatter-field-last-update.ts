@@ -27,7 +27,7 @@ export const updateFrontmatterFieldLastUpdate = async (rootDirectory: PathLike):
 export const updateFrontmatterFieldIn = async (markdownFile: PathLike): Promise<void> => {
   const lines = readAllLinesInFile(markdownFile);
   let hasBeenUpdated = false;
-  const todayDate = lastUpdateOf(markdownFile.toString());
+  const todayDate = new Date();
   const yearToday = todayDate.toLocaleDateString('en', { year: 'numeric' });
   const monthToday = todayDate.toLocaleDateString('en', { month: '2-digit' });
   const dayToday = todayDate.toLocaleDateString('en', { day: '2-digit' });
