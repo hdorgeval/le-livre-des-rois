@@ -90,7 +90,8 @@ Houman répondit d’une voix terrible :
 > Qui sont donc vos héros et les chefs de votre armée ?
 >
 > Le roi, maître du monde a dit un mot dont il me souvient sur ce champ de bataille :
->
+
+> >
 > > Si tu es tenté de t’emparer du trône des rois, résiste à la tentation ; mais si tu persistes, alors ne détourne pas le visage de devant la flamme.
 >
 > Tu n’as pas envie de combattre ; mais on ne peut cueillir des roses sans rencontrer des épines.
