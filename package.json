@@ -33,9 +33,9 @@
     "ltex-check-sample": "ltex-ls-12.4.0/bin/ltex-ls  --input-documents=src/markdown/fr/12-kaous/017-kaous-demande-en-marriage-soudabeh.md --settings-file=ltex-settings.fr.json"
   },
   "dependencies": {
-    "@popperjs/core": "2.10.2",
+    "@popperjs/core": "2.11.0",
     "bootstrap": "5.1.3",
-    "bootstrap-icons": "1.6.0",
+    "bootstrap-icons": "1.7.2",
     "gatsby": "4.4.0",
     "gatsby-image": "3.11.0",
     "gatsby-plugin-google-analytics": "4.4.0",
