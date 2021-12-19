@@ -55,7 +55,7 @@ Ne te laisse pas aller à l’iniquité, ô mon frère, car l’injustice ne peu
 >
 > Maintenant que j’ai formé les rangs de mon armée et que l’air est devenu comme du brocart brodé d’or, il y aura tant de flèches, de javelots et de pointes de lances que Gau ne distinguera plus les étriers des rênes ; j’irai sur le champ de bataille faire tomber des têtes, je ferai pousser des cris de douleur à toute son armée, je mènerai mes troupes au combat de façon à décourager les plus vaillants léopards ; je vais emmener Gau, les mains liées ; ses armées verront la poussière de la défaite et aucun des prisonniers, jusqu’au prince, ne revêtira plus la cuirasse de combat. »
 
-Le messager intelligent écouta cette réponse et revint la rendre point pour point à Gau, qui à ces paroles, s’alIligea de voir que Thalhend était dépourvu de toute raison ; il appela, plein de soucis, son précepteur, lui parla longuement de cette réponse et lui dit :
+Le messager intelligent écouta cette réponse et revint la rendre point pour point à Gau, qui à ces paroles, s’affligea de voir que Thalhend était dépourvu de toute raison ; il appela, plein de soucis, son précepteur, lui parla longuement de cette réponse et lui dit :
 
 > Ô toi qui recherches tout savoir, indique-moi un moyen d’arranger cette affaire.
 >
@@ -88,7 +88,7 @@ Le visage inondé de larmes, à cause de la peine que lui faisait son frère, il
 
 > Va auprès de Thalhend et dis-lui :
 
-> Gau est plein de chagrin et de peine, son cœur est aflligé, son esprit attristé, son corps en angoisse, son âme en douleur de cette rotation du ciel et de cette lutte et il prie le Créateur, maître de la justice, qu’il fasse naître dans ton âme la raison et la tendresse, pour que tu renonces à combattre ton frère.
+> Gau est plein de chagrin et de peine, son cœur est affligé, son esprit attristé, son corps en angoisse, son âme en douleur de cette rotation du ciel et de cette lutte et il prie le Créateur, maître de la justice, qu’il fasse naître dans ton âme la raison et la tendresse, pour que tu renonces à combattre ton frère.
 >
 > Le précepteur qui est auprès de toi a perverti ton âme ténébreuse.
 >
