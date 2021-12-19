@@ -80,7 +80,7 @@ Houm lui répondit :
 >
 > un les oiseaux font entendre leurs voix, des accents plaintifs ont frappé mon oreille.
 >
-> A l’instant mon esprit lucide m’a donné l’idée que je pouvais arracher du monde la racine de tant de vengeances, parce que de telles plaintes, à l’heure du sommeil, ne pouvaient venir que d’Afrasiab.
+> À l’instant mon esprit lucide m’a donné l’idée que je pouvais arracher du monde la racine de tant de vengeances, parce que de telles plaintes, à l’heure du sommeil, ne pouvaient venir que d’Afrasiab.
 >
 > Je me suis levé, j’ai cherché dans toute la montagne et dans toutes les cavernes et j’ai fini par voir l’entrée de la retraite de l’homme qui se plaignait.
 >
