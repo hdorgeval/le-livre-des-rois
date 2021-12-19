@@ -29,7 +29,7 @@ maître du monde le vit, il le’reçut gracieusement et lui assigna une place p
 
 Il prit la coupe en portant la santé du roi des rois et dit :
 
-> Je suis un buveur de vin, mon nom est Kebrouïsn A l’instant, en face du roi des rois, il vida d’un seul trait cette coupe qui contenait cinq man de vin, puis il dit :
+> Je suis un buveur de vin, mon nom est Kebrouïsn À l’instant, en face du roi des rois, il vida d’un seul trait cette coupe qui contenait cinq man de vin, puis il dit :
 
 > Je viederai sept fois la coupe devant cette assemblée, puis je m’en retournerai tout sobre dans mon village et personne ne m’entendra pousser un cri d’ivrogne. »
 
