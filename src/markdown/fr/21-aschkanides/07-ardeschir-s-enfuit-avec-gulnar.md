@@ -53,7 +53,7 @@ Il avait choisi deux chevaux magnifiques,-qu’il avait placés dans l’écurie
 
 Lorsqu’il vit le visage de Gulnar, qu’il aperçut les pierreries rouges et les pièces d’or, il dit :
 
-> Maintenant il faut partir, il faut ne plus nous laisser aller à l’anxiété et j’espère que je me tirerai des griffes de ce dragon par le sort qui favorise la jeunesse. »
+> Maintenant, il faut partir, il faut ne plus nous laisser aller à l’anxiété et j’espère que je me tirerai des griffes de ce dragon par le sort qui favorise la jeunesse. »
 
 Il déposa à l’instant’la coupe, jeta la bride sur la tête des chevaux arabes, revêtit une cotte de mailles, monta à cheval, prit dans sa main une épée tranchante et fit asseoir sur l’autre cheval Gulnar au visage de lune.
 
