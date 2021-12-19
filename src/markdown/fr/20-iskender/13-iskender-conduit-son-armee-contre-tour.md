@@ -78,7 +78,9 @@ Four, ayant appris l’approche de cette armée, choisit un lieu propre aux comb
 Il réunit ses troupes sur une plaine que les éléphants faisaient ressembler à une montagne ; son armée formait une ligne de quatre milles, les éléphants étaient placés sur le front et les braves Quelques espions revinrent de l’Inde auprès d’hderrière eux.
 
 I .
-Icender, le roi du. monde ; ils lui dirent. 5 Il y a dans cette armée beaucoup d’éléphants qui rompront la ligne de tes cavaliers sur une étendue de deux milles ; les cavaliers n’oseront pas les attaquer et s’ils le font, ils ne reviendront pas, car les éléphants ont des trompes qu’ils élèvent jusqu’au ciel, l
+Icender, le roi du. monde ; ils lui dirent.
+
+Il y a dans cette armée beaucoup d’éléphants qui rompront la ligne de tes cavaliers sur une étendue de deux milles ; les cavaliers n’oseront pas les attaquer et s’ils le font, ils ne reviendront pas, car les éléphants ont des trompes qu’ils élèvent jusqu’au ciel, l
 
 -ne et Saturne, du haut de sa sphère, les protégea Ils dessinèrent des éléphants sur du papier et les firent passer sous les yeux d’Iskender.
 
