@@ -567,3 +567,5 @@ Adar
 Din
 Espendarmad
 Sapandarmad
+destour
+Zaboul
