@@ -17,7 +17,7 @@ order: '028'
 
 # Troisième combat de Khosrou avec Bahram Djoubineh -défaite de Bahram
 
-A l’instant l’armée se mit en marche, quitta la montagne et le monde devint noir par la poussière soulevée par les cavaliers.
+À l’instant l’armée se mit en marche, quitta la montagne et le monde devint noir par la poussière soulevée par les cavaliers.
 
 Bahram, de son côté, lança ses troupes et le jour fut privé de toute lumière.
 
@@ -31,7 +31,7 @@ Il s’avança témérairement en avant de son armée vers le roi, banda son arc
 
 Un serviteur du roi vit le coup, accourut et tira la flèche du brocart.
 
-A l’instant le roi s’élance sur Bahram Djoubineh, le malveillant et le frappa sur la ceinture avec sa lance.
+À l’instant le roi s’élance sur Bahram Djoubineh, le malveillant et le frappa sur la ceinture avec sa lance.
 
 La ceinture étant en mailles, la lance n’entame pas les anneaux ; c’est la pointe de la lance qui se brisa ; mais le cœur de l’homme égaré fut terrifié.
 
@@ -49,7 +49,7 @@ Bendouî s’approcha du roi et lui dit :
 
 Khosrou lui répondit :
 
-> Je n’en veux pas àceux qui renoncent à leurs iniquités, ils sont tous sous ma protection, ils sont les perles de ma couronne. »Cependant la nuit s’avança de la montagne sombre et les deux armées rentrèrent dans leur : camps.
+> Je n’en veux pas àceux qui renoncent à leurs iniquités, ils sont tous sous ma protection, ils sont les perles de ma couronne. »Cependant, la nuit s’avança de la montagne sombre et les deux armées rentrèrent dans leur : camps.
 
 On entendit le bruit des gardiens et des clochettes et personne dans les armées ne dormit beaucoup.
 
