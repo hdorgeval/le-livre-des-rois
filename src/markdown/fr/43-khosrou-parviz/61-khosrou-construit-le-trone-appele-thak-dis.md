@@ -53,7 +53,7 @@ Les grands gardèrent en secret beaucoup de fragments du trône et se les transm
 
 Cela dura ainsi jusqu’au commencement du règne d’Ardeschir et alors le nom même de ce trône était oublié.
 
-Cependant ce roi en retrouva des débris quelque part et il s’applique avec passion à en découvrir d’autres ; mais il mourut et laissa là ce trône.
+Cependant, ce roi en retrouva des débris quelque part et il s’applique avec passion à en découvrir d’autres ; mais il mourut et laissa là ce trône.
 
 Ceux qui jouirent après lui du pouvoir agirent de même et la chose en resta là jusqu’à ce que ce trône noble et digne de la royauté échût au roi Parviz.
 
@@ -79,7 +79,7 @@ Ce trône était posé de telle façon que son dos se trouvait tourné vers le d
 
 En hiver, quand venait le temps du vent et de la neige, personne ne souffrait sur ce trône, car tout le haut était entouré d’un rideau de fourrures de castor et de zibeline dignes d’un roi.
 
-Les valets de garde-robe faisaient chauffer au feu mille boules d’argent et d’or, dont chacune pesait cinq cents miskals et qui devenaient dans le feu cou-leur de corail.
+Les valets de garde-robe faisaient chauffer au feu mille boules d’argent et d’or, dont chacune pesait cinq cents miskals et qui devenaient dans le feu couleur de corail.
 
 Il y en avait toujours la moitié sur le feu et l’autre devant les héros qui levaient haut la tête.
 
@@ -110,4 +110,4 @@ Jamais il n’y a eu dans le monde une étoffe pareille ; telle avait été tiss
 Au nouvel au, le jour de Hormuzd du mois Ferwerdin, il se présenta devant le roi d’I-
 ran, apportant cette tapisserie digne d’un Keïanide ; les grands lui firent place et il étala cette étoffe au jour du nouvel an et la joie mit hors de lui le roi tout-puissant.
 
-On se réunit devant ce tissu, on appela des musiciens et,l’0n demanda du vin ; Serguisch chanta les louanges de l’artiste et adressa bien des félicitations au roi des rois ; les grands répandirent des pierreries sur Khosrou en célébrant la grandeur de sa puissance.
+On se réunit devant ce tissu, on appela des musiciens et,l’On demanda du vin ; Serguisch chanta les louanges de l’artiste et adressa bien des félicitations au roi des rois ; les grands répandirent des pierreries sur Khosrou en célébrant la grandeur de sa puissance.
