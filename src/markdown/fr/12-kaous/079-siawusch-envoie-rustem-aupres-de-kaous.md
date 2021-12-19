@@ -19,7 +19,7 @@ order: '079'
 
 Siawusch s’assit sur le trône d’ivoire et suspendit sa couronne au-dessous du trône.
 
-Il tint conseil sur le choix d’un brave de l’armée, au doux langage et bon cavalier, qui pût donner à ses paroles de la cou-leur et du parfum et dont l’humeur de Kaous s’accommodât.
+Il tint conseil sur le choix d’un brave de l’armée, au doux langage et bon cavalier, qui pût donner à ses paroles de la couleur et du parfum et dont l’humeur de Kaous s’accommodât.
 
 Rustem lui dit :
 
