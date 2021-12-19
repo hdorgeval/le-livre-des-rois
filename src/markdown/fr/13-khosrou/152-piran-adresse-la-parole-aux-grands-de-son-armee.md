@@ -35,7 +35,7 @@ Quand Piran vit que toute son armée ressemblaità un troupeau ravagé par un lo
 >
 > Mais pensez que c’est la même armée qui a déjà plié devant nous dans la bataille et qui depuis a repris courage pour nous attaquer.
 >
-> Maintenant il faut que quiconque tient à son pays et à ses enfants, à sa maison et à son serment de fidélité, prenne les armes et s’avance au combat contre les Iraniens.
+> Maintenant, il faut que quiconque tient à son pays et à ses enfants, à sa maison et à son serment de fidélité, prenne les armes et s’avance au combat contre les Iraniens.
 >
 > Gouderz et moi sommes convenus de faire un choix parmi les chefs de nos troupes et de les mettre en présence, pendant que les deux armées cessent les hostilités.
 >
@@ -59,7 +59,7 @@ Ils dirent et se levèrent pour partir et se préparer au combat :
 >
 > À l’aube du jour les clairons et les trompettes résonnèrent sous la porte de l’enceinte des tentes de Piran ; tous les grands montèrent à chevalà la première lueur du jour et suspendirent leur arc à leur bras ; tu aurais dit que les sabots de leurs chevaux couvraient la terre d’un voile de fer.
 >
-> Le Sipehdar dit alors à Lehhak et à F erschidwerd :
+> Le Sipehdar dit alors à Lehhak et à Ferschidwerd :
 
 > Ô hommes illustres, il faut que vous commandiez l’armée du M9 Touran sur ce champ de bataille.
 >
