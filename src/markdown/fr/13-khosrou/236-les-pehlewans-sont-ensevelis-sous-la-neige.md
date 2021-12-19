@@ -55,7 +55,7 @@ Les vaillants héros Thous,-I Bijen, Feribourz et Guiv ne surent comment se pré
 
 Pendant quelque temps ils piétinèrent ; sous la neige et for--mèrent un trou escarpé de tous côtés ; mais leurs forces s’épuisèrent et à la tin la vie, les quitta.
 
-Cependant Rustem resta dans la montagne avec Zal, Gouderz et quelques cavaliers ; ils y passèrent trois jours en pleurant ; le quatrième, lorsque le soleil qui éclaire le monde se leva, ils dirent :
+Cependant, Rustem resta dans la montagne avec Zal, Gouderz et quelques cavaliers ; ils y passèrent trois jours en pleurant ; le quatrième, lorsque le soleil qui éclaire le monde se leva, ils dirent :
 
 > Cette affaire est bien longue ; voici déjà quelque temps que nous restons dans ces montagnes et ces rochers.
 >
