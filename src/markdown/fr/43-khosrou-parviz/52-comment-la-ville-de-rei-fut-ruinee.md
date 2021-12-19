@@ -101,7 +101,7 @@ Les grands allèrent dans les jardins pour se livrer aux jeux, les brebis et les
 
 Lorsque Khosrou vit les portes des jardins ouvertes, qu’il vit toutes les fontaines des jardins couvertes de ramiers, il fit sonner les clairons et apporter des tasses avec des herbes odorantes ; on s’assit, on but du vin sur l’herbe verte, on se livra à de gais discours.
 
-Cependant Gordieh amena un petit chat, habillé de façon qu’on ne pouvait le distinguer d’un enfant, assis sur un cheval à bride d’or ornée de pierreries de toute espèce ; des boucles d’oreilles pendaient des oreilles du chat et ses griffes étaient peintes couleur de tulipe, ses yeux étaient comme de la poix, son minois comme le printemps, ses yeux ivres comme s’il avait bu du vin ; une housse dlor flottait sur le dos du cheval et c’est ainsi que Gordieh lança le chat à travers le jardin comme un enfant.
+Cependant, Gordieh amena un petit chat, habillé de façon qu’on ne pouvait le distinguer d’un enfant, assis sur un cheval à bride d’or ornée de pierreries de toute espèce ; des boucles d’oreilles pendaient des oreilles du chat et ses griffes étaient peintes couleur de tulipe, ses yeux étaient comme de la poix, son minois comme le printemps, ses yeux ivres comme s’il avait bu du vin ; une housse dlor flottait sur le dos du cheval et c’est ainsi que Gordieh lança le chat à travers le jardin comme un enfant.
 
 Le roi de l’Iran se mit à rire à gorge déployée et ce rire gagna tous les grands.
 
