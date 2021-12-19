@@ -109,7 +109,7 @@ Le roi quitta sa station et mit en marche son armée, tout étonné de cette aff
 
 Après qu’il eut fait deux marches, il survint un ouragan et la neige combla les vallées jusqu’à la crête des montagnes.
 
-Un grand nombre de serviteurs du roi périrent dans cette journée par le froid et la neige ; il parcourut deux stations avec ce grand froid, puis il arriva dans un pays brûlant, d’où il s’éleva une grande fumée et un nuage noir ; on aurait dit que l’armée traversait du feu ; les cottes de mailles brûlaient les épaules des Perses, la terre s’enflammait sous les sabots des chevaux et cela continua jusqu’à ce qu’il eût. atteint une ville où il trouva des hommes noirs comme la nuit, aux yeux chassieux, à la bouche baveuse ; leur salive et leur chassie étaient cou-leur de suie et de jais, leurs yeux couleur de sang et des flammes sortaient de leurs bouches.
+Un grand nombre de serviteurs du roi périrent dans cette journée par le froid et la neige ; il parcourut deux stations avec ce grand froid, puis il arriva dans un pays brûlant, d’où il s’éleva une grande fumée et un nuage noir ; on aurait dit que l’armée traversait du feu ; les cottes de mailles brûlaient les épaules des Perses, la terre s’enflammait sous les sabots des chevaux et cela continua jusqu’à ce qu’il eût. atteint une ville où il trouva des hommes noirs comme la nuit, aux yeux chassieux, à la bouche baveuse ; leur salive et leur chassie étaient couleur de suie et de jais, leurs yeux couleur de sang et des flammes sortaient de leurs bouches.
 
 Ils amenèrent alu-devant du roi beaucoup d’éléphants et un cortège immense d’un vilain aspect et dirent :
 
