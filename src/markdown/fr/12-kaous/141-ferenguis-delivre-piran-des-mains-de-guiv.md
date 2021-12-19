@@ -17,7 +17,7 @@ order: '141'
 
 # Ferenguis délivre Piran des mains de Guiv
 
-Cependant Guiv regardait Keï Khosrou, attendant les ordres que le vaillant roi lui donnerait.
+Cependant, Guiv regardait Keï Khosrou, attendant les ordres que le vaillant roi lui donnerait.
 
 Il observait Ferenguis, dont les yeux étaient remplis de kat au larmes et la bouche pleine de malédictions contre Afrasiab et qui lui dit :
 
