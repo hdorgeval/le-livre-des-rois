@@ -64,7 +64,7 @@ de bonheur.
 
 Lorsque lesoleileutlevé la tête au-dessus de la crête des montagnes, la foule des nobles et des grands de l’Iran se prépara à aller à la rencontre de Bahram et elle forma une assemblée pleine de sa-’ gesse.
 
-Cependant on avait placé pour Bahram un
+Cependant, on avait placé pour Bahram un
 ’ trône d’ivoire ; il mit sur sa tête la couronnemagnitique et ordonna la réception selon le cérémonial impérial, car il était le maître du monde.
 
 Mondhir se plaça d’un côté de lui et de l’autre Noman, une épée à la main et tout autout de l’enceinte des tentes royales il n’y avait sur pied que les chefs des Arabes.
