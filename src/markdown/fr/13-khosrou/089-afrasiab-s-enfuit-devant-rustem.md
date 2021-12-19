@@ -51,7 +51,7 @@ Le roi fit ce que lui conseillait Piran, car il voyait que dans ce combat sa mai
 
 Il laissa donc en place son drapeau et partit lui-même, se dirigeant en toute hâte vers la Chine et le Madjin.
 
-Cependant les deux armées s’avancèrent l’une contre l’autre ;
+Cependant, les deux armées s’avancèrent l’une contre l’autre ;
 
 Le monde ressemblait à un nuage noir.
 
