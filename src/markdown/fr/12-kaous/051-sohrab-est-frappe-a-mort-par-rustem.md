@@ -108,7 +108,7 @@ Kaous fit sonner du clairon et battre les timbales et Thous, le chef de l’arm�
 
 Le roi dit à ses braves :
 
-> Envoyez en toute hâte un dromadaire de course sur le lieu du combat, pour que nous sachions cc qu’a fait Sohrab ; car il faudrait pleurer sur le pays Il. i3
+> Envoyez en toute hâte un dromadaire de course sur le lieu du combat, pour que nous sachions ce qu’a fait Sohrab ; car il faudrait pleurer sur le pays Il. i3
 
 L3 d’Iran, si cette nouvelle était vraie.
 
