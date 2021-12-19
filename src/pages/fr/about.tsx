@@ -13,7 +13,32 @@ export default () => (
       <Title text="A propos du Livre des Rois" subtitle="" />
       <div className="container text-light">
         <p>
-          L&apos; objectif est de transcrire l&apos;oeuvre de{' '}
+          Ce livre est le passé mythique et historique de l&apos;empire Perse depuis la création du
+          monde jusqu&apos;à la conquête par les Musulmans au 17ème siècle.
+        </p>
+        <p>
+          Il a fallu plus de 30 ans et près de 120 000 vers au poète Perse{' '}
+          <a
+            className="text-light"
+            href="https://fr.wikipedia.org/wiki/Ferdowsi"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Firdousi
+          </a>{' '}
+          pour écrire le livre des rois.
+        </p>
+        <p>
+          Ce site web est le résultat d&apos;un{' '}
+          <a
+            className="text-light"
+            href="https://github.com/hdorgeval/le-livre-des-rois/releases"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            travail en amont
+          </a>{' '}
+          qui consiste à transcrire l&apos;oeuvre de{' '}
           <a
             className="text-light"
             href="https://fr.wikipedia.org/wiki/Ferdowsi"
