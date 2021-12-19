@@ -63,7 +63,7 @@ Le jour de demain sera un grand jour, où l’on verra à la fin qui est loup et
 
 Je jure par le nom du Créateur, du maître unique, de ne pas laisser en vie un seul de mes ennemis.
 
-Maintenant il faut préparer des tables ce et du vin et dissiper avec les coupes les soucis du cœur. »
+Maintenant, il faut préparer des tables ce et du vin et dissiper avec les coupes les soucis du cœur. »
 
 Rustem de son côté, inspecta son armée et s’entretint avec Guiv, en disant :
 
@@ -83,7 +83,7 @@ Un grand nombre de nos braves ont été tués ; aucun de nous ne vaut
 
 KEl nous " Sohrab, il n’y a que toi qui sois de la même étoffe que lui.
 
-Cependant nous avons observé la coutume de nos ancêtres et nous n’avons pas lancé toute une troupe contre ce jeune homme imberbe ; et personne ne voulant le combattre corps à corps, nous lui avons laissé le champ de bataille.
+Cependant, nous avons observé la coutume de nos ancêtres et nous n’avons pas lancé toute une troupe contre ce jeune homme imberbe ; et personne ne voulant le combattre corps à corps, nous lui avons laissé le champ de bataille.
 
 Aucun cavalier ne se présentant pour le combat singulier, il a parcouru notre ligne du centre jusqu’à l’aile droite.
 
