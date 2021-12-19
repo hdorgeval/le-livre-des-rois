@@ -57,7 +57,7 @@ Ardewan demanda à son Destour :
 > Si ce bélier l’accompagne, ne te hâte pas, car alors ce sera une affaire qui nous mènera loin. »
 
 Ardewan descendit dans cet endroit, prit de la nourriture, se reposa et recommença sa course ; c’est ainsi qu’ils poursuivirent Ardeschir, le roi et son vizir en tête de l’escorte. -
-Cependant les deux jeunes gens, continuèrent à courir comme le vent sans s’arrêter un instant.
+Cependant, les deux jeunes gens, continuèrent à courir comme le vent sans s’arrêter un instant.
 
 Celui qui a pour ami le ciel sublime ne souffre aucun mal de son ennemi.
 
