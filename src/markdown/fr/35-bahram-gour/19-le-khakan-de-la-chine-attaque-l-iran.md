@@ -47,7 +47,7 @@ Tout l’Iran tremblait de le. voir occupé comme il semblait ’être et les c�
 
 Tous désespéraient de ce roi et le méprisaient, lui et son gouvernement.
 
-Cependant Bahram eut nouvelle qu’une armée était entrée de la Chine dans l’Iran ; il appela Gustehem et lui parla longuement du Khakan de la Chine.
+Cependant, Bahram eut nouvelle qu’une armée était entrée de la Chine dans l’Iran ; il appela Gustehem et lui parla longuement du Khakan de la Chine.
 
 Gustehem était son Pelhlewan et son Destour ; le combat était une fête pour lui.
 
