@@ -56,7 +56,7 @@ Schenguil sourit et dit :
 
 À ces paroles, Bahram se leva, il ploya bravement la taille droite de :
 
-> lutteraa et en ayant saisi un au milieu du corps, comme un lion qui saisit un onagre sauvage, il le jeta sur le sol de manière à lui briser les os et à faire passer la cou-leur de ses joues.
+> lutteraa et en ayant saisi un au milieu du corps, comme un lion qui saisit un onagre sauvage, il le jeta sur le sol de manière à lui briser les os et à faire passer la couleur de ses joues.
 
 Schenguil resta confondu de cette haute taille, de cette force et de ces épaules ; il invaqua en langue hindoue le nom de Dieu et jugea que Bahram valait plus que quarante hommes.
 
