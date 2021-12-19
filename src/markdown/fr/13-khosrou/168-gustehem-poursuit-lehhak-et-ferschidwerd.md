@@ -21,7 +21,7 @@ Gustehem revêtit sa cuirasse de combat et prit congé de tous les héros qu’i
 
 Pendant ce temps une armée envoyée par Afrasiab s’était avancée comme une barque sur l’eau, elle marchait bravement au secours de Piran ; mais arrivée dans le désert de Dagbouï, elle apprit qu’il était mort et de quelle manière s’était terminé le combat des braves ; elle s’en retourna tout entière et arriva devant Afrasiab en poussant des cris de douleur.
 
-Cependant Bijen apprenant que Gustehem était parti pour aller combattre Lehhak, pensa aux dangers qui l’attendaient dans le désert de Daghouï ; il pensa qu’il ne fallait pas permettre à Lehhak et à Ferschidwerd de le réduire en poudre au jour du combat ; il monta sur un cheval ardent à la course et se dirigea vers Gouderz.
+Cependant, Bijen apprenant que Gustehem était parti pour aller combattre Lehhak, pensa aux dangers qui l’attendaient dans le désert de Daghouï ; il pensa qu’il ne fallait pas permettre à Lehhak et à Ferschidwerd de le réduire en poudre au jour du combat ; il monta sur un cheval ardent à la course et se dirigea vers Gouderz.
 
 Aussitôt qu’il aperçut son grand-père, il lui adressa la parole à haute voix, â disant :
 
