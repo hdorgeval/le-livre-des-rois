@@ -57,7 +57,7 @@ Il dira :
 
 > Quel est ce secret ?
 >
-> Dis-le-moi!
+> Dis-le-moi !
 >
 > Tu te hâteras de t’approcher de Bahram, tu le frapperas du couteau, tu lui déchireras le nombril, puis tu t’élanceras pour trouver un moyen de sortir.
 >
@@ -75,7 +75,9 @@ Kaloun dit à cet homme savant :
 
 Quand Kharrad eut entendu ces paroles, il quitta sa maison en courant et se présenta à la Khatoun, disant :
 
-> Le temps de te faire une demande est arrivé et je vais te l’expliquer, ô femme de bonne nature ! Ma famille est dans les chaînes de l’autre côté du fleuve, je désire que tu délies mes pieds.
+> Le temps de te faire une demande est arrivé et je vais te l’expliquer, ô femme de bonne nature !
+>
+> Ma famille est dans les chaînes de l’autre côté du fleuve, je désire que tu délies mes pieds.
 >
 > Procure-moi du Khakan une impression de son sceau et sache que tu me rendras la vie. »
 
