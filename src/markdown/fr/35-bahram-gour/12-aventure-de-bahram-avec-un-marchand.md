@@ -65,7 +65,7 @@ L’apprenti répondit :
 >
 > Sois aujourd’hui mon hôte, toi et ce cavalier et ne me parle plus de cette poule. »
 
-Cependant Bahram s’était réveillé de son doux sommeil ; il alla auprès MES, de son destrier ardent, qu’il voulait seller pour se rendreà son palais et y élever son diadème jusqu’à Saturne.
+Cependant, Bahram s’était réveillé de son doux sommeil ; il alla auprès MES, de son destrier ardent, qu’il voulait seller pour se rendreà son palais et y élever son diadème jusqu’à Saturne.
 
 Quand l’apprenti vit Bahram. il lui dit :
 
