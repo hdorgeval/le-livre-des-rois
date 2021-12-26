@@ -17,7 +17,7 @@ order: '059'
 
 # Les grands donnent un conseil à Khosrou
 
-Lorsque la nouvelle se répandit parmi les grands et dans le peuple que Schirin était dans le palais de Khosrou et que cette ancienne affaire s’était renouée, toute la ville en fut’atIligée, tous étaient pleins de soupçons, de chagrins et de malédictions.
+Lorsque la nouvelle se répandit parmi les grands et dans le peuple que Schirin était dans le palais de Khosrou et que cette ancienne affaire s’était renouée, toute la ville en fut’affligée, tous étaient pleins de soupçons, de chagrins et de malédictions.
 
 Pendant trois jours personne ne se présenta chez Khosrou ; le quatrième, lorsque l’astre qui illumine le monde commença à briller, le roi envoya pour appeler les grands et les fit asseoir à la place qui appartient aux hommes de haut rang.
 
@@ -29,11 +29,13 @@ Il parla ainsi, mais personne ne répondit ; ils fermèrent tous la bouche et vo
 
 Le Mobed, voyant cela, se leva et dit à Khosrou :
 
-> Ô homme noble et plein de droiturel tu es devenu roi dans les jours de ta jeunesse, tu as éprouvé de la part du sort bien du bonheur et du malheur, 2&5 tu as entendu parler du bien et du mal que les grands et les puissants ont fait dans le monde ; mais maintenant la race des rois est souillée et sa grandeur va l’abandonner ; sache que, quand il y a un père pur, mais une mère sans vertu, il ne peut pas en venir un fils pur.
+> Ô homme noble et plein de droiture !
+>
+> Tu es devenu roi dans les jours de ta jeunesse, tu as éprouvé de la part du sort bien du bonheur et du malheur, 2&5 tu as entendu parler du bien et du mal que les grands et les puissants ont fait dans le monde ; mais maintenant la race des rois est souillée et sa grandeur va l’abandonner ; sache que, quand il y a un père pur, mais une mère sans vertu, il ne peut pas en venir un fils pur.
 >
 > Personne ne cherche de la droiture dans un pervers, car le pervers écarte sa marche de ce qui est droit.
 >
-> Nos cœurs sont afiligés par l’œuvre du Div atroce qui est devenu le compagnon du Grand ’roi.
+> Nos cœurs sont affligés par l’œuvre du Div atroce qui est devenu le compagnon du Grand ’roi.
 >
 > N’y a-t-il donc pas une autre femme dans l’Iran qui aurait pu plaire au roi ?
 >
@@ -74,7 +76,7 @@ Khosrou jeta les yeux sur les personnages présents et toute l’assemblée fut 
 Ensuite, il dit aux Iraniens :
 
 > Qu’est.-
-ce que ce sang et pourquoi l’a-t-on placé devant moi ? »
+> ce que ce sang et pourquoi l’a-t-on placé devant moi ? »
 
 Le Mobed lui dit :
 
@@ -97,14 +99,12 @@ Le Mobed répondit :
 
 Khosrou dit alors :
 
-> Schirin était pour la ville ce qu’était cette tasse dégoûtante et pleine de poison ; maintenant elle
->
-> KHOSBOI ! 7 est devenue, dans l’appartement de mes femmes, une coupe de vin ; c’est ainsi que mon parfum l’a rendue parfumée.
+> Schirin était pour la ville ce qu’était cette tasse dégoûtante et pleine de poison ; maintenant elle est devenue, dans l’appartement de mes femmes, une coupe de vin ; c’est ainsi que mon parfum l’a rendue parfumée.
 >
 > C’est par moi que Schirin a acquis d’abord un mauvais renom, mais elle n’a jamais demandé les faveurs des riches. »
 
 Tous les grands rendirent hommage au roi, disant :
 
-> Que la terre ne soit jamais privée de,ta couronne et de ton trône !
+> Que la terre ne soit jamais privée de ta couronne et de ton trône !
 >
 > Celui que tu rends bon répandra en profusion ce qui est bon et grand dans le monde est celui que tu grandis ; car tu es roi et Mobed et noble, tu es l’ombre de Dieu sur la terre. »
