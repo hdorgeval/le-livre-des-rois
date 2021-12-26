@@ -27,7 +27,7 @@ Ardeschir s’écria du haut des murs :
 >
 > J’ai donné au ver de l’étain fondu et la puissance et l’impétuosité de Heftvvad sont brisées. »
 
-Toute l’armée entendit les paroles du roi ; les Iraniens se couvrirent la tête de leurs casques de fer, reprirent courage et s’apprêtèrent à tirer vengeance de leurs matis ; le vent souillait vers l’armée du ver et bientôt Heftwad fut pris avec Schahouï, le fanfaron, son fils aîné et le chef de son armée.
+Toute l’armée entendit les paroles du roi ; les Iraniens se couvrirent la tête de leurs casques de fer, reprirent courage et s’apprêtèrent à tirer vengeance de leurs matis ; le vent soufflait vers l’armée du ver et bientôt Heftwad fut pris avec Schahouï, le fanfaron, son fils aîné et le chef de son armée.
 
 Ardeschir descendit du château en courant ; Schehriguir s’avança vers lui à pied, on amena un destrier avec des harnais d’or et le roi glorieux monta dessus.
 
@@ -37,7 +37,7 @@ Schehriguir : sortit du centre de l’armée et tua les deux hommes par une plui
 
 Ardeschir livra au pillage tout ce que Hsfiwad avait eu de précieux et ses troupes s’en enrichirent ; des serviteurs descendirent de toutes les parties du château tout ce qui s’y trouvait et il fit porter à KharrehiLArdeschir ce qui lui plaisait parmi les objets de haut prix.
 
-Il éleva un temple du feu dans ce pays et y fit célébrer les fêtes de Mihrigan et de sedeh ; il donna des provinces, des trôneset descouronnes à ses deux hôtes fortunés,puis il partit victorieux et’heuneux et répandit ses grâces sur le pays de Fars.
+Il éleva un temple du feu dans ce pays et y fit célébrer les fêtes de Mihrigan et de sedeh ; il donna des provinces, des trônes et des couronnes à ses deux hôtes fortunés,puis il partit victorieux et’heuneux et répandit ses grâces sur le pays de Fars.
 
 Lorsque les hommes et les chevaux furent reposés, il marcha vers Schehrizour et envoya des troupes, sous un homme digne d’une couronne et’d’un trône, dans le Kirman ; de là il se rendit à Thisifoun (Ctésiphon), après avoir abaissé la tête de la fortune de ses ennemis.
 
