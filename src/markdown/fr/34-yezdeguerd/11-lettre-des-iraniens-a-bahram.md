@@ -43,7 +43,7 @@ Il devait lui dire :
 >
 > Réfléchis si cela te convient et paraît avantageux à ta vieille sagesse.
 >
-> Il y a encore un autre maître que toi, au--5 quel ne peut atteindre la pensée des esprits les plus grands.
+> Il y a encore un autre maître que toi, auquel ne peut atteindre la pensée des esprits les plus grands.
 >
 > Le messager te dira tout ce qu’il a vu et ce qu’il a entendu des hommes expérimentés. »
 
@@ -96,7 +96,7 @@ Ayant écouté le message, il se mit à écrire la réponse à la lettre et dit 
 
 Djouanouï, qui avait vu le visage du roi des rois, quilui avait longtemps parlé et lui avait fait des questions pour voir s’il était digne du trône, du pouvoir, de la victoire et de la fortune, conçut une idée lumineuse en entendant les paroles de Mondhir et lui répondit :
 
-> 0, homme qui portes haut la 7 tête !
+> 0, homme qui porte haut la tête !
 >
 > Tu n’as besoin de la sagesse de personne.
 >
