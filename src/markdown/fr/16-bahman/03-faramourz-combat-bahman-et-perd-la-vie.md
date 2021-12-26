@@ -1,7 +1,7 @@
 ---
 lastUpdate: '2021-09-07'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 006
@@ -9,7 +9,18 @@ reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
 episode-slug: 'faramourz-combat-bahman-et-perd-la-vie'
 title: 'Faramourz combat Bahman et perd la vie | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'Ardeschir',
+    'Bahman',
+    'Bost',
+    'Faramourz',
+    'Kaboul',
+    'Keïanide',
+    'Rustem',
+    'résurrection',
+    'Zaboulistan',
+  ]
 order: '003'
 ---
 
@@ -39,7 +50,7 @@ Il savait que ce jour était le jour de sa perte, que son temps était venu, que
 
 Il dit :
 
-> Je me suis jeté dans la gueule du dragon, je ne sortirai pas vivant de ce lieu, mais je vais acquérir ici, par ma massue et mon épée tranchante, un nom qui durera jusqu’à la résurrection. »
+> Je me suis jeté dans la gueule du dragon, je ne sortirai pas vivant de ce lieu, mais je vais acquérir ici, par ma massue et mon épée tranchante, un nom qui durera jusqu’à la résurrection.
 
 Il s’élance sur le centre de l’armée, de manière à pénétrer jusqu’auprès du roi ; il abattit quelques-uns des chefs, des braves, tous des hommes illustres et des champions de l’armée.
 
