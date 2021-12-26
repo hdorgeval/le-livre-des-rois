@@ -19,7 +19,7 @@ order: '003'
 
 Bahram apprit quel sort avait frappé le roi, qu’on avait brûlé ses yeux brillants et que ces flambeaux qui ressemblaient à deux narcisses dans un jardin étaient éteints, que son fils était monté sur le trône et que la fortune du père était abaissée.
 
-Le vaillant 7 Bahram en fut confondu ; il pâlit et se livra à ses pensées.
+Le vaillant Bahram en fut confondu ; il pâlit et se livra à ses pensées.
 
 Il fit porter dehors les timbales, il donna l’ordre de porter dans la plaine le drapeau du pouvoir ; il fit préparer les bagages, monter à cheval ses troupes, revêtit son armure pour combattre Khosrou et son armée, semblable à une montagne mouvante, s’avança jusqu’aux bords du Nahrewan, bravant le roi.
 
