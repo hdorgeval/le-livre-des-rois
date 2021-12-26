@@ -26,7 +26,7 @@ Bahram lui adressa les questions d’usage, le reçut gracieusement. le fit asse
 > Tu es resté longtemps ici, n’es-tu pas las de la vue de ce pays ?
 >
 > La lutte contre le Khakan m’a tenu loin de
-æ toi, elle s’est attachée à moi comme une compagne li inseymrable ; maintenant mes jours sont rajeunis, grâce à toi ; mais ton séjour s’est prolongé outre mesure ; je répondrai à tout ce que tu me diras, je tirerai de les paroles des conseils qui portent bonbeur. »
+> æ toi, elle s’est attachée à moi comme une compagne li inseymrable ; maintenant mes jours sont rajeunis, grâce à toi ; mais ton séjour s’est prolongé outre mesure ; je répondrai à tout ce que tu me diras, je tirerai de les paroles des conseils qui portent bonbeur. »
 
 Le vieillard prononça des bénédictions sur lui, disant :
 
@@ -110,13 +110,10 @@ Le sage messager du Kaïsar écouta cette réponse, baisa la terre et se déclar
 >
 > Plus que tu n’as.
 >
-> La terre entière est sous tes ordres, les têtes les plus fières te sont soumises ; tu es l’ob-
-I
->
-> BAI-" 7 jet de l’admiration des grands de naissance illustre et le monde n’a pas souvenir d’un roi tel que toi.
+> La terre entière est sous tes ordres, les têtes les plus fières te sont soumises ; tu es l’objet de l’admiration des grands de naissance illustre et le monde n’a pas souvenir d’un roi tel que toi.
 >
 > Ensuite ton Destour dépasse en savoir tous les Mobeds et tous les sages ; tous les philosophes sont ses esclaves et baissent la tête devant sa science. »
 
-Bahram ne put pas cacher le plaisir que -Iui faisaient ces paroles et il se sentit plus glorieux dans son âme.
+Bahram ne put pas cacher le plaisir que lui faisaient ces paroles et il se sentit plus glorieux dans son âme.
 
 Il donna au Mobed dix caisses de dirhems,des vêtements, des chevaux et beaucoup d’autres choses et l’envoyé du Kaïsar illustre s’en retourna de la cour du roi à son palais.
