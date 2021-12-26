@@ -1784,6 +1784,21 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/, 5 il /g, ', il '),
     (content: string) => content.replace(/\. 5 Il /g, '. Il '),
     (content: string) => content.replace(/A l’instant/g, 'À l’instant'),
+    (content: string) => content.replace(/ 7 m/g, ' m'),
+    (content: string) => content.replace(/ 7 e/g, ' e'),
+    (content: string) => content.replace(/ 7 t/g, ' t'),
+    (content: string) => content.replace(/ 7 j/g, ' j'),
+    (content: string) => content.replace(/ 7 B/g, ' B'),
+    (content: string) => content.replace(/ 7 j/g, ' j'),
+    (content: string) => content.replace(/le vent souillait /g, 'le vent soufflait '),
+    (content: string) => content.replace(/ de Best/g, ' de Bost'),
+    (content: string) => content.replace(/de llépée/g, "de l'épée"),
+    (content: string) => content.replace(/ fut’/g, ' fut '),
+    (content: string) => content.replace(/,des /g, ', des '),
+    (content: string) => content.replace(/ fau-cons /g, ' faucons '),
+    (content: string) => content.replace(/ quilui /g, ' qui lui '),
+    (content: string) => content.replace(/et.les /g, 'et les '),
+    (content: string) => content.replace(/ et’/g, ' et '),
   ].forEach((format) => {
     result = format(result);
   });
