@@ -131,7 +131,7 @@ Nous nous avancerons de ce pays cultivé, nous conduirons toutes nos troupes sur
 
 Mais ceux de nous qui seront vainqueurs dans la bataille et ne verseront pas du sang dans ce lieu resserré ; ils amèneront toute l’armée prisonnière, mais à Dieu et ne plaise qu’ils emploient les épées et les flèches !
 
-N Le messager partit, courant comme le vent et répéta à Thalhend toutes les paroles de son frère.
+Le messager partit, courant comme le vent et répéta à Thalhend toutes les paroles de son frère.
 
 Thalhend écouta le message de Gau, ordonna à tous les chefs de son armée de se réunir chez lui, les fit asseoir chacun à la place qui convenait à son rang, leur communiqua la réponse de Gau et dévoila devant eux tout le secret ; puis il parla à ses hommes de guerre de la nouvelle bataille que Gau voulait livrer au bord de l’eau, disant :
 
