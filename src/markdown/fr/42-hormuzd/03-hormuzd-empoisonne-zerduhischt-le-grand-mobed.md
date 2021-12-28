@@ -52,7 +52,7 @@ Il se désolait par pitié pour lzed Guschasp et ses joues jaunirent.
 
 Il ordonna à son cuisinier d’envoyer au prison-.nier de la nourriture, puis il monta sur un cheval arabe et se rendit auprès d’lzed Guschasp.
 
-Lorsque le gardien de la prison le vit, sa terreur fut si grande que toute couleur disparut de ses joues, mais il n’ose pas lui dire de ne pas entrer dans la prison, parce qu’il avait alliaire à un roi colère et nouveau.
+Lorsque le gardien de la prison le vit, sa terreur fut si grande que toute couleur disparut de ses joues, mais il n’ose pas lui dire de ne pas entrer dans la prison, parce qu’il avait affaire à un roi colère et nouveau.
 
 Le vieillard mit pied à terre en pleurant et entra dans la prison d’lzed Guschasp ; ils se serrèrent dans leurs bras, le cœur plein de douleur, les cils de leurs yeux semblables à un nuage de printemps et parlèrent du mauvais caractère du roi jusqu’à ce qu’ils n’eu’ssent plus rien à se dire.
 
