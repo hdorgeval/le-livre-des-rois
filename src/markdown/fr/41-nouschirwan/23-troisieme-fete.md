@@ -144,7 +144,7 @@ L’oreille de celui qui parle d’un ton doux sera rarement frappée par des pa
 
 Sache que c’est lalangue qui est la cause des peines des hommes et si tu ne veux pas qu’elle te fasse du mal, pèse tes paroles.
 
-La seule place qui convienne à un homme de peu de paroles et dévoué au roi est devant le trône ; il pleure les malheurs à venir, comme un oiseau ou une bête fauve pleure dans le piège ; ensuite il est fort contre ce qui est mal, il l’évite et suit entièrement les voies de la sagesse ; il ne s’occupe pas d’une alliaire dont il faut s’abstenir ; il ne s’afflige pas de ce qui ne mérite pas d’affliction ; il ne laisse pas passer le bonheur sans en jouir ; il se garde de compter les pas des jours futurs ; il évite ses ennemis avec plus de ruse qu’une bête fauve ; il tient à ses amis comme la plume à la flèche.
+La seule place qui convienne à un homme de peu de paroles et dévoué au roi est devant le trône ; il pleure les malheurs à venir, comme un oiseau ou une bête fauve pleure dans le piège ; ensuite il est fort contre ce qui est mal, il l’évite et suit entièrement les voies de la sagesse ; il ne s’occupe pas d’une affaire dont il faut s’abstenir ; il ne s’afflige pas de ce qui ne mérite pas d’affliction ; il ne laisse pas passer le bonheur sans en jouir ; il se garde de compter les pas des jours futurs ; il évite ses ennemis avec plus de ruse qu’une bête fauve ; il tient à ses amis comme la plume à la flèche.
 
 L’homme de sens a peu d’envie 2H) de plaisirs dont la fin doit être le chagrin.
 
