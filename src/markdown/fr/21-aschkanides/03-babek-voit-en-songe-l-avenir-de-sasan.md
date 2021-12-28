@@ -21,7 +21,7 @@ Lorsque Iskender désespéra de la vie, il exécuta avec les grands un plan qui 
 
 C’est la un des fruits excellents que produit un roi sage quand il en paraît un sur la terre.
 
-Lorsque Dara fut tué dans le combat et que le jour fut obscurci pour sa famille, il lui restait un fils fortuné, intelligent et’vaillant, du nom de Sasan.
+Lorsque Dara fut tué dans le combat et que le jour fut obscurci pour sa famille, il lui restait un fils fortuné, intelligent et vaillant, du nom de Sasan.
 
 Voyant son père mort de cette façon, voyant la fortune des Iraniens détruite, il s’enfuit devant l’armée des Houmis et ne se laissa pas prendre dans les lacets du malheur.
 2l8 Sasan mourut tristement dans l’Inde ; mais il laissa après lui un jeune fils, et, ainsi de suite, pendant quatre générations, les pères donnèrent à leurs fils le nom de Sasan.
