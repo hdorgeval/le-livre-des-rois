@@ -91,7 +91,7 @@ Il répondit :
 >
 > Contracte une grande amitié avec quelqu’un qui puisse t’aider dans un danger.
 >
-> Sois sileng-cieux dans les assemblées, si tu veux que tout le monde te loue ; quand tu parles, dis ce que tu as appris et ce que l’enseignement a imprimé dans ton âme.
+> Sois silencieux dans les assemblées, si tu veux que tout le monde te loue ; quand tu parles, dis ce que tu as appris et ce que l’enseignement a imprimé dans ton âme.
 >
 > Pèse tes paroles et ne pèse pas les pièces d’or de ton trésor, car un homme sage ne fait pas cas de trésors.
 >
