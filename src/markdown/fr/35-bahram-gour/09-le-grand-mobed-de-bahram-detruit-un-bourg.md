@@ -41,7 +41,7 @@ Puis, il confirma :
 >
 > Il vous nomme tous seigneurs, pour faire une ville de ce beau bourg.
 >
-> Ainsi tous ici, femmes et enfants, vous êtes des seigneurs, et n’avez plus à obéir à personne, il n’y a plus ni salarié ni maître et tous doivent se tenir peur égaux.
+> Ainsi tous ici, femmes et enfants, vous êtes des seigneurs et n’avez plus à obéir à personne, il n’y a plus ni salarié ni maître et tous doivent se tenir peur égaux.
 >
 > Vous tous, femmesr et enfants, êtes des seigneurs et tous et chacunde vous êtes maîtres du bourg. »
 
