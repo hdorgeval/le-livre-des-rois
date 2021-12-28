@@ -202,7 +202,7 @@ Kesra lui demanda :
 
 > Ô homme illustre et d’un bon caractère !
 >
-> Devient-on puissant par ses propres efforts ou par l’effet de la fortune qui livre aux rois le trône et’la couronne ? »
+> Devient-on puissant par ses propres efforts ou par l’effet de la fortune qui livre aux rois le trône et la couronne ? »
 
 Il répondit :
 
