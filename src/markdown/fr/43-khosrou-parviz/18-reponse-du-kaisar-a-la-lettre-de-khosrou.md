@@ -57,7 +57,7 @@ Le Kaisar envoya un messager et quatre d’entre les philosophes arrivèrent, le
 >
 > Qu’il te plaise main-S7 tenant de réfléchir sagement et de tenir pour du vent les paroles des Iraniens. »
 
-Ces discours firent changer d’idée au Kaisar et il envoya un cavalier auprès du roi, à qui il écrivit une lettre pour lui indiquer la voie à suivre, selon les avis donnés par les sages pleins de prévoyance qui avaient fait làdessus de si longs discours.
+Ces discours firent changer d’idée au Kaisar et il envoya un cavalier auprès du roi, à qui il écrivit une lettre pour lui indiquer la voie à suivre, selon les avis donnés par les sages pleins de prévoyance qui avaient fait là-dessus de si longs discours.
 
 Lorsque le cavalier arriva près de Khosrou, il lui dit tout ce qu’il avait entendu de la bouche de son maître illustre, [lui remit la lettre du Kaisar et lui. en parla très-longuement.
 
@@ -71,7 +71,7 @@ Réfléchis donc maintenant s’il y a un seul vieillard qui se rappelle si mes 
 
 Nous avions conquis ce pays et nous l’avons quitté ; et vous, puissiez-vous ne jamais avoir envie du pays d’Iranl Demande donc à ces sages du Roum si c’est le corbeau qui a été en faute ou le hibou.
 
-Quand il y a eu à Roum un homme qui levait haut la tête, le Créateur ne l’a jamais laissé dans le besoin et mes ancêtres étaient des hommes illustres et toutspuissants dans le monde, qui jamais ce n’ont supporté de personne l’orgueil, la supériorité,
+Quand il y a eu à Roum un homme qui levait haut la tête, le Créateur ne l’a jamais laissé dans le besoin et mes ancêtres étaient des hommes illustres et touts-puissants dans le monde, qui jamais ce n’ont supporté de personne l’orgueil, la supériorité,
 
 La violence et la déraison.
 
