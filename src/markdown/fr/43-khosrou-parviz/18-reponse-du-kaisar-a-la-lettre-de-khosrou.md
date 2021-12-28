@@ -57,7 +57,7 @@ Le Kaisar envoya un messager et quatre d’entre les philosophes arrivèrent, le
 >
 > Qu’il te plaise main-S7 tenant de réfléchir sagement et de tenir pour du vent les paroles des Iraniens. »
 
-Ces discours firent changer d’idée au Kaisar, et il envoya un cavalier auprès du roi, à qui il écrivit une lettre pour lui indiquer la voie à suivre, selon les avis donnés par les sages pleins de prévoyance qui avaient fait làdessus de si longs discours.
+Ces discours firent changer d’idée au Kaisar et il envoya un cavalier auprès du roi, à qui il écrivit une lettre pour lui indiquer la voie à suivre, selon les avis donnés par les sages pleins de prévoyance qui avaient fait làdessus de si longs discours.
 
 Lorsque le cavalier arriva près de Khosrou, il lui dit tout ce qu’il avait entendu de la bouche de son maître illustre, [lui remit la lettre du Kaisar et lui. en parla très-longuement.
 
