@@ -43,7 +43,7 @@ Je tenais mes deux yeux fixés sur la route, disant en moi-même :
 >
 > Il n’a pas eu pitié de ton beau visage, de ta haute stature, de tes cheveux ; il n’a pas eu pitié de ce nombril qu’il a déchiré avec son épée.
 >
-> Je t’ai élevé tendrement, te pressant sur mon sein pendant les jours et.les longues nuits et maintenant tu es noyé dans le sang et un linceul est le vêtement de les bras et de ta poitrine.
+> Je t’ai élevé tendrement, te pressant sur mon sein pendant les jours et les longues nuits et maintenant tu es noyé dans le sang et un linceul est le vêtement de les bras et de ta poitrine.
 >
 > Qui pourrai-je maintenant serrer dans mes bras ?
 >
