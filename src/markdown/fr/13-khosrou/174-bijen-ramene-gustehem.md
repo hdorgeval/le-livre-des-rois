@@ -45,7 +45,7 @@ Le roi était désolé de perdre un Sipehbed dont la tête couverte du casque é
 
 Or il possédait une pierre qui était l’espoir des blessés ; il l’avait reçue en héritage de ses prédécesseurs Houscheng, Thamouras et Djemschid et la portait sur son bras toute l’année et tout le mois.
 
-Désirant de tout son cœur sauver Gustehem, il détacha ce pré-cieux joyau de son bras droit, le lia sur le bras de Gustehem et frotta de la main ses blessures.
+Désirant de tout son cœur sauver Gustehem, il détacha ce précieux joyau de son bras droit, le lia sur le bras de Gustehem et frotta de la main ses blessures.
 
 Il avait des médecins du Roum, de l’Inde et de la Chine, de l’Iran et du Touran, qu’il menait toujours avec lui partout où il allait et qu’il entretenait pour des cas semblables ; il les fit asseoir au chevet de Gustehem et répéta sur lui toutes sortes d’incantations.
 
