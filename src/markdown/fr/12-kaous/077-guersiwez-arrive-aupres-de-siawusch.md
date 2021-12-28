@@ -53,7 +53,7 @@ Guersiwez ayant entendu ces paroles, toucha de son front et de ses cheveux le tr
 
 On lui prépara une demeure ornée de brocarts et l’on appela les cuisiniers.
 
-Siawusch et Rustem au corps d’éléphant s’éloi-2l5 gnèrent de la foule ; ces deux héros pleins de prudence s’assirent et discutèrent sur toute chose grande et petite ; Rustem eut des soupçons sur cette alliaire et sur cette arrivée subite de Guersiwez.
+Siawusch et Rustem au corps d’éléphant s’éloi-2l5 gnèrent de la foule ; ces deux héros pleins de prudence s’assirent et discutèrent sur toute chose grande et petite ; Rustem eut des soupçons sur cette affaire et sur cette arrivée subite de Guersiwez.
 
 Ils envoyèrent de tous côtés des éclaireurs et se préparèrent, comme il convient, à tout événement.
 
