@@ -229,7 +229,7 @@ Puissent le bonheur et le pouvoir rester tes compagnons la Kaous lui dit :
 >
 > Viens, célébrons aujourd’hui une fête joyeuse ; demain nous nous préparerons pour la guerre. »
 
-Kaous fit arranger pour la musique une salle digne d’un roi, et le palais devint comme un jardin printanier.
+Kaous fit arranger pour la musique une salle digne d’un roi et le palais devint comme un jardin printanier.
 
 On appela tous les grands et ils versèrent dans cette fête des joyaux sur la me du roi.
 
