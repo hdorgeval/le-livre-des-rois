@@ -1,7 +1,7 @@
 ---
 lastUpdate: '2021-09-07'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 009
@@ -9,7 +9,35 @@ reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
 episode-slug: 'bahman-rend-la-liberte-a-zal'
 title: "Bahman rend la liberté à Zal et s'en retourne dans l'Iran | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Bahman',
+    'Beschouten',
+    'Créateur',
+    'Destan',
+    'Destour',
+    'Dieu',
+    'Faramourz',
+    'Gardien',
+    'Guschtasp',
+    'honte',
+    'Iran',
+    'Isfendiar',
+    'Kaboul',
+    'Keï',
+    'Keï-Kobad',
+    'Keïanides',
+    'Khosrou',
+    'Neriman',
+    'Nimrouz',
+    'Pehlewans',
+    'Père',
+    'Roudabeh',
+    'Rustem',
+    'Sam',
+    'Zaboulistan',
+    'Zal',
+  ]
 order: '004'
 ---
 
@@ -43,11 +71,11 @@ Il se mit debout devant le maître du monde, disant :
 >
 > Prends toute l’époque, depuis Keï-Kobad jusqu’au sage Keï Khosrou, c’est à son épée qu’ils ont dû leur puissance et tous l’ont tenu pour plus précieux que le monde entier.
 >
-> Fais tomber ses chaînes, si tu es homme de sens et détourne ton cœur de la voie du mal. »
+> Fais tomber ses chaînes, si tu es homme de sens et détourne ton cœur de la voie du mal.
 
 Le roi, sur ces paroles de Beschouten, se repentit en pensant à ces anciennes histoires et l’on entendit de l’enceinte des tentes du roi une voix proclamant :
 
-> Ô Pehlewans pleins de justice et de sagesse, préparez-vous au départ et gardez-vous de piller et de tuer ! »
+> Ô Pehlewans pleins de justice et de sagesse, préparez-vous au départ et gardez-vous de piller et de tuer !
 
 Le roi ordonna qu’on ôtât les chaînes des pieds de Zal et qu’on lui adressât beaucoup de conseils.
 
@@ -61,7 +89,7 @@ Par ordre du Destour, le vénérable conseiller, on prépara une voûte sépulcr
 >
 > Malheur aux yeux qui sont témoins d’un sort pareil !
 >
-> Puisse la terre être délivrée de la race d’Isfendiar ! »
+> Puisse la terre être délivrée de la race d’Isfendiar !
 
 Ces plaintes furent rapportées à Bahman et parvinrent jusqu’au fortuné Beschouten.
 
@@ -75,7 +103,7 @@ Il dit à Bahman :
 >
 > Puisse l’œil des méchants ne pas atteindre la couronne, puisse chacun de tes jours être une fête !
 >
-> Il ne convient pas que le roi des rois reste longtemps dans cette maison de Zal fils du vaillant Sam. »
+> Il ne convient pas que le roi des rois reste longtemps dans cette maison de Zal fils du vaillant Sam.
 
 Lorsque les montagnes furent couleur de sandaraque, le son des timbales se fit entendre du portail du palais et le roi conduisit son armée vers le pays d’Iran ; il la conduisit du Zaboulistan vers le pays des braves.
 
