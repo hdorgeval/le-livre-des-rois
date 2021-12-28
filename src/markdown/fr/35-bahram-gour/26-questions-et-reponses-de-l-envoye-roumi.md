@@ -25,8 +25,7 @@ Bahram lui adressa les questions d’usage, le reçut gracieusement. le fit asse
 
 > Tu es resté longtemps ici, n’es-tu pas las de la vue de ce pays ?
 >
-> La lutte contre le Khakan m’a tenu loin de
-> æ toi, elle s’est attachée à moi comme une compagne li inseymrable ; maintenant mes jours sont rajeunis, grâce à toi ; mais ton séjour s’est prolongé outre mesure ; je répondrai à tout ce que tu me diras, je tirerai de les paroles des conseils qui portent bonbeur. »
+> La lutte contre le Khakan m’a tenu loin de toi, elle s’est attachée à moi comme une compagne li inseymrable ; maintenant mes jours sont rajeunis, grâce à toi ; mais ton séjour s’est prolongé outre mesure ; je répondrai à tout ce que tu me diras, je tirerai de les paroles des conseils qui portent bonbeur. »
 
 Le vieillard prononça des bénédictions sur lui, disant :
 
@@ -116,4 +115,4 @@ Le sage messager du Kaïsar écouta cette réponse, baisa la terre et se déclar
 
 Bahram ne put pas cacher le plaisir que lui faisaient ces paroles et il se sentit plus glorieux dans son âme.
 
-Il donna au Mobed dix caisses de dirhems,des vêtements, des chevaux et beaucoup d’autres choses et l’envoyé du Kaïsar illustre s’en retourna de la cour du roi à son palais.
+Il donna au Mobed dix caisses de dirhems, des vêtements, des chevaux et beaucoup d’autres choses et l’envoyé du Kaïsar illustre s’en retourna de la cour du roi à son palais.
