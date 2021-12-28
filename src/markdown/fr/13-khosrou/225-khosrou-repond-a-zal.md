@@ -66,6 +66,6 @@ Les.
 >
 > Iraniens lui répondirent :
 
-> Jamais un Keïanide n’a proféré des paroles comme lui, et’uous appuierons tout ce que tu diras à Khosrou.
+> Jamais un Keïanide n’a proféré des paroles comme lui, et uous appuierons tout ce que tu diras à Khosrou.
 >
 > Puisse-t-il ce ne pas abandonner les coutumes et la voie des rois !
