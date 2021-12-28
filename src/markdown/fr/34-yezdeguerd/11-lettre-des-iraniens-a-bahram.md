@@ -39,7 +39,7 @@ Il devait lui dire :
 >
 > Mais maintenant c’est toi qui le dévastes et qui y verses le sang, qui le pilles et l’attaques partout !
 >
-> Tu n’as pas toujours été ainsi malfaisant, ne crains-tu donc pas les malédictions ’et.les résistances ?
+> Tu n’as pas toujours été ainsi malfaisant, ne crains-tu donc pas les malédictions ’et les résistances ?
 >
 > Réfléchis si cela te convient et paraît avantageux à ta vieille sagesse.
 >
@@ -94,9 +94,9 @@ Ayant écouté le message, il se mit à écrire la réponse à la lettre et dit 
 >
 > Si j’avais à donner un conseil, tout serait aplani pour les iraniens. »
 
-Djouanouï, qui avait vu le visage du roi des rois, quilui avait longtemps parlé et lui avait fait des questions pour voir s’il était digne du trône, du pouvoir, de la victoire et de la fortune, conçut une idée lumineuse en entendant les paroles de Mondhir et lui répondit :
+Djouanouï, qui avait vu le visage du roi des rois, qui lui avait longtemps parlé et lui avait fait des questions pour voir s’il était digne du trône, du pouvoir, de la victoire et de la fortune, conçut une idée lumineuse en entendant les paroles de Mondhir et lui répondit :
 
-> 0, homme qui porte haut la tête !
+> Ô, homme qui porte haut la tête !
 >
 > Tu n’as besoin de la sagesse de personne.
 >
@@ -106,7 +106,7 @@ Djouanouï, qui avait vu le visage du roi des rois, quilui avait longtemps parl�
 >
 > On peut avec confiance vous mettre en possession du pays, toi et Bahram le vaillant tordes rois.
 >
-> Allez dans le pays d’Iran avec des fau-cons et des guépards, comme il convient à un roi qui répand la lumière sur le monde.
+> Allez dans le pays d’Iran avec des faucons et des guépards, comme il convient à un roi qui répand la lumière sur le monde.
 >
 > Tu as entendu les paroles des Iraniens, vous pouvez donc æy aller sans danger.
 >
