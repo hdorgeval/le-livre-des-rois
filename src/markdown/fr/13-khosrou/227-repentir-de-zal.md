@@ -75,7 +75,7 @@ Il se leva en poussant un cri et resta debout, s’écriaut :
 
 > Ô roi, adorateur de Dieu !
 >
-> J’ai parlé à la hâte et comme un insensé ; tu es un saint et’un sage béni de Dieu.
+> J’ai parlé à la hâte et comme un insensé ; tu es un saint et un sage béni de Dieu.
 >
 > Puisses-tu me pardonner la faute à laquelle m’a entraîné le Div !
 >
