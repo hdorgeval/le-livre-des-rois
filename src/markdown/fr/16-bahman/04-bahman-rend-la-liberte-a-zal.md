@@ -41,7 +41,7 @@ Il se mit debout devant le maître du monde, disant :
 >
 > Gardien du trône des Keïanides, comme Rustem, il n’a pas reculé devant les fatigues et les combats ; c’est de lui que tu as reçu ton trône comme un héritage et non pas de Guschtasp ou d’Isfendiar.
 >
-> Prends toute l’époque, depuis Keï-Kobad jusqu’au sage Keï Khosrou, c’est à son épée qu’ils ont dû leur puissance et tous l’ont tenu pour plus pré-cieux que le monde entier.
+> Prends toute l’époque, depuis Keï-Kobad jusqu’au sage Keï Khosrou, c’est à son épée qu’ils ont dû leur puissance et tous l’ont tenu pour plus précieux que le monde entier.
 >
 > Fais tomber ses chaînes, si tu es homme de sens et détourne ton cœur de la voie du mal. »
 
@@ -49,7 +49,7 @@ Le roi, sur ces paroles de Beschouten, se repentit en pensant à ces anciennes h
 
 > Ô Pehlewans pleins de justice et de sagesse, préparez-vous au départ et gardez-vous de piller et de tuer ! »
 
-N Le roi ordonna qu’on ôtât les chaînes des pieds de Zal et qu’on lui adressât beaucoup de conseils.
+Le roi ordonna qu’on ôtât les chaînes des pieds de Zal et qu’on lui adressât beaucoup de conseils.
 
 Par ordre du Destour, le vénérable conseiller, on prépara une voûte sépulcrale pour le corps de Faramourz et l’on ramena Zal de la prison dans son palais, où sa noble compagne Roudabeh pleurait sur lui amèrement, s’écriant :
 
@@ -71,7 +71,7 @@ Il dit à Bahman :
 
 > Ô jeune roi !
 >
-> Lorsque la lune nouvelle sera arrivée à la moitié du firmament, fais partir de cette ville ton armée à l’aube du jour ; car cette alliaire devient difficile et dangereuse.
+> Lorsque la lune nouvelle sera arrivée à la moitié du firmament, fais partir de cette ville ton armée à l’aube du jour ; car cette affaire devient difficile et dangereuse.
 >
 > Puisse l’œil des méchants ne pas atteindre la couronne, puisse chacun de tes jours être une fête !
 >
