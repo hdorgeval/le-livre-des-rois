@@ -35,7 +35,7 @@ On prépara pour le Khakan un logis digne de lui, on prépara pour lui un beau p
 
 Meubles et l’on plaça son escorte près de lui.
 
-Le roi chargea de toute cette affaire un de ses scribes et lorsqu’il entendit parler des trésors que Parmoudeh apportait, il les envoya au Meïdan pour que ces pré-cieux bagages restassent confiés aux soins du chef des chameliers.
+Le roi chargea de toute cette affaire un de ses scribes et lorsqu’il entendit parler des trésors que Parmoudeh apportait, il les envoya au Meïdan pour que ces précieux bagages restassent confiés aux soins du chef des chameliers.
 
 Lorsque le Khakan se fut reposé pendant une semaine des fatigues de la route, le roi ordonna pour le huitième jour un banquet, Le Khakan, assis à une table devant le roi maître du. monde et occupant la a place d’honneur, lit apporter à dos d’hommes devant
 2 les grands les charges des chameaux et quelqu’un a compta le nombre des porteurs et trouva qu’on en L avait. payé ce jour-là dix mille.
