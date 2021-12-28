@@ -109,7 +109,7 @@ toi le tout par, abaisse la tête de mes ennemis il!) dans la poussière !
 >
 > N’approuve pas les injustices de l’homme injuste. »
 
-Il dit, reprit sa ceinture d’or,.se tourna vers le désert de Douk et partit le cœur navré et cherchant la vraie route et lorsqu’il fut’ de retour dans son camp, le monde était plongé dans les ténèbres de la longue nuit.
+Il dit, reprit sa ceinture d’or,.se tourna vers le désert de Douk et partit le cœur navré et cherchant la vraie route et lorsqu’il fut de retour dans son camp, le monde était plongé dans les ténèbres de la longue nuit.
 
 Il envoya des émissaires prudents pour ramener le monde vers lui et lorsque l’armée du Nimrouz apprit que le roi qui faisait briller le monde était en route, on attacha toutes les timbales sur le dos des éléphants et le monde se mit en émoi comme les flots du Nil.
 
