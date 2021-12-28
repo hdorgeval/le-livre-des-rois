@@ -37,7 +37,7 @@ La poussière que soulève le pied de ton cheval Raksch est plus grande que la m
 
 Ton lacet enchaîne le lion, tu lance perce le rocher ; tu es l’asile de l’Iran dans tous ses maux et c’est grâce à toi que les guerriers portent haut leur casque.
 
-Il nous arrive maintenant une nouvelle alliaire qui nous met en danger et qui brise mon cœur de souci.
+Il nous arrive maintenant une nouvelle affaire qui nous met en danger et qui brise mon cœur de souci.
 
 Les héros de l’Iran se sont rassemblés ; ils ont lu une lettre de Guzdehem que je t’envoie et tous ces braves ont décidé que Guiv le noble guerrier se rendrait auprès de toi et te porterait cette lettre, dans laquelle tu verras tout ce qu’il nous écrit, le hm et le mauvais.
 
