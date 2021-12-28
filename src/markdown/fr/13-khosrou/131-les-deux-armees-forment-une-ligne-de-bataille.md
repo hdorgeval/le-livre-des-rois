@@ -80,7 +80,7 @@ Les amis de Rehham partirent avec lui ; Gustehem le premier, ensuite Guejdehem q
 
 Gouderz ordonna à Guiv de prendre dix mille cavaliers montés sur des chevaux bardés dejer et lui assigna l’arrière-garde, poste digne des héros les plus avides de combat.
 
-Deux braves, Gourguin et’Zengueh fils de Schaweran, partirent avec Guiv.
+Deux braves, Gourguin et Zengueh fils de Schaweran, partirent avec Guiv.
 
 Ensuite Gouderz envoya trois rmille hommes avec un étendard pour garder l’armée du côté de la rivière et il plaça de même du côté de la montagne un étendard avec trois cents cavaliers choisis parmi la masse des braves.
 
