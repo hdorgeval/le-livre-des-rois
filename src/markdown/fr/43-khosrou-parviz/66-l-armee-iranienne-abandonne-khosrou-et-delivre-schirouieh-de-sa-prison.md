@@ -19,7 +19,7 @@ order: '066'
 
 Lorsque le roi connut ces nouvelles, il prit légè-rement cette grave affaire.
 
-Il comprit que c’était le fait de Guraz, qui avait conseillé le Kaïsar, avide de guerre ; car le roi avait faitappelerGuraz, qui s’était excusé et’n’avait pas obéi à sa lettre ; ce méchant homme avait peur du roi, de sa cour et de ses grands.
+Il comprit que c’était le fait de Guraz, qui avait conseillé le Kaïsar, avide de guerre ; car le roi avait faitappelerGuraz, qui s’était excusé et n’avait pas obéi à sa lettre ; ce méchant homme avait peur du roi, de sa cour et de ses grands.
 
 Le roi s’assit avec les grands, avec tous les chefs de l’Iran ; il voulut se délivrer de ce souci et chercha longuement un remède à cette affaire.
 
