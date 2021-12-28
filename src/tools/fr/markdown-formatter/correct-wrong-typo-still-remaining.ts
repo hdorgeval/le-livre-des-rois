@@ -31,6 +31,8 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/> A0/, '> '),
     (content: string) => content.replace(/ A7 /, ' '),
     (content: string) => content.replace(/> 0,/, '> Ô,'),
+    (content: string) => content.replace(/ pré-cieux ’/g, ' précieux '),
+    (content: string) => content.replace(/\nN Le ’/g, '\nLe '),
   ].forEach((format) => {
     result = format(result);
   });
