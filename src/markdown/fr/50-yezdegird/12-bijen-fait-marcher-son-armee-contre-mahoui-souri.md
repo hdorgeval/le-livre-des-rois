@@ -45,7 +45,7 @@ Bijen voulut savoir de qui Mahouï tenait la couronne et un homme habile à parl
 
 Je me rrhattis dans Merve pendant trois jours ; le quatrième jour, lorsque le soleil répandit sa lumière sur le monde, fatigué de cette longue lutte, je livrai un combat acharné et le perfide Mahouï tourna le des.
 
-Le Sipehdar de l’Iran, se voyant seul, devint sou-cieux ; il appela à lui quelques fidèles et nous tua beaucoup de guerriers illustres ; mais abandonné des siens, il prit la fuite, lui aussi.
+Le Sipehdar de l’Iran, se voyant seul, devint soucieux ; il appela à lui quelques fidèles et nous tua beaucoup de guerriers illustres ; mais abandonné des siens, il prit la fuite, lui aussi.
 
 Mahouï s’empara ainsi sans efforts des trésors de son maître et en disposa.
 
