@@ -31,8 +31,13 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/> A0/, '> '),
     (content: string) => content.replace(/ A7 /, ' '),
     (content: string) => content.replace(/> 0,/, '> Ô,'),
-    (content: string) => content.replace(/ pré-cieux ’/g, ' précieux '),
-    (content: string) => content.replace(/\nN Le ’/g, '\nLe '),
+    (content: string) => content.replace(/ pré-cieux /g, ' précieux '),
+    (content: string) => content.replace(/ sileng-cieux /g, ' silencieux '),
+    (content: string) => content.replace(/ sou-cieux /g, ' soucieux '),
+    (content: string) => content.replace(/ pré-cieux /g, ' précieux '),
+    (content: string) => content.replace(/\nN Le /g, '\nLe '),
+    (content: string) => content.replace(/làdessus/g, 'là-dessus'),
+    (content: string) => content.replace(/ toutspuissants /g, ' touts-puissants '),
   ].forEach((format) => {
     result = format(result);
   });
