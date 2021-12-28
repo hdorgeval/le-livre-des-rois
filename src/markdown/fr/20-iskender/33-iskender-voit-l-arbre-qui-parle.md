@@ -68,7 +68,7 @@ Il demanda à son interlocuteur :
 
 L’interprète fortuné lui répondit :
 
-> Cet arbre a un grand nombre d’adorateurs, et’quand ils viennent lui rendre hommage et cherchent de la nourriture, ils vivent de la chair des bêtes fauves. »
+> Cet arbre a un grand nombre d’adorateurs, et quand ils viennent lui rendre hommage et cherchent de la nourriture, ils vivent de la chair des bêtes fauves. »
 
 Lorsque le soleil fut arrivé au faîte de la voûte du ciel, Iskender entendit un bruit d’en haut, venant des feuilles du puissant arbre, un bruit plein de terreur et ne promettant rien de bon.
 
