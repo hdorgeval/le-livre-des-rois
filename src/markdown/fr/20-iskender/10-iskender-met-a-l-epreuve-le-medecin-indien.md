@@ -1,5 +1,5 @@
 ---
-lastUpdate: '2021-09-07'
+lastUpdate: '2021-12-28'
 lang: 'fr'
 status: 'draft'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
@@ -24,7 +24,7 @@ Ensuite Iskender fit venir le médecin qui pouvait, en voyant une goutte d’uri
 Le médecin répondit :
 
 > Quiconque mange
-. trop, quiconque ne compte pas les bouchées quand il est assis à table, ne reste pas longtemps sain de corps ; et l’on n’est vaillant que quand on a soin de sa santé.
+> . trop, quiconque ne compte pas les bouchées quand il est assis à table, ne reste pas longtemps sain de corps ; et l’on n’est vaillant que quand on a soin de sa santé.
 
 Je vais maintenant le composer un remède pour lequel je réunirai de partout des herbes et qui te fera toujours rester bien portant.
 
@@ -42,16 +42,15 @@ Il lui fit donner une robe d’honneur et de beaux présents et l’éleva au-de
 
 Le médecin aux paroles douces se rendit dans la montagne, emmenant une foule de serviteurs.
 
-Il pos-
-, sédait une science immense et savait distinguer les poisons et leurs antidotes.
+Il possédait une science immense et savait distinguer les poisons et leurs antidotes.
 
-Il fit couper une grande quantité de plantes de montagne, rejeta les inutiles, choisit les bienfaisantes et en composa une médecine
-
-No qui répondait à son désir.
+Il fit couper une grande quantité de plantes de montagne, rejeta les inutiles, choisit les bienfaisantes et en composa une médecine qui répondait à son désir.
 
 Il frotta le corps du roi avec cet extrait de plantes des montagnes et le maintint en santé pendant des mois et des années.
 
-Par suite de cela, Iskender dormait peu et passait volontiers ses nuits dans la débauche ; sa poitrine était ardente pour le commerce avec les femmes et sa tête cherchait un endroit moelleux poury reposer ; et c’est ainsi que le roi commençait à perdre ses forces, car il ne faisait aucune attention à sa santé., Or il arriva qu’un jour le médecin se présenta et observa dans la goutte des traces de cet affaiblissement ; il dit au roi :
+Par suite de cela, Iskender dormait peu et passait volontiers ses nuits dans la débauche ; sa poitrine était ardente pour le commerce avec les femmes et sa tête cherchait un endroit moelleux pour y reposer ; et c’est ainsi que le roi commençait à perdre ses forces, car il ne faisait aucune attention à sa santé.
+
+Or il arriva qu’un jour le médecin se présenta et observa dans la goutte des traces de cet affaiblissement ; il dit au roi :
 
 > En vivant avec des femmes, un jeune homme devient nécessairement vieux avant le temps.
 >
@@ -65,7 +64,9 @@ Le sage indien, digne de tout éloge, ne se contenta pas de cette réponse ; la 
 
 Le roi lui dit :
 
-> Pourquoi as-tu versé par terre cette médecine que tu avais préparée laborieusementi’n Il répondit :
+> Pourquoi as-tu versé par terre cette médecine que tu avais préparée laborieusementi’n
+
+Il répondit :
 
 > Parce que le roi, hier soir, HI n’a pas recherché de compagne et qu’il a passé la nuit à dormir seul.
 >
