@@ -141,7 +141,7 @@ Il parla ainsi à son frère :
 >
 > Beaucoup de lions et de Divs, de léopards et de crocodiles sont morts de ma main à l’heure du combat, maint bastion de forteresse a été abattu par moi et personne ne m’a jamais vaincu.
 >
-> Quiconque met le pied à l’étrier et fait bondir son cheval, frappe à la porte de la mort ; et’vécût-il plus de mille ans, telle serait sa route, tel serait son sort.
+> Quiconque met le pied à l’étrier et fait bondir son cheval, frappe à la porte de la mort ; et vécût-il plus de mille ans, telle serait sa route, tel serait son sort.
 >
 > Pense à Djemschid le puissant roi et à Thahmouras le vainqueur des Divs : jamais le monde n’a eu des rois comme eux, mais à la fin ils sont allés auprès de Dieu ; et puisque le monde ne leur est pas resté et les a abandonnés, il faudra bien que moi aussi je passe par ce chemin.
 >
