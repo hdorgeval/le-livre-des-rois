@@ -1797,8 +1797,12 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/,des /g, ', des '),
     (content: string) => content.replace(/ fau-cons /g, ' faucons '),
     (content: string) => content.replace(/ quilui /g, ' qui lui '),
-    (content: string) => content.replace(/et.les /g, 'et les '),
+    (content: string) => content.replace(/et\.les /g, 'et les '),
     (content: string) => content.replace(/ et’/g, ' et '),
+    (content: string) => content.replace(/ pré-cieux ’/g, ' précieux '),
+    (content: string) => content.replace(/\nN Le ’/g, '\nLe '),
+    (content: string) => content.replace(/ alliaire ’/g, ' affaire '),
+    (content: string) => content.replace(/ heuneux ’/g, ' heureux '),
   ].forEach((format) => {
     result = format(result);
   });
