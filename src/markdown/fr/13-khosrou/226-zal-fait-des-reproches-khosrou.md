@@ -29,7 +29,7 @@ Zal, à ces paroles, se mit debout et dit :
 >
 > Son pouvoir, son trône, sa couronne et sa ceinture étaient révérés depuis le levant jusqu’au couchant ; mais il voulait s’élever au-dessus du ciel et compter tous les cercles dans lesquels se meuvent les astres.
 >
-> Je lui ai donné beaucoup de conseils làdessus, je lui ai parlé avec amertune, il a écouté les conseils et n’en a pas profité et je me suis détourné de lui, blessé et peiné.
+> Je lui ai donné beaucoup de conseils là-dessus, je lui ai parlé avec amertune, il a écouté les conseils et n’en a pas profité et je me suis détourné de lui, blessé et peiné.
 >
 > Qand il s’est élevé dans l’air, il a fait une chute dans la poussière ; Dieu le très-saint lui a fait grâce de la vie et l’ingrat est revenu la tête pleine de poussière, le cœur rempli de terreur.
 >
