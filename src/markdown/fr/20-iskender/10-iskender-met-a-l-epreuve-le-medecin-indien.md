@@ -21,7 +21,7 @@ Ensuite Iskender fit venir le médecin qui pouvait, en voyant une goutte d’uri
 
 > Quelle est l’origine des maladies qui font pleurer par la douleur qu’elles w causent ?
 
-N Le médecin répondit :
+Le médecin répondit :
 
 > Quiconque mange
 . trop, quiconque ne compte pas les bouchées quand il est assis à table, ne reste pas longtemps sain de corps ; et l’on n’est vaillant que quand on a soin de sa santé.
