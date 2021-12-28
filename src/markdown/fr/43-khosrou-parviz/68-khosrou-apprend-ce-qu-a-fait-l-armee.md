@@ -36,7 +36,7 @@ Et lorsque la nuit eut renouvelé son voile couleur de poix, tous les gardiens
 
 Que son nom soit proclamé dans tous les pays !
 
-N Le roi du monde dormait dans la nuit profonde et Schirin se tenait près du chevet de son lit, l’esprit troublé.
+Le roi du monde dormait dans la nuit profonde et Schirin se tenait près du chevet de son lit, l’esprit troublé.
 
 Lorsqu’elle entendit ce cri des gardiens de nuit, elle devint inquiète et son cœur, jadis si joyeux, s’émut.
 
