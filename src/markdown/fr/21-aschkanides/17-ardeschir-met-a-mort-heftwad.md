@@ -37,7 +37,7 @@ Schehriguir : sortit du centre de l’armée et tua les deux hommes par une plui
 
 Ardeschir livra au pillage tout ce que Hsfiwad avait eu de précieux et ses troupes s’en enrichirent ; des serviteurs descendirent de toutes les parties du château tout ce qui s’y trouvait et il fit porter à KharrehiLArdeschir ce qui lui plaisait parmi les objets de haut prix.
 
-Il éleva un temple du feu dans ce pays et y fit célébrer les fêtes de Mihrigan et de sedeh ; il donna des provinces, des trônes et des couronnes à ses deux hôtes fortunés,puis il partit victorieux et heuneux et répandit ses grâces sur le pays de Fars.
+Il éleva un temple du feu dans ce pays et y fit célébrer les fêtes de Mihrigan et de sedeh ; il donna des provinces, des trônes et des couronnes à ses deux hôtes fortunés,puis il partit victorieux et heureux et répandit ses grâces sur le pays de Fars.
 
 Lorsque les hommes et les chevaux furent reposés, il marcha vers Schehrizour et envoya des troupes, sous un homme digne d’une couronne et d’un trône, dans le Kirman ; de là il se rendit à Thisifoun (Ctésiphon), après avoir abaissé la tête de la fortune de ses ennemis.
 
