@@ -101,7 +101,7 @@ Or il y avait un Mobed du nom de Homaï, un M3 homme de sens, de savoir et de bo
 
 Les Iraniens le choisirent pour qu’il s’appliquât à trouver ce moyen de salut et ils écrivirent au Khakan, au nom des Iraniens, une lettre de soumission qui commençait ainsi :
 
-> Nous sommes tes esclaves, nous nous prosternons devant tes ordres et’tes volontés.
+> Nous sommes tes esclaves, nous nous prosternons devant tes ordres et tes volontés.
 >
 > Nous t’enverrons des présents de tout ce que produit l’Iran, avec des demandes de pardon et des bénédictions;avec ces présents, nous t’ofl’rons un tribut et des redevances, car nous ne pouvons résister aux Turcs dans le combat. »
 
