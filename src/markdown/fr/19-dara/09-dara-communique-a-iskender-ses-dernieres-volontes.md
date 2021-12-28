@@ -114,7 +114,7 @@ Alors Dara se mit à parler rapidement et à énoncer ses dernières volontés, 
 >
 > Aie soin de mes enfants, de mes alliés et de mes femmes aux visages voilés, pleines de sagesse.
 >
-> Demande-moi en mariage ma fille au corps pur, et’donne-lui le bonheur sur le trône ; sa mère l’a nommée Rouschenek et a rendu par elle le”m0nde heureux et-
+> Demande-moi en mariage ma fille au corps pur, et donne-lui le bonheur sur le trône ; sa mère l’a nommée Rouschenek et a rendu par elle le”m0nde heureux et-
 >
 > content.
 >
