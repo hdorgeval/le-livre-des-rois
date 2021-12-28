@@ -85,7 +85,7 @@ Il fit venir un. esclave vaillant et avide de combat et sortit dans le jardin pe
 
 Ne trouvant pas dans ce grand jardin ni sous cette masse d’arbres une place dans la prairie où mettre une planche pour s’y asseoir, il suspendit à une branche d’arbre son bouclier d’or, dans un lieu éloigné du passage des hommes, s’assit sur les narcisses et le safran et plaça une lourde épée sous son genou.
 
-Lorsque le soleil lança ses rayons d’en haut, les ennemis acharnés de Khosrou entrèrent au palais et’ fouillèrent tous les coins de ce magnifique édifice ; mais le roi n’y était pas.
+Lorsque le soleil lança ses rayons d’en haut, les ennemis acharnés de Khosrou entrèrent au palais et fouillèrent tous les coins de ce magnifique édifice ; mais le roi n’y était pas.
 
 Ils livrèrent au pillage ses trésors et aucun d’eux ne pensa à la peine que Khosrou avait euelpour les réunir ; ensuite ils partirent, les yeux pleins de larmes et surpris de tout ce qui arrivait.
 
