@@ -63,7 +63,7 @@ L’évêque répondit :
 >
 > Maintenant son âme est réunie au Messie, quoique lui ne soit pas mort sur la croix. »
 
-Tous les chrétiens qui se trouvaient dans ce pays se déchirèrent les joues ; il s’éleva un cri de deuil et les hommes et’les femmes du pays entier se rassemblèrent, disant :
+Tous les chrétiens qui se trouvaient dans ce pays se déchirèrent les joues ; il s’éleva un cri de deuil et les hommes et les femmes du pays entier se rassemblèrent, disant :
 
 > Il est mort, ce prince vaillant et jeune, qui était le cœur et l’œil du roi NouschirwananOn l’emporta de cette plaine dans un cercueil qu’on se passait de mains en mains pendant trois farsangs.
 >
