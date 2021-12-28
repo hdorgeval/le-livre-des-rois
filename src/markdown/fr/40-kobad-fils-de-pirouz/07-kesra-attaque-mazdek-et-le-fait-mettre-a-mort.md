@@ -130,7 +130,7 @@ Le roi livra à Kesra sur-le-champ Mazdek et tous ceux qui suivaient sa loi et s
 
 Le roi dit à son fils :
 
-> Agis en cette alliaire comme tu voudras et ne me parle plus jamais de Mazdek. »
+> Agis en cette affaire comme tu voudras et ne me parle plus jamais de Mazdek. »
 
 Or’il y avait dans le palais de Kesra un jardin dont les murs étaient plus hauts que les cimes des montagnes ; il fit creuser un fossé en dedans et le long des murs et y distribua ces hommes, qu’on y planta’comme des arbres, les pieds en l’air et la tête en bas, fortement enterrée.
 
