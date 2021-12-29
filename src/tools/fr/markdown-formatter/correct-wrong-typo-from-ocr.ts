@@ -1802,6 +1802,9 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ alliaire /g, ' affaire '),
     (content: string) => content.replace(/ heuneux /g, ' heureux '),
     (content: string) => content.replace(/ uous /g, ' nous '),
+    (content: string) => content.replace(/ babillement /g, ' habillement '),
+    (content: string) => content.replace(/ ,, /g, ', '),
+    (content: string) => content.replace(/,,/g, ', '),
   ].forEach((format) => {
     result = format(result);
   });
