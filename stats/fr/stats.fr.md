@@ -1,13 +1,13 @@
 ---
-lastUpdate: '2021-09-26'
+lastUpdate: '2021-12-29'
 lang: 'fr'
 total number of reigns: 50
 total number of episodes: 1007
 ratio of fully processed episodes: 38 %
-total number of defects in episodes: 14842
-total number of extracted keywords: 818
-total number of published web pages: 1945
-estimated end date: 2025-02-15
+total number of defects in episodes: 14648
+total number of extracted keywords: 823
+total number of published web pages: 1952
+estimated end date: 2025-09-22
 ---
 
 # Stats about the French version of the Shahnahme
@@ -23,6 +23,14 @@ Defect :
 Keyword :
 
 - A keyword is the name of a character, the name of a place, the name of an entity or any word of interest like for example `résurrection`, `quatorze`, `immortel`.
+
+## 2021-09-26
+
+- ratio of fully processed episodes: 38 %
+- total number of defects in episodes: 14842
+- total number of extracted keywords: 818
+- total number of published web pages: 1945
+- estimated end date: 2025-02-15
 
 ## 2021-09-08
 
