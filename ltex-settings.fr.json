@@ -561,7 +561,21 @@
       "Flandin",
       "Rouïn",
       "farsang",
-      "Ardjasp"
+      "Ardjasp",
+      "Taschter",
+      "Ardibehescht",
+      "Amerdad",
+      "Schahriver",
+      "Aban",
+      "Adar",
+      "Din",
+      "Espendarmad",
+      "Sapandarmad",
+      "destour",
+      "Zaboul",
+      "Bost",
+      "Beschouten",
+      "Tchehrzad"
     ]
   },
   "hiddenFalsePositives": {
@@ -1661,6 +1675,14 @@
       {
         "rule": "D_N",
         "sentence": "^\\QQue le sort de Bahram ait été tel qu'il a été, c'est l'œuvre du Div pervers.\\E$"
+      },
+      {
+        "rule": "ACCORD_SUJET_VERBE",
+        "sentence": "^\\QLe bruit des clairons et des clochettes fit trembler le cœur des montagnes, le ciel noircit la face du monde comme du bitume et les flèches tombaient de ces ténèbres comme une grêle.\\E$"
+      },
+      {
+        "rule": "AGREEMENT_POSTPONED_ADJ",
+        "sentence": "^\\QQuand les héros le virent, ils furent troublés et lancèrent contre lui une masse de troupes ; ces cavaliers l'entourèrent ; le lion furieux était fatigué par ses blessures ; son destrier, affaibli par les pointes des flèches qui le frappaient, tomba par terre épuisé.\\E$"
       }
     ]
   }
