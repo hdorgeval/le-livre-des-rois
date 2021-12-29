@@ -1,7 +1,7 @@
 ---
 lastUpdate: '2021-09-07'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 017
@@ -9,7 +9,18 @@ reign: 'Homaï'
 reign-slug: 'regne-de-homai'
 episode-slug: 'le-blanchisseur-eleve-darab'
 title: 'Le blanchisseur élève Darab | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Ardeschir',
+    'chrysoprases',
+    'Créateur',
+    'Darab',
+    'farsangs',
+    'honte',
+    'rubis',
+    'Zendavesta',
+  ]
 order: '002'
 ---
 
