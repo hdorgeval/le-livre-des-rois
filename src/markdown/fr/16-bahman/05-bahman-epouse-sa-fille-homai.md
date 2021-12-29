@@ -1,7 +1,7 @@
 ---
 lastUpdate: '2021-09-07'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 011
@@ -9,7 +9,19 @@ reign: 'Bahman'
 reign-slug: 'regne-de-bahman'
 episode-slug: 'bahman-epouse-sa-fille-homai'
 title: 'Bahman épouse sa fille Homaï et lui destine la succession | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Ardeschir',
+    'Bahman',
+    'Homaï',
+    'honte',
+    'Iran',
+    'Nischapour',
+    'pehlewi',
+    'Sasan',
+    'Tchehrzad',
+  ]
 order: '005'
 ---
 
