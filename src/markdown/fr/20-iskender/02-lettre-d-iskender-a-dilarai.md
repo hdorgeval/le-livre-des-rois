@@ -47,7 +47,7 @@ Beaucoup de té-moins ont entendu Data dans ses dernières volontés me fiancer 
 >
 > Remplissez votre cœur de dévotion pour moi et donnez-moi devant le monde entier le nom de Duras»
 
-Le scribe écrivit de même à Rouschenek,,au nom du puissant maître du monde, une lettre qu’il commença par l’adoration du Créateur, maître du monde, maître de la sagesse, père nourricier de toute créa--
+Le scribe écrivit de même à Rouschenek, au nom du puissant maître du monde, une lettre qu’il commença par l’adoration du Créateur, maître du monde, maître de la sagesse, père nourricier de toute créa--
 tare, puis il dit :
 
 > De la race des rois ne naissent que des enfants purs, réjouissant les cœurs, pron dents, tendres et chastes, parlant bien et avec des voix douces.
