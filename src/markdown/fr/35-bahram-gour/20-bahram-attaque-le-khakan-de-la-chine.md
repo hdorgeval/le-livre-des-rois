@@ -17,7 +17,7 @@ order: '020'
 
 # Bahram attaque le Khakan de la Chine
 
-Mais Bahram, de son côté, veillait ; il préservait. son armée contre toute attaque de l’ennemi ; il ,, avait des espions jour et nuit et ne passait pas un air I.
+Mais Bahram, de son côté, veillait ; il préservait. son armée contre toute attaque de l’ennemi ; il, avait des espions jour et nuit et ne passait pas un air I.
 
 U-L"
 ÎP. 1
