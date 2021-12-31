@@ -1,5 +1,5 @@
 ---
-lastUpdate: '2021-12-28'
+lastUpdate: '2021-12-31'
 lang: 'fr'
 status: 'draft'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
@@ -49,8 +49,7 @@ Le nom de cet honnête homme était Mahboud, son esprit et son cœur étaient re
 
 Il avait deux fils semblables au gai printemps, qui étaient toujours de service chez le roi, quand il allait prier ou quand il demandait à un Mobed le barsom.
 
-Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a !
-
+Nouschirwan ne mangeait que ce que lui présentait Mahboud et il avait la même confiance dans les deux fils ; sa cuisine était dans la maison de Mahboud et il se regardait comme l’hôte de celui-ci et les a ! 
 H
 deux jeunes gens illustres et purs portaient les mets chez le roi.
 
