@@ -235,7 +235,7 @@ Un Mobed nommé Zatrouî, dont le cœur était soumis au joug de la raison, parl
 >
 > Ton front serait bientôt humilié ; ta race marcherait nue dans le monde et tes enfants récolteraient inévitablement ce que tu as semé ; Ton crime porterait atteinte au culte de Dieu et les malédictions du trône et de la couronne retomberaient sur toi. »
 
-Un homme pieux et fidèle adorateur de Dieu,, dont la main n’avait jamais connu l’injustice, Hormuzd, fils de Kharrad, c’est ainsi qu’il se nommait, était au nombre des assistants ; il adressa ces paroles à Mahouï :
+Un homme pieux et fidèle adorateur de Dieu, dont la main n’avait jamais connu l’injustice, Hormuzd, fils de Kharrad, c’est ainsi qu’il se nommait, était au nombre des assistants ; il adressa ces paroles à Mahouï :
 
 > Homme injuste, prends garde, en agissant ainsi, d’abandonner les voies du Dieu pur.
 >
