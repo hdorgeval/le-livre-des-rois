@@ -1,5 +1,5 @@
 ---
-lastUpdate: '2021-09-07'
+lastUpdate: '2021-12-31'
 lang: 'fr'
 status: 'draft'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
@@ -39,7 +39,7 @@ Ensuite, il sortit en bénissant le roi et fit en toute hâte les préparatifs d
 
 Il distribua aux grands qui avaient partagé ses combats et ses fatigues, ses joies et ses soucis, des présents à chacun selon son rang et ils sortirent gaiement du palais de Khosrou.
 
-Le roi, quand les héros l’eurent. quitté, s’assit sur son trône pour se reposer.
+Le roi, quand les héros l’eurent quitté, s’assit sur son trône pour se reposer.
 
 Il fit venir Bijen et lui parla des peines et des anxiétés qu’il avait éprouvées ; et Bijen lui raconta longuement ses chaînes, sa prison, son dernier combat et lui exposa toute l’histoire de ses malheurs.
 
@@ -47,13 +47,11 @@ Khosrou en fut ému et plaignit beaucoup la malheureuse fille d’Afrasiab à ca
 
 Il fit apporter cent robes de brocart de Roum toutes brodées de pierreries et d’or fin, une couronne et dix caisses remplies d’or, des esclaves et des chevaux et beaucoup d’autres richesses et il dit à Bijen :
 
-> Porte ce présent à cette femme qui a tant souffert ; ne lui fais jamais de peine, ne lui adresse pas une ce parole froide, pense aux maux que tu lui as causés.
+> Porte ce présent à cette femme qui a tant souffert ; ne lui fais jamais de peine, ne lui adresse pas une parole froide, pense aux maux que tu lui as causés.
 >
 > Passe avec elle ta vie dans le bonheur et réfléchis sur la manière dont tourne le sort : il élève l’un jusqu’au sublime firmament et l’exempte de tout souci et de toute peine ; ensuite le ciel le précipite dans la tombe.
 >
-> Le ciel qui tourne est un lieu plein de terreurs et de craintes ; car il jette brusquement V le même homme qu’il a élevé tendrement sur son
->
->, sein, dans une fosse où il manquera de tout.
+> Le ciel qui tourne est un lieu plein de terreurs et de craintes ; car il jette brusquement V le même homme qu’il a élevé tendrement sur son sein, dans une fosse où il manquera de tout.
 >
 > Il prend un autre homme dans un cachot et le porte surie trône, en lui mettant sur la tête un diadème de pierreries.
 >
@@ -61,4 +59,4 @@ Il fit apporter cent robes de brocart de Roum toutes brodées de pierreries et d
 >
 > Telle est la coutume de ce monde passager, qui nous guide sur la route du bien et du mal ; mais aussi longtemps que tu le garantiras du souci des richesses, ton cœur noble demeurera exempt de trouble. »
 
-J’ai maintenant raconté en entier cette aventure, telle que je l’ai entendu réciter selon la tradition antique ; et ayant achevé l’histoire de Bijen, je vais parlerde Gouderz et de Piran.
+J’ai maintenant raconté en entier cette aventure, telle que je l’ai entendu réciter selon la tradition antique ; et ayant achevé l’histoire de Bijen, je vais parler de Gouderz et de Piran.
