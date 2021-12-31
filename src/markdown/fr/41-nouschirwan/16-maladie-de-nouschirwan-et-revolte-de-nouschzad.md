@@ -96,7 +96,7 @@ Mais si le Maître du monde n’est pas en colère contre moi, je n’ai pas
 
 De souci de cette affaire et si la fortune me protège encore, je ne périrai pas.
 
-Tous ceux qui se sont réunis à NouSChzad sont méprisables à mes yeux ; c’est de la lettre que le Kaïsar lui a écrite qu’est venue l’eau qui a rendu trouble le ruisseau,, car on a cru qu’il était parent de mon fils parce qu’il est son ami et son coreligionnaire.
+Tous ceux qui se sont réunis à NouSChzad sont méprisables à mes yeux ; c’est de la lettre que le Kaïsar lui a écrite qu’est venue l’eau qui a rendu trouble le ruisseau, car on a cru qu’il était parent de mon fils parce qu’il est son ami et son coreligionnaire.
 
 Ce n’est qu’un homme de peu de sens, qui ne respecte pas la foi de ses ancêtres et celui-là est le meilleur des fils qui accepte la religion de son père et ne l’attaque pas.
 
