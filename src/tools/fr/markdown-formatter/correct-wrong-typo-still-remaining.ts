@@ -38,6 +38,8 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/\nN Le /g, '\nLe '),
     (content: string) => content.replace(/làdessus/g, 'là-dessus'),
     (content: string) => content.replace(/ toutspuissants /g, ' touts-puissants '),
+    (content: string) => content.replace(/ an-ciennes/g, ' anciennes'),
+    (content: string) => content.replace(/his-toire /g, 'histoire '),
   ].forEach((format) => {
     result = format(result);
   });
