@@ -40,6 +40,7 @@ export function correctWrongTypoStillRemainingAfterAutoFormat(content: string): 
     (content: string) => content.replace(/ toutspuissants /g, ' touts-puissants '),
     (content: string) => content.replace(/ an-ciennes/g, ' anciennes'),
     (content: string) => content.replace(/his-toire /g, 'histoire '),
+    (content: string) => content.replace(/Un jour il /g, 'Un jour, il '),
   ].forEach((format) => {
     result = format(result);
   });

@@ -1805,6 +1805,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ babillement /g, ' habillement '),
     (content: string) => content.replace(/ ,, /g, ', '),
     (content: string) => content.replace(/,,/g, ', '),
+    (content: string) => content.replace(/Beschnewad/g, 'Reschnewad'),
   ].forEach((format) => {
     result = format(result);
   });
