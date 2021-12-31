@@ -104,7 +104,7 @@ Il répandit son armée par tout le Ghilan et le soleil et la, lune en furent ob
 Au milieu ’
 de ces massacres, de ces pillages et de ces incendies, s’élevèrent des cris et des lamentations d’hommes et de femmes.
 
-Ils se lièrent eux-mêmes les mains, placèrent les femmes derrière eux et les enfants devant et tout ce qu’il y avait d’hommes de guerre dans le Ghilan, d’hommes de sens,,de bon conseil et de poids, vint auprès du roi en poussant des cris, la poitrine déchirée et la tête couverte de poussière.
+Ils se lièrent eux-mêmes les mains, placèrent les femmes derrière eux et les enfants devant et tout ce qu’il y avait d’hommes de guerre dans le Ghilan, d’hommes de sens, de bon conseil et de poids, vint auprès du roi en poussant des cris, la poitrine déchirée et la tête couverte de poussière.
 
 Ils se raSsemblèrent devant la porte du roi, les mains liées, le corps blessé et disant :
 
