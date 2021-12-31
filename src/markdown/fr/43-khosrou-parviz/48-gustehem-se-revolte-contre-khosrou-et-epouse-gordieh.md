@@ -81,7 +81,7 @@ Tous se rendirent auprès de Gustehem et ses espérances assombries redevinrent 
 
 Ainsi se passa quelque temps ; tantôt il était joyeux, tantôt soucieux.
 
-Un jour il dit à Yelan Sineh :
+Un jour, il dit à Yelan Sineh :
 
 > Cette femme, que pense-t-elle d’un mari ?
 >
