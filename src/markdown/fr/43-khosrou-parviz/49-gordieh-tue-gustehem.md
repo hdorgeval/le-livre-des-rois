@@ -21,7 +21,7 @@ Ainsi se passa quelque temps ; le roi eut le cœur»
 
 Plein de chagrin à cause de Gustehem.
 
-Un jour il dit, dans son trouble, à Guerdouî :
+Un jour, il dit, dans son trouble, à Guerdouî :
 
 > Gustehem a épousé Gordieh ; c’est vers lui que sont dirigées ces grandes masses d’hommes et je crois que c’est
 ’ elle qui les a conseillées.
