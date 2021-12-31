@@ -19,7 +19,7 @@ order: '047'
 
 Le vaillant Bahram étant écarté, le roi se sentit en sécurité ; il ne voyait plus, parmi les grands, personne qui pourrait le combattre et qui oserait lui tenir tête.
 
-Un jour il dit à son fidèle Destour :
+Un jour, il dit à son fidèle Destour :
 
 > Jusques à quand cacherai-je donc mes pensées ?
 >
