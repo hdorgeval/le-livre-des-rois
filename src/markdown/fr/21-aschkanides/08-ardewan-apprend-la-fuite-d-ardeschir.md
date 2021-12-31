@@ -77,7 +77,7 @@ Lorsqu’ils furent arrivés tous les deux près de l’eau, leurs joues pâles 
 
 > Fais attention à ce qu’ils disent,»
 
-Et il appesantit ses étriers ,, relâcha les rênes et leva jusqu’au ciel la pointe brillante de sa lance.
+Et il appesantit ses étriers, relâcha les rênes et leva jusqu’au ciel la pointe brillante de sa lance.
 
 Ardewan le suivait rapidement comme le vent, courant, se fatiguant et l’âme assombrie.
 
