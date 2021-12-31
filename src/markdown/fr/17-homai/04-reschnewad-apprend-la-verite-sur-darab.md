@@ -69,7 +69,7 @@ Il partit à l’instant avec lui pour son campement, disant :
 > Ô Dieu unique, maître de la justice, personne dans le monde n’a jamais vu une pareille merveille, ni n’en a entendu parler par les grands qui ont de l’expérience ! »
 
 Il fit apporter des vêtements, préparer une place dans une, tente et allumer un feu comme une montagne, dans lequel il brûla beaucoup d’aloès, de musc et d’ambre. -
-Lorsque le soleil montra. sa tête au-dessus de la cime des montagnes, le Sipehbed se prépara pour le départ ; il ordonna au Mobed qui lui servait de guide de demander un babillement complet, de la tête aux pieds, un cheval arabe avec une bride d’or, une ceinture et une épée à fourreau d’or. ll.donna tout cela à Darab et lui adressa des questions, disant :
+Lorsque le soleil montra. sa tête au-dessus de la cime des montagnes, le Sipehbed se prépara pour le départ ; il ordonna au Mobed qui lui servait de guide de demander un habillement complet, de la tête aux pieds, un cheval arabe avec une bride d’or, une ceinture et une épée à fourreau d’or. ll.donna tout cela à Darab et lui adressa des questions, disant :
 
 > Ô homme au cœur de lion, ô prince qui recherches la gloire !
 >
