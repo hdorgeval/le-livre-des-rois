@@ -41,7 +41,7 @@ Il distribua aux grands qui avaient partagé ses combats et ses fatigues, ses jo
 
 Le roi, quand les héros l’eurent. quitté, s’assit sur son trône pour se reposer.
 
-Il fit venir Bijen et lui parla des peines et des anxiétés qu’il avait éprouvées ; et Bijen lui raconta longuement ses chaînes, sa prison, son dernier combat et lui exposa toute l’his-toire de ses malheurs.
+Il fit venir Bijen et lui parla des peines et des anxiétés qu’il avait éprouvées ; et Bijen lui raconta longuement ses chaînes, sa prison, son dernier combat et lui exposa toute l’histoire de ses malheurs.
 
 Khosrou en fut ému et plaignit beaucoup la malheureuse fille d’Afrasiab à cause des fatigues et des soucis qu’elle avait endurés.
 
