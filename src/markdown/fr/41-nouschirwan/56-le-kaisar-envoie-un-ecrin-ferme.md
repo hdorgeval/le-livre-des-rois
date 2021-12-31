@@ -108,7 +108,7 @@ Buzurdjmihr dit au roi du monde :
 
 Le roi fut heureux de ces paroles, son cœur devint frais comme une rose au printemps ; libre de soucis, il redressa sa taille, fit venir l’envoyé et l’écrin, appela les Mobeds et les nobles, fit asseoir devant le sage un grand nombre de savants et demanda à l’envoyé de répéter le message de son maître et de poser sa question.
 
-Le Roumi,,l’ayant écouté, se mit à parler et reproduisit toutes les paroles du Kaîsar :
+Le Roumi, l’ayant écouté, se mit à parler et reproduisit toutes les paroles du Kaîsar :
 
 > Il faut que le maître du monde, victorieux dans les combats, ait de l’intelligence, du savoir et un nom glorieux ; or tu possèdes la majesté et la puissance d’un maître du monde, tu as de la grandeur et du savoir, ta main est forte ; les Mobeds pleins d’intelligence et qui cherchent la vraie voie, les héros pleins de hauteur qui se groupent autour du roi, se trouvent tous à la cour, ou, s’ils sont loin de toi, te sont dévoués.
 >
