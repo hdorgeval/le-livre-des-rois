@@ -173,7 +173,7 @@ Le roi du monde entendit ces paroles, etse repentit à l’instant de ses pensé
 Il s’adressa àDieu, disant :
 
 > Ô Créateur tout-puissant, maître du sort !
-> si mon cœur se détourne jamais de la justice,,que je cesse d’occuper le trône des rois ! »
+> si mon cœur se détourne jamais de la justice, que je cesse d’occuper le trône des rois ! »
 
 La femme fortunée, pure et pieuse, passa encore une fois sa main sur la vache et se mit à l’œuvre en invoquant le nom de Dieu et disant :
 
