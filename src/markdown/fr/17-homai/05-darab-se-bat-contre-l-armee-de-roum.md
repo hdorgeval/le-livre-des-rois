@@ -1,5 +1,5 @@
 ---
-lastUpdate: '2021-12-19'
+lastUpdate: '2021-12-31'
 lang: 'fr'
 status: 'draft'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
@@ -31,7 +31,7 @@ Il continua à frapper comme un lion, un crocodile dans la main, un dragon sous 
 
 Son ambition, d’autre guide que son épée.
 
-Il revint victorieux auprès du chef de l’armée qui portait haut la tête et fut couvert de bénédictions par Beschnewad, qui lui dit :
+Il revint victorieux auprès du chef de l’armée qui portait haut la tête et fut couvert de bénédictions par Reschnewad, qui lui dit :
 
 > Puisse l’armée de la reine R n’être jamais privée de toi !
 >
@@ -46,7 +46,7 @@ Les braves de l’Iran se précipitèrent vaillamment, comme des lions, sur ses 
 Darab tua, parmi les
 Ç héros, quarante évêques et revint tenant en main une croix qu’il avait prise.
 
-Beschnewad vit ces hauts faits étonnants et le cœur du Pehlewan bondit de joie ; il le bénit, lui fit de grandes louanges et le couvrit de marques d’amitié encore plus que de bénédictions.
+Reschnewad vit ces hauts faits étonnants et le cœur du Pehlewan bondit de joie ; il le bénit, lui fit de grandes louanges et le couvrit de marques d’amitié encore plus que de bénédictions.
 
 La nuit arriva, le monde devint couleur de bitume et ils renoncèrent tous à continuer le combat.
 
@@ -56,7 +56,7 @@ Il envoya quelqu’un auprès de Darab avec ce message :
 
 > Ô homme au cœur de lion, toujours secourable, vois ce qui te plaît et ce, qui peut t’être utile parmi ces trésors ; garde ce que tu en désires et distribue le reste selon l’impulsion de ton cœur ; distribue tout ce qui ne te convient pas, ô toi qui es plus illustre que n’était le maître de Raksch ! »
 
-Darab fut heureux de ce message ; il choisit une lance, à cause de l’honneur et renvoya tout le reste à Beschnewad en lui faisant dire : Puisses-tu être content et victorieux ! »
+Darab fut heureux de ce message ; il choisit une lance, à cause de l’honneur et renvoya tout le reste à Reschnewad en lui faisant dire : Puisses-tu être content et victorieux ! »
 
 Lorsque la face du soleil eut fait place aux ténèbres du côté du couchant, que le ciel eut revêtu sa robe de brocart noir et qu’une garde de la nuit sombre fut passée, Reschnewad fit traverser par des rondes toute la plaine ; les, cris des sentinelles éclataient comme des tremblement de terre,ret les lions V.
 
@@ -70,7 +70,7 @@ Ils rallumèrent le feu du combat avec leur épée tranchante et brûlèrent tou
 
 Il s’éleva un cri de détresse parmi les Roumis quittant cette contrée qui charmait les âmes ; cette guerre rendit le monde étroit pour le Kaïsar et la joue de ses grands pâlit.
 
-Un envoyé arriva auprès de Beschnewad, disant :
+Un envoyé arriva auprès de Reschnewad, disant :
 
 > Puisse la reine, qui aime la justice, ne pas s’écarter de ce qui est juste !
 >
