@@ -23,7 +23,7 @@ Il arriva que, dans ce temps, Kesra sortit de Madaïn pour aller à la chasse ; 
 
 Buzurdjmihr se tenait avec le roi, tant pour faire son service que par affection et Kesra arriva du désert dans une prairie où il vit des arbres, de l’herbe, de l’eau et de l’ombre.
 
-Le roi, fatigué ,i descendit de cheval pour se reposer de la chaleur de la route ; il ne vit aucun de ses serviteurs, il ne restait avec lui que ce beau jeune homme,-il s’endormit dans ce lieu ombragé, ayant placé sa tête amisalement sur la poitrine de Le roi sage portait toujours un bracelet de pierreries et ce fort bracelet se détacha de son bras et tomba à côté du chevet de la fortune.
+Le roi, fatigué ,i descendit de cheval pour se reposer de la chaleur de la route ; il ne vit aucun de ses serviteurs, il ne restait avec lui que ce beau jeune homme, il s’endormit dans ce lieu ombragé, ayant placé sa tête amisalement sur la poitrine de Le roi sage portait toujours un bracelet de pierreries et ce fort bracelet se détacha de son bras et tomba à côté du chevet de la fortune.
 
 Un oiseau noir descendit des nuages, vola jusqu’auprès du roi couché, regarda, vit le bracelet et déchira le lien qui retenait les pierreries.
 
