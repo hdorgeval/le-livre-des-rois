@@ -1809,6 +1809,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/,-il /g, ', il '),
     (content: string) => content.replace(/,-ils /g, ', ils '),
     (content: string) => content.replace(/ , /g, ', '),
+    (content: string) => content.replace(/ le des\./g, ' le dos.'),
+    (content: string) => content.replace(/ le des,/g, ' le dos,'),
   ].forEach((format) => {
     result = format(result);
   });
