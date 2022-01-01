@@ -1,7 +1,7 @@
 ---
-lastUpdate: '2021-12-31'
+lastUpdate: '2022-01-01'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 027
@@ -9,7 +9,20 @@ reign: 'Homaï'
 reign-slug: 'regne-de-homai'
 episode-slug: 'darab-se-bat-contre-l-armee-de-roum'
 title: "Darab se bat contre l'armée de Roum | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'âmes',
+    'Darab',
+    'Iran',
+    'Kaïsar',
+    'Pehlewan',
+    'Raksch',
+    'Reschnewad',
+    'Roum',
+    'Roumis',
+    'Sipehbed',
+    'tribut',
+  ]
 order: '005'
 ---
 
