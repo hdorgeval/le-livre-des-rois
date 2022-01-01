@@ -14,7 +14,7 @@ export default () => (
       <div className="container text-light">
         <p>
           Ce livre est le passé mythique et historique de l&apos;empire Perse depuis la création du
-          monde jusqu&apos;à la conquête par les Musulmans au 17ème siècle.
+          monde jusqu&apos;à la conquête par les Musulmans au 7ème siècle.
         </p>
         <p>
           Il a fallu plus de 30 ans et près de 120 000 vers au poète Perse{' '}
