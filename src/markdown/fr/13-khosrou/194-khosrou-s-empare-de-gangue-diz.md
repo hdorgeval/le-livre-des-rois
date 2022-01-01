@@ -68,7 +68,7 @@ Afrasiab apprit aussitôt de quel côté le mur de la ville s’écroulait ; il 
 Toute une
 9
 
-9h armée de Turcs, semblable à une montagne, se jeta sur la brèche en bataillons serrés,-ils combattirent comme des lions et une immense clameur s’éleva des deux côtés ; les cavaliers Turcs tremblaient comme les feuilles du saule et désespéraient du salut de leur pays.
+9h armée de Turcs, semblable à une montagne, se jeta sur la brèche en bataillons serrés, ils combattirent comme des lions et une immense clameur s’éleva des deux côtés ; les cavaliers Turcs tremblaient comme les feuilles du saule et désespéraient du salut de leur pays.
 
 Alors le roi ordonna à Rustem de faire mettre pied à terre à tous ceux qui portaient des lances et de les faire avancer contre la brèche ; un grand nombre de héros illustres. avides de combats, armés de carquois, d’épées, de flèches et de haches d’armes se tinrent à cheval derrière Rustem, le glorieux ; le vaillant roi lui-même les dirigeait au plus fort de la lutte.
 
