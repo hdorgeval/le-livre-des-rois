@@ -1,7 +1,7 @@
 ---
-lastUpdate: '2021-12-28'
+lastUpdate: '2022-01-01'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 401
@@ -24,6 +24,7 @@ tags:
     'Merve',
     'Nakhscheb',
     'Oxus',
+    'Prince',
     'Sipehdar',
     'Souri',
   ]
