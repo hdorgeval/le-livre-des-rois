@@ -85,7 +85,9 @@ D’abord je porte au roi les salutations du chef de l’armée de Touran, au c�
 >
 > Suppose que la fortune qui change t’abandonne dans la bataille : alors le sort t’accablera au-delà de tout ce que tu as pu craindre et un autre que toi profitera de ta peine.
 >
-> Et si tu dis : Je prendrai le pays des Turcs et la Chine, je ferai écrouler le ciel sur la terre, j’exterminerai cette cour avec l’épée et Afrasiab tombera dans ma main, ne crois pas que cela soit dans l’avenir, car celui-là ne sera jamais broyé, qui n’est pas destiné à périr.
+> Et si tu dis :
+
+> Je prendrai le pays des Turcs et la Chine, je ferai écrouler le ciel sur la terre, j’exterminerai cette cour avec l’épée et Afrasiab tombera dans ma main, ne crois pas que cela soit dans l’avenir, car celui-là ne sera jamais broyé, qui n’est pas destiné à périr.
 >
 > Je suis le petit-fils de Zadschem, le plus grand des rois, je suis de la race de Feridoun et de Djemschid, je possède la sagesse et la dignité que Dieu donne aux rois, je suis comme le Serosch et j’ai des ailes comme lui.
 >
