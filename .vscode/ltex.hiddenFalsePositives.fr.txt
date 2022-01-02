@@ -276,3 +276,4 @@
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QQuand les héros le virent, ils furent troublés et lancèrent contre lui une masse de troupes ; ces cavaliers l'entourèrent ; le lion furieux était fatigué par ses blessures ; son destrier, affaibli par les pointes des flèches qui le frappaient, tomba par terre épuisé.\\E$"}
 {"rule":"SUBJ_SUBOR","sentence":"^\\QIl faut que quelqu'un entre sous cette voûte pour voir qui y est couché et savoir qui est alarmé pour sa vie. »\\E$"}
 {"rule":"SUBJ_SUBOR","sentence":"^\\QIl faut que quelqu'un entre sous cette voûte pour voir qui y est couché et savoir qui est alarmé pour sa vie.\\E$"}
+{"rule":"A_INFINITIF","sentence":"^\\QAucun roi comparable à Kesra sur son trône d'ivoire n'a placé depuis lui la couronne sur la tête et personne n'a souvenir d'un roi aussi grand dans la guerre et dans les fêtes, aussi maître de ses passions et aussi juste.\\E$"}
