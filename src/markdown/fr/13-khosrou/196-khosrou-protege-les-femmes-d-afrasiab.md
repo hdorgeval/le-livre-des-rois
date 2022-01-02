@@ -75,7 +75,7 @@ Elles lui rendirent. hommage dans leur douleur et la reine lui dit :
 >
 > Tu serais venu ici heureux et pour être fêté ; tu serais venu l’allié et le bienvenu des princes ; comme roi et maître de ce pays, tu aurais placé le pied sur le trône de ton grand-père et Siawusch n’aurait pas été tué par la folie d’Afrasiab.
 >
-> Et pourtant c’est ce. qu’a amené la rotation du soleil et de la lune ; c’est ce qu’a fait Afrasiab, issu d’une mauvaise race, qui ne doit pas compter, même en songe,sur ton pardon.
+> Et pourtant c’est ce qu’a amené la rotation du soleil et de la lune ; c’est ce qu’a fait Afrasiab, issu d’une mauvaise race, qui ne doit pas compter, même en songe,sur ton pardon.
 >
 > Je lui ai donné des conseils, mais il n’en a pas profité ; il a follement détourné sa tête de mes avis.
 >
