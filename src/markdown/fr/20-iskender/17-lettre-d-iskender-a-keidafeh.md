@@ -41,7 +41,7 @@ Et mon pouvoir, mon armée et mon trésor impérial me rendent supérieure à eu
 
 Moi j’obéirais à uanaîsar, j’aurais peur de ses menaces et j’en tremblerais !
 
-Il y a devant ma porte des milliers de mille hommes de guerre et à la tête de chaque centaine se trouve un roi ; si j’appelais tous mes sujets, il ne resterait pas de place dans ce. pays pour s’y asseoir ; et quand ils sortent de mes frontières pour guerroyer, il y a devant chacun des grands un trésor de butin.
+Il y a devant ma porte des milliers de mille hommes de guerre et à la tête de chaque centaine se trouve un roi ; si j’appelais tous mes sujets, il ne resterait pas de place dans ce pays pour s’y asseoir ; et quand ils sortent de mes frontières pour guerroyer, il y a devant chacun des grands un trésor de butin.
 
 Pourquoi prononces-tu des paroles aussi excessives ?
 
