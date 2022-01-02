@@ -100,7 +100,7 @@ Afrasiab sourit en voyant disparaître la balle ; et quand les grands furent rev
 
 Le roi dit :
 
-> Tel devrait être quiconque a été revêtu par Dieu du pouvoir royal ,-et je reconnais que la beauté, la bonne mine, la gloire et l’adresse de Siawusch passent ce qu’en publie la renommée. »
+> Tel devrait être quiconque a été revêtu par Dieu du pouvoir royal , et je reconnais que la beauté, la bonne mine, la gloire et l’adresse de Siawusch passent ce qu’en publie la renommée. »
 
 On plaça un trône d’un côté du Meïdan et le roi alla s’y asseoir ; Siawusch y monta à côté de lui et le roi se réjouit grandement à son aspect.
 
