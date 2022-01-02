@@ -1818,6 +1818,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/A ces /g, 'À ces '),
     (content: string) => content.replace(/A une /g, 'À une '),
     (content: string) => content.replace(/A la fin/g, 'À la fin'),
+    (content: string) => content.replace(/ souillaient /g, ' soufflaient '),
   ].forEach((format) => {
     result = format(result);
   });
