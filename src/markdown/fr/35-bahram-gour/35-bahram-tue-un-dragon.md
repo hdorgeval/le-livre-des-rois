@@ -66,7 +66,7 @@ ce dragon les émut vivement et ils dirent à Bahram :
 
 Le vaillant Bahram dit aux Iraniens :
 
-> Il faut confier sa vie au Distributeur de la justice ; si mon temps doit venir par ce. dragon, je ne puis ni le prolongerai l’abréger par ma bravoure. »
+> Il faut confier sa vie au Distributeur de la justice ; si mon temps doit venir par ce dragon, je ne puis ni le prolongerai l’abréger par ma bravoure. »
 
 Il banda son arc et choisit des flèches dont la pointe était enduite de poison dissous dans du lait ; il fit pleuvoir des traits sur le dragon, l’attaquant à droite et à gauche, comme on fait en combattant un cavalier ; il lui perça la bouche avec les pointes d’acier et tout le couchant fut illuminé par le poison que vomissait le dragon ; ensuite Bahram le frappa à la tête d’une flèche à quadruple bois et le sang et le poison s’échappèrent de sa poitrine.
 
