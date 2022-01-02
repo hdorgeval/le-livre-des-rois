@@ -1,7 +1,7 @@
 ---
-lastUpdate: '2021-09-07'
+lastUpdate: '2022-01-02'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome V - livre des rois - P. 030
@@ -9,7 +9,20 @@ reign: 'Homaï'
 reign-slug: 'regne-de-homai'
 episode-slug: 'homai-reconnait-son-fils'
 title: 'Homaï reconnait son fils | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Darab',
+    'Dieu',
+    'Euphrate',
+    'Homaï',
+    'Mobeds',
+    'musc',
+    'Reschnewad',
+    'Sedeh',
+    'Sipehbed',
+    'Zendavesta',
+  ]
 order: '006'
 ---
 
@@ -29,18 +42,15 @@ Reschnewad leur dit :
 
 > Puissiez-vous être victorieux et toujours heureux !
 >
-> Personne dans le monde n’a’vu une merveille pareille ni n’en a entendu parler par les Mobeds. »
+> Personne dans le monde n’a’vu une merveille pareille ni n’en a entendu parler par les Mobeds.
 
 Cet homme à l’âme pieuse écrivit une lettre à Homaï sur Darab, sur l’orage, sur le lieu où Darab avait dormi et sur ses prouesses dans la dernière bataille ; il raconta tout ce qu’il avait entendu du blanchisseur, l’histoire de la boîte et des joyaux de toute espèce, la voix qui avait frappé ses oreilles et l’inquiétude que ce bruit lui avait donnée et comment la voûte s’était écroulée sous la tempête, aussitôt que Darab était monté à cheval.
 
 Il raconta tout cela dans la lettre et expédia un messager rapide comme le vent, à qui il remit le joyau rouge, disant :
 
-> Il faut que tu te fasses le compagnon du vent. »
+> Il faut que tu te fasses le compagnon du vent.
 
-’
-Le messager partit comme le vent, porta à Homaï le joyau rouge, remit la lettre à la reine, maîtresse à.
-
-Du monde et répéta ce qu’il avait entendu des lèvres de Reschnewad.
+Le messager partit comme le vent, porta à Homaï le joyau rouge, remit la lettre à la reine, maîtresse du monde et répéta ce qu’il avait entendu des lèvres de Reschnewad.
 
 Elle lut la lettre, elle vit le joyau et les larmes coulèrent de ses cils sur ses joues.
 
@@ -56,10 +66,10 @@ Elle dit au messager en pleurant :
 >
 > Dieu m’avait donné un fils et je ne l’ai pas reconnu ; je l’ai jeté dans les eaux de l’Euphrate, ayant lié autour de son bras ce joyau.
 >
-> Le fils était. maltraité dès qu’il n’avait plus de père, maintenant Dieu me le rend avec un nom glorieux acquis sur les traces de Reschnewad. »
+> Le fils était maltraité dès qu’il n’avait plus de père, maintenant Dieu me le rend avec un nom glorieux acquis sur les traces de Reschnewad.
 
 On versa sur le peuple tout un trésor de pièces d’or, on mêla des pierreries à du vin et du musc et on fit l’aumône à tous ceux qui étaient dans le besoin.
 
 La semaine après, Homaï ouvrit un trésor d’argent et le répartit parmi tous les endroits où elle savait qu’il y avait un temple de feu, ou seulement un Zendavesta et un lieu pour célébrer la fête de Sedeh ; elle répandit ses largesses sur toutes les provinces.
 
-Le dixième jour, de grand matin, le Sipehbed arriva auprès de la reine, et, avec lui, les grands etDarab ; mais Reschnewad et Darab ne dirent rien à personne de leur secret.
+Le dixième jour, de grand matin, le Sipehbed arriva auprès de la reine, et, avec lui, les grands et Darab ; mais Reschnewad et Darab ne dirent rien à personne de leur secret.
