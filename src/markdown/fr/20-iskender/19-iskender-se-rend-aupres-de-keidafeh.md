@@ -47,7 +47,7 @@ Elle envoya chercher le messager dans son palais, le fit asseoir sur le siège d
 
 Elle lui fit préparer une demeure somptueuse et lui envoya de la nourriture de toute espèce, des vêtements et des tapis.
 
-Il se reposa cette nuit,-et le lendemain de grand matin, il se rendit à la cour de la reine pour lui faire visite.
+Il se reposa cette nuit, et le lendemain de grand matin, il se rendit à la cour de la reine pour lui faire visite.
 
 Les serviteurs levèrent le rideau et le laissèrent passer à cheval par la grande porte.
 
