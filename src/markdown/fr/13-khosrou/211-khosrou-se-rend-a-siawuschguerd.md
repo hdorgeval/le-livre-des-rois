@@ -40,7 +40,7 @@ Ensuite, il fit faire tous les préparatifs de départ et lorsque les barques fu
 
 Ployer les voiles et de s’avancer sur les eaux sans fond.
 
-Les vents qui souillaient étaient si vifs que cette mer, pour le passage de laquelle il fallait ordinairement un au, fut traversée en sept mois par le roi et l’armée, sans qu’une manche eût été mouillée par l’effet d’un vent contraire.
+Les vents qui soufflaient étaient si vifs que cette mer, pour le passage de laquelle il fallait ordinairement un au, fut traversée en sept mois par le roi et l’armée, sans qu’une manche eût été mouillée par l’effet d’un vent contraire.
 
 Le roi fit débarquer l’armée et attacher les navires ; il regarda la plaine, s’avança et frotta ses joues contre la terre, en faisant sa prière à Dieu le très-saint.
 
