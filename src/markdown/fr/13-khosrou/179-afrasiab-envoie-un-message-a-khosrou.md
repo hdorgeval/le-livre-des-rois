@@ -84,7 +84,7 @@ Quelques Iraniens étaient blessés et le combat était engagé. lorsque Schideh
 
 Son cœur se serra, il rappela ses braves du combat et dit aux Iraniens :
 
-> Envoyez un cavalier auprès du roi, selon les usages et les coutumes ,-et faites-lui dire qu’il est arrivé un brave, du nom de Schideh, qui porte au roi un message d’Afrasiab, le maître de la Chine, le père de la mère du roi de l’Iran. »
+> Envoyez un cavalier auprès du roi, selon les usages et les coutumes , et faites-lui dire qu’il est arrivé un brave, du nom de Schideh, qui porte au roi un message d’Afrasiab, le maître de la Chine, le père de la mère du roi de l’Iran. »
 
 Un cavalier quitta en toute hâte les avantpostes et courut auprès du roi de l’Iran, disant :
 
