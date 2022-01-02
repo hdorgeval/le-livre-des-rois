@@ -67,7 +67,7 @@ Quiconque voit la situation du Khosroês ne doit plus se fier à ce monde.
 
 Que l’Iran ne soit plus à tes yeux qu’un amas de ruines, qu’un repaire de léopards et de lions !
 
-Le chef de la race iranienne, le roi dont la puissance était sans égale meurt et l’Iran meurt avec lui ; les espérances de ses ennemis triomphent ; voilà tout ce. qui reste de défenseurs à celui qui accueillit jadis les plaintes de l’armée.
+Le chef de la race iranienne, le roi dont la puissance était sans égale meurt et l’Iran meurt avec lui ; les espérances de ses ennemis triomphent ; voilà tout ce qui reste de défenseurs à celui qui accueillit jadis les plaintes de l’armée.
 
 La faute en est au grand berger, si les loups se glissent aujourd’hui à travers les brèches.
 
