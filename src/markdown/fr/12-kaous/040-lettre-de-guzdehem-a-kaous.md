@@ -51,7 +51,7 @@ Aussitôt que Sohrab fut parti, le vieux Guzdehem appela un scribe et l’ayant 
 >
 > Nous n’essayerons pas de résister à ce guerrier, à sa massue, à ses mains et à sa valeur.
 >
-> Crois que la fortune des braves a baissé, et que le pouvoir de Sohrab s’élève au-dessus du ciel.
+> Crois que la fortune des braves a baissé et que le pouvoir de Sohrab s’élève au-dessus du ciel.
 >
 > Nous préparerons cette nuit nos bagages et nous nous dirigerons vers ton armée.
 >
