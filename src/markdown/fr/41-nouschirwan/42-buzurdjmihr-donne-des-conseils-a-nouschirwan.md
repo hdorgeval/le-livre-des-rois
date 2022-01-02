@@ -175,7 +175,7 @@ Il répondit :
 
 > Les mauvaises actions sont l’ennemi de l’esprit serein et de la raison. »
 
-Le distributeur de la justice demanda au sage ce. qui valait le mieux, l’instruction ou la naissance.
+Le distributeur de la justice demanda au sage ce qui valait le mieux, l’instruction ou la naissance.
 
 Son guide répondit :
 
