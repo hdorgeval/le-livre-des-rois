@@ -36,7 +36,7 @@ Guschasp, homme éloquent et qui savait écrire, dit :
 > Nous ne voulons plus sur le trône un homme de cette race ; nous nous plaignons encore de lui à Dieu sur sa poussière.
 >
 > Bahram, qui perte haut la tête, est son fils ; il hérite de son es-
-;sence, de son cœur, de sa volonté, de sa famille, et il ne parle que de Mondhir.
+;sence, de son cœur, de sa volonté, de sa famille et il ne parle que de Mondhir.
 >
 > Nous ne voulons pas sur le trône un homme injuste. »
 
