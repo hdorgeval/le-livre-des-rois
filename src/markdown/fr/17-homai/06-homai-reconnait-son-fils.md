@@ -17,13 +17,13 @@ order: '006'
 
 # Homaï reconnait son fils
 
-Darab, couvert de louanges,-et Reschnewad s’en revinrent joyeusement.
+Darab, couvert de louanges, et Reschnewad s’en revinrent joyeusement.
 
 A une des stations, ils arrivèrent à cette voûte en ruines dans laquelle Reschnewad avait trouvé Darab endormi ; la femme du blanchisseur et son mari, qui apportaient le joyau, s’y étaient rendus ; ils tremblaient tous les deux, de peur d’être traités durement.
 
 Reschnewad les appela sur le champ et ils se présentèrent en invoquant la protection de Dieu.
 
-Quand il vit la femme et son mari, il les questionna en détail ; ils rappelèrent leurs souvenirs et racontèrent toute l’histoire de la boîte, de la pierre non travaillée ; ils dirent la peine que l’éducation du nourrisson leur avait donnée, leurs soucis et tout ce. que le sort avait amené.
+Quand il vit la femme et son mari, il les questionna en détail ; ils rappelèrent leurs souvenirs et racontèrent toute l’histoire de la boîte, de la pierre non travaillée ; ils dirent la peine que l’éducation du nourrisson leur avait donnée, leurs soucis et tout ce que le sort avait amené.
 
 Reschnewad leur dit :
 
