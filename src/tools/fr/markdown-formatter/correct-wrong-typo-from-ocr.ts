@@ -1813,6 +1813,11 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ le des,/g, ' le dos,'),
     (content: string) => content.replace(/-et /g, ' et '),
     (content: string) => content.replace(/ ce\. /g, ' ce '),
+    (content: string) => content.replace(/A cette /g, 'À cette '),
+    (content: string) => content.replace(/A cet /g, 'À cet '),
+    (content: string) => content.replace(/A ces /g, 'À ces '),
+    (content: string) => content.replace(/A une /g, 'À une '),
+    (content: string) => content.replace(/A la fin/g, 'À la fin'),
   ].forEach((format) => {
     result = format(result);
   });
