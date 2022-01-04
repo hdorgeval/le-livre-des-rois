@@ -11,6 +11,7 @@ export const favorites = [
   'cyprès',
   'farsang',
   'farsangs',
+  'grêle',
   'grenats',
   'haoudah',
   'haoudahs',
