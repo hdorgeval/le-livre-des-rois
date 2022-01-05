@@ -278,3 +278,6 @@
 {"rule":"SUBJ_SUBOR","sentence":"^\\QIl faut que quelqu'un entre sous cette voûte pour voir qui y est couché et savoir qui est alarmé pour sa vie.\\E$"}
 {"rule":"A_INFINITIF","sentence":"^\\QAucun roi comparable à Kesra sur son trône d'ivoire n'a placé depuis lui la couronne sur la tête et personne n'a souvenir d'un roi aussi grand dans la guerre et dans les fêtes, aussi maître de ses passions et aussi juste.\\E$"}
 {"rule":"TRAIT_UNION_INVERSION","sentence":"^\\QInformé que le trône, la guerre et les désirs de la vie n'étaient plus rien pour le noble monarque, Mahouï ordonna qu'à l'heure où tout repose on le précipitât du moulin dans la rivière.\\E$"}
+{"rule":"D_N","sentence":"^\\QHomme aux desseins criminels, pourquoi le Div a-t-il aveuglé tes yeux ?\\E$"}
+{"rule":"D_N","sentence":"^\\QTu te révoltes à l'instigation du Div et ton cœur s'écarte de la loi de Dieu souverain du monde.\\E$"}
+{"rule":"DEUX_D_ENTRE_EUX","sentence":"^\\QDe plus puissants que toi ont vécu en ce monde et jamais nul d'entre eux n'a formé de pareils projets.\\E$"}
