@@ -1,7 +1,7 @@
 ---
-lastUpdate: '2021-12-31'
+lastUpdate: '2022-01-05'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 379
@@ -15,6 +15,7 @@ tags:
     'Afrasiab',
     'âme',
     'Ardeschir',
+    'Ardjasp',
     'Bahman',
     'Bahram',
     'Barsam',
@@ -29,24 +30,24 @@ tags:
     'Dihkan',
     'Div',
     'Djemschid',
-    'Erdjasp',
     'Ferayin',
     'Feridoun',
+    'Firouz',
     'Guersiwez',
     'Gustehem',
+    'honte',
     'Hormuzd',
     'Iran',
     'Iranien',
-    'Iridj',
+    'Iredj',
     'Isfendiar',
     'Keï',
     'Keïanides',
-    'Khalian',
+    'Khakan',
     'Khan',
     'Kharrad',
-    'Khoschuewaz',
+    'Khoschnewaz',
     'Khosrou',
-    'Lage',
     'Lohrasp',
     'Madjin',
     'Mahouï',
@@ -65,7 +66,7 @@ tags:
     'Samarcande',
     'Sasan',
     'Sasanides',
-    'Schahrouî',
+    'Schahrouï',
     'Siawusch',
     'Souferaï',
     'Souri',
@@ -74,7 +75,7 @@ tags:
     'Turcs',
     'Yezdegird',
     'Zark',
-    'Zatrouî',
+    'Zarouï',
     'Zohak',
   ]
 order: '009'
@@ -90,13 +91,13 @@ Le funeste Mahouï, qui cherchait à se rendre indépendant, lui écrivit la let
 
 > Fils de Pehlewan, dont la fortune est sans atteinte, une expédition avantageuse s’offre à toi : le roi maître du monde est ici avec son armée, sa tiare, son trône et son diadème.
 >
-> Viens, cette couronne, ce trône seront à toi, à toi ses trésors et son parasol noir ; inspire-toi de la haine qui animait tes ancêtres et exerce ta vengeance contre cette famille. »
+> Viens, cette couronne, ce trône seront à toi, à toi ses trésors et son parasol noir ; inspire-toi de la haine qui animait tes ancêtres et exerce ta vengeance contre cette famille.
 
 Bijen lut cette lettre ; il réfléchit et voyant que le monde s’offrait à l’ambition de Mahouï, il demanda à son Destour :
 
 > Chef de mes conseillers véridiques, que penses-tu de cette affaire ?
 >
-> Si je conduis mon armée au secours de Mahouï, ce sera peut-être la ruine de ma puissance. »
+> Si je conduis mon armée au secours de Mahouï, ce sera peut-être la ruine de ma puissance.
 
 Le Destour répondit :
 
@@ -104,15 +105,17 @@ Le Destour répondit :
 >
 > Si tu fais la guerre à l’instigation de Souri, les hommes sérieux t’accuseront de légèreté.
 >
-> C’est à Barsam que tu dois confier le soin de mener au combat une armée auxiliaire. -Ce conseil est sage, reprit Dijon ; quant à moi, il ne convient pas que je m’éloigne. »
+> C’est à Barsam que tu dois confier le soin de mener au combat une armée auxiliaire.
+
+Bijen répondit :
+
+> Ce conseil est sage ; quant à moi, il ne convient pas que je m’éloigne.
 
 Il ordonna donc à Barsam de conduire sur Merve dix mille guerriers d’élite armés de khandjars et il lui confia la direction de cette guerre, dans l’espoir de conquérir le trône d’Iran.
 
 Cette armée brillante comme l’aile du faisan se rendit à Merve en une semaine.
 
-Pendant une nuit obscure, à l’heure où chante le coq, le bruit !
-
-Des tambours retentit dans les plaines.
+Pendant une nuit obscure, à l’heure où chante le coq, le bruit des tambours retentit dans les plaines.
 
 Le roi Yezdegird ignorait encore les perfides desseins de Mahouï Souri, lorsqu’on accourut lui dire :
 
@@ -120,13 +123,13 @@ Le roi Yezdegird ignorait encore les perfides desseins de Mahouï Souri, lorsqu�
 >
 > Mahouï affirme, que ce sont des Turcs : Qu’ordonne le roi ?
 >
-> Leur chef est le Khan souverain de la Chine et la terre est trop étroite pour son armée. »
+> Leur chef est le Khan souverain de la Chine et la terre est trop étroite pour son armée.
 
 Le roi tout troublé revêtit son armure et les deux partis marchèrent l’un contre l’autre.
 
-Après avoir organisé l’aileIdroite et l’aile gauche, Yezdegird fit avancer ses troupes sur une seule ligne et se plaça au centre, lance en main.
+Après avoir organisé l’aile droite et l’aile gauche, Yezdegird fit avancer ses troupes sur une seule ligne et se plaça au centre, lance en main.
 
-Des nuages de poussière obSCurcirent le monde.
+Des nuages de poussière obscurcirent le monde.
 
 Le roi, voyant la force et l’impétuosité des Turcs, porta la main à sa ceinture, tira son épée et se précipita comme un éléphant sur le front de bataille.
 
@@ -136,7 +139,7 @@ Dès la première charge qu’il fit sur les Turcs, le roi se vit abandonné de 
 
 Lorsque Mahouï eut reculé, le roi du monde comprit la ruse ourdie contre lui secrètement et vit que le but de Mahouï était de le laisser seul aux prises avec l’ennemi.
 
-C’est en vain qu’il déploya un t grand courage, fit des prodiges de valeur et d’audace et tua de sa main plusieurs chefs renommés ; voyant qu’il était réduit à l’extrémité, il prit la fuite.
+C’est en vain qu’il déploya un grand courage, fit des prodiges de valeur et d’audace et tua de sa main plusieurs chefs renommés ; voyant qu’il était réduit à l’extrémité, il prit la fuite.
 
 Serré de près par une troupe de Turcs, il s’échappa tenant à la main un poignard caboulien et s’enfuit, rapide comme l’éclair qui déchire la nue.
 
@@ -144,36 +147,41 @@ Apercevant un moulin sur les bords de la rivière de Zark, il descendit de cheva
 
 Ceux-ci s’acharnaient à sa poursuite et tout le pays de Zark était plein de tumulte.
 
-Le roi avait abandonné son cheval aux brides dorées, sa masse d’armes et son sabre vu. 3A
+Le roi avait abandonné son cheval aux brides dorées, sa masse d’armes et son sabre au fourreau d’or ; taudis que les Turcs, ardents à le chercher, se précipitaient sur son destrier et sur ses armes, le roi pénétra dans la chambre du moulin et s’assit sur une botte d’herbes sèches.
 
-Au fourreau d’or ; taudis que les Turcs, ardents à le chercher, se précipitaient sur son destrier et sur ses armes, le roi pénétra dans la chambre du moulin et s’assit sur une botte d’herbes sèches, Telle est la loi de ce monde trompeur : quand on a gravi ses sommets, on trouve derrière une pente rapide.
+Telle est la loi de ce monde trompeur : quand on a gravi ses sommets, on trouve derrière une pente rapide.
 
-Tant que le roi était protégé de la fortune, son trône s’élevait au-dessus de la voûte du. ciel et maintenant il n’a pour abri qu’un moulin ; au lieu de miel il ne trouve que du poison.
+Tant que le roi était protégé de la fortune, son trône s’élevait au-dessus de la voûte du ciel et maintenant il n’a pour abri qu’un moulin ; au lieu de miel il ne trouve que du poison.
 
 Pourquoi donc attacher ton cœur à cette demeure décevante où le signal du départ frappe sans relâche tes oreilles et où retentissent ces paroles :
 
-> Fais tes apprêts, la dalle du tombeau est le seul trône qui t’est réserve ? »
+> Fais tes apprêts, la dalle du tombeau est le seul trône qui te soit réservé.
 
 Épuisé de faim, les yeux pleins de larmes, le roi demeura dans cet état jusqu’au lever du soleil.
 
 En ce moment le meunier ouvrit la porte du moulin, portant sur ses épaules une charge de fourrages : c’était un homme de basse naissance, qui, malgré son nom de Khosrou, ne possédait ni trône, ni trésor, ni couronne, ni puissance ; il vivait du produit de son moulin et n’exerçait pas d’autre métier.
-, Quand il vit ce guerrier à la stature de cyprès, assis humblement par terre, la tête ornée de la couronne royale, le corps couvert d’une robe en brocart de Chine, quand il vit ce héros aux yeux de gazelle, à l’encolure de lion, dont ses regards ne pouvaient se détacher, quand il aperçut les brodequins dorés dont ses pieds étaient chaussés, sa tunique aux manches brodées d’or et de perles, le meunier demeura stupéfait.
+
+Quand il vit ce guerrier à la stature de cyprès, assis humblement par terre, la tête ornée de la couronne royale, le corps couvert d’une robe en brocart de Chine, quand il vit ce héros aux yeux de gazelle, à l’encolure de lion, dont ses regards ne pouvaient se détacher, quand il aperçut les brodequins dorés dont ses pieds étaient chaussés, sa tunique aux manches brodées d’or et de perles, le meunier demeura stupéfait.
 
 Dans son admiration, il invoqua le nom de Dieu et dit :
 
-> Ô roi dont la face resplendit comme le soleil, apprends-moi comment tu escutré dans ce moulin.
+> Ô roi dont la face resplendit comme le soleil, apprends-moi comment tu es entré dans ce moulin.
 >
 > Est-ce un séjour digne de toi qu’un moulin plein de grains, de fourrage et de poussière ?
 >
-> Qui es-tu, toi dont la taille et le visage ont une majesté telle que le monde n’a rien vu de pareniesuis Iranien, répondit le roi et j’ai échappé par la fuite à l’armée du Touran. »
+> Qui es-tu, toi dont la taille et le visage ont une majesté telle que le monde n’a rien vu de pareil ?
 
-Le meunier reprit d’un ton infus :
+Le roi répondit :
 
-> La pauvreté est mon unique compagne ; si tu peux te contenter de pain d’orge et de l’humble cresson. né au bord du ruisseau, je le l’otïre volontiers ; c’est tout ce que je possède et l’homme misérable en est réduit toujours aux lamentations. »
+> Je suis Iranien et j’ai échappé par la fuite à l’armée du Touran.
+
+Le meunier reprit d’un ton confus :
+
+> La pauvreté est mon unique compagne ; si tu peux te contenter de pain d’orge et de l’humble cresson né au bord du ruisseau, je le l'offre volontiers ; c’est tout ce que je possède et l’homme misérable en est réduit toujours aux lamentations.
 
 Depuis trois jours qu’il se battait, le roi n’avait goûté ni aliments ni sommeil ; il dit au meunier :
 
-> Apporte-moi ce que tu as, je me contenterai d’une telle nourriture, a pourvu que j’aie le Barsom. »
+> Apporte-moi ce que tu as, je me contenterai d’une telle nourriture, pourvu que j’aie le Barsom.
 
 Le pauvre meunier, après avoir placé devant le roi du lait aigri, du cresson et un pain d’orge, courut à la recherche du Barsom.
 
@@ -181,49 +189,45 @@ Il se rendit au lieu où était l’oratoire et fit prévenir aussitôt le chef 
 
 Or Mahouï avait envoyé des émissaires de tous côtés à la poursuite du roi.
 
-Le chef du vil-
-3h.
+Le chef du village, s’adressant au meunier, lui dit :
 
-Lage, s’adressant au meunier, lui dit :
-
-> Brave homme, pour qui me fais-tu cette demande ? »
+> Brave homme, pour qui me fais-tu cette demande ?
 
 Le meunier répondit :
 
-> Il y a dans mon moulin un guerrier qui est assis sur un lit d’herbes, sataille est majestueuse comme le cyprès, son visage brillant comme le soleil ; sous l’arc de ses sourcils ses yeux sont empreints de tristesse, des soupirs s’exhalent de ses lèvres et le chagrin oppresse sa poitrine.
+> Il y a dans mon moulin un guerrier qui est assis sur un lit d’herbes, sa taille est majestueuse comme le cyprès, son visage brillant comme le soleil ; sous l’arc de ses sourcils ses yeux sont empreints de tristesse, des soupirs s’exhalent de ses lèvres et le chagrin oppresse sa poitrine.
 >
 > Je lui ai servi un vieux morceau de lait aigri et un pain d’orge pour toute ration, mais il réclame le Barsom afin de réciter la prière.
 >
-> Tout cela doit vraiment exciter ta surprise. »
+> Tout cela doit vraiment exciter ta surprise.
 
 Le chef répondit :
 
-> Pars aussitôt et révèle ces choses à Mahouï Souri,
-> de peur que cet homme vil et de naissance impure ne manifeste ses instincts pervers s’il est informé par d’autres. »
+> Pars aussitôt et révèle ces choses à Mahouï Souri, de peur que cet homme vil et de naissance impure ne manifeste ses instincts pervers s’il est informé par d’autres.
 
-Et aussitôt il confia le meunier à un homme sur qui le mena chez Mahouï.
+Et aussitôt il confia le meunier à un homme sûr qui le mena chez Mahouï.
 
 Ce dernier dit à l’artisan sans ressources :
 
 > Pour qui demandais-tu le Barsom ?
 >
-> Dis-moi la vérité. »
+> Dis-moi la vérité.
 
 Le meunier répondit tout tremblant :
 
 > Je rentrais ma charge lorsque, en ouvrant brusquement la porte du moulin, j’ai vu apparaître devant moi un soleil, un homme dont les yeux ressemblaient à ceux du chevreuil effrayé, dont les cheveux étaient noirs comme la seconde veille de la nuit : il illuminait le moulin comme un soleil ; assis sur le fourrage, il mangeait du pain sec.
 >
-> Que ceux qui n’ont pas vu .la majesté de Dieu s’en informent auprès du meunier.
+> Que ceux qui n’ont pas vu la majesté de Dieu s’en informent auprès du meunier.
 >
-> Un diadème de perles ornait son front, une tunique en brocart de Chine brillait sur sa poitrine ; on aurait dit le printemps dans le ciel et jamais Dihkan n’a planté un cyprès aussi majestueux. »
+> Un diadème de perles ornait son front, une tunique en brocart de Chine brillait sur sa poitrine ; on aurait dit le printemps dans le ciel et jamais Dihkan n’a planté un cyprès aussi majestueux.
 
 Mahouï médita ces paroles, il comprit que l’inconnu ne pouvait être que Yezdegird.
 
-Va, dit-il au meunier, pars et tranche la tête de cet homme ; sinon, c’est ta tête qui tombera et je ne laisserai la vie à aucun des tiens. »
+Va, dit-il au meunier, pars et tranche la tête de cet homme ; sinon, c’est ta tête qui tombera et je ne laisserai la vie à aucun des tiens.
 
-À ces mots, les chefs, les grands personnages au cœur vigilant, tous ceux enfin qui se trouvaient réunis dans ce lieu furent transportés de colère ; les paroles se’pressaient sur leurs lèvres, les larmes roulaient dans leurs yeux.
+À ces mots, les chefs, les grands personnages au cœur vigilant, tous ceux enfin qui se trouvaient réunis dans ce lieu furent transportés de colère ; les paroles se pressaient sur leurs lèvres, les larmes roulaient dans leurs yeux.
 
-Un Mobed nommé Zatrouî, dont le cœur était soumis au joug de la raison, parla en ces termes à Mahouï :
+Un Mobed nommé Zarouï, dont le cœur était soumis au joug de la raison, parla en ces termes à Mahouï :
 
 > Homme aux desseins criminels, pourquoi le Div a-t-il aveuglé tes yeux ?
 >
@@ -233,7 +237,7 @@ Un Mobed nommé Zatrouî, dont le cœur était soumis au joug de la raison, parl
 >
 > N’offense pas le Créateur du monde, car tu en serais le premier puni ; tu laisserais à tes fils un champ dont le fruit serait amer et la moisson sanglante.
 >
-> Ton front serait bientôt humilié ; ta race marcherait nue dans le monde et tes enfants récolteraient inévitablement ce que tu as semé ; Ton crime porterait atteinte au culte de Dieu et les malédictions du trône et de la couronne retomberaient sur toi. »
+> Ton front serait bientôt humilié ; ta race marcherait nue dans le monde et tes enfants récolteraient inévitablement ce que tu as semé ; Ton crime porterait atteinte au culte de Dieu et les malédictions du trône et de la couronne retomberaient sur toi.
 
 Un homme pieux et fidèle adorateur de Dieu, dont la main n’avait jamais connu l’injustice, Hormuzd, fils de Kharrad, c’est ainsi qu’il se nommait, était au nombre des assistants ; il adressa ces paroles à Mahouï :
 
@@ -241,25 +245,23 @@ Un homme pieux et fidèle adorateur de Dieu, dont la main n’avait jamais connu
 >
 > Je vois les ténèbres obscurcir ton cœur et ta raison et les épines déchirer ton sein.
 >
-> Tu as la force sans l’intelligence et ton âme est débile ; tu veux étoutïer la flamme sous la fumée ; il semble que tu aspires à devenir l’opprobre du monde et que tu coures avec ardeur et passion à ta propre ruine.
+> Tu as la force sans l’intelligence et ton âme est débile ; tu veux étouffer la flamme sous la fumée ; il semble que tu aspires à devenir l’opprobre du monde et que tu coures avec ardeur et passion à ta propre ruine.
 >
-> Tu traîneras ici-bas une existence misérable et après tu mon tu auras pour séjour le feu de l’enfer. »
+> Tu traîneras ici-bas une existence misérable et après ta mort tu auras pour séjour le feu de l’enfer.
 
-Quand ce personnage se fut assis, Schahrouî se leva et dit à Mahouï :
+Quand ce personnage se fut assis, Schahrouï se leva et dit à Mahouï :
 
 > Pourquoi oser une pareille action ?
 >
-> Pourquoi combattre le roi des rois et faire alliance avec le Khalian et le maître de la Chine ?
+> Pourquoi combattre le roi des rois et faire alliance avec le Khakan et le maître de la Chine ?
 >
 > On a vu plus d’un héritier de cette famille royale dans l’abandon, mais nul n’a jamais attenté à sa vie.
 >
-> Puisque tu n’es qu’un sujet, ne verse pas le sang des rois, car les malédictions seraient sur ce toi jusqu’à la résurrection. »
+> Puisque tu n’es qu’un sujet, ne verse pas le sang des rois, car les malédictions seraient sur toi jusqu’à la résurrection.
 
-Ainsi parla Schahrouî et il s’assit en gémissant, le cœur gonflé de sang, les yeux remplis de larmes.
+Ainsi parla Schahrouï et il s’assit en gémissant, le cœur gonflé de sang, les yeux remplis de larmes.
 
-Quand il eut repris sa place, Mihrinousch se leva
-
-Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
+Quand il eut repris sa place, Mihrinousch se leva triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 
 > Homme méchant et de méchante race, toi qui n’obéis ni à la raison ni à la justice, le crocodile lui-même aurait horreur du sang des rois et le léopard n’oserait déchirer leurs membres ; es-tu donc plus impitoyable et plus cruel qu’une bête fauve, toi qui convoites le trône du roi ?
 >
@@ -269,34 +271,31 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 >
 > Tu sais comment le tyran Zohak reçut de la main de Feridoun le châtiment de son crime ; plus de mille ans s’étaient écoulés lorsqu’il fut atteint par ce vengeur.
 >
-> Tour, cet homme orgueilleux, avait donné la mort à Iridj ; mais Minoutchehr, héros issu du sang royal, se montra enfin et trancha victorieusement le nœud de ces iniquités.
+> Tour, cet homme orgueilleux, avait donné la mort à Iredj ; mais Minoutchehr, héros issu du sang royal, se montra enfin et trancha victorieusement le nœud de ces iniquités.
 >
 > En troisième lieu, lorsque Siawusch, de la race des Keïanides, prit malgré lui les armes et que, par les conseils de Guersiwez, Afrasiab, violant les lois de la raison et du cœur, égorgea le noble fils du roi, le monde eut horreur du meurtrier.
 >
-> Keï Khosrou, ce conquérant issu du sang de Siawusch, survinl et remplit le monde de tumulte ; armé d’un poignard, il fendit le corps de son aïeul et répandit l’effroi dans le cœur de ses ennemis.
+> Keï Khosrou, ce conquérant issu du sang de Siawusch, survint et remplit le monde de tumulte ; armé d’un poignard, il fendit le corps de son aïeul et répandit l’effroi dans le cœur de ses ennemis.
 >
-> Quatrièmement, rappelle-toi le châtiment d’Erdjasp, le meurtrier de Lohrasp : Isfendiar lui déclara la guerre et ne laissa pas longtemps son crime inexpié.
+> Quatrièmement, rappelle-toi le châtiment d’Ardjasp, le meurtrier de Lohrasp : Isfendiar lui déclara la guerre et ne laissa pas longtemps son crime inexpié.
 >
-> Cinquièmement, je citerai la vengeance d’Isfendiar : Rustem, qui l’avait égorgé sur le champ de bataille, mourut a son tour ; ce héros, splendeur du monde, disparut.
+> Cinquièmement, je citerai la vengeance d’Isfendiar : Rustem, qui l’avait égorgé sur le champ de bataille, mourut à son tour ; ce héros, splendeur du monde, disparut.
 >
 > N’oublie pas comment Bahman mit fin à la vie du fils de Rustem.
 >
-> La sixième vengeance est celle du grand roi F irons, qui périt sous les coups de Khoschuewaz : Souferaï, s’armant pour venger la mort du roi, foula sous ses pieds la tête du meurtrier.
+> La sixième vengeance est celle du grand roi Firouz, qui périt sous les coups de Khoschnewaz : Souferaï, s’armant pour venger la mort du roi, foula sous ses pieds la tête du meurtrier.
 >
 > La septième vengeance est celle du roi Hormuzd : quand Parwiz fut au comble de la puissance, il traita comme tu le sais Bendouï et Gustehem, car la sphère sublime ne s’arrête jamais dans ses évolutions ; maître du pouvoir, Parwiz mit fin à l’existence de ces traîtres.
 >
-> Ne considère donc pas la vengance comme une chose méprisable.
+> Ne considère donc pas la vengeance comme une chose méprisable.
 >
-> Le jour viendra aussi ou tu te repentiras
-> de tes pensées criminelles ; tes fils récolteront ce que tu auras semé et la destinée ne demeurera pas longtemps assoupie.
+> Le jour viendra aussi où tu te repentiras de tes pensées criminelles ; tes fils récolteront ce que tu auras semé et la destinée ne demeurera pas longtemps assoupie.
 >
 > Ne porte pas la main sur ces trésors, sur ces richesses et cette couronne abandonnée.
 >
 > Tu te révoltes à l’instigation du Div et ton cœur s’écarte de la loi de Dieu souverain du monde.
 >
-> Tu ne vois pas que le Div te séduit par l’appât d’un bien qui n’est pas fait pour toi : ne te livre pas corps et âme au feu de l’enfer ; n’ohscurcis pas
->
-> szoromo.’ l’éclat de la couronne qui illumine le monde.
+> Tu ne vois pas que le Div te séduit par l’appât d’un bien qui n’est pas fait pour toi : ne te livre pas corps et âme au feu de l’enfer ; n’obscurcis pas l’éclat de la couronne qui illumine le monde.
 >
 > Rassemble tes troupes dispersées et ne te détourne pas des promesses que tu as contractées.
 >
@@ -308,7 +307,7 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 >
 > Yezdegird, ce lion du combat, ce maître du trône, qui brille d’un éclat pareil à celui de la pleine lune, est l’unique héritier des Sasanides.
 >
-> Aucun cavalier ne s’aime avec autant d’ardeur pour la : guerre.
+> Aucun cavalier ne s’arme avec autant d’ardeur pour la guerre.
 >
 > Depuis Nouschirwan jusqu’à Ardeschir, ses ancêtres furent tous nobles et sages ; issu d’Ardeschir par huit générations, il est le souverain du monde et l’héritier de la couronne de Sasan : il a reçu de Dieu le diadème royal et tous ses ancêtres sont d’une origine illustre.
 >
@@ -324,13 +323,13 @@ Triste, accablé de douleur et d’un ton indigné, il dit à Mahouï :
 >
 > Tu es un malade et je suis le médecin, un médecin qui répand des larmes de sang.
 >
-> Puisque ton rang est inférieur à celui du plus humble des esclaves, ne forme pas dans ton cœur d’ambitieuses pensées, sacrifie ta haine au Dieu pur et ne demande la puissance qu’à ton propre mérite. »
+> Puisque ton rang est inférieur à celui du plus humble des esclaves, ne forme pas dans ton cœur d’ambitieuses pensées, sacrifie ta haine au Dieu pur et ne demande la puissance qu’à ton propre mérite.
 
-A Mais ce fils de pâtre avait le cœur plein de l’ambition du trône et les conseils des Mobeds lui furent à charge.
+Mais ce fils de pâtre avait le cœur plein de l’ambition du trône et les conseils des Mobeds lui furent à charge.
 
 Il en a toujours été ainsi et ce n’est pas chose nouvelle, car les caprices de la fortune n’ont pas de bornes.
 
-Elle exalte celui-ci jusqu’à la sphère sublime et plonge celui-là dans l’abjection, le mépris à : la douleur, sans avoir de tendresse pour le premier ni de haine contre le second.
+Elle exalte celui-ci jusqu’à la sphère sublime et plonge celui-là dans l’abjection, le mépris et la douleur, sans avoir de tendresse pour le premier ni de haine contre le second.
 
 Qui peut pénétrer les secrets du Créateur ?
 
@@ -340,20 +339,17 @@ La nuit sombre étant venue, Mahouï leur dit :
 
 > Hommes intelligents, il est temps de vous retirer.
 >
-> Je veux, pendant !
->
-> Nuit, délibérer de cette affaire avec mon fils et consulter tous ceux qui savent ; je vais, à cet effet, convoquer vingt hommes expérimentés qui font partie de l’armée ; tant que les choses seront ainsi, il n’y a pas lieu de répandre des larmes. »
+> Je veux, pendant la nuit, délibérer de cette affaire avec mon fils et consulter tous ceux qui savent ; je vais, à cet effet, convoquer vingt hommes expérimentés qui font partie de l’armée ; tant que les choses seront ainsi, il n’y a pas lieu de répandre des larmes.
 
 Les prudents Mobeds s’étant éloignés, les guerriers arrivèrent sur leurs traces.
 
-Mahouï
-s’assit avec ses confidents et leur demanda :
+Mahouï s’assit avec ses confidents et leur demanda :
 
 > Quel parti faut-il prendre en cette circonstance ?
 >
 > Si Yezdegird demeure vivant, des armées viendront de toutes parts à son secours ; mes projets secrets seront divulgués dans le monde ; petits et grands, tous les connaîtront.
 >
-> L’inimitié du roi sera la cause de ma ruine et je perdrai en même temps la vie et le pouvoir. »
+> L’inimitié du roi sera la cause de ma ruine et je perdrai en même temps la vie et le pouvoir.
 
 Un homme sage répondit alors à Mahouï :
 
@@ -361,12 +357,10 @@ Un homme sage répondit alors à Mahouï :
 >
 > Ou le roi d’Iran sera ton ennemi et il en résultera un dommage certain pour toi ; ou ta main versera son sang et Dieu se chargera de le venger ici-bas.
 >
-> De toutes parts je ne vois que peines, tourments et afflictions ; réfléchis donc mûrement à ce que tu dois faire. »
+> De toutes parts, je ne vois que peines, tourments et afflictions ; réfléchis donc mûrement à ce que tu dois faire.
 
 Mais le fils de Mahouï, prenant la parole, dit :
 
-> Ô mon père aux heureux desseins, puisque tu t’es déclaré son ennemi, dé barrasseloi de lui ; sinon, il nous attaquera avec
+> Ô mon père aux heureux desseins, puisque tu t’es déclaré son ennemi, débarrasse-toi de lui ; sinon, il nous attaquera avec toutes les forces du Madjin et de la Chine et rendra le monde étroit sous nos pas.
 >
-> toutes les forces du Madjin et de la Chine et rendra le monde étroit sous nos pas.
->
-> Ne considère pas cette affaire comme une chose futile ; puisque tu as l’avantage aujourd’hui, arrive résolument au but de tes vœux, car si les partisans du roi font de sa tunique royale un drapeau, leur armée te chassera de ce monde. »
+> Ne considère pas cette affaire comme une chose futile ; puisque tu as l’avantage aujourd’hui, arrive résolument au but de tes vœux, car si les partisans du roi font de sa tunique royale un drapeau, leur armée te chassera de ce monde.
