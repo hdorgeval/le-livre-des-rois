@@ -59,7 +59,7 @@ Le hennissement des chevaux et le l2 !
 
 Bruit des armées étaient tels que la plaine se réfugiait dans la montagne.
 
-Quand le vaillant Bahram vil cet état de choses, il tira son épée brillante et lit tout seul le tour de son armée, inspectant l’aile droite et l’aile gauche.
+Quand le vaillant Bahram vil cet état de choses, il tira son épée brillante et fit tout seul le tour de son armée, inspectant l’aile droite et l’aile gauche.
 
 Il dit à Yelan Sineh :
 
@@ -96,7 +96,7 @@ Il ne lui répondit pas, son cœur se remplit de sang et sa bouche de soupirs ; 
 
 > Va vers ce cavalier au cheval blanc ; quand il te verra, il s’avancera pour te combattre et toi ne t’enfuis pas pour n’avoir pas à te mordre les lèvres de honte. »
 
-Kou’t ayant entendu ces paroles, s’en retourna ; il partit si rapidement qu’il se lit le compagnon du vent.
+Kou’t ayant entendu ces paroles, s’en retourna ; il partit si rapidement qu’il se fit le compagnon du vent.
 
 Il courut bouillant d’ardeur et tenant en main !
 
