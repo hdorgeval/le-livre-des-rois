@@ -53,13 +53,11 @@ Le vaillant Gustehem dit à ses troupes :
 > On le laissa en vie dans cet état et l’on pilla tout ce qui se trouvait dans son trésor.
 
 Telles sont les actions de la roue du ciel sublime.
->
+
 > N’attache donc pas ton cœur à cette demeure fugitive.
 >
-> Tantôt elle nous donne un trésor, tantôt elle nous accable de fatigue ; mais tu ne resteras pas O
+> Tantôt elle nous donne un trésor, tantôt elle nous accable de fatigue ; mais tu ne resteras pas dans ce lieu de passage, que tu y sois heureux ou malheureux.
 >
-> dans ce lieu de passage, que tu y sois heureux ou malheureux.
->
-> Que ce soilcent ou cent mille ans, tout ce qui se compte doit passer.
+> Que ce soit cent ou cent mille ans, tout ce qui se compte doit passer.
 >
 > Si tu veux obtenir le bonheur, ne dis jamais du mal pour que tu n’aies pas à entendre du mal.
