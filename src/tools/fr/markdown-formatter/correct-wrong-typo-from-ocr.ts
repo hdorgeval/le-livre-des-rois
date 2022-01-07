@@ -1821,6 +1821,15 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ souillaient /g, ' soufflaient '),
     (content: string) => content.replace(/ se lit /g, ' se fit '),
     (content: string) => content.replace(/ et lit /g, ' et fit '),
+    (content: string) => content.replace(/ ce avec /g, ' avec '),
+    (content: string) => content.replace(/nous ce suffit/g, 'nous suffit'),
+    (content: string) => content.replace(/ il ce n’y ait/g, ' il n’y ait'),
+    (content: string) => content.replace(/ son ce fils /g, ' son fils '),
+    (content: string) => content.replace(/\. ce Prends/g, '. Prends'),
+    (content: string) => content.replace(/. ce Le /g, '. Le '),
+    (content: string) => content.replace(/\. ce Qu/g, '. Qu'),
+    (content: string) => content.replace(/\. ce c’est /g, ', c’est '),
+    (content: string) => content.replace(/ rouronne /g, ' couronne '),
   ].forEach((format) => {
     result = format(result);
   });
