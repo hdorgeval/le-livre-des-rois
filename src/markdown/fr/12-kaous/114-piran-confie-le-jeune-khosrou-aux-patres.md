@@ -35,7 +35,7 @@ C’est ainsi que le ciel tourna quelque temps et Piran ne révéla son secret �
 
 Quand le héros qui portait haut la tête eut sept ans, sa bravoure et sa haute naissance trahirent son secret.
 
-Il forma un arc avec un bâton et avec des intestins une corde aux deux bouts de laquelle il fit un nœud, ensuite il se lit une flèche sans plumes et sans pointe de fer et alla dans le désert s’exercer à la chasse.
+Il forma un arc avec un bâton et avec des intestins une corde aux deux bouts de laquelle il fit un nœud, ensuite il se fit une flèche sans plumes et sans pointe de fer et alla dans le désert s’exercer à la chasse.
 
 Quand il eut dix ans, le jeune brave se mit à attaquer les sangliers, les ours et les loups, ensuite il courut sur les lions et les léopards et se fit une arme de sa houlette même.
 
