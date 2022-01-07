@@ -25,7 +25,7 @@ Elle était pour Ardewan comme un conseiller et lui servait de trésorier pour c
 
 Elle attendit que le jour fût devenu sombre et aussitôt que la nuit fut proche elle attacha une corde à un créneau, y fit quelques nœuds, la lança avec sa main et descendit hardiment du haut du palais en invoquant Dieu, le distributeur de tout bien.
 
-Elle entra coquettement chez Ardeschir, parée de joyaux et parfumée de musc et d’ambre, souleva la tête du jeune homme, qui reposait sur un coussin de brocart et le serra étroitement dans ses bras aussitôt qu’il fut rév’eillé.
+Elle entra coquettement chez Ardeschir, parée de joyaux et parfumée de musc et d’ambre, souleva la tête du jeune homme, qui reposait sur un coussin de brocart et le serra étroitement dans ses bras aussitôt qu’il fut réveillé.
 
 Ardeschir regarda cette belle fille, ses cheveux, son visage et toutes ses grâces et dit à cette lune :
 
@@ -47,7 +47,7 @@ Il se dégoûta du service d’Ardewan et dès qu’il eut reçu cette nouvelle,
 
 Plus tard il arriva que le roi Ardevvan rassembla
 
-à sa cour un nombre d’astrologues pleins de perspicacité et leur demanda son horoscope et des direco tions ; il voulut savoir qui serait protégé après sa mort par la rotation du ciel.
+à sa cour un nombre d’astrologues pleins de perspicacité et leur demanda son horoscope et des directions ; il voulut savoir qui serait protégé après sa mort par la rotation du ciel.
 
 Le roi les envoya dans le pavillon de Gulnar pour qu’ils observassent le ciel et ils employèrent trois jours à observer l’astre du roi.
 
