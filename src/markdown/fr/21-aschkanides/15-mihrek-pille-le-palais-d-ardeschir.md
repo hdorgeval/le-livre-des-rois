@@ -25,13 +25,15 @@ Cette nouvelle remplit d’anxiété le roi, qui était encore sur le bord du la
 
 > Pourquoi suis-je allé combattre un étranger sans prendre soin de ma propre maison ? »
 
-Il appela auprès de lui les grands de l’armée et leur parla longuement de Mihrek. ce Que pensez-vous, dit-il, ô chefs de l’armée, de cette impuissance à laquelle nous sommes réduits ?
+Il appela auprès de lui les grands de l’armée et leur parla longuement de Mihrek.
 
-J’ai goûté de bien des amertumes du sort, mais je ne comptais pas ce sur cette injure de la part de Mihrek. »
+> Que pensez-vous, dit-il, ô chefs de l’armée, de cette impuissance à laquelle nous sommes réduits ?
+>
+> J’ai goûté de bien des amertumes du sort, mais je ne comptais pas ce sur cette injure de la part de Mihrek. »
 
 Ils s’écrièrent tous d’une commune voix :
 
-> r0 roi, puisse ton œil ne jamais voir la mauvaise fortune !
+> Ô roi, puisse ton œil ne jamais voir la mauvaise fortune !
 >
 > Qu’un Mihrek soit en secret ton ennemi, il ne faut pas pour cela te désoler.
 >
@@ -102,9 +104,7 @@ Aussitôt que le roi de l’Iran eut dévoilé son secret, les deux jeunes gens 
 >
 > Tu ne suffiras pas à la lutte contre le ver et Heftwad si tu n’emploies pas une fraude.
 >
-> Il y a un lieu sur la crête de la montagne où se trouvent le ver, le trésor 
->
-> et une foule d’hommes ; d’un côté il y a une ville, de l’autre des eaux et le château est en haut de la montagne et difficile d’accès.
+> Il y a un lieu sur la crête de la montagne où se trouvent le ver, le trésor et une foule d’hommes ; d’un côté il y a une ville, de l’autre des eaux et le château est en haut de la montagne et difficile d’accès.
 >
 > Et ce ver, qui est de l’essence d’Ahriman et un ennemi du Créateur, on l’appelle un ver, mais dans sa peau se trouve un Div avide de combats, qui aime à verser le sang. »
 
