@@ -49,7 +49,7 @@ Bahram lui dit :
 >
 > Aussitôt que le soleil montrera sa tête au-dessus des montagnes sombres, je te ferai voir comment se battent les rois et les armées. »
 
-Lorsque le soleil se fut levé dans le signe du Lion et que le monde fut blanc comme le visage d’une Roumie, on sonna des trompettes d’airain ; il se lit un grand bruit ; le monde fut ébranlé par les sabots des chevaux et Bahram mit en ordre ses troupes et monta à cheval, une massue, qui avait vu bien des combats, en main.
+Lorsque le soleil se fut levé dans le signe du Lion et que le monde fut blanc comme le visage d’une Roumie, on sonna des trompettes d’airain ; il se fit un grand bruit ; le monde fut ébranlé par les sabots des chevaux et Bahram mit en ordre ses troupes et monta à cheval, une massue, qui avait vu bien des combats, en main.
 
 On compta à l’aile droite trois mille cavaliers, couverts de cottes de mailles, des hommes éprouvés.
 
