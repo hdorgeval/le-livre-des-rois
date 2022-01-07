@@ -19,7 +19,7 @@ order: '074'
 
 On couvrit toute la plaine de pavillons et tout le Soghd fut paré selon la manière des Chinois.
 
-Les grands passèrent gaiement la journée et quand le soleil qui éclaire le monde eut disparu et que le besoin de repos et de sommeil se lit sentir, Afrasiab se jeta sur sa couche.
+Les grands passèrent gaiement la journée et quand le soleil qui éclaire le monde eut disparu et que le besoin de repos et de sommeil se fit sentir, Afrasiab se jeta sur sa couche.
 
 Lorsqu’une partie de la nuit sombre fut passée, on entendit dans l’appartement d’Afrasiab un bruit comme de quelqu’un qui parle dans la fièvre et ce lieu de repos et de sommeil en fut ébranlé.
 
