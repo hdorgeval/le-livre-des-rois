@@ -1,6 +1,7 @@
 export const favorites = [
   'âme',
   'âmes',
+  'argile',
   'arghawan',
   'astrolable',
   'barsom',
