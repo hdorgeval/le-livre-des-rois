@@ -281,3 +281,5 @@
 {"rule":"D_N","sentence":"^\\QHomme aux desseins criminels, pourquoi le Div a-t-il aveuglé tes yeux ?\\E$"}
 {"rule":"D_N","sentence":"^\\QTu te révoltes à l'instigation du Div et ton cœur s'écarte de la loi de Dieu souverain du monde.\\E$"}
 {"rule":"DEUX_D_ENTRE_EUX","sentence":"^\\QDe plus puissants que toi ont vécu en ce monde et jamais nul d'entre eux n'a formé de pareils projets.\\E$"}
+{"rule":"ETRE_VPPA_OU_ADJ","sentence":"^\\QDirige-toi avec ta cour vers la forêt de Narwen ; Amol est plein de tes serviteurs, tes partisans affluent à Sari ; quand tu auras réuni une armée nombreuse, reviens et tu pourras alors combattre avec avantage.\\E$"}
+{"rule":"ACCORD_CENTAINE_DE","sentence":"^\\QTu es seul et tes ennemis sont au nombre de cent mille ; comment pourrais-tu combattre encore à travers le monde ?\\E$"}
