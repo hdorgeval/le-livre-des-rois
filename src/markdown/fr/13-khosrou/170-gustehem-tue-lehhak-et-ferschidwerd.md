@@ -52,7 +52,7 @@ Dans ce moment Gustehem parut au loin ; ils virent qu’au-cun cavalier ne l’a
 
 Ils sortirent de leur retraite et se dirigèrent vers la plaine.
 
-Gustehem courut sur eux avide de combat ; il s’approcha et arrivé près d’eux, il poussa des cris de rage comme un lion furieux et lit pleuvoir sur eux des traits de bois de peuplier.
+Gustehem courut sur eux avide de combat ; il s’approcha et arrivé près d’eux, il poussa des cris de rage comme un lion furieux et fit pleuvoir sur eux des traits de bois de peuplier.
 
 Ferschidwerd s’élança pour l’attaquer ; mais Gustehem décocha contre lui une flèche qui le frappa à la tête et qui mêla son sang avec sa cervelle.
 
