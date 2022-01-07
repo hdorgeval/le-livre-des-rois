@@ -39,7 +39,9 @@ Le vieillard prononça des bénédictions sur lui, disant :
 >
 > Tu as du savoir, du jugement, de la prudence et de la majesté plus que n’en. ont en les rois les plus victorieux.
 >
-> Tu as de l’intelligence et des intentions pures ; tu es le maître des hommes de sens. ce Quoique je sois l’envoyé du Kaïsar, je suis de même le serviteur des serviteurs du roi.
+> Tu as de l’intelligence et des intentions pures ; tu es le maître des hommes de sens.
+>
+> Quoique je sois l’envoyé du Kaïsar, je suis de même le serviteur des serviteurs du roi.
 >
 > Je porte les salutations du Kaïsar à Bahram ; puissent cette tête, cette couronne et ce trône être éternels !
 >
