@@ -90,4 +90,4 @@ HA le messager et témoigna sa joie, car l’espoir reprenaît le dessus dans so
 
 Il fit préparer au messager un appartement dans le palais et passa la nuit à tenir conseil.
 
-Dès l’aube du jour il mit sa couronne sur sa tête et lit ouvrir sa porte au messager.
+Dès l’aube du jour il mit sa couronne sur sa tête et fit ouvrir sa porte au messager.
