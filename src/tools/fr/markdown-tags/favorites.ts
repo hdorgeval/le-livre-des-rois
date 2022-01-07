@@ -8,6 +8,7 @@ export const favorites = [
   'bedrehs',
   'chameau',
   'chrysoprases',
+  'corbeau',
   'cyprès',
   'farsang',
   'farsangs',
