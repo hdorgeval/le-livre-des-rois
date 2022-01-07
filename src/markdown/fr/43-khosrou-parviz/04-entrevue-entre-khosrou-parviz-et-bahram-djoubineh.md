@@ -273,7 +273,7 @@ Tu verras que désormais la royauté est à moi, que tout est à moi. depuis le 
 >
 > Il y a eu avant toi des hommes vaillants et ambitieux, armés de lourdes massues, mais ils n’ont pas prétendu à l’empire, parce qu’ils étaient sujets et n’avaient pas droit au trône ni au diadème.
 >
-> Tu lèveras toujours la tête ce avec colère, toujours les larmes de honte rempliront les yeux, le sort t’en voudra toujours et tes ennemis bouillonneront d’envie de te faire du mal.
+> Tu lèveras toujours la tête avec colère, toujours les larmes de honte rempliront les yeux, le sort t’en voudra toujours et tes ennemis bouillonneront d’envie de te faire du mal.
 >
 > Dieu en créant un roi le choisit pour sa justice, ou il le choisit pour ses hauts faits et pour sa grande naissance ; il donne la royauté au plus digne, au plus intelligent et au plus innocent.
 >
