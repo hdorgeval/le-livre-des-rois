@@ -55,9 +55,9 @@ Khosrou se mit en colère en entendant ces paroles et dit :
 
 > Personne ne doit se cacher de sa foi.
 >
-> Depuis Kaïoumors et Djemschid jusqu’à Kei kobad, personne n’a parlé du Messie ; à Dieu ne plaise que j’abandonne la foi de mes pères, des nobles maîtres du monde, de mes parents saints’, que j’adopte la religion du Messie, que je ne prie pas à table et me fasse chrétien.
+> Depuis Kaïoumors et Djemschid jusqu’à Keï kobad, personne n’a parlé du Messie ; à Dieu ne plaise que j’abandonne la foi de mes pères, des nobles maîtres du monde, de mes parents saints’, que j’adopte la religion du Messie, que je ne prie pas à table et me fasse chrétien.
 >
-> Compte bien que c’est toi qui seras courbé car j’ai vu ce que les Roumis font au jour du combat. »
+> Compte bien que c’est toi qui seras courbé, car j’ai vu ce que les Roumis font au jour du combat. »
 
 Mariam dit :
 
@@ -112,4 +112,4 @@ Neïathous répondit :
 >
 > Continue dans la foi de tes pères ; un homme de sens ne change pas de religion. »
 
-Lis parlèrent ainsi peudant longtemps, puis Neïathous rentra dans son camp.
+Lis parlèrent ainsi pendant longtemps, puis Neïathous rentra dans son camp.
