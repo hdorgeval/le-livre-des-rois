@@ -89,7 +89,9 @@ loue les hommes qui ne le méritent pas, cherche ta ruine par ses paroles ; ne l
 >
 > Que ton cœur soit un arc et la langue la flèche ; ne prends pas légèrement ces paroles, déploie la poitrine, tends droit le bras et place un but tel que tu le désires.
 >
-> Que ta langue et ton cœur se conforment à la vérité et puis dis ce que tu veux. ce Quand on a de la cervelle dans la tête, on est toujours sincère d’intentions et de paroles.
+> Que ta langue et ton cœur se conforment à la vérité et puis dis ce que tu veux.
+>
+> Quand on a de la cervelle dans la tête, on est toujours sincère d’intentions et de paroles.
 >
 > Chaque fois que tu auras à prendre conseil de quelqu’un, parle-lui hors de l’assemblée ; et si tu combines l’expérience avec les bons conseils, ta fortune grandira chaque jour, ton esprit deviendra plus péné-, trant que celui de ton ennemi et ton cœur, ton cerveau et ta tête plus capables de gouverner le monde.
 >
