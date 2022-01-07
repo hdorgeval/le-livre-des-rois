@@ -23,7 +23,7 @@ Lorsque le rideau couleur de poix parut, que les astres brillèrent à la voûte
 
 Ceci fut écrit, puis on alluma des bougies et l’on passa la nuit sombre dans les inquiétudes.
 
-Lorsque ce voile couleur de lapis-lazuli eut disparu et que le monde fut doré par l’aspect du soleil un homme à la fortune victorieuse vint et lit placer une estrade de trône dans la salle de Bahram ; on balaya la salle jusqu’à ce qu’elle fût propre comme de l’ivoire, on suspendit la couronne au-dessus du trône, on plaça un siégé sur l’estrade d’or, puis on ouvrit la salle.
+Lorsque ce voile couleur de lapis-lazuli eut disparu et que le monde fut doré par l’aspect du soleil un homme à la fortune victorieuse vint et fit placer une estrade de trône dans la salle de Bahram ; on balaya la salle jusqu’à ce qu’elle fût propre comme de l’ivoire, on suspendit la couronne au-dessus du trône, on plaça un siégé sur l’estrade d’or, puis on ouvrit la salle.
 
 Le roi Bahram s’assit sur le trône et posa sur sa tête la couronne des Keïanides ; le scribe apporta la déclaration royale, écrite sur un satin de grand prix et tous les grands la signèrent et reconnurent Bahram pour roi du monde.
 
