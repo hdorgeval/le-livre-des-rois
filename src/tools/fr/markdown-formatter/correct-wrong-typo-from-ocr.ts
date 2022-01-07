@@ -1819,6 +1819,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/A une /g, 'À une '),
     (content: string) => content.replace(/A la fin/g, 'À la fin'),
     (content: string) => content.replace(/ souillaient /g, ' soufflaient '),
+    (content: string) => content.replace(/ se lit /g, ' se fit '),
+    (content: string) => content.replace(/ et lit /g, ' et fit '),
   ].forEach((format) => {
     result = format(result);
   });
