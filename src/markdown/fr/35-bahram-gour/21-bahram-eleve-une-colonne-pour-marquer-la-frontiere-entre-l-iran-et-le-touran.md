@@ -53,6 +53,6 @@ Lorsque celle affaire fut terminée au gré du roi, outre le tribut il imposa au
 
 Ensuite, il partit et se rendit dans le pays de Farab, le visage déridé et le sourire sur les lèvres ; il s’y reposa et arrêta ses troupes pendant une semaine ; il appela devant lui les grands de la Chine et fit bâtir une colonne en pierre et en chaux et déclara que personne, ni du pays des Turcs ni du pays des Kheledj, ne devait la dépasser pour se rendre dans l’Iran sans la permission du roi et que le Djihoun devait former la frontière.
 
-Or il y avait dans l’armée un homme du nom de Schemr, homme de sens, de bonne naissance, connu et puissant ; le roi le nomma roi du Touran et lit de son trône le diadème de la lune.
+Or il y avait dans l’armée un homme du nom de Schemr, homme de sens, de bonne naissance, connu et puissant ; le roi le nomma roi du Touran et fit de son trône le diadème de la lune.
 
 Schemr s’assit sur le trône d’an gent, mit la ceinture royale, lit des largesses, plaça 5&9 sur sa tête la couronne d’or et tout le pays de Touran en fut heureux.
