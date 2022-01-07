@@ -1,7 +1,7 @@
 ---
-lastUpdate: '2021-09-07'
+lastUpdate: '2022-01-07'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 371
@@ -79,21 +79,21 @@ Lorsque le maître du monde se dirigeait vers Merve, se rendant chez Mahouï Sou
 
 Le cœur rempli d’inquiétude, les yeux baignés de larmes, il fit venir un scribe expérimenté et donna un libre cours aux sentiments qui agitaient son cœur.
 
-Après avoir glorifié le Créateur, le maître sage et bienfaisant, le souverain qui imprime le mouvement à Mars et au Soleil, qui règne sur l’éléphant et sur la fourmi, qui tire, quand il lui plaît, les choses du néant sans avoir besoin de modèle, il continuait ces termes :
+Après avoir glorifié le Créateur, le maître sage et bienfaisant, le souverain qui imprime le mouvement à Mars et au Soleil, qui règne sur l’éléphant et sur la fourmi, qui tire, quand il lui plaît, les choses du néant sans avoir besoin de modèle, il continuait en ces termes :
 
 > Le malheur a surgi devant nous, notre royaume a perdu sa force et sa splendeur.
 >
 > La douleur a rendu le monde étroit pour nous depuis que Rustem a péri sur le champ de bataille, de la main d’un certain Saad, fils de Wakkas, homme sans patrie ni famille, sans sagesse ni pouvoir.
 >
-> Tandis que l’armée des Arabes est aux portes de Thisifoun et que les vallons et les forêts nous en séparent, marche au combat avec les troupes et rallie le peuple à ma cause.
+> Tandis que l’armée des Arabes est aux portes de Thisifoun et que les vallons et les forêts nous en séparent, marche au combat avec tes troupes et rallie le peuple à ma cause.
 >
-> Moi-même je suivrai de près cette lettre et j’arriverai, rapide comme le veut, auprès de toi, ô fils d’une race pure. »
+> Moi-même je suivrai de près cette lettre et j’arriverai, rapide comme le vent, auprès de toi, ô fils d’une race pure.
 
 Il choisit ensuite dans son entourage un messager, homme intelligent et de bon conseil ; le cœur gonflé de sang, le visage blême comme la sandaraque, il écrivit cette autre lettre à Thous :
 
 > Gloire et louange au souverain juge qui dispense le pouvoir, le trône et la valeur, au maître de la victoire, de la majesté et de la couronne !
 >
-> Tout, depuis la palle de l’insecte jusqu’à l’aile rapide de l’aigle, l’éléphant sur la terre, le crocodile dans les eaux, tout est soumis à sa volonté et à ses lois et ne respire qu’avec sa permission.
+> Tout, depuis la patte de l’insecte jusqu’à l’aile rapide de l’aigle, l’éléphant sur la terre, le crocodile dans les eaux, tout est soumis à sa volonté et à ses lois et ne respire qu’avec sa permission.
 >
 > De la part du roi de la terre, Yezdegird le Grand, fils d’un père illustre, monarque puissant, chef victorieux des armées de l’Iran, souverain et arbitre du monde, rejeton d’une race glorieuse, fidèle au culte de Dieu et couronnée par la faveur des astres, d’une race qui a rendu le monde prospère et qui a fait briller la couronne, le trône et le sceau royal, de la part de Yezdegird, aux Merzebans qui règnent glorieusement et selon la justice sur les pays et les peuples de Schemiran, Rouïndiz, Radeh Kouh et Kelat.
 >
@@ -115,7 +115,7 @@ Il choisit ensuite dans son entourage un messager, homme intelligent et de bon c
 >
 > Nouschirwan l’avait vu en songe : la splendeur du trône s’évanouissait, cent mille Arabes, semblables à des chameaux furieux qui ont rompu leurs entraves, passaient le fleuve Arwend [^1] et une fumée noire montait jusqu’à la sphère de Saturne.
 >
-> Les moissons étaient détruites dans le pays d’Iran et de Babel ; le monde périssait ; le feu s’éteignait dans les Pyrées, ’éclat du Newrouz et du Sedeh pâlissait et les créneaux du palais des grands mis s’effondraient d’un seul coup au milieu du Meïdan.
+> Les moissons étaient détruites dans le pays d’Iran et de Babel ; le monde périssait ; le feu s’éteignait dans les Pyrées, l’éclat du Newrouz et du Sedeh pâlissait et les créneaux du palais des grands rois s’effondraient d’un seul coup au milieu du Meïdan.
 >
 > L’accomplissement de ce songe se révèle aujourd’hui : le ciel inconstant s’éloigne de nous, tout ce qui était grand est humilié et la destinée des plus humbles s’élève ; le mal se répand dans le monde, la misère devient manifeste et le bonheur disparaît.
 >
@@ -137,13 +137,11 @@ Il choisit ensuite dans son entourage un messager, homme intelligent et de bon c
 >
 > Mais une armée aussi nombreuse que la nôtre ne peut tenir garnison dans ces forteresses étroites ; en conséquence, les places de Goumbedin Kouh et de Lajeverdin jusqu’à Kherbeneh serviront de dépôt à notre matériel de guerre.
 >
-> Nous avons tenu conseil après avoir convoqué les Pehlewans ; sa suite d’une longue délibération, nous sommes tombés d’accord sur ce qui suit.
+> Nous avons tenu conseil après avoir convoqué les Pehlewans ; à la suite d’une longue délibération, nous sommes tombés d’accord sur ce qui suit.
 >
 > On emportera la couronne, le trône, le sceau et l’anneau royal, les tuniques du Roum, du Cachemire et de la Chine, les objets précieux qui sont entre nos mains, comme les produits du Roum et de Thaïef, les brocarts d’or, les étoffes en pièces et tout ce qui mérite d’être emporté, enfin les vivres et provisions nécessaires pour les jours de détresse.
 >
-> Quarante mille bœufs attelés à des chariots porteront un approvisionnement suffisant de sésame,
->
-> auquel on joindra douze mille charges de blé en gerbes.
+> Quarante mille bœufs attelés à des chariots porteront un approvisionnement suffisant de sésame, auquel on joindra douze mille charges de blé en gerbes.
 >
 > Un Mobed prudent apportera le millet, les pistaches, les grenades ; deux mille charges de chacune de ces productions seront charriées par des chameaux originaires de la Bactriane.
 >
@@ -155,21 +153,21 @@ Il choisit ensuite dans son entourage un messager, homme intelligent et de bon c
 >
 > En présence des vieillards, des sages et des seigneurs qui sont les chefs du pays, vous ferez déposer deux registres dans les forteresses ; vous donnerez l’un à mon trésorier et garderez l’autre par devers vous, ô nobles qui composez le conseil.
 >
-> Il faut que les vallées et les montagnes soient à l’abri des incursions des Turcs et viles Arabes ; dans ces temps difficiles, vous pouvez nous rendre de grands services.
+> Il faut que les vallées et les montagnes soient à l’abri des incursions des Turcs et des Arabes ; dans ces temps difficiles, vous pouvez nous rendre de grands services.
 >
 > Notre sage et éloquent Destour donnera des instructions à notre trésorier pour qu’il remette à tous ceux qui braveront ces dangers cinq tuniques d’étoffe de Perse et qu’ils reçoivent en outre un turban brodé d’or, lorsque la guerre sera terminée.
 >
-> Dans ces jours désastreux et sombres, tous ceux qui serviront avec fidélité notre cause recevront, en surcroît de leur solde de service, un de ces dirhems qui valent soixante dirhems du poids de dix dangs, sur lesquels on lit cette inscription, d’un côté : 
+> Dans ces jours désastreux et sombres, tous ceux qui serviront avec fidélité notre cause recevront, en surcroît de leur solde de service, un de ces dirhems qui valent soixante dirhems du poids de dix dangs, sur lesquels on lit cette inscription, d’un côté :
 >
 > > Au nom du Dieu par qui donne l’espérance et la crainte !
 >
-> De l’autre, autour de notre effigie couronnée : 
+> De l’autre, autour de notre effigie couronnée :
 >
-> > C’est notre amour qui féconde la terre. »
+> > C’est notre amour qui féconde la terre.
 
 Tout cela sera réglé au Newrouz et au Mihregan, ces deux fêtes pleines de solennité et de magnificence.
 
-Que Dieu, le protecteur du monde, bénisse les hommes de noble race qui seront fidèles à notre couronne ! »
+Que Dieu, le protecteur du monde, bénisse les hommes de noble race qui seront fidèles à notre couronne !
 
 Après avoir apposé son cachet sur cette lettre, le roi l’envoya au chef de l’armée ; un cavalier illustre et né sous une heureuse étoile se présenta devant eux, la lettre royale à la main.
 
