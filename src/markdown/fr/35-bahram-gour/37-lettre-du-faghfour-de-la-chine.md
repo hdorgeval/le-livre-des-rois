@@ -55,9 +55,9 @@ Il commença ainsi :
 >
 > Les Iraniens font de grandes choses, voilà tout ; ils ne comptent pour rien les lions féroces ; ils sont tous sincères et reconnaissent Dieu ; dans le bonheur, ils ne rendent pas grâce aux astres.
 >
-> Ensuite, si le roi m’a donné sa fille. ce c’est par ma bravoure que j’ai conquis cet honneur.
+> Ensuite, si le roi m’a donné sa fille, c’est par ma bravoure que j’ai conquis cet honneur.
 >
-> Schenguil est un puissant roi, qui par son couverage chasse les loups loin des brebis et quand il a vu qu’une alliance avec moi lui convenait, il m’a donné sa gracieuse fille.
+> Schenguil est un puissant roi, qui par son courage chasse les loups loin des brebis et quand il a vu qu’une alliance avec moi lui convenait, il m’a donné sa gracieuse fille.
 >
 > Puis tu me dis : Lève loi et viens ici ; je serai ton guide vers tous les bonheurs.
 >
@@ -65,7 +65,7 @@ Il commença ainsi :
 >
 > Le roi ne m’approuverait pas si je parlais de chose pareille.
 >
-> Ensuite tu écris que tu me renverras dans l’Iran, combléxde richesses ; mais Dieu m’a élevé au-dessus du besoin d’étendre ma main vers le bien des autres.
+> Ensuite tu écris que tu me renverras dans l’Iran, comblé de richesses ; mais Dieu m’a élevé au-dessus du besoin d’étendre ma main vers le bien des autres.
 >
 > Ce n’est qu’à Bahram que je rends grâce pour des libéralités et je prie Dieu le jour et trois fois la nuit.
 >
