@@ -41,7 +41,9 @@ Le roi dit alors au Grand Mobed :
 
 Le Mobed dit au roi du monde :
 
-> Cet onagre aura été un Div déguisé, qui a détourné Bahram de la droiture et mis à nu la défaillance de son cœur. ce Prends le château pour un cimetière et cette femme sur le trône pour une magicienne impie qui a exalté l’orgueil de Bahram et lui a montré la couronne et le trône du pouvoir.
+> Cet onagre aura été un Div déguisé, qui a détourné Bahram de la droiture et mis à nu la défaillance de son cœur.
+>
+> Prends le château pour un cimetière et cette femme sur le trône pour une magicienne impie qui a exalté l’orgueil de Bahram et lui a montré la couronne et le trône du pouvoir.
 >
 > Quand il l’a quittée, il était hautain et enivré.
 >
@@ -67,7 +69,7 @@ Il répondit :
 
 Ces paroles remplirent le roi de terreur sur les malheurs que le sort lui réservait.
 
-Peu de jours après arriva un homme envoyé par Bahram le calalier, apportant une corbeille remplie d’épées, dont toutes les pointes étaient recourbées par l’usage qu’on en avait fait dans la bataille.
+Peu de jours après arriva un homme envoyé par Bahram le cavalier, apportant une corbeille remplie d’épées, dont toutes les pointes étaient recourbées par l’usage qu’on en avait fait dans la bataille.
 
 Il la plaça devant le roi, qui examina ces instruments de fer, fit briser les épées et les fit remettre dans cette corbeille malencontreuse, puis il la renvoya à Bahram, faisant ainsi connaître sa pensée secrète sans l’exprimer en paroles.
 
@@ -79,7 +81,7 @@ Cet homme, dont le jugement était déjà troublé, devint plein de soucis ; il 
 
 Les hommes de guerre furent consternés de ce que le roi avait fait et des paroles du Pehlewan de l’armée ; ils dirent :
 
-> Un jour le roi nous envoie des fuseaux et des robes brodées de femme, un autre jour il brise nos épées, ce qui est pire que des injures et des coups.
+> Un jour le roi nous envoie des fuseaux et des robes brodées de femme, un autre jour, il brise nos épées, ce qui est pire que des injures et des coups.
 >
 > Si jamais Bahram fils de Guschasp fait passer de nouveau son cheval sur la poussière de la cour du roi, malédiction sur sa cervelle, malédiction sur sa peau, malédiction sur cet homme sans valeur, son père ! »
 
