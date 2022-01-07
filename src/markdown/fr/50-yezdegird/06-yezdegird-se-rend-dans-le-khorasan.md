@@ -1,7 +1,7 @@
 ---
-lastUpdate: '2021-09-07'
+lastUpdate: '2022-01-07'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 366
@@ -23,6 +23,7 @@ tags:
     'Farrukhzad',
     'Feridoun',
     'Gourgan',
+    'honte',
     'Hormuzd',
     'Iran',
     'Iraniens',
@@ -31,7 +32,6 @@ tags:
     'Khakan',
     'Khorasan',
     'Lion',
-    'Mahaut',
     'Mahouï',
     'Mobeds',
     'Narwen',
@@ -68,25 +68,27 @@ Les yeux pleins de larmes de sang, le cœur brûlant de rage, il lui dit :
 >
 > Tu es seul et tes ennemis sont au nombre de cent mille ; comment pourrais-tu combattre encore à travers le monde ?
 >
-> Marche jusqu’à la forêt de Narwen ; là les peuples se réuniront autour de toi ; c’est de là que, semblable à Feridoun et jeune comme lui, tu pourras rajeunir ta fortune. »
+> Marche jusqu’à la forêt de Narwen ; là les peuples se réuniront autour de toi ; c’est de là que, semblable à Feridoun et jeune comme lui, tu pourras rajeunir ta fortune.
 
 Ainsi parla Farrukhzad ; le roi écouta ses paroles et des pensées nouvelles se manifestèrent.
 
 Le roi des rois s’assit avec majesté sur son trône, il plaça sur sa tête la tiare des Keïanides ; puis, réunissant les sages, les grands et les Mobeds au cœur vigilant, il leur demanda :
 
 > Que pensez-vous de cette affaire ?
-
-Quel souvenir pouvez-vous évoquer des temps passés ?
-
-Farrukhzad me dit :
-
-> Dirige-toi avec ta cour vers la forêt de Narwen ; Amol est plein de tes serviteurs. tes partisans affluent à Sari ; quand tu auras réuni ce une armée nombreuse, reviens et tu pourras alors combattre avec avantage.
 >
-> Illustres chefs de l’armée, ajouta le roi, en se tournant vers ses troupes, ce discours a-t-il votre approbation ? »
+> Quel souvenir pouvez-vous évoquer des temps passés ?
+>
+> Farrukhzad me dit :
+>
+> > Dirige-toi avec ta cour vers la forêt de Narwen ; Amol est plein de tes serviteurs, tes partisans affluent à Sari ; quand tu auras réuni une armée nombreuse, reviens et tu pourras alors combattre avec avantage.
+
+Le roi se tourna vers ses troupes et dit :
+
+> Illustres chefs de l’armée, ce discours a-t-il votre approbation ?
 
 Tous s’écrièrent :
 
-> C’est là ce qui est convenable. »
+> C’est là ce qui est convenable.
 
 Mais Yezdegird reprenant la parole :
 
@@ -100,7 +102,7 @@ Mais Yezdegird reprenant la parole :
 >
 > Je n’ai pas honte de combattre ces ennemis, car le léopard a donné un conseil à ce sujet : Ne tourne pas, dit-il, le dos à l’ennemi lorsque la fortune se déclare contre toi.
 >
-> De même que les sujets doivent obéissance au roi dans les circonstances heureuses ou malheureuses, de même aussi un roi ne doit pas laisser ses sujets au milieu des périls pour recourir à ses trésors. »
+> De même que les sujets doivent obéissance au roi dans les circonstances heureuses ou malheureuses, de même aussi un roi ne doit pas laisser ses sujets au milieu des périls pour courir à ses trésors.
 
 Tous les grands acclamèrent ses paroles en disant :
 
@@ -110,7 +112,7 @@ Tous les grands acclamèrent ses paroles en disant :
 >
 > Que veux-tu de nous ?
 >
-> Quels serments exiges-tu ? »
+> Quels serments exiges-tu ?
 
 Le roi répondit :
 
@@ -120,9 +122,9 @@ Le roi répondit :
 >
 > Nous avons là une armée nombreuse, formée de Pehlewans pleins de courage ; les grands d’entre les Turcs et le Khakan de la Chine viendront nous rendre hommage.
 >
-> Pour fortifier notre alliance, j’épouserai la fille du Faghfour et je mouverai pour alliée une armée intrépide et les nobles guerriers du Touran.
+> Pour fortifier notre alliance, j’épouserai la fille du Faghfour et je trouverai pour alliée une armée intrépide et les nobles guerriers du Touran.
 >
-> Mahaut, lui aussi, est un chef puissant, riche en troupes, en éléphants, en biens de toute sorte, il est le premier de nos gouverneurs, le chef de nos surveillants de frontières.
+> Mahouï, lui aussi, est un chef puissant, riche en troupes, en éléphants, en biens de toute sorte, il est le premier de nos gouverneurs, le chef de nos surveillants de frontières.
 >
 > Je l’avais éloigné parce qu’il était médisant et toujours prêt à chercher dispute.
 >
@@ -130,7 +132,7 @@ Le roi répondit :
 >
 > J’ai entendu les Mobeds citer cette sentence tirée des dires anciens : Prends garde à l’homme que tu as maltraité et que tu as puni injustement ; mais aie confiance en celui que ta bonté a tiré du néant pour l’élever jusqu’au ciel.
 >
-> Or, puisque je n’ai jamais fait de mal à Mahouï, c’est lui qui maintenant combattra mes ennemis. »
+> Or, puisque je n’ai jamais fait de mal à Mahouï, c’est lui qui maintenant combattra mes ennemis.
 
 Farrukhzad, frappant ses deux mains l’une contre l’autre, s’écria :
 
@@ -138,32 +140,33 @@ Farrukhzad, frappant ses deux mains l’une contre l’autre, s’écria :
 >
 > C’est aux chevaux seulement qu’il faut demander de la race et du sang (proverbe).
 >
-> Puisses-tu jouir toujours de la puissance et du bonheur ! »
+> Puisses-tu jouir toujours de la puissance et du bonheur !
 
 Le roi lui répondit :
 
-> Lion intrépide, l’expérience que je veux faire ne peut devenir dangereuse pour R mon. 7)
-> Ainsi se passa la nuit ; le lendemain dès l’aurore ces hommes illustres se mirent en route ; ils s’éloignèrent de Bagdad et prirent la route du Khorasan, prêts à supporter toutes les fatigues du corps.
+> Lion intrépide, l’expérience que je veux faire ne peut devenir dangereuse pour moi.
+
+Ainsi se passa la nuit ; le lendemain dès l’aurore ces hommes illustres se mirent en route ; ils s’éloignèrent de Bagdad et prirent la route du Khorasan, prêts à supporter toutes les fatigues du corps.
 
 Les nobles Iraniens qui, pleins de tristesse, accompagnaient le roi, le saluèrent de leurs acclamations en disant :
 
-> Puissent le siècle et le monde n’être jamais privés de toile Mais un cri de douleur sortit du camp lorsqu’on apprit avec anxiété le départ du roi.
+> Puissent le siècle et le monde n’être jamais privés de toi !
+
+Mais un cri de douleur sortit du camp lorsqu’on apprit avec anxiété le départ du roi.
 
 Tout ce qu’il y avait de Dihkans, tous ceux qui se distinguaient par la naissance se précipitèrent en gémissant sur les traces du souverain et lui dirent en répandant des torrents de larmes :
 
-> Notre cœur, peut-il chérir ce pays et ces demeures, loin de la personne
->
-> du roi ?
+> Notre cœur, peut-il chérir ce pays et ces demeures, loin de la personne du roi ?
 >
 > Patrie, famille, trésors, nous abandonnerons tout pour partager les fatigues.
 >
 > Nous ne pourrions vivre loin de ton trône, puisse ta fortune ne pas être ébranlée !
 >
-> Nous marcherons avec toi et nous saurons pour qui le sort des combats se déclarera. »
+> Nous marcherons avec toi et nous saurons pour qui le sort des combats se déclarera.
 
 Les plus éloquents parmi les Iraniens, prosternant leur front dans la poussière noire, s’écrièrent :
 
-> Nous avons quitté notre pays parce que nous le considérons comme le refuge du monde : nous irons maintenant, le cœur ulcéré, chez le Khakan, nous abandonnerons l’Iran pour les contrées du Touran !
+> Nous avons quitté notre pays parce que nous te considérons comme le refuge du monde : nous irons maintenant, le cœur ulcéré, chez le Khakan, nous abandonnerons l’Iran pour les contrées du Touran !
 
 Le roi répandit des larmes et dit avec tristesse à ces hommes illustres :
 
@@ -173,14 +176,14 @@ Le roi répandit des larmes et dit avec tristesse à ces hommes illustres :
 >
 > Voyons à qui la roue du ciel qui tourne accordera désormais ses faveurs.
 >
-> Résignez-vous à sa puissance, puisqu’on ne peut échapper à ses caprices et à ses volontés. »
+> Résignez-vous à sa puissance, puisqu’on ne peut échapper à ses caprices et à ses volontés.
 
 Ensuite, s’adressant aux marchands de la Chine, il leur dit :
 
-> Ne demeurez pas plus longtemps sur cette terre d’Iran, car les Arabes feraient du tort à vos affaires. »
+> Ne demeurez pas plus longtemps sur cette terre d’Iran, car les Arabes feraient du tort à vos affaires.
 
 Tous quittèrent le roi, pleins de tristesse et d’anxiété, en pleurant et en gémissant de douleur.
 
-Farrukhzad prit le commandement de l’armée, après avoir appelé à lui tous les hommes d’expérience d’Iran et le roi-, inquiet et triste, s’éloigna, précédé du Sipehbed et des troupes.
+Farrukhzad prit le commandement de l’armée, après avoir appelé à lui tous les hommes d’expérience d’Iran et le roi, inquiet et triste, s’éloigna, précédé du Sipehbed et des troupes.
 
-D’étape en étape il arriva à Rey, s’y reposa quelque temps au milieu des festins et de la musique ; il partit ensuite pour Gourgan, rapide comme le vent et demeura quelques jours dans cette ville, tantôt triste, tantôt rassuré ; puis, avec un visage soucieux et un cœur brisé, il prit la route de Bust.
+D’étape en étape, il arriva à Rey, s’y reposa quelque temps au milieu des festins et de la musique ; il partit ensuite pour Gourgan, rapide comme le vent et demeura quelques jours dans cette ville, tantôt triste, tantôt rassuré ; puis, avec un visage soucieux et un cœur brisé, il prit la route de Bust.
