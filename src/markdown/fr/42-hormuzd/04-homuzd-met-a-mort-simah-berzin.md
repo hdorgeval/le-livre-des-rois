@@ -136,7 +136,7 @@ Bahram.1épondit : Ô fils d’une femme turque !
 
 Quand seras-tu las de verser du sang ?
 
-Tu es de la race du Khakan et ’non pas de celle de Keïkobad, toi à qui Kesra a posé la rouronne sur la tête la Hormuzd comprit que, si ce !
+Tu es de la race du Khakan et ’non pas de celle de Keïkobad, toi à qui Kesra a posé la couronne sur la tête la Hormuzd comprit que, si ce !
 
 Homme restait en vie, il étendrait une main sanglante sur son maître, et, ayant entendu ces paroles blessantes, il renvoya Bahram à la prison.
 
