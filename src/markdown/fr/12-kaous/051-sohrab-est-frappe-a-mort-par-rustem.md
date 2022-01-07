@@ -25,7 +25,7 @@ Ils se mirent à lutter de nouveau et ils se saisirent l’un l’autre par les 
 
 Tu aurais dit que le ciel sublime avait anéanti en ce jour la force de la main du noble Sohrab.
 
-Rustem se mit en fureur, il étendit ses mains, saisit ce crocodile vaillant par la tête et par le bras et lit plier le dos du jeune héros.
+Rustem se mit en fureur, il étendit ses mains, saisit ce crocodile vaillant par la tête et par le bras et fit plier le dos du jeune héros.
 
 Le temps de Sohrab était venu et son c0) : était sans force.
 
