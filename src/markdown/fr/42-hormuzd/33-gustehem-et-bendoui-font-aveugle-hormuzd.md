@@ -44,11 +44,11 @@ Le vaillant Gustehem dit à ses troupes :
 >
 > Nous nous mettrons à votre tête et nous placerons sur son trône un nouveau roi.
 >
-> Si vous ne faiblissez pas dans cette entreprise, nous vous livrerons le pays d’Iran ; quant à nous, un coin du monde nous ce suffit et nous nous mettrons à l’écart avec nos compagnons. »
+> Si vous ne faiblissez pas dans cette entreprise, nous vous livrerons le pays d’Iran ; quant à nous, un coin du monde nous suffit et nous nous mettrons à l’écart avec nos compagnons. »
 
 À ces paroles de Gustehem, toute la troupe se mit à maudire le trône du roi, disant :
 
-> Que jamais il ce n’y ait un pareil roi, qui veut verser le sang de son ce fils ! »’armée devenait insolente dans ses propos ; on mit le feu à la porte du palais, on pénétra dans la salle d’audience du roi des rois et auprès de Hormuzd, assis dans sa majesté ; on lui arracha la rouronne de la tête, on le précipita en bas du trône et on lui brûla les yeux, qui s’éteignirent à l’instant comme s’éteint une lampe brillante.
+> Que jamais il n’y ait un pareil roi, qui veut verser le sang de son fils ! »’armée devenait insolente dans ses propos ; on mit le feu à la porte du palais, on pénétra dans la salle d’audience du roi des rois et auprès de Hormuzd, assis dans sa majesté ; on lui arracha la couronne de la tête, on le précipita en bas du trône et on lui brûla les yeux, qui s’éteignirent à l’instant comme s’éteint une lampe brillante.
 >
 > On le laissa en vie dans cet état et l’on pilla tout ce qui se trouvait dans son trésor.
 
