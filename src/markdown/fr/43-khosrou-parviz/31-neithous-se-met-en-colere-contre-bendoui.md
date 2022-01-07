@@ -31,7 +31,7 @@ Bendouî se hâta de s’approcher de lui, le Barsom en main ; le roi le prit et
 
 Kaosaou mavrz. ’m Neïathous, voyant cela, jeta son pain, et, tout troublé, recula loin de la table, s’écriant :
 
-> Mêler la croix à vo’s prières, c’est faire insulter le Messie par le Kaisar. »
+> Mêler la croix à vos prières, c’est faire insulter le Messie par le Kaisar. »
 
 Quand Bendouî vit cela, il frappa du revers de la main, à travers la table, cet adorateur de la croix dans le visage.
 
@@ -55,9 +55,7 @@ Khosrou se mit en colère en entendant ces paroles et dit :
 
 > Personne ne doit se cacher de sa foi.
 >
-> Depuis Kaïoumors et Djemschid jusqu’à Kei’ko-
->
-> bad, personne n’a parlé du Messie ; à Dieu ne plaise que j’abandonne la foi de mes pères, des nobles maîtres du monde, de mes parents saints’, que j’adopte la religion du Messie, que je ne prie pas à table et me fasse chrétien.
+> Depuis Kaïoumors et Djemschid jusqu’à Kei kobad, personne n’a parlé du Messie ; à Dieu ne plaise que j’abandonne la foi de mes pères, des nobles maîtres du monde, de mes parents saints’, que j’adopte la religion du Messie, que je ne prie pas à table et me fasse chrétien.
 >
 > Compte bien que c’est toi qui seras courbé car j’ai vu ce que les Roumis font au jour du combat. »
 
@@ -80,7 +78,7 @@ avec dix cavaliers et avec Mariam, sa femme prudente, dont les lèvres n’émet
 >
 > Et maintenant tu vas rompre le traité et l’alliance et me priver du respect avec lequel on me traite comme fille du Kaisar.
 >
-> As-tu entendule Kaisar dire que Khosrou abandonnerait sa religion quand il serait de retour dans l’Iran ?
+> As-tu entendu le Kaisar dire que Khosrou abandonnerait sa religion quand il serait de retour dans l’Iran ?
 >
 > Ne sais-tu pas que jamais Perse ne s’écarte de sa foi antique ?
 >
@@ -98,7 +96,7 @@ En même temps Khosrou lui fit encore une confidence, disant :
 
 > Je ne fais aucun cas de Bendouî, car mon cœur saigne à cause du sang de mon père qu’il a versé et je ne quitte jamais mon deuil ; mon âme est toute pleine du désir de me venger de lui et ma langue est chargée de paroles de chagrin et de malédiction sur lui. »
 
-A Mariam l’écouta, partit rapidement comme le vent et lit son discours à Neïathous, qui accepta ses conseils et approuva ses paroles.
+A Mariam l’écouta, partit rapidement comme le vent et fit son discours à Neïathous, qui accepta ses conseils et approuva ses paroles.
 
 Quand il aperçut Bendouî, il se leva vivement, demanda à son trésorier un cheval magnifique, adressa les questions d’usage à Bendouî, lui sourit ; et lui fit une offrande ; puis tous les deux se rendirent chez le roi.
 
