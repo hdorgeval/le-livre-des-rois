@@ -37,7 +37,9 @@ Sa mère lui répondit :
 
 > Ne t’emporte pas, il faut parler avec mesure.
 >
-> Quiconque s’assied sur le trône de la royauté doit être prêt à agir, ouvrir les deux mains de la libéralité, garder son âme pure de toute mauvaise intention, a et marcher sagement dans les voies de la raison, se garer contre son ennemi dans le combat, être attentif à ce qui donne de la gloire ou de la honte. ce Le Maître du soleil et de la lune demandera compte a : de ce qui s’est fait de juste et d’injuste dans le pays et dans l’armée et si le roi opprime une mouche, son âme restera tristement dans l’enfer.
+> Quiconque s’assied sur le trône de la royauté doit être prêt à agir, ouvrir les deux mains de la libéralité, garder son âme pure de toute mauvaise intention, a et marcher sagement dans les voies de la raison, se garer contre son ennemi dans le combat, être attentif à ce qui donne de la gloire ou de la honte.
+>
+> Le Maître du soleil et de la lune demandera compte a : de ce qui s’est fait de juste et d’injuste dans le pays et dans l’armée et si le roi opprime une mouche, son âme restera tristement dans l’enfer.
 >
 > Le monde est plus noir que la nuit sombre et il faut à un roi un esprit plus délié qu’un cheveu pour tenir son âme et son corps libres du mal et pour comprendre que la perversité n’amène jamais rien de bon.
 >
@@ -45,9 +47,7 @@ Sa mère lui répondit :
 >
 > Djemhour était de cette race de bons rois, son esprit repoussait tout mauvais conseil ; il mourut prématurément et laissa le monde à son frère cadet ; le puissant Mai vint de Denber ; il était jeune, d’un esprit clairvoyant et pur d’intentions.
 >
-> Tous les hommes de Sendel se rendirent auprès de lui ; ils s’y rendirent le cœur gonflé de sang et désireux de
->
-> trouver un roi.
+> Tous les hommes de Sendel se rendirent auprès de lui ; ils s’y rendirent le cœur gonflé de sang et désireux de trouver un roi.
 >
 > Il arriva et s’assit sur le trône du pouvoir, prêt pour le combat et les mains ouvertes pour faire du bien.
 >
@@ -63,11 +63,9 @@ Thalhend écouta ces conseils de leur mère ; il ne trouva pas qu’ils lui fuss
 
 > Tu décides pour Gau parce qu’il est l’aîné ; mon frère est mon aîné, mais on ne vaut pas mieux parce qu’on est plus âgé.
 >
-> Il y a dans la ville et l’ar»
+> Il y a dans la ville et l’armée bien des hommes vieux comme les vautours dans les cieux, mais qui n’ambitionnent pas la royauté et le commandement, le diadème, le trésor, le trône et la couronne.
 
-Mée bien des hommes vieux comme les vautours dans les cieux, mais qui n’ambitionnent pas la royauté et le commandement, le diadème, le trésor, le trône et la couronne.
-
-Mon père est mort encore jeune et n’a laissé à personne le trôneidu pouvoir ; mais je vois que ton cœur penche du côté de Gau ; c’est lui que tu veux nommer roi et pourtant je pourrais faire des hommes comme lui avec de la boue et malheur à moi si je laisse déshonorer le nom de mon père. »
+Mon père est mort encore jeune et n’a laissé à personne le trône du pouvoir ; mais je vois que ton cœur penche du côté de Gau ; c’est lui que tu veux nommer roi et pourtant je pourrais faire des hommes comme lui avec de la boue et malheur à moi si je laisse déshonorer le nom de mon père. »
 
 Y Sa mère lui fit un serment solennel, disant :
 
@@ -90,7 +88,7 @@ Gau dit à Thalhend :
 > Tu as entendu combien Djemhour était supérieur à Maï en âge et en raison.
 >
 > Ton noble et vertueux père n’a témoigné au-
-xcun désir d’occuper le trône de Djemhour ; il n’était pas honteux d’être son inférieur, il ne demandait pas à se placer au-dessus de ses supérieurs.
+> xcun désir d’occuper le trône de Djemhour ; il n’était pas honteux d’être son inférieur, il ne demandait pas à se placer au-dessus de ses supérieurs.
 >
 > Pense donc si Dieu, le dispensateur de la justice, approuverait que je fusse ceint comme un esclave devant mon frère cadet.
 >
@@ -102,11 +100,11 @@ Les deux jeunes gens quittèrent le palais de leur mère en discutant et le cœu
 
 Les deux savants conseillers arrivèrent et discutèrent entre eux de toutes les façons.
 
-Le précepteur de Gau voulait qu’il fût roi et maître de Sendeli et celui qui avait instruit Thalhend et qui était le plus intelligent des savants du pays, voulait de son côté que cefût son élève.
+Le précepteur de Gau voulait qu’il fût roi et maître de Sendeli et celui qui avait instruit Thalhend et qui était le plus intelligent des savants du pays, voulait de son côté que ce fût son élève.
 
 Ils arguèrent l’un avec l’autre jusqu’à ce que les deux princes se prirent en haine.
 
-Ensuite on plaça dans la grande salle deux trônes, sur lesquels s’assirent les deux princes à la fortune victorieuse,jayant à leur droite leurs deux vaillants maîtres et se disputant la possession du monde.
+Ensuite on plaça dans la grande salle deux trônes, sur lesquels s’assirent les deux princes à la fortune victorieuse, ayant à leur droite leurs deux vaillants maîtres et se disputant la possession du monde.
 
 On appela les grands et on les fit asseoir dans la salle, à droite et à gauche.
 
@@ -114,7 +112,7 @@ Les précepteurs commencèrent à parler, disant :
 
 > Ô vous qui êtes des grands de haute naissance !
 >
-> Vous qui vous rappelez le goun vernement des pères de ces illustres princes, lequel d’eux voulez-vous pour roi, lequel de ces deux jeunes gens tenez-vous pour le plus par ? »
+> Vous qui vous rappelez le gouvernement des pères de ces illustres princes, lequel d’eux voulez-vous pour roi, lequel de ces deux jeunes gens tenez-vous pour le plus par ? »
 
 Les Mobeds, les grands, les sages à l’intelligence éveillée, furent confondus ; les deux jeunes princes restèrent assis sur leurs trônes pendant que les deux savants, qui troublaient la fortune du page, parlaient et les hommes de la ville et de l’armée comprirent qu’il ne pouvait sortir de cette affaire que de l’amertume et des querelles, que le royaume serait divisé et que les hommes de sens seraient dans la peine et la terreur.
 
