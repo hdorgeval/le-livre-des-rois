@@ -58,7 +58,7 @@ Demandez tous les quatre mois une partie de ces impôts selon la justice et de m
 Dans les lieux dévastés par les sauterelles, là où le soleil frappe sur la terre nue, dans les endroits où la neige et les vents du ciel sublime ont abîmé les terres ensemencées, où les pluies de printemps ont manqué et où la sécheresse attriste la gaie campagne, vous ne demanderez pas d’impôts et là où
 les pluies de printemps n’ont pas arrosé la terre, vous repayerez du trésor aux cultivateurs la semence perdue et le salaire des laboureurs.
 
-S’il y a des champs abandonnés, dont le maître est mort sans famille et sans alliés, à Dieu ne plaise que ce qui est abrité par l’ombre du roi de l’Iran ne reste inculte, pour que mes ennemis me fassent honte 1k la pauvreté de mon trésor et qu’ils s’emparent de ce ce prétexte pour me reprocher que le pays se dépeuple sous mon règne et que l’ombre de mes ailes ne le protégé pas.
+S’il y a des champs abandonnés, dont le maître est mort sans famille et sans alliés, à Dieu ne plaise que ce qui est abrité par l’ombre du roi de l’Iran ne reste inculte, pour que mes ennemis me fassent honte 1k la pauvreté de mon trésor et qu’ils s’emparent de ce prétexte pour me reprocher que le pays se dépeuple sous mon règne et que l’ombre de mes ailes ne le protégé pas.
 
 Donnez de mon trésor tout’ce qu’il faudra, grâce à Dieu je n’en ai pas besoin.
 
