@@ -20,7 +20,7 @@ order: '020'
 Bahram dit :
 
 > C’est une faiblesse d’ajourner le
--e combat quand on est en campagne. »
+> -e combat quand on est en campagne. »
 
 Il ordonna à Yelan Sineh de choisir dans son camp trois mille cavaliers et à Ized Guschasp de faire monter à cheval quatre mille héros de cette vaillante armée et de frapper à la nuque sans aucun délai tous les Hollaliem qu’ils rencontreraient, dans l’espoir de faire sortir le roi de sa forteresse quand il verrait toute la plaine changée en un torrent de sang.
 
@@ -34,14 +34,13 @@ Il demeura ainsi pendant trois jours devant la porte du château et le quatrièm
 >
 > Où sont tous ces éléphants bardés de fer, où ces grands à l’esprit lucide?-Où sont Ces tours de magie et d’incantation, pour que tu te tiennes enfermé de cette façon ?
 >
-> Tous les pays des Turcs ne lui suffisaient pas ; jamais il n’y a eu un homme comme
-. ton père et toi tu es assis dans un château comme une femme, te frappant les joues avec tes deux mains sanglantes.
+> Tous les pays des Turcs ne lui suffisaient pas ; jamais il n’y a eu un homme comme ton père et toi tu es assis dans un château comme une femme, te frappant les joues avec tes deux mains sanglantes.
 >
-> Ouvre la porte, demande grâce. appelle-moi ton prolecteuranprès du roi du monde.
+> Ouvre la porte, demande grâce, appelle-moi ton protecteur auprès du roi du monde.
 >
-> Envoie hors du château tes trésors d’or, enroie sur la plaine toutes les caisses d’argent, ou, si tu veux garder tss trésors, tu ne conserveras pas le pays, sur un roi doit mépriser l’or.
+> Envoie hors du château tes trésors d’or, envoie sur la plaine toutes les caisses d’argent, ou, si tu veux garder tss trésors, tu ne conserveras pas le pays, sur un roi doit mépriser l’or.
 >
-> Je suis ton intermédiaire à la cour du roi, car je suis le héros du pays de l’Iran ; je te ferai grand au-dessus de tous les grands ; je ferai pour toi plus que tu ne penses et ne désires et si tu as un plan. qui puisse aider à, rendre brillantes tes affaires embrouiilées, dévoile-le et confie-le-moi ; et puisque la position est telle, ne cherche pas à la prolonger.-Mais si tu as quelques amis qui veulent faire la guerre, si tu as beaucoup de trésors et d’or, alors fais battre les timbales, recommence les combats car quand on a de l’argent on ne manque jamais de troupes. »
+> Je suis ton intermédiaire à la cour du roi, car je suis le héros du pays de l’Iran ; je te ferai grand au-dessus de tous les grands ; je ferai pour toi plus que tu ne penses et ne désires et si tu as un plan qui puisse aider à, rendre brillantes tes affaires embrouiilées, dévoile-le et confie-le-moi ; et puisque la position est telle, ne cherche pas à la prolonger.-Mais si tu as quelques amis qui veulent faire la guerre, si tu as beaucoup de trésors et d’or, alors fais battre les timbales, recommence les combats car quand on a de l’argent on ne manque jamais de troupes. »
 
 L’envoyé arriva et transmit son message ; Parmoudeh, qui cherchait à atteindre son but, répondit :
 
@@ -49,11 +48,11 @@ L’envoyé arriva et transmit son message ; Parmoudeh, qui cherchait à atteind
 
 > Abstiens-toi aussi longtemps que tu pourras de toucher au secret du monde.
 >
-> Tu es peut-être devenu confiant dans le sort, puisque les fatigues que tu as endurées ont porté leurs fruits. mais ne te laisse pas pervertir par la victoire ; car, si tu es jeune, le monde est vieux et personne ne connaît le secretdu ciel qui tourne et qui ne montre jamais sa face à découvert.
+> Tu es peut-être devenu confiant dans le sort, puisque les fatigues que tu as endurées ont porté leurs fruits, mais ne te laisse pas pervertir par la victoire ; car, si tu es jeune, le monde est vieux et personne ne connaît le secret du ciel qui tourne et qui ne montre jamais sa face à découvert.
 >
-> Le sarcasme ne sied pas à l’égard d’un roi ; moi aussi j’ai ou une armée, des éléphants et des timbales ; mais le puissant ciel aime à alentir aux hommes ; gardectoi donc de laisser prendre ton cœur dans les liens de la préemption.
+> Le sarcasme ne sied pas à l’égard d’un roi ; moi aussi j’ai ou une armée, des éléphants et des timbales ; mais le puissant ciel aime à alentir aux hommes ; garde-toi donc de laisser prendre ton cœur dans les liens de la préemption.
 >
-> Mon père était un vigilant maître du momie, tu l’as vu au jour de la bataille ; la terre était l’esclave des sabots de son cheval. le ciel ne tournait que selon sa volonté ; mais il a recherché ce ce qu’il n’aurait pas dû rechercher. il a soufl’ert pour ce avoir nourri des idées trompeuses.
+> Mon père était un vigilant maître du momie, tu l’as vu au jour de la bataille ; la terre était l’esclave des sabots de son cheval. le ciel ne tournait que selon sa volonté ; mais il a recherché ce qu’il n’aurait pas dû rechercher. il a soufl’ert pour avoir nourri des idées trompeuses.
 >
 > Le mérite dispa»
 
