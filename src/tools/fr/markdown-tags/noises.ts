@@ -565,6 +565,7 @@ export const noises = [
   'Préparons-nous',
   'Préparons',
   'Près',
+  'Presque',
   'Prête-moi',
   'Prête',
   'Prie-le',
