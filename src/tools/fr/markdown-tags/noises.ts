@@ -136,6 +136,7 @@ export const noises = [
   'Chaque',
   'Charge',
   'Chef',
+  'Faire',
   'Cherche',
   'Cherchez',
   'Chien',
