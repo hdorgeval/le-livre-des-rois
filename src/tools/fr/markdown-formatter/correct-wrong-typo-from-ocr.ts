@@ -1832,6 +1832,7 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/ rouronne /g, ' couronne '),
     (content: string) => content.replace(/ ce ce /g, ' ce '),
     (content: string) => content.replace(/ ’un /g, ' un '),
+    (content: string) => content.replace(/ soufl’ert /g, ' souffert '),
   ].forEach((format) => {
     result = format(result);
   });
