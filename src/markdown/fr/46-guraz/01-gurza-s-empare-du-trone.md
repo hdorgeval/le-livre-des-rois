@@ -1,15 +1,34 @@
 ---
-lastUpdate: '2021-09-07'
+lastUpdate: '2022-01-08'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
-source: tome VII - livre des rois - P. 336
+source: tome VII - livre des rois - P. 335
 reign: 'Guraz, appelé Ferayîn'
 reign-slug: 'regne-de-guraz'
 episode-slug: 'gurza-s-empare-du-trone'
 title: "Guraz s'empare du trône | Le Livre des Rois | Shâhnâmeh"
-tags: []
+tags:
+  [
+    'Abtin',
+    'Ardeschir',
+    'Dieu',
+    'Faire',
+    'Ferayîn',
+    'Feridoun',
+    'Guraz',
+    'Hormuzd',
+    'Iran',
+    'Iraniens',
+    'Istakhr',
+    'Keïanides',
+    'Khosroës',
+    'rejeton',
+    'Sâsânide',
+    'Saturne',
+    'Schehran',
+  ]
 order: '001'
 ---
 
@@ -43,7 +62,7 @@ Le fils cadet parla ensuite en ces termes :
 
 Guraz goûta mieux ce discours et il recommanda à son fils aîné de ne pas faire d’imprudence.
 
-Il ordonna ensuite à l’inspecteur des revues de sièger au bureau royal et réunit toute l’armée devant le palais.
+Il ordonna ensuite à l’inspecteur des revues de siéger au bureau royal et réunit toute l’armée devant le palais.
 
 Il distribua de l’argent jour et nuit et accorda beaucoup de présents d’honneur à ceux qui ne les méritaient pas : en deux semaines, il ne restait plus des trésors d’Ardeschir que la valeur d’une plume de flèche.
 
