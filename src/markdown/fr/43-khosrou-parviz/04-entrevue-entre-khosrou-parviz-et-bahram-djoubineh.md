@@ -19,11 +19,9 @@ order: '004'
 
 Khosrou et Bahram se rencontrèrent, l’un le visage ouvert et l’autre avec une mine sombre.
 
-Le maître du monde était assis sur son cheval couleur d’ivoire, une couronne d’or et de rubis sur laltête et vêtu d’une tunique de brocart d’or de Chine.
+Le maître du monde était assis sur son cheval couleur d’ivoire, une couronne d’or et de rubis sur la tête et vêtu d’une tunique de brocart d’or de Chine.
 
-Guerdouî le précédait comme guide ; Bendouï, Gustehem et Kharrad, fils de Berzin, portant un casque d’or, l’accompagnaient, couverts de fer, d’or et d’argent et de ceintures où l’or disparaissait sous les 3.
-
-Rubis.
+Guerdouï le précédait comme guide ; Bendouï, Gustehem et Kharrad, fils de Berzin, portant un casque d’or, l’accompagnaient, couverts de fer, d’or et d’argent et de ceintures où l’or disparaissait sous les rubis.
 
 Lorsque Bahram vit le visage du roi des rois, il pâlit de colère et dit à ses grands :
 
@@ -45,7 +43,7 @@ Il parla ainsi et lança son cheval blanc ; on aurait dit que ce destrier était
 
 Il choisit un étroit champ de bataille et l’armée le regarda avec étonnement.
 
-De la, il revint vers le Nahrewan et s’avança vers le fortuné prince, accoml3 pagué de quelques Iraniens, tous armés pour le combat contre Khosrou.
+De la, il revint vers le Nahrewan et s’avança vers le fortuné prince, accompagné de quelques Iraniens, tous armés pour le combat contre Khosrou.
 
 Khosrou dit :
 
@@ -53,7 +51,7 @@ Khosrou dit :
 >
 > Qui de vous reconnaît Bahram Djoubineh ? »
 
-Guerdouî répondit :
+Guerdouï répondit :
 
 > Ô roi, regarde l’homme monté sur un cheval blanc, en tunique blanche, avec un baudrier noir et courant au milieu de la troupe. »
 
@@ -61,13 +59,15 @@ Lorsque le maître du monde vit Bahram, il comprit sa nature parfaitement et dit
 
 > Cet homme sombre à haute taille, assis sur ce cheval blanc qui relève la tête ? »
 
-Guerdouî répondit :
+Guerdouï répondit :
 
-> C’est lui, un homme qui n’a jamais en une pensée de bien. »
+> C’est lui, un homme qui n’a jamais eu une pensée de bien. »
 
 Khosrou dit :
 
-> Si tu fais une question à ce Pehlewan au des courbé, il te donnera une réponse rude.On dirait que cet homme au museau de sanglier et aux yeux moitié fermés a le cœur rempli de colère ; regarde ses yeux et tu verras que c’est un mauvais homme et l’ennemi de Dieu dans le monde.
+> Si tu fais une question à ce Pehlewan au dos courbé, il te donnera une réponse rude.
+>
+> On dirait que cet homme au museau de sanglier et aux yeux à moitié fermés a le cœur rempli de colère ; regarde ses yeux et tu verras que c’est un mauvais homme et l’ennemi de Dieu dans le monde.
 >
 > Je ne vois pas en lui une trace de soumission et il n’obéira jamais à personne. »
 
@@ -81,15 +81,15 @@ Puis, il dit à Bendouï et à Gustehem :
 >
 > Un cœur malade d’ambition n’écoute plus les conseils des grands.
 >
-> Il ne nous reste qu’à combattre Djoubineh, car il n’y a pas de place dans son âme pour la justice ; mais, une fois que l’on entame la lutte, les paroles ne sont plus de mise et il faut réfléchir à tout, depuis le commencement jusqu’à la fin, car qui sait qui sera victorieux dans la lutte et qui, de ce côtéou de l’autre, couvrira son armée de gloire ?
+> Il ne nous reste qu’à combattre Djoubineh, car il n’y a pas de place dans son âme pour la justice ; mais, une fois que l’on entame la lutte, les paroles ne sont plus de mise et il faut réfléchir à tout, depuis le commencement jusqu’à la fin, car qui sait qui sera victorieux dans la lutte et qui, de ce côté ou de l’autre, couvrira son armée de gloire ?
 >
-> Nour avons devant nous une armée si bien ordonnée, avec un chef ardent pour le combat comme Djoubineh, un homme cruel comme le Div terrible, avec des troupes comme des loups qui hurlent.
+> Nous avons devant nous une armée si bien ordonnée, avec un chef ardent pour le combat comme Djoubineh, un homme cruel comme le Div terrible, avec des troupes comme des loups qui hurlent.
 >
 > Si vous êtes de mon avis, je ne crois pas me déshonorer si je lui fais des avances par des questions de politesse ; cela vaudra mieux que si je faiblissais dans le combat.
 >
 > Si je reçois de lui des paroles mesurées, ses méfaits inouïs s’oublieront, je lui donnerai un coin du monde et lui imposerai de la reconnaissance par mes libéralités.
 >
-> Alors cette lutte et ces préparations. pour le champ de bataille se tourneront en paix ; la paix me profitera et ma prudence aura empêché des malheurs.
+> Alors cette lutte et ces préparations pour le champ de bataille se tourneront en paix ; la paix me profitera et ma prudence aura empêché des malheurs.
 >
 > Quand un roi agit comme un marchand, le cœur des hommes purs se réjouit. »
 
@@ -97,41 +97,41 @@ Gustehem lui dit :
 
 > Ô roi !
 >
-> Puissestu vivre jusqu’à la fin des temps.
+> Puisses-tu vivre jusqu’à la fin des temps.
 >
-> Tes paroles sont des perles que tu répands, tu es le plus sage des homes ,-fais ce que tu trouves bon.
+> Tes paroles sont des perles que tu répands, tu es le plus sage des homes; fais ce que tu trouves bon.
 >
-> Tu es plein de justice ; mais Baram, cet esclave, est dépourvu de justice ; la tête est remplie de cervelle et la sienne est pleine de vent. »
+> Tu es plein de justice ; mais Bahram, cet esclave, est dépourvu de justice ; ta tête est remplie de cervelle et la sienne est pleine de vent. »
 
 Khosrou, ayant entendu ces paroles, se mit en route et s’avança majestueusement, précédant son escorte.
 
-Il adressa de loin à Bahram les questions (l’usage, il désirait convertir en fête la bataille imminente, disant :
+Il adressa de loin à Bahram les questions d’usage, il désirait convertir en fête la bataille imminente, disant :
 
 > Ô toi qui portes haut la tête !
 >
-> Que lais-tu sur un champ de bataille ?
+> Que fais-tu sur un champ de bataille ?
 >
 > Tu es l’ornement de la cour, tu es le fondement du trône et de la couronne, le soutien de l’armée à l’heure de la lutte et le flambeau brillant au jour de la fête.
 >
-> Tu es un héros plein d’ambition et un adorateur de Dieu ; puisse le Seigneur ne jamais rétirer sa main de toi !
+> Tu es un héros plein d’ambition et un adorateur de Dieu ; puisse le Seigneur ne jamais retirer sa main de toi !
 >
 > J’ai réfléchi sur ton sort, j’ai pesé ta position avec bienveillance ; je te donnerai l’hospitalité à toi et à ton armée, ta vue fera la joie de mon âme.
 >
-> Je te nommerai Sipehdar de l’Iran, comme c’est juslice ; je prierai Dieu le Créateur pour loi. »
+> Je te nommerai Sipehdar de l’Iran, comme c’est justice ; je prierai Dieu le Créateur pour toi. »
 
-Le vaillant Bahram écouta ce discours ; il rendit labride à son cheval blanc à queue couleur demme, salua le roi du haut de son destrier et se tint devant lui pendant longtemps.
+Le vaillant Bahram écouta ce discours ; il rendit la bride à son cheval blanc à queue couleur de musc, salua le roi du haut de son destrier et se tint devant lui pendant longtemps.
 
-Ensuite. cet homme monté sur le cheval blanc répondit :
+Ensuite cet homme monté sur le cheval blanc répondit :
 
-> Je suis content, heurreux et prospère, mais toi, puissesdzu ne jamais arriver au pouvoir, car tu ne saurais user de la royauté ni justement ni injustement.
+> Je suis content, heureux et prospère, mais toi, puisses-tu ne jamais arriver au pouvoir, car tu ne saurais user de la royauté ni justement ni injustement.
 >
-> Quand le roi des Alains se fait empereur, il n’y a que des in malheureux qui se fassent ses partisans.
+> Quand le roi des Alains se fait empereur, il n’y a que des malheureux qui se fassent ses partisans.
 >
-> Moi aussi j’ai réfléchi sur ton sort et je viens d’assouplir un lacet qui t’est destiné ; ferai préparer en toute
->
-> hâte un gibet élevé, je te lierai en roulant mon lacet autour de tes deux mains, je le suspendrai à ce gibet dont tu es digne et je te ferai goûter l’amertume du sort. »
+> Moi aussi j’ai réfléchi sur ton sort et je viens d’assouplir un lacet qui t’est destiné ; je ferai préparer en toute hâte un gibet élevé, je te lierai en roulant mon lacet autour de tes deux mains, je te suspendrai à ce gibet dont tu es digne et je te ferai goûter l’amertume du sort. »
 
-I À cette réponse de Bahram, la joue de Khosrou pâlit comme la fleur du fenugrec, il comprit que le cœur de cet homme ne renoncerait pas au trône ni au diadème par respect pour lui. il répondit :
+À cette réponse de Bahram, la joue de Khosrou pâlit comme la fleur du fenugrec, il comprit que le cœur de cet homme ne renoncerait pas au trône ni au diadème par respect pour lui.
+
+Il répondit :
 
 > Ô ingrat !
 >
@@ -147,13 +147,13 @@ I À cette réponse de Bahram, la joue de Khosrou pâlit comme la fleur du fenug
 >
 > Quand un hôte te donne de bonnes paroles, il faut être un Div pour répondre de cette façon.
 >
-> Je crains que tes mauvais’jours n’approchent, car tu te conduis comme un insensé.
+> Je crains que tes mauvais jours n’approchent, car tu te conduis comme un insensé.
 >
 > Ton salut est entre les mains de ce roi qui est éternel et le maître de tout ; mais tu es un pécheur et irrévérent envers Dieu ; tu es exposé au blâme et ton cœur tremble.
 >
 > Quand tu m’appelles roi des Alains, tu indiques mal ma descendance.
 >
-> Suis-je donc indigne d’être roi des rois ; est-ce que le diadème du pouvoir ne me conl7 vient pas, à moi dont le grand-père était Kesra et le père, Hormuzd ?
+> Suis-je donc indigne d’être roi des rois ; est-ce que le diadème du pouvoir ne me convient pas, à moi dont le grand-père était Kesra et le père, Hormuzd ?
 >
 > Qui donc connais-tu ayant plus de droit que moi ? »
 
@@ -306,7 +306,7 @@ Bahram répondit :
 > Celui qui l’enlève le trône le mérite.
 >
 > Est-ce que les Aschkanides ne possédaient pas le pouvoir royal, lorsque la fille de Babelr mit au monde Ardeschir ?
-rlût Ardeschir ne devint-il pas puissant et le trône ’i. 2b ne tomba-t-il pas entre ses mains lorsqu’il eut tué Ardewan ?
+> rlût Ardeschir ne devint-il pas puissant et le trône ’i. 2b ne tomba-t-il pas entre ses mains lorsqu’il eut tué Ardewan ?
 >
 > Cinq cents ans ont passé depuis, la tête et la couronne des Sasanides se sont affaiblies ; le jour est venu où je m’empare du trône et du dia-I dème et ma fortune victorieuse est aujourd’hui dominante.
 >
@@ -463,7 +463,7 @@ Il faut faire ni plus ni moins que ce que Zerdouscht dit dans le Zend :
 > Ô homme de mauvaise nature, si tu sais que Minoutchehr était roi du monde, comment ne sais-tu pas qu’Arisch était son esclave, courbant la tête sous les ordres et la volonté du roi.
 >
 > Puis, quand il
-.y eut un roi comme Keïkhosrou, le vindicatif et un serviteur comme Rustem, celuic1 aurait pu saisir le pouvoir et s’emparer de la majesté du trône des Keïanides ; mais il a respecté le droitdes rois et n’a pas jeté un seul regard sur le trône. »
+> .y eut un roi comme Keïkhosrou, le vindicatif et un serviteur comme Rustem, celuic1 aurait pu saisir le pouvoir et s’emparer de la majesté du trône des Keïanides ; mais il a respecté le droitdes rois et n’a pas jeté un seul regard sur le trône. »
 
 Bahram répondit :
 
