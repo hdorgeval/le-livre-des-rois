@@ -1,7 +1,7 @@
 ---
-lastUpdate: '2021-12-26'
+lastUpdate: '2022-01-08'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 006
@@ -9,7 +9,43 @@ reign: 'Khosrou Parviz'
 reign-slug: 'regne-de-khosrou-parviz'
 episode-slug: 'bahram-djoubineh-se-met-en-marche-contre-khosrou'
 title: 'Bahram Djoubineh se met en marche contre Khosrou Parvis | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags:
+  [
+    'âme',
+    'Arménie',
+    'Baghdad',
+    'Bahram',
+    'Bendouï',
+    'Calilah',
+    'Destour',
+    'Dieu',
+    'Dimnah',
+    'Djoubineh',
+    'Endian',
+    'Guerdouï',
+    'Guschasp',
+    'Gustehem',
+    'Gémeaux',
+    'Hamdan',
+    'Iran',
+    'Ized',
+    'Khakan',
+    'Khosrou',
+    'lacet',
+    'Mobed',
+    'Mobeds',
+    'Nahrewan',
+    'Parvis',
+    'Pehlewan',
+    'Radman',
+    'Schapour',
+    'Sineh',
+    'Sipehbed',
+    'Sipehdar',
+    'Turcs',
+    'Vizir',
+    'Yelan',
+  ]
 order: '003'
 ---
 
@@ -25,7 +61,7 @@ Il fit porter dehors les timbales, il donna l’ordre de porter dans la plaine l
 
 Lorsque Khosrou eut des nouvelles de sa marche, il devint inquiet de ses menées violentes, envoya des émissaires actifs pour observer ce qui se passait et leur dit :
 
-> Avant tout il faut tirer au clair le secret de cette armée, si elle est du même avis que Bainam sur la guerre, ce qui pour nous ferait traîner en longueur cette affaire ; ensuite il faut observer si Bahram, quand il se place au centre de l’armée, se tient en avant ou au milieu des troupes, comment il s’assoit quand il donne audience et s’il se livre à la chasse pendant sa marche. »
+> Avant tout il faut tirer au clair le secret de cette armée, si elle est du même avis que Bahram sur la guerre, ce qui pour nous ferait traîner en longueur cette affaire ; ensuite il faut observer si Bahram, quand il se place au centre de l’armée, se tient en avant ou au milieu des troupes, comment il s’assoit quand il donne audience et s’il se livre à la chasse pendant sa marche.
 
 Les émissaires partirent de la cour sans que l’armée du roi s’en fût aperçue ; ils partirent, observèrent, revinrent et se rendirent en secret auprès de Khosrou et dirent :
 
@@ -35,17 +71,17 @@ Les émissaires partirent de la cour sans que l’armée du roi s’en fût aper
 >
 > Quand il donne audience, il est assis comme les rois et il chasse dans les plaines avec des guépards.
 >
-> Aucun homme à vue longue et à haute ambition n’est plus illustre ni plus vaillant que lui ; il ne sort jamais des coutumes royales, il fit en entier le livre de Calilah et Dimnah. »
+> Aucun homme à vue longue et à haute ambition n’est plus illustre ni plus vaillant que lui ; il ne sort jamais des coutumes royales, il lit en entier le livre de Calilah et Dimnah.
 
 Khosrou dit à son Destour :
 
-> Nous avons devant nous une affaire longue, car Bahram, quand il lance son cheval contre un ennemi, effraye les dragons dans la mer ; ensuite il a appris du maître du monde, mon père, des manières Ide roi des rois ; enfin on dirait qu’il a pris pour Vizir le livre de Calilah, qui est un conseiller savant comme personne n’en possède. »
+> Nous avons devant nous une affaire longue, car Bahram, quand il lance son cheval contre un ennemi, effraye les dragons dans la mer ; ensuite il a appris du maître du monde, mon père, des manières de roi des rois ; enfin on dirait qu’il a pris pour Vizir le livre de Calilah, qui est un conseiller savant comme personne n’en possède.
 
 Ensuite, il dit à Bendouï et à Gustehem :
 
-> Nous sommes devenus les compagnons du chagrin et des peines. »
+> Nous sommes devenus les compagnons du chagrin et des peines.
 
-Guerdouï, Schapour, Endian et Badman, le chef de l’Arménie, des grands pleins d’intelligence et d’ardeur guerrière, tinrent en secret une séance avec le roi de l’Iran.
+Guerdouï, Schapour, Endian et Radman, le chef de l’Arménie, des grands pleins d’intelligence et d’ardeur guerrière, tinrent en secret une séance avec le roi de l’Iran.
 
 Khosrou dit à ces grands :
 
@@ -55,9 +91,9 @@ Khosrou dit à ces grands :
 >
 > Je suis votre inférieur en âge et ne puis me charger du gouvernement du monde en raison de ma jeunesse.
 >
-> Dites quel est le remède à employer, car qui de nous ne souffre pas de ces blessures ? »
+> Dites quel est le remède à employer, car qui de nous ne souffre pas de ces blessures ?
 
-9 Le Grand Mobed répondit :
+Le Grand Mobed répondit :
 
 > Puisses-tu être heureux !
 >
@@ -69,7 +105,7 @@ Khosrou dit à ces grands :
 >
 > Mais l’homme ingrat et celui qui ne connaît pas Dieu n’ont pas d’intelligence.
 >
-> Si le roi veut écouter cette parole qu’a dite un sage vieillard et s’il veut y réfléchir dans son âme, il en profitera quand il l’aura fait entrer dans son esprit. »
+> Si le roi veut écouter cette parole qu’a dite un sage vieillard et s’il veut y réfléchir dans son âme, il en profitera quand il l’aura fait entrer dans son esprit.
 
 Le roi dit :
 
@@ -85,21 +121,21 @@ Le roi dit :
 >
 > Si je le reçois bien et si je le couvre de louanges ?
 >
-> S’il accepte mes pro-3 positions, ce sera bien, car qui est comparable à lui dans ma cour ?
+> S’il accepte mes propositions, ce sera bien, car qui est comparable à lui dans ma cour ?
 >
-> S’il veut la guerre, suis prêt pour la lutte et nous mènerons notre armée contre la sienne. »
+> S’il veut la guerre, je suis prêt pour la lutte et nous mènerons notre armée contre la sienne.
 
 Les grands lui rendirent hommage et l’acclamèrent roi du monde ; tous les hommes qui avaient de l’expérience applaudirent à ses paroles et chacun s’écria :
 
 > Ô roi !
-
-Puisse le mauvais sort rester loin de toi, puissent la victoire et la gloire, la puissance et le diadème impérial être à toi !
+>
+> Puisse le mauvais sort rester loin de toi, puissent la victoire et la gloire, la puissance et le diadème impérial être à toi !
 
 À Khosrou dit :
 
 > Ainsi soit-il !
 >
-> Puissions-nous n’être ni vaincus : ni désunis ! »
+> Puissions-nous n’être ni vaincus ni désunis !
 
 Il emmena l’armée de Baghdad et fit dresser l’enceinte neuve de ses tentes dans la plaine.
 
@@ -107,14 +143,14 @@ Lorsque les deux armées s’approchèrent, d’un côté celle du Sipehbed, de 
 
 Au moment où la nuit, tremblante et les lèvres desséchées, s’enfuit devant le glaive du jour, on entendit résonner le tambour des deux grandes tentes et le soleil devint le guide pour le combat.
 
-Le n roi ordonna à Bendouï et à Gustehem de mettre leurs casques de Ier et s’avance avec ses grands à l’esprit serein jusqu’à la source du Nabrewan.
+Le roi ordonna à Bendouï et à Gustehem de mettre leurs casques de fer et s’avança avec ses grands à l’esprit serein jusqu’à la source du Nahrewan.
 
 Une ronde avertit à l’instant Bahram qu’une troupe était arrivée à deux portées de flèche ; aussitôt Bahram envoya des troupes, appela près de lui des hommes expérimentés, monta sur un cheval blanc, à crinière noire, se cabrant, portant haut la tête, à sabots d’airain.
 
 Il était armé d’une épée indienne dont le coup frappait comme la foudre.
 
-Il lança son cheval comme un éclair brillant ; à sa gauche était le vil Ized Guschasp et Hamdan Guschasp et Yelail Sineh l’accompagnaient, remplis de haine et le cœur plein d’ardeur.
+Il lança son cheval comme un éclair brillant ; à sa gauche était le vil Ized Guschasp et Hamdan Guschasp et Yelan Sineh l’accompagnaient, remplis de haine et le cœur plein d’ardeur.
 
-Avec eux marchaient trois vaillants Turcs du pays du Kbakan, résolus de servir la haine de Bahram et ayant promis tous les trois que s’ils voyaient le roi loin de son armée, ils l’amèneraient en courant au camp de Bahram, mort ou captif.
+Avec eux marchaient trois vaillants Turcs du pays du Khakan, résolus de servir la haine de Bahram et ayant promis tous les trois que s’ils voyaient le roi loin de son armée, ils l’amèneraient en courant au camp de Bahram, mort ou captif.
 
 C’est ainsi que se trouvaient d’un côté Khosrou, de l’autre le Pehlewan et au milieu d’eux coulait le Nahrewan ; les armées regardaient attentivement des deux côtés pour voir comme Bahram s’approcherait du roi.
