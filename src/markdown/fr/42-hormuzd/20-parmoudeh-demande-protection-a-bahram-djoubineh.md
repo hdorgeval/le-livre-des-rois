@@ -52,11 +52,9 @@ L’envoyé arriva et transmit son message ; Parmoudeh, qui cherchait à atteind
 >
 > Le sarcasme ne sied pas à l’égard d’un roi ; moi aussi j’ai ou une armée, des éléphants et des timbales ; mais le puissant ciel aime à alentir aux hommes ; garde-toi donc de laisser prendre ton cœur dans les liens de la préemption.
 >
-> Mon père était un vigilant maître du momie, tu l’as vu au jour de la bataille ; la terre était l’esclave des sabots de son cheval. le ciel ne tournait que selon sa volonté ; mais il a recherché ce qu’il n’aurait pas dû rechercher. il a soufl’ert pour avoir nourri des idées trompeuses.
+> Mon père était un vigilant maître du momie, tu l’as vu au jour de la bataille ; la terre était l’esclave des sabots de son cheval, le ciel ne tournait que selon sa volonté ; mais il a recherché ce qu’il n’aurait pas dû rechercher, il a souffert pour avoir nourri des idées trompeuses.
 >
-> Le mérite dispa»
-
-Rait si l’on emploie des incantations et l’ennemi en rit de loin.
+> Le mérite disparait si l’on emploie des incantations et l’ennemi en rit de loin.
 
 Quand tu dis que le nombre de tes troupes est plus grand que celui des révolutions du soleil et de la lune, que tes destriers et tes éléphants sont comme les graines d’herbes que balaye le vent des ailes d’un moulin, cela durera jusqu’à ce que ton jour soit passé, car toi non plus tu ne resteras upas toujours heureux ni la lumière du monde.
 
@@ -66,9 +64,7 @@ Tout homme dont l’occupation est de verser du sang, de remplir d’inquiétude
 
 Si tu dévastes le pays des Turcs, ils finiront par vouloir se venger de toi.
 
-Néanmoins je n’irai pas te combattre sans une armée car mes amis m’accuseraient de folie et je n’irai pas me présenter devant toi, quoique je ne craigne pas que tu me mettes à mort ; mais tu es
-
-Un serviteur et moi je suis un roi : pourquoi m’ha-milierais-je devant un serviteur ?
+Néanmoins, je n’irai pas te combattre sans une armée, car mes amis m’accuseraient de folie et je n’irai pas me présenter devant toi, quoique je ne craigne pas que tu me mettes à mort ; mais tu es un serviteur et moi je suis un roi : pourquoi m’ha-milierais-je devant un serviteur ?
 
 Si la nécessité me force de demander protection à ton roi, il n’y aura pas de honte et alors le château, mon trésor et mes hommes seront à toi et tu pourras, selon ton gré, occuper ce pays illustre. »
 
