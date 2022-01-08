@@ -286,3 +286,8 @@
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QIl passa toute la nuit plongé dans ses réflexions ; lorsque le soleil brillant se montra, Rustem, avide de combats, partit en toute hâte, emmenant sous ses ordres les hommes les plus nobles et tous ceux qui étaient prudents et braves.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QLorsque le soleil semblable à du brocart jaune parut, mouchetant la montagne comme une peau de léopard, de nombreux combattants gisaient à terre tués ou blessés, cavaliers et chefs succombaient à la fatigue.\\E$"}
 {"rule":"EN_BON_ORDRE","sentence":"^\\QIl tient en bon ordre tous ses hommes et n'a pas besoin d'étrangers.\\E$"}
+{"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QUn jeune homme affable et doux de paroles vaut mieux qu'un vieillard querelleur et affaibli par l'âge ; mais la tête de l'homme de valeur et celle du vaurien sont à la fin également recouvertes par la poussière.\\E$"}
+{"rule":"A_ACCENT","sentence":"^\\QOn dirait que cet homme au museau de sanglier et aux yeux à moitié fermés a le cœur rempli de colère ; regarde ses yeux et tu verras que c'est un mauvais homme et l'ennemi de Dieu dans le monde.\\E$"}
+{"rule":"D_N","sentence":"^\\QPuisque Djoubineh a été perverti par le Div, comment pourrait-il reconnaître la voie de Dieu ?\\E$"}
+{"rule":"D_N","sentence":"^\\QNous avons devant nous une armée si bien ordonnée, avec un chef ardent pour le combat comme Djoubineh, un homme cruel comme le Div terrible, avec des troupes comme des loups qui hurlent.\\E$"}
+{"rule":"D_N","sentence":"^\\QQuand un hôte te donne de bonnes paroles, il faut être un Div pour répondre de cette façon.\\E$"}
