@@ -285,3 +285,4 @@
 {"rule":"ACCORD_CENTAINE_DE","sentence":"^\\QTu es seul et tes ennemis sont au nombre de cent mille ; comment pourrais-tu combattre encore à travers le monde ?\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QIl passa toute la nuit plongé dans ses réflexions ; lorsque le soleil brillant se montra, Rustem, avide de combats, partit en toute hâte, emmenant sous ses ordres les hommes les plus nobles et tous ceux qui étaient prudents et braves.\\E$"}
 {"rule":"AGREEMENT_POSTPONED_ADJ","sentence":"^\\QLorsque le soleil semblable à du brocart jaune parut, mouchetant la montagne comme une peau de léopard, de nombreux combattants gisaient à terre tués ou blessés, cavaliers et chefs succombaient à la fatigue.\\E$"}
+{"rule":"EN_BON_ORDRE","sentence":"^\\QIl tient en bon ordre tous ses hommes et n'a pas besoin d'étrangers.\\E$"}
