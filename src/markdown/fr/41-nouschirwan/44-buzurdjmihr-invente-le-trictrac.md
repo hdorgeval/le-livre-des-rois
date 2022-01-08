@@ -55,7 +55,7 @@ Il commença sa lettre par bénir le prince qui cherche en Dieu un refuge contre
 >
 > J’envoie, à la place des échecs, le jeu du nard pour voir si l’on veut relever ce défi de ce jeux.
 >
-> Il y a beaucoup de Brahmanes de bon conseil qui, par leur savoir, pourront trouver la marche de ce ce jeu.
+> Il y a beaucoup de Brahmanes de bon conseil qui, par leur savoir, pourront trouver la marche de ce jeu.
 >
 > Le Radja enverra dans son trésor toutes les R richesses que mon messager lui apportera avec beau-coup de fatigue ; mais si lui et ses conseillers essayent de découvrir le jeu du nard et ne réussissent pas, il faut que le Radja du Kanoudj fasse préparer, conformément à notre traité, le même nombre
 (r de charges de chameaux et qu’il me les envoie, en me rendant en même temps ce que je lui ai expédié.
