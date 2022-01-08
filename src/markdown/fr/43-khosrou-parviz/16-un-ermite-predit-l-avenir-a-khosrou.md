@@ -42,7 +42,7 @@ L’ermite répondit :
 
 Aussitôt que je t’ai vu, j’ai tout dit ; n’essaye jamais de me mettre à l’épreuve ; ta foi n’admet pas le mensonge et ta voie et ta dignité ne permettent pas de tromrperie.
 
-Tu as supporté et soufl’ert bien des peines, à latin tu t’es enfui devant cet esclaveun Khosrou resta confondu de ces paroles, il fut honteux de lui-même et lui demanda pardon.
+Tu as supporté et souffert bien des peines, à latin tu t’es enfui devant cet esclaveun Khosrou resta confondu de ces paroles, il fut honteux de lui-même et lui demanda pardon.
 
 L’ermite dit :
 
