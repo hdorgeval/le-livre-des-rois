@@ -1830,6 +1830,8 @@ export function correctWrongTypoFromOcr(content: string): string {
     (content: string) => content.replace(/\. ce Qu/g, '. Qu'),
     (content: string) => content.replace(/\. ce c’est /g, ', c’est '),
     (content: string) => content.replace(/ rouronne /g, ' couronne '),
+    (content: string) => content.replace(/ ce ce /g, ' ce '),
+    (content: string) => content.replace(/ ’un /g, ' un '),
   ].forEach((format) => {
     result = format(result);
   });
