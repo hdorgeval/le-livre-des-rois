@@ -64,8 +64,8 @@ Thalhend écouta ces conseils de leur mère ; il ne trouva pas qu’ils lui fuss
 > Tu décides pour Gau parce qu’il est l’aîné ; mon frère est mon aîné, mais on ne vaut pas mieux parce qu’on est plus âgé.
 >
 > Il y a dans la ville et l’armée bien des hommes vieux comme les vautours dans les cieux, mais qui n’ambitionnent pas la royauté et le commandement, le diadème, le trésor, le trône et la couronne.
-
-Mon père est mort encore jeune et n’a laissé à personne le trône du pouvoir ; mais je vois que ton cœur penche du côté de Gau ; c’est lui que tu veux nommer roi et pourtant je pourrais faire des hommes comme lui avec de la boue et malheur à moi si je laisse déshonorer le nom de mon père. »
+>
+> Mon père est mort encore jeune et n’a laissé à personne le trône du pouvoir ; mais je vois que ton cœur penche du côté de Gau ; c’est lui que tu veux nommer roi et pourtant je pourrais faire des hommes comme lui avec de la boue et malheur à moi si je laisse déshonorer le nom de mon père. »
 
 Y Sa mère lui fit un serment solennel, disant :
 
@@ -77,26 +77,25 @@ Y Sa mère lui fit un serment solennel, disant :
 >
 > Puissent mes avis calmer vos âmes ! »
 
-Ensuite elle appela tous les sages, répéta devant eux tous les conseils qu’elle avait donnés, apporta les clefs des trésors des deux rois qui avaient été des sages et des hommes purs. mit devant les yeux des grands pleins d’expérience tout ce qui avait été déposé et partagea tout entre ses fils, selon la justice.
+Ensuite elle appela tous les sages, répéta devant eux tous les conseils qu’elle avait donnés, apporta les clefs des trésors des deux rois qui avaient été des sages et des hommes purs, mit devant les yeux des grands pleins d’expérience tout ce qui avait été déposé et partagea tout entre ses fils, selon la justice.
 
-Elle aurait voulu satisfaire les désirs et l’avoriser à la fois les plans de ses deux fils.
+Elle aurait voulu satisfaire les désirs et favoriser à la fois les plans de ses deux fils.
 
 Gau dit à Thalhend :
 
-> Ô excellent homme qui cherches des voies nouvelles !
+> Ô excellent homme qui cherche des voies nouvelles !
 >
 > Tu as entendu combien Djemhour était supérieur à Maï en âge et en raison.
 >
-> Ton noble et vertueux père n’a témoigné au-
-> xcun désir d’occuper le trône de Djemhour ; il n’était pas honteux d’être son inférieur, il ne demandait pas à se placer au-dessus de ses supérieurs.
+> Ton noble et vertueux père n’a témoigné aucun désir d’occuper le trône de Djemhour ; il n’était pas honteux d’être son inférieur, il ne demandait pas à se placer au-dessus de ses supérieurs.
 >
 > Pense donc si Dieu, le dispensateur de la justice, approuverait que je fusse ceint comme un esclave devant mon frère cadet.
 >
 > Ma mère n’a dit que ce qui est juste, pourquoi ton cœur se plaît-il dans l’injustice ?
 >
-> Appelons quelques grands de l’armée, des, hommes intelligents qui ont fait le tour du monde . écoutons ce que diront nos précepteurs et confor-mons-nous à leurs avis et à leurs ordres. »
+> Appelons quelques grands de l’armée, des, hommes intelligents qui ont fait le tour du monde, écoutons ce que diront nos précepteurs et conformons-nous à leurs avis et à leurs ordres. »
 
-Les deux jeunes gens quittèrent le palais de leur mère en discutant et le cœur plein d’incertitude ; ils finirent par convenir de n’écouter ni les grands ni les Pehlewans, ni les savants ni les ignorants, mais d’adopter l’avis de leurs précepteurs, dont l’enseignement leur avait fait connaître les sciences et éclairéhl’esprit.
+Les deux jeunes gens quittèrent le palais de leur mère en discutant et le cœur plein d’incertitude ; ils finirent par convenir de n’écouter ni les grands ni les Pehlewans, ni les savants ni les ignorants, mais d’adopter l’avis de leurs précepteurs, dont l’enseignement leur avait fait connaître les sciences et éclairé l’esprit.
 
 Les deux savants conseillers arrivèrent et discutèrent entre eux de toutes les façons.
 
