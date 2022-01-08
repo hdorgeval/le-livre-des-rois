@@ -27,7 +27,7 @@ Tu lui répéteras en mon nom ces paroles :
 >
 > Tu sais ce que tu as fait et ce que tu as dit ; tu dois te rappeler les temps de tranquillité et les temps d’anxiété et de fatigue.
 >
-> Lorsque les rois, les grands et tout le pays de Touran eurent commis ’un crime et que Feridoun le roi illustre eut quitté le monde, le cœur blessé, l’âme inquiète, les cils de ses yeux trempés de fiel ; lorsque l’Iran et son roi étaient pleins de douleur et que la lune en deuil à cause de la mort d’Iredj ne brillait plus, alors toi seul parmi le peuple des Turcs t’es vanté de ton humanité et de ta loyauté.
+> Lorsque les rois, les grands et tout le pays de Touran eurent commis un crime et que Feridoun le roi illustre eut quitté le monde, le cœur blessé, l’âme inquiète, les cils de ses yeux trempés de fiel ; lorsque l’Iran et son roi étaient pleins de douleur et que la lune en deuil à cause de la mort d’Iredj ne brillait plus, alors toi seul parmi le peuple des Turcs t’es vanté de ton humanité et de ta loyauté.
 >
 > Mais ce renom d’humanité n’est qu’un mensonge ; car je ne vois dans ton cœur ni humanité ni repos.
 >
