@@ -1,7 +1,7 @@
 ---
-lastUpdate: '2021-09-07'
+lastUpdate: '2022-01-08'
 lang: 'fr'
-status: 'draft'
+status: 'ready'
 thumbnail: 'https://source.unsplash.com/EFm7JpD9jy8'
 image: 'EFm7JpD9jy8.jpeg'
 source: tome VII - livre des rois - P. 338
@@ -9,7 +9,7 @@ reign: 'Guraz, appelé Ferayîn'
 reign-slug: 'regne-de-guraz'
 episode-slug: 'ferayin-perit-de-la-main-de-schehran-guraz'
 title: 'Ferayîn périt de la main de Schehran Guraz | Le Livre des Rois | Shâhnâmeh'
-tags: []
+tags: ['Aderguschasp', 'Ferayîn', 'Guraz', 'Iraniens', 'rejeton', 'Schehran']
 order: '002'
 ---
 
@@ -19,17 +19,15 @@ order: '002'
 
 Or, un jour le roi fit ses préparatifs et sortit de la ville pour aller à la chasse, accompagné d’une armée d’Iraniens composée d’hommes de tout rang.
 
-Feray ! »
+Ferayîn lança son cheval et courut de tous côtés, semblable à Aderguschasp ; les cavaliers réunis autour du roi s’élancèrent sur les bêtes fauves pour leur faire la chasse.
 
-Lança son cheval et courut de tous côtés, semblable à Aderguschasp ; les cavaliers réunis autour du roi s’élancèrent sur les bêtes fauves pour leur faire la chasse.
-
-Lorsqu’on s’en retourna vers la ville, Schehran Guraz regarda sans crainte ce roi méprisable ; il tira de son carquois une flèche à pointe d’acier et poussa en avant son cheval noir, tandis que l’armée GUBAZ, APPELÉ suants l’observait attentivement.
+Lorsqu’on s’en retourna vers la ville, Schehran Guraz regarda sans crainte ce roi méprisable ; il tira de son carquois une flèche à pointe d’acier et poussa en avant son cheval noir, tandis que l’armée l’observait attentivement.
 
 Il prit son arc, le dégagea du fourreau et l’éleva tantôt à la hauteur de sa poitrine, tantôt jusqu’à sa tête ; il plaça, comme en se jouant, la flèche sur la corde et quand la pointe de la flèche ne dépassa plus le centre de l’arc, il lâcha le pouce : la flèche vint frapper dans le dos du roi, qui laissa échapper le fouet de sa main ; la flèche entière jusqu’aux plumes s’enfonça ensanglantée et la pointe sortit par le nombril.
 
 Ferayîn tomba de son destrier, la tête en avant et un torrent de sang jaillit de sa blessure ; il se tordit, et, couché sur la poussière noire, il poussa dans sa douleur un seul soupir de détresse.
 
--L’armée en vint aux mains, alors que la nuit sombre se levait sur cette plaine poudreuse : pendant toute la nuit on se frappa sans se reconnaître ; chacun recevait, chacun portait des coups, l’un mau-dissant, l’autre bénissant ce qui avait été fait.
+L’armée en vint aux mains, alors que la nuit sombre se levait sur cette plaine poudreuse : pendant toute la nuit on se frappa sans se reconnaître ; chacun recevait, chacun portait des coups, l’un maudissant, l’autre bénissant ce qui avait été fait.
 
 Lorsque le soleil semblable à du brocart jaune parut, mouchetant la montagne comme une peau de léopard, de nombreux combattants gisaient à terre tués ou blessés, cavaliers et chefs succombaient à la fatigue.
 
