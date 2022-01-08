@@ -34,7 +34,7 @@ Le messager arriva auprès du jeune roi lorsque la première nuit de la nouvelle
 
 Khosrou répondit :
 
-> Celui qui dévie, par emportement et manque de sagesse, de la voie de la raison et ne s’inquiète pas de ce qu’amène la roue du ciel sublime, passera une vie a sans bonheur ; le malheur dont tu me parles a beau être à mon avantage, il convertit pour moi en feu le sommeil et le manger.
+> Celui qui dévie, par emportement et manque de sagesse, de la voie de la raison et ne s’inquiète pas de ce qu’amène la roue du ciel sublime, passera une vie sans bonheur ; le malheur dont tu me parles a beau être à mon avantage, il convertit pour moi en feu le sommeil et le manger.
 >
 > Puisque mon père avait levé la main pour verser mon sang, je ne pouvais pas rester dans l’Iran ; mais aujourd’hui je suis envers lui comme un esclave, j’obéirai à chaque parole qu’il dira.
 
