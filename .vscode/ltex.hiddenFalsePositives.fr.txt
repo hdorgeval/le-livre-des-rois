@@ -291,3 +291,12 @@
 {"rule":"D_N","sentence":"^\\QPuisque Djoubineh a été perverti par le Div, comment pourrait-il reconnaître la voie de Dieu ?\\E$"}
 {"rule":"D_N","sentence":"^\\QNous avons devant nous une armée si bien ordonnée, avec un chef ardent pour le combat comme Djoubineh, un homme cruel comme le Div terrible, avec des troupes comme des loups qui hurlent.\\E$"}
 {"rule":"D_N","sentence":"^\\QQuand un hôte te donne de bonnes paroles, il faut être un Div pour répondre de cette façon.\\E$"}
+{"rule":"D_N","sentence":"^\\QLa raison a abandonné ton cerveau ; heureux l'homme illustre qui se nourrit de raison, mais tout Div qui sont approcher sa fin rdevient vantard dans ses discours.\\E$"}
+{"rule":"D_N","sentence":"^\\QLa raison a abandonné ton cerveau ; heureux l'homme illustre qui se nourrit de raison, mais tout Div qui sent approcher sa fin devient vantard dans ses discours.\\E$"}
+{"rule":"PORTER_FRUIT","sentence":"^\\QÔ maître lumineux de la justice, tu feras porter fruit à l'arbre de l'espoir.\\E$"}
+{"rule":"D_N","sentence":"^\\QÔ homme de l'enfer, esclave d'un Div odieux, homme dépourvu de raison, dépourvu de bonnes manières et de majesté !\\E$"}
+{"rule":"D_N","sentence":"^\\QC'est un Div cruel, irascible et violent qui t'a aveuglé ainsi.\\E$"}
+{"rule":"D_N","sentence":"^\\QÔ homme insensé, vif et possédé du Div !\\E$"}
+{"rule":"D_N","sentence":"^\\QTon père était un pieux maître du monde et n'a jamais jeté un souffle froid sur quelqu'un ; mais tu n'as pas compris la valeur d'un pareil homme, tu l'as ignominieusement privé du trône et tu prétends être maître du monde après lui, tu prétends être un homme de raison et de sens.\\E$"}
+{"rule":"D_N","sentence":"^\\QAucun homme de sens n'a pu te conseiller ainsi et je crois que tu t'es associé à un Div. »\\E$"}
+{"rule":"D_N","sentence":"^\\QAucun homme de sens n'a pu te conseiller ainsi et je crois que tu t'es associé à un Div.\\E$"}
