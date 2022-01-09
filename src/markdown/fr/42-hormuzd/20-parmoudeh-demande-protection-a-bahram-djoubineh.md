@@ -19,8 +19,7 @@ order: '020'
 
 Bahram dit :
 
-> C’est une faiblesse d’ajourner le
-> -e combat quand on est en campagne. »
+> C’est une faiblesse d’ajourner le combat quand on est en campagne. »
 
 Il ordonna à Yelan Sineh de choisir dans son camp trois mille cavaliers et à Ized Guschasp de faire monter à cheval quatre mille héros de cette vaillante armée et de frapper à la nuque sans aucun délai tous les Hollaliem qu’ils rencontreraient, dans l’espoir de faire sortir le roi de sa forteresse quand il verrait toute la plaine changée en un torrent de sang.
 
@@ -32,7 +31,9 @@ Il demeura ainsi pendant trois jours devant la porte du château et le quatrièm
 >
 > Qu’est devenue l’ambition de Saweh de conquérir le monde, où sont ses trésors et son pouvoir ?
 >
-> Où sont tous ces éléphants bardés de fer, où ces grands à l’esprit lucide?-Où sont Ces tours de magie et d’incantation, pour que tu te tiennes enfermé de cette façon ?
+> Où sont tous ces éléphants bardés de fer, où ces grands à l’esprit lucide ?
+>
+> Où sont ces tours de magie et d’incantation, pour que tu te tiennes enfermé de cette façon ?
 >
 > Tous les pays des Turcs ne lui suffisaient pas ; jamais il n’y a eu un homme comme ton père et toi tu es assis dans un château comme une femme, te frappant les joues avec tes deux mains sanglantes.
 >
@@ -40,7 +41,7 @@ Il demeura ainsi pendant trois jours devant la porte du château et le quatrièm
 >
 > Envoie hors du château tes trésors d’or, envoie sur la plaine toutes les caisses d’argent, ou, si tu veux garder tss trésors, tu ne conserveras pas le pays, sur un roi doit mépriser l’or.
 >
-> Je suis ton intermédiaire à la cour du roi, car je suis le héros du pays de l’Iran ; je te ferai grand au-dessus de tous les grands ; je ferai pour toi plus que tu ne penses et ne désires et si tu as un plan qui puisse aider à, rendre brillantes tes affaires embrouiilées, dévoile-le et confie-le-moi ; et puisque la position est telle, ne cherche pas à la prolonger.-Mais si tu as quelques amis qui veulent faire la guerre, si tu as beaucoup de trésors et d’or, alors fais battre les timbales, recommence les combats car quand on a de l’argent on ne manque jamais de troupes. »
+> Je suis ton intermédiaire à la cour du roi, car je suis le héros du pays de l’Iran ; je te ferai grand au-dessus de tous les grands ; je ferai pour toi plus que tu ne penses et ne désires et si tu as un plan qui puisse aider à, rendre brillantes tes affaires embrouiilées, dévoile-le et confie-le-moi ; et puisque la position est telle, ne cherche pas à la prolonger.-Mais si tu as quelques amis qui veulent faire la guerre, si tu as beaucoup de trésors et d’or, alors fais battre les timbales, recommence les combats, car quand on a de l’argent on ne manque jamais de troupes. »
 
 L’envoyé arriva et transmit son message ; Parmoudeh, qui cherchait à atteindre son but, répondit :
 
@@ -55,17 +56,17 @@ L’envoyé arriva et transmit son message ; Parmoudeh, qui cherchait à atteind
 > Mon père était un vigilant maître du momie, tu l’as vu au jour de la bataille ; la terre était l’esclave des sabots de son cheval, le ciel ne tournait que selon sa volonté ; mais il a recherché ce qu’il n’aurait pas dû rechercher, il a souffert pour avoir nourri des idées trompeuses.
 >
 > Le mérite disparait si l’on emploie des incantations et l’ennemi en rit de loin.
-
-Quand tu dis que le nombre de tes troupes est plus grand que celui des révolutions du soleil et de la lune, que tes destriers et tes éléphants sont comme les graines d’herbes que balaye le vent des ailes d’un moulin, cela durera jusqu’à ce que ton jour soit passé, car toi non plus tu ne resteras upas toujours heureux ni la lumière du monde.
-
-Ciains le sort, qui sème la vengeance ; il pourrait A convertir en poison ton bézoard.
-
-Tout homme dont l’occupation est de verser du sang, de remplir d’inquiétude le cœur de ses ennemis, sera tué de la même manière qu’il a versé le sang de ceux qui portaient haut la tête.
-
-Si tu dévastes le pays des Turcs, ils finiront par vouloir se venger de toi.
-
-Néanmoins, je n’irai pas te combattre sans une armée, car mes amis m’accuseraient de folie et je n’irai pas me présenter devant toi, quoique je ne craigne pas que tu me mettes à mort ; mais tu es un serviteur et moi je suis un roi : pourquoi m’ha-milierais-je devant un serviteur ?
-
-Si la nécessité me force de demander protection à ton roi, il n’y aura pas de honte et alors le château, mon trésor et mes hommes seront à toi et tu pourras, selon ton gré, occuper ce pays illustre. »
+>
+> Quand tu dis que le nombre de tes troupes est plus grand que celui des révolutions du soleil et de la lune, que tes destriers et tes éléphants sont comme les graines d’herbes que balaye le vent des ailes d’un moulin, cela durera jusqu’à ce que ton jour soit passé, car toi non plus tu ne resteras upas toujours heureux ni la lumière du monde.
+>
+> Crains le sort, qui sème la vengeance ; il pourrait convertir en poison ton bézoard.
+>
+> Tout homme dont l’occupation est de verser du sang, de remplir d’inquiétude le cœur de ses ennemis, sera tué de la même manière qu’il a versé le sang de ceux qui portaient haut la tête.
+>
+> Si tu dévastes le pays des Turcs, ils finiront par vouloir se venger de toi.
+>
+> Néanmoins, je n’irai pas te combattre sans une armée, car mes amis m’accuseraient de folie et je n’irai pas me présenter devant toi, quoique je ne craigne pas que tu me mettes à mort ; mais tu es un serviteur et moi je suis un roi : pourquoi m’ha-milierais-je devant un serviteur ?
+>
+> Si la nécessité me force de demander protection à ton roi, il n’y aura pas de honte et alors le château, mon trésor et mes hommes seront à toi et tu pourras, selon ton gré, occuper ce pays illustre. »
 
 L’envoyé s’en retourna et porta ce message à Bahram, qui en fut rempli de joie.
